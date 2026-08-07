@@ -153,44 +153,41 @@ async function main() {
 
   // Country-native sidecars are deliberately kept outside the large TS POI
   // sources. Merge only the fields needed by routing/index generation here.
-  const IT_NATIVE = new Map<string, Record<string, unknown>>();
-  const itDir = path.resolve(process.cwd(), "public", "data", "i18n", "it");
-  try {
-    if (fs.existsSync(itDir)) {
-      for (const file of fs.readdirSync(itDir)) {
-        if (!file.endsWith(".json")) continue;
-        const id = file.slice(0, -5);
-        const value = JSON.parse(fs.readFileSync(path.join(itDir, file), "utf-8"));
-        if (value && typeof value === "object") IT_NATIVE.set(id, value);
+  // These are the languages whose sidecar presence feeds a *Long flag below;
+  // `es` is absent because extraLangsFor() decides Spanish purely from the
+  // parent chain. If the sitemap claims a page the generator does not write,
+  // that is a 404 — so any language added here needs the matching entry in
+  // NATIVE_LANGS in scripts/generate-poi-html.mts.
+  const NATIVE_LANGS = ["it", "pt", "fr", "tr", "hr"] as const;
+  const NATIVE_SIDECARS = new Map<string, Map<string, Record<string, unknown>>>();
+  for (const lang of NATIVE_LANGS) {
+    const entries = new Map<string, Record<string, unknown>>();
+    const dir = path.resolve(process.cwd(), "public", "data", "i18n", lang);
+    try {
+      if (fs.existsSync(dir)) {
+        for (const file of fs.readdirSync(dir)) {
+          if (!file.endsWith(".json")) continue;
+          const value = JSON.parse(fs.readFileSync(path.join(dir, file), "utf-8"));
+          if (value && typeof value === "object") entries.set(file.slice(0, -5), value);
+        }
       }
+    } catch (error) {
+      console.warn(`[build-seo-index] ${lang} sidecar read warning: ${String(error)}`);
     }
-  } catch (error) {
-    console.warn(`[build-seo-index] Italian sidecar read warning: ${String(error)}`);
+    NATIVE_SIDECARS.set(lang, entries);
+    console.log(`[build-seo-index] ${lang}-native POIs: ${entries.size}`);
   }
-  console.log(`[build-seo-index] it-native POIs: ${IT_NATIVE.size}`);
-
-  const PT_NATIVE = new Map<string, Record<string, unknown>>();
-  const ptDir = path.resolve(process.cwd(), "public", "data", "i18n", "pt");
-  try {
-    if (fs.existsSync(ptDir)) {
-      for (const file of fs.readdirSync(ptDir)) {
-        if (!file.endsWith(".json")) continue;
-        const id = file.slice(0, -5);
-        const value = JSON.parse(fs.readFileSync(path.join(ptDir, file), "utf-8"));
-        if (value && typeof value === "object") PT_NATIVE.set(id, value);
-      }
-    }
-  } catch (error) {
-    console.warn(`[build-seo-index] Portuguese sidecar read warning: ${String(error)}`);
-  }
-  console.log(`[build-seo-index] pt-native POIs: ${PT_NATIVE.size}`);
+  const sidecarFor = (lang: string, id: string | undefined) =>
+    id ? NATIVE_SIDECARS.get(lang)?.get(id) : undefined;
 
   // Lite shape — only what slugs.ts / sitemap.ts / page generators need.
   const lite = finalPois.map((p) => {
-    const nativeIt = p.id ? IT_NATIVE.get(p.id) : undefined;
-    const nativeItName = typeof nativeIt?.name === "string" ? nativeIt.name : undefined;
-    const nativePt = p.id ? PT_NATIVE.get(p.id) : undefined;
-    const nativePtName = typeof nativePt?.name === "string" ? nativePt.name : undefined;
+    // Native names feed the URL slug, so only it/pt take them from the sidecar —
+    // that is their established behaviour. Adding fr/tr/hr/es here would rewrite
+    // the slugs of pages that already rank, so those languages get the flag only
+    // and keep their existing URL; the native name still renders on the page.
+    const nativeItName = typeof sidecarFor("it", p.id)?.name === "string" ? (sidecarFor("it", p.id)!.name as string) : undefined;
+    const nativePtName = typeof sidecarFor("pt", p.id)?.name === "string" ? (sidecarFor("pt", p.id)!.name as string) : undefined;
     const nativeNames = {
       ...(nativeItName ? { it: nativeItName } : {}),
       ...(nativePtName ? { pt: nativePtName } : {}),
@@ -201,11 +198,11 @@ async function main() {
       parent: p.parent,
       coords: p.coords,
       image: p.image,
-      frLong: longLang(p, "fr"),
-      trLong: longLang(p, "tr"),
-      hrLong: HR_NATIVE_IDS.has(p.id),
-      itLong: Boolean(nativeIt),
-      ptLong: Boolean(nativePt),
+      frLong: longLang(p, "fr") || Boolean(sidecarFor("fr", p.id)),
+      trLong: longLang(p, "tr") || Boolean(sidecarFor("tr", p.id)),
+      hrLong: HR_NATIVE_IDS.has(p.id) || Boolean(sidecarFor("hr", p.id)),
+      itLong: Boolean(sidecarFor("it", p.id)),
+      ptLong: Boolean(sidecarFor("pt", p.id)),
       coa: p.coa,
       name: Object.keys(nativeNames).length ? { ...(p.name || {}), ...nativeNames } : p.name,
       hasIndexable: hasIndexable(p),

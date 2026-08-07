@@ -29,14 +29,26 @@ def data_root(repo: Path) -> Path:
     return generated if generated.is_dir() else repo / "data"
 
 
-def country_ids(data: Path, country_slug: str) -> set[str]:
+def country_ids(data: Path, country_slug: str, rendered_lang: str | None = None) -> set[str]:
+    """POIs of a country, optionally only those that already render in `rendered_lang`.
+
+    The url-index is written from the pages the generator actually wrote, so a
+    language key present here means the page exists. fr/tr/hr are narrower than
+    their country: extraLangsFor() gates fr on an FR-* parent, tr on DE-*, and hr
+    on hr-native content. Queueing the whole country would translate strings for
+    pages that are never written.
+    """
     index = load_json(data / "_poi-url-index.json", {})
-    return {
-        poi_id
-        for poi_id, urls in index.items()
-        if len(str((urls or {}).get("en", "")).split("/")) > 2
-        and str((urls or {}).get("en", "")).split("/")[2] == country_slug
-    }
+    ids = set()
+    for poi_id, urls in index.items():
+        urls = urls or {}
+        parts = str(urls.get("en", "")).split("/")
+        if len(parts) <= 2 or parts[2] != country_slug:
+            continue
+        if rendered_lang and not str(urls.get(rendered_lang, "")).strip():
+            continue
+        ids.add(poi_id)
+    return ids
 
 
 def load_faqs(data: Path) -> dict:
@@ -308,6 +320,13 @@ def main() -> int:
         choices=("full", "missing-descadv", "missing-citytips-structured"),
         default="full",
     )
+    parser.add_argument(
+        "--only-rendered",
+        action="store_true",
+        help="Restrict to POIs that already have a page in the target language "
+             "(url-index key). Use for fr/tr/hr, whose page set is narrower than "
+             "their country; omit when bootstrapping a language with no pages yet.",
+    )
     args = parser.parse_args()
     if args.language not in LANG_KEYS:
         raise SystemExit(f"Unknown language key {args.language}")
@@ -316,11 +335,16 @@ def main() -> int:
     args.output_dir.mkdir(parents=True, exist_ok=True)
 
     data = data_root(repo)
-    ids = country_ids(data, args.country_slug)
+    ids = country_ids(data, args.country_slug, LANGUAGE if args.only_rendered else None)
     if not ids:
+        rendered_note = (
+            f" No page renders in '{LANGUAGE}' yet — drop --only-rendered to bootstrap."
+            if args.only_rendered else ""
+        )
         raise SystemExit(
             f"No {args.country_slug} POIs found under {repo}. "
             "Use the generated-data working tree, not a clean Git checkout."
+            + rendered_note
         )
     records, targets = [], {}
     if args.mode == "missing-descadv":
@@ -342,6 +366,7 @@ def main() -> int:
         "mode": args.mode,
         "country": args.country_slug,
         "language": LANGUAGE,
+        "onlyRendered": bool(args.only_rendered),
         "poiCount": len(ids),
         "existingSidecars": len(existing),
         "fileCounts": file_counts,

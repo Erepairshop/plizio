@@ -1,0 +1,143 @@
+name: Native Country Azure Translation
+
+# Language-parameterised twin of portuguese-azure-translation.yml. fr/tr/hr had
+# no translation path at all before this: their content lived inline in the POI
+# modules, so there was nowhere for an Azure run to land.
+
+on:
+  workflow_dispatch:
+    inputs:
+      language:
+        description: "Native language key"
+        type: choice
+        required: true
+        options: [fr, tr, hr]
+      mode:
+        description: "Translation queue"
+        type: choice
+        required: true
+        default: "full"
+        options: [full, missing-descadv, missing-citytips-structured]
+      limit:
+        description: "Pending batches to translate; 0 means all"
+        required: true
+        default: "2"
+
+concurrency:
+  group: native-country-azure-translation-${{ inputs.language }}
+  cancel-in-progress: false
+
+jobs:
+  translate:
+    runs-on: [self-hosted, vps-plizio]
+    timeout-minutes: 300
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Resolve language settings
+        id: lang
+        run: |
+          set -euo pipefail
+          # Every supported language MUST be listed: an unmapped code previously
+          # fell through to Italian and mistranslated a whole run.
+          case "${{ inputs.language }}" in
+            fr) SLUG=france;   POIS=FR.json; NAME="French" ;;
+            tr) SLUG=germany;  POIS=DE.json; NAME="Turkish" ;;
+            hr) SLUG=croatia;  POIS=HR.json; NAME="Croatian" ;;
+            *) echo "::error::No mapping for language ${{ inputs.language }}"; exit 1 ;;
+          esac
+          echo "slug=$SLUG" >> "$GITHUB_OUTPUT"
+          echo "pois=$POIS" >> "$GITHUB_OUTPUT"
+          echo "name=$NAME" >> "$GITHUB_OUTPUT"
+          echo "work=/home/erik/plizio-translations/${{ inputs.language }}-${{ inputs.mode }}-20260807" >> "$GITHUB_OUTPUT"
+
+      - name: Build deterministic queue
+        run: |
+          set -euo pipefail
+          WORK="${{ steps.lang.outputs.work }}"
+          SOURCE_REPO=/home/erik/plizio/current
+          POIS="${{ steps.lang.outputs.pois }}"
+          if [ ! -s "$SOURCE_REPO/data/_poi-url-index.json" ] || [ ! -s "$SOURCE_REPO/data/pois/$POIS" ]; then
+            echo "::error::Generated Plizio data is missing from $SOURCE_REPO"
+            exit 1
+          fi
+          mkdir -p "$WORK"
+          # --only-rendered: fr renders only for FR-* parents, tr for DE-*, hr for
+          # hr-native POIs. Without it we would pay for strings whose page is
+          # never written.
+          python3 scripts/native-rollout/build-country-queue.py \
+            --repo "$SOURCE_REPO" --output-dir "$WORK" \
+            --language "${{ inputs.language }}" \
+            --country-slug "${{ steps.lang.outputs.slug }}" \
+            --pois-file "$POIS" \
+            --mode "${{ inputs.mode }}" \
+            --only-rendered
+          cat "$WORK/summary.json"
+
+      - name: Translate through Azure OpenAI
+        env:
+          BATCH_LIMIT: ${{ inputs.limit }}
+        run: |
+          set -euo pipefail
+          WORK="${{ steps.lang.outputs.work }}"
+          set -a
+          source /home/erik/plizio-audits/poi-only-technical-20260731/.azure-openai.env
+          set +a
+          python3 scripts/native-rollout/run-azure-translation.py \
+            --queue "$WORK/queue.json" \
+            --output "$WORK/results.jsonl" \
+            --limit "$BATCH_LIMIT" \
+            --workers 4 \
+            --rpm 9 \
+            --language-name "${{ steps.lang.outputs.name }}"
+
+      - name: Persist run summary
+        if: always()
+        run: |
+          set -euo pipefail
+          WORK="${{ steps.lang.outputs.work }}"
+          [ -s "$WORK/queue.json" ] || { echo "no queue built"; exit 0; }
+          python3 - "$WORK" <<'PY'
+          import json, sys
+          from pathlib import Path
+          root = Path(sys.argv[1])
+          queue = json.loads((root / "queue.json").read_text())
+          rows = []
+          if (root / "results.jsonl").exists():
+              for line in (root / "results.jsonl").read_text(encoding="utf-8").splitlines():
+                  try: rows.append(json.loads(line))
+                  except json.JSONDecodeError: pass
+          latest = {row.get("id"): row for row in rows}
+          valid = [row for row in latest.values() if row.get("status") == "completed"]
+          usage = {key: sum(int((row.get("usage") or {}).get(key, 0) or 0) for row in valid)
+                   for key in ("input_tokens", "output_tokens", "total_tokens")}
+          summary = {"batches": len(queue), "completed": len(valid),
+                     "errors": sum(row.get("status") == "error" for row in latest.values()), "usage": usage}
+          (root / "run-summary.json").write_text(json.dumps(summary, indent=2) + "\n")
+          queue_by_id = {batch["id"]: batch["items"] for batch in queue}
+          sample = []
+          for row in valid[-2:]:
+              source = queue_by_id.get(row.get("id"), {})
+              translated = row.get("translations") or {}
+              sample.append({
+                  "id": row.get("id"),
+                  "items": [
+                      {"key": key, "source": value, "translation": translated.get(key)}
+                      for key, value in list(source.items())[:8]
+                  ],
+              })
+          (root / "translation-sample.json").write_text(
+              json.dumps(sample, ensure_ascii=False, indent=2) + "\n", encoding="utf-8"
+          )
+          print(json.dumps(summary))
+          PY
+
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: native-country-${{ inputs.language }}-${{ inputs.mode }}-status
+          path: |
+            /home/erik/plizio-translations/${{ inputs.language }}-${{ inputs.mode }}-20260807/summary.json
+            /home/erik/plizio-translations/${{ inputs.language }}-${{ inputs.mode }}-20260807/run-summary.json
+            /home/erik/plizio-translations/${{ inputs.language }}-${{ inputs.mode }}-20260807/translation-sample.json
+          if-no-files-found: warn

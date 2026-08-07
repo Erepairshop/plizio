@@ -248,12 +248,11 @@ try {
     if (fs.existsSync(fp)) FAQS = JSON.parse(fs.readFileSync(fp, "utf-8"));
   }
 } catch {}
-// hr FAQ is a separate native set (different questions), populated from the
-// poi-hr-native.json merge below; renderFAQ uses it for lang === "hr".
-const HR_FAQS: Record<string, FAQItem[]> = {};
-const IT_FAQS: Record<string, FAQItem[]> = {};
-const ES_FAQS: Record<string, FAQItem[]> = {};
-const PT_FAQS: Record<string, FAQItem[]> = {};
+// Native FAQ sets are separate from the 4-lang FAQS: a native run writes its own
+// questions rather than translating the shared ones, so renderFAQ prefers the
+// native set for that language and falls back to FAQS. Populated by the
+// poi-hr-native.json merge and the i18n sidecar merge below.
+const NATIVE_FAQS: Partial<Record<Lang, Record<string, FAQItem[]>>> = {};
 
 // Climate sidecar — 12-month normals (mean/max temp, precip mm) per 0.5° grid
 // cell (NASA POWER climatology). SSR "best time to visit" block; non-duplicate,
@@ -350,13 +349,7 @@ function pickFaqStr(o: Record<string, unknown> | undefined, lang: Lang): string 
   return "";
 }
 function renderFAQ(poi: POI, lang: Lang): string {
-  const items = lang === "pt" && PT_FAQS[poi.id]
-    ? PT_FAQS[poi.id]
-    : lang === "es" && ES_FAQS[poi.id]
-    ? ES_FAQS[poi.id]
-    : lang === "it" && IT_FAQS[poi.id]
-      ? IT_FAQS[poi.id]
-    : (lang === "hr" && HR_FAQS[poi.id]) ? HR_FAQS[poi.id] : FAQS[poi.id];
+  const items = NATIVE_FAQS[lang]?.[poi.id] ?? FAQS[poi.id];
   if (!items || items.length === 0) return "";
   const heading: Record<string, string> = {
     de: "Häufige Fragen", hu: "Gyakori kérdések", ro: "Întrebări frecvente",
@@ -557,6 +550,19 @@ try {
 const allById = new Map<string, POI>(pois.filter(p => p?.id).map(p => [p.id, p]));
 type Lang = "de" | "hu" | "ro" | "en" | "fr" | "tr" | "hr" | "it" | "es" | "pt";
 
+// Native language → the country whose POIs may carry it. Single source of truth
+// for the sidecar merges below; keep in sync with extraLangsFor() in lib/seo/slugs
+// and with NATIVE_LANGS in scripts/build-seo-index.mts, or the sitemap and the
+// generator disagree about which pages exist (that mismatch is how 404s appear).
+const NATIVE_LANGS = [
+  ["it", "italy"],
+  ["es", "spain"],
+  ["pt", "portugal"],
+  ["fr", "france"],
+  ["tr", "germany"],
+  ["hr", "croatia"],
+] as const satisfies ReadonlyArray<readonly [Lang, string]>;
+
 // hr = native Croatian: merge the poi-hr-native.json sidecar INTO each POI's
 // Record<Lang> fields (name/description/descriptionAdvanced/facts/sights) + faq, so
 // the existing per-lang render picks up hr via v[lang]. Keeps the heavy TS files clean.
@@ -578,7 +584,7 @@ try {
         p.sights.hr = hr.sights.map((s) => ({ name: s.name, desc: s.desc, text: s.desc || "" }));
       }
       if (Array.isArray(hr.faq) && hr.faq.length) {
-        HR_FAQS[poi.id] = hr.faq.map((f) => ({ q: { hr: f.q } as any, a: { hr: f.a } as any }));
+        (NATIVE_FAQS.hr ||= {})[poi.id] = hr.faq.map((f) => ({ q: { hr: f.q } as any, a: { hr: f.a } as any }));
       }
       p.hrLong = true;
       merged++;
@@ -589,104 +595,45 @@ try {
   console.log(`[generate-poi-html] hr-native merge skipped: ${e?.message?.slice(0, 80)}`);
 }
 
-// Italian is country-scoped. Sidecars keep the native corpus out of the heavy
-// TypeScript POI modules while exposing it through the normal language renderer.
-try {
-  const itDir = path.resolve(process.cwd(), "public", "data", "i18n", "it");
-  if (fs.existsSync(itDir)) {
+// Country-scoped native languages. Sidecars keep the native corpus out of the
+// heavy TypeScript POI modules while exposing it through the normal per-lang
+// renderer. `fr` and `tr` previously had no sidecar path at all — their content
+// lived inline in the POI modules only — so an Azure run had nowhere to land.
+// The `hr` entry runs after the flat poi-hr-native.json merge above, letting a
+// sidecar override that older corpus field by field.
+for (const [lang, countryId] of NATIVE_LANGS) {
+  try {
+    const dir = path.resolve(process.cwd(), "public", "data", "i18n", lang);
+    if (!fs.existsSync(dir)) continue;
     let merged = 0;
     for (const poi of pois) {
-      if (!poi.parent || slugs.getCountryIdStrict(poi.parent) !== "italy") continue;
-      const itPath = path.join(itDir, `${poi.id}.json`);
-      if (!fs.existsSync(itPath)) continue;
-      const it = JSON.parse(fs.readFileSync(itPath, "utf-8")) as {
+      // Country id, not an ISO prefix: native POIs sit under semantic parents
+      // such as `france`, `city-lyon` or `reg-bretagne` too.
+      if (!poi.parent || slugs.getCountryIdStrict(poi.parent) !== countryId) continue;
+      const file = path.join(dir, `${poi.id}.json`);
+      if (!fs.existsSync(file)) continue;
+      const native = JSON.parse(fs.readFileSync(file, "utf-8")) as {
         name?: string; description?: string; descAdv?: string;
         descriptionAdvanced?: string; facts?: string[];
         sights?: { sourceName?: string; name?: string; desc?: string }[];
         faq?: { q: string; a: string }[];
       };
       const p = poi as unknown as Record<string, any>;
-      if (it.name) { p.name = p.name || {}; p.name.it = it.name; }
-      if (it.description) { p.description = p.description || {}; p.description.it = it.description; }
-      const advanced = it.descriptionAdvanced || it.descAdv;
-      if (advanced) { p.descriptionAdvanced = p.descriptionAdvanced || {}; p.descriptionAdvanced.it = advanced; }
-      if (Array.isArray(it.facts) && it.facts.length) { p.facts = p.facts || {}; p.facts.it = it.facts; }
-      if (Array.isArray(it.faq) && it.faq.length) {
-        IT_FAQS[poi.id] = it.faq.map((f) => ({ q: { it: f.q }, a: { it: f.a } }));
+      if (native.name) { p.name = p.name || {}; p.name[lang] = native.name; }
+      if (native.description) { p.description = p.description || {}; p.description[lang] = native.description; }
+      const advanced = native.descriptionAdvanced || native.descAdv;
+      if (advanced) { p.descriptionAdvanced = p.descriptionAdvanced || {}; p.descriptionAdvanced[lang] = advanced; }
+      if (Array.isArray(native.facts) && native.facts.length) { p.facts = p.facts || {}; p.facts[lang] = native.facts; }
+      if (Array.isArray(native.faq) && native.faq.length) {
+        (NATIVE_FAQS[lang] ||= {})[poi.id] = native.faq.map((f) => ({ q: { [lang]: f.q }, a: { [lang]: f.a } }));
       }
-      p.itLong = true;
+      p[`${lang}Long`] = true;
       merged++;
     }
-    console.log(`[generate-poi-html] it-native merged into ${merged} POIs`);
+    console.log(`[generate-poi-html] ${lang}-native merged into ${merged} POIs`);
+  } catch (e: any) {
+    console.log(`[generate-poi-html] ${lang}-native merge skipped: ${e?.message?.slice(0, 80)}`);
   }
-} catch (e: any) {
-  console.log(`[generate-poi-html] it-native merge skipped: ${e?.message?.slice(0, 80)}`);
-}
-
-// Spanish is country-scoped, using the same sidecar format as Italian.
-try {
-  const esDir = path.resolve(process.cwd(), "public", "data", "i18n", "es");
-  if (fs.existsSync(esDir)) {
-    let merged = 0;
-    for (const poi of pois) {
-      if (!poi.parent || slugs.getCountryIdStrict(poi.parent) !== "spain") continue;
-      const esPath = path.join(esDir, `${poi.id}.json`);
-      if (!fs.existsSync(esPath)) continue;
-      const es = JSON.parse(fs.readFileSync(esPath, "utf-8")) as {
-        name?: string; description?: string; descAdv?: string;
-        descriptionAdvanced?: string; facts?: string[];
-        sights?: { sourceName?: string; name?: string; desc?: string }[];
-        faq?: { q: string; a: string }[];
-      };
-      const p = poi as unknown as Record<string, any>;
-      if (es.name) { p.name = p.name || {}; p.name.es = es.name; }
-      if (es.description) { p.description = p.description || {}; p.description.es = es.description; }
-      const advanced = es.descriptionAdvanced || es.descAdv;
-      if (advanced) { p.descriptionAdvanced = p.descriptionAdvanced || {}; p.descriptionAdvanced.es = advanced; }
-      if (Array.isArray(es.facts) && es.facts.length) { p.facts = p.facts || {}; p.facts.es = es.facts; }
-      if (Array.isArray(es.faq) && es.faq.length) {
-        ES_FAQS[poi.id] = es.faq.map((f) => ({ q: { es: f.q }, a: { es: f.a } }));
-      }
-      p.esLong = true;
-      merged++;
-    }
-    console.log(`[generate-poi-html] es-native merged into ${merged} POIs`);
-  }
-} catch (e: any) {
-  console.log(`[generate-poi-html] es-native merge skipped: ${e?.message?.slice(0, 80)}`);
-}
-
-// Portuguese is country-scoped, using the same sidecar format as Italian/Spanish.
-try {
-  const ptDir = path.resolve(process.cwd(), "public", "data", "i18n", "pt");
-  if (fs.existsSync(ptDir)) {
-    let merged = 0;
-    for (const poi of pois) {
-      if (!poi.parent || slugs.getCountryIdStrict(poi.parent) !== "portugal") continue;
-      const ptPath = path.join(ptDir, `${poi.id}.json`);
-      if (!fs.existsSync(ptPath)) continue;
-      const pt = JSON.parse(fs.readFileSync(ptPath, "utf-8")) as {
-        name?: string; description?: string; descAdv?: string;
-        descriptionAdvanced?: string; facts?: string[];
-        sights?: { sourceName?: string; name?: string; desc?: string }[];
-        faq?: { q: string; a: string }[];
-      };
-      const p = poi as unknown as Record<string, any>;
-      if (pt.name) { p.name = p.name || {}; p.name.pt = pt.name; }
-      if (pt.description) { p.description = p.description || {}; p.description.pt = pt.description; }
-      const advanced = pt.descriptionAdvanced || pt.descAdv;
-      if (advanced) { p.descriptionAdvanced = p.descriptionAdvanced || {}; p.descriptionAdvanced.pt = advanced; }
-      if (Array.isArray(pt.facts) && pt.facts.length) { p.facts = p.facts || {}; p.facts.pt = pt.facts; }
-      if (Array.isArray(pt.faq) && pt.faq.length) {
-        PT_FAQS[poi.id] = pt.faq.map((f) => ({ q: { pt: f.q }, a: { pt: f.a } }));
-      }
-      p.ptLong = true;
-      merged++;
-    }
-    console.log(`[generate-poi-html] pt-native merged into ${merged} POIs`);
-  }
-} catch (e: any) {
-  console.log(`[generate-poi-html] pt-native merge skipped: ${e?.message?.slice(0, 80)}`);
 }
 
 // Merge OSM-extra sights (public/data/_sights_extra.json) into THIN POIs that
@@ -744,7 +691,7 @@ if (Object.keys(SIGHTS_EXTRA).length) {
 // Native sight translations are extracted from the already-cleaned English HTML.
 // Merge them after the common clean pass so translated cards retain coordinates,
 // categories, Street View availability and internal-link metadata from the source.
-for (const [lang, countryId] of [["it", "italy"], ["es", "spain"], ["pt", "portugal"]] as const) {
+for (const [lang, countryId] of NATIVE_LANGS) {
   const dir = path.resolve(process.cwd(), "public", "data", "i18n", lang);
   if (!fs.existsSync(dir)) continue;
   let merged = 0;
@@ -3378,13 +3325,7 @@ function renderHtml(poi: POI, lang: Lang): string | null {
     }
   };
   // 1) sharded FAQS (primary, LLM-authored) — same source renderFAQ used.
-  const _shardFaqs = lang === "pt" && PT_FAQS[poi.id]
-    ? PT_FAQS[poi.id]
-    : lang === "es" && ES_FAQS[poi.id]
-    ? ES_FAQS[poi.id]
-    : lang === "it" && IT_FAQS[poi.id]
-      ? IT_FAQS[poi.id]
-    : (lang === "hr" && HR_FAQS[poi.id]) ? HR_FAQS[poi.id] : FAQS[poi.id];
+  const _shardFaqs = NATIVE_FAQS[lang]?.[poi.id] ?? FAQS[poi.id];
   if (Array.isArray(_shardFaqs)) for (const it of _shardFaqs) _pushFaq(pickFaqStr(it.q, lang), pickFaqStr(it.a, lang));
   // 2) inline poi.faq (legacy/embedded).
   if (Array.isArray(poi.faq)) {

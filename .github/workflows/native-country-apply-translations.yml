@@ -1,0 +1,86 @@
+name: Native Country Apply Translations
+
+# Applies a completed native-country-azure-translation queue into
+# public/data/i18n/<language>/. Kept separate from the translation run so a
+# queue can be inspected before anything is written.
+
+on:
+  workflow_dispatch:
+    inputs:
+      language:
+        description: "Native language key"
+        type: choice
+        required: true
+        options: [fr, tr, hr]
+      mode:
+        description: "Which completed queue to apply"
+        type: choice
+        required: true
+        default: "full"
+        options: [full, missing-descadv, missing-citytips-structured]
+      write:
+        description: "Write files (false = dry-run)"
+        type: choice
+        required: true
+        default: "false"
+        options: ["false", "true"]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: native-country-apply-${{ inputs.language }}
+  cancel-in-progress: false
+
+jobs:
+  apply:
+    runs-on: [self-hosted, vps-plizio]
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Apply translations
+        run: |
+          set -euo pipefail
+          # Same work-dir layout the translation workflow writes.
+          WORK="/home/erik/plizio-translations/${{ inputs.language }}-${{ inputs.mode }}-20260807"
+          if [ ! -s "$WORK/manifest.json" ] || [ ! -s "$WORK/results.jsonl" ]; then
+            echo "::error::No completed queue at $WORK — run the translation workflow first."
+            exit 1
+          fi
+          FLAGS=""
+          [ "${{ inputs.write }}" = "true" ] && FLAGS="--write"
+          python3 scripts/native-rollout/apply-country-translations.py \
+            --repo . --work-dir "$WORK" --language "${{ inputs.language }}" $FLAGS
+
+      - name: Validate written JSON
+        if: inputs.write == 'true'
+        run: |
+          set -euo pipefail
+          DIR="public/data/i18n/${{ inputs.language }}"
+          COUNT=$(find "$DIR" -name '*.json' | wc -l)
+          echo "${{ inputs.language }} sidecars: $COUNT"
+          find "$DIR" -name '*.json' -print0 \
+            | xargs -0 -n1 -P4 python3 -c 'import json,sys; json.load(open(sys.argv[1],encoding="utf-8"))'
+          # No `| head` here: git dies on SIGPIPE and the step fails under `set -e`.
+          CHANGED=$(git status --porcelain | wc -l)
+          git status --porcelain > /tmp/native-apply-changed.txt
+          sed -n '1,20p' /tmp/native-apply-changed.txt
+          echo "changed files: $CHANGED"
+
+      - name: Commit sidecars
+        if: inputs.write == 'true'
+        run: |
+          set -euo pipefail
+          git config user.name "plizio-azure-bot"
+          git config user.email "borota25@gmail.com"
+          git add "public/data/i18n/${{ inputs.language }}"
+          if git diff --cached --quiet; then
+            echo "No translation changes"
+            exit 0
+          fi
+          git commit -m "content(i18n): apply ${{ inputs.language }} native translations (${{ inputs.mode }})"
+          git pull --rebase origin ${GITHUB_REF_NAME}
+          git push origin HEAD:${GITHUB_REF_NAME}
