@@ -54,13 +54,22 @@ jobs:
             --manifest "$WORK/manifest.json" --results "$WORK/results.jsonl" \
             --output public/data/sight-description-overrides.json
           python3 -m json.tool public/data/sight-description-overrides.json >/dev/null
+          python3 - <<'PY'
+          import json
+          from pathlib import Path
+          override = json.loads(Path('public/data/sight-description-overrides.json').read_text())
+          hr = json.loads(Path('public/data/poi-hr-native.json').read_text())
+          ids = sorted(set(override) | set(hr))
+          Path('public/data/_sight-descriptions-deploy.txt').write_text('\n'.join(ids) + '\n')
+          print(f"Deploy list: {len(ids)} POIs")
+          PY
 
       - name: Commit generated override
         run: |
           set -euo pipefail
           git config user.name "plizio-azure-bot"
           git config user.email "borota25@gmail.com"
-          git add public/data/sight-description-overrides.json
+          git add public/data/sight-description-overrides.json public/data/_sight-descriptions-deploy.txt
           if git diff --cached --quiet; then
             echo "No description changes"
             exit 0
