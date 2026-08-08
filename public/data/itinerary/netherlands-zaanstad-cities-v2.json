@@ -21,7 +21,8 @@
             "de": "Inntel Hotels Zaandam",
             "hu": "Inntel Hotels Zaandam",
             "ro": "Inntel Hotels Zaandam",
-            "en": "Inntel Hotels Zaandam"
+            "en": "Inntel Hotels Zaandam",
+            "nl": "Inntel Hotels Zaandam"
           },
           "coords": [
             4.829,
@@ -36,7 +37,8 @@
             "de": "Das ikonische Gebäude ist ein Muss für Fotos. Die beste Aussicht hat man von der Brücke.",
             "hu": "Ez az ikonikus épület egy kötelező fotómegálló. A legjobb kilátás a hídról nyílik.",
             "ro": "Clădirea iconică este o oprire obligatorie pentru fotografii. Cea mai bună priveliște este de pe pod.",
-            "en": "The iconic building is a must for photos. The best view is from the bridge."
+            "en": "The iconic building is a must for photos. The best view is from the bridge.",
+            "nl": "Het iconische gebouw is een must voor foto’s. Het beste uitzicht is vanaf de brug."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Zar-Peter-Haus",
             "hu": "Cár Péter Ház",
             "ro": "Casa Țarului Petru",
-            "en": "Tsar Peter House"
+            "en": "Tsar Peter House",
+            "nl": "Tsaar Peter Huis"
           },
           "coords": [
             4.825,
@@ -59,7 +62,8 @@
             "de": "Eines der ältesten Holzhäuser der Niederlande. Kaufen Sie Tickets online, um Wartezeiten zu vermeiden.",
             "hu": "Hollandia egyik legrégebbi faháza. Vegyen jegyet online, hogy elkerülje a sorban állást.",
             "ro": "Una dintre cele mai vechi case de lemn din Olanda. Cumpărați bilete online pentru a evita cozile.",
-            "en": "One of the oldest wooden houses in the Netherlands. Buy tickets online to avoid queues."
+            "en": "One of the oldest wooden houses in the Netherlands. Buy tickets online to avoid queues.",
+            "nl": "Een van de oudste houten huizen in Nederland. Koop kaartjes online om wachtrijen te vermijden."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Bullekerk",
             "hu": "Bullekerk templom",
             "ro": "Biserica Bullekerk",
-            "en": "Bullekerk Church"
+            "en": "Bullekerk Church",
+            "nl": "Bullekerk"
           },
           "coords": [
             4.823,
@@ -82,7 +87,8 @@
             "de": "Prüfen Sie den Veranstaltungskalender; in dieser ehemaligen Kirche finden oft Konzerte statt.",
             "hu": "Nézze meg az eseménynaptárt; ebben a korábbi templomban gyakran tartanak koncerteket.",
             "ro": "Verificați calendarul de evenimente; concerte au loc adesea în această fostă biserică.",
-            "en": "Check the events calendar; concerts are often held in this former church."
+            "en": "Check the events calendar; concerts are often held in this former church.",
+            "nl": "Bekijk de evenementenkalender; er vinden vaak concerten plaats in deze voormalige kerk."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Monet-Atelier",
             "hu": "Monet Műterem",
             "ro": "Atelierul Monet",
-            "en": "Monet Atelier"
+            "en": "Monet Atelier",
+            "nl": "Monet Atelier"
           },
           "coords": [
             4.835,
@@ -105,7 +112,8 @@
             "de": "Erleben Sie die Werke, die Monet in der Zaan-Region gemalt hat. Eine kleine, aber feine Ausstellung.",
             "hu": "Nézze meg azokat a műveket, amelyeket Monet a Zaan régióban festett. Kicsi, de lenyűgöző kiállítás.",
             "ro": "Experimentați lucrările pe care Monet le-a pictat în regiunea Zaan. O expoziție mică, dar impresionantă.",
-            "en": "Experience the works Monet painted in the Zaan region. A small but impressive exhibition."
+            "en": "Experience the works Monet painted in the Zaan region. A small but impressive exhibition.",
+            "nl": "Ervaar de werken die Monet in de Zaanstreek schilderde. Een kleine maar indrukwekkende tentoonstelling."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Zaan-Promenade",
             "hu": "Zaan-sétány",
             "ro": "Promenada Zaan",
-            "en": "Zaan Promenade"
+            "en": "Zaan Promenade",
+            "nl": "Zaanpromenade"
           },
           "coords": [
             4.83,
@@ -128,7 +137,8 @@
             "de": "Ideal für eine Mittagspause. Viele Cafés und Bänke mit Blick auf den Fluss.",
             "hu": "Ideális egy ebédszünetre. Sok kávézó és pad található folyóra néző kilátással.",
             "ro": "Ideal pentru o pauză de prânz. Multe cafenele și bănci cu vedere la râu.",
-            "en": "Ideal for a lunch break. Many cafes and benches with a view of the river."
+            "en": "Ideal for a lunch break. Many cafes and benches with a view of the river.",
+            "nl": "Ideaal voor een lunchpauze. Veel cafés en bankjes met uitzicht op de rivier."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Wilhelminapark",
             "hu": "Vilma park",
             "ro": "Parcul Wilhelmina",
-            "en": "Wilhelmina Park"
+            "en": "Wilhelmina Park",
+            "nl": "Wilhelminapark"
           },
           "coords": [
             4.815,
@@ -151,7 +162,8 @@
             "de": "Ein ruhiger Ort, um den Tag ausklingen zu lassen. Genießen Sie die Grünflächen und Teiche.",
             "hu": "Egy csendes hely a nap befejezéséhez. Élvezze a zöld területeket és a tavakat.",
             "ro": "Un loc liniștit pentru a încheia ziua. Bucurați-vă de spațiile verzi și iazuri.",
-            "en": "A quiet place to end the day. Enjoy the green spaces and ponds."
+            "en": "A quiet place to end the day. Enjoy the green spaces and ponds.",
+            "nl": "Een rustige plek om de dag af te sluiten. Geniet van het groen en de vijvers."
           }
         }
       ],
@@ -159,7 +171,8 @@
         "de": "Beginnen Sie Ihren Tag mit der modernen Architektur des Inntel Hotels, bevor Sie im Zar-Peter-Haus in die Geschichte eintauchen. Am Mittag genießen Sie die Kunst im Monet-Atelier nach einem Besuch der Bullekerk. Der Nachmittag lädt zu einem entspannten Spaziergang entlang der Zaan-Promenade ein. Beenden Sie Ihren Tag im ruhigen Wilhelminapark und lassen Sie die Eindrücke der Stadt auf sich wirken.",
         "hu": "Kezdje a napot az Inntel Hotel modern építészetével, majd merüljön el a történelemben a Cár Péter Háznál. Délben élvezze a művészetet a Monet Műteremben a Bullekerk meglátogatása után. A délután egy pihentető sétára hív a Zaan-sétányon. Fejezze be a napot a csendes Vilma parkban, és hagyja, hogy a város benyomásai hassanak önre.",
         "ro": "Începeți ziua cu arhitectura modernă a Hotelului Inntel înainte de a vă cufunda în istorie la Casa Țarului Petru. La prânz, bucurați-vă de artă la Atelierul Monet după o vizită la Biserica Bullekerk. După-amiaza vă invită la o plimbare relaxantă de-a lungul Promenadei Zaan. Încheiați ziua în liniștitul Parc Wilhelmina, lăsând impresiile orașului să vă pătrundă.",
-        "en": "Start your day with the modern architecture of the Inntel Hotel before diving into history at the Tsar Peter House. At noon, enjoy the art at the Monet Atelier after a visit to the Bullekerk. The afternoon invites you for a relaxing stroll along the Zaan Promenade. End your day in the quiet Wilhelmina Park, letting the city's impressions sink in."
+        "en": "Start your day with the modern architecture of the Inntel Hotel before diving into history at the Tsar Peter House. At noon, enjoy the art at the Monet Atelier after a visit to the Bullekerk. The afternoon invites you for a relaxing stroll along the Zaan Promenade. End your day in the quiet Wilhelmina Park, letting the city's impressions sink in.",
+        "nl": "Begin je dag met de moderne architectuur van het Inntel Hotel voordat je de geschiedenis induikt in het Tsaar Peter Huis. ’s Middags geniet je van kunst in het Monet Atelier na een bezoek aan de Bullekerk. De middag nodigt uit tot een ontspannen wandeling langs de Zaanpromenade. Sluit je dag af in het rustige Wilhelminapark en laat de indrukken van de stad bezinken."
       },
       "gastro_picks": {
         "de": [
@@ -343,6 +356,9 @@
         ],
         "en": [
           "Wear comfortable shoes as the center is compact and very walkable. Plan for extra time for photo stops, especially at the Inntel Hotel. Many museums are small, so it's wise to check their opening hours in advance. Enjoy a cup of coffee on the Zaan Promenade for an authentic local experience."
+        ],
+        "nl": [
+          "Draag comfortabele schoenen; het centrum is compact en goed te belopen. Plan extra tijd voor fotostops, vooral bij het Inntel Hotel. Veel musea zijn klein, dus controleer hun openingstijden van tevoren. Geniet van een kop koffie op de Zaanpromenade voor een authentieke lokale ervaring."
         ]
       },
       "variants": {
@@ -351,7 +367,8 @@
             "de": "Beginnen Sie am farbenfrohen Inntel Hotel, dessen Fassade auch bei grauem Himmel leuchtet. Der Vormittag gehört der Geschichte im Zar-Peter-Haus und der Bullekerk, die beide trockenen Unterschlupf bieten. Mittags lädt das Monet-Atelier zu künstlerischer Inspiration ein, während der Regen draußen an die Fenster trommelt. Den Nachmittag verbringen Sie in den überdachten Passagen der Zaan-Promenade, bevor der Tag im Wilhelmina Park gemütlich ausklingt.",
             "hu": "Kezdje a napot a színes Inntel Hotelnél, amelynek homlokzata szürke esőben is ragyog. A délelőtt a Péter cár ház és a Bullekerk felfedezésével telik, mindkettő kiváló menedék a záporok elől. Délben a Monet Műterem várja, ahol az eső kopogása mellett merülhet el a művészetben. Délután a Zaan-sétány fedett árkádjai alatt sétálhat, majd a Wilhelmina Park friss, eső utáni illatait élvezve zárhatja a napot.",
             "ro": "Începeți ziua la hotelul colorat Inntel, a cărui fațadă strălucește chiar și sub cerul gri. Dimineața este dedicată istoriei la Casa Țarului Petru și Bullekerk, ambele oferind adăpost uscat. La prânz, Atelierul Monet vă invită la inspirație artistică în timp ce ploaia bate în geamuri. Petreceți după-amiaza sub arcadele acoperite ale promenadei Zaan, înainte de a încheia ziua cu o plimbare revigorantă prin parcul Wilhelmina.",
-            "en": "Start your day at the colorful Inntel Hotel, whose facade shines even under grey skies. Spend the morning exploring the Tsar Peter House and Bullekerk, both providing dry refuge from the rain. At noon, the Monet Atelier offers artistic inspiration as raindrops drum on the windows. Spend the afternoon in the covered sections of the Zaan Promenade before ending the day enjoying the fresh, post-rain scents of Wilhelmina Park."
+            "en": "Start your day at the colorful Inntel Hotel, whose facade shines even under grey skies. Spend the morning exploring the Tsar Peter House and Bullekerk, both providing dry refuge from the rain. At noon, the Monet Atelier offers artistic inspiration as raindrops drum on the windows. Spend the afternoon in the covered sections of the Zaan Promenade before ending the day enjoying the fresh, post-rain scents of Wilhelmina Park.",
+            "nl": "Begin je dag bij het kleurrijke Inntel Hotel, waarvan de gevel ook bij grijs weer straalt. Breng de ochtend door met het verkennen van het Tsaar Peter Huis en de Bullekerk, beiden goede droge toevluchtsoorden bij regen. ’s Middags biedt het Monet Atelier artistieke inspiratie terwijl regendruppels op de ramen tikken. Breng de namiddag door in de overdekte gedeelten van de Zaanpromenade voordat je de dag afsluit met de frisse, natte geuren van het Wilhelminapark."
           },
           "stops": [
             {
@@ -360,7 +377,8 @@
                 "de": "Das LEGO-ähnliche Design bietet tolle Fotomotive bei Regen.",
                 "hu": "A LEGO-szerű homlokzat esőben is kiváló fotótéma.",
                 "ro": "Designul tip LEGO oferă cadre foto superbe chiar și pe ploaie.",
-                "en": "The LEGO-like design offers great photo opportunities in the rain."
+                "en": "The LEGO-like design offers great photo opportunities in the rain.",
+                "nl": "Het LEGO-achtige ontwerp biedt geweldige fotomogelijkheden bij regen."
               }
             },
             {
@@ -369,7 +387,8 @@
                 "de": "Perfekter Ort, um einen plötzlichen Schauer im Inneren abzuwarten.",
                 "hu": "Tökéletes hely egy hirtelen zápor kivárására a házon belül.",
                 "ro": "Locul perfect pentru a aștepta trecerea unei averse în interior.",
-                "en": "Perfect place to wait out a sudden shower inside the house."
+                "en": "Perfect place to wait out a sudden shower inside the house.",
+                "nl": "Perfecte plek om een plotselinge bui binnen uit te zitten."
               }
             },
             {
@@ -378,7 +397,8 @@
                 "de": "Bewundern Sie die Akustik, während es draußen regnet.",
                 "hu": "Csodálja meg az akusztikát, miközben kint esik az eső.",
                 "ro": "Admirați acustica în timp ce afară plouă.",
-                "en": "Admire the acoustics while it rains outside."
+                "en": "Admire the acoustics while it rains outside.",
+                "nl": "Bewonder de akoestiek terwijl het buiten regent."
               }
             },
             {
@@ -387,7 +407,8 @@
                 "de": "Gemütlicher Rückzugsort für Kunstliebhaber an nassen Tagen.",
                 "hu": "Hangulatos menedék a művészet kedvelőinek esős napokon.",
                 "ro": "Refugiu primitor pentru iubitorii de artă în zilele umede.",
-                "en": "Cozy retreat for art lovers on wet days."
+                "en": "Cozy retreat for art lovers on wet days.",
+                "nl": "Gezellige toevlucht voor kunstliefhebbers op natte dagen."
               }
             },
             {
@@ -396,7 +417,8 @@
                 "de": "Nutzen Sie die Vordächer der Geschäfte zum trockenen Bummeln.",
                 "hu": "Használja az üzletek előtetőit a száraz sétálgatáshoz.",
                 "ro": "Folosiți copertinele magazinelor pentru o plimbare uscată.",
-                "en": "Use the shop awnings for dry strolling along the water."
+                "en": "Use the shop awnings for dry strolling along the water.",
+                "nl": "Gebruik de luifels van winkels om droog langs het water te lopen."
               }
             },
             {
@@ -405,7 +427,8 @@
                 "de": "Gummistiefel sind für die Parkwege bei Regen empfehlenswert.",
                 "hu": "Esőben ajánlott a gumicsizma a parki ösvényekre.",
                 "ro": "Cizmele de gumă sunt recomandate pentru aleile parcului.",
-                "en": "Rubber boots are recommended for the park paths during rain."
+                "en": "Rubber boots are recommended for the park paths during rain.",
+                "nl": "Regenlaarzen worden aanbevolen voor de parkpaden tijdens regen."
               }
             }
           ],
@@ -437,6 +460,13 @@
               "Many waterfront cafes have covered and heated terraces.",
               "Take advantage of the short distances between museums in the city core.",
               "Watch out for slippery cobblestone sections in the side streets."
+            ],
+            "nl": [
+              "Een stevige paraplu is onmisbaar vanwege de wind langs de Zaan.",
+              "De winkelstraten in het centrum bieden goede bescherming tegen het weer.",
+              "Veel cafés aan het water hebben overdekte en verwarmde terrassen.",
+              "Profiteer van de korte afstanden tussen musea in het stadscentrum.",
+              "Let op gladde kasseienstroken in de zijstraatjes."
             ]
           }
         },
@@ -445,7 +475,8 @@
             "de": "Erleben Sie Zaandam im winterlichen Glanz, wenn die Lichter des Inntel Hotels besonders früh leuchten. Vormittags wärmen Sie sich im geschichtsträchtigen Zar-Peter-Haus auf, bevor Sie die Bullekerk besuchen. Mittags bietet das Monet-Atelier eine warme Zuflucht für Kunstfreunde. Der Nachmittag an der Zaan-Promenade ist geprägt von klarer Winterluft und dem Duft von heißem Kakao, bevor Sie die früh einsetzende Dämmerung im Wilhelmina Park genießen.",
             "hu": "Ismerje meg Zaandamot téli pompájában, amikor az Inntel Hotel fényei korán kigyúlnak. Délelőtt a történelmi Péter cár házban melegedhet fel, majd a Bullekerk felé veheti az irányt. Délben a Monet Műterem nyújt meleg menedéket a művészetkedvelőknek. A délutáni séta a Zaan-promenádon a friss téli levegőről és a forró kakaó illatáról szól, mielőtt a korai szürkületben a Wilhelmina Parkba érne.",
             "ro": "Experimentați Zaandam în splendoarea iernii, când luminile hotelului Inntel se aprind devreme. Dimineața vă încălziți în Casa Țarului Petru, plină de istorie, înainte de a vizita Bullekerk. La prânz, Atelierul Monet oferă un refugiu cald pentru iubitorii de artă. După-amiaza pe promenada Zaan este marcată de aerul curat de iarnă și mirosul de cacao fierbinte, înainte de a savura amurgul timpuriu în parcul Wilhelmina.",
-            "en": "Experience Zaandam in its winter glory, when the lights of the Inntel Hotel turn on early. In the morning, warm up inside the historic Tsar Peter House before visiting the Bullekerk. At noon, the Monet Atelier provides a warm sanctuary for art enthusiasts. The afternoon on the Zaan Promenade is filled with crisp winter air and the scent of hot cocoa, before enjoying the early dusk in Wilhelmina Park."
+            "en": "Experience Zaandam in its winter glory, when the lights of the Inntel Hotel turn on early. In the morning, warm up inside the historic Tsar Peter House before visiting the Bullekerk. At noon, the Monet Atelier provides a warm sanctuary for art enthusiasts. The afternoon on the Zaan Promenade is filled with crisp winter air and the scent of hot cocoa, before enjoying the early dusk in Wilhelmina Park.",
+            "nl": "Ervaar Zaandam in zijn winterse pracht, wanneer de lichten van het Inntel Hotel vroeg aangaan. Warm op in de ochtend in het historische Tsaar Peter Huis voordat je de Bullekerk bezoekt. ’s Middags biedt het Monet Atelier een warm toevluchtsoord voor kunstliefhebbers. De namiddag aan de Zaanpromenade is gevuld met frisse winterlucht en de geur van warme chocolademelk, waarna je geniet van de vroege schemering in het Wilhelminapark."
           },
           "stops": [
             {
@@ -454,7 +485,8 @@
                 "de": "Die Fassade wird am späten Nachmittag wunderschön beleuchtet.",
                 "hu": "A homlokzat késő délután gyönyörű kivilágítást kap.",
                 "ro": "Fațada este luminată superb spre sfârșitul după-amiezii.",
-                "en": "The facade is beautifully illuminated in the late afternoon."
+                "en": "The facade is beautifully illuminated in the late afternoon.",
+                "nl": "De gevel is in de late namiddag mooi verlicht."
               }
             },
             {
@@ -463,7 +495,8 @@
                 "de": "Das alte Holzhaus speichert die Kälte; ziehen Sie sich warm an.",
                 "hu": "A régi faház tartja a hideget; öltözzön fel melegen.",
                 "ro": "Casa veche de lemn păstrează frigul; îmbrăcați-vă bine.",
-                "en": "The old wooden house holds the cold; dress warmly inside."
+                "en": "The old wooden house holds the cold; dress warmly inside.",
+                "nl": "Het oude houten huis houdt de koude buiten; kleed je warm binnen."
               }
             },
             {
@@ -472,7 +505,8 @@
                 "de": "Genießen Sie die Stille und die Wärme in der Kirche.",
                 "hu": "Élvezze a csendet és a viszonylagos meleget a templomban.",
                 "ro": "Bucurați-vă de liniște și căldură în interiorul bisericii.",
-                "en": "Enjoy the silence and the relative warmth inside the church."
+                "en": "Enjoy the silence and the relative warmth inside the church.",
+                "nl": "Geniet van de stilte en de relatieve warmte in de kerk."
               }
             },
             {
@@ -481,7 +515,8 @@
                 "de": "Ein perfekter Ort zum Aufwärmen zwischen den Spaziergängen.",
                 "hu": "Tökéletes hely a felmelegedésre a séták között.",
                 "ro": "Un loc perfect pentru a vă încălzi între plimbări.",
-                "en": "A perfect spot to warm up between your walks."
+                "en": "A perfect spot to warm up between your walks.",
+                "nl": "Een perfecte plek om tussendoor op te warmen tijdens je wandelingen."
               }
             },
             {
@@ -490,7 +525,8 @@
                 "de": "Probieren Sie heiße niederländische Waffeln an einem der Stände.",
                 "hu": "Kóstolja meg a forró holland ostyát az egyik árusnál.",
                 "ro": "Gustați napolitane olandeze calde de la tarabele locale.",
-                "en": "Try some hot Dutch waffles from one of the local vendors."
+                "en": "Try some hot Dutch waffles from one of the local vendors.",
+                "nl": "Probeer warme Nederlandse wafels bij een van de lokale verkopers."
               }
             },
             {
@@ -499,7 +535,8 @@
                 "de": "Der Park ist ideal, um den Sonnenuntergang gegen 16:30 Uhr zu sehen.",
                 "hu": "A park ideális a naplemente megtekintéséhez 16:30 körül.",
                 "ro": "Parcul este ideal pentru a vedea apusul în jurul orei 16:30.",
-                "en": "The park is ideal for watching the sunset around 4:30 PM."
+                "en": "The park is ideal for watching the sunset around 4:30 PM.",
+                "nl": "Het park is ideaal om rond 16:30 uur de zonsondergang te bekijken."
               }
             }
           ],
@@ -531,6 +568,13 @@
               "Look for cafes with fireplaces for a cozy break.",
               "Hats and gloves are mandatory due to the damp cold.",
               "The city center is festively decorated during December."
+            ],
+            "nl": [
+              "Draag lagen kleding; de wind vanaf het water kan erg snijdend zijn.",
+              "De zon gaat in de winter soms al om 16:30 onder.",
+              "Zoek cafés met open haarden voor een gezellige pauze.",
+              "Mutsen en handschoenen zijn noodzakelijk vanwege de kille, vochtige kou.",
+              "Het stadscentrum is feestelijk versierd in december."
             ]
           }
         }
@@ -549,7 +593,8 @@
             "de": "Hembrugterrein",
             "hu": "Hembrugterrein",
             "ro": "Hembrugterrein",
-            "en": "Hembrugterrein"
+            "en": "Hembrugterrein",
+            "nl": "Hembrugterrein"
           },
           "coords": [
             4.82,
@@ -564,7 +609,8 @@
             "de": "Erkunden Sie dieses umfunktionierte Industriegebiet mit Galerien und Cafés. Sehr fahrradfreundlich.",
             "hu": "Fedezze fel ezt az átalakított ipari területet galériákkal és kávézókkal. Nagyon biciklibarát.",
             "ro": "Explorați această zonă industrială reconvertită cu galerii și cafenele. Foarte prietenoasă cu bicicletele.",
-            "en": "Explore this repurposed industrial area with galleries and cafes. Very bike-friendly."
+            "en": "Explore this repurposed industrial area with galleries and cafes. Very bike-friendly.",
+            "nl": "Verken dit herbestemde industrieterrein met galeries en cafés. Zeer fietsvriendelijk."
           }
         },
         {
@@ -572,7 +618,8 @@
             "de": "Zar-Peter-Haus",
             "hu": "Cár Péter Ház",
             "ro": "Casa Țarului Petru",
-            "en": "Tsar Peter House"
+            "en": "Tsar Peter House",
+            "nl": "Tsaar Peter Huis"
           },
           "coords": [
             4.825,
@@ -587,7 +634,8 @@
             "de": "Stellen Sie Ihr Fahrrad in der Nähe ab und treten Sie ein in die Geschichte.",
             "hu": "Parkolja le a biciklijét a közelben, és lépjen be a történelembe.",
             "ro": "Parcați bicicleta în apropiere și pășiți în istorie.",
-            "en": "Park your bike nearby and step into history."
+            "en": "Park your bike nearby and step into history.",
+            "nl": "Parkeer je fiets in de buurt en stap de geschiedenis in."
           }
         },
         {
@@ -595,7 +643,8 @@
             "de": "Inntel Hotels Zaandam",
             "hu": "Inntel Hotels Zaandam",
             "ro": "Inntel Hotels Zaandam",
-            "en": "Inntel Hotels Zaandam"
+            "en": "Inntel Hotels Zaandam",
+            "nl": "Inntel Hotels Zaandam"
           },
           "coords": [
             4.829,
@@ -610,7 +659,8 @@
             "de": "Eine schnelle Radtour für ein ikonisches Foto.",
             "hu": "Egy gyors biciklizés egy ikonikus fotóért.",
             "ro": "O plimbare rapidă cu bicicleta pentru o fotografie iconică.",
-            "en": "A quick bike ride for an iconic photo."
+            "en": "A quick bike ride for an iconic photo.",
+            "nl": "Een korte fietstocht voor een iconische foto."
           }
         },
         {
@@ -618,7 +668,8 @@
             "de": "Zaan-Promenade",
             "hu": "Zaan-sétány",
             "ro": "Promenada Zaan",
-            "en": "Zaan Promenade"
+            "en": "Zaan Promenade",
+            "nl": "Zaanpromenade"
           },
           "coords": [
             4.83,
@@ -633,7 +684,8 @@
             "de": "Perfekt für eine Mittagspause. Viele Fahrradständer vorhanden.",
             "hu": "Tökéletes egy ebédszünetre. Sok biciklitároló áll rendelkezésre.",
             "ro": "Perfect pentru o pauză de prânz. Multe parcări pentru biciclete disponibile.",
-            "en": "Perfect for a lunch break. Many bike racks available."
+            "en": "Perfect for a lunch break. Many bike racks available.",
+            "nl": "Perfect voor een lunchpauze. Voldoende fietsrekken aanwezig."
           }
         },
         {
@@ -641,7 +693,8 @@
             "de": "Monet-Atelier",
             "hu": "Monet Műterem",
             "ro": "Atelierul Monet",
-            "en": "Monet Atelier"
+            "en": "Monet Atelier",
+            "nl": "Monet Atelier"
           },
           "coords": [
             4.835,
@@ -656,7 +709,8 @@
             "de": "Lassen Sie sich inspirieren, wo Monet seine berühmten holländischen Landschaften malte.",
             "hu": "Merítsen ihletet ott, ahol Monet a híres holland tájképeit festette.",
             "ro": "Găsiți inspirație acolo unde Monet a pictat faimoasele sale peisaje olandeze.",
-            "en": "Get inspired where Monet painted his famous Dutch landscapes."
+            "en": "Get inspired where Monet painted his famous Dutch landscapes.",
+            "nl": "Laat je inspireren op de plek waar Monet zijn beroemde Nederlandse landschappen schilderde."
           }
         },
         {
@@ -664,7 +718,8 @@
             "de": "Zaanse Schans (Aussichtspunkt)",
             "hu": "Zaanse Schans (kilátópont)",
             "ro": "Zaanse Schans (punct de belvedere)",
-            "en": "Zaanse Schans (Viewpoint)"
+            "en": "Zaanse Schans (Viewpoint)",
+            "nl": "Zaanse Schans (Uitkijkpunt)"
           },
           "coords": [
             4.883,
@@ -679,7 +734,8 @@
             "de": "Radeln Sie für die klassische Windmühlen-Postkartenansicht. Die Fahrt entlang des Flusses ist wunderschön.",
             "hu": "Biciklizzen el a klasszikus, képeslapra illő szélmalom-látványért. A folyó menti út gyönyörű.",
             "ro": "Pedalați pentru priveliștea clasică de carte poștală cu mori de vânt. Plimbarea de-a lungul râului este superbă.",
-            "en": "Cycle up for the classic windmill postcard view. The ride along the river is beautiful."
+            "en": "Cycle up for the classic windmill postcard view. The ride along the river is beautiful.",
+            "nl": "Fiets omhoog voor het klassieke ansichtkaartzicht op de molens. De rit langs de rivier is prachtig."
           }
         }
       ],
@@ -687,7 +743,8 @@
         "de": "Starten Sie Ihre Radtour auf dem kreativen Hembrugterrein. Mittags erkunden Sie das historische Zentrum mit dem Zar-Peter-Haus und dem Inntel Hotel, gefolgt von einer Pause an der Zaan-Promenade. Am Nachmittag tauchen Sie im Monet-Atelier in die Kunst ein, bevor Sie zum Höhepunkt des Tages radeln: der malerischen Aussicht auf die Windmühlen von Zaanse Schans.",
         "hu": "Kezdje a biciklitúrát a kreatív Hembrugterrein területén. Délben fedezze fel a történelmi központot a Cár Péter Házzal és az Inntel Hotellel, majd tartson egy szünetet a Zaan-sétányon. Délután merüljön el a művészetben a Monet Műteremben, mielőtt a nap fénypontjához, a Zaanse Schans szélmalmainak festői látványához biciklizik.",
         "ro": "Începeți turul cu bicicleta la creativul Hembrugterrein. La prânz, explorați centrul istoric cu Casa Țarului Petru și Hotelul Inntel, urmată de o pauză pe Promenada Zaan. După-amiaza, cufundați-vă în artă la Atelierul Monet înainte de a pedala spre punctul culminant al zilei: priveliștea pitorească a morilor de vânt de la Zaanse Schans.",
-        "en": "Start your bike tour at the creative Hembrugterrein. At noon, explore the historic center with the Tsar Peter House and the Inntel Hotel, followed by a break on the Zaan Promenade. In the afternoon, immerse yourself in art at the Monet Atelier before cycling to the day's highlight: the picturesque view of the windmills at Zaanse Schans."
+        "en": "Start your bike tour at the creative Hembrugterrein. At noon, explore the historic center with the Tsar Peter House and the Inntel Hotel, followed by a break on the Zaan Promenade. In the afternoon, immerse yourself in art at the Monet Atelier before cycling to the day's highlight: the picturesque view of the windmills at Zaanse Schans.",
+        "nl": "Begin je fietstocht op het creatieve Hembrugterrein. Ga ’s middags naar het historische centrum met het Czaar Peterhuis en het Inntel Hotel, gevolgd door een pauze op de Zaanpromenade. In de namiddag dompel je jezelf onder in kunst in het Monet Atelier voordat je naar het hoogtepunt van de dag fietst: het pittoreske uitzicht op de molens van Zaanse Schans."
       },
       "gastro_picks": {
         "de": [
@@ -871,6 +928,9 @@
         ],
         "en": [
           "Rent a bike near the train station. The Netherlands is flat, but the wind can be a challenge; check the weather forecast. Use bike paths whenever possible; they are safe and well-maintained. Always lock your bike, even for short stops."
+        ],
+        "nl": [
+          "Huur een fiets bij het treinstation. Nederland is vlak, maar de wind kan een uitdaging zijn; check de weersverwachting. Gebruik waar mogelijk fietspaden; die zijn veilig en goed onderhouden. Sluit je fiets altijd af, ook bij korte stops."
         ]
       },
       "variants": {
@@ -879,7 +939,8 @@
             "de": "Eine Radtour im Regen erfordert die richtige Einstellung und Kleidung. Beginnen Sie am Hembrugterrein, wo die alten Industriehallen Schutz bieten. Radeln Sie zum Zar-Peter-Haus und dem Inntel Hotel, die beide markante Orientierungspunkte im Grau bieten. Nach einer Pause an der Zaan-Promenade führt der Weg zum Monet-Atelier. Den Abschluss bildet der Blick auf die Zaanse Schans, deren Mühlen im Regen besonders dramatisch wirken.",
             "hu": "Egy esős bringázáshoz megfelelő hozzáállás és ruházat kell. Kezdjen a Hembrugterrein területén, ahol a régi csarnokok védelmet nyújtanak. Tekerjen a Péter cár házhoz és az Inntel Hotelhez, amelyek biztos támpontok a szürkeségben. A Zaan-parti pihenő után látogasson el a Monet Műterembe. A napot a Zaanse Schans látványa zárja, ahol a malmok az esőben különösen drámaiak.",
             "ro": "O plimbare cu bicicleta pe ploaie necesită atitudinea și echipamentul potrivite. Începeți la Hembrugterrein, unde vechile hale oferă adăpost. Pedalați spre Casa Țarului Petru și hotelul Inntel, puncte de reper clare în griul zilei. După o pauză pe promenada Zaan, drumul duce la Atelierul Monet. Finalul este oferit de vederea spre Zaanse Schans, ale cărei mori par dramatice pe ploaie.",
-            "en": "A bike tour in the rain requires the right mindset and gear. Start at Hembrugterrein, where old industrial halls provide shelter. Cycle to the Tsar Peter House and the Inntel Hotel, both striking landmarks in the grey. After a break at the Zaan Promenade, the path leads to the Monet Atelier. The day concludes with a view of Zaanse Schans, where the windmills look particularly dramatic in the rain."
+            "en": "A bike tour in the rain requires the right mindset and gear. Start at Hembrugterrein, where old industrial halls provide shelter. Cycle to the Tsar Peter House and the Inntel Hotel, both striking landmarks in the grey. After a break at the Zaan Promenade, the path leads to the Monet Atelier. The day concludes with a view of Zaanse Schans, where the windmills look particularly dramatic in the rain.",
+            "nl": "Een fietstocht in de regen vraagt de juiste instelling en uitrusting. Begin op het Hembrugterrein, waar oude industriehallen beschutting bieden. Fiets naar het Czaar Peterhuis en het Inntel Hotel, beide opvallende landmarks in het grijs. Na een pauze bij de Zaanpromenade leidt het pad naar het Monet Atelier. De dag eindigt met een zicht op Zaanse Schans, waar de molens in de regen extra dramatisch ogen."
           },
           "stops": [
             {
@@ -888,7 +949,8 @@
                 "de": "Nutzen Sie die großen Hallen als Unterschlupf bei starken Güssen.",
                 "hu": "Használja a nagy csarnokokat menedékként erős zápor esetén.",
                 "ro": "Folosiți halele mari ca adăpost în timpul averselor puternice.",
-                "en": "Use the large halls as shelter during heavy downpours."
+                "en": "Use the large halls as shelter during heavy downpours.",
+                "nl": "Gebruik de grote hallen als schuilplaats bij zware stortbuien."
               }
             },
             {
@@ -897,7 +959,8 @@
                 "de": "Stellen Sie Ihr Rad unter den Bäumen in der Nähe unter.",
                 "hu": "Parkolja le a biciklit a közeli fák alatt.",
                 "ro": "Parcați bicicleta sub copacii din apropiere.",
-                "en": "Park your bike under the nearby trees for some cover."
+                "en": "Park your bike under the nearby trees for some cover.",
+                "nl": "Zet je fiets onder de nabijgelegen bomen voor wat beschutting."
               }
             },
             {
@@ -906,7 +969,8 @@
                 "de": "Vorsicht auf dem glatten Pflaster vor dem Hotel.",
                 "hu": "Vigyázzon a csúszós burkolatra a szálloda előtt.",
                 "ro": "Atenție la pavajul alunecos din fața hotelului.",
-                "en": "Be careful on the slippery pavement in front of the hotel."
+                "en": "Be careful on the slippery pavement in front of the hotel.",
+                "nl": "Wees voorzichtig op het gladde trottoir voor het hotel."
               }
             },
             {
@@ -915,7 +979,8 @@
                 "de": "Suchen Sie sich ein Café mit Fahrradständer unter dem Vordach.",
                 "hu": "Keressen kávézót fedett biciklitárolóval.",
                 "ro": "Căutați o cafenea cu suport de biciclete sub copertină.",
-                "en": "Look for a cafe with a bike rack under an awning."
+                "en": "Look for a cafe with a bike rack under an awning.",
+                "nl": "Zoek een café met een fietsenrek onder een luifel."
               }
             },
             {
@@ -924,7 +989,8 @@
                 "de": "Wischen Sie Ihren Sattel vor dem Betreten trocken.",
                 "hu": "Törölje szárazra a nyerget, mielőtt belépne.",
                 "ro": "Ștergeți șaua înainte de a intra în atelier.",
-                "en": "Wipe your saddle dry before entering the atelier."
+                "en": "Wipe your saddle dry before entering the atelier.",
+                "nl": "Veeg je zadel droog voordat je het atelier betreedt."
               }
             },
             {
@@ -933,7 +999,8 @@
                 "de": "Der Weg über die Brücke kann bei Wind und Regen sehr nass sein.",
                 "hu": "A hídon átvezető út szélben és esőben nagyon vizes lehet.",
                 "ro": "Drumul peste pod poate fi foarte ud pe vânt și ploaie.",
-                "en": "The path across the bridge can be very wet in wind and rain."
+                "en": "The path across the bridge can be very wet in wind and rain.",
+                "nl": "Het pad over de brug kan bij wind en regen erg nat zijn."
               }
             }
           ],
@@ -965,6 +1032,13 @@
               "Check if your rental bike has mudguards.",
               "Use the free covered bike parking under the station.",
               "Plan extra time for travel as the wind might slow you down."
+            ],
+            "nl": [
+              "Volledige regenoutfit (broek en jas) wordt sterk aanbevolen.",
+              "Vermijd abrupt remmen op natte fietspaden.",
+              "Controleer of je huurfiets spatborden heeft.",
+              "Gebruik de gratis overdekte fietsenstalling onder het station.",
+              "Plan extra reistijd want de wind kan je vertragen."
             ]
           }
         },
@@ -973,7 +1047,8 @@
             "de": "Radeln Sie durch das winterliche Zaan-Tal und genießen Sie die klare Luft. Starten Sie im geschichtsträchtigen Hembrugterrein, bevor es zum Zar-Peter-Haus geht. Das Inntel Hotel markiert die Mitte Ihrer Tour im Herzen von Zaandam. Entlang der Zaan-Promenade finden Sie viele Möglichkeiten für eine warme Pause. Besuchen Sie das Monet-Atelier und beenden Sie die Tour an der Zaanse Schans, wenn die tiefstehende Sonne die Mühlen in goldenes Licht taucht.",
             "hu": "Tekerjen végig a téli Zaan-völgyön és élvezze a friss levegőt. Kezdjen a történelmi Hembrugterrein területén, majd irány a Péter cár ház. Az Inntel Hotel jelzi túrája felét Zaandam szívében. A Zaan-sétány mentén számos lehetőség nyílik egy melegítő pihenőre. Látogassa meg a Monet Műtermet, és zárja a napot a Zaanse Schansnál, amikor az alacsonyan járó nap aranyba vonja a malmokat.",
             "ro": "Pedalați prin valea Zaan pe timp de iarnă și bucurați-vă de aerul curat. Începeți la Hembrugterrein, apoi mergeți spre Casa Țarului Petru. Hotelul Inntel marchează mijlocul turului în inima orașului Zaandam. Pe promenada Zaan veți găsi multe locuri pentru o pauză caldă. Vizitați Atelierul Monet și încheiați turul la Zaanse Schans, când soarele palid scaldă morile în lumină aurie.",
-            "en": "Cycle through the wintery Zaan valley and enjoy the crisp air. Start at the historic Hembrugterrein before heading to the Tsar Peter House. The Inntel Hotel marks the midpoint of your tour in the heart of Zaandam. Along the Zaan Promenade, you'll find plenty of spots for a warm break. Visit the Monet Atelier and finish at Zaanse Schans, when the low sun bathes the windmills in golden light."
+            "en": "Cycle through the wintery Zaan valley and enjoy the crisp air. Start at the historic Hembrugterrein before heading to the Tsar Peter House. The Inntel Hotel marks the midpoint of your tour in the heart of Zaandam. Along the Zaan Promenade, you'll find plenty of spots for a warm break. Visit the Monet Atelier and finish at Zaanse Schans, when the low sun bathes the windmills in golden light.",
+            "nl": "Fiets door het winterse Zaandal en geniet van de frisse lucht. Begin op het historische Hembrugterrein voordat je naar het Czaar Peterhuis gaat. Het Inntel Hotel markeert het midden van je tour in het hart van Zaandam. Langs de Zaanpromenade vind je genoeg plekken voor een warme pauze. Bezoek het Monet Atelier en eindig bij Zaanse Schans, wanneer de lage zon de molens in goudlicht zet."
           },
           "stops": [
             {
@@ -982,7 +1057,8 @@
                 "de": "Das Gelände ist weitläufig und windanfällig; tragen Sie Handschuhe.",
                 "hu": "A terület tágas és szeles; viseljen kesztyűt.",
                 "ro": "Zona este vastă și expusă vântului; purtați mănuși.",
-                "en": "The area is vast and windy; make sure to wear gloves."
+                "en": "The area is vast and windy; make sure to wear gloves.",
+                "nl": "Het gebied is uitgestrekt en winderig; draag handschoenen."
               }
             },
             {
@@ -991,7 +1067,8 @@
                 "de": "Nutzen Sie die Zeit drinnen, um Ihre Hände aufzuwärmen.",
                 "hu": "Használja ki a bent töltött időt a kezei felmelegítésére.",
                 "ro": "Folosiți timpul petrecut în interior pentru a vă încălzi mâinile.",
-                "en": "Use the time inside to warm up your hands."
+                "en": "Use the time inside to warm up your hands.",
+                "nl": "Gebruik de binnenruimtes om je handen op te warmen."
               }
             },
             {
@@ -1000,7 +1077,8 @@
                 "de": "Ein toller Ort für ein schnelles Winter-Selfie.",
                 "hu": "Remek hely egy gyors téli szelfihez.",
                 "ro": "Un loc excelent pentru un selfie rapid de iarnă.",
-                "en": "A great spot for a quick winter selfie."
+                "en": "A great spot for a quick winter selfie.",
+                "nl": "Een geweldige plek voor een korte winterselfie."
               }
             },
             {
@@ -1009,7 +1087,8 @@
                 "de": "Suchen Sie sich einen Platz an der Sonne, falls sie scheint.",
                 "hu": "Keressen egy napos helyet, ha éppen süt a nap.",
                 "ro": "Căutați un loc la soare, dacă acesta strălucește.",
-                "en": "Look for a spot in the sun if it's shining."
+                "en": "Look for a spot in the sun if it's shining.",
+                "nl": "Zoek een plek in de zon als die schijnt."
               }
             },
             {
@@ -1018,7 +1097,8 @@
                 "de": "In der Nähe gibt es Cafés mit gutem heißen Apfelkuchen.",
                 "hu": "A közelben remek forró almás pitét kínáló kávézók vannak.",
                 "ro": "În apropiere sunt cafenele cu plăcintă caldă cu mere.",
-                "en": "Nearby cafes offer great hot Dutch apple pie."
+                "en": "Nearby cafes offer great hot Dutch apple pie.",
+                "nl": "Dichtbij gelegen cafés hebben heerlijke warme appeltaart."
               }
             },
             {
@@ -1027,7 +1107,8 @@
                 "de": "Gegen 16:00 Uhr ist das Licht für Fotos hier am besten.",
                 "hu": "16:00 körül a legszebbek a fények a fotózáshoz.",
                 "ro": "În jurul orei 16:00, lumina este cea mai bună pentru fotografii.",
-                "en": "Around 4:00 PM, the light is best for photos here."
+                "en": "Around 4:00 PM, the light is best for photos here.",
+                "nl": "Rond 16:00 uur is het licht hier het mooist voor foto’s."
               }
             }
           ],
@@ -1059,6 +1140,13 @@
               "E-bike batteries drain faster in cold weather.",
               "Take regular breaks in heated indoor spaces.",
               "Ensure your bike lights are functioning properly for the early dusk."
+            ],
+            "nl": [
+              "Warme handschoenen en oorwarmers zijn onmisbaar voor winterfietsen.",
+              "Let op ijzige plekken op de bruggen over de grachten.",
+              "E-bike batterijen gaan sneller leeg bij koude temperaturen.",
+              "Neem regelmatig pauzes in verwarmde binnenruimtes.",
+              "Zorg dat je fietslampen goed werken voor de vroege schemering."
             ]
           }
         }
@@ -1077,7 +1165,8 @@
             "de": "Parkplatz Zaanse Schans",
             "hu": "Zaanse Schans Parkoló",
             "ro": "Parcare Zaanse Schans",
-            "en": "Zaanse Schans Parking"
+            "en": "Zaanse Schans Parking",
+            "nl": "Zaanse Schans Parkeren"
           },
           "coords": [
             4.885,
@@ -1092,7 +1181,8 @@
             "de": "Fahren Sie direkt hierher, um den Tag zu beginnen. Das Parken ist gebührenpflichtig, aber bequem.",
             "hu": "Vezessen közvetlenül ide a nap kezdetén. A parkolás díjköteles, de kényelmes.",
             "ro": "Conduceți direct aici pentru a începe ziua. Parcarea este cu plată, dar convenabilă.",
-            "en": "Drive straight here to start the day. Parking is paid but convenient."
+            "en": "Drive straight here to start the day. Parking is paid but convenient.",
+            "nl": "Rijd hierheen om de dag te beginnen. Parkeren is betaald maar handig."
           }
         },
         {
@@ -1100,7 +1190,8 @@
             "de": "Zaans Museum",
             "hu": "Zaans Múzeum",
             "ro": "Muzeul Zaans",
-            "en": "Zaans Museum"
+            "en": "Zaans Museum",
+            "nl": "Zaans Museum"
           },
           "coords": [
             4.884,
@@ -1116,7 +1207,8 @@
             "de": "Beginnen Sie hier, um einen Überblick über die reiche industrielle Vergangenheit der Region zu erhalten.",
             "hu": "Kezdje itt, hogy áttekintést kapjon a régió gazdag ipari múltjáról.",
             "ro": "Începeți aici pentru a obține o imagine de ansamblu asupra bogatului trecut industrial al regiunii.",
-            "en": "Start here to get an overview of the region's rich industrial past."
+            "en": "Start here to get an overview of the region's rich industrial past.",
+            "nl": "Begin hier om een overzicht te krijgen van de rijke industriële geschiedenis van de regio."
           }
         },
         {
@@ -1124,7 +1216,8 @@
             "de": "Het Wevershuis",
             "hu": "A Takácsház",
             "ro": "Casa Țesătorului",
-            "en": "The Weaver's House"
+            "en": "The Weaver's House",
+            "nl": "Het Wevershuis"
           },
           "coords": [
             4.887,
@@ -1140,7 +1233,8 @@
             "de": "Sehen Sie, wie die Segelmacher des 18. Jahrhunderts lebten und arbeiteten.",
             "hu": "Nézze meg, hogyan éltek és dolgoztak a 18. századi vitorlakészítők.",
             "ro": "Vedeți cum trăiau și lucrau producătorii de pânze din secolul al XVIII-lea.",
-            "en": "See how 18th-century sail makers lived and worked."
+            "en": "See how 18th-century sail makers lived and worked.",
+            "nl": "Zie hoe 18e-eeuwse zeilmakerij- en weefwerk plaatsvond."
           }
         },
         {
@@ -1148,7 +1242,8 @@
             "de": "Parkplatz Zentrum Zaandam",
             "hu": "Zaandam Központi Parkoló",
             "ro": "Parcare Centru Zaandam",
-            "en": "Zaandam Center Parking"
+            "en": "Zaandam Center Parking",
+            "nl": "Parking Centrum Zaandam"
           },
           "coords": [
             4.828,
@@ -1164,7 +1259,8 @@
             "de": "Parken Sie hier, um den Rest des Tages das Stadtzentrum zu Fuß zu erkunden.",
             "hu": "Parkoljon itt, hogy a nap hátralévő részében gyalog fedezze fel a városközpontot.",
             "ro": "Parcați aici pentru a explora centrul orașului pe jos pentru restul zilei.",
-            "en": "Park here to explore the city center on foot for the rest of the day."
+            "en": "Park here to explore the city center on foot for the rest of the day.",
+            "nl": "Parkeer hier om de rest van de dag het stadscentrum te voet te verkennen."
           }
         },
         {
@@ -1172,7 +1268,8 @@
             "de": "Inntel Hotels Zaandam",
             "hu": "Inntel Hotels Zaandam",
             "ro": "Inntel Hotels Zaandam",
-            "en": "Inntel Hotels Zaandam"
+            "en": "Inntel Hotels Zaandam",
+            "nl": "Inntel Hotels Zaandam"
           },
           "coords": [
             4.829,
@@ -1188,7 +1285,8 @@
             "de": "Machen Sie das obligatorische Foto und genießen Sie das Mittagessen in einem der nahegelegenen Cafés.",
             "hu": "Készítse el a kötelező fotót, és ebédeljen a közeli kávézók egyikében.",
             "ro": "Faceți fotografia obligatorie și luați prânzul la una dintre cafenelele din apropiere.",
-            "en": "Take the mandatory photo and enjoy lunch at a nearby cafe."
+            "en": "Take the mandatory photo and enjoy lunch at a nearby cafe.",
+            "nl": "Maak de verplichte foto en geniet van de lunch in een nabijgelegen café."
           }
         },
         {
@@ -1196,7 +1294,8 @@
             "de": "Zar-Peter-Haus",
             "hu": "Cár Péter Ház",
             "ro": "Casa Țarului Petru",
-            "en": "Tsar Peter House"
+            "en": "Tsar Peter House",
+            "nl": "Czaar Peterhuis"
           },
           "coords": [
             4.825,
@@ -1212,7 +1311,8 @@
             "de": "Nur einen kurzen Spaziergang vom Hotel entfernt. Ein faszinierender Einblick in die Geschichte.",
             "hu": "Csak egy rövid sétára a szállodától. Lenyűgöző betekintés a történelembe.",
             "ro": "La doar o scurtă plimbare de hotel. O incursiune fascinantă în istorie.",
-            "en": "Just a short walk from the hotel. A fascinating glimpse into history."
+            "en": "Just a short walk from the hotel. A fascinating glimpse into history.",
+            "nl": "Slechts een korte wandeling vanaf het hotel. Een fascinerende blik op de geschiedenis."
           }
         },
         {
@@ -1220,7 +1320,8 @@
             "de": "Zaan-Promenade",
             "hu": "Zaan-sétány",
             "ro": "Promenada Zaan",
-            "en": "Zaan Promenade"
+            "en": "Zaan Promenade",
+            "nl": "Zaanpromenade"
           },
           "coords": [
             4.83,
@@ -1236,7 +1337,8 @@
             "de": "Beenden Sie Ihren Tag mit einem entspannten Spaziergang am Wasser, bevor Sie zu Ihrem Auto zurückkehren.",
             "hu": "Fejezze be a napot egy pihentető sétával a vízparton, mielőtt visszatérne az autójához.",
             "ro": "Încheiați ziua cu o plimbare relaxantă pe malul apei înainte de a vă întoarce la mașină.",
-            "en": "End your day with a relaxing stroll by the water before heading back to your car."
+            "en": "End your day with a relaxing stroll by the water before heading back to your car.",
+            "nl": "Sluit je dag af met een ontspannen wandeling langs het water voordat je terug naar de auto gaat."
           }
         }
       ],
@@ -1244,7 +1346,8 @@
         "de": "Fahren Sie morgens direkt nach Zaanse Schans. Parken Sie Ihr Auto und erkunden Sie zu Fuß das Zaans Museum und die historischen Häuser. Mittags fahren Sie ins Zentrum von Zaandam. Nach dem Parken bewundern Sie das Inntel Hotel und essen zu Mittag. Am Nachmittag schlendern Sie zum Zar-Peter-Haus und beenden den Tag mit einem gemütlichen Spaziergang entlang der Zaan-Promenade, bevor Sie die Heimreise antreten.",
         "hu": "Reggel vezessen közvetlenül Zaanse Schansba. Parkolja le autóját, és gyalog fedezze fel a Zaans Múzeumot és a történelmi házakat. Délben vezessen Zaandam központjába. Parkolás után csodálja meg az Inntel Hotelt és ebédeljen. Délután sétáljon el a Cár Péter Házhoz, és fejezze be a napot egy kellemes sétával a Zaan-sétányon, mielőtt hazaindulna.",
         "ro": "Dimineața, conduceți direct la Zaanse Schans. Parcați mașina și explorați pe jos Muzeul Zaans și casele istorice. La prânz, conduceți spre centrul orașului Zaandam. După parcare, admirați Hotelul Inntel și luați prânzul. După-amiaza, plimbați-vă până la Casa Țarului Petru și încheiați ziua cu o plimbare pe Promenada Zaan înainte de a vă întoarce acasă.",
-        "en": "In the morning, drive directly to Zaanse Schans. Park your car and explore the Zaans Museum and historic houses on foot. At noon, drive to the center of Zaandam. After parking, admire the Inntel Hotel and have lunch. In the afternoon, stroll to the Tsar Peter House and end the day with a leisurely walk along the Zaan Promenade before heading home."
+        "en": "In the morning, drive directly to Zaanse Schans. Park your car and explore the Zaans Museum and historic houses on foot. At noon, drive to the center of Zaandam. After parking, admire the Inntel Hotel and have lunch. In the afternoon, stroll to the Tsar Peter House and end the day with a leisurely walk along the Zaan Promenade before heading home.",
+        "nl": "Rijd ’s ochtends rechtstreeks naar Zaanse Schans. Parkeer en verken het Zaans Museum en de historische huizen te voet. Ga ’s middags naar het centrum van Zaandam. Na het parkeren bewonder je het Inntel Hotel en ga je lunchen. In de namiddag wandel je naar het Czaar Peterhuis en eindig je de dag met een rustige wandeling langs de Zaanpromenade voordat je naar huis rijdt."
       },
       "gastro_picks": {
         "de": [
@@ -1428,6 +1531,9 @@
         ],
         "en": [
           "Arrive early at Zaanse Schans to beat the crowds. Parking is expensive in city centers; using Park and Ride facilities can be more cost-effective. Plan your route in advance as some streets in Zaandam can be narrow. The cluster-walking strategy works perfectly here: one parking spot for each main area."
+        ],
+        "nl": [
+          "Kom vroeg bij Zaanse Schans om de drukte voor te zijn. Parkeren is duur in stadscentra; gebruik Park & Ride-faciliteiten kan voordeliger zijn. Plan je route van tevoren want sommige straten in Zaandam zijn smal. De cluster-wandelingstrategie werkt hier perfect: één parkeerplaats per hoofdgebied."
         ]
       },
       "variants": {
@@ -1436,7 +1542,8 @@
             "de": "Mit dem Auto erkunden Sie Zaanstad bequem und trocken. Beginnen Sie an der Zaanse Schans, wo Sie das Zaans Museum und das Weberhaus besuchen können, ohne lange im Regen zu stehen. Danach fahren Sie ins Zentrum zum Inntel Hotel und dem Zar-Peter-Haus. Die Zaan-Promenade bietet auch bei schlechtem Wetter reizvolle Ausblicke aus dem Autofenster oder bei kurzen Spaziergängen zwischen den Parkhäusern.",
             "hu": "Autóval kényelmesen és szárazon fedezheti fel Zaandamot. Kezdjen a Zaanse Schansnál, ahol a Zaans Múzeum és a Takács háza várja, anélkül, hogy sokat ázna. Ezután hajtson a központba az Inntel Hotelhez és a Péter cár házhoz. A Zaan-promenád rossz időben is szép látványt nyújt az autó ablakából, vagy a parkolóházak közötti rövid séták során.",
             "ro": "Cu mașina, explorați Zaandam confortabil și la adăpost de ploaie. Începeți la Zaanse Schans, unde puteți vizita Muzeul Zaans și Casa Țesătorului fără a sta mult în ploaie. Apoi mergeți spre centru la hotelul Inntel și Casa Țarului Petru. Promenada Zaan oferă priveliști frumoase chiar și pe vreme rea, din mașină sau în scurte plimbări între parcări.",
-            "en": "By car, you can explore Zaanstad comfortably while staying dry. Start at Zaanse Schans, where you can visit the Zaans Museum and the Weaver's House without long exposure to rain. Then drive to the center to see the Inntel Hotel and the Tsar Peter House. The Zaan Promenade offers charming views even in bad weather, either from your window or during short walks between parking garages."
+            "en": "By car, you can explore Zaanstad comfortably while staying dry. Start at Zaanse Schans, where you can visit the Zaans Museum and the Weaver's House without long exposure to rain. Then drive to the center to see the Inntel Hotel and the Tsar Peter House. The Zaan Promenade offers charming views even in bad weather, either from your window or during short walks between parking garages.",
+            "nl": "Met de auto kun je Zaanstad comfortabel verkennen en droog blijven. Begin bij Zaanse Schans, waar je het Zaans Museum en het Wevershuis kunt bezoeken zonder lang aan regen bloot te staan. Rijd daarna naar het centrum om het Inntel Hotel en het Czaar Peterhuis te zien. De Zaanpromenade biedt charmante uitzichten, ook bij slecht weer, vanaf je raam of tijdens korte wandelingen tussen parkeergarages."
           },
           "stops": [
             {
@@ -1445,7 +1552,8 @@
                 "de": "Der Parkplatz ist nah am Eingang, ideal bei Regen.",
                 "hu": "A parkoló közel van a bejárathoz, ideális esőben.",
                 "ro": "Parcarea este aproape de intrare, ideală pe ploaie.",
-                "en": "The parking lot is close to the entrance, ideal for rain."
+                "en": "The parking lot is close to the entrance, ideal for rain.",
+                "nl": "De parkeerplaats ligt dicht bij de ingang, ideaal bij regen."
               }
             },
             {
@@ -1454,7 +1562,8 @@
                 "de": "Ein großartiges Indoor-Ziel für regnerische Vormittage.",
                 "hu": "Kiváló beltéri célpont esős délelőttökre.",
                 "ro": "O destinație interioară excelentă pentru dimineți ploioase.",
-                "en": "A great indoor destination for rainy mornings."
+                "en": "A great indoor destination for rainy mornings.",
+                "nl": "Een geweldige binnenbestemming voor regenachtige ochtenden."
               }
             },
             {
@@ -1463,7 +1572,8 @@
                 "de": "Kleine historische Innenräume bieten trockenen Schutz.",
                 "hu": "A kis történelmi belső terek száraz menedéket nyújtanak.",
                 "ro": "Interioarele istorice mici oferă protecție uscată.",
-                "en": "Small historic interiors offer dry shelter."
+                "en": "Small historic interiors offer dry shelter.",
+                "nl": "Kleine historische interieurs bieden droge beschutting."
               }
             },
             {
@@ -1472,7 +1582,8 @@
                 "de": "Nutzen Sie das überdachte Parkhaus Q-Park Hermitage.",
                 "hu": "Használja a fedett Q-Park Hermitage parkolóházat.",
                 "ro": "Folosiți parcarea acoperită Q-Park Hermitage.",
-                "en": "Use the covered Q-Park Hermitage parking garage."
+                "en": "Use the covered Q-Park Hermitage parking garage.",
+                "nl": "Gebruik de overdekte Q-Park Hermitage parkeergarage."
               }
             },
             {
@@ -1481,7 +1592,8 @@
                 "de": "Bequemer kurzer Weg vom Parkhaus zum Foto-Spot.",
                 "hu": "Kényelmes, rövid út a parkolótól a fotópontig.",
                 "ro": "Drum scurt și confortabil de la parcare la punctul foto.",
-                "en": "Convenient short walk from the parking to the photo spot."
+                "en": "Convenient short walk from the parking to the photo spot.",
+                "nl": "Handige korte wandeling van de parkeerplaats naar het fotopunt."
               }
             },
             {
@@ -1490,7 +1602,8 @@
                 "de": "In der Nähe gibt es begrenzte Parkmöglichkeiten am Straßenrand.",
                 "hu": "A közelben korlátozott utcai parkolás lehetséges.",
                 "ro": "În apropiere există locuri de parcare limitate pe stradă.",
-                "en": "Limited street parking is available nearby."
+                "en": "Limited street parking is available nearby.",
+                "nl": "Beperkt straatparkeren is in de buurt beschikbaar."
               }
             },
             {
@@ -1499,7 +1612,8 @@
                 "de": "Perfekt für einen schnellen Blick auf den Fluss im Regen.",
                 "hu": "Tökéletes egy gyors pillantásra a folyóra az esőben.",
                 "ro": "Perfect pentru o privire rapidă spre râu pe ploaie.",
-                "en": "Perfect for a quick look at the river during the rain."
+                "en": "Perfect for a quick look at the river during the rain.",
+                "nl": "Perfect voor een korte blik op de rivier tijdens de regen."
               }
             }
           ],
@@ -1531,6 +1645,13 @@
               "Parking at Zaanse Schans is expensive but very practical in the rain.",
               "Have change or a parking app ready for the fees.",
               "Avoid rush hour around the bridges crossing the Zaan."
+            ],
+            "nl": [
+              "Gebruik de parkeergarages in het centrum om winkels te bereiken terwijl je droog blijft.",
+              "De zichtbaarheid kan beperkt zijn op de dijkwegen bij zware regen.",
+              "Parkeren bij Zaanse Schans is duur maar zeer praktisch in de regen.",
+              "Zorg voor kleingeld of een parkeer-app voor de kosten.",
+              "Vermijd de spits rond de bruggen over de Zaan."
             ]
           }
         },
@@ -1539,7 +1660,8 @@
             "de": "Genießen Sie eine gemütliche Winterfahrt durch die Zaan-Region. Beginnen Sie an der Zaanse Schans, wo die Mühlen oft von Raureif bedeckt sind. Besuchen Sie das Zaans Museum und das Weberhaus, um mehr über die lokale Geschichte zu erfahren. Im Zentrum von Zaandam erwarten Sie das beleuchtete Inntel Hotel und das Zar-Peter-Haus. Beenden Sie den Tag mit einer Fahrt entlang der Zaan-Promenade, während die Lichter der Stadt sich im dunklen Wasser spiegeln.",
             "hu": "Élvezze a hangulatos téli autózást a Zaan-régióban. Kezdjen a Zaanse Schansnál, ahol a malmokat gyakran zúzmara fedi. Látogassa meg a Zaans Múzeumot és a Takács házát a helyi történelemért. Zaandam központjában a kivilágított Inntel Hotel és a Péter cár ház várja. Zárja a napot egy autózással a Zaan-sétány mentén, miközben a város fényei tükröződnek a sötét vízben.",
             "ro": "Bucurați-vă de o plimbare auto primitoare de iarnă prin regiunea Zaan. Începeți la Zaanse Schans, unde morile sunt adesea acoperite de chiciură. Vizitați Muzeul Zaans și Casa Țesătorului pentru istoria locală. În centrul orașului Zaandam vă așteaptă hotelul Inntel iluminat și Casa Țarului Petru. Încheiați ziua cu o plimbare pe promenada Zaan, în timp ce luminile orașului se oglindesc în apa întunecată.",
-            "en": "Enjoy a cozy winter drive through the Zaan region. Start at Zaanse Schans, where the windmills are often covered in frost. Visit the Zaans Museum and the Weaver's House for some local history. In the center of Zaandam, the illuminated Inntel Hotel and the Tsar Peter House await you. End the day with a drive along the Zaan Promenade as the city lights reflect in the dark water."
+            "en": "Enjoy a cozy winter drive through the Zaan region. Start at Zaanse Schans, where the windmills are often covered in frost. Visit the Zaans Museum and the Weaver's House for some local history. In the center of Zaandam, the illuminated Inntel Hotel and the Tsar Peter House await you. End the day with a drive along the Zaan Promenade as the city lights reflect in the dark water.",
+            "nl": "Geniet van een gezellige winterrit door de Zaanregio. Begin bij Zaanse Schans, waar de molens vaak met rijp bedekt zijn. Bezoek het Zaans Museum en het Wevershuis voor lokale geschiedenis. In het centrum van Zaandam wachten het verlichte Inntel Hotel en het Czaar Peterhuis. Sluit de dag af met een rit langs de Zaanpromenade terwijl de stadslichten in het donkere water weerspiegelen."
           },
           "stops": [
             {
@@ -1548,7 +1670,8 @@
                 "de": "Achten Sie auf Glätte auf dem offenen Parkplatzgelände.",
                 "hu": "Vigyázzon a csúszós felületekre a nyitott parkolóban.",
                 "ro": "Atenție la polei în zona deschisă a parcării.",
-                "en": "Watch out for icy patches in the open parking area."
+                "en": "Watch out for icy patches in the open parking area.",
+                "nl": "Let op ijzige plekken op de open parkeerplaats."
               }
             },
             {
@@ -1557,7 +1680,8 @@
                 "de": "Im Museumsshop gibt es warme Winteraccessoires.",
                 "hu": "A múzeumi boltban meleg téli kiegészítőket is árulnak.",
                 "ro": "În magazinul muzeului găsiți accesorii calde de iarnă.",
-                "en": "The museum shop sells warm winter accessories."
+                "en": "The museum shop sells warm winter accessories.",
+                "nl": "De museumwinkel verkoopt warme winteraccessoires."
               }
             },
             {
@@ -1566,7 +1690,8 @@
                 "de": "Das Haus wirkt im Winter besonders heimelig.",
                 "hu": "A ház télen különösen otthonos hangulatot áraszt.",
                 "ro": "Casa pare deosebit de primitoare pe timp de iarnă.",
-                "en": "The house feels especially cozy during the winter months."
+                "en": "The house feels especially cozy during the winter months.",
+                "nl": "Het huis voelt bijzonder knus in de wintermaanden."
               }
             },
             {
@@ -1575,7 +1700,8 @@
                 "de": "Überdachtes Parken schützt Ihr Auto vor Frost.",
                 "hu": "A fedett parkolás megvédi az autót a fagytól.",
                 "ro": "Parcarea acoperită vă protejează mașina de îngheț.",
-                "en": "Covered parking protects your car from frost and snow."
+                "en": "Covered parking protects your car from frost and snow.",
+                "nl": "Overdekt parkeren beschermt je auto tegen rijp en sneeuw."
               }
             },
             {
@@ -1584,7 +1710,8 @@
                 "de": "Die Beleuchtung ist ein Highlight an kurzen Wintertagen.",
                 "hu": "A kivilágítás fénypontja a rövid téli napoknak.",
                 "ro": "Iluminatul este un punct forte în zilele scurte de iarnă.",
-                "en": "The lighting is a highlight during the short winter days."
+                "en": "The lighting is a highlight during the short winter days.",
+                "nl": "De verlichting is een hoogtepunt tijdens de korte winterdagen."
               }
             },
             {
@@ -1593,7 +1720,8 @@
                 "de": "Ein kurzer Fußweg führt durch die winterliche Altstadt.",
                 "hu": "Rövid séta vezet át a téli óvároson.",
                 "ro": "O scurtă plimbare vă duce prin centrul istoric de iarnă.",
-                "en": "A short walk takes you through the wintery old town."
+                "en": "A short walk takes you through the wintery old town.",
+                "nl": "Een korte wandeling brengt je door de winterse oude stad."
               }
             },
             {
@@ -1602,7 +1730,8 @@
                 "de": "Genießen Sie den Blick auf die beleuchteten Schiffe.",
                 "hu": "Élvezze a kivilágított hajók látványát.",
                 "ro": "Bucurați-vă de vederea navelor iluminate.",
-                "en": "Enjoy the view of the illuminated ships on the river."
+                "en": "Enjoy the view of the illuminated ships on the river.",
+                "nl": "Geniet van het zicht op verlichte schepen op de rivier."
               }
             }
           ],
@@ -1634,6 +1763,13 @@
               "Parking fees apply in the center even during winter.",
               "Use your seat heating for maximum coziness.",
               "Dusk starts early, so ensure your lights are in good working order."
+            ],
+            "nl": [
+              "Winterbanden zijn aan te raden op bevroren zijwegen.",
+              "Houd een ijskrabber en antivries in je auto.",
+              "Parkeerkosten gelden ook in het centrum tijdens de winter.",
+              "Gebruik je stoelverwarming voor maximaal comfort.",
+              "De schemering begint vroeg, zorg dat je lichten goed werken."
             ]
           }
         }
@@ -1652,7 +1788,8 @@
             "de": "Bahnhof Zaandam",
             "hu": "Zaandam vasútállomás",
             "ro": "Gara Zaandam",
-            "en": "Zaandam Station"
+            "en": "Zaandam Station",
+            "nl": "Station Zaandam"
           },
           "coords": [
             4.828,
@@ -1667,7 +1804,8 @@
             "de": "Beginnen Sie hier. Das Inntel Hotel ist das erste, was Sie sehen werden.",
             "hu": "Kezdje itt. Az Inntel Hotel lesz az első, amit meglát.",
             "ro": "Începeți aici. Hotelul Inntel este primul lucru pe care îl veți vedea.",
-            "en": "Start here. The Inntel Hotel is the first thing you'll see."
+            "en": "Start here. The Inntel Hotel is the first thing you'll see.",
+            "nl": "Begin hier. Het Inntel Hotel is het eerste wat je ziet."
           }
         },
         {
@@ -1675,7 +1813,8 @@
             "de": "Zar-Peter-Haus",
             "hu": "Cár Péter Ház",
             "ro": "Casa Țarului Petru",
-            "en": "Tsar Peter House"
+            "en": "Tsar Peter House",
+            "nl": "Czaar Peterhuis"
           },
           "coords": [
             4.825,
@@ -1691,7 +1830,8 @@
             "de": "Ein kurzer Spaziergang vom Bahnhof durch das Stadtzentrum.",
             "hu": "Rövid séta a vasútállomástól a városközponton keresztül.",
             "ro": "O scurtă plimbare de la gară prin centrul orașului.",
-            "en": "A short walk from the station through the city center."
+            "en": "A short walk from the station through the city center.",
+            "nl": "Een korte wandeling vanaf het station door het stadscentrum."
           }
         },
         {
@@ -1699,7 +1839,8 @@
             "de": "Monet-Atelier",
             "hu": "Monet Műterem",
             "ro": "Atelierul Monet",
-            "en": "Monet Atelier"
+            "en": "Monet Atelier",
+            "nl": "Monet Atelier"
           },
           "coords": [
             4.835,
@@ -1715,7 +1856,8 @@
             "de": "Ein weiterer einfacher Spaziergang, um Monets Perspektive zu sehen.",
             "hu": "Egy újabb könnyű séta, hogy megnézze Monet perspektíváját.",
             "ro": "O altă plimbare ușoară pentru a vedea perspectiva lui Monet.",
-            "en": "Another easy walk to see Monet's perspective."
+            "en": "Another easy walk to see Monet's perspective.",
+            "nl": "Nog een korte wandeling om Monets perspectief te zien."
           }
         },
         {
@@ -1723,7 +1865,8 @@
             "de": "Bus nach Zaanse Schans",
             "hu": "Busz Zaanse Schansba",
             "ro": "Autobuz către Zaanse Schans",
-            "en": "Bus to Zaanse Schans"
+            "en": "Bus to Zaanse Schans",
+            "nl": "Bus naar Zaanse Schans"
           },
           "coords": [
             4.829,
@@ -1739,7 +1882,8 @@
             "de": "Nehmen Sie den Bus 391 vom Bahnhof Zaandam. Die Fahrt dauert etwa 20 Minuten.",
             "hu": "Szálljon fel a 391-es buszra a Zaandam vasútállomásról. Az út körülbelül 20 percig tart.",
             "ro": "Luați autobuzul 391 de la Gara Zaandam. Călătoria durează aproximativ 20 de minute.",
-            "en": "Take bus 391 from Zaandam station. The journey takes about 20 minutes."
+            "en": "Take bus 391 from Zaandam station. The journey takes about 20 minutes.",
+            "nl": "Neem bus 391 vanaf station Zaandam. De rit duurt ongeveer 20 minuten."
           }
         },
         {
@@ -1747,7 +1891,8 @@
             "de": "Zaanse Schans",
             "hu": "Zaanse Schans",
             "ro": "Zaanse Schans",
-            "en": "Zaanse Schans"
+            "en": "Zaanse Schans",
+            "nl": "Zaanse Schans"
           },
           "coords": [
             4.883,
@@ -1762,7 +1907,8 @@
             "de": "Erkunden Sie die Windmühlen, Werkstätten und Museen. Planen Sie hier genügend Zeit für das Mittagessen ein.",
             "hu": "Fedezze fel a szélmalmokat, műhelyeket és múzeumokat. Tervezzen itt elegendő időt az ebédre.",
             "ro": "Explorați morile de vânt, atelierele și muzeele. Planificați suficient timp pentru prânz aici.",
-            "en": "Explore the windmills, workshops, and museums. Plan for enough time for lunch here."
+            "en": "Explore the windmills, workshops, and museums. Plan for enough time for lunch here.",
+            "nl": "Verken de molens, werkplaatsen en musea. Reken op voldoende tijd voor de lunch."
           }
         },
         {
@@ -1770,7 +1916,8 @@
             "de": "Zaan-Promenade",
             "hu": "Zaan-sétány",
             "ro": "Promenada Zaan",
-            "en": "Zaan Promenade"
+            "en": "Zaan Promenade",
+            "nl": "Zaanpromenade"
           },
           "coords": [
             4.83,
@@ -1786,7 +1933,8 @@
             "de": "Nehmen Sie den Bus zurück ins Zentrum und beenden Sie den Tag mit einem Blick auf den Fluss.",
             "hu": "Menjen vissza busszal a központba, és fejezze be a napot a folyó látványával.",
             "ro": "Luați autobuzul înapoi în centru și încheiați ziua cu o priveliște a râului.",
-            "en": "Take the bus back to the center and finish the day with a river view."
+            "en": "Take the bus back to the center and finish the day with a river view.",
+            "nl": "Neem de bus terug naar het centrum en sluit de dag af met een riviergezicht."
           }
         }
       ],
@@ -1794,7 +1942,8 @@
         "de": "Beginnen Sie am Bahnhof Zaandam und erkunden Sie morgens das kompakte Stadtzentrum zu Fuß, einschließlich des Zar-Peter-Hauses und des Monet-Ateliers. Zu Mittag nehmen Sie einen direkten Bus nach Zaanse Schans. Verbringen Sie den Nachmittag damit, dieses lebende Museum zu erkunden. Kehren Sie am späten Nachmittag ins Zentrum zurück, um einen entspannten Abendspaziergang entlang der Zaan-Promenade zu genießen.",
         "hu": "Kezdje a Zaandam vasútállomáson, és reggel fedezze fel gyalog a kompakt városközpontot, beleértve a Cár Péter Házat és a Monet Műtermet. Délben szálljon fel egy közvetlen buszra Zaanse Schansba. Töltse a délutánt ennek az élő múzeumnak a felfedezésével. Késő délután térjen vissza a központba egy pihentető esti sétára a Zaan-sétányon.",
         "ro": "Începeți la Gara Zaandam și explorați dimineața centrul compact al orașului pe jos, inclusiv Casa Țarului Petru și Atelierul Monet. La prânz, luați un autobuz direct către Zaanse Schans. Petreceți după-amiaza explorând acest muzeu viu. Întoarceți-vă în centru după-amiaza târziu pentru o plimbare de seară relaxantă de-a lungul Promenadei Zaan.",
-        "en": "Start at Zaandam station and explore the compact city center on foot in the morning, including the Tsar Peter House and Monet Atelier. At noon, take a direct bus to Zaanse Schans. Spend the afternoon exploring this living museum. Return to the center in the late afternoon for a relaxing evening stroll along the Zaan Promenade."
+        "en": "Start at Zaandam station and explore the compact city center on foot in the morning, including the Tsar Peter House and Monet Atelier. At noon, take a direct bus to Zaanse Schans. Spend the afternoon exploring this living museum. Return to the center in the late afternoon for a relaxing evening stroll along the Zaan Promenade.",
+        "nl": "Begin bij station Zaandam en verken ’s ochtends het compacte stadscentrum te voet, inclusief het Czaar Peterhuis en het Monet Atelier. Neem ’s middags een directe bus naar Zaanse Schans. Breng de middag door in dit openluchtmuseum. Keer in de late namiddag terug naar het centrum voor een ontspannen avonds wandeling langs de Zaanpromenade."
       },
       "gastro_picks": {
         "de": [
@@ -1978,6 +2127,9 @@
         ],
         "en": [
           "Buy a day pass for the bus if you plan on making multiple trips. Bus 391 is the most direct route to Zaanse Schans. Check bus schedules in advance, especially for the return trip. Most attractions in the center of Zaandam are within easy walking distance from the station. Download a public transport app for real-time information."
+        ],
+        "nl": [
+          "Koop een dagkaart voor de bus als je meerdere ritten plant. Bus 391 is de meest directe route naar Zaanse Schans. Controleer de dienstregeling van de bus van tevoren, vooral voor de terugreis. De meeste attracties in het centrum van Zaandam liggen op loopafstand van het station. Download een OV-app voor realtime informatie."
         ]
       },
       "variants": {
@@ -1986,7 +2138,8 @@
             "de": "Mit Bus und Bahn bleiben Sie in Zaanstad weitgehend im Trockenen. Beginnen Sie am Bahnhof Zaandam, einem architektonischen Highlight. Besuchen Sie das Zar-Peter-Haus und das Monet-Atelier, die beide gut zu Fuß vom Bahnhof erreichbar sind. Der Bus bringt Sie bequem zur Zaanse Schans, wo Sie die Mühlen und Museen erkunden können. Den Tag lassen Sie an der Zaan-Promenade ausklingen, bevor Sie den Zug zurück nehmen.",
             "hu": "Busszal és vonattal nagyrészt szárazon maradhat Zaandamban. Kezdjen a zaandami állomáson, amely építészeti remekmű. Látogassa meg a Péter cár házat és a Monet Műtermet, mindkettő könnyen elérhető gyalog az állomástól. A busz kényelmesen elviszi a Zaanse Schanshoz a malmokhoz. A napot a Zaan-promenádon zárhatja, mielőtt felszállna a hazatérő vonatra.",
             "ro": "Cu autobuzul și trenul, rămâneți în mare parte la adăpost de ploaie în Zaandam. Începeți la gara Zaandam, un punct de reper arhitectural. Vizitați Casa Țarului Petru și Atelierul Monet, ambele la mică distanță de gară. Autobuzul vă duce confortabil la Zaanse Schans pentru mori și muzee. Încheiați ziua pe promenada Zaan înainte de a lua trenul înapoi.",
-            "en": "By bus and train, you can stay mostly dry while exploring Zaanstad. Start at Zaandam Station, an architectural highlight. Visit the Tsar Peter House and the Monet Atelier, both within easy walking distance of the station. The bus takes you comfortably to Zaanse Schans to see the windmills and museums. Finish your day at the Zaan Promenade before catching your train back."
+            "en": "By bus and train, you can stay mostly dry while exploring Zaanstad. Start at Zaandam Station, an architectural highlight. Visit the Tsar Peter House and the Monet Atelier, both within easy walking distance of the station. The bus takes you comfortably to Zaanse Schans to see the windmills and museums. Finish your day at the Zaan Promenade before catching your train back.",
+            "nl": "Met bus en trein kun je grotendeels droog blijven tijdens het verkennen van Zaanstad. Begin bij Station Zaandam, een architectonisch hoogtepunt. Bezoek het Czaar Peterhuis en het Monet Atelier, beide op loopafstand van het station. De bus brengt je comfortabel naar Zaanse Schans om de molens en musea te zien. Sluit je dag af bij de Zaanpromenade voordat je de trein terugneemt."
           },
           "stops": [
             {
@@ -1995,7 +2148,8 @@
                 "de": "Ein imposantes Gebäude, das innen viel Platz zum Warten bietet.",
                 "hu": "Impozáns épület, belül tágas váróteremmel.",
                 "ro": "O clădire impunătoare cu mult spațiu de așteptare în interior.",
-                "en": "An impressive building with plenty of indoor waiting space."
+                "en": "An impressive building with plenty of indoor waiting space.",
+                "nl": "Een indrukwekkend gebouw met veel overdekte wachtruimte."
               }
             },
             {
@@ -2004,7 +2158,8 @@
                 "de": "Nur 10 Minuten Fußweg vom Bahnhof entfernt.",
                 "hu": "Csak 10 perc séta az állomástól.",
                 "ro": "La doar 10 minute de mers pe jos de la gară.",
-                "en": "Only a 10-minute walk from the station."
+                "en": "Only a 10-minute walk from the station.",
+                "nl": "Slechts 10 minuten lopen van het station."
               }
             },
             {
@@ -2013,7 +2168,8 @@
                 "de": "Der Weg dorthin führt durch die überdachte Einkaufsstraße.",
                 "hu": "Az odavezető út a fedett bevásárlóutcán át visz.",
                 "ro": "Drumul până acolo trece prin strada comercială acoperită.",
-                "en": "The route there goes through the covered shopping street."
+                "en": "The route there goes through the covered shopping street.",
+                "nl": "De route erheen loopt door de overdekte winkelstraat."
               }
             },
             {
@@ -2022,7 +2178,8 @@
                 "de": "Die Bushaltestelle ist direkt am Bahnhof und überdacht.",
                 "hu": "A buszmegálló közvetlenül az állomásnál van és fedett.",
                 "ro": "Stația de autobuz este chiar lângă gară și este acoperită.",
-                "en": "The bus stop is right by the station and is covered."
+                "en": "The bus stop is right by the station and is covered.",
+                "nl": "De bushalte is direct bij het station en overdekt."
               }
             },
             {
@@ -2031,7 +2188,8 @@
                 "de": "Der Bus 391 hält sehr nah am Museumseingang.",
                 "hu": "A 391-es busz nagyon közel áll meg a múzeum bejáratához.",
                 "ro": "Autobuzul 391 oprește foarte aproape de intrarea în muzeu.",
-                "en": "Bus 391 stops very close to the museum entrance."
+                "en": "Bus 391 stops very close to the museum entrance.",
+                "nl": "Bus 391 stopt vlak bij de ingang van het museum."
               }
             },
             {
@@ -2040,7 +2198,8 @@
                 "de": "Vom Bahnhof aus sind es nur wenige Schritte bis zum Wasser.",
                 "hu": "Az állomástól csak pár lépés a vízpart.",
                 "ro": "De la gară sunt doar câțiva pași până la apă.",
-                "en": "It's just a few steps from the station to the waterfront."
+                "en": "It's just a few steps from the station to the waterfront.",
+                "nl": "Het is maar een paar stappen van het station naar de waterkant."
               }
             }
           ],
@@ -2072,6 +2231,13 @@
               "Dutch stations often have great kiosks for hot drinks.",
               "Bus 391 (Industrial Heritage Line) is ideal for tourists.",
               "Wear waterproof shoes for the short walks between stops."
+            ],
+            "nl": [
+              "Gebruik de 9292-app voor realtime informatie bij weersvertragingen.",
+              "De OV-chipkaart is de makkelijkste manier om voor al het vervoer te betalen.",
+              "Nederlandse stations hebben vaak goede kiosken voor warme dranken.",
+              "Bus 391 (Industrieel Erfgoed-lijn) is ideaal voor toeristen.",
+              "Draag waterdichte schoenen voor de korte wandelingen tussen haltes."
             ]
           }
         },
@@ -2080,7 +2246,8 @@
             "de": "Erkunden Sie das winterliche Zaandam stressfrei mit öffentlichen Verkehrsmitteln. Der Bahnhof Zaandam empfängt Sie mit seiner einzigartigen Architektur. Zu Fuß erreichen Sie das Zar-Peter-Haus und das Monet-Atelier, wo Sie sich zwischendurch aufwärmen können. Mit dem Bus geht es weiter zur Zaanse Schans, die im Winterlicht besonders malerisch wirkt. Genießen Sie die winterliche Atmosphäre an der Zaan-Promenade, bevor Sie gemütlich im warmen Zug zurückfahren.",
             "hu": "Fedezze fel a téli Zaandamot stresszmentesen, tömegközlekedéssel. A zaandami állomás egyedi építészetével fogadja Önt. Gyalog elérheti a Péter cár házat és a Monet Műtermet, ahol közben felmelegedhet. Busszal utazzon tovább a Zaanse Schanshoz, amely a téli fényekben különösen festői. Élvezze a téli hangulatot a Zaan-promenádon, mielőtt felszállna a meleg vonatra.",
             "ro": "Explorați Zaandam pe timp de iarnă fără stres, folosind transportul public. Gara Zaandam vă întâmpină cu arhitectura sa unică. Pe jos ajungeți la Casa Țarului Petru și Atelierul Monet, unde vă puteți încălzi. Cu autobuzul mergeți la Zaanse Schans, care pare pitoresc în lumina iernii. Bucurați-vă de atmosfera de iarnă pe promenada Zaan înainte de a vă întoarce cu trenul încălzit.",
-            "en": "Explore wintery Zaandam stress-free using public transport. Zaandam Station welcomes you with its unique architecture. On foot, you can reach the Tsar Peter House and the Monet Atelier, where you can warm up in between. Take the bus to Zaanse Schans, which looks especially picturesque in the winter light. Enjoy the winter atmosphere at the Zaan Promenade before heading back in a warm train."
+            "en": "Explore wintery Zaandam stress-free using public transport. Zaandam Station welcomes you with its unique architecture. On foot, you can reach the Tsar Peter House and the Monet Atelier, where you can warm up in between. Take the bus to Zaanse Schans, which looks especially picturesque in the winter light. Enjoy the winter atmosphere at the Zaan Promenade before heading back in a warm train.",
+            "nl": "Verken het winterse Zaandam zorgeloos met het openbaar vervoer. Station Zaandam verwelkomt je met zijn unieke architectuur. Te voet bereik je het Tsaar Peter Huis en het Monet Atelier, waar je tussendoor kunt opwarmen. Neem de bus naar de Zaanse Schans, die er bij winterlicht extra pittoresk uitziet. Geniet van de winterse sfeer op de Zaanpromenade voordat je met de warme trein terugreist."
           },
           "stops": [
             {
@@ -2089,7 +2256,8 @@
                 "de": "Der Bahnhof ist beheizt und hat saubere Toiletten.",
                 "hu": "Az állomás fűtött és tiszta mosdókkal rendelkezik.",
                 "ro": "Gara este încălzită și are toalete curate.",
-                "en": "The station is heated and has clean restrooms available."
+                "en": "The station is heated and has clean restrooms available.",
+                "nl": "Het station is verwarmd en heeft schone toiletten."
               }
             },
             {
@@ -2098,7 +2266,8 @@
                 "de": "Ein schneller Spaziergang hält Sie warm.",
                 "hu": "Egy gyors séta segít melegen tartani magát.",
                 "ro": "O plimbare rapidă vă ajută să vă mențineți căldura.",
-                "en": "A brisk walk to the house will help keep you warm."
+                "en": "A brisk walk to the house will help keep you warm.",
+                "nl": "Een stevige wandeling naar het huis houdt je warm."
               }
             },
             {
@@ -2107,7 +2276,8 @@
                 "de": "Ideal, um die Kälte für eine Weile zu vergessen.",
                 "hu": "Ideális hely, hogy egy időre elfelejtse a hideget.",
                 "ro": "Ideal pentru a uita de frig pentru o vreme.",
-                "en": "Ideal spot to forget about the cold for a while."
+                "en": "Ideal spot to forget about the cold for a while.",
+                "nl": "Ideale plek om de kou even te vergeten."
               }
             },
             {
@@ -2116,7 +2286,8 @@
                 "de": "Busse fahren im Winter regelmäßig alle 15-20 Minuten.",
                 "hu": "A buszok télen is rendszeresen, 15-20 percenként járnak.",
                 "ro": "Autobuzele circulă regulat la 15-20 de minute și iarna.",
-                "en": "Buses run regularly every 15-20 minutes even in winter."
+                "en": "Buses run regularly every 15-20 minutes even in winter.",
+                "nl": "Bussen rijden regelmatig elke 15–20 minuten, zelfs in de winter."
               }
             },
             {
@@ -2125,7 +2296,8 @@
                 "de": "Besuchen Sie die Mühlen innen, dort ist es windgeschützt.",
                 "hu": "Látogasson el a malmok belsejébe, ott védve van a széltől.",
                 "ro": "Vizitați interiorul morilor, acolo sunteți ferit de vânt.",
-                "en": "Visit the inside of the mills to stay sheltered from the wind."
+                "en": "Visit the inside of the mills to stay sheltered from the wind.",
+                "nl": "Bezoek de binnenkant van de molens om uit de wind te blijven."
               }
             },
             {
@@ -2134,7 +2306,8 @@
                 "de": "Die Abenddämmerung am Wasser ist im Winter besonders schön.",
                 "hu": "A szürkület a vízparton télen különösen szép.",
                 "ro": "Amurgul pe malul apei este deosebit de frumos iarna.",
-                "en": "Dusk by the water is especially beautiful during winter."
+                "en": "Dusk by the water is especially beautiful during winter.",
+                "nl": "De schemering bij het water is vooral mooi in de winter."
               }
             }
           ],
@@ -2166,6 +2339,13 @@
               "Take advantage of the waiting areas inside the stations.",
               "Buy a day ticket if you plan on making multiple transfers.",
               "Keep an eye on the platform displays for any short-term changes."
+            ],
+            "nl": [
+              "Nederlandse treinen zijn goed verwarmd in de wintermaanden.",
+              "Houd rekening met extra reistijd als sneeuw de dienstregeling beïnvloedt.",
+              "Maak gebruik van de wachtruimtes in de stations.",
+              "Koop een dagkaart als je van plan bent meerdere keren over te stappen.",
+              "Houd de perronschermen in de gaten voor korte-termijnwijzigingen."
             ]
           }
         }

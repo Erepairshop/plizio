@@ -21,7 +21,8 @@
             "de": "Grote Kerk",
             "hu": "Nagy Templom",
             "ro": "Grote Kerk (Biserica Mare)",
-            "en": "Grote Kerk (Great Church)"
+            "en": "Grote Kerk (Great Church)",
+            "nl": "Grote Kerk (Great Church)"
           },
           "coords": [
             6.663,
@@ -36,7 +37,8 @@
             "de": "Beachten Sie die imposante Orgel und die kunstvollen Glasfenster.",
             "hu": "Figyelje meg a lenyűgöző orgonát és a díszes ólomüveg ablakokat.",
             "ro": "Observați orga impunătoare și vitraliile artistice.",
-            "en": "Note the impressive organ and the ornate stained-glass windows."
+            "en": "Note the impressive organ and the ornate stained-glass windows.",
+            "nl": "Let op het indrukwekkende orgel en de rijkversierde gebrandschilderde ramen."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Stadsmuseum Almelo",
             "hu": "Almelo Városi Múzeum",
             "ro": "Muzeul Orașului Almelo",
-            "en": "City Museum Almelo"
+            "en": "City Museum Almelo",
+            "nl": "City Museum Almelo"
           },
           "coords": [
             6.661,
@@ -59,7 +62,8 @@
             "de": "Konzentrieren Sie sich auf die Ausstellung zur Textilgeschichte der Stadt.",
             "hu": "Fókuszáljon a város textilipari történetét bemutató kiállításra.",
             "ro": "Concentrați-vă pe expoziția despre istoria textilă a orașului.",
-            "en": "Focus on the exhibition about the city's textile history."
+            "en": "Focus on the exhibition about the city's textile history.",
+            "nl": "Richt je op de tentoonstelling over de textielgeschiedenis van de stad."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Doopsgezinde Kerk",
             "hu": "Mennonita templom",
             "ro": "Biserica Menonită",
-            "en": "Mennonite Church"
+            "en": "Mennonite Church",
+            "nl": "Doopsgezinde Kerk"
           },
           "coords": [
             6.66,
@@ -82,7 +87,8 @@
             "de": "Ein Ort der Stille und schlichten Schönheit, ideal für eine kurze Pause.",
             "hu": "A csend és az egyszerű szépség helye, ideális egy rövid pihenőre.",
             "ro": "Un loc de liniște și frumusețe simplă, ideal pentru o scurtă pauză.",
-            "en": "A place of silence and simple beauty, ideal for a short break."
+            "en": "A place of silence and simple beauty, ideal for a short break.",
+            "nl": "Een plek van stilte en eenvoudige schoonheid, ideaal voor een korte pauze."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Mittagessen im Zentrum",
             "hu": "Ebéd a központban",
             "ro": "Prânz în centru",
-            "en": "Lunch in the City Center"
+            "en": "Lunch in the City Center",
+            "nl": "Lunch in het stadscentrum"
           },
           "coords": [
             6.6625,
@@ -105,7 +112,8 @@
             "de": "Probieren Sie ein 'Broodje' in einem der Cafés am Koornmarkt.",
             "hu": "Kóstoljon meg egy 'Broodje'-t a Koornmarkt egyik kávézójában.",
             "ro": "Încercați un 'Broodje' la una dintre cafenelele de pe Koornmarkt.",
-            "en": "Try a 'Broodje' at one of the cafes on the Koornmarkt."
+            "en": "Try a 'Broodje' at one of the cafes on the Koornmarkt.",
+            "nl": "Probeer een 'Broodje' bij een van de cafés op de Koornmarkt."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Beeklustpark",
             "hu": "Beeklustpark",
             "ro": "Parcul Beeklust",
-            "en": "Beeklust Park"
+            "en": "Beeklust Park",
+            "nl": "Beeklust Park"
           },
           "coords": [
             6.675,
@@ -128,7 +137,8 @@
             "de": "Spazieren Sie zum Teehaus für eine Erfrischung inmitten der Natur.",
             "hu": "Sétáljon el a teaházhoz egy frissítőre a természet közepén.",
             "ro": "Plimbați-vă până la ceainărie pentru o gustare în mijlocul naturii.",
-            "en": "Stroll to the teahouse for a refreshment surrounded by nature."
+            "en": "Stroll to the teahouse for a refreshment surrounded by nature.",
+            "nl": "Maak een wandeling naar het theehuis voor een verfrissing omgeven door natuur."
           }
         }
       ],
@@ -136,7 +146,8 @@
         "de": "Beginnen Sie Ihren Tag im Herzen von Almelo bei der Grote Kerk, einem Symbol der Stadt. Nach einem tiefen Einblick in die lokale Geschichte im Stadsmuseum, genießen Sie ein entspanntes Mittagessen. Der Nachmittag ist einem langen, erholsamen Spaziergang durch den wunderschönen Beeklustpark gewidmet, wo Sie die Ruhe und die Natur genießen können. Der Tag endet mit einem Gefühl der Gelassenheit nach der Erkundung der grünen Lunge der Stadt.",
         "hu": "Kezdje a napot Almelo szívében, a város jelképének számító Grote Kerknél. Miután a Városi Múzeumban elmélyedt a helyi történelemben, fogyasszon el egy kellemes ebédet. A délutánt egy hosszú, pihentető séta tölti ki a gyönyörű Beeklustparkban, ahol élvezheti a csendet és a természetet. A nap a város zöld tüdejének felfedezése utáni nyugalom érzésével zárul.",
         "ro": "Începeți ziua în inima orașului Almelo la Grote Kerk, un simbol al orașului. După o incursiune profundă în istoria locală la Muzeul Orașului, bucurați-vă de un prânz relaxant. După-amiaza este dedicată unei plimbări lungi și odihnitoare prin frumosul parc Beeklust, unde vă puteți bucura de liniște și natură. Ziua se încheie cu un sentiment de seninătate după explorarea plămânului verde al orașului.",
-        "en": "Start your day in the heart of Almelo at the Grote Kerk, a symbol of the city. After a deep dive into local history at the City Museum, enjoy a relaxing lunch. The afternoon is dedicated to a long, restful walk through the beautiful Beeklust Park, where you can enjoy the peace and nature. The day ends with a feeling of serenity after exploring the city's green lung."
+        "en": "Start your day in the heart of Almelo at the Grote Kerk, a symbol of the city. After a deep dive into local history at the City Museum, enjoy a relaxing lunch. The afternoon is dedicated to a long, restful walk through the beautiful Beeklust Park, where you can enjoy the peace and nature. The day ends with a feeling of serenity after exploring the city's green lung.",
+        "nl": "Begin je dag in het hart van Almelo bij de Grote Kerk, een symbool van de stad. Na een diepe duik in de lokale geschiedenis in het City Museum geniet je van een ontspannen lunch. De namiddag staat in het teken van een lange, rustgevende wandeling door het prachtige Beeklust Park, waar je kunt genieten van rust en natuur. De dag eindigt met een gevoel van sereniteit na het verkennen van de groene long van de stad."
       },
       "gastro_picks": {
         "de": [
@@ -332,6 +343,12 @@
           "Bring a reusable water bottle.",
           "Check the museum's opening hours online in advance.",
           "An umbrella is always a good idea in the Netherlands, even when the sun is shining."
+        ],
+        "nl": [
+          "Draag comfortabele schoenen, want de wandeling naar het park is vrij lang.",
+          "Neem een herbruikbare waterfles mee.",
+          "Controleer van tevoren de openingstijden van het museum online.",
+          "Een paraplu is altijd een goed idee in Nederland, zelfs als de zon schijnt."
         ]
       }
     },
@@ -348,7 +365,8 @@
             "de": "Indiëterrein",
             "hu": "Indiëterrein (ipari terület)",
             "ro": "Indiëterrein (zona industrială)",
-            "en": "Indiëterrein (Industrial Area)"
+            "en": "Indiëterrein (Industrial Area)",
+            "nl": "Indiëterrein (Industrieterrein)"
           },
           "coords": [
             6.65,
@@ -363,7 +381,8 @@
             "de": "Bewundern Sie die Umnutzung alter Fabrikgebäude in moderne Lofts und Büros.",
             "hu": "Csodálja meg a régi gyárépületek modern loftokká és irodákká alakítását.",
             "ro": "Admirați reconversia clădirilor vechi de fabrică în lofturi și birouri moderne.",
-            "en": "Admire the conversion of old factory buildings into modern lofts and offices."
+            "en": "Admire the conversion of old factory buildings into modern lofts and offices.",
+            "nl": "Bewonder de transformatie van oude fabrieksgebouwen tot moderne lofts en kantoren."
           }
         },
         {
@@ -371,7 +390,8 @@
             "de": "Stadsmuseum Almelo",
             "hu": "Almelo Városi Múzeum",
             "ro": "Muzeul Orașului Almelo",
-            "en": "City Museum Almelo"
+            "en": "City Museum Almelo",
+            "nl": "City Museum Almelo"
           },
           "coords": [
             6.661,
@@ -386,7 +406,8 @@
             "de": "Eine großartige Einführung in die Vergangenheit von Almelo als Textilzentrum.",
             "hu": "Nagyszerű bevezetés Almelo textilipari központként betöltött múltjába.",
             "ro": "O introducere excelentă în trecutul orașului Almelo ca centru textil.",
-            "en": "A great introduction to Almelo's past as a textile hub."
+            "en": "A great introduction to Almelo's past as a textile hub.",
+            "nl": "Een uitstekende introductie tot Almelo’s verleden als textielbolwerk."
           }
         },
         {
@@ -394,7 +415,8 @@
             "de": "Grote Kerk",
             "hu": "Nagy Templom",
             "ro": "Grote Kerk (Biserica Mare)",
-            "en": "Grote Kerk (Great Church)"
+            "en": "Grote Kerk (Great Church)",
+            "nl": "Grote Kerk (Great Church)"
           },
           "coords": [
             6.663,
@@ -409,7 +431,8 @@
             "de": "Nehmen Sie sich einen Moment Zeit, um die Ruhe im Inneren zu genießen.",
             "hu": "Szánjon egy percet a belső nyugalom élvezetére.",
             "ro": "Luați-vă un moment pentru a vă bucura de liniștea din interior.",
-            "en": "Take a moment to enjoy the tranquility inside."
+            "en": "Take a moment to enjoy the tranquility inside.",
+            "nl": "Neem even de tijd om de rust binnenin te waarderen."
           }
         },
         {
@@ -417,7 +440,8 @@
             "de": "Mittagspause",
             "hu": "Ebédszünet",
             "ro": "Pauza de prânz",
-            "en": "Lunch Break"
+            "en": "Lunch Break",
+            "nl": "Lunchpauze"
           },
           "coords": [
             6.664,
@@ -432,7 +456,8 @@
             "de": "Genießen Sie ein Mittagessen mit Blick auf das Treiben in der Innenstadt.",
             "hu": "Ebédeljen a nyüzsgő belvárosra néző kilátással.",
             "ro": "Bucurați-vă de prânz cu vedere la agitația din centrul orașului.",
-            "en": "Enjoy lunch with a view of the downtown bustle."
+            "en": "Enjoy lunch with a view of the downtown bustle.",
+            "nl": "Geniet van de lunch met uitzicht op het drukke centrum."
           }
         },
         {
@@ -440,7 +465,8 @@
             "de": "Huis Almelo",
             "hu": "Huis Almelo (kastély)",
             "ro": "Castelul Huis Almelo",
-            "en": "Huis Almelo (Almelo House)"
+            "en": "Huis Almelo (Almelo House)",
+            "nl": "Huis Almelo (Almelo House)"
           },
           "coords": [
             6.668,
@@ -455,7 +481,8 @@
             "de": "Das Schloss ist in Privatbesitz, aber die umliegenden Gärten sind oft zugänglich und wunderschön.",
             "hu": "A kastély magántulajdonban van, de a környező kertek gyakran látogathatók és gyönyörűek.",
             "ro": "Castelul este proprietate privată, dar grădinile înconjurătoare sunt adesea accesibile și frumoase.",
-            "en": "The castle is privately owned, but the surrounding gardens are often accessible and beautiful."
+            "en": "The castle is privately owned, but the surrounding gardens are often accessible and beautiful.",
+            "nl": "Het kasteel is particulier bezit, maar de omliggende tuinen zijn vaak toegankelijk en fraai."
           }
         },
         {
@@ -463,7 +490,8 @@
             "de": "Beeklustpark",
             "hu": "Beeklustpark",
             "ro": "Parcul Beeklust",
-            "en": "Beeklust Park"
+            "en": "Beeklust Park",
+            "nl": "Beeklust Park"
           },
           "coords": [
             6.675,
@@ -478,7 +506,8 @@
             "de": "Perfekt für die letzte Pause des Tages, bevor Sie zurück ins Zentrum radeln.",
             "hu": "Tökéletes a nap utolsó pihenőjére, mielőtt visszatekerne a központba.",
             "ro": "Perfect pentru ultima pauză a zilei înainte de a pedala înapoi în centru.",
-            "en": "Perfect for the last break of the day before cycling back to the center."
+            "en": "Perfect for the last break of the day before cycling back to the center.",
+            "nl": "Perfect voor de laatste pauze van de dag voordat je terug naar het centrum fietst."
           }
         }
       ],
@@ -486,7 +515,8 @@
         "de": "Schwingen Sie sich aufs Rad und entdecken Sie die Kontraste von Almelo, vom industriellen Erbe des Indiëterreins bis zur historischen Pracht der Innenstadt. Nach dem Mittagessen führt Sie die Tour nach Norden zum stattlichen Huis Almelo und dem angrenzenden Beeklustpark. Es ist eine Reise durch Zeit und Natur, die die vielfältigen Facetten der Stadt zeigt. Die Radtour endet entspannt im Grünen, bevor es zurück zum Ausgangspunkt geht.",
         "hu": "Pattanjon kerékpárra, és fedezze fel Almelo kontrasztjait, az Indiëterrein ipari örökségétől a belváros történelmi pompájáig. Ebéd után az út északra vezet a fenséges Huis Almelohoz és a szomszédos Beeklustparkhoz. Ez egy utazás az időben és a természetben, amely bemutatja a város sokszínű arcát. A kerékpártúra a zöldben ér véget, mielőtt visszatérne a kiindulópontra.",
         "ro": "Urcați-vă pe bicicletă și descoperiți contrastele orașului Almelo, de la moștenirea industrială din Indiëterrein la splendoarea istorică a centrului orașului. După prânz, turul vă duce spre nord, la impunătorul Huis Almelo și la parcul adiacent Beeklust. Este o călătorie prin timp și natură, care dezvăluie multiplele fațete ale orașului. Turul cu bicicleta se încheie relaxant în zona verde înainte de a vă întoarce la punctul de plecare.",
-        "en": "Get on your bike and discover the contrasts of Almelo, from the industrial heritage of Indiëterrein to the historic splendor of the city center. After lunch, the tour takes you north to the stately Huis Almelo and the adjacent Beeklust Park. It's a journey through time and nature, showcasing the city's diverse facets. The bike tour ends with a relaxing time in the green before heading back to the starting point."
+        "en": "Get on your bike and discover the contrasts of Almelo, from the industrial heritage of Indiëterrein to the historic splendor of the city center. After lunch, the tour takes you north to the stately Huis Almelo and the adjacent Beeklust Park. It's a journey through time and nature, showcasing the city's diverse facets. The bike tour ends with a relaxing time in the green before heading back to the starting point.",
+        "nl": "Stap op je fiets en ontdek de contrasten van Almelo, van het industriële erfgoed van het Indiëterrein tot de historische pracht van het stadscentrum. Na de lunch leidt de route je naar het noorden naar het statige Huis Almelo en het aangrenzende Beeklust Park. Het is een reis door tijd en natuur die de diverse gezichten van de stad laat zien. De fietstocht eindigt met een ontspannen moment in het groen voordat je terugkeert naar het beginpunt."
       },
       "gastro_picks": {
         "de": [
@@ -678,7 +708,8 @@
             "de": "Parkplatz Zentrum & Grote Kerk",
             "hu": "Parkoló a központban és a Nagy Templom",
             "ro": "Parcare Centru & Grote Kerk",
-            "en": "Parking City Center & Grote Kerk"
+            "en": "Parking City Center & Grote Kerk",
+            "nl": "Parkeren Stadscentrum & Grote Kerk"
           },
           "coords": [
             6.6635,
@@ -694,7 +725,8 @@
             "de": "Beginnen Sie Ihren Tag im spirituellen Herzen der Stadt, nachdem Sie geparkt haben.",
             "hu": "Parkolás után kezdje a napot a város spirituális szívében.",
             "ro": "După ce ați parcat, începeți ziua în inima spirituală a orașului.",
-            "en": "After parking, start your day in the spiritual heart of the city."
+            "en": "After parking, start your day in the spiritual heart of the city.",
+            "nl": "Na het parkeren begin je je dag in het spirituele hart van de stad."
           }
         },
         {
@@ -702,7 +734,8 @@
             "de": "Stadsmuseum Almelo",
             "hu": "Almelo Városi Múzeum",
             "ro": "Muzeul Orașului Almelo",
-            "en": "City Museum Almelo"
+            "en": "City Museum Almelo",
+            "nl": "City Museum Almelo"
           },
           "coords": [
             6.661,
@@ -718,7 +751,8 @@
             "de": "Ein kurzer Spaziergang von der Kirche entfernt, tauchen Sie in die Textilgeschichte ein.",
             "hu": "A templomtól egy rövid sétára merüljön el a textilipar történetében.",
             "ro": "La o scurtă plimbare de biserică, pătrundeți în istoria textilelor.",
-            "en": "A short walk from the church, dive into the textile history."
+            "en": "A short walk from the church, dive into the textile history.",
+            "nl": "Op korte loopafstand van de kerk, duik in de textielgeschiedenis."
           }
         },
         {
@@ -726,7 +760,8 @@
             "de": "Mittagessen im Zentrum",
             "hu": "Ebéd a központban",
             "ro": "Prânz în centru",
-            "en": "Lunch in the Center"
+            "en": "Lunch in the Center",
+            "nl": "Lunch in het centrum"
           },
           "coords": [
             6.662,
@@ -742,7 +777,8 @@
             "de": "Stärken Sie sich, bevor Sie zurück zum Auto gehen und zum nächsten Cluster fahren.",
             "hu": "Erősítsen, mielőtt visszamegy az autóhoz és a következő helyszíncsoporthoz hajt.",
             "ro": "Luați o masă copioasă înainte de a vă întoarce la mașină și a merge la următorul grup de obiective.",
-            "en": "Recharge before walking back to the car for the next cluster."
+            "en": "Recharge before walking back to the car for the next cluster.",
+            "nl": "Laad jezelf op voordat je terugloopt naar de auto voor de volgende cluster."
           }
         },
         {
@@ -750,7 +786,8 @@
             "de": "Huis Almelo & Beeklustpark",
             "hu": "Huis Almelo és Beeklustpark",
             "ro": "Huis Almelo și Parcul Beeklust",
-            "en": "Huis Almelo & Beeklust Park"
+            "en": "Huis Almelo & Beeklust Park",
+            "nl": "Huis Almelo & Beeklust Park"
           },
           "coords": [
             6.67,
@@ -766,7 +803,8 @@
             "de": "Parken Sie hier und erkunden Sie sowohl das Schlossgelände als auch den angrenzenden Park zu Fuß.",
             "hu": "Parkoljon le itt, és fedezze fel gyalog a kastély területét és a szomszédos parkot.",
             "ro": "Parcați aici și explorați atât domeniul castelului, cât și parcul adiacent pe jos.",
-            "en": "Park here and explore both the castle grounds and the adjacent park on foot."
+            "en": "Park here and explore both the castle grounds and the adjacent park on foot.",
+            "nl": "Parkeer hier en verken zowel het kasteeldomein als het aangrenzende park te voet."
           }
         },
         {
@@ -774,7 +812,8 @@
             "de": "Spaziergang im Beeklustpark",
             "hu": "Séta a Beeklustparkban",
             "ro": "Plimbare în Parcul Beeklust",
-            "en": "Walk in Beeklust Park"
+            "en": "Walk in Beeklust Park",
+            "nl": "Wandeling in Beeklust Park"
           },
           "coords": [
             6.675,
@@ -790,7 +829,8 @@
             "de": "Dies ist Teil Ihres Spaziergangs, genießen Sie die Teiche und alten Bäume.",
             "hu": "Ez a séta része, élvezze a tavakat és az öreg fákat.",
             "ro": "Aceasta este parte a plimbării dumneavoastră; bucurați-vă de iazuri și de copacii bătrâni.",
-            "en": "This is part of your walk; enjoy the ponds and ancient trees."
+            "en": "This is part of your walk; enjoy the ponds and ancient trees.",
+            "nl": "Dit is onderdeel van je wandeling; geniet van de vijvers en oude bomen."
           }
         },
         {
@@ -798,7 +838,8 @@
             "de": "Indiëterrein",
             "hu": "Indiëterrein",
             "ro": "Indiëterrein",
-            "en": "Indiëterrein"
+            "en": "Indiëterrein",
+            "nl": "Indiëterrein"
           },
           "coords": [
             6.65,
@@ -814,7 +855,8 @@
             "de": "Beenden Sie den Tag mit einem Blick auf die Transformation des industriellen Erbes von Almelo.",
             "hu": "Fejezze be a napot Almelo ipari örökségének átalakulásának megtekintésével.",
             "ro": "Încheiați ziua aruncând o privire la transformarea moștenirii industriale a orașului Almelo.",
-            "en": "End the day with a look at the transformation of Almelo's industrial heritage."
+            "en": "End the day with a look at the transformation of Almelo's industrial heritage.",
+            "nl": "Sluit de dag af met een blik op de transformatie van Almelos industriële erfgoed."
           }
         }
       ],
@@ -822,7 +864,8 @@
         "de": "Ihr Autotag in Almelo ist in drei Teile gegliedert. Am Morgen erkunden Sie zu Fuß das historische Zentrum mit der Grote Kerk und dem Museum. Nach dem Mittagessen fahren Sie zum grünen Cluster im Norden, wo das Huis Almelo und der Beeklustpark auf Sie warten. Der Tag schließt mit einem Besuch des Indiëterreins, einem Zeugnis der industriellen Vergangenheit und Zukunft der Stadt. Diese Tour kombiniert Kultur, Natur und Geschichte auf effiziente Weise.",
         "hu": "Autós napja Almelóban három részre oszlik. Délelőtt gyalogosan fedezi fel a történelmi központot a Grote Kerkkel és a múzeummal. Ebéd után az északi zöld oázishoz hajt, ahol a Huis Almelo és a Beeklustpark várja. A napot az Indiëterrein meglátogatásával zárja, amely a város ipari múltjának és jövőjének tanúja. Ez a túra hatékonyan ötvözi a kultúrát, a természetet és a történelmet.",
         "ro": "Ziua dumneavoastră cu mașina în Almelo este împărțită în trei părți. Dimineața explorați pe jos centrul istoric, cu Grote Kerk și muzeul. După prânz, conduceți spre grupul de obiective verzi din nord, unde vă așteaptă Huis Almelo și Parcul Beeklust. Ziua se încheie cu o vizită la Indiëterrein, o mărturie a trecutului și viitorului industrial al orașului. Acest tur combină în mod eficient cultura, natura și istoria.",
-        "en": "Your car day in Almelo is divided into three parts. In the morning, you'll explore the historic center on foot, with the Grote Kerk and the museum. After lunch, you drive to the green cluster in the north, where Huis Almelo and Beeklust Park await. The day concludes with a visit to Indiëterrein, a testament to the city's industrial past and future. This tour efficiently combines culture, nature, and history."
+        "en": "Your car day in Almelo is divided into three parts. In the morning, you'll explore the historic center on foot, with the Grote Kerk and the museum. After lunch, you drive to the green cluster in the north, where Huis Almelo and Beeklust Park await. The day concludes with a visit to Indiëterrein, a testament to the city's industrial past and future. This tour efficiently combines culture, nature, and history.",
+        "nl": "Je autoday in Almelo is in drie delen verdeeld. 's Ochtends verken je het historische centrum te voet, met de Grote Kerk en het museum. Na de lunch rijd je naar de groene cluster in het noorden, waar Huis Almelo en Beeklust Park op je wachten. De dag wordt afgesloten met een bezoek aan het Indiëterrein, een getuigenis van het industriële verleden en de toekomst van de stad. Deze tour combineert efficiënt cultuur, natuur en geschiedenis."
       },
       "gastro_picks": {
         "de": [
@@ -1014,7 +1057,8 @@
             "de": "Ankunft Zentrum & Grote Kerk",
             "hu": "Érkezés a központba és a Nagy Templom",
             "ro": "Sosire în Centru & Grote Kerk",
-            "en": "Arrival City Center & Grote Kerk"
+            "en": "Arrival City Center & Grote Kerk",
+            "nl": "Aankomst Stadscentrum & Grote Kerk"
           },
           "coords": [
             6.663,
@@ -1030,7 +1074,8 @@
             "de": "Beginnen Sie nach der Ankunft mit dem Bus direkt im historischen Kern.",
             "hu": "A busszal való érkezés után kezdjen közvetlenül a történelmi magban.",
             "ro": "După sosirea cu autobuzul, începeți direct în nucleul istoric.",
-            "en": "After arriving by bus, start directly in the historic core."
+            "en": "After arriving by bus, start directly in the historic core.",
+            "nl": "Na aankomst met de bus begin je direct in de historische kern."
           }
         },
         {
@@ -1038,7 +1083,8 @@
             "de": "Stadsmuseum Almelo",
             "hu": "Almelo Városi Múzeum",
             "ro": "Muzeul Orașului Almelo",
-            "en": "City Museum Almelo"
+            "en": "City Museum Almelo",
+            "nl": "City Museum Almelo"
           },
           "coords": [
             6.661,
@@ -1054,7 +1100,8 @@
             "de": "Erkunden Sie die Geschichte der Stadt, bevor Sie zu Mittag essen.",
             "hu": "Fedezze fel a város történetét ebéd előtt.",
             "ro": "Explorați istoria orașului înainte de a lua prânzul.",
-            "en": "Explore the city's history before having lunch."
+            "en": "Explore the city's history before having lunch.",
+            "nl": "Verken de geschiedenis van de stad voordat je gaat lunchen."
           }
         },
         {
@@ -1062,7 +1109,8 @@
             "de": "Mittagessen",
             "hu": "Ebéd",
             "ro": "Prânz",
-            "en": "Lunch"
+            "en": "Lunch",
+            "nl": "Lunch"
           },
           "coords": [
             6.662,
@@ -1078,7 +1126,8 @@
             "de": "Genießen Sie eine Mahlzeit, bevor Sie den Bus zum nächsten Ziel nehmen.",
             "hu": "Élvezzen egy ebédet, mielőtt buszra szállna a következő úti célhoz.",
             "ro": "Bucurați-vă de o masă înainte de a lua autobuzul spre următoarea destinație.",
-            "en": "Enjoy a meal before taking the bus to the next destination."
+            "en": "Enjoy a meal before taking the bus to the next destination.",
+            "nl": "Geniet van een maaltijd voordat je de bus neemt naar de volgende bestemming."
           }
         },
         {
@@ -1086,7 +1135,8 @@
             "de": "Beeklustpark",
             "hu": "Beeklustpark",
             "ro": "Parcul Beeklust",
-            "en": "Beeklust Park"
+            "en": "Beeklust Park",
+            "nl": "Beeklust Park"
           },
           "coords": [
             6.675,
@@ -1102,7 +1152,8 @@
             "de": "Nehmen Sie einen Bus nach Norden und genießen Sie einen langen Spaziergang im Park.",
             "hu": "Szálljon fel egy észak felé tartó buszra, és tegyen egy hosszú sétát a parkban.",
             "ro": "Luați un autobuz spre nord și bucurați-vă de o plimbare lungă în parc.",
-            "en": "Take a bus north and enjoy a long walk in the park."
+            "en": "Take a bus north and enjoy a long walk in the park.",
+            "nl": "Neem de bus naar het noorden en geniet van een lange wandeling in het park."
           }
         },
         {
@@ -1110,7 +1161,8 @@
             "de": "Indiëterrein",
             "hu": "Indiëterrein",
             "ro": "Indiëterrein",
-            "en": "Indiëterrein"
+            "en": "Indiëterrein",
+            "nl": "Indiëterrein"
           },
           "coords": [
             6.65,
@@ -1126,7 +1178,8 @@
             "de": "Nehmen Sie einen Bus quer durch die Stadt, um das moderne, umgestaltete Industriegebiet zu sehen.",
             "hu": "Szálljon buszra a városon keresztül, hogy megnézze a modern, átalakított ipari területet.",
             "ro": "Luați un autobuz prin oraș pentru a vedea zona industrială modernă și transformată.",
-            "en": "Take a bus across town to see the modern, transformed industrial area."
+            "en": "Take a bus across town to see the modern, transformed industrial area.",
+            "nl": "Neem de bus door de stad om het moderne, getransformeerde industrieterrein te zien."
           }
         }
       ],
@@ -1134,7 +1187,8 @@
         "de": "Mit den öffentlichen Verkehrsmitteln erkunden Sie Almelo in Etappen. Der Morgen gehört dem historischen Zentrum, das leicht zu Fuß erreichbar ist. Nach dem Mittagessen bringt Sie ein Bus in die grüne Oase des Beeklustparks. Zum Abschluss des Tages durchqueren Sie die Stadt, um das faszinierende Indiëterrein zu besichtigen. Diese Tour zeigt, wie einfach es ist, die verschiedenen Gesichter von Almelo mit dem Bus zu entdecken.",
         "hu": "Tömegközlekedéssel szakaszosan fedezheti fel Almelót. A délelőtt a történelmi központé, amely gyalogosan is könnyen megközelíthető. Ebéd után egy busz viszi a Beeklustpark zöld oázisába. A nap végén átszeli a várost, hogy megnézze a lenyűgöző Indiëterreint. Ez a túra bemutatja, milyen egyszerű busszal felfedezni Almelo különböző arcait.",
         "ro": "Cu transportul public, explorați Almelo în etape. Dimineața este dedicată centrului istoric, ușor de explorat pe jos. După prânz, un autobuz vă duce la oaza de verdeață a Parcului Beeklust. La finalul zilei, traversați orașul pentru a vizita fascinantul Indiëterrein. Acest tur arată cât de ușor este să descoperiți diferitele fațete ale orașului Almelo cu autobuzul.",
-        "en": "Using public transport, you'll explore Almelo in stages. The morning belongs to the historic center, easily accessible on foot. After lunch, a bus takes you to the green oasis of Beeklust Park. To end the day, you'll cross the city to visit the fascinating Indiëterrein. This tour shows how easy it is to discover the different faces of Almelo by bus."
+        "en": "Using public transport, you'll explore Almelo in stages. The morning belongs to the historic center, easily accessible on foot. After lunch, a bus takes you to the green oasis of Beeklust Park. To end the day, you'll cross the city to visit the fascinating Indiëterrein. This tour shows how easy it is to discover the different faces of Almelo by bus.",
+        "nl": "Met het openbaar vervoer verken je Almelo in etappes. De ochtend behoort toe aan het historische centrum, makkelijk te voet bereikbaar. Na de lunch brengt een bus je naar de groene oase van Beeklust Park. Om de dag af te sluiten steek je de stad over voor een bezoek aan het fascinerende Indiëterrein. Deze tour laat zien hoe eenvoudig het is om de verschillende gezichten van Almelo per bus te ontdekken."
       },
       "gastro_picks": {
         "de": [

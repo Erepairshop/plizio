@@ -21,7 +21,8 @@
             "de": "Stadhuis & Grote Markt",
             "hu": "Városháza és Fő tér",
             "ro": "Primăria și Piața Mare (Grote Markt)",
-            "en": "City Hall & Grote Markt"
+            "en": "City Hall & Grote Markt",
+            "nl": "Stadhuis & Grote Markt"
           },
           "coords": [
             4.2872,
@@ -36,7 +37,8 @@
             "de": "Beginnen Sie den Tag mit einem Kaffee in einem der vielen Cafés am Platz.",
             "hu": "Indítsa a napot egy kávéval a téren található számos kávézó egyikében.",
             "ro": "Începeți ziua cu o cafea la una dintre numeroasele cafenele din piață.",
-            "en": "Start your day with a coffee at one of the many cafes lining the square."
+            "en": "Start your day with a coffee at one of the many cafes lining the square.",
+            "nl": "Begin uw dag met een kop koffie bij een van de vele cafés aan het plein."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Sint-Gertrudiskerk",
             "hu": "Szent Gertrúd-templom",
             "ro": "Biserica Sf. Gertruda (Sint-Gertrudiskerk)",
-            "en": "St. Gertrude's Church"
+            "en": "St. Gertrude's Church",
+            "nl": "Sint-Gertrudiskerk"
           },
           "coords": [
             4.2885,
@@ -59,7 +62,8 @@
             "de": "Achten Sie auf die wechselnden Ausstellungen, die oft im Inneren stattfinden.",
             "hu": "Figyeljen a templom belsejében gyakran megrendezett időszaki kiállításokra.",
             "ro": "Fiți atenți la expozițiile temporare care au loc adesea în interior.",
-            "en": "Look out for the changing exhibitions often held inside."
+            "en": "Look out for the changing exhibitions often held inside.",
+            "nl": "Let op de wisselende tentoonstellingen die vaak binnen plaatsvinden."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Peperbus Turm",
             "hu": "Peperbus-torony",
             "ro": "Turnul Peperbus",
-            "en": "Peperbus Tower"
+            "en": "Peperbus Tower",
+            "nl": "Peperbus-toren"
           },
           "coords": [
             4.2886,
@@ -82,7 +87,8 @@
             "de": "Der Aufstieg ist eng, aber die Aussicht über die Dächer der Stadt ist es wert.",
             "hu": "A lépcső szűk, de a város háztetőire nyíló kilátás megéri a fáradságot.",
             "ro": "Urcușul este îngust, dar priveliștea deasupra acoperișurilor orașului merită.",
-            "en": "The climb is narrow, but the view over the city's rooftops is worth it."
+            "en": "The climb is narrow, but the view over the city's rooftops is worth it.",
+            "nl": "De klim is smal, maar het uitzicht over de dakpannen van de stad is de moeite waard."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Gevangenpoort",
             "hu": "Börtönkapu",
             "ro": "Poarta Prizonierilor (Gevangenpoort)",
-            "en": "Prisoner's Gate"
+            "en": "Prisoner's Gate",
+            "nl": "Gevangenpoort"
           },
           "coords": [
             4.289,
@@ -105,7 +112,8 @@
             "de": "Dies ist eines der ältesten Stadttore der Niederlande. Ein toller Fotostopp.",
             "hu": "Ez Hollandia egyik legrégebbi városkapuja. Nagyszerű fotóhelyszín.",
             "ro": "Aceasta este una dintre cele mai vechi porți de oraș din Țările de Jos. O oprire excelentă pentru fotografii.",
-            "en": "This is one of the oldest city gates in the Netherlands. A great photo stop."
+            "en": "This is one of the oldest city gates in the Netherlands. A great photo stop.",
+            "nl": "Dit is een van de oudste stadspoorten van Nederland. Een prima fotostop."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Markiezenhof",
             "hu": "Markiezenhof-palota",
             "ro": "Palatul Markiezenhof",
-            "en": "Markiezenhof Palace"
+            "en": "Markiezenhof Palace",
+            "nl": "Markiezenhof"
           },
           "coords": [
             4.29,
@@ -128,7 +137,8 @@
             "de": "Planen Sie hier Ihre Mittagspause ein; das Museumscafé ist charmant.",
             "hu": "Tervezze ide az ebédszünetet; a múzeumi kávézó bájos.",
             "ro": "Planificați-vă pauza de prânz aici; cafeneaua muzeului este fermecătoare.",
-            "en": "Plan your lunch break here; the museum cafe is charming."
+            "en": "Plan your lunch break here; the museum cafe is charming.",
+            "nl": "Plan hier uw lunchpauze; het museumcafé is charmant."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Theater De Maagd",
             "hu": "De Maagd Színház",
             "ro": "Teatrul De Maagd",
-            "en": "Theater De Maagd"
+            "en": "Theater De Maagd",
+            "nl": "Theater De Maagd"
           },
           "coords": [
             4.286,
@@ -151,7 +162,8 @@
             "de": "Bewundern Sie die Umwandlung von einer Kirche in ein modernes Theater.",
             "hu": "Csodálja meg, hogyan alakították át a templomot modern színházzá.",
             "ro": "Admirați transformarea unei biserici într-un teatru modern.",
-            "en": "Admire the transformation from a church into a modern theatre."
+            "en": "Admire the transformation from a church into a modern theatre.",
+            "nl": "Bewonder de transformatie van kerk naar modern theater."
           }
         },
         {
@@ -159,7 +171,8 @@
             "de": "Ravelijn op den Zoom",
             "hu": "Ravelijn op den Zoom erőd",
             "ro": "Fortăreața Ravelijn op den Zoom",
-            "en": "Ravelijn op den Zoom Fortress"
+            "en": "Ravelijn op den Zoom Fortress",
+            "nl": "Ravelijn op den Zoom"
           },
           "coords": [
             4.278,
@@ -174,7 +187,8 @@
             "de": "Umgeben von Wasser, ist dies ein friedlicher Ort zum Entspannen am Nachmittag.",
             "hu": "Vízzel körülvéve ez egy békés hely a délutáni pihenéshez.",
             "ro": "Înconjurat de apă, acesta este un loc linișit pentru a vă relaxa după-amiaza.",
-            "en": "Surrounded by water, this is a peaceful spot to unwind in the afternoon."
+            "en": "Surrounded by water, this is a peaceful spot to unwind in the afternoon.",
+            "nl": "Omringd door water; een rustige plek om in de middag te ontspannen."
           }
         }
       ],
@@ -182,7 +196,8 @@
         "de": "Beginnen Sie Ihren Rundgang auf dem belebten Grote Markt, dem Herzen der Stadt. Der Vormittag ist der Erkundung des historischen Zentrums gewidmet, einschließlich des Aufstiegs auf den Peperbus-Turm für eine atemberaubende Aussicht. Nach dem Mittagessen im prächtigen Markiezenhof, dem ältesten Stadtpalast der Niederlande, führt Sie ein längerer Spaziergang zur einzigartigen, von Wasser umgebenen Festung Ravelijn. Schließen Sie den Tag mit einem Spaziergang durch die ruhigen Festungsanlagen ab, eine perfekte Reflexion der reichen Geschichte von Bergen op Zoom.",
         "hu": "Kezdje a sétát a nyüzsgő Grote Markton, a város szívében. A délelőtt a történelmi központ felfedezésével telik, beleértve a Peperbus-torony megmászását a lélegzetelállító kilátásért. Ebéd után a csodálatos Markiezenhofban, Hollandia legrégebbi városi palotájában, egy hosszabb séta vezet az egyedülálló, vízzel körülvett Ravelijn erődhöz. Zárja a napot egy sétával a csendes erődítmények között, amely tökéletesen tükrözi Bergen op Zoom gazdag történelmét.",
         "ro": "Începeți turul pietonal în animata Grote Markt, inima orașului. Dimineața este dedicată explorării centrului istoric, inclusiv urcarea în turnul Peperbus pentru priveliști uimitoare. După prânzul la magnificul Markiezenhof, cel mai vechi palat urban din Olanda, o plimbare mai lungă vă va duce la fortăreața unică Ravelijn, înconjurată de apă. Încheiați ziua cu o plimbare prin fortificațiile liniștite, o reflecție perfectă a istoriei bogate a orașului Bergen op Zoom.",
-        "en": "Start your walking tour in the bustling Grote Markt, the heart of the city. The morning is dedicated to exploring the historic centre, including climbing the Peperbus tower for stunning views. After lunch at the magnificent Markiezenhof, the oldest city palace in the Netherlands, a longer walk takes you to the unique water-bound Ravelijn fortress. End the day with a stroll through the quiet fortifications, a perfect reflection of Bergen op Zoom's rich history."
+        "en": "Start your walking tour in the bustling Grote Markt, the heart of the city. The morning is dedicated to exploring the historic centre, including climbing the Peperbus tower for stunning views. After lunch at the magnificent Markiezenhof, the oldest city palace in the Netherlands, a longer walk takes you to the unique water-bound Ravelijn fortress. End the day with a stroll through the quiet fortifications, a perfect reflection of Bergen op Zoom's rich history.",
+        "nl": "Begin uw wandelroute op de levendige Grote Markt, het hart van de stad. De ochtend staat in het teken van het historicentrum, inclusief de Peperbus beklimmen voor een prachtig uitzicht. Na de lunch in het indrukwekkende Markiezenhof, het oudste stadspaleis van Nederland, leidt een langere wandeling naar het unieke watergebonden Ravelijn. Sluit de dag af met een wandeling door de stille vestingwerken, een perfecte reflectie van de rijke geschiedenis van Bergen op Zoom."
       },
       "gastro_picks": {
         "de": [
@@ -378,6 +393,12 @@
           "Most sights in the city centre are within easy walking distance.",
           "Check the opening hours for the Peperbus tower as they can vary.",
           "The walk to the Ravelijn is pleasant, but allow enough time for it."
+        ],
+        "nl": [
+          "Draag comfortabele schoenen, de kasseien in de oude stad kunnen ongelijk zijn.",
+          "De meeste bezienswaardigheden in het centrum liggen op loopafstand.",
+          "Controleer de openingstijden van de Peperbus; die kunnen variëren.",
+          "De wandeling naar het Ravelijn is aangenaam, maar reken voldoende tijd."
         ]
       },
       "variants": {
@@ -386,7 +407,8 @@
             "de": "Der Vormittag am Grote Markt beginnt unter den Arkaden des Rathauses. Die St.-Gertrudis-Kirche bietet einen prachtvollen, trockenen Rückzugsort vor dem niederländischen Regen. Mittags wärmen wir uns bei einer Suppe in einer der gemütlichen Brasserien am Platz auf, bevor wir den Markiezenhof besuchen. Den Nachmittag verbringen wir in den weitläufigen Sälen des Palastes. Am Abend erreichen wir das Ravelijn, wo die unterirdischen Gänge Schutz bieten, während der Regen auf die Festung prasselt.",
             "hu": "A délelőtt a Grote Markton indul, ahol a városháza árkádjai alatt húzódunk meg az eső elől. A Szent Gertrúd-templom belső tere tökéletes menedék a holland záporok idején. Délben egy forró levest fogyasztunk el a tér egyik patinás sörözőjében, majd a Markiezenhof palota felé vesszük az irányt. A délutánt a múzeum fedett termeiben töltjük. Estére a Ravelijn erődhöz érünk, ahol a kazamaták és föld alatti járatok szárazon tartanak minket a városnézés végén.",
             "ro": "Dimineața în Grote Markt începe sub arcadele primăriei pentru a evita ploaia. Biserica Sf. Gertruda oferă un adăpost spiritual și uscat în fața averselor olandeze. La prânz, ne încălzim cu o supă într-o brasierie locală, apoi ne îndreptăm spre Palatul Markiezenhof. Petrecem după-amiaza explorând interioarele vaste ale muzeului. Seara ajungem la fortăreața Ravelijn, unde coridoarele subterane ne protejează de intemperii în timp ce explorăm zidurile vechi.",
-            "en": "The morning at Grote Markt begins under the town hall arcades to escape the rain. St. Gertrude's Church provides a dry, magnificent sanctuary from the Dutch showers. At noon, we warm up with soup in a cozy brasserie before heading to the Markiezenhof Palace. We spend the afternoon indoors exploring the museum's grand galleries. By evening, we reach the Ravelijn fortress, where the underground passages keep us dry while the rain falls on the bastions."
+            "en": "The morning at Grote Markt begins under the town hall arcades to escape the rain. St. Gertrude's Church provides a dry, magnificent sanctuary from the Dutch showers. At noon, we warm up with soup in a cozy brasserie before heading to the Markiezenhof Palace. We spend the afternoon indoors exploring the museum's grand galleries. By evening, we reach the Ravelijn fortress, where the underground passages keep us dry while the rain falls on the bastions.",
+            "nl": "De ochtend op de Grote Markt begint onder de arcades van het stadhuis om droog te blijven. De Sint-Gertrudiskerk biedt een droog, prachtig toevluchtsoord tegen de Nederlandse buien. ’s Middags verwarmen we ons met soep in een gezellige brasserie voordat we naar het Markiezenhof gaan. De middag brengen we binnen door met het verkennen van de weelderige zalen van het museum. Tegen de avond bereiken we het Ravelijn, waar de ondergrondse gangen ons droog houden terwijl de regen op de bastions valt."
           },
           "stops": [
             {
@@ -395,7 +417,8 @@
                 "de": "Nutzen Sie die Arkaden des Rathauses als trockenen Treffpunkt.",
                 "hu": "Használja a városháza árkádjait száraz gyülekezőhelyként.",
                 "ro": "Folosiți arcadele primăriei ca punct de întâlnire uscat.",
-                "en": "Use the town hall arcades as a dry meeting point."
+                "en": "Use the town hall arcades as a dry meeting point.",
+                "nl": "Gebruik de arcades van het stadhuis als droge ontmoetingsplek."
               }
             },
             {
@@ -404,7 +427,8 @@
                 "de": "Der ideale Ort, um einen starken Regenschauer im Trockenen abzuwarten.",
                 "hu": "Ideális hely egy nagyobb zápor átvészelésére a fedél alatt.",
                 "ro": "Locul ideal pentru a aștepta trecerea unei ploi torențiale.",
-                "en": "Ideal place to wait out a heavy rain shower indoors."
+                "en": "Ideal place to wait out a heavy rain shower indoors.",
+                "nl": "Ideale plek om een hevige regenbui binnen uit te zitten."
               }
             },
             {
@@ -413,7 +437,8 @@
                 "de": "Vorsicht beim Aufstieg, die Stufen können bei Nässe rutschig sein.",
                 "hu": "Vigyázat a mászásnál, a lépcsők nedves időben csúszósak lehetnek.",
                 "ro": "Atenție la urcare, treptele pot fi alunecoase pe timp de ploaie.",
-                "en": "Careful while climbing, the steps can be slippery when wet."
+                "en": "Careful while climbing, the steps can be slippery when wet.",
+                "nl": "Wees voorzichtig tijdens het klimmen; de treden kunnen glad zijn als ze nat zijn."
               }
             },
             {
@@ -422,7 +447,8 @@
                 "de": "Das Tor bietet einen kurzen, überdachten Durchgang zum Schutz.",
                 "hu": "A kapu rövid, fedett átjárót biztosít az eső elől.",
                 "ro": "Poarta oferă o scurtă trecere acoperită pentru protecție.",
-                "en": "The gate provides a short, covered passage for protection."
+                "en": "The gate provides a short, covered passage for protection.",
+                "nl": "De poort biedt een korte, overdekte doorgang voor beschutting."
               }
             },
             {
@@ -431,7 +457,8 @@
                 "de": "Verlängern Sie den Besuch, um die Innenhöfe nur bei Regenpausen zu queren.",
                 "hu": "Hosszabbítsa meg a látogatást, az udvarokon csak esőszünetben keljen át.",
                 "ro": "Prelungiți vizita, traversați curțile interioare doar în pauzele de ploaie.",
-                "en": "Extend your visit, cross the courtyards only during rain breaks."
+                "en": "Extend your visit, cross the courtyards only during rain breaks.",
+                "nl": "Verleng uw bezoek; kruis de binnenplaatsen alleen tijdens regenpauzes."
               }
             },
             {
@@ -440,7 +467,8 @@
                 "de": "Prüfen Sie, ob das Foyer für eine kurze Regenpause zugänglich ist.",
                 "hu": "Ellenőrizze, hogy az előcsarnok nyitva van-e egy rövid pihenőre.",
                 "ro": "Verificați dacă foaierul este accesibil pentru o scurtă pauză de ploaie.",
-                "en": "Check if the foyer is accessible for a short rain break."
+                "en": "Check if the foyer is accessible for a short rain break.",
+                "nl": "Controleer of de foyer toegankelijk is voor een korte regenpauze."
               }
             },
             {
@@ -449,7 +477,8 @@
                 "de": "Nutzen Sie die unterirdischen Kasematten zur Erkundung im Trockenen.",
                 "hu": "Használja a föld alatti kazamatákat a száraz felfedezéshez.",
                 "ro": "Folosiți cazuistele subterane pentru a explora la adăpost.",
-                "en": "Use the underground casemates for dry exploration."
+                "en": "Use the underground casemates for dry exploration.",
+                "nl": "Gebruik de ondergrondse casemates voor droge verkenning."
               }
             }
           ],
@@ -481,6 +510,13 @@
               "Markiezenhof Palace offers hours of dry indoor entertainment.",
               "Take advantage of the covered passages near the Grote Markt.",
               "In case of heavy wind, seek shelter in the city's massive archways."
+            ],
+            "nl": [
+              "Draag een goede regendeken/regenjas; de wind maakt paraplu’s hier vaak nutteloos.",
+              "De kasseien in de oude stad worden extreem glad als ze nat zijn.",
+              "Het Markiezenhof biedt urenlang droog vermaak binnen.",
+              "Profiteer van de overdekte doorgangen bij de Grote Markt.",
+              "Bij zware wind zoeken we beschutting in de massieve bogen van de stad."
             ]
           }
         },
@@ -489,7 +525,8 @@
             "de": "Ein klarer Wintermorgen am Grote Markt, wo der Frost die historischen Giebel ziert. In der St.-Gertrudis-Kirche herrscht eine stille, andächtige Kälte, bevor wir den Peperbus für einen weiten Blick über das verschneite Brabant besteigen. Mittags lockt der Markiezenhof mit seinen prunkvollen Sälen und einem wärmenden Kaffee im Museumscafé. Da die Sonne bereits gegen 16:30 Uhr sinkt, erleben wir das Ravelijn in der blauen Stunde, wenn die Festungsbeleuchtung in der Winterdämmerung erstrahlt.",
             "hu": "Tiszta téli reggel a Grote Markton, ahol a zúzmara díszíti a történelmi oromfalakat. A Szent Gertrúd-templomban áhítatos csend fogad, mielőtt megmásznánk a Peperbust a havas Brabant látványáért. Délben a Markiezenhof palota hívogat díszes termeivel és egy meleg kávéval a múzeumi kávézóban. Mivel a nap már fél öt körül nyugovóra tér, a Ravelijn erődöt a kora esti szürkületben fedezzük fel, amikor a díszkivilágítás különleges hangulatot áraszt a téli hidegben.",
             "ro": "O dimineață senină de iarnă în Grote Markt, unde chiciura împodobește frontoanele istorice. În Biserica Sf. Gertruda domnește o liniște solemnă înainte de a urca în turnul Peperbus pentru o vedere panoramică asupra Brabantului înzăpezit. La prânz, Palatul Markiezenhof ne atrage cu sălile sale fastuoase și o cafea caldă în cafeneaua muzeului. Deoarece soarele apune deja în jurul orei 16:30, explorăm fortăreața Ravelijn în lumina serii, când iluminatul festiv strălucește în amurg.",
-            "en": "A crisp winter morning at Grote Markt, with frost adorning the historic gables. St. Gertrude's Church offers a quiet, solemn atmosphere before we climb the Peperbus for views over snowy Brabant. At noon, the Markiezenhof Palace beckons with its grand halls and a warming coffee in the museum café. As the sun sets around 4:30 PM, we experience the Ravelijn fortress during the blue hour, when the lights sparkle against the winter dusk."
+            "en": "A crisp winter morning at Grote Markt, with frost adorning the historic gables. St. Gertrude's Church offers a quiet, solemn atmosphere before we climb the Peperbus for views over snowy Brabant. At noon, the Markiezenhof Palace beckons with its grand halls and a warming coffee in the museum café. As the sun sets around 4:30 PM, we experience the Ravelijn fortress during the blue hour, when the lights sparkle against the winter dusk.",
+            "nl": "Een frisse winterochtend op de Grote Markt, met rijp op de historische gevels. De Sint-Gertrudiskerk biedt een stille, plechtige sfeer voordat we de Peperbus beklimmen voor uitzicht over het besneeuwde Brabant. ’s Middags lokt het Markiezenhof met zijn grote zalen en een verwarmende koffie in het museumcafé. Rond 16:30 uur, wanneer de zon ondergaat, beleven we het Ravelijn tijdens het blauwe uur, wanneer de verlichting schittert tegen de winterschemering."
           },
           "stops": [
             {
@@ -498,7 +535,8 @@
                 "de": "Genießen Sie den Markt bei Frost, bevor die Cafés öffnen.",
                 "hu": "Élvezze a fagyos főteret, mielőtt kinyitnak a kávézók.",
                 "ro": "Bucurați-vă de piața înghețată înainte de deschiderea cafenelelor.",
-                "en": "Enjoy the frost-covered market before the cafes open."
+                "en": "Enjoy the frost-covered market before the cafes open.",
+                "nl": "Geniet van de met rijp bedekte markt voordat de cafés open zijn."
               }
             },
             {
@@ -507,7 +545,8 @@
                 "de": "Tragen Sie warme Kleidung, die Kirche ist im Winter sehr kühl.",
                 "hu": "Öltözzön rétegesen, a templom télen kifejezetten hideg.",
                 "ro": "Purtați haine groase, biserica este foarte răcoroasă iarna.",
-                "en": "Wear warm clothing, the church is quite chilly in winter."
+                "en": "Wear warm clothing, the church is quite chilly in winter.",
+                "nl": "Draag warme kleding; de kerk is in de winter behoorlijk koud."
               }
             },
             {
@@ -516,7 +555,8 @@
                 "de": "Der Wind oben am Turm ist im Winter extrem schneidend.",
                 "hu": "A torony tetején a téli szél rendkívül metsző lehet.",
                 "ro": "Vântul din vârful turnului este extrem de tăios iarna.",
-                "en": "The wind at the top of the tower is extremely biting in winter."
+                "en": "The wind at the top of the tower is extremely biting in winter.",
+                "nl": "De wind bovenin de toren snijdt erg in de winter."
               }
             },
             {
@@ -525,7 +565,8 @@
                 "de": "Kurzer Stopp für Fotos der frostigen Fassade.",
                 "hu": "Rövid megálló a fagyos homlokzat fotózásához.",
                 "ro": "Oprire scurtă pentru fotografii ale fațadei înghețate.",
-                "en": "Short stop for photos of the frosty facade."
+                "en": "Short stop for photos of the frosty facade.",
+                "nl": "Korte stop voor foto’s van de met rijp bedekte gevel."
               }
             },
             {
@@ -534,7 +575,8 @@
                 "de": "Der perfekte Ort, um sich im geheizten Museum aufzuwärmen.",
                 "hu": "Tökéletes hely a felmelegedésre a fűtött múzeumban.",
                 "ro": "Locul perfect pentru a vă încălzi în muzeul încălzit.",
-                "en": "The perfect place to warm up in the heated museum."
+                "en": "The perfect place to warm up in the heated museum.",
+                "nl": "De perfecte plek om op te warmen in het verwarmde museum."
               }
             },
             {
@@ -543,7 +585,8 @@
                 "de": "Die Abendbeleuchtung des Theaters ist im Winter besonders schön.",
                 "hu": "A színház esti kivilágítása télen különösen látványos.",
                 "ro": "Iluminatul de seară al teatrului este deosebit de frumos iarna.",
-                "en": "The theater's evening lighting is especially beautiful in winter."
+                "en": "The theater's evening lighting is especially beautiful in winter.",
+                "nl": "De avondverlichting van het theater is in de winter bijzonder mooi."
               }
             },
             {
@@ -552,7 +595,8 @@
                 "de": "Planen Sie den Besuch vor 16:30 Uhr ein, bevor es dunkel wird.",
                 "hu": "Tervezze a látogatást 16:30 előttre, mielőtt besötétedik.",
                 "ro": "Planificați vizita înainte de ora 16:30, înainte de lăsarea întunericului.",
-                "en": "Plan your visit before 4:30 PM before it gets dark."
+                "en": "Plan your visit before 4:30 PM before it gets dark.",
+                "nl": "Plan uw bezoek voor 16:30 uur voordat het donker wordt."
               }
             }
           ],
@@ -584,6 +628,13 @@
               "The wind coming from the water can significantly lower the felt temperature.",
               "Churches and old buildings are often colder inside than outside.",
               "Hot chocolate at Grote Markt is a must after the city walk."
+            ],
+            "nl": [
+              "De zon gaat vroeg onder; rond 16:00 uur klaar zijn met buitenactiviteiten.",
+              "Let op ijs op de kasseien in de oude stad.",
+              "De wind van het water kan de gevoelstemperatuur flink verlagen.",
+              "Kerken en oude gebouwen zijn binnen vaak kouder dan buiten.",
+              "Warme chocolademelk op de Grote Markt is een must na de stadswandeling."
             ]
           }
         }
@@ -602,7 +653,8 @@
             "de": "Fahrradverleih & Grote Markt",
             "hu": "Kerékpárkölcsönző és Fő tér",
             "ro": "Închiriere biciclete & Grote Markt",
-            "en": "Bike Rental & Grote Markt"
+            "en": "Bike Rental & Grote Markt",
+            "nl": "Fietsenverhuur & Grote Markt"
           },
           "coords": [
             4.2872,
@@ -617,7 +669,8 @@
             "de": "Mieten Sie Ihr Fahrrad in der Nähe des Zentrums, um den Tag zu beginnen.",
             "hu": "Béreljen kerékpárt a központ közelében a nap indításához.",
             "ro": "Închiriați-vă bicicleta aproape de centru pentru a începe ziua.",
-            "en": "Rent your bike near the centre to start the day."
+            "en": "Rent your bike near the centre to start the day.",
+            "nl": "Huur uw fiets bij het centrum om de dag te beginnen."
           }
         },
         {
@@ -625,7 +678,8 @@
             "de": "Ravelijn op den Zoom",
             "hu": "Ravelijn op den Zoom erőd",
             "ro": "Fortăreața Ravelijn op den Zoom",
-            "en": "Ravelijn op den Zoom Fortress"
+            "en": "Ravelijn op den Zoom Fortress",
+            "nl": "Ravelijn op den Zoom"
           },
           "coords": [
             4.278,
@@ -640,7 +694,8 @@
             "de": "Fahren Sie um die Festung herum, um die einzigartige Lage im Wasser zu schätzen.",
             "hu": "Tekerjen körbe az erőd körül, hogy értékelje egyedülálló, vízi fekvését.",
             "ro": "Pedalați în jurul fortăreței pentru a aprecia locația sa unică în apă.",
-            "en": "Cycle around the fortress to appreciate its unique location in the water."
+            "en": "Cycle around the fortress to appreciate its unique location in the water.",
+            "nl": "Fiets rond de vesting om de unieke ligging in het water te waarderen."
           }
         },
         {
@@ -648,7 +703,8 @@
             "de": "Theater De Maagd",
             "hu": "De Maagd Színház",
             "ro": "Teatrul De Maagd",
-            "en": "Theater De Maagd"
+            "en": "Theater De Maagd",
+            "nl": "Theater De Maagd"
           },
           "coords": [
             4.286,
@@ -663,7 +719,8 @@
             "de": "Stellen Sie Ihr Fahrrad ab und bewundern Sie die Architektur.",
             "hu": "Parkolja le a biciklit és csodálja meg az építészetet.",
             "ro": "Parcați-vă bicicleta și admirați arhitectura.",
-            "en": "Park your bike and admire the architecture."
+            "en": "Park your bike and admire the architecture.",
+            "nl": "Zet uw fiets neer en bewonder de architectuur."
           }
         },
         {
@@ -671,7 +728,8 @@
             "de": "Sint-Gertrudiskerk & Peperbus",
             "hu": "Szent Gertrúd-templom és Peperbus",
             "ro": "Biserica Sf. Gertruda și Peperbus",
-            "en": "St. Gertrude's Church & Peperbus"
+            "en": "St. Gertrude's Church & Peperbus",
+            "nl": "Sint-Gertrudiskerk & Peperbus"
           },
           "coords": [
             4.2885,
@@ -686,7 +744,8 @@
             "de": "Kombinieren Sie den Besuch der Kirche mit dem Aufstieg auf den Turm.",
             "hu": "Kombinálja a templomlátogatást a torony megmászásával.",
             "ro": "Combinați vizita la biserică cu urcarea în turn.",
-            "en": "Combine the church visit with the tower climb."
+            "en": "Combine the church visit with the tower climb.",
+            "nl": "Combineer het kerkbezoek met de beklimming van de toren."
           }
         },
         {
@@ -694,7 +753,8 @@
             "de": "Markiezenhof",
             "hu": "Markiezenhof-palota",
             "ro": "Palatul Markiezenhof",
-            "en": "Markiezenhof Palace"
+            "en": "Markiezenhof Palace",
+            "nl": "Markiezenhof"
           },
           "coords": [
             4.29,
@@ -709,7 +769,8 @@
             "de": "Ein großartiger Ort für eine lange Mittagspause und um in die Geschichte einzutauchen.",
             "hu": "Nagyszerű hely egy hosszú ebédszünethez és a történelembe való elmerüléshez.",
             "ro": "Un loc minunat pentru o pauză lungă de prânz și o imersiune în istorie.",
-            "en": "A great place for a long lunch break and to immerse in history."
+            "en": "A great place for a long lunch break and to immerse in history.",
+            "nl": "Een uitstekende plek voor een lange lunchpauze en om in de geschiedenis te duiken."
           }
         },
         {
@@ -717,7 +778,8 @@
             "de": "Gevangenpoort",
             "hu": "Börtönkapu",
             "ro": "Poarta Prizonierilor (Gevangenpoort)",
-            "en": "Prisoner's Gate"
+            "en": "Prisoner's Gate",
+            "nl": "Gevangenpoort"
           },
           "coords": [
             4.289,
@@ -732,7 +794,8 @@
             "de": "Ein kurzer Stopp an diesem beeindruckenden mittelalterlichen Tor.",
             "hu": "Egy rövid megálló ennél a lenyűgöző középkori kapunál.",
             "ro": "O scurtă oprire la această poartă medievală impresionantă.",
-            "en": "A quick stop at this impressive medieval gate."
+            "en": "A quick stop at this impressive medieval gate.",
+            "nl": "Een korte stop bij deze indrukwekkende middeleeuwse poort."
           }
         },
         {
@@ -740,7 +803,8 @@
             "de": "Synagoge",
             "hu": "Zsinagóga",
             "ro": "Sinagoga",
-            "en": "Synagogue"
+            "en": "Synagogue",
+            "nl": "Synagoge"
           },
           "coords": [
             4.285,
@@ -755,7 +819,8 @@
             "de": "Ein Moment der Besinnung an diesem wichtigen historischen Ort.",
             "hu": "A gondolkodás pillanata ezen a fontos történelmi helyen.",
             "ro": "Un moment de reflecție la acest important sit istoric.",
-            "en": "A moment of reflection at this important historical site."
+            "en": "A moment of reflection at this important historical site.",
+            "nl": "Een moment van bezinning bij deze belangrijke historische plek."
           }
         }
       ],
@@ -763,7 +828,8 @@
         "de": "Auf zwei Rädern erkunden Sie Bergen op Zoom schnell und flexibel. Beginnen Sie mit einer Fahrt zur Festung Ravelijn, um die Festungsanlagen zu umrunden. Kehren Sie dann ins Stadtzentrum zurück, um die wichtigsten Sehenswürdigkeiten wie die Sint-Gertrudiskerk und den majestätischen Markiezenhof zu besuchen, wo Sie eine lange Mittagspause einlegen. Der Nachmittag ist kürzeren Fahrten zwischen dem Gevangenpoort und der Synagoge gewidmet, die die vielfältige Geschichte der Stadt zeigen. Diese Route kombiniert Natur, Kultur und Geschichte auf perfekte Weise.",
         "hu": "Két keréken gyorsan és rugalmasan fedezheti fel Bergen op Zoomot. Kezdje egy túrával a Ravelijn erődhöz, hogy körbejárja az erődítményeket. Ezután térjen vissza a városközpontba a főbb látnivalókhoz, mint a Sint-Gertrudiskerk és a fenséges Markiezenhof, ahol egy hosszú ebédszünetet tarthat. A délután rövidebb utakkal telik a Gevangenpoort és a Zsinagóga között, bemutatva a város sokszínű történelmét. Ez az útvonal tökéletesen ötvözi a természetet, a kultúrát és a történelmet.",
         "ro": "Explorați Bergen op Zoom rapid și flexibil pe două roți. Începeți cu o plimbare cu bicicleta la fortăreața Ravelijn pentru a înconjura fortificațiile. Apoi, întoarceți-vă în centrul orașului pentru atracțiile principale precum Sint-Gertrudiskerk și magnificul Markiezenhof, unde veți lua o pauză lungă de prânz. După-amiaza este dedicată unor plimbări mai scurte între Gevangenpoort și Sinagogă, prezentând istoria diversă a orașului. Acest traseu îmbină perfect natura, cultura și istoria.",
-        "en": "Explore Bergen op Zoom quickly and flexibly on two wheels. Start with a ride to the Ravelijn fortress to circle the fortifications. Then, return to the city centre for the main attractions like Sint-Gertrudiskerk and the magnificent Markiezenhof, where you'll take a long lunch break. The afternoon is for shorter hops between the Gevangenpoort and the Synagogue, showcasing the city's diverse history. This route perfectly combines nature, culture, and history."
+        "en": "Explore Bergen op Zoom quickly and flexibly on two wheels. Start with a ride to the Ravelijn fortress to circle the fortifications. Then, return to the city centre for the main attractions like Sint-Gertrudiskerk and the magnificent Markiezenhof, where you'll take a long lunch break. The afternoon is for shorter hops between the Gevangenpoort and the Synagogue, showcasing the city's diverse history. This route perfectly combines nature, culture, and history.",
+        "nl": "Verken Bergen op Zoom snel en flexibel op twee wielen. Begin met een rit naar het Ravelijn om de vestingwerken te omlopen. Keer dan terug naar het centrum voor de belangrijkste attracties zoals de Sint-Gertrudiskerk en het magnifieke Markiezenhof, waar u een lange lunchpauze neemt. De middag is gereserveerd voor korte ritjes tussen de Gevangenpoort en de synagoge, die de diverse geschiedenis van de stad laten zien. Deze route combineert perfect natuur, cultuur en geschiedenis."
       },
       "gastro_picks": {
         "de": [
@@ -959,6 +1025,12 @@
           "Watch out for pedestrians on the narrow streets of the old town.",
           "Use the designated cycle paths wherever possible.",
           "Some areas in the centre are pedestrian-only; you'll need to dismount here."
+        ],
+        "nl": [
+          "Bergen op Zoom is erg fietsvriendelijk, maar zorg dat u uw fiets altijd goed op slot zet.",
+          "Let op voetgangers in de smalle straten van de oude stad.",
+          "Gebruik waar mogelijk de aangewezen fietspaden.",
+          "Sommige delen van het centrum zijn voetgangersgebied; hier moet u afstappen."
         ]
       },
       "variants": {
@@ -967,7 +1039,8 @@
             "de": "Ein regnerischer Radtag in Bergen op Zoom erfordert gute Vorbereitung. Wir starten am Grote Markt und fahren zügig zum Ravelijn, um die Festungsgänge als Regenschutz zu nutzen. Vorbei am Theater geht es zur St.-Gertrudis-Kirche, wo wir die Räder sicher abstellen und das Innere bewundern. Der Markiezenhof bietet danach eine lange, trockene Pause. Trotz des Regens ist die Fahrt durch die Stadt auf den gut ausgebauten Radwegen sicher, solange man die glatten Steine meidet.",
             "hu": "Egy esős kerékpáros nap Bergen op Zoomban jó felkészülést igényel. A Grote Marktról indulunk, és gyorsan a Ravelijnhez tekerünk, hogy az erőd járatait eső elleni menedékként használjuk. A színház mellett elhaladva a Szent Gertrúd-templomhoz érünk, ahol biztonságban lezárhatjuk a bringákat a látogatás idejére. A Markiezenhof hosszú, száraz pihenőt kínál. Az eső ellenére a jól kiépített kerékpárutakon a haladás biztonságos, ha kerüljük a csúszós köveket.",
             "ro": "O zi ploioasă cu bicicleta în Bergen op Zoom necesită o pregătire bună. Începem din Grote Markt și pedalăm rapid spre Ravelijn pentru a folosi galeriile fortăreței ca adăpost. Trecând pe lângă teatru, ajungem la Biserica Sf. Gertruda, unde parcăm bicicletele în siguranță pentru a vizita interiorul. Markiezenhof oferă apoi o pauză lungă și uscată. În ciuda ploii, deplasarea pe pistele de biciclete bine amenajate este sigură, dacă evitați pietrele alunecoase.",
-            "en": "A rainy cycling day in Bergen op Zoom requires good preparation. We start at Grote Markt and cycle quickly to the Ravelijn to use the fortress passages as shelter. Passing the theater, we head to St. Gertrude's Church, where we can park the bikes safely while visiting. The Markiezenhof Palace provides a long, dry break afterwards. Despite the rain, cycling on the well-maintained paths is safe as long as you avoid the slippery stones."
+            "en": "A rainy cycling day in Bergen op Zoom requires good preparation. We start at Grote Markt and cycle quickly to the Ravelijn to use the fortress passages as shelter. Passing the theater, we head to St. Gertrude's Church, where we can park the bikes safely while visiting. The Markiezenhof Palace provides a long, dry break afterwards. Despite the rain, cycling on the well-maintained paths is safe as long as you avoid the slippery stones.",
+            "nl": "Een regenachtige fietsdag in Bergen op Zoom vraagt om goede voorbereiding. We beginnen op de Grote Markt en fietsen snel naar het Ravelijn om de vestinggangen als schuilplaats te gebruiken. Langs het theater gaan we naar de Sint-Gertrudiskerk, waar we de fietsen veilig kunnen parkeren tijdens het bezoek. Het Markiezenhof biedt daarna een lange, droge pauze. Ondanks de regen is fietsen op de goed onderhouden paden veilig, zolang u de gladde stenen vermijdt."
           },
           "stops": [
             {
@@ -976,7 +1049,8 @@
                 "de": "Fragen Sie nach Fahrrädern mit gutem Grip für nasse Straßen.",
                 "hu": "Kérjen jó tapadású gumikkal felszerelt kerékpárt a nedves utakra.",
                 "ro": "Cereți biciclete cu aderență bună pentru drumuri umede.",
-                "en": "Ask for bikes with good grip for wet roads."
+                "en": "Ask for bikes with good grip for wet roads.",
+                "nl": "Vraag om fietsen met goed profiel voor natte wegen."
               }
             },
             {
@@ -985,7 +1059,8 @@
                 "de": "Die Wege rund um die Festung können bei Regen matschig sein.",
                 "hu": "Az erőd körüli utak esőben sarasak lehetnek.",
                 "ro": "Drumurile din jurul fortăreței pot fi noroioase pe timp de ploaie.",
-                "en": "The paths around the fortress can be muddy in the rain."
+                "en": "The paths around the fortress can be muddy in the rain.",
+                "nl": "De paden rond de vesting kunnen modderig worden bij regen."
               }
             },
             {
@@ -994,7 +1069,8 @@
                 "de": "Parken Sie das Rad nah am Eingang unter dem Dachvorsprung.",
                 "hu": "Parkoljon a bringával az entrance közeli tetőeresz alatt.",
                 "ro": "Parcați bicicleta aproape de intrare sub streșină.",
-                "en": "Park the bike close to the entrance under the eaves."
+                "en": "Park the bike close to the entrance under the eaves.",
+                "nl": "Parkeer de fiets dicht bij de ingang onder de dakoverstekken."
               }
             },
             {
@@ -1003,7 +1079,8 @@
                 "de": "Vermeiden Sie das Radfahren auf dem Kirchplatz, sehr glatt.",
                 "hu": "Kerülje a bringázást a templomtéren, mert nagyon csúszik.",
                 "ro": "Evitați mersul pe bicicletă în piața bisericii, este foarte alunecos.",
-                "en": "Avoid cycling on the church square, it's very slippery."
+                "en": "Avoid cycling on the church square, it's very slippery.",
+                "nl": "Vermijd fietsen op het kerkplein; het is daar erg glad."
               }
             },
             {
@@ -1012,7 +1089,8 @@
                 "de": "Nutzen Sie den überdachten Fahrradständer im Innenhofbereich.",
                 "hu": "Használja a fedett kerékpártárolót az udvari részen.",
                 "ro": "Folosiți suportul de biciclete acoperit din zona curții.",
-                "en": "Use the covered bike rack in the courtyard area."
+                "en": "Use the covered bike rack in the courtyard area.",
+                "nl": "Gebruik het overdekte fietsenrek in het binnenhof voor opslag."
               }
             },
             {
@@ -1021,7 +1099,8 @@
                 "de": "Fahren Sie vorsichtig durch das enge Tor bei Nässe.",
                 "hu": "Hajtson óvatosan a szűk kapun keresztül nedves időben.",
                 "ro": "Conduceți cu atenție prin poarta îngustă pe timp de ploaie.",
-                "en": "Drive carefully through the narrow gate when wet."
+                "en": "Drive carefully through the narrow gate when wet.",
+                "nl": "Rijd voorzichtig door de smalle poort als het nat is."
               }
             },
             {
@@ -1030,7 +1109,8 @@
                 "de": "Stellen Sie das Rad während der Besichtigung im Trockenen ab.",
                 "hu": "Hagyja a bringát száraz helyen a látogatás ideje alatt.",
                 "ro": "Lăsați bicicleta într-un loc uscat pe durata vizitei.",
-                "en": "Leave the bike in a dry spot during the visit."
+                "en": "Leave the bike in a dry spot during the visit.",
+                "nl": "Laat de fiets tijdens het bezoek op een droge plek staan."
               }
             }
           ],
@@ -1062,6 +1142,13 @@
               "Check your brakes thoroughly before starting the tour.",
               "Bike lane markings can be very slippery when it rains.",
               "Use covered bike parking facilities for longer dry breaks."
+            ],
+            "nl": [
+              "Vermijd krachtig remmen op natte kasseien.",
+              "Een volledige regenuitrusting is veel beter dan een poncho in de Nederlandse wind.",
+              "Controleer uw remmen grondig voordat u aan de tocht begint.",
+              "Markeringen van fietspaden kunnen erg glad worden als het regent.",
+              "Gebruik overdekte fietsenstallingen voor langere droge pauzes."
             ]
           }
         },
@@ -1070,7 +1157,8 @@
             "de": "Radfahren im Winter in Bergen op Zoom bietet erfrischende Ausblicke. Vom gefrorenen Grote Markt fahren wir zum Ravelijn, wobei der Wind von der Schelde herüberweht. Nach einem kurzen Stopp am Theater wärmen wir uns in der St.-Gertrudis-Kirche auf. Der Markiezenhof bietet den perfekten Halt für den Mittag. Auf dem Radweg zur Synagoge achten wir auf schattige Stellen, wo Reif die Straße glatt macht, bevor wir die Tour im Licht der frühen Dämmerung beenden.",
             "hu": "A téli kerékpározás Bergen op Zoomban frissítő élményt nyújt. A fagyos Grote Marktról a Ravelijn felé tekerünk, miközben a Schelde felől fúj a szél. A színháznál tett rövid megálló után a Szent Gertrúd-templomban melegszünk fel. A Markiezenhof tökéletes pihenőhely délidőben. A zsinagóga felé vezető úton ügyelünk az árnyékos szakaszokra, ahol a dér csúszóssá teszi az utat, majd a túrát a korai szürkület fényeinél fejezzük be.",
             "ro": "Mersul cu bicicleta iarna în Bergen op Zoom oferă priveliști revigorante. De la Grote Markt înghețat pedalăm spre Ravelijn, în timp ce vântul suflă dinspre Schelde. După o scurtă oprire la teatru, ne încălzim în Biserica Sf. Gertruda. Markiezenhof oferă oprirea perfectă pentru prânz. Pe drumul spre sinagogă avem grijă la zonele umbrite unde bruma face drumul alunecos, înainte de a încheia turul în lumina amurgului timpuriu.",
-            "en": "Cycling in winter in Bergen op Zoom offers refreshing views. From the frozen Grote Markt, we cycle to the Ravelijn, with the wind blowing in from the Schelde. After a short stop at the theater, we warm up in St. Gertrude's Church. The Markiezenhof Palace is the perfect stop for midday. On the bike path to the Synagogue, we watch out for shady spots where frost makes the road slick, before ending the tour in the early dusk light."
+            "en": "Cycling in winter in Bergen op Zoom offers refreshing views. From the frozen Grote Markt, we cycle to the Ravelijn, with the wind blowing in from the Schelde. After a short stop at the theater, we warm up in St. Gertrude's Church. The Markiezenhof Palace is the perfect stop for midday. On the bike path to the Synagogue, we watch out for shady spots where frost makes the road slick, before ending the tour in the early dusk light.",
+            "nl": "Fietsen in de winter in Bergen op Zoom biedt verfrissende beelden. Vanaf de bevroren Grote Markt fietsen we naar het Ravelijn, met de wind vanaf de Schelde. Na een korte stop bij het theater warmen we op in de Sint-Gertrudiskerk. Het Markiezenhof is de perfecte stop voor de middag. Op het fietspad naar de synagoge letten we op schaduwplekken waar rijp de weg glad maakt, voordat we de tocht eindigen in het vroege schemerlicht."
           },
           "stops": [
             {
@@ -1079,7 +1167,8 @@
                 "de": "Handschuhe sind für das Radfahren im Winter unverzichtbar.",
                 "hu": "A kesztyű elengedhetetlen a téli bringázáshoz.",
                 "ro": "Mănușile sunt indispensabile pentru mersul cu bicicleta iarna.",
-                "en": "Gloves are essential for cycling in winter."
+                "en": "Gloves are essential for cycling in winter.",
+                "nl": "Handschoenen zijn essentieel om in de winter te fietsen."
               }
             },
             {
@@ -1088,7 +1177,8 @@
                 "de": "Vorsicht vor überfrierender Nässe auf den Brücken.",
                 "hu": "Vigyázzon a hidakon előforduló jegesedésre.",
                 "ro": "Atenție la poleiul de pe poduri.",
-                "en": "Watch out for black ice on the bridges."
+                "en": "Watch out for black ice on the bridges.",
+                "nl": "Let op zwarte ijsplekken op de bruggen."
               }
             },
             {
@@ -1097,7 +1187,8 @@
                 "de": "Die Metallbügel der Radständer können sehr kalt sein.",
                 "hu": "A kerékpártárolók fémvázai nagyon hidegek lehetnek.",
                 "ro": "Suporturile metalice pentru biciclete pot fi foarte reci.",
-                "en": "The metal bike racks can be very cold to the touch."
+                "en": "The metal bike racks can be very cold to the touch.",
+                "nl": "De metalen fietsenrekken kunnen erg koud aanvoelen."
               }
             },
             {
@@ -1106,7 +1197,8 @@
                 "de": "Nehmen Sie sich Zeit zum Aufwärmen in der Kirche.",
                 "hu": "Szánjon időt a felmelegedésre a templom belsejében.",
                 "ro": "Alocați-vă timp pentru a vă încălzi în biserică.",
-                "en": "Take time to warm up inside the church."
+                "en": "Take time to warm up inside the church.",
+                "nl": "Neem de tijd om in de kerk op te warmen."
               }
             },
             {
@@ -1115,7 +1207,8 @@
                 "de": "Lassen Sie das Rad im Innenhof, während Sie das Museum besuchen.",
                 "hu": "Hagyja a bringát az udvaron, amíg a múzeumot látogatja.",
                 "ro": "Lăsați bicicleta în curte în timp ce vizitați muzeul.",
-                "en": "Leave the bike in the courtyard while visiting the museum."
+                "en": "Leave the bike in the courtyard while visiting the museum.",
+                "nl": "Laat de fiets in de binnenplaats staan terwijl u het museum bezoekt."
               }
             },
             {
@@ -1124,7 +1217,8 @@
                 "de": "Die dunklen Torbögen können im Winter vereist sein.",
                 "hu": "A sötét kapualjak télen jegesek lehetnek.",
                 "ro": "Pasajele întunecate ale porții pot fi înghețate iarna.",
-                "en": "The dark archways of the gate can be icy in winter."
+                "en": "The dark archways of the gate can be icy in winter.",
+                "nl": "De donkere bogen van de poort kunnen in de winter glad zijn door ijs."
               }
             },
             {
@@ -1133,7 +1227,8 @@
                 "de": "Beenden Sie die Tour, bevor die Temperaturen stark sinken.",
                 "hu": "Fejezze be a túrát, mielőtt a hőmérséklet hirtelen leesne.",
                 "ro": "Încheiați turul înainte ca temperaturile să scadă brusc.",
-                "en": "Finish the tour before temperatures drop significantly."
+                "en": "Finish the tour before temperatures drop significantly.",
+                "nl": "Rond de rondleiding af voordat de temperatuur flink daalt."
               }
             }
           ],
@@ -1165,6 +1260,13 @@
               "Avoid shady bike paths where ice tends to linger longest.",
               "A warm saddle cover makes the ride much more comfortable.",
               "Plan regular stops in heated cafes to stay warm."
+            ],
+            "nl": [
+              "Draag meerdere lagen kleding om u te beschermen tegen de koude wind.",
+              "Zorg dat uw fietslampen perfect werken voor de vroege schemering.",
+              "Vermijd schaduwrijke fietspaden waar ijs het langst blijft liggen.",
+              "Een warm zadelhoesje maakt de rit veel comfortabeler.",
+              "Plan regelmatige stops in verwarmde cafés om warm te blijven."
             ]
           }
         }
@@ -1183,7 +1285,8 @@
             "de": "Parkhaus Achter de Grote Markt & Spaziergang zum Stadhuis",
             "hu": "Achter de Grote Markt parkolóház és séta a Városházához",
             "ro": "Parcarea Achter de Grote Markt și plimbare la Primărie",
-            "en": "Achter de Grote Markt Car Park & Walk to City Hall"
+            "en": "Achter de Grote Markt Car Park & Walk to City Hall",
+            "nl": "Achter de Grote Markt Parkeergarage & Wandeling naar het Stadhuis"
           },
           "coords": [
             4.2855,
@@ -1199,7 +1302,8 @@
             "de": "Parken Sie hier für den Vormittag. Es ist ein kurzer Spaziergang zum Hauptplatz.",
             "hu": "Parkoljon itt a délelőttre. A főtér egy rövid sétára van.",
             "ro": "Parcați aici pentru dimineață. Este o scurtă plimbare până la piața principală.",
-            "en": "Park here for the morning. It's a short walk to the main square."
+            "en": "Park here for the morning. It's a short walk to the main square.",
+            "nl": "Parkeer hier voor de ochtend. Het is een korte wandeling naar het hoofdplein."
           }
         },
         {
@@ -1207,7 +1311,8 @@
             "de": "Sint-Gertrudiskerk & Peperbus",
             "hu": "Szent Gertrúd-templom és Peperbus",
             "ro": "Biserica Sf. Gertruda și Peperbus",
-            "en": "St. Gertrude's Church & Peperbus"
+            "en": "St. Gertrude's Church & Peperbus",
+            "nl": "Sint-Gertrudiskerk & Peperbus"
           },
           "coords": [
             4.2885,
@@ -1223,7 +1328,8 @@
             "de": "Erklimmen Sie den Turm nach dem Kirchenbesuch für eine fantastische Aussicht.",
             "hu": "A templomlátogatás után másszon fel a toronyba a fantasztikus kilátásért.",
             "ro": "Urcați în turn după vizitarea bisericii pentru o priveliște fantastică.",
-            "en": "Climb the tower after visiting the church for a fantastic view."
+            "en": "Climb the tower after visiting the church for a fantastic view.",
+            "nl": "Beklim de toren na het kerkbezoek voor een fantastisch uitzicht."
           }
         },
         {
@@ -1231,7 +1337,8 @@
             "de": "Markiezenhof",
             "hu": "Markiezenhof-palota",
             "ro": "Palatul Markiezenhof",
-            "en": "Markiezenhof Palace"
+            "en": "Markiezenhof Palace",
+            "nl": "Markiezenhof Paleis"
           },
           "coords": [
             4.29,
@@ -1247,7 +1354,8 @@
             "de": "Der größte Stadtpalast der Niederlande, planen Sie hier eine lange Pause ein.",
             "hu": "Hollandia legnagyobb városi palotája, tervezzen itt egy hosszú szünetet.",
             "ro": "Cel mai mare palat urban din Olanda, planificați o pauză lungă aici.",
-            "en": "The Netherlands' largest city palace, plan for a long break here."
+            "en": "The Netherlands' largest city palace, plan for a long break here.",
+            "nl": "Het grootste stadspaleis van Nederland; reken op een lange pauze hier."
           }
         },
         {
@@ -1255,7 +1363,8 @@
             "de": "Gevangenpoort",
             "hu": "Börtönkapu",
             "ro": "Poarta Prizonierilor (Gevangenpoort)",
-            "en": "Prisoner's Gate"
+            "en": "Prisoner's Gate",
+            "nl": "Gevangenispoort"
           },
           "coords": [
             4.289,
@@ -1271,7 +1380,8 @@
             "de": "Ein kurzer Spaziergang vom Palast zu diesem historischen Tor.",
             "hu": "Egy rövid séta a palotától ehhez a történelmi kapuhoz.",
             "ro": "O scurtă plimbare de la palat la această poartă istorică.",
-            "en": "A short walk from the palace to this historic gate."
+            "en": "A short walk from the palace to this historic gate.",
+            "nl": "Een korte wandeling van het paleis naar deze historische poort."
           }
         },
         {
@@ -1279,7 +1389,8 @@
             "de": "Fahrt zum Ravelijn op den Zoom",
             "hu": "Utazás a Ravelijn op den Zoom erődhöz",
             "ro": "Deplasare la Ravelijn op den Zoom",
-            "en": "Drive to Ravelijn op den Zoom"
+            "en": "Drive to Ravelijn op den Zoom",
+            "nl": "Rij naar Ravelijn op den Zoom"
           },
           "coords": [
             4.279,
@@ -1295,7 +1406,8 @@
             "de": "Holen Sie Ihr Auto und fahren Sie zum Parkplatz in der Nähe der Festung.",
             "hu": "Vegye fel az autóját, és vezessen az erőd melletti parkolóba.",
             "ro": "Luați mașina și conduceți la parcarea de lângă fortăreață.",
-            "en": "Collect your car and drive to the car park near the fortress."
+            "en": "Collect your car and drive to the car park near the fortress.",
+            "nl": "Haalt uw auto op en rijd naar de parkeerplaats bij het fort."
           }
         },
         {
@@ -1303,7 +1415,8 @@
             "de": "Erkundung des Ravelijn op den Zoom",
             "hu": "A Ravelijn op den Zoom felfedezése",
             "ro": "Explorarea Ravelijn op den Zoom",
-            "en": "Exploring Ravelijn op den Zoom"
+            "en": "Exploring Ravelijn op den Zoom",
+            "nl": "Ravelijn op den Zoom verkennen"
           },
           "coords": [
             4.278,
@@ -1319,7 +1432,8 @@
             "de": "Nehmen Sie sich Zeit, die Festung und die ruhige Umgebung zu erkunden.",
             "hu": "Szánjon időt az erőd és a csendes környék felfedezésére.",
             "ro": "Luați-vă timp pentru a explora fortăreața și împrejurimile liniștite.",
-            "en": "Take your time to explore the fortress and its peaceful surroundings."
+            "en": "Take your time to explore the fortress and its peaceful surroundings.",
+            "nl": "Neem de tijd om het fort en de rustige omgeving te verkennen."
           }
         }
       ],
@@ -1327,7 +1441,8 @@
         "de": "Dieser auto-basierte Plan kombiniert zentrales Parken mit entspannten Spaziergängen. Parken Sie Ihr Auto in der Nähe des Grote Markt und erkunden Sie den gesamten historischen Kern zu Fuß: vom Stadhuis über den Peperbus bis zum prächtigen Markiezenhof. Nach dem Mittagessen kehren Sie zu Ihrem Auto zurück für eine kurze Fahrt zur beeindruckenden Festung Ravelijn op den Zoom. Dort können Sie den Nachmittag damit verbringen, die einzigartigen Verteidigungsanlagen und die ruhige, wasserreiche Umgebung zu erkunden, bevor Sie den Tag abschließen.",
         "hu": "Ez az autós útiterv a központi parkolást kényelmes sétákkal ötvözi. Parkolja le autóját a Grote Markt közelében, és fedezze fel gyalog az egész történelmi központot: a Városházától a Peperbuson át a csodálatos Markiezenhofig. Ebéd után térjen vissza autójához, és egy rövid utazással érje el a lenyűgöző Ravelijn op den Zoom erődöt. Töltse a délutánt az egyedi védművek és a csendes, vizes környezet felfedezésével, mielőtt befejezi a napot.",
         "ro": "Acest itinerar auto combină parcarea centrală cu plimbări relaxante. Parcați mașina lângă Grote Markt și explorați întregul centru istoric pe jos: de la Primărie la Peperbus și magnificul Markiezenhof. După prânz, reveniți la mașină pentru o scurtă călătorie până la impresionanta fortăreață Ravelijn op den Zoom. Petreceți după-amiaza explorând fortificațiile unice și împrejurimile liniștite, pline de apă, înainte de a încheia ziua.",
-        "en": "This car-based plan combines central parking with relaxed walks. Park your car near the Grote Markt and explore the entire historic core on foot: from the City Hall to the Peperbus and the magnificent Markiezenhof. After lunch, return to your car for a short drive to the impressive Ravelijn op den Zoom fortress. Spend the afternoon exploring the unique defences and the quiet, water-rich surroundings before ending your day."
+        "en": "This car-based plan combines central parking with relaxed walks. Park your car near the Grote Markt and explore the entire historic core on foot: from the City Hall to the Peperbus and the magnificent Markiezenhof. After lunch, return to your car for a short drive to the impressive Ravelijn op den Zoom fortress. Spend the afternoon exploring the unique defences and the quiet, water-rich surroundings before ending your day.",
+        "nl": "Dit autoritplan combineert centraal parkeren met ontspannen wandelingen. Parkeer uw auto bij de Grote Markt en verken het volledige historische kerngebied te voet: van het Stadhuis naar de Peperbus en het magnifieke Markiezenhof. Na de lunch keert u terug naar de auto voor een korte rit naar het indrukwekkende Ravelijn op den Zoom. Breng de middag door met het verkennen van de unieke verdedigingswerken en de rustige, waterrijke omgeving voordat u de dag afsluit."
       },
       "gastro_picks": {
         "de": [
@@ -1523,6 +1638,12 @@
           "Do not leave valuables in the car.",
           "Traffic in the city centre can be heavy, especially on market days.",
           "Be aware that large parts of the historic centre are pedestrian-only zones."
+        ],
+        "nl": [
+          "Controleer vooraf parkeermogelijkheden en tarieven in het stadscentrum.",
+          "Laat geen waardevolle spullen in de auto achter.",
+          "Het verkeer in het stadscentrum kan druk zijn, vooral op markt dagen.",
+          "Houd er rekening mee dat grote delen van het historische centrum voetgangersgebied zijn."
         ]
       },
       "variants": {
@@ -1531,7 +1652,8 @@
             "de": "Mit dem Auto ist Bergen op Zoom auch bei Dauerregen komfortabel. Wir parken 'Achter de Grote Markt', nur wenige Schritte vom Rathaus entfernt. Die St.-Gertrudis-Kirche und der Markiezenhof liegen nah beieinander, was die Zeit im Freien minimiert. Nach dem Besuch des Schlosses fahren wir zum Ravelijn, wo wir nah am Eingang parken können, um die historischen Befestigungen zu erkunden, ohne durchnässt zu werden.",
             "hu": "Autóval Bergen op Zoom még tartós esőben is kényelmesen bejárható. Az 'Achter de Grote Markt' parkolóban állunk meg, csupán pár lépésre a városházától. A Szent Gertrúd-templom és a Markiezenhof közel fekszik egymáshoz, így minimalizálható a szabadban töltött idő. A palota után a Ravelijnhez hajtunk, ahol a bejárat közelében parkolhatunk, hogy elkerüljük az ázást az erőd felfedezése közben.",
             "ro": "Cu mașina, Bergen op Zoom este confortabil chiar și în condiții de ploaie continuă. Parcăm la 'Achter de Grote Markt', la doar câțiva pași de primărie. Biserica Sf. Gertruda și Markiezenhof sunt aproape una de cealaltă, minimizând timpul petrecut afară. După vizitarea palatului, conducem spre Ravelijn, unde putem parca aproape de intrare pentru a explora fortificațiile fără a ne uda.",
-            "en": "By car, Bergen op Zoom is comfortable even in continuous rain. We park at 'Achter de Grote Markt', just a few steps from the town hall. St. Gertrude's Church and the Markiezenhof Palace are close to each other, minimizing time spent outdoors. After the palace, we drive to the Ravelijn, where we can park near the entrance to explore the historic fortifications without getting soaked."
+            "en": "By car, Bergen op Zoom is comfortable even in continuous rain. We park at 'Achter de Grote Markt', just a few steps from the town hall. St. Gertrude's Church and the Markiezenhof Palace are close to each other, minimizing time spent outdoors. After the palace, we drive to the Ravelijn, where we can park near the entrance to explore the historic fortifications without getting soaked.",
+            "nl": "Met de auto is Bergen op Zoom comfortabel, zelfs bij aanhoudende regen. We parkeren bij 'Achter de Grote Markt', op slechts een paar stappen van het stadhuis. De Sint-Gertrudiskerk en het Markiezenhof liggen dicht bij elkaar, zodat u weinig tijd buiten doorbrengt. Na het paleis rijden we naar het Ravelijn, waar we bij de ingang kunnen parkeren om de historische vestingwerken te verkennen zonder doorweekt te raken."
           },
           "stops": [
             {
@@ -1540,7 +1662,8 @@
                 "de": "Nutzen Sie den Automaten unter dem Dach zum Bezahlen.",
                 "hu": "Használja a tető alatti automatát a fizetéshez.",
                 "ro": "Folosiți automatul de sub acoperiș pentru plată.",
-                "en": "Use the ticket machine under the roof for payment."
+                "en": "Use the ticket machine under the roof for payment.",
+                "nl": "Gebruik de kaartautomaat onder het afdak om te betalen."
               }
             },
             {
@@ -1549,7 +1672,8 @@
                 "de": "Der Weg vom Parkplatz zur Kirche ist kurz und meist geschützt.",
                 "hu": "A parkolóból a templomig vezető út rövid és többnyire védett.",
                 "ro": "Drumul de la parcare la biserică este scurt și majoritatea protejat.",
-                "en": "The walk from the parking to the church is short and mostly sheltered."
+                "en": "The walk from the parking to the church is short and mostly sheltered.",
+                "nl": "De wandeling van de parkeergarage naar de kerk is kort en grotendeels overdekt."
               }
             },
             {
@@ -1558,7 +1682,8 @@
                 "de": "Lassen Sie Schirme in der Garderobe des Museums.",
                 "hu": "Hagyja az esernyőket a múzeum ruhatárában.",
                 "ro": "Lăsați umbrelele la garderoba muzeului.",
-                "en": "Leave umbrellas in the museum cloakroom."
+                "en": "Leave umbrellas in the museum cloakroom.",
+                "nl": "Laat paraplu's achter in de garderobe van het museum."
               }
             },
             {
@@ -1567,7 +1692,8 @@
                 "de": "Kurzer Ausstieg für Fotos direkt neben der Straße.",
                 "hu": "Gyors kiszállás fotózáshoz közvetlenül az út mellett.",
                 "ro": "Coborâre scurtă pentru fotografii chiar lângă drum.",
-                "en": "Short hop out for photos right next to the road."
+                "en": "Short hop out for photos right next to the road.",
+                "nl": "Korte stop voor foto’s direct naast de weg."
               }
             },
             {
@@ -1576,7 +1702,8 @@
                 "de": "Achten Sie auf Pfützen in den engen Einbahnstraßen.",
                 "hu": "Ügyeljen a tócsákra a szűk egyirányú utcákban.",
                 "ro": "Atenție la bălți pe străzile înguste cu sens unic.",
-                "en": "Watch out for puddles in the narrow one-way streets."
+                "en": "Watch out for puddles in the narrow one-way streets.",
+                "nl": "Let op plassen in de smalle eenrichtingsstraten."
               }
             },
             {
@@ -1585,7 +1712,8 @@
                 "de": "Parken Sie so nah wie möglich am Zugangsweg.",
                 "hu": "Parkoljon a lehető legközelebb a bejárati úthoz.",
                 "ro": "Parcați cât mai aproape de calea de acces.",
-                "en": "Park as close as possible to the access path."
+                "en": "Park as close as possible to the access path.",
+                "nl": "Parkeer zo dicht mogelijk bij het toegangspad."
               }
             }
           ],
@@ -1617,6 +1745,13 @@
               "Visibility can be limited in narrow streets during heavy rain.",
               "Avoid parking under trees due to falling branches in windy weather.",
               "Keep a change of clothes in the car for after the Ravelijn visit."
+            ],
+            "nl": [
+              "De parkeergarage 'Achter de Grote Markt' is perfect voor het stadscentrum.",
+              "Gebruik de 'EasyPark' app voor gemakkelijk betalen vanuit de auto.",
+              "Het zicht kan beperkt zijn in smalle straten tijdens hevige regen.",
+              "Vermijd parkeren onder bomen vanwege vallende takken bij harde wind.",
+              "Houd droge kleding in de auto voor na het bezoek aan het Ravelijn."
             ]
           }
         },
@@ -1625,7 +1760,8 @@
             "de": "Eine winterliche Fahrt nach Bergen op Zoom beginnt mit dem Parken im warmen Parkhaus. Der Grote Markt glänzt im Morgenfrost, während wir die kurze Strecke zur Kirche laufen. Der Markiezenhof bietet den ganzen Mittag über eine warme Zuflucht mit viel Geschichte. Am Nachmittag fahren wir zum Ravelijn und genießen die frostige Festungsanlage, bevor wir uns im Auto aufwärmen und die beleuchtete Stadt bei der Rückfahrt bewundern.",
             "hu": "A téli autós kirándulás Bergen op Zoomban a fűtött parkolóházban kezdődik. A Grote Markt ragyog a reggeli fagyban, miközben megtesszük a rövid utat a templomig. A Markiezenhof egész délidőben meleg menedéket nyújt gazdag történelmével. Délután a Ravelijnhez hajtunk, és kiélvezzük a fagyos erőd látványát, mielőtt visszaülnénk a meleg autóba, és megcsodálnánk a kivilágított várost.",
             "ro": "O călătorie de iarnă în Bergen op Zoom începe cu parcarea într-un garaj încălzit. Grote Markt strălucește în înghețul dimineții în timp ce parcurgem distanța scurtă până la biserică. Markiezenhof oferă un adăpost cald pe tot parcursul prânzului. După-amiaza conducem spre Ravelijn și ne bucurăm de fortăreața înghețată, înainte de a ne încălzi în mașină și de a admira orașul iluminat la întoarcere.",
-            "en": "A winter drive to Bergen op Zoom starts with parking in a sheltered garage. Grote Markt glistens in the morning frost as we walk the short distance to the church. The Markiezenhof Palace provides a warm refuge all through midday with its rich history. In the afternoon, we drive to the Ravelijn and enjoy the frosty fortress before warming up in the car and admiring the lit-up city on the drive back."
+            "en": "A winter drive to Bergen op Zoom starts with parking in a sheltered garage. Grote Markt glistens in the morning frost as we walk the short distance to the church. The Markiezenhof Palace provides a warm refuge all through midday with its rich history. In the afternoon, we drive to the Ravelijn and enjoy the frosty fortress before warming up in the car and admiring the lit-up city on the drive back.",
+            "nl": "Een winterse autorit naar Bergen op Zoom begint met parkeren in een beschutte garage. De Grote Markt fonkelt in de ochtendvorst terwijl we de korte afstand naar de kerk lopen. Het Markiezenhof biedt de hele middag een warm toevluchtsoord met zijn rijke geschiedenis. In de namiddag rijden we naar het Ravelijn en genieten van het ijzige fort voordat we weer opwarmen in de auto en de verlichte stad bewonderen tijdens de terugrit."
           },
           "stops": [
             {
@@ -1634,7 +1770,8 @@
                 "de": "Vorsicht beim Aussteigen, die Parkplatzrampen können glatt sein.",
                 "hu": "Vigyázzon kiszálláskor, a parkolóház rámpái csúszósak lehetnek.",
                 "ro": "Atenție la coborâre, rampele parcării pot fi alunecoase.",
-                "en": "Watch your step when getting out, parking ramps can be slippery."
+                "en": "Watch your step when getting out, parking ramps can be slippery.",
+                "nl": "Let op bij het uitstappen; parkeerrampen kunnen glad zijn."
               }
             },
             {
@@ -1643,7 +1780,8 @@
                 "de": "Die Heizung in der Kirche ist im Winter oft begrenzt.",
                 "hu": "A templom fűtése télen gyakran korlátozott.",
                 "ro": "Încălzirea în biserică este adesea limitată iarna.",
-                "en": "Heating inside the church is often limited in winter."
+                "en": "Heating inside the church is often limited in winter.",
+                "nl": "De verwarming in de kerk is in de winter vaak beperkt."
               }
             },
             {
@@ -1652,7 +1790,8 @@
                 "de": "Nutzen Sie die Schließfächer für dicke Winterjacken.",
                 "hu": "Használja az értékmegőrzőket a vastag télikabátoknak.",
                 "ro": "Folosiți dulapurile pentru jachetele groase de iarnă.",
-                "en": "Use the lockers for heavy winter coats."
+                "en": "Use the lockers for heavy winter coats.",
+                "nl": "Gebruik de kluisjes voor zware winterjassen."
               }
             },
             {
@@ -1661,7 +1800,8 @@
                 "de": "Parken Sie kurz am Straßenrand für ein schnelles Foto.",
                 "hu": "Álljon meg rövid időre az út szélén egy gyors fotóért.",
                 "ro": "Opriți scurt pe marginea drumului pentru o fotografie rapidă.",
-                "en": "Park briefly at the roadside for a quick photo."
+                "en": "Park briefly at the roadside for a quick photo.",
+                "nl": "Parkeer kort langs de weg voor een snelle foto."
               }
             },
             {
@@ -1670,7 +1810,8 @@
                 "de": "Lassen Sie die Heizung laufen, um die Scheiben eisfrei zu halten.",
                 "hu": "Hagyja menni a fűtést, hogy a szélvédő jégmentes maradjon.",
                 "ro": "Lăsați căldura pornită pentru a menține parbrizul fără gheață.",
-                "en": "Keep the heater running to keep the windows ice-free."
+                "en": "Keep the heater running to keep the windows ice-free.",
+                "nl": "Houd de verwarming aan om de ramen ijsvrij te houden."
               }
             },
             {
@@ -1679,7 +1820,8 @@
                 "de": "Tragen Sie festes Schuhwerk für die gefrorenen Wege.",
                 "hu": "Viseljen stabil lábbelit a fagyott utakhoz.",
                 "ro": "Purtați încălțăminte solidă pentru drumurile înghețate.",
-                "en": "Wear sturdy footwear for the frozen paths."
+                "en": "Wear sturdy footwear for the frozen paths.",
+                "nl": "Draag stevig schoeisel voor de bevroren paden."
               }
             }
           ],
@@ -1711,6 +1853,13 @@
               "Battery performance can decrease in low temperatures.",
               "Use seat heaters for comfort between stops.",
               "Allow extra time for finding parking during twilight hours."
+            ],
+            "nl": [
+              "Controleer de bandenspanning, die daalt bij koud weer.",
+              "Houd een ijskrabber bij de hand als u buiten parkeert.",
+              "De batterijprestaties kunnen verminderen bij lage temperaturen.",
+              "Gebruik stoelverwarming voor comfort tussen stops.",
+              "Reken extra tijd voor het vinden van een parkeerplaats tijdens de schemering."
             ]
           }
         }
@@ -1729,7 +1878,8 @@
             "de": "Ankunft am Grote Markt",
             "hu": "Érkezés a Fő térre",
             "ro": "Sosire la Grote Markt",
-            "en": "Arrival at Grote Markt"
+            "en": "Arrival at Grote Markt",
+            "nl": "Aankomst bij de Grote Markt"
           },
           "coords": [
             4.2872,
@@ -1745,7 +1895,8 @@
             "de": "Mehrere Buslinien halten in der Nähe des Grote Markt, ein idealer Ausgangspunkt.",
             "hu": "Számos buszjárat megáll a Grote Markt közelében, ami ideális kiindulópont.",
             "ro": "Mai multe linii de autobuz opresc lângă Grote Markt, un punct de plecare ideal.",
-            "en": "Several bus lines stop near the Grote Markt, making it an ideal starting point."
+            "en": "Several bus lines stop near the Grote Markt, making it an ideal starting point.",
+            "nl": "Verschillende buslijnen stoppen bij de Grote Markt, wat het een ideaal startpunt maakt."
           }
         },
         {
@@ -1753,7 +1904,8 @@
             "de": "Sint-Gertrudiskerk & Peperbus",
             "hu": "Szent Gertrúd-templom és Peperbus",
             "ro": "Biserica Sf. Gertruda și Peperbus",
-            "en": "St. Gertrude's Church & Peperbus"
+            "en": "St. Gertrude's Church & Peperbus",
+            "nl": "Sint-Gertrudiskerk & Peperbus"
           },
           "coords": [
             4.2885,
@@ -1769,7 +1921,8 @@
             "de": "Nur ein kurzer Spaziergang vom Hauptplatz zu diesem ikonischen Wahrzeichen.",
             "hu": "Csak egy rövid séta a főtértől ehhez az ikonikus látnivalóhoz.",
             "ro": "La doar o scurtă plimbare de piața principală până la acest punct de reper iconic.",
-            "en": "Just a short walk from the main square to this iconic landmark."
+            "en": "Just a short walk from the main square to this iconic landmark.",
+            "nl": "Slechts een korte wandeling vanaf het hoofdplein naar dit iconische monument."
           }
         },
         {
@@ -1777,7 +1930,8 @@
             "de": "Markiezenhof",
             "hu": "Markiezenhof-palota",
             "ro": "Palatul Markiezenhof",
-            "en": "Markiezenhof Palace"
+            "en": "Markiezenhof Palace",
+            "nl": "Markiezenhof Paleis"
           },
           "coords": [
             4.29,
@@ -1793,7 +1947,8 @@
             "de": "Verbringen Sie hier den Großteil des späten Vormittags und die Mittagszeit.",
             "hu": "Töltse itt a késő délelőtt és az ebédidő nagy részét.",
             "ro": "Petreceți cea mai mare parte a dimineții târzii și a prânzului aici.",
-            "en": "Spend the bulk of your late morning and lunch time here."
+            "en": "Spend the bulk of your late morning and lunch time here.",
+            "nl": "Breng het grootste deel van uw late ochtend en lunchtijd hier door."
           }
         },
         {
@@ -1801,7 +1956,8 @@
             "de": "Gevangenpoort",
             "hu": "Börtönkapu",
             "ro": "Poarta Prizonierilor (Gevangenpoort)",
-            "en": "Prisoner's Gate"
+            "en": "Prisoner's Gate",
+            "nl": "Gevangenispoort"
           },
           "coords": [
             4.289,
@@ -1817,7 +1973,8 @@
             "de": "Dieses mittelalterliche Tor ist ein Muss für Geschichtsliebhaber.",
             "hu": "Ez a középkori kapu kötelező a történelem szerelmeseinek.",
             "ro": "Această poartă medievală este o necesitate pentru pasionații de istorie.",
-            "en": "This medieval gate is a must-see for history buffs."
+            "en": "This medieval gate is a must-see for history buffs.",
+            "nl": "Deze middeleeuwse poort is een must-see voor geschiedenisliefhebbers."
           }
         },
         {
@@ -1825,7 +1982,8 @@
             "de": "Busfahrt zum Ravelijn",
             "hu": "Buszozás a Ravelijnhez",
             "ro": "Călătorie cu autobuzul la Ravelijn",
-            "en": "Bus ride to the Ravelijn"
+            "en": "Bus ride to the Ravelijn",
+            "nl": "Busrit naar het Ravelijn"
           },
           "coords": [
             4.28,
@@ -1841,7 +1999,8 @@
             "de": "Nehmen Sie einen Bus vom Zentrum zur Haltestelle in der Nähe der Festung.",
             "hu": "Szálljon buszra a központból az erőd melletti megállóig.",
             "ro": "Luați un autobuz din centru până la stația de lângă fortăreață.",
-            "en": "Take a bus from the centre to the stop near the fortress."
+            "en": "Take a bus from the centre to the stop near the fortress.",
+            "nl": "Neem een bus vanuit het centrum naar de halte bij het fort."
           }
         },
         {
@@ -1849,7 +2008,8 @@
             "de": "Ravelijn op den Zoom",
             "hu": "Ravelijn op den Zoom erőd",
             "ro": "Fortăreața Ravelijn op den Zoom",
-            "en": "Ravelijn op den Zoom Fortress"
+            "en": "Ravelijn op den Zoom Fortress",
+            "nl": "Ravelijn op den Zoom Fort"
           },
           "coords": [
             4.278,
@@ -1865,7 +2025,8 @@
             "de": "Genießen Sie die Ruhe und die einzigartige Architektur dieses Ortes.",
             "hu": "Élvezze a hely csendjét és egyedi építészetét.",
             "ro": "Bucurați-vă de liniștea și arhitectura unică a acestui loc.",
-            "en": "Enjoy the tranquility and unique architecture of this site."
+            "en": "Enjoy the tranquility and unique architecture of this site.",
+            "nl": "Geniet van de rust en de unieke architectuur van deze locatie."
           }
         }
       ],
@@ -1873,7 +2034,8 @@
         "de": "Mit öffentlichen Verkehrsmitteln können Sie die Stadt mühelos durchqueren. Beginnen Sie im Herzen der Stadt, am Grote Markt, und erkunden Sie den gesamten historischen Kern zu Fuß, genau wie bei einem Spaziergang. Nach dem Mittagessen und der Erkundung des Markiezenhofs nehmen Sie einen Bus für eine kurze Fahrt zur Festung Ravelijn. Dieser Ansatz ermöglicht es Ihnen, den Nachmittag in einer anderen Umgebung zu verbringen, die Festungsanlagen zu erkunden und die Ruhe zu genießen, bevor Sie mit dem Bus ins Stadtzentrum zurückkehren.",
         "hu": "Tömegközlekedéssel könnyedén bejárhatja a várost. Kezdjen a város szívében, a Grote Markton, és fedezze fel gyalog az egész történelmi központot, akárcsak egy séta során. Ebéd és a Markiezenhof felfedezése után szálljon buszra, és egy rövid utazással érje el a Ravelijn erődöt. Ez a megközelítés lehetővé teszi, hogy a délutánt egy másik környezetben töltse, felfedezve az erődítményeket és élvezve a nyugalmat, mielőtt visszatérne a városközpontba busszal.",
         "ro": "Traversați orașul fără efort folosind transportul public. Începeți în inima orașului, la Grote Markt, și explorați întregul centru istoric pe jos, la fel ca într-un tur pietonal. După prânz și explorarea Markiezenhof, luați un autobuz pentru o scurtă călătorie la fortăreața Ravelijn. Această abordare vă permite să petreceți după-amiaza într-un cadru diferit, explorând fortificațiile și bucurându-vă de liniște înainte de a vă întoarce în centrul orașului cu autobuzul.",
-        "en": "Traverse the city effortlessly using public transport. Start in the heart of the city at Grote Markt and explore the entire historic core on foot, just like a walking tour. After lunch and exploring the Markiezenhof, take a bus for a short ride to the Ravelijn fortress. This approach allows you to spend the afternoon in a different setting, exploring the fortifications and enjoying the tranquility before returning to the city centre by bus."
+        "en": "Traverse the city effortlessly using public transport. Start in the heart of the city at Grote Markt and explore the entire historic core on foot, just like a walking tour. After lunch and exploring the Markiezenhof, take a bus for a short ride to the Ravelijn fortress. This approach allows you to spend the afternoon in a different setting, exploring the fortifications and enjoying the tranquility before returning to the city centre by bus.",
+        "nl": "Doorkruis de stad moeiteloos met het openbaar vervoer. Begin in het hart van de stad bij de Grote Markt en verken de historische kern te voet, net als tijdens een wandeltocht. Na de lunch en het bezoek aan het Markiezenhof neemt u een bus voor een korte rit naar het Ravelijn. Deze aanpak stelt u in staat de middag in een andere omgeving door te brengen, de vestingwerken te verkennen en van de rust te genieten voordat u per bus terugkeert naar het stadscentrum."
       },
       "gastro_picks": {
         "de": [
@@ -2069,6 +2231,12 @@
           "Check the bus schedule in advance, especially on weekends.",
           "Most buses are wheelchair accessible.",
           "Central stops are well-signposted, but a navigation app can be helpful."
+        ],
+        "nl": [
+          "Koop een dagkaart voor de bus als u meerdere ritten plant.",
+          "Controleer de dienstregeling van de bus van tevoren, vooral in het weekend.",
+          "De meeste bussen zijn rolstoeltoegankelijk.",
+          "Centrale haltes zijn goed bewegwijzerd, maar een navigatie-app kan handig zijn."
         ]
       },
       "variants": {
@@ -2077,7 +2245,8 @@
             "de": "Mit dem Bus durch das regnerische Bergen op Zoom. Wir kommen am Grote Markt an und finden im Rathaus und der Kirche schnell Schutz. Der Weg zum Markiezenhof ist kurz und gut zu bewältigen. Mittags nutzen wir die lokalen Buslinien, um zum Ravelijn zu gelangen, wodurch wir kaum Zeit im strömenden Regen verbringen. Die Busse sind pünktlich und bieten eine trockene Basis für die Erkundung der Stadt.",
             "hu": "Busszal az esős Bergen op Zoomban. A Grote Marktra érkezünk, ahol a városháza és a templom gyors menedéket nyújt. A Markiezenhofhoz vezető út rövid és könnyen teljesíthető. Délben a helyi buszjáratokat használjuk, hogy eljussunk a Ravelijnhez, így alig töltünk időt a szakadó esőben. A buszok pontosak és száraz bázist jelentenek a város felfedezéséhez.",
             "ro": "Cu autobuzul prin Bergen op Zoom ploios. Sosim la Grote Markt și găsim rapid adăpost în primărie și biserică. Drumul spre Markiezenhof este scurt și ușor de parcurs. La prânz folosim liniile locale de autobuz pentru a ajunge la Ravelijn, petrecând astfel foarte puțin timp în ploaia torențială. Autobuzele sunt punctuale și oferă o bază uscată pentru explorarea orașului.",
-            "en": "Taking the bus through rainy Bergen op Zoom. We arrive at Grote Markt and quickly find shelter in the town hall and church. The walk to the Markiezenhof Palace is short and manageable. At noon, we use local bus lines to get to the Ravelijn, meaning we spend very little time in the pouring rain. The buses are punctual and provide a dry base for exploring the city."
+            "en": "Taking the bus through rainy Bergen op Zoom. We arrive at Grote Markt and quickly find shelter in the town hall and church. The walk to the Markiezenhof Palace is short and manageable. At noon, we use local bus lines to get to the Ravelijn, meaning we spend very little time in the pouring rain. The buses are punctual and provide a dry base for exploring the city.",
+            "nl": "Met de bus door het regenachtige Bergen op Zoom. We arriveren bij de Grote Markt en vinden snel beschutting in het stadhuis en de kerk. De wandeling naar het Markiezenhof is kort en goed te doen. ’s Middags gebruiken we lokale buslijnen naar het Ravelijn, zodat we weinig tijd in de stromende regen doorbrengen. De bussen zijn punctueel en bieden een droge basis om de stad te verkennen."
           },
           "stops": [
             {
@@ -2086,7 +2255,8 @@
                 "de": "Warten Sie unter dem Dach der Bushaltestelle auf den Anschluss.",
                 "hu": "Várjon a buszmegálló teteje alatt a csatlakozásra.",
                 "ro": "Așteptați sub acoperișul stației de autobuz.",
-                "en": "Wait under the bus stop roof for your connection."
+                "en": "Wait under the bus stop roof for your connection.",
+                "nl": "Wacht onder het afdak van de bushalte op uw aansluiting."
               }
             },
             {
@@ -2095,7 +2265,8 @@
                 "de": "Die Kirche ist nur einen kurzen Sprint von der Haltestelle entfernt.",
                 "hu": "A templom csak egy rövid sprintre van a megállótól.",
                 "ro": "Biserica este la doar un scurt sprint de stație.",
-                "en": "The church is just a short sprint from the bus stop."
+                "en": "The church is just a short sprint from the bus stop.",
+                "nl": "De kerk is slechts een korte sprint vanaf de bushalte."
               }
             },
             {
@@ -2104,7 +2275,8 @@
                 "de": "Nutzen Sie den Haupteingang, um schnell ins Trockene zu kommen.",
                 "hu": "Használja a főbejáratot, hogy gyorsan száraz helyre kerüljön.",
                 "ro": "Folosiți intrarea principală pentru a ajunge rapid la uscat.",
-                "en": "Use the main entrance to get indoors quickly."
+                "en": "Use the main entrance to get indoors quickly.",
+                "nl": "Gebruik de hoofdingang om snel naar binnen te gaan."
               }
             },
             {
@@ -2113,7 +2285,8 @@
                 "de": "Die Bushaltestelle liegt direkt in der Nähe des Tors.",
                 "hu": "A buszmegálló közvetlenül a kapu közelében található.",
                 "ro": "Stația de autobuz este chiar lângă poartă.",
-                "en": "The bus stop is located directly near the gate."
+                "en": "The bus stop is located directly near the gate.",
+                "nl": "De bushalte ligt direct bij de poort."
               }
             },
             {
@@ -2122,7 +2295,8 @@
                 "de": "Genießen Sie die Aussicht aus dem Fenster während der Fahrt.",
                 "hu": "Élvezze a kilátást az ablakból az utazás alatt.",
                 "ro": "Bucurați-vă de priveliște pe fereastră în timpul călătoriei.",
-                "en": "Enjoy the view from the window during the ride."
+                "en": "Enjoy the view from the window during the ride.",
+                "nl": "Geniet van het uitzicht uit het raam tijdens de rit."
               }
             },
             {
@@ -2131,7 +2305,8 @@
                 "de": "Die Haltestelle 'Ravelijn' bietet Schutz vor dem Regen.",
                 "hu": "A 'Ravelijn' megálló védelmet nyújt az eső ellen.",
                 "ro": "Stația 'Ravelijn' oferă protecție împotriva ploii.",
-                "en": "The 'Ravelijn' stop provides shelter from the rain."
+                "en": "The 'Ravelijn' stop provides shelter from the rain.",
+                "nl": "De halte 'Ravelijn' biedt beschutting tegen de regen."
               }
             }
           ],
@@ -2163,6 +2338,13 @@
               "Buses are well-heated and offer a break from the wet weather.",
               "Wear waterproof shoes for the walk between bus stops.",
               "Central transfer points often have covered waiting areas."
+            ],
+            "nl": [
+              "Gebruik de '9292' app voor actuele informatie over regen-gerelateerde vertragingen.",
+              "Houd uw OV-chipkaart gereed om vertragingen bij het instappen te voorkomen.",
+              "Bussen zijn goed verwarmd en bieden een pauze van het natte weer.",
+              "Draag waterdichte schoenen voor de wandeling tussen bushaltes.",
+              "Centrale overstappunten hebben vaak overdekte wachtruimtes."
             ]
           }
         },
@@ -2171,7 +2353,8 @@
             "de": "Ein Wintertag mit öffentlichen Verkehrsmitteln in Bergen op Zoom. Wir starten am Grote Markt im kalten Morgenlicht. Die kurzen Wege zwischen den Haltestellen und den Sehenswürdigkeiten minimieren das Frieren. Der Markiezenhof bietet am Mittag eine ausgiebige Wärmephase. Mit dem Bus geht es bequem zum Ravelijn, wo wir die Winterlandschaft genießen, bevor wir uns in den gut geheizten Bussen auf der Rückfahrt zum Bahnhof wieder aufwärmen.",
             "hu": "Téli nap tömegközlekedéssel Bergen op Zoomban. A Grote Markton kezdünk a hideg reggeli fényben. A megállók és a látnivalók közötti rövid távok minimalizálják a fagyoskodást. A Markiezenhof délidőben bőséges felmelegedést nyújt. Busszal kényelmesen eljutunk a Ravelijnhez, ahol élvezzük a téli tájat, mielőtt a jól fűtött buszokban újra felmelegednénk a vasútállomás felé vezető úton.",
             "ro": "O zi de iarnă cu transportul public în Bergen op Zoom. Începem în Grote Markt în lumina rece a dimineții. Distanțele scurte între stații și obiectivele turistice minimizează timpul petrecut în frig. Markiezenhof oferă o fază lungă de încălzire la prânz. Cu autobuzul ajungem confortabil la Ravelijn, unde ne bucurăm de peisajul de iarnă, înainte de a ne încălzi din nou în autobuzele bine încălzite spre gară.",
-            "en": "A winter day using public transport in Bergen op Zoom. We start at Grote Markt in the cold morning light. The short walks between stops and sights minimize the time spent shivering. The Markiezenhof Palace provides a long warming phase at midday. We take the bus comfortably to the Ravelijn to enjoy the winter scenery before warming up again in the well-heated buses on the way back to the station."
+            "en": "A winter day using public transport in Bergen op Zoom. We start at Grote Markt in the cold morning light. The short walks between stops and sights minimize the time spent shivering. The Markiezenhof Palace provides a long warming phase at midday. We take the bus comfortably to the Ravelijn to enjoy the winter scenery before warming up again in the well-heated buses on the way back to the station.",
+            "nl": "Een winterse dag met openbaar vervoer in Bergen op Zoom. We beginnen bij de Grote Markt in het koude ochtendlicht. De korte wandelingen tussen haltes en bezienswaardigheden beperken de tijd die we bevriezen. Het Markiezenhof biedt ’s middags een lange opwarmfase. We nemen comfortabel de bus naar het Ravelijn om van het winterlandschap te genieten en warmen weer op in de goed verwarmde bussen op de terugweg naar het station."
           },
           "stops": [
             {
@@ -2180,7 +2363,8 @@
                 "de": "Vorsicht vor glatten Stellen an den Bordsteinkanten.",
                 "hu": "Vigyázzon a csúszós szakaszokra a járdaszegélyeknél.",
                 "ro": "Atenție la zonele alunecoase de la marginea trotuarelor.",
-                "en": "Watch out for icy spots near the curb."
+                "en": "Watch out for icy spots near the curb.",
+                "nl": "Let op gladde plekken bij de stoeprand."
               }
             },
             {
@@ -2189,7 +2373,8 @@
                 "de": "Die Wartezeiten an den Haltestellen sind im Winter kurz.",
                 "hu": "A várakozási idő a megállókban télen rövid.",
                 "ro": "Timpii de așteptare în stații sunt scurți iarna.",
-                "en": "Wait times at bus stops are short in winter."
+                "en": "Wait times at bus stops are short in winter.",
+                "nl": "Wachttijden bij bushaltes zijn in de winter kort."
               }
             },
             {
@@ -2198,7 +2383,8 @@
                 "de": "Genießen Sie die Wärme im Inneren nach dem Ausstieg.",
                 "hu": "Élvezze a benti meleget a buszról való leszállás után.",
                 "ro": "Bucurați-vă de căldura din interior după coborâre.",
-                "en": "Enjoy the warmth inside after getting off the bus."
+                "en": "Enjoy the warmth inside after getting off the bus.",
+                "nl": "Geniet van de warmte binnen zodra u van de bus afstapt."
               }
             },
             {
@@ -2207,7 +2393,8 @@
                 "de": "Das Tor wirkt im Winterfrost besonders eindrucksvoll.",
                 "hu": "A kapu különösen hatásos a téli fagyban.",
                 "ro": "Poarta arată deosebit de impresionant în înghețul iernii.",
-                "en": "The gate looks particularly impressive in the winter frost."
+                "en": "The gate looks particularly impressive in the winter frost.",
+                "nl": "De poort ziet er bijzonder indrukwekkend uit in de wintervorst."
               }
             },
             {
@@ -2216,7 +2403,8 @@
                 "de": "Busse sind die beste Wahl, um dem kalten Wind zu entkommen.",
                 "hu": "A busz a legjobb választás a hideg szél elkerülésére.",
                 "ro": "Autobuzele sunt cea mai bună alegere pentru a scăpa de vântul rece.",
-                "en": "Buses are the best choice to escape the cold wind."
+                "en": "Buses are the best choice to escape the cold wind.",
+                "nl": "Bussen zijn de beste keuze om aan de koude wind te ontsnappen."
               }
             },
             {
@@ -2225,7 +2413,8 @@
                 "de": "Achten Sie auf die Abfahrtszeiten für die Rückfahrt im Dunkeln.",
                 "hu": "Ügyeljen a visszaindulási időkre a sötétedés után.",
                 "ro": "Atenție la orele de plecare pentru întoarcerea pe întuneric.",
-                "en": "Check the departure times for your return in the dark."
+                "en": "Check the departure times for your return in the dark.",
+                "nl": "Controleer in het donker de vertrektijden voor uw terugreis."
               }
             }
           ],
@@ -2257,6 +2446,13 @@
               "Main bus stations often have heated waiting areas.",
               "Use the transit time to warm up your cold hands.",
               "In the twilight, lit-up buses are easy to spot."
+            ],
+            "nl": [
+              "Busdeuren laten vaak koude lucht binnen; probeer in het midden van de bus te zitten.",
+              "Dienstregelingen kunnen tijdens sneeuwval iets afwijken.",
+              "Hoofdbusstations hebben vaak verwarmde wachtruimtes.",
+              "Gebruik de reistijd om uw koude handen op te warmen.",
+              "In de schemering zijn verlichte bussen goed te zien."
             ]
           }
         }

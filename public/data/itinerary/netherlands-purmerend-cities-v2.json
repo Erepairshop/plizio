@@ -21,7 +21,8 @@
             "de": "Koemarkt (Marktplatz)",
             "hu": "Koemarkt (Marhapiac)",
             "ro": "Koemarkt (Piața de Vite)",
-            "en": "Koemarkt (Cattle Market)"
+            "en": "Koemarkt (Cattle Market)",
+            "nl": "Koemarkt (Vee Markt)"
           },
           "coords": [
             4.9455,
@@ -37,7 +38,8 @@
             "de": "Genießen Sie einen Kaffee in einem der vielen Cafés und beobachten Sie das Treiben.",
             "hu": "Igyon meg egy kávét a sok kávézó egyikében, és figyelje a nyüzsgést.",
             "ro": "Savurați o cafea la una dintre multele cafenele și priviți agitația.",
-            "en": "Enjoy a coffee at one of the many cafés and watch the hustle and bustle."
+            "en": "Enjoy a coffee at one of the many cafés and watch the hustle and bustle.",
+            "nl": "Geniet van een koffie bij een van de vele cafés en kijk naar het drukke straatbeeld."
           }
         },
         {
@@ -45,7 +47,8 @@
             "de": "Stadhuis Purmerend (Rathaus)",
             "hu": "Stadhuis Purmerend (Városháza)",
             "ro": "Stadhuis Purmerend (Primăria)",
-            "en": "Stadhuis Purmerend (City Hall)"
+            "en": "Stadhuis Purmerend (City Hall)",
+            "nl": "Stadhuis Purmerend"
           },
           "coords": [
             4.9468,
@@ -61,7 +64,8 @@
             "de": "Achten Sie auf die klassische Architektur aus dem frühen 20. Jahrhundert.",
             "hu": "Figyelje meg a 20. század eleji klasszikus építészetet.",
             "ro": "Observați arhitectura clasică de la începutul secolului al XX-lea.",
-            "en": "Note the classic architecture from the early 20th century."
+            "en": "Note the classic architecture from the early 20th century.",
+            "nl": "Let op de klassieke architectuur uit het begin van de 20e eeuw."
           }
         },
         {
@@ -69,7 +73,8 @@
             "de": "Nicolaaskerk",
             "hu": "Szent Miklós-templom",
             "ro": "Biserica Sfântul Nicolae",
-            "en": "St. Nicholas' Church"
+            "en": "St. Nicholas' Church",
+            "nl": "Sint-Nicolaaskerk"
           },
           "coords": [
             4.9488,
@@ -85,7 +90,8 @@
             "de": "Suchen Sie im Inneren nach einem Moment der Ruhe und bewundern Sie die Buntglasfenster.",
             "hu": "Keressen egy csendes pillanatot a templomban, és csodálja meg az ólomüveg ablakokat.",
             "ro": "Căutați un moment de liniște în interior și admirați vitraliile.",
-            "en": "Seek a moment of tranquility inside and admire the stained-glass windows."
+            "en": "Seek a moment of tranquility inside and admire the stained-glass windows.",
+            "nl": "Zoek een moment van rust binnen en bewonder de glas-in-loodramen."
           }
         },
         {
@@ -93,7 +99,8 @@
             "de": "Purmerends Museum",
             "hu": "Purmerendi Múzeum",
             "ro": "Muzeul Purmerends",
-            "en": "Purmerends Museum"
+            "en": "Purmerends Museum",
+            "nl": "Purmerends Museum"
           },
           "coords": [
             4.947,
@@ -109,7 +116,8 @@
             "de": "Konzentrieren Sie sich auf die Jugendstil-Keramik, ein einzigartiges lokales Erbe.",
             "hu": "Fókuszáljon a szecessziós kerámiákra, amely egyedi helyi örökség.",
             "ro": "Concentrați-vă pe ceramica Art Nouveau, o moștenire locală unică.",
-            "en": "Focus on the Art Nouveau pottery, a unique local heritage."
+            "en": "Focus on the Art Nouveau pottery, a unique local heritage.",
+            "nl": "Richt je op de art-nouveau-aardewerkcollectie, een uniek lokaal erfgoed."
           }
         },
         {
@@ -117,7 +125,8 @@
             "de": "Melkwegbrug (Milchstraßenbrücke)",
             "hu": "Melkwegbrug (Tejút-híd)",
             "ro": "Podul Melkwegbrug (Calea Lactee)",
-            "en": "Melkwegbrug (Milky Way Bridge)"
+            "en": "Melkwegbrug (Milky Way Bridge)",
+            "nl": "Melkwegbrug"
           },
           "coords": [
             4.9583,
@@ -133,7 +142,8 @@
             "de": "Steigen Sie den Bogen für eine großartige Aussicht auf den Kanal hinauf - ein tolles Fotomotiv!",
             "hu": "Másszon fel az ívre a csatornára nyíló nagyszerű kilátásért - remek fotóhelyszín!",
             "ro": "Urcați pe arcadă pentru o priveliște minunată asupra canalului - un loc grozav pentru fotografii!",
-            "en": "Climb the arch for a great view of the canal - a great photo opportunity!"
+            "en": "Climb the arch for a great view of the canal - a great photo opportunity!",
+            "nl": "Beklim de boog voor een prachtig uitzicht op de gracht - een mooie fotokans!"
           }
         },
         {
@@ -141,7 +151,8 @@
             "de": "Leeghwaterpark",
             "hu": "Leeghwater Park",
             "ro": "Parcul Leeghwater",
-            "en": "Leeghwater Park"
+            "en": "Leeghwater Park",
+            "nl": "Leeghwaterpark"
           },
           "coords": [
             4.974,
@@ -157,7 +168,8 @@
             "de": "Perfekt für einen entspannten Nachmittagsspaziergang oder ein Picknick am Wasser.",
             "hu": "Tökéletes egy pihentető délutáni sétához vagy piknikhez a vízparton.",
             "ro": "Perfect pentru o plimbare relaxantă de după-amiază sau un picnic lângă apă.",
-            "en": "Perfect for a relaxing afternoon stroll or a picnic by the water."
+            "en": "Perfect for a relaxing afternoon stroll or a picnic by the water.",
+            "nl": "Perfect voor een ontspannende middagwandeling of een picknick aan het water."
           }
         }
       ],
@@ -165,7 +177,8 @@
         "de": "Ihr Tag in Purmerend beginnt am lebhaften Koemarkt, dem pulsierenden Herzen der Stadt. Von dort aus schlendern Sie durch die Geschichte und bewundern das Rathaus und die ruhige Nicolaaskerk. Am Mittag tauchen Sie im Purmerends Museum in die lokale Kunst und Kultur ein, bevor Sie eine wohlverdiente Mittagspause einlegen. Am Nachmittag führt Sie ein Spaziergang zur architektonisch beeindruckenden Melkwegbrug, die einen einzigartigen Blick auf die Wasserwege bietet. Der Tag klingt im weitläufigen Leeghwaterpark aus, wo Sie sich entspannen und die grüne Umgebung genießen können.",
         "hu": "A nap Purmerendben a nyüzsgő Koemarkton, a város lüktető szívében kezdődik. Innen a történelmen keresztül sétálva megcsodálhatja a Városházát és a csendes Szent Miklós-templomot. Délben elmerülhet a helyi művészetben és kultúrában a Purmerendi Múzeumban, mielőtt egy jól megérdemelt ebédszünetet tartana. Délután egy séta elvezeti az építészetileg lenyűgöző Melkwegbrughoz, ahonnan egyedülálló kilátás nyílik a vízi utakra. A nap a tágas Leeghwaterparkban ér véget, ahol pihenhet és élvezheti a zöld környezetet.",
         "ro": "Ziua dvs. în Purmerend începe în animata Koemarkt, inima vibrantă a orașului. De acolo, vă plimbați prin istorie, admirând Primăria și liniștita Biserică Sf. Nicolae. La prânz, vă scufundați în arta și cultura locală la Muzeul Purmerends înainte de o pauză de masă binemeritată. După-amiaza, o plimbare vă duce la impresionantul pod Melkwegbrug, care oferă vederi unice asupra căilor navigabile. Ziua se încheie în vastul parc Leeghwater, unde vă puteți relaxa și bucura de împrejurimile verzi.",
-        "en": "Your day in Purmerend begins at the lively Koemarkt, the vibrant heart of the city. From there, you'll stroll through history, admiring the City Hall and the serene St. Nicholas' Church. At midday, immerse yourself in local art and culture at the Purmerends Museum before a well-deserved lunch break. In the afternoon, a walk takes you to the architecturally stunning Melkwegbrug, offering unique views of the waterways. The day concludes in the expansive Leeghwaterpark, where you can relax and enjoy the green surroundings."
+        "en": "Your day in Purmerend begins at the lively Koemarkt, the vibrant heart of the city. From there, you'll stroll through history, admiring the City Hall and the serene St. Nicholas' Church. At midday, immerse yourself in local art and culture at the Purmerends Museum before a well-deserved lunch break. In the afternoon, a walk takes you to the architecturally stunning Melkwegbrug, offering unique views of the waterways. The day concludes in the expansive Leeghwaterpark, where you can relax and enjoy the green surroundings.",
+        "nl": "Je dag in Purmerend begint op de levendige Koemarkt, het bruisende hart van de stad. Van daar loop je door de geschiedenis en bewonder je het Stadhuis en de serene Sint-Nicolaaskerk. Rond het middaguur dompel je jezelf onder in lokale kunst en cultuur in het Purmerends Museum voordat je geniet van een welverdiende lunchpauze. In de middag brengt een wandeling je naar de architectonisch fraaie Melkwegbrug, met unieke uitzichten over de waterwegen. De dag eindigt in het uitgestrekte Leeghwaterpark, waar je kunt ontspannen en van de groene omgeving kunt genieten."
       },
       "gastro_picks": {
         "de": [
@@ -361,6 +374,12 @@
           "The city center is compact and very walkable.",
           "Bring a reusable water bottle; there are public fountains available.",
           "Plan for extra time to have lunch at one of the many restaurants around the Koemarkt."
+        ],
+        "nl": [
+          "Draag comfortabele schoenen, je zult het grootste deel van de dag lopen.",
+          "Het centrum is compact en goed te voet te verkennen.",
+          "Neem een herbruikbare waterfles mee; er zijn openbare drinkfonteinen.",
+          "Plan extra tijd voor lunch in een van de vele restaurants rondom de Koemarkt."
         ]
       },
       "variants": {
@@ -369,7 +388,8 @@
             "de": "Morgen am Koemarkt unter Arkaden. Rathaus und Kirche bieten Schutz vor Schauern.\n\nMittags im Museum Purmerend Geschichte trocken entdecken.\n\nNachmittags Melkwegbrug und Leeghwater Park mit Schirm und Regenjacke erkunden.\n\nAbends gemütliches Essen am Koemarkt bei Regenprasseln genießen.",
             "hu": "Reggel a Koemarkt kávézói alatt. A Városháza és a templom menedék az esőben.\n\nDélben a Purmerends Múzeumban fedezze fel a múltat szárazon.\n\nDélután Melkwegbrug híd és Leeghwater park esernyővel és vízhatlan ruhában.\n\nEste vacsora a főtéren, hallgatva az ablakon kopogó esőt.",
             "ro": "Dimineața la Koemarkt sub arcade. Primăria și biserica oferă adăpost contra ploii.\n\nLa prânz, vizitați Muzeul Purmerends pentru o experiență culturală uscată.\n\nDupă-amiaza, explorați Melkwegbrug și parcul cu o umbrelă rezistentă.\n\nSeara, cină caldă la Koemarkt în sunetul relaxant al ploii.",
-            "en": "Morning at Koemarkt under awnings. City Hall and church provide rain shelter.\n\nMidday at Purmerends Museum to explore history away from the wet.\n\nAfternoon at Melkwegbrug and park with a sturdy umbrella and jacket.\n\nEvening dinner at the square, cozy while the rain falls outside."
+            "en": "Morning at Koemarkt under awnings. City Hall and church provide rain shelter.\n\nMidday at Purmerends Museum to explore history away from the wet.\n\nAfternoon at Melkwegbrug and park with a sturdy umbrella and jacket.\n\nEvening dinner at the square, cozy while the rain falls outside.",
+            "nl": "Ochtend op de Koemarkt onder luifels. Stadhuis en kerk bieden beschutting tegen regen.\n\nMiddag in het Purmerends Museum om de geschiedenis te ontdekken, weg van het natte weer.\n\nMiddag bij de Melkwegbrug en het park met een stevige paraplu en jas.\n\nAvondeten op het plein, gezellig terwijl de regen buiten valt."
           },
           "stops": [
             {
@@ -378,7 +398,8 @@
                 "de": "Nutzen Sie Cafe-Markisen.",
                 "hu": "Használja a kávézók ereszeit.",
                 "ro": "Folosiți copertinele cafenelelor.",
-                "en": "Use the cafe awnings."
+                "en": "Use the cafe awnings.",
+                "nl": "Gebruik de luifels van de cafés."
               }
             },
             {
@@ -387,7 +408,8 @@
                 "de": "Rövid, száraz megálló.",
                 "hu": "Rövid, száraz megálló.",
                 "ro": "Oprire scurtă și uscată.",
-                "en": "A quick, dry stop here."
+                "en": "A quick, dry stop here.",
+                "nl": "Een snelle, droge stop hier."
               }
             },
             {
@@ -396,7 +418,8 @@
                 "de": "Sicherer Schutz vor Regen.",
                 "hu": "Biztos menedék esőben.",
                 "ro": "Adăpost sigur contra ploii.",
-                "en": "Safe shelter from rain."
+                "en": "Safe shelter from rain.",
+                "nl": "Veilige beschutting tegen regen."
               }
             },
             {
@@ -405,7 +428,8 @@
                 "de": "Ideal bei starkem Schauer.",
                 "hu": "Ideális nagy zápor idején.",
                 "ro": "Ideal în caz de aversă.",
-                "en": "Ideal during heavy showers."
+                "en": "Ideal during heavy showers.",
+                "nl": "Ideaal bij hevige buien."
               }
             },
             {
@@ -414,7 +438,8 @@
                 "de": "Vorsicht, Stufen sind nass.",
                 "hu": "Vigyázat, a lépcső nedves.",
                 "ro": "Atenție, treptele sunt ude.",
-                "en": "Careful, steps are wet."
+                "en": "Careful, steps are wet.",
+                "nl": "Let op, trappen zijn nat."
               }
             },
             {
@@ -423,7 +448,8 @@
                 "de": "Regenfeste Schuhe tragen.",
                 "hu": "Vízálló cipő ajánlott.",
                 "ro": "Purtați pantofi impermeabili.",
-                "en": "Wear waterproof shoes."
+                "en": "Wear waterproof shoes.",
+                "nl": "Draag waterdichte schoenen."
               }
             }
           ],
@@ -455,6 +481,13 @@
               "Watch for puddles in the center.",
               "A sturdy umbrella is a must.",
               "Plan longer coffee breaks."
+            ],
+            "nl": [
+              "Pak een winddichte regenjas in.",
+              "Gebruik het museum als hoofdrefugie.",
+              "Let op plassen in het centrum.",
+              "Een stevige paraplu is onmisbaar.",
+              "Plan langere koffiepauzes."
             ]
           }
         },
@@ -463,7 +496,8 @@
             "de": "Frostiger Morgen am Koemarkt mit heißem Kaffee. Kurzer Gang zum Rathaus belebt.\n\nMittags in der St. Nikolauskirche und im wohlig warmen Purmerends Museum aufwärmen.\n\nNachmittags Melkwegbrug im Winterlicht und frischer Spaziergang im Leeghwater Park.\n\nAbends beleuchtete Kanäle und Rückkehr zum gemütlichen, hellen Koemarkt.",
             "hu": "Fagyos reggel a Koemarkton forró kávéval. Rövid séta a Városházáig.\n\nDélben a Szent Miklós-templom és a kellemesen fűtött múzeum várja.\n\nDélután Melkwegbrug a téli fényben és frissítő séta a Leeghwater parkban.\n\nEste kivilágított csatornák és visszatérés a barátságos, fényes főtérre.",
             "ro": "Dimineață geroasă la Koemarkt cu o cafea fierbinte. Primăria e aproape.\n\nLa prânz, vizitați biserica și muzeul Purmerends pentru a vă încălzi.\n\nDupă-amiaza, Melkwegbrug în lumina iernii și plimbare în parcul înghețat.\n\nSeara, canale iluminate și revenire în piața centrală plină de viață.",
-            "en": "Frosty morning at Koemarkt with hot coffee. Brisk walk to the City Hall.\n\nMidday at St. Nicholas' Church and the warm, cozy Purmerends Museum.\n\nAfternoon Melkwegbrug in winter light and a fresh walk in Leeghwater Park.\n\nEvening illuminated canals and return to the bright, inviting Koemarkt."
+            "en": "Frosty morning at Koemarkt with hot coffee. Brisk walk to the City Hall.\n\nMidday at St. Nicholas' Church and the warm, cozy Purmerends Museum.\n\nAfternoon Melkwegbrug in winter light and a fresh walk in Leeghwater Park.\n\nEvening illuminated canals and return to the bright, inviting Koemarkt.",
+            "nl": "Koude ochtend op de Koemarkt met hete koffie. Vlotte wandeling naar het Stadhuis.\n\nMiddag in de Sint-Nicolaaskerk en het warme, gezellige Purmerends Museum.\n\nMiddag bij de Melkwegbrug in winterlicht en een frisse wandeling in Leeghwaterpark.\n\nAvond verlichte grachten en terugkeer naar de lichte, uitnodigende Koemarkt."
           },
           "stops": [
             {
@@ -472,7 +506,8 @@
                 "de": "Heißes Getränk zum Start.",
                 "hu": "Forró ital indításnak.",
                 "ro": "Băutură caldă la început.",
-                "en": "Hot drink to start with."
+                "en": "Hot drink to start with.",
+                "nl": "Begin met een warme drank."
               }
             },
             {
@@ -481,7 +516,8 @@
                 "de": "Fassade im Winterlicht.",
                 "hu": "Homlokzat téli fényben.",
                 "ro": "Fațadă în lumină de iarnă.",
-                "en": "Facade in winter light."
+                "en": "Facade in winter light.",
+                "nl": "Gevel in winterlicht."
               }
             },
             {
@@ -490,7 +526,8 @@
                 "de": "Jacke drinnen anlassen.",
                 "hu": "Tartsa magán a kabátot.",
                 "ro": "Păstrați haina pe dvs.",
-                "en": "Keep your coat on inside."
+                "en": "Keep your coat on inside.",
+                "nl": "Houd je jas aan binnen."
               }
             },
             {
@@ -499,7 +536,8 @@
                 "de": "Garderobe für Mäntel.",
                 "hu": "Ruhatár a kabátoknak.",
                 "ro": "Garderobă pentru haine.",
-                "en": "Cloakroom for big coats."
+                "en": "Cloakroom for big coats.",
+                "nl": "Kapstok voor grote jassen."
               }
             },
             {
@@ -508,7 +546,8 @@
                 "de": "Vorsicht vor Glätte.",
                 "hu": "Vigyázzon, csúszhat.",
                 "ro": "Atenție, poate fi polei.",
-                "en": "Watch out for ice."
+                "en": "Watch out for ice.",
+                "nl": "Let op ijs."
               }
             },
             {
@@ -517,7 +556,8 @@
                 "de": "Warm einpacken für Frost.",
                 "hu": "Öltözzön fel melegen.",
                 "ro": "Haine groase pentru ger.",
-                "en": "Dress warmly for frost."
+                "en": "Dress warmly for frost.",
+                "nl": "Kleed je warm bij vorst."
               }
             }
           ],
@@ -549,6 +589,13 @@
               "Watch for icy patches.",
               "Take frequent indoor breaks.",
               "Wear thermal socks."
+            ],
+            "nl": [
+              "Draag meerdere lagen kleding.",
+              "Zonsondergang rond 16:30.",
+              "Let op ijzige plekken.",
+              "Neem regelmatig pauzes binnen.",
+              "Draag thermosokken."
             ]
           }
         }
@@ -567,7 +614,8 @@
             "de": "Fahrradverleih & Koemarkt",
             "hu": "Kerékpárkölcsönző & Koemarkt",
             "ro": "Închiriere biciclete & Koemarkt",
-            "en": "Bike Rental & Koemarkt"
+            "en": "Bike Rental & Koemarkt",
+            "nl": "Fietsverhuur & Koemarkt"
           },
           "coords": [
             4.9455,
@@ -583,7 +631,8 @@
             "de": "Mieten Sie Ihr Fahrrad für den Tag und genießen Sie die Atmosphäre des Platzes.",
             "hu": "Béreljen kerékpárt a napra, és élvezze a tér hangulatát.",
             "ro": "Închiriați-vă bicicleta pentru o zi și bucurați-vă de atmosfera pieței.",
-            "en": "Rent your bike for the day and soak in the square's atmosphere."
+            "en": "Rent your bike for the day and soak in the square's atmosphere.",
+            "nl": "Huur een fiets voor de dag en geniet van de sfeer op het plein."
           }
         },
         {
@@ -591,7 +640,8 @@
             "de": "Melkwegbrug",
             "hu": "Melkwegbrug",
             "ro": "Podul Melkwegbrug",
-            "en": "Melkwegbrug"
+            "en": "Melkwegbrug",
+            "nl": "Melkwegbrug"
           },
           "coords": [
             4.9583,
@@ -607,7 +657,8 @@
             "de": "Eine beeindruckende Brücke, die perfekt für einen schnellen Fotostopp ist.",
             "hu": "Lenyűgöző híd, tökéletes egy gyors fotómegállóhoz.",
             "ro": "Un pod impresionant, perfect pentru o oprire rapidă pentru fotografii.",
-            "en": "An impressive bridge, perfect for a quick photo stop."
+            "en": "An impressive bridge, perfect for a quick photo stop.",
+            "nl": "Een indrukwekkende brug, perfect voor een korte fotostop."
           }
         },
         {
@@ -615,7 +666,8 @@
             "de": "Leeghwaterpark",
             "hu": "Leeghwater Park",
             "ro": "Parcul Leeghwater",
-            "en": "Leeghwater Park"
+            "en": "Leeghwater Park",
+            "nl": "Leeghwaterpark"
           },
           "coords": [
             4.974,
@@ -631,7 +683,8 @@
             "de": "Fahren Sie durch den Park, um ein Gefühl für seine Weite zu bekommen.",
             "hu": "Tekerjen át a parkon, hogy átérezze a tágasságát.",
             "ro": "Pedalați prin parc pentru a vă face o idee despre vastitatea sa.",
-            "en": "Cycle through the park to get a feel for its vastness."
+            "en": "Cycle through the park to get a feel for its vastness.",
+            "nl": "Fiets door het park om de uitgestrektheid te ervaren."
           }
         },
         {
@@ -639,7 +692,8 @@
             "de": "De Purmer Polder",
             "hu": "De Purmer Polder",
             "ro": "Polderul Purmer",
-            "en": "The Purmer Polder"
+            "en": "The Purmer Polder",
+            "nl": "De Purmerpolder"
           },
           "coords": [
             4.91,
@@ -655,7 +709,8 @@
             "de": "Erleben Sie die ikonische niederländische Landschaft mit Windmühlen und Kanälen.",
             "hu": "Tapasztalja meg az ikonikus holland tájat szélmalmokkal és csatornákkal.",
             "ro": "Experimentați peisajul olandez iconic cu mori de vânt și canale.",
-            "en": "Experience the iconic Dutch landscape with windmills and canals."
+            "en": "Experience the iconic Dutch landscape with windmills and canals.",
+            "nl": "Ervaar het iconische Nederlandse landschap met molens en kanalen."
           }
         },
         {
@@ -663,7 +718,8 @@
             "de": "Purmerends Museum",
             "hu": "Purmerendi Múzeum",
             "ro": "Muzeul Purmerends",
-            "en": "Purmerends Museum"
+            "en": "Purmerends Museum",
+            "nl": "Purmerends Museum"
           },
           "coords": [
             4.947,
@@ -679,7 +735,8 @@
             "de": "Stellen Sie Ihr Fahrrad sicher ab und tauchen Sie nach Ihrer Radtour in die Kunst ein.",
             "hu": "Zárja le biztonságosan a kerékpárját, és merüljön el a művészetben a túra után.",
             "ro": "Parcați-vă bicicleta în siguranță și scufundați-vă în artă după plimbare.",
-            "en": "Securely park your bike and dive into art after your ride."
+            "en": "Securely park your bike and dive into art after your ride.",
+            "nl": "Parkeer je fiets veilig en duik na je rit in de kunst."
           }
         },
         {
@@ -687,7 +744,8 @@
             "de": "Nicolaaskerk & Abendessen",
             "hu": "Szent Miklós-templom és vacsora",
             "ro": "Biserica Sf. Nicolae și cină",
-            "en": "St. Nicholas' Church & Dinner"
+            "en": "St. Nicholas' Church & Dinner",
+            "nl": "Sint-Nicolaaskerk & Diner"
           },
           "coords": [
             4.9488,
@@ -703,7 +761,8 @@
             "de": "Beenden Sie den Tag mit einem ruhigen Besuch der Kirche, bevor Sie Ihr Fahrrad zurückgeben.",
             "hu": "Zárja a napot egy csendes látogatással a templomban, mielőtt visszaadná a kerékpárt.",
             "ro": "Încheiați ziua cu o vizită liniștită la biserică înainte de a returna bicicleta.",
-            "en": "End the day with a quiet visit to the church before returning your bike."
+            "en": "End the day with a quiet visit to the church before returning your bike.",
+            "nl": "Sluit de dag af met een rustig bezoek aan de kerk voordat je je fiets terugbrengt."
           }
         }
       ],
@@ -711,7 +770,8 @@
         "de": "Beginnen Sie Ihren Radtag in Purmerend am Koemarkt, wo Sie Ihr Fahrrad mieten. Eine kurze Fahrt führt Sie zur modernen Melkwegbrug und weiter zum grünen Leeghwaterpark. Am Vormittag wagen Sie sich in den weiten Purmer Polder hinaus, um die klassische holländische Landschaft zu erleben. Nach dem Mittagessen radeln Sie zurück ins Zentrum, um in die Kunst im Purmerends Museum einzutauchen. Der Tag endet mit einem besinnlichen Besuch der Nicolaaskerk, bevor Sie sich ein wohlverdientes Abendessen gönnen.",
         "hu": "Kerékpáros napját Purmerendben a Koemarkton kezdje, ahol kerékpárt bérel. Egy rövid tekerés elvezeti a modern Melkwegbrughoz, majd tovább a zöldellő Leeghwaterparkba. Délelőtt merészkedjen ki a tágas Purmer Polderbe, hogy megtapasztalja a klasszikus holland tájat. Ebéd után tekerjen vissza a központba, hogy elmerüljön a Purmerendi Múzeum művészetében. A napot a Szent Miklós-templom csendes meglátogatásával zárja, mielőtt egy jól megérdemelt vacsorát fogyasztana.",
         "ro": "Începeți-vă ziua de ciclism în Purmerend din Koemarkt, de unde vă închiriați bicicleta. O scurtă plimbare vă duce la modernul pod Melkwegbrug și mai departe la inverzitul parc Leeghwater. În cursul dimineții, aventurați-vă în vastul polder Purmer pentru a experimenta peisajul clasic olandez. După prânz, pedalați înapoi în centru pentru a vă cufunda în arta de la Muzeul Purmerends. Ziua se încheie cu o vizită contemplativă la Biserica Sf. Nicolae înainte de a vă bucura de o cină binemeritată.",
-        "en": "Start your cycling day in Purmerend from the Koemarkt, where you'll rent your bike. A short ride takes you to the modern Melkwegbrug and onward to the leafy Leeghwaterpark. In the morning, venture out into the vast Purmer Polder to experience the classic Dutch countryside. After lunch, cycle back to the center to immerse yourself in art at the Purmerends Museum. The day concludes with a contemplative visit to St. Nicholas' Church before enjoying a well-earned dinner."
+        "en": "Start your cycling day in Purmerend from the Koemarkt, where you'll rent your bike. A short ride takes you to the modern Melkwegbrug and onward to the leafy Leeghwaterpark. In the morning, venture out into the vast Purmer Polder to experience the classic Dutch countryside. After lunch, cycle back to the center to immerse yourself in art at the Purmerends Museum. The day concludes with a contemplative visit to St. Nicholas' Church before enjoying a well-earned dinner.",
+        "nl": "Begin je fietsdag in Purmerend bij de Koemarkt, waar je je fiets huurt. Een korte rit brengt je naar de moderne Melkwegbrug en verder naar het groene Leeghwaterpark. ’s Ochtends rijd je de uitgestrekte Purmer Polder in om het klassieke Nederlandse landschap te ervaren. Na de lunch fiets je terug naar het centrum om je onder te dompelen in kunst in het Purmerends Museum. De dag eindigt met een contemplatief bezoek aan de Sint-Nicolaaskerk, gevolgd door een welverdiend diner."
       },
       "gastro_picks": {
         "de": [
@@ -907,6 +967,12 @@
           "Always lock your bike, even when leaving it for just a few minutes.",
           "The Netherlands is flat, but a wind jacket is a good idea even on sunny days.",
           "Many paths in the polder are narrow; be mindful of farm traffic."
+        ],
+        "nl": [
+          "Controleer de fietsregels, zoals het geven van handgebaren bij afslaan.",
+          "Zet je fiets altijd op slot, ook als je hem maar een paar minuten wegzet.",
+          "Nederland is vlak, maar een windjack is een goed idee, zelfs op zonnige dagen.",
+          "Veel paden in de polder zijn smal; wees alert op landbouwverkeer."
         ]
       },
       "variants": {
@@ -915,7 +981,8 @@
             "de": "Vormittags am Koemarkt im Regenponcho starten. Kurzer Ritt zur Melkwegbrug.\n\nMittags durch den Leeghwater Park radeln, Baumkronen fangen Tropfen auf.\n\nNachmittags im Museum aufwärmen, während das Rad draußen sicher parkt.\n\nAbends Tour-Abschluss an der Kirche und gemütliches Essen im Zentrum.",
             "hu": "Délelőtt indulás a Koemarktról esőponchóban. Rövid tekerés a Melkwegbrugig.\n\nDélben a Leeghwater park fái alatt, ahol a lombok védenek az esőtől.\n\nDélután melegedés a múzeumban, amíg a bringa kint vár a tárolóban.\n\nEste a túra zárása a templomnál, majd egy jól megérdemelt vacsora.",
             "ro": "Dimineața porniți de la Koemarkt în poncho. Pedalați scurt până la Melkwegbrug.\n\nLa prânz, prin parcul Leeghwater, unde coroanele copacilor opresc ploaia.\n\nDupă-amiaza, vizită la muzeu pentru a vă usca și a vedea expozițiile.\n\nSeara, finalul turului la biserică și o cină caldă în orașul vechi.",
-            "en": "Morning start at Koemarkt in a poncho. Short ride to Melkwegbrug bridge.\n\nMidday cycling through Leeghwater Park, using trees as natural cover.\n\nAfternoon warming up at the museum while your bike stays parked outside.\n\nEvening wrap-up at the church followed by a hearty dinner downtown."
+            "en": "Morning start at Koemarkt in a poncho. Short ride to Melkwegbrug bridge.\n\nMidday cycling through Leeghwater Park, using trees as natural cover.\n\nAfternoon warming up at the museum while your bike stays parked outside.\n\nEvening wrap-up at the church followed by a hearty dinner downtown.",
+            "nl": "Ochtendlijke start bij de Koemarkt met een poncho. Korte rit naar de Melkwegbrug.\n\nMiddags fietsen door het Leeghwaterpark, waarbij bomen als natuurlijke beschutting dienen.\n\nMiddagpauze in het museum terwijl je fiets buiten geparkeerd blijft.\n\nAvondafsluiting bij de kerk gevolgd door een stevige avondmaaltijd in het centrum."
           },
           "stops": [
             {
@@ -924,7 +991,8 @@
                 "de": "Sattelschutz anfragen.",
                 "hu": "Kérjen nyeregvédőt.",
                 "ro": "Cereți protecție de șa.",
-                "en": "Ask for a saddle cover."
+                "en": "Ask for a saddle cover.",
+                "nl": "Vraag om een zadelhoes."
               }
             },
             {
@@ -933,7 +1001,8 @@
                 "de": "Vorsicht bei Metall.",
                 "hu": "Vigyázat a fémrészeken.",
                 "ro": "Atenție pe metal.",
-                "en": "Careful on metal parts."
+                "en": "Careful on metal parts.",
+                "nl": "Voorzichtig met metalen delen."
               }
             },
             {
@@ -942,7 +1011,8 @@
                 "de": "Nur Asphalt nutzen.",
                 "hu": "Csak aszfalton hajtson.",
                 "ro": "Rămâneți pe asfalt.",
-                "en": "Stick to paved paths."
+                "en": "Stick to paved paths.",
+                "nl": "Blijf op verharde paden."
               }
             },
             {
@@ -951,7 +1021,8 @@
                 "de": "Wind ist hier stark.",
                 "hu": "Erős szélre számítson.",
                 "ro": "Vânt puternic aici.",
-                "en": "Expect strong winds."
+                "en": "Expect strong winds.",
+                "nl": "Reken op harde wind."
               }
             },
             {
@@ -960,7 +1031,8 @@
                 "de": "Kleidung kurz trocknen.",
                 "hu": "Szárítsa meg ruháját.",
                 "ro": "Uscați-vă hainele.",
-                "en": "Let your gear dry off."
+                "en": "Let your gear dry off.",
+                "nl": "Laat je uitrusting drogen."
               }
             },
             {
@@ -969,7 +1041,8 @@
                 "de": "Abendessen im Trockenen.",
                 "hu": "Vacsora száraz helyen.",
                 "ro": "Cină la adăpost.",
-                "en": "Dinner in a dry place."
+                "en": "Dinner in a dry place.",
+                "nl": "Diner op een droge plek."
               }
             }
           ],
@@ -1001,6 +1074,13 @@
               "Take turns slowly.",
               "Wear glasses for rain.",
               "Use bright clothing."
+            ],
+            "nl": [
+              "Controleer de remmen wanneer ze nat zijn.",
+              "Poncho over je rugzak.",
+              "Neem bochten langzaam.",
+              "Draag een regenbril.",
+              "Gebruik felle kleding."
             ]
           }
         },
@@ -1009,7 +1089,8 @@
             "de": "Wintermorgen mit Handschuhen am Koemarkt starten. Frische Luft zur Melkwegbrug.\n\nMittags Leeghwater Park und weiter in den frostigen Purmer Polder radeln.\n\nNachmittags im Museum Purmerend Hände und Füße bei der Ausstellung wärmen.\n\nAbends Rückkehr zur Kirche in der Dämmerung und festliches Essen im Ort.",
             "hu": "Téli reggel kesztyűben a Koemarkton. Friss levegő a Melkwegbrug felé.\n\nDélben Leeghwater park, majd tekerés a fagyos Purmer Polderbe.\n\nDélután a múzeumban melegítse fel kezeit a kiállítás közben.\n\nEste visszatérés a templomhoz szürkületben és ünnepi vacsora.",
             "ro": "Dimineață de iarnă cu mănuși. Aer curat spre Melkwegbrug.\n\nLa prânz, parcul Leeghwater și pedalat în Purmer Polder înghețat.\n\nDupă-amiaza, la muzeu vă încălziți mâinile și picioarele.\n\nSeara, revenire la biserică în amurg și o cină festivă.",
-            "en": "Winter morning with gloves at Koemarkt. Fresh air ride to Melkwegbrug.\n\nMidday Leeghwater Park and cycling into the frosty Purmer Polder.\n\nAfternoon at the museum to warm up while seeing the exhibits.\n\nEvening return to the church at dusk and a festive local dinner."
+            "en": "Winter morning with gloves at Koemarkt. Fresh air ride to Melkwegbrug.\n\nMidday Leeghwater Park and cycling into the frosty Purmer Polder.\n\nAfternoon at the museum to warm up while seeing the exhibits.\n\nEvening return to the church at dusk and a festive local dinner.",
+            "nl": "Winterse ochtend met handschoenen bij de Koemarkt. Fris ritje naar de Melkwegbrug.\n\nMiddags Leeghwaterpark en fietsen de vrieskou in richting de Purmer Polder.\n\nMiddag in het museum om op te warmen en de tentoonstellingen te bekijken.\n\nAvond terug naar de kerk bij schemering en een feestelijk lokaal diner."
           },
           "stops": [
             {
@@ -1018,7 +1099,8 @@
                 "de": "Gute Reifen wählen.",
                 "hu": "Válasszon jó gumikat.",
                 "ro": "Alegeți pneuri bune.",
-                "en": "Choose good tires."
+                "en": "Choose good tires.",
+                "nl": "Kies goede banden."
               }
             },
             {
@@ -1027,7 +1109,8 @@
                 "de": "Eis auf Rampen möglich.",
                 "hu": "Jég lehet a rámpákon.",
                 "ro": "Gheață pe rampe.",
-                "en": "Ice possible on ramps."
+                "en": "Ice possible on ramps.",
+                "nl": "IJs mogelijk op hellingen."
               }
             },
             {
@@ -1036,7 +1119,8 @@
                 "de": "Schattenwege gefroren.",
                 "hu": "Árnyékos utak jegesek.",
                 "ro": "Aleile umbrite sunt ude.",
-                "en": "Shady paths are icy."
+                "en": "Shady paths are icy.",
+                "nl": "Schaduwrijke paden zijn glad door ijs."
               }
             },
             {
@@ -1045,7 +1129,8 @@
                 "de": "Beißender kalter Wind.",
                 "hu": "Metszően hideg szél.",
                 "ro": "Vânt tăios și rece.",
-                "en": "Biting cold wind."
+                "en": "Biting cold wind.",
+                "nl": "Snijdende koude wind."
               }
             },
             {
@@ -1054,7 +1139,8 @@
                 "de": "Hände gut aufwärmen.",
                 "hu": "Melegítse fel kezeit.",
                 "ro": "Încălziți-vă mâinile.",
-                "en": "Warm up your hands."
+                "en": "Warm up your hands.",
+                "nl": "Warm je handen op."
               }
             },
             {
@@ -1063,7 +1149,8 @@
                 "de": "Licht ab 16 Uhr an.",
                 "hu": "Lámpa 16 órától kell.",
                 "ro": "Luminile de la ora 16.",
-                "en": "Lights on from 16:00."
+                "en": "Lights on from 16:00.",
+                "nl": "Lichten aan vanaf 16:00."
               }
             }
           ],
@@ -1095,6 +1182,13 @@
               "Avoid sudden steering.",
               "Pack a neck warmer.",
               "Check tire grip."
+            ],
+            "nl": [
+              "Gebruik dikke handschoenen.",
+              "Zet de lichten vroeg aan.",
+              "Vermijd plots sturen.",
+              "Neem een nekwarmer mee.",
+              "Controleer de bandengrip."
             ]
           }
         }
@@ -1113,7 +1207,8 @@
             "de": "Parkhaus & Koemarkt (Cluster A)",
             "hu": "Parkolóház és Koemarkt (A klaszter)",
             "ro": "Parcare și Koemarkt (Cluster A)",
-            "en": "Parking Garage & Koemarkt (Cluster A)"
+            "en": "Parking Garage & Koemarkt (Cluster A)",
+            "nl": "Parkeergarage & Koemarkt (Cluster A)"
           },
           "coords": [
             4.9455,
@@ -1129,7 +1224,8 @@
             "de": "Parken Sie Ihr Auto für den Morgen und beginnen Sie Ihren Rundgang hier.",
             "hu": "Parkolja le az autóját délelőttre, és innen induljon a séta.",
             "ro": "Parcați mașina pentru dimineață și începeți turul pietonal de aici.",
-            "en": "Park your car for the morning and start your walking tour here."
+            "en": "Park your car for the morning and start your walking tour here.",
+            "nl": "Parkeer je auto voor de ochtend en begin hier je wandeling."
           }
         },
         {
@@ -1137,7 +1233,8 @@
             "de": "Stadhuis Purmerend",
             "hu": "Stadhuis Purmerend (Városháza)",
             "ro": "Stadhuis Purmerend (Primăria)",
-            "en": "Stadhuis Purmerend (City Hall)"
+            "en": "Stadhuis Purmerend (City Hall)",
+            "nl": "Stadhuis Purmerend (Stadhuis)"
           },
           "coords": [
             4.9468,
@@ -1153,7 +1250,8 @@
             "de": "Ein kurzer Spaziergang vom Hauptplatz zum historischen Rathaus.",
             "hu": "Rövid séta a főtérről a történelmi Városházához.",
             "ro": "O scurtă plimbare de la piața principală la primăria istorică.",
-            "en": "A short walk from the main square to the historic city hall."
+            "en": "A short walk from the main square to the historic city hall.",
+            "nl": "Een korte wandeling vanaf het hoofdplein naar het historische stadhuis."
           }
         },
         {
@@ -1161,7 +1259,8 @@
             "de": "Nicolaaskerk",
             "hu": "Szent Miklós-templom",
             "ro": "Biserica Sfântul Nicolae",
-            "en": "St. Nicholas' Church"
+            "en": "St. Nicholas' Church",
+            "nl": "Sint-Nicolaaskerk"
           },
           "coords": [
             4.9488,
@@ -1177,7 +1276,8 @@
             "de": "Die Kirche liegt günstig im selben fußläufigen Bereich.",
             "hu": "A templom kényelmesen, ugyanabban a sétálóövezetben található.",
             "ro": "Biserica este convenabil situată în aceeași zonă pietonală.",
-            "en": "The church is conveniently located within the same walking cluster."
+            "en": "The church is conveniently located within the same walking cluster.",
+            "nl": "De kerk ligt gunstig binnen dezelfde wandelcluster."
           }
         },
         {
@@ -1185,7 +1285,8 @@
             "de": "Purmerends Museum",
             "hu": "Purmerendi Múzeum",
             "ro": "Muzeul Purmerends",
-            "en": "Purmerends Museum"
+            "en": "Purmerends Museum",
+            "nl": "Purmerends Museum"
           },
           "coords": [
             4.947,
@@ -1201,7 +1302,8 @@
             "de": "Der letzte Halt in diesem Cluster, bevor Sie zum Mittagessen zurück zum Auto gehen.",
             "hu": "Az utolsó megálló ebben a klaszterben, mielőtt visszatérne az autóhoz ebédelni.",
             "ro": "Ultima oprire din acest cluster înainte de a vă întoarce la mașină pentru prânz.",
-            "en": "The last stop in this cluster before walking back to the car for lunch."
+            "en": "The last stop in this cluster before walking back to the car for lunch.",
+            "nl": "De laatste stop in deze cluster voordat je terugloopt naar de auto voor de lunch."
           }
         },
         {
@@ -1209,7 +1311,8 @@
             "de": "Fahrt zum Polder & Aussichtspunkt (Cluster B)",
             "hu": "Autózás a polderhez és kilátóponthoz (B klaszter)",
             "ro": "Drum spre Polder și punct de observare (Cluster B)",
-            "en": "Drive to the Polder & Viewpoint (Cluster B)"
+            "en": "Drive to the Polder & Viewpoint (Cluster B)",
+            "nl": "Rijd naar de Polder & Uitkijkpunt (Cluster B)"
           },
           "coords": [
             4.91,
@@ -1225,7 +1328,8 @@
             "de": "Fahren Sie aus der Stadt hinaus, um die weite, offene Landschaft des Polders zu sehen.",
             "hu": "Hajtson ki a városból, hogy megnézze a polder tágas, nyílt táját.",
             "ro": "Conduceți în afara orașului pentru a vedea peisajul vast și deschis al polderului.",
-            "en": "Drive out of the city to see the vast, open landscape of the polder."
+            "en": "Drive out of the city to see the vast, open landscape of the polder.",
+            "nl": "Rijd de stad uit om het uitgestrekte, open landschap van de polder te zien."
           }
         },
         {
@@ -1233,7 +1337,8 @@
             "de": "Leeghwaterpark",
             "hu": "Leeghwater Park",
             "ro": "Parcul Leeghwater",
-            "en": "Leeghwater Park"
+            "en": "Leeghwater Park",
+            "nl": "Leeghwaterpark"
           },
           "coords": [
             4.974,
@@ -1249,7 +1354,8 @@
             "de": "Parken Sie erneut und genießen Sie einen entspannten Spaziergang durch diesen großen Stadtpark.",
             "hu": "Parkoljon le újra, és élvezze a pihentető sétát ebben a nagy városi parkban.",
             "ro": "Parcați din nou și bucurați-vă de o plimbare relaxantă prin acest parc urban mare.",
-            "en": "Park again and enjoy a relaxing walk through this large urban park."
+            "en": "Park again and enjoy a relaxing walk through this large urban park.",
+            "nl": "Parkeer opnieuw en geniet van een ontspannen wandeling door dit grote stadspark."
           }
         },
         {
@@ -1257,7 +1363,8 @@
             "de": "Melkwegbrug",
             "hu": "Melkwegbrug",
             "ro": "Podul Melkwegbrug",
-            "en": "Melkwegbrug"
+            "en": "Melkwegbrug",
+            "nl": "Melkwegbrug"
           },
           "coords": [
             4.9583,
@@ -1273,7 +1380,8 @@
             "de": "Ein letzter Halt, um diese einzigartige Brücke zu überqueren und den Tag ausklingen zu lassen.",
             "hu": "Egy utolsó megálló, hogy átkeljen ezen az egyedülálló hídon és lezárja a napot.",
             "ro": "O ultimă oprire pentru a traversa acest pod unic și a încheia ziua.",
-            "en": "A final stop to cross this unique bridge and wind down the day."
+            "en": "A final stop to cross this unique bridge and wind down the day.",
+            "nl": "Een laatste stop om deze unieke brug over te steken en de dag rustig af te sluiten."
           }
         }
       ],
@@ -1281,7 +1389,8 @@
         "de": "Ihr Autotag beginnt mit dem Parken im Zentrum von Purmerend, um den ersten Cluster zu Fuß zu erkunden. Sie spazieren vom Koemarkt zum Rathaus, zur Nicolaaskerk und zum Purmerends Museum. Nach dem Mittagessen fahren Sie aus der Stadt hinaus, um die ländliche Schönheit des Purmer Polders zu erleben. Ihr zweiter großer Halt ist der weitläufige Leeghwaterpark, wo Sie einen Nachmittagsspaziergang genießen. Der Tag endet mit einer Fahrt zur berühmten Melkwegbrug, die einen perfekten Abschluss für Ihre Erkundung von Purmerend und seiner Umgebung bietet.",
         "hu": "Autós napja azzal kezdődik, hogy Purmerend központjában parkol, hogy gyalog fedezze fel az első klasztert. A Koemarktról a Városházához, a Szent Miklós-templomhoz és a Purmerendi Múzeumhoz sétál. Ebéd után kihajt a városból, hogy megtapasztalja a Purmer Polder vidéki szépségét. A második nagy megálló a tágas Leeghwaterpark, ahol egy délutáni sétát tehet. A napot a híres Melkwegbrughoz vezető úttal zárja, amely tökéletes befejezése Purmerend és környéke felfedezésének.",
         "ro": "Ziua dvs. cu mașina începe parcând în centrul orașului Purmerend pentru a explora primul cluster pe jos. Vă plimbați de la Koemarkt la Primărie, Biserica Sf. Nicolae și Muzeul Purmerends. După prânz, conduceți în afara orașului pentru a experimenta frumusețea rurală a polderului Purmer. A doua oprire majoră este vastul parc Leeghwater pentru o plimbare de după-amiază. Ziua se încheie cu o deplasare la faimosul pod Melkwegbrug, o concluzie perfectă pentru explorarea dvs. a Purmerend și a împrejurimilor sale.",
-        "en": "Your car day begins by parking in central Purmerend to explore the first cluster on foot. You'll walk from the Koemarkt to the City Hall, St. Nicholas' Church, and the Purmerends Museum. After lunch, you drive out of town to experience the rural beauty of the Purmer Polder. Your second major stop is the expansive Leeghwaterpark for an afternoon stroll. The day concludes with a drive to the famous Melkwegbrug, providing a perfect end to your exploration of Purmerend and its surroundings."
+        "en": "Your car day begins by parking in central Purmerend to explore the first cluster on foot. You'll walk from the Koemarkt to the City Hall, St. Nicholas' Church, and the Purmerends Museum. After lunch, you drive out of town to experience the rural beauty of the Purmer Polder. Your second major stop is the expansive Leeghwaterpark for an afternoon stroll. The day concludes with a drive to the famous Melkwegbrug, providing a perfect end to your exploration of Purmerend and its surroundings.",
+        "nl": "Je autotocht begint met parkeren in centraal Purmerend om de eerste cluster te voet te verkennen. Je loopt van de Koemarkt naar het Stadhuis, de Sint-Nicolaaskerk en het Purmerends Museum. Na de lunch rijd je de stad uit om de landelijke schoonheid van de Purmer Polder te ervaren. Je tweede belangrijke stop is het uitgestrekte Leeghwaterpark voor een middagwandeling. De dag wordt afgesloten met een rit naar de beroemde Melkwegbrug, een perfecte afronding van je verkenning van Purmerend en omgeving."
       },
       "gastro_picks": {
         "de": [
@@ -1477,6 +1586,12 @@
           "Rural roads in the polder can be narrow; drive with care.",
           "Use a navigation app to navigate between clusters.",
           "A car gives you the flexibility to stop at scenic spots outside the town."
+        ],
+        "nl": [
+          "Parkeren in het centrum kan betaald zijn; zorg voor muntgeld of een kaart.",
+          "Plattelandswegen in de polder kunnen smal zijn; rijd voorzichtig.",
+          "Gebruik een navigatie-app om tussen clusters te navigeren.",
+          "Met een auto kun je flexibel stoppen bij schilderachtige plekjes buiten de stad."
         ]
       },
       "variants": {
@@ -1485,7 +1600,8 @@
             "de": "Regnerischer Start in der Garage am Koemarkt. Kurzer Sprint zum Rathaus.\n\nMittags St. Nikolauskirche und Museum besuchen, Auto bleibt trocken geparkt.\n\nNachmittags Fahrt durch den Polder, Aussicht entspannt vom Fahrersitz genießen.\n\nAbends Blick auf die Melkwegbrug vom Parkplatz aus, bevor es nach Hause geht.",
             "hu": "Esős kezdés a főtéri garázsban. Gyors futás a Városházáig.\n\nDélben Szent Miklós-templom és múzeum, az autó szárazon várja.\n\nDélután autózás a polderben, kilátás kényelmesen az utastérből.\n\nEste pillantás a Melkwegbrugra a parkolóból, majd indulás haza.",
             "ro": "Start ploios din parcarea Koemarkt. Sprint scurt spre Primărie.\n\nLa prânz, biserica și muzeul, mașina rămâne la uscat în garaj.\n\nDupă-amiaza, drum prin polder, priveliște din interiorul cald.\n\nSeara, vedere spre Melkwegbrug din parcare înainte de plecare.",
-            "en": "Rainy start in the Koemarkt garage. Quick dash to the City Hall.\n\nMidday visit to the church and museum; car stays dry in the garage.\n\nAfternoon drive through the polder, enjoy views from your seat.\n\nEvening view of Melkwegbrug from the parking spot before heading home."
+            "en": "Rainy start in the Koemarkt garage. Quick dash to the City Hall.\n\nMidday visit to the church and museum; car stays dry in the garage.\n\nAfternoon drive through the polder, enjoy views from your seat.\n\nEvening view of Melkwegbrug from the parking spot before heading home.",
+            "nl": "Regenachtige start in de garage bij de Koemarkt. Korte sprint naar het Stadhuis.\n\nMiddagbezoek aan de kerk en het museum; de auto blijft droog in de garage.\n\nMiddagrit door de polder, geniet van het uitzicht vanuit je stoel.\n\nAvondblik op de Melkwegbrug vanaf de parkeerplaats voordat je naar huis gaat."
           },
           "stops": [
             {
@@ -1494,7 +1610,8 @@
                 "de": "Parkhaus im Zentrum.",
                 "hu": "Belvárosi parkolóház.",
                 "ro": "Garaj în centru.",
-                "en": "Central parking garage."
+                "en": "Central parking garage.",
+                "nl": "Centraal parkeergarage."
               }
             },
             {
@@ -1503,7 +1620,8 @@
                 "de": "Kurzer Weg vom Auto.",
                 "hu": "Rövid séta az autótól.",
                 "ro": "Drum scurt de la mașină.",
-                "en": "Short walk from car."
+                "en": "Short walk from car.",
+                "nl": "Korte wandeling vanaf de auto."
               }
             },
             {
@@ -1512,7 +1630,8 @@
                 "de": "Pause bis Regen endet.",
                 "hu": "Pihenő az eső végéig.",
                 "ro": "Pauză până stă ploaia.",
-                "en": "Wait for rain to stop."
+                "en": "Wait for rain to stop.",
+                "nl": "Wacht tot de regen stopt."
               }
             },
             {
@@ -1521,7 +1640,8 @@
                 "de": "Schirm im Auto lassen.",
                 "hu": "Esernyő maradjon kint.",
                 "ro": "Lăsați umbrela în mașină.",
-                "en": "Leave umbrella in car."
+                "en": "Leave umbrella in car.",
+                "nl": "Laat de paraplu in de auto."
               }
             },
             {
@@ -1530,7 +1650,8 @@
                 "de": "Panoramablick im Auto.",
                 "hu": "Panoráma az autóból.",
                 "ro": "Panoramă din mașină.",
-                "en": "Panorama from car seat."
+                "en": "Panorama from car seat.",
+                "nl": "Panorama vanuit de autostoel."
               }
             },
             {
@@ -1539,7 +1660,8 @@
                 "de": "Nah am Eingang parken.",
                 "hu": "Parkoljon a bejáratnál.",
                 "ro": "Parcați lângă intrare.",
-                "en": "Park near the entry."
+                "en": "Park near the entry.",
+                "nl": "Parkeer dicht bij de ingang."
               }
             },
             {
@@ -1548,7 +1670,8 @@
                 "de": "Blick auf Beleuchtung.",
                 "hu": "Kilátás a fényekre.",
                 "ro": "Vedere spre iluminat.",
-                "en": "View of the lights."
+                "en": "View of the lights.",
+                "nl": "Uitzicht op de verlichting."
               }
             }
           ],
@@ -1580,6 +1703,13 @@
               "Keep a towel in the car.",
               "Check polder visibility.",
               "Test your wipers."
+            ],
+            "nl": [
+              "Gebruik parkeergarages.",
+              "Vermijd veldpaden.",
+              "Houd een handdoek in de auto.",
+              "Controleer de zichtbaarheid in de polder.",
+              "Test je ruitenwissers."
             ]
           }
         },
@@ -1588,7 +1718,8 @@
             "de": "Wintertag im geheizten Auto starten. Parken am Koemarkt für kurzen Rundgang.\n\nMittags Kirche und Museum besuchen, Kälte dank kurzen Wegen zum Auto egal.\n\nNachmittags Fahrt in den Purmer Polder, frostige Weite vom Beifahrersitz aus.\n\nAbends Melkwegbrug im Dunkeln und Rückkehr durch die beleuchtete Stadt.",
             "hu": "Téli nap a fűtött autóban. Parkolás a főtérnél, rövid séta a központban.\n\nDélben templom és múzeum, a hideg nem akadály a közeli autó miatt.\n\nDélután autózás a polderben, fagyos táj az ablakon keresztül.\n\nEste Melkwegbrug sötétben, majd autózás a kivilágított városon át.",
             "ro": "Zi de iarnă în mașina caldă. Parcare la Koemarkt, plimbare scurtă.\n\nLa prânz, biserica și muzeul, frigul e suportabil lângă mașină.\n\nAfter-amiaza, drum în polder, peisaj înghețat de după geam.\n\nSeara, Melkwegbrug pe întuneric și drum prin orașul luminat.",
-            "en": "Winter day in a heated car. Park at Koemarkt for a short walk around.\n\nMidday church and museum; the cold is fine with the car nearby.\n\nAfternoon drive to the polder, frosty views from your passenger seat.\n\nEvening Melkwegbrug in the dark and return through the lit-up city."
+            "en": "Winter day in a heated car. Park at Koemarkt for a short walk around.\n\nMidday church and museum; the cold is fine with the car nearby.\n\nAfternoon drive to the polder, frosty views from your passenger seat.\n\nEvening Melkwegbrug in the dark and return through the lit-up city.",
+            "nl": "Winterse dag in een verwarmde auto. Parkeer bij de Koemarkt voor een korte wandeling.\n\nMiddag kerk en museum; de kou is dragelijk met de auto in de buurt.\n\nMiddagrit naar de polder, rijzige uitzichten vanaf de bijrijdersstoel.\n\nAvond Melkwegbrug in het donker en terug door de verlichte stad."
           },
           "stops": [
             {
@@ -1597,7 +1728,8 @@
                 "de": "Schutz vor Frost.",
                 "hu": "Védelem a fagy ellen.",
                 "ro": "Protecție contra ger.",
-                "en": "Protection from frost."
+                "en": "Protection from frost.",
+                "nl": "Bescherming tegen vorst."
               }
             },
             {
@@ -1606,7 +1738,8 @@
                 "de": "Glitzerndes Winterlicht.",
                 "hu": "Csillogó téli fények.",
                 "ro": "Lumină de iarnă.",
-                "en": "Sparkling winter light."
+                "en": "Sparkling winter light.",
+                "nl": "Fonkelend winterlicht."
               }
             },
             {
@@ -1615,7 +1748,8 @@
                 "de": "Kurze Stille genießen.",
                 "hu": "Élvezze a rövid csendet.",
                 "ro": "Bucurați-vă de liniște.",
-                "en": "Enjoy the brief silence."
+                "en": "Enjoy the brief silence.",
+                "nl": "Geniet van de korte stilte."
               }
             },
             {
@@ -1624,7 +1758,8 @@
                 "de": "Aufwärmen im Inneren.",
                 "hu": "Melegedjen fel bent.",
                 "ro": "Încălziți-vă în interior.",
-                "en": "Warm up inside."
+                "en": "Warm up inside.",
+                "nl": "Warm op binnen."
               }
             },
             {
@@ -1633,7 +1768,8 @@
                 "de": "Vorsicht bei Glätte.",
                 "hu": "Vigyázzon, csúszhat.",
                 "ro": "Atenție la polei.",
-                "en": "Watch for icy roads."
+                "en": "Watch for icy roads.",
+                "nl": "Let op ijzige wegen."
               }
             },
             {
@@ -1642,7 +1778,8 @@
                 "de": "Kurze Winterstimmung.",
                 "hu": "Rövid téli hangulat.",
                 "ro": "Atmosferă de iarnă.",
-                "en": "Brief winter vibe."
+                "en": "Brief winter vibe.",
+                "nl": "Korte winterse sfeer."
               }
             },
             {
@@ -1651,7 +1788,8 @@
                 "de": "Wunderschön beleuchtet.",
                 "hu": "Gyönyörű kivilágítás.",
                 "ro": "Iluminat superb.",
-                "en": "Beautifully lit up."
+                "en": "Beautifully lit up.",
+                "nl": "Prachtig verlicht."
               }
             }
           ],
@@ -1683,6 +1821,13 @@
               "Drive polder in light.",
               "Avoid side paths.",
               "Enjoy seat heaters."
+            ],
+            "nl": [
+              "Controleer antivries.",
+              "Houd een ijssteker bij de hand.",
+              "Rijd de polder bij daglicht.",
+              "Vermijd zijpaden.",
+              "Geniet van stoelverwarming."
             ]
           }
         }
@@ -1701,7 +1846,8 @@
             "de": "Bahnhof/Bushaltestelle & Koemarkt (Cluster A)",
             "hu": "Vasútállomás/buszmegálló és Koemarkt (A klaszter)",
             "ro": "Gară/Stație de autobuz și Koemarkt (Cluster A)",
-            "en": "Train/Bus Station & Koemarkt (Cluster A)"
+            "en": "Train/Bus Station & Koemarkt (Cluster A)",
+            "nl": "Trein/Bus Station & Koemarkt (Cluster A)"
           },
           "coords": [
             4.9455,
@@ -1717,7 +1863,8 @@
             "de": "Kommen Sie mit öffentlichen Verkehrsmitteln an und gehen Sie zum nahe gelegenen Koemarkt.",
             "hu": "Érkezzen tömegközlekedéssel, és sétáljon el a közeli Koemarkthoz.",
             "ro": "Sosiți cu transportul public și mergeți pe jos până la Koemarkt din apropiere.",
-            "en": "Arrive by public transport and walk to the nearby Koemarkt."
+            "en": "Arrive by public transport and walk to the nearby Koemarkt.",
+            "nl": "Kom aan met het openbaar vervoer en loop naar de nabijgelegen Koemarkt."
           }
         },
         {
@@ -1725,7 +1872,8 @@
             "de": "Stadhuis Purmerend",
             "hu": "Stadhuis Purmerend (Városháza)",
             "ro": "Stadhuis Purmerend (Primăria)",
-            "en": "Stadhuis Purmerend (City Hall)"
+            "en": "Stadhuis Purmerend (City Hall)",
+            "nl": "Stadhuis Purmerend (Stadhuis)"
           },
           "coords": [
             4.9468,
@@ -1741,7 +1889,8 @@
             "de": "Das Rathaus ist nur einen kurzen Spaziergang vom Platz entfernt.",
             "hu": "A Városháza csak egy rövid sétára van a tértől.",
             "ro": "Primăria se află la o scurtă plimbare de piață.",
-            "en": "The city hall is just a short walk from the square."
+            "en": "The city hall is just a short walk from the square.",
+            "nl": "Het stadhuis is op korte loopafstand van het plein."
           }
         },
         {
@@ -1749,7 +1898,8 @@
             "de": "Nicolaaskerk",
             "hu": "Szent Miklós-templom",
             "ro": "Biserica Sfântul Nicolae",
-            "en": "St. Nicholas' Church"
+            "en": "St. Nicholas' Church",
+            "nl": "Sint-Nicolaaskerk"
           },
           "coords": [
             4.9488,
@@ -1765,7 +1915,8 @@
             "de": "Setzen Sie Ihren Stadtrundgang fort und besuchen Sie diese zentrale Kirche.",
             "hu": "Folytassa a városnéző sétát, és látogasson el ebbe a központi templomba.",
             "ro": "Continuați turul pietonal al centrului orașului pentru a vizita această biserică centrală.",
-            "en": "Continue your city center walking tour to visit this central church."
+            "en": "Continue your city center walking tour to visit this central church.",
+            "nl": "Ga door met je stadswandeling om deze centrale kerk te bezoeken."
           }
         },
         {
@@ -1773,7 +1924,8 @@
             "de": "Purmerends Museum",
             "hu": "Purmerendi Múzeum",
             "ro": "Muzeul Purmerends",
-            "en": "Purmerends Museum"
+            "en": "Purmerends Museum",
+            "nl": "Purmerends Museum"
           },
           "coords": [
             4.947,
@@ -1789,7 +1941,8 @@
             "de": "Das Museum vervollständigt Ihren Spaziergang durch das historische Zentrum.",
             "hu": "A múzeum teszi teljessé a történelmi központban tett sétát.",
             "ro": "Muzeul completează plimbarea dvs. prin centrul istoric.",
-            "en": "The museum completes your walking tour of the historic center."
+            "en": "The museum completes your walking tour of the historic center.",
+            "nl": "Het museum completeert je wandeltocht door het historische centrum."
           }
         },
         {
@@ -1797,7 +1950,8 @@
             "de": "Bus zum Leeghwaterpark (Cluster B)",
             "hu": "Busz a Leeghwaterparkhoz (B klaszter)",
             "ro": "Autobuz spre Parcul Leeghwater (Cluster B)",
-            "en": "Bus to Leeghwaterpark (Cluster B)"
+            "en": "Bus to Leeghwaterpark (Cluster B)",
+            "nl": "Bus naar Leeghwaterpark (Cluster B)"
           },
           "coords": [
             4.974,
@@ -1813,7 +1967,8 @@
             "de": "Nehmen Sie einen lokalen Bus, um in den Parkbereich zu gelangen und einen Nachmittag im Grünen zu verbringen.",
             "hu": "Menjen helyi busszal a park területére egy zöld délutánért.",
             "ro": "Luați un autobuz local pentru a ajunge în zona parcului pentru o după-amiază în aer liber.",
-            "en": "Take a local bus to reach the park area for an afternoon of greenery."
+            "en": "Take a local bus to reach the park area for an afternoon of greenery.",
+            "nl": "Neem een lokale bus om het parkgebied te bereiken voor een middag tussen het groen."
           }
         },
         {
@@ -1821,7 +1976,8 @@
             "de": "Melkwegbrug",
             "hu": "Melkwegbrug",
             "ro": "Podul Melkwegbrug",
-            "en": "Melkwegbrug"
+            "en": "Melkwegbrug",
+            "nl": "Melkwegbrug"
           },
           "coords": [
             4.9583,
@@ -1837,7 +1993,8 @@
             "de": "Nehmen Sie einen weiteren kurzen Bus oder gehen Sie zu Fuß, um diese berühmte Brücke zu sehen, bevor Sie zurückkehren.",
             "hu": "Menjen egy másik rövid busszal vagy sétáljon el, hogy megnézze ezt a híres hidat, mielőtt visszatérne.",
             "ro": "Luați un alt autobuz scurt sau mergeți pe jos pentru a vedea acest pod faimos înainte de a vă întoarce.",
-            "en": "Take another short bus or walk to see this famous bridge before heading back."
+            "en": "Take another short bus or walk to see this famous bridge before heading back.",
+            "nl": "Neem nog een korte busrit of loop om deze beroemde brug te zien voordat je teruggaat."
           }
         }
       ],
@@ -1845,7 +2002,8 @@
         "de": "Ihr Tag beginnt mit der Ankunft in Purmerend mit öffentlichen Verkehrsmitteln. Der erste Teil Ihrer Reise ist ein Rundgang durch das Stadtzentrum, der am Koemarkt beginnt und Sie zum Rathaus, zur Nicolaaskerk und zum Purmerends Museum führt. Nach dem Mittagessen nehmen Sie einen Bus zum zweiten Cluster des Tages: dem weitläufigen Leeghwaterpark. Hier genießen Sie einen entspannten Nachmittag. Eine letzte kurze Fahrt mit dem Bus bringt Sie zur ikonischen Melkwegbrug, einem perfekten Fotostopp, bevor Sie Ihre Heimreise antreten.",
         "hu": "Napja azzal kezdődik, hogy tömegközlekedéssel érkezik Purmerendbe. Az utazás első része egy séta a városközpontban, amely a Koemarktról indul, és elvezeti a Városházához, a Szent Miklós-templomhoz és a Purmerendi Múzeumhoz. Ebéd után busszal utazik a nap második klaszteréhez: a tágas Leeghwaterparkhoz. Itt egy pihentető délutánt tölthet el. Egy utolsó rövid buszozás elviszi az ikonikus Melkwegbrughoz, amely tökéletes fotómegálló, mielőtt hazaindulna.",
         "ro": "Ziua dvs. începe sosind în Purmerend cu transportul public. Prima parte a călătoriei este un tur pietonal al centrului orașului, pornind de la Koemarkt și ducându-vă la Primărie, Biserica Sf. Nicolae și Muzeul Purmerends. După prânz, luați un autobuz către al doilea cluster al zilei: vastul parc Leeghwater. Aici vă bucurați de o după-amiază relaxantă. O ultimă călătorie scurtă cu autobuzul vă duce la emblematicul pod Melkwegbrug, o oprire perfectă pentru fotografii înainte de a vă întoarce acasă.",
-        "en": "Your day starts by arriving in Purmerend via public transport. The first leg of your journey is a walking tour of the city center, starting from the Koemarkt and taking you to the City Hall, St. Nicholas' Church, and the Purmerends Museum. After lunch, you'll take a bus to the day's second cluster: the expansive Leeghwaterpark. Here, you'll enjoy a relaxing afternoon. One final short bus ride takes you to the iconic Melkwegbrug, a perfect photo stop before you head home."
+        "en": "Your day starts by arriving in Purmerend via public transport. The first leg of your journey is a walking tour of the city center, starting from the Koemarkt and taking you to the City Hall, St. Nicholas' Church, and the Purmerends Museum. After lunch, you'll take a bus to the day's second cluster: the expansive Leeghwaterpark. Here, you'll enjoy a relaxing afternoon. One final short bus ride takes you to the iconic Melkwegbrug, a perfect photo stop before you head home.",
+        "nl": "Je dag begint met aankomst in Purmerend per openbaar vervoer. Het eerste deel van je reis is een wandeltocht door het stadscentrum, vanaf de Koemarkt langs het Stadhuis, de Nicolaaskerk en het Purmerends Museum. Na de lunch neem je de bus naar het tweede cluster van de dag: het uitgestrekte Leeghwaterpark. Hier geniet je van een ontspannen middag. Een laatste korte busrit brengt je naar de iconische Melkwegbrug, een perfecte fotostop voordat je naar huis gaat."
       },
       "gastro_picks": {
         "de": [
@@ -2041,6 +2199,12 @@
           "Check bus schedules in advance to minimize waiting.",
           "Buses in the Netherlands are cashless; use an OV-chipkaart or contactless debit/credit card.",
           "Download a local public transport app for real-time information."
+        ],
+        "nl": [
+          "Koop een dagkaart voor de bus voor onbeperkt reizen binnen de stad.",
+          "Controleer de bustijden van tevoren om wachttijden te minimaliseren.",
+          "Bussen in Nederland zijn cashless; gebruik een OV-chipkaart of een contactloze pin/creditcard.",
+          "Download een lokale OV-app voor realtime informatie."
         ]
       },
       "variants": {
@@ -2049,7 +2213,8 @@
             "de": "Vom Bahnhof Purmerend mit dem Bus zum Koemarkt, Arkaden halten trocken.\n\nMittags Rathaus und Museum, ÖPNV bietet Schutz vor dem Dauerregen.\n\nNachmittags Bus zum Leeghwater Park, Wartehäuschen nutzen für Umstieg.\n\nAbends Rückkehr ins Zentrum, spiegelnde Straßen vor der Heimfahrt mit dem Zug.",
             "hu": "Állomástól busszal a Koemarktig, az ereszek szárazon tartják.\n\nDélben Városháza és múzeum, a busz védelmet ad a tartós esőben.\n\nDélután busz a parkhoz, használja a fedett várókat az átszálláshoz.\n\nEste központ, tükröződő utcák, majd vonattal irány haza.",
             "ro": "De la gară cu autobuzul la Koemarkt, arcadele vă țin uscați.\n\nLa prânz, Primăria și muzeul, transportul vă apără de ploaie.\n\nDupă-amiaza, autobuz la park, stații acoperite pentru schimb.\n\nSeara, în centru, străzi lucioase înainte de drumul cu trenul.",
-            "en": "From station by bus to Koemarkt; awnings keep you dry there.\n\nMidday City Hall and museum; transit offers cover from steady rain.\n\nAfternoon bus to the park; use shelters while waiting for connections.\n\nEvening in the center, reflecting streets before the train ride home."
+            "en": "From station by bus to Koemarkt; awnings keep you dry there.\n\nMidday City Hall and museum; transit offers cover from steady rain.\n\nAfternoon bus to the park; use shelters while waiting for connections.\n\nEvening in the center, reflecting streets before the train ride home.",
+            "nl": "Vanaf het station met de bus naar Koemarkt; luifels houden je daar droog.\n\nMiddag Stadhuis en museum; het vervoer biedt dekking bij aanhoudende regen.\n\nMiddag-bus naar het park; gebruik wachthuizen tijdens het wachten op overstappen.\n\nAvond in het centrum, reflecterende straten voordat je de trein naar huis neemt."
           },
           "stops": [
             {
@@ -2058,7 +2223,8 @@
                 "de": "Im Gebäude warten.",
                 "hu": "Várjon az épületben.",
                 "ro": "Așteptați în clădire.",
-                "en": "Wait inside building."
+                "en": "Wait inside building.",
+                "nl": "Wacht binnen in het gebouw."
               }
             },
             {
@@ -2067,7 +2233,8 @@
                 "de": "Haltestelle nahbei.",
                 "hu": "Megálló a közelben.",
                 "ro": "Stație foarte aproape.",
-                "en": "Stop is very close."
+                "en": "Stop is very close.",
+                "nl": "Halte is zeer dichtbij."
               }
             },
             {
@@ -2076,7 +2243,8 @@
                 "de": "Schauer abwarten.",
                 "hu": "Várja meg az eső végét.",
                 "ro": "Așteptați înăuntru.",
-                "en": "Wait out the shower."
+                "en": "Wait out the shower.",
+                "nl": "Wacht de bui uit."
               }
             },
             {
@@ -2085,7 +2253,8 @@
                 "de": "Viele Linien halten hier.",
                 "hu": "Sok járat áll meg itt.",
                 "ro": "Multe linii opresc aici.",
-                "en": "Many lines stop here."
+                "en": "Many lines stop here.",
+                "nl": "Veel lijnen stoppen hier."
               }
             },
             {
@@ -2094,7 +2263,8 @@
                 "de": "App für Echtzeit nutzen.",
                 "hu": "Használja az appot.",
                 "ro": "Folosiți aplicația.",
-                "en": "Use the transit app."
+                "en": "Use the transit app.",
+                "nl": "Gebruik de OV-app."
               }
             },
             {
@@ -2103,7 +2273,8 @@
                 "de": "Guter Blick aus Haltestelle.",
                 "hu": "Kilátás a megállóból.",
                 "ro": "Vedere din stație.",
-                "en": "View from the stop."
+                "en": "View from the stop.",
+                "nl": "Uitzicht vanaf de halte."
               }
             }
           ],
@@ -2135,6 +2306,13 @@
               "Plan route on bus.",
               "Watch for splashes.",
               "Use station kiosks."
+            ],
+            "nl": [
+              "Gebruik OV-chipkaart.",
+              "Overdekte bushaltes.",
+              "Plan de route met de bus.",
+              "Let op opspattend water.",
+              "Gebruik de kiosken op het station."
             ]
           }
         },
@@ -2143,7 +2321,8 @@
             "de": "Wintermorgen am Bahnhof, warmer Bus zum Koemarkt und glitzernde Kanäle.\n\nMittags Kirche und Museum, geheizter ÖPNV macht die Kälte erträglich.\n\nNachmittags Bus zum Leeghwater Park, Stille genießen und schnell zurück ins Warme.\n\nAbends frühe Lichter der Stadt und festliche Busfahrt zurück zum Zug.",
             "hu": "Téli reggel az állomáson, meleg busz a főtérig és csillogó csatornák.\n\nDélben templom és múzeum, a fűtött buszok elviselhetővé teszik a napot.\n\nDélután busz a parkhoz, élvezze a csendet, majd gyorsan vissza a melegbe.\n\nEste korai városi fények és ünnepi buszozás vissza a vonathoz.",
             "ro": "Dimineață de iarnă la gară, autobuz cald spre Koemarkt și canale sclipitoare.\n\nLa prânz, biserica și muzeul, transportul încălzit face gerul suportabil.\n\nDupă-amiaza, autobuz la park, liniște și revenire rapidă la căldură.\n\nSeara, lumini timpurii și drum festiv cu autobuzul spre gară.",
-            "en": "Winter morning at the station, warm bus to Koemarkt and sparkling canals.\n\nMidday church and museum; heated transit makes the cold manageable.\n\nAfternoon bus to the park; enjoy silence then get back into the warmth.\n\nEvening early city lights and a festive bus ride back to the train."
+            "en": "Winter morning at the station, warm bus to Koemarkt and sparkling canals.\n\nMidday church and museum; heated transit makes the cold manageable.\n\nAfternoon bus to the park; enjoy silence then get back into the warmth.\n\nEvening early city lights and a festive bus ride back to the train.",
+            "nl": "Winterochtend op het station, warme bus naar de Koemarkt en fonkelende grachten.\n\nMiddag kerk en museum; verwarmd vervoer maakt de kou draaglijk.\n\nMiddagbus naar het park; geniet van de stilte en ga dan weer de warmte in.\n\nAvond vroeg stadslichten en een feestelijke busrit terug naar de trein."
           },
           "stops": [
             {
@@ -2152,7 +2331,8 @@
                 "de": "Beheizte Wartebereiche.",
                 "hu": "Fűtött várótermek.",
                 "ro": "Săli de așteptare calde.",
-                "en": "Heated waiting areas."
+                "en": "Heated waiting areas.",
+                "nl": "Verwarmde wachtruimtes."
               }
             },
             {
@@ -2161,7 +2341,8 @@
                 "de": "Kurzer Weg zum Bus.",
                 "hu": "Rövid séta a buszig.",
                 "ro": "Drum scurt la bus.",
-                "en": "Short walk to bus."
+                "en": "Short walk to bus.",
+                "nl": "Korte wandeling naar de bus."
               }
             },
             {
@@ -2170,7 +2351,8 @@
                 "de": "Handschuhe anlassen.",
                 "hu": "Kesztyű maradjon kézen.",
                 "ro": "Păstrați mănușile.",
-                "en": "Keep gloves on."
+                "en": "Keep gloves on.",
+                "nl": "Houd handschoenen aan."
               }
             },
             {
@@ -2179,7 +2361,8 @@
                 "de": "Hervorragend beheizt.",
                 "hu": "Kiválóan fűtött.",
                 "ro": "Foarte bine încălzit.",
-                "en": "Well-heated inside."
+                "en": "Well-heated inside.",
+                "nl": "Goed verwarmd binnen."
               }
             },
             {
@@ -2188,7 +2371,8 @@
                 "de": "Winter-Fahrplan prüfen.",
                 "hu": "Téli menetrend ellenőrzése.",
                 "ro": "Verificați orarul.",
-                "en": "Check winter schedule."
+                "en": "Check winter schedule.",
+                "nl": "Controleer het winterschema."
               }
             },
             {
@@ -2197,7 +2381,8 @@
                 "de": "Festliche Beleuchtung.",
                 "hu": "Ünnepi kivilágítás.",
                 "ro": "Iluminat festiv.",
-                "en": "Festive lighting."
+                "en": "Festive lighting.",
+                "nl": "Feestelijke verlichting."
               }
             }
           ],
@@ -2229,6 +2414,13 @@
               "Buses are well-heated.",
               "Ice on the steps.",
               "Photos from bus."
+            ],
+            "nl": [
+              "Reken op extra tijd.",
+              "Wacht in cafés.",
+              "Bussen zijn goed verwarmd.",
+              "IJs op de traptreden.",
+              "Foto's vanuit de bus."
             ]
           }
         }

@@ -21,7 +21,8 @@
             "de": "Schloss Helmond",
             "hu": "Helmondi kastély",
             "ro": "Castelul Helmond",
-            "en": "Kasteel Helmond"
+            "en": "Kasteel Helmond",
+            "nl": "Kasteel Helmond"
           },
           "coords": [
             5.663,
@@ -37,7 +38,8 @@
             "de": "Das größte Wasserschloss der Niederlande, erkunden Sie die Keller!",
             "hu": "Hollandia legnagyobb vízikastélya, fedezze fel a pincéjét!",
             "ro": "Cel mai mare castel pe apă din Olanda, explorați pivnițele!",
-            "en": "The largest water castle in the Netherlands, explore the cellars!"
+            "en": "The largest water castle in the Netherlands, explore the cellars!",
+            "nl": "Het grootste waterkasteel van Nederland, verken de kelders!"
           }
         },
         {
@@ -45,7 +47,8 @@
             "de": "Sint-Lambertuskerk",
             "hu": "Szent Lambert-templom",
             "ro": "Biserica Sf. Lambertus",
-            "en": "Sint-Lambertuskerk"
+            "en": "Sint-Lambertuskerk",
+            "nl": "Sint-Lambertuskerk"
           },
           "coords": [
             5.659,
@@ -61,7 +64,8 @@
             "de": "Bewundern Sie die neugotische Architektur und die beeindruckenden Glasfenster.",
             "hu": "Csodálja meg a neogótikus építészetet és a lenyűgöző ólomüveg ablakokat.",
             "ro": "Admirați arhitectura neogotică și vitraliile impresionante.",
-            "en": "Admire the neo-Gothic architecture and the impressive stained glass windows."
+            "en": "Admire the neo-Gothic architecture and the impressive stained glass windows.",
+            "nl": "Bewonder de neogotische architectuur en de indrukwekkende gebrandschilderde ramen."
           }
         },
         {
@@ -69,7 +73,8 @@
             "de": "Kubuswohnungen (Würfelhäuser)",
             "hu": "Kockaházak (Kubuswoningen)",
             "ro": "Casele cubice (Kubuswoningen)",
-            "en": "Cube Houses (Kubuswoningen)"
+            "en": "Cube Houses (Kubuswoningen)",
+            "nl": "Kubuswoningen (Cube Houses)"
           },
           "coords": [
             5.654,
@@ -85,7 +90,8 @@
             "de": "Ein ikonisches Beispiel für moderne Architektur. Fotografieren Sie aus verschiedenen Blickwinkeln.",
             "hu": "A modern építészet ikonikus példája. Fotózza le több szögből is!",
             "ro": "Un exemplu iconic de arhitectură modernă. Faceți fotografii din unghiuri diferite.",
-            "en": "An iconic example of modern architecture. Take photos from different angles."
+            "en": "An iconic example of modern architecture. Take photos from different angles.",
+            "nl": "Een iconisch voorbeeld van moderne architectuur. Maak foto’s vanuit verschillende hoeken."
           }
         },
         {
@@ -93,7 +99,8 @@
             "de": "Museum Helmond",
             "hu": "Helmond Múzeum",
             "ro": "Muzeul Helmond",
-            "en": "Museum Helmond"
+            "en": "Museum Helmond",
+            "nl": "Museum Helmond"
           },
           "coords": [
             5.6625,
@@ -109,7 +116,8 @@
             "de": "Das Museum befindet sich teilweise im Schloss und in der Kunsthal.",
             "hu": "A múzeum részben a kastélyban, részben a Kunsthalban található.",
             "ro": "Muzeul este situat parțial în castel și în Kunsthal.",
-            "en": "The museum is partly located in the castle and in the Kunsthal."
+            "en": "The museum is partly located in the castle and in the Kunsthal.",
+            "nl": "Het museum is deels in het kasteel en deels in de Kunsthal gevestigd."
           }
         },
         {
@@ -117,7 +125,8 @@
             "de": "Industrielles Atrium",
             "hu": "Ipari Átrium",
             "ro": "Atriumul Industrial",
-            "en": "Industrieel Atrium"
+            "en": "Industrieel Atrium",
+            "nl": "Industrieel Atrium"
           },
           "coords": [
             5.668,
@@ -133,7 +142,8 @@
             "de": "Erfahren Sie mehr über Helmonds industrielle Vergangenheit in diesem einzigartigen Raum.",
             "hu": "Ismerje meg Helmond ipari múltját ebben az egyedülálló térben.",
             "ro": "Aflați despre trecutul industrial al Helmondului în acest spațiu unic.",
-            "en": "Learn about Helmond's industrial past in this unique space."
+            "en": "Learn about Helmond's industrial past in this unique space.",
+            "nl": "Leer over Helmonds industriële verleden in deze unieke ruimte."
           }
         },
         {
@@ -141,7 +151,8 @@
             "de": "Warandepark",
             "hu": "Warandepark",
             "ro": "Parcul Warande",
-            "en": "Warandepark"
+            "en": "Warandepark",
+            "nl": "Warandepark"
           },
           "coords": [
             5.645,
@@ -157,7 +168,8 @@
             "de": "Ein schöner Ort zum Entspannen. Suchen Sie nach den Skulpturen im Park.",
             "hu": "Egy szép hely a pihenésre. Keresse meg a szobrokat a parkban.",
             "ro": "Un loc frumos pentru relaxare. Căutați sculpturile din parc.",
-            "en": "A beautiful place to relax. Look for the sculptures scattered in the park."
+            "en": "A beautiful place to relax. Look for the sculptures scattered in the park.",
+            "nl": "Een prachtige plek om te ontspannen. Zoek naar de verspreide beelden in het park."
           }
         }
       ],
@@ -165,7 +177,8 @@
         "de": "Beginnen Sie Ihren Tag am majestätischen Wasserschloss von Helmond. Der Morgen ist der Erkundung des historischen Herzens der Stadt gewidmet, einschließlich der gotischen Pracht der Sint-Lambertuskerk. Am Mittag tauchen Sie in die moderne Architektur bei den berühmten Kubushäusern ein, bevor Sie die Kunst und Geschichte im Museum Helmond genießen. Am Nachmittag erleben Sie das industrielle Erbe der Stadt im Atrium und finden anschließend Ruhe und Grün im weitläufigen Warandepark. Schließen Sie den Tag mit einem gemütlichen Spaziergang durch die belebten Straßen ab und genießen Sie ein lokales Gericht.",
         "hu": "Kezdje a napot Helmond fenséges vízikastélyánál. A délelőtt a város történelmi szívének felfedezésével telik, beleértve a Szent Lambert-templom gótikus pompáját. Délben merüljön el a modern építészetben a híres Kockaházaknál, mielőtt a Helmond Múzeum művészetét és történelmét élvezné. Délután fedezze fel a város ipari örökségét az Átriumban, majd találjon nyugalmat és zöldet a tágas Warandeparkban. Zárja a napot egy kellemes sétával a nyüzsgő utcákon, és kóstoljon meg egy helyi ételt.",
         "ro": "Începeți ziua la maiestuosul castel pe apă din Helmond. Dimineața este dedicată explorării inimii istorice a orașului, inclusiv splendorii gotice a Bisericii Sf. Lambertus. La prânz, scufundați-vă în arhitectura modernă la faimoasele Case Cubice, înainte de a vă bucura de artă și istorie la Muzeul Helmond. După-amiaza, experimentați patrimoniul industrial al orașului la Atrium, apoi găsiți liniște și verdeață în vastul Parc Warande. Încheiați ziua cu o plimbare pe străzile pline de viață și savurați un fel de mâncare local.",
-        "en": "Start your day at Helmond's majestic water castle. The morning is for exploring the historic heart of the city, including the Gothic splendor of Sint-Lambertuskerk. At midday, immerse yourself in modern architecture at the famous Cube Houses before enjoying the art and history at Museum Helmond. In the afternoon, experience the city's industrial heritage at the Atrium and then find peace and greenery in the expansive Warandepark. End the day with a leisurely stroll through the bustling streets and enjoy a local dish."
+        "en": "Start your day at Helmond's majestic water castle. The morning is for exploring the historic heart of the city, including the Gothic splendor of Sint-Lambertuskerk. At midday, immerse yourself in modern architecture at the famous Cube Houses before enjoying the art and history at Museum Helmond. In the afternoon, experience the city's industrial heritage at the Atrium and then find peace and greenery in the expansive Warandepark. End the day with a leisurely stroll through the bustling streets and enjoy a local dish.",
+        "nl": "Begin je dag bij het majestueuze waterkasteel van Helmond. De ochtend is bedoeld om het historische hart van de stad te verkennen, inclusief de gotische pracht van de Sint-Lambertuskerk. ’s Middags dompel je jezelf onder in moderne architectuur bij de beroemde Kubuswoningen, gevolgd door kunst en geschiedenis in Museum Helmond. In de middag ervaar je het industriële erfgoed in het Atrium en vind je rust en groen in het uitgebreide Warandepark. Sluit de dag af met een ontspannen wandeling door de drukke straten en geniet van een lokaal gerecht."
       },
       "gastro_picks": {
         "de": [
@@ -361,6 +374,12 @@
           "Most attractions in the center are within easy walking distance.",
           "Check the opening hours of museums in advance.",
           "Bring a reusable water bottle."
+        ],
+        "nl": [
+          "Draag comfortabele schoenen; er wordt veel gelopen.",
+          "De meeste bezienswaardigheden in het centrum liggen op loopafstand.",
+          "Controleer de openingstijden van musea van tevoren.",
+          "Neem een herbruikbare waterfles mee."
         ]
       },
       "variants": {
@@ -369,7 +388,8 @@
             "de": "Morgens bietet das Kasteel Helmond mit seinen dicken Mauern perfekten Schutz vor Regen. Mittags erkunden Sie die St. Lambertuskirche und die schützenden Überhänge der Würfelhäuser. Nachmittags laden die Museen im Zentrum zu einer trockenen Zeitreise in die Industrie- und Kunstgeschichte ein. Den Abend beschließen Sie mit einem kurzen Spaziergang im Park, wo die alten Alleen Schutz bieten.",
             "hu": "Reggel a Helmond-kastély vaskos falai és belső terei nyújtanak menedéket a záporok elől. Délben a Szent Lambert-templom és a kockaházak geometriai formái alatt maradhat szárazon. Délután a városi múzeum és az ipari emlékház kínál tartalmas, fedett programot. Az estét a Warandepark fái alatt zárhatja, ahol a sűrű lombkorona felfogja az esőcseppek nagy részét.",
             "ro": "Dimineața începe la Castelul Helmond, unde șanțul cu apă arată spectaculos sub ploaie, iar interiorul este uscat. La prânz, biserica și casele cubice oferă adăpost vizual și fizic. După-amiaza este dedicată muzeelor locale, ideale pentru a evita vremea umedă. Seara se încheie în Warandepark, unde aerul curat de după ploaie este extrem de revigorant sub umbrela arborilor bătrâni.",
-            "en": "In the morning, the thick walls of Helmond Castle provide a dry sanctuary while the rain dances on the moat. At noon, the church and the overhangs of the Cube Houses offer shelter from the showers. The afternoon is best spent exploring industrial heritage in the city's museums. Finish the evening with a walk in Warandepark, where the canopy provides a natural shield against the drizzle."
+            "en": "In the morning, the thick walls of Helmond Castle provide a dry sanctuary while the rain dances on the moat. At noon, the church and the overhangs of the Cube Houses offer shelter from the showers. The afternoon is best spent exploring industrial heritage in the city's museums. Finish the evening with a walk in Warandepark, where the canopy provides a natural shield against the drizzle.",
+            "nl": "In de ochtend bieden de dikke muren van Kasteel Helmond een droge schuilplaats terwijl de regen op de gracht slaat. ’s Middags bieden de kerk en de overstekken van de Kubuswoningen beschutting tegen buitjes. De middag besteed je het beste aan het verkennen van industrieel erfgoed in de musea van de stad. Sluit de avond af met een wandeling in het Warandepark, waar de bomen een natuurlijke bescherming bieden tegen motregen."
           },
           "stops": [
             {
@@ -378,7 +398,8 @@
                 "de": "Nutzen Sie den überdachten Innenhof bei starken Güssen.",
                 "hu": "Használja a fedett udvart a nagyobb záporok idején.",
                 "ro": "Folosiți curtea interioară acoperită în timpul averselor.",
-                "en": "Use the covered inner courtyard during heavy downpours."
+                "en": "Use the covered inner courtyard during heavy downpours.",
+                "nl": "Gebruik het overdekte binnenplein tijdens hevige stortbuien."
               }
             },
             {
@@ -387,7 +408,8 @@
                 "de": "Ein ruhiger, trockener Ort für Besinnung.",
                 "hu": "Csendes, száraz hely az elmélyüléshez.",
                 "ro": "Un loc liniștit și uscat pentru reflecție.",
-                "en": "A quiet, dry place for reflection."
+                "en": "A quiet, dry place for reflection.",
+                "nl": "Een rustige, droge plek voor bezinning."
               }
             },
             {
@@ -396,7 +418,8 @@
                 "de": "Die Architektur bietet guten Schutz vor vertikalem Regen.",
                 "hu": "Az építészet jó védelmet nyújt a függőleges eső ellen.",
                 "ro": "Arhitectura oferă o bună protecție împotriva ploii verticale.",
-                "en": "The architecture provides good shelter from vertical rain."
+                "en": "The architecture provides good shelter from vertical rain.",
+                "nl": "De architectuur biedt goede beschutting tegen verticale regen."
               }
             },
             {
@@ -405,7 +428,8 @@
                 "de": "Idealer Ort, um mehrere Stunden im Trockenen zu verbringen.",
                 "hu": "Ideális hely több óra száraz eltöltéséhez.",
                 "ro": "Loc ideal pentru a petrece câteva ore la adăpost.",
-                "en": "Ideal place to spend several hours in the dry."
+                "en": "Ideal place to spend several hours in the dry.",
+                "nl": "Ideale plek om meerdere uren droog door te brengen."
               }
             },
             {
@@ -414,7 +438,8 @@
                 "de": "Vollständig überdachte Ausstellung zur Textilgeschichte.",
                 "hu": "Teljesen fedett kiállítás a textilipar történetéről.",
                 "ro": "Expoziție complet acoperită despre istoria textilă.",
-                "en": "Fully covered exhibition on textile history."
+                "en": "Fully covered exhibition on textile history.",
+                "nl": "Volledig overdekte expositie over textielgeschiedenis."
               }
             },
             {
@@ -423,7 +448,8 @@
                 "de": "Die asphaltierten Wege sind auch bei Nässe gut begehbar.",
                 "hu": "Az aszfaltozott utak esőben is jól járhatóak.",
                 "ro": "Potecile asfaltate sunt ușor de parcurs și pe ploaie.",
-                "en": "The paved paths are easily walkable even when wet."
+                "en": "The paved paths are easily walkable even when wet.",
+                "nl": "De verhardde paden zijn goed beloopbaar, zelfs als ze nat zijn."
               }
             }
           ],
@@ -451,6 +477,12 @@
               "Wear waterproof shoes as cobblestones can be slippery.",
               "Market-side cafes are perfect for waiting out heavy rain.",
               "Hoods are often more practical than umbrellas in windy Dutch rain."
+            ],
+            "nl": [
+              "Check Buienradar om je verplaatsingen tussen stops te timen.",
+              "Draag waterdichte schoenen; keien kunnen glad zijn.",
+              "Cafés aan de markt zijn perfect om zware regen te overbruggen.",
+              "Kappen zijn bij winderige Nederlandse regen vaak praktischer dan paraplu's."
             ]
           }
         },
@@ -459,7 +491,8 @@
             "de": "Der Wintermorgen am Kasteel Helmond wirkt durch den Frost auf den Backsteinen besonders historisch. Mittags wärmen Sie sich in der Lambertuskirche oder in den gemütlichen Cafés bei den Würfelhäusern auf. Der Nachmittag gehört den warmen Museumssälen, während draußen die Dämmerung früh einsetzt. Am Abend leuchten die Lichter im Warandepark und führen Sie sicher durch die kühle Winterluft.",
             "hu": "A téli reggel a Helmond-kastélynál a déres téglafalakkal igazi történelmi hangulatot áraszt. Délben a Lambert-templom békéje vagy a kockaházak melletti fűtött kávézók nyújtanak meleget. A délutánt töltse a múzeumok fűtött termeiben, miközben odakint korán sötétedik. Este a Warandepark kivilágított ösvényei vezetnek át a friss, csípős téli levegőn.",
             "ro": "O dimineață de iarnă la Castelul Helmond are un farmec aparte datorită chiciurei de pe cărămizi. La prânz, interiorul bisericii sau cafenelele încălzite de lângă casele cubice oferă confort. După-amiaza este ideală pentru galeriile muzeului, în timp ce amurgul coboară devreme. Seara, luminile din Warandepark creează o atmosferă feerică în aerul rece de decembrie.",
-            "en": "Winter mornings at Helmond Castle feel extra historic with frost on the bricks. At noon, warm up inside the Lambertuskerk or cozy cafes near the Cube Houses. Spend the afternoon in heated museum galleries as the early twilight settles over the city. In the evening, the lights in Warandepark guide you through the crisp and chilly winter air."
+            "en": "Winter mornings at Helmond Castle feel extra historic with frost on the bricks. At noon, warm up inside the Lambertuskerk or cozy cafes near the Cube Houses. Spend the afternoon in heated museum galleries as the early twilight settles over the city. In the evening, the lights in Warandepark guide you through the crisp and chilly winter air.",
+            "nl": "Winterochtenden bij Kasteel Helmond voelen extra historisch met rijp op de stenen. Rond het middaguur warm je binnen op in de Sint-Lambertuskerk of in knusse cafés bij de Kubuswoningen. Breng de middag door in verwarmde museumzalen terwijl de vroege schemering over de stad valt. ’s Avonds leiden de lichten in het Warandepark je door de frisse, koude winterlucht."
           },
           "stops": [
             {
@@ -468,7 +501,8 @@
                 "de": "Die Innenräume sind beheizt, aber ziehen Sie sich warm an.",
                 "hu": "A belső terek fűtöttek, de öltözzön rétegesen.",
                 "ro": "Interioarele sunt încălzite, dar îmbrăcați-vă gros.",
-                "en": "Interiors are heated, but dress in warm layers."
+                "en": "Interiors are heated, but dress in warm layers.",
+                "nl": "Interieurs zijn verwarmd, maar kleed je in warme lagen."
               }
             },
             {
@@ -477,7 +511,8 @@
                 "de": "Oft festlich geschmückt in der Adventszeit.",
                 "hu": "Advent idején gyakran ünnepi díszben látható.",
                 "ro": "Adesea decorată festiv în perioada Adventului.",
-                "en": "Often festively decorated during the Advent season."
+                "en": "Often festively decorated during the Advent season.",
+                "nl": "Vaak feestelijk versierd tijdens de Adventsperiode."
               }
             },
             {
@@ -486,7 +521,8 @@
                 "de": "Vorsicht vor glatten Treppenstufen bei Frost.",
                 "hu": "Vigyázat, a lépcsőfokok fagyban csúszósak lehetnek.",
                 "ro": "Atenție la treptele care pot fi alunecoase pe îngheț.",
-                "en": "Watch out for stairs that might be slippery in frost."
+                "en": "Watch out for stairs that might be slippery in frost.",
+                "nl": "Let op trappen die bij vorst glad kunnen zijn."
               }
             },
             {
@@ -495,7 +531,8 @@
                 "de": "Genießen Sie einen heißen Kakao im Museumscafé.",
                 "hu": "Élvezzen egy forró kakaót a múzeum kávézójában.",
                 "ro": "Savurați o ciocolată caldă la cafeneaua muzeului.",
-                "en": "Enjoy a hot cocoa at the museum cafe."
+                "en": "Enjoy a hot cocoa at the museum cafe.",
+                "nl": "Geniet van een warme chocolade bij het museumcafé."
               }
             },
             {
@@ -504,7 +541,8 @@
                 "de": "Kurze Wege zwischen den Gebäuden einplanen.",
                 "hu": "Tervezzen rövid utakat az épületek között.",
                 "ro": "Planificați trasee scurte între clădiri.",
-                "en": "Plan short walking bursts between indoor sections."
+                "en": "Plan short walking bursts between indoor sections.",
+                "nl": "Plan korte wandelmomenten tussen binnenruimtes."
               }
             },
             {
@@ -513,7 +551,8 @@
                 "de": "Der Park schließt bei Einbruch der Dunkelheit teils früher.",
                 "hu": "A park bizonyos részei sötétedéskor korábban zárhatnak.",
                 "ro": "Unele zone din parc se pot închide mai devreme la lăsarea serii.",
-                "en": "Some park areas might close earlier at dusk."
+                "en": "Some park areas might close earlier at dusk.",
+                "nl": "Sommige parkdelen kunnen eerder sluiten bij schemering."
               }
             }
           ],
@@ -541,6 +580,12 @@
               "Wear thermal layers for extended outdoor segments.",
               "Cobblestones can be extremely slippery when frosted.",
               "Check holiday opening hours for museums and castle."
+            ],
+            "nl": [
+              "De zon gaat in de midwinter al rond 16:30 onder.",
+              "Draag thermische lagen voor langere buitenetappes.",
+              "Keien kunnen bij rijp erg glad zijn.",
+              "Controleer de feestdagopeningstijden van musea en kasteel."
             ]
           }
         }
@@ -559,7 +604,8 @@
             "de": "Schloss Helmond",
             "hu": "Helmondi kastély",
             "ro": "Castelul Helmond",
-            "en": "Kasteel Helmond"
+            "en": "Kasteel Helmond",
+            "nl": "Kasteel Helmond"
           },
           "coords": [
             5.663,
@@ -575,7 +621,8 @@
             "de": "Schließen Sie Ihr Fahrrad sicher ab, bevor Sie das Schloss betreten.",
             "hu": "Zárja le biztonságosan a kerékpárját, mielőtt belép a kastélyba.",
             "ro": "Încuiați-vă bicicleta în siguranță înainte de a intra în castel.",
-            "en": "Lock your bike securely before entering the castle."
+            "en": "Lock your bike securely before entering the castle.",
+            "nl": "Zet je fiets goed vast voordat je het kasteel betreedt."
           }
         },
         {
@@ -583,7 +630,8 @@
             "de": "Sint-Lambertuskerk",
             "hu": "Szent Lambert-templom",
             "ro": "Biserica Sf. Lambertus",
-            "en": "Sint-Lambertuskerk"
+            "en": "Sint-Lambertuskerk",
+            "nl": "Sint-Lambertuskerk"
           },
           "coords": [
             5.659,
@@ -599,7 +647,8 @@
             "de": "Der Radweg führt direkt an der Kirche vorbei.",
             "hu": "A kerékpárút közvetlenül a templom mellett vezet el.",
             "ro": "Pista de biciclete trece chiar pe lângă biserică.",
-            "en": "The cycle path passes right by the church."
+            "en": "The cycle path passes right by the church.",
+            "nl": "Het fietspad loopt er vlak langs."
           }
         },
         {
@@ -607,7 +656,8 @@
             "de": "Kubuswohnungen",
             "hu": "Kockaházak",
             "ro": "Casele cubice",
-            "en": "Cube Houses"
+            "en": "Cube Houses",
+            "nl": "Kubuswoningen"
           },
           "coords": [
             5.654,
@@ -623,7 +673,8 @@
             "de": "Ein toller Fotostopp auf Ihrer Radtour.",
             "hu": "Nagyszerű fotómegálló a kerékpártúrán.",
             "ro": "O oprire foto excelentă în turul cu bicicleta.",
-            "en": "A great photo stop on your bike tour."
+            "en": "A great photo stop on your bike tour.",
+            "nl": "Een prima fotostop tijdens je fietstocht."
           }
         },
         {
@@ -631,7 +682,8 @@
             "de": "Theater Het Speelhuis",
             "hu": "Het Speelhuis Színház",
             "ro": "Teatrul Het Speelhuis",
-            "en": "Het Speelhuis Theatre"
+            "en": "Het Speelhuis Theatre",
+            "nl": "Het Speelhuis"
           },
           "coords": [
             5.653,
@@ -647,7 +699,8 @@
             "de": "Bewundern Sie die einzigartige Architektur des wiederaufgebauten Theaters.",
             "hu": "Csodálja meg az újjáépített színház egyedi építészetét.",
             "ro": "Admirați arhitectura unică a teatrului reconstruit.",
-            "en": "Admire the unique architecture of the rebuilt theatre."
+            "en": "Admire the unique architecture of the rebuilt theatre.",
+            "nl": "Bewonder de unieke architectuur van het herbouwde theater."
           }
         },
         {
@@ -655,7 +708,8 @@
             "de": "Industrielles Atrium",
             "hu": "Ipari Átrium",
             "ro": "Atriumul Industrial",
-            "en": "Industrieel Atrium"
+            "en": "Industrieel Atrium",
+            "nl": "Industrieel Atrium"
           },
           "coords": [
             5.668,
@@ -671,7 +725,8 @@
             "de": "Der Radweg entlang des Kanals führt Sie fast direkt dorthin.",
             "hu": "A csatorna menti kerékpárút szinte egyenesen odavezet.",
             "ro": "Pista de biciclete de-a lungul canalului vă duce aproape direct acolo.",
-            "en": "The bike path along the canal leads you almost directly there."
+            "en": "The bike path along the canal leads you almost directly there.",
+            "nl": "Het fietspad langs het kanaal brengt je er bijna direct naartoe."
           }
         },
         {
@@ -679,7 +734,8 @@
             "de": "Jan Visser Museum",
             "hu": "Jan Visser Múzeum",
             "ro": "Muzeul Jan Visser",
-            "en": "Jan Visser Museum"
+            "en": "Jan Visser Museum",
+            "nl": "Jan Visser Museum"
           },
           "coords": [
             5.675,
@@ -695,7 +751,8 @@
             "de": "Ein kleines, aber feines Museum über lokales Handwerk.",
             "hu": "Kicsi, de remek múzeum a helyi kézművességről.",
             "ro": "Un muzeu mic, dar rafinat, despre meșteșugurile locale.",
-            "en": "A small but fine museum about local crafts."
+            "en": "A small but fine museum about local crafts.",
+            "nl": "Een klein maar fijn museum over lokale ambachten."
           }
         },
         {
@@ -703,7 +760,8 @@
             "de": "Warandepark",
             "hu": "Warandepark",
             "ro": "Parcul Warande",
-            "en": "Warandepark"
+            "en": "Warandepark",
+            "nl": "Warandepark"
           },
           "coords": [
             5.645,
@@ -719,7 +777,8 @@
             "de": "Perfekt für eine Radpause. Es gibt viele Wege zum Erkunden.",
             "hu": "Tökéletes egy kerékpáros pihenőhöz. Számos ösvényt fedezhet fel.",
             "ro": "Perfect pentru o pauză de ciclism. Există multe cărări de explorat.",
-            "en": "Perfect for a bike break. There are plenty of paths to explore."
+            "en": "Perfect for a bike break. There are plenty of paths to explore.",
+            "nl": "Perfect voor een fietspauze. Er zijn volop paden om te verkennen."
           }
         }
       ],
@@ -727,7 +786,8 @@
         "de": "Schwingen Sie sich auf den Sattel und beginnen Sie Ihre Tour am Schloss Helmond. Radeln Sie durch das historische Zentrum zur Sint-Lambertuskerk und den futuristischen Kubushäusern. Nach einem kurzen Blick auf das Theater Het Speelhuis führt Sie Ihre Route entlang der Wasserwege zum industriellen Erbe der Stadt. Am Mittag entdecken Sie im Jan Visser Museum traditionelles Handwerk. Am Nachmittag radeln Sie zum weitläufigen Warandepark für eine ausgedehnte Pause im Grünen. Der Radweg zurück ins Zentrum ist ideal, um den Tag ausklingen zu lassen.",
         "hu": "Pattanjon nyeregbe, és kezdje a túrát a Helmondi kastélynál. Tekerjen át a történelmi központon a Szent Lambert-templomhoz és a futurisztikus Kockaházakhoz. Miután vetett egy pillantást a Het Speelhuis színházra, az útvonal a vízi utak mentén a város ipari örökségéhez vezet. Délben fedezze fel a hagyományos mesterségeket a Jan Visser Múzeumban. Délután tekerjen el a tágas Warandeparkba egy hosszabb zöld pihenőre. A központba visszavezető kerékpárút ideális a nap lezárásához.",
         "ro": "Urcați-vă pe bicicletă și începeți turul la Castelul Helmond. Pedalați prin centrul istoric până la Biserica Sf. Lambertus și futuristele Case Cubice. După o scurtă privire la Teatrul Het Speelhuis, traseul vă duce de-a lungul căilor navigabile către patrimoniul industrial al orașului. La prânz, descoperiți meșteșugurile tradiționale la Muzeul Jan Visser. După-amiaza, pedalați spre vastul Parc Warande pentru o pauză lungă în natură. Pista de biciclete înapoi spre centru este ideală pentru a încheia ziua.",
-        "en": "Hop on your bike and start your tour at Kasteel Helmond. Cycle through the historic center to Sint-Lambertuskerk and the futuristic Cube Houses. After a quick look at Het Speelhuis theatre, your route takes you along the waterways to the city's industrial heritage. At noon, discover traditional crafts at the Jan Visser Museum. In the afternoon, cycle to the expansive Warandepark for an extended green break. The cycle path back to the center is ideal for winding down the day."
+        "en": "Hop on your bike and start your tour at Kasteel Helmond. Cycle through the historic center to Sint-Lambertuskerk and the futuristic Cube Houses. After a quick look at Het Speelhuis theatre, your route takes you along the waterways to the city's industrial heritage. At noon, discover traditional crafts at the Jan Visser Museum. In the afternoon, cycle to the expansive Warandepark for an extended green break. The cycle path back to the center is ideal for winding down the day.",
+        "nl": "Stap op je fiets en begin je tour bij Kasteel Helmond. Fiets door het historische centrum naar de Sint-Lambertuskerk en de futuristische Kubuswoningen. Na een korte blik op Het Speelhuis leidt je route je langs de waterwegen naar het industriële erfgoed van de stad. Rond het middaguur ontdek je traditionele ambachten in het Jan Visser Museum. In de middag fiets je naar het ruime Warandepark voor een langere groene pauze. Het fietspad terug naar het centrum is ideaal om de dag rustig af te bouwen."
       },
       "gastro_picks": {
         "de": [
@@ -923,6 +983,12 @@
           "Use a bike navigation app to find the best routes.",
           "Wear a helmet for safety.",
           "Be mindful of the complex intersections in the city center."
+        ],
+        "nl": [
+          "Helmond is zeer fietsvriendelijk.",
+          "Gebruik een fiets-navigatie-app om de beste routes te vinden.",
+          "Draag voor de veiligheid een helm.",
+          "Let op complexe kruisingen in het stadscentrum."
         ]
       },
       "variants": {
@@ -931,7 +997,8 @@
             "de": "Regen in Helmond hält echte Radfahrer nicht auf. Morgens glänzt das Kasteel im nassen Licht, während Sie schnell zum Schutz der Kirche radeln. Mittags bieten die Würfelhäuser und das Theater kurze Unterstände. Der Nachmittag im Industrieel Atrium und Jan Visser Museum ist perfekt, um das Rad sicher und trocken zu parken. Den Tag beenden Sie mit einer erfrischenden Fahrt durch den nassen Warandepark.",
             "hu": "Az eső Helmondban nem akadály a bicikliseknek. Reggel a kastély vizes árka mellett tekerve érezheti az elemeket, mielőtt a templomhoz érne. Délben a kockaházak és a színház környéke kínál gyors fedezéket. A délutáni múzeumlátogatások alatt a kerékpár is pihenhet a fedett tárolókban. A napot egy frissítő tekeréssel zárhatja a párás levegőjű Warandeparkban.",
             "ro": "Ploaia în Helmond nu oprește bicicliștii pasionați. Dimineața, castelul strălucește sub stropi, iar drumul spre biserică este rapid. La prânz, casele cubice și teatrul oferă refugii temporare. După-amiaza la Atrium și Muzeul Jan Visser este ideală pentru a lăsa bicicleta la adăpost. Încheiați ziua cu o tură revigorantă prin Warandepark, profitând de pistele libere.",
-            "en": "Rain in Helmond doesn't stop dedicated cyclists. In the morning, the castle shines in the wet light as you pedal toward the church. At noon, the Cube Houses and theatre provide quick overhead cover. The afternoon at the Industrial Atrium and Jan Visser Museum is perfect for keeping your bike and yourself dry. End the day with a refreshing ride through the misty Warandepark."
+            "en": "Rain in Helmond doesn't stop dedicated cyclists. In the morning, the castle shines in the wet light as you pedal toward the church. At noon, the Cube Houses and theatre provide quick overhead cover. The afternoon at the Industrial Atrium and Jan Visser Museum is perfect for keeping your bike and yourself dry. End the day with a refreshing ride through the misty Warandepark.",
+            "nl": "Regen in Helmond houdt gedreven fietsers niet tegen. ’s Ochtends glanst het kasteel in het natte licht terwijl je naar de kerk fietst. Rond het middaguur bieden de Kubuswoningen en het theater snelle beschutting. De middag bij het Industrieel Atrium en het Jan Visser Museum is perfect om zowel je fiets als jezelf droog te houden. Sluit de dag af met een verfrissende rit door het mistige Warandepark."
           },
           "stops": [
             {
@@ -940,7 +1007,8 @@
                 "de": "Nutzen Sie die Fahrradständer nahe dem Eingang.",
                 "hu": "Használja a bejárathoz közeli kerékpártárolókat.",
                 "ro": "Folosiți rastelele de biciclete de lângă intrare.",
-                "en": "Use the bike racks located close to the entrance."
+                "en": "Use the bike racks located close to the entrance.",
+                "nl": "Gebruik de fietsenrekken bij de ingangen."
               }
             },
             {
@@ -949,7 +1017,8 @@
                 "de": "Vorsicht beim Absteigen auf nassem Pflaster.",
                 "hu": "Vigyázat a leszálláskor a nedves kövezeten.",
                 "ro": "Atenție la descălecare pe pavajul umed.",
-                "en": "Be careful when dismounting on wet pavement."
+                "en": "Be careful when dismounting on wet pavement.",
+                "nl": "Wees voorzichtig met afstappen op natte bestrating."
               }
             },
             {
@@ -958,7 +1027,8 @@
                 "de": "Kurzer Stopp unter den vorspringenden Wänden.",
                 "hu": "Rövid megálló a kinyúló falak védelmében.",
                 "ro": "Scurt popas sub pereții proeminenți.",
-                "en": "Short stop under the projecting walls for cover."
+                "en": "Short stop under the projecting walls for cover.",
+                "nl": "Korte stop onder overstekende muren voor beschutting."
               }
             },
             {
@@ -967,7 +1037,8 @@
                 "de": "Das Vordach bietet Schutz für eine kurze Pause.",
                 "hu": "Az előtető védelmet nyújt egy rövid pihenőhöz.",
                 "ro": "Copertina oferă protecție pentru o scurtă pauză.",
-                "en": "The overhang provides shelter for a quick break."
+                "en": "The overhang provides shelter for a quick break.",
+                "nl": "De overstek biedt shelter voor een korte pauze."
               }
             },
             {
@@ -976,7 +1047,8 @@
                 "de": "Überdachte Parkmöglichkeiten oft vorhanden.",
                 "hu": "Gyakran van fedett parkolási lehetőség.",
                 "ro": "Posibilități de parcare acoperită în apropiere.",
-                "en": "Covered parking options are often available nearby."
+                "en": "Covered parking options are often available nearby.",
+                "nl": "Overdekte stallingsmogelijkheden zijn vaak in de buurt aanwezig."
               }
             },
             {
@@ -985,7 +1057,8 @@
                 "de": "Drinnen ist es gemütlich und trocken.",
                 "hu": "Bent barátságos és száraz az idő.",
                 "ro": "Interiorul este primitor și uscat.",
-                "en": "The interior is cozy and perfectly dry."
+                "en": "The interior is cozy and perfectly dry.",
+                "nl": "Het interieur is knus en volledig droog."
               }
             },
             {
@@ -994,7 +1067,8 @@
                 "de": "Achtung vor rutschigem Laub auf den Wegen.",
                 "hu": "Vigyázat a csúszós levelekkel az utakon.",
                 "ro": "Atenție la frunzele alunecoase de pe alei.",
-                "en": "Watch out for slippery leaves on the paths."
+                "en": "Watch out for slippery leaves on the paths.",
+                "nl": "Let op gladde bladeren op de paden."
               }
             }
           ],
@@ -1022,6 +1096,12 @@
               "Check your brakes as stopping distance increases when wet.",
               "Avoid sharp turns on wet cobblestones.",
               "Use panniers instead of a backpack to keep your back dry."
+            ],
+            "nl": [
+              "Draag volledige regenkleding, inclusief broek en jas.",
+              "Controleer je remmen; remweg wordt langer bij nat weer.",
+              "Vermijd scherpe bochten op natte keien.",
+              "Gebruik fietstassen in plaats van een rugzak om je rug droog te houden."
             ]
           }
         },
@@ -1030,7 +1110,8 @@
             "de": "Radfahren im Winter in Helmond ist erfrischend. Morgens glitzert der Frost am Kasteel, während Sie durch die klare Luft radeln. Mittags bieten die Museen und das Theater willkommene Wärme. Nachmittags im Jan Visser Museum erfahren Sie mehr über das ländliche Leben, bevor die Sonne früh sinkt. Der Rückweg durch den beleuchteten Warandepark ist ein stimmungsvoller Abschluss des Tages.",
             "hu": "A téli kerékpározás Helmondban felfrissíti a testet és lelket. Reggel a kastélynál csillog a dér, miközben a tiszta levegőn teker. Délben a múzeumok és a színház várja a felmelegedni vágyókat. Délután a Jan Visser Múzeumban elmerülhet a múltban, mielőtt korán lenyugszik a nap. A kivilágított Warandeparkon át vezető út hangulatos zárása a napnak.",
             "ro": "Ciclismul de iarnă în Helmond este revigorant. Dimineața, chiciura sclipește lângă castel în aerul tăios. La prânz, muzeele și teatrul oferă căldura necesară. După-amiaza la Muzeul Jan Visser este o incursiune în viața rurală înainte de apusul timpuriu. Drumul de întoarcere prin Warandepark-ul luminat este un final de zi plin de atmosferă.",
-            "en": "Cycling in winter through Helmond is brisk and refreshing. In the morning, frost glitters by the castle as you pedal through the crisp air. At noon, museums and the theatre offer welcome warmth. Spend the afternoon at Jan Visser Museum before the early sunset. The ride back through the illuminated Warandepark is an atmospheric conclusion to your day."
+            "en": "Cycling in winter through Helmond is brisk and refreshing. In the morning, frost glitters by the castle as you pedal through the crisp air. At noon, museums and the theatre offer welcome warmth. Spend the afternoon at Jan Visser Museum before the early sunset. The ride back through the illuminated Warandepark is an atmospheric conclusion to your day.",
+            "nl": "Fietsen in de winter door Helmond is fris en verkwikkend. ’s Ochtends fonkelt de rijp bij het kasteel terwijl je door de heldere lucht fietst. Rond het middaguur bieden musea en het theater aangename warmte. Breng de middag door in het Jan Visser Museum voordat de vroege zon ondergaat. De terugrit door het verlichte Warandepark is een sfeervol einde van je dag."
           },
           "stops": [
             {
@@ -1039,7 +1120,8 @@
                 "de": "Vorsicht vor gefrorenen Pfützen auf dem Radweg.",
                 "hu": "Vigyázat a fagyott tócsákkal a kerékpárúton.",
                 "ro": "Atenție la bălțile înghețate de pe pistă.",
-                "en": "Watch out for frozen puddles on the cycle path."
+                "en": "Watch out for frozen puddles on the cycle path.",
+                "nl": "Let op bevroren plassen op het fietspad."
               }
             },
             {
@@ -1048,7 +1130,8 @@
                 "de": "Kurzer Stopp zum Aufwärmen im Kirchenschiff.",
                 "hu": "Rövid megálló melegedni a templomhajóban.",
                 "ro": "Scurt popas pentru încălzire în naos.",
-                "en": "Short stop to warm up inside the nave."
+                "en": "Short stop to warm up inside the nave.",
+                "nl": "Korte stop om binnen in het schip op te warmen."
               }
             },
             {
@@ -1057,7 +1140,8 @@
                 "de": "Schattige Bereiche können länger glatt bleiben.",
                 "hu": "Az árnyékos részek tovább maradhatnak csúszósak.",
                 "ro": "Zonele umbrite pot rămâne înghețate mai mult timp.",
-                "en": "Shaded areas may remain slippery longer."
+                "en": "Shaded areas may remain slippery longer.",
+                "nl": "Schaduwrijke plekken kunnen langer glad blijven."
               }
             },
             {
@@ -1066,7 +1150,8 @@
                 "de": "Prüfen Sie Abendvorstellungen für später.",
                 "hu": "Nézze meg az esti előadásokat későbbre.",
                 "ro": "Verificați spectacolele de seară pentru mai târziu.",
-                "en": "Check evening performances for later."
+                "en": "Check evening performances for later.",
+                "nl": "Controleer avondvoorstellingen voor latere voorstellingen."
               }
             },
             {
@@ -1075,7 +1160,8 @@
                 "de": "Gute Heizung in den Ausstellungsräumen.",
                 "hu": "Jó fűtés a kiállítótermekben.",
                 "ro": "Încălzire bună în sălile de expoziție.",
-                "en": "Good heating in the exhibition rooms."
+                "en": "Good heating in the exhibition rooms.",
+                "nl": "Goede verwarming in de tentoonstellingszalen."
               }
             },
             {
@@ -1084,7 +1170,8 @@
                 "de": "Warme Getränke oft vor Ort erhältlich.",
                 "hu": "Gyakran kapható forró ital a helyszínen.",
                 "ro": "Băuturi calde disponibile adesea la fața locului.",
-                "en": "Hot drinks are often available on-site."
+                "en": "Hot drinks are often available on-site.",
+                "nl": "Warme dranken zijn vaak ter plaatse verkrijgbaar."
               }
             },
             {
@@ -1093,7 +1180,8 @@
                 "de": "Beleuchtung geht mit der Dämmerung an.",
                 "hu": "A közvilágítás sötétedéskor kapcsol be.",
                 "ro": "Iluminatul public se aprinde la amurg.",
-                "en": "Lighting turns on automatically at dusk."
+                "en": "Lighting turns on automatically at dusk.",
+                "nl": "Verlichting gaat bij schemering automatisch aan."
               }
             }
           ],
@@ -1121,6 +1209,12 @@
               "Wear warm gloves and a thin hat under your helmet.",
               "Keep your chain well-oiled to protect against road salt.",
               "Allow extra time for slower travel on icy patches."
+            ],
+            "nl": [
+              "Functionele voor- en achterlichten zijn verplicht en essentieel.",
+              "Draag warme handschoenen en een dunne muts onder je helm.",
+              "Houd je ketting goed geolied om tegen pekel te beschermen.",
+              "Reken op extra reistijd bij ijzige stukken."
             ]
           }
         }
@@ -1139,7 +1233,8 @@
             "de": "Parkplatz Zentrum (Cluster 1)",
             "hu": "Parkoló - Központ (1. Klaszter)",
             "ro": "Parcare Centru (Cluster 1)",
-            "en": "Parking City Center (Cluster 1)"
+            "en": "Parking City Center (Cluster 1)",
+            "nl": "Parkeren Centrum (Cluster 1)"
           },
           "coords": [
             5.66,
@@ -1155,7 +1250,8 @@
             "de": "Parken Sie hier für den Vormittag.",
             "hu": "Parkoljon itt a délelőttre.",
             "ro": "Parcați aici pentru dimineață.",
-            "en": "Park here for the morning."
+            "en": "Park here for the morning.",
+            "nl": "Parkeer hier voor de ochtend."
           }
         },
         {
@@ -1163,7 +1259,8 @@
             "de": "Schloss Helmond",
             "hu": "Helmondi kastély",
             "ro": "Castelul Helmond",
-            "en": "Kasteel Helmond"
+            "en": "Kasteel Helmond",
+            "nl": "Kasteel Helmond"
           },
           "coords": [
             5.663,
@@ -1179,7 +1276,8 @@
             "de": "Ein kurzer Spaziergang vom Parkplatz.",
             "hu": "Rövid séta a parkolótól.",
             "ro": "O scurtă plimbare de la parcare.",
-            "en": "A short walk from the parking lot."
+            "en": "A short walk from the parking lot.",
+            "nl": "Een korte wandeling vanaf de parkeerplaats."
           }
         },
         {
@@ -1187,7 +1285,8 @@
             "de": "Sint-Lambertuskerk",
             "hu": "Szent Lambert-templom",
             "ro": "Biserica Sf. Lambertus",
-            "en": "Sint-Lambertuskerk"
+            "en": "Sint-Lambertuskerk",
+            "nl": "Sint-Lambertuskerk"
           },
           "coords": [
             5.659,
@@ -1203,7 +1302,8 @@
             "de": "Die Kirche dominiert die Skyline des Zentrums.",
             "hu": "A templom uralja a központ látképét.",
             "ro": "Biserica domină orizontul centrului.",
-            "en": "The church dominates the downtown skyline."
+            "en": "The church dominates the downtown skyline.",
+            "nl": "De kerk domineert de skyline van het centrum."
           }
         },
         {
@@ -1211,7 +1311,8 @@
             "de": "Kubuswohnungen",
             "hu": "Kockaházak",
             "ro": "Casele cubice",
-            "en": "Cube Houses"
+            "en": "Cube Houses",
+            "nl": "Kubuswoningen"
           },
           "coords": [
             5.654,
@@ -1227,7 +1328,8 @@
             "de": "Gehen Sie um den Komplex herum, um die beste Perspektive zu finden.",
             "hu": "Sétálja körbe az épületegyüttest a legjobb perspektíva megtalálásához.",
             "ro": "Plimbați-vă în jurul complexului pentru a găsi cea mai bună perspectivă.",
-            "en": "Walk around the complex to find the best perspective."
+            "en": "Walk around the complex to find the best perspective.",
+            "nl": "Loop rond het complex om het beste perspectief te vinden."
           }
         },
         {
@@ -1235,7 +1337,8 @@
             "de": "Parkplatz Warandepark (Cluster 2)",
             "hu": "Parkoló - Warandepark (2. Klaszter)",
             "ro": "Parcare Warandepark (Cluster 2)",
-            "en": "Parking Warandepark (Cluster 2)"
+            "en": "Parking Warandepark (Cluster 2)",
+            "nl": "Parkeren Warandepark (Cluster 2)"
           },
           "coords": [
             5.646,
@@ -1251,7 +1354,8 @@
             "de": "Hier parken Sie für den Nachmittag. Es ist kostenlos.",
             "hu": "Parkoljon itt délutánra. Ingyenes.",
             "ro": "Parcați aici pentru după-amiază. Este gratuit.",
-            "en": "Park here for the afternoon. It's free."
+            "en": "Park here for the afternoon. It's free.",
+            "nl": "Parkeer hier voor de middag. Het is gratis."
           }
         },
         {
@@ -1259,7 +1363,8 @@
             "de": "Warandepark & Mittagessen",
             "hu": "Warandepark és ebéd",
             "ro": "Parcul Warande & Prânz",
-            "en": "Warandepark & Lunch"
+            "en": "Warandepark & Lunch",
+            "nl": "Warandepark & Lunch"
           },
           "coords": [
             5.645,
@@ -1275,7 +1380,8 @@
             "de": "Machen Sie ein Picknick oder besuchen Sie ein Café in der Nähe.",
             "hu": "Piknikezzen vagy látogasson el egy közeli kávézóba.",
             "ro": "Faceți un picnic sau vizitați o cafenea din apropiere.",
-            "en": "Have a picnic or visit a nearby café."
+            "en": "Have a picnic or visit a nearby café.",
+            "nl": "Houd een picknick of bezoek een nabijgelegen café."
           }
         }
       ],
@@ -1283,7 +1389,8 @@
         "de": "Fahren Sie morgens ins Zentrum von Helmond, parken Sie Ihr Auto und erkunden Sie den ersten Cluster zu Fuß. Beginnen Sie am imposanten Schloss, schlendern Sie zur Sint-Lambertuskerk und bewundern Sie die architektonische Kühnheit der Kubushäuser. Mittags fahren Sie zum zweiten Cluster. Parken Sie in der Nähe des Warandeparks, wo Sie einen entspannten Nachmittag verbringen können. Genießen Sie ein Mittagessen in der Natur oder in einem nahegelegenen Restaurant, gefolgt von einem langen Spaziergang durch den Park. Am späten Nachmittag fahren Sie zurück, erfrischt von der Kombination aus urbaner Erkundung und Natur.",
         "hu": "Reggel vezessen Helmond központjába, parkolja le az autót, és fedezze fel gyalog az első klasztert. Kezdje a lenyűgöző kastélynál, sétáljon el a Szent Lambert-templomhoz, és csodálja meg a Kockaházak építészeti merészségét. Délben hajtson át a második klaszterhez. Parkoljon a Warandepark közelében, ahol egy pihentető délutánt tölthet. Ebédeljen a természetben vagy egy közeli étteremben, majd tegyen egy hosszú sétát a parkban. Késő délután induljon vissza, felfrissülve a városi felfedezés és a természet kombinációjától.",
         "ro": "Dimineața, conduceți spre centrul orașului Helmond, parcați mașina și explorați primul cluster pe jos. Începeți de la impunătorul castel, plimbați-vă până la Biserica Sf. Lambertus și admirați îndrăzneala arhitecturală a Caselor Cubice. La prânz, conduceți spre al doilea cluster. Parcați lângă Parcul Warande, unde puteți petrece o după-amiază relaxantă. Bucurați-vă de un prânz în natură sau la un restaurant din apropiere, urmat de o plimbare lungă prin parc. Spre sfârșitul după-amiezii, porniți înapoi, înviorați de combinația dintre explorarea urbană și natură.",
-        "en": "In the morning, drive to the center of Helmond, park your car, and explore the first cluster on foot. Start at the imposing castle, stroll to Sint-Lambertuskerk, and admire the architectural audacity of the Cube Houses. At noon, drive to the second cluster. Park near Warandepark, where you can spend a relaxing afternoon. Enjoy lunch in nature or at a nearby restaurant, followed by a long walk through the park. In the late afternoon, head back, refreshed by the combination of urban exploration and nature."
+        "en": "In the morning, drive to the center of Helmond, park your car, and explore the first cluster on foot. Start at the imposing castle, stroll to Sint-Lambertuskerk, and admire the architectural audacity of the Cube Houses. At noon, drive to the second cluster. Park near Warandepark, where you can spend a relaxing afternoon. Enjoy lunch in nature or at a nearby restaurant, followed by a long walk through the park. In the late afternoon, head back, refreshed by the combination of urban exploration and nature.",
+        "nl": "Rij ’s ochtends naar het centrum van Helmond, parkeer je auto en verken de eerste cluster te voet. Begin bij het imposante kasteel, wandel naar de Sint-Lambertuskerk en bewonder de architectonische durf van de Kubuswoningen. Rond het middaguur rijd je naar de tweede cluster. Parkeer bij het Warandepark, waar je een ontspannen middag kunt doorbrengen. Geniet van de lunch in de natuur of in een nabijgelegen restaurant, gevolgd door een lange wandeling door het park. In de late namiddag keer je terug, verfrist door de combinatie van stedelijke verkenning en natuur."
       },
       "gastro_picks": {
         "de": [
@@ -1479,6 +1586,12 @@
           "Parking fees in the center can be high.",
           "Plan your route to avoid rush hour traffic.",
           "A car gives you the flexibility to also explore the surroundings of Helmond."
+        ],
+        "nl": [
+          "Gebruik Park & Ride-faciliteiten als die beschikbaar zijn.",
+          "Parkeerkosten in het centrum kunnen hoog zijn.",
+          "Plan je route om de spits te vermijden.",
+          "Met de auto kun je ook de omgeving van Helmond verkennen."
         ]
       },
       "variants": {
@@ -1487,7 +1600,8 @@
             "de": "An Regentagen ist das Auto in Helmond ideal, um trocken zwischen den Clustern zu wechseln. Morgens parken Sie im Zentrum und erreichen das Kasteel in wenigen Schritten. Mittags besuchen Sie die Kirche und die Würfelhäuser, fast ohne nass zu werden. Nachmittags fahren Sie zum Warandepark, wo das Mittagessen und der Blick ins Grüne auch bei Regen entspannend sind. Der Abend klingt gemütlich im Auto oder einem Restaurant aus.",
             "hu": "Esős napokon az autó Helmondban ideális a városrészek közötti száraz közlekedéshez. Reggel a központban parkolva pár lépéssel elérheti a kastélyt. Délben a templom és a kockaházak megtekintése után szinte szárazon térhet vissza autójához. Délután guruljon át a Warandeparkhoz, ahol az ebéd és a zöldre nyíló kilátás esőben is pihentető. Az estét zárja egy kényelmes étteremben.",
             "ro": "În zilele ploioase, mașina este ideală în Helmond pentru a trece uscat între zonele de interes. Dimineața, parcați în centru și ajungeți la castel în câteva secunde. La prânz, vizitați biserica și casele cubice, revenind rapid la vehicul. După-amiaza, mergeți spre Warandepark, unde prânzul și vederea spre verdeață sunt relaxante chiar și pe ploaie. Seara se încheie confortabil la un restaurant.",
-            "en": "On rainy days, the car is ideal in Helmond for moving dryly between clusters. In the morning, park in the center and reach the castle in just a few steps. At noon, visit the church and Cube Houses with minimal exposure to the weather. In the afternoon, drive to Warandepark where lunch and the green views are relaxing even in the rain. End the evening comfortably at a local restaurant."
+            "en": "On rainy days, the car is ideal in Helmond for moving dryly between clusters. In the morning, park in the center and reach the castle in just a few steps. At noon, visit the church and Cube Houses with minimal exposure to the weather. In the afternoon, drive to Warandepark where lunch and the green views are relaxing even in the rain. End the evening comfortably at a local restaurant.",
+            "nl": "Op regenachtige dagen is de auto ideaal in Helmond om droog tussen clusters te bewegen. ’s Ochtends parkeer je in het centrum en bereik je het kasteel in enkele stappen. Rond het middaguur bezoek je de kerk en de Kubuswoningen met minimale blootstelling aan het weer. In de middag rijd je naar het Warandepark waar lunch en het groene uitzicht ook bij regen ontspannend zijn. Sluit de avond comfortabel af in een lokaal restaurant."
           },
           "stops": [
             {
@@ -1496,7 +1610,8 @@
                 "de": "Parkhäuser bieten komplett trockenen Ausstieg.",
                 "hu": "A parkolóházak teljesen száraz kiszállást biztosítanak.",
                 "ro": "Parcările etajate oferă debarcare complet uscată.",
-                "en": "Multi-story car parks offer completely dry disembarkation."
+                "en": "Multi-story car parks offer completely dry disembarkation.",
+                "nl": "Meerlaagse parkeergarages bieden volledig droge uitstapmogelijkheden."
               }
             },
             {
@@ -1505,7 +1620,8 @@
                 "de": "Kurzer Fußweg vom Parkplatz zum Eingang.",
                 "hu": "Rövid séta a parkolótól a bejáratig.",
                 "ro": "Drum scurt de la parcare la intrare.",
-                "en": "Short walk from the parking lot to the entrance."
+                "en": "Short walk from the parking lot to the entrance.",
+                "nl": "Korte wandeling van de parkeerplaats naar de ingang."
               }
             },
             {
@@ -1514,7 +1630,8 @@
                 "de": "Zentrale Lage, oft Parkplätze direkt davor.",
                 "hu": "Központi fekvés, gyakran van hely közvetlenül előtte.",
                 "ro": "Locație centrală, adesea locuri chiar în față.",
-                "en": "Central location, often with parking right in front."
+                "en": "Central location, often with parking right in front.",
+                "nl": "Centrale ligging, vaak met parkeren direct voor de deur."
               }
             },
             {
@@ -1523,7 +1640,8 @@
                 "de": "Vom Auto aus sind sie auch bei Regen gut zu sehen.",
                 "hu": "Az autóból esőben is jól láthatóak.",
                 "ro": "Pot fi văzute bine din mașină chiar și pe ploaie.",
-                "en": "Visible from the car even during heavy rain."
+                "en": "Visible from the car even during heavy rain.",
+                "nl": "Zichtbaar vanuit de auto zelfs bij zware regen."
               }
             },
             {
@@ -1532,7 +1650,8 @@
                 "de": "Parkplatz ist oft von Pfützen übersät.",
                 "hu": "A parkoló esőben gyakran tócsás.",
                 "ro": "Parcarea este adesea plină de bălți la ploaie.",
-                "en": "The parking lot is often riddled with puddles."
+                "en": "The parking lot is often riddled with puddles.",
+                "nl": "De parkeerplaats staat vaak vol met plassen."
               }
             },
             {
@@ -1541,7 +1660,8 @@
                 "de": "Genießen Sie den Blick aus dem Restaurantfenster.",
                 "hu": "Élvezze a kilátást az étterem ablakából.",
                 "ro": "Bucurați-vă de priveliște de la fereastra restaurantului.",
-                "en": "Enjoy the park views from the restaurant window."
+                "en": "Enjoy the park views from the restaurant window.",
+                "nl": "Geniet van het parkzicht vanuit het restaurantraam."
               }
             }
           ],
@@ -1569,6 +1689,12 @@
               "Keep an umbrella handy for the short walks to entrances.",
               "Watch out for aquaplaning on main access roads.",
               "Pay for parking via app while staying dry inside the car."
+            ],
+            "nl": [
+              "Gebruik overdekte parkeergarages in het stadscentrum.",
+              "Houd een paraplu bij de hand voor de korte wandelingen naar ingangen.",
+              "Let op aquaplaning op de hoofdtoegangswegen.",
+              "Betaal parkeergeld via app terwijl je droog in de auto blijft."
             ]
           }
         },
@@ -1577,7 +1703,8 @@
             "de": "Im Winter bietet das Auto in Helmond wohltuende Wärme zwischen den Sehenswürdigkeiten. Morgens bringt es Sie zum frostigen Kasteel, wo Sie die Geschichte im Warmen erleben. Mittags erkunden Sie die Lambertuskirche und die Würfelhäuser, bevor Sie sich im Wagen wieder aufheizen. Nachmittags fahren Sie zum Warandepark für ein gemütliches Mittagessen mit Blick auf die Winterlandschaft. Der Tag endet sicher und warm auf der Heimfahrt.",
             "hu": "Télen az autó Helmondban áldásos meleget nyújt a látnivalók között. Reggel a dérlepte kastélyhoz viszi, ahol a történelmet fűtött falak között ismerheti meg. Délben a templom és a kockaházak után gyorsan visszatérhet a fűtött utastérbe. Délután guruljon a Warandeparkhoz egy kényelmes ebédre, miközben a téli tájban gyönyörködik. A nap biztonságos és meleg hazautazással zárul.",
             "ro": "Iarna, mașina oferă în Helmond o căldură binevenită între punctele de interes. Dimineața vă duce la castelul înghețat, unde vizitați interiorul încălzit. La prânz, vedeți biserica și casele cubice, revenind rapid la confortul termic al mașinii. După-amiaza, mergeți la Warandepark pentru un prânz liniștit cu vedere spre peisajul hibernal. Ziua se încheie sigur și cald pe drumul spre casă.",
-            "en": "In winter, the car provides soothing warmth between Helmond's sights. In the morning, drive to the frosty castle where you can experience history in heated rooms. At noon, explore the church and Cube Houses before warming up again in your vehicle. In the afternoon, head to Warandepark for a cozy lunch overlooking the winter scenery. The day ends with a safe and warm drive home."
+            "en": "In winter, the car provides soothing warmth between Helmond's sights. In the morning, drive to the frosty castle where you can experience history in heated rooms. At noon, explore the church and Cube Houses before warming up again in your vehicle. In the afternoon, head to Warandepark for a cozy lunch overlooking the winter scenery. The day ends with a safe and warm drive home.",
+            "nl": "In de winter geeft de auto geruststellende warmte tussen de bezienswaardigheden van Helmond. ’s Ochtends rijd je naar het met rijp bedekte kasteel waar je geschiedenis in verwarmde zalen kunt ervaren. Rond het middaguur verken je de kerk en de Kubuswoningen voordat je opnieuw opwarmt in je voertuig. In de middag rijd je naar het Warandepark voor een gezellige lunch met uitzicht op het winterlandschap. De dag eindigt met een veilige en warme rit naar huis."
           },
           "stops": [
             {
@@ -1586,7 +1713,8 @@
                 "de": "Scheiben rechtzeitig enteisen.",
                 "hu": "Időben jégtelenítse a szélvédőt.",
                 "ro": "Dezghețați parbrizul din timp.",
-                "en": "De-ice your windshield before starting the trip."
+                "en": "De-ice your windshield before starting the trip.",
+                "nl": "Onti向uw voorruit voordat u aan de rit begint."
               }
             },
             {
@@ -1595,7 +1723,8 @@
                 "de": "Parkplatz kann bei Frost glatt sein.",
                 "hu": "A parkoló fagyban csúszós lehet.",
                 "ro": "Parcarea poate fi alunecoasă pe îngheț.",
-                "en": "The parking surface can be slippery when frozen."
+                "en": "The parking surface can be slippery when frozen.",
+                "nl": "Het parkeeroppervlak kan glad zijn bij vorst."
               }
             },
             {
@@ -1604,7 +1733,8 @@
                 "de": "Kurzer Weg minimiert die Kälteexposition.",
                 "hu": "A rövid út minimalizálja a hideget.",
                 "ro": "Drumul scurt minimizează expunerea la frig.",
-                "en": "The short walk minimizes exposure to the cold."
+                "en": "The short walk minimizes exposure to the cold.",
+                "nl": "De korte wandeling verkleint de blootstelling aan de kou."
               }
             },
             {
@@ -1613,7 +1743,8 @@
                 "de": "Fotostopp aus dem warmen Auto möglich.",
                 "hu": "Fotómegálló a meleg autóból is lehetséges.",
                 "ro": "Oprire foto posibilă direct din mașină.",
-                "en": "Photo stop possible directly from the warm car."
+                "en": "Photo stop possible directly from the warm car.",
+                "nl": "Fotostop mogelijk direct vanuit de warme auto."
               }
             },
             {
@@ -1622,7 +1753,8 @@
                 "de": "Winterdienst räumt hier oft zeitverzögert.",
                 "hu": "A hóeltakarítás itt gyakran késhet.",
                 "ro": "Deszăpezirea poate întârzia în această zonă.",
-                "en": "Snow clearing may be delayed in this area."
+                "en": "Snow clearing may be delayed in this area.",
+                "nl": "Sneeuwruiming kan in dit gebied vertraagd zijn."
               }
             },
             {
@@ -1631,7 +1763,8 @@
                 "de": "Fensterplätze sind im Winter sehr beliebt.",
                 "hu": "Az ablak melletti helyek télen népszerűek.",
                 "ro": "Locurile de la fereastră sunt foarte căutate iarna.",
-                "en": "Window seats are very popular during winter."
+                "en": "Window seats are very popular during winter.",
+                "nl": "Raamstoelen zijn erg populair tijdens de winter."
               }
             }
           ],
@@ -1659,6 +1792,12 @@
               "Check your battery before starting a winter day trip.",
               "Always keep an ice scraper and gloves in the car.",
               "Don't leave the engine idling to warm up the cabin."
+            ],
+            "nl": [
+              "Let op wegenzout en gladde brugoppervlakken.",
+              "Controleer uw accu voordat u aan een winterse dagtocht begint.",
+              "Bewaar altijd een ijskrabber en handschoenen in de auto.",
+              "Laat de motor niet stationair draaien om de cabine op te warmen."
             ]
           }
         }
@@ -1677,7 +1816,8 @@
             "de": "Bushaltestelle Kasteel Traverse (Cluster 1)",
             "hu": "Kasteel Traverse buszmegálló (1. Klaszter)",
             "ro": "Stația de autobuz Kasteel Traverse (Cluster 1)",
-            "en": "Bus Stop Kasteel Traverse (Cluster 1)"
+            "en": "Bus Stop Kasteel Traverse (Cluster 1)",
+            "nl": "Bushalte Kasteel Traverse (Cluster 1)"
           },
           "coords": [
             5.664,
@@ -1693,7 +1833,8 @@
             "de": "Startpunkt für die Erkundung des Zentrums.",
             "hu": "A központ felfedezésének kiindulópontja.",
             "ro": "Punct de plecare pentru explorarea centrului.",
-            "en": "Starting point for exploring the center."
+            "en": "Starting point for exploring the center.",
+            "nl": "Startpunt om het centrum te verkennen."
           }
         },
         {
@@ -1701,7 +1842,8 @@
             "de": "Schloss Helmond",
             "hu": "Helmondi kastély",
             "ro": "Castelul Helmond",
-            "en": "Kasteel Helmond"
+            "en": "Kasteel Helmond",
+            "nl": "Kasteel Helmond"
           },
           "coords": [
             5.663,
@@ -1717,7 +1859,8 @@
             "de": "Nur wenige Schritte von der Bushaltestelle entfernt.",
             "hu": "Csak pár lépésre a buszmegállótól.",
             "ro": "La doar câțiva pași de stația de autobuz.",
-            "en": "Just a few steps from the bus stop."
+            "en": "Just a few steps from the bus stop.",
+            "nl": "Slechts een paar stappen van de bushalte."
           }
         },
         {
@@ -1725,7 +1868,8 @@
             "de": "Sint-Lambertuskerk",
             "hu": "Szent Lambert-templom",
             "ro": "Biserica Sf. Lambertus",
-            "en": "Sint-Lambertuskerk"
+            "en": "Sint-Lambertuskerk",
+            "nl": "Sint-Lambertuskerk"
           },
           "coords": [
             5.659,
@@ -1741,7 +1885,8 @@
             "de": "Ein kurzer Spaziergang durch die Einkaufsstraßen führt Sie hierher.",
             "hu": "Egy rövid séta a bevásárlóutcákon keresztül ide vezet.",
             "ro": "O scurtă plimbare pe străzile comerciale vă va aduce aici.",
-            "en": "A short walk through the shopping streets will lead you here."
+            "en": "A short walk through the shopping streets will lead you here.",
+            "nl": "Een korte wandeling door de winkelstraten brengt u hierheen."
           }
         },
         {
@@ -1749,7 +1894,8 @@
             "de": "Bushaltestelle Julianalaan (Cluster 2)",
             "hu": "Julianalaan buszmegálló (2. Klaszter)",
             "ro": "Stația de autobuz Julianalaan (Cluster 2)",
-            "en": "Bus Stop Julianalaan (Cluster 2)"
+            "en": "Bus Stop Julianalaan (Cluster 2)",
+            "nl": "Bushalte Julianalaan (Cluster 2)"
           },
           "coords": [
             5.648,
@@ -1765,7 +1911,8 @@
             "de": "Nehmen Sie den Bus zum Parkviertel.",
             "hu": "Menjen busszal a park negyedbe.",
             "ro": "Luați autobuzul spre cartierul parcului.",
-            "en": "Take the bus to the park district."
+            "en": "Take the bus to the park district.",
+            "nl": "Neem de bus naar de parkwijk."
           }
         },
         {
@@ -1773,7 +1920,8 @@
             "de": "Warandepark",
             "hu": "Warandepark",
             "ro": "Parcul Warande",
-            "en": "Warandepark"
+            "en": "Warandepark",
+            "nl": "Warandepark"
           },
           "coords": [
             5.645,
@@ -1789,7 +1937,8 @@
             "de": "Ideal für ein Mittagspicknick und eine lange Pause.",
             "hu": "Ideális egy ebédpiknikhez és egy hosszú szünethez.",
             "ro": "Ideal pentru un picnic la prânz și o pauză lungă.",
-            "en": "Ideal for a lunch picnic and a long break."
+            "en": "Ideal for a lunch picnic and a long break.",
+            "nl": "Ideaal voor een lunchpicknick en een lange pauze."
           }
         },
         {
@@ -1797,7 +1946,8 @@
             "de": "Industrieel Atrium",
             "hu": "Ipari Átrium",
             "ro": "Atriumul Industrial",
-            "en": "Industrieel Atrium"
+            "en": "Industrieel Atrium",
+            "nl": "Industrieel Atrium"
           },
           "coords": [
             5.668,
@@ -1813,7 +1963,8 @@
             "de": "Ein letzter Bus-Hop, um die industrielle Seite von Helmond zu sehen.",
             "hu": "Egy utolsó buszozás, hogy megnézze Helmond ipari oldalát.",
             "ro": "O ultimă călătorie cu autobuzul pentru a vedea latura industrială a Helmondului.",
-            "en": "One last bus hop to see the industrial side of Helmond."
+            "en": "One last bus hop to see the industrial side of Helmond.",
+            "nl": "Nog één busrit om de industriële kant van Helmond te zien."
           }
         }
       ],
@@ -1821,7 +1972,8 @@
         "de": "Nutzen Sie das effiziente Busnetz von Helmond. Starten Sie im Zentrum (Cluster 1), wo Sie das Schloss und die Lambertuskirche zu Fuß erkunden. Ein kurzer Spaziergang führt Sie von einer Sehenswürdigkeit zur nächsten. Gegen Mittag nehmen Sie einen Bus zum zweiten Cluster, dem grünen Viertel um den Warandepark. Verbringen Sie hier den frühen Nachmittag mit Entspannung und einem Mittagessen. Ein weiterer Bus bringt Sie am Nachmittag zum Industrieel Atrium, einem Zeugnis der Vergangenheit der Stadt, bevor Sie ins Zentrum zurückkehren.",
         "hu": "Használja ki Helmond hatékony buszhálózatát. Kezdjen a központban (1. klaszter), ahol gyalog fedezheti fel a kastélyt és a Lambert-templomot. Egy rövid séta vezet egyik látnivalótól a másikig. Dél körül szálljon buszra a második klaszterhez, a Warandepark körüli zöld negyedhez. Töltse itt a kora délutánt pihenéssel és ebéddel. Délután egy másik busz elviszi az Ipari Átriumba, a város múltjának tanújához, mielőtt visszatérne a központba.",
         "ro": "Profitați de rețeaua eficientă de autobuze din Helmond. Începeți în centru (Cluster 1), unde explorați castelul și Biserica Lambertus pe jos. O scurtă plimbare vă duce de la o atracție la alta. În jurul prânzului, luați un autobuz spre al doilea cluster, cartierul verde din jurul Parcului Warande. Petreceți după-amiaza devreme aici, relaxându-vă și luând prânzul. Un alt autobuz vă duce după-amiaza la Atriumul Industrial, o mărturie a trecutului orașului, înainte de a vă întoarce în centru.",
-        "en": "Make use of Helmond's efficient bus network. Start in the center (Cluster 1), where you explore the castle and Lambertus church on foot. A short walk takes you from one sight to the next. Around noon, take a bus to the second cluster, the green district around Warandepark. Spend the early afternoon here relaxing and having lunch. Another bus will take you to the Industrieel Atrium in the afternoon, a testament to the city's past, before you return to the center."
+        "en": "Make use of Helmond's efficient bus network. Start in the center (Cluster 1), where you explore the castle and Lambertus church on foot. A short walk takes you from one sight to the next. Around noon, take a bus to the second cluster, the green district around Warandepark. Spend the early afternoon here relaxing and having lunch. Another bus will take you to the Industrieel Atrium in the afternoon, a testament to the city's past, before you return to the center.",
+        "nl": "Maak gebruik van Helmonds efficiënte busnetwerk. Begin in het centrum (Cluster 1), waar u het kasteel en de Lambertuskerk te voet verkent. Een korte wandeling brengt u van het ene bezienswaardigheid naar het andere. Rond de middag neemt u de bus naar het tweede cluster, de groene wijk rond het Warandepark. Breng de vroege middag hier door om te ontspannen en te lunchen. ’s Middags neemt een andere bus u mee naar het Industrieel Atrium, een getuigenis van het verleden van de stad, voordat u terugkeert naar het centrum."
       },
       "gastro_picks": {
         "de": [
@@ -2017,6 +2169,12 @@
           "Use a public transport app to see real-time schedules.",
           "Buses may not run as frequently in the evening or on weekends.",
           "Keep an eye on your belongings at busy stops."
+        ],
+        "nl": [
+          "Koop een dagkaart voor onbeperkt reizen.",
+          "Gebruik een OV-app om realtime dienstregelingen te zien.",
+          "Bussen rijden mogelijk minder vaak ’s avonds of in het weekend.",
+          "Houd uw bezittingen in de gaten bij drukke haltes."
         ]
       },
       "variants": {
@@ -2025,7 +2183,8 @@
             "de": "Der öffentliche Nahverkehr in Helmond ist bei Regen die komfortabelste Wahl. Morgens bringt Sie der Bus fast bis zum Kasteel-Eingang. Mittags erreichen Sie die Kirche und die Würfelhäuser nach nur kurzem Weg im Freien. Nachmittags fährt der Bus direkt zum Warandepark und weiter zum Industrieel Atrium, sodass Sie die meiste Zeit im Trockenen verbringen. Der Abend endet entspannt mit der Rückfahrt zum Bahnhof.",
             "hu": "Az esős Helmondban a tömegközlekedés a legkényelmesebb választás. Reggel a busz szinte a kastély bejáratáig viszi. Délben a templomot és a kockaházakat is minimális kültéri sétával érheti el. Délután a busz közvetlenül a Warandeparkhoz, majd az ipari múzeumhoz repíti, így az idő nagy részét fedett helyen tölti. Az estét zárja egy nyugodt buszos visszautazással a vasútállomásra.",
             "ro": "Transportul public în Helmond este cea mai confortabilă opțiune pe ploaie. Dimineața, autobuzul vă lasă aproape de intrarea în castel. La prânz, ajungeți la biserică și casele cubice cu o expunere minimă la precipitații. După-amiaza, autobuzul merge direct spre Warandepark și Atrium, ținându-vă la adăpost. Seara se încheie relaxat cu drumul de întoarcere spre gară.",
-            "en": "Public transport in Helmond is the most comfortable choice during rain. In the morning, the bus drops you off near the castle entrance. At noon, reach the church and Cube Houses with minimal outdoor walking. In the afternoon, the bus connects you directly to Warandepark and the Industrial Atrium, keeping you dry most of the time. End the evening with a relaxed ride back to the station."
+            "en": "Public transport in Helmond is the most comfortable choice during rain. In the morning, the bus drops you off near the castle entrance. At noon, reach the church and Cube Houses with minimal outdoor walking. In the afternoon, the bus connects you directly to Warandepark and the Industrial Atrium, keeping you dry most of the time. End the evening with a relaxed ride back to the station.",
+            "nl": "Openbaar vervoer in Helmond is de meest comfortabele keuze bij regen. ’s Ochtends zet de bus u af vlak bij de kasteelingang. Rond het middaguur bereikt u de kerk en de Kubuswoningen met minimale buitenloop. ’s Middags verbindt de bus u rechtstreeks met het Warandepark en het Industrieel Atrium, waardoor u het grootste deel van de tijd droog blijft. Sluit de avond af met een ontspannen rit terug naar het station."
           },
           "stops": [
             {
@@ -2034,7 +2193,8 @@
                 "de": "Überdachte Haltestelle vorhanden.",
                 "hu": "Fedett buszmegálló áll rendelkezésre.",
                 "ro": "Stație de autobuz acoperită disponibilă.",
-                "en": "Sheltered bus stop available here."
+                "en": "Sheltered bus stop available here.",
+                "nl": "Overdekte bushalte beschikbaar hier."
               }
             },
             {
@@ -2043,7 +2203,8 @@
                 "de": "Nur 2 Minuten Fußweg vom Bus.",
                 "hu": "Mindössze 2 perc séta a busztól.",
                 "ro": "Doar 2 minute de mers de la autobuz.",
-                "en": "Only a 2-minute walk from the bus stop."
+                "en": "Only a 2-minute walk from the bus stop.",
+                "nl": "Slechts 2 minuten lopen van de bushalte."
               }
             },
             {
@@ -2052,7 +2213,8 @@
                 "de": "Haltestellen sind in unmittelbarer Nähe.",
                 "hu": "A megállók a közvetlen közelben vannak.",
                 "ro": "Stațiile sunt în imediata apropiere.",
-                "en": "Stops are located in the immediate vicinity."
+                "en": "Stops are located in the immediate vicinity.",
+                "nl": "Haltes bevinden zich in de directe nabijheid."
               }
             },
             {
@@ -2061,7 +2223,8 @@
                 "de": "Guter Unterstand bei plötzlichem Schauer.",
                 "hu": "Jó menedék hirtelen zápor esetén.",
                 "ro": "Adăpost bun în caz de aversă bruscă.",
-                "en": "Good shelter in case of a sudden downpour."
+                "en": "Good shelter in case of a sudden downpour.",
+                "nl": "Goede beschutting bij een plotselinge bui."
               }
             },
             {
@@ -2070,7 +2233,8 @@
                 "de": "Busse fahren regelmäßig alle 15-30 Minuten.",
                 "hu": "A buszok 15-30 percenként járnak.",
                 "ro": "Autobuzele circulă la fiecare 15-30 minute.",
-                "en": "Buses run regularly every 15-30 minutes."
+                "en": "Buses run regularly every 15-30 minutes.",
+                "nl": "Bussen rijden regelmatig elke 15–30 minuten."
               }
             },
             {
@@ -2079,7 +2243,8 @@
                 "de": "Vom Bus zur Tür sind es nur wenige Meter.",
                 "hu": "A busztól az ajtóig csak pár méter a séta.",
                 "ro": "De la autobuz la ușă sunt doar câțiva metri.",
-                "en": "Only a few meters walk from the bus to the door."
+                "en": "Only a few meters walk from the bus to the door.",
+                "nl": "Slechts een paar meter lopen van de bus naar de deur."
               }
             }
           ],
@@ -2107,6 +2272,12 @@
               "Check for real-time delays in the 9292 app.",
               "Keep bus windows closed during rain to avoid humidity.",
               "Wear non-slip soles as bus floors can become wet."
+            ],
+            "nl": [
+              "Gebruik uw OV-chipkaart of contactloze betaling (OVpay).",
+              "Controleer realtime vertragingen in de 9292-app.",
+              "Houd busramen tijdens regen gesloten om vocht te vermijden.",
+              "Draag antislipsoles omdat busvloeren nat kunnen worden."
             ]
           }
         },
@@ -2115,7 +2286,8 @@
             "de": "Im Winter ist der Bus in Helmond eine warme Verbindung zwischen den historischen Highlights. Morgens erreichen Sie das gefrorene Kasteel bequem und ohne kalte Füße. Mittags bringen Sie die Linien schnell zur Kirche und zu den Würfelhäusern. Nachmittags genießen Sie die Fahrt zum Warandepark, während draußen die Wintersonne tief steht. Der Abend endet warm im Bus auf dem Weg zurück zum Hauptbahnhof.",
             "hu": "Télen a busz Helmondban meleg összeköttetést jelent a történelmi helyszínek között. Reggel kényelmesen, átfagyott lábak nélkül érheti el a jeges kastélyt. Délben a járatok gyorsan a templomhoz és a kockaházakhoz repítik. Délután élvezze az utat a Warandeparkhoz, miközben odakint a téli nap alacsonyan jár. Az estét zárja a busz melegében, úton a főpályaudvar felé.",
             "ro": "Iarna, autobuzul în Helmond este o conexiune călduroasă între atracțiile istorice. Dimineața, ajungeți la castelul înghețat confortabil, fără a dârdâi de frig. La prânz, liniile vă duc rapid la biserică și casele cubice. După-amiaza, bucurați-vă de drumul spre Warandepark în timp ce soarele de iarnă stă jos pe cer. Seara se încheie la căldură în autobuz, spre gara centrală.",
-            "en": "In winter, the bus in Helmond provides a warm link between historic highlights. In the morning, reach the frozen castle comfortably without getting cold feet. At noon, the lines quickly take you to the church and Cube Houses. In the afternoon, enjoy the ride to Warandepark while the winter sun sits low outside. The evening ends warmly on the bus heading back to the central station."
+            "en": "In winter, the bus in Helmond provides a warm link between historic highlights. In the morning, reach the frozen castle comfortably without getting cold feet. At noon, the lines quickly take you to the church and Cube Houses. In the afternoon, enjoy the ride to Warandepark while the winter sun sits low outside. The evening ends warmly on the bus heading back to the central station.",
+            "nl": "In de winter biedt de bus in Helmond een warme verbinding tussen historische hoogtepunten. ’s Ochtends bereikt u het bevroren kasteel comfortabel zonder koude voeten te krijgen. Rond het middaguur brengen de lijnen u snel naar de kerk en de Kubuswoningen. ’s Middags geniet u van de rit naar het Warandepark terwijl de winterszon laag buiten staat. De avond eindigt warm in de bus terug naar het centraal station."
           },
           "stops": [
             {
@@ -2124,7 +2296,8 @@
                 "de": "Haltestelle bietet Schutz vor kaltem Wind.",
                 "hu": "A megálló védelmet nyújt a hideg szél ellen.",
                 "ro": "Stația oferă protecție împotriva vântului rece.",
-                "en": "The stop provides protection against chilly winds."
+                "en": "The stop provides protection against chilly winds.",
+                "nl": "De halte biedt bescherming tegen koude winden."
               }
             },
             {
@@ -2133,7 +2306,8 @@
                 "de": "Winterlandschaft vom Bus aus sichtbar.",
                 "hu": "A téli táj jól látható a buszból.",
                 "ro": "Peisajul de iarnă este vizibil din autobuz.",
-                "en": "The winter scenery is visible from the bus window."
+                "en": "The winter scenery is visible from the bus window.",
+                "nl": "Het winterlandschap is zichtbaar vanuit het busraam."
               }
             },
             {
@@ -2142,7 +2316,8 @@
                 "de": "Busse sind im Winter gut beheizt.",
                 "hu": "A buszok télen jól fűtöttek.",
                 "ro": "Autobuzele sunt bine încălzite iarna.",
-                "en": "Buses are well-heated during the winter months."
+                "en": "Buses are well-heated during the winter months.",
+                "nl": "Bussen zijn goed verwarmd tijdens de wintermaanden."
               }
             },
             {
@@ -2151,7 +2326,8 @@
                 "de": "Beleuchtung an der Haltestelle ist gut.",
                 "hu": "A megálló kivilágítása megfelelő.",
                 "ro": "Iluminatul în stație este bun.",
-                "en": "The stop is well-lit for early winter sunsets."
+                "en": "The stop is well-lit for early winter sunsets.",
+                "nl": "De halte is goed verlicht voor de vroege winterzonsondergangen."
               }
             },
             {
@@ -2160,7 +2336,8 @@
                 "de": "Vermeiden Sie langes Warten durch Fahrplan-Check.",
                 "hu": "Kerülje a hosszú várakozást a menetrend ellenőrzésével.",
                 "ro": "Evitați așteptarea lungă verificând programul.",
-                "en": "Avoid long waits by checking the schedule in advance."
+                "en": "Avoid long waits by checking the schedule in advance.",
+                "nl": "Vermijd lange wachttijden door de dienstregeling van tevoren te controleren."
               }
             },
             {
@@ -2169,7 +2346,8 @@
                 "de": "Letzte Busse fahren oft bis spät abends.",
                 "hu": "Az utolsó buszok gyakran késő estig járnak.",
                 "ro": "Ultimele autobuze circulă adesea până târziu.",
-                "en": "Last buses often run until late in the evening."
+                "en": "Last buses often run until late in the evening.",
+                "nl": "Laatste bussen rijden vaak tot laat in de avond."
               }
             }
           ],
@@ -2197,6 +2375,12 @@
               "Wait in heated station areas whenever possible.",
               "Ensure you have sufficient balance on your card.",
               "Wear warm shoes for the walk to and from stops."
+            ],
+            "nl": [
+              "Winterschema’s kunnen worden beïnvloed door zware sneeuwval.",
+              "Wacht indien mogelijk in verwarmde stationsruimtes.",
+              "Zorg dat u voldoende saldo op uw kaart heeft.",
+              "Draag warme schoenen voor de wandeling van en naar haltes."
             ]
           }
         }

@@ -21,7 +21,8 @@
             "de": "Rathaus Hilversum",
             "hu": "Hilversumi városháza",
             "ro": "Primăria din Hilversum",
-            "en": "Hilversum Town Hall"
+            "en": "Hilversum Town Hall",
+            "nl": "Hilversum Stadhuis"
           },
           "coords": [
             5.1685,
@@ -37,7 +38,8 @@
             "de": "Buchen Sie eine Führung, um die einzigartige Dudok-Architektur von innen zu sehen.",
             "hu": "Foglaljon vezetett túrát, hogy belülről is megcsodálhassa a különleges Dudok-építészetet.",
             "ro": "Rezervați un tur ghidat pentru a vedea arhitectura unică a lui Dudok din interior.",
-            "en": "Book a guided tour to see the unique Dudok architecture from the inside."
+            "en": "Book a guided tour to see the unique Dudok architecture from the inside.",
+            "nl": "Boek een rondleiding om de unieke Dudok-architectuur van binnen te zien."
           }
         },
         {
@@ -45,7 +47,8 @@
             "de": "Sint-Vituskerk",
             "hu": "Szent Vitus-templom",
             "ro": "Biserica Sfântul Vitus",
-            "en": "Saint Vitus Church"
+            "en": "Saint Vitus Church",
+            "nl": "Sint-Vituskerk"
           },
           "coords": [
             5.1783,
@@ -61,7 +64,8 @@
             "de": "Besteigen Sie den Turm für eine fantastische Aussicht über die Stadt.",
             "hu": "Másszon fel a toronyba a városra nyíló fantasztikus kilátásért.",
             "ro": "Urcați în turn pentru o priveliște fantastică asupra orașului.",
-            "en": "Climb the tower for a fantastic view over the city."
+            "en": "Climb the tower for a fantastic view over the city.",
+            "nl": "Beklim de toren voor een fantastisch uitzicht over de stad."
           }
         },
         {
@@ -69,7 +73,8 @@
             "de": "Museum Hilversum",
             "hu": "Hilversum Múzeum",
             "ro": "Muzeul Hilversum",
-            "en": "Museum Hilversum"
+            "en": "Museum Hilversum",
+            "nl": "Museum Hilversum"
           },
           "coords": [
             5.1755,
@@ -85,7 +90,8 @@
             "de": "Prüfen Sie die Wechselausstellungen, die sich oft auf Medienkunst konzentrieren.",
             "hu": "Nézze meg az időszaki kiállításokat, melyek gyakran a médiaművészetre fókuszálnak.",
             "ro": "Verificați expozițiile temporare, care se concentrează adesea pe arta media.",
-            "en": "Check the temporary exhibitions, which often focus on media art."
+            "en": "Check the temporary exhibitions, which often focus on media art.",
+            "nl": "Controleer de tijdelijke tentoonstellingen, die vaak gericht zijn op media-art."
           }
         },
         {
@@ -93,7 +99,8 @@
             "de": "Mout Hilversum",
             "hu": "Mout Hilversum",
             "ro": "Mout Hilversum",
-            "en": "Mout Hilversum"
+            "en": "Mout Hilversum",
+            "nl": "Mout Hilversum"
           },
           "coords": [
             5.1768,
@@ -109,7 +116,8 @@
             "de": "Probieren Sie verschiedene lokale Biere in dieser Foodhall.",
             "hu": "Kóstoljon meg több helyi sört is ebben az ételudvarban.",
             "ro": "Încercați diverse beri locale în această hală alimentară.",
-            "en": "Try various local beers in this food hall."
+            "en": "Try various local beers in this food hall.",
+            "nl": "Probeer verschillende lokale bieren in deze foodhall."
           }
         },
         {
@@ -117,7 +125,8 @@
             "de": "Pinetum Blijdenstein",
             "hu": "Pinetum Blijdenstein",
             "ro": "Pinetum Blijdenstein",
-            "en": "Pinetum Blijdenstein"
+            "en": "Pinetum Blijdenstein",
+            "nl": "Pinetum Blijdenstein"
           },
           "coords": [
             5.155,
@@ -133,7 +142,8 @@
             "de": "Ein perfekter Ort für einen ruhigen Spaziergang zwischen seltenen Nadelbäumen.",
             "hu": "Tökéletes hely egy csendes sétához ritka tűlevelű fák között.",
             "ro": "Un loc perfect pentru o plimbare liniștită printre conifere rare.",
-            "en": "A perfect spot for a quiet walk among rare conifers."
+            "en": "A perfect spot for a quiet walk among rare conifers.",
+            "nl": "Een perfecte plek voor een rustige wandeling tussen zeldzame naaldbomen."
           }
         },
         {
@@ -141,7 +151,8 @@
             "de": "Zonnestraal",
             "hu": "Zonnestraal",
             "ro": "Zonnestraal",
-            "en": "Zonnestraal"
+            "en": "Zonnestraal",
+            "nl": "Zonnestraal"
           },
           "coords": [
             5.138,
@@ -157,7 +168,8 @@
             "de": "Bewundern Sie dieses UNESCO-gelistete Meisterwerk moderner Architektur von außen.",
             "hu": "Csodálja meg kívülről a modern építészet ezen UNESCO-listás mesterművét.",
             "ro": "Admirați din exterior această capodoperă a arhitecturii moderne, inclusă în patrimoniul UNESCO.",
-            "en": "Admire this UNESCO-listed masterpiece of modern architecture from the outside."
+            "en": "Admire this UNESCO-listed masterpiece of modern architecture from the outside.",
+            "nl": "Bewonder dit door UNESCO vermelde meesterwerk van moderne architectuur van buitenaf."
           }
         }
       ],
@@ -165,7 +177,8 @@
         "de": "Ihr Tag in Hilversum beginnt mit einem architektonischen Highlight, dem Rathaus von Dudok. Nach einem Spaziergang durch das Zentrum erkunden Sie das kulturelle Herz mit dem Museum Hilversum und der hoch aufragenden Sint-Vituskerk. Am Nachmittag genießen Sie ein lokales Bier in der Foodhall Mout, bevor Sie sich in die ruhige Natur des Pinetum Blijdenstein zurückziehen. Der Tag endet mit einem Blick auf das ikonische Zonnestraal-Anwesen.",
         "hu": "A nap Hilversumban egy építészeti fényponttal, Dudok városházájával indul. A központban tett séta után felfedezheti a kulturális szívet a Hilversum Múzeummal és a magasba törő Szent Vitus-templommal. Délután megkóstolhat egy helyi sört a Mout ételudvarban, mielőtt visszavonulna a Pinetum Blijdenstein csendes természetébe. A napot az ikonikus Zonnestraal birtok megtekintése zárja.",
         "ro": "Ziua dvs. în Hilversum începe cu o bijuterie arhitecturală, Primăria lui Dudok. După o plimbare prin centru, explorați inima culturală cu Muzeul Hilversum și impunătoarea Biserică Sfântul Vitus. După-amiaza, savurați o bere locală la food hall-ul Mout înainte de a vă retrage în natura liniștită de la Pinetum Blijdenstein. Ziua se încheie cu o priveliște a emblematicului domeniu Zonnestraal.",
-        "en": "Your day in Hilversum begins with an architectural highlight, Dudok's Town Hall. After a walk through the center, you'll explore the cultural heart with Museum Hilversum and the towering Saint Vitus Church. In the afternoon, enjoy a local beer at Mout food hall before retreating into the quiet nature of Pinetum Blijdenstein. The day concludes with a view of the iconic Zonnestraal estate."
+        "en": "Your day in Hilversum begins with an architectural highlight, Dudok's Town Hall. After a walk through the center, you'll explore the cultural heart with Museum Hilversum and the towering Saint Vitus Church. In the afternoon, enjoy a local beer at Mout food hall before retreating into the quiet nature of Pinetum Blijdenstein. The day concludes with a view of the iconic Zonnestraal estate.",
+        "nl": "Je dag in Hilversum begint met een architectonisch hoogtepunt: Dudoks stadhuis. Na een wandeling door het centrum verken je het culturele hart met Museum Hilversum en de torenhoge Sint-Vituskerk. ’s Middags geniet je van een lokaal biertje in foodhall Mout voordat je je terugtrekt in de rustige natuur van Pinetum Blijdenstein. De dag eindigt met een uitzicht op het iconische landgoed Zonnestraal."
       },
       "gastro_picks": {
         "de": [
@@ -361,6 +374,12 @@
           "Bring a reusable water bottle.",
           "Check museum opening times in advance.",
           "Many cafes offer free Wi-Fi."
+        ],
+        "nl": [
+          "Draag comfortabele schoenen, je zult veel lopen.",
+          "Neem een herbruikbare waterfles mee.",
+          "Controleer museumopeningstijden van tevoren.",
+          "Veel cafés bieden gratis Wi-Fi."
         ]
       },
       "variants": {
@@ -369,7 +388,8 @@
             "de": "Morgens schützt Dudoks Rathaus mit seinen markanten Formen vor dem ersten Guss. Mittags bietet das Museum Hilversum trockene Zuflucht inmitten von Kunst. Nachmittags wärmt die Mout-Markthalle Körper und Seele. Abends glänzt der Zonnestraal-Komplex im Regenlicht wie ein gläsernes Schiff.",
             "hu": "Reggel a városháza modernista téglafala nyújt védelmet az eső elől. Délben a Hilversum Múzeum belső tereiben kalandozhatunk. Délután a Mout ételcsarnok fedett asztalainál pihenhetünk meg. Este a Zonnestraal szanatórium üvegfelületei különleges fényben verik vissza a hulló esőcseppeket.",
             "ro": "Dimineața, Primăria lui Dudok oferă adăpost vizual sub streșinile sale geometrice. La prânz, Muzeul Hilversum este refugiul perfect împotriva ploii. După-amiaza, piața Mout vă așteaptă cu arome calde. Seara, complexul Zonnestraal strălucește melancolic în reflexiile ploii pe sticlă.",
-            "en": "Morning starts under the protective geometry of Dudok's Town Hall. At noon, Museum Hilversum offers a dry sanctuary for art lovers. Afternoon is spent cozying up in the Mout food hall. By evening, the Zonnestraal complex's glass and steel shimmer beautifully in the rhythmic Dutch rain."
+            "en": "Morning starts under the protective geometry of Dudok's Town Hall. At noon, Museum Hilversum offers a dry sanctuary for art lovers. Afternoon is spent cozying up in the Mout food hall. By evening, the Zonnestraal complex's glass and steel shimmer beautifully in the rhythmic Dutch rain.",
+            "nl": "De ochtend begint onder de beschermende geometrie van Dudoks stadhuis. Rond het middaguur biedt Museum Hilversum een droge refuge voor kunstliefhebbers. De middag breng je door knus in de Mout foodhall. Tegen de avond schitteren glas en staal van het Zonnestraal-complex prachtig in de ritmische Nederlandse regen."
           },
           "stops": [
             {
@@ -378,7 +398,8 @@
                 "de": "Nutzen Sie die tiefen Mauervorsprünge als Regenschutz.",
                 "hu": "Használja a mély falmélyedéseket eső elleni védelemként.",
                 "ro": "Folosiți proeminențele adânci ale zidurilor ca adăpost.",
-                "en": "Use the deep wall recesses as temporary rain cover."
+                "en": "Use the deep wall recesses as temporary rain cover.",
+                "nl": "Gebruik diepe muurnissen als tijdelijke regenschuilplaats."
               }
             },
             {
@@ -387,7 +408,8 @@
                 "de": "Bewundern Sie die Neugotik, während es draußen prasselt.",
                 "hu": "Csodálja meg a neogotikus belsőt, amíg kint dobol az eső.",
                 "ro": "Admirați interiorul neogotic în timp ce plouă afară.",
-                "en": "Admire the neo-gothic interior while the rain drums outside."
+                "en": "Admire the neo-gothic interior while the rain drums outside.",
+                "nl": "Bewonder het neogotische interieur terwijl de regen buiten tikt."
               }
             },
             {
@@ -396,7 +418,8 @@
                 "de": "Perfekter Ort, um den stärksten Schauer abzuwarten.",
                 "hu": "Tökéletes hely a legnagyobb felhőszakadás kivárására.",
                 "ro": "Locul perfect pentru a aștepta trecerea celei mai mari ploi.",
-                "en": "The perfect spot to wait out the heaviest downpour."
+                "en": "The perfect spot to wait out the heaviest downpour.",
+                "nl": "De perfecte plek om de hevigste bui uit te zitten."
               }
             },
             {
@@ -405,7 +428,8 @@
                 "de": "Die überdachte Markthalle ist ideal für regnerische Pausen.",
                 "hu": "A fedett vásárcsarnok ideális egy esős pihenőhöz.",
                 "ro": "Hala acoperită este ideală pentru o pauză pe timp de ploaie.",
-                "en": "The covered food hall is ideal for a rainy break."
+                "en": "The covered food hall is ideal for a rainy break.",
+                "nl": "De overdekte foodhall is ideaal voor een regenpauze."
               }
             },
             {
@@ -414,7 +438,8 @@
                 "de": "Besuchen Sie die Gewächshäuser, um trocken zu bleiben.",
                 "hu": "Látogasson el az üvegházakba, hogy száraz maradjon.",
                 "ro": "Vizitați serele pentru a rămâne uscat.",
-                "en": "Visit the greenhouses to stay dry while enjoying the plants."
+                "en": "Visit the greenhouses to stay dry while enjoying the plants.",
+                "nl": "Bezoek de kassen om droog te blijven terwijl je van de planten geniet."
               }
             },
             {
@@ -423,7 +448,8 @@
                 "de": "Die weißen Fassaden wirken im Regen besonders dramatisch.",
                 "hu": "A fehér homlokzatok esőben különösen drámaian mutatnak.",
                 "ro": "Fațadele albe arată deosebit de dramatic în ploaie.",
-                "en": "The white facades look particularly dramatic in the rain."
+                "en": "The white facades look particularly dramatic in the rain.",
+                "nl": "De witte gevels zien er bijzonder dramatisch uit in de regen."
               }
             }
           ],
@@ -455,6 +481,13 @@
               "Mout food hall has umbrella stands at the entrances.",
               "Utilize museum interiors during heavy downpours.",
               "Rain ponchos are more practical than umbrellas in wind."
+            ],
+            "nl": [
+              "Draag waterdichte schoenen voor de vochtige paden in het park.",
+              "De passages bij Museum Hilversum bieden goede beschutting.",
+              "Mout foodhall heeft paraplustandaards bij de ingangen.",
+              "Maak gebruik van museuminterieurs tijdens zware regenbuien.",
+              "Regenponcho's zijn praktischer dan paraplu's bij wind."
             ]
           }
         },
@@ -463,7 +496,8 @@
             "de": "Der Wintermorgen lässt Dudoks Ziegelbau in warmem Rot erstrahlen. Mittags lockt die wohlige Wärme des Museums mit regionaler Geschichte. Nachmittags duftet es in der Mout-Halle nach Wintergewürzen. Der frühe Abend am Zonnestraal-Gelände wird vom kühlen Licht der blauen Stunde verzaubert.",
             "hu": "A téli reggelen Dudok városházájának téglái meleg vörösben izzanak. Délben a múzeum fűtött terei mesélnek a régió múltjáról. Délután a Mout csarnok téli fűszerek illatával várja az utazót. Az este korán érkezik, kék órába öltöztetve a Zonnestraal modernista vonalait.",
             "ro": "Dimineața de iarnă face ca cărămida Primăriei să strălucească în roșu cald. La prânz, căldura muzeului vă invită să descoperiți istoria locală. După-amiaza, hala Mout miroase a mirodenii de iarnă. Seara timpurie transformă complexul Zonnestraal într-o bijuterie sub lumina albastră.",
-            "en": "A winter morning makes Dudok's brickwork glow in a deep, warm red. By noon, the cozy museum heat welcomes you to explore local history. In the afternoon, Mout hall is filled with the scent of winter spices. The early sunset casts a magical 'blue hour' light over the Zonnestraal estate."
+            "en": "A winter morning makes Dudok's brickwork glow in a deep, warm red. By noon, the cozy museum heat welcomes you to explore local history. In the afternoon, Mout hall is filled with the scent of winter spices. The early sunset casts a magical 'blue hour' light over the Zonnestraal estate.",
+            "nl": "Een winterse ochtend laat Dudoks metselwerk gloeien in een diepe, warme roodtint. Rond het middaguur verwelkomt de gezellige museumwarmte je om lokale geschiedenis te ontdekken. In de namiddag vult hal Mout zich met de geur van winterkruiden. De vroege zonsondergang werpt een magisch 'blauwe uur'-licht over het Zonnestraal-landgoed."
           },
           "stops": [
             {
@@ -472,7 +506,8 @@
                 "de": "Das rote Backstein-Ensemble wirkt im Frost besonders klar.",
                 "hu": "A vörös téglaegyüttes fagyos időben különösen tisztának hat.",
                 "ro": "Ansamblul de cărămidă roșie pare foarte clar pe ger.",
-                "en": "The red brick ensemble looks sharp and clear in the frost."
+                "en": "The red brick ensemble looks sharp and clear in the frost.",
+                "nl": "Het rode bakstenen ensemble ziet er scherp en helder uit bij vorst."
               }
             },
             {
@@ -481,7 +516,8 @@
                 "de": "Ein Ort der Stille und Wärme an kalten Wintertagen.",
                 "hu": "A csend és a meleg szigete a hideg téli napokon.",
                 "ro": "Un loc de liniște și căldură în zilele reci de iarnă.",
-                "en": "A place of silence and warmth on cold winter days."
+                "en": "A place of silence and warmth on cold winter days.",
+                "nl": "Een plek van stilte en warmte op koude winterdagen."
               }
             },
             {
@@ -490,7 +526,8 @@
                 "de": "Wärmen Sie sich bei den interaktiven Ausstellungen auf.",
                 "hu": "Melegedjen fel az interaktív kiállítások nézegetése közben.",
                 "ro": "Încălziți-vă în timp ce vizitați expozițiile interactive.",
-                "en": "Warm up while exploring the interactive exhibitions."
+                "en": "Warm up while exploring the interactive exhibitions.",
+                "nl": "Warm op terwijl je de interactieve tentoonstellingen verkent."
               }
             },
             {
@@ -499,7 +536,8 @@
                 "de": "Probieren Sie lokale Winterspezialitäten in geselliger Runde.",
                 "hu": "Kóstolja meg a helyi téli különlegességeket baráti körben.",
                 "ro": "Gustați specialitățile locale de iarnă într-un cadru cald.",
-                "en": "Try local winter specialties in a lively, warm atmosphere."
+                "en": "Try local winter specialties in a lively, warm atmosphere.",
+                "nl": "Proef lokale wintergerechten in een levendige, warme sfeer."
               }
             },
             {
@@ -508,7 +546,8 @@
                 "de": "Die Nadelbäume tragen bei Frost ein silbernes Kleid.",
                 "hu": "A fenyőfélék fagyos időben ezüstös ruhát öltenek.",
                 "ro": "Coniferele poartă haine argintii în zilele cu ger.",
-                "en": "The conifers wear a silver coat during frosty winter days."
+                "en": "The conifers wear a silver coat during frosty winter days.",
+                "nl": "De naaldbomen dragen een zilveren mantel tijdens ijzige winterdagen."
               }
             },
             {
@@ -517,7 +556,8 @@
                 "de": "Besuch vor 16:30 Uhr planen, um das Tageslicht zu nutzen.",
                 "hu": "Tervezze látogatását 16:30 elé a természetes fény miatt.",
                 "ro": "Plănuiți vizita înainte de 16:30 pentru lumina zilei.",
-                "en": "Plan your visit before 16:30 to utilize the daylight."
+                "en": "Plan your visit before 16:30 to utilize the daylight.",
+                "nl": "Plan je bezoek voor 16:30 om van het daglicht te profiteren."
               }
             }
           ],
@@ -549,6 +589,13 @@
               "A hot cocoa in Mout hall is the best remedy for the cold.",
               "Watch out for icy spots on the garden paths.",
               "Take advantage of short distances in the center to warm up."
+            ],
+            "nl": [
+              "Laagjeskleding is essentieel tegen de Hilversumse wind.",
+              "De zon gaat in midwinter vroeg onder, rond 16:30.",
+              "Een warme chocola in Mout hall is het beste middel tegen de kou.",
+              "Let op gladde plekken op de tuinpaden.",
+              "Profiteer van de korte afstanden in het centrum om op te warmen."
             ]
           }
         }
@@ -567,7 +614,8 @@
             "de": "Rathaus Hilversum",
             "hu": "Hilversumi városháza",
             "ro": "Primăria din Hilversum",
-            "en": "Hilversum Town Hall"
+            "en": "Hilversum Town Hall",
+            "nl": "Hilversum Stadhuis"
           },
           "coords": [
             5.1685,
@@ -583,7 +631,8 @@
             "de": "Schließen Sie Ihr Fahrrad gut ab und machen Sie Fotos aus verschiedenen Blickwinkeln.",
             "hu": "Zárja le jól a kerékpárját, és készítsen képeket különböző szögekből.",
             "ro": "Asigurați-vă bine bicicleta și faceți fotografii din diferite unghiuri.",
-            "en": "Lock your bike securely and take photos from different angles."
+            "en": "Lock your bike securely and take photos from different angles.",
+            "nl": "Zet je fiets goed op slot en maak foto’s vanuit verschillende hoeken."
           }
         },
         {
@@ -591,7 +640,8 @@
             "de": "Museum Hilversum",
             "hu": "Hilversum Múzeum",
             "ro": "Muzeul Hilversum",
-            "en": "Museum Hilversum"
+            "en": "Museum Hilversum",
+            "nl": "Museum Hilversum"
           },
           "coords": [
             5.1755,
@@ -607,7 +657,8 @@
             "de": "Das Museum befindet sich im alten Rathaus, einem weiteren schönen Gebäude.",
             "hu": "A múzeum a régi városházán található, ami egy másik gyönyörű épület.",
             "ro": "Muzeul este situat în vechea primărie, o altă clădire frumoasă.",
-            "en": "The museum is located in the old town hall, another beautiful building."
+            "en": "The museum is located in the old town hall, another beautiful building.",
+            "nl": "Het museum is gevestigd in het oude stadhuis, een ander prachtig gebouw."
           }
         },
         {
@@ -615,7 +666,8 @@
             "de": "Media Park",
             "hu": "Média Park",
             "ro": "Parcul Media",
-            "en": "Media Park"
+            "en": "Media Park",
+            "nl": "Media Park"
           },
           "coords": [
             5.167,
@@ -631,7 +683,8 @@
             "de": "Fahren Sie herum und versuchen Sie, einige niederländische Berühmtheiten zu entdecken.",
             "hu": "Tekerjen körbe, és próbáljon meg kiszúrni néhány holland hírességet.",
             "ro": "Plimbați-vă cu bicicleta și încercați să zăriți câteva celebrități olandeze.",
-            "en": "Cycle around and try to spot some Dutch celebrities."
+            "en": "Cycle around and try to spot some Dutch celebrities.",
+            "nl": "Fiets eromheen en probeer enkele Nederlandse beroemdheden te spotten."
           }
         },
         {
@@ -639,7 +692,8 @@
             "de": "Beeld en Geluid",
             "hu": "Kép és Hang Intézet",
             "ro": "Institutul pentru Sunet și Viziune",
-            "en": "Netherlands Institute for Sound and Vision"
+            "en": "Netherlands Institute for Sound and Vision",
+            "nl": "Nederlands Instituut voor Beeld en Geluid"
           },
           "coords": [
             5.1702,
@@ -655,7 +709,8 @@
             "de": "Ein Muss für Medienliebhaber. Planen Sie mindestens zwei Stunden ein.",
             "hu": "A média szerelmeseinek kötelező. Legalább két órát szánjon rá.",
             "ro": "O vizită obligatorie pentru iubitorii de media. Alocați cel puțin două ore.",
-            "en": "A must-visit for media lovers. Plan for at least two hours."
+            "en": "A must-visit for media lovers. Plan for at least two hours.",
+            "nl": "Een must voor medialogen. Reserveer minstens twee uur."
           }
         },
         {
@@ -663,7 +718,8 @@
             "de": "Mout Hilversum",
             "hu": "Mout Hilversum",
             "ro": "Mout Hilversum",
-            "en": "Mout Hilversum"
+            "en": "Mout Hilversum",
+            "nl": "Mout Hilversum"
           },
           "coords": [
             5.1768,
@@ -679,7 +735,8 @@
             "de": "Stellen Sie Ihr Fahrrad in der Nähe ab und genießen Sie ein verdientes spätes Mittagessen.",
             "hu": "Parkolja le a közelben a kerékpárt, és élvezze a jól megérdemelt késői ebédet.",
             "ro": "Parcați-vă bicicleta în apropiere și bucurați-vă de un prânz târziu binemeritat.",
-            "en": "Park your bike nearby and enjoy a well-deserved late lunch."
+            "en": "Park your bike nearby and enjoy a well-deserved late lunch.",
+            "nl": "Parkeer je fiets in de buurt en geniet van een welverdiende late lunch."
           }
         },
         {
@@ -687,7 +744,8 @@
             "de": "Pinetum Blijdenstein",
             "hu": "Pinetum Blijdenstein",
             "ro": "Pinetum Blijdenstein",
-            "en": "Pinetum Blijdenstein"
+            "en": "Pinetum Blijdenstein",
+            "nl": "Pinetum Blijdenstein"
           },
           "coords": [
             5.155,
@@ -703,7 +761,8 @@
             "de": "Eine friedliche Radtour zu diesem Garten ist der perfekte Ausklang des Tages.",
             "hu": "Egy békés biciklitúra ehhez a kerthez tökéletes lezárása a napnak.",
             "ro": "O plimbare pașnică cu bicicleta până la această grădină este finalul perfect al zilei.",
-            "en": "A peaceful bike ride to this garden is the perfect end to the day."
+            "en": "A peaceful bike ride to this garden is the perfect end to the day.",
+            "nl": "Een rustige fietstocht naar deze tuin is de perfecte afsluiting van de dag."
           }
         },
         {
@@ -711,7 +770,8 @@
             "de": "Zonnestraal",
             "hu": "Zonnestraal",
             "ro": "Zonnestraal",
-            "en": "Zonnestraal"
+            "en": "Zonnestraal",
+            "nl": "Zonnestraal"
           },
           "coords": [
             5.138,
@@ -727,7 +787,8 @@
             "de": "Der letzte Halt des Tages, um dieses architektonische Juwel im Abendlicht zu sehen.",
             "hu": "A nap utolsó állomása, hogy megnézze ezt az építészeti gyöngyszemet az esti fényben.",
             "ro": "Ultima oprire a zilei pentru a vedea această bijuterie arhitecturală în lumina serii.",
-            "en": "The last stop of the day to see this architectural gem in the evening light."
+            "en": "The last stop of the day to see this architectural gem in the evening light.",
+            "nl": "De laatste stop van de dag om dit architectonische juweel in het avondlicht te zien."
           }
         }
       ],
@@ -735,7 +796,8 @@
         "de": "Schwingen Sie sich aufs Rad und beginnen Sie Ihre Tour am berühmten Rathaus von Hilversum. Radeln Sie weiter ins Zentrum zum Museum, bevor Sie nach Norden zum pulsierenden Media Park fahren, wo Sie das faszinierende Beeld en Geluid Museum besuchen. Am Nachmittag geht es zurück ins Zentrum für ein Mittagessen im Mout, gefolgt von einer entspannten Fahrt zum ruhigen Pinetum Blijdenstein. Beenden Sie den Tag mit einem Blick auf das architektonische Wunder von Zonnestraal.",
         "hu": "Pattanjon biciklire, és kezdje a túrát Hilversum híres városházájánál. Tekerjen tovább a központba a múzeumhoz, mielőtt észak felé veszi az irányt a nyüzsgő Média Parkba, ahol meglátogatja a lenyűgöző Kép és Hang Intézetet. Délután visszatér a központba egy ebédre a Moutban, majd egy pihentető tekerés következik a csendes Pinetum Blijdensteinbe. A napot a Zonnestraal építészeti csodájának megtekintésével zárja.",
         "ro": "Urcați-vă pe bicicletă și începeți turul la faimoasa Primărie din Hilversum. Pedalați spre centru la muzeu, înainte de a vă îndrepta spre nord, către vibrantul Parc Media, unde veți vizita fascinantul Institut pentru Sunet și Viziune. După-amiaza, reveniți în centru pentru prânz la Mout, urmat de o plimbare relaxantă către liniștitul Pinetum Blijdenstein. Încheiați ziua cu o priveliște a minunii arhitecturale Zonnestraal.",
-        "en": "Hop on your bike and start your tour at Hilversum's famous Town Hall. Cycle to the museum in the center before heading north to the vibrant Media Park, where you'll visit the fascinating Sound and Vision Institute. In the afternoon, head back to the center for lunch at Mout, followed by a relaxing ride to the tranquil Pinetum Blijdenstein. End your day with a view of the Zonnestraal architectural wonder."
+        "en": "Hop on your bike and start your tour at Hilversum's famous Town Hall. Cycle to the museum in the center before heading north to the vibrant Media Park, where you'll visit the fascinating Sound and Vision Institute. In the afternoon, head back to the center for lunch at Mout, followed by a relaxing ride to the tranquil Pinetum Blijdenstein. End your day with a view of the Zonnestraal architectural wonder.",
+        "nl": "Stap op je fiets en begin je rondje bij Hilversums beroemde Stadhuis. Fiets naar het museum in het centrum en vervolg dan naar het noorden naar het levendige Media Park, waar je het fascinerende Beeld en Geluid bezoekt. In de middag fiets je terug naar het centrum voor lunch bij Mout, gevolgd door een ontspannen rit naar het rustige Pinetum Blijdenstein. Sluit je dag af met een blik op het architectonische wonder Zonnestraal."
       },
       "gastro_picks": {
         "de": [
@@ -931,6 +993,12 @@
           "The Netherlands is flat, but having gears is still useful.",
           "Pay attention to the dedicated bike paths and traffic rules.",
           "Bring a rain jacket, the weather can change quickly."
+        ],
+        "nl": [
+          "Huur een fiets in de buurt van het treinstation.",
+          "Nederland is vlak, maar versnellingen zijn toch handig.",
+          "Let op de speciale fietspaden en verkeersregels.",
+          "Neem een regenjas mee; het weer kan snel omslaan."
         ]
       },
       "variants": {
@@ -939,7 +1007,8 @@
             "de": "Radfahren gehört in Hilversum auch bei Regen dazu. Das Rathaus begrüßt Sie im feuchten Glanz. Im Museum Hilversum machen Sie die erste trockene Pause. Nach dem Media Park bietet das Institut für Bild und Ton ein langes Indoor-Erlebnis. Mout wärmt Sie auf, bevor es zum nebligen Pinetum geht.",
             "hu": "Hilversumban az eső sem állítja meg a bringásokat. A városháza vizes csillogással fogadja. A Hilversum Múzeumban tarthatja az első száraz pihenőt. A Media Park után a Hang és Kép Intézet hosszú beltéri programot kínál. A Mout felmelegíti, mielőtt a ködös Pinetum felé indulna.",
             "ro": "Ciclismul face parte din viața în Hilversum, chiar și pe ploaie. Primăria vă întâmpină cu o strălucire umedă. La Muzeul Hilversum faceți prima pauză uscată. După Media Park, Institutul de Sunet și Imagine oferă o experiență lungă la interior. Mout vă încălzește înainte de Pinetumul cețos.",
-            "en": "Cycling is part of life in Hilversum, even in the rain. The Town Hall greets you with a damp glow. At Museum Hilversum, take your first dry break. After Media Park, the Sound and Vision Institute offers a lengthy indoor escape. Mout warms you up before heading to the misty Pinetum."
+            "en": "Cycling is part of life in Hilversum, even in the rain. The Town Hall greets you with a damp glow. At Museum Hilversum, take your first dry break. After Media Park, the Sound and Vision Institute offers a lengthy indoor escape. Mout warms you up before heading to the misty Pinetum.",
+            "nl": "Fietsen hoort bij het leven in Hilversum, zelfs bij regen. Het Stadhuis begroet je met een vochtige gloed. Bij Museum Hilversum neem je je eerste droge pauze. Na Media Park biedt Beeld en Geluid een lange binnenontsnapping. Mout verwarmt je voordat je naar het mistige Pinetum gaat."
           },
           "stops": [
             {
@@ -948,7 +1017,8 @@
                 "de": "Fahrradständer direkt vor dem Haupteingang vorhanden.",
                 "hu": "Kerékpártárolók közvetlenül a főbejárat előtt találhatók.",
                 "ro": "Suporturi de biciclete disponibile chiar în fața intrării.",
-                "en": "Bicycle racks are available right in front of the entrance."
+                "en": "Bicycle racks are available right in front of the entrance.",
+                "nl": "Fietsenrekken zijn direct voor de ingang beschikbaar."
               }
             },
             {
@@ -957,7 +1027,8 @@
                 "de": "Zentraler Stopp, um die Regenkleidung kurz zu lüften.",
                 "hu": "Központi megálló az esőruházat rövid szellőztetésére.",
                 "ro": "Oprește-te aici pentru a-ți scutura pelerina de ploaie.",
-                "en": "Central stop to briefly air out your rain gear."
+                "en": "Central stop to briefly air out your rain gear.",
+                "nl": "Centrale plek om even je regenkleding te luchten."
               }
             },
             {
@@ -966,7 +1037,8 @@
                 "de": "Vorsicht bei nassen Markierungen auf den Radwegen.",
                 "hu": "Vigyázzon a vizes felfestésekre a kerékpárutakon.",
                 "ro": "Atenție la marcajele umede de pe pistele de biciclete.",
-                "en": "Be careful with wet road markings on the cycle paths."
+                "en": "Be careful with wet road markings on the cycle paths.",
+                "nl": "Wees voorzichtig met natte wegmarkeringen op de fietspaden."
               }
             },
             {
@@ -975,7 +1047,8 @@
                 "de": "Großer Fahrradkeller unter dem Gebäude vorhanden.",
                 "hu": "Nagy kerékpártároló található az épület alatt.",
                 "ro": "Parcare mare pentru biciclete disponibilă sub clădire.",
-                "en": "Large bicycle parking available under the building."
+                "en": "Large bicycle parking available under the building.",
+                "nl": "Grote fietsenstalling onder het gebouw beschikbaar."
               }
             },
             {
@@ -984,7 +1057,8 @@
                 "de": "Perfekter Ort, um die Batterien im Trockenen aufzuladen.",
                 "hu": "Tökéletes hely az energiák szárazon való pótlására.",
                 "ro": "Locul perfect pentru a-ți reîncărca bateriile la uscat.",
-                "en": "Perfect place to recharge your batteries while staying dry."
+                "en": "Perfect place to recharge your batteries while staying dry.",
+                "nl": "Perfecte plek om je accu’s op te laden terwijl je droog blijft."
               }
             },
             {
@@ -993,7 +1067,8 @@
                 "de": "Stellen Sie das Rad unter den großen Bäumen ab.",
                 "hu": "A kerékpárt a nagy fák alatt hagyhatja.",
                 "ro": "Lăsați bicicleta sub copacii mari pentru protecție.",
-                "en": "Park your bike under the large trees for some cover."
+                "en": "Park your bike under the large trees for some cover.",
+                "nl": "Parkeer je fiets onder de grote bomen voor wat dekking."
               }
             },
             {
@@ -1002,7 +1077,8 @@
                 "de": "Wunderschöne Waldwege, aber Vorsicht vor Matsch.",
                 "hu": "Gyönyörű erdei utak, de vigyázzon a sárral.",
                 "ro": "Poteci forestiere frumoase, dar atenție la noroi.",
-                "en": "Beautiful forest paths, but watch out for mud."
+                "en": "Beautiful forest paths, but watch out for mud.",
+                "nl": "Prachtige bospaadjes, maar let op modder."
               }
             }
           ],
@@ -1034,6 +1110,13 @@
               "Sound and Vision Institute provides lockers for helmets.",
               "Brake early on wet roads for maximum safety.",
               "Use the covered bicycle parking at the station."
+            ],
+            "nl": [
+              "Volledige regenuitrusting is een must voor deze fietstocht.",
+              "Pas op voor natte bladeren op de bospaadjes naar Zonnestraal.",
+              "Beeld en Geluid biedt kluisjes voor helmen.",
+              "Rem vroeg op natte wegen voor maximale veiligheid.",
+              "Gebruik de overdekte fietsenstalling bij het station."
             ]
           }
         },
@@ -1042,7 +1125,8 @@
             "de": "Ein frostiger Start am Rathaus weckt die Geister. Im Museum Hilversum tauchen Sie in die Wärme ein. Die Fahrt zum Media Park ist kurz, gefolgt von Stunden voller Medienmagie im geschützten Institut. Mout serviert heiße Getränke zur Stärkung. Das Pinetum zeigt sich im Winterkleid, bevor die Tour am Zonnestraal endet.",
             "hu": "A fagyos reggel a városházánál felébreszti az érzékeket. A Hilversum Múzeumban merüljön el a melegben. Rövid tekerés a Media Park, majd órákig tartó médiamágia következik a védett intézetben. A Mout forró italokat kínál. A Pinetum téli díszben pompázik, mielőtt a túra a Zonnestraalnál zárulna.",
             "ro": "Un început geros la Primărie vă va trezi simțurile. La Muzeul Hilversum, scufundați-vă în căldură. Drumul spre Media Park este scurt, urmat de ore de magie media în institutul protejat. Mout servește băuturi calde. Pinetum se arată în haine de iarnă, înainte de finalul la Zonnestraal.",
-            "en": "A frosty start at the Town Hall wakes up the senses. At Museum Hilversum, dive into the warmth. A short ride to Media Park is followed by hours of media magic in the sheltered institute. Mout serves hot drinks for strength. Pinetum shows off its winter attire before the tour ends at Zonnestraal."
+            "en": "A frosty start at the Town Hall wakes up the senses. At Museum Hilversum, dive into the warmth. A short ride to Media Park is followed by hours of media magic in the sheltered institute. Mout serves hot drinks for strength. Pinetum shows off its winter attire before the tour ends at Zonnestraal.",
+            "nl": "Een ijskoude start bij het Stadhuis prikkelt de zintuigen. Bij Museum Hilversum duik je de warmte in. Een korte rit naar Media Park wordt gevolgd door uren media-magie in het beschutte instituut. Mout serveert warme dranken voor kracht. Pinetum toont zijn wintertooi voordat de rondrit eindigt bij Zonnestraal."
           },
           "stops": [
             {
@@ -1051,7 +1135,8 @@
                 "de": "Die Architektur wirkt bei klarem Frostlicht fast unwirklich.",
                 "hu": "Az építészet tiszta fagyos fényben szinte irrealisztikus.",
                 "ro": "Arhitectura pare aproape ireală în lumina clară a gerului.",
-                "en": "The architecture looks almost surreal in clear frost light."
+                "en": "The architecture looks almost surreal in clear frost light.",
+                "nl": "De architectuur oogt bijna surrealistisch in het heldere rijplicht."
               }
             },
             {
@@ -1060,7 +1145,8 @@
                 "de": "Gute Gelegenheit, um die kalten Finger aufzuwärmen.",
                 "hu": "Jó alkalom a hideg ujjak felmelegítésére.",
                 "ro": "O bună ocazie pentru a vă încălzi degetele înghețate.",
-                "en": "A good opportunity to warm up cold fingers."
+                "en": "A good opportunity to warm up cold fingers.",
+                "nl": "Een goede gelegenheid om koude handen op te warmen."
               }
             },
             {
@@ -1069,7 +1155,8 @@
                 "de": "Achten Sie auf mögliche Eisstellen auf den Brücken.",
                 "hu": "Ügyeljen az esetleges jegesedésre a hidakon.",
                 "ro": "Atenție la posibilele porțiuni înghețate de pe poduri.",
-                "en": "Watch out for potential icy spots on the bridges."
+                "en": "Watch out for potential icy spots on the bridges.",
+                "nl": "Pas op voor mogelijke ijzig plekken op de bruggen."
               }
             },
             {
@@ -1078,7 +1165,8 @@
                 "de": "Das farbenfrohe Glas leuchtet im grauen Winterlicht.",
                 "hu": "A színes üveg ragyog a szürke téli fényben.",
                 "ro": "Sticla colorată strălucește în lumina gri de iarnă.",
-                "en": "The colorful glass glows brightly in the grey winter light."
+                "en": "The colorful glass glows brightly in the grey winter light.",
+                "nl": "Het gekleurde glas gloeit fel in het grauwe winterlicht."
               }
             },
             {
@@ -1087,7 +1175,8 @@
                 "de": "Genießen Sie den Trubel bei einem warmen Snack.",
                 "hu": "Élvezze a nyüzsgést egy meleg snack mellett.",
                 "ro": "Bucurați-vă de agitație cu o gustare caldă.",
-                "en": "Enjoy the lively atmosphere with a warm snack."
+                "en": "Enjoy the lively atmosphere with a warm snack.",
+                "nl": "Geniet van de levendige sfeer met een warme snack."
               }
             },
             {
@@ -1096,7 +1185,8 @@
                 "de": "Winterhärte Pflanzen aus aller Welt entdecken.",
                 "hu": "Fedezze fel a télálló növényeket a világ minden tájáról.",
                 "ro": "Descoperiți plante rezistente la ger din toată lumea.",
-                "en": "Discover winter-hardy plants from all over the world."
+                "en": "Discover winter-hardy plants from all over the world.",
+                "nl": "Ontdek winterharde planten van over de hele wereld."
               }
             },
             {
@@ -1105,7 +1195,8 @@
                 "de": "Im Winter wirkt das Sanatorium besonders ruhig.",
                 "hu": "Télen a szanatórium különösen csendesnek hat.",
                 "ro": "Iarna, sanatoriul pare deosebit de liniștit.",
-                "en": "In winter, the sanatorium feels exceptionally peaceful."
+                "en": "In winter, the sanatorium feels exceptionally peaceful.",
+                "nl": "In de winter voelt het sanatorium uitzonderlijk vredig aan."
               }
             }
           ],
@@ -1137,6 +1228,13 @@
               "Allow extra time for forest paths due to potential ice.",
               "Drink plenty of tea during your breaks to stay warm.",
               "Utilize the heated museum rooms for short rests."
+            ],
+            "nl": [
+              "Controleer je fietslampen vanwege de vroege winterzonsondergang.",
+              "Handschoenen en een dunne muts onder de helm zijn verplicht.",
+              "Reken op extra tijd voor bospaadjes door mogelijke ijzel.",
+              "Drink tijdens je pauzes veel thee om warm te blijven.",
+              "Maak gebruik van de verwarmde museumruimtes voor korte rustmomenten."
             ]
           }
         }
@@ -1155,7 +1253,8 @@
             "de": "Zonnestraal",
             "hu": "Zonnestraal",
             "ro": "Zonnestraal",
-            "en": "Zonnestraal"
+            "en": "Zonnestraal",
+            "nl": "Zonnestraal"
           },
           "coords": [
             5.138,
@@ -1171,7 +1270,8 @@
             "de": "Parken Sie hier und beginnen Sie Ihren Tag mit einem Spaziergang um dieses UNESCO-Juwel.",
             "hu": "Parkoljon le itt, és kezdje a napot egy sétával az UNESCO világörökségi gyöngyszem körül.",
             "ro": "Parcați aici și începeți ziua cu o plimbare în jurul acestei bijuterii UNESCO.",
-            "en": "Park here and start your day with a walk around this UNESCO gem."
+            "en": "Park here and start your day with a walk around this UNESCO gem.",
+            "nl": "Parkeer hier en begin je dag met een wandeling rond dit UNESCO-juweel."
           }
         },
         {
@@ -1179,7 +1279,8 @@
             "de": "Pinetum Blijdenstein",
             "hu": "Pinetum Blijdenstein",
             "ro": "Pinetum Blijdenstein",
-            "en": "Pinetum Blijdenstein"
+            "en": "Pinetum Blijdenstein",
+            "nl": "Pinetum Blijdenstein"
           },
           "coords": [
             5.155,
@@ -1195,7 +1296,8 @@
             "de": "Ein kurzer Spaziergang vom Zonnestraal, um die Ruhe der Natur zu genießen.",
             "hu": "Egy rövid séta a Zonnestraaltól, hogy élvezze a természet nyugalmát.",
             "ro": "O scurtă plimbare de la Zonnestraal pentru a vă bucura de liniștea naturii.",
-            "en": "A short walk from Zonnestraal to enjoy the peace of nature."
+            "en": "A short walk from Zonnestraal to enjoy the peace of nature.",
+            "nl": "Een korte wandeling vanaf Zonnestraal om van de rust van de natuur te genieten."
           }
         },
         {
@@ -1203,7 +1305,8 @@
             "de": "Media Park",
             "hu": "Média Park",
             "ro": "Parcul Media",
-            "en": "Media Park"
+            "en": "Media Park",
+            "nl": "Media Park"
           },
           "coords": [
             5.167,
@@ -1219,7 +1322,8 @@
             "de": "Fahren Sie zum nächsten Cluster. Parken Sie in der Nähe des Beeld en Geluid Museums.",
             "hu": "Vezessen a következő csoporthoz. Parkoljon a Kép és Hang Intézet közelében.",
             "ro": "Conduceți la următorul cluster. Parcați lângă Institutul pentru Sunet și Viziune.",
-            "en": "Drive to the next cluster. Park near the Sound and Vision Institute."
+            "en": "Drive to the next cluster. Park near the Sound and Vision Institute.",
+            "nl": "Rij naar de volgende cluster. Parkeer in de buurt van Beeld en Geluid."
           }
         },
         {
@@ -1227,7 +1331,8 @@
             "de": "Beeld en Geluid",
             "hu": "Kép és Hang Intézet",
             "ro": "Institutul pentru Sunet și Viziune",
-            "en": "Netherlands Institute for Sound and Vision"
+            "en": "Netherlands Institute for Sound and Vision",
+            "nl": "Nederlands Instituut voor Beeld en Geluid"
           },
           "coords": [
             5.1702,
@@ -1243,7 +1348,8 @@
             "de": "Das farbenfrohe Gebäude ist nicht zu übersehen. Tauchen Sie ein in die niederländische Mediengeschichte.",
             "hu": "A színes épületet nem lehet nem észrevenni. Merüljön el a holland médiatörténelemben.",
             "ro": "Clădirea colorată este imposibil de ratat. Scufundați-vă în istoria media olandeză.",
-            "en": "The colorful building is unmissable. Dive into Dutch media history."
+            "en": "The colorful building is unmissable. Dive into Dutch media history.",
+            "nl": "Het kleurrijke gebouw is onmiskenbaar. Duik in de Nederlandse mediageschiedenis."
           }
         },
         {
@@ -1251,7 +1357,8 @@
             "de": "Rathaus Hilversum",
             "hu": "Hilversumi városháza",
             "ro": "Primăria din Hilversum",
-            "en": "Hilversum Town Hall"
+            "en": "Hilversum Town Hall",
+            "nl": "Hilversum Stadhuis"
           },
           "coords": [
             5.1685,
@@ -1267,7 +1374,8 @@
             "de": "Spazieren Sie vom Mediencluster zu diesem architektonischen Meisterwerk.",
             "hu": "Sétáljon át a médiacsoporttól ehhez az építészeti remekműhöz.",
             "ro": "Faceți o plimbare de la clusterul media la această capodoperă arhitecturală.",
-            "en": "Take a walk from the media cluster to this architectural masterpiece."
+            "en": "Take a walk from the media cluster to this architectural masterpiece.",
+            "nl": "Loop vanaf het mediacluster naar dit architectonische meesterwerk."
           }
         },
         {
@@ -1275,7 +1383,8 @@
             "de": "Mout Hilversum",
             "hu": "Mout Hilversum",
             "ro": "Mout Hilversum",
-            "en": "Mout Hilversum"
+            "en": "Mout Hilversum",
+            "nl": "Mout Hilversum"
           },
           "coords": [
             5.1768,
@@ -1291,7 +1400,8 @@
             "de": "Fahren Sie ins Zentrum, parken Sie und genießen Sie ein spätes Mittagessen in der Foodhall.",
             "hu": "Vezessen a központba, parkoljon le, és élvezze a késői ebédet az ételudvarban.",
             "ro": "Conduceți în centru, parcați și bucurați-vă de un prânz târziu la food hall.",
-            "en": "Drive to the center, park, and enjoy a late lunch at the food hall."
+            "en": "Drive to the center, park, and enjoy a late lunch at the food hall.",
+            "nl": "Rij naar het centrum, parkeer en geniet van een late lunch in de foodhall."
           }
         },
         {
@@ -1299,7 +1409,8 @@
             "de": "Sint-Vituskerk",
             "hu": "Szent Vitus-templom",
             "ro": "Biserica Sfântul Vitus",
-            "en": "Saint Vitus Church"
+            "en": "Saint Vitus Church",
+            "nl": "Sint-Vituskerk"
           },
           "coords": [
             5.1783,
@@ -1315,7 +1426,8 @@
             "de": "Der letzte Halt des Tages, ein kurzer Spaziergang vom Mittagessen.",
             "hu": "A nap utolsó állomása, egy rövid sétára az ebédtől.",
             "ro": "Ultima oprire a zilei, la o scurtă plimbare de la prânz.",
-            "en": "The final stop of the day, a short walk from lunch."
+            "en": "The final stop of the day, a short walk from lunch.",
+            "nl": "De laatste stop van de dag, een korte wandeling vanaf de lunch."
           }
         }
       ],
@@ -1323,7 +1435,8 @@
         "de": "Ihr Autotag beginnt im Süden mit einem architektonischen Spaziergang um Zonnestraal und Pinetum. Anschließend fahren Sie zum zweiten Cluster, dem Media Park, wo das farbenfrohe Beeld en Geluid Museum wartet. Ein kurzer Spaziergang führt Sie zum beeindruckenden Rathaus. Der letzte Teil Ihrer Reise führt Sie ins Stadtzentrum, wo Sie im Mout zu Mittag essen und den Tag mit der majestätischen Sint-Vituskerk ausklingen lassen.",
         "hu": "Autós napja délen kezdődik egy építészeti sétával a Zonnestraal és a Pinetum körül. Ezután a második csoporthoz, a Média Parkhoz hajt, ahol a színes Kép és Hang Intézet várja. Egy rövid séta elvezeti a lenyűgöző Városházához. Útja utolsó szakasza a városközpontba vezet, ahol a Moutban ebédelhet, és a napot a fenséges Szent Vitus-templommal zárhatja.",
         "ro": "Ziua cu mașina începe în sud, cu o plimbare arhitecturală în jurul Zonnestraal și Pinetum. Apoi, conduceți la al doilea cluster, Parcul Media, unde vă așteaptă coloratul Institut pentru Sunet și Viziune. O scurtă plimbare vă duce la impresionanta Primărie. Ultima parte a călătoriei vă duce în centrul orașului pentru prânz la Mout și se încheie la maiestuoasa Biserică Sfântul Vitus.",
-        "en": "Your car day starts in the south with an architectural walk around Zonnestraal and Pinetum. You'll then drive to the second cluster, Media Park, where the colourful Sound and Vision Institute awaits. A short walk takes you to the impressive Town Hall. The final leg of your journey takes you to the city centre for lunch at Mout, ending the day at the majestic Saint Vitus Church."
+        "en": "Your car day starts in the south with an architectural walk around Zonnestraal and Pinetum. You'll then drive to the second cluster, Media Park, where the colourful Sound and Vision Institute awaits. A short walk takes you to the impressive Town Hall. The final leg of your journey takes you to the city centre for lunch at Mout, ending the day at the majestic Saint Vitus Church.",
+        "nl": "Je autotocht begint in het zuiden met een architectuurwandeling rond Zonnestraal en het Pinetum. Daarna rijd je naar de tweede cluster, Media Park, waar het kleurrijke Beeld en Geluid op je wacht. Een korte wandeling brengt je naar het indrukwekkende Stadhuis. Het laatste deel van je route voert naar het centrum voor lunch bij Mout, en je eindigt de dag bij de majestueuze Sint-Vituskerk."
       },
       "gastro_picks": {
         "de": [
@@ -1519,6 +1632,12 @@
           "A smaller car is better for the narrow streets.",
           "Use a navigation app to avoid traffic jams.",
           "Don't leave valuables visible in the car."
+        ],
+        "nl": [
+          "Controleer parkeermogelijkheden en -tarieven van tevoren.",
+          "Een kleinere auto is beter voor de smalle straatjes.",
+          "Gebruik een navigatie-app om files te vermijden.",
+          "Laat geen waardevolle spullen zichtbaar in de auto achter."
         ]
       },
       "variants": {
@@ -1527,7 +1646,8 @@
             "de": "Regnerische Fahrt durch die grünen Viertel von Hilversum. Start am Zonnestraal, wo die Parkplätze nah am Geschehen sind. Das Pinetum bietet einen schnellen Check im Freien, bevor es zum trockenen Media Park geht. Das Sound and Vision Institut ist das Highlight im Trockenen. Abends lockt die Mout-Halle mit einfacher Parkmöglichkeit.",
             "hu": "Esős autózás Hilversum zöld negyedeiben. Kezdés a Zonnestraalnál, ahol a parkolók közel vannak. A Pinetum gyors kinti kör után a száraz Media Park várja. A Hang és Kép Intézet a legjobb menedék. Este a Mout csarnok csábít, könnyű parkolási lehetőséggel a közelben.",
             "ro": "O plimbare cu mașina prin cartierele verzi din Hilversum. Start la Zonnestraal, unde parcările sunt aproape. Pinetum oferă o vizită scurtă afară, înainte de Media Park. Institutul Sound and Vision este punctul culminant la uscat. Seara, hala Mout vă atrage cu parcare ușoară.",
-            "en": "A rainy drive through Hilversum's leafy neighborhoods. Start at Zonnestraal, where parking is conveniently close. Pinetum offers a quick outdoor loop before heading to the dry Media Park. Sound and Vision is the indoor highlight. In the evening, Mout hall beckons with easy nearby parking."
+            "en": "A rainy drive through Hilversum's leafy neighborhoods. Start at Zonnestraal, where parking is conveniently close. Pinetum offers a quick outdoor loop before heading to the dry Media Park. Sound and Vision is the indoor highlight. In the evening, Mout hall beckons with easy nearby parking.",
+            "nl": "Een natte rit door Hilversums boomrijke wijken. Begin bij Zonnestraal, waar parkeren handig dichtbij is. Pinetum biedt een korte buitenlus voordat je naar het droge Media Park rijdt. Beeld en Geluid is het indoor hoogtepunt. ’s Avonds lonkt de Mout-hall met makkelijk parkeren in de buurt."
           },
           "stops": [
             {
@@ -1536,7 +1656,8 @@
                 "de": "Parken Sie nah am Haupteingang des Ensembles.",
                 "hu": "Parkoljon közel az együttes főbejáratához.",
                 "ro": "Parcați aproape de intrarea principală a ansamblului.",
-                "en": "Park close to the main entrance of the complex."
+                "en": "Park close to the main entrance of the complex.",
+                "nl": "Parkeer dicht bij de hoofdingang van het complex."
               }
             },
             {
@@ -1545,7 +1666,8 @@
                 "de": "Kurzer Fußweg vom Parkplatz zu den Gewächshäusern.",
                 "hu": "Rövid séta a parkolótól az üvegházakig.",
                 "ro": "Drum scurt pe jos de la parcare la sere.",
-                "en": "Short walk from the parking lot to the greenhouses."
+                "en": "Short walk from the parking lot to the greenhouses.",
+                "nl": "Korte wandeling van de parkeerplaats naar de kassen."
               }
             },
             {
@@ -1554,7 +1676,8 @@
                 "de": "Parkhaus direkt am Gelände bietet trockenen Zugang.",
                 "hu": "A közvetlen parkolóház száraz bejutást biztosít.",
                 "ro": "Parcarea supraetajată oferă acces uscat la zonă.",
-                "en": "The multi-story car park offers dry access to the site."
+                "en": "The multi-story car park offers dry access to the site.",
+                "nl": "De parkeergarage met meerdere verdiepingen biedt droge toegang tot de locatie."
               }
             },
             {
@@ -1563,7 +1686,8 @@
                 "de": "Ideal bei Regen: alles unter einem Dach.",
                 "hu": "Ideális esőben: minden egy fedél alatt.",
                 "ro": "Ideal pe ploaie: totul sub un singur acoperiș.",
-                "en": "Ideal during rain: everything is under one roof."
+                "en": "Ideal during rain: everything is under one roof.",
+                "nl": "Ideaal bij regen: alles bevindt zich onder één dak."
               }
             },
             {
@@ -1572,7 +1696,8 @@
                 "de": "Kurzzeitparkplätze rund um das Rathaus nutzen.",
                 "hu": "Használja a városháza körüli rövidtávú parkolókat.",
                 "ro": "Folosiți parcările de scurtă durată din jurul Primăriei.",
-                "en": "Use the short-term parking spots around the Town Hall."
+                "en": "Use the short-term parking spots around the Town Hall.",
+                "nl": "Gebruik de kortparkeerplaatsen rond het Stadhuis."
               }
             },
             {
@@ -1581,7 +1706,8 @@
                 "de": "Parkhaus 'Silverpoint' ist nur wenige Schritte entfernt.",
                 "hu": "A 'Silverpoint' parkolóház csak pár lépésre van.",
                 "ro": "Parcarea 'Silverpoint' este la doar câțiva pași.",
-                "en": "Parking garage 'Silverpoint' is just a few steps away."
+                "en": "Parking garage 'Silverpoint' is just a few steps away.",
+                "nl": "Parkeergarage 'Silverpoint' is slechts een paar stappen verwijderd."
               }
             },
             {
@@ -1590,7 +1716,8 @@
                 "de": "Halten Sie kurz an der Straße für ein schnelles Foto.",
                 "hu": "Álljon meg rövid időre az utcán egy gyors fotóhoz.",
                 "ro": "Opriți scurt pe stradă pentru o fotografie rapidă.",
-                "en": "Stop briefly on the street for a quick photo."
+                "en": "Stop briefly on the street for a quick photo.",
+                "nl": "Stop even op straat voor een snelle foto."
               }
             }
           ],
@@ -1622,6 +1749,13 @@
               "Always have change or a parking app ready to use.",
               "Keep umbrellas easily accessible inside the car.",
               "Main roads in Hilversum are well-maintained for rainy drives."
+            ],
+            "nl": [
+              "Gebruik 'Gooische Brink' parkeren voor het centrum van de stad.",
+              "Vermijd smalle boswegen bij zware buien.",
+              "Zorg altijd dat je kleingeld of een parkeer-app bij de hand hebt.",
+              "Houd paraplu’s gemakkelijk bereikbaar in de auto.",
+              "De hoofdwegen in Hilversum zijn goed onderhouden voor natte ritten."
             ]
           }
         },
@@ -1630,7 +1764,8 @@
             "de": "Gemütliche Wintertour im geheizten Wagen. Der Zonnestraal-Komplex wirkt im Reif besonders magisch. Im Pinetum genießen Sie die klare Winterluft, bevor Sie in die Medienwelt des Instituts eintauchen. Das Rathaus von Dudok zeigt sich im tiefen Winterlicht. Den Tag lassen Sie bei gutem Essen in der warmen Mout-Halle ausklingen.",
             "hu": "Kényelmes téli túra a fűtött autóban. A Zonnestraal komplexum a dértől különösen varázslatos. A Pinetumban élvezze a tiszta téli levegőt, mielőtt elmerülne az intézet médiavilágában. Dudok városházája mély téli fényben tündököl. A napot jó ételek mellett zárja a meleg Mout csarnokban.",
             "ro": "Tur de iarnă confortabil în mașina încălzită. Complexul Zonnestraal pare magic sub promoroacă. În Pinetum bucurați-vă de aerul curat, înainte de lumea media a institutului. Primăria lui Dudok se arată în lumina iernii. Încheiați ziua cu mâncare bună în hala caldă Mout.",
-            "en": "A cozy winter tour in a heated car. The Zonnestraal complex looks magical under the frost. At Pinetum, enjoy the crisp winter air before diving into the institute's media world. Dudok's Town Hall reveals its details in the low winter light. End the day with great food in the warm Mout hall."
+            "en": "A cozy winter tour in a heated car. The Zonnestraal complex looks magical under the frost. At Pinetum, enjoy the crisp winter air before diving into the institute's media world. Dudok's Town Hall reveals its details in the low winter light. End the day with great food in the warm Mout hall.",
+            "nl": "Een gezellige wintertocht in een verwarmde auto. Het Zonnestraal-complex ziet er magisch uit onder de rijp. Bij het Pinetum geniet je van de frisse winterlucht voordat je je verdiept in de mediawereld van het instituut. Dudoks Stadhuis toont zijn details in het lage winterlicht. Sluit de dag af met goed eten in de warme Mout-hall."
           },
           "stops": [
             {
@@ -1639,7 +1774,8 @@
                 "de": "Die weißen Gebäude strahlen im Winter besonders hell.",
                 "hu": "A fehér épületek télen különösen fehéren világítanak.",
                 "ro": "Clădirile albe strălucesc foarte puternic iarna.",
-                "en": "The white buildings shine especially bright in winter."
+                "en": "The white buildings shine especially bright in winter.",
+                "nl": "De witte gebouwen glanzen extra fel in de winter."
               }
             },
             {
@@ -1648,7 +1784,8 @@
                 "de": "Klare Sicht auf die Nadelgehölze ohne störendes Laub.",
                 "hu": "Tiszta rálátás a fenyőkre, zavaró lombok nélkül.",
                 "ro": "Vedere clară asupra coniferelor fără frunziș dens.",
-                "en": "Clear views of the conifers without dense foliage."
+                "en": "Clear views of the conifers without dense foliage.",
+                "nl": "Duidelijke uitzichten op de naaldbomen zonder dichte bladeren."
               }
             },
             {
@@ -1657,7 +1794,8 @@
                 "de": "Vermeiden Sie das Parken unter Bäumen (Eisbruchgefahr).",
                 "hu": "Kerülje a fák alatti parkolást a jégtörés veszélye miatt.",
                 "ro": "Evitați parcarea sub copaci din cauza riscului de gheață.",
-                "en": "Avoid parking under trees due to potential falling ice."
+                "en": "Avoid parking under trees due to potential falling ice.",
+                "nl": "Vermijd parkeren onder bomen vanwege mogelijk vallend ijs."
               }
             },
             {
@@ -1666,7 +1804,8 @@
                 "de": "Ein bunter Farbtupfer an einem grauen Wintertag.",
                 "hu": "Színes folt egy szürke téli napon.",
                 "ro": "O pată de culoare într-o zi gri de iarnă.",
-                "en": "A vibrant splash of color on a grey winter day."
+                "en": "A vibrant splash of color on a grey winter day.",
+                "nl": "Een levendige kleurvlek op een grauwe winterdag."
               }
             },
             {
@@ -1675,7 +1814,8 @@
                 "de": "Die Ziegel wirken im Abendlicht besonders warm.",
                 "hu": "A téglák az esti fényben különösen melegnek hatnak.",
                 "ro": "Cărămizile par foarte calde în lumina serii.",
-                "en": "The bricks look especially warm in the evening light."
+                "en": "The bricks look especially warm in the evening light.",
+                "nl": "De bakstenen lijken bijzonder warm in het avondlicht."
               }
             },
             {
@@ -1684,7 +1824,8 @@
                 "de": "Perfekter Abschluss in beheizter Atmosphäre.",
                 "hu": "Tökéletes befejezés fűtött környezetben.",
                 "ro": "Final perfect într-o atmosferă încălzită.",
-                "en": "The perfect end in a cozy, heated atmosphere."
+                "en": "The perfect end in a cozy, heated atmosphere.",
+                "nl": "Het perfecte einde in een gezellige, verwarmde sfeer."
               }
             },
             {
@@ -1693,7 +1834,8 @@
                 "de": "Beleuchtung am Abend ist besonders stimmungsvoll.",
                 "hu": "Az esti kivilágítás különösen hangulatos.",
                 "ro": "Iluminatul de seară este deosebit de atmosferic.",
-                "en": "The evening lighting is particularly atmospheric."
+                "en": "The evening lighting is particularly atmospheric.",
+                "nl": "De avondverlichting is bijzonder sfeervol."
               }
             }
           ],
@@ -1725,6 +1867,13 @@
               "Parking fees can be conveniently paid via mobile app.",
               "Plan your route to reach the final destination by 17:00.",
               "Winter tires are recommended for the hills in the Gooi."
+            ],
+            "nl": [
+              "Pas op voor spiegelgladheid in beschaduwde bosgebieden.",
+              "Zorg dat je ijskrabber gemakkelijk bereikbaar is.",
+              "Parkeerkosten kun je handig via een mobiele app betalen.",
+              "Plan je route zodat je om 17:00 uur op de eindbestemming bent.",
+              "Winterbanden worden aangeraden voor de heuvels in het Gooi."
             ]
           }
         }
@@ -1743,7 +1892,8 @@
             "de": "Rathaus Hilversum",
             "hu": "Hilversumi városháza",
             "ro": "Primăria din Hilversum",
-            "en": "Hilversum Town Hall"
+            "en": "Hilversum Town Hall",
+            "nl": "Stadhuis Hilversum"
           },
           "coords": [
             5.1685,
@@ -1759,7 +1909,8 @@
             "de": "Starten Sie Ihren Tag an diesem zentralen Wahrzeichen, das vom Bahnhof aus leicht zu erreichen ist.",
             "hu": "Kezdje a napot ennél a központi nevezetességnél, amely könnyen elérhető az állomásról.",
             "ro": "Începeți ziua la acest punct de reper central, ușor accesibil de la gară.",
-            "en": "Start your day at this central landmark, easily accessible from the station."
+            "en": "Start your day at this central landmark, easily accessible from the station.",
+            "nl": "Begin je dag bij dit centrale herkenningspunt, gemakkelijk bereikbaar vanaf het station."
           }
         },
         {
@@ -1767,7 +1918,8 @@
             "de": "Museum Hilversum",
             "hu": "Hilversum Múzeum",
             "ro": "Muzeul Hilversum",
-            "en": "Museum Hilversum"
+            "en": "Museum Hilversum",
+            "nl": "Museum Hilversum"
           },
           "coords": [
             5.1755,
@@ -1783,7 +1935,8 @@
             "de": "Ein kurzer Spaziergang vom Rathaus durch das Stadtzentrum.",
             "hu": "Egy rövid séta a Városházától a városközponton keresztül.",
             "ro": "O scurtă plimbare de la Primărie prin centrul orașului.",
-            "en": "A short walk from the Town Hall through the city center."
+            "en": "A short walk from the Town Hall through the city center.",
+            "nl": "Een korte wandeling van het Stadhuis door het centrum."
           }
         },
         {
@@ -1791,7 +1944,8 @@
             "de": "Media Park",
             "hu": "Média Park",
             "ro": "Parcul Media",
-            "en": "Media Park"
+            "en": "Media Park",
+            "nl": "Media Park"
           },
           "coords": [
             5.167,
@@ -1807,7 +1961,8 @@
             "de": "Nehmen Sie einen Bus vom Zentrum zum Media Park, dem Rundfunkherzen der Niederlande.",
             "hu": "Menjen busszal a központból a Média Parkba, Hollandia műsorszóró központjába.",
             "ro": "Luați un autobuz din centru către Parcul Media, inima radiodifuziunii olandeze.",
-            "en": "Take a bus from the center to Media Park, the broadcasting heart of the Netherlands."
+            "en": "Take a bus from the center to Media Park, the broadcasting heart of the Netherlands.",
+            "nl": "Neem een bus vanuit het centrum naar Media Park, het uitzendscentrum van Nederland."
           }
         },
         {
@@ -1815,7 +1970,8 @@
             "de": "Beeld en Geluid",
             "hu": "Kép és Hang Intézet",
             "ro": "Institutul pentru Sunet și Viziune",
-            "en": "Netherlands Institute for Sound and Vision"
+            "en": "Netherlands Institute for Sound and Vision",
+            "nl": "Nederlands Instituut voor Beeld en Geluid"
           },
           "coords": [
             5.1702,
@@ -1831,7 +1987,8 @@
             "de": "Spazieren Sie durch den Park zu diesem interaktiven Museum. Perfekt, um dem Regen zu entkommen.",
             "hu": "Sétáljon át a parkon ehhez az interaktív múzeumhoz. Tökéletes menedék az eső elől.",
             "ro": "Faceți o plimbare prin parc până la acest muzeu interactiv. Perfect pentru a scăpa de ploaie.",
-            "en": "Stroll through the park to this interactive museum. Perfect for escaping the rain."
+            "en": "Stroll through the park to this interactive museum. Perfect for escaping the rain.",
+            "nl": "Wandel door het park naar dit interactieve museum. Perfect om aan de regen te ontsnappen."
           }
         },
         {
@@ -1839,7 +1996,8 @@
             "de": "Zonnestraal",
             "hu": "Zonnestraal",
             "ro": "Zonnestraal",
-            "en": "Zonnestraal"
+            "en": "Zonnestraal",
+            "nl": "Zonnestraal"
           },
           "coords": [
             5.138,
@@ -1855,7 +2013,8 @@
             "de": "Eine weitere Busfahrt bringt Sie zu diesem UNESCO-gelisteten Sanatorium.",
             "hu": "Egy újabb buszozás elviszi Önt ehhez az UNESCO-listás szanatóriumhoz.",
             "ro": "O altă călătorie cu autobuzul vă va duce la acest sanatoriu inclus în patrimoniul UNESCO.",
-            "en": "Another bus ride will take you to this UNESCO-listed sanatorium."
+            "en": "Another bus ride will take you to this UNESCO-listed sanatorium.",
+            "nl": "Een andere busrit brengt je naar dit door UNESCO beschermde sanatorium."
           }
         },
         {
@@ -1863,7 +2022,8 @@
             "de": "Mout Hilversum",
             "hu": "Mout Hilversum",
             "ro": "Mout Hilversum",
-            "en": "Mout Hilversum"
+            "en": "Mout Hilversum",
+            "nl": "Mout Hilversum"
           },
           "coords": [
             5.1768,
@@ -1879,7 +2039,8 @@
             "de": "Nehmen Sie den Bus zurück ins Zentrum, um Ihren Tag mit Essen und Trinken ausklingen zu lassen.",
             "hu": "Menjen vissza busszal a központba, hogy étellel és itallal zárja a napot.",
             "ro": "Luați autobuzul înapoi în centru pentru a încheia ziua cu mâncare și băuturi.",
-            "en": "Take the bus back to the center to end your day with food and drinks."
+            "en": "Take the bus back to the center to end your day with food and drinks.",
+            "nl": "Neem de bus terug naar het centrum om je dag af te sluiten met eten en drinken."
           }
         }
       ],
@@ -1887,7 +2048,8 @@
         "de": "Ihre ÖPNV-Tour beginnt im Zentrum mit einem Spaziergang vom Rathaus zum Museum. Ein Bus bringt Sie dann zum ersten Cluster, dem Media Park, wo das berühmte Beeld en Geluid auf Sie wartet. Am Nachmittag bringt Sie ein weiterer Bus zu einem architektonischen Juwel, dem Zonnestraal-Anwesen. Schließlich fahren Sie zurück ins Zentrum, um im Mout zu entspannen und die lokalen Köstlichkeiten zu probieren.",
         "hu": "Tömegközlekedési túrája a központban kezdődik egy sétával a Városházától a Múzeumig. Ezután egy busz elviszi az első csoporthoz, a Média Parkhoz, ahol a híres Kép és Hang Intézet várja. Délután egy másik busz egy építészeti gyöngyszemhez, a Zonnestraal birtokhoz viszi. Végül visszatér a központba, hogy pihenjen és megkóstolja a helyi finomságokat a Moutban.",
         "ro": "Turul dvs. cu transportul public începe în centru cu o plimbare de la Primărie la Muzeu. Un autobuz vă va duce apoi la primul cluster, Parcul Media, unde vă așteaptă faimosul Institut pentru Sunet și Viziune. După-amiaza, un alt autobuz vă va duce la o bijuterie arhitecturală, domeniul Zonnestraal. În cele din urmă, vă veți întoarce în centru pentru a vă relaxa și a gusta delicatesele locale la Mout.",
-        "en": "Your public transport tour starts in the center with a walk from the Town Hall to the Museum. A bus then takes you to the first cluster, Media Park, where the famous Sound and Vision Institute awaits. In the afternoon, another bus takes you to an architectural gem, the Zonnestraal estate. Finally, you'll head back to the center to relax and taste local delicacies at Mout."
+        "en": "Your public transport tour starts in the center with a walk from the Town Hall to the Museum. A bus then takes you to the first cluster, Media Park, where the famous Sound and Vision Institute awaits. In the afternoon, another bus takes you to an architectural gem, the Zonnestraal estate. Finally, you'll head back to the center to relax and taste local delicacies at Mout.",
+        "nl": "Je OV-tour begint in het centrum met een wandeling van het Stadhuis naar het Museum. Een bus brengt je vervolgens naar de eerste cluster, Media Park, waar het beroemde Institute for Sound and Vision wacht. In de middag brengt een andere bus je naar een architectonisch juweel, de Zonnestraal. Tot slot keer je terug naar het centrum om te ontspannen en lokale lekkernijen te proeven bij Mout."
       },
       "gastro_picks": {
         "de": [
@@ -2083,6 +2245,12 @@
           "Use an app like 9292 to plan your journey.",
           "Buses are punctual, so be at the stop on time.",
           "Note that buses run less frequently at night."
+        ],
+        "nl": [
+          "Koop een OV-chipkaart of een dagkaart voor onbeperkt reizen.",
+          "Gebruik een app zoals 9292 om je reis te plannen.",
+          "Bussen zijn punctueel, dus wees op tijd bij de halte.",
+          "Houd er rekening mee dat bussen ’s nachts minder vaak rijden."
         ]
       },
       "variants": {
@@ -2091,7 +2259,8 @@
             "de": "Mit Bus und Bahn durch das regnerische Hilversum. Vom Rathaus zum Museum Hilversum ist es nur ein kurzer Sprung. Der Bus bringt Sie direkt zum Media Park, wo das Sound and Vision Institut stundenlangen trockenen Spaß bietet. Zum Zonnestraal geht es mit einer kurzen Busfahrt durch den Wald. Abschluss in der Mout-Halle.",
             "hu": "Busszal és vonattal az esős Hilversumban. A városházától a múzeumig csak egy ugrás. A busz közvetlenül a Media Parkba visz, ahol a Hang és Kép Intézet órákig tartó száraz szórakozást nyújt. A Zonnestraalhoz rövid buszút vezet az erdőn át. Zárás a Mout csarnokban.",
             "ro": "Cu autobuzul și trenul prin Hilversumul ploios. De la Primărie la Muzeu este doar o aruncătură de băț. Autobuzul vă duce la Media Park, unde Institutul Sound and Vision oferă distracție la uscat. Spre Zonnestraal mergeți cu autobuzul prin pădure. Final în hala Mout.",
-            "en": "By bus and train through rainy Hilversum. It's just a short hop from the Town Hall to the museum. The bus takes you directly to Media Park, where Sound and Vision offers hours of indoor fun. A short bus ride through the woods leads to Zonnestraal. Finish at Mout hall."
+            "en": "By bus and train through rainy Hilversum. It's just a short hop from the Town Hall to the museum. The bus takes you directly to Media Park, where Sound and Vision offers hours of indoor fun. A short bus ride through the woods leads to Zonnestraal. Finish at Mout hall.",
+            "nl": "Per bus en trein door het regenachtige Hilversum. Het is slechts een korte sprong van het Stadhuis naar het museum. De bus brengt je rechtstreeks naar Media Park, waar Beeld en Geluid urenlang binnenpret biedt. Een korte busrit door het bos voert naar Zonnestraal. Eindig in de Mout-hal."
           },
           "stops": [
             {
@@ -2100,7 +2269,8 @@
                 "de": "Bushaltestelle 'Raadhuis' befindet sich ganz in der Nähe.",
                 "hu": "A 'Raadhuis' buszmegálló a közvetlen közelben található.",
                 "ro": "Stația de autobuz 'Raadhuis' este situată foarte aproape.",
-                "en": "The 'Raadhuis' bus stop is located very nearby."
+                "en": "The 'Raadhuis' bus stop is located very nearby.",
+                "nl": "De bushalte 'Raadhuis' ligt heel dichtbij."
               }
             },
             {
@@ -2109,7 +2279,8 @@
                 "de": "Vom Bahnhof aus in 5 Minuten trocken erreichbar.",
                 "hu": "A vasútállomástól 5 perc alatt szárazon elérhető.",
                 "ro": "Accesibil de la gară în 5 minute, rămânând uscat.",
-                "en": "Accessible from the station in 5 minutes, staying dry."
+                "en": "Accessible from the station in 5 minutes, staying dry.",
+                "nl": "Bereikbaar vanaf het station in 5 minuten, droog blijvend."
               }
             },
             {
@@ -2118,7 +2289,8 @@
                 "de": "Eigener Bahnhof 'Hilversum Media Park' vorhanden.",
                 "hu": "Saját 'Hilversum Media Park' vasúti megállója van.",
                 "ro": "Are propria stație de tren 'Hilversum Media Park'.",
-                "en": "Has its own 'Hilversum Media Park' railway station."
+                "en": "Has its own 'Hilversum Media Park' railway station.",
+                "nl": "Heeft een eigen station 'Hilversum Media Park'."
               }
             },
             {
@@ -2127,7 +2299,8 @@
                 "de": "Direkter Zugang vom Media Park Bahnhof möglich.",
                 "hu": "Közvetlen bejutás a Media Park megállótól.",
                 "ro": "Acces direct posibil de la stația Media Park.",
-                "en": "Direct access is possible from the Media Park station."
+                "en": "Direct access is possible from the Media Park station.",
+                "nl": "Directe toegang is mogelijk vanaf station Media Park."
               }
             },
             {
@@ -2136,7 +2309,8 @@
                 "de": "Buslinie 121 hält direkt am Gelände.",
                 "hu": "A 121-es busz közvetlenül a területnél áll meg.",
                 "ro": "Linia de autobuz 121 oprește direct la complex.",
-                "en": "Bus line 121 stops directly at the estate."
+                "en": "Bus line 121 stops directly at the estate.",
+                "nl": "Buslijn 121 stopt direct bij het landgoed."
               }
             },
             {
@@ -2145,7 +2319,8 @@
                 "de": "Zentral am Bahnhof gelegen, ideal für die Rückreise.",
                 "hu": "Központban, a vasútállomásnál, ideális a hazatéréshez.",
                 "ro": "Central, lângă gară, ideal pentru drumul de întoarcere.",
-                "en": "Centrally located by the station, ideal for the return trip."
+                "en": "Centrally located by the station, ideal for the return trip.",
+                "nl": "Centraal gelegen bij het station, ideaal voor de terugreis."
               }
             }
           ],
@@ -2177,6 +2352,13 @@
               "Buses are modern, clean, and well-heated.",
               "An umbrella is essential for the walk to the bus stop.",
               "A day pass is worth it for this specific itinerary."
+            ],
+            "nl": [
+              "Gebruik de '9292' app voor realtime OV-verbindingen.",
+              "Treinstations bieden goede beschutting tijdens het wachten.",
+              "Bussen zijn modern, schoon en goed verwarmd.",
+              "Een paraplu is essentieel voor de wandeling naar de bushalte.",
+              "Een dagkaart is de moeite waard voor deze specifieke route."
             ]
           }
         },
@@ -2185,7 +2367,8 @@
             "de": "Winterreise mit den öffentlichen Verkehrsmitteln. Das beheizte Rathaus bietet einen warmen Start. Mit dem Zug geht es schnell zum Media Park und ins gemütliche Institut. Der Bus nach Zonnestraal führt durch die winterliche Heidelandschaft. Den Abend verbringen Sie gesellig in der Mout-Halle, bevor der Zug Sie heimbringt.",
             "hu": "Téli utazás tömegközlekedéssel. A fűtött városháza meleg kezdést biztosít. Vonattal gyorsan elérhető a Media Park és a hangulatos intézet. A busz a Zonnestraalhoz a téli fenyveseken át vezet. Az estét a Mout csarnokban töltheti, mielőtt a vonat hazavinné.",
             "ro": "Călătorie de iarnă cu transportul public. Primăria încălzită oferă un început cald. Cu trenul ajungeți rapid la Media Park și la institut. Autobuzul spre Zonnestraal trece prin peisajul de iarnă. Petreceți seara în hala Mout înainte de trenul spre casă.",
-            "en": "Winter journey using public transport. The heated Town Hall offers a warm start. Take the train quickly to Media Park and the cozy institute. The bus to Zonnestraal travels through the winter heathland. Spend the evening socializing in Mout hall before the train takes you home."
+            "en": "Winter journey using public transport. The heated Town Hall offers a warm start. Take the train quickly to Media Park and the cozy institute. The bus to Zonnestraal travels through the winter heathland. Spend the evening socializing in Mout hall before the train takes you home.",
+            "nl": "Winterse reis met openbaar vervoer. Het verwarmde Stadhuis biedt een warme start. Neem snel de trein naar Media Park en het gezellige museum. De bus naar Zonnestraal rijdt door het winterse heidegebied. Breng de avond door in de Mout-hal voordat de trein je naar huis brengt."
           },
           "stops": [
             {
@@ -2194,7 +2377,8 @@
                 "de": "Im Inneren des Rathauses ist es angenehm warm.",
                 "hu": "A városháza belsejében kellemes meleg van.",
                 "ro": "În interiorul Primăriei este plăcut și cald.",
-                "en": "It is pleasantly warm inside the Town Hall."
+                "en": "It is pleasantly warm inside the Town Hall.",
+                "nl": "Het is prettig warm binnen in het Stadhuis."
               }
             },
             {
@@ -2203,7 +2387,8 @@
                 "de": "Kurzer, beleuchteter Weg vom Bahnhof aus.",
                 "hu": "Rövid, kivilágított út a vasútállomástól.",
                 "ro": "Drum scurt și iluminat de la gară.",
-                "en": "Short, well-lit path from the railway station."
+                "en": "Short, well-lit path from the railway station.",
+                "nl": "Korte, goed verlichte route vanaf het station."
               }
             },
             {
@@ -2212,7 +2397,8 @@
                 "de": "Der Bahnhof ist oft windig, ziehen Sie sich warm an.",
                 "hu": "A vasútállomás gyakran szeles, öltözzön melegen.",
                 "ro": "Gara este adesea vântoasă, îmbrăcați-vă bine.",
-                "en": "The station can be windy, so dress warmly."
+                "en": "The station can be windy, so dress warmly.",
+                "nl": "Het station kan winderig zijn, dus kleed je warm aan."
               }
             },
             {
@@ -2221,7 +2407,8 @@
                 "de": "Perfekter Ort, um den ganzen Nachmittag im Warmen zu verbringen.",
                 "hu": "Tökéletes hely az egész délután melegben töltésére.",
                 "ro": "Locul perfect pentru a petrece după-amiaza la căldură.",
-                "en": "Perfect place to spend the entire afternoon in the warmth."
+                "en": "Perfect place to spend the entire afternoon in the warmth.",
+                "nl": "Perfecte plek om de hele middag in de warmte door te brengen."
               }
             },
             {
@@ -2230,7 +2417,8 @@
                 "de": "Prüfen Sie den Winterfahrplan der Linie 121.",
                 "hu": "Ellenőrizze a 121-es busz téli menetrendjét.",
                 "ro": "Verificați orarul de iarnă al liniei 121.",
-                "en": "Check the winter schedule for bus line 121."
+                "en": "Check the winter schedule for bus line 121.",
+                "nl": "Controleer het winterrooster van buslijn 121."
               }
             },
             {
@@ -2239,7 +2427,8 @@
                 "de": "Nur 2 Minuten Fußweg zum warmen Bahnhofsgebäude.",
                 "hu": "Csak 2 perc séta a meleg vasúti váróteremig.",
                 "ro": "Doar 2 minute de mers pe jos până la gară.",
-                "en": "Only a 2-minute walk to the warm station building."
+                "en": "Only a 2-minute walk to the warm station building.",
+                "nl": "Slechts 2 minuten lopen naar het warme stationsgebouw."
               }
             }
           ],
@@ -2271,6 +2460,13 @@
               "Allow for extra travel time in case of winter delays.",
               "Ensure your OV-Chipkaart has sufficient balance.",
               "Enjoy the view of the snowy landscape from the window."
+            ],
+            "nl": [
+              "Treinen en bussen zijn goed verwarmd tijdens de winter.",
+              "Maak gebruik van de wachtruimtes op grotere stations.",
+              "Reken op extra reistijd bij winterse vertragingen.",
+              "Zorg dat je OV-chipkaart voldoende saldo heeft.",
+              "Geniet van het uitzicht op het besneeuwde landschap vanuit het raam."
             ]
           }
         }

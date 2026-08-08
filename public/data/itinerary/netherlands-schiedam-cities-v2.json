@@ -21,7 +21,8 @@
             "de": "Grote oder St. Janskerk",
             "hu": "Szent János-templom (Grote Kerk)",
             "ro": "Biserica Sf. Ioan (Grote Kerk)",
-            "en": "St. John's Church (Grote Kerk)"
+            "en": "St. John's Church (Grote Kerk)",
+            "nl": "Sint-Janskerk (Grote Kerk)"
           },
           "coords": [
             4.396,
@@ -37,7 +38,8 @@
             "de": "Bewundern Sie die beeindruckenden Buntglasfenster, die Geschichten der Stadt erzählen.",
             "hu": "Csodálja meg a lenyűgöző ólomüveg ablakokat, melyek a város történeteit mesélik el.",
             "ro": "Admirați vitraliile impresionante care spun poveștile orașului.",
-            "en": "Admire the impressive stained-glass windows that tell the city's stories."
+            "en": "Admire the impressive stained-glass windows that tell the city's stories.",
+            "nl": "Bewonder de indrukwekkende gebrandschilderde ramen die de verhalen van de stad vertellen."
           }
         },
         {
@@ -45,7 +47,8 @@
             "de": "Stedelijk Museum Schiedam",
             "hu": "Schiedami Városi Múzeum",
             "ro": "Muzeul Municipal Schiedam",
-            "en": "Stedelijk Museum Schiedam"
+            "en": "Stedelijk Museum Schiedam",
+            "nl": "Stedelijk Museum Schiedam"
           },
           "coords": [
             4.3965,
@@ -61,7 +64,8 @@
             "de": "Konzentrieren Sie sich auf die CoBrA-Bewegung, eine der Stärken des Museums.",
             "hu": "Fókuszáljon a CoBrA mozgalomra, ami a múzeum egyik erőssége.",
             "ro": "Concentrează-te pe mișcarea CoBrA, unul dintre punctele forte ale muzeului.",
-            "en": "Focus on the CoBrA movement, one of the museum's strengths."
+            "en": "Focus on the CoBrA movement, one of the museum's strengths.",
+            "nl": "Richt je op de CoBrA-beweging, een van de sterke punten van het museum."
           }
         },
         {
@@ -69,7 +73,8 @@
             "de": "Nationales Jenevermuseum",
             "hu": "Nemzeti Jenever Múzeum",
             "ro": "Muzeul Național al Jeneverului",
-            "en": "National Jenever Museum"
+            "en": "National Jenever Museum",
+            "nl": "Nationaal Jenevermuseum"
           },
           "coords": [
             4.3948,
@@ -85,7 +90,8 @@
             "de": "Verpassen Sie nicht die Verkostung am Ende der Tour, um den echten Geschmack von Schiedam zu erleben.",
             "hu": "Ne hagyja ki a kóstolót a túra végén, hogy megtapasztalja Schiedam igazi ízét.",
             "ro": "Nu ratați degustarea de la sfârșitul turului pentru a experimenta gustul autentic al Schiedamului.",
-            "en": "Don't miss the tasting at the end of the tour to experience the real taste of Schiedam."
+            "en": "Don't miss the tasting at the end of the tour to experience the real taste of Schiedam.",
+            "nl": "Mis de proeverij aan het einde van de rondleiding niet om de echte smaak van Schiedam te ervaren."
           }
         },
         {
@@ -93,7 +99,8 @@
             "de": "Windmühle De Walvisch",
             "hu": "De Walvisch szélmalom",
             "ro": "Moara de vânt De Walvisch",
-            "en": "De Walvisch Windmill"
+            "en": "De Walvisch Windmill",
+            "nl": "De Walvisch Molen"
           },
           "coords": [
             4.392,
@@ -109,7 +116,8 @@
             "de": "Kaufen Sie im Mühlenladen traditionell gemahlenes Mehl, ein einzigartiges Souvenir.",
             "hu": "Vásároljon a malom boltjában hagyományosan őrölt lisztet, egyedi szuvenír.",
             "ro": "Cumpărați făină măcinată tradițional de la magazinul morii, un suvenir unic.",
-            "en": "Buy traditionally ground flour from the mill shop, a unique souvenir."
+            "en": "Buy traditionally ground flour from the mill shop, a unique souvenir.",
+            "nl": "Koop traditioneel gemalen meel in de molenwinkel, een uniek souvenir."
           }
         },
         {
@@ -117,7 +125,8 @@
             "de": "Windmühle De Noord",
             "hu": "De Noord szélmalom",
             "ro": "Moara de vânt De Noord",
-            "en": "De Noord Windmill"
+            "en": "De Noord Windmill",
+            "nl": "De Noord Molen"
           },
           "coords": [
             4.3995,
@@ -133,7 +142,8 @@
             "de": "Dies ist eine der höchsten Windmühlen der Welt. Die schiere Größe ist aus der Nähe beeindruckend.",
             "hu": "Ez a világ egyik legmagasabb szélmalma. A méretei lenyűgözőek közelről.",
             "ro": "Aceasta este una dintre cele mai înalte mori de vânt din lume. Dimensiunea sa este impresionantă de aproape.",
-            "en": "This is one of the tallest windmills in the world. The sheer scale is impressive up close."
+            "en": "This is one of the tallest windmills in the world. The sheer scale is impressive up close.",
+            "nl": "Dit is een van de hoogste molens ter wereld. De omvang is van dichtbij indrukwekkend."
           }
         },
         {
@@ -141,7 +151,8 @@
             "de": "Havenpark",
             "hu": "Havenpark",
             "ro": "Parcul Haven",
-            "en": "Havenpark"
+            "en": "Havenpark",
+            "nl": "Havenpark"
           },
           "coords": [
             4.405,
@@ -157,7 +168,8 @@
             "de": "Ein perfekter Ort, um sich nach dem Spaziergang zu entspannen und die Boote auf dem Kanal zu beobachten.",
             "hu": "Tökéletes hely a pihenésre a séta után, és a csónakok figyelésére a csatornán.",
             "ro": "Un loc perfect pentru a vă relaxa după plimbare și a privi bărcile de pe canal.",
-            "en": "A perfect spot to relax after your walk and watch the boats on the canal."
+            "en": "A perfect spot to relax after your walk and watch the boats on the canal.",
+            "nl": "Een perfecte plek om te ontspannen na je wandeling en de boten in het kanaal te bekijken."
           }
         }
       ],
@@ -165,7 +177,8 @@
         "de": "Ihr Tag in Schiedam beginnt im historischen Herzen, rund um die majestätische Grote Kerk. Am Vormittag erkunden Sie die Gassen und Kanäle, die von den größten Windmühlen der Welt überragt werden. Gegen Mittag tauchen Sie in die Welt des Jenever ein, dem berühmten Geist der Stadt, und genießen ein traditionelles holländisches Mittagessen. Der Nachmittag bietet einen ruhigen Ausklang im grünen Havenpark, wo Sie das geschäftige Treiben auf dem Wasser beobachten können. Beenden Sie den Tag mit einem Spaziergang entlang der beleuchteten Kanäle, die die reiche Geschichte Schiedams widerspiegeln.",
         "hu": "Schiedami napja a történelmi szívben kezdődik, a fenséges Grote Kerk körül. A délelőtt folyamán felfedezi az utcákat és csatornákat, melyek fölé a világ legnagyobb szélmalmai tornyosulnak. Dél körül elmerül a jenever, a város híres italának világában, és elfogyaszt egy hagyományos holland ebédet. A délután csendes levezetést kínál a zöld Havenparkban, ahol megfigyelheti a vízi életet. A napot egy sétával zárja a kivilágított csatornák mentén, melyek Schiedam gazdag történelmét tükrözik.",
         "ro": "Ziua dvs. în Schiedam începe în inima sa istorică, în jurul maiestuoasei Grote Kerk. În timpul dimineții, explorați străduțele și canalele vegheate de cele mai înalte mori de vânt din lume. La prânz, pătrundeți în lumea jeneverului, băutura emblematică a orașului, și savurați un prânz tradițional olandez. După-amiaza oferă o relaxare liniștită în verdele Havenpark, unde puteți observa agitația de pe apă. Încheiați ziua cu o plimbare de-a lungul canalelor iluminate, care reflectă istoria bogată a Schiedamului.",
-        "en": "Your day in Schiedam begins in its historic heart, around the majestic Grote Kerk. During the morning, you'll explore the alleys and canals overlooked by the world's largest windmills. Around noon, delve into the world of Jenever, the city's famous spirit, and enjoy a traditional Dutch lunch. The afternoon offers a quiet wind-down in the green Havenpark, where you can watch the bustle on the water. End your day with a stroll along the illuminated canals, reflecting Schiedam's rich history."
+        "en": "Your day in Schiedam begins in its historic heart, around the majestic Grote Kerk. During the morning, you'll explore the alleys and canals overlooked by the world's largest windmills. Around noon, delve into the world of Jenever, the city's famous spirit, and enjoy a traditional Dutch lunch. The afternoon offers a quiet wind-down in the green Havenpark, where you can watch the bustle on the water. End your day with a stroll along the illuminated canals, reflecting Schiedam's rich history.",
+        "nl": "Je dag in Schiedam begint in het historische hart, rond de majestueuze Grote Kerk. ’s Ochtends verken je de steegjes en kanalen die worden overzien door 's werelds grootste windmolens. Rond het middaguur duik je in de wereld van jenever, de beroemde drank van de stad, en geniet je van een traditionele Nederlandse lunch. De middag biedt een rustige afsluiting in het groene Havenpark, waar je het drukke waterwerk kunt bekijken. Sluit je dag af met een wandeling langs de verlichte kanalen, die Schiedams rijke geschiedenis weerspiegelen."
       },
       "gastro_picks": {
         "de": [
@@ -377,6 +390,12 @@
           "Many museums are closed on Mondays, check opening hours in advance.",
           "A guided canal tour offers a different perspective on the city and its mills.",
           "Be sure to try the local specialties at one of the many waterside cafes."
+        ],
+        "nl": [
+          "Draag comfortabele schoenen omdat de straten vaak kinderkopjes hebben.",
+          "Veel musea zijn op maandag gesloten; controleer openingstijden van tevoren.",
+          "Een begeleide rondvaart biedt een ander perspectief op de stad en haar molens.",
+          "Probeer zeker de lokale specialiteiten bij één van de vele terrasjes aan het water."
         ]
       },
       "variants": {
@@ -385,7 +404,8 @@
             "de": "Morgens besuchen wir die Grote Kerk, ein idealer Zufluchtsort vor dem niederländischen Regen. Mittags erkunden wir das Stedelijk Museum und das Jenevermuseum, wo die Geschichte der Stadt in trockenen, historischen Hallen lebendig wird. Nachmittags bewundern wir die riesigen Windmühlen aus dem Schutz unserer Regenschirme. Den Tag lassen wir gemütlich in einem Café am Havenpark ausklingen.",
             "hu": "A reggelt a Grote Kerk falai között kezdjük, amely tökéletes menedék az eső elől. Délben a Stedelijk és a Jenever Múzeum fedett kiállításait járjuk be, megismerve a város ipari múltját. Délután az óriási szélmalmok látványát élvezzük az esernyők alól, majd a napot a Havenpark környékének egyik hangulatos, meleg kávézójában zárjuk, figyelve a csatornákon kopogó esőcseppeket.",
             "ro": "Dimineața începe la Grote Kerk, un refugiu perfect împotriva ploii olandeze. La prânz explorăm Muzeul Stedelijk și Muzeul Jenever, unde istoria orașului prinde viață în interiorul primitor. După-amiaza admirăm morile de vânt gigantice protejați de umbrele, iar seara ne relaxăm într-o cafenea caldă lângă Havenpark, privind ploaia care cade peste canalele istorice.",
-            "en": "Start the morning at Grote Kerk, a perfect sanctuary from the Dutch rain. At noon, explore the Stedelijk and Jenever Museums, where the city's history comes alive in dry, historic halls. In the afternoon, admire the giant windmills from under your umbrella. End the day comfortably in a local café near Havenpark, watching the raindrops dance on the historic canals."
+            "en": "Start the morning at Grote Kerk, a perfect sanctuary from the Dutch rain. At noon, explore the Stedelijk and Jenever Museums, where the city's history comes alive in dry, historic halls. In the afternoon, admire the giant windmills from under your umbrella. End the day comfortably in a local café near Havenpark, watching the raindrops dance on the historic canals.",
+            "nl": "Begin de ochtend in de Grote Kerk, een perfecte schuilplaats tegen de Nederlandse regen. Rond het middaguur bezoek je het Stedelijk en het Jenevermuseum, waar de geschiedenis van de stad tot leven komt in droge, historische zalen. In de middag bewonder je de reusachtige molens onder je paraplu. Sluit de dag comfortabel af in een lokaal café bij het Havenpark en kijk hoe de regendruppels dansen op de historische kanalen."
           },
           "stops": [
             {
@@ -394,7 +414,8 @@
                 "de": "Bewundern Sie die Akustik, während draußen der Regen trommelt.",
                 "hu": "Élvezze a belső tér nyugalmát és az eső kopogását a tetőn.",
                 "ro": "Admirați acustica în timp ce ploaia bate în ferestrele înalte.",
-                "en": "Admire the acoustics while the rain drums on the high roof."
+                "en": "Admire the acoustics while the rain drums on the high roof.",
+                "nl": "Bewonder de akoestiek terwijl de regen op het hoge dak trommelt."
               }
             },
             {
@@ -403,7 +424,8 @@
                 "de": "Perfekter Ort, um zwei Stunden im Trockenen zu verbringen.",
                 "hu": "Ideális helyszín két óra száraz, kulturális kikapcsolódáshoz.",
                 "ro": "Locul perfect pentru a petrece două ore la adăpost de ploaie.",
-                "en": "Perfect place to spend two hours staying dry and inspired."
+                "en": "Perfect place to spend two hours staying dry and inspired.",
+                "nl": "Perfecte plek om twee uur droog en geïnspireerd door te brengen."
               }
             },
             {
@@ -412,7 +434,8 @@
                 "de": "Wärmen Sie sich mit einer kleinen Gin-Verkostung auf.",
                 "hu": "Melegedjen fel egy kis kóstolóval a történelmi falak között.",
                 "ro": "Încălziți-vă cu o mică degustare de gin între zidurile vechi.",
-                "en": "Warm up with a small gin tasting inside the historic walls."
+                "en": "Warm up with a small gin tasting inside the historic walls.",
+                "nl": "Warm op met een kleine jeneverproeverij binnen de historische muren."
               }
             },
             {
@@ -421,7 +444,8 @@
                 "de": "Besuchen Sie den Laden im Erdgeschoss, um trocken zu bleiben.",
                 "hu": "Látogasson el a földszinti boltba, hogy szárazon maradjon.",
                 "ro": "Vizitați magazinul de la parter pentru a rămâne uscat.",
-                "en": "Visit the shop on the ground floor to stay out of the rain."
+                "en": "Visit the shop on the ground floor to stay out of the rain.",
+                "nl": "Bezoek de winkel op de begane grond om uit de regen te blijven."
               }
             },
             {
@@ -430,7 +454,8 @@
                 "de": "Ein majestätischer Anblick, auch bei grauem Regenwetter.",
                 "hu": "Fenséges látvány még szürke, esős időjárás esetén is.",
                 "ro": "O priveliște maiestuoasă, chiar și pe vreme gri de ploaie.",
-                "en": "A majestic sight, even during grey and rainy weather."
+                "en": "A majestic sight, even during grey and rainy weather.",
+                "nl": "Een majestueus gezicht, zelfs bij grauw en regenachtig weer."
               }
             },
             {
@@ -439,7 +464,8 @@
                 "de": "Suchen Sie Schutz in den umliegenden gemütlichen Cafés.",
                 "hu": "Keressen menedéket a környékbeli hangulatos kávézókban.",
                 "ro": "Căutați adăpost în cafenelele primitoare din jurul parcului.",
-                "en": "Seek shelter in the cozy cafes surrounding the park area."
+                "en": "Seek shelter in the cozy cafes surrounding the park area.",
+                "nl": "Zoek beschutting in de gezellige cafés rond het parkgebied."
               }
             }
           ],
@@ -471,6 +497,13 @@
               "Wear waterproof shoes for the canal-side paths.",
               "The interior of the windmills offers good shelter.",
               "Umbrellas can be tricky in the narrowest streets."
+            ],
+            "nl": [
+              "Schiedams steegjes kunnen glad zijn als ze nat zijn.",
+              "Gebruik de talrijke musea als regenschermen.",
+              "Draag waterdichte schoenen voor de paden langs het kanaal.",
+              "Het interieur van de molens biedt goede beschutting.",
+              "Paraplu's zijn lastig in de smalste straatjes."
             ]
           }
         },
@@ -479,7 +512,8 @@
             "de": "Morgens wärmen wir uns in der Grote Kerk auf, bevor wir das Stedelijk Museum besuchen. Die Mittagssonne taucht die Kanäle in ein fahles Licht, perfekt für Fotos der Windmühlen. Nachmittags wärmt uns eine Jenever-Verkostung von innen. Da es früh dunkel wird, genießen wir die beleuchteten Mühlen und den Havenpark in der blauen Stunde bei klirrender Kälte.",
             "hu": "Reggel a Grote Kerk melegében kezdünk, mielőtt a Stedelijk Múzeum felé vesszük az irányt. A téli napfény bágyadtan csillan meg a csatornákon, különleges hangulatot adva a malmoknak. Délután a Jenever kóstolása ad belső meleget. Mivel korán sötétedik, a kivilágított malmokat és a Havenparkot már a kora esti fényekben, csípős hidegben csodáljuk meg.",
             "ro": "Dimineața ne încălzim în Grote Kerk înainte de a vizita Muzeul Stedelijk. Soarele de iarnă luminează palid canalele, oferind un cadru perfect pentru morile de vânt. După-amiaza, o degustare de Jenever ne încălzește interior. Deoarece se întunecă devreme, ne bucurăm de morile iluminate și de Havenpark în lumina serii și aerul rece.",
-            "en": "Start the morning warming up in Grote Kerk before heading to the Stedelijk Museum. The winter sun casts a pale light over the canals, perfect for windmill photos. In the afternoon, a Jenever tasting warms you from the inside. Since it gets dark early, enjoy the illuminated windmills and Havenpark in the blue hour and crisp cold air."
+            "en": "Start the morning warming up in Grote Kerk before heading to the Stedelijk Museum. The winter sun casts a pale light over the canals, perfect for windmill photos. In the afternoon, a Jenever tasting warms you from the inside. Since it gets dark early, enjoy the illuminated windmills and Havenpark in the blue hour and crisp cold air.",
+            "nl": "Begin de ochtend met opwarmen in de Grote Kerk voordat je naar het Stedelijk Museum gaat. De winterzon werpt een bleke gloed over de kanalen, perfect voor windmolenfoto's. In de middag verwarmt een jenevertje van binnen. Omdat het vroeg donker wordt, geniet je van de verlichte molens en het Havenpark in het blauwe uur en de frisse, koude lucht."
           },
           "stops": [
             {
@@ -488,7 +522,8 @@
                 "de": "Ein friedlicher, warmer Rückzugsort am kalten Morgen.",
                 "hu": "Békés, meleg menedék a hideg téli reggelen.",
                 "ro": "Un refugiu liniștit și cald într-o dimineață geroasă.",
-                "en": "A peaceful, warm retreat on a cold winter morning."
+                "en": "A peaceful, warm retreat on a cold winter morning.",
+                "nl": "Een vreedzame, warme toevlucht op een koude winterochtend."
               }
             },
             {
@@ -497,7 +532,8 @@
                 "de": "Genießen Sie die beheizten Galerien und moderne Kunst.",
                 "hu": "Élvezze a fűtött galériákat és a modern művészetet.",
                 "ro": "Bucurați-vă de galeriile încălzite și de arta modernă.",
-                "en": "Enjoy the heated galleries and the modern art collection."
+                "en": "Enjoy the heated galleries and the modern art collection.",
+                "nl": "Geniet van de verwarmde zalen en de moderne kunstcollectie."
               }
             },
             {
@@ -506,7 +542,8 @@
                 "de": "Der beste Ort, um die Winterkälte zu vergessen.",
                 "hu": "A legjobb hely, hogy elfelejtse a kinti téli fagyot.",
                 "ro": "Cel mai bun loc pentru a uita de frigul de afară.",
-                "en": "The best place to forget the winter frost outside."
+                "en": "The best place to forget the winter frost outside.",
+                "nl": "De beste plek om de winterkou buiten te vergeten."
               }
             },
             {
@@ -515,7 +552,8 @@
                 "de": "Achten Sie auf vereiste Stufen beim Aufstieg.",
                 "hu": "Vigyázzon a jeges lépcsőkre a felmászáskor.",
                 "ro": "Atenție la treptele înghețate în timpul urcării.",
-                "en": "Watch out for icy steps while climbing up the mill."
+                "en": "Watch out for icy steps while climbing up the mill.",
+                "nl": "Let op gladde treden bij het beklimmen van de molen."
               }
             },
             {
@@ -524,7 +562,8 @@
                 "de": "Besonders fotogen im tief stehenden Winterlicht.",
                 "hu": "Különösen fotogén a mélyen álló téli napsütésben.",
                 "ro": "Deosebit de fotogenică în lumina joasă a iernii.",
-                "en": "Particularly photogenic in the low winter sunlight."
+                "en": "Particularly photogenic in the low winter sunlight.",
+                "nl": "Bijzonder fotogeniek in het lage winterlicht."
               }
             },
             {
@@ -533,7 +572,8 @@
                 "de": "Die Beleuchtung der Kanäle beginnt hier ab 16:30 Uhr.",
                 "hu": "A csatornák díszkivilágítása már 16:30-kor elkezdődik.",
                 "ro": "Iluminarea canalelor începe aici de la ora 16:30.",
-                "en": "Canal lighting begins here as early as 4:30 PM."
+                "en": "Canal lighting begins here as early as 4:30 PM.",
+                "nl": "De kanaalverlichting begint hier al rond 16:30 uur."
               }
             }
           ],
@@ -565,6 +605,13 @@
               "Museums are the best spots to warm up between walks.",
               "Cobblestone streets can be very slippery in frost.",
               "Enjoy hot chocolate or Jenever during your breaks."
+            ],
+            "nl": [
+              "Laagjes kleding zijn essentieel door de bries van het water.",
+              "De zon gaat vroeg onder, rond 16:30 uur.",
+              "Musea zijn de beste plekken om op te warmen tussen wandelingen door.",
+              "Kinderkopjes kunnen bij vorst erg glad zijn.",
+              "Geniet van warme chocomelk of jenever tijdens je pauzes."
             ]
           }
         }
@@ -583,7 +630,8 @@
             "de": "Huis te Riviere",
             "hu": "Huis te Riviere kastélyrom",
             "ro": "Ruinele castelului Huis te Riviere",
-            "en": "Huis te Riviere Castle Ruins"
+            "en": "Huis te Riviere Castle Ruins",
+            "nl": "Huis te Riviere Kasteelruïne"
           },
           "coords": [
             4.408,
@@ -599,7 +647,8 @@
             "de": "Stellen Sie sich die einstige Größe dieser Burg vor, die nur noch von einem einzigen Turm bezeugt wird.",
             "hu": "Képzelje el a vár egykori nagyságát, amiről már csak egyetlen torony tanúskodik.",
             "ro": "Imaginați-vă măreția de odinioară a acestui castel, mărturisită acum doar de un singur turn.",
-            "en": "Imagine the former grandeur of this castle, now witnessed only by a single tower."
+            "en": "Imagine the former grandeur of this castle, now witnessed only by a single tower.",
+            "nl": "Stel je de vroegere grandeur van dit kasteel voor, nu alleen nog waargenomen door een enkele toren."
           }
         },
         {
@@ -607,7 +656,8 @@
             "de": "Theater aan de Schie",
             "hu": "Theater aan de Schie",
             "ro": "Teatrul aan de Schie",
-            "en": "Theater aan de Schie"
+            "en": "Theater aan de Schie",
+            "nl": "Theater aan de Schie"
           },
           "coords": [
             4.4,
@@ -623,7 +673,8 @@
             "de": "Prüfen Sie das Programm für eine Abendvorstellung, um zeitgenössische niederländische Kultur zu erleben.",
             "hu": "Nézze meg az esti programot, hogy megtapasztalja a kortárs holland kultúrát.",
             "ro": "Verificați programul pentru un spectacol de seară pentru a experimenta cultura olandeză contemporană.",
-            "en": "Check the schedule for an evening performance to experience contemporary Dutch culture."
+            "en": "Check the schedule for an evening performance to experience contemporary Dutch culture.",
+            "nl": "Bekijk de programmering voor een avondvoorstelling om hedendaagse Nederlandse cultuur te ervaren."
           }
         },
         {
@@ -631,7 +682,8 @@
             "de": "Grote oder St. Janskerk",
             "hu": "Szent János-templom (Grote Kerk)",
             "ro": "Biserica Sf. Ioan (Grote Kerk)",
-            "en": "St. John's Church (Grote Kerk)"
+            "en": "St. John's Church (Grote Kerk)",
+            "nl": "Sint-Janskerk (Grote Kerk)"
           },
           "coords": [
             4.396,
@@ -647,7 +699,8 @@
             "de": "Der Aufstieg auf den Turm ist die Mühe wert für die Aussicht über die Stadt.",
             "hu": "A toronyba való felmászás megéri a fáradságot a városra nyíló kilátásért.",
             "ro": "Urcarea în turn merită efortul pentru priveliștea asupra orașului.",
-            "en": "Climbing the tower is worth the effort for the view over the city."
+            "en": "Climbing the tower is worth the effort for the view over the city.",
+            "nl": "Het beklimmen van de toren is de moeite waard voor het uitzicht over de stad."
           }
         },
         {
@@ -655,7 +708,8 @@
             "de": "Windmühle De Noord",
             "hu": "De Noord szélmalom",
             "ro": "Moara de vânt De Noord",
-            "en": "De Noord Windmill"
+            "en": "De Noord Windmill",
+            "nl": "De Noord molen"
           },
           "coords": [
             4.3995,
@@ -671,7 +725,8 @@
             "de": "Das Restaurant in der Mühle bietet ein einzigartiges kulinarisches Erlebnis.",
             "hu": "A malomban található étterem egyedülálló kulináris élményt nyújt.",
             "ro": "Restaurantul din moară oferă o experiență culinară unică.",
-            "en": "The restaurant inside the mill offers a unique dining experience."
+            "en": "The restaurant inside the mill offers a unique dining experience.",
+            "nl": "Het restaurant in de molen biedt een unieke eetervaring."
           }
         },
         {
@@ -679,7 +734,8 @@
             "de": "Windmühle De Walvisch",
             "hu": "De Walvisch szélmalom",
             "ro": "Moara de vânt De Walvisch",
-            "en": "De Walvisch Windmill"
+            "en": "De Walvisch Windmill",
+            "nl": "De Walvisch molen"
           },
           "coords": [
             4.392,
@@ -695,7 +751,8 @@
             "de": "Eine funktionierende Mühle, in der man manchmal den Müller bei der Arbeit beobachten kann.",
             "hu": "Ez egy működő malom, ahol néha láthatja a molnárt munka közben.",
             "ro": "O moară funcțională unde uneori îl puteți vedea pe morar la lucru.",
-            "en": "A working mill where you can sometimes see the miller at work."
+            "en": "A working mill where you can sometimes see the miller at work.",
+            "nl": "Een werkende molen waar je de molenaar soms aan het werk kunt zien."
           }
         },
         {
@@ -703,7 +760,8 @@
             "de": "Nationales Jenevermuseum",
             "hu": "Nemzeti Jenever Múzeum",
             "ro": "Muzeul Național al Jeneverului",
-            "en": "National Jenever Museum"
+            "en": "National Jenever Museum",
+            "nl": "Nationaal Jenevermuseum"
           },
           "coords": [
             4.3948,
@@ -719,7 +777,8 @@
             "de": "Planen Sie hier Ihre Mittagspause ein; in der Nähe gibt es viele charmante Cafés.",
             "hu": "Tervezze ide az ebédszünetet; a közelben számos bájos kávézó található.",
             "ro": "Planificați-vă pauza de prânz aici; există multe cafenele fermecătoare în apropiere.",
-            "en": "Plan your lunch break here; there are many charming cafes nearby."
+            "en": "Plan your lunch break here; there are many charming cafes nearby.",
+            "nl": "Plan hier je lunchpauze; er zijn veel charmante cafés in de buurt."
           }
         },
         {
@@ -727,7 +786,8 @@
             "de": "Havenpark",
             "hu": "Havenpark",
             "ro": "Parcul Haven",
-            "en": "Havenpark"
+            "en": "Havenpark",
+            "nl": "Havenpark"
           },
           "coords": [
             4.405,
@@ -743,7 +803,8 @@
             "de": "Schließen Sie Ihr Fahrrad gut ab und genießen Sie einen entspannten Spaziergang durch den Park.",
             "hu": "Zárja le jól a kerékpárját, és élvezzen egy pihentető sétát a parkban.",
             "ro": "Legați-vă bine bicicleta și bucurați-vă de o plimbare relaxantă prin parc.",
-            "en": "Lock your bike securely and enjoy a relaxing stroll through the park."
+            "en": "Lock your bike securely and enjoy a relaxing stroll through the park.",
+            "nl": "Maak je fiets goed op slot en geniet van een ontspannende wandeling door het park."
           }
         }
       ],
@@ -751,7 +812,8 @@
         "de": "Schwingen Sie sich auf den Sattel und beginnen Sie Ihre Tour bei den alten Ruinen von Huis te Riviere. Radeln Sie am Morgen durch das moderne Kulturviertel zum historischen Zentrum, wo Kirche und Windmühlen warten. Gönnen Sie sich zu Mittag eine Pause im Jenever-Viertel, probieren Sie die lokalen Köstlichkeiten und lernen Sie mehr über die Spirituosengeschichte. Der Nachmittag führt Sie entlang der malerischen Kanäle zum entspannten Havenpark. Schließen Sie den Tag ab, indem Sie Ihr Rad abstellen und die Abendstimmung in einem der vielen gemütlichen Restaurants am Wasser genießen.",
         "hu": "Pattanjon nyeregbe, és kezdje a túrát a Huis te Riviere ősi romjainál. Reggel tekerjen át a modern kulturális negyeden a történelmi központba, ahol templom és szélmalmok várnak. Délben tartson szünetet a Jenever-negyedben, kóstolja meg a helyi finomságokat, és tudjon meg többet a szeszes ital történetéről. A délután a festői csatornák mentén a pihentető Havenparkba vezet. Zárja a napot azzal, hogy leteszi a kerékpárt, és élvezi az esti hangulatot az egyik hangulatos vízparti étteremben.",
         "ro": "Urcați-vă pe bicicletă și începeți turul de la ruinele antice ale Huis te Riviere. Dimineața pedalați prin cartierul cultural modern spre centrul istoric, unde vă așteaptă biserica și morile de vânt. La prânz, faceți o pauză în cartierul Jenever, gustați deliciile locale și învățați despre istoria băuturii. După-amiaza vă poartă de-a lungul canalelor pitorești spre relaxantul Havenpark. Încheiați ziua lăsând bicicleta deoparte și bucurându-vă de atmosfera de seară la unul dintre multele restaurante primitoare de pe malul apei.",
-        "en": "Get on your bike and start your tour at the ancient ruins of Huis te Riviere. In the morning, cycle through the modern cultural district to the historic center, where the church and windmills await. At noon, take a break in the Jenever district, taste the local delicacies, and learn about the spirit's history. The afternoon takes you along the picturesque canals to the relaxing Havenpark. End the day by parking your bike and enjoying the evening atmosphere at one of the many cozy waterfront restaurants."
+        "en": "Get on your bike and start your tour at the ancient ruins of Huis te Riviere. In the morning, cycle through the modern cultural district to the historic center, where the church and windmills await. At noon, take a break in the Jenever district, taste the local delicacies, and learn about the spirit's history. The afternoon takes you along the picturesque canals to the relaxing Havenpark. End the day by parking your bike and enjoying the evening atmosphere at one of the many cozy waterfront restaurants.",
+        "nl": "Stap op je fiets en begin je tocht bij de oude ruïne van Huis te Riviere. ’s Ochtends fiets je door de moderne cultuurwijk naar het historische centrum, waar de kerk en molens op je wachten. Rond het middaguur neem je pauze in de Jeneverbuurt, proef je lokale lekkernijen en leer je over de geschiedenis van de sterke drank. In de middag fiets je langs de schilderachtige grachten naar het rustige Havenpark. Sluit de dag af door je fiets te parkeren en te genieten van de avondstemming bij een van de vele gezellige restaurants aan het water."
       },
       "gastro_picks": {
         "de": [
@@ -963,6 +1025,12 @@
           "Watch out for the tram tracks, especially when wet.",
           "Use the well-developed bike paths along the canals.",
           "A waterproof bag is a good idea with the unpredictable Dutch weather."
+        ],
+        "nl": [
+          "Zet je fiets altijd op slot, ook voor korte stops.",
+          "Let op de tramrails, vooral als ze nat zijn.",
+          "Gebruik de goed aangelegde fietspaden langs de grachten.",
+          "Een waterdichte tas is verstandig met het onvoorspelbare Nederlandse weer."
         ]
       },
       "variants": {
@@ -971,7 +1039,8 @@
             "de": "Regnerische Radtour durch Schiedam: Wir starten an der Schlossruine und fahren schnell zum Theater und zur Grote Kerk für überdachte Pausen. Die Windmühlen De Noord und De Walvisch ragen trotzig im Regen empor. Den Mittag verbringen wir im Jenevermuseum, um den Schauern zu entgehen. Zum Abschluss radeln wir kurz durch den Havenpark zu einem trockenen Café.",
             "hu": "Esős biciklis túra Schiedamban: a várromoktól indulunk, majd gyorsan a színház és a Grote Kerk felé vesszük az irányt fedett pihenőkért. A De Noord és De Walvisch malmok dacolnak az esővel. A délutánt a Jenever Múzeumban töltjük, elkerülve a nagyobb záporokat. Végül a Havenparkon át egy száraz kávézóba tekerünk.",
             "ro": "Tur cu bicicleta pe ploaie în Schiedam: pornim de la ruinele castelului și pedalăm rapid spre teatru și Grote Kerk pentru pauze acoperite. Morile De Noord și De Walvisch se înalță sfidătoare în ploaie. Petrecem prânzul la Muzeul Jenever pentru a evita aversele, apoi pedalăm prin Havenpark spre o cafenea uscată.",
-            "en": "Rainy bike tour through Schiedam: start at the castle ruins and cycle quickly to the theater and Grote Kerk for covered breaks. De Noord and De Walvisch windmills stand defiant in the rain. Spend the afternoon at the Jenever Museum to escape the showers, ending with a quick ride through Havenpark to a dry cafe."
+            "en": "Rainy bike tour through Schiedam: start at the castle ruins and cycle quickly to the theater and Grote Kerk for covered breaks. De Noord and De Walvisch windmills stand defiant in the rain. Spend the afternoon at the Jenever Museum to escape the showers, ending with a quick ride through Havenpark to a dry cafe.",
+            "nl": "Regenfietstocht door Schiedam: begin bij de kasteelruïne en fiets snel naar het theater en de Grote Kerk voor overdekte pauzes. De Noord en De Walvisch molens blijven trots in de regen staan. Breng de middag door in het Jenevermuseum om aan de buien te ontsnappen, en eindig met een korte rit door het Havenpark naar een droog café."
           },
           "stops": [
             {
@@ -980,7 +1049,8 @@
                 "de": "Ein schneller Stopp; kaum Schutz vor Regen hier.",
                 "hu": "Gyors megálló; itt alig van védelem az eső elől.",
                 "ro": "O oprire rapidă; aici nu există adăpost împotriva ploii.",
-                "en": "A quick stop; there is very little shelter from rain here."
+                "en": "A quick stop; there is very little shelter from rain here.",
+                "nl": "Een korte stop; er is hier weinig beschutting tegen regen."
               }
             },
             {
@@ -989,7 +1059,8 @@
                 "de": "Das moderne Vordach bietet kurzzeitigen Schutz.",
                 "hu": "A modern előtető rövid ideig védelmet nyújt.",
                 "ro": "Copertina modernă oferă un adăpost temporar.",
-                "en": "The modern canopy provides some brief shelter."
+                "en": "The modern canopy provides some brief shelter.",
+                "nl": "Het moderne luifelgedeelte biedt wat korte beschutting."
               }
             },
             {
@@ -998,7 +1069,8 @@
                 "de": "Sicherer Abstellplatz für Fahrräder in der Nähe.",
                 "hu": "Biztonságos kerékpártároló található a közelben.",
                 "ro": "Loc sigur pentru parcarea bicicletelor în apropiere.",
-                "en": "Safe bicycle parking available nearby."
+                "en": "Safe bicycle parking available nearby.",
+                "nl": "Veilige fietsparkeerplaats in de buurt beschikbaar."
               }
             },
             {
@@ -1007,7 +1079,8 @@
                 "de": "Vorsicht beim Bremsen auf nassem Kopfsteinpflaster.",
                 "hu": "Vigyázzon a fékezéssel a nedves macskakövön.",
                 "ro": "Atenție la frânare pe pavajul umed din jurul morii.",
-                "en": "Be careful when braking on wet cobblestones here."
+                "en": "Be careful when braking on wet cobblestones here.",
+                "nl": "Wees voorzichtig met remmen op natte kinderkopjes hier."
               }
             },
             {
@@ -1016,7 +1089,8 @@
                 "de": "Parken Sie Ihr Rad nah am Eingang im Trockenen.",
                 "hu": "Parkolja le a biciklit a bejárathoz közel, fedett helyen.",
                 "ro": "Parcați bicicleta aproape de intrare, la adăpost.",
-                "en": "Park your bike close to the entrance to stay dry."
+                "en": "Park your bike close to the entrance to stay dry.",
+                "nl": "Parkeer je fiets dicht bij de ingang om droog te blijven."
               }
             },
             {
@@ -1025,7 +1099,8 @@
                 "de": "Lange Pause einplanen, während es draußen regnet.",
                 "hu": "Tervezzen hosszú szünetet, amíg kint esik az eső.",
                 "ro": "Planificați o pauză lungă în timp ce afară plouă.",
-                "en": "Plan a long break while it pours outside."
+                "en": "Plan a long break while it pours outside.",
+                "nl": "Plan een lange pauze terwijl het buiten giet."
               }
             },
             {
@@ -1034,7 +1109,8 @@
                 "de": "Die Wege können pfützenreich sein, vorsichtig fahren.",
                 "hu": "Az utak tócsásak lehetnek, óvatosan közlekedjen.",
                 "ro": "Pot exista multe bălți pe alei, pedalați cu atenție.",
-                "en": "Paths can be puddly, cycle carefully through the park."
+                "en": "Paths can be puddly, cycle carefully through the park.",
+                "nl": "Paden kunnen plassen hebben, fiets voorzichtig door het park."
               }
             }
           ],
@@ -1066,6 +1142,13 @@
               "A rain poncho is more practical than an umbrella while cycling.",
               "Check your brakes before starting in the rain.",
               "Old town cobblestones require extra attention when wet."
+            ],
+            "nl": [
+              "Gebruik waterdichte fietstassen voor je spullen.",
+              "Let op tramrails – die zijn extreem glad.",
+              "Een regenponcho is praktischer dan een paraplu tijdens het fietsen.",
+              "Controleer je remmen voordat je in de regen vertrekt.",
+              "Oude stads-kinderkopjes vragen extra aandacht als ze nat zijn."
             ]
           }
         },
@@ -1074,7 +1157,8 @@
             "de": "Winterliches Radfahren in Schiedam: Wir starten an der frostigen Schlossruine und besichtigen die Grote Kerk. Die kalte Luft beim Radeln entlang der Windmühlen De Noord und De Walvisch ist erfrischend. Mittags wärmt uns das Jenevermuseum auf. Die Tour endet früh am Havenpark, damit wir vor Einbruch der Dunkelheit und der eisigen Abendkälte am Ziel sind.",
             "hu": "Téli kerékpározás Schiedamban: a fagyos várromoktól indulunk, majd a Grote Kerk felé tekerünk. A friss, hideg levegő elkísér a De Noord és De Walvisch malmok mentén. Délben a Jenever Múzeumban melegszünk fel. A túra korán ér véget a Havenparknál, hogy még a sötétség és a fagyos esti szél előtt célba érjünk.",
             "ro": "Ciclism de iarnă în Schiedam: pornim de la ruinele înghețate și vizităm Grote Kerk. Aerul rece în timp ce pedalăm pe lângă morile De Noord și De Walvisch este revigorant. La prânz ne încălzim la Muzeul Jenever. Turul se încheie devreme la Havenpark, pentru a ajunge la destinație înainte de întuneric.",
-            "en": "Winter cycling in Schiedam: start at the frosty castle ruins and visit Grote Kerk. The crisp air while cycling along De Noord and De Walvisch windmills is refreshing. Warm up at the Jenever Museum at noon. The tour ends early at Havenpark to ensure you finish before darkness and the biting evening chill set in."
+            "en": "Winter cycling in Schiedam: start at the frosty castle ruins and visit Grote Kerk. The crisp air while cycling along De Noord and De Walvisch windmills is refreshing. Warm up at the Jenever Museum at noon. The tour ends early at Havenpark to ensure you finish before darkness and the biting evening chill set in.",
+            "nl": "Winterfietsen in Schiedam: begin bij de ijzige kasteelruïne en bezoek de Grote Kerk. De frisse lucht tijdens het fietsen langs De Noord en De Walvisch molens is verkwikkend. Warm op in het Jenevermuseum rond het middaguur. De tocht eindigt vroeg in het Havenpark zodat je klaar bent vóórdat het donker wordt en de bijtende avondkou inzet."
           },
           "stops": [
             {
@@ -1083,7 +1167,8 @@
                 "de": "Kurzer Stopp; der Wind weht hier im Winter kalt.",
                 "hu": "Rövid megálló; télen itt nagyon fúj a hideg szél.",
                 "ro": "Oprire scurtă; iarna vântul suflă rece aici.",
-                "en": "Short stop; the winter wind blows cold here."
+                "en": "Short stop; the winter wind blows cold here.",
+                "nl": "Korte stop; de winterwind waait hier koud."
               }
             },
             {
@@ -1092,7 +1177,8 @@
                 "de": "Das Glasfoyer sieht im Winterlicht toll aus.",
                 "hu": "Az üvegfoyer remekül mutat a téli fényben.",
                 "ro": "Foaierul de sticlă arată minunat în lumina iernii.",
-                "en": "The glass foyer looks great in the winter light."
+                "en": "The glass foyer looks great in the winter light.",
+                "nl": "De glazen foyer ziet er prachtig uit in het winterlicht."
               }
             },
             {
@@ -1101,7 +1187,8 @@
                 "de": "Stellen Sie Ihr Rad sicher ab, bevor Sie reingehen.",
                 "hu": "Zárja le biztonságosan a biciklit, mielőtt bemenne.",
                 "ro": "Parcați bicicleta în siguranță înainte de a intra.",
-                "en": "Lock your bike securely before heading inside."
+                "en": "Lock your bike securely before heading inside.",
+                "nl": "Zet je fiets goed op slot voordat je naar binnen gaat."
               }
             },
             {
@@ -1110,7 +1197,8 @@
                 "de": "Vorsicht vor gefrorenem Laub auf den Radwegen.",
                 "hu": "Vigyázzon a fagyott levelekre a kerékpárutakon.",
                 "ro": "Atenție la frunzele înghețate pe pistele de biciclete.",
-                "en": "Watch out for frozen leaves on the cycling paths."
+                "en": "Watch out for frozen leaves on the cycling paths.",
+                "nl": "Let op bevroren bladeren op de fietspaden."
               }
             },
             {
@@ -1119,7 +1207,8 @@
                 "de": "Ein heißes Getränk im Inneren ist jetzt ideal.",
                 "hu": "Egy forró ital bent most ideális választás.",
                 "ro": "O băutură caldă în interior este ideală acum.",
-                "en": "A hot drink inside is a perfect choice now."
+                "en": "A hot drink inside is a perfect choice now.",
+                "nl": "Een warme drank binnen is nu een perfecte keuze."
               }
             },
             {
@@ -1128,7 +1217,8 @@
                 "de": "Hier können Sie Ihre kalten Hände aufwärmen.",
                 "hu": "Itt jól felmelegítheti átfagyott kezeit.",
                 "ro": "Aici vă puteți încălzi mâinile înghețate.",
-                "en": "A great place to warm up your frozen hands."
+                "en": "A great place to warm up your frozen hands.",
+                "nl": "Een ideale plek om je bevroren handen op te warmen."
               }
             },
             {
@@ -1137,7 +1227,8 @@
                 "de": "Radeln Sie vorsichtig, wenn der Boden gefroren ist.",
                 "hu": "Tekerjen óvatosan, ha a talaj fagyos.",
                 "ro": "Pedalați cu atenție dacă solul este înghețat.",
-                "en": "Cycle carefully if the ground is frozen."
+                "en": "Cycle carefully if the ground is frozen.",
+                "nl": "Fiets voorzichtig als de ondergrond bevroren is."
               }
             }
           ],
@@ -1169,6 +1260,13 @@
               "Winter light reflects beautifully on the canals.",
               "Shorten the tour if the cold becomes too much.",
               "Bike lights are mandatory starting from 4:00 PM."
+            ],
+            "nl": [
+              "Draag winddichte handschoenen tijdens het fietsen.",
+              "Vermijd plotselinge stuurbewegingen op gladde wegen.",
+              "Het winterlicht weerspiegelt prachtig in de grachten.",
+              "Kort de tocht in als de kou te hevig wordt.",
+              "Fietsverlichting is verplicht vanaf 16:00 uur."
             ]
           }
         }
@@ -1187,7 +1285,8 @@
             "de": "Huis te Riviere",
             "hu": "Huis te Riviere kastélyrom",
             "ro": "Ruinele castelului Huis te Riviere",
-            "en": "Huis te Riviere Castle Ruins"
+            "en": "Huis te Riviere Castle Ruins",
+            "nl": "Huis te Riviere kasteelruïne"
           },
           "coords": [
             4.408,
@@ -1203,7 +1302,8 @@
             "de": "Parken Sie hier und beginnen Sie Ihren Tag mit einem Blick in die ferne Vergangenheit der Stadt.",
             "hu": "Parkoljon le itt, és kezdje a napot a város távoli múltjába való bepillantással.",
             "ro": "Parcați aici și începeți-vă ziua cu o privire în trecutul îndepărtat al orașului.",
-            "en": "Park here and start your day with a glimpse into the city's distant past."
+            "en": "Park here and start your day with a glimpse into the city's distant past.",
+            "nl": "Parkeer hier en begin je dag met een blik op het verre verleden van de stad."
           }
         },
         {
@@ -1211,7 +1311,8 @@
             "de": "Theater aan de Schie",
             "hu": "Theater aan de Schie",
             "ro": "Teatrul aan de Schie",
-            "en": "Theater aan de Schie"
+            "en": "Theater aan de Schie",
+            "nl": "Theater aan de Schie"
           },
           "coords": [
             4.4,
@@ -1227,7 +1328,8 @@
             "de": "Ein kurzer Spaziergang von den Ruinen entfernt, repräsentiert dieses Theater das moderne Schiedam.",
             "hu": "Rövid séta a romoktól, ez a színház a modern Schiedamot képviseli.",
             "ro": "La o scurtă plimbare de ruine, acest teatru reprezintă Schiedamul modern.",
-            "en": "A short walk from the ruins, this theater represents modern Schiedam."
+            "en": "A short walk from the ruins, this theater represents modern Schiedam.",
+            "nl": "Een korte wandeling van de ruïne; dit theater staat voor modern Schiedam."
           }
         },
         {
@@ -1235,7 +1337,8 @@
             "de": "Grote oder St. Janskerk",
             "hu": "Szent János-templom (Grote Kerk)",
             "ro": "Biserica Sf. Ioan (Grote Kerk)",
-            "en": "St. John's Church (Grote Kerk)"
+            "en": "St. John's Church (Grote Kerk)",
+            "nl": "Sint-Janskerk (Grote Kerk)"
           },
           "coords": [
             4.396,
@@ -1251,7 +1354,8 @@
             "de": "Nach der Fahrt parken Sie in einer nahegelegenen Garage und erkunden den Rest zu Fuß.",
             "hu": "A vezetés után parkoljon egy közeli parkolóházban, és fedezze fel a többit gyalog.",
             "ro": "După condus, parcați într-un garaj din apropiere și explorați restul pe jos.",
-            "en": "After the drive, park in a nearby garage and explore the rest on foot."
+            "en": "After the drive, park in a nearby garage and explore the rest on foot.",
+            "nl": "Parkeer na de rit in een nabijgelegen garage en verken de rest te voet."
           }
         },
         {
@@ -1259,7 +1363,8 @@
             "de": "Stedelijk Museum Schiedam",
             "hu": "Schiedami Városi Múzeum",
             "ro": "Muzeul Municipal Schiedam",
-            "en": "Stedelijk Museum Schiedam"
+            "en": "Stedelijk Museum Schiedam",
+            "nl": "Stedelijk Museum Schiedam"
           },
           "coords": [
             4.3965,
@@ -1275,7 +1380,8 @@
             "de": "Genießen Sie die moderne Kunst als Kontrast zur historischen Umgebung.",
             "hu": "Élvezze a modern művészetet, mint kontrasztot a történelmi környezettel.",
             "ro": "Bucurați-vă de arta modernă ca un contrast cu mediul istoric.",
-            "en": "Enjoy the modern art as a contrast to the historical surroundings."
+            "en": "Enjoy the modern art as a contrast to the historical surroundings.",
+            "nl": "Geniet van moderne kunst als contrast met de historische omgeving."
           }
         },
         {
@@ -1283,7 +1389,8 @@
             "de": "Nationales Jenevermuseum",
             "hu": "Nemzeti Jenever Múzeum",
             "ro": "Muzeul Național al Jeneverului",
-            "en": "National Jenever Museum"
+            "en": "National Jenever Museum",
+            "nl": "Nationaal Jenevermuseum"
           },
           "coords": [
             4.3948,
@@ -1299,7 +1406,8 @@
             "de": "Der perfekte Ort, um mehr über das Getränk zu erfahren, das Schiedam berühmt gemacht hat.",
             "hu": "A tökéletes hely, hogy többet megtudjon az italról, amely híressé tette Schiedamot.",
             "ro": "Locul perfect pentru a afla mai multe despre băutura care a făcut Schiedamul celebru.",
-            "en": "The perfect place to learn about the drink that made Schiedam famous."
+            "en": "The perfect place to learn about the drink that made Schiedam famous.",
+            "nl": "De perfecte plek om meer te leren over de drank die Schiedam beroemd maakte."
           }
         },
         {
@@ -1307,7 +1415,8 @@
             "de": "Windmühle De Walvisch",
             "hu": "De Walvisch szélmalom",
             "ro": "Moara de vânt De Walvisch",
-            "en": "De Walvisch Windmill"
+            "en": "De Walvisch Windmill",
+            "nl": "De Walvisch molen"
           },
           "coords": [
             4.392,
@@ -1323,7 +1432,8 @@
             "de": "Ein malerischer Spaziergang entlang des Kanals führt Sie zu dieser ikonischen Mühle.",
             "hu": "Egy festői séta a csatorna mentén vezet ehhez az ikonikus malomhoz.",
             "ro": "O plimbare pitorească de-a lungul canalului vă va duce la această moară emblematică.",
-            "en": "A picturesque walk along the canal will lead you to this iconic mill."
+            "en": "A picturesque walk along the canal will lead you to this iconic mill.",
+            "nl": "Een schilderachtige wandeling langs de gracht brengt je naar deze iconische molen."
           }
         },
         {
@@ -1331,7 +1441,8 @@
             "de": "Havenpark",
             "hu": "Havenpark",
             "ro": "Parcul Haven",
-            "en": "Havenpark"
+            "en": "Havenpark",
+            "nl": "Havenpark"
           },
           "coords": [
             4.405,
@@ -1347,7 +1458,8 @@
             "de": "Der letzte Halt Ihres Spaziergangs durch das Zentrum, bevor Sie zum Auto zurückkehren.",
             "hu": "Az utolsó megálló a központon átvezető sétáján, mielőtt visszatérne az autóhoz.",
             "ro": "Ultima oprire a plimbării dvs. prin centru înainte de a vă întoarce la mașină.",
-            "en": "The last stop on your walk through the center before heading back to the car."
+            "en": "The last stop on your walk through the center before heading back to the car.",
+            "nl": "De laatste halte van je wandeling door het centrum voordat je terug naar de auto gaat."
           }
         }
       ],
@@ -1355,7 +1467,8 @@
         "de": "Beginnen Sie Ihren Tag mit dem Auto am Stadtrand bei den Ruinen von Huis te Riviere. Nach einem kurzen Spaziergang zum Theater fahren Sie ins Zentrum, parken Ihr Auto für den Rest des Tages und erkunden das Herz von Schiedam zu Fuß. Der Mittag ist der Kultur gewidmet, mit Besuchen in der Grote Kerk und den berühmten Museen. Am Nachmittag schlendern Sie entlang der Kanäle, vorbei an Windmühlen, zum entspannenden Havenpark. Kehren Sie am Abend zu Ihrem Auto zurück, nachdem Sie die historische Atmosphäre bei einem gemütlichen Abendessen aufgesogen haben.",
         "hu": "Kezdje a napot autóval a város szélén, a Huis te Riviere romjainál. Egy rövid színházi séta után hajtson a központba, parkolja le az autót a nap hátralévő részére, és fedezze fel gyalog Schiedam szívét. A dél a kultúráé, a Grote Kerk és a híres múzeumok meglátogatásával. Délután sétáljon a csatornák mentén, szélmalmok mellett, a pihentető Havenparkba. Este térjen vissza az autójához, miután egy kellemes vacsora mellett magába szívta a történelmi hangulatot.",
         "ro": "Începeți ziua cu mașina la periferia orașului, la ruinele Huis te Riviere. După o scurtă plimbare la teatru, conduceți spre centru, parcați mașina pentru restul zilei și explorați inima Schiedamului pe jos. Prânzul este dedicat culturii, cu vizite la Grote Kerk și la celebrele muzee. După-amiaza, plimbați-vă de-a lungul canalelor, pe lângă mori de vânt, până la relaxantul Havenpark. Seara, întoarceți-vă la mașină după ce ați absorbit atmosfera istorică la o cină liniștită.",
-        "en": "Start your day by car on the outskirts of the city at the ruins of Huis te Riviere. After a short walk to the theatre, drive to the center, park your car for the rest of the day, and explore the heart of Schiedam on foot. Midday is dedicated to culture, with visits to the Grote Kerk and the famous museums. In the afternoon, stroll along the canals, past windmills, to the relaxing Havenpark. Return to your car in the evening after soaking up the historic atmosphere over a leisurely dinner."
+        "en": "Start your day by car on the outskirts of the city at the ruins of Huis te Riviere. After a short walk to the theatre, drive to the center, park your car for the rest of the day, and explore the heart of Schiedam on foot. Midday is dedicated to culture, with visits to the Grote Kerk and the famous museums. In the afternoon, stroll along the canals, past windmills, to the relaxing Havenpark. Return to your car in the evening after soaking up the historic atmosphere over a leisurely dinner.",
+        "nl": "Begin je dag met de auto aan de rand van de stad bij de ruïne van Huis te Riviere. Na een korte wandeling naar het theater rijd je naar het centrum, parkeer je de auto voor de rest van de dag en verken je het hart van Schiedam te voet. Middag is gewijd aan cultuur, met bezoeken aan de Grote Kerk en de beroemde musea. In de middag slenter je langs de grachten, langs molens, naar het rustige Havenpark. Keer ’s avonds terug naar je auto na te hebben genoten van de historische sfeer tijdens een ontspannen diner."
       },
       "gastro_picks": {
         "de": [
@@ -1567,6 +1680,12 @@
           "Be cautious of the narrow streets in the historic center.",
           "Plan your route in advance as some streets are closed to car traffic.",
           "A navigation system is essential to navigate the one-way streets."
+        ],
+        "nl": [
+          "Gebruik Park & Ride-faciliteiten aan de rand van de stad om dure parkeerkosten in het centrum te vermijden.",
+          "Wees voorzichtig op de smalle straatjes in het historische centrum.",
+          "Plan je route van tevoren, want sommige straten zijn afgesloten voor autoverkeer.",
+          "Een navigatiesysteem is essentieel om de eenrichtingsstraten te vinden."
         ]
       },
       "variants": {
@@ -1575,7 +1694,8 @@
             "de": "Bequeme Autotour durch das verregnete Schiedam. Wir parken nahe der Schlossruine und dem Theater. Die Grote Kerk und das Stedelijk Museum bieten trockene Kulturstunden. Mittags führt die Fahrt zum Jenevermuseum. Die riesigen Windmühlen bewundern wir vom warmen Auto aus oder bei kurzen Sprints zum Eingang. Den Tag beenden wir entspannt am Havenpark.",
             "hu": "Kényelmes autós túra az esős Schiedamban. A várromok és a színház közelében parkolunk. A Grote Kerk és a Stedelijk Múzeum száraz kulturális élményt nyújt. Délben a Jenever Múzeumhoz hajtunk. Az óriási szélmalmokat a meleg autóból vagy a bejárathoz tett gyors sprinttel csodáljuk meg. A napot a Havenparknál zárjuk.",
             "ro": "Tur confortabil cu mașina în Schiedam pe ploaie. Parcăm aproape de ruinele castelului și teatru. Grote Kerk și Muzeul Stedelijk oferă ore de cultură la adăpost. La prânz mergem spre Muzeul Jenever. Admirăm morile de vânt gigantice din mașina caldă sau cu scurte sprinturi spre intrare, încheind ziua la Havenpark.",
-            "en": "A comfortable car tour through rainy Schiedam. Park near the castle ruins and theater. Grote Kerk and the Stedelijk Museum offer dry cultural hours. At noon, drive to the Jenever Museum. Admire the giant windmills from the warmth of the car or with quick sprints to the entrances, ending the day at Havenpark."
+            "en": "A comfortable car tour through rainy Schiedam. Park near the castle ruins and theater. Grote Kerk and the Stedelijk Museum offer dry cultural hours. At noon, drive to the Jenever Museum. Admire the giant windmills from the warmth of the car or with quick sprints to the entrances, ending the day at Havenpark.",
+            "nl": "Een comfortabele autorondrit door een regenachtig Schiedam. Parkeer bij de kasteelruïne en het theater. De Grote Kerk en het Stedelijk Museum bieden droogaanbod van cultuururen. Rond het middaguur rijd je naar het Jenevermuseum. Bewonder de gigantische molens vanuit de warmte van de auto of met korte sprintjes naar de ingangen, en sluit de dag af in het Havenpark."
           },
           "stops": [
             {
@@ -1584,7 +1704,8 @@
                 "de": "Parken Sie kurz am Straßenrand für ein Foto.",
                 "hu": "Parkoljon le rövid időre az út szélén egy fotóért.",
                 "ro": "Parcați scurt pe marginea drumului pentru o poză.",
-                "en": "Park briefly on the roadside for a quick photo."
+                "en": "Park briefly on the roadside for a quick photo.",
+                "nl": "Parkeer kort aan de wegkant voor een snelle foto."
               }
             },
             {
@@ -1593,7 +1714,8 @@
                 "de": "Nahegelegene Parkhäuser nutzen, um trocken zu bleiben.",
                 "hu": "Használja a közeli parkolóházakat, hogy száraz maradjon.",
                 "ro": "Folosiți parcările etajate din apropiere.",
-                "en": "Use nearby parking garages to stay dry."
+                "en": "Use nearby parking garages to stay dry.",
+                "nl": "Gebruik nabijgelegen parkeergarages om droog te blijven."
               }
             },
             {
@@ -1602,7 +1724,8 @@
                 "de": "Zentraler Parkplatz oft belegt, früh anreisen.",
                 "hu": "A központi parkoló gyakran tele van, érkezzen korán.",
                 "ro": "Parcarea centrală e deseori plină, veniți devreme.",
-                "en": "Central parking is often full, arrive early."
+                "en": "Central parking is often full, arrive early.",
+                "nl": "Centraal parkeren is vaak vol; kom vroeg aan."
               }
             },
             {
@@ -1611,7 +1734,8 @@
                 "de": "Ideal bei Starkregen, da alles unter einem Dach ist.",
                 "hu": "Ideális szakadó esőben, mivel minden egy fedél alatt van.",
                 "ro": "Ideal pe ploaie torențială, totul e sub același acoperiș.",
-                "en": "Ideal during heavy rain, as everything is under one roof."
+                "en": "Ideal during heavy rain, as everything is under one roof.",
+                "nl": "Ideaal tijdens zware regen, want alles is onder één dak."
               }
             },
             {
@@ -1620,7 +1744,8 @@
                 "de": "Parken direkt am Kanal möglich, Vorsicht beim Rangieren.",
                 "hu": "Parkolás közvetlenül a csatornánál, óvatosan manőverezzen.",
                 "ro": "Parcare posibilă chiar lângă canal, atenție la manevre.",
-                "en": "Parking possible right by the canal, maneuver carefully."
+                "en": "Parking possible right by the canal, maneuver carefully.",
+                "nl": "Parkeren mogelijk direct aan de gracht, manoeuvreer voorzichtig."
               }
             },
             {
@@ -1629,7 +1754,8 @@
                 "de": "Ein kurzer Lauf vom Parkplatz zum Mühlenmuseum.",
                 "hu": "Rövid futás a parkolótól a malommúzeumig az esőben.",
                 "ro": "O scurtă fugă de la parcare până la muzeul morii.",
-                "en": "A quick run from the parking spot to the mill museum."
+                "en": "A quick run from the parking spot to the mill museum.",
+                "nl": "Een korte sprint van de parkeerplaats naar het molenmuseum."
               }
             },
             {
@@ -1638,7 +1764,8 @@
                 "de": "Genießen Sie den Blick auf die Kanäle aus dem Auto.",
                 "hu": "Élvezze a csatornákra nyíló kilátást az autóból.",
                 "ro": "Bucurați-vă de vederea spre canale din mașină.",
-                "en": "Enjoy the view of the canals from your car."
+                "en": "Enjoy the view of the canals from your car.",
+                "nl": "Geniet van het uitzicht op de grachten vanuit je auto."
               }
             }
           ],
@@ -1670,6 +1797,13 @@
               "Watch out for cyclists who may hurry in the rain.",
               "Visibility can be limited during heavy downpours.",
               "Have loose change or a parking app ready."
+            ],
+            "nl": [
+              "Gebruik liever parkeergarages dan plekken aan de grachtkant.",
+              "Sommige oude stadsstraten zijn beperkt voor auto’s.",
+              "Let op fietsers die in de regen gehaast kunnen zijn.",
+              "Het zicht kan beperkt zijn bij hevige wolkbreuken.",
+              "Zorg dat je muntgeld of een parkeerapp bij de hand hebt."
             ]
           }
         },
@@ -1678,7 +1812,8 @@
             "de": "Winter-Tour im beheizten Auto durch Schiedam. Wir besuchen die frostige Schlossruine und die Grote Kerk. Die winterliche Altstadt mit ihren Windmühlen lässt sich bequem vom Fahrzeug aus erkunden. Mittags wärmen wir uns im Jenevermuseum auf. Bevor es dunkel wird, fahren wir zum Havenpark, um die stimmungsvolle Beleuchtung der historischen Gebäude zu erleben.",
             "hu": "Téli autós túra a fűtött utastérben Schiedamban. Meglátogatjuk a fagyos várromokat és a Grote Kerket. A téli óváros és a malmok kényelmesen felfedezhetők a járműből. Délben a Jenever Múzeumban melegszünk fel. Még sötétedés előtt a Havenparkhoz hajtunk, hogy átéljük a történelmi épületek hangulatos kivilágítását.",
             "ro": "Tur de iarnă în mașina încălzită prin Schiedam. Vizităm ruinele castelului și Grote Kerk. Orașul vechi și morile sale pot fi explorate confortabil din vehicul. La prânz ne încălzim la Muzeul Jenever. Înainte de lăsarea serii, mergem la Havenpark pentru a vedea iluminarea clădirilor istorice.",
-            "en": "Winter tour in a heated car through Schiedam. Visit the frosty castle ruins and Grote Kerk. The winter old town and its windmills can be explored comfortably from your vehicle. Warm up at the Jenever Museum at noon. Before dark, drive to Havenpark to experience the atmospheric lighting of the historic buildings."
+            "en": "Winter tour in a heated car through Schiedam. Visit the frosty castle ruins and Grote Kerk. The winter old town and its windmills can be explored comfortably from your vehicle. Warm up at the Jenever Museum at noon. Before dark, drive to Havenpark to experience the atmospheric lighting of the historic buildings.",
+            "nl": "Wintertour in een verwarmde auto door Schiedam. Bezoek de ijzige kasteelruïne en de Grote Kerk. Het winterse oude centrum en zijn molens kun je comfortabel vanuit je voertuig verkennen. Warm op in het Jenevermuseum rond het middaguur. Rij vóór het donker naar het Havenpark om de sfeervolle verlichting van de historische gebouwen te ervaren."
           },
           "stops": [
             {
@@ -1687,7 +1822,8 @@
                 "de": "Vorsicht vor Straßenglätte in den Nebenstraßen.",
                 "hu": "Vigyázzon az úttest jegesedésére a mellékutcákban.",
                 "ro": "Atenție la polei pe străzile secundare.",
-                "en": "Watch out for icy patches on side streets."
+                "en": "Watch out for icy patches on side streets.",
+                "nl": "Let op ijzige plekken in zijstraatjes."
               }
             },
             {
@@ -1696,7 +1832,8 @@
                 "de": "Ein moderner Kontrast zur frostigen Altstadt.",
                 "hu": "Modern kontraszt a fagyos óvároshoz képest.",
                 "ro": "Un contrast modern cu orașul vechi înghețat.",
-                "en": "A modern contrast to the frosty old town."
+                "en": "A modern contrast to the frosty old town.",
+                "nl": "Een modern contrast met het ijzige oude centrum."
               }
             },
             {
@@ -1705,7 +1842,8 @@
                 "de": "Kurze Wege vom Auto zum warmen Kirchenschiff.",
                 "hu": "Rövid séta az autótól a templom meleg belsejéig.",
                 "ro": "Drum scurt de la mașină până în interiorul cald.",
-                "en": "Short walk from the car to the warm nave."
+                "en": "Short walk from the car to the warm nave.",
+                "nl": "Korte wandeling van de auto naar het warme schip (nave)."
               }
             },
             {
@@ -1714,7 +1852,8 @@
                 "de": "Parkhäuser in der Nähe sind im Winter oft leerer.",
                 "hu": "A közeli parkolóházak télen gyakran üresebbek.",
                 "ro": "Parcările etajate sunt deseori mai goale iarna.",
-                "en": "Nearby parking garages are often emptier in winter."
+                "en": "Nearby parking garages are often emptier in winter.",
+                "nl": "Nabijgelegen parkeergarages zijn in de winter vaak leger."
               }
             },
             {
@@ -1723,7 +1862,8 @@
                 "de": "Perfekter Stopp, um die Kälte draußen zu lassen.",
                 "hu": "Tökéletes megálló, hogy kint hagyja a hideget.",
                 "ro": "Oprire perfectă pentru a lăsa frigul afară.",
-                "en": "A perfect stop to leave the cold weather outside."
+                "en": "A perfect stop to leave the cold weather outside.",
+                "nl": "Een perfecte halte om de koude buiten te laten."
               }
             },
             {
@@ -1732,7 +1872,8 @@
                 "de": "Der Wind pfeift hier an der Ecke im Winter stark.",
                 "hu": "Télen itt a sarkon nagyon erősen fúj a szél.",
                 "ro": "Vântul suflă puternic aici la colț în timpul iernii.",
-                "en": "The winter wind blows strongly here at the corner."
+                "en": "The winter wind blows strongly here at the corner.",
+                "nl": "De winterwind waait hier hard op de hoek."
               }
             },
             {
@@ -1741,7 +1882,8 @@
                 "de": "Wunderschön beleuchtet ab der frühen Dämmerung.",
                 "hu": "Gyönyörűen kivilágítva már a kora esti szürkülettől.",
                 "ro": "Iluminat superb încă de la amurgul timpuriu.",
-                "en": "Beautifully lit up from the early twilight hours."
+                "en": "Beautifully lit up from the early twilight hours.",
+                "nl": "Mooi verlicht vanaf de vroege schemering."
               }
             }
           ],
@@ -1773,6 +1915,13 @@
               "Check windshield wipers and anti-freeze levels.",
               "Avoid parking too close to the canal edges.",
               "The car's heater will be your best friend today."
+            ],
+            "nl": [
+              "Let op zwarte ijsplekken op de bruggen.",
+              "Een batterijkontrole wordt aanbevolen vóór de wintertocht.",
+              "Controleer ruitenwissers en antivriesniveaus.",
+              "Vermijd parkeren te dicht bij de kaderanden.",
+              "De autokachel wordt vandaag je beste vriend."
             ]
           }
         }
@@ -1791,7 +1940,8 @@
             "de": "Huis te Riviere",
             "hu": "Huis te Riviere kastélyrom",
             "ro": "Ruinele castelului Huis te Riviere",
-            "en": "Huis te Riviere Castle Ruins"
+            "en": "Huis te Riviere Castle Ruins",
+            "nl": "Huis te Riviere Kasteelruïne"
           },
           "coords": [
             4.408,
@@ -1807,7 +1957,8 @@
             "de": "Beginnen Sie Ihren Tag hier, leicht erreichbar vom Bahnhof Schiedam Centrum.",
             "hu": "Kezdje a napot itt, könnyen megközelíthető a Schiedam Centrum állomástól.",
             "ro": "Începeți-vă ziua aici, ușor accesibil de la gara Schiedam Centrum.",
-            "en": "Start your day here, easily accessible from Schiedam Centrum station."
+            "en": "Start your day here, easily accessible from Schiedam Centrum station.",
+            "nl": "Begin je dag hier, eenvoudig bereikbaar vanaf station Schiedam Centrum."
           }
         },
         {
@@ -1815,7 +1966,8 @@
             "de": "Theater aan de Schie",
             "hu": "Theater aan de Schie",
             "ro": "Teatrul aan de Schie",
-            "en": "Theater aan de Schie"
+            "en": "Theater aan de Schie",
+            "nl": "Theater aan de Schie"
           },
           "coords": [
             4.4,
@@ -1831,7 +1983,8 @@
             "de": "Ein Spaziergang durch den Park führt Sie von den Ruinen zum Theater.",
             "hu": "Egy séta a parkon keresztül vezet a romoktól a színházig.",
             "ro": "O plimbare prin parc vă duce de la ruine la teatru.",
-            "en": "A walk through the park takes you from the ruins to the theatre."
+            "en": "A walk through the park takes you from the ruins to the theatre.",
+            "nl": "Een wandeling door het park brengt je van de ruïnes naar het theater."
           }
         },
         {
@@ -1839,7 +1992,8 @@
             "de": "Grote oder St. Janskerk",
             "hu": "Szent János-templom (Grote Kerk)",
             "ro": "Biserica Sf. Ioan (Grote Kerk)",
-            "en": "St. John's Church (Grote Kerk)"
+            "en": "St. John's Church (Grote Kerk)",
+            "nl": "Sint-Janskerk (Grote Kerk)"
           },
           "coords": [
             4.396,
@@ -1855,7 +2009,8 @@
             "de": "Nehmen Sie einen Bus oder eine Straßenbahn ins Herz der Stadt; die Haltestelle ist nur wenige Schritte entfernt.",
             "hu": "Menjen busszal vagy villamossal a város szívébe; a megálló csak néhány lépésre van.",
             "ro": "Luați un autobuz sau un tramvai spre inima orașului; stația este la doar câțiva pași.",
-            "en": "Take a bus or tram into the heart of the city; the stop is just steps away."
+            "en": "Take a bus or tram into the heart of the city; the stop is just steps away.",
+            "nl": "Neem de bus of tram naar het centrum; de halte is slechts een paar stappen verwijderd."
           }
         },
         {
@@ -1863,7 +2018,8 @@
             "de": "Nationales Jenevermuseum",
             "hu": "Nemzeti Jenever Múzeum",
             "ro": "Muzeul Național al Jeneverului",
-            "en": "National Jenever Museum"
+            "en": "National Jenever Museum",
+            "nl": "Nationaal Jenevermuseum"
           },
           "coords": [
             4.3948,
@@ -1879,7 +2035,8 @@
             "de": "Nach dem Kirchenbesuch ist es nur ein kurzer Spaziergang durch die historischen Gassen.",
             "hu": "A templomlátogatás után csak egy rövid séta a történelmi utcákon keresztül.",
             "ro": "După vizitarea bisericii, este doar o scurtă plimbare pe străduțele istorice.",
-            "en": "After visiting the church, it's just a short walk through the historic alleys."
+            "en": "After visiting the church, it's just a short walk through the historic alleys.",
+            "nl": "Na het bezoek aan de kerk is het slechts een korte wandeling door de historische steegjes."
           }
         },
         {
@@ -1887,7 +2044,8 @@
             "de": "Windmühle De Walvisch",
             "hu": "De Walvisch szélmalom",
             "ro": "Moara de vânt De Walvisch",
-            "en": "De Walvisch Windmill"
+            "en": "De Walvisch Windmill",
+            "nl": "De Walvisch Molen"
           },
           "coords": [
             4.392,
@@ -1903,7 +2061,8 @@
             "de": "Schlendern Sie am Kanal entlang, um diese berühmte Windmühle zu erreichen.",
             "hu": "Sétáljon a csatorna mentén, hogy elérje ezt a híres szélmalmot.",
             "ro": "Plimbați-vă de-a lungul canalului pentru a ajunge la această faimoasă moară de vânt.",
-            "en": "Stroll along the canal to reach this famous windmill."
+            "en": "Stroll along the canal to reach this famous windmill.",
+            "nl": "Wandel langs het kanaal om deze beroemde molen te bereiken."
           }
         },
         {
@@ -1911,7 +2070,8 @@
             "de": "Havenpark",
             "hu": "Havenpark",
             "ro": "Parcul Haven",
-            "en": "Havenpark"
+            "en": "Havenpark",
+            "nl": "Havenpark"
           },
           "coords": [
             4.405,
@@ -1927,7 +2087,8 @@
             "de": "Ein schöner Ort, um Ihren Tag ausklingen zu lassen, bevor Sie die öffentlichen Verkehrsmittel zurück nehmen.",
             "hu": "Szép hely a nap befejezéséhez, mielőtt visszamenne a tömegközlekedéssel.",
             "ro": "Un loc frumos pentru a vă încheia ziua înainte de a lua transportul public înapoi.",
-            "en": "A lovely place to end your day before taking public transport back."
+            "en": "A lovely place to end your day before taking public transport back.",
+            "nl": "Een heerlijke plek om je dag te eindigen voordat je het openbaar vervoer terug neemt."
           }
         }
       ],
@@ -1935,7 +2096,8 @@
         "de": "Nutzen Sie die hervorragenden öffentlichen Verkehrsmittel, um Ihren Tag in Schiedam zu beginnen. Vom Bahnhof aus spazieren Sie zu den Ruinen von Huis te Riviere. Eine kurze Bus- oder Straßenbahnfahrt bringt Sie am Vormittag ins Herz der Stadt. Verbringen Sie den Mittag damit, die historischen Sehenswürdigkeiten rund um die Grote Kerk zu Fuß zu erkunden. Der Nachmittag ist einem Spaziergang entlang der Kanäle und Windmühlen gewidmet, der im Havenpark endet. Von hier aus ist es einfach, wieder eine Verbindung zu finden, um Ihre Reise fortzusetzen.",
         "hu": "Használja ki a kiváló tömegközlekedést, hogy elkezdje a schiedami napját. Az állomástól sétáljon el a Huis te Riviere romjaihoz. Egy rövid busz- vagy villamosút a délelőtt folyamán a város szívébe viszi. Töltse a délt a Grote Kerk körüli történelmi látnivalók gyalogos felfedezésével. A délután a csatornák és szélmalmok menti sétáról szól, amely a Havenparkban ér véget. Innen könnyen talál csatlakozást az utazás folytatásához.",
         "ro": "Folosiți excelentul transport public pentru a vă începe ziua în Schiedam. De la gară, plimbați-vă până la ruinele Huis te Riviere. O scurtă călătorie cu autobuzul sau tramvaiul vă va duce în inima orașului în timpul dimineții. Petreceți prânzul explorând pe jos atracțiile istorice din jurul Grote Kerk. După-amiaza este dedicată unei plimbări de-a lungul canalelor și morilor de vânt, terminând în Havenpark. De aici este ușor să găsiți o legătură pentru a vă continua călătoria.",
-        "en": "Use the excellent public transport to start your day in Schiedam. From the station, walk to the ruins of Huis te Riviere. A short bus or tram ride takes you into the heart of the city in the morning. Spend midday exploring the historic sights around the Grote Kerk on foot. The afternoon is dedicated to a walk along the canals and windmills, ending in Havenpark. From here, it's easy to find a connection to continue your journey."
+        "en": "Use the excellent public transport to start your day in Schiedam. From the station, walk to the ruins of Huis te Riviere. A short bus or tram ride takes you into the heart of the city in the morning. Spend midday exploring the historic sights around the Grote Kerk on foot. The afternoon is dedicated to a walk along the canals and windmills, ending in Havenpark. From here, it's easy to find a connection to continue your journey.",
+        "nl": "Gebruik het uitstekende openbaar vervoer om je dag in Schiedam te beginnen. Vanaf het station loop je naar de ruïnes van Huis te Riviere. Een korte bus- of tramrit brengt je ’s ochtends naar het stadscentrum. Breng de middag door met het te voet verkennen van de historische bezienswaardigheden rond de Grote Kerk. De middag is gereserveerd voor een wandeling langs de grachten en windmolens, met als afsluiting Havenpark. Vanaf hier is het eenvoudig een verbinding te vinden om je reis te vervolgen."
       },
       "gastro_picks": {
         "de": [
@@ -2147,6 +2309,12 @@
           "Plan your trips using an app like 9292 for real-time information.",
           "Note that buses and trams often do not run directly in the oldest part of the center.",
           "Validate your ticket when getting on and off to avoid fines."
+        ],
+        "nl": [
+          "Koop een OV-chipkaart of een dagkaart voor onbeperkt reizen.",
+          "Plan je reizen met een app zoals 9292 voor realtime informatie.",
+          "Let op: bussen en trams rijden vaak niet direct in het oudste deel van het centrum.",
+          "Valideer je kaartje bij in- en uitstappen om boetes te voorkomen."
         ]
       },
       "variants": {
@@ -2155,7 +2323,8 @@
             "de": "Mit Bus und Bahn durch Schiedam: Wir starten an der Schlossruine und fahren zum Theater. Die Grote Kerk ist ein kurzer Sprint von der Haltestelle entfernt. Den Mittag verbringen wir im Jenevermuseum und dem Stedelijk Museum, beide gut erreichbar. Die Windmühlen bewundern wir zwischen den Schauern, bevor wir bequem mit dem Bus zum Havenpark fahren.",
             "hu": "Busszal és villamossal Schiedamban: a várromoktól indulunk, majd a színházhoz utazunk. A Grote Kerk csak egy rövid sprintre van a megállótól. A délutánt a Jenever és a Stedelijk Múzeumban töltjük, mindkettő jól megközelíthető. A malmokat két zápor között csodáljuk meg, majd kényelmesen a Havenparkhoz buszozunk.",
             "ro": "Cu autobuzul și tramvaiul prin Schiedam: începem la ruinele castelului și mergem spre teatru. Grote Kerk este la un scurt sprint de stație. Petrecem prânzul la Muzeul Jenever și Stedelijk, ambele ușor accesibile. Admirăm morile între averse, apoi mergem confortabil cu autobuzul spre Havenpark.",
-            "en": "By bus and tram through Schiedam: start at the castle ruins and travel to the theater. Grote Kerk is just a short sprint from the stop. Spend the afternoon at the Jenever and Stedelijk Museums, both easily accessible. Admire the windmills between showers, then travel comfortably by bus to Havenpark."
+            "en": "By bus and tram through Schiedam: start at the castle ruins and travel to the theater. Grote Kerk is just a short sprint from the stop. Spend the afternoon at the Jenever and Stedelijk Museums, both easily accessible. Admire the windmills between showers, then travel comfortably by bus to Havenpark.",
+            "nl": "Per bus en tram door Schiedam: begin bij de kasteelruïnes en reis naar het theater. De Grote Kerk is slechts een korte sprint vanaf de halte. Breng de middag door in het Jenever- en Stedelijk Museum, beide gemakkelijk bereikbaar. Bewonder de molens tussen de buien door, en reis vervolgens comfortabel per bus naar Havenpark."
           },
           "stops": [
             {
@@ -2164,7 +2333,8 @@
                 "de": "Die Haltestelle bietet ein kleines Dach zum Warten.",
                 "hu": "A megálló egy kis tetővel védi a várakozókat.",
                 "ro": "Stația are un mic acoperiș pentru așteptare.",
-                "en": "The stop has a small roof for shelter while waiting."
+                "en": "The stop has a small roof for shelter while waiting.",
+                "nl": "De halte heeft een klein dak voor beschutting tijdens het wachten."
               }
             },
             {
@@ -2173,7 +2343,8 @@
                 "de": "Haltestelle direkt vor dem modernen Gebäude.",
                 "hu": "A megálló közvetlenül a modern épület előtt van.",
                 "ro": "Stația se află chiar în fața clădirii moderne.",
-                "en": "The stop is located right in front of the building."
+                "en": "The stop is located right in front of the building.",
+                "nl": "De halte bevindt zich recht voor het gebouw."
               }
             },
             {
@@ -2182,7 +2353,8 @@
                 "de": "Vom Bahnhof Schiedam Centrum gut zu erreichen.",
                 "hu": "A Schiedam Centrum állomástól könnyen elérhető.",
                 "ro": "Ușor de ajuns de la gara Schiedam Centrum.",
-                "en": "Easy to reach from Schiedam Centrum station."
+                "en": "Easy to reach from Schiedam Centrum station.",
+                "nl": "Makkelijk bereikbaar vanaf station Schiedam Centrum."
               }
             },
             {
@@ -2191,7 +2363,8 @@
                 "de": "Mehrere Buslinien halten in der Nähe des Kanals.",
                 "hu": "Számos buszjárat megáll a csatorna közelében.",
                 "ro": "Mai multe linii de autobuz opresc lângă canal.",
-                "en": "Several bus lines stop close to the canal area."
+                "en": "Several bus lines stop close to the canal area.",
+                "nl": "Verschillende buslijnen stoppen dicht bij het kanaalgebied."
               }
             },
             {
@@ -2200,7 +2373,8 @@
                 "de": "Ein kleiner Spaziergang im Regen ist unvermeidlich.",
                 "hu": "Egy kis séta az esőben elkerülhetetlen ide.",
                 "ro": "O scurtă plimbare prin ploaie este inevitabilă.",
-                "en": "A short walk in the rain is unavoidable here."
+                "en": "A short walk in the rain is unavoidable here.",
+                "nl": "Hier ontkom je niet aan een korte wandeling in de regen."
               }
             },
             {
@@ -2209,7 +2383,8 @@
                 "de": "Die letzte Haltestelle für einen warmen Kaffee.",
                 "hu": "Az utolsó megálló egy meleg kávé közelében.",
                 "ro": "Ultima stație lângă o cafenea primitoare.",
-                "en": "The last stop near a warm and cozy cafe."
+                "en": "The last stop near a warm and cozy cafe.",
+                "nl": "De laatste halte in de buurt van een warm en gezellig café."
               }
             }
           ],
@@ -2241,6 +2416,13 @@
               "Watch out for wet, slippery floors inside vehicles.",
               "Transferring at Schiedam Centrum station is easy.",
               "Keep your OV-chipkaart or bank card ready for check-in."
+            ],
+            "nl": [
+              "Gebruik de '9292' app voor realtime reisinfo.",
+              "Bussen en trams zijn van binnen droog en warm.",
+              "Let op natte, gladde vloeren in voertuigen.",
+              "Overstappen op station Schiedam Centrum is eenvoudig.",
+              "Houd je OV-chipkaart of bankpas gereed voor inchecken."
             ]
           }
         },
@@ -2249,7 +2431,8 @@
             "de": "Schiedam im Winter mit dem ÖPNV: Wir starten an den Schlossruinen und fahren zum warmen Theater-Foyer. Die Grote Kerk bietet einen friedlichen Rückzugsort vor dem kalten Wind. Mittags erkunden wir das Jenevermuseum. Die Windmühlen sehen im Winterlicht fantastisch aus, bevor wir uns im Stedelijk Museum aufwärmen. Den Tag beenden wir am Havenpark bei stimmungsvoller Abendbeleuchtung.",
             "hu": "Schiedam télen tömegközlekedéssel: a várromoktól indulunk a meleg színházi előcsarnokba. A Grote Kerk békés menedéket nyújt a hideg szél elől. Délben a Jenever Múzeumot fedezzük fel. A malmok fantasztikusan mutatnak a téli fényben, mielőtt a Stedelijk Múzeumban felmelegednénk. A napot a Havenparknál zárjuk az esti fényekben.",
             "ro": "Schiedam iarna cu transportul public: pornim de la ruinele castelului spre foaierul cald al teatrului. Grote Kerk oferă un refugiu liniștit împotriva vântului rece. La prânz explorăm Muzeul Jenever. Morile arată fantastic în lumina iernii, înainte de a ne încălzi la Muzeul Stedelijk. Încheiem ziua la Havenpark sub luminile serii.",
-            "en": "Winter in Schiedam by public transport: start at the castle ruins and head to the warm theater foyer. Grote Kerk provides a peaceful retreat from the cold wind. Explore the Jenever Museum at noon. The windmills look fantastic in the winter light before warming up at the Stedelijk Museum. End the day at Havenpark under the evening lights."
+            "en": "Winter in Schiedam by public transport: start at the castle ruins and head to the warm theater foyer. Grote Kerk provides a peaceful retreat from the cold wind. Explore the Jenever Museum at noon. The windmills look fantastic in the winter light before warming up at the Stedelijk Museum. End the day at Havenpark under the evening lights.",
+            "nl": "Winter in Schiedam met het openbaar vervoer: begin bij de kasteelruïnes en ga naar de warme foyer van het theater. De Grote Kerk biedt een rustige schuilplaats tegen de koude wind. Verken het Jenevermuseum op het middaguur. De molens zien er fantastisch uit in het winterlicht voordat je opwarmt in het Stedelijk Museum. Sluit de dag af in Havenpark onder de avondverlichting."
           },
           "stops": [
             {
@@ -2258,7 +2441,8 @@
                 "de": "Warten Sie lieber in der Nähe im Warmen.",
                 "hu": "Várjon inkább a közelben, valamilyen meleg helyen.",
                 "ro": "Mai bine așteptați undeva la căldură în apropiere.",
-                "en": "Better to wait somewhere warm nearby if possible."
+                "en": "Better to wait somewhere warm nearby if possible.",
+                "nl": "Beter om indien mogelijk ergens warm te wachten."
               }
             },
             {
@@ -2267,7 +2451,8 @@
                 "de": "Das beheizte Foyer ist ein Segen im Winter.",
                 "hu": "A fűtött előcsarnok igazi áldás a téli hidegben.",
                 "ro": "Foaierul încălzit este o binecuvântare iarna.",
-                "en": "The heated foyer is a blessing in the winter cold."
+                "en": "The heated foyer is a blessing in the winter cold.",
+                "nl": "De verwarmde foyer is een zegen in de winterkou."
               }
             },
             {
@@ -2276,7 +2461,8 @@
                 "de": "Die massiven Mauern halten die Kälte draußen.",
                 "hu": "A vastag falak jól kint tartják a téli hideget.",
                 "ro": "Zidurile masive țin frigul de afară la distanță.",
-                "en": "The massive walls keep the winter cold outside."
+                "en": "The massive walls keep the winter cold outside.",
+                "nl": "De massieve muren houden de winterkou buiten."
               }
             },
             {
@@ -2285,7 +2471,8 @@
                 "de": "Kurzer Fußweg von der Bushaltestelle aus.",
                 "hu": "Csak egy rövid séta a buszmegállótól.",
                 "ro": "O scurtă plimbare de la stația de autobuz.",
-                "en": "Only a short walk from the bus stop."
+                "en": "Only a short walk from the bus stop.",
+                "nl": "Slechts een korte wandeling vanaf de bushalte."
               }
             },
             {
@@ -2294,7 +2481,8 @@
                 "de": "Die Treppen in der Mühle können eiskalt sein.",
                 "hu": "A malom lépcsői jéghidegek lehetnek télen.",
                 "ro": "Scările din moară pot fi extrem de reci.",
-                "en": "The stairs inside the mill can be ice cold."
+                "en": "The stairs inside the mill can be ice cold.",
+                "nl": "De trappen binnenin de molen kunnen ijskoud zijn."
               }
             },
             {
@@ -2303,7 +2491,8 @@
                 "de": "Busse fahren regelmäßig zurück zum Hauptbahnhof.",
                 "hu": "A buszok rendszeresen járnak vissza a főpályaudvarra.",
                 "ro": "Autobuzele circulă regulat spre gara centrală.",
-                "en": "Buses run regularly back to the main station."
+                "en": "Buses run regularly back to the main station.",
+                "nl": "Bussen rijden regelmatig terug naar het hoofdstation."
               }
             }
           ],
@@ -2335,6 +2524,13 @@
               "Keep moving while waiting at the stops to stay warm.",
               "Use major stations as warming stations.",
               "The evening lights seen from the tram are very charming."
+            ],
+            "nl": [
+              "Dienstregelingen kunnen iets afwijken bij sneeuw.",
+              "Voertuigen zijn meestal aangenaam verwarmd van binnen.",
+              "Blijf in beweging terwijl je bij de haltes wacht om warm te blijven.",
+              "Gebruik grote stations als verwarmingsplekken.",
+              "De avondverlichting gezien vanuit de tram is erg charmant."
             ]
           }
         }

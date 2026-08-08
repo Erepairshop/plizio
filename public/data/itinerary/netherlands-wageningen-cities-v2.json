@@ -21,7 +21,8 @@
             "de": "Grote Kerk",
             "hu": "Grote Kerk (Nagy Templom)",
             "ro": "Grote Kerk (Biserica Mare)",
-            "en": "Grote Kerk (Great Church)"
+            "en": "Grote Kerk (Great Church)",
+            "nl": "Grote Kerk"
           },
           "coords": [
             5.666,
@@ -37,7 +38,8 @@
             "de": "Beachten Sie die beeindruckende Orgel und die oft stattfindenden Konzerte.",
             "hu": "Figyelje meg a lenyűgöző orgonát és a gyakran tartott koncerteket.",
             "ro": "Observați orga impresionantă și concertele care au loc frecvent aici.",
-            "en": "Note the impressive organ and the frequent concerts held here."
+            "en": "Note the impressive organ and the frequent concerts held here.",
+            "nl": "Let op het indrukwekkende orgel en de frequente concerten die hier worden gehouden."
           }
         },
         {
@@ -45,7 +47,8 @@
             "de": "Hotel de Wereld",
             "hu": "Hotel de Wereld",
             "ro": "Hotel de Wereld",
-            "en": "Hotel de Wereld"
+            "en": "Hotel de Wereld",
+            "nl": "Hotel de Wereld"
           },
           "coords": [
             5.668,
@@ -61,7 +64,8 @@
             "de": "Sehen Sie sich die Gedenktafel an, die an die Kapitulation der deutschen Truppen 1945 erinnert.",
             "hu": "Nézze meg az emléktáblát, amely a német csapatok 1945-ös kapitulációjára emlékeztet.",
             "ro": "Priviți placa comemorativă ce amintește de capitularea trupelor germane în 1945.",
-            "en": "See the plaque commemorating the surrender of German troops in 1945."
+            "en": "See the plaque commemorating the surrender of German troops in 1945.",
+            "nl": "Bekijk de plaquette ter herdenking van de overgave van Duitse troepen in 1945."
           }
         },
         {
@@ -69,7 +73,8 @@
             "de": "Museum de Casteelse Poort",
             "hu": "Casteelse Poort Múzeum",
             "ro": "Muzeul de Casteelse Poort",
-            "en": "Museum de Casteelse Poort"
+            "en": "Museum de Casteelse Poort",
+            "nl": "Museum de Casteelse Poort"
           },
           "coords": [
             5.665,
@@ -85,7 +90,8 @@
             "de": "Konzentrieren Sie sich auf die Ausstellungen zur Stadtgeschichte und zur Universität.",
             "hu": "Koncentráljon a város és az egyetem történetével kapcsolatos kiállításokra.",
             "ro": "Concentrați-vă pe expozițiile despre istoria orașului și a universității.",
-            "en": "Focus on the exhibitions about the city's history and the university."
+            "en": "Focus on the exhibitions about the city's history and the university.",
+            "nl": "Richt u op de tentoonstellingen over de geschiedenis van de stad en de universiteit."
           }
         },
         {
@@ -93,7 +99,8 @@
             "de": "Rijnhaven",
             "hu": "Rijnhaven (Rajna-kikötő)",
             "ro": "Rijnhaven (Portul Rinului)",
-            "en": "Rijnhaven (Rhine Harbor)"
+            "en": "Rijnhaven (Rhine Harbor)",
+            "nl": "Rijnhaven"
           },
           "coords": [
             5.672,
@@ -109,7 +116,8 @@
             "de": "Ein perfekter Ort für ein Mittagessen mit Blick auf die vorbeiziehenden Schiffe.",
             "hu": "Tökéletes hely egy ebédhez, kilátással az elhaladó hajókra.",
             "ro": "Un loc perfect pentru prânz, cu vedere la navele care trec.",
-            "en": "A perfect spot for lunch with a view of the passing ships."
+            "en": "A perfect spot for lunch with a view of the passing ships.",
+            "nl": "Een perfecte plek voor de lunch met uitzicht op voorbijvarende schepen."
           }
         },
         {
@@ -117,7 +125,8 @@
             "de": "Uiterwaarden",
             "hu": "Uiterwaarden (Ártér)",
             "ro": "Uiterwaarden (Lunca inundabilă)",
-            "en": "Uiterwaarden (Floodplains)"
+            "en": "Uiterwaarden (Floodplains)",
+            "nl": "Uiterwaarden"
           },
           "coords": [
             5.678,
@@ -133,7 +142,8 @@
             "de": "Halten Sie Ausschau nach den wilden Pferden und Rindern, die hier grasen.",
             "hu": "Keresse a vadlovakat és szarvasmarhákat, amelyek itt legelnek.",
             "ro": "Fiți atenți la caii și vitele sălbatice care pasc aici.",
-            "en": "Look out for the wild horses and cattle that graze here."
+            "en": "Look out for the wild horses and cattle that graze here.",
+            "nl": "Houd uw ogen open voor de wilde paarden en runderen die hier grazen."
           }
         },
         {
@@ -141,7 +151,8 @@
             "de": "Belmonte Arboretum",
             "hu": "Belmonte Arborétum",
             "ro": "Arboretul Belmonte",
-            "en": "Belmonte Arboretum"
+            "en": "Belmonte Arboretum",
+            "nl": "Belmonte Arboretum"
           },
           "coords": [
             5.685,
@@ -157,7 +168,8 @@
             "de": "Besuchen Sie im Frühling die Rhododendron-Sammlung, wenn sie in voller Blüte steht.",
             "hu": "Tavasszal látogasson el a rododendron-gyűjteményhez, amikor teljes virágzásban van.",
             "ro": "Vizitați colecția de rododendroni primăvara, când este în plină floare.",
-            "en": "Visit in spring to see the rhododendron collection in full bloom."
+            "en": "Visit in spring to see the rhododendron collection in full bloom.",
+            "nl": "Bezoek in het voorjaar om de rododendroncollectie in volle bloei te zien."
           }
         }
       ],
@@ -165,7 +177,8 @@
         "de": "Ihr Tag in Wageningen beginnt im historischen Herzen mit der Grote Kerk und dem geschichtsträchtigen Hotel de Wereld. Die Luft ist erfüllt vom Geist der Geschichte. Nach einem Vormittag voller Kultur im Museum de Casteelse Poort spazieren Sie gemütlich zum Rijnhaven, um das Leben am Wasser zu genießen und zu Mittag zu essen. Der Nachmittag gehört der Natur: Sie erkunden die weitläufigen Uiterwaarden, die Auenlandschaft des Rheins, und beobachten die Tierwelt. Zum Abschluss finden Sie Ruhe und Schönheit im Belmonte Arboretum, wo Sie den Tag zwischen exotischen Bäumen ausklingen lassen.",
         "hu": "Wageningeni napja a történelmi szívben indul a Grote Kerk és a történelmi jelentőségű Hotel de Wereld meglátogatásával. A levegőt áthatja a történelem szelleme. A Casteelse Poort múzeumban eltöltött kulturális délelőtt után kényelmesen lesétál a Rajna-kikötőbe, hogy élvezze a vízparti életet és megebédeljen. A délután a természeté: felfedezi a tágas Uiterwaarden árteret és megfigyeli az állatvilágot. Végül a Belmonte Arborétumban talál nyugalmat és szépséget, ahol egzotikus fák között zárhatja a napot.",
         "ro": "Ziua dvs. în Wageningen începe în inima istorică cu Grote Kerk și istoricul Hotel de Wereld. Aerul este plin de spiritul istoriei. După o dimineață culturală la Muzeul de Casteelse Poort, vă plimbați agale spre portul Rinului pentru a vă bucura de viața de pe malul apei și pentru a lua prânzul. După-amiaza este dedicată naturii: explorați întinsele lunci inundabile Uiterwaarden și observați fauna. La final, găsiți liniște și frumusețe în Arboretul Belmonte, unde încheiați ziua printre copaci exotici.",
-        "en": "Your day in Wageningen begins in the historic heart with the Grote Kerk and the storied Hotel de Wereld. The air is filled with the spirit of history. After a cultural morning at the Museum de Casteelse Poort, you'll take a leisurely stroll to the Rhine harbor to enjoy waterside life and have lunch. The afternoon is for nature: you'll explore the expansive Uiterwaarden floodplains and observe the wildlife. Finally, find peace and beauty at the Belmonte Arboretum, ending your day among exotic trees."
+        "en": "Your day in Wageningen begins in the historic heart with the Grote Kerk and the storied Hotel de Wereld. The air is filled with the spirit of history. After a cultural morning at the Museum de Casteelse Poort, you'll take a leisurely stroll to the Rhine harbor to enjoy waterside life and have lunch. The afternoon is for nature: you'll explore the expansive Uiterwaarden floodplains and observe the wildlife. Finally, find peace and beauty at the Belmonte Arboretum, ending your day among exotic trees.",
+        "nl": "Uw dag in Wageningen begint in het historische hart met de Grote Kerk en het veelbezongen Hotel de Wereld. De lucht is gevuld met de geest van de geschiedenis. Na een culturele ochtend in Museum de Casteelse Poort wandelt u rustig naar de Rijnhaven om van het waterleven te genieten en te lunchen. De middag is voor de natuur: u verkent de uitgestrekte uiterwaarden en observeert de fauna. Tot slot vindt u rust en schoonheid in het Belmonte Arboretum, waar u de dag afsluit tussen exotische bomen."
       },
       "gastro_picks": {
         "de": [
@@ -361,6 +374,12 @@
           "Much of the city center is pedestrianized and best explored on foot.",
           "Bring a reusable water bottle; there are several public drinking fountains.",
           "Check museum opening times in advance as they can vary."
+        ],
+        "nl": [
+          "Draag comfortabele schoenen, u zult veel lopen.",
+          "Grote delen van het centrum zijn autovrij en het beste te voet te verkennen.",
+          "Neem een herbruikbare waterfles mee; er zijn meerdere openbare drinkfonteinen.",
+          "Controleer van tevoren de openingstijden van musea, die kunnen variëren."
         ]
       },
       "variants": {
@@ -369,7 +388,8 @@
             "de": "Der Tag beginnt geschützt in der Grote Kerk, während der Regen gegen die Fenster prasselt. Mittags bietet das Hotel de Wereld und das Museum Casteelse Poort ideale Rückzugsorte für Geschichtsinteressierte. Nachmittags zeigt sich der Rheinhafen in einer melancholischen, nebligen Atmosphäre. Den Abschluss bildet ein kurzer, erfrischender Spaziergang durch das regenfeuchte Arboretum Belmonte.",
             "hu": "A napot a Grote Kerk oltalma alatt kezdjük, miközben kint elered az eső. Délben a Hotel de Wereld és a Casteelse Poort múzeum kínál tökéletes menedéket a történelem kedvelőinek. Délután a rajnai kikötő és az ártér ködös, melankolikus arcát mutatja. A napot egy frissítő séta zárja a Belmonte Arborétum esőáztatta ösvényein, ahol a növények illata ilyenkor a legintenzívevebb.",
             "ro": "Ziua începe la adăpost în Grote Kerk, în timp ce ploaia bate în ferestre. La prânz, Hotel de Wereld și Muzeul Casteelse Poort oferă refugii ideale pentru iubitorii de istorie. După-amiaza, portul de pe Rin și zonele inundabile se dezvăluie într-o atmosferă cețoasă și melancolică. Seara se încheie cu o plimbare scurtă și revigorantă prin Arboretum Belmonte, împrospătat de ploaie.",
-            "en": "The day begins sheltered in the Grote Kerk as the rain starts to fall. At midday, Hotel de Wereld and the Casteelse Poort Museum offer perfect retreats for history buffs. In the afternoon, the Rhine harbor and floodplains show a moody, misty side. The day concludes with a refreshing walk through the rain-soaked Belmonte Arboretum, where the scents of the plants are most intense."
+            "en": "The day begins sheltered in the Grote Kerk as the rain starts to fall. At midday, Hotel de Wereld and the Casteelse Poort Museum offer perfect retreats for history buffs. In the afternoon, the Rhine harbor and floodplains show a moody, misty side. The day concludes with a refreshing walk through the rain-soaked Belmonte Arboretum, where the scents of the plants are most intense.",
+            "nl": "De dag begint beschut in de Grote Kerk terwijl de regen begint te vallen. Rond het middaguur bieden Hotel de Wereld en Museum de Casteelse Poort perfecte toevluchtsoorden voor geschiedenisliefhebbers. In de namiddag tonen de Rijnhaven en de uiterwaarden een sombere, mistige kant. De dag eindigt met een verfrissende wandeling door het doorregen Belmonte Arboretum, waar de geuren van de planten het sterkst zijn."
           },
           "stops": [
             {
@@ -378,7 +398,8 @@
                 "de": "Perfekter trockener Startpunkt im Stadtzentrum.",
                 "hu": "Tökéletes száraz kezdőpont a városközpontban.",
                 "ro": "Punct de plecare uscat în centrul orașului.",
-                "en": "Perfect dry starting point in the city center."
+                "en": "Perfect dry starting point in the city center.",
+                "nl": "Perfect droog startpunt in het stadscentrum."
               }
             },
             {
@@ -387,7 +408,8 @@
                 "de": "Wärmen Sie sich im historischen Café auf.",
                 "hu": "Melegedjen fel a történelmi kávézóban.",
                 "ro": "Încălziți-vă în cafeneaua istorică.",
-                "en": "Warm up in the historic café inside."
+                "en": "Warm up in the historic café inside.",
+                "nl": "Warm op in het historische café binnen."
               }
             },
             {
@@ -396,7 +418,8 @@
                 "de": "Viel Zeit für die Ausstellungen einplanen.",
                 "hu": "Szánjon bőséges időt a benti kiállításokra.",
                 "ro": "Alocați timp suficient pentru expoziții.",
-                "en": "Plan plenty of time for the indoor exhibits."
+                "en": "Plan plenty of time for the indoor exhibits.",
+                "nl": "Plan ruim de tijd voor de binnenexposities."
               }
             },
             {
@@ -405,7 +428,8 @@
                 "de": "Vorsicht vor Pfützen am Uferweg.",
                 "hu": "Vigyázzon a tócsákra a parti úton.",
                 "ro": "Atenție la bălțile de pe poteca de mal.",
-                "en": "Watch out for puddles on the riverside path."
+                "en": "Watch out for puddles on the riverside path.",
+                "nl": "Let op plassen op het rivieroeverpad."
               }
             },
             {
@@ -414,7 +438,8 @@
                 "de": "Feste, wasserdichte Schuhe sind hier Pflicht.",
                 "hu": "Vízálló túrabakancs kötelező ezen a szakaszon.",
                 "ro": "Încălțămintea impermeabilă este obligatorie.",
-                "en": "Waterproof hiking boots are a must here."
+                "en": "Waterproof hiking boots are a must here.",
+                "nl": "Waterdichte wandel- of bergschoenen zijn hier een must."
               }
             },
             {
@@ -423,7 +448,8 @@
                 "de": "Nutzen Sie die dichten Baumkronen als Schutz.",
                 "hu": "Használja a sűrű lombkoronákat esővédőként.",
                 "ro": "Folosiți coronamentul des ca adăpost.",
-                "en": "Use the dense tree canopy for natural cover."
+                "en": "Use the dense tree canopy for natural cover.",
+                "nl": "Gebruik het dichte boomdek als natuurlijke beschutting."
               }
             }
           ],
@@ -451,6 +477,12 @@
               "Floodplain paths can get muddy; stick to the paved sections.",
               "Time your museum visits during the heaviest downpours.",
               "The city center cobblestones can be slippery when wet."
+            ],
+            "nl": [
+              "Een stevige paraplu is onmisbaar tegen de Rijnwinden.",
+              "Uiterwaardenpaden kunnen modderig worden; blijf op de verharde gedeeltes.",
+              "Plan museumbezoeken tijdens de hevigste stortbuien.",
+              "De kasseien in het centrum kunnen nat en glad zijn."
             ]
           }
         },
@@ -459,7 +491,8 @@
             "de": "Die klare Winterluft empfängt Sie am Morgen an der Grote Kerk. Mittags wärmt die geschichtsträchtige Atmosphäre im Hotel de Wereld Herz und Seele. Am Nachmittag bieten die Uiterwaarden weite Blicke über die frostige Flusslandschaft, bevor die Dämmerung das Arboretum in ein magisches Licht taucht. Der Abend endet gemütlich in den beleuchteten Gassen der Universitätsstadt.",
             "hu": "A friss téli levegő fogadja a reggeli órákban a Grote Kerknél. Délben a Hotel de Wereld történelmi falai között melegedhetünk fel. Délután az ártér fagyos, tiszta panorámát kínál a Rajnára, mielőtt az arborétum kopár ágai közt leszállna a korai szürkület. Az este a diákváros kivilágított, hangulatos utcáin ér véget egy forró ital társaságában.",
             "ro": "Aerul proaspăt de iarnă vă întâmpină dimineața la Grote Kerk. La prânz, atmosfera istorică de la Hotel de Wereld vă încălzește sufletul. După-amiaza, zonele inundabile oferă perspective largi asupra peisajului înghețat al râului, înainte ca amurgul să scalde arboretumul într-o lumină magică. Seara se încheie confortabil pe străzile luminate ale orașului universitar.",
-            "en": "Crisp winter air greets you in the morning at the Grote Kerk. At midday, the historic atmosphere at Hotel de Wereld warms the soul. In the afternoon, the floodplains offer wide views over the frosty river landscape before dusk casts a magical light over the arboretum. The evening ends cozily in the illuminated streets of this university town."
+            "en": "Crisp winter air greets you in the morning at the Grote Kerk. At midday, the historic atmosphere at Hotel de Wereld warms the soul. In the afternoon, the floodplains offer wide views over the frosty river landscape before dusk casts a magical light over the arboretum. The evening ends cozily in the illuminated streets of this university town.",
+            "nl": "Koude, frisse winterlucht begroet je 's ochtends bij de Grote Kerk. Rond het middaguur verwarmt de historische sfeer van Hotel de Wereld de ziel. In de middag bieden de uiterwaarden brede uitzichten over het rijzige, bevroren rivierenlandschap voordat de schemering een magisch licht over het arboretum werpt. De avond eindigt gezellig in de verlichte straten van deze universiteitsstad."
           },
           "stops": [
             {
@@ -468,7 +501,8 @@
                 "de": "Bewundern Sie die Winterbeleuchtung am Platz.",
                 "hu": "Csodálja meg a főtér téli kivilágítását.",
                 "ro": "Admirați iluminatul de iarnă din piață.",
-                "en": "Admire the winter lighting in the square."
+                "en": "Admire the winter lighting in the square.",
+                "nl": "Bewonder de winterverlichting op het plein."
               }
             },
             {
@@ -477,7 +511,8 @@
                 "de": "Ein heißer Kakao im Kaminzimmer wirkt Wunder.",
                 "hu": "Egy forró kakaó a kandalló mellett csodákra képes.",
                 "ro": "O ciocolată caldă lângă șemineu face minuni.",
-                "en": "A hot cocoa by the fireplace works wonders."
+                "en": "A hot cocoa by the fireplace works wonders.",
+                "nl": "Een warme chocolademelk bij het haardvuur doet wonderen."
               }
             },
             {
@@ -486,7 +521,8 @@
                 "de": "Angenehm geheizte Räume voller Geschichte.",
                 "hu": "Kellemesen fűtött termek, tele történelemmel.",
                 "ro": "Săli încălzite plăcut, pline de istorie.",
-                "en": "Pleasantly heated rooms full of history."
+                "en": "Pleasantly heated rooms full of history.",
+                "nl": "Aangenaam verwarmde kamers vol geschiedenis."
               }
             },
             {
@@ -495,7 +531,8 @@
                 "de": "Der Wind vom Wasser ist hier besonders eisig.",
                 "hu": "A víz felől fújó szél itt különösen jeges.",
                 "ro": "Vântul de pe apă este deosebit de rece aici.",
-                "en": "The wind from the water is especially icy here."
+                "en": "The wind from the water is especially icy here.",
+                "nl": "De wind vanaf het water is hier extra ijzig."
               }
             },
             {
@@ -504,7 +541,8 @@
                 "de": "Wunderschöne Raureif-Landschaft bei Frost.",
                 "hu": "Gyönyörű zúzmarás táj fagyos időben.",
                 "ro": "Peisaj superb cu chiciură în zilele de ger.",
-                "en": "Beautiful rime frost landscape in freezing weather."
+                "en": "Beautiful rime frost landscape in freezing weather.",
+                "nl": "Prachtig rijp- en ijslandschap bij strenge vorst."
               }
             },
             {
@@ -513,7 +551,8 @@
                 "de": "Bester Panoramablick vor Sonnenuntergang um 17:00.",
                 "hu": "A legjobb panoráma naplemente előtt, 17:00-kor.",
                 "ro": "Cea mai bună panoramă înainte de apus, la ora 17.",
-                "en": "Best panoramic view before sunset at 17:00."
+                "en": "Best panoramic view before sunset at 17:00.",
+                "nl": "Beste panorama vóór zonsondergang om 17:00."
               }
             }
           ],
@@ -541,6 +580,12 @@
               "The sun sets as early as 16:30 in the winter months.",
               "Arboretum paths can be slippery in freezing conditions.",
               "Many city center cafes offer seasonal specialties."
+            ],
+            "nl": [
+              "Draag meerdere lagen en winddichte buitenkleding.",
+              "De zon zakt al om 16:30 in de wintermaanden.",
+              "Arboretumpaden kunnen glad zijn bij ijzelachtige omstandigheden.",
+              "Veel cafés in het centrum bieden seizoensspecialiteiten."
             ]
           }
         }
@@ -559,7 +604,8 @@
             "de": "Hotel de Wereld",
             "hu": "Hotel de Wereld",
             "ro": "Hotel de Wereld",
-            "en": "Hotel de Wereld"
+            "en": "Hotel de Wereld",
+            "nl": "Hotel de Wereld"
           },
           "coords": [
             5.668,
@@ -575,7 +621,8 @@
             "de": "Beginnen Sie Ihren Tag an diesem Symbol des Friedens und der Freiheit.",
             "hu": "Kezdje a napot a béke és szabadság ezen szimbólumánál.",
             "ro": "Începeți-vă ziua la acest simbol al păcii și libertății.",
-            "en": "Start your day at this symbol of peace and freedom."
+            "en": "Start your day at this symbol of peace and freedom.",
+            "nl": "Begin je dag bij dit symbool van vrede en vrijheid."
           }
         },
         {
@@ -583,7 +630,8 @@
             "de": "Grote Kerk",
             "hu": "Grote Kerk",
             "ro": "Grote Kerk",
-            "en": "Grote Kerk"
+            "en": "Grote Kerk",
+            "nl": "Grote Kerk"
           },
           "coords": [
             5.666,
@@ -599,7 +647,8 @@
             "de": "Stellen Sie Ihr Fahrrad ab und bewundern Sie die Architektur dieses zentralen Wahrzeichens.",
             "hu": "Tegye le a biciklit, és csodálja meg e központi nevezetesség építészetét.",
             "ro": "Parcați bicicleta și admirați arhitectura acestui punct de reper central.",
-            "en": "Park your bike and admire the architecture of this central landmark."
+            "en": "Park your bike and admire the architecture of this central landmark.",
+            "nl": "Zet je fiets neer en bewonder de architectuur van dit centrale herkenningspunt."
           }
         },
         {
@@ -607,7 +656,8 @@
             "de": "Rijnhaven",
             "hu": "Rijnhaven",
             "ro": "Rijnhaven",
-            "en": "Rijnhaven"
+            "en": "Rijnhaven",
+            "nl": "Rijnhaven"
           },
           "coords": [
             5.672,
@@ -623,7 +673,8 @@
             "de": "Eine angenehme Fahrt entlang des Deichs führt Sie direkt zum Hafen.",
             "hu": "Egy kellemes tekerés a gáton egyenesen a kikötőbe visz.",
             "ro": "O plimbare plăcută pe dig vă duce direct la port.",
-            "en": "A pleasant ride along the dike will take you straight to the harbor."
+            "en": "A pleasant ride along the dike will take you straight to the harbor.",
+            "nl": "Een prettige rit langs de dijk brengt je rechtstreeks naar de haven."
           }
         },
         {
@@ -631,7 +682,8 @@
             "de": "Uiterwaarden",
             "hu": "Uiterwaarden",
             "ro": "Uiterwaarden",
-            "en": "Uiterwaarden"
+            "en": "Uiterwaarden",
+            "nl": "Uiterwaarden"
           },
           "coords": [
             5.685,
@@ -647,7 +699,8 @@
             "de": "Nehmen Sie sich Zeit für eine Mittagspause und genießen Sie die offene Landschaft.",
             "hu": "Szánjon időt egy ebédszünetre, és élvezze a nyílt tájat.",
             "ro": "Luați-vă timp pentru o pauză de prânz și bucurați-vă de peisajul deschis.",
-            "en": "Take time for a lunch break and enjoy the open landscape."
+            "en": "Take time for a lunch break and enjoy the open landscape.",
+            "nl": "Neem tijd voor een lunchpauze en geniet van het open landschap."
           }
         },
         {
@@ -655,7 +708,8 @@
             "de": "Belmonte Arboretum",
             "hu": "Belmonte Arborétum",
             "ro": "Arboretul Belmonte",
-            "en": "Belmonte Arboretum"
+            "en": "Belmonte Arboretum",
+            "nl": "Belmonte Arboretum"
           },
           "coords": [
             5.685,
@@ -671,7 +725,8 @@
             "de": "Der Anstieg zum Arboretum lohnt sich für die Aussicht und die Pflanzensammlung.",
             "hu": "Megéri feltekerni az arborétumhoz a kilátásért és a növénygyűjteményért.",
             "ro": "Urcarea la arboret merită pentru priveliște și colecția de plante.",
-            "en": "The climb up to the arboretum is worth it for the views and the plant collection."
+            "en": "The climb up to the arboretum is worth it for the views and the plant collection.",
+            "nl": "De klim naar het arboretum is de moeite waard voor het uitzicht en de plantencollectie."
           }
         },
         {
@@ -679,7 +734,8 @@
             "de": "Botanische Tuinen Wageningen",
             "hu": "Wageningeni Botanikus Kert",
             "ro": "Grădinile Botanice Wageningen",
-            "en": "Botanical Gardens Wageningen"
+            "en": "Botanical Gardens Wageningen",
+            "nl": "Botanische Tuinen Wageningen"
           },
           "coords": [
             5.68,
@@ -695,7 +751,8 @@
             "de": "Eine kurze Fahrt vom Arboretum entfernt, entdecken Sie hier eine andere Art von Gartenbaukunst.",
             "hu": "Csak egy rövid útra az arborétumtól, itt a kertészet egy másik fajtáját fedezheti fel.",
             "ro": "La o scurtă plimbare de arboret, descoperiți aici un alt tip de artă horticolă.",
-            "en": "A short ride from the arboretum, discover a different kind of horticultural art here."
+            "en": "A short ride from the arboretum, discover a different kind of horticultural art here.",
+            "nl": "Een korte rit vanaf het arboretum; ontdek hier een andere vorm van tuinbouwkunst."
           }
         },
         {
@@ -703,7 +760,8 @@
             "de": "Wagenings Wijngoed",
             "hu": "Wageningeni Borászat",
             "ro": "Crama Wageningen",
-            "en": "Wageningen Vineyard"
+            "en": "Wageningen Vineyard",
+            "nl": "Wageningen Wijngaard"
           },
           "coords": [
             5.695,
@@ -719,7 +777,8 @@
             "de": "Beenden Sie Ihre Radtour mit einer Weinprobe der lokalen Weine.",
             "hu": "Zárja a kerékpártúrát a helyi borok kóstolójával.",
             "ro": "Încheiați turul cu bicicleta cu o degustare a vinurilor locale.",
-            "en": "End your bike tour with a tasting of the local wines."
+            "en": "End your bike tour with a tasting of the local wines.",
+            "nl": "Sluit je fietstocht af met een proeverij van lokale wijnen."
           }
         }
       ],
@@ -727,7 +786,8 @@
         "de": "Schwingen Sie sich aufs Rad und beginnen Sie den Tag am Hotel de Wereld, bevor Sie zur Grote Kerk radeln. Die Route führt Sie dann südwärts zum Rijnhaven und in die weiten Uiterwaarden, perfekt für eine ausgedehnte Mittagspause im Grünen. Gestärkt erklimmen Sie am Nachmittag den Hügel zum Belmonte Arboretum und genießen die Aussicht. Ein kurzer Abstecher zu den Botanischen Gärten bereichert Ihr Wissen, bevor Sie den Tag entspannt im Wagenings Wijngoed ausklingen lassen, einem Weinberg, der die Belohnung für Ihre Mühen bereithält.",
         "hu": "Pattanjon biciklire, és kezdje a napot a Hotel de Wereldnél, mielőtt a Grote Kerkhez teker. Az útvonal dél felé vezet a Rajna-kikötőbe és a tágas Uiterwaarden ártérre, amely tökéletes egy kiadós ebédszünetre a zöldben. Megerősödve délután megmássza a dombot a Belmonte Arborétumhoz és élvezi a kilátást. Egy rövid kitérő a Botanikus Kertbe bővíti tudását, mielőtt a napot a Wageningeni Borászatban zárja, egy szőlőültetvényen, amely jutalmat kínál fáradozásaiért.",
         "ro": "Urcați-vă pe bicicletă și începeți ziua la Hotel de Wereld înainte de a pedala spre Grote Kerk. Traseul vă duce apoi spre sud, la portul Rinului și în vastele lunci inundabile Uiterwaarden, perfecte pentru o pauză de prânz prelungită în natură. Întărit, după-amiaza urcați dealul spre Arboretul Belmonte și vă bucurați de priveliște. O scurtă abatere la Grădinile Botanice vă îmbogățește cunoștințele înainte de a încheia ziua relaxat la Crama Wageningen, o podgorie care vă oferă recompensa pentru eforturile depuse.",
-        "en": "Hop on your bike and start the day at Hotel de Wereld before cycling to the Grote Kerk. The route then takes you south to the Rhine harbor and into the vast Uiterwaarden floodplains, perfect for an extended lunch break in the green. Refreshed, you'll climb the hill to the Belmonte Arboretum in the afternoon and enjoy the view. A short detour to the Botanical Gardens enriches your knowledge before you end the day relaxing at the Wageningen Vineyard, a reward for your efforts."
+        "en": "Hop on your bike and start the day at Hotel de Wereld before cycling to the Grote Kerk. The route then takes you south to the Rhine harbor and into the vast Uiterwaarden floodplains, perfect for an extended lunch break in the green. Refreshed, you'll climb the hill to the Belmonte Arboretum in the afternoon and enjoy the view. A short detour to the Botanical Gardens enriches your knowledge before you end the day relaxing at the Wageningen Vineyard, a reward for your efforts.",
+        "nl": "Stap op je fiets en begin de dag bij Hotel de Wereld voordat je naar de Grote Kerk fietst. De route voert je daarna zuidwaarts naar de Rijnhaven en de uitgestrekte Uiterwaarden, perfect voor een uitgebreide lunchpauze in het groen. Opgeklaard klim je in de middag de heuvel naar Belmonte Arboretum en geniet je van het uitzicht. Een korte omweg naar de Botanische Tuinen verrijkt je kennis voordat je de dag afsluit en ontspant bij de Wageningen Wijngaard, een welverdiende beloning."
       },
       "gastro_picks": {
         "de": [
@@ -923,6 +983,12 @@
           "Pay attention to bicycle traffic rules and signals.",
           "A good lock is essential, especially in the city center.",
           "The Netherlands is flat, but Wageningen has some surprising climbs."
+        ],
+        "nl": [
+          "Huur een fiets met versnellingen, er zitten wat hellingen in de route.",
+          "Let op de verkeersregels en -borden voor fietsers.",
+          "Een goed slot is essentieel, vooral in het centrum.",
+          "Nederland is vlak, maar Wageningen kent verrassende klimmetjes."
         ]
       },
       "variants": {
@@ -931,7 +997,8 @@
             "de": "Trotz Regen ist Wageningen eine Fahrradstadt. Wir starten am Hotel de Wereld und radeln kurz zur Grote Kerk. Die Fahrt zum Hafen und durch die Uiterwaarden erfordert gute Regenkleidung, bietet aber eine herrlich frische Brise. Nachmittags erkunden wir die botanischen Gärten, wo das Grün im Regen besonders leuchtet, bevor wir den Tag am Weinberg ausklingen lassen.",
             "hu": "Az eső ellenére Wageningen igazi kerékpáros város. A Hotel de Wereldtől indulunk, majd egy rövid tekerés után elérjük a Grote Kerket. A kikötő és az ártér felé vezető út jó esőfelszerelést igényel, de frissítő élményt nyújt. Délután a botanikus kerteket járjuk be, ahol az esőben minden zöldebbnek hat, végül a szőlőskertnél zárjuk a napot.",
             "ro": "În ciuda ploii, Wageningen este un oraș al bicicletelor. Pornim de la Hotel de Wereld și pedalăm scurt până la Grote Kerk. Drumul spre port și prin luncă necesită echipament de ploaie bun, dar oferă o briză proaspătă. După-amiaza explorăm grădinile botanice, unde verdele este intens sub ploaie, înainte de a încheia ziua la podgorie.",
-            "en": "Despite the rain, Wageningen remains a cycling city. We start at Hotel de Wereld and pedal to the Grote Kerk. The ride to the harbor and through the floodplains requires good rain gear but offers a refreshing breeze. In the afternoon, we explore the botanical gardens where the greenery shines in the rain, before ending the day at the vineyard."
+            "en": "Despite the rain, Wageningen remains a cycling city. We start at Hotel de Wereld and pedal to the Grote Kerk. The ride to the harbor and through the floodplains requires good rain gear but offers a refreshing breeze. In the afternoon, we explore the botanical gardens where the greenery shines in the rain, before ending the day at the vineyard.",
+            "nl": "Ondanks de regen blijft Wageningen een fietsstad. We beginnen bij Hotel de Wereld en trappen naar de Grote Kerk. De rit naar de haven en door de uiterwaarden vereist goede regenkleding maar biedt een verfrissend briesje. In de middag verkennen we de botanische tuinen waar het groen glanst in de regen, voordat we de dag afsluiten bij de wijngaard."
           },
           "stops": [
             {
@@ -940,7 +1007,8 @@
                 "de": "Überdachte Fahrradständer in der Nähe nutzen.",
                 "hu": "Használja a közeli fedett kerékpártárolókat.",
                 "ro": "Folosiți rastelele de biciclete acoperite din zonă.",
-                "en": "Use the covered bike racks nearby."
+                "en": "Use the covered bike racks nearby.",
+                "nl": "Gebruik de overdekte fietsenstallingen in de buurt."
               }
             },
             {
@@ -949,7 +1017,8 @@
                 "de": "Kurzer Stopp, um die Kleidung zu richten.",
                 "hu": "Rövid megálló az esőfelszerelés igazítására.",
                 "ro": "O scurtă oprire pentru a vă aranja pelerina.",
-                "en": "Short stop to adjust your rain gear."
+                "en": "Short stop to adjust your rain gear.",
+                "nl": "Korte stop om je regenkleding aan te passen."
               }
             },
             {
@@ -958,7 +1027,8 @@
                 "de": "Vorsicht bei nassen Metallschienen am Boden.",
                 "hu": "Vigyázzon a nedves fémsínekre a burkolatban.",
                 "ro": "Atenție la șinele de metal ude de pe jos.",
-                "en": "Watch out for wet metal rails on the ground."
+                "en": "Watch out for wet metal rails on the ground.",
+                "nl": "Let op natte metalen rails op de grond."
               }
             },
             {
@@ -967,7 +1037,8 @@
                 "de": "Der Wind kann den Regen peitschen, fest halten.",
                 "hu": "A szél erősen fújhatja az esőt, tartsa a kormányt.",
                 "ro": "Vântul poate amplifica ploaia, țineți bine ghidonul.",
-                "en": "Wind can whip the rain here; hold your bars tight."
+                "en": "Wind can whip the rain here; hold your bars tight.",
+                "nl": "De wind kan de regen opzij slaan; houd het stuur goed vast."
               }
             },
             {
@@ -976,7 +1047,8 @@
                 "de": "Laub auf den Wegen kann rutschig sein.",
                 "hu": "Az úton lévő levelek csúszóssá válhatnak.",
                 "ro": "Frunzele de pe poteci pot fi alunecoase.",
-                "en": "Leaves on the paths can be very slippery."
+                "en": "Leaves on the paths can be very slippery.",
+                "nl": "Bladeren op de paden kunnen zeer glad zijn."
               }
             },
             {
@@ -985,7 +1057,8 @@
                 "de": "Suchen Sie Schutz in den Gewächshäusern.",
                 "hu": "Keressen menedéket az üvegházakban.",
                 "ro": "Căutați adăpost în serele grădinii.",
-                "en": "Seek shelter in the greenhouses if needed."
+                "en": "Seek shelter in the greenhouses if needed.",
+                "nl": "Schuil in de kassen als dat nodig is."
               }
             },
             {
@@ -994,7 +1067,8 @@
                 "de": "Ein nasser, aber lohnender Weg zum Stadtrand.",
                 "hu": "Vizes, de megéri kitekerni a város szélére.",
                 "ro": "Un drum ud, dar care merită, spre marginea orașului.",
-                "en": "A wet but rewarding ride to the city outskirts."
+                "en": "A wet but rewarding ride to the city outskirts.",
+                "nl": "Een nat maar lonend ritje naar de stadsrand."
               }
             }
           ],
@@ -1022,6 +1096,12 @@
               "Avoid hard braking on wet leaves or painted lines.",
               "Check your brake pads before starting the trip.",
               "Mudguards on your bike are a must in this weather."
+            ],
+            "nl": [
+              "Een volledige regenpak is beter dan een poncho voor het fietsen.",
+              "Vermijd hard remmen op natte bladeren of geverfde lijnen.",
+              "Controleer je remblokjes voordat je vertrekt.",
+              "Spatborden op je fiets zijn in dit weer een must."
             ]
           }
         },
@@ -1030,7 +1110,8 @@
             "de": "Ein knackig-kalter Wintertag auf zwei Rädern. Vom geschichtsträchtigen Zentrum radeln wir zum frostigen Hafen. Die Uiterwaarden bieten im Winter eine weite, klare Sicht auf den Rhein. Das Arboretum und die botanischen Gärten zeigen ihre winterliche Struktur, bevor wir zum Aufwärmen den Weg zum Weinberg antreten. Ein Tag voller frischer Luft und herrlicher Weitblicke.",
             "hu": "Csípős, hideg téli nap két keréken. A történelmi belvárosból a fagyos kikötő felé vesszük az irányt. Az ártér télen tiszta panorámát nyújt a Rajnára. Az arborétum és a botanikus kert ilyenkor mutatja meg igazi vázát, mielőtt a szőlőskert felé tekernénk, hogy átmozgassuk magunkat a hidegben. Friss levegő és tiszta tájak várnak.",
             "ro": "O zi de iarnă crocantă și rece pe două roți. Din centrul istoric pedalăm spre portul înghețat. Zonele inundabile oferă iarna o vizibilitate clară asupra Rinului. Arboretumul și grădinile botanice își arată structura hivernală, înainte de a pedala spre podgorie pentru a ne încălzi prin mișcare. O zi plină de aer curat și panorame superbe.",
-            "en": "A crisp, cold winter day on two wheels. From the historic center, we cycle to the frosty harbor. The floodplains offer clear, wide views of the Rhine in winter. The arboretum and botanical gardens show off their winter structures before we head to the vineyard to warm up through movement. A day full of fresh air and grand vistas."
+            "en": "A crisp, cold winter day on two wheels. From the historic center, we cycle to the frosty harbor. The floodplains offer clear, wide views of the Rhine in winter. The arboretum and botanical gardens show off their winter structures before we head to the vineyard to warm up through movement. A day full of fresh air and grand vistas.",
+            "nl": "Een frisse, koude winterdag op twee wielen. Vanuit het historische centrum fietsen we naar de met rijp bedekte haven. De uiterwaarden bieden heldere, brede vergezichten over de Rijn in de winter. Het arboretum en de botanische tuinen tonen hun winterstructuren voordat we naar de wijngaard gaan om door beweging weer op te warmen. Een dag vol frisse lucht en weidse uitzichten."
           },
           "stops": [
             {
@@ -1039,7 +1120,8 @@
                 "de": "Handschuhe anziehen, bevor es losgeht.",
                 "hu": "Húzzon kesztyűt, mielőtt elindul.",
                 "ro": "Puneți-vă mănușile înainte de a pleca.",
-                "en": "Put on your gloves before starting."
+                "en": "Put on your gloves before starting.",
+                "nl": "Doe je handschoenen aan voordat je vertrekt."
               }
             },
             {
@@ -1048,7 +1130,8 @@
                 "de": "Vorsicht vor überfrorener Nässe am Marktplatz.",
                 "hu": "Vigyázzon a felfagyásokra a főtéren.",
                 "ro": "Atenție la poleiul de pe piața centrală.",
-                "en": "Watch out for black ice in the market square."
+                "en": "Watch out for black ice in the market square.",
+                "nl": "Let op op zwarte ijsplekken op de markt."
               }
             },
             {
@@ -1057,7 +1140,8 @@
                 "de": "Der Fahrtwind ist am Wasser besonders kalt.",
                 "hu": "A menetszél a víz mellett különösen hideg.",
                 "ro": "Vântul din mers este foarte rece lângă apă.",
-                "en": "The wind chill is significant near the water."
+                "en": "The wind chill is significant near the water.",
+                "nl": "De gevoelstemperatuur is flink lager vlak bij het water."
               }
             },
             {
@@ -1066,7 +1150,8 @@
                 "de": "Genießen Sie die klare Sicht über die Deiche.",
                 "hu": "Élvezze a tiszta kilátást a gátakról.",
                 "ro": "Bucurați-vă de vizibilitatea clară de pe diguri.",
-                "en": "Enjoy the clear visibility over the dikes."
+                "en": "Enjoy the clear visibility over the dikes.",
+                "nl": "Geniet van het heldere zicht over de dijken."
               }
             },
             {
@@ -1075,7 +1160,8 @@
                 "de": "Die Auffahrt hält den Körper warm.",
                 "hu": "Az emelkedő segít melegen tartani a testet.",
                 "ro": "Urcarea vă va ajuta să vă mențineți cald.",
-                "en": "The uphill ride will keep your body warm."
+                "en": "The uphill ride will keep your body warm.",
+                "nl": "De beklimming houdt je lichaam warm."
               }
             },
             {
@@ -1084,7 +1170,8 @@
                 "de": "Besuchen Sie die frostharten Pflanzensammlungen.",
                 "hu": "Nézze meg a fagyálló növénygyűjteményeket.",
                 "ro": "Vizitați colecțiile de plante rezistente la ger.",
-                "en": "Visit the frost-hardy plant collections."
+                "en": "Visit the frost-hardy plant collections.",
+                "nl": "Bezoek de vorstbestendige plantencollecties."
               }
             },
             {
@@ -1093,7 +1180,8 @@
                 "de": "Licht am Fahrrad für den Rückweg prüfen.",
                 "hu": "Ellenőrizze a lámpákat a visszaúthoz.",
                 "ro": "Verificați luminile pentru drumul de întoarcere.",
-                "en": "Check your bike lights for the ride back."
+                "en": "Check your bike lights for the ride back.",
+                "nl": "Controleer je fietsverlichting voor de terugrit."
               }
             }
           ],
@@ -1121,6 +1209,12 @@
               "Watch out for icy patches on outskirts cycle paths.",
               "E-bike batteries drain faster in cold temperatures.",
               "Always use your lights during twilight hours."
+            ],
+            "nl": [
+              "Draag warme, winddichte handschoenen en thermosokken.",
+              "Let op ijzige plekken op buitenste fietspaden.",
+              "E-bike batterijen raken sneller leeg bij koude temperaturen.",
+              "Gebruik altijd je verlichting tijdens de schemering."
             ]
           }
         }
@@ -1139,7 +1233,8 @@
             "de": "Parkplatz Zentrum",
             "hu": "Parkoló a központban",
             "ro": "Parcare Centru",
-            "en": "City Center Parking"
+            "en": "City Center Parking",
+            "nl": "Parkeren Centrum"
           },
           "coords": [
             5.669,
@@ -1155,7 +1250,8 @@
             "de": "Parken Sie Ihr Auto für den Vormittag und erkunden Sie das Zentrum zu Fuß.",
             "hu": "Parkolja le az autót a délelőttre, és fedezze fel a központot gyalog.",
             "ro": "Parcați mașina pentru dimineață și explorați centrul pe jos.",
-            "en": "Park your car for the morning and explore the center on foot."
+            "en": "Park your car for the morning and explore the center on foot.",
+            "nl": "Parkeer je auto voor de ochtend en verken het centrum te voet."
           }
         },
         {
@@ -1163,7 +1259,8 @@
             "de": "Hotel de Wereld",
             "hu": "Hotel de Wereld",
             "ro": "Hotel de Wereld",
-            "en": "Hotel de Wereld"
+            "en": "Hotel de Wereld",
+            "nl": "Hotel de Wereld"
           },
           "coords": [
             5.668,
@@ -1179,7 +1276,8 @@
             "de": "Ein kurzer Spaziergang vom Parkplatz zu diesem wichtigen historischen Ort.",
             "hu": "Egy rövid séta a parkolótól ehhez a fontos történelmi helyszínhez.",
             "ro": "O scurtă plimbare de la parcare la acest important sit istoric.",
-            "en": "A short walk from the parking lot to this important historical site."
+            "en": "A short walk from the parking lot to this important historical site.",
+            "nl": "Een korte wandeling van de parkeerplaats naar deze belangrijke historische locatie."
           }
         },
         {
@@ -1187,7 +1285,8 @@
             "de": "Grote Kerk",
             "hu": "Grote Kerk",
             "ro": "Grote Kerk",
-            "en": "Grote Kerk"
+            "en": "Grote Kerk",
+            "nl": "Grote Kerk"
           },
           "coords": [
             5.666,
@@ -1203,7 +1302,8 @@
             "de": "Die Kirche dominiert den Marktplatz, nur wenige Schritte vom Hotel entfernt.",
             "hu": "A templom uralja a piacteret, csak pár lépésre a szállodától.",
             "ro": "Biserica domină piața, la doar câțiva pași de hotel.",
-            "en": "The church dominates the market square, just a few steps from the hotel."
+            "en": "The church dominates the market square, just a few steps from the hotel.",
+            "nl": "De kerk domineert de markt, slechts een paar stappen van het hotel."
           }
         },
         {
@@ -1211,7 +1311,8 @@
             "de": "Museum de Casteelse Poort",
             "hu": "Casteelse Poort Múzeum",
             "ro": "Muzeul de Casteelse Poort",
-            "en": "Museum de Casteelse Poort"
+            "en": "Museum de Casteelse Poort",
+            "nl": "Museum de Casteelse Poort"
           },
           "coords": [
             5.665,
@@ -1227,7 +1328,8 @@
             "de": "Schließen Sie Ihren Rundgang durch das Zentrum mit einem tiefen Einblick in die lokale Geschichte ab.",
             "hu": "Zárja a központi sétát a helyi történelem mélyebb megismerésével.",
             "ro": "Încheiați turul centrului cu o incursiune profundă în istoria locală.",
-            "en": "Conclude your tour of the center with a deep dive into local history."
+            "en": "Conclude your tour of the center with a deep dive into local history.",
+            "nl": "Sluit je rondgang door het centrum af met een diepgaande kennismaking met de lokale geschiedenis."
           }
         },
         {
@@ -1235,7 +1337,8 @@
             "de": "Parkplatz Uiterwaarden",
             "hu": "Parkoló az Uiterwaarden-nél",
             "ro": "Parcare Uiterwaarden",
-            "en": "Uiterwaarden Parking"
+            "en": "Uiterwaarden Parking",
+            "nl": "Uiterwaarden Parkeerplaats"
           },
           "coords": [
             5.675,
@@ -1251,7 +1354,8 @@
             "de": "Fahren Sie zum Flussufer und parken Sie für Ihr nächstes Cluster-Erlebnis.",
             "hu": "Vezessen a folyóparthoz, és parkoljon le a következő élménycsomópontnál.",
             "ro": "Conduceți spre malul râului și parcați pentru următoarea experiență de grup.",
-            "en": "Drive to the riverbank and park for your next cluster experience."
+            "en": "Drive to the riverbank and park for your next cluster experience.",
+            "nl": "Rijd naar de rivieroever en parkeer voor je volgende clusterervaring."
           }
         },
         {
@@ -1259,7 +1363,8 @@
             "de": "Rijnhaven & Mittagessen",
             "hu": "Rijnhaven & Ebéd",
             "ro": "Rijnhaven & Prânz",
-            "en": "Rijnhaven & Lunch"
+            "en": "Rijnhaven & Lunch",
+            "nl": "Rijnhaven & Lunch"
           },
           "coords": [
             5.672,
@@ -1275,7 +1380,8 @@
             "de": "Genießen Sie ein Mittagessen in einem der Restaurants am Hafen, bevor Sie die Auen erkunden.",
             "hu": "Élvezze az ebédet a kikötő egyik éttermében, mielőtt felfedezné az árteret.",
             "ro": "Bucurați-vă de un prânz la unul dintre restaurantele din port înainte de a explora lunca.",
-            "en": "Enjoy lunch at one of the harbor restaurants before exploring the floodplains."
+            "en": "Enjoy lunch at one of the harbor restaurants before exploring the floodplains.",
+            "nl": "Geniet van de lunch bij een van de havenrestaurants voordat je de uiterwaarden verkent."
           }
         },
         {
@@ -1283,7 +1389,8 @@
             "de": "Belmonte Arboretum",
             "hu": "Belmonte Arborétum",
             "ro": "Arboretul Belmonte",
-            "en": "Belmonte Arboretum"
+            "en": "Belmonte Arboretum",
+            "nl": "Belmonte Arboretum"
           },
           "coords": [
             5.685,
@@ -1299,7 +1406,8 @@
             "de": "Parken Sie am Arboretum und verbringen Sie den Rest des Nachmittags in den Gärten.",
             "hu": "Parkoljon az arborétumnál, és töltse a délután hátralévő részét a kertekben.",
             "ro": "Parcați la arboret și petreceți restul după-amiezii în grădini.",
-            "en": "Park at the arboretum and spend the rest of the afternoon in the gardens."
+            "en": "Park at the arboretum and spend the rest of the afternoon in the gardens.",
+            "nl": "Parkeer bij het arboretum en breng de rest van de middag in de tuinen door."
           }
         }
       ],
@@ -1307,7 +1415,8 @@
         "de": "Ihr Autotag beginnt mit dem Parken im Zentrum. Der Vormittag gehört dem historischen Kern, den Sie zu Fuß erkunden: Hotel de Wereld, Grote Kerk und das Museum. Nach diesem Cluster-Spaziergang holen Sie Ihr Auto und fahren zum zweiten Cluster am Fluss. Nach dem Mittagessen im Rijnhaven erkunden Sie die Uiterwaarden. Der Höhepunkt des Nachmittags ist die Fahrt hinauf zum Belmonte Arboretum, Ihrem dritten und letzten Cluster, wo Sie den Tag inmitten von Natur und herrlicher Aussicht ausklingen lassen.",
         "hu": "Autós napja a központban való parkolással kezdődik. A délelőtt a történelmi magé, amelyet gyalog fedez fel: Hotel de Wereld, Grote Kerk és a múzeum. E séta után autóba ül, és a folyóparti második csomóponthoz hajt. Ebéd után a Rijnhavenben felfedezi az Uiterwaarden árteret. A délután csúcspontja a felhajtás a Belmonte Arborétumhoz, a harmadik és egyben utolsó csomóponthoz, ahol a természet és a csodálatos kilátás közepette zárja a napot.",
         "ro": "Ziua cu mașina începe parcând în centru. Dimineața este dedicată nucleului istoric, pe care îl explorați pe jos: Hotel de Wereld, Grote Kerk și muzeul. După această plimbare în grup, vă luați mașina și conduceți spre al doilea grup de pe malul râului. După prânz în Rijnhaven, explorați Uiterwaarden. Punctul culminant al după-amiezii este urcarea cu mașina la Arboretul Belmonte, al treilea și ultimul grup, unde încheiați ziua înconjurat de natură și priveliști magnifice.",
-        "en": "Your car day begins by parking in the center. The morning is dedicated to the historic core, which you'll explore on foot: Hotel de Wereld, Grote Kerk, and the museum. After this cluster walk, you'll retrieve your car and drive to the second cluster by the river. After lunch in Rijnhaven, you'll explore the Uiterwaarden. The afternoon's highlight is the drive up to Belmonte Arboretum, your third and final cluster, where you'll end the day amidst nature and magnificent views."
+        "en": "Your car day begins by parking in the center. The morning is dedicated to the historic core, which you'll explore on foot: Hotel de Wereld, Grote Kerk, and the museum. After this cluster walk, you'll retrieve your car and drive to the second cluster by the river. After lunch in Rijnhaven, you'll explore the Uiterwaarden. The afternoon's highlight is the drive up to Belmonte Arboretum, your third and final cluster, where you'll end the day amidst nature and magnificent views.",
+        "nl": "Je autodag begint met parkeren in het centrum. De ochtend is gewijd aan het historische hart, dat je te voet verkent: Hotel de Wereld, Grote Kerk en het museum. Na deze clusterwandeling haal je je auto op en rijd je naar de tweede cluster bij de rivier. Na de lunch in Rijnhaven verken je de Uiterwaarden. Het hoogtepunt van de middag is de rit omhoog naar Belmonte Arboretum, je derde en laatste cluster, waar je de dag afsluit temidden van natuur en prachtige uitzichten."
       },
       "gastro_picks": {
         "de": [
@@ -1503,6 +1612,12 @@
           "The cluster-walking method saves time and stress from finding parking.",
           "A navigation system is helpful for navigating between clusters.",
           "Plan for extra time for traffic, especially in the late afternoon."
+        ],
+        "nl": [
+          "Houd rekening met parkeerkosten en -tijden, vooral in het centrum.",
+          "De cluster-wandelmethode bespaart tijd en stress bij het zoeken naar een parkeerplaats.",
+          "Een navigatiesysteem is handig om tussen de clusters te rijden.",
+          "Plan extra tijd in voor verkeer, vooral in de late namiddag."
         ]
       },
       "variants": {
@@ -1511,7 +1626,8 @@
             "de": "Bequem erkunden wir Wageningen mit dem Auto. Nach dem Parken im Zentrum erreichen wir trocken das Hotel de Wereld und die Grote Kerk. Mittags tauchen wir im Museum Casteelse Poort in die Geschichte ein. Die Fahrt zum Rheinufer bietet tolle Ausblicke aus dem trockenen Fahrzeug, bevor wir das Arboretum Belmonte besuchen, wo wir nah am Eingang parken können.",
             "hu": "Kényelmesen, autóval fedezzük fel Wageningent. A központi parkolás után száraz lábbal érjük el a Hotel de Wereldet és a Grote Kerket. Délben a Casteelse Poort múzeumban mélyedünk el a történelemben. A Rajna-parti autózás során az ablakból csodálhatjuk a tájat, majd az arborétumnál a bejárathoz közel parkolva teszünk egy rövid sétát.",
             "ro": "Explorăm Wageningen confortabil cu mașina. După parcarea în centru, ajungem uscați la Hotel de Wereld și Grote Kerk. La prânz, ne cufundăm în istorie la Muzeul Casteelse Poort. Drumul spre malul Rinului oferă vederi superbe din interiorul uscat al vehiculului, înainte de a vizita Arboretum Belmonte, unde putem parca aproape de intrare.",
-            "en": "Explore Wageningen comfortably by car. After parking in the center, we reach Hotel de Wereld and the Grote Kerk while staying dry. At midday, dive into history at the Casteelse Poort Museum. The drive to the Rhine banks offers great views from the dry vehicle before visiting Belmonte Arboretum, where we can park close to the entrance."
+            "en": "Explore Wageningen comfortably by car. After parking in the center, we reach Hotel de Wereld and the Grote Kerk while staying dry. At midday, dive into history at the Casteelse Poort Museum. The drive to the Rhine banks offers great views from the dry vehicle before visiting Belmonte Arboretum, where we can park close to the entrance.",
+            "nl": "Verken Wageningen comfortabel met de auto. Na het parkeren in het centrum bereiken we Hotel de Wereld en de Grote Kerk droog. Rond het middaguur duik je in de geschiedenis bij Museum de Casteelse Poort. De rit naar de Rijnkade biedt prachtige vergezichten vanuit het droge voertuig voordat we Belmonte Arboretum bezoeken, waar we dicht bij de ingang kunnen parkeren."
           },
           "stops": [
             {
@@ -1520,7 +1636,8 @@
                 "de": "Regenschirm direkt griffbereit halten.",
                 "hu": "Az esernyőt tartsa rögtön kéznél.",
                 "ro": "Țineți umbrela la îndemână imediat.",
-                "en": "Keep your umbrella ready at hand."
+                "en": "Keep your umbrella ready at hand.",
+                "nl": "Houd je paraplu bij de hand."
               }
             },
             {
@@ -1529,7 +1646,8 @@
                 "de": "Nur wenige Schritte vom Parkplatz entfernt.",
                 "hu": "Csak pár lépés a parkolótól.",
                 "ro": "Doar câțiva pași de la parcare.",
-                "en": "Only a few steps from the parking lot."
+                "en": "Only a few steps from the parking lot.",
+                "nl": "Slechts een paar stappen van de parkeerplaats."
               }
             },
             {
@@ -1538,7 +1656,8 @@
                 "de": "Kurzer Sprint über den Marktplatz.",
                 "hu": "Rövid futás a főtéren keresztül.",
                 "ro": "Un sprint scurt prin piața centrală.",
-                "en": "Short dash across the market square."
+                "en": "Short dash across the market square.",
+                "nl": "Korte sprint over het marktplein."
               }
             },
             {
@@ -1547,7 +1666,8 @@
                 "de": "Idealer Ort, um starken Regen abzuwarten.",
                 "hu": "Ideális hely a heves eső kivárására.",
                 "ro": "Loc ideal pentru a aștepta trecerea ploii.",
-                "en": "Ideal place to wait out heavy rain."
+                "en": "Ideal place to wait out heavy rain.",
+                "nl": "Ideale plek om hevige regen uit te zitten."
               }
             },
             {
@@ -1556,7 +1676,8 @@
                 "de": "Genießen Sie den Blick aus dem Auto.",
                 "hu": "Élvezze a kilátást az autóból.",
                 "ro": "Bucurați-vă de priveliște din mașină.",
-                "en": "Enjoy the view from inside the car."
+                "en": "Enjoy the view from inside the car.",
+                "nl": "Geniet van het uitzicht vanuit de auto."
               }
             },
             {
@@ -1565,7 +1686,8 @@
                 "de": "Parken Sie nah am Restaurant-Eingang.",
                 "hu": "Parkoljon az étterem bejáratához közel.",
                 "ro": "Parcați aproape de intrarea restaurantului.",
-                "en": "Park close to the restaurant entrance."
+                "en": "Park close to the restaurant entrance.",
+                "nl": "Parkeer dichtbij de restaurantingang."
               }
             },
             {
@@ -1574,7 +1696,8 @@
                 "de": "Kürzere Wege durch geschicktes Parken.",
                 "hu": "Rövidebb séta ügyes parkolással.",
                 "ro": "Drum mai scurt prin parcare strategică.",
-                "en": "Shorter walk with strategic parking."
+                "en": "Shorter walk with strategic parking.",
+                "nl": "Kortere wandeling met strategisch parkeren."
               }
             }
           ],
@@ -1602,6 +1725,12 @@
               "Watch out for aquaplaning on regional roads.",
               "Choose covered parking for a dry exit.",
               "Keep a towel ready in the car for wet gear."
+            ],
+            "nl": [
+              "Gebruik de airconditioning om beslagen ruiten te voorkomen.",
+              "Pas op voor aquaplaning op regionale wegen.",
+              "Kies overdekt parkeren voor een droge uitstap.",
+              "Houd een handdoek in de auto voor natte spullen."
             ]
           }
         },
@@ -1610,7 +1739,8 @@
             "de": "Ein entspannter Wintertag in Wageningen. Vom warmen Auto aus genießen wir die frostige Landschaft auf dem Weg zum Zentrum. Nach dem Besuch der Grote Kerk und des Hotel de Wereld fahren wir zum Hafen, wo die winterliche Ruhe des Rheins beeindruckt. Das Arboretum Belmonte bietet auch im Winter tolle Fotomotive, bevor wir die Stadt im Abendlicht verlassen.",
             "hu": "Pihentető téli nap Wageningenben. A fűtött autóból csodáljuk a zúzmarás tájat a központ felé menet. A Grote Kerk és a Hotel de Wereld megtekintése után a kikötőhöz hajtunk, ahol a Rajna téli nyugalma lenyűgöző. A Belmonte Arborétum télen is remek fotótémákat kínál, mielőtt az esti fényekben elindulnánk haza.",
             "ro": "O zi de iarnă relaxantă în Wageningen. Din mașina încălzită admirăm peisajul înghețat în drum spre centru. După vizitarea Grote Kerk și Hotel de Wereld, mergem spre port, unde liniștea hibernală a Rinului este impresionantă. Arboretum Belmonte oferă motive foto superbe și iarna, înainte de a pleca în lumina serii.",
-            "en": "A relaxed winter day in Wageningen. From the warm car, we enjoy the frosty landscape on the way to the center. After visiting the Grote Kerk and Hotel de Wereld, we drive to the harbor where the winter silence of the Rhine is impressive. Belmonte Arboretum offers great photo ops even in winter before we depart in the evening light."
+            "en": "A relaxed winter day in Wageningen. From the warm car, we enjoy the frosty landscape on the way to the center. After visiting the Grote Kerk and Hotel de Wereld, we drive to the harbor where the winter silence of the Rhine is impressive. Belmonte Arboretum offers great photo ops even in winter before we depart in the evening light.",
+            "nl": "Een ontspannen winterdag in Wageningen. Vanuit de warme auto genieten we van het ijzige landschap op weg naar het centrum. Na een bezoek aan de Grote Kerk en Hotel de Wereld rijden we naar de haven waar de winterstilte van de Rijn indrukwekkend is. Belmonte Arboretum biedt ook in de winter mooie fotomomenten voordat we bij het avondlicht vertrekken."
           },
           "stops": [
             {
@@ -1619,7 +1749,8 @@
                 "de": "Scheiben rechtzeitig vor der Fahrt enteisen.",
                 "hu": "Indulás előtt időben jégtelenítse a szélvédőt.",
                 "ro": "Dezghețați geamurile din timp înainte de drum.",
-                "en": "De-ice the windows well before starting."
+                "en": "De-ice the windows well before starting.",
+                "nl": "Ontdooi de ruiten goed voor het starten."
               }
             },
             {
@@ -1628,7 +1759,8 @@
                 "de": "Historisches Ambiente direkt am Stadteingang.",
                 "hu": "Történelmi hangulat a városkapunál.",
                 "ro": "Ambianță istorică chiar la intrarea în oraș.",
-                "en": "Historic ambiance right at the city entrance."
+                "en": "Historic ambiance right at the city entrance.",
+                "nl": "Historische sfeer direct bij de stadsingang."
               }
             },
             {
@@ -1637,7 +1769,8 @@
                 "de": "Parkplatzsuche im Winter oft einfacher.",
                 "hu": "Télen gyakran könnyebb parkolóhelyet találni.",
                 "ro": "Găsirea parcării este mai ușoară iarna.",
-                "en": "Parking is often easier to find in winter."
+                "en": "Parking is often easier to find in winter.",
+                "nl": "Parkeren is in de winter vaak makkelijker te vinden."
               }
             },
             {
@@ -1646,7 +1779,8 @@
                 "de": "Gemütlicher Stopp fernab der Kälte.",
                 "hu": "Hangulatos megálló távol a hidegtől.",
                 "ro": "O oprire primitoare, departe de frig.",
-                "en": "A cozy stop away from the cold."
+                "en": "A cozy stop away from the cold.",
+                "nl": "Een gezellig tussenstapje uit de kou."
               }
             },
             {
@@ -1655,7 +1789,8 @@
                 "de": "Vorsicht bei überfrorenen Parkplatzflächen.",
                 "hu": "Vigyázzon a jeges parkolófelületekre.",
                 "ro": "Atenție la suprafețele înghețate din parcare.",
-                "en": "Watch out for icy patches in the parking lot."
+                "en": "Watch out for icy patches in the parking lot.",
+                "nl": "Let op ijzige plekken op de parkeerplaats."
               }
             },
             {
@@ -1664,7 +1799,8 @@
                 "de": "Heizung für den nächsten Stopp vorheizen.",
                 "hu": "Fűtse elő az autót a következő szakaszhoz.",
                 "ro": "Preîncălziți mașina pentru următoarea etapă.",
-                "en": "Pre-heat the car for the next segment."
+                "en": "Pre-heat the car for the next segment.",
+                "nl": "Voorverwarm de auto voor het volgende traject."
               }
             },
             {
@@ -1673,7 +1809,8 @@
                 "de": "Frühzeitiger Aufbruch vor der Dunkelheit.",
                 "hu": "Induljon el időben, mielőtt besötétedik.",
                 "ro": "Plecați din timp, înainte de lăsarea întunericului.",
-                "en": "Leave early before total darkness sets in."
+                "en": "Leave early before total darkness sets in.",
+                "nl": "Vertrek vroeg voordat het volledig donker wordt."
               }
             }
           ],
@@ -1701,6 +1838,12 @@
               "Keep an ice scraper and anti-freeze handy.",
               "Battery performance may decrease in the cold.",
               "Watch for wildlife crossing near woods at dusk."
+            ],
+            "nl": [
+              "Controleer de bandenspanning als de temperatuur daalt.",
+              "Houd een ijskrabber en antivries bij de hand.",
+              "De accu presteert mogelijk minder in de kou.",
+              "Let op wild dat bij schemering uit het bos kan oversteken."
             ]
           }
         }
@@ -1719,7 +1862,8 @@
             "de": "Busbahnhof Wageningen",
             "hu": "Wageningen buszpályaudvar",
             "ro": "Autogara Wageningen",
-            "en": "Wageningen Bus Station"
+            "en": "Wageningen Bus Station",
+            "nl": "Wageningen Busstation"
           },
           "coords": [
             5.664,
@@ -1735,7 +1879,8 @@
             "de": "Starten Sie Ihren Tag am zentralen Knotenpunkt des öffentlichen Nahverkehrs.",
             "hu": "Kezdje a napot a tömegközlekedés központi csomópontján.",
             "ro": "Începeți-vă ziua la nodul central de transport public.",
-            "en": "Start your day at the central public transport hub."
+            "en": "Start your day at the central public transport hub.",
+            "nl": "Begin je dag bij het centrale openbaarvervoerhubs."
           }
         },
         {
@@ -1743,7 +1888,8 @@
             "de": "Grote Kerk",
             "hu": "Grote Kerk",
             "ro": "Grote Kerk",
-            "en": "Grote Kerk"
+            "en": "Grote Kerk",
+            "nl": "Grote Kerk"
           },
           "coords": [
             5.666,
@@ -1759,7 +1905,8 @@
             "de": "Ein kurzer Fußweg vom Busbahnhof zum Herzen der Stadt.",
             "hu": "Egy rövid séta a buszpályaudvartól a város szívéig.",
             "ro": "O scurtă plimbare pe jos de la autogară până în inima orașului.",
-            "en": "A short walk from the bus station to the heart of the city."
+            "en": "A short walk from the bus station to the heart of the city.",
+            "nl": "Een korte wandeling van het busstation naar het hart van de stad."
           }
         },
         {
@@ -1767,7 +1914,8 @@
             "de": "Hotel de Wereld",
             "hu": "Hotel de Wereld",
             "ro": "Hotel de Wereld",
-            "en": "Hotel de Wereld"
+            "en": "Hotel de Wereld",
+            "nl": "Hotel de Wereld"
           },
           "coords": [
             5.668,
@@ -1783,7 +1931,8 @@
             "de": "Erkunden Sie das historische Zentrum weiter, alles ist leicht zu Fuß erreichbar.",
             "hu": "Fedezze fel tovább a történelmi központot, minden könnyen elérhető gyalog.",
             "ro": "Continuați explorarea centrului istoric, totul este ușor accesibil pe jos.",
-            "en": "Continue exploring the historic center, everything is within easy walking distance."
+            "en": "Continue exploring the historic center, everything is within easy walking distance.",
+            "nl": "Blijf het historische centrum verkennen; alles is gemakkelijk te voet te bereiken."
           }
         },
         {
@@ -1791,7 +1940,8 @@
             "de": "Rijnhaven",
             "hu": "Rijnhaven",
             "ro": "Rijnhaven",
-            "en": "Rijnhaven"
+            "en": "Rijnhaven",
+            "nl": "Rijnhaven"
           },
           "coords": [
             5.672,
@@ -1807,7 +1957,8 @@
             "de": "Nehmen Sie einen Bus Richtung Süden. Genießen Sie eine lange Mittagspause am Wasser.",
             "hu": "Menjen busszal dél felé. Élvezzen egy hosszú ebédszünetet a vízparton.",
             "ro": "Luați un autobuz spre sud. Bucurați-vă de o pauză lungă de prânz pe malul apei.",
-            "en": "Take a bus south. Enjoy a long lunch break by the water."
+            "en": "Take a bus south. Enjoy a long lunch break by the water.",
+            "nl": "Neem een bus naar het zuiden. Geniet van een uitgebreide lunchpauze aan het water."
           }
         },
         {
@@ -1815,7 +1966,8 @@
             "de": "Belmonte Arboretum",
             "hu": "Belmonte Arborétum",
             "ro": "Arboretul Belmonte",
-            "en": "Belmonte Arboretum"
+            "en": "Belmonte Arboretum",
+            "nl": "Belmonte Arboretum"
           },
           "coords": [
             5.685,
@@ -1831,7 +1983,8 @@
             "de": "Mehrere Buslinien verbinden das Flussufer mit dem Wageningse Berg.",
             "hu": "Több buszjárat köti össze a folyópartot a Wageningse Berg heggyel.",
             "ro": "Mai multe linii de autobuz leagă malul râului de Wageningse Berg.",
-            "en": "Several bus lines connect the riverbank with the Wageningse Berg."
+            "en": "Several bus lines connect the riverbank with the Wageningse Berg.",
+            "nl": "Meerdere buslijnen verbinden de rivieroevers met de Wageningse Berg."
           }
         },
         {
@@ -1839,7 +1992,8 @@
             "de": "Botanische Tuinen Wageningen",
             "hu": "Wageningeni Botanikus Kert",
             "ro": "Grădinile Botanice Wageningen",
-            "en": "Botanical Gardens Wageningen"
+            "en": "Botanical Gardens Wageningen",
+            "nl": "Botanische Tuinen Wageningen"
           },
           "coords": [
             5.68,
@@ -1855,7 +2009,8 @@
             "de": "Ein schöner Spaziergang vom Arboretum, um den Nachmittag in den Gärten zu beenden.",
             "hu": "Egy szép séta az arborétumtól, hogy a délutánt a kertekben fejezze be.",
             "ro": "O plimbare frumoasă de la arboret pentru a încheia după-amiaza în grădini.",
-            "en": "A beautiful walk from the arboretum to end the afternoon in the gardens."
+            "en": "A beautiful walk from the arboretum to end the afternoon in the gardens.",
+            "nl": "Een mooie wandeling vanaf het arboretum om de middag in de tuinen af te sluiten."
           }
         }
       ],
@@ -1863,7 +2018,8 @@
         "de": "Ihr Tag mit öffentlichen Verkehrsmitteln beginnt am zentralen Busbahnhof. Von hier aus ist der historische Kern mit der Grote Kerk und dem Hotel de Wereld nur einen kurzen Spaziergang entfernt. Nach der Erkundung des Zentrums bringt Sie ein Bus zum Rijnhaven für eine ausgedehnte Mittagspause. Am Nachmittag fahren Sie mit dem Bus auf den Wageningse Berg, um das Belmonte Arboretum zu besuchen. Ein entspannter Spaziergang führt Sie schließlich zu den Botanischen Gärten, wo Sie den Tag umgeben von pflanzlicher Vielfalt ausklingen lassen, bevor Sie mit dem Bus ins Zentrum zurückkehren.",
         "hu": "Tömegközlekedéssel töltött napja a központi buszpályaudvaron kezdődik. Innen a történelmi mag, a Grote Kerk és a Hotel de Wereld csak egy rövid sétára található. A központ felfedezése után busz viszi a Rajna-kikötőbe egy kiadós ebédszünetre. Délután busszal felmegy a Wageningse Berg hegyre, hogy meglátogassa a Belmonte Arborétumot. Egy pihentető séta végül a Botanikus Kertbe vezet, ahol a növényi sokféleség közepette zárja a napot, mielőtt busszal visszatérne a központba.",
         "ro": "Ziua dvs. cu transportul public începe la autogara centrală. De aici, nucleul istoric cu Grote Kerk și Hotel de Wereld este la o scurtă plimbare. După explorarea centrului, un autobuz vă duce la portul Rinului pentru o pauză de prânz prelungită. După-amiaza, luați autobuzul spre Wageningse Berg pentru a vizita Arboretul Belmonte. O plimbare relaxantă vă duce în cele din urmă la Grădinile Botanice, unde încheiați ziua înconjurat de diversitatea plantelor înainte de a vă întoarce în centru cu autobuzul.",
-        "en": "Your day using public transport begins at the central bus station. From here, the historic core with the Grote Kerk and Hotel de Wereld is just a short walk away. After exploring the center, a bus takes you to the Rhine harbor for an extended lunch break. In the afternoon, you'll take a bus up the Wageningse Berg to visit the Belmonte Arboretum. A relaxing walk then leads you to the Botanical Gardens, where you'll end the day surrounded by plant diversity before taking a bus back to the center."
+        "en": "Your day using public transport begins at the central bus station. From here, the historic core with the Grote Kerk and Hotel de Wereld is just a short walk away. After exploring the center, a bus takes you to the Rhine harbor for an extended lunch break. In the afternoon, you'll take a bus up the Wageningse Berg to visit the Belmonte Arboretum. A relaxing walk then leads you to the Botanical Gardens, where you'll end the day surrounded by plant diversity before taking a bus back to the center.",
+        "nl": "Je dag met het openbaar vervoer begint bij het centrale busstation. Vanaf hier is het historische kerngebied met de Grote Kerk en Hotel de Wereld op korte loopafstand. Na het verkennen van het centrum brengt een bus je naar de Rijnhaven voor een uitgebreide lunchpauze. In de middag neem je een bus omhoog naar de Wageningse Berg om het Belmonte Arboretum te bezoeken. Een ontspannen wandeling leidt je naar de Botanische Tuinen, waar je de dag omringd door plantendiversiteit afsluit voordat je met de bus terugkeert naar het centrum."
       },
       "gastro_picks": {
         "de": [
@@ -2059,6 +2215,12 @@
           "Use a public transport app to track bus schedules in real time.",
           "Most buses are wheelchair accessible.",
           "Plan your connections in advance, especially for less frequent lines."
+        ],
+        "nl": [
+          "Koop een dagkaart (Dagkaart) voor onbeperkt reizen.",
+          "Gebruik een OV-app om busdiensten in real time te volgen.",
+          "De meeste bussen zijn rolstoeltoegankelijk.",
+          "Plan je overstappen van tevoren, vooral bij minder frequente lijnen."
         ]
       },
       "variants": {
@@ -2067,7 +2229,8 @@
             "de": "Mit dem Bus durch das verregnete Wageningen. Vom Busbahnhof erreichen wir schnell die Grote Kerk und das Hotel de Wereld. Die Fahrt zum Hafen bietet Schutz vor den Schauern, während wir die Aussicht genießen. Nachmittags besuchen wir das Arboretum und die botanischen Gärten, wobei wir die Buszeiten nutzen, um die Zeit im Freien bei Regen zu minimieren.",
             "hu": "Busszal a borús Wageningenben. A buszpályaudvartól gyorsan elérjük a Grote Kerket és a Hotel de Wereldet. A kikötő felé vezető út védelmet nyújt a záporok ellen. Délután az arborétumot és a botanikus kertet látogatjuk meg, a buszmenetrendet pedig úgy használjuk, hogy a lehető legkevesebb időt kelljen esőben, a szabadban töltenünk.",
             "ro": "Cu autobuzul prin Wageningenul ploios. De la autogară ajungem rapid la Grote Kerk și Hotel de Wereld. Drumul spre port ne protejează de averse în timp ce admirăm peisajul. După-amiaza vizităm arboretumul și grădinile botanice, folosind programul autobuzelor pentru a minimiza timpul petrecut afară în ploaie.",
-            "en": "By bus through rainy Wageningen. From the bus station, we quickly reach the Grote Kerk and Hotel de Wereld. The ride to the harbor offers shelter from showers while we enjoy the view. In the afternoon, we visit the arboretum and botanical gardens, using bus timings to minimize time spent outdoors in the rain."
+            "en": "By bus through rainy Wageningen. From the bus station, we quickly reach the Grote Kerk and Hotel de Wereld. The ride to the harbor offers shelter from showers while we enjoy the view. In the afternoon, we visit the arboretum and botanical gardens, using bus timings to minimize time spent outdoors in the rain.",
+            "nl": "Per bus door het regenachtige Wageningen. Vanaf het busstation bereiken we snel de Grote Kerk en Hotel de Wereld. De rit naar de haven biedt beschutting tegen buien terwijl we van het uitzicht genieten. In de middag bezoeken we het arboretum en de botanische tuinen en gebruiken we bustijden om de tijd buiten in de regen te minimaliseren."
           },
           "stops": [
             {
@@ -2076,7 +2239,8 @@
                 "de": "Überdachter Wartebereich vorhanden.",
                 "hu": "Fedett várakozóhely áll rendelkezésre.",
                 "ro": "Zonă de așteptare acoperită disponibilă.",
-                "en": "Covered waiting area available here."
+                "en": "Covered waiting area available here.",
+                "nl": "Overdekte wachtruimte aanwezig."
               }
             },
             {
@@ -2085,7 +2249,8 @@
                 "de": "Nur kurzer Fußweg von der Haltestelle.",
                 "hu": "Csak rövid séta a megállótól.",
                 "ro": "Doar o scurtă plimbare de la stație.",
-                "en": "Only a short walk from the bus stop."
+                "en": "Only a short walk from the bus stop.",
+                "nl": "Slechts een korte wandeling vanaf de bushalte."
               }
             },
             {
@@ -2094,7 +2259,8 @@
                 "de": "Zentrale Lage, gut erreichbar bei Regen.",
                 "hu": "Központi fekvés, esőben is könnyen elérhető.",
                 "ro": "Locație centrală, ușor accesibilă pe ploaie.",
-                "en": "Central location, easy to reach in the rain."
+                "en": "Central location, easy to reach in the rain.",
+                "nl": "Centrale ligging, gemakkelijk te bereiken in de regen."
               }
             },
             {
@@ -2103,7 +2269,8 @@
                 "de": "Haltestelle bietet begrenzten Wetterschutz.",
                 "hu": "A megálló korlátozott védelmet nyújt az eső ellen.",
                 "ro": "Stația oferă adăpost limitat contra ploii.",
-                "en": "The stop offers limited shelter from rain."
+                "en": "The stop offers limited shelter from rain.",
+                "nl": "De halte biedt beperkte beschutting tegen regen."
               }
             },
             {
@@ -2112,7 +2279,8 @@
                 "de": "Buszeiten für den Rückweg vorab prüfen.",
                 "hu": "Ellenőrizze előre a visszautat a menetrendben.",
                 "ro": "Verificați din timp programul pentru întoarcere.",
-                "en": "Check bus times for the return trip in advance."
+                "en": "Check bus times for the return trip in advance.",
+                "nl": "Controleer de bustijden voor de terugreis van tevoren."
               }
             },
             {
@@ -2121,7 +2289,8 @@
                 "de": "Kurzer Sprint zum Eingang bei Schauern.",
                 "hu": "Rövid futás a bejáratig zápor esetén.",
                 "ro": "Sprint scurt până la intrare în caz de aversă.",
-                "en": "Short sprint to the entrance during showers."
+                "en": "Short sprint to the entrance during showers.",
+                "nl": "Korte sprint naar de ingang tijdens buien."
               }
             }
           ],
@@ -2149,6 +2318,12 @@
               "Keep your OV-chipkaart or contactless card ready.",
               "Buses are comfortably heated in the winter.",
               "A foldable umbrella fits easily in any bag."
+            ],
+            "nl": [
+              "Gebruik de '9292' app voor realtime reisinformatie.",
+              "Houd je OV-chipkaart of contactloze kaart klaar.",
+              "Bussen zijn comfortabel verwarmd in de winter.",
+              "Een opvouwbare paraplu past gemakkelijk in elke tas."
             ]
           }
         },
@@ -2157,7 +2332,8 @@
             "de": "Wageningen im Winterlicht mit dem ÖPNV. Wir starten am Busbahnhof und erreichen zügig das historische Zentrum. Die beheizten Busse sind eine Wohltat zwischen den Besuchen am Hafen und dem Arboretum. Der Nachmittag in den botanischen Gärten zeigt die winterliche Ruhe, bevor uns der Bus zurück in das gemütlich beleuchtete Stadtzentrum bringt.",
             "hu": "Wageningen téli fényei tömegközlekedéssel. A buszpályaudvartól indulva gyorsan elérjük a történelmi központot. A fűtött buszok igazi felüdülést jelentenek a kikötő és az arborétum látogatása között. A botanikus kertben töltött délután a téli nyugalmat árasztja, mielőtt visszatérnénk a hangulatosan kivilágított belvárosba.",
             "ro": "Luminile de iarnă din Wageningen cu transportul public. Pornim de la autogară și ajungem rapid în centrul istoric. Autobuzele încălzite sunt o binecuvântare între vizitele la port și arboretum. După-amiaza în grădinile botanice dezvăluie liniștea hibernală, înainte ca autobuzul să ne readucă în centrul luminat primitor.",
-            "en": "Wageningen in winter light using public transport. We start at the bus station and quickly reach the historic center. Heated buses are a blessing between visits to the harbor and the arboretum. An afternoon in the botanical gardens shows off winter tranquility before the bus takes us back to the cozily lit city center."
+            "en": "Wageningen in winter light using public transport. We start at the bus station and quickly reach the historic center. Heated buses are a blessing between visits to the harbor and the arboretum. An afternoon in the botanical gardens shows off winter tranquility before the bus takes us back to the cozily lit city center.",
+            "nl": "Wageningen in winterlicht met het openbaar vervoer. We beginnen bij het busstation en bereiken snel het historische centrum. Verwarmde bussen zijn een zegen tussen bezoeken aan de haven en het arboretum. Een middag in de Botanische Tuinen laat de winterse rust zien voordat de bus ons terugbrengt naar het gezellig verlichte stadscentrum."
           },
           "stops": [
             {
@@ -2166,7 +2342,8 @@
                 "de": "Zentraler Knotenpunkt, im Winter gut beheizt.",
                 "hu": "Központi csomópont, télen jól fűtött.",
                 "ro": "Nod central, bine încălzit pe timp de iarnă.",
-                "en": "Central hub, well-heated in winter."
+                "en": "Central hub, well-heated in winter.",
+                "nl": "Centraal knooppunt, goed verwarmd in de winter."
               }
             },
             {
@@ -2175,7 +2352,8 @@
                 "de": "Bewundern Sie den Weihnachtsbaum am Markt.",
                 "hu": "Csodálja meg a főtéri karácsonyfát.",
                 "ro": "Admirați bradul de Crăciun din piață.",
-                "en": "Admire the Christmas tree in the market."
+                "en": "Admire the Christmas tree in the market.",
+                "nl": "Bewonder de kerstboom op de markt."
               }
             },
             {
@@ -2184,7 +2362,8 @@
                 "de": "Wärmen Sie sich in der Lobby kurz auf.",
                 "hu": "Melegedjen fel egy kicsit a lobbiban.",
                 "ro": "Încălziți-vă puțin în holul hotelului.",
-                "en": "Warm up for a moment in the lobby."
+                "en": "Warm up for a moment in the lobby.",
+                "nl": "Warm even op in de lobby."
               }
             },
             {
@@ -2193,7 +2372,8 @@
                 "de": "Haltestelle liegt windgeschützt hinter Gebäuden.",
                 "hu": "A megálló szélvédett helyen, épületek mögött van.",
                 "ro": "Stația este ferită de vânt, în spatele clădirilor.",
-                "en": "The stop is sheltered from wind behind buildings."
+                "en": "The stop is sheltered from wind behind buildings.",
+                "nl": "De halte is uit de wind achter gebouwen beschut."
               }
             },
             {
@@ -2202,7 +2382,8 @@
                 "de": "Fußweg von der Haltestelle kann glatt sein.",
                 "hu": "A megállótól vezető út jeges lehet.",
                 "ro": "Drumul de la stație poate fi alunecos.",
-                "en": "The path from the stop can be slippery."
+                "en": "The path from the stop can be slippery.",
+                "nl": "Het pad vanaf de halte kan glad zijn."
               }
             },
             {
@@ -2211,7 +2392,8 @@
                 "de": "Genießen Sie die winterliche Stille.",
                 "hu": "Élvezze a téli csendet a kertben.",
                 "ro": "Bucurați-vă de liniștea hibernală.",
-                "en": "Enjoy the winter silence in the gardens."
+                "en": "Enjoy the winter silence in the gardens.",
+                "nl": "Geniet van de winterstilte in de tuinen."
               }
             }
           ],
@@ -2239,6 +2421,12 @@
               "Buses run on the normal schedule during winter.",
               "Use bus shelters as protection from the wind.",
               "Keep your hands warm in your pockets while waiting."
+            ],
+            "nl": [
+              "Plan wat speling voor mogelijke vertragingen.",
+              "Bussen rijden in de winter volgens de normale dienstregeling.",
+              "Gebruik bushokjes als bescherming tegen de wind.",
+              "Houd je handen warm in je zakken tijdens het wachten."
             ]
           }
         }

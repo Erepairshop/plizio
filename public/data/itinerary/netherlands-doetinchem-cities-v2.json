@@ -21,7 +21,8 @@
             "de": "Catharinakirche",
             "hu": "Szent Katalin-templom",
             "ro": "Biserica Sfânta Ecaterina",
-            "en": "St. Catherine's Church"
+            "en": "St. Catherine's Church",
+            "nl": "St. Catherine's Church"
           },
           "coords": [
             6.2915,
@@ -37,7 +38,8 @@
             "de": "Beachten Sie die beeindruckenden Glasfenster, die moderne und historische Geschichten erzählen.",
             "hu": "Figyelje meg a lenyűgöző ólomüveg ablakokat, melyek modern és történelmi történeteket mesélnek el.",
             "ro": "Observați vitraliile impresionante care spun povești moderne și istorice.",
-            "en": "Note the impressive stained-glass windows that tell both modern and historical stories."
+            "en": "Note the impressive stained-glass windows that tell both modern and historical stories.",
+            "nl": "Let op de indrukwekkende gebrandschilderde ramen die zowel moderne als historische verhalen vertellen."
           }
         },
         {
@@ -45,7 +47,8 @@
             "de": "Stadtmuseum Doetinchem",
             "hu": "Doetinchemi Városi Múzeum",
             "ro": "Muzeul Municipal Doetinchem",
-            "en": "Doetinchem City Museum"
+            "en": "Doetinchem City Museum",
+            "nl": "Doetinchem City Museum"
           },
           "coords": [
             6.2925,
@@ -61,7 +64,8 @@
             "de": "Das Museum ist in einem alten Postamt untergebracht. Schauen Sie sich die ursprüngliche Architektur an.",
             "hu": "A múzeum egy régi postahivatalban található. Tekintse meg az eredeti építészeti megoldásokat!",
             "ro": "Muzeul este găzduit într-un vechi oficiu poștal. Priviți arhitectura originală.",
-            "en": "The museum is housed in an old post office. Check out the original architecture."
+            "en": "The museum is housed in an old post office. Check out the original architecture.",
+            "nl": "Het museum is gevestigd in een oud postkantoor. Let op de originele architectuur."
           }
         },
         {
@@ -69,7 +73,8 @@
             "de": "Walmühle",
             "hu": "Walmolen (szélmalom)",
             "ro": "Moara de vânt Walmolen",
-            "en": "The Walmolen Windmill"
+            "en": "The Walmolen Windmill",
+            "nl": "The Walmolen Windmill"
           },
           "coords": [
             6.2881,
@@ -85,7 +90,8 @@
             "de": "Wenn der Wind gut steht, kann man die Mühle in Betrieb sehen. Fragen Sie nach den Mahlzeiten.",
             "hu": "Jó szél esetén működés közben is láthatja a malmot. Kérdezzen a működési időpontokról!",
             "ro": "Dacă vântul este prielnic, puteți vedea moara în funcțiune. Întrebați despre programul de măcinare.",
-            "en": "If the wind is right, you can see the mill in operation. Ask about grinding schedules."
+            "en": "If the wind is right, you can see the mill in operation. Ask about grinding schedules.",
+            "nl": "Als de wind goed staat, kunt u de molen in werking zien. Informeer naar de maalroosters."
           }
         },
         {
@@ -93,7 +99,8 @@
             "de": "Dreikönigskapelle",
             "hu": "Háromkirályok-kápolna",
             "ro": "Capela celor Trei Magi",
-            "en": "Chapel of the Three Kings"
+            "en": "Chapel of the Three Kings",
+            "nl": "Chapel of the Three Kings"
           },
           "coords": [
             6.2952,
@@ -109,7 +116,8 @@
             "de": "Eine der ältesten Kapellen der Region, ein stiller Ort der Besinnung.",
             "hu": "A régió egyik legrégebbi kápolnája, a csendes elmélkedés helye.",
             "ro": "Una dintre cele mai vechi capele din regiune, un loc liniștit pentru reflecție.",
-            "en": "One of the oldest chapels in the region, a quiet place for reflection."
+            "en": "One of the oldest chapels in the region, a quiet place for reflection.",
+            "nl": "Een van de oudste kapellen in de regio, een stille plek voor bezinning."
           }
         },
         {
@@ -117,7 +125,8 @@
             "de": "Theater Amphion",
             "hu": "Amphion Színház",
             "ro": "Teatrul Amphion",
-            "en": "Amphion Theatre"
+            "en": "Amphion Theatre",
+            "nl": "Amphion Theatre"
           },
           "coords": [
             6.2859,
@@ -133,7 +142,8 @@
             "de": "Auch wenn Sie keine Vorstellung besuchen, ist die moderne Architektur des Gebäudes einen Blick wert.",
             "hu": "Még ha nem is megy előadásra, az épület modern építészete megér egy pillantást.",
             "ro": "Chiar dacă nu participați la un spectacol, arhitectura modernă a clădirii merită văzută.",
-            "en": "Even if you're not seeing a show, the building's modern architecture is worth a look."
+            "en": "Even if you're not seeing a show, the building's modern architecture is worth a look.",
+            "nl": "Zelfs als u geen voorstelling bezoekt, is de moderne architectuur van het gebouw een kijkje waard."
           }
         },
         {
@@ -141,7 +151,8 @@
             "de": "Villa Ruimzicht",
             "hu": "Villa Ruimzicht",
             "ro": "Vila Ruimzicht",
-            "en": "Villa Ruimzicht"
+            "en": "Villa Ruimzicht",
+            "nl": "Villa Ruimzicht"
           },
           "coords": [
             6.3001,
@@ -157,7 +168,8 @@
             "de": "Heute ein Hotel und Restaurant; gönnen Sie sich einen Kaffee im historischen Garten.",
             "hu": "Ma szálloda és étterem; kényeztesse magát egy kávéval a történelmi kertben.",
             "ro": "Astăzi un hotel și restaurant; savurați o cafea în grădina istorică.",
-            "en": "Now a hotel and restaurant; treat yourself to a coffee in the historic garden."
+            "en": "Now a hotel and restaurant; treat yourself to a coffee in the historic garden.",
+            "nl": "Nu een hotel en restaurant; trakteer uzelf op een kop koffie in de historische tuin."
           }
         }
       ],
@@ -165,7 +177,8 @@
         "de": "Ihr Tag in Doetinchem beginnt im historischen Herzen bei der Catharinakirche. Nach einem tiefen Einblick in die lokale Geschichte im Stadtmuseum, erleben Sie bei der Walmühle, wie altes Handwerk lebendig wird. Nach dem Mittagessen erkunden Sie die ruhige Dreikönigskapelle, bevor Sie die moderne Architektur des Amphion Theaters bewundern. Der Tag endet entspannt bei der eleganten Villa Ruimzicht, wo Sie die Eindrücke des Tages Revue passieren lassen können.",
         "hu": "A doetinchemi nap a történelmi szívben, a Szent Katalin-templomnál kezdődik. Miután a városi múzeumban mély betekintést nyert a helyi történelembe, a Walmolen szélmalomnál megtapasztalhatja, hogyan kel életre a régi mesterség. Ebéd után felfedezheti a csendes Háromkirályok-kápolnát, majd megcsodálhatja az Amphion Színház modern építészetét. A nap az elegáns Villa Ruimzichtnél zárul, ahol felidézheti a nap élményeit.",
         "ro": "Ziua dvs. în Doetinchem începe în inima istorică, la Biserica Sf. Ecaterina. După o incursiune în istoria locală la Muzeul Municipal, veți experimenta cum meșteșugurile vechi prind viață la Moara Walmolen. După prânz, explorați Capela liniștită a Celor Trei Magi înainte de a admira arhitectura modernă a Teatrului Amphion. Ziua se încheie relaxat la eleganta Vilă Ruimzicht, unde puteți rememora impresiile zilei.",
-        "en": "Your day in Doetinchem begins in the historic heart at St. Catherine's Church. After a deep dive into local history at the City Museum, you'll experience how old crafts come to life at the Walmolen windmill. After lunch, you explore the quiet Chapel of the Three Kings before admiring the modern architecture of the Amphion Theatre. The day ends relaxingly at the elegant Villa Ruimzicht, where you can reflect on the day's impressions."
+        "en": "Your day in Doetinchem begins in the historic heart at St. Catherine's Church. After a deep dive into local history at the City Museum, you'll experience how old crafts come to life at the Walmolen windmill. After lunch, you explore the quiet Chapel of the Three Kings before admiring the modern architecture of the Amphion Theatre. The day ends relaxingly at the elegant Villa Ruimzicht, where you can reflect on the day's impressions.",
+        "nl": "Uw dag in Doetinchem begint in het historische hart bij St. Catherine's Church. Na een duik in de lokale geschiedenis in het Stadsmuseum ervaart u hoe oude ambachten tot leven komen in de Walmolen. Na de lunch verkent u de stille Kapel van de Drie Koningen voordat u de moderne architectuur van het Amphion-theater bewondert. De dag eindigt ontspannen in het elegante Villa Ruimzicht, waar u de indrukken van de dag kunt laten bezinken."
       },
       "gastro_picks": {
         "de": [
@@ -325,6 +338,12 @@
           "Many streets in the center are pedestrian-friendly.",
           "Use your lunch break for a picnic by the Oude IJssel river.",
           "Most museums and shops close around 5 or 6 PM."
+        ],
+        "nl": [
+          "Draag comfortabele schoenen, want het centrum is compact en goed te belopen.",
+          "Veel straten in het centrum zijn autovriendelijk voor voetgangers.",
+          "Gebruik uw lunchpauze voor een picknick aan de Oude IJssel.",
+          "De meeste musea en winkels sluiten rond 17.00 of 18.00 uur."
         ]
       },
       "variants": {
@@ -333,7 +352,8 @@
             "de": "Der Morgen in der St. Catharinakerk bietet trockene Besinnung. Mittags dient das Stadtmuseum als idealer Zufluchtsort vor dem Regen. Nachmittags besuchen wir die Walmolen und die Dreikönigskapelle zwischen den Schauern. Der Tag endet gemütlich im Amphion Theater oder bei einem Tee in der Villa Ruimzicht, während draußen der niederländische Regen gegen die hohen Fenster peitscht.",
             "hu": "A reggel a Szent Katalin-templom száraz falai között indul. Délben a Városi Múzeum nyújt menedéket az eső elől. Délután a Walmolen és a Háromkirályok-kápolna érintésével haladunk, kihasználva a szüneteket. Az este az Amphion Színházban vagy a Villa Ruimzicht elegáns termeiben ér véget, ahol a kopogó eső csak fokozza a benti meghittséget és a holland 'gezelligheid' érzést.",
             "ro": "Dimineața la Biserica Sf. Ecaterina oferă un refugiu uscat. La prânz, Muzeul Orașului este locul ideal pentru a scăpa de ploaie. După-amiaza, vizităm moara Walmolen și Capela celor Trei Regi între averse. Ziua se încheie confortabil la Teatrul Amphion sau la Villa Ruimzicht, unde peisajul ploios din Achterhoek se vede superb prin ferestrele mari, savurând o băutură caldă.",
-            "en": "Morning at St. Catherine’s offers dry sanctuary. Midday is spent exploring the City Museum's indoor exhibits, escaping the drizzle. Afternoon visits to the Walmolen and Three Kings Chapel provide quick shelter. Evening concludes at Amphion or Villa Ruimzicht, where the rainy Achterhoek landscape looks poetic from behind large glass windows. Enjoy the cozy Dutch 'gezelligheid' inside."
+            "en": "Morning at St. Catherine’s offers dry sanctuary. Midday is spent exploring the City Museum's indoor exhibits, escaping the drizzle. Afternoon visits to the Walmolen and Three Kings Chapel provide quick shelter. Evening concludes at Amphion or Villa Ruimzicht, where the rainy Achterhoek landscape looks poetic from behind large glass windows. Enjoy the cozy Dutch 'gezelligheid' inside.",
+            "nl": "Ochtend bij St. Catherine’s biedt een droge toevlucht. De middag brengt u door met het verkennen van de binnenexposities van het Stadsmuseum, weg van de motregen. Middagbezoeken aan de Walmolen en de Kapel van de Drie Koningen bieden snelle beschutting. De avond sluit af bij Amphion of Villa Ruimzicht, waar het regenachtige Achterhoekse landschap poëtisch oogt achter grote ruiten. Geniet van de gezellige 'gezelligheid' binnen."
           },
           "stops": [
             {
@@ -342,7 +362,8 @@
                 "de": "Nutzen Sie den Vorraum, um den Regenschirm auszuschütteln, bevor Sie die Stille genießen.",
                 "hu": "Rázza le az esernyőt az előtérben, mielőtt belépne a templom csendes, száraz hajójába.",
                 "ro": "Scuturați umbrela în pridvor înainte de a intra în nava liniștită și uscată a bisericii.",
-                "en": "Shake your umbrella in the porch before entering the quiet, dry sanctuary of the nave."
+                "en": "Shake your umbrella in the porch before entering the quiet, dry sanctuary of the nave.",
+                "nl": "Schud uw paraplu in de portiek voordat u de stille, droge kerkruimte binnengaat."
               }
             },
             {
@@ -351,7 +372,8 @@
                 "de": "Perfekt für Regentage: Die umfangreichen Ausstellungen lassen Sie das Wetter draußen vergessen.",
                 "hu": "Tökéletes esős időre: a gazdag kiállítások feledtetik a kinti borús időjárást.",
                 "ro": "Perfect pentru zilele ploioase: expozițiile bogate vă fac să uitați de vremea de afară.",
-                "en": "Perfect for rainy days: the extensive exhibits will make you forget the gloomy weather."
+                "en": "Perfect for rainy days: the extensive exhibits will make you forget the gloomy weather.",
+                "nl": "Perfect voor regenachtige dagen: de uitgebreide collecties doen u het sombere weer vergeten."
               }
             },
             {
@@ -360,7 +382,8 @@
                 "de": "Der Innenbereich der Mühle bietet einen faszinierenden, trockenen Einblick in alte Technik.",
                 "hu": "A malom belső tere érdekes és száraz betekintést nyújt a régi ipari technológiába.",
                 "ro": "Interiorul morii oferă o privire fascinantă și uscată asupra tehnologiei industriale vechi.",
-                "en": "The mill's interior provides a fascinating, dry look into old industrial technology."
+                "en": "The mill's interior provides a fascinating, dry look into old industrial technology.",
+                "nl": "Het interieur van de molen geeft een fascinerend en droog inzicht in oude industriële technieken."
               }
             },
             {
@@ -369,7 +392,8 @@
                 "de": "Ein kurzer, aber stimmungsvoller Stopp, um einen heftigen Regenschauer abzuwarten.",
                 "hu": "Rövid, de hangulatos megálló, ideális egy hirtelen zápor átvészelésére.",
                 "ro": "O oprire scurtă, dar atmosferică, ideală pentru a aștepta trecerea unei averse bruște.",
-                "en": "A short but atmospheric stop, ideal for waiting out a sudden heavy rain shower."
+                "en": "A short but atmospheric stop, ideal for waiting out a sudden heavy rain shower.",
+                "nl": "Een korte maar sfeervolle stop, ideaal om een plotselinge zware bui uit te zitten."
               }
             },
             {
@@ -378,7 +402,8 @@
                 "de": "Das moderne Foyer ist ein warmer Treffpunkt vor der abendlichen Kulturaufführung.",
                 "hu": "A modern foyer meleg találkozóhely az esti kulturális előadás előtt.",
                 "ro": "Foaierul modern este un punct de întâlnire cald înainte de spectacolul cultural de seară.",
-                "en": "The modern foyer is a warm meeting point before the evening's cultural performance."
+                "en": "The modern foyer is a warm meeting point before the evening's cultural performance.",
+                "nl": "De moderne foyer is een warm trefpunt vóór de avondvoorstelling."
               }
             },
             {
@@ -387,7 +412,8 @@
                 "de": "Genießen Sie den Blick auf den regennassen Park bei einem exzellenten Abendessen im Trockenen.",
                 "hu": "Élvezze az eső áztatta park látványát egy kiváló vacsora mellől, biztonságos melegben.",
                 "ro": "Bucurați-vă de vederea parcului udat de ploaie în timpul unei cine excelente, la căldură.",
-                "en": "Enjoy the view of the rain-soaked park during an excellent dinner in the cozy warmth."
+                "en": "Enjoy the view of the rain-soaked park during an excellent dinner in the cozy warmth.",
+                "nl": "Geniet van het uitzicht op het doorweekte park tijdens een uitstekende maaltijd in de gezellige warmte."
               }
             }
           ],
@@ -415,6 +441,12 @@
               "The City Museum is the best place to bridge a longer rain front while staying dry.",
               "Use the covered passages in the Simonsplein shopping area for short walking routes.",
               "Look for small cafes with awnings for a quick, sheltered outdoor break."
+            ],
+            "nl": [
+              "Draag waterdichte schoenen, want plassen kunnen zich gemakkelijk vormen in de smalle straatjes van de oude binnenstad.",
+              "Het Stadsmuseum is de beste plek om een langere regenbui te overbruggen en droog te blijven.",
+              "Gebruik de overdekte passages in het winkelgebied Simonsplein voor korte wandelroutes.",
+              "Zoek kleine cafés met luifels voor een snel, beschut buitenterrasje."
             ]
           }
         },
@@ -423,7 +455,8 @@
             "de": "Wintermorgen an der Catharinakerk, wo Kerzenlicht Wärme spendet. Mittags wärmen wir uns im Stadtmuseum auf, bevor wir die winterliche Walmolen besuchen. Die Dreikönigskapelle bietet am Nachmittag einen friedlichen Rückzugsort. Da die Sonne früh untergeht, erstrahlt das Amphion Theater zeitig in festlichem Licht, und die Villa Ruimzicht lädt zu einem Abend am Kamin im verschneiten Park ein.",
             "hu": "Téli reggel a Szent Katalin-templomnál, ahol a gyertyák fénye ad meleget. Délben a Városi Múzeumban melegszünk fel, majd megnézzük a deres Walmolent. A Háromkirályok-kápolna békés menedék a délutáni hidegben. A korai naplemente miatt az Amphion Színház hamar ünnepi fénybe öltözik, a Villa Ruimzicht pedig kandalló melletti vacsorára hív a behavazott park ölelésében.",
             "ro": "Dimineață de iarnă la Biserica Sf. Ecaterina, unde lumina lumânărilor aduce căldură. La prânz ne încălzim în Muzeul Orașului înainte de a vedea moara Walmolen înghețată. Capela celor Trei Regi oferă un refugiu liniștit în frigul după-amiezii. Deoarece soarele apune devreme, Teatrul Amphion se aprinde festiv, iar Villa Ruimzicht vă invită la o cină lângă șemineu în parcul înzăpezit.",
-            "en": "Winter morning at St. Catherine's, where candlelight provides warmth. Midday is for warming up in the City Museum before visiting the frosty Walmolen. Three Kings Chapel offers a peaceful retreat in the afternoon cold. With the early sunset, Amphion Theatre lights up festively, and Villa Ruimzicht invites you for an evening by the fireplace overlooking the snowy park."
+            "en": "Winter morning at St. Catherine's, where candlelight provides warmth. Midday is for warming up in the City Museum before visiting the frosty Walmolen. Three Kings Chapel offers a peaceful retreat in the afternoon cold. With the early sunset, Amphion Theatre lights up festively, and Villa Ruimzicht invites you for an evening by the fireplace overlooking the snowy park.",
+            "nl": "Winterochtend bij Catharina, waar kaarslicht warmte geeft. Rond het middaguur kun je opwarmen in het Stadsmuseum vóór een bezoek aan de ijskoude Walmolen. De Driekoningenkapel biedt 's middags een rustige toevlucht in de koude. Met de vroege zonsondergang is het Amphion Theater feestelijk verlicht en nodigt Villa Ruimzicht uit voor een avond bij het haardvuur met uitzicht op het besneeuwde park."
           },
           "stops": [
             {
@@ -432,7 +465,8 @@
                 "de": "Bewundern Sie die Glasfenster, die im tiefen Winterlicht besonders mystisch wirken.",
                 "hu": "Csodálja meg az üvegablakokat, amelyek a mély téli fényben különösen misztikusak.",
                 "ro": "Admirați vitraliile care par deosebit de mistice în lumina slabă a iernii.",
-                "en": "Admire the stained glass windows, which look particularly mystical in the deep winter light."
+                "en": "Admire the stained glass windows, which look particularly mystical in the deep winter light.",
+                "nl": "Bewonder de glas-in-loodramen, die in het diepe winterlicht bijzonder mystiek ogen."
               }
             },
             {
@@ -441,7 +475,8 @@
                 "de": "Ein beheizter Zufluchtsort, um mehr über die regionale Geschichte der Achterhoek zu erfahren.",
                 "hu": "Fűtött menedékhely, ahol megismerheti az Achterhoek régió történelmét.",
                 "ro": "Un refugiu încălzit unde puteți afla mai multe despre istoria regiunii Achterhoek.",
-                "en": "A heated sanctuary where you can learn about the regional history of the Achterhoek."
+                "en": "A heated sanctuary where you can learn about the regional history of the Achterhoek.",
+                "nl": "Een verwarmde plaats waar je kunt leren over de regionale geschiedenis van de Achterhoek."
               }
             },
             {
@@ -450,7 +485,8 @@
                 "de": "Vorsicht bei Frost: Die Stufen zur Mühle können bei winterlicher Kälte rutschig sein.",
                 "hu": "Vigyázat fagy esetén: a malomhoz vezető lépcsők csúszósak lehetnek a téli hidegben.",
                 "ro": "Atenție la îngheț: treptele către moară pot fi alunecoase în frigul iernii.",
-                "en": "Watch out for frost: the steps to the mill can be slippery in the winter cold."
+                "en": "Watch out for frost: the steps to the mill can be slippery in the winter cold.",
+                "nl": "Let op vorst: de trappen naar de molen kunnen glad zijn bij winterkou."
               }
             },
             {
@@ -459,7 +495,8 @@
                 "de": "Ein stimmungsvoller Ort für eine kurze Rast und ein stilles Gebet in der Kälte.",
                 "hu": "Hangulatos hely egy rövid pihenőre és csendes imára a téli hidegben.",
                 "ro": "Un loc atmosferic pentru o scurtă odihnă și o rugăciune tăcută în frigul iernii.",
-                "en": "An atmospheric place for a short rest and silent prayer in the winter cold."
+                "en": "An atmospheric place for a short rest and silent prayer in the winter cold.",
+                "nl": "Een sfeervolle plek voor een korte rust en stille gebed in de winterkou."
               }
             },
             {
@@ -468,7 +505,8 @@
                 "de": "Holen Sie sich ein heißes Getränk an der Bar, während Sie auf den Einlass warten.",
                 "hu": "Igyon egy forró italt a bárnál, miközben várja az esti előadás kezdetét.",
                 "ro": "Luați o băutură caldă de la bar în timp ce așteptați începerea spectacolului.",
-                "en": "Grab a hot drink at the bar while waiting for the evening performance to begin."
+                "en": "Grab a hot drink at the bar while waiting for the evening performance to begin.",
+                "nl": "Pak een warme drank aan de bar terwijl je wacht tot de avondvoorstelling begint."
               }
             },
             {
@@ -477,7 +515,8 @@
                 "de": "Der Kaminabend in diesem historischen Herrenhaus ist der perfekte Winterabschluss.",
                 "hu": "A kandalló melletti este ebben a történelmi kúriában a tökéletes téli zárás.",
                 "ro": "O seară lângă șemineu în acest conac istoric este finalul perfect de iarnă.",
-                "en": "An evening by the fireplace in this historic manor is the perfect winter finale."
+                "en": "An evening by the fireplace in this historic manor is the perfect winter finale.",
+                "nl": "Een avond bij het haardvuur in dit historische landhuis is het perfecte wintereinde."
               }
             }
           ],
@@ -505,6 +544,12 @@
               "Dress in layers: it's windy outside, but the museums are kept very warm.",
               "Main town sidewalks are usually well-cleared, but be careful of ice on side streets.",
               "Warm up periodically in one of the many cozy cafes around the market square."
+            ],
+            "nl": [
+              "Plan je rondleiding zo dat je om 16:30 binnen bent vanwege de vroege winterzonsondergang.",
+              "Kleed je in lagen: het is winderig buiten, maar de musea zijn goed verwarmd.",
+              "De trottoirs in de hoofdstraat zijn meestal goed schoongehouden, maar pas op voor ijs in de zijstraten.",
+              "Warm af en toe op in een van de vele gezellige cafés rond de markt."
             ]
           }
         }
@@ -523,7 +568,8 @@
             "de": "Walmühle",
             "hu": "Walmolen (szélmalom)",
             "ro": "Moara de vânt Walmolen",
-            "en": "The Walmolen Windmill"
+            "en": "The Walmolen Windmill",
+            "nl": "De Walmolen"
           },
           "coords": [
             6.2881,
@@ -539,7 +585,8 @@
             "de": "Perfekter Startpunkt für eine Radtour, um einen ersten Eindruck von der Stadt zu bekommen.",
             "hu": "Tökéletes kiindulópont egy kerékpártúrához, hogy első benyomást szerezzen a városról.",
             "ro": "Punct de plecare perfect pentru un tur cu bicicleta pentru a obține o primă impresie despre oraș.",
-            "en": "A perfect starting point for a bike tour to get a first impression of the city."
+            "en": "A perfect starting point for a bike tour to get a first impression of the city.",
+            "nl": "Een perfect startpunt voor een fietstocht om een eerste indruk van de stad te krijgen."
           }
         },
         {
@@ -547,7 +594,8 @@
             "de": "Catharinakirche",
             "hu": "Szent Katalin-templom",
             "ro": "Biserica Sfânta Ecaterina",
-            "en": "St. Catherine's Church"
+            "en": "St. Catherine's Church",
+            "nl": "Catharinakerk"
           },
           "coords": [
             6.2915,
@@ -563,7 +611,8 @@
             "de": "Stellen Sie Ihr Fahrrad in der Nähe ab und nehmen Sie sich Zeit für das Innere der Kirche.",
             "hu": "Parkolja le a kerékpárját a közelben, és szánjon időt a templom belsejére.",
             "ro": "Parcați bicicleta în apropiere și acordați-vă timp pentru a explora interiorul bisericii.",
-            "en": "Park your bike nearby and take your time to explore the church's interior."
+            "en": "Park your bike nearby and take your time to explore the church's interior.",
+            "nl": "Zet je fiets in de buurt neer en neem de tijd om het interieur van de kerk te verkennen."
           }
         },
         {
@@ -571,7 +620,8 @@
             "de": "Stadtmuseum Doetinchem",
             "hu": "Doetinchemi Városi Múzeum",
             "ro": "Muzeul Municipal Doetinchem",
-            "en": "Doetinchem City Museum"
+            "en": "Doetinchem City Museum",
+            "nl": "Doetinchem Stadsmuseum"
           },
           "coords": [
             6.2925,
@@ -587,7 +637,8 @@
             "de": "Eine willkommene Pause vom Radfahren, um in die Kultur der Region einzutauchen.",
             "hu": "Kellemes pihenő a kerékpározás után, hogy elmerüljön a régió kultúrájában.",
             "ro": "O pauză binevenită de la ciclism pentru a vă cufunda în cultura regiunii.",
-            "en": "A welcome break from cycling to immerse yourself in the region's culture."
+            "en": "A welcome break from cycling to immerse yourself in the region's culture.",
+            "nl": "Een welkome pauze van het fietsen om je onder te dompelen in de cultuur van de regio."
           }
         },
         {
@@ -595,7 +646,8 @@
             "de": "Villa Ruimzicht",
             "hu": "Villa Ruimzicht",
             "ro": "Vila Ruimzicht",
-            "en": "Villa Ruimzicht"
+            "en": "Villa Ruimzicht",
+            "nl": "Villa Ruimzicht"
           },
           "coords": [
             6.3001,
@@ -611,7 +663,8 @@
             "de": "Ein schöner kurzer Abstecher, bevor Sie sich auf den Weg zum Mittagessen machen.",
             "hu": "Egy szép, rövid kitérő, mielőtt elindul ebédelni.",
             "ro": "Un ocol scurt și frumos înainte de a porni spre prânz.",
-            "en": "A nice short detour before you head off for lunch."
+            "en": "A nice short detour before you head off for lunch.",
+            "nl": "Een leuke korte omweg voordat je op pad gaat voor de lunch."
           }
         },
         {
@@ -619,7 +672,8 @@
             "de": "Oosseld Park",
             "hu": "Oosseld park",
             "ro": "Parcul Oosseld",
-            "en": "Oosseld Park"
+            "en": "Oosseld Park",
+            "nl": "Oosseldpark"
           },
           "coords": [
             6.27,
@@ -635,7 +689,8 @@
             "de": "Fahren Sie durch den Park und machen Sie eine Pause am Wasser.",
             "hu": "Tekerjen át a parkon, és tartson egy kis szünetet a vízparton.",
             "ro": "Pedalați prin parc și faceți o pauză lângă apă.",
-            "en": "Cycle through the park and take a break by the water."
+            "en": "Cycle through the park and take a break by the water.",
+            "nl": "Fiets door het park en neem een pauze bij het water."
           }
         },
         {
@@ -643,7 +698,8 @@
             "de": "Theater Amphion",
             "hu": "Amphion Színház",
             "ro": "Teatrul Amphion",
-            "en": "Amphion Theatre"
+            "en": "Amphion Theatre",
+            "nl": "Amphion Theater"
           },
           "coords": [
             6.2859,
@@ -659,7 +715,8 @@
             "de": "Der letzte Halt Ihrer Tour, ein Symbol für das moderne Doetinchem.",
             "hu": "A túra utolsó állomása, a modern Doetinchem szimbóluma.",
             "ro": "Ultima oprire a turului dvs., un simbol al Doetinchemului modern.",
-            "en": "The final stop of your tour, a symbol of modern Doetinchem."
+            "en": "The final stop of your tour, a symbol of modern Doetinchem.",
+            "nl": "De laatste stop van je rondje, een symbool van het moderne Doetinchem."
           }
         }
       ],
@@ -667,7 +724,8 @@
         "de": "Ihre Fahrradtour startet bei der historischen Walmühle und führt Sie dann ins Zentrum zur Catharinakirche. Nach einem kulturellen Stopp im Stadtmuseum radeln Sie zur eleganten Villa Ruimzicht. Die Mittagszeit verbringen Sie mit einer längeren Fahrt zum Oosseld Park, ideal für eine entspannte Pause im Grünen. Der Tag klingt mit einem Blick auf das moderne Amphion Theater aus, bevor Sie Ihre Erkundungstour beenden.",
         "hu": "Kerékpártúrája a történelmi Walmolen-malomnál kezdődik, majd a központba, a Szent Katalin-templomhoz vezet. A városi múzeumban tett kulturális megálló után az elegáns Villa Ruimzichthez teker. Az ebédidőt egy hosszabb úttal az Oosseld Parkba tölti, amely ideális egy pihentető szünethez a zöldben. A nap a modern Amphion Színház megtekintésével zárul, mielőtt befejezné felfedezőútját.",
         "ro": "Turul dvs. cu bicicleta începe la istorica moară Walmolen și vă duce apoi în centru, la Biserica Sf. Ecaterina. După o oprire culturală la Muzeul Municipal, pedalați spre eleganta Vilă Ruimzicht. Petreceți pauza de prânz cu o plimbare mai lungă spre Parcul Oosseld, ideal pentru o pauză relaxantă în natură. Ziua se încheie cu o privire la modernul Teatru Amphion înainte de a încheia explorarea.",
-        "en": "Your bike tour starts at the historic Walmolen windmill and then takes you to the center, to St. Catherine's Church. After a cultural stop at the City Museum, you'll cycle to the elegant Villa Ruimzicht. You'll spend your lunch break with a longer ride to Oosseld Park, ideal for a relaxing break in the green. The day concludes with a look at the modern Amphion Theatre before you finish your exploration."
+        "en": "Your bike tour starts at the historic Walmolen windmill and then takes you to the center, to St. Catherine's Church. After a cultural stop at the City Museum, you'll cycle to the elegant Villa Ruimzicht. You'll spend your lunch break with a longer ride to Oosseld Park, ideal for a relaxing break in the green. The day concludes with a look at the modern Amphion Theatre before you finish your exploration.",
+        "nl": "Je fietstocht begint bij de historische Walmolen en leidt je naar het centrum, naar de Catharinakerk. Na een cultureel bezoek aan het Stadsmuseum fiets je naar de statige Villa Ruimzicht. Tijdens je lunchpauze maak je een wat langere rit naar Oosseldpark, ideaal voor een ontspannende pauze in het groen. De dag eindigt met een blik op het moderne Amphion Theater voordat je je verkenning afsluit."
       },
       "gastro_picks": {
         "de": [
@@ -827,6 +885,12 @@
           "Pay attention to the special bike paths and traffic rules for cyclists.",
           "A helmet is recommended but not mandatory.",
           "Always lock your bike securely, even for short stops."
+        ],
+        "nl": [
+          "Huur je fiets van tevoren, vooral in het weekend.",
+          "Let op de speciale fietspaden en verkeersregels voor fietsers.",
+          "Een helm wordt aangeraden maar is niet verplicht.",
+          "Sloot je fiets altijd goed af, ook bij korte stops."
         ]
       },
       "variants": {
@@ -835,7 +899,8 @@
             "de": "Eine regnerische Radtour beginnt an der Walmolen, wo wir kurz Schutz suchen. Über die Catharinakerk erreichen wir das Stadtmuseum für eine lange Regenpause. Die Fahrt zur Villa Ruimzicht erfordert gute Regenbekleidung. Nach einer Runde durch den nassen Oosseld Park bietet das Amphion Theater den trockenen, kulturellen Abschluss dieses aktiven Tages in Doetinchem.",
             "hu": "Az esős kerékpártúra a Walmolennél indul, ahol rövid védelmet keresünk. A Szent Katalin-templom érintésével érjük el a Városi Múzeumot egy hosszú esőpihenőre. A Villa Ruimzicht felé vezető út jó esőfelszerelést igényel. A vizes Oosseld Park után az Amphion Színház nyújt száraz, kulturális zárást ennek az aktív napnak Doetinchemben.",
             "ro": "O tură cu bicicleta pe ploaie începe la Walmolen, unde căutăm un scurt adăpost. Prin Biserica Sf. Ecaterina ajungem la Muzeul Orașului pentru o pauză lungă de ploaie. Drumul spre Villa Ruimzicht necesită echipament de ploaie bun. După o tură prin Parcul Oosseld ud, Teatrul Amphion oferă finalul cultural și uscat al acestei zile active în Doetinchem.",
-            "en": "A rainy bike tour starts at the Walmolen, where we seek brief shelter. Via St. Catherine's, we reach the City Museum for a long rain break. The ride to Villa Ruimzicht requires good waterproof gear. After a loop through the wet Oosseld Park, the Amphion Theatre provides the dry, cultural conclusion to this active day in Doetinchem."
+            "en": "A rainy bike tour starts at the Walmolen, where we seek brief shelter. Via St. Catherine's, we reach the City Museum for a long rain break. The ride to Villa Ruimzicht requires good waterproof gear. After a loop through the wet Oosseld Park, the Amphion Theatre provides the dry, cultural conclusion to this active day in Doetinchem.",
+            "nl": "Een regenachtige fietstocht begint bij de Walmolen, waar we kort schuilen. Via de Catharinakerk bereiken we het Stadsmuseum voor een lange regenpauze. De rit naar Villa Ruimzicht vereist goede waterdichte kleding. Na een lus door het natte Oosseldpark biedt het Amphion Theater de droge, culturele afsluiting van deze actieve dag in Doetinchem."
           },
           "stops": [
             {
@@ -844,7 +909,8 @@
                 "de": "Stellen Sie Ihr Rad unter dem Dachvorsprung ab, um den Sattel trocken zu halten.",
                 "hu": "Állítsa a kerékpárt az ereszkedő alá, hogy a nyereg száraz maradjon.",
                 "ro": "Parcați bicicleta sub streașină pentru a păstra șaua uscată.",
-                "en": "Park your bike under the overhang to keep the saddle dry while you visit."
+                "en": "Park your bike under the overhang to keep the saddle dry while you visit.",
+                "nl": "Zet je fiets onder de overkapping om het zadel droog te houden tijdens je bezoek."
               }
             },
             {
@@ -853,7 +919,8 @@
                 "de": "Ein schneller Stopp; nutzen Sie die Zeit, um Ihre Regenjacke kurz auszuschütteln.",
                 "hu": "Gyors megálló; használja az időt az esőkabát rövid lerázására.",
                 "ro": "O oprire rapidă; folosiți timpul pentru a scutura puțin pelerina de ploaie.",
-                "en": "A quick stop; use the time to briefly shake off your raincoat before continuing."
+                "en": "A quick stop; use the time to briefly shake off your raincoat before continuing.",
+                "nl": "Een korte stop; gebruik de tijd om je regenjas even uit te kloppen voordat je verdergaat."
               }
             },
             {
@@ -862,7 +929,8 @@
                 "de": "Nutzen Sie die Garderobe, um Ihre nassen Sachen während des Besuchs zu trocknen.",
                 "hu": "Használja a ruhatárat a vizes holmik szárítására a látogatás ideje alatt.",
                 "ro": "Folosiți garderoba pentru a vă usca hainele ude în timpul vizitei.",
-                "en": "Use the cloakroom to dry your wet gear during your museum visit."
+                "en": "Use the cloakroom to dry your wet gear during your museum visit.",
+                "nl": "Gebruik de garderobe om je natte spullen te laten drogen tijdens je museumbezoek."
               }
             },
             {
@@ -871,7 +939,8 @@
                 "de": "Überdachte Fahrradständer befinden sich in der Nähe des Haupteingangs.",
                 "hu": "Fedett kerékpártárolók találhatók a főbejárat közelében.",
                 "ro": "Suporturi de biciclete acoperite se află în apropierea intrării principale.",
-                "en": "Covered bike racks are located near the main entrance for your convenience."
+                "en": "Covered bike racks are located near the main entrance for your convenience.",
+                "nl": "Overdekte fietsenrekken bevinden zich bij de hoofdingang voor je gemak."
               }
             },
             {
@@ -880,7 +949,8 @@
                 "de": "Achtung: Die asphaltierten Wege können bei Regen und Laub rutschig sein.",
                 "hu": "Figyelem: az aszfaltozott utak esőben és a levelektől csúszósak lehetnek.",
                 "ro": "Atenție: aleile asfaltate pot fi alunecoase din cauza ploii și a frunzelor.",
-                "en": "Caution: the paved paths can be slippery with rain and fallen leaves."
+                "en": "Caution: the paved paths can be slippery with rain and fallen leaves.",
+                "nl": "Let op: de verharde paden kunnen glad zijn door regen en gevallen bladeren."
               }
             },
             {
@@ -889,7 +959,8 @@
                 "de": "Ein sicherer Ort, um das Rad abzustellen und den Tag entspannt zu beenden.",
                 "hu": "Biztonságos hely a bicikli leállítására és a nap nyugodt befejezésére.",
                 "ro": "Un loc sigur pentru a lăsa bicicleta și a încheia ziua relaxat.",
-                "en": "A secure place to park your bike and finish the day in relaxation."
+                "en": "A secure place to park your bike and finish the day in relaxation.",
+                "nl": "Een veilige plek om je fiets te parkeren en de dag ontspannen af te sluiten."
               }
             }
           ],
@@ -917,6 +988,12 @@
               "Brake cautiously on the wet cobblestone sections in the city center.",
               "Avoid puddles as they can hide deep potholes in the road surface.",
               "Utilize the bike station at the railway station for dry long-term parking."
+            ],
+            "nl": [
+              "Draag volledige waterdichte kleding, inclusief regenbroek, voor optimaal comfort tijdens het fietsen.",
+              "Rem voorzichtig op de natte klinkersecties in het stadscentrum.",
+              "Vermijd plassen, want die kunnen diepe kuilen in het wegdek verbergen.",
+              "Maak gebruik van het fietsenstalling bij het treinstation voor droge, langparkeermogelijkheden."
             ]
           }
         },
@@ -925,7 +1002,8 @@
             "de": "Winterliches Radeln startet an der frostigen Walmolen. Nach einem Stopp an der Catharinakerk wärmen wir uns im Stadtmuseum gründlich auf. Die Fahrt zur Villa Ruimzicht führt durch die klare, kalte Luft von Gelderland. Der Oosseld Park wirkt im Winterschlaf besonders friedlich. Wir beenden die Tour am Amphion Theater, bevor die Dunkelheit und die frostige Kälte zunehmen.",
             "hu": "A téli biciklizés a deres Walmolennél indul. A Szent Katalin-templom után a Városi Múzeumban alaposan felmelegszünk. A Villa Ruimzicht felé vezető út Gelderland tiszta, hideg levegőjén át visz. Az Oosseld Park téli álma során különösen békésnek tűnik. A túrát az Amphion Színháznál fejezzük be, mielőtt beállna a sötétség és a fagyos hideg.",
             "ro": "Ciclismul de iarnă începe la moara Walmolen înghețată. După o oprire la Biserica Sf. Ecaterina, ne încălzim bine în Muzeul Orașului. Drumul spre Villa Ruimzicht trece prin aerul curat și rece din Gelderland. Parcul Oosseld pare deosebit de liniștit în somnul de iarnă. Încheiem turul la Teatrul Amphion înainte ca întunericul și frigul să se intensifice.",
-            "en": "Winter cycling starts at the frosty Walmolen. After a stop at St. Catherine's, we warm up thoroughly in the City Museum. The ride to Villa Ruimzicht takes us through the crisp, cold air of Gelderland. Oosseld Park looks especially peaceful in its winter sleep. We finish the tour at the Amphion Theatre before the darkness and freezing cold set in."
+            "en": "Winter cycling starts at the frosty Walmolen. After a stop at St. Catherine's, we warm up thoroughly in the City Museum. The ride to Villa Ruimzicht takes us through the crisp, cold air of Gelderland. Oosseld Park looks especially peaceful in its winter sleep. We finish the tour at the Amphion Theatre before the darkness and freezing cold set in.",
+            "nl": "Winterfietsen begint bij de ijzige Walmolen. Na een stop bij de Catharinakerk warmen we ons goed op in het Stadsmuseum. De rit naar Villa Ruimzicht voert ons door de scherpe, koude lucht van Gelderland. Oosseldpark oogt bijzonder vredig in zijn winterslaap. We sluiten de tocht af bij het Amphion Theater voordat de duisternis en de vrieskou intreden."
           },
           "stops": [
             {
@@ -934,7 +1012,8 @@
                 "de": "Genießen Sie den Anblick der Mühle vor dem stahlblauen Winterhimmel.",
                 "hu": "Élvezze a malom látványát az acélkék téli égbolt előtt.",
                 "ro": "Bucurați-vă de vederea morii pe fundalul cerului albastru de iarnă.",
-                "en": "Enjoy the sight of the windmill against the steel-blue winter sky."
+                "en": "Enjoy the sight of the windmill against the steel-blue winter sky.",
+                "nl": "Geniet van het zicht op de molen tegen de staalblauwe winternachtlucht."
               }
             },
             {
@@ -943,7 +1022,8 @@
                 "de": "Ein Ort der Stille, um kurz die Hände aufzuwärmen und innezuhalten.",
                 "hu": "A csend helye, ahol rövid időre felmelegítheti a kezét és megpihenhet.",
                 "ro": "Un loc de liniște unde vă puteți încălzi scurt mâinile și medita.",
-                "en": "A place of silence to briefly warm your hands and pause for a moment."
+                "en": "A place of silence to briefly warm your hands and pause for a moment.",
+                "nl": "Een plek van stilte om even je handen op te warmen en te pauzeren."
               }
             },
             {
@@ -952,7 +1032,8 @@
                 "de": "Ideal, um die Kälte der Fahrt für eine Stunde komplett zu vergessen.",
                 "hu": "Ideális hely, hogy egy órára teljesen elfelejtse a tekerés közbeni hideget.",
                 "ro": "Ideal pentru a uita complet de frigul călătoriei timp de o oră.",
-                "en": "Ideal for completely forgetting the cold of the ride for an hour."
+                "en": "Ideal for completely forgetting the cold of the ride for an hour.",
+                "nl": "Ideaal om het koude van de rit voor een uur helemaal te vergeten."
               }
             },
             {
@@ -961,7 +1042,8 @@
                 "de": "Ein heißer Kakao hier wirkt Wunder nach einer Fahrt durch den Winterwind.",
                 "hu": "Egy forró kakaó itt csodákra képes a téli szélben való tekerés után.",
                 "ro": "O ciocolată caldă aici face minuni după o tură prin vântul de iarnă.",
-                "en": "A hot cocoa here works wonders after a ride through the winter wind."
+                "en": "A hot cocoa here works wonders after a ride through the winter wind.",
+                "nl": "Een warme cacao hier doet wonderen na een rit door de winterwind."
               }
             },
             {
@@ -970,7 +1052,8 @@
                 "de": "Fahren Sie vorsichtig, da die Wege im Schatten vereist sein können.",
                 "hu": "Hajtson óvatosan, mert az árnyékos szakaszokon az utak jegesek lehetnek.",
                 "ro": "Conduceți cu atenție, deoarece aleile din zonele umbrite pot fi înghețate.",
-                "en": "Ride carefully, as paths in shaded areas can remain icy all day."
+                "en": "Ride carefully, as paths in shaded areas can remain icy all day.",
+                "nl": "Rijd voorzichtig, want paden in schaduwrijke delen kunnen de hele dag ijzig blijven."
               }
             },
             {
@@ -979,7 +1062,8 @@
                 "de": "Vergewissern Sie sich, dass Ihre Fahrradbeleuchtung für den Rückweg funktioniert.",
                 "hu": "Győződjön meg róal, hogy a kerékpáros világítás működik a hazaúthoz.",
                 "ro": "Asigurați-vă că luminile bicicletei funcționează pentru drumul de întoarcere.",
-                "en": "Make sure your bike lights are working for the journey back in the dark."
+                "en": "Make sure your bike lights are working for the journey back in the dark.",
+                "nl": "Zorg dat je fietslampen werken voor de terugreis in het donker."
               }
             }
           ],
@@ -1007,6 +1091,12 @@
               "Check tire pressure before starting; it often drops slightly in the cold.",
               "Watch out for frost on the bridges over the Oude IJssel river.",
               "Ride defensively as braking distances are longer on slippery winter roads."
+            ],
+            "nl": [
+              "Draag winddichte handschoenen en een dunne muts onder je helm.",
+              "Controleer de bandenspanning vóór vertrek; die daalt vaak iets in de kou.",
+              "Let op vorst op de bruggen over de Oude IJssel.",
+              "Rijd defensief, want de remweg is langer op gladde winterwegen."
             ]
           }
         }
@@ -1025,7 +1115,8 @@
             "de": "Cluster Zentrum: Catharinakirche",
             "hu": "Központ Klaszter: Szent Katalin-templom",
             "ro": "Cluster Centru: Biserica Sfânta Ecaterina",
-            "en": "Center Cluster: St. Catherine's Church"
+            "en": "Center Cluster: St. Catherine's Church",
+            "nl": "Centrumcluster: Catharinakerk"
           },
           "coords": [
             6.2915,
@@ -1041,7 +1132,8 @@
             "de": "Parken Sie Ihr Auto auf einem der zentralen Parkplätze und beginnen Sie Ihren Rundgang hier.",
             "hu": "Parkolja le autóját az egyik központi parkolóban, és innen kezdje a sétát.",
             "ro": "Parcați mașina într-una dintre parcările centrale și începeți turul pietonal de aici.",
-            "en": "Park your car in one of the central car parks and start your walking tour here."
+            "en": "Park your car in one of the central car parks and start your walking tour here.",
+            "nl": "Parkeer je auto in een van de centrale parkeergarages en begin hier je wandelroute."
           }
         },
         {
@@ -1049,7 +1141,8 @@
             "de": "Cluster Zentrum: Stadtmuseum",
             "hu": "Központ Klaszter: Városi Múzeum",
             "ro": "Cluster Centru: Muzeul Municipal",
-            "en": "Center Cluster: City Museum"
+            "en": "Center Cluster: City Museum",
+            "nl": "Centrumcluster: Stadsmuseum"
           },
           "coords": [
             6.2925,
@@ -1065,7 +1158,8 @@
             "de": "Ein kurzer Spaziergang von der Kirche entfernt. Lassen Sie das Auto stehen.",
             "hu": "Rövid séta a templomtól. Hagyja az autót a parkolóban.",
             "ro": "La o scurtă plimbare de biserică. Lăsați mașina parcată.",
-            "en": "A short walk from the church. Leave the car parked."
+            "en": "A short walk from the church. Leave the car parked.",
+            "nl": "Een korte wandeling vanaf de kerk. Laat de auto staan."
           }
         },
         {
@@ -1073,7 +1167,8 @@
             "de": "Cluster Zentrum: Walmühle",
             "hu": "Központ Klaszter: Walmolen",
             "ro": "Cluster Centru: Moara Walmolen",
-            "en": "Center Cluster: The Walmolen Windmill"
+            "en": "Center Cluster: The Walmolen Windmill",
+            "nl": "Centrumcluster: De Walmolen"
           },
           "coords": [
             6.2881,
@@ -1089,7 +1184,8 @@
             "de": "Der Spaziergang zur Mühle ist eine gute Gelegenheit, sich vor dem Mittagessen die Beine zu vertreten.",
             "hu": "A malomhoz vezető séta jó alkalom arra, hogy ebéd előtt kinyújtóztassa a lábát.",
             "ro": "Plimbarea până la moară este o bună ocazie de a vă dezmorți picioarele înainte de prânz.",
-            "en": "The walk to the mill is a good opportunity to stretch your legs before lunch."
+            "en": "The walk to the mill is a good opportunity to stretch your legs before lunch.",
+            "nl": "De wandeling naar de molen is een goed moment om je benen te strekken vóór de lunch."
           }
         },
         {
@@ -1097,7 +1193,8 @@
             "de": "Schloss Slangenburg",
             "hu": "Slangenburg kastély",
             "ro": "Castelul Slangenburg",
-            "en": "Slangenburg Castle"
+            "en": "Slangenburg Castle",
+            "nl": "Kasteel Slangenburg"
           },
           "coords": [
             6.355,
@@ -1113,7 +1210,8 @@
             "de": "Eine kurze Fahrt bringt Sie zu diesem beeindruckenden Schloss. Genießen Sie die Gärten.",
             "hu": "Rövid autóút vezet ehhez a lenyűgöző kastélyhoz. Élvezze a kertjeit!",
             "ro": "O scurtă călătorie cu mașina vă duce la acest castel impresionant. Bucurați-vă de grădini.",
-            "en": "A short drive takes you to this impressive castle. Enjoy the gardens."
+            "en": "A short drive takes you to this impressive castle. Enjoy the gardens.",
+            "nl": "Een korte rit brengt je naar dit imposante kasteel. Geniet van de tuinen."
           }
         },
         {
@@ -1121,7 +1219,8 @@
             "de": "Villa Ruimzicht",
             "hu": "Villa Ruimzicht",
             "ro": "Vila Ruimzicht",
-            "en": "Villa Ruimzicht"
+            "en": "Villa Ruimzicht",
+            "nl": "Villa Ruimzicht"
           },
           "coords": [
             6.3001,
@@ -1137,7 +1236,8 @@
             "de": "Ein perfekter letzter Halt auf dem Rückweg in die Stadt, um den Tag ausklingen zu lassen.",
             "hu": "Tökéletes utolsó megálló a városba visszatérve, hogy lezárja a napot.",
             "ro": "O oprire perfectă la întoarcerea în oraș pentru a încheia ziua.",
-            "en": "A perfect final stop on your way back into town to round off the day."
+            "en": "A perfect final stop on your way back into town to round off the day.",
+            "nl": "Een perfect laatste stop op weg terug naar de stad om de dag af te ronden."
           }
         }
       ],
@@ -1145,7 +1245,8 @@
         "de": "Beginnen Sie Ihren Tag, indem Sie im Zentrum von Doetinchem parken. Erkunden Sie zu Fuß die Catharinakirche, das Stadtmuseum und die Walmühle. Nach dem Mittagessen fahren Sie zum prächtigen Schloss Slangenburg, das etwas außerhalb liegt. Verbringen Sie dort Zeit in den Gärten und im Schloss selbst. Auf dem Rückweg in die Stadt machen Sie einen letzten Halt bei der eleganten Villa Ruimzicht, ein idealer Ort für einen Kaffee am Nachmittag.",
         "hu": "Kezdje a napot Doetinchem központjában parkolva. Fedezze fel gyalog a Szent Katalin-templomot, a Városi Múzeumot és a Walmolen-t. Ebéd után autózzon el a városon kívül található, csodálatos Slangenburg kastélyhoz. Töltsön időt a kertekben és magában a kastélyban. Visszafelé a városba tegyen egy utolsó megállót az elegáns Villa Ruimzichtnél, amely ideális hely egy délutáni kávéra.",
         "ro": "Începeți ziua parcând în centrul orașului Doetinchem. Explorați pe jos Biserica Sf. Ecaterina, Muzeul Municipal și Moara Walmolen. După prânz, conduceți spre magnificul Castel Slangenburg, situat chiar în afara orașului. Petreceți timp în grădini și în castel. La întoarcerea în oraș, faceți o ultimă oprire la eleganta Vilă Ruimzicht, un loc ideal pentru o cafea de după-amiază.",
-        "en": "Start your day by parking in the center of Doetinchem. Explore St. Catherine's Church, the City Museum, and the Walmolen windmill on foot. After lunch, drive to the magnificent Slangenburg Castle, located just outside the city. Spend time in the gardens and the castle itself. On your way back into town, make a final stop at the elegant Villa Ruimzicht, an ideal spot for an afternoon coffee."
+        "en": "Start your day by parking in the center of Doetinchem. Explore St. Catherine's Church, the City Museum, and the Walmolen windmill on foot. After lunch, drive to the magnificent Slangenburg Castle, located just outside the city. Spend time in the gardens and the castle itself. On your way back into town, make a final stop at the elegant Villa Ruimzicht, an ideal spot for an afternoon coffee.",
+        "nl": "Begin de dag door in het centrum van Doetinchem te parkeren. Verken de Catharinakerk, het Stadsmuseum en de Walmolen te voet. Na de lunch rijd je naar het prachtige Kasteel Slangenburg net buiten de stad. Breng tijd door in de tuinen en in het kasteel zelf. Onderweg terug naar de stad maak je een laatste stop bij de elegante Villa Ruimzicht, een ideale plek voor een middagmaal met koffie."
       },
       "gastro_picks": {
         "de": [
@@ -1305,6 +1406,12 @@
           "Allow enough time for traffic, especially in the afternoon.",
           "The car allows you to comfortably reach more distant attractions like Slangenburg Castle.",
           "Be aware of any low-emission zones in the city."
+        ],
+        "nl": [
+          "Controleer van tevoren parkeermogelijkheden en -tarieven in het stadscentrum.",
+          "Neem voldoende tijd voor verkeer, vooral in de middag.",
+          "Met de auto bereik je comfortabel verder weg gelegen bezienswaardigheden zoals Kasteel Slangenburg.",
+          "Let op eventuele milieuzones in de stad."
         ]
       },
       "variants": {
@@ -1313,7 +1420,8 @@
             "de": "Ein entspannter Regentag mit dem Auto beginnt im Zentrum bei der Catharinakerk. Das Stadtmuseum und die Walmolen sind nur kurze Wege vom Parkplatz entfernt. Nachmittags fahren wir zum Schloss Slangenburg, das im Regen besonders mystisch wirkt. Den Tag lassen wir in der Villa Ruimzicht ausklingen, während wir das Auto sicher im Blick haben und trocken von Ort zu Ort gelangen.",
             "hu": "Egy kényelmes esős nap autóval a központban, a Szent Katalin-templomnál indul. A Városi Múzeum és a Walmolen csak rövid sétára van a parkolótól. Délután a Slangenburg kastélyhoz hajtunk, amely az esőben különösen misztikus látványt nyújt. A napot a Villa Ruimzichtnél zárjuk, miközben szárazon és kényelmesen jutunk el egyik helyszínről a másikra.",
             "ro": "O zi relaxată de ploaie cu mașina începe în centru la Biserica Sf. Ecaterina. Muzeul Orașului și moara Walmolen sunt la scurtă distanță de parcare. După-amiaza conducem spre Castelul Slangenburg, care pare deosebit de mistic pe ploaie. Încheiem ziua la Villa Ruimzicht, ajungând uscați și confortabil de la un obiectiv la altul.",
-            "en": "A relaxed rainy day by car starts in the center at St. Catherine's. The City Museum and Walmolen are just short walks from the parking. Afternoon takes us to Slangenburg Castle, which looks especially mystical in the rain. We conclude the day at Villa Ruimzicht, enjoying the convenience of staying dry while traveling between sites."
+            "en": "A relaxed rainy day by car starts in the center at St. Catherine's. The City Museum and Walmolen are just short walks from the parking. Afternoon takes us to Slangenburg Castle, which looks especially mystical in the rain. We conclude the day at Villa Ruimzicht, enjoying the convenience of staying dry while traveling between sites.",
+            "nl": "Een ontspannen regenachtige dag met de auto begint in het centrum bij de Catharinakerk. Het Stadsmuseum en de Walmolen zijn korte wandelingen vanaf de parkeergelegenheid. 's Middags brengt ons naar Kasteel Slangenburg, dat in de regen extra mystiek oogt. We sluiten de dag af bij Villa Ruimzicht en genieten van het gemak van droog reizen tussen de bezienswaardigheden."
           },
           "stops": [
             {
@@ -1322,7 +1430,8 @@
                 "de": "Parken Sie im Parkhaus am Marktplatz für einen kurzen, trockenen Weg zur Kirche.",
                 "hu": "Parkoljon a főtéri parkolóházban, hogy szárazon érje el a templomot.",
                 "ro": "Parcați în parcarea supraetajată din piață pentru un drum scurt și uscat.",
-                "en": "Park in the market square parking garage for a short, dry walk to the church."
+                "en": "Park in the market square parking garage for a short, dry walk to the church.",
+                "nl": "Parkeer in de parkeergarage op de markt voor een korte, droge wandeling naar de kerk."
               }
             },
             {
@@ -1331,7 +1440,8 @@
                 "de": "Das Museum liegt zentral; ideal, um das Auto für mehrere Stopps stehen zu lassen.",
                 "hu": "A múzeum központi helyen van; hagyja itt az autót több közeli látnivalóhoz.",
                 "ro": "Muzeul este central; ideal pentru a lăsa mașina pentru mai multe obiective.",
-                "en": "The museum is central; ideal for leaving the car while visiting nearby spots."
+                "en": "The museum is central; ideal for leaving the car while visiting nearby spots.",
+                "nl": "Het museum ligt centraal; ideaal om de auto te laten staan tijdens bezoeken aan nabijgelegen plekken."
               }
             },
             {
@@ -1340,7 +1450,8 @@
                 "de": "Ein kurzer Sprint vom Parkplatz genügt, um die beeindruckende Mühle zu erreichen.",
                 "hu": "Csak egy rövid vágta a parkolótól, és már el is érte a lenyűgöző malmot.",
                 "ro": "Un scurt sprint de la parcare este suficient pentru a ajunge la moara impresionantă.",
-                "en": "A quick sprint from the parking lot is enough to reach the impressive mill."
+                "en": "A quick sprint from the parking lot is enough to reach the impressive mill.",
+                "nl": "Een korte sprint vanaf de parkeerplaats is genoeg om de indrukwekkende molen te bereiken."
               }
             },
             {
@@ -1349,7 +1460,8 @@
                 "de": "Der Parkplatz ist nah am Schloss; genießen Sie die Fahrt durch die Allee im Regen.",
                 "hu": "A parkoló közel van a kastélyhoz; élvezze az esős autózást a fasorban.",
                 "ro": "Parcarea este aproape de castel; bucurați-vă de drumul prin alee pe ploaie.",
-                "en": "The parking is close to the castle; enjoy the rainy drive through the alley."
+                "en": "The parking is close to the castle; enjoy the rainy drive through the alley.",
+                "nl": "De parkeerplaats ligt dicht bij het kasteel; geniet van de regenachtige rit door de laan."
               }
             },
             {
@@ -1358,7 +1470,8 @@
                 "de": "Kostenlose Parkplätze direkt vor dem Haus machen den Besuch auch bei Regen einfach.",
                 "hu": "A ház előtti ingyenes parkolás esőben is egyszerűvé teszi a látogatást.",
                 "ro": "Parcarea gratuită direct în fața casei facilitează vizita chiar și pe ploaie.",
-                "en": "Free parking directly in front of the house makes visiting easy, even in rain."
+                "en": "Free parking directly in front of the house makes visiting easy, even in rain.",
+                "nl": "Gratis parkeergelegenheid direct voor het huis maakt een bezoek gemakkelijk, zelfs bij regen."
               }
             }
           ],
@@ -1386,6 +1499,12 @@
               "Visibility can be limited on the country roads to Slangenburg during heavy rain.",
               "Keep an umbrella in the car for the short walks to the attraction entrances.",
               "City center parking garages (e.g., Catharinagarage) are well-lit and secure."
+            ],
+            "nl": [
+              "Gebruik de EasyPark-app om parkeerkosten gemakkelijk vanuit de auto te betalen.",
+              "Zicht kan beperkt zijn op de landwegen naar Slangenburg tijdens hevige regen.",
+              "Houd een paraplu in de auto voor de korte wandelingen naar de ingangen van de attracties.",
+              "Parkeergarages in het centrum (bijv. Catharinagarage) zijn goed verlicht en veilig."
             ]
           }
         },
@@ -1394,7 +1513,8 @@
             "de": "Ein Wintertag mit dem Auto beginnt gemütlich im beheizten Wagen. Nach den Stopps im Zentrum fahren wir durch die winterliche Landschaft zum Schloss Slangenburg, das wie aus einem Märchen wirkt. Die Villa Ruimzicht empfängt uns am Abend mit festlicher Beleuchtung. Mit dem Auto bleiben wir flexibel und entkommen der klirrenden Kälte zwischen den historischen Sehenswürdigkeiten von Doetinchem.",
             "hu": "A téli nap autóval indul a kellemesen fűtött kocsiban. A belvárosi megállók után a téli tájon át hajtunk a Slangenburg kastélyhoz, amely olyan, mintha egy meséből lépett volna elő. A Villa Ruimzicht ünnepi kivilágítással vár minket este. Az autóval rugalmasak maradunk, és elmenekülhetünk a metsző hideg elől a történelmi látnivalók között.",
             "ro": "O zi de iarnă cu mașina începe confortabil în vehiculul încălzit. După opririle din centru, conducem prin peisajul de iarnă spre Castelul Slangenburg, care pare desprins dintr-un basm. Villa Ruimzicht ne întâmpină seara cu iluminat festiv. Cu mașina rămânem flexibili și scăpăm de frigul pătrunzător între obiectivele istorice.",
-            "en": "A winter day by car begins comfortably in a heated vehicle. After the center stops, we drive through the wintry landscape to Slangenburg Castle, which looks like something out of a fairy tale. Villa Ruimzicht welcomes us in the evening with festive lighting. By car, we stay flexible and escape the biting cold between Doetinchem's historical sights."
+            "en": "A winter day by car begins comfortably in a heated vehicle. After the center stops, we drive through the wintry landscape to Slangenburg Castle, which looks like something out of a fairy tale. Villa Ruimzicht welcomes us in the evening with festive lighting. By car, we stay flexible and escape the biting cold between Doetinchem's historical sights.",
+            "nl": "Een winterse dag met de auto begint comfortabel in een verwarmde auto. Na de stops in het centrum rijden we door het winterse landschap naar Kasteel Slangenburg, dat lijkt alsof het uit een sprookje komt. Villa Ruimzicht ontvangt ons 's avonds met feestelijke verlichting. Met de auto blijven we flexibel en ontsnappen we aan de prikkelende kou tussen Doetinchems historische bezienswaardigheden."
           },
           "stops": [
             {
@@ -1403,7 +1523,8 @@
                 "de": "Nutzen Sie die Sitzheizung, während Sie den Blick auf die winterliche Kirche genießen.",
                 "hu": "Használja az ülésfűtést, miközben a téli templom látványában gyönyörködik.",
                 "ro": "Folosiți încălzirea în scaune în timp ce admirați biserica în straie de iarnă.",
-                "en": "Use your seat heating while enjoying the view of the winter church from the car."
+                "en": "Use your seat heating while enjoying the view of the winter church from the car.",
+                "nl": "Gebruik de stoelverwarming terwijl je geniet van het uitzicht op de winterse kerk vanuit de auto."
               }
             },
             {
@@ -1412,7 +1533,8 @@
                 "de": "Das Auto kann in der nahen Tiefgarage bleiben, wo es nicht einfriert.",
                 "hu": "Az autó a közeli mélygarázsban maradhat, ahol nem fagy rá a dér.",
                 "ro": "Mașina poate rămâne în parcarea subterană apropiată, unde nu îngheață.",
-                "en": "The car can stay in the nearby underground garage, where it won't frost over."
+                "en": "The car can stay in the nearby underground garage, where it won't frost over.",
+                "nl": "De auto kan in de nabijgelegen ondergrondse garage blijven staan, waar hij niet kan aanvriezen."
               }
             },
             {
@@ -1421,7 +1543,8 @@
                 "de": "Ein schneller Fotostopp; das Parken in der Nähe ist im Winter meist unkompliziert.",
                 "hu": "Gyors fotómegálló; a közeli parkolás télen általában zökkenőmentes.",
                 "ro": "O oprire rapidă pentru poze; parcarea în apropiere este de obicei simplă iarna.",
-                "en": "A quick photo stop; parking nearby is usually straightforward in winter."
+                "en": "A quick photo stop; parking nearby is usually straightforward in winter.",
+                "nl": "Een snelle fotostop; parkeren in de buurt is meestal eenvoudig in de winter."
               }
             },
             {
@@ -1430,7 +1553,8 @@
                 "de": "Vorsicht bei Schnee auf den Zufahrtswegen zum Schloss; fahren Sie langsam.",
                 "hu": "Vigyázzon, ha hó van a kastélyhoz vezető utakon; vezessen lassan.",
                 "ro": "Atenție la zăpadă pe drumurile de acces către castel; conduceți încet.",
-                "en": "Be careful if there's snow on the access roads to the castle; drive slowly."
+                "en": "Be careful if there's snow on the access roads to the castle; drive slowly.",
+                "nl": "Wees voorzichtig als er sneeuw op de toegangswegen naar het kasteel ligt; rijd langzaam."
               }
             },
             {
@@ -1439,7 +1563,8 @@
                 "de": "Der beleuchtete Parkplatz bietet einen sicheren und kurzen Weg ins warme Hotel.",
                 "hu": "A kivilágított parkolóból biztonságos és rövid út vezet a meleg hotelbe.",
                 "ro": "Parcarea iluminată oferă un drum sigur și scurt către hotelul călduros.",
-                "en": "The illuminated parking area offers a safe and short path into the warm hotel."
+                "en": "The illuminated parking area offers a safe and short path into the warm hotel.",
+                "nl": "Het verlichte parkeerterrein biedt een veilige en korte route naar het warme hotel."
               }
             }
           ],
@@ -1467,6 +1592,12 @@
               "Watch out for wildlife on the roads surrounding Slangenburg Castle.",
               "Parking garages are ideal in winter to avoid scraping ice before heading home.",
               "Keep a blanket in the car in case you are parked for a longer period."
+            ],
+            "nl": [
+              "Zorg dat je voldoende antivries in je ruitensproeiervloeistof hebt.",
+              "Let op wild op de wegen rond kasteel Slangenburg.",
+              "Parkeergarages zijn ideaal in de winter om te voorkomen dat je ijs moet krabben voordat je naar huis rijdt.",
+              "Houd een deken in de auto voor het geval je langere tijd geparkeerd staat."
             ]
           }
         }
@@ -1485,7 +1616,8 @@
             "de": "Cluster Zentrum: Catharinakirche",
             "hu": "Központ Klaszter: Szent Katalin-templom",
             "ro": "Cluster Centru: Biserica Sfânta Ecaterina",
-            "en": "Center Cluster: St. Catherine's Church"
+            "en": "Center Cluster: St. Catherine's Church",
+            "nl": "Centrumcluster: Sint-Catharinakerk"
           },
           "coords": [
             6.2915,
@@ -1501,7 +1633,8 @@
             "de": "Nehmen Sie einen Bus zum zentralen Busbahnhof, von wo aus die Kirche leicht zu Fuß erreichbar ist.",
             "hu": "Menjen busszal a központi buszpályaudvarra, ahonnan a templom könnyen megközelíthető gyalog.",
             "ro": "Luați un autobuz până la autogara centrală, de unde biserica este ușor accesibilă pe jos.",
-            "en": "Take a bus to the central bus station, from where the church is an easy walk."
+            "en": "Take a bus to the central bus station, from where the church is an easy walk.",
+            "nl": "Neem de bus naar het centrale busstation; vanaf daar is de kerk een korte wandeling."
           }
         },
         {
@@ -1509,7 +1642,8 @@
             "de": "Cluster Zentrum: Stadtmuseum",
             "hu": "Központ Klaszter: Városi Múzeum",
             "ro": "Cluster Centru: Muzeul Municipal",
-            "en": "Center Cluster: City Museum"
+            "en": "Center Cluster: City Museum",
+            "nl": "Centrumcluster: Stadsmuseum"
           },
           "coords": [
             6.2925,
@@ -1525,7 +1659,8 @@
             "de": "Alles im Zentrum ist nah beieinander, ein kurzer Spaziergang genügt.",
             "hu": "A központban minden közel van egymáshoz, egy rövid séta is elég.",
             "ro": "Totul în centru este aproape, o scurtă plimbare este suficientă.",
-            "en": "Everything in the center is close together, a short walk is all it takes."
+            "en": "Everything in the center is close together, a short walk is all it takes.",
+            "nl": "Alles in het centrum ligt dicht bij elkaar, een korte wandeling is voldoende."
           }
         },
         {
@@ -1533,7 +1668,8 @@
             "de": "Cluster Zentrum: Walmühle",
             "hu": "Központ Klaszter: Walmolen",
             "ro": "Cluster Centru: Moara Walmolen",
-            "en": "Center Cluster: The Walmolen Windmill"
+            "en": "Center Cluster: The Walmolen Windmill",
+            "nl": "Centrumcluster: De Walmolen"
           },
           "coords": [
             6.2881,
@@ -1549,7 +1685,8 @@
             "de": "Nach dem Mittagessen im Zentrum spazieren Sie zur Mühle am Rande des Kerns.",
             "hu": "Ebéd után a központban sétáljon el a mag szélén álló malomhoz.",
             "ro": "După prânz în centru, faceți o plimbare până la moara de la marginea nucleului.",
-            "en": "After lunch in the center, stroll to the mill on the edge of the core."
+            "en": "After lunch in the center, stroll to the mill on the edge of the core.",
+            "nl": "Na de lunch in het centrum wandel je naar de molen aan de rand van het kerngebied."
           }
         },
         {
@@ -1557,7 +1694,8 @@
             "de": "Oosseld Park",
             "hu": "Oosseld park",
             "ro": "Parcul Oosseld",
-            "en": "Oosseld Park"
+            "en": "Oosseld Park",
+            "nl": "Oosseldpark"
           },
           "coords": [
             6.27,
@@ -1573,7 +1711,8 @@
             "de": "Nehmen Sie einen Bus vom Zentrum zum Park. Es ist eine gute Möglichkeit, einen anderen Teil der Stadt zu sehen.",
             "hu": "Menjen busszal a központból a parkba. Jó lehetőség a város egy másik részének megismerésére.",
             "ro": "Luați un autobuz din centru spre parc. Este o modalitate bună de a vedea o altă parte a orașului.",
-            "en": "Take a bus from the center to the park. It's a good way to see a different part of the city."
+            "en": "Take a bus from the center to the park. It's a good way to see a different part of the city.",
+            "nl": "Neem een bus vanaf het centrum naar het park. Zo zie je een ander deel van de stad."
           }
         },
         {
@@ -1581,7 +1720,8 @@
             "de": "Theater Amphion",
             "hu": "Amphion Színház",
             "ro": "Teatrul Amphion",
-            "en": "Amphion Theatre"
+            "en": "Amphion Theatre",
+            "nl": "Amphion Theater"
           },
           "coords": [
             6.2859,
@@ -1597,7 +1737,8 @@
             "de": "Eine kurze Busfahrt bringt Sie zurück in die Nähe des Zentrums für Ihren letzten Halt.",
             "hu": "Egy rövid buszút visszavisz a központ közelébe az utolsó megállóhoz.",
             "ro": "O scurtă călătorie cu autobuzul vă aduce înapoi aproape de centru pentru ultima oprire.",
-            "en": "A short bus ride brings you back near the center for your final stop."
+            "en": "A short bus ride brings you back near the center for your final stop.",
+            "nl": "Een korte busrit brengt je terug in de buurt van het centrum voor je laatste halte."
           }
         }
       ],
@@ -1605,7 +1746,8 @@
         "de": "Ihr Tag beginnt mit einer Busfahrt ins Zentrum von Doetinchem. Hier erkunden Sie zu Fuß die wichtigsten Sehenswürdigkeiten wie die Catharinakirche und das Stadtmuseum. Nach einem Spaziergang zur Walmühle und dem Mittagessen nehmen Sie den Bus zum weitläufigen Oosseld Park für eine entspannte Zeit im Grünen. Eine weitere kurze Busfahrt bringt Sie zum modernen Amphion Theater, dem letzten Höhepunkt Ihres Tages.",
         "hu": "A nap egy buszúttal kezdődik Doetinchem központjába. Itt gyalogosan fedezi fel a legfontosabb látnivalókat, mint a Szent Katalin-templom és a Városi Múzeum. A Walmolenhez tett séta és az ebéd után busszal megy a tágas Oosseld Parkba egy pihentető időtöltésre a zöldben. Egy újabb rövid buszút vezet a modern Amphion Színházhoz, a nap utolsó fénypontjához.",
         "ro": "Ziua dvs. începe cu o călătorie cu autobuzul spre centrul orașului Doetinchem. Aici explorați pe jos principalele atracții, cum ar fi Biserica Sf. Ecaterina și Muzeul Municipal. După o plimbare la Moara Walmolen și prânz, luați autobuzul spre vastul Parc Oosseld pentru un moment de relaxare în natură. O altă scurtă călătorie cu autobuzul vă duce la modernul Teatru Amphion, punctul culminant final al zilei.",
-        "en": "Your day begins with a bus ride to the center of Doetinchem. Here, you'll explore the main attractions on foot, such as St. Catherine's Church and the City Museum. After a walk to the Walmolen windmill and lunch, you'll take the bus to the spacious Oosseld Park for some relaxing time in the green. Another short bus ride will take you to the modern Amphion Theatre, the final highlight of your day."
+        "en": "Your day begins with a bus ride to the center of Doetinchem. Here, you'll explore the main attractions on foot, such as St. Catherine's Church and the City Museum. After a walk to the Walmolen windmill and lunch, you'll take the bus to the spacious Oosseld Park for some relaxing time in the green. Another short bus ride will take you to the modern Amphion Theatre, the final highlight of your day.",
+        "nl": "Je dag begint met een busrit naar het centrum van Doetinchem. Hier verken je de belangrijkste bezienswaardigheden te voet, zoals de Sint-Catharinakerk en het Stadsmuseum. Na een wandeling naar de Walmolen en de lunch neem je de bus naar het ruime Oosseldpark om te ontspannen in het groen. Een korte busrit brengt je daarna naar het moderne Amphion Theater, het laatste hoogtepunt van de dag."
       },
       "gastro_picks": {
         "de": [
@@ -1765,6 +1907,12 @@
           "Download the local transport company's schedule app.",
           "Plan for some buffer time for waiting at stops.",
           "Buses are generally punctual and reliable."
+        ],
+        "nl": [
+          "Koop een dagkaart voor de bus om geld te besparen.",
+          "Download de app van het lokale vervoersbedrijf met dienstregelingen.",
+          "Plan wat extra tijd in voor wachten bij haltes.",
+          "Bussen zijn over het algemeen stipt en betrouwbaar."
         ]
       },
       "variants": {
@@ -1773,7 +1921,8 @@
             "de": "Ein Regentag mit dem Bus beginnt am Marktplatz. Das Stadtmuseum und die Walmolen sind gut vernetzt. Mittags fahren wir zum Oosseld Park, wo wir den Regen unter Bäumen oder im Bus beobachten. Das Amphion Theater ist am Abend ein trockener kultureller Fixpunkt. Dank der kurzen Wege zwischen den Haltestellen und Sehenswürdigkeiten bleiben wir trotz des Wetters mobil.",
             "hu": "Egy esős nap busszal a főtéren kezdődik. A Városi Múzeum és a Walmolen jól megközelíthető. Délben az Oosseld Parkba utazunk, ahol a buszról vagy a fák alól figyeljük az esőt. Az Amphion Színház este száraz kulturális pont. A megállók és a látnivalók közötti rövid távolságoknak köszönhetően az időjárás ellenére is mobilisak maradunk.",
             "ro": "O zi ploioasă cu autobuzul începe în piață. Muzeul Orașului și moara sunt bine conectate. La prânz mergem în Parcul Oosseld, unde privim ploaia de sub copaci sau din autobuz. Teatrul Amphion este seara un punct cultural uscat. Datorită distanțelor scurte între stații și obiective, rămânem mobili în ciuda vremii.",
-            "en": "A rainy day by bus starts at the market square. The City Museum and the windmill are well-connected. Midday we travel to Oosseld Park, watching the rain from the bus or under the trees. The Amphion Theatre is a dry cultural fixture in the evening. Thanks to the short distances between stops and sights, we stay mobile despite the weather."
+            "en": "A rainy day by bus starts at the market square. The City Museum and the windmill are well-connected. Midday we travel to Oosseld Park, watching the rain from the bus or under the trees. The Amphion Theatre is a dry cultural fixture in the evening. Thanks to the short distances between stops and sights, we stay mobile despite the weather.",
+            "nl": "Een regenachtige dag met de bus begint op de markt. Het Stadsmuseum en de molen zijn goed bereikbaar. Midden op de dag reizen we naar Oosseldpark, kijkend naar de regen vanuit de bus of onder de bomen. Het Amphion Theater is ’s avonds een droge culturele stop. Dankzij de korte afstanden tussen haltes en bezienswaardigheden blijven we mobiel ondanks het weer."
           },
           "stops": [
             {
@@ -1782,7 +1931,8 @@
                 "de": "Die Bushaltestelle 'Centrum' ist nur einen Steinwurf vom Kircheneingang entfernt.",
                 "hu": "A 'Centrum' buszmegálló csak egy kőhajításnyira van a templom bejáratától.",
                 "ro": "Stația de autobuz 'Centrum' este la doar o aruncătură de băț de intrarea bisericii.",
-                "en": "The 'Centrum' bus stop is just a stone's throw away from the church entrance."
+                "en": "The 'Centrum' bus stop is just a stone's throw away from the church entrance.",
+                "nl": "De bushalte 'Centrum' is op een steenworp afstand van de kerkdeur."
               }
             },
             {
@@ -1791,7 +1941,8 @@
                 "de": "Ein kurzer Laufweg von der Haltestelle bringt Sie direkt ins trockene Museum.",
                 "hu": "A megállótól csak egy rövid séta, és máris a száraz múzeumban van.",
                 "ro": "O scurtă plimbare de la stație vă duce direct în interiorul muzeului uscat.",
-                "en": "A short walk from the bus stop brings you directly into the dry museum."
+                "en": "A short walk from the bus stop brings you directly into the dry museum.",
+                "nl": "Een korte wandeling vanaf de bushalte brengt je direct het droge museum in."
               }
             },
             {
@@ -1800,7 +1951,8 @@
                 "de": "Nutzen Sie das Wartehäuschen an der Haltestelle, falls ein heftiger Schauer einsetzt.",
                 "hu": "Használja a megálló várótermét, ha hirtelen heves zápor zúdulna le.",
                 "ro": "Folosiți adăpostul din stație în cazul în care începe o aversă torențială.",
-                "en": "Use the shelter at the bus stop if a sudden heavy shower starts."
+                "en": "Use the shelter at the bus stop if a sudden heavy shower starts.",
+                "nl": "Gebruik de abri bij de bushalte als er plotseling een flinke bui begint."
               }
             },
             {
@@ -1809,7 +1961,8 @@
                 "de": "Die Buslinie hält direkt am Parkeingang; ideal für einen schnellen Besuch im Regen.",
                 "hu": "A buszjárat közvetlenül a park bejáratánál áll meg; ideális egy gyors esős vizitre.",
                 "ro": "Linia de autobuz oprește chiar la intrarea în parc; ideal pentru o vizită rapidă.",
-                "en": "The bus line stops right at the park entrance; ideal for a quick rainy visit."
+                "en": "The bus line stops right at the park entrance; ideal for a quick rainy visit.",
+                "nl": "De buslijn stopt direct bij de ingang van het park; ideaal voor een korte regenachtige bezoek."
               }
             },
             {
@@ -1818,7 +1971,8 @@
                 "de": "Die Haltestellen sind gut beleuchtet und bieten Schutz für die Rückfahrt am Abend.",
                 "hu": "A megállók jól kivilágítottak és védelmet nyújtanak az esti hazaúthoz.",
                 "ro": "Stațiile sunt bine iluminate și oferă protecție pentru drumul de întoarcere.",
-                "en": "The bus stops are well-lit and provide shelter for your evening return journey."
+                "en": "The bus stops are well-lit and provide shelter for your evening return journey.",
+                "nl": "De bushaltes zijn goed verlicht en bieden beschutting voor je terugreis in de avond."
               }
             }
           ],
@@ -1846,6 +2000,12 @@
               "Pay contactless with your bank card ('OV-pay') directly when boarding.",
               "Keep your wet umbrella closed on the bus to avoid bothering other passengers.",
               "Buses in Doetinchem are modern, clean, and offer a dry view of the scenery."
+            ],
+            "nl": [
+              "Gebruik de '9292' app voor realtime informatie over busvertragingen bij regenachtig weer.",
+              "Betaal contactloos met je bankpas ('OV-pay') direct bij instappen.",
+              "Houd je natte paraplu gesloten in de bus om andere passagiers niet te hinderen.",
+              "Bussen in Doetinchem zijn modern, schoon en bieden een droge blik op het landschap."
             ]
           }
         },
@@ -1854,7 +2014,8 @@
             "de": "Winterlicher Nahverkehr bringt uns warm durch Doetinchem. Nach dem Start an der Catharinakerk erreichen wir bequem das Stadtmuseum. Der Bus zum Oosseld Park bietet eine angenehme Fahrt durch die verschneite Stadt. Am Abend leuchten die Lichter am Amphion Theater besonders hell. In den beheizten Bussen entkommen wir der Kälte und genießen den Tag ohne Parkplatzsorgen.",
             "hu": "A téli tömegközlekedés melegen visz át minket Doetinchemen. A Szent Katalin-templom után kényelmesen érjük el a Városi Múzeumot. Az Oosseld Parkba tartó busz kellemes utazást kínál a havas városon át. Este az Amphion Színház fényei különösen fényesen ragyognak. A fűtött buszokon elmenekülünk a hideg elől, és parkolási gondok nélkül élvezzük a napot.",
             "ro": "Transportul public de iarnă ne poartă la căldură prin Doetinchem. După startul la biserică, ajungem confortabil la Muzeul Orașului. Autobuzul spre Parcul Oosseld oferă o călătorie plăcută prin orașul înzăpezit. Seara, luminile de la Teatrul Amphion strălucesc deosebit de tare. În autobuzele încălzite scăpăm de frig și ne bucurăm de zi.",
-            "en": "Winter transit keeps us warm while exploring Doetinchem. After starting at St. Catherine's, we comfortably reach the City Museum. The bus to Oosseld Park offers a pleasant ride through the snowy town. In the evening, the lights at the Amphion Theatre shine especially bright. In the heated buses, we escape the cold and enjoy the day without parking worries."
+            "en": "Winter transit keeps us warm while exploring Doetinchem. After starting at St. Catherine's, we comfortably reach the City Museum. The bus to Oosseld Park offers a pleasant ride through the snowy town. In the evening, the lights at the Amphion Theatre shine especially bright. In the heated buses, we escape the cold and enjoy the day without parking worries.",
+            "nl": "Wintervervoer houdt ons warm tijdens het verkennen van Doetinchem. Na vertrek bij Sint-Catharina bereiken we comfortabel het Stadsmuseum. De bus naar Oosseldpark biedt een prettige rit door het besneeuwde stadje. ’s Avonds schitteren de lichten van het Amphion Theater extra fel. In de verwarmde bussen ontkomen we aan de kou en genieten we van de dag zonder parkeerstress."
           },
           "stops": [
             {
@@ -1863,7 +2024,8 @@
                 "de": "Nutzen Sie die kurzen Wege von der Haltestelle, um die Kältebrücke zu minimieren.",
                 "hu": "Használja a megállótól tartó rövid sétát, hogy minimálisra csökkentse a hidegben töltött időt.",
                 "ro": "Folosiți distanțele scurte de la stație pentru a minimiza timpul petrecut în frig.",
-                "en": "Use the short walking distances from the stop to minimize time spent in the cold."
+                "en": "Use the short walking distances from the stop to minimize time spent in the cold.",
+                "nl": "Gebruik de korte loopafstanden vanaf de halte om de tijd in de kou te beperken."
               }
             },
             {
@@ -1872,7 +2034,8 @@
                 "de": "Das Museum ist ein idealer warmer Zwischenstopp im winterlichen Fahrplan.",
                 "hu": "A múzeum ideális meleg köztes állomás a téli menetrendben.",
                 "ro": "Muzeul este o oprire intermediară caldă ideală în programul de iarnă.",
-                "en": "The museum is an ideal warm intermediate stop in the winter transit schedule."
+                "en": "The museum is an ideal warm intermediate stop in the winter transit schedule.",
+                "nl": "Het museum is een ideale warme tussenstop in het wintervervoerschema."
               }
             },
             {
@@ -1881,7 +2044,8 @@
                 "de": "Die Mühle wirkt im Winterlicht besonders imposant; die Haltestelle ist nah.",
                 "hu": "A malom téli fényben különösen impozáns; a megálló pedig közel van.",
                 "ro": "Moara pare deosebit de impunătoare în lumina iernii; stația este aproape.",
-                "en": "The windmill looks particularly imposing in winter light; the stop is close by."
+                "en": "The windmill looks particularly imposing in winter light; the stop is close by.",
+                "nl": "De molen oogt bijzonder imposant in het winterlicht; de halte is dichtbij."
               }
             },
             {
@@ -1890,7 +2054,8 @@
                 "de": "Ein Winterspaziergang hier ist schön, wenn der Bus einen direkt wieder aufwärmt.",
                 "hu": "Egy téli séta itt nagyszerű, ha tudja, hogy a busz utána rögtön felmelegíti.",
                 "ro": "O plimbare de iarnă aici este frumoasă când știi că autobuzul te va reîncălzi imediat.",
-                "en": "A winter walk here is lovely when you know the bus will warm you up right after."
+                "en": "A winter walk here is lovely when you know the bus will warm you up right after.",
+                "nl": "Een winterwandeling hier is heerlijk als je weet dat de bus je direct daarna weer opwarmt."
               }
             },
             {
@@ -1899,7 +2064,8 @@
                 "de": "Prüfen Sie den Fahrplan für die späten Stunden nach der Vorstellung genau.",
                 "hu": "Ellenőrizze pontosan a menetrendet az előadás utáni késői járatokhoz.",
                 "ro": "Verificați cu atenție programul pentru cursele târzii de după spectacol.",
-                "en": "Check the schedule carefully for late-night buses after the performance ends."
+                "en": "Check the schedule carefully for late-night buses after the performance ends.",
+                "nl": "Controleer de dienstregeling goed voor nachtelijke bussen na het einde van de voorstelling."
               }
             }
           ],
@@ -1927,6 +2093,12 @@
               "Watch out for slippery stop areas and curbs during ice and snow.",
               "Enjoy the comfort of the well-heated buses while traveling between sights.",
               "Bus frequency may be slightly reduced on winter weekends; plan ahead."
+            ],
+            "nl": [
+              "Wacht in winkels nabij de bushalte als de bus in de kou vertraging heeft.",
+              "Let op gladde haltes en stoepranden bij ijs en sneeuw.",
+              "Geniet van het comfort van de goed verwarmde bussen tijdens het reizen tussen bezienswaardigheden.",
+              "De busfrequentie kan in winterweekenden iets lager zijn; plan vooruit."
             ]
           }
         }

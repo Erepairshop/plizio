@@ -21,7 +21,8 @@
             "de": "Evangelische Broedergemeente & Slotlaan",
             "hu": "Evangélikus Testvérközösség és Slotlaan",
             "ro": "Comunitatea Evanghelică a Fraților și Slotlaan",
-            "en": "Evangelical Brethren Community & Slotlaan"
+            "en": "Evangelical Brethren Community & Slotlaan",
+            "nl": "Evangelische Broedergemeente & Slotlaan"
           },
           "coords": [
             5.2401,
@@ -36,7 +37,8 @@
             "de": "Beginnen Sie am malerischen Platz und bewundern Sie die symmetrische Architektur.",
             "hu": "Kezdje a festői téren, és csodálja meg a szimmetrikus építészetet.",
             "ro": "Începeți în piața pitorească și admirați arhitectura simetrică.",
-            "en": "Start at the picturesque square and admire the symmetrical architecture."
+            "en": "Start at the picturesque square and admire the symmetrical architecture.",
+            "nl": "Begin op het pittoreske plein en bewonder de symmetrische architectuur."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Schloss Zeist",
             "hu": "Zeist kastély",
             "ro": "Castelul Zeist",
-            "en": "Zeist Castle (Slot Zeist)"
+            "en": "Zeist Castle (Slot Zeist)",
+            "nl": "Kasteel Zeist (Slot Zeist)"
           },
           "coords": [
             5.2355,
@@ -59,7 +62,8 @@
             "de": "Nehmen Sie an einer Führung teil, um die opulenten Innenräume zu sehen.",
             "hu": "Vegyen részt egy vezetett túrán, hogy megnézze a pazar belső tereket.",
             "ro": "Participați la un tur ghidat pentru a vedea interioarele opulente.",
-            "en": "Join a guided tour to see the opulent interiors."
+            "en": "Join a guided tour to see the opulent interiors.",
+            "nl": "Doe mee aan een rondleiding om de weelderige interieurs te zien."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Schlosspark",
             "hu": "Kastélypark (Slotpark)",
             "ro": "Parcul Castelului (Slotpark)",
-            "en": "Castle Park (Slotpark)"
+            "en": "Castle Park (Slotpark)",
+            "nl": "Slotpark"
           },
           "coords": [
             5.2341,
@@ -82,7 +87,8 @@
             "de": "Perfekt für ein Mittagspicknick mit Blick auf das Schloss.",
             "hu": "Tökéletes egy ebédpiknikhez a kastélyra néző kilátással.",
             "ro": "Perfect pentru un picnic la prânz cu vedere la castel.",
-            "en": "Perfect for a lunch picnic with a view of the castle."
+            "en": "Perfect for a lunch picnic with a view of the castle.",
+            "nl": "Perfect voor een lunchpicknick met uitzicht op het kasteel."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Walkartpark",
             "hu": "Walkartpark",
             "ro": "Parcul Walkart",
-            "en": "Walkartpark"
+            "en": "Walkartpark",
+            "nl": "Walkartpark"
           },
           "coords": [
             5.2438,
@@ -105,7 +112,8 @@
             "de": "Ein schöner Park im englischen Landschaftsstil mit Teichen und Skulpturen.",
             "hu": "Egy gyönyörű angol tájképi stílusú park tavakkal és szobrokkal.",
             "ro": "Un parc frumos în stil peisagistic englezesc, cu iazuri și sculpturi.",
-            "en": "A beautiful English landscape-style park with ponds and sculptures."
+            "en": "A beautiful English landscape-style park with ponds and sculptures.",
+            "nl": "Een prachtig park in Engelse landschapsstijl met vijvers en sculpturen."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Figi Theater & Hotel",
             "hu": "Figi Színház és Hotel",
             "ro": "Teatrul și Hotelul Figi",
-            "en": "Figi Theatre & Hotel"
+            "en": "Figi Theatre & Hotel",
+            "nl": "Figi Theater & Hotel"
           },
           "coords": [
             5.2415,
@@ -128,7 +137,8 @@
             "de": "Informieren Sie sich über das Programm oder genießen Sie einen Kaffee im Foyer.",
             "hu": "Nézze meg a programot, vagy igyon egy kávét az előcsarnokban.",
             "ro": "Verificați programul sau savurați o cafea în foaier.",
-            "en": "Check the schedule or enjoy a coffee in the foyer."
+            "en": "Check the schedule or enjoy a coffee in the foyer.",
+            "nl": "Bekijk het schema of geniet van een koffie in de foyer."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Zeisterbos",
             "hu": "Zeisterbos (Zeisti-erdő)",
             "ro": "Pădurea Zeisterbos",
-            "en": "Zeisterbos (Zeist Forest)"
+            "en": "Zeisterbos (Zeist Forest)",
+            "nl": "Zeisterbos"
           },
           "coords": [
             5.265,
@@ -151,7 +162,8 @@
             "de": "Folgen Sie einem der markierten Wanderwege für einen erfrischenden Spaziergang.",
             "hu": "Kövesse az egyik jelzett turistaútvonalat egy frissítő sétához.",
             "ro": "Urmați una dintre potecile marcate pentru o plimbare revigorantă.",
-            "en": "Follow one of the marked trails for a refreshing walk."
+            "en": "Follow one of the marked trails for a refreshing walk.",
+            "nl": "Volg een van de gemarkeerde paden voor een verfrissende wandeling."
           }
         }
       ],
@@ -159,7 +171,8 @@
         "de": "Ihr Tag in Zeist beginnt im historischen Herzen, wo die symmetrische Architektur der Broedergemeente beeindruckt. Ein kurzer Spaziergang führt Sie zum prächtigen Schloss Zeist, dem Juwel der Stadt. Nach der Erkundung der opulenten Säle und des englischen Landschaftsparks bietet der ruhige Walkartpark eine Pause. Am Nachmittag tauchen Sie in die Natur des Zeisterbos ein, ein weitläufiger Wald, der perfekt für einen langen, erfrischenden Spaziergang ist, bevor Sie den Tag ausklingen lassen.",
         "hu": "A zeisti nap a történelmi szívben kezdődik, ahol a Testvérközösség szimmetrikus építészete lenyűgöző. Egy rövid séta elvezet a csodálatos Zeist kastélyhoz, a város ékkövéhez. A pazar termek és az angol tájképi park felfedezése után a csendes Walkartpark kínál pihenést. Délután elmerülhet a Zeisterbos természetében, egy tágas erdőben, amely tökéletes egy hosszú, frissítő sétára, mielőtt lezárná a napot.",
         "ro": "Ziua dvs. în Zeist începe în inima istorică, unde arhitectura simetrică a Comunității Fraților impresionează. O scurtă plimbare vă duce la magnificul Castel Zeist, bijuteria orașului. După explorarea sălilor opulente și a parcului peisagistic englezesc, liniștitul Walkartpark oferă o pauză. După-amiaza, vă veți cufunda în natura din Zeisterbos, o pădure întinsă perfectă pentru o plimbare lungă și revigorantă înainte de a încheia ziua.",
-        "en": "Your day in Zeist begins in the historic heart, where the symmetrical architecture of the Brethren Community impresses. A short walk takes you to the magnificent Zeist Castle, the town's jewel. After exploring the opulent halls and the English landscape park, the tranquil Walkartpark offers a rest. In the afternoon, immerse yourself in the nature of the Zeisterbos, a vast forest perfect for a long, refreshing walk before concluding the day."
+        "en": "Your day in Zeist begins in the historic heart, where the symmetrical architecture of the Brethren Community impresses. A short walk takes you to the magnificent Zeist Castle, the town's jewel. After exploring the opulent halls and the English landscape park, the tranquil Walkartpark offers a rest. In the afternoon, immerse yourself in the nature of the Zeisterbos, a vast forest perfect for a long, refreshing walk before concluding the day.",
+        "nl": "Je dag in Zeist begint in het historische hart, waar de symmetrische architectuur van de Broedergemeente indruk maakt. Een korte wandeling brengt je bij het prachtige Kasteel Zeist, de blikvanger van de stad. Na het verkennen van de weelderige zalen en het Engelse landschapspark biedt het rustige Walkartpark een plek om uit te rusten. In de middag dompel je jezelf onder in de natuur van het Zeisterbos, een uitgestrekt bos ideaal voor een lange, verfrissende wandeling voordat de dag wordt afgesloten."
       },
       "gastro_picks": {
         "de": [
@@ -355,6 +368,12 @@
           "Pack water and snacks for the walk in Zeisterbos.",
           "Most central sights are within easy walking distance.",
           "Check the opening hours for Zeist Castle in advance."
+        ],
+        "nl": [
+          "Draag comfortabele schoenen, want je zult veel wandelen.",
+          "Neem water en snacks mee voor de wandeling in het Zeisterbos.",
+          "De meeste centrale bezienswaardigheden zijn gemakkelijk te voet bereikbaar.",
+          "Controleer vooraf de openingstijden van Kasteel Zeist."
         ]
       },
       "variants": {
@@ -363,7 +382,8 @@
             "de": "Der Vormittag beginnt bei der Brüdergemeine, deren schlichte Architektur auch bei grauem Himmel beeindruckt. In den Cafés an der Slotlaan finden Sie Schutz vor dem ersten Guss.\n\nMittags bietet das Schloss Zeist den perfekten Rückzugsort. Die prachtvollen Innenräume lassen den Regen draußen vergessen, während Sie in die Geschichte des 17. Jahrhunderts eintauchen.\n\nAm Nachmittag verkürzen Sie den Aufenthalt im Slotpark und Walkartpark. Die nassen Wege glänzen, doch die Sicht auf die historischen Denkmäler bleibt unter dem Regenschirm lohnenswert.\n\nDer Abend endet im Figi-Zentrum. Als kultureller Knotenpunkt von Zeist bietet es trockene Unterhaltung und Gastronomie, ideal um den Tag gemütlich ausklingen zu lassen.",
             "hu": "Az esős reggel a testvérközösség épületei között indul, ahol a Slotlaan üzleteinek ereszei alatt várakozhatunk. A puritán fehér homlokzatok szürke időben is méltóságteljesek.\n\nDélben a Zeist-kastély belső terei nyújtanak menedéket. A múzeumi tárlat és a korhű szobák felfedezése közben észre sem vesszük a kinti felhőszakadást.\n\nDélután a parkokban tett séta rövidebbre nyúlik. A vizes ösvényeken a kastélykert tavai és a Walkartpark szobrai sejtelmes hangulatot árasztanak az esőfüggöny mögött.\n\nAz estét a Figi Színház és Hotel komplexumában zárjuk. Ez a város kulturális szíve, ahol fedett helyen vacsorázhatunk vagy moziba mehetünk, elkerülve az esti nyirkosságot.",
             "ro": "Dimineața începe la comunitatea evanghelică, unde arhitectura sobră oferă un cadru liniștit chiar și pe ploaie. Magazinele de pe Slotlaan sunt aproape pentru scurte pauze.\n\nLa prânz, Castelul Zeist devine refugiul ideal. Interiorul baroc din secolul al XVII-lea vă permite să explorați istoria locală fără a vă uda, fiind o opțiune culturală excelentă.\n\nDupă-amiaza, plimbarea prin Slotpark și Walkartpark necesită o umbrelă solidă. Deși potecile sunt umede, peisajul cu monumente istorice păstrează un farmec aparte sub cerul plumburiu.\n\nSeara se încheie la complexul Figi. Fiind un centru cultural și hotelier major, acesta oferă toate facilitățile necesare sub același acoperiș pentru o cină relaxantă după o zi ploioasă.",
-            "en": "The morning starts at the Moravian community, where the simple architecture remains striking despite the rain. Nearby cafes on Slotlaan offer quick shelter between showers.\n\nAt noon, Zeist Castle provides a perfect indoor retreat. Explore the 17th-century interiors and exhibitions while staying dry and immersed in local history.\n\nIn the afternoon, the stroll through Slotpark and Walkartpark is refreshed by the rain. While paths may be wet, the historical monuments look poignant under the misty sky.\n\nThe evening ends at the Figi complex. As a central cultural hub, it provides a warm and dry environment for dining or a movie, concluding the day comfortably."
+            "en": "The morning starts at the Moravian community, where the simple architecture remains striking despite the rain. Nearby cafes on Slotlaan offer quick shelter between showers.\n\nAt noon, Zeist Castle provides a perfect indoor retreat. Explore the 17th-century interiors and exhibitions while staying dry and immersed in local history.\n\nIn the afternoon, the stroll through Slotpark and Walkartpark is refreshed by the rain. While paths may be wet, the historical monuments look poignant under the misty sky.\n\nThe evening ends at the Figi complex. As a central cultural hub, it provides a warm and dry environment for dining or a movie, concluding the day comfortably.",
+            "nl": "De ochtend begint bij de Moravische gemeenschap, waar de sobere architectuur ondanks de regen indruk maakt. Dichtbij gelegen cafés aan de Slotlaan bieden snel onderdak tussen de buien.\n\n’s Middags is Kasteel Zeist een perfecte plek om binnen te blijven. Verken de 17e-eeuwse interieurs en tentoonstellingen terwijl je droog blijft en je onderdompelt in de lokale geschiedenis.\n\nIn de middag is de wandeling door het Slotpark en Walkartpark verfrist door de regen. Hoewel paden nat kunnen zijn, ogen de historische monumenten ontroerend onder de mistige hemel.\n\nDe avond eindigt in het Figi-complex. Als centraal cultureel knooppunt biedt het een warme en droge omgeving om te dineren of een film te kijken, waarmee de dag comfortabel wordt afgesloten."
           },
           "stops": [
             {
@@ -372,7 +392,8 @@
                 "de": "Die Bogengänge der Slotlaan bieten guten Schutz bei kurzen Schauern.",
                 "hu": "A Slotlaan üzleteinek előtetői alatt szárazon maradhatunk a séta közben.",
                 "ro": "Arcadele de pe Slotlaan oferă adăpost bun în timpul averselor scurte.",
-                "en": "The shop awnings on Slotlaan provide good cover during short rain showers."
+                "en": "The shop awnings on Slotlaan provide good cover during short rain showers.",
+                "nl": "De winkelluifels op de Slotlaan bieden goede beschutting bij korte regenbuien."
               }
             },
             {
@@ -381,7 +402,8 @@
                 "de": "Nutzen Sie die Zeit für eine ausführliche Innenbesichtigung des Schlosses.",
                 "hu": "Ilyenkor érdemes hosszabb időt tölteni a kastély belső kiállításain.",
                 "ro": "Profitați de ploaie pentru o vizită detaliată în interiorul castelului.",
-                "en": "Use the rainy weather as an excuse for an extended indoor tour of the castle."
+                "en": "Use the rainy weather as an excuse for an extended indoor tour of the castle.",
+                "nl": "Gebruik het natte weer als excuus voor een uitgebreide binnenrondleiding door het kasteel."
               }
             },
             {
@@ -390,7 +412,8 @@
                 "de": "Die asphaltierten Wege sind auch bei Regen gut begehbar.",
                 "hu": "Az aszfaltozott utak esőben is sármentes közlekedést biztosítanak.",
                 "ro": "Potecile asfaltate sunt ușor de parcurs chiar și atunci când plouă.",
-                "en": "The paved paths remain easy to walk on even when it's raining."
+                "en": "The paved paths remain easy to walk on even when it's raining.",
+                "nl": "De verharde paden blijven goed begaanbaar, ook als het regent."
               }
             },
             {
@@ -399,7 +422,8 @@
                 "de": "Große Bäume bieten hier natürlichen Schutz vor leichtem Nieselregen.",
                 "hu": "A sűrűbb lombozatú fák természetes ernyőt nyújtanak szemerkélő esőben.",
                 "ro": "Copacii mari oferă o protecție naturală împotriva burniței ușoare.",
-                "en": "Large trees here offer some natural cover from light drizzle."
+                "en": "Large trees here offer some natural cover from light drizzle.",
+                "nl": "Grote bomen bieden hier natuurlijke beschutting tegen lichte motregen."
               }
             },
             {
@@ -408,7 +432,8 @@
                 "de": "Ideal für eine Kaffeepause im Trockenen direkt im Stadtzentrum.",
                 "hu": "Tökéletes helyszín egy kávéhoz és száradáshoz a városközpontban.",
                 "ro": "Ideal pentru o pauză de cafea într-un mediu uscat, chiar în centru.",
-                "en": "Perfect for a coffee break in a dry environment right in the center."
+                "en": "Perfect for a coffee break in a dry environment right in the center.",
+                "nl": "Perfect voor een koffiepauze in een droge omgeving midden in het centrum."
               }
             },
             {
@@ -417,7 +442,8 @@
                 "de": "Vorsicht, die Waldwege können bei anhaltendem Regen matschig sein.",
                 "hu": "Vigyázat, a parkerdő földútjai tartós esőben sárossá válhatnak.",
                 "ro": "Atenție, potecile din pădure pot deveni noroioase după ploi prelungite.",
-                "en": "Be careful, as the forest paths can become muddy during persistent rain."
+                "en": "Be careful, as the forest paths can become muddy during persistent rain.",
+                "nl": "Wees voorzichtig, want de bospaden kunnen modderig worden bij aanhoudende regen."
               }
             }
           ],
@@ -449,6 +475,13 @@
               "Many shops on Slotlaan have covered walkways, making window shopping easier.",
               "Zeist Castle has a cloakroom where you can leave wet coats and umbrellas.",
               "Local buses run frequently if you want to skip a few walking segments in the rain."
+            ],
+            "nl": [
+              "Draag waterdichte schoenen, want de bospaden in het Zeisterbos kunnen zacht en modderig worden.",
+              "Het Figi-complex is de beste plek om zware buien met een drankje uit te zitten.",
+              "Veel winkels op de Slotlaan hebben overdekte looproutes, wat etalages kijken makkelijker maakt.",
+              "Kasteel Zeist heeft een garderobe waar je natte jassen en paraplu's kunt achterlaten.",
+              "Lijnen van lokale bussen rijden vaak als je enkele loopstukken in de regen wilt overslaan."
             ]
           }
         },
@@ -457,7 +490,8 @@
             "de": "Ein klarer Wintermorgen beginnt in der historischen Brüdergemeine. Der Frost verleiht den symmetrischen Plätzen und den Gebäuden aus dem 18. Jahrhundert eine glitzernde Aura.\n\nMittags suchen Sie Wärme im Schloss Zeist. Wenn der Schlosspark winterlich kahl ist, entfalten die prunkvollen Säle ihren vollen Charme und bieten eine behagliche Atmosphäre für Kulturinteressierte.\n\nAm Nachmittag nutzen Sie das letzte Tageslicht für einen Spaziergang im Zeisterbos. Die kalte Luft ist erfrischend, und der Wald wirkt im Winterlicht besonders weitläufig und ruhig.\n\nDer frühe Abend führt zurück ins beleuchtete Zentrum. Das Figi-Theater strahlt Wärme aus und lädt dazu ein, den frostigen Tag bei einer heißen Schokolade oder einem Abendessen gemütlich zu beenden.",
             "hu": "A friss téli reggel a történelmi testvérközösség negyedében indul. A zúzmarás terek és a 18. századi épületek letisztult formái ilyenkor különösen látványosak.\n\nDélben a Zeist-kastély falai között találunk melegedőt. Míg a kert ilyenkor csendes és kopár, a belső termek barokk pompája és a kiállítások gazdag élményt nyújtanak.\n\nDélután érdemes kihasználni a korai sötétedés előtti órákat egy sétára a Zeisterbos fenyveseiben. A hideg levegő frissítő, az erdő pedig ilyenkor a legnyugodtabb.\n\nAz este közeledtével a kivilágított belváros felé vesszük az irányt. A Figi központ barátságos fényei és meleg belső terei tökéletes zárást kínálnak a téli kiránduláshoz.",
             "ro": "O dimineață răcoroasă de iarnă începe în cartierul comunității evanghelice. Înghețul conferă piețelor simetrice și clădirilor din secolul XVIII o aură sclipitoare.\n\nLa prânz, căutați căldura în interiorul Castelului Zeist. În timp ce parcul castelului este golaș, sălile fastuoase oferă o atmosferă primitoare pentru iubitorii de istorie.\n\nDupă-amiaza, profitați de ultimele ore de lumină pentru o plimbare în Zeisterbos. Aerul rece este revigorant, iar pădurea pare deosebit de vastă și liniștită sub lumina iernii.\n\nSeara timpurie vă aduce înapoi în centrul luminat. Teatrul Figi emană căldură și vă invită să încheiați ziua geroasă cu o ciocolată caldă sau o cină relaxantă.",
-            "en": "A crisp winter morning begins at the historic Moravian community. Frost gives the symmetrical squares and 18th-century buildings a glittering, serene aura.\n\nAt noon, find warmth inside Zeist Castle. While the surrounding park is dormant, the grand halls unfold their full charm, offering a cozy atmosphere for history buffs.\n\nIn the afternoon, make the most of the daylight with a walk in the Zeisterbos forest. The cold air is refreshing, and the woodland feels especially vast and peaceful in winter.\n\nThe early evening leads back to the illuminated city center. The Figi complex glows with warmth, inviting you to end the frosty day with a hot chocolate or a hearty dinner."
+            "en": "A crisp winter morning begins at the historic Moravian community. Frost gives the symmetrical squares and 18th-century buildings a glittering, serene aura.\n\nAt noon, find warmth inside Zeist Castle. While the surrounding park is dormant, the grand halls unfold their full charm, offering a cozy atmosphere for history buffs.\n\nIn the afternoon, make the most of the daylight with a walk in the Zeisterbos forest. The cold air is refreshing, and the woodland feels especially vast and peaceful in winter.\n\nThe early evening leads back to the illuminated city center. The Figi complex glows with warmth, inviting you to end the frosty day with a hot chocolate or a hearty dinner.",
+            "nl": "Een frisse winterochtend begint bij de historische Broedergemeente. Rijp geeft de symmetrische pleinen en 18e-eeuwse gebouwen een fonkelende, serene uitstraling.\n\n’s Middags vind je warmte binnen in Kasteel Zeist. Terwijl het omliggende park rustig is, ontvouwen de grote zalen hun charme en bieden ze een gezellige sfeer voor geschiedenisliefhebbers.\n\nIn de middag profiteer je van het daglicht met een wandeling in het Zeisterbos. De koude lucht is verfrissend en het bos voelt in de winter extra weids en vredig.\n\nDe vroege avond leidt terug naar het verlichte stadscentrum. Het Figi-complex straalt warmte uit en nodigt uit om de ijzige dag af te sluiten met warme chocolademelk of een stevig diner."
           },
           "stops": [
             {
@@ -466,7 +500,8 @@
                 "de": "Genießen Sie den Anblick der historischen Fassaden im sanften Winterlicht.",
                 "hu": "A történelmi homlokzatok téli napsütésben mutatják a legszebb arcukat.",
                 "ro": "Admirați fațadele istorice în lumina blândă a dimineții de iarnă.",
-                "en": "Enjoy the sight of the historic facades in the soft winter morning light."
+                "en": "Enjoy the sight of the historic facades in the soft winter morning light.",
+                "nl": "Geniet van het uitzicht op de historische gevels in het zachte winterochtendlicht."
               }
             },
             {
@@ -475,7 +510,8 @@
                 "de": "Die Cafeteria im Schloss ist ein gemütlicher Ort zum Aufwärmen.",
                 "hu": "A kastély kávézója kiváló helyszín egy rövid köztes melegedésre.",
                 "ro": "Cafeneaua din castel este un loc primitor pentru a vă încălzi.",
-                "en": "The castle's cafeteria is a cozy spot to warm up during your visit."
+                "en": "The castle's cafeteria is a cozy spot to warm up during your visit.",
+                "nl": "Het cafetaria van het kasteel is een knusse plek om tijdens je bezoek op te warmen."
               }
             },
             {
@@ -484,7 +520,8 @@
                 "de": "Achten Sie auf vereiste Stellen auf den Wegen entlang der Wassergräben.",
                 "hu": "Vigyázzon a jeges foltokra a vizesárkok mentén futó ösvényeken.",
                 "ro": "Atenție la porțiunile înghețate de pe potecile de lângă șanțurile cu apă.",
-                "en": "Watch out for icy patches on the paths along the castle moats."
+                "en": "Watch out for icy patches on the paths along the castle moats.",
+                "nl": "Let op met ijzige plekken op de paden langs de kasteeldreven."
               }
             },
             {
@@ -493,7 +530,8 @@
                 "de": "Ein kurzer, zügiger Spaziergang hält Sie bei frostigen Temperaturen warm.",
                 "hu": "A fagyos időben egy tempósabb séta segít megőrizni a testhőt.",
                 "ro": "O plimbare scurtă și vioaie vă va menține cald la temperaturi scăzute.",
-                "en": "A short, brisk walk will help you stay warm in the freezing temperatures."
+                "en": "A short, brisk walk will help you stay warm in the freezing temperatures.",
+                "nl": "Een korte, stevige wandeling helpt je warm te blijven bij zeer koude temperaturen."
               }
             },
             {
@@ -502,7 +540,8 @@
                 "de": "Die Lobby bietet eine angenehm temperierte Pause mitten im Stadtkern.",
                 "hu": "A lobby kellemesen fűtött pihenőhely a városnézés közben.",
                 "ro": "Lobby-ul oferă o pauză la o temperatură plăcută chiar în centrul orașului.",
-                "en": "The lobby offers a comfortably heated break in the heart of the center."
+                "en": "The lobby offers a comfortably heated break in the heart of the center.",
+                "nl": "De lobby biedt een comfortabel verwarmde pauze in het hart van het centrum."
               }
             },
             {
@@ -511,7 +550,8 @@
                 "de": "Beenden Sie die Waldrunde vor 16:30 Uhr, bevor es dunkel wird.",
                 "hu": "Érdemes 16:30 előtt befejezni az erdei kört a sötétedés miatt.",
                 "ro": "Finalizați tura prin pădure înainte de ora 16:30, înainte de lăsarea serii.",
-                "en": "Finish your forest walk before 4:30 PM to avoid the early darkness."
+                "en": "Finish your forest walk before 4:30 PM to avoid the early darkness.",
+                "nl": "Rond je boswandeling af vóór 16:30 om de vroege duisternis te vermijden."
               }
             }
           ],
@@ -543,6 +583,13 @@
               "On Slotlaan, you'll find many shops with warm winter fashion and accessories.",
               "Zeist Castle is often less crowded in winter compared to the summer season.",
               "Hot chocolate is a local favorite in the cafes around the Figi complex."
+            ],
+            "nl": [
+              "Kleed je in lagen; de wind in het open slotpark kan behoorlijk guur zijn.",
+              "De zonsondergang is rond 16:30 in de winter, plan de boswandeling dus vroeg.",
+              "Aan de Slotlaan vind je veel winkels met warme winterkleding en accessoires.",
+              "Kasteel Zeist is in de winter vaak minder druk dan in het zomerseizoen.",
+              "Warme chocolademelk is favoriet in de cafés rond het Figi-complex."
             ]
           }
         }
@@ -561,7 +608,8 @@
             "de": "Start: Fahrradverleih & Slotlaan",
             "hu": "Indulás: Kerékpárkölcsönző és Slotlaan",
             "ro": "Start: Închiriere biciclete și Slotlaan",
-            "en": "Start: Bike Rental & Slotlaan"
+            "en": "Start: Bike Rental & Slotlaan",
+            "nl": "Start: Fietsverhuur & Slotlaan"
           },
           "coords": [
             5.242,
@@ -576,7 +624,8 @@
             "de": "Holen Sie sich Ihr Fahrrad und machen Sie eine kurze Runde durch die Haupteinkaufsstraße.",
             "hu": "Vegye át a kerékpárját, és tegyen egy rövid kört a fő bevásárlóutcán.",
             "ro": "Luați-vă bicicleta și faceți o scurtă plimbare pe strada principală de cumpărături.",
-            "en": "Pick up your bike and do a quick loop of the main shopping street."
+            "en": "Pick up your bike and do a quick loop of the main shopping street.",
+            "nl": "Haal je fiets op en maak een korte ronde over de hoofdwinkelstraat."
           }
         },
         {
@@ -584,7 +633,8 @@
             "de": "Zeisterbos",
             "hu": "Zeisterbos (Zeisti-erdő)",
             "ro": "Pădurea Zeisterbos",
-            "en": "Zeisterbos (Zeist Forest)"
+            "en": "Zeisterbos (Zeist Forest)",
+            "nl": "Zeisterbos"
           },
           "coords": [
             5.265,
@@ -599,7 +649,8 @@
             "de": "Die Radwege sind ausgezeichnet. Genießen Sie die Fahrt durch den dichten Wald.",
             "hu": "A kerékpárutak kiválóak. Élvezze a tekerést a sűrű erdőben.",
             "ro": "Pistele de biciclete sunt excelente. Bucurați-vă de plimbarea prin pădurea deasă.",
-            "en": "The bike paths are excellent. Enjoy the ride through the dense woods."
+            "en": "The bike paths are excellent. Enjoy the ride through the dense woods.",
+            "nl": "De fietspaden zijn uitstekend. Geniet van de rit door de dichte bossen."
           }
         },
         {
@@ -607,7 +658,8 @@
             "de": "Wasserturm",
             "hu": "Víztorony",
             "ro": "Turnul de apă (Watertoren)",
-            "en": "Water Tower (Watertoren)"
+            "en": "Water Tower (Watertoren)",
+            "nl": "Watertoren"
           },
           "coords": [
             5.2595,
@@ -622,7 +674,8 @@
             "de": "Ein beeindruckendes Industriedenkmal. Ein kurzer Fotostopp lohnt sich.",
             "hu": "Lenyűgöző ipari műemlék. Megér egy rövid fotómegállót.",
             "ro": "Un monument industrial impresionant. Merită o scurtă oprire pentru fotografii.",
-            "en": "An impressive industrial monument. Worth a quick photo stop."
+            "en": "An impressive industrial monument. Worth a quick photo stop.",
+            "nl": "Een indrukwekkend industrieel monument. Zeker de moeite voor een korte fotostop."
           }
         },
         {
@@ -630,7 +683,8 @@
             "de": "Schloss Zeist & Park",
             "hu": "Zeist kastély és parkja",
             "ro": "Castelul Zeist și Parcul",
-            "en": "Zeist Castle & Park"
+            "en": "Zeist Castle & Park",
+            "nl": "Kasteel Zeist & Park"
           },
           "coords": [
             5.2355,
@@ -645,7 +699,8 @@
             "de": "Stellen Sie Ihr Fahrrad ab und erkunden Sie das Schloss und den Park zu Fuß. Zeit fürs Mittagessen!",
             "hu": "Parkolja le a kerékpárt, és fedezze fel a kastélyt és a parkot gyalog. Ebédidő!",
             "ro": "Parcați bicicleta și explorați castelul și parcul pe jos. Timp pentru prânz!",
-            "en": "Park your bike and explore the castle and grounds on foot. Time for lunch!"
+            "en": "Park your bike and explore the castle and grounds on foot. Time for lunch!",
+            "nl": "Parkeer je fiets en verken het kasteel en het terrein te voet. Tijd voor lunch!"
           }
         },
         {
@@ -653,7 +708,8 @@
             "de": "Evangelische Broedergemeente",
             "hu": "Evangélikus Testvérközösség",
             "ro": "Comunitatea Evanghelică a Fraților",
-            "en": "Evangelical Brethren Community"
+            "en": "Evangelical Brethren Community",
+            "nl": "Evangelische Broedergemeente"
           },
           "coords": [
             5.2401,
@@ -668,7 +724,8 @@
             "de": "Fahren Sie durch die ruhigen, symmetrischen Straßen dieses einzigartigen Viertels.",
             "hu": "Tekerjen végig ennek az egyedülálló negyednek a csendes, szimmetrikus utcáin.",
             "ro": "Plimbați-vă cu bicicleta pe străzile liniștite și simetrice ale acestui cartier unic.",
-            "en": "Cycle through the quiet, symmetrical streets of this unique district."
+            "en": "Cycle through the quiet, symmetrical streets of this unique district.",
+            "nl": "Fiets door de rustige, symmetrische straatjes van deze unieke wijk."
           }
         },
         {
@@ -676,7 +733,8 @@
             "de": "Walkartpark",
             "hu": "Walkartpark",
             "ro": "Parcul Walkart",
-            "en": "Walkartpark"
+            "en": "Walkartpark",
+            "nl": "Walkartpark"
           },
           "coords": [
             5.2438,
@@ -691,7 +749,8 @@
             "de": "Eine letzte Pause im Grünen, bevor Sie das Fahrrad zurückgeben.",
             "hu": "Egy utolsó pihenő a zöldben, mielőtt visszaadná a kerékpárt.",
             "ro": "O ultimă pauză în parc înainte de a returna bicicleta.",
-            "en": "A final break in the green before returning the bike."
+            "en": "A final break in the green before returning the bike.",
+            "nl": "Een laatste pauze in het groen voordat je de fiets terugbrengt."
           }
         }
       ],
@@ -699,7 +758,8 @@
         "de": "Schwingen Sie sich aufs Rad und starten Sie Ihre Tour in Zeist. Die erste Etappe führt Sie in den schattigen Zeisterbos, wo Sie die Natur auf gut ausgebauten Wegen genießen. Auf dem Rückweg machen Sie einen Abstecher zum industriellen Erbe des Wasserturms. Das Mittagshighlight ist Schloss Zeist: Nehmen Sie sich Zeit für das prachtvolle Gebäude und ein Picknick im Park. Am Nachmittag erkunden Sie das einzigartige Viertel der Broedergemeente und entspannen im Walkartpark, bevor die Tour endet.",
         "hu": "Pattanjon biciklire, és kezdje meg zeisti túráját. Az első szakasz az árnyas Zeisterbosba vezet, ahol jól kiépített utakon élvezheti a természetet. Visszafelé tegyen egy kitérőt a víztorony ipari örökségéhez. Az ebéd fénypontja a Zeist kastély: szánjon időt a csodálatos épületre és egy piknikre a parkban. Délután fedezze fel a Testvérközösség egyedülálló negyedét, és pihenjen a Walkartparkban, mielőtt a túra véget ér.",
         "ro": "Urcați-vă pe bicicletă și începeți turul în Zeist. Prima etapă vă duce în umbrosul Zeisterbos, unde vă puteți bucura de natură pe poteci bine întreținute. Pe drumul de întoarcere, faceți un ocol la moștenirea industrială a Turnului de Apă. Punctul culminant al prânzului este Castelul Zeist: acordați-vă timp pentru clădirea magnifică și un picnic în parc. După-amiaza, explorați cartierul unic al Comunității Fraților și relaxați-vă în Walkartpark înainte de încheierea turului.",
-        "en": "Hop on your bike and start your tour of Zeist. The first leg takes you into the shady Zeisterbos, where you can enjoy nature on well-maintained paths. On the way back, make a detour to the industrial heritage of the Water Tower. The lunch highlight is Zeist Castle: take your time for the magnificent building and a picnic in the park. In the afternoon, explore the unique Brethren Community district and relax in Walkartpark before the tour concludes."
+        "en": "Hop on your bike and start your tour of Zeist. The first leg takes you into the shady Zeisterbos, where you can enjoy nature on well-maintained paths. On the way back, make a detour to the industrial heritage of the Water Tower. The lunch highlight is Zeist Castle: take your time for the magnificent building and a picnic in the park. In the afternoon, explore the unique Brethren Community district and relax in Walkartpark before the tour concludes.",
+        "nl": "Spring op je fiets en begin je rondje door Zeist. De eerste etappe voert je het schaduwrijke Zeisterbos in, waar je op goed onderhouden paden van de natuur geniet. Op de terugweg maak je een omweg naar het industrieel erfgoed van de Watertoren. Het lunchhoogtepunt is Kasteel Zeist: neem de tijd voor het magnifieke gebouw en een picknick in het park. In de middag verken je de bijzondere wijk van de Broedergemeente en ontspan je in Walkartpark voordat de tour eindigt."
       },
       "gastro_picks": {
         "de": [
@@ -895,6 +955,12 @@
           "The Netherlands is flat, but gears are useful in the forest.",
           "Always lock your bike, even for short stops.",
           "Be mindful of other cyclists and pedestrians on the paths."
+        ],
+        "nl": [
+          "Controleer je fiets voordat je vertrekt.",
+          "Nederland is vlak, maar versnellingen zijn handig in het bos.",
+          "Zet je fiets altijd op slot, ook bij korte stops.",
+          "Let op andere fietsers en voetgangers op de paden."
         ]
       },
       "variants": {
@@ -903,7 +969,8 @@
             "de": "Starten Sie den Tag mit wetterfester Kleidung an der Slotlaan. Die kurzen Wege im Zentrum lassen sich auch bei Regen schnell mit dem Rad überbrücken.\n\nMittags führt die Tour in den Zeisterbos. Das dichte Blätterdach bietet einen gewissen Schutz, doch die unbefestigten Wege erfordern Konzentration.\n\nAm Nachmittag erreichen Sie das Schloss Zeist. Hier können Sie das Rad sicher abstellen und sich bei einer Innenbesichtigung im Trockenen aufwärmen.\n\nDer Tag endet mit einer kurzen Fahrt zurück zum Walkartpark. Das Stadtzentrum bietet viele Möglichkeiten, das Fahrrad abzustellen und den Abend in einem der gemütlichen Lokale zu verbringen.",
             "hu": "Kezdje a napot vízhatlan felszerelésben a Slotlaan környékén. A központi helyszínek közötti rövid távok esőben is gyorsan teljesíthetők nyeregben.\n\nDélben a túra a Zeisterbos felé kanyarodik. A sűrű lombozat természetes esernyőként funkcionál, de a földutak csúszóssá válhatnak.\n\nDélután a Zeist-kastélyhoz érünk. Ez a legjobb időpont a bringás pihenőre, miközben a kastély termeiben szárazon maradva kulturálódunk.\n\nA napot egy rövid városi tekeréssel zárjuk a Walkartpark érintésével. A belvárosi éttermek közelében számos fedett kerékpártároló segíti a megállást.",
             "ro": "Începeți ziua cu echipament impermeabil în zona Slotlaan. Distanțele scurte din centru pot fi parcurse rapid cu bicicleta chiar și pe ploaie.\n\nLa prânz, turul continuă spre Zeisterbos. Baldachinul dens oferă o oarecare protecție, dar potecile neasfaltate necesită atenție sporită.\n\nDupă-amiaza ajungeți la Castelul Zeist. Aici puteți parca bicicleta și vă puteți încălzi în timp ce vizitați interiorul castelului, ferit de umezeală.\n\nZiua se încheie cu o scurtă plimbare înapoi spre Walkartpark. Centrul orașului oferă multe opțiuni de parcare pentru biciclete în apropierea localurilor primitoare.",
-            "en": "Start your day with waterproof gear near Slotlaan. The short distances in the center allow for quick transitions between stops even in the rain.\n\nAt noon, the route leads into the Zeisterbos. The dense canopy provides some shelter, though the unpaved paths require careful navigation.\n\nIn the afternoon, you reach Zeist Castle. This is the ideal time to park the bike and dry off while exploring the grand indoor exhibitions.\n\nThe day concludes with a short ride back towards Walkartpark. The city center offers plenty of spots to lock your bike before enjoying a cozy evening indoors."
+            "en": "Start your day with waterproof gear near Slotlaan. The short distances in the center allow for quick transitions between stops even in the rain.\n\nAt noon, the route leads into the Zeisterbos. The dense canopy provides some shelter, though the unpaved paths require careful navigation.\n\nIn the afternoon, you reach Zeist Castle. This is the ideal time to park the bike and dry off while exploring the grand indoor exhibitions.\n\nThe day concludes with a short ride back towards Walkartpark. The city center offers plenty of spots to lock your bike before enjoying a cozy evening indoors.",
+            "nl": "Begin je dag met waterdichte kleding bij de Slotlaan. De korte afstanden in het centrum maken snelle overgangen tussen haltes mogelijk, zelfs bij regen.\n\n’s Middags leidt de route het Zeisterbos in. Het dichte bladerdak biedt wat beschutting, hoewel de onverharde paden voorzichtigheid vereisen.\n\nIn de namiddag bereik je Kasteel Zeist. Dit is het ideale moment om de fiets te stallen en op te drogen terwijl je de uitgebreide binnenexposities bekijkt.\n\nDe dag wordt afgesloten met een korte rit terug richting Walkartpark. Het stadscentrum heeft veel plekken om je fiets op slot te zetten voordat je van een gezellig avondje binnen geniet."
           },
           "stops": [
             {
@@ -912,7 +979,8 @@
                 "de": "Prüfen Sie, ob der Verleih Regenponchos oder wasserfeste Taschen anbietet.",
                 "hu": "Kérdezzen rá a kölcsönzőben, van-e vízhatlan táskájuk vagy esőpelerinjük.",
                 "ro": "Întrebați la centrul de închirieri dacă au pelerine de ploaie sau genți impermeabile.",
-                "en": "Ask the rental shop if they provide rain ponchos or waterproof panniers."
+                "en": "Ask the rental shop if they provide rain ponchos or waterproof panniers.",
+                "nl": "Vraag bij de verhuur of ze regenponcho's of waterdichte fietstassen hebben."
               }
             },
             {
@@ -921,7 +989,8 @@
                 "de": "Vorsicht vor rutschigem Laub und nassen Wurzeln auf den Waldwegen.",
                 "hu": "Vigyázzon a csúszós levelekre és a vizes gyökerekre az erdei utakon.",
                 "ro": "Atenție la frunzele alunecoase și rădăcinile umede de pe cărările din pădure.",
-                "en": "Watch out for slippery leaves and wet roots on the forest trails."
+                "en": "Watch out for slippery leaves and wet roots on the forest trails.",
+                "nl": "Let op gladde bladeren en natte wortels op de bospaadjes."
               }
             },
             {
@@ -930,7 +999,8 @@
                 "de": "Ein kurzer Fotostopp reicht hier aus, bevor Sie weiter ins Trockene fahren.",
                 "hu": "Csak egy gyors fotómegállót javaslunk, mielőtt fedett helyre tekerne.",
                 "ro": "O scurtă oprire pentru fotografii este suficientă înainte de a continua spre adăpost.",
-                "en": "A quick photo stop is enough here before heading back to cover."
+                "en": "A quick photo stop is enough here before heading back to cover.",
+                "nl": "Een korte fotosstop volstaat hier voordat je terugrijdt om het af te dekken."
               }
             },
             {
@@ -939,7 +1009,8 @@
                 "de": "Nutzen Sie die Fahrradständer nah am Eingang, um Laufwege im Regen zu minimieren.",
                 "hu": "Használja a bejárathoz közeli tárolókat, hogy keveset kelljen esőben gyalogolnia.",
                 "ro": "Folosiți suporturile de biciclete de lângă intrare pentru a minimiza mersul prin ploaie.",
-                "en": "Use the bike racks close to the entrance to minimize walking in the rain."
+                "en": "Use the bike racks close to the entrance to minimize walking in the rain.",
+                "nl": "Gebruik de fietsenrekken vlak bij de ingang om minder in de regen te hoeven lopen."
               }
             },
             {
@@ -948,7 +1019,8 @@
                 "de": "Die Architektur lässt sich auch gut im Vorbeifahren bewundern.",
                 "hu": "Az épületegyüttes látványa menet közben, a nyeregből is élvezhető.",
                 "ro": "Arhitectura poate fi admirată cu ușurință chiar și din mers, de pe bicicletă.",
-                "en": "The architecture can be easily admired even while riding past."
+                "en": "The architecture can be easily admired even while riding past.",
+                "nl": "De architectuur is gemakkelijk te bewonderen, zelfs terwijl je er voorbij rijdt."
               }
             },
             {
@@ -957,7 +1029,8 @@
                 "de": "Fahren Sie vorsichtig auf den kurvigen Wegen durch den Park.",
                 "hu": "Óvatosan közlekedjen a park kanyargós, vizes ösvényein.",
                 "ro": "Circulați cu atenție pe aleile șerpuite și umede din parc.",
-                "en": "Ride carefully on the winding, wet paths through the park."
+                "en": "Ride carefully on the winding, wet paths through the park.",
+                "nl": "Rijd voorzichtig over de kronkelende, natte paden door het park."
               }
             }
           ],
@@ -989,6 +1062,13 @@
               "Look for covered bike racks near the town hall or along Slotlaan.",
               "Always wipe the saddle dry before starting to keep your clothes dry.",
               "Keep your bike lights on during the day for better visibility in the rain."
+            ],
+            "nl": [
+              "Vermijd plots remmen op de natte, door bladeren bedekte paden in Zeisterbos.",
+              "Waterdichte broek is essentieel; spatborden houden niet alle opspattende neerslag tegen.",
+              "Zoek naar overdekte fietsenrekken bij het gemeentehuis of langs de Slotlaan.",
+              "Veeg het zadel altijd droog voor vertrek om je kleding droog te houden.",
+              "Houd je fietsverlichting overdag aan voor betere zichtbaarheid in de regen."
             ]
           }
         },
@@ -997,7 +1077,8 @@
             "de": "Der Wintertag auf dem Rad beginnt frisch an der Slotlaan. Die klare Luft sorgt für gute Sicht, erfordert aber warme Handschuhe für die Fahrt durch das Zentrum.\n\nMittags erkunden Sie den Zeisterbos. Der Wald strahlt im Winter eine besondere Ruhe aus, doch achten Sie auf überfrierende Nässe im Schatten der Bäume.\n\nAm Nachmittag bietet das Schloss Zeist eine willkommene Aufwärmpause. Nach der Kälte auf dem Rad wirken die beheizten Ausstellungsräume besonders einladend.\n\nZum Abschluss führt der Weg durch den Walkartpark zurück in die Stadt. Wenn die Dämmerung einsetzt, beleuchten die Laternen die frostigen Wege und schaffen eine winterliche Atmosphäre.",
             "hu": "A téli bringás nap frissen indul a Slotlaan környékén. A tiszta levegő jó látási viszonyokat biztosít, de a menetszél miatt a meleg kesztyű kötelező.\n\nDélben a Zeisterbos ösvényein tekerünk. Az erdő ilyenkor a legcsöndesebb, de figyeljünk a fák árnyékában megmaradó jeges foltokra.\n\nDélután a Zeist-kastély látogatása jelenti a jól megérdemelt melegedést. A bringázás után a fűtött termek különösen hívogatóak.\n\nA napot a Walkartparkon át tekerve zárjuk. Ahogy korán sötétedik, a lámpák fénye megcsillan a zúzmarás ágakon, igazi téli hangulatot árasztva.",
             "ro": "Ziua de iarnă pe bicicletă începe revigorant pe Slotlaan. Aerul curat oferă o vizibilitate bună, dar necesită mănuși groase pentru deplasarea prin centru.\n\nLa prânz explorați Zeisterbos. Pădurea emană o liniște aparte iarna, dar fiți atenți la porțiunile înghețate din umbra copacilor.\n\nDupă-amiaza, Castelul Zeist oferă o pauză binemeritată pentru încălzire. După frigul de pe bicicletă, sălile de expoziție încălzite sunt foarte primitoare.\n\nLa final, traseul trece prin Walkartpark înapoi în oraș. Pe măsură ce se lasă amurgul, felinarele luminează aleile înghețate, creând o atmosferă hibernală.",
-            "en": "A winter's day on the bike begins freshly at Slotlaan. The clear air ensures good visibility, but warm gloves are a must for the ride through the center.\n\nAt noon, explore the Zeisterbos. The forest exudes a special silence in winter, but watch out for patches of ice lingering in the shadows of the trees.\n\nIn the afternoon, Zeist Castle offers a much-needed warming break. After the chill of the ride, the heated exhibition rooms are particularly inviting.\n\nFinally, the route leads through Walkartpark back into town. As dusk falls early, the streetlights illuminate the frosty paths, creating a magical winter atmosphere."
+            "en": "A winter's day on the bike begins freshly at Slotlaan. The clear air ensures good visibility, but warm gloves are a must for the ride through the center.\n\nAt noon, explore the Zeisterbos. The forest exudes a special silence in winter, but watch out for patches of ice lingering in the shadows of the trees.\n\nIn the afternoon, Zeist Castle offers a much-needed warming break. After the chill of the ride, the heated exhibition rooms are particularly inviting.\n\nFinally, the route leads through Walkartpark back into town. As dusk falls early, the streetlights illuminate the frosty paths, creating a magical winter atmosphere.",
+            "nl": "Een winterse dag op de fiets begint fris op Slotlaan. De heldere lucht zorgt voor goed zicht, maar warme handschoenen zijn een must voor de rit door het centrum.\n\nRond het middaguur: verken het Zeisterbos. Het bos ademt in de winter een bijzondere stilte, maar let op stukjes ijs die in de schaduw van de bomen blijven liggen.\n\nIn de namiddag biedt Slot Zeist een welkome verwarmde pauze. Na de kou van de rit zijn de verwarmde tentoonstellingszalen bijzonder uitnodigend.\n\nTot slot leidt de route via Walkartpark terug het dorp in. Doordat het vroeg donker wordt, verlichten de lantaarns de ijzige paden en ontstaat er een magische wintersfeer."
           },
           "stops": [
             {
@@ -1006,7 +1087,8 @@
                 "de": "Achten Sie darauf, dass Ihre Bremsen bei Frost einwandfrei funktionieren.",
                 "hu": "Indulás előtt ellenőrizze, hogy a fékek fagypont alatt is jól fognak-e.",
                 "ro": "Asigurați-vă că frânele funcționează corect chiar și la temperaturi de îngheț.",
-                "en": "Check that your brakes are working perfectly even in freezing temperatures."
+                "en": "Check that your brakes are working perfectly even in freezing temperatures.",
+                "nl": "Controleer of je remmen ook bij vrieskou perfect werken."
               }
             },
             {
@@ -1015,7 +1097,8 @@
                 "de": "Fahren Sie in Kurven besonders vorsichtig wegen möglicher Glätte.",
                 "hu": "A kanyarokban legyen különösen óvatos az esetleges jegesedés miatt.",
                 "ro": "Circulați cu prudență sporită în curbe din cauza posibilei polei.",
-                "en": "Be extra careful in corners due to potential patches of black ice."
+                "en": "Be extra careful in corners due to potential patches of black ice.",
+                "nl": "Wees extra voorzichtig in bochten vanwege mogelijke plekken met gevaarlijk glad ijs."
               }
             },
             {
@@ -1024,7 +1107,8 @@
                 "de": "Ein schneller Halt, um die frostige Industriekulisse zu fotografieren.",
                 "hu": "Gyors megálló a zúzmarás ipari műemlék lefotózásához.",
                 "ro": "O oprire rapidă pentru a fotografia decorul industrial înghețat.",
-                "en": "A quick stop to photograph the frosty industrial landmark."
+                "en": "A quick stop to photograph the frosty industrial landmark.",
+                "nl": "Een korte stop om het ijzige industriële herkenningspunt te fotograferen."
               }
             },
             {
@@ -1033,7 +1117,8 @@
                 "de": "Das Abstellen des Rades im Schatten führt schnell zu einem kalten Sattel.",
                 "hu": "Az árnyékban hagyott bicikli nyerge pillanatok alatt áthűl.",
                 "ro": "Parcarea bicicletei la umbră va duce rapid la răcirea excesivă a șeii.",
-                "en": "Parking your bike in the shade will result in a very cold saddle."
+                "en": "Parking your bike in the shade will result in a very cold saddle.",
+                "nl": "Je zadel wordt erg koud als je je fiets in de schaduw parkeert."
               }
             },
             {
@@ -1042,7 +1127,8 @@
                 "de": "Die weißen Gebäude wirken vor blauem Winterhimmel besonders klar.",
                 "hu": "A fehér épületek a kék téli égbolt előtt mutatnak a legszebben.",
                 "ro": "Clădirile albe par deosebit de clare pe fundalul cerului albastru de iarnă.",
-                "en": "The white buildings look especially crisp against a blue winter sky."
+                "en": "The white buildings look especially crisp against a blue winter sky.",
+                "nl": "De witte gebouwen steken extra scherp af tegen een blauwe winterlucht."
               }
             },
             {
@@ -1051,7 +1137,8 @@
                 "de": "Nutzen Sie das Radlicht, da es im Winter schon früh dämmert.",
                 "hu": "Kapcsolja be a lámpákat, mert télen már korán szürkül a parkban.",
                 "ro": "Folosiți luminile bicicletei, deoarece iarna se înserează devreme.",
-                "en": "Turn on your bike lights as dusk arrives early in winter."
+                "en": "Turn on your bike lights as dusk arrives early in winter.",
+                "nl": "Zet je fietsverlichting aan zodra het in de winter schemert."
               }
             }
           ],
@@ -1083,6 +1170,13 @@
               "Drink warm beverages at stops to maintain your internal body temperature.",
               "Be aware of road salt, as it can corrode your bike's drivetrain.",
               "Keep stationary periods outdoors short to avoid getting chilled to the bone."
+            ],
+            "nl": [
+              "Draag winddichte kleding om jezelf te beschermen tegen de koude windchill.",
+              "Controleer de bandenspanning voor vertrek, want koude temperaturen kunnen die doen dalen.",
+              "Drink warme dranken tijdens stops om je lichaamstemperatuur op peil te houden.",
+              "Let op wegenzout, dat de aandrijving van je fiets kan aantasten.",
+              "Houd buiten stilstandperioden kort om niet tot op het bot te verkleumen."
             ]
           }
         }
@@ -1101,7 +1195,8 @@
             "de": "Cluster 1: Parken am Zeisterbos",
             "hu": "1. klaszter: Parkolás a Zeisterbosnál",
             "ro": "Cluster 1: Parcare la Zeisterbos",
-            "en": "Cluster 1: Parking at Zeisterbos"
+            "en": "Cluster 1: Parking at Zeisterbos",
+            "nl": "Cluster 1: Parkeren bij Zeisterbos"
           },
           "coords": [
             5.265,
@@ -1116,7 +1211,8 @@
             "de": "Parken Sie Ihr Auto und beginnen Sie den Tag mit einem erfrischenden Waldspaziergang.",
             "hu": "Parkolja le az autót, és kezdje a napot egy frissítő erdei sétával.",
             "ro": "Parcați mașina și începeți ziua cu o plimbare revigorantă prin pădure.",
-            "en": "Park your car and start the day with a refreshing forest walk."
+            "en": "Park your car and start the day with a refreshing forest walk.",
+            "nl": "Parkeer je auto en begin de dag met een verfrissende boswandeling."
           }
         },
         {
@@ -1124,7 +1220,8 @@
             "de": "Wasserturm (zu Fuß)",
             "hu": "Víztorony (gyalog)",
             "ro": "Turnul de apă (pe jos)",
-            "en": "Water Tower (on foot)"
+            "en": "Water Tower (on foot)",
+            "nl": "Watertoren (te voet)"
           },
           "coords": [
             5.2595,
@@ -1140,7 +1237,8 @@
             "de": "Ein kurzer Spaziergang vom Waldrand aus zu diesem Industriedenkmal.",
             "hu": "Egy rövid séta az erdő széléről ehhez az ipari műemlékhez.",
             "ro": "O scurtă plimbare de la marginea pădurii la acest monument industrial.",
-            "en": "A short walk from the edge of the forest to this industrial monument."
+            "en": "A short walk from the edge of the forest to this industrial monument.",
+            "nl": "Een korte wandeling vanaf de bosrand naar dit industriële monument."
           }
         },
         {
@@ -1148,7 +1246,8 @@
             "de": "Cluster 2: Fahrt zum Zentrum, Parken bei Schloss Zeist",
             "hu": "2. klaszter: Autóval a központba, parkolás a Zeist kastélynál",
             "ro": "Cluster 2: Conduceți spre centru, parcați la Castelul Zeist",
-            "en": "Cluster 2: Drive to Center, Park at Zeist Castle"
+            "en": "Cluster 2: Drive to Center, Park at Zeist Castle",
+            "nl": "Cluster 2: Rijd naar centrum, parkeer bij Slot Zeist"
           },
           "coords": [
             5.2355,
@@ -1164,7 +1263,8 @@
             "de": "Finden Sie einen Parkplatz für den Rest des Tages und erkunden Sie das Schloss.",
             "hu": "Keressen egy parkolóhelyet a nap hátralévő részére, és fedezze fel a kastélyt.",
             "ro": "Găsiți un loc de parcare pentru restul zilei și explorați castelul.",
-            "en": "Find a parking spot for the rest of the day and explore the castle."
+            "en": "Find a parking spot for the rest of the day and explore the castle.",
+            "nl": "Zoek een parkeerplek voor de rest van de dag en verken het kasteel."
           }
         },
         {
@@ -1172,7 +1272,8 @@
             "de": "Slotpark & Mittagessen (zu Fuß)",
             "hu": "Slotpark és ebéd (gyalog)",
             "ro": "Slotpark și prânz (pe jos)",
-            "en": "Slotpark & Lunch (on foot)"
+            "en": "Slotpark & Lunch (on foot)",
+            "nl": "Slotpark & Lunch (te voet)"
           },
           "coords": [
             5.2341,
@@ -1188,7 +1289,8 @@
             "de": "Nach dem Schlossbesuch ist ein Spaziergang im Park und eine Mittagspause ideal.",
             "hu": "A kastélylátogatás után ideális egy séta a parkban és egy ebédszünet.",
             "ro": "După vizitarea castelului, o plimbare în parc și o pauză de prânz sunt ideale.",
-            "en": "After the castle visit, a walk in the park and a lunch break are ideal."
+            "en": "After the castle visit, a walk in the park and a lunch break are ideal.",
+            "nl": "Na het kasteelbezoek zijn een wandeling in het park en een lunchpauze ideaal."
           }
         },
         {
@@ -1196,7 +1298,8 @@
             "de": "Slotlaan & Evangelische Broedergemeente (zu Fuß)",
             "hu": "Slotlaan és Evangélikus Testvérközösség (gyalog)",
             "ro": "Slotlaan și Comunitatea Evanghelică a Fraților (pe jos)",
-            "en": "Slotlaan & Evangelical Brethren Community (on foot)"
+            "en": "Slotlaan & Evangelical Brethren Community (on foot)",
+            "nl": "Slotlaan & Evangelische Broedergemeente (te voet)"
           },
           "coords": [
             5.2401,
@@ -1212,7 +1315,8 @@
             "de": "Schlendern Sie die Hauptstraße entlang zum einzigartigen historischen Viertel.",
             "hu": "Sétáljon végig a főutcán az egyedülálló történelmi negyedig.",
             "ro": "Plimbați-vă pe strada principală până la cartierul istoric unic.",
-            "en": "Stroll down the main street to the unique historic quarter."
+            "en": "Stroll down the main street to the unique historic quarter.",
+            "nl": "Slenter over de hoofdstraat naar de unieke historische buurt."
           }
         },
         {
@@ -1220,7 +1324,8 @@
             "de": "Walkartpark (zu Fuß)",
             "hu": "Walkartpark (gyalog)",
             "ro": "Parcul Walkart (pe jos)",
-            "en": "Walkartpark (on foot)"
+            "en": "Walkartpark (on foot)",
+            "nl": "Walkartpark (te voet)"
           },
           "coords": [
             5.2438,
@@ -1236,7 +1341,8 @@
             "de": "Ein letzter entspannter Spaziergang, bevor Sie zum Auto zurückkehren.",
             "hu": "Egy utolsó, pihentető séta, mielőtt visszatérne az autóhoz.",
             "ro": "O ultimă plimbare relaxantă înainte de a vă întoarce la mașină.",
-            "en": "A final relaxing walk before heading back to the car."
+            "en": "A final relaxing walk before heading back to the car.",
+            "nl": "Een laatste ontspannen wandeling voordat je terug naar de auto gaat."
           }
         }
       ],
@@ -1244,7 +1350,8 @@
         "de": "Mit dem Auto genießen Sie Flexibilität. Starten Sie im grünen Zeisterbos für einen Morgenspaziergang und einen Blick auf den Wasserturm. Danach fahren Sie ins Zentrum und parken beim Schloss Zeist. Hier beginnt Ihr zweiter Teil des Tages zu Fuß: Erkunden Sie das Schloss, essen Sie im Park zu Mittag und schlendern Sie dann durch die Slotlaan zum historischen Viertel der Broedergemeente. Ein ruhiger Spaziergang im Walkartpark rundet Ihren Tag ab, bevor Sie bequem nach Hause fahren.",
         "hu": "Autóval rugalmasan élvezheti a napot. Kezdjen a zöld Zeisterbosban egy reggeli sétával és egy pillantással a víztoronyra. Ezután hajtson be a központba, és parkoljon a Zeist kastélynál. Itt kezdődik a nap második, gyalogos része: fedezze fel a kastélyt, ebédeljen a parkban, majd sétáljon végig a Slotlaanon a Testvérközösség történelmi negyedéig. Egy csendes séta a Walkartparkban zárja a napot, mielőtt kényelmesen hazautazna.",
         "ro": "Cu mașina, vă bucurați de flexibilitate. Începeți în verdele Zeisterbos pentru o plimbare de dimineață și o privire la Turnul de Apă. Apoi, conduceți spre centru și parcați la Castelul Zeist. Aici începe a doua parte a zilei, pe jos: explorați castelul, luați prânzul în parc și apoi plimbați-vă pe Slotlaan până la cartierul istoric al Comunității Fraților. O plimbare liniștită în Walkartpark încheie ziua înainte de a vă întoarce acasă confortabil.",
-        "en": "With a car, you enjoy flexibility. Start in the green Zeisterbos for a morning walk and a look at the Water Tower. Then, drive to the center and park at Zeist Castle. This is where the second part of your day begins on foot: explore the castle, have lunch in the park, and then stroll down Slotlaan to the historic Brethren Community quarter. A quiet walk in Walkartpark rounds off your day before you comfortably drive home."
+        "en": "With a car, you enjoy flexibility. Start in the green Zeisterbos for a morning walk and a look at the Water Tower. Then, drive to the center and park at Zeist Castle. This is where the second part of your day begins on foot: explore the castle, have lunch in the park, and then stroll down Slotlaan to the historic Brethren Community quarter. A quiet walk in Walkartpark rounds off your day before you comfortably drive home.",
+        "nl": "Met de auto heb je flexibiliteit. Begin in het groene Zeisterbos voor een ochtendwandeling en een blik op de Watertoren. Rijd daarna naar het centrum en parkeer bij Slot Zeist. Vanaf daar begint het tweede deel van je dag te voet: verken het kasteel, lunch in het park en wandel vervolgens over de Slotlaan naar de historische Broedergemeente. Een rustige wandeling in Walkartpark rondt je dag af voordat je comfortabel naar huis rijdt."
       },
       "gastro_picks": {
         "de": [
@@ -1440,6 +1547,12 @@
           "Most parking in the center of Zeist is paid.",
           "Plan your route in advance to avoid one-way streets.",
           "A car gives you the freedom to also visit nearby sights like the Pyramid of Austerlitz (not included in this plan)."
+        ],
+        "nl": [
+          "Gebruik park-en-wandel-clusters om parkeerkosten en stress te besparen.",
+          "De meeste parkeergelegenheid in het centrum van Zeist is betaald.",
+          "Plan je route van tevoren om eenrichtingswegen te vermijden.",
+          "Met de auto kun je ook gemakkelijk bezienswaardigheden in de buurt bezoeken, zoals de Piramide van Austerlitz (niet in dit plan opgenomen)."
         ]
       },
       "variants": {
@@ -1448,7 +1561,8 @@
             "de": "Ein regnerischer Tag lässt sich in Zeist am besten mit dem Auto beginnen. Parken Sie direkt am Zeisterbos, um trockenen Fußes einen kurzen Blick in die Natur zu werfen.\n\nMittags steuern Sie das Zentrum an. Der Parkplatz am Schloss Zeist ist ideal, um ohne lange Wege im Regen zu den prachtvollen Innenräumen zu gelangen.\n\nAm Nachmittag bietet sich ein Abstecher zur Slotlaan an. Aus dem Auto heraus lassen sich die Auslagen der Geschäfte bewundern, bevor man für einen gezielten Einkauf aussteigt.\n\nDer Abend schließt am Figi-Komplex ab. Dank der nahen Parkmöglichkeiten erreichen Sie das Theater und Restaurant trocken und komfortabel, egal wie stark es draußen regnet.",
             "hu": "Az esős napot legkényelmesebben autóval kezdhetjük Zeistben. Parkoljon közvetlenül a Zeisterbosnál, így egy rövid, száraz lábbal megtehető sétát tehet az erdő szélén.\n\nDélben a belváros felé vegye az irányt. A Zeist-kastély melletti parkoló ideális, mert így minimális gyaloglással juthat be a pazar belső termekbe.\n\nDélután a Slotlaan környékén intézhetjük a vásárlást. Az autóból is jól látszanak a kirakatok, így csak a célpontnál kell kiszállnia az esőbe.\n\nA napot a Figi komplexumban zárjuk. A közeli parkolóhelyeknek köszönhetően szárazon és kényelmesen érhetjük el az éttermet és a színházat, bármilyen intenzív is kint a csapadék.",
             "ro": "O zi ploioasă în Zeist este cel mai bine începută cu mașina. Parcați direct lângă Zeisterbos pentru o scurtă privire spre natură, fără a vă uda prea tare.\n\nLa prânz, îndreptați-vă spre centru. Parcarea de la Castelul Zeist este ideală pentru a ajunge rapid la interioarele fastuoase, evitând mersul prelungit prin ploaie.\n\nDupă-amiaza, o oprire pe Slotlaan este perfectă. Puteți admira vitrinele magazinelor din mașină înainte de a coborî pentru cumpărături punctuale.\n\nSeara se încheie la complexul Figi. Datorită facilităților de parcare din apropiere, veți ajunge la teatru și restaurant uscat și confortabil, indiferent de ploaia de afară.",
-            "en": "A rainy day in Zeist is best managed by car. Park right at Zeisterbos for a quick glimpse of nature while keeping your feet mostly dry.\n\nAt noon, head to the center. The parking lot at Zeist Castle is ideal, allowing you to reach the grand interiors with minimal walking in the rain.\n\nIn the afternoon, cruise along Slotlaan. You can window-shop from the comfort of your car before stepping out for a specific purchase.\n\nThe evening concludes at the Figi complex. Thanks to nearby parking, you can reach the theater and restaurant dry and comfortable, no matter how hard it rains."
+            "en": "A rainy day in Zeist is best managed by car. Park right at Zeisterbos for a quick glimpse of nature while keeping your feet mostly dry.\n\nAt noon, head to the center. The parking lot at Zeist Castle is ideal, allowing you to reach the grand interiors with minimal walking in the rain.\n\nIn the afternoon, cruise along Slotlaan. You can window-shop from the comfort of your car before stepping out for a specific purchase.\n\nThe evening concludes at the Figi complex. Thanks to nearby parking, you can reach the theater and restaurant dry and comfortable, no matter how hard it rains.",
+            "nl": "Een regenachtige dag in Zeist is het beste met de auto te doen. Parkeer direct bij Zeisterbos voor een korte kennismaking met de natuur terwijl je mostly droge voeten houdt.\n\nRond het middaguur: ga naar het centrum. De parkeerplaats bij Slot Zeist is ideaal, zodat je met minimale wandeling de indrukwekkende interieurs kunt bereiken.\n\nIn de namiddag rijd je over de Slotlaan. Je kunt vanuit de auto de etalages bekijken voordat je uitstapt voor een gerichte aankoop.\n\nDe avond eindigt bij het Figi-complex. Dankzij de nabijgelegen parkeergelegenheid bereik je het theater en restaurant droog en comfortabel, ongeacht hoe hard het regent."
           },
           "stops": [
             {
@@ -1457,7 +1571,8 @@
                 "de": "Nutzen Sie den befestigten Parkplatz, um Schlamm am Auto zu vermeiden.",
                 "hu": "Használja a szilárd burkolatú parkolót, hogy elkerülje az autó elsarazódását.",
                 "ro": "Folosiți parcarea pavată pentru a evita murdărirea mașinii cu noroi.",
-                "en": "Use the paved parking area to avoid getting mud on your car."
+                "en": "Use the paved parking area to avoid getting mud on your car.",
+                "nl": "Gebruik het verharde parkeerterrein om modder op je auto te voorkomen."
               }
             },
             {
@@ -1466,7 +1581,8 @@
                 "de": "Vom Auto aus ist der Turm auch bei Regen ein markantes Fotomotiv.",
                 "hu": "Az autó ablakából is remek fotót készíthetünk erről az ipari toronyról.",
                 "ro": "Turnul rămâne un motiv fotografic excelent chiar și din mașină, pe ploaie.",
-                "en": "The tower remains a striking photo subject even from inside the car."
+                "en": "The tower remains a striking photo subject even from inside the car.",
+                "nl": "De toren blijft een opvallend fotomotief, zelfs vanuit de auto."
               }
             },
             {
@@ -1475,7 +1591,8 @@
                 "de": "Zentrale Parkplätze am Schloss sparen lange Wege im Regen.",
                 "hu": "A kastélynál található központi parkolók megkímélik a hosszas ázástól.",
                 "ro": "Parcările centrale de la castel vă scutesc de mersul lung prin ploaie.",
-                "en": "Central parking at the castle saves you from long walks in the rain."
+                "en": "Central parking at the castle saves you from long walks in the rain.",
+                "nl": "Centraal parkeren bij het kasteel bespaart je lange wandelingen in de regen."
               }
             },
             {
@@ -1484,7 +1601,8 @@
                 "de": "Viele Restaurants im Zentrum haben nahegelegene Parkbuchten.",
                 "hu": "A legtöbb belvárosi étterem közelében találhat rövid távú parkolóhelyet.",
                 "ro": "Multe restaurante din centru au locuri de parcare în imediata apropiere.",
-                "en": "Most restaurants in the center have nearby parking bays."
+                "en": "Most restaurants in the center have nearby parking bays.",
+                "nl": "De meeste restaurants in het centrum hebben parkeerplaatsen in de buurt."
               }
             },
             {
@@ -1493,7 +1611,8 @@
                 "de": "Kurzzeitparken an der Slotlaan ist ideal für schnelle Erledigungen.",
                 "hu": "A rövid távú parkolás a Slotlaanon ideális a gyors ügyintézéshez.",
                 "ro": "Parcarea pe termen scurt pe Slotlaan este ideală pentru opriri rapide.",
-                "en": "Short-term parking on Slotlaan is ideal for quick errands."
+                "en": "Short-term parking on Slotlaan is ideal for quick errands.",
+                "nl": "Kort parkeren op de Slotlaan is ideaal voor snelle klusjes."
               }
             },
             {
@@ -1502,7 +1621,8 @@
                 "de": "Parken Sie am Rand des Parks für einen kurzen, wettergeschützten Besuch.",
                 "hu": "Parkoljon a park szélén a gyors, esőtől védettebb látogatáshoz.",
                 "ro": "Parcați la marginea parcului pentru o vizită scurtă, protejată de ploaie.",
-                "en": "Park at the edge of the park for a quick, rain-protected visit."
+                "en": "Park at the edge of the park for a quick, rain-protected visit.",
+                "nl": "Parkeer aan de rand van het park voor een snelle, regenbeschermde wandeling."
               }
             }
           ],
@@ -1534,6 +1654,13 @@
               "Check parking availability at Zeist Castle in advance during peak hours.",
               "Keep an umbrella ready in your car's door pocket for immediate use.",
               "Avoid parking under large trees if the rain is accompanied by high winds."
+            ],
+            "nl": [
+              "Let op beslagen ruiten die het zicht bij zware regen kunnen verminderen.",
+              "Meerlaagse parkeergarages in het centrum bieden de beste bescherming bij in- en uitstappen.",
+              "Controleer de parkeergelegenheid bij Slot Zeist vooraf tijdens piekuren.",
+              "Houd een paraplu klaarliggen in het deurvak van de auto voor direct gebruik.",
+              "Vermijd parkeren onder grote bomen als de regen gepaard gaat met harde wind."
             ]
           }
         },
@@ -1542,7 +1669,8 @@
             "de": "Ein Wintermorgen beginnt komfortabel im beheizten Auto. Fahren Sie zum Zeisterbos und genießen Sie die frostige Waldlandschaft bei einem kurzen Stopp.\n\nMittags steuern Sie das Schloss Zeist an. Die kurze Fahrt durch die winterliche Stadt führt Sie direkt zu den warmen Sälen des Schlosses, wo die Geschichte lebendig wird.\n\nAm Nachmittag erkunden Sie die Slotlaan. Das Auto dient als warme Basis zwischen den Besuchen der verschiedenen Läden und historischen Punkte der Brüdergemeine.\n\nDer Abend klingt im Figi-Zentrum aus. Dank der Tiefgarage gelangen Sie ohne Kälteschock direkt in das beleuchtete Theater- und Restaurantgebäude.",
             "hu": "A téli reggel kényelmesen indul a fűtött autóban. Hajtson a Zeisterboshoz, és csodálja meg a zúzmarás erdei tájat egy rövid megálló során.\n\nDélben a Zeist-kastély felé vegye az irányt. A rövid autózás után közvetlenül a kastély meleg termeibe juthat, ahol megelevenedik a múlt.\n\nDélután fedezze fel a Slotlaan környékét. Az autó meleg bázisként szolgál az üzletek és a testvérközösség történelmi épületei közötti megállókban.\n\nA napot a Figi központban zárjuk. A mélygarázsnak köszönhetően hidegsokk nélkül, közvetlenül juthatunk a kivilágított étterembe vagy a színházba.",
             "ro": "O dimineață de iarnă începe confortabil în mașina încălzită. Conduceți spre Zeisterbos și bucurați-vă de peisajul înghețat al pădurii la o scurtă oprire.\n\nLa prânz, îndreptați-vă spre Castelul Zeist. Scurta deplasare prin orașul hibernal vă duce direct la sălile calde ale castelului, unde istoria prinde viață.\n\nDupă-amiaza, explorați Slotlaan. Mașina servește drept bază caldă între vizitele la diversele magazine și puncte istorice ale comunității evanghelice.\n\nSeara se încheie la complexul Figi. Datorită parcării subterane, veți ajunge direct în clădirea luminată a teatrului și restaurantului, fără a resimți gerul.",
-            "en": "A winter morning starts comfortably in a heated car. Drive to Zeisterbos and enjoy the frosty forest landscape during a brief stop.\n\nAt noon, head for Zeist Castle. The short drive through the wintry town leads you directly to the warm halls of the castle, where history comes alive.\n\nIn the afternoon, explore Slotlaan. Your car serves as a warm base between visits to the various shops and historic sites of the Moravian community.\n\nThe evening concludes at the Figi complex. Thanks to the underground parking, you can transition directly into the illuminated theater and restaurant without the cold shock."
+            "en": "A winter morning starts comfortably in a heated car. Drive to Zeisterbos and enjoy the frosty forest landscape during a brief stop.\n\nAt noon, head for Zeist Castle. The short drive through the wintry town leads you directly to the warm halls of the castle, where history comes alive.\n\nIn the afternoon, explore Slotlaan. Your car serves as a warm base between visits to the various shops and historic sites of the Moravian community.\n\nThe evening concludes at the Figi complex. Thanks to the underground parking, you can transition directly into the illuminated theater and restaurant without the cold shock.",
+            "nl": "Een winterse ochtend begint comfortabel in een verwarmde auto. Rijd naar Zeisterbos en geniet bij een korte stop van het rijpige boslandschap.\n\nRond het middaguur: ga naar Slot Zeist. De korte rit door het winterse dorp brengt je direct naar de warme zalen van het kasteel, waar de geschiedenis tot leven komt.\n\nIn de namiddag: verken de Slotlaan. Je auto dient als warme basis tussen bezoeken aan winkels en historische locaties van de Broedergemeente.\n\nDe avond eindigt bij het Figi-complex. Dankzij de ondergrondse parkeergarage kun je rechtstreeks naar het verlichte theater en restaurant zonder de koude te hoeven trotseren."
           },
           "stops": [
             {
@@ -1551,7 +1679,8 @@
                 "de": "Lassen Sie den Motor nicht unnötig laufen, während Sie die Aussicht genießen.",
                 "hu": "Ne járassa feleslegesen a motort, miközben a tájban gyönyörködik.",
                 "ro": "Nu lăsați motorul pornit inutil în timp ce admirați peisajul.",
-                "en": "Don't leave the engine idling unnecessarily while enjoying the view."
+                "en": "Don't leave the engine idling unnecessarily while enjoying the view.",
+                "nl": "Laat de motor niet onnodig stationair draaien terwijl je van het uitzicht geniet."
               }
             },
             {
@@ -1560,7 +1689,8 @@
                 "de": "Vorsicht beim Aussteigen, der Parkplatz könnte glatt sein.",
                 "hu": "Kiszálláskor legyen óvatos, a parkoló felülete jeges lehet.",
                 "ro": "Atenție la coborâre, parcarea ar putea fi alunecoasă.",
-                "en": "Be careful when getting out, as the parking lot surface might be slippery."
+                "en": "Be careful when getting out, as the parking lot surface might be slippery.",
+                "nl": "Wees voorzichtig bij uitstappen, het parkeerterrein kan glad zijn."
               }
             },
             {
@@ -1569,7 +1699,8 @@
                 "de": "Nutzen Sie die Parkmöglichkeiten mit kurzem Weg zum Haupteingang.",
                 "hu": "Válasszon olyan parkolóhelyet, ahonnan rövid út vezet a főbejárathoz.",
                 "ro": "Alegeți locuri de parcare cu acces rapid către intrarea principală.",
-                "en": "Choose parking spots that offer a short walk to the main entrance."
+                "en": "Choose parking spots that offer a short walk to the main entrance.",
+                "nl": "Kies parkeerplaatsen die een korte wandeling naar de hoofdingang bieden."
               }
             },
             {
@@ -1578,7 +1709,8 @@
                 "de": "Parken Sie in der Nähe der beheizten Gastronomiebetriebe.",
                 "hu": "Parkoljon a fűtött éttermek közvetlen közelében.",
                 "ro": "Parcați în apropierea unităților gastronomice încălzite.",
-                "en": "Park close to the heated dining establishments in the center."
+                "en": "Park close to the heated dining establishments in the center.",
+                "nl": "Parkeer dichtbij verwarmde eetgelegenheden in het centrum."
               }
             },
             {
@@ -1587,7 +1719,8 @@
                 "de": "Achten Sie auf die Parkzeitbeschränkungen in der winterlichen Innenstadt.",
                 "hu": "Ügyeljen a parkolási időkorlátokra a belvárosi övezetben.",
                 "ro": "Atenție la restricțiile de timp pentru parcare în centrul orașului.",
-                "en": "Pay attention to parking time limits in the city center zone."
+                "en": "Pay attention to parking time limits in the city center zone.",
+                "nl": "Let op parkeertijdslimieten in de centrumzone."
               }
             },
             {
@@ -1596,7 +1729,8 @@
                 "de": "Ein kurzer Stopp reicht, um die frostigen Skulpturen zu bewundern.",
                 "hu": "Egy rövid megálló is elég a fagyos szobrok megtekintéséhez.",
                 "ro": "O oprire scurtă este suficientă pentru a admira sculpturile înghețate.",
-                "en": "A quick stop is enough to admire the frosty sculptures in the park."
+                "en": "A quick stop is enough to admire the frosty sculptures in the park.",
+                "nl": "Een korte stop is genoeg om de rijpbeelden in het park te bewonderen."
               }
             }
           ],
@@ -1628,6 +1762,13 @@
               "Watch out for icy spots in shaded parking areas near Zeisterbos.",
               "Do not leave sensitive items or liquids in the cold car overnight.",
               "Allow extra time for de-icing your windows before setting off."
+            ],
+            "nl": [
+              "Zorg dat je ruitensproeiervloeistof is bijgevuld met antivries.",
+              "Gebruik overdekte parkeergarages om je auto te beschermen tegen rijp en sneeuw.",
+              "Let op ijsplekken in schaduwrijke parkeerzones bij Zeisterbos.",
+              "Laat geen gevoelige spullen of vloeistoffen ’s nachts in de koude auto achter.",
+              "Reken extra tijd om je ruiten te ontdooien voor je weggaat."
             ]
           }
         }
@@ -1646,7 +1787,8 @@
             "de": "Cluster 1: Bus zum Schloss Zeist",
             "hu": "1. klaszter: Busszal a Zeist kastélyhoz",
             "ro": "Cluster 1: Autobuz spre Castelul Zeist",
-            "en": "Cluster 1: Bus to Zeist Castle"
+            "en": "Cluster 1: Bus to Zeist Castle",
+            "nl": "Cluster 1: Bus naar Slot Zeist"
           },
           "coords": [
             5.2355,
@@ -1661,7 +1803,8 @@
             "de": "Steigen Sie an der Haltestelle 'Slot Zeist' aus und beginnen Sie mit dem Highlight.",
             "hu": "Szálljon le a 'Slot Zeist' megállónál, és kezdje a fényponttal.",
             "ro": "Coborâți la stația 'Slot Zeist' și începeți cu atracția principală.",
-            "en": "Get off at the 'Slot Zeist' stop and start with the highlight."
+            "en": "Get off at the 'Slot Zeist' stop and start with the highlight.",
+            "nl": "Stap uit bij halte 'Slot Zeist' en begin met het hoogtepunt."
           }
         },
         {
@@ -1669,7 +1812,8 @@
             "de": "Slotpark & Slotlaan (zu Fuß)",
             "hu": "Slotpark és Slotlaan (gyalog)",
             "ro": "Slotpark și Slotlaan (pe jos)",
-            "en": "Slotpark & Slotlaan (on foot)"
+            "en": "Slotpark & Slotlaan (on foot)",
+            "nl": "Slotpark & Slotlaan (te voet)"
           },
           "coords": [
             5.239,
@@ -1685,7 +1829,8 @@
             "de": "Ein Spaziergang durch den Park führt Sie direkt zur Haupteinkaufsstraße.",
             "hu": "Egy séta a parkon keresztül egyenesen a fő bevásárlóutcára vezet.",
             "ro": "O plimbare prin parc vă duce direct la strada principală de cumpărături.",
-            "en": "A walk through the park takes you directly to the main shopping street."
+            "en": "A walk through the park takes you directly to the main shopping street.",
+            "nl": "Een wandeling door het park brengt je direct naar de belangrijkste winkelstraat."
           }
         },
         {
@@ -1693,7 +1838,8 @@
             "de": "Evangelische Broedergemeente (zu Fuß)",
             "hu": "Evangélikus Testvérközösség (gyalog)",
             "ro": "Comunitatea Evanghelică a Fraților (pe jos)",
-            "en": "Evangelical Brethren Community (on foot)"
+            "en": "Evangelical Brethren Community (on foot)",
+            "nl": "Evangelische Broedergemeente (te voet)"
           },
           "coords": [
             5.2401,
@@ -1709,7 +1855,8 @@
             "de": "Erkunden Sie die einzigartige Architektur und die friedliche Atmosphäre zu Fuß.",
             "hu": "Fedezze fel gyalog az egyedülálló építészetet és a békés légkört.",
             "ro": "Explorați pe jos arhitectura unică și atmosfera pașnică.",
-            "en": "Explore the unique architecture and peaceful atmosphere on foot."
+            "en": "Explore the unique architecture and peaceful atmosphere on foot.",
+            "nl": "Verken de unieke architectuur en de rustige sfeer te voet."
           }
         },
         {
@@ -1717,7 +1864,8 @@
             "de": "Cluster 2: Bus zum Zeisterbos",
             "hu": "2. klaszter: Busszal a Zeisterboshoz",
             "ro": "Cluster 2: Autobuz spre Zeisterbos",
-            "en": "Cluster 2: Bus to Zeisterbos"
+            "en": "Cluster 2: Bus to Zeisterbos",
+            "nl": "Cluster 2: Bus naar Zeisterbos"
           },
           "coords": [
             5.265,
@@ -1733,7 +1881,8 @@
             "de": "Nehmen Sie einen Bus in Richtung Woudenberg/Amersfoort und steigen Sie am Waldrand aus.",
             "hu": "Vegyen egy buszt Woudenberg/Amersfoort irányába, és szálljon le az erdő szélén.",
             "ro": "Luați un autobuz spre Woudenberg/Amersfoort și coborâți la marginea pădurii.",
-            "en": "Take a bus towards Woudenberg/Amersfoort and get off at the edge of the forest."
+            "en": "Take a bus towards Woudenberg/Amersfoort and get off at the edge of the forest.",
+            "nl": "Neem een bus richting Woudenberg/Amersfoort en stap uit aan de bosrand."
           }
         },
         {
@@ -1741,7 +1890,8 @@
             "de": "Walkartpark (letzter Halt)",
             "hu": "Walkartpark (utolsó megálló)",
             "ro": "Parcul Walkart (ultima oprire)",
-            "en": "Walkartpark (final stop)"
+            "en": "Walkartpark (final stop)",
+            "nl": "Walkartpark (laatste stop)"
           },
           "coords": [
             5.2438,
@@ -1757,7 +1907,8 @@
             "de": "Nehmen Sie einen Bus zurück ins Zentrum für einen letzten Spaziergang im Park.",
             "hu": "Menjen vissza busszal a központba egy utolsó sétára a parkban.",
             "ro": "Luați un autobuz înapoi spre centru pentru o ultimă plimbare în parc.",
-            "en": "Take a bus back to the center for a final stroll in the park."
+            "en": "Take a bus back to the center for a final stroll in the park.",
+            "nl": "Neem een bus terug naar het centrum voor een laatste wandeling in het park."
           }
         }
       ],
@@ -1765,7 +1916,8 @@
         "de": "Zeist ist mit öffentlichen Verkehrsmitteln gut zu erkunden. Starten Sie mit dem Bus direkt zum Schloss Zeist, dem Höhepunkt des Tages. Von dort aus erkunden Sie den ersten Cluster zu Fuß: den Schlosspark, die Slotlaan und das historische Viertel der Broedergemeente. Nach dem Mittagessen bringt Sie ein weiterer Bus zum zweiten Cluster: dem weitläufigen Zeisterbos. Genießen Sie einen langen Spaziergang in der Natur, bevor Sie für einen letzten, ruhigen Moment im Walkartpark ins Zentrum zurückkehren.",
         "hu": "Zeist könnyen felfedezhető tömegközlekedéssel. Kezdje a napot busszal közvetlenül a Zeist kastélyhoz, a nap fénypontjához. Onnan gyalog fedezze fel az első klasztert: a kastélyparkot, a Slotlaant és a Testvérközösség történelmi negyedét. Ebéd után egy másik busz elviszi a második klaszterhez: a tágas Zeisterboshoz. Élvezzen egy hosszú sétát a természetben, mielőtt visszatérne a központba egy utolsó, csendes pillanatra a Walkartparkban.",
         "ro": "Zeist este ușor de explorat cu transportul public. Începeți cu autobuzul direct la Castelul Zeist, punctul culminant al zilei. De acolo, explorați primul cluster pe jos: parcul castelului, Slotlaan și cartierul istoric al Comunității Fraților. După prânz, un alt autobuz vă duce la al doilea cluster: vastul Zeisterbos. Bucurați-vă de o plimbare lungă în natură înainte de a vă întoarce în centru pentru un ultim moment de liniște în Walkartpark.",
-        "en": "Zeist is easy to explore by public transport. Start by taking a bus directly to Zeist Castle, the highlight of the day. From there, explore the first cluster on foot: the castle park, Slotlaan, and the historic Brethren Community quarter. After lunch, another bus will take you to the second cluster: the vast Zeisterbos. Enjoy a long walk in nature before returning to the center for a final, quiet moment in Walkartpark."
+        "en": "Zeist is easy to explore by public transport. Start by taking a bus directly to Zeist Castle, the highlight of the day. From there, explore the first cluster on foot: the castle park, Slotlaan, and the historic Brethren Community quarter. After lunch, another bus will take you to the second cluster: the vast Zeisterbos. Enjoy a long walk in nature before returning to the center for a final, quiet moment in Walkartpark.",
+        "nl": "Zeist is makkelijk met openbaar vervoer te verkennen. Begin met een bus naar Slot Zeist, het hoogtepunt van de dag. Vanaf daar verken je het eerste cluster te voet: het kasteelpark, de Slotlaan en de historische Broedergemeente. Na de lunch brengt een bus je naar het tweede cluster: het uitgestrekte Zeisterbos. Geniet van een lange wandeling in de natuur voordat je terugkeert naar het centrum voor een laatste rustmoment in Walkartpark."
       },
       "gastro_picks": {
         "de": [
@@ -1961,6 +2113,12 @@
           "Plan your bus journeys with an app like 9292 to minimize waiting times.",
           "Check the last bus departure times, especially if you're in the forest late in the afternoon.",
           "Bus stops are clearly marked."
+        ],
+        "nl": [
+          "Koop een dagkaart of gebruik een OV-chipkaart voor de goedkoopste tarieven.",
+          "Plan je busreizen met een app zoals 9292 om wachttijden te minimaliseren.",
+          "Controleer de laatste busvertrektijden, vooral als je laat in de namiddag nog in het bos bent.",
+          "Bushaltes zijn duidelijk aangegeven."
         ]
       },
       "variants": {
@@ -1969,7 +2127,8 @@
             "de": "Ein regnerischer Tag beginnt mit dem Bus zum Schloss Zeist. Die überdachten Haltestellen bieten Schutz, während Sie auf die Verbindung ins Zentrum warten.\n\nMittags erkunden Sie das Schloss und den angrenzenden Park. Die Busse verkehren regelmäßig, sodass Sie schnell wieder im Trockenen sind, wenn der Regen zunimmt.\n\nAm Nachmittag führt die Route zum Zeisterbos. Nutzen Sie den Bus, um direkt zum Waldrand zu gelangen, und genießen Sie die Natur zwischen den Schauern.\n\nDer Tag endet mit einer Busfahrt zurück zum Walkartpark. Das Figi-Zentrum liegt in unmittelbarer Nähe vieler Haltestellen, was den Abend angenehm und trocken planbar macht.",
             "hu": "Az esős napot kezdje busszal a Zeist-kastély felé. A fedett megállók védelmet nyújtanak, amíg a belvárosi csatlakozásra vár.\n\nDélben fedezze fel a kastélyt és környékét. A buszok gyakran járnak, így gyorsan fedélzetre szállhat, ha erősödne a csapadék.\n\nDélután a Zeisterbos következik. Használja a tömegközlekedést, hogy közvetlenül az erdő széléig jusson, minimalizálva az esőben töltött időt.\n\nA napot a Walkartparknál zárjuk. A Figi központ számos buszmegálló közelében található, így az esti program szárazon és kényelmesen elérhető.",
             "ro": "O zi ploioasă începe cu autobuzul spre Castelul Zeist. Stațiile acoperite oferă protecție în timp ce așteptați conexiunea spre centru.\n\nLa prânz, explorați castelul și parcul adiacent. Autobuzele circulă regulat, permițându-vă să reveniți rapid la adăpost dacă ploaia se întețește.\n\nDupă-amiaza, traseul continuă spre Zeisterbos. Folosiți transportul public pentru a ajunge direct la marginea pădurii, minimizând timpul petrecut în ploaie.\n\nZiua se încheie cu o cursă de autobuz înapoi spre Walkartpark. Centrul Figi este aproape de multe stații, făcând programul de seară ușor de planificat pe orice vreme.",
-            "en": "A rainy day starts with a bus ride to Zeist Castle. The covered bus stops provide shelter while you wait for your connection to the center.\n\nAt noon, explore the castle and its grounds. Buses run frequently, so you can quickly get back under cover if the rain intensifies.\n\nIn the afternoon, head to Zeisterbos. Use public transit to reach the forest edge directly, minimizing your exposure to the rain.\n\nThe day concludes with a bus ride back to Walkartpark. The Figi complex is located near several bus stops, making your evening easy to plan regardless of the weather."
+            "en": "A rainy day starts with a bus ride to Zeist Castle. The covered bus stops provide shelter while you wait for your connection to the center.\n\nAt noon, explore the castle and its grounds. Buses run frequently, so you can quickly get back under cover if the rain intensifies.\n\nIn the afternoon, head to Zeisterbos. Use public transit to reach the forest edge directly, minimizing your exposure to the rain.\n\nThe day concludes with a bus ride back to Walkartpark. The Figi complex is located near several bus stops, making your evening easy to plan regardless of the weather.",
+            "nl": "Een regenachtige dag begint met een busrit naar Slot Zeist. Overdekte bushaltes bieden beschutting terwijl je op je aansluiting wacht.\n\nRond het middaguur: verken het kasteel en de directe omgeving. Bussen rijden frequent, zodat je snel weer droog kunt zijn als de regen aanzwelt.\n\nIn de namiddag: ga naar Zeisterbos. Gebruik het openbaar vervoer om direct bij de bosrand te komen en je blootstelling aan de regen te minimaliseren.\n\nDe dag eindigt met een busrit terug naar Walkartpark. Het Figi-complex ligt bij meerdere bushaltes, waardoor je avond makkelijk te plannen is ongeacht het weer."
           },
           "stops": [
             {
@@ -1978,7 +2137,8 @@
                 "de": "Warten Sie unter dem Dach der Haltestelle auf den Bus.",
                 "hu": "Várja a buszt a megálló fedett része alatt, hogy száraz maradjon.",
                 "ro": "Așteptați autobuzul sub acoperișul stației pentru a rămâne uscat.",
-                "en": "Wait for the bus under the shelter of the stop to stay dry."
+                "en": "Wait for the bus under the shelter of the stop to stay dry.",
+                "nl": "Wacht onder de beschutting van de halte om droog te blijven."
               }
             },
             {
@@ -1987,7 +2147,8 @@
                 "de": "Halten Sie Ihre Fahrkarte griffbereit, um Verzögerungen im Regen zu vermeiden.",
                 "hu": "Tartsa kéznél a jegyét, hogy ne kelljen esőben keresgélnie felszálláskor.",
                 "ro": "Țineți biletul la îndemână pentru a evita întârzierile în ploaie.",
-                "en": "Keep your ticket ready to avoid delays while boarding in the rain."
+                "en": "Keep your ticket ready to avoid delays while boarding in the rain.",
+                "nl": "Houd je kaartje klaar om vertragingen bij het instappen in de regen te voorkomen."
               }
             },
             {
@@ -1996,7 +2157,8 @@
                 "de": "Nutzen Sie die Echtzeit-App, um Wartezeiten im Freien zu minimieren.",
                 "hu": "Használja a menetrendi appot, hogy ne kelljen sokat várnia a szabadban.",
                 "ro": "Folosiți aplicația de transport pentru a vedea timpii reali de sosire.",
-                "en": "Use the transit app to check real-time arrivals and minimize outdoor waiting."
+                "en": "Use the transit app to check real-time arrivals and minimize outdoor waiting.",
+                "nl": "Gebruik de OV-app voor real-time aankomsten en minimale buitenwachttijd."
               }
             },
             {
@@ -2005,7 +2167,8 @@
                 "de": "Der Bus hält direkt am Eingang des Waldgebiets.",
                 "hu": "A busz közvetlenül az erdei terület bejáratánál áll meg.",
                 "ro": "Autobuzul oprește chiar la intrarea în zona împădurită.",
-                "en": "The bus stops right at the entrance to the forest area."
+                "en": "The bus stops right at the entrance to the forest area.",
+                "nl": "De bus stopt direct bij de ingang van het bosgebied."
               }
             },
             {
@@ -2014,7 +2177,8 @@
                 "de": "Zentrale Haltestellen am Park bieten schnellen Zugang zum Figi-Zentrum.",
                 "hu": "A park melletti központi megállók gyors utat kínálnak a Figi központba.",
                 "ro": "Stațiile centrale de lângă parc oferă acces rapid la centrul Figi.",
-                "en": "Central stops near the park offer quick access to the Figi complex."
+                "en": "Central stops near the park offer quick access to the Figi complex.",
+                "nl": "Centrale haltes bij het park bieden snelle toegang tot het Figi-complex."
               }
             }
           ],
@@ -2046,6 +2210,13 @@
               "Zeist buses are well-maintained and offer a dry break between sights.",
               "Please avoid placing wet umbrellas on the bus seats.",
               "Allow for some buffer time as traffic can move slower in the rain."
+            ],
+            "nl": [
+              "Gebruik de '9292' app voor realtime roosterupdates tijdens regenachtig weer.",
+              "Draag een regenjas, want de wandeling naar de bushalte is vaak onbeschut.",
+              "De bussen in Zeist zijn goed onderhouden en bieden een droge onderbreking tussen bezienswaardigheden.",
+              "Zet natte paraplu's alstublieft niet op de busstoelen.",
+              "Houd wat speling aan in je reisschema omdat het verkeer bij regen trager kan zijn."
             ]
           }
         },
@@ -2054,7 +2225,8 @@
             "de": "Ein klarer Wintermorgen beginnt mit der Busfahrt ins Zentrum von Zeist. Die warmen Busse sind ein idealer Start in den frostigen Tag.\n\nMittags erreichen Sie das Schloss Zeist. Nutzen Sie die guten Anbindungen, um nach der Besichtigung der kalten Außenanlagen schnell wieder in ein beheiztes Verkehrsmittel zu steigen.\n\nAm Nachmittag führt die Route zum Zeisterbos. Der Bus bringt Sie nahe an die Wanderwege, sodass Sie die winterliche Natur ohne lange Anmarschwege genießen können.\n\nDer Abend schließt am Walkartpark ab. In der Dämmerung sind die Haltestellen gut beleuchtet und bieten eine sichere Verbindung zurück zu Ihrer Unterkunft oder zum Figi-Zentrum.",
             "hu": "A tiszta téli reggel egy fűtött buszozással indul Zeist központja felé. A tömegközlekedés meleg bázist nyújt a fagyos nap kezdetén.\n\nDélben a Zeist-kastélyt látogatjuk meg. Használja ki a sűrű járatokat, hogy a hideg kastélykert megtekintése után gyorsan újra fűtött járműre szállhasson.\n\nDélután a Zeisterbos következik. A busz közel visz a túraútvonalakhoz, így megkímélheti magát a hosszú gyaloglástól a fagyos aszfalton.\n\nA napot a Walkartparknál zárjuk. A sötétedő esti órákban a megállók jól kivilágítottak, biztonságos és gyors eljutást kínálva a Figi központba.",
             "ro": "O dimineață senină de iarnă începe cu o călătorie cu autobuzul spre centrul orașului Zeist. Autobuzele încălzite sunt un start ideal pentru o zi geroasă.\n\nLa prânz ajungeți la Castelul Zeist. Profitați de conexiunile bune pentru a urca rapid într-un mijloc de transport încălzit după vizitarea parcului rece.\n\nDupă-amiaza, traseul duce spre Zeisterbos. Autobuzul vă lasă aproape de poteci, astfel încât să vă bucurați de natură fără a merge mult pe jos în frig.\n\nSeara se încheie la Walkartpark. La lăsarea întunericului, stațiile sunt bine iluminate, oferind o legătură sigură spre centrul Figi sau spre cazare.",
-            "en": "A clear winter morning begins with a bus ride into the center of Zeist. The warm buses are an ideal start to a frosty day of exploring.\n\nAt noon, you reach Zeist Castle. Take advantage of the good connections to quickly get back into a heated vehicle after touring the cold castle grounds.\n\nIn the afternoon, the route leads to Zeisterbos. The bus drops you near the trails, allowing you to enjoy the wintry nature without long walks on frozen pavement.\n\nThe evening concludes at Walkartpark. As darkness falls, the stops are well-lit, providing a safe and quick connection to the Figi complex or your accommodation."
+            "en": "A clear winter morning begins with a bus ride into the center of Zeist. The warm buses are an ideal start to a frosty day of exploring.\n\nAt noon, you reach Zeist Castle. Take advantage of the good connections to quickly get back into a heated vehicle after touring the cold castle grounds.\n\nIn the afternoon, the route leads to Zeisterbos. The bus drops you near the trails, allowing you to enjoy the wintry nature without long walks on frozen pavement.\n\nThe evening concludes at Walkartpark. As darkness falls, the stops are well-lit, providing a safe and quick connection to the Figi complex or your accommodation.",
+            "nl": "Een heldere winterochtend begint met een busrit naar het centrum van Zeist. De warme bussen zijn een ideale start van een ijskoude ontdekkingsdag.\n\nTegen de middag bereik je Kasteel Zeist. Profiteer van de goede verbindingen om na het bezichtigen van het koude kasteelterrein snel weer in een verwarmd voertuig te stappen.\n\nIn de namiddag voert de route naar het Zeisterbos. De bus zet je dicht bij de paden af, zodat je van de winterse natuur kunt genieten zonder lange wandelingen over ijzige stoepen.\n\nDe avond eindigt in het Walkartpark. Als het donker wordt, zijn de haltes goed verlicht en bieden ze een veilige en snelle aansluiting op het Figi-complex of je accommodatie."
           },
           "stops": [
             {
@@ -2063,7 +2235,8 @@
                 "de": "Warten Sie in der Nähe der Infotafeln, um über Verspätungen informiert zu sein.",
                 "hu": "Várjon az utastájékoztató táblák közelében az esetleges késések miatt.",
                 "ro": "Așteptați lângă panourile informative pentru a fi la curent cu întârzierile.",
-                "en": "Wait near the information displays to stay informed about any delays."
+                "en": "Wait near the information displays to stay informed about any delays.",
+                "nl": "Wacht bij de informatiepanelen om op de hoogte te blijven van eventuele vertragingen."
               }
             },
             {
@@ -2072,7 +2245,8 @@
                 "de": "Die Haltestellen im Zentrum sind im Winter oft weihnachtlich beleuchtet.",
                 "hu": "A belvárosi megállók télen gyakran ünnepi díszkivilágítást kapnak.",
                 "ro": "Stațiile din centru sunt adesea iluminate festiv în timpul iernii.",
-                "en": "The central bus stops are often festively lit during the winter season."
+                "en": "The central bus stops are often festively lit during the winter season.",
+                "nl": "De centrale bushaltes zijn tijdens het winterseizoen vaak feestelijk verlicht."
               }
             },
             {
@@ -2081,7 +2255,8 @@
                 "de": "Ein kurzer Fußweg zur nächsten Haltestelle hält den Kreislauf in Schwung.",
                 "hu": "Egy rövid séta a következő megállóig segít megőrizni a testhőt.",
                 "ro": "O scurtă plimbare până la următoarea stație vă va menține circulația activă.",
-                "en": "A short walk to the next stop will help keep your circulation going in the cold."
+                "en": "A short walk to the next stop will help keep your circulation going in the cold.",
+                "nl": "Een korte wandeling naar de volgende halte houdt de bloedsomloop gaande in de kou."
               }
             },
             {
@@ -2090,7 +2265,8 @@
                 "de": "Die Busse fahren im Winter nach dem regulären Fahrplan.",
                 "hu": "A buszok télen is a megszokott menetrend szerint közlekednek.",
                 "ro": "Autobuzele circulă conform orarului obișnuit și în timpul iernii.",
-                "en": "Buses continue to run according to the regular schedule during winter."
+                "en": "Buses continue to run according to the regular schedule during winter.",
+                "nl": "Bussen blijven in de winter volgens de reguliere dienstregeling rijden."
               }
             },
             {
@@ -2099,7 +2275,8 @@
                 "de": "Nutzen Sie die Wartehäuschen als Windschutz gegen die Abendkälte.",
                 "hu": "Használja a váróhelyiségeket szélfogóként az esti hideg ellen.",
                 "ro": "Folosiți adăposturile din stații ca protecție împotriva vântului de seară.",
-                "en": "Use the bus shelters as windbreaks against the evening chill."
+                "en": "Use the bus shelters as windbreaks against the evening chill.",
+                "nl": "Gebruik de bushokjes als windschermen tegen de avondkou."
               }
             }
           ],
@@ -2131,6 +2308,13 @@
               "Use your travel time to warm up before heading back out into the cold.",
               "In extreme winter weather, schedules might be subject to slight changes.",
               "Central hubs like 'Zeist Busstation' offer heated waiting areas."
+            ],
+            "nl": [
+              "Bussen zijn meestal erg warm van binnen, dus draag lagen kleding om comfortabel te blijven.",
+              "Let op ijzige stoepranden bij het in- en uitstappen van de bus.",
+              "Gebruik je reistijd om op te warmen voordat je weer de koude in gaat.",
+              "Bij extreem winterweer kunnen dienstregelingen lichte wijzigingen ondergaan.",
+              "Centrale knooppunten zoals 'Zeist Busstation' bieden verwarmde wachtgebieden."
             ]
           }
         }

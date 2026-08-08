@@ -21,7 +21,8 @@
             "de": "Start: Cellebroederspoort",
             "hu": "Kezdés: Cellebroederspoort",
             "ro": "Start: Cellebroederspoort",
-            "en": "Start: Cellebroederspoort"
+            "en": "Start: Cellebroederspoort",
+            "nl": "Start: Cellebroederspoort"
           },
           "coords": [
             5.912,
@@ -36,7 +37,8 @@
             "de": "Bewundern Sie die Zwillingsstürme dieses beeindruckenden Stadttors aus dem 15. Jahrhundert.",
             "hu": "Csodálja meg ennek a lenyűgöző 15. századi városkapunak az ikertornyait.",
             "ro": "Admirați turnurile gemene ale acestei impresionante porți a orașului din secolul al XV-lea.",
-            "en": "Admire the twin towers of this impressive 15th-century city gate."
+            "en": "Admire the twin towers of this impressive 15th-century city gate.",
+            "nl": "Bewonder de dubbele torens van deze indrukwekkende 15e-eeuwse stadspoort."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Gotisches Haus",
             "hu": "Gótikus Ház",
             "ro": "Casa Gotică",
-            "en": "Gothic House"
+            "en": "Gothic House",
+            "nl": "Gotisch Huis"
           },
           "coords": [
             5.914,
@@ -59,7 +62,8 @@
             "de": "Beherbergt heute das Stedelijk Museum. Achten Sie auf die ursprüngliche Fassade.",
             "hu": "Ma a Városi Múzeumnak ad otthont. Figyelje meg az eredeti homlokzatot.",
             "ro": "Astăzi găzduiește Muzeul Stedelijk. Fiți atenți la fațada originală.",
-            "en": "Now part of the Stedelijk Museum. Pay attention to the original facade."
+            "en": "Now part of the Stedelijk Museum. Pay attention to the original facade.",
+            "nl": "Nu deel van het Stedelijk Museum. Let op de originele gevel."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Stedelijk Museum Kampen",
             "hu": "Stedelijk Múzeum Kampen",
             "ro": "Muzeul Municipal Kampen",
-            "en": "Stedelijk Museum Kampen"
+            "en": "Stedelijk Museum Kampen",
+            "nl": "Stedelijk Museum Kampen"
           },
           "coords": [
             5.913,
@@ -82,7 +87,8 @@
             "de": "Erkunden Sie die vier verschiedenen Gebäude, die die reiche Geschichte von Kampen erzählen.",
             "hu": "Fedezze fel a négy különböző épületet, amelyek Kampen gazdag történelmét mesélik el.",
             "ro": "Explorați cele patru clădiri diferite care spun povestea bogată a orașului Kampen.",
-            "en": "Explore the four different buildings that tell the rich history of Kampen."
+            "en": "Explore the four different buildings that tell the rich history of Kampen.",
+            "nl": "Verken de vier verschillende gebouwen die de rijke geschiedenis van Kampen vertellen."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Nieuwe Toren",
             "hu": "Új Torony",
             "ro": "Turnul Nou",
-            "en": "New Tower"
+            "en": "New Tower",
+            "nl": "Nieuwe Toren"
           },
           "coords": [
             5.914,
@@ -105,7 +112,8 @@
             "de": "Hören Sie das Glockenspiel, entworfen von François Hemony, einem berühmten Glockengießer.",
             "hu": "Hallgassa meg a harangjátékot, amelyet François Hemony, a híres harangöntő tervezett.",
             "ro": "Ascultați carillonul, proiectat de François Hemony, un faimos turnător de clopote.",
-            "en": "Listen to the carillon, designed by François Hemony, a famous bell-founder."
+            "en": "Listen to the carillon, designed by François Hemony, a famous bell-founder.",
+            "nl": "Luister naar het carillon, ontworpen door François Hemony, een beroemde klokkengieter."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Bovenkerk",
             "hu": "Bovenkerk",
             "ro": "Biserica de Sus (Bovenkerk)",
-            "en": "Bovenkerk"
+            "en": "Bovenkerk",
+            "nl": "Bovenkerk"
           },
           "coords": [
             5.915,
@@ -128,7 +137,8 @@
             "de": "Besteigen Sie den Turm für eine fantastische Aussicht über die Hansestadt und den Fluss IJssel.",
             "hu": "Másszon fel a toronyba, ahonnan fantasztikus kilátás nyílik a Hanza-városra és az IJssel folyóra.",
             "ro": "Urcați în turn pentru o priveliște fantastică asupra orașului hanseatic și a râului IJssel.",
-            "en": "Climb the tower for a fantastic view over the Hanseatic city and the river IJssel."
+            "en": "Climb the tower for a fantastic view over the Hanseatic city and the river IJssel.",
+            "nl": "Beklim de toren voor een fantastisch uitzicht over de Hanzestad en de rivier de IJssel."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Koornmarktspoort",
             "hu": "Koornmarktspoort",
             "ro": "Poarta Pieței de Grâne (Koornmarktspoort)",
-            "en": "Koornmarktspoort"
+            "en": "Koornmarktspoort",
+            "nl": "Koornmarktspoort"
           },
           "coords": [
             5.918,
@@ -151,7 +162,8 @@
             "de": "Das älteste Stadttor von Kampen, direkt am Flussufer gelegen. Ein perfekter Ort für Fotos.",
             "hu": "Kampen legrégebbi városkapuja, közvetlenül a folyóparton. Tökéletes fotóhelyszín.",
             "ro": "Cea mai veche poartă a orașului Kampen, situată chiar pe malul râului. Un loc perfect pentru fotografii.",
-            "en": "The oldest city gate of Kampen, located right on the riverfront. A perfect photo spot."
+            "en": "The oldest city gate of Kampen, located right on the riverfront. A perfect photo spot.",
+            "nl": "De oudste stadspoort van Kampen, gelegen direct aan de kade. Een perfecte plek voor foto's."
           }
         },
         {
@@ -159,7 +171,8 @@
             "de": "Abschluss: Broederpoort",
             "hu": "Befejezés: Broederpoort",
             "ro": "Final: Broederpoort",
-            "en": "Finish: Broederpoort"
+            "en": "Finish: Broederpoort",
+            "nl": "Finish: Broederpoort"
           },
           "coords": [
             5.908,
@@ -174,7 +187,8 @@
             "de": "Beenden Sie Ihren Spaziergang an diesem eleganten Tor und genießen Sie die ruhige Atmosphäre des Stadtparks.",
             "hu": "Fejezze be a sétát ennél az elegáns kapunál, és élvezze a városi park nyugodt légkörét.",
             "ro": "Încheiați plimbarea la această poartă elegantă și bucurați-vă de atmosfera liniștită a parcului orașului.",
-            "en": "End your walk at this elegant gate and enjoy the tranquil atmosphere of the city park."
+            "en": "End your walk at this elegant gate and enjoy the tranquil atmosphere of the city park.",
+            "nl": "Sluit je wandeling af bij deze elegante poort en geniet van de rustige sfeer van het stadspark."
           }
         }
       ],
@@ -182,7 +196,8 @@
         "de": "Beginnen Sie Ihren Tag an den majestätischen Stadttoren von Kampen und schlendern Sie durch die kopfsteingepflasterten Gassen. Der Vormittag ist der Erkundung der reichen Handelsgeschichte im Gotischen Haus und dem Stedelijk Museum gewidmet. Nach dem Mittagessen erklimmen Sie die Bovenkerk, um einen Panoramablick zu genießen. Der Nachmittag führt Sie zum Ufer der IJssel beim Koornmarktspoort, wo Sie die hanseatische Atmosphäre aufsaugen. Beenden Sie Ihren Tag im ruhigen Stadtpark in der Nähe des Broederpoort, um über die zeitlose Schönheit der Stadt nachzudenken.",
         "hu": "Kezdje a napot Kampen fenséges városkapuinál, sétálva a macskaköves utcákon. A délelőtt a gazdag kereskedelmi múlt felfedezésével telik a Gótikus Házban és a Városi Múzeumban. Ebéd után másszon fel a Bovenkerk tornyába a panorámáért. A délután az IJssel folyó partjára vezet a Koornmarktspoornál, ahol magába szívhatja a hanza hangulatot. Zárja a napot a Broederpoort melletti csendes városi parkban, elmélkedve a város időtlen szépségén.",
         "ro": "Începeți ziua la porțile majestuoase ale orașului Kampen, plimbându-vă pe străduțele pietruite. Dimineața este dedicată explorării istoriei comerciale bogate la Casa Gotică și Muzeul Municipal. După prânz, urcați în Bovenkerk pentru vederi panoramice. După-amiaza vă duce pe malul râului IJssel la Koornmarktspoort pentru a absorbi atmosfera hanseatică. Încheiați ziua în parcul liniștit al orașului, lângă Broederpoort, reflectând la frumusețea atemporală a orașului.",
-        "en": "Start your day at Kampen's majestic city gates, strolling through the cobblestone streets. The morning is for exploring the rich merchant history at the Gothic House and the Stedelijk Museum. After lunch, climb the Bovenkerk for panoramic views. The afternoon takes you to the IJssel riverfront at Koornmarktspoort to absorb the Hanseatic atmosphere. End your day at the tranquil city park near the Broederpoort, reflecting on the city's timeless beauty."
+        "en": "Start your day at Kampen's majestic city gates, strolling through the cobblestone streets. The morning is for exploring the rich merchant history at the Gothic House and the Stedelijk Museum. After lunch, climb the Bovenkerk for panoramic views. The afternoon takes you to the IJssel riverfront at Koornmarktspoort to absorb the Hanseatic atmosphere. End your day at the tranquil city park near the Broederpoort, reflecting on the city's timeless beauty.",
+        "nl": "Begin je dag bij Kampens majestueuze stadspoorten en slenter over de kasseien. De ochtend is bedoeld om de rijke koopmansgeschiedenis te ontdekken in het Gotisch Huis en het Stedelijk Museum. Na de lunch beklim je de Bovenkerk voor panoramische uitzichten. De middag brengt je naar de IJsselkade bij de Koornmarktspoort om de Hanzesfeer in je op te nemen. Sluit de dag af in het rustige stadspark bij de Broederpoort en reflecteer op de tijdloze schoonheid van de stad."
       },
       "gastro_picks": {
         "de": [
@@ -378,6 +393,12 @@
           "Many smaller shops and museums may be closed on Mondays.",
           "Take time to admire the details on the facades of the old buildings.",
           "A walk along the IJsselkade at sunset offers a magical view."
+        ],
+        "nl": [
+          "Draag comfortabele schoenen, want de meeste straten in het historische centrum zijn met kinderkopjes bestraat.",
+          "Veel kleinere winkels en musea kunnen op maandag gesloten zijn.",
+          "Neem de tijd om de details op de gevels van de oude gebouwen te bewonderen.",
+          "Een wandeling langs de IJsselkade bij zonsondergang biedt een magisch uitzicht."
         ]
       },
       "variants": {
@@ -386,7 +407,8 @@
             "de": "Morgens bieten die massiven Bögen der Stadttore wie die Cellebroederspoort ersten Schutz vor dem niederländischen Regen. Mittags verbringen Sie die Zeit im Gotischen Haus und im Stadtmuseum, wo die Hansegeschichte im Trockenen lebendig wird. Nachmittags besuchen Sie die Bovenkerk, deren hohes Kirchenschiff eine majestätische Zuflucht bietet. Den Abend lassen Sie bei einem Getränk in der Nähe der beleuchteten Broederpoort ausklingen.",
             "hu": "Reggel a Cellebroederspoort kapu boltívei alatt keress menedéket a szitáló eső elől. Délben a Gótikus Ház és a Városi Múzeum belső tereiben merülhetsz el a Hanza-történelemben, távol a víztől. Délután a Bovenkerk monumentális csarnoka nyújt száraz és csendes pihenőt. Az estét a kivilágított Broederpoort közelében fejezd be, ahol a városi fények megcsillannak a vizes macskakövön.",
             "ro": "Dimineața, arcadele masive ale porților orașului, precum Cellebroederspoort, oferă primul adăpost împotriva ploii olandeze. La prânz, vizitați Casa Gotică și Muzeul Municipal, unde istoria hanseatică prinde viață la adăpost. După-amiaza, Bovenkerk oferă un refugiu maiestuos sub bolțile sale înalte. Seara se încheie lângă Broederpoort iluminată, unde reflexiile pe asfaltul umed creează o atmosferă aparte.",
-            "en": "In the morning, the massive arches of city gates like Cellebroederspoort provide initial shelter from the Dutch rain. At noon, spend time inside the Gothic House and Stedelijk Museum, where Hanseatic history stays dry. In the afternoon, the Bovenkerk’s high nave offers a majestic indoor sanctuary. End your evening near the illuminated Broederpoort, watching the rain glisten on the historic cobblestones."
+            "en": "In the morning, the massive arches of city gates like Cellebroederspoort provide initial shelter from the Dutch rain. At noon, spend time inside the Gothic House and Stedelijk Museum, where Hanseatic history stays dry. In the afternoon, the Bovenkerk’s high nave offers a majestic indoor sanctuary. End your evening near the illuminated Broederpoort, watching the rain glisten on the historic cobblestones.",
+            "nl": "In de ochtend bieden de massieve bogen van stadspoorten zoals de Cellebroederspoort een eerste beschutting tegen Nederlandse regen. Rond het middaguur breng je tijd door in het Gotisch Huis en het Stedelijk Museum, waar Hanzegeschiedenis droog blijft. In de middag biedt de hoge ruimte van de Bovenkerk een majestueuze binnenplaats. Sluit je avond af bij de verlichte Broederpoort en zie de regen glinsteren op de historische kasseien."
           },
           "stops": [
             {
@@ -395,7 +417,8 @@
                 "de": "Nutzen Sie den breiten Tordurchgang als ersten Regenschutz.",
                 "hu": "Használd a kapu széles átjáróját eső elleni menedékként.",
                 "ro": "Folosiți trecerea largă a porții ca prim adăpost contra ploii.",
-                "en": "Use the wide gate passage as your first rain shelter."
+                "en": "Use the wide gate passage as your first rain shelter.",
+                "nl": "Gebruik de brede poortdoorgang als eerste regenschuilplaats."
               }
             },
             {
@@ -404,7 +427,8 @@
                 "de": "Die historischen Innenräume sind perfekt, um den Schauer abzuwarten.",
                 "hu": "A történelmi belső terek ideálisak a zápor kivárására.",
                 "ro": "Interioarele istorice sunt perfecte pentru a aștepta trecerea ploii.",
-                "en": "The historic interiors are perfect for waiting out a downpour."
+                "en": "The historic interiors are perfect for waiting out a downpour.",
+                "nl": "De historische interieurs zijn perfect om een bui uit te zitten."
               }
             },
             {
@@ -413,7 +437,8 @@
                 "de": "Planen Sie hier bei starkem Regen eine längere Pause ein.",
                 "hu": "Heves eső esetén tervezz ide hosszabb látogatást.",
                 "ro": "Planificați o vizită mai lungă aici în caz de ploaie torențială.",
-                "en": "Plan a longer stay here if the rain gets heavy."
+                "en": "Plan a longer stay here if the rain gets heavy.",
+                "nl": "Plan een langer verblijf hier als de regen hevig wordt."
               }
             },
             {
@@ -422,7 +447,8 @@
                 "de": "Hören Sie das Glockenspiel unter dem schützenden Vordach.",
                 "hu": "Hallgasd a harangjátékot a védelmet nyújtó előtető alól.",
                 "ro": "Ascultați carillonul de sub streașina protectoare.",
-                "en": "Listen to the carillon from beneath the protective eaves."
+                "en": "Listen to the carillon from beneath the protective eaves.",
+                "nl": "Luister naar het carillon vanuit de beschutte overstekken."
               }
             },
             {
@@ -431,7 +457,8 @@
                 "de": "Bewundern Sie die Orgeln im trockenen, beheizten Kirchenraum.",
                 "hu": "Csodáld meg az orgonákat a száraz, fűtött templomtérben.",
                 "ro": "Admirați orgile în spațiul uscat și încălzit al bisericii.",
-                "en": "Admire the organs in the dry, heated church interior."
+                "en": "Admire the organs in the dry, heated church interior.",
+                "nl": "Bewonder de orgels in het droge, verwarmde kerkinterieur."
               }
             },
             {
@@ -440,7 +467,8 @@
                 "de": "Ein schneller Fotostopp, bevor es zurück ins Trockene geht.",
                 "hu": "Gyors fotómegálló, mielőtt visszatérnél a fedett helyekre.",
                 "ro": "O oprire rapidă pentru poze înainte de a reveni la adăpost.",
-                "en": "A quick photo stop before heading back to cover."
+                "en": "A quick photo stop before heading back to cover.",
+                "nl": "Een snelle fotostop voordat je terug naar de beschutting gaat."
               }
             },
             {
@@ -449,7 +477,8 @@
                 "de": "Wärmen Sie sich in einem Café in der Nähe der Stadtwiese auf.",
                 "hu": "Melegedj fel egy kávézóban a városi park közelében.",
                 "ro": "Încălziți-vă la o cafenea din apropierea parcului orașului.",
-                "en": "Warm up in a cafe near the city park area."
+                "en": "Warm up in a cafe near the city park area.",
+                "nl": "Warm op in een café nabij het stadspark."
               }
             }
           ],
@@ -477,6 +506,12 @@
               "Wear waterproof shoes as the old cobblestones can get slippery.",
               "Use churches and museums as strategic 'dry zones' in your route.",
               "A sturdy storm umbrella is recommended for wind off the IJssel river."
+            ],
+            "nl": [
+              "De Oudestraat heeft veel winkels met luifels om onder te schuilen tijdens een bui.",
+              "Draag waterdichte schoenen, want de oude kasseien kunnen glad worden.",
+              "Gebruik kerken en musea als strategische 'droge zones' in je route.",
+              "Een stevige stormparaplu wordt aanbevolen bij wind vanaf de IJssel."
             ]
           }
         },
@@ -485,7 +520,8 @@
             "de": "Der Wintermorgen in Kampen beginnt oft mit Frost auf den historischen Toren. Mittags wärmen Sie sich in den Ausstellungsräumen des Stadtmuseums auf, während die tiefstehende Sonne die gotischen Fassaden beleuchtet. Nachmittags ist die Bovenkerk ein besinnlicher Ort, bevor Sie gegen 17:00 Uhr die beleuchtete Stadtsilhouette genießen. Den Abend verbringen Sie gemütlich in einer der alten Kneipen am IJssel-Kai.",
             "hu": "A téli reggel Kampenben gyakran dérlepte kapukkal indul. Délben a Városi Múzeum kiállítótermeiben melegedhetsz fel, miközben az alacsonyan járó nap megvilágítja a gótikus homlokzatokat. Délután a Bovenkerk nyújt csendes menedéket, mielőtt 17 óra körül kigyúlnak a város fényei. Az estét töltsd egy hangulatos régi kocsmában az IJssel-parton.",
             "ro": "Dimineața de iarnă în Kampen începe adesea cu promoroacă pe porțile istorice. La prânz, vă încălziți în sălile muzeului, în timp ce soarele palid luminează fațadele gotice. După-amiaza, Bovenkerk oferă un moment de liniște înainte ca luminile orașului să se aprindă în jurul orei 17:00. Seara se petrece cel mai bine într-o tavernă primitoare de pe faleza râului IJssel.",
-            "en": "Winter mornings in Kampen often start with frost on the historic gates. At noon, warm up inside the museum galleries as the low sun hits the Gothic facades. In the afternoon, the Bovenkerk provides a peaceful escape before the city lights sparkle around 5:00 PM. Spend your evening in a cozy local pub along the IJssel wharf."
+            "en": "Winter mornings in Kampen often start with frost on the historic gates. At noon, warm up inside the museum galleries as the low sun hits the Gothic facades. In the afternoon, the Bovenkerk provides a peaceful escape before the city lights sparkle around 5:00 PM. Spend your evening in a cozy local pub along the IJssel wharf.",
+            "nl": "Winternachten in Kampen beginnen vaak met rijp op de historische poorten. Rond het middaguur warm je op in de museumzalen terwijl de lage zon op de gotische gevels valt. In de middag biedt de Bovenkerk een rustige ontsnapping voordat de stadsverlichting rond 17:00 uur gaat fonkelen. Breng de avond door in een gezellig lokaal café langs de IJsselkade."
           },
           "stops": [
             {
@@ -494,7 +530,8 @@
                 "de": "Achten Sie auf Glätte auf dem Pflaster rund um das Tor.",
                 "hu": "Vigyázz a jegesedésre a kapu körüli kövezeten.",
                 "ro": "Atenție la porțiunile înghețate de pe pavajul din jurul porții.",
-                "en": "Watch for icy patches on the pavement around the gate."
+                "en": "Watch for icy patches on the pavement around the gate.",
+                "nl": "Let op ijzige plekken op het trottoir rond de poort."
               }
             },
             {
@@ -503,7 +540,8 @@
                 "de": "Ein kurzer Stopp im Inneren hilft gegen die Kälte.",
                 "hu": "Egy rövid belső látogatás segít felmelegedni.",
                 "ro": "O scurtă oprire în interior ajută la combaterea frigului.",
-                "en": "A short stop inside helps against the winter chill."
+                "en": "A short stop inside helps against the winter chill.",
+                "nl": "Een korte stop binnen helpt tegen de winterkou."
               }
             },
             {
@@ -512,7 +550,8 @@
                 "de": "Die Garderobe ist ideal, um schwere Wintermäntel abzulegen.",
                 "hu": "A ruhatár tökéletes a nehéz télikabátok leadására.",
                 "ro": "Garderoba este ideală pentru a lăsa hainele grele de iarnă.",
-                "en": "The cloakroom is ideal for leaving heavy winter coats."
+                "en": "The cloakroom is ideal for leaving heavy winter coats.",
+                "nl": "De garderobe is ideaal om zware winterjassen achter te laten."
               }
             },
             {
@@ -521,7 +560,8 @@
                 "de": "Die Turmspitze wirkt im Winterlicht besonders scharf.",
                 "hu": "A toronycsúcs a téli fényben különösen élesen rajzolódik ki.",
                 "ro": "Vârful turnului arată spectaculos în lumina rece de iarnă.",
-                "en": "The tower spire looks particularly sharp in the winter light."
+                "en": "The tower spire looks particularly sharp in the winter light.",
+                "nl": "De torenspits ziet er bijzonder scherp uit in het winterlicht."
               }
             },
             {
@@ -530,7 +570,8 @@
                 "de": "Beachten Sie die eingeschränkten Heizzeiten in der großen Kirche.",
                 "hu": "Ügyelj a nagy templom korlátozott fűtési időszakaira.",
                 "ro": "Rețineți că încălzirea poate fi limitată în biserica mare.",
-                "en": "Note that heating may be limited in the large church hall."
+                "en": "Note that heating may be limited in the large church hall.",
+                "nl": "Houd er rekening mee dat de verwarming mogelijk beperkt is in de grote kerkzaal."
               }
             },
             {
@@ -539,7 +580,8 @@
                 "de": "Der Wind vom Fluss ist hier im Winter besonders schneidend.",
                 "hu": "A folyó felől fújó szél itt télen különösen metsző lehet.",
                 "ro": "Vântul dinspre râu este tăios aici în timpul iernii.",
-                "en": "The wind from the river is especially biting here in winter."
+                "en": "The wind from the river is especially biting here in winter.",
+                "nl": "De wind vanaf de rivier is in de winter hier extra scherp."
               }
             },
             {
@@ -548,7 +590,8 @@
                 "de": "Genießen Sie den Blick auf den Stadtpark im fahlen Winterlicht.",
                 "hu": "Élvezd a városi park látványát a sápadt téli fényben.",
                 "ro": "Admirați parcul orașului în lumina palidă a iernii.",
-                "en": "Enjoy the view of the city park in the pale winter light."
+                "en": "Enjoy the view of the city park in the pale winter light.",
+                "nl": "Geniet van het uitzicht op het stadspark in het bleke winterlicht."
               }
             }
           ],
@@ -576,6 +619,12 @@
               "Warm layers are essential due to the biting wind from the IJssel river.",
               "Try 'Warme Chocolademelk' (hot chocolate) in an Oudestraat cafe.",
               "Museums are well-heated and offer a great break from the cold."
+            ],
+            "nl": [
+              "De zonsondergang is al om 16:30; plan je fotografie dienovereenkomstig.",
+              "Warme lagen zijn essentieel vanwege de bijtende wind vanaf de IJssel.",
+              "Probeer 'Warme Chocolademelk' in een café in de Oudestraat.",
+              "Musea zijn goed verwarmd en bieden een prima pauze van de kou."
             ]
           }
         }
@@ -594,7 +643,8 @@
             "de": "Start: Fahrradverleih am Bahnhof",
             "hu": "Kezdés: Kerékpárkölcsönző az állomáson",
             "ro": "Start: Închiriere de biciclete la gară",
-            "en": "Start: Bike rental at the station"
+            "en": "Start: Bike rental at the station",
+            "nl": "Start: Fietsverhuur bij het station"
           },
           "coords": [
             5.922,
@@ -609,7 +659,8 @@
             "de": "Holen Sie sich Ihr Fahrrad für den Tag und überqueren Sie die Stadtbrücke in die Altstadt.",
             "hu": "Vegye fel a kerékpárt a napra, és keljen át a városi hídon az óvárosba.",
             "ro": "Luați-vă bicicleta pentru o zi și traversați podul orașului în centrul vechi.",
-            "en": "Get your bike for the day and cross the city bridge into the old town."
+            "en": "Get your bike for the day and cross the city bridge into the old town.",
+            "nl": "Haal je fiets voor de dag en steek de stadsbrug over naar de oude stad."
           }
         },
         {
@@ -617,7 +668,8 @@
             "de": "Koornmarktspoort & IJsselkade",
             "hu": "Koornmarktspoort és IJsselkade",
             "ro": "Koornmarktspoort & Cheiul IJssel",
-            "en": "Koornmarktspoort & IJsselkade"
+            "en": "Koornmarktspoort & IJsselkade",
+            "nl": "Koornmarktspoort & IJsselkade"
           },
           "coords": [
             5.918,
@@ -632,7 +684,8 @@
             "de": "Beginnen Sie mit einer Fahrt entlang des Flusses, um die Skyline der Stadt zu genießen.",
             "hu": "Kezdje egy tekeréssel a folyó mentén, hogy élvezze a város sziluettjét.",
             "ro": "Începeți cu o plimbare de-a lungul râului pentru a vă bucura de panorama orașului.",
-            "en": "Start with a ride along the river to enjoy the city's skyline."
+            "en": "Start with a ride along the river to enjoy the city's skyline.",
+            "nl": "Begin met een rit langs de rivier om van de skyline van de stad te genieten."
           }
         },
         {
@@ -640,7 +693,8 @@
             "de": "Bovenkerk & Nieuwe Toren",
             "hu": "Bovenkerk és Új Torony",
             "ro": "Bovenkerk & Turnul Nou",
-            "en": "Bovenkerk & New Tower"
+            "en": "Bovenkerk & New Tower",
+            "nl": "Bovenkerk & Nieuwe Toren"
           },
           "coords": [
             5.915,
@@ -655,7 +709,8 @@
             "de": "Parken Sie Ihr Fahrrad und erkunden Sie das religiöse Herz der Stadt. Steigen Sie auf den Turm!",
             "hu": "Parkolja le a kerékpárt, és fedezze fel a város vallási szívét. Másszon fel a toronyba!",
             "ro": "Parcați bicicleta și explorați inima religioasă a orașului. Urcați în turn!",
-            "en": "Park your bike and explore the religious heart of the city. Climb the tower!"
+            "en": "Park your bike and explore the religious heart of the city. Climb the tower!",
+            "nl": "Parkeer je fiets en verken het religieuze hart van de stad. Beklim de toren!"
           }
         },
         {
@@ -663,7 +718,8 @@
             "de": "Stedelijk Museum & Gotisches Haus",
             "hu": "Városi Múzeum és Gótikus Ház",
             "ro": "Muzeul Municipal & Casa Gotică",
-            "en": "Stedelijk Museum & Gothic House"
+            "en": "Stedelijk Museum & Gothic House",
+            "nl": "Stedelijk Museum & Gotisch Huis"
           },
           "coords": [
             5.913,
@@ -678,7 +734,8 @@
             "de": "Tauchen Sie nach dem Abstellen Ihres Fahrrads in die lokale Geschichte und Kunst ein.",
             "hu": "Miután lezárta a kerékpárt, merüljön el a helyi történelemben és művészetben.",
             "ro": "După ce vă parcați bicicleta, scufundați-vă în istoria și arta locală.",
-            "en": "After locking up your bike, immerse yourself in local history and art."
+            "en": "After locking up your bike, immerse yourself in local history and art.",
+            "nl": "Na het op slot zetten van je fiets dompel je jezelf onder in lokale geschiedenis en kunst."
           }
         },
         {
@@ -686,7 +743,8 @@
             "de": "Broederpoort & Stadspark",
             "hu": "Broederpoort és Városi Park",
             "ro": "Broederpoort & Parcul Orașului",
-            "en": "Broederpoort & City Park"
+            "en": "Broederpoort & City Park",
+            "nl": "Broederpoort & Stadspark"
           },
           "coords": [
             5.908,
@@ -701,7 +759,8 @@
             "de": "Machen Sie eine Pause im Park neben diesem eleganten Renaissancetor.",
             "hu": "Tartson szünetet a parkban ezen elegáns reneszánsz kapu mellett.",
             "ro": "Luați o pauză în parc lângă această poartă elegantă renascentistă.",
-            "en": "Take a break in the park next to this elegant Renaissance gate."
+            "en": "Take a break in the park next to this elegant Renaissance gate.",
+            "nl": "Neem een pauze in het park naast deze elegante renaissancistische poort."
           }
         },
         {
@@ -709,7 +768,8 @@
             "de": "Cellebroederspoort",
             "hu": "Cellebroederspoort",
             "ro": "Cellebroederspoort",
-            "en": "Cellebroederspoort"
+            "en": "Cellebroederspoort",
+            "nl": "Cellebroederspoort"
           },
           "coords": [
             5.912,
@@ -724,7 +784,8 @@
             "de": "Radfahren Sie zum südlichen Tor der Stadt, das eine märchenhafte Erscheinung hat.",
             "hu": "Tekerjen el a város déli kapujához, amely mesebeli megjelenésű.",
             "ro": "Mergeți cu bicicleta la poarta de sud a orașului, care are un aspect de basm.",
-            "en": "Cycle to the southern gate of the city, which has a fairytale-like appearance."
+            "en": "Cycle to the southern gate of the city, which has a fairytale-like appearance.",
+            "nl": "Fiets naar de zuidelijke stadspoort, die een sprookjesachtige uitstraling heeft."
           }
         },
         {
@@ -732,7 +793,8 @@
             "de": "Abschluss: Fahrt Richtung Kampereiland",
             "hu": "Befejezés: Tekerés a Kampereiland felé",
             "ro": "Final: Plimbare spre Kampereiland",
-            "en": "Finish: Ride towards Kampereiland"
+            "en": "Finish: Ride towards Kampereiland",
+            "nl": "Finish: Rit richting Kampereiland"
           },
           "coords": [
             5.89,
@@ -747,7 +809,8 @@
             "de": "Beenden Sie den Tag mit einer längeren Fahrt in die Polderlandschaft für ein echtes niederländisches Erlebnis.",
             "hu": "Zárja a napot egy hosszabb tekeréssel a polder tájba egy igazi holland élményért.",
             "ro": "Încheiați ziua cu o plimbare mai lungă în peisajul polderelor pentru o experiență olandeză autentică.",
-            "en": "End the day with a longer ride into the polder landscape for a true Dutch experience."
+            "en": "End the day with a longer ride into the polder landscape for a true Dutch experience.",
+            "nl": "Sluit de dag af met een langere rit naar het polderlandschap voor een echte Nederlandse ervaring."
           }
         }
       ],
@@ -755,7 +818,8 @@
         "de": "Ein Tag in Kampen auf zwei Rädern ist der Inbegriff des niederländischen Erlebnisses. Beginnen Sie mit einer malerischen Fahrt entlang der IJssel. Der Vormittag ist dem Abstellen des Fahrrads gewidmet, um die hoch aufragende Bovenkerk und das historische Museumsviertel zu erkunden. Nach dem Mittagessen radeln Sie zu den alten Stadttoren, dem Broederpoort und dem Cellebroederspoort. Der Nachmittag gipfelt in einer belebenden Fahrt in die weite Landschaft von Kampereiland, die einen Kontrast zur kompakten Stadt bietet. Es ist eine Reise durch Geschichte, Kultur und Natur.",
         "hu": "Egy nap Kampenben két keréken a holland élmény megtestesítője. Kezdje egy festői tekeréssel az IJssel mentén. A délelőtt a kerékpár leparkolásáról és a magasba törő Bovenkerk, valamint a történelmi múzeumi negyed felfedezéséről szól. Ebéd után tekerjen el a régi városkapukhoz, a Broederpoorthoz és a Cellebroederspoorthoz. A délután egy élénkítő tekerésben csúcsosodik ki a Kampereiland tágas tájára, kontrasztot alkotva a kompakt várossal. Ez egy utazás a történelmen, kultúrán és természeten keresztül.",
         "ro": "O zi în Kampen pe două roți este chintesența experienței olandeze. Începeți cu o plimbare pitorească de-a lungul râului IJssel. Dimineața este pentru a parca bicicleta și a explora impunătoarea Bovenkerk și cartierul muzeelor istorice. După prânz, pedalați spre porțile vechi ale orașului, Broederpoort și Cellebroederspoort. După-amiaza culminează cu o plimbare revigorantă în peisajul vast din Kampereiland, oferind un contrast cu orașul compact. Este o călătorie prin istorie, cultură și natură.",
-        "en": "A day in Kampen on two wheels is the quintessential Dutch experience. Start with a scenic ride along the IJssel riverfront. The morning is for parking the bike to explore the towering Bovenkerk and the historic museum quarter. After lunch, cycle to the ancient city gates, Broederpoort and Cellebroederspoort. The afternoon culminates in an invigorating ride into the vast landscape of Kampereiland, offering a contrast to the compact city. It's a journey through history, culture, and nature."
+        "en": "A day in Kampen on two wheels is the quintessential Dutch experience. Start with a scenic ride along the IJssel riverfront. The morning is for parking the bike to explore the towering Bovenkerk and the historic museum quarter. After lunch, cycle to the ancient city gates, Broederpoort and Cellebroederspoort. The afternoon culminates in an invigorating ride into the vast landscape of Kampereiland, offering a contrast to the compact city. It's a journey through history, culture, and nature.",
+        "nl": "Een dag in Kampen op twee wielen is de ultieme Nederlandse ervaring. Begin met een schilderachtige rit langs de IJsselkade. De ochtend is bedoeld om de fiets te parkeren en de torenhoge Bovenkerk en het historische museumkwartier te verkennen. Na de lunch fiets je naar de oude stadspoorten, Broederpoort en Cellebroederspoort. De middag mondt uit in een verkwikkende rit het uitgestrekte landschap van Kampereiland in, wat een mooi contrast vormt met de compacte stad. Het is een reis door geschiedenis, cultuur en natuur."
       },
       "gastro_picks": {
         "de": [
@@ -951,6 +1015,12 @@
           "Always lock your bike, even if stopping for just a few minutes.",
           "Be careful on the cobblestones in the old town, they can be slippery when wet.",
           "The Netherlands is very bike-friendly, but always be aware of other traffic, especially mopeds on bike paths."
+        ],
+        "nl": [
+          "Huur een fiets met versnellingen als je van plan bent verder te rijden naar Kampereiland.",
+          "Maak altijd je fiets op slot, zelfs als je maar een paar minuten stopt.",
+          "Pas op voor de kasseien in de oude binnenstad, ze kunnen glad zijn als ze nat zijn.",
+          "Nederland is erg fietsvriendelijk, maar wees altijd alert op ander verkeer, vooral snorfietsen op fietspaden."
         ]
       },
       "variants": {
@@ -959,7 +1029,8 @@
             "de": "Trotz Regen ist Kampen eine Fahrradstadt; rüsten Sie sich mit Ponchos aus. Morgens radeln Sie entlang der IJsselkade, wo der Wind die Tropfen peitscht. Mittags finden Sie Schutz im Stadtmuseum, während Ihr Rad sicher am Ständer wartet. Nachmittags erkunden Sie die Tore im Westen, bevor Sie den Tag bei einer stürmischen Fahrt Richtung Kampereiland abschließen, wo die Natur im Regen rau und echt wirkt.",
             "hu": "Az eső ellenére Kampen igazi kerékpáros város; készülj esőponchóval. Reggel tekerj végig az IJsselkade mentén, ahol a szél korbácsolja a vízcseppeket. Délben a múzeumban találhatsz menedéket, míg a biciklid a tárolóban vár. Délután fedezd fel a nyugati kapukat, majd zárd a napot egy szeles tekeréssel Kampereiland felé, ahol a természet vad arca mutatkozik meg az esőben.",
             "ro": "În ciuda ploii, Kampen rămâne un oraș al bicicletelor; dotați-vă cu pelerine. Dimineața pedalați de-a lungul IJsselkade, unde vântul biciuiește picăturile de apă. La prânz, găsiți adăpost la muzeu, în timp ce bicicleta stă în siguranță afară. După-amiaza explorați porțile vestice, apoi încheiați ziua cu o tură spre Kampereiland, unde natura pare brută și autentică în ploaie.",
-            "en": "Despite the rain, Kampen is a cycling city; gear up with a good poncho. In the morning, ride along IJsselkade where the wind whips the droplets. At noon, find refuge in the museum while your bike waits in the rack. In the afternoon, explore the western gates before finishing with a windy ride towards Kampereiland, where nature feels raw and authentic in the rain."
+            "en": "Despite the rain, Kampen is a cycling city; gear up with a good poncho. In the morning, ride along IJsselkade where the wind whips the droplets. At noon, find refuge in the museum while your bike waits in the rack. In the afternoon, explore the western gates before finishing with a windy ride towards Kampereiland, where nature feels raw and authentic in the rain.",
+            "nl": "Ondanks de regen is Kampen een fietsstad; pak een goede poncho in. Rijd ’s ochtends langs de IJsselkade waar de wind de regendruppels opjaagt. Ga ’s middags bij het museum schuil terwijl je fiets in het rek wacht. Verken in de namiddag de westelijke poorten en sluit af met een winderige rit richting Kampereiland, waar de natuur in de regen rauw en authentiek aanvoelt."
           },
           "stops": [
             {
@@ -968,7 +1039,8 @@
                 "de": "Fragen Sie nach Leihrädern mit guten Schutzblechen.",
                 "hu": "Kérj sárvédővel jól felszerelt bérbiciklit.",
                 "ro": "Cereți biciclete de închiriat dotate cu aripi bune.",
-                "en": "Ask for rental bikes with good mudguards."
+                "en": "Ask for rental bikes with good mudguards.",
+                "nl": "Vraag huurfietsen met goede spatborden."
               }
             },
             {
@@ -977,7 +1049,8 @@
                 "de": "Halten Sie den Lenker bei Böen vom Fluss fest im Griff.",
                 "hu": "A folyó felőli széllökéseknél markold erősen a kormányt.",
                 "ro": "Țineți bine ghidonul la rafalele de vânt dinspre râu.",
-                "en": "Keep a firm grip on the handlebars during gusts from the river."
+                "en": "Keep a firm grip on the handlebars during gusts from the river.",
+                "nl": "Houd het stuur stevig vast bij windstoten vanaf de rivier."
               }
             },
             {
@@ -986,7 +1059,8 @@
                 "de": "Parken Sie das Rad nah an Gebäudewänden für etwas Schutz.",
                 "hu": "Parkolj a falak mellé, hogy a bicikli is kapjon némi védelmet.",
                 "ro": "Parcați bicicleta aproape de pereți pentru puțin adăpost.",
-                "en": "Park your bike close to building walls for some shelter."
+                "en": "Park your bike close to building walls for some shelter.",
+                "nl": "Zet je fiets dicht tegen gevels voor wat beschutting."
               }
             },
             {
@@ -995,7 +1069,8 @@
                 "de": "Trocknen Sie Ihre Regenkleidung im Eingangsbereich ab.",
                 "hu": "Rázd le a vizet az esőkabátról a bejáratnál.",
                 "ro": "Scuturați pelerina de ploaie în zona de intrare.",
-                "en": "Dry off your rain gear in the entrance area."
+                "en": "Dry off your rain gear in the entrance area.",
+                "nl": "Droog je regenkleding in de entreehal."
               }
             },
             {
@@ -1004,7 +1079,8 @@
                 "de": "Vorsicht auf nassen Blättern auf den Parkwegen.",
                 "hu": "Vigyázz a vizes levelekre a park útjain.",
                 "ro": "Atenție la frunzele ude de pe potecile din parc.",
-                "en": "Be careful of wet leaves on the park paths."
+                "en": "Be careful of wet leaves on the park paths.",
+                "nl": "Pas op voor natte bladeren op de parkpaden."
               }
             },
             {
@@ -1013,7 +1089,8 @@
                 "de": "Suchen Sie bei einem Schauer kurz Schutz unter dem Tor.",
                 "hu": "Zápor esetén húzódj be egy percre a kapu alá.",
                 "ro": "Adăpostiți-vă scurt sub poartă în caz de aversă.",
-                "en": "Ducking under the gate for a minute helps during a shower."
+                "en": "Ducking under the gate for a minute helps during a shower.",
+                "nl": "Even bukken onder de poort helpt tijdens een bui."
               }
             },
             {
@@ -1022,7 +1099,8 @@
                 "de": "Die offene Polderlandschaft ist bei Regen sehr windig.",
                 "hu": "A nyitott polder táj esőben nagyon szeles.",
                 "ro": "Peisajul deschis al polderului este foarte vântos pe ploaie.",
-                "en": "The open polder landscape is very windy during rain."
+                "en": "The open polder landscape is very windy during rain.",
+                "nl": "Het open polderlandschap is erg winderig tijdens regen."
               }
             }
           ],
@@ -1050,6 +1128,12 @@
               "Full rain gear (trousers + jacket) is highly recommended.",
               "Always wipe your saddle dry before starting each segment.",
               "The route covers cobblestones which are slippery when wet."
+            ],
+            "nl": [
+              "Vermijd remmen op natte metalen rails of brugvoegen.",
+              "Volledige regenkleding (broek + jas) is sterk aan te raden.",
+              "Veeg je zadel altijd droog voor je aan ieder traject begint.",
+              "De route bevat kasseien die glad worden als ze nat zijn."
             ]
           }
         },
@@ -1058,7 +1142,8 @@
             "de": "Eine Winterradtour in Kampen erfordert warme Handschuhe gegen den Ostwind. Morgens glitzert der Reif auf den Wiesen am IJsselkade. Mittags ist das Museum ein warmer Fixpunkt zwischen den Etappen. Nachmittags radeln Sie durch den frostigen Stadtpark zur Cellebroederspoort. Den Tag beenden Sie mit einer kurzen Fahrt ins Kampereiland, wo die winterliche Stille über den Deichen liegt, bevor Sie im Dunkeln zurückkehren.",
             "hu": "A téli kerékpározáshoz Kampenben meleg kesztyű kell a keleti szél ellen. Reggel zúzmara csillog az IJsselkade menti réteken. Délben a múzeum fűtött terei jelentenek biztos pontot a szakaszok között. Délután a deres városi parkon át tekersz a Cellebroederspoort felé. A napot egy rövid kampereilandi túrával zárd, ahol téli csend honol a gátakon.",
             "ro": "O tură de iarnă cu bicicleta în Kampen necesită mănuși groase contra vântului din est. Dimineața, bruma sclipește pe pajiștile de lângă IJsselkade. La prânz, muzeul este un punct cald necesar între etape. După-amiaza pedalați prin parcul înghețat spre Cellebroederspoort. Încheiați ziua cu o scurtă plimbare spre Kampereiland, unde liniștea iernii stăpânește digurile.",
-            "en": "A winter bike tour in Kampen calls for warm gloves against the east wind. In the morning, hoarfrost glistens on the meadows by IJsselkade. At noon, the museum is a warm anchor between riding segments. In the afternoon, cycle through the frosty city park to Cellebroederspoort. End the day with a ride to Kampereiland, where winter silence blankets the dikes."
+            "en": "A winter bike tour in Kampen calls for warm gloves against the east wind. In the morning, hoarfrost glistens on the meadows by IJsselkade. At noon, the museum is a warm anchor between riding segments. In the afternoon, cycle through the frosty city park to Cellebroederspoort. End the day with a ride to Kampereiland, where winter silence blankets the dikes.",
+            "nl": "Een winterfietstocht in Kampen vraagt om warme handschoenen tegen de oostenwind. ’s Ochtends fonkelt rijp op de weilanden bij de IJsselkade. Rond het middaguur vormt het museum een warm anker tussen de ritten. In de namiddag fiets je door het rijzige stadspark naar de Cellebroederspoort. Sluit de dag af met een rit naar Kampereiland, waar de winterstilte de dijken bedekt."
           },
           "stops": [
             {
@@ -1067,7 +1152,8 @@
                 "de": "Prüfen Sie den Reifendruck für besseren Halt auf kaltem Boden.",
                 "hu": "Ellenőrizd a guminyomást a jobb tapadásért a hideg úton.",
                 "ro": "Verificați presiunea pneurilor pentru aderență pe asfalt rece.",
-                "en": "Check tire pressure for better grip on cold surfaces."
+                "en": "Check tire pressure for better grip on cold surfaces.",
+                "nl": "Controleer de bandenspanning voor betere grip op koude ondergronden."
               }
             },
             {
@@ -1076,7 +1162,8 @@
                 "de": "Vorsicht vor überfrierender Nässe in der Nähe des Wassers.",
                 "hu": "Vigyázz a lefagyásokra a víz közelében.",
                 "ro": "Atenție la gheața formată din umezeală lângă apă.",
-                "en": "Beware of black ice forming near the water."
+                "en": "Beware of black ice forming near the water.",
+                "nl": "Let op voor zwarte ijsvorming nabij het water."
               }
             },
             {
@@ -1085,7 +1172,8 @@
                 "de": "Nutzen Sie die Kirchenbesichtigung zum Aufwärmen der Hände.",
                 "hu": "Használd ki a templomlátogatást a kezeid felmelegítésére.",
                 "ro": "Folosiți vizita la biserică pentru a vă încălzi mâinile.",
-                "en": "Use the church visit to warm up your hands."
+                "en": "Use the church visit to warm up your hands.",
+                "nl": "Gebruik een kerkbezoek om je handen op te warmen."
               }
             },
             {
@@ -1094,7 +1182,8 @@
                 "de": "Schließen Sie Ihr Rad gut ab, während Sie drinnen pausieren.",
                 "hu": "Zárd le alaposan a biciklit, amíg bent pihensz.",
                 "ro": "Asigurați bine bicicleta în timp ce stați la căldură.",
-                "en": "Lock your bike securely while you enjoy the indoor warmth."
+                "en": "Lock your bike securely while you enjoy the indoor warmth.",
+                "nl": "Zet je fiets goed op slot terwijl je van de warmte binnen geniet."
               }
             },
             {
@@ -1103,7 +1192,8 @@
                 "de": "Fahren Sie vorsichtig auf den schattigen Wegen im Park.",
                 "hu": "Óvatosan tekerj a park árnyékosabb útjain.",
                 "ro": "Pedalați cu prudență pe aleile umbrite din parc.",
-                "en": "Ride carefully on the shaded paths in the park."
+                "en": "Ride carefully on the shaded paths in the park.",
+                "nl": "Rijd voorzichtig over de beschaduwde paden in het park."
               }
             },
             {
@@ -1112,7 +1202,8 @@
                 "de": "Das Kopfsteinpflaster unter dem Tor kann tückisch glatt sein.",
                 "hu": "A kapu alatti macskakő csalókán csúszós lehet.",
                 "ro": "Pavajul de sub poartă poate fi înșelător de alunecos.",
-                "en": "The cobblestones under the gate can be treacherously slick."
+                "en": "The cobblestones under the gate can be treacherously slick.",
+                "nl": "De kasseien onder de poort kunnen verraderlijk glad zijn."
               }
             },
             {
@@ -1121,7 +1212,8 @@
                 "de": "Planen Sie die Rückkehr vor Einbruch der Dunkelheit (ca. 17 Uhr).",
                 "hu": "Tervezd meg a visszatérést sötétedés előtt (kb. 17 óra).",
                 "ro": "Planificați revenirea înainte de lăsarea întunericului (ora 17).",
-                "en": "Plan to return before darkness falls (around 5 PM)."
+                "en": "Plan to return before darkness falls (around 5 PM).",
+                "nl": "Plan om terug te zijn voordat het donker wordt (ongeveer 17:00)."
               }
             }
           ],
@@ -1149,6 +1241,12 @@
               "Watch for frost on the wooden planks of various bridges.",
               "Ensure your bike lights work due to the early sunset.",
               "Stop for a hot drink regularly to keep your core temperature up."
+            ],
+            "nl": [
+              "Draag meerdere lagen en winddichte handschoenen.",
+              "Let op rijp op de houten planken van diverse bruggen.",
+              "Zorg dat je fietsverlichting werkt vanwege de vroege zonsondergang.",
+              "Stop regelmatig voor een warme drank om je kerntemperatuur op peil te houden."
             ]
           }
         }
@@ -1167,7 +1265,8 @@
             "de": "Cluster A: Parkplatz Zentrum",
             "hu": "A csoport: Parkoló a központban",
             "ro": "Grupul A: Parcare în centru",
-            "en": "Cluster A: City Center Parking"
+            "en": "Cluster A: City Center Parking",
+            "nl": "Cluster A: Parkeren in het stadscentrum"
           },
           "coords": [
             5.917,
@@ -1182,7 +1281,8 @@
             "de": "Parken Sie Ihr Auto am Rande der Altstadt für den Tag. Von hier aus ist alles zu Fuß erreichbar.",
             "hu": "Parkolja le az autót az óváros szélén a napra. Innen minden gyalogosan elérhető.",
             "ro": "Parcați mașina la marginea centrului vechi pentru o zi. Totul este la distanță de mers pe jos de aici.",
-            "en": "Park your car on the edge of the old town for the day. Everything is walkable from here."
+            "en": "Park your car on the edge of the old town for the day. Everything is walkable from here.",
+            "nl": "Parkeer je auto aan de rand van de oude stad voor de hele dag. Alles is vanaf daar te voet bereikbaar."
           }
         },
         {
@@ -1190,7 +1290,8 @@
             "de": "Bovenkerk & Nieuwe Toren",
             "hu": "Bovenkerk és Új Torony",
             "ro": "Bovenkerk & Turnul Nou",
-            "en": "Bovenkerk & New Tower"
+            "en": "Bovenkerk & New Tower",
+            "nl": "Bovenkerk & Nieuwe Toren"
           },
           "coords": [
             5.915,
@@ -1206,7 +1307,8 @@
             "de": "Beginnen Sie Ihren Spaziergang am kirchlichen Zentrum der Stadt.",
             "hu": "Kezdje a sétát a város egyházi központjában.",
             "ro": "Începeți plimbarea la centrul ecleziastic al orașului.",
-            "en": "Start your walk at the ecclesiastical center of the city."
+            "en": "Start your walk at the ecclesiastical center of the city.",
+            "nl": "Begin je wandeling bij het kerkelijke centrum van de stad."
           }
         },
         {
@@ -1214,7 +1316,8 @@
             "de": "Stedelijk Museum Kampen",
             "hu": "Stedelijk Múzeum Kampen",
             "ro": "Muzeul Municipal Kampen",
-            "en": "Stedelijk Museum Kampen"
+            "en": "Stedelijk Museum Kampen",
+            "nl": "Stedelijk Museum Kampen"
           },
           "coords": [
             5.913,
@@ -1230,7 +1333,8 @@
             "de": "Ein kurzer Spaziergang bringt Sie zu diesem Komplex historischer Gebäude und Ausstellungen.",
             "hu": "Egy rövid séta elvezeti Önt a történelmi épületek és kiállítások ezen komplexumához.",
             "ro": "O scurtă plimbare vă duce la acest complex de clădiri și expoziții istorice.",
-            "en": "A short walk takes you to this complex of historic buildings and exhibits."
+            "en": "A short walk takes you to this complex of historic buildings and exhibits.",
+            "nl": "Een korte wandeling brengt je naar dit complex van historische gebouwen en tentoonstellingen."
           }
         },
         {
@@ -1238,7 +1342,8 @@
             "de": "Koornmarktspoort & Mittagessen",
             "hu": "Koornmarktspoort és Ebéd",
             "ro": "Koornmarktspoort & Prânz",
-            "en": "Koornmarktspoort & Lunch"
+            "en": "Koornmarktspoort & Lunch",
+            "nl": "Koornmarktspoort & Lunch"
           },
           "coords": [
             5.918,
@@ -1254,7 +1359,8 @@
             "de": "Genießen Sie das Mittagessen in einem Restaurant mit Blick auf den Fluss in der Nähe des ältesten Tors der Stadt.",
             "hu": "Ebédeljen egy folyóra néző étteremben a város legrégebbi kapuja közelében.",
             "ro": "Bucurați-vă de prânz la un restaurant cu vedere la râu, lângă cea mai veche poartă a orașului.",
-            "en": "Enjoy lunch at a restaurant with a river view near the city's oldest gate."
+            "en": "Enjoy lunch at a restaurant with a river view near the city's oldest gate.",
+            "nl": "Geniet van lunch in een restaurant met uitzicht op de rivier bij de oudste stadspoort."
           }
         },
         {
@@ -1262,7 +1368,8 @@
             "de": "Cluster B: Kampereiland",
             "hu": "B csoport: Kampereiland",
             "ro": "Grupul B: Kampereiland",
-            "en": "Cluster B: Kampereiland"
+            "en": "Cluster B: Kampereiland",
+            "nl": "Cluster B: Kampereiland"
           },
           "coords": [
             5.89,
@@ -1278,7 +1385,8 @@
             "de": "Fahren Sie aus der Stadt hinaus, um diese einzigartige von Menschenhand geschaffene Insellandschaft zu erkunden.",
             "hu": "Hajtson ki a városból, hogy felfedezze ezt az egyedülálló, ember alkotta szigeti tájat.",
             "ro": "Conduceți în afara orașului pentru a explora acest peisaj insular unic, creat de om.",
-            "en": "Drive out of the city to explore this unique man-made island landscape."
+            "en": "Drive out of the city to explore this unique man-made island landscape.",
+            "nl": "Rijd de stad uit om dit unieke mensgemaakte eilandlandschap te verkennen."
           }
         },
         {
@@ -1286,7 +1394,8 @@
             "de": "Cluster C: Südliche Tore",
             "hu": "C csoport: Déli kapuk",
             "ro": "Grupul C: Porțile de Sud",
-            "en": "Cluster C: Southern Gates"
+            "en": "Cluster C: Southern Gates",
+            "nl": "Cluster C: Zuidelijke Poorten"
           },
           "coords": [
             5.91,
@@ -1302,7 +1411,8 @@
             "de": "Fahren Sie zurück in die Stadt, um die Tore Cellebroederspoort und Broederpoort zu Fuß zu erkunden.",
             "hu": "Hajtson vissza a városba, hogy gyalog fedezze fel a Cellebroederspoort és a Broederpoort kapukat.",
             "ro": "Conduceți înapoi în oraș pentru a explora porțile Cellebroederspoort și Broederpoort pe jos.",
-            "en": "Drive back towards the city to explore the Cellebroederspoort and Broederpoort gates on foot."
+            "en": "Drive back towards the city to explore the Cellebroederspoort and Broederpoort gates on foot.",
+            "nl": "Rijd terug richting de stad om de Cellebroederspoort en Broederpoort te voet te verkennen."
           }
         }
       ],
@@ -1310,7 +1420,8 @@
         "de": "Mit dem Auto können Sie die kompakte Stadt Kampen mit der weiten Landschaft von Kampereiland kombinieren. Parken Sie Ihr Auto und verbringen Sie den Vormittag damit, das historische Herz der Stadt zu Fuß zu erkunden, von der Bovenkerk bis zu den Museen. Nach einem Mittagessen am Flussufer fahren Sie in die einzigartige Polderlandschaft von Kampereiland, ein Zeugnis niederländischer Ingenieurskunst. Am späten Nachmittag kehren Sie in die Stadt zurück, um die südlichen Stadttore zu besichtigen und den Tag mit einer Mischung aus städtischem Erbe und ländlicher Ruhe ausklingen zu lassen.",
         "hu": "Az autó lehetővé teszi, hogy összekapcsolja Kampen kompakt városát a Kampereiland tágas tájával. Parkolja le az autót, és töltse a délelőttöt a város történelmi szívének gyalogos felfedezésével, a Bovenkerktől a múzeumokig. Egy folyóparti ebéd után hajtson ki a Kampereiland egyedülálló poldervidékére, a holland mérnöki tudás bizonyítékára. Késő délután térjen vissza a városba, hogy megnézze a déli városkapukat, lezárva a napot a városi örökség és a vidéki nyugalom keverékével.",
         "ro": "Cu mașina, puteți combina orașul compact Kampen cu peisajul vast din Kampereiland. Parcați mașina și petreceți dimineața explorând pe jos inima istorică a orașului, de la Bovenkerk la muzee. După un prânz pe malul râului, conduceți spre peisajul unic al polderelor din Kampereiland, o mărturie a ingineriei olandeze. Reveniți în oraș după-amiaza târziu pentru a vedea porțile de sud ale orașului, încheind ziua cu un amestec de patrimoniu urban și liniște rurală.",
-        "en": "The car allows you to combine the compact city of Kampen with the vast landscape of Kampereiland. Park your car and spend the morning exploring the city's historic heart on foot, from the Bovenkerk to the museums. After a riverside lunch, drive out to the unique polder landscape of Kampereiland, a testament to Dutch engineering. Return to the city in the late afternoon to see the southern city gates, ending the day with a blend of urban heritage and rural tranquility."
+        "en": "The car allows you to combine the compact city of Kampen with the vast landscape of Kampereiland. Park your car and spend the morning exploring the city's historic heart on foot, from the Bovenkerk to the museums. After a riverside lunch, drive out to the unique polder landscape of Kampereiland, a testament to Dutch engineering. Return to the city in the late afternoon to see the southern city gates, ending the day with a blend of urban heritage and rural tranquility.",
+        "nl": "De auto stelt je in staat de compacte stad Kampen te combineren met het uitgestrekte landschap van Kampereiland. Parkeer je auto en breng de ochtend door met het te voet verkennen van het historische hart van de stad, van de Bovenkerk tot de musea. Na een lunch aan de rivier rijd je naar het unieke polderlandschap van Kampereiland, een bewijs van Nederlandse techniek. Keer laat in de middag terug naar de stad om de zuidelijke stadspoorten te zien, en eindig de dag met een mix van stedelijk erfgoed en landelijke rust."
       },
       "gastro_picks": {
         "de": [
@@ -1506,6 +1617,12 @@
           "The streets in the center are narrow, so drive slowly and be mindful of cyclists and pedestrians.",
           "The drive to Kampereiland offers a great perspective on Dutch water management.",
           "Plan your drive back into the city to avoid rush hour traffic if possible."
+        ],
+        "nl": [
+          "Controleer de parkeervoorschriften zorgvuldig; de meeste centrale gebieden vereisen een parkeerschijf of betaling.",
+          "De straten in het centrum zijn smal, rijd dus langzaam en let op fietsers en voetgangers.",
+          "De rit naar Kampereiland biedt een goed perspectief op Nederlands waterbeheer.",
+          "Plan je terugrit naar de stad om indien mogelijk de spits te vermijden."
         ]
       },
       "variants": {
@@ -1514,7 +1631,8 @@
             "de": "Mit dem Auto ist Kampen bei Regen komfortabel zu erkunden. Morgens parken Sie im Zentrum und erreichen schnell die überdachten Sehenswürdigkeiten. Mittags bietet das Stadtmuseum ein langes Programm im Trockenen. Nachmittags fahren Sie ins Kampereiland, wo Sie die stürmische Polderlandschaft gemütlich aus dem warmen Wagen betrachten können. Den Tag schließen Sie mit einem Blick auf die regnerische Stadtsilhouette von der IJsselbrücke ab.",
             "hu": "Autóval Kampen kényelmesen felfedezhető esőben is. Reggel parkolj a központban, ahonnan gyorsan elérhetők a fedett látnivalók. Délben a Városi Múzeum nyújt hosszú programot szárazon. Délután autózz ki Kampereiland felé, ahol a szeles polder tájat a meleg kocsiból is megcsodálhatod. A napot az esős városi panorámával zárd az IJssel-hídról szemlélődve.",
             "ro": "Cu mașina, Kampen este ușor de explorat chiar și pe ploaie. Dimineața parcați în centru pentru a ajunge rapid la obiectivele acoperite. La prânz, muzeul oferă un program lung la adăpost. După-amiaza conduceți spre Kampereiland, unde puteți admira peisajul vântos din confortul mașinii. Încheiați ziua cu o vedere asupra orașului ploios de pe podul peste IJssel.",
-            "en": "Exploring Kampen by car is very comfortable during a rainy day. In the morning, park in the center for quick access to indoor sites. At noon, the museum provides a long, dry program. In the afternoon, drive out to Kampereiland to see the stormy polder landscape from the warmth of your vehicle. End the day with a view of the rainy city skyline from the IJssel bridge."
+            "en": "Exploring Kampen by car is very comfortable during a rainy day. In the morning, park in the center for quick access to indoor sites. At noon, the museum provides a long, dry program. In the afternoon, drive out to Kampereiland to see the stormy polder landscape from the warmth of your vehicle. End the day with a view of the rainy city skyline from the IJssel bridge.",
+            "nl": "Kampen verkennen met de auto is erg comfortabel op een regenachtige dag. Zet ’s ochtends je auto in het centrum voor snelle toegang tot binnenactiviteiten. Rond het middaguur biedt het museum een lang, droog programma. In de namiddag rijd je naar Kampereiland om het stormachtige polderlandschap vanuit de warmte van je voertuig te zien. Sluit de dag af met uitzicht op de regenachtige stadsskyline vanaf de IJsselbrug."
           },
           "stops": [
             {
@@ -1523,7 +1641,8 @@
                 "de": "Wählen Sie einen Parkplatz nah am Ausgang zum Marktplatz.",
                 "hu": "Válassz a piachoz közeli kijáratú parkolóhelyet.",
                 "ro": "Alegeți un loc de parcare aproape de ieșirea spre piață.",
-                "en": "Choose a parking spot close to the market square exit."
+                "en": "Choose a parking spot close to the market square exit.",
+                "nl": "Kies een parkeerplek dicht bij de uitgang van de markt."
               }
             },
             {
@@ -1532,7 +1651,8 @@
                 "de": "Kurze Gehwege minimieren die Zeit im Regen.",
                 "hu": "A rövid gyalogutak csökkentik az esőben töltött időt.",
                 "ro": "Distanțele scurte pe jos reduc timpul petrecut în ploaie.",
-                "en": "Short walking distances minimize time spent in the rain."
+                "en": "Short walking distances minimize time spent in the rain.",
+                "nl": "Korte loopafstanden beperken de tijd buiten in de regen."
               }
             },
             {
@@ -1541,7 +1661,8 @@
                 "de": "Perfekt für Stunden, in denen es draußen durchregnet.",
                 "hu": "Tökéletes azokra az órákra, amikor kint megállás nélkül esik.",
                 "ro": "Perfect pentru orele în care afară plouă neîncetat.",
-                "en": "Perfect for those hours when it's raining steadily outside."
+                "en": "Perfect for those hours when it's raining steadily outside.",
+                "nl": "Perfect voor die uren dat het buiten aanhoudend regent."
               }
             },
             {
@@ -1550,7 +1671,8 @@
                 "de": "Viele Restaurants bieten Parkplätze direkt in der Nähe.",
                 "hu": "Sok étterem közelében közvetlenül találsz parkolót.",
                 "ro": "Multe restaurante au parcări chiar în apropiere.",
-                "en": "Many restaurants have parking spots directly nearby."
+                "en": "Many restaurants have parking spots directly nearby.",
+                "nl": "Veel restaurants hebben direct nabij parkeerplaatsen."
               }
             },
             {
@@ -1559,7 +1681,8 @@
                 "de": "Genießen Sie die Aussicht auf die IJssel aus dem Auto.",
                 "hu": "Élvezd az IJsselre nyíló kilátást az autóból.",
                 "ro": "Admirați vederea spre IJssel din interiorul mașinii.",
-                "en": "Enjoy the views of the IJssel from inside your car."
+                "en": "Enjoy the views of the IJssel from inside your car.",
+                "nl": "Geniet van het uitzicht op de IJssel vanuit je auto."
               }
             },
             {
@@ -1568,7 +1691,8 @@
                 "de": "Nutzen Sie das Auto, um schnell zwischen den Toren zu wechseln.",
                 "hu": "Használd az autót a kapuk közötti gyors váltáshoz.",
                 "ro": "Folosiți mașina pentru a schimba rapid locația între porți.",
-                "en": "Use the car to switch quickly between the city gates."
+                "en": "Use the car to switch quickly between the city gates.",
+                "nl": "Gebruik de auto om snel tussen de stadspoorten te schakelen."
               }
             }
           ],
@@ -1596,6 +1720,12 @@
               "Watch out for aquaplaning on the flat polder roads.",
               "Use your defroster to keep windows clear in high humidity.",
               "Combine stops to minimize the number of times you walk outside."
+            ],
+            "nl": [
+              "Parkeergarages in meerdere lagen in het centrum houden je droog bij in- en uitstappen.",
+              "Let op aquaplaning op de vlakke polderwegen.",
+              "Gebruik je ontwaseming om de ruiten helder te houden bij hoge luchtvochtigheid.",
+              "Combineer stops om het aantal keren dat je naar buiten moet te beperken."
             ]
           }
         },
@@ -1604,7 +1734,8 @@
             "de": "Im Winter ist das Auto ideal, um die Distanzen zwischen den frostigen Toren und Kampereiland zu überbrücken. Morgens starten Sie mit einer beheizten Fahrt durch die verschneite Polderlandschaft. Mittags besuchen Sie das warme Stadtmuseum im Herzen von Kampen. Nachmittags erkunden Sie die südlichen Stadttore, bevor Sie bei Anbruch der Dunkelheit die festliche Beleuchtung der Stadt vom IJssel-Ufer aus bewundern.",
             "hu": "Télen az autó ideális a deres kapuk és Kampereiland közötti távolságok áthidalására. Reggel kezdj egy fűtött autózással a havas polder tájon keresztül. Délben látogasd meg a Városi Múzeumot Kampen szívében. Délután fedezd fel a déli városkapukat, majd a sötétség beálltával csodáld meg a város ünnepi fényeit az IJssel partjáról.",
             "ro": "Iarna, mașina este ideală pentru a parcurge distanța dintre porțile înghețate și Kampereiland. Dimineața începeți cu o cursă încălzită prin peisajul înzăpezit al polderului. La prânz, vizitați muzeul din inima orașului Kampen. După-amiaza explorați porțile din sud, iar la lăsarea serii admirați iluminatul festiv al orașului de pe malul râului.",
-            "en": "In winter, the car is perfect for bridging the gaps between frosty gates and Kampereiland. Start your morning with a heated drive through the snowy polder landscape. At noon, visit the warm museum in the heart of Kampen. In the afternoon, explore the southern city gates before admiring the festive city lights from the IJssel bank at dusk."
+            "en": "In winter, the car is perfect for bridging the gaps between frosty gates and Kampereiland. Start your morning with a heated drive through the snowy polder landscape. At noon, visit the warm museum in the heart of Kampen. In the afternoon, explore the southern city gates before admiring the festive city lights from the IJssel bank at dusk.",
+            "nl": "In de winter is de auto perfect om de afstand tussen rijzige poorten en Kampereiland te overbruggen. Begin je ochtend met een verwarmde rit door het besneeuwde polderlandschap. Rond het middaguur bezoek je het warme museum in het hart van Kampen. In de namiddag verken je de zuidelijke stadspoorten en bewonder je bij schemering de feestelijke stadsverlichting vanaf de IJsseloever."
           },
           "stops": [
             {
@@ -1613,7 +1744,8 @@
                 "de": "Achten Sie auf gefrorenes Wasser in den Parkbuchten.",
                 "hu": "Ügyelj a felfagyott vízre a parkolóhelyeken.",
                 "ro": "Atenție la gheața formată în locurile de parcare.",
-                "en": "Watch for frozen puddles in the parking bays."
+                "en": "Watch for frozen puddles in the parking bays.",
+                "nl": "Let op bevroren plassen op de parkeerplaatsen."
               }
             },
             {
@@ -1622,7 +1754,8 @@
                 "de": "Das Auto bietet zwischendurch einen warmen Rückzugsort.",
                 "hu": "Az autó két megálló között meleg pihenőhelyet nyújt.",
                 "ro": "Mașina oferă un refugiu cald între vizite.",
-                "en": "The car serves as a warm retreat between sightings."
+                "en": "The car serves as a warm retreat between sightings.",
+                "nl": "De auto dient als warme toevlucht tussen bezienswaardigheden."
               }
             },
             {
@@ -1631,7 +1764,8 @@
                 "de": "Hier können Sie sich für die nächste Fahrteappe aufwärmen.",
                 "hu": "Itt jól felmelegedhetsz a következő útszakasz előtt.",
                 "ro": "Vă puteți încălzi aici înainte de următoarea etapă a drumului.",
-                "en": "Warm up here before your next driving leg."
+                "en": "Warm up here before your next driving leg.",
+                "nl": "Warm hier even op voordat je aan het volgende rijsdeel begint."
               }
             },
             {
@@ -1640,7 +1774,8 @@
                 "de": "Suchen Sie Restaurants mit Parkplätzen in Sichtweite.",
                 "hu": "Keress olyan éttermet, ahol látótávolságban van a parkoló.",
                 "ro": "Căutați restaurante cu parcare vizibilă din interior.",
-                "en": "Look for restaurants with parking within sight."
+                "en": "Look for restaurants with parking within sight.",
+                "nl": "Zoek naar restaurants met zichtbare parkeergelegenheid."
               }
             },
             {
@@ -1649,7 +1784,8 @@
                 "de": "Vorsicht auf den oft ungeräumten Nebenstraßen im Polder.",
                 "hu": "Vigyázz a polder mellékútjain, melyeket nem mindig takarítanak.",
                 "ro": "Prudență pe drumurile secundare din polder, adesea necurățate.",
-                "en": "Exercise caution on polder side roads, which may not be salted."
+                "en": "Exercise caution on polder side roads, which may not be salted.",
+                "nl": "Wees voorzichtig op polderzijwegen die mogelijk niet gestrooid zijn."
               }
             },
             {
@@ -1658,7 +1794,8 @@
                 "de": "Die Tore sind ab 16:30 Uhr oft stimmungsvoll beleuchtet.",
                 "hu": "A kapuk 16:30-tól gyakran hangulatosan ki vannak világítva.",
                 "ro": "Porțile sunt adesea iluminate ambiental începând cu ora 16:30.",
-                "en": "The gates are often atmospherically lit from 4:30 PM."
+                "en": "The gates are often atmospherically lit from 4:30 PM.",
+                "nl": "De poorten zijn vaak sfeervol verlicht vanaf 16:30."
               }
             }
           ],
@@ -1686,6 +1823,12 @@
               "Add anti-freeze to your windshield washer fluid.",
               "Prefer well-lit parking areas during the darker winter months.",
               "Battery performance can drop in extreme cold."
+            ],
+            "nl": [
+              "Winterbanden zijn essentieel bij rijp op de polderwegen.",
+              "Voeg antivries toe aan je ruitensproeiervloeistof.",
+              "Geeft de voorkeur aan goed verlichte parkeergelegenheden tijdens de donkere wintermaanden.",
+              "De batterijprestaties kunnen dalen bij extreme kou."
             ]
           }
         }
@@ -1704,7 +1847,8 @@
             "de": "Cluster A: Haltestelle IJsselkade",
             "hu": "A csoport: IJsselkade megálló",
             "ro": "Grupul A: Stația IJsselkade",
-            "en": "Cluster A: IJsselkade Bus Stop"
+            "en": "Cluster A: IJsselkade Bus Stop",
+            "nl": "Cluster A: Bushalte IJsselkade"
           },
           "coords": [
             5.919,
@@ -1719,7 +1863,8 @@
             "de": "Nehmen Sie einen Bus vom Bahnhof zur Haltestelle am Flussufer, um Ihre Erkundung zu beginnen.",
             "hu": "Menjen busszal az állomásról a folyóparti megállóig, hogy elkezdje a felfedezést.",
             "ro": "Luați un autobuz de la gară până la stația de pe malul râului pentru a începe explorarea.",
-            "en": "Take a bus from the train station to the riverfront stop to begin your exploration."
+            "en": "Take a bus from the train station to the riverfront stop to begin your exploration.",
+            "nl": "Neem een bus vanaf het station naar de halte aan de rivier om je verkenning te beginnen."
           }
         },
         {
@@ -1727,7 +1872,8 @@
             "de": "Koornmarktspoort",
             "hu": "Koornmarktspoort",
             "ro": "Koornmarktspoort",
-            "en": "Koornmarktspoort"
+            "en": "Koornmarktspoort",
+            "nl": "Koornmarktspoort"
           },
           "coords": [
             5.918,
@@ -1743,7 +1889,8 @@
             "de": "Ihr erster Halt ist das beeindruckende Tor, das über den Fluss wacht.",
             "hu": "Az első megálló a folyó felett őrködő lenyűgöző kapu.",
             "ro": "Prima oprire este poarta impunătoare care veghează asupra râului.",
-            "en": "Your first stop is the impressive gate watching over the river."
+            "en": "Your first stop is the impressive gate watching over the river.",
+            "nl": "Je eerste stop is de indrukwekkende poort die over de rivier waakt."
           }
         },
         {
@@ -1751,7 +1898,8 @@
             "de": "Bovenkerk",
             "hu": "Bovenkerk",
             "ro": "Bovenkerk",
-            "en": "Bovenkerk"
+            "en": "Bovenkerk",
+            "nl": "Bovenkerk"
           },
           "coords": [
             5.915,
@@ -1767,7 +1915,8 @@
             "de": "Ein kurzer Spaziergang landeinwärts führt Sie zu der riesigen gotischen Basilika.",
             "hu": "Egy rövid séta a szárazföld belseje felé elvezeti Önt az óriási gótikus bazilikához.",
             "ro": "O scurtă plimbare spre interior vă duce la imensa bazilică gotică.",
-            "en": "A short walk inland brings you to the massive Gothic basilica."
+            "en": "A short walk inland brings you to the massive Gothic basilica.",
+            "nl": "Een korte wandeling landinwaarts brengt je bij de imposante gotische basiliek."
           }
         },
         {
@@ -1775,7 +1924,8 @@
             "de": "Cluster B: Haltestelle Oranjesingel",
             "hu": "B csoport: Oranjesingel megálló",
             "ro": "Grupul B: Stația Oranjesingel",
-            "en": "Cluster B: Oranjesingel Bus Stop"
+            "en": "Cluster B: Oranjesingel Bus Stop",
+            "nl": "Cluster B: Bushalte Oranjesingel"
           },
           "coords": [
             5.911,
@@ -1791,7 +1941,8 @@
             "de": "Nehmen Sie einen lokalen Bus, um zum südlichen Teil des Stadtzentrums zu gelangen.",
             "hu": "Menjen helyi busszal a városközpont déli részébe.",
             "ro": "Luați un autobuz local pentru a ajunge în partea de sud a centrului orașului.",
-            "en": "Take a local bus to loop around to the southern part of the city center."
+            "en": "Take a local bus to loop around to the southern part of the city center.",
+            "nl": "Neem een lokale bus om een rondje te maken naar het zuidelijke deel van het centrum."
           }
         },
         {
@@ -1799,7 +1950,8 @@
             "de": "Cellebroederspoort",
             "hu": "Cellebroederspoort",
             "ro": "Cellebroederspoort",
-            "en": "Cellebroederspoort"
+            "en": "Cellebroederspoort",
+            "nl": "Cellebroederspoort"
           },
           "coords": [
             5.912,
@@ -1815,7 +1967,8 @@
             "de": "Erkunden Sie dieses märchenhafte Tor und essen Sie in der Nähe zu Mittag.",
             "hu": "Fedezze fel ezt a mesebeli kaput, és ebédeljen a közelben.",
             "ro": "Explorați această poartă de basm și luați prânzul în apropiere.",
-            "en": "Explore this fairytale gate and have lunch nearby."
+            "en": "Explore this fairytale gate and have lunch nearby.",
+            "nl": "Verken deze sprookjesachtige poort en eet in de buurt lunch."
           }
         },
         {
@@ -1823,7 +1976,8 @@
             "de": "Stedelijk Museum Kampen",
             "hu": "Stedelijk Múzeum Kampen",
             "ro": "Muzeul Municipal Kampen",
-            "en": "Stedelijk Museum Kampen"
+            "en": "Stedelijk Museum Kampen",
+            "nl": "Stedelijk Museum Kampen"
           },
           "coords": [
             5.913,
@@ -1839,7 +1993,8 @@
             "de": "Beenden Sie den Tag mit einem ausgiebigen Besuch des Hauptmuseums der Stadt.",
             "hu": "Zárja a napot egy hosszú látogatással a város fő múzeumában.",
             "ro": "Încheiați ziua cu o vizită extinsă la muzeul principal al orașului.",
-            "en": "Finish your day with an extensive visit to the city's main museum."
+            "en": "Finish your day with an extensive visit to the city's main museum.",
+            "nl": "Sluit je dag af met een uitgebreid bezoek aan het stadsmuseum."
           }
         }
       ],
@@ -1847,7 +2002,8 @@
         "de": "Die Nutzung öffentlicher Verkehrsmittel in Kampen ermöglicht eine entspannte Erkundung. Beginnen Sie Ihren Tag mit einer Busfahrt zum Flussufer, um die hanseatische Skyline zu bewundern. Ein Spaziergang führt Sie zur Bovenkerk. Am Mittag bringt Sie ein weiterer Bus in die Nähe der südlichen Tore, wo Sie eine andere Facette der Stadt entdecken können. Der Nachmittag ist einem tiefen Eintauchen in die Geschichte im Stedelijk Museum gewidmet, das nach einem angenehmen Spaziergang durch die alten Straßen leicht zu erreichen ist. Es ist eine effiziente und stressfreie Art, die Highlights zu sehen.",
         "hu": "A tömegközlekedés használata Kampenben lehetővé teszi a nyugodt felfedezést. Kezdje a napot egy buszúttal a folyópartra, hogy megcsodálja a hanza város sziluettjét. Egy séta elvezeti a Bovenkerkhez. Délben egy másik busz elviszi a déli kapuk közelébe, ahol a város egy másik oldalát fedezheti fel. A délután a történelem mélyére merülésről szól a Városi Múzeumban, amely egy kellemes séta után könnyen elérhető a régi utcákon keresztül. Ez egy hatékony és stresszmentes módja a főbb látnivalók megtekintésének.",
         "ro": "Folosirea transportului public în Kampen permite o explorare relaxată. Începeți ziua cu o călătorie cu autobuzul până pe malul râului pentru a admira orizontul hanseatic. O plimbare vă duce la Bovenkerk. La prânz, un alt autobuz vă duce aproape de porțile sudice pentru o altă fațetă a orașului. După-amiaza este dedicată unei scufundări profunde în istorie la Muzeul Municipal, ușor accesibil după o plimbare plăcută pe străzile vechi. Este un mod eficient și fără stres de a vedea punctele de atracție.",
-        "en": "Using public transport in Kampen allows for a relaxed exploration. Start your day with a bus ride to the riverfront to admire the Hanseatic skyline. A walk takes you to the Bovenkerk. At midday, another bus takes you near the southern gates for a different facet of the city. The afternoon is for a deep dive into history at the Stedelijk Museum, easily reached after a pleasant stroll through the old streets. It's an efficient and stress-free way to see the highlights."
+        "en": "Using public transport in Kampen allows for a relaxed exploration. Start your day with a bus ride to the riverfront to admire the Hanseatic skyline. A walk takes you to the Bovenkerk. At midday, another bus takes you near the southern gates for a different facet of the city. The afternoon is for a deep dive into history at the Stedelijk Museum, easily reached after a pleasant stroll through the old streets. It's an efficient and stress-free way to see the highlights.",
+        "nl": "Met het openbaar vervoer in Kampen kun je ontspannen verkennen. Begin je dag met een busrit naar de rivierkade om de Hanzelijn te bewonderen. Een wandeling brengt je naar de Bovenkerk. Rond het middaguur brengt een andere bus je dicht bij de zuidelijke poorten voor een ander stadsperspectief. De namiddag is gereserveerd voor een diepe duik in de geschiedenis in het Stedelijk Museum, dat je na een aangename wandeling door de oude straatjes gemakkelijk bereikt. Het is een efficiënte en zorgeloze manier om de hoogtepunten te zien."
       },
       "gastro_picks": {
         "de": [
@@ -2043,6 +2199,12 @@
           "Download the local bus company's app (e.g., RRReis) for real-time schedules and routes.",
           "Bus stops aren't always directly in front of the sights; be prepared for short walks.",
           "Be aware of the last bus departure, especially if you're returning to the train station late in the evening."
+        ],
+        "nl": [
+          "Koop een dagkaart voor de bus als je meerdere ritten plant; dat kan goedkoper zijn.",
+          "Download de app van het lokale busbedrijf (bijv. RRReis) voor realtime dienstregelingen en routes.",
+          "Bushaltes staan niet altijd direct voor de bezienswaardigheden; wees voorbereid op korte wandelingen.",
+          "Let op de laatste busvertrek, vooral als je laat naar het station terugkeert."
         ]
       },
       "variants": {
@@ -2051,7 +2213,8 @@
             "de": "Mit Bus und Bahn bleibt man in Kampen auch bei Regen mobil. Morgens bringt Sie der Bus zur IJsselkade, direkt ins historische Zentrum. Mittags ist das Stadtmuseum der perfekte Rückzugsort, während es draußen stürmt. Nachmittags nutzen Sie die lokalen Linien, um bequem zu den weiter entfernten Stadttoren zu gelangen. Den Abend beenden Sie mit einer kurzen Fahrt zurück zum Bahnhof, von wo aus Sie den Blick auf die Lichter am Fluss genießen.",
             "hu": "Busszal és vonattal Kampenben esőben is könnyen mozoghatsz. Reggel a busz az IJsselkade-hoz visz, közvetlenül a történelmi központba. Délben a Városi Múzeum tökéletes menedék a vihar elől. Délután használd a helyi járatokat a távolabbi városkapuk kényelmes eléréséhez. Az estét zárd egy rövid úttal vissza a vasútállomáshoz, ahonnan remek kilátás nyílik a folyó menti fényekre.",
             "ro": "Cu autobuzul și trenul, rămâneți mobili în Kampen chiar și pe ploaie. Dimineața, autobuzul vă lasă la IJsselkade, chiar în centrul istoric. La prânz, muzeul este refugiul perfect în timp ce afară e furtună. După-amiaza folosiți liniile locale pentru a ajunge confortabil la porțile mai îndepărtate. Seara se încheie cu o scurtă călătorie spre gară, admirând luminile reflectate în râu.",
-            "en": "By bus and train, you stay mobile in Kampen even in the rain. In the morning, the bus takes you to IJsselkade, right into the historic heart. At noon, the museum is the perfect retreat during a storm. In the afternoon, use local lines to comfortably reach the more distant city gates. End your evening with a short trip back to the station, enjoying the river lights along the way."
+            "en": "By bus and train, you stay mobile in Kampen even in the rain. In the morning, the bus takes you to IJsselkade, right into the historic heart. At noon, the museum is the perfect retreat during a storm. In the afternoon, use local lines to comfortably reach the more distant city gates. End your evening with a short trip back to the station, enjoying the river lights along the way.",
+            "nl": "Met bus en trein blijf je mobiel in Kampen, zelfs bij regen. ’s Ochtends brengt de bus je naar de IJsselkade, pal in het historische hart. Rond het middaguur is het museum de perfecte schuilplaats tijdens een storm. In de namiddag gebruik je lokale lijnen om comfortabel de verder gelegen stadspoorten te bereiken. Sluit je avond af met een korte rit terug naar het station en geniet van de rivierlichten onderweg."
           },
           "stops": [
             {
@@ -2060,7 +2223,8 @@
                 "de": "Warten Sie im Unterstand, bis der Bus einfährt.",
                 "hu": "Várj a fedett megállóban a busz érkezéséig.",
                 "ro": "Așteptați în adăpost până când sosește autobuzul.",
-                "en": "Wait inside the shelter until the bus arrives."
+                "en": "Wait inside the shelter until the bus arrives.",
+                "nl": "Wacht binnen in het abri totdat de bus arriveert."
               }
             },
             {
@@ -2069,7 +2233,8 @@
                 "de": "Nur ein kurzer Fußweg von der Haltestelle entfernt.",
                 "hu": "Csak egy rövid séta a buszmegállótól.",
                 "ro": "La doar o scurtă plimbare de stația de autobuz.",
-                "en": "Just a short walk from the bus stop."
+                "en": "Just a short walk from the bus stop.",
+                "nl": "Slechts een korte wandeling van de bushalte."
               }
             },
             {
@@ -2078,7 +2243,8 @@
                 "de": "Die Kirche bietet Schutz vor plötzlichen Schauern.",
                 "hu": "A templom jó védelmet nyújt a hirtelen záporok ellen.",
                 "ro": "Biserica oferă protecție împotriva averselor bruște.",
-                "en": "The church provides shelter from sudden downpours."
+                "en": "The church provides shelter from sudden downpours.",
+                "nl": "De kerk biedt dekking bij plotselinge stortbuien."
               }
             },
             {
@@ -2087,7 +2253,8 @@
                 "de": "Diese Haltestelle ist gut an das südliche Stadtgebiet angebunden.",
                 "hu": "Ez a megálló jól összeköti a déli városrészt.",
                 "ro": "Această stație este bine conectată cu zona de sud a orașului.",
-                "en": "This stop is well-connected to the southern city area."
+                "en": "This stop is well-connected to the southern city area.",
+                "nl": "Deze halte is goed verbonden met het zuidelijke stadsdeel."
               }
             },
             {
@@ -2096,7 +2263,8 @@
                 "de": "Das Tor ist von der Haltestelle aus schnell im Trockenen erreichbar.",
                 "hu": "A kapu a megállótól gyorsan elérhető fedett helyről is.",
                 "ro": "Poarta este rapid accesibilă de la stația de autobuz.",
-                "en": "The gate is quickly reachable from the bus stop."
+                "en": "The gate is quickly reachable from the bus stop.",
+                "nl": "De poort is snel bereikbaar vanaf de bushalte."
               }
             },
             {
@@ -2105,7 +2273,8 @@
                 "de": "Nutzen Sie die Zeit im Museum, um Regenschauer auszusitzen.",
                 "hu": "Használd ki a múzeumi időt az eső elkerülésére.",
                 "ro": "Folosiți timpul la muzeu pentru a evita ploaia.",
-                "en": "Use your time in the museum to wait out heavy rain."
+                "en": "Use your time in the museum to wait out heavy rain.",
+                "nl": "Gebruik je tijd in het museum om een hevige regenbui uit te zitten."
               }
             }
           ],
@@ -2133,6 +2302,12 @@
               "The OV-chipkaart is the easiest way to pay for all bus rides.",
               "Buses are climate-controlled and protect you from the damp weather.",
               "Kampen station offers a dry vantage point for the city skyline."
+            ],
+            "nl": [
+              "Controleer vertrektijden online om te voorkomen dat je in de regen moet wachten.",
+              "De OV-chipkaart is de gemakkelijkste manier om alle busritten te betalen.",
+              "Bussen zijn klimaatgereguleerd en beschermen je tegen het vochtige weer.",
+              "Station Kampen biedt een droge uitkijkplaats op de stadsskyline."
             ]
           }
         },
@@ -2141,7 +2316,8 @@
             "de": "Im Winter ist der Nahverkehr in Kampen die wärmste Art des Reisens. Morgens bringt Sie der Zug über die IJsselbrücke, mit Blick auf das frostige Panorama. Mittags verweilen Sie im geheizten Stadtmuseum, dem kulturellen Zentrum. Nachmittags fahren Sie mit dem Bus zur Oranjesingel, um die historischen Tore im Winterlicht zu sehen. Den Abend beschließen Sie mit einer Fahrt zum Bahnhof, während die Stadtlichter hell in der klaren Winterluft strahlen.",
             "hu": "Télen a tömegközlekedés a legmelegebb módja az utazásnak Kampenben. Reggel a vonat az IJssel-hídon át visz be, remek rálátással a deres panorámára. Délben maradj a fűtött múzeumban, a kulturális központban. Délután buszozz az Oranjesingelhez, hogy lásd a történelmi kapukat a téli fényben. Az estét zárd a vasútállomásnál, miközben a város fényei élesen ragyognak a hideg levegőben.",
             "ro": "Iarna, transportul public este cea mai călduroasă modalitate de a călători în Kampen. Dimineața, trenul vă poartă peste podul IJssel, oferind o vedere spre panorama înghețată. La prânz, rămâneți în muzeul încălzit, inima culturală a orașului. După-amiaza luați autobuzul spre Oranjesingel pentru a vedea porțile istorice în lumina iernii. Încheiați seara la gară, cu luminile orașului strălucind clar în aerul rece.",
-            "en": "In winter, public transit is the warmest way to get around Kampen. In the morning, the train brings you over the IJssel bridge with views of the frosty panorama. At noon, linger in the heated museum, the city's cultural hub. In the afternoon, take the bus to Oranjesingel to see the historic gates in the winter light. Finish the evening at the station as city lights shine brightly in the crisp air."
+            "en": "In winter, public transit is the warmest way to get around Kampen. In the morning, the train brings you over the IJssel bridge with views of the frosty panorama. At noon, linger in the heated museum, the city's cultural hub. In the afternoon, take the bus to Oranjesingel to see the historic gates in the winter light. Finish the evening at the station as city lights shine brightly in the crisp air.",
+            "nl": "In de winter is het openbaar vervoer de warmste manier om je in Kampen te verplaatsen. 's Ochtends brengt de trein je over de IJsselbrug met uitzicht op het rijpige panorama. 's Middags blijf je even in het verwarmde museum, het culturele hart van de stad. In de namiddag neem je de bus naar de Oranjesingel om de historische poorten in het winterlicht te zien. Sluit de avond af bij het station terwijl de stadslichten fel schijnen in de frisse lucht."
           },
           "stops": [
             {
@@ -2150,7 +2326,8 @@
                 "de": "Ziehen Sie sich warm an, da der Wind am Flusskai sehr kalt ist.",
                 "hu": "Öltözz melegen, mert a folyóparti szél nagyon hideg.",
                 "ro": "Îmbrăcați-vă bine, vântul pe faleză este foarte rece.",
-                "en": "Dress warmly as the wind on the river wharf is very cold."
+                "en": "Dress warmly as the wind on the river wharf is very cold.",
+                "nl": "Kleed je warm aan, want de wind op de rivierkade is erg koud."
               }
             },
             {
@@ -2159,7 +2336,8 @@
                 "de": "Suchen Sie nach dem Ausstieg schnell Schutz im Torweg.",
                 "hu": "Kiszállás után keress gyorsan menedéket a kapualjban.",
                 "ro": "După debarcare, căutați rapid adăpost în pasajul porții.",
-                "en": "Look for quick cover in the gate passage after getting off."
+                "en": "Look for quick cover in the gate passage after getting off.",
+                "nl": "Zoek snel beschutting in de poortdoorgang nadat je bent uitgestapt."
               }
             },
             {
@@ -2168,7 +2346,8 @@
                 "de": "In der Kirche ist es oft kühler als im Bus; Schichten tragen.",
                 "hu": "A templomban gyakran hidegebb van, mint a buszon; öltözz rétegesen.",
                 "ro": "În biserică este adesea mai rece decât în autobuz; purtați straturi.",
-                "en": "The church is often cooler than the bus; wear layers."
+                "en": "The church is often cooler than the bus; wear layers.",
+                "nl": "De kerk is vaak koeler dan de bus; draag lagen kleding."
               }
             },
             {
@@ -2177,7 +2356,8 @@
                 "de": "Die Wartehäuschen bieten Schutz vor dem schneidenden Wind.",
                 "hu": "A várók jó védelmet nyújtanak a metsző szél ellen.",
                 "ro": "Adăposturile din stație oferă protecție contra vântului tăios.",
-                "en": "The bus shelters provide protection from the biting wind."
+                "en": "The bus shelters provide protection from the biting wind.",
+                "nl": "De bushokjes bieden bescherming tegen de snijdende wind."
               }
             },
             {
@@ -2186,7 +2366,8 @@
                 "de": "Genießen Sie den frostigen Anblick und nutzen Sie den nächsten Bus.",
                 "hu": "Élvezd a jeges látványt, majd várd meg a következő buszt.",
                 "ro": "Admirați peisajul înghețat și luați următorul autobuz.",
-                "en": "Enjoy the frosty view and catch the next bus soon."
+                "en": "Enjoy the frosty view and catch the next bus soon.",
+                "nl": "Geniet van het rijpige uitzicht en neem snel de volgende bus."
               }
             },
             {
@@ -2195,7 +2376,8 @@
                 "de": "Ein idealer Ort, um die Kälte für längere Zeit zu vergessen.",
                 "hu": "Ideális hely, hogy hosszabb időre elfelejtsd a kinti hideget.",
                 "ro": "Un loc ideal pentru a uita de frig pentru o perioadă mai lungă.",
-                "en": "An ideal place to forget the cold for a while."
+                "en": "An ideal place to forget the cold for a while.",
+                "nl": "Een ideale plek om de kou even te vergeten."
               }
             }
           ],
@@ -2223,6 +2405,12 @@
               "Use the '9292' app for real-time updates during winter weather.",
               "Kampen railway station features a heated waiting room.",
               "Watch for slippery curb edges when getting off the bus."
+            ],
+            "nl": [
+              "Bussen rijden betrouwbaar in de winter en zijn goed verwarmd.",
+              "Gebruik de '9292'-app voor realtime-updates tijdens winterweer.",
+              "Station Kampen heeft een verwarmde wachtruimte.",
+              "Let op gladde stoepranden bij het uitstappen uit de bus."
             ]
           }
         }

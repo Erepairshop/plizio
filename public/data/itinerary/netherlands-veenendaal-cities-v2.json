@@ -21,7 +21,8 @@
             "de": "Thoomesplein",
             "hu": "Thoomesplein tér",
             "ro": "Piața Thoomesplein",
-            "en": "Thoomesplein Square"
+            "en": "Thoomesplein Square",
+            "nl": "Thoomesplein"
           },
           "coords": [
             5.553,
@@ -37,7 +38,8 @@
             "de": "Beginnen Sie den Tag hier mit einem Kaffee und beobachten Sie das städtische Treiben.",
             "hu": "Indítsa a napot egy kávéval, és figyelje a város ébredését.",
             "ro": "Începeți ziua aici cu o cafea, observând agitația orașului.",
-            "en": "Start your day here with a coffee and watch the town life unfold."
+            "en": "Start your day here with a coffee and watch the town life unfold.",
+            "nl": "Begin je dag hier met een koffie en kijk hoe het dorpsleven zich ontvouwt."
           }
         },
         {
@@ -45,7 +47,8 @@
             "de": "De Oude Kerk",
             "hu": "Oude Kerk (Régi templom)",
             "ro": "Biserica Veche (De Oude Kerk)",
-            "en": "The Old Church (De Oude Kerk)"
+            "en": "The Old Church (De Oude Kerk)",
+            "nl": "De Oude Kerk (De Oude Kerk)"
           },
           "coords": [
             5.5535,
@@ -63,7 +66,8 @@
             "de": "Museum Veenendaal",
             "hu": "Veenendaal Múzeum",
             "ro": "Muzeul Veenendaal",
-            "en": "Museum Veenendaal"
+            "en": "Museum Veenendaal",
+            "nl": "Museum Veenendaal"
           },
           "coords": [
             5.554,
@@ -81,7 +85,8 @@
             "de": "De Cultuurfabriek",
             "hu": "De Cultuurfabriek (Kultúrgyár)",
             "ro": "Fabrica de Cultură (De Cultuurfabriek)",
-            "en": "The Culture Factory (De Cultuurfabriek)"
+            "en": "The Culture Factory (De Cultuurfabriek)",
+            "nl": "De Cultuurfabriek (De Cultuurfabriek)"
           },
           "coords": [
             5.552,
@@ -97,7 +102,8 @@
             "de": "Prüfen Sie den Spielplan, vielleicht gibt es eine interessante Ausstellung oder Veranstaltung.",
             "hu": "Ebéd után nézzen be, hátha van egy érdekes kiállítás vagy esemény.",
             "ro": "Verificați programul; s-ar putea să găsiți o expoziție sau un eveniment interesant.",
-            "en": "Check the schedule, you might catch an interesting exhibition or event."
+            "en": "Check the schedule, you might catch an interesting exhibition or event.",
+            "nl": "Controleer het programma; je kunt een interessante tentoonstelling of een evenement meepikken."
           }
         },
         {
@@ -105,7 +111,8 @@
             "de": "Stadspark",
             "hu": "Városi park",
             "ro": "Parcul Orașului",
-            "en": "City Park (Stadspark)"
+            "en": "City Park (Stadspark)",
+            "nl": "Stadspark"
           },
           "coords": [
             5.56,
@@ -123,7 +130,8 @@
             "de": "Windkorenmolen De Vriendschap",
             "hu": "De Vriendschap szélmalom",
             "ro": "Moara de vânt De Vriendschap",
-            "en": "De Vriendschap Windmill"
+            "en": "De Vriendschap Windmill",
+            "nl": "De Vriendschap-molen"
           },
           "coords": [
             5.548,
@@ -139,7 +147,8 @@
             "de": "Kaufen Sie im Mühlenladen frisch gemahlenes Mehl als Souvenir.",
             "hu": "Vásároljon frissen őrölt lisztet az ajándékboltban.",
             "ro": "Cumpărați făină proaspăt măcinată de la magazinul morii ca suvenir.",
-            "en": "Buy some freshly ground flour from the mill's shop as a souvenir."
+            "en": "Buy some freshly ground flour from the mill's shop as a souvenir.",
+            "nl": "Koop wat vers gemalen meel uit de molenwinkel als souvenir."
           }
         }
       ],
@@ -147,7 +156,8 @@
         "de": "Ihr Rundgang beginnt am belebten Thoomesplein und führt Sie durch das historische Herz von Veenendaal. Am Vormittag erkunden Sie die Oude Kerk und die lokale Geschichte im Museum Veenendaal. Nach dem Mittagessen in der Nähe der Cultuurfabriek bietet der Stadspark eine grüne Oase zur Entspannung. Der Tag endet mit einem Besuch der malerischen Windmühle De Vriendschap, einem Symbol des niederländischen Erbes.",
         "hu": "A séta Veenendaal történelmi szívében, a nyüzsgő Thoomesplein téren kezdődik. Délelőtt felfedezheti az Oude Kerk templomot és a helyi történelmet a Veenendaal Múzeumban. A Cultuurfabriek közelében elköltött ebéd után a Stadspark zöld oázisa nyújt kikapcsolódást. A napot a holland örökség jelképének számító, festői De Vriendschap szélmalomnál zárja.",
         "ro": "Turul pietonal începe în inima istorică a orașului Veenendaal, în vibranta Piață Thoomesplein. Dimineața explorați Biserica Veche și istoria locală la Muzeul Veenendaal. După prânzul lângă Fabrica de Cultură, Parcul Orașului oferă o oază de verdeață pentru relaxare. Ziua se încheie cu o vizită la pitoreasca moară de vânt De Vriendschap, un simbol al moștenirii olandeze.",
-        "en": "Your walking tour starts in the historic heart of Veenendaal at the bustling Thoomesplein. The morning is for exploring the Old Church and local history at Museum Veenendaal. After lunch near the Culture Factory, the Stadspark provides a green oasis for relaxation. The day concludes with a visit to the picturesque De Vriendschap windmill, a symbol of Dutch heritage."
+        "en": "Your walking tour starts in the historic heart of Veenendaal at the bustling Thoomesplein. The morning is for exploring the Old Church and local history at Museum Veenendaal. After lunch near the Culture Factory, the Stadspark provides a green oasis for relaxation. The day concludes with a visit to the picturesque De Vriendschap windmill, a symbol of Dutch heritage.",
+        "nl": "Je wandeltocht begint in het historische hart van Veenendaal op het levendige Thoomesplein. De ochtend is bedoeld voor het verkennen van De Oude Kerk en lokale geschiedenis in Museum Veenendaal. Na de lunch bij De Cultuurfabriek biedt het Stadspark een groene oase om te ontspannen. De dag wordt afgesloten met een bezoek aan de pittoreske De Vriendschap-molen, een symbool van Nederlands erfgoed."
       },
       "gastro_picks": {
         "de": [
@@ -319,6 +329,11 @@
           "Wear comfortable shoes as you'll be on your feet all day.",
           "Check the opening hours for the museum and the mill in advance.",
           "Many cafes in the center offer free Wi-Fi."
+        ],
+        "nl": [
+          "Draag comfortabele schoenen, je zult de hele dag lopen.",
+          "Controleer vooraf de openingstijden van het museum en de molen.",
+          "Veel cafés in het centrum bieden gratis wifi."
         ]
       },
       "variants": {
@@ -327,7 +342,8 @@
             "de": "Beginnen Sie Ihren Morgen am Thoomesplein mit einem Regenschirm und suchen Sie bald Schutz in der De Oude Kerk. Die historische Atmosphäre wirkt bei Regen besonders besinnlich.\n\nMittags bietet das Museum Veenendaal den perfekten trockenen Rückzugsort, um tief in die Torf- und Wollgeschichte der Stadt einzutauchen.\n\nDer Nachmittag gehört der Cultuurfabriek, einem modernen Hub, der ideal für regnerische Stunden ist. Ein kurzer Spaziergang durch den Stadspark zeigt die Natur in sattem Grün.\n\nBeenden Sie den Tag an der Mühle De Vriendschap, deren Silhouette auch unter grauen Wolken beeindruckt, bevor Sie sich in ein lokales Café flüchten.",
             "hu": "Kezdje a reggelt a Thoomesplein-en egy esernyővel, majd keressen menedéket a De Oude Kerk falaiban. A történelmi templom csendje esőben még meghittebb.\n\nDélben a Veenendaal Múzeum nyújt tökéletes száraz pihenőt, ahol alaposan megismerheti a város tőzeg- és gyapjúkereskedelmi múltját.\n\nDélután a Cultuurfabriek modern épülete ideális helyszín az eső elől; a könyvtár és a kulturális terek marasztalóak. Egy gyors séta a Városligetben frissítő, még szitáló esőben is.\n\nA napot a De Vriendschap szélmalomnál zárja, melynek monumentális látványa a szürke égbolt alatt is méltóságteljes, majd keressen egy közeli meleg teázót.",
             "ro": "Începeți dimineața în Piața Thoomesplein cu o umbrelă, căutând rapid adăpost în De Oude Kerk. Atmosfera istorică este deosebit de liniștită pe timp de ploaie.\n\nLa prânz, Muzeul Veenendaal oferă refugiul perfect uscat pentru a explora istoria producției de turbă și lână a orașului, departe de stropii de ploaie.\n\nDupă-amiaza este dedicată Cultuurfabriek, un centru cultural modern, ideal pentru a petrece orele ploioase. O scurtă plimbare prin Stadspark oferă un aer curat și vegetație vibrantă.\n\nÎncheiați ziua la moara De Vriendschap, a cărei siluetă rămâne impresionantă chiar și sub norii joși, înainte de a vă retrage într-o cafenea primitoare.",
-            "en": "Start your morning at Thoomesplein with an umbrella, soon seeking shelter within the walls of De Oude Kerk. The historic atmosphere feels especially contemplative in the rain.\n\nAt midday, Museum Veenendaal provides the perfect dry retreat to dive deep into the city's peat and wool industrial heritage.\n\nSpend the afternoon at De Cultuurfabriek, a modern cultural hub ideal for rainy hours. A brief walk through Stadspark reveals nature looking exceptionally lush and green.\n\nFinish the day at De Vriendschap Windmill, whose silhouette remains striking even under gray skies, before heading to a cozy local spot for a warm drink."
+            "en": "Start your morning at Thoomesplein with an umbrella, soon seeking shelter within the walls of De Oude Kerk. The historic atmosphere feels especially contemplative in the rain.\n\nAt midday, Museum Veenendaal provides the perfect dry retreat to dive deep into the city's peat and wool industrial heritage.\n\nSpend the afternoon at De Cultuurfabriek, a modern cultural hub ideal for rainy hours. A brief walk through Stadspark reveals nature looking exceptionally lush and green.\n\nFinish the day at De Vriendschap Windmill, whose silhouette remains striking even under gray skies, before heading to a cozy local spot for a warm drink.",
+            "nl": "Begin je ochtend op Thoomesplein met een paraplu en zoek al snel beschutting binnen de muren van De Oude Kerk. De historische sfeer voelt extra bedachtzaam in de regen.\n\n's Middags biedt Museum Veenendaal de perfecte droge toevlucht om dieper in de veen- en wolindustriegeschiedenis van de stad te duiken.\n\nBreng de namiddag door in De Cultuurfabriek, een modern cultureel centrum ideaal voor regenachtige uren. Een korte wandeling door het Stadspark toont de natuur uitzonderlijk weelderig en groen.\n\nSluit de dag af bij De Vriendschap-molen, waarvan de silhouet zelfs onder grijze luchten indrukwekkend blijft, voordat je naar een knusse plek in de stad gaat voor een warme drank."
           },
           "stops": [
             {
@@ -336,7 +352,8 @@
                 "de": "Regenschirm bereit halten; die Pflastersteine können bei Nässe rutschig sein.",
                 "hu": "Készítse elő az esernyőt; a tér kövezete esőben csúszós lehet.",
                 "ro": "Țineți umbrela la îndemână; pavajul pieței poate fi alunecos când este ud.",
-                "en": "Keep your umbrella ready; the square's cobblestones can be slippery when wet."
+                "en": "Keep your umbrella ready; the square's cobblestones can be slippery when wet.",
+                "nl": "Houd je paraplu gereed; de klinkers op het plein kunnen glad worden als ze nat zijn."
               }
             },
             {
@@ -345,7 +362,8 @@
                 "de": "Ein hervorragender Ort, um dem ersten Regenguss des Tages zu entkommen.",
                 "hu": "Kiváló helyszín, hogy elmeneküljön a nap első záporai elől.",
                 "ro": "Un loc excelent pentru a scăpa de primele averse ale zilei.",
-                "en": "An excellent place to escape the day's first downpours."
+                "en": "An excellent place to escape the day's first downpours.",
+                "nl": "Een uitstekende plek om te schuilen voor de eerste buien van de dag."
               }
             },
             {
@@ -354,7 +372,8 @@
                 "de": "Verlängern Sie Ihren Aufenthalt hier, um den stärksten Regen trocken zu überstehen.",
                 "hu": "Hosszabbítsa meg itt a tartózkodást, hogy szárazon vészelje át a legnagyobb esőt.",
                 "ro": "Prelungiți vizita aici pentru a trece peste cea mai densă ploaie în mod plăcut.",
-                "en": "Extend your stay here to pass the heaviest rain in dry comfort."
+                "en": "Extend your stay here to pass the heaviest rain in dry comfort.",
+                "nl": "Verleng je verblijf hier om de zwaarste regen in droge comfort uit te zitten."
               }
             },
             {
@@ -363,7 +382,8 @@
                 "de": "Großzügige Innenräume mit Café, ideal um Kleidung zu trocknen.",
                 "hu": "Tágas belső terek kávézóval, ideális a ruházat megszárításához.",
                 "ro": "Spații interioare generoase cu cafenea, ideale pentru a vă usca hainele.",
-                "en": "Spacious indoor areas with a cafe, ideal for drying off your gear."
+                "en": "Spacious indoor areas with a cafe, ideal for drying off your gear.",
+                "nl": "Ruime binnenruimtes met een café, ideaal om je uitrusting te drogen."
               }
             },
             {
@@ -372,7 +392,8 @@
                 "de": "Nutzen Sie die asphaltierten Wege, um Schlamm auf den Rasenflächen zu vermeiden.",
                 "hu": "Használja az aszfaltozott utakat, hogy elkerülje a sarat a füves részeken.",
                 "ro": "Folosiți aleile asfaltate pentru a evita noroiul de pe zonele cu iarbă.",
-                "en": "Stick to the paved paths to avoid mud on the grassy areas."
+                "en": "Stick to the paved paths to avoid mud on the grassy areas.",
+                "nl": "Blijf op de verharde paden om modder op de grasvelden te vermijden."
               }
             },
             {
@@ -381,7 +402,8 @@
                 "de": "Der Eingangsbereich bietet begrenzten Schutz vor Wind und Regen.",
                 "hu": "A bejárati rész korlátozott védelmet nyújt a szél és az eső ellen.",
                 "ro": "Zona de intrare oferă protecție limitată împotriva vântului și ploii.",
-                "en": "The entrance area provides limited shelter from the wind and rain."
+                "en": "The entrance area provides limited shelter from the wind and rain.",
+                "nl": "De entree biedt beperkte beschutting tegen wind en regen."
               }
             }
           ],
@@ -413,6 +435,13 @@
               "De Cultuurfabriek is your best bet for a long indoor stay if the rain doesn't let up.",
               "Check the wind forecast; umbrellas can be tricky to manage in open alleys.",
               "Many cafes around the market square offer cozy indoor seating for wet afternoons."
+            ],
+            "nl": [
+              "Het centrum van Veenendaal heeft meerdere overdekte winkelpassages die uitstekende regenroutes vormen.",
+              "Draag waterdicht schoeisel, omdat er snel plassen ontstaan in de oudere straatdelen.",
+              "De Cultuurfabriek is je beste optie voor een lange binnenpauze als de regen aanhoudt.",
+              "Controleer de windvoorspelling; paraplu's zijn lastig te hanteren in open stegen.",
+              "Veel cafés bij de markt bieden knusse zitplekken voor natte middagen."
             ]
           }
         },
@@ -421,7 +450,8 @@
             "de": "Genießen Sie die frische Winterluft am Thoomesplein. Der Platz wirkt in der klaren Kälte ruhig, und die De Oude Kerk bietet einen besinnlichen Start in den Tag.\n\nMittags wärmen Sie sich im Museum Veenendaal auf. Die Ausstellungen zur Stadtgeschichte sind in der kalten Jahreszeit ein behaglicher Ort der Entdeckung.\n\nDer Nachmittag in der Cultuurfabriek ist perfekt, um bei einem heißen Getränk dem Winterblues zu entgehen. Beobachten Sie das frühe Lichtspiel im Stadspark.\n\nWenn die Dämmerung gegen 16:30 Uhr einsetzt, beleuchtet die Abendsonne die Mühle De Vriendschap wunderschön, bevor die Kälte Sie zurück in die Wärme der Stadt zieht.",
             "hu": "Élvezze a friss téli levegőt a Thoomesplein-en. A tér csendes a tiszta hidegben, a De Oude Kerk pedig meghitt kezdést kínál a naphoz.\n\nDélben melegedjen fel a Veenendaal Múzeumban. A várostörténeti kiállítások a hideg évszakban különösen otthonos felfedezőhelyek.\n\nA délután a Cultuurfabriek-ben tökéletes, hogy egy forró ital mellett elkerülje a téli borút. Figyelje meg a korai fényeket a Városligetben.\n\nAmikor 16:30 körül beáll a szürkület, az esti fények gyönyörűen megvilágítják a De Vriendschap malmot, mielőtt a fagy visszaterelné a város melegébe.",
             "ro": "Bucurați-vă de aerul proaspăt de iarnă în Thoomesplein. Piața este liniștită în frigul clar, iar De Oude Kerk oferă un început meditativ al zilei.\n\nLa prânz, încălziți-vă în Muzeul Veenendaal. Expozițiile despre istoria orașului sunt un loc confortabil de explorare în sezonul rece.\n\nDupă-amiaza la Cultuurfabriek este perfectă pentru a evita frigul cu o băutură caldă. Observați jocurile de lumină timpurii din Stadspark.\n\nPe măsură ce amurgul se instalează în jurul orei 16:30, soarele palid luminează superb moara De Vriendschap, înainte ca gerul să vă trimită înapoi la căldura orașului.",
-            "en": "Enjoy the crisp winter air at Thoomesplein. The square feels peaceful in the clear cold, and De Oude Kerk offers a contemplative start to your morning.\n\nWarm up at midday inside Museum Veenendaal. The local history exhibits provide a cozy sanctuary for discovery during the cold season.\n\nAn afternoon at De Cultuurfabriek is perfect for escaping the winter chill with a hot drink. Catch the early golden hour light in Stadspark.\n\nAs dusk sets in around 4:30 PM, the low sun illuminates De Vriendschap Windmill beautifully before the frost drives you back to the city's warmth."
+            "en": "Enjoy the crisp winter air at Thoomesplein. The square feels peaceful in the clear cold, and De Oude Kerk offers a contemplative start to your morning.\n\nWarm up at midday inside Museum Veenendaal. The local history exhibits provide a cozy sanctuary for discovery during the cold season.\n\nAn afternoon at De Cultuurfabriek is perfect for escaping the winter chill with a hot drink. Catch the early golden hour light in Stadspark.\n\nAs dusk sets in around 4:30 PM, the low sun illuminates De Vriendschap Windmill beautifully before the frost drives you back to the city's warmth.",
+            "nl": "Geniet van de frisse winterlucht op Thoomesplein. Het plein voelt vredig in de heldere kou en De Oude Kerk biedt een contemplatief begin van je ochtend.\n\nWarm op rond het middaguur in Museum Veenendaal. De lokale geschiedeniscollecties vormen een gezellige toevlucht voor ontdekking in het koude seizoen.\n\nEen namiddag in De Cultuurfabriek is perfect om de winterkou te ontvluchten met een warme drank. Vang het vroege gouden uurtje in het Stadspark.\n\nAls de schemering rond 16:30 valt, verlicht het lage zonlicht De Vriendschap-molen prachtig voordat de vorst je terugdrijft naar de warmte van de stad."
           },
           "stops": [
             {
@@ -430,7 +460,8 @@
                 "de": "Achten Sie auf vereiste Stellen auf dem Kopfsteinpflaster am frühen Morgen.",
                 "hu": "Ügyeljen a jeges foltokra a macskaköveken kora reggel.",
                 "ro": "Atenție la porțiunile înghețate de pe pavaj la primele ore ale dimineții.",
-                "en": "Watch out for icy patches on the cobblestones during the early morning hours."
+                "en": "Watch out for icy patches on the cobblestones during the early morning hours.",
+                "nl": "Let op ijzige plekken op de klinkers tijdens de vroege ochtenduren."
               }
             },
             {
@@ -439,7 +470,8 @@
                 "de": "Im Inneren kann es kühl sein; behalten Sie Ihren Mantel für den Kurzbesuch an.",
                 "hu": "Odabent hűvös lehet; rövid látogatás idejére tartsa magán a kabátját.",
                 "ro": "Interiorul poate fi răcoros; păstrați haina pe dvs. pentru o vizită scurtă.",
-                "en": "It can be chilly inside; keep your coat on for a short, respectful visit."
+                "en": "It can be chilly inside; keep your coat on for a short, respectful visit.",
+                "nl": "Het kan fris zijn binnen; houd je jas aan voor een kort, respectvol bezoek."
               }
             },
             {
@@ -448,7 +480,8 @@
                 "de": "Nutzen Sie die Garderobe, um schwere Winterkleidung während der Tour abzulegen.",
                 "hu": "Használja a ruhatárat, hogy levegye a nehéz téli ruhákat a túra alatt.",
                 "ro": "Folosiți garderoba pentru a lăsa hainele groase de iarnă pe durata vizitei.",
-                "en": "Use the cloakroom to shed heavy winter layers while you explore the museum."
+                "en": "Use the cloakroom to shed heavy winter layers while you explore the museum.",
+                "nl": "Gebruik de garderobe om zware winterlagen achter te laten terwijl je het museum verkent."
               }
             },
             {
@@ -457,7 +490,8 @@
                 "de": "Der ideale Ort für eine Aufwärmpause mit Panoramablick auf die Stadt.",
                 "hu": "Ideális hely egy melegedő szünetre, panorámás kilátással a városra.",
                 "ro": "Locul ideal pentru o pauză de încălzire cu vedere panoramică asupra orașului.",
-                "en": "The ideal spot for a warm-up break with a panoramic view of the town."
+                "en": "The ideal spot for a warm-up break with a panoramic view of the town.",
+                "nl": "De ideale plek voor een opwarmpauze met panoramisch uitzicht over de stad."
               }
             },
             {
@@ -466,7 +500,8 @@
                 "de": "Besuchen Sie den Park vor 16:00 Uhr, um das Tageslicht optimal zu nutzen.",
                 "hu": "Látogasson el a parkba 16:00 előtt, hogy kihasználja a maradék nappali fényt.",
                 "ro": "Vizitați parcul înainte de ora 16:00 pentru a profita de lumina zilei.",
-                "en": "Visit the park before 4:00 PM to make the most of the remaining daylight."
+                "en": "Visit the park before 4:00 PM to make the most of the remaining daylight.",
+                "nl": "Bezoek het park voor 16:00 om optimaal van het resterende daglicht te profiteren."
               }
             },
             {
@@ -475,7 +510,8 @@
                 "de": "In der Winterdämmerung ist die beleuchtete Mühle ein fantastisches Fotomotiv.",
                 "hu": "A téli szürkületben a kivilágított malom fantasztikus fotótéma.",
                 "ro": "În amurgul de iarnă, moara iluminată este un subiect foto fantastic.",
-                "en": "The illuminated windmill makes for a fantastic photo subject in the winter dusk."
+                "en": "The illuminated windmill makes for a fantastic photo subject in the winter dusk.",
+                "nl": "De verlichte molen is geweldig voor foto’s in de winterse schemering."
               }
             }
           ],
@@ -507,6 +543,13 @@
               "Many central cafes serve seasonal Dutch favorites like 'erwtensoep' (pea soup).",
               "The Scheepjeshof shopping mall serves as a great heated corridor between city stops.",
               "Public buildings are generally well-heated and offer free Wi-Fi for adjusting your plans."
+            ],
+            "nl": [
+              "De zon gaat rond 16:30 onder in december; plan je buitenstops vroeg op de dag.",
+              "Draag handschoenen; de wind kan snijdend zijn in de openere delen van Veenendaal.",
+              "Veel centrale cafés serveren seizoensfavorieten zoals erwtensoep.",
+              "Winkelcentrum Scheepjeshof fungeert als een verwarmde corridor tussen stadsstops.",
+              "Publieke gebouwen zijn over het algemeen goed verwarmd en bieden gratis wifi om je plannen aan te passen."
             ]
           }
         }
@@ -525,7 +568,8 @@
             "de": "Thoomesplein",
             "hu": "Thoomesplein tér",
             "ro": "Piața Thoomesplein",
-            "en": "Thoomesplein Square"
+            "en": "Thoomesplein Square",
+            "nl": "Thoomesplein"
           },
           "coords": [
             5.553,
@@ -543,7 +587,8 @@
             "de": "De Cultuurfabriek",
             "hu": "De Cultuurfabriek",
             "ro": "Fabrica de Cultură",
-            "en": "The Culture Factory"
+            "en": "The Culture Factory",
+            "nl": "De Cultuurfabriek"
           },
           "coords": [
             5.552,
@@ -561,7 +606,8 @@
             "de": "Windkorenmolen De Vriendschap",
             "hu": "De Vriendschap szélmalom",
             "ro": "Moara de vânt De Vriendschap",
-            "en": "De Vriendschap Windmill"
+            "en": "De Vriendschap Windmill",
+            "nl": "De Vriendschap-molen"
           },
           "coords": [
             5.548,
@@ -579,7 +625,8 @@
             "de": "Stadspark",
             "hu": "Városi park",
             "ro": "Parcul Orașului",
-            "en": "City Park"
+            "en": "City Park",
+            "nl": "Stadspark"
           },
           "coords": [
             5.56,
@@ -597,7 +644,8 @@
             "de": "Julianakerk",
             "hu": "Julianakerk templom",
             "ro": "Biserica Juliana",
-            "en": "Julianakerk Church"
+            "en": "Julianakerk Church",
+            "nl": "Julianakerk"
           },
           "coords": [
             5.55,
@@ -615,7 +663,8 @@
             "de": "Museum Veenendaal",
             "hu": "Veenendaal Múzeum",
             "ro": "Muzeul Veenendaal",
-            "en": "Museum Veenendaal"
+            "en": "Museum Veenendaal",
+            "nl": "Museum Veenendaal"
           },
           "coords": [
             5.554,
@@ -631,7 +680,8 @@
             "de": "Ideal für eine Mittagspause, bevor Sie in die Geschichte eintauchen.",
             "hu": "Tökéletes egy ebédszünetre, mielőtt elmerülne a történelemben.",
             "ro": "Ideal pentru o pauză de prânz înainte de a vă cufunda în istorie.",
-            "en": "Perfect for a lunch break before delving into history."
+            "en": "Perfect for a lunch break before delving into history.",
+            "nl": "Perfect voor een lunchpauze voordat je de geschiedenis induikt."
           }
         },
         {
@@ -639,7 +689,8 @@
             "de": "Kwintelooijen",
             "hu": "Kwintelooijen természetvédelmi terület",
             "ro": "Rezervația naturală Kwintelooijen",
-            "en": "Kwintelooijen Nature Area"
+            "en": "Kwintelooijen Nature Area",
+            "nl": "Kwintelooijen"
           },
           "coords": [
             5.6,
@@ -655,7 +706,8 @@
             "de": "Ein schöner Kontrast zur Stadt. Nehmen Sie sich Zeit für einen Spaziergang zum Aussichtspunkt.",
             "hu": "Szép kontraszt a városhoz képest. Szánjon időt egy sétára a kilátóponthoz.",
             "ro": "Un contrast frumos cu orașul. Faceți-vă timp pentru o plimbare până la punctul de belvedere.",
-            "en": "A beautiful contrast to the city. Take your time for a walk to the viewpoint."
+            "en": "A beautiful contrast to the city. Take your time for a walk to the viewpoint.",
+            "nl": "Een mooi contrast met de stad. Neem de tijd voor een wandeling naar het uitkijkpunt."
           }
         }
       ],
@@ -663,7 +715,8 @@
         "de": "Diese Radtour verbindet städtische Highlights mit der umliegenden Natur. Der Morgen konzentriert sich auf das Zentrum mit der Mühle und dem Park. Nach dem Mittagessen und einem Museumsbesuch führt die Route Sie aus der Stadt hinaus in das Erholungsgebiet Kwintelooijen, wo Sie den Nachmittag mit atemberaubender Aussicht und frischer Luft verbringen können, bevor Sie in die Stadt zurückkehren.",
         "hu": "Ez a kerékpártúra összeköti a városi látnivalókat a környező természettel. A délelőtt a központra, a malomra és a parkra összpontosít. Ebéd és múzeumlátogatás után az útvonal kivisz a városból a Kwintelooijen üdülőterületre, ahol a délutánt lélegzetelállító kilátással és friss levegőn töltheti, mielőtt visszatérne a városba.",
         "ro": "Acest tur cu bicicleta combină atracțiile urbane cu natura înconjurătoare. Dimineața se concentrează pe centru, cu moara și parcul. După prânz și o vizită la muzeu, traseul vă duce în afara orașului, în zona de agrement Kwintelooijen, unde puteți petrece după-amiaza bucurându-vă de priveliști uimitoare și aer curat înainte de a vă întoarce în oraș.",
-        "en": "This bike tour combines urban highlights with surrounding nature. The morning focuses on the center with the windmill and park. After lunch and a museum visit, the route takes you out of the city to the Kwintelooijen recreational area, where you can spend the afternoon enjoying stunning views and fresh air before returning to the city."
+        "en": "This bike tour combines urban highlights with surrounding nature. The morning focuses on the center with the windmill and park. After lunch and a museum visit, the route takes you out of the city to the Kwintelooijen recreational area, where you can spend the afternoon enjoying stunning views and fresh air before returning to the city.",
+        "nl": "Deze fietstocht combineert stedelijke hoogtepunten met omliggende natuur. De ochtend richt zich op het centrum met de molen en het park. Na de lunch en een museumbezoek voert de route je buiten de stad naar het recreatiegebied Kwintelooijen, waar je de namiddag doorbrengt met genieten van het uitzicht en de frisse lucht voordat je terugkeert naar de stad."
       },
       "gastro_picks": {
         "de": [
@@ -835,6 +888,11 @@
           "Rent a well-maintained bicycle.",
           "Pay attention to the bike paths and local traffic rules.",
           "Always lock your bike, even for short stops."
+        ],
+        "nl": [
+          "Huur een goed onderhouden fiets.",
+          "Let op de fietspaden en lokale verkeersregels.",
+          "Zet altijd je fiets op slot, zelfs bij korte stops."
         ]
       },
       "variants": {
@@ -843,7 +901,8 @@
             "de": "Starten Sie vorsichtig am Thoomesplein; die nassen Ziegel erfordern volle Konzentration. Ein erster Halt an der Cultuurfabriek bietet trockenen Unterschlupf für Mensch und Rad.\n\nMittags radeln Sie zur Mühle De Vriendschap. Das Regenwetter verleiht der industriellen Kulisse eine dramatische Note. Danach bietet der Stadspark frische, feuchte Luft.\n\nDer Nachmittag führt zur Julianakerk und schließlich zum Museum Veenendaal, wo Sie die Fahrräder sicher abstellen und sich im Inneren aufwärmen können.\n\nZum Abschluss fordern die Wege nach Kwintelooijen Ihre Ausdauer heraus. Die hügelige Landschaft wirkt im Nebel mystisch, erfordert aber gute Bremsen auf dem Rückweg.",
             "hu": "Induljon óvatosan a Thoomesplein-ről; a vizes téglaburkolat teljes koncentrációt igényel. Az első megálló a Cultuurfabriek-nél száraz menedéket nyújt kerékpárnak és lovasnak.\n\nDélben tekerjen a De Vriendschap malomhoz. Az esős idő drámai hangulatot kölcsönöz az ipari környezetnek. Ezután a Városliget friss, párás levegője várja.\n\nA délután a Julianakerk, majd a Veenendaal Múzeum felé vezet, ahol biztonságban lelakatolhatja a bringát és bent felmelegedhet.\n\nBefejezésül a Kwintelooijen felé vezető utak próbára teszik kitartását. A dombos táj ködben misztikus, de a visszaúton jó fékekre lesz szükség.",
             "ro": "Porniți cu atenție din Thoomesplein; cărămizile ude necesită concentrare maximă. Prima oprire la Cultuurfabriek oferă un adăpost uscat pentru biciclist și bicicletă.\n\nLa prânz, pedalați spre moara De Vriendschap. Vremea ploioasă adaugă o notă dramatică decorului industrial. Apoi, Stadspark vă întâmpină cu aer proaspăt și umed.\n\nDupă-amiaza vă poartă spre Julianakerk și, în final, spre Muzeul Veenendaal, unde puteți parca bicicletele în siguranță și vă puteți încălzi la interior.\n\nLa final, drumurile spre Kwintelooijen vă provoacă rezistența. Peisajul deluros pare mistic în ceață, dar necesită frâne bune la întoarcere.",
-            "en": "Start cautiously at Thoomesplein; the wet bricks require full concentration. A first stop at De Cultuurfabriek offers dry shelter for both rider and bike.\n\nCycle to De Vriendschap Windmill at midday. The rainy weather adds a dramatic touch to the industrial backdrop. Afterward, Stadspark offers fresh, damp air.\n\nYour afternoon leads to Julianakerk and finally Museum Veenendaal, where you can lock your bike securely and warm up inside.\n\nTo finish, the paths to Kwintelooijen challenge your stamina. The hilly landscape looks mystical in the mist but requires reliable brakes on the way back."
+            "en": "Start cautiously at Thoomesplein; the wet bricks require full concentration. A first stop at De Cultuurfabriek offers dry shelter for both rider and bike.\n\nCycle to De Vriendschap Windmill at midday. The rainy weather adds a dramatic touch to the industrial backdrop. Afterward, Stadspark offers fresh, damp air.\n\nYour afternoon leads to Julianakerk and finally Museum Veenendaal, where you can lock your bike securely and warm up inside.\n\nTo finish, the paths to Kwintelooijen challenge your stamina. The hilly landscape looks mystical in the mist but requires reliable brakes on the way back.",
+            "nl": "Begin voorzichtig op Thoomesplein; de natte klinkers vereisen volledige concentratie. Een eerste stop bij De Cultuurfabriek biedt droge beschutting voor zowel ruiter als fiets.\n\nFiets naar De Vriendschap-molen rond het middaguur. Het regenachtige weer geeft een dramatisch accent aan het industriële decor. Daarna biedt het Stadspark frisse, vochtige lucht.\n\nJe middag leidt naar Julianakerk en uiteindelijk Museum Veenendaal, waar je je fiets veilig kunt stallen en kunt opwarmen binnen.\n\nAls afsluiting dagen de paden naar Kwintelooijen je uithoudingsvermogen uit. Het heuvelachtige landschap ziet er mystiek uit in de mist, maar vereist betrouwbare remmen op de terugweg."
           },
           "stops": [
             {
@@ -852,7 +911,8 @@
                 "de": "Bremsen Sie frühzeitig auf dem nassen Kopfsteinpflaster im Zentrum.",
                 "hu": "Fékezzen időben a központ vizes macskaköves szakaszain.",
                 "ro": "Frânați din timp pe pavajul ud din zona centrală.",
-                "en": "Apply your brakes early on the wet cobblestones in the town center."
+                "en": "Apply your brakes early on the wet cobblestones in the town center.",
+                "nl": "Rem vroeg op de natte klinkers in het stadscentrum."
               }
             },
             {
@@ -861,7 +921,8 @@
                 "de": "Nutzen Sie die überdachten Fahrradständer in der Nähe des Eingangs.",
                 "hu": "Használja a bejárat közeli fedett kerékpártárolókat.",
                 "ro": "Folosiți suporturile de biciclete acoperite din apropierea intrării.",
-                "en": "Utilize the covered bike racks located near the main entrance."
+                "en": "Utilize the covered bike racks located near the main entrance.",
+                "nl": "Gebruik de overdekte fietsrekken bij de hoofdingang."
               }
             },
             {
@@ -870,7 +931,8 @@
                 "de": "Vorsicht vor Seitenwinden beim Radfahren in der Nähe der offenen Mühle.",
                 "hu": "Vigyázzon az oldalszélre a nyitott malom környékén való tekeréskor.",
                 "ro": "Atenție la rafalele laterale de vânt când pedalați lângă moara expusă.",
-                "en": "Watch out for crosswinds when cycling near the exposed windmill area."
+                "en": "Watch out for crosswinds when cycling near the exposed windmill area.",
+                "nl": "Let op zijwind bij het fietsen in de open gebieden bij de molen."
               }
             },
             {
@@ -879,7 +941,8 @@
                 "de": "Die Wege können stellenweise Pfützen bilden; Schutzbleche sind empfohlen.",
                 "hu": "Az utakon helyenként tócsák lehetnek; a sárvédő erősen ajánlott.",
                 "ro": "Aleile pot avea bălți pe alocuri; apărătorile de noroi sunt recomandate.",
-                "en": "Paths may have puddles in places; mudguards are highly recommended."
+                "en": "Paths may have puddles in places; mudguards are highly recommended.",
+                "nl": "Op sommige paden kunnen plassen staan; spatborden zijn sterk aanbevolen."
               }
             },
             {
@@ -888,7 +951,8 @@
                 "de": "Ein ruhiger Ort für eine kurze Pause vom Regen während der Fahrt.",
                 "hu": "Csendes hely egy rövid pihenőre az eső elől menet közben.",
                 "ro": "Un loc liniștit pentru o scurtă pauză de ploaie în timpul traseului.",
-                "en": "A quiet spot for a quick break from the rain during your ride."
+                "en": "A quiet spot for a quick break from the rain during your ride.",
+                "nl": "Een rustige plek voor een korte pauze uit de regen tijdens je rit."
               }
             },
             {
@@ -897,7 +961,8 @@
                 "de": "Parken Sie hier für eine längere Pause, um die Regenbekleidung zu lüften.",
                 "hu": "Parkoljon itt egy hosszabb szünetre, hogy kiszellőztesse az esőruházatot.",
                 "ro": "Parcați aici pentru o pauză mai lungă, necesară aerisirii pelerinei.",
-                "en": "Park here for a longer break to air out your rain gear indoors."
+                "en": "Park here for a longer break to air out your rain gear indoors.",
+                "nl": "Parkeer hier voor een langere pauze om je regenuitrusting binnen te luchten."
               }
             },
             {
@@ -906,7 +971,8 @@
                 "de": "Die unbefestigten Wege können sehr schlammig und rutschig sein.",
                 "hu": "A burkolatlan utak nagyon sarasak és csúszósak lehetnek.",
                 "ro": "Drumurile neasfaltate pot deveni foarte noroioase și alunecoase.",
-                "en": "The unpaved trails can become quite muddy and slippery in the rain."
+                "en": "The unpaved trails can become quite muddy and slippery in the rain.",
+                "nl": "De onverharde paden kunnen bij regen erg modderig en glad worden."
               }
             }
           ],
@@ -938,6 +1004,13 @@
               "Avoid sudden braking on painted road markings or smooth manhole covers.",
               "The steep slopes of Kwintelooijen can be treacherous for bikes when wet.",
               "Most bike shops in Veenendaal offer quick lube services for wet chains."
+            ],
+            "nl": [
+              "Draag volledige regenkleding; de Nederlandse wind kan regen uit alle hoeken blazen.",
+              "Controleer je fietsverlichting; zichtbaarheid neemt sterk af bij zware buien.",
+              "Vermijd plots remmen op geverfde markeringen of gladde putdeksels.",
+              "De steile hellingen van Kwintelooijen kunnen verraderlijk zijn voor fietsen bij nat weer.",
+              "De meeste fietsenwinkels in Veenendaal bieden snelle smeerdiensten voor natte kettingen."
             ]
           }
         },
@@ -946,7 +1019,8 @@
             "de": "Ein frostiger Morgen am Thoomesplein beginnt Ihre winterliche Radtour. Die kalte Luft ist belebend, solange Sie sich bewegen.\n\nMittags bietet die Cultuurfabriek die nötige Wärme und ein heißes Getränk, bevor es zur Mühle De Vriendschap geht, die im Winterlicht besonders markant aussieht.\n\nDer Stadspark und die Julianakerk liegen auf der Route zum Museum Veenendaal. Planen Sie hier längere Pausen im Warmen ein, um die Kälte aus den Knochen zu vertreiben.\n\nBeenden Sie die Tour in Kwintelooijen. Die gefrorene Naturlandschaft ist atemberaubend, aber kehren Sie vor Einbruch der frühen Dunkelheit gegen 16:30 Uhr zurück, um sicher zu Hause anzukommen.",
             "hu": "Dérlepte reggel fogadja a Thoomesplein-en a téli bringatúra kezdetén. A hideg levegő élénkítő, amíg mozgásban marad.\n\nDélben a Cultuurfabriek nyújtja a szükséges meleget és egy forró italt, mielőtt a De Vriendschap malomhoz indulna, mely a téli fényben különösen karakteres.\n\nA Városliget és a Julianakerk útba esik a Veenendaal Múzeum felé. Tervezzen itt hosszabb benti pihenőket, hogy kiűzze a hideget a tagjaiból.\n\nA túrát a Kwintelooijen-nél zárja. A fagyott táj lélegzetelállító, de forduljon vissza a korai, 16:30-as sötétedés előtt, hogy biztonságban hazaérjen.",
             "ro": "O dimineață geroasă în Thoomesplein dă startul turului dvs. cu bicicleta. Aerul rece este revigorant atâta timp cât vă aflați în mișcare.\n\nLa prânz, Cultuurfabriek oferă căldura necesară și o băutură caldă înainte de a merge spre moara De Vriendschap, care arată spectaculos în lumina iernii.\n\nStadspark și Julianakerk sunt pe drumul spre Muzeul Veenendaal. Planificați pauze mai lungi la interior aici pentru a alunga frigul din oase.\n\nÎncheiați turul în Kwintelooijen. Peisajul natural înghețat este uluitor, dar întoarceți-vă înainte de lăsarea serii la ora 16:30 pentru a ajunge în siguranță.",
-            "en": "A frosty morning at Thoomesplein kicks off your winter bike tour. The cold air is invigorating as long as you keep moving.\n\nAt midday, De Cultuurfabriek provides much-needed warmth and a hot drink before you head to De Vriendschap Windmill, which looks especially striking in winter light.\n\nStadspark and Julianakerk are on the route to Museum Veenendaal. Plan for longer indoor breaks here to shake off the cold from your bones.\n\nEnd the tour at Kwintelooijen. The frozen natural landscape is breathtaking, but ensure you return before the early darkness hits at 4:30 PM for a safe trip back."
+            "en": "A frosty morning at Thoomesplein kicks off your winter bike tour. The cold air is invigorating as long as you keep moving.\n\nAt midday, De Cultuurfabriek provides much-needed warmth and a hot drink before you head to De Vriendschap Windmill, which looks especially striking in winter light.\n\nStadspark and Julianakerk are on the route to Museum Veenendaal. Plan for longer indoor breaks here to shake off the cold from your bones.\n\nEnd the tour at Kwintelooijen. The frozen natural landscape is breathtaking, but ensure you return before the early darkness hits at 4:30 PM for a safe trip back.",
+            "nl": "Een ijskoude ochtend op Thoomesplein trapt je winterfietstocht af. De koude lucht is verkwikkend zolang je in beweging blijft.\n\nRond het middaguur biedt De Cultuurfabriek broodnodige warmte en een warme drank voordat je naar De Vriendschap-molen gaat, die er in winterlicht extra scherp uitziet.\n\nStadspark en Julianakerk liggen op de route naar Museum Veenendaal. Plan hier langere binnenpauzes om de kou uit je lichaam te schudden.\n\nSluit de tocht af bij Kwintelooijen. Het bevroren landschap is adembenemend, maar zorg dat je terugkeert voordat de vroege duisternis rond 16:30 aanbreekt voor een veilige terugreis."
           },
           "stops": [
             {
@@ -955,7 +1029,8 @@
                 "de": "Tragen Sie warme Handschuhe; der Metalllenker entzieht den Fingern schnell Wärme.",
                 "hu": "Viseljen meleg kesztyűt; a fém kormány hamar kiszívja a meleget az ujjaiból.",
                 "ro": "Purtați mănuși groase; ghidonul metalic extrage rapid căldura din degete.",
-                "en": "Wear warm gloves; the metal handlebars will quickly sap the heat from your fingers."
+                "en": "Wear warm gloves; the metal handlebars will quickly sap the heat from your fingers.",
+                "nl": "Draag warme handschoenen; de metalen stuurpen koelt je vingers snel af."
               }
             },
             {
@@ -964,7 +1039,8 @@
                 "de": "Ein idealer Ort, um die Gliedmaßen bei einem heißen Kakao aufzuwärmen.",
                 "hu": "Ideális hely a végtagok felmelegítésére egy forró kakaó mellett.",
                 "ro": "Locul ideal pentru a vă încălzi extremitățile cu o ciocolată caldă.",
-                "en": "An ideal spot to warm up your limbs with a hot cocoa break."
+                "en": "An ideal spot to warm up your limbs with a hot cocoa break.",
+                "nl": "Een ideale plek om je ledematen op te warmen met een warme chocolademelk."
               }
             },
             {
@@ -973,7 +1049,8 @@
                 "de": "Der Boden rund um die Mühle kann bei Frost extrem glatt sein.",
                 "hu": "A malom körüli talaj fagy esetén rendkívül csúszós lehet.",
                 "ro": "Solul din jurul morii poate fi extrem de alunecos în caz de îngheț.",
-                "en": "The ground around the windmill can be extremely slippery in freezing conditions."
+                "en": "The ground around the windmill can be extremely slippery in freezing conditions.",
+                "nl": "De grond rond de molen kan bij vriesweer extreem glad zijn."
               }
             },
             {
@@ -982,7 +1059,8 @@
                 "de": "Die Wege sind bei Frost oft fester als im Sommer, aber Vorsicht in Kurven.",
                 "hu": "Fagyban az utak gyakran keményebbek, mint nyáron, de vigyázzon a kanyarokban.",
                 "ro": "Aleile sunt adesea mai rigide în caz de îngheț, dar atenție la curbe.",
-                "en": "Paths are often firmer in the frost than in summer, but watch out on corners."
+                "en": "Paths are often firmer in the frost than in summer, but watch out on corners.",
+                "nl": "Paden zijn in de vorst vaak steviger dan in de zomer, maar wees voorzichtig in bochten."
               }
             },
             {
@@ -991,7 +1069,8 @@
                 "de": "Ein windgeschützter Stopp, um die Fahrradbrille zu reinigen.",
                 "hu": "Szélvédett megálló, ahol megtisztíthatja a kerékpáros szemüvegét.",
                 "ro": "O oprire ferită de vânt pentru a vă curăța ochelarii de ciclism.",
-                "en": "A wind-sheltered stop to clean your cycling glasses if they fog up."
+                "en": "A wind-sheltered stop to clean your cycling glasses if they fog up.",
+                "nl": "Een door de wind beschut plekje om je fietsbril schoon te maken als hij beslaat."
               }
             },
             {
@@ -1000,7 +1079,8 @@
                 "de": "Gönnen Sie sich eine lange Pause, um die Körpertemperatur zu stabilisieren.",
                 "hu": "Engedjen meg magának egy hosszú szünetet a testhőmérséklet stabilizálásához.",
                 "ro": "Permiteți-vă o pauză lungă pentru a vă stabiliza temperatura corpului.",
-                "en": "Allow yourself a long break to stabilize your body temperature indoors."
+                "en": "Allow yourself a long break to stabilize your body temperature indoors.",
+                "nl": "Gun jezelf een lange pauze om je lichaamstemperatuur binnen te stabiliseren."
               }
             },
             {
@@ -1009,7 +1089,8 @@
                 "de": "Planen Sie den Rückweg so, dass Sie vor Sonnenuntergang (16:30) im Ort sind.",
                 "hu": "Úgy tervezze a visszautat, hogy naplemente (16:30) előtt beérjen a városba.",
                 "ro": "Planificați drumul de întoarcere pentru a fi în oraș înainte de apus (16:30).",
-                "en": "Plan your return trip to be back in town before the 4:30 PM sunset."
+                "en": "Plan your return trip to be back in town before the 4:30 PM sunset.",
+                "nl": "Plan je terugreis zodat je vóór zonsondergang om 16:30 uur terug in de stad bent."
               }
             }
           ],
@@ -1041,6 +1122,13 @@
               "Watch out for 'black ice' (invisible freezing) on less-traveled side streets.",
               "The sun hangs low; sunglasses help prevent glare from snow or frost-covered surfaces.",
               "Grab some 'Oliebollen' from a local bakery if you're visiting in December."
+            ],
+            "nl": [
+              "Gebruik winterbanden of verlaag de bandenspanning iets voor betere grip op ijzige wegen.",
+              "De kou laat e-batterijen sneller leeglopen; zorg dat je met 100% begint.",
+              "Let op voor 'zwarte ijs' (onzichtbare gladheid) op minder drukke zijstraten.",
+              "De zon staat laag; een zonnebril voorkomt verblinding door sneeuw of rijp bedekte oppervlakken.",
+              "Haal wat oliebollen bij een lokale bakker als je in december bezoekt."
             ]
           }
         }
@@ -1059,7 +1147,8 @@
             "de": "Cluster Zentrum: Parkhaus",
             "hu": "Központi klaszter: Parkolóház",
             "ro": "Cluster Centru: Parcare",
-            "en": "Center Cluster: Parking"
+            "en": "Center Cluster: Parking",
+            "nl": "Centrumcluster: Parkeren"
           },
           "coords": [
             5.551,
@@ -1077,7 +1166,8 @@
             "de": "Thoomesplein",
             "hu": "Thoomesplein tér",
             "ro": "Piața Thoomesplein",
-            "en": "Thoomesplein Square"
+            "en": "Thoomesplein Square",
+            "nl": "Thoomesplein"
           },
           "coords": [
             5.553,
@@ -1095,7 +1185,8 @@
             "de": "De Oude Kerk",
             "hu": "Oude Kerk (Régi templom)",
             "ro": "Biserica Veche",
-            "en": "The Old Church"
+            "en": "The Old Church",
+            "nl": "De Oude Kerk"
           },
           "coords": [
             5.5535,
@@ -1113,7 +1204,8 @@
             "de": "Museum Veenendaal",
             "hu": "Veenendaal Múzeum",
             "ro": "Muzeul Veenendaal",
-            "en": "Museum Veenendaal"
+            "en": "Museum Veenendaal",
+            "nl": "Museum Veenendaal"
           },
           "coords": [
             5.554,
@@ -1129,7 +1221,8 @@
             "de": "Nehmen Sie sich Zeit, die reiche Textil- und Zigarrengeschichte der Stadt zu entdecken.",
             "hu": "Szánjon időt a város gazdag textil- és szivar-történetének felfedezésére.",
             "ro": "Luați-vă timp pentru a explora bogata istorie textilă și a trabucurilor din oraș.",
-            "en": "Take your time to explore the city's rich history of textiles and cigars."
+            "en": "Take your time to explore the city's rich history of textiles and cigars.",
+            "nl": "Neem de tijd om de rijke geschiedenis van textiel en sigaren in de stad te ontdekken."
           }
         },
         {
@@ -1137,7 +1230,8 @@
             "de": "Cluster Natur: Kwintelooijen",
             "hu": "Természeti klaszter: Kwintelooijen",
             "ro": "Cluster Natură: Kwintelooijen",
-            "en": "Nature Cluster: Kwintelooijen"
+            "en": "Nature Cluster: Kwintelooijen",
+            "nl": "Natuurcluster: Kwintelooijen"
           },
           "coords": [
             5.6,
@@ -1155,7 +1249,8 @@
             "de": "Cluster Mühle: Windkorenmolen De Vriendschap",
             "hu": "Malom klaszter: De Vriendschap szélmalom",
             "ro": "Cluster Moară: Moara De Vriendschap",
-            "en": "Mill Cluster: De Vriendschap Windmill"
+            "en": "Mill Cluster: De Vriendschap Windmill",
+            "nl": "Molencluster: Molen De Vriendschap"
           },
           "coords": [
             5.548,
@@ -1171,7 +1266,8 @@
             "de": "Ein perfekter Abschluss des Tages, um das goldene Licht auf den Flügeln der Mühle zu sehen.",
             "hu": "Tökéletes befejezése a napnak, ahogy az arany fények megcsillannak a malom lapátjain.",
             "ro": "Un final perfect pentru o zi, surprinzând lumina aurie pe aripile morii.",
-            "en": "A perfect end to the day, catching the golden light on the mill's sails."
+            "en": "A perfect end to the day, catching the golden light on the mill's sails.",
+            "nl": "Een perfecte afsluiting van de dag: het gouden licht vangen op de wieken van de molen."
           }
         }
       ],
@@ -1179,7 +1275,8 @@
         "de": "Mit dem Auto erkunden Sie Veenendaal und Umgebung in bequemen Clustern. Sie parken im Zentrum und entdecken zu Fuß das historische Herz mit dem Thoomesplein, der Kirche und dem Museum. Nach dem Mittagessen fahren Sie ins nahegelegene Naturschutzgebiet Kwintelooijen für einen ausgedehnten Spaziergang. Der Tag endet bei der Windmühle De Vriendschap, einem weiteren kurzen Halt, bevor Sie den Tag ausklingen lassen.",
         "hu": "Autóval kényelmes klaszterekben fedezheti fel Veenendaalt és környékét. A központban parkolva gyalogosan járhatja be a történelmi belvárost a Thoomesplein térrel, a templommal és a múzeummal. Ebéd után a közeli Kwintelooijen természetvédelmi területre hajt, ahol egy hosszabb sétát tehet. A nap a De Vriendschap szélmalomnál ér véget, egy újabb rövid megállóval, mielőtt lezárná a napot.",
         "ro": "Cu mașina, explorați Veenendaal și împrejurimile în grupuri convenabile. Parcați în centru și descoperiți pe jos inima istorică, cu Piața Thoomesplein, biserica și muzeul. După prânz, conduceți spre rezervația naturală din apropiere, Kwintelooijen, pentru o plimbare extinsă. Ziua se încheie la moara de vânt De Vriendschap, o altă oprire scurtă înainte de a încheia ziua.",
-        "en": "By car, you explore Veenendaal and its surroundings in convenient clusters. You'll park in the center and discover the historic heart on foot, including Thoomesplein, the church, and the museum. After lunch, you drive to the nearby Kwintelooijen nature reserve for an extended walk. The day concludes at the De Vriendschap windmill, another short stop before you call it a day."
+        "en": "By car, you explore Veenendaal and its surroundings in convenient clusters. You'll park in the center and discover the historic heart on foot, including Thoomesplein, the church, and the museum. After lunch, you drive to the nearby Kwintelooijen nature reserve for an extended walk. The day concludes at the De Vriendschap windmill, another short stop before you call it a day.",
+        "nl": "Met de auto verken je Veenendaal en omgeving in handige clusters. Je parkeert in het centrum en ontdekt het historische hart te voet, inclusief Thoomesplein, de kerk en het museum. Na de lunch rijd je naar het nabijgelegen natuurgebied Kwintelooijen voor een langere wandeling. De dag eindigt bij molen De Vriendschap, een korte stop voordat je naar huis gaat."
       },
       "gastro_picks": {
         "de": [
@@ -1335,6 +1432,11 @@
           "Use Park and Ride facilities if available.",
           "Watch out for cyclists, who always have priority.",
           "Plan your route in advance to avoid traffic jams."
+        ],
+        "nl": [
+          "Maak gebruik van Park & Ride-faciliteiten indien beschikbaar.",
+          "Let op fietsers; zij hebben altijd voorrang.",
+          "Plan je route van tevoren om files te vermijden."
         ]
       },
       "variants": {
@@ -1343,7 +1445,8 @@
             "de": "Parken Sie bequem im Zentrum von Veenendaal. Ein regnerischer Morgen am Thoomesplein lässt sich mit dem Auto viel entspannter angehen.\n\nBesuchen Sie die De Oude Kerk und danach das Museum Veenendaal. Da Sie den Wagen in der Nähe haben, müssen Sie sich keine Sorgen um nasse Einkäufe oder schwere Mäntel machen.\n\nAm Nachmittag fahren Sie zum Kwintelooijen-Naturgebiet. Selbst bei Regen bietet die Fahrt durch die Region schöne Ausblicke, und Sie können den größten Schauer im Auto abwarten.\n\nBeenden Sie Ihre Tour an der Mühle De Vriendschap. Der Parkplatz direkt vor Ort ermöglicht einen schnellen Besuch, bevor Sie trocken die Heimreise antreten.",
             "hu": "Parkoljon kényelmesen Veenendaal központjában. Az esős reggel a Thoomesplein-en sokkal pihentetőbb, ha autóval érkezik.\n\nLátogassa meg a De Oude Kerk-et, majd a Veenendaal Múzeumot. Mivel az autó a közelben van, nem kell aggódnia a vizes ruhák vagy a nehéz táskák miatt.\n\nDélután autózzon ki a Kwintelooijen természetvédelmi területre. Esőben is szép a kilátás az útról, és a kocsiban várhatja meg a nagyobb záporok végét.\n\nA túrát a De Vriendschap malomnál zárja. A közvetlen parkoló lehetővé teszi a gyors látogatást, mielőtt szárazon elindulna hazafelé.",
             "ro": "Parcați confortabil în centrul orașului Veenendaal. O dimineață ploioasă în Thoomesplein este mult mai relaxantă când veniți cu mașina.\n\nVizitați De Oude Kerk și apoi Muzeul Veenendaal. Având mașina aproape, nu trebuie să vă faceți griji pentru hainele ude sau bagajele grele.\n\nDupă-amiaza, conduceți spre zona naturală Kwintelooijen. Chiar și pe ploaie, drumul prin regiune oferă priveliști frumoase, iar în mașină puteți aștepta trecerea averselor.\n\nÎncheiați turul la moara De Vriendschap. Parcarea de la fața locului permite o vizită rapidă înainte de a pleca spre casă, la adăpost de ploaie.",
-            "en": "Park conveniently in the center of Veenendaal. A rainy morning at Thoomesplein is much more relaxed when approaching by car.\n\nVisit De Oude Kerk and then Museum Veenendaal. With your car nearby, you don't need to worry about carrying wet gear or heavy coats throughout the day.\n\nIn the afternoon, drive out to the Kwintelooijen nature area. Even in the rain, the drive through the region offers scenic views, and you can wait out heavy showers in your vehicle.\n\nFinish your tour at De Vriendschap Windmill. The on-site parking allows for a quick visit before you head home in dry comfort."
+            "en": "Park conveniently in the center of Veenendaal. A rainy morning at Thoomesplein is much more relaxed when approaching by car.\n\nVisit De Oude Kerk and then Museum Veenendaal. With your car nearby, you don't need to worry about carrying wet gear or heavy coats throughout the day.\n\nIn the afternoon, drive out to the Kwintelooijen nature area. Even in the rain, the drive through the region offers scenic views, and you can wait out heavy showers in your vehicle.\n\nFinish your tour at De Vriendschap Windmill. The on-site parking allows for a quick visit before you head home in dry comfort.",
+            "nl": "Parkeer gemakkelijk in het centrum van Veenendaal. Een regenachtige ochtend op Thoomesplein is veel relaxter als je met de auto aankomt.\n\nBezoek De Oude Kerk en vervolgens Museum Veenendaal. Met je auto in de buurt hoef je je geen zorgen te maken over het dragen van natte spullen of zware jassen gedurende de dag.\n\nRijd in de middag naar het natuurgebied Kwintelooijen. Zelfs bij regen biedt de rit door de regio mooie uitzichten, en je kunt zware buien in je voertuig uit zitten.\n\nSluit je rondleiding af bij molen De Vriendschap. De parkeergelegenheid ter plaatse maakt een kort bezoek mogelijk voordat je droog en comfortabel naar huis rijdt."
           },
           "stops": [
             {
@@ -1352,7 +1455,8 @@
                 "de": "Nutzen Sie Parkhäuser wie 'Arie van Hensbergen', um trocken ins Zentrum zu kommen.",
                 "hu": "Használja az 'Arie van Hensbergen' típusú parkolóházakat a száraz bejutáshoz.",
                 "ro": "Folosiți parcările supraetajate pentru a ajunge uscat în zona centrală.",
-                "en": "Use multi-story car parks like 'Arie van Hensbergen' for dry access to the center."
+                "en": "Use multi-story car parks like 'Arie van Hensbergen' for dry access to the center.",
+                "nl": "Gebruik parkeergarages zoals 'Arie van Hensbergen' voor droge toegang tot het centrum."
               }
             },
             {
@@ -1361,7 +1465,8 @@
                 "de": "Lassen Sie Ihren Regenschirm im Auto, bis Sie den Parkplatz verlassen.",
                 "hu": "Hagyja az esernyőt az autóban, amíg el nem hagyja a parkolóhelyet.",
                 "ro": "Lăsați umbrela în mașină până când ieșiți efectiv din parcare.",
-                "en": "Keep your umbrella in the car until you're ready to exit the parking area."
+                "en": "Keep your umbrella in the car until you're ready to exit the parking area.",
+                "nl": "Houd je paraplu in de auto tot je klaar bent om de parkeerruimte te verlaten."
               }
             },
             {
@@ -1370,7 +1475,8 @@
                 "de": "Nur ein kurzer Fußweg vom Parkhaus entfernt, ideal bei Regen.",
                 "hu": "Csak rövid séta a parkolóháztól, ideális esős időben.",
                 "ro": "La doar o scurtă plimbare de parcare, ideal pe timp de ploaie.",
-                "en": "Just a short walk from the parking garage, ideal for rainy weather."
+                "en": "Just a short walk from the parking garage, ideal for rainy weather.",
+                "nl": "Slechts een korte wandeling vanaf de parkeergarage, ideaal bij regenachtig weer."
               }
             },
             {
@@ -1379,7 +1485,8 @@
                 "de": "Nutzen Sie den Museumshalt, um sich vollständig abzutrocknen.",
                 "hu": "Használja ki a múzeumi megállót a teljes megszáradáshoz.",
                 "ro": "Profită de oprirea la muzeu pentru a te usca complet.",
-                "en": "Take advantage of the museum stop to dry off completely."
+                "en": "Take advantage of the museum stop to dry off completely.",
+                "nl": "Gebruik het museumbezoek om volledig op te drogen."
               }
             },
             {
@@ -1388,7 +1495,8 @@
                 "de": "Der Parkplatz bietet eine gute Sicht auf die Landschaft, auch ohne auszusteigen.",
                 "hu": "A parkolóból jó kilátás nyílik a tájra, akár kiszállás nélkül is.",
                 "ro": "Parcarea oferă o vedere bună asupra peisajului, chiar și fără a coborî.",
-                "en": "The parking area offers a great view of the landscape even without exiting."
+                "en": "The parking area offers a great view of the landscape even without exiting.",
+                "nl": "Vanaf de parkeerplaats heb je een mooi uitzicht op het landschap zonder uit te stappen."
               }
             },
             {
@@ -1397,7 +1505,8 @@
                 "de": "Parken Sie so nah wie möglich am Eingang, um den Regen zu vermeiden.",
                 "hu": "Parkoljon a lehető legközelebb a bejárathoz, hogy elkerülje az esőt.",
                 "ro": "Parcați cât mai aproape de intrare pentru a evita ploaia.",
-                "en": "Park as close to the entrance as possible to minimize rain exposure."
+                "en": "Park as close to the entrance as possible to minimize rain exposure.",
+                "nl": "Parkeer zo dicht mogelijk bij de ingang om regencontact te minimaliseren."
               }
             }
           ],
@@ -1429,6 +1538,13 @@
               "The drive to Kwintelooijen involves narrow roads; exercise extra caution in the rain.",
               "Use a parking app to easily extend your stay if you decide to wait out a shower.",
               "Avoid leaving wet umbrellas on car seats to prevent moisture damage or stains."
+            ],
+            "nl": [
+              "Veenendaal gebruikt een intelligent parkeergeleidingssysteem dat vrije plekken in real-time toont.",
+              "Let op beslagen ruiten; de luchtvochtigheid in Nederland is vaak erg hoog.",
+              "De weg naar Kwintelooijen is smal; wees extra voorzichtig bij regen.",
+              "Gebruik een parkeerapp om je verblijf eenvoudig te verlengen als je een bui wilt uitzitten.",
+              "Laat geen natte paraplu's op autostoelen liggen om vochtschade of vlekken te voorkomen."
             ]
           }
         },
@@ -1437,7 +1553,8 @@
             "de": "Beginnen Sie Ihren winterlichen Tag in Veenendaal entspannt mit dem Auto. Der Thoomesplein im Frost ist ein schöner Anblick, wenn Sie aus dem warmen Wagen steigen.\n\nNach der De Oude Kerk bietet das Museum Veenendaal eine wohlige Wärme. Ihr Auto dient als sichere Basis für alle Winterutensilien.\n\nAm Nachmittag führt die Fahrt zum Nature Cluster Kwintelooijen. Die gefrorenen Hügel sind vom warmen Cockpit aus genauso beeindruckend wie bei einem kurzen Spaziergang.\n\nBeenden Sie den Tag an der Mühle De Vriendschap. Da die Sonne früh untergeht, ist die Fahrt zurück durch die beleuchtete Stadt ein glanzvoller Abschluss Ihres Ausflugs.",
             "hu": "Kezdje a téli napot Veenendaalban kényelmesen, autóval. A fagyos Thoomesplein szép látvány, ahogy kiszáll a meleg kocsiból.\n\nA De Oude Kerk után a Veenendaal Múzeum nyújt kellemes meleget. Az autója biztonságos bázisként szolgál minden téli felszerelésnek.\n\nDélután az út a Kwintelooijen természeti területre vezet. A fagyott dombok a meleg autóból nézve is éppoly lenyűgözőek, mint egy rövid séta során.\n\nZárja a napot a De Vriendschap malomnál. Mivel a nap korán nyugszik, a kivilágított városon átvezető út ragyogó befejezése a kirándulásnak.",
             "ro": "Începeți ziua de iarnă în Veenendaal relaxat, cu mașina. Thoomesplein înghețat este o priveliște frumoasă când coborâți din vehiculul cald.\n\nDupă De Oude Kerk, Muzeul Veenendaal oferă o căldură primitoare. Mașina dvs. servește ca bază sigură pentru toate accesoriile de iarnă.\n\nDupă-amiaza, drumul vă duce spre Kwintelooijen. Dealurile înghețate sunt la fel de impresionante din cockpitul cald ca și în timpul unei scurte plimbări.\n\nÎncheiați ziua la moara De Vriendschap. Deoarece soarele apune devreme, drumul de întoarcere prin orașul iluminat este un final strălucitor al excursiei.",
-            "en": "Start your winter day in Veenendaal comfortably by car. The frosty Thoomesplein is a beautiful sight as you step out of your warm vehicle.\n\nFollowing De Oude Kerk, Museum Veenendaal offers a welcoming warmth. Your car serves as a secure base for all your winter gear throughout the day.\n\nIn the afternoon, drive to the Kwintelooijen nature area. The frozen hills are just as impressive from your warm cockpit as they are during a brief walk.\n\nEnd the day at De Vriendschap Windmill. Since the sun sets early, the drive back through the illuminated town provides a brilliant finish to your excursion."
+            "en": "Start your winter day in Veenendaal comfortably by car. The frosty Thoomesplein is a beautiful sight as you step out of your warm vehicle.\n\nFollowing De Oude Kerk, Museum Veenendaal offers a welcoming warmth. Your car serves as a secure base for all your winter gear throughout the day.\n\nIn the afternoon, drive to the Kwintelooijen nature area. The frozen hills are just as impressive from your warm cockpit as they are during a brief walk.\n\nEnd the day at De Vriendschap Windmill. Since the sun sets early, the drive back through the illuminated town provides a brilliant finish to your excursion.",
+            "nl": "Begin je winterdag in Veenendaal comfortabel met de auto. Het met rijp bedekte Thoomesplein is een prachtig gezicht als je uitstapt uit je warme voertuig.\n\nNa De Oude Kerk biedt Museum Veenendaal aangename warmte. Je auto dient de hele dag als veilige basis voor al je winterspullen.\n\nRijd in de middag naar het natuurgebied Kwintelooijen. De bevroren heuvels zijn net zo indrukwekkend vanuit je warme auto als tijdens een korte wandeling.\n\nEindig de dag bij molen De Vriendschap. Omdat de zon vroeg ondergaat, vormt de terugrit door het verlichte stadje een schitterende afsluiting van je uitje."
           },
           "stops": [
             {
@@ -1446,7 +1563,8 @@
                 "de": "Parkhäuser schützen Ihr Auto vor Frost und dem lästigen Eiskratzen.",
                 "hu": "A parkolóházak megvédik az autót a fagytól és a jegesedéstől.",
                 "ro": "Parcările acoperite protejează mașina de îngheț și de necesitatea curățării gheții.",
-                "en": "Multi-story car parks protect your vehicle from frost and the need to scrape ice."
+                "en": "Multi-story car parks protect your vehicle from frost and the need to scrape ice.",
+                "nl": "Parkeergarages beschermen je voertuig tegen rijp en het hoeven krabben van ijs."
               }
             },
             {
@@ -1455,7 +1573,8 @@
                 "de": "Prüfen Sie vor dem Aussteigen die Außentemperatur; der Boden kann glatt sein.",
                 "hu": "Kiszállás előtt ellenőrizze a kinti hőmérsékletet; a talaj csúszós lehet.",
                 "ro": "Verificați temperatura exterioară înainte de a coborî; solul poate fi alunecos.",
-                "en": "Check the outside temperature before exiting; the ground may be slippery."
+                "en": "Check the outside temperature before exiting; the ground may be slippery.",
+                "nl": "Controleer de buitentemperatuur voordat je uitstapt; de ondergrond kan glad zijn."
               }
             },
             {
@@ -1464,7 +1583,8 @@
                 "de": "Ein kurzer Fußweg ermöglicht es, die Winterjacke im Auto zu lassen.",
                 "hu": "A rövid séta lehetővé teszi, hogy a télikabátot az autóban hagyja.",
                 "ro": "Distanța scurtă vă permite să lăsați haina groasă în mașină dacă doriți.",
-                "en": "The short walk might allow you to leave your heavy winter coat in the car."
+                "en": "The short walk might allow you to leave your heavy winter coat in the car.",
+                "nl": "De korte wandeling kan het mogelijk maken je zware winterjas in de auto te laten."
               }
             },
             {
@@ -1473,7 +1593,8 @@
                 "de": "Der perfekte Ort, um sich zwischen den Fahrten vollständig aufzuwärmen.",
                 "hu": "Tökéletes hely, hogy a vezetések között teljesen felmelegedjen.",
                 "ro": "Locul perfect pentru a vă încălzi complet între deplasări.",
-                "en": "The perfect place to fully warm up between different driving segments."
+                "en": "The perfect place to fully warm up between different driving segments.",
+                "nl": "De perfecte plek om volledig op te warmen tussen verschillende autoritten."
               }
             },
             {
@@ -1482,7 +1603,8 @@
                 "de": "Nutzen Sie den Wagen als mobilen Aussichtspunkt bei eisigem Wind.",
                 "hu": "Használja az autót mobil kilátóként jeges szél esetén.",
                 "ro": "Folosiți mașina ca punct de observație mobil în caz de vânt înghețat.",
-                "en": "Use your car as a mobile viewpoint if the winter wind is too biting."
+                "en": "Use your car as a mobile viewpoint if the winter wind is too biting.",
+                "nl": "Gebruik je auto als mobiel uitkijkpunt als de winterwind te bijtend is."
               }
             },
             {
@@ -1491,7 +1613,8 @@
                 "de": "Im Winterlicht bei Sonnenuntergang (16:30) ein großartiger Fotostopp.",
                 "hu": "Téli fényben, naplementekor (16:30) nagyszerű fotómegálló.",
                 "ro": "O oprire foto excelentă în lumina iernii, la apus (16:30).",
-                "en": "A great photo stop in the winter light at sunset (around 4:30 PM)."
+                "en": "A great photo stop in the winter light at sunset (around 4:30 PM).",
+                "nl": "Een mooie fotostop in het winterlicht bij zonsondergang (rond 16:30)."
               }
             }
           ],
@@ -1523,6 +1646,13 @@
               "Central parking garages like 'Tricotage' are usually snow-free and safe.",
               "Remember that winter tires are highly recommended in freezing Dutch conditions.",
               "A thermos of hot coffee in the car makes the winter drive even more enjoyable."
+            ],
+            "nl": [
+              "Vul antivries in je ruitensproeiervloeistof; strooizout maakt de ruiten snel vuil.",
+              "Vermijd stationair draaien om op te warmen; rijd meteen weg om de motor te beschermen.",
+              "Centrale parkeergarages zoals 'Tricotage' zijn meestal sneeuwvrij en veilig.",
+              "Onthoud dat winterbanden sterk aanbevolen zijn bij vriezend Nederlands weer.",
+              "Een thermos met hete koffie in de auto maakt de winterrit extra aangenaam."
             ]
           }
         }
@@ -1541,7 +1671,8 @@
             "de": "Cluster Zentrum: Bushaltestelle Markt",
             "hu": "Központi klaszter: Piac buszmegálló",
             "ro": "Cluster Centru: Stația de autobuz Piața",
-            "en": "Center Cluster: Market Bus Stop"
+            "en": "Center Cluster: Market Bus Stop",
+            "nl": "Centrumcluster: Markthalte"
           },
           "coords": [
             5.5532,
@@ -1559,7 +1690,8 @@
             "de": "Thoomesplein & De Oude Kerk",
             "hu": "Thoomesplein és Oude Kerk",
             "ro": "Piața Thoomesplein & Biserica Veche",
-            "en": "Thoomesplein & The Old Church"
+            "en": "Thoomesplein & The Old Church",
+            "nl": "Thoomesplein & De Oude Kerk"
           },
           "coords": [
             5.5535,
@@ -1577,7 +1709,8 @@
             "de": "De Cultuurfabriek",
             "hu": "De Cultuurfabriek",
             "ro": "Fabrica de Cultură",
-            "en": "The Culture Factory"
+            "en": "The Culture Factory",
+            "nl": "De Cultuurfabriek"
           },
           "coords": [
             5.552,
@@ -1595,7 +1728,8 @@
             "de": "Cluster Park: Stadspark",
             "hu": "Park klaszter: Városi park",
             "ro": "Cluster Parc: Parcul Orașului",
-            "en": "Park Cluster: Stadspark"
+            "en": "Park Cluster: Stadspark",
+            "nl": "Parkcluster: Stadspark"
           },
           "coords": [
             5.56,
@@ -1613,7 +1747,8 @@
             "de": "Cluster Nord: Julianakerk",
             "hu": "Északi klaszter: Julianakerk",
             "ro": "Cluster Nord: Biserica Juliana",
-            "en": "North Cluster: Julianakerk"
+            "en": "North Cluster: Julianakerk",
+            "nl": "Noordcluster: Julianakerk"
           },
           "coords": [
             5.55,
@@ -1629,7 +1764,8 @@
             "de": "Bewundern Sie die moderne Architektur und die ruhige Atmosphäre dieser Kirche.",
             "hu": "Csodálja meg a templom modern építészetét és nyugodt légkörét.",
             "ro": "Admirați arhitectura modernă și atmosfera liniștită a acestei biserici.",
-            "en": "Admire the modern architecture and serene atmosphere of this church."
+            "en": "Admire the modern architecture and serene atmosphere of this church.",
+            "nl": "Bewonder de moderne architectuur en de sereen sfeer van deze kerk."
           }
         }
       ],
@@ -1637,7 +1773,8 @@
         "de": "Mit öffentlichen Verkehrsmitteln navigieren Sie effizient zwischen den Stadtteilen. Der Vormittag ist dem zentralen Cluster gewidmet, wo Sie die wichtigsten Sehenswürdigkeiten zu Fuß erreichen. Nach dem Mittagessen bringt Sie ein Bus zum Stadspark für eine ausgedehnte Pause im Grünen. Ein weiterer Bus bringt Sie am Nachmittag zum nördlichen Teil der Stadt, um die Julianakerk zu besichtigen, bevor Sie ins Zentrum zurückkehren.",
         "hu": "Tömegközlekedéssel hatékonyan navigálhat a városrészek között. A délelőtt a központi klaszteré, ahol gyalogosan érheti el a főbb látnivalókat. Ebéd után egy busz viszi a Stadsparkba egy hosszabb zöld pihenőre. Délután egy másik buszjárattal juthat el a város északi részébe, hogy megnézze a Julianakerk templomot, mielőtt visszatérne a központba.",
         "ro": "Folosind transportul public, navigați eficient între cartiere. Dimineața este dedicată clusterului central, unde puteți ajunge la principalele atracții pe jos. După prânz, un autobuz vă duce la Stadspark pentru o pauză extinsă în natură. Un alt autobuz vă va duce în partea de nord a orașului după-amiaza pentru a vizita Biserica Juliana înainte de a vă întoarce în centru.",
-        "en": "Using public transport, you navigate efficiently between districts. The morning is dedicated to the central cluster, where you can reach the main attractions on foot. After lunch, a bus takes you to the Stadspark for an extended green break. Another bus takes you to the northern part of the city in the afternoon to visit the Julianakerk before returning to the center."
+        "en": "Using public transport, you navigate efficiently between districts. The morning is dedicated to the central cluster, where you can reach the main attractions on foot. After lunch, a bus takes you to the Stadspark for an extended green break. Another bus takes you to the northern part of the city in the afternoon to visit the Julianakerk before returning to the center.",
+        "nl": "Met het openbaar vervoer navigeer je efficiënt tussen wijken. De ochtend is gewijd aan het centrumcluster, waar je de belangrijkste bezienswaardigheden te voet kunt bereiken. Na de lunch brengt een bus je naar het Stadspark voor een langere groene pauze. In de middag neemt een bus je naar het noordelijke deel van de stad om de Julianakerk te bezoeken voordat je terugkeert naar het centrum."
       },
       "gastro_picks": {
         "de": [
@@ -1793,6 +1930,11 @@
           "Buy a day ticket for unlimited travel.",
           "Use a public transport app to plan your route in real time.",
           "Note that buses may not always be on time."
+        ],
+        "nl": [
+          "Koop een dagkaart voor onbeperkt reizen.",
+          "Gebruik een OV-app om je route realtime te plannen.",
+          "Houd er rekening mee dat bussen niet altijd op tijd rijden."
         ]
       },
       "variants": {
@@ -1801,7 +1943,8 @@
             "de": "Starten Sie Ihre Reise an der Bushaltestelle Market. Ein kurzer Sprint bringt Sie zum Thoomesplein und zur De Oude Kerk, wo Sie dem Regen entkommen.\n\nMittags bietet die Cultuurfabriek den perfekten Ort, um die Wartezeit auf den nächsten Bus trocken und kulturell bereichert zu verbringen.\n\nFahren Sie mit dem Bus zum Stadspark. Die Haltestellen in Veenendaal sind oft überdacht, sodass Sie bis zum Parkeingang fast trocken bleiben.\n\nBeenden Sie den Tag mit einem Besuch der Julianakerk im Norden. Der öffentliche Nahverkehr bringt Sie zuverlässig und warm zurück ins Stadtzentrum, egal wie stark es regnet.",
             "hu": "Kezdje utazását a Market buszmegállónál. Egy rövid sprinttel elérheti a Thoomesplein-t és a De Oude Kerk-et, ahol menedéket talál az eső elől.\n\nDélben a Cultuurfabriek tökéletes hely, hogy a következő buszra várva szárazon és kulturális élményekkel gazdagodva tölthesse az időt.\n\nUtazzon busszal a Városligethez. A veenendaali buszmegállók gyakran fedettek, így majdnem szárazon érheti el a park bejáratát.\n\nA napot zárja az északi Julianakerk látogatásával. A tömegközlekedés megbízhatóan és melegben viszi vissza a központba, bármennyire is esik.",
             "ro": "Începeți călătoria la stația de autobuz Market. Un scurt sprint vă duce în Thoomesplein și la De Oude Kerk, unde puteți scăpa de ploaie.\n\nLa prânz, Cultuurfabriek este locul perfect pentru a aștepta următorul autobuz într-un mod plăcut și uscat.\n\nMergeți cu autobuzul spre Stadspark. Stațiile din Veenendaal sunt adesea acoperite, permițându-vă să rămâneți aproape uscat până la intrarea în parc.\n\nÎncheiați ziua cu o vizită la Julianakerk în nord. Transportul public vă readuce în siguranță și la căldură în centru, indiferent de cât de tare plouă.",
-            "en": "Begin your journey at the Market bus stop. A quick dash leads you to Thoomesplein and De Oude Kerk, where you can escape the morning showers.\n\nAt midday, De Cultuurfabriek is the perfect place to wait for your next bus while staying dry and enjoying the cultural exhibits.\n\nTake the bus to the Stadspark cluster. Most bus stops in Veenendaal are sheltered, keeping you mostly dry until you reach the park entrance.\n\nFinish your day visiting Julianakerk in the north. Public transit reliably and warmly whisks you back to the city center, no matter how hard it rains."
+            "en": "Begin your journey at the Market bus stop. A quick dash leads you to Thoomesplein and De Oude Kerk, where you can escape the morning showers.\n\nAt midday, De Cultuurfabriek is the perfect place to wait for your next bus while staying dry and enjoying the cultural exhibits.\n\nTake the bus to the Stadspark cluster. Most bus stops in Veenendaal are sheltered, keeping you mostly dry until you reach the park entrance.\n\nFinish your day visiting Julianakerk in the north. Public transit reliably and warmly whisks you back to the city center, no matter how hard it rains.",
+            "nl": "Begin je reis bij de Markthalte. Een korte sprint brengt je naar Thoomesplein en De Oude Kerk, waar je aan de ochtendbuien kunt ontsnappen.\n\nOp de middag is De Cultuurfabriek de perfecte plek om op de bus te wachten terwijl je droog blijft en van de culturele exposities geniet.\n\nNeem de bus naar het Stadsparkcluster. De meeste bushaltes in Veenendaal zijn overdekt, waardoor je grotendeels droog blijft tot je bij de parkentree bent.\n\nSluit je dag af met een bezoek aan de Julianakerk in het noorden. Het openbaar vervoer brengt je betrouwbaar en warm terug naar het stadscentrum, ongeacht de regenbuien."
           },
           "stops": [
             {
@@ -1810,7 +1953,8 @@
                 "de": "Die Haltestelle ist überdacht; warten Sie hier den stärksten Guss ab.",
                 "hu": "A megálló fedett; várja meg itt a legerősebb zápor végét.",
                 "ro": "Stația este acoperită; așteptați aici trecerea celei mai dense ploi.",
-                "en": "The stop is sheltered; wait here for the heaviest showers to pass."
+                "en": "The stop is sheltered; wait here for the heaviest showers to pass.",
+                "nl": "De halte is overdekt; wacht hier tot de zwaarste buien voorbij zijn."
               }
             },
             {
@@ -1819,7 +1963,8 @@
                 "de": "Ein sehr kurzer Fußweg von der Haltestelle entfernt.",
                 "hu": "Nagyon rövid sétára található a megállótól.",
                 "ro": "La o distanță foarte scurtă de mers pe jos de stație.",
-                "en": "Located just a very short walk away from the bus stop."
+                "en": "Located just a very short walk away from the bus stop.",
+                "nl": "Gelegen op slechts een zeer korte loopafstand van de bushalte."
               }
             },
             {
@@ -1828,7 +1973,8 @@
                 "de": "Prüfen Sie die Abfahrtszeiten auf den digitalen Anzeigen im Inneren.",
                 "hu": "Ellenőrizze az indulási időket a benti digitális kijelzőkön.",
                 "ro": "Verificați timpii de plecare pe afișajele digitale de la interior.",
-                "en": "Check the departure times on the digital displays inside the building."
+                "en": "Check the departure times on the digital displays inside the building.",
+                "nl": "Controleer de vertrektijden op de digitale displays in het gebouw."
               }
             },
             {
@@ -1837,7 +1983,8 @@
                 "de": "Wählen Sie den Bus, der Sie am nächsten zum Parkeingang bringt.",
                 "hu": "Válassza azt a buszt, amelyik a legközelebb teszi le a park bejáratához.",
                 "ro": "Alegeți autobuzul care vă lasă cel mai aproape de intrarea în parc.",
-                "en": "Choose the bus line that drops you off closest to the park entrance."
+                "en": "Choose the bus line that drops you off closest to the park entrance.",
+                "nl": "Kies de buslijn die je het dichtst bij de parkentree afzet."
               }
             },
             {
@@ -1846,7 +1993,8 @@
                 "de": "Die Haltestelle direkt vor der Kirche bietet guten Regenschutz.",
                 "hu": "A közvetlenül a templom előtti megálló jó védelmet nyújt az eső ellen.",
                 "ro": "Stația direct din fața bisericii oferă o bună protecție împotriva ploii.",
-                "en": "The stop directly in front of the church provides good rain protection."
+                "en": "The stop directly in front of the church provides good rain protection.",
+                "nl": "De halte direct voor de kerk biedt goede regenbescherming."
               }
             }
           ],
@@ -1878,6 +2026,13 @@
               "Some buses feature USB charging ports, perfect for topping up your phone in the dry.",
               "Keep your OV-chipkaart or bank card ready for quick contactless payment.",
               "During heavy downpours, it's better to wait for the next bus inside De Cultuurfabriek."
+            ],
+            "nl": [
+              "Gebruik de '9292' app voor real-time updates bij weersgerelateerde vertragingen.",
+              "Veenendaal heeft een dicht busnet; je wacht zelden langer dan 15 minuten.",
+              "Sommige bussen hebben USB-oplaadpunten, ideaal om je telefoon in het droge op te laden.",
+              "Houd je OV-chipkaart of bankpas bij de hand voor snelle contactloze betaling.",
+              "Bij zware stortbuien kun je beter binnen in De Cultuurfabriek wachten op de volgende bus."
             ]
           }
         },
@@ -1886,7 +2041,8 @@
             "de": "Starten Sie Ihren Wintertag warm im Bus zur Market-Haltestelle. Die kurze Strecke zum Thoomesplein ist an der frischen Morgenluft belebend.\n\nMittags ist die Cultuurfabriek ein wunderbarer Ort, um sich zwischen den Fahrten aufzuwärmen und das winterliche Treiben der Stadt zu beobachten.\n\nDer Bus bringt Sie bequem zum Stadspark. Genießen Sie die winterliche Stille der Natur, bevor Sie die Wärme des nächsten Busses suchen.\n\nBeenden Sie die Tour an der Julianakerk im Norden. Die Rückfahrt im beleuchteten Bus bietet einen gemütlichen Blick auf die weihnachtlich dekorierte Stadt, bevor Sie den Tag beenden.",
             "hu": "Kezdje a téli napot a meleg buszon a Market megállóig. A rövid út a Thoomesplein-ig élénkítő a friss reggeli levegőn.\n\nDélben a Cultuurfabriek csodálatos hely, hogy felmelegedjen az utazások között, és megfigyelje a város téli nyüzsgését.\n\nA busz kényelmesen elviszi a Városligetbe. Élvezze a természet téli csendjét, mielőtt keresné a következő busz melegét.\n\nZárja a túrát az északi Julianakerk-nél. A visszaút a kivilágított buszon hangulatos kilátást nyújt az ünnepi díszbe öltözött városra.",
             "ro": "Începeți ziua de iarnă la căldură în autobuz până la stația Market. Scurta plimbare spre Thoomesplein este revigorantă în aerul proaspăt al dimineții.\n\nLa prânz, Cultuurfabriek este un loc minunat pentru a vă încălzi între deplasări și pentru a observa agitația de iarnă a orașului.\n\nAutobuzul vă duce confortabil la Stadspark. Bucurați-vă de liniștea hibernală a naturii înainte de a căuta căldura următorului autobuz.\n\nÎncheiați turul la Julianakerk în nord. Călătoria de întoarcere în autobuzul iluminat oferă o vedere plăcută asupra orașului decorat de sărbătoare.",
-            "en": "Start your winter day warmly on the bus to the Market stop. The short walk to Thoomesplein is invigorating in the fresh morning air.\n\nAt midday, De Cultuurfabriek is a wonderful place to warm up between transit legs and observe the town's winter bustle from inside.\n\nThe bus takes you comfortably to the Stadspark cluster. Enjoy the wintry silence of nature before seeking the warmth of the next bus.\n\nEnd your tour at Julianakerk in the north. The return trip on the illuminated bus offers a cozy view of the festive city decorations before you finish your day."
+            "en": "Start your winter day warmly on the bus to the Market stop. The short walk to Thoomesplein is invigorating in the fresh morning air.\n\nAt midday, De Cultuurfabriek is a wonderful place to warm up between transit legs and observe the town's winter bustle from inside.\n\nThe bus takes you comfortably to the Stadspark cluster. Enjoy the wintry silence of nature before seeking the warmth of the next bus.\n\nEnd your tour at Julianakerk in the north. The return trip on the illuminated bus offers a cozy view of the festive city decorations before you finish your day.",
+            "nl": "Begin je winterdag warm in de bus naar de Markthalte. De korte wandeling naar Thoomesplein is verkwikkend in de frisse ochtendlucht.\n\nOp de middag is De Cultuurfabriek een heerlijke plek om tussen vervoersritten op te warmen en de winterse drukte van het dorp van binnenuit te bekijken.\n\nDe bus brengt je comfortabel naar het Stadsparkcluster. Geniet van de winterse stilte van de natuur voordat je de warmte van de volgende bus zoekt.\n\nEindig je rondleiding bij de Julianakerk in het noorden. De terugrit in de verlichte bus biedt een knus uitzicht op de feestelijke stadversiering voordat je je dag afsluit."
           },
           "stops": [
             {
@@ -1895,7 +2051,8 @@
                 "de": "Warten Sie im Windschatten der Haltestelle auf den Bus.",
                 "hu": "Várjon a buszra a megálló szélvédett oldalán.",
                 "ro": "Așteptați autobuzul în zona ferită de vânt a stației.",
-                "en": "Wait for the bus in the wind-sheltered area of the stop."
+                "en": "Wait for the bus in the wind-sheltered area of the stop.",
+                "nl": "Wacht op de bus in het windbeschutte deel van de halte."
               }
             },
             {
@@ -1904,7 +2061,8 @@
                 "de": "Ein schneller Stopp, bevor Sie wieder in die Wärme des Busses steigen.",
                 "hu": "Gyors megálló, mielőtt újra a busz melegébe szállna.",
                 "ro": "O oprire rapidă înainte de a urca din nou la căldură în autobuz.",
-                "en": "A quick stop before you hop back into the warmth of the transit system."
+                "en": "A quick stop before you hop back into the warmth of the transit system.",
+                "nl": "Een korte stop voordat je weer opwarmt in het openbaar vervoer."
               }
             },
             {
@@ -1913,7 +2071,8 @@
                 "de": "Nutzen Sie den beheizten Innenraum, um Wartezeiten zu überbrücken.",
                 "hu": "Használja a fűtött belső teret a várakozási idő eltöltésére.",
                 "ro": "Folosiți interiorul încălzit pentru a petrece timpul de așteptare.",
-                "en": "Utilize the heated interior space to bridge any waiting times comfortably."
+                "en": "Utilize the heated interior space to bridge any waiting times comfortably.",
+                "nl": "Gebruik de verwarmde binnenruimte om eventuele wachttijden comfortabel te overbruggen."
               }
             },
             {
@@ -1922,7 +2081,8 @@
                 "de": "Prüfen Sie den Fahrplan genau, um unnötiges Warten in der Kälte zu vermeiden.",
                 "hu": "Ellenőrizze pontosan a menetrendet, hogy elkerülje a hidegben való várakozást.",
                 "ro": "Verificați programul cu atenție pentru a evita așteptarea inutilă în frig.",
-                "en": "Check the schedule carefully to avoid unnecessary waiting in the cold."
+                "en": "Check the schedule carefully to avoid unnecessary waiting in the cold.",
+                "nl": "Controleer het schema zorgvuldig om onnodig wachten in de kou te vermijden."
               }
             },
             {
@@ -1931,7 +2091,8 @@
                 "de": "Die Bushaltestelle bietet eine gute Sicht auf den herannahenden Bus.",
                 "hu": "A buszmegállóból jól látható a közeledő járat.",
                 "ro": "Din stația de autobuz se poate vedea bine vehiculul care se apropie.",
-                "en": "The bus stop provides a clear view of the approaching transit vehicle."
+                "en": "The bus stop provides a clear view of the approaching transit vehicle.",
+                "nl": "De halte biedt een goed zicht op het naderen van het voertuig."
               }
             }
           ],
@@ -1963,6 +2124,13 @@
               "The 9292 app is essential for checking connections during icy conditions.",
               "Use Veenendaal-Centrum or De Klomp stations for regional rail connections.",
               "From 4:30 PM onwards, you can enjoy the holiday lights from the bus window."
+            ],
+            "nl": [
+              "De bussen in Veenendaal zijn goed verwarmd en bieden een ideaal toevluchtsoord tegen de kou.",
+              "Let op de dienstregeling tijdens de feestdagen als je in december reist.",
+              "De 9292-app is essentieel om verbindingen te controleren bij ijzel- en winterse omstandigheden.",
+              "Gebruik Veenendaal-Centrum of De Klomp voor regionale treinverbindingen.",
+              "Vanaf 16:30 uur kun je genieten van de feestverlichting vanuit het busraam."
             ]
           }
         }

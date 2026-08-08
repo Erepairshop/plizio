@@ -21,7 +21,8 @@
             "de": "Almere Stad Einkaufszentrum",
             "hu": "Almere Stad bevásárlóközpont",
             "ro": "Centrul Comercial Almere Stad",
-            "en": "Almere Stad Shopping Center"
+            "en": "Almere Stad Shopping Center",
+            "nl": "Almere Stad Winkelcentrum"
           },
           "coords": [
             5.217,
@@ -37,7 +38,8 @@
             "de": "Beginnen Sie den Tag mit einem Kaffee in einem der vielen Cafés, bevor die Geschäfte öffnen.",
             "hu": "Kezdje a napot egy kávéval a számos kávézó egyikében, mielőtt a boltok kinyitnak.",
             "ro": "Începeți ziua cu o cafea la una dintre multele cafenele înainte de deschiderea magazinelor.",
-            "en": "Start the day with a coffee at one of the many cafes before the shops open."
+            "en": "Start the day with a coffee at one of the many cafes before the shops open.",
+            "nl": "Begin de dag met een kop koffie in een van de vele cafés voordat de winkels openen."
           }
         },
         {
@@ -45,7 +47,8 @@
             "de": "Die Zitadelle",
             "hu": "A Citadella",
             "ro": "Citadela (Die Zitadelle)",
-            "en": "The Citadel (Die Zitadelle)"
+            "en": "The Citadel (Die Zitadelle)",
+            "nl": "De Citadel (Die Zitadelle)"
           },
           "coords": [
             5.213,
@@ -61,7 +64,8 @@
             "de": "Achten Sie auf das einzigartige Design von Christian de Portzamparc, das wie eine mittelalterliche Festung wirkt.",
             "hu": "Figyelje meg Christian de Portzamparc egyedi tervezését, amely egy középkori erődre emlékeztet.",
             "ro": "Observați designul unic al lui Christian de Portzamparc, care seamănă cu o fortăreață medievală.",
-            "en": "Notice the unique design by Christian de Portzamparc, which feels like a medieval fortress."
+            "en": "Notice the unique design by Christian de Portzamparc, which feels like a medieval fortress.",
+            "nl": "Let op het unieke ontwerp van Christian de Portzamparc, dat aanvoelt als een middeleeuws fort."
           }
         },
         {
@@ -69,7 +73,8 @@
             "de": "PIT Veiligheidsmuseum",
             "hu": "PIT Biztonsági Múzeum",
             "ro": "Muzeul Securității PIT",
-            "en": "PIT Safety Museum"
+            "en": "PIT Safety Museum",
+            "nl": "PIT Veiligheidsmuseum"
           },
           "coords": [
             5.215,
@@ -85,7 +90,8 @@
             "de": "Probieren Sie die interaktiven Exponate aus, besonders den Überschlagsimulator.",
             "hu": "Próbálja ki az interaktív kiállítási tárgyakat, különösen a borulás szimulátort.",
             "ro": "Încercați exponatele interactive, în special simulatorul de răsturnare.",
-            "en": "Try out the interactive exhibits, especially the rollover car simulator."
+            "en": "Try out the interactive exhibits, especially the rollover car simulator.",
+            "nl": "Probeer de interactieve opstellingen, vooral de rollover-autosimulator."
           }
         },
         {
@@ -93,7 +99,8 @@
             "de": "Kunstlinie Almere Flevoland (KAF)",
             "hu": "Kunstlinie Almere Flevoland (KAF)",
             "ro": "Centrul Cultural Kunstlinie (KAF)",
-            "en": "Kunstlinie Almere Flevoland (KAF)"
+            "en": "Kunstlinie Almere Flevoland (KAF)",
+            "nl": "Kunstlinie Almere Flevoland (KAF)"
           },
           "coords": [
             5.221,
@@ -109,7 +116,8 @@
             "de": "Prüfen Sie den Spielplan für kostenlose Ausstellungen oder genießen Sie einfach die Aussicht auf das Weerwater.",
             "hu": "Nézze meg a programot ingyenes kiállításokért, vagy egyszerűen csak élvezze a Weerwater-tóra nyíló kilátást.",
             "ro": "Verificați programul pentru expoziții gratuite sau pur și simplu bucurați-vă de vederea la lacul Weerwater.",
-            "en": "Check the schedule for free exhibitions or simply enjoy the view over the Weerwater lake."
+            "en": "Check the schedule for free exhibitions or simply enjoy the view over the Weerwater lake.",
+            "nl": "Bekijk de agenda voor gratis exposities of geniet gewoon van het uitzicht over het Weerwatermeer."
           }
         },
         {
@@ -117,7 +125,8 @@
             "de": "The Wave und Smaragd",
             "hu": "The Wave és Smaragd épületek",
             "ro": "The Wave și Smaragd",
-            "en": "The Wave and Smaragd"
+            "en": "The Wave and Smaragd",
+            "nl": "The Wave en Smaragd"
           },
           "coords": [
             5.228,
@@ -133,7 +142,8 @@
             "de": "Die beste Perspektive auf diese architektonischen Juwelen hat man vom Uferweg aus.",
             "hu": "Ezekre az építészeti gyöngyszemekre a legjobb kilátás a parti sétányról nyílik.",
             "ro": "Cea mai bună perspectivă asupra acestor bijuterii arhitecturale este de pe aleea de pe mal.",
-            "en": "The best perspective on these architectural gems is from the shoreline path."
+            "en": "The best perspective on these architectural gems is from the shoreline path.",
+            "nl": "Het beste uitzicht op deze architectonische parels is vanaf het pad langs de oever."
           }
         },
         {
@@ -141,7 +151,8 @@
             "de": "Weerwater See",
             "hu": "Weerwater-tó",
             "ro": "Lacul Weerwater",
-            "en": "Weerwater Lake"
+            "en": "Weerwater Lake",
+            "nl": "Weerwatermeer"
           },
           "coords": [
             5.2238,
@@ -157,7 +168,8 @@
             "de": "Mieten Sie ein Tretboot oder entspannen Sie einfach am Ufer und beobachten Sie die Segelboote.",
             "hu": "Béreljen vízibiciklit, vagy csak pihenjen a parton és nézze a vitorlásokat.",
             "ro": "Închiriați o hidrobicicletă sau relaxați-vă pe mal și priviți bărcile cu pânze.",
-            "en": "Rent a paddleboat or just relax on the shore watching the sailboats."
+            "en": "Rent a paddleboat or just relax on the shore watching the sailboats.",
+            "nl": "Huur een waterfiets of ontspan aan de oever en kijk naar de zeilbootjes."
           }
         }
       ],
@@ -165,7 +177,8 @@
         "de": "Ihr Tag in Almere beginnt im pulsierenden Herzen der Stadt, dem Einkaufszentrum Almere Stad, wo moderne Architektur auf urbanes Leben trifft. Schlendern Sie durch die Straßen und entdecken Sie die einzigartigen Wohnkomplexe wie die Zitadelle. Der Vormittag ist der Sicherheit und Kultur gewidmet. Das interaktive PIT Veiligheidsmuseum bietet einen faszinierenden Einblick in die Arbeit der Rettungsdienste. Anschließend können Sie im Kunstlinie (KAF) am Ufer des Weerwater eine Pause einlegen und die Kunst und die Aussicht genießen. Der Nachmittag steht ganz im Zeichen des Wassers und der innovativen Architektur. Ein Spaziergang am Weerwater-See führt Sie an den beeindruckenden Wohngebäuden 'The Wave' und 'Smaragd' vorbei. Lassen Sie den Tag entspannt am Seeufer ausklingen, genießen Sie die Ruhe und die moderne Skyline von Almere. Es ist die perfekte Art, die Essenz dieser einzigartigen Polderstadt zu erleben.",
         "hu": "Almere-i napja a város lüktető szívében, az Almere Stad bevásárlóközpontban kezdődik, ahol a modern építészet találkozik a városi élettel. Sétáljon végig az utcákon, és fedezze fel az olyan egyedi lakóparkokat, mint a Citadella. A délelőtt a biztonságról és a kultúráról szól. Az interaktív PIT Biztonsági Múzeum lenyűgöző betekintést nyújt a segélyszolgálatok munkájába. Ezután pihenjen a Weerwater partján található Kunstlinie-ban (KAF), és élvezze a művészetet és a kilátást. A délután a vízről és az innovatív építészetről szól. A Weerwater-tó mentén tett séta elvezeti Önt a lenyűgöző 'The Wave' és 'Smaragd' lakóépületekhez. A napot a tóparton pihenve zárja, élvezve Almere nyugalmát és modern sziluettjét. Ez a tökéletes módja annak, hogy megtapasztalja ennek az egyedülálló polder-városnak a lényegét.",
         "ro": "Ziua dvs. în Almere începe în inima vibrantă a orașului, centrul comercial Almere Stad, unde arhitectura modernă se întâlnește cu viața urbană. Plimbați-vă pe străzi și descoperiți complexele rezidențiale unice, cum ar fi Citadela. Dimineața este dedicată siguranței și culturii. Muzeul interactiv de siguranță PIT oferă o perspectivă fascinantă asupra activității serviciilor de urgență. Apoi, faceți o pauză la Kunstlinie (KAF) pe malul lacului Weerwater, bucurându-vă de artă și de priveliște. După-amiaza este despre apă și arhitectură inovatoare. O plimbare de-a lungul lacului Weerwater vă va duce pe lângă impresionantele clădiri rezidențiale 'The Wave' și 'Smaragd'. Încheiați ziua relaxându-vă pe malul lacului, bucurându-vă de liniștea și de orizontul modern al orașului Almere. Este modul perfect de a experimenta esența acestui oraș unic, construit pe polder.",
-        "en": "Your day in Almere begins in the vibrant heart of the city, the Almere Stad shopping center, where modern architecture meets urban life. Stroll through the streets and discover the unique residential complexes like the Citadel. The morning is dedicated to safety and culture. The interactive PIT Safety Museum offers a fascinating insight into the work of the emergency services. Afterwards, take a break at the Kunstlinie (KAF) on the shores of the Weerwater lake, enjoying the art and the view. The afternoon is all about water and innovative architecture. A walk along the Weerwater lake will take you past the impressive residential buildings 'The Wave' and 'Smaragd'. End the day relaxing by the lake, enjoying the tranquility and the modern skyline of Almere. It's the perfect way to experience the essence of this unique polder city."
+        "en": "Your day in Almere begins in the vibrant heart of the city, the Almere Stad shopping center, where modern architecture meets urban life. Stroll through the streets and discover the unique residential complexes like the Citadel. The morning is dedicated to safety and culture. The interactive PIT Safety Museum offers a fascinating insight into the work of the emergency services. Afterwards, take a break at the Kunstlinie (KAF) on the shores of the Weerwater lake, enjoying the art and the view. The afternoon is all about water and innovative architecture. A walk along the Weerwater lake will take you past the impressive residential buildings 'The Wave' and 'Smaragd'. End the day relaxing by the lake, enjoying the tranquility and the modern skyline of Almere. It's the perfect way to experience the essence of this unique polder city.",
+        "nl": "Je dag in Almere begint in het bruisende hart van de stad, het Almere Stad winkelcentrum, waar moderne architectuur samenkomt met stedelijk leven. Wandel door de straten en ontdek de unieke wooncomplexen zoals de Citadel. De ochtend staat in het teken van veiligheid en cultuur. Het interactieve PIT Veiligheidsmuseum biedt een fascinerend inzicht in het werk van de hulpdiensten. Daarna neem je een pauze bij de Kunstlinie (KAF) aan de oever van het Weerwatermeer, genietend van kunst en het uitzicht. De namiddag draait om water en innovatieve architectuur. Een wandeling langs het Weerwatermeer voert je langs de indrukwekkende woongebouwen 'The Wave' en 'Smaragd'. Sluit de dag af met ontspanning bij het meer, genietend van de rust en de moderne skyline van Almere. Het is de perfecte manier om de essentie van deze unieke poldersstad te ervaren."
       },
       "gastro_picks": {
         "de": [
@@ -361,6 +374,12 @@
           "Almere is very modern; take your time to admire the details of the unique architecture.",
           "The weather can change quickly, so pack a light raincoat.",
           "Many cafes around the main square offer free Wi-Fi."
+        ],
+        "nl": [
+          "Draag comfortabele schoenen, want je verkent het compacte centrum volledig te voet.",
+          "Almere is erg modern; neem de tijd om de details van de unieke architectuur te bewonderen.",
+          "Het weer kan snel omslaan, dus pak een lichte regenjas in.",
+          "Veel cafés rond het hoofdplein bieden gratis Wi-Fi."
         ]
       },
       "variants": {
@@ -369,7 +388,8 @@
             "de": "Beginnen Sie Ihren Tag im Almere Stad Shopping Center, wo die überdachten Passagen Schutz vor dem niederländischen Regen bieten. Die modernen Arkaden führen Sie trocken durch die ersten Stationen der Stadtplanung.\n\nMittags erreichen Sie das PIT Safety Museum. Die interaktive Ausstellung im Innenbereich ist der ideale Ort, um dem Wetter zu entfliehen und mehr über die Rettungsdienste der Polderstadt zu erfahren.\n\nAm Nachmittag bietet das Kunstlinie (KAF) einen beeindruckenden Blick auf den grauen Weerwater-See durch seine riesigen Glasfronten. Genießen Sie die Architektur, während draußen der Regen auf das Wasser peitscht.\n\nAbends spazieren Sie kurz zu den modernen Wohngebäuden wie The Wave. Die glänzenden Fassaden reflektieren die Lichter der Stadt in den Pfützen, bevor Sie sich in ein warmes Café in der Innenstadt zurückziehen.",
             "hu": "Kezdje a napot az Almere Stad bevásárlóközpontban, ahol a fedett passzázsok és árkádok megvédik a holland esőtől. A modern városközpont kialakítása lehetővé teszi, hogy szárazon járja be az első állomásokat.\n\nDélben látogasson el a PIT Biztonsági Múzeumba. A beltéri, interaktív kiállítás tökéletes menedék a szél elől, ahol megismerheti a tűzoltóság és a rendőrség munkáját a polderek világában.\n\nDélután a Kunstlinie (KAF) kulturális központ hatalmas üvegfalai mögül figyelheti a Weerwater-tó felett tornyosuló szürke fellegeket. A modern belső terek kényelmes pihenőt nyújtanak az esőben.\n\nEste tegyen egy rövid sétát a The Wave épületéhez. A különleges homlokzatok izgalmasan csillognak a vizes aszfalton, majd fejezze be a napot egy forró itallal a városközpont egyik hangulatos bisztrójában.",
             "ro": "Începeți ziua în Almere Stad Shopping Center, unde pasajele acoperite oferă protecție împotriva ploii olandeze. Designul modern al centrului vă permite să explorați primele repere arhitecturale fără a vă uda.\n\nLa prânz, refugiați-vă în Muzeul de Siguranță PIT. Expoziția interactivă de interior este locul ideal pentru a învăța despre serviciile de urgență în timp ce așteptați să treacă aversele de pe polder.\n\nDupă-amiaza, vizitați Kunstlinie (KAF). Fațadele sale mari de sticlă oferă o vedere panoramică asupra lacului Weerwater, permițându-vă să admirați peisajul urban umed dintr-un mediu cultural cald.\n\nSeara, faceți o scurtă plimbare până la clădirea The Wave. Fațadele metalice reflectă luminile orașului în bălți, creând un decor futurist înainte de a încheia ziua într-o cafenea primitoare din centru.",
-            "en": "Start your day at Almere Stad Shopping Center, where covered walkways provide shelter from the Dutch rain. The modern grid layout of the city center helps you navigate between shops and landmarks while staying mostly dry.\n\nAt noon, head into the PIT Safety Museum. This indoor interactive experience is the perfect escape from the wind, offering a deep dive into the history of Dutch emergency services on reclaimed land.\n\nIn the afternoon, the Kunstlinie (KAF) cultural center offers a warm sanctuary. Its massive glass walls provide a dramatic view of the rain hitting Weerwater Lake while you enjoy the contemporary art and architecture.\n\nIn the evening, take a quick stroll to see The Wave and Smaragd. The metallic and glass surfaces of these modern residences glisten beautifully in the rain before you retreat to a cozy downtown eatery."
+            "en": "Start your day at Almere Stad Shopping Center, where covered walkways provide shelter from the Dutch rain. The modern grid layout of the city center helps you navigate between shops and landmarks while staying mostly dry.\n\nAt noon, head into the PIT Safety Museum. This indoor interactive experience is the perfect escape from the wind, offering a deep dive into the history of Dutch emergency services on reclaimed land.\n\nIn the afternoon, the Kunstlinie (KAF) cultural center offers a warm sanctuary. Its massive glass walls provide a dramatic view of the rain hitting Weerwater Lake while you enjoy the contemporary art and architecture.\n\nIn the evening, take a quick stroll to see The Wave and Smaragd. The metallic and glass surfaces of these modern residences glisten beautifully in the rain before you retreat to a cozy downtown eatery.",
+            "nl": "Begin je dag bij Almere Stad Winkelcentrum, waar overdekte wandelgangen beschutting bieden tegen de Nederlandse regen. Het moderne rooster van het stadscentrum helpt je tussen winkels en bezienswaardigheden te navigeren terwijl je grotendeels droog blijft.\n\nGa rond het middaguur naar het PIT Veiligheidsmuseum. Deze overdekte interactieve ervaring is de perfecte ontsnapping aan de wind en biedt een diepgaand inzicht in de geschiedenis van de Nederlandse hulpdiensten op drooggelegde grond.\n\nIn de namiddag biedt de Kunstlinie (KAF) een warm toevluchtsoord. De grote glaswanden geven een dramatisch uitzicht op de regen die op het Weerwatermeer valt terwijl jij geniet van hedendaagse kunst en architectuur.\n\n's Avonds maak je een korte wandeling om The Wave en Smaragd te bekijken. De metalen en glazen oppervlakken van deze moderne wooncomplexen glinsteren prachtig in de regen voordat je terugkeert naar een gezellig eethuisje in het centrum."
           },
           "stops": [
             {
@@ -378,7 +398,8 @@
                 "de": "Nutzen Sie die überdachten Arkaden zwischen den Geschäften, um trocken zu bleiben.",
                 "hu": "Használja az üzletek közötti fedett árkádokat, hogy szárazon maradjon a séta alatt.",
                 "ro": "Folosiți arcadele acoperite dintre magazine pentru a rămâne uscat în timpul vizitei.",
-                "en": "Stick to the covered arcades between shops to stay dry while exploring the center."
+                "en": "Stick to the covered arcades between shops to stay dry while exploring the center.",
+                "nl": "Blijf onder de overdekte arcades tussen winkels om droog te blijven tijdens het verkennen van het centrum."
               }
             },
             {
@@ -387,7 +408,8 @@
                 "de": "Betrachten Sie die Architektur von den überdachten Gehwegen der oberen Ladenstraße aus.",
                 "hu": "Csodálja meg az építészetet a felső üzletsor fedett járdáiról.",
                 "ro": "Admirați arhitectura de pe trotuarele acoperite ale nivelului superior de magazine.",
-                "en": "View the architecture from the covered walkways of the upper-level shopping street."
+                "en": "View the architecture from the covered walkways of the upper-level shopping street.",
+                "nl": "Bekijk de architectuur vanaf de overdekte wandelgangen van de winkelstraat op de bovenverdieping."
               }
             },
             {
@@ -396,7 +418,8 @@
                 "de": "Ein idealer Zufluchtsort bei Regen; planen Sie hier ruhig etwas mehr Zeit im Trockenen ein.",
                 "hu": "Tökéletes menedék esőben; nyugodtan töltsön itt több időt a szárazon.",
                 "ro": "Refugiul ideal pe ploaie; planificați-vă mai mult timp aici pentru a sta la adăpost.",
-                "en": "The ultimate rainy day escape; feel free to extend your stay in this indoor museum."
+                "en": "The ultimate rainy day escape; feel free to extend your stay in this indoor museum.",
+                "nl": "De ultieme ontsnapping voor een regenachtige dag; voel je vrij om je verblijf in dit overdekte museum te verlengen."
               }
             },
             {
@@ -405,7 +428,8 @@
                 "de": "Das Café im Inneren bietet einen großartigen Blick auf den regnerischen See.",
                 "hu": "A belső kávézó remek kilátást nyújt az esős tóra.",
                 "ro": "Cafeneaua din interior oferă o priveliște excelentă asupra lacului în timpul ploii.",
-                "en": "The indoor café offers a great vantage point to watch the rain over the lake."
+                "en": "The indoor café offers a great vantage point to watch the rain over the lake.",
+                "nl": "Het binnencafé biedt een uitstekend uitzicht om de regen boven het meer te bekijken."
               }
             },
             {
@@ -414,7 +438,8 @@
                 "de": "Die Fassaden wirken bei Regen besonders dramatisch; kurzes Foto genügt.",
                 "hu": "A homlokzatok esőben különösen látványosak; egy gyors fotó is elég.",
                 "ro": "Fațadele arată spectaculos pe ploaie; o oprire rapidă pentru poze este suficientă.",
-                "en": "The facades look particularly dramatic in the rain; a quick photo stop is enough."
+                "en": "The facades look particularly dramatic in the rain; a quick photo stop is enough.",
+                "nl": "De gevels zien er in de regen extra dramatisch uit; een korte fotostop is voldoende."
               }
             },
             {
@@ -423,7 +448,8 @@
                 "de": "Vorsicht vor Windböen am Ufer; halten Sie Ihren Schirm gut fest.",
                 "hu": "Vigyázzon a parti széllökésekre; fogja szorosan az esernyőjét.",
                 "ro": "Atenție la rafalele de vânt de pe mal; țineți bine umbrela.",
-                "en": "Watch out for wind gusts near the water; hold onto your umbrella tightly."
+                "en": "Watch out for wind gusts near the water; hold onto your umbrella tightly.",
+                "nl": "Pas op voor windstoten bij het water; houd je paraplu goed vast."
               }
             }
           ],
@@ -451,6 +477,12 @@
               "Wind from the Markermeer can flip umbrellas easily; a waterproof parka is recommended.",
               "PIT Museum and KAF are the best 'dry spots' to spend extra time in.",
               "Central parking garages often have direct, covered access to the main shopping streets."
+            ],
+            "nl": [
+              "Almere Stad heeft veel overdekte passages; gebruik die om het centrum te doorkruisen.",
+              "Wind van het Markermeer kan paraplu's gemakkelijk omvouwen; een waterdichte parka is aan te raden.",
+              "PIT Museum en KAF zijn de beste 'droge plekken' om extra tijd door te brengen.",
+              "Centrale parkeergarages hebben vaak directe, overdekte toegang tot de belangrijkste winkelstraten."
             ]
           }
         },
@@ -459,7 +491,8 @@
             "de": "Starten Sie Ihren Wintermorgen im Almere Stad Shopping Center. Die beheizten Geschäfte und die festliche Beleuchtung sorgen für eine gemütliche Atmosphäre in der modernistischen Architektur.\n\nMittags bietet das PIT Safety Museum eine willkommene Aufwärmpause. Die Exponate in den gut temperierten Hallen lassen Sie die Kälte des Flevoland-Polders vergessen.\n\nAm Nachmittag taucht die tiefstehende Wintersonne das Kunstlinie (KAF) und den Weerwater-See in ein klares, kaltes Licht. Genießen Sie den Panoramablick bei einem heißen Getränk im Kulturzentrum.\n\nZum Abendessen spazieren Sie an den beleuchteten Fassaden von The Wave vorbei. Die frühe Dunkelheit hebt die Lichtinstallationen der Stadt hervor, während Sie den Tag im warmen Stadtkern ausklingen lassen.",
             "hu": "Kezdje a téli reggelt az Almere Stad bevásárlóközpontban. A fűtött üzletek és az ünnepi fények barátságos hangulatot árasztanak a modern betonépületek között.\n\nDélben a PIT Biztonsági Múzeum meleg csarnokai kínálnak menedéket a csípős szél elől. Az interaktív tárlatok kiváló kikapcsolódást nyújtanak, miközben kint fagy.\n\nDélután a korán lemenő téli nap éles fénybe vonja a Kunstlinie (KAF) épületét és a befagyott Weerwater-tavat. A kulturális központ panorámája ilyenkor a legtisztább.\n\nEste sétáljon el a kivilágított The Wave mellett. A korai sötétedés kiemeli a város modern fényeit, mielőtt betérne egy forró vacsorára a központ egyik stílusos éttermébe.",
             "ro": "Începeți dimineața de iarnă în Almere Stad Shopping Center. Magazinele încălzite și luminile festive creează o atmosferă primitoare printre structurile moderniste.\n\nLa prânz, Muzeul de Siguranță PIT oferă o pauză caldă binevenită. Expozițiile din halele bine încălzite vă vor face să uitați de frigul tăios de pe polder.\n\nDupă-amiaza, soarele palid de iarnă luminează Kunstlinie (KAF) și lacul Weerwater într-o lumină clară și rece. Admirați panorama înghețată cu o băutură caldă în mână.\n\nSeara, treceți pe lângă fațadele iluminate ale clădirii The Wave. Întunericul timpuriu scoate în evidență designul de lumini al orașului, înainte de a vă retrage pentru o cină călduroasă în centru.",
-            "en": "Begin your winter morning at Almere Stad Shopping Center. The heated stores and bright winter decorations provide a cozy contrast to the sleek, modern architecture outside.\n\nAt noon, visit the PIT Safety Museum to warm up. The spacious indoor galleries are perfectly climate-controlled, making it an ideal spot to spend the coldest part of the day.\n\nIn the afternoon, catch the golden hour at Kunstlinie (KAF). The winter sun reflecting off the Weerwater Lake creates a stunning visual, best enjoyed from the warmth of the center's glass lobby.\n\nAs evening falls early, walk past the illuminated Wave building. The architectural lighting is at its best in the dark, guiding you back to a warm restaurant in the heart of Almere."
+            "en": "Begin your winter morning at Almere Stad Shopping Center. The heated stores and bright winter decorations provide a cozy contrast to the sleek, modern architecture outside.\n\nAt noon, visit the PIT Safety Museum to warm up. The spacious indoor galleries are perfectly climate-controlled, making it an ideal spot to spend the coldest part of the day.\n\nIn the afternoon, catch the golden hour at Kunstlinie (KAF). The winter sun reflecting off the Weerwater Lake creates a stunning visual, best enjoyed from the warmth of the center's glass lobby.\n\nAs evening falls early, walk past the illuminated Wave building. The architectural lighting is at its best in the dark, guiding you back to a warm restaurant in the heart of Almere.",
+            "nl": "Begin je winterochtend in Almere Stad Shopping Center. De verwarmde winkels en de heldere winterdecoratie bieden een gezellig contrast met de strakke, moderne architectuur buiten.\n\nRond het middaguur bezoek je het PIT Veiligheidsmuseum om op te warmen. De ruime binnenzalen zijn perfect klimaatbeheerd, wat het een ideale plek maakt om het koudste deel van de dag door te brengen.\n\nIn de namiddag geniet je van het gouden uur bij Kunstlinie (KAF). De winterzon die op het Weerwater weerkaatst zorgt voor een verbluffend zicht, het best te ervaren vanuit de warme glazen foyer van het centrum.\n\nAls de avond vroeg valt, wandel je langs het verlichte Wave-gebouw. De architecturale verlichting komt in het donker het beste tot zijn recht en leidt je terug naar een warm restaurant in het hart van Almere."
           },
           "stops": [
             {
@@ -468,7 +501,8 @@
                 "de": "Genießen Sie die weihnachtliche Beleuchtung und die beheizten Ladenpassagen.",
                 "hu": "Élvezze az ünnepi kivilágítást és a fűtött üzletsorokat.",
                 "ro": "Bucurați-vă de luminile de sărbători și de pasajele comerciale încălzite.",
-                "en": "Enjoy the festive lighting and warm up in the heated indoor shopping areas."
+                "en": "Enjoy the festive lighting and warm up in the heated indoor shopping areas.",
+                "nl": "Geniet van de feestelijke verlichting en warm op in de verwarmde, overdekte winkelgebieden."
               }
             },
             {
@@ -477,7 +511,8 @@
                 "de": "Achten Sie auf glatte Stellen auf den offenen Granitflächen bei Frost.",
                 "hu": "Fagy esetén vigyázzon a csúszós gránitfelületekre a nyitott részeken.",
                 "ro": "Atenție la porțiunile alunecoase de pe suprafețele de granit în caz de îngheț.",
-                "en": "Be careful of slippery spots on the open granite surfaces during frost."
+                "en": "Be careful of slippery spots on the open granite surfaces during frost.",
+                "nl": "Let op gladde plekken op de open granieten oppervlakken tijdens vorst."
               }
             },
             {
@@ -486,7 +521,8 @@
                 "de": "Perfekt temperierte Hallen; ideal, um die Winterkälte für zwei Stunden zu vergessen.",
                 "hu": "Kellemesen fűtött csarnokok; ideális hely a téli hideg elfelejtésére két órára.",
                 "ro": "Hale bine încălzite; locul perfect pentru a uita de frigul iernii timp de două ore.",
-                "en": "Comfortably heated galleries; ideal for escaping the winter chill for a couple of hours."
+                "en": "Comfortably heated galleries; ideal for escaping the winter chill for a couple of hours.",
+                "nl": "Comfortabel verwarmde galerijen; ideaal om een paar uur aan de winterkou te ontsnappen."
               }
             },
             {
@@ -495,7 +531,8 @@
                 "de": "Der Blick auf den oft nebligen oder gefrorenen See ist im Winter sehr atmosphärisch.",
                 "hu": "A ködös vagy befagyott tó látványa télen nagyon hangulatos.",
                 "ro": "Priveliștea asupra lacului înghețat sau cețos este foarte atmosferică iarna.",
-                "en": "The view of the misty or frozen lake is very atmospheric in winter."
+                "en": "The view of the misty or frozen lake is very atmospheric in winter.",
+                "nl": "Het uitzicht op het mistige of bevroren meer is erg sfeervol in de winter."
               }
             },
             {
@@ -504,7 +541,8 @@
                 "de": "In der frühen Dunkelheit sind diese Gebäude besonders schön beleuchtet.",
                 "hu": "A korai sötétségben ezek az épületek különleges megvilágítást kapnak.",
                 "ro": "În întunericul timpuriu, aceste clădiri sunt iluminate spectaculos.",
-                "en": "These buildings are beautifully lit up during the early winter darkness."
+                "en": "These buildings are beautifully lit up during the early winter darkness.",
+                "nl": "Deze gebouwen zijn prachtig verlicht tijdens de vroege winterduisternis."
               }
             },
             {
@@ -513,7 +551,8 @@
                 "de": "Der Wind vom Wasser ist im Winter extrem schneidend; Mütze und Schal sind Pflicht.",
                 "hu": "A víz felől érkező szél télen metszően hideg; sapka és sál kötelező.",
                 "ro": "Vântul de pe apă este extrem de tăios iarna; căciula și fularul sunt obligatorii.",
-                "en": "The wind off the water is biting in winter; a hat and scarf are essential."
+                "en": "The wind off the water is biting in winter; a hat and scarf are essential.",
+                "nl": "De wind vanaf het water snijdt in de winter; een muts en sjaal zijn onmisbaar."
               }
             }
           ],
@@ -541,6 +580,12 @@
               "Almere is very windy; dress in warm layers to block the chill.",
               "Public buildings like KAF are great 'warm islands' to stop at during your walk.",
               "Check for temporary ice rinks or winter markets in the main squares."
+            ],
+            "nl": [
+              "Zonsondergang is rond 16:30 in december; maak je buitenfoto's daarvoor.",
+              "Almere is erg winderig; kleed je in warme lagen om de kou tegen te houden.",
+              "Publieke gebouwen zoals KAF zijn uitstekende 'warme eilanden' om tijdens je wandeling te bezoeken.",
+              "Controleer op tijdelijke ijsbanen of wintermarkten op de belangrijkste pleinen."
             ]
           }
         }
@@ -559,7 +604,8 @@
             "de": "Regenboogbuurt (Regenbogenviertel)",
             "hu": "Regenboogbuurt (Szivárvány-negyed)",
             "ro": "Cartierul Curcubeului (Regenboogbuurt)",
-            "en": "Rainbow Neighborhood (Regenboogbuurt)"
+            "en": "Rainbow Neighborhood (Regenboogbuurt)",
+            "nl": "Regenboogbuurt (Rainbow Neighborhood)"
           },
           "coords": [
             5.288,
@@ -575,7 +621,8 @@
             "de": "Fahren Sie durch die Straßen und erleben Sie das volle Farbspektrum dieses einzigartigen Viertels.",
             "hu": "Biciklizzen végig az utcákon, hogy megtapasztalja ennek az egyedülálló negyednek a teljes színskáláját.",
             "ro": "Plimbați-vă cu bicicleta pe străzi pentru a experimenta spectrul complet de culori al acestui cartier unic.",
-            "en": "Cycle through the streets to experience the full spectrum of color in this unique neighborhood."
+            "en": "Cycle through the streets to experience the full spectrum of color in this unique neighborhood.",
+            "nl": "Fiets door de straten om het volledige kleurenpalet van deze unieke buurt te ervaren."
           }
         },
         {
@@ -583,7 +630,8 @@
             "de": "Almere Stad Einkaufszentrum",
             "hu": "Almere Stad bevásárlóközpont",
             "ro": "Centrul Comercial Almere Stad",
-            "en": "Almere Stad Shopping Center"
+            "en": "Almere Stad Shopping Center",
+            "nl": "Almere Stad Shopping Center"
           },
           "coords": [
             5.217,
@@ -599,7 +647,8 @@
             "de": "Stellen Sie Ihr Fahrrad in einem der bewachten Fahrradparkplätze ab, während Sie einkaufen.",
             "hu": "Hagyja a kerékpárját az egyik őrzött kerékpártárolóban, amíg vásárol.",
             "ro": "Parcați-vă bicicleta într-una dintre parcările de biciclete securizate în timp ce faceți cumpărături.",
-            "en": "Park your bike in one of the secure bicycle parking facilities while you shop."
+            "en": "Park your bike in one of the secure bicycle parking facilities while you shop.",
+            "nl": "Parkeer je fiets in een van de beveiligde fietsenstallingen terwijl je gaat winkelen."
           }
         },
         {
@@ -607,7 +656,8 @@
             "de": "Kunstlinie Almere Flevoland (KAF)",
             "hu": "Kunstlinie Almere Flevoland (KAF)",
             "ro": "Centrul Cultural Kunstlinie (KAF)",
-            "en": "Kunstlinie Almere Flevoland (KAF)"
+            "en": "Kunstlinie Almere Flevoland (KAF)",
+            "nl": "Kunstlinie Almere Flevoland (KAF)"
           },
           "coords": [
             5.221,
@@ -623,7 +673,8 @@
             "de": "Ein idealer Ort für eine Mittagspause mit kulturellem Flair und Seeblick.",
             "hu": "Ideális hely egy ebédszünetre kulturális hangulattal és tóra néző kilátással.",
             "ro": "Un loc ideal pentru o pauză de prânz cu o notă culturală și vedere la lac.",
-            "en": "An ideal spot for a lunch break with cultural flair and a lake view."
+            "en": "An ideal spot for a lunch break with cultural flair and a lake view.",
+            "nl": "Een ideale plek voor een lunchpauze met culturele flair en een uitzicht op het meer."
           }
         },
         {
@@ -631,7 +682,8 @@
             "de": "Weerwater See",
             "hu": "Weerwater-tó",
             "ro": "Lacul Weerwater",
-            "en": "Weerwater Lake"
+            "en": "Weerwater Lake",
+            "nl": "Weerwater"
           },
           "coords": [
             5.2238,
@@ -647,7 +699,8 @@
             "de": "Folgen Sie dem Radweg, der einmal um den See führt, für eine entspannte Tour.",
             "hu": "Kövesse a tó körüli kerékpárutat egy pihentető túrához.",
             "ro": "Urmați pista de biciclete care înconjoară lacul pentru un tur relaxant.",
-            "en": "Follow the bike path that loops around the lake for a relaxing tour."
+            "en": "Follow the bike path that loops around the lake for a relaxing tour.",
+            "nl": "Volg het fietspad dat rond het meer loopt voor een ontspannen rondrit."
           }
         },
         {
@@ -655,7 +708,8 @@
             "de": "Stadslandgoed de Kemphaan",
             "hu": "Stadslandgoed de Kemphaan",
             "ro": "Domeniul Stadslandgoed de Kemphaan",
-            "en": "Stadslandgoed de Kemphaan"
+            "en": "Stadslandgoed de Kemphaan",
+            "nl": "Stadslandgoed De Kemphaan"
           },
           "coords": [
             5.28,
@@ -671,7 +725,8 @@
             "de": "Erkunden Sie die Wälder, den Kletterpark und den Stadtbauernhof. Ein großartiger Ort für einen aktiven Nachmittag.",
             "hu": "Fedezze fel az erdőket, a kalandparkot és a városi gazdaságot. Nagyszerű hely egy aktív délutánhoz.",
             "ro": "Explorați pădurile, parcul de aventură și ferma urbană. Un loc minunat pentru o după-amiază activă.",
-            "en": "Explore the forests, the climbing park, and the city farm. A great place for an active afternoon."
+            "en": "Explore the forests, the climbing park, and the city farm. A great place for an active afternoon.",
+            "nl": "Ontdek de bossen, het klimpark en de stadsboerderij. Een geweldige plek voor een actieve namiddag."
           }
         }
       ],
@@ -679,7 +734,8 @@
         "de": "Schwingen Sie sich auf Ihr Fahrrad und beginnen Sie den Tag im farbenfrohen Regenboogbuurt, einem Beweis für Almeres architektonischen Wagemut. Die Fahrt führt Sie dann ins Stadtzentrum, wo Sie im geschäftigen Einkaufszentrum eine Pause einlegen können. Weiter geht es zum kulturellen Herzen der Stadt, dem Kunstlinie, direkt am Weerwater-See. Gönnen Sie sich hier eine Pause und genießen Sie die Kombination aus Kunst und Natur. Anschließend umrunden Sie den See und genießen die frische Luft und die schöne Aussicht, bevor Sie sich auf den Weg zum weitläufigen Stadslandgoed de Kemphaan machen. Dort verbringen Sie den Nachmittag damit, die Natur zu erkunden, vielleicht klettern Sie im Kletterpark oder besuchen die Tiere auf dem Bauernhof. Dieser Radtag verbindet urbanes Flair mit weitläufigen Naturerlebnissen und zeigt die Vielfalt von Almere.",
         "hu": "Pattanjon kerékpárra, és kezdje a napot a színes Szivárvány-negyedben, amely Almere építészeti merészségének bizonyítéka. Az út ezután a városközpontba vezet, ahol megpihenhet a nyüzsgő bevásárlóközpontban. A következő állomás a város kulturális szíve, a Kunstlinie, közvetlenül a Weerwater-tó partján. Tartson itt egy szünetet, és élvezze a művészet és a természet kombinációját. Ezután tekerje körbe a tavat, élvezve a friss levegőt és a gyönyörű kilátást, mielőtt elindulna a tágas Stadslandgoed de Kemphaan felé. Töltse a délutánt a természet felfedezésével, esetleg másszon fel a kalandparkban, vagy látogassa meg az állatokat a farmon. Ez a kerékpáros nap ötvözi a városi hangulatot a kiterjedt természeti élményekkel, bemutatva Almere sokszínűségét.",
         "ro": "Urcați-vă pe bicicletă și începeți ziua în coloratul Cartier Curcubeu, o dovadă a îndrăznelii arhitecturale a orașului Almere. Traseul vă duce apoi în centrul orașului, unde puteți face o pauză în centrul comercial aglomerat. Continuați spre inima culturală a orașului, Kunstlinie, chiar pe malul lacului Weerwater. Luați o pauză aici și bucurați-vă de combinația de artă și natură. Apoi, înconjurați lacul pe bicicletă, bucurându-vă de aerul curat și de priveliștile frumoase, înainte de a vă îndrepta spre vastul domeniu Stadslandgoed de Kemphaan. Petreceți după-amiaza explorând natura, poate urcând în parcul de aventură sau vizitând animalele de la fermă. Această zi pe bicicletă combină farmecul urban cu experiențe extinse în natură, prezentând diversitatea orașului Almere.",
-        "en": "Hop on your bike and start the day in the colorful Rainbow Neighborhood, a testament to Almere's architectural audacity. The ride then takes you into the city center, where you can take a break at the bustling shopping mall. Continue to the cultural heart of the city, the Kunstlinie, right on the Weerwater lake. Take a break here and enjoy the combination of art and nature. Afterwards, circle the lake, enjoying the fresh air and beautiful views, before heading to the expansive Stadslandgoed de Kemphaan. Spend the afternoon exploring nature, perhaps trying the climbing park or visiting the animals at the farm. This cycling day combines urban flair with extensive nature experiences, showcasing the diversity of Almere."
+        "en": "Hop on your bike and start the day in the colorful Rainbow Neighborhood, a testament to Almere's architectural audacity. The ride then takes you into the city center, where you can take a break at the bustling shopping mall. Continue to the cultural heart of the city, the Kunstlinie, right on the Weerwater lake. Take a break here and enjoy the combination of art and nature. Afterwards, circle the lake, enjoying the fresh air and beautiful views, before heading to the expansive Stadslandgoed de Kemphaan. Spend the afternoon exploring nature, perhaps trying the climbing park or visiting the animals at the farm. This cycling day combines urban flair with extensive nature experiences, showcasing the diversity of Almere.",
+        "nl": "Spring op je fiets en begin de dag in de kleurrijke Regenboogbuurt, een bewijs van Almeres architecturale durf. De rit voert je daarna het stadscentrum in, waar je kunt pauzeren in het drukke winkelcentrum. Ga vervolgens naar het culturele hart van de stad, de Kunstlinie, direct aan het Weerwater. Neem hier een pauze en geniet van de combinatie van kunst en natuur. Rijd daarna rond het meer en geniet van de frisse lucht en het mooie uitzicht, voordat je naar het uitgestrekte Stadslandgoed De Kemphaan gaat. Breng de namiddag door met het verkennen van de natuur, probeer eventueel het klimpark of bezoek de dieren op de boerderij. Deze fietsdag combineert stedelijke flair met uitgebreide natuurervaringen en laat de diversiteit van Almere zien."
       },
       "gastro_picks": {
         "de": [
@@ -875,6 +931,12 @@
           "Always lock your bike, even if you're only leaving it for a few minutes.",
           "A bike with gears is recommended for the bridges and the occasional gust of wind.",
           "Plan your route using an app that shows cycle paths to find the most scenic routes."
+        ],
+        "nl": [
+          "Almere heeft een uitstekend netwerk van fietspaden. Ze zijn veilig en duidelijk bewegwijzerd.",
+          "Zet altijd je fiets op slot, zelfs als je hem maar een paar minuten wegzet.",
+          "Een fiets met versnellingen wordt aanbevolen voor de bruggen en de af en toe aanwezige windstoten.",
+          "Plan je route met een app die fietspaden toont om de meest schilderachtige routes te vinden."
         ]
       },
       "variants": {
@@ -883,7 +945,8 @@
             "de": "Starten Sie Ihre Radtour in der bunten Regenboogbuurt. Die farbenfrohen Häuser leuchten auch unter grauem Himmel und bieten einen fröhlichen Kontrast zum Regen.\n\nMittags radeln Sie zum Almere Stad Shopping Center. Nutzen Sie die zahlreichen überdachten Fahrradständer, um Ihr Rad trocken abzustellen, während Sie drinnen pausieren.\n\nAm Nachmittag führt der Weg entlang des Weerwater zum Kunstlinie (KAF). Die gut ausgebauten Radwege in Almere sind asphaltiert, sodass Sie trotz Nässe zügig vorankommen.\n\nZum Abschluss besuchen Sie Stadslandgoed de Kemphaan. Die bewaldeten Wege bieten etwas Schutz vor dem Wind, auch wenn der Boden hier etwas rutschiger sein kann.",
             "hu": "Kezdje a biciklitúrát a Regenboogbuurt színes házaival. A vibráló homlokzatok szürke égbolt alatt is jól mutatnak, vidám kontrasztot adva az esőnek.\n\nDélben tekerjen be az Almere Stad központba. Használja a fedett kerékpártárolókat, hogy szárazon hagyja a biciklit, amíg ön bent pihen.\n\nDélután az út a Weerwater partján vezet a Kunstlinie (KAF) felé. Almere kerékpárútjai kiváló minőségűek, így esőben is biztonságosan haladhat.\n\nA nap végén látogasson el a Kemphaan birtokra. Az erdei utak adnak némi szélvédettséget, bár a talaj itt nedves időben csúszósabb lehet.",
             "ro": "Începeți turul cu bicicleta în cartierul colorat Regenboogbuurt. Casele vibrante strălucesc chiar și sub cerul gri, oferind un contrast vesel cu ploaia.\n\nLa prânz, pedalați spre centrul Almere Stad. Folosiți numeroasele rastele acoperite pentru a vă lăsa bicicleta la uscat în timp ce luați o pauză la interior.\n\nDupă-amiaza, traseul continuă pe malul lacului Weerwater spre Kunstlinie (KAF). Pistele de biciclete bine întreținute din Almere sunt asfaltate, permițând un avans rapid în ciuda umezelii.\n\nÎn final, vizitați domeniul de stat De Kemphaan. Potecile împădurite oferă o oarecare protecție împotriva vântului, deși terenul poate fi mai noroios aici.",
-            "en": "Start your bike tour in the Rainbow Neighborhood. The colorful houses stand out even under gray skies, providing a cheerful contrast to the rainy weather.\n\nAt noon, cycle to Almere Stad Shopping Center. Take advantage of the many covered bike racks to keep your seat dry while you take a break inside.\n\nIn the afternoon, head along the Weerwater towards Kunstlinie (KAF). Almere's excellent cycling infrastructure means smooth, paved paths that remain safe even when wet.\n\nFinally, visit Stadslandgoed de Kemphaan. The wooded areas provide some windbreak, though the ground may be a bit more slippery than the city paths."
+            "en": "Start your bike tour in the Rainbow Neighborhood. The colorful houses stand out even under gray skies, providing a cheerful contrast to the rainy weather.\n\nAt noon, cycle to Almere Stad Shopping Center. Take advantage of the many covered bike racks to keep your seat dry while you take a break inside.\n\nIn the afternoon, head along the Weerwater towards Kunstlinie (KAF). Almere's excellent cycling infrastructure means smooth, paved paths that remain safe even when wet.\n\nFinally, visit Stadslandgoed de Kemphaan. The wooded areas provide some windbreak, though the ground may be a bit more slippery than the city paths.",
+            "nl": "Begin je fietstocht in de Regenboogbuurt. De kleurige huizen vallen zelfs bij grijze luchten op en vormen een vrolijk contrast met het natte weer.\n\nRond het middaguur fiets je naar Almere Stad Shopping Center. Maak gebruik van de vele overdekte fietsenrekken om je zadel droog te houden tijdens je pauze binnen.\n\nIn de namiddag ga je langs het Weerwater richting Kunstlinie (KAF). Almeres uitstekende fietsinfrastructuur betekent doorgaande, verharde paden die ook bij nat weer veilig blijven.\n\nTot slot bezoek je Stadslandgoed De Kemphaan. De bosrijke gedeeltes bieden enige beschutting tegen de wind, al kan de ondergrond er iets gladder zijn dan in de stad."
           },
           "stops": [
             {
@@ -892,7 +955,8 @@
                 "de": "Die Farben wirken bei nassem Asphalt besonders gesättigt auf Fotos.",
                 "hu": "A színek a nedves aszfalton különösen telítettnek tűnnek a fotókon.",
                 "ro": "Culorile par mai saturate pe asfaltul umed în fotografii.",
-                "en": "The colors look especially saturated against the wet asphalt in photos."
+                "en": "The colors look especially saturated against the wet asphalt in photos.",
+                "nl": "De kleuren lijken extra verzadigd tegen het natte asfalt op foto’s."
               }
             },
             {
@@ -901,7 +965,8 @@
                 "de": "Suchen Sie die unterirdischen oder überdachten Fahrradparkplätze auf.",
                 "hu": "Keresse a földalatti vagy fedett kerékpárparkolókat.",
                 "ro": "Căutați parcările de biciclete subterane sau acoperite.",
-                "en": "Look for the underground or covered bike parking areas."
+                "en": "Look for the underground or covered bike parking areas.",
+                "nl": "Zoek naar ondergrondse of overdekte fietsenstallingen."
               }
             },
             {
@@ -910,7 +975,8 @@
                 "de": "Stellen Sie Ihr Rad direkt unter den Vorsprung des Gebäudes.",
                 "hu": "Állítsa a biciklit közvetlenül az épület kiugró része alá.",
                 "ro": "Lăsați bicicleta direct sub streașina clădirii.",
-                "en": "Park your bike directly under the building's overhang to keep it dry."
+                "en": "Park your bike directly under the building's overhang to keep it dry.",
+                "nl": "Parkeer je fiets direct onder de overstek van het gebouw om hem droog te houden."
               }
             },
             {
@@ -919,7 +985,8 @@
                 "de": "Achten Sie auf Seitenwind auf den exponierten Brücken.",
                 "hu": "Vigyázzon az oldalszélre a nyitott hidakon.",
                 "ro": "Atenție la vântul lateral pe podurile expuse.",
-                "en": "Be careful of crosswinds on the exposed bridges over the lake."
+                "en": "Be careful of crosswinds on the exposed bridges over the lake.",
+                "nl": "Wees voorzichtig met zijwind op de vrijliggende bruggen over het meer."
               }
             },
             {
@@ -928,7 +995,8 @@
                 "de": "Bleiben Sie auf den befestigten Wegen, um Schlamm zu vermeiden.",
                 "hu": "Maradjon a burkolt utakon, hogy elkerülje a sarat.",
                 "ro": "Rămâneți pe potecile pavate pentru a evita noroiul.",
-                "en": "Stick to the paved paths to avoid getting muddy in the forest area."
+                "en": "Stick to the paved paths to avoid getting muddy in the forest area.",
+                "nl": "Blijf op de verharde paden om niet modderig te worden in het bosgebied."
               }
             }
           ],
@@ -956,6 +1024,12 @@
               "Avoid sudden braking on the red bike paths, as they can become slick when wet.",
               "Utilize the free, guarded bike parking stations (Stalling) in the city center.",
               "Wind direction in Almere is a major factor in how hard you'll have to pedal."
+            ],
+            "nl": [
+              "Draag volledig waterdichte kleding; de paden zijn vaak flink blootgesteld aan de elementen.",
+              "Vermijd plots remmen op de rode fietspaden, want die kunnen glad worden bij nat weer.",
+              "Maak gebruik van de gratis, bewaakte fietsenstallingen (Stalling) in het stadscentrum.",
+              "Windrichting in Almere beïnvloedt sterk hoe zwaar je moet trappen."
             ]
           }
         },
@@ -964,7 +1038,8 @@
             "de": "Starten Sie Ihre frostige Radtour in der Regenboogbuurt. Die klare Winterluft lässt die farbigen Siedlungen besonders scharf und kontrastreich erscheinen.\n\nMittags erreichen Sie das Stadtzentrum. Die Radwege sind in Almere meist hervorragend geräumt, sodass Sie sicher zum Shopping Center gelangen, um sich aufzuwärmen.\n\nNachmittags radeln Sie am gefrorenen Weerwater entlang zum KAF. Die kühle Brise vom See ist erfrischend, aber gute Handschuhe sind bei der Fahrt unverzichtbar.\n\nZum Abschluss führt der Weg zum Stadslandgoed de Kemphaan. Der winterliche Wald wirkt ruhig und friedlich, ein schöner Ort für eine kurze Pause, bevor die Dunkelheit einsetzt.",
             "hu": "Kezdje a fagyos biciklitúrát a Regenboogbuurtben. A tiszta téli levegőben a színes házak kontúrjai élesen kirajzolódnak.\n\nDélben érkezzen meg a városközpontba. Almerében a kerékpárutakat télen is jól takarítják, így biztonságban juthat el a bevásárlóközpontba melegedni.\n\nDélután tekerjen a Weerwater partján a KAF felé. A tóról érkező hűvös szél frissítő, de a kesztyű elengedhetetlen a kormányon.\n\nA nap végén irány a Kemphaan birtok. A téli erdő ilyenkor csendes és békés, tökéletes hely egy rövid pihenőre a sötétedés előtt.",
             "ro": "Începeți turul cu bicicleta prin ger în Regenboogbuurt. Aerul clar de iarnă face ca așezările colorate să pară deosebit de clare și pline de contrast.\n\nLa prânz, ajungeți în centrul orașului. Pistele de biciclete sunt de obicei bine curățate în Almere, deci veți ajunge în siguranță la Shopping Center pentru a vă încălzi.\n\nDupă-amiaza, pedalați de-a lungul lacului înghețat Weerwater spre KAF. Briza rece de pe lac este revigorantă, dar mănușile bune sunt indispensabile.\n\nÎn final, drumul vă duce la De Kemphaan. Pădurea de iarnă pare liniștită și pașnică, un loc frumos pentru o scurtă pauză înainte de lăsarea serii.",
-            "en": "Start your frosty bike tour in the Rainbow Neighborhood. The crisp winter air makes the colorful buildings appear exceptionally sharp and vibrant.\n\nAt noon, head into the city center. Cycling paths in Almere are generally well-maintained in winter, ensuring a safe ride to the Shopping Center for a warm break.\n\nIn the afternoon, cycle alongside the frozen Weerwater towards KAF. The chill coming off the lake is bracing, so good gloves are a must for your ride.\n\nFinally, make your way to Stadslandgoed de Kemphaan. The winter forest is quiet and peaceful, offering a serene end to your ride before the early sunset."
+            "en": "Start your frosty bike tour in the Rainbow Neighborhood. The crisp winter air makes the colorful buildings appear exceptionally sharp and vibrant.\n\nAt noon, head into the city center. Cycling paths in Almere are generally well-maintained in winter, ensuring a safe ride to the Shopping Center for a warm break.\n\nIn the afternoon, cycle alongside the frozen Weerwater towards KAF. The chill coming off the lake is bracing, so good gloves are a must for your ride.\n\nFinally, make your way to Stadslandgoed de Kemphaan. The winter forest is quiet and peaceful, offering a serene end to your ride before the early sunset.",
+            "nl": "Begin je frisse fietstocht in de Regenboogbuurt. De scherpe winterlucht laat de kleurrijke gebouwen uitzonderlijk helder en levendig lijken.\n\nRond het middaguur fiets je het centrum in. De fietspaden in Almere worden in de winter over het algemeen goed onderhouden, wat een veilige rit naar het Shopping Center voor een warme pauze garandeert.\n\nIn de namiddag fiets je langs het bevroren Weerwater richting KAF. De kou die van het meer af komt is bijtend, dus goede handschoenen zijn onmisbaar voor je tocht.\n\nEindig met een rit naar Stadslandgoed De Kemphaan. Het winterbos is rustig en sereen en biedt een kalme afronding van je rit voordat de zon vroeg ondergaat."
           },
           "stops": [
             {
@@ -973,7 +1048,8 @@
                 "de": "Nutzen Sie das klare Winterlicht für Fotos ohne Dunst.",
                 "hu": "Használja ki a tiszta téli fényt a páramentes fotókhoz.",
                 "ro": "Profită de lumina clară de iarnă pentru fotografii fără ceață.",
-                "en": "Take advantage of the clear winter light for haze-free photos."
+                "en": "Take advantage of the clear winter light for haze-free photos.",
+                "nl": "Profiteer van het heldere winterlicht voor minder nevel in je foto’s."
               }
             },
             {
@@ -982,7 +1058,8 @@
                 "de": "Parken Sie Ihr Rad im warmen 'Fietstalling' im Untergeschoss.",
                 "hu": "Parkolja le a biciklijét a meleg alagsori kerékpártárolóban.",
                 "ro": "Parcați bicicleta în 'Fietstalling'-ul cald de la subsol.",
-                "en": "Park your bike in the warmer underground 'Fietstalling' stations."
+                "en": "Park your bike in the warmer underground 'Fietstalling' stations.",
+                "nl": "Parkeer je fiets in de warmere ondergrondse 'Fietstalling'-stations."
               }
             },
             {
@@ -991,7 +1068,8 @@
                 "de": "Kurze Aufwärmpause im Foyer einplanen.",
                 "hu": "Tervezzen be egy rövid melegedőt a fogadótérben.",
                 "ro": "Planificați o scurtă pauză de încălzire în foaier.",
-                "en": "Plan a short warming break in the foyer before continuing."
+                "en": "Plan a short warming break in the foyer before continuing.",
+                "nl": "Plan een korte opwarmpauze in de foyer voordat je verdergaat."
               }
             },
             {
@@ -1000,7 +1078,8 @@
                 "de": "Bei Glatteisgefahr besonders in Kurven vorsichtig fahren.",
                 "hu": "Jegesedés esetén különösen a kanyarokban vezessen óvatosan.",
                 "ro": "În caz de polei, pedalați cu mare atenție în curbe.",
-                "en": "If there's ice, cycle with extra caution, especially on the turns."
+                "en": "If there's ice, cycle with extra caution, especially on the turns.",
+                "nl": "Als er ijs ligt, fiets dan extra voorzichtig, vooral in bochten."
               }
             },
             {
@@ -1009,7 +1088,8 @@
                 "de": "Die Wege im Wald können gefroren und uneben sein.",
                 "hu": "Az erdei utak fagyottak és egyenetlenek lehetnek.",
                 "ro": "Potecile din pădure pot fi înghețate și denivelate.",
-                "en": "Forest paths may be frozen and uneven; watch your balance."
+                "en": "Forest paths may be frozen and uneven; watch your balance.",
+                "nl": "Bospaadjes kunnen bevroren en ongelijk zijn; let op je balans."
               }
             }
           ],
@@ -1037,6 +1117,12 @@
               "Check your tire pressure; slightly lower pressure offers better grip on slippery paths.",
               "Ensure your bike lights are working; it gets dark very early in December.",
               "Take advantage of the heated, guarded bike storage cellars in the city center."
+            ],
+            "nl": [
+              "Draag thermische handschoenen; de gevoelstemperatuur is veel lager tijdens het fietsen in de winter.",
+              "Controleer je bandenspanning; iets lagere druk geeft betere grip op gladde paden.",
+              "Zorg dat je fietsverlichting werkt; het wordt in december erg vroeg donker.",
+              "Maak gebruik van verwarmde, bewaakte fietsenkelderopslag in het stadscentrum."
             ]
           }
         }
@@ -1055,7 +1141,8 @@
             "de": "Almere Stad Einkaufszentrum",
             "hu": "Almere Stad bevásárlóközpont",
             "ro": "Centrul Comercial Almere Stad",
-            "en": "Almere Stad Shopping Center"
+            "en": "Almere Stad Shopping Center",
+            "nl": "Almere Stad Shopping Center"
           },
           "coords": [
             5.217,
@@ -1071,7 +1158,8 @@
             "de": "Parken Sie in einem der zentralen Parkhäuser für den Tag und erkunden Sie den ersten Teil der Stadt zu Fuß.",
             "hu": "Parkoljon a központi parkolóházak egyikében a napra, és fedezze fel a város első részét gyalog.",
             "ro": "Parcați într-una dintre parcările centrale pentru o zi și explorați prima parte a orașului pe jos.",
-            "en": "Park in one of the central parking garages for the day and explore the first part of the city on foot."
+            "en": "Park in one of the central parking garages for the day and explore the first part of the city on foot.",
+            "nl": "Parkeer in een van de centrale garages voor de dag en verken het eerste deel van de stad te voet."
           }
         },
         {
@@ -1079,7 +1167,8 @@
             "de": "PIT Veiligheidsmuseum",
             "hu": "PIT Biztonsági Múzeum",
             "ro": "Muzeul Securității PIT",
-            "en": "PIT Safety Museum"
+            "en": "PIT Safety Museum",
+            "nl": "PIT Veiligheidsmuseum"
           },
           "coords": [
             5.215,
@@ -1095,7 +1184,8 @@
             "de": "Ein kurzer Spaziergang vom Parkhaus. Planen Sie genügend Zeit für dieses überraschend fesselnde Museum ein.",
             "hu": "Rövid séta a parkolóháztól. Tervezzen elegendő időt erre a meglepően lebilincselő múzeumra.",
             "ro": "O scurtă plimbare de la parcare. Alocați suficient timp pentru acest muzeu surprinzător de captivant.",
-            "en": "A short walk from the parking garage. Plan enough time for this surprisingly engaging museum."
+            "en": "A short walk from the parking garage. Plan enough time for this surprisingly engaging museum.",
+            "nl": "Een korte wandeling vanaf de parkeergarage. Plan genoeg tijd voor dit verrassend boeiende museum."
           }
         },
         {
@@ -1103,7 +1193,8 @@
             "de": "Kunstlinie Almere Flevoland (KAF)",
             "hu": "Kunstlinie Almere Flevoland (KAF)",
             "ro": "Centrul Cultural Kunstlinie (KAF)",
-            "en": "Kunstlinie Almere Flevoland (KAF)"
+            "en": "Kunstlinie Almere Flevoland (KAF)",
+            "nl": "Kunstlinie Almere Flevoland (KAF)"
           },
           "coords": [
             5.221,
@@ -1119,7 +1210,8 @@
             "de": "Genießen Sie ein Mittagessen im Theatercafé, bevor Sie zurück zum Auto gehen.",
             "hu": "Ebédeljen a színházi kávézóban, mielőtt visszatérne az autóhoz.",
             "ro": "Luați prânzul la cafeneaua teatrului înainte de a vă întoarce la mașină.",
-            "en": "Have lunch at the theater cafe before heading back to the car."
+            "en": "Have lunch at the theater cafe before heading back to the car.",
+            "nl": "Eet lunch in het theatercafé voordat je terug naar de auto gaat."
           }
         },
         {
@@ -1127,7 +1219,8 @@
             "de": "Naturpark Oostvaardersplassen",
             "hu": "Oostvaardersplassen Natúrpark",
             "ro": "Parcul Natural Oostvaardersplassen",
-            "en": "Oostvaardersplassen Nature Reserve"
+            "en": "Oostvaardersplassen Nature Reserve",
+            "nl": "Oostvaardersplassen"
           },
           "coords": [
             5.35,
@@ -1143,7 +1236,8 @@
             "de": "Fahren Sie zum Besucherzentrum und benutzen Sie die Beobachtungshütten. Bringen Sie ein Fernglas mit!",
             "hu": "Hajtson a látogatóközponthoz, és használja a megfigyelőkunyhókat. Hozzon magával távcsövet!",
             "ro": "Conduceți până la centrul de vizitatori și folosiți observatoarele. Aduceți binoclu!",
-            "en": "Drive to the visitor center and use the observation huts. Bring binoculars!"
+            "en": "Drive to the visitor center and use the observation huts. Bring binoculars!",
+            "nl": "Rij naar het bezoekerscentrum en gebruik de vogelkijkhutten. Neem verrekijkers mee!"
           }
         },
         {
@@ -1151,7 +1245,8 @@
             "de": "Regenboogbuurt (Regenbogenviertel)",
             "hu": "Regenboogbuurt (Szivárvány-negyed)",
             "ro": "Cartierul Curcubeului (Regenboogbuurt)",
-            "en": "Rainbow Neighborhood (Regenboogbuurt)"
+            "en": "Rainbow Neighborhood (Regenboogbuurt)",
+            "nl": "Regenboogbuurt (Rainbow Neighborhood)"
           },
           "coords": [
             5.288,
@@ -1167,7 +1262,8 @@
             "de": "Parken Sie am Rand des Viertels und machen Sie einen Spaziergang, um die Farbenpracht zu erleben.",
             "hu": "Parkoljon a negyed szélén, és tegyen egy sétát, hogy megtapasztalja a színek kavalkádját.",
             "ro": "Parcați la marginea cartierului și faceți o plimbare pentru a experimenta explozia de culori.",
-            "en": "Park on the edge of the neighborhood and take a walk to experience the riot of color."
+            "en": "Park on the edge of the neighborhood and take a walk to experience the riot of color.",
+            "nl": "Parkeer aan de rand van de buurt en neem een wandeling om de explosie van kleur te ervaren."
           }
         }
       ],
@@ -1175,7 +1271,8 @@
         "de": "Ihr Autotag in Almere beginnt mit dem Parken im Stadtzentrum. Der erste Cluster konzentriert sich auf das städtische Herz: das Einkaufszentrum, das PIT Veiligheidsmuseum und das Kulturzentrum KAF sind alle bequem zu Fuß erreichbar. Nach einem Vormittag voller urbaner Entdeckungen und Kultur steigen Sie ins Auto und fahren zum zweiten Cluster: dem riesigen Naturpark Oostvaardersplassen. Hier tauschen Sie die Stadtlandschaft gegen eine weite, wilde Ebene. Verbringen Sie den frühen Nachmittag mit der Beobachtung von Vögeln und Wildtieren. Der letzte Stopp des Tages ist ein weiterer kurzer Sprung mit dem Auto zum farbenfrohen Regenboogbuurt. Schlendern Sie durch dieses einzigartige Wohnviertel und bewundern Sie die kühne Farbgebung. Dieser Plan kombiniert das Beste aus Almeres moderner Stadtplanung, Kultur und der atemberaubenden Natur, die es umgibt.",
         "hu": "Autós napja Almerében a városközpontban való parkolással kezdődik. Az első klaszter a városi szívre összpontosít: a bevásárlóközpont, a PIT Biztonsági Múzeum és a KAF kulturális központ mind gyalogosan elérhetőek. A városi felfedezésekkel és kultúrával teli délelőtt után autóba ül, és a második klaszterhez, a hatalmas Oostvaardersplassen Natúrparkhoz hajt. Itt a városi tájat egy hatalmas, vad síkságra cseréli. Töltse a kora délutánt madár- és vadmegfigyeléssel. A nap utolsó állomása egy újabb rövid autós ugrás a színes Szivárvány-negyedbe. Sétáljon végig ezen az egyedülálló lakónegyeden, és csodálja meg a merész színeket. Ez a terv ötvözi Almere modern várostervezésének, kultúrájának és a környező lenyűgöző természetnek a legjavát.",
         "ro": "Ziua dvs. cu mașina în Almere începe cu parcarea în centrul orașului. Primul grup de obiective se concentrează pe inima urbană: centrul comercial, Muzeul de Siguranță PIT și centrul cultural KAF sunt toate la distanță de mers pe jos. După o dimineață de explorări urbane și cultură, urcați-vă în mașină și conduceți spre al doilea grup: vasta rezervație naturală Oostvaardersplassen. Aici, schimbați peisajul urban cu o câmpie vastă și sălbatică. Petreceți începutul după-amiezii observând păsări și animale sălbatice. Ultima oprire a zilei este un alt salt scurt cu mașina până la coloratul Cartier Curcubeu. Plimbați-vă prin acest cartier rezidențial unic, admirând schemele de culori îndrăznețe. Acest plan combină tot ce este mai bun din urbanismul modern al Almerei, cultura și natura uimitoare care o înconjoară.",
-        "en": "Your car day in Almere starts by parking in the city center. The first cluster focuses on the urban heart: the shopping center, the PIT Safety Museum, and the KAF cultural center are all within easy walking distance. After a morning of urban exploration and culture, you get in the car and drive to the second cluster: the vast Oostvaardersplassen nature reserve. Here you'll swap the cityscape for a wide, wild plain. Spend the early afternoon birdwatching and spotting wildlife. The final stop of the day is another short hop by car to the colorful Rainbow Neighborhood. Stroll through this unique residential area, admiring the bold color schemes. This plan combines the best of Almere's modern urban planning, culture, and the stunning nature that surrounds it."
+        "en": "Your car day in Almere starts by parking in the city center. The first cluster focuses on the urban heart: the shopping center, the PIT Safety Museum, and the KAF cultural center are all within easy walking distance. After a morning of urban exploration and culture, you get in the car and drive to the second cluster: the vast Oostvaardersplassen nature reserve. Here you'll swap the cityscape for a wide, wild plain. Spend the early afternoon birdwatching and spotting wildlife. The final stop of the day is another short hop by car to the colorful Rainbow Neighborhood. Stroll through this unique residential area, admiring the bold color schemes. This plan combines the best of Almere's modern urban planning, culture, and the stunning nature that surrounds it.",
+        "nl": "Je autodag in Almere begint met parkeren in het stadscentrum. De eerste cluster richt zich op het stedelijke hart: het winkelcentrum, het PIT Veiligheidsmuseum en het KAF-cultureel centrum liggen allemaal op loopafstand. Na een ochtend stedelijke verkenning en cultuur stap je in de auto en rijd je naar de tweede cluster: het uitgestrekte natuurgebied Oostvaardersplassen. Hier ruil je de stadsgezichten in voor een wijde, wilde vlakte. Breng de vroege namiddag door met vogelspotten en het zoeken naar wilde dieren. De laatste stop van de dag is een korte rit naar de kleurrijke Regenboogbuurt. Wandel door deze unieke woonwijk en bewonder de gedurfde kleurstellingen. Dit plan combineert het beste van Almeres moderne stedenbouw, cultuur en de indrukwekkende natuur eromheen."
       },
       "gastro_picks": {
         "de": [
@@ -1371,6 +1468,12 @@
           "Roads in the Netherlands are good, but always watch out for cyclists, who have the right of way.",
           "A navigation system is essential, as road layouts can change quickly in new cities like Almere.",
           "Check the opening hours for the Oostvaardersplassen visitor center in advance."
+        ],
+        "nl": [
+          "Parkeren in het centrum is betaald. Houd hier rekening mee in je budget.",
+          "Wegen in Nederland zijn goed, maar let altijd op fietsers; zij hebben vaak voorrang.",
+          "Een navigatiesysteem is essentieel, omdat wegen in nieuwe steden zoals Almere snel kunnen veranderen.",
+          "Controleer van tevoren de openingstijden van het bezoekerscentrum van de Oostvaardersplassen."
         ]
       },
       "variants": {
@@ -1379,7 +1482,8 @@
             "de": "Starten Sie Ihre Autotour im Almere Stad Shopping Center. Nutzen Sie die großzügigen Parkhäuser, die einen trockenen Zugang direkt zu den Geschäften ermöglichen.\n\nMittags fahren Sie zum PIT Safety Museum. Der Parkplatz befindet sich in unmittelbarer Nähe, sodass Sie nur kurz dem Regen ausgesetzt sind.\n\nNachmittags geht es zum Kunstlinie (KAF). Von hier aus haben Sie einen Logenplatz, um das regnerische Panorama über dem Weerwater-See bequem aus dem Auto oder dem Glasgebäude zu betrachten.\n\nZum Abschluss führt die Fahrt zum Oostvaardersplassen. Bleiben Sie im Besucherzentrum oder beobachten Sie die Tierwelt vom Auto aus, um den stürmischen Winden des Naturreservats zu entgehen.",
             "hu": "Kezdje az autós túrát az Almere Stad bevásárlóközpontban. Használja a tágas parkolóházakat, amelyek közvetlen, száraz bejutást biztosítanak az üzletekhez.\n\nDélben hajtson a PIT Biztonsági Múzeumhoz. A parkoló közvetlenül a bejárat mellett van, így csak pár pillanatot kell az esőben töltenie.\n\nDélután irány a Kunstlinie (KAF). Innen kényelmesen, az autóból vagy az üvegépületből nézheti az esős panorámát a Weerwater-tó felett.\n\nA nap végén látogasson el az Oostvaardersplassen rezervátumhoz. Maradjon a látogatóközpontban, vagy figyelje a vadállatokat az autóból, elkerülve a viharos szelet.",
             "ro": "Începeți turul cu mașina la Almere Stad Shopping Center. Folosiți parcările multietajate generoase care permit accesul uscat direct în magazine.\n\nLa prânz, conduceți spre Muzeul de Siguranță PIT. Parcarea este foarte aproape, astfel încât expunerea la ploaie va fi minimă.\n\nDupă-amiaza, mergeți la Kunstlinie (KAF). De aici aveți o vedere privilegiată asupra lacului Weerwater, pe care o puteți admira din confortul mașinii sau al clădirii.\n\nÎn final, vizitați Oostvaardersplassen. Rămâneți în centrul de vizitatori sau observați fauna din mașină pentru a evita vânturile puternice din rezervație.",
-            "en": "Start your car tour at Almere Stad Shopping Center. Use the large parking garages for direct, dry access to the shopping heart of the city.\n\nAt noon, drive to the PIT Safety Museum. Parking is located very close to the entrance, minimizing your time in the rain.\n\nIn the afternoon, head to Kunstlinie (KAF). Enjoy a front-row seat to the rainy panorama over Weerwater Lake from the comfort of your car or the glass-walled interior.\n\nEnd your day at Oostvaardersplassen. Stay within the visitor center or observe the wildlife from your car to avoid the blustery winds of the open marshlands."
+            "en": "Start your car tour at Almere Stad Shopping Center. Use the large parking garages for direct, dry access to the shopping heart of the city.\n\nAt noon, drive to the PIT Safety Museum. Parking is located very close to the entrance, minimizing your time in the rain.\n\nIn the afternoon, head to Kunstlinie (KAF). Enjoy a front-row seat to the rainy panorama over Weerwater Lake from the comfort of your car or the glass-walled interior.\n\nEnd your day at Oostvaardersplassen. Stay within the visitor center or observe the wildlife from your car to avoid the blustery winds of the open marshlands.",
+            "nl": "Begin je autorondje bij Almere Stad Shopping Center. Gebruik de grote parkeergarages voor directe, droge toegang tot het winkelhart van de stad.\n\nRond het middaguur rijd je naar het PIT Veiligheidsmuseum. Parkeren ligt zeer dichtbij de ingang, waardoor je zo min mogelijk in de regen hoeft te staan.\n\nIn de namiddag ga je naar Kunstlinie (KAF). Geniet van het regenachtige panorama over het Weerwater vanaf het comfort van je auto of vanuit het glazen interieur.\n\nSluit je dag af in de Oostvaardersplassen. Blijf in het bezoekerscentrum of kijk naar de dieren vanuit je auto om de harde wind van het open moeras te vermijden."
           },
           "stops": [
             {
@@ -1388,7 +1492,8 @@
                 "de": "Parkhaus P6 (SchippersGarage) bietet sehr kurzen Weg zum Zentrum.",
                 "hu": "A P6 (SchippersGarage) parkolóházból nagyon rövid az út a központba.",
                 "ro": "Parcarea P6 (SchippersGarage) oferă cel mai scurt drum spre centru.",
-                "en": "Use Parking P6 (SchippersGarage) for the shortest covered walk to the shops."
+                "en": "Use Parking P6 (SchippersGarage) for the shortest covered walk to the shops.",
+                "nl": "Gebruik P6 (SchippersGarage) voor de kortste overdekte wandeling naar de winkels."
               }
             },
             {
@@ -1397,7 +1502,8 @@
                 "de": "Parken Sie auf dem Schipperplein direkt vor dem Eingang.",
                 "hu": "Parkoljon a Schipperplein-en közvetlenül a bejárat előtt.",
                 "ro": "Parcați la Schipperplein chiar în fața intrării.",
-                "en": "Park at Schipperplein directly in front of the museum entrance."
+                "en": "Park at Schipperplein directly in front of the museum entrance.",
+                "nl": "Parkeer op Schipperplein direct voor de museumingang."
               }
             },
             {
@@ -1406,7 +1512,8 @@
                 "de": "Das Parkhaus unter dem Gebäude ist ideal bei Starkregen.",
                 "hu": "Az épület alatti parkolóház ideális szakadó esőben.",
                 "ro": "Parcarea de sub clădire este ideală în caz de ploaie torențială.",
-                "en": "The parking garage directly under the building is perfect for heavy rain."
+                "en": "The parking garage directly under the building is perfect for heavy rain.",
+                "nl": "De parkeergarage direct onder het gebouw is perfect bij stevige regen."
               }
             },
             {
@@ -1415,7 +1522,8 @@
                 "de": "Beobachten Sie die Wildpferde vom Auto aus am Knardijk.",
                 "hu": "Figyelje a vadlovakat az autóból a Knardijk mentén.",
                 "ro": "Observați caii sălbatici din mașină de-a lungul Knardijk.",
-                "en": "Observe the wild horses from your car along the Knardijk road."
+                "en": "Observe the wild horses from your car along the Knardijk road.",
+                "nl": "Bekijk de wilde paarden vanuit je auto langs de Knardijk."
               }
             },
             {
@@ -1424,7 +1532,8 @@
                 "de": "Fahren Sie langsam durch die Straßen; die Architektur wirkt auch vom Auto aus.",
                 "hu": "Hajtson lassan az utcákon; az építészet az autóból is élvezhető.",
                 "ro": "Conduceți încet pe străzi; arhitectura poate fi admirată și din mașină.",
-                "en": "Drive slowly through the streets; the architecture is enjoyable even from the car."
+                "en": "Drive slowly through the streets; the architecture is enjoyable even from the car.",
+                "nl": "Rij rustig door de straten; de architectuur is zelfs vanuit de auto de moeite waard."
               }
             }
           ],
@@ -1452,6 +1561,12 @@
               "Avoid driving on Oostvaardersdijk during heavy storms due to high crosswinds.",
               "The Oostvaardersplassen visitor center provides a dry indoor viewpoint.",
               "Parking garages in the center allow you to move between car and shops without getting wet."
+            ],
+            "nl": [
+              "Gebruik de 'Almere Parkeren' app voor realtime parkeergegevens.",
+              "Vermijd rijden over de Oostvaardersdijk tijdens zware stormen vanwege hoge zijwind.",
+              "Het bezoekerscentrum van de Oostvaardersplassen biedt een droog, binnenuitzichtpunt.",
+              "Parkeergarages in het centrum zorgen dat je tussen auto en winkels kunt bewegen zonder nat te worden."
             ]
           }
         },
@@ -1460,7 +1575,8 @@
             "de": "Beginnen Sie Ihren Wintertag im Almere Stad Shopping Center. Parken Sie im warmen Parkhaus und genießen Sie den Einkaufsbummel im festlich geschmückten Zentrum.\n\nMittags besuchen Sie das PIT Safety Museum. Die kurze Fahrt durch die winterliche Stadt bietet Ausblicke auf die frostige Architektur des Polders.\n\nNachmittags geht es zum Kunstlinie (KAF). Die tiefstehende Sonne sorgt für tolle Lichtreflexe auf dem oft dampfenden oder gefrorenen Weerwater-See.\n\nZum Abschluss fahren Sie zum Oostvaardersplassen. Im Winter ist die Sicht oft klarer, sodass Sie Hirsche und Vögel mit dem Fernglas direkt aus dem beheizten Auto beobachten können.",
             "hu": "Kezdje a téli napot az Almere Stad bevásárlóközpontban. Parkoljon a fedett garázsban, és élvezze a vásárlást az ünnepi díszbe öltözött belvárosban.\n\nDélben látogasson el a PIT Biztonsági Múzeumba. A rövid autózás a téli városon át szép rálátást ad a polder fagyos építészetére.\n\nDélután irány a Kunstlinie (KAF). Az alacsony téli nap különleges fényeket vet a gőzölgő vagy befagyott Weerwater-tóra.\n\nA nap végén hajtson az Oostvaardersplassenhez. Télen a kilátás gyakran tisztább, így a fűtött autóból figyelheti meg a szarvasokat és madarakat.",
             "ro": "Începeți ziua de iarnă la Almere Stad Shopping Center. Parcați în garajul acoperit și bucurați-vă de cumpărături în centrul decorat festiv.\n\nLa prânz, vizitați Muzeul de Siguranță PIT. Scurta plimbare cu mașina prin orașul de iarnă oferă priveliști asupra arhitecturii înghețate a polderului.\n\nDupă-amiaza, mergeți la Kunstlinie (KAF). Soarele de iarnă creează reflexii deosebite pe lacul Weerwater, care poate fi parțial înghețat.\n\nÎn final, conduceți spre Oostvaardersplassen. Iarna, vizibilitatea este adesea mai bună, permițându-vă să observați fauna direct din mașina încălzită.",
-            "en": "Start your winter day at Almere Stad Shopping Center. Park in a sheltered garage and enjoy shopping in the festively decorated city center.\n\nAt noon, visit the PIT Safety Museum. The short drive through the winter city offers views of the frosty polder architecture along the way.\n\nIn the afternoon, head to Kunstlinie (KAF). The low winter sun creates beautiful light reflections on the steaming or frozen Weerwater Lake.\n\nFinish your day at Oostvaardersplassen. Visibility is often better in winter, making it easy to spot deer and birds with binoculars from your heated car."
+            "en": "Start your winter day at Almere Stad Shopping Center. Park in a sheltered garage and enjoy shopping in the festively decorated city center.\n\nAt noon, visit the PIT Safety Museum. The short drive through the winter city offers views of the frosty polder architecture along the way.\n\nIn the afternoon, head to Kunstlinie (KAF). The low winter sun creates beautiful light reflections on the steaming or frozen Weerwater Lake.\n\nFinish your day at Oostvaardersplassen. Visibility is often better in winter, making it easy to spot deer and birds with binoculars from your heated car.",
+            "nl": "Begin je winterdag bij Almere Stad Shopping Center. Parkeer in een beschutte garage en geniet van winkelen in het feestelijk versierde centrum.\n\nRond het middaguur bezoek je het PIT Veiligheidsmuseum. De korte rit door de winterstad biedt uitzichten op de rijpbedekte polderarchitectuur onderweg.\n\nIn de namiddag vervolg je naar Kunstlinie (KAF). De lage winterzon zorgt voor mooie lichtreflecties op het dampende of bevroren Weerwater.\n\nSluit de dag af in de Oostvaardersplassen. Het zicht is vaak beter in de winter, waardoor het makkelijk is om herten en vogels te spotten met verrekijkers vanuit je verwarmde auto."
           },
           "stops": [
             {
@@ -1469,7 +1585,8 @@
                 "de": "Vermeiden Sie Parkplätze im Freien, um das Auto eisfrei zu halten.",
                 "hu": "Kerülje a szabadtéri parkolókat, hogy az autó jégmentes maradjon.",
                 "ro": "Evitați parcările în aer liber pentru a menține mașina fără gheață.",
-                "en": "Avoid outdoor parking lots to keep your car windshield frost-free."
+                "en": "Avoid outdoor parking lots to keep your car windshield frost-free.",
+                "nl": "Vermijd parkeerplaatsen in de open lucht om je autoruit vorstvrij te houden."
               }
             },
             {
@@ -1478,7 +1595,8 @@
                 "de": "Die Zufahrt über den Schipperplein wird meist gut gestreut.",
                 "hu": "A Schipperplein felőli utat általában jól sózzák.",
                 "ro": "Accesul prin Schipperplein este de obicei bine curățat de zăpadă.",
-                "en": "The access road via Schipperplein is usually well-salted and cleared."
+                "en": "The access road via Schipperplein is usually well-salted and cleared.",
+                "nl": "De toegangsweg via Schipperplein is meestal goed gezouten en schoongehouden."
               }
             },
             {
@@ -1487,7 +1605,8 @@
                 "de": "Nutzen Sie das warme Parkhaus direkt unter dem Theater.",
                 "hu": "Használja a színház alatti meleg parkolóházat.",
                 "ro": "Folosiți parcarea caldă direct de sub teatru.",
-                "en": "Use the warm parking garage directly underneath the theater building."
+                "en": "Use the warm parking garage directly underneath the theater building.",
+                "nl": "Gebruik de warme parkeergarage direct onder het theatergebouw."
               }
             },
             {
@@ -1496,7 +1615,8 @@
                 "de": "Die Straßen am Deich können bei Frost sehr glatt sein.",
                 "hu": "A gát menti utak fagy esetén nagyon csúszósak lehetnek.",
                 "ro": "Drumurile de pe dig pot fi foarte alunecoase în caz de îngheț.",
-                "en": "The roads along the dikes can be very slippery during freezing temperatures."
+                "en": "The roads along the dikes can be very slippery during freezing temperatures.",
+                "nl": "De wegen langs de dijken kunnen erg glad zijn bij vorst."
               }
             },
             {
@@ -1505,7 +1625,8 @@
                 "de": "Die Farben heben sich toll vom eventuellen Schnee ab.",
                 "hu": "A színek remekül mutatnak az esetleges hóesésben.",
                 "ro": "Culorile ies în evidență superb în cazul în care ninge.",
-                "en": "The colors provide a stunning contrast if there is snow on the ground."
+                "en": "The colors provide a stunning contrast if there is snow on the ground.",
+                "nl": "De kleuren vormen een prachtig contrast als er sneeuw ligt."
               }
             }
           ],
@@ -1533,6 +1654,12 @@
               "Heated parking garages in the center are much nicer than outdoor spots in winter.",
               "The best lighting for winter photography is between 11:00 and 14:00.",
               "Check your antifreeze levels before driving on the exposed polder roads."
+            ],
+            "nl": [
+              "Wees extra voorzichtig voor zwarte ijsplekken op de vele bruggen van Almere.",
+              "Warm verwarmde parkeergarages in het centrum zijn in de winter veel prettiger dan buitenplaatsen.",
+              "Het beste licht voor winterfotografie is tussen 11:00 en 14:00.",
+              "Controleer je antivriesniveaus voordat je over de blootgestelde polderwegen rijdt."
             ]
           }
         }
@@ -1551,7 +1678,8 @@
             "de": "Almere Stad Einkaufszentrum",
             "hu": "Almere Stad bevásárlóközpont",
             "ro": "Centrul Comercial Almere Stad",
-            "en": "Almere Stad Shopping Center"
+            "en": "Almere Stad Shopping Center",
+            "nl": "Almere Stad Winkelcentrum"
           },
           "coords": [
             5.217,
@@ -1567,7 +1695,8 @@
             "de": "Beginnen Sie Ihren Tag am Bahnhof Almere Centrum, dem Hauptverkehrsknotenpunkt der Stadt.",
             "hu": "Kezdje a napot az Almere Centrum állomáson, a város fő közlekedési csomópontjánál.",
             "ro": "Începeți ziua la gara Almere Centrum, principalul nod de transport al orașului.",
-            "en": "Start your day at Almere Centrum station, the city's main transport hub."
+            "en": "Start your day at Almere Centrum station, the city's main transport hub.",
+            "nl": "Begin je dag op station Almere Centrum, het belangrijkste vervoersknooppunt van de stad."
           }
         },
         {
@@ -1575,7 +1704,8 @@
             "de": "PIT Veiligheidsmuseum",
             "hu": "PIT Biztonsági Múzeum",
             "ro": "Muzeul Securității PIT",
-            "en": "PIT Safety Museum"
+            "en": "PIT Safety Museum",
+            "nl": "PIT Veiligheidsmuseum"
           },
           "coords": [
             5.215,
@@ -1591,7 +1721,8 @@
             "de": "Vom Bahnhof aus leicht zu Fuß erreichbar. Ein großartiger Start in Ihren Museumstag.",
             "hu": "Könnyen megközelíthető gyalog az állomásról. Nagyszerű kezdet a múzeumi naphoz.",
             "ro": "Ușor de ajuns pe jos de la gară. Un început excelent pentru ziua dvs. la muzeu.",
-            "en": "An easy walk from the station. A great start to your museum day."
+            "en": "An easy walk from the station. A great start to your museum day.",
+            "nl": "Een gemakkelijke wandeling vanaf het station. Een prima start van je museumdag."
           }
         },
         {
@@ -1599,7 +1730,8 @@
             "de": "Kunstlinie Almere Flevoland (KAF)",
             "hu": "Kunstlinie Almere Flevoland (KAF)",
             "ro": "Centrul Cultural Kunstlinie (KAF)",
-            "en": "Kunstlinie Almere Flevoland (KAF)"
+            "en": "Kunstlinie Almere Flevoland (KAF)",
+            "nl": "Kunstlinie Almere Flevoland (KAF)"
           },
           "coords": [
             5.221,
@@ -1615,7 +1747,8 @@
             "de": "Dieses Kulturzentrum liegt ebenfalls in Gehweite und ist ideal für eine Mittagspause.",
             "hu": "Ez a kulturális központ szintén sétatávolságra van, és ideális egy ebédszünethez.",
             "ro": "Acest centru cultural este, de asemenea, la distanță de mers pe jos și ideal pentru o pauză de prânz.",
-            "en": "This cultural center is also within walking distance and ideal for a lunch break."
+            "en": "This cultural center is also within walking distance and ideal for a lunch break.",
+            "nl": "Dit cultuurcentrum is ook op loopafstand en ideaal voor een lunchpauze."
           }
         },
         {
@@ -1623,7 +1756,8 @@
             "de": "Regenboogbuurt (Regenbogenviertel)",
             "hu": "Regenboogbuurt (Szivárvány-negyed)",
             "ro": "Cartierul Curcubeului (Regenboogbuurt)",
-            "en": "Rainbow Neighborhood (Regenboogbuurt)"
+            "en": "Rainbow Neighborhood (Regenboogbuurt)",
+            "nl": "Regenboogbuurt (Rainbow Neighborhood)"
           },
           "coords": [
             5.288,
@@ -1639,7 +1773,8 @@
             "de": "Nehmen Sie den Sprinter-Zug nach Almere Buiten. Vom Bahnhof ist es ein kurzer Spaziergang.",
             "hu": "Menjen a Sprinter vonattal Almere Buitenbe. Az állomástól rövid séta.",
             "ro": "Luați trenul Sprinter spre Almere Buiten. Este o plimbare scurtă de la gară.",
-            "en": "Take the Sprinter train to Almere Buiten. It's a short walk from the station."
+            "en": "Take the Sprinter train to Almere Buiten. It's a short walk from the station.",
+            "nl": "Neem de Sprinter naar Almere Buiten. Het is een korte wandeling vanaf het station."
           }
         },
         {
@@ -1647,7 +1782,8 @@
             "de": "Stadslandgoed de Kemphaan",
             "hu": "Stadslandgoed de Kemphaan",
             "ro": "Domeniul Stadslandgoed de Kemphaan",
-            "en": "Stadslandgoed de Kemphaan"
+            "en": "Stadslandgoed de Kemphaan",
+            "nl": "Stadslandgoed de Kemphaan"
           },
           "coords": [
             5.28,
@@ -1663,7 +1799,8 @@
             "de": "Nehmen Sie den Zug zurück ins Zentrum und steigen Sie dann in einen Bus (z.B. Linie M2) Richtung 'De Kemphaan'.",
             "hu": "Menjen vissza vonattal a központba, majd szálljon át egy buszra (pl. M2-es vonal) 'De Kemphaan' felé.",
             "ro": "Luați trenul înapoi în centru și apoi schimbați cu un autobuz (de ex. linia M2) spre 'De Kemphaan'.",
-            "en": "Take the train back to the center and then switch to a bus (e.g., line M2) towards 'De Kemphaan'."
+            "en": "Take the train back to the center and then switch to a bus (e.g., line M2) towards 'De Kemphaan'.",
+            "nl": "Neem de trein terug naar het centrum en stap dan over op een bus (bijv. lijn M2) richting 'De Kemphaan'."
           }
         }
       ],
@@ -1671,7 +1808,8 @@
         "de": "Ihr Tag mit öffentlichen Verkehrsmitteln beginnt im Zentrum von Almere, das vom Bahnhof aus leicht zu erkunden ist. Der Vormittag ist ein Spaziergang durch das Herz der modernen Stadt, bei dem Sie das PIT Museum und das Kunstlinie besuchen, die beide Teil des ersten Fußgänger-Clusters sind. Nach dem Mittagessen nutzen Sie das effiziente niederländische Zugsystem für Ihren ersten Transit-Sprung. Eine kurze Fahrt bringt Sie nach Almere Buiten, wo Sie in den zweiten Cluster eintauchen: den farbenfrohen Regenboogbuurt. Als Nächstes kombinieren Sie Zug und Bus für Ihren letzten Transit des Tages, um den dritten Cluster zu erreichen: das weitläufige Stadslandgoed de Kemphaan. Verbringen Sie den Rest des Nachmittags in dieser grünen Oase, bevor Sie mit dem Bus und Zug zurück ins Zentrum fahren. Dieser Plan zeigt, wie einfach es ist, die verschiedenen Bezirke Almeres mit öffentlichen Verkehrsmitteln zu verbinden.",
         "hu": "Tömegközlekedéssel töltött napja Almere központjában kezdődik, amely könnyen felfedezhető az állomásról. A délelőtt egy séta a modern város szívében, meglátogatva a PIT Múzeumot és a Kunstlinie-t, mindkettő az első gyalogos klaszter része. Ebéd után használja a hatékony holland vasúti rendszert az első tömegközlekedési ugráshoz. Egy rövid utazás Almere Buitenbe viszi, ahol elmerülhet a második klaszterben: a színes Szivárvány-negyedben. Ezután kombinálja a vonatot és a buszt a nap utolsó tranzitjához, hogy elérje a harmadik klasztert: a tágas Stadslandgoed de Kemphaan-t. Töltse a délután hátralévő részét ebben a zöld oázisban, mielőtt busszal és vonattal visszatérne a központba. Ez a terv bemutatja, milyen könnyű összekötni Almere különböző kerületeit tömegközlekedéssel.",
         "ro": "Ziua dvs. cu transportul public începe în centrul orașului Almere, ușor de explorat de la gară. Dimineața este o plimbare prin inima orașului modern, vizitând Muzeul PIT și Kunstlinie, ambele parte a primului grup pietonal. După prânz, folosiți sistemul feroviar olandez eficient pentru primul salt cu transportul public. O călătorie scurtă vă duce la Almere Buiten, unde vă scufundați în al doilea grup: coloratul Cartier Curcubeu. Apoi, combinați trenul și autobuzul pentru ultimul tranzit al zilei pentru a ajunge la al treilea grup: vastul domeniu Stadslandgoed de Kemphaan. Petreceți restul după-amiezii în această oază verde înainte de a vă întoarce în centru cu autobuzul și trenul. Acest plan arată cât de ușor este să conectați diferitele cartiere ale Almerei folosind transportul public.",
-        "en": "Your public transport day starts in the center of Almere, easily explorable from the station. The morning is a walking tour through the heart of the modern city, visiting the PIT Museum and the Kunstlinie, both part of the first pedestrian cluster. After lunch, you'll use the efficient Dutch train system for your first transit hop. A short ride takes you to Almere Buiten, where you immerse yourself in the second cluster: the colorful Rainbow Neighborhood. Next, you combine train and bus for your final transit of the day to reach the third cluster: the expansive Stadslandgoed de Kemphaan. Spend the rest of the afternoon in this green oasis before heading back to the center by bus and train. This plan shows how easy it is to connect the diverse districts of Almere using public transport."
+        "en": "Your public transport day starts in the center of Almere, easily explorable from the station. The morning is a walking tour through the heart of the modern city, visiting the PIT Museum and the Kunstlinie, both part of the first pedestrian cluster. After lunch, you'll use the efficient Dutch train system for your first transit hop. A short ride takes you to Almere Buiten, where you immerse yourself in the second cluster: the colorful Rainbow Neighborhood. Next, you combine train and bus for your final transit of the day to reach the third cluster: the expansive Stadslandgoed de Kemphaan. Spend the rest of the afternoon in this green oasis before heading back to the center by bus and train. This plan shows how easy it is to connect the diverse districts of Almere using public transport.",
+        "nl": "Je dag met het openbaar vervoer begint in het centrum van Almere, gemakkelijk te verkennen vanaf het station. De ochtend is een wandeling door het hart van de moderne stad, met een bezoek aan het PIT Museum en de Kunstlinie, beide deel van de eerste voetgangerscluster. Na de lunch gebruik je het efficiënte Nederlandse treinennet voor je eerste overstap. Een korte rit brengt je naar Almere Buiten, waar je je onderdompelt in de tweede cluster: de kleurrijke Regenboogbuurt. Daarna combineer je trein en bus voor je laatste verplaatsing van de dag naar de derde cluster: het ruime Stadslandgoed de Kemphaan. Breng de rest van de middag door in deze groene oase voordat je met bus en trein terugkeert naar het centrum. Dit plan toont hoe makkelijk het is om de diverse wijken van Almere met het openbaar vervoer te verbinden."
       },
       "gastro_picks": {
         "de": [
@@ -1867,6 +2005,12 @@
           "Plan your journey with the 9292 app, which shows real-time schedules for all public transport in the Netherlands.",
           "Don't forget to check out when leaving the bus, tram, or station to avoid being overcharged.",
           "Trains between Almere's stations (Sprinter) are frequent, usually every 15 minutes."
+        ],
+        "nl": [
+          "Koop een anonieme OV-chipkaart of gebruik je contactloze pin/creditcard om in- en uit te checken.",
+          "Plan je reis met de 9292-app, die realtime dienstregelingen voor al het openbaar vervoer in Nederland toont.",
+          "Vergeet niet uit te checken wanneer je de bus, tram of het station verlaat om overkosten te voorkomen.",
+          "Treinen tussen Almeres stations (Sprinter) rijden frequent, meestal elke 15 minuten."
         ]
       },
       "variants": {
@@ -1875,7 +2019,8 @@
             "de": "Starten Sie Ihren Tag am Bahnhof Almere Centrum. Das Shopping Center ist direkt angeschlossen, sodass Sie den Regen beim Umsteigen kaum bemerken.\n\nMittags nehmen Sie den Bus zum PIT Safety Museum. Die modernen Haltestellen in Almere bieten guten Wetterschutz durch ihre großzügigen Überdachungen.\n\nAm Nachmittag führt die Route zum Kunstlinie (KAF). Die kurzen Fußwege zwischen Bus und Gebäude lassen sich auch bei Schauern gut bewältigen.\n\nZum Abschluss fahren Sie in die Regenboogbuurt. Die markanten Busspuren in Almere sorgen dafür, dass Sie trotz Regenwetter pünktlich an Ihr Ziel kommen.",
             "hu": "Kezdje a napot az Almere Centrum vasútállomáson. A bevásárlóközpont közvetlenül csatlakozik, így átszálláskor alig kell esőben lennie.\n\nDélben busszal menjen a PIT Biztonsági Múzeumhoz. Almere modern buszmegállói tágas tetővel védik az utasokat az időjárástól.\n\nDélután irány a Kunstlinie (KAF). A buszmegálló és az épület közötti rövid séta még szakadó esőben is könnyen teljesíthető.\n\nA nap végén látogasson el a Regenboogbuurthöz. Almere külön buszsávjai garantálják, hogy esőben is pontosan célba érjen.",
             "ro": "Începeți ziua la gara Almere Centrum. Centrul comercial este conectat direct, astfel încât nu veți simți ploaia la transfer.\n\nLa prânz, luați autobuzul spre Muzeul de Siguranță PIT. Stațiile moderne din Almere oferă protecție bună datorită acoperișurilor generoase.\n\nDupă-amiaza, traseul continuă spre Kunstlinie (KAF). Distanțele scurte de mers pe jos de la stație la clădire sunt ușor de parcurs chiar și pe ploaie.\n\nÎn final, mergeți în Regenboogbuurt. Benzile dedicate pentru autobuze din Almere asigură un transport punctual chiar și pe vreme rea.",
-            "en": "Start your day at Almere Centrum station. The shopping mall is directly connected, allowing you to transition from the train to the shops without getting wet.\n\nAt noon, take a local bus to the PIT Safety Museum. Almere's modern bus stops feature large shelters that keep you dry while you wait.\n\nIn the afternoon, head to Kunstlinie (KAF). The short walking distances from the transit stops to the buildings make this itinerary very manageable even during showers.\n\nFinally, travel to the Rainbow Neighborhood. Almere's dedicated bus lanes ensure that your transit remains on time regardless of the rainy weather conditions."
+            "en": "Start your day at Almere Centrum station. The shopping mall is directly connected, allowing you to transition from the train to the shops without getting wet.\n\nAt noon, take a local bus to the PIT Safety Museum. Almere's modern bus stops feature large shelters that keep you dry while you wait.\n\nIn the afternoon, head to Kunstlinie (KAF). The short walking distances from the transit stops to the buildings make this itinerary very manageable even during showers.\n\nFinally, travel to the Rainbow Neighborhood. Almere's dedicated bus lanes ensure that your transit remains on time regardless of the rainy weather conditions.",
+            "nl": "Begin je dag op station Almere Centrum. Het winkelcentrum is direct verbonden, waardoor je van de trein naar de winkels kunt lopen zonder nat te worden.\n\nNeem rond het middaguur een lokale bus naar het PIT Veiligheidsmuseum. De moderne bushaltes van Almere hebben grote abri's die je droog houden tijdens het wachten.\n\nIn de middag ga je naar Kunstlinie (KAF). De korte loopafstanden van de haltes naar de gebouwen maken deze route goed te doen, zelfs bij regenbuien.\n\nReis tenslotte naar de Regenboogbuurt. De speciale busbanen in Almere zorgen ervoor dat je vervoer op tijd blijft, ongeacht het natte weer."
           },
           "stops": [
             {
@@ -1884,7 +2029,8 @@
                 "de": "Der Bahnhof Almere Centrum ist direkt in das Shopping-Areal integriert.",
                 "hu": "Almere Centrum vasútállomása közvetlenül a bevásárlónegyedbe torkollik.",
                 "ro": "Gara Almere Centrum este integrată direct în zona comercială.",
-                "en": "Almere Centrum station is directly integrated into the shopping area."
+                "en": "Almere Centrum station is directly integrated into the shopping area.",
+                "nl": "Station Almere Centrum is direct geïntegreerd in het winkelgebied."
               }
             },
             {
@@ -1893,7 +2039,8 @@
                 "de": "Die Bushaltestelle 'Flevoziekenhuis' ist nur wenige Schritte entfernt.",
                 "hu": "A 'Flevoziekenhuis' buszmegálló csak pár lépésre van.",
                 "ro": "Stația de autobuz 'Flevoziekenhuis' este la doar câțiva pași distanță.",
-                "en": "The 'Flevoziekenhuis' bus stop is just a few steps away from the entrance."
+                "en": "The 'Flevoziekenhuis' bus stop is just a few steps away from the entrance.",
+                "nl": "De bushalte 'Flevoziekenhuis' is slechts een paar stappen van de ingang."
               }
             },
             {
@@ -1902,7 +2049,8 @@
                 "de": "Nutzen Sie die Haltestelle 'Passage' für einen kurzen Weg.",
                 "hu": "Használja a 'Passage' megállót a rövid úthoz.",
                 "ro": "Folosiți stația 'Passage' pentru cel mai scurt traseu pe jos.",
-                "en": "Use the 'Passage' stop to minimize your walking distance in the rain."
+                "en": "Use the 'Passage' stop to minimize your walking distance in the rain.",
+                "nl": "Gebruik de halte 'Passage' om je loopafstand in de regen te minimaliseren."
               }
             },
             {
@@ -1911,7 +2059,8 @@
                 "de": "Die Haltestellen in diesem Viertel haben oft farbenfrohe Wartehäuschen.",
                 "hu": "A negyed buszmegállói gyakran színes várókkal rendelkeznek.",
                 "ro": "Stațiile din acest cartier au adesea adăposturi colorate.",
-                "en": "The bus stops in this neighborhood often have colorful shelters."
+                "en": "The bus stops in this neighborhood often have colorful shelters.",
+                "nl": "De bushaltes in deze wijk hebben vaak kleurrijke abri's."
               }
             },
             {
@@ -1920,7 +2069,8 @@
                 "de": "Der Bus M5 hält direkt am Eingang des Geländes.",
                 "hu": "Az M5-ös busz közvetlenül a birtok bejáratánál áll meg.",
                 "ro": "Autobuzul M5 oprește chiar la intrarea pe domeniu.",
-                "en": "The M5 bus line drops you off right at the entrance of the estate."
+                "en": "The M5 bus line drops you off right at the entrance of the estate.",
+                "nl": "Buslijn M5 zet je direct af bij de ingang van het landgoed."
               }
             }
           ],
@@ -1948,6 +2098,12 @@
               "Almere's bus system is highly reliable due to its dedicated transit-only lanes.",
               "Transferring at Almere Centrum station can be done entirely under cover.",
               "Most bus stops feature digital displays and excellent rain shelters."
+            ],
+            "nl": [
+              "Download de 'allGo'-app voor realtime busvertrekken en updates.",
+              "Het bussysteem van Almere is zeer betrouwbaar dankzij de speciale busbanen.",
+              "Overstappen op station Almere Centrum kan volledig onder dak.",
+              "De meeste bushaltes hebben digitale displays en uitstekende regenbeschutting."
             ]
           }
         },
@@ -1956,7 +2112,8 @@
             "de": "Starten Sie Ihren Wintertag am Bahnhof Almere Centrum. Die hell erleuchteten Bahnhofshallen führen Sie direkt in das belebte Stadtzentrum.\n\nMittags bringt Sie der beheizte Bus zum PIT Safety Museum. Genießen Sie die Fahrt durch die frostigen Polderlandschaften bequem vom Sitzplatz aus.\n\nNachmittags geht es zum Kunstlinie (KAF). Die winterliche Ruhe am Weerwater-See lässt sich wunderbar aus dem warmen Inneren des Kulturzentrums beobachten.\n\nZum Abschluss besuchen Sie die Regenboogbuurt. Die bunten Häuser bilden im dämmrigen Winterlicht ein tolles Fotomotiv, bevor Sie mit dem Bus zurück zum warmen Hauptbahnhof fahren.",
             "hu": "Kezdje a téli napot az Almere Centrum vasútállomáson. A világos, modern csarnokokon át közvetlenül a pezsgő belvárosba jut.\n\nDélben fűtött busz viszi a PIT Biztonsági Múzeumhoz. Élvezze a fagyos polder-táj látványát kényelmesen, az ablak mellől.\n\nDélután irány a Kunstlinie (KAF). A Weerwater-tó téli csendje különösen szép a kulturális központ meleg belső tereiből nézve.\n\nA nap végén látogasson el a Regenboogbuurthöz. A színes házak a téli szürkületben kiváló fotótémát adnak, mielőtt busszal visszatérne a vasútállomásra.",
             "ro": "Începeți ziua de iarnă la gara Almere Centrum. Halele gării, bine luminate, vă conduc direct în centrul plin de viață al orașului.\n\nLa prânz, autobuzul încălzit vă duce la Muzeul de Siguranță PIT. Bucurați-vă de peisajul înghețat al polderului din confortul scaunului dumneavoastră.\n\nDupă-amiaza, mergeți la Kunstlinie (KAF). Liniștea hibernală de pe lacul Weerwater poate fi admirată perfect din interiorul cald al centrului cultural.\n\nÎn final, vizitați Regenboogbuurt. Casele colorate oferă un subiect fotografic excelent în lumina amurgului de iarnă, înainte de a reveni cu autobuzul la gară.",
-            "en": "Start your winter day at Almere Centrum station. The bright, modern station concourse leads you directly into the vibrant heart of the city.\n\nAt noon, a heated bus will take you to the PIT Safety Museum. Enjoy the view of the frosty polder landscapes comfortably from your window seat.\n\nIn the afternoon, head to Kunstlinie (KAF). The peaceful winter atmosphere on Weerwater Lake is best observed from the warmth of the cultural center's interior.\n\nEnd your trip in the Rainbow Neighborhood. The colorful houses provide a great photo opportunity in the soft winter light before you take the bus back to the station."
+            "en": "Start your winter day at Almere Centrum station. The bright, modern station concourse leads you directly into the vibrant heart of the city.\n\nAt noon, a heated bus will take you to the PIT Safety Museum. Enjoy the view of the frosty polder landscapes comfortably from your window seat.\n\nIn the afternoon, head to Kunstlinie (KAF). The peaceful winter atmosphere on Weerwater Lake is best observed from the warmth of the cultural center's interior.\n\nEnd your trip in the Rainbow Neighborhood. The colorful houses provide a great photo opportunity in the soft winter light before you take the bus back to the station.",
+            "nl": "Begin je winterdag op station Almere Centrum. De lichte, moderne stationshal leidt je direct naar het levendige hart van de stad.\n\nRond het middaguur brengt een verwarmde bus je naar het PIT Veiligheidsmuseum. Geniet comfortabel vanuit je raamstoel van het uitzicht op de rijpe polderlandschappen.\n\nIn de middag ga je naar Kunstlinie (KAF). De vredige winterse sfeer rond het Weerwater is het best te ervaren vanuit de warmte van het cultuurcentrum.\n\nSluit je bezoek af in de Regenboogbuurt. De kleurrijke huizen vormen een mooie fotomogelijkheid in het zachte winterlicht voordat je de bus terug naar het station neemt."
           },
           "stops": [
             {
@@ -1965,7 +2122,8 @@
                 "de": "Wärmen Sie sich in den Cafés direkt am Bahnhof auf.",
                 "hu": "Melegedjen fel a közvetlenül az állomásnál lévő kávézókban.",
                 "ro": "Încălziți-vă în cafenelele situate chiar lângă gară.",
-                "en": "Warm up in the cafés located directly at the train station entrance."
+                "en": "Warm up in the cafés located directly at the train station entrance.",
+                "nl": "Warm op in de cafés direct bij de ingang van het treinstation."
               }
             },
             {
@@ -1974,7 +2132,8 @@
                 "de": "Die Busse fahren im Winter im dichten Takt; kurze Wartezeiten.",
                 "hu": "A buszok télen is sűrűn járnak, így keveset kell várni.",
                 "ro": "Autobuzele circulă frecvent și iarna; timpii de așteptare sunt mici.",
-                "en": "Buses run frequently in winter, minimizing your time waiting in the cold."
+                "en": "Buses run frequently in winter, minimizing your time waiting in the cold.",
+                "nl": "Bussen rijden in de winter frequent, waardoor je minder lang in de koude hoeft te wachten."
               }
             },
             {
@@ -1983,7 +2142,8 @@
                 "de": "Vom Busstop 'Passage' sind es nur 3 Minuten Fußweg.",
                 "hu": "A 'Passage' buszmegállótól csak 3 perc gyalog az út.",
                 "ro": "De la stația de autobuz 'Passage' sunt doar 3 minute de mers pe jos.",
-                "en": "It's only a 3-minute walk from the 'Passage' bus stop to the entrance."
+                "en": "It's only a 3-minute walk from the 'Passage' bus stop to the entrance.",
+                "nl": "Het is slechts 3 minuten lopen van bushalte 'Passage' naar de ingang."
               }
             },
             {
@@ -1992,7 +2152,8 @@
                 "de": "Planen Sie diesen Stopp vor 16:00 Uhr ein, solange es hell ist.",
                 "hu": "Ezt a megállót tervezze 16:00 előttre, amíg világos van.",
                 "ro": "Planificați această oprire înainte de ora 16:00, cât încă este lumină.",
-                "en": "Schedule this stop before 16:00 to catch the daylight on the colorful houses."
+                "en": "Schedule this stop before 16:00 to catch the daylight on the colorful houses.",
+                "nl": "Plan deze halte vóór 16:00 om het daglicht op de kleurrijke huizen mee te kunnen pakken."
               }
             },
             {
@@ -2001,7 +2162,8 @@
                 "de": "Der Bus M5 ist beheizt; ideal für die Rückfahrt nach dem Waldspaziergang.",
                 "hu": "Az M5-ös busz fűtött; ideális a visszaúthoz az erdei séta után.",
                 "ro": "Autobuzul M5 este încălzit; ideal pentru întoarcerea după plimbarea prin pădure.",
-                "en": "The M5 bus is well-heated; perfect for warming up after a forest walk."
+                "en": "The M5 bus is well-heated; perfect for warming up after a forest walk.",
+                "nl": "De M5-bus is goed verwarmd; perfect om op te warmen na een boswandeling."
               }
             }
           ],
@@ -2029,6 +2191,12 @@
               "The waiting areas at Almere Centrum station provide good wind protection.",
               "Almere's 'allGo' buses are typically very clean and well-heated in winter.",
               "Bus frequencies remain high throughout the winter season."
+            ],
+            "nl": [
+              "Gebruik een OV-chipkaart of contactloze betaling voor eenvoudig in-/uitchecken in de bus.",
+              "De wachtruimtes op station Almere Centrum bieden goede windbescherming.",
+              "De 'allGo'-bussen van Almere zijn in de winter doorgaans zeer schoon en goed verwarmd.",
+              "De busfrequenties blijven hoog gedurende het winterseizoen."
             ]
           }
         }

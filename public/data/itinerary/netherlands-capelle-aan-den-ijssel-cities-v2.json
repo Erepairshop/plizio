@@ -21,7 +21,8 @@
             "de": "Dorpskerk",
             "hu": "Falusi templom",
             "ro": "Biserica satului",
-            "en": "Village Church"
+            "en": "Village Church",
+            "nl": "Dorpskerk"
           },
           "coords": [
             4.581,
@@ -36,7 +37,8 @@
             "de": "Beachten Sie die wunderschönen Buntglasfenster aus dem 17. Jahrhundert.",
             "hu": "Figyelje meg a 17. századi gyönyörű ólomüveg ablakokat.",
             "ro": "Observați frumoasele vitralii din secolul al XVII-lea.",
-            "en": "Note the beautiful 17th-century stained-glass windows."
+            "en": "Note the beautiful 17th-century stained-glass windows.",
+            "nl": "Let op de prachtige 17e-eeuwse gebrandschilderde ramen."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Van Cappellenhuis",
             "hu": "Van Cappellen-ház",
             "ro": "Casa Van Cappellen",
-            "en": "Van Cappellen House"
+            "en": "Van Cappellen House",
+            "nl": "Van Cappellen Huis"
           },
           "coords": [
             4.58,
@@ -59,7 +62,8 @@
             "de": "Prüfen Sie den Konzertkalender, oft finden hier klassische Musikabende statt.",
             "hu": "Nézze meg a koncertnaptárat, gyakran tartanak itt komolyzenei esteket.",
             "ro": "Verificați calendarul concertelor; serile de muzică clasică sunt adesea organizate aici.",
-            "en": "Check the concert calendar; classical music evenings are often held here."
+            "en": "Check the concert calendar; classical music evenings are often held here.",
+            "nl": "Controleer de concertagenda; hier worden vaak klassieke muziekavonden gehouden."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Dief- en Duifhuisje",
             "hu": "Tolvaj- és Galamb-házikó",
             "ro": "Casa Hoțului și a Porumbelului",
-            "en": "Thief and Dove House"
+            "en": "Thief and Dove House",
+            "nl": "Dief- en Duivenhuis"
           },
           "coords": [
             4.579,
@@ -82,7 +87,8 @@
             "de": "Das kleinste ehemalige Gefängnis der Niederlande, perfekt für ein schnelles Foto.",
             "hu": "Hollandia legkisebb egykori börtöne, tökéletes egy gyors fotóhoz.",
             "ro": "Cea mai mică fostă închisoare din Olanda, perfectă pentru o fotografie rapidă.",
-            "en": "The smallest former prison in the Netherlands, perfect for a quick photo."
+            "en": "The smallest former prison in the Netherlands, perfect for a quick photo.",
+            "nl": "De kleinste voormalige gevangenis van Nederland, perfect voor een snelle foto."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Mittagessen am De Koperen Molen",
             "hu": "Ebéd a De Koperen Molennél",
             "ro": "Prânz la De Koperen Molen",
-            "en": "Lunch at De Koperen Molen"
+            "en": "Lunch at De Koperen Molen",
+            "nl": "Lunch bij De Koperen Molen"
           },
           "coords": [
             4.568,
@@ -105,7 +112,8 @@
             "de": "Genießen Sie Pfannkuchen im Restaurant neben dieser historischen Mühle.",
             "hu": "Kóstoljon meg palacsintát a történelmi malom melletti étteremben.",
             "ro": "Savurați clătite la restaurantul de lângă această moară istorică.",
-            "en": "Enjoy some pancakes at the restaurant next to this historic mill."
+            "en": "Enjoy some pancakes at the restaurant next to this historic mill.",
+            "nl": "Geniet van pannenkoeken in het restaurant naast deze historische molen."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Isala Theater",
             "hu": "Isala Színház",
             "ro": "Teatrul Isala",
-            "en": "Isala Theater"
+            "en": "Isala Theater",
+            "nl": "Isala Theater"
           },
           "coords": [
             4.575,
@@ -128,7 +137,8 @@
             "de": "Schauen Sie sich die Architektur an, auch wenn Sie keine Vorstellung besuchen.",
             "hu": "Nézze meg az épületet, még ha nem is megy előadásra.",
             "ro": "Admirați arhitectura, chiar dacă nu participați la un spectacol.",
-            "en": "Admire the architecture even if you're not attending a show."
+            "en": "Admire the architecture even if you're not attending a show.",
+            "nl": "Bewonder de architectuur, ook als u geen voorstelling bijwoont."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Slotpark",
             "hu": "Kastélypark",
             "ro": "Parcul Castelului",
-            "en": "Castle Park"
+            "en": "Castle Park",
+            "nl": "Slotpark"
           },
           "coords": [
             4.585,
@@ -151,7 +162,8 @@
             "de": "Ein idealer Ort für einen ruhigen Spaziergang am Nachmittag am Wasser.",
             "hu": "Ideális hely egy csendes délutáni sétához a vízparton.",
             "ro": "Un loc ideal pentru o plimbare liniștită de după-amiază de-a lungul apei.",
-            "en": "An ideal spot for a quiet afternoon walk along the water."
+            "en": "An ideal spot for a quiet afternoon walk along the water.",
+            "nl": "Een ideale plek voor een rustige namiddagwandeling langs het water."
           }
         }
       ],
@@ -159,7 +171,8 @@
         "de": "Beginnen Sie Ihren Tag im historischen Herzen von Capelle und bewundern Sie die alte Dorpskerk und das elegante Van Cappellenhuis. Nach einem kurzen Blick auf das kuriose Dief- en Duifhuisje führt Sie ein Spaziergang zur Mühle De Koperen Molen für ein herzhaftes Mittagessen. Am Nachmittag erkunden Sie die moderne Seite der Stadt am Isala Theater, bevor Sie im ruhigen Slotpark entspannen und den Tag ausklingen lassen.",
         "hu": "Kezdje a napot Capelle történelmi szívében, csodálja meg a régi falusi templomot és az elegáns Van Cappellen-házat. Miután vetett egy pillantást a különös Tolvaj- és Galamb-házikóra, sétáljon el a De Koperen Molen malomhoz egy kiadós ebédre. Délután fedezze fel a város modern oldalát az Isala Színháznál, mielőtt a békés Kastélyparkban pihenne a nap végén.",
         "ro": "Începeți ziua în inima istorică a Capelle, admirând vechea Biserică a satului și eleganta Casă Van Cappellen. După o scurtă privire la curioasa Casă a Hoțului și a Porumbelului, o plimbare vă va duce la moara De Koperen Molen pentru un prânz copios. După-amiaza, explorați latura modernă a orașului la Teatrul Isala înainte de a vă relaxa în liniștitul Parc al Castelului pentru a încheia ziua.",
-        "en": "Start your day in the historical heart of Capelle, admiring the old Village Church and the elegant Van Cappellen House. After a quick look at the curious Thief and Dove House, a walk takes you to the De Koperen Molen mill for a hearty lunch. In the afternoon, explore the city's modern side at the Isala Theater before relaxing in the peaceful Castle Park to end the day."
+        "en": "Start your day in the historical heart of Capelle, admiring the old Village Church and the elegant Van Cappellen House. After a quick look at the curious Thief and Dove House, a walk takes you to the De Koperen Molen mill for a hearty lunch. In the afternoon, explore the city's modern side at the Isala Theater before relaxing in the peaceful Castle Park to end the day.",
+        "nl": "Begin uw dag in het historische hart van Capelle en bewonder de oude Dorpskerk en het elegante Van Cappellen Huis. Na een korte blik op het bijzondere Dief- en Duivenhuis loopt u naar De Koperen Molen voor een stevige lunch. ’s Middags ontdekt u de moderne kant van de stad bij het Isala Theater voordat u de dag afsluit in het rustige Slotpark."
       },
       "gastro_picks": {
         "de": [
@@ -295,6 +308,10 @@
         "en": [
           "Wear comfortable shoes as the cobblestones in the old center can be uneven.",
           "Check opening times, as some smaller attractions may have limited hours."
+        ],
+        "nl": [
+          "Draag comfortabele schoenen, de kasseien in het oude centrum kunnen oneffen zijn.",
+          "Controleer de openingstijden, sommige kleinere attracties hebben beperkte uren."
         ]
       },
       "variants": {
@@ -303,7 +320,8 @@
             "de": "Der Tag beginnt mystisch an der Dorpskerk, während der Regen leise auf die Dächer prasselt. Das Van Cappellen House bietet einen idealen trockenen Zufluchtsort mit historischem Charme. Mittags wärmt eine Suppe in der Koperen Molen Leib und Seele. Den Nachmittag verbringen wir im modernen Isala Theater, bevor ein kurzer, erfrischender Spaziergang durch den nassen Schlosspark den Tag abschließt.",
             "hu": "A nap misztikusan indul a falusi templomnál, miközben az eső halkan kopog a tetőkön. A Van Cappellen-ház tökéletes fedett menedéket nyújt történelmi bájával. Ebédre egy forró leves a Koperen Molenben felmelegíti a testet és lelket. A délutánt a modern Isala Színházban töltjük, majd egy rövid, frissítő séta a vizes Kastélyparkban zárja a napot.",
             "ro": "Ziua începe mistic la Biserica Satului, în timp ce ploaia bate ușor în acoperișuri. Casa Van Cappellen oferă un refugiu uscat ideal, plin de farmec istoric. La prânz, o supă caldă la Koperen Molen reîncălzește trupul și sufletul. După-amiaza o petrecem în modernul Teatru Isala, înainte ca o scurtă plimbare revigorantă prin Parcul Castelului umed să încheie ziua.",
-            "en": "The day begins mystically at the Village Church as rain taps softly on the roofs. Van Cappellen House provides an ideal dry sanctuary with its historical charm. For lunch, a warm soup at De Koperen Molen warms the body and soul. We spend the afternoon in the modern Isala Theater, before a short, refreshing walk through the wet Castle Park concludes the day."
+            "en": "The day begins mystically at the Village Church as rain taps softly on the roofs. Van Cappellen House provides an ideal dry sanctuary with its historical charm. For lunch, a warm soup at De Koperen Molen warms the body and soul. We spend the afternoon in the modern Isala Theater, before a short, refreshing walk through the wet Castle Park concludes the day.",
+            "nl": "De dag begint mysterieus in de Dorpskerk terwijl regen zacht op de daken tikt. Het Van Cappellen Huis biedt met zijn historische charme een ideale droge schuilplaats. Voor de lunch verwarmt een hete soep in De Koperen Molen lichaam en ziel. We brengen de middag door in het moderne Isala Theater, waarna een korte, verfrissende wandeling door het natte Slotpark de dag afsluit."
           },
           "stops": [
             {
@@ -312,7 +330,8 @@
                 "de": "Bewundern Sie die Architektur vom überdachten Eingang aus.",
                 "hu": "Csodálja meg az építészetet a fedett bejárat alól.",
                 "ro": "Admirați arhitectura de sub intrarea acoperită.",
-                "en": "Admire the architecture from under the covered entrance."
+                "en": "Admire the architecture from under the covered entrance.",
+                "nl": "Bewonder de architectuur vanaf onder de overdekte ingang."
               }
             },
             {
@@ -321,7 +340,8 @@
                 "de": "Perfekt für eine ausgiebige Innenbesichtigung bei Regen.",
                 "hu": "Tökéletes egy alapos belső látogatáshoz esőben.",
                 "ro": "Perfect pentru o vizită interioară detaliată pe timp de ploaie.",
-                "en": "Perfect for an extensive indoor visit during rain."
+                "en": "Perfect for an extensive indoor visit during rain.",
+                "nl": "Perfect voor een uitgebreide binnenbezoek tijdens regen."
               }
             },
             {
@@ -330,7 +350,8 @@
                 "de": "Nur ein kurzer Fotostopp unter dem Regenschirm.",
                 "hu": "Csak egy rövid fotómegálló az esernyő alatt.",
                 "ro": "Doar o scurtă oprire foto sub umbrelă.",
-                "en": "Just a short photo stop under the umbrella."
+                "en": "Just a short photo stop under the umbrella.",
+                "nl": "Slechts een korte fotostop onder de paraplu."
               }
             },
             {
@@ -339,7 +360,8 @@
                 "de": "Genießen Sie den Blick auf die nassen Kanäle vom Fensterplatz.",
                 "hu": "Élvezze a kilátást a vizes csatornákra az ablak mellől.",
                 "ro": "Bucurați-vă de vederea canalelor umede de la fereastră.",
-                "en": "Enjoy the view of the wet canals from a window seat."
+                "en": "Enjoy the view of the wet canals from a window seat.",
+                "nl": "Geniet van het uitzicht op de natte grachten vanaf een raamplaats."
               }
             },
             {
@@ -348,7 +370,8 @@
                 "de": "Ein großartiger Ort, um trocken Kultur zu genießen.",
                 "hu": "Nagyszerű hely a kultúra szárazon való élvezéséhez.",
                 "ro": "Un loc minunat pentru a te bucura de cultură la adăpost.",
-                "en": "A great place to enjoy culture while staying dry."
+                "en": "A great place to enjoy culture while staying dry.",
+                "nl": "Een geweldige plek om cultuur te genieten en droog te blijven."
               }
             },
             {
@@ -357,7 +380,8 @@
                 "de": "Bleiben Sie auf den befestigten Wegen, um Schlamm zu vermeiden.",
                 "hu": "Maradjon a burkolt utakon a sár elkerülése érdekében.",
                 "ro": "Rămâneți pe potecile pavate pentru a evita noroiul.",
-                "en": "Stay on the paved paths to avoid mud."
+                "en": "Stay on the paved paths to avoid mud.",
+                "nl": "Blijf op de verharde paden om modder te vermijden."
               }
             }
           ],
@@ -385,6 +409,12 @@
               "Wear waterproof shoes for the paths in the castle park.",
               "Use the Isala Theater café for longer breaks.",
               "Van Cappellen House offers many dry exhibition areas."
+            ],
+            "nl": [
+              "Een degelijke paraplu is essentieel vanwege de wind langs de IJssel.",
+              "Draag waterdichte schoenen voor de paden in het Slotpark.",
+              "Gebruik het café van het Isala Theater voor langere pauzes.",
+              "Van Cappellen Huis heeft veel droge tentoonstellingsruimtes."
             ]
           }
         },
@@ -393,7 +423,8 @@
             "de": "Die klare Winterluft begrüßt uns an der alten Dorfkirche. Ein wärmender Besuch im geschichtsträchtigen Van Cappellen House lässt uns die Kälte vergessen. Nach einem deftigen Mittagessen in der Kupfermühle bewundern wir das Dief- en Duifhuis im fahlen Winterlicht. Das Isala Theater bietet am Nachmittag wohlige Wärme, bevor wir den Sonnenuntergang über dem gefrorenen Teich im Schlosspark erleben.",
             "hu": "A tiszta téli levegő üdvözöl minket a régi falusi templomnál. A történelmi Van Cappellen-ház melegében elfelejtjük a hideget. Egy kiadós ebéd után a Rézmalomban, a Dief- en Duifhuist csodáljuk a sápadt téli fényben. Az Isala Színház délutáni kényelmet nyújt, mielőtt megnéznénk a naplementét a Kastélypark befagyott tava felett.",
             "ro": "Aerul curat de iarnă ne întâmpină la vechea biserică a satului. O vizită călduroasă în istorica Casă Van Cappellen ne face să uităm de frig. După un prânz consistent la Moara de Cupru, admirăm Dief- en Duifhuis în lumina palidă a iernii. Teatrul Isala oferă confort după-amiaza, înainte de a vedea apusul peste lacul înghețat din Parcul Castelului.",
-            "en": "The crisp winter air greets us at the old village church. A warming visit to the historic Van Cappellen House makes us forget the cold. After a hearty lunch at the Copper Mill, we admire the Thief and Dove House in the pale winter light. The Isala Theater offers cozy warmth in the afternoon before we witness the sunset over the frozen pond in Castle Park."
+            "en": "The crisp winter air greets us at the old village church. A warming visit to the historic Van Cappellen House makes us forget the cold. After a hearty lunch at the Copper Mill, we admire the Thief and Dove House in the pale winter light. The Isala Theater offers cozy warmth in the afternoon before we witness the sunset over the frozen pond in Castle Park.",
+            "nl": "De frisse winterlucht begroet ons bij de oude dorpskerk. Een verwarmd bezoek aan het historische Van Cappellen Huis doet de kou vergeten. Na een stevige lunch bij De Koperen Molen bewonderen we het Dief- en Duivenhuis in het bleke winterlicht. Het Isala Theater biedt ’s middags aangename warmte voordat we de zonsondergang boven de bevroren vijver in het Slotpark aanschouwen."
           },
           "stops": [
             {
@@ -402,7 +433,8 @@
                 "de": "Achten Sie auf vereiste Stufen am Kircheneingang.",
                 "hu": "Ügyeljen a jeges lépcsőkre a templom bejáratánál.",
                 "ro": "Atenție la treptele înghețate de la intrarea în biserică.",
-                "en": "Watch out for icy steps at the church entrance."
+                "en": "Watch out for icy steps at the church entrance.",
+                "nl": "Let op ijzige traptreden bij de kerkentree."
               }
             },
             {
@@ -411,7 +443,8 @@
                 "de": "Genießen Sie die gemütliche Atmosphäre in den beheizten Räumen.",
                 "hu": "Élvezze a barátságos hangulatot a fűtött szobákban.",
                 "ro": "Bucurați-vă de atmosfera primitoare din camerele încălzite.",
-                "en": "Enjoy the cozy atmosphere in the heated rooms."
+                "en": "Enjoy the cozy atmosphere in the heated rooms.",
+                "nl": "Geniet van de gezellige sfeer in de verwarmde ruimtes."
               }
             },
             {
@@ -420,7 +453,8 @@
                 "de": "Der Turm wirkt im Winter besonders markant.",
                 "hu": "A torony télen különösen jellegzetesnek tűnik.",
                 "ro": "Turnul arată deosebit de izbitor iarna.",
-                "en": "The tower looks particularly striking in winter."
+                "en": "The tower looks particularly striking in winter.",
+                "nl": "De toren valt in de winter extra op."
               }
             },
             {
@@ -429,7 +463,8 @@
                 "de": "Probieren Sie typisch holländische Wintergerichte.",
                 "hu": "Kóstolja meg a tipikus holland téli ételeket.",
                 "ro": "Încercați mâncăruri tradiționale olandeze de iarnă.",
-                "en": "Try typical Dutch winter dishes."
+                "en": "Try typical Dutch winter dishes.",
+                "nl": "Probeer typische Nederlandse wintergerechten."
               }
             },
             {
@@ -438,7 +473,8 @@
                 "de": "Perfekt für eine Pause im Warmen vor dem Abendspaziergang.",
                 "hu": "Tökéletes egy meleg pihenőhöz az esti séta előtt.",
                 "ro": "Perfect pentru o pauză la căldură înainte de plimbarea de seară.",
-                "en": "Perfect for a break in the warm before the evening walk."
+                "en": "Perfect for a break in the warm before the evening walk.",
+                "nl": "Perfect voor een warme pauze voor de avondwandeling."
               }
             },
             {
@@ -447,7 +483,8 @@
                 "de": "Der Sonnenuntergang ist hier gegen 16:30 Uhr am schönsten.",
                 "hu": "A naplemente itt 16:30 körül a legszebb.",
                 "ro": "Apusul este cel mai frumos aici în jur de ora 16:30.",
-                "en": "The sunset is most beautiful here around 4:30 PM."
+                "en": "The sunset is most beautiful here around 4:30 PM.",
+                "nl": "De zonsondergang is hier het mooist rond 16:30 uur."
               }
             }
           ],
@@ -475,6 +512,12 @@
               "The sun sets as early as 5:00 PM in winter.",
               "Many cafés offer hot chocolate with whipped cream in winter.",
               "Beware of slippery spots on the bridges over the canals."
+            ],
+            "nl": [
+              "Warme laagjes zijn belangrijk vanwege de wind langs de IJssel.",
+              "In de winter gaat de zon al om 17:00 uur onder.",
+              "Veel cafés bieden in de winter warme chocolademelk met slagroom.",
+              "Let op gladde plekken op de bruggen over de grachten."
             ]
           }
         }
@@ -493,7 +536,8 @@
             "de": "Algerabrug Aussichtspunkt",
             "hu": "Algerabrug kilátópont",
             "ro": "Punct de observare Algerabrug",
-            "en": "Algerabrug Viewpoint"
+            "en": "Algerabrug Viewpoint",
+            "nl": "Algerabrug-uitkijkpunt"
           },
           "coords": [
             4.56,
@@ -508,7 +552,8 @@
             "de": "Ein großartiger Ort, um den Tag mit Blick auf den Fluss und die Sturmflutwehranlage zu beginnen.",
             "hu": "Nagyszerű hely a napkezdéshez, kilátással a folyóra és az árvízvédelmi gátra.",
             "ro": "Un loc minunat pentru a începe ziua cu o vedere asupra râului și a barierei de furtună.",
-            "en": "A great spot to start the day with views of the river and the storm surge barrier."
+            "en": "A great spot to start the day with views of the river and the storm surge barrier.",
+            "nl": "Een geweldige plek om de dag te beginnen met uitzicht op de rivier en de stormvloedkering."
           }
         },
         {
@@ -516,7 +561,8 @@
             "de": "Dorpskerk",
             "hu": "Falusi templom",
             "ro": "Biserica satului",
-            "en": "Village Church"
+            "en": "Village Church",
+            "nl": "Dorpskerk"
           },
           "coords": [
             4.581,
@@ -531,7 +577,8 @@
             "de": "Schließen Sie Ihr Fahrrad sicher ab, um das historische Zentrum zu erkunden.",
             "hu": "Zárja le biztonságosan a kerékpárját, hogy felfedezhesse a történelmi központot.",
             "ro": "Asigurați-vă bicicleta pentru a explora centrul istoric.",
-            "en": "Lock your bike securely to explore the historic center."
+            "en": "Lock your bike securely to explore the historic center.",
+            "nl": "Beveilig uw fiets goed om het historische centrum te verkennen."
           }
         },
         {
@@ -539,7 +586,8 @@
             "de": "Van Cappellenhuis & Mittagessen",
             "hu": "Van Cappellen-ház & Ebéd",
             "ro": "Casa Van Cappellen & Prânz",
-            "en": "Van Cappellen House & Lunch"
+            "en": "Van Cappellen House & Lunch",
+            "nl": "Van Cappellen Huis & Lunch"
           },
           "coords": [
             4.58,
@@ -554,7 +602,8 @@
             "de": "Genießen Sie ein Mittagessen in einem der Cafés in der Nähe, bevor Sie weiterfahren.",
             "hu": "Ebédeljen meg az egyik közeli kávézóban, mielőtt tovább indul.",
             "ro": "Savurați prânzul la una dintre cafenelele din apropiere înainte de a continua.",
-            "en": "Enjoy lunch at one of the nearby cafes before continuing."
+            "en": "Enjoy lunch at one of the nearby cafes before continuing.",
+            "nl": "Geniet van de lunch bij een van de nabijgelegen cafés voordat u verdergaat."
           }
         },
         {
@@ -562,7 +611,8 @@
             "de": "De Koperen Molen",
             "hu": "A Rézmalom",
             "ro": "Moara de Cupru",
-            "en": "The Copper Mill"
+            "en": "The Copper Mill",
+            "nl": "De Koperen Molen"
           },
           "coords": [
             4.568,
@@ -577,7 +627,8 @@
             "de": "Ein interessanter Stopp, um mehr über die industrielle Vergangenheit der Region zu erfahren.",
             "hu": "Érdekes megálló, hogy többet tudjon meg a régió ipari múltjáról.",
             "ro": "O oprire interesantă pentru a afla despre trecutul industrial al zonei.",
-            "en": "An interesting stop to learn about the area's industrial past."
+            "en": "An interesting stop to learn about the area's industrial past.",
+            "nl": "Een interessante stop om meer te leren over het industriële verleden van het gebied."
           }
         },
         {
@@ -585,7 +636,8 @@
             "de": "Isala Theater",
             "hu": "Isala Színház",
             "ro": "Teatrul Isala",
-            "en": "Isala Theater"
+            "en": "Isala Theater",
+            "nl": "Isala Theater"
           },
           "coords": [
             4.575,
@@ -600,7 +652,8 @@
             "de": "Machen Sie ein Foto von der modernen Architektur dieses Kulturzentrums.",
             "hu": "Fotózza le ennek a kulturális központnak a modern építészetét.",
             "ro": "Faceți o fotografie a arhitecturii moderne a acestui centru cultural.",
-            "en": "Take a photo of the modern architecture of this cultural hub."
+            "en": "Take a photo of the modern architecture of this cultural hub.",
+            "nl": "Maak een foto van de moderne architectuur van dit culturele centrum."
           }
         },
         {
@@ -608,7 +661,8 @@
             "de": "Slotpark",
             "hu": "Kastélypark",
             "ro": "Parcul Castelului",
-            "en": "Castle Park"
+            "en": "Castle Park",
+            "nl": "Slotpark"
           },
           "coords": [
             4.585,
@@ -623,7 +677,8 @@
             "de": "Perfekt für eine kurze Pause und um die Beine nach der Radtour zu strecken.",
             "hu": "Tökéletes egy rövid szünetre és a lábak kinyújtóztatására a kerékpározás után.",
             "ro": "Perfect pentru o scurtă pauză și pentru a vă întinde picioarele după plimbarea cu bicicleta.",
-            "en": "Perfect for a short break and to stretch your legs after cycling."
+            "en": "Perfect for a short break and to stretch your legs after cycling.",
+            "nl": "Perfect voor een korte pauze en om even de benen te strekken na het fietsen."
           }
         },
         {
@@ -631,7 +686,8 @@
             "de": "Fahrt nach Hitland",
             "hu": "Kerékpártúra Hitlandbe",
             "ro": "Plimbare cu bicicleta la Hitland",
-            "en": "Ride to Hitland"
+            "en": "Ride to Hitland",
+            "nl": "Fiets naar Hitland"
           },
           "coords": [
             4.62,
@@ -646,7 +702,8 @@
             "de": "Genießen Sie die Natur und die weiten Landschaften dieses Erholungsgebiets.",
             "hu": "Élvezze a természetet és a tágas tájat ebben a rekreációs területben.",
             "ro": "Bucurați-vă de natură și de peisajele vaste ale acestei zone de agrement.",
-            "en": "Enjoy nature and the wide landscapes of this recreational area."
+            "en": "Enjoy nature and the wide landscapes of this recreational area.",
+            "nl": "Geniet van de natuur en de wijde landschappen van dit recreatiegebied."
           }
         }
       ],
@@ -654,7 +711,8 @@
         "de": "Starten Sie Ihre Radtour mit einer beeindruckenden Aussicht von der Algerabrug. Fahren Sie dann ins historische Zentrum, um die Dorpskerk und das Van Cappellenhuis zu besichtigen, wo Sie zu Mittag essen. Am Nachmittag radeln Sie vorbei an Industriedenkmälern wie De Koperen Molen und moderner Architektur am Isala Theater. Nach einer kurzen Pause im Slotpark unternehmen Sie eine längere Tour in das weitläufige Naturgebiet Hitland, um den Tag in der Natur ausklingen zu lassen.",
         "hu": "Kezdje a kerékpártúrát lenyűgöző kilátással az Algerabrug hídról. Tekerjen be a történelmi központba, nézze meg a falusi templomot és a Van Cappellen-házat, ahol megebédelhet. Délután elhalad ipari emlékek, mint a De Koperen Molen, és modern építészet, mint az Isala Színház mellett. Egy rövid pihenő után a Kastélyparkban tegyen egy hosszabb túrát a tágas Hitland természetvédelmi területre, hogy a természetben fejezze be a napot.",
         "ro": "Începeți turul cu bicicleta cu o priveliște impresionantă de pe podul Algerabrug. Apoi pedalați spre centrul istoric pentru a vedea Biserica satului și Casa Van Cappellen, unde veți lua prânzul. După-amiaza, treceți pe lângă monumente industriale precum De Koperen Molen și arhitectura modernă de la Teatrul Isala. După o scurtă pauză în Parcul Castelului, faceți un tur mai lung în vasta zonă naturală Hitland pentru a încheia ziua în natură.",
-        "en": "Start your bike tour with an impressive view from the Algerabrug bridge. Then cycle to the historic center to see the Village Church and Van Cappellen House, where you'll have lunch. In the afternoon, ride past industrial monuments like De Koperen Molen and modern architecture at the Isala Theater. After a short break in Slotpark, take a longer tour into the vast Hitland nature area to end the day surrounded by nature."
+        "en": "Start your bike tour with an impressive view from the Algerabrug bridge. Then cycle to the historic center to see the Village Church and Van Cappellen House, where you'll have lunch. In the afternoon, ride past industrial monuments like De Koperen Molen and modern architecture at the Isala Theater. After a short break in Slotpark, take a longer tour into the vast Hitland nature area to end the day surrounded by nature.",
+        "nl": "Begin uw fietstocht met een indrukwekkend uitzicht vanaf de Algerabrug. Fiets vervolgens naar het historische centrum om de Dorpskerk en het Van Cappellen Huis te zien, waar u gaat lunchen. ’s Middags passeert u industrieel erfgoed zoals De Koperen Molen en moderne architectuur bij het Isala Theater. Na een korte pauze in het Slotpark maakt u een langere tocht door het uitgestrekte natuurgebied Hitland om de dag omringd door natuur te eindigen."
       },
       "gastro_picks": {
         "de": [
@@ -790,6 +848,10 @@
         "en": [
           "Use the well-developed cycle paths, but be aware of other cyclists.",
           "A wind jacket is recommended even on sunny days, especially in open areas like Hitland."
+        ],
+        "nl": [
+          "Gebruik de goed ontwikkelde fietspaden, maar houd rekening met andere fietsers.",
+          "Een windjack wordt ook op zonnige dagen aanbevolen, vooral in open gebieden zoals Hitland."
         ]
       },
       "variants": {
@@ -798,7 +860,8 @@
             "de": "Trotz Regen bietet die Algerabrug eine dramatische Aussicht auf den Fluss. Wir radeln zur Dorpskerk für einen kurzen Halt im Trockenen. Das Van Cappellen House ist der perfekte Ort für eine längere Mittagspause, während die Schauer vorbeiziehen. Nach einem Stopp an der Koperen Molen führt uns der Weg zum Isala Theater und schließlich durch den Castle Park bis zum Naturschutzgebiet Hitland.",
             "hu": "Az eső ellenére az Algerabrug drámai kilátást nyújt a folyóra. Eltekerünk a falusi templomhoz egy rövid száraz pihenőre. A Van Cappellen-ház tökéletes hely egy hosszabb ebédszünethez, amíg elvonulnak a záporok. A Rézmalomnál tett megálló után az Isala Színházhoz, majd a Kastélyparkon át a Hitland természetvédelmi területre tekerünk.",
             "ro": "În ciuda ploii, Algerabrug oferă o vedere dramatică asupra râului. Pedalăm până la Biserica Satului pentru o scurtă pauză la adăpost. Casa Van Cappellen este locul perfect pentru o pauză de prânz mai lungă în timp ce trec aversele. După o oprire la Moara de Cupru, drumul ne duce la Teatrul Isala și, în final, prin Parcul Castelului până la rezervația Hitland.",
-            "en": "Despite the rain, Algerabrug offers a dramatic view of the river. We cycle to the Village Church for a short dry break. Van Cappellen House is the perfect spot for a longer lunch break while the showers pass. After a stop at the Copper Mill, the path leads us to the Isala Theater and finally through Castle Park to the Hitland nature area."
+            "en": "Despite the rain, Algerabrug offers a dramatic view of the river. We cycle to the Village Church for a short dry break. Van Cappellen House is the perfect spot for a longer lunch break while the showers pass. After a stop at the Copper Mill, the path leads us to the Isala Theater and finally through Castle Park to the Hitland nature area.",
+            "nl": "Ondanks de regen biedt de Algerabrug een dramatisch uitzicht op de rivier. We fietsen naar de Dorpskerk voor een korte droge pauze. Van Cappellen Huis is de perfecte plek voor een langere lunchpauze terwijl de buien voorbijtrekken. Na een stop bij De Koperen Molen leidt het pad ons naar het Isala Theater en uiteindelijk door het Slotpark naar het natuurgebied Hitland."
           },
           "stops": [
             {
@@ -807,7 +870,8 @@
                 "de": "Vorsicht, der Metallboden der Brücke kann bei Nässe sehr glatt sein.",
                 "hu": "Vigyázat, a híd fém padlója nedvesen nagyon csúszós lehet.",
                 "ro": "Atenție, podeaua metalică a podului poate fi foarte alunecoasă când este udă.",
-                "en": "Caution: the metal floor of the bridge can be very slippery when wet."
+                "en": "Caution: the metal floor of the bridge can be very slippery when wet.",
+                "nl": "Let op: de metalen vloer van de brug kan erg glad zijn bij natheid."
               }
             },
             {
@@ -816,7 +880,8 @@
                 "de": "Fahrradständer befinden sich direkt neben dem überdachten Portal.",
                 "hu": "A kerékpártárolók közvetlenül a fedett bejárat mellett találhatók.",
                 "ro": "Suporturile pentru biciclete sunt chiar lângă portalul acoperit.",
-                "en": "Bike racks are located right next to the covered portal."
+                "en": "Bike racks are located right next to the covered portal.",
+                "nl": "Fietsenrekken bevinden zich direct naast het overdekte portaal."
               }
             },
             {
@@ -825,7 +890,8 @@
                 "de": "Nutzen Sie die Zeit für eine Besichtigung der historischen Räume.",
                 "hu": "Használja ki az időt a történelmi szobák megtekintésére.",
                 "ro": "Folosiți timpul pentru a vizita camerele istorice.",
-                "en": "Use the time to tour the historical rooms."
+                "en": "Use the time to tour the historical rooms.",
+                "nl": "Gebruik de tijd om de historische kamers te bezichtigen."
               }
             },
             {
@@ -834,7 +900,8 @@
                 "de": "Ein schöner Zwischenstopp für einen Kaffee im Trockenen.",
                 "hu": "Szép köztes megálló egy kávéra a szárazon.",
                 "ro": "O oprire intermediară plăcută pentru o cafea la adăpost.",
-                "en": "A nice intermediate stop for a coffee in the dry."
+                "en": "A nice intermediate stop for a coffee in the dry.",
+                "nl": "Een leuke tussenstop voor een koffie in de droogte."
               }
             },
             {
@@ -843,7 +910,8 @@
                 "de": "Das Foyer bietet Schutz vor plötzlichen Regenschauern.",
                 "hu": "Az előcsarnok védelmet nyújt a hirtelen esők ellen.",
                 "ro": "Foaierul oferă protecție împotruva averselor bruște.",
-                "en": "The foyer offers protection from sudden rain showers."
+                "en": "The foyer offers protection from sudden rain showers.",
+                "nl": "De foyer biedt bescherming tegen plotselinge regenbuien."
               }
             },
             {
@@ -852,7 +920,8 @@
                 "de": "Die Hauptwege sind asphaltiert und gut befahrbar.",
                 "hu": "A főutak aszfaltozottak és jól járhatóak.",
                 "ro": "Drumurile principale sunt asfaltate și ușor de parcurs.",
-                "en": "The main paths are paved and easy to cycle on."
+                "en": "The main paths are paved and easy to cycle on.",
+                "nl": "De hoofdwegen zijn verhard en makkelijk begaanbaar met de fiets."
               }
             },
             {
@@ -861,7 +930,8 @@
                 "de": "Regenschutz für die Tasche einplanen, da es hier wenig Unterstand gibt.",
                 "hu": "Tervezzen esővédőt a táskára, mert itt kevés a menedék.",
                 "ro": "Planificați o protecție pentru geantă, deoarece aici sunt puține adăposturi.",
-                "en": "Plan rain protection for your bag, as there is little shelter here."
+                "en": "Plan rain protection for your bag, as there is little shelter here.",
+                "nl": "Plan regenscherming voor uw tas, want er is hier weinig beschutting."
               }
             }
           ],
@@ -889,6 +959,12 @@
               "Avoid abrupt braking on wet asphalt.",
               "Use the bicycle parking at stations for dry stops.",
               "The wind gusts on the dikes can be tricky during rain."
+            ],
+            "nl": [
+              "Goede regenkleding en waterdichte schoenhoezen worden aanbevolen.",
+              "Vermijd abrupt remmen op nat asfalt.",
+              "Gebruik de fietsparkeerplaatsen bij stations voor droge stops.",
+              "De windstoten op de dijken kunnen lastig zijn tijdens regen."
             ]
           }
         },
@@ -897,7 +973,8 @@
             "de": "Eine erfrischende Winterradtour entlang der IJssel startet an der Algerabrug. Die Dorpskerk bietet einen Moment der Stille in der Kälte. Zum Aufwärmen halten wir am Van Cappellen House für ein gemütliches Mittagessen. Nach einem Besuch der Kupfermühle und des Isala Theaters radeln wir durch den winterlichen Schlosspark zum weiten Naturschutzgebiet Hitland, wo der Frost die Landschaft verzaubert.",
             "hu": "Egy frissítő téli kerékpártúra az IJssel mentén indul az Algerabrugnál. A falusi templom egy pillanatnyi csendet kínál a hidegben. Felmelegedésként megállunk a Van Cappellen-háznál egy hangulatos ebédre. A Rézmalom és az Isala Színház megtekintése után a téli Kastélyparkon át tekerünk a tágas Hitland területére, ahol a fagy elvarázsolja a tájat.",
             "ro": "O tură revigorantă de iarnă cu bicicleta de-a lungul IJssel începe la Algerabrug. Biserica Satului oferă un moment de liniște în frig. Pentru a ne încălzi, ne oprim la Casa Van Cappellen pentru un prânz primitor. După o vizită la Moara de Cupru și Teatrul Isala, pedalăm prin Parcul Castelului spre rezervația Hitland, unde înghețul încântă peisajul.",
-            "en": "A refreshing winter bike tour along the IJssel starts at the Algerabrug. The Village Church offers a moment of silence in the cold. To warm up, we stop at Van Cappellen House for a cozy lunch. After visiting the Copper Mill and the Isala Theater, we cycle through the wintery Castle Park to the vast Hitland nature area, where frost enchants the landscape."
+            "en": "A refreshing winter bike tour along the IJssel starts at the Algerabrug. The Village Church offers a moment of silence in the cold. To warm up, we stop at Van Cappellen House for a cozy lunch. After visiting the Copper Mill and the Isala Theater, we cycle through the wintery Castle Park to the vast Hitland nature area, where frost enchants the landscape.",
+            "nl": "Een verfrissende winterfietstocht langs de IJssel begint bij de Algerabrug. De Dorpskerk biedt een moment van stilte in de kou. Om op te warmen stoppen we bij Van Cappellen Huis voor een gezellige lunch. Na een bezoek aan De Koperen Molen en het Isala Theater fietsen we door het winterse Slotpark naar het uitgestrekte natuurgebied Hitland, waar rijp het landschap betovert."
           },
           "stops": [
             {
@@ -906,7 +983,8 @@
                 "de": "Achtung vor dem beißenden Wind direkt am Fluss.",
                 "hu": "Vigyázzon a metsző szélre közvetlenül a folyónál.",
                 "ro": "Atenție la vântul tăios direct de pe râu.",
-                "en": "Beware of the biting wind directly by the river."
+                "en": "Beware of the biting wind directly by the river.",
+                "nl": "Pas op voor de snijdende wind direct aan de rivier."
               }
             },
             {
@@ -915,7 +993,8 @@
                 "de": "Ein kurzer Stopp zum Aufwärmen im Kircheninneren.",
                 "hu": "Egy rövid megálló felmelegedni a templomban.",
                 "ro": "O scurtă oprire pentru a vă încălzi în interiorul bisericii.",
-                "en": "A short stop to warm up inside the church."
+                "en": "A short stop to warm up inside the church.",
+                "nl": "Een korte stop om binnen op te warmen in de kerk."
               }
             },
             {
@@ -924,7 +1003,8 @@
                 "de": "Idealer Ort für eine längere Pause im Warmen.",
                 "hu": "Ideális hely egy hosszabb pihenőre a melegben.",
                 "ro": "Loc ideal pentru o pauză mai lungă la căldură.",
-                "en": "Ideal spot for a longer break in the warm."
+                "en": "Ideal spot for a longer break in the warm.",
+                "nl": "Ideale plek voor een langere warme pauze."
               }
             },
             {
@@ -933,7 +1013,8 @@
                 "de": "Die historische Mühle wirkt im Reif besonders schön.",
                 "hu": "A történelmi malom különösen szép a dérben.",
                 "ro": "Moara istorică arată deosebit de frumos în chiciură.",
-                "en": "The historic mill looks particularly beautiful in the frost."
+                "en": "The historic mill looks particularly beautiful in the frost.",
+                "nl": "De historische molen ziet er bijzonder mooi uit in de rijp."
               }
             },
             {
@@ -942,7 +1023,8 @@
                 "de": "Gönnen Sie sich einen heißen Tee im Theatercafé.",
                 "hu": "Kényeztesse magát egy forró teával a színházi kávézóban.",
                 "ro": "Răsfățați-vă cu un ceai fierbinte în cafeneaua teatrului.",
-                "en": "Treat yourself to a hot tea in the theater café."
+                "en": "Treat yourself to a hot tea in the theater café.",
+                "nl": "Trakteer uzelf op een hete thee in het theatercafé."
               }
             },
             {
@@ -951,7 +1033,8 @@
                 "de": "Vorsicht vor vereisten Pfützen auf den Wegen.",
                 "hu": "Vigyázzon a jeges tócsákra az utakon.",
                 "ro": "Atenție la bălțile înghețate de pe poteci.",
-                "en": "Beware of frozen puddles on the paths."
+                "en": "Beware of frozen puddles on the paths.",
+                "nl": "Let op bevroren plassen op de paden."
               }
             },
             {
@@ -960,7 +1043,8 @@
                 "de": "Beenden Sie die Tour vor Einbruch der Dunkelheit.",
                 "hu": "Fejezze be a túrát sötétedés előtt.",
                 "ro": "Încheiați turul înainte de lăsarea întunericului.",
-                "en": "Finish the tour before dark."
+                "en": "Finish the tour before dark.",
+                "nl": "Rond de tocht af voor het donker."
               }
             }
           ],
@@ -988,6 +1072,12 @@
               "Check your tire pressure, it drops in the cold.",
               "The paths in Hitland can be slippery in the morning.",
               "Make sure your bike lights are working."
+            ],
+            "nl": [
+              "Handschoenen en een winddichte muts zijn essentieel.",
+              "Controleer uw bandenspanning, die daalt bij kou.",
+              "De paden in Hitland kunnen ’s ochtends glad zijn.",
+              "Zorg dat uw fietslampen werken."
             ]
           }
         }
@@ -1006,7 +1096,8 @@
             "de": "Naturgebiet Hitland (Cluster A)",
             "hu": "Hitland Természetvédelmi Terület (A csoport)",
             "ro": "Rezervația Naturală Hitland (Cluster A)",
-            "en": "Hitland Nature Area (Cluster A)"
+            "en": "Hitland Nature Area (Cluster A)",
+            "nl": "Natuurgebied Hitland (Cluster A)"
           },
           "coords": [
             4.62,
@@ -1022,7 +1113,8 @@
             "de": "Parken Sie am Hauptparkplatz und machen Sie einen belebenden Morgenspaziergang.",
             "hu": "Parkoljon a fő parkolóban, és tegyen egy élénkítő reggeli sétát.",
             "ro": "Parcați în parcarea principală și faceți o plimbare revigorantă de dimineață.",
-            "en": "Park at the main entrance and take an invigorating morning walk."
+            "en": "Park at the main entrance and take an invigorating morning walk.",
+            "nl": "Parkeer bij de hoofdingang en maak een verkwikkende ochtendwandeling."
           }
         },
         {
@@ -1030,7 +1122,8 @@
             "de": "Fahrt ins Zentrum (Cluster B)",
             "hu": "Utazás a központba (B csoport)",
             "ro": "Călătorie spre centru (Cluster B)",
-            "en": "Drive to Center (Cluster B)"
+            "en": "Drive to Center (Cluster B)",
+            "nl": "Rijd naar Centrum (Cluster B)"
           },
           "coords": [
             4.581,
@@ -1046,7 +1139,8 @@
             "de": "Parken Sie in der Nähe der Dorpskerk; von hier aus erkunden Sie zu Fuß.",
             "hu": "Parkoljon a Dorpskerk közelében; innen gyalog fedezze fel a környéket.",
             "ro": "Parcați lângă Dorpskerk; de aici explorați pe jos.",
-            "en": "Park near the Dorpskerk; you'll explore from here on foot."
+            "en": "Park near the Dorpskerk; you'll explore from here on foot.",
+            "nl": "Parkeer bij de Dorpskerk; vanaf hier verkent u te voet."
           }
         },
         {
@@ -1054,7 +1148,8 @@
             "de": "Van Cappellenhuis & Dief- en Duifhuisje",
             "hu": "Van Cappellen-ház és Tolvaj-házikó",
             "ro": "Casa Van Cappellen & Casa Hoțului",
-            "en": "Van Cappellen House & Thief's House"
+            "en": "Van Cappellen House & Thief's House",
+            "nl": "Van Cappellen Huis & Dievenhuis"
           },
           "coords": [
             4.58,
@@ -1070,7 +1165,8 @@
             "de": "Diese beiden historischen Stätten liegen nur einen kurzen Spaziergang voneinander entfernt.",
             "hu": "Ez a két történelmi helyszín csak egy rövid sétára van egymástól.",
             "ro": "Aceste două situri istorice sunt la o scurtă plimbare una de cealaltă.",
-            "en": "These two historic sites are just a short walk from each other."
+            "en": "These two historic sites are just a short walk from each other.",
+            "nl": "Deze twee historische plekken liggen op korte loopafstand van elkaar."
           }
         },
         {
@@ -1078,7 +1174,8 @@
             "de": "Mittagessen im historischen Zentrum",
             "hu": "Ebéd a történelmi központban",
             "ro": "Prânz în centrul istoric",
-            "en": "Lunch in the historic center"
+            "en": "Lunch in the historic center",
+            "nl": "Lunch in het historische centrum"
           },
           "coords": [
             4.579,
@@ -1094,7 +1191,8 @@
             "de": "Wählen Sie ein Restaurant in der Dorpsstraat für eine authentische Atmosphäre.",
             "hu": "Válasszon egy éttermet a Dorpsstraaton az autentikus hangulatért.",
             "ro": "Alegeți un restaurant pe Dorpsstraat pentru o atmosferă autentică.",
-            "en": "Choose a restaurant on Dorpsstraat for an authentic atmosphere."
+            "en": "Choose a restaurant on Dorpsstraat for an authentic atmosphere.",
+            "nl": "Kies een restaurant aan de Dorpsstraat voor een authentieke sfeer."
           }
         },
         {
@@ -1102,7 +1200,8 @@
             "de": "Fahrt zur Algerabrug (Cluster C)",
             "hu": "Utazás az Algerabrug-hídhoz (C csoport)",
             "ro": "Călătorie spre podul Algerabrug (Cluster C)",
-            "en": "Drive to Algerabrug (Cluster C)"
+            "en": "Drive to Algerabrug (Cluster C)",
+            "nl": "Rijd naar Algerabrug (Cluster C)"
           },
           "coords": [
             4.56,
@@ -1118,7 +1217,8 @@
             "de": "Parken Sie am Aussichtspunkt, um die Ingenieurskunst der Brücke zu bewundern.",
             "hu": "Parkoljon a kilátópontnál, hogy megcsodálhassa a híd mérnöki munkáját.",
             "ro": "Parcați la punctul de observare pentru a admira ingineria podului.",
-            "en": "Park at the viewpoint to admire the bridge's engineering."
+            "en": "Park at the viewpoint to admire the bridge's engineering.",
+            "nl": "Parkeer bij het uitkijkpunt om de brugconstructie te bewonderen."
           }
         },
         {
@@ -1126,7 +1226,8 @@
             "de": "Kaffee bei De Koperen Molen",
             "hu": "Kávé a De Koperen Molennél",
             "ro": "Cafea la De Koperen Molen",
-            "en": "Coffee at De Koperen Molen"
+            "en": "Coffee at De Koperen Molen",
+            "nl": "Koffie bij De Koperen Molen"
           },
           "coords": [
             4.568,
@@ -1142,7 +1243,8 @@
             "de": "Ein entspannter Abschluss des Tages bei der historischen Mühle.",
             "hu": "A nap pihentető lezárása a történelmi malomnál.",
             "ro": "O încheiere relaxantă a zilei la moara istorică.",
-            "en": "A relaxing end to the day at the historic mill."
+            "en": "A relaxing end to the day at the historic mill.",
+            "nl": "Een ontspannen einde van de dag bij de historische molen."
           }
         }
       ],
@@ -1150,7 +1252,8 @@
         "de": "Beginnen Sie den Tag mit frischer Luft im weitläufigen Naturgebiet Hitland. Fahren Sie dann ins Herz von Capelle, parken Sie Ihr Auto und erkunden Sie zu Fuß das historische Cluster um die Dorpskerk und das Van Cappellenhuis, gefolgt von einem gemütlichen Mittagessen. Am Nachmittag fahren Sie zur imposanten Algerabrug für einen Panoramablick. Beenden Sie Ihre Tour mit einem Spaziergang von der Brücke zur alten Mühle De Koperen Molen für einen Kaffee und einen letzten Blick auf das industrielle Erbe.",
         "hu": "Kezdje a napot friss levegővel a tágas Hitland természetvédelmi területen. Ezután hajtson be Capelle szívébe, parkolja le az autóját, és fedezze fel gyalog a Dorpskerk és a Van Cappellen-ház körüli történelmi negyedet, majd ebédeljen egy jót. Délután vezessen el a lenyűgöző Algerabrug hídhoz a panorámás kilátásért. Fejezze be a túrát egy sétával a hídtól a régi De Koperen Molen malomig egy kávéra és egy utolsó pillantásra az ipari örökségre.",
         "ro": "Începeți ziua cu aer curat în vasta rezervație naturală Hitland. Apoi conduceți în inima orașului Capelle, parcați mașina și explorați pe jos grupul istoric din jurul Bisericii satului și a Casei Van Cappellen, urmat de un prânz relaxant. După-amiaza, conduceți la impunătorul pod Algerabrug pentru o vedere panoramică. Încheiați turul cu o plimbare de la pod la vechea moară De Koperen Molen pentru o cafea și o ultimă privire asupra patrimoniului industrial.",
-        "en": "Start the day with fresh air in the vast Hitland nature area. Then drive into the heart of Capelle, park your car, and explore the historic cluster around the Village Church and Van Cappellen House on foot, followed by a leisurely lunch. In the afternoon, drive to the impressive Algerabrug bridge for a panoramic view. End your tour with a walk from the bridge to the old De Koperen Molen mill for a coffee and a final look at the industrial heritage."
+        "en": "Start the day with fresh air in the vast Hitland nature area. Then drive into the heart of Capelle, park your car, and explore the historic cluster around the Village Church and Van Cappellen House on foot, followed by a leisurely lunch. In the afternoon, drive to the impressive Algerabrug bridge for a panoramic view. End your tour with a walk from the bridge to the old De Koperen Molen mill for a coffee and a final look at the industrial heritage.",
+        "nl": "Begin de dag met frisse lucht in het uitgestrekte natuurgebied Hitland. Rijd daarna het hart van Capelle in, parkeer de auto en verken het historische cluster rond de Dorpskerk en het Van Cappellen Huis te voet, gevolgd door een ontspannen lunch. In de middag rijdt u naar de indrukwekkende Algerabrug voor een panoramisch uitzicht. Sluit uw rondtocht af met een wandeling van de brug naar de oude molen De Koperen Molen voor een kop koffie en een laatste blik op het industrieel erfgoed."
       },
       "gastro_picks": {
         "de": [
@@ -1286,6 +1389,10 @@
         "en": [
           "Use 'Park & Ride' options to explore the center without stress.",
           "Pay attention to blue zones where you can park for free for a limited time with a parking disc."
+        ],
+        "nl": [
+          "Gebruik 'Park & Ride'-opties om het centrum zonder stress te verkennen.",
+          "Let op blauwe zones waar u met een parkeerschijf gratis tijdelijk kunt parkeren."
         ]
       },
       "variants": {
@@ -1294,7 +1401,8 @@
             "de": "Mit dem Auto erkunden wir Capelle bequem im Trockenen. Wir starten in Hitland, wo wir die Natur aus dem Fenster beobachten. Im Zentrum besuchen wir die Dorpskerk und das Van Cappellen House, wobei wir die kurzen Wege zwischen den Parkplätzen nutzen. Ein gemütliches Mittagessen und ein Kaffeestopp an der Kupfermühle runden den regnerischen Tag entspannt ab.",
             "hu": "Autóval kényelmesen, szárazon fedezzük fel Capelle-t. Hitlandban kezdünk, ahol az ablakból figyeljük a természetet. A központban meglátogatjuk a falusi templomot és a Van Cappellen-házat, kihasználva a parkolók közötti rövid távolságokat. Egy hangulatos ebéd és egy kávé a Rézmalomnál zárja lazán az esős napot.",
             "ro": "Cu mașina explorăm Capelle confortabil la adăpost. Începem în Hitland, unde observăm natura de la fereastră. În centru vizităm Biserica Satului și Casa Van Cappellen, folosind distanțele scurte dintre parcări. Un prânz plăcut și o oprire pentru cafea la Moara de Cupru încheie relaxat ziua ploioasă.",
-            "en": "By car, we explore Capelle comfortably while staying dry. We start in Hitland, observing nature from the window. In the center, we visit the Village Church and Van Cappellen House, taking advantage of the short distances between parking lots. A cozy lunch and a coffee stop at the Copper Mill round off the rainy day in a relaxed way."
+            "en": "By car, we explore Capelle comfortably while staying dry. We start in Hitland, observing nature from the window. In the center, we visit the Village Church and Van Cappellen House, taking advantage of the short distances between parking lots. A cozy lunch and a coffee stop at the Copper Mill round off the rainy day in a relaxed way.",
+            "nl": "Per auto verkennen we Capelle comfortabel en droog. We beginnen in Hitland en bekijken de natuur vanuit het raam. In het centrum bezoeken we de Dorpskerk en het Van Cappellen Huis, waarbij we profiteren van de korte afstanden tussen de parkeergelegenheden. Een gezellige lunch en een koffiestop bij de Koperen Molen maken de regenachtige dag ontspannen compleet."
           },
           "stops": [
             {
@@ -1303,7 +1411,8 @@
                 "de": "Genießen Sie den Blick auf die Vögel vom Parkplatz aus.",
                 "hu": "Élvezze a madarak látványát a parkolóból.",
                 "ro": "Bucurați-vă de vederea păsărilor din parcare.",
-                "en": "Enjoy the view of the birds from the parking lot."
+                "en": "Enjoy the view of the birds from the parking lot.",
+                "nl": "Geniet vanaf de parkeerplaats van het uitzicht op de vogels."
               }
             },
             {
@@ -1312,7 +1421,8 @@
                 "de": "Parken Sie im Parkhaus Koperwiek für direkten Zugang zum Zentrum.",
                 "hu": "Parkoljon a Koperwiek parkolóházban a központhoz való közvetlen hozzáférésért.",
                 "ro": "Parcați în garajul Koperwiek pentru acces direct în centru.",
-                "en": "Park in the Koperwiek garage for direct access to the center."
+                "en": "Park in the Koperwiek garage for direct access to the center.",
+                "nl": "Parkeer in de Koperwiekgarage voor directe toegang tot het centrum."
               }
             },
             {
@@ -1321,7 +1431,8 @@
                 "de": "Beide Orte liegen nah beieinander, ideal für kurze Gänge im Regen.",
                 "hu": "Mindkét hely közel van egymáshoz, ideális rövid esőben való sétákhoz.",
                 "ro": "Ambele locuri sunt aproape unul de celălalt, ideale pentru plimbări scurte prin ploaie.",
-                "en": "Both places are close together, ideal for short walks in the rain."
+                "en": "Both places are close together, ideal for short walks in the rain.",
+                "nl": "Beide plekken liggen dicht bij elkaar, ideaal voor korte wandelingen in de regen."
               }
             },
             {
@@ -1330,7 +1441,8 @@
                 "de": "Reservieren Sie einen Tisch in der Nähe des Eingangs.",
                 "hu": "Foglaljon asztalt a bejárat közelében.",
                 "ro": "Rezervați o masă lângă intrare.",
-                "en": "Reserve a table near the entrance."
+                "en": "Reserve a table near the entrance.",
+                "nl": "Reserveer een tafel bij de ingang."
               }
             },
             {
@@ -1339,7 +1451,8 @@
                 "de": "Ein spektakulärer Blick aus dem Auto beim Überqueren der Brücke.",
                 "hu": "Látványos kilátás az autóból a hídon való átkeléskor.",
                 "ro": "O vedere spectaculoasă din mașină în timp ce traversați podul.",
-                "en": "A spectacular view from the car while crossing the bridge."
+                "en": "A spectacular view from the car while crossing the bridge.",
+                "nl": "Een spectaculair uitzicht vanuit de auto tijdens de oversteek van de brug."
               }
             },
             {
@@ -1348,7 +1461,8 @@
                 "de": "Parken Sie direkt vor der Mühle, um trocken zu bleiben.",
                 "hu": "Parkoljon közvetlenül a malom előtt, hogy száraz maradjon.",
                 "ro": "Parcați chiar în fața morii pentru a rămâne uscat.",
-                "en": "Park right in front of the mill to stay dry."
+                "en": "Park right in front of the mill to stay dry.",
+                "nl": "Parkeer recht voor de molen om droog te blijven."
               }
             }
           ],
@@ -1376,6 +1490,12 @@
               "Avoid rush hour at the Algerabrug during heavy rain.",
               "Keep windows defogged for a good view of the canals.",
               "An umbrella in the car is important for the walks to the entrance."
+            ],
+            "nl": [
+              "Profiteer van de vele gratis parkeerplaatsen in de buitenwijken.",
+              "Vermijd de spits bij de Algerabrug tijdens forse regenbuien.",
+              "Houd ruiten ontwasemd voor een goed zicht op de kanalen.",
+              "Een paraplu in de auto is belangrijk voor de wandelingen naar de ingang."
             ]
           }
         },
@@ -1384,7 +1504,8 @@
             "de": "Ein winterlicher Ausflug beginnt im frostigen Hitland, das wir warm vom Auto aus genießen. Im historischen Zentrum besuchen wir die festlich beleuchtete Dorpskerk und das Van Cappellen House. Nach einem kräftigen Mittagessen bestaunen wir die Algerabrug im klaren Winterlicht. Der Tag endet bei einem heißen Kaffee in der Kupfermühle, während draußen der Frost die Kanäle überzieht.",
             "hu": "Egy téli kirándulás a fagyos Hitlandben kezdődik, amit melegen az autóból élvezünk. A történelmi központban meglátogatjuk az ünnepi kivilágítású templomot és a Van Cappellen-házat. Egy bőséges ebéd után megcsodáljuk az Algerabrugot a tiszta téli fényben. A nap egy forró kávéval zárul a Rézmalomban, miközben kint a fagy befedi a csatornákat.",
             "ro": "O excursie de iarnă începe în Hitland-ul înghețat, pe care îl savurăm la căldură din mașină. În centrul istoric vizităm biserica iluminată festiv și Casa Van Cappellen. După un prânz copios, admirăm Algerabrug în lumina clară de iarnă. Ziua se încheie cu o cafea fierbinte la Moara de Cupru, în timp ce afară înghețul acoperă canalele.",
-            "en": "A winter excursion begins in frosty Hitland, which we enjoy warmly from the car. In the historic center, we visit the festively lit Village Church and Van Cappellen House. After a substantial lunch, we marvel at the Algerabrug in the clear winter light. The day ends with a hot coffee at the Copper Mill, while outside, frost covers the canals."
+            "en": "A winter excursion begins in frosty Hitland, which we enjoy warmly from the car. In the historic center, we visit the festively lit Village Church and Van Cappellen House. After a substantial lunch, we marvel at the Algerabrug in the clear winter light. The day ends with a hot coffee at the Copper Mill, while outside, frost covers the canals.",
+            "nl": "Een winterse excursie begint in het frisse Hitland, dat we warm vanuit de auto bewonderen. In het historische centrum bezoeken we de feestelijk verlichte Dorpskerk en het Van Cappellen Huis. Na een uitgebreide lunch staan we versteld van de Algerabrug in het heldere winterlicht. De dag eindigt met een hete koffie bij de Koperen Molen, terwijl buiten rijp de kanalen bedekt."
           },
           "stops": [
             {
@@ -1393,7 +1514,8 @@
                 "de": "Die gefrorenen Wiesen sind im Morgenlicht ein tolles Fotomotiv.",
                 "hu": "A befagyott rétek a reggeli fényben remek fotótémák.",
                 "ro": "Pajiștile înghețate sunt un subiect foto excelent în lumina dimineții.",
-                "en": "The frozen meadows are a great photo subject in the morning light."
+                "en": "The frozen meadows are a great photo subject in the morning light.",
+                "nl": "De bevroren weilanden zijn in de ochtendlicht een mooi fotomotief."
               }
             },
             {
@@ -1402,7 +1524,8 @@
                 "de": "Achten Sie auf Glätte in den schattigen Nebenstraßen des Dorfes.",
                 "hu": "Vigyázzon a csúszós szakaszokra a falu árnyékos mellékutcáiban.",
                 "ro": "Atenție la porțiunile alunecoase pe străzile secundare umbrite ale satului.",
-                "en": "Watch out for ice in the shaded side streets of the village."
+                "en": "Watch out for ice in the shaded side streets of the village.",
+                "nl": "Let op ijs in de beschaduwde zijstraatjes van het dorp."
               }
             },
             {
@@ -1411,7 +1534,8 @@
                 "de": "Die Innenausstellung ist im Winter angenehm geheizt.",
                 "hu": "A belső kiállítás télen kellemesen fűtött.",
                 "ro": "Expoziția interioară este încălzită plăcut iarna.",
-                "en": "The indoor exhibition is pleasantly heated in winter."
+                "en": "The indoor exhibition is pleasantly heated in winter.",
+                "nl": "De binnenexpositie is aangenaam verwarmd in de winter."
               }
             },
             {
@@ -1420,7 +1544,8 @@
                 "de": "Suchen Sie sich einen Platz am Kamin, falls vorhanden.",
                 "hu": "Keressen helyet a kandalló közelében, ha van.",
                 "ro": "Căutați un loc lângă șemineu, dacă există.",
-                "en": "Find a seat near the fireplace if available."
+                "en": "Find a seat near the fireplace if available.",
+                "nl": "Zoek indien mogelijk een zitplaats bij de haard."
               }
             },
             {
@@ -1429,7 +1554,8 @@
                 "de": "Prüfen Sie vor der Fahrt den Straßenzustand auf der Brücke.",
                 "hu": "Indulás előtt ellenőrizze az útviszonyokat a hídon.",
                 "ro": "Verificați starea drumului pe pod înainte de a conduce.",
-                "en": "Check road conditions on the bridge before driving."
+                "en": "Check road conditions on the bridge before driving.",
+                "nl": "Controleer de wegomstandigheden op de brug voordat u rijdt."
               }
             },
             {
@@ -1438,7 +1564,8 @@
                 "de": "Genießen Sie den Sonnenuntergang über dem Eis vom warmen Café aus.",
                 "hu": "Élvezze a naplementét a jég felett a meleg kávézóból.",
                 "ro": "Bucurați-vă de apusul peste gheață din cafeneaua călduroasă.",
-                "en": "Enjoy the sunset over the ice from the warm café."
+                "en": "Enjoy the sunset over the ice from the warm café.",
+                "nl": "Geniet van de zonsondergang over het ijs vanuit het warme café."
               }
             }
           ],
@@ -1466,6 +1593,12 @@
               "Parking fees in the center can be paid conveniently via app.",
               "Avoid parking the car under trees if there is a risk of frost.",
               "Hot drinks in thermoses are ideal for small breaks by the water."
+            ],
+            "nl": [
+              "Winterbanden zijn zeer aan te raden bij vorst en ijs in Nederland.",
+              "Parkeergelden in het centrum kunt u gemakkelijk via een app betalen.",
+              "Vermijd parkeren onder bomen als er kans op rijp is.",
+              "Warme dranken in thermosflessen zijn ideaal voor korte pauzes bij het water."
             ]
           }
         }
@@ -1484,7 +1617,8 @@
             "de": "Ankunft am Centrum (Cluster A)",
             "hu": "Érkezés a központba (A csoport)",
             "ro": "Sosire în Centru (Cluster A)",
-            "en": "Arrival at Centrum (Cluster A)"
+            "en": "Arrival at Centrum (Cluster A)",
+            "nl": "Aankomst bij Centrum (Cluster A)"
           },
           "coords": [
             4.575,
@@ -1500,7 +1634,8 @@
             "de": "Beginnen Sie am Isala Theater, einem zentralen Verkehrsknotenpunkt.",
             "hu": "Kezdje az Isala Színháznál, egy központi közlekedési csomópontnál.",
             "ro": "Începeți de la Teatrul Isala, un nod central de transport.",
-            "en": "Start at the Isala Theater, a central transport hub."
+            "en": "Start at the Isala Theater, a central transport hub.",
+            "nl": "Begin bij het Isala Theater, een centraal vervoersknooppunt."
           }
         },
         {
@@ -1508,7 +1643,8 @@
             "de": "Slotpark",
             "hu": "Kastélypark",
             "ro": "Parcul Castelului",
-            "en": "Castle Park"
+            "en": "Castle Park",
+            "nl": "Kasteelpark"
           },
           "coords": [
             4.585,
@@ -1524,7 +1660,8 @@
             "de": "Ein kurzer Spaziergang vom Theater entfernt, ideal für einen ruhigen Start in den Tag.",
             "hu": "Rövid sétára a színháztól, ideális a nap nyugodt kezdéséhez.",
             "ro": "La o scurtă plimbare de teatru, ideal pentru un început liniștit de zi.",
-            "en": "A short walk from the theater, ideal for a quiet start to the day."
+            "en": "A short walk from the theater, ideal for a quiet start to the day.",
+            "nl": "Op korte loopafstand van het theater, ideaal voor een rustige start van de dag."
           }
         },
         {
@@ -1532,7 +1669,8 @@
             "de": "Fahrt ins alte Dorf (Cluster B)",
             "hu": "Utazás az ófaluba (B csoport)",
             "ro": "Călătorie spre satul vechi (Cluster B)",
-            "en": "Trip to the Old Village (Cluster B)"
+            "en": "Trip to the Old Village (Cluster B)",
+            "nl": "Uitstap naar het Oude Dorp (Cluster B)"
           },
           "coords": [
             4.581,
@@ -1548,7 +1686,8 @@
             "de": "Nehmen Sie den Bus zur Haltestelle 'Dorpskerk'.",
             "hu": "Menjen busszal a 'Dorpskerk' megállóig.",
             "ro": "Luați autobuzul până la stația 'Dorpskerk'.",
-            "en": "Take the bus to the 'Dorpskerk' stop."
+            "en": "Take the bus to the 'Dorpskerk' stop.",
+            "nl": "Neem de bus naar de halte 'Dorpskerk'."
           }
         },
         {
@@ -1556,7 +1695,8 @@
             "de": "Van Cappellenhuis & Mittagessen",
             "hu": "Van Cappellen-ház & Ebéd",
             "ro": "Casa Van Cappellen & Prânz",
-            "en": "Van Cappellen House & Lunch"
+            "en": "Van Cappellen House & Lunch",
+            "nl": "Van Cappellen Huis & Lunch"
           },
           "coords": [
             4.58,
@@ -1572,7 +1712,8 @@
             "de": "Erkunden Sie das Haus und genießen Sie anschließend ein Mittagessen in der Nähe.",
             "hu": "Fedezze fel a házat, majd ebédeljen a közelben.",
             "ro": "Explorați casa și apoi bucurați-vă de prânz în apropiere.",
-            "en": "Explore the house and then enjoy lunch nearby."
+            "en": "Explore the house and then enjoy lunch nearby.",
+            "nl": "Verken het huis en geniet daarna van lunch in de buurt."
           }
         },
         {
@@ -1580,7 +1721,8 @@
             "de": "Fahrt zur Mühle (Cluster C)",
             "hu": "Utazás a malomhoz (C csoport)",
             "ro": "Călătorie la moară (Cluster C)",
-            "en": "Trip to the Mill (Cluster C)"
+            "en": "Trip to the Mill (Cluster C)",
+            "nl": "Uitstap naar de Molen (Cluster C)"
           },
           "coords": [
             4.568,
@@ -1596,7 +1738,8 @@
             "de": "Ein weiterer kurzer Bus-Trip bringt Sie zu diesem historischen Wahrzeichen.",
             "hu": "Egy újabb rövid buszút visz el ehhez a történelmi nevezetességhez.",
             "ro": "O altă scurtă călătorie cu autobuzul vă duce la acest punct de reper istoric.",
-            "en": "Another short bus trip takes you to this historic landmark."
+            "en": "Another short bus trip takes you to this historic landmark.",
+            "nl": "Een andere korte busrit brengt u naar dit historische herkenningspunt."
           }
         },
         {
@@ -1604,7 +1747,8 @@
             "de": "Spaziergang zur Algerabrug",
             "hu": "Séta az Algerabrug-hídhoz",
             "ro": "Plimbare la podul Algerabrug",
-            "en": "Walk to Algerabrug"
+            "en": "Walk to Algerabrug",
+            "nl": "Wandeling naar Algerabrug"
           },
           "coords": [
             4.56,
@@ -1620,7 +1764,8 @@
             "de": "Beenden Sie den Tag mit einem Spaziergang zur Brücke für eine tolle Aussicht.",
             "hu": "Fejezze be a napot egy sétával a hídhoz a nagyszerű kilátásért.",
             "ro": "Încheiați ziua cu o plimbare la pod pentru o priveliște minunată.",
-            "en": "End the day with a walk to the bridge for a great view."
+            "en": "End the day with a walk to the bridge for a great view.",
+            "nl": "Sluit de dag af met een wandeling naar de brug voor een prachtig uitzicht."
           }
         }
       ],
@@ -1628,7 +1773,8 @@
         "de": "Ihre Tour beginnt mit öffentlichen Verkehrsmitteln am modernen Isala Theater, gefolgt von einem Spaziergang zum ruhigen Slotpark. Nehmen Sie dann einen Bus ins alte Dorfzentrum, um die historische Dorpskerk und das Van Cappellenhuis zu erkunden und zu Mittag zu essen. Am Nachmittag bringt Sie ein weiterer Bus zur alten Mühle De Koperen Molen. Ein letzter Spaziergang führt Sie zur Algerabrug, wo Sie den Tag mit einem weiten Blick über den Fluss ausklingen lassen.",
         "hu": "A túra a modern Isala Színháznál kezdődik tömegközlekedéssel, majd egy séta következik a békés Kastélyparkba. Ezután busszal utazzon az ófalu központjába, hogy felfedezze a történelmi falusi templomot és a Van Cappellen-házat, majd ebédeljen. Délután egy másik busz viszi el a régi De Koperen Molen malomhoz. Egy utolsó séta vezet az Algerabrug hídhoz, ahol a folyóra nyíló széles kilátással zárul a nap.",
         "ro": "Turul dumneavoastră începe cu transportul public la modernul Teatru Isala, urmat de o plimbare până la liniștitul Parc al Castelului. Apoi luați un autobuz spre centrul vechi al satului pentru a explora istorica Biserică a satului și Casa Van Cappellen și pentru a lua prânzul. După-amiaza, un alt autobuz vă va duce la vechea moară De Koperen Molen. O ultimă plimbare vă va duce la podul Algerabrug, încheind ziua cu o priveliște vastă asupra râului.",
-        "en": "Your tour starts by public transport at the modern Isala Theater, followed by a walk to the peaceful Slotpark. Then, take a bus to the old village center to explore the historic Village Church and Van Cappellen House, and have lunch. In the afternoon, another bus takes you to the old De Koperen Molen mill. A final walk leads you to the Algerabrug bridge, ending the day with a wide view over the river."
+        "en": "Your tour starts by public transport at the modern Isala Theater, followed by a walk to the peaceful Slotpark. Then, take a bus to the old village center to explore the historic Village Church and Van Cappellen House, and have lunch. In the afternoon, another bus takes you to the old De Koperen Molen mill. A final walk leads you to the Algerabrug bridge, ending the day with a wide view over the river.",
+        "nl": "Uw rondleiding begint met het openbaar vervoer bij het moderne Isala Theater, gevolgd door een wandeling naar het rustige Slotpark. Neem daarna de bus naar het oude dorpscentrum om de historische Dorpskerk en het Van Cappellen Huis te verkennen en te lunchen. In de middag brengt een volgende bus u naar de oude molen De Koperen Molen. Een laatste wandeling leidt u naar de Algerabrug, waarmee de dag eindigt met een wijds uitzicht over de rivier."
       },
       "gastro_picks": {
         "de": [
@@ -1764,6 +1910,10 @@
         "en": [
           "Buy a day ticket (Dagkaart) for unlimited bus and metro travel in the region.",
           "Use a public transport app like 9292 to plan your routes in real-time."
+        ],
+        "nl": [
+          "Koop een dagkaart (Dagkaart) voor onbeperkt bus- en metrorijden in de regio.",
+          "Gebruik een OV-app zoals 9292 om uw routes in real-time te plannen."
         ]
       },
       "variants": {
@@ -1772,7 +1922,8 @@
             "de": "Mit Metro und Bus erreichen wir trocken das Isala Theater. Ein Spaziergang zum Schlosspark ist bei leichtem Regen machbar, bevor wir mit dem Bus ins alte Dorf zur Kirche fahren. Das Van Cappellen House bietet Schutz für eine kulturelle Pause. Die Tour führt uns weiter zur Kupfermühle und zur beeindruckenden Algerabrug, wobei die Haltestellen meist überdacht sind.",
             "hu": "Metróval és busszal szárazon érjük el az Isala Színházat. Egy séta a Kastélyparkba enyhe esőben kivitelezhető, mielőtt busszal a régi falu templomához utazunk. A Van Cappellen-ház védelmet nyújt egy kulturális pihenőhöz. A túra a Rézmalomhoz és a lenyűgöző Algerabrug-hoz folytatódik, a megállók többnyire fedettek.",
             "ro": "Cu metroul și autobuzul ajungem la adăpost la Teatrul Isala. O plimbare în Parcul Castelului este fezabilă pe o ploaie ușoară, înainte de a lua autobuzul spre vechiul sat la biserică. Casa Van Cappellen oferă protecție pentru o pauză culturală. Turul ne duce mai departe la Moara de Cupru și la impresionantul Algerabrug, stațiile fiind în mare parte acoperite.",
-            "en": "By metro and bus, we reach the Isala Theater while staying dry. A walk to Castle Park is feasible in light rain before we take the bus to the old village church. Van Cappellen House offers shelter for a cultural break. The tour continues to the Copper Mill and the impressive Algerabrug, with most stops being covered."
+            "en": "By metro and bus, we reach the Isala Theater while staying dry. A walk to Castle Park is feasible in light rain before we take the bus to the old village church. Van Cappellen House offers shelter for a cultural break. The tour continues to the Copper Mill and the impressive Algerabrug, with most stops being covered.",
+            "nl": "Met metro en bus bereiken we het Isala Theater en blijven droog. Een wandeling naar het Kasteelpark is bij lichte regen goed te doen voordat we de bus nemen naar de oude dorpskerk. Het Van Cappellen Huis biedt schuilplaats voor een culturele pauze. De tocht gaat verder naar de Koperen Molen en de indrukwekkende Algerabrug, waarbij de meeste haltes overdekt zijn."
           },
           "stops": [
             {
@@ -1781,7 +1932,8 @@
                 "de": "Die Metrostation Capelle Centrum bietet direkten Schutz.",
                 "hu": "A Capelle Centrum metróállomás közvetlen védelmet nyújt.",
                 "ro": "Stația de metrou Capelle Centrum oferă protecție directă.",
-                "en": "Capelle Centrum metro station offers direct shelter."
+                "en": "Capelle Centrum metro station offers direct shelter.",
+                "nl": "Metrostation Capelle Centrum biedt directe beschutting."
               }
             },
             {
@@ -1790,7 +1942,8 @@
                 "de": "Nutzen Sie den kurzen Fußweg von der Haltestelle Slotlaan.",
                 "hu": "Használja a rövid gyalogutat a Slotlaan megállótól.",
                 "ro": "Folosiți drumul scurt pe jos de la stația Slotlaan.",
-                "en": "Use the short walk from the Slotlaan stop."
+                "en": "Use the short walk from the Slotlaan stop.",
+                "nl": "Gebruik de korte wandeling vanaf halte Slotlaan."
               }
             },
             {
@@ -1799,7 +1952,8 @@
                 "de": "Busse verkehren regelmäßig und halten nah an der Kirche.",
                 "hu": "A buszok rendszeresen járnak és a templom közelében állnak meg.",
                 "ro": "Autobuzele circulă regulat și opresc aproape de biserică.",
-                "en": "Buses run regularly and stop close to the church."
+                "en": "Buses run regularly and stop close to the church.",
+                "nl": "Bussen rijden regelmatig en stoppen dichtbij de kerk."
               }
             },
             {
@@ -1808,7 +1962,8 @@
                 "de": "Ein idealer Ort, um auf den nächsten Bus im Trockenen zu warten.",
                 "hu": "Ideális hely, hogy szárazon várja meg a következő buszt.",
                 "ro": "Un loc ideal pentru a aștepta următorul autobuz la adăpost.",
-                "en": "An ideal place to wait for the next bus in the dry."
+                "en": "An ideal place to wait for the next bus in the dry.",
+                "nl": "Een ideale plek om droog te wachten op de volgende bus."
               }
             },
             {
@@ -1817,7 +1972,8 @@
                 "de": "Die Haltestelle ist nur wenige Schritte von der Mühle entfernt.",
                 "hu": "A megálló csak néhány lépésre van a malomtól.",
                 "ro": "Stația este la doar câțiva pași de moară.",
-                "en": "The stop is just a few steps away from the mill."
+                "en": "The stop is just a few steps away from the mill.",
+                "nl": "De halte is slechts een paar stappen van de molen."
               }
             },
             {
@@ -1826,7 +1982,8 @@
                 "de": "Die Brücke ist von der Bushaltestelle aus gut sichtbar.",
                 "hu": "A híd jól látható a buszmegállóból.",
                 "ro": "Podul este clar vizibil din stația de autobuz.",
-                "en": "The bridge is clearly visible from the bus stop."
+                "en": "The bridge is clearly visible from the bus stop.",
+                "nl": "De brug is duidelijk zichtbaar vanaf de bushalte."
               }
             }
           ],
@@ -1854,6 +2011,12 @@
               "Metro stations are ideal places for a short breather.",
               "Watch out for slippery floors in buses and trains.",
               "A small, foldable umbrella fits in any bag for transfers."
+            ],
+            "nl": [
+              "Gebruik de '9292'-app voor real-time informatie bij regenvertragingen.",
+              "Metrohaltes zijn ideale plekken voor een korte pauze binnen.",
+              "Let op gladde vloeren in bussen en treinen.",
+              "Een kleine opvouwbare paraplu past in elke tas voor overstappen."
             ]
           }
         },
@@ -1862,7 +2025,8 @@
             "de": "Die winterliche Tour startet warm im Isala Theater. Nach einem erfrischenden Blick in den Schlosspark bringt uns der Bus ins historische Dorf zur Dorpskerk. Das Van Cappellen House lädt zu einer gemütlichen Mittagspause ein. Mit dem Bus geht es weiter zur Kupfermühle und schließlich zur Algerabrug, wo wir den frostigen Fluss IJssel bestaunen, bevor uns die Metro zurück ins Warme bringt.",
             "hu": "A téli túra melegen indul az Isala Színházban. Egy frissítő pillantás után a Kastélyparkba, a busz a történelmi faluba visz a templomhoz. A Van Cappellen-ház hangulatos ebédszünetre hív. Busszal megyünk tovább a Rézmalomhoz, végül az Algerabrug-hoz, ahol megcsodáljuk a fagyos IJssel folyót, mielőtt a metró visszavisz a melegbe.",
             "ro": "Turul de iarnă începe la căldură în Teatrul Isala. După o privire revigorantă în Parcul Castelului, autobuzul ne duce în satul istoric la biserică. Casa Van Cappellen invită la o pauză de prânz primitoare. Cu autobuzul mergem mai departe la Moara de Cupru și în final la Algerabrug, unde admirăm râul IJssel înghețat, înainte ca metroul să ne ducă înapoi la căldură.",
-            "en": "The winter tour starts warmly in the Isala Theater. After a refreshing look at Castle Park, the bus takes us to the historic village church. Van Cappellen House invites us for a cozy lunch break. By bus, we continue to the Copper Mill and finally to the Algerabrug, where we marvel at the frosty IJssel River before the metro takes us back to the warmth."
+            "en": "The winter tour starts warmly in the Isala Theater. After a refreshing look at Castle Park, the bus takes us to the historic village church. Van Cappellen House invites us for a cozy lunch break. By bus, we continue to the Copper Mill and finally to the Algerabrug, where we marvel at the frosty IJssel River before the metro takes us back to the warmth.",
+            "nl": "De wintertour begint behaaglijk in het Isala Theater. Na een verfrissende blik op het Kasteelpark brengt de bus ons naar de historische dorpskerk. Het Van Cappellen Huis nodigt uit voor een gezellige lunchpauze. Met de bus zetten we koers naar de Koperen Molen en uiteindelijk naar de Algerabrug, waar we ons verwonderen over de ijzige rivier de IJssel voordat de metro ons terugbrengt naar de warmte."
           },
           "stops": [
             {
@@ -1871,7 +2035,8 @@
                 "de": "Das Theatergebäude ist im Winter ein herrlich warmer Startpunkt.",
                 "hu": "A színházépület télen remek meleg kiindulópont.",
                 "ro": "Clădirea teatrului este un punct de plecare minunat de cald iarna.",
-                "en": "The theater building is a wonderfully warm starting point in winter."
+                "en": "The theater building is a wonderfully warm starting point in winter.",
+                "nl": "Het theatergebouw is een heerlijk warme startplek in de winter."
               }
             },
             {
@@ -1880,7 +2045,8 @@
                 "de": "Der Spaziergang zur Slotlaan ist kurz und belebend.",
                 "hu": "A séta a Slotlaan-ig rövid és élénkítő.",
                 "ro": "Plimbarea până la Slotlaan este scurtă și revigorantă.",
-                "en": "The walk to Slotlaan is short and invigorating."
+                "en": "The walk to Slotlaan is short and invigorating.",
+                "nl": "De wandeling naar Slotlaan is kort en verkwikkend."
               }
             },
             {
@@ -1889,7 +2055,8 @@
                 "de": "Nutzen Sie die geheizten Wartehallen an den größeren Haltestellen.",
                 "hu": "Használja a fűtött várótermeket a nagyobb megállóknál.",
                 "ro": "Folosiți sălile de așteptare încălzite la stațiile mai mari.",
-                "en": "Use the heated waiting areas at larger stops."
+                "en": "Use the heated waiting areas at larger stops.",
+                "nl": "Gebruik de verwarmde wachtzones bij grotere haltes."
               }
             },
             {
@@ -1898,7 +2065,8 @@
                 "de": "Ein Muss für Geschichtsliebhaber, die Wärme suchen.",
                 "hu": "Kötelező a történelem szerelmeseinek, akik melegre vágynak.",
                 "ro": "O necesitate pentru iubitorii de istorie care caută căldură.",
-                "en": "A must for history lovers looking for warmth."
+                "en": "A must for history lovers looking for warmth.",
+                "nl": "Een must voor geschiedenisliefhebbers die warmte zoeken."
               }
             },
             {
@@ -1907,7 +2075,8 @@
                 "de": "Die Fahrt bietet schöne Ausblicke auf die winterliche IJssel.",
                 "hu": "Az utazás szép kilátást nyújt a téli IJssel-re.",
                 "ro": "Călătoria oferă vederi frumoase asupra râului IJssel iarna.",
-                "en": "The ride offers beautiful views of the wintery IJssel."
+                "en": "The ride offers beautiful views of the wintery IJssel.",
+                "nl": "De rit biedt mooie uitzichten over het winterse IJsselgebied."
               }
             },
             {
@@ -1916,7 +2085,8 @@
                 "de": "Ziehen Sie sich für den Weg zur Brücke besonders warm an.",
                 "hu": "Öltözzön különösen melegen a hídhoz vezető útra.",
                 "ro": "Îmbrăcați-vă deosebit de gros pentru drumul spre pod.",
-                "en": "Dress extra warmly for the walk to the bridge."
+                "en": "Dress extra warmly for the walk to the bridge.",
+                "nl": "Kleed u extra warm voor de wandeling naar de brug."
               }
             }
           ],
@@ -1944,6 +2114,12 @@
               "Wear warm socks as it can be drafty at the stops.",
               "The OV-chipkaart should have sufficient balance for the day.",
               "Metro trains are usually very well heated in winter."
+            ],
+            "nl": [
+              "Plan extra tijd in, want sneeuw kan het verkeer vertragen.",
+              "Draag warme sokken, want het kan tochtig zijn bij de haltes.",
+              "Zorg dat de OV-chipkaart voldoende saldo heeft voor de dag.",
+              "Metrotreinen zijn meestal goed verwarmd in de winter."
             ]
           }
         }
