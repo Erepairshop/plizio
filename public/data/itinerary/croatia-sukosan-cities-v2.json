@@ -21,7 +21,8 @@
             "de": "Gornja vrata",
             "hu": "Gornja vrata (Felső kapu)",
             "ro": "Gornja vrata",
-            "en": "Gornja vrata"
+            "en": "Gornja vrata",
+            "hr": "Gornja vrata"
           },
           "coords": [
             15.315,
@@ -37,7 +38,7 @@
             "hu": "A velencei időkben emelt városfal egyik megmaradt bejárata.",
             "ro": "Rămășițe ale zidurilor vechi din perioada dominației venețiene.",
             "en": "Remains of the old city walls from the period of Venetian rule.",
-            "hr": "Ostaci starih gradskih zidina iz razdoblja mletačke vladavine."
+            "hr": "Ostaci gradskih zidina iz razdoblja mletačke vladavine."
           }
         },
         {
@@ -45,7 +46,8 @@
             "de": "Crkva sv. Kasijana",
             "hu": "Szent Cassianus-templom",
             "ro": "Biserica Sf. Casian",
-            "en": "Church of St. Cassian"
+            "en": "Church of St. Cassian",
+            "hr": "Crkva sv. Kasijana"
           },
           "coords": [
             15.313,
@@ -61,7 +63,7 @@
             "hu": "A plébániatemplom román és barokk stílusjegyeket ötvöz.",
             "ro": "Biserica parohială îmbină elemente romanice și baroce.",
             "en": "The parish church features a blend of Romanesque and Baroque styles.",
-            "hr": "Župna crkva spaja romanički i barokni stil."
+            "hr": "Župna crkva kombinira romanički i barokni stil."
           }
         },
         {
@@ -69,7 +71,8 @@
             "de": "Kaffee an der Riva",
             "hu": "Kávészünet a Riván",
             "ro": "Pauză de cafea pe Riva",
-            "en": "Coffee break on the Riva"
+            "en": "Coffee break on the Riva",
+            "hr": "Kava na Rivi"
           },
           "coords": [
             15.311,
@@ -85,7 +88,7 @@
             "hu": "Élvezze az öbölre néző kilátást egy jó presszókávé mellett.",
             "ro": "Bucurați-vă de vederea spre golf cu un espresso local.",
             "en": "Enjoy the bay view with a classic local espresso.",
-            "hr": "Uživajte u pogledu na zaljev uz klasični domaći espresso."
+            "hr": "Uživajte u pogledu na uvalu uz klasični lokalni espresso."
           }
         },
         {
@@ -93,7 +96,8 @@
             "de": "Palac",
             "hu": "Palac (Érseki nyári rezidencia)",
             "ro": "Palac",
-            "en": "Palac"
+            "en": "Palac",
+            "hr": "Palac"
           },
           "coords": [
             15.31,
@@ -109,7 +113,7 @@
             "hu": "A 15. századi érseki nyaraló romjai közvetlenül a tengerből emelkednek ki.",
             "ro": "Ruinele reședinței de vară a arhiepiscopilor ies direct din mare.",
             "en": "Ruins of the 15th-century archbishop's summer villa rising from the sea.",
-            "hr": "Ruševine ljetnikovca nadbiskupa iz 15. stoljeća koje izranjaju iz mora."
+            "hr": "Ruševine ljetne rezidencije nadbiskupa iz 15. stoljeća koje izranjaju iz mora."
           }
         },
         {
@@ -117,7 +121,8 @@
             "de": "Mittagessen in einer Konoba",
             "hu": "Ebéd egy helyi konobában",
             "ro": "Prânz la o konoba",
-            "en": "Lunch in a local Konoba"
+            "en": "Lunch in a local Konoba",
+            "hr": "Ručak u lokalnoj konobi"
           },
           "coords": [
             15.312,
@@ -133,7 +138,7 @@
             "hu": "Kóstolja meg a friss halakat vagy a fekete rizottót.",
             "ro": "Încercați peștele proaspăt sau risottoul negru.",
             "en": "Try fresh grilled fish or the traditional black risotto.",
-            "hr": "Probajte svježu ribu na žaru ili tradicionalni crni rižot."
+            "hr": "Probajte svježe pečenu ribu ili tradicionalni crni rižot."
           }
         },
         {
@@ -141,7 +146,8 @@
             "de": "Strandzeit am Dječji raj",
             "hu": "Strandidő a Dječji raj parton",
             "ro": "Timp de plajă la Dječji raj",
-            "en": "Beach time at Dječji raj"
+            "en": "Beach time at Dječji raj",
+            "hr": "Vrijeme za plažu na Dječjem raju"
           },
           "coords": [
             15.318,
@@ -157,7 +163,7 @@
             "hu": "Sekély víz és homokos aljzat, tökéletes a pihenéshez.",
             "ro": "Apă puțin adâncă, ideală pentru relaxare și înot.",
             "en": "Shallow water and sandy seabed, perfect for relaxation.",
-            "hr": "Plitko more i pješčano dno, savršeno za opuštanje."
+            "hr": "Plitka voda i pješčano dno, savršeno za opuštanje."
           }
         },
         {
@@ -165,7 +171,8 @@
             "de": "Marina Dalmacija Spaziergang",
             "hu": "Séta a Marina Dalmacija kikötőben",
             "ro": "Plimbare în Marina Dalmacija",
-            "en": "Stroll in Marina Dalmacija"
+            "en": "Stroll in Marina Dalmacija",
+            "hr": "Šetnja Marinom Dalmacija"
           },
           "coords": [
             15.305,
@@ -189,7 +196,8 @@
             "de": "Sonnenuntergang am Kai",
             "hu": "Naplemente a parton",
             "ro": "Apus de soare pe faleză",
-            "en": "Sunset at the waterfront"
+            "en": "Sunset at the waterfront",
+            "hr": "Zalazak sunca na rivi"
           },
           "coords": [
             15.302,
@@ -205,7 +213,7 @@
             "hu": "A nap tökéletes zárása a csillogó tengerparton.",
             "ro": "Încheierea perfectă pentru o zi în Sukošan.",
             "en": "The perfect end to a relaxing day in Sukošan.",
-            "hr": "Savršen kraj opuštajućeg dana u Sukošanu."
+            "hr": "Savršen završetak opuštajućeg dana u Sukošanu."
           }
         }
       ],
@@ -214,7 +222,7 @@
         "hu": "Kezdje a napot Sukošan történelmi központjában a Felső kapunál és a Szent Cassianus-templomnál. Fedezze fel a Palac különleges, tengerben álló romjait, majd élvezze a napsütést a Dječji raj strandon. A napot az Adria egyik legnagyobb jachtkikötőjében, a Marina Dalmacijában fejezheti be egy hangulatos sétával.",
         "ro": "Ziua începe în centrul istoric din Sukošan, vizitând Poarta de Sus și biserica Sf. Casian. Descoperiți ruinele Palac, care răsar direct din apele golfului, oferind un decor unic. După-amiaza este dedicată relaxării pe plaja Dječji raj, iar seara puteți admira iahturile luxoase în Marina Dalmacija la apus.",
         "en": "Start your day in the historic heart of Sukošan by visiting the Upper Gate and St. Cassian Church. Explore the unique Palac ruins standing in the sea before heading to the popular Dječji raj beach for a swim. Conclude your day with a scenic stroll through Marina Dalmacija, one of the largest and most modern marinas in Croatia.",
-        "hr": "Započnite dan u povijesnoj jezgri Sukošana posjetom Gornjim vratima i crkvi sv. Kasijana. Istražite jedinstvene ruševine ljetnikovca Palac koje stoje u moru prije nego što se uputite na popularnu plažu Dječji raj na kupanje. Dan završite slikovitom šetnjom kroz Marinu Dalmacija, jednu od najvećih i najmodernijih marina u Hrvatskoj."
+        "hr": "Započnite dan u povijesnom srcu Sukošana posjetom Gornjim vratima i crkvi sv. Kasijana. Istražite jedinstvene ruševine Palaca koje stoje u moru prije odlaska na popularnu plažu Dječji raj na kupanje. Zaključite dan slikovitom šetnjom kroz Marinu Dalmacija, jednu od najvećih i najmodernijih marina u Hrvatskoj."
       },
       "gastro_picks": {
         "de": [
@@ -388,10 +396,10 @@
           "Check the tides to see the Palac ruins more clearly."
         ],
         "hr": [
-          "Sukošan je ravan, što ga čini savršenim za lagane pješačke ture.",
-          "Preporučuje se obuća za vodu za šljunčane plaže.",
-          "Riva navečer oživi uz lokalne aktivnosti.",
-          "Provjerite morske mijene kako biste jasnije vidjeli ruševine Palaca."
+          "Sukošan je ravan, što ga čini idealnim za jednostavne pješačke ture.",
+          "Preporučuju se vodene cipele za šljunčane plaže.",
+          "Riva oživljava navečer s lokalnim aktivnostima.",
+          "Provjerite plime kako biste bolje vidjeli ruševine Palaca."
         ]
       },
       "variants": {
@@ -401,7 +409,7 @@
             "hu": "Sukošan esőben is karakteres, a Gornja vrata boltívei alatt kezdünk. A Szent Kasszián templom belső tere menedéket ad a zápor elől. A Riva kávézóiban a ponyvák alatt hallgatjuk a tenger morajlását. Bár a Palac romjai vizesek, a látvány ilyenkor a legdrámaibb. Egy kiadós ebéd után a Marina fedett mólóin sétálunk, figyelve a kikötő életét a szürkületben.",
             "ro": "Sukošan pe ploaie are un farmec aparte. Începem la Gornja vrata, folosind arcadele ca adăpost. Biserica Sf. Casian oferă un refugiu spiritual uscat. Savurăm o cafea pe Riva sub copertine, admirând marea agitată spre Palac. Prânzul prelungit într-o konoba locală ne încălzește, iar după-amiaza explorăm Marina Dalmacija, unde digurile oferă o perspectivă unică asupra furtunii.",
             "en": "Sukošan in the rain offers a moody coastal vibe. We begin at Gornja vrata, using the historic arches for cover. St. Cassian Church provides a peaceful, dry sanctuary. Enjoy coffee on the Riva under awnings while watching the raindrops hit the Adriatic. After a long lunch in a cozy tavern, we visit the Marina, where the massive piers offer a unique view of the stormy sea.",
-            "hr": "Sukošan na kiši nudi sjetnu obalnu atmosferu. Počinjemo kod Gornjih vrata, koristeći povijesne lukove kao zaklon. Crkva sv. Kasijana pruža mirno, suho utočište. Uživajte u kavi na rivi pod tendama dok gledate kapi kiše kako udaraju o Jadran. Nakon dugog ručka u ugodnoj konobi, posjećujemo Marinu, gdje masivni gatovi nude jedinstven pogled na uzburkano more."
+            "hr": "Sukošan na kiši nudi tajanstvenu obalnu atmosferu. Počinjemo kod Gornjih vrata, koristeći povijesne svodove za zaklon. Crkva sv. Kasijana pruža mirno i suho utočište. Uživajte u kavi na Rivi pod tendama dok promatrate kapljice kako udaraju u Jadran. Nakon dugog ručka u ugodnoj konobi posjećujemo Marinu, gdje masivne rive nude jedinstven pogled na olujno more."
           },
           "stops": [
             {
@@ -410,7 +418,8 @@
                 "de": "Unter dem Torbogen kurz abwarten.",
                 "hu": "Várja meg az eső végét a boltív alatt.",
                 "ro": "Adăpostiți-vă sub boltă dacă plouă tare.",
-                "en": "Wait out the heavy showers under the arch."
+                "en": "Wait out the heavy showers under the arch.",
+                "hr": "Pričekajte jake pljuskove pod svodom."
               }
             },
             {
@@ -419,7 +428,8 @@
                 "de": "Idealer Ort, um trocken zu bleiben.",
                 "hu": "Tökéletes helyszín a száraz pihenőhöz.",
                 "ro": "Locul ideal pentru a rămâne uscat.",
-                "en": "The perfect spot to stay dry and reflect."
+                "en": "The perfect spot to stay dry and reflect.",
+                "hr": "Savršeno mjesto da ostanete suhi i razmislite."
               }
             },
             {
@@ -428,7 +438,8 @@
                 "de": "Wählen Sie ein Café mit fester Markise.",
                 "hu": "Válasszon fix ponyvás kávézót.",
                 "ro": "Alegeți o cafenea cu copertină solidă.",
-                "en": "Choose a cafe with a sturdy awning."
+                "en": "Choose a cafe with a sturdy awning.",
+                "hr": "Odaberite kafić sa čvrstom tendom."
               }
             },
             {
@@ -437,7 +448,8 @@
                 "de": "Vorsicht, die Steine sind sehr rutschig.",
                 "hu": "Vigyázat, a kövek nagyon csúsznak.",
                 "ro": "Atenție, pietrele sunt foarte alunecoase.",
-                "en": "Be careful, the stones are very slippery."
+                "en": "Be careful, the stones are very slippery.",
+                "hr": "Budite oprezni, kamenje je jako klizavo."
               }
             },
             {
@@ -446,7 +458,8 @@
                 "de": "Fragen Sie nach einer warmen Tagessuppe.",
                 "hu": "Kérjen egy forró napi levest.",
                 "ro": "Cereți o supă caldă a zilei.",
-                "en": "Ask for a warm soup of the day."
+                "en": "Ask for a warm soup of the day.",
+                "hr": "Tražite toplu juhu dana."
               }
             },
             {
@@ -455,7 +468,8 @@
                 "de": "Nur für einen kurzen Blick aufs Meer.",
                 "hu": "Csak egy gyors pillantásra a tengerre.",
                 "ro": "Doar pentru o scurtă privire spre mare.",
-                "en": "Only for a quick look at the rough sea."
+                "en": "Only for a quick look at the rough sea.",
+                "hr": "Samo za brz pogled na razbuktalo more."
               }
             },
             {
@@ -464,7 +478,8 @@
                 "de": "Nutzen Sie die überdachten Bereiche.",
                 "hu": "Használja a fedett folyosókat.",
                 "ro": "Folosiți zonele acoperite ale marinei.",
-                "en": "Utilize the covered areas of the marina."
+                "en": "Utilize the covered areas of the marina.",
+                "hr": "Iskoristite natkrivene dijelove marine."
               }
             },
             {
@@ -473,7 +488,8 @@
                 "de": "Farbenfroher Himmel trotz Wolken.",
                 "hu": "Színpompás égbolt a felhők ellenére is.",
                 "ro": "Cer colorat în ciuda norilor.",
-                "en": "Colorful sky despite the cloud cover."
+                "en": "Colorful sky despite the cloud cover.",
+                "hr": "Šareni je nebo unatoč oblačnosti."
               }
             }
           ],
@@ -503,10 +519,10 @@
               "Watch the dramatic sea colors change under the clouds."
             ],
             "hr": [
-              "Nosite nepromočivu obuću zbog skliskih kamenih ulica.",
-              "Kabanica je često bolji izbor od kišobrana zbog vjetra.",
-              "Konobe su posebno ugodne kada vani pljušti.",
-              "Promatrajte dramatične promjene boja mora pod oblacima."
+              "Nosite vodootpornu obuću zbog klizavih kamenih ploča.",
+              "Kišna kabanica često je bolja od kišobrana zbog vjetra.",
+              "Konobe su posebno ugodne kad vani pljušti kiša.",
+              "Promatrajte dramatične boje mora kako se mijenjaju pod oblacima."
             ]
           }
         },
@@ -516,7 +532,7 @@
             "hu": "Sukošan télen a nyugalom szigete, friss bura széllel. A Gornja vrata és a templom környéke mentes a turistaáradattól. A Riva kávézóiban a helyiekkel teázunk, élvezve az alacsonyan járó nap sugarait. A Palac romjai magányosan állnak a vízben. Az ebédet a kandalló melegénél költjük el. A napot korán, már 17 óra előtt lezárja a tengerbe bukó nap a kikötőben.",
             "ro": "Iarna în Sukošan aduce un aer proaspăt și vântul Bura. Centrul istoric este liniștit, iar biserica Sf. Casian strălucește sub soarele palid. Pe Riva, savurăm un ceai fierbinte alături de localnici. Ruinele Palac par și mai enigmatice în liniștea iernii. Prânzul la gura focului este esențial. Ziua se încheie devreme cu un apus spectaculos la Marina Dalmacija.",
             "en": "Winter in Sukošan is characterized by crisp air and the Bura wind. We explore the quiet village center, where St. Cassian gleams in the low sun. The Riva is peaceful, perfect for a hot tea with locals. The Palac ruins stand lonely in the chilly Adriatic. Enjoy lunch by a warm fireplace. The day concludes early with a spectacular sunset around 4:30 PM at the marina.",
-            "hr": "Zimu u Sukošanu karakterizira svjež zrak i bura. Istražujemo mirno središte mjesta, gdje crkva sv. Kasijana blista na niskom suncu. Riva je mirna, savršena za topli čaj s lokalcima. Ruševine Palaca stoje usamljene u hladnom Jadranu. Uživajte u ručku uz topli kamin. Dan završava rano uz spektakularan zalazak sunca oko 16:30 u marini."
+            "hr": "Zima u Sukošanu obilježena je svježim zrakom i burom. Istražujemo mirno središte sela, gdje sv. Kasijan blista na niskom suncu. Riva je mirna, idealna za toplu čajanku s mještanima. Ruševine Palaca stoje usamljene u hladnom Jadranu. Uživajte u ručku uz topli kamin. Dan završava rano spektakularnim zalaskom sunca oko 16:30 u marini."
           },
           "stops": [
             {
@@ -525,7 +541,8 @@
                 "de": "Windgeschützte Seite des Tores nutzen.",
                 "hu": "Használja a kapu szélvédett oldalát.",
                 "ro": "Folosiți partea ferită de vânt a porții.",
-                "en": "Use the wind-shielded side of the gate."
+                "en": "Use the wind-shielded side of the gate.",
+                "hr": "Koristite stranu vrata zaštićenu od vjetra."
               }
             },
             {
@@ -534,7 +551,8 @@
                 "de": "Oft kälter im Inneren als draußen.",
                 "hu": "Belül gyakran hűvösebb van, mint kint.",
                 "ro": "Aeseori este mai rece înăuntru decât afară.",
-                "en": "Often colder inside than outside; stay layered."
+                "en": "Often colder inside than outside; stay layered.",
+                "hr": "Često je hladnije iznutra nego vani; nosite slojevito."
               }
             },
             {
@@ -543,7 +561,8 @@
                 "de": "Bestellen Sie lokalen Kräutertee.",
                 "hu": "Rendeljen helyi gyógyteát.",
                 "ro": "Comandați un ceai de plante local.",
-                "en": "Order a local herbal tea to warm up."
+                "en": "Order a local herbal tea to warm up.",
+                "hr": "Naručite lokalni biljni čaj za zagrijavanje."
               }
             },
             {
@@ -552,7 +571,8 @@
                 "de": "Starker Wind direkt am Wasser möglich.",
                 "hu": "Erős szél várható közvetlenül a víznél.",
                 "ro": "Vânt puternic direct lângă apă.",
-                "en": "Expect strong winds directly by the water."
+                "en": "Expect strong winds directly by the water.",
+                "hr": "Očekujte snažan vjetar neposredno uz vodu."
               }
             },
             {
@@ -561,7 +581,8 @@
                 "de": "Probieren Sie Peka (auf Vorbestellung).",
                 "hu": "Próbálja ki a Pekát (előrendelésre).",
                 "ro": "Încercați Peka (necesită precomandă).",
-                "en": "Try Peka (usually requires pre-ordering)."
+                "en": "Try Peka (usually requires pre-ordering).",
+                "hr": "Probajte Peku (obično je potrebna prethodna narudžba)."
               }
             },
             {
@@ -570,7 +591,8 @@
                 "de": "Ein zügiger Strandspaziergang erfrischt.",
                 "hu": "Egy gyors parti séta felfrissít.",
                 "ro": "O plimbare rapidă pe plajă revigorează.",
-                "en": "A brisk beach walk is very refreshing."
+                "en": "A brisk beach walk is very refreshing.",
+                "hr": "Brza šetnja plažom osvježava."
               }
             },
             {
@@ -579,7 +601,8 @@
                 "de": "Beste Zeit für Fotos der Yachten.",
                 "hu": "A legjobb idő a jachtok fotózására.",
                 "ro": "Cel mai bun moment pentru poze cu iahturi.",
-                "en": "Best time for photos of the yachts without crowds."
+                "en": "Best time for photos of the yachts without crowds.",
+                "hr": "Najbolje vrijeme za fotografije jahti bez gužve."
               }
             },
             {
@@ -588,7 +611,8 @@
                 "de": "Sonnenuntergang findet schon vor 17 Uhr statt.",
                 "hu": "A naplemente már 17 óra előtt bekövetkezik.",
                 "ro": "Apusul are loc înainte de ora 17:00.",
-                "en": "Sunset occurs before 5 PM in mid-winter."
+                "en": "Sunset occurs before 5 PM in mid-winter.",
+                "hr": "Zalazak sunca događa se prije 17:00 sredinom zime."
               }
             }
           ],
@@ -618,10 +642,10 @@
               "Check winter opening hours for local konobas."
             ],
             "hr": [
-              "Odjenite se slojevito kako biste se zaštitili od hladnog vjetra.",
+              "Obucite se u slojevima kako biste se zaštitili od hladnog vjetra.",
               "Zaštitite lice od hladne bure.",
-              "Sunce rano zalazi, pa u skladu s tim planirajte dan.",
-              "Provjerite zimsko radno vrijeme lokalnih konoba."
+              "Sunce zalazi rano, planirajte dan u skladu s tim.",
+              "Provjerite zimskim radnim vremenom lokalnih konoba."
             ]
           }
         }
@@ -640,7 +664,8 @@
             "de": "Crkva sv. Kasijana",
             "hu": "Szent Cassianus-templom",
             "ro": "Biserica Sf. Casian",
-            "en": "Church of St. Cassian"
+            "en": "Church of St. Cassian",
+            "hr": "Crkva sv. Kasijana"
           },
           "coords": [
             15.313,
@@ -656,7 +681,7 @@
             "hu": "Remek hely a kerékpártúra nyugodt megkezdéséhez.",
             "ro": "Un loc frumos pentru a începe turul cu bicicleta.",
             "en": "A peaceful place to start your cycling tour.",
-            "hr": "Mirno mjesto za početak vaše biciklističke ture."
+            "hr": "Mirno mjesto za početak biciklističke ture."
           }
         },
         {
@@ -664,7 +689,8 @@
             "de": "Palac Ruinen",
             "hu": "Palac romok",
             "ro": "Ruinele Palac",
-            "en": "Palac Ruins"
+            "en": "Palac Ruins",
+            "hr": "Ruševine Palaca"
           },
           "coords": [
             15.31,
@@ -680,7 +706,7 @@
             "hu": "Kerékpárral könnyen megközelíthető a parti úton.",
             "ro": "Ușor accesibil cu bicicleta pe drumul de coastă.",
             "en": "Easily accessible by bike via the coastal road.",
-            "hr": "Lako dostupno biciklom obalnom cestom."
+            "hr": "Lako dostupno biciklom uz obalnu cestu."
           }
         },
         {
@@ -688,7 +714,8 @@
             "de": "Marina Dalmacija Erkundung",
             "hu": "A Marina Dalmacija bejárása",
             "ro": "Explorarea Marina Dalmacija",
-            "en": "Exploring Marina Dalmacija"
+            "en": "Exploring Marina Dalmacija",
+            "hr": "Istraživanje Marine Dalmacija"
           },
           "coords": [
             15.305,
@@ -704,7 +731,7 @@
             "hu": "A terület tágas, így kerékpárral kényelmesen bejárható.",
             "ro": "Zona este vastă și ideală pentru a fi explorată pe bicicletă.",
             "en": "The area is spacious and perfect for exploring on two wheels.",
-            "hr": "Područje je prostrano i savršeno za istraživanje na dva kotača."
+            "hr": "Prostor je prostran i idealan za istraživanje na dva kotača."
           }
         },
         {
@@ -712,7 +739,8 @@
             "de": "Küstenradweg-Pause",
             "hu": "Partmenti pihenő",
             "ro": "Pauză pe drumul de coastă",
-            "en": "Coastal path break"
+            "en": "Coastal path break",
+            "hr": "Odmor na obalnoj stazi"
           },
           "coords": [
             15.295,
@@ -736,7 +764,8 @@
             "de": "Fisch-Mittagessen",
             "hu": "Halas ebéd",
             "ro": "Prânz cu pește",
-            "en": "Fish lunch"
+            "en": "Fish lunch",
+            "hr": "Ručak s ribom"
           },
           "coords": [
             15.312,
@@ -752,7 +781,7 @@
             "hu": "Töltődjön fel a helyi konyha finomságaival.",
             "ro": "Reîncărcați-vă cu preparate din bucătăria locală.",
             "en": "Recharge with delicious local seafood specialties.",
-            "hr": "Napunite baterije ukusnim lokalnim morskim specijalitetima."
+            "hr": "Napunite energijom uz ukusne lokalne morske specijalitete."
           }
         },
         {
@@ -760,7 +789,8 @@
             "de": "Strandruhe Tustica",
             "hu": "Tustica strand - pihenő",
             "ro": "Relaxare pe plaja Tustica",
-            "en": "Beach rest at Tustica"
+            "en": "Beach rest at Tustica",
+            "hr": "Odmor na plaži Tuštica"
           },
           "coords": [
             15.328,
@@ -776,7 +806,7 @@
             "hu": "Természetközeli strandrész, ideális a tekerés után.",
             "ro": "O zonă de plajă mai naturală, ideală după mersul cu bicicleta.",
             "en": "A more natural beach area, perfect for a swim after cycling.",
-            "hr": "Prirodnije područje plaže, savršeno za kupanje nakon vožnje."
+            "hr": "Prirodnije kupalište, savršeno za plivanje nakon vožnje biciklom."
           }
         },
         {
@@ -784,7 +814,8 @@
             "de": "Abschluss im Zentrum",
             "hu": "Zárás a központban",
             "ro": "Final în centru",
-            "en": "Wrap up in the center"
+            "en": "Wrap up in the center",
+            "hr": "Zaključak u centru"
           },
           "coords": [
             15.315,
@@ -800,7 +831,7 @@
             "hu": "Adja le a bringát és fagyizzon egyet a központban.",
             "ro": "Predați bicicletele și bucurați-vă de o înghețată.",
             "en": "Return the bikes and enjoy a local gelato.",
-            "hr": "Vratite bicikle i uživajte u domaćem sladoledu."
+            "hr": "Vratite bicikle i uživajte u lokalnom sladoledu."
           }
         }
       ],
@@ -809,7 +840,7 @@
         "hu": "Fedezze fel Sukošant és környékét aktívan, kerékpárral. A lapos tengerparti terep tökéletes egy kényelmes túrához. Érintse a fő látnivalókat, mint a Szent Cassianus-templom és a Palac, tekerjen végig a tágas Marina Dalmacija jachtkikötőn, és fedezze fel a Tustica strandot, ahol távolabb a tömegtől pihenhet meg.",
         "ro": "Explorați Sukošan și împrejurimile sale într-un mod activ, cu bicicleta. Coasta plată oferă condiții perfecte pentru un tur relaxat. Vizitați atracțiile principale, pedalați prin Marina Dalmacija și descoperiți zone de plajă mai liniștite, precum Tustica, ideale pentru o pauză prelungită de înot.",
         "en": "Explore Sukošan and its coastline actively on two wheels. The flat terrain is perfect for a relaxed cycling tour. Visit the key sights like St. Cassian Church and Palac ruins, ride through the vast Marina Dalmacija, and find your own spot for a break at the natural Tustica beach before heading back to the center.",
-        "hr": "Istražite Sukošan i njegovu obalu aktivno na dva kotača. Ravan teren savršen je za opuštenu biciklističku turu. Posjetite ključne znamenitosti poput crkve sv. Kasijana i ruševina Palaca, provozajte se kroz prostranu Marinu Dalmacija i pronađite svoje mjesto za odmor na prirodnoj plaži Tustica prije povratka u centar."
+        "hr": "Istražite Sukošan i njegovu obalu aktivno na dva kotača. Ravan teren je idealan za opuštenu biciklističku turu. Posjetite glavne znamenitosti poput crkve sv. Kasijana i ruševina Palaca, provozajte se kroz prostranu Marinu Dalmacija i pronađite vlastito mjesto za pauzu na prirodnoj plaži Tuštica prije povratka u centar."
       },
       "gastro_picks": {
         "de": [
@@ -938,10 +969,10 @@
           "A short detour to the nearby olive groves is highly recommended."
         ],
         "hr": [
-          "Ulice u Sukošanu su uglavnom mirne i sigurne za biciklizam.",
-          "Ponesite dovoljno vode jer je hlad uz obalu ograničen.",
-          "U području marine parkirajte bicikl samo na predviđenim mjestima.",
-          "Kratki izlet do obližnjih maslinika toplo se preporučuje."
+          "Ulice u Sukošanu uglavnom su mirne i sigurne za bicikliranje.",
+          "Ponesite dovoljno vode jer je sjene malo uz obalu.",
+          "U području marine parkirajte bicikl samo na označenim mjestima.",
+          "Kratki zaobilazak do obližnjih maslinika toplo se preporučuje."
         ]
       },
       "variants": {
@@ -951,7 +982,7 @@
             "hu": "Az esős biciklizés óvatosságot igényel, de cserébe üres utakat kapunk. A Szent Kasszián templom és a Palac romjai után a Marina aszfaltozott útjain haladunk, amelyek vizesen is biztonságosabbak. A parti ösvény helyett ilyenkor maradjunk a szilárd burkolaton. A napot egy forró itallal zárjuk a központban.",
             "ro": "Ciclismul pe ploaie necesită prudență, dar oferă trasee libere. Vizităm biserica Sf. Casian și ruinele Palac, atenți la suprafețele alunecoase. Marina Dalmacija are drumuri asfaltate, mai sigure pe ud. Un popas cald la o konoba este obligatoriu după o tură prin ploaia din Sukošan.",
             "en": "Cycling in the rain requires caution but rewards you with empty paths. We visit St. Cassian and the Palac ruins, staying mindful of slippery patches. Marina Dalmacija's paved roads are safer in wet conditions than coastal trails. A warm stop in a local tavern is essential after a ride through the Sukošan drizzle.",
-            "hr": "Bicikliranje na kiši zahtijeva oprez, ali vas nagrađuje praznim stazama. Posjećujemo crkvu sv. Kasijana i ruševine Palaca, pazeći na skliska mjesta. Asfaltirane ceste Marine Dalmacija sigurnije su u mokrim uvjetima od obalnih staza. Topli boravak u lokalnoj konobi neophodan je nakon vožnje kroz sukošansku rosulju."
+            "hr": "Bicikliranje po kiši zahtijeva oprez, ali nagrađuje praznim stazama. Posjetimo sv. Kasijana i ruševine Palaca, pazeći na klizava mjesta. Popločane ceste Marine Dalmacija sigurnije su u vlažnim uvjetima nego obalne staze. Topla stanica u lokalnoj konobi obavezna je nakon vožnje kroz sukošanski sitni pljusak."
           },
           "stops": [
             {
@@ -960,7 +991,8 @@
                 "de": "Fahrrad sicher und trocken abstellen.",
                 "hu": "Parkoljon le fedett helyen.",
                 "ro": "Parcați bicicleta într-un loc acoperit.",
-                "en": "Park your bike in a covered spot if possible."
+                "en": "Park your bike in a covered spot if possible.",
+                "hr": "Parkirajte bicikl na natkrivenom mjestu ako je moguće."
               }
             },
             {
@@ -969,7 +1001,8 @@
                 "de": "Vorsicht vor Algen auf den Steinen.",
                 "hu": "Vigyázzon a vizes köveken.",
                 "ro": "Atenție la algele de pe pietre.",
-                "en": "Watch out for slippery algae on the stones."
+                "en": "Watch out for slippery algae on the stones.",
+                "hr": "Pazite na skliske alge na kamenju."
               }
             },
             {
@@ -978,7 +1011,8 @@
                 "de": "Asphaltierte Wege nutzen.",
                 "hu": "Maradjon az aszfaltozott utakon.",
                 "ro": "Folosiți drumurile asfaltate.",
-                "en": "Stick to the paved roads for better grip."
+                "en": "Stick to the paved roads for better grip.",
+                "hr": "Držite se popločanih cesta radi boljeg prianjanja."
               }
             },
             {
@@ -987,7 +1021,8 @@
                 "de": "Weg kann schlammig sein.",
                 "hu": "Az út sáros lehet, legyen óvatos.",
                 "ro": "Traseul poate fi noroios.",
-                "en": "The path might be muddy; proceed with care."
+                "en": "The path might be muddy; proceed with care.",
+                "hr": "Staza može biti blatna; nastavite oprezno."
               }
             },
             {
@@ -996,7 +1031,8 @@
                 "de": "Kleidung zum Trocknen aufhängen.",
                 "hu": "Akassza ki a ruháit száradni.",
                 "ro": "Puneți hainele la uscat.",
-                "en": "Hang up your wet gear while you eat."
+                "en": "Hang up your wet gear while you eat.",
+                "hr": "Objesite mokru opremu dok jedete."
               }
             },
             {
@@ -1005,7 +1041,8 @@
                 "de": "Kurze Pause im Stehen.",
                 "hu": "Csak egy rövid megálló.",
                 "ro": "Doar un scurt popas în picioare.",
-                "en": "Just a brief stand-up break by the sea."
+                "en": "Just a brief stand-up break by the sea.",
+                "hr": "Samo kratka pauza za stajanje kraj mora."
               }
             },
             {
@@ -1014,7 +1051,8 @@
                 "de": "Bremsen auf Nässe prüfen.",
                 "hu": "Ellenőrizze a fékeket vizes úton.",
                 "ro": "Verificați frânele pe carosabil umed.",
-                "en": "Check your brakes on the wet surface."
+                "en": "Check your brakes on the wet surface.",
+                "hr": "Provjerite kočnice na mokroj podlozi."
               }
             }
           ],
@@ -1044,10 +1082,10 @@
               "Mudguards are a lifesaver in rainy weather."
             ],
             "hr": [
-              "Put kočenja je puno duži na mokrim cestama.",
-              "Izbjegavajte lokve jer mogu skrivati duboke rupe.",
-              "Nosite uočljivu kišnu opremu.",
-              "Blatobrani su spas po kišnom vremenu."
+              "Udaljenost kočenja mnogo je veća na mokrim cestama.",
+              "Izbjegavajte lokve jer mogu sakriti duboke rupe.",
+              "Nosite vidljivu kabanicu za kišu.",
+              "Blatobrani su spas u kišnom vremenu."
             ]
           }
         },
@@ -1057,7 +1095,7 @@
             "hu": "A téli biciklizés a bura szélben frissítő, de hideg. Gyors tempóban haladunk a Palac romjaihoz és a Marinához, hogy fenntartsuk a testhőt. A levegő kristálytiszta, messzire ellátni a szigetek felé. A parti tekerés után egy halas ebéd ad új energiát, majd a napot a csendes centrumban zárjuk.",
             "ro": "Ciclismul iarna pe vântul Bura este revigorant, dar rece. Pedalăm susținut spre ruinele Palac și prin Marina Dalmacija pentru a ne încălzi. Aerul este incredibil de clar, oferind vederi largi spre insule. După tura pe coastă, ne încălzim cu un prânz cu pește înainte de a încheia în centrul liniștit.",
             "en": "Winter cycling in the Bura wind is refreshing but chilly. We maintain a brisk pace to the Palac ruins and through Marina Dalmacija to keep body heat up. The air is incredibly clear, offering long-distance views of the islands. After the coastal stretch, warm up with a fish lunch before finishing in the quiet center.",
-            "hr": "Zimsko bicikliranje po buri je osvježavajuće, ali hladno. Održavamo brz tempo do ruševina Palaca i kroz Marinu Dalmacija kako bismo zadržali toplinu tijela. Zrak je nevjerojatno čist, nudeći poglede na otoke u daljini. Nakon obalnog dijela, ugrijte se uz riblji ručak prije završetka u mirnom centru."
+            "hr": "Zimsko bicikliranje u buri osvježava ali hladi. Održavamo brži tempo do ruševina Palaca i kroz Marinu Dalmacija kako bismo zadržali tjelesnu toplinu. Zrak je izuzetno čist, nudi dalekosežne poglede na otoke. Nakon obalnog dijela, zagrijte se ribljim ručkom prije završetka u mirnom centru."
           },
           "stops": [
             {
@@ -1066,7 +1104,8 @@
                 "de": "Fingerhandschuhe nicht ausziehen.",
                 "hu": "Ne vegye le a kesztyűt.",
                 "ro": "Nu vă scoateți mănușile.",
-                "en": "Don't take off your gloves while looking around."
+                "en": "Don't take off your gloves while looking around.",
+                "hr": "Ne skidajte rukavice dok razgledavate."
               }
             },
             {
@@ -1075,7 +1114,8 @@
                 "de": "Windchill-Effekt ist hier extrem.",
                 "hu": "A szél miatt sokkal hidegebbnek érződik.",
                 "ro": "Efectul de frig este extrem aici.",
-                "en": "Wind chill is extreme here by the water."
+                "en": "Wind chill is extreme here by the water.",
+                "hr": "Hladan vjetar dodatno pojačava osjećaj hladnoće uz more."
               }
             },
             {
@@ -1084,7 +1124,8 @@
                 "de": "Große freie Flächen sind windig.",
                 "hu": "A nyílt tereken erős a szél.",
                 "ro": "Zonele deschise sunt foarte bătute de vânt.",
-                "en": "Open areas are very windy; pedal hard."
+                "en": "Open areas are very windy; pedal hard.",
+                "hr": "Otvoreni prostori su vrlo vjetroviti; vozite energičnije."
               }
             },
             {
@@ -1093,7 +1134,8 @@
                 "de": "Nur kurz für Fotos anhalten.",
                 "hu": "Csak rövid fotómegálló.",
                 "ro": "Oprire scurtă doar pentru poze.",
-                "en": "Stop only briefly for photos to avoid cooling down."
+                "en": "Stop only briefly for photos to avoid cooling down.",
+                "hr": "Zaustavite se samo nakratko za fotografije kako biste izbjegli prehladu."
               }
             },
             {
@@ -1102,7 +1144,8 @@
                 "de": "Kohlenhydrate für die Weiterfahrt.",
                 "hu": "Szénhidrát dús étel a folytatáshoz.",
                 "ro": "Consumați carbohidrați pentru energie.",
-                "en": "Eat some carbs to keep your energy up."
+                "en": "Eat some carbs to keep your energy up.",
+                "hr": "Pojedite ugljikohidrate za više energije."
               }
             },
             {
@@ -1111,7 +1154,8 @@
                 "de": "Kein langes Sitzen im Sand.",
                 "hu": "Ne üljön le a hideg homokba.",
                 "ro": "Nu stați mult pe nisipul rece.",
-                "en": "Avoid sitting on the cold sand for too long."
+                "en": "Avoid sitting on the cold sand for too long.",
+                "hr": "Izbjegavajte predugo sjedenje na hladnom pijesku."
               }
             },
             {
@@ -1120,7 +1164,8 @@
                 "de": "Reifendruck bei Kälte prüfen.",
                 "hu": "Ellenőrizze a guminyomást.",
                 "ro": "Verificați presiunea în pneuri la frig.",
-                "en": "Check tire pressure as it drops in the cold."
+                "en": "Check tire pressure as it drops in the cold.",
+                "hr": "Provjerite tlak u gumama jer pada na hladnoći."
               }
             }
           ],
@@ -1151,9 +1196,9 @@
             ],
             "hr": [
               "Tople rukavice su apsolutno neophodne.",
-              "Zaštitite uši od grizenja vjetra.",
+              "Zaštitite uši od žestokog vjetra.",
               "Nisko zimsko sunce može zaslijepiti; ponesite sunčane naočale.",
-              "Ne zaboravite na hidrataciju čak i na hladnoći."
+              "Sjetite se ostati hidrirani i na hladnoći."
             ]
           }
         }
@@ -1172,7 +1217,8 @@
             "de": "Gornja vrata (Cluster A)",
             "hu": "Gornja vrata (A klaszter)",
             "ro": "Gornja vrata (Cluster A)",
-            "en": "Gornja vrata (Cluster A)"
+            "en": "Gornja vrata (Cluster A)",
+            "hr": "Gornja vrata (Cluster A)"
           },
           "coords": [
             15.315,
@@ -1188,7 +1234,7 @@
             "hu": "Kezdje a napot a történelmi városkapunál.",
             "ro": "Începeți la poarta istorică a orașului.",
             "en": "Start your tour at the historic city gate.",
-            "hr": "Započnite turu kod povijesnih gradskih vrata."
+            "hr": "Započnite obilazak na povijesnim gradskim vratima."
           }
         },
         {
@@ -1196,7 +1242,8 @@
             "de": "Crkva sv. Kasijana (Cluster A)",
             "hu": "Szent Cassianus-templom (A klaszter)",
             "ro": "Biserica Sf. Casian (Cluster A)",
-            "en": "Church of St. Cassian (Cluster A)"
+            "en": "Church of St. Cassian (Cluster A)",
+            "hr": "Crkva sv. Kancijana (Cluster A)"
           },
           "coords": [
             15.313,
@@ -1220,7 +1267,8 @@
             "de": "Riva Promenade (Cluster A)",
             "hu": "Riva sétány (A klaszter)",
             "ro": "Promenada Riva (Cluster A)",
-            "en": "Riva Promenade (Cluster A)"
+            "en": "Riva Promenade (Cluster A)",
+            "hr": "Riva (Cluster A)"
           },
           "coords": [
             15.311,
@@ -1244,7 +1292,8 @@
             "de": "Palac (Cluster B)",
             "hu": "Palac (B klaszter)",
             "ro": "Palac (Cluster B)",
-            "en": "Palac (Cluster B)"
+            "en": "Palac (Cluster B)",
+            "hr": "Palac (Cluster B)"
           },
           "coords": [
             15.31,
@@ -1260,7 +1309,7 @@
             "hu": "Parkoljon az öböl közelében ennél a látványosságnál.",
             "ro": "Parcați lângă golf pentru această oportunitate foto.",
             "en": "Park near the bay for this iconic photo spot.",
-            "hr": "Parkirajte blizu zaljeva za ovo kultno mjesto za fotografiranje."
+            "hr": "Parkirajte blizu uvale za ikoničnu fotografiju."
           }
         },
         {
@@ -1268,7 +1317,8 @@
             "de": "Konoba Mittagessen (Cluster B)",
             "hu": "Ebéd egy konobában (B klaszter)",
             "ro": "Prânz la konoba (Cluster B)",
-            "en": "Konoba Lunch (Cluster B)"
+            "en": "Konoba Lunch (Cluster B)",
+            "hr": "Konoba Lunch (Cluster B)"
           },
           "coords": [
             15.312,
@@ -1284,7 +1334,7 @@
             "hu": "Gyalogosan elérhető a Palactól.",
             "ro": "Accesibil pe jos de la Palac.",
             "en": "Within walking distance from the Palac ruins.",
-            "hr": "Na pješačkoj udaljenosti od ruševina Palaca."
+            "hr": "U pješačkoj udaljenosti od ostataka Palaca."
           }
         },
         {
@@ -1292,7 +1342,8 @@
             "de": "Marina Dalmacija (Cluster C)",
             "hu": "Marina Dalmacija (C klaszter)",
             "ro": "Marina Dalmacija (Cluster C)",
-            "en": "Marina Dalmacija (Cluster C)"
+            "en": "Marina Dalmacija (Cluster C)",
+            "hr": "Marina Dalmacija (Cluster C)"
           },
           "coords": [
             15.305,
@@ -1308,7 +1359,7 @@
             "hu": "A kikötő területén belül van parkolási lehetőség.",
             "ro": "Există locuri de parcare în interiorul marinei.",
             "en": "Parking is available inside the marina complex.",
-            "hr": "Parking je dostupan unutar kompleksa marine."
+            "hr": "Parkiranje je dostupno unutar kompleksa marine."
           }
         },
         {
@@ -1316,7 +1367,8 @@
             "de": "Dječji raj Strand (Cluster C)",
             "hu": "Dječji raj strand (C klaszter)",
             "ro": "Plaja Dječji raj (Cluster C)",
-            "en": "Dječji raj Beach (Cluster C)"
+            "en": "Dječji raj Beach (Cluster C)",
+            "hr": "Dječji raj Beach (Cluster C)"
           },
           "coords": [
             15.318,
@@ -1340,7 +1392,8 @@
             "de": "Sunset Drink am Hafen",
             "hu": "Naplemente a kikötőben",
             "ro": "Băutură la apus în port",
-            "en": "Sunset drink at the harbor"
+            "en": "Sunset drink at the harbor",
+            "hr": "Piće uz zalazak sunca u luci"
           },
           "coords": [
             15.313,
@@ -1356,7 +1409,7 @@
             "hu": "Zárja a napot egy frissítővel a parton.",
             "ro": "Încheiați ziua relaxat cu o băutură pe faleză.",
             "en": "End your day with a relaxing drink by the water.",
-            "hr": "Završite dan opuštajućim pićem uz more."
+            "hr": "Završite dan opuštajućim pićem uz vodu."
           }
         }
       ],
@@ -1365,7 +1418,7 @@
         "hu": "Autóval rugalmasan fedezheti fel Sukošan minden szegletét. Kezdje a történelmi központban a Szent Cassianus-templommal, majd hajtson el az öbölben álló Palac romjaihoz. Egy ízletes ebéd után látogassa meg a Marina Dalmacija kikötőt, a délutánt pedig töltse a Dječji raj strandon. Az autó kényelmessé teszi a váltást a látnivalók és a tengerpart között.",
         "ro": "Cu mașina, puteți explora Sukošan într-un mod flexibil. Vizitați centrul istoric cu biserica Sf. Casian, apoi conduceți până la ruinele Palac din golf. După un prânz tradițional, explorați vasta Marina Dalmacija și relaxați-vă pe plaja Dječji raj. Mașina vă permite să treceți rapid între diferitele zone de interes ale stațiunii.",
         "en": "Exploring Sukošan by car gives you the freedom to move easily between its main clusters. Start in the historic center with the Upper Gate and Church, then drive to the iconic Palac ruins. After a local lunch, visit the impressive Marina Dalmacija and finish your day with a long swim at Dječji raj beach, enjoying the convenience of your own transport.",
-        "hr": "Istraživanje Sukošana automobilom daje vam slobodu lakog kretanja između njegovih glavnih dijelova. Započnite u povijesnom centru kod Gornjih vrata i crkve, a zatim se odvezite do kultnih ruševina Palaca. Nakon lokalnog ručka posjetite impresivnu Marinu Dalmacija i završite dan dugim kupanjem na plaži Dječji raj, uživajući u udobnosti vlastitog prijevoza."
+        "hr": "Istraživanje Sukošana autom daje slobodu lakog kretanja između glavnih područja. Započnite u povijesnoj jezgri s Gornjim vratima i crkvom, zatim se uputite do legendarnih ostataka Palaca. Nakon lokalnog ručka posjetite impresivnu Marinu Dalmacija i završite dan dugim kupanjem na plaži Dječji raj, uživajući u pogodnosti vlastitog prijevoza."
       },
       "gastro_picks": {
         "de": [
@@ -1495,8 +1548,8 @@
         ],
         "hr": [
           "Parkiranje u centru može biti izazovno tijekom vrhunca sezone.",
-          "Unutar područja marine ima mnogo naplatnih parkirnih mjesta.",
-          "Koristite automobil kako biste došli do skrivenijih uvala duž obale.",
+          "U području marine ima mnogo plaćenih mjesta za parkiranje.",
+          "Koristite automobil za dolazak do osamljenijih uvala duž obale.",
           "Obalna cesta nudi nekoliko slikovitih vidikovaca za kratko zaustavljanje."
         ]
       },
@@ -1507,7 +1560,7 @@
             "hu": "Autóval az esős Sukošan is kényelmesen felfedezhető. Közvetlenül a látnivalók, mint a Gornja vrata és a templom mellett parkolunk le. A Marina felé vezető úton az autóból csodálhatjuk a hullámzó tengert, anélkül hogy megáznánk. Az ebédet egy olyan konobában költjük el, ahol a parkoló közvetlenül a bejáratnál van.",
             "ro": "Cu mașina, Sukošan este ușor de explorat chiar și pe ploaie. Parcăm aproape de obiective precum Gornja vrata și biserica Sf. Casian. Drumul spre Marina Dalmacija oferă vederi superbe spre marea agitată, în timp ce rămânem la adăpost. Un prânz relaxat la o konoba cu parcare în față completează ziua perfect.",
             "en": "Exploring Sukošan by car is the most comfortable option in the rain. We park close to key sites like Gornja vrata and St. Cassian Church. The drive to Marina Dalmacija allows for great views of the choppy sea while staying dry. A cozy lunch at a tavern with convenient parking makes this rainy day a success.",
-            "hr": "Istraživanje Sukošana automobilom najudobnija je opcija po kiši. Parkiramo blizu ključnih mjesta poput Gornjih vrata i crkve sv. Kasijana. Vožnja do Marine Dalmacija omogućuje sjajne poglede na uzburkano more dok ostajete suhi. Ugodan ručak u konobi s pristupačnim parkingom čini ovaj kišni dan uspješnim."
+            "hr": "Istraživanje Sukošana autom najudobnija je opcija po kiši. Parkiramo blizu ključnih mjesta poput Gornjih vrata i crkve sv. Kancijana. Vožnja do Marine Dalmacija pruža odličan pogled na uzburkano more dok ostajete suhi. Ugodan ručak u konobi s praktičnim parkingom čini ovaj kišni dan uspješnim."
           },
           "stops": [
             {
@@ -1516,7 +1569,8 @@
                 "de": "Parkplatz direkt am Ortseingang.",
                 "hu": "Parkoljon a falu bejáratánál.",
                 "ro": "Parcare chiar la intrarea în sat.",
-                "en": "Parking is available right at the village entrance."
+                "en": "Parking is available right at the village entrance.",
+                "hr": "Parkiranje je dostupno odmah kod ulaza u selo."
               }
             },
             {
@@ -1525,7 +1579,8 @@
                 "de": "Kurzer Laufweg vom Auto.",
                 "hu": "Csak pár lépés az autótól.",
                 "ro": "Distanță scurtă de mers de la mașină.",
-                "en": "Only a short walk from the car to the entrance."
+                "en": "Only a short walk from the car to the entrance.",
+                "hr": "Samo kratka šetnja od automobila do ulaza."
               }
             },
             {
@@ -1534,7 +1589,8 @@
                 "de": "Sicht aus dem Auto genießen.",
                 "hu": "Élvezze a kilátást a kocsiból.",
                 "ro": "Admirați vederea din mașină.",
-                "en": "Enjoy the sea view from the comfort of your car."
+                "en": "Enjoy the sea view from the comfort of your car.",
+                "hr": "Uživajte u pogledu na more iz udobnosti automobila."
               }
             },
             {
@@ -1543,7 +1599,8 @@
                 "de": "Wenden auf engem Raum beachten.",
                 "hu": "Vigyázzon a fordulással a szűk helyen.",
                 "ro": "Atenție la întoarcerea în spații înguste.",
-                "en": "Be careful when turning in tight spaces near the ruins."
+                "en": "Be careful when turning in tight spaces near the ruins.",
+                "hr": "Pazite pri okretanju na uskim prostorima blizu ostataka."
               }
             },
             {
@@ -1552,7 +1609,8 @@
                 "de": "Regenschirm für den Weg zum Lokal.",
                 "hu": "Esernyő kell az étteremig.",
                 "ro": "Umbrelă pentru drumul până la local.",
-                "en": "An umbrella is needed for the short walk to the konoba."
+                "en": "An umbrella is needed for the short walk to the konoba.",
+                "hr": "Kišobran je potreban za kratku šetnju do konobe."
               }
             },
             {
@@ -1561,7 +1619,8 @@
                 "de": "Große Parkplätze vorhanden.",
                 "hu": "Tágas parkolók állnak rendelkezésre.",
                 "ro": "Parcări spațioase disponibile.",
-                "en": "Ample parking spaces are available inside the marina."
+                "en": "Ample parking spaces are available inside the marina.",
+                "hr": "Unutar marine dostupno je mnogo parkirnih mjesta."
               }
             },
             {
@@ -1570,7 +1629,8 @@
                 "de": "Fahrt direkt bis zum Strandweg.",
                 "hu": "Hajtson le egészen a parti útig.",
                 "ro": "Conduceți până la drumul de lângă plajă.",
-                "en": "Drive all the way to the beach road for a look."
+                "en": "Drive all the way to the beach road for a look.",
+                "hr": "Vozite sve do ceste uz plažu za razgledavanje."
               }
             },
             {
@@ -1579,7 +1639,8 @@
                 "de": "Parken in Sichtweite des Hafens.",
                 "hu": "Parkoljon rálátással a kikötőre.",
                 "ro": "Parcați cu vedere spre port.",
-                "en": "Park with a direct view of the harbor lights."
+                "en": "Park with a direct view of the harbor lights.",
+                "hr": "Parkirajte s izravnim pogledom na svjetla luke."
               }
             }
           ],
@@ -1611,8 +1672,8 @@
             "hr": [
               "Pazite na akvaplaning na obalnoj cesti.",
               "Parkirna mjesta bliže ulazima često su dostupna po kiši.",
-              "Ne ostavljajte prozore čak ni malo otvorenima.",
-              "Provjerite stanje metlica brisača."
+              "Ne ostavljajte prozore ni malo otvorene.",
+              "Provjerite stanje brisača vjetrobranskog stakla."
             ]
           }
         },
@@ -1622,7 +1683,7 @@
             "hu": "A téli Sukošan ideális egy pihentető autós túrához. Az utak üresek, a parkolás pedig gyerekjáték. Megnézzük a történelmi látnivalókat, és élvezzük a tiszta kilátást az Adriára. Az autó fűtése kényelmet ad a Palac és a Marina közötti megállókban. Az ebéd a meleg konobában a nap fénypontja, amit egy gyors naplemente-ital követ.",
             "ro": "Sukošan iarna este ideal pentru un tur relaxat cu mașina. Drumurile sunt libere, iar parcarea este floare la ureche. Vizităm atracțiile istorice și ne bucurăm de vederea clară spre Adriatică. Căldura din mașină oferă confort între opririle la Palac și Marina. Prânzul la o konoba primitoare este punctul culminant, urmat de o băutură la apus.",
             "en": "Winter in Sukošan is perfect for a relaxed car tour. The roads are empty, and finding parking is effortless. We visit the historical highlights and enjoy the clear views of the Adriatic. The car's heater provides comfort between stops at the Palac and the Marina. Lunch in a warm tavern is the highlight, followed by a quick sunset drink at the harbor.",
-            "hr": "Zima u Sukošanu savršena je za opuštenu turu automobilom. Ceste su prazne, a pronalaženje parkinga je bez napora. Posjećujemo povijesne znamenitosti i uživamo u čistom pogledu na Jadran. Grijanje u automobilu pruža udobnost između zaustavljanja kod Palaca i marine. Ručak u toploj konobi je vrhunac dana, nakon čega slijedi brzo piće uz zalazak sunca u luci."
+            "hr": "Zima u Sukošanu savršena je za opušteni auto-izlet. Ceste su prazne, a pronalazak parkinga je lagan. Posjećujemo povijesne znamenitosti i uživamo u bistrim pogledima na Jadran. Grijač u automobilu pruža udobnost između zaustavljanja kod Palaca i marine. Ručak u toploj konobi je vrhunac, a zatim brz napitak pri zalasku sunca u luci."
           },
           "stops": [
             {
@@ -1631,7 +1692,8 @@
                 "de": "Parken ist im Winter kostenlos.",
                 "hu": "Télen a parkolás ingyenes lehet.",
                 "ro": "Parcarea poate fi gratuită iarna.",
-                "en": "Parking might be free of charge in the low season."
+                "en": "Parking might be free of charge in the low season.",
+                "hr": "Parkiranje bi moglo biti besplatno u niskoj sezoni."
               }
             },
             {
@@ -1640,7 +1702,8 @@
                 "de": "Motor nicht unnötig laufen lassen.",
                 "hu": "Ne járassa feleslegesen a motort.",
                 "ro": "Nu lăsați motorul pornit inutil.",
-                "en": "Don't leave the engine idling while stopping."
+                "en": "Don't leave the engine idling while stopping.",
+                "hr": "Ne ostavljajte motor da radi dok stojite."
               }
             },
             {
@@ -1649,7 +1712,8 @@
                 "de": "Sonnige Parkplätze wählen.",
                 "hu": "Válasszon napos parkolóhelyet.",
                 "ro": "Alegeți un loc de parcare însorit.",
-                "en": "Choose a sunny parking spot to keep the cabin warm."
+                "en": "Choose a sunny parking spot to keep the cabin warm.",
+                "hr": "Odaberite sunčano mjesto za parkiranje kako bi kabina ostala topla."
               }
             },
             {
@@ -1658,7 +1722,8 @@
                 "de": "Achtung bei starker Bura am Ufer.",
                 "hu": "Vigyázzon az erős burára a parton.",
                 "ro": "Atenție la vântul Bura pe mal.",
-                "en": "Be careful of strong Bura gusts at the waterfront."
+                "en": "Be careful of strong Bura gusts at the waterfront.",
+                "hr": "Pazite na jake udare bure na obali."
               }
             },
             {
@@ -1667,7 +1732,8 @@
                 "de": "Reservierung im Winter oft nicht nötig.",
                 "hu": "Télen gyakran nem kell asztalt foglalni.",
                 "ro": "Rezervarea nu este necesară iarna de obicei.",
-                "en": "Reservations are usually not needed in winter."
+                "en": "Reservations are usually not needed in winter.",
+                "hr": "Rezervacije obično nisu potrebne zimi."
               }
             },
             {
@@ -1676,7 +1742,8 @@
                 "de": "Freie Sicht auf das offene Meer.",
                 "hu": "Tiszta rálátás a nyílt tengerre.",
                 "ro": "Vedere clară spre marea deschisă.",
-                "en": "Enjoy the unobstructed views of the open sea."
+                "en": "Enjoy the unobstructed views of the open sea.",
+                "hr": "Uživajte u neometanim pogledima na otvoreno more."
               }
             },
             {
@@ -1685,7 +1752,8 @@
                 "de": "Bester Platz für Winter-Picknick.",
                 "hu": "Kiváló hely egy téli piknikhez.",
                 "ro": "Loc bun pentru un picnic de iarnă.",
-                "en": "Great spot for a quick winter car-picnic."
+                "en": "Great spot for a quick winter car-picnic.",
+                "hr": "Odlično mjesto za brzi zimski piknik u autu."
               }
             },
             {
@@ -1694,7 +1762,8 @@
                 "de": "Frühzeitige Ankunft für den Sunset.",
                 "hu": "Érkezzen időben a naplementéhez.",
                 "ro": "Ajungeți devreme pentru apus.",
-                "en": "Arrive early; the sun drops fast in winter."
+                "en": "Arrive early; the sun drops fast in winter.",
+                "hr": "Stignite rano; sunce brzo zalazi zimi."
               }
             }
           ],
@@ -1724,10 +1793,10 @@
               "Don't forget the anti-freeze windshield fluid."
             ],
             "hr": [
-              "Pazite na akumulator tijekom hladnih valova.",
+              "Pratite stanje baterije tijekom hladnih valova.",
               "Koristite zaštitu od sunca čak i zimi.",
-              "Obalne ceste mogu biti zahtjevne tijekom udara bure.",
-              "Ne zaboravite na tekućinu za stakla protiv smrzavanja."
+              "Obalni putevi mogu biti zahtjevni tijekom udara bure.",
+              "Ne zaboravite antifriz za tekućinu brisača."
             ]
           }
         }
@@ -1746,7 +1815,8 @@
             "de": "Zentrum Sukošan (Bushaltestelle)",
             "hu": "Sukošan központ (buszmegálló)",
             "ro": "Centru Sukošan (stație de autobuz)",
-            "en": "Sukošan Center (bus stop)"
+            "en": "Sukošan Center (bus stop)",
+            "hr": "Sukošan centar (autobusna stanica)"
           },
           "coords": [
             15.315,
@@ -1770,7 +1840,8 @@
             "de": "Crkva sv. Kasijana (Fußweg)",
             "hu": "Szent Cassianus-templom (gyalog)",
             "ro": "Biserica Sf. Casian (pe jos)",
-            "en": "Church of St. Cassian (on foot)"
+            "en": "Church of St. Cassian (on foot)",
+            "hr": "Crkva sv. Kancijana (pješice)"
           },
           "coords": [
             15.313,
@@ -1786,7 +1857,7 @@
             "hu": "A település jelképe, közvetlenül a központban.",
             "ro": "Simbolul localității, situat chiar în centru.",
             "en": "The landmark of the town, located in the very center.",
-            "hr": "Znamenitost mjesta, smještena u samom centru."
+            "hr": "Znamenitost grada, smještena u samom centru."
           }
         },
         {
@@ -1794,7 +1865,8 @@
             "de": "Palac (Fußweg)",
             "hu": "Palac (gyalog)",
             "ro": "Palac (pe jos)",
-            "en": "Palac (on foot)"
+            "en": "Palac (on foot)",
+            "hr": "Palac (pješice)"
           },
           "coords": [
             15.31,
@@ -1810,7 +1882,7 @@
             "hu": "Különleges romok a sekély vízben.",
             "ro": "Ruine unice în apa puțin adâncă.",
             "en": "Unique ruins located in the shallow coastal water.",
-            "hr": "Jedinstvene ruševine smještene u plitkom moru uz obalu."
+            "hr": "Jedinstveni ostaci smješteni u plitkoj obalnoj vodi."
           }
         },
         {
@@ -1818,7 +1890,8 @@
             "de": "Mittagessen im Ort",
             "hu": "Ebéd a faluban",
             "ro": "Prânz în sat",
-            "en": "Lunch in the village"
+            "en": "Lunch in the village",
+            "hr": "Ručak u selu"
           },
           "coords": [
             15.312,
@@ -1834,7 +1907,7 @@
             "hu": "Élvezze a helyi dalmát specialitásokat.",
             "ro": "Bucurați-vă de specialități locale dalmate.",
             "en": "Enjoy traditional local Dalmatian specialties.",
-            "hr": "Uživajte u tradicionalnim domaćim dalmatinskim specijalitetima."
+            "hr": "Uživajte u tradicionalnim dalmatinskim specijalitetima."
           }
         },
         {
@@ -1842,7 +1915,8 @@
             "de": "Dječji raj Strand (Fußweg)",
             "hu": "Dječji raj strand (gyalog)",
             "ro": "Plaja Dječji raj (pe jos)",
-            "en": "Dječji raj Beach (on foot)"
+            "en": "Dječji raj Beach (on foot)",
+            "hr": "Dječji raj Beach (pješice)"
           },
           "coords": [
             15.318,
@@ -1866,7 +1940,8 @@
             "de": "Marina Dalmacija (Transit-Hopp)",
             "hu": "Marina Dalmacija (busszal)",
             "ro": "Marina Dalmacija (cu autobuzul)",
-            "en": "Marina Dalmacija (by bus)"
+            "en": "Marina Dalmacija (by bus)",
+            "hr": "Marina Dalmacija (autobusom)"
           },
           "coords": [
             15.305,
@@ -1890,7 +1965,8 @@
             "de": "Rückfahrt Bushaltestelle",
             "hu": "Buszmegálló - hazautazás",
             "ro": "Stație de autobuz - întoarcere",
-            "en": "Bus stop - return trip"
+            "en": "Bus stop - return trip",
+            "hr": "Autobusna stanica - povratak"
           },
           "coords": [
             15.315,
@@ -1906,7 +1982,7 @@
             "hu": "Rendszeres buszjáratok indulnak Zadarba.",
             "ro": "Autobuzele spre Zadar circulă regulat.",
             "en": "Buses to Zadar run on a regular schedule.",
-            "hr": "Autobusi za Zadar voze prema redovitom voznom redu."
+            "hr": "Autobusi za Zadar voze po redovnoj liniji."
           }
         }
       ],
@@ -1915,7 +1991,7 @@
         "hu": "Zadarral való kiváló buszösszeköttetésének köszönhetően Sukošan tömegközlekedéssel is remekül felfedezhető. A központi megállótól gyalogosan érheti el a Szent Cassianus-templomot és a tengerben álló Palac romjait. A délutáni strandolás után a helyi járatot használva látogathat el a Marina Dalmacija kikötőbe a hazautazás előtt.",
         "ro": "Datorită conexiunilor bune cu Zadar, Sukošan este ușor de explorat cu transportul public. De la stația centrală, puteți ajunge pe jos la biserica Sf. Casian și la ruinele Palac. După o după-amiază la plajă, folosiți autobuzul local pentru a vizita Marina Dalmacija înainte de a lua cursa de întoarcere.",
         "en": "Sukošan is easily accessible via public transport thanks to regular bus links with Zadar. From the main stop, take a short walk to visit the local church and the Palac ruins. After enjoying the beach, you can use the local bus to reach the expansive Marina Dalmacija area before catching your bus back, making for a stress-free day trip.",
-        "hr": "Sukošan je lako dostupan javnim prijevozom zahvaljujući redovitim autobusnim linijama sa Zadrom. Od glavne stanice prošećite do lokalne crkve i ruševina Palaca. Nakon uživanja na plaži, lokalnim autobusom možete doći do prostranog područja Marine Dalmacija prije povratka, što čini ovaj izlet bezbrižnim."
+        "hr": "Sukošan je lako dostupan javnim prijevozom zahvaljujući redovitim vezama s Zadrom. Iz glavne stanice prošećite kratko do lokalne crkve i ostataka Palaca. Nakon uživanja na plaži možete lokalnim autobusom doći do prostrane Marine Dalmacija prije povratka, što čini izlet bez stresa."
       },
       "gastro_picks": {
         "de": [
@@ -2044,10 +2120,10 @@
           "The main parts of Sukošan are within easy walking distance of the bus stop."
         ],
         "hr": [
-          "Uvijek provjerite najnoviji vozni red autobusa (Liburnija Zadar).",
-          "Karte se mogu kupiti izravno kod vozača ili na kiosku.",
-          "Autobusna stanica ima ograničen hlad, pa budite spremni dok čekate.",
-          "Glavni dijelovi Sukošana nalaze se na pješačkoj udaljenosti od autobusne stanice."
+          "Uvijek provjerite najnoviji vozni red (Liburnija Zadar).",
+          "Karte se mogu kupiti direktno od vozača ili na kiosku.",
+          "Autobusna stanica ima ograničen hlad, pa se pripremite tijekom čekanja.",
+          "Glavni dijelovi Sukošana nalaze se na lako pješačkoj udaljenosti od stanice."
         ]
       },
       "variants": {
@@ -2057,7 +2133,7 @@
             "hu": "A tömegközlekedés Sukošanban esőben némi tervezést igényel, de védelmet nyújt útközben. A központból indulunk, kihasználva a templomhoz és a Palachoz vezető rövid utakat. Az ebéd után a helyi busszal utazunk a Marinához, ami közvetlenül a bejáratnál áll meg, így minimalizálva az esőben töltött időt.",
             "ro": "Transportul în comun în Sukošan pe ploaie necesită planificare, dar oferă protecție pe drum. Începem în centru și profităm de distanțele scurte spre biserică și Palac. După prânz, luăm autobuzul local spre Marina Dalmacija, care oprește chiar în față, minimizând expunerea la ploaie.",
             "en": "Using transit in Sukošan during the rain requires some timing but keeps you covered during travel. We start in the center, taking short walks to the church and Palac. After lunch, the local bus takes us to Marina Dalmacija, stopping right at the entrance to minimize time spent in the drizzle.",
-            "hr": "Korištenje javnog prijevoza u Sukošanu tijekom kiše zahtijeva dobro planiranje vremena, ali vas štiti tijekom putovanja. Počinjemo u centru, kratkim šetnjama do crkve i Palaca. Nakon ručka, lokalni autobus nas vodi do Marine Dalmacija, stajući točno na ulazu kako bismo smanjili vrijeme provedeno na kiši."
+            "hr": "Korištenje prijevoza u Sukošanu po kiši zahtijeva malo tempiranja, ali vas štiti tijekom putovanja. Počinjemo u centru, pješice do crkve i Palaca. Nakon ručka lokalni autobus vozi nas do Marine Dalmacija, stajući odmah na ulazu kako bi se smanjilo vrijeme provedeno na rosulji."
           },
           "stops": [
             {
@@ -2066,7 +2142,8 @@
                 "de": "Unterstand am Busstopp nutzen.",
                 "hu": "Használja a buszváró fedelét.",
                 "ro": "Folosiți adăpostul din stația de autobuz.",
-                "en": "Use the shelter at the bus stop."
+                "en": "Use the shelter at the bus stop.",
+                "hr": "Iskoristite zaklon na autobusnoj stanici."
               }
             },
             {
@@ -2075,7 +2152,8 @@
                 "de": "Schneller Schritt zur Kirche.",
                 "hu": "Gyors séta a templomig.",
                 "ro": "Pas rapid până la biserică.",
-                "en": "Take a brisk walk to the church to stay dry."
+                "en": "Take a brisk walk to the church to stay dry.",
+                "hr": "Brza šetnja do crkve pomoći će vam da ostanete suhi."
               }
             },
             {
@@ -2084,7 +2162,8 @@
                 "de": "Weg kann Pfützen haben.",
                 "hu": "Az úton tócsák lehetnek.",
                 "ro": "Pot fi bălți pe drum.",
-                "en": "Watch out for puddles on the way to the ruins."
+                "en": "Watch out for puddles on the way to the ruins.",
+                "hr": "Pazite na lokve na putu do ostataka."
               }
             },
             {
@@ -2093,7 +2172,8 @@
                 "de": "Nah an der Bushaltestelle wählen.",
                 "hu": "Válasszon helyet a buszmegálló közelében.",
                 "ro": "Alegeți un loc aproape de stație.",
-                "en": "Choose a spot close to the transit stop."
+                "en": "Choose a spot close to the transit stop.",
+                "hr": "Odaberite mjesto blizu stajališta javnog prijevoza."
               }
             },
             {
@@ -2102,7 +2182,8 @@
                 "de": "Weg ist teilweise ungeschützt.",
                 "hu": "Az út egy része nem fedett.",
                 "ro": "Drumul este parțial neprotejat.",
-                "en": "Part of the path is exposed to the elements."
+                "en": "Part of the path is exposed to the elements.",
+                "hr": "Dio puta je izložen vremenskim utjecajima."
               }
             },
             {
@@ -2111,7 +2192,8 @@
                 "de": "Fahrplan in der App prüfen.",
                 "hu": "Ellenőrizze a menetrendet appban.",
                 "ro": "Verificați programul în aplicație.",
-                "en": "Check the real-time schedule on your phone."
+                "en": "Check the real-time schedule on your phone.",
+                "hr": "Provjerite raspored u stvarnom vremenu na telefonu."
               }
             },
             {
@@ -2120,7 +2202,8 @@
                 "de": "Pünktlich am Stopp sein.",
                 "hu": "Érkezzen pontosan a megállóba.",
                 "ro": "Fiți punctuali în stație.",
-                "en": "Be punctual at the stop to avoid waiting in rain."
+                "en": "Be punctual at the stop to avoid waiting in rain.",
+                "hr": "Budite točni na stajalištu kako biste izbjegli čekanje po kiši."
               }
             }
           ],
@@ -2150,10 +2233,10 @@
               "The back seats of the bus are usually warmer."
             ],
             "hr": [
-              "Autobusi mogu malo kasniti po jakoj kiši.",
-              "Pripremite sitniš za kartu.",
-              "Nosite nepromočive vanjske slojeve odjeće.",
-              "Stražnja sjedala u autobusu obično su toplija."
+              "Autobusi mogu kasniti za malo tijekom jake kiše.",
+              "Imajte sitan novac spreman za kartu.",
+              "Nosite vodootpornu vanjsku odjeću.",
+              "Stražnja sjedala autobusa obično su toplija."
             ]
           }
         },
@@ -2163,7 +2246,7 @@
             "hu": "A tömegközlekedés Sukošanban télen nyugodt, a buszok nem zsúfoltak. Felfedezzük a téli központot és a templomot. A bura szél tiszta kilátást biztosít a parti buszozás alatt. Egy meleg ebéd után látogatunk el a Marinához, ami a téli fényekben különösen tágasnak hat. A napot még a korai sötétedés előtt befejezzük.",
             "ro": "Transportul în comun iarna în Sukošan este relaxat, autobuzele nefiind aglomerate. Explorăm centrul hibernal și biserica Sf. Casian. Vântul Bura asigură o vizibilitate excelentă în timpul călătoriei pe coastă. După un prânz cald, vizităm Marina Dalmacija, care pare imensă în lumina iernii. Încheiem ziua înainte de lăsarea întunericului.",
             "en": "Transit in Sukošan during winter is stress-free as buses are never crowded. We explore the wintery center and St. Cassian Church. The Bura wind ensures crystal-clear views during the coastal bus ride. A warm lunch prepares us for visiting Marina Dalmacija, which feels especially vast in the winter light. We finish our trip well before the early sunset.",
-            "hr": "Javni prijevoz u Sukošanu zimi je bez stresa jer autobusi nikada nisu krcati. Istražujemo zimski centar i crkvu sv. Kasijana. Bura osigurava kristalno čiste vidike tijekom vožnje autobusom uz obalu. Topli ručak nas priprema za posjet Marini Dalmacija, koja djeluje posebno prostrano na zimskom svjetlu. Završavamo putovanje znatno prije ranog zalaska sunca."
+            "hr": "Prijevoz u Sukošanu zimi je bez stresa jer autobusi nisu nikad pretrpani. Istražujemo zimsko središte i crkvu sv. Kasijana. Bura osigurava kristalno bistre poglede tijekom obalnog vožnje autobusom. Topli ručak priprema nas za posjet Marini Dalmacija, koja zimi djeluje posebno prostrano. Put završavamo znatno prije ranog zalaska sunca."
           },
           "stops": [
             {
@@ -2172,7 +2255,8 @@
                 "de": "Sonnige Seite der Straße nutzen.",
                 "hu": "Várjon az út napos oldalán.",
                 "ro": "Stați pe partea însorită a drumului.",
-                "en": "Wait on the sunny side of the road if possible."
+                "en": "Wait on the sunny side of the road if possible.",
+                "hr": "Ako je moguće, čekajte na sunčanoj strani ceste."
               }
             },
             {
@@ -2181,7 +2265,8 @@
                 "de": "Windige Ecken im Dorf meiden.",
                 "hu": "Kerülje a szeles utcasarkokat.",
                 "ro": "Evitați colțurile vântoase ale străzilor.",
-                "en": "Avoid particularly windy street corners."
+                "en": "Avoid particularly windy street corners.",
+                "hr": "Izbjegavajte posebno vjetrovite raskrižje."
               }
             },
             {
@@ -2190,7 +2275,8 @@
                 "de": "Zügiges Gehen hält warm.",
                 "hu": "A tempós gyaloglás melegen tart.",
                 "ro": "Mersul alert vă menține cald.",
-                "en": "Walking at a brisk pace will keep you warm."
+                "en": "Walking at a brisk pace will keep you warm.",
+                "hr": "Brža šetnja će vas ugrijati."
               }
             },
             {
@@ -2199,7 +2285,8 @@
                 "de": "Platz am Fenster für Wintersonne.",
                 "hu": "Üljön az ablak mellé a téli napért.",
                 "ro": "Stați lângă fereastră pentru soare.",
-                "en": "Sit by the window to enjoy the winter sun."
+                "en": "Sit by the window to enjoy the winter sun.",
+                "hr": "Sjednite uz prozor kako biste uživali u zimskom suncu."
               }
             },
             {
@@ -2208,7 +2295,8 @@
                 "de": "Mütze und Schal sind hier Pflicht.",
                 "hu": "Sapka és sál itt kötelező.",
                 "ro": "Căciula și fularul sunt obligatorii aici.",
-                "en": "Hat and scarf are mandatory on the beach path."
+                "en": "Hat and scarf are mandatory on the beach path.",
+                "hr": "Kačket i šal su obavezni na stazi uz plažu."
               }
             },
             {
@@ -2217,7 +2305,8 @@
                 "de": "Winterfahrplan beachten (weniger Fahrten).",
                 "hu": "Figyelje a téli ritkább menetrendet.",
                 "ro": "Atenție la programul de iarnă redus.",
-                "en": "Note the reduced winter schedule for buses."
+                "en": "Note the reduced winter schedule for buses.",
+                "hr": "Imajte na umu smanjeni zimski raspored autobusa."
               }
             },
             {
@@ -2226,7 +2315,8 @@
                 "de": "Licht am Handy bei Dunkelheit nutzen.",
                 "hu": "Használja a telefonját fényjelzésnek.",
                 "ro": "Folosiți lanterna telefonului în stație.",
-                "en": "Use your phone's light to signal the driver if dark."
+                "en": "Use your phone's light to signal the driver if dark.",
+                "hr": "Upotrijebite svjetlo na mobitelu da signalizirate vozaču ako je mračno."
               }
             }
           ],
@@ -2256,10 +2346,10 @@
               "Wear a hat to protect against the cold wind."
             ],
             "hr": [
-              "Vozni redovi autobusa često se mijenjaju u zimskoj sezoni.",
-              "Autobusi su zimi obično dobro zagrijani.",
-              "Planirajte svoj zadnji povratak prije 18:00.",
-              "Nosite kapu da se zaštitite od hladnog vjetra."
+              "Rasporedi autobusa često se mijenjaju tijekom zime.",
+              "Autobusi su zimi obično dobro grijani.",
+              "Isplanirajte posljednji povratak prije 18:00.",
+              "Nosite kapu radi zaštite od hladnog vjetra."
             ]
           }
         }

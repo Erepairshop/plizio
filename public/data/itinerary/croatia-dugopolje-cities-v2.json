@@ -70,7 +70,7 @@
             "hu": "Pihentető séta a csendes utcákon.",
             "ro": "O plimbare relaxantă pe străzile liniștite.",
             "en": "A relaxing stroll through the quiet streets.",
-            "hr": "Opuštajuća šetnja mirnim ulicama."
+            "hr": "Opustajuća šetnja kroz tihe ulice."
           }
         },
         {
@@ -89,7 +89,7 @@
             "hu": "Kóstolja meg a helyi pršutot (sonkát).",
             "ro": "Gustați faimosul pršut (șuncă locală).",
             "en": "Try the local pršut (prosciutto).",
-            "hr": "Probajte domaći pršut."
+            "hr": "Probajte lokalni pršut."
           }
         },
         {
@@ -108,7 +108,7 @@
             "hu": "Kilátás a dalmát hátországra.",
             "ro": "Vedere panoramică asupra hinterlandului dalmațian.",
             "en": "View of the Dalmatian hinterland.",
-            "hr": "Pogled na dalmatinsko zaleđe."
+            "hr": "Pogled na dalmatinsku unutrašnjost."
           }
         },
         {
@@ -127,7 +127,7 @@
             "hu": "Élvezze a nyugalmat az indulás előtt.",
             "ro": "Bucurați-vă de liniște înainte de plecare.",
             "en": "Enjoy the peace before departure.",
-            "hr": "Uživajte u miru prije odlaska."
+            "hr": "Uživajte u miru prije polaska."
           }
         }
       ],
@@ -136,7 +136,7 @@
         "hu": "A nap Dugopolje szívében, a Szent Mihály-templomnál indul, ahol egy kávé mellett ismerkedhet a helyi légkörrel. Egy kényelmes séta során felfedezheti a falu csendes utcáit és hagyományos kőházait.\n\nEbédre térjen be egy helyi konobába, és kóstolja meg a dalmát hátország jellegzetes ízeit. Délután a természeté a főszerep, a Mosor-hegység lábánál élvezheti a tiszta hegyi levegőt.\n\nA napot a központban zárjuk, ahonnan csodás kilátás nyílik a környező hegycsúcsokra.",
         "ro": "Ziua începe în inima orașului Dugopolje, lângă biserica Sf. Mihail, unde puteți simți atmosfera locală la o cafea. O plimbare ușoară vă poartă prin sat, printre casele tradiționale din piatră.\n\nLa prânz, opriți-vă la o konoba pentru a gusta bucătăria consistentă a hinterlandului. După-amiaza este dedicată naturii, explorând poalele muntelui Mosor și admirând peisajul.\n\nZiua se încheie relaxat în centru, cu o vedere superbă asupra vârfurilor înconjurătoare.",
         "en": "Your day starts in the heart of Dugopolje at St. Michael's Church, where you can soak in the local atmosphere over a coffee. A leisurely stroll takes you through the village past traditional stone houses.\n\nAt lunch, visit a local tavern to taste the hearty cuisine of the Dalmatian hinterland. The afternoon is dedicated to nature, as you approach the foothills of the Mosor mountain and enjoy the panorama.\n\nThe day ends peacefully in the center with views of the surrounding peaks.",
-        "hr": "Vaš dan počinje u srcu Dugopolja kod crkve sv. Mihovila, gdje možete upijati lokalnu atmosferu uz kavu. Lagana šetnja vodi vas kroz selo pored tradicionalnih kamenih kuća.\n\nZa ručak posjetite lokalnu konobu kako biste kušali krepku kuhinju dalmatinskog zaleđa. Poslijepodne je posvećeno prirodi dok se približavate podnožju planine Mosor i uživate u panorami.\n\nDan završava mirno u centru s pogledom na okolne vrhove."
+        "hr": "Vaš dan počinje u srcu Dugopolja kod crkve sv. Mihovila, gdje možete upiti lokalnu atmosferu uz kavu. Uzgodna šetnja vodi vas kroz selo pored tradicionalnih kamenih kuća.\n\nZa ručak posjetite lokalnu konobu i kušajte srdačnu kuhinju dalmatinske unutrašnjosti. Poslijepodne je posvećeno prirodi dok se približavate podnožju planine Mosor i uživate u panorami.\n\nDan završava mirno u centru s pogledom na okolne vrhove."
       },
       "gastro_picks": {
         "de": [
@@ -267,8 +267,8 @@
         "hr": [
           "Nosite udobnu obuću za šetnju do podnožja Mosora.",
           "Dugopolje je često hladnije od Splita, ponesite laganu jaknu.",
-          "Mještani su vrlo gostoljubivi, ne ustručavajte se pozdraviti.",
-          "Trg u centru je najživlji tijekom jutra."
+          "Mještani su vrlo gostoljubivi, ne bojte se pozdraviti.",
+          "Trg u mjestu najživlji je u jutarnjim satima."
         ]
       },
       "variants": {
@@ -278,7 +278,7 @@
             "hu": "Kezdje az esős reggelt Dugopoljében a főtér egyik fedett kávézójában, figyelve az utca forgalmát. A Szent Mihály-templom tökéletes menedéket nyújt a zápor elől, miközben megcsodálhatja belső terét. Ebédre keressen egy barátságos konobát, ahol a kandalló mellett élvezheti a helyi ízeket. Délután a falusi séta rövidebbre sikerülhet az eső miatt, de a párás Mosor-hegy látványa különleges hangulatot áraszt. A napot egy meleg tea vagy bor mellett zárhatja a központban.",
             "ro": "Începeți dimineața ploioasă în Dugopolje cu o cafea lungă în piața principală, așteptând ca ploaia să se domolească. Biserica Sfântul Mihail oferă un adăpost liniștit și uscat pentru explorare. La prânz, relaxați-vă într-o konoba tradițională, bucurându-vă de atmosfera caldă în timp ce afară plouă. După-amiaza, plimbarea prin sat se va face sub umbrelă, oferind o perspectivă mistică asupra muntelui Mosor învăluit în nori. Încheiați ziua confortabil, cu o băutură caldă în centru.",
             "en": "Start your rainy morning in Dugopolje with a cozy coffee at the main square, watching the rain from a dry spot. St. Michael's Church provides a perfect indoor retreat during the downpour. For lunch, head to a traditional konoba to enjoy hearty local food while staying dry. In the afternoon, the village walk might be shorter, but the misty views of Mount Mosor offer a unique atmosphere. End your day relaxing with a warm drink as the weather settles over the Dalmatian hinterland.",
-            "hr": "Započnite kišno jutro u Dugopolju uz ugodnu kavu na glavnom trgu, promatrajući kišu sa suhog mjesta. Crkva sv. Mihovila pruža savršeno utočište u zatvorenom tijekom pljuska. Za ručak se uputite u tradicionalnu konobu kako biste uživali u krepkoj domaćoj hrani dok ste na suhom. Poslijepodne šetnja selom može biti kraća, ali magloviti pogledi na planinu Mosor nude jedinstvenu atmosferu. Završite dan opuštajući se uz topli napitak dok se vrijeme smiruje nad dalmatinskim zaleđem."
+            "hr": "Započnite kišno jutro u Dugopolju uz ugodnu kavu na glavnom trgu, promatrajući kišu s suhog mjesta. Crkva sv. Mihovila nudi savršeno unutarnje utočište tijekom pljuska. Za ručak svratite u tradicionalnu konobu i uživajte u srdačnoj lokalnoj hrani dok ostajete suhi. Poslijepodne je šetnja selom možda kraća, ali magloviti pogledi na planinu Mosor pružaju posebnu atmosferu. Dan završite opuštanjem uz topao napitak dok se vrijeme stišava nad dalmatinskim zaleđem."
           },
           "stops": [
             {
@@ -288,7 +288,7 @@
                 "hu": "Válasszon belső asztalt, hogy ne ázzon meg a teraszon.",
                 "ro": "Alegeți o masă în interior pentru a rămâne uscat.",
                 "en": "Pick an indoor table to stay dry while enjoying your coffee.",
-                "hr": "Odaberite stol u zatvorenom kako biste ostali suhi dok uživate u kavi."
+                "hr": "Odaberite stol unutra da ostanete suhi dok uživate u kavi."
               }
             },
             {
@@ -298,7 +298,7 @@
                 "hu": "Használja ki az időt a belső tér alapos felfedezésére.",
                 "ro": "Folosiți timpul pentru o vizită detaliată a interiorului.",
                 "en": "Take your time to explore the interior details while it rains outside.",
-                "hr": "Uzmite si vremena za istraživanje detalja unutrašnjosti dok vani pada kiša."
+                "hr": "Imajte vremena za razgledati unutrašnje detalje dok vani pada kiša."
               }
             },
             {
@@ -308,7 +308,7 @@
                 "hu": "Egy erős esernyő elengedhetetlen a szeles záporok idején.",
                 "ro": "O umbrelă rezistentă este esențială din cauza vântului.",
                 "en": "A sturdy umbrella is a must-have for the gusty rain here.",
-                "hr": "Čvrst kišobran je neophodan za ovdašnju vjetrovitu kišu."
+                "hr": "Čvrst kišobran je nezaobilazan zbog jakih pljuskova."
               }
             },
             {
@@ -318,7 +318,7 @@
                 "hu": "Élvezze a meghitt hangulatot egy pohár helyi vörösborral.",
                 "ro": "Bucurați-vă de atmosfera primitoare cu un pahar de vin roșu.",
                 "en": "Enjoy the cozy atmosphere with a glass of local red wine.",
-                "hr": "Uživajte u ugodnoj atmosferi uz čašu domaćeg crnog vina."
+                "hr": "Uživajte u ugodnoj atmosferi uz čašu lokalnog crnog vina."
               }
             },
             {
@@ -328,7 +328,7 @@
                 "hu": "Vigyázzon a csúszós kövekre a kilátóhoz vezető úton.",
                 "ro": "Atenție la pietrele alunecoase de pe drumul spre belvedere.",
                 "en": "Watch out for slippery stones on the path to the viewpoint.",
-                "hr": "Pazite na sklisko kamenje na stazi prema vidikovcu."
+                "hr": "Pazite na klizave kamene ploče na putu prema vidikovcu."
               }
             },
             {
@@ -338,7 +338,7 @@
                 "hu": "Esőben a főtér hangulata különösen csendes és nyugodt.",
                 "ro": "Pe ploaie, atmosfera din piața centrală este foarte liniștită.",
                 "en": "In the rain, the main square feels exceptionally peaceful.",
-                "hr": "Na kiši, glavni trg djeluje iznimno mirno."
+                "hr": "Po kiši glavni trg zvuči iznimno mirno."
               }
             }
           ],
@@ -368,10 +368,10 @@
               "Allocate more time for indoor stops like the local church."
             ],
             "hr": [
-              "Nosite vodootporne planinarske cipele jer staze mogu brzo postati blatnjave.",
-              "U Dugopolju puše vjetar tijekom kiše; kabanica je često bolja od kišobrana.",
-              "Lokalne konobe su najbolja mjesta za zaklon tijekom jakih pljuskova.",
-              "Odvojite više vremena za unutarnja stajališta poput lokalne crkve."
+              "Nosite vodootporne planinarske čizme jer staze brzo postaju blatnima.",
+              "U Dugopolju zna biti vjetrovito tijekom kiše; kabanica je često bolja od kišobrana.",
+              "Lokalne konobe najbolje su mjesto za sklonište tijekom jakih pljuskova.",
+              "Predvidite više vremena za unutarnje stanice poput lokalne crkve."
             ]
           }
         },
@@ -381,7 +381,7 @@
             "hu": "A friss téli reggel Dugopoljében egy gőzölgő kávéval indul a főtéren, miközben a hideg Bura szél fújdogál. A Szent Mihály-templom kövei fehéren fénylenek a téli napsütésben. Ebédre válasszon laktató helyi húsételeket egy meleg konobában. Délután tegyen egy rövid sétát a faluban, majd csodálja meg a Mosor-hegy hófödte csúcsait a kilátópontról. A korai naplemente miatt a nap hamar véget ér, így korán behúzódhat a központ melegébe.",
             "ro": "O dimineață răcoroasă de iarnă în Dugopolje începe cu o cafea fierbinte în centru, în timp ce vântul Bura aduce aer proaspăt. Biserica Sfântul Mihail oferă un moment de liniște în lumina palidă a soarelui de iarnă. La prânz, încălziți-vă cu preparate tradiționale consistente într-o konoba locală. După-amiaza este dedicată unei plimbări scurte și admirării crestelor înzăpezite ale muntelui Mosor. Deoarece soarele apune devreme, ziua se încheie festiv sub luminile serii.",
             "en": "A crisp winter morning in Dugopolje starts with steaming coffee at the main square as the Bura wind blows. St. Michael's Church stands peacefully in the sharp winter light. For lunch, warm up in a local konoba with rich Dalmatian stews and grilled meats. In the afternoon, take a brisk walk through the village and enjoy the views of the potentially snow-capped Mosor peaks. Since the sun sets early, the day concludes early with a cozy atmosphere in the town center.",
-            "hr": "Svježe zimsko jutro u Dugopolju počinje uz kavu koja se puši na glavnom trgu dok puše bura. Crkva sv. Mihovila stoji mirno u oštrom zimskom svjetlu. Za ručak se zagrijte u lokalnoj konobi uz bogata dalmatinska variva i meso s roštilja. Poslijepodne krenite u brzu šetnju kroz selo i uživajte u pogledu na potencijalno snijegom prekrivene vrhove Mosora. Budući da sunce rano zalazi, dan završava rano uz ugodnu atmosferu u centru mjesta."
+            "hr": "Oštro zimsko jutro u Dugopolju započinje vrećom pare uz kavu na glavnom trgu dok puhne bura. Crkva sv. Mihovila stoji mirno u oštrom zimskom svjetlu. Za ručak se u lokalnoj konobi ugrijte uz bogate dalmatinske variva i pečenja. Poslijepodne napravite energičnu šetnju kroz selo i uživajte u pogledima na moguće snijegom pokrivene vrhove Mosora. Budući da sunce zalazi rano, dan završava ranije uz ugodnu atmosferu u središtu mjesta."
           },
           "stops": [
             {
@@ -391,7 +391,7 @@
                 "hu": "Kérjen asztalt a fűtőtest közelében.",
                 "ro": "Căutați un loc lângă sursa de căldură.",
                 "en": "Look for a seat near the heater for extra comfort.",
-                "hr": "Potražite sjedalo blizu grijalice za dodatnu udobnost."
+                "hr": "Potražite mjesto blizu grijalice za dodatnu udobnost."
               }
             },
             {
@@ -401,7 +401,7 @@
                 "hu": "A templomban télen nagyon hideg lehet, ne vegye le a kabátját.",
                 "ro": "Poate fi foarte frig în biserică iarna; păstrați-vă haina.",
                 "en": "The church interior can be quite chilly in winter; keep your coat on.",
-                "hr": "Unutrašnjost crkve može biti prilično hladna zimi; ostanite u kaputu."
+                "hr": "Unutrašnjost crkve zimi može biti prilično hladna; držite kaput na sebi."
               }
             },
             {
@@ -411,7 +411,7 @@
                 "hu": "Élvezze a friss, tiszta téli levegőt egy tempós séta közben.",
                 "ro": "Bucurați-vă de aerul curat de iarnă în timpul unei plimbări rapide.",
                 "en": "Enjoy the crisp, clean winter air with a brisk walk.",
-                "hr": "Uživajte u oštrom, čistom zimskom zraku uz brzu šetnju."
+                "hr": "Uživajte u svježem, čistom zimskom zraku uz brzu šetnju."
               }
             },
             {
@@ -421,7 +421,7 @@
                 "hu": "Kóstolja meg a szarmát vagy más laktató téli specialitást.",
                 "ro": "Încercați sarmalele sau alte specialități consistente de iarnă.",
                 "en": "Try 'Sarma' or other hearty local winter specialties.",
-                "hr": "Probajte 'Sarmu' ili druge krepke lokalne zimske specijalitete."
+                "hr": "Isprobajte sarmu ili druga srdačna lokalna zimska jela."
               }
             },
             {
@@ -431,7 +431,7 @@
                 "hu": "A kilátás télen gyakran sokkal tisztább, mint a nyári párában.",
                 "ro": "Vizibilitatea este adesea mult mai clară iarna decât vara.",
                 "en": "Visibility is often much better in winter than during the summer haze.",
-                "hr": "Vidljivost je zimi često mnogo bolja nego tijekom ljetne sumaglice."
+                "hr": "Vidljivost je često puno bolja zimi nego tijekom ljetne izmaglice."
               }
             },
             {
@@ -441,7 +441,7 @@
                 "hu": "A naplemente már 16:30 körül bekövetkezik, tervezzen előre.",
                 "ro": "Apusul are loc deja în jurul orei 16:30; planificați din timp.",
                 "en": "Sunset occurs as early as 4:30 PM; plan your arrival accordingly.",
-                "hr": "Zalazak sunca je već u 16:30; planirajte svoj dolazak u skladu s tim."
+                "hr": "Zalazak sunca može biti već oko 16:30; planirajte dolazak prema tome."
               }
             }
           ],
@@ -471,10 +471,10 @@
               "Days are short, so start your tour promptly at 9:00 AM."
             ],
             "hr": [
-              "Pazite na buru zbog koje se temperatura čini mnogo nižom.",
-              "Odjenite se slojevito kako biste se prilagodili hladnoći vjetra tijekom dana.",
-              "Mnogi kafići nude sezonske tople napitke tijekom zimskih mjeseci.",
-              "Dani su kratki, pa započnite svoju turu točno u 9:00 sati."
+              "Pazite na buru koja čini da temperatura bolje osjetno pada.",
+              "Obucite se u slojevima kako biste se prilagodili osjećaju hladnoće zbog vjetra tijekom dana.",
+              "Mnoge kafiće nude sezonske tople napitke tijekom zimskih mjeseci.",
+              "Dani su kratki, pa započnite obilazak točno u 9:00 sati."
             ]
           }
         }
@@ -504,7 +504,7 @@
             "hu": "Ellenőrizze a felszerelését indulás előtt.",
             "ro": "Verificați echipamentul înainte de plecare.",
             "en": "Check your equipment before starting.",
-            "hr": "Provjerite opremu prije početka."
+            "hr": "Provjerite opremu prije polaska."
           }
         },
         {
@@ -523,7 +523,7 @@
             "hu": "Szép tájékozódási pont a faluban.",
             "ro": "Un punct de reper frumos în sat.",
             "en": "A beautiful landmark in the village.",
-            "hr": "Prekrasna znamenitost u selu."
+            "hr": "Lijep znameniti punkt u selu."
           }
         },
         {
@@ -542,7 +542,7 @@
             "hu": "Kis forgalmú utak, remek kilátással.",
             "ro": "Drumuri puțin circulate, cu priveliști minunate.",
             "en": "Low-traffic roads with great views.",
-            "hr": "Ceste s malo prometa i sjajnim pogledima."
+            "hr": "Ceste s malim prometom i odličnim pogledima."
           }
         },
         {
@@ -561,7 +561,7 @@
             "hu": "Zárja le biztonságosan a biciklit.",
             "ro": "Încuiați bicicleta în siguranță.",
             "en": "Lock your bike securely.",
-            "hr": "Sigurno zaključajte bicikl."
+            "hr": "Zaključajte bicikl sigurno."
           }
         },
         {
@@ -580,7 +580,7 @@
             "hu": "Csendes hely egy vizes frissítőhöz.",
             "ro": "Un loc liniștit pentru o pauză de apă.",
             "en": "A quiet place for a water break.",
-            "hr": "Mirno mjesto za pauzu uz vodu."
+            "hr": "Tihi kutak za pauzu i vodu."
           }
         },
         {
@@ -608,7 +608,7 @@
         "hu": "Fedezze fel Dugopoljét és környékét két keréken. Az útvonal a falu központjából indul, és az érintetlen karsztvidéken át vezet a kis Kotlenice felé.\n\nA nap fénypontja a Vranjača-barlang meglátogatása, amely Dalmácia leglátványosabb cseppkőbarlangja. A hűvös földalatti kaland után tekerjen vissza a festői hátországon keresztül.\n\nA túra fizikailag aktív, de a Mosor-hegységre nyíló tágas kilátás minden erőfeszítést megér.",
         "ro": "Explorați Dugopolje și împrejurimile sale pe două roți. Traseul vă poartă din centrul satului prin peisajul carstic neatins spre mica localitate Kotlenice.\n\nPunctul culminant este vizitarea Peșterii Vranjača, cea mai spectaculoasă peșteră din Dalmația. După răcoarea din subteran, pedalați înapoi prin hinterlandul pitoresc.\n\nTurul este activ din punct de vedere fizic, dar priveliștile largi asupra muntelui Mosor compensează orice efort.",
         "en": "Explore Dugopolje and its surroundings on two wheels. The route leads from the village center through the pristine karst landscape to the small village of Kotlenice.\n\nThe highlight is the visit to the Vranjača Cave, Dalmatia's most spectacular show cave. After the cool underground adventure, cycle back through the scenic hinterland.\n\nThe tour is physically demanding, but the wide views of the Mosor mountain reward every effort.",
-        "hr": "Istražite Dugopolje i njegovu okolicu na dva kotača. Ruta vodi iz centra sela kroz netaknuti krški krajolik do malog mjesta Kotlenice.\n\nVrhunac je posjet špilji Vranjači, najspektakularnijoj turističkoj špilji u Dalmaciji. Nakon cool avanture pod zemljom, vratite se biciklom kroz slikovito zaleđe.\n\nTura je fizički zahtjevna, ali široki pogledi na planinu Mosor nagrađuju svaki trud."
+        "hr": "Istražite Dugopolje i okolicu na dva kotača. Ruta vodi iz središta sela kroz netaknuti krš prema malom zaseoku Kotlenice.\n\nVrhunac je posjet špilji Vranjača, najspektakularnijoj špilji u Dalmaciji. Nakon hladne podzemne avanture, vratite se biciklom kroz slikovito zaleđe.\n\nTura je fizički zahtjevna, ali široki pogledi na planinu Mosor isplate svaki uloženi trud."
       },
       "gastro_picks": {
         "de": [
@@ -737,9 +737,9 @@
           "Check tire pressure before departure."
         ],
         "hr": [
-          "Uzmite dovoljno vode, ima malo hlada.",
-          "U špilji je stalna temperatura od 15 stupnjeva Celzija.",
-          "Cesta ima nekoliko uspona, potrebna je dobra kondicija.",
+          "Ponesite dovoljno vode, ima malo hlada.",
+          "U špilji je stalna temperatura od 15 °C.",
+          "Na putu ima uspona, potrebna je dobra kondicija.",
           "Provjerite tlak u gumama prije polaska."
         ]
       },
@@ -750,7 +750,7 @@
             "hu": "Az esős bringázás Dugopoljében jó felszerelést igényel. A központból indulva a templom nyújt rövid menedéket. A Kotlenice felé vezető út vizes aszfalton halad, de a csúcspont, a Vranjača-barlang tökéletes célpont: a föld alatt száraz és állandó a hőmérséklet. Ebédeljen meg a faluban, majd tekerjen vissza a párás karsztvidéken keresztül. A nap egy forró itallal zárul a központban, miután biztonságba helyezte a kerékpárt.",
             "ro": "O excursie cu bicicleta pe ploaie necesită echipament adecvat în Dugopolje. După pornirea din centru, biserica oferă un scurt adăpost. Drumul spre Kotlenice trece pe asfalt umed, dar atracția principală, peștera Vranjača, este refugiul perfect: în subteran rămâneți uscat. Luați prânzul în sat înainte de întoarcerea prin peisajul carstic umed. Ziua se încheie cu o băutură caldă în centru, în timp ce bicicletele sunt puse la adăpost.",
             "en": "Cycling in the rain around Dugopolje requires good waterproof gear. After starting in the center, the church offers a quick dry spot. The ride to Kotlenice follows wet roads, but the highlight, Vranjača Cave, is the ultimate escape as it remains dry and temperate underground. Have lunch in the village before riding back through the misty karst landscape. The day ends with a hot drink in the center after securing your bike.",
-            "hr": "Bicikliranje na kiši oko Dugopolja zahtijeva dobru vodootpornu opremu. Nakon polaska iz centra, crkva nudi brzo suho mjesto. Vožnja do Kotlenica prati mokre ceste, ali vrhunac, špilja Vranjača, vrhunski je bijeg jer pod zemljom ostaje suho i umjereno. Ručajte u selu prije povratka kroz magloviti krški krajolik. Dan završava toplim napitkom u centru nakon što osigurate svoj bicikl."
+            "hr": "Vožnja biciklom po kiši oko Dugopolja zahtijeva dobru vodonepropusnu opremu. Nakon polaska iz centra, crkva nudi brzo suho mjesto. Vožnja do Kotlenica vodi po mokrim cestama, ali vrhunac, špilja Vranjača, savršeno je utočište jer je pod zemljom suho i temperirano. Ručajte u selu prije povratka kroz magloviti krš. Dan završite toplim napitkom u centru nakon što osigurate bicikl."
           },
           "stops": [
             {
@@ -760,7 +760,7 @@
                 "hu": "Indulás előtt ellenőrizze a fékeket a vizes útra való tekintettel.",
                 "ro": "Verificați frânele pe carosabil umed înainte de plecare.",
                 "en": "Check your brakes for wet conditions before heading out.",
-                "hr": "Provjerite kočnice za mokre uvjete prije polaska."
+                "hr": "Provjerite kočnice zbog mokrih uvjeta prije polaska."
               }
             },
             {
@@ -770,7 +770,7 @@
                 "hu": "Ha lehet, állítsa a bicikliket az előtető alá.",
                 "ro": "Parcați bicicletele sub o copertină dacă este posibil.",
                 "en": "Park your bikes under a roof or canopy if possible.",
-                "hr": "Parkirajte bicikle pod krov ili nadstrešnicu ako je moguće."
+                "hr": "Parkirajte bicikle ispod krova ili nadstrešnice ako je moguće."
               }
             },
             {
@@ -780,7 +780,7 @@
                 "hu": "Vigyázzon a kanyarokban, az aszfalt csúszós lehet.",
                 "ro": "Atenție în curbe, asfaltul poate fi alunecos.",
                 "en": "Be careful in corners; the asphalt can be quite slippery.",
-                "hr": "Budite oprezni u zavojima; asfalt može biti prilično sklizak."
+                "hr": "Budite oprezni u zavoju; asfalt može biti vrlo sklizak."
               }
             },
             {
@@ -840,10 +840,10 @@
               "Bike lights are mandatory in gloomy, rainy weather."
             ],
             "hr": [
-              "Nosite punu kabanicu i vodootporne hlače.",
-              "Izbjegavajte naglo kočenje na mokrim cestama.",
-              "Špilja Vranjača je prirodno sklonište od svake oluje.",
-              "Svjetla na biciklu su obavezna po tmurnom, kišnom vremenu."
+              "Nosite kompletnu kabanicu i vodootporne hlače.",
+              "Izbjegavajte naglo kočenje na mokroj cesti.",
+              "Špilja Vranjača prirodno je sklonište od svake oluje.",
+              "Svjetla na biciklu obvezna su u tmurnom, kišnom vremenu."
             ]
           }
         },
@@ -853,7 +853,7 @@
             "hu": "A téli bringázás Dugopolje környékén frissítő, de védelmet igényel a Bura szél ellen. Reggel a tiszta levegőben tekerve érintjük a templomot, majd Kotlenice felé vesszük az irányt. A Vranjača-barlang télen is kiváló, hiszen bent gyakran melegebb van, mint kint. Egy melegítő ebéd után a faluban, a lemenő nap fényében tekerhet vissza. Mivel korán sötétedik, tervezze a visszaérkezést délután 4 órára.",
             "ro": "Ciclismul de iarnă în jurul Dugopolje este revigorant, dar necesită protecție împotriva vântului Bura. Dimineața parcurgeți aerul rece spre biserică înainte de a porni spre Kotlenice. Peștera Vranjača este o atracție excelentă iarna, temperatura interioară fiind adesea mai mare decât afară. După un prânz cald în sat, pedalați înapoi cu soarele la orizont. Deoarece se întunecă devreme, planificați întoarcerea până la ora 16:00.",
             "en": "Winter cycling around Dugopolje is refreshing but requires protection against the cold Bura wind. Start in the crisp morning air at the church before heading towards Kotlenice. Vranjača Cave is a winter highlight, often feeling warmer inside than the outside air. After a warming lunch in the village, ride back with the low winter sun behind you. Since it gets dark early, aim to be back in the center by 4:00 PM.",
-            "hr": "Zimsko bicikliranje oko Dugopolja je osvježavajuće, ali zahtijeva zaštitu od hladne bure. Započnite na svježem jutarnjem zraku kod crkve prije polaska prema Kotlenicama. Špilja Vranjača je zimski hit jer je unutra često toplije nego na vanjskom zraku. Nakon ručka za zagrijavanje u selu, vozite se natrag s niskim zimskim suncem iza leđa. Budući da rano pada mrak, nastojte se vratiti u centar do 16:00 sati."
+            "hr": "Zimska vožnja biciklom oko Dugopolja osvježava, ali zahtijeva zaštitu od hladne bure. Započnite u svježem jutarnjem zraku kod crkve prije odlaska prema Kotlenicama. Špilja Vranjača zimi je istaknuta točka, često toplija unutra nego vani. Nakon toplog ručka u selu, vratite se niz put sa suncem nisko iza vas. Budući da se brzo smrkava, ciljajte biti natrag u centru do 16:00."
           },
           "stops": [
             {
@@ -863,7 +863,7 @@
                 "hu": "A meleg kesztyű elengedhetetlen a lejtőkön.",
                 "ro": "Mănușile groase sunt indispensabile pentru coborâri.",
                 "en": "Warm gloves are essential for the downhill sections.",
-                "hr": "Tople rukavice su neophodne za nizbrdice."
+                "hr": "Tople rukavice bitne su za nizbrdice."
               }
             },
             {
@@ -873,7 +873,7 @@
                 "hu": "Rövid pihenő a templom szélvédett oldalán.",
                 "ro": "O scurtă oprire pentru încălzire la adăpostul bisericii.",
                 "en": "A quick stop to warm up in the wind shadow of the church.",
-                "hr": "Kratko zaustavljanje radi zagrijavanja u zavjetrini crkve."
+                "hr": "Kratka pauza da se ugrijete u zaklonu crkve od vjetra."
               }
             },
             {
@@ -883,7 +883,7 @@
                 "hu": "Vigyázzon az esetleges jeges foltokra az árnyékos kanyarokban.",
                 "ro": "Atenție la posibilele porțiuni de gheață în curbele umbrite.",
                 "en": "Watch out for potential icy patches in shaded corners.",
-                "hr": "Pazite na moguća zaleđena mjesta u sjenovitim zavojima."
+                "hr": "Pazite na moguće zaleđene mrlje u zasjenjenim zavojima."
               }
             },
             {
@@ -893,7 +893,7 @@
                 "hu": "A barlangban állandó 15 fok van – télen kellemesen enyhe.",
                 "ro": "În peșteră sunt 15 grade constante – minunat de blând iarna.",
                 "en": "The cave stays at a constant 15°C – wonderfully mild in winter.",
-                "hr": "U špilji je stalnih 15°C – predivno blago zimi."
+                "hr": "U špilji je stalnih 15 °C – prekrasno blago zimi."
               }
             },
             {
@@ -903,7 +903,7 @@
                 "hu": "Igyon egy forró teát a visszaindulás előtt.",
                 "ro": "Beți un ceai fierbinte înainte de drumul de întoarcere.",
                 "en": "Have a hot tea before your ride back to town.",
-                "hr": "Popijte topli čaj prije vožnje natrag u mjesto."
+                "hr": "Popijte vrući čaj prije povratka u grad."
               }
             },
             {
@@ -913,7 +913,7 @@
                 "hu": "A fagyizó zárva lehet, keressen egy meleg kávézót.",
                 "ro": "Înghețata ar putea fi închisă, căutați o cafenea caldă.",
                 "en": "The gelato shop might be closed; look for a cozy cafe instead.",
-                "hr": "Slastičarnica bi mogla biti zatvorena; potražite ugodan kafić."
+                "hr": "Trgovina sa sladoledom možda je zatvorena; potražite ugodan kafić umjesto toga."
               }
             }
           ],
@@ -943,9 +943,9 @@
               "Finish your tour before twilight at 4:30 PM."
             ],
             "hr": [
-              "Nosite odjeću otpornu na vjetar (softshell) kako biste spriječili pothlađivanje.",
-              "Koristite balzam za usne protiv ugriza zimskog vjetra.",
-              "Baterije na e-biciklima i svjetla brže se troše na niskim temperaturama.",
+              "Nosite vjetrootporno odjeću (softshell) da spriječite prohladu.",
+              "Koristite balzam za usne protiv oštre zime vjetra.",
+              "Baterije e-bicikala i svjetla brže se prazne na niskim temperaturama.",
               "Završite turu prije sumraka u 16:30."
             ]
           }
@@ -1014,7 +1014,7 @@
             "hu": "A vezetés kb. 60 percig tart.",
             "ro": "Turul ghidat durează aproximativ 60 de minute.",
             "en": "The guided tour lasts about 60 minutes.",
-            "hr": "Razgled uz vodiča traje oko 60 minuta."
+            "hr": "Vođena tura traje oko 60 minuta."
           }
         },
         {
@@ -1052,7 +1052,7 @@
             "hu": "Kóstolja meg a pekát (harang alatt sült étel).",
             "ro": "Încercați peka (mâncare gătită sub capac).",
             "en": "Try peka (slow-cooked under a bell).",
-            "hr": "Probajte peku (polagano kuhano pod pekom)."
+            "hr": "Probajte peka (polako pečeno pod pekom)."
           }
         },
         {
@@ -1071,7 +1071,7 @@
             "hu": "Kilátópont könnyen elérhető a parkolótól.",
             "ro": "Punct de belvedere ușor accesibil de la parcare.",
             "en": "Viewpoint easily accessible from the parking area.",
-            "hr": "Vidikovac lako dostupan s parkirališta."
+            "hr": "Vidikovac je lako dostupan iz parkirališta."
           }
         },
         {
@@ -1099,7 +1099,7 @@
         "hu": "Autóval rugalmasan fedezheti fel Dugopolje legszebb részeit. A napot a csendes falu központjában, a Szent Mihály-templomnál kezdjük.\n\nEzután Kotlenice felé vesszük az irányt, a lenyűgöző Vranjača-barlanghoz. Ez a természeti emlékhely két hatalmas, cseppkövekkel teli teremből áll. A barlanglátogatás után gyalogosan is felfedezzük a kis falut.\n\nA délutánt a Mosor-hegység lejtőin töltjük, ahonnan tiszta időben egészen a tengerig és a szigetekig ellátni.",
         "ro": "Cu mașina, descoperiți punctele de atracție din Dugopolje cu maximă flexibilitate. Începem în centrul liniștit, la biserica Sf. Mihail.\n\nDrumul ne poartă apoi spre cătunul Kotlenice, la impresionanta Peșteră Vranjača. Monumentul natural oferă două săli uriașe pline de stalactite. După vizită, explorăm satul pe jos înainte de prânz.\n\nDupă-amiaza o petrecem pe versanții masivului Mosor, de unde puteți vedea marea și insulele în depărtare.",
         "en": "By car, you can explore the highlights of Dugopolje with maximum flexibility. We start in the quiet village center at St. Michael's Church.\n\nThe drive continues to the hamlet of Kotlenice to the impressive Vranjača Cave. This natural monument offers two huge halls full of stalactites. After the visit, we explore the village on foot before returning for lunch.\n\nWe spend the afternoon on the slopes of the Mosor massif, from where you can see all the way to the sea and the islands.",
-        "hr": "Automobilom možete istražiti vrhunce Dugopolja uz maksimalnu fleksibilnost. Počinjemo u mirnom centru sela kod crkve sv. Mihovila.\n\nVožnja se nastavlja do zaseoka Kotlenice do impresivne špilje Vranjače. Ovaj spomenik prirode nudi dvije goleme dvorane pune stalaktita. Nakon posjeta, istražujemo selo pješice prije povratka na ručak.\n\nPoslijepodne provodimo na padinama masiva Mosora, odakle se vidi sve do mora i otoka."
+        "hr": "Autom možete istražiti znamenitosti Dugopolja uz maksimalnu fleksibilnost. Početak je u mirnom središtu sela kod crkve sv. Mihovila.\n\nVožnja se nastavlja do zaselka Kotlenice i impresivne špilje Vranjače. Ovaj prirodni spomenik nudi dvije velike dvorane pune stalaktita. Nakon posjeta razgledamo selo pješice prije povratka na ručak.\n\nPoslijepodne provodimo na padinama masiva Mosor, odakle se pruža pogled sve do mora i otoka."
       },
       "gastro_picks": {
         "de": [
@@ -1228,9 +1228,9 @@
           "Combine the trip with a visit to Klis fortress."
         ],
         "hr": [
-          "Cesta do špilje je uska, vozite oprezno.",
+          "Cesta do špilje uska je, vozite pažljivo.",
           "Ne zaboravite jaknu za špilju.",
-          "Posjetite Dugopolje na sajmene dane (često subotom).",
+          "Posjetite Dugopolje na danima tržnice (često subota).",
           "Kombinirajte izlet s posjetom tvrđavi Klis."
         ]
       },
@@ -1241,7 +1241,7 @@
             "hu": "Autóval Dugopolje erős esőben is kényelmesen felfedezhető. A délelőtt szárazon indul a templomnál és a kávézónál. A Vranjača-barlang felé vezető út a legjobb választás esős napokra, mivel közvetlenül a bejáratnál parkolhat, és a föld alatt védve van. Ebédeljen meg egy meleg vendéglőben, élvezve a helyi ízeket. Délután a Mosor-hegy menti autózás drámai felhőalakzatokat kínál, majd a nap biztonságban és szárazon zárul az autóban.",
             "ro": "Cu mașina, Dugopolje este confortabil de explorat chiar și pe ploaie torențială. Dimineața începe la adăpost, la biserică și cafenea. Drumul spre peștera Vranjača este cea mai bună alegere pentru zilele ploioase, putând parca direct la intrare pentru a rămâne uscat. La prânz, savurați specialități regionale într-un restaurant călduros. După-amiaza, condusul pe lângă muntele Mosor oferă vederi dramatice asupra norilor, încheind ziua în siguranță.",
             "en": "By car, Dugopolje remains easy to explore even during heavy rain. Start your morning at the church and a nearby cafe. The trip to Vranjača Cave is the perfect rainy day activity, as you can park right by the entrance and stay dry underground. Enjoy regional specialties for lunch in a cozy restaurant. In the afternoon, driving along Mount Mosor offers dramatic views of the storm clouds before finishing your day warm and dry.",
-            "hr": "Automobilom Dugopolje ostaje lako za istraživanje čak i tijekom jake kiše. Započnite jutro kod crkve i obližnjeg kafića. Izlet u špilju Vranjaču savršena je aktivnost za kišni dan jer se možete parkirati tik uz ulaz i ostati suhi pod zemljom. Uživajte u regionalnim specijalitetima za ručak u ugodnom restoranu. Poslijepodne, vožnja uz planinu Mosor nudi dramatične poglede na olujne oblake prije nego što dan završite na toplom i suhom."
+            "hr": "Autom je Dugopolje lako istražiti i za vrijeme jake kiše. Započnite jutro kod crkve i obližnjeg kafića. Put do špilje Vranjače savršena je aktivnost za kišni dan jer se možete parkirati odmah uz ulaz i ostati suhi pod zemljom. Uživajte u regionalnim specijalitetima za ručak u ugodnom restoranu. Poslijepodne vožnja duž Mosora nudi dramatične poglede na olujne oblake prije nego što dan završite topli i suhi."
           },
           "stops": [
             {
@@ -1261,7 +1261,7 @@
                 "hu": "Megéri az a rövid sprint az autótól a kávézóig.",
                 "ro": "Un scurt sprint de la mașină la cafenea merită efortul.",
                 "en": "A quick dash from the car to the cafe is worth it for the coffee.",
-                "hr": "Brzi trk od auta do kafića isplati se zbog kave."
+                "hr": "Brzi dash od auta do kafića isplati se za kavu."
               }
             },
             {
@@ -1271,7 +1271,7 @@
                 "hu": "Ideális célpont autósoknak esős időben.",
                 "ro": "Destinația ideală pentru șoferi pe vreme ploioasă.",
                 "en": "The ideal destination for car travelers in rainy weather.",
-                "hr": "Idealno odredište za putnike automobilom po kišnom vremenu."
+                "hr": "Idealna destinacija za putnike automobilom po kišnom vremenu."
               }
             },
             {
@@ -1281,7 +1281,7 @@
                 "hu": "Maradjon az autóban a kilátásért, ha túl erősen esik.",
                 "ro": "Rămâneți în mașină pentru priveliște dacă plouă prea tare.",
                 "en": "Stay in the car for the views if the rain gets too heavy.",
-                "hr": "Ostanite u autu zbog pogleda ako kiša postane pre jaka."
+                "hr": "Ostanite u autu za poglede ako kiša postane prejaka."
               }
             },
             {
@@ -1291,7 +1291,7 @@
                 "hu": "Sok étterem rendelkezik nagy, száraz parkolóval.",
                 "ro": "Multe restaurante au parcări mari și accesibile.",
                 "en": "Many restaurants offer spacious and easy-to-access parking.",
-                "hr": "Mnogi restorani nude prostrano i lako dostupno parkiralište."
+                "hr": "Mnogi restorani nude prostrano i lako dostupno parkiranje."
               }
             },
             {
@@ -1301,7 +1301,7 @@
                 "hu": "Élvezze a felhők játékát biztonságban az autóból.",
                 "ro": "Bucurați-vă de spectacolul norilor din siguranța vehiculului.",
                 "en": "Watch the clouds dance over the peaks from the safety of your car.",
-                "hr": "Gledajte oblake kako plešu nad vrhovima iz sigurnosti svog automobila."
+                "hr": "Promatrajte oblačne igre nad vrhovima iz sigurnosti auta."
               }
             },
             {
@@ -1341,10 +1341,10 @@
               "Take advantage of parking spots right next to the attractions."
             ],
             "hr": [
-              "Provjerite brisače vjetrobranskog stakla prije polaska.",
-              "Ceste mogu biti skliske na kiši zbog ostataka maslinovog ulja u nekim područjima.",
-              "Špilja Vranjača je savršena jer zahtijeva minimalno hodanje vani.",
-              "Iskoristite parkirna mjesta odmah pored atrakcija."
+              "Provjerite metlice brisača prije polaska.",
+              "Ceste mogu biti klizave po kiši zbog maslinovog ulja na nekim dionicama.",
+              "Špilja Vranjača je savršena jer zahtijeva minimalnu šetnju na otvorenom.",
+              "Iskoristite parkirna mjesta odmah uz atrakcije."
             ]
           }
         },
@@ -1354,7 +1354,7 @@
             "hu": "A téli autós túra Dugopoljén keresztül biztonságos és meleg. Délelőtt látogassa meg a templomot, és élvezze a hideg levegő és a meleg kávézó közötti kontrasztot. A Kotlenice felé vezető út tágas kilátást nyújt a téli karsztvidékre. A Vranjača-barlang kellemes pihenő, mivel fagymentes marad. Egy bőséges ebéd után az útvonal felvezet a Mosorra, ahol kis szerencsével havat is láthat. A nap korán ér véget a téli naplemente fényében.",
             "ro": "Un tur de iarnă cu mașina prin Dugopolje este sigur și călduros. Dimineața vizitați biserica și savurați contrastul dintre aerul rece și cafeneaua caldă. Drumul spre Kotlenice oferă vederi largi asupra peisajului carstic de iarnă. Peștera Vranjača este o oprire plăcută, rămânând ferită de îngheț. După un prânz consistent, ruta urcă spre Mosor, unde cu puțin noroc puteți vedea zăpadă. Ziua se încheie devreme cu o ultimă panoramă de iarnă.",
             "en": "A winter car tour through Dugopolje is safe and warm. Visit the church in the morning and enjoy the contrast between the cold air and a warm cafe. The drive to Kotlenice offers expansive views of the winter karst landscape. Vranjača Cave is a pleasant stop as it remains frost-free. After a hearty lunch, head up towards Mount Mosor, where you might even spot some snow. The day concludes early with a final panoramic view in the warm winter sunlight.",
-            "hr": "Zimska tura automobilom kroz Dugopolje je sigurna i topla. Posjetite crkvu ujutro i uživajte u kontrastu između hladnog zraka i toplog kafića. Vožnja do Kotlenica nudi prostrane poglede na zimski krški krajolik. Špilja Vranjača je ugodna postaja jer u njoj nema mraza. Nakon krepkog ručka, uputite se prema planini Mosor, gdje biste mogli uočiti i nešto snijega. Dan završava rano uz finalni panoramski pogled na toplom zimskom suncu."
+            "hr": "Zimska vožnja autom kroz Dugopolje sigurna je i topla. Posjetite crkvu ujutro i uživajte u kontrastu hladnog zraka i toplog kafića. Vožnja do Kotlenica nudi široke poglede na zimsku kršku krajinu. Špilja Vranjača ugodna je stanica jer ostaje bez mraza. Nakon obilnog ručka uputite se prema planini Mosor, gdje biste čak mogli vidjeti i snijeg. Dan završava rano završnim panoramskim pogledom u toplom zimskom suncu."
           },
           "stops": [
             {
@@ -1364,7 +1364,7 @@
                 "hu": "Vigyázzon a zúzmarás kőlépcsőkre a templomnál.",
                 "ro": "Atenție la chiciura de pe treptele de piatră ale bisericii.",
                 "en": "Watch out for frost on the stone steps of the church.",
-                "hr": "Pazite na mraz na kamenim stubama crkve."
+                "hr": "Pazite na poledicu na kamenim stepenicama crkve."
               }
             },
             {
@@ -1374,7 +1374,7 @@
                 "hu": "Melegedjen fel, mielőtt továbbhajt a hátország felé.",
                 "ro": "Încălziți-vă bine înainte de a continua drumul spre interior.",
                 "en": "Warm up here before continuing your drive into the hinterland.",
-                "hr": "Zagrijte se ovdje prije nastavka vožnje u zaleđe."
+                "hr": "Ovdje se ugrijte prije nego što nastavite vožnju u zaleđe."
               }
             },
             {
@@ -1384,7 +1384,7 @@
                 "hu": "Télen gyakran melegebb, mint a kinti levegő – ne hagyja ki.",
                 "ro": "Iarna este adesea mai cald decât afară – de neratat.",
                 "en": "Often warmer than the outside air in winter – a must-visit.",
-                "hr": "Često toplije od vanjskog zraka zimi – obavezan posjet."
+                "hr": "Često je toplije nego vanjski zrak zimi – nezaobilazno mjesto."
               }
             },
             {
@@ -1394,7 +1394,7 @@
                 "hu": "Egy rövid fotómegálló bőven elég a jeges Bura szélben.",
                 "ro": "O scurtă oprire foto este suficientă pe vântul înghețat.",
                 "en": "A short photo stop is plenty in the freezing Bura wind.",
-                "hr": "Kratka stanka za fotografiranje sasvim je dovoljna na ledenoj buri."
+                "hr": "Kratka fotografska pauza dovoljna je u oštroj buri."
               }
             },
             {
@@ -1404,7 +1404,7 @@
                 "hu": "Keressen egy nyitott kandallóval rendelkező konobát.",
                 "ro": "Căutați o konoba cu șemineu deschis.",
                 "en": "Look for a konoba with an open fireplace.",
-                "hr": "Potražite konobu s otvorenim kaminom."
+                "hr": "Potražite konobu s otvorenim ognjištem."
               }
             },
             {
@@ -1414,7 +1414,7 @@
                 "hu": "Az utak a magasabb részeken csúszósak lehetnek.",
                 "ro": "Drumurile pot fi alunecoase la altitudini mai mari.",
                 "en": "Roads can be slippery at higher elevations.",
-                "hr": "Ceste mogu biti skliske na većim visinama."
+                "hr": "Ceste mogu biti skliske na većim nadmorskim visinama."
               }
             },
             {
@@ -1455,9 +1455,9 @@
             ],
             "hr": [
               "Zimske gume su obavezne ako vozite prema planini Mosor.",
-              "Bura može otežati vožnju visokim vozilima.",
-              "Provjerite imate li antifriz u tekućini za pranje stakla.",
-              "Planirajte povratak prije 17:00 sati zbog ranog mraka."
+              "Bura može otežati vožnju vozilima s visokim profilom.",
+              "Provjerite imate li antifriz u tekućini za pranje vjetrobrana.",
+              "Planirajte povratak prije 17:00 zbog ranog sumraka."
             ]
           }
         }
@@ -1563,7 +1563,7 @@
             "hu": "Buszra várás a kávézóban.",
             "ro": "Așteptați autobuzul la cafenea.",
             "en": "Wait for the bus at the café.",
-            "hr": "Čekajte autobus u kafiću."
+            "hr": "Pričekajte autobus u kafiću."
           }
         }
       ],
@@ -1572,7 +1572,7 @@
         "hu": "Dugopolje jól megközelíthető busszal Splitből. Ez a terv a történelmi magra és a helyi gasztronómiára összpontosít.\n\nÉrkezés után látogassa meg a plébániatemplomot, és sétáljon a régi utcákon, amelyek hiteles betekintést nyújtanak a hátországi életbe.\n\nEgy bőséges ebéd az egyik kiváló konobában a nap fénypontja, mielőtt visszautazna busszal Splitbe.",
         "ro": "Dugopolje este ușor accesibil cu autobuzul din Split. Acest plan se concentrează pe nucleul istoric și pe gastronomia locală.\n\nDupă sosire, vizitați biserica parohială și plimbați-vă pe străzile vechi care oferă o privire autentică asupra vieții din hinterland.\n\nUn prânz copios la una dintre excelentele konobe este punctul culminant, înainte de a lua autobuzul înapoi spre Split.",
         "en": "Dugopolje is easily accessible by bus from Split. This plan focuses on the historical core and local gastronomy.\n\nAfter arrival, visit the parish church and stroll through the old streets, which offer an authentic glimpse into life in the hinterland.\n\nA hearty lunch in one of the excellent taverns is the highlight before heading back to Split by bus.",
-        "hr": "Dugopolje je lako dostupno autobusom iz Splita. Ovaj plan se fokusira na povijesnu jezgru i lokalnu gastronomiju.\n\nNakon dolaska posjetite župnu crkvu i prošećite starim ulicama koje nude autentičan uvid u život u zaleđu.\n\nKrepki ručak u jednoj od izvrsnih konoba vrhunac je prije povratka u Split autobusom."
+        "hr": "Dugopolje je lako dostupno autobusom iz Splita. Ovaj plan fokusira se na povijesno središte i lokalnu gastronomiju.\n\nPo dolasku posjetite župnu crkvu i prošetajte starim ulicama koje nude autentičan uvid u život zaleđa.\n\nSrčani ručak u jednoj od izvrsnih konoba vrhunac je prije povratka u Split autobusom."
       },
       "gastro_picks": {
         "de": [
@@ -1701,9 +1701,9 @@
           "Tickets can usually be bought from the driver."
         ],
         "hr": [
-          "Autobusi redovito voze s glavnog kolodvora u Splitu.",
-          "Autobusne veze su rjeđe nedjeljom.",
-          "Putovanje traje oko 20-30 minuta.",
+          "Autobusi voze redovito s glavnog kolodvora u Splitu.",
+          "Autobusne veze rjeđe su nedjeljom.",
+          "Putovanje traje oko 20–30 minuta.",
           "Karte se obično mogu kupiti kod vozača."
         ]
       },
@@ -1714,7 +1714,7 @@
             "hu": "Az esős nap Dugopoljében busszal némi türelmet igényel. Kezdje a buszmegállónál, és keressen gyorsan menedéket a közeli templomban. Ebédre egy hosszú pihenő a meleg konobában ideális az eső elkerülésére. Mivel a faluban sok út fedetlen, érdemes a buszok közötti időt hangulatos kávézókban tölteni. A nap a buszmegállóban zárul, ahonnan ködös pillantást vethet a Mosorra, mielőtt megérkezik a busz Split felé.",
             "ro": "O zi ploioasă cu autobuzul în Dugopolje necesită puțină răbdare. Începeți de la autogară și găsiți rapid adăpost în biserica din apropiere. La prânz, o pauză lungă într-o konoba caldă este ideală pentru a evita ploaia. Deoarece multe drumuri din sat sunt neprotejate, se recomandă petrecerea timpului între autobuze în cafenele primitoare. Ziua se încheie la stație, cu vederi cețoase spre Mosor înainte de plecare.",
             "en": "A rainy day using transit in Dugopolje requires a bit of patience. Start at the bus station and quickly head to the nearby church for shelter. A long lunch in a warm konoba is the best way to avoid the mid-day rain. Since many village paths are unsheltered, spend your time between buses in cozy local cafes. The day ends back at the bus stop, offering misty views of Mount Mosor before your return journey.",
-            "hr": "Kišni dan uz korištenje javnog prijevoza u Dugopolju zahtijeva malo strpljenja. Počnite na autobusnoj stanici i brzo se uputite do obližnje crkve radi zaklona. Dugi ručak u toploj konobi najbolji je način za izbjegavanje podnevne kiše. Budući da mnoge seoske staze nemaju zaklon, provedite vrijeme između autobusa u ugodnim lokalnim kafićima. Dan završava povratkom na autobusnu stanicu, uz maglovite poglede na planinu Mosor prije povratka."
+            "hr": "Kišni dan korištenja tranzita u Dugopolju zahtijeva malo strpljenja. Krenite od autobusnog kolodvora i brzo se sklonite u obližnju crkvu. Dugi ručak u toploj konobi najbolji je način da izbjegnete srednjodnevnu kišu. Budući da su mnogi seoski putovi nezaštićeni, vrijeme između autobusa provedite u udobnim lokalnim kafićima. Dan završava natrag na autobusnoj stanici, s maglovitim pogledom na planinu Mosor prije povratka."
           },
           "stops": [
             {
@@ -1724,7 +1724,7 @@
                 "hu": "Keressen menedéket a megálló teteje alatt.",
                 "ro": "Căutați adăpost sub copertina stației.",
                 "en": "Look for shelter under the bus stop roof.",
-                "hr": "Potražite zaklon pod krovom autobusne stanice."
+                "hr": "Potražite zaklon ispod krova autobusne stanice."
               }
             },
             {
@@ -1744,7 +1744,7 @@
                 "hu": "Maradjon a kövezett utakon a sár elkerülése érdekében.",
                 "ro": "Rămâneți pe drumurile pavate pentru a evita noroiul.",
                 "en": "Stick to paved paths to avoid getting muddy.",
-                "hr": "Držite se popločanih staza kako biste izbjegli blato."
+                "hr": "Držite se asfaltiranih staza kako biste izbjegli blato."
               }
             },
             {
@@ -1754,7 +1754,7 @@
                 "hu": "Kérdezze a helyieket a buszok aktuális menetrendjéről.",
                 "ro": "Întrebați localnicii despre orarul actual al autobuzelor.",
                 "en": "Ask the locals for any updates on the bus schedule.",
-                "hr": "Pitajte mještane za bilo kakve promjene u voznom redu autobusa."
+                "hr": "Pitajte mještane za eventualne novosti o redu vožnje autobusa."
               }
             },
             {
@@ -1764,7 +1764,7 @@
                 "hu": "Használja a kávézót meleg váróteremként.",
                 "ro": "Utilizați cafeneaua ca o sală de așteptare călduroasă.",
                 "en": "Use the cafe as a warm waiting area before your bus arrives.",
-                "hr": "Koristite kafić kao toplo mjesto za čekanje prije dolaska autobusa."
+                "hr": "Iskoristite kafić kao toplo mjesto za čekanje prije dolaska autobusa."
               }
             }
           ],
@@ -1794,10 +1794,10 @@
               "Have your mobile ticket or small change ready for the driver."
             ],
             "hr": [
-              "Nosite vodootpornu opremu jer na autobusnim stanicama može biti propuha.",
-              "Unaprijed provjerite vozni red autobusa Split-Dugopolje (linija 35) na internetu.",
-              "Konobe su sjajne za čekanje da pljusak prođe uz obrok.",
-              "Pripremite mobilnu kartu ili sitan novac za vozača."
+              "Nosite vodootpornu opremu jer su autobusna stajališta često propuhana.",
+              "Provjerite online raspored Split–Dugopolje (linija 35) unaprijed.",
+              "Konobe su izvrsne za čekanje prestanka pljuskova uz obrok.",
+              "Imate spremnu mobilnu kartu ili sitniš za vozača."
             ]
           }
         },
@@ -1807,7 +1807,7 @@
             "hu": "A téli kirándulás tömegközlekedéssel Dugopoljébe frissítő élmény. Megérkezés után melegedjen fel a legközelebbi kávézóban. A templom békés hangulatot áraszt a téli hidegben. Az ebéd egy konobában a nap fénypontja, ahol helyi ételekkel melegedhet fel. Délután jut idő egy rövid falusi sétára, mielőtt a korai szürkület előtt visszatérne a buszmegállóba. A Mosor-hegy ködös látványa teszi teljessé a téli élményt.",
             "ro": "O excursie de iarnă cu transportul public în Dugopolje este revigorantă. După sosire, încălziți-vă în cea mai apropiată cafenea. Biserica oferă o atmosferă liniștită în frigul iernii. Prânzul într-o konoba este punctul culminant, încălzindu-vă cu preparate locale. După-amiaza rămâne timp pentru un scurt tur al satului înainte de a reveni la stație înainte de lăsarea serii. Vederea cețoasă spre muntele Mosor completează experiența de iarnă.",
             "en": "A winter trip to Dugopolje by transit is a refreshing escape. After arriving, warm up at the nearest cafe. The church provides a peaceful atmosphere amidst the winter chill. Lunch in a local konoba is the highlight, where you can warm up with traditional dishes. In the afternoon, take a quick walk through the village before heading back to the bus stop before the early dusk. The misty winter views of Mount Mosor complete the experience.",
-            "hr": "Zimski izlet u Dugopolje javnim prijevozom osvježavajući je bijeg. Nakon dolaska, zagrijte se u najbližem kafiću. Crkva pruža mirnu atmosferu usred zimske hladnoće. Ručak u lokalnoj konobi je vrhunac, gdje se možete zagrijati uz tradicionalna jela. Poslijepodne kratko prošećite selom prije povratka na autobusnu stanicu prije ranog sumraka. Magloviti zimski pogledi na planinu Mosor upotpunjuju doživljaj."
+            "hr": "Zimski izlet u Dugopolje javnim prijevozom osvježavajuće je iskustvo. Po dolasku ugrijte se u najbližem kafiću. Crkva pruža mirnu atmosferu usred zimske hladnoće. Ručak u lokalnoj konobi je vrhunac, gdje ćete se ugrijati tradicionalnim jelima. Popodne prošećite kroz selo prije povratka na autobusnu stanicu prije ranog sumraka. Magloviti zimski pogledi na planinu Mosor zaokružuju doživljaj."
           },
           "stops": [
             {
@@ -1817,7 +1817,7 @@
                 "hu": "Álljon szélvédett helyre a hideg Bura elől.",
                 "ro": "Stați la adăpostul vântului împotriva vântului rece Bura.",
                 "en": "Stand in a sheltered spot to hide from the cold Bura wind.",
-                "hr": "Stanite na zaklonjeno mjesto kako biste se sakrili od hladne bure."
+                "hr": "Stanite u zaklonjeno mjesto kako biste se sklonili od hladne bure."
               }
             },
             {
@@ -1827,7 +1827,7 @@
                 "hu": "Hordja a kesztyűt és sapkát a templomban is.",
                 "ro": "Păstrați-vă mănușile și căciula în interiorul bisericii.",
                 "en": "Keep your gloves and hat on even inside the church.",
-                "hr": "Ostavite rukavice i kapu na sebi čak i unutar crkve."
+                "hr": "Držite rukavice i kapu čak i unutar crkve."
               }
             },
             {
@@ -1837,7 +1837,7 @@
                 "hu": "A téli nap alacsonyan jár, vigyázzon a fényviszonyokra fotózáskor.",
                 "ro": "Soarele de iarnă este jos, atenție la reflexii când fotografiați.",
                 "en": "The winter sun is low and can be quite bright when taking photos.",
-                "hr": "Zimsko sunce je nisko i može biti prilično sjajno pri fotografiranju."
+                "hr": "Zimsko sunce je nisko i može jako zaslijepiti pri fotografiranju."
               }
             },
             {
@@ -1847,7 +1847,7 @@
                 "hu": "Egy forró dalmát egytálétel most pont megfelelő.",
                 "ro": "O tocană dalmațiană fierbinte este exact ce trebuie acum.",
                 "en": "A hot Dalmatian stew is just what you need right now.",
-                "hr": "Toplo dalmatinsko varivo je upravo ono što vam sada treba."
+                "hr": "Vrući dalmatinski paprikaš upravo je ono što vam treba sada."
               }
             },
             {
@@ -1857,7 +1857,7 @@
                 "hu": "Kérdezze meg, van-e forralt bor (kuhano vino).",
                 "ro": "Întrebați dacă au vin fiert (kuhano vino).",
                 "en": "Ask for 'kuhano vino' (mulled wine) if available.",
-                "hr": "Pitajte za kuhano vino ako je dostupno."
+                "hr": "Zatražite 'kuhano vino' ako je dostupno."
               }
             }
           ],
@@ -1887,10 +1887,10 @@
               "Sunset is as early as 4:30 PM in the winter months."
             ],
             "hr": [
-              "Autobusi voze prema standardnom zimskom voznom redu.",
-              "Nosite tople čarape; čekanje na autobusnim stanicama može vam brzo ohladiti noge.",
-              "Iskoristite mjesta u zatvorenim dijelovima kafića za zagrijavanje.",
-              "Zalazak sunca je već u 16:30 u zimskim mjesecima."
+              "Autobusi voze prema uobičajenom zimskom redu vožnje.",
+              "Nosite tople čarape; čekanje na stajalištima brzo hladi noge.",
+              "Iskoristite unutarnje sjedenje u kafiću da se ugrijete.",
+              "Sunce zalazi već oko 16:30 tijekom zimskih mjeseci."
             ]
           }
         }

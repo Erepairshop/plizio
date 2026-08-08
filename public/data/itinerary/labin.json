@@ -21,7 +21,8 @@
             "de": "Porta San Fior",
             "hu": "Porta San Fior",
             "ro": "Porta San Fior",
-            "en": "Porta San Fior"
+            "en": "Porta San Fior",
+            "hr": "Porta San Fior"
           },
           "coords": [
             14.1238,
@@ -37,7 +38,7 @@
             "hu": "Figyelje meg a kapu feletti velencei oroszlánt.",
             "ro": "Observați leul venețian de deasupra porții.",
             "en": "Look for the Venetian lion above the gate.",
-            "hr": "Potražite mletačkog lava iznad vrata."
+            "hr": "Potražite venecijanskog lava iznad vrata."
           }
         },
         {
@@ -45,7 +46,8 @@
             "de": "Altstadt Labin",
             "hu": "Labin óvárosa",
             "ro": "Orașul vechi Labin",
-            "en": "Old Town Labin"
+            "en": "Old Town Labin",
+            "hr": "Stari grad Labin"
           },
           "coords": [
             14.1245,
@@ -61,7 +63,7 @@
             "hu": "A színes homlokzatok tökéletesek a fotózáshoz.",
             "ro": "Fațadele colorate sunt perfecte pentru fotografii.",
             "en": "The colorful facades are perfect for photos.",
-            "hr": "Šarena pročelja savršena su za fotografije."
+            "hr": "Šarene fasade savršene su za fotografije."
           }
         },
         {
@@ -69,7 +71,8 @@
             "de": "Stadtmuseum Labin",
             "hu": "Labini Városi Múzeum",
             "ro": "Muzeul Orașului Labin",
-            "en": "Labin City Museum"
+            "en": "Labin City Museum",
+            "hr": "Gradski muzej Labin"
           },
           "coords": [
             14.1252,
@@ -93,7 +96,8 @@
             "de": "Mariä-Geburt-Kirche",
             "hu": "Mária születése templom",
             "ro": "Biserica Nașterea Sf. Maria",
-            "en": "Parish Church of Blessed Virgin Mary"
+            "en": "Parish Church of Blessed Virgin Mary",
+            "hr": "Župna crkva Blažene Djevice Marije"
           },
           "coords": [
             14.126,
@@ -109,7 +113,7 @@
             "hu": "Csodálja meg a velencei oltárképeket.",
             "ro": "Admirați picturile de altar venețiene.",
             "en": "Admire the Venetian altar paintings.",
-            "hr": "Divite se mletačkim oltarnim slikama."
+            "hr": "Divite se venecijanskim oltarnim slikama."
           }
         },
         {
@@ -117,7 +121,8 @@
             "de": "Fortica Aussichtspunkt",
             "hu": "Fortica kilátó",
             "ro": "Punct de belvedere Fortica",
-            "en": "Fortica Viewpoint"
+            "en": "Fortica Viewpoint",
+            "hr": "Vidikovac Fortica"
           },
           "coords": [
             14.1265,
@@ -141,7 +146,8 @@
             "de": "Palais Negri",
             "hu": "Negri Palota",
             "ro": "Palatul Negri",
-            "en": "Negri Palace"
+            "en": "Negri Palace",
+            "hr": "Palača Negri"
           },
           "coords": [
             14.1258,
@@ -157,7 +163,7 @@
             "hu": "Kóstolja meg a helyi olívaolajat a termelőnél.",
             "ro": "Gustați uleiul de măsline local direct de la producător.",
             "en": "Taste the local olive oil directly at the producer.",
-            "hr": "Kušajte domaće maslinovo ulje izravno kod proizvođača."
+            "hr": "Probajte lokalno maslinovo ulje izravno kod proizvođača."
           }
         },
         {
@@ -165,7 +171,8 @@
             "de": "Bergbauschacht Šoht",
             "hu": "Bányászati Šoht",
             "ro": "Turnul minier Šoht",
-            "en": "Mining Šoht"
+            "en": "Mining Šoht",
+            "hr": "Rudnik Šoht"
           },
           "coords": [
             14.122,
@@ -190,7 +197,7 @@
         "hu": "Kezdje a napot a velencei Porta San Fior városkapunál, és merüljön el az óváros színes utcáiban. A Városi Múzeum lenyűgöző betekintést nyújt a bányászat történetébe egy élethű tárnával.\n\nDélben élvezze a panorámát a Fortica kilátóról, majd a patinás Negri-palotában kóstoljon helyi finomságokat és olívaolajat. A napot a város ipari örökségét jelképező Šoht bányatoronynál zárja.",
         "ro": "Începeți ziua la poarta venețiană Porta San Fior și explorați străzile colorate ale orașului vechi. Muzeul Orașului oferă o perspectivă fascinantă asupra istoriei miniere, incluzând o galerie de mină reală.\n\nLa prânz, bucurați-vă de panorama de la Fortica, înainte de a gusta delicii locale și ulei de măsline în Palatul Negri. Încheiați ziua vizitând patrimoniul industrial la turnul minier Šoht.",
         "en": "Start your day at the Venetian Porta San Fior gate and dive into the colorful streets of the old town. The City Museum offers a fascinating look into mining history, including an authentic tunnel.\n\nAt midday, enjoy the panoramic view from Fortica before tasting local delicacies and olive oil at the historic Negri Palace. Finish your tour by visiting the industrial heritage at the striking Šoht mining tower.",
-        "hr": "Započnite dan kod mletačkih vrata Porta San Fior i uronite u šarene ulice starog grada. Narodni muzej nudi fascinantan uvid u povijest rudarstva, uključujući autentični tunel.\n\nU podne uživajte u panoramskom pogledu s Fortice prije kušanja lokalnih delicija i maslinovog ulja u povijesnoj palači Negri. Završite obilazak posjetom industrijskoj baštini kod upečatljivog rudarskog tornja Šoht."
+        "hr": "Započnite dan kod venecijanske Porte San Fior i uronite u šarene ulice starog grada. Gradski muzej nudi fascinantan uvid u rudarsku povijest, uključujući autentični tunel.\n\nU podne uživajte u panoramskom pogledu s Fortice prije kušanja lokalnih delicija i maslinovog ulja u povijesnoj palači Negri. Završite obilazak posjetom industrijskoj baštini kod upečatljivog rudarskog tornja Šoht."
       },
       "gastro_picks": {
         "de": [
@@ -339,10 +346,10 @@
           "Combine the visit with a trip to the Dubrova Sculpture Park."
         ],
         "hr": [
-          "Nosite udobnu obuću za popločane ulice u starom gradu.",
+          "Nosite udobnu obuću zbog kaldrme u starom gradu.",
           "Parkirajte na velikom parkiralištu ispod tvrđave.",
           "Posjetite muzej ujutro kako biste izbjegli gužve.",
-          "Kombinirajte posjet s izletom u Park skulptura Dubrova."
+          "Kombinirajte posjet s izletom do Parka skulptura Dubrova."
         ]
       },
       "variants": {
@@ -352,7 +359,7 @@
             "hu": "Kezdje a napot a San Fior kapunál, ahol az esőben csillognak a kövek. Az óváros szűk utcái némi védelmet nyújtanak a záporok elől. Délben vonuljon be a Nemzeti Múzeumba, ahol a bányajáratok között szárazon fedezheti fel a múltat. Délután a Mária születése templom és a Palazzo Negri kínál menedéket a csapadék elől. A Fortica kilátó esőben különösen misztikus, ahogy a köd ráül a tengerpartra. Az estét Podlabin ipari örökségénél zárja, ahol az eső áztatta aknatorony látványa különleges hangulatot áraszt.",
             "ro": "Începeți ziua la Poarta San Fior, unde piatra strălucește sub ploaie. Străzile înguste ale centrului vechi oferă adăpost natural împotriva picăturilor. La prânz, retrageți-vă la Muzeul Național pentru a explora istoria mineritului în tunelurile uscate. După-amiaza, vizitați Biserica Nașterii Maicii Domnului și Palazzo Negri pentru a rămâne la adăpost. Vederea de la Fortica este mistică pe ploaie, cu ceața ridicându-se peste Rabac. Încheiați ziua la moștenirea minieră din Podlabin, unde atmosfera industrială devine melancolică sub cerul gri.",
             "en": "Start your day at San Fior Gate, where the stones glisten in the rain. The narrow streets of the Old Town offer some natural cover from the showers. At noon, retreat to the National Museum to explore mining history inside the dry tunnels. The afternoon leads you to the Church and Palazzo Negri, both perfect spots to stay warm. The view from Fortica is particularly mystical in the rain as mist rises over Rabac. End the day at the Podlabin Mining Heritage, where the industrial atmosphere feels uniquely evocative under the rain.",
-            "hr": "Započnite dan kod vrata San Fior, gdje kamenje blista na kiši. Uski sokaci Starog grada nude prirodni zaklon od pljuskova. U podne se povucite u Narodni muzej kako biste istražili povijest rudarstva unutar suhih tunela. Poslijepodne vas vodi do crkve i palače Negri, oba savršena mjesta za boravak na toplom. Pogled s Fortice posebno je mističan na kiši dok se magla diže iznad Rapca. Završite dan kod rudarske baštine Podlabina, gdje industrijska atmosfera djeluje jedinstveno evokativno pod kišom."
+            "hr": "Započnite dan kod vrata San Fior, gdje kamenovi blistaju u kiši. Uske ulice Starog grada nude prirodni zaklon od pljuskova. U podne povucite se u Narodni muzej i istražite rudarsku povijest u suhim tunelima. Poslijepodne posjetite crkvu i palaču Negri, oba idealna mjesta za ostati toplo. Pogled s Fortice posebno je mističan u kiši dok se iznad Rabca diže magla. Dan završite u Podlabinskoj rudarskoj baštini, gdje industrijska atmosfera pod kišom djeluje osobito sugestivno."
           },
           "stops": [
             {
@@ -362,7 +369,7 @@
                 "hu": "Vigyázat, a kapu alatti macskakő vizesen nagyon csúszós.",
                 "ro": "Atenție, pavajul de sub poartă este foarte alunecos când este ud.",
                 "en": "Be careful, the cobblestones under the gate are very slippery when wet.",
-                "hr": "Budite oprezni, kamene kocke ispod vrata postaju vrlo skliske kad su mokre."
+                "hr": "Pazite, kaldrma ispod vrata vrlo je skliska kad je mokra."
               }
             },
             {
@@ -372,7 +379,7 @@
                 "hu": "Használja a szűk utcákat szél- és esővédőként séta közben.",
                 "ro": "Folosiți străzile înguste ca protecție împotriva vântului și ploii.",
                 "en": "Use the narrow alleys as wind and rain protection while walking.",
-                "hr": "Koristite uske uličice kao zaštitu od vjetra i kiše tijekom hoda."
+                "hr": "Koristite uske uličice kao zaštitu od vjetra i kiše tijekom hodanja."
               }
             },
             {
@@ -392,7 +399,7 @@
                 "hu": "Élvezze a csendet és a száraz belsőt ebben a történelmi templomban.",
                 "ro": "Bucurați-vă de liniștea și interiorul uscat al acestei biserici istorice.",
                 "en": "Enjoy the silence and the dry interior of this historic church.",
-                "hr": "Uživajte u tišini i suhoj unutrašnjosti ove povijesne crkve."
+                "hr": "Uživajte u tišini i suhom interijeru ove povijesne crkve."
               }
             },
             {
@@ -402,7 +409,7 @@
                 "hu": "Nagyszerű hely egy rövid szünetre az árkádok alatt vagy bent.",
                 "ro": "Un loc excelent pentru o scurtă pauză sub arcade sau în interior.",
                 "en": "A great spot for a short break under the arches or inside.",
-                "hr": "Odlično mjesto za kratki predah ispod lukova ili unutra."
+                "hr": "Sjajno mjesto za kratki predah ispod arkada ili unutra."
               }
             },
             {
@@ -412,7 +419,7 @@
                 "hu": "Fogja erősen az esernyőt, mert itt fent nagyon szeles lehet az idő.",
                 "ro": "Țineți bine umbrela, deoarece aici sus poate fi foarte vânt.",
                 "en": "Hold your umbrella firmly as it can be very windy up here.",
-                "hr": "Čvrsto držite kišobran jer ovdje gore može biti vrlo vjetrovito."
+                "hr": "Držite kišobran čvrsto jer ovdje može jako puhati."
               }
             },
             {
@@ -452,10 +459,10 @@
               "The view from Fortica is worth visiting even in rain for the light and mist."
             ],
             "hr": [
-              "Nosite vodootpornu obuću jer se na neravnim ulicama starog grada mogu stvoriti lokve.",
-              "Narodni muzej pruža sate zaklona od jake kiše.",
-              "Iskoristite brojne kafiće u starom gradu za pauze uz topli napitak.",
-              "Pogled s Fortice vrijedi posjetiti i po kiši zbog posebnog svjetla i magle."
+              "Nosite vodootpornu obuću jer se u neravnim starogradskim ulicama mogu formirati lokve.",
+              "Nacionalni muzej pruža višesatni zaklon od jake kiše.",
+              "Iskoristite brojne kafiće u starom gradu za ugrijavanje.",
+              "Pogled s Fortice vrijedi posjetiti i po kiši zbog svjetla i maglice."
             ]
           }
         },
@@ -465,7 +472,7 @@
             "hu": "Kezdje téli sétáját a hűvös San Fior kapunál. Labin óvárosa télen csendes és bájos, a nyári tömeg nélkül. Délben melegedjen fel a Nemzeti Múzeumban, miközben elmerül a bányászat mélységeiben. Délután a templom nyújt egy pillanatnyi nyugalmat a hűvös, de szélvédett környezetben. Nézze meg a korai naplementét 16:30 körül a Fortica kilátóból, amikor Rabac fényei kigyúlnak odalent. Zárja a napot Podlabinban, ahol a hideg levegő élesen kirajzolja az ipari táj sziluettjét.",
             "ro": "Începeți plimbarea de iarnă la răcoroasa Poartă San Fior. Orașul vechi Labin este liniștit și fermecător iarna, fără mulțimile de vară. La prânz, încălziți-vă în Muzeul Național în timp ce explorați adâncimile minei. După-amiaza, biserica oferă un moment de reflecție într-un mediu răcoros, dar protejat de vânt. Urmăriți apusul devreme, în jurul orei 16:30, de la Fortica, când luminile din Rabac încep să sclipească. Încheiați ziua în Podlabin, unde aerul rece scoate în evidență silueta industrială.",
             "en": "Begin your winter walk at the chilly San Fior Gate. Labin's Old Town is quiet and charming in winter, devoid of summer crowds. At noon, warm up in the National Museum while diving into the depths of the mine. In the afternoon, the church offers a moment of reflection in a cool but wind-protected environment. Watch the early sunset around 4:30 PM from Fortica as the lights of Rabac begin to twinkle below. End the day in Podlabin, where the cold air sharply highlights the industrial silhouette.",
-            "hr": "Započnite svoju zimsku šetnju kod prohladnih vrata San Fior. Labinski Stari grad zimi je miran i šarmantan, bez ljetnih gužvi. U podne se zagrijte u Narodnom muzeju dok zaranjate u dubine rudnika. Poslijepodne crkva nudi trenutak promišljanja u hladnom, ali od vjetra zaštićenom okruženju. Pratite rani zalazak sunca oko 16:30 s Fortice dok svjetla Rapca počinju svjetlucati ispod vas. Završite dan u Podlabinu, gdje hladan zrak oštro naglašava industrijsku siluetu."
+            "hr": "Započnite zimsku šetnju na hladnoj Vrati San Fior. Labinov Stari Grad u zimi je tih i šarmantan, bez ljetnih gužvi. U podne se ugrijte u Gradskom muzeju dok zaranjate u dubine rudnika. Poslijepodne crkva nudi trenutak razmišljanja u hladnom, ali za vjetar zaštićenom prostoru. Promatrajte rani zalazak sunca oko 16:30 s Fortice dok se svjetla Rabca počinju treptati dolje. Dan završite u Podlabinu, gdje hladan zrak oštro ističe industrijski siluetu."
           },
           "stops": [
             {
@@ -475,7 +482,7 @@
                 "hu": "Öltözzön rétegesen, a kapun keresztül gyakran behúz a hideg szél.",
                 "ro": "Îmbrăcați-vă gros, vântul trece adesea prin poarta deschisă.",
                 "en": "Dress warmly, as the wind often whistles through the open gate.",
-                "hr": "Odjenite se toplo jer vjetar često zviždi kroz otvorena vrata."
+                "hr": "Obucite se toplo, jer vjetar često zviždi kroz otvorena vrata."
               }
             },
             {
@@ -485,7 +492,7 @@
                 "hu": "Élvezze a téli nyugalmat a szinte üres középkori utcákon.",
                 "ro": "Bucurați-vă de liniștea iernii pe străzile medievale aproape goale.",
                 "en": "Enjoy the winter tranquility in the nearly empty medieval streets.",
-                "hr": "Uživajte u zimskom miru u gotovo praznim srednjovjekovnim ulicama."
+                "hr": "Uživajte u zimskoj spokojnosti u gotovo praznim srednjovjekovnim ulicama."
               }
             },
             {
@@ -495,7 +502,7 @@
                 "hu": "Ideális helyszín, hogy egy időre elmeneküljön a téli hideg elől.",
                 "ro": "Un loc ideal pentru a scăpa de frigul iernii pentru o vreme.",
                 "en": "An ideal place to escape the winter cold for a while.",
-                "hr": "Idealno mjesto za kratki bijeg od zimske hladnoće."
+                "hr": "Idealno mjesto da na trenutak pobjegnete od zime."
               }
             },
             {
@@ -505,7 +512,7 @@
                 "hu": "A vastag falak jól védenek a metsző téli szél ellen.",
                 "ro": "Zidurile groase protejează bine împotriva vântului tăios de iarnă.",
                 "en": "The thick walls provide good protection against the biting winter wind.",
-                "hr": "Debeli zidovi pružaju dobru zaštitu od ugriznog zimskog vjetra."
+                "hr": "Debeli zidovi pružaju dobru zaštitu od oštrog zimskog vjetra."
               }
             },
             {
@@ -515,7 +522,7 @@
                 "hu": "Keressen itt egy napos helyet a homlokzatnál a felmelegedéshez.",
                 "ro": "Căutați un loc însorit lângă fațadă pentru a vă încălzi.",
                 "en": "Look for a sunny spot near the facade here to warm up.",
-                "hr": "Potražite sunčano mjesto blizu pročelja za zagrijavanje."
+                "hr": "Potražite sunčano mjesto blizu fasade ovdje za ugrijavanje."
               }
             },
             {
@@ -535,7 +542,7 @@
                 "hu": "Látogasson el ide sötétedés előtt a legjobb fotók készítéséhez.",
                 "ro": "Vizitați acest loc înainte de lăsarea întunericului pentru cele mai bune poze.",
                 "en": "Visit this spot before dark for the best photographic lighting.",
-                "hr": "Posjetite ovo mjesto prije mraka za najbolje osvjetljenje za fotografiranje."
+                "hr": "Posjetite ovo mjesto prije mraka radi najboljeg fotografskog svjetla."
               }
             }
           ],
@@ -565,10 +572,10 @@
               "The clear winter air allows for views all the way to Cres Island."
             ],
             "hr": [
-              "Sunce zimi zalazi već oko 16:30, pa planirajte u skladu s tim.",
-              "Nosite jaknu otpornu na vjetar, posebno za vrijeme provedeno na Fortici.",
+              "Sunce zalazi već oko 16:30 zimi, stoga planirajte u skladu s tim.",
+              "Nosite vjetrootpornu jaknu, osobito za vrijeme provoda na Fortici.",
               "Neki kafići mogu imati skraćeno radno vrijeme tijekom zimske sezone.",
-              "Čist zimski zrak omogućuje pogled sve do otoka Cresa."
+              "Čist zimski zrak omogućuje poglede sve do otoka Cresa."
             ]
           }
         }
@@ -587,7 +594,8 @@
             "de": "Skulpturenpark Dubrova",
             "hu": "Dubrova szoborpark",
             "ro": "Parcul de Sculptură Dubrova",
-            "en": "Sculpture Park Dubrova"
+            "en": "Sculpture Park Dubrova",
+            "hr": "Park skulptura Dubrova"
           },
           "coords": [
             14.115,
@@ -611,7 +619,8 @@
             "de": "Altstadt Labin (Eingang)",
             "hu": "Labin óváros (bejárat)",
             "ro": "Intrarea în orașul vechi Labin",
-            "en": "Labin Old Town (Entrance)"
+            "en": "Labin Old Town (Entrance)",
+            "hr": "Labin Stari Grad (ulaz)"
           },
           "coords": [
             14.1235,
@@ -635,7 +644,8 @@
             "de": "Stadtmuseum Labin",
             "hu": "Labini Városi Múzeum",
             "ro": "Muzeul Orașului Labin",
-            "en": "Labin City Museum"
+            "en": "Labin City Museum",
+            "hr": "Gradski muzej Labin"
           },
           "coords": [
             14.1252,
@@ -659,7 +669,8 @@
             "de": "Fortica Aussichtspunkt",
             "hu": "Fortica kilátó",
             "ro": "Punct de belvedere Fortica",
-            "en": "Fortica Viewpoint"
+            "en": "Fortica Viewpoint",
+            "hr": "Vidikovac Fortica"
           },
           "coords": [
             14.1265,
@@ -683,7 +694,8 @@
             "de": "Mittagessen in Labin",
             "hu": "Ebéd Labinban",
             "ro": "Prânz în Labin",
-            "en": "Lunch in Labin"
+            "en": "Lunch in Labin",
+            "hr": "Ručak u Labinu"
           },
           "coords": [
             14.125,
@@ -707,7 +719,8 @@
             "de": "Teleferika (Rabac)",
             "hu": "Teleferika (Rabac)",
             "ro": "Teleferika (Rabac)",
-            "en": "Teleferika (Rabac)"
+            "en": "Teleferika (Rabac)",
+            "hr": "Teleferika (Rabac)"
           },
           "coords": [
             14.161,
@@ -723,7 +736,7 @@
             "hu": "Egy régi bauxit-kötélpálya romjai.",
             "ro": "Ruinele unei vechi telecabine de bauxită.",
             "en": "Ruins of an old bauxite cableway.",
-            "hr": "Ruševine stare žičare za boksit."
+            "hr": "Rujevi stare boksitne žičare."
           }
         },
         {
@@ -731,7 +744,8 @@
             "de": "Strand Girandella",
             "hu": "Girandella strand",
             "ro": "Plaja Girandella",
-            "en": "Girandella Beach"
+            "en": "Girandella Beach",
+            "hr": "Plaža Girandella"
           },
           "coords": [
             14.172,
@@ -756,7 +770,7 @@
         "hu": "Ez az autós túra ötvözi a Dubrova szoborpark művészetét Labin történelmével és Rabac partjaival. A parklátogatás után gyalogosan fedezze fel Labin központját, a múzeumot és a kilátót.\n\nEgy tipikus isztriai ebéd után az út Rabacba vezet a Teleferika lenyűgöző romjaihoz, majd a Girandella strandon zárul egy kellemes pihenővel.",
         "ro": "Acest tur auto îmbină arta din Parcul Dubrova cu istoria orașului Labin și coasta stațiunii Rabac. După vizitarea parcului, explorați la pas centrul Labinului, inclusiv muzeul și punctul de belvedere.\n\nDupă un prânz tipic istrian, drumul coboară spre Rabac la ruinele impresionante ale Teleferika, terminându-se cu o relaxare la plaja Girandella.",
         "en": "This car tour combines art at Dubrova Sculpture Park with Labin's history and the Rabac coast. After the park, explore Labin's core on foot, including the museum and viewpoint.\n\nFollowing a typical Istrian lunch, drive down to Rabac to see the impressive Teleferika ruins and finish with a relaxing view at Girandella beach.",
-        "hr": "Ova tura automobilom kombinira umjetnost u Parku skulptura Dubrova s poviješću Labina i rabačkom obalom. Nakon parka, istražite jezgru Labina pješice, uključujući muzej i vidikovac.\n\nNakon tipičnog istarskog ručka, spustite se do Rapca kako biste vidjeli impresivne ruševine Teleferike i završite opuštajućim pogledom na plažu Girandella."
+        "hr": "Ova automobilska tura povezuje umjetnost u Parku skulptura Dubrova s poviješću Labina i rabackom obalom. Nakon parka, istražite srce Labina pješice, uključujući muzej i vidikovac.\n\nNakon tipičnog istarskog ručka, spustite se do Rabca da vidite impresivne ruševine Teleferike i završite opuštajućim pogledom na plaži Girandella."
       },
       "tips": {
         "de": [
@@ -784,10 +798,10 @@
           "Book a table for lunch during high season."
         ],
         "hr": [
-          "Cesta od Labina do Rapca je strma i vijugava.",
-          "Koristite sabirna parkirališta u Starom gradu Labinu i rabačkoj luci.",
+          "Cesta od Labina do Rabca je strma i vijugava.",
+          "Koristite grupna parkirališta u Starom Gradu Labina i luci Rabac.",
           "Dubrovu je najbolje posjetiti rano ujutro.",
-          "Rezervirajte stol za ručak tijekom vrhunca sezone."
+          "Rezervirajte stol za ručak tijekom visoke sezone."
         ]
       },
       "variants": {
@@ -797,7 +811,7 @@
             "hu": "Kezdje kényelmesen a napot az esős Labinban. Az autó lehetővé teszi, hogy szárazon váltson az óváros és a múzeum között. Délben hajtson Podlabinba az ipari örökség megtekintéséhez, anélkül, hogy elázna. A nap fénypontja a rabaci tengerpart, ahol a viharos hullámokat biztonságban figyelheti az autóból vagy egy parti kávézóból. Délután látogasson el a Dubrova Szoborparkba, majd térjen vissza a Forticához a drámai kilátásért.",
             "ro": "Începeți ziua confortabil în Labinul ploios. Mașina vă permite să treceți uscat între orașul vechi și muzeu. La prânz, conduceți spre Podlabin pentru a vedea moștenirea industrială fără a vă uda. Punctul culminant este drumul spre plaja Rabac, unde puteți observa valurile impresionante în siguranță din mașină sau dintr-o cafenea de pe mal. După-amiaza vizitați parcul Dubrova, apoi reveniți la Fortica pentru vederea dramatică.",
             "en": "Start your day comfortably in rainy Labin. The car allows you to move dry between the Old Town and the National Museum. At noon, drive to Podlabin to see the industrial heritage without getting soaked. The highlight is the trip to Rabac Beach, where you can watch the impressive surf safely from your car or a seaside cafe. In the afternoon, visit the Dubrova Sculpture Park before returning to Fortica for the stormy views.",
-            "hr": "Započnite dan udobno u kišnom Labinu. Automobil vam omogućuje da se suhi krećete između Starog grada i Narodnog muzeja. U podne se odvezite do Podlabina kako biste vidjeli industrijsku baštinu bez da pokisnete. Vrhunac je izlet do rabačke plaže, gdje možete sigurno promatrati impresivne valove iz svog automobila ili kafića uz more. Poslijepodne posjetite Park skulptura Dubrova prije povratka na Forticu za olujne vidike."
+            "hr": "Započnite dan udobno u kišnom Labinu. Automobil vam omogućuje suho kretanje između Starog Grada i Gradskog muzeja. U podne se vozite do Podlabina da vidite industrijsku baštinu bez da se smočite. Vrhunac je izlet do plaže Rabac, gdje impresivni valovi možete promatrati sigurno iz auta ili kavane uz more. Poslijepodne posjetite Park skulptura Dubrova prije povratka na Forticu zbog olujnih pogleda."
           },
           "stops": [
             {
@@ -807,7 +821,7 @@
                 "hu": "Parkoljon a nagy téren, közvetlenül az óváros bejáratánál.",
                 "ro": "Parcați în piața mare chiar la intrarea în orașul vechi.",
                 "en": "Park in the large square right at the entrance to the Old Town.",
-                "hr": "Parkirajte na velikom trgu odmah na ulazu u Stari grad."
+                "hr": "Parkirajte na velikom trgu odmah na ulazu u Stari Grad."
               }
             },
             {
@@ -827,7 +841,7 @@
                 "hu": "A torony kényelmesen megtekinthető akár a járműből is.",
                 "ro": "Turnul poate fi observat confortabil chiar și din vehicul.",
                 "en": "The tower can be viewed comfortably even from the vehicle.",
-                "hr": "Toranj se može udobno promatrati čak i iz vozila."
+                "hr": "Kulu se može udobno promatrati čak i iz vozila."
               }
             },
             {
@@ -837,7 +851,7 @@
                 "hu": "Élvezze a tenger látványát a meleg autóból.",
                 "ro": "Bucurați-vă de vederea mării din mașina caldă.",
                 "en": "Enjoy the view of the sea from the warmth of your car.",
-                "hr": "Uživajte u pogledu na more iz topline svog automobila."
+                "hr": "Uživajte u pogledu na more iz topline svog auta."
               }
             },
             {
@@ -887,10 +901,10 @@
               "Always keep an umbrella within reach inside the car."
             ],
             "hr": [
-              "Pripazite na skliske uvjete na cesti pri spuštanju prema Rapcu.",
-              "Održavajte stakla odmagljenima za optimalnu vidljivost.",
-              "Koristite parkirna mjesta smještena blizu muzeja.",
-              "Uvijek držite kišobran nadohvat ruke u automobilu."
+              "Pazite na skliske uvjete na spustu prema Rabcu.",
+              "Držite prozore odmagljene radi optimalne vidljivosti.",
+              "Iskoristite parkirna mjesta smještena blizu muzeja.",
+              "Uvijek držite kišobran pri ruci unutar auta."
             ]
           }
         },
@@ -900,7 +914,7 @@
             "hu": "Induljon kényelmesen a téli Labinban. A fűtés kellemes utazást biztosít a történelmi helyszínek között. Az óvárosi múzeumlátogatás után hajtson Podlabinba az ipari kultúra megtekintéséhez. Délben ereszkedjen le Rabacba, ahol a strand télen üres és békés. Délután látogasson el a Dubrova Szoborparkba, majd érkezzen meg a Forticához pontosan a naplementére. A visszaút szép látványt nyújt a kivilágított városra a tiszta téli égbolt alatt.",
             "ro": "Porniți confortabil în Labinul de iarnă. Încălzirea asigură o călătorie plăcută între siturile istorice. După vizita la muzeu, conduceți spre Podlabin pentru a admira cultura industrială. La prânz, coborâți spre Rabac, unde plaja este goală și liniștită iarna. După-amiaza vizitați parcul Dubrova, apoi ajungeți la Fortica exact la apus. Drumul de întoarcere oferă o vedere frumoasă asupra orașului iluminat sub cerul senin.",
             "en": "Start comfortably in winter Labin. The heater ensures a pleasant drive between historical sites. After the museum visit in the Old Town, drive to Podlabin to admire the industrial culture. At noon, descend to Rabac, where the beach is empty and peaceful in winter. In the afternoon, visit the Dubrova Sculpture Park, then arrive at Fortica exactly for the sunset. The drive back offers a beautiful view of the illuminated city under the clear winter sky.",
-            "hr": "Započnite udobno u zimskom Labinu. Grijanje osigurava ugodnu vožnju između povijesnih mjesta. Nakon posjeta muzeju u Starom gradu, odvezite se do Podlabina kako biste se divili industrijskoj kulturi. U podne se spustite do Rapca, gdje je plaža zimi prazna i mirna. Poslijepodne posjetite Park skulptura Dubrova, a zatim stignite na Forticu točno na zalazak sunca. Vožnja natrag nudi prekrasan pogled na osvijetljeni grad pod čistim zimskim nebom."
+            "hr": "Započnite udobno u zimskom Labinu. Grijač osigurava ugodnu vožnju između povijesnih lokacija. Nakon posjeta muzeju u Starom Gradu, vozite do Podlabina da se divite industrijskoj kulturi. U podne se spustite do Rabca, gdje je plaža prazna i mirna zimi. Poslijepodne posjetite Park skulptura Dubrova, zatim stignite na Forticu točno za zalazak sunca. Povratak nudi prekrasan pogled na osvijetljeni grad pod čistim zimskim nebom."
           },
           "stops": [
             {
@@ -910,7 +924,7 @@
                 "hu": "Parkoljon az épületek szélvédett oldalán, hogy az autó meleg maradjon.",
                 "ro": "Parcați la adăpostul clădirilor pentru a menține mașina caldă.",
                 "en": "Park in the lee of buildings to keep the car warmer.",
-                "hr": "Parkirajte u zavjetrini zgrada kako bi automobil ostao topliji."
+                "hr": "Parkirajte uz zaklon zgrada kako bi auto ostao topliji."
               }
             },
             {
@@ -920,7 +934,7 @@
                 "hu": "A múzeum jól fűtött, kellemes felmelegedési lehetőséget kínál.",
                 "ro": "Muzeul este bine încălzit și oferă o pauză de încălzire binevenită.",
                 "en": "The museum is well-heated and offers a welcome warming break.",
-                "hr": "Muzej je dobro zagrijan i nudi dobrodošao predah za zagrijavanje."
+                "hr": "Muzej je dobro zagrijan i nudi dobrodošli predah za ugrijavanje."
               }
             },
             {
@@ -930,7 +944,7 @@
                 "hu": "Télen bőségesen van parkolóhely közvetlenül a toronynál.",
                 "ro": "Locurile de parcare sunt abundente iarna chiar lângă turn.",
                 "en": "Parking spots are plentiful in winter right by the tower.",
-                "hr": "Parkirna mjesta su zimi brojna odmah uz toranj."
+                "hr": "Parkirna mjesta zimi su brojna odmah uz kulu."
               }
             },
             {
@@ -940,7 +954,7 @@
                 "hu": "Csak rövid időre szálljon ki egy sétára a tengeri szélben.",
                 "ro": "Ieșiți din mașină doar scurt pentru o plimbare în briza mării.",
                 "en": "Leave the car only briefly for a walk in the crisp sea breeze.",
-                "hr": "Izađite iz automobila samo nakratko za šetnju na svježem morskom povjetarcu."
+                "hr": "Ostavite auto samo nakratko za šetnju u svježem morskom vjetru."
               }
             },
             {
@@ -950,7 +964,7 @@
                 "hu": "A bekötőút fagyos időben helyenként csúszós lehet.",
                 "ro": "Drumul de acces poate fi alunecos pe alocuri în caz de îngheț.",
                 "en": "The access road can be slippery in patches if there is frost.",
-                "hr": "Pristupna cesta može biti mjestimice skliska ako ima mraza."
+                "hr": "Pristupna cesta može biti skliska na mjestima ako ima mraza."
               }
             },
             {
@@ -960,7 +974,7 @@
                 "hu": "Élvezze a naplementét kényelmesen a parkolóhelyekről.",
                 "ro": "Bucurați-vă de apus confortabil direct din parcare.",
                 "en": "Enjoy the sunset comfortably right from the parking area.",
-                "hr": "Uživajte u zalasku sunca udobno izravno s parkirališta."
+                "hr": "Uživajte u zalasku sunca udobno odmah s parkirališta."
               }
             }
           ],
@@ -990,10 +1004,10 @@
               "Use the heater sparingly while stationary to save battery."
             ],
             "hr": [
-              "Zimske gume su obavezne ako putujete na više nadmorske visine.",
-              "Ne zaboravite antifriz u tekućini za pranje vjetrobranskog stakla.",
+              "Zimske gume su obvezne ako putujete u više nadmorske visine.",
+              "Ne zaboravite antifriz u tekućini za pranje vjetrobrana.",
               "Planinske ceste oko Labina mogu biti zaleđene u zasjenjenim područjima.",
-              "Štedljivo koristite grijanje dok stojite kako biste sačuvali akumulator."
+              "Koristite grijač štedljivo dok stojite kako biste sačuvali akumulator."
             ]
           }
         }

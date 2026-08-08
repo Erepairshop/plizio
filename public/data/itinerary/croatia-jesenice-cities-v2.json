@@ -51,7 +51,7 @@
             "hu": "Élvezze a csendet és a tengerre nyíló kilátást a templom mellől.",
             "ro": "Bucurați-vă de liniște și de vederea la mare de lângă biserică.",
             "en": "Enjoy the silence and the sea view from the church site.",
-            "hr": "Uživajte u tišini i pogledu na more s mjesta crkve."
+            "hr": "Uživajte u tišini i pogledu na more s lokaliteta crkve."
           }
         },
         {
@@ -70,7 +70,7 @@
             "hu": "Készítsen fotókat a szemközti szigetekről az ereszkedés közben.",
             "ro": "Faceți fotografii cu insulele din față în timpul coborârii.",
             "en": "Take photos of the islands ahead during the descent.",
-            "hr": "Fotografirajte otoke ispred sebe tijekom spuštanja."
+            "hr": "Fotografirajte otoke pred sobom tijekom spuštanja."
           }
         },
         {
@@ -89,7 +89,7 @@
             "hu": "Kóstolja meg a soparnikot, a régió helyi specialitását.",
             "ro": "Gustați soparnik, o specialitate locală din această regiune.",
             "en": "Try soparnik, a local specialty from this region.",
-            "hr": "Probajte soparnik, lokalni specijalitet ove regije."
+            "hr": "Probajte soparnik, lokalni specijalitet iz ovog kraja."
           }
         },
         {
@@ -127,7 +127,7 @@
             "hu": "Pihenjen a kavicsos strand kristálytiszta vizénél.",
             "ro": "Relaxați-vă lângă apa de cristal a acestei plaje cu pietriș.",
             "en": "Relax by the crystal clear water of this pebble beach.",
-            "hr": "Opustite se uz kristalno čisto more na ovoj šljunčanoj plaži."
+            "hr": "Opustite se uz kristalno čistu vodu ove šljunčane plaže."
           }
         },
         {
@@ -146,7 +146,7 @@
             "hu": "A nap tökéletes zárása közvetlenül az Adria partján.",
             "ro": "O încheiere perfectă a zilei chiar pe malul Adriaticii.",
             "en": "A perfect end to the day right on the Adriatic coast.",
-            "hr": "Savršen završetak dana izravno na jadranskoj obali."
+            "hr": "Savršen završetak dana uz samu jadransku obalu."
           }
         }
       ],
@@ -155,7 +155,7 @@
         "hu": "A nap a hegyoldalban fekvő Staro Selo Jesenicében indul, ahol az elhagyatott kőházak között sétálva megismerheti a múltat. Miután megtekintette a Szent Miklós templomot, ereszkedjen le a partra egy ebédre. Délután Krilo kikötőjének különleges hajóit csodálhatja meg, majd a Mutogras strandon pihenheti ki a túra fáradalmait a naplementében.",
         "ro": "Ziua începe în Staro Selo Jesenice, situat sus pe deal. Aici veți merge printre case de piatră părăsite și veți vizita vechea biserică Sf. Nicolae. După un prânz cu specialități locale, drumul coboară spre portul Krilo, inima flotei de nave din lemn. Petreceți după-amiaza relaxându-vă pe plaja Mutogras, așteptând apusul.",
         "en": "The day starts in the historic Staro Selo Jesenice, high above the coast. Wander through abandoned stone houses and visit the old Church of St. Nicholas. After a lunch featuring local specialties, head down to the harbor of Krilo, the hub of Croatian wooden shipbuilding. Spend the afternoon relaxing at Mutogras beach as the sun sets.",
-        "hr": "Dan započinje u povijesnom Starom Selu Jesenice, visoko iznad obale. Lutajte kroz napuštene kamene kuće i posjetite staru crkvu sv. Nikole. Nakon ručka s lokalnim specijalitetima, spustite se do luke Krilo, središta hrvatske drvene brodogradnje. Provedite poslijepodne opuštajući se na plaži Mutogras dok sunce zalazi."
+        "hr": "Dan započinje u povijesnom Starom Selu Jesenice, visoko iznad obale. Lutajte napuštenim kamenim kućama i posjetite staru crkvu sv. Nikole. Nakon ručka s lokalnim specijalitetima spustite se do luke Krilo, središta hrvatske drvene brodogradnje. Popodne provedite opuštajući se na plaži Mutogras dok sunce zalazi."
       },
       "gastro_picks": {
         "de": [
@@ -280,9 +280,9 @@
           "Krilo has many charming cafes right by the water."
         ],
         "hr": [
-          "Nosite čvrstu obuću za spust iz starog sela.",
-          "Ponesite dovoljno vode za uspon pješice.",
-          "Krilo ima mnogo šarmantnih kafića uz samu vodu."
+          "Nosite čvrstu obuću za spuštanje iz starog sela.",
+          "Ponesite dovoljno vode za uspon uzbrdo.",
+          "Krilo ima mnogo šarmantnih kafića odmah uz more."
         ]
       },
       "variants": {
@@ -292,7 +292,7 @@
             "hu": "A reggel Jesenicében szitáló esővel indul, ami misztikus fénybe öltözteti Staro Selo régi kőházait. Az esernyő kötelező kellék a Szent Miklós-templomhoz vezető meredek ösvényeken.\n\nDélben a konoba barátságos menedéket nyújt. A friss hal és a kandalló illata feledteti a kinti szürkeséget, miközben meleg étellel töltődünk fel.\n\nDélután az út a Luka Krilo kikötőhöz vezet. Mutogras strandján a nedves kavicsok csillognak a szórt fényben, a hullámok pedig ritmikusan verődnek a parthoz.\n\nAz este csendesen zárul. Klasszikus naplemente nélkül is drámai, melankolikus látványt nyújt az Adria, tökéletes hátteret biztosítva egy utolsó parti sétához.",
             "ro": "Dimineața în Jesenice începe cu o ploaie ușoară, care îmbracă casele vechi de piatră din Staro Selo într-o lumină mistică. Umbrela este indispensabilă pe potecile abrupte spre Biserica Sf. Nicolae.\n\nLa prânz, konoba oferă un refugiu primitor. Mirosul de pește proaspăt și focul din șemineu vă fac să uitați de vremea gri de afară în timp ce savurați o masă caldă.\n\nDupă-amiaza, drumul coboară spre portul Luka Krilo. Pietrele umede de pe plaja Mutogras strălucesc în lumina difuză, în timp ce valurile se sparg ritmic de țărm.\n\nSeara se încheie liniștit. Chiar și fără un apus clasic, vederea spre marea Adriatică oferă un decor dramatic și melancolic pentru o ultimă plimbare pe dig.",
             "en": "The morning in Jesenice starts with gentle rain, casting a mystical light over the old stone houses of Staro Selo. An umbrella is your best companion on the steep paths leading to St. Nicholas Church.\n\nAt noon, the local konoba provides a cozy retreat. The scent of fresh fish and a crackling fireplace makes you forget the gray weather outside while you enjoy a warm meal.\n\nIn the afternoon, the route leads down to Luka Krilo harbor. The wet pebbles at Mutogras beach glisten in the diffused light as waves rhythmically beat against the shore.\n\nThe evening ends quietly. Even without a classic sunset, the view of the Adriatic offers a dramatic, melancholic backdrop for a final walk along the quay.",
-            "hr": "Jutro u Jesenicama počinje laganom kišom, bacajući mistično svjetlo na stare kamene kuće Starog Sela. Kišobran je vaš najbolji suputnik na strmim stazama koje vode do crkve sv. Nikole.\n\nU podne, lokalna konoba nudi ugodno utočište. Miris svježe ribe i pucketanje vatre iz ognjišta tjeraju vas da zaboravite na sivo vrijeme dok uživate u toplom obroku.\n\nPoslijepodne ruta vodi dolje do luke Krilo. Mokri oblutci na plaži Mutogras svjetlucaju na difuznom svjetlu dok valovi ritmično udaraju o obalu.\n\nVečer završava mirno. Čak i bez klasičnog zalaska sunca, pogled na Jadran nudi dramatičnu, melankoličnu kulisu za završnu šetnju uz rivu."
+            "hr": "Jutro u Jesenicama započinje blagom kišom koja baca mistično svjetlo na stare kamene kuće Starog Sela. Kišobran je vaš najbolji pratitelj na strmim stazama koje vode do crkve sv. Nikole.\n\nU podne, lokalna konoba nudi ugodan zaklon. Miris svježe ribe i pucketanje ognjišta natjerat će vas da zaboravite sivilo vani dok uživate u toplom obroku.\n\nPopodne ruta vodi prema luci Luka Krilo. Mokri oblutci na plaži Mutogras sjaje u difuznom svjetlu dok valovi ritmično udaraju o obalu.\n\nVečer završava tiho. Čak i bez klasičnog zalaska, pogled na Jadran nudi dramatičnu, melankoličnu pozadinu za posljednju šetnju rivom."
           },
           "stops": [
             {
@@ -302,7 +302,7 @@
                 "hu": "Vigyázat a csúszós macskaköveken; a tapadós talpú cipő fontos.",
                 "ro": "Atenție pe pietrele lustruite de ploaie; tălpile aderente sunt esențiale.",
                 "en": "Watch out for slippery cobblestones; high-grip soles are important.",
-                "hr": "Pripazite na sklisko kamenje; potplati koji dobro prianjaju su važni."
+                "hr": "Pazite na klizave kaldrme; važne su cipele s dobrim prianjanjem."
               }
             },
             {
@@ -312,7 +312,7 @@
                 "hu": "Használja a templom előterét száraz kilátópontként.",
                 "ro": "Folosiți pridvorul bisericii ca punct de observație uscat.",
                 "en": "Use the church porch as a dry lookout point.",
-                "hr": "Koristite trijem crkve kao suho vidikovac."
+                "hr": "Koristite kriptu/crkveni trijem kao suhi vidikovac."
               }
             },
             {
@@ -322,7 +322,7 @@
                 "hu": "Az ösvény sáros lehet; haladjon lassan és figyelmesen.",
                 "ro": "Poteca poate fi noroioasă; mergeți încet și cu atenție.",
                 "en": "The path can be muddy; walk slowly and stay focused.",
-                "hr": "Staza može biti blatnjava; hodajte polako i ostanite usredotočeni."
+                "hr": "Staza može biti blatna; hodajte polako i budite koncentrirani."
               }
             },
             {
@@ -342,7 +342,7 @@
                 "hu": "Figyelje a hajók rakodását a móló melletti előtetők alól.",
                 "ro": "Urmăriți încărcarea navelor de sub copertinele de pe dig.",
                 "en": "Watch the ships being loaded from under the awnings on the quay.",
-                "hr": "Promatrajte ukrcaj na brodove ispod tendi na rivi."
+                "hr": "Promatrajte ukrcavanje brodova s natkrivenih dijelova rive."
               }
             },
             {
@@ -352,7 +352,7 @@
                 "hu": "A hullámverés esőben gyakran erőteljesebb és látványosabb.",
                 "ro": "Valurile sunt adesea mai puternice și spectaculoase pe ploaie.",
                 "en": "The surf is often more powerful and worth seeing in the rain.",
-                "hr": "More je često snažnije i vrijedno gledanja na kiši."
+                "hr": "Pjenušavost je često snažnija i vrijedna pogleda po kiši."
               }
             },
             {
@@ -362,7 +362,7 @@
                 "hu": "Élvezze a hűvös szellőt, mielőtt visszatérne a szárazba.",
                 "ro": "Bucurați-vă de briza răcoroasă înainte de a vă întoarce la adăpost.",
                 "en": "Enjoy the cool breeze before returning to the dry.",
-                "hr": "Uživajte u hladnom povjetarcu prije povratka na suho."
+                "hr": "Uživajte u svježem povjetarcu prije povratka na suho."
               }
             }
           ],
@@ -396,10 +396,10 @@
               "Harbor cafés often have covered terraces."
             ],
             "hr": [
-              "Nosite vodootporne cipele za planinarenje za strme staze u gornjem selu.",
-              "Kompaktan kišobran otporan na vjetar idealan je zbog morskog povjetarca.",
+              "Nosite vodootpornu planinarsku obuću za strme staze u gornjem selu.",
+              "Kompaktan, vjetrootporan kišobran idealan je zbog morskog povjetarca.",
               "Lokalne konobe su savršena mjesta za duže pauze.",
-              "Odvojite više vremena za spust jer su staze skliske.",
+              "Predvidite više vremena za spuštanje jer su staze skliske.",
               "Kafići u luci često imaju natkrivene terase."
             ]
           }
@@ -410,7 +410,7 @@
             "hu": "A tiszta téli levegő Jesenicében reggelente lélegzetelállító kilátást biztosít egészen a szigetekig. A nap alacsonyan jár Staro Selo elhagyatott utcái felett.\n\nDélben a konoba melege csalogat. A főszezonon kívül itt különösen nagy a nyugalom, a helyieknek is több idejük van egy rövid beszélgetésre.\n\nDélután a parti séta élénkítő hatású. A Bura szél erősen fújhat, de a tenger intenzív kékje kárpótol a hidegért.\n\nA korai este intenzív naplementét hoz. Már 16:30 körül élénk narancs és lila színekbe öltözik az ég az Adria felett.",
             "ro": "Aerul curat de iarnă în Jesenice oferă dimineața o vizibilitate uimitoare până la insule. Soarele stă jos deasupra străzilor pustii din Staro Selo.\n\nLa prânz, căldura din konoba vă atrage. În extrasezon este deosebit de liniște aici, iar localnicii au timp pentru o scurtă conversație la o supă.\n\nDupă-amiaza, plimbarea pe coastă este revigorantă. Vântul 'Bura' poate sufla cu putere, dar albastrul intens al mării compensează frigul.\n\nSeara devreme aduce un apus intens. Deja în jurul orei 16:30, cerul deasupra Adriaticii se colorează în portocaliu și violet aprins.",
             "en": "The clear winter air in Jesenice provides breathtaking views all the way to the islands in the morning. The sun hangs low over the deserted alleys of Staro Selo.\n\nAt noon, the warmth of the konoba beckons. In the off-season, it is particularly quiet here, and locals have time for a short chat over a bowl of soup.\n\nIn the afternoon, the coastal walk is invigorating. The 'Bura' wind can blow strongly, but the intense blue of the sea compensates for the cold.\n\nThe early evening brings an intense sunset. As early as 4:30 PM, the sky over the Adriatic turns into bright orange and violet.",
-            "hr": "Čisti zimski zrak u Jesenicama ujutro pruža prekrasan pogled sve do otoka. Sunce nisko visi nad napuštenim uličicama Starog Sela.\n\nU podne mami toplina konobe. Izvan sezone ovdje je posebno tiho, a mještani imaju vremena za kratki razgovor uz zdjelicu juhe.\n\nPoslijepodne je šetnja uz obalu okrepljujuća. Bura može snažno puhati, ali intenzivno plavetnilo mora nadoknađuje hladnoću.\n\nRana večer donosi intenzivan zalazak sunca. Već u 16:30 nebo nad Jadranom poprima jarko narančastu i ljubičastu boju."
+            "hr": "Bistro zimsko, jasno jutro u Jesenicama pruža zapanjujuće poglede sve do otoka ujutro. Sunce nisko visi nad pustim uličicama Starog Sela.\n\nU podne, toplina konobe mami. U predsezoni je ovdje posebno mirno, a mještani imaju vremena za kratki razgovor uz zdjelu juhe.\n\nPopodne, šetnja uz obalu razbudi vas. Vjetar 'Bura' može puhati snažno, ali intenzivna plava boja mora nadoknađuje hladnoću.\n\nRana večer donosi intenzivan zalazak sunca. Već oko 16:30 nebo nad Jadranom pretvara se u jarke nijanse narančaste i ljubičaste."
           },
           "stops": [
             {
@@ -420,7 +420,7 @@
                 "hu": "Élvezze a csendet; télen a falu szinte csak az öné.",
                 "ro": "Bucurați-vă de liniște; iarna satul vă aparține aproape în întregime.",
                 "en": "Enjoy the silence; in winter, the village belongs almost entirely to you.",
-                "hr": "Uživajte u tišini; zimi selo pripada gotovo isključivo vama."
+                "hr": "Uživajte u tišini; zimi selo gotovo u potpunosti pripada vama."
               }
             },
             {
@@ -430,7 +430,7 @@
                 "hu": "Itt fent erősebben fúj a szél; sapka és kesztyű legyen önnél.",
                 "ro": "Vântul suflă mai tare aici sus; luați-vă căciula și mănușile.",
                 "en": "The wind blows stronger up here; pack a hat and gloves.",
-                "hr": "Vjetar gore jače puše; spakirajte kapu i rukavice."
+                "hr": "Vjetar ovdje puše jače; spakirajte kapu i rukavice."
               }
             },
             {
@@ -440,7 +440,7 @@
                 "hu": "Ügyeljen a zúzmarára az ösvény árnyékos részein.",
                 "ro": "Fiți atenți la promoroacă în locurile umbroase ale potecii.",
                 "en": "Watch out for hoarfrost in shaded spots along the path.",
-                "hr": "Pripazite na inje na sjenovitim mjestima duž staze."
+                "hr": "Pazite na ugašenu rosu u zasjenjenim dijelovima puta."
               }
             },
             {
@@ -460,7 +460,7 @@
                 "hu": "A kikötői kávézók jól fűtöttek és nagyszerű kilátást nyújtanak.",
                 "ro": "Cafenelele din port sunt bine încălzite și oferă o vedere frumoasă.",
                 "en": "Harbor cafés are well-heated and offer great sea views.",
-                "hr": "Kafići u luci su dobro zagrijani i nude odličan pogled na more."
+                "hr": "Kafići u luci su dobro grijani i nude izvrsne poglede na more."
               }
             },
             {
@@ -470,7 +470,7 @@
                 "hu": "Ideális egy gyors, szélvédett tengerparti sétához.",
                 "ro": "Ideal pentru o plimbare rapidă pe plajă, ferită de vânt.",
                 "en": "Ideal for a quick, wind-sheltered beach walk.",
-                "hr": "Idealno za brzu šetnju plažom zaštićenu od vjetra."
+                "hr": "Idealno za brzu šetnju zaštićenu od vjetra uz plažu."
               }
             },
             {
@@ -480,7 +480,7 @@
                 "hu": "A naplemente télen sokkal korábban van (kb. 16:30).",
                 "ro": "Apusul de soare are loc mult mai devreme iarna (aprox. 16:30).",
                 "en": "Sunset occurs much earlier in winter (around 4:30 PM).",
-                "hr": "Zalazak sunca zimi se događa mnogo ranije (oko 16:30)."
+                "hr": "Zalazak sunca događa se puno ranije zimi (oko 16:30)."
               }
             }
           ],
@@ -514,11 +514,11 @@
               "Bring a thermos of warm tea for the upper village area."
             ],
             "hr": [
-              "Nosite slojevitu odjeću kako biste se zaštitili od bure.",
-              "Sunce rano zalazi; započnite turu na vrijeme.",
-              "Provjerite radno vrijeme konoba izvan sezone.",
-              "Vidljivost je zimi često jasnija nego u vruće ljeto.",
-              "Ponesite termosicu s toplim čajem za područje gornjeg sela."
+              "Nosite slojevitu odjeću radi zaštite od bure.",
+              "Sunce zalazi rano; započnite turu na vrijeme.",
+              "Provjerite radno vrijeme konoba u predsezoni.",
+              "Vidljivost je zimi često jasnija nego u vrućem ljetu.",
+              "Ponesite termosicu s toplim čajem za gornji dio sela."
             ]
           }
         }
@@ -586,7 +586,7 @@
             "hu": "Kemény emelkedő, amit panorámás kilátás jutalmaz.",
             "ro": "O urcare grea, recompensată cu o vedere panoramică.",
             "en": "A tough climb rewarded with panoramic views.",
-            "hr": "Težak uspon nagrađen panoramskim pogledom."
+            "hr": "Težak uspon nagrađen panoramskim pogledima."
           }
         },
         {
@@ -605,7 +605,7 @@
             "hu": "Támassza le a bringát, és fedezze fel a romokat gyalog.",
             "ro": "Lăsați bicicleta și explorați ruinele la pas.",
             "en": "Park the bike and explore the ruins on foot.",
-            "hr": "Parkirajte bicikl i istražite ruševine pješice."
+            "hr": "Ostavite bicikl i istražite ruševine pješice."
           }
         },
         {
@@ -624,7 +624,7 @@
             "hu": "A kikötőbe vezető lejtő jó fékeket igényel.",
             "ro": "Coborârea spre port necesită frâne bune.",
             "en": "The descent to the harbor requires good brakes.",
-            "hr": "Spust do luke zahtijeva dobre kočnice."
+            "hr": "Spust prema luci zahtijeva dobre kočnice."
           }
         },
         {
@@ -643,7 +643,7 @@
             "hu": "Egy hűsítő ital a vitorlásokra nyíló kilátással.",
             "ro": "O băutură rece cu vedere la veliere.",
             "en": "A cool drink with a view of the sailing ships.",
-            "hr": "Hladno piće s pogledom na jedrenjake."
+            "hr": "Hladno piće uz pogled na jedrilice."
           }
         }
       ],
@@ -652,7 +652,7 @@
         "hu": "Ez a kerékpáros túra ötvözi a sík tengerparti utat a kihívást jelentő hegyi emelkedőkkel. Délelőtt a tenger mentén gurulhat a Mutogras strandig. Ezután következik a sportos rész: feltekerés Staro Selo Jesenicébe. Jutalmul egy tempós lejtőzés várja Krilo kikötőjéig, ahol a napot a tradicionális fahajók között zárhatja.",
         "ro": "Turul cu bicicleta combină drumul plat de coastă cu urcarea provocatoare spre satul de munte. Dimineața veți rula relaxat pe lângă mare până la plaja Mutogras. Urmează partea sportivă: urcarea spre Staro Selo Jesenice. Recompensa este o coborâre rapidă spre portul Krilo, unde veți încheia ziua printre navele tradiționale de lemn.",
         "en": "This bike tour combines the flat coastal road with a challenging climb to the old mountain village. In the morning, enjoy a relaxed ride along the sea to Mutogras beach. Then comes the athletic part: the climb to Staro Selo Jesenice. Your reward is a swift descent to the harbor of Krilo, where you can end the day among traditional wooden ships.",
-        "hr": "Ova biciklistička tura kombinira ravnu obalnu cestu s izazovnim usponom do starog planinskog sela. Ujutro uživajte u opuštenoj vožnji uz more do plaže Mutogras. Zatim slijedi sportski dio: uspon do Starog Sela Jesenice. Nagrada je brzi spust do luke Krilo, gdje možete završiti dan među tradicionalnim drvenim brodovima."
+        "hr": "Ova biciklistička tura spoji ravnu obalnu cestu s izazovnim usponom do starog planinskog sela. Ujutro uživajte u opuštenoj vožnji uz more do plaže Mutogras. Zatim slijedi atletski dio: uspon do Starog Sela Jesenice. Nagrada je brzi spust do luke Krilo, gdje možete završiti dan među tradicionalnim drvenim brodovima."
       },
       "gastro_picks": {
         "de": [
@@ -778,8 +778,8 @@
         ],
         "hr": [
           "Provjerite kočnice prije spuštanja iz Starog Sela.",
-          "E-bicikl čini uspon do sela mnogo ugodnijim.",
-          "Izbjegavajte glavnu cestu (Magistralu) tijekom prometnih gužvi."
+          "Električni bicikl znatno olakšava uspon do sela.",
+          "Izbjegavajte Magistralu tijekom prometne špice."
         ]
       },
       "variants": {
@@ -789,7 +789,7 @@
             "hu": "A reggel jó esőruházatot igényel a Mutogras felé vezető parti úton. Az utcák üresebbek, de vigyázni kell a tócsákkal.\n\nA faluba való felkapaszkodás közbeni erőfeszítés melegen tart az eső ellenére is. A kilátópontok a felhőkben szinte földöntúlinak tűnnek.\n\nDélben Staro Selo csendes hely, ahol az eső kopogása a régi tetőkön az egyetlen zene. A kerékpárt az ereszek alá lehet parkolni.\n\nA délután a Luka Krilo kikötőben egy rövid lélegzetvételnyi szünetet kínál. Egy forró kávé a szárazon felkészít a rövid visszútra.",
             "ro": "Dimineața necesită echipament de ploaie bun pentru drumul de-a lungul coastei spre Mutogras. Străzile sunt mai goale, dar trebuie să fiți atenți la bălți.\n\nDatorită efortului de a urca spre sat, rămâneți calzi în ciuda ploii. Punctele de belvedere par desprinse din altă lume printre nori.\n\nLa prânz, Staro Selo este un loc liniștit, unde ropotul ploii pe acoperișurile vechi este singura muzică. Bicicleta poate fi parcată sub streșini.\n\nDupă-amiaza în portul Luka Krilo oferă o scurtă pauză de respirație. O cafea fierbinte la adăpost vă pregătește pentru scurtul drum de întoarcere.",
             "en": "The morning calls for good rain gear for the ride along the coast to Mutogras. The streets are emptier, but caution is needed with puddles.\n\nThanks to the effort of climbing up to the village, you stay warm despite the rain. The viewpoints in the clouds seem almost otherworldly.\n\nAt noon, Staro Selo is a quiet place where the patter of rain on the old roofs is the only music. The bike can be parked under eaves.\n\nIn the afternoon at Luka Krilo harbor, there's a brief breathing space. A hot coffee in the dry prepares you for the short ride back.",
-            "hr": "Jutro zahtijeva dobru kišnu opremu za vožnju uz obalu do Mutograsa. Ulice su praznije, ali potreban je oprez zbog lokvi.\n\nZahvaljujući naporu uspona do sela, ostajete zagrijani unatoč kiši. Vidikovci u oblacima čine se gotovo nadrealnima.\n\nU podne je Staro Selo mirno mjesto gdje je lupkanje kiše po starim krovovima jedina glazba. Bicikl se može parkirati ispod nadstrešnica.\n\nPoslijepodne u luci Krilo kratko odahnite. Topla kava na suhom priprema vas za kratku vožnju natrag."
+            "hr": "Jutro traži dobru kišnu opremu za vožnju uz obalu do Mutograsa. Ulice su rjeđe, ali treba paziti na lokve.\n\nZahvaljujući trudu tijekom uspona, ostajete topli unatoč kiši. Vidikovci u oblacima djeluju gotovo nadrealno.\n\nU podne je Staro Selo mirno mjesto gdje je kapljanje kiše po starim krovovima jedina glazba. Bicikl se može ostaviti pod nadstrešnicama.\n\nPopodne u luci Luka Krilo dolazi kratka predaha. Vruća kava na suhom priprema vas za kratku povratnu vožnju."
           },
           "stops": [
             {
@@ -799,7 +799,7 @@
                 "hu": "Ügyeljen az elhaladó autók által felvert vízpermetre az út szélén.",
                 "ro": "Atenție la stropii aruncați de mașinile care trec pe lângă drum.",
                 "en": "Watch out for spray from passing cars on the roadside.",
-                "hr": "Pripazite na prskanje automobila koji prolaze cestom."
+                "hr": "Pazite na prskanje vode od prolaznih vozila uz cestu."
               }
             },
             {
@@ -809,7 +809,7 @@
                 "hu": "Egy rövid megálló elég; a szél felerősítheti a hideget.",
                 "ro": "O scurtă oprire este suficientă; vântul poate intensifica frigul.",
                 "en": "A short stop is enough; the wind can intensify the cold.",
-                "hr": "Kratko zaustavljanje je dovoljno; vjetar može pojačati osjećaj hladnoće."
+                "hr": "Kratka stanka je dovoljna; vjetar može pojačati hladnoću."
               }
             },
             {
@@ -819,7 +819,7 @@
                 "hu": "Csökkentse minimálisan a guminyomást a jobb tapadásért a nedves úton.",
                 "ro": "Reduceți minim presiunea în pneuri pentru o aderență mai bună pe carosabil ud.",
                 "en": "Reduce tire pressure slightly for better grip on wet roads.",
-                "hr": "Malo smanjite tlak u gumama za bolje prianjanje na mokrim cestama."
+                "hr": "Smanjite tlak u gumama malo za bolje prianjanje na mokrom putu."
               }
             },
             {
@@ -829,7 +829,7 @@
                 "hu": "Parkolja le kerékpárját egy kőfalnál, szélvédett helyen.",
                 "ro": "Parcați bicicleta lângă un zid de piatră, la adăpost de vânt.",
                 "en": "Park your bike against a stone wall in the lee of the wind.",
-                "hr": "Parkirajte bicikl uz kameni zid u zavjetrini."
+                "hr": "Parkirajte bicikl naslonjen na kameni zid koji je zaštićen od vjetra."
               }
             },
             {
@@ -839,7 +839,7 @@
                 "hu": "Vigyázat a sima fém síneken való áthaladáskor a mólón.",
                 "ro": "Atenție când treceți peste șinele metalice alunecoase de pe dig.",
                 "en": "Watch out when riding over smooth metal rails on the quay.",
-                "hr": "Pazite pri vožnji preko glatkih metalnih šina na rivi."
+                "hr": "Pazite pri vožnji preko glatkih metalnih tračnica na rivi."
               }
             },
             {
@@ -849,7 +849,7 @@
                 "hu": "Egy meleg ital segít stabilan tartani a testhőt.",
                 "ro": "O băutură caldă ajută la menținerea temperaturii corpului stabilă.",
                 "en": "A warm drink helps keep your core body temperature stable.",
-                "hr": "Topli napitak pomaže u održavanju stabilne tjelesne temperature."
+                "hr": "Topli napitak pomaže održati tjelesnu temperaturu stabilnom."
               }
             }
           ],
@@ -883,10 +883,10 @@
               "Check your brake pads before riding through the hilly terrain."
             ],
             "hr": [
-              "Koristite blatobrane kako biste zaštitili leđa od prskanja blata.",
-              "Izbjegavajte nagla kočenja na mokrim obalnim cestama.",
-              "Nosite neon žutu kišnu opremu radi bolje vidljivosti.",
-              "Uspon vas grije, ali ponesite vjetrovku za spust.",
+              "Koristite blatobrane da zaštitite leđa od prskanja blata.",
+              "Izbjegavajte naglo kočenje na mokrim obalnim cestama.",
+              "Nosite neonsko žutu kišnu opremu radi bolje vidljivosti.",
+              "Uspon vas zagrije, ali ponesite vjetrovku za spust.",
               "Provjerite kočione pločice prije vožnje po brdovitom terenu."
             ]
           }
@@ -897,7 +897,7 @@
             "hu": "A téli reggel tökéletes feltételeket kínál egy parti túrához, amíg a Bura nem fúj túl erősen. A tenger feletti fények decemberben egyedülállóak.\n\nA Staro Selo felé vezető emelkedő jó gyakorlat a hideg elűzésére. Felérve a Brač-szigetre nyíló kristálytiszta kilátás minden fáradságot megér.\n\nDélután Krilo kikötője szinte teljesen üres. A kerékpárt bárhol könnyen le lehet tenni, miközben rövid időt a parton töltünk.\n\nA napot legcélszerűbb a parti kávézók egyikében zárni. A naplemente rövid, de a színek télen a legintenzívebbek.",
             "ro": "Dimineața de iarnă oferă condiții perfecte pentru o tură pe coastă, atât timp cât Bura nu suflă prea tare. Lumina de pe mare este unică în decembrie.\n\nUrcarea spre Staro Selo este un exercițiu bun pentru a alunga frigul. Odată ajunși sus, vederea clară spre insula Brač răsplătește orice efort.\n\nDupă-amiaza, portul Krilo este aproape pustiu. Bicicleta poate fi lăsată ușor oriunde în timp ce poposiți puțin pe mal.\n\nZiua se încheie cel mai bine la una dintre cafenelele de pe rivă. Apusul este scurt, dar culorile sunt cele mai intense iarna.",
             "en": "The winter morning offers perfect conditions for a coastal tour, as long as the Bura isn't blowing too hard. The light on the sea is unique in December.\n\nThe climb to Staro Selo is a good exercise to ward off the cold. Once at the top, the crystal-clear view of Brač island rewards every effort.\n\nIn the afternoon, Krilo harbor is almost deserted. The bike can easily be parked anywhere while you linger briefly on the shore.\n\nThe day is best finished in one of the cafés along the Riva. The sunset is brief, but the colors are most intense in winter.",
-            "hr": "Zimsko jutro nudi savršene uvjete za obalnu turu, sve dok bura ne puše previše jako. Svjetlost na moru u prosincu je jedinstvena.\n\nUspon do Starog Sela dobra je vježba za obranu od hladnoće. Kada stignete na vrh, kristalno jasan pogled na otok Brač nagrađuje svaki trud.\n\nPoslijepodne je luka Krilo gotovo pusta. Bicikl se lako može parkirati bilo gdje dok se nakratko zadržavate na obali.\n\nDan je najbolje završiti u jednom od kafića uz rivu. Zalazak sunca je kratak, ali su boje zimi najintenzivnije."
+            "hr": "Zimsko jutro nudi savršene uvjete za obalnu turu, ako bura ne puše prejako. Svjetlo na moru jedinstveno je u prosincu.\n\nUspon do Starog Sela dobar je trening protiv hladnoće. Jednom na vrhu, kristalno čist pogled na otok Brač nagrađuje sav trud.\n\nPopodne je luka Krilo gotovo pust. Bicikl se lako može bilo gdje parkirati dok kratko uživate na obali.\n\nDan je najbolje završiti u jednom od kafića uz Rivu. Zalazak sunca je kratak, ali boje su zimi najintenzivnije."
           },
           "stops": [
             {
@@ -907,7 +907,7 @@
                 "hu": "Viseljen szélálló maszkot vagy sálat a hideg levegő ellen.",
                 "ro": "Purtați o mască rezistentă la vânt sau un fular împotriva aerului rece.",
                 "en": "Wear a windproof mask or scarf against the cold air.",
-                "hr": "Nosite vjetrootpornu masku ili šal protiv hladnog zraka."
+                "hr": "Nosite vjetrootporni šal ili masku protiv hladnog zraka."
               }
             },
             {
@@ -927,7 +927,7 @@
                 "hu": "Kerülje a túlzott izzadást, hogy a leereszkedésnél ne hűljön ki.",
                 "ro": "Evitați transpirația excesivă pentru a nu răci la coborâre.",
                 "en": "Avoid excessive sweating to prevent getting chilled during the descent.",
-                "hr": "Izbjegavajte pretjerano znojenje kako se ne biste pothladili tijekom spusta."
+                "hr": "Izbjegavajte pretjerano znojenje kako se ne biste ohladili tijekom spuštanja."
               }
             },
             {
@@ -937,7 +937,7 @@
                 "hu": "Keressen napos helyeket a kőházak között egy pihenőhöz.",
                 "ro": "Căutați locuri însorite între casele de piatră pentru o pauză.",
                 "en": "Look for sunny spots between the stone houses for a break.",
-                "hr": "Potražite sunčana mjesta između kamenih kuća za odmor."
+                "hr": "Tražite sunčana mjesta između kamenih kuća za pauzu."
               }
             },
             {
@@ -947,7 +947,7 @@
                 "hu": "A téliesített hajók érdekes fotótémákat kínálnak.",
                 "ro": "Bărcile aflate în conservare pentru iarnă oferă motive foto interesante.",
                 "en": "Boats in winter storage offer interesting photo subjects.",
-                "hr": "Brodovi na zimskom vezu nude zanimljive motive za fotografiranje."
+                "hr": "Brodovi u zimskom spremištu pružaju zanimljive motive za fotografiranje."
               }
             },
             {
@@ -957,7 +957,7 @@
                 "hu": "Üljön be egy üvegfrontos kávézóba a kilátásért szél nélkül.",
                 "ro": "Așezați-vă într-o cafenea cu geamuri mari pentru priveliște fără vânt.",
                 "en": "Sit in a café with a glass front for the view without the wind.",
-                "hr": "Sjednite u kafić sa staklenom stijenom za pogled bez vjetra."
+                "hr": "Sjednite u kafić s ostakljenom fasadom za pogled bez vjetra."
               }
             }
           ],
@@ -991,11 +991,11 @@
               "Take advantage of the midday sun for rides in open terrain."
             ],
             "hr": [
-              "Tople rukavice su neophodne za održavanje kontrole nad kočnicama.",
-              "Izbjegavajte vožnju tijekom jake bure (opasnost od naleta vjetra).",
-              "Dani su kratki; planirajte završetak ture do 16:00 sati.",
-              "Nosite izolirane navlake za cipele kako bi vam stopala ostala topla.",
-              "Iskoristite podnevno sunce za vožnju na otvorenom terenu."
+              "Topli rukavice su neophodni za održavanje kontrole kočnica.",
+              "Izbjegavajte vožnju tijekom jakog bure (opasnost od naleta).",
+              "Dani su kratki; planirajte završetak ture za 16:00.",
+              "Nosite izolirane navlake za cipele kako bi vam noge ostale tople.",
+              "Iskoristite podnevno sunce za vožnje po otvorenom terenu."
             ]
           }
         }
@@ -1025,7 +1025,7 @@
             "hu": "Parkoljon a falu szélén, és fedezze fel a történelmi magot.",
             "ro": "Parcați la intrarea în sat și explorați nucleul istoric.",
             "en": "Park at the village entrance and explore the historic core.",
-            "hr": "Parkirajte na ulazu u selo i istražite povijesnu jezgru."
+            "hr": "Parkirajte na ulazu u selo i istražite povijesno središte."
           }
         },
         {
@@ -1044,7 +1044,7 @@
             "hu": "Rövid séta a templomhoz, ahonnan remek a panoráma.",
             "ro": "O scurtă plimbare duce la biserică cu o panoramă grozavă.",
             "en": "A short walk leads to the church with a great panorama.",
-            "hr": "Kratka šetnja vodi do crkve s prekrasnom panoramom."
+            "hr": "Kratka šetnja vodi do crkve s izvrsnom panoramom."
           }
         },
         {
@@ -1063,7 +1063,7 @@
             "hu": "Hajtson le Krilo kikötőjéhez.",
             "ro": "Conduceți jos până la bazinul portuar din Krilo.",
             "en": "Drive down to the harbor basin of Krilo.",
-            "hr": "Spustite se do lučkog bazena u Krilu."
+            "hr": "Spustite se automobilom do lučkog bazena Krilo."
           }
         },
         {
@@ -1082,7 +1082,7 @@
             "hu": "Élvezze a helyi grillételeket közvetlenül a tengerparton.",
             "ro": "Bucurați-vă de preparate locale la grătar chiar lângă mare.",
             "en": "Enjoy local grilled dishes right by the sea.",
-            "hr": "Uživajte u lokalnim jelima s roštilja uz more."
+            "hr": "Uživajte u domaćim jelima s roštilja uz samu obalu."
           }
         },
         {
@@ -1120,7 +1120,7 @@
             "hu": "Egy nyugodt séta a parton.",
             "ro": "O plimbare relaxată pe mal.",
             "en": "A relaxed stroll along the shore.",
-            "hr": "Opuštena šetnja uz obalu."
+            "hr": "Opustena šetnja uz obalu."
           }
         },
         {
@@ -1139,7 +1139,7 @@
             "hu": "Rövid megálló a tökéletes fotóért.",
             "ro": "O scurtă oprire pentru fotografia perfectă.",
             "en": "Short stop for the perfect photo.",
-            "hr": "Kratko zaustavljanje za savršenu fotografiju."
+            "hr": "Kratka stanka za savršenu fotografiju."
           }
         }
       ],
@@ -1148,7 +1148,7 @@
         "hu": "Autóval kényelmesen elérheti Jesenice két ellentétes arcát. Először fedezze fel a történelmi hegyi falut, Staro Selót és a Szent Miklós templomot. Ezután az út a tengerpartra vezet Krilo kikötőjéhez, végül pedig a pihentető Mutogras strandhoz. A rövid menetidők sok időt hagynak a fürdőzésre és a bőséges ebédre.",
         "ro": "Cu mașina puteți ajunge ușor în cele două părți contrastante ale Jesenice. Mai întâi explorați satul istoric de munte Staro Selo și biserica Sf. Nicolae. Apoi, drumul duce la coastă, în portul Krilo, și în final la plaja relaxantă Mutogras. Timpii scurți de condus lasă mult spațiu pentru pauze lungi de baie și o masă copioasă.",
         "en": "By car, you can easily reach the two contrasting parts of Jesenice. First, explore the historic mountain village of Staro Selo and the Church of St. Nicholas. Then, head down to the coast to the harbor of Krilo and finally to the relaxing Mutogras beach. Short driving times leave plenty of room for long swim breaks and a hearty meal.",
-        "hr": "Automobilom možete lako doći do dva kontrastna dijela Jesenica. Prvo istražite povijesno planinsko selo Staro Selo i crkvu sv. Nikole. Zatim se uputite dolje do obale do luke Krilo i na kraju do opuštajuće plaže Mutogras. Kratko vrijeme vožnje ostavlja dovoljno prostora za duge pauze za kupanje i obilan obrok."
+        "hr": "Autom lako možete doći do dviju kontrastnih cjelina Jesenica. Prvo istražite povijesno planinsko selo Staro Selo i crkvu sv. Nikole. Zatim se spustite do obale do luke Krilo i naposljetku do opuštajuće plaže Mutogras. Kratka vremena vožnje ostavljaju dovoljno prostora za duge kupke i obilni obrok."
       },
       "gastro_picks": {
         "de": [
@@ -1273,9 +1273,9 @@
           "Use the car to also visit nearby Omiš."
         ],
         "hr": [
-          "Ceste do planinskog sela su uske i zavojite.",
-          "Parking na plaži Mutogras brzo se popuni usred ljeta.",
-          "Koristite automobil i za posjet obližnjem Omišu."
+          "Ceste prema planinskom selu su uske i vijugave.",
+          "Parkiranje na plaži Mutogras brzo se popunjava u vrhu ljeta.",
+          "Iskoristite automobil i posjetite obližnji Omiš."
         ]
       },
       "variants": {
@@ -1285,7 +1285,7 @@
             "hu": "Az autó esőben az ideális menedék a jesenicei túrához. Reggel szárazon jutunk fel Staro Selóba, ahol hallgathatjuk az eső kopogását az autótetőn.\n\nA templom és a kikötő közötti rövid szakaszok kényelmesen megtehetők. A kikötői parkoló mellett barátságos ebéd vár a konobában.\n\nDélután az autó védelmet nyújt, miközben a viharos Adriát figyeljük a parti útról. Mutogras strandja az ablakból nézve szinte olyan, mint egy fekete-fehér festmény.\n\nAz estét egy kávéval zárjuk a riván, mielőtt a száraz autóval elindulnánk vissza. A kikötő fényei megcsillannak az aszfalt tócsáiban.",
             "ro": "Mașina este refugiul ideal pe ploaie pentru turul prin Jesenice. Dimineața urcați la Staro Selo la adăpost, unde ascultați ploaia bătând în plafonul mașinii.\n\nDistanțele scurte între biserică și port pot fi parcurse confortabil. În konoba de lângă parcarea din port vă așteaptă un prânz primitor.\n\nDupă-amiaza, mașina oferă protecție în timp ce observați marea Adriatică agitată de pe drumul de coastă. Plaja Mutogras pare aproape o pictură alb-negru privită de la fereastră.\n\nSeara se încheie cu o cafea pe rivă, înainte de a porni la drum în mașina uscată. Luminile portului se oglindesc în bălțile de pe asfalt.",
             "en": "The car is the ideal retreat during rain for a tour through Jesenice. In the morning, you head up to Staro Selo staying dry, listening to the rain drumming on the car roof.\n\nThe short distances between the church and the harbor are easily bridged. A cozy lunch awaits in the konoba right by the harbor parking lot.\n\nIn the afternoon, the car provides shelter while watching the stormy Adriatic from the coastal road. Mutogras beach looks almost like a black-and-white painting through the window.\n\nThe evening concludes with a coffee on the Riva before heading back in the dry car. The harbor lights reflect in the puddles on the asphalt.",
-            "hr": "Automobil je idealno utočište tijekom kiše za obilazak Jesenica. Ujutro se uputite u Staro Selo ostajući suhi, slušajući bubnjanje kiše po krovu automobila.\n\nKratke udaljenosti između crkve i luke lako se premoste. Ugodan ručak čeka vas u konobi odmah uz parkiralište u luci.\n\nPoslijepodne automobil pruža zaklon dok promatrate olujni Jadran s obalne ceste. Plaža Mutogras kroz prozor izgleda gotovo poput crno-bijele slike.\n\nVečer završava kavom na rivi prije povratka u suhom automobilu. Lučka svjetla odražavaju se u lokvama na asfaltu."
+            "hr": "Auto je idealno utočište tijekom kiše za izlet kroz Jesenice. Ujutro se vozite gore do Staro Selo suhi, slušajući kako kiša bubnja po krovu auta.\n\nKratke udaljenosti između crkve i luke lako se premoste. U konobi uz lučni parking čeka vas ugodan ručak.\n\nPopodne, auto pruža sklonište dok promatrate uzburkano Jadransko more s obalne ceste. Plaža Mutogras kroz prozor izgleda gotovo poput crno-bijele slike.\n\nVečer završava kavom na Rivi prije povratka u suhi auto. Lučka svjetla reflektiraju se u lokvama na asfaltu."
           },
           "stops": [
             {
@@ -1295,7 +1295,7 @@
                 "hu": "Parkoljon közel a falu bejáratához, hogy minimális legyen a gyalogút az esőben.",
                 "ro": "Parcați aproape de intrarea în sat pentru a minimiza mersul pe jos prin ploaie.",
                 "en": "Park close to the village entrance to minimize walking in the rain.",
-                "hr": "Parkirajte blizu ulaza u selo kako biste smanjili hodanje po kiši."
+                "hr": "Parkirajte blizu ulaza u selo da smanjite hodanje po kiši."
               }
             },
             {
@@ -1305,7 +1305,7 @@
                 "hu": "A templom melletti parkoló esőben is jó kilátást nyújt.",
                 "ro": "Parcarea de lângă biserică oferă o priveliște bună chiar și pe ploaie.",
                 "en": "The parking lot by the church offers a good view even in the rain.",
-                "hr": "Parkiralište kod crkve nudi dobar pogled čak i na kiši."
+                "hr": "Parkiralište kod crkve nudi dobar pogled čak i po kiši."
               }
             },
             {
@@ -1315,7 +1315,7 @@
                 "hu": "Használja a közvetlenül a hajógyár melletti nagy parkolót.",
                 "ro": "Folosiți parcarea mare situată direct lângă șantierul naval.",
                 "en": "Use the large parking lot located directly by the shipyard.",
-                "hr": "Koristite veliko parkiralište koje se nalazi izravno uz brodogradilište."
+                "hr": "Iskoristite veliko parkiralište smješteno odmah uz brodogradilište."
               }
             },
             {
@@ -1325,7 +1325,7 @@
                 "hu": "A közelben gyakran vannak fedett parkolók vagy rövid utak a bejáratig.",
                 "ro": "În apropiere există adesea parcări acoperite sau distanțe scurte până la intrare.",
                 "en": "There are often covered parking spots or short distances to the entrance nearby.",
-                "hr": "U blizini ulaza često postoje natkrivena parkirna mjesta ili su kratke udaljenosti."
+                "hr": "Često postoje natkrivena parkirna mjesta ili kratke udaljenosti do ulaza u blizini."
               }
             },
             {
@@ -1335,7 +1335,7 @@
                 "hu": "Élvezze a hullámverést biztonságban és szárazon az anyósülésről.",
                 "ro": "Bucurați-vă de spectacolul valurilor în siguranță și la uscat de pe locul pasagerului.",
                 "en": "Enjoy the surf safely and dry from the passenger seat.",
-                "hr": "Uživajte u valovima sigurni i suhi s suvozačkog sjedala."
+                "hr": "Sigurno i suho uživajte u udarima valova iz suvozačkog sjedala."
               }
             },
             {
@@ -1345,7 +1345,7 @@
                 "hu": "Egy esernyő a csomagtartóban kötelező ehhez a megállóhoz.",
                 "ro": "O umbrelă în portbagaj este obligatorie pentru această oprire.",
                 "en": "An umbrella in the trunk is mandatory for this stop.",
-                "hr": "Kišobran u prtljažniku je obavezan za ovo zaustavljanje."
+                "hr": "Kišobran u prtljažniku je obavezan za ovu stanku."
               }
             },
             {
@@ -1355,7 +1355,7 @@
                 "hu": "Keressen egy nyugatra néző pihenőhelyet a naplementéhez.",
                 "ro": "Căutați un refugiu cu vedere spre vest pentru apusul soarelui.",
                 "en": "Find a lay-by with a westward view for the sunset.",
-                "hr": "Pronađite ugibalište s pogledom na zapad za zalazak sunca."
+                "hr": "Nađite vidikovac s pogledom prema zapadu za zalazak sunca."
               }
             }
           ],
@@ -1389,11 +1389,11 @@
               "Use the seat heating for extra comfort after visiting the village."
             ],
             "hr": [
-              "Provjerite brisače prije vožnje obalnim brdima.",
-              "Izbjegavajte parkiranje ispod nestabilnih stabala tijekom jakog vjetra.",
-              "Držite ručnik u automobilu za slučaj da pokisnete.",
+              "Provjerite brisače prije vožnje kroz obalne bregove.",
+              "Izbjegavajte parkiranje ispod nestabilnog drveća tijekom jakog vjetra.",
+              "Držite ručnik u autu u slučaju da se smočite.",
               "Obalna cesta može biti skliska tijekom jake kiše; vozite oprezno.",
-              "Koristite grijanje sjedala za dodatnu udobnost nakon posjeta selu."
+              "Koristite grijače sjedala za dodatnu udobnost nakon posjeta selu."
             ]
           }
         },
@@ -1403,7 +1403,7 @@
             "hu": "Egy tiszta téli reggelen az út Jesenicébe önmagában is élmény. A nap csillog Staro Selo zúzmarás tetőin.\n\nDélben kényelmesen lehet parkolni a kikötőben. A konoba meleg ételeket kínál, amiket a nyugodt holtszezonban foglalás nélkül is élvezhetünk.\n\nDélután a túra a part mentén folytatódik, ahol az alacsonyan járó nap folyékony ezüstté változtatja a tengert. Az autó távol tartja a hideg szelet.\n\nA naplemente télen a nap fénypontja. Pontban 16:30-kor a legjobb fotópontok közvetlenül az út mentén találhatók, anélkül, hogy ki kellene szállni az autóból.",
             "ro": "Într-o dimineață senină de iarnă, drumul spre Jesenice este o experiență în sine. Soarele sclipeste pe acoperișurile înghețate din Staro Selo.\n\nLa prânz se poate parca confortabil în port. Konoba oferă mâncăruri calde, pe care le puteți savura în liniștea extrasezonului fără rezervare.\n\nDupă-amiaza, turul continuă de-a lungul coastei, unde soarele care stă jos transformă marea în argint lichid. Mașina ține la distanță vântul rece.\n\nApusul este punctul culminant al zilei iarna. La ora 16:30 fix, cele mai bune puncte foto se află direct lângă drum, fără a fi nevoie să părăsiți mașina.",
             "en": "On a clear winter morning, the drive up to Jesenice is an experience in itself. The sun glistens on the frosty roofs of Staro Selo.\n\nAt noon, parking at the harbor is easy. The local konoba offers warm dishes that can be enjoyed without a reservation during the quiet off-season.\n\nIn the afternoon, the tour continues along the coast, where the low sun turns the sea into liquid silver. The car keeps the cold wind at bay.\n\nThe sunset is the highlight of the day in winter. At exactly 4:30 PM, the best photo spots can be found right by the road without having to leave the car.",
-            "hr": "U vedro zimsko jutro, vožnja do Jesenica doživljaj je sam po sebi. Sunce svjetluca na smrznutim krovovima Starog Sela.\n\nU podne je parkiranje u luci jednostavno. Lokalna konoba nudi topla jela u kojima možete uživati bez rezervacije tijekom mirne izvansezone.\n\nPoslijepodne se tura nastavlja uz obalu, gdje nisko sunce pretvara more u tekuće srebro. Automobil štiti od hladnog vjetra.\n\nZalazak sunca vrhunac je dana zimi. Točno u 16:30 najbolja mjesta za fotografiranje mogu se naći uz samu cestu bez napuštanja automobila."
+            "hr": "U bistru zimsko jutro vožnja prema Jesenicama sama po sebi je doživljaj. Sunce blista na poledjelim krovovima Staro Selo.\n\nU podne je parkiranje u luci jednostavno. Lokalna konoba nudi topla jela koja se mogu uživati bez rezervacije tijekom mirne predsezone.\n\nPopodne tura se nastavlja duž obale, gdje nisko sunce pretvara more u tekuće srebro. Auto drži hladni vjetar podalje.\n\nZalazak sunca je vrhunac dana zimi. Točno u 16:30 najbolje foto-lokacije nalaze se odmah uz cestu bez potrebe da izlazite iz auta."
           },
           "stops": [
             {
@@ -1413,7 +1413,7 @@
                 "hu": "Vigyázat az árnyékos kanyarokban; ott megmaradhat a jég.",
                 "ro": "Atenție la curbele umbroase; acolo se poate menține gheața.",
                 "en": "Caution on shaded curves; ice can persist there.",
-                "hr": "Oprez u sjenovitim zavojima; tamo se može zadržati led."
+                "hr": "Opasnost na zasjenjenim zavoji; led tamo može ostati."
               }
             },
             {
@@ -1423,7 +1423,7 @@
                 "hu": "A tiszta levegő miatt szinte Olaszországig el lehet látni.",
                 "ro": "Aerul curat oferă o vizibilitate până aproape de Italia.",
                 "en": "The clear air offers a view almost as far as Italy.",
-                "hr": "Čisti zrak nudi pogled gotovo do Italije."
+                "hr": "Bistar zrak nudi pogled gotovo sve do Italije."
               }
             },
             {
@@ -1433,7 +1433,7 @@
                 "hu": "Parkoljon szélvédett helyen a kikötői épületek mögött.",
                 "ro": "Parcați ferit de vânt în spatele clădirilor de pe dig.",
                 "en": "Park sheltered from the wind behind the buildings on the quay.",
-                "hr": "Parkirajte u zavjetrini iza zgrada na rivi."
+                "hr": "Parkirajte zaštićeni od vjetra iza zgrada na rivi."
               }
             },
             {
@@ -1443,7 +1443,7 @@
                 "hu": "Élvezze a téli tenger látványát a meleg vendégtérből.",
                 "ro": "Bucurați-vă de vederea mării de iarnă din interiorul cald.",
                 "en": "Enjoy the view of the winter sea from the warm dining room.",
-                "hr": "Uživajte u pogledu na zimsko more iz tople blagovaonice."
+                "hr": "Uživajte u pogledu na zimsko more iz toplog blagovaonice."
               }
             },
             {
@@ -1453,7 +1453,7 @@
                 "hu": "Egy rövid fotómegálló elég; a szél a strandon télen jeges.",
                 "ro": "O scurtă oprire pentru poze e suficientă; vântul pe plajă e înghețat iarna.",
                 "en": "A short photo stop is enough; the wind on the beach is icy in winter.",
-                "hr": "Kratko zaustavljanje za fotografiju je dovoljno; vjetar na plaži je zimi leden."
+                "hr": "Kratka foto-stanka je dovoljna; vjetar na plaži zimi je leden."
               }
             },
             {
@@ -1463,7 +1463,7 @@
                 "hu": "Viseljen meleg cipőt; a kőpadló ontja magából a hideget.",
                 "ro": "Purtați pantofi călduroși; pavajul de piatră emană frig.",
                 "en": "Wear warm shoes; the stone ground radiates cold.",
-                "hr": "Nosite toplu obuću; kameno tlo isijava hladnoću."
+                "hr": "Nosite tople cipele; kameni pod zrači hladnoću."
               }
             },
             {
@@ -1473,7 +1473,7 @@
                 "hu": "Érkezzen időben; a fényáradat télen csak rövid ideig tart.",
                 "ro": "Veniți din timp; spectacolul de lumini dure mint puțin iarna.",
                 "en": "Arrive in good time; the light show lasts only a short time in winter.",
-                "hr": "Dođite na vrijeme; svjetlosni show zimi traje kratko."
+                "hr": "Stignite na vrijeme; svjetlosni show traje kratko zimi."
               }
             }
           ],
@@ -1508,9 +1508,9 @@
             ],
             "hr": [
               "Zimske gume su obavezne ako vozite na veće nadmorske visine.",
-              "Provjerite antifriz u sustavu za pranje vjetrobranskog stakla.",
-              "Ponesite deku za pauze u automobilu.",
-              "Iskoristite nisko sunce za dramatične fotografije krajolika.",
+              "Provjerite antifriz u tekućini prskalica vjetrobrana.",
+              "Ponesite deku za stanke u autu.",
+              "Iskoristite nisko sunce za dramatične pejzažne fotografije.",
               "Planinske ceste mogu se brzo zalediti nakon zalaska sunca."
             ]
           }
@@ -1541,7 +1541,7 @@
             "hu": "Helyi busz vagy taxi visz fel a tengerpartról.",
             "ro": "Autobuzele locale sau taxiurile vă duc sus de pe coastă.",
             "en": "Local buses or taxis take you up from the coastal town.",
-            "hr": "Lokalni autobusi ili taksiji voze vas gore iz obalnog mjesta."
+            "hr": "Lokalni autobusi ili taksiji voze vas iz obalnog mjesta prema gore."
           }
         },
         {
@@ -1560,7 +1560,7 @@
             "hu": "A buszmegálló közvetlenül a főúton, a kikötőnél van.",
             "ro": "Stația de autobuz este direct pe drumul principal, lângă port.",
             "en": "The bus stop is right on the main road by the harbor.",
-            "hr": "Autobusna stanica je na samoj glavnoj cesti kod luke."
+            "hr": "Autobusna stanica je odmah na glavnoj cesti kraj luke."
           }
         },
         {
@@ -1598,7 +1598,7 @@
             "hu": "A 60-as busz megállója nagyon közel van a strandhoz.",
             "ro": "Autobuzul 60 oprește foarte aproape de plajă.",
             "en": "The line 60 bus stops very close to the beach.",
-            "hr": "Autobus linije 60 staje vrlo blizu plaže."
+            "hr": "Linija 60 staje vrlo blizu plaže."
           }
         },
         {
@@ -1617,7 +1617,7 @@
             "hu": "Egy finom fagylalt a nap végére.",
             "ro": "O înghețată delicioasă la finalul zilei.",
             "en": "A delicious ice cream to end the day.",
-            "hr": "Ukusni sladoled za kraj dana."
+            "hr": "Ukusan sladoled za završetak dana."
           }
         }
       ],
@@ -1626,7 +1626,7 @@
         "hu": "A part menti jó buszközlekedésnek köszönhetően (60-as járat Split és Omiš között) Jesenice könnyen felfedezhető. A nap során ellátogathat a régi hegyi faluba, bepillanthat Krilo kikötőjének életébe, és lazíthat a Mutogras strandon. Minden elérhető autó nélkül is, a rövid buszutakat kihasználva.",
         "ro": "Datorită legăturilor bune de autobuz de-a lungul coastei (linia 60 între Split și Omiș), Jesenice este ușor de explorat. Ziua combină vizita în satul vechi de munte cu activitatea din portul Krilo și orele de relaxare pe plaja Mutogras. Totul este realizabil fără mașină personală, folosind scurte călătorii cu autobuzul.",
         "en": "Thanks to the good bus connections along the coast (line 60 between Split and Omiš), Jesenice is easy to explore. The day combines a visit to the old mountain village with the hustle and bustle of Krilo harbor and relaxing hours at Mutogras beach. Everything is doable without a car by using short bus rides.",
-        "hr": "Zahvaljujući dobrim autobusnim vezama duž obale (linija 60 između Splita i Omiša), Jesenice je lako istražiti. Dan kombinira posjet starom planinskom selu s vrevom luke Krilo i opuštajućim satima na plaži Mutogras. Sve je izvedivo bez automobila koristeći kratke vožnje autobusom."
+        "hr": "Zahvaljujući dobrim autobusnim vezama duž obale (linija 60 između Splita i Omiša), Jesenice se lako istražuju. Dan spaja posjet starom planinskom selu s užurbanosti luke Krilo i opuštajućim satima na plaži Mutogras. Sve je izvedivo bez auta koristeći kratke vožnje autobusom."
       },
       "gastro_picks": {
         "de": [
@@ -1751,9 +1751,9 @@
           "The stops are well marked, look for the name 'Krilo'."
         ],
         "hr": [
-          "Autobus 60 vozi svakih 20-30 minuta.",
-          "Kupite karte izravno kod vozača ili putem aplikacije.",
-          "Stanice su dobro označene, tražite naziv 'Krilo'."
+          "Autobus 60 vozi svakih 20–30 minuta.",
+          "Karte kupite izravno kod vozača ili putem aplikacije.",
+          "Stajališta su dobro označena, potražite ime 'Krilo'."
         ]
       },
       "variants": {
@@ -1763,7 +1763,7 @@
             "hu": "Az esős reggel Jesenicében a buszozást kényelmes élménnyé teszi. Staro Selóból a szürke tengert a bepárásodott ablakokon keresztül figyelhetjük.\n\nDélben a Luka Krilo kikötőbe érkezve csak rövid utat kell megtennünk a konobákig. Több időt töltünk bent, ahol meleg és száraz minden.\n\nDélután Mutogras strandja csak egy rövid sétára van a buszmegállótól. Az eső távol tartja a tömeget, így a hely szinte privátnak tűnik.\n\nAz estét a buszmegálló melletti kávézóban zárjuk. Egy meleg itallal könnyebb várni a városba visszainduló buszra.",
             "ro": "O dimineață ploioasă în Jesenice face din călătoria cu autobuzul o experiență confortabilă. Din Staro Selo, marea gri poate fi observată prin geamurile aburite.\n\nLa prânz, sosirea în portul Luka Krilo oferă distanțe scurte până la konobe. Veți petrece mai mult timp în interior, unde este cald și uscat.\n\nDupă-amiaza, plaja Mutogras este la doar o scurtă plimbare de stația de autobuz. Ploaia ține mulțimile la distanță, făcând locul să pară aproape privat.\n\nSeara se încheie într-o cafenea de lângă stație. Cu o băutură caldă, așteptarea autobuzului spre oraș este mai ușoară.",
             "en": "A rainy morning in Jesenice makes the bus ride a cozy experience. From Staro Selo, the gray sea can be observed through misty windows.\n\nAt noon, arriving at Luka Krilo harbor means short walks to the local konobas. You spend more time indoors where it's warm and dry.\n\nIn the afternoon, Mutogras beach is just a short walk from the bus stop. The rain keeps the crowds away, making the place feel almost private.\n\nThe evening ends in a café by the stop. With a warm drink, waiting for the bus back to the city is much easier.",
-            "hr": "Kišno jutro u Jesenicama čini vožnju autobusom ugodnim iskustvom. Iz Starog Sela sivo more može se promatrati kroz zamagljene prozore.\n\nU podne, dolazak u luku Krilo znači kratke šetnje do lokalnih konoba. Više vremena provodite u zatvorenom prostoru gdje je toplo i suho.\n\nPoslijepodne je plaža Mutogras udaljena samo kratku šetnju od autobusne stanice. Kiša tjera gužvu, čineći mjesto gotovo privatnim.\n\nVečer završava u kafiću uz stanicu. Uz topli napitak, čekanje autobusa natrag u grad je mnogo lakše."
+            "hr": "Kišno jutro u Jesenicama čini vožnju autobusom ugodnim iskustvom. Iz Staro Selo sivu pučinu možete promatrati kroz maglovita stakla.\n\nU podne, dolazak u luku Luka Krilo znači kratke šetnje do lokalnih konoba. Više vremena provodite unutra gdje je toplo i suho.\n\nPopodne, plaža Mutogras je samo kratka šetnja od autobuskog stajališta. Kiša drži mase podalje, pa mjesto djeluje gotovo privatno.\n\nVečer završava u kafiću pored stajališta. Uz topao napitak čekanje autobusa natrag u grad lakše je podnijeti."
           },
           "stops": [
             {
@@ -1773,7 +1773,7 @@
                 "hu": "Ellenőrizze az indulási időket; esőben a buszok késhetnek.",
                 "ro": "Verificați orele de plecare; autobuzele pot avea întârzieri pe ploaie.",
                 "en": "Check departure times; buses can be delayed in the rain.",
-                "hr": "Provjerite vremena polaska; autobusi mogu kasniti na kiši."
+                "hr": "Provjerite vrijeme polazaka; autobusi mogu kasniti po kiši."
               }
             },
             {
@@ -1783,7 +1783,7 @@
                 "hu": "Várja a csatlakozást a buszmegálló teteje alatt.",
                 "ro": "Așteptați legătura sub acoperișul stației de autobuz.",
                 "en": "Wait for your connection under the bus stop roof.",
-                "hr": "Čekajte svoju vezu pod krovom autobusne stanice."
+                "hr": "Sklonite se ispod krovišta autobusnog stajališta dok čekate vezu."
               }
             },
             {
@@ -1793,7 +1793,7 @@
                 "hu": "Válasszon olyan éttermet, amely rálát a buszmegállóra.",
                 "ro": "Alegeți un restaurant cu vedere spre stația de autobuz.",
                 "en": "Choose a restaurant within sight of the bus stop.",
-                "hr": "Odaberite restoran koji je u vidokrugu autobusne stanice."
+                "hr": "Odaberite restoran u vidokrugu autobusnog stajališta."
               }
             },
             {
@@ -1813,7 +1813,7 @@
                 "hu": "Fagylalt helyett egy forró kakaó vagy tea jobb választás.",
                 "ro": "În loc de înghețată, o ciocolată caldă sau un ceai este alegerea mai bună.",
                 "en": "Instead of ice cream, hot cocoa or tea is a better choice.",
-                "hr": "Umjesto sladoleda, bolji izbor je vrući kakao ili čaj."
+                "hr": "Umjesto sladoleda, bolji izbor su topli kakao ili čaj."
               }
             }
           ],
@@ -1848,9 +1848,9 @@
             ],
             "hr": [
               "Imajte spremnu aplikaciju 'Promet Split' za informacije u stvarnom vremenu.",
-              "Ponesite sitan novac za kartu kod vozača autobusa.",
-              "Stanice često nude malo zaklona; ponesite kišobran.",
-              "Učestalost autobusa može se smanjiti izvan sezone i tijekom kiše.",
+              "Ponesite sitniš za kartu kod vozača autobusa.",
+              "Stajališta često nude malu zaštitu; ponesite kišobran.",
+              "U izvansezoni i tijekom kiše učestalost autobusa može se smanjiti.",
               "Iskoristite vrijeme u autobusu za planiranje rute na karti."
             ]
           }
@@ -1861,7 +1861,7 @@
             "hu": "Egy hideg téli reggelen a busz biztonságban elvisz Jesenice felső falujába. A tiszta levegő és az üres ülések nyugodt utazást biztosítanak.\n\nDélben a Luka Krilo kikötő csendes pont. A megállók és a meleg konobák közötti rövid utak télen ideálisak.\n\nDélután Mutogras strandja egy rövid, frissítő sétára hívogat. A szél végigsöpör a vízen, miközben a következő buszra várunk.\n\nAz estét legcélszerűbb egy jól kivilágított helyen, a megálló közelében tölteni. A sötétben való visszautazás remek kilátást nyújt a part menti fényekre.",
             "ro": "Într-o dimineață rece de iarnă, autobuzul vă duce în siguranță în satul de sus din Jesenice. Aerul curat și scaunele libere fac călătoria relaxantă.\n\nLa prânz, portul Luka Krilo este un punct de ancorare liniștit. Distanțele scurte între stații și konobele calde sunt ideale iarna.\n\nDupă-amiaza, plaja Mutogras vă invită la o scurtă plimbare revigorantă. Vântul mătură apa în timp ce așteptați următorul autobuz.\n\nSeara este cel mai bine să o petreceți într-un loc bine luminat lângă stație. Drumul de întoarcere pe întuneric oferă o vedere minunată asupra luminilor coastei.",
             "en": "On a cold winter morning, the bus takes you safely to the upper village of Jesenice. The clear air and empty seats make for a relaxed journey.\n\nAt noon, Luka Krilo harbor is a quiet anchor point. The short distances between stops and warm local konobas are ideal in winter.\n\nIn the afternoon, Mutogras beach invites you for a short, refreshing walk. The wind sweeps across the water while you wait for the next bus.\n\nThe evening is best spent in a well-lit spot near the stop. The ride back in the dark offers a great view of the coastal lights.",
-            "hr": "Hladnog zimskog jutra autobus vas sigurno vozi do gornjeg sela Jesenica. Čisti zrak i prazna sjedala čine putovanje opuštenim.\n\nU podne je luka Krilo mirna sidrišna točka. Kratke udaljenosti između stanica i toplih lokalnih konoba idealne su zimi.\n\nPoslijepodne plaža Mutogras poziva na kratku, osvježavajuću šetnju. Vjetar briše preko vode dok čekate sljedeći autobus.\n\nVečer je najbolje provesti na dobro osvijetljenom mjestu blizu stanice. Vožnja natrag u mraku nudi prekrasan pogled na obalna svjetla."
+            "hr": "U hladno zimsko jutro autobus vas sigurno vozi do gornjeg sela Jesenice. Bistar zrak i prazna sjedala čine putovanje opuštenim.\n\nU podne, luka Luka Krilo je mirna točka. Kratke udaljenosti među stajalištima i tople lokalne konobe idealne su zimi.\n\nPopodne, plaža Mutogras poziva na kratku, osvježavajuću šetnju. Vjetar premeta vodu dok čekate sljedeći autobus.\n\nVečer je najbolje provesti na dobro osvijetljenom mjestu blizu stajališta. Povratak u mraku nudi sjajan pogled na obalna svjetla."
           },
           "stops": [
             {
@@ -1871,7 +1871,7 @@
                 "hu": "Öltözzön melegen; a szabadban való várakozás hűvös lehet.",
                 "ro": "Purtați haine groase; timpii de așteptare în aer liber pot fi reci.",
                 "en": "Wear warm clothing; waiting outdoors can be chilly.",
-                "hr": "Nosite toplu odjeću; čekanje na otvorenom može biti hladno."
+                "hr": "Obucite se toplo; čekanje na otvorenom može biti hladno."
               }
             },
             {
@@ -1881,7 +1881,7 @@
                 "hu": "Télen a buszok ritkábban járnak; tervezzen pontosan.",
                 "ro": "Iarna autobuzele circulă mai rar; planificați-vă timpul cu grijă.",
                 "en": "Buses run less frequently in winter; plan carefully.",
-                "hr": "Autobusi rjeđe voze zimi; pažljivo planirajte."
+                "hr": "Autobusi voze rjeđe zimi; pažljivo planirajte."
               }
             },
             {
@@ -1901,7 +1901,7 @@
                 "hu": "Maradjon mozgásban, hogy melegen tartsa magát a szeles strandon.",
                 "ro": "Rămâneți în mișcare pentru a vă menține căldura pe plaja vântoasă.",
                 "en": "Keep moving to stay warm on the windy beach.",
-                "hr": "Ostanite u pokretu kako biste se zagrijali na vjetrovitoj plaži."
+                "hr": "Krećite se da ostanete topli na vjetrovitoj plaži."
               }
             },
             {
@@ -1911,7 +1911,7 @@
                 "hu": "Élvezzen inkább egy forró levest egy helyi vendéglőben.",
                 "ro": "Savurați în schimb o supă caldă într-un local din apropiere.",
                 "en": "Enjoy a hot soup in a local eatery instead.",
-                "hr": "Umjesto toga, uživajte u toploj juhi u lokalnom restoranu."
+                "hr": "Umjesto toga uživajte u toploj juhi u lokalnom lokalu."
               }
             }
           ],
@@ -1945,11 +1945,11 @@
               "The stop near the marina offers the best wind protection."
             ],
             "hr": [
-              "Obratite pozornost na zimski vozni red.",
-              "Autobus je najsigurnija opcija na zaleđenim cestama u brdima.",
-              "Sjednite na stranu autobusa do mora za najbolje poglede.",
-              "Autobusi zimi mogu biti dobro zagrijani; odjenite se slojevito.",
-              "Stanica blizu marine nudi najbolju zaštitu od vjetra."
+              "Obratite pažnju na zimski vozni red (Vozni Red).",
+              "Autobus je najsigurnija opcija na polednjim cestama u brdima.",
+              "Sjednite na stranu autobusa okrenutu prema moru za najbolji pogled.",
+              "Autobusi mogu biti dobro zagrijani zimi; obucite se u slojevima.",
+              "Stajalište blizu marine nudi najbolju zaštitu od vjetra."
             ]
           }
         }

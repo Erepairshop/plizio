@@ -70,7 +70,7 @@
             "hu": "Kóstolja meg a polipsalátát vagy a sült szardíniát.",
             "ro": "Încercați salata de caracatiță sau sardinele la grătar.",
             "en": "Try the octopus salad or grilled sardines.",
-            "hr": "Probajte salatu od hobotnice ili srdele na žaru."
+            "hr": "Probajte salatu od hobotnice ili pečene sardine."
           }
         },
         {
@@ -127,7 +127,7 @@
             "hu": "Élvezze a kilátást a szemközti szárazföldre.",
             "ro": "Bucurați-vă de priveliștea spre continentul de vizavi.",
             "en": "Enjoy the view towards the mainland opposite.",
-            "hr": "Uživajte u pogledu prema kopnu na suprotnoj strani."
+            "hr": "Uživajte u pogledu prema kopnu preko puta."
           }
         }
       ],
@@ -136,7 +136,7 @@
         "hu": "A napja Ugljan faluban, a Zadarral szemközti 'zöld szigeten' kezdődik. Reggel a tengerparti Szent Jeromos-kolostor békéjét élvezheti, majd a Mostir strand homokos partján pihenhet. Egy hagyományos dalmát ebéd után felfedezheti a Califfi-kastélyt, a napot pedig egy hangulatos kikötői sétával és a naplemente látványával zárhatja.",
         "ro": "Ziua începe în satul Ugljan, pe 'insula verde' vizavi de Zadar. Dimineața vizitați mănăstirea liniștită Sf. Ieronim de la malul mării. Urmează o pauză lungă de înot pe plaja cu nisip Mostir. După un prânz tradițional dalmațian, explorați Castelul Califfi și încheiați ziua cu o plimbare relaxantă în port, admirând apusul de soare.",
         "en": "Your day starts in Ugljan village, on the 'green island' opposite Zadar. In the morning, enjoy the peace of St. Jerome Monastery by the sea. Then, head to Mostir beach for a long swim in its shallow sandy waters. After a traditional Dalmatian lunch, explore the Califfi Castle and end your day with a relaxed harbor stroll and a sunset view.",
-        "hr": "Vaš dan počinje u selu Ugljan, na 'zelenom otoku' nasuprot Zadra. Ujutro uživajte u miru samostana sv. Jeronima uz more. Zatim se uputite na plažu Mostir na dugo kupanje u plitkom pješčanom moru. Nakon tradicionalnog dalmatinskog ručka, istražite dvorac Califfi i završite dan opuštenom šetnjom lukom uz pogled na zalazak sunca."
+        "hr": "Vaš dan započinje u selu Ugljan, na 'zelenom otoku' preko puta Zadra. Ujutro uživajte u miru samostana sv. Jeronima uz more. Zatim se uputite na plažu Mostir na dug kupanje u plitkim pješčanim vodama. Nakon tradicionalnog dalmatinskog ručka istražite dvorac Califfi i završite dan opuštenom šetnjom lukom i zalaskom sunca."
       },
       "gastro_picks": {
         "de": [
@@ -326,9 +326,9 @@
           "A midday siesta in the harbor cafes is very authentic."
         ],
         "hr": [
-          "Ponesite obuću za vodu, iako je Mostir pješčana plaža.",
-          "Trajekti iz Zadra za Preko voze vrlo često.",
-          "Popodnevna siesta u kafićima u luci vrlo je autentičan doživljaj."
+          "Ponesite vodene papuče, iako je Mostir pješčan.",
+          "Trajekti iz Zadra za Preko prometuju vrlo često.",
+          "Uz dnevnu siestu u kafićima luke doživljaj je vrlo autentičan."
         ]
       },
       "variants": {
@@ -338,7 +338,7 @@
             "hu": "Reggel a Szent Jeromos-kolostor kerengőjében bújunk el az eső elől. Délben egy konoba melegében élvezzük a hosszú ebédet. Délután a Califfi-kastély fedett termeit járjuk be. Este a kikötő feletti drámai felhőket csodáljuk meg egy rövid, frissítő séta során.",
             "ro": "Dimineața ne adăpostim de ploaie în claustrul mănăstirii Sf. Ieronim. La prânz savurăm un prânz lung în căldura unei konoba. După-amiaza explorăm interiorul uscat al castelului Califfi. Seara admirăm norii dramatici deasupra portului în timpul unei plimbări scurte.",
             "en": "Morning finds us seeking shelter in the cloister of St. Jerome monastery. At noon, enjoy a long, cozy lunch in a warm konoba. Afternoon is perfect for exploring the indoor history of Califfi Castle. In the evening, admire the dramatic clouds over the harbor during a quick walk.",
-            "hr": "Jutro nas nalazi u potrazi za zaklonom u klaustru samostana sv. Jeronima. U podne uživajte u dugom, ugodnom ručku u toploj konobi. Poslijepodne je savršeno za istraživanje povijesti dvorca Califfi u zatvorenom prostoru. Navečer se divite dramatičnim oblacima iznad luke tijekom brze šetnje."
+            "hr": "Jutro nas zatiče u klaustru samostana sv. Jeronima. U podne uživajte u dugom, ugodnom ručku u toploj konobi. Poslijepodne je idealno za istraživanje unutarnje povijesti dvorca Califfi. Navečer divite se dramatičnim oblacima nad lukom tijekom brze šetnje."
           },
           "stops": [
             {
@@ -348,7 +348,7 @@
                 "hu": "A kerengő tökéletes menedéket nyújt az eső elől.",
                 "ro": "Claustrul oferă adăpost perfect împotriva ploii.",
                 "en": "The cloister provides perfect shelter from the rain.",
-                "hr": "Klaustar pruža savršen zaklon od kiše."
+                "hr": "Klaustar pruža savršeno sklonište od kiše."
               }
             },
             {
@@ -358,7 +358,7 @@
                 "hu": "Nézze a felkorbácsolt tengert a közeli kávézó teraszáról.",
                 "ro": "Priviți marea agitată de pe terasa cafenelei din apropiere.",
                 "en": "Watch the choppy sea from the nearby cafe terrace.",
-                "hr": "Promatrajte uzburkano more s terase obližnjeg kafića."
+                "hr": "Promatrajte razigrano more s terase obližnjeg kafića."
               }
             },
             {
@@ -368,7 +368,7 @@
                 "hu": "Ideális idő egy hagyományos peka vagy halleves elfogyasztására.",
                 "ro": "Moment ideal pentru o peka tradițională sau o supă de pește.",
                 "en": "Ideal time for a traditional peka or fish soup.",
-                "hr": "Idealno vrijeme za tradicionalnu peku ili riblju juhu."
+                "hr": "Idealno vrijeme za tradicionalnu peka ili riblju juhu."
               }
             },
             {
@@ -388,7 +388,7 @@
                 "hu": "Vigyázat a csúszós köveken; a tapadós talpú cipő fontos.",
                 "ro": "Atenție pe pietrele alunecoase; tălpile aderente sunt importante.",
                 "en": "Caution on slippery stones; grippy soles are important.",
-                "hr": "Oprez na skliskom kamenju; važno je imati potplate koji ne kližu."
+                "hr": "Opasnost od klizavih kamenja; čvrst đon je važan."
               }
             },
             {
@@ -398,7 +398,7 @@
                 "hu": "Ma nagy eséllyel látható szivárvány a tenger felett.",
                 "ro": "Un curcubeu peste mare este foarte probabil astăzi.",
                 "en": "A rainbow over the sea is very likely today.",
-                "hr": "Duga iznad mora danas je vrlo vjerojatan prizor."
+                "hr": "Duga nad morem danas je vrlo vjerojatna."
               }
             }
           ],
@@ -428,10 +428,10 @@
               "Plan more time for the konoba to wait out the bad weather."
             ],
             "hr": [
-              "Iskoristite prekide kiše za kratke udaljenosti između zgrada.",
-              "Sklopivi kišobran je nepraktičan zbog udara vjetra na otoku; radije ponesite kabanicu.",
-              "Kamene ploče u Ugljanu postaju izuzetno skliske kad su mokre.",
-              "Planirajte više vremena za konobu kako biste pričekali da prođe loše vrijeme."
+              "Iskoristite prestanke kiše za kratke udaljenosti između zgrada.",
+              "Sklopivi kišobran je nepraktičan u otočnim naletima vjetra; radije ponijeđite kabanicu.",
+              "Kamenite ploče u Ugljanu postaju izuzetno skliske kad su mokre.",
+              "Planirajte više vremena u konobi kako biste pričekali loše vrijeme."
             ]
           }
         },
@@ -441,7 +441,7 @@
             "hu": "A reggel frissen indul a kolostornál, ahol a téli nap melengeti a köveket. Délben egy kandallótűz melletti asztalt keresünk az étteremben. Délután a csendes Ugljan falun sétálunk keresztül. A korai, 16:30 körüli naplementét a kikötőben élvezzük.",
             "ro": "Dimineața începe proaspăt la mănăstire, unde soarele de iarnă încălzește pietrele. La prânz căutăm confortul unui foc în șemineu la restaurant. După-amiaza ne plimbăm prin satul liniștit Ugljan. Admirăm apusul timpuriu, în jurul orei 16:30, în port.",
             "en": "Morning starts briskly at the monastery, with winter sun warming the stones. At noon, seek the comfort of a fireplace in the restaurant. Afternoon is for a walk through the quiet village of Ugljan. Enjoy the early sunset around 16:30 by the harbor.",
-            "hr": "Jutro počinje svježe kod samostana, uz zimsko sunce koje grije kamenje. U podne potražite udobnost uz kamin u restoranu. Poslijepodne je rezervirano za šetnju kroz tiho selo Ugljan. Uživajte u ranom zalasku sunca oko 16:30 u luci."
+            "hr": "Jutro počinje živahno u samostanu, zimsko sunce grije kamenje. U podne potražite udobnost uz kamin u restoranu. Poslijepodne prošetajte mirnim selom Ugljan. Uživajte u ranom zalasku oko 16:30 uz luku."
           },
           "stops": [
             {
@@ -461,7 +461,7 @@
                 "hu": "Egy tempós tengerparti séta most kifejezetten frissítő.",
                 "ro": "O plimbare rapidă pe plajă este foarte revigorantă acum.",
                 "en": "A brisk beach walk is very refreshing now.",
-                "hr": "Brza šetnja plažom sada djeluje vrlo osvježavajuće."
+                "hr": "Hodanje po plaži je sada vrlo osvježavajuće."
               }
             },
             {
@@ -471,7 +471,7 @@
                 "hu": "Kérje a legutóbbi szüret borát a felmelegedéshez.",
                 "ro": "Cereți vinul de la ultima recoltă pentru a vă încălzi.",
                 "en": "Ask for the wine from the last harvest to warm up.",
-                "hr": "Zatražite vino iz zadnje berbe kako biste se ugrijali."
+                "hr": "Za ugrijavanje zatražite vino iz posljednje berbe."
               }
             },
             {
@@ -491,7 +491,7 @@
                 "hu": "Öltözzön szélbiztosan, a bóra itt erősen fújhat.",
                 "ro": "Îmbrăcați-vă rezistent la vânt, bora poate sufla puternic aici.",
                 "en": "Dress windproof, as the Bura wind can blow strongly here.",
-                "hr": "Odjenite se nepropusno za vjetar jer bura ovdje može snažno puhati."
+                "hr": "Obucite nešto vjetrootporno, jer ovdje može jako puhati bura."
               }
             },
             {
@@ -501,7 +501,7 @@
                 "hu": "A naplemente télen különösen intenzív színekben pompázik.",
                 "ro": "Apusul este deosebit de intens în culori în timpul iernii.",
                 "en": "The sunset is especially color-intense in winter.",
-                "hr": "Zalazak sunca je zimi posebno intenzivnih boja."
+                "hr": "Zalazak sunca posebno je intenzivan u bojama zimi."
               }
             }
           ],
@@ -531,10 +531,10 @@
               "The air is crystal clear in winter, ideal for long-distance views of the mainland."
             ],
             "hr": [
-              "Imajte na umu da sunce zalazi već u 16:30.",
-              "Mnogi kafići su zatvoreni zimi; tražite mjesta u koja odlaze lokalni stanovnici.",
-              "Odjenite se slojevito; u hladu je znatno hladnije nego na suncu.",
-              "Zrak je zimi kristalno čist, idealan za poglede na kopno u daljini."
+              "Imajte na umu da sunce zalazi već oko 16:30.",
+              "Mnogi kafići su zimi zatvoreni; tražite mjesta koja posjećuju mještani.",
+              "Nosite više slojeva; u sjeni je znatno hladnije nego na suncu.",
+              "Zrak je zimi kristalno čist, idealan za dalekosežne poglede na kopno."
             ]
           }
         }
@@ -564,7 +564,7 @@
             "hu": "Csendes kezdés a sziget északi részén.",
             "ro": "Început liniștit în nordul insulei.",
             "en": "Quiet start in the north of the island.",
-            "hr": "Mirni početak na sjeveru otoka."
+            "hr": "Tih početak na sjeveru otoka."
           }
         },
         {
@@ -583,7 +583,7 @@
             "hu": "Kulturális megálló a nagy tekerés előtt.",
             "ro": "Popas cultural înainte de drumul lung.",
             "en": "Cultural stop before the long ride.",
-            "hr": "Kulturna postaja prije duge vožnje."
+            "hr": "Kulturna stanica prije duže vožnje."
           }
         },
         {
@@ -602,7 +602,7 @@
             "hu": "A kaptató megéri a 200 szigetre nyíló panoráma miatt.",
             "ro": "Urcarea merită pentru panorama peste cele 200 de insule.",
             "en": "The climb is worth it for the panorama over 200 islands.",
-            "hr": "Uspon se isplati zbog panorame na preko 200 otoka."
+            "hr": "Uspon se isplati zbog panorame preko 200 otoka."
           }
         },
         {
@@ -621,7 +621,7 @@
             "hu": "Pihenő Preko kikötőjében.",
             "ro": "Odihnă în portul Preko.",
             "en": "Rest at Preko harbor.",
-            "hr": "Odmor u luci u Preku."
+            "hr": "Odmorite u luci Preko."
           }
         },
         {
@@ -640,7 +640,7 @@
             "hu": "Felfrissülés a visszautat követően.",
             "ro": "Răcorire după drumul de întoarcere.",
             "en": "Refreshment after the return ride.",
-            "hr": "Osvježenje nakon povratne vožnje."
+            "hr": "Okrijepa nakon povratne vožnje."
           }
         }
       ],
@@ -649,7 +649,7 @@
         "hu": "Ez a kerékpártúra a kultúrát és a kalandot ötvözi. Ugljanban kezd a kolostornál és a kastélynál, majd a part menti úton Preko felé teker. A csúcspont a Szent Mihály-erődhöz vezető meredek kaptató, ahonnan az Adria legszebb panorámája nyílik. A leereszkedés és egy prekói ebéd után visszateker Ugljanba egy megérdemelt csobbanásra a Mostir strandon.",
         "ro": "Acest tur cu bicicleta combină cultura cu aventura. Începeți în Ugljan cu mănăstirea și castelul, apoi pedalați pe drumul de coastă spre Preko. Punctul culminant este urcarea abruptă la Cetatea Sf. Mihail, de unde aveți cea mai bună vedere asupra Adriaticii. După coborâre și un prânz în Preko, pedalați înapoi pentru o baie binemeritată pe plaja Mostir.",
         "en": "This bike tour combines culture and adventure. Start in Ugljan with the monastery and castle, then cycle along the coastal road towards Preko. The highlight is the steep climb to St. Michael's Fortress, offering the best view over the Adriatic. After the descent and lunch in Preko, cycle back for a well-deserved swim at Mostir beach.",
-        "hr": "Ova biciklistička tura spaja kulturu i avanturu. Počnite u Ugljanu sa samostanom i dvorcem, a zatim vozite obalnom cestom prema Preku. Vrhunac je strmi uspon do tvrđave sv. Mihovila, s koje se pruža najbolji pogled na Jadran. Nakon spusta i ručka u Preku, vratite se biciklom na zasluženo kupanje na plaži Mostir."
+        "hr": "Ova biciklistička tura spaja kulturu i avanturu. Počnite u Ugljanu sa samostanom i dvorcem, potom vozite uz obalnu cestu prema Preku. Vrhunac je strmi uspon do Tvrđave sv. Mihovila, koji nudi najbolji pogled na Jadran. Nakon spusta i ručka u Preku, vratite se biciklom za zasluženo kupanje na plaži Mostir."
       },
       "gastro_picks": {
         "de": [
@@ -774,9 +774,9 @@
           "The coastal road has some gradients."
         ],
         "hr": [
-          "E-bicikl se toplo preporučuje za put do tvrđave.",
-          "Ponesite puno vode jer na usponu ima malo hlada.",
-          "Obalna cesta ima nekoliko uzbrdica."
+          "E-bike je toplo preporučen za put do tvrđave.",
+          "Ponesite dovoljno vode, jer na usponu ima malo hlada.",
+          "Obalna cesta ima neke uzbrdice."
         ]
       },
       "variants": {
@@ -786,7 +786,7 @@
             "hu": "Óvatosan indulunk a kolostortól, kerülve a földeutakat. A Califfi-kastély után aszfaltozott mellékutakon tekerünk. Délben megérdemelt pihenőt tartunk Prekóban. A délutánt a part közelében töltjük, készen bármilyen fedett menedékre.",
             "ro": "Pornim cu atenție de la mănăstire, evitând drumurile neasfaltate. După castelul Califfi pedalăm pe drumuri secundare asfaltate. La prânz facem o pauză meritată în Preko. După-amiaza o petrecem lângă coastă, gata pentru orice adăpost.",
             "en": "We start carefully from the monastery, avoiding unpaved paths. After Califfi Castle, we cycle on paved side roads. At noon, take a well-deserved break in Preko. Spend the afternoon near the coast, ready for the next shelter.",
-            "hr": "Krećemo oprezno od samostana, izbjegavajući neasfaltirane putove. Nakon dvorca Califfi vozimo asfaltiranim sporednim cestama. U podne napravite zasluženu pauzu u Preku. Poslijepodne provedite blizu obale, spremni za sljedeći zaklon."
+            "hr": "Polako krećemo iz samostana, izbjegavajući neasfaltirane putove. Nakon dvorca Califfi vozimo po asfaltiranim sporednim cestama. U podne uzmite zasluženi odmor u Preku. Poslijepodne provedite uz obalu, spremni za sljedeće sklonište."
           },
           "stops": [
             {
@@ -796,7 +796,7 @@
                 "hu": "Indulás előtt ellenőrizze a fékeket a vizes utakon.",
                 "ro": "Verificați frânele înainte de plecare pe drumurile ude.",
                 "en": "Check your brakes before departing on wet roads.",
-                "hr": "Provjerite kočnice prije polaska na mokre ceste."
+                "hr": "Provjerite kočnice prije polaska po mokrim cestama."
               }
             },
             {
@@ -806,7 +806,7 @@
                 "hu": "Állítsa a kerékpárját a bejárat melletti előtető alá.",
                 "ro": "Parcați bicicleta sub copertina de la intrare.",
                 "en": "Park your bike under the canopy near the entrance.",
-                "hr": "Parkirajte bicikl pod nadstrešnicu blizu ulaza."
+                "hr": "Parkirajte bicikl pod nadstrešnicom blizu ulaza."
               }
             },
             {
@@ -836,7 +836,7 @@
                 "hu": "Egy rövid megálló elég; a homok ma rátapad a gumira.",
                 "ro": "O oprire scurtă e suficientă; nisipul se lipește de anvelope.",
                 "en": "A short stop is enough; the sand sticks to tires today.",
-                "hr": "Kratko stajanje je dovoljno; pijesak se danas lijepi za gume."
+                "hr": "Kratko zaustavljanje je dovoljno; današnji pijesak se lijepi za gume."
               }
             }
           ],
@@ -866,10 +866,10 @@
               "Mudguards are your best friend today against splashing water."
             ],
             "hr": [
-              "Izbjegavajte makadamske putove jer se na kiši pretvaraju u blato.",
-              "Nosite cijelu kišnu jaknu i vodootporne navlake za cipele.",
-              "Smanjite malo tlak u gumama za bolje prianjanje na mokrom kamenju.",
-              "Blatobrani su vam danas najbolji prijatelji protiv prskanja vode."
+              "Izbjegavajte makadam jer se u kiši pretvara u blato.",
+              "Nosite punu kišnu jaknu i vodootporne navlake za cipele.",
+              "Smanjite tlak u gumama malo radi boljeg prianjanja na mokrim kamenjima.",
+              "Blatobrani su vam danas najbolji prijatelj protiv prskanja vode."
             ]
           }
         },
@@ -879,7 +879,7 @@
             "hu": "Frissítő túra a téli szigeti tájban. Feltekerünk a Szent Mihály-erődhöz, hogy bemelegedjünk. Délben Prekóban erősítjük meg magunkat. Délután a lapos parti utat követjük vissza Ugljanba, mielőtt beállna a szürkület.",
             "ro": "O tură revigorantă prin peisajul hibernal al insulei. Pedalăm la deal spre cetatea Sf. Mihail pentru a ne încălzi. La prânz ne refacem forțele în Preko. După-amiaza urmăm drumul de coastă plat înapoi spre Ugljan înainte de amurg.",
             "en": "A refreshing tour through the wintry island landscape. We cycle up to St. Michael’s fortress to warm up. At noon, refuel in Preko. In the afternoon, follow the flat coastal road back to Ugljan before dusk sets in.",
-            "hr": "Osvježavajuća tura kroz zimski otočni krajolik. Vozimo se do tvrđave sv. Mihovila kako bismo se zagrijali. U podne obnovite energiju u Preku. Poslijepodne se vratite ravnom obalnom cestom u Ugljan prije nego što padne mrak."
+            "hr": "Osvježavajuća tura kroz zimski otočni krajolik. Vozimo do tvrđave sv. Mihovila da se ugrijemo. U podne se okrijepite u Preku. Poslijepodne slijedite ravnu obalnu cestu natrag prema Ugljanu prije nego se spusti mrak."
           },
           "stops": [
             {
@@ -889,7 +889,7 @@
                 "hu": "Ne induljon túl korán; várja meg az első napsugarakat.",
                 "ro": "Nu plecați prea devreme; așteptați primele raze de soare.",
                 "en": "Don't start too early; wait for the first sun.",
-                "hr": "Ne krećite prerano; pričekajte prvo sunce."
+                "hr": "Ne započinjite prerano; pričekajte prvo sunce."
               }
             },
             {
@@ -899,7 +899,7 @@
                 "hu": "Rövid fotómegálló, hogy ne hűljenek ki az izmok.",
                 "ro": "O scurtă oprire foto pentru a nu lăsa mușchii să se răcească.",
                 "en": "A short photo stop to prevent muscles from cooling down.",
-                "hr": "Kratko zaustavljanje za fotografiranje kako se mišići ne bi ohladili."
+                "hr": "Kratko fotostajanje kako se mišići ne bi ohladili."
               }
             },
             {
@@ -909,7 +909,7 @@
                 "hu": "Vigyázat fent: a bóra szó szerint felboríthatja a kerékpárost.",
                 "ro": "Atenție sus: bora poate răsturna la propriu bicicliștii.",
                 "en": "Caution at the top: the Bura wind can literally blow cyclists over.",
-                "hr": "Oprez na vrhu: bura može doslovno otpuhati bicikliste."
+                "hr": "Pažnja na vrhu: bura bicikliste može doslovno oboriti."
               }
             },
             {
@@ -919,7 +919,7 @@
                 "hu": "A meleg italok most fontosabbak, mint az elektrolitok.",
                 "ro": "Băuturile calde sunt mai importante acum decât electroliții.",
                 "en": "Warm drinks are more important than electrolytes right now.",
-                "hr": "Topli napitci su trenutno važniji od elektrolita."
+                "hr": "Topli napici su sad važniji od elektrolita."
               }
             },
             {
@@ -961,9 +961,9 @@
             ],
             "hr": [
               "Nosite rukavice i kapu ispod kacige.",
-              "Spustovi mogu biti izuzetno hladni zbog vjetra pri vožnji.",
-              "Provjerite rade li vam svjetla na biciklu (rani mrak).",
-              "Blizu obale, sol na cesti može nagrizati pogonski sklop; kasnije obrišite bicikl."
+              "Spustovi mogu biti izuzetno hladni zbog osjećaja hladnog vjetra.",
+              "Provjerite rade li svjetla na biciklu (rano je mrak).",
+              "Blizu obale sol na cesti može korodirati prijenos; kasnije obrišite bicikl."
             ]
           }
         }
@@ -993,7 +993,7 @@
             "hu": "Parkoljon Ugljan kikötőjében.",
             "ro": "Parcați în portul Ugljan.",
             "en": "Park at Ugljan harbor.",
-            "hr": "Parkirajte u luci u Ugljanu."
+            "hr": "Parkirajte u luci Ugljan."
           }
         },
         {
@@ -1031,7 +1031,7 @@
             "hu": "Szigeti történelem testközelből.",
             "ro": "Istoria insulei la îndemână.",
             "en": "Island history within reach.",
-            "hr": "Otočna povijest na dohvat ruke."
+            "hr": "Povijest otoka na dohvat ruke."
           }
         },
         {
@@ -1050,7 +1050,7 @@
             "hu": "Az út szinte teljesen a csúcsig vezet.",
             "ro": "Drumul duce aproape până în vârf.",
             "en": "The road leads almost all the way to the top.",
-            "hr": "Cesta vodi gotovo do samog vrha."
+            "hr": "Cesta vodi gotovo do vrha."
           }
         },
         {
@@ -1078,7 +1078,7 @@
         "hu": "Autóval kényelmesen felfedezheti a sziget mindkét végét. Délelőtt Ugljan faluban parkolva élvezheti a kultúrát és a Mostir strandot. Délután délre, Preko felé indul, és felkanyarog a hegyi úton a Szent Mihály-erődhöz. Ez a kombináció pihentető tengerparti pillanatokat és látványos panorámát kínál, megerőltetés nélkül.",
         "ro": "Cu mașina puteți explora ambele capete ale insulei fără efort. Dimineața parcați în satul Ugljan pentru cultură și plajă la Mostir. După-amiaza conduceți spre sud spre Preko și urcați pe drumul montan până la Cetatea Sf. Mihail. Această combinație oferă atât momente relaxante la mare, cât și panorame spectaculoase, fără efort.",
         "en": "By car, you can effortlessly explore both ends of the island. Spend the morning in Ugljan village for culture and beach time at Mostir. In the afternoon, drive south towards Preko and wind up the mountain road to St. Michael's Fortress. This combination offers both relaxed seaside moments and spectacular island panoramas without the strain.",
-        "hr": "Automobilom možete bez napora istražiti oba kraja otoka. Provedite jutro u selu Ugljan radi kulture i plaže Mostir. Poslijepodne vozite južno prema Preku i popnite se planinskom cestom do tvrđave sv. Mihovila. Ova kombinacija nudi i opuštene trenutke uz more i spektakularne otočne panorame bez velikog napora."
+        "hr": "Autom možete bez napora istražiti oba kraja otoka. Provedite jutro u selu Ugljan za kulturu i kupanje na Mostiru. Poslijepodne vozite južno prema Preku i uspnite se planinskom cestom do Tvrđave sv. Mihovila. Ova kombinacija nudi opuštene trenutke uz more i spektakularne otočne panorame bez napora."
       },
       "gastro_picks": {
         "de": [
@@ -1204,8 +1204,8 @@
         ],
         "hr": [
           "Cesta do tvrđave je uska, vozite oprezno.",
-          "Parking u Ugljanu se naplaćuje tijekom ljeta.",
-          "Ostavite dovoljno vremena za trajekt."
+          "Parkiranje u Ugljanu se naplaćuje tijekom ljeta.",
+          "Predvidite vrijeme za trajekt autom."
         ]
       },
       "variants": {
@@ -1215,7 +1215,7 @@
             "hu": "Kényelmesen, szárazon fedezzük fel a szigetet. A kolostorlátogatás után a Mostir-strandhoz hajtunk, hogy az autóból nézzük a hullámokat. Délben közvetlenül a konoba előtt parkolunk. Délután felmegyünk az erődhöz, ahol járó ablaktörlők mellett élvezzük a kilátást.",
             "ro": "Explorăm insula confortabil, la uscat. După vizitarea mănăstirii, conducem la plaja Mostir pentru a privi valurile din mașină. La prânz parcăm chiar în fața konobei. După-amiaza urcăm la cetate, unde admirăm priveliștea cu ștergătoarele pornite.",
             "en": "Explore the island comfortably in the dry. After visiting the monastery, drive to Mostir beach to watch the waves from the car. At noon, park right in front of the konoba. In the afternoon, head up to the fortress, enjoying the view with wipers on.",
-            "hr": "Istražite otok udobno na suhom. Nakon posjeta samostanu, odvezite se do plaže Mostir kako biste promatrali valove iz automobila. U podne parkirajte točno ispred konobe. Poslijepodne krenite prema tvrđavi, uživajući u pogledu uz upaljene brisače."
+            "hr": "Istražite otok udobno i suho. Nakon posjeta samostanu, odvezite do plaže Mostir i gledajte valove iz auta. U podne parkirajte neposredno ispred konobe. Poslijepodne uputite se prema tvrđavi, uživajući u pogledu s brisačima upaljenima."
           },
           "stops": [
             {
@@ -1225,7 +1225,7 @@
                 "hu": "Parkoljon közel a kapuhoz, hogy ne ázzon el.",
                 "ro": "Parcați aproape de poartă pentru a nu vă uda.",
                 "en": "Park close to the gate to avoid getting wet.",
-                "hr": "Parkirajte blizu vrata kako ne biste pokisli."
+                "hr": "Parkirajte blizu kapije da izbjegnete namakanje."
               }
             },
             {
@@ -1235,7 +1235,7 @@
                 "hu": "Tökéletes hely viharfigyelésre a meleg autóból.",
                 "ro": "Loc perfect pentru a urmări furtuna din mașina caldă.",
                 "en": "Perfect spot for storm-watching from the warm car.",
-                "hr": "Savršeno mjesto za promatranje oluje iz toplog automobila."
+                "hr": "Savršeno mjesto za promatranje oluje iz toplog auta."
               }
             },
             {
@@ -1245,7 +1245,7 @@
                 "hu": "A kastélyhoz vezető út rövid és jól kiépített.",
                 "ro": "Drumul spre castel este scurt și bine amenajat.",
                 "en": "The path to the castle is short and well-paved.",
-                "hr": "Put do dvorca je kratak i dobro asfaltiran."
+                "hr": "Put do dvorca je kratak i dobro popločan."
               }
             },
             {
@@ -1255,7 +1255,7 @@
                 "hu": "Vezessen óvatosan, a szerpentinek csúszósak lehetnek.",
                 "ro": "Conduceți cu atenție, serpentinele pot fi alunecoase.",
                 "en": "Drive carefully, the serpentines can be slippery.",
-                "hr": "Vozite oprezno, serpentine mogu biti skliske."
+                "hr": "Vozite pažljivo, serpentinske krivine mogu biti skliske."
               }
             },
             {
@@ -1295,10 +1295,10 @@
               "Some parking lots near the sea can be flooded during high tide or storms."
             ],
             "hr": [
-              "Izbjegavajte parkiranje ispod nestabilnih stabala tijekom oluje.",
-              "Ceste na Ugljanu često nemaju dobru odvodnju; pazite na aquaplaning.",
-              "Koristite klima uređaj kako biste odmaglili stakla.",
-              "Neka parkirališta blizu mora mogu biti poplavljena tijekom plime ili oluje."
+              "Izbjegavajte parkiranje pod nestabilnim stablima za vrijeme oluje.",
+              "Ugljanske ceste često nemaju dobru odvodnju; pazite na aquaplaning.",
+              "Koristite klima-uređaj za odmagljivanje prozora.",
+              "Neki parkingi blizu mora mogu biti poplavljeni tijekom plime ili oluja."
             ]
           }
         },
@@ -1308,7 +1308,7 @@
             "hu": "Kellemes téli túra a szigeten. Az autót használjuk, hogy szélvédett módon érjük el a távoli pontokat, például a Szent Mihály-erődöt. Délben Prekóban élvezzük a meleget. A délutánt nyugodtan zárjuk Ugljanban, mielőtt korán besötétedik.",
             "ro": "Un tur de iarnă plăcut pe insulă. Folosim mașina pentru a ajunge la punctele îndepărtate, cum ar fi cetatea Sf. Mihail, protejați de vânt. La prânz ne bucurăm de căldură în Preko. Încheiem după-amiaza relaxat în Ugljan, înainte de a se întuneca devreme.",
             "en": "A pleasant winter tour across the island. We use the car to reach remote spots like St. Michael’s fortress while sheltered from the wind. At noon, enjoy the warmth in Preko. Finish the afternoon relaxed in Ugljan before it gets dark early.",
-            "hr": "Ugodna zimska tura preko otoka. Koristimo automobil kako bismo došli do udaljenih mjesta poput tvrđave sv. Mihovila zaštićeni od vjetra. U podne uživajte u toplini u Preku. Završite poslijepodne opušteno u Ugljanu prije nego što se rano smrači."
+            "hr": "Prijemna zimska tura preko otoka. Koristimo auto da dođemo do udaljenih mjesta poput tvrđave sv. Mihovila dok smo zaštićeni od vjetra. U podne uživajte u toplini u Preku. Završite poslijepodne opušteno u Ugljanu prije nego što se brzo smrači."
           },
           "stops": [
             {
@@ -1318,7 +1318,7 @@
                 "hu": "Fűtse fel az autót, amíg a kolostort látogatja.",
                 "ro": "Preîncălziți mașina în timp ce vizitați mănăstirea.",
                 "en": "Preheat the car while you visit the monastery.",
-                "hr": "Zagrijte automobil dok posjećujete samostan."
+                "hr": "Zagrijte auto dok posjećujete samostan."
               }
             },
             {
@@ -1328,7 +1328,7 @@
                 "hu": "Egy rövid megálló a tengeri szellőért épp elég.",
                 "ro": "O oprire scurtă pentru briza mării este suficientă.",
                 "en": "A short stop for the sea breeze is enough.",
-                "hr": "Kratko zaustavljanje zbog morskog povjetarca je dovoljno."
+                "hr": "Kratko stajanje zbog morskog povjetarca je dovoljno."
               }
             },
             {
@@ -1338,7 +1338,7 @@
                 "hu": "A parkolóhelyek télen közvetlenül a kastély előtt szabadok.",
                 "ro": "Locurile de parcare sunt libere chiar în fața castelului iarna.",
                 "en": "Parking spaces are free right in front of the castle in winter.",
-                "hr": "Zimi su parkirna mjesta besplatna točno ispred dvorca."
+                "hr": "Parkirna mjesta su zimi besplatna odmah ispred dvorca."
               }
             },
             {
@@ -1348,7 +1348,7 @@
                 "hu": "A kilátás télen gyakran jobb, mint a nyári párában.",
                 "ro": "Priveliștea este adesea mai bună iarna decât în ceața de vară.",
                 "en": "The view is often better in winter than in summer haze.",
-                "hr": "Pogled je zimi često bolji nego tijekom ljetne izmaglice."
+                "hr": "Pogled je često bolji zimi nego u ljetnoj izmaglici."
               }
             },
             {
@@ -1388,10 +1388,10 @@
               "Make sure there is enough antifreeze in the windshield washer fluid."
             ],
             "hr": [
-              "Provjerite tlak u gumama; niske temperature uzrokuju lagani pad tlaka.",
-              "Učinkovitost akumulatora može pasti na niskim temperaturama; ne ostavljajte svjetla nepotrebno upaljena.",
-              "Pazite na divlje životinje, osobito tijekom ranog sumraka.",
-              "Provjerite ima li dovoljno antifriza u tekućini za pranje stakla."
+              "Provjerite tlak u gumama; hladnoća ga malo snizi.",
+              "Performanse baterije mogu pasti na niskim temperaturama; ne ostavljajte svjetla upaljena bez potrebe.",
+              "Pazite na divlje životinje, osobito pred sumrak.",
+              "Provjerite ima li dovoljno antifriza u tekućini za pranje vjetrobrana."
             ]
           }
         }
@@ -1421,7 +1421,7 @@
             "hu": "Az ugljani buszmegálló 5 percre van.",
             "ro": "Stația de autobuz Ugljan este la 5 min.",
             "en": "Ugljan bus stop is 5 mins away.",
-            "hr": "Autobusna stanica Ugljan udaljena je 5 min."
+            "hr": "Autobusna stanica Ugljan udaljena je 5 minuta."
           }
         },
         {
@@ -1440,7 +1440,7 @@
             "hu": "Gyalogosan elérhető a központból.",
             "ro": "Accesibil pe jos din centru.",
             "en": "Accessible on foot from the center.",
-            "hr": "Dostupno pješice iz centra."
+            "hr": "Pristupačno pješice iz centra."
           }
         },
         {
@@ -1506,7 +1506,7 @@
         "hu": "A 622-es szigeti buszjáratnak köszönhetően Ugljan autó nélkül is jól felfedezhető. A délelőttöt Ugljan faluban tölti, meglátogatja a kolostort és pihen a Mostir strandon. Kora délután busszal megy Prekóba, a sziget lüktető központjába. Egy rövid séta az ottani kikötőben tökéletes alkalom a szigeti élet megfigyelésére, mielőtt visszaszállna a kompra.",
         "ro": "Datorită liniei de autobuz 622 de pe insulă, Ugljan poate fi explorat ușor și fără mașină. Petreceți dimineața în satul Ugljan, vizitați mănăstirea și vă relaxați pe plaja Mostir. La începutul după-amiezii luați autobuzul spre Preko, centrul vibrant al insulei. O scurtă plimbare în portul de acolo oferă ocazia perfectă de a observa viața de pe insulă înainte de a lua feribotul înapoi.",
         "en": "Thanks to island bus line 622, Ugljan is easy to explore even without a car. Spend the morning in Ugljan village, visiting the monastery and relaxing at Mostir beach. In the early afternoon, take the bus to Preko, the island's vibrant center. A short stroll along the harbor there offers the perfect chance to observe island life before taking the ferry back.",
-        "hr": "Zahvaljujući otočnoj autobusnoj liniji 622, Ugljan je lako istražiti čak i bez automobila. Provedite jutro u selu Ugljan, posjetite samostan i opustite se na plaži Mostir. Rano poslijepodne idite autobusom do Preka, živahnog središta otoka. Kratka šetnja tamošnjom lukom nudi savršenu priliku za promatranje otočnog života prije povratka trajektom."
+        "hr": "Zahvaljujući otočnoj liniji autobusa 622, Ugljan je lako istražiti i bez auta. Provedite jutro u selu Ugljan, posjetite samostan i opustite se na plaži Mostir. U ranim poslijepodnevnim satima krenite autobusom prema Preku, živom središtu otoka. Kratka šetnja uz rivu pruža savršenu priliku za promatranje otočnog života prije povratka trajektom."
       },
       "gastro_picks": {
         "de": [
@@ -1631,9 +1631,9 @@
           "Fewer buses run on Sundays."
         ],
         "hr": [
-          "Preuzmite vozni red autobusa unaprijed.",
-          "Kupite kartu izravno kod vozača autobusa.",
-          "Nedjeljom vozi manje autobusa."
+          "Preuzmite voznji red autobusa unaprijed.",
+          "Kartu kupite izravno od vozača autobusa.",
+          "U nedjelju prometuje manje autobusa."
         ]
       },
       "variants": {
@@ -1643,7 +1643,7 @@
             "hu": "A buszt gördülő menedékként használjuk. A kolostorlátogatás után a következő busszal Preko felé vesszük az irányt. Délben egy hangulatos helyet keresünk a kikötő közelében. Délután felfedezzük a kastélyt, mielőtt busszal vagy komppal visszautaznánk.",
             "ro": "Folosim autobuzul ca adăpost rulant. După vizitarea mănăstirii, luăm următorul autobuz spre Preko. La prânz găsim un loc primitor lângă port. După-amiaza explorăm castelul înainte de a lua autobuzul sau feribotul înapoi.",
             "en": "Use the bus as a rolling shelter. After visiting the monastery, take the next bus towards Preko. At noon, find a cozy spot near the harbor. In the afternoon, explore the castle before taking the ferry or bus back.",
-            "hr": "Koristite autobus kao pokretni zaklon. Nakon posjeta samostanu, sjednite na sljedeći autobus prema Preku. U podne pronađite ugodno mjesto blizu luke. Poslijepodne istražite dvorac prije povratka trajektom ili autobusom."
+            "hr": "Iskoristite autobus kao pokretni zaklon. Nakon posjeta samostanu, uhvatite sljedeći autobus prema Preku. U podne pronađite ugodno mjesto pored luke. Poslijepodne istražite utvrdu prije povratka trajektom ili autobusom."
           },
           "stops": [
             {
@@ -1663,7 +1663,7 @@
                 "hu": "Ma egy gyors ablakon való kitekintés is elég.",
                 "ro": "O privire rapidă pe fereastră este suficientă astăzi.",
                 "en": "A quick look out the window is enough today.",
-                "hr": "Brzi pogled kroz prozor danas je dovoljan."
+                "hr": "Danas je dovoljan brz pogled kroz prozor."
               }
             },
             {
@@ -1673,7 +1673,7 @@
                 "hu": "Ellenőrizze a menetrendet, hogy minimálisra csökkentse a kinti várakozást.",
                 "ro": "Verificați orarul pentru a minimiza așteptarea în aer liber.",
                 "en": "Check the schedule to minimize waiting times outdoors.",
-                "hr": "Provjerite vozni red kako biste smanjili vrijeme čekanja na otvorenom."
+                "hr": "Provjerite voznji red kako biste smanjili čekanje na otvorenom."
               }
             },
             {
@@ -1723,10 +1723,10 @@
               "Expect slight delays due to weather conditions."
             ],
             "hr": [
-              "Preuzmite aplikaciju 'Liburnija' za informacije o autobusima u stvarnom vremenu.",
-              "Pripremite sitniš ili beskontaktnu karticu za kartu.",
-              "Prozori autobusa mogu se zamagliti tijekom kiše; sjednite blizu prednjeg dijela.",
-              "Očekujte manja kašnjenja zbog vremenskih uvjeta."
+              "Preuzmite aplikaciju 'Liburnija' za informacije o autobusima u realnom vremenu.",
+              "Imajte sitniš ili karticu s beskontaktnim plaćanjem spremno za kartu.",
+              "Prozori autobusa mogu se zamagliti tijekom kiše; sjednite bliže naprijed.",
+              "Očekujte manje kašnjenje zbog vremenskih uvjeta."
             ]
           }
         },
@@ -1736,7 +1736,7 @@
             "hu": "Csendes utazás a helyiekkel. Reggel felfedezzük a kolostort, majd a délelőtti busszal megyünk tovább. Délben egy prekói kávézóban melegszünk fel. Délután a kikötő mentén sétálunk, mielőtt az utolsó nappali busszal visszatérnénk Ugljanba.",
             "ro": "O călătorie liniștită alături de localnici. Dimineața explorăm mănăstirea și luăm autobuzul de dimineață. La prânz ne încălzim într-o cafenea din Preko. După-amiaza ne plimbăm de-a lungul portului înainte de a lua ultimul autobuz de zi înapoi la Ugljan.",
             "en": "A quiet journey with the locals. In the morning, explore the monastery and take the morning bus. At noon, warm up in a cafe in Preko. In the afternoon, walk along the harbor before taking the last daytime bus back to Ugljan.",
-            "hr": "Mirno putovanje s lokalnim stanovništvom. Ujutro istražite samostan i idite jutarnjim autobusom. U podne se ugrijte u kafiću u Preku. Poslijepodne prošećite lukom prije nego što uhvatite posljednji dnevni autobus za Ugljan."
+            "hr": "Mirno putovanje s mještanima. Ujutro istražite samostan i uzmite jutarnji autobus. U podne se ugrijte u kafiću u Preku. Poslijepodne prošećite rivom prije zadnjeg dnevnog autobusa natrag za Ugljan."
           },
           "stops": [
             {
@@ -1746,7 +1746,7 @@
                 "hu": "A téli nap reggel közvetlenül a megállóra süt.",
                 "ro": "Soarele de iarnă bate direct în stație dimineața.",
                 "en": "The winter sun shines directly on the bus stop in the morning.",
-                "hr": "Zimsko sunce ujutro obasjava izravno autobusnu stanicu."
+                "hr": "Zimsko sunce ujutro direktno grije autobusnu stanicu."
               }
             },
             {
@@ -1756,7 +1756,7 @@
                 "hu": "Főszezonon kívül csodálatosan magányos itt minden.",
                 "ro": "În afara sezonului, aici este minunat de pustiu.",
                 "en": "In the off-season, it's wonderfully lonely here.",
-                "hr": "Izvan sezone ovdje je predivno pusto."
+                "hr": "U predsezoni je ovdje prekrasno usamljeno."
               }
             },
             {
@@ -1766,7 +1766,7 @@
                 "hu": "A falusi buszok télen ritkábban járnak; tervezzen pontosan.",
                 "ro": "Autobuzele rurale circulă mai rar iarna; planificați cu atenție.",
                 "en": "Village buses run less frequently in winter; plan carefully.",
-                "hr": "Seoski autobusi zimi voze rjeđe; pažljivo planirajte."
+                "hr": "Seoski autobusi zimi voze rjeđe; planirajte pažljivo."
               }
             },
             {
@@ -1776,7 +1776,7 @@
                 "hu": "A buszban kellemes fűtés van.",
                 "ro": "În autobuz este încălzit plăcut.",
                 "en": "It's pleasantly heated inside the bus.",
-                "hr": "U autobusu je ugodno toplo."
+                "hr": "Unutra je ugodno grijano u autobusu."
               }
             },
             {
@@ -1786,7 +1786,7 @@
                 "hu": "Az utolsó komp Zágráb felé remek kilátást nyújt a városi fényekre.",
                 "ro": "Ultimul feribot spre Zadar oferă o vedere excelentă spre luminile orașului.",
                 "en": "The last ferry to Zadar offers a great view of the city lights.",
-                "hr": "Posljednji trajekt za Zadar nudi sjajan pogled na svjetla grada."
+                "hr": "Zadnji trajekt za Zadar nudi odličan pogled na gradska svjetla."
               }
             }
           ],
@@ -1816,10 +1816,10 @@
               "Use waiting times for a hot tea in a local bar."
             ],
             "hr": [
-              "Zimski vozni red značajno se razlikuje od ljetnog.",
-              "Autobusi su navečer često bolje grijani nego tijekom dana.",
-              "Posljednja veza za Ugljan često polazi oko 19 sati.",
-              "Iskoristite vrijeme čekanja za topli čaj u lokalnom baru."
+              "Zimski voznji red (red vožnje) značajno se razlikuje od ljetnog.",
+              "Autobusi su često bolje grijani navečer nego preko dana.",
+              "Zadnje povezivanje za Ugljan često polazi oko 19:00.",
+              "Iskoristite vrijeme čekanja za vrući čaj u lokalnom baru."
             ]
           }
         }

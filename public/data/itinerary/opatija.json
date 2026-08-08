@@ -21,7 +21,8 @@
             "de": "Hotel Kvarner",
             "hu": "Hotel Kvarner",
             "ro": "Hotel Kvarner",
-            "en": "Hotel Kvarner"
+            "en": "Hotel Kvarner",
+            "hr": "Hotel Kvarner"
           },
           "coords": [
             14.3082,
@@ -37,7 +38,7 @@
             "hu": "A Grand Hotel Kvarner (1884) Horvátország legrégebbi szállodája – kávé a teraszon 4 €-tól.",
             "ro": "Grand Hotel Kvarner (1884) este cel mai vechi hotel din Croația – cafea pe terasă de la 4 €.",
             "en": "Grand Hotel Kvarner (1884) is Croatia's oldest hotel – coffee on the terrace from €4.",
-            "hr": "Grand Hotel Kvarner (1884.) najstariji je hotel u Hrvatskoj – kava na terasi od 4 €."
+            "hr": "Grand Hotel Kvarner (1884.) je najstariji hotel u Hrvatskoj – kava na terasi od 4 €."
           }
         },
         {
@@ -45,7 +46,8 @@
             "de": "Das Mädchen mit der Möwe",
             "hu": "Leány a sirállyal",
             "ro": "Fata cu Pescărușul",
-            "en": "Maiden with the Seagull"
+            "en": "Maiden with the Seagull",
+            "hr": "Djevojka s galebom"
           },
           "coords": [
             14.3088,
@@ -61,7 +63,7 @@
             "hu": "Az eredeti szobor 1891-ből – fényképezze reggel 8 előtt tömeg nélkül.",
             "ro": "Sculptura originală din 1891 – fotografiați-o dimineața devreme (înainte de ora 8) fără mulțimi.",
             "en": "The original sculpture dates to 1891 – photograph it early morning (before 8 AM) without crowds.",
-            "hr": "Originalna skulptura datira iz 1891. godine – fotografirajte je rano ujutro (prije 8:00) bez gužve."
+            "hr": "Originalna skulptura datira iz 1891. – fotografirajte je rano ujutro (prije 8 sati) bez gužve."
           }
         },
         {
@@ -69,7 +71,8 @@
             "de": "Kirche des Heiligen Jakob",
             "hu": "Szent Jakab-templom",
             "ro": "Biserica Sfântul Iacob",
-            "en": "Church of Saint James"
+            "en": "Church of Saint James",
+            "hr": "Crkva svetog Jakova"
           },
           "coords": [
             14.3078,
@@ -85,7 +88,7 @@
             "hu": "Barokk plébániatemplom a 18. századból; a harangtoronyból körpanoráma nyílik Opatijára.",
             "ro": "Biserică parohială barocă din sec. XVIII; turnul clopotniță oferă o panoramă completă a Opatiei.",
             "en": "Baroque parish church from the 18th century; the bell tower offers a full panorama over Opatija.",
-            "hr": "Barokna župna crkva iz 18. stoljeća; zvonik nudi potpunu panoramu nad Opatijom."
+            "hr": "Barokna župna crkva iz 18. stoljeća; zvonik nudi punu panoramu Opatije."
           }
         },
         {
@@ -93,7 +96,8 @@
             "de": "Kunstpavillon Juraj Šporer",
             "hu": "Juraj Šporer Művészeti Pavilon",
             "ro": "Pavilionul de Artă Juraj Šporer",
-            "en": "Juraj Šporer Art Pavilion"
+            "en": "Juraj Šporer Art Pavilion",
+            "hr": "Umjetnički paviljon Juraj Šporer"
           },
           "coords": [
             14.308,
@@ -109,7 +113,7 @@
             "hu": "Kortárs horvát képzőművészet időszaki kiállítások; belépő ingyenes, nyitva K–V 10–18 óra.",
             "ro": "Expoziții temporare de artă contemporană croată; intrare gratuită, deschis Ma–Du 10–18.",
             "en": "Rotating exhibitions of contemporary Croatian art; free entry, open Tue–Sun 10 AM–6 PM.",
-            "hr": "Rotirajuće izložbe suvremene hrvatske umjetnosti; ulaz slobodan, otvoreno uto–ned 10:00–18:00."
+            "hr": "Rotirajuće izložbe suvremene hrvatske umjetnosti; besplatan ulaz, otvoreno uto–ned 10:00–18:00."
           }
         },
         {
@@ -117,7 +121,8 @@
             "de": "Villa Angiolina",
             "hu": "Villa Angiolina",
             "ro": "Villa Angiolina",
-            "en": "Villa Angiolina"
+            "en": "Villa Angiolina",
+            "hr": "Villa Angiolina"
           },
           "coords": [
             14.3085,
@@ -133,7 +138,7 @@
             "hu": "Hübsch gróf nyaralója (1845); a kertben 150 trópusi növényfaj látható.",
             "ro": "Reședința de vară a contelui Hübsch (1845); grădina prezintă 150 de specii de plante tropicale.",
             "en": "Count Hübsch's summer residence (1845); the garden features 150 tropical plant species.",
-            "hr": "Ljetna rezidencija grofa Hübscha (1845.); vrt sadrži 150 tropskih biljnih vrsta."
+            "hr": "Ljetnikovac grofa Hübscha (1845.); u vrtu se nalazi 150 tropskih biljnih vrsta."
           }
         },
         {
@@ -141,7 +146,8 @@
             "de": "Kroatisches Tourismusmuseum",
             "hu": "Horvát Turisztikai Múzeum",
             "ro": "Muzeul Turismului Croat",
-            "en": "Croatian Museum of Tourism"
+            "en": "Croatian Museum of Tourism",
+            "hr": "Hrvatski muzej turizma"
           },
           "coords": [
             14.3085,
@@ -157,7 +163,7 @@
             "hu": "Horvátország egyetlen idegenforgalmi múzeuma; belépő 3 €, audio-guide magyarul is elérhető.",
             "ro": "Singurul muzeu de turism din Croația; bilet 3 €, audioghid disponibil și în română.",
             "en": "Croatia's only tourism museum; entry €3, audio guide available in English.",
-            "hr": "Jedini muzej turizma u Hrvatskoj; ulaznica 3 €, dostupan audio vodič na engleskom jeziku."
+            "hr": "Jedini muzej turizma u Hrvatskoj; ulaz 3 €, audiovodič dostupan na engleskom."
           }
         },
         {
@@ -165,7 +171,8 @@
             "de": "Park Angiolina",
             "hu": "Angiolina park",
             "ro": "Parcul Angiolina",
-            "en": "Angiolina Park"
+            "en": "Angiolina Park",
+            "hr": "Park Angiolina"
           },
           "coords": [
             14.308,
@@ -181,7 +188,7 @@
             "hu": "A világhírű kamélia virágzási ideje február végétől áprilisig – éves kámelia-fesztivál március végén.",
             "ro": "Camelia celebră înflorește de la sfârșitul lui februarie până în aprilie – festival anual la sfârșitul lui martie.",
             "en": "The famous camellia blooms from late February to April – annual Camellia Festival in late March.",
-            "hr": "Poznata kamelija cvate od kasne veljače do travnja – godišnji Festival kamelija održava se krajem ožujka."
+            "hr": "Poznata kamelija cvjeta od kraja veljače do travnja – godišnji Festival kamelija krajem ožujka."
           }
         },
         {
@@ -189,7 +196,8 @@
             "de": "Hafen von Opatija",
             "hu": "Opatijai kikötő",
             "ro": "Portul Opatija",
-            "en": "Port of Opatija"
+            "en": "Port of Opatija",
+            "hr": "Luka Opatija"
           },
           "coords": [
             14.3105,
@@ -205,7 +213,7 @@
             "hu": "Kis halászkikötő; kora reggel a helyi éttermek itt veszik a napi fogást.",
             "ro": "Port mic de pescuit; dimineața devreme restaurantele locale cumpără aici captura zilei.",
             "en": "Small fishing harbor; in the early morning local restaurants purchase the daily catch here.",
-            "hr": "Mala ribarska luka; rano ujutro lokalni restorani ovdje kupuju dnevni ulov."
+            "hr": "Mali ribarski zaljev; u ranim jutarnjim satima lokalni restorani ovdje kupuju dnevni ulov."
           }
         },
         {
@@ -213,7 +221,8 @@
             "de": "Lungomare-Promenade",
             "hu": "Lungomare sétány",
             "ro": "Promenada Lungomare",
-            "en": "Lungomare Promenade"
+            "en": "Lungomare Promenade",
+            "hr": "Promenada Lungomare"
           },
           "coords": [
             14.306,
@@ -229,7 +238,7 @@
             "hu": "A teljes Lungomare 12 km hosszú (Lovranig); az első szakasz Voloskoig 3 km.",
             "ro": "Lungomare-ul complet are 12 km (până la Lovran); primul tronson până la Volosko este de 3 km.",
             "en": "The full Lungomare stretches 12 km (to Lovran); the first section to Volosko is 3 km.",
-            "hr": "Cijeli Lungomare proteže se 12 km (do Lovrana); prva dionica do Voloskog duga je 3 km."
+            "hr": "Cijeli Lungomare dugačak je 12 km (do Lovrana); prva dionica do Voloskog je 3 km."
           }
         },
         {
@@ -237,7 +246,8 @@
             "de": "Slatina-Strand",
             "hu": "Slatina-strand",
             "ro": "Plaja Slatina",
-            "en": "Slatina Beach"
+            "en": "Slatina Beach",
+            "hr": "Plaža Slatina"
           },
           "coords": [
             14.304,
@@ -253,7 +263,7 @@
             "hu": "Nyáron a strandbelépő kb. 3 €; nincs kavics – betonplatformok létrákkal.",
             "ro": "Intrarea pe plajă costă cca. 3 € vara; nu e plajă cu pietriș – platforme de beton cu scări.",
             "en": "Beach entry costs about €3 in summer; no pebbles – concrete platforms with ladders into the sea.",
-            "hr": "Ulaz na plažu ljeti košta oko 3 €; nema šljunka – betonske ploče s ljestvama za ulaz u more."
+            "hr": "Ulaz na plažu košta oko 3 € ljeti; nema oblutaka – betonske platforme s ljestvama u more."
           }
         }
       ],
@@ -262,7 +272,7 @@
         "hu": "A reggel az arisztokratikus Kvarner-parton indul egy kávéval a történelmi hotel teraszán. Délben a Villa Angiolina és a Turisztikai Múzeum falai között ismerjük meg a múltat. Délután a Lungomare sétány sós levegője és az Angiolina park egzotikus növényei frissítenek fel. Az estét a Slatina-strand naplementéje és egy tengerparti pihenő koronázza meg.",
         "ro": "Dimineața începe aristocratic pe terasa Hotelului Kvarner, cu o cafea în stil imperial. La prânz, explorăm Villa Angiolina și Muzeul Turismului, descoperind istoria locală. După-amiaza este dedicată brizei marine de pe faleza Lungomare și plantelor exotice din Parcul Angiolina. Seara se încheie la plaja Slatina, admirând apusul de pe malul mării.",
         "en": "The morning starts with an aristocratic flair on the terrace of Hotel Kvarner. At midday, we explore Villa Angiolina and the Tourism Museum to dive into the resort's history. The afternoon is spent enjoying the sea breeze on the Lungomare promenade and the exotic flora of Angiolina Park. The evening concludes at Slatina Beach, watching the sunset over the Adriatic.",
-        "hr": "Jutro započinje u aristokratskom stilu na terasi hotela Kvarner. U podne istražujemo Villu Angiolinu i Muzej turizma kako bismo uronili u povijest ljetovališta. Poslijepodne provodimo uživajući u morskom povjetarcu na šetnici Lungomare i egzotičnoj flori parka Angiolina. Večer završava na plaži Slatina, promatrajući zalazak sunca nad Jadranom."
+        "hr": "Jutro započinje aristokratskim ugođajem na terasi Hotela Kvarner. U podne istražujemo Villu Angiolinu i Muzej turizma kako bismo zaronili u povijest mjesta. Poslijepodne uživamo u morskom povjetarcu na promenadi Lungomare i u egzotičnoj flori parka Angiolina. Večer završava na plaži Slatina, promatrajući zalazak sunca nad Jadranom."
       },
       "gastro_picks": {
         "de": [
@@ -464,12 +474,12 @@
           "In summer the Lungomare is very crowded in the afternoon; start early for a peaceful walk."
         ],
         "hr": [
-          "Lungomare je izgrađen 1885. godine i potpuno je ravan – pogodan je i za korisnike invalidskih kolica.",
-          "Parkiranje u centru košta 1,50 € – 2 € po satu; parkiralište Slatina je najpovoljnija opcija.",
+          "Lungomare je izgrađen 1885. i potpuno je ravan – pogodan i za osobe u invalidskim kolicima.",
+          "Parkiranje u centru košta 1,50–2 €/sat; parkiralište Slatina je najjeftinija opcija.",
           "Festival kamelija krajem ožujka najbolji je razlog za proljetni posjet.",
-          "Plaža Slatina ima betonske platforme i ljestve, a ne pijesak – preporučuje se obuća za vodu.",
-          "Muzej turizma (Villa Angiolina) zatvoren je ponedjeljkom – planirajte svoj posjet u skladu s tim.",
-          "Ljeti je na Lungomareu velika gužva poslijepodne; krenite ranije za mirnu šetnju."
+          "Plaža Slatina ima betonske platforme i ljestve, nema pijeska – preporučuju se vodene cipele.",
+          "Muzej turizma (Villa Angiolina) zatvoren je ponedjeljkom – planirajte posjet unaprijed.",
+          "Ljeti je Lungomare vrlo prepun poslijepodne; krenite rano za mirnu šetnju."
         ]
       },
       "variants": {
@@ -478,7 +488,8 @@
             "de": "Der Morgen beginnt aristokratisch auf der Terrasse des Hotels Kvarner. Mittags erkunden wir die Villa Angiolina und das Tourismusmuseum, um in die Geschichte der Monarchie einzutauchen. Der Nachmittag gehört der Meeresbrise der Lungomare-Promenade und den exotischen Pflanzen im Park Angiolina. Den Abend lassen wir am Slatina-Strand ausklingen, während die Sonne im Meer versinkt.",
             "hu": "A reggel az arisztokratikus Kvarner-parton indul egy kávéval a történelmi hotel teraszán. Délben a Villa Angiolina és a Turisztikai Múzeum falai között ismerjük meg a múltat. Délután a Lungomare sétány sós levegője és az Angiolina park egzotikus növényei frissítenek fel. Az estét a Slatina-strand naplementéje és egy tengerparti pihenő koronázza meg.",
             "ro": "Dimineața începe aristocratic pe terasa Hotelului Kvarner, cu o cafea în stil imperial. La prânz, explorăm Villa Angiolina și Muzeul Turismului, descoperind istoria locală. După-amiaza este dedicată brizei marine de pe faleza Lungomare și plantelor exotice din Parcul Angiolina. Seara se încheie la plaja Slatina, admirând apusul de pe malul mării.",
-            "en": "The morning starts with an aristocratic flair on the terrace of Hotel Kvarner. At midday, we explore Villa Angiolina and the Tourism Museum to dive into the resort's history. The afternoon is spent enjoying the sea breeze on the Lungomare promenade and the exotic flora of Angiolina Park. The evening concludes at Slatina Beach, watching the sunset over the Adriatic."
+            "en": "The morning starts with an aristocratic flair on the terrace of Hotel Kvarner. At midday, we explore Villa Angiolina and the Tourism Museum to dive into the resort's history. The afternoon is spent enjoying the sea breeze on the Lungomare promenade and the exotic flora of Angiolina Park. The evening concludes at Slatina Beach, watching the sunset over the Adriatic.",
+            "hr": "Jutro započinje aristokratskim ugođajem na terasi Hotela Kvarner. U podne istražujemo Villu Angiolinu i Muzej turizma kako bismo zaronili u povijest mjesta. Poslijepodne uživamo u morskom povjetarcu na promenadi Lungomare i u egzotičnoj flori parka Angiolina. Večer završava na plaži Slatina, promatrajući zalazak sunca nad Jadranom."
           },
           "stops": [
             {
@@ -486,13 +497,15 @@
                 "de": "Hotel Kvarner",
                 "hu": "Hotel Kvarner",
                 "ro": "Hotel Kvarner",
-                "en": "Hotel Kvarner"
+                "en": "Hotel Kvarner",
+                "hr": "Hotel Kvarner"
               },
               "tip_5lang": {
                 "de": "Kaffee auf der legendären Terrasse genießen.",
                 "hu": "Kávézzon a legendás teraszon.",
                 "ro": "Savurați o cafea pe legendara terasă.",
-                "en": "Enjoy a coffee on the legendary terrace."
+                "en": "Enjoy a coffee on the legendary terrace.",
+                "hr": "Uživajte u kavi na legendarnoj terasi."
               }
             },
             {
@@ -500,13 +513,15 @@
                 "de": "Das Mädchen mit der Möwe",
                 "hu": "Leány a sirállyal",
                 "ro": "Fata cu Pescărușul",
-                "en": "Maiden with the Seagull"
+                "en": "Maiden with the Seagull",
+                "hr": "Djevojka s galebom"
               },
               "tip_5lang": {
                 "de": "Das beste Fotomotiv bei Sonnenaufgang.",
                 "hu": "A legjobb fotótéma napfelkeltekor.",
                 "ro": "Cel mai bun loc pentru poze la răsărit.",
-                "en": "The best photo spot at sunrise."
+                "en": "The best photo spot at sunrise.",
+                "hr": "Najbolje mjesto za fotografiju u zoru."
               }
             },
             {
@@ -514,13 +529,15 @@
                 "de": "Kirche des Heiligen Jakob",
                 "hu": "Szent Jakab-templom",
                 "ro": "Biserica Sfântul Iacob",
-                "en": "Church of Saint James"
+                "en": "Church of Saint James",
+                "hr": "Crkva svetog Jakova"
               },
               "tip_5lang": {
                 "de": "Eine Oase der Ruhe im Stadtzentrum.",
                 "hu": "A nyugalom oázisa a városközpontban.",
                 "ro": "O oază de liniște în centrul orașului.",
-                "en": "An oasis of peace in the city center."
+                "en": "An oasis of peace in the city center.",
+                "hr": "Oaza mira u centru grada."
               }
             },
             {
@@ -528,13 +545,15 @@
                 "de": "Kunstpavillon Juraj Šporer",
                 "hu": "Juraj Šporer Művészeti Pavilon",
                 "ro": "Pavilionul de Artă Juraj Šporer",
-                "en": "Juraj Šporer Art Pavilion"
+                "en": "Juraj Šporer Art Pavilion",
+                "hr": "Umjetnički paviljon Juraj Šporer"
               },
               "tip_5lang": {
                 "de": "Wechselnde Kunstausstellungen.",
                 "hu": "Változatos művészeti kiállítások.",
                 "ro": "Expoziții de artă temporare.",
-                "en": "Rotating art exhibitions."
+                "en": "Rotating art exhibitions.",
+                "hr": "Rotirajuće umjetničke izložbe."
               }
             },
             {
@@ -542,13 +561,15 @@
                 "de": "Villa Angiolina",
                 "hu": "Villa Angiolina",
                 "ro": "Villa Angiolina",
-                "en": "Villa Angiolina"
+                "en": "Villa Angiolina",
+                "hr": "Villa Angiolina"
               },
               "tip_5lang": {
                 "de": "Prachtvolle Architektur der Monarchie.",
                 "hu": "A monarchia pompás építészete.",
                 "ro": "Arhitectura magnifică a monarhiei.",
-                "en": "Magnificent monarchy architecture."
+                "en": "Magnificent monarchy architecture.",
+                "hr": "Veličanstvena monarhistička arhitektura."
               }
             },
             {
@@ -556,13 +577,15 @@
                 "de": "Kroatisches Tourismusmuseum",
                 "hu": "Horvát Turisztikai Múzeum",
                 "ro": "Muzeul Turismului Croat",
-                "en": "Croatian Museum of Tourism"
+                "en": "Croatian Museum of Tourism",
+                "hr": "Hrvatski muzej turizma"
               },
               "tip_5lang": {
                 "de": "Einblick in die Geschichte des Kurortes.",
                 "hu": "Betekintés az üdülőhely történetébe.",
                 "ro": "O privire în istoria stațiunii.",
-                "en": "Insight into the resort's history."
+                "en": "Insight into the resort's history.",
+                "hr": "Uvid u povijest grada-destinacije."
               }
             },
             {
@@ -570,13 +593,15 @@
                 "de": "Park Angiolina",
                 "hu": "Angiolina park",
                 "ro": "Parcul Angiolina",
-                "en": "Angiolina Park"
+                "en": "Angiolina Park",
+                "hr": "Park Angiolina"
               },
               "tip_5lang": {
                 "de": "Suchen Sie die berühmte Kamelie.",
                 "hu": "Keresse meg a híres kaméliát.",
                 "ro": "Căutați faimoasa camelie.",
-                "en": "Look for the famous camellia."
+                "en": "Look for the famous camellia.",
+                "hr": "Potražite poznatu kameliju."
               }
             },
             {
@@ -584,13 +609,15 @@
                 "de": "Hafen von Opatija",
                 "hu": "Opatijai kikötő",
                 "ro": "Portul Opatija",
-                "en": "Port of Opatija"
+                "en": "Port of Opatija",
+                "hr": "Luka Opatija"
               },
               "tip_5lang": {
                 "de": "Perfekt für eine kurze Pause am Wasser.",
                 "hu": "Tökéletes egy rövid pihenőre a víznél.",
                 "ro": "Perfect pentru o scurtă pauză pe mal.",
-                "en": "Perfect for a short break by the water."
+                "en": "Perfect for a short break by the water.",
+                "hr": "Savršeno za kratak odmor uz more."
               }
             },
             {
@@ -598,13 +625,15 @@
                 "de": "Lungomare-Promenade",
                 "hu": "Lungomare sétány",
                 "ro": "Promenada Lungomare",
-                "en": "Lungomare Promenade"
+                "en": "Lungomare Promenade",
+                "hr": "Lungomare promenada"
               },
               "tip_5lang": {
                 "de": "Genießen Sie die 12 km lange Küstenwanderung.",
                 "hu": "Élvezze a 12 km hosszú partmenti sétát.",
                 "ro": "Bucurați-vă de plimbarea de 12 km pe mal.",
-                "en": "Enjoy the 12 km long coastal walk."
+                "en": "Enjoy the 12 km long coastal walk.",
+                "hr": "Uživajte u 12 km dugoj obalnoj šetnji."
               }
             },
             {
@@ -612,13 +641,15 @@
                 "de": "Slatina-Strand",
                 "hu": "Slatina-strand",
                 "ro": "Plaja Slatina",
-                "en": "Slatina Beach"
+                "en": "Slatina Beach",
+                "hr": "Plaža Slatina"
               },
               "tip_5lang": {
                 "de": "Entspannung pur am Hauptstrand.",
                 "hu": "Tiszta kikapcsolódás a főstrandon.",
                 "ro": "Relaxare totală pe plaja principală.",
-                "en": "Pure relaxation at the main beach."
+                "en": "Pure relaxation at the main beach.",
+                "hr": "Pravo opuštanje na glavnoj plaži."
               }
             }
           ],
@@ -756,6 +787,10 @@
             "en": [
               "Wear comfortable shoes.",
               "Don't forget sun protection."
+            ],
+            "hr": [
+              "Obucite ugodnu obuću.",
+              "Ne zaboravite zaštitu od sunca."
             ]
           }
         },
@@ -765,7 +800,7 @@
             "hu": "A reggel az elegáns Hotel Kvarner fedett tereiben indul, védve az esőtől. Délben a Művészeti Pavilon és a Villa Angiolina nyújt menedéket a látnivalók között. Délután ernyő alatt sétálunk a Lungomarén, élvezve a viharos tenger látványát. Az estét a Slatina strand egyik fedett teraszán zárjuk, hallgatva az eső kopogását a vízen.",
             "ro": "Dimineața începe în interiorul istoric al Hotelului Kvarner, feriți de ploaie. La prânz, Pavilionul de Artă și Villa Angiolina oferă refugiul cultural perfect. După-amiaza, o plimbare cu umbrela pe Lungomare dezvăluie o mare Adriatică dramatică. Seara se încheie confortabil la o terasă acoperită din zona Slatina, privind stropii căzând în mare.",
             "en": "The morning starts in the sheltered halls of Hotel Kvarner as rain taps on the windows. At noon, the Art Pavilion and Villa Angiolina offer perfect indoor escapes. In the afternoon, we walk with umbrellas along the Lungomare, where the choppy sea creates a dramatic backdrop. We end the evening at a covered café at Slatina, listening to the rain.",
-            "hr": "Jutro počinje u zaklonjenim dvoranama hotela Kvarner dok kiša lupka po prozorima. U podne, Umjetnički paviljon i Villa Angiolina nude savršen bijeg u zatvoreno. Poslijepodne šetamo s kišobranima duž Lungomarea, gdje uzburkano more stvara dramatičnu kulisu. Večer završavamo u natkrivenom kafiću na Slatini, slušajući kišu."
+            "hr": "Jutro počinje u zaštićenim dvoranama hotela Kvarner dok kiša kuca po prozorima. U podne Art paviljon i Villa Angiolina nude savršene unutarnje utočište. Poslijepodne šetamo s kišobranima duž Lungomarea, gdje razigrano more stvara dramatičnu pozadinu. Večer završavamo u natkrivenom kafiću na Slatini, slušajući kišu."
           },
           "stops": [
             {
@@ -785,7 +820,7 @@
                 "hu": "Vigyázzon a felcsapó hullámokra szélben.",
                 "ro": "Atenție la stropii de mare în caz de vânt.",
                 "en": "Watch out for sea spray during high winds.",
-                "hr": "Pripazite na morsko prskanje tijekom jakog vjetra."
+                "hr": "Pazite na povjetarac i prskanje mora tijekom jakih vjetrova."
               }
             },
             {
@@ -795,7 +830,7 @@
                 "hu": "Csendes és száraz hely a megállásra.",
                 "ro": "Un loc liniștit și uscat pentru o pauză.",
                 "en": "A quiet and dry place for a brief pause.",
-                "hr": "Mirno i suho mjesto za kratku stanku."
+                "hr": "Tiho i suho mjesto za kratak predah."
               }
             },
             {
@@ -805,7 +840,7 @@
                 "hu": "Használja ki az esőt egy benti kiállításra.",
                 "ro": "Profită de ploaie pentru o expoziție la interior.",
                 "en": "Use the rainy break for an indoor exhibition.",
-                "hr": "Iskoristite kišnu pauzu za izložbu u zatvorenom."
+                "hr": "Iskoristite kišnu pauzu za posjet unutarnjoj izložbi."
               }
             },
             {
@@ -815,7 +850,7 @@
                 "hu": "Csodálja meg a mennyezeti festményeket szárazon.",
                 "ro": "Admirați picturile murale la adăpost de ploaie.",
                 "en": "Admire the ceiling paintings while staying dry.",
-                "hr": "Divite se stropnim slikama dok ostajete suhi."
+                "hr": "Divite se slikama na stropu dok ostajete suhi."
               }
             },
             {
@@ -825,7 +860,7 @@
                 "hu": "Töketeles választás egy esős órára.",
                 "ro": "Ideal pentru a petrece o oră la adăpost.",
                 "en": "Perfect for spending a rainy hour inside.",
-                "hr": "Savršeno za provesti kišni sat u zatvorenom."
+                "hr": "Savršeno za provesti kišni sat unutra."
               }
             },
             {
@@ -835,7 +870,7 @@
                 "hu": "Az egzotikus növények színe élénkebb esőben.",
                 "ro": "Plantele exotice par mai vii sub ploaie.",
                 "en": "Exotic plants look more vibrant in the rain.",
-                "hr": "Egzotične biljke izgledaju živopisnije na kiši."
+                "hr": "Egzotično bilje izgleda živopisnije na kiši."
               }
             },
             {
@@ -845,7 +880,7 @@
                 "hu": "Nézze a tengert egy kikötői kávézóból.",
                 "ro": "Priviți marea de la o cafenea din port.",
                 "en": "Watch the sea from a harbor café.",
-                "hr": "Promatrajte more iz lučkog kafića."
+                "hr": "Gledajte more iz kafića u luci."
               }
             },
             {
@@ -855,7 +890,7 @@
                 "hu": "Tartsa erősen az ernyőt a tengeri szélben.",
                 "ro": "Țineți bine umbrela din cauza vântului.",
                 "en": "Keep a firm grip on your umbrella in the wind.",
-                "hr": "Čvrsto držite kišobran na vjetru."
+                "hr": "Držite čvrsto kišobran pri vjetru."
               }
             },
             {
@@ -865,7 +900,7 @@
                 "hu": "Keressen egy ponyvás kávézót a záráshoz.",
                 "ro": "Căutați o cafenea cu copertină pentru final.",
                 "en": "Find a café with an awning to end the day.",
-                "hr": "Pronađite kafić s tendom za kraj dana."
+                "hr": "Pronađite kafić s tendom za završetak dana."
               }
             }
           ],
@@ -899,11 +934,11 @@
               "Be careful with slippery stones on the Lungomare."
             ],
             "hr": [
-              "Nosite nepromočivu obuću za šetnju šetnicom.",
-              "Čvrst kišobran je neophodan zbog morskog vjetra.",
-              "Koristite brojne kafiće kao skloništa od kiše.",
+              "Obujte vodootpornu obuću za šetnju promenadom.",
+              "Čvrst kišobran je nužan zbog morskih vjetrova.",
+              "Iskoristite brojne kafiće kao skloništa od kiše.",
               "Interijeri vila najbolja su suha opcija.",
-              "Budite oprezni s klizavim kamenjem na Lungomareu."
+              "Pazite na klizave kamene ploče na Lungomareu."
             ]
           }
         },
@@ -913,7 +948,7 @@
             "hu": "A reggeli friss levegő a Kvarnernél azonnal felébreszt. Délben a múzeumok és villák melegében folytatjuk a felfedezést. Mivel a nap már fél öt körül nyugszik, a kikötő aranyló fényeit korábban élvezhetjük. Az estét a parkok és a Slatina ünnepi díszkivilágítása teszi varázslatossá.",
             "ro": "Aerul proaspăt de dimineață la Kvarner vă va trezi simțurile. La prânz, ne încălzim în muzeele și vilele somptuoase. Deoarece soarele apune pe la 16:30, ne bucurăm de lumina aurie din port ceva mai devreme. Seara strălucește datorită iluminatului festiv din parcuri și zona Slatina.",
             "en": "Morning brings a crisp breeze at Kvarner to wake the senses. At noon, we warm up inside the grand museums and villas. Since the sun sets around 4:30 PM, we enjoy the golden light at the harbor earlier. The evening shines with festive lights in the parks and around Slatina.",
-            "hr": "Jutro donosi svjež povjetarac na Kvarneru koji budi osjetila. U podne se grijemo u velikim muzejima i vilama. Budući da sunce zalazi oko 16:30, ranije uživamo u zlatnom svjetlu u luci. Večer sja svečanim svjetlima u parkovima i oko Slatine."
+            "hr": "Jutro donosi svjež povjetarac na Kvarner koji budi osjete. U podne se zagrijavamo u velikim muzejima i vilama. Budući da sunce zalazi oko 16:30, ranije uživamo u zlatnom svjetlu u luci. Večer sjaji blagdanskim svjetlima u parkovima i oko Slatine."
           },
           "stops": [
             {
@@ -923,7 +958,7 @@
                 "hu": "Élvezze a téli, gáláns hangulatot.",
                 "ro": "Bucurați-vă de atmosfera de gală de iarnă.",
                 "en": "Enjoy the winter gala-like atmosphere.",
-                "hr": "Uživajte u zimskoj atmosferi nalik na gala večer."
+                "hr": "Uživajte u zimskoj, gala-atmosferi."
               }
             },
             {
@@ -933,7 +968,7 @@
                 "hu": "Meleg ruha kötelező a hideg szél miatt.",
                 "ro": "Haine groase pentru briza rece a mării.",
                 "en": "Warm clothes are a must for the cold sea breeze.",
-                "hr": "Topla odjeća je obavezna zbog hladnog morskog povjetarca."
+                "hr": "Topla odjeća nužna je zbog hladnog morskog povjetarca."
               }
             },
             {
@@ -953,7 +988,7 @@
                 "hu": "Kulturális megálló a fűtött épületben.",
                 "ro": "O oprire culturală într-o clădire încălzită.",
                 "en": "A cultural stop in a heated building.",
-                "hr": "Kulturna postaja u grijanoj zgradi."
+                "hr": "Kulturno zaustavljanje u grijanoj zgradi."
               }
             },
             {
@@ -963,7 +998,7 @@
                 "hu": "Ismerje meg a történelmet fázás nélkül.",
                 "ro": "Aflați istoria fără să vă fie frig.",
                 "en": "Learn history without feeling the cold.",
-                "hr": "Naučite povijest bez osjećaja hladnoće."
+                "hr": "Učite povijest bez osjećaja hladnoće."
               }
             },
             {
@@ -983,7 +1018,7 @@
                 "hu": "A kaméliák gyakran már késő télen nyílnak.",
                 "ro": "Cameliile înfloresc adesea la sfârșitul iernii.",
                 "en": "Camellias often bloom here in late winter.",
-                "hr": "Kamelije ovdje često cvjetaju u kasnu zimu."
+                "hr": "Kamelije ovdje često cvjetaju kasne zime."
               }
             },
             {
@@ -993,7 +1028,7 @@
                 "hu": "A tiszta téli levegő távoli kilátást ad.",
                 "ro": "Aerul curat de iarnă oferă vederi îndepărtate.",
                 "en": "Clear winter air offers distant views.",
-                "hr": "Čisti zimski zrak nudi poglede u daljinu."
+                "hr": "Bistar zimski zrak pruža dalekosežne poglede."
               }
             },
             {
@@ -1013,7 +1048,7 @@
                 "hu": "Csodálja meg a szikrázó karácsonyi fényeket.",
                 "ro": "Admirați luminile sclipitoare de Crăciun.",
                 "en": "Admire the sparkling Christmas lights.",
-                "hr": "Divite se svjetlucavim božićnim lampicama."
+                "hr": "Divite se blistavim božićnim svjetlima."
               }
             }
           ],
@@ -1047,11 +1082,11 @@
               "Try hot chocolate in the villa cafés."
             ],
             "hr": [
-              "Odjenite se slojevito kako biste lakše regulirali temperaturu.",
-              "Pripazite na buru; može biti vrlo hladna.",
-              "Sunce rano zalazi, planirajte svoj dan u skladu s tim.",
-              "Mnogi hoteli nude wellness opcije za zagrijavanje.",
-              "Probajte toplu čokoladu u kafićima u vilama."
+              "Obucite se u slojevima zbog prilagođavanja temperaturi.",
+              "Pazite na buru; može biti vrlo hladna.",
+              "Sunce zalazi rano, planirajte dan u skladu s tim.",
+              "Mnogi hoteli nude wellness opcije za ugrijavanje.",
+              "Probajte vruću čokoladu u kafićima vila."
             ]
           }
         }
@@ -1070,7 +1105,8 @@
             "de": "Hafen von Opatija",
             "hu": "Opatijai kikötő",
             "ro": "Portul Opatija",
-            "en": "Port of Opatija"
+            "en": "Port of Opatija",
+            "hr": "Luka Opatija"
           },
           "coords": [
             14.3105,
@@ -1086,7 +1122,7 @@
             "hu": "A kikötő tökéletes kiindulópont Volosko felé vagy a Lungomare mentén induló kerékpártúrákhoz.",
             "ro": "Portul este punctul de plecare ideal pentru ture cu bicicleta spre Volosko sau de-a lungul Lungomare.",
             "en": "The port is the ideal starting point for bike tours towards Volosko or along the Lungomare.",
-            "hr": "Luka je idealna polazna točka za biciklističke ture prema Voloskom ili duž Lungomarea."
+            "hr": "Luka je idealna polazna točka za biciklističke ture prema Voloskom ili uz Lungomare."
           }
         },
         {
@@ -1094,7 +1130,8 @@
             "de": "Park Angiolina",
             "hu": "Angiolina park",
             "ro": "Parcul Angiolina",
-            "en": "Angiolina Park"
+            "en": "Angiolina Park",
+            "hr": "Park Angiolina"
           },
           "coords": [
             14.308,
@@ -1110,7 +1147,7 @@
             "hu": "A park bejáratánál hagyja kerékpárját (ingyenes állvány) – a parkban kerékpározás tilos.",
             "ro": "Lăsați bicicleta la intrarea în parc (suporturi gratuite) – ciclismul în parc nu este permis.",
             "en": "Leave your bike at the park entrance (free stands) – cycling inside the park is not permitted.",
-            "hr": "Ostavite bicikl na ulazu u park (besplatni stalci) – vožnja biciklom unutar parka nije dopuštena."
+            "hr": "Ostavite bicikl na ulazu parka (besplatni stalci) – vožnja unutar parka nije dopuštena."
           }
         },
         {
@@ -1118,7 +1155,8 @@
             "de": "Villa Angiolina",
             "hu": "Villa Angiolina",
             "ro": "Villa Angiolina",
-            "en": "Villa Angiolina"
+            "en": "Villa Angiolina",
+            "hr": "Villa Angiolina"
           },
           "coords": [
             14.3085,
@@ -1134,7 +1172,7 @@
             "hu": "Az 1845-ös épület restaurálva van – a belső múzeum belépője 3 €.",
             "ro": "Clădirea din 1845 este restaurată – muzeul din interior costă 3 € intrarea.",
             "en": "The 1845 building is restored – the museum inside charges €3 entry.",
-            "hr": "Zgrada iz 1845. godine je obnovljena – muzej unutra naplaćuje ulaz 3 €."
+            "hr": "Zgrada iz 1845. obnovljena je – muzej unutra naplaćuje ulaz 3 €."
           }
         },
         {
@@ -1142,7 +1180,8 @@
             "de": "Das Mädchen mit der Möwe",
             "hu": "Leány a sirállyal",
             "ro": "Fata cu Pescărușul",
-            "en": "Maiden with the Seagull"
+            "en": "Maiden with the Seagull",
+            "hr": "Djevojka s galebom"
           },
           "coords": [
             14.3088,
@@ -1158,7 +1197,7 @@
             "hu": "Rövid fotómegálló; reggel turisták nélkül – aztán tovább kerékpározni Volosko felé.",
             "ro": "Scurtă oprire foto; dimineața fără turiști – apoi continuați spre Volosko.",
             "en": "Short photo stop; early morning without tourists – then cycle on towards Volosko.",
-            "hr": "Kratko zaustavljanje za fotografiranje; rano ujutro bez turista – zatim nastavite prema Voloskom."
+            "hr": "Kratko fotografsko zaustavljanje; rano ujutro bez turista – zatim nastavite biciklirati prema Voloskom."
           }
         },
         {
@@ -1166,7 +1205,8 @@
             "de": "Lungomare-Promenade",
             "hu": "Lungomare sétány",
             "ro": "Promenada Lungomare",
-            "en": "Lungomare Promenade"
+            "en": "Lungomare Promenade",
+            "hr": "Lungomare promenada"
           },
           "coords": [
             14.306,
@@ -1182,7 +1222,7 @@
             "hu": "A Lungomare mentén a gyalogosokkal és kerékpárosokkal megosztott útvonalon lassan haladjon, különösen nyáron.",
             "ro": "Traseul de-a lungul Lungomare este împărțit cu pietonii – mergeți încet, mai ales vara.",
             "en": "The Lungomare route is shared with pedestrians – ride slowly, especially in summer.",
-            "hr": "Ruta Lungomare dijeli se s pješacima – vozite polako, posebno ljeti."
+            "hr": "Ruta Lungomarea dijeli se s pješacima – vozite polako, posebno ljeti."
           }
         },
         {
@@ -1190,7 +1230,8 @@
             "de": "Slatina-Strand",
             "hu": "Slatina-strand",
             "ro": "Plaja Slatina",
-            "en": "Slatina Beach"
+            "en": "Slatina Beach",
+            "hr": "Plaža Slatina"
           },
           "coords": [
             14.304,
@@ -1206,7 +1247,7 @@
             "hu": "Biztosan zárja le kerékpárját a strandnál – nincs őrzött kerékpártároló, láncos zár szükséges.",
             "ro": "Asigurați bicicleta bine la plajă – nu există parcare supravegheată, lacăt obligatoriu.",
             "en": "Lock your bike securely at the beach – no supervised rack, a strong lock is necessary.",
-            "hr": "Sigurno zaključajte bicikl na plaži – nema nadziranog stalka, potreban je jak lokot."
+            "hr": "Zaključajte bicikl sigurno na plaži – nema nadziranog stalka, potreban je jak lokot."
           }
         }
       ],
@@ -1215,7 +1256,7 @@
         "hu": "Fedezze fel az Abbáziai Riviérát két keréken. A kikötőtől indulunk, árnyas parkokon át egészen a Slatina-strandig. A tengeri szellő tökéletes társ ehhez az aktív délelőtthöz.",
         "ro": "Explorați Riviera Opatija pe două roți. Pornim din port și pedalăm prin parcurile umbrite până la plaja Slatina. Briza mării este partenerul perfect pentru această dimineață activă.",
         "en": "Explore the Opatija Riviera on two wheels. We start at the port and cycle through shaded parks all the way to Slatina Beach. The sea breeze is the perfect companion for this active morning.",
-        "hr": "Istražite Opatijsku rivijeru na dva kotača. Krećemo iz luke i vozimo se kroz sjenovite parkove sve do plaže Slatina. Morski povjetarac savršen je suputnik za ovo aktivno jutro."
+        "hr": "Istražite opatijsku rivijeru na dva kotača. Krećemo iz luke i vozimo kroz zasjenjene parkove sve do plaže Slatina. Morski povjetarac savršen je suputnik za ovo aktivno jutro."
       },
       "gastro_picks": {
         "de": [
@@ -1417,12 +1458,12 @@
           "Volosko (3 km) has excellent restaurants – ideal as a lunch destination."
         ],
         "hr": [
-          "Najam bicikala u Rent-a-Bike Opatija od 10 €/dan – kaciga uključena u cijenu.",
-          "Nošenje kacige u Hrvatskoj nije obavezno za odrasle, ali se toplo preporučuje.",
-          "Lungomare nije službena biciklistička staza – budite obzirni prema pješacima.",
-          "Ponesite dovoljno vode; na ruti prema Voloskom nema fontana s pitkom vodom.",
-          "Ljeti je staza najprometnija između podneva i 16:00 – vozite rano.",
-          "Volosko (3 km) ima izvrsne restorane – idealno je kao odredište za ručak."
+          "Iznajmljivanje bicikala u Rent-a-Bike Opatija od 10 €/dan – kaciga uključena u cijenu.",
+          "Nošenje kacige nije obavezno za odrasle u Hrvatskoj, ali se snažno preporučuje.",
+          "Lungomare nije službena biciklistička staza – imajte obzira prema pješacima.",
+          "Ponesite dovoljno vode; nema česme na putu prema Voloskom.",
+          "Ljeti je put najprometniji između podneva i 16:00 – vozite rano.",
+          "Volosko (3 km) ima odlične restorane – idealno za ručak."
         ]
       },
       "variants": {
@@ -1431,7 +1472,8 @@
             "de": "Erkunden Sie die Riviera von Opatija auf zwei Rädern. Wir starten am Hafen und radeln durch den schattigen Park Angiolina bis zum Slatina-Strand. Die Meeresbrise ist der perfekte Begleiter für diesen aktiven Vormittag.",
             "hu": "Fedezze fel az Abbáziai Riviérát két keréken. A kikötőtől indulunk, árnyas parkokon át egészen a Slatina-strandig. A tengeri szellő tökéletes társ ehhez az aktív délelőtthöz.",
             "ro": "Explorați Riviera Opatija pe două roți. Pornim din port și pedalăm prin parcurile umbrite până la plaja Slatina. Briza mării este partenerul perfect pentru această dimineață activă.",
-            "en": "Explore the Opatija Riviera on two wheels. We start at the port and cycle through shaded parks all the way to Slatina Beach. The sea breeze is the perfect companion for this active morning."
+            "en": "Explore the Opatija Riviera on two wheels. We start at the port and cycle through shaded parks all the way to Slatina Beach. The sea breeze is the perfect companion for this active morning.",
+            "hr": "Istražite opatijsku rivijeru na dva kotača. Krećemo iz luke i vozimo kroz zasjenjene parkove sve do plaže Slatina. Morski povjetarac savršen je suputnik za ovo aktivno jutro."
           },
           "stops": [
             {
@@ -1439,13 +1481,15 @@
                 "de": "Hafen von Opatija",
                 "hu": "Opatijai kikötő",
                 "ro": "Portul Opatija",
-                "en": "Port of Opatija"
+                "en": "Port of Opatija",
+                "hr": "Luka Opatija"
               },
               "tip_5lang": {
                 "de": "Startpunkt für Radtouren.",
                 "hu": "Kiindulópont kerékpártúrákhoz.",
                 "ro": "Punct de plecare pentru ture cu bicicleta.",
-                "en": "Starting point for bike tours."
+                "en": "Starting point for bike tours.",
+                "hr": "Polazna točka za biciklističke ture."
               }
             },
             {
@@ -1453,13 +1497,15 @@
                 "de": "Park Angiolina",
                 "hu": "Angiolina park",
                 "ro": "Parcul Angiolina",
-                "en": "Angiolina Park"
+                "en": "Angiolina Park",
+                "hr": "Park Angiolina"
               },
               "tip_5lang": {
                 "de": "Fahrrad kurz abstellen und spazieren.",
                 "hu": "Tegye le a biciklit és sétáljon.",
                 "ro": "Lăsați bicicleta și plimbați-vă.",
-                "en": "Park your bike and take a walk."
+                "en": "Park your bike and take a walk.",
+                "hr": "Parkirajte bicikl i prošećite."
               }
             },
             {
@@ -1467,13 +1513,15 @@
                 "de": "Villa Angiolina",
                 "hu": "Villa Angiolina",
                 "ro": "Villa Angiolina",
-                "en": "Villa Angiolina"
+                "en": "Villa Angiolina",
+                "hr": "Villa Angiolina"
               },
               "tip_5lang": {
                 "de": "Historisches Zentrum besichtigen.",
                 "hu": "Tekintse meg a történelmi központot.",
                 "ro": "Vizitați centrul istoric.",
-                "en": "Visit the historic center."
+                "en": "Visit the historic center.",
+                "hr": "Posjetite povijesnu jezgru."
               }
             },
             {
@@ -1481,13 +1529,15 @@
                 "de": "Das Mädchen mit der Möwe",
                 "hu": "Leány a sirállyal",
                 "ro": "Fata cu Pescărușul",
-                "en": "Maiden with the Seagull"
+                "en": "Maiden with the Seagull",
+                "hr": "Djevojka s galebom"
               },
               "tip_5lang": {
                 "de": "Kurzer Fotostopp am Meer.",
                 "hu": "Rövid fotómegálló a tengernél.",
                 "ro": "Scurt popas foto la mare.",
-                "en": "Short photo stop by the sea."
+                "en": "Short photo stop by the sea.",
+                "hr": "Kratko fotografsko zaustavljanje uz more."
               }
             },
             {
@@ -1495,13 +1545,15 @@
                 "de": "Lungomare-Promenade",
                 "hu": "Lungomare sétány",
                 "ro": "Promenada Lungomare",
-                "en": "Lungomare Promenade"
+                "en": "Lungomare Promenade",
+                "hr": "Lungomare promenada"
               },
               "tip_5lang": {
                 "de": "Vorsicht bei Fußgängern auf dem Weg.",
                 "hu": "Vigyázzon a gyalogosokra az úton.",
                 "ro": "Atenție la pietonii de pe drum.",
-                "en": "Watch out for pedestrians on the path."
+                "en": "Watch out for pedestrians on the path.",
+                "hr": "Pazite na pješake na stazi."
               }
             },
             {
@@ -1509,13 +1561,15 @@
                 "de": "Slatina-Strand",
                 "hu": "Slatina-strand",
                 "ro": "Plaja Slatina",
-                "en": "Slatina Beach"
+                "en": "Slatina Beach",
+                "hr": "Plaža Slatina"
               },
               "tip_5lang": {
                 "de": "Verdiente Erfrischung nach der Tour.",
                 "hu": "Megérdemelt felfrissülés a túra után.",
                 "ro": "Răcorire binemeritată după tură.",
-                "en": "Well-deserved refreshment after the tour."
+                "en": "Well-deserved refreshment after the tour.",
+                "hr": "Zasluženo osvježenje nakon ture."
               }
             }
           ],
@@ -1617,6 +1671,10 @@
             "en": [
               "Observe helmet rules.",
               "Take enough water."
+            ],
+            "hr": [
+              "Poštujte pravila nošenja kacige.",
+              "Ponesite dovoljno vode."
             ]
           }
         },
@@ -1626,7 +1684,7 @@
             "hu": "Az esős tekerés a kikötőben indul, ahol ellenőrizzük a felszerelést. Délben óvatosan haladunk át a parkon a Villa Angiolina felé. Délután a szél és a vizes aszfalt teszi próbára a tudásunkat a sétányon. A túra végén a Slatina egyik fedett helyén melegszünk fel.",
             "ro": "Plimbarea pe ploaie începe în port, verificând echipamentul. La prânz, pedalăm cu grijă prin parc spre Villa Angiolina. După-amiaza, vântul și asfaltul ud de pe Lungomare ne testează abilitățile. La finalul turei ude, ne încălzim într-un loc acoperit la Slatina.",
             "en": "The rainy ride starts at the port, checking our gear. At noon, we cycle carefully through the park toward Villa Angiolina. In the afternoon, wind and wet surfaces challenge us on the Lungomare. We finish the wet tour by warming up at a sheltered spot in Slatina.",
-            "hr": "Kišna vožnja počinje u luci, gdje provjeravamo opremu. U podne oprezno vozimo bicikl kroz park prema Villi Angiolina. Poslijepodne nas vjetar i mokre površine izazivaju na Lungomareu. Mokru turu završavamo grijanjem na natkrivenom mjestu na Slatini."
+            "hr": "Kišna vožnja započinje u luci provjerom opreme. U podne pažljivo vozimo kroz park prema Villi Angiolina. Poslijepodne nas vjetar i mokre površine izazivaju na Lungomareu. Mokru turu završavamo zagrijavanjem na zaštićenom mjestu na Slatini."
           },
           "stops": [
             {
@@ -1636,7 +1694,7 @@
                 "hu": "Ellenőrizze a fékeket a vizes talajon.",
                 "ro": "Verificați frânele pe suprafața udă.",
                 "en": "Check your brakes on the wet ground.",
-                "hr": "Provjerite kočnice na mokrom tlu."
+                "hr": "Provjerite kočnice na mokroj podlozi."
               }
             },
             {
@@ -1646,7 +1704,7 @@
                 "hu": "Vigyázzon a kavicsos utakon a parkban.",
                 "ro": "Atenție pe aleile cu pietriș din parc.",
                 "en": "Be careful on the gravel paths in the park.",
-                "hr": "Budite oprezni na makadamskim stazama u parku."
+                "hr": "Pazite na šljunčane staze u parku."
               }
             },
             {
@@ -1666,7 +1724,7 @@
                 "hu": "A széllökések nehezíthetik a kormányzást.",
                 "ro": "Rafalele de vânt pot îngreuna direcția.",
                 "en": "Wind gusts can make steering difficult.",
-                "hr": "Udari vjetra mogu otežati upravljanje."
+                "hr": "Puhanje naleta vjetra može otežati upravljanje."
               }
             },
             {
@@ -1676,7 +1734,7 @@
                 "hu": "Kerülje a gyors kanyarokat a vizes kövön.",
                 "ro": "Evitați virajele bruște pe pietrele ude.",
                 "en": "Avoid sharp turns on the wet stones.",
-                "hr": "Izbjegavajte oštra skretanja na mokrom kamenju."
+                "hr": "Izbjegavajte oštre zavoje na mokrim kamenjima."
               }
             },
             {
@@ -1720,11 +1778,11 @@
               "Check the visibility of your lights in the rain."
             ],
             "hr": [
-              "Potpuna oprema za kišu je apsolutno neophodna.",
-              "Pripazite na klizave oznake na cesti.",
-              "Održavajte veći razmak od pješaka na kiši.",
-              "Blatobrani će spriječiti da vam se odjeća namoči.",
-              "Provjerite vidljivost svojih svjetala na kiši."
+              "Kompletna kišna oprema je apsolutno nužna.",
+              "Pazite na skliske prometne oznake.",
+              "Držite veću udaljenost od pješaka na kiši.",
+              "Blatobrani će spriječiti da vam se odjeća smoči.",
+              "Provjerite vidljivost svjetala po kiši."
             ]
           }
         },
@@ -1734,7 +1792,7 @@
             "hu": "A téli bringázás frissítően indul a kikötőben a tiszta ég alatt. Délben a park hűvös levegőjét élvezzük a történelmi villák mellett elhaladva. Mivel korán sötétedik, a délutáni fényeket a sétányon és a leánynál használjuk ki. A napot a Slatinánál zárjuk, mielőtt beállna az esti fagy.",
             "ro": "Tura de iarnă începe revigorant în port, sub un cer senin. La prânz, ne bucurăm de aerul rece din parc, trecând pe lângă vilele istorice. Deoarece se întunecă devreme, profităm de lumina după-amiezii pe faleză. Încheiem ziua la Slatina, înainte ca frigul să se intensifice.",
             "en": "The winter tour starts refreshingly at the port under clear skies. At noon, we enjoy the cool air in the park, cycling past historic villas. Since it gets dark early, we make the most of the afternoon light on the promenade. We finish the day at Slatina before the evening chill sets in.",
-            "hr": "Zimska tura počinje osvježavajuće u luci pod vedrim nebom. U podne uživamo u hladnom zraku u parku, vozeći se pored povijesnih vila. Budući da mrak rano pada, maksimalno koristimo poslijepodnevno svjetlo na šetnici. Dan završavamo na Slatini prije večernje hladnoće."
+            "hr": "Zimska tura osvježavajuće počinje u luci pod vedrim nebom. U podne uživamo u svježem zraku u parku, prolazeći pored povijesnih vila. Budući da se brzo smrkava, maksimalno koristimo popodnevno svjetlo na šetnici. Dan završavamo u Slatini prije nego stigne večernja oštrina."
           },
           "stops": [
             {
@@ -1744,7 +1802,7 @@
                 "hu": "A termokesztyű fontos a menetszél miatt.",
                 "ro": "Mănușile termice sunt vitale la viteze mari.",
                 "en": "Thermal gloves are vital against the wind chill.",
-                "hr": "Termo rukavice su ključne protiv hladnog vjetra."
+                "hr": "Tople rukavice su bitne protiv hladnog vjetra."
               }
             },
             {
@@ -1754,7 +1812,7 @@
                 "hu": "A fagyott harmat csúszóssá teheti az utat.",
                 "ro": "Roua înghețată poate face aleile alunecoase.",
                 "en": "Frozen dew can make the paths slippery.",
-                "hr": "Zaleđena rosa može staze učiniti klizavima."
+                "hr": "Zaleđena rosišta mogu učiniti staze skliskima."
               }
             },
             {
@@ -1764,7 +1822,7 @@
                 "hu": "Használja a megállót egy rövid melegedésre.",
                 "ro": "Folosiți oprirea pentru a vă încălzi puțin.",
                 "en": "Use the stop for a quick warming break.",
-                "hr": "Iskoristite zaustavljanje za kratku pauzu za zagrijavanje."
+                "hr": "Iskoristite stajanje za kratku pauzu i zagrijavanje."
               }
             },
             {
@@ -1774,7 +1832,7 @@
                 "hu": "Éles szél a parton; hordjon fülvédőt.",
                 "ro": "Vânt tăios pe mal; purtați protecții urechi.",
                 "en": "Sharp wind on the shore; wear ear protection.",
-                "hr": "Oštar vjetar na obali; nosite zaštitu za uši."
+                "hr": "Jak vjetar na obali; nosite zaštitu za uši."
               }
             },
             {
@@ -1784,7 +1842,7 @@
                 "hu": "Az alacsony nap elvakíthat menet közben.",
                 "ro": "Soarele jos vă poate orbi în timpul mersului.",
                 "en": "The low sun can blind you while riding.",
-                "hr": "Nisko sunce može vas zaslijepiti tijekom vožnje."
+                "hr": "Nisko sunce može zaslijepiti tijekom vožnje."
               }
             },
             {
@@ -1828,11 +1886,11 @@
               "Carry a warm drink in a thermos flask."
             ],
             "hr": [
-              "Nosite odjeću otpornu na vjetar u više slojeva.",
-              "Provjerite tlak u gumama zbog hladnih temperatura.",
-              "Grijač vrata štiti vaše lice i vrat.",
-              "Planirajte svoju rutu tako da završite prije 17:00 sati.",
-              "Nosite topli napitak u termosici."
+              "Nosite vjetrootpornu odjeću u više slojeva.",
+              "Provjerite tlak u gumama za niske temperature.",
+              "Nacišnjak štiti lice i vrat.",
+              "Planirajte rutu da završite prije 17:00.",
+              "Ponesite topao napitak u termalnoj boci."
             ]
           }
         }
@@ -1851,7 +1909,8 @@
             "de": "Slatina-Strand",
             "hu": "Slatina-strand",
             "ro": "Plaja Slatina",
-            "en": "Slatina Beach"
+            "en": "Slatina Beach",
+            "hr": "Plaža Slatina"
           },
           "coords": [
             14.304,
@@ -1867,7 +1926,7 @@
             "hu": "A legközelebbi parkolóház (Slatina) 300 m-re; napijegy 8 € – a legolcsóbb opció a belvárosban.",
             "ro": "Parcarea Slatina la 300 m, bilet de zi 8 € – cea mai ieftină opțiune din centru.",
             "en": "Nearest car park (Slatina) is 300 m away; day ticket €8 – cheapest central option.",
-            "hr": "Najbliže parkiralište (Slatina) udaljeno je 300 m; dnevna karta 8 € – najpovoljnija centralna opcija."
+            "hr": "Najbliže parkiralište (Slatina) udaljeno je 300 m; dnevna karta €8 – najjeftinija središnja opcija."
           }
         },
         {
@@ -1875,7 +1934,8 @@
             "de": "Das Mädchen mit der Möwe",
             "hu": "Leány a sirállyal",
             "ro": "Fata cu Pescărușul",
-            "en": "Maiden with the Seagull"
+            "en": "Maiden with the Seagull",
+            "hr": "Dvije vile s galebom"
           },
           "coords": [
             14.3088,
@@ -1891,7 +1951,7 @@
             "hu": "Rövid parkolási lehetőség a strandpromenádon; 15 perc ingyenes fotózáshoz.",
             "ro": "Parcare scurtă de-a lungul promenadei plajei; 15 minute gratuite pentru fotografiat.",
             "en": "Short parking along the beach promenade; 15 minutes free for photos.",
-            "hr": "Kratko parkiranje uz obalnu šetnicu; 15 minuta besplatno za fotografiranje."
+            "hr": "Kratko parkiranje uz šetnicu; 15 minuta besplatno za fotografije."
           }
         },
         {
@@ -1899,7 +1959,8 @@
             "de": "Villa Angiolina",
             "hu": "Villa Angiolina",
             "ro": "Villa Angiolina",
-            "en": "Villa Angiolina"
+            "en": "Villa Angiolina",
+            "hr": "Vila Angiolina"
           },
           "coords": [
             14.3085,
@@ -1915,7 +1976,7 @@
             "hu": "Belépő 3 €; parkoljon a Slatina parkolóban és 5 perc sétával érhető el a villa.",
             "ro": "Bilet 3 €; parcați la Slatina și mergeți 5 minute pe jos până la vilă.",
             "en": "Entry €3; park at Slatina car park and walk 5 minutes to the villa.",
-            "hr": "Ulaz 3 €; parkirajte na parkiralištu Slatina i pješačite 5 minuta do vile."
+            "hr": "Ulaz €3; parkirajte na Slatini i pješačite 5 minuta do vile."
           }
         },
         {
@@ -1923,7 +1984,8 @@
             "de": "Hafen von Opatija",
             "hu": "Opatijai kikötő",
             "ro": "Portul Opatija",
-            "en": "Port of Opatija"
+            "en": "Port of Opatija",
+            "hr": "Luka Opatija"
           },
           "coords": [
             14.3105,
@@ -1939,7 +2001,7 @@
             "hu": "Kevés parkolóhely közvetlenül a kikötőnél; alternatíva: Slatina parkoló és 10 perc séta.",
             "ro": "Puține locuri de parcare direct la port; alternativ parcarea Slatina și 10 minute pe jos.",
             "en": "Few parking spots directly at the harbor; alternatively park at Slatina and walk 10 minutes.",
-            "hr": "Malo parkirnih mjesta izravno u luci; alternativno parkirajte na Slatini i hodajte 10 minuta."
+            "hr": "Malo mjesta za parkiranje izravno u luci; alternativa je parkirati na Slatini i prošetati 10 minuta."
           }
         },
         {
@@ -1947,7 +2009,8 @@
             "de": "Park Angiolina",
             "hu": "Angiolina park",
             "ro": "Parcul Angiolina",
-            "en": "Angiolina Park"
+            "en": "Angiolina Park",
+            "hr": "Park Angiolina"
           },
           "coords": [
             14.308,
@@ -1963,7 +2026,7 @@
             "hu": "Pihentető séta a parkban – tökéletes záróakkord a hazaút előtt, belépő nélkül.",
             "ro": "Plimbare relaxată prin parc – final ideal înainte de drum, fără taxă de intrare.",
             "en": "Relaxed walk through the park – ideal way to end the visit before the drive home, no entry fee.",
-            "hr": "Opuštena šetnja parkom – idealan način za završetak posjeta prije vožnje kući, bez ulaznice."
+            "hr": "Opustena šetnja kroz park – idealan način za završetak posjeta prije povratka automobilom, bez ulaznice."
           }
         }
       ],
@@ -1972,7 +2035,7 @@
         "hu": "Kényelmes túra Abbáziában. Autóval gyorsan elérjük a főbb pontokat, így több idő jut a kertekben és a tengerparton való pihenésre.",
         "ro": "Tur confortabil în Opatija. Cu mașina ajungem rapid la punctele principale, având mai mult timp pentru relaxare în grădini și la mare.",
         "en": "A comfortable tour through Opatija. By car, we reach the main spots quickly, leaving more time for relaxation in the gardens and by the sea.",
-        "hr": "Udobna tura kroz Opatiju. Automobilom brzo stižemo do glavnih mjesta, ostavljajući više vremena za opuštanje u vrtovima i uz more."
+        "hr": "Ugodna tura kroz Opatiju. Automobilom brzo stižemo do glavnih točaka, ostavljajući više vremena za opuštanje u vrtovima i uz more."
       },
       "gastro_picks": {
         "de": [
@@ -2174,12 +2237,12 @@
           "In summer traffic on the main road backs up after 10 AM – arrive early."
         ],
         "hr": [
-          "Parkiralište Slatina je najjeftinije: dnevna karta 8 €, 300 m od centra.",
-          "Ulično parkiranje u centru košta 2 € po satu i ograničeno je na 2 sata.",
-          "Nakon 18:00 sati parkiranje duž obalne šetnice je besplatno.",
-          "Volosko (3 km sjeverno) vrijedi posjetiti zbog ručka – ima više parkinga nego u Opatiji.",
-          "Muzej turizma zatvoren je ponedjeljkom – izbjegavajte odlazak tamo tog dana.",
-          "Ljeti se promet na glavnoj cesti zagušuje nakon 10:00 – dođite ranije."
+          "Parkiralište Slatina je najjeftinije: dnevna karta €8, 300 m od centra.",
+          "Ulični parking u centru košta €2/sat i ograničen je na 2 sata.",
+          "Nakon 18:00 parking uz šetnicu je besplatan.",
+          "Volosko (3 km sjeverno) vrijedi za ručak – više parkinga nego u Opatiji.",
+          "Turistički muzej je zatvoren ponedjeljkom – izbjegavajte skretanje tamo u ponedjeljak.",
+          "Ljeti se promet na glavnoj cesti zaguši nakon 10:00 – dođite rano."
         ]
       },
       "variants": {
@@ -2188,7 +2251,8 @@
             "de": "Bequeme Tour durch Opatija. Mit dem Auto erreichen wir die wichtigsten Punkte schnell und verbringen mehr Zeit mit Entspannung in den Gärten und am Meer.",
             "hu": "Kényelmes túra Abbáziában. Autóval gyorsan elérjük a főbb pontokat, így több idő jut a kertekben és a tengerparton való pihenésre.",
             "ro": "Tur confortabil în Opatija. Cu mașina ajungem rapid la punctele principale, având mai mult timp pentru relaxare în grădini și la mare.",
-            "en": "A comfortable tour through Opatija. By car, we reach the main spots quickly, leaving more time for relaxation in the gardens and by the sea."
+            "en": "A comfortable tour through Opatija. By car, we reach the main spots quickly, leaving more time for relaxation in the gardens and by the sea.",
+            "hr": "Ugodna tura kroz Opatiju. Automobilom brzo stižemo do glavnih točaka, ostavljajući više vremena za opuštanje u vrtovima i uz more."
           },
           "stops": [
             {
@@ -2196,13 +2260,15 @@
                 "de": "Slatina-Strand",
                 "hu": "Slatina-strand",
                 "ro": "Plaja Slatina",
-                "en": "Slatina Beach"
+                "en": "Slatina Beach",
+                "hr": "Plaža Slatina"
               },
               "tip_5lang": {
                 "de": "Parkhaus in der Nähe nutzen.",
                 "hu": "Használja a közeli parkolóházat.",
                 "ro": "Folosiți parcarea din apropiere.",
-                "en": "Use the nearby parking garage."
+                "en": "Use the nearby parking garage.",
+                "hr": "Iskoristite obližnju garažu za parkiranje."
               }
             },
             {
@@ -2210,13 +2276,15 @@
                 "de": "Das Mädchen mit der Möwe",
                 "hu": "Leány a sirállyal",
                 "ro": "Fata cu Pescărușul",
-                "en": "Maiden with the Seagull"
+                "en": "Maiden with the Seagull",
+                "hr": "Dvije vile s galebom"
               },
               "tip_5lang": {
                 "de": "Kurzer Spaziergang vom Parkplatz.",
                 "hu": "Rövid séta a parkolótól.",
                 "ro": "Scurtă plimbare de la parcare.",
-                "en": "Short walk from the parking."
+                "en": "Short walk from the parking.",
+                "hr": "Kratka šetnja od parkirališta."
               }
             },
             {
@@ -2224,13 +2292,15 @@
                 "de": "Villa Angiolina",
                 "hu": "Villa Angiolina",
                 "ro": "Villa Angiolina",
-                "en": "Villa Angiolina"
+                "en": "Villa Angiolina",
+                "hr": "Vila Angiolina"
               },
               "tip_5lang": {
                 "de": "Zentraler Ort für Besichtigungen.",
                 "hu": "Központi hely a városnézéshez.",
                 "ro": "Loc central pentru vizitare.",
-                "en": "Central spot for sightseeing."
+                "en": "Central spot for sightseeing.",
+                "hr": "Središnje mjesto za razgledavanje."
               }
             },
             {
@@ -2238,13 +2308,15 @@
                 "de": "Hafen von Opatija",
                 "hu": "Opatijai kikötő",
                 "ro": "Portul Opatija",
-                "en": "Port of Opatija"
+                "en": "Port of Opatija",
+                "hr": "Luka Opatija"
               },
               "tip_5lang": {
                 "de": "Schöner Blick auf die Boote.",
                 "hu": "Szép kilátás a hajókra.",
                 "ro": "Vedere frumoasă la bărci.",
-                "en": "Beautiful view of the boats."
+                "en": "Beautiful view of the boats.",
+                "hr": "Prekrasan pogled na brodove."
               }
             },
             {
@@ -2252,13 +2324,15 @@
                 "de": "Park Angiolina",
                 "hu": "Angiolina park",
                 "ro": "Parcul Angiolina",
-                "en": "Angiolina Park"
+                "en": "Angiolina Park",
+                "hr": "Park Angiolina"
               },
               "tip_5lang": {
                 "de": "Entspannung vor der Heimfahrt.",
                 "hu": "Pihenés a hazautazás előtt.",
                 "ro": "Relaxare înainte de plecare.",
-                "en": "Relaxation before driving home."
+                "en": "Relaxation before driving home.",
+                "hr": "Opuštanje prije povratka automobilom kući."
               }
             }
           ],
@@ -2360,6 +2434,10 @@
             "en": [
               "Watch out for parking fees.",
               "Park early as spots are limited."
+            ],
+            "hr": [
+              "Pazite na parkirne naknade.",
+              "Parkirajte rano jer su mjesta ograničena."
             ]
           }
         },
@@ -2369,7 +2447,7 @@
             "hu": "Reggel a Slatinához hajtunk, az esőben könnyebb parkolót találni. Délben a leányt és a Villa Angiolinát látogatjuk meg, az autó száraz bázisként szolgál. Délután a kikötőt és környékét fedezzük fel kényelmesen a volán mögül. Az estét nyugodtan élvezzük anélkül, hogy eláznánk a visszaindulás előtt.",
             "ro": "Dimineața conducem spre Slatina, ploaia făcând parcarea mai ușoară. La prânz vizităm faleza și Villa Angiolina, mașina fiind baza noastră uscată. După-amiaza explorăm portul și împrejurimile confortabil de la volan. Seara ne bucurăm de relaxare fără a ne uda înainte de a reveni la hotel.",
             "en": "In the morning, we drive to Slatina, where the rain makes finding parking easier. At noon, we visit the Maiden and Villa Angiolina, with the car serving as our dry base. In the afternoon, we explore the harbor and its surroundings comfortably from the driver's seat. We enjoy a dry evening before heading back.",
-            "hr": "Ujutro se vozimo do Slatine, gdje kiša olakšava pronalaženje parkinga. U podne posjećujemo Djevojku s galebom i Villu Angiolinu, a automobil nam služi kao suha baza. Poslijepodne istražujemo luku i njezinu okolicu udobno iz sjedala vozača. Uživamo u suhoj večeri prije povratka."
+            "hr": "Ujutro vozimo do Slatine, gdje kiša olakšava pronalazak parkinga. U podne posjećujemo Djevojku i Vilu Angiolinu, pri čemu automobil služi kao naša suha baza. Popodne udobno istražujemo luku i okolinu iz vozačevog sjedala. Uživamo u suhoj večeri prije povratka."
           },
           "stops": [
             {
@@ -2379,7 +2457,7 @@
                 "hu": "A Slatina parkolóház száraz kijutást biztosít.",
                 "ro": "Parcarea Slatina oferă acces la adăpost.",
                 "en": "Slatina parking garage offers dry access.",
-                "hr": "Garaža Slatina nudi suhi pristup."
+                "hr": "Garaža Slatina nudi suh pristup."
               }
             },
             {
@@ -2389,7 +2467,7 @@
                 "hu": "Rövid megálló; ablaktörlő szakaszos üzemmódban.",
                 "ro": "Oprire scurtă; ștergătoarele pe interval.",
                 "en": "Short stop; set wipers to interval mode.",
-                "hr": "Kratko zaustavljanje; postavite brisače na intervalni rad."
+                "hr": "Kratko zaustavljanje; namjestite brisače na intervalni način rada."
               }
             },
             {
@@ -2399,7 +2477,7 @@
                 "hu": "Parkoljon közvetlenül a park bejáratánál.",
                 "ro": "Parcați direct la intrarea în parc.",
                 "en": "Park directly at the entrance of the park.",
-                "hr": "Parkirajte izravno na ulazu u park."
+                "hr": "Parkirajte odmah na ulazu u park."
               }
             },
             {
@@ -2409,7 +2487,7 @@
                 "hu": "Jó kilátás a hullámokra a parkolóból.",
                 "ro": "Vedere bună la valuri chiar din parcare.",
                 "en": "Good view of the waves from the parking lot.",
-                "hr": "Dobar pogled na valove s parkirališta."
+                "hr": "Dobar pogled na valove iz parkirališta."
               }
             },
             {
@@ -2419,7 +2497,7 @@
                 "hu": "Használja az esernyőt a rövid sétához.",
                 "ro": "Folosiți umbrela pentru scurta plimbare.",
                 "en": "Use your umbrella for the short walk.",
-                "hr": "Koristite kišobran za kratku šetnju."
+                "hr": "Iskoristite kišobran za kratku šetnju."
               }
             }
           ],
@@ -2453,10 +2531,10 @@
               "Visibility can be limited during heavy rain."
             ],
             "hr": [
-              "Pripazite na lokve na obalnoj cesti.",
-              "Koristite parkirne garaže za suhe prijelaze.",
-              "Izbjegavajte parkiranje ispod velikih, mokrih stabala.",
-              "Provjerite stanje metlica brisača.",
+              "Pazite na lokve na obalnoj cesti.",
+              "Koristite garaže za suhe prijelaze.",
+              "Izbjegavajte parkiranje pod velikim, mokrim stablima.",
+              "Provjerite stanje brisača vjetrobrana.",
               "Vidljivost može biti ograničena tijekom jake kiše."
             ]
           }
@@ -2467,7 +2545,7 @@
             "hu": "A reggeli út a Slatinához nagyszerű kilátást nyújt a téli tengerre. Délben a leánynál és a villánál parkolunk, a fűtött autóban melegedve fel. Délután a kikötőt látogatjuk meg, élvezve az alacsony nap meleg fényeit. Az este hangulatosan zárul egy autózással a kivilágított városon át.",
             "ro": "Drumul de dimineață spre Slatina oferă vederi superbe spre marea de iarnă. La prânz parcăm lângă faleză și vilă, încălzindu-ne în mașină. După-amiaza vizităm portul și savurăm lumina caldă a soarelui jos. Seara se încheie atmosferic cu o plimbare prin orașul luminat festiv.",
             "en": "The morning drive to Slatina offers great views of the winter sea. At noon, we park near the Maiden and the villa, warming up in the heated car. In the afternoon, we visit the harbor and enjoy the warm light of the low sun. The evening ends with a drive through the festively lit city.",
-            "hr": "Jutarnja vožnja do Slatine nudi prekrasan pogled na zimsko more. U podne se parkiramo u blizini kipa i vile, grijući se u zagrijanom automobilu. Poslijepodne posjećujemo luku i uživamo u toplom svjetlu niskog sunca. Večer završava vožnjom kroz blagdanski osvijetljen grad."
+            "hr": "Jutarnja vožnja do Slatine nudi odlične poglede na zimsko more. U podne parkiramo blizu Djevojke i vile, grijući se u ugrijanom automobilu. Popodne posjećujemo luku i uživamo u toplom svjetlu niskog sunca. Večer završava vožnjom kroz svečano osvijetljen grad."
           },
           "stops": [
             {
@@ -2477,7 +2555,7 @@
                 "hu": "Az ülésfűtés kényelmessé teszi az indulást.",
                 "ro": "Încălzirea în scaune face pornirea plăcută.",
                 "en": "Seat heating makes the start comfortable.",
-                "hr": "Grijanje sjedala čini početak ugodnim."
+                "hr": "Grijanje sjedala čini početak udobnim."
               }
             },
             {
@@ -2487,7 +2565,7 @@
                 "hu": "Élvezze a kilátást járó fűtés mellett.",
                 "ro": "Bucurați-vă de vedere cu căldura pornită.",
                 "en": "Enjoy the view with the heater running.",
-                "hr": "Uživajte u pogledu uz uključeno grijanje."
+                "hr": "Uživajte u pogledu s upaljenim grijačem."
               }
             },
             {
@@ -2497,7 +2575,7 @@
                 "hu": "A parkolóhelyek télen könnyebben elérhetők.",
                 "ro": "Locurile de parcare sunt mai ușor de găsit.",
                 "en": "Parking spots are easier to find in winter.",
-                "hr": "Parkirna mjesta je lakše pronaći zimi."
+                "hr": "Parkirna mjesta su lakše dostupna zimi."
               }
             },
             {
@@ -2507,7 +2585,7 @@
                 "hu": "Tiszta fények a fotókhoz közvetlenül a kocsiból.",
                 "ro": "Lumină clară pentru poze direct din mașină.",
                 "en": "Clear light for photos directly from the car.",
-                "hr": "Jasno svjetlo za fotografije izravno iz automobila."
+                "hr": "Jasno svjetlo za fotografije izravno iz auta."
               }
             },
             {
@@ -2517,7 +2595,7 @@
                 "hu": "Rövid téli séta a közeli parkolóból.",
                 "ro": "O scurtă plimbare de la parcarea apropiată.",
                 "en": "A short winter walk from the nearby parking.",
-                "hr": "Kratka zimska šetnja s obližnjeg parkinga."
+                "hr": "Kratka zimska šetnja iz obližnjeg parkirališta."
               }
             }
           ],
@@ -2551,11 +2629,11 @@
               "Enjoy the Christmas lights from your car."
             ],
             "hr": [
-              "Provjerite antifriz u tekućini za pranje stakla.",
-              "Pripazite na mraz na mostovima i u sjenama.",
-              "Ostavite više vremena za odmrzavanje vjetrobranskog stakla.",
-              "Akumulator može oslabiti na hladnoći; provjerite ga!",
-              "Uživajte u božićnim svjetlima iz svog automobila."
+              "Provjerite antifriz u tekućini za pranje vjetrobrana.",
+              "Pazite na poledicu na mostovima i u sjenama.",
+              "Predvidite više vremena za odmrzavanje vjetrobrana.",
+              "Baterija može oslabiti na hladnoći; provjerite je!",
+              "Uživajte u božićnim svjetlima iz automobila."
             ]
           }
         }
@@ -2574,7 +2652,8 @@
             "de": "Slatina-Strand",
             "hu": "Slatina-strand",
             "ro": "Plaja Slatina",
-            "en": "Slatina Beach"
+            "en": "Slatina Beach",
+            "hr": "Plaža Slatina"
           },
           "coords": [
             14.304,
@@ -2590,7 +2669,7 @@
             "hu": "Opatija fő buszmegállója közvetlenül a strand mellett van; Rijekából kb. 20 percenként jár busz.",
             "ro": "Stația principală de autobuz Opatija e direct la plajă; autobuzele din Rijeka vin la cca. 20 de minute.",
             "en": "Opatija main bus stop is right at the beach; buses from Rijeka run about every 20 minutes.",
-            "hr": "Glavna autobusna stanica u Opatiji je odmah uz plažu; autobusi iz Rijeke voze otprilike svakih 20 minuta."
+            "hr": "Glavno autobusno stajalište Opatije je odmah uz plažu; autobusi iz Rijeke voze otprilike svake 20 minute."
           }
         },
         {
@@ -2598,7 +2677,8 @@
             "de": "Kirche des Heiligen Jakob",
             "hu": "Szent Jakab-templom",
             "ro": "Biserica Sfântul Iacob",
-            "en": "Church of Saint James"
+            "en": "Church of Saint James",
+            "hr": "Crkva sv. Jakova"
           },
           "coords": [
             14.3078,
@@ -2614,7 +2694,7 @@
             "hu": "A templom 5 perces sétányira a megállótól; belső megtekintés H–Szo 9–12 és 16–18 óra.",
             "ro": "Biserică la 5 minute de mers pe jos de la stație; vizitare interior Lu–Sa 9–12 și 16–18.",
             "en": "Church 5 minutes' walk from the stop; interior open Mon–Sat 9–12 and 4–6 PM.",
-            "hr": "Crkva je udaljena 5 minuta hoda od stanice; unutrašnjost otvorena pon–sub 9:00–12:00 i 16:00–18:00."
+            "hr": "Crkva 5 minuta hoda od stajališta; unutrašnjost otvorena pon–sub 9–12 i 16–18."
           }
         },
         {
@@ -2622,7 +2702,8 @@
             "de": "Villa Angiolina",
             "hu": "Villa Angiolina",
             "ro": "Villa Angiolina",
-            "en": "Villa Angiolina"
+            "en": "Villa Angiolina",
+            "hr": "Vila Angiolina"
           },
           "coords": [
             14.3085,
@@ -2638,7 +2719,7 @@
             "hu": "A Rijekából induló 32-es busz 200 m-re áll meg a villától; belépő 3 €, hétfőn zárva.",
             "ro": "Linia 32 din Rijeka oprește la 200 m de vilă; bilet 3 €, luni închis.",
             "en": "Bus line 32 from Rijeka stops 200 m from the villa; entry €3, closed Mondays.",
-            "hr": "Autobusna linija 32 iz Rijeke staje 200 m od vile; ulaz 3 €, zatvoreno ponedjeljkom."
+            "hr": "Autobus linije 32 iz Rijeke staje 200 m od vile; ulaz €3, zatvoreno ponedjeljkom."
           }
         },
         {
@@ -2646,7 +2727,8 @@
             "de": "Hafen von Opatija",
             "hu": "Opatijai kikötő",
             "ro": "Portul Opatija",
-            "en": "Port of Opatija"
+            "en": "Port of Opatija",
+            "hr": "Luka Opatija"
           },
           "coords": [
             14.3105,
@@ -2662,7 +2744,7 @@
             "hu": "Szép kiindulópont közvetlenül a tengerparton; a Luka megálló 50 m-re van a halászkikötőtől.",
             "ro": "Punct de plecare frumos direct pe coastă; stația Luka e la 50 m de portul de pescuit.",
             "en": "Nice starting point right on the coast; the Luka stop is 50 m from the fishing harbor.",
-            "hr": "Lijepa polazna točka na samoj obali; stanica Luka udaljena je 50 m od ribarske luke."
+            "hr": "Lijepa polazna točka odmah na obali; stajalište Luka je 50 m od ribarske luke."
           }
         },
         {
@@ -2670,7 +2752,8 @@
             "de": "Lungomare-Promenade",
             "hu": "Lungomare sétány",
             "ro": "Promenada Lungomare",
-            "en": "Lungomare Promenade"
+            "en": "Lungomare Promenade",
+            "hr": "Lungomare šetnica"
           },
           "coords": [
             14.306,
@@ -2686,7 +2769,7 @@
             "hu": "A Lungomareról a főmegállóig 15 perces gyalogút; utolsó busz Rijekába 22:30-kor.",
             "ro": "De pe Lungomare la stația principală e 15 minute pe jos; ultimul autobuz spre Rijeka la 22:30.",
             "en": "From the Lungomare to the main stop is 15 minutes on foot; last bus to Rijeka at 10:30 PM.",
-            "hr": "Od Lungomarea do glavne stanice ima 15 minuta hoda; zadnji autobus za Rijeku kreće u 22:30."
+            "hr": "Od Lungomarea do glavnog stajališta je 15 minuta pješke; zadnji autobus za Rijeku u 22:30."
           }
         }
       ],
@@ -2695,7 +2778,7 @@
         "hu": "Használja a helyi buszokat Opatija nyugodt felfedezéséhez. A 32-es járat összeköti a riviéra összes fontos helyét.",
         "ro": "Folosiți autobuzele locale pentru a explora relaxat Opatija. Linia 32 leagă toate locurile importante de pe rivieră.",
         "en": "Use local buses to explore Opatija in a relaxed way. Line 32 connects all the important spots on the riviera.",
-        "hr": "Koristite lokalne autobuse za opušteno istraživanje Opatije. Linija 32 povezuje sva važna mjesta na rivijeri."
+        "hr": "Koristite lokalne autobuse za opušteno istraživanje Opatije. Linija 32 povezuje sve važne točke na rivijeri."
       },
       "gastro_picks": {
         "de": [
@@ -2897,12 +2980,12 @@
           "The walk from the bus stop to the Lungomare is only 5 minutes."
         ],
         "hr": [
-          "Autobusi iz Rijeke (oko 20 min) staju izravno na stanici Slatina; karta oko 3,50 €.",
-          "Linija 32 ide do centra; ostale linije završavaju na ulazu – provjerite kartu ili raspored.",
-          "Zadnji autobus za Rijeku je u 22:30 – nemojte ga propustiti, inače je taxi oko 25 €.",
-          "Provjerite vozni red online na autotrans.hr – vikendom vozi manje autobusa.",
-          "Imajte gotovinu za karte; ne primaju svi vozači kartice.",
-          "Šetnja od autobusne stanice do Lungomarea traje samo 5 minuta."
+          "Autobusi iz Rijeke (oko 20 min) staju izravno na stajalištu Slatina; karta oko €3.50.",
+          "Linija 32 ide do centra; druge linije završavaju na ulazu – provjerite kartu ili voznicu.",
+          "Zadnji autobus natrag za Rijeku u 22:30 – ne propustite ga, inače taksi (oko €25).",
+          "Provjerite vozni red na autotrans.hr – na vikendima vozi manje autobusa.",
+          "Imajte gotovinu za karte; ne prihvaćaju svi vozači kartice.",
+          "Pješačenje od stajališta do Lungomarea traje samo 5 minuta."
         ]
       },
       "variants": {
@@ -2911,7 +2994,8 @@
             "de": "Nutzen Sie den lokalen Bus, um Opatija entspannt zu erkunden. Die Linie 32 verbindet alle wichtigen Orte an der Riviera.",
             "hu": "Használja a helyi buszokat Opatija nyugodt felfedezéséhez. A 32-es járat összeköti a riviéra összes fontos helyét.",
             "ro": "Folosiți autobuzele locale pentru a explora relaxat Opatija. Linia 32 leagă toate locurile importante de pe rivieră.",
-            "en": "Use local buses to explore Opatija in a relaxed way. Line 32 connects all the important spots on the riviera."
+            "en": "Use local buses to explore Opatija in a relaxed way. Line 32 connects all the important spots on the riviera.",
+            "hr": "Koristite lokalne autobuse za opušteno razgledavanje Opatije. Linija 32 povezuje sve važne točke rivijere."
           },
           "stops": [
             {
@@ -2919,13 +3003,15 @@
                 "de": "Slatina-Strand",
                 "hu": "Slatina-strand",
                 "ro": "Plaja Slatina",
-                "en": "Slatina Beach"
+                "en": "Slatina Beach",
+                "hr": "Plaža Slatina"
               },
               "tip_5lang": {
                 "de": "Zentraler Busknotenpunkt.",
                 "hu": "Központi buszcsomópont.",
                 "ro": "Nod central de autobuz.",
-                "en": "Central bus hub."
+                "en": "Central bus hub.",
+                "hr": "Središnje autobusno čvorište."
               }
             },
             {
@@ -2933,13 +3019,15 @@
                 "de": "Kirche des Heiligen Jakob",
                 "hu": "Szent Jakab-templom",
                 "ro": "Biserica Sfântul Iacob",
-                "en": "Church of Saint James"
+                "en": "Church of Saint James",
+                "hr": "Crkva sv. Jakova"
               },
               "tip_5lang": {
                 "de": "Kurzer Fußweg von der Haltestelle.",
                 "hu": "Rövid séta a megállótól.",
                 "ro": "Scurtă plimbare de la stație.",
-                "en": "Short walk from the stop."
+                "en": "Short walk from the stop.",
+                "hr": "Kratka šetnja od stajališta."
               }
             },
             {
@@ -2947,13 +3035,15 @@
                 "de": "Villa Angiolina",
                 "hu": "Villa Angiolina",
                 "ro": "Villa Angiolina",
-                "en": "Villa Angiolina"
+                "en": "Villa Angiolina",
+                "hr": "Villa Angiolina"
               },
               "tip_5lang": {
                 "de": "Einfach erreichbar mit Linie 32.",
                 "hu": "Könnyen elérhető a 32-es busszal.",
                 "ro": "Ușor accesibil cu linia 32.",
-                "en": "Easily accessible by bus line 32."
+                "en": "Easily accessible by bus line 32.",
+                "hr": "Jednostavno dostupna linijom 32."
               }
             },
             {
@@ -2961,13 +3051,15 @@
                 "de": "Hafen von Opatija",
                 "hu": "Opatijai kikötő",
                 "ro": "Portul Opatija",
-                "en": "Port of Opatija"
+                "en": "Port of Opatija",
+                "hr": "Luka Opatija"
               },
               "tip_5lang": {
                 "de": "Schöner Startpunkt für den Hafen.",
                 "hu": "Szép kezdőpont a kikötőhöz.",
                 "ro": "Punct frumos de start spre port.",
-                "en": "Nice starting point for the port."
+                "en": "Nice starting point for the port.",
+                "hr": "Lijepa polazna točka za luku."
               }
             },
             {
@@ -2975,13 +3067,15 @@
                 "de": "Lungomare-Promenade",
                 "hu": "Lungomare sétány",
                 "ro": "Promenada Lungomare",
-                "en": "Lungomare Promenade"
+                "en": "Lungomare Promenade",
+                "hr": "Lungomare šetnica"
               },
               "tip_5lang": {
                 "de": "Zurück zum Zentrum spazieren.",
                 "hu": "Sétáljon vissza a központba.",
                 "ro": "Plimbați-vă înapoi spre centru.",
-                "en": "Walk back towards the center."
+                "en": "Walk back towards the center.",
+                "hr": "Prošetajte natrag prema centru."
               }
             }
           ],
@@ -3083,6 +3177,10 @@
             "en": [
               "Check schedule online.",
               "Have small change ready for the bus."
+            ],
+            "hr": [
+              "Provjerite vozni red online.",
+              "Imajte sitniš spreman za autobus."
             ]
           }
         },
@@ -3092,7 +3190,7 @@
             "hu": "Reggel busszal megyünk a Slatinához, szárazon maradva a váróban. Délben a templomhoz és a Villa Angiolinához vezet az utunk, gyorsan átvészelve a kinti szakaszokat. Délután a kikötő felé vesszük az irányt, az ablakból nézve az esőt. A nap egy pihentető utazással zárul a meleg buszon.",
             "ro": "Dimineața luăm autobuzul spre Slatina, stând la adăpost în stație. La prânz mergem spre biserică și Villa Angiolina, parcurgând rapid distanțele scurte. După-amiaza folosim transportul spre port, privind ploaia de la fereastră. Ziua se încheie cu o călătorie relaxantă în autobuzul cald.",
             "en": "In the morning, we take the bus to Slatina and stay dry in the shelter. At noon, we head to the church and Villa Angiolina, quickly covering the short distances. In the afternoon, we use transit to the port, watching the rain from the window. The day ends with a relaxing ride back on a warm bus.",
-            "hr": "Ujutro idemo autobusom do Slatine i ostajemo suhi u zaklonu. U podne idemo prema crkvi i Villi Angiolini, brzo prelazeći kratke udaljenosti. Poslijepodne koristimo prijevoz do luke, promatrajući kišu kroz prozor. Dan završava opuštajućom vožnjom natrag u toplom autobusu."
+            "hr": "Ujutro idemo autobusom do Slatine i ostajemo suhi u zaklonu. U podne krećemo prema crkvi i Villi Angiolini, brzo prelazeći kratke udaljenosti. Poslijepodne koristimo prijevoz do luke i promatramo kišu kroz prozor. Dan završava relaksirajućom vožnjom natrag u toplom autobusu."
           },
           "stops": [
             {
@@ -3102,7 +3200,7 @@
                 "hu": "A központi buszváró védelmet nyújt az esőtől.",
                 "ro": "Terminalul central oferă protecție contra ploii.",
                 "en": "The central bus terminal provides rain shelter.",
-                "hr": "Glavni autobusni kolodvor pruža zaklon od kiše."
+                "hr": "Središnji autobusni terminal pruža zaklon od kiše."
               }
             },
             {
@@ -3112,7 +3210,7 @@
                 "hu": "A megálló közvetlenül a bejárat mellett van.",
                 "ro": "Stația se află în imediata apropiere a intrării.",
                 "en": "The stop is located very close to the entrance.",
-                "hr": "Stanica se nalazi vrlo blizu ulaza."
+                "hr": "Stajalište se nalazi vrlo blizu ulaza."
               }
             },
             {
@@ -3122,7 +3220,7 @@
                 "hu": "Használja a kiépített utat a parkon át.",
                 "ro": "Folosiți aleile pavate prin parc.",
                 "en": "Use the paved paths through the park.",
-                "hr": "Koristite popločane staze kroz park."
+                "hr": "Koristite asfaltirane staze kroz park."
               }
             },
             {
@@ -3132,7 +3230,7 @@
                 "hu": "A buszból remek kilátás nyílik a kikötőre.",
                 "ro": "Din autobuz aveți o vedere superbă spre port.",
                 "en": "You get a great view of the port from the bus.",
-                "hr": "Iz autobusa se pruža izvrstan pogled na luku."
+                "hr": "S autobusa imate izvrstan pogled na luku."
               }
             },
             {
@@ -3142,7 +3240,7 @@
                 "hu": "A megálló csak néhány lépésre található.",
                 "ro": "Stația este la doar câțiva pași distanță.",
                 "en": "The stop is just a few steps away.",
-                "hr": "Stanica je udaljena samo nekoliko koraka."
+                "hr": "Stajalište je samo nekoliko koraka udaljeno."
               }
             }
           ],
@@ -3177,10 +3275,10 @@
             ],
             "hr": [
               "Prije polaska provjerite vozni red linije 32 online.",
-              "Pripremite kartu za brzi ulazak.",
-              "Nosite kabanicu za hodanje do stanice.",
-              "Pronađite mjesto uz prozor kako biste uživali u pogledu.",
-              "Budite oprezni s klizavim podovima u autobusima."
+              "Imajte kartu spremnu radi brzog ulaska.",
+              "Obucite kabanicu za šetnju do stajališta.",
+              "Pronađite mjesto uz prozor za uživanje u pogledu.",
+              "Pazite na skliske podove u autobusima."
             ]
           }
         },
@@ -3190,7 +3288,7 @@
             "hu": "Reggel a busz a téli Slatinához visz, élvezve a benti fűtést. Délben a templomot és a Villa Angiolinát látogatjuk meg, elmerülve az ünnepi hangulatban. Délután a kikötőhöz utazunk, a busz nagy ablakain át nézve a korai naplementét. Az este egy hangulatos utazással zárul a kivilágított parti úton.",
             "ro": "Dimineața autobuzul ne duce la Slatina de iarnă, savurând căldura. La prânz vizităm biserica și Villa Angiolina, intrând în spiritul festiv. După-amiaza mergem la port și vedem apusul timpuriu prin ferestrele mari. Seara se încheie cu o călătorie plăcută pe drumul de coastă iluminat.",
             "en": "In the morning, the bus takes us to wintery Slatina while we enjoy the heater. At noon, we visit the church and Villa Angiolina, soaking in the festive mood. In the afternoon, we head to the port and watch the early sunset through the large windows. The evening concludes with a ride along the lit coastal road.",
-            "hr": "Ujutro nas autobus vozi do zimske Slatine dok uživamo u grijanju. U podne posjećujemo crkvu i Villu Angiolinu, upijajući blagdansko raspoloženje. Poslijepodne krećemo u luku i promatramo rani zalazak sunca kroz velike prozore. Večer završava vožnjom uz osvijetljenu obalnu cestu."
+            "hr": "Ujutro nas autobus vodi do zimske Slatine dok uživamo u grijaču. U podne posjećujemo crkvu i Villu Angiolinu, upijajući svečanu atmosferu. Poslijepodne odlazimo do luke i promatramo rani zalazak sunca kroz velika prozorska stakla. Večer završava vožnjom uz osvijetljenu obalnu cestu."
           },
           "stops": [
             {
@@ -3220,7 +3318,7 @@
                 "hu": "Használja a buszt a közbeni felmelegedésre.",
                 "ro": "Folosiți autobuzul pentru a vă încălzi pe parcurs.",
                 "en": "Use the bus to warm up between stops.",
-                "hr": "Koristite autobus za zagrijavanje između postaja."
+                "hr": "Iskoristite autobus da se ugrijete između stajališta."
               }
             },
             {
@@ -3230,7 +3328,7 @@
                 "hu": "Az alacsony nap remek fotótémákat kínál.",
                 "ro": "Soarele jos oferă motive superbe pentru poze.",
                 "en": "The low winter sun offers great photo ops.",
-                "hr": "Nisko zimsko sunce nudi sjajne prilike za fotografiranje."
+                "hr": "Nisko zimsko sunce pruža odlične prilike za fotografiranje."
               }
             },
             {
@@ -3240,7 +3338,7 @@
                 "hu": "Utazzon szürkületben a fények látványáért.",
                 "ro": "Călătoriți la amurg pentru spectacolul de lumini.",
                 "en": "Travel at dusk to see the city lights.",
-                "hr": "Putujte u sumrak kako biste vidjeli gradska svjetla."
+                "hr": "Putujte u sumrak da vidite gradska svjetla."
               }
             }
           ],
@@ -3274,11 +3372,11 @@
               "Line 32 is ideal for exploring the whole coast."
             ],
             "hr": [
-              "Ostavite dodatno vrijeme za potencijalna zimska kašnjenja.",
-              "Autobusi su često manje popunjeni kasno poslijepodne.",
-              "Uživajte u pogledu na Jadran na zimskom svjetlu.",
-              "Nosite toplu odjeću za vrijeme čekanja na stanicama.",
-              "Linija 32 idealna je za istraživanje cijele obale."
+              "Predvidite dodatno vrijeme zbog mogućih zimskih kašnjenja.",
+              "Autobusi su često rjeđe popunjeni kasnim poslijepodnevnim satima.",
+              "Uživajte u pogledu na Jadran u zimskom svjetlu.",
+              "Obucite tople stvari za vrijeme čekanja na stajalištima.",
+              "Linija 32 je idealna za istraživanje cijele obale."
             ]
           }
         }
@@ -3311,13 +3409,15 @@
       "de": "April-Juni und September-Oktober für Lungomare-Spaziergänge in mildem Klima; Karneval im Februar; Sommer mild dank Brise.",
       "hu": "Április-június és szeptember-október ideális a Lungomare-séhányoz enyhe éghajlatban; februári karnevál; a nyár a tengeri szellő miatt kellemes.",
       "ro": "Aprilie-iunie și septembrie-octombrie pentru plimbări pe Lungomare; carnaval în februarie; vara este blândă datorită brizei.",
-      "en": "April-June and September-October for Lungomare walks in mild weather; Carnival in February; summer is mild thanks to sea breeze."
+      "en": "April-June and September-October for Lungomare walks in mild weather; Carnival in February; summer is mild thanks to sea breeze.",
+      "hr": "Travanj–lipanj i rujan–listopad za šetnje Lungomareom u blagom vremenu; karneval u veljači; ljeto je blago zahvaljujući morskom povjetarcu."
     },
     "neighborhood_warnings": {
       "de": "Sehr sicher und gepflegt; Parkplätze in der Innenstadt sind knapp und teuer — Park-and-Walk wird empfohlen.",
       "hu": "Nagyon biztonságos és ápolt; a belvárosi parkolóhelyek szűkösek és drágák, érdemes a város szélén parkolni.",
       "ro": "Foarte sigur și îngrijit; locurile de parcare din centru sunt limitate și scumpe, parcați la margine și mergeți pe jos.",
-      "en": "Very safe and well-kept; downtown parking is scarce and pricey — park on the outskirts and walk."
+      "en": "Very safe and well-kept; downtown parking is scarce and pricey — park on the outskirts and walk.",
+      "hr": "Vrlo sigurno i dobro održavano; parkiranje u centru je rijetko i skupo — parkirajte na rubu i dođite pješice."
     }
   }
 }

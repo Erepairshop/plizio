@@ -32,7 +32,7 @@
             "hu": "Kóstolja meg a helyi kávét az árnyas fák alatt.",
             "ro": "Gustați cafeaua locală la umbra copacilor.",
             "en": "Try the local coffee under the shade of the trees.",
-            "hr": "Probajte lokalnu kavu u hladu drveća."
+            "hr": "Probajte lokalnu kavu u hladu stabala."
           }
         },
         {
@@ -70,7 +70,7 @@
             "hu": "Egykor mecset volt, ma barokk templom.",
             "ro": "Fostă moschee, astăzi o biserică barocă.",
             "en": "Formerly a mosque, today a Baroque church.",
-            "hr": "Nekadašnja džamija, danas barokna crkva."
+            "hr": "Nekada džamija, danas barokna crkva."
           }
         },
         {
@@ -89,7 +89,7 @@
             "hu": "A drniši sonka világhírű, kötelező megkóstolni!",
             "ro": "Șunca de Drniš este faimoasă în lume, un must-try!",
             "en": "Drniš prosciutto is world-famous, a must-try!",
-            "hr": "Drniški pršut je svjetski poznat, morate ga kušati!"
+            "hr": "Drniški pršut je svjetski poznat, obavezno za probati!"
           }
         },
         {
@@ -127,7 +127,7 @@
             "hu": "Tökéletes hely természetfotókhoz a szakadék szélén.",
             "ro": "Locul perfect pentru fotografii de natură pe marginea prăpastiei.",
             "en": "Perfect spot for nature photos by the precipice.",
-            "hr": "Savršeno mjesto za fotografije prirode uz liticu."
+            "hr": "Savršeno mjesto za prirodne fotografije uz liticu."
           }
         },
         {
@@ -146,7 +146,7 @@
             "hu": "A nap édes lezárása a központban.",
             "ro": "O încheiere dulce a zilei în centru.",
             "en": "A sweet conclusion to the day in the center.",
-            "hr": "Slatki završetak dana u centru."
+            "hr": "Slatki zaključak dana u centru."
           }
         }
       ],
@@ -155,7 +155,7 @@
         "hu": "A reggelt Drniš szívének felfedezésével töltjük, kezdve Ivan Meštrović híres szobrával és a Szent Antal-templom lenyűgöző történetével. A délelőtt a művészet és az építészet jegyében telik. Délben elmerülünk a gasztronómiában, megkóstolva a legendás drniši sonkát egy helyi konobában. A délután a Gradina erődhöz vezet, ahol a történelem találkozik a Čikola-kanyon látványos természetével. A napot pihentető sétával és egy fagyival zárjuk.",
         "ro": "Dimineața veți explora inima orașului Drniš, începând cu celebra sculptură a lui Ivan Meštrović și istoria fascinantă a bisericii Sf. Anton. Dimineața este dedicată artei și arhitecturii. La prânz, vă veți delecta cu gastronomia locală, gustând legendara șuncă de Drniš într-o konoba. După-amiaza vă duce la fortăreața Gradina, unde istoria se întâlnește cu natura spectaculoasă a canionului Čikola. Încheiați ziua relaxat, cu o plimbare și o înghețată.",
         "en": "In the morning, explore the heart of Drniš, starting with Ivan Meštrović's famous sculpture and the fascinating history of St. Anthony's Church. The morning is dedicated to art and architecture. At noon, dive into the culinary world by tasting the legendary Drniš prosciutto in a local konoba. The afternoon leads you up to the Gradina fortress, where history meets the spectacular nature of the Čikola canyon. End the day with a relaxing stroll and a gelato.",
-        "hr": "Ujutro istražite srce Drniša, počevši od poznate skulpture Ivana Meštrovića i fascinantne povijesti crkve sv. Ante. Jutro je posvećeno umjetnosti i arhitekturi. U podne zaronite u kulinarski svijet kušajući legendarni drniški pršut u lokalnoj konobi. Poslijepodne vas vodi do utvrde Gradina, gdje se povijest susreće sa spektakularnom prirodom kanjona Čikole. Završite dan opuštajućom šetnjom i sladoledom."
+        "hr": "Ujutro istražite srce Drniša, počevši od poznate skulpture Ivana Meštrovića i fascinantne povijesti crkve sv. Antuna. Jutro je posvećeno umjetnosti i arhitekturi. U podne zaronite u kulinarski svijet i kušajte legendarni drniški pršut u lokalnoj konobi. Poslijepodne vodi do utvrde Gradina, gdje se povijest susreće sa spektakularnom prirodom kanjona Čikole. Završite dan opuštajućom šetnjom i sladoledom."
       },
       "gastro_picks": {
         "de": [
@@ -285,9 +285,9 @@
         ],
         "hr": [
           "Nosite udobnu obuću za uspon do utvrde.",
-          "Podnevnu vrućinu najbolje je izbjeći u gradskom parku.",
-          "Drniš je poznat po svom gostoprimstvu.",
-          "Fotografija kod 'Vrela života' je obavezna."
+          "Sredinom dana izbjegavajte vrućinu u gradskom parku.",
+          "Drniš je poznat po gostoljubivosti.",
+          "Fotografija na 'Vrelu života' je obavezna."
         ]
       },
       "variants": {
@@ -297,7 +297,7 @@
             "hu": "Kezdje az esős napot egy kényelmes kávézóban a főtéren. Tekintse meg Meštrović szobrát esernyő alatt, majd keressen menedéket a Szent Antal-templom falai között. Egy hosszú ebéd a híres drniši sonkával tökéletes program a zuhé idejére. Délután a Gradina vár ködös panorámája várja a bátor látogatókat, végül egy forró ital mellett melegedhet meg a városközpontban.",
             "ro": "Începeți ziua ploioasă într-o cafenea primitoare din piața centrală. Admirați sculptura lui Meštrović sub umbrelă și refugiați-vă în biserica Sf. Anton. Un prânz prelungit cu renumitul pršut de Drniš este ideal în timpul ploii. După-amiaza, cetatea Gradina oferă vederi dramatice asupra canonului învăluit în ceață, înainte de a încheia ziua cu o băutură caldă.",
             "en": "Start your rainy day cozily in a cafe on the main square. View Meštrović's sculpture under an umbrella and find shelter inside St. Anthony's Church. A long lunch with Drniš prosciutto is the perfect way to wait out the rain. Later, Gradina fortress offers dramatic views of the misty canyon, before finishing the day with a hot drink back in the center.",
-            "hr": "Započnite kišni dan ugodno u kafiću na glavnom trgu. Pogledajte Meštrovićevu skulpturu pod kišobranom i pronađite zaklon unutar crkve sv. Ante. Dugi ručak uz drniški pršut savršen je način da dočekate prestanak kiše. Kasnije, utvrda Gradina nudi dramatične poglede na magloviti kanjon, prije nego što dan završite toplim napitkom u centru."
+            "hr": "Počnite kišni dan ugodno u kafiću na glavnom trgu. Pogledajte Meštrovićevu skulpturu pod kišobranom i potražite zaklon u crkvi sv. Antuna. Dugi ručak s drniškim pršutom savršen je način da pričekate kišu. Kasnije, utvrda Gradina nudi dramatične poglede na magloviti kanjon prije nego što završite dan toplim napitkom natrag u centru."
           },
           "stops": [
             {
@@ -307,7 +307,7 @@
                 "hu": "Ideális hely az első záporok átvészelésére egy meleg kávéval.",
                 "ro": "Locul perfect pentru a aștepta trecerea primei averse cu o cafea.",
                 "en": "Perfect spot to dry off and wait out the first rain shower.",
-                "hr": "Savršeno mjesto za sušenje i čekanje da prođe prvi pljusak."
+                "hr": "Savršeno mjesto za osušiti se i pričekati prvi pljusak."
               }
             },
             {
@@ -327,7 +327,7 @@
                 "hu": "Használja ki a templom csendjét száraz menedékként.",
                 "ro": "Folosiți liniștea bisericii ca refugiu uscat.",
                 "en": "Use the silence of the church as a dry retreat.",
-                "hr": "Iskoristite tišinu crkve kao suho utočište."
+                "hr": "Iskoristite tišinu crkve kao suhi sklonište."
               }
             },
             {
@@ -337,7 +337,7 @@
                 "hu": "Szánjon rá időt; a sonka aromája esős időben még intenzívebb.",
                 "ro": "Nu vă grăbiți; aroma prșutului este mai intensă pe ploaie.",
                 "en": "Take your time; the prosciutto aroma feels more intense in the rain.",
-                "hr": "Uzmite si vremena; aroma pršuta čini se intenzivnijom na kiši."
+                "hr": "Uzmite vremena; aroma pršuta intenzivnija je na kiši."
               }
             },
             {
@@ -347,7 +347,7 @@
                 "hu": "Vigyázat, a vár kövei esőben rendkívül csúszósak lehetnek.",
                 "ro": "Atenție, pietrele cetății pot fi extrem de alunecoase.",
                 "en": "Caution, the stones of the fortress can be extremely slippery.",
-                "hr": "Oprez, kamenje na utvrdi može biti izuzetno sklisko."
+                "hr": "Pažnja, kamenje utvrde može biti iznimno sklisko."
               }
             },
             {
@@ -357,7 +357,7 @@
                 "hu": "A köd a Csikola-kanyonban misztikus fotótémákat kínál.",
                 "ro": "Ceața din canonul Čikola oferă motive fotografice mistice.",
                 "en": "The mist in the Čikola canyon offers mystical photo opportunities.",
-                "hr": "Magla u kanjonu Čikole nudi mistične prilike za fotografiranje."
+                "hr": "Magla u kanjonu Čikole pruža mistične fotomogućnosti."
               }
             },
             {
@@ -367,7 +367,7 @@
                 "hu": "Válasszon inkább egy forró teát a fagylalt helyett.",
                 "ro": "Alegeți un ceai fierbinte în locul înghețatei.",
                 "en": "Opt for a hot tea instead of gelato to warm up.",
-                "hr": "Odlučite se za topli čaj umjesto sladoleda kako biste se zagrijali."
+                "hr": "Umjesto sladoleda, odaberite vrući čaj za zagrijavanje."
               }
             }
           ],
@@ -397,10 +397,10 @@
               "Canyon paths can get muddy when wet."
             ],
             "hr": [
-              "Nosite vodootporne cipele za područje utvrde.",
-              "Čvrst kišobran je neophodan zbog mogućih naleta vjetra.",
-              "Koristite lokalne restorane za duže pauze tijekom jake kiše.",
-              "Staze u kanjonu mogu postati blatnjave kad su mokre."
+              "Nosite vodootporne planinarske čizme za područje utvrde.",
+              "Čvrst kišobran je nužan zbog mogućih naleta vjetra.",
+              "Koristite lokalne restorane za dulje pauze tijekom jakog pljuska.",
+              "Staze u kanjonu mogu postati blatne kad je mokro."
             ]
           }
         },
@@ -410,7 +410,7 @@
             "hu": "Fedezze fel Drništ a tiszta téli fényekben. Egy melengető kávé után nézze meg Meštrović alkotásait. A Szent Antal-templom védelmet nyújt a hideg bóra szél elől. A tápláló ebéd télen különösen jól esik. Látogassa meg a Gradina várat kora délután, hogy elkapja az aranyló fényeket a korai naplemente előtt, majd melegedjen fel a központban.",
             "ro": "Explorați Drniš în lumina clară a iernii. După o cafea caldă, vizitați operele lui Meštrović. Biserica Sf. Anton oferă adăpost împotriva vântului rece Bura. Prânzul consistent este binevenit iarna. Vizitați cetatea Gradina devreme după-amiaza pentru a prinde lumina aurie înainte de apus, apoi încălziți-vă în centru.",
             "en": "Experience Drniš in the crisp winter light. After a warming coffee, explore Meštrović's works. St. Anthony's Church provides shelter from the cold Bura wind. A hearty lunch is especially welcome in winter. Visit Gradina fortress in the early afternoon to catch the golden light before the early sunset, then warm up back in the center.",
-            "hr": "Doživite Drniš u oštrom zimskom svjetlu. Nakon kave za zagrijavanje, istražite Meštrovićeva djela. Crkva sv. Ante pruža utočište od hladne bure. Obilan ručak posebno je dobrodošao zimi. Posjetite utvrdu Gradina u rano poslijepodne kako biste uhvatili zlatnu svjetlost prije ranog zalaska sunca, a zatim se zagrijte u centru."
+            "hr": "Doživite Drniš u oštrom zimskom svjetlu. Nakon tople kave, istražite Meštrovićeva djela. Crkva sv. Antuna pruža zaklon od hladnog bure. Srdačni ručak posebno je dobrodošao zimi. Posjetite utvrdu Gradina ranim poslijepodnevom kako biste uhvatili zlatno svjetlo prije ranog zalaska sunca, a zatim se ugrijte natrag u centru."
           },
           "stops": [
             {
@@ -420,7 +420,7 @@
                 "hu": "Kérjen asztalt a fűtőtest közelében.",
                 "ro": "Cereți o masă aproape de calorifer.",
                 "en": "Ask for a seat near the heater to warm up.",
-                "hr": "Tražite mjesto blizu grijalice kako biste se zagrijali."
+                "hr": "Zatražite mjesto blizu grijalice da se ugrijete."
               }
             },
             {
@@ -430,7 +430,7 @@
                 "hu": "A téli fény éles kontrasztokat ad a szobornak.",
                 "ro": "Lumina de iarnă oferă contraste puternice monumentului.",
                 "en": "Winter light provides sharp contrasts on the monument.",
-                "hr": "Zimsko svjetlo pruža oštre kontraste na spomeniku."
+                "hr": "Zimsko svjetlo daje oštre kontraste na spomeniku."
               }
             },
             {
@@ -460,7 +460,7 @@
                 "hu": "Figyelem: bóra szél esetén itt rendkívül huzatos lehet.",
                 "ro": "Atenție: în caz de vânt Bura, aici poate fi extrem de curent.",
                 "en": "Caution: it can be extremely windy here during Bura gusts.",
-                "hr": "Oprez: ovdje može biti izuzetno vjetrovito tijekom udara bure."
+                "hr": "Pažnja: ovdje može biti iznimno vjetrovito tijekom udara bure."
               }
             },
             {
@@ -480,7 +480,7 @@
                 "hu": "Kóstoljon helyi édességeket és egy forró pálinkát.",
                 "ro": "Gustați deserturi locale și un rachiu fiert.",
                 "en": "Try local desserts and a warm rakija instead.",
-                "hr": "Umjesto toga probajte lokalne slastice i toplu rakiju."
+                "hr": "Probajte lokalne deserte i toplu rakiju umjesto hladnih pića."
               }
             }
           ],
@@ -510,9 +510,9 @@
               "Check if paths are icy during frost."
             ],
             "hr": [
-              "Slojevita odjeća štiti od hladne bure.",
+              "Slojevita odjeća štiti od hladnog bure.",
               "Rukavice su neophodne za uspon do utvrde.",
-              "Zalazak sunca je rano, planirajte svoju šetnju u skladu s tim.",
+              "Zalazak sunca je ran, planirajte šetnju u skladu s tim.",
               "Provjerite jesu li staze zaleđene tijekom mraza."
             ]
           }
@@ -543,7 +543,7 @@
             "hu": "Kezdje a napot a parkban Meštrović művészetével.",
             "ro": "Începeți ziua în parc cu arta lui Meštrović.",
             "en": "Start the day in the park with Meštrović's art.",
-            "hr": "Započnite dan u parku uz Meštrovićevu umjetnost."
+            "hr": "Počnite dan u parku s Meštrovićevom umjetnošću."
           }
         },
         {
@@ -562,7 +562,7 @@
             "hu": "Rövid megálló a történelmi templomnál.",
             "ro": "Scurt popas la biserica istorică.",
             "en": "Short stop at the historical church.",
-            "hr": "Kratko zaustavljanje kod povijesne crkve."
+            "hr": "Kratko stajanje kod povijesne crkve."
           }
         },
         {
@@ -581,7 +581,7 @@
             "hu": "Lenyűgöző építmény a kietlen tájban.",
             "ro": "O construcție impresionantă în peisajul arid.",
             "en": "An impressive structure in the barren landscape.",
-            "hr": "Impresivna građevina u krškom krajoliku."
+            "hr": "Impresivna građevina u golom krajoliku."
           }
         },
         {
@@ -600,7 +600,7 @@
             "hu": "Élvezze a dalmát Zagora nyugalmát.",
             "ro": "Bucurați-vă de liniștea din Zagora dalmată.",
             "en": "Enjoy the peace of the Dalmatian Zagora.",
-            "hr": "Uživajte u miru Dalmatinske zagore."
+            "hr": "Uživajte u miru dalmatinske Zagore."
           }
         },
         {
@@ -638,7 +638,7 @@
             "hu": "Hűsítő ital a túra után.",
             "ro": "O băutură răcoritoare după tur.",
             "en": "Cool drink after the tour.",
-            "hr": "Hladno piće nakon ture."
+            "hr": "Hladno piće nakon razgleda."
           }
         }
       ],
@@ -647,7 +647,7 @@
         "hu": "Ez a kerékpártúra összeköti Drniš városát Ivan Meštrović szülőhelyével, Otavicével. Miután megcsodáltuk a városi műalkotásokat, a jellegzetes tájon át kerekezünk a lenyűgöző mauzóleumhoz. Az útvonal látványos és tágas kilátást nyújt. Visszaúton felkapaszkodunk a Gradina erődhöz, hogy élvezzük a Čikola-kanyon panorámáját, majd a napot a központban zárjuk pihenéssel.",
         "ro": "Acest tur cu bicicleta leagă orașul Drniš de locul de naștere al lui Ivan Meštrović, Otavice. După ce ați admirat operele de artă din oraș, pedalați prin peisajul caracteristic către impresionantul mausoleu. Traseul este pitoresc și oferă vederi largi. La întoarcere, urcați la fortăreața Gradina pentru a vă bucura de panorama canionului Čikola, înainte de a încheia ziua relaxat în centru.",
         "en": "This bike tour connects the city of Drniš with Ivan Meštrović's birthplace in Otavice. After admiring the artworks in the city, cycle through the characteristic landscape to the impressive mausoleum. The route is scenic and offers wide views. On the way back, climb to the Gradina fortress to enjoy the panorama of the Čikola canyon before ending the day relaxed in the center.",
-        "hr": "Ova biciklistička tura povezuje grad Drniš s rodnim mjestom Ivana Meštrovića u Otavicama. Nakon divljenja umjetničkim djelima u gradu, vozite bicikl kroz karakterističan krajolik do impresivnog mauzoleja. Ruta je slikovita i nudi široke vidike. Na povratku se popnite do utvrde Gradina kako biste uživali u panorami kanjona Čikole prije nego što dan opušteno završite u centru."
+        "hr": "Ova biciklistička ruta povezuje grad Drniš s rodnim mjestom Ivana Meštrovića u Otavicama. Nakon razgledavanja skulptura u gradu, vozite kroz karakterističan krajolik do impresivnog mauzoleja. Ruta je slikovita i nudi široke poglede. Na povratku se popnite do utvrde Gradina kako biste uživali u panorami kanjona Čikole prije nego što završite dan opušteno u centru."
       },
       "gastro_picks": {
         "de": [
@@ -778,8 +778,8 @@
         "hr": [
           "Cesta do Otavica je ravna i laka za vožnju.",
           "Ponesite dovoljno vode, ima malo hlada.",
-          "Provjerite vjetar, može biti jak na polju.",
-          "Svakako posjetite unutrašnjost mauzoleja."
+          "Provjerite vjetar, može biti jak na ravnici.",
+          "Obavezno posjetite unutrašnjost mauzoleja."
         ]
       },
       "variants": {
@@ -789,7 +789,7 @@
             "hu": "Az esős bringázás felkészülést igényel, de csendes utakat ígér. A városi szobrok után Otavice felé vesszük az irányt. A Meštrović-mauzóleum impozáns és száraz pihenőhely. A szabadtéri pikniket egy helyi taverna váltja fel, majd a Gradina vár érintésével térünk vissza Drnišbe.",
             "ro": "O tură cu bicicleta pe ploaie necesită pregătire, dar oferă drumuri pustii. După sculpturile din oraș, ruta duce spre Otavice. Mauzoleul Meštrović oferă un popas impresionant și uscat. Picnicul este înlocuit de o pauză într-o tavernă locală, înainte de revenirea în Drniš prin cetatea Gradina.",
             "en": "Biking in the rain requires preparation but offers solitary roads. After the town sculptures, head towards Otavice. The Meštrović Mausoleum provides an impressive dry stop. The picnic is replaced by a break in a local tavern before returning to Drniš via the Gradina fortress.",
-            "hr": "Bicikliranje na kiši zahtijeva pripremu, ali nudi osamljene ceste. Nakon gradskih skulptura, krenite prema Otavicama. Meštrovićev mauzolej pruža impresivno suho stajalište. Piknik zamijenite pauzom u lokalnoj konobi prije povratka u Drniš preko utvrde Gradina."
+            "hr": "Vožnja biciklom po kiši zahtijeva pripremu, ali nudi samotne ceste. Nakon gradskih skulptura, uputite se prema Otavicama. Meštrovićev mauzolej pruža impresivno suho stajalište. Piknik zamijenite pauzom u lokalnoj konobi prije povratka u Drniš preko utvrde Gradina."
           },
           "stops": [
             {
@@ -809,7 +809,7 @@
                 "hu": "Rövid szünet az esővédő ruházat igazítására.",
                 "ro": "Scurtă pauză pentru a ajusta pelerina de ploaie.",
                 "en": "Short break to adjust your rain gear.",
-                "hr": "Kratka pauza za namještanje kišne opreme."
+                "hr": "Kratka pauza za prilagodbu opreme za kišu."
               }
             },
             {
@@ -819,7 +819,7 @@
                 "hu": "Tökéletes hely a kerékpár rövid leállítására fedél alatt.",
                 "ro": "Loc perfect pentru a lăsa bicicleta sub acoperiș.",
                 "en": "Perfect place to park the bike under cover for a bit.",
-                "hr": "Savršeno mjesto za kratko parkiranje bicikla pod krovom."
+                "hr": "Savršeno mjesto za neko vrijeme parkirati bicikl pod zaklonom."
               }
             },
             {
@@ -829,7 +829,7 @@
                 "hu": "Keressen egy fedett beállót vagy menjen be egy fogadóba.",
                 "ro": "Căutați un foișor acoperit sau mergeți la o tavernă.",
                 "en": "Look for a covered shelter or use a local tavern instead.",
-                "hr": "Potražite natkriti zaklon ili umjesto toga koristite lokalnu konobu."
+                "hr": "Potražite natkriveno sklonište ili umjesto toga koristite lokalnu konobu."
               }
             },
             {
@@ -839,7 +839,7 @@
                 "hu": "A meredek, vizes részeken inkább tolja a bringát.",
                 "ro": "Împingeți bicicleta pe porțiunile abrupte și umede.",
                 "en": "Push your bike on the steep, wet sections.",
-                "hr": "Gurajte bicikl na strmim, mokrim dijelovima."
+                "hr": "Gurajte bicikl na strmim, mokrim dionicama."
               }
             },
             {
@@ -849,7 +849,7 @@
                 "hu": "Azonnal cserélje le a vizes zoknit szárazra.",
                 "ro": "Schimbați imediat șosetele ude cu unele uscate.",
                 "en": "Change wet socks for dry ones immediately.",
-                "hr": "Odmah promijenite mokre čarape za suhe."
+                "hr": "Odmah zamijenite mokre čarape suhim."
               }
             }
           ],
@@ -879,10 +879,10 @@
               "Avoid deep puddles as they might hide potholes."
             ],
             "hr": [
-              "Blatobrani će spriječiti prskanje blata po leđima.",
-              "Nosite uočljivu kišnu jaknu za bolju vidljivost.",
-              "Provjerite put kočenja na mokrim lokalnim cestama.",
-              "Izbjegavajte duboke lokve jer mogu skrivati rupe."
+              "Blatobrani sprječavaju prskanje blata po leđima.",
+              "Nosite jarku kabanicu za bolju vidljivost.",
+              "Provjerite zaustavni put na mokrim seoskim cestama.",
+              "Izbjegavajte duboke lokve jer mogu skrivati rupe na cesti."
             ]
           }
         },
@@ -892,7 +892,7 @@
             "hu": "A téli tekerés a Petrovo-mezőn frissítő, de hideg. Az út Otavice felé kopár, tágas tájakon vezet keresztül. A Meštrović-mauzóleum különösen méltóságteljes a téli napfényben. A szabadban való piknikezés helyett keressen egy fűtött helyet, mielőtt befejezné a kört a Gradina várnál.",
             "ro": "O tură de iarnă prin câmpia Petrovo este revigorantă, dar rece. Drumul spre Otavice trece prin peisaje vaste și golașe. Mauzoleul Meštrović pare deosebit de solemn în lumina iernii. În locul unui picnic afară, se recomandă un popas la căldură înainte de finalul la cetate.",
             "en": "A winter ride through Petrovo field is refreshing but cold. The route to Otavice passes through vast, barren landscapes. The Meštrović Mausoleum looks especially solemn in the winter light. Instead of an outdoor picnic, find a heated spot before finishing the loop at Gradina fortress.",
-            "hr": "Zimska vožnja kroz Petrovo polje je osvježavajuća, ali hladna. Ruta do Otavica prolazi kroz prostrane, ogoljele krajolike. Meštrovićev mauzolej izgleda posebno svečano na zimskom svjetlu. Umjesto piknika na otvorenom, pronađite grijano mjesto prije završetka kruga kod utvrde Gradina."
+            "hr": "Zimska vožnja kroz Petrovo polje osvježava, ali je hladna. Ruta do Otavica prolazi kroz prostrane, ogoljene krajolike. Meštrovićev mauzolej izgleda posebno svečano u zimskom svjetlu. Umjesto piknika na otvorenom, potražite grijano mjesto prije nego što završite krug na utvrdi Gradina."
           },
           "stops": [
             {
@@ -902,7 +902,7 @@
                 "hu": "Vigyázzon a jeges foltokkal az épületek árnyékában.",
                 "ro": "Atenție la porțiunile înghețate la umbra clădirilor.",
                 "en": "Watch out for icy patches in the shade of buildings.",
-                "hr": "Pripazite na zaleđene dijelove u sjeni zgrada."
+                "hr": "Pazite na zaleđene dijelove u hladu zgrada."
               }
             },
             {
@@ -912,7 +912,7 @@
                 "hu": "Használja ki a szünetet egy kis bemelegítő mozgatásra.",
                 "ro": "Folosiți pauza pentru câteva exerciții de încălzire.",
                 "en": "Use the break for some quick warm-up exercises.",
-                "hr": "Iskoristite pauzu za kratke vježbe zagrijavanja."
+                "hr": "Iskoristite pauzu za brze vježbe zagrijavanja."
               }
             },
             {
@@ -932,7 +932,7 @@
                 "hu": "Télen jobb: forró tea egy termoszból.",
                 "ro": "Mai bine iarna: un ceai fierbinte din termos.",
                 "en": "Better in winter: hot tea from a thermos flask.",
-                "hr": "Bolje zimi: topli čaj iz termosice."
+                "hr": "Bolje zimi: topao čaj iz termosice."
               }
             },
             {
@@ -942,7 +942,7 @@
                 "hu": "A fényviszonyok miatt kora délutánra tervezze a látogatást.",
                 "ro": "Planificați vizita devreme după-amiaza pentru lumină.",
                 "en": "Plan the visit in the early afternoon due to light.",
-                "hr": "Planirajte posjet u rano poslijepodne zbog svjetla."
+                "hr": "Isplanirajte posjet ranije poslijepodne zbog svjetla."
               }
             },
             {
@@ -952,7 +952,7 @@
                 "hu": "Egy meleg ital segít a lehűlés ellen.",
                 "ro": "O băutură caldă ajută împotriva frigurilor.",
                 "en": "A warm drink helps prevent getting too chilled.",
-                "hr": "Topli napitak pomaže spriječiti preveliko hlađenje."
+                "hr": "Topli napitak pomaže da ne podhladite organizam."
               }
             }
           ],
@@ -982,10 +982,10 @@
               "Plan to be back before dark (around 4:30 PM)."
             ],
             "hr": [
-              "Odjeća otporna na vjetar je ključna tijekom udara bure.",
-              "Nosite tanke potrukavice ispod biciklističkih rukavica.",
-              "Držite bocu s vodom blizu tijela kako biste spriječili smrzavanje.",
-              "Planirajte povratak prije mraka (oko 16:30)."
+              "Vjetrootporna odjeća je ključna tijekom udara bure.",
+              "Nosite tanke područke rukavice ispod biciklističkih rukavica.",
+              "Držite bocu s vodom blizu tijela kako se ne bi zamrznula.",
+              "Pokušajte se vratiti prije mraka (oko 16:30)."
             ]
           }
         }
@@ -1015,7 +1015,7 @@
             "hu": "Parkoljon a központban a városi sétához.",
             "ro": "Parcați în centru pentru turul orașului.",
             "en": "Park in the center for the city walk.",
-            "hr": "Parkirajte u centru za šetnju gradom."
+            "hr": "Parkirajte u centru za gradski obilazak."
           }
         },
         {
@@ -1034,7 +1034,7 @@
             "hu": "Rövid séta a parkolótól.",
             "ro": "Scurtă plimbare de la parcare.",
             "en": "Short walk from the parking lot.",
-            "hr": "Kratka šetnja od parkirališta."
+            "hr": "Kratka šetnja od parkinga."
           }
         },
         {
@@ -1091,7 +1091,7 @@
             "hu": "Élvezze a Zagora specialitásait.",
             "ro": "Bucurați-vă de specialitățile din Zagora.",
             "en": "Enjoy specialties of the Zagora.",
-            "hr": "Uživajte u specijalitetima Zagore."
+            "hr": "Uživajte u zagorskim specijalitetima."
           }
         },
         {
@@ -1110,7 +1110,7 @@
             "hu": "Rövid autózás Otavicébe a mauzóleumhoz.",
             "ro": "Scurtă plimbare cu mașina până la Otavice pentru mausoleu.",
             "en": "Short drive to Otavice for the mausoleum.",
-            "hr": "Kratka vožnja do Otavica za posjet mauzoleju."
+            "hr": "Kratka vožnja do Otavica za mauzolej."
           }
         },
         {
@@ -1138,7 +1138,7 @@
         "hu": "Ez az autós túra tökéletes kombinációja Drniš városközpontjának, erődjének és a közeli Otavice falunak. Egy pihentető városi sétával kezdünk a legfontosabb szobrokhoz és templomokhoz. Délben élvezzük a híres helyi konyhát, majd felhajtunk a Gradina erődhöz. A délutánt Otavicében töltjük, ahol megcsodálhatjuk Meštrović monumentális mauzóleumát, amely a Zagora tágas tájába simul.",
         "ro": "Acest tur cu mașina oferă combinația perfectă între centrul orașului Drniš, fortăreața sa și satul învecinat Otavice. Începeți cu o plimbare relaxantă prin oraș la cele mai importante sculpturi și biserici. La prânz, vă bucurați de faimoasa bucătărie locală, înainte de a urca la fortăreața Gradina. După-amiaza o petreceți în Otavice, unde puteți admira mausoleul monumental al lui Meštrović, integrat în peisajul vast al regiunii Zagora.",
         "en": "This car tour offers the perfect combination of Drniš's city center, its fortress, and the nearby village of Otavice. Start with a relaxing city walk to the most important sculptures and churches. At noon, enjoy the famous local cuisine before driving up to the Gradina fortress. Spend the afternoon in Otavice, where you can admire Meštrović's monumental mausoleum, nestled in the vast landscape of the Zagora.",
-        "hr": "Ova tura automobilom nudi savršenu kombinaciju centra Drniša, njegove utvrde i obližnjeg sela Otavice. Započnite opuštajućom šetnjom gradom do najvažnijih skulptura i crkava. U podne uživajte u poznatoj lokalnoj kuhinji prije vožnje do utvrde Gradina. Poslijepodne provedite u Otavicama, gdje se možete diviti Meštrovićevom monumentalnom mauzoleju, smještenom u prostranom krajoliku Zagore."
+        "hr": "Ova auto-tura nudi savršenu kombinaciju drniškog centra, njegove utvrde i obližnjeg sela Otavice. Počnite opuštajućom gradskom šetnjom do najvažnijih kipova i crkava. U podne uživajte u poznatoj lokalnoj kuhinji prije vožnje do utvrde Gradina. Poslijepodne provedite u Otavicama, gdje možete razgledati Meštrovićev monumentalni mauzolej, smješten u prostranoj zagorskoj krajoliku."
       },
       "gastro_picks": {
         "de": [
@@ -1267,9 +1267,9 @@
           "Check the opening hours of the mausoleum."
         ],
         "hr": [
-          "Ceste su dobro održavane i lake za vožnju.",
-          "Parkiranje u centru je obično jednostavno.",
-          "Kombinirajte posjet s Nacionalnim parkom Krka (Roški slap).",
+          "Ceste su dobro održavane i jednostavne za vožnju.",
+          "Parkiranje u centru obično je bez problema.",
+          "Kombinirajte posjet s NP Krka (Roški slap).",
           "Provjerite radno vrijeme mauzoleja."
         ]
       },
@@ -1280,7 +1280,7 @@
             "hu": "Autóval kényelmesen felfedezheti Drništ az eső ellenére is. A városközponti kávézás után szárazon juthat el a látnivalókhoz. Az otavicei Meštrović-mauzóleum tökéletes célpont egy esős délutánra. Élvezze a kilátást közvetlenül az autóból, vagy a műemlékek védelme alatt.",
             "ro": "Cu mașina explorați Drniš și împrejurimile confortabil, în ciuda ploii. După cafeaua din centru, ajungeți uscați la obiective. Mauzoleul Meštrović din Otavice este o destinație perfectă pentru o după-amiază ploioasă. Bucurați-vă de punctele de belvedere direct din mașină sau sub protecția monumentelor.",
             "en": "By car, you can explore Drniš and its surroundings comfortably despite the rain. After coffee in the center, drive dry to the sights. The Meštrović Mausoleum in Otavice is a perfect destination for a rainy afternoon. Enjoy the viewpoints directly from the car or under the shelter of the monuments.",
-            "hr": "Automobilom možete udobno istražiti Drniš i okolicu unatoč kiši. Nakon kave u centru, vozite se suhi do znamenitosti. Meštrovićev mauzolej u Otavicama savršeno je odredište za kišno poslijepodne. Uživajte u vidikovcima izravno iz automobila ili pod okriljem spomenika."
+            "hr": "Autom možete udobno istražiti Drniš i okolicu unatoč kiši. Nakon kave u centru, vozite suho do znamenitosti. Meštrovićev mauzolej u Otavicama idealna je destinacija za kišno poslijepodne. Uživajte u vidikovcima izravno iz automobila ili pod zaštitom spomenika."
           },
           "stops": [
             {
@@ -1290,7 +1290,7 @@
                 "hu": "Parkoljon a kávézó közelében, hogy ne ázzon el.",
                 "ro": "Parcați aproape de cafenea pentru a nu vă uda.",
                 "en": "Park close to the cafe to avoid getting wet.",
-                "hr": "Parkirajte blizu kafića kako biste izbjegli močenje."
+                "hr": "Parkirajte blizu kafića kako biste izbjegli da se smočite."
               }
             },
             {
@@ -1300,7 +1300,7 @@
                 "hu": "Rövid megálló; a mű jól látható az utcáról is.",
                 "ro": "Popas scurt; opera este vizibilă de la stradă.",
                 "en": "Short stop; the work is well visible from the street.",
-                "hr": "Kratko zaustavljanje; djelo je dobro vidljivo s ulice."
+                "hr": "Kratko zadržavanje; djelo je dobro vidljivo s ulice."
               }
             },
             {
@@ -1310,7 +1310,7 @@
                 "hu": "Parkolóhelyek közvetlenül a templom előtt találhatók.",
                 "ro": "Locuri de parcare disponibile chiar în fața bisericii.",
                 "en": "Parking spaces are available right in front of the church.",
-                "hr": "Parkirna mjesta dostupna su odmah ispred crkve."
+                "hr": "Parking mjesta dostupna su odmah ispred crkve."
               }
             },
             {
@@ -1320,7 +1320,7 @@
                 "hu": "A gyalogút a parkolótól a várig rövid, de csúszós.",
                 "ro": "Drumul de la parcare la cetate e scurt, dar alunecos.",
                 "en": "The path from the parking lot to the fortress is short but slippery.",
-                "hr": "Put od parkirališta do utvrde je kratak, ali sklizak."
+                "hr": "Staza od parkinga do utvrde je kratka, ali skliska."
               }
             },
             {
@@ -1340,7 +1340,7 @@
                 "hu": "Jó megálló, mivel a mauzóleum belseje száraz.",
                 "ro": "Popas bun, deoarece interiorul mauzoleului este uscat.",
                 "en": "Good stop as the interior of the mausoleum is dry.",
-                "hr": "Dobra postaja jer je unutrašnjost mauzoleja suha."
+                "hr": "Dobar stan zaustavljanja jer je unutrašnjost mauzoleja suha."
               }
             },
             {
@@ -1350,7 +1350,7 @@
                 "hu": "A kilátás esőben is élvezhető az autóból.",
                 "ro": "Priveliștea poate fi admirată din mașină și pe ploaie.",
                 "en": "The view can be enjoyed from the car even in the rain.",
-                "hr": "U pogledu se može uživati iz automobila čak i na kiši."
+                "hr": "Pogled se može uživati i iz automobila čak i po kiši."
               }
             }
           ],
@@ -1380,10 +1380,10 @@
               "Check your windshield wipers before starting."
             ],
             "hr": [
-              "Pripazite na akvaplaning na lokalnim cestama.",
-              "Ne ostavljajte mokre kišobrane na sjedalima automobila.",
-              "Vidljivost može biti ograničena maglom u blizini kanjona.",
-              "Provjerite brisače prije kretanja."
+              "Pazite na akvaplaning na seoskim cestama.",
+              "Ne ostavljajte mokre kišobrane na sjedalima auta.",
+              "Vidljivost može biti ograničena zbog magle blizu kanjona.",
+              "Provjerite brisače vjetrobrana prije polaska."
             ]
           }
         },
@@ -1393,7 +1393,7 @@
             "hu": "A téli Drniš ideális egy autós kiránduláshoz. Látogassa meg a történelmi helyeket a nyári hőség nélkül. Az út Otavice felé távoli, hófödte csúcsokra nyit kilátást. A Meštrović-mauzóleum kiemelkedő látvány a tiszta fényben. Egy meleg ebéd Drnišben koronázza meg a napot a kanyoni naplemente előtt.",
             "ro": "Drniš iarna este ideal pentru o tură cu mașina. Vizitați siturile istorice fără canicula verii. Drumul spre Otavice oferă vederi spre vârfurile înzăpezite din depărtare. Mauzoleul Meštrović este punctul culminant în lumina clară. Un prânz cald în Drniš încheie ziua înainte de apusul la canon.",
             "en": "Drniš in winter is ideal for a car tour. Visit the historical sites without the summer heat. The drive to Otavice offers distant views of snow-capped peaks. The Meštrović Mausoleum is a highlight in the crisp light. A warm lunch in Drniš crowns the day before experiencing the sunset at the canyon.",
-            "hr": "Drniš zimi idealan je za turu automobilom. Posjetite povijesna mjesta bez ljetnih vrućina. Vožnja do Otavica nudi daleke poglede na snježne vrhove. Meštrovićev mauzolej je vrhunac na oštrom svjetlu. Topli ručak u Drnišu kruni dan prije doživljaja zalaska sunca kod kanjona."
+            "hr": "Drniš zimi je idealan za auto-turu. Posjetite povijesne lokalitete bez ljetne vrućine. Vožnja do Otavica nudi udaljene poglede na snijegom pokrivene vrhove. Meštrovićev mauzolej ističe se u oštrom zimskom svjetlu. Topli ručak u Drnišu zaokružuje dan prije doživljaja zalaska sunca nad kanjonom."
           },
           "stops": [
             {
@@ -1403,7 +1403,7 @@
                 "hu": "Használja az állófűtést, ha van az autóban.",
                 "ro": "Folosiți încălzirea auxiliară, dacă este disponibilă.",
                 "en": "Use the auxiliary heater if your car has one.",
-                "hr": "Koristite grijanje u mirovanju ako ga vaš automobil ima."
+                "hr": "Koristite pomoćni grijač ako vaš auto ima takav."
               }
             },
             {
@@ -1413,7 +1413,7 @@
                 "hu": "Parkoljon le rövid időre az út szélén egy gyors fotóhoz.",
                 "ro": "Parcați scurt pe margine pentru o fotografie rapidă.",
                 "en": "Park briefly on the side for a quick photo.",
-                "hr": "Nakratko se parkirajte sa strane za brzu fotografiju."
+                "hr": "Kratko parkiranje sa strane za brzu fotografiju."
               }
             },
             {
@@ -1433,7 +1433,7 @@
                 "hu": "Meleg öltözet szükséges a szeles várúthoz.",
                 "ro": "Haine groase necesare pentru drumul vântos spre cetate.",
                 "en": "Warm clothing is needed for the windy path to the fortress.",
-                "hr": "Topla odjeća je potrebna za vjetrovit put do utvrde."
+                "hr": "Potrebna je topla odjeća za vjetrovitu stazu do utvrde."
               }
             },
             {
@@ -1453,7 +1453,7 @@
                 "hu": "A terület télen gyakran hófödte.",
                 "ro": "Complexul este adesea acoperit de zăpadă iarna.",
                 "en": "The complex is often snow-covered in winter.",
-                "hr": "Kompleks je zimi često prekriven snijegom."
+                "hr": "Kompleks je često snijegom prekriven zimi."
               }
             },
             {
@@ -1493,10 +1493,10 @@
               "Keep an ice scraper and gloves in the car."
             ],
             "hr": [
-              "Zimske gume se preporučuju u dalmatinskom zaleđu.",
-              "Provjerite antifriz u tekućini za pranje stakla.",
-              "Pripazite na poledicu na mostovima preko kanjona.",
-              "Držite strugač leda i rukavice u automobilu."
+              "Zimske gume se preporučuju u dalmatinskoj unutrašnjosti.",
+              "Provjerite antifriz u tekućini za pranje vjetrobrana.",
+              "Pazite na crni led na mostovima preko kanjona.",
+              "Imajte strugalicu za led i rukavice u autu."
             ]
           }
         }
@@ -1526,7 +1526,7 @@
             "hu": "Központi kiindulópont minden látnivalóhoz.",
             "ro": "Punct central de plecare pentru toate atracțiile.",
             "en": "Central starting point for all sights.",
-            "hr": "Središnja polazna točka za sve znamenitosti."
+            "hr": "Središnja polazišna točka za sve znamenitosti."
           }
         },
         {
@@ -1564,7 +1564,7 @@
             "hu": "Fedezze fel a történelmi központot gyalog.",
             "ro": "Explorați centrul istoric pe jos.",
             "en": "Explore the historical center on foot.",
-            "hr": "Istražite povijesnu jezgru pješice."
+            "hr": "Istražite povijesni centar pješice."
           }
         },
         {
@@ -1602,7 +1602,7 @@
             "hu": "Kicsit meredek emelkedő, de megéri.",
             "ro": "Urcare puțin abruptă, dar merită.",
             "en": "Slightly steep climb, but worth it.",
-            "hr": "Lagano strm uspon, ali se isplati."
+            "hr": "Blago strmi uspon, ali vrijedan truda."
           }
         },
         {
@@ -1630,7 +1630,7 @@
         "hu": "Drniš kiválóan felfedezhető tömegközlekedéssel, mivel minden fontos látnivaló a városközpontban sétatávolságra van. A buszállomásra érkezés után azonnal elmerülhet Meštrović világában. Egy bőséges ebéd helyi sonkával erőt ad a Gradina erőd megmászásához, ahonnan a legjobb kilátás nyílik a régióra. A nap pihentetően zárul a város csomópontjánál.",
         "ro": "Drniš poate fi explorat excelent cu transportul public, deoarece toate atracțiile importante din centrul orașului sunt accesibile pe jos. După sosirea la autogară, vă puteți scufunda imediat în lumea lui Meštrović. Un prânz copios cu șuncă locală vă va da energie pentru urcarea la fortăreața Gradina, de unde aveți cea mai bună vedere asupra regiunii. Ziua se încheie relaxat înapoi la nodul de transport al orașului.",
         "en": "Drniš can be excellently explored by public transport, as all important sights in the city center are within walking distance. After arriving at the bus station, you can immediately immerse yourself in Meštrović's world. A hearty lunch with local prosciutto will give you energy for the climb to the Gradina fortress, from where you have the best view of the region. The day ends relaxingly back at the city's transport hub.",
-        "hr": "Drniš se može izvrsno istražiti javnim prijevozom jer su sve važne znamenitosti u centru grada na pješačkoj udaljenosti. Nakon dolaska na autobusni kolodvor, odmah možete uroniti u Meštrovićev svijet. Obilan ručak s lokalnim pršutom dat će vam energiju za uspon do utvrde Gradina, odakle se pruža najbolji pogled na regiju. Dan završava opuštajuće na gradskom prometnom čvorištu."
+        "hr": "Drniš se izvrsno može istražiti javnim prijevozom, jer su sve važne znamenitosti u centru na pješačkoj udaljenosti. Nakon dolaska na autobusni kolodvor, možete se odmah uroniti u Meštrovićev svijet. Srdačan ručak s lokalnim pršutom dat će vam snage za uspon na utvrdu Gradina, odakle imate najbolji pogled na regiju. Dan se opušteno završava natrag na gradskom prometnom čvorištu."
       },
       "gastro_picks": {
         "de": [
@@ -1759,10 +1759,10 @@
           "Drniš is a safe and pedestrian-friendly place."
         ],
         "hr": [
-          "Autobusne linije za Šibenik i Knin su redovite.",
-          "Raspitajte se na kolodvoru o trenutnom voznom redu.",
-          "Sve u centru dostupno je unutar 15 minuta hoda.",
-          "Drniš je sigurno mjesto pogodno za pješake."
+          "Autobusne veze prema Šibeniku i Kninu su redovite.",
+          "Raspitajte se na kolodvoru o aktualnom redu vožnje.",
+          "Sve u centru dostupno je u 15 minuta hoda.",
+          "Drniš je sigurno i ugodno mjesto za pješake."
         ]
       },
       "variants": {
@@ -1772,7 +1772,7 @@
             "hu": "Drniš esőben is jól felfedezhető tömegközlekedéssel. A buszpályaudvarról a központ főbb pontjai gyalog is elérhetők. Használja ki a várakozási időt kávézókra vagy múzeumlátogatásra. Az ebéd remek alkalom az eső kivárására a Gradina vár felé indulás előtt.",
             "ro": "Drniš poate fi explorat bine cu transportul public chiar și pe ploaie. De la autogară, principalele puncte din centru sunt accesibile pe jos. Folosiți timpii de așteptare pentru cafenele sau muzee. Prânzul este o ocazie bună de a aștepta trecerea ploii înainte de a merge la cetate.",
             "en": "Drniš can be explored well by public transit even in the rain. From the bus station, the main points in the center are accessible on foot. Use waiting times for cafes or museum visits. Lunch provides a great opportunity to wait out the rain before heading to the Gradina fortress.",
-            "hr": "Drniš se može dobro istražiti javnim prijevozom čak i na kiši. S autobusnog kolodvora pješice su dostupne glavne točke u centru. Vrijeme čekanja iskoristite za kafiće ili posjete muzejima. Ručak pruža izvrsnu priliku da dočekate prestanak kiše prije odlaska na utvrdu Gradina."
+            "hr": "Drniš se javnim prijevozom dobro može posjetiti i po kiši. S autobusnog kolodvora glavne točke u centru dostupne su pješice. Iskoristite vrijeme čekanja za kafiće ili posjet muzejima. Ručak je odlična prilika da pričekate da kiša prođe prije odlaska na utvrdu Gradina."
           },
           "stops": [
             {
@@ -1782,7 +1782,7 @@
                 "hu": "A buszpályaudvaron van egy kis fedett várakozó.",
                 "ro": "Autogara oferă o mică zonă acoperită.",
                 "en": "The bus station offers a small covered area.",
-                "hr": "Autobusni kolodvor nudi mali natkriveni prostor."
+                "hr": "Autobusni kolodvor nudi malo natkriveno područje."
               }
             },
             {
@@ -1802,7 +1802,7 @@
                 "hu": "Nyugodt hely, hogy egy rövid időre elfelejtse az esőt.",
                 "ro": "Un loc liniștit pentru a uita scurt de ploaie.",
                 "en": "A peaceful place to briefly forget about the rain.",
-                "hr": "Mirno mjesto za nakratko zaboraviti na kišu."
+                "hr": "Mirno mjesto za kratko zaboraviti na kišu."
               }
             },
             {
@@ -1812,7 +1812,7 @@
                 "hu": "Keressen egy hangulatos belső térrel rendelkező éttermet.",
                 "ro": "Căutați un restaurant cu o atmosferă interioară plăcută.",
                 "en": "Look for a restaurant with a cozy indoor atmosphere.",
-                "hr": "Potražite restoran s ugodnom unutarnjom atmosferom."
+                "hr": "Potražite restoran s ugodnim unutarnjim ambijentom."
               }
             },
             {
@@ -1822,7 +1822,7 @@
                 "hu": "Számoljon több időt a feljutásra az esőben.",
                 "ro": "Alocați mai mult timp pentru urcare pe ploaie.",
                 "en": "Allow more time for the climb in the rain.",
-                "hr": "Odvojite više vremena za uspon po kiši."
+                "hr": "Predvidite više vremena za uspon po kiši."
               }
             },
             {
@@ -1832,7 +1832,7 @@
                 "hu": "Érkezzen időben, hogy ne kelljen kint áznia.",
                 "ro": "Ajungeți la timp pentru a nu aștepta în ploaie.",
                 "en": "Arrive on time to avoid waiting out in the rain.",
-                "hr": "Dođite na vrijeme kako biste izbjegli čekanje vani na kiši."
+                "hr": "Stignite na vrijeme kako ne biste čekali na kiši."
               }
             }
           ],
@@ -1862,10 +1862,10 @@
               "Buses might have slight delays during heavy rain."
             ],
             "hr": [
-              "Provjerite vozne redove na internetu kako biste smanjili čekanje na kiši.",
+              "Provjerite vozne redove online kako biste smanjili čekanje na kiši.",
               "Džepni kišobran štedi prostor i koristan je.",
-              "Nosite vodootpornu obuću za šetnje između stanica.",
-              "Autobusi mogu imati manja kašnjenja tijekom jake kiše."
+              "Nosite vodootpornu obuću za šetnje između stajališta.",
+              "Autobusi mogu imati blago kašnjenje tijekom jake kiše."
             ]
           }
         },
@@ -1875,7 +1875,7 @@
             "hu": "A téli Drniš autóbusszal látogatva hiteles élményt nyújt. A központi távolságok rövidek, ami előny a hidegben. Érkezés után melegedjen fel egy kávézóban. A történelmi templom és a Gradina vár lenyűgöző a téli fényben. Tervezze meg a visszautat a korai szürkület előtt.",
             "ro": "Vizitarea orașului Drniš iarna cu autobuzul oferă o experiență autentică. Distanțele în centru sunt scurte, un avantaj pe frig. După sosire, încălziți-vă într-o cafenea. Biserica istorică și cetatea Gradina sunt impresionante în lumina iernii. Planificați revenirea înainte de amurg.",
             "en": "Visiting Drniš in winter by bus offers an authentic experience. The distances in the center are short, which is an advantage in the cold. After arrival, warm up in a cafe. The historical church and Gradina fortress are impressive in the winter light. Plan your return trip before the early dusk.",
-            "hr": "Posjet Drnišu zimi autobusom nudi autentično iskustvo. Udaljenosti u centru su kratke, što je prednost na hladnoći. Nakon dolaska, zagrijte se u kafiću. Povijesna crkva i utvrda Gradina impresivni su na zimskom svjetlu. Planirajte povratak prije ranog sumraka."
+            "hr": "Posjet Drnišu zimi autobusom nudi autentično iskustvo. Udaljenosti u centru su kratke, što je prednost na hladnoći. Nakon dolaska, ugrijte se u kafiću. Povijesna crkva i utvrda Gradina impresivni su u zimskom svjetlu. Isplanirajte povratak prije ranog sumraka."
           },
           "stops": [
             {
@@ -1885,7 +1885,7 @@
                 "hu": "Menjen gyorsan a legközelebbi kávézóba felmelegedni.",
                 "ro": "Mergeți rapid la cea mai apropiată cafenea pentru a vă încălzi.",
                 "en": "Head quickly to the nearest cafe to warm up.",
-                "hr": "Uputite se brzo do najbližeg kafića na zagrijavanje."
+                "hr": "Brzo uputite se u najbliži kafić da se ugrijete."
               }
             },
             {
@@ -1895,7 +1895,7 @@
                 "hu": "Rövid fotómegálló, mielőtt újra fedett helyre menne.",
                 "ro": "Scurt popas foto înainte de a reveni la căldură.",
                 "en": "Short photo stop before heading back indoors.",
-                "hr": "Kratka stanka za fotografiju prije povratka unutra."
+                "hr": "Kratko zaustavljanje za fotografiju prije povratka unutra."
               }
             },
             {
@@ -1905,7 +1905,7 @@
                 "hu": "A vastag templomfalak felfogják a szelet.",
                 "ro": "Zidurile groase ale bisericii opresc vântul.",
                 "en": "The thick church walls block out the wind.",
-                "hr": "Debeli crkveni zidovi štite od vjetra."
+                "hr": "Debeli zidovi crkve blokiraju vjetar."
               }
             },
             {
@@ -1915,7 +1915,7 @@
                 "hu": "Egy meleg ebéd most pont a legmegfelelőbb.",
                 "ro": "Un prânz cald este exact ce trebuie acum.",
                 "en": "A warm lunch is exactly what you need right now.",
-                "hr": "Topli ručak je upravo ono što vam sada treba."
+                "hr": "Topli ručak je upravo ono što sada trebate."
               }
             },
             {
@@ -1925,7 +1925,7 @@
                 "hu": "Vigyázat, a várban télen csípős lehet a szél.",
                 "ro": "Atenție, vântul la cetate poate fi tăios iarna.",
                 "en": "Caution, the wind at the fortress can be biting in winter.",
-                "hr": "Oprez, vjetar na utvrdi može biti grizao zimi."
+                "hr": "Pažnja, vjetar na utvrdi zimi može biti oštar."
               }
             },
             {
@@ -1935,7 +1935,7 @@
                 "hu": "Várjon inkább a közeli kávézóban, mint a peronon.",
                 "ro": "Așteptați mai degrabă în cafeneaua apropiată decât pe peron.",
                 "en": "Better to wait in a nearby cafe than on the platform.",
-                "hr": "Bolje je pričekati u obližnjem kafiću nego na peronu."
+                "hr": "Bolje je čekati u obližnjem kafiću nego na peronu."
               }
             }
           ],
@@ -1965,10 +1965,10 @@
               "It gets dark from 4:30 PM, watch your connections."
             ],
             "hr": [
-              "Zimski vozni redovi mogu se razlikovati od ljetnih.",
-              "Nosite tople čarape jer čekanje na stanicama može biti hladno.",
-              "Koristite javne zgrade za zagrijavanje između postaja.",
-              "Mrači se od 16:30, pazite na svoje linije."
+              "Zimski vozni redovi autobusa mogu se razlikovati od ljetnih.",
+              "Nosite tople čarape jer čekanje na stajalištima može biti hladno.",
+              "Koristite javne zgrade za zagrijavanje između stajališta.",
+              "Mrak pada od 16:30, pazite na veze."
             ]
           }
         }

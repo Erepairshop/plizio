@@ -21,7 +21,8 @@
             "de": "Überreste der Peterskirche",
             "hu": "Szent Péter-templom, romok",
             "ro": "Biserica Sf. Petru, ruine",
-            "en": "Church of St. Peter, remains"
+            "en": "Church of St. Peter, remains",
+            "hr": "Crkva sv. Petra, ostaci"
           },
           "coords": [
             18.435209,
@@ -36,7 +37,8 @@
             "de": "Erkunden Sie die alten Überreste der Peterskirche, um einen Blick in die reiche mittelalterliche Vergangenheit zu werfen, und tragen Sie festes Schuhwerk.",
             "hu": "Fedezze fel a Szent Péter-templom ősi romjait, amelyek bepillantást engednek a gazdag középkori múltba, és viseljen masszív cipőt az egyenetlen terep miatt.",
             "ro": "Explorați ruinele antice ale Bisericii Sf. Petru pentru o privire asupra trecutului medieval bogat și purtați încălțăminte rezistentă pe terenul accidentat.",
-            "en": "Explore the ancient remains of St. Peter's Church for a glimpse into the region's rich medieval past, and wear sturdy shoes for the uneven terrain."
+            "en": "Explore the ancient remains of St. Peter's Church for a glimpse into the region's rich medieval past, and wear sturdy shoes for the uneven terrain.",
+            "hr": "Istražite drevne ostatke crkve sv. Petra za uvid u bogatu srednjovjekovnu prošlost regije i nosite čvrstu obuću zbog neravnog terena."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Rat",
             "hu": "Rat",
             "ro": "Rat",
-            "en": "Rat"
+            "en": "Rat",
+            "hr": "Rat"
           },
           "coords": [
             18.44119,
@@ -59,7 +62,8 @@
             "de": "Genießen Sie die raue Schönheit der natürlichen Küstenlinie der Halbinsel Rat, ideal für ruhige Fotografie, aber achten Sie auf die scharfen Felsen.",
             "hu": "Élvezze a Rat-félsziget természetes partvonalának zord szépségét, amely tökéletes a fotózáshoz, de vigyázzon a víz melletti éles sziklákkal.",
             "ro": "Bucurați-vă de frumusețea aspră a coastei naturale a peninsulei Rat, perfectă pentru fotografii liniștite, dar aveți grijă la stâncile ascuțite de lângă apă.",
-            "en": "Enjoy the rugged beauty of the Rat peninsula's natural coastline, perfect for peaceful photography, but be cautious of the sharp rocks near the water."
+            "en": "Enjoy the rugged beauty of the Rat peninsula's natural coastline, perfect for peaceful photography, but be cautious of the sharp rocks near the water.",
+            "hr": "Uživajte u netaknutoj ljepoti prirodne obale poluotoka Rat, idealno za mirnu fotografiju, ali pazite na oštre stijene uz vodu."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Kupičina glava",
             "hu": "Kupičina glava",
             "ro": "Kupičina glava",
-            "en": "Kupičina glava"
+            "en": "Kupičina glava",
+            "hr": "Kupičina glava"
           },
           "coords": [
             18.44671,
@@ -82,7 +87,8 @@
             "de": "Genießen Sie den Panoramablick von Kupičina glava, einer ruhigen natürlichen Erhebung, und bringen Sie eine Windjacke mit, da die Küstenbrisen stark sein können.",
             "hu": "Gyönyörködjön a panorámában a Kupičina glava nyugodt természetes magaslatáról, és hozzon széldzsekit, mivel a parti szél itt elég erős lehet.",
             "ro": "Admirați priveliștile panoramice de pe Kupičina glava, o înălțime naturală senină, și aduceți o jachetă de vânt, deoarece briza de coastă poate fi puternică.",
-            "en": "Take in the panoramic views from Kupičina glava, a serene natural elevation, and bring a windbreaker as the coastal breezes can be quite strong here."
+            "en": "Take in the panoramic views from Kupičina glava, a serene natural elevation, and bring a windbreaker as the coastal breezes can be quite strong here.",
+            "hr": "Uživajte u panoramskom pogledu s Kupičine glave, mirnog prirodnog uzvišenja, i ponesite vjetrovku jer mogu puhati jaki obalni vjetrovi."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Velika Obalica",
             "hu": "Velika Obalica",
             "ro": "Velika Obalica",
-            "en": "Velika Obalica"
+            "en": "Velika Obalica",
+            "hr": "Velika Obalica"
           },
           "coords": [
             18.449443,
@@ -105,7 +112,8 @@
             "de": "Entspannen Sie sich an den Ufern der Velika Obalica, einer atemberaubenden natürlichen Küste mit kristallklarem Wasser, die sich hervorragend für ein morgendliches Bad eignet.",
             "hu": "Pihenjen a Velika Obalica partján, amely lenyűgöző természetes partvonalat kínál kristálytiszta vízzel, és kiváló hely egy gyors reggeli csobbanáshoz.",
             "ro": "Relaxați-vă pe malurile din Velika Obalica, o coastă naturală uimitoare cu ape cristaline, fiind un loc excelent pentru o scurtă baie de dimineață.",
-            "en": "Relax along the shores of Velika Obalica, a stunning natural shoreline offering crystal clear waters, making it an excellent spot for a quick morning dip."
+            "en": "Relax along the shores of Velika Obalica, a stunning natural shoreline offering crystal clear waters, making it an excellent spot for a quick morning dip.",
+            "hr": "Opustite se uz obale Velike Obalice, prekrasne prirodne obale s kristalno čistom vodom, izvrsne za kratki jutarnji kupanje."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Sjedalica",
             "hu": "Sjedalica",
             "ro": "Sjedalica",
-            "en": "Sjedalica"
+            "en": "Sjedalica",
+            "hr": "Sjedalica"
           },
           "coords": [
             18.454542,
@@ -128,7 +137,8 @@
             "de": "Entdecken Sie die ruhige natürliche Umgebung von Sjedalica, ideal für eine ruhige Pause inmitten der mediterranen Flora, also packen Sie Wasser und Snacks ein.",
             "hu": "Fedezze fel Sjedalica nyugodt természeti környezetét, amely ideális egy csendes pihenéshez a mediterrán növényvilág közepette, ezért vigyen magával vizet.",
             "ro": "Descoperiți mediul natural liniștit din Sjedalica, ideal pentru o odihnă tăcută printre flora mediteraneană, așa că luați apă și gustări pentru a vă bucura.",
-            "en": "Discover the tranquil natural environment of Sjedalica, ideal for a quiet rest amidst Mediterranean flora, so pack some water and snacks to fully enjoy it."
+            "en": "Discover the tranquil natural environment of Sjedalica, ideal for a quiet rest amidst Mediterranean flora, so pack some water and snacks to fully enjoy it.",
+            "hr": "Otkrijte mirno prirodno okruženje Sjedalice, idealno za tih odmor među mediteranskom florom; ponesite vode i grickalica da biste ga u potpunosti uživali."
           }
         }
       ],
@@ -136,7 +146,8 @@
         "de": "Der Morgen beginnt mit den beruhigenden Klängen der Adria, während Sie die Küstenpfade und historischen Stätten entlang der bezaubernden Küste von Molunat erkunden.\nAm Mittag führt Sie Ihre Reise tiefer in das üppige mediterrane Grün und bietet einen Panoramablick auf die rauen Halbinseln und Buchten.\nDer Nachmittag wird damit verbracht, versteckte erhöhte Aussichtspunkte und abgeschiedene Naturjuwelen zu entdecken, ideal für atemberaubende Fotografien.\nDer Abend bricht sanft herein, wenn Sie Ihre letzte naturnahe Oase erkunden und zusehen, wie die Sonne über dem wunderschönen blauen Wasser untergeht.",
         "hu": "A reggel az Adriai-tenger nyugtató hangjaival kezdődik, miközben felfedezi Molunat bájos partvonalának parti ösvényeit és varázslatos történelmi maradványait.\nDélben az utazás mélyebbre vezet a buja mediterrán növényzetbe, panorámás kilátást nyújtva a zord félszigetekre és a kristálytiszta öblökre.\nA délutánt rejtett, magaslati kilátópontok és eldugott természeti kincsek felfedezésével tölti, amelyek tökéletesek lélegzetelállító tengerparti fényképek készítéséhez.\nAz este kecsesen beköszönt, ahogy felfedezi az utolsó békés pihenőhelyét, és nézi, ahogy a naplemente csodás színekkel festi meg az eget.",
         "ro": "Dimineața începe cu sunetele liniștitoare ale Mării Adriatice, explorând potecile de coastă și vestigiile istorice de-a lungul fermecătorului țărm din Molunat.\nLa prânz, călătoria vă poartă mai adânc în vegetația luxuriantă mediteraneană, oferind priveliști panoramice asupra peninsulelor stâncoase și golfurilor cristaline.\nDupă-amiaza este dedicată descoperirii unor puncte de belvedere înalte și a unor bijuterii naturale ascunse, perfecte pentru fotografii uluitoare cu coasta croată.\nSeara se instalează grațios, în timp ce explorați ultimul refugiu natural, privind cum apusul pictează cerul deasupra apelor de un albastru strălucitor.",
-        "en": "Morning begins with the soothing sounds of the Adriatic Sea as you explore the coastal paths and historical remnants along Molunat's charming shoreline.\nBy midday, your journey takes you deeper into the lush Mediterranean greenery, offering panoramic views of the rugged peninsulas and crystal-clear bays.\nAfternoon is spent discovering hidden elevated viewpoints and secluded natural gems, perfect for capturing breathtaking photographs of the Croatian coastline.\nEvening gracefully settles in as you uncover a final tranquil oasis, watching the sunset paint the sky over the magnificent shimmering waters."
+        "en": "Morning begins with the soothing sounds of the Adriatic Sea as you explore the coastal paths and historical remnants along Molunat's charming shoreline.\nBy midday, your journey takes you deeper into the lush Mediterranean greenery, offering panoramic views of the rugged peninsulas and crystal-clear bays.\nAfternoon is spent discovering hidden elevated viewpoints and secluded natural gems, perfect for capturing breathtaking photographs of the Croatian coastline.\nEvening gracefully settles in as you uncover a final tranquil oasis, watching the sunset paint the sky over the magnificent shimmering waters.",
+        "hr": "Jutro započinje umirujućim zvukovima Jadranskog mora dok istražujete obalne staze i povijesne ostatke duž šarmantne obale Molunata.\nU podne vaše putovanje vodi dublje u bujnu mediteransku zelen, nudeći panoramske poglede na razvedene poluotoke i kristalno čiste uvale.\nPoslijepodne provodite otkrivajući skrivene uzvisine i odvojene prirodne dragulje, savršene za snimanje zadivljujućih fotografija hrvatske obale.\nVečer se mirno spušta dok otkrivate posljednje spokojno utočište i promatrate zalazak sunca koji boji nebo iznad veličanstvenih blistavih voda."
       },
       "variants": {
         "rainy": {
@@ -144,7 +155,8 @@
             "de": "Am Morgen sind die Ruinen in mystischen Nebel gehüllt, während der Duft von Regen die Luft erfüllt. Mittags ist auf den Küstenpfaden Vorsicht geboten, da die Steine bei Nässe rutschig werden können. Am Nachmittag strahlen die Grautöne des Meeres tiefe Ruhe aus. Am Abend spiegeln sich die Dorflichter auf dem nassen Asphalt, und nur das Prasseln des Regens bricht die Stille auf den Dächern.",
             "hu": "Reggel a romok misztikus ködbe burkolóznak, az eső illata betölti a levegőt. Délben a part menti ösvényeken a kövek csúszóssá válhatnak, ezért figyeljünk minden lépésre. Délután a tenger szürke árnyalatai és a hullámzás zaja mély nyugalmat áraszt. Estére a falu fényei tükröződnek a vizes aszfalton, a csendet csak az eső kopogása töri meg a házak tetőin.",
             "ro": "Dimineața, ruinele sunt învăluite într-o ceață mistică, iar mirosul ploii umple aerul. La prânz, fiți atenți pe potecile de coastă, deoarece stâncile pot deveni alunecoase. După-amiaza, nuanțele cenușii ale mării și sunetul valurilor emană o pace profundă. Seara, luminile satului se reflectă pe asfaltul ud, iar liniștea este întreruptă doar de ropotul ploii pe acoperișurile caselor.",
-            "en": "In the morning, the ruins are shrouded in mystical mist as the scent of rain fills the air. At noon, be careful on the coastal paths as the rocks can become slippery when wet. In the afternoon, the grey hues of the sea and the sound of the waves radiate deep peace. By evening, the village lights reflect on the wet asphalt, with silence broken only by the rain on the roofs."
+            "en": "In the morning, the ruins are shrouded in mystical mist as the scent of rain fills the air. At noon, be careful on the coastal paths as the rocks can become slippery when wet. In the afternoon, the grey hues of the sea and the sound of the waves radiate deep peace. By evening, the village lights reflect on the wet asphalt, with silence broken only by the rain on the roofs.",
+            "hr": "Ujutro su ruševine obavijene mističnom maglom dok zrak miriše na kišu. U podne budite oprezni na obalnim stazama jer stijene mogu postati skliske kada su mokre. Poslijepodne sivkaste nijanse mora i zvuk valova šire dubok mir. Uvečer svjetla sela ogledaju se na mokrom asfaltu, a tišinu povremeno prekida kiša na krovovima."
           },
           "stops": [
             {
@@ -152,13 +164,15 @@
                 "de": "Überreste der Peterskirche",
                 "hu": "Szent Péter-templom, romok",
                 "ro": "Biserica Sf. Petru, ruine",
-                "en": "Church of St. Peter, remains"
+                "en": "Church of St. Peter, remains",
+                "hr": "Crkva sv. Petra, ostaci"
               },
               "tip_5lang": {
                 "de": "Der Regen verleiht den alten Steinen eine besondere Textur; tragen Sie rutschfeste Schuhe, da das nasse Gras und die Mauerreste bei Feuchtigkeit sehr glatt sein können.",
                 "hu": "Az eső kiemeli a régi kövek textúráját a romok között; viseljünk csúszásmentes bakancsot, mert a nedves fű és a falmaradványok ilyenkor rendkívül csúszósak lehetnek.",
                 "ro": "Ploaia scoate în evidență textura pietrelor vechi printre ruine; purtați bocanci antiderapanți, deoarece iarba umedă și resturile de zid pot fi foarte alunecoase acum.",
-                "en": "The rain highlights the texture of the old stones among the ruins; wear non-slip boots as the wet grass and wall remains can be extremely slippery in these conditions."
+                "en": "The rain highlights the texture of the old stones among the ruins; wear non-slip boots as the wet grass and wall remains can be extremely slippery in these conditions.",
+                "hr": "Kiša naglašava teksturu starih kamenova među ruševinama; nosite čizme protiv klizanja jer mokra trava i ostaci zidova mogu biti izuzetno sklizavi u takvim uvjetima."
               }
             },
             {
@@ -166,13 +180,15 @@
                 "de": "Rat",
                 "hu": "Rat",
                 "ro": "Rat",
-                "en": "Rat"
+                "en": "Rat",
+                "hr": "Rat"
               },
               "tip_5lang": {
                 "de": "Vom Kap aus bietet sich ein dramatischer Blick auf die aufgewühlte Adria; eine hochwertige Regenjacke ist hier wegen des starken Windes und des Spritzwassers unerlässlich.",
                 "hu": "A fokról drámai kilátás nyílik a felkavart Adriára; egy jó minőségű esőkabát itt elengedhetetlen az erős szél és a felcsapó permet elleni védekezéshez a séta során.",
                 "ro": "De pe promontoriu aveți o vedere dramatică asupra Adriaticii agitate; o pelerină de ploaie de calitate este esențială aici pentru protecție împotriva vântului și a stropilor.",
-                "en": "The point offers a dramatic view of the churning Adriatic; a high-quality raincoat is essential here for protection against the strong wind and sea spray during your walk."
+                "en": "The point offers a dramatic view of the churning Adriatic; a high-quality raincoat is essential here for protection against the strong wind and sea spray during your walk.",
+                "hr": "Rt nudi dramatičan pogled na razjareno Jadransko more; kvalitetna kabanica je nužna ovdje za zaštitu od jakog vjetra i morskog raspršivanja tijekom šetnje."
               }
             },
             {
@@ -180,13 +196,15 @@
                 "de": "Kupičina glava",
                 "hu": "Kupičina glava",
                 "ro": "Kupičina glava",
-                "en": "Kupičina glava"
+                "en": "Kupičina glava",
+                "hr": "Kupičina glava"
               },
               "tip_5lang": {
                 "de": "Die Wolken hängen tief über dem Karstgelände und schaffen eine mystische Stimmung; bleiben Sie auf dem markierten Pfad, um Schlamm und lockere Steine zu vermeiden.",
                 "hu": "A felhők alacsonyan szállnak a karsztvidék felett, misztikus hangulatot árasztva; maradjunk a kijelölt ösvényen, hogy elkerüljük a sarat és a meglazult, nedves köveket.",
                 "ro": "Norii plutesc jos peste terenul carstic, creând o atmosferă mistică; rămâneți pe poteca marcată pentru a evita noroiul și pietrele slăbite și umede de pe traseu.",
-                "en": "The clouds hang low over the karst terrain, creating a mystical atmosphere; stay on the marked path to avoid mud and loosened, wet stones during your ascent."
+                "en": "The clouds hang low over the karst terrain, creating a mystical atmosphere; stay on the marked path to avoid mud and loosened, wet stones during your ascent.",
+                "hr": "Oblaci nisko vise nad kršom, stvarajući mističnu atmosferu; ostanite na označenoj stazi kako biste izbjegli blato i olabavljene, mokre kamenove tijekom uspona."
               }
             },
             {
@@ -194,13 +212,15 @@
                 "de": "Velika Obalica",
                 "hu": "Velika Obalica",
                 "ro": "Velika Obalica",
-                "en": "Velika Obalica"
+                "en": "Velika Obalica",
+                "hr": "Velika Obalica"
               },
               "tip_5lang": {
                 "de": "Beobachten Sie die Wellen, die an die Felsen schlagen, von einem sicheren Standpunkt aus; halten Sie Ihre Kamera in einer wasserdichten Tasche bereit für dramatische Fotos.",
                 "hu": "Figyeljük a szikláknak csapódó hullámokat egy biztonságos pontról; tartsuk a fényképezőgépet vízálló tokban, hogy megörökíthessük a tenger drámai, viharos erejét.",
                 "ro": "Observați valurile care se sparg de stânci dintr-un punct sigur; păstrați aparatul foto într-o geantă impermeabilă pentru a surprinde forța dramatică a mării agitate.",
-                "en": "Watch the waves crashing against the rocks from a safe vantage point; keep your camera in a waterproof case to capture the dramatic, stormy power of the Adriatic sea."
+                "en": "Watch the waves crashing against the rocks from a safe vantage point; keep your camera in a waterproof case to capture the dramatic, stormy power of the Adriatic sea.",
+                "hr": "Promatrajte valove koji se razbijaju o stijene s sigurnog mjesta; držite fotoaparat u vodonepropusnom kućištu kako biste snimili dramatičnu, olujnu snagu Jadrana."
               }
             },
             {
@@ -208,13 +228,15 @@
                 "de": "Sjedalica",
                 "hu": "Sjedalica",
                 "ro": "Sjedalica",
-                "en": "Sjedalica"
+                "en": "Sjedalica",
+                "hr": "Sjedalica"
               },
               "tip_5lang": {
                 "de": "Die Holzbank bietet einen ruhigen Platz, um dem Regen zuzuhören; nutzen Sie ein wasserdichtes Sitzkissen, um trocken zu bleiben, während Sie den grauen Horizont betrachten.",
                 "hu": "A fapad nyugodt helyet kínál az eső kopogásának hallgatásához; használjunk vízálló üléspárnát, hogy szárazon maradjunk, miközben a szürke horizontot és a tengert kémleljük.",
                 "ro": "Banca de lemn oferă un loc liniștit pentru a asculta ropotul ploii; folosiți o pernă de șezut impermeabilă pentru a rămâne uscat în timp ce priviți orizontul cenușiu.",
-                "en": "The wooden bench offers a peaceful spot to listen to the patter of rain; use a waterproof seat pad to stay dry while gazing at the grey horizon and the sea."
+                "en": "The wooden bench offers a peaceful spot to listen to the patter of rain; use a waterproof seat pad to stay dry while gazing at the grey horizon and the sea.",
+                "hr": "Drvena klupa nudi mirno mjesto za slušanje kapljanja kiše; upotrijebite vodootpornu podlogu za sjedenje da ostanete suhi dok promatrate sivu horizont i more."
               }
             }
           ]
@@ -224,7 +246,8 @@
             "de": "Der Wintermorgen ist frisch und salzig, Molunat zeigt sich von seiner ruhigsten Seite. Mittags steht die Sonne tief und wirft lange Schatten auf die felsigen Küstenabschnitte. Am Nachmittag empfiehlt es sich, wegen des kühlen Seewinds an den Aussichtspunkten mehrere Schichten Kleidung zu tragen. Gegen 17:00 Uhr wird es bereits dunkel, kehren Sie rechtzeitig in die Wärme zurück.",
             "hu": "A téli reggel friss és sós, Molunat ilyenkor a legnyugodtabb arcát mutatja. Délben a nap alacsonyan jár, hosszú árnyékokat vetve a sziklás partszakaszokra. Délután érdemes rétegesen öltözni a hűvös tengeri szél miatt a kilátópontokon. Este 17:00 körül már sötétedik, így érdemes időben visszatérni a szállás melegébe egy forró italra.",
             "ro": "Dimineața de iarnă este proaspătă și sărată, Molunat arătându-și cea mai liniștită față. La prânz, soarele este jos, aruncând umbre lungi pe porțiunile stâncoase de coastă. După-amiaza, se recomandă îmbrăcămintea în straturi din cauza vântului răcoros de mare. În jurul orei 17:00 se întunecă deja, așa că reveniți din timp la căldura cazării.",
-            "en": "The winter morning is fresh and salty, showing Molunat's calmest side. At noon, the sun sits low, casting long shadows on the rocky coastline. In the afternoon, it is recommended to wear multiple layers due to the cool sea breeze at the viewpoints. It gets dark around 17:00, so plan to return to the warmth of your accommodation in time."
+            "en": "The winter morning is fresh and salty, showing Molunat's calmest side. At noon, the sun sits low, casting long shadows on the rocky coastline. In the afternoon, it is recommended to wear multiple layers due to the cool sea breeze at the viewpoints. It gets dark around 17:00, so plan to return to the warmth of your accommodation in time.",
+            "hr": "Zimsko jutro je svježe i slano, pokazujući najmirniju stranu Molunata. U podne sunce stoji nisko, bacajući duge sjene na stijegnatu obalu. Poslijepodne se preporučuje slojevito odijevanje zbog hladnog morskog povjetarca na vidikovcima. Oko 17:00 se smrkava, pa planirajte na vrijeme vratiti se u toplinu smještaja."
           },
           "stops": [
             {
@@ -232,13 +255,15 @@
                 "de": "Überreste der Peterskirche",
                 "hu": "Szent Péter-templom, romok",
                 "ro": "Biserica Sf. Petru, ruine",
-                "en": "Church of St. Peter, remains"
+                "en": "Church of St. Peter, remains",
+                "hr": "Crkva sv. Petra, ostaci"
               },
               "tip_5lang": {
                 "de": "Die tiefstehende Wintersonne beleuchtet die Ruinen in warmen Tönen; durch die karge Vegetation sind die Grundmauern der alten Kirche jetzt viel deutlicher zu erkennen.",
                 "hu": "Az alacsonyan járó téli nap meleg tónusokkal világítja meg a romokat; a ritkább növényzet miatt a templom alapfalai most sokkal élesebben kirajzolódnak a tájban.",
                 "ro": "Soarele de iarnă jos luminează ruinele în tonuri calde; datorită vegetației rare, zidurile de fundație ale bisericii sunt acum mult mai clar vizibile în peisaj.",
-                "en": "The low winter sun illuminates the ruins in warm tones; due to the sparse vegetation, the foundation walls of the church are now much more clearly visible in the landscape."
+                "en": "The low winter sun illuminates the ruins in warm tones; due to the sparse vegetation, the foundation walls of the church are now much more clearly visible in the landscape.",
+                "hr": "Nisko zimsko sunce obasjava ruševine toplim tonovima; zbog rijetke vegetacije temelji zidova crkve sada su mnogo jasnije vidljivi u krajoliku."
               }
             },
             {
@@ -246,13 +271,15 @@
                 "de": "Rat",
                 "hu": "Rat",
                 "ro": "Rat",
-                "en": "Rat"
+                "en": "Rat",
+                "hr": "Rat"
               },
               "tip_5lang": {
                 "de": "Genießen Sie die Einsamkeit am Kap, aber schützen Sie sich mit Schal und Mütze vor der Bura; der eiskalte Wind kann hier an der Küste sehr kräftig wehen.",
                 "hu": "Élvezzük a magányt a foknál, de védekezzünk sállal és sapkával a bóra ellen; a jeges szél itt a parton nagyon felerősödhet, ezért fontos a megfelelő meleg ruházat.",
                 "ro": "Bucurați-vă de singurătatea de la capătul falezei, dar protejați-vă cu fular și căciulă împotriva vântului Bura; vântul înghețat poate fi foarte puternic aici pe coastă.",
-                "en": "Enjoy the solitude at the point, but protect yourself with a scarf and hat against the Bura wind; the icy wind can be very strong here on the coast during winter."
+                "en": "Enjoy the solitude at the point, but protect yourself with a scarf and hat against the Bura wind; the icy wind can be very strong here on the coast during winter.",
+                "hr": "Uživajte u samoći na rtu, ali zaštitite se maramom i kapom od bure; ledeni vjetar može biti vrlo jak ovdje na obali zimi."
               }
             },
             {
@@ -260,13 +287,15 @@
                 "de": "Kupičina glava",
                 "hu": "Kupičina glava",
                 "ro": "Kupičina glava",
-                "en": "Kupičina glava"
+                "en": "Kupičina glava",
+                "hr": "Kupičina glava"
               },
               "tip_5lang": {
                 "de": "Die klare Winterluft bietet eine weite Sicht bis zu den fernen Inseln; nehmen Sie eine Thermoskanne mit Tee mit, um sich beim Genießen des Panoramas aufzuwärmen.",
                 "hu": "A tiszta téli levegő távoli szigetekig tartó panorámát kínál; vigyünk magunkkal egy termosz forró teát, hogy felmelegedhessünk, miközben a lenyűgöző kilátásban gyönyörködünk.",
                 "ro": "Aerul curat de iarnă oferă o vedere panoramică până la insulele îndepărtate; luați un termos cu ceai fierbinte pentru a vă încălzi în timp ce admirați peisajul uimitor.",
-                "en": "The clear winter air offers a panoramic view as far as distant islands; bring a thermos of hot tea to warm up while admiring the stunning scenery from this height."
+                "en": "The clear winter air offers a panoramic view as far as distant islands; bring a thermos of hot tea to warm up while admiring the stunning scenery from this height.",
+                "hr": "Bistar zimski zrak nudi panoramski pogled sve do udaljenih otoka; ponesite termos vrućeg čaja da se ugrijete dok promatrate zadivljujući prizor s visine."
               }
             },
             {
@@ -274,13 +303,15 @@
                 "de": "Velika Obalica",
                 "hu": "Velika Obalica",
                 "ro": "Velika Obalica",
-                "en": "Velika Obalica"
+                "en": "Velika Obalica",
+                "hr": "Velika Obalica"
               },
               "tip_5lang": {
                 "de": "Die Winterbrandung ist oft kräftiger und bietet ein tolles Schauspiel; tragen Sie winddichte Kleidung, um den Aufenthalt an diesem exponierten Punkt länger genießen zu können.",
                 "hu": "A téli hullámzás gyakran erősebb és látványosabb; viseljünk szélálló ruházatot, hogy tovább élvezhessük a természet erejét ezen a kitett, nyitott partszakaszon.",
                 "ro": "Valurile de iarnă sunt adesea mai puternice și mai spectaculoase; purtați haine rezistente la vânt pentru a vă bucura mai mult timp de forța naturii în acest punct expus.",
-                "en": "The winter surf is often stronger and more spectacular; wear windproof clothing to enjoy the force of nature longer at this exposed and open coastal section."
+                "en": "The winter surf is often stronger and more spectacular; wear windproof clothing to enjoy the force of nature longer at this exposed and open coastal section.",
+                "hr": "Zimski valovi često su jači i spektakularniji; nosite vjetrootporno odjeću kako biste duže uživali u sili prirode na ovom izloženom i otvorenom dijelu obale."
               }
             },
             {
@@ -288,13 +319,15 @@
                 "de": "Sjedalica",
                 "hu": "Sjedalica",
                 "ro": "Sjedalica",
-                "en": "Sjedalica"
+                "en": "Sjedalica",
+                "hr": "Sjedalica"
               },
               "tip_5lang": {
                 "de": "Ein perfekter Ort für ein kurzes Winterpicknick in der Mittagssonne; die Felsen speichern die Wärme, was diesen Platz zu einer angenehmen Pause am frühen Nachmittag macht.",
                 "hu": "Tökéletes hely egy rövid téli piknikhez a déli napsütésben; a sziklák ilyenkor is tárolják a hőt, ami kellemessé teszi a pihenőt a kora délutáni órákban.",
                 "ro": "Un loc perfect pentru un scurt picnic de iarnă în soarele de la prânz; stâncile stochează căldura, ceea ce face pauza plăcută în orele amiezii târzii.",
-                "en": "A perfect spot for a short winter picnic in the midday sun; the rocks store heat even now, making this a pleasant place for a break in the early afternoon hours."
+                "en": "A perfect spot for a short winter picnic in the midday sun; the rocks store heat even now, making this a pleasant place for a break in the early afternoon hours.",
+                "hr": "Savršeno mjesto za kratki zimski piknik na podnevnom suncu; stijene i dalje zadržavaju toplinu, što ovo čini ugodnim mjestom za odmor u ranim poslijepodnevnim satima."
               }
             }
           ]
@@ -314,7 +347,8 @@
             "de": "Resnica",
             "hu": "Resnica",
             "ro": "Resnica",
-            "en": "Resnica"
+            "en": "Resnica",
+            "hr": "Resnica"
           },
           "coords": [
             18.423534,
@@ -329,7 +363,8 @@
             "de": "Beginnen Sie Ihr Abenteuer in Resnica, wo die unberührten Naturlandschaften eine erfrischende Flucht bieten, und wenn Sie früh ankommen, ist es besonders ruhig.",
             "hu": "Kezdje kalandját Resnicában, ahol a nyers, érintetlen természeti tájak frissítő menedéket nyújtanak, a korai érkezés pedig csendes élményt biztosít.",
             "ro": "Începeți aventura la Resnica, unde peisajele naturale neatinse oferă o evadare revigorantă, iar sosirea devreme asigură o experiență deosebit de liniștită.",
-            "en": "Start your adventure at Resnica, where the raw, untouched natural landscapes provide a refreshing escape, and arriving early ensures a quiet experience."
+            "en": "Start your adventure at Resnica, where the raw, untouched natural landscapes provide a refreshing escape, and arriving early ensures a quiet experience.",
+            "hr": "Započnite svoju avanturu u Resnici, gdje sirovi, netaknuti prirodni predjeli pružaju osvježavajuće utočište; dolazak rano osigurava mirno iskustvo."
           }
         },
         {
@@ -337,7 +372,8 @@
             "de": "Velika Obalica",
             "hu": "Velika Obalica",
             "ro": "Velika Obalica",
-            "en": "Velika Obalica"
+            "en": "Velika Obalica",
+            "hr": "Velika Obalica"
           },
           "coords": [
             18.449443,
@@ -352,7 +388,8 @@
             "de": "Entspannen Sie sich an den Ufern der Velika Obalica, einer atemberaubenden natürlichen Küste mit kristallklarem Wasser, die sich hervorragend für ein morgendliches Bad eignet.",
             "hu": "Pihenjen a Velika Obalica partján, amely lenyűgöző természetes partvonalat kínál kristálytiszta vízzel, és kiváló hely egy gyors reggeli csobbanáshoz.",
             "ro": "Relaxați-vă pe malurile din Velika Obalica, o coastă naturală uimitoare cu ape cristaline, fiind un loc excelent pentru o scurtă baie de dimineață.",
-            "en": "Relax along the shores of Velika Obalica, a stunning natural shoreline offering crystal clear waters, making it an excellent spot for a quick morning dip."
+            "en": "Relax along the shores of Velika Obalica, a stunning natural shoreline offering crystal clear waters, making it an excellent spot for a quick morning dip.",
+            "hr": "Opustite se uz obale Velike Obalice, prekrasne prirodne obale s kristalno čistom vodom, izvrsne za kratki jutarnji kupanje."
           }
         },
         {
@@ -360,7 +397,8 @@
             "de": "Sjedalica",
             "hu": "Sjedalica",
             "ro": "Sjedalica",
-            "en": "Sjedalica"
+            "en": "Sjedalica",
+            "hr": "Sjedalica"
           },
           "coords": [
             18.454542,
@@ -375,7 +413,8 @@
             "de": "Entdecken Sie die ruhige natürliche Umgebung von Sjedalica, ideal für eine ruhige Pause inmitten der mediterranen Flora, also packen Sie Wasser und Snacks ein.",
             "hu": "Fedezze fel Sjedalica nyugodt természeti környezetét, amely ideális egy csendes pihenéshez a mediterrán növényvilág közepette, ezért vigyen magával vizet.",
             "ro": "Descoperiți mediul natural liniștit din Sjedalica, ideal pentru o odihnă tăcută printre flora mediteraneană, așa că luați apă și gustări pentru a vă bucura.",
-            "en": "Discover the tranquil natural environment of Sjedalica, ideal for a quiet rest amidst Mediterranean flora, so pack some water and snacks to fully enjoy it."
+            "en": "Discover the tranquil natural environment of Sjedalica, ideal for a quiet rest amidst Mediterranean flora, so pack some water and snacks to fully enjoy it.",
+            "hr": "Otkrijte mirno prirodno okruženje Sjedalice, idealno za tih odmor među mediteranskom florom; ponesite vode i grickalica da biste ga u potpunosti uživali."
           }
         },
         {
@@ -383,7 +422,8 @@
             "de": "Strašnjik",
             "hu": "Strašnjik",
             "ro": "Strašnjik",
-            "en": "Strašnjik"
+            "en": "Strašnjik",
+            "hr": "Strašnjik"
           },
           "coords": [
             18.459099,
@@ -398,7 +438,8 @@
             "de": "Spazieren Sie über die malerischen Naturpfade von Strašnjik, genießen Sie das üppige Grün und nutzen Sie GPS, da die Wege manchmal verwirrend sein können.",
             "hu": "Sétáljon végig Strašnjik festői ösvényein, élvezze a buja növényzetet, és használjon GPS-t, mivel az útvonalak néha egy kicsit zavaróak lehetnek.",
             "ro": "Plimbați-vă pe cărările naturale pitorești din Strašnjik, bucurându-vă de verdeață, și folosiți un GPS, deoarece traseele pot fi uneori confuze.",
-            "en": "Walk through the scenic natural paths of Strašnjik, enjoying the lush greenery and wildlife, and use a map or GPS as the trails can sometimes be confusing."
+            "en": "Walk through the scenic natural paths of Strašnjik, enjoying the lush greenery and wildlife, and use a map or GPS as the trails can sometimes be confusing.",
+            "hr": "Prošećite slikovitim prirodnim stazama Strašnjika, uživajući u bujnom zelenilu i divljim životinjama; koristite kartu ili GPS jer ponekad staze mogu biti zbunjujuće."
           }
         },
         {
@@ -406,7 +447,8 @@
             "de": "Kupičina glava",
             "hu": "Kupičina glava",
             "ro": "Kupičina glava",
-            "en": "Kupičina glava"
+            "en": "Kupičina glava",
+            "hr": "Kupičina glava"
           },
           "coords": [
             18.44671,
@@ -421,7 +463,8 @@
             "de": "Genießen Sie den Panoramablick von Kupičina glava, einer ruhigen natürlichen Erhebung, und bringen Sie eine Windjacke mit, da die Küstenbrisen stark sein können.",
             "hu": "Gyönyörködjön a panorámában a Kupičina glava nyugodt természetes magaslatáról, és hozzon széldzsekit, mivel a parti szél itt elég erős lehet.",
             "ro": "Admirați priveliștile panoramice de pe Kupičina glava, o înălțime naturală senină, și aduceți o jachetă de vânt, deoarece briza de coastă poate fi puternică.",
-            "en": "Take in the panoramic views from Kupičina glava, a serene natural elevation, and bring a windbreaker as the coastal breezes can be quite strong here."
+            "en": "Take in the panoramic views from Kupičina glava, a serene natural elevation, and bring a windbreaker as the coastal breezes can be quite strong here.",
+            "hr": "Uživajte u panoramskom pogledu s Kupičine glave, mirnog prirodnog uzvišenja, i ponesite vjetrovku jer mogu puhati jaki obalni vjetrovi."
           }
         },
         {
@@ -429,7 +472,8 @@
             "de": "Rat",
             "hu": "Rat",
             "ro": "Rat",
-            "en": "Rat"
+            "en": "Rat",
+            "hr": "Rat"
           },
           "coords": [
             18.44119,
@@ -444,7 +488,8 @@
             "de": "Genießen Sie die raue Schönheit der natürlichen Küstenlinie der Halbinsel Rat, ideal für ruhige Fotografie, aber achten Sie auf die scharfen Felsen.",
             "hu": "Élvezze a Rat-félsziget természetes partvonalának zord szépségét, amely tökéletes a fotózáshoz, de vigyázzon a víz melletti éles sziklákkal.",
             "ro": "Bucurați-vă de frumusețea aspră a coastei naturale a peninsulei Rat, perfectă pentru fotografii liniștite, dar aveți grijă la stâncile ascuțite de lângă apă.",
-            "en": "Enjoy the rugged beauty of the Rat peninsula's natural coastline, perfect for peaceful photography, but be cautious of the sharp rocks near the water."
+            "en": "Enjoy the rugged beauty of the Rat peninsula's natural coastline, perfect for peaceful photography, but be cautious of the sharp rocks near the water.",
+            "hr": "Uživajte u netaknutoj ljepoti prirodne obale poluotoka Rat, idealno za mirnu fotografiju, ali pazite na oštre stijene uz vodu."
           }
         },
         {
@@ -452,7 +497,8 @@
             "de": "Überreste der Peterskirche",
             "hu": "Szent Péter-templom, romok",
             "ro": "Biserica Sf. Petru, ruine",
-            "en": "Church of St. Peter, remains"
+            "en": "Church of St. Peter, remains",
+            "hr": "Crkva sv. Petra, ostaci"
           },
           "coords": [
             18.435209,
@@ -467,7 +513,8 @@
             "de": "Erkunden Sie die alten Überreste der Peterskirche, um einen Blick in die reiche mittelalterliche Vergangenheit zu werfen, und tragen Sie festes Schuhwerk.",
             "hu": "Fedezze fel a Szent Péter-templom ősi romjait, amelyek bepillantást engednek a gazdag középkori múltba, és viseljen masszív cipőt az egyenetlen terep miatt.",
             "ro": "Explorați ruinele antice ale Bisericii Sf. Petru pentru o privire asupra trecutului medieval bogat și purtați încălțăminte rezistentă pe terenul accidentat.",
-            "en": "Explore the ancient remains of St. Peter's Church for a glimpse into the region's rich medieval past, and wear sturdy shoes for the uneven terrain."
+            "en": "Explore the ancient remains of St. Peter's Church for a glimpse into the region's rich medieval past, and wear sturdy shoes for the uneven terrain.",
+            "hr": "Istražite drevne ostatke crkve sv. Petra za uvid u bogatu srednjovjekovnu prošlost regije i nosite čvrstu obuću zbog neravnog terena."
           }
         }
       ],
@@ -475,7 +522,8 @@
         "de": "Der Morgen beginnt mit einer erfrischenden Radtour in den ruhigen Randgebieten, während Sie die Küstenpfade und Naturschutzgebiete entlang der bezaubernden Küste von Molunat erkunden.\nAm Mittag führt Sie Ihre Reise tiefer in das üppige mediterrane Grün und bietet einen Panoramablick auf die rauen Halbinseln und kristallklaren Buchten.\nDer Nachmittag wird damit verbracht, versteckte erhöhte Aussichtspunkte und abgeschiedene Naturjuwelen zu entdecken, ideal für atemberaubende Fotografien.\nDer Abend bricht sanft herein, wenn Sie die alten Ruinen am Wasserlauf erkunden und zusehen, wie der Sonnenuntergang den Himmel über den steinernen Überresten färbt.",
         "hu": "A reggel egy frissítő kerékpározással kezdődik a csendes külvárosokban, miközben felfedezi Molunat bájos partvonalának parti ösvényeit és varázslatos természetvédelmi területeit.\nDélben az utazás mélyebbre vezet a buja mediterrán növényzetbe, panorámás kilátást nyújtva a zord félszigetekre és a kristálytiszta öblökre.\nA délutánt rejtett, magaslati kilátópontok és eldugott természeti kincsek felfedezésével tölti, amelyek tökéletesek lélegzetelállító tengerparti fényképek készítéséhez.\nAz este kecsesen beköszönt, ahogy felfedezi az ősi romokat a vízparton, és nézi, ahogy a naplemente csodás színekkel festi meg az eget a történelmi kőmaradványok felett.",
         "ro": "Dimineața începe cu o plimbare răcoroasă cu bicicleta în zonele liniștite, explorând potecile de coastă și rezervațiile naturale de-a lungul fermecătorului țărm din Molunat.\nLa prânz, călătoria vă poartă mai adânc în vegetația luxuriantă mediteraneană, oferind priveliști panoramice asupra peninsulelor stâncoase și golfurilor cristaline.\nDupă-amiaza este dedicată descoperirii unor puncte de belvedere înalte și a unor bijuterii naturale ascunse, perfecte pentru fotografii uluitoare cu coasta croată.\nSeara se instalează grațios, în timp ce descoperiți ruinele antice din apropierea apei, privind cum apusul pictează cerul deasupra vestigiilor istorice din piatră.",
-        "en": "Morning begins with a refreshing ride in the quiet outskirts as you explore the coastal paths and natural reserves along Molunat's charming shoreline.\nBy midday, your journey takes you deeper into the lush Mediterranean greenery, offering panoramic views of the rugged peninsulas and crystal-clear bays.\nAfternoon is spent discovering hidden elevated viewpoints and secluded natural gems, perfect for capturing breathtaking photographs of the Croatian coastline.\nEvening gracefully settles in as you uncover the ancient ruins near the water's edge, watching the sunset paint the sky over the historical stone remnants."
+        "en": "Morning begins with a refreshing ride in the quiet outskirts as you explore the coastal paths and natural reserves along Molunat's charming shoreline.\nBy midday, your journey takes you deeper into the lush Mediterranean greenery, offering panoramic views of the rugged peninsulas and crystal-clear bays.\nAfternoon is spent discovering hidden elevated viewpoints and secluded natural gems, perfect for capturing breathtaking photographs of the Croatian coastline.\nEvening gracefully settles in as you uncover the ancient ruins near the water's edge, watching the sunset paint the sky over the historical stone remnants.",
+        "hr": "Jutro započinje osvježavajućom vožnjom po tihim perifernim dijelovima dok istražujete obalne staze i prirodne rezervate duž šarmantne obale Molunata.\nU podne vaše putovanje vodi dublje u bujnu mediteransku zelen, nudeći panoramske poglede na razvedene poluotoke i kristalno čiste uvale.\nPoslijepodne provodite otkrivajući skrivene uzvisine i odvojene prirodne dragulje, savršene za snimanje zadivljujućih fotografija hrvatske obale.\nVečer se mirno spušta dok otkrivate drevne ruševine uz obalu, promatrajući zalazak sunca koji boji nebo iznad povijesnih kamenih ostataka."
       },
       "variants": {
         "rainy": {
@@ -483,7 +531,8 @@
             "de": "Am Morgen wird die Bedeutung von Schutzblechen deutlich, wenn die Wege nass werden. Mittags fordern Wind und Regen auf den Küstenabschnitten Ihre Ausdauer, aber die dramatische Aussicht belohnt die Mühe. Nachmittags ist an steilen Passagen wegen der Rutschgefahr Vorsicht geboten. Der Abend endet mit dem Trocknen der Ausrüstung und dem Genuss der Dorflichter.",
             "hu": "Reggel a sárvédők fontossága felértékelődik, ahogy az utak nedvessé válnak. Délben a tengerparti szakaszokon a szél és az eső próbára teszi a kitartást, de a drámai látvány kárpótol. Délután a meredekebb részeken óvatosan fékezzünk a csúszós felület miatt. Este a vizes felszerelés megszárítása és a falu nyugodt fényeinek élvezete zárja a napot.",
             "ro": "Dimineața, importanța apărătorilor de noroi devine evidentă pe măsură ce drumurile se udă. La prânz, vântul și ploaia de pe coastă vă testează rezistența, dar vederea dramatică merită efortul. După-amiaza, frânați cu grijă pe porțiunile abrupte din cauza suprafeței alunecoase. Seara se încheie cu uscarea echipamentului și liniștea satului.",
-            "en": "In the morning, the importance of mudguards becomes clear as the paths get wet. At noon, the wind and rain on the coastal sections test your endurance, but the dramatic views compensate. In the afternoon, brake carefully on steeper sections due to the slippery surface. The evening ends with drying your gear and enjoying the quiet village lights."
+            "en": "In the morning, the importance of mudguards becomes clear as the paths get wet. At noon, the wind and rain on the coastal sections test your endurance, but the dramatic views compensate. In the afternoon, brake carefully on steeper sections due to the slippery surface. The evening ends with drying your gear and enjoying the quiet village lights.",
+            "hr": "Ujutro važnost blatobrana postaje očita kako staze postaju mokre. U podne vjetar i kiša na obalnim dionicama iskušavaju vašu izdržljivost, ali dramatični pogledi to nadoknađuju. Poslijepodne kočite pažljivo na strmijim dijelovima zbog skliskog površine. Večer završava sušenjem opreme i uživanjem u tihim seoskim svjetlima."
           },
           "stops": [
             {
@@ -491,13 +540,15 @@
                 "de": "Resnica",
                 "hu": "Resnica",
                 "ro": "Resnica",
-                "en": "Resnica"
+                "en": "Resnica",
+                "hr": "Resnica"
               },
               "tip_5lang": {
                 "de": "Die Vegetation leuchtet im Regen in sattem Grün; meiden Sie unbefestigte Waldwege, da diese bei Nässe sehr schlammig und für Reifen schwer befahrbar sein können.",
                 "hu": "A növényzet az esőben ragyogó zöld színt ölt; kerüljük a burkolatlan erdei utakat, mert azok nagyon sárosak és nehezen járhatóak lehetnek a kerékpár számára.",
                 "ro": "Vegetația capătă o culoare verde strălucitoare în ploaie; evitați drumurile forestiere neasfaltate, deoarece pot fi foarte noroioase și greu de parcurs cu bicicleta.",
-                "en": "The vegetation takes on a brilliant green color in the rain; avoid unpaved forest paths as they can become very muddy and difficult to navigate on a bicycle."
+                "en": "The vegetation takes on a brilliant green color in the rain; avoid unpaved forest paths as they can become very muddy and difficult to navigate on a bicycle.",
+                "hr": "Vegetacija u kiši poprima sjajno zelenu boju; izbjegavajte neasfaltirane šumske staze jer mogu postati vrlo blatne i teške za kretanje biciklom."
               }
             },
             {
@@ -505,13 +556,15 @@
                 "de": "Velika Obalica",
                 "hu": "Velika Obalica",
                 "ro": "Velika Obalica",
-                "en": "Velika Obalica"
+                "en": "Velika Obalica",
+                "hr": "Velika Obalica"
               },
               "tip_5lang": {
                 "de": "Der Asphalt kann hier durch Meersalz und Regen besonders rutschig sein; passen Sie Ihre Geschwindigkeit in den Kurven an, um ein Wegrutschen der Reifen zu vermeiden.",
                 "hu": "Az aszfalt itt a tengeri só és az eső miatt különösen csúszós lehet; igazítsuk a sebességet a kanyarokban, hogy elkerüljük a kerekek megcsúszását a nedves úton.",
                 "ro": "Asfaltul poate fi deosebit de alunecos aici din cauza sării marine și a ploii; ajustați viteza în curbe pentru a evita deraparea roților pe drumul umed.",
-                "en": "The asphalt here can be especially slippery due to sea salt and rain; adjust your speed in the curves to avoid the tires slipping on the wet road surface."
+                "en": "The asphalt here can be especially slippery due to sea salt and rain; adjust your speed in the curves to avoid the tires slipping on the wet road surface.",
+                "hr": "Asfalt ovdje može biti posebno klizav zbog morske soli i kiše; prilagodite brzinu u zavojima kako biste izbjegli proklizavanje guma na mokroj podlozi."
               }
             },
             {
@@ -519,13 +572,15 @@
                 "de": "Sjedalica",
                 "hu": "Sjedalica",
                 "ro": "Sjedalica",
-                "en": "Sjedalica"
+                "en": "Sjedalica",
+                "hr": "Sjedalica"
               },
               "tip_5lang": {
                 "de": "Ein guter Stopp, um die Regenkleidung zu richten; nutzen Sie die Deckung der Bäume für eine kurze Pause und prüfen Sie Ihre Bremsen auf ihre Wirksamkeit bei Nässe.",
                 "hu": "Jó megálló az esőruházat megigazítására; használjuk a fák takarását egy rövid pihenőre, és ellenőrizzük a fékek hatékonyságát a vizes felniken a további út előtt.",
                 "ro": "Un loc bun pentru a vă ajusta pelerina de ploaie; folosiți adăpostul copacilor pentru o scurtă pauză și verificați eficiența frânelor pe jantele ude înainte de a pleca.",
-                "en": "A good stop to adjust your rain gear; use the tree cover for a short break and check your brake effectiveness on the wet rims before continuing your ride."
+                "en": "A good stop to adjust your rain gear; use the tree cover for a short break and check your brake effectiveness on the wet rims before continuing your ride.",
+                "hr": "Dobra stanica za podrezivanje kišne opreme; iskoristite zaštitu stabala za kratki odmor i provjerite učinkovitost kočnica na mokrim obručima prije nastavka vožnje."
               }
             },
             {
@@ -533,13 +588,15 @@
                 "de": "Strašnjik",
                 "hu": "Strašnjik",
                 "ro": "Strašnjik",
-                "en": "Strašnjik"
+                "en": "Strašnjik",
+                "hr": "Strašnjik"
               },
               "tip_5lang": {
                 "de": "Die Aussicht auf die Bucht im Regen ist mystisch; halten Sie Abstand zum Fahrbahnrand, da Pfützen tiefe Schlaglöcher verbergen können, die im Wasser nicht sichtbar sind.",
                 "hu": "Az öböl látványa az esőben misztikus; tartsunk távolságot az út szélétől, mert a tócsák mély kátyúkat rejthetnek, amelyek a víz alatt egyáltalán nem látszanak.",
                 "ro": "Vederea golfului în ploaie este mistică; păstrați distanța de marginea drumului, deoarece bălțile pot ascunde gropi adânci care nu sunt vizibile deloc sub apă.",
-                "en": "The view of the bay in the rain is mystical; keep a distance from the road edge as puddles can hide deep potholes that are not visible at all under the water."
+                "en": "The view of the bay in the rain is mystical; keep a distance from the road edge as puddles can hide deep potholes that are not visible at all under the water.",
+                "hr": "Pogled na uvalu po kiši je mističan; držite se podalje od ruba ceste jer lokve mogu skrivati duboke rupe koje ispod vode uopće nisu vidljive."
               }
             },
             {
@@ -547,13 +604,15 @@
                 "de": "Kupičina glava",
                 "hu": "Kupičina glava",
                 "ro": "Kupičina glava",
-                "en": "Kupičina glava"
+                "en": "Kupičina glava",
+                "hr": "Kupičina glava"
               },
               "tip_5lang": {
                 "de": "Der Anstieg wird Sie aufwärmen, aber oben kühlen Sie im Regen schnell aus; ziehen Sie für die Abfahrt eine winddichte Schicht an, um Ihren Körper vor dem Windchill zu schützen.",
                 "hu": "Az emelkedő felmelegít, de fent az esőben gyorsan lehűlhetünk; vegyünk fel egy szélálló réteget a lejtmenethez, hogy megvédjük magunkat a menetszéltől és a hidegtől.",
                 "ro": "Urcarea vă va încălzi, dar sus în ploaie vă puteți răci rapid; puneți un strat rezistent la vânt pentru coborâre pentru a vă proteja de vânt și de frigul umed.",
-                "en": "The climb will warm you up, but you can cool down quickly at the top in the rain; put on a windproof layer for the descent to protect yourself from the wind chill."
+                "en": "The climb will warm you up, but you can cool down quickly at the top in the rain; put on a windproof layer for the descent to protect yourself from the wind chill.",
+                "hr": "Uspon će vas zagrijati, ali se možete brzo ohladiti na vrhu u kiši; obucite vjetrootporan sloj za spust kako biste se zaštitili od hladnoće vjetra."
               }
             },
             {
@@ -561,13 +620,15 @@
                 "de": "Rat",
                 "hu": "Rat",
                 "ro": "Rat",
-                "en": "Rat"
+                "en": "Rat",
+                "hr": "Rat"
               },
               "tip_5lang": {
                 "de": "Vorsicht beim Abstellen des Rades auf felsigem Untergrund; der Boden ist glatt, suchen Sie eine ebene Fläche, damit das Rad nicht wegrutscht und beschädigt wird.",
                 "hu": "Vigyázzunk a kerékpár leállításakor a sziklás talajon; a föld csúszós, keressünk egy vízszintes felületet, hogy a bicikli ne csússzon el és ne sérüljön meg a köveken.",
                 "ro": "Aveți grijă când opriți bicicleta pe teren stâncos; solul este alunecos, căutați o suprafață plană pentru ca bicicleta să nu alunece și să nu se deterioreze pe pietre.",
-                "en": "Be careful when parking your bike on rocky ground; the terrain is slippery, so look for a level surface to prevent the bike from sliding and getting damaged."
+                "en": "Be careful when parking your bike on rocky ground; the terrain is slippery, so look for a level surface to prevent the bike from sliding and getting damaged.",
+                "hr": "Budite oprezni pri parkiranju bicikla na kamenitom tlu; teren je klizav, pa potražite ravnu površinu kako biste spriječili klizanje i oštećenje bicikla."
               }
             },
             {
@@ -575,13 +636,15 @@
                 "de": "Überreste der Peterskirche",
                 "hu": "Szent Péter-templom, romok",
                 "ro": "Biserica Sf. Petru, ruine",
-                "en": "Church of St. Peter, remains"
+                "en": "Church of St. Peter, remains",
+                "hr": "Crkva sv. Petra, ostaci"
               },
               "tip_5lang": {
                 "de": "Ein stimmungsvoller Abschluss der Tour; schieben Sie das Rad das letzte Stück, da das nasse Kopfsteinpflaster und die Wurzeln hier tückisch glatt sein können.",
                 "hu": "Hangulatos zárása a túrának; az utolsó szakaszon toljuk a kerékpárt, mert a nedves macskakövek és a gyökerek trükkösen csúszósak lehetnek az eső után.",
                 "ro": "O încheiere atmosferică a turului; pe ultima secțiune mergeți pe lângă bicicletă, deoarece pietrele umede și rădăcinile pot fi înșelător de alunecoase după ploaie.",
-                "en": "An atmospheric end to the tour; walk your bike for the last section as the wet cobblestones and roots can be treacherously slippery after the rain."
+                "en": "An atmospheric end to the tour; walk your bike for the last section as the wet cobblestones and roots can be treacherously slippery after the rain.",
+                "hr": "Atmosferičan kraj ture; vodite bicikl pješke za posljednji dio jer mokri kaldrma i korijeni mogu biti opasno sklizavi nakon kiše."
               }
             }
           ]
@@ -591,7 +654,8 @@
             "de": "An einem kühlen Wintermorgen wärmt das Treten schnell auf, aber Handschuhe und Mütze sind unerlässlich. Mittags sind bei strahlendem Sonnenschein wegen der klaren Luft sogar ferne Inseln gut zu sehen. Kehren Sie vor Sonnenuntergang ins Dorf zurück, da die Temperaturen rasch sinken. Am Abend signalisiert der Rauch der Kamine im ruhigen Molunat die Zeit für eine Pause.",
             "hu": "A hűvös téli reggelen a tekerés gyorsan felmelegít, de a kesztyű és a sapka elengedhetetlen. Délben a szikrázó napsütésben a tiszta levegő miatt a távoli szigetek is jól látszanak. Délután a naplemente előtt érjünk vissza a faluba, mert a hőmérséklet gyorsan csökken. Estére a csendes Molunatban a kandallók füstje jelzi a pihenés idejét.",
             "ro": "Într-o dimineață răcoroasă de iarnă, pedalatul vă încălzește rapid, dar mănușile și căciula sunt esențiale. La prânz, în soarele strălucitor, insulele îndepărtate sunt vizibile datorită aerului curat. Reveniți în sat înainte de apus, deoarece temperatura scade rapid. Seara, fumul coșurilor din Molunatul liniștit semnalează timpul pentru odihnă.",
-            "en": "On a cool winter morning, pedaling warms you up quickly, but gloves and a hat are essential. At noon, in the bright sunshine, even distant islands are clearly visible due to the clear air. Return to the village before sunset as temperatures drop rapidly. In the evening, the smoke from chimneys in quiet Molunat signals it's time to rest."
+            "en": "On a cool winter morning, pedaling warms you up quickly, but gloves and a hat are essential. At noon, in the bright sunshine, even distant islands are clearly visible due to the clear air. Return to the village before sunset as temperatures drop rapidly. In the evening, the smoke from chimneys in quiet Molunat signals it's time to rest.",
+            "hr": "U hladno zimsko jutro pedaliranje vas brzo ugrije, ali rukavice i kapa su nezaobilazni. U podne, na jakom suncu, čak su i udaljeni otoci jasno vidljivi zbog bistrog zraka. Vratite se u selo prije zalaska jer temperature brzo padaju. Uvečer dim iz dimnjaka u mirnom Molunatu znači da je vrijeme za odmor."
           },
           "stops": [
             {
@@ -599,13 +663,15 @@
                 "de": "Resnica",
                 "hu": "Resnica",
                 "ro": "Resnica",
-                "en": "Resnica"
+                "en": "Resnica",
+                "hr": "Resnica"
               },
               "tip_5lang": {
                 "de": "Ruhige Waldatmosphäre im Winter; achten Sie auf Frost in schattigen Straßenabschnitten, wo die Sonne den Asphalt den ganzen Tag über nicht erreicht und glätten kann.",
                 "hu": "Csendes erdei hangulat télen; figyeljünk a zúzmarára az út árnyékos szakaszain, ahol a nap egész nap nem éri el az aszfaltot, így az csúszós és jeges maradhat.",
                 "ro": "Atmosferă liniștită de pădure iarna; atenție la chiciură pe porțiunile umbrite de drum, unde soarele nu ajunge la asfalt toată ziua, lăsându-l alunecos și înghețat.",
-                "en": "Quiet forest atmosphere in winter; watch out for frost in shaded road sections where the sun doesn't reach the asphalt all day, potentially leaving it slippery and icy."
+                "en": "Quiet forest atmosphere in winter; watch out for frost in shaded road sections where the sun doesn't reach the asphalt all day, potentially leaving it slippery and icy.",
+                "hr": "Tih zimski šumski ugođaj; pazite na mraz u zasjenjenim dijelovima ceste gdje sunce ne dopire na asfalt cijeli dan, ostavljajući ga potencijalno skliskim i zaleđenim."
               }
             },
             {
@@ -613,13 +679,15 @@
                 "de": "Velika Obalica",
                 "hu": "Velika Obalica",
                 "ro": "Velika Obalica",
-                "en": "Velika Obalica"
+                "en": "Velika Obalica",
+                "hr": "Velika Obalica"
               },
               "tip_5lang": {
                 "de": "Der weite Horizont ist im Winter besonders scharf; tragen Sie eine Windjacke, um sich vor der kalten Brise zu schützen, während Sie den weiten Blick auf das offene Meer genießen.",
                 "hu": "A távoli horizont télen különösen éles; viseljünk szélkabátot, hogy megvédjük magunkat a hideg fuvallattól, miközben a nyílt tenger végtelen látványában gyönyörködünk.",
                 "ro": "Orizontul îndepărtat este deosebit de clar iarna; purtați o jachetă de vânt pentru a vă proteja de briza rece în timp ce admirați vederea nesfârșită a mării deschise.",
-                "en": "The distant horizon is especially sharp in winter; wear a windbreaker to protect yourself from the cold breeze while enjoying the endless view of the open sea here."
+                "en": "The distant horizon is especially sharp in winter; wear a windbreaker to protect yourself from the cold breeze while enjoying the endless view of the open sea here.",
+                "hr": "Udaljeni horizont posebno je oštar zimi; nosite vjetrovku da se zaštitite od hladnog povjetarca dok uživate u beskrajnom pogledu otvorenog mora."
               }
             },
             {
@@ -627,13 +695,15 @@
                 "de": "Sjedalica",
                 "hu": "Sjedalica",
                 "ro": "Sjedalica",
-                "en": "Sjedalica"
+                "en": "Sjedalica",
+                "hr": "Sjedalica"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie den windgeschützten Platz für einen warmen Snack; die Mittagssonne ist hier oft stark genug, um eine angenehme Pause ohne Auskühlen zu ermöglichen.",
                 "hu": "Használjuk ki a szélvédett helyet egy meleg tízóraira; a déli nap itt gyakran elég erős ahhoz, hogy kellemes pihenőt tartsunk anélkül, hogy túlságosan áthűlnénk.",
                 "ro": "Profită de locul ferit de vânt pentru o gustare caldă; soarele de la prânz este adesea suficient de puternic aici pentru a face o pauză plăcută fără a te răci prea tare.",
-                "en": "Take advantage of this wind-sheltered spot for a warm snack; the midday sun here is often strong enough to allow a pleasant break without cooling down too much."
+                "en": "Take advantage of this wind-sheltered spot for a warm snack; the midday sun here is often strong enough to allow a pleasant break without cooling down too much.",
+                "hr": "Iskoristite ovo zaštićeno mjesto od vjetra za topao zalogaj; podnevno sunce često je dovoljno jako da omogući ugodnu pauzu bez prevelikog hlađenja."
               }
             },
             {
@@ -641,13 +711,15 @@
                 "de": "Strašnjik",
                 "hu": "Strašnjik",
                 "ro": "Strašnjik",
-                "en": "Strašnjik"
+                "en": "Strašnjik",
+                "hr": "Strašnjik"
               },
               "tip_5lang": {
                 "de": "Die Panoramaaussicht ist im Winter durch die fehlende Feuchtigkeit in der Luft klarer; halten Sie Ihre Hände mit Winterhandschuhen warm, um die Bremsen sicher bedienen zu können.",
                 "hu": "A panoráma télen a levegő alacsony páratartalma miatt sokkal tisztább; tartsuk melegen a kezünket téli kesztyűvel, hogy a fékeket biztonságosan tudjuk kezelni a lejtőn.",
                 "ro": "Panorama este mult mai clară iarna datorită umidității scăzute din aer; păstrați-vă mâinile calde cu mănuși de iarnă pentru a putea opera frânele în siguranță pe coborâre.",
-                "en": "The panorama is much clearer in winter due to the low humidity in the air; keep your hands warm with winter gloves to operate the brakes safely on the descent."
+                "en": "The panorama is much clearer in winter due to the low humidity in the air; keep your hands warm with winter gloves to operate the brakes safely on the descent.",
+                "hr": "Panorama je zimi puno jasnija zbog niske vlažnosti zraka; držite ruke tople zimskim rukavicama da sigurno upravljate kočnicama na spustu."
               }
             },
             {
@@ -655,13 +727,15 @@
                 "de": "Kupičina glava",
                 "hu": "Kupičina glava",
                 "ro": "Kupičina glava",
-                "en": "Kupičina glava"
+                "en": "Kupičina glava",
+                "hr": "Kupičina glava"
               },
               "tip_5lang": {
                 "de": "Ein idealer Ort für Fotos mit dramatischem Licht; achten Sie bei der Abfahrt auf losen Splitt, der im Winter oft zur Streuung auf den Straßen verteilt wird.",
                 "hu": "Ideális hely drámai fényű fotókhoz; a lejtmenetnél figyeljünk az apró kavicsfelverődésekre, amelyeket télen gyakran szórnak az utakra a csúszásmentesítés érdekében.",
                 "ro": "Loc ideal pentru fotografii cu lumină dramatică; la coborâre, atenție la pietrișul fin care este adesea împrăștiat pe drumuri iarna pentru a preveni deraparea.",
-                "en": "An ideal place for photos with dramatic light; during the descent, watch out for loose grit which is often spread on the roads in winter to prevent slipping."
+                "en": "An ideal place for photos with dramatic light; during the descent, watch out for loose grit which is often spread on the roads in winter to prevent slipping.",
+                "hr": "Idealno mjesto za fotografije s dramatičnim svjetlom; tijekom spusta pazite na rasuti šljunak koji se često razasipa po cestama zimi kako bi se spriječilo proklizavanje."
               }
             },
             {
@@ -669,13 +743,15 @@
                 "de": "Rat",
                 "hu": "Rat",
                 "ro": "Rat",
-                "en": "Rat"
+                "en": "Rat",
+                "hr": "Rat"
               },
               "tip_5lang": {
                 "de": "Der tiefe Sonnenstand macht das Meer tiefblau; suchen Sie sich einen sonnigen Platz zwischen den Felsen für eine kurze Rast, bevor es zurück ins Dorf geht.",
                 "hu": "Az alacsony napállás mélykékre festi a tengert; keressünk egy napos helyet a sziklák között egy rövid pihenőre, mielőtt a hőmérséklet hirtelen zuhanni kezdene sötétedéskor.",
                 "ro": "Poziția joasă a soarelui colorează marea în albastru profund; căutați un loc însorit între stânci pentru o scurtă odihnă înainte ca temperatura să scadă la apus.",
-                "en": "The low sun position paints the sea a deep blue; find a sunny spot among the rocks for a short rest before the temperature starts to drop rapidly at sunset."
+                "en": "The low sun position paints the sea a deep blue; find a sunny spot among the rocks for a short rest before the temperature starts to drop rapidly at sunset.",
+                "hr": "Niska pozicija sunca boji more u duboku plavu; pronađite sunčano mjesto među stijenama za kratki odmor prije nego što temperatura počne brzo padati pri zalasku."
               }
             },
             {
@@ -683,13 +759,15 @@
                 "de": "Überreste der Peterskirche",
                 "hu": "Szent Péter-templom, romok",
                 "ro": "Biserica Sf. Petru, ruine",
-                "en": "Church of St. Peter, remains"
+                "en": "Church of St. Peter, remains",
+                "hr": "Crkva sv. Petra, ostaci"
               },
               "tip_5lang": {
                 "de": "Die Ruinen wirken im fahlen Winterlicht besonders geschichtsträchtig; beeilen Sie sich mit der Besichtigung, da es nach 16:30 Uhr schnell spürbar kälter wird.",
                 "hu": "A romok a bágyadt téli fényben különösen történelmi hangulatot árasztanak; siessünk a megtekintéssel, mert 16:30 után már érezhetően gyorsan hűl a levegő.",
                 "ro": "Ruinele emană o atmosferă istorică deosebită în lumina palidă de iarnă; grăbiți-vă cu vizitarea, deoarece după ora 16:30 aerul se răcește vizibil de repede.",
-                "en": "The ruins exude a particularly historical atmosphere in the pale winter light; hurry with your visit as it gets noticeably colder very quickly after 16:30."
+                "en": "The ruins exude a particularly historical atmosphere in the pale winter light; hurry with your visit as it gets noticeably colder very quickly after 16:30.",
+                "hr": "Ruševine odaju posebno povijesnu atmosferu u blijedom zimskom svjetlu; požurite s posjetom jer postaje znatno hladnije vrlo brzo nakon 16:30."
               }
             }
           ]
@@ -709,7 +787,8 @@
             "de": "Resnica",
             "hu": "Resnica",
             "ro": "Resnica",
-            "en": "Resnica"
+            "en": "Resnica",
+            "hr": "Resnica"
           },
           "coords": [
             18.423534,
@@ -724,7 +803,8 @@
             "de": "Beginnen Sie Ihr Abenteuer in Resnica, wo die unberührten Naturlandschaften eine erfrischende Flucht bieten, und wenn Sie früh ankommen, ist es besonders ruhig.",
             "hu": "Kezdje kalandját Resnicában, ahol a nyers, érintetlen természeti tájak frissítő menedéket nyújtanak, a korai érkezés pedig csendes élményt biztosít.",
             "ro": "Începeți aventura la Resnica, unde peisajele naturale neatinse oferă o evadare revigorantă, iar sosirea devreme asigură o experiență deosebit de liniștită.",
-            "en": "Start your adventure at Resnica, where the raw, untouched natural landscapes provide a refreshing escape, and arriving early ensures a quiet experience."
+            "en": "Start your adventure at Resnica, where the raw, untouched natural landscapes provide a refreshing escape, and arriving early ensures a quiet experience.",
+            "hr": "Započnite svoju avanturu u Resnici, gdje sirovi, netaknuti prirodni predjeli pružaju osvježavajuće utočište; dolazak rano osigurava mirno iskustvo."
           }
         },
         {
@@ -732,7 +812,8 @@
             "de": "Sjedalica",
             "hu": "Sjedalica",
             "ro": "Sjedalica",
-            "en": "Sjedalica"
+            "en": "Sjedalica",
+            "hr": "Sjedalica"
           },
           "coords": [
             18.454542,
@@ -747,7 +828,8 @@
             "de": "Entdecken Sie die ruhige natürliche Umgebung von Sjedalica, ideal für eine ruhige Pause inmitten der mediterranen Flora, also packen Sie Wasser und Snacks ein.",
             "hu": "Fedezze fel Sjedalica nyugodt természeti környezetét, amely ideális egy csendes pihenéshez a mediterrán növényvilág közepette, ezért vigyen magával vizet.",
             "ro": "Descoperiți mediul natural liniștit din Sjedalica, ideal pentru o odihnă tăcută printre flora mediteraneană, așa că luați apă și gustări pentru a vă bucura.",
-            "en": "Discover the tranquil natural environment of Sjedalica, ideal for a quiet rest amidst Mediterranean flora, so pack some water and snacks to fully enjoy it."
+            "en": "Discover the tranquil natural environment of Sjedalica, ideal for a quiet rest amidst Mediterranean flora, so pack some water and snacks to fully enjoy it.",
+            "hr": "Otkrijte mirno prirodno okruženje Sjedalice, idealno za tih odmor među mediteranskom florom; ponesite vode i grickalica da biste ga u potpunosti uživali."
           }
         },
         {
@@ -755,7 +837,8 @@
             "de": "Strašnjik",
             "hu": "Strašnjik",
             "ro": "Strašnjik",
-            "en": "Strašnjik"
+            "en": "Strašnjik",
+            "hr": "Strašnjik"
           },
           "coords": [
             18.459099,
@@ -770,7 +853,8 @@
             "de": "Spazieren Sie über die malerischen Naturpfade von Strašnjik, genießen Sie das üppige Grün und nutzen Sie GPS, da die Wege manchmal verwirrend sein können.",
             "hu": "Sétáljon végig Strašnjik festői ösvényein, élvezze a buja növényzetet, és használjon GPS-t, mivel az útvonalak néha egy kicsit zavaróak lehetnek.",
             "ro": "Plimbați-vă pe cărările naturale pitorești din Strašnjik, bucurându-vă de verdeață, și folosiți un GPS, deoarece traseele pot fi uneori confuze.",
-            "en": "Walk through the scenic natural paths of Strašnjik, enjoying the lush greenery and wildlife, and use a map or GPS as the trails can sometimes be confusing."
+            "en": "Walk through the scenic natural paths of Strašnjik, enjoying the lush greenery and wildlife, and use a map or GPS as the trails can sometimes be confusing.",
+            "hr": "Prošećite slikovitim prirodnim stazama Strašnjika, uživajući u bujnom zelenilu i divljim životinjama; koristite kartu ili GPS jer ponekad staze mogu biti zbunjujuće."
           }
         },
         {
@@ -778,7 +862,8 @@
             "de": "Veraja",
             "hu": "Veraja",
             "ro": "Veraja",
-            "en": "Veraja"
+            "en": "Veraja",
+            "hr": "Veraja"
           },
           "coords": [
             18.464703,
@@ -793,7 +878,8 @@
             "de": "Erleben Sie die abgeschiedene Schönheit von Veraja, einem versteckten Naturjuwel, das sich perfekt zur Kontemplation eignet, wobei Insektenschutzmittel empfohlen wird.",
             "hu": "Tapasztalja meg Veraja eldugott szépségét, egy rejtett természeti gyöngyszemet, amely tökéletes az elmélkedésre, ahol nyáron a rovarriasztó erősen ajánlott.",
             "ro": "Experimentați frumusețea retrasă din Veraja, o bijuterie naturală ascunsă perfectă pentru contemplare, unde repelentul de insecte este foarte recomandat.",
-            "en": "Experience the secluded beauty of Veraja, a hidden natural gem perfect for contemplation, where insect repellent is highly recommended during summer months."
+            "en": "Experience the secluded beauty of Veraja, a hidden natural gem perfect for contemplation, where insect repellent is highly recommended during summer months.",
+            "hr": "Iskusite odsutnu ljepotu Veraje, skrivenog prirodnog dragulja idealnog za kontemplaciju; tijekom ljetnih mjeseci snažno se preporučuje sredstvo protiv insekata."
           }
         },
         {
@@ -801,7 +887,8 @@
             "de": "Kupičina glava",
             "hu": "Kupičina glava",
             "ro": "Kupičina glava",
-            "en": "Kupičina glava"
+            "en": "Kupičina glava",
+            "hr": "Kupičina glava"
           },
           "coords": [
             18.44671,
@@ -816,7 +903,8 @@
             "de": "Genießen Sie den Panoramablick von Kupičina glava, einer ruhigen natürlichen Erhebung, und bringen Sie eine Windjacke mit, da die Küstenbrisen stark sein können.",
             "hu": "Gyönyörködjön a panorámában a Kupičina glava nyugodt természetes magaslatáról, és hozzon széldzsekit, mivel a parti szél itt elég erős lehet.",
             "ro": "Admirați priveliștile panoramice de pe Kupičina glava, o înălțime naturală senină, și aduceți o jachetă de vânt, deoarece briza de coastă poate fi puternică.",
-            "en": "Take in the panoramic views from Kupičina glava, a serene natural elevation, and bring a windbreaker as the coastal breezes can be quite strong here."
+            "en": "Take in the panoramic views from Kupičina glava, a serene natural elevation, and bring a windbreaker as the coastal breezes can be quite strong here.",
+            "hr": "Uživajte u panoramskim pogledima s Kupičine glave, mirnog uzvišenja u prirodi, i ponesite vjetrovku jer su ovdje obalni povjetarci često jaki."
           }
         },
         {
@@ -824,7 +912,8 @@
             "de": "Rat",
             "hu": "Rat",
             "ro": "Rat",
-            "en": "Rat"
+            "en": "Rat",
+            "hr": "Rat"
           },
           "coords": [
             18.44119,
@@ -839,7 +928,8 @@
             "de": "Genießen Sie die raue Schönheit der natürlichen Küstenlinie der Halbinsel Rat, ideal für ruhige Fotografie, aber achten Sie auf die scharfen Felsen.",
             "hu": "Élvezze a Rat-félsziget természetes partvonalának zord szépségét, amely tökéletes a fotózáshoz, de vigyázzon a víz melletti éles sziklákkal.",
             "ro": "Bucurați-vă de frumusețea aspră a coastei naturale a peninsulei Rat, perfectă pentru fotografii liniștite, dar aveți grijă la stâncile ascuțite de lângă apă.",
-            "en": "Enjoy the rugged beauty of the Rat peninsula's natural coastline, perfect for peaceful photography, but be cautious of the sharp rocks near the water."
+            "en": "Enjoy the rugged beauty of the Rat peninsula's natural coastline, perfect for peaceful photography, but be cautious of the sharp rocks near the water.",
+            "hr": "Uživajte u gruboj ljepoti prirodne obale poluotoka Rat, idealno za mirno fotografiranje, ali pazite na oštre stijene blizu vode."
           }
         },
         {
@@ -847,7 +937,8 @@
             "de": "Überreste der Peterskirche",
             "hu": "Szent Péter-templom, romok",
             "ro": "Biserica Sf. Petru, ruine",
-            "en": "Church of St. Peter, remains"
+            "en": "Church of St. Peter, remains",
+            "hr": "Church of St. Peter, remains"
           },
           "coords": [
             18.435209,
@@ -862,7 +953,8 @@
             "de": "Erkunden Sie die alten Überreste der Peterskirche, um einen Blick in die reiche mittelalterliche Vergangenheit zu werfen, und tragen Sie festes Schuhwerk.",
             "hu": "Fedezze fel a Szent Péter-templom ősi romjait, amelyek bepillantást engednek a gazdag középkori múltba, és viseljen masszív cipőt az egyenetlen terep miatt.",
             "ro": "Explorați ruinele antice ale Bisericii Sf. Petru pentru o privire asupra trecutului medieval bogat și purtați încălțăminte rezistentă pe terenul accidentat.",
-            "en": "Explore the ancient remains of St. Peter's Church for a glimpse into the region's rich medieval past, and wear sturdy shoes for the uneven terrain."
+            "en": "Explore the ancient remains of St. Peter's Church for a glimpse into the region's rich medieval past, and wear sturdy shoes for the uneven terrain.",
+            "hr": "Istražite drevne ostatke crkve sv. Petra za uvid u bogatu srednjovjekovnu prošlost regije; nosite čvrstu obuću zbog neravnog terena."
           }
         }
       ],
@@ -870,7 +962,8 @@
         "de": "Der Morgen beginnt mit den beruhigenden Klängen der Adria, während Sie bequem zu den Küstenpfaden und Naturschutzgebieten entlang der bezaubernden Küste von Molunat fahren.\nAm Mittag führt Sie Ihre Reise tiefer in das üppige mediterrane Grün und bietet einen Panoramablick auf die rauen Halbinseln und kristallklaren Buchten.\nDer Nachmittag wird damit verbracht, versteckte erhöhte Aussichtspunkte und abgeschiedene Naturjuwelen zu entdecken, ideal für atemberaubende Fotografien.\nDer Abend bricht sanft herein, wenn Sie die alten Ruinen am Wasserlauf erkunden und zusehen, wie der Sonnenuntergang den Himmel über den steinernen Überresten färbt.",
         "hu": "A reggel az Adriai-tenger nyugtató hangjaival kezdődik, miközben kényelmesen elautózik Molunat bájos partvonalának parti ösvényeihez és varázslatos természetvédelmi területeihez.\nDélben az utazás mélyebbre vezet a buja mediterrán növényzetbe, panorámás kilátást nyújtva a zord félszigetekre és a kristálytiszta öblökre.\nA délutánt rejtett, magaslati kilátópontok és eldugott természeti kincsek felfedezésével tölti, amelyek tökéletesek lélegzetelállító tengerparti fényképek készítéséhez.\nAz este kecsesen beköszönt, ahogy felfedezi az ősi romokat a vízparton, és nézi, ahogy a naplemente csodás színekkel festi meg az eget a történelmi kőmaradványok felett.",
         "ro": "Dimineața începe cu sunetele liniștitoare ale Mării Adriatice, conducând confortabil spre potecile de coastă și rezervațiile naturale de-a lungul fermecătorului țărm din Molunat.\nLa prânz, călătoria vă poartă mai adânc în vegetația luxuriantă mediteraneană, oferind priveliști panoramice asupra peninsulelor stâncoase și golfurilor cristaline.\nDupă-amiaza este dedicată descoperirii unor puncte de belvedere înalte și a unor bijuterii naturale ascunse, perfecte pentru fotografii uluitoare cu coasta croată.\nSeara se instalează grațios, în timp ce descoperiți ruinele antice din apropierea apei, privind cum apusul pictează cerul deasupra vestigiilor istorice din piatră.",
-        "en": "Morning begins with the soothing sounds of the Adriatic Sea as you comfortably drive to the coastal paths and natural reserves along Molunat's charming shoreline.\nBy midday, your journey takes you deeper into the lush Mediterranean greenery, offering panoramic views of the rugged peninsulas and crystal-clear bays.\nAfternoon is spent discovering hidden elevated viewpoints and secluded natural gems, perfect for capturing breathtaking photographs of the Croatian coastline.\nEvening gracefully settles in as you uncover the ancient ruins near the water's edge, watching the sunset paint the sky over the historical stone remnants."
+        "en": "Morning begins with the soothing sounds of the Adriatic Sea as you comfortably drive to the coastal paths and natural reserves along Molunat's charming shoreline.\nBy midday, your journey takes you deeper into the lush Mediterranean greenery, offering panoramic views of the rugged peninsulas and crystal-clear bays.\nAfternoon is spent discovering hidden elevated viewpoints and secluded natural gems, perfect for capturing breathtaking photographs of the Croatian coastline.\nEvening gracefully settles in as you uncover the ancient ruins near the water's edge, watching the sunset paint the sky over the historical stone remnants.",
+        "hr": "Jutro započinje umirujućim zvukovima Jadranskog mora dok udobno vozite uz obalne staze i prirodne rezervate duž šarmantne obale Molunata. U podne vas put vodi dublje u bujno mediteransko zelenilo, s panoramskim pogledima na razdrapane rtove i kristalno čiste uvale. Poslijepodne provodite otkrivajući skrivene uzvisine i osamljene prirodne dragulje, savršene za snimanje zadivljujućih fotografija hrvatske obale. Večer se graciozno spušta dok otkrivate drevne ruševine uz obalu i promatrate zalazak sunca kako boji nebo iznad povijesnih kamenih ostataka."
       },
       "variants": {
         "rainy": {
@@ -878,7 +971,8 @@
             "de": "Am Morgen erkunden Sie bei rhythmischen Scheibenwischern die versteckten Küstenstraßen. Mittags bietet das Spiel der Wolken über dem Meer von den Anhöhen aus einen dramatischen Anblick aus dem Autofenster. Machen Sie nachmittags kurze Spaziergänge zu den Aussichtspunkten, halten Sie immer einen Regenschirm bereit. Abends führen die glitzernden Lichter den Weg zurück ins Dorf.",
             "hu": "Reggel az ablaktörlők ütemes mozgása mellett fedezzük fel a part menti rejtett utakat. Délben a magaslati pontokon a felhők játéka a tenger felett drámai látványt nyújt az autó ablakából. Délután rövid sétákat tegyünk a kilátókhoz, mindig legyen kéznél egy esernyő. Este a vizes úton csillogó fények vezetik utunkat vissza a falu központjába.",
             "ro": "Dimineața, în ritmul ștergătoarelor, explorați drumurile ascunse de coastă. La prânz, jocul norilor peste mare oferă o priveliște dramatică de pe înălțimi, direct de la geamul mașinii. După-amiaza faceți plimbări scurte la punctele de belvedere, cu umbrela la îndemână. Seara, luminile sclipitoare de pe drumul ud vă ghidează înapoi în sat.",
-            "en": "In the morning, explore the hidden coastal roads to the rhythmic movement of the windshield wipers. At noon, the play of clouds over the sea provides a dramatic sight from the car window at elevated points. In the afternoon, take short walks to the viewpoints, always keeping an umbrella handy. By evening, glittering lights guide your way back to the village."
+            "en": "In the morning, explore the hidden coastal roads to the rhythmic movement of the windshield wipers. At noon, the play of clouds over the sea provides a dramatic sight from the car window at elevated points. In the afternoon, take short walks to the viewpoints, always keeping an umbrella handy. By evening, glittering lights guide your way back to the village.",
+            "hr": "Ujutro istražujte skrivene obalne ceste uz ritmično kretanje brisača vjetrobranskog stakla. U podne oblak koji se nadvija nad morem pruža dramatičan prizor kroz prozor automobila s uzvisina. Poslijepodne napravite kratke šetnje do vidikovaca, uvijek imajte kišobran pri ruci. Navečer vas blistava svjetla vode natrag u selo."
           },
           "stops": [
             {
@@ -886,13 +980,15 @@
                 "de": "Resnica",
                 "hu": "Resnica",
                 "ro": "Resnica",
-                "en": "Resnica"
+                "en": "Resnica",
+                "hr": "Resnica"
               },
               "tip_5lang": {
                 "de": "Genießen Sie das satte Grün des Waldes vom Auto aus; Vorsicht beim Parken auf unbefestigten Seitenstreifen, da diese bei Regen aufweichen und rutschig sein können.",
                 "hu": "Élvezzük az erdő buja zöld színeit az autó kényelméből; vigyázzunk a parkolással a burkolatlan útpadkán, mert az esőben felázhat és az autó kerekei könnyen elakadhatnak.",
                 "ro": "Bucurați-vă de verdele crud al pădurii din mașină; atenție la parcarea pe acostamentele neasfaltate, deoarece se pot înmuia la ploaie și roțile pot rămâne blocate.",
-                "en": "Enjoy the lush green colors of the forest from the comfort of your car; be careful when parking on unpaved shoulders as they can soften in the rain and cause tires to stick."
+                "en": "Enjoy the lush green colors of the forest from the comfort of your car; be careful when parking on unpaved shoulders as they can soften in the rain and cause tires to stick.",
+                "hr": "Uživajte u bujnoj zelenoj boji šume iz udobnosti automobila; pazite pri parkiranju na neasfaltirane bankine jer se mogu omekšati na kiši i uzrokovati zaglavljivanje guma."
               }
             },
             {
@@ -900,13 +996,15 @@
                 "de": "Sjedalica",
                 "hu": "Sjedalica",
                 "ro": "Sjedalica",
-                "en": "Sjedalica"
+                "en": "Sjedalica",
+                "hr": "Sjedalica"
               },
               "tip_5lang": {
                 "de": "Ein kurzer Sprint zum Aussichtspunkt lohnt sich auch im Regen; halten Sie ein Handtuch im Auto bereit, um sich nach der Rückkehr vom nassen Aussichtspunkt abzutrocknen.",
                 "hu": "Egy rövid futás a kilátóponthoz esőben is megéri a látványért; tartsunk egy törölközőt az autóban, hogy megszárítkozhassunk, miután visszatértünk a vizes pihenőhelyről.",
                 "ro": "O scurtă fugă până la punctul de belvedere merită chiar și pe ploaie; țineți un prosop în mașină pentru a vă usca după ce reveniți de la locul de odihnă umed.",
-                "en": "A quick dash to the viewpoint is worth it even in the rain for the scenery; keep a towel in the car to dry off after returning from the wet resting spot."
+                "en": "A quick dash to the viewpoint is worth it even in the rain for the scenery; keep a towel in the car to dry off after returning from the wet resting spot.",
+                "hr": "Brza utrka do vidikovca isplati se čak i po kiši zbog krajolika; držite ručnik u autu da se osušite nakon povratka s mokrog odmorišta."
               }
             },
             {
@@ -914,13 +1012,15 @@
                 "de": "Strašnjik",
                 "hu": "Strašnjik",
                 "ro": "Strašnjik",
-                "en": "Strašnjik"
+                "en": "Strašnjik",
+                "hr": "Strašnjik"
               },
               "tip_5lang": {
                 "de": "Die Wolkenstimmung über der Bucht ist vom Parkplatz aus herrlich zu beobachten; nutzen Sie die Zeit für Fotos aus dem trockenen Inneren des Fahrzeugs bei geöffnetem Fenster.",
                 "hu": "Az öböl feletti felhőjáték a parkolóból is nagyszerűen megfigyelhető; használjuk ki az időt a fotózásra az autó száraz belsejéből, csak résnyire lehúzott ablak mellett.",
                 "ro": "Jocul norilor deasupra golfului poate fi observat excelent din parcare; profitați de timp pentru fotografii din interiorul uscat al mașinii, cu fereastra doar puțin coborâtă.",
-                "en": "The cloud play over the bay can be observed brilliantly from the parking area; take the time for photos from the dry interior of the car with the window only slightly lowered."
+                "en": "The cloud play over the bay can be observed brilliantly from the parking area; take the time for photos from the dry interior of the car with the window only slightly lowered.",
+                "hr": "Igru oblaka nad uvalom možete sjajno promatrati s parkirališta; odvojite vrijeme za fotografije iz suhog interijera auta s prozorom samo lagano spuštenim."
               }
             },
             {
@@ -928,13 +1028,15 @@
                 "de": "Veraja",
                 "hu": "Veraja",
                 "ro": "Veraja",
-                "en": "Veraja"
+                "en": "Veraja",
+                "hr": "Veraja"
               },
               "tip_5lang": {
                 "de": "Die Küstenstraße kann bei starkem Regen kleine Sturzbäche führen; fahren Sie vorsichtig und achten Sie auf Steine, die vom Hang auf die Fahrbahn gespült worden sein könnten.",
                 "hu": "A tengerparti úton heves esőzéskor kisebb vízátfolyások alakulhatnak ki; vezessünk óvatosan, és figyeljünk a kövekre, amelyeket a domboldalról sodorhatott az útra a víz.",
                 "ro": "Pe drumul de coastă pot apărea mici șuvoaie de apă în timpul ploilor abundente; conduceți cu atenție și fiți atenți la pietrele care ar fi putut fi aduse pe drum de pe versant.",
-                "en": "Small water flows can form on the coastal road during heavy rain; drive carefully and watch out for stones that might have been washed onto the road from the hillside."
+                "en": "Small water flows can form on the coastal road during heavy rain; drive carefully and watch out for stones that might have been washed onto the road from the hillside.",
+                "hr": "Male vodene struje mogu se formirati na obalnoj cesti tijekom obilne kiše; vozite oprezno i pazite na kamenje koje je moglo biti oprano na cestu s kosine."
               }
             },
             {
@@ -942,13 +1044,15 @@
                 "de": "Kupičina glava",
                 "hu": "Kupičina glava",
                 "ro": "Kupičina glava",
-                "en": "Kupičina glava"
+                "en": "Kupičina glava",
+                "hr": "Kupičina glava"
               },
               "tip_5lang": {
                 "de": "Vom höchsten Punkt der Straße haben Sie einen tollen Blick auf die regnerische Landschaft; lassen Sie die Scheibenheizung laufen, damit die Sicht nach draußen klar bleibt.",
                 "hu": "Az út legmagasabb pontjáról remek kilátás nyílik az eső áztatta tájra; járassuk a szélvédőfűtést, hogy az ablakok ne párásodjanak be, és a kilátás tiszta maradjon kifelé.",
                 "ro": "Din cel mai înalt punct al drumului aveți o vedere excelentă asupra peisajului ploios; lăsați dezaburirea pornită pentru ca geamurile să nu se aburească și vederea să rămână clară.",
-                "en": "From the highest point of the road, you have a great view of the rain-soaked landscape; keep the defroster running so the windows don't fog up and the view stays clear."
+                "en": "From the highest point of the road, you have a great view of the rain-soaked landscape; keep the defroster running so the windows don't fog up and the view stays clear.",
+                "hr": "S najviše točke ceste imate izvrstan pogled na kišom natopljeni krajolik; držite odmrzivač na ventilaciji kako se prozori ne bi zamaglili i pogled ostao jasan."
               }
             },
             {
@@ -956,13 +1060,15 @@
                 "de": "Rat",
                 "hu": "Rat",
                 "ro": "Rat",
-                "en": "Rat"
+                "en": "Rat",
+                "hr": "Rat"
               },
               "tip_5lang": {
                 "de": "Der Weg zum Kap kann bei Regen matschig sein; parken Sie das Auto so, dass Sie beim Aussteigen nicht direkt in eine tiefe Pfütze oder in den weichen Schlamm treten müssen.",
                 "hu": "A fokhoz vezető út esőben saras lehet; úgy parkoljunk az autóval, hogy kiszálláskor ne közvetlenül egy mély tócsába vagy a puha sárba kelljen lépnünk a keskeny úton.",
                 "ro": "Drumul spre capătul falezei poate fi noroios; parcați mașina astfel încât la coborâre să nu trebuiască să călcați direct într-o baltă adâncă sau în noroiul moale de pe margine.",
-                "en": "The path to the point can be muddy in the rain; park the car so that when getting out, you don't have to step directly into a deep puddle or soft mud on the narrow road."
+                "en": "The path to the point can be muddy in the rain; park the car so that when getting out, you don't have to step directly into a deep puddle or soft mud on the narrow road.",
+                "hr": "Put do rta može biti blatnjav po kiši; parkirajte automobil tako da izlaskom ne morate stati izravno u duboku lokvu ili meko blato na uskoj cesti."
               }
             },
             {
@@ -970,13 +1076,15 @@
                 "de": "Überreste der Peterskirche",
                 "hu": "Szent Péter-templom, romok",
                 "ro": "Biserica Sf. Petru, ruine",
-                "en": "Church of St. Peter, remains"
+                "en": "Church of St. Peter, remains",
+                "hr": "Church of St. Peter, remains"
               },
               "tip_5lang": {
                 "de": "Ein kurzer Besuch der Ruinen mit dem Regenschirm ist sehr atmosphärisch; achten Sie auf die Scheinwerfereinstellung bei der Rückfahrt durch den Regen am Abend.",
                 "hu": "A romok rövid meglátogatása esernyővel nagyon hangulatos lehet; figyeljünk a fényszórók beállítására és a látási viszonyokra az esti esőben való visszatéréskor.",
                 "ro": "O scurtă vizită la ruine cu umbrela poate fi foarte atmosferică; atenție la reglarea farurilor și la vizibilitate la întoarcerea prin ploaia de seară spre sat.",
-                "en": "A short visit to the ruins with an umbrella can be very atmospheric; pay attention to headlight settings and visibility when returning through the evening rain to the village."
+                "en": "A short visit to the ruins with an umbrella can be very atmospheric; pay attention to headlight settings and visibility when returning through the evening rain to the village.",
+                "hr": "Kratki posjet ruševinama s kišobranom može biti vrlo atmosferičan; obratite pozornost na postavke svjetala i vidljivost pri povratku kroz večernju kišu u selo."
               }
             }
           ]
@@ -986,7 +1094,8 @@
             "de": "Aus dem Komfort des beheizten Autos können Sie die wilde und raue Schönheit der winterlichen Adria bewundern. Mittags können Sie in den sonnigen Buchten an windgeschützten Stellen für einen kurzen Spaziergang an die frische Luft aussteigen. Nachmittags strahlen die Pastellfarben der Landschaft in der frühen Dämmerung eine malerische Stimmung aus. Abends laden die warmen Lichter der Häuser ein.",
             "hu": "A fűtött autó kényelméből csodálhatjuk a téli Adria vad és nyers szépségét. Délben a napsütötte öblökben a szélvédett helyeken akár egy rövid sétára is kiszállhatunk a friss levegőre. Délután a korai szürkületben a táj pasztellszínei festői hangulatot árasztanak. Este a falusi házakból kiszűrődő meleg fények és a csend hívogatnak a pihenésre.",
             "ro": "Din confortul mașinii încălzite, puteți admira frumusețea sălbatică și crudă a Adriaticii de iarnă. La prânz, în golfurile însorite, puteți coborî pentru o scurtă plimbare în aer liber în locurile ferite de vânt. După-amiaza, culorile pastelate ale peisajului în amurgul timpuriu emană o stare pitorească. Seara, luminile calde ale caselor vă invită la odihnă.",
-            "en": "From the comfort of a heated car, admire the wild and raw beauty of the winter Adriatic. At noon, in sunny bays, you can step out for a short walk in the fresh air in wind-sheltered spots. In the afternoon, the landscape's pastel colors in the early twilight radiate a picturesque mood. In the evening, warm lights from the village houses invite you to rest."
+            "en": "From the comfort of a heated car, admire the wild and raw beauty of the winter Adriatic. At noon, in sunny bays, you can step out for a short walk in the fresh air in wind-sheltered spots. In the afternoon, the landscape's pastel colors in the early twilight radiate a picturesque mood. In the evening, warm lights from the village houses invite you to rest.",
+            "hr": "Iz udobnosti grijanim autom možete se diviti divljoj i sirovoj ljepoti zimskog Jadrana. U podne, u sunčanim uvalama, možete izaći na kratku šetnju na vjetrootporne lokacije. Poslijepodne pastelne boje krajolika u ranoj sumraku zrače slikovitim ugođajem. Navečer topla svjetla iz seoskih kuća pozivaju na odmor."
           },
           "stops": [
             {
@@ -994,13 +1103,15 @@
                 "de": "Resnica",
                 "hu": "Resnica",
                 "ro": "Resnica",
-                "en": "Resnica"
+                "en": "Resnica",
+                "hr": "Resnica"
               },
               "tip_5lang": {
                 "de": "Die kahleren Bäume lassen im Winter mehr Licht in den Wald fallen; prüfen Sie vor der Abfahrt den Reifendruck, da dieser bei sinkenden Temperaturen oft leicht nachlassen kann.",
                 "hu": "A kopárabb fák között télen több fény jut be az erdőbe; indulás előtt ellenőrizzük a keréknyomást, mert a süllyedő hőmérséklet miatt az gyakran némileg lecsökkenhet.",
                 "ro": "Copacii golași lasă mai multă lumină să pătrundă în pădure iarna; înainte de plecare, verificați presiunea în anvelope, deoarece scade adesea odată cu temperatura.",
-                "en": "The barer trees allow more light into the forest in winter; check your tire pressure before leaving, as it can often drop slightly with the falling temperatures."
+                "en": "The barer trees allow more light into the forest in winter; check your tire pressure before leaving, as it can often drop slightly with the falling temperatures.",
+                "hr": "Rastresitije krošnje dopuštaju više svjetla u šumu zimi; provjerite tlak u gumama prije polaska, jer se često blago snizi pri padanju temperatura."
               }
             },
             {
@@ -1008,13 +1119,15 @@
                 "de": "Sjedalica",
                 "hu": "Sjedalica",
                 "ro": "Sjedalica",
-                "en": "Sjedalica"
+                "en": "Sjedalica",
+                "hr": "Sjedalica"
               },
               "tip_5lang": {
                 "de": "Die Wintersonne wärmt die Felsen hier angenehm auf; ein idealer Ort, um kurz aus dem Auto zu steigen und die tiefblaue Farbe des Meeres ohne sommerlichen Dunst zu bewundern.",
                 "hu": "A téli nap kellemesen felmelegíti itt a sziklákat; ideális hely, hogy kiszálljunk az autóból és megcsodáljuk a tenger mélykék színét, amely ilyenkor a legtisztább.",
                 "ro": "Soarele de iarnă încălzește plăcut stâncile aici; un loc ideal pentru a coborî din mașină și a admira culoarea albastru profund a mării, care este cea mai clară acum.",
-                "en": "The winter sun warms the rocks here pleasantly; an ideal place to step out of the car and admire the deep blue color of the sea, which is clearest at this time of year."
+                "en": "The winter sun warms the rocks here pleasantly; an ideal place to step out of the car and admire the deep blue color of the sea, which is clearest at this time of year.",
+                "hr": "Zimsko sunce ovdje ugodno grije stijene; idealno mjesto da izađete iz auta i divite se duboko plavoj boji mora, koja je najčistija u ovo doba godine."
               }
             },
             {
@@ -1022,13 +1135,15 @@
                 "de": "Strašnjik",
                 "hu": "Strašnjik",
                 "ro": "Strašnjik",
-                "en": "Strašnjik"
+                "en": "Strašnjik",
+                "hr": "Strašnjik"
               },
               "tip_5lang": {
                 "de": "Vom Parkplatz aus haben Sie im Winter eine ungehinderte Sicht auf die fernen Berge; halten Sie eine warme Jacke griffbereit, da der Wind hier oben deutlich kälter weht.",
                 "hu": "A parkolóból télen zavartalan kilátás nyílik a távoli hegyekre; tartsunk egy meleg kabátot kéznél az autóban, mert a szél itt fent jóval hidegebben fúj, mint a faluban.",
                 "ro": "Din parcare aveți o vedere neobstrucționată spre munții îndepărtați iarna; țineți o jachetă caldă la îndemână, deoarece vântul suflă mult mai rece aici sus decât în sat.",
-                "en": "From the parking area, you have an unobstructed view of the distant mountains in winter; keep a warm jacket handy as the wind blows much colder up here than in the village."
+                "en": "From the parking area, you have an unobstructed view of the distant mountains in winter; keep a warm jacket handy as the wind blows much colder up here than in the village.",
+                "hr": "S parkirališta imate neometan pogled na udaljene planine zimi; imajte pri ruci toplu jaknu jer vjetar gore puše znatno hladnije nego u selu."
               }
             },
             {
@@ -1036,13 +1151,15 @@
                 "de": "Veraja",
                 "hu": "Veraja",
                 "ro": "Veraja",
-                "en": "Veraja"
+                "en": "Veraja",
+                "hr": "Veraja"
               },
               "tip_5lang": {
                 "de": "Die felsige Küste wirkt im harten Winterlicht fast surreal schön; nutzen Sie das weiche Licht der tiefstehenden Sonne am frühen Nachmittag für beeindruckende Landschaftsfotos.",
                 "hu": "A sziklás part a kemény téli fényben szinte szürreálisan szép; használjuk ki a kora délutáni alacsony napállás puha fényeit a lenyűgöző tájképek készítéséhez az út mentén.",
                 "ro": "Coasta stâncoasă arată aproape ireal de frumoasă în lumina aspră de iarnă; folosiți lumina moale a soarelui de după-amiază devreme pentru fotografii de peisaj uimitoare.",
-                "en": "The rocky coast looks almost surreally beautiful in the harsh winter light; use the soft light of the low sun in the early afternoon for stunning landscape photos along the road."
+                "en": "The rocky coast looks almost surreally beautiful in the harsh winter light; use the soft light of the low sun in the early afternoon for stunning landscape photos along the road.",
+                "hr": "Stjenovita obala izgleda gotovo nadrealno lijepo u oštrom zimskom svjetlu; iskoristite mekano svjetlo niskog sunca u ranom popodnevu za zadivljujuće pejzažne fotografije uz cestu."
               }
             },
             {
@@ -1050,13 +1167,15 @@
                 "de": "Kupičina glava",
                 "hu": "Kupičina glava",
                 "ro": "Kupičina glava",
-                "en": "Kupičina glava"
+                "en": "Kupičina glava",
+                "hr": "Kupičina glava"
               },
               "tip_5lang": {
                 "de": "Die kurvenreiche Straße erfordert bei eventuellem Glatteis erhöhte Aufmerksamkeit; schalten Sie bei der Abfahrt in einen niedrigeren Gang, um die Motorbremse sicher zu nutzen.",
                 "hu": "A kanyargós út télen fokozott figyelmet igényel az esetleges jegesedés miatt; használjunk alacsonyabb sebességfokozatot és motorféket a biztonságos lejtmenet érdekében.",
                 "ro": "Drumul sinuos necesită o atenție sporită iarna din cauza posibilei gheațe; folosiți o treaptă de viteză inferioară și frâna de motor pentru o coborâre sigură pe serpentine.",
-                "en": "The winding road requires increased attention in winter due to potential icing; use a lower gear and engine braking for a safe descent on the serpentine sections."
+                "en": "The winding road requires increased attention in winter due to potential icing; use a lower gear and engine braking for a safe descent on the serpentine sections.",
+                "hr": "Zavojita cesta zahtijeva pojačanu pažnju zimi zbog mogućeg poledice; koristite niži stupanj prijenosa i kočenje motorom za siguran spust na serpentinama."
               }
             },
             {
@@ -1064,13 +1183,15 @@
                 "de": "Rat",
                 "hu": "Rat",
                 "ro": "Rat",
-                "en": "Rat"
+                "en": "Rat",
+                "hr": "Rat"
               },
               "tip_5lang": {
                 "de": "Die Brandung am Kap ist im Winter oft kraftvoller; genießen Sie das Schauspiel vom Auto aus, bevor das Licht gegen 16:30 Uhr zu schwinden beginnt und es kühler wird.",
                 "hu": "A hullámverés a foknál télen gyakran erőteljesebb; élvezzük a látványt az autóból, mielőtt a fények 16:30 körül halványulni kezdenek és a hőmérséklet hirtelen visszaesik.",
                 "ro": "Valurile la capătul falezei sunt adesea mai puternice iarna; bucurați-vă de spectacol din mașină înainte ca lumina să scadă în jur de 16:30 și să se facă mult mai frig.",
-                "en": "The surf at the point is often more powerful in winter; enjoy the spectacle from the car before the light begins to fade around 16:30 and the temperature drops sharply."
+                "en": "The surf at the point is often more powerful in winter; enjoy the spectacle from the car before the light begins to fade around 16:30 and the temperature drops sharply.",
+                "hr": "Pjena mora na rtu često je snažnija zimi; uživajte u prizoru iz auta prije nego što svjetlost počne blijedjeti oko 16:30 i temperatura naglo padne."
               }
             },
             {
@@ -1078,13 +1199,15 @@
                 "de": "Überreste der Peterskirche",
                 "hu": "Szent Péter-templom, romok",
                 "ro": "Biserica Sf. Petru, ruine",
-                "en": "Church of St. Peter, remains"
+                "en": "Church of St. Peter, remains",
+                "hr": "Church of St. Peter, remains"
               },
               "tip_5lang": {
                 "de": "Ein schöner Ort, um den Tag bei Sonnenuntergang zu beenden; stellen Sie sicher, dass Ihre Autobatterie fit ist, da die Kälte sie im Winter stärker beanspruchen kann.",
                 "hu": "Szép hely a nap befejezésére a téli naplementében; győződjünk meg róla, hogy az autó akkumulátora jó állapotban van, mert a hideg jobban igénybe veheti a téli napokon.",
                 "ro": "Un loc frumos pentru a încheia ziua la apusul de iarnă; asigurați-vă că bateria mașinii este în stare bună, deoarece frigul o poate solicita mai mult în zilele de iarnă.",
-                "en": "A beautiful place to end the day at winter sunset; make sure your car battery is in good condition, as the cold can put more strain on it during short winter trips."
+                "en": "A beautiful place to end the day at winter sunset; make sure your car battery is in good condition, as the cold can put more strain on it during short winter trips.",
+                "hr": "Lijepo mjesto za završetak dana pri zimskom zalasku sunca; provjerite je li akumulator vašeg automobila u dobrom stanju jer hladnoća može dodatno opteretiti bateriju tijekom kratkih zimskih izleta."
               }
             }
           ]

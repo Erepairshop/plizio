@@ -51,7 +51,7 @@
             "hu": "Igyál egy kávét az öreg platánok alatt.",
             "ro": "Savurați o cafea sub platanii vechi.",
             "en": "Enjoy a coffee under the old plane trees.",
-            "hr": "Uživajte u kavi ispod starih platana."
+            "hr": "Uživajte u kavi pod starim platana."
           }
         },
         {
@@ -70,7 +70,7 @@
             "hu": "Csodáld meg a 19. századi homlokzatot.",
             "ro": "Admirați fațada din secolul al XIX-lea.",
             "en": "Admire the 19th-century facade.",
-            "hr": "Divite se fasadi iz 19. stoljeća."
+            "hr": "Divite se pročelju iz 19. stoljeća."
           }
         },
         {
@@ -108,7 +108,7 @@
             "hu": "Történelmi csillagvizsgáló a központban.",
             "ro": "Observatorul istoric din centrul orașului.",
             "en": "Historical observatory in the town center.",
-            "hr": "Povijesna zvjezdarnica u centru mjesta."
+            "hr": "Povijesna opservatorija u središtu grada."
           }
         },
         {
@@ -127,7 +127,7 @@
             "hu": "Kérj egy pohár helyi malvaziját.",
             "ro": "Comandați un pahar de Malvazija locală.",
             "en": "Order a glass of local Malvazija wine.",
-            "hr": "Naručite čašu lokalne Malvazije."
+            "hr": "Naručite čašu lokalne malvazije."
           }
         },
         {
@@ -155,7 +155,7 @@
         "hu": "Višnjan nyugalommal és isztriai bájjal fogadja az utazót. A reggel a történelmi ložánál és a főtéren indul, ahol a kőépületekben ma is él a velencei örökség. Délben a helyi konobák szarvasgombás illata és a házi tészta csábít pihenőre. A délután a tudományé: látogatás a világhírű csillagvizsgálóban, majd a napot egy pohár borral zárjuk, miközben az isztriai dombok látványában gyönyörködünk.",
         "ro": "Višnjan vă întâmpină cu liniște și farmec istrian. Dimineața începe la loja istorică și în piața principală, unde moștenirea venețiană este vizibilă în structurile de piatră. La prânz, aromele îmbietoare ale konobelor locale cu trufe și paste de casă vă invită la relaxare. După-amiaza este dedicată științei, cu o vizită la celebrul observator, înainte de a încheia ziua cu un pahar de vin privind dealurile blânde ale Istriei.",
         "en": "Višnjan welcomes you with peace and Istrian charm. The morning starts at the historical loggia and the main square, where Venetian heritage lives on in the stone structures. At noon, the savory scents of local konobas with truffles and homemade pasta lure you for a break. The afternoon is dedicated to science with a visit to the world-renowned observatory, before ending the day with a glass of wine overlooking the rolling hills of Istria.",
-        "hr": "Višnjan vas dočekuje s mirom i istarskim šarmom. Jutro započinje kod povijesne lože i na glavnom trgu, gdje mletačka baština živi u kamenim zdanjima. U podne vas na predah mame mirisi lokalnih konoba s tartufima i domaćom tjesteninom. Poslijepodne je posvećeno znanosti uz posjet svjetski poznatoj zvjezdarnici, prije nego što dan završite uz čašu vina s pogledom na brežuljke Istre."
+        "hr": "Višnjan vas dočekuje mirom i istarskim šarmom. Jutro počinje na povijesnoj loži i glavnom trgu, gdje mletačka baština živi u kamenim strukturama. U podne vas mame mirisi lokalnih konoba s tartufima i domaćom tjesteninom na pauzu. Poslijepodne posvećeno je znanosti posjetom svjetski poznatoj opservatoriji, a dan završava čašom vina s pogledom na valovite brežuljke Istre."
       },
       "gastro_picks": {
         "de": [
@@ -302,7 +302,7 @@
         "hr": [
           "Višnjan je malen, sve je lako dostupno pješice.",
           "Parkirajte na ulazu u stari grad.",
-          "Ulice su popločane kamenom, stoga nosite udobnu obuću."
+          "Ulice su popločane, nosite udobnu obuću."
         ]
       },
       "variants": {
@@ -312,7 +312,7 @@
             "hu": "A reggel a 17. századi városi lozsában indul, amely tökéletes menedéket nyújt az isztriai eső elől. Délben egy helyi konoba melegében élvezzük a hosszas ebédet és a szarvasgombás ételeket. Délután a tudományé a főszerep a fedett csillagvizsgálóban, ahol az eső nem zavarja a kutatást. Az estet egy hangulatos borpincében zárjuk, hallgatva a régi kőfalakon kopogó esőcseppeket.",
             "ro": "Dimineața începe sub protecția lojei venețiene, în timp ce ploaia cade pe pavajul vechi. La prânz ne retragem în atmosfera caldă a unei konoba locale pentru a savura preparate cu trufe. După-amiaza este dedicată științei în interiorul observatorului, feriți de intemperii. Seara se încheie cu o degustare de vinuri într-o cramă primitoare, unde vremea de afară devine irelevantă.",
             "en": "The morning starts sheltered under the 17th-century city loggia while rain taps on the cobblestones. Midday is spent in the warm interior of a local konoba, savoring slow-cooked Istrian dishes. Afternoon focus shifts to science inside the dry observatory. The evening concludes in a cozy wine cellar, where the historic stone walls provide a perfect refuge from the wet weather.",
-            "hr": "Jutro počinje pod krovom gradske lože iz 17. stoljeća dok kiša lagano pada po kamenim ulicama. Podne provedite u toploj unutrašnjosti lokalne konobe, uživajući u polako kuhanim istarskim jelima. Poslijepodne se fokus seli na znanost unutar suhe zvjezdarnice. Večer završava u ugodnom vinskom podrumu, gdje povijesni kameni zidovi pružaju savršeno utočište od vlage."
+            "hr": "Jutro počinje pod zaklonom 17. stoljeća na gradskoj loži dok kiša kuca po kaldrmi. Podne provodite u toplom interijeru lokalne konobe, uživajući u polako kuhanim istarskim jelima. Poslijepodneje se fokus prebacuje na znanost u suhoj opservatoriji. Večer se završava u ugodnom vinskom podrumu, gdje povijesni kameni zidovi pružaju savršeno utočište od mokrog vremena."
           },
           "stops": [
             {
@@ -322,7 +322,7 @@
                 "hu": "Fedett kilátópont a történelmi tető alatt.",
                 "ro": "Punct de observație uscat sub acoperișul istoric.",
                 "en": "Dry viewpoint under the historic roof.",
-                "hr": "Suh vidikovac pod povijesnim krovom."
+                "hr": "Suhi vidikovac pod povijesnim krovom."
               }
             },
             {
@@ -332,7 +332,7 @@
                 "hu": "Vigyázat, a vizes macskakő csúszós lehet.",
                 "ro": "Atenție la pavajul umed și alunecos.",
                 "en": "Caution: wet cobblestones can be slippery.",
-                "hr": "Oprez: mokri kameni blokovi mogu biti klizavi."
+                "hr": "Upozorenje: mokra kaldrma može biti skliska."
               }
             },
             {
@@ -342,7 +342,7 @@
                 "hu": "Ideális helyszín egy csendes, száraz pihenőhöz.",
                 "ro": "Loc ideal pentru o pauză liniștită și uscată.",
                 "en": "Ideal spot for a quiet, dry break.",
-                "hr": "Idealno mjesto za miran, suh predah."
+                "hr": "Idealno mjesto za tih i suhi predah."
               }
             },
             {
@@ -362,7 +362,7 @@
                 "hu": "Tökéletes beltéri program esős órákra.",
                 "ro": "Program interior perfect pentru orele ploioase.",
                 "en": "Perfect indoor program for rainy hours.",
-                "hr": "Savršen program u zatvorenom za kišne sate."
+                "hr": "Savršen unutarnji program za kišne sate."
               }
             },
             {
@@ -372,7 +372,7 @@
                 "hu": "A föld alatti pincék minden időben szárazak.",
                 "ro": "Cramele subterane sunt uscate pe orice vreme.",
                 "en": "Underground cellars stay dry in any weather.",
-                "hr": "Podzemni podrumi ostaju suhi u svim vremenskim uvjetima."
+                "hr": "Podzemni podrumi ostaju suhi bez obzira na vrijeme."
               }
             },
             {
@@ -412,10 +412,10 @@
               "Raincoats are more practical than umbrellas in windy narrow alleys."
             ],
             "hr": [
-              "Nosite nepromočivu obuću zbog klizavih kamenih ulica.",
-              "Koristite Gradsku ložu kao glavno zaklon od kiše.",
-              "Planirajte više vremena za aktivnosti u zatvorenom.",
-              "Kabanice su praktičnije od kišobrana u vjetrovitim uskim uličicama."
+              "Nosite vodootpornu obuću zbog skliskih kaldrmiranih ulica.",
+              "Koristite Gradsku ložu kao središnje sklonište od kiše.",
+              "Planirajte više vremena za unutarnje aktivnosti.",
+              "Kišne kabanice praktičnije su od kišobrana u vjetrovitim uskim ulicama."
             ]
           }
         },
@@ -425,7 +425,7 @@
             "hu": "A téli napsütés fehéren ragyogtatja meg Višnjan mészkő épületeit. Délelőtt a friss, tiszta levegőn járjuk be a történelmi tereket. Az ebédnél felszolgált tartalmas isztriai egytálételek felmelegítenek minket. Délután a csillagvizsgáló látogatása után egy nehéz Teran bort kóstolunk, mielőtt a korai naplemente pasztellszínekbe öltözteti a horizontot.",
             "ro": "Soarele de iarnă face ca piatra de calcar din Višnjan să strălucească alb. Dimineața explorăm piețele istorice în aerul proaspăt și curat. Prânzul cu tocănițe istriene consistente ne încălzește pentru restul zilei. După-amiaza vizităm observatorul și savurăm un vin Teran corpolent înainte ca apusul timpuriu să coloreze orizontul în nuanțe pastelate.",
             "en": "Winter sun makes the white limestone of Višnjan shine brightly. The morning is spent exploring historic squares in the crisp, clear air. Lunch features hearty Istrian stews to warm us up for the day. In the afternoon, we visit the observatory and enjoy a heavy Teran wine tasting before the early winter sunset paints the horizon in pastel hues.",
-            "hr": "Zimsko sunce daje poseban sjaj bijelom vapnencu Višnjana. Jutro provedite istražujući povijesne trgove na svježem, čistom zraku. Ručak nudi krepka istarska variva koja će vas ugrijati. Poslijepodne posjetite zvjezdarnicu i uživajte u kušanju intenzivnog Terana prije nego što rani zimski zalazak sunca oboji obzor pastelnim tonovima."
+            "hr": "Zimsko sunce čini bijeli vapnenac Višnjana sjajnim. Jutro provodimo istražujući povijesne trgove u svježem, bistrom zraku. Ručak uključuje goveđe istarske variva koja nas griju za dan. Poslijepodne posjećujemo opservatorij i uživamo u teškoj degustaciji Terana prije nego što rano zimsko sunce oboji horizont pastelnim nijansama."
           },
           "stops": [
             {
@@ -435,7 +435,7 @@
                 "hu": "Öltözzön rétegesen, mert itt szeles lehet az idő.",
                 "ro": "Îmbrăcați-vă gros, deoarece aici poate fi vânt.",
                 "en": "Dress warmly as this spot can be quite breezy.",
-                "hr": "Toplo se obucite jer na ovom mjestu može puhati."
+                "hr": "Obucite se toplo jer ovo mjesto može biti prilično vjetrovito."
               }
             },
             {
@@ -445,7 +445,7 @@
                 "hu": "A téli napfény ideális fotózáshoz tömeg nélkül.",
                 "ro": "Soarele de iarnă e ideal pentru poze fără mulțimi.",
                 "en": "Winter light is ideal for photos without the crowds.",
-                "hr": "Zimsko svjetlo je idealno za fotografije bez gužve."
+                "hr": "Zimsko svjetlo idealno je za fotografije bez gužvi."
               }
             },
             {
@@ -465,7 +465,7 @@
                 "hu": "Kérjen helyet a kandalló mellett és kóstolja a szezont.",
                 "ro": "Cereți un loc lângă șemineu și preparate sezoniere.",
                 "en": "Ask for a seat by the fireplace and seasonal dishes.",
-                "hr": "Tražite mjesto uz kamin i sezonska jela."
+                "hr": "Zatražite mjesto uz kamin i sezonska jela."
               }
             },
             {
@@ -475,7 +475,7 @@
                 "hu": "A tiszta téli éjszakák adják a legjobb látási viszonyokat.",
                 "ro": "Nopțile senine de iarnă oferă cea mai bună vizibilitate.",
                 "en": "Clear winter nights offer the best visibility.",
-                "hr": "Vedre zimske noći nude najbolju vidljivost."
+                "hr": "Bistre zimske noći nude najbolju vidljivost."
               }
             },
             {
@@ -485,7 +485,7 @@
                 "hu": "Tökéletes hely a felmelegedéshez egy vörösbor mellett.",
                 "ro": "Locul perfect pentru încălzire cu un vin roșu.",
                 "en": "The perfect place to warm up with red wine.",
-                "hr": "Savršeno mjesto za grijanje uz crno vino."
+                "hr": "Savršeno mjesto za zagrijavanje crnim vinom."
               }
             },
             {
@@ -495,7 +495,7 @@
                 "hu": "Vigyázat: a naplemente már 16:30 körül bekövetkezik.",
                 "ro": "Atenție: apusul are loc deja în jurul orei 16:30.",
                 "en": "Note: sunset occurs early, around 16:30.",
-                "hr": "Napomena: zalazak sunca je rano, oko 16:30."
+                "hr": "Napomena: zalazak sunca događa se rano, oko 16:30."
               }
             }
           ],
@@ -525,10 +525,10 @@
               "Check the winter opening hours of the observatory."
             ],
             "hr": [
-              "Odjenite se slojevito kako biste se zaštitili od bure.",
-              "Imajte na umu da zimi sunce rano zalazi.",
+              "Nosite slojevitu odjeću zbog bure.",
+              "Imajte na umu da sunce u zimi zalazi rano.",
               "Mnoge konobe koriste peći na drva za grijanje.",
-              "Provjerite zimsko radno vrijeme zvjezdarnice."
+              "Provjerite zimsko radno vrijeme opservatorija."
             ]
           }
         }
@@ -558,7 +558,7 @@
             "hu": "Kiindulópont a falu szívében.",
             "ro": "Punct de plecare în inima satului.",
             "en": "Starting point in the heart of the village.",
-            "hr": "Polazna točka u srcu mjesta."
+            "hr": "Početna točka u srcu sela."
           }
         },
         {
@@ -577,7 +577,7 @@
             "hu": "Rövid megálló a loža fotózásához.",
             "ro": "Scurtă oprire pentru fotografii la lojă.",
             "en": "Short stop for photos of the loggia.",
-            "hr": "Kratko zaustavljanje za fotografiranje lože."
+            "hr": "Kratko zaustavljanje za fotografije lože."
           }
         },
         {
@@ -596,7 +596,7 @@
             "hu": "Csendes utak a szőlőültetvények között.",
             "ro": "Poteci liniștite prin podgorii.",
             "en": "Quiet paths through the vineyards.",
-            "hr": "Mirne staze kroz vinograde."
+            "hr": "Tihi putevi kroz vinograde."
           }
         },
         {
@@ -634,7 +634,7 @@
             "hu": "Energiautánpótlás isztriai konyhával.",
             "ro": "Reîncărcați-vă cu bucătăria istriană.",
             "en": "Refuel with Istrian cuisine.",
-            "hr": "Napunite baterije uz istarsku kuhinju."
+            "hr": "Okrijepite se istarskom kuhinjom."
           }
         },
         {
@@ -662,7 +662,7 @@
         "hu": "Fedezd fel Višnjant és környékét két keréken. A túra a történelmi falaktól kivezet Isztria zöld tájaira. Szelíd szőlőültetvények között tekersz el a Tičan-i új tudományos központig. A faluba visszatérve egy jól megérdemelt ebéd vár, majd a szűk utcák nyugodt atmoszférája teszi teljessé a napot.",
         "ro": "Explorați Višnjan și împrejurimile sale pe două roți. Turul duce de la zidurile istorice spre peisajele verzi ale Istriei. Veți pedala prin podgorii blânde până la noul centru științific din Tičan. După revenirea în sat, vă veți bucura de un prânz binemeritat și veți simți atmosfera relaxată a străzilor înguste.",
         "en": "Explore Višnjan and its surroundings on two wheels. The tour leads from the historical walls out into the green landscapes of Istria. Cycle through gentle vineyards to the new scientific center in Tičan. Upon returning to the village, enjoy a well-deserved lunch and soak in the relaxed atmosphere of the narrow streets.",
-        "hr": "Istražite Višnjan i njegovu okolicu na dva kotača. Tura vodi od povijesnih zidina u zelene krajolike Istre. Vozite kroz pitome vinograde do novog znanstvenog centra u Tičanu. Po povratku u mjesto, uživajte u zasluženom ručku i upijajte opuštenu atmosferu uskih ulica."
+        "hr": "Istražite Višnjan i okolinu na dva kotača. Tura vodi od povijesnih zidina kroz zelene krajolike Istre. Biciklirajte kroz nježne vinograde do novog znanstvenog centra u Tičanu. Po povratku u selo uživajte u zasluženom ručku i opuštenoj atmosferi uskih ulica."
       },
       "gastro_picks": {
         "de": [
@@ -787,9 +787,9 @@
           "Some paths are gravel, so a mountain bike is recommended."
         ],
         "hr": [
-          "Brežuljci su umjereni, ali dobra kondicija je prednost.",
+          "Brekulje su umjerene, ali dobra kondicija je prednost.",
           "Ponesite dovoljno vode za vožnju do Tičana.",
-          "Neke staze su makadamske, pa se preporučuje brdski bicikl."
+          "Neki su putovi šljunčani, stoga se preporučuje brdski bicikl."
         ]
       },
       "variants": {
@@ -799,7 +799,7 @@
             "hu": "Az esős bringázás megfelelő felszerelést igényel az isztriai utakon. Délelőtt dacolunk az elemekkel a Stari trg-en és a lozsánál. Délben egy hosszú falusi ebéddel melegszünk fel, majd irány a tičani új csillagvizsgáló modern épülete. A visszaút a ködös szőlőültetvényeken keresztül vezet, ami különleges, nyugodt hangulatot ad a tájnak.",
             "ro": "O tură cu bicicleta pe ploaie necesită echipament adecvat pe drumurile istriene. Dimineața sfidăm vremea în Stari trg și la lojă. La prânz ne încălzim cu un prânz lung în sat, apoi pornim spre noul observator modern din Tičan. Drumul de întoarcere prin podgoriile cețoase oferă peisajului o atmosferă specială și liniștită.",
             "en": "Cycling in the rain requires the right gear on Istrian paths. In the morning, we brave the elements at Stari trg and the loggia. Midday is for warming up with a long village lunch before heading to the modern observatory in Tičan. The ride back through misty vineyards gives the landscape a unique, quiet atmosphere.",
-            "hr": "Bicikliranje po kiši zahtijeva pravu opremu na istarskim stazama. Ujutro se prkosi elementima na Starom trgu i kod lože. Podne je rezervirano za grijanje uz dugi ručak prije odlaska do moderne zvjezdarnice u Tičanu. Povratna vožnja kroz maglovite vinograde daje krajoliku jedinstvenu, tihu atmosferu."
+            "hr": "Vožnja biciklom po kiši zahtijeva pravu opremu na istarskim putovima. Ujutro se suprotstavljamo elementima na Starom trgu i loggiji. U podne se griješemo dugim seljačkim ručkom prije odlaska do modernog opservatorija u Tičanu. Povratak kroz maglovite vinograde daje krajoliku jedinstvenu, tihovu atmosferu."
           },
           "stops": [
             {
@@ -809,7 +809,7 @@
                 "hu": "Vigyázat a fékezéssel a vizes macskakövön.",
                 "ro": "Atenție la frânare pe pavajul umed.",
                 "en": "Be careful when braking on wet cobblestones.",
-                "hr": "Budite oprezni pri kočenju na mokrom kamenu."
+                "hr": "Pazite pri kočenju na mokrom popločanju."
               }
             },
             {
@@ -819,7 +819,7 @@
                 "hu": "Rövid megállási lehetőség eső ellen bringásoknak.",
                 "ro": "Posibilitate de scurt adăpost pentru bicicliști.",
                 "en": "Short shelter possibility for cyclists.",
-                "hr": "Mogućnost kratkog zaklona za bicikliste."
+                "hr": "Kratka mogućnost zaklona za bicikliste."
               }
             },
             {
@@ -829,7 +829,7 @@
                 "hu": "A dűlőutak esőben sárosak lehetnek.",
                 "ro": "Drumurile de țară pot fi noroioase pe ploaie.",
                 "en": "Field paths can be muddy during rain.",
-                "hr": "Poljski putevi mogu biti blatnjavi tijekom kiše."
+                "hr": "Poljski putevi mogu biti blatni tijekom kiše."
               }
             },
             {
@@ -839,7 +839,7 @@
                 "hu": "Modern épület jó esővédelemmel.",
                 "ro": "Clădire modernă cu protecție bună la ploaie.",
                 "en": "Modern building with good rain protection.",
-                "hr": "Moderna zgrada s dobrom zaštitom od kiše."
+                "hr": "Modern zgrada s dobrom zaštitom od kiše."
               }
             },
             {
@@ -859,7 +859,7 @@
                 "hu": "Csendes hely a leghevesebb eső kivárására.",
                 "ro": "Loc liniștit pentru a aștepta trecerea ploii grele.",
                 "en": "Quiet place to wait out the heaviest rain.",
-                "hr": "Mirno mjesto za pričekati da prođe najjača kiša."
+                "hr": "Tihi prostor za pričekati najjaču kišu."
               }
             }
           ],
@@ -889,10 +889,10 @@
               "Check tire pressure for better grip on slippery roads."
             ],
             "hr": [
-              "Blatobrani su neophodni po ovakvom vremenu.",
-              "Nosite potpuno kišno odijelo i vodootporne hlače.",
+              "Blatobrani su neophodni u ovakvom vremenu.",
+              "Nosite kompletan kišni kostim i vodootporne hlače.",
               "Izbjegavajte oštre zavoje na mokrom asfaltu.",
-              "Provjerite tlak u gumama za bolje prianjanje na klizavim cestama."
+              "Provjerite tlak u gumama za bolje prianjanje na skliskim cestama."
             ]
           }
         },
@@ -902,7 +902,7 @@
             "hu": "Hideg levegő és tiszta kilátás jellemzi a téli bringatúrát. Délelőtt Višnjan csendes utcáin gurulunk, majd irány a szőlőhegy, ahol a tőkék téli álmukat alusszák. A tičani csillagvizsgáló érdekes megálló, amelyet egy melengető ebéd követ. A túra délután ér véget, még mielőtt beállna az éjszakai fagy.",
             "ro": "Aerul rece și vizibilitatea mare definesc tura cu bicicleta iarna. Dimineața pedalăm prin străzile liniștite din Višnjan, apoi ieșim spre podgorii. Observatorul din Tičan oferă o oprire interesantă, urmată de un prânz reconfortant. Turul se încheie după-amiaza, înainte de instalarea gerului nocturn.",
             "en": "Crisp air and long-range views define the winter bike tour. In the morning, we roll through the quiet streets of Višnjan before heading out to the dormant vineyards. The Tičan observatory offers an interesting stop, followed by a warming lunch. The tour concludes in the afternoon, before the freezing night chill sets in.",
-            "hr": "Oštar zrak i dalekosežni vidici odlikuju zimsku biciklističku turu. Ujutro prolazimo kroz tihe ulice Višnjana prije izlaska među uspavane vinograde. Zvjezdarnica Tičan nudi zanimljivu postaju, nakon čega slijedi topli ručak. Tura završava poslijepodne, prije nego što nastupi noćna hladnoća."
+            "hr": "Hladan zrak i daleki vidici definiraju zimsku biciklističku turu. Ujutro vozimo kroz tihe ulice Višnjana prije izlaska na uspavane vinograde. Opservatorij u Tičanu nudi zanimljivu stanku, a zatim slijedi zagrijavajući ručak. Tura se zaključuje poslijepodne, prije nego što nastupi smrzavajuća noćna hladnoća."
           },
           "stops": [
             {
@@ -912,7 +912,7 @@
                 "hu": "Friss reggeli levegő, ideális az éber indításhoz.",
                 "ro": "Aer proaspăt de dimineață, ideal pentru un start vioi.",
                 "en": "Fresh morning air, ideal for a wake-up start.",
-                "hr": "Svjež jutarnji zrak, idealan za razbuđivanje."
+                "hr": "Svježi jutarnji zrak, idealan za početak budjenja."
               }
             },
             {
@@ -922,7 +922,7 @@
                 "hu": "Szélvédett hely egy rövid ivószünethez.",
                 "ro": "Loc ferit de vânt pentru o scurtă pauză de hidratare.",
                 "en": "Wind-sheltered spot for a quick hydration break.",
-                "hr": "Mjesto zaštićeno od vjetra za brzu pauzu za hidraciju."
+                "hr": "Mjesto zaštićeno od vjetra za kratki predah i hidrataciju."
               }
             },
             {
@@ -932,7 +932,7 @@
                 "hu": "A hideg levegő fárasztóbbá teszi az emelkedőket.",
                 "ro": "Aerul rece face urcările mai obositoare.",
                 "en": "The cold air makes the climbs feel more tiring.",
-                "hr": "Hladan zrak čini uspone napornijima."
+                "hr": "Hladan zrak čini usponima da se čine napornijima."
               }
             },
             {
@@ -942,7 +942,7 @@
                 "hu": "Gyakran szeles a dombtető, meleg ruha kell.",
                 "ro": "Adesea vânt pe deal, este necesară îmbrăcăminte groasă.",
                 "en": "Often windy on the hilltop, warm clothing is a must.",
-                "hr": "Često vjetrovito na vrhu brda, topla odjeća je obavezna."
+                "hr": "Često je vjetrovito na vrhu brežuljka, topla odjeća je obavezna."
               }
             },
             {
@@ -952,7 +952,7 @@
                 "hu": "Válasszon energiadús, meleg ételeket.",
                 "ro": "Alegeți mâncăruri calde și energizante.",
                 "en": "Choose energy-rich, warm dishes.",
-                "hr": "Birajte energetski bogata, topla jela."
+                "hr": "Birajte jela bogata energijom i topla."
               }
             },
             {
@@ -962,7 +962,7 @@
                 "hu": "Utolsó kulturális megálló a korai szürkület előtt.",
                 "ro": "Ultima oprire culturală înainte de amurgul timpuriu.",
                 "en": "Last cultural stop before the early twilight.",
-                "hr": "Zadnja kulturna postaja prije ranog sumraka."
+                "hr": "Posljednja kulturna stanica prije ranog sumraka."
               }
             }
           ],
@@ -992,10 +992,10 @@
               "Watch out for frost in shaded corners."
             ],
             "hr": [
-              "Nosite windstopper rukavice i termo kapu ispod kacige.",
-              "Pijte topli čaj iz termosice.",
-              "Mišićima treba više vremena da se zagriju na hladnoći.",
-              "Pazite na mraz u sjenovitim zavojima."
+              "Nosite rukavice protiv vjetra i termo kapu ispod kacige.",
+              "Pijte topao čaj iz termosice.",
+              "Mišićima treba dulje da se zagriju na hladnoći.",
+              "Pazite na mraz u sjenovitim kutovima."
             ]
           }
         }
@@ -1025,7 +1025,7 @@
             "hu": "Parkolj a téren vagy a falu bejáratánál.",
             "ro": "Parcați în piață sau la intrarea în sat.",
             "en": "Park at the square or the village entrance.",
-            "hr": "Parkirajte na trgu ili na ulazu u mjesto."
+            "hr": "Parkirajte na trgu ili ulazu u selo."
           }
         },
         {
@@ -1082,7 +1082,7 @@
             "hu": "A régi csillagvizsgáló a történelmi magban.",
             "ro": "Vechiul observator din nucleul istoric.",
             "en": "The old observatory in the historical core.",
-            "hr": "Stara zvjezdarnica u povijesnoj jezgri."
+            "hr": "Stari opservatorij u povijesnoj jezgri."
           }
         },
         {
@@ -1120,7 +1120,7 @@
             "hu": "Autózás a festői tájon keresztül.",
             "ro": "Drum prin peisajul pitoresc.",
             "en": "Drive through the picturesque landscape.",
-            "hr": "Vožnja kroz slikovit krajolik."
+            "hr": "Vozite kroz slikovit krajolik."
           }
         },
         {
@@ -1139,7 +1139,7 @@
             "hu": "Tiszta időben az Adriáig látni.",
             "ro": "Vedere până la Marea Adriatică pe vreme senină.",
             "en": "View all the way to the Adriatic on a clear day.",
-            "hr": "Pogled sve do Jadrana za vedrih dana."
+            "hr": "Pogled sve do Jadrana u vedrom danu."
           }
         },
         {
@@ -1158,7 +1158,7 @@
             "hu": "Egy utolsó pohár bor a visszaindulás előtt.",
             "ro": "Un ultim pahar de vin înainte de plecare.",
             "en": "A final glass of wine before the return trip.",
-            "hr": "Zadnja čaša vina prije povratka."
+            "hr": "Još jedan čašica vina prije povratka."
           }
         }
       ],
@@ -1167,7 +1167,7 @@
         "hu": "Autóval fedezheted fel Višnjan látnivalóit és tudományos környezetét. A délelőtt az óvárosé: a főtér, a loža és a történelmi csillagvizsgáló egy kupacban, gyalogosan is bejárható. Egy hagyományos ebéd után rövid autózás következik Tičanba, a modern obszervatóriumhoz. A napot egy borteraszon zárjuk, rálátással a Višnjant zöld övként körülölelő szőlőültetvényekre.",
         "ro": "Cu mașina veți descoperi punctele forte din Višnjan și împrejurimile științifice. Dimineața aparține orașului vechi: un cluster format din piață, lojă și observatorul istoric poate fi explorat ușor pe jos. După un prânz tradițional, o scurtă călătorie duce la Tičan, la observatorul modern. Ziua se încheie pe o terasă de vinuri cu vedere la podgoriile care înconjoară Višnjan ca o centură verde.",
         "en": "By car, you will discover the highlights of Višnjan and its scientific surroundings. The morning is dedicated to the old town: a cluster consisting of the square, loggia, and the historical observatory can be easily explored on foot. After a traditional lunch, a short drive leads to Tičan to the modern observatory. You will end the day at a wine terrace overlooking the vineyards that surround Višnjan like a green belt.",
-        "hr": "Automobilom ćete otkriti najvažnije točke Višnjana i njegove znanstvene okolice. Jutro je posvećeno starom gradu: cjelina koju čine trg, loža i povijesna zvjezdarnica može se lako obići pješice. Nakon tradicionalnog ručka, kratka vožnja vodi do Tičana i moderne zvjezdarnice. Dan ćete završiti na vinskoj terasi s pogledom na vinograde koji okružuju Višnjan poput zelenog pojasa."
+        "hr": "Autom ćete otkriti vrhunce Višnjana i njegove znanstvene okoline. Jutro je posvećeno starom gradu: skupina trga, loggije i povijesnog opservatorija lako se može istražiti pješice. Nakon tradicionalnog ručka, kratka vožnja vodi do Tičana i modernog opservatorija. Dan završavate na vinskoj terasi s pogledom na vinograde koji okružuju Višnjan poput zelenog pojasa."
       },
       "gastro_picks": {
         "de": [
@@ -1292,9 +1292,9 @@
           "Combine the visit with a wine tasting nearby."
         ],
         "hr": [
-          "Cesta do Tičana je dobro održavana, ali uska.",
-          "Parking je ograničen u staroj jezgri Višnjana.",
-          "Kombinirajte posjet s kušanjem vina u blizini."
+          "Put do Tičana je dobro održavan, ali uzak.",
+          "Parkiranje je ograničeno u starom gradu Višnjana.",
+          "Posjet kombinirajte s kušanjem vina u blizini."
         ]
       },
       "variants": {
@@ -1304,7 +1304,7 @@
             "hu": "Autóval az időjárástól függetlenül fedezzük fel Višnjant és környékét. A délelőtt az óvárosé és a történelmi lozsáé. Ebédre egy kiadós menüt élvezünk egy tradicionális étteremben, majd a tičani modern csillagvizsgáló felé vesszük az irányt. A napot egy fedett borteraszon zárjuk, nézve az eső áztatta isztriai tájat.",
             "ro": "Cu mașina explorăm Višnjan și împrejurimile indiferent de vreme. Dimineața aparține centrului vechi și lojei istorice. La prânz savurăm un meniu bogat într-un restaurant tradițional, apoi mergem spre observatorul modern din Tičan. Ziua se încheie confortabil pe o terasă acoperită, cu vedere spre peisajul istrian ploios.",
             "en": "By car, we explore Višnjan and its surroundings completely independent of the weather. The morning belongs to the old town and the historic loggia. For lunch, we enjoy a hearty menu in a traditional restaurant before driving to the modern observatory in Tičan. The day ends comfortably on a covered wine terrace overlooking the rainy Istrian landscape.",
-            "hr": "Automobilom istražujemo Višnjan i okolicu potpuno neovisno o vremenu. Jutro pripada starom gradu i povijesnoj loži. Za ručak uživamo u krepkom meniju u tradicionalnom restoranu prije vožnje do moderne zvjezdarnice u Tičanu. Dan završava ugodno na natkrivenoj vinskoj terasi s pogledom na kišni istarski krajolik."
+            "hr": "Autom istražujemo Višnjan i okolinu potpuno neovisno o vremenu. Jutro pripada starom gradu i povijesnoj loggiji. Za ručak uživamo u obilnom meniju u tradicionalnoj konobi prije vožnje do modernog opservatorija u Tičanu. Dan završava udobno na natkrivenoj vinu terasi s pogledom na kišnu istarsku krajinu."
           },
           "stops": [
             {
@@ -1314,7 +1314,7 @@
                 "hu": "Parkoljon közel a központhoz a gyalogút rövidítéséhez.",
                 "ro": "Parcați aproape de centru pentru a scurta mersul prin ploaie.",
                 "en": "Park close to the center to shorten walks in the rain.",
-                "hr": "Parkirajte blizu centra kako biste skratili hodanje po kiši."
+                "hr": "Parkirajte blizu centra kako biste skratili šetnje po kiši."
               }
             },
             {
@@ -1324,7 +1324,7 @@
                 "hu": "Pár lépés a parkolótól a védelmet nyújtó tetőig.",
                 "ro": "Câțiva pași de la parcare până sub acoperișul protector.",
                 "en": "A few steps from the parking to the sheltering roof.",
-                "hr": "Par koraka od parkinga do natkrivene lože."
+                "hr": "Par koraka od parkirališta do zaklonjenog krova."
               }
             },
             {
@@ -1334,7 +1334,7 @@
                 "hu": "Száraz menedék lenyűgöző építészettel.",
                 "ro": "Refugiu uscat cu o arhitectură impresionantă.",
                 "en": "Dry sanctuary with impressive architecture.",
-                "hr": "Suho utočište s impresivnom arhitekturom."
+                "hr": "Suhi zavjet s impresivnom arhitekturom."
               }
             },
             {
@@ -1344,7 +1344,7 @@
                 "hu": "A belső látogatás a legjobb választás esőben.",
                 "ro": "Vizita în interior este cea mai bună alegere pe ploaie.",
                 "en": "Indoor visit is the best choice during rain.",
-                "hr": "Posjet zatvorenom prostoru najbolji je izbor tijekom kiše."
+                "hr": "Posjet unutrašnjosti je najbolji izbor tijekom kiše."
               }
             },
             {
@@ -1364,7 +1364,7 @@
                 "hu": "Kényelmes érkezés közvetlenül az épület elé.",
                 "ro": "Acces auto facil chiar în fața clădirii.",
                 "en": "Convenient drive-up directly to the building.",
-                "hr": "Praktičan prilaz autom izravno do zgrade."
+                "hr": "Prikladan prilaz automobilom neposredno do zgrade."
               }
             },
             {
@@ -1415,9 +1415,9 @@
             ],
             "hr": [
               "Držite kišobran u autu za kratke šetnje.",
-              "Ceste mogu biti klizave tijekom kiše.",
-              "Parking je često lakše pronaći kad pada kiša.",
-              "Koristite grijanje u autu za sušenje odjeće između postaja."
+              "Ceste mogu postati skliske tijekom kiše.",
+              "Parkiranje je često lakše pronaći kad pada kiša.",
+              "Koristite grijač automobila za sušenje odjeće između stajanja."
             ]
           }
         },
@@ -1427,7 +1427,7 @@
             "hu": "A téli autós túra a kulturális élményeket maximális kényelemmel ötvözi. Délelőtt az óvárost és a templomot nézzük meg a tiszta téli fényben. Ebédre isztriai specialitásokkal melegszünk fel, majd a tičani csillagvizsgálóhoz hajtunk. A nap borozással zárul, miközben kint a hideg téli éjszaka leszáll az isztriai dombokra.",
             "ro": "Un tur de iarnă cu mașina îmbină atracțiile culturale cu confortul maxim. Dimineața vizităm centrul vechi și biserica în lumina clară de iarnă. La prânz ne încălzim cu specialități istriene, apoi mergem la observatorul din Tičan. Ziua se încheie cu o degustare de vin, în timp ce noaptea rece de iarnă coboară peste dealurile Istriei.",
             "en": "A winter car tour combines cultural highlights with maximum comfort. In the morning, we visit the old town and the church in the clear winter light. For lunch, we warm up with Istrian specialties before driving to the Tičan observatory. The day concludes with a wine tasting as the cold winter night falls over the Istrian hills.",
-            "hr": "Zimska tura automobilom spaja kulturne zanimljivosti s maksimalnom udobnošću. Ujutro posjećujemo stari grad i crkvu na čistom zimskom svjetlu. Za ručak se grijemo istarskim specijalitetima prije vožnje do zvjezdarnice Tičan. Dan završava kušanjem vina dok se hladna zimska noć spušta nad istarske brežuljke."
+            "hr": "Zimska automobilska tura kombinira kulturne vrhunce s maksimalnom udobnošću. Ujutro posjećujemo stari grad i crkvu u bistrom zimskom svjetlu. Za ručak se grijemo istarskim specijalitetima prije vožnje do opservatorija u Tičanu. Dan se zaključuje kušanjem vina dok hladna zimska noć pada nad istarskim brežuljcima."
           },
           "stops": [
             {
@@ -1437,7 +1437,7 @@
                 "hu": "Parkoljon szélvédett helyen a szűk utcákban.",
                 "ro": "Parcați în locuri ferite de vânt pe străduțe.",
                 "en": "Park in wind-sheltered spots in the alleys.",
-                "hr": "Parkirajte na mjestima zaštićenim od vjetra u uličicama."
+                "hr": "Parkirajte na mjestima zaštićenim od vjetra u uskim ulicama."
               }
             },
             {
@@ -1447,7 +1447,7 @@
                 "hu": "Rövid megálló a panorámáért a téli fényben.",
                 "ro": "Scurtă oprire pentru panoramă în lumina de iarnă.",
                 "en": "Short stop for the panorama in winter light.",
-                "hr": "Kratko stajanje za panoramu na zimskom svjetlu."
+                "hr": "Kratka stanka za panoramu u zimskom svjetlu."
               }
             },
             {
@@ -1457,7 +1457,7 @@
                 "hu": "A templomban nagyon hideg lehet, tartsa bent is a sapkát.",
                 "ro": "În biserică poate fi foarte frig, păstrați căciula.",
                 "en": "The church can be very cold; keep your hat on.",
-                "hr": "U crkvi može biti vrlo hladno; zadržite kapu."
+                "hr": "Crkva može biti vrlo hladna; držite kapu na glavi."
               }
             },
             {
@@ -1467,7 +1467,7 @@
                 "hu": "Tökéletes kilátás a tiszta téli levegőnek köszönhetően.",
                 "ro": "Vizibilitate perfectă datorită aerului clar de iarnă.",
                 "en": "Perfect visibility thanks to the clear winter air.",
-                "hr": "Savršena vidljivost zahvaljujući čistom zimskom zraku."
+                "hr": "Savršena vidljivost zahvaljujući bistrom zimskom zraku."
               }
             },
             {
@@ -1477,7 +1477,7 @@
                 "hu": "Élvezze az előszezon nyugalmát.",
                 "ro": "Bucurați-vă de liniștea din afara sezonului.",
                 "en": "Enjoy the tranquility of the off-season.",
-                "hr": "Uživajte u miru izvan sezone."
+                "hr": "Uživajte u tišini izvan sezone."
               }
             },
             {
@@ -1487,7 +1487,7 @@
                 "hu": "Meleg kabát kell az autótól az épületig tartó útra.",
                 "ro": "Este necesară o jachetă groasă de la mașină la clădire.",
                 "en": "A warm jacket is needed for the walk from the car.",
-                "hr": "Potrebna je topla jakna za šetnju od auta."
+                "hr": "Topla jakna potrebna je za šetnju od auta."
               }
             },
             {
@@ -1497,7 +1497,7 @@
                 "hu": "Hagyja menni a fűtést a nézelődés alatt.",
                 "ro": "Lăsați încălzirea pornită în timpul pauzei de belvedere.",
                 "en": "Keep the car heater on during the viewpoint break.",
-                "hr": "Ostavite grijanje u autu tijekom pauze na vidikovcu."
+                "hr": "Držite grijač auta uključen tijekom stanke na vidikovcu."
               }
             },
             {
@@ -1507,7 +1507,7 @@
                 "hu": "Keressen beltéri borkóstoló helyszínt.",
                 "ro": "Căutați o locație cu spațiu interior.",
                 "en": "Look for a location with indoor seating.",
-                "hr": "Potražite lokaciju s unutarnjim sjedenjem."
+                "hr": "Potražite mjesto s unutarnjim sjedenjem."
               }
             }
           ],
@@ -1537,10 +1537,10 @@
               "Most parking lots are free during the winter season."
             ],
             "hr": [
-              "Provjerite antifriz u tekućini za pranje stakla.",
+              "Provjerite antifriz u tekućini za pranje vjetrobrana.",
               "Zimske gume su obavezne u Istri tijekom mraza.",
-              "Iskoristite male udaljenosti između zanimljivosti.",
-              "Većina parkirališta je besplatna tijekom zimske sezone."
+              "Iskoristite kratke udaljenosti između znamenitosti.",
+              "Većina parkirališta je besplatna tijekom zime."
             ]
           }
         }
@@ -1589,7 +1589,7 @@
             "hu": "A település társadalmi központja.",
             "ro": "Centrul social al localității.",
             "en": "The social center of the village.",
-            "hr": "Društveno središte mjesta."
+            "hr": "Društveni centar sela."
           }
         },
         {
@@ -1627,7 +1627,7 @@
             "hu": "Békés atmoszféra odabent.",
             "ro": "Atmosferă pașnică în interior.",
             "en": "Peaceful atmosphere inside.",
-            "hr": "Mirna atmosfera u unutrašnjosti."
+            "hr": "Mirna atmosfera unutra."
           }
         },
         {
@@ -1646,7 +1646,7 @@
             "hu": "Kérdezd a napi menüt (marenda).",
             "ro": "Întrebați de meniul zilei (marenda).",
             "en": "Ask for the daily menu (marenda).",
-            "hr": "Pitajte za dnevni meni (marendu)."
+            "hr": "Zatražite dnevni jelovnik (marenda)."
           }
         },
         {
@@ -1665,7 +1665,7 @@
             "hu": "Tudj meg többet az aszteroida-felfedezésekről.",
             "ro": "Aflați mai multe despre descoperirile de asteroizi.",
             "en": "Learn about the asteroid discoveries.",
-            "hr": "Saznajte više o otkrićima asteroida."
+            "hr": "Saznajte o otkrićima asteroida."
           }
         },
         {
@@ -1693,7 +1693,7 @@
         "hu": "Višnjan ideális egy pihentető egynapos kiránduláshoz tömegközlekedéssel. A helyközi buszról leszállva a kompakt történelmi központ azonnal elérhető. A nap nyugodtan telik a loža hűvös kőfalai, a neoklasszicista templom és a híres csillagvizsgáló között. Egy hosszú ebéd a konobában éppúgy a program része, mint egy záró séta a falu szélén, mielőtt a busz visszaindul a part felé.",
         "ro": "Višnjan este ideal pentru o excursie relaxantă de o zi cu transportul public. După sosirea cu autobuzul regional, centrul istoric compact este imediat accesibil. Ziua trece liniștit între zidurile de piatră ale lojei, biserica neoclasică și celebrul observator. Un prânz lung într-o konoba face parte din program, la fel ca o plimbare finală la marginea satului înainte ca autobuzul să plece înapoi spre coastă.",
         "en": "Višnjan is ideal for a relaxing day trip by public transport. After arriving by regional bus, the compact historical center is immediately accessible. The day flows calmly between the cool stone walls of the loggia, the neoclassical church, and the famous observatory. A long lunch in a konoba is as much a part of the program as a final walk on the edge of the village before the bus departs back to the coast.",
-        "hr": "Višnjan je idealan za opuštajući izlet javnim prijevozom. Nakon dolaska regionalnim autobusom, kompaktna povijesna jezgra je odmah dostupna. Dan teče mirno između hladnih kamenih zidova lože, neoklasicističke crkve i slavne zvjezdarnice. Dugi ručak u konobi dio je programa, kao i završna šetnja rubom mjesta prije polaska autobusa natrag prema obali."
+        "hr": "Višnjan je idealan za opušteni jednodnevni izlet javnim prijevozom. Nakon dolaska regionalnim autobusom, kompaktna povijesna jezgra je odmah pristupačna. Dan teče mirno između hladnih kamenih zidova loggije, neoklasične crkve i poznatog opservatorija. Dugi ručak u konobi jednako je dio programa kao i završna šetnja na rubu sela prije polaska autobusa natrag prema obali."
       },
       "gastro_picks": {
         "de": [
@@ -1818,9 +1818,9 @@
           "Buses run less frequently on weekends."
         ],
         "hr": [
-          "Unaprijed provjerite vozni red autobusa za Poreč.",
-          "Autobusna stanica je udaljena svega nekoliko minuta hoda od centra.",
-          "Autobusi rjeđe voze vikendom."
+          "Provjerite vozni red autobusa za Poreč unaprijed.",
+          "Autobusna stanica je samo nekoliko minuta hoda od centra.",
+          "Autobusi voze rjeđe vikendom."
         ]
       },
       "variants": {
@@ -1830,7 +1830,7 @@
             "hu": "Az eső ellenére kényelmesen érkezünk busszal Višnjanba. A nap a buszmegállónál indul, ahonnan gyorsan az óváros védelmébe húzódunk. A nap fénypontja egy hosszas ebéd egy konobában, majd a csillagvizsgáló megtekintése következik. A falu fedett helyeit kihasználva maradunk szárazon a visszaútig.",
             "ro": "În ciuda ploii, ajungem confortabil cu autobuzul în Višnjan. Ziua începe la autogară, de unde ajungem rapid la adăpostul centrului vechi. Punctul culminant al zilei este prânzul prelungit într-o konoba, urmat de vizitarea observatorului. Folosim locurile acoperite din sat pentru a rămâne uscați până la plecare.",
             "en": "Despite the rain, we arrive comfortably by bus in Višnjan. The day starts at the bus station, from where we quickly reach the shelter of the old town. A long lunch in a konoba is the highlight of the day, followed by a visit to the observatory. We use the covered spots in the village to stay dry while waiting for the return trip.",
-            "hr": "Unatoč kiši, udobno dolazimo autobusom u Višnjan. Dan počinje na stanici, odakle brzo stižemo do zaklona starog grada. Dugi ručak u konobi vrhunac je dana, nakon čega slijedi posjet zvjezdarnici. Koristimo natkrivena mjesta u selu kako bismo ostali suhi dok čekamo povratak."
+            "hr": "Unatoč kiši, udobno stižemo autobusom u Višnjan. Dan počinje na autobusnom kolodvoru odakle brzo stižemo do zaklona starog grada. Dugi ručak u konobi je vrhunac dana, nakon čega slijedi posjet opservatoriju. Koristimo natkrivene točke u selu da ostanemo suhi dok čekamo povratak."
           },
           "stops": [
             {
@@ -1840,7 +1840,7 @@
                 "hu": "Használja a buszmegálló váróját.",
                 "ro": "Folosiți adăpostul din stația de autobuz.",
                 "en": "Use the shelter at the bus station.",
-                "hr": "Koristite nadstrešnicu na autobusnoj stanici."
+                "hr": "Iskoristite zaklon na autobusnoj stanici."
               }
             },
             {
@@ -1870,7 +1870,7 @@
                 "hu": "Csendes hely az esőszünetre.",
                 "ro": "Un loc liniștit pentru o pauză de ploaie.",
                 "en": "A quiet place for a rain break.",
-                "hr": "Mirno mjesto za pauzu od kiše."
+                "hr": "Tih mjesto za pauzu od kiše."
               }
             },
             {
@@ -1880,7 +1880,7 @@
                 "hu": "Hagyjon magának időt az ebédnél.",
                 "ro": "Nu vă grăbiți la masa de prânz.",
                 "en": "Take your time with lunch.",
-                "hr": "Uzmite si vremena za ručak."
+                "hr": "Uzmite vremena za ručak."
               }
             },
             {
@@ -1890,7 +1890,7 @@
                 "hu": "Informatív beltéri program.",
                 "ro": "Program informativ de interior.",
                 "en": "Informative indoor program.",
-                "hr": "Informativan program u zatvorenom."
+                "hr": "Informativan program unutra."
               }
             },
             {
@@ -1900,7 +1900,7 @@
                 "hu": "Heves esőben inkább maradjon a központban.",
                 "ro": "În caz de ploaie torențială, rămâneți în centru.",
                 "en": "Better stay in the center during heavy rain.",
-                "hr": "Bolje ostanite u centru tijekom jake kiše."
+                "hr": "Bolje ostati u centru tijekom jake kiše."
               }
             }
           ],
@@ -1930,10 +1930,10 @@
               "A rain poncho is the most practical for short sprints."
             ],
             "hr": [
-              "Provjerite vozni red zbog mogućih kašnjenja uzrokovanih vremenom.",
-              "Pripremite sitan novac za kartu.",
-              "Loža je najbolji zaklon dok čekate.",
-              "Kišna kabanica je najpraktičnija za kratke sprinteve."
+              "Provjerite vozni red zbog vremenskih kašnjenja.",
+              "Imajte sitniš spreman za autobusnu kartu.",
+              "Loggija je najbolji zaklon dok čekate.",
+              "Kišni pončo je najsveprisutniji za kratke sprintove."
             ]
           }
         },
@@ -1943,7 +1943,7 @@
             "hu": "A buszos utazás Višnjanba télen is egyszerű. Érkezés után felfedezzük a téli óvárost és a lozsát. Egy melengető ebéd egy konobában energiát ad a délutáni csillagvizsgáló látogatáshoz. Mivel a buszok ritkábban járnak, kihasználjuk az időt egy rövid téli sétára a falu szélén a visszaindulás előtt.",
             "ro": "Călătoria cu autobuzul spre Višnjan este simplă și iarna. După sosire, explorăm centrul vechi hibernal și loja. Un prânz reconfortant într-o konoba ne dă energie pentru după-amiaza la observator. Deoarece autobuzele circulă mai rar, profităm de timp pentru o scurtă plimbare la marginea satului înainte de plecare.",
             "en": "Traveling by bus to Višnjan is easy even in winter. After arrival, we explore the wintry old town and the loggia. A warming lunch in a konoba gives us energy for the afternoon at the observatory. Since buses run less frequently, we use the time for a short winter walk on the edge of the village before heading back.",
-            "hr": "Putovanje autobusom u Višnjan lako je i zimi. Nakon dolaska istražujemo zimski stari grad i ložu. Topli ručak u konobi daje nam energiju za poslijepodne u zvjezdarnici. Budući da autobusi voze rjeđe, koristimo vrijeme za kratku zimsku šetnju rubom mjesta prije povratka."
+            "hr": "Putovanje autobusom do Višnjana je jednostavno i zimi. Nakon dolaska istražujemo zimski stari grad i loggiju. Zagrijavajući ručak u konobi daje nam energije za poslijepodne u opservatoriju. Budući da autobusi voze rjeđe, iskoristimo vrijeme za kratku zimsku šetnju na rubu sela prije povratka."
           },
           "stops": [
             {
@@ -1953,7 +1953,7 @@
                 "hu": "Viseljen szélvédő ruhát a várakozás alatt.",
                 "ro": "Purtați haine rezistente la vânt în timp ce așteptați.",
                 "en": "Wear windproof clothing while waiting.",
-                "hr": "Nosite odjeću otpornu na vjetar dok čekate."
+                "hr": "Nosite vjetrootpornu odjeću dok čekate."
               }
             },
             {
@@ -1963,7 +1963,7 @@
                 "hu": "Csendes tér a téli reggeli napsütésben.",
                 "ro": "Piață liniștită în soarele dimineții de iarnă.",
                 "en": "Quiet square in the wintry morning sun.",
-                "hr": "Tihi trg na zimskom jutarnjem suncu."
+                "hr": "Tih trg u zimskom jutarnjem suncu."
               }
             },
             {
@@ -1973,7 +1973,7 @@
                 "hu": "Történelmi találkozóhely, télen gyakran üres.",
                 "ro": "Loc de întâlnire istoric, adesea pustiu iarna.",
                 "en": "Historic meeting point, often empty in winter.",
-                "hr": "Povijesno sastajalište, zimi često prazno."
+                "hr": "Povijesno mjesto susreta, često prazno zimi."
               }
             },
             {
@@ -1983,7 +1983,7 @@
                 "hu": "A csend és az elmélyülés helye.",
                 "ro": "Un loc de liniște și introspecție.",
                 "en": "A place of silence and reflection.",
-                "hr": "Mjesto tišine i promišljanja."
+                "hr": "Mjesto tišine i razmišljanja."
               }
             },
             {
@@ -2003,7 +2003,7 @@
                 "hu": "Tervezzen korai visszatérést, mert hamar sötétedik.",
                 "ro": "Planificați întoarcerea devreme, deoarece se întunecă repede.",
                 "en": "Plan an early return as it gets dark quickly.",
-                "hr": "Planirajte raniji povratak jer rano pada mrak."
+                "hr": "Planirajte rani povratak jer brzo pada tama."
               }
             },
             {
@@ -2013,7 +2013,7 @@
                 "hu": "Szép kilátás a kopár szőlőültetvényekre.",
                 "ro": "Vedere frumoasă spre podgoriile golașe.",
                 "en": "Nice view of the dormant vineyards.",
-                "hr": "Lijep pogled na vinograde u mirovanju."
+                "hr": "Lijep pogled na uspavane vinograde."
               }
             }
           ],
@@ -2043,10 +2043,10 @@
               "Use local apps for real-time schedule information."
             ],
             "hr": [
-              "Pažljivo provjerite zimski vozni red.",
+              "Pažljivo provjerite zimski autobusni raspored.",
               "Nosite tople zimske cipele za stajanje dok čekate.",
-              "Autobusi su zimi obično dobro ugrijani.",
-              "Koristite lokalne aplikacije za informacije u stvarnom vremenu."
+              "Autobusi su zimi obično dobro grijani.",
+              "Koristite lokalne aplikacije za informacije o stvarnom vremenu rasporeda."
             ]
           }
         }

@@ -21,7 +21,8 @@
             "de": "Unteres Stadttor",
             "hu": "Alsó városkapu",
             "ro": "Poarta de jos a orașului",
-            "en": "Lower City Gate"
+            "en": "Lower City Gate",
+            "hr": "Donja gradska vrata"
           },
           "coords": [
             13.8275,
@@ -36,14 +37,15 @@
             "de": "Der historische Eingang zur Oberstadt.",
             "hu": "A felsőváros történelmi bejárata.",
             "ro": "Intrarea istorică în orașul de sus.",
-            "en": "The historic entrance to the upper town."
+            "en": "The historic entrance to the upper town.",
+            "hr": "Povijesni ulaz u gornji grad."
           },
           "tip_5lang": {
             "de": "Halten Sie inne, um die venezianischen Inschriften am Torbogen zu lesen.",
             "hu": "Állj meg elolvasni a kapuíven a kőbe vésett velencei feliratokat.",
             "ro": "Oprește-te să citești inscripțiile venețiene săpate în arcul porții.",
             "en": "Pause to read the Venetian inscriptions carved into the gate's stone arch.",
-            "hr": "Zastanite kako biste pročitali mletačke natpise uklesane u kameni luk vrata."
+            "hr": "Zastanite i pročitajte venecijanske natpise urezane u kameni luk vrata."
           }
         },
         {
@@ -51,7 +53,8 @@
             "de": "Stadtloggia",
             "hu": "Városi loggia",
             "ro": "Loggia orașului",
-            "en": "City Loggia"
+            "en": "City Loggia",
+            "hr": "Gradska loggia"
           },
           "coords": [
             13.8278,
@@ -66,14 +69,15 @@
             "de": "Wunderschöner Aussichtspunkt über das Tal.",
             "hu": "Gyönyörű kilátópont a völgyre.",
             "ro": "Punct de belvedere superb asupra văii.",
-            "en": "Beautiful viewpoint over the valley."
+            "en": "Beautiful viewpoint over the valley.",
+            "hr": "Prekrasan vidikovac nad dolinom."
           },
           "tip_5lang": {
             "de": "Einst Gerichtssaal, heute ein schattiger Platz für tolle Fotos.",
             "hu": "Hajdani városi bíróság, ma árnyékos, fotózásra ideális helyszín.",
             "ro": "Cândva sala de judecată a orașului, azi un loc umbros pentru fotografii.",
             "en": "Once the town's courtroom; today it's a perfect shaded photo spot.",
-            "hr": "Nekadašnja gradska sudnica; danas savršeno sjenovito mjesto za fotografiranje."
+            "hr": "Nekad sudnica grada; danas je savršeno zasjenjeno mjesto za fotografije."
           }
         },
         {
@@ -81,7 +85,8 @@
             "de": "Platz Andrea Antico",
             "hu": "Andrea Antico tér",
             "ro": "Piața Andrea Antico",
-            "en": "Andrea Antico Square"
+            "en": "Andrea Antico Square",
+            "hr": "Trg Andrea Antico"
           },
           "coords": [
             13.8282,
@@ -96,7 +101,8 @@
             "de": "Das Herz von Motovun mit vielen Cafés.",
             "hu": "Motovun szíve számos kávézóval.",
             "ro": "Inima localității Motovun, cu multe cafenele.",
-            "en": "The heart of Motovun with many cafes."
+            "en": "The heart of Motovun with many cafes.",
+            "hr": "Srce Motovuna s mnogo kafića."
           },
           "tip_5lang": {
             "de": "Benannt nach dem Renaissance-Komponisten, der hier geboren wurde.",
@@ -111,7 +117,8 @@
             "de": "Kirche St. Stephan",
             "hu": "Szent István templom",
             "ro": "Biserica Sfântul Ștefan",
-            "en": "Church of St. Stephen"
+            "en": "Church of St. Stephen",
+            "hr": "Crkva Sv. Stjepana"
           },
           "coords": [
             13.8285,
@@ -126,14 +133,15 @@
             "de": "Spätrenaissance-Kirche mit Glockenturm.",
             "hu": "Késő reneszánsz templom harangtoronnyal.",
             "ro": "Biserică din perioada Renașterii târzii.",
-            "en": "Late Renaissance church with a bell tower."
+            "en": "Late Renaissance church with a bell tower.",
+            "hr": "Kasnorenesansna crkva s zvonikom."
           },
           "tip_5lang": {
             "de": "Treten Sie ein für Gemälde aus der Schule Bellinis.",
             "hu": "Lépj be, hogy a Bellini-iskolának tulajdonított festményeket láthasd.",
             "ro": "Intră pentru a vedea picturi atribuite școlii lui Bellini.",
             "en": "Step inside to see paintings attributed to the school of Bellini.",
-            "hr": "Zavirite unutra kako biste vidjeli slike koje se pripisuju Bellinijevoj školi."
+            "hr": "Uđite da vidite slike pripisane Bellinijevoj školi."
           }
         },
         {
@@ -141,7 +149,8 @@
             "de": "Kommunalpalast",
             "hu": "Közösségi palota",
             "ro": "Palatul Municipal",
-            "en": "Municipal Palace"
+            "en": "Municipal Palace",
+            "hr": "Gradska palača"
           },
           "coords": [
             13.8281,
@@ -156,14 +165,15 @@
             "de": "Ein Symbol der venezianischen Herrschaft.",
             "hu": "A velencei uralom egyik jelképe.",
             "ro": "Un simbol al dominației venețiene.",
-            "en": "A symbol of Venetian rule."
+            "en": "A symbol of Venetian rule.",
+            "hr": "Simbol venecijanske vladavine."
           },
           "tip_5lang": {
             "de": "Der Markuslöwe über der Tür zeugt von Jahrhunderten venezianischer Herrschaft.",
             "hu": "Az ajtó fölötti Szent Márk oroszlán századokon át tartó velencei uralmat idéz.",
             "ro": "Leul Sfântului Marcu de deasupra ușii marchează secole de stăpânire venețiană.",
             "en": "The lion of St. Mark above the door marks centuries of Venetian rule.",
-            "hr": "Lav svetog Marka iznad vrata označava stoljeća mletačke vladavine."
+            "hr": "Lav sv. Marka iznad vrata obilježava stoljeća venecijanske vlasti."
           }
         },
         {
@@ -171,7 +181,8 @@
             "de": "Stadtmauern",
             "hu": "Városfalak",
             "ro": "Zidurile orașului",
-            "en": "City Walls"
+            "en": "City Walls",
+            "hr": "Gradske zidine"
           },
           "coords": [
             13.8285,
@@ -186,14 +197,15 @@
             "de": "Ein kompletter Rundgang bietet 360° Panorama.",
             "hu": "A teljes körséta 360 fokos panorámát nyújt.",
             "ro": "Un tur complet oferă o panoramă de 360 de grade.",
-            "en": "A complete walk offers a 360-degree panorama."
+            "en": "A complete walk offers a 360-degree panorama.",
+            "hr": "Cjelovita šetnja nudi panoramu od 360 stupnjeva."
           },
           "tip_5lang": {
             "de": "Den ganzen Ring umlaufen für die berühmte 360-Grad-Aussicht ins Mirna-Tal.",
             "hu": "Sétáld körbe a teljes gyűrűt a híres 360°-os Mirna-völgy panorámáért.",
             "ro": "Parcurge tot inelul pentru faimoasa priveliște de 360° peste valea Mirna.",
             "en": "Walk the full ring for the famous 360-degree view over the Mirna valley.",
-            "hr": "Prošećite puni krug za poznati pogled od 360 stupnjeva na dolinu Mirne."
+            "hr": "Prošećite cijelim obodom za poznati pogled od 360 stupnjeva na dolinu Mirne."
           }
         },
         {
@@ -201,7 +213,8 @@
             "de": "Oberes Stadttor",
             "hu": "Felső városkapu",
             "ro": "Poarta de sus a orașului",
-            "en": "Upper City Gate"
+            "en": "Upper City Gate",
+            "hr": "Gornja gradska vrata"
           },
           "coords": [
             13.828,
@@ -216,14 +229,15 @@
             "de": "Durchgang zum ältesten Teil der Festung.",
             "hu": "Átjáró az erőd legrégebbi részéhez.",
             "ro": "Pasaj către cea mai veche parte a cetății.",
-            "en": "Passage to the oldest part of the fortress."
+            "en": "Passage to the oldest part of the fortress.",
+            "hr": "Put prema najstarijem dijelu utvrde."
           },
           "tip_5lang": {
             "de": "Am besten am späten Nachmittag fotografieren, wenn der Stein warm leuchtet.",
             "hu": "Késő délután érdemes fotózni, mikor a kő melegen ragyog.",
             "ro": "Cel mai bine fotografiat după-amiaza târziu, când piatra strălucește cald.",
             "en": "Best photographed in late afternoon when the stone glows warmly.",
-            "hr": "Najbolje za fotografiranje kasno poslijepodne kada kamen toplo svijetli."
+            "hr": "Najbolje fotografirano kasnim poslijepodnevnim satima kada kamen toplo sjaji."
           }
         }
       ],
@@ -232,7 +246,7 @@
         "hu": "Kezdje meg az emelkedést a varázslatos dombtetőre épült Motovunba az alsó városkapunál. Sétáljon át a loggián a központi térre a Szent István templomhoz. A paloták megtekintése után a városfalakon tett körséta a nap fénypontja, ahonnan látványos kilátás nyílik a Mirna-völgyre és a híres motovuni erdőre, a szarvasgombák hazájára.",
         "ro": "Începeți urcarea în încântătorul oraș de pe deal, Motovun, de la poarta de jos. Plimbați-vă prin loggia și prin piața centrală spre biserica Sfântul Ștefan. După o pauză la palatele istorice, turul pe zidurile orașului este atracția principală, oferind vederi spectaculoase asupra văii Mirna și a pădurii Motovun, tărâmul trufelor.",
         "en": "Start your ascent into the enchanting hilltop town of Motovun at the lower city gate. Stroll through the loggia and across the central square to St. Stephen's Church. After a break exploring the historic palaces, the walk on the city walls is the absolute highlight, offering spectacular views of the Mirna Valley and the famous Motovun Forest, home of the truffles.",
-        "hr": "Započnite svoj uspon u očaravajući gradić Motovun na brdu kod donjih gradskih vrata. Prošećite kroz ložu i preko središnjeg trga do crkve sv. Stjepana. Nakon odmora uz istraživanje povijesnih palača, šetnja gradskim zidinama apsolutni je vrhunac, nudeći spektakularan pogled na dolinu Mirne i poznatu Motovunsku šumu, stanište tartufa."
+        "hr": "Započnite uspon u očaravajući gradić na brdu Motovun na donjim gradskim vratima. Prošećite kroz loggiu i preko glavnog trga do Crkve Sv. Stjepana. Nakon odmora i istraživanja povijesnih palača, šetnja gradskim zidinama je apsolutni vrhunac, nudeći spektakularne poglede na dolinu Mirne i poznatu Motovunsku šumu, dom tartufa."
       },
       "gastro_picks": {
         "de": [
@@ -381,9 +395,9 @@
           "The combined ticket for the walls is worth it."
         ],
         "hr": [
-          "Parkirajte u podnožju i koristite shuttle bus.",
-          "Ulice su strme i često skliske.",
-          "Posjetite gradić rano ujutro.",
+          "Parkirajte dolje i koristite shuttle autobus.",
+          "Uličice su strme i često skliske.",
+          "Posjetite grad rano ujutro.",
           "Kombinirana ulaznica za zidine se isplati."
         ]
       },
@@ -393,7 +407,8 @@
             "de": "Beginnen Sie Ihren Aufstieg in die bezaubernde Hügelstadt Motovun am unteren Stadttor. Schlendern Sie durch die Loggia und über den zentralen Platz zur St. Stephan Kirche. Nach einer Pause in einem der Paläste ist der Rundgang auf der Stadtmauer das absolute Highlight, mit spektakulären Ausblicken auf das Mirna-Tal und den berühmten Wald von Motovun, die Heimat der Trüffel.",
             "hu": "Kezdje meg az emelkedést a varázslatos dombtetőre épült Motovunba az alsó városkapunál. Sétáljon át a loggián a központi térre a Szent István templomhoz. A paloták megtekintése után a városfalakon tett körséta a nap fénypontja, ahonnan látványos kilátás nyílik a Mirna-völgyre és a híres motovuni erdőre, a szarvasgombák hazájára.",
             "ro": "Începeți urcarea în încântătorul oraș de pe deal, Motovun, de la poarta de jos. Plimbați-vă prin loggia și prin piața centrală spre biserica Sfântul Ștefan. După o pauză la palatele istorice, turul pe zidurile orașului este atracția principală, oferind vederi spectaculoase asupra văii Mirna și a pădurii Motovun, tărâmul trufelor.",
-            "en": "Start your ascent into the enchanting hilltop town of Motovun at the lower city gate. Stroll through the loggia and across the central square to St. Stephen's Church. After a break exploring the historic palaces, the walk on the city walls is the absolute highlight, offering spectacular views of the Mirna Valley and the famous Motovun Forest, home of the truffles."
+            "en": "Start your ascent into the enchanting hilltop town of Motovun at the lower city gate. Stroll through the loggia and across the central square to St. Stephen's Church. After a break exploring the historic palaces, the walk on the city walls is the absolute highlight, offering spectacular views of the Mirna Valley and the famous Motovun Forest, home of the truffles.",
+            "hr": "Započnite uspon u očaravajući gradić na brdu Motovun na donjim gradskim vratima. Prošećite kroz loggiu i preko glavnog trga do Crkve Sv. Stjepana. Nakon odmora i istraživanja povijesnih palača, šetnja gradskim zidinama je apsolutni vrhunac, nudeći spektakularne poglede na dolinu Mirne i poznatu Motovunsku šumu, dom tartufa."
           },
           "stops": [
             {
@@ -401,7 +416,8 @@
                 "de": "Unteres Stadttor",
                 "hu": "Alsó városkapu",
                 "ro": "Poarta de jos a orașului",
-                "en": "Lower City Gate"
+                "en": "Lower City Gate",
+                "hr": "Donja gradska vrata"
               },
               "tip_5lang": null
             },
@@ -410,7 +426,8 @@
                 "de": "Stadtloggia",
                 "hu": "Városi loggia",
                 "ro": "Loggia orașului",
-                "en": "City Loggia"
+                "en": "City Loggia",
+                "hr": "Gradska loggia"
               },
               "tip_5lang": null
             },
@@ -419,7 +436,8 @@
                 "de": "Platz Andrea Antico",
                 "hu": "Andrea Antico tér",
                 "ro": "Piața Andrea Antico",
-                "en": "Andrea Antico Square"
+                "en": "Andrea Antico Square",
+                "hr": "Trg Andrea Antico"
               },
               "tip_5lang": null
             },
@@ -428,7 +446,8 @@
                 "de": "Kirche St. Stephan",
                 "hu": "Szent István templom",
                 "ro": "Biserica Sfântul Ștefan",
-                "en": "Church of St. Stephen"
+                "en": "Church of St. Stephen",
+                "hr": "Crkva Sv. Stjepana"
               },
               "tip_5lang": null
             },
@@ -437,7 +456,8 @@
                 "de": "Kommunalpalast",
                 "hu": "Közösségi palota",
                 "ro": "Palatul Municipal",
-                "en": "Municipal Palace"
+                "en": "Municipal Palace",
+                "hr": "Gradska palača"
               },
               "tip_5lang": null
             },
@@ -446,7 +466,8 @@
                 "de": "Stadtmauern",
                 "hu": "Városfalak",
                 "ro": "Zidurile orașului",
-                "en": "City Walls"
+                "en": "City Walls",
+                "hr": "Gradske zidine"
               },
               "tip_5lang": null
             },
@@ -455,7 +476,8 @@
                 "de": "Oberes Stadttor",
                 "hu": "Felső városkapu",
                 "ro": "Poarta de sus a orașului",
-                "en": "Upper City Gate"
+                "en": "Upper City Gate",
+                "hr": "Gornja gradska vrata"
               },
               "tip_5lang": null
             }
@@ -582,6 +604,12 @@
               "The alleys are steep and often slippery.",
               "Visit the town in the early morning.",
               "The combined ticket for the walls is worth it."
+            ],
+            "hr": [
+              "Parkirajte dolje i koristite shuttle autobus.",
+              "Uličice su strme i često skliske.",
+              "Posjetite grad rano ujutro.",
+              "Kombinirana ulaznica za zidine se isplati."
             ]
           }
         },
@@ -591,7 +619,7 @@
             "hu": "Kezdje a napot a ködös várkapunál. Délben a Loggia és a palota nyújt menedéket az eső elől. Délután a vizes macskakövek csillognak az Andrea Antico téren. Az estét töltse egy hangulatos borozóban a várfalak védelmében.",
             "ro": "Începeți ziua la poarta cetății învăluită în ceață. La prânz, Loggia și palatul oferă adăpost împotriva ploii. După-amiaza, dalele umede strălucesc în piața Andrea Antico. Seara se încheie plăcut într-o vinărie protejată de zidurile vechi.",
             "en": "Start your day at the misty city gate. At noon, the Loggia and the palace provide shelter from the rain. In the afternoon, the wet cobblestones glisten on Andrea Antico Square. End the evening in a cozy wine cellar protected by the ancient walls.",
-            "hr": "Započnite dan kod maglovitih gradskih vrata. U podne, loža i palača pružaju zaklon od kiše. Poslijepodne, mokri oblutci sjaje na Trgu Andree Antica. Završite večer u ugodnom vinskom podrumu zaštićenom drevnim zidinama."
+            "hr": "Započnite dan na maglovitim gradskim vratima. U podne, Loggia i palača pružaju zaklon od kiše. Popodne, mokri kaldrmir blista na Trgu Andrea Antico. Završite večer u ugodnoj vinskoj podrumskoj konobi zaštićenoj drevnim zidinama."
           },
           "stops": [
             {
@@ -601,7 +629,7 @@
                 "hu": "A masszív kapu az első száraz menedék a felfelé vezető úton.",
                 "ro": "Poarta masivă oferă primul adăpost uscat în timpul urcării.",
                 "en": "The massive gate offers the first dry shelter on the way up.",
-                "hr": "Masivna vrata nude prvi suhi zaklon na putu prema gore."
+                "hr": "Masivna vrata nude prvi suhi zaklon na usponu."
               }
             },
             {
@@ -611,7 +639,7 @@
                 "hu": "Tökéletes fedett kilátópont a völgy megtekintéséhez esőben is.",
                 "ro": "Un punct de observație acoperit perfect pentru a vedea valea pe ploaie.",
                 "en": "A perfect covered viewpoint to see the valley even in the rain.",
-                "hr": "Savršen natkriveni vidikovac za pogled na dolinu čak i po kiši."
+                "hr": "Savršen pokriveni vidikovac za gledanje doline čak i po kiši."
               }
             },
             {
@@ -621,7 +649,7 @@
                 "hu": "Vigyázat a csúszós köveken; az itteni kávézók ponyvával védettek.",
                 "ro": "Atenție la pietrele alunecoase; cafenelele de aici au copertine.",
                 "en": "Watch out for slippery stones; the cafes here have awnings.",
-                "hr": "Pazite na sklisko kamenje; kafići ovdje imaju tende."
+                "hr": "Pazite na skliske kamene; kafići ovdje imaju tende."
               }
             },
             {
@@ -631,7 +659,7 @@
                 "hu": "A belső tér ideális hely egy csendes, száraz pihenőre.",
                 "ro": "Interiorul este un loc ideal pentru o pauză liniștită și uscată.",
                 "en": "The interior is an ideal place for a quiet, dry break.",
-                "hr": "Unutrašnjost je idealno mjesto za miran, suhi odmor."
+                "hr": "Unutrašnjost je idealno mjesto za miran, suv odmor."
               }
             },
             {
@@ -641,7 +669,7 @@
                 "hu": "Látogassa meg a belső kiállításokat, hogy elkerülje a felhőszakadást.",
                 "ro": "Vizitați expozițiile din interior pentru a evita aversa.",
                 "en": "Visit the indoor exhibitions to escape the downpour.",
-                "hr": "Posjetite unutarnje izložbe kako biste pobjegli od pljuska."
+                "hr": "Posjetite unutarnje izložbe da biste izbjegli pljusak."
               }
             },
             {
@@ -651,7 +679,7 @@
                 "hu": "Sétáljon óvatosan; a szél erős lehet a falakon esőben.",
                 "ro": "Mergeți cu atenție; vântul poate fi puternic pe ziduri pe ploaie.",
                 "en": "Walk carefully; the wind can be strong on the walls during rain.",
-                "hr": "Hodajte oprezno; vjetar na zidinama može biti jak tijekom kiše."
+                "hr": "Hodajte pažljivo; vjetar može biti jak na zidinama tijekom kiše."
               }
             },
             {
@@ -661,7 +689,7 @@
                 "hu": "Egy utolsó védett hely, mielőtt megkezdené a leereszkedést.",
                 "ro": "Un ultim spațiu protejat înainte de a începe coborârea.",
                 "en": "A final sheltered spot before starting your descent.",
-                "hr": "Posljednje natkriveno mjesto prije početka spuštanja."
+                "hr": "Zadnje zaštićeno mjesto prije početka silaska."
               }
             }
           ],
@@ -692,8 +720,8 @@
             ],
             "hr": [
               "Nosite obuću s dobrim prianjanjem zbog skliskih uličica.",
-              "Loža je najbolje besplatno sklonište od kiše u gradu.",
-              "Posjetite trgovine tartufima radi degustacije dok ostajete suhi.",
+              "Loggia je najbolji besplatni zaklon od kiše u gradu.",
+              "Posjetite trgovine s tartufima na kušanja dok ostajete suhi.",
               "Kišobran je nepraktičan na zidinama zbog vjetra; koristite kabanicu."
             ]
           }
@@ -704,7 +732,7 @@
             "hu": "Élvezze a tiszta téli levegőt a várkapunál. Délben melegedjen fel az Andrea Antico tér kávézóiban. Mivel a nap 16:30 körül nyugszik, a várfalak mágikus szürkületi fényt kapnak. Az estét töltse egy konoba kandallója mellett, helyi bort kortyolgatva.",
             "ro": "Bucurați-vă de aerul curat de iarnă la poarta cetății. La prânz, încălziți-vă în cafenelele din piața Andrea Antico. Deoarece soarele apune în jur de 16:30, zidurile oferă o lumină magică de amurg. Seara, stați lângă șemineul unei konoba cu un vin local.",
             "en": "Enjoy the crisp winter air at the city gate. At noon, warm up in the cafes on Andrea Antico Square. As the sun sets around 4:30 PM, the walls offer a magical twilight glow. Spend the evening by the fireplace of a konoba, sipping local wine.",
-            "hr": "Uživajte u svježem zimskom zraku kod gradskih vrata. U podne se zagrijte u kafićima na Trgu Andree Antica. Dok sunce zalazi oko 16:30, zidine nude čaroban sumračni sjaj. Provedite večer uz kamin konobe, pijuckajući lokalno vino."
+            "hr": "Uživajte u svježem zimskom zraku na gradskim vratima. U podne se ugrijte u kafićima na Trgu Andree Antico. Kako sunce zalazi oko 16:30, zidine pružaju čarobni sumrak. Večer provedite uz kamin u konobi, srkajući lokalno vino."
           },
           "stops": [
             {
@@ -714,7 +742,7 @@
                 "hu": "Az árnyékos részek itt télen különösen hűvösek.",
                 "ro": "Zonele umbroase de aici sunt deosebit de reci iarna.",
                 "en": "The shaded areas here are especially chilly in winter.",
-                "hr": "Sjenovita područja ovdje su posebno hladna zimi."
+                "hr": "Zasjenjena područja ovdje su posebno hladna zimi."
               }
             },
             {
@@ -724,7 +752,7 @@
                 "hu": "Ideális a távoli, havas hegycsúcsok látványának megtekintéséhez.",
                 "ro": "Ideal pentru a savura vederea spre vârfurile muntoase înzăpezite.",
                 "en": "Ideal for enjoying the distant views of snow-capped peaks.",
-                "hr": "Idealno za uživanje u dalekom pogledu na snijegom prekrivene vrhove."
+                "hr": "Idealno za uživanje u udaljenim pogledima na snijegom pokrivene vrhove."
               }
             },
             {
@@ -734,7 +762,7 @@
                 "hu": "Használja ki a déli napsütést a kültéri helyeken, plédekkel.",
                 "ro": "Profitați de soarele de prânz pe terasele dotate cu pături.",
                 "en": "Take advantage of the midday sun at outdoor spots with blankets.",
-                "hr": "Iskoristite podnevno sunce na otvorenim mjestima uz deke."
+                "hr": "Iskoristite podnevno sunce na otvorenim mjestima s dekama."
               }
             },
             {
@@ -744,7 +772,7 @@
                 "hu": "Szélvédett hely, ahol rövid időre megpihenhet.",
                 "ro": "Un loc ferit de vânt, unde vă puteți odihni scurt.",
                 "en": "A wind-sheltered spot to rest for a short while.",
-                "hr": "Mjesto zaštićeno od vjetra za kratki odmor."
+                "hr": "Mjesto za kratki odmor zaštićeno od vjetra."
               }
             },
             {
@@ -754,7 +782,7 @@
                 "hu": "A vastag kőfalak kívül tartják a téli hideget.",
                 "ro": "Zidurile groase de piatră țin frigul afară.",
                 "en": "The thick stone walls keep the winter cold out.",
-                "hr": "Debeli kameni zidovi drže zimsku hladnoću vani."
+                "hr": "Debele kamene zidine zadržavaju zimsku hladnoću vani."
               }
             },
             {
@@ -764,7 +792,7 @@
                 "hu": "A legjobb hely a korai naplemente megtekintéséhez a Mirna-völgy felett.",
                 "ro": "Cel mai bun loc pentru apusul timpuriu peste valea Mirna.",
                 "en": "Best spot for the early sunset over the Mirna valley.",
-                "hr": "Najbolje mjesto za rani zalazak sunca nad dolinom Mirne."
+                "hr": "Najbolje mjesto za raniji zalazak sunca nad dolinom Mirne."
               }
             },
             {
@@ -774,7 +802,7 @@
                 "hu": "Rövid megálló, mielőtt beülne melegedni a következő étterembe.",
                 "ro": "Scurt popas înainte de a merge la încălzit în următorul restaurant.",
                 "en": "Short stop before heading to the next restaurant to warm up.",
-                "hr": "Kratko zaustavljanje prije odlaska u sljedeći restoran na grijanje."
+                "hr": "Kratka stanica prije odlaska u sljedeći restoran za ugrijavanje."
               }
             }
           ],
@@ -804,10 +832,10 @@
               "Enjoy 'Biska' (mistletoe brandy) to warm up."
             ],
             "hr": [
-              "Savjetuje se slojevita odjeća zbog fizičkog napora pri usponu.",
-              "Sunce rano nestaje iza brda; fotografirajte prije 15:30.",
-              "Mnoge suvenirnice zimi imaju kraće radno vrijeme.",
-              "Uživajte u biski (rakija od imele) za zagrijavanje."
+              "Preporučuje se slojevito odijevanje zbog fizičkog napora uspona.",
+              "Sunce rano nestaje iza brežuljaka; fotografirajte prije 15:30.",
+              "Mnoge suvenirnice imaju kraće radno vrijeme zimi.",
+              "Ugrijte se uz \"Bisku\" (lovoriku)."
             ]
           }
         }
@@ -826,7 +854,8 @@
             "de": "Parenzana-Weg",
             "hu": "Parenzana-út",
             "ro": "Traseul Parenzana",
-            "en": "Parenzana Trail"
+            "en": "Parenzana Trail",
+            "hr": "Parenzana staza"
           },
           "coords": [
             13.822,
@@ -841,14 +870,15 @@
             "de": "Ehemalige Bahntrasse, ideal für MTB.",
             "hu": "Egykori vasútvonal, ideális MTB-hez.",
             "ro": "Fosta cale ferată, ideală pentru MTB.",
-            "en": "Former railway line, ideal for MTB."
+            "en": "Former railway line, ideal for MTB.",
+            "hr": "Bivša željeznička pruga, idealna za MTB."
           },
           "tip_5lang": {
             "de": "Ehemalige Schmalspurbahn, heute Istriens Vorzeige-Gravelstrecke.",
             "hu": "Egykori keskenynyomtávú vasút, ma Isztria zászlós gravel útvonala.",
             "ro": "Fostă cale ferată îngustă, azi traseul de gravel emblematic al Istriei.",
             "en": "Former narrow-gauge railway, now Istria's flagship gravel route.",
-            "hr": "Bivša uskotračna pruga, danas vodeća istarska makadamska ruta."
+            "hr": "Bivša uska željeznička pruga, danas istarski vodeći gravel pravac."
           }
         },
         {
@@ -856,7 +886,8 @@
             "de": "Wald von Motovun",
             "hu": "Motovuni erdő",
             "ro": "Pădurea Motovun",
-            "en": "Motovun Forest"
+            "en": "Motovun Forest",
+            "hr": "Motovunska šuma"
           },
           "coords": [
             13.835,
@@ -871,14 +902,15 @@
             "de": "Schattige Wege im Tal.",
             "hu": "Árnyékos utak a völgyben.",
             "ro": "Poteci umbrite în vale.",
-            "en": "Shady paths in the valley."
+            "en": "Shady paths in the valley.",
+            "hr": "Zasjenjene staze u dolini."
           },
           "tip_5lang": {
             "de": "Achten Sie im Herbst auf Trüffel-Suchhunde entlang des Weges.",
             "hu": "Ősszel figyelj a szarvasgombát kereső kutyákra az úton.",
             "ro": "Atenție la câinii care caută trufe pe potecă, mai ales toamna.",
             "en": "Watch for truffle-hunting dogs along the path in autumn.",
-            "hr": "U jesen pripazite na pse u potrazi za tartufima uz stazu."
+            "hr": "Pazite na pse za traženje tartufa uz stazu u jesen."
           }
         },
         {
@@ -886,7 +918,8 @@
             "de": "Kanal Mirna",
             "hu": "Mirna-csatorna",
             "ro": "Canalul Mirna",
-            "en": "Mirna Canal"
+            "en": "Mirna Canal",
+            "hr": "Mirnanski kanal"
           },
           "coords": [
             13.815,
@@ -901,14 +934,15 @@
             "de": "Flache Strecke entlang des Flusses.",
             "hu": "Sík szakasz a folyó mentén.",
             "ro": "Traseu plat de-a lungul râului.",
-            "en": "Flat route along the river."
+            "en": "Flat route along the river.",
+            "hr": "Ravna ruta uz rijeku."
           },
           "tip_5lang": {
             "de": "Die Eisenbrücke langsam überqueren — die Holzplanken klappern, halten aber.",
             "hu": "Lassan menj át a vashídon, a fadeszkák zörögnek, de bírnak.",
             "ro": "Treci podul de fier încet — scândurile de lemn zornăie, dar țin bine.",
             "en": "Cross the iron bridge slowly — the wooden planks rattle but hold.",
-            "hr": "Polako prijeđite željezni most — drvene daske klepeću, ali drže."
+            "hr": "Pređite željezni most polako — drvene daske škripaju, ali drže."
           }
         },
         {
@@ -916,7 +950,8 @@
             "de": "Motovun Bergfuß",
             "hu": "Motovun hegy lába",
             "ro": "Baza dealului Motovun",
-            "en": "Foot of Motovun Hill"
+            "en": "Foot of Motovun Hill",
+            "hr": "Podnožje Motovunskog brda"
           },
           "coords": [
             13.825,
@@ -931,14 +966,15 @@
             "de": "Cafés für eine kurze Rast.",
             "hu": "Kávézók egy rövid pihenőhöz.",
             "ro": "Cafenele pentru un scurt popas.",
-            "en": "Cafes for a short rest."
+            "en": "Cafes for a short rest.",
+            "hr": "Kafići za kratki odmor."
           },
           "tip_5lang": {
             "de": "Rad hier abschließen; der gepflasterte Aufstieg in die Altstadt ist steil.",
             "hu": "Itt zárd le a biciklit, a macskaköves emelkedő az óvárosba meredek.",
             "ro": "Leagă bicicleta aici; urcușul pavat spre orașul vechi este abrupt.",
             "en": "Lock your bike here; the cobbled climb to the old town is steep.",
-            "hr": "Ovdje zaključajte bicikl; uspon po oblutcima do starog grada je strm."
+            "hr": "Ovdje zaključajte bicikl; popločani uspon do starog grada je strm."
           }
         },
         {
@@ -946,7 +982,8 @@
             "de": "Livade",
             "hu": "Livade",
             "ro": "Livade",
-            "en": "Livade"
+            "en": "Livade",
+            "hr": "Livade"
           },
           "coords": [
             13.828,
@@ -961,14 +998,15 @@
             "de": "Das Zentrum der Trüffelsuche.",
             "hu": "A szarvasgomba-keresés központja.",
             "ro": "Centrul căutării de trufe.",
-            "en": "The center of truffle hunting."
+            "en": "The center of truffle hunting.",
+            "hr": "Središte lova na tartufe."
           },
           "tip_5lang": {
             "de": "In einem der Dorfrestaurants frische Tagliatelle mit Trüffel probieren.",
             "hu": "A falu valamelyik éttermében kóstold meg a friss szarvasgombás tagliatellét.",
             "ro": "Oprește-te pentru tagliatelle proaspete cu trufe într-un restaurant local.",
             "en": "Stop for fresh tagliatelle with truffle in one of the village restaurants.",
-            "hr": "Stanite na svježe tagliatelle s tartufima u jednom od seoskih restorana."
+            "hr": "Zastanite na svježe tagliatelle s tartufom u jednom od seoskih restorana."
           }
         }
       ],
@@ -977,7 +1015,7 @@
         "hu": "A kerékpárosok számára a Parenzana-út kötelező. A sík útvonal alagutakon és viaduktokon vezet keresztül Motovun körül. Fedezze fel az árnyas motovuni erdőt, és tekerjen a Mirna folyó mentén egészen Livade-ig. Maga a városba vezető út meredek, de a környék nyugodt biciklizést kínál a természetben.",
         "ro": "Pentru bicicliști, traseul Parenzana este obligatoriu. Ruta plată trece prin tuneluri și peste viaducte în jurul Motovunului. Explorați pădurea umbrită Motovun și pedalați de-a lungul râului Mirna până la Livade. Urcarea în orașul propriu-zis este abruptă, dar împrejurimile oferă ciclism relaxat în natură.",
         "en": "For cyclists, the Parenzana Trail is a must. This flat route leads through tunnels and across viaducts around Motovun. Explore the shaded Motovun Forest and cycle along the Mirna River to Livade. While the ascent to the town itself is steep, the surrounding area offers relaxed cycling in nature.",
-        "hr": "Za bicikliste je staza Parenzana obavezna. Ova ravna ruta vodi kroz tunele i preko vijadukata oko Motovuna. Istražite sjenovitu Motovunsku šumu i biciklirajte uz rijeku Mirnu do Livada. Iako je uspon do samog grada strm, okolica nudi opušteno bicikliranje u prirodi."
+        "hr": "Za bicikliste je Parenzana obavezna. Ova ravna ruta vodi kroz tunele i preko vijadukata oko Motovuna. Istražite zasjenjenu Motovunsku šumu i vozite duž rijeke Mirne do Livada. Iako je uspon do samog grada strm, okolica nudi opušteno bicikliranje u prirodi."
       },
       "gastro_picks": {
         "de": [
@@ -1102,8 +1140,8 @@
           "Bring insect repellent for the forest."
         ],
         "hr": [
-          "Preporučuje se brdski bicikl.",
-          "Unutar tunela Parenzane je hladno.",
+          "Preporučuje se mountain bike.",
+          "U Parenzana tunelima je svježe.",
           "Ponesite sredstvo protiv insekata za šumu."
         ]
       },
@@ -1113,7 +1151,8 @@
             "de": "Für Radfahrer ist der Parenzana-Weg ein Muss. Die flache Route führt durch Tunnel und über Viadukte rund um Motovun. Erkunden Sie den schattigen Motovun-Wald und radeln Sie entlang des Flusses Mirna bis nach Livade. Der Aufstieg in die Stadt selbst ist steil, aber das Umland bietet entspanntes Radeln in der Natur.",
             "hu": "A kerékpárosok számára a Parenzana-út kötelező. A sík útvonal alagutakon és viaduktokon vezet keresztül Motovun körül. Fedezze fel az árnyas motovuni erdőt, és tekerjen a Mirna folyó mentén egészen Livade-ig. Maga a városba vezető út meredek, de a környék nyugodt biciklizést kínál a természetben.",
             "ro": "Pentru bicicliști, traseul Parenzana este obligatoriu. Ruta plată trece prin tuneluri și peste viaducte în jurul Motovunului. Explorați pădurea umbrită Motovun și pedalați de-a lungul râului Mirna până la Livade. Urcarea în orașul propriu-zis este abruptă, dar împrejurimile oferă ciclism relaxat în natură.",
-            "en": "For cyclists, the Parenzana Trail is a must. This flat route leads through tunnels and across viaducts around Motovun. Explore the shaded Motovun Forest and cycle along the Mirna River to Livade. While the ascent to the town itself is steep, the surrounding area offers relaxed cycling in nature."
+            "en": "For cyclists, the Parenzana Trail is a must. This flat route leads through tunnels and across viaducts around Motovun. Explore the shaded Motovun Forest and cycle along the Mirna River to Livade. While the ascent to the town itself is steep, the surrounding area offers relaxed cycling in nature.",
+            "hr": "Za bicikliste je Parenzana obavezna. Ova ravna ruta vodi kroz tunele i preko vijadukata oko Motovuna. Istražite zasjenjenu Motovunsku šumu i vozite duž rijeke Mirne do Livada. Iako je uspon do samog grada strm, okolica nudi opušteno bicikliranje u prirodi."
           },
           "stops": [
             {
@@ -1121,7 +1160,8 @@
                 "de": "Parenzana-Weg",
                 "hu": "Parenzana-út",
                 "ro": "Traseul Parenzana",
-                "en": "Parenzana Trail"
+                "en": "Parenzana Trail",
+                "hr": "Parenzana staza"
               },
               "tip_5lang": null
             },
@@ -1130,7 +1170,8 @@
                 "de": "Wald von Motovun",
                 "hu": "Motovuni erdő",
                 "ro": "Pădurea Motovun",
-                "en": "Motovun Forest"
+                "en": "Motovun Forest",
+                "hr": "Motovunska šuma"
               },
               "tip_5lang": null
             },
@@ -1139,7 +1180,8 @@
                 "de": "Kanal Mirna",
                 "hu": "Mirna-csatorna",
                 "ro": "Canalul Mirna",
-                "en": "Mirna Canal"
+                "en": "Mirna Canal",
+                "hr": "Mirnanski kanal"
               },
               "tip_5lang": null
             },
@@ -1148,7 +1190,8 @@
                 "de": "Motovun Bergfuß",
                 "hu": "Motovun hegy lába",
                 "ro": "Baza dealului Motovun",
-                "en": "Foot of Motovun Hill"
+                "en": "Foot of Motovun Hill",
+                "hr": "Podnožje Motovunskog brda"
               },
               "tip_5lang": null
             },
@@ -1157,7 +1200,8 @@
                 "de": "Livade",
                 "hu": "Livade",
                 "ro": "Livade",
-                "en": "Livade"
+                "en": "Livade",
+                "hr": "Livade"
               },
               "tip_5lang": null
             }
@@ -1264,6 +1308,11 @@
               "A mountain bike is recommended.",
               "It's cool inside the Parenzana tunnels.",
               "Bring insect repellent for the forest."
+            ],
+            "hr": [
+              "Preporučuje se mountain bike.",
+              "U Parenzana tunelima je svježe.",
+              "Ponesite sredstvo protiv insekata za šumu."
             ]
           }
         },
@@ -1273,7 +1322,7 @@
             "hu": "Fedezze fel a Parenzana útvonalat a saras ösvényeken. Délben a Motovuni erdő természetes tetőt nyújt, de vigyázzon a csúszós avarra. Délután az út a Mirna-csatorna mentén halad, ahol misztikusan száll fel a köd. A nap a völgyben, Livade-ben ér véget egy meleg levessel.",
             "ro": "Explorați traseul Parenzana pe poteci noroioase. La prânz, pădurea Motovun oferă un acoperiș natural, dar atenție la frunzele alunecoase. După-amiaza, ruta trece pe lângă canalul Mirna, unde ceața se ridică mistic. Ziua se încheie în vale la Livade cu o supă caldă.",
             "en": "Explore the Parenzana trail on muddy paths. At noon, the Motovun Forest provides a natural canopy, but watch out for slippery leaves. In the afternoon, the route follows the Mirna canal, where mist rises mystically. The day ends in the valley at Livade with a warm soup.",
-            "hr": "Istražite stazu Parenzana na blatnjavim putovima. U podne Motovunska šuma pruža prirodni krov, ali pripazite na sklisko lišće. Poslijepodne ruta prati kanal Mirne, gdje se magla mistično diže. Dan završava u dolini kod Livada uz toplu juhu."
+            "hr": "Istražite Parenzanu po blatnim stazama. U podne Motovunska šuma pruža prirodni krov, ali pazite na klizavo lišće. Popodne ruta slijedi Mirnanski kanal, gdje se magla mistično diže. Dan završava u dolini u Livadama s toplom juhom."
           },
           "stops": [
             {
@@ -1283,7 +1332,7 @@
                 "hu": "Sárvédők nélkülözhetetlenek ezen az időben a murvás úton.",
                 "ro": "Apărătorile de noroi sunt esențiale pe pietriș pe această vreme.",
                 "en": "Mudguards are essential on the gravel in this weather.",
-                "hr": "Blatobrani su neophodni na makadamu po ovakvom vremenu."
+                "hr": "Blatobrani su nužni na šljunku u ovakvom vremenu."
               }
             },
             {
@@ -1293,7 +1342,7 @@
                 "hu": "A fák felfogják az eső elejét, de a gyökerek rendkívül csúszósak.",
                 "ro": "Copacii opresc prima ploaie, dar rădăcinile sunt extrem de alunecoase.",
                 "en": "Trees intercept the first rain, but roots are extremely slippery.",
-                "hr": "Stabla zaustavljaju prvu kišu, ali korijenje je izuzetno sklisko."
+                "hr": "Stabla zaustavljaju prvu kišu, ali korijenje je iznimno sklisko."
               }
             },
             {
@@ -1303,7 +1352,7 @@
                 "hu": "A vízparti út heves esőzéskor felázhat.",
                 "ro": "Drumul de lângă apă se poate înmuia la ploi abundente.",
                 "en": "The path by the water can become soft during heavy rain.",
-                "hr": "Staza uz vodu može postati mekana tijekom jake kiše."
+                "hr": "Staza uz vodu može omekšati tijekom jake kiše."
               }
             },
             {
@@ -1313,7 +1362,7 @@
                 "hu": "Rövid pihenő a völgyben lévő épületek eresze alatt.",
                 "ro": "Scurtă pauză sub streșinile clădirilor din vale.",
                 "en": "Short break under the eaves of the buildings in the valley.",
-                "hr": "Kratak odmor pod strehama zgrada u dolini."
+                "hr": "Kratka pauza pod nadstrešnicama zgrada u dolini."
               }
             },
             {
@@ -1323,7 +1372,7 @@
                 "hu": "Ideális hely a vizes ruhák cseréjéhez egy pihenő során.",
                 "ro": "Loc ideal pentru a schimba hainele ude în timpul unei pauze.",
                 "en": "Ideal spot to change wet clothes during a break.",
-                "hr": "Idealno mjesto za presvlačenje mokre odjeće tijekom odmora."
+                "hr": "Idealno mjesto za presvlačenje mokre odjeće tijekom pauze."
               }
             }
           ],
@@ -1353,10 +1402,10 @@
               "Clean the chain after the ride to remove sandy mud."
             ],
             "hr": [
-              "Koristite vodootporne torbe za opremu.",
-              "Lagano smanjite tlak u gumama za bolje prianjanje na blatu.",
-              "Tuneli Parenzane pružaju suhe prolaze.",
-              "Očistite lanac nakon vožnje kako biste uklonili pješčano blato."
+              "Koristite vodootporne bokseve za opremu.",
+              "Neznatno smanjite tlak u gumama za bolje prianjanje na blatu.",
+              "Parenzana tuneli nude suhe prijelaze.",
+              "Očistite lanac nakon vožnje kako biste uklonili pjeskovito blato."
             ]
           }
         },
@@ -1366,7 +1415,7 @@
             "hu": "Induljon a Parenzanán fagyos hőmérsékletben. Délben a túra a kopár Motovuni erdőn át vezet, amely távoli kilátást enged. Délután a Mirna-csatorna mentén kerekezhet az alacsonyan járó téli napsütésben. A nap Livade központjában ér véget, még az esti lehűlés előtt.",
             "ro": "Porniți pe Parenzana la temperaturi de îngheț. La prânz, turul trece prin pădurea golașă Motovun, care permite vederi largi. După-amiaza, pedalați pe lângă canalul Mirna în soarele slab de iarnă. Ziua se încheie în centrul satului Livade, înainte de gerul serii.",
             "en": "Start on the Parenzana in freezing temperatures. At noon, the tour leads through the bare Motovun Forest, allowing wide views. In the afternoon, cycle along the Mirna canal in the low winter sun. The day ends in the center of Livade before the evening chill sets in.",
-            "hr": "Započnite na Parenzani pri temperaturama ispod nule. U podne tura vodi kroz ogoljenu Motovunsku šumu, omogućujući široke vidike. Poslijepodne biciklirajte uz kanal Mirne na niskom zimskom suncu. Dan završava u centru Livada prije nego što nastupi večernja hladnoća."
+            "hr": "Krenite Parenzanom u ledićavim temperaturama. U podne tura vodi kroz ogoljenu Motovunsku šumu, dopuštajući široke poglede. Popodne vozite duž Mirnanskog kanala u niskom zimskom suncu. Dan završava u centru Livada prije nego što zahladi navečer."
           },
           "stops": [
             {
@@ -1376,7 +1425,7 @@
                 "hu": "Ügyeljen a fagyott tócsákra az árnyékos kanyarokban.",
                 "ro": "Atenție la bălțile înghețate în curbele umbroase.",
                 "en": "Watch out for frozen puddles in shaded corners.",
-                "hr": "Pazite na smrznute lokve u sjenovitim kutovima."
+                "hr": "Pazite na zaleđene lokvice u zasjenjenim kutovima."
               }
             },
             {
@@ -1386,7 +1435,7 @@
                 "hu": "Lombok nélkül az erdő sokkal világosabb, de szelesebb is.",
                 "ro": "Fără frunze, pădurea este mult mai luminoasă, dar și mai expusă vântului.",
                 "en": "Without leaves, the forest is much brighter but also windier.",
-                "hr": "Bez lišća, šuma je mnogo svjetlija, ali i vjetrovitija."
+                "hr": "Bez lišća šuma je znatno svjetlija, ali i vjetrovitija."
               }
             },
             {
@@ -1396,7 +1445,7 @@
                 "hu": "A hideg levegő itt a völgyben gyakran megül.",
                 "ro": "Aerul rece stagnează adesea în vale pentru mult timp.",
                 "en": "The cold air often lingers in the valley for a long time.",
-                "hr": "Hladan zrak se često dugo zadržava u dolini."
+                "hr": "Hladan zrak često dugo ostaje u dolini."
               }
             },
             {
@@ -1406,7 +1455,7 @@
                 "hu": "Végezzen lazító gyakorlatokat a vérkeringés serkentésére.",
                 "ro": "Faceți exerciții de relaxare pentru a stimula circulația.",
                 "en": "Do some loosening exercises to stimulate circulation.",
-                "hr": "Napravite vježbe razgibavanja za poticanje cirkulacije."
+                "hr": "Uradite nekoliko vježbi razgibavanja da potaknete cirkulaciju."
               }
             },
             {
@@ -1416,7 +1465,7 @@
                 "hu": "Jutalmazza meg magát egy tál meleg szarvasgombás tésztával.",
                 "ro": "Răsplătiți-vă cu o porție de paste calde cu trufe.",
                 "en": "Reward yourself with a bowl of warm pasta with truffles.",
-                "hr": "Nagradite se zdjelicom tople tjestenine s tartufima."
+                "hr": "Nagradite se zdjelom tople tjestenine s tartufima."
               }
             }
           ],
@@ -1446,10 +1495,10 @@
               "The Parenzana tunnels are often warmer than the outside air in winter."
             ],
             "hr": [
-              "Nosite termo rukavice; prsti se brzo ohlade pri kočenju.",
-              "Sunce u dolini zalazi oko 16:00 sati; svjetla su obavezna.",
-              "Pijte mlaki čaj iz termose.",
-              "Tuneli Parenzane zimi su često topliji od vanjskog zraka."
+              "Nosite termo rukavice; prsti se brzo hlade pri kočenju.",
+              "Sunce zalazi u dolini oko 16:00; svjetla su obavezna.",
+              "Pijte mlako čaj iz termosa.",
+              "Parenzana tuneli su zimi često topliji od vanjskog zraka."
             ]
           }
         }
@@ -1468,7 +1517,8 @@
             "de": "Parkplatz Motovun (unten)",
             "hu": "Motovun parkoló (lent)",
             "ro": "Parcare Motovun (jos)",
-            "en": "Motovun Parking (bottom)"
+            "en": "Motovun Parking (bottom)",
+            "hr": "Motovun parkiralište (dolje)"
           },
           "coords": [
             13.825,
@@ -1483,14 +1533,15 @@
             "de": "Zentraler Parkplatz mit Shuttle-Bus.",
             "hu": "Központi parkoló transzferbusszal.",
             "ro": "Parcare centrală cu autobuz de transfer.",
-            "en": "Central parking with a shuttle bus."
+            "en": "Central parking with a shuttle bus.",
+            "hr": "Središnje parkiralište s besplatnim autobusom."
           },
           "tip_5lang": {
             "de": "Im Sommer Auto hier lassen; der Shuttlebus erspart den langen Aufstieg.",
             "hu": "Nyáron itt hagyd az autót, a transzferbusz megspórolja a hosszú gyaloglást.",
             "ro": "Vara lasă mașina aici; autobuzul-navetă te scutește de un urcuș lung.",
             "en": "Leave the car here in summer; the shuttle bus saves you a long climb.",
-            "hr": "Ljeti ostavite auto ovdje; shuttle bus vam štedi dugi uspon."
+            "hr": "Ostavite auto ovdje ljeti; autobus vas spašava dugog uspona."
           }
         },
         {
@@ -1498,7 +1549,8 @@
             "de": "Motovun Altstadt",
             "hu": "Motovun óváros",
             "ro": "Centrul vechi Motovun",
-            "en": "Motovun Old Town"
+            "en": "Motovun Old Town",
+            "hr": "Motovun stari grad"
           },
           "coords": [
             13.8267,
@@ -1513,14 +1565,15 @@
             "de": "Bester Start für den Rundgang.",
             "hu": "A legjobb kezdőpont a városnézéshez.",
             "ro": "Cel mai bun început pentru tur.",
-            "en": "Best starting point for the tour."
+            "en": "Best starting point for the tour.",
+            "hr": "Najbolja polazna točka za turu."
           },
           "tip_5lang": {
             "de": "Ohne Karte durch die Gassen schlendern — jede Ecke bietet neue Aussichten.",
             "hu": "Térkép nélkül bóklássz a sikátorokban, minden sarok új panorámát kínál.",
             "ro": "Plimbă-te pe străduțe fără hartă — fiecare colț oferă o priveliște nouă.",
             "en": "Wander the lanes without a map — every corner offers a new vista.",
-            "hr": "Lutajte uličicama bez karte — svaki kut nudi novi vidik."
+            "hr": "Šetajte uličicama bez karte — svaki kut nudi novi vidik."
           }
         },
         {
@@ -1528,7 +1581,8 @@
             "de": "Motovun Wald",
             "hu": "Motovuni erdő",
             "ro": "Pădurea Motovun",
-            "en": "Motovun Forest"
+            "en": "Motovun Forest",
+            "hr": "Motovunska šuma"
           },
           "coords": [
             13.835,
@@ -1543,14 +1597,15 @@
             "de": "Kurze Fahrt ins Tal.",
             "hu": "Rövid autózás a völgybe.",
             "ro": "Drum scurt în vale.",
-            "en": "Short drive into the valley."
+            "en": "Short drive into the valley.",
+            "hr": "Kratka vožnja u dolinu."
           },
           "tip_5lang": {
             "de": "An einem Waldaussichtspunkt halten; Trüffelsuche vorab buchen.",
             "hu": "Állj meg egy erdei kilátónál, és előre foglalj szarvasgomba-vadászatot.",
             "ro": "Oprește la un punct de belvedere; rezervă din timp o vânătoare de trufe.",
             "en": "Pull over at a forest viewpoint; book a guided truffle hunt in advance.",
-            "hr": "Zaustavite se na šumskom vidikovcu; unaprijed rezervirajte lov na tartufe."
+            "hr": "Zauzmite mjesto na vidikovcu u šumi; rezervirajte vođeni lov na tartufe unaprijed."
           }
         },
         {
@@ -1558,7 +1613,8 @@
             "de": "Grožnjan",
             "hu": "Grožnjan",
             "ro": "Grožnjan",
-            "en": "Grožnjan"
+            "en": "Grožnjan",
+            "hr": "Grožnjan"
           },
           "coords": [
             13.722,
@@ -1573,14 +1629,15 @@
             "de": "Ein Künstlerdorf mit vielen Galerien.",
             "hu": "Művészfalu számos galériával.",
             "ro": "Un sat al artiștilor cu multe galerii.",
-            "en": "An artist village with many galleries."
+            "en": "An artist village with many galleries.",
+            "hr": "Selo umjetnika s mnogim galerijama."
           },
           "tip_5lang": {
             "de": "Abstecher ins Künstlerdorf — Galerien täglich bis Sonnenuntergang geöffnet.",
             "hu": "Tegyél kitérőt e művészfaluba, a galériák naponta naplementéig nyitva.",
             "ro": "Fă un ocol în acest sat al artiștilor — galeriile sunt deschise până la apus.",
             "en": "Detour to this artist's village — galleries open daily until sunset.",
-            "hr": "Skrenite do ovog sela umjetnika — galerije su otvorene do zalaska sunca."
+            "hr": "Skrenite do ovog umjetničkog sela — galerije su otvorene svakodnevno do zalaska sunca."
           }
         },
         {
@@ -1588,7 +1645,8 @@
             "de": "Boutique-Weingut",
             "hu": "Butik borászat",
             "ro": "Cramă boutique",
-            "en": "Boutique Winery"
+            "en": "Boutique Winery",
+            "hr": "Boutique vinarija"
           },
           "coords": [
             13.75,
@@ -1603,14 +1661,15 @@
             "de": "Verkostung von Istrischer Malvazija.",
             "hu": "Isztriai Malvazija kóstoló.",
             "ro": "Degustare de Malvazija istriana.",
-            "en": "Tasting of Istrian Malvasia."
+            "en": "Tasting of Istrian Malvasia.",
+            "hr": "Degustacija istarske malvazije."
           },
           "tip_5lang": {
             "de": "Verkostung von Malvazija reservieren — Istriens charakteristischen Weißwein.",
             "hu": "Foglalj Malvazija borkóstolót, ez Isztria jellegzetes fehérbora.",
             "ro": "Rezervă o degustare de Malvazija — vinul alb emblematic al Istriei.",
             "en": "Reserve a tasting flight of Malvazija — Istria's signature white wine.",
-            "hr": "Rezervirajte degustaciju Malvazije — prepoznatljivog istarskog bijelog vina."
+            "hr": "Rezervirajte degustacijsku paletu Malvazije — istarskog prepoznatljivog bijelog vina."
           }
         }
       ],
@@ -1619,7 +1678,7 @@
         "hu": "Az autó szabadságot ad Motovun és a környező dombtetőre épült városok felfedezéséhez. Látogasson el először Motovun szívébe, majd autózzon át a közeli Grožnjanba, a művészek festői falujába. Zárja a napot egy pohár borral Isztria egyik neves borászatában, miközben a nap lemegy a dombok mögött.",
         "ro": "Mașina vă oferă libertatea de a explora Motovun și orașele din jur. Vizitați mai întâi inima Motovunului, apoi mergeți în Grožnjanul din apropiere, un sat superb al artiștilor. Încheiați ziua cu un pahar de vin la una dintre cramele renumite ale Istriei, în timp ce soarele apune după dealuri.",
         "en": "A car gives you the freedom to explore Motovun and the surrounding hilltop towns. Visit the heart of Motovun first, then drive to nearby Grožnjan, a beautiful village of artists. End the day with a glass of wine at one of Istria's renowned wineries as the sun sets behind the rolling hills.",
-        "hr": "Automobil vam daje slobodu da istražite Motovun i okolne gradiće na brdima. Prvo posjetite srce Motovuna, a zatim se odvezite do obližnjeg Grožnjana, prekrasnog sela umjetnika. Dan završite čašom vina u jednoj od renomiranih istarskih vinarija dok sunce zalazi iza brežuljaka."
+        "hr": "Auto vam daje slobodu istraživanja Motovuna i okolnih gradića na brežuljcima. Posjetite prvo srce Motovuna, zatim vozite do obližnjeg Grožnjana, prekrasnog sela umjetnika. Dan završite čašom vina u jednoj od poznatih istarskih vinarija dok sunce zalazi iza valovitih brežuljaka."
       },
       "gastro_picks": {
         "de": [
@@ -1744,8 +1803,8 @@
           "The roads between the villages are winding."
         ],
         "hr": [
-          "Samo stanovnici smiju voziti u gornji grad.",
-          "Parking u podnožju se naplaćuje.",
+          "Samo stanovnici mogu voziti u gornji grad.",
+          "Parkiralište dolje je naplatno.",
           "Ceste između sela su zavojite."
         ]
       },
@@ -1755,7 +1814,8 @@
             "de": "Das Auto bietet die Freiheit, Motovun und die umliegenden Hügelstädte zu erkunden. Besuchen Sie zuerst das Herz von Motovun und fahren Sie dann ins nahegelegene Grožnjan, ein wunderschönes Dorf der Künstler. Beenden Sie den Tag bei einem Glas Wein in einem der renommierten Weingüter Istriens, während die Sonne hinter den Hügeln versinkt.",
             "hu": "Az autó szabadságot ad Motovun és a környező dombtetőre épült városok felfedezéséhez. Látogasson el először Motovun szívébe, majd autózzon át a közeli Grožnjanba, a művészek festői falujába. Zárja a napot egy pohár borral Isztria egyik neves borászatában, miközben a nap lemegy a dombok mögött.",
             "ro": "Mașina vă oferă libertatea de a explora Motovun și orașele din jur. Vizitați mai întâi inima Motovunului, apoi mergeți în Grožnjanul din apropiere, un sat superb al artiștilor. Încheiați ziua cu un pahar de vin la una dintre cramele renumite ale Istriei, în timp ce soarele apune după dealuri.",
-            "en": "A car gives you the freedom to explore Motovun and the surrounding hilltop towns. Visit the heart of Motovun first, then drive to nearby Grožnjan, a beautiful village of artists. End the day with a glass of wine at one of Istria's renowned wineries as the sun sets behind the rolling hills."
+            "en": "A car gives you the freedom to explore Motovun and the surrounding hilltop towns. Visit the heart of Motovun first, then drive to nearby Grožnjan, a beautiful village of artists. End the day with a glass of wine at one of Istria's renowned wineries as the sun sets behind the rolling hills.",
+            "hr": "Auto vam daje slobodu istraživanja Motovuna i okolnih gradića na brežuljcima. Posjetite prvo srce Motovuna, zatim vozite do obližnjeg Grožnjana, prekrasnog sela umjetnika. Dan završite čašom vina u jednoj od poznatih istarskih vinarija dok sunce zalazi iza valovitih brežuljaka."
           },
           "stops": [
             {
@@ -1763,7 +1823,8 @@
                 "de": "Parkplatz Motovun (unten)",
                 "hu": "Motovun parkoló (lent)",
                 "ro": "Parcare Motovun (jos)",
-                "en": "Motovun Parking (bottom)"
+                "en": "Motovun Parking (bottom)",
+                "hr": "Motovun parkiralište (dolje)"
               },
               "tip_5lang": null
             },
@@ -1772,7 +1833,8 @@
                 "de": "Motovun Altstadt",
                 "hu": "Motovun óváros",
                 "ro": "Centrul vechi Motovun",
-                "en": "Motovun Old Town"
+                "en": "Motovun Old Town",
+                "hr": "Motovun stari grad"
               },
               "tip_5lang": null
             },
@@ -1781,7 +1843,8 @@
                 "de": "Motovun Wald",
                 "hu": "Motovuni erdő",
                 "ro": "Pădurea Motovun",
-                "en": "Motovun Forest"
+                "en": "Motovun Forest",
+                "hr": "Motovunska šuma"
               },
               "tip_5lang": null
             },
@@ -1790,7 +1853,8 @@
                 "de": "Grožnjan",
                 "hu": "Grožnjan",
                 "ro": "Grožnjan",
-                "en": "Grožnjan"
+                "en": "Grožnjan",
+                "hr": "Grožnjan"
               },
               "tip_5lang": null
             },
@@ -1799,7 +1863,8 @@
                 "de": "Boutique-Weingut",
                 "hu": "Butik borászat",
                 "ro": "Cramă boutique",
-                "en": "Boutique Winery"
+                "en": "Boutique Winery",
+                "hr": "Boutique vinarija"
               },
               "tip_5lang": null
             }
@@ -1906,6 +1971,11 @@
               "Only residents can drive into the upper town.",
               "The parking at the bottom is paid.",
               "The roads between the villages are winding."
+            ],
+            "hr": [
+              "Samo stanovnici smiju voziti u gornji dio grada.",
+              "Parkiralište dolje je naplaćeno.",
+              "Ceste između sela zavojite."
             ]
           }
         },
@@ -1915,7 +1985,7 @@
             "hu": "Vezessen óvatosan a völgyi parkolóhoz. A délelőttöt az óváros fedett sikátoraiban töltse. Délben az út a ködös erdőn át Grožnjanba vezet, ahol a művészműhelyek száraz menedéket nyújtanak. A nap egy borpincében ér véget egy hangulatos kóstolóval.",
             "ro": "Conduceți cu atenție către parcarea din vale. Petreceți dimineața pe străzile acoperite ale orașului vechi. La prânz, drumul trece prin pădurea cețoasă spre Grožnjan, unde atelierele oferă adăpost uscat. Ziua se încheie cu o degustare de vinuri într-o cramă caldă.",
             "en": "Drive carefully to the parking lot in the valley. Spend the morning in the sheltered alleys of the old town. At noon, the drive leads through the misty forest to Grožnjan, where art studios offer dry refuge. The day ends with a wine tasting in a warm cellar.",
-            "hr": "Vozite oprezno do parkirališta u dolini. Provedite jutro u zaklonjenim uličicama starog grada. U podne vožnja vodi kroz maglovitu šumu do Grožnjana, gdje umjetnički ateljei nude suho utočište. Dan završava degustacijom vina u toplom podrumu."
+            "hr": "Vozite pažljivo do parkirališta u dolini. Provedite jutro u zaštićenim uličicama starog grada. U podne vožnja vodi kroz maglovitu šumu do Grožnjana, gdje atelieri nude suhi zaklon. Dan završava kušanjem vina u toplom podrumu."
           },
           "stops": [
             {
@@ -1925,7 +1995,7 @@
                 "hu": "Használja a transzferbuszt, hogy ne kelljen esőben gyalogolnia.",
                 "ro": "Folosiți autobuzul shuttle pentru a nu merge prin ploaie.",
                 "en": "Use the shuttle bus to avoid walking in the rain.",
-                "hr": "Koristite shuttle bus kako biste izbjegli hodanje po kiši."
+                "hr": "Koristite autobusni prijevoz da izbjegnete hodanje po kiši."
               }
             },
             {
@@ -1935,7 +2005,7 @@
                 "hu": "A paloták alatti átjárók jó védelmet nyújtanak.",
                 "ro": "Pasajele de sub palate oferă o protecție bună.",
                 "en": "The passageways under the palaces offer good protection.",
-                "hr": "Prolazi ispod palača nude dobru zaštitu."
+                "hr": "Prolazi ispod palača pružaju dobru zaštitu."
               }
             },
             {
@@ -1945,7 +2015,7 @@
                 "hu": "Vezessen lassan; ágak lóghatnak az úttestre.",
                 "ro": "Conduceți încet; ramurile pot atârna deasupra carosabilului.",
                 "en": "Drive slowly; branches may hang over the roadway.",
-                "hr": "Vozite polako; grane se mogu nadviti nad kolnik."
+                "hr": "Vozite polako; grane mogu visjeti nad kolnikom."
               }
             },
             {
@@ -1995,10 +2065,10 @@
               "Keep your car lights on even during the day."
             ],
             "hr": [
-              "Uske serpentine su skliske kad su mokre.",
+              "Uske serpentine klizave su kad su mokre.",
               "U Grožnjanu parkirajte blizu ulaza kako biste smanjili hodanje po kiši.",
               "Provjerite brisače prije planinske vožnje.",
-              "Neka vam svjetla na automobilu budu upaljena i tijekom dana."
+              "Držite svjetla automobila upaljenima čak i tijekom dana."
             ]
           }
         },
@@ -2008,7 +2078,7 @@
             "hu": "Élje át a téli nyugalmat a Motovun felé vezető úton. A tiszta levegőn tett séta után vezessen át az alvó erdőn Grožnjanba. A középkori utcák a téli fényben különösen hitelesnek tűnnek. A napot egy borászati látogatás zárja, még a fagyos éjszaka beállta előtt.",
             "ro": "Experimentați liniștea iernii pe drumul spre Motovun. După plimbarea în aerul curat, conduceți prin pădurea adormită spre Grožnjan. Străzile medievale par deosebit de autentice în lumina iernii. Ziua se încheie cu o vizită la cramă, înainte de noaptea geroasă.",
             "en": "Experience the winter tranquility on the way to Motovun. After a walk in the crisp air, drive through the sleeping forest to Grožnjan. The medieval streets look especially authentic in the winter light. The day concludes with a winery visit before the frosty night begins.",
-            "hr": "Doživite zimski mir na putu za Motovun. Nakon šetnje na svježem zraku, provezite se kroz usnulu šumu do Grožnjana. Srednjovjekovne ulice izgledaju posebno autentično na zimskom svjetlu. Dan završava posjetom vinariji prije nego počne mrazna noć."
+            "hr": "Doživite zimsku tišinu na putu do Motovuna. Nakon šetnje po crisp zraku, vozite kroz uspavanu šumu do Grožnjana. Srednjovjekovne ulice izgledaju posebno autentično u zimskom svjetlu. Dan se zaključuje posjetom vinariji prije nego što počne mrazna noć."
           },
           "stops": [
             {
@@ -2018,7 +2088,7 @@
                 "hu": "A parkoló télen gyakran üresebb, de vigyázzon a zúzmarára.",
                 "ro": "Parcarea este adesea mai goală iarna, dar atenție la chiciură.",
                 "en": "The parking lot is often emptier in winter, but watch out for frost.",
-                "hr": "Parkiralište je zimi često praznije, ali pripazite na mraz."
+                "hr": "Parkiralište je zimi često praznije, ali pazite na mraz."
               }
             },
             {
@@ -2028,7 +2098,7 @@
                 "hu": "Élvezze a kilátást a szokásos turistaáradat nélkül.",
                 "ro": "Bucurați-vă de priveliște fără mulțimile obișnuite de turiști.",
                 "en": "Enjoy the view without the usual tourist crowds.",
-                "hr": "Uživajte u pogledu bez uobičajene turističke gužve."
+                "hr": "Uživajte u pogledu bez uobičajenih turističkih gužvi."
               }
             },
             {
@@ -2038,7 +2108,7 @@
                 "hu": "Az árnyékos völgyekben egész nap fagyott maradhat az út.",
                 "ro": "În zonele umbroase de vale poate fi înghețat pe tot parcursul zilei.",
                 "en": "In shaded valley areas, it can stay frozen all day long.",
-                "hr": "U sjenovitim dijelovima doline može biti smrznuto cijeli dan."
+                "hr": "U sjenovitim dijelovima doline može ostati zaleđen cijeli dan."
               }
             },
             {
@@ -2048,7 +2118,7 @@
                 "hu": "Sok műhely télen csak előzetes bejelentkezésre nyit ki.",
                 "ro": "Multe ateliere sunt deschise doar la cerere iarna.",
                 "en": "Many studios are only open by appointment in winter.",
-                "hr": "Mnogi ateljei zimi rade samo uz najavu."
+                "hr": "Mnogi atelieri zimi rade samo po dogovoru."
               }
             },
             {
@@ -2058,7 +2128,7 @@
                 "hu": "Tökéletes hely a helyi borok kóstolására a meleg kályha mellett.",
                 "ro": "Locul perfect pentru a degusta vinuri locale lângă soba caldă.",
                 "en": "The perfect place to sample local wines by the warm stove.",
-                "hr": "Savršeno mjesto za kušanje lokalnih vina uz toplu peć."
+                "hr": "Savršeno mjesto za kušanje lokalnih vina uz topao štednjak."
               }
             }
           ],
@@ -2088,10 +2158,10 @@
               "Some side roads are not cleared immediately during snowfall."
             ],
             "hr": [
-              "Zimske gume su preporučljive u istarskim brdima od studenog.",
-              "Dodajte antifriz u tekućinu za pranje vjetrobranskog stakla.",
-              "Planirajte povratak prije 17:00 sati zbog divljači na cesti.",
-              "Neke sporedne ceste se ne čiste odmah nakon snijega."
+              "Preporučuju se zimske gume u istarskim brdima od studenog.",
+              "Dodajte antifriz u tekućinu za pranje vjetrobrana.",
+              "Isplanirajte povratak prije 17:00 kako biste izbjegli divlje životinje na cesti.",
+              "Neke sporedne ceste se pri snježnim padalinama ne čiste odmah."
             ]
           }
         }
@@ -2110,7 +2180,8 @@
             "de": "Bushaltestelle Motovun",
             "hu": "Motovuni buszmegálló",
             "ro": "Stația de autobuz Motovun",
-            "en": "Motovun Bus Stop"
+            "en": "Motovun Bus Stop",
+            "hr": "Autobusno stajalište Motovun"
           },
           "coords": [
             13.824,
@@ -2125,14 +2196,15 @@
             "de": "An der Hauptstraße am Fuß des Hügels.",
             "hu": "A főúton, a domb lábánál.",
             "ro": "Pe drumul principal la baza dealului.",
-            "en": "On the main road at the foot of the hill."
+            "en": "On the main road at the foot of the hill.",
+            "hr": "Na glavnoj cesti podno brda."
           },
           "tip_5lang": {
             "de": "Rückfahrtzeiten beim Fahrer bestätigen — Verkehr endet am frühen Abend.",
             "hu": "Erősítsd meg a sofőrnél a visszamenő járatot, kora este leáll.",
             "ro": "Confirmă cu șoferul orele de întoarcere — cursele se opresc seara devreme.",
             "en": "Confirm return-bus times with the driver — service ends mid-evening.",
-            "hr": "Provjerite vrijeme povratka kod vozača — linije završavaju sredinom večeri."
+            "hr": "Potvrdite povratne autobusne termine s vozačem — linija završava sredinom večeri."
           }
         },
         {
@@ -2140,7 +2212,8 @@
             "de": "Shuttle-Abfahrt",
             "hu": "Transzferbusz indulás",
             "ro": "Plecare transfer",
-            "en": "Shuttle Departure"
+            "en": "Shuttle Departure",
+            "hr": "Polazak shuttlea"
           },
           "coords": [
             13.825,
@@ -2155,14 +2228,15 @@
             "de": "Bequemster Weg nach oben.",
             "hu": "A legkényelmesebb út felfelé.",
             "ro": "Cea mai confortabilă cale spre vârf.",
-            "en": "The most convenient way up."
+            "en": "The most convenient way up.",
+            "hr": "Najpraktičniji način uspona."
           },
           "tip_5lang": {
             "de": "Den Saisonshuttle vom unteren Parkplatz nehmen — alle 20 Minuten.",
             "hu": "Vedd a szezonális transzfert az alsó parkolóból, 20 percenként megy.",
             "ro": "Folosește naveta sezonieră din parcarea de jos — la fiecare 20 de minute.",
             "en": "Take the seasonal shuttle from the lower lot — it runs every 20 minutes.",
-            "hr": "Uzmite sezonski shuttle s donjeg parkinga — vozi svakih 20 minuta."
+            "hr": "Uzmite sezonski shuttle iz donjeg parkirališta — vozi svake 20 minuta."
           }
         },
         {
@@ -2170,7 +2244,8 @@
             "de": "Altstadt Motovun",
             "hu": "Motovun óváros",
             "ro": "Centrul vechi Motovun",
-            "en": "Motovun Old Town"
+            "en": "Motovun Old Town",
+            "hr": "Stari grad Motovun"
           },
           "coords": [
             13.8267,
@@ -2185,14 +2260,15 @@
             "de": "Verbringen Sie hier den ganzen Mittag.",
             "hu": "Töltse itt a délutánt.",
             "ro": "Petreceți aici întreaga după-amiază.",
-            "en": "Spend your entire afternoon here."
+            "en": "Spend your entire afternoon here.",
+            "hr": "Provedite ovdje cijelo poslijepodne."
           },
           "tip_5lang": {
             "de": "Drei Stunden reichen für Mauern, Mittagessen und einen Panoramakaffee.",
             "hu": "Három óra elég a falakra, ebédre és egy panorámás kávéra.",
             "ro": "Trei ore îți ajung pentru ziduri, prânz și o cafea panoramică.",
             "en": "Three hours is enough for walls, lunch, and a panoramic coffee.",
-            "hr": "Tri sata su dovoljna za zidine, ručak i kavu s pogledom."
+            "hr": "Tri sata dovoljno su za zidine, ručak i panoramsku kavu."
           }
         }
       ],
@@ -2201,7 +2277,7 @@
         "hu": "Motovun ritkábban érhető el menetrend szerinti busszal, főleg Pazin vagy Buje felől. A domb lábához érkezve a legjobb transzferbuszt használni a meredek szakasz leküzdéséhez. Felérve az egész történelmi város Ön előtt hever, amely gyalogosan egy délután alatt kényelmesen bejárható.",
         "ro": "Motovun este accesibil mai rar cu autobuzul de linie, de obicei din Pazin sau Buje. După sosirea la baza dealului, cel mai bine este să folosiți autobuzul de transfer pentru a urca panta abruptă. Odată ajunși sus, întregul oraș istoric este în fața voastră, putând fi explorat ideal pe jos într-o după-amiază.",
         "en": "Motovun is less frequently reachable by public bus, mostly from Pazin or Buje. After arriving at the foot of the hill, it's best to use the shuttle bus to bridge the steep ascent. Once at the top, the entire historic town is before you, ideal for exploring on foot in one afternoon.",
-        "hr": "Motovun je rjeđe dostupan javnim autobusom, uglavnom iz Pazina ili Buja. Nakon dolaska u podnožje brda, najbolje je koristiti shuttle bus za svladavanje strmog uspona. Kad ste na vrhu, cijeli povijesni gradić je pred vama, idealan za istraživanje pješice u jedno popodne."
+        "hr": "Motovun je rijetko dostupan redovnim autobusom, uglavnom iz Pazina ili Bujštine. Po dolasku podno brda najbolje je koristiti shuttle autobus za prevladavanje strmog uspona. Kad ste na vrhu, cijeli povijesni grad je pred vama, idealan za pješačko istraživanje u jednom poslijepodnevu."
       },
       "gastro_picks": {
         "de": [
@@ -2326,9 +2402,9 @@
           "Pay attention to the last return bus."
         ],
         "hr": [
-          "Provjerite autobusne karte online ili u autobusu.",
-          "Shuttle vozi otprilike svakih 20 minuta.",
-          "Pripazite na zadnji povratni autobus."
+          "Provjerite autobusne karte online ili kod vozača.",
+          "Shuttle vozi otprilike svake 20 minuta.",
+          "Obratite pozornost na posljednji povratni autobus."
         ]
       },
       "variants": {
@@ -2337,7 +2413,8 @@
             "de": "Motovun ist seltener per Linienbus erreichbar, meist von Pazin oder Buje aus. Nach der Ankunft am Fuße des Hügels nutzen Sie am besten den Shuttle-Bus, um die steile Auffahrt zu überbrücken. Oben angekommen, liegt die gesamte historische Stadt vor Ihnen, die man ideal zu Fuß an einem Nachmittag erkunden kann.",
             "hu": "Motovun ritkábban érhető el menetrend szerinti busszal, főleg Pazin vagy Buje felől. A domb lábához érkezve a legjobb transzferbuszt használni a meredek szakasz leküzdéséhez. Felérve az egész történelmi város Ön előtt hever, amely gyalogosan egy délután alatt kényelmesen bejárható.",
             "ro": "Motovun este accesibil mai rar cu autobuzul de linie, de obicei din Pazin sau Buje. După sosirea la baza dealului, cel mai bine este să folosiți autobuzul de transfer pentru a urca panta abruptă. Odată ajunși sus, întregul oraș istoric este în fața voastră, putând fi explorat ideal pe jos într-o după-amiază.",
-            "en": "Motovun is less frequently reachable by public bus, mostly from Pazin or Buje. After arriving at the foot of the hill, it's best to use the shuttle bus to bridge the steep ascent. Once at the top, the entire historic town is before you, ideal for exploring on foot in one afternoon."
+            "en": "Motovun is less frequently reachable by public bus, mostly from Pazin or Buje. After arriving at the foot of the hill, it's best to use the shuttle bus to bridge the steep ascent. Once at the top, the entire historic town is before you, ideal for exploring on foot in one afternoon.",
+            "hr": "Motovun je rijetko dostupan redovnim autobusom, uglavnom iz Pazina ili Bujštine. Po dolasku podno brda najbolje je koristiti shuttle autobus za prevladavanje strmog uspona. Kad ste na vrhu, cijeli povijesni grad je pred vama, idealan za pješačko istraživanje u jednom poslijepodnevu."
           },
           "stops": [
             {
@@ -2345,7 +2422,8 @@
                 "de": "Bushaltestelle Motovun",
                 "hu": "Motovuni buszmegálló",
                 "ro": "Stația de autobuz Motovun",
-                "en": "Motovun Bus Stop"
+                "en": "Motovun Bus Stop",
+                "hr": "Autobusno stajalište Motovun"
               },
               "tip_5lang": null
             },
@@ -2354,7 +2432,8 @@
                 "de": "Shuttle-Abfahrt",
                 "hu": "Transzferbusz indulás",
                 "ro": "Plecare transfer",
-                "en": "Shuttle Departure"
+                "en": "Shuttle Departure",
+                "hr": "Polazak shuttlea"
               },
               "tip_5lang": null
             },
@@ -2363,7 +2442,8 @@
                 "de": "Altstadt Motovun",
                 "hu": "Motovun óváros",
                 "ro": "Centrul vechi Motovun",
-                "en": "Motovun Old Town"
+                "en": "Motovun Old Town",
+                "hr": "Stari grad Motovun"
               },
               "tip_5lang": null
             }
@@ -2470,6 +2550,11 @@
               "Check bus tickets online or on board.",
               "The shuttle runs approximately every 20 minutes.",
               "Pay attention to the last return bus."
+            ],
+            "hr": [
+              "Provjerite autobusne karte online ili kod vozača.",
+              "Shuttle vozi otprilike svake 20 minuta.",
+              "Obratite pozornost na posljednji povratni autobus."
             ]
           }
         },
@@ -2479,7 +2564,7 @@
             "hu": "Érkezzen pihenten busszal a völgybe. A transzferbusz szárazon viszi fel közvetlenül a várba. A délelőttöt védett helyen töltse Motovun óvárosában. Mivel kevesebben vannak, élvezze a nyugalmat a kávézókban, miközben az eső veri a régi ablakokat.",
             "ro": "Sosiți relaxat cu autobuzul în vale. Shuttle-ul vă duce uscat direct sus. Petreceți dimineața la adăpost în orașul vechi Motovun. Fiind mai puțină agitație, savurați liniștea în cafenele în timp ce ploaia bate în geamurile vechi.",
             "en": "Arrive relaxed by bus in the valley. The shuttle takes you straight up while staying dry. Spend the morning sheltered in Motovun's old town. With fewer crowds, enjoy the peace in the cafes while the rain drums against the old windows.",
-            "hr": "Stignite opušteno autobusom u dolinu. Shuttle vas vozi ravno gore dok ostajete suhi. Provedite jutro zaštićeni u starom gradu Motovuna. Uz manje gužve, uživajte u miru kafića dok kiša bubnja po starim prozorima."
+            "hr": "Stignite opušteno autobusom u dolinu. Shuttle vas vodi izravno gore dok ostajete suhi. Provedite jutro pod krovom u starom gradu Motovuna. Uz manje gužve, uživajte u miru u kafićima dok kiša bubnja po starim prozorima."
           },
           "stops": [
             {
@@ -2489,7 +2574,7 @@
                 "hu": "Az útmenti kis váróhely védelmet nyújt várakozás közben.",
                 "ro": "Un mic adăpost la marginea drumului oferă protecție în timpul așteptării.",
                 "en": "A small shelter at the roadside offers protection while waiting.",
-                "hr": "Malo sklonište uz cestu nudi zaštitu tijekom čekanja."
+                "hr": "Mali zaklon uz cestu pruža zaštitu dok čekate."
               }
             },
             {
@@ -2499,7 +2584,7 @@
                 "hu": "A transzferbusz esőben gyakrabban járhat a gyalogosok segítésére.",
                 "ro": "Shuttle-ul circulă adesea mai des pe ploaie pentru a ajuta pietonii.",
                 "en": "The shuttle often runs more frequently in the rain to help hikers.",
-                "hr": "Shuttle po kiši često vozi češće kako bi pomogao pješacima."
+                "hr": "Shuttle često vozi češće kad pada kiša kako bi pomogao pješacima."
               }
             },
             {
@@ -2539,8 +2624,8 @@
               "Wear waterproof shoes for the walk to the bus stop."
             ],
             "hr": [
-              "Provjerite vozni red; autobusi mogu kasniti tijekom nevremena.",
-              "Shuttle bus je najbolji način da dođete do vrha i ostanete suhi.",
+              "Provjerite raspored; autobusi mogu kasniti tijekom oluja.",
+              "Shuttle autobus je najbolji način da dođete na vrh ostajući suhi.",
               "Iskoristite vrijeme čekanja u dolini za kavu u Livadama.",
               "Nosite vodootpornu obuću za šetnju do autobusne stanice."
             ]
@@ -2552,7 +2637,7 @@
             "hu": "A buszozás a hátországba tágas kilátást nyújt a téli tájra. Fent Motovunban ilyenkor csend és nyugalom honol. Élvezze a tiszta kilátást a várfalakról, mielőtt visszahúzódna egy meleg étterembe. A napot a fűtött buszon tett visszautazás zárja.",
             "ro": "Călătoria cu autobuzul spre interiorul țării oferă vederi largi peste peisajul de iarnă. Sus în Motovun este liniște și pace iarna. Bucurați-vă de vederea clară de pe ziduri înainte de a vă retrage într-un restaurant cald. Ziua se încheie cu drumul de întoarcere în autobuzul încălzit.",
             "en": "The bus ride into the hinterland offers wide views over the winter landscape. Up in Motovun, it is quiet and contemplative in winter. Enjoy the clear views from the walls before retreating to a warm restaurant. The return trip in a heated bus concludes the day.",
-            "hr": "Vožnja autobusom u unutrašnjost nudi široke vidike na zimski krajolik. Gore u Motovunu je zimi tiho i kontemplativno. Uživajte u jasnim vidicima sa zidina prije povlačenja u topli restoran. Povratak u grijanom autobusu zaključuje dan."
+            "hr": "Vožnja autobusom u zaleđe nudi široke poglede po zimskom krajoliku. U Motovunu je zimi tiho i kontemplativno. Uživajte u jasnim pogledima s zidina prije povlačenja u topao restoran. Povratak grijanim autobusom zaključuje dan."
           },
           "stops": [
             {
@@ -2562,7 +2647,7 @@
                 "hu": "A szabadban történő várakozást télen érdemes minimalizálni.",
                 "ro": "Timpul de așteptare în aer liber ar trebui minimizat iarna.",
                 "en": "Waiting time outdoors should be minimized in winter.",
-                "hr": "Vrijeme čekanja na otvorenom zimi treba svesti na minimum."
+                "hr": "Vrijeme čekanja na otvorenom treba svesti na minimum zimi."
               }
             },
             {
@@ -2572,7 +2657,7 @@
                 "hu": "A transzferbusz fűtött és kényelmes segítség a feljutáshoz.",
                 "ro": "Autobuzul shuttle este încălzit și reprezintă un ajutor confortabil pentru urcare.",
                 "en": "The shuttle is heated and a comfortable aid for the climb.",
-                "hr": "Shuttle je grijan i udobna pomoć pri usponu."
+                "hr": "Shuttle je grijani i udobna pomoć za uspon."
               }
             },
             {
@@ -2582,7 +2667,7 @@
                 "hu": "Ügyeljen a buszok korábbi esti indulási időpontjaira.",
                 "ro": "Fiți atenți la orele de plecare mai timpurii ale autobuzelor seara.",
                 "en": "Pay attention to the earlier bus departure times in the evening.",
-                "hr": "Pripazite na ranija vremena polaska autobusa navečer."
+                "hr": "Obratite pozornost na ranije vrijeme polaska autobusa navečer."
               }
             }
           ],
@@ -2612,10 +2697,10 @@
               "Buy tickets online in advance if possible."
             ],
             "hr": [
-              "Zimi vozi manje autobusa; važna je prethodna provjera.",
-              "Shuttle bus štiti od ledenog vjetra tijekom uspona.",
-              "Autobusna stanica u dolini nema grijanu čekaonicu.",
-              "Ako je moguće, kupite karte online unaprijed."
+              "Zimi vozi manje autobusa; prethodna provjera je važna.",
+              "Shuttle autobus štiti od ledenog vjetra tijekom uspona.",
+              "Stajalište u dolini nema grijanu čekaonicu.",
+              "Kupite karte online unaprijed ako je moguće."
             ]
           }
         }
@@ -2637,19 +2722,22 @@
       "de": "Motovun ist offiziell zweisprachig (Kroatisch/Italienisch). Italienisch wird vielerorts verstanden, Englisch im Tourismus problemlos, Deutsch in Trüffelrestaurants oft gesprochen.",
       "hu": "Motovun hivatalosan kétnyelvű (horvát/olasz). Az olaszt sokan értik, az angollal mindenhol elboldogulsz, a szarvasgombás éttermekben gyakran beszélnek németül is.",
       "ro": "Motovun este oficial bilingv (croată/italiană). Italiana este înțeleasă pe scară largă, engleza funcționează în turism, germana se aude în restaurantele cu trufe.",
-      "en": "Motovun is officially bilingual (Croatian/Italian). Italian is widely understood, English works everywhere in tourism, German is common in truffle restaurants."
+      "en": "Motovun is officially bilingual (Croatian/Italian). Italian is widely understood, English works everywhere in tourism, German is common in truffle restaurants.",
+      "hr": "Motovun je službeno dvojezičan (hrvatski/italijanski). Talijanski se široko razumije, engleski funkcionira svugdje u turizmu, njemački je čest u tartufarskim konobama."
     },
     "best_time_to_visit": {
       "de": "September bis November für die Weißtrüffelsaison und das Filmfestival (Ende Juli). Frühling für Wanderungen entlang der Parenzana-Trasse. August sehr voll und heiß.",
       "hu": "Szeptembertől novemberig a fehér szarvasgomba szezon és a filmfesztivál (július vége) miatt. Tavasszal kellemes a Parenzana nyomvonalán túrázni. Augusztus zsúfolt és forró.",
       "ro": "Septembrie–noiembrie pentru sezonul de trufe albe și festivalul de film (sfârșit de iulie). Primăvara este ideală pentru trasee pe linia Parenzana. August aglomerat și fierbinte.",
-      "en": "September to November for white truffle season and the film festival (late July). Spring is great for hiking the Parenzana trail. August is crowded and very hot."
+      "en": "September to November for white truffle season and the film festival (late July). Spring is great for hiking the Parenzana trail. August is crowded and very hot.",
+      "hr": "Rujan do studenog za sezonu bijelog tartufa i filmski festival (kraj srpnja). Proljeće je sjajno za planinarenje Parenzanom. Kolovoz je prepun i vrlo vruć."
     },
     "neighborhood_warnings": {
       "de": "Auto unten an den Parkplätzen P1/P2 lassen, das Dorf ist Fußgängerzone mit steilem Aufstieg. Auf den Kopfsteinpflasterstraßen rutschig bei Regen. Kein nennenswertes Kriminalitätsrisiko.",
       "hu": "Autót a P1/P2 parkolóban lent hagyd, a falu gyalogos, meredek emelkedővel. A macskakő esőben csúszós. Bűnügyi kockázat gyakorlatilag nincs.",
       "ro": "Lăsați mașina jos la parcările P1/P2, satul este pietonal cu urcuș abrupt. Pavajul devine alunecos pe ploaie. Risc de criminalitate practic inexistent.",
-      "en": "Leave your car at P1/P2 parking below; the village is pedestrian-only with a steep climb. Cobblestones are slippery in rain. Crime risk is negligible."
+      "en": "Leave your car at P1/P2 parking below; the village is pedestrian-only with a steep climb. Cobblestones are slippery in rain. Crime risk is negligible.",
+      "hr": "Ostavite auto na parkiralištima P1/P2 dolje; selo je pješačka zona s strmim usponom. Kamenčići su sklizavi po kiši. Rizik od kriminala je zanemariv."
     }
   }
 }

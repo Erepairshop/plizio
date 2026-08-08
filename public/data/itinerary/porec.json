@@ -51,7 +51,7 @@
             "hu": "A tetején étterem működik, remek kilátással.",
             "ro": "Există un restaurant în partea de sus cu o vedere excelentă.",
             "en": "There is a restaurant at the top with a great view.",
-            "hr": "Na vrhu se nalazi restoran s prekrasnim pogledom."
+            "hr": "Na vrhu se nalazi restoran s odličnim pogledom."
           }
         },
         {
@@ -70,7 +70,7 @@
             "hu": "Gyönyörű gótikus homlokzat, gyakran művészeti galéria.",
             "ro": "Fațadă gotică superbă, adesea galerie de artă.",
             "en": "Beautiful Gothic facade, often hosts art galleries.",
-            "hr": "Prekrasno gotičko pročelje, često ugošćuje umjetničke galerije."
+            "hr": "Prekrasna gotička fasada, često domaćin galerija umjetnosti."
           }
         },
         {
@@ -89,7 +89,7 @@
             "hu": "UNESCO Világörökség, a mozaikokat látni kell.",
             "ro": "Patrimoniu UNESCO, mozaicurile sunt obligatorii.",
             "en": "UNESCO Heritage site, the mosaics are a must-see.",
-            "hr": "UNESCO-ova svjetska baština, mozaici su obavezni za vidjeti."
+            "hr": "UNESCO-va baština, mozaici su nezaobilazni."
           }
         },
         {
@@ -108,7 +108,7 @@
             "hu": "A város egykori római fóruma.",
             "ro": "Vechiul forum roman al orașului.",
             "en": "The former Roman forum of the city.",
-            "hr": "Nekadašnji rimski forum grada."
+            "hr": "Bivše rimsko forum grada."
           }
         },
         {
@@ -146,7 +146,7 @@
             "hu": "Jellegzetes 13. századi ház fafogattal.",
             "ro": "Clădire distinctivă din sec. XIII cu balcon de lemn.",
             "en": "Distinctive 13th-century house with a wooden balcony.",
-            "hr": "Prepoznatljiva kuća iz 13. stoljeća s drvenim balkonom."
+            "hr": "Značajna kuća iz 13. stoljeća s drvenim balkonom."
           }
         },
         {
@@ -174,7 +174,7 @@
         "hu": "Délelőtt: Séta a Decumanus főutcán és a bástyák felfedezése.\n\nDélben: A világörökség részét képező Euphrasius-bazilika megtekintése.\n\nDélután: A Marafor tér római emlékei és a román stílusú házak.\n\nEste: Naplemente a kikötőben és vacsora egy hangulatos teraszon.",
         "ro": "Dimineața: Plimbare pe strada Decumanus și explorarea turnurilor medievale.\n\nLa prânz: Vizitarea Bazilicii Eufraziene, sit inclus în patrimoniul UNESCO.\n\nDupă-amiaza: Descoperirea ruinelor romane din Piața Marafor.\n\nSeara: Apus de soare pe faleză și cină într-un restaurant tradițional.",
         "en": "Morning: Walk along the Decumanus main street and explore the towers.\n\nMidday: Visit the Euphrasian Basilica, a stunning UNESCO World Heritage site.\n\nAfternoon: Discover Roman ruins at Marafor Square and old stone houses.\n\nEvening: Enjoy the sunset at the harbor followed by dinner in the old town.",
-        "hr": "Jutro: Šetnja Dekumanovom ulicom i istraživanje kula.\n\nPodne: Posjet Eufrazijevoj bazilici, zadivljujućem mjestu pod zaštitom UNESCO-a.\n\nPoslijepodne: Otkrivanje rimskih ruševina na Trgu Marafor i starih kamenih kuća.\n\nVečer: Uživajte u zalasku sunca u luci, nakon čega slijedi večera u starom gradu."
+        "hr": "Jutro: Prošećite glavnom ulicom Decumanus i istražite kule.\n\nPodne: Posjetite Eufrazijevu baziliku, zadivljujuće UNESCO-vo svjetsko kulturno dobro.\n\nPoslijepodne: Otkrijte rimske ruševine na Trgu Marafor i stare kamene kuće.\n\nVečer: Uživajte u zalasku sunca u luci, a zatim večerajte u starom gradu."
       },
       "gastro_picks": {
         "de": [
@@ -368,8 +368,8 @@
           "Tourist trains connect the center with the lagoons."
         ],
         "hr": [
-          "Bazilika je zatvorena za turiste tijekom nedjeljnih misa.",
-          "Nosite udobnu obuću za popločane uličice.",
+          "Bazilika je zatvorena za turiste tijekom nedjeljnih službi.",
+          "Nosite udobnu obuću zbog kaldrme.",
           "Parkirajte izvan pješačke zone starog grada.",
           "Turistički vlakići povezuju centar s lagunama."
         ]
@@ -380,7 +380,8 @@
             "de": "Vormittag: Spaziergang durch die Decumanus-Straße und Besichtigung der Türme.\n\nMittag: Besuch der Euphrasius-Basilika, ein UNESCO-Weltkulturerbe.\n\nNachmittag: Entdeckung der römischen Ruinen am Marafor-Platz.\n\nAbend: Sonnenuntergang an der Uferpromenade und Abendessen in der Altstadt.",
             "hu": "Délelőtt: Séta a Decumanus főutcán és a bástyák felfedezése.\n\nDélben: A világörökség részét képező Euphrasius-bazilika megtekintése.\n\nDélután: A Marafor tér római emlékei és a román stílusú házak.\n\nEste: Naplemente a kikötőben és vacsora egy hangulatos teraszon.",
             "ro": "Dimineața: Plimbare pe strada Decumanus și explorarea turnurilor medievale.\n\nLa prânz: Vizitarea Bazilicii Eufraziene, sit inclus în patrimoniul UNESCO.\n\nDupă-amiaza: Descoperirea ruinelor romane din Piața Marafor.\n\nSeara: Apus de soare pe faleză și cină într-un restaurant tradițional.",
-            "en": "Morning: Walk along the Decumanus main street and explore the towers.\n\nMidday: Visit the Euphrasian Basilica, a stunning UNESCO World Heritage site.\n\nAfternoon: Discover Roman ruins at Marafor Square and old stone houses.\n\nEvening: Enjoy the sunset at the harbor followed by dinner in the old town."
+            "en": "Morning: Walk along the Decumanus main street and explore the towers.\n\nMidday: Visit the Euphrasian Basilica, a stunning UNESCO World Heritage site.\n\nAfternoon: Discover Roman ruins at Marafor Square and old stone houses.\n\nEvening: Enjoy the sunset at the harbor followed by dinner in the old town.",
+            "hr": "Jutro: Prošećite glavnom ulicom Decumanus i istražite kule.\n\nPodne: Posjetite Eufrazijevu baziliku, zadivljujuće UNESCO-vo svjetsko kulturno dobro.\n\nPoslijepodne: Otkrijte rimske ruševine na Trgu Marafor i stare kamene kuće.\n\nVečer: Uživajte u zalasku sunca u luci, a zatim večerajte u starom gradu."
           },
           "stops": [
             {
@@ -389,7 +390,8 @@
                 "de": "Bester Ort für den Morgenkaffee in der Altstadt.",
                 "hu": "A legjobb hely egy reggeli kávéhoz az óvárosban.",
                 "ro": "Cel mai bun loc pentru cafeaua de dimineață în orașul vechi.",
-                "en": "Best spot for morning coffee in the old town."
+                "en": "Best spot for morning coffee in the old town.",
+                "hr": "Najbolje mjesto za jutarnju kavu u starom gradu."
               }
             },
             {
@@ -398,7 +400,8 @@
                 "de": "Oben gibt es ein Restaurant mit toller Aussicht.",
                 "hu": "A tetején étterem működik, remek kilátással.",
                 "ro": "Există un restaurant în partea de sus cu o vedere excelentă.",
-                "en": "There is a restaurant at the top with a great view."
+                "en": "There is a restaurant at the top with a great view.",
+                "hr": "Na vrhu se nalazi restoran s odličnim pogledom."
               }
             },
             {
@@ -407,7 +410,8 @@
                 "de": "Wunderschöne gotische Fassade, oft Kunstgalerie.",
                 "hu": "Gyönyörű gótikus homlokzat, gyakran művészeti galéria.",
                 "ro": "Fațadă gotică superbă, adesea galerie de artă.",
-                "en": "Beautiful Gothic facade, often hosts art galleries."
+                "en": "Beautiful Gothic facade, often hosts art galleries.",
+                "hr": "Prekrasna gotička fasada, često domaćin umjetničkim galerijama."
               }
             },
             {
@@ -416,7 +420,8 @@
                 "de": "UNESCO-Weltkulturerbe, die Mosaike sind ein Muss.",
                 "hu": "UNESCO Világörökség, a mozaikokat látni kell.",
                 "ro": "Patrimoniu UNESCO, mozaicurile sunt obligatorii.",
-                "en": "UNESCO Heritage site, the mosaics are a must-see."
+                "en": "UNESCO Heritage site, the mosaics are a must-see.",
+                "hr": "UNESCO-va baština, mozaici su nezaobilazni."
               }
             },
             {
@@ -425,7 +430,8 @@
                 "de": "Das alte römische Forum der Stadt.",
                 "hu": "A város egykori római fóruma.",
                 "ro": "Vechiul forum roman al orașului.",
-                "en": "The former Roman forum of the city."
+                "en": "The former Roman forum of the city.",
+                "hr": "Bivše rimsko forum grada."
               }
             },
             {
@@ -434,7 +440,8 @@
                 "de": "Überreste eines Tempels aus dem 1. Jahrhundert.",
                 "hu": "Egy 1. századi templom maradványai.",
                 "ro": "Rămășițele unui templu din secolul I.",
-                "en": "Remains of a 1st-century temple."
+                "en": "Remains of a 1st-century temple.",
+                "hr": "Ostaci hrama iz 1. stoljeća."
               }
             },
             {
@@ -443,7 +450,8 @@
                 "de": "Markantes Gebäude mit Holzbalkon aus dem 13. Jh.",
                 "hu": "Jellegzetes 13. századi ház fafogattal.",
                 "ro": "Clădire distinctivă din sec. XIII cu balcon de lemn.",
-                "en": "Distinctive 13th-century house with a wooden balcony."
+                "en": "Distinctive 13th-century house with a wooden balcony.",
+                "hr": "Značajna kuća iz 13. stoljeća s drvenim balkonom."
               }
             },
             {
@@ -452,7 +460,8 @@
                 "de": "Teil der venezianischen Verteidigungsanlagen.",
                 "hu": "A velencei védelmi rendszer része.",
                 "ro": "Parte a fortificațiilor venețiene.",
-                "en": "Part of the Venetian defense system."
+                "en": "Part of the Venetian defense system.",
+                "hr": "Dio mletačkog obrambenog sustava."
               }
             }
           ],
@@ -614,6 +623,12 @@
               "Wear comfortable shoes for the cobblestone streets.",
               "Park outside the old town pedestrian zone.",
               "Tourist trains connect the center with the lagoons."
+            ],
+            "hr": [
+              "Bazilika je zatvorena za turiste tijekom nedjeljnih službi.",
+              "Nosite udobnu obuću zbog kaldrme.",
+              "Parkirajte izvan pješačke zone starog grada.",
+              "Turistički vlakići povezuju centar s lagunama."
             ]
           }
         },
@@ -623,7 +638,7 @@
             "hu": "Reggel a Decumanus utca kövei csillognak az esőben, miközben az ereszek alatt keresünk menedéket. Délben a bazilika mozaikjai a szűrt fényben különleges intenzitással ragyognak.\n\nDélután a Neptun-templom romjai mellett elhaladva történelmi falak közé zárt kávézókba húzódunk. Este a tenger morajlását egy védett bástyatorony száraz belső teréből csodálhatjuk meg.",
             "ro": "Dimineața, pietrele de pe strada Decumanus strălucesc în ploaie în timp ce căutați adăpost sub copertine. La prânz, admirați mozaicurile basilicii, care strălucesc intens în lumina difuză.\n\nDupă-amiaza, drumul trece pe lângă ruinele templului lui Neptun spre cafenele primitoare. Seara, admirați marea agitată din interiorul uscat al unui turn de apărare istoric.",
             "en": "In the morning, the stones of Decumanus Street glisten in the rain as you find shelter under awnings. At noon, admire the mosaics of the Basilica, which glow intensely in the diffused light.\n\nIn the afternoon, pass the Neptune ruins toward cozy cafes hidden within historic walls. In the evening, enjoy the view of the lashing Adriatic from the dry interior of a historic defensive tower.",
-            "hr": "Ujutro se kamenje Dekumanove ulice ljeska na kiši dok tražite zaklon pod tendama. U podne se divite mozaicima bazilike koji intenzivno sjaje na difuznom svjetlu.\n\nPoslijepodne prođite pored Neptunovih ruševina prema ugodnim kafićima skrivenim unutar povijesnih zidina. Navečer uživajte u pogledu na uzburkani Jadran iz suhe unutrašnjosti povijesne obrambene kule."
+            "hr": "Ujutro kamene ploče ulice Decumanus blistaju na kiši dok tražite zaklon pod tendama. U podne se divite mozaicima Bazilike koji intenzivno sjaje u difuznom svjetlu.\n\nPoslijepodne prođite pored ostataka Neptuna prema ugodnim kafićima skrivenim unutar povijesnih zidina. Uvečer uživajte u pogledu na razjareni Jadran iz suhog interijera povijesne obrambene kule."
           },
           "stops": [
             {
@@ -633,7 +648,7 @@
                 "hu": "Vigyázat, a sima mészkő burkolat vizesen rendkívül csúszóssá válik.",
                 "ro": "Atenție, pietrele de calcar devin extrem de alunecoase când sunt ude.",
                 "en": "Caution, the smooth limestone pavement becomes extremely slippery when wet.",
-                "hr": "Oprez, glatki vapnenački pločnik postaje izuzetno klizav kad je mokar."
+                "hr": "Upozorenje, glatka vapnenačka podloga postaje izuzetno skliska kad je mokra."
               }
             },
             {
@@ -643,7 +658,7 @@
                 "hu": "A toronyban működő étterem száraz és történelmi menedéket nyújt.",
                 "ro": "Restaurantul din interior oferă un refugiu uscat și plin de istorie.",
                 "en": "The restaurant inside provides a dry and historic retreat.",
-                "hr": "Restoran unutra nudi suho i povijesno utočište."
+                "hr": "Restoran unutra nudi suhi i povijesni zaklon."
               }
             },
             {
@@ -653,7 +668,7 @@
                 "hu": "Használja ki az esőszünetet a bent működő művészeti galéria megtekintésére.",
                 "ro": "Profită de ploaie pentru a vizita galeria de artă din interior.",
                 "en": "Use the rain break to visit the art gallery located inside.",
-                "hr": "Iskoristite stanku od kiše za posjet umjetničkoj galeriji unutra."
+                "hr": "Iskoristite pauzu od kiše za posjet umjetničkoj galeriji smještenoj unutra."
               }
             },
             {
@@ -663,7 +678,7 @@
                 "hu": "Tökéletes helyszín esőben; a belső terek és a múzeum fedettek.",
                 "ro": "Locație perfectă pe ploaie; interioarele și muzeul sunt acoperite.",
                 "en": "Perfect spot during rain; the interiors and museum are covered.",
-                "hr": "Savršeno mjesto tijekom kiše; unutrašnjost i muzej su natkriveni."
+                "hr": "Savršeno mjesto za kišu; interijeri i muzej su pokriveni."
               }
             },
             {
@@ -673,7 +688,7 @@
                 "hu": "A környező árkádok védelmet nyújtanak a rövid záporok elől.",
                 "ro": "Arcadele din jur oferă protecție împotriva ploilor scurte.",
                 "en": "The surrounding arcades offer protection from short rain showers.",
-                "hr": "Okolne arkade nude zaštitu od kratkih pljuskova."
+                "hr": "Okolne arkade pružaju zaštitu od kratkih pljuskova."
               }
             },
             {
@@ -683,7 +698,7 @@
                 "hu": "Tekintse meg az ókori oszlopokat gyorsan a szemközti bár védelméből.",
                 "ro": "Observați coloanele antice rapid din barul de vizavi.",
                 "en": "View the ancient columns quickly from the shelter of the bar opposite.",
-                "hr": "Brzo pogledajte antičke stupove iz zaklona bara nasuprot."
+                "hr": "Pogledajte antičke stupove brzo iz zaklona bara preko puta."
               }
             },
             {
@@ -703,7 +718,7 @@
                 "hu": "A teraszon lévő bár részben fedett, a belső rész teljesen védett.",
                 "ro": "Barul de pe terasă este parțial acoperit, interiorul este sigur.",
                 "en": "The terrace bar is partially covered, the interior is safe.",
-                "hr": "Terasa bara je djelomično natkrivena, unutrašnjost je sigurna."
+                "hr": "Terasa bara je djelomično natkrivena, interijer je siguran."
               }
             }
           ],
@@ -733,10 +748,10 @@
               "An umbrella is often impractical due to wind; rain jackets are better."
             ],
             "hr": [
-              "Nosite obuću koja dobro prianja jer skliske uličice postaju opasne.",
-              "Bazilika je najbolje mjesto tijekom dugotrajne kiše.",
+              "Nosite obuću s dobrim prianjanjem zbog skliskih uličica.",
+              "Bazilika je najbolje mjesto tijekom dugotrajnog pljuskova.",
               "Mnogi kafići u starom gradu imaju ugodne interijere.",
-              "Kišobran je često nepraktičan zbog vjetra; kabanice su bolji izbor."
+              "Kišobran je često nepraktičan zbog vjetra; bolja je vodootporna jakna."
             ]
           }
         },
@@ -746,7 +761,7 @@
             "hu": "A tiszta téli reggelen frissen fúj a bóra a Decumanus-on, miközben a város szinte csak az Öné. Délben a bazilika áhítatos csendet kínál a szokásos turistatömeg nélkül.\n\nA délután a kikötőben éles fényekkel és tágas távlatokkal telik. A korai naplementét leginkább egy forró ital mellett élvezhetjük a kevés nyitva tartó parti bár egyikében.",
             "ro": "În dimineața senină de iarnă, vântul Bora suflă rece prin Decumanus, în timp ce orașul vă aparține aproape în întregime. La prânz, basilica oferă o liniște profundă, fără mulțimile obișnuite de turiști.\n\nDupă-amiaza în port este marcată de o lumină clară și orizonturi largi. Apusul devreme este savurat cel mai bine cu o băutură caldă într-unul dintre barurile deschise din port.",
             "en": "On a clear winter morning, the Bora wind blows freshly through Decumanus while the city is almost yours alone. At noon, the Basilica offers a prayerful silence without the usual crowds.\n\nThe afternoon at the harbor is characterized by sharp light and wide horizons. The early sunset is best experienced with a hot drink in one of the few open harbor bars.",
-            "hr": "U vedro zimsko jutro bura svježe puše kroz Dekumanovu dok je grad gotovo samo vaš. U podne bazilika nudi molitvenu tišinu bez uobičajene gužve.\n\nPoslijepodne u luci obilježeno je oštrim svjetlom i širokim horizontima. Rani zalazak sunca najbolje je doživjeti uz topli napitak u jednom od rijetkih otvorenih barova u luci."
+            "hr": "Na bistro jutro u zimu sjeverni bura svježe puše kroz Decumanus dok je grad gotovo sam vaš. U podne Bazilika nudi molitveni mir bez uobičajenih gužvi.\n\nPoslijepodne u luci obilježeno je oštrom svjetlošću i širokim horizontima. Rani zalazak sunca najbolje se doživljava uz topao napitak u jednom od rijetko otvorenih kafića u luci."
           },
           "stops": [
             {
@@ -756,7 +771,7 @@
                 "hu": "Öltözzön szélállóan, a bóra hideg lehet a sikátorokban.",
                 "ro": "Îmbrăcați-vă cu haine rezistente la vânt, vântul Bora poate fi rece.",
                 "en": "Dress windproof, as the Bora wind can be chilly in the alleys.",
-                "hr": "Odjenite se vjetrootporno, jer bura u uličicama može biti hladna."
+                "hr": "Obucite odjeću otpornu na vjetar, jer bura može biti hladna u uličicama."
               }
             },
             {
@@ -766,7 +781,7 @@
                 "hu": "Élvezze a panorámát sorban állás nélkül.",
                 "ro": "Bucurați-vă de vederea panoramică fără cozi.",
                 "en": "Enjoy the panoramic view without the queues.",
-                "hr": "Uživajte u panoramskom pogledu bez čekanja u redovima."
+                "hr": "Uživajte u panoramskom pogledu bez redova."
               }
             },
             {
@@ -776,7 +791,7 @@
                 "hu": "Meleg hely a modern horvát művészet felfedezéséhez.",
                 "ro": "Un loc cald pentru a descoperi arta croată modernă.",
                 "en": "A warm place to discover modern Croatian art.",
-                "hr": "Toplo mjesto za otkrivanje moderne hrvatske umjetnosti."
+                "hr": "Toplo mjesto za otkrivanje suvremene hrvatske umjetnosti."
               }
             },
             {
@@ -786,7 +801,7 @@
                 "hu": "A bazilikában hűvös van, de télen a hangulata varázslatos.",
                 "ro": "Este răcoare în basilică, dar atmosfera este magică iarna.",
                 "en": "It is cool inside the Basilica, but the atmosphere is magical in winter.",
-                "hr": "Unutar bazilike je hladno, ali je atmosfera zimi čarobna."
+                "hr": "Unutra je hladno u Bazilici, ali atmosfera je zimski čarobna."
               }
             },
             {
@@ -796,7 +811,7 @@
                 "hu": "A délutáni fény ideális az ókori kövezetről készült fotókhoz.",
                 "ro": "Lumina de după-amiază este ideală pentru fotografii ale pavajului antic.",
                 "en": "The afternoon light is ideal for photos of the ancient pavement.",
-                "hr": "Poslijepodnevno svjetlo idealno je za fotografiranje antičkog pločnika."
+                "hr": "Poslijepodnevno svjetlo idealno je za fotografije stare popločne podloge."
               }
             },
             {
@@ -806,7 +821,7 @@
                 "hu": "Semmi nyári nyüzsgés nem zavarja a korinthoszi oszlopfők látványát.",
                 "ro": "Nicio agitație de vară nu deranjează vederea capitelurilor corintice.",
                 "en": "No summer bustle disturbs the view of the Corinthian capitals.",
-                "hr": "Ljetna gužva ne ometa pogled na korintske kapitele."
+                "hr": "Ljetna gužva ne narušava pogled na korintske kapitale."
               }
             },
             {
@@ -826,7 +841,7 @@
                 "hu": "Tökéletes zárás kilátással a téli tengerre.",
                 "ro": "Un final perfect cu vedere la marea de iarnă.",
                 "en": "A perfect finish with a view of the wintry sea.",
-                "hr": "Savršen završetak uz pogled na zimsko more."
+                "hr": "Savršen završetak s pogledom na zimno more."
               }
             }
           ],
@@ -856,10 +871,10 @@
               "Visit the Basilica early for the best daylight."
             ],
             "hr": [
-              "Zimi sunce zalazi već u 16:30.",
-              "Neki restorani uzimaju zimsku stanku; držite se glavne ulice.",
+              "Sunce zalazi već u 16:30 zimi.",
+              "Neki restorani uzimaju zimski odmor; držite se glavne ulice.",
               "Slojevita odjeća štiti od morskog vjetra.",
-              "Posjetite baziliku rano za najbolje dnevno svjetlo."
+              "Posjetite Baziliku rano za najbolje dnevno svjetlo."
             ]
           }
         }
@@ -889,7 +904,7 @@
             "hu": "Kiindulópont a városfalaknál.",
             "ro": "Punct de plecare la zidurile orașului.",
             "en": "Starting point by the city walls.",
-            "hr": "Početna točka kod gradskih zidina."
+            "hr": "Polazište kraj gradskih zidina."
           }
         },
         {
@@ -908,7 +923,7 @@
             "hu": "A bicikliket kint kell hagyni.",
             "ro": "Bicicletele trebuie lăsate afară.",
             "en": "Bikes must be left outside.",
-            "hr": "Bicikle morate ostaviti vani."
+            "hr": "Bicikle treba ostaviti izvan."
           }
         },
         {
@@ -965,7 +980,7 @@
             "hu": "Vissza a városba egy kis harapnivalóra.",
             "ro": "Înapoi în oraș pentru o gustare.",
             "en": "Back in town for a snack.",
-            "hr": "Povratak u grad na užinu."
+            "hr": "Natrag u grad na međuobrok."
           }
         }
       ],
@@ -974,7 +989,7 @@
         "hu": "Délelőtt: Rövid megálló az óvárosban, majd tekerés a part mentén.\n\nDélben: Pihenés és fürdés a Kék Lagúnánál (Plava Laguna).\n\nDélután: Visszaút a fenyőerdőkkel övezett Lungomare sétányon.\n\nEste: Biciklik leadása és egy ital a kikötőben.",
         "ro": "Dimineața: Scurtă oprire în orașul vechi, apoi pedalare de-a lungul coastei.\n\nLa prânz: Relaxare și înot la Plava Laguna.\n\nDupă-amiaza: Întoarcere pe faleza Lungomare umbrită de pini.\n\nSeara: Returnarea bicicletelor și o băutură în port.",
         "en": "Morning: Quick stop in the old town, then ride along the coast.\n\nMidday: Relax and swim at Plava Laguna.\n\nAfternoon: Return journey via the pine-shaded Lungomare promenade.\n\nEvening: Return the bikes and enjoy a drink at the harbor.",
-        "hr": "Jutro: Kratko zaustavljanje u starom gradu, zatim vožnja obalom.\n\nPodne: Opuštanje i kupanje u Plavoj Laguni.\n\nPoslijepodne: Povratak šetnicom Lungomare u sjeni borova.\n\nVečer: Vratite bicikle i uživajte u piću u luci."
+        "hr": "Jutro: Kratka stanica u starom gradu, zatim vožnja uz obalu.\n\nPodne: Opustite se i kupajte se u Plavoj Laguni.\n\nPoslijepodne: Povratak putem promenade Lungomare pod sjenom borova.\n\nVečer: Vratite bicikle i uživajte u piću u luci."
       },
       "gastro_picks": {
         "de": [
@@ -1096,7 +1111,7 @@
         ],
         "hr": [
           "Koristite označene obalne biciklističke staze.",
-          "Budite oprezni s pješacima na šetnici."
+          "Budite oprezni prema pješacima na promenadi."
         ]
       },
       "variants": {
@@ -1105,7 +1120,8 @@
             "de": "Vormittag: Kurzer Stopp in der Altstadt und dann Fahrt entlang der Küste.\n\nMittag: Entspannung und Schwimmen in der Plava Laguna.\n\nNachmittag: Rückfahrt auf dem Kiefernbeschatteten Lungomare.\n\nAbend: Rückgabe der Räder und Drink im Hafen.",
             "hu": "Délelőtt: Rövid megálló az óvárosban, majd tekerés a part mentén.\n\nDélben: Pihenés és fürdés a Kék Lagúnánál (Plava Laguna).\n\nDélután: Visszaút a fenyőerdőkkel övezett Lungomare sétányon.\n\nEste: Biciklik leadása és egy ital a kikötőben.",
             "ro": "Dimineața: Scurtă oprire în orașul vechi, apoi pedalare de-a lungul coastei.\n\nLa prânz: Relaxare și înot la Plava Laguna.\n\nDupă-amiaza: Întoarcere pe faleza Lungomare umbrită de pini.\n\nSeara: Returnarea bicicletelor și o băutură în port.",
-            "en": "Morning: Quick stop in the old town, then ride along the coast.\n\nMidday: Relax and swim at Plava Laguna.\n\nAfternoon: Return journey via the pine-shaded Lungomare promenade.\n\nEvening: Return the bikes and enjoy a drink at the harbor."
+            "en": "Morning: Quick stop in the old town, then ride along the coast.\n\nMidday: Relax and swim at Plava Laguna.\n\nAfternoon: Return journey via the pine-shaded Lungomare promenade.\n\nEvening: Return the bikes and enjoy a drink at the harbor.",
+            "hr": "Jutro: Kratka stanica u starom gradu, zatim vožnja uz obalu.\n\nPodne: Opustite se i kupajte se u Plavoj Laguni.\n\nPoslijepodne: Povratak putem promenade Lungomare pod sjenom borova.\n\nVečer: Vratite bicikle i uživajte u piću u luci."
           },
           "stops": [
             {
@@ -1114,7 +1130,8 @@
                 "de": "Startpunkt an den Stadtmauern.",
                 "hu": "Kiindulópont a városfalaknál.",
                 "ro": "Punct de plecare la zidurile orașului.",
-                "en": "Starting point by the city walls."
+                "en": "Starting point by the city walls.",
+                "hr": "Polazište kraj gradskih zidina."
               }
             },
             {
@@ -1123,7 +1140,8 @@
                 "de": "Fahrräder müssen draußen bleiben.",
                 "hu": "A bicikliket kint kell hagyni.",
                 "ro": "Bicicletele trebuie lăsate afară.",
-                "en": "Bikes must be left outside."
+                "en": "Bikes must be left outside.",
+                "hr": "Bicikle treba ostaviti izvan."
               }
             },
             {
@@ -1132,7 +1150,8 @@
                 "de": "Schöne Küstenfahrt Richtung Süden.",
                 "hu": "Szép parti út déli irányba.",
                 "ro": "Drum frumos pe coastă spre sud.",
-                "en": "Beautiful coastal ride heading south."
+                "en": "Beautiful coastal ride heading south.",
+                "hr": "Prekrasna obalna vožnja prema jugu."
               }
             },
             {
@@ -1141,7 +1160,8 @@
                 "de": "Perfekt für eine Badepause.",
                 "hu": "Tökéletes egy fürdőzési szünethez.",
                 "ro": "Perfect pentru o pauză de înot.",
-                "en": "Perfect for a swimming break."
+                "en": "Perfect for a swimming break.",
+                "hr": "Savršeno za pauzu za kupanje."
               }
             },
             {
@@ -1150,7 +1170,8 @@
                 "de": "Zurück in der Stadt für einen Snack.",
                 "hu": "Vissza a városba egy kis harapnivalóra.",
                 "ro": "Înapoi în oraș pentru o gustare.",
-                "en": "Back in town for a snack."
+                "en": "Back in town for a snack.",
+                "hr": "Natrag u grad na međuobrok."
               }
             }
           ],
@@ -1252,6 +1273,10 @@
             "en": [
               "Use the marked coastal bike paths.",
               "Be careful with pedestrians on the promenade."
+            ],
+            "hr": [
+              "Koristite označene obalne biciklističke staze.",
+              "Budite oprezni prema pješacima na promenadi."
             ]
           }
         },
@@ -1261,7 +1286,7 @@
             "hu": "Az esőben tett biciklitúra óvatosságot igényel a parti utakon, de cserébe üres sétányokat kínál. Délelőtt az óvárosi sziklákat fedezzük fel, mielőtt a bazilikába húzódnánk.\n\nDélután a Lungomare mentén kerekezünk, ahol a sós tengeri permet és az eső eggyé válik. A napot biztonságban, egy kerékpáros-barát helyen zárjuk.",
             "ro": "O tură cu bicicleta pe ploaie necesită prudență pe drumurile de coastă, dar oferă promenade pustii. Dimineața explorați stâncile orașului vechi înainte de a vă refugia la basilică.\n\nDupă-amiaza pedalați de-a lungul Lungomare, unde stropii sărați și ploaia devin una. Ziua se încheie în siguranță într-un loc prietenos cu bicicliștii.",
             "en": "A bike tour in the rain requires caution on coastal paths but offers empty promenades. In the morning, explore the old town rocks before retreating to the Basilica.\n\nIn the afternoon, cycle along the Lungomare, where salty spray and rain become one. The day ends safely in a bike-friendly spot.",
-            "hr": "Biciklistička tura po kiši zahtijeva oprez na obalnim stazama, ali nudi prazne šetnice. Ujutro istražite zidine starog grada prije povlačenja u baziliku.\n\nPoslijepodne biciklirajte uz Lungomare, gdje se slani morski prah i kiša stapaju u jedno. Dan završava na sigurnom u mjestu pogodnom za bicikliste."
+            "hr": "Biciklistička tura po kiši zahtijeva oprez na obalnim stazama, ali nudi prazne promenade. Ujutro istražite stari grad i stijene prije povlačenja u Baziliku.\n\nPoslijepodne vozite Lungomare, gdje se slani sprej i kiša stapaju u jedno. Dan završava sigurno na biciklistički prilagođenom mjestu."
           },
           "stops": [
             {
@@ -1271,7 +1296,7 @@
                 "hu": "Parkoljon közel a toronyhoz, hogy gyorsan fedett helyre érjen.",
                 "ro": "Parcați bicicleta aproape de turn pentru a ajunge rapid la adăpost.",
                 "en": "Park your bike close to the tower to get under cover quickly.",
-                "hr": "Parkirajte bicikl blizu kule kako biste se brzo sklonili."
+                "hr": "Parkirajte bicikl blizu kule kako biste brzo našli zaklon."
               }
             },
             {
@@ -1281,7 +1306,7 @@
                 "hu": "Helyezze le a biciklit biztonságosan a kövezett előtéren.",
                 "ro": "Lăsați bicicleta în siguranță în piațeta pavată.",
                 "en": "Park your bike safely in the paved forecourt.",
-                "hr": "Sigurno parkirajte bicikl u popločanom predvorju."
+                "hr": "Sigurno parkirajte bicikl na popločanom prednjem trgu."
               }
             },
             {
@@ -1301,7 +1326,7 @@
                 "hu": "A fenyőfák természetes védelmet nyújtanak gyenge szemerkélésnél.",
                 "ro": "Pinii oferă o protecție naturală în caz de burniță ușoară.",
                 "en": "The pine trees offer natural protection during light drizzle.",
-                "hr": "Borovi nude prirodnu zaštitu tijekom lagane kišice."
+                "hr": "Borovi nude prirodnu zaštitu tijekom slabog žmura."
               }
             },
             {
@@ -1311,7 +1336,7 @@
                 "hu": "Zárja le a biciklit és melegedjen fel a torony belsejében.",
                 "ro": "Asigurați bicicleta și încălziți-vă în interiorul turnului.",
                 "en": "Secure your bike and warm up inside the tower.",
-                "hr": "Osigurajte bicikl i ugrijte se unutar kule."
+                "hr": "Osigurajte bicikl i utoplite se unutra u kuli."
               }
             }
           ],
@@ -1341,10 +1366,10 @@
               "Stick to paved coastal bike paths."
             ],
             "hr": [
-              "Provjerite kočnice; vlaga povećava put kočenja.",
-              "Nosite svijetlu kišnu opremu radi bolje vidljivosti.",
-              "Izbjegavajte pješčane staze; brzo postaju blatnjave.",
-              "Držite se asfaltiranih obalnih biciklističkih staza."
+              "Provjerite kočnice; vlažnost povećava zaustavni put.",
+              "Nosite svijetlu kišnu opremu za bolju vidljivost.",
+              "Izbjegavajte pješčane staze; brzo postaju blatne.",
+              "Držite se popločanih obalnih biciklističkih staza."
             ]
           }
         },
@@ -1354,7 +1379,7 @@
             "hu": "A téli kerékpározás Porečben frissítő és akadálytalan kilátást nyújt az Adriára. Délelőtt a történelmi tornyokat fedezzük fel a hűvös, tiszta levegőben.\n\nDélután a túra a Plava Laguna felé vezet az illatos fenyőerdőkön át, melyek télen is zöldellnek. A naplementekor tett visszaút látványos színeket kínál a tenger felett.",
             "ro": "Ciclismul de iarnă în Poreč este revigorant și oferă vederi asupra Adriaticii. Dimineața explorați turnurile istorice în aerul rece și curat.\n\nDupă-amiaza, turul duce spre Plava Laguna prin păduri de pini parfumate, care rămân verzi și iarna. Drumul de întoarcere la apus oferă culori spectaculoase deasupra mării.",
             "en": "Winter cycling in Poreč is refreshing and offers clear views of the Adriatic. In the morning, explore the historic towers in the cool, clear air.\n\nIn the afternoon, the tour leads to Plava Laguna through fragrant pine forests that stay green in winter. The ride back at sunset offers spectacular colors over the sea.",
-            "hr": "Zimski biciklizam u Poreču je osvježavajući i nudi jasne poglede na Jadran. Ujutro istražite povijesne kule na hladnom, čistom zraku.\n\nPoslijepodne tura vodi do Plave Lagune kroz mirisne borove šume koje ostaju zelene i zimi. Povratak uz zalazak sunca nudi spektakularne boje nad morem."
+            "hr": "Zimska vožnja biciklom u Poreču osvježava i nudi jasne poglede na Jadran. Ujutro istražite povijesne kule u hladnom, bistrom zraku.\n\nPoslijepodne tura vodi do Plave Lagune kroz mirisne borove šume koje zimi ostaju zelene. Povratak pri zalasku sunca nudi spektakularne boje nad morem."
           },
           "stops": [
             {
@@ -1364,7 +1389,7 @@
                 "hu": "Rövid megálló az üres óvárosi utcák fotózásához.",
                 "ro": "O scurtă oprire pentru fotografii ale străzilor pustii din orașul vechi.",
                 "en": "A short stop for photos of the empty old town streets.",
-                "hr": "Kratko zaustavljanje za fotografije praznih ulica starog grada."
+                "hr": "Kratka stanica za fotografije praznih ulica starog grada."
               }
             },
             {
@@ -1384,7 +1409,7 @@
                 "hu": "A szél erős lehet; fogja szorosan a kormányt.",
                 "ro": "Vântul poate sufla tare aici; țineți bine ghidonul.",
                 "en": "The wind can blow strongly; keep a firm grip on the handlebars.",
-                "hr": "Vjetar može snažno puhati; čvrsto držite upravljač."
+                "hr": "Vjetar može jako puhati; čvrsto držite upravljač."
               }
             },
             {
@@ -1394,7 +1419,7 @@
                 "hu": "Élvezze a magányos strandot és a tiszta téli levegőt.",
                 "ro": "Bucurați-vă de plaja pustie și aerul curat de iarnă.",
                 "en": "Enjoy the lonely beach and the clear winter air.",
-                "hr": "Uživajte na pustoj plaži i čistom zimskom zraku."
+                "hr": "Uživajte u osamljenoj plaži i čistom zimskom zraku."
               }
             },
             {
@@ -1404,7 +1429,7 @@
                 "hu": "Utolsó szakasz; utána egy forró tea vár a közelben.",
                 "ro": "Ultima etapă; după aceea vă așteaptă un ceai cald în apropiere.",
                 "en": "Final leg; a hot tea awaits nearby afterward.",
-                "hr": "Zadnja dionica; nakon toga vas u blizini čeka topli čaj."
+                "hr": "Zadnja dionica; nakon toga vas čeka topli čaj u blizini."
               }
             }
           ],
@@ -1434,10 +1459,10 @@
               "Watch out for shaded areas; it is colder there."
             ],
             "hr": [
-              "Nosite tople rukavice; vjetar može biti leden.",
-              "Planirajte povratak prije 16:30.",
-              "Marama ili šal štite vrat od morskog povjetarca.",
-              "Pazite na zasjenjena područja; tamo je znatno hladnije."
+              "Nosite tople rukavice; hladnoća vjetra je ledena.",
+              "Isplanirajte povratak prije 16:30.",
+              "Buff ili šal štiti vrat od morskog povjetarca.",
+              "Pazite na zasjenjena mjesta; tamo je hladnije."
             ]
           }
         }
@@ -1467,7 +1492,7 @@
             "hu": "Barlang Poreč mellett, hűvös és lenyűgöző.",
             "ro": "Peșteră lângă Poreč, răcoroasă și impresionantă.",
             "en": "Cave near Poreč, cool and impressive.",
-            "hr": "Jama u blizini Poreča, hladna i impresivna."
+            "hr": "Pećina blizu Poreča, osvježavajuća i impresivna."
           }
         },
         {
@@ -1486,7 +1511,7 @@
             "hu": "Parkoljon a nagy 'Vrtovi' parkolóban.",
             "ro": "Parcați la parcarea mare 'Vrtovi'.",
             "en": "Park at the large 'Vrtovi' parking lot.",
-            "hr": "Parkirajte na velikom parkiralištu 'Vrtovi'."
+            "hr": "Parkirajte na velikom parkingu 'Vrtovi'."
           }
         },
         {
@@ -1505,7 +1530,7 @@
             "hu": "Rövid séta a parkolótól.",
             "ro": "Scurtă plimbare de la parcare.",
             "en": "Short walk from the parking area.",
-            "hr": "Kratka šetnja od parkirališta."
+            "hr": "Kratka šetnja od parkinga."
           }
         }
       ],
@@ -1514,7 +1539,7 @@
         "hu": "Délelőtt: Kirándulás a Baredine-barlangba a hátországban.\n\nDélben: Visszatérés Porečbe és az óváros megtekintése.\n\nDélután: Autózás a Lim-fjordhoz osztrigát kóstolni.\n\nEste: Vacsora egy városon kívüli agroturizmusban.",
         "ro": "Dimineața: Excursie la peștera Baredine din hinterland.\n\nLa prânz: Revenire în Poreč și vizitarea centrului vechi.\n\nDupă-amiaza: Conducere spre fiordul Lim pentru stridii.\n\nSeara: Cină la un agroturism în afara orașului.",
         "en": "Morning: Trip to the Baredine Cave in the hinterland.\n\nMidday: Return to Poreč and explore the old town.\n\nAfternoon: Drive to Lim Fjord for fresh oysters.\n\nEvening: Dinner at an 'agroturizam' outside the city.",
-        "hr": "Jutro: Izlet u jamu Baredine u zaleđu.\n\nPodne: Povratak u Poreč i istraživanje starog grada.\n\nPoslijepodne: Vožnja do Limskog kanala na svježe kamenice.\n\nVečer: Večera na agroturizmu izvan grada."
+        "hr": "Jutro: Izlet do špilje Baredine u zaleđu.\n\nU podne: Povratak u Poreč i razgledavanje starog grada.\n\nPoslijepodne: Vožnja do Limskog kanala na svježe kamenice.\n\nVečer: Večera u agroturizmu izvan grada."
       },
       "gastro_picks": {
         "de": [
@@ -1635,8 +1660,8 @@
           "Inland roads are curvy but scenic."
         ],
         "hr": [
-          "Parkiranje u starom gradu je gotovo nemoguće.",
-          "Ceste u unutrašnjosti su vijugave, ali slikovite."
+          "Parkiranje u starom gradu gotovo je nemoguće.",
+          "Zaleđne ceste su vijugave, ali slikovite."
         ]
       },
       "variants": {
@@ -1645,7 +1670,8 @@
             "de": "Vormittag: Ausflug zur Baredine-Höhle im Hinterland.\n\nMittag: Rückkehr nach Poreč und Besuch der Altstadt.\n\nNachmittag: Fahrt zum Lim-Fjord für Austern.\n\nAbend: Dinner in einem Agroturizam außerhalb der Stadt.",
             "hu": "Délelőtt: Kirándulás a Baredine-barlangba a hátországban.\n\nDélben: Visszatérés Porečbe és az óváros megtekintése.\n\nDélután: Autózás a Lim-fjordhoz osztrigát kóstolni.\n\nEste: Vacsora egy városon kívüli agroturizmusban.",
             "ro": "Dimineața: Excursie la peștera Baredine din hinterland.\n\nLa prânz: Revenire în Poreč și vizitarea centrului vechi.\n\nDupă-amiaza: Conducere spre fiordul Lim pentru stridii.\n\nSeara: Cină la un agroturism în afara orașului.",
-            "en": "Morning: Trip to the Baredine Cave in the hinterland.\n\nMidday: Return to Poreč and explore the old town.\n\nAfternoon: Drive to Lim Fjord for fresh oysters.\n\nEvening: Dinner at an 'agroturizam' outside the city."
+            "en": "Morning: Trip to the Baredine Cave in the hinterland.\n\nMidday: Return to Poreč and explore the old town.\n\nAfternoon: Drive to Lim Fjord for fresh oysters.\n\nEvening: Dinner at an 'agroturizam' outside the city.",
+            "hr": "Jutro: Izlet do špilje Baredine u zaleđu.\n\nU podne: Povratak u Poreč i razgledavanje starog grada.\n\nPoslijepodne: Vožnja do Limskog kanala na svježe kamenice.\n\nVečer: Večera u agroturizmu izvan grada."
           },
           "stops": [
             {
@@ -1654,7 +1680,8 @@
                 "de": "Höhle bei Poreč, kühl und beeindruckend.",
                 "hu": "Barlang Poreč mellett, hűvös és lenyűgöző.",
                 "ro": "Peșteră lângă Poreč, răcoroasă și impresionantă.",
-                "en": "Cave near Poreč, cool and impressive."
+                "en": "Cave near Poreč, cool and impressive.",
+                "hr": "Pećina blizu Poreča, osvježavajuća i impresivna."
               }
             },
             {
@@ -1663,7 +1690,8 @@
                 "de": "Parken Sie beim großen Parkplatz 'Vrtovi'.",
                 "hu": "Parkoljon a nagy 'Vrtovi' parkolóban.",
                 "ro": "Parcați la parcarea mare 'Vrtovi'.",
-                "en": "Park at the large 'Vrtovi' parking lot."
+                "en": "Park at the large 'Vrtovi' parking lot.",
+                "hr": "Parkirajte na velikom parkingu 'Vrtovi'."
               }
             },
             {
@@ -1672,7 +1700,8 @@
                 "de": "Kurzer Fußweg vom Parkplatz.",
                 "hu": "Rövid séta a parkolótól.",
                 "ro": "Scurtă plimbare de la parcare.",
-                "en": "Short walk from the parking area."
+                "en": "Short walk from the parking area.",
+                "hr": "Kratka šetnja od parkinga."
               }
             }
           ],
@@ -1774,6 +1803,10 @@
             "en": [
               "Parking in the old town is almost impossible.",
               "Inland roads are curvy but scenic."
+            ],
+            "hr": [
+              "Parkiranje u starom gradu gotovo je nemoguće.",
+              "Zaleđne ceste su vijugave, ali slikovite."
             ]
           }
         },
@@ -1783,7 +1816,7 @@
             "hu": "Autóval a Baredine-barlang ideális célpont esőben, mivel a föld alatt teljesen időjárásfüggetlen. Ezután kényelmesen parkolhat az óváros közelében a bazilikához.\n\nA délutánt a Marafor-téren töltjük, ahol az autóablakból vagy egy közeli kávézóból élvezhetjük a történelmi környezetet. Az esős isztriai tájon való autózásnak megvan a maga sajátos bája.",
             "ro": "Cu mașina, peștera Baredine este destinația ideală pe ploaie, fiind total independentă de vreme sub pământ. Apoi parcați confortabil lângă orașul vechi pentru basilică.\n\nDupă-amiaza o petreceți în piața Marafor, unde vă puteți bucura de ambianța istorică din mașină vagy dintr-o cafenea. Drumul prin peisajul istrian ploios are un farmec aparte.",
             "en": "By car, the Baredine Cave is the ideal destination in rain, being completely weather-independent underground. Afterward, park conveniently near the old town for the Basilica.\n\nSpend the afternoon at Marafor Square, enjoying the historic ambiance from your car or a nearby cafe. Driving through the rainy Istrian countryside has its own unique charm.",
-            "hr": "Automobilom je jama Baredine idealno odredište po kiši, jer je pod zemljom potpuno neovisna o vremenskim prilikama. Nakon toga, parkirajte povoljno u blizini starog grada za posjet bazilici.\n\nProvedite poslijepodne na Trgu Marafor, uživajući u povijesnom ambijentu iz automobila ili obližnjeg kafića. Vožnja kroz kišoviti istarski krajolik ima svoj poseban šarm."
+            "hr": "Automobilom, špilja Baredine je idealna destinacija po kiši, potpuno neovisna o vremenskim uvjetima ispod zemlje. Nakon toga, parkirajte praktično blizu starog grada za posjet Bazilici.\n\nPoslijepodne provedite na Maraforu, uživajući u povijesnoj atmosferi iz automobila ili u obližnjem kafiću. Vožnja kroz kišovito istarsko zaleđe ima svoj poseban šarm."
           },
           "stops": [
             {
@@ -1793,7 +1826,7 @@
                 "hu": "Teljesen időjárásálló; a barlang hőmérséklete mindig állandó.",
                 "ro": "Absolut rezistent la vreme; temperatura în peșteră este constantă.",
                 "en": "Completely weather-proof; the cave temperature is always constant.",
-                "hr": "Potpuno otporno na vremenske uvjete; temperatura u jami je uvijek konstantna."
+                "hr": "Potpuno otpuno na vremenske uvjete; temperatura u špilji je uvijek konstantna."
               }
             },
             {
@@ -1803,7 +1836,7 @@
                 "hu": "Használja a 'Viale' nagy parkolót a rövid séta érdekében.",
                 "ro": "Folosiți parcarea mare 'Viale' pentru o plimbare scurtă.",
                 "en": "Use the large 'Viale' parking lot for a short walk.",
-                "hr": "Koristite veliko parkiralište 'Viale' za kratku šetnju."
+                "hr": "Koristite veliki parking 'Viale' za kratku šetnju."
               }
             },
             {
@@ -1813,7 +1846,7 @@
                 "hu": "Hajtson a sétálóövezet széléig egy gyors körbetekintéshez.",
                 "ro": "Conduceți până la marginea zonei pietonale pentru o privire rapidă.",
                 "en": "Drive to the edge of the pedestrian zone for a quick look.",
-                "hr": "Odvezite se do ruba pješačke zone za brzinski pogled."
+                "hr": "Dođite autom do ruba pješačke zone za brz pogled."
               }
             }
           ],
@@ -1843,10 +1876,10 @@
               "There are several parking garages in town as dry alternatives."
             ],
             "hr": [
-              "Glavno parkiralište često je manje zakrčeno po kiši.",
-              "Obilazak jame traje oko 40 minuta i natkriven je.",
-              "Vozite oprezno po vijugavim seoskim cestama u mokrim uvjetima.",
-              "U gradu postoji nekoliko garaža kao suhe alternative."
+              "Glavni parking često je manje zakrčen po kiši.",
+              "Obilazak špilje traje oko 40 minuta i je natkriven.",
+              "Vozite pažljivo po vijugavim seoskim cestama u mokrim uvjetima.",
+              "U gradu postoji nekoliko garaža kao suha alternativa."
             ]
           }
         },
@@ -1856,7 +1889,7 @@
             "hu": "A téli autózás Porečbe tiszta látási viszonyokat és stresszmentes parkolást kínál. Délelőtt a Baredine-barlang a maga 14 fokával szinte melegebb a kinti levegőnél.\n\nDélben teljes nyugalomban fedezzük fel a bazilikát. A délután a parti autózásé, ahol a téli nap mélykékre festi a tengert, mielőtt a napot az óvárosban zárnánk.",
             "ro": "O călătorie de iarnă la Poreč oferă vizibilitate clară și parcare fără stres. Dimineața, peștera Baredine, cu cele 14 grade, este aproape mai caldă decât aerul de afară.\n\nLa prânz explorați basilica în liniște deplină. După-amiaza este dedicată drumului de-a lungul coastei, unde soarele de iarnă face marea să strălucească în albastru profund.",
             "en": "A winter drive to Poreč offers clear views and stress-free parking. In the morning, the Baredine Cave, at 14 degrees, is almost warmer than the outside air.\n\nAt noon, explore the Basilica in total peace. The afternoon is dedicated to driving along the coast, where the winter sun turns the sea a deep blue, before finishing the day in town.",
-            "hr": "Zimska vožnja do Poreča nudi čiste vidike i parkiranje bez stresa. Ujutro je jama Baredine, na 14 stupnjeva, gotovo toplija od vanjskog zraka.\n\nU podne istražite baziliku u potpunom miru. Poslijepodne je posvećeno vožnji uz obalu, gdje zimsko sunce boji more u tamnoplavo, prije završetka dana u gradu."
+            "hr": "Zimska vožnja do Poreča nudi jasne vidike i bezstresno parkiranje. Ujutro je špilja Baredine na 14 stupnjeva gotovo toplija od vanjskog zraka.\n\nU podne, istražite Baziliku u potpunom miru. Poslijepodne posvetite vožnji duž obale, gdje zimsko sunce more pretvara u duboko plavo, prije nego završite dan u gradu."
           },
           "stops": [
             {
@@ -1866,7 +1899,7 @@
                 "hu": "Egész évben kellemes 14 fok; ideális felmelegedni.",
                 "ro": "14 grade plăcute tot anul; ideal pentru a vă încălzi.",
                 "en": "A pleasant 14 degrees year-round; ideal for warming up.",
-                "hr": "Ugodnih 14 stupnjeva tijekom cijele godine; idealno za zagrijavanje."
+                "hr": "Ugodnih 14 stupnjeva tijekom cele godine; idealno za ugrijavanje."
               }
             },
             {
@@ -1876,7 +1909,7 @@
                 "hu": "Ingyenes parkolási lehetőség a közelben a főszezonon kívül.",
                 "ro": "Posibilități de parcare gratuită în apropiere în extrasezon.",
                 "en": "Free parking options nearby during the off-season.",
-                "hr": "Mogućnosti besplatnog parkiranja u blizini tijekom izvansezone."
+                "hr": "Besplatne opcije parkiranja u blizini tijekom niske sezone."
               }
             },
             {
@@ -1886,7 +1919,7 @@
                 "hu": "Parkoljon közvetlenül a szélen és sétáljon egyet a templomhoz.",
                 "ro": "Parcați chiar la margine și mergeți pe jos până la templu.",
                 "en": "Park right at the edge and take a short walk to the temple.",
-                "hr": "Parkirajte na samom rubu i kratko prošetajte do hrama."
+                "hr": "Parkirajte pravo na rubu i prošećite kratko do hrama."
               }
             }
           ],
@@ -1916,10 +1949,10 @@
               "Use the car heater between stops to warm up."
             ],
             "hr": [
-              "Mnoga parkirna mjesta su zimi besplatna ili jeftinija.",
-              "Jama ima ograničeno radno vrijeme zimi; provjerite unaprijed.",
-              "Pazite na divljač na seoskim cestama tijekom sumraka.",
-              "Koristite grijanje u automobilu između zaustavljanja kako biste se ugrijali."
+              "Mnogi parking mjesta su besplatni ili jeftiniji zimi.",
+              "Špilja ima ograničeno radno vrijeme zimi; provjerite unaprijed.",
+              "Pazite na divljač na seoskim cestama u sumrak.",
+              "Koristite grijač u autu između stajanja za zagrijavanje."
             ]
           }
         }
@@ -1949,7 +1982,7 @@
             "hu": "Központi csomópont.",
             "ro": "Nod central de transport.",
             "en": "Central transport hub.",
-            "hr": "Središnje prometno čvorište."
+            "hr": "Središnje transportno čvorište."
           }
         },
         {
@@ -1987,7 +2020,7 @@
             "hu": "Elviszi a szállodákhoz és strandokhoz.",
             "ro": "Vă duce la hoteluri și plaje.",
             "en": "Takes you to hotels and beaches.",
-            "hr": "Vozi vas do hotela i plaža."
+            "hr": "Vodi do hotela i plaža."
           }
         }
       ],
@@ -1996,7 +2029,7 @@
         "hu": "Délelőtt: Érkezés busszal, séta az óvárosban.\n\nDélben: A bazilika megtekintése.\n\nDélután: Utazás a kisvonattal délre a strandokhoz.\n\nEste: Visszatérés az állomásra vagy komp Velencébe.",
         "ro": "Dimineața: Sosire cu autobuzul și start în orașul vechi.\n\nLa prânz: Vizitarea bazilicii.\n\nDupă-amiaza: Călătorie cu trenulețul turistic spre sud.\n\nSeara: Întoarcere la autogară sau feribot spre Veneția.",
         "en": "Morning: Arrival by bus and start in the old town.\n\nMidday: Visit the Basilica.\n\nAfternoon: Ride the tourist train south to the beaches.\n\nEvening: Return to the station or ferry to Venice.",
-        "hr": "Jutro: Dolazak autobusom i početak u starom gradu.\n\nPodne: Posjet bazilici.\n\nPoslijepodne: Vožnja turističkim vlakićem na jug do plaža.\n\nVečer: Povratak na kolodvor ili trajekt za Veneciju."
+        "hr": "Jutro: Dolazak autobusom i početak u starom gradu.\n\nU podne: Posjetite Baziliku.\n\nPoslijepodne: Vozite se turističkim vlakom prema jugu do plaža.\n\nVečer: Povratak na kolodvor ili trajekt za Veneciju."
       },
       "gastro_picks": {
         "de": [
@@ -2117,8 +2150,8 @@
           "Buy tickets from the driver."
         ],
         "hr": [
-          "Turistički vlakić vozi svakih 30 minuta.",
-          "Ulaznice kupite kod vozača."
+          "Turistički vlak vozi svake 30 minuta.",
+          "Karte kupite kod vozača."
         ]
       },
       "variants": {
@@ -2127,7 +2160,8 @@
             "de": "Vormittag: Ankunft mit dem Bus und Start in der Altstadt.\n\nMittag: Besuch der Basilika.\n\nNachmittag: Fahrt mit dem Touristenzug in den Süden.\n\nAbend: Rückkehr zum Bahnhof oder Fähre nach Venedig.",
             "hu": "Délelőtt: Érkezés busszal, séta az óvárosban.\n\nDélben: A bazilika megtekintése.\n\nDélután: Utazás a kisvonattal délre a strandokhoz.\n\nEste: Visszatérés az állomásra vagy komp Velencébe.",
             "ro": "Dimineața: Sosire cu autobuzul și start în orașul vechi.\n\nLa prânz: Vizitarea bazilicii.\n\nDupă-amiaza: Călătorie cu trenulețul turistic spre sud.\n\nSeara: Întoarcere la autogară sau feribot spre Veneția.",
-            "en": "Morning: Arrival by bus and start in the old town.\n\nMidday: Visit the Basilica.\n\nAfternoon: Ride the tourist train south to the beaches.\n\nEvening: Return to the station or ferry to Venice."
+            "en": "Morning: Arrival by bus and start in the old town.\n\nMidday: Visit the Basilica.\n\nAfternoon: Ride the tourist train south to the beaches.\n\nEvening: Return to the station or ferry to Venice.",
+            "hr": "Jutro: Dolazak autobusom i početak u starom gradu.\n\nU podne: Posjetite Baziliku.\n\nPoslijepodne: Vozite se turističkim vlakom prema jugu do plaža.\n\nVečer: Povratak na kolodvor ili trajekt za Veneciju."
           },
           "stops": [
             {
@@ -2136,7 +2170,8 @@
                 "de": "Zentraler Knotenpunkt.",
                 "hu": "Központi csomópont.",
                 "ro": "Nod central de transport.",
-                "en": "Central transport hub."
+                "en": "Central transport hub.",
+                "hr": "Središnje transportno čvorište."
               }
             },
             {
@@ -2145,7 +2180,8 @@
                 "de": "Kurzer Fußweg vom Busbahnhof.",
                 "hu": "Rövid séta a buszállomástól.",
                 "ro": "Scurtă plimbare de la autogară.",
-                "en": "Short walk from the bus station."
+                "en": "Short walk from the bus station.",
+                "hr": "Kratka šetnja od autobusnog kolodvora."
               }
             },
             {
@@ -2154,7 +2190,8 @@
                 "de": "Nimmt Sie mit zu den Hotels und Stränden.",
                 "hu": "Elviszi a szállodákhoz és strandokhoz.",
                 "ro": "Vă duce la hoteluri și plaje.",
-                "en": "Takes you to hotels and beaches."
+                "en": "Takes you to hotels and beaches.",
+                "hr": "Vodi do hotela i plaža."
               }
             }
           ],
@@ -2256,6 +2293,10 @@
             "en": [
               "The tourist train runs every 30 mins.",
               "Buy tickets from the driver."
+            ],
+            "hr": [
+              "Turistički vlak vozi svake 30 minuta.",
+              "Karte kupite kod vozača."
             ]
           }
         },
@@ -2265,7 +2306,7 @@
             "hu": "A poreči buszpályaudvar jó kiindulópont fedett váróterekkel. Innen gyorsan elérhető a Decumanus utca, követve az esőszüneteket.\n\nDélben a turistavonattal való utazás félig-meddig száraz módot kínál a part megtekintésére. A délutánt az óvárosi múzeumokban töltjük, mielőtt visszabuszoznánk.",
             "ro": "Autogara Poreč este un punct de plecare bun, cu zone de așteptare acoperite. De acolo ajungeți rapid pe strada Decumanus, profitând de pauzele de ploaie.\n\nLa prânz, o călătorie cu trenulețul turistic oferă o variantă relativ uscată de a vedea coasta. După-amiaza o petreceți în muzeele orașului vechi.",
             "en": "Poreč bus station is a good starting point with covered waiting areas. From there, you can quickly reach Decumanus Street by timing your moves with the rain breaks.\n\nAt noon, a ride on the tourist train offers a semi-dry way to see the coast. Spend the afternoon in the old town museums before taking the bus back.",
-            "hr": "Autobusni kolodvor u Poreču dobra je polazna točka s natkrivenim čekaonicama. Od tamo možete brzo stići do Dekumanove ulice tempirajući kretanje prema stankama od kiše.\n\nU podne vožnja turističkim vlakićem nudi polusuhi način za razgledavanje obale. Provedite poslijepodne u muzejima starog grada prije povratka autobusom."
+            "hr": "Autobusni kolodvor u Poreču je dobar polazni punkt s natkrivenim čekaonicama. Od tamo brzo možete stići do Decumanus ulice ako tempirate kretanja s prestancima kiše.\n\nU podne, vožnja turističkim vlakom nudi polusuhi način da vidite obalu. Poslijepodne provedite u muzejima starog grada prije povratka autobusom."
           },
           "stops": [
             {
@@ -2285,7 +2326,7 @@
                 "hu": "Csak 5 perc séta a buszpályaudvartól, ideális az esőszünetekhez.",
                 "ro": "La doar 5 minute de mers de la autogară, ideal între ploi.",
                 "en": "Only a 5-minute walk from the bus station, ideal for rain breaks.",
-                "hr": "Svega 5 minuta hoda od autobusnog kolodvora, idealno za stanke od kiše."
+                "hr": "Samo 5 minuta hoda od autobusnog kolodvora, idealno za prekide zbog kiše."
               }
             },
             {
@@ -2295,7 +2336,7 @@
                 "hu": "A vonat oldalt részben nyitott; válasszon belső ülőhelyet.",
                 "ro": "Trenulețul este parțial deschis; alegeți un loc în interior.",
                 "en": "The train is partially open on the sides; choose an inner seat.",
-                "hr": "Vlakić je djelomično otvoren sa strana; odaberite unutarnje sjedalo."
+                "hr": "Vlak je djelomično otvoren sa strana; izaberite sjedalo u unutrašnjosti."
               }
             }
           ],
@@ -2325,10 +2366,10 @@
               "Have change or a card ready for the ticket."
             ],
             "hr": [
-              "Provjerite vozni red online; linije se mogu otkazati tijekom oluja.",
-              "Nosite vodootpornu odjeću za šetnje između stanica.",
-              "Autobusi su zimi i tijekom kiše često grijani.",
-              "Pripremite sitniš ili karticu za kartu."
+              "Provjerite raspored online; usluge mogu biti otkazane za vrijeme oluja.",
+              "Nosite vodonepropusnu odjeću za šetnje između stanica.",
+              "Autobusi su često grijani zimi i za vrijeme kiše.",
+              "Imajte sitninu ili karticu spremnu za kartu."
             ]
           }
         },
@@ -2338,7 +2379,7 @@
             "hu": "A tömegközlekedés a téli Porečben nyugodt és megbízható. Délelőtt a buszpályaudvarról indulva élvezzük a rövid sétát a szélvédett óvárosba.\n\nDélben a Decumanus utcát fedezzük fel a nyári tolongás nélkül. Mivel a turistavonat télen gyakran szünetel, a délutánt a bazilika és a galériák látogatására szánjuk.",
             "ro": "Transportul public în Poreč iarna este liniștit și de încredere. Dimineața porniți de la autogară și vă bucurați de plimbarea scurtă spre orașul vechi ferit de vânt.\n\nLa prânz explorați strada Decumanus fără aglomerația de vară. Deoarece trenulețul turistic este adesea oprit iarna, folosiți după-amiaza pentru vizite la basilică.",
             "en": "Public transport in winter Poreč is quiet and reliable. In the morning, start at the bus station and enjoy the short walk into the wind-sheltered old town.\n\nAt noon, explore Decumanus Street without the summer crowds. Since the tourist train often pauses in winter, use the afternoon for extensive visits to the Basilica and galleries.",
-            "hr": "Javni prijevoz u zimskom Poreču je miran i pouzdan. Ujutro krenite s autobusnog kolodvora i uživajte u kratkoj šetnji do starog grada zaštićenog od vjetra.\n\nU podne istražite Dekumanovu ulicu bez ljetnih gužvi. Budući da turistički vlakić zimi često miruje, poslijepodne iskoristite za opsežan posjet bazilici i galerijama."
+            "hr": "Javni prijevoz u zimskom Poreču je miran i pouzdan. Ujutro započnite na autobusnom kolodvoru i uživajte u kratkoj šetnji u staru grad zaštićenu od vjetra.\n\nU podne istražite Decumanus bez ljetnih gužvi. Budući da turistički vlak često ne vozi zimi, iskoristite poslijepodne za opsežne posjete Bazilici i galerijama."
           },
           "stops": [
             {
@@ -2348,7 +2389,7 @@
                 "hu": "Központi csomópont, ahonnan gyorsan meleg helyre érhetünk.",
                 "ro": "Punct central pentru a ajunge rapid la căldură.",
                 "en": "Central hub to get into the warmth quickly.",
-                "hr": "Središnje čvorište za brzi ulazak na toplo."
+                "hr": "Središnje čvorište za brzo ulazak u toplinu."
               }
             },
             {
@@ -2368,7 +2409,7 @@
                 "hu": "Ellenőrizze előre, hogy a vonat közlekedik-e egyáltalán télen.",
                 "ro": "Verificați din timp dacă trenulețul circula iarna.",
                 "en": "Check in advance if the train runs at all in winter.",
-                "hr": "Unaprijed provjerite vozi li vlakić uopće zimi."
+                "hr": "Provjerite unaprijed vozi li vlak uopće zimi."
               }
             }
           ],
@@ -2398,10 +2439,10 @@
               "Tickets can usually be bought directly from the driver."
             ],
             "hr": [
-              "Zimi vrijede reducirani vozni redovi; predvidite dodatno vrijeme.",
-              "Skloništa pružaju zaštitu od hladne bure.",
-              "Koristite regionalne autobusne linije za izlete u okolicu.",
-              "Karte se obično mogu kupiti izravno kod vozača."
+              "Primjenjuju se smanjeni rasporedi zimi; računajte na dodatno vrijeme.",
+              "Skloništa pružaju zaštitu od hladnog borskog vjetra.",
+              "Koristite regionalne autobusne veze za izlete u okolicu.",
+              "Karte se obično mogu kupiti direktno od vozača."
             ]
           }
         }
@@ -2429,19 +2470,22 @@
       "de": "Amtssprache ist Kroatisch; in Poreč spricht das Tourismuspersonal meist gut Deutsch und Italienisch (zweisprachige istrische Region), Englisch ebenfalls verbreitet.",
       "hu": "A hivatalos nyelv a horvát; Porečben a turisztikai dolgozók többsége jól beszél olaszul és németül (kétnyelvű isztriai régió), az angol is gyakori.",
       "ro": "Limba oficială este croata; în Poreč personalul turistic vorbește bine italiana și germana (regiune bilingvă Istria), engleza este de asemenea răspândită.",
-      "en": "Official language is Croatian; in Poreč tourism staff commonly speak Italian and German fluently (bilingual Istrian region), English is widespread."
+      "en": "Official language is Croatian; in Poreč tourism staff commonly speak Italian and German fluently (bilingual Istrian region), English is widespread.",
+      "hr": "Službeni jezik je hrvatski; u Poreču osoblje u turizmu često govori talijanski i njemački te je engleski raširen."
     },
     "best_time_to_visit": {
       "de": "Mai bis Juni und September für angenehmes Wetter ohne Hochsaison-Andrang; Juli/August sehr voll und heiß.",
       "hu": "Május-június és szeptember a legjobb a kellemes idő miatt, csúcsszezon nélkül; július-augusztus zsúfolt és forró.",
       "ro": "Mai-iunie și septembrie pentru vreme plăcută fără aglomerația de vârf; iulie/august foarte aglomerat și călduros.",
-      "en": "May-June and September for pleasant weather without peak crowds; July-August very crowded and hot."
+      "en": "May-June and September for pleasant weather without peak crowds; July-August very crowded and hot.",
+      "hr": "Svibanj-lipanj i rujan za ugodno vrijeme bez vrhunca gužvi; srpanj-kolovoz vrlo su gužvoviti i vrući."
     },
     "neighborhood_warnings": {
       "de": "Altstadt sicher; in der Hochsaison auf Taschendiebe an der Riva und auf engen Gassen achten. Parken in der Altstadt verboten, externe Parkhäuser nutzen.",
       "hu": "Az óváros biztonságos; főszezonban figyelj a zsebtolvajokra a parton és a szűk utcákon. Az óvárosban tilos parkolni, használj külső parkolóházat.",
       "ro": "Centrul vechi este sigur; în sezon de vârf atenție la buzunărași pe faleză și pe străduțele înguste. Parcarea în centrul vechi este interzisă, folosiți parcările exterioare.",
-      "en": "Old town is safe; in peak season watch for pickpockets on the waterfront and narrow lanes. Parking in old town is prohibited, use perimeter garages."
+      "en": "Old town is safe; in peak season watch for pickpockets on the waterfront and narrow lanes. Parking in old town is prohibited, use perimeter garages.",
+      "hr": "Stari grad je siguran; u vrhuncu sezone pazite na džeparoše na rivi i uskim uličicama. Parkiranje u starom gradu je zabranjeno, koristite perifernе garaže."
     }
   }
 }

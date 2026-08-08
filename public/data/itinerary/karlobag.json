@@ -21,7 +21,8 @@
             "de": "Kapuzinerkloster St. Joseph",
             "hu": "Szent József Kapucinus Kolostor",
             "ro": "Mănăstirea Capucinilor Sf. Iosif",
-            "en": "Capuchin Monastery of St. Joseph"
+            "en": "Capuchin Monastery of St. Joseph",
+            "hr": "Kapucinski samostan sv. Josipa"
           },
           "coords": [
             15.0805,
@@ -36,14 +37,15 @@
             "de": "Besuchen Sie die wertvolle Bibliothek des Klosters.",
             "hu": "Látogassa meg a kolostor értékes könyvtárát.",
             "ro": "Vizitați biblioteca valoroasă a mănăstirii.",
-            "en": "Visit the monastery's valuable library."
+            "en": "Visit the monastery's valuable library.",
+            "hr": "Posjetite vrijednu knjižnicu samostana."
           },
           "tip_5lang": {
             "de": "Im Klostergarten wächst eine der ältesten Olivenbäume der Region.",
             "hu": "A kolostor kertjében áll a régió egyik legidősebb olajfája.",
             "ro": "În grădina mănăstirii se află unul dintre cei mai bătrâni măslini din regiune.",
             "en": "The monastery garden holds one of the oldest olive trees in the region.",
-            "hr": "Samostanski vrt čuva jednu od najstarijih maslina u regiji."
+            "hr": "Samostanski vrt čuva jedan od najstarijih maslinovih stabala u regiji."
           }
         },
         {
@@ -51,7 +53,8 @@
             "de": "Kirche St. Karl Borromäus",
             "hu": "Borromeo Szent Károly-templom",
             "ro": "Biserica Sf. Carol Borromeo",
-            "en": "Church of St. Charles Borromeo"
+            "en": "Church of St. Charles Borromeo",
+            "hr": "Crkva sv. Karla Boromejskog"
           },
           "coords": [
             15.0812,
@@ -66,7 +69,8 @@
             "de": "Bewundern Sie die barocke Architektur im Zentrum.",
             "hu": "Csodálja meg a barokk építészetet a központban.",
             "ro": "Admirați arhitectura barocă din centru.",
-            "en": "Admire the Baroque architecture in the center."
+            "en": "Admire the Baroque architecture in the center.",
+            "hr": "Divite se baroknoj arhitekturi u centru."
           },
           "tip_5lang": {
             "de": "Achten Sie auf den barocken Hauptaltar mit dem vergoldeten Tabernakel.",
@@ -81,7 +85,8 @@
             "de": "Festung Gradina",
             "hu": "Gradina erőd",
             "ro": "Cetatea Gradina",
-            "en": "Gradina Fortress"
+            "en": "Gradina Fortress",
+            "hr": "Tvrđava Gradina"
           },
           "coords": [
             15.082,
@@ -96,14 +101,15 @@
             "de": "Der Aufstieg lohnt sich für den Blick auf Pag.",
             "hu": "A kilátás Pag szigetére megéri a mászást.",
             "ro": "Urcarea merită pentru vederea spre insula Pag.",
-            "en": "The climb is worth it for the view of Pag."
+            "en": "The climb is worth it for the view of Pag.",
+            "hr": "Uspon se isplati zbog pogleda na Pag."
           },
           "tip_5lang": {
             "de": "Der Pfad ist steil und schattenlos — gehen Sie früh morgens oder am Abend.",
             "hu": "Az ösvény meredek és árnyéktalan, kora reggel vagy este érdemes felmenni.",
             "ro": "Cărarea este abruptă și fără umbră, urcați dimineața devreme sau seara.",
             "en": "The path is steep and shadeless — go early morning or in the evening.",
-            "hr": "Staza je strma i bez hlada — krenite rano ujutro ili navečer."
+            "hr": "Put je strm i bez hlada — idite rano ujutro ili navečer."
           }
         },
         {
@@ -111,7 +117,8 @@
             "de": "Mediterraner Garten Kava",
             "hu": "Kava mediterrán kert",
             "ro": "Grădina mediteraneană Kava",
-            "en": "Kava Mediterranean Garden"
+            "en": "Kava Mediterranean Garden",
+            "hr": "Kava mediteranski vrt"
           },
           "coords": [
             15.079,
@@ -126,14 +133,15 @@
             "de": "Ein ruhiger Ort mit duftenden Kräutern.",
             "hu": "Csendes hely illatos gyógynövényekkel.",
             "ro": "Un loc liniștit cu ierburi aromate.",
-            "en": "A quiet spot with fragrant herbs."
+            "en": "A quiet spot with fragrant herbs.",
+            "hr": "Tih kutak s mirisnim biljem."
           },
           "tip_5lang": {
             "de": "Über 250 Pflanzenarten sind beschildert — eine gute Lektion in Mittelmeerflora.",
             "hu": "Több mint 250 növényfaj táblázott, kiváló lecke a mediterrán flórából.",
             "ro": "Peste 250 de specii de plante sunt etichetate, o lecție bună de floră mediteraneană.",
             "en": "Over 250 plant species are labelled — a great lesson in Mediterranean flora.",
-            "hr": "Označeno je više od 250 biljnih vrsta — izvrsna lekcija o mediteranskoj flori."
+            "hr": "Više od 250 biljnih vrsta je označeno — izvrstan lekcija o mediteranskoj flori."
           }
         },
         {
@@ -141,7 +149,8 @@
             "de": "Stadtstrand Karlobag",
             "hu": "Karlobag városi strand",
             "ro": "Plaja orașului Karlobag",
-            "en": "Karlobag City Beach"
+            "en": "Karlobag City Beach",
+            "hr": "Gradska plaža Karlobag"
           },
           "coords": [
             15.078,
@@ -156,14 +165,15 @@
             "de": "Perfekt für eine Erfrischung im klaren Meer.",
             "hu": "Tökéletes felfrissülés a tiszta tengerben.",
             "ro": "Perfect pentru o revigorare în marea limpede.",
-            "en": "Perfect for a refresh in the clear sea."
+            "en": "Perfect for a refresh in the clear sea.",
+            "hr": "Savršeno za osvježenje u bistroj moru."
           },
           "tip_5lang": {
             "de": "Die Bora kann den Strand bei Sturm unzugänglich machen — prüfen Sie die Wettermeldung.",
             "hu": "A bóra viharos időben elérhetetlenné teheti a strandot, nézze meg az időjárást.",
             "ro": "Vântul Bora poate face plaja inaccesibilă pe furtună, verificați prognoza.",
             "en": "Strong bora wind can shut the beach down — check the forecast before heading over.",
-            "hr": "Jaka bura može zatvoriti plažu — provjerite prognozu prije polaska."
+            "hr": "Snažan vjetar bura može zatvoriti plažu — provjerite prognozu prije polaska."
           }
         },
         {
@@ -171,7 +181,8 @@
             "de": "Uferpromenade",
             "hu": "Tengerparti sétány",
             "ro": "Faleza",
-            "en": "Waterfront Promenade"
+            "en": "Waterfront Promenade",
+            "hr": "Riva"
           },
           "coords": [
             15.08,
@@ -186,7 +197,8 @@
             "de": "Genießen Sie den Sonnenuntergang am Hafen.",
             "hu": "Élvezze a naplementét a kikötőben.",
             "ro": "Bucurați-vă de apusul de soare în port.",
-            "en": "Enjoy the sunset at the harbor."
+            "en": "Enjoy the sunset at the harbor.",
+            "hr": "Uživajte u zalasku sunca u luci."
           },
           "tip_5lang": {
             "de": "Die Konobas am westlichen Promenadenende servieren den frischesten Fisch.",
@@ -202,7 +214,7 @@
         "hu": "Kezdje a reggelt a történelmi kapucinus kolostorban, ahol a könyvtár csendje visszarepíti az elmúlt évszázadokba. Ezután sétáljon el a település szívében található barokk Borromeo Szent Károly-templomhoz.\n\nDélben másszon fel a Gradina erőd romjaihoz. Innen lenyűgöző panoráma nyílik a Velebit-csatornára és a szemközti Pag-szigetre. A leereszkedés után frissüljön fel a kikötő egyik helyi vendéglőjében.\n\nA délután a kikapcsolódásé a Kava mediterrán kertben, majd következhet egy hosszú fürdőzés a városi strandon. A régió kristálytiszta vize híres tisztaságáról a föld alatti édesvízforrásoknak köszönhetően.\n\nA napot zárja egy kellemes sétával a tengerparti sétányon. Figyelje a halászhajókat, és élvezze a Velebit-hegység felől fújó hűvös szellőt.",
         "ro": "Începeți dimineața la mănăstirea istorică a capucinilor, unde liniștea bibliotecii vă transpune în secolele trecute. Apoi mergeți la biserica barocă Sf. Carol Borromeo din inima localității.\n\nLa prânz, urcați la ruinele cetății Gradina. De aici se deschide o panoramă impresionantă peste canalul Velebit până la insula Pag de vizavi. După coborâre, relaxați-vă la una dintre tavernele locale din port.\n\nDupă-amiaza este dedicată relaxării în grădina mediteraneană Kava, urmată de o baie prelungită pe plaja orașului. Apa cristalina a acestei regiuni este cunoscută pentru puritatea sa datorită izvoarelor subterane de apă dulce.\n\nÎncheiați ziua cu o plimbare plăcută pe faleză. Observați bărcile de pescuit și bucurați-vă de briza răcoroasă care coboară din munții Velebit.",
         "en": "Start your morning at the historic Capuchin monastery, where the silence of the library takes you back through the centuries. Then walk to the Baroque Church of St. Charles Borromeo in the heart of the village.\n\nAt noon, climb the ruins of the Gradina fortress. From up here, you have an impressive panorama across the Velebit Channel to the island of Pag opposite. After the descent, recharge at one of the local inns at the harbor.\n\nThe afternoon belongs to relaxation in the Kava Mediterranean Garden, followed by an extensive swim at the city beach. The crystal-clear water of this region is famous for its purity due to underground freshwater springs.\n\nEnd the day with a pleasant stroll along the waterfront promenade. Watch the fishing boats and enjoy the cool breeze blowing down from the Velebit mountains.",
-        "hr": "Započnite jutro u povijesnom kapucinskom samostanu, gdje vas tišina knjižnice vraća stoljećima unatrag. Zatim prošećite do barokne crkve sv. Karla Boromejskog u samom srcu mjesta.\n\nU podne se popnite na ostatke tvrđave Gradina. Odozgo se pruža impresivna panorama preko Velebitskog kanala na otok Pag. Nakon silaska, napunite baterije u jednoj od lokalnih konoba u luci.\n\nPoslijepodne je rezervirano za opuštanje u mediteranskom vrtu Kava, nakon čega slijedi duže kupanje na gradskoj plaži. Kristalno čisto more ove regije poznato je po svojoj čistoći zbog podzemnih izvora slatke vode.\n\nZavršite dan ugodnom šetnjom rivom. Promatrajte ribarske brodice i uživajte u hladnom povjetarcu koji puše s planine Velebit."
+        "hr": "Jutro započnite u povijesnom Kapucinskom samostanu, gdje vas tišina knjižnice vraća kroz stoljeća. Zatim prošetajte do barokne Crkve sv. Karla Boromejskog u srcu sela.\n\nU podne se popnite na ruševine tvrđave Gradina. Ovdje imate impresivnu panoramu preko Velebitskog kanala do otoka Paga nasuprot. Nakon silaska, napunite energiju u jednoj od lokalnih konoba na rivi.\n\nPoslijepodne pripada opuštanju u Kava mediteranskom vrtu, nakon čega slijedi opsežno kupanje na gradskoj plaži. Kristalno čista voda ovog kraja poznata je po svojoj čistoći zahvaljujući podzemnim izvorima slatke vode.\n\nDan završite ugodnom šetnjom rivom. Gledajte ribarske brodove i uživajte u hladnom povjetarcu koji dolazi s Velebita."
       },
       "gastro_picks": {
         "de": [
@@ -376,10 +388,10 @@
           "Park at the main harbor."
         ],
         "hr": [
-          "Nosite čvrstu obuću za uspon na Gradinu.",
-          "Karlobag je manje napučen od ostalih obalnih gradova.",
+          "Nosite čvrstu obuću za put do Gradine.",
+          "Karlobag je manje pretrpan od drugih obalnih gradova.",
           "Temperatura vode ovdje je često nešto niža.",
-          "Parkirajte u glavnoj luci."
+          "Parkirajte na glavnoj rivi."
         ]
       },
       "variants": {
@@ -388,7 +400,8 @@
             "de": "Beginnen Sie Ihren Morgen im historischen Kapuzinerkloster, wo die Stille der Bibliothek Sie in vergangene Jahrhunderte versetzt. Danach spazieren Sie zur barocken Kirche St. Karl Borromäus im Herzen des Ortes.\n\nMittags erklimmen Sie die Ruinen der Festung Gradina. Von hier oben bietet sich ein beeindruckendes Panorama über den Velebit-Kanal bis hin zur gegenüberliegenden Insel Pag. Nach dem Abstieg stärken Sie sich in einem der lokalen Gasthäuser am Hafen.\n\nDer Nachmittag gehört der Entspannung im mediterranen Garten Kava, gefolgt von einem ausgiebigen Bad am Stadtstrand. Das kristallklare Wasser dieser Region ist bekannt für seine Reinheit durch die unterirdischen Süßwasserquellen.\n\nLassen Sie den Tag bei einem gemütlichen Spaziergang entlang der Uferpromenade ausklingen. Beobachten Sie die Fischerboote und genießen Sie die kühle Brise, die vom Velebit-Gebirge herabweht.",
             "hu": "Kezdje a reggelt a történelmi kapucinus kolostorban, ahol a könyvtár csendje visszarepíti az elmúlt évszázadokba. Ezután sétáljon el a település szívében található barokk Borromeo Szent Károly-templomhoz.\n\nDélben másszon fel a Gradina erőd romjaihoz. Innen lenyűgöző panoráma nyílik a Velebit-csatornára és a szemközti Pag-szigetre. A leereszkedés után frissüljön fel a kikötő egyik helyi vendéglőjében.\n\nA délután a kikapcsolódásé a Kava mediterrán kertben, majd következhet egy hosszú fürdőzés a városi strandon. A régió kristálytiszta vize híres tisztaságáról a föld alatti édesvízforrásoknak köszönhetően.\n\nA napot zárja egy kellemes sétával a tengerparti sétányon. Figyelje a halászhajókat, és élvezze a Velebit-hegység felől fújó hűvös szellőt.",
             "ro": "Începeți dimineața la mănăstirea istorică a capucinilor, unde liniștea bibliotecii vă transpune în secolele trecute. Apoi mergeți la biserica barocă Sf. Carol Borromeo din inima localității.\n\nLa prânz, urcați la ruinele cetății Gradina. De aici se deschide o panoramă impresionantă peste canalul Velebit până la insula Pag de vizavi. După coborâre, relaxați-vă la una dintre tavernele locale din port.\n\nDupă-amiaza este dedicată relaxării în grădina mediteraneană Kava, urmată de o baie prelungită pe plaja orașului. Apa cristalina a acestei regiuni este cunoscută pentru puritatea sa datorită izvoarelor subterane de apă dulce.\n\nÎncheiați ziua cu o plimbare plăcută pe faleză. Observați bărcile de pescuit și bucurați-vă de briza răcoroasă care coboară din munții Velebit.",
-            "en": "Start your morning at the historic Capuchin monastery, where the silence of the library takes you back through the centuries. Then walk to the Baroque Church of St. Charles Borromeo in the heart of the village.\n\nAt noon, climb the ruins of the Gradina fortress. From up here, you have an impressive panorama across the Velebit Channel to the island of Pag opposite. After the descent, recharge at one of the local inns at the harbor.\n\nThe afternoon belongs to relaxation in the Kava Mediterranean Garden, followed by an extensive swim at the city beach. The crystal-clear water of this region is famous for its purity due to underground freshwater springs.\n\nEnd the day with a pleasant stroll along the waterfront promenade. Watch the fishing boats and enjoy the cool breeze blowing down from the Velebit mountains."
+            "en": "Start your morning at the historic Capuchin monastery, where the silence of the library takes you back through the centuries. Then walk to the Baroque Church of St. Charles Borromeo in the heart of the village.\n\nAt noon, climb the ruins of the Gradina fortress. From up here, you have an impressive panorama across the Velebit Channel to the island of Pag opposite. After the descent, recharge at one of the local inns at the harbor.\n\nThe afternoon belongs to relaxation in the Kava Mediterranean Garden, followed by an extensive swim at the city beach. The crystal-clear water of this region is famous for its purity due to underground freshwater springs.\n\nEnd the day with a pleasant stroll along the waterfront promenade. Watch the fishing boats and enjoy the cool breeze blowing down from the Velebit mountains.",
+            "hr": "Jutro započnite u povijesnom Kapucinskom samostanu, gdje vas tišina knjižnice vraća kroz stoljeća. Zatim prošetajte do barokne Crkve sv. Karla Boromejskog u srcu sela.\n\nU podne se popnite na ruševine tvrđave Gradina. Ovdje imate impresivnu panoramu preko Velebitskog kanala do otoka Paga nasuprot. Nakon silaska, napunite energiju u jednoj od lokalnih konoba na rivi.\n\nPoslijepodne pripada opuštanju u Kava mediteranskom vrtu, nakon čega slijedi opsežno kupanje na gradskoj plaži. Kristalno čista voda ovog kraja poznata je po svojoj čistoći zahvaljujući podzemnim izvorima slatke vode.\n\nDan završite ugodnom šetnjom rivom. Gledajte ribarske brodove i uživajte u hladnom povjetarcu koji dolazi s Velebita."
           },
           "stops": [
             {
@@ -396,7 +409,8 @@
                 "de": "Kapuzinerkloster St. Joseph",
                 "hu": "Szent József Kapucinus Kolostor",
                 "ro": "Mănăstirea Capucinilor Sf. Iosif",
-                "en": "Capuchin Monastery of St. Joseph"
+                "en": "Capuchin Monastery of St. Joseph",
+                "hr": "Kapucinski samostan sv. Josipa"
               },
               "tip_5lang": null
             },
@@ -405,7 +419,8 @@
                 "de": "Kirche St. Karl Borromäus",
                 "hu": "Borromeo Szent Károly-templom",
                 "ro": "Biserica Sf. Carol Borromeo",
-                "en": "Church of St. Charles Borromeo"
+                "en": "Church of St. Charles Borromeo",
+                "hr": "Crkva sv. Karla Boromejskog"
               },
               "tip_5lang": null
             },
@@ -414,7 +429,8 @@
                 "de": "Festung Gradina",
                 "hu": "Gradina erőd",
                 "ro": "Cetatea Gradina",
-                "en": "Gradina Fortress"
+                "en": "Gradina Fortress",
+                "hr": "Tvrđava Gradina"
               },
               "tip_5lang": null
             },
@@ -423,7 +439,8 @@
                 "de": "Mediterraner Garten Kava",
                 "hu": "Kava mediterrán kert",
                 "ro": "Grădina mediteraneană Kava",
-                "en": "Kava Mediterranean Garden"
+                "en": "Kava Mediterranean Garden",
+                "hr": "Kava mediteranski vrt"
               },
               "tip_5lang": null
             },
@@ -432,7 +449,8 @@
                 "de": "Stadtstrand Karlobag",
                 "hu": "Karlobag városi strand",
                 "ro": "Plaja orașului Karlobag",
-                "en": "Karlobag City Beach"
+                "en": "Karlobag City Beach",
+                "hr": "Gradska plaža Karlobag"
               },
               "tip_5lang": null
             },
@@ -441,7 +459,8 @@
                 "de": "Uferpromenade",
                 "hu": "Tengerparti sétány",
                 "ro": "Faleza",
-                "en": "Waterfront Promenade"
+                "en": "Waterfront Promenade",
+                "hr": "Riva"
               },
               "tip_5lang": null
             }
@@ -588,6 +607,12 @@
               "Karlobag is less crowded than other coastal towns.",
               "The water temperature here is often slightly cooler.",
               "Park at the main harbor."
+            ],
+            "hr": [
+              "Nosite čvrstu obuću za put do Gradine.",
+              "Karlobag je manje pretrpan od drugih obalnih gradova.",
+              "Temperatura vode ovdje je često nešto niža.",
+              "Parkirajte na glavnoj rivi."
             ]
           }
         },
@@ -597,7 +622,7 @@
             "hu": "A délelőttöt a kapucinus kolostor falai között töltjük, menedéket találva az eső elől a csendben. Délben a Szent Károly Borromeo templom felé vesszük az irányt, az ódon kövek fényesen csillognak a csapadéktól.\nDélután a Gradina erőd romjai között sétálunk, melyek ködbe burkolózva különleges látványt nyújtanak. Az este a tengerparti sétányon ér minket, ahol a viharos Adria morajlása kíséri lépteinket.",
             "ro": "Dimineața în mănăstirea capucinilor oferă un adăpost liniștit împotriva ploii, într-o atmosferă sacră. La prânz, drumul duce spre Biserica Sf. Carol Borromeo, unde pietrele umede ale centrului vechi strălucesc sub cerul cenușiu.\nDupă-amiaza explorăm cetatea Gradina, care pare desprinsă din legende atunci când este învăluită în ceață. Seara se încheie pe faleză, admirând forța mării sub picăturile de ploaie.",
             "en": "The morning starts in the sanctuary of the Capuchin monastery, a perfect dry refuge. By noon, we visit the Church of St. Charles Borromeo, as the rain adds a melancholic shine to the old town's stone walls.\nIn the afternoon, the Gradina fortress ruins look mystical through the mist. The evening walk along the waterfront promenade offers a dramatic view of the choppy, rain-swept Adriatic Sea.",
-            "hr": "Jutro počinje u utočištu kapucinskog samostana, savršenom suhom zaklonu. Do podneva posjećujemo crkvu sv. Karla Boromejskog, dok kiša starim kamenim zidovima daje melankoličan sjaj.\nPoslijepodne ruševine tvrđave Gradina kroz maglu izgledaju mistično. Večernja šetnja rivom nudi dramatičan pogled na uzburkano Jadransko more oprano kišom."
+            "hr": "Jutro započinje u svetištu Kapucinskog samostana, savršenom suhom utočištu. U podne posjećujemo Crkvu sv. Karla Boromejskog, dok kiša dodaje melankoličan sjaj starim kamenim zidovima starog grada.\nPoslijepodne ruševine tvrđave Gradina izgledaju mistično kroz maglu. Večernja šetnja rivom nudi dramatičan pogled na valovito, kišom oprano Jadransko more."
           },
           "stops": [
             {
@@ -607,7 +632,7 @@
                 "hu": "Kiváló fedett helyszín, érdemes megtekinteni a régi könyvtárat.",
                 "ro": "Loc perfect pentru a rămâne la adăpost și a vizita biblioteca veche.",
                 "en": "Excellent indoor spot to stay dry while exploring the historic library.",
-                "hr": "Izvrsno zatvoreno mjesto za boravak na suhom uz istraživanje povijesne knjižnice."
+                "hr": "Izvrsno zatvoreno mjesto za ostati suhim i istražiti povijesnu knjižnicu."
               }
             },
             {
@@ -617,7 +642,7 @@
                 "hu": "Az eső kopogása a tetőn különleges, nyugodt atmoszférát teremt.",
                 "ro": "Sunetul ploii pe acoperiș creează o atmosferă foarte liniștită interior.",
                 "en": "The sound of rain on the roof creates a very peaceful indoor atmosphere.",
-                "hr": "Zvuk kiše na krovu stvara vrlo mirnu atmosferu u unutrašnjosti."
+                "hr": "Zvuk kiše po krovu stvara vrlo mirnu zatvorenu atmosferu."
               }
             },
             {
@@ -627,7 +652,7 @@
                 "hu": "Vigyázat a kőlépcsőkön, esőben rendkívül csúszóssá válnak.",
                 "ro": "Atenție pe treptele de piatră, devin extrem de alunecoase pe ploaie.",
                 "en": "Be careful on the stone steps, as they become extremely slippery when wet.",
-                "hr": "Budite oprezni na kamenim stepenicama jer postaju izuzetno skliske kad su mokre."
+                "hr": "Pazite na kamene stepenice, jer postaju iznimno klizave kad su mokre."
               }
             },
             {
@@ -637,7 +662,7 @@
                 "hu": "Az esőben a gyógynövények illata intenzívebb; viseljen zárt cipőt.",
                 "ro": "Mirosul plantelor este mai intens pe ploaie; purtați încălțăminte închisă.",
                 "en": "The scent of herbs is more intense in the rain; wear waterproof shoes.",
-                "hr": "Miris bilja je intenzivniji na kiši; nosite nepromočivu obuću."
+                "hr": "Miris biljaka intenzivniji je po kiši; nosite vodootpornu obuću."
               }
             },
             {
@@ -647,7 +672,7 @@
                 "hu": "A felkorbácsolt tenger látványa egy fedett kávézó teraszáról a legjobb.",
                 "ro": "Admirați marea agitată de la adăpostul unei cafenele de pe mal.",
                 "en": "Enjoy the view of the rough sea from the shelter of a seaside cafe.",
-                "hr": "Uživajte u pogledu na nemirno more iz zaklona obalnog kafića."
+                "hr": "Uživajte u pogledu na razburkano more iz zaklona primorskog kafića."
               }
             },
             {
@@ -657,7 +682,7 @@
                 "hu": "A tengeri szél miatt egy erős, strapabíró esernyő elengedhetetlen.",
                 "ro": "O umbrelă rezistentă este necesară din cauza vântului de pe mare.",
                 "en": "A sturdy umbrella is essential due to the winds coming off the sea.",
-                "hr": "Čvrst kišobran je neophodan zbog vjetrova koji dolaze s mora."
+                "hr": "Čvrst kišobran je nužan zbog vjetrova koji dolaze s mora."
               }
             }
           ],
@@ -687,10 +712,10 @@
               "Check the wind forecast, as rain in Karlobag is often accompanied by gales."
             ],
             "hr": [
-              "Nosite nepromočive cipele za skliske kamene ulice.",
-              "Jako jugo može slomiti kišobrane; kabanica je bolji izbor.",
+              "Nosite vodootporne planinarske čizme zbog klizavih kamenih ulica.",
+              "Snažni jugo može polomiti kišobrane; kabanica je bolji izbor.",
               "Koristite crkve i muzeje kao taktička suha mjesta za odmor tijekom šetnje.",
-              "Provjerite prognozu vjetra, jer kišu u Karlobagu često prate olujni udari."
+              "Provjerite prognozu vjetra, jer kiša u Karlobagu često dolazi uz olujne vjetrove."
             ]
           }
         },
@@ -700,7 +725,7 @@
             "hu": "A téli reggel tiszta és fagyos, a kolostor csendje ilyenkor még ünnepélyesebb. Délben a barokk templom belső tere nyújt némi enyhülést a hideg elől, miközben a nap alacsonyan jár.\nDélután az erődből csodálatos kilátás nyílik a Velebit havas csúcsaira és a szemközti Pag szigetére. Az este korán érkezik, a sétány fényei barátságosan világítanak a jeges Bóra szélben.",
             "ro": "Dimineața de iarnă este clară și rece, ideală pentru a vizita liniștea mănăstirii. La prânz ne încălzim în biserica barocă, admirând soarele de iarnă reflectat în mare.\nDupă-amiaza, cetatea oferă o panoramă superbă asupra vârfurilor înzăpezite ale masivului Velebit. Seara coboară rapid, iar luminile falezei par foarte primitoare împotriva vântului tăios.",
             "en": "The winter morning is crisp and cold, making the monastery's silence feel sacred. By noon, the baroque church offers a warm respite while the low winter sun glints off the sea.\nIn the afternoon, the fortress provides stunning views of the snow-capped Velebit peaks. As darkness falls early, the promenade lights glow warmly against the chill of the Bura wind.",
-            "hr": "Zimsko jutro je svježe i hladno, zbog čega se tišina samostana čini svetom. Do podneva barokna crkva nudi topao predah dok se nisko zimsko sunce ljeska na moru.\nPoslijepodne tvrđava pruža zadivljujući pogled na snijegom prekrivene vrhove Velebita. Kako mrak rano pada, svjetla na rivi toplo svijetle usprkos hladnoći bure."
+            "hr": "Zimsko jutro je svježe i hladno, što tišinu samostana čini svečanom. U podne barokna crkva pruža topao predah dok nisko zimsko sunce blješti po moru.\nPoslijepodne tvrđava pruža zadivljujuće poglede na snijegom pokrivene vrhove Velebita. Kako se mrak ranije spušta, svjetla na rivi toplo svijetle protiv hladnoće bure."
           },
           "stops": [
             {
@@ -710,7 +735,7 @@
                 "hu": "A vastag falak között jóval melegebb van, mint a téli szélben.",
                 "ro": "Interiorul este mult mai cald decât afară, în briza de iarnă.",
                 "en": "The interior is significantly warmer than being outside in the winter breeze.",
-                "hr": "Unutrašnjost je znatno toplija od boravka vani na zimskom povjetarcu."
+                "hr": "Unutrašnjost je znatno toplija nego vani na zimskom povjetarcu."
               }
             },
             {
@@ -720,7 +745,7 @@
                 "hu": "Kiváló hely egy csendes pihenőre a nyugodt holtszezonban.",
                 "ro": "Un loc frumos pentru o pauză de reflecție în extrasezonul liniștit.",
                 "en": "A beautiful spot for a quiet break during the peaceful off-season.",
-                "hr": "Prekrasno mjesto za miran predah tijekom tihe izvansezone."
+                "hr": "Prekrasno mjesto za mirnu pauzu tijekom tihe sezone."
               }
             },
             {
@@ -730,7 +755,7 @@
                 "hu": "Húzzon meleg kesztyűt, a falak tetején a szél metszően hideg lehet.",
                 "ro": "Purtați mănuși groase, vântul este tăios sus pe zidurile cetății.",
                 "en": "Wear warm gloves as the wind can be biting up on the fortress walls.",
-                "hr": "Nosite tople rukavice jer vjetar može biti oštar na zidinama tvrđave."
+                "hr": "Nosite tople rukavice jer vjetar može oštro rezati na zidinama tvrđave."
               }
             },
             {
@@ -740,7 +765,7 @@
                 "hu": "Az örökzöldeken gyakran látni zúzmarát télen; kiváló fotótéma.",
                 "ro": "Unele plante verzi au brumă iarna; un subiect excelent pentru fotografii.",
                 "en": "Evergreen plants often carry frost in winter; great for photography.",
-                "hr": "Zimzelene biljke zimi često nose mraz; izvrsno za fotografiranje."
+                "hr": "Zimzelene biljke često nose mraz zimi; izvrsno za fotografiranje."
               }
             },
             {
@@ -750,7 +775,7 @@
                 "hu": "Élvezze a friss téli levegőt, de ne maradjon túl sokáig egy helyben.",
                 "ro": "Bucurați-vă de aerul curat, dar nu staționați prea mult timp pe mal.",
                 "en": "Enjoy the crisp winter air, but don't stay stationary for too long.",
-                "hr": "Uživajte u svježem zimskom zraku, ali nemojte predugo stajati na mjestu."
+                "hr": "Uživajte u oštrom zimskom zraku, ali nemojte predugo ostajati nepomični."
               }
             },
             {
@@ -760,7 +785,7 @@
                 "hu": "A naplemente télen már 16:30 körül bekövetkezik; tervezzen előre.",
                 "ro": "Apusul este în jur de ora 16:30 iarna; planificați-vă timpul cu grijă.",
                 "en": "Sunset is around 16:30 in winter; make sure to plan your walk accordingly.",
-                "hr": "Zalazak sunca je zimi oko 16:30; planirajte svoju šetnju u skladu s tim."
+                "hr": "Zalazak sunca je oko 16:30 zimi; planirajte šetnju u skladu s tim."
               }
             }
           ],
@@ -790,10 +815,10 @@
               "Wear a windproof jacket, as the wind chill factor makes it feel much colder."
             ],
             "hr": [
-              "Odjenite se slojevito kako biste se zaštitili od prodorne bure.",
-              "Mnogi kafići su zatvoreni zimi; potražite otvorene objekte u centru.",
-              "Sunce rano nestaje iza planina, što uzrokuje brzi pad temperature.",
-              "Nosite jaknu nepropusnu za vjetar jer zbog vjetra subjektivni osjećaj hladnoće može biti puno veći."
+              "Obucite se u slojevima kako biste se zaštitili od probadajućeg bure.",
+              "Mnogi kafići su zimi zatvoreni; potražite otvorene lokale u centru.",
+              "Sunce rano nestaje iza planina, zbog čega temperature brzo padaju.",
+              "Nosite vjetrootpornu jaknu, jer osjećaj hladnoće zbog vjetra čini da je puno hladnije."
             ]
           }
         }
@@ -812,7 +837,8 @@
             "de": "Kapuzinerkloster St. Joseph",
             "hu": "Szent József Kapucinus Kolostor",
             "ro": "Mănăstirea Capucinilor Sf. Iosif",
-            "en": "Capuchin Monastery of St. Joseph"
+            "en": "Capuchin Monastery of St. Joseph",
+            "hr": "Kapucinski samostan sv. Josipa"
           },
           "coords": [
             15.0805,
@@ -827,14 +853,15 @@
             "de": "Beginnen Sie die Tour im ruhigen Klostergarten.",
             "hu": "Kezdje a túrát a csendes kolostorkertben.",
             "ro": "Începeți turul în grădina liniștită a mănăstirii.",
-            "en": "Start the tour in the quiet monastery garden."
+            "en": "Start the tour in the quiet monastery garden.",
+            "hr": "Započnite razgled u mirnom samostanskom vrtu."
           },
           "tip_5lang": {
             "de": "Stellen Sie das Rad an der Klostermauer ab, das ist ausdrücklich erlaubt.",
             "hu": "A kolostorfalhoz támasztva hagyhatja a biciklit, ez kifejezetten megengedett.",
             "ro": "Lăsați bicicleta lângă zidul mănăstirii, este permis în mod expres.",
             "en": "You may leave bikes against the monastery wall — it's explicitly allowed here.",
-            "hr": "Možete ostaviti bicikle prislonjene na zid samostana — ovdje je to izričito dopušteno."
+            "hr": "Bicikle možete ostaviti uza zid samostana — ovdje je to izričito dopušteno."
           }
         },
         {
@@ -842,7 +869,8 @@
             "de": "Historische Straße Terezijana",
             "hu": "Terezijana történelmi út",
             "ro": "Drumul istoric Terezijana",
-            "en": "Historical Road Terezijana"
+            "en": "Historical Road Terezijana",
+            "hr": "Povijesna cesta Terezijana"
           },
           "coords": [
             15.09,
@@ -857,14 +885,15 @@
             "de": "Ein alter Handelsweg mit tollen Ausblicken.",
             "hu": "Régi kereskedelmi út nagyszerű kilátással.",
             "ro": "Un vechi drum comercial cu vederi superbe.",
-            "en": "An old trade route with great views."
+            "en": "An old trade route with great views.",
+            "hr": "Stara trgovačka ruta s odličnim pogledima."
           },
           "tip_5lang": {
             "de": "Diese kaiserliche Straße aus 1786 hat noch original gepflasterte Abschnitte.",
             "hu": "Az 1786-os császári út néhány szakaszán még eredeti kövezet látható.",
             "ro": "Acest drum imperial din 1786 mai păstrează porțiuni de pavaj original.",
             "en": "Sections of this 1786 imperial road still retain their original paving stones.",
-            "hr": "Dijelovi ove carske ceste iz 1786. godine još uvijek imaju originalni opločnik."
+            "hr": "Dijelovi ove carske ceste iz 1786. godine i dalje čuvaju izvorne popločane kamene blokove."
           }
         },
         {
@@ -872,7 +901,8 @@
             "de": "Kirche Mariä Heimsuchung",
             "hu": "Sarlós Boldogasszony-templom",
             "ro": "Biserica Vizitarea Mariei",
-            "en": "Church of the Visitation of Mary"
+            "en": "Church of the Visitation of Mary",
+            "hr": "Crkva Pohoda Blažene Djevice Marije"
           },
           "coords": [
             15.08,
@@ -887,14 +917,15 @@
             "de": "Kleine Kirche am Ortsrand.",
             "hu": "Kis templom a falu szélén.",
             "ro": "Biserică mică la marginea satului.",
-            "en": "Small church on the outskirts."
+            "en": "Small church on the outskirts.",
+            "hr": "Mala crkva na rubu mjesta."
           },
           "tip_5lang": {
             "de": "Außerhalb der Messzeiten ist die Kirche meist zu — der Schlüssel liegt nebenan.",
             "hu": "Mise idején kívül a templom zárva, a kulcs a szomszéd házban kérhető.",
             "ro": "În afara orelor de slujbă biserica este închisă, cheia se cere la casa vecină.",
             "en": "Outside service hours the church is closed — the key is kept next door.",
-            "hr": "Izvan vremena službe crkva je zatvorena — ključ se čuva u susjedstvu."
+            "hr": "Izvan službenih sati crkva je zatvorena — ključ se čuva u susjednoj zgradi."
           }
         },
         {
@@ -902,7 +933,8 @@
             "de": "Küste Richtung Ribarica",
             "hu": "Partvonal Ribarica felé",
             "ro": "Coasta spre Ribarica",
-            "en": "Coastline towards Ribarica"
+            "en": "Coastline towards Ribarica",
+            "hr": "Obala prema Ribarici"
           },
           "coords": [
             15.05,
@@ -917,14 +949,15 @@
             "de": "Suchen Sie sich eine einsame Bucht zum Baden.",
             "hu": "Keressen egy eldugott öblöt a fürdőzéshez.",
             "ro": "Căutați un golf retras pentru înot.",
-            "en": "Find a secluded cove for swimming."
+            "en": "Find a secluded cove for swimming.",
+            "hr": "Pronađite skrovitu uvalu za kupanje."
           },
           "tip_5lang": {
             "de": "Diese Küstenroute hat versteckte Buchten — bringen Sie Badesachen mit.",
             "hu": "A parti útvonalon rejtett öblök sorakoznak, hozzon magával fürdőruhát.",
             "ro": "Pe acest traseu de coastă sunt golfuri ascunse, luați costumul de baie.",
             "en": "This coastal route passes hidden coves — pack your swimsuit just in case.",
-            "hr": "Ova obalna ruta prolazi pored skrivenih uvala — ponesite kupaći kostim za svaki slučaj."
+            "hr": "Ova obalna ruta prolazi skrivenim uvalama — spakirajte kupaći kostim za svaki slučaj."
           }
         },
         {
@@ -932,7 +965,8 @@
             "de": "Uferpromenade Karlobag",
             "hu": "Karlobagi sétány",
             "ro": "Faleza Karlobag",
-            "en": "Karlobag Promenade"
+            "en": "Karlobag Promenade",
+            "hr": "Karlobaška šetnica"
           },
           "coords": [
             15.08,
@@ -947,14 +981,15 @@
             "de": "Entspannter Abschluss am Hafen.",
             "hu": "Pihentető befejezés a kikötőben.",
             "ro": "Final relaxant în port.",
-            "en": "Relaxing end at the harbor."
+            "en": "Relaxing end at the harbor.",
+            "hr": "Opustite se na kraju u luci."
           },
           "tip_5lang": {
             "de": "Am Ende der Promenade gibt es einen Brunnen zum Auffüllen der Trinkflasche.",
             "hu": "A sétány végén kút található, ahol megtöltheti a kulacsát.",
             "ro": "La capătul falezei există o fântână unde puteți umple sticla cu apă.",
             "en": "A fountain at the promenade's end lets you top up your bottle for free.",
-            "hr": "Fontana na kraju rive omogućuje vam besplatno dopunjavanje boce vodom."
+            "hr": "Na kraju šetnice nalazi se fontana gdje možete besplatno dopuniti bocu."
           }
         }
       ],
@@ -963,7 +998,7 @@
         "hu": "Fedezze fel Karlobagot és környékét aktívan kerékpárral. A nap kulturálisan kezdődik a kolostorban, mielőtt a történelmi Terezijana útra hajtana, amely lágyan simul a Velebit lejtőihez.\n\nDélben tekerjen észak felé a parti úton. Az útvonal látványos kilátást nyújt a mélykék tengerre és Pag kopár szikláira. Keressen egyet a sok kis öböl közül egy privát pihenőhöz.\n\nDélután induljon vissza a központ felé. Egy megálló a Sarlós Boldogasszony-templomnál pillanatnyi elcsendesedést kínál, mielőtt megtenné az utolsó kilométereket a tenger mentén.\n\nEstére érjen vissza Karlobag kikötőjébe, ahol biztonságosan leállíthatja kerékpárját és élvezheti a helyi konyhát.",
         "ro": "Explorați Karlobag și împrejurimile sale activ cu bicicleta. Ziua începe cultural la mănăstire, înainte de a porni pe drumul istoric Terezijana, care șerpuiește ușor pe pantele Velebitului.\n\nLa prânz, pedalați spre nord pe drumul de coastă. Traseul oferă vederi spectaculoase asupra mării albastru închis și a stâncilor golașe ale insulei Pag. Găsiți unul dintre numeroasele golfulețe pentru o pauză privată.\n\nDupă-amiaza, întoarceți-vă spre centru. O oprire la biserica Vizitarea Mariei oferă un moment de reflecție înainte de a parcurge ultimii kilometri pe malul mării.\n\nSeara, ajungeți înapoi în portul Karlobag, unde vă puteți lăsa bicicleta în siguranță și puteți savura bucătăria locală.",
         "en": "Explore Karlobag and its surroundings actively by bike. The day starts culturally at the monastery before you ride onto the historic Terezijana road, which nestles gently into the Velebit slopes.\n\nAt noon, cycle north along the coastal road. The route offers spectacular views of the deep blue sea and the barren rocks of Pag. Find one of the many small coves for a private break.\n\nIn the afternoon, head back towards the center. A stop at the Church of the Visitation of Mary offers a moment of reflection before you cover the last kilometers by the sea.\n\nBy evening, reach the harbor of Karlobag again, where you can safely park your bike and enjoy the local cuisine.",
-        "hr": "Aktivno istražite Karlobag i njegovu okolicu biciklom. Dan počinje kulturno kod samostana prije nego što se uputite na povijesnu cestu Terezijanu, koja se nježno naslanja na padine Velebita.\n\nU podne biciklirajte prema sjeveru obalnom cestom. Ruta nudi spektakularne poglede na duboko plavo more i ogoljele stijene Paga. Pronađite jednu od brojnih malih uvala za privatni odmor.\n\nPoslijepodne se vratite prema centru. Zaustavljanje kod crkve Pohođenja Blažene Djevice Marije nudi trenutak za razmišljanje prije nego što prijeđete posljednje kilometre uz more.\n\nDo večeri ponovno stižete u luku Karlobag, gdje možete sigurno parkirati svoj bicikl i uživati u lokalnoj kuhinji."
+        "hr": "Aktivno istražite Karlobag i okolicu biciklom. Dan započinje kulturno u samostanu, nakon čega se vozite povijesnom cestom Terezijanom koja se nježno uvija u padine Velebita.\n\nU podne se uputite sjeverno obalnom cestom. Ruta nudi spektakularne poglede na duboko plavo more i ogoljene stijene Paga. Pronađite jednu od mnogih malih uvala za privatni odmor.\n\nU popodnevnim satima vratite se prema centru. Stajanje kod Crkve Pohoda Blažene Djevice Marije pruža trenutak za razmišljanje prije posljednjih kilometara uz more.\n\nDo večeri ponovno stižete do luke Karlobag, gdje sigurno možete parkirati bicikl i uživati u lokalnoj kuhinji."
       },
       "gastro_picks": {
         "de": [
@@ -1092,10 +1127,10 @@
           "A helmet is highly recommended."
         ],
         "hr": [
-          "Obalna cesta može biti vjetrovita (opasnost od bure).",
-          "Pazite na automobilski promet na glavnoj cesti.",
+          "Obalna cesta može biti vrlo vjetrovita (opasnost od bure).",
+          "Pazite na cestovni promet na glavnoj cesti.",
           "Ponesite dovoljno vode sa sobom.",
-          "Kaciga se toplo preporučuje."
+          "Kaciga je toplo preporučena."
         ]
       },
       "variants": {
@@ -1104,7 +1139,8 @@
             "de": "Erkunden Sie Karlobag und seine Umgebung aktiv mit dem Fahrrad. Der Tag beginnt kulturell im Kloster, bevor Sie auf die historische Terezijana-Straße fahren, die sich sanft in die Velebit-Hänge schmiegt.\n\nMittags radeln Sie entlang der Küstenstraße nach Norden. Die Strecke bietet spektakuläre Ausblicke auf das tiefblaue Meer und die kahlen Felsen von Pag. Suchen Sie sich eine der vielen kleinen Buchten für eine private Pause.\n\nNachmittags geht es zurück Richtung Zentrum. Ein Stopp bei der Kirche Mariä Heimsuchung bietet einen Moment der Besinnung, bevor Sie die letzten Kilometer am Meer zurücklegen.\n\nZum Abendessen erreichen Sie wieder den Hafen von Karlobag, wo Sie Ihr Fahrrad sicher abstellen und die lokale Küche genießen können.",
             "hu": "Fedezze fel Karlobagot és környékét aktívan kerékpárral. A nap kulturálisan kezdődik a kolostorban, mielőtt a történelmi Terezijana útra hajtana, amely lágyan simul a Velebit lejtőihez.\n\nDélben tekerjen észak felé a parti úton. Az útvonal látványos kilátást nyújt a mélykék tengerre és Pag kopár szikláira. Keressen egyet a sok kis öböl közül egy privát pihenőhöz.\n\nDélután induljon vissza a központ felé. Egy megálló a Sarlós Boldogasszony-templomnál pillanatnyi elcsendesedést kínál, mielőtt megtenné az utolsó kilométereket a tenger mentén.\n\nEstére érjen vissza Karlobag kikötőjébe, ahol biztonságosan leállíthatja kerékpárját és élvezheti a helyi konyhát.",
             "ro": "Explorați Karlobag și împrejurimile sale activ cu bicicleta. Ziua începe cultural la mănăstire, înainte de a porni pe drumul istoric Terezijana, care șerpuiește ușor pe pantele Velebitului.\n\nLa prânz, pedalați spre nord pe drumul de coastă. Traseul oferă vederi spectaculoase asupra mării albastru închis și a stâncilor golașe ale insulei Pag. Găsiți unul dintre numeroasele golfulețe pentru o pauză privată.\n\nDupă-amiaza, întoarceți-vă spre centru. O oprire la biserica Vizitarea Mariei oferă un moment de reflecție înainte de a parcurge ultimii kilometri pe malul mării.\n\nSeara, ajungeți înapoi în portul Karlobag, unde vă puteți lăsa bicicleta în siguranță și puteți savura bucătăria locală.",
-            "en": "Explore Karlobag and its surroundings actively by bike. The day starts culturally at the monastery before you ride onto the historic Terezijana road, which nestles gently into the Velebit slopes.\n\nAt noon, cycle north along the coastal road. The route offers spectacular views of the deep blue sea and the barren rocks of Pag. Find one of the many small coves for a private break.\n\nIn the afternoon, head back towards the center. A stop at the Church of the Visitation of Mary offers a moment of reflection before you cover the last kilometers by the sea.\n\nBy evening, reach the harbor of Karlobag again, where you can safely park your bike and enjoy the local cuisine."
+            "en": "Explore Karlobag and its surroundings actively by bike. The day starts culturally at the monastery before you ride onto the historic Terezijana road, which nestles gently into the Velebit slopes.\n\nAt noon, cycle north along the coastal road. The route offers spectacular views of the deep blue sea and the barren rocks of Pag. Find one of the many small coves for a private break.\n\nIn the afternoon, head back towards the center. A stop at the Church of the Visitation of Mary offers a moment of reflection before you cover the last kilometers by the sea.\n\nBy evening, reach the harbor of Karlobag again, where you can safely park your bike and enjoy the local cuisine.",
+            "hr": "Aktivno istražite Karlobag i okolicu biciklom. Dan započinje kulturno u samostanu, nakon čega se vozite povijesnom cestom Terezijanom koja se nježno uvija u padine Velebita.\n\nU podne se uputite sjeverno obalnom cestom. Ruta nudi spektakularne poglede na duboko plavo more i ogoljene stijene Paga. Pronađite jednu od mnogih malih uvala za privatni odmor.\n\nU popodnevnim satima vratite se prema centru. Stajanje kod Crkve Pohoda Blažene Djevice Marije pruža trenutak za razmišljanje prije posljednjih kilometara uz more.\n\nDo večeri ponovno stižete do luke Karlobag, gdje sigurno možete parkirati bicikl i uživati u lokalnoj kuhinji."
           },
           "stops": [
             {
@@ -1112,7 +1148,8 @@
                 "de": "Kapuzinerkloster St. Joseph",
                 "hu": "Szent József Kapucinus Kolostor",
                 "ro": "Mănăstirea Capucinilor Sf. Iosif",
-                "en": "Capuchin Monastery of St. Joseph"
+                "en": "Capuchin Monastery of St. Joseph",
+                "hr": "Kapucinski samostan sv. Josipa"
               },
               "tip_5lang": null
             },
@@ -1121,7 +1158,8 @@
                 "de": "Historische Straße Terezijana",
                 "hu": "Terezijana történelmi út",
                 "ro": "Drumul istoric Terezijana",
-                "en": "Historical Road Terezijana"
+                "en": "Historical Road Terezijana",
+                "hr": "Povijesna cesta Terezijana"
               },
               "tip_5lang": null
             },
@@ -1130,7 +1168,8 @@
                 "de": "Kirche Mariä Heimsuchung",
                 "hu": "Sarlós Boldogasszony-templom",
                 "ro": "Biserica Vizitarea Mariei",
-                "en": "Church of the Visitation of Mary"
+                "en": "Church of the Visitation of Mary",
+                "hr": "Crkva Pohoda Blažene Djevice Marije"
               },
               "tip_5lang": null
             },
@@ -1139,7 +1178,8 @@
                 "de": "Küste Richtung Ribarica",
                 "hu": "Partvonal Ribarica felé",
                 "ro": "Coasta spre Ribarica",
-                "en": "Coastline towards Ribarica"
+                "en": "Coastline towards Ribarica",
+                "hr": "Obala prema Ribarici"
               },
               "tip_5lang": null
             },
@@ -1148,7 +1188,8 @@
                 "de": "Uferpromenade Karlobag",
                 "hu": "Karlobagi sétány",
                 "ro": "Faleza Karlobag",
-                "en": "Karlobag Promenade"
+                "en": "Karlobag Promenade",
+                "hr": "Karlobaška šetnica"
               },
               "tip_5lang": null
             }
@@ -1259,6 +1300,12 @@
               "Watch out for car traffic on the main road.",
               "Take enough water with you.",
               "A helmet is highly recommended."
+            ],
+            "hr": [
+              "Obalna cesta može biti vrlo vjetrovita (opasnost od bure).",
+              "Pazite na cestovni promet na glavnoj cesti.",
+              "Ponesite dovoljno vode sa sobom.",
+              "Kaciga je toplo preporučena."
             ]
           }
         },
@@ -1268,7 +1315,7 @@
             "hu": "Délelőtt óvatosan tekerünk a kapucinus kolostorig a vizes úton. Délben a Terézia utat fedezzük fel, ahol a sár próbára teszi a kerékpáros ügyességét.\nDélután a Mária látogatása templom felé vesszük az irányt az esőben. Az estét a karlobagi sétányon zárjuk, ahol a vizes aszfalton surrogó kerekek hangja kíséri az utunkat.",
             "ro": "Dimineața pedalăm cu atenție spre mănăstirea capucinilor pe drumul ud. La prânz explorăm drumul Terezijana, unde noroiul necesită concentrare maximă.\nDupă-amiaza ne îndreptăm spre Biserica Vizita Maria, în timp ce ploaia devine mai deasă. Seara se încheie pe faleza din Karlobag, cu sunetul anvelopelor pe asfaltul umed.",
             "en": "Morning cycling starts cautiously towards the Capuchin monastery. By noon, we tackle the Terezijana road, where the wet terrain demands full focus and bike control.\nIn the afternoon, we reach the Church of the Visitation of Mary through the drizzle. The evening ends at the Karlobag promenade, with the sound of tires humming on the wet pavement.",
-            "hr": "Jutarnja vožnja biciklom oprezno kreće prema kapucinskom samostanu. Do podneva svladavamo cestu Terezijanu, gdje mokar teren zahtijeva puni fokus i kontrolu bicikla.\nPoslijepodne kroz rosulju stižemo do crkve Pohođenja Blažene Djevice Marije. Večer završava na karlobaškoj rivi, uz zvuk guma koje bruje po mokrom asfaltu."
+            "hr": "Jutarnja vožnja započinje oprezno prema kapucinskom samostanu. U podne savladavamo Terezijanu, gdje mokro tlo zahtijeva punu koncentraciju i kontrolu nad biciklom.\nPopodne stižemo do Crkve Pohoda Blažene Djevice Marije kroz mrholjenje. Večer završava na karlobaškoj šetnici uz zvuk zujanja guma po mokrom popločenju."
           },
           "stops": [
             {
@@ -1278,7 +1325,7 @@
                 "hu": "Támassza a kerékpárt az előtető alá, hogy az ülés száraz maradjon.",
                 "ro": "Parcați bicicleta sub streașină pentru a păstra șaua uscată.",
                 "en": "Park your bike under the overhang to keep the saddle dry while you visit.",
-                "hr": "Parkirajte bicikl ispod nadstrešnice kako bi sjedalo ostalo suho tijekom posjeta."
+                "hr": "Parkirajte bicikl pod nadstrešnicom kako bi vam sedlo ostalo suho tijekom posjeta."
               }
             },
             {
@@ -1288,7 +1335,7 @@
                 "hu": "Kerülje a sáros szakaszokat; a történelmi kövek nagyon csúszósak esőben.",
                 "ro": "Evitați porțiunile noroioase; pietrele istorice sunt extrem de alunecoase.",
                 "en": "Avoid muddy sections; the historical stones are extremely slippery when wet.",
-                "hr": "Izbjegavajte blatne dijelove; povijesno kamenje je izuzetno sklisko kad je mokro."
+                "hr": "Izbjegavajte blatne dijelove; povijesne kamene ploče su izuzetno skliske kad su mokre."
               }
             },
             {
@@ -1298,7 +1345,7 @@
                 "hu": "Használja ki a megállót a fékek megtisztítására a sártól és víztől.",
                 "ro": "Folosiți oprirea pentru a curăța frânele de murdărie și apă.",
                 "en": "Use this stop to clear any mud or grit from your brakes and rims.",
-                "hr": "Iskoristite ovo zaustavljanje za čišćenje blata ili pijeska s kočnica i obruča."
+                "hr": "Iskoristite ovu stanku za čišćenje blata ili pijeska s kočnica i naplataka."
               }
             },
             {
@@ -1308,7 +1355,7 @@
                 "hu": "Vigyázzon a felverődő vízre; a világos ruházat gyorsan koszolódik.",
                 "ro": "Atenție la apa împroșcată de pe drum; hainele deschise se murdăresc rapid.",
                 "en": "Watch out for road spray; light-colored clothing will get dirty quickly.",
-                "hr": "Pazite na prskanje s ceste; svijetla odjeća će se brzo zaprljati."
+                "hr": "Pazite na prskanje s ceste; svijetla odjeća će se brzo uprljati."
               }
             },
             {
@@ -1318,7 +1365,7 @@
                 "hu": "Tekerjen lassan, a gyalogosok esőben gyakran kiszámíthatatlanul mozognak.",
                 "ro": "Mergeți încet, pietonii pot avea mișcări imprevizibile din cauza ploii.",
                 "en": "Ride slowly as pedestrians might move unpredictably while seeking cover.",
-                "hr": "Vozite polako jer bi se pješaci mogli nepredvidivo kretati tražeći zaklon."
+                "hr": "Vozite polako jer pješaci mogu nepredvidivo koračati u potrazi za zaklonom."
               }
             }
           ],
@@ -1348,10 +1395,10 @@
               "Avoid sudden braking while cornering on the slick coastal roads."
             ],
             "hr": [
-              "Blatobrani su neophodni za čistu vožnju na karlobaškoj kiši.",
-              "Prethodno provjerite kočnice jer se put kočenja povećava na mokrim cestama.",
-              "Nosite kišnu opremu visoke vidljivosti jer je vidljivost za vozače često loša.",
-              "Izbjegavajte naglo kočenje u zavojima na skliskim obalnim cestama."
+              "Blatobrani su nužni za čistu vožnju po karlobaškom kišnom vremenu.",
+              "Provjerite kočione pločice prije, jer se zaustavni putovi povećavaju na mokrim cestama.",
+              "Nosite reflektirajuću kišnu opremu, jer je vidljivost za vozače često loša.",
+              "Izbjegavajte naglo kočenje u zavoju na skliskim obalnim cestama."
             ]
           }
         },
@@ -1361,7 +1408,7 @@
             "hu": "Fagyos reggel köszönt minket a kolostor felé vezető úton. Délben a Terézia út próbára teszi az erőnlétünket a hideg, de kristálytiszta levegőben.\nDélután a Mária látogatása templomhoz tekerünk a szikrázó téli napsütésben. Este a sétányon keresztül térünk vissza, miközben a jeges Bóra szél gyorsabb tempóra ösztönöz.",
             "ro": "O dimineață geroasă ne întâmpină în drum spre mănăstire. La prânz, drumul Terezijana ne testează condiția fizică în aerul rece și foarte clar.\nDupă-amiaza pedalăm spre Biserica Vizita Maria sub soarele sclipitor de iarnă. Seara ne întoarcem pe faleză, în timp ce vântul rece ne grăbește pasul.",
             "en": "A frosty morning greets us on the way to the monastery. By noon, the Terezijana road tests our fitness in the cold but gloriously clear air.\nIn the afternoon, we cycle to the Church of the Visitation of Mary under the sparkling winter sun. The evening return via the promenade is quick as the Bura chill pushes us along.",
-            "hr": "Mrazno jutro nas pozdravlja na putu do samostana. Do podneva cesta Terezijana testira našu kondiciju na hladnom, ali veličanstveno čistom zraku.\nPoslijepodne bicikliramo do crkve Pohođenja Blažene Djevice Marije pod blistavim zimskim suncem. Večernji povratak preko rive je brz jer nas hladnoća bure tjera naprijed."
+            "hr": "Mrazno jutro dočekuje nas na putu do samostana. U podne Terezijana testira našu kondiciju u hladnom, ali bistro čistom zraku.\nPopodne vozimo do Crkve Pohoda Blažene Djevice Marije pod blistavim zimskim suncem. Povratak navečer putem šetnice je brz jer nas hladan vjetar bure gura naprijed."
           },
           "stops": [
             {
@@ -1371,7 +1418,7 @@
                 "hu": "A kolostor melletti szűk utcák gyakran jegesek; vigyázzon a leszálláskor.",
                 "ro": "Străzile umbrite de lângă mănăstire pot fi înghețate; atenție la descălecat.",
                 "en": "Shaded alleys near the monastery can be icy; be careful when dismounting.",
-                "hr": "Sjenovite uličice u blizini samostana mogu biti zaleđene; budite oprezni pri silasku."
+                "hr": "Uličice u hladu blizu samostana mogu biti zaleđene; budite oprezni pri silasku s bicikla."
               }
             },
             {
@@ -1381,7 +1428,7 @@
                 "hu": "Öltözzön rétegesen: felfelé megizzad, de a csúcson gyorsan lehűl.",
                 "ro": "Îmbrăcați-vă în straturi: veți transpira la urcare și veți îngheța sus.",
                 "en": "Dress in layers: you will sweat on the climb and cool down fast at the top.",
-                "hr": "Odjenite se slojevito: znojit ćete se pri usponu i brzo se ohladiti na vrhu."
+                "hr": "Obucite se u slojevima: na usponu ćete se oznojiti, a na vrhu brzo ohladiti."
               }
             },
             {
@@ -1391,7 +1438,7 @@
                 "hu": "Rövid megálló az ujjak átmozgatására és felmelegítésére a kesztyűben.",
                 "ro": "O scurtă oprire pentru a vă încălzi degetele în interiorul mănușilor.",
                 "en": "A short stop to warm up your fingers inside your gloves.",
-                "hr": "Kratko zaustavljanje kako biste ugrijali prste unutar rukavica."
+                "hr": "Kratka stanka za zagrijavanje prstiju unutar rukavica."
               }
             },
             {
@@ -1401,7 +1448,7 @@
                 "hu": "Erős oldalszél várható; tartsa szorosan a kormányt a part mentén.",
                 "ro": "Vânt lateral puternic; țineți ghidonul cu ambele mâini foarte ferm.",
                 "en": "Strong crosswinds are likely; keep a very firm grip on the handlebars.",
-                "hr": "Mogući su jaki bočni vjetrovi; čvrsto držite upravljač."
+                "hr": "Vjerojatni su jaki bočni udari vjetra; držite čvrsto upravljač."
               }
             },
             {
@@ -1411,7 +1458,7 @@
                 "hu": "A késő délutáni fények tökéletesek a Velebitről készült fotókhoz.",
                 "ro": "Lumina de după-amiază târzie este ideală pentru fotografii cu munții.",
                 "en": "The late afternoon light is perfect for capturing photos of the Velebit range.",
-                "hr": "Kasno poslijepodnevno svjetlo savršeno je za fotografiranje Velebita."
+                "hr": "Kasno poslijepodnevno svjetlo savršeno je za fotografiranje Velebitskog masiva."
               }
             }
           ],
@@ -1441,10 +1488,10 @@
               "Keep your chain well-lubricated as salty winter air is more corrosive."
             ],
             "hr": [
-              "Termo rukavice i navlake za cipele vitalni su za bicikliranje po buri.",
-              "Pazite na zaleđene dijelove u sjenovitim zavojima uz obalnu cestu.",
-              "Vjetrovi u Karlobagu mogu biti ekstremni; ne ustručavajte se gurati bicikl ako je potrebno.",
-              "Dobro podmažite lanac jer je slani zimski zrak korozivniji."
+              "Toplinske rukavice i navlake za cipele su ključne za vožnju u buri.",
+              "Pazite na zaleđene mrlje u sjenovitim kutovima uz obalnu cestu.",
+              "Vjetrovi u Karlobagu mogu biti ekstremni; bez oklijevanja gurajte bicikl pješice ako treba.",
+              "Držite lanac dobro podmazanim jer je slani zimski zrak korozivniji."
             ]
           }
         }
@@ -1463,7 +1510,8 @@
             "de": "Kapuzinerkloster St. Joseph",
             "hu": "Szent József Kapucinus Kolostor",
             "ro": "Mănăstirea Capucinilor Sf. Iosif",
-            "en": "Capuchin Monastery of St. Joseph"
+            "en": "Capuchin Monastery of St. Joseph",
+            "hr": "Kapucinski samostan sv. Josipa"
           },
           "coords": [
             15.0805,
@@ -1478,14 +1526,15 @@
             "de": "Kostenloses Parken am Kloster oft möglich.",
             "hu": "Ingyenes parkolás a kolostornál gyakran lehetséges.",
             "ro": "Parcare gratuită la mănăstire adesea posibilă.",
-            "en": "Free parking at the monastery often possible."
+            "en": "Free parking at the monastery often possible.",
+            "hr": "Besplatno parkiranje kod samostana često je moguće."
           },
           "tip_5lang": {
             "de": "Direkt vor dem Kloster gibt es drei kostenpflichtige Stellplätze.",
             "hu": "A kolostor előtt három fizetős parkolóhely található.",
             "ro": "Chiar în fața mănăstirii sunt trei locuri de parcare cu plată.",
             "en": "Three paid parking spots sit right in front of the monastery — first come, first served.",
-            "hr": "Tri naplatna parkirna mjesta nalaze se točno ispred samostana — tko prvi, njegovo."
+            "hr": "Tri naplatna parkirna mjesta nalaze se odmah ispred samostana — tko prvi dođe, prvi se parkira."
           }
         },
         {
@@ -1493,7 +1542,8 @@
             "de": "Aussichtspunkt Baške Oštarije",
             "hu": "Baške Oštarije kilátó",
             "ro": "Punct de belvedere Baške Oštarije",
-            "en": "Baške Oštarije Viewpoint"
+            "en": "Baške Oštarije Viewpoint",
+            "hr": "Vidikovac Baške Oštarije"
           },
           "coords": [
             15.12,
@@ -1508,14 +1558,15 @@
             "de": "Fotostopp beim berühmten 'Stein-Auge'.",
             "hu": "Fotómegálló a híres 'kőszemnél'.",
             "ro": "Oprire foto la celebrul 'ochi de piatră'.",
-            "en": "Photo stop at the famous 'Stone Eye'."
+            "en": "Photo stop at the famous 'Stone Eye'.",
+            "hr": "Fotostanka kod poznatog 'Kameni oko'."
           },
           "tip_5lang": {
             "de": "Auf der Passhöhe weht oft starker Wind — Türen gut festhalten beim Öffnen.",
             "hu": "A hágón gyakran erős a szél, óvatosan nyissa az autóajtót.",
             "ro": "În vârful trecătorii vântul este adesea puternic, deschideți ușa cu grijă.",
             "en": "Strong wind often whips the pass — hold the door firmly when you open it.",
-            "hr": "Jak vjetar često šiba na prijevoju — čvrsto držite vrata kad ih otvarate."
+            "hr": "Snažan vjetar često šiba prijevoj — čvrsto držite vrata kad ih otvarate."
           }
         },
         {
@@ -1523,7 +1574,8 @@
             "de": "Historische Straße Terezijana",
             "hu": "Terezijana történelmi út",
             "ro": "Drumul istoric Terezijana",
-            "en": "Historical Road Terezijana"
+            "en": "Historical Road Terezijana",
+            "hr": "Povijesna cesta Terezijana"
           },
           "coords": [
             15.13,
@@ -1538,14 +1590,15 @@
             "de": "Erfahren Sie mehr über den Bau dieser Straße im 18. Jh.",
             "hu": "Tudjon meg többet az út 18. századi építéséről.",
             "ro": "Aflați mai multe despre construcția acestui drum în sec. XVIII.",
-            "en": "Learn more about the construction of this road in the 18th century."
+            "en": "Learn more about the construction of this road in the 18th century.",
+            "hr": "Saznajte više o gradnji ove ceste u 18. stoljeću."
           },
           "tip_5lang": {
             "de": "Auf den Serpentinen unbedingt im 2. Gang fahren, die Kurven sind eng.",
             "hu": "A szerpentinen mindenképp 2. sebességben menjen, a kanyarok szűkek.",
             "ro": "Pe serpentine mergeți obligatoriu în treapta a doua, virajele sunt strânse.",
             "en": "Stay in second gear on the switchbacks — the turns are tight and blind.",
-            "hr": "Ostanite u drugoj brzini na serpentinama — zavoji su oštri i nepregledni."
+            "hr": "Ostanite u drugom stupnju na kosinama s oštrim zavojima — zavoji su uzak i slijepi."
           }
         },
         {
@@ -1553,7 +1606,8 @@
             "de": "Kirche St. Karl Borromäus",
             "hu": "Borromeo Szent Károly-templom",
             "ro": "Biserica Sf. Carol Borromeo",
-            "en": "Church of St. Charles Borromeo"
+            "en": "Church of St. Charles Borromeo",
+            "hr": "Crkva sv. Karla Boromejskog"
           },
           "coords": [
             15.0812,
@@ -1568,14 +1622,15 @@
             "de": "Zentraler Treffpunkt des Ortes.",
             "hu": "A település központi találkozóhelye.",
             "ro": "Loc de întâlnire central al localității.",
-            "en": "Central meeting point of the village."
+            "en": "Central meeting point of the village.",
+            "hr": "Središnje mjesto susreta u selu."
           },
           "tip_5lang": {
             "de": "An der Küstenstraße ist Parken nur in markierten Buchten gestattet.",
             "hu": "A parti úton csak a kijelölt öblökben szabad parkolni.",
             "ro": "Pe drumul de coastă parcarea este permisă doar în nișele marcate.",
             "en": "On the coastal road, parking is only allowed in the marked lay-bys.",
-            "hr": "Na obalnoj cesti parkiranje je dopušteno samo na označenim odmorištima."
+            "hr": "Na obalnoj cesti parkiranje je dopušteno samo na obilježenim odmorištima."
           }
         },
         {
@@ -1583,7 +1638,8 @@
             "de": "Mediterraner Garten Kava",
             "hu": "Kava mediterrán kert",
             "ro": "Grădina mediteraneană Kava",
-            "en": "Kava Mediterranean Garden"
+            "en": "Kava Mediterranean Garden",
+            "hr": "Kava Mediteranski vrt"
           },
           "coords": [
             15.079,
@@ -1598,14 +1654,15 @@
             "de": "Genießen Sie die botanische Vielfalt.",
             "hu": "Élvezze a botanikai sokféleséget.",
             "ro": "Bucurați-vă de diversitatea botanică.",
-            "en": "Enjoy the botanical diversity."
+            "en": "Enjoy the botanical diversity.",
+            "hr": "Uživajte u botaničkoj raznolikosti."
           },
           "tip_5lang": {
             "de": "Der Garten hat keinen eigenen Parkplatz, nutzen Sie den Strandparkplatz daneben.",
             "hu": "A kertnek nincs saját parkolója, a melletti strandparkoló használható.",
             "ro": "Grădina nu are parcare proprie, folosiți parcarea de la plaja alăturată.",
             "en": "The garden has no parking; use the beach lot next door for a short stay.",
-            "hr": "Vrt nema parking; koristite obližnji parking na plaži za kratki boravak."
+            "hr": "Vrt nema parking; za kratko zadržavanje koristite parkiralište na plaži pored."
           }
         }
       ],
@@ -1614,7 +1671,7 @@
         "hu": "Autóval ma összekötheti a hegységet és a tengert. A kolostorlátogatás után hajtson meredeken felfelé a Velebit-hegységbe, Baške Oštarijébe. A hőmérséklet-különbség meg fogja lepni.\n\nDélben fedezze fel a Terezijana utat a hegygerinceken. A fentről nyíló kilátás az Adriai-tengerre páratlan. Térjen be egy hegyi menedékházba, hogy megkóstolja a kiadós likai konyhát.\n\nDélután hajtson vissza a tengerhez, Karlobagba. Nézze meg a Borromeo Szent Károly-templomot és barangoljon a történelmi központ utcáin.\n\nA nap zárásaként a Kava mediterrán kert nyújt nyugalmat és árnyékot. Tökéletes hely, hogy átgondolja a csúcsok és hullámok közötti élményeket.",
         "ro": "Cu mașina, veți îmbina astăzi muntele cu marea. După vizita la mănăstire, urcați abrupt în munții Velebit spre Baške Oštarije. Diferența de temperatură vă va surprinde.\n\nLa prânz, explorați drumul Terezijana pe creste. Vederea de sus asupra Mării Adriatice este inegalabilă. Opriți-vă la o cabană montană pentru a încerca bucătăria consistentă din Lika.\n\nDupă-amiaza, întoarceți-vă la mare în Karlobag. Vizitați biserica Sf. Carol Borromeo și plimbați-vă pe străduțele nucleului istoric.\n\nLa finalul zilei, grădina mediteraneană Kava oferă liniște și umbră. Un loc perfect pentru a rememora experiențele între culmi și valuri.",
         "en": "By car, you combine the mountains and the sea today. After the monastery visit, drive steeply uphill into the Velebit mountains to Baške Oštarije. The temperature difference will surprise you.\n\nAt noon, explore the Terezijana road on the ridges. The view from above of the Adriatic Sea is incomparable. Stop at a mountain hut to try the hearty Lika cuisine.\n\nIn the afternoon, drive back to the sea to Karlobag. Visit the Church of St. Charles Borromeo and stroll through the alleys of the historic core.\n\nTo end the day, the Kava Mediterranean Garden offers peace and shade. A perfect place to review the experiences between peaks and waves.",
-        "hr": "Automobilom danas spajate planinu i more. Nakon posjeta samostanu, vozite se strmo uzbrdo u planinu Velebit do Baških Oštarija. Razlika u temperaturi će vas iznenaditi.\n\nU podne istražite cestu Terezijanu na grebenima. Pogled odozgo na Jadransko more je neusporediv. Zaustavite se u planinarskom domu kako biste probali krepku ličku kuhinju.\n\nPoslijepodne se vratite na more u Karlobag. Posjetite crkvu sv. Karla Boromejskog i prošećite uličicama povijesne jezgre.\n\nZa kraj dana, mediteranski vrt Kava nudi mir i hlad. Savršeno mjesto za sažimanje dojmova između vrhova i valova."
+        "hr": "Automobilom danas kombinirate planine i more. Nakon posjeta samostanu, vozite strmo uzbrdo u Velebit prema Baškim Oštarijama. Razlika u temperaturi iznenadit će vas.\n\nU podne istražite Terezijanu na grebenima. Pogled s visine na Jadransko more je neusporediv. Stanite u planinskoj kući i probajte srdačnu ličku kuhinju.\n\nPopodne se vratite prema moru u Karlobag. Posjetite Crkvu sv. Karla Boromejskog i prošećite uličicama povijesne jezgre.\n\nZa kraj dana, Kava Mediteranski vrt nudi mir i hladovinu. Savršeno mjesto za presložiti doživljaje između vrhova i valova."
       },
       "gastro_picks": {
         "de": [
@@ -1743,9 +1800,9 @@
           "It's often 10 degrees cooler in the mountains."
         ],
         "hr": [
-          "Provjerite stanje kočnica prije spuštanja u Karlobag.",
-          "Cesta ima mnogo oštrih zavoja.",
-          "Natočite gorivo u dolini, na vrhu nema benzinske postaje.",
+          "Provjerite kočnice prije spusta prema Karlobagu.",
+          "Cesta ima mnogo zavoja s kosom (serpentina).",
+          "Točite gorivo u dolini, na vrhu nema benzinske postaje.",
           "U planinama je često 10 stupnjeva hladnije."
         ]
       },
@@ -1755,7 +1812,8 @@
             "de": "Mit dem Auto verbinden Sie heute das Gebirge und das Meer. Nach dem Klosterbesuch fahren Sie steil bergauf in das Velebit-Gebirge nach Baške Oštarije. Der Temperaturunterschied wird Sie überraschen.\n\nMittags erkunden Sie die Terezijana-Straße auf den Höhenzügen. Der Blick von oben auf das Adriatische Meer ist unvergleichlich. Kehren Sie in eine Berghütte ein, um die deftige Lika-Küche zu probieren.\n\nNachmittags fahren Sie zurück ans Meer nach Karlobag. Besichtigen Sie die Kirche St. Karl Borromäus und schlendern Sie durch die Gassen des historischen Kerns.\n\nZum Abschluss des Tages bietet der Mediterrane Garten Kava Ruhe und Schatten. Ein perfekter Ort, um die Erlebnisse zwischen Gipfeln und Wellen Revue passieren zu lassen.",
             "hu": "Autóval ma összekötheti a hegységet és a tengert. A kolostorlátogatás után hajtson meredeken felfelé a Velebit-hegységbe, Baške Oštarijébe. A hőmérséklet-különbség meg fogja lepni.\n\nDélben fedezze fel a Terezijana utat a hegygerinceken. A fentről nyíló kilátás az Adriai-tengerre páratlan. Térjen be egy hegyi menedékházba, hogy megkóstolja a kiadós likai konyhát.\n\nDélután hajtson vissza a tengerhez, Karlobagba. Nézze meg a Borromeo Szent Károly-templomot és barangoljon a történelmi központ utcáin.\n\nA nap zárásaként a Kava mediterrán kert nyújt nyugalmat és árnyékot. Tökéletes hely, hogy átgondolja a csúcsok és hullámok közötti élményeket.",
             "ro": "Cu mașina, veți îmbina astăzi muntele cu marea. După vizita la mănăstire, urcați abrupt în munții Velebit spre Baške Oštarije. Diferența de temperatură vă va surprinde.\n\nLa prânz, explorați drumul Terezijana pe creste. Vederea de sus asupra Mării Adriatice este inegalabilă. Opriți-vă la o cabană montană pentru a încerca bucătăria consistentă din Lika.\n\nDupă-amiaza, întoarceți-vă la mare în Karlobag. Vizitați biserica Sf. Carol Borromeo și plimbați-vă pe străduțele nucleului istoric.\n\nLa finalul zilei, grădina mediteraneană Kava oferă liniște și umbră. Un loc perfect pentru a rememora experiențele între culmi și valuri.",
-            "en": "By car, you combine the mountains and the sea today. After the monastery visit, drive steeply uphill into the Velebit mountains to Baške Oštarije. The temperature difference will surprise you.\n\nAt noon, explore the Terezijana road on the ridges. The view from above of the Adriatic Sea is incomparable. Stop at a mountain hut to try the hearty Lika cuisine.\n\nIn the afternoon, drive back to the sea to Karlobag. Visit the Church of St. Charles Borromeo and stroll through the alleys of the historic core.\n\nTo end the day, the Kava Mediterranean Garden offers peace and shade. A perfect place to review the experiences between peaks and waves."
+            "en": "By car, you combine the mountains and the sea today. After the monastery visit, drive steeply uphill into the Velebit mountains to Baške Oštarije. The temperature difference will surprise you.\n\nAt noon, explore the Terezijana road on the ridges. The view from above of the Adriatic Sea is incomparable. Stop at a mountain hut to try the hearty Lika cuisine.\n\nIn the afternoon, drive back to the sea to Karlobag. Visit the Church of St. Charles Borromeo and stroll through the alleys of the historic core.\n\nTo end the day, the Kava Mediterranean Garden offers peace and shade. A perfect place to review the experiences between peaks and waves.",
+            "hr": "Automobilom danas kombinirate planine i more. Nakon posjeta samostanu, vozite strmo uzbrdo u Velebit prema Baškim Oštarijama. Razlika u temperaturi iznenadit će vas.\n\nU podne istražite Terezijanu na grebenima. Pogled s visine na Jadransko more je neusporediv. Stanite u planinskoj kući i probajte srdačnu ličku kuhinju.\n\nPopodne se vratite prema moru u Karlobag. Posjetite Crkvu sv. Karla Boromejskog i prošećite uličicama povijesne jezgre.\n\nZa kraj dana, Kava Mediteranski vrt nudi mir i hladovinu. Savršeno mjesto za presložiti doživljaje između vrhova i valova."
           },
           "stops": [
             {
@@ -1763,7 +1821,8 @@
                 "de": "Kapuzinerkloster St. Joseph",
                 "hu": "Szent József Kapucinus Kolostor",
                 "ro": "Mănăstirea Capucinilor Sf. Iosif",
-                "en": "Capuchin Monastery of St. Joseph"
+                "en": "Capuchin Monastery of St. Joseph",
+                "hr": "Kapucinski samostan sv. Josipa"
               },
               "tip_5lang": null
             },
@@ -1772,7 +1831,8 @@
                 "de": "Aussichtspunkt Baške Oštarije",
                 "hu": "Baške Oštarije kilátó",
                 "ro": "Punct de belvedere Baške Oštarije",
-                "en": "Baške Oštarije Viewpoint"
+                "en": "Baške Oštarije Viewpoint",
+                "hr": "Vidikovac Baške Oštarije"
               },
               "tip_5lang": null
             },
@@ -1781,7 +1841,8 @@
                 "de": "Historische Straße Terezijana",
                 "hu": "Terezijana történelmi út",
                 "ro": "Drumul istoric Terezijana",
-                "en": "Historical Road Terezijana"
+                "en": "Historical Road Terezijana",
+                "hr": "Povijesna cesta Terezijana"
               },
               "tip_5lang": null
             },
@@ -1790,7 +1851,8 @@
                 "de": "Kirche St. Karl Borromäus",
                 "hu": "Borromeo Szent Károly-templom",
                 "ro": "Biserica Sf. Carol Borromeo",
-                "en": "Church of St. Charles Borromeo"
+                "en": "Church of St. Charles Borromeo",
+                "hr": "Crkva sv. Karla Boromejskog"
               },
               "tip_5lang": null
             },
@@ -1799,7 +1861,8 @@
                 "de": "Mediterraner Garten Kava",
                 "hu": "Kava mediterrán kert",
                 "ro": "Grădina mediteraneană Kava",
-                "en": "Kava Mediterranean Garden"
+                "en": "Kava Mediterranean Garden",
+                "hr": "Kava Mediteranski vrt"
               },
               "tip_5lang": null
             }
@@ -1910,6 +1973,12 @@
               "The road has many hairpins.",
               "Refuel in the valley, there is no gas station at the top.",
               "It's often 10 degrees cooler in the mountains."
+            ],
+            "hr": [
+              "Provjerite kočnice prije spusta prema Karlobagu.",
+              "Cesta ima mnogo zavoja s kosom (serpentina).",
+              "Točite gorivo u dolini, na vrhu nema benzinske postaje.",
+              "U planinama je često 10 stupnjeva hladnije."
             ]
           }
         },
@@ -1919,7 +1988,7 @@
             "hu": "Délelőtt biztonságban autózunk a kolostorig, miközben az ablaktörlők ütemesen járnak. Délben a Baške Oštarije kilátóhoz megyünk, ahol a felhők alacsonyan szállnak.\nDélután a történelmi Terézia utat érintjük, melynek kövei csillognak az esőben. Este a Szent Károly Borromeo templomhoz térünk vissza, a kocsi ablakából figyelve a szürke tengert.",
             "ro": "Dimineața conducem în siguranță spre mănăstire, cu ștergătoarele lucrând din plin. La prânz urcăm spre punctul de belvedere Baške Oštarije, printre nori joși.\nDupă-amiaza parcurgem drumul istoric Terezijana, ale cărui pietre strălucesc în ploaie. Seara revenim la Biserica Sf. Carol Borromeo, admirând marea cenușie din mașină.",
             "en": "Morning drive to the monastery is safe and dry behind the windshield. By noon, we head to the Baške Oštarije viewpoint, where low-hanging clouds add a moody feel.\nIn the afternoon, we explore the Terezijana road, its old stones gleaming in the rain. The evening ends back at the Church of St. Charles Borromeo, watching the grey sea from the car.",
-            "hr": "Jutarnja vožnja do samostana je sigurna i suha iza vjetrobranskog stakla. Do podneva krećemo prema vidikovcu Baške Oštarije, gdje niski oblaci dodaju sjetnu atmosferu.\nPoslijepodne istražujemo cestu Terezijanu, čije staro kamenje blista na kiši. Večer završava povratkom u crkvu sv. Karla Boromejskog, promatrajući sivo more iz automobila."
+            "hr": "Jutarnja vožnja do samostana sigurna je i suha kroz vjetrobran. Do podneva odlazimo na vidikovac Baške Oštarije, gdje nisko vješan oblaci stvaraju tmurnu atmosferu.\nPoslijepodne istražujemo cestu Terezijanu, čije stare kamene ploče sjaje na kiši. Večer završava natrag kod Crkve sv. Karla Boromejskog, promatrajući siva more iz automobila."
           },
           "stops": [
             {
@@ -1929,7 +1998,7 @@
                 "hu": "Közvetlenül a bejárat előtt korlátozott számú parkolóhely áll rendelkezésre.",
                 "ro": "Există locuri de parcare limitate chiar în fața intrării principale.",
                 "en": "There is limited parking available directly in front of the main entrance.",
-                "hr": "Dostupan je ograničen broj parkirnih mjesta izravno ispred glavnog ulaza."
+                "hr": "Ispred glavnog ulaza dostupno je ograničeno parkiralište."
               }
             },
             {
@@ -1939,7 +2008,7 @@
                 "hu": "Figyeljen a ködre a hegyekben; vezessen bekapcsolt tompított fényszóróval.",
                 "ro": "Atenție la ceață în munți; conduceți cu luminile de întâlnire aprinse.",
                 "en": "Watch out for mountain fog; drive with your dipped headlights turned on.",
-                "hr": "Pazite na planinsku maglu; vozite s upaljenim kratkim svjetlima."
+                "hr": "Pazite na planinsku maglu; vozite s uključenim kratkim svjetlima."
               }
             },
             {
@@ -1949,7 +2018,7 @@
                 "hu": "A szűk út esőben fokozott figyelmet igényel az esetleges kőomlások miatt.",
                 "ro": "Drumul îngust necesită prudență sporită din cauza riscului de căderi de pietre.",
                 "en": "The narrow road requires extra caution due to the risk of falling rocks in the rain.",
-                "hr": "Uska cesta zahtijeva dodatni oprez zbog opasnosti od odrona kamenja na kiši."
+                "hr": "Uska cesta zahtijeva dodatnu pažnju zbog rizika od padajućeg kamenja u kiši."
               }
             },
             {
@@ -1959,7 +2028,7 @@
                 "hu": "Kiváló megálló, hogy rövid időre kiszállva megcsodáljuk az építészetet.",
                 "ro": "Un popas bun pentru a coborî scurt din mașină și a admira arhitectura.",
                 "en": "A good stop to briefly exit the car and admire the local architecture.",
-                "hr": "Dobra stanica za kratak izlazak iz auta i divljenje lokalnoj arhitekturi."
+                "hr": "Dobar je staj za kratko iskrcavanje iz auta i divljenje lokalnoj arhitekturi."
               }
             },
             {
@@ -1969,7 +2038,7 @@
                 "hu": "Parkoljon biztonságosan az út szélén, és tegyen egy rövid sétát a kertben.",
                 "ro": "Parcați în siguranță pe marginea drumului și vizitați scurt grădina.",
                 "en": "Park safely on the roadside and enjoy a quick stroll through the garden.",
-                "hr": "Sigurno parkirajte uz cestu i uživajte u kratkoj šetnji vrtom."
+                "hr": "Parkirajte sigurno uz cestu i uživajte u kratkoj šetnji kroz vrt."
               }
             }
           ],
@@ -1999,10 +2068,10 @@
               "Maintain a larger following distance on the twisty coastal road sections."
             ],
             "hr": [
-              "Serpentine prema Baškim Oštarijama mogu biti vrlo skliske kad pada kiša.",
-              "Provjerite metlice brisača prije odlaska na zavojite planinske ceste.",
+              "Serpentine prema Baškim Oštarijama mogu biti vrlo klizave kad pada kiša.",
+              "Provjerite brisače prije nego što krenete na vijugave planinske ceste.",
               "Izbjegavajte velike lokve uz cestu jer mogu biti dublje nego što izgledaju.",
-              "Održavajte veći razmak na zavojitim dijelovima obalne ceste."
+              "Držite veći razmak između vozila na zavojitim dionicama obalne ceste."
             ]
           }
         },
@@ -2012,7 +2081,7 @@
             "hu": "Tiszta téli reggelen indulunk a kolostorhoz. Délben autóval kapaszkodunk fel a Baške Oštarije hágóra, ahol gyakran hó fogad minket.\nDélután a történelmi Terézia utat járjuk be a metsző hidegben. Este a kivilágított Karlobagba térünk vissza, az autó melegében védve a jeges Bóra széltől.",
             "ro": "O dimineață senină de iarnă ne duce spre mănăstire. La prânz urcăm cu mașina spre pasul Baške Oštarije, unde zăpada este adesea prezentă.\nDupă-amiaza parcurgem drumul Terezijana în frigul tăios. Seara revenim în Karlobagul luminat, mașina oferindu-ne adăpost împotriva vântului înghețat.",
             "en": "A clear winter morning leads us to the monastery. By noon, we drive up to the Baške Oštarije pass, which is often blanketed in snow.\nIn the afternoon, we explore the Terezijana road in the biting cold. The evening return to Karlobag is cozy as the car shields us from the icy Bura wind.",
-            "hr": "Vedro zimsko jutro vodi nas do samostana. Do podneva se vozimo do prijevoja Baške Oštarije, koji je često prekriven snijegom.\nPoslijepodne istražujemo cestu Terezijanu na grizućoj hladnoći. Večernji povratak u Karlobag je ugodan jer nas automobil štiti od ledene bure."
+            "hr": "Bistro zimsko jutro vodi nas do samostana. Do podneva vozimo do prijelaza Baške Oštarije, koji je često prekriven snijegom.\nPoslijepodne istražujemo cestu Terezijanu u oštrom hladnom vremenu. Povratak u Karlobag navečer je ugodan dok nas auto štiti od ledenog vjetra Bura."
           },
           "stops": [
             {
@@ -2022,7 +2091,7 @@
                 "hu": "Télen a motornak több idő kell a bemelegedéshez; tervezzen hosszabb megállókat.",
                 "ro": "Motorul are nevoie de mai mult timp să se încălzească; planificați pauze scurte.",
                 "en": "The engine takes longer to warm up in winter; plan your stops accordingly.",
-                "hr": "Motoru treba više vremena da se zagrije zimi; planirajte svoja zaustavljanja u skladu s tim."
+                "hr": "Motor se sporije zagrijava zimi; planirajte stajanja prema tome."
               }
             },
             {
@@ -2032,7 +2101,7 @@
                 "hu": "Itt fent a téli gumi vagy a hólánc gyakran kötelező előírás.",
                 "ro": "Anvelopele de iarnă sau lanțurile sunt adesea obligatorii aici sus.",
                 "en": "Winter tires or snow chains are often legally required at this altitude.",
-                "hr": "Zimske gume ili lanci za snijeg često su zakonski obvezni na ovoj nadmorskoj visini."
+                "hr": "Zimske gume ili lance za snijeg često su zakonski obavezni na ovoj nadmorskoj visini."
               }
             },
             {
@@ -2042,7 +2111,7 @@
                 "hu": "Ügyeljen a jeges útfelületekre az árnyékos erdei szakaszokon.",
                 "ro": "Atenție la porțiunile de drum înghețate în zonele împădurite și umbrite.",
                 "en": "Watch out for black ice on the road in shaded, forested sections.",
-                "hr": "Pazite na poledicu na cesti u sjenovitim, šumovitim dijelovima."
+                "hr": "Pazite na poledicu na cesti u zasjenjenim, šumovitim dijelovima."
               }
             },
             {
@@ -2052,7 +2121,7 @@
                 "hu": "Rövid megálló ajánlott; a parkoló télen általában teljesen üres.",
                 "ro": "Popas scurt; parcarea este de obicei complet goală în timpul iernii.",
                 "en": "A quick stop is easy as the parking lot is usually empty in winter.",
-                "hr": "Kratko zaustavljanje je jednostavno jer je parking zimi obično prazan."
+                "hr": "Kratko zaustavljanje je jednostavno jer je parkiralište obično prazno zimi."
               }
             },
             {
@@ -2062,7 +2131,7 @@
                 "hu": "Az alacsonyan járó nap erősen vakíthat vezetés közben; készítsen be napszemüveget.",
                 "ro": "Soarele jos poate fi orbitor la condus; pregătiți ochelarii de soare.",
                 "en": "The low winter sun can be very blinding while driving; keep sunglasses handy.",
-                "hr": "Nisko zimsko sunce može vas zaslijepiti tijekom vožnje; držite sunčane naočale pri ruci."
+                "hr": "Nisko zimsko sunce može jako zaslijepiti tijekom vožnje; imajte sunčane naočale pri ruci."
               }
             }
           ],
@@ -2092,10 +2161,10 @@
               "Monitor road closure alerts (A1 or Magistrale) during extreme wind conditions."
             ],
             "hr": [
-              "Nosite lance za snijeg ako planirate vožnju prema Baškim Oštarijama.",
-              "Prije polaska provjerite ima li tekućina za pranje stakla dovoljno antifriza.",
-              "Jaka bura može zanositi automobil na obalnim cestama; smanjite brzinu.",
-              "Pratite obavijesti o zatvaranju cesta (A1 ili Magistrala) tijekom ekstremnih vjetrova."
+              "Ponesite lance za snijeg ako planirate voziti prema Baškim Oštarijama.",
+              "Provjerite ima li tekućina za pranje vjetrobrana dovoljno antifriza prije polaska.",
+              "Jake bure mogu zaletavati automobil na obalnim cestama; smanjite brzinu.",
+              "Pratite obavijesti o zatvaranju cesta (A1 ili Magistrala) tijekom ekstremnih vjetrovitih uvjeta."
             ]
           }
         }
@@ -2114,7 +2183,8 @@
             "de": "Kapuzinerkloster St. Joseph",
             "hu": "Szent József Kapucinus Kolostor",
             "ro": "Mănăstirea Capucinilor Sf. Iosif",
-            "en": "Capuchin Monastery of St. Joseph"
+            "en": "Capuchin Monastery of St. Joseph",
+            "hr": "Kapucinski samostan sv. Josipa"
           },
           "coords": [
             15.0805,
@@ -2129,14 +2199,15 @@
             "de": "Nah an der Bushaltestelle.",
             "hu": "Közel van a buszmegállóhoz.",
             "ro": "Aproape de stația de autobuz.",
-            "en": "Close to the bus stop."
+            "en": "Close to the bus stop.",
+            "hr": "Blizu autobusnog stajališta."
           },
           "tip_5lang": {
             "de": "Die Bushaltestelle Karlobag-Centar liegt 200 Meter unterhalb des Klosters.",
             "hu": "A Karlobag-Centar buszmegálló 200 méterrel a kolostor alatt található.",
             "ro": "Stația de autobuz Karlobag-Centar este la 200 de metri sub mănăstire.",
             "en": "The Karlobag-Centar bus stop is 200 metres below the monastery.",
-            "hr": "Autobusna stanica Karlobag-Centar nalazi se 200 metara ispod samostana."
+            "hr": "Autobusno stajalište Karlobag-Centar nalazi se 200 metara ispod samostana."
           }
         },
         {
@@ -2144,7 +2215,8 @@
             "de": "Kirche St. Karl Borromäus",
             "hu": "Borromeo Szent Károly-templom",
             "ro": "Biserica Sf. Carol Borromeo",
-            "en": "Church of St. Charles Borromeo"
+            "en": "Church of St. Charles Borromeo",
+            "hr": "Crkva sv. Karla Boromejskog"
           },
           "coords": [
             15.0812,
@@ -2159,14 +2231,15 @@
             "de": "Besichtigen Sie das Interieur.",
             "hu": "Tekintse meg a belső teret.",
             "ro": "Vizitați interiorul.",
-            "en": "Visit the interior."
+            "en": "Visit the interior.",
+            "hr": "Posjetite unutrašnjost."
           },
           "tip_5lang": {
             "de": "Sonntags wird der Sonderbus zur Sonntagsmesse von der Pfarrei organisiert.",
             "hu": "Vasárnaponként a plébánia külön buszt szervez a misére.",
             "ro": "Duminica, parohia organizează un autobuz special pentru slujba de duminică.",
             "en": "On Sundays the parish lays on a dedicated shuttle bus to the mass.",
-            "hr": "Nedjeljom župa organizira poseban shuttle bus za misu."
+            "hr": "Nedjeljom župa organizira posebno autobusno povezivanje za misu."
           }
         },
         {
@@ -2174,7 +2247,8 @@
             "de": "Stadtstrand Karlobag",
             "hu": "Karlobag városi strand",
             "ro": "Plaja orașului Karlobag",
-            "en": "Karlobag City Beach"
+            "en": "Karlobag City Beach",
+            "hr": "Gradska plaža Karlobag"
           },
           "coords": [
             15.078,
@@ -2189,14 +2263,15 @@
             "de": "Ideal für einen langen Vormittag am Meer.",
             "hu": "Ideális egy hosszú délelőtthöz a tengernél.",
             "ro": "Ideal pentru o dimineață lungă la mare.",
-            "en": "Ideal for a long morning by the sea."
+            "en": "Ideal for a long morning by the sea.",
+            "hr": "Idealno za dugo jutro uz more."
           },
           "tip_5lang": {
             "de": "Der Stadtbus 1 fährt im Sommer alle 30 Minuten zum Strand.",
             "hu": "Nyáron a városi 1-es busz félóránként jár a strandhoz.",
             "ro": "Vara, autobuzul orașului linia 1 circulă din 30 în 30 de minute spre plajă.",
             "en": "In summer the city's bus 1 runs to the beach every thirty minutes.",
-            "hr": "Ljeti gradski autobus br. 1 vozi do plaže svakih pola sata."
+            "hr": "Ljeti gradski autobus 1 vozi do plaže svakih trideset minuta."
           }
         },
         {
@@ -2204,7 +2279,8 @@
             "de": "Mediterraner Garten Kava",
             "hu": "Kava mediterrán kert",
             "ro": "Grădina mediteraneană Kava",
-            "en": "Kava Mediterranean Garden"
+            "en": "Kava Mediterranean Garden",
+            "hr": "Kava Mediteranski vrt"
           },
           "coords": [
             15.079,
@@ -2219,14 +2295,15 @@
             "de": "Gut zu Fuß erreichbar.",
             "hu": "Gyalogosan jól megközelíthető.",
             "ro": "Ușor accesibil pe jos.",
-            "en": "Easily accessible on foot."
+            "en": "Easily accessible on foot.",
+            "hr": "Lako dostupno pješice."
           },
           "tip_5lang": {
             "de": "Vom Strand zum Garten sind es 4 Minuten zu Fuß entlang der Promenade.",
             "hu": "A strandtól a kertig 4 perces séta a sétány mentén.",
             "ro": "De la plajă până la grădină sunt 4 minute de mers pe faleză.",
             "en": "From the beach, the garden is a four-minute stroll along the promenade.",
-            "hr": "Od plaže do vrta su četiri minute lagane šetnje rivom."
+            "hr": "S plaže je do vrta četiri minute hoda uz šetnicu."
           }
         },
         {
@@ -2234,7 +2311,8 @@
             "de": "Uferpromenade",
             "hu": "Tengerparti sétány",
             "ro": "Faleza",
-            "en": "Waterfront Promenade"
+            "en": "Waterfront Promenade",
+            "hr": "Obalna šetnica"
           },
           "coords": [
             15.08,
@@ -2249,14 +2327,15 @@
             "de": "Warten auf den Bus mit Meerblick.",
             "hu": "Várakozás a buszra tengeri kilátással.",
             "ro": "Așteptarea autobuzului cu vedere la mare.",
-            "en": "Waiting for the bus with sea view."
+            "en": "Waiting for the bus with sea view.",
+            "hr": "Čekanje na autobus s pogledom na more."
           },
           "tip_5lang": {
             "de": "Die letzte Verbindung nach Senj fährt um 20:15, danach nur noch Taxi.",
             "hu": "Az utolsó busz Senj felé 20:15-kor indul, utána már csak taxi marad.",
             "ro": "Ultima cursă spre Senj pleacă la 20:15, după aceea doar taxi.",
             "en": "The last connection toward Senj leaves at 20:15 — taxi only after that.",
-            "hr": "Zadnja veza prema Senju polazi u 20:15 — nakon toga preostaje samo taksi."
+            "hr": "Posljednja veza prema Senju polazi u 20:15 — nakon toga samo taksi."
           }
         }
       ],
@@ -2265,7 +2344,7 @@
         "hu": "Használja ki a parti regionális buszjáratokat. Karlobagba érkezés után a kapucinus kolostor csak néhány lépésre van. Békés kezdés vár Önre.\n\nDélben lazítson a városi strandon, amely gyalogosan kényelmesen elérhető a központból. Élvezze a napsütést és a tiszta vizet, mielőtt megebédelne egy közeli pizzériában.\n\nA délután folyamán látogassa meg a Kava mediterrán kertet. Csodálatos hely a régió botanikai sokféleségének felfedezésére nagyobb erőfeszítés nélkül.\n\nA busz visszaindulása előtt marad idő egy kávéra a tengerparti sétányon. Figyelje a kis kikötő nyüzsgését, és búcsúzzon el Karlobagtól.",
         "ro": "Profită de conexiunile regionale de autobuz de-a lungul coastei. După sosirea în Karlobag, mănăstirea capucinilor este la doar câțiva pași. Vă așteaptă un început de zi liniștit.\n\nLa prânz, relaxați-vă pe plaja orașului, ușor accesibilă pe jos din centrul localității. Bucurați-vă de soare și de apa limpede înainte de a lua prânzul la o pizzerie din apropiere.\n\nDupă-amiaza, vizitați grădina mediteraneană Kava. Este un loc minunat pentru a descoperi diversitatea botanică a regiunii fără prea mult efort.\n\nÎnainte de plecarea cu autobuzul, mai aveți timp pentru o cafea pe faleză. Observați animația din micul port și luați-vă rămas bun de la Karlobag.",
         "en": "Take advantage of the regional bus connections along the coast. After arriving in Karlobag, the Capuchin monastery is just a few steps away. A peaceful start to the day awaits you.\n\nAt noon, relax at the city beach, which is easily accessible on foot from the town center. Enjoy the sun and the clear water before having lunch at a nearby pizzeria.\n\nIn the afternoon, visit the Kava Mediterranean Garden. It is a wonderful place to discover the region's botanical diversity without much effort.\n\nBefore the return trip by bus, you still have time for a coffee on the waterfront promenade. Watch the hustle and bustle at the small harbor and say goodbye to Karlobag.",
-        "hr": "Iskoristite regionalne autobusne veze duž obale. Nakon dolaska u Karlobag, kapucinski samostan udaljen je samo nekoliko koraka. Očekuje vas miran početak dana.\n\nU podne se opustite na gradskoj plaži, koja je lako dostupna pješice iz centra mjesta. Uživajte u suncu i čistom moru prije ručka u obližnjoj pizzeriji.\n\nPoslijepodne posjetite mediteranski vrt Kava. To je prekrasno mjesto za otkrivanje botaničke raznolikosti regije bez prevelikog truda.\n\nPrije povratka autobusom, još imate vremena za kavu na rivi. Promatrajte vrevu u maloj luci i oprostite se od Karlobaga."
+        "hr": "Iskoristite regionalne autobusne veze duž obale. Nakon dolaska u Karlobag, kapucinski samostan udaljen je samo nekoliko koraka. Čeka vas miran početak dana.\n\nU podne se opustite na gradskoj plaži, koja je pješice lako dostupna iz centra. Uživajte u suncu i bistroj vodi prije ručka u obližnjoj pizzeriji.\n\nPoslijepodne posjetite Kava Mediteranski vrt. To je prekrasno mjesto za otkrivanje botaničke raznolikosti regije bez većeg truda.\n\nPrije povratka autobusom još imate vremena za kavu na obalnoj šetnici. Promatrajte užurbanost u maloj luci i oprostite se od Karlobaga."
       },
       "gastro_picks": {
         "de": [
@@ -2396,8 +2475,8 @@
         "hr": [
           "Provjerite aktualni vozni red autobusa online.",
           "Karte se često mogu kupiti kod vozača.",
-          "Stanica se nalazi na glavnoj cesti.",
-          "Manje autobusa vozi izvan sezone."
+          "Stajalište je na glavnoj cesti.",
+          "U predsezoni vozi manje autobusa."
         ]
       },
       "variants": {
@@ -2406,7 +2485,8 @@
             "de": "Nutzen Sie die regionalen Busverbindungen entlang der Küste. Nach der Ankunft in Karlobag ist das Kapuzinerkloster nur wenige Schritte entfernt. Ein friedlicher Start in den Tag erwartet Sie.\n\nMittags entspannen Sie am Stadtstrand, der bequem zu Fuß vom Ortszentrum erreichbar ist. Genießen Sie die Sonne und das klare Wasser, bevor Sie in einer nahegelegenen Pizzeria zu Mittag essen.\n\nNachmittags besuchen Sie den Mediterranen Garten Kava. Es ist ein herrlicher Ort, um die botanische Vielfalt der Region ohne große Anstrengung zu entdecken.\n\nVor der Rückfahrt mit dem Bus haben Sie noch Zeit für einen Kaffee an der Uferpromenade. Beobachten Sie das Treiben am kleinen Hafen und verabschieden Sie sich von Karlobag.",
             "hu": "Használja ki a parti regionális buszjáratokat. Karlobagba érkezés után a kapucinus kolostor csak néhány lépésre van. Békés kezdés vár Önre.\n\nDélben lazítson a városi strandon, amely gyalogosan kényelmesen elérhető a központból. Élvezze a napsütést és a tiszta vizet, mielőtt megebédelne egy közeli pizzériában.\n\nA délután folyamán látogassa meg a Kava mediterrán kertet. Csodálatos hely a régió botanikai sokféleségének felfedezésére nagyobb erőfeszítés nélkül.\n\nA busz visszaindulása előtt marad idő egy kávéra a tengerparti sétányon. Figyelje a kis kikötő nyüzsgését, és búcsúzzon el Karlobagtól.",
             "ro": "Profită de conexiunile regionale de autobuz de-a lungul coastei. După sosirea în Karlobag, mănăstirea capucinilor este la doar câțiva pași. Vă așteaptă un început de zi liniștit.\n\nLa prânz, relaxați-vă pe plaja orașului, ușor accesibilă pe jos din centrul localității. Bucurați-vă de soare și de apa limpede înainte de a lua prânzul la o pizzerie din apropiere.\n\nDupă-amiaza, vizitați grădina mediteraneană Kava. Este un loc minunat pentru a descoperi diversitatea botanică a regiunii fără prea mult efort.\n\nÎnainte de plecarea cu autobuzul, mai aveți timp pentru o cafea pe faleză. Observați animația din micul port și luați-vă rămas bun de la Karlobag.",
-            "en": "Take advantage of the regional bus connections along the coast. After arriving in Karlobag, the Capuchin monastery is just a few steps away. A peaceful start to the day awaits you.\n\nAt noon, relax at the city beach, which is easily accessible on foot from the town center. Enjoy the sun and the clear water before having lunch at a nearby pizzeria.\n\nIn the afternoon, visit the Kava Mediterranean Garden. It is a wonderful place to discover the region's botanical diversity without much effort.\n\nBefore the return trip by bus, you still have time for a coffee on the waterfront promenade. Watch the hustle and bustle at the small harbor and say goodbye to Karlobag."
+            "en": "Take advantage of the regional bus connections along the coast. After arriving in Karlobag, the Capuchin monastery is just a few steps away. A peaceful start to the day awaits you.\n\nAt noon, relax at the city beach, which is easily accessible on foot from the town center. Enjoy the sun and the clear water before having lunch at a nearby pizzeria.\n\nIn the afternoon, visit the Kava Mediterranean Garden. It is a wonderful place to discover the region's botanical diversity without much effort.\n\nBefore the return trip by bus, you still have time for a coffee on the waterfront promenade. Watch the hustle and bustle at the small harbor and say goodbye to Karlobag.",
+            "hr": "Iskoristite regionalne autobusne veze duž obale. Nakon dolaska u Karlobag, kapucinski samostan udaljen je samo nekoliko koraka. Čeka vas miran početak dana.\n\nU podne se opustite na gradskoj plaži, koja je pješice lako dostupna iz centra. Uživajte u suncu i bistroj vodi prije ručka u obližnjoj pizzeriji.\n\nPoslijepodne posjetite Kava Mediteranski vrt. To je prekrasno mjesto za otkrivanje botaničke raznolikosti regije bez većeg truda.\n\nPrije povratka autobusom još imate vremena za kavu na obalnoj šetnici. Promatrajte užurbanost u maloj luci i oprostite se od Karlobaga."
           },
           "stops": [
             {
@@ -2414,7 +2494,8 @@
                 "de": "Kapuzinerkloster St. Joseph",
                 "hu": "Szent József Kapucinus Kolostor",
                 "ro": "Mănăstirea Capucinilor Sf. Iosif",
-                "en": "Capuchin Monastery of St. Joseph"
+                "en": "Capuchin Monastery of St. Joseph",
+                "hr": "Kapucinski samostan sv. Josipa"
               },
               "tip_5lang": null
             },
@@ -2423,7 +2504,8 @@
                 "de": "Kirche St. Karl Borromäus",
                 "hu": "Borromeo Szent Károly-templom",
                 "ro": "Biserica Sf. Carol Borromeo",
-                "en": "Church of St. Charles Borromeo"
+                "en": "Church of St. Charles Borromeo",
+                "hr": "Crkva sv. Karla Boromejskog"
               },
               "tip_5lang": null
             },
@@ -2432,7 +2514,8 @@
                 "de": "Stadtstrand Karlobag",
                 "hu": "Karlobag városi strand",
                 "ro": "Plaja orașului Karlobag",
-                "en": "Karlobag City Beach"
+                "en": "Karlobag City Beach",
+                "hr": "Gradska plaža Karlobag"
               },
               "tip_5lang": null
             },
@@ -2441,7 +2524,8 @@
                 "de": "Mediterraner Garten Kava",
                 "hu": "Kava mediterrán kert",
                 "ro": "Grădina mediteraneană Kava",
-                "en": "Kava Mediterranean Garden"
+                "en": "Kava Mediterranean Garden",
+                "hr": "Kava Mediteranski vrt"
               },
               "tip_5lang": null
             },
@@ -2450,7 +2534,8 @@
                 "de": "Uferpromenade",
                 "hu": "Tengerparti sétány",
                 "ro": "Faleza",
-                "en": "Waterfront Promenade"
+                "en": "Waterfront Promenade",
+                "hr": "Obalna šetnica"
               },
               "tip_5lang": null
             }
@@ -2561,6 +2646,12 @@
               "Tickets can often be bought from the driver.",
               "The stop is on the main road.",
               "Fewer buses run in the off-season."
+            ],
+            "hr": [
+              "Provjerite aktualni vozni red autobusa online.",
+              "Karte se često mogu kupiti kod vozača.",
+              "Stajalište je na glavnoj cesti.",
+              "U predsezoni vozi manje autobusa."
             ]
           }
         },
@@ -2570,7 +2661,7 @@
             "hu": "Délelőtt a helyi buszt választjuk a kolostorhoz, hogy szárazon maradjunk. Délben a Szent Károly Borromeo templomhoz utazunk, a várakozási időt fedél alatt töltve.\nDélután a tranzit elvisz a városi strandra, ahol egy kávézó ablakából figyeljük az esőt. Este busszal térünk vissza a sétányhoz, miközben a víz patakokban folyik le az üvegen.",
             "ro": "Dimineața folosim autobuzul local spre mănăstire pentru a rămâne uscați. La prânz mergem spre Biserica Sf. Carol Borromeo, așteptând sub copertine.\nDupă-amiaza, transportul ne duce la plaja orașului, unde observăm vremea dintr-o cafenea. Seara revenim cu autobuzul la faleză, în timp ce ploaia bate în geamuri.",
             "en": "Morning starts with a local bus ride to the monastery to avoid the rain. By noon, we head to the Church of St. Charles Borromeo, waiting for connections under cover.\nIn the afternoon, transit takes us to the city beach, where we watch the rain from a seaside cafe. The evening bus return to the promenade is cozy despite the storm outside.",
-            "hr": "Jutro počinje vožnjom lokalnim autobusom do samostana kako bismo izbjegli kišu. Do podneva krećemo prema crkvi sv. Karla Boromejskog, čekajući veze pod krovom.\nPoslijepodne nas prijevoz vodi do gradske plaže, gdje promatramo kišu iz obalnog kafića. Večernji povratak autobusom je ugodan unatoč nevremenu vani."
+            "hr": "Jutro počinje lokalnim autobusom do samostana kako bismo izbjegli kišu. Do podneva odlazimo do Crkve sv. Karla Boromejskog i čekamo veze na zaklonu.\nPoslijepodne nas tranzit vodi do gradske plaže, gdje promatramo kišu iz kafića na obali. Povratak autobusom na šetnicu navečer je ugodan unatoč oluji vani."
           },
           "stops": [
             {
@@ -2580,7 +2671,7 @@
                 "hu": "A buszmegálló mindössze pár perc sétára található a kolostortól.",
                 "ro": "Stația de autobuz este la doar câteva minute de mers pe jos de mănăstire.",
                 "en": "The bus stop is located just a few minutes' walk from the monastery entrance.",
-                "hr": "Autobusna stanica nalazi se na samo nekoliko minuta hoda od ulaza u samostan."
+                "hr": "Autobusno stajalište nalazi se samo nekoliko minuta hoda od ulaza u samostan."
               }
             },
             {
@@ -2590,7 +2681,7 @@
                 "hu": "Használja a templom bejáratát eső elleni védelemként a buszra várva.",
                 "ro": "Folosiți intrarea bisericii ca adăpost în timp ce așteptați autobuzul.",
                 "en": "Use the church entrance as a rain shelter while waiting for your connection.",
-                "hr": "Koristite ulaz u crkvu kao zaklon od kiše dok čekate svoju vezu."
+                "hr": "Iskoristite ulaz u crkvu kao zaklon od kiše dok čekate vezu."
               }
             },
             {
@@ -2610,7 +2701,7 @@
                 "hu": "Egy kis esernyő szükséges a megálló és a kert közötti rövid távhoz.",
                 "ro": "O umbrelă mică este necesară pentru drumul de la stație până la grădină.",
                 "en": "A small umbrella is needed for the short walk from the stop to the garden.",
-                "hr": "Mali kišobran je potreban za kratku šetnju od stanice do vrta."
+                "hr": "Mali kišobran potreban je za kratak hod od stajališta do vrta."
               }
             },
             {
@@ -2620,7 +2711,7 @@
                 "hu": "A központi megálló jó kiindulópont a közeli fedett vendéglátóhelyekhez.",
                 "ro": "Stația centrală este un punct bun de plecare spre restaurantele acoperite.",
                 "en": "The central stop is a great starting point for finding nearby indoor eateries.",
-                "hr": "Centralna stanica je izvrsna polazna točka za pronalaženje obližnjih zatvorenih zalogajnica."
+                "hr": "Centralno stajalište je odlično polazište za pronalazak obližnjih zatvorenih ugostiteljskih objekata."
               }
             }
           ],
@@ -2650,10 +2741,10 @@
               "Carry a small towel to wipe down damp seats when boarding the bus."
             ],
             "hr": [
-              "Pripremite sitniš za autobusnu kartu kako biste skratili vrijeme na kiši.",
-              "Čekajte u kafićima blizu stanica ako autobus kasni zbog vremenskih uvjeta.",
-              "Vozni redovi mogu biti podložni kratkoročnim promjenama tijekom nevremena.",
-              "Ponesite mali ručnik kako biste obrisali vlažna sjedala pri ulasku u autobus."
+              "Imajte sitniš spreman za autobusnu kartu kako biste smanjili vrijeme provedeno na kiši.",
+              "Ako autobus kasni zbog vremenskih uvjeta, pričekajte u kafićima blizu stajališta.",
+              "Vozni redovi mogu biti podložni kratkoročnim izmjenama tijekom teškog vremena.",
+              "Ponesite mali ručnik za obrisati vlažna sjedala pri ulasku u autobus."
             ]
           }
         },
@@ -2663,7 +2754,7 @@
             "hu": "A téli reggel meleg buszozással indul a kolostorig. Délben a Szent Károly Borromeo templomhoz érkezünk, élvezve a holtszezon nyugalmát.\nDélután a tranzit elvisz a városi strandra egy rövid, frissítő sétára a hidegben. Este gyorsan visszatérünk a busszal, mielőtt a hőmérséklet drasztikusan visszaesne.",
             "ro": "Dimineața de iarnă începe cu o călătorie caldă cu autobuzul spre mănăstire. La prânz ajungem la Biserica Sf. Carol Borromeo, profitând de liniștea sezonului.\nDupă-amiaza, transportul ne lasă la plaja orașului pentru o scurtă plimbare revigorantă. Seara ne întoarcem rapid cu autobuzul, înainte ca gerul să se lase după apus.",
             "en": "Winter morning starts with a heated bus ride to the monastery. By noon, we reach the Church of St. Charles Borromeo, enjoying the peaceful off-season vibe.\nIn the afternoon, transit takes us to the city beach for a brisk walk in the crisp air. The evening return is timed carefully to beat the post-sunset temperature drop.",
-            "hr": "Zimsko jutro počinje vožnjom u zagrijanom autobusu do samostana. Do podneva stižemo do crkve sv. Karla Boromejskog, uživajući u mirnoj izvansezonskoj atmosferi.\nPoslijepodne nas prijevoz vodi do gradske plaže na brzu šetnju na svježem zraku. Večernji povratak pažljivo je tempiran kako bismo izbjegli pad temperature nakon zalaska sunca."
+            "hr": "Zimsko jutro počinje grijanom vožnjom autobusom do samostana. Do podneva stižemo do Crkve sv. Karla Boromejskog i uživamo u mirnoj izvansezonskoj atmosferi.\nPoslijepodne tranzit nas vodi do gradske plaže na osvježavajuću šetnju u svježem zraku. Povratak navečer pažljivo tempiramo da bismo izbjegli pad temperature nakon zalaska sunca."
           },
           "stops": [
             {
@@ -2673,7 +2764,7 @@
                 "hu": "Használja a téli menetrendet, mert ilyenkor ritkábban járnak a buszok.",
                 "ro": "Consultați programul de iarnă, sunt mai puține curse decât în timpul verii.",
                 "en": "Be sure to check the winter schedule as there are fewer buses than in summer.",
-                "hr": "Obavezno provjerite zimski vozni red jer ima manje autobusa nego ljeti."
+                "hr": "Provjerite zimski vozni red jer zimi vozi manje autobusa nego ljeti."
               }
             },
             {
@@ -2683,7 +2774,7 @@
                 "hu": "A templom belső tere szélvédett menedéket nyújt a várakozás alatt.",
                 "ro": "Interiorul bisericii oferă un refugiu protejat de vântul tăios.",
                 "en": "The church interior provides a sheltered spot protected from the wind chill.",
-                "hr": "Unutrašnjost crkve pruža zaklonjeno mjesto zaštićeno od hladnoće vjetra."
+                "hr": "Unutrašnjost crkve pruža zaklon zaštićen od hladnog vjetra."
               }
             },
             {
@@ -2693,7 +2784,7 @@
                 "hu": "Maradjon mozgásban, miközben a következő busz érkezésére vár.",
                 "ro": "Rămâneți în mișcare în timp ce așteptați următorul autobuz pe mal.",
                 "en": "Keep moving to stay warm while waiting for the next bus connection.",
-                "hr": "Ostanite u pokretu kako biste se ugrijali dok čekate sljedeću autobusnu vezu."
+                "hr": "Krećite se da ostanete topli dok čekate sljedeću autobusnu vezu."
               }
             },
             {
@@ -2703,7 +2794,7 @@
                 "hu": "Ügyeljen az időre; télen az utolsó járatok korábban indulhatnak.",
                 "ro": "Atenție la oră; ultimele curse de iarnă pot pleca mai devreme.",
                 "en": "Watch the time; the last buses of the day may depart earlier in winter.",
-                "hr": "Pazite na vrijeme; posljednji autobusi u danu mogu zimi kretati ranije."
+                "hr": "Pazite na vrijeme; posljednji autobusi tijekom zime mogu polaziti ranije."
               }
             },
             {
@@ -2713,7 +2804,7 @@
                 "hu": "Meleg öltözet szükséges, mert a megállók télen nagyon huzatosak.",
                 "ro": "Hainele groase sunt vitale, stațiile pot fi foarte expuse vântului.",
                 "en": "Warm clothing is vital as bus stops can be very drafty during winter.",
-                "hr": "Topla odjeća je vitalna jer na autobusnim stanicama zimi može biti vrlo propuh."
+                "hr": "Topla odjeća je ključna jer stajališta mogu biti vrlo propusna za hladnoću tijekom zime."
               }
             }
           ],
@@ -2744,9 +2835,9 @@
             ],
             "hr": [
               "Provjerite 'Zimski vozni red' posebno za Karlobag.",
-              "Odjenite se vrlo toplo jer čekanje na obalnim stanicama može biti izuzetno hladno.",
-              "Jaka bura povremeno može dovesti do ograničenja u autobusnom prometu.",
-              "Iskoristite svako vrijeme čekanja za topli čaj u obližnjem kafiću."
+              "Obucite se vrlo toplo jer čekanje na obalnim stajalištima može biti izuzetno hladno.",
+              "Jaka bura ponekad može dovesti do ograničenja autobusne službe.",
+              "Iskoristite vrijeme čekanja za brz topli čaj u obližnjem kafiću."
             ]
           }
         }
@@ -2781,7 +2872,7 @@
     "bus_transport": {
       "url": "https://www.arriva.com.hr/hr-hr/naslovna",
       "label": {
-        "hr": "Arriva Hrvatska",
+        "hr": "Arriva Croatia",
         "de": "Arriva Kroatien",
         "hu": "Arriva Horvátország",
         "en": "Arriva Croatia"

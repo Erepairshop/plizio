@@ -21,7 +21,8 @@
             "de": "Pile-Tor",
             "hu": "Pile-kapu",
             "ro": "Poarta Pile",
-            "en": "Pile Gate"
+            "en": "Pile Gate",
+            "hr": "Kopnena vrata"
           },
           "coords": [
             18.1064,
@@ -36,7 +37,8 @@
             "de": "Haupteingang zur Altstadt, idealer Treffpunkt.",
             "hu": "Az óváros főbejárata, tökéletes találkozópont.",
             "ro": "Intrarea principală în orașul vechi, punct de întâlnire ideal.",
-            "en": "Main entrance to the Old Town, ideal meeting point."
+            "en": "Main entrance to the Old Town, ideal meeting point.",
+            "hr": "Glavni ulaz u Stari grad, idealno mjesto susreta."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Stradun",
             "hu": "Stradun",
             "ro": "Stradun",
-            "en": "Stradun"
+            "en": "Stradun",
+            "hr": "Stradun"
           },
           "coords": [
             18.1084,
@@ -59,7 +62,8 @@
             "de": "Die Hauptschlagader der Stadt mit glänzendem Stein.",
             "hu": "A város fő ütőere csillogó mészkővel burkolva.",
             "ro": "Principala arteră a orașului cu piatră lucioasă.",
-            "en": "The main artery of the city with gleaming limestone."
+            "en": "The main artery of the city with gleaming limestone.",
+            "hr": "Glavna arterija grada s sjajnim vapnencem."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Stadtmauern von Dubrovnik",
             "hu": "Dubrovniki városfalak",
             "ro": "Zidurile cetății Dubrovnik",
-            "en": "Dubrovnik City Walls"
+            "en": "Dubrovnik City Walls",
+            "hr": "Zidine grada Dubrovnika"
           },
           "coords": [
             18.1077,
@@ -82,7 +87,8 @@
             "de": "Ein Rundgang bietet den besten Blick auf die Adria.",
             "hu": "A teljes körút az Adria legszebb panorámáját nyújtja.",
             "ro": "Un tur complet oferă cele mai bune priveliști ale Adriaticii.",
-            "en": "A full circuit offers the best Adriatic panoramas."
+            "en": "A full circuit offers the best Adriatic panoramas.",
+            "hr": "Cijela tura nudi najbolje jadranske panorame."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Kathedrale von Dubrovnik",
             "hu": "Dubrovniki katedrális",
             "ro": "Catedrala din Dubrovnik",
-            "en": "Dubrovnik Cathedral"
+            "en": "Dubrovnik Cathedral",
+            "hr": "Dubrovnička katedrala"
           },
           "coords": [
             18.1104,
@@ -105,7 +112,8 @@
             "de": "Bewundern Sie die Schatzkammer mit Goldreliquien.",
             "hu": "Csodálja meg a kincstárat az arany ereklyékkel.",
             "ro": "Admirați tezaurul cu relicve din aur.",
-            "en": "Admire the treasury with its golden relics."
+            "en": "Admire the treasury with its golden relics.",
+            "hr": "Divite se riznici s njezinim zlatnim relikvijama."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Rektorenpalast",
             "hu": "Rektori palota",
             "ro": "Palatul Rectorului",
-            "en": "Rector's Palace"
+            "en": "Rector's Palace",
+            "hr": "Knežev dvor"
           },
           "coords": [
             18.1107,
@@ -128,7 +137,8 @@
             "de": "Erfahren Sie mehr über die Geschichte der Republik Ragusa.",
             "hu": "Ismerje meg a Raguzai Köztársaság gazdag történelmét.",
             "ro": "Aflați mai multe despre istoria Republicii Ragusa.",
-            "en": "Learn more about the history of the Republic of Ragusa."
+            "en": "Learn more about the history of the Republic of Ragusa.",
+            "hr": "Saznajte više o povijesti Republike Dubrovačke."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Alter Hafen",
             "hu": "Régi kikötő",
             "ro": "Portul Vechi",
-            "en": "Old Harbor"
+            "en": "Old Harbor",
+            "hr": "Stara luka"
           },
           "coords": [
             18.1118,
@@ -151,7 +162,8 @@
             "de": "Perfekt für eine Pause bei einer Meeresbrise.",
             "hu": "Tökéletes hely egy kis pihenőre a tengeri szellőben.",
             "ro": "Perfect pentru o pauză cu briză marină.",
-            "en": "Perfect for a break with a sea breeze."
+            "en": "Perfect for a break with a sea breeze.",
+            "hr": "Savršeno za predah uz morski povjetarac."
           }
         },
         {
@@ -159,7 +171,8 @@
             "de": "Banje Strand",
             "hu": "Banje strand",
             "ro": "Plaja Banje",
-            "en": "Banje Beach"
+            "en": "Banje Beach",
+            "hr": "Plaža Banje"
           },
           "coords": [
             18.1158,
@@ -174,7 +187,8 @@
             "de": "Baden mit Blick auf die Stadtmauern.",
             "hu": "Fürdőzzön közvetlenül a városfalak árnyékában.",
             "ro": "Băiți-vă cu vedere la zidurile cetății.",
-            "en": "Swim with a direct view of the city walls."
+            "en": "Swim with a direct view of the city walls.",
+            "hr": "Kupajte se s izravnim pogledom na gradske zidine."
           }
         },
         {
@@ -182,7 +196,8 @@
             "de": "Lovrijenac Festung",
             "hu": "Lovrijenac erőd",
             "ro": "Fortăreața Lovrijenac",
-            "en": "Lovrijenac Fortress"
+            "en": "Lovrijenac Fortress",
+            "hr": "Tvrđava Lovrijenac"
           },
           "coords": [
             18.1044,
@@ -197,7 +212,8 @@
             "de": "Der 'Gibraltar von Dubrovnik' zum Sonnenuntergang.",
             "hu": "Dubrovnik 'Gibraltárja' a naplementében.",
             "ro": "'Gibraltarul din Dubrovnik' la apus.",
-            "en": "The 'Gibraltar of Dubrovnik' at sunset."
+            "en": "The 'Gibraltar of Dubrovnik' at sunset.",
+            "hr": "\"Gibraltar Dubrovnika\" pri zalasku sunca."
           }
         }
       ],
@@ -205,7 +221,8 @@
         "de": "Beginnen Sie Ihren Tag am majestätischen Pile-Tor und schlendern Sie über den Stradun, bevor Sie die massiven Stadtmauern für einen Panoramablick erklimmen. Mittags erkunden Sie die sakralen Schätze der Kathedrale und des Rektorenpalastes. Nachmittags entspannen Sie am Alten Hafen und dem Banje-Strand, bevor Sie den Tag auf der Festung Lovrijenac ausklingen lassen.",
         "hu": "Kezdje a napot a fenséges Pile-kapunál, sétáljon végig a Stradunon, majd másszon fel a hatalmas városfalakra a panorámáért. Délben fedezze fel a katedrális és a Rektori palota kincseit. Délután lazítson a Régi kikötőben és a Banje strandon, végül zárja a napot a Lovrijenac erőd látványával.",
         "ro": "Începeți ziua la maiestuoasa Poartă Pile, plimbați-vă pe Stradun înainte de a urca pe zidurile masive pentru o vedere panoramică. La prânz, explorați tezaurul catedralei și Palatul Rectorului. După-amiaza relaxați-vă în Portul Vechi și pe plaja Banje, apoi încheiați ziua la fortăreața Lovrijenac.",
-        "en": "Start your day at the majestic Pile Gate, stroll down Stradun, and climb the massive walls for a panoramic view. Midday, explore the treasures of the Cathedral and Rector's Palace. In the afternoon, relax at the Old Harbor and Banje Beach, before ending your day at the scenic Lovrijenac Fortress."
+        "en": "Start your day at the majestic Pile Gate, stroll down Stradun, and climb the massive walls for a panoramic view. Midday, explore the treasures of the Cathedral and Rector's Palace. In the afternoon, relax at the Old Harbor and Banje Beach, before ending your day at the scenic Lovrijenac Fortress.",
+        "hr": "Započnite dan na veličanstvenim Kopnenim vratima, prošećite Stradunom i popnite se na masivne zidine za panoramski pogled. U podne istražite blaga Katedrale i Kneževog dvora. Poslijepodne se opustite u Staroj luci i na plaži Banje, prije nego završite dan na slikovitom Lovrijencu."
       },
       "gastro_picks": {
         "de": [
@@ -305,6 +322,10 @@
         "en": [
           "Wear comfortable shoes for the city walls walk.",
           "Get a Dubrovnik Pass for free entrance to sights."
+        ],
+        "hr": [
+          "Nosite udobnu obuću za šetnju po gradskim zidinama.",
+          "Nabavite Dubrovnik Pass za besplatan ulaz na atrakcije."
         ]
       }
     },
@@ -321,7 +342,8 @@
             "de": "Lapad Bucht",
             "hu": "Lapad-öböl",
             "ro": "Golful Lapad",
-            "en": "Lapad Bay"
+            "en": "Lapad Bay",
+            "hr": "Uvala Lapad"
           },
           "coords": [
             18.0722,
@@ -336,7 +358,8 @@
             "de": "Schöner Radweg entlang der Promenade.",
             "hu": "Gyönyörű kerékpárút a sétány mentén.",
             "ro": "Pistă de biciclete frumoasă de-a lungul falezei.",
-            "en": "Beautiful cycling path along the promenade."
+            "en": "Beautiful cycling path along the promenade.",
+            "hr": "Prekrasna biciklistička staza uz šetnicu."
           }
         },
         {
@@ -344,7 +367,8 @@
             "de": "Petka Hügel",
             "hu": "Petka-domb",
             "ro": "Dealul Petka",
-            "en": "Petka Hill"
+            "en": "Petka Hill",
+            "hr": "Brdo Petka"
           },
           "coords": [
             18.0672,
@@ -359,7 +383,8 @@
             "de": "Schattige Wege durch den Pinienwald.",
             "hu": "Árnyas utak a fenyőerdőn keresztül.",
             "ro": "Poteci umbrite prin pădurea de pini.",
-            "en": "Shaded paths through the pine forest."
+            "en": "Shaded paths through the pine forest.",
+            "hr": "Sjenoviti putovi kroz borovu šumu."
           }
         },
         {
@@ -367,7 +392,8 @@
             "de": "Yachthafen Dubrovnik",
             "hu": "Dubrovniki jachtkikötő",
             "ro": "Marina Dubrovnik",
-            "en": "Dubrovnik Marina"
+            "en": "Dubrovnik Marina",
+            "hr": "Marina Dubrovnik"
           },
           "coords": [
             18.1258,
@@ -382,7 +408,8 @@
             "de": "Flache Strecke entlang des Flusses Ombla.",
             "hu": "Lapos szakasz az Ombla-folyó mentén.",
             "ro": "Traseu plat de-a lungul râului Ombla.",
-            "en": "Flat section along the Ombla river."
+            "en": "Flat section along the Ombla river.",
+            "hr": "Ravan dio uz rijeku Ombla."
           }
         },
         {
@@ -390,7 +417,8 @@
             "de": "Quelle der Ombla",
             "hu": "Ombla-forrás",
             "ro": "Izvorul Ombla",
-            "en": "Ombla Spring"
+            "en": "Ombla Spring",
+            "hr": "Izvor Omble"
           },
           "coords": [
             18.1352,
@@ -405,7 +433,8 @@
             "de": "Kürzester Fluss der Welt mit frischem Wasser.",
             "hu": "A világ legrövidebb folyója friss vízzel.",
             "ro": "Cel mai scurt râu din lume cu apă proaspătă.",
-            "en": "World's shortest river with fresh water."
+            "en": "World's shortest river with fresh water.",
+            "hr": "Najkraća rijeka na svijetu s pitkom vodom."
           }
         },
         {
@@ -413,7 +442,8 @@
             "de": "Gruž Markt",
             "hu": "Gruž piac",
             "ro": "Piața Gruž",
-            "en": "Gruž Market"
+            "en": "Gruž Market",
+            "hr": "Gruž Market"
           },
           "coords": [
             18.0858,
@@ -428,7 +458,8 @@
             "de": "Holen Sie sich frisches Obst für die Tour.",
             "hu": "Vegyünk friss gyümölcsöt az útra.",
             "ro": "Luați fructe proaspete pentru tur.",
-            "en": "Get fresh fruit for the trip."
+            "en": "Get fresh fruit for the trip.",
+            "hr": "Kupite svježe voće za izlet."
           }
         },
         {
@@ -436,7 +467,8 @@
             "de": "Sveti Jakov Strand",
             "hu": "Sveti Jakov strand",
             "ro": "Plaja Sveti Jakov",
-            "en": "Sveti Jakov Beach"
+            "en": "Sveti Jakov Beach",
+            "hr": "Plaža Sv. Jakov"
           },
           "coords": [
             18.1284,
@@ -451,7 +483,8 @@
             "de": "Ein etwas abgelegener Strand mit toller Aussicht.",
             "hu": "Kicsit távolabbi strand pazar kilátással.",
             "ro": "O plajă retrasă cu o vedere superbă.",
-            "en": "A slightly remote beach with a great view."
+            "en": "A slightly remote beach with a great view.",
+            "hr": "Pomalo udaljena plaža s izvrsnim pogledom."
           }
         }
       ],
@@ -459,7 +492,8 @@
         "de": "Erkunden Sie die Umgebung von Dubrovnik mit dem Fahrrad. Starten Sie in der Lapad-Bucht und radeln Sie durch die Pinienwälder des Petka-Hügels. Folgen Sie der Ombla bis zu ihrer Quelle und besuchen Sie den lokalen Markt in Gruž. Beenden Sie den Tag am malerischen Sveti Jakov Strand.",
         "hu": "Fedezze fel Dubrovnik környékét kerékpárral. Kezdjen a Lapad-öbölben, tekerjen át a Petka-domb fenyőerdőin. Kövesse az Ombla-folyót a forrásáig, és látogassa meg a gruži piacot. Zárja a napot a festői Sveti Jakov strandon.",
         "ro": "Explorați împrejurimile Dubrovnikului cu bicicleta. Începeți în golful Lapad și pedalați prin pădurea de pini a dealului Petka. Urmați râul Ombla până la izvor și vizitați piața din Gruž. Încheiați ziua pe pitoreasca plajă Sveti Jakov.",
-        "en": "Explore Dubrovnik's surroundings by bike. Start in Lapad Bay and cycle through the pine forests of Petka Hill. Follow the Ombla river to its source and visit the local market in Gruž. End the day at the scenic Sveti Jakov Beach."
+        "en": "Explore Dubrovnik's surroundings by bike. Start in Lapad Bay and cycle through the pine forests of Petka Hill. Follow the Ombla river to its source and visit the local market in Gruž. End the day at the scenic Sveti Jakov Beach.",
+        "hr": "Istražite okolinu Dubrovnika biciklom. Počnite u uvali Lapad i vozite kroz borove šume brda Petka. Slijedite rijeku Ombla do izvora i posjetite lokalnu tržnicu u Gružu. Dan završite na slikovitoj plaži Sv. Jakov."
       },
       "gastro_picks": {
         "de": [
@@ -559,6 +593,10 @@
         "en": [
           "The path to Ombla is flat and easy.",
           "Rent e-bikes for the hills around Lapad."
+        ],
+        "hr": [
+          "Put do Omble je ravan i lak.",
+          "Iznajmite električne bicikle za brežuljke oko Lapada."
         ]
       }
     },
@@ -575,7 +613,8 @@
             "de": "Berg Srđ",
             "hu": "Srđ-hegy",
             "ro": "Muntele Srđ",
-            "en": "Mount Srđ"
+            "en": "Mount Srđ",
+            "hr": "Planina Srđ"
           },
           "coords": [
             18.1114,
@@ -590,7 +629,8 @@
             "de": "Die beste Aussicht auf ganz Dubrovnik.",
             "hu": "A legjobb kilátás egész Dubrovnikra.",
             "ro": "Cea mai bună vedere asupra întregului Dubrovnik.",
-            "en": "The best view over the entire city of Dubrovnik."
+            "en": "The best view over the entire city of Dubrovnik.",
+            "hr": "Najbolji pogled na cijeli grad Dubrovnik."
           }
         },
         {
@@ -598,7 +638,8 @@
             "de": "Heimatkriegs-Museum",
             "hu": "Honvédő Háború Múzeuma",
             "ro": "Muzeul Războiului de Independență",
-            "en": "Homeland War Museum"
+            "en": "Homeland War Museum",
+            "hr": "Muzej domovinskog rata"
           },
           "coords": [
             18.1111,
@@ -613,7 +654,8 @@
             "de": "In der kaiserlichen Festung auf dem Berg Srđ.",
             "hu": "A Srđ-hegyi császári erődben található.",
             "ro": "Situat în fortăreața imperială de pe muntele Srđ.",
-            "en": "Located inside the Imperial Fortress on Mt. Srđ."
+            "en": "Located inside the Imperial Fortress on Mt. Srđ.",
+            "hr": "Smešten u Imperijalnoj tvrđavi na brdu Srđ."
           }
         },
         {
@@ -621,7 +663,8 @@
             "de": "Trsteno Arboretum",
             "hu": "Trstenói Arborétum",
             "ro": "Arboretum Trsteno",
-            "en": "Trsteno Arboretum"
+            "en": "Trsteno Arboretum",
+            "hr": "Arboretum Trsteno"
           },
           "coords": [
             17.9772,
@@ -636,7 +679,8 @@
             "de": "Ein Drehort von Game of Thrones.",
             "hu": "A Trónok harca egyik forgatási helyszíne.",
             "ro": "Un loc de filmare pentru Game of Thrones.",
-            "en": "A filming location for Game of Thrones."
+            "en": "A filming location for Game of Thrones.",
+            "hr": "Mjesto snimanja serije Igra prijestolja."
           }
         },
         {
@@ -644,7 +688,8 @@
             "de": "450-jährige Platane",
             "hu": "450 éves platánfák",
             "ro": "Platani de 450 de ani",
-            "en": "450-year-old Plane Trees"
+            "en": "450-year-old Plane Trees",
+            "hr": "450 godina stara platana"
           },
           "coords": [
             17.9785,
@@ -659,7 +704,8 @@
             "de": "Riesige Monumente der Natur im Zentrum von Trsteno.",
             "hu": "Hatalmas természeti emlékművek Trsteno központjában.",
             "ro": "Monumente gigantice ale naturii în centrul orașului Trsteno.",
-            "en": "Giant natural monuments in the center of Trsteno."
+            "en": "Giant natural monuments in the center of Trsteno.",
+            "hr": "Ogromni prirodni spomenici u centru Trstena."
           }
         },
         {
@@ -667,7 +713,8 @@
             "de": "Cavtat Altstadt",
             "hu": "Cavtat óvárosa",
             "ro": "Orașul vechi Cavtat",
-            "en": "Cavtat Old Town"
+            "en": "Cavtat Old Town",
+            "hr": "Stari grad Cavtat"
           },
           "coords": [
             18.2131,
@@ -682,7 +729,8 @@
             "de": "Entspannte Atmosphäre und schöne Uferpromenade.",
             "hu": "Nyugodt hangulat és szép tengerparti sétány.",
             "ro": "Atmosferă relaxată și faleză frumoasă.",
-            "en": "Relaxed atmosphere and beautiful waterfront promenade."
+            "en": "Relaxed atmosphere and beautiful waterfront promenade.",
+            "hr": "Opustena atmosfera i prekrasna šetnica uz more."
           }
         },
         {
@@ -690,7 +738,8 @@
             "de": "Meštrović-Mausoleum",
             "hu": "Meštrović-mauzóleum",
             "ro": "Mausoleul Meštrović",
-            "en": "Meštrović Mausoleum"
+            "en": "Meštrović Mausoleum",
+            "hr": "Meštrovićev mauzolej"
           },
           "coords": [
             18.2144,
@@ -705,7 +754,8 @@
             "de": "Ein Meisterwerk auf dem Hügel von Cavtat.",
             "hu": "Egy remekmű Cavtat dombtetőjén.",
             "ro": "O capodoperă pe dealul din Cavtat.",
-            "en": "A masterpiece on the hilltop of Cavtat."
+            "en": "A masterpiece on the hilltop of Cavtat.",
+            "hr": "Remek-djelo na vrhu brežuljka Cavtata."
           }
         },
         {
@@ -713,7 +763,8 @@
             "de": "Pasjača Strand",
             "hu": "Pasjača strand",
             "ro": "Plaja Pasjača",
-            "en": "Pasjača Beach"
+            "en": "Pasjača Beach",
+            "hr": "Plaža Pasjača"
           },
           "coords": [
             18.2406,
@@ -728,7 +779,8 @@
             "de": "Einer der spektakulärsten Strände der Region.",
             "hu": "A régió egyik leglátványosabb strandja.",
             "ro": "Una dintre cele mai spectaculoase plaje din regiune.",
-            "en": "One of the most spectacular beaches in the region."
+            "en": "One of the most spectacular beaches in the region.",
+            "hr": "Jedna od najspektakularnijih plaža u regiji."
           }
         }
       ],
@@ -736,7 +788,8 @@
         "de": "Diese Autotour kombiniert atemberaubende Ausblicke mit historischer Natur. Fahren Sie zuerst zum Berg Srđ für das beste Panorama. Danach besuchen Sie das berühmte Arboretum in Trsteno. Den Nachmittag verbringen Sie im charmanten Cavtat und beenden den Tag am versteckten Juwel, dem Pasjača-Strand.",
         "hu": "Ez az autós túra lenyűgöző kilátást és történelmi természetet kínál. Menjen fel először a Srđ-hegyre a panorámáért. Ezután látogasson el a híres Trstenói Arborétumba. A délutánt töltse a bájos Cavtatban, és fejezze be a napot a rejtett gyöngyszemnél, a Pasjača strandon.",
         "ro": "Acest tur auto combină vederi uluitoare cu natura istorică. Mergeți mai întâi pe muntele Srđ pentru cea mai bună panoramă. Apoi vizitați faimosul Arboretum din Trsteno. Petreceți după-amiaza în fermecătorul Cavtat și încheiați ziua la bijuteria ascunsă, plaja Pasjača.",
-        "en": "This car tour combines breathtaking views with historic nature. First, drive up to Mt. Srđ for the best panorama. Then visit the famous Arboretum in Trsteno. Spend the afternoon in charming Cavtat and end the day at the hidden gem, Pasjača Beach."
+        "en": "This car tour combines breathtaking views with historic nature. First, drive up to Mt. Srđ for the best panorama. Then visit the famous Arboretum in Trsteno. Spend the afternoon in charming Cavtat and end the day at the hidden gem, Pasjača Beach.",
+        "hr": "Ova auto tura spaja zapanjujuće vidike s poviješnom prirodom. Najprije se vozite do brda Srđ za najbolju panoramu. Zatim posjetite poznati Arboretum u Trstenu. Poslijepodne provedite u šarmantnom Cavtatu i dan završite na skrivenom dragulju, plaži Pasjača."
       },
       "gastro_picks": {
         "de": [
@@ -836,6 +889,10 @@
         "en": [
           "The road to Mt. Srđ is narrow, drive carefully.",
           "Park at the entrance of Cavtat town."
+        ],
+        "hr": [
+          "Cesta prema brdu Srđ je uska, vozite oprezno.",
+          "Parkirajte na ulazu u grad Cavtat."
         ]
       }
     },
@@ -852,7 +909,8 @@
             "de": "Altstadt (Haupttor)",
             "hu": "Óváros (Főkapu)",
             "ro": "Orașul Vechi (Poarta Principală)",
-            "en": "Old Town (Main Gate)"
+            "en": "Old Town (Main Gate)",
+            "hr": "Stari grad (Glavna vrata)"
           },
           "coords": [
             18.1064,
@@ -867,7 +925,8 @@
             "de": "Buslinie 1 oder 6 vom Hafen Gruž.",
             "hu": "1-es vagy 6-os busz a gruži kikötőtől.",
             "ro": "Linia 1 sau 6 de la portul Gruž.",
-            "en": "Bus line 1 or 6 from Gruž harbor."
+            "en": "Bus line 1 or 6 from Gruž harbor.",
+            "hr": "Autobus linije 1 ili 6 iz luke Gruž."
           }
         },
         {
@@ -875,7 +934,8 @@
             "de": "Franziskanerkloster",
             "hu": "Ferences kolostor",
             "ro": "Mănăstirea Franciscană",
-            "en": "Franciscan Monastery"
+            "en": "Franciscan Monastery",
+            "hr": "Franjevački samostan"
           },
           "coords": [
             18.1077,
@@ -890,7 +950,8 @@
             "de": "Besuchen Sie eine der ältesten Apotheken Europas.",
             "hu": "Látogassa meg Európa egyik legrégebbi patikáját.",
             "ro": "Vizitați una dintre cele mai vechi farmacii din Europa.",
-            "en": "Visit one of the oldest pharmacies in Europe."
+            "en": "Visit one of the oldest pharmacies in Europe.",
+            "hr": "Posjetite jednu od najstarijih apoteka u Europi."
           }
         },
         {
@@ -898,7 +959,8 @@
             "de": "Lapad Strand",
             "hu": "Lapad strand",
             "ro": "Plaja Lapad",
-            "en": "Lapad Beach"
+            "en": "Lapad Beach",
+            "hr": "Plaža Lapad"
           },
           "coords": [
             18.0697,
@@ -913,7 +975,8 @@
             "de": "Buslinie 4 direkt zur Bucht.",
             "hu": "4-es busz közvetlenül az öbölhöz.",
             "ro": "Linia 4 direct către golf.",
-            "en": "Bus line 4 directly to the bay."
+            "en": "Bus line 4 directly to the bay.",
+            "hr": "Autobus linije 4 izravno do uvale."
           }
         },
         {
@@ -921,7 +984,8 @@
             "de": "Promenade von Lapad",
             "hu": "Lapadi sétány",
             "ro": "Promenada Lapad",
-            "en": "Lapad Promenade"
+            "en": "Lapad Promenade",
+            "hr": "Šetnica Lapad"
           },
           "coords": [
             18.0722,
@@ -936,7 +1000,8 @@
             "de": "Viele Cafés und Eisdielen.",
             "hu": "Számos kávézó és fagylaltozó.",
             "ro": "Multe cafenele și înghețătării.",
-            "en": "Many cafes and ice cream parlors."
+            "en": "Many cafes and ice cream parlors.",
+            "hr": "Mnoštvo kafića i slastičarnica."
           }
         },
         {
@@ -944,7 +1009,8 @@
             "de": "Gruž Hafen",
             "hu": "Gruž kikötő",
             "ro": "Portul Gruž",
-            "en": "Gruž Harbor"
+            "en": "Gruž Harbor",
+            "hr": "Luka Gruž"
           },
           "coords": [
             18.0852,
@@ -959,7 +1025,8 @@
             "de": "Beobachten Sie die großen Kreuzfahrtschiffe.",
             "hu": "Nézze meg a hatalmas óceánjáró hajókat.",
             "ro": "Urmăriți navele mari de croazieră.",
-            "en": "Watch the large cruise ships."
+            "en": "Watch the large cruise ships.",
+            "hr": "Promatrajte velike kruzere."
           }
         },
         {
@@ -967,7 +1034,8 @@
             "de": "Red History Museum",
             "hu": "Vörös Történelem Múzeum",
             "ro": "Muzeul Istoriei Roșii",
-            "en": "Red History Museum"
+            "en": "Red History Museum",
+            "hr": "Crveni povijesni muzej"
           },
           "coords": [
             18.0839,
@@ -982,7 +1050,8 @@
             "de": "Einblick in das Leben im ehemaligen Jugoslawien.",
             "hu": "Betekintés az egykori Jugoszlávia életébe.",
             "ro": "O perspectivă asupra vieții în fosta Iugoslavie.",
-            "en": "Insight into life in former Yugoslavia."
+            "en": "Insight into life in former Yugoslavia.",
+            "hr": "Uvid u život u bivšoj Jugoslaviji."
           }
         }
       ],
@@ -990,7 +1059,8 @@
         "de": "Nutzen Sie das effiziente Bussystem von Dubrovnik. Starten Sie in der Altstadt, fahren Sie dann in das moderne Lapad zum Strand und beenden Sie die Tour im Hafenviertel Gruž mit einem Museumsbesuch.",
         "hu": "Használja Dubrovnik hatékony buszhálózatát. Kezdjen az óvárosban, majd menjen át a modern Lapadba a strandra, és zárja a túrát a gruži kikötőnegyedben egy múzeumlátogatással.",
         "ro": "Utilizați sistemul eficient de autobuze din Dubrovnik. Începeți în orașul vechi, apoi mergeți în Lapadul modern la plajă și încheiați turul în cartierul portuar Gruž cu o vizită la muzeu.",
-        "en": "Use Dubrovnik's efficient bus system. Start in the Old Town, then take a bus to modern Lapad for the beach, and end the tour in the Gruž harbor district with a museum visit."
+        "en": "Use Dubrovnik's efficient bus system. Start in the Old Town, then take a bus to modern Lapad for the beach, and end the tour in the Gruž harbor district with a museum visit.",
+        "hr": "Iskoristite učinkovit autobusni sustav Dubrovnika. Počnite u Starom gradu, zatim se autobusom uputite u moderni Lapad na plažu i završite turu u luci Gruž posjetom muzeju."
       },
       "gastro_picks": {
         "de": [
@@ -1090,6 +1160,10 @@
         "en": [
           "Buy a 24-hour bus ticket.",
           "Buses are often very crowded in summer."
+        ],
+        "hr": [
+          "Kupite 24‑satnu autobusnu kartu.",
+          "Autobusi su često vrlo puni tijekom ljeta."
         ]
       }
     }

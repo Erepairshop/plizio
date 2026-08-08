@@ -51,7 +51,7 @@
             "hu": "Érkezz korán a fotók miatt.",
             "ro": "Vino devreme pentru poze.",
             "en": "Arrive early for photos.",
-            "hr": "Dođite rano zbog fotografija."
+            "hr": "Stignite rano za fotografije."
           }
         },
         {
@@ -89,7 +89,7 @@
             "hu": "Kóstolja meg a helyi sonkát.",
             "ro": "Gustați șunca locală.",
             "en": "Try the local ham.",
-            "hr": "Probajte domaći pršut."
+            "hr": "Probajte lokalnu pršut."
           }
         },
         {
@@ -108,7 +108,7 @@
             "hu": "A transzferbusz ingyenes.",
             "ro": "Autobuzul de transfer este inclus.",
             "en": "Shuttle bus is included.",
-            "hr": "Shuttle bus je uključen."
+            "hr": "Prijevoz shuttle autobusom uključen je."
           }
         }
       ],
@@ -117,7 +117,7 @@
         "hu": "Kezdje a napot a lozovaci kilátónál, ahonnan belátni az egész Krka-kanyont. Egy rövid séta vezet a Skradinski bukhoz, a park leglátványosabb vízeséséhez. Délben fedezze fel a vízimalmokat az etnofaluban. Egy finom helyi ebéd után kényelmesen térjen vissza a bejárathoz a park fái alatt.",
         "ro": "Începeți ziua la punctul de belvedere Lozovac pentru o panoramă superbă asupra canionului. O scurtă coborâre vă duce la Skradinski buk, cea mai mare cascadă a parcului. La prânz, vizitați satul etno pentru a vedea meșteșugurile vechi. După o pauză gastronomică, reveniți relaxat spre intrarea principală.",
         "en": "Start your day at the Lozovac viewpoint to capture the vast panorama of the Krka canyon. A short walk leads you to Skradinski buk, the park's most magnificent waterfall. At midday, explore traditional crafts in the ethno-village. After a break with local delicacies, return relaxed to the main entrance.",
-        "hr": "Započnite dan na vidikovcu Lozovac kako biste snimili prostranu panoramu kanjona Krke. Kratka šetnja vodi vas do Skradinskog buka, najveličanstvenijeg slapa u parku. U podne istražite tradicionalne zanate u etno-selu. Nakon odmora uz lokalne delicije, opušteni se vratite na glavni ulaz."
+        "hr": "Započnite dan na vidikovcu Lozovac kako biste uhvatili široku panoramu kanjona Krke. Kratka šetnja vodi do Skradinskog buka, najimpresivnijeg slapa u parku. U podne istražite tradicionalne obrte u etno-selu. Nakon pauze uz lokalne delicije, mirno se vratite do glavnog ulaza."
       },
       "gastro_picks": {
         "de": [
@@ -238,8 +238,8 @@
           "Use the free shuttle bus."
         ],
         "hr": [
-          "Nosite udobnu obuću za hodanje.",
-          "Koristite besplatni shuttle bus."
+          "Nosite udobne cipele za hodanje.",
+          "Iskoristite besplatni shuttle bus."
         ]
       },
       "variants": {
@@ -248,7 +248,8 @@
             "de": "Beginnen Sie Ihren Tag am Aussichtspunkt Lozovac, um das gewaltige Panorama des Krka-Canyons zu erfassen. Ein kurzer Abstieg führt Sie zum Skradinski buk, dem prächtigsten Wasserfall des Parks. Mittags erkunden Sie die traditionellen Handwerke im Ethno-Dorf. Nach einer Pause mit lokalen Köstlichkeiten kehren Sie entspannt zum Haupteingang zurück.",
             "hu": "Kezdje a napot a lozovaci kilátónál, ahonnan belátni az egész Krka-kanyont. Egy rövid séta vezet a Skradinski bukhoz, a park leglátványosabb vízeséséhez. Délben fedezze fel a vízimalmokat az etnofaluban. Egy finom helyi ebéd után kényelmesen térjen vissza a bejárathoz a park fái alatt.",
             "ro": "Începeți ziua la punctul de belvedere Lozovac pentru o panoramă superbă asupra canionului. O scurtă coborâre vă duce la Skradinski buk, cea mai mare cascadă a parcului. La prânz, vizitați satul etno pentru a vedea meșteșugurile vechi. După o pauză gastronomică, reveniți relaxat spre intrarea principală.",
-            "en": "Start your day at the Lozovac viewpoint to capture the vast panorama of the Krka canyon. A short walk leads you to Skradinski buk, the park's most magnificent waterfall. At midday, explore traditional crafts in the ethno-village. After a break with local delicacies, return relaxed to the main entrance."
+            "en": "Start your day at the Lozovac viewpoint to capture the vast panorama of the Krka canyon. A short walk leads you to Skradinski buk, the park's most magnificent waterfall. At midday, explore traditional crafts in the ethno-village. After a break with local delicacies, return relaxed to the main entrance.",
+            "hr": "Započnite dan na vidikovcu Lozovac kako biste uhvatili široku panoramu kanjona Krke. Kratka šetnja vodi do Skradinskog buka, najimpresivnijeg slapa u parku. U podne istražite tradicionalne obrte u etno-selu. Nakon pauze uz lokalne delicije, mirno se vratite do glavnog ulaza."
           },
           "stops": [
             {
@@ -257,7 +258,8 @@
                 "de": "Bester Blick auf den Canyon.",
                 "hu": "Legjobb kilátás a kanyonra.",
                 "ro": "Cea mai bună vedere asupra canionului.",
-                "en": "Best view over the canyon."
+                "en": "Best view over the canyon.",
+                "hr": "Najbolji pogled na kanjon."
               }
             },
             {
@@ -266,7 +268,8 @@
                 "de": "Früh kommen für Fotos.",
                 "hu": "Érkezz korán a fotók miatt.",
                 "ro": "Vino devreme pentru poze.",
-                "en": "Arrive early for photos."
+                "en": "Arrive early for photos.",
+                "hr": "Stignite rano za fotografije."
               }
             },
             {
@@ -275,7 +278,8 @@
                 "de": "Wassermühlen in Betrieb.",
                 "hu": "Működő vízimalmok.",
                 "ro": "Mori de apă în funcțiune.",
-                "en": "Watermills in operation."
+                "en": "Watermills in operation.",
+                "hr": "Vodenice u pogonu."
               }
             },
             {
@@ -284,7 +288,8 @@
                 "de": "Probieren Sie lokalen Schinken.",
                 "hu": "Kóstolja meg a helyi sonkát.",
                 "ro": "Gustați șunca locală.",
-                "en": "Try the local ham."
+                "en": "Try the local ham.",
+                "hr": "Probajte lokalnu pršut."
               }
             },
             {
@@ -293,7 +298,8 @@
                 "de": "Shuttle-Bus ist inklusive.",
                 "hu": "A transzferbusz ingyenes.",
                 "ro": "Autobuzul de transfer este inclus.",
-                "en": "Shuttle bus is included."
+                "en": "Shuttle bus is included.",
+                "hr": "Prijevoz shuttle autobusom uključen je."
               }
             }
           ],
@@ -395,6 +401,10 @@
             "en": [
               "Wear comfortable walking shoes.",
               "Use the free shuttle bus."
+            ],
+            "hr": [
+              "Nosite udobne cipele za hodanje.",
+              "Iskoristite besplatni shuttle bus."
             ]
           }
         },
@@ -404,7 +414,7 @@
             "hu": "Az esős reggel a Lozovac kilátónál drámai arcát mutatja a Krka-szurdoknak. A Skradinski buk vízeséshez vezető út a párás erdőn át kanyarog. Délben az Etno-falu kőházai nyújtanak menedéket a zápor elől. Egy kiadós ebéd után a Gastro-Pause fedett részén pihenünk, majd a park belső buszjáratával térünk vissza a bejárathoz, elkerülve a sárt.",
             "ro": "O dimineață ploioasă la Lozovac dezvăluie un peisaj dramatic deasupra canionului Krka. Coborârea spre Skradinski buk se face prin pădurea deasă, unde sunetul ploii se împletește cu cel al apei. La prânz, satul etno oferă adăpost sub acoperișurile vechi de piatră. După o masă caldă, folosim autobuzul parcului pentru întoarcere, evitând potecile noroioase.",
             "en": "A rainy morning at the Lozovac viewpoint reveals a dramatic, misty Krka canyon. The walk down to Skradinski buk leads through a lush, dripping forest. At noon, the ethno-village stone houses provide a perfect refuge from the downpour. After a long lunch break, we take the park shuttle bus back to the entrance to stay dry and avoid the slippery trails.",
-            "hr": "Kišno jutro na vidikovcu Lozovac otkriva dramatičan, maglovit kanjon Krke. Šetnja do Skradinskog buka vodi kroz bujnu, vlažnu šumu. U podne, kamene kuće etno-sela pružaju savršeno utočište od pljuska. Nakon duge pauze za ručak, vraćamo se shuttle busom do ulaza kako bismo ostali suhi i izbjegli skliske staze."
+            "hr": "Kišno jutro na vidikovcu Lozovac otkriva dramatičan, maglovit kanjon Krke. Šetnja prema Skradinskom buku vodi kroz bujnu, kapanjem natopljenu šumu. U podne kamene kuće etno-sela pružaju savršen zaklon od pljuska. Nakon duge pauze za ručak, vraćamo se park-shuttleom natrag do ulaza kako bismo ostali suhi i izbjegli skliske staze."
           },
           "stops": [
             {
@@ -414,7 +424,7 @@
                 "hu": "Használja a kilátó melletti fa védőtetőt heves esőzés esetén.",
                 "ro": "Folosiți foișorul de lemn de la punctul de observație în caz de averse.",
                 "en": "Use the wooden shelter at the viewpoint during heavy downpours.",
-                "hr": "Koristite drveni zaklon na vidikovcu tijekom jakih pljuskova."
+                "hr": "Tijekom jakih pljuskova koristite drveni zaklon na vidikovcu."
               }
             },
             {
@@ -424,7 +434,7 @@
                 "hu": "Vigyázat: A fapallók esőben rendkívül csúszósak. Tapadós talpú cipő kell.",
                 "ro": "Atenție: Podețele de lemn sunt extrem de alunecoase pe ploaie. Purtați bocanci.",
                 "en": "Caution: Wooden boardwalks are extremely slippery when wet. Wear grippy shoes.",
-                "hr": "Oprez: Drvene staze su izuzetno skliske kad su mokre. Nosite obuću koja se ne kliže."
+                "hr": "Upozorenje: drvene razglednice/šetnice su iznimno skliske kad su mokre. Nosite obuću s dobrim pristiskom."
               }
             },
             {
@@ -434,7 +444,7 @@
                 "hu": "Látogassa meg a szövőműhelyt és a kovácsműhelyt, bent száraz marad.",
                 "ro": "Vizitați atelierul de țesătorie și fierăria pentru a rămâne la adăpost.",
                 "en": "Visit the weaving workshop and the forge to stay dry inside.",
-                "hr": "Posjetite tkaonicu i kovačnicu kako biste ostali suhi u zatvorenom."
+                "hr": "Posjetite radionicu tkanja i kovačnicu kako biste ostali suhi unutra."
               }
             },
             {
@@ -444,7 +454,7 @@
                 "hu": "Kérjen asztalt a hátsó, teljesen fedett részen.",
                 "ro": "Cereți o masă în zona din spate, care este complet acoperită.",
                 "en": "Ask for a table in the rear, fully covered seating area.",
-                "hr": "Zatražite stol u stražnjem, potpuno natkrivenom dijelu restorana."
+                "hr": "Zatražite stol u stražnjem, potpuno natkrivenom dijelu sjedenja."
               }
             },
             {
@@ -454,7 +464,7 @@
                 "hu": "Esőben használja az ingyenes parkbuszt a felfelé vezető gyalogút helyett.",
                 "ro": "Pe ploaie, folosiți autobuzul gratuit al parcului în locul potecii în urcare.",
                 "en": "During rain, take the free shuttle bus instead of walking the uphill trail.",
-                "hr": "Tijekom kiše koristite besplatni shuttle bus umjesto pješačenja uzbrdo."
+                "hr": "Tijekom kiše iskoristite besplatni shuttle bus umjesto uspona pješke."
               }
             }
           ],
@@ -488,11 +498,11 @@
               "The restrooms in the ethno-village are modern and offer a clean dry space."
             ],
             "hr": [
-              "Potpuna kišna oprema je neophodna jer prskanje slapova pridonosi vlazi.",
-              "Shuttle bus redovito vozi između parkirališta i platoa kod slapova.",
-              "Drvena kružna staza ima mnogo stepenica na kojima se tijekom kiše može nakupljati voda.",
-              "Nosite vodootporne cipele za planinarenje s gumenim potplatom za bolje prianjanje na drvetu.",
-              "Toaleti u etno-selu su moderni i nude čist i suh prostor."
+              "Potpuna kišna oprema je nužna jer sprej od slapa dodatno natapa.",
+              "Park-shuttle autobusi redovito voze između parkirališta i plato slapa.",
+              "Drvena kružna staza ima mnogo stepenica na kojima se voda može zadržavati tijekom kiše.",
+              "Nosite vodootpornu planinarsku obuću s gumiranim potplatom za bolji hvat na drvu.",
+              "Toaleti u etno-selu moderni su i nude čist, suh prostor."
             ]
           }
         },
@@ -502,7 +512,7 @@
             "hu": "Tiszta, hideg téli reggel köszönt ránk a Lozovac-fennsíkon. A vízeséshez vezető út csendes és békés, a levegő kristálytiszta. Délben az Etno-faluban megáll az idő, messze a nyári tömegtől. Egy meleg tea után a Gastro-Pause-nál sietve indulunk vissza, mielőtt a nap 16:30 körül eltűnik a dombok mögött.",
             "ro": "O dimineață de iarnă senină și rece începe pe platoul Lozovac. Drumul spre cascadă este solitar și liniștit, aerul fiind de o claritate rară. La prânz, în satul etno, timpul pare să stea în loc, departe de aglomerația verii. După un ceai cald la Gastro-Pause, pornim rapid spre întoarcere înainte ca soarele să apună la 16:30.",
             "en": "A crisp, cold winter morning begins over the Lozovac plateau. The path to the waterfall is solitary and peaceful, with crystal-clear air. At noon in the ethno-village, time seems to stand still without the summer crowds. After a warming tea at Gastro-Pause, we head back quickly before the sun dips behind the hills around 4:30 PM.",
-            "hr": "Vedro, hladno zimsko jutro počinje iznad platoa Lozovac. Put do slapa je osamljen i miran, s kristalno čistim zrakom. U podne u etno-selu vrijeme kao da stoji bez ljetnih gužvi. Nakon zagrijavanja uz čaj u Gastro-Pause, vraćamo se brzo prije nego što sunce zađe iza brda oko 16:30."
+            "hr": "Hladno, svježe zimsko jutro započinje na platoa Lozovac. Put do slapa je samotan i miran, s kristalno čistim zrakom. U podne u etno-selu vrijeme kao da stoji bez ljetnih gužvi. Nakon toplog čaja u Gastro-Pauseu brzo se vraćamo prije nego što sunce zađe iza brežuljaka oko 16:30."
           },
           "stops": [
             {
@@ -512,7 +522,7 @@
                 "hu": "Meleg kesztyű fontos itt, mivel a szél végigsöpör a fennsíkon.",
                 "ro": "Mănușile groase sunt esențiale aici, vântul bate puternic pe platou.",
                 "en": "Warm gloves are essential here as the wind sweeps across the plateau.",
-                "hr": "Tople rukavice su ovdje neophodne jer vjetar puše preko platoa."
+                "hr": "Tople rukavice su ovdje nužne jer vjetar puše preko platoa."
               }
             },
             {
@@ -522,7 +532,7 @@
                 "hu": "Télen a Krka vízhozama nagy; a vízesés ilyenkor különösen monumentális.",
                 "ro": "Iarna Krka are debit mare; cascada este deosebit de spectaculoasă.",
                 "en": "In winter the Krka has high flow; the waterfall is especially powerful.",
-                "hr": "Zimi Krka ima visok vodostaj; slap je posebno moćan."
+                "hr": "Zimi Krka ima veliki protok; slap je posebno snažan."
               }
             },
             {
@@ -532,7 +542,7 @@
                 "hu": "Ellenőrizze a kiállítások nyitvatartását, télen gyakran rövidebbek.",
                 "ro": "Verificați programul expozițiilor, iarna este adesea mai scurt.",
                 "en": "Check the exhibition opening hours; they are often shorter in winter.",
-                "hr": "Provjerite radno vrijeme izložbi; zimi su često kraća."
+                "hr": "Provjerite radno vrijeme izložbi; često je kraće zimi."
               }
             },
             {
@@ -552,7 +562,7 @@
                 "hu": "Legkésőbb 16:00-kor induljon vissza a korai sötétedés miatt.",
                 "ro": "Începeți drumul de întoarcere cel târziu la 16:00 din cauza amurgului timpuriu.",
                 "en": "Start your return by 4:00 PM at the latest due to the early dusk.",
-                "hr": "Krenite natrag najkasnije do 16:00 zbog ranog sumraka."
+                "hr": "Započnite povratak najkasnije u 16:00 zbog ranog sumraka."
               }
             }
           ],
@@ -586,11 +596,11 @@
               "Bring a thermos with a hot drink for your breaks on the trail."
             ],
             "hr": [
-              "Odjenite se slojevito; u dolini je često hladnije nego na parkiralištu.",
-              "Autobusi u parku zimi voze rjeđe; provjerite raspored na ulazu.",
-              "Neke staze mogu biti zaleđene i vrlo skliske tijekom mraza.",
+              "Obucite se u slojevima; u dolini je često hladnije nego na parkiralištu.",
+              "Park-busevi voze rjeđe zimi; provjerite raspored na ulazu.",
+              "Neki putevi mogu biti zaleđeni i vrlo sklizavi tijekom mraza.",
               "Sunce nestaje u sjeni kanjona već oko 15:30.",
-              "Ponesite termosicu s toplim napitkom za pauze na staze."
+              "Ponesite termosicu s toplim napitkom za pauze na stazi."
             ]
           }
         }
@@ -639,7 +649,7 @@
             "hu": "Kerékpártárolók a bejáratnál.",
             "ro": "Parcați bicicletele la intrare.",
             "en": "Park bikes at the entrance.",
-            "hr": "Parkirajte bicikle na ulazu."
+            "hr": "Ostavite bicikle na parkiralištu."
           }
         },
         {
@@ -658,7 +668,7 @@
             "hu": "Hajó visz át a szigetre.",
             "ro": "Barca vă duce pe insulă.",
             "en": "Boat transfer to the island.",
-            "hr": "Prijevoz brodom do otoka."
+            "hr": "Vozilo-čamac do otoka."
           }
         },
         {
@@ -705,7 +715,7 @@
         "hu": "Bringázzon reggel Skradinból a folyóparton a Skradinski buk vízesésig. Élvezze a vízparti szellőt az úton. Északabbra érve csónakázzon át a Visovac-szigetre, a csend szigetére. Látogassa meg a Krka kolostort, majd a festői útvonalon tekerjen vissza Skradinba.",
         "ro": "Pedalați dimineața de la Skradin pe malul râului Krka până la cascada Skradinski buk. Bucurați-vă de briza apei pe traseu. Mergând spre nord, ajungeți la debarcaderul pentru insula Visovac. Vizitați mănăstirea Krka înainte de a reveni pe traseul pitoresc spre Skradin.",
         "en": "Cycle in the morning from Skradin along the Krka river to Skradinski buk waterfall. Enjoy the fresh river breeze on the way. Further north, reach the pier for Visovac Island, an oasis of peace. Visit the Krka Monastery before heading back on the scenic route to Skradin.",
-        "hr": "Vozite bicikl ujutro iz Skradina uz rijeku Krku do slapa Skradinski buk. Uživajte u svježem riječnom povjetarcu na putu. Dalje prema sjeveru stižete do pristaništa za otok Visovac, oazu mira. Posjetite manastir Krka prije povratka slikovitom rutom prema Skradinu."
+        "hr": "Biciklirajte ujutro iz Skradina uz rijeku Krku do slapa Skradinski buk. Uživajte u svježem riječnom povjetarcu na putu. Sjevernije dođite do mola za otok Visovac, oaze mira. Posjetite manastir Krka prije povratka slikovitom rutom prema Skradinu."
       },
       "gastro_picks": {
         "de": [
@@ -836,7 +846,8 @@
             "de": "Radeln Sie am Morgen von Skradin aus entlang der Krka zum Wasserfall Skradinski buk. Genießen Sie die frische Brise am Flussufer. Weiter nördlich erreichen Sie den Anleger zur Insel Visovac, einer Oase der Ruhe. Besuchen Sie das orthodoxe Kloster Krka, bevor Sie die malerische Strecke zurück nach Skradin antreten.",
             "hu": "Bringázzon reggel Skradinból a folyóparton a Skradinski buk vízesésig. Élvezze a vízparti szellőt az úton. Északabbra érve csónakázzon át a Visovac-szigetre, a csend szigetére. Látogassa meg a Krka kolostort, majd a festői útvonalon tekerjen vissza Skradinba.",
             "ro": "Pedalați dimineața de la Skradin pe malul râului Krka până la cascada Skradinski buk. Bucurați-vă de briza apei pe traseu. Mergând spre nord, ajungeți la debarcaderul pentru insula Visovac. Vizitați mănăstirea Krka înainte de a reveni pe traseul pitoresc spre Skradin.",
-            "en": "Cycle in the morning from Skradin along the Krka river to Skradinski buk waterfall. Enjoy the fresh river breeze on the way. Further north, reach the pier for Visovac Island, an oasis of peace. Visit the Krka Monastery before heading back on the scenic route to Skradin."
+            "en": "Cycle in the morning from Skradin along the Krka river to Skradinski buk waterfall. Enjoy the fresh river breeze on the way. Further north, reach the pier for Visovac Island, an oasis of peace. Visit the Krka Monastery before heading back on the scenic route to Skradin.",
+            "hr": "Biciklirajte ujutro iz Skradina uz rijeku Krku do slapa Skradinski buk. Uživajte u svježem riječnom povjetarcu na putu. Sjevernije dođite do mola za otok Visovac, oaze mira. Posjetite manastir Krka prije povratka slikovitom rutom prema Skradinu."
           },
           "stops": [
             {
@@ -845,7 +856,8 @@
                 "de": "Radweg beginnt am Fluss.",
                 "hu": "A kerékpárút a folyó mellett indul.",
                 "ro": "Traseul începe pe malul râului.",
-                "en": "Trail starts by the river."
+                "en": "Trail starts by the river.",
+                "hr": "Staza počinje uz rijeku."
               }
             },
             {
@@ -854,7 +866,8 @@
                 "de": "Räder am Eingang parken.",
                 "hu": "Kerékpártárolók a bejáratnál.",
                 "ro": "Parcați bicicletele la intrare.",
-                "en": "Park bikes at the entrance."
+                "en": "Park bikes at the entrance.",
+                "hr": "Ostavite bicikle na parkiralištu."
               }
             },
             {
@@ -863,7 +876,8 @@
                 "de": "Bootstransfer zur Insel.",
                 "hu": "Hajó visz át a szigetre.",
                 "ro": "Barca vă duce pe insulă.",
-                "en": "Boat transfer to the island."
+                "en": "Boat transfer to the island.",
+                "hr": "Vozilo-čamac do otoka."
               }
             },
             {
@@ -872,7 +886,8 @@
                 "de": "Alte Handschriften sehen.",
                 "hu": "Régi kéziratok a könyvtárban.",
                 "ro": "Vedeți manuscrisele vechi.",
-                "en": "See the ancient manuscripts."
+                "en": "See the ancient manuscripts.",
+                "hr": "Pogledajte drevne rukopise."
               }
             },
             {
@@ -881,7 +896,8 @@
                 "de": "Abfahrt mit dem Rad.",
                 "hu": "Visszaút kerékpáron.",
                 "ro": "Retur pe bicicletă.",
-                "en": "Return by bike."
+                "en": "Return by bike.",
+                "hr": "Povratak biciklom."
               }
             }
           ],
@@ -983,6 +999,10 @@
             "en": [
               "Take plenty of water.",
               "Climbs are moderate."
+            ],
+            "hr": [
+              "Ponesite dovoljno vode.",
+              "Usponi su umjereni."
             ]
           }
         },
@@ -992,7 +1012,7 @@
             "hu": "Vizes rajt Skradinban, a folyópart mentén tekerünk a Skradinski buk felé. Délben érjük el a Visovac-partot, ahol az eső apró köröket rajzol a vízre. A Krka-kolostorhoz vezető út aszfaltozott, de vizes utakon halad. Egy kimerítő, esős nap után fáradtan, de élményekkel telve térünk vissza Skradinba.",
             "ro": "Un start umed în Skradin ne duce de-a lungul malului râului spre Skradinski buk. La prânz ajungem la malul lacului Visovac, unde ploaia desenează cercuri pe apă. Drumul spre mănăstirea Krka urmează șosele asfaltate, dar ude. După o zi solicitantă prin ploaie, ne întoarcem epuizați, dar mulțumiți în Skradin.",
             "en": "A wet start in Skradin leads us along the riverbank towards Skradinski buk. At noon we reach the Visovac shore, where raindrops create ripples on the still water. The ride to Krka Monastery follows paved but slick roads. After a challenging day in the rain, we return to Skradin exhausted but satisfied with the journey.",
-            "hr": "Mokri početak u Skradinu vodi nas uz obalu rijeke prema Skradinskom buku. U podne stižemo do obale Visovca, gdje kapi kiše stvaraju krugove na mirnoj vodi. Vožnja prema manastiru Krka slijedi asfaltirane, ali skliske ceste. Nakon izazovnog dana na kiši, vraćamo se u Skradin iscrpljeni, ali zadovoljni putovanjem."
+            "hr": "Mokar početak u Skradinu vodi nas uz obalu prema Skradinskom buku. U podne stižemo na obalu Visaovca, gdje kapljice stvaraju krugove na mirnoj vodi. Vožnja do manastira Krka slijedi popločanim ali klizavim cestama. Nakon zahtjevnog dana po kiši vraćamo se u Skradin iscrpljeni ali zadovoljni putovanjem."
           },
           "stops": [
             {
@@ -1002,7 +1022,7 @@
                 "hu": "Alaposan ellenőrizze a fékeket, mielőtt elindul a vizes úton.",
                 "ro": "Verificați frânele cu atenție înainte de a porni pe carosabilul umed.",
                 "en": "Check your brakes thoroughly before starting on the wet pavement.",
-                "hr": "Temeljito provjerite kočnice prije kretanja po mokrom kolniku."
+                "hr": "Temeljito provjerite kočnice prije vožnje po mokrom asfaltu."
               }
             },
             {
@@ -1012,7 +1032,7 @@
                 "hu": "Parkolja le a biciklit a hajókikötő közeli fedett részen.",
                 "ro": "Parcați bicicleta în zona acoperită de lângă debarcader.",
                 "en": "Park your bike in the covered area near the boat pier.",
-                "hr": "Parkirajte bicikl u natkrivenom prostoru blizu pristaništa za brod."
+                "hr": "Parkirajte bicikl u natkrivenom prostoru blizu moladok."
               }
             },
             {
@@ -1022,7 +1042,7 @@
                 "hu": "A part menti út saras lehet; maradjon a burkolt úton.",
                 "ro": "Drumul pe mal poate fi noroios; rămâneți pe drumul asfaltat.",
                 "en": "The shore path can be muddy; stay on the paved road.",
-                "hr": "Obalna staza može biti blatna; ostanite na asfaltiranoj cesti."
+                "hr": "Obalna staza može biti blatna; držite se popločane ceste."
               }
             },
             {
@@ -1032,7 +1052,7 @@
                 "hu": "Használja a kolostor belső udvarát eső elleni védelemként a látogatás alatt.",
                 "ro": "Folosiți curtea interioară a mănăstirii ca adăpost în timpul vizitei.",
                 "en": "Use the monastery's inner courtyard for shelter during your visit.",
-                "hr": "Koristite unutarnje dvorište manastira kao zaklon tijekom posjeta."
+                "hr": "Iskoristite unutarnje dvorište manastira za sklonište tijekom posjeta."
               }
             },
             {
@@ -1042,7 +1062,7 @@
                 "hu": "Kanyarokban legyen különösen óvatos a megcsúszás elkerülése érdekében.",
                 "ro": "Circulați cu prudență sporită în curbe pentru a evita derapajele.",
                 "en": "Be extra careful in turns to avoid sliding on the wet surface.",
-                "hr": "Budite posebno oprezni u zavojima kako biste izbjegli proklizavanje na mokroj površini."
+                "hr": "Budite posebno oprezni u zavoju kako biste izbjegli proklizavanje na vlažnoj podlozi."
               }
             }
           ],
@@ -1076,11 +1096,11 @@
               "Wipe your saddle and grips dry during breaks."
             ],
             "hr": [
-              "Nosite vodootporne navlake za cipele kako biste spriječili mokre noge tijekom pedaliranja.",
-              "Blatobrani su obavezni po ovakvom vremenu za zaštitu od prskanja.",
+              "Nosite vodootporne navlake za obuću kako biste spriječili mokre noge tijekom pedaliranja.",
+              "Blatobrani su obavezni u ovakvom vremenu kako bi vas zaštitili od prskanja.",
               "Izbjegavajte lokve jer mogu biti dublje nego što izgledaju.",
-              "Koristite jaka svjetla jer je vidljivost smanjena tijekom kiše.",
-              "Obrišite sjedalo i ručke tijekom pauza."
+              "Koristite jake svjetlosne signale jer je vidljivost smanjena tijekom kiše.",
+              "Obrišite sjedalo i ručke suhe tijekom pauza."
             ]
           }
         },
@@ -1090,7 +1110,7 @@
             "hu": "Fagyos reggel Skradinban, a köd táncol a folyó felett. A biciklitúra a Skradinski buk felé élénkítő a hideg levegőben. Délben a Visovac-parton a tél abszolút csendjét élvezzük. A kolostorig tartó út próbára teszi állóképességünket a hidegben. Sötétedés előtt érünk vissza Skradinba, hogy felmelegedjünk.",
             "ro": "O dimineață geroasă în Skradin, cu ceața dansând deasupra râului. Tura spre Skradinski buk este revigorantă în aerul rece. La prânz, pe malul Visovac, ne bucurăm de liniștea deplină a iernii. Drumul spre mănăstire ne solicită rezistența la frig. Ne întoarcem în Skradin înainte de lăsarea întunericului pentru a ne încălzi.",
             "en": "A frosty morning in Skradin with mist dancing over the river. The bike ride to Skradinski buk is invigorating in the crisp air. At noon on the Visovac shore, we enjoy the absolute silence of winter. The ride towards the monastery tests our endurance in the cold. We return to Skradin before dark to find warmth and shelter.",
-            "hr": "Ledeno jutro u Skradinu s maglom koja pleše nad rijekom. Vožnja biciklom do Skradinskog buka okrepljuje na svježem zraku. U podne na obali Visovca uživamo u apsolutnoj tišini zime. Vožnja prema manastiru testira našu izdržljivost na hladnoći. Vraćamo se u Skradin prije mraka kako bismo pronašli toplinu i zaklon."
+            "hr": "Mrazno jutro u Skradinu s maglom koja pleše nad rijekom. Vožnja biciklom do Skradinskog buka potiče u živahnom, svježem zraku. U podne na obali Visovca uživamo u apsolutnoj tišini zime. Vožnja prema manastiru testira našu izdržljivost na hladnoći. Vraćamo se u Skradin prije mraka kako bismo pronašli toplinu i sklonište."
           },
           "stops": [
             {
@@ -1100,7 +1120,7 @@
                 "hu": "Ügyeljen a dérre a hidakon és az árnyékos útszakaszokon.",
                 "ro": "Atenție la chiciura de pe poduri și din zonele umbrite.",
                 "en": "Watch out for hoarfrost on bridges and shaded sections of the path.",
-                "hr": "Pazite na inje na mostovima i zasjenjenim dijelovima staze."
+                "hr": "Pazite na poledicu na mostovima i u sjenovitim dijelovima staze."
               }
             },
             {
@@ -1110,7 +1130,7 @@
                 "hu": "Tartson rövid szünetet, hogy mozgással melegen tartsa az ujjait.",
                 "ro": "Faceți o scurtă pauză pentru a vă încălzi degetele prin mișcare.",
                 "en": "Take a short break to keep your fingers warm through movement.",
-                "hr": "Napravite kratku pauzu kako biste kretanjem zagrijali prste."
+                "hr": "Uzmite kratku pauzu kako biste održali toplinu u prstima pokretom."
               }
             },
             {
@@ -1120,7 +1140,7 @@
                 "hu": "A hajók a szigetre télen csak korlátozottan járnak; nézze meg a tervet.",
                 "ro": "Bărciile spre insulă circulă limitat iarna; verificați orarul.",
                 "en": "Boats to the island run on a restricted schedule in winter; check plans.",
-                "hr": "Brodovi za otok zimi voze prema ograničenom rasporedu; provjerite planove."
+                "hr": "Brodovi do otoka voze po ograničenom rasporedu zimi; provjerite planove."
               }
             },
             {
@@ -1130,7 +1150,7 @@
                 "hu": "Látogassa meg a katakombákat, ott gyakran melegebb van, mint kint.",
                 "ro": "Vizitați catacombele, acolo este adesea mai cald decât afară.",
                 "en": "Visit the catacombs; it is often warmer there than outside.",
-                "hr": "Posjetite katakombe; tamo je često toplije nego vani."
+                "hr": "Posjetite katakombe; često je tamo toplije nego vani."
               }
             },
             {
@@ -1140,7 +1160,7 @@
                 "hu": "Ne hagyja magán az átizzadt ruhát; vegyen fel egy száraz réteget.",
                 "ro": "Nu rămâneți cu haine transpirate; schimbați-vă cu un strat uscat.",
                 "en": "Don't stay in sweaty clothes; put on a dry layer for the ride back.",
-                "hr": "Nemojte ostajati u oznojenoj odjeći; obucite suhi sloj za povratak."
+                "hr": "Ne ostajte u znojnoj odjeći; obucite suhi sloj za povratak."
               }
             }
           ],
@@ -1174,11 +1194,11 @@
               "Keep breaks short to avoid cooling down too much."
             ],
             "hr": [
-              "Nosite vjetrootporni prednji sloj jer vjetar značajno hladi tijelo.",
-              "Termalne boce sprječavaju zamrzavanje vode tijekom vožnje.",
+              "Nosite vjetrootpornu prednju jaknu jer vjetar znatno hladi tijelo.",
+              "Termalna boca za vodu sprječava smrzavanje vode tijekom vožnje.",
               "Koristite debele rukavice koje i dalje omogućuju mijenjanje brzina i kočenje.",
-              "Dani su kratki; napunjena baterija za svjetla je ključna za sigurnost.",
-              "Neka pauze budu kratke kako se ne biste previše ohladili."
+              "Dani su kratki; napunjena baterija za svjetla je vitalna za sigurnost.",
+              "Držite pauze kratkima kako biste izbjegli preveliko hlađenje."
             ]
           }
         }
@@ -1246,7 +1266,7 @@
             "hu": "Nézze meg az ezüst nyakláncot.",
             "ro": "Vedeți cascadele guler.",
             "en": "See the necklace waterfalls.",
-            "hr": "Pogledajte kaskade (ogrlice)."
+            "hr": "Pogledajte vodopade u nizu."
           }
         },
         {
@@ -1303,7 +1323,7 @@
             "hu": "A Krka legmagasabb vízesése.",
             "ro": "Cea mai înaltă cascadă.",
             "en": "Highest Krka waterfall.",
-            "hr": "Najviši slap Krke."
+            "hr": "Najviši slap u Krki."
           }
         }
       ],
@@ -1312,7 +1332,7 @@
         "hu": "Autóval a Krka Nemzeti Park teljes arcát megismerheti. Kezdje délen a nagy vízeséseknél, majd hajtson a Visovac-szigetre néző panorámaúthoz. A Roški slap malmai után látogassa meg az északi kolostort és a római Burnum romjait. A napot a monumentális Manojlovac-vízesésnél zárja.",
         "ro": "Cu mașina descoperiți întreaga diversitate a parcului național Krka. Începeți în sud la marile cascade, apoi mergeți la punctul de belvedere spre insula Visovac. Roški slap oferă mori idilice. Vizitați mănăstirea istorică și ruinele romane Burnum din nord, înainte de a încheia ziua la cascada Manojlovac.",
         "en": "By car, you can discover the entire variety of Krka National Park. Start in the south at the large cascades and then drive to the famous viewpoint overlooking Visovac Island. Roški slap offers idyllic mills. Visit the historic monastery and the Roman ruins of Burnum in the north before ending the day at Manojlovac waterfall.",
-        "hr": "Automobilom možete otkriti svu raznolikost Nacionalnog parka Krka. Započnite na jugu kod velikih kaskada, a zatim se odvezite do poznatog vidikovca s pogledom na otok Visovac. Roški slap nudi idilične mlinice. Posjetite povijesni manastir i rimske ruševine Burnuma na sjeveru prije završetka dana kod slapa Manojlovac."
+        "hr": "Autom možete otkriti svu raznolikost Nacionalnog parka Krka. Počnite na jugu kod velikih kaskada, a zatim vozite do poznate vidikovca s pogledom na otok Visovac. Roški slap nudi idilične mlinove. Posjetite povijesni samostan i rimske ruševine Burnuma na sjeveru prije nego što dan završite kod slapa Manojlovac."
       },
       "gastro_picks": {
         "de": [
@@ -1433,7 +1453,7 @@
           "Roads in the north are narrow."
         ],
         "hr": [
-          "Benzinske postaje su rijetke.",
+          "Benzinske crpke su rijetke.",
           "Ceste na sjeveru su uske."
         ]
       },
@@ -1443,7 +1463,8 @@
             "de": "Mit dem Auto entdecken Sie die gesamte Vielfalt des Krka-Nationalparks. Starten Sie im Süden bei den großen Kaskaden und fahren Sie dann zum berühmten Aussichtspunkt auf die Insel Visovac. Der Roški slap bietet idyllische Mühlen. Besuchen Sie das historische Kloster und die römischen Ruinen von Burnum im Norden, bevor Sie den Tag am Manojlovac-Wasserfall beenden.",
             "hu": "Autóval a Krka Nemzeti Park teljes arcát megismerheti. Kezdje délen a nagy vízeséseknél, majd hajtson a Visovac-szigetre néző panorámaúthoz. A Roški slap malmai után látogassa meg az északi kolostort és a római Burnum romjait. A napot a monumentális Manojlovac-vízesésnél zárja.",
             "ro": "Cu mașina descoperiți întreaga diversitate a parcului național Krka. Începeți în sud la marile cascade, apoi mergeți la punctul de belvedere spre insula Visovac. Roški slap oferă mori idilice. Vizitați mănăstirea istorică și ruinele romane Burnum din nord, înainte de a încheia ziua la cascada Manojlovac.",
-            "en": "By car, you can discover the entire variety of Krka National Park. Start in the south at the large cascades and then drive to the famous viewpoint overlooking Visovac Island. Roški slap offers idyllic mills. Visit the historic monastery and the Roman ruins of Burnum in the north before ending the day at Manojlovac waterfall."
+            "en": "By car, you can discover the entire variety of Krka National Park. Start in the south at the large cascades and then drive to the famous viewpoint overlooking Visovac Island. Roški slap offers idyllic mills. Visit the historic monastery and the Roman ruins of Burnum in the north before ending the day at Manojlovac waterfall.",
+            "hr": "Autom možete otkriti svu raznolikost Nacionalnog parka Krka. Počnite na jugu kod velikih kaskada, a zatim vozite do poznate vidikovca s pogledom na otok Visovac. Roški slap nudi idilične mlinove. Posjetite povijesni samostan i rimske ruševine Burnuma na sjeveru prije nego što dan završite kod slapa Manojlovac."
           },
           "stops": [
             {
@@ -1452,7 +1473,8 @@
                 "de": "Parkplatz Lozovac nutzen.",
                 "hu": "Parkoljon Lozovacnál.",
                 "ro": "Folosiți parcarea Lozovac.",
-                "en": "Use Lozovac parking."
+                "en": "Use Lozovac parking.",
+                "hr": "Koristite parkiralište Lozovac."
               }
             },
             {
@@ -1461,7 +1483,8 @@
                 "de": "Perfekt für Panoramafotos.",
                 "hu": "Tökéletes panorámaképekhez.",
                 "ro": "Perfect pentru poze panoramice.",
-                "en": "Perfect for panorama photos."
+                "en": "Perfect for panorama photos.",
+                "hr": "Savršeno za panoramske fotografije."
               }
             },
             {
@@ -1470,7 +1493,8 @@
                 "de": "Halsband-Wasserfälle sehen.",
                 "hu": "Nézze meg az ezüst nyakláncot.",
                 "ro": "Vedeți cascadele guler.",
-                "en": "See the necklace waterfalls."
+                "en": "See the necklace waterfalls.",
+                "hr": "Pogledajte vodopade u nizu."
               }
             },
             {
@@ -1479,7 +1503,8 @@
                 "de": "Führung durch die Katakomben.",
                 "hu": "Vezetés a katakombákban.",
                 "ro": "Tur prin catacombe.",
-                "en": "Tour through the catacombs."
+                "en": "Tour through the catacombs.",
+                "hr": "Obilazak katakombi."
               }
             },
             {
@@ -1488,7 +1513,8 @@
                 "de": "Einzige römische Bögen.",
                 "hu": "Az egyetlen épen maradt ívek.",
                 "ro": "Singurele arcade romane.",
-                "en": "The only Roman arches."
+                "en": "The only Roman arches.",
+                "hr": "Jedini rimski lukovi."
               }
             },
             {
@@ -1497,7 +1523,8 @@
                 "de": "Höchster Wasserfall der Krka.",
                 "hu": "A Krka legmagasabb vízesése.",
                 "ro": "Cea mai înaltă cascadă.",
-                "en": "Highest Krka waterfall."
+                "en": "Highest Krka waterfall.",
+                "hr": "Najviši slap u Krki."
               }
             }
           ],
@@ -1599,6 +1626,10 @@
             "en": [
               "Gas stations are rare.",
               "Roads in the north are narrow."
+            ],
+            "hr": [
+              "Benzinske crpke su rijetke.",
+              "Ceste na sjeveru su uske."
             ]
           }
         },
@@ -1608,7 +1639,7 @@
             "hu": "Esős délelőtt a Skradinski buk-nál, az autó tökéletes menedék a két állomás között. A Visovac-kilátóhoz vezető út látványos kilátást nyújt a ködös tóra. Délben érjük el a dübörgő Roški slap-ot. A Krka-kolostoron keresztül hajtunk tovább Burnum római romjaihoz, mielőtt a nap a Manojlovac-vízesésnél véget ér.",
             "ro": "O dimineață ploioasă la Skradinski buk transformă mașina în refugiul perfect. Drumul spre punctul de belvedere Visovac oferă vederi spectaculoase asupra lacului cețos. La prânz ajungem la Roški slap, unde apa cade cu putere de peste tot. Trecem pe la mănăstire spre ruinele Burnum, finalizând ziua la cascada Manojlovac.",
             "en": "A rainy morning at Skradinski buk makes the car a perfect sanctuary between stops. The drive to the Visovac viewpoint offers spectacular views of the misty lake. At noon we reach the thundering Roški slap. We drive via the Krka Monastery to the Roman ruins of Burnum, before the day ends at the impressive Manojlovac waterfall.",
-            "hr": "Kišno jutro na Skradinskom buku čini automobil savršenim utočištem između postaja. Vožnja do vidikovca Visovac nudi spektakularan pogled na maglovito jezero. U podne stižemo do grmećeg Roškog slapa. Vozimo preko manastira Krka do rimskih ruševina Burnuma, prije nego dan završi kod impresivnog slapa Manojlovac."
+            "hr": "Kišno jutro na Skradinskom buku čini automobil savršenim utočištem između stajanja. Vožnja do vidikovca na Visovcu nudi spektakularne poglede na maglovito jezero. U podne stižemo do gromoglasnog Roškog slapa. Vozimo preko samostana Krka do rimskih ruševina Burnuma, prije nego dan završi kod impresivnog slapa Manojlovac."
           },
           "stops": [
             {
@@ -1618,7 +1649,7 @@
                 "hu": "Használja a bejárathoz közeli parkolót, hogy lerövidítse az esőben való gyaloglást.",
                 "ro": "Folosiți parcarea de lângă intrare pentru a scurta mersul prin ploaie.",
                 "en": "Use the parking lot near the entrance to keep walking distances in the rain short.",
-                "hr": "Koristite parkiralište blizu ulaza kako biste skratili hodanje po kiši."
+                "hr": "Koristite parkiralište blizu ulaza da skratite udaljenosti hodanja na kiši."
               }
             },
             {
@@ -1628,7 +1659,7 @@
                 "hu": "Élvezheti a kilátást közvetlenül az autóból is, ha túl erősen esik.",
                 "ro": "Puteți admira priveliștea direct din mașină dacă plouă prea tare.",
                 "en": "You can enjoy the view directly from the car if the rain is too heavy.",
-                "hr": "Možete uživati u pogledu izravno iz automobila ako je kiša prejaka."
+                "hr": "Pogled možete uživati izravno iz automobila ako je kiša preteška."
               }
             },
             {
@@ -1638,7 +1669,7 @@
                 "hu": "A kis kaskádok (nyakláncok) esőben különösen bővizűek.",
                 "ro": "Micile cascade (salbele) sunt deosebit de bogate în apă pe ploaie.",
                 "en": "The small cascades (necklaces) are especially water-rich during rain.",
-                "hr": "Male kaskade (ogrlice) posebno su bogate vodom tijekom kiše."
+                "hr": "Male kaskade (ogrlice) osobito su bogate vodom tijekom kiše."
               }
             },
             {
@@ -1648,7 +1679,7 @@
                 "hu": "Parkoljon közvetlenül a kolostor bejáratánál; az út rövid és burkolt.",
                 "ro": "Parcați chiar la intrarea în mănăstire; drumul este scurt și pavat.",
                 "en": "Park right at the monastery entrance; the path is short and paved.",
-                "hr": "Parkirajte točno kod ulaza u manastir; put je kratak i asfaltiran."
+                "hr": "Parkirajte odmah kod ulaza u samostan; staza je kratka i popločana."
               }
             },
             {
@@ -1658,7 +1689,7 @@
                 "hu": "Az amfiteátrum nyitott; tartsa készenlétben az esernyőt vagy esőkabátot.",
                 "ro": "Amfiteatrul este neprotejat; aveți umbrela sau pelerina pregătită.",
                 "en": "The amphitheater is unsheltered; keep your umbrella or raincoat ready.",
-                "hr": "Amfiteatar nije natkriven; neka vam kišobran ili kabanica budu pri ruci."
+                "hr": "Amfiteatar je nenatkriven; imajte kišobran ili kabanicu pri ruci."
               }
             },
             {
@@ -1668,7 +1699,7 @@
                 "hu": "A kilátópont csak pár méterre van a parkolótól.",
                 "ro": "Punctul de observație este la doar câțiva metri de parcare.",
                 "en": "The viewpoint is only a few meters away from the parking area.",
-                "hr": "Vidikovac je udaljen samo nekoliko metara od parkirališta."
+                "hr": "Vidikovac je samo nekoliko metara od parkirališta."
               }
             }
           ],
@@ -1702,11 +1733,11 @@
               "Use the driving time between POIs to warm up and dry off."
             ],
             "hr": [
-              "Oprez na serpentinama prema Roškom slapu; cesta može biti skliska.",
-              "Stavite ručnike na sjedala kako biste pokupili vlagu s mokre odjeće.",
-              "Neka odmagljivač bude spreman kako biste spriječili zamagljivanje prozora zbog vlage.",
-              "Neka parkirališta kod udaljenih slapova su neasfaltirana i mogu biti blatna.",
-              "Iskoristite vrijeme vožnje između znamenitosti za zagrijavanje i sušenje."
+              "Pažnja na serpentinama prema Roškom slapu; cesta može biti skliska.",
+              "Stavite ručnike na sjedala kako bi upili vlagu s mokre odjeće.",
+              "Držite odmrzivač spremnim kako biste spriječili zamagljivanje prozora u vlazi.",
+              "Neka parkirališta kod udaljenih slapova nisu asfaltirana i mogu biti blatna.",
+              "Iskoristite vrijeme vožnje između atrakcija za zagrijavanje i sušenje."
             ]
           }
         },
@@ -1716,7 +1747,7 @@
             "hu": "Fagyos téli reggel kezdődik a Skradinski buk felé vezető úttal. Az utak üresek, a táj mintha megdermedt volna. A Visovac-kilátó után délben érjük el a téli fényben csillogó Roški slap-ot. Meglátogatjuk a Krka-kolostort és Burnumot, mielőtt Manojlovachoz érnénk a lemenő téli nap fényében. Tökéletes nap a park kényelmes felfedezéséhez.",
             "ro": "O dimineață geroasă de iarnă începe cu drumul spre Skradinski buk. Șoselele sunt pustii, iar peisajul pare înghețat. După punctul de belvedere Visovac, ajungem la Roški slap, care strălucește în lumina iernii. Vizităm mănăstirea și Burnum, finalizând la Manojlovac sub soarele palid de iarnă. O zi perfectă pentru a explora parcul confortabil.",
             "en": "A frosty winter morning begins with the drive to Skradinski buk. The roads are empty and the landscape feels frozen in time. After the Visovac viewpoint, we reach Roški slap at noon, glistening in the winter light. We visit Krka Monastery and Burnum before reaching Manojlovac under the low winter sun. A perfect day to explore the park's vastness comfortably.",
-            "hr": "Ledeno zimsko jutro počinje vožnjom do Skradinskog buka. Ceste su prazne, a krajolik djeluje zamrznut u vremenu. Nakon vidikovca Visovac, u podne stižemo do Roškog slapa koji blista na zimskom svjetlu. Posjećujemo manastir Krka i Burnum prije dolaska do Manojlovca pod niskim zimskim suncem. Savršen dan za udobno istraživanje prostranstava parka."
+            "hr": "Mrazno zimsko jutro započinje vožnjom do Skradinskog buka. Ceste su prazne i krajolik djeluje zaleđeno u vremenu. Nakon vidikovca Visovac, u podne stižemo do Roškog slapa koji se presijava u zimskom svjetlu. Posjećujemo samostan Krka i Burnum prije nego što pod niskim zimskim suncem stignemo do Manojlovca. Savršen dan za udobno istraživanje prostranstava parka."
           },
           "stops": [
             {
@@ -1726,7 +1757,7 @@
                 "hu": "Használja az ülésfűtést a hideg vízeséseknél tett séta után.",
                 "ro": "Folosiți încălzirea în scaune după plimbarea pe lângă cascadele reci.",
                 "en": "Use the seat heating after your walk by the cold cascades.",
-                "hr": "Koristite grijanje sjedala nakon šetnje uz hladne kaskade."
+                "hr": "Koristite grijače sjedala nakon šetnje kraj hladnih kaskada."
               }
             },
             {
@@ -1736,7 +1767,7 @@
                 "hu": "A szél a lejtőnél metszően hideg; maradjon melegen felöltözve.",
                 "ro": "Vântul de pe versant este tăios; rămâneți bine înfofoliți.",
                 "en": "The wind on the slope is biting cold; stay warmly dressed.",
-                "hr": "Vjetar na padini je ledeno hladan; ostanite toplo odjeveni."
+                "hr": "Vjetar na obronku je oštar; ostanite toplo odjeveni."
               }
             },
             {
@@ -1746,7 +1777,7 @@
                 "hu": "Az itteni vendéglátóhelyek télen gyakran csak korlátozottan vannak nyitva.",
                 "ro": "Restaurantele de aici au adesea program redus pe timp de iarnă.",
                 "en": "Gastronomy options here often have limited hours during winter.",
-                "hr": "Ugostiteljski objekti ovdje zimi često imaju ograničeno radno vrijeme."
+                "hr": "Gastronomske opcije ovdje često imaju ograničeno radno vrijeme tijekom zime."
               }
             },
             {
@@ -1756,7 +1787,7 @@
                 "hu": "A kolostor spirituális csendje télen különösen hatásos.",
                 "ro": "Mănăstirea oferă o liniște spirituală care se simte mai profund iarna.",
                 "en": "The monastery offers a spiritual silence that is especially moving in winter.",
-                "hr": "Manastir nudi duhovnu tišinu koja je posebno dirljiva zimi."
+                "hr": "Samostan nudi duhovnu tišinu koja je posebno dirljiva zimi."
               }
             },
             {
@@ -1766,7 +1797,7 @@
                 "hu": "A kövek fagyban nagyon csúszósak lehetnek; óvatosan lépkedjen.",
                 "ro": "Pietrele pot fi foarte alunecoase în caz de îngheț; atenție sporită.",
                 "en": "The stones can be very slippery during frost; be careful where you step.",
-                "hr": "Kamenje može biti vrlo sklisko tijekom mraza; pazite kamo stajete."
+                "hr": "Kamenje može biti vrlo sklisko tijekom mraza; pazite kuda gazite."
               }
             },
             {
@@ -1810,11 +1841,11 @@
               "Fill up your tank; gas stations are sparse in the hinterland."
             ],
             "hr": [
-              "Provjerite tlak u gumama; hladno vrijeme može uzrokovati pad tlaka.",
-              "Strugalica za led je neophodna za rane jutarnje sate na parkiralištu.",
-              "Planinske ceste u parku se tijekom snijega čiste s odmakom.",
-              "Ponesite deke za suputnike koji možda žele pričekati u autu.",
-              "Napunite spremnik; benzinske postaje su rijetke u zaleđu."
+              "Provjerite tlak u gumama; hladnoća ga može sniziti.",
+              "Strugač leda je nužnost za rane jutarnje sate na parkiralištu.",
+              "Planinske ceste u parku se očiste s odgodom tijekom snijega.",
+              "Ponesite deke za putnike koji žele pričekati u autu.",
+              "Napunite spremnik; benzinske crpke su rijetke u zaleđu."
             ]
           }
         }
@@ -1844,7 +1875,7 @@
             "hu": "A parkbusz 30 percenként jár.",
             "ro": "Autobuzul circulă la 30 min.",
             "en": "Park bus runs every 30 min.",
-            "hr": "Park bus vozi svakih 30 min."
+            "hr": "Park-bus radi svake 30 min."
           }
         },
         {
@@ -1882,7 +1913,7 @@
             "hu": "A hajó benne van a jegyben.",
             "ro": "Barca e inclusă în bilet.",
             "en": "Boat is included in ticket.",
-            "hr": "Brod je uključen u cijenu ulaznice."
+            "hr": "Brod je uključen u ulaznicu."
           }
         },
         {
@@ -1901,7 +1932,7 @@
             "hu": "Busz Šibenik felé elérhető.",
             "ro": "Autobuz spre Šibenik disponibil.",
             "en": "Bus to Šibenik available.",
-            "hr": "Dostupan bus za Šibenik."
+            "hr": "Autobus za Šibenik dostupan."
           }
         }
       ],
@@ -1910,7 +1941,7 @@
         "hu": "Használja ki a park transzferbuszait és hajóit. Induljon Lozovacból busszal a vízesésekhez. A sétautak bejárása után szálljon hajóra Skradin felé. Élvezze a hajózást a Krka folyón. Skradinban ebédeljen meg, majd menetrend szerinti busszal vagy taxival térjen vissza.",
         "ro": "Folosiți sistemul de autobuze și bărci al parcului. Plecați din Lozovac cu autobuzul spre cascadă. După explorarea potecilor, luați barca spre Skradin. Bucurați-vă de plimbarea pe râul Krka. În Skradin puteți mânca liniștit, apoi reveniți cu autobuzul de linie.",
         "en": "Use the convenient system of shuttle buses and boats. Start in Lozovac with the bus to the waterfall. After exploring the trails, take the boat to Skradin. Enjoy the boat trip on the Krka River. In Skradin, have a relaxed meal and then return by regular bus or taxi.",
-        "hr": "Koristite prikladan sustav shuttle busova i brodova. Započnite u Lozovcu autobusom do slapa. Nakon istraživanja staza, ukrcajte se na brod za Skradin. Uživajte u plovidbi rijekom Krkom. U Skradinu se opustite uz obrok, a zatim se vratite redovnim autobusom ili taksijem."
+        "hr": "Iskoristite praktičan sustav shuttle-busova i brodova. Počnite u Lozovcu s autobusom do slapa. Nakon istraživanja staza, uhvatite brod do Skradina. Uživajte u vožnji Krkom. U Skradinu priuštite opušten obrok, a zatim se vratite redovnim autobusom ili taksijem."
       },
       "gastro_picks": {
         "de": [
@@ -2032,7 +2063,7 @@
         ],
         "hr": [
           "Provjerite raspored brodova.",
-          "Rezervirajte ulaznice unaprijed putem interneta."
+          "Rezervirajte ulaznice unaprijed online."
         ]
       },
       "variants": {
@@ -2041,7 +2072,8 @@
             "de": "Nutzen Sie das bequeme System aus Shuttle-Bussen und Booten. Starten Sie in Lozovac mit dem Bus zum Wasserfall. Nach der Erkundung der Wege nehmen Sie das Boot nach Skradin. Genießen Sie die Fahrt auf dem Fluss Krka. In Skradin können Sie entspannt essen und dann mit dem Linienbus oder Taxi zurückkehren.",
             "hu": "Használja ki a park transzferbuszait és hajóit. Induljon Lozovacból busszal a vízesésekhez. A sétautak bejárása után szálljon hajóra Skradin felé. Élvezze a hajózást a Krka folyón. Skradinban ebédeljen meg, majd menetrend szerinti busszal vagy taxival térjen vissza.",
             "ro": "Folosiți sistemul de autobuze și bărci al parcului. Plecați din Lozovac cu autobuzul spre cascadă. După explorarea potecilor, luați barca spre Skradin. Bucurați-vă de plimbarea pe râul Krka. În Skradin puteți mânca liniștit, apoi reveniți cu autobuzul de linie.",
-            "en": "Use the convenient system of shuttle buses and boats. Start in Lozovac with the bus to the waterfall. After exploring the trails, take the boat to Skradin. Enjoy the boat trip on the Krka River. In Skradin, have a relaxed meal and then return by regular bus or taxi."
+            "en": "Use the convenient system of shuttle buses and boats. Start in Lozovac with the bus to the waterfall. After exploring the trails, take the boat to Skradin. Enjoy the boat trip on the Krka River. In Skradin, have a relaxed meal and then return by regular bus or taxi.",
+            "hr": "Iskoristite praktičan sustav shuttle-busova i brodova. Počnite u Lozovcu s autobusom do slapa. Nakon istraživanja staza, uhvatite brod do Skradina. Uživajte u vožnji Krkom. U Skradinu priuštite opušten obrok, a zatim se vratite redovnim autobusom ili taksijem."
           },
           "stops": [
             {
@@ -2050,7 +2082,8 @@
                 "de": "Parkbus fährt alle 30 Min.",
                 "hu": "A parkbusz 30 percenként jár.",
                 "ro": "Autobuzul circulă la 30 min.",
-                "en": "Park bus runs every 30 min."
+                "en": "Park bus runs every 30 min.",
+                "hr": "Park-bus radi svake 30 min."
               }
             },
             {
@@ -2059,7 +2092,8 @@
                 "de": "Hinterer Rundweg ist ruhiger.",
                 "hu": "A hátsó útvonal csendesebb.",
                 "ro": "Traseul din spate e mai liniștit.",
-                "en": "Back trail is quieter."
+                "en": "Back trail is quieter.",
+                "hr": "Povratna staza je mirnija."
               }
             },
             {
@@ -2068,7 +2102,8 @@
                 "de": "Boot ist im Ticket enthalten.",
                 "hu": "A hajó benne van a jegyben.",
                 "ro": "Barca e inclusă în bilet.",
-                "en": "Boat is included in ticket."
+                "en": "Boat is included in ticket.",
+                "hr": "Brod je uključen u ulaznicu."
               }
             },
             {
@@ -2077,7 +2112,8 @@
                 "de": "Bus nach Šibenik möglich.",
                 "hu": "Busz Šibenik felé elérhető.",
                 "ro": "Autobuz spre Šibenik disponibil.",
-                "en": "Bus to Šibenik available."
+                "en": "Bus to Šibenik available.",
+                "hr": "Autobus za Šibenik dostupan."
               }
             }
           ],
@@ -2179,6 +2215,10 @@
             "en": [
               "Check boat schedules.",
               "Pre-book tickets online."
+            ],
+            "hr": [
+              "Provjerite raspored brodova.",
+              "Rezervirajte ulaznice unaprijed online."
             ]
           }
         },
@@ -2188,7 +2228,7 @@
             "hu": "Érkezés esőben a Lozovac buszmegállóhoz. A transzfer a Skradinski buk-hoz a száraz parkbusszal történik. Délben hajóra szállunk Skradin felé, élvezve a kilátást a kabin ablakain keresztül. Az időjárás ellenére a fő pontok közötti összeköttetés megbízható és nagyrészt szárazon tart minket.",
             "ro": "Sosire pe ploaie la stația de autobuz Lozovac. Transferul spre Skradinski buk se face cu autobuzul parcului, la uscat. La prânz luăm barca spre Skradin, admirând peisajul prin ferestrele cabinei. În ciuda vremii, conexiunea între punctele principale este fiabilă și ne menține uscați.",
             "en": "Arriving in the rain at the Lozovac bus stop. The transfer to Skradinski buk is done via the dry park shuttle bus. At noon, we take the boat to Skradin, enjoying the view through the cabin windows. Despite the weather, the connection between main points is reliable and keeps us mostly dry.",
-            "hr": "Dolazak na kišnu autobusnu stanicu Lozovac. Transfer do Skradinskog buka obavlja se suhim shuttle busom parka. U podne idemo brodom za Skradin, uživajući u pogledu kroz prozore kabine. Unatoč vremenu, povezanost glavnih točaka je pouzdana i održava nas uglavnom suhima."
+            "hr": "Dolazak po kiši na stajalište Lozovac. Transfer do Skradinskog buka obavlja se suhim park-shuttle autobusom. U podne uzimamo brod do Skradina, uživajući u pogledu kroz stakla kabine. Unatoč vremenu, povezanost između glavnih točaka je pouzdana i većinom nas održava suhim."
           },
           "stops": [
             {
@@ -2198,7 +2238,7 @@
                 "hu": "Várjon a jegypénztár épületében a csatlakozó buszra.",
                 "ro": "Așteptați autobuzul de legătură în interiorul casei de bilete.",
                 "en": "Wait for the connecting bus inside the ticket office building.",
-                "hr": "Čekajte presjedanje na autobus unutar zgrade ureda za prodaju karata."
+                "hr": "Pričekajte spojni autobus unutar zgrade blagajne."
               }
             },
             {
@@ -2208,7 +2248,7 @@
                 "hu": "A parkbusz közvetlenül a platónál áll meg; használja heves esőben.",
                 "ro": "Autobuzul oprește chiar pe platou; folosiți-l în caz de ploaie torențială.",
                 "en": "The park shuttle stops directly at the plateau; use it during heavy rain.",
-                "hr": "Shuttle bus parka staje izravno na platou; koristite ga tijekom jake kiše."
+                "hr": "Park-shuttle zaustavlja se izravno na plato; koristite ga pri jakoj kiši."
               }
             },
             {
@@ -2218,7 +2258,7 @@
                 "hu": "A hajóknak van fedett része; szálljon be korán.",
                 "ro": "Bărcile au o zonă acoperită; urcați din timp la bord.",
                 "en": "The boats have a covered area; board early to secure a dry spot.",
-                "hr": "Brodovi imaju natkriveni dio; ukrcajte se ranije kako biste osigurali suho mjesto."
+                "hr": "Brodovi imaju natkriveni dio; ukrcajte se rano da osigurate suho mjesto."
               }
             },
             {
@@ -2262,11 +2302,11 @@
               "Seats in the middle of the bus stay driest during boarding and exiting."
             ],
             "hr": [
-              "Neka vam karta bude spremna kako biste izbjegli stajanje na kiši na kontrolnim točkama.",
-              "Brodovi između Skradina i Skradinskog buka su manje krcati tijekom kiše.",
+              "Imajte kartu pri ruci kako biste izbjegli stajanje na kiši pri kontrolnim punktovima.",
+              "Brodovi između Skradina i Skradinskog buka manje su puni tijekom kiše.",
               "Nosite odjeću koja štiti od vjetra na palubi broda.",
-              "Koristite aplikaciju Nacionalnog parka za informacije o kašnjenjima u stvarnom vremenu.",
-              "Sjedala u sredini autobusa ostaju najsuša tijekom ulaska i izlaska."
+              "Koristite aplikaciju Nacionalnog parka za informacije u stvarnom vremenu o eventualnim kašnjenjima.",
+              "Sjedala u sredini autobusa ostaju najsuša pri ukrcaju i iskrcaju."
             ]
           }
         },
@@ -2276,7 +2316,7 @@
             "hu": "Csendes téli nap kezdődik a Lozovac buszmegállónál. A parkbusz az alvó tájon át visz minket a Skradinski buk-hoz. Délben a skradini hajóutat szinte egyedül élvezzük a vízen. A visszautazás Lozovacba időt ad a téli benyomások felidézésére, mielőtt korán besötétedik.",
             "ro": "O zi liniștită de iarnă începe la stația Lozovac. Autobuzul ne poartă prin peisajul adormit spre Skradinski buk. La prânz, ne bucurăm de plimbarea cu barca spre Skradin aproape singuri pe apă. Întoarcerea spre Lozovac oferă timp pentru reflecție înainte de lăsarea serii timpurii.",
             "en": "A quiet winter day begins at the Lozovac bus stop. The park shuttle takes us through the sleeping landscape to Skradinski buk. At noon, we enjoy the boat ride to Skradin almost alone on the water. The return trip to Lozovac gives us time to reflect on the winter scenery before darkness falls early.",
-            "hr": "Miran zimski dan počinje na autobusnoj stanici Lozovac. Shuttle bus parka vodi nas kroz uspavani krajolik do Skradinskog buka. U podne uživamo u vožnji brodom do Skradina gotovo sami na vodi. Povratak u Lozovac daje nam vremena za razmišljanje o zimskom krajoliku prije nego što mrak rano padne."
+            "hr": "Tihi zimski dan započinje na stajalištu Lozovac. Park-shuttle vodi nas kroz uspavani krajolik do Skradinskog buka. U podne uživamo u vožnji brodom do Skradina gotovo sami na vodi. Povratak u Lozovac daje vremena za razmišljanje o zimskim prizorima prije nego što rano padne tama."
           },
           "stops": [
             {
@@ -2286,7 +2326,7 @@
                 "hu": "Vegye figyelembe a téli menetrendet; a buszok ritkábban járnak, mint nyáron.",
                 "ro": "Respectați orarul de iarnă; autobuzele circulă mai rar decât vara.",
                 "en": "Note the winter schedule; buses run less frequently than in summer.",
-                "hr": "Obratite pažnju na zimski raspored; autobusi voze rjeđe nego ljeti."
+                "hr": "Obratite pozornost na zimski raspored; autobusi voze rjeđe nego ljeti."
               }
             },
             {
@@ -2296,7 +2336,7 @@
                 "hu": "Használja a fűtött buszt a vízesés-platóhoz való utazáshoz.",
                 "ro": "Folosiți autobuzul încălzit pentru drumul spre platoul cascadei.",
                 "en": "Use the heated bus for the ride down to the waterfall plateau.",
-                "hr": "Koristite grijani autobus za vožnju do platoa sa slapovima."
+                "hr": "Koristite grijani autobus za spust do platoa slapa."
               }
             },
             {
@@ -2306,7 +2346,7 @@
                 "hu": "A hajók télen gyakran csak 16:00-ig járnak; ellenőrizze az utolsó járatot.",
                 "ro": "Bărcile circulă adesea doar până la ora 16:00; verificați ultima cursă.",
                 "en": "Boats often run only until 4:00 PM in winter; check the last departure.",
-                "hr": "Brodovi zimi često voze samo do 16:00; provjerite zadnji polazak."
+                "hr": "Brodovi često voze samo do 16:00 zimi; provjerite posljednji polazak."
               }
             },
             {
@@ -2316,7 +2356,7 @@
                 "hu": "Győződjön meg róla, hogy nem kési le az utolsó felfelé tartó parkbuszt.",
                 "ro": "Asigurați-vă că nu pierdeți ultimul autobuz al parcului spre ieșire.",
                 "en": "Make sure you don't miss the last park shuttle bus going uphill.",
-                "hr": "Pazite da ne propustite zadnji shuttle bus parka koji vozi uzbrdo."
+                "hr": "Pobrinite se da ne propustite zadnji park-shuttle autobus koji ide uzbrdo."
               }
             }
           ],
@@ -2350,11 +2390,11 @@
               "Take advantage of the short walking distances at transit stops to minimize cold exposure."
             ],
             "hr": [
-              "Topla odjeća je ključna za vrijeme čekanja na stanicama.",
-              "Brodovi zimi nisu grijani; sjednite u zavjetrinu.",
-              "Planirajte više vremena jer su veze rjeđe zimi.",
-              "Popijte topli napitak prije ulaska u autobus ili brod.",
-              "Iskoristite kratke pješačke udaljenosti na stanicama kako biste smanjili izloženost hladnoći."
+              "Topla odjeća je ključna zbog čekanja na stajalištima tranzita.",
+              "Brodovi su nezagrijani zimi; sjednite na stranu zaštićenu od vjetra.",
+              "Ostavite dodatno vrijeme jer su veze zimi rjeđe.",
+              "Popijte topao napitak prije ukrcaja u autobus ili na brod.",
+              "Iskoristite kratke udaljenosti hoda na stajalištima kako biste minimalizirali izloženost hladnoći."
             ]
           }
         }
@@ -2376,19 +2416,22 @@
       "de": "Bok = Hallo, Hvala = Danke. Parkpersonal spricht Englisch, oft auch Deutsch/Italienisch.",
       "hu": "Bok = Szia, Hvala = Köszönöm. Angolul jól megy, németül gyakran.",
       "ro": "Bok = Salut, Hvala = Mulțumesc. Personalul vorbește engleză și deseori italiană.",
-      "en": "Bok = hi, Hvala = thanks. Park rangers speak English; German and Italian common."
+      "en": "Bok = hi, Hvala = thanks. Park rangers speak English; German and Italian common.",
+      "hr": "Bok = hi, Hvala = thanks. Ravnatelji parka govore engleski; često i njemački i talijanski."
     },
     "best_time_to_visit": {
       "de": "Mai-Juni und September; Juli/August sehr voll, Baden in Skradinski Buk verboten.",
       "hu": "Május-június és szeptember a legjobb; július-augusztus zsúfolt, fürdés tilos.",
       "ro": "Mai-iunie și septembrie; iulie-august aglomerat, scăldatul interzis.",
-      "en": "May-June and September best; July-August crowded, swimming banned at Skradinski Buk."
+      "en": "May-June and September best; July-August crowded, swimming banned at Skradinski Buk.",
+      "hr": "Najbolje svibanj–lipanj i rujan; srpanj–kolovoz gužve, kupanje zabranjeno na Skradinskom buku."
     },
     "neighborhood_warnings": {
       "de": "Lozovac-Eingang: festes Schuhwerk, rutschige Holzstege. Tickets online vorab kaufen.",
       "hu": "Lozovac bejárat: zárt cipő kell, csúszós pallók. Online jegyet előre vegyél.",
       "ro": "Intrarea Lozovac: încălțăminte fermă, pasarele alunecoase. Cumpără bilet online.",
-      "en": "Lozovac entry: sturdy shoes needed, slippery boardwalks. Buy tickets online ahead."
+      "en": "Lozovac entry: sturdy shoes needed, slippery boardwalks. Buy tickets online ahead.",
+      "hr": "Ulaz Lozovac: potrebna čvrsta obuća, klizave drvene staze. Kupite karte online unaprijed."
     }
   }
 }

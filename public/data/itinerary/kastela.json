@@ -70,7 +70,7 @@
             "hu": "Több mint 1500 éves természeti emlék.",
             "ro": "Monument natural de peste 1500 de ani.",
             "en": "A natural monument over 1500 years old.",
-            "hr": "Prirodni spomenik star više od 1500 godina."
+            "hr": "Prirodni spomenik star preko 1500 godina."
           }
         },
         {
@@ -89,7 +89,7 @@
             "hu": "Látogassa meg a bent működő városi múzeumot.",
             "ro": "Vizitați muzeul orașului aflat în interior.",
             "en": "Visit the city museum located inside.",
-            "hr": "Posjetite gradski muzej koji se nalazi unutra."
+            "hr": "Posjetite gradski muzej smješten unutra."
           }
         },
         {
@@ -108,7 +108,7 @@
             "hu": "Csendes hely az elmélyüléshez.",
             "ro": "Un loc liniștit pentru meditație.",
             "en": "A quiet place for reflection.",
-            "hr": "Mirno mjesto za razmišljanje."
+            "hr": "Tih mjesto za razmišljanje."
           }
         },
         {
@@ -127,7 +127,7 @@
             "hu": "Tökéletes hely egy italra naplementekor.",
             "ro": "Perfect pentru o băutură la apus.",
             "en": "Perfect for a drink at sunset.",
-            "hr": "Savršeno za piće uz zalazak sunca."
+            "hr": "Savršeno za piće u zalazak sunca."
           }
         }
       ],
@@ -136,7 +136,7 @@
         "hu": "Kezdje a napot Kaštel Noviban, ahol a történelem megelevenedik a szűk utcákon. Csodálja meg a Rotondo-torony erődítményét és az impozáns öreg olajfát, amely a római kor óta rendületlenül áll.\n\nDélben érkezzen meg a pazar Vitturi-kastélyhoz Kaštel Lukšićban. Merüljön el Miljenko és Dobrila tragikus szerelmi történetében, miközben bejárja a múzeum termeit.\n\nDélután a Szent János-templom nyújt egy pillanatnyi csendet. A tengerparti sétány lágy hullámzással kísérve köti össze a történelmi gyöngyszemeket.\n\nZárja a napot a Gabine strandon. Élvezze a meleg dalmát szellőt és a Kaštelai-öbölre nyíló kilátást egy pohár helyi Crljenak bor társaságában.",
         "ro": "Începeți ziua în Kaštel Novi, unde istoria prinde viață pe străzile înguste. Admirați fortificația Turnului Rotondo și impunătorul măslin vechi, care stă neclintit încă din epoca romană.\n\nLa prânz, ajungeți la somptuosul Castel Vitturi din Kaštel Lukšić. Scufundați-vă în povestea tragică de dragoste a lui Miljenko și Dobrila în timp ce explorați sălile muzeului.\n\nDupă-amiaza, Biserica Sfântul Ioan oferă un moment de liniște. Promenada de pe malul mării leagă perlele istorice, însoțită de susurul blând al valurilor.\n\nÎncheiați ziua pe plaja Gabine. Bucurați-vă de briza caldă dalmată și de vederea spre golful Kaštela cu un pahar de vin local Crljenak.",
         "en": "Start your day in Kaštel Novi, where history comes alive in the narrow streets. Admire the fortification of the Rotondo Tower and the imposing old olive tree, which has stood since Roman times.\n\nAt noon, reach the magnificent Vitturi Castle in Kaštel Lukšić. Immerse yourself in the tragic love story of Miljenko and Dobrila while exploring the museum rooms.\n\nIn the afternoon, the Church of Saint John offers a moment of silence. The seaside promenade connects the historical gems accompanied by the gentle sound of the waves.\n\nEnd the day at Gabine beach. Enjoy the warm Dalmatian breeze and the view of the Kaštela Bay with a glass of local Crljenak wine.",
-        "hr": "Započnite dan u Kaštel Novom, gdje povijest oživljava u uskim uličicama. Divite se utvrdi kuli Rotondo i impozantnoj staroj maslini koja ovdje stoji još od rimskih vremena.\n\nU podne dođite do veličanstvenog dvorca Vitturi u Kaštel Lukšiću. Uronite u tragičnu ljubavnu priču o Miljenku i Dobrili dok istražujete muzejske prostorije.\n\nPoslijepodne, crkva svetog Ivana nudi trenutak tišine. Šetnica uz more povezuje povijesne dragulje uz lagani zvuk valova.\n\nZavršite dan na plaži Gabine. Uživajte u toplom dalmatinskom povjetarcu i pogledu na Kaštelanski zaljev uz čašu domaćeg vina Crljenak."
+        "hr": "Dan započnite u Kaštel Novom, gdje povijest oživljava u uskim ulicama. Divite se utvrdi Rotondo i impozantnom starom masliniku koji stoji još od rimskog doba.\n\nU podne stižite do veličanstvenog Kaštela Vitturi u Kaštel Lukšiću. Uronite u tragičnu ljubavnu priču Miljenka i Dobrile dok istražujete muzejske prostorije.\n\nPoslijepodne Crkva sv. Ivana pruža trenutak tišine. Šetnica uz more povezuje povijesne dragulje uz blagi zvuk valova.\n\nDan završite na plaži Gabine. Uživajte u toplom dalmatinskom povjetarcu i pogledu na Kaštelanski zaljev uz čašu lokalnog vina Crljenak."
       },
       "gastro_picks": {
         "de": [
@@ -257,8 +257,8 @@
           "Use the seaside promenade to move between the castles."
         ],
         "hr": [
-          "Nosite udobnu obuću za hodanje po kamenim ulicama.",
-          "Koristite šetnicu uz more za kretanje između dvoraca."
+          "Nosite udobnu obuću zbog kaldrmisanih ulica.",
+          "Koristite šetnicu uz more za kretanje između kaštela."
         ]
       },
       "variants": {
@@ -267,7 +267,8 @@
             "de": "Beginnen Sie Ihren Tag in Kaštel Novi, wo die Geschichte in den engen Gassen lebendig wird. Bestaunen Sie den wehrhaften Turm Rotondo und den imposanten alten Olivenbaum, der seit der Römerzeit steht.\n\nMittags erreichen Sie das prächtige Schloss Vitturi in Kaštel Lukšić. Tauchen Sie in die tragische Liebesgeschichte von Miljenko und Dobrila ein, während Sie die Museumsräume erkunden.\n\nAm Nachmittag bietet die Kirche des Heiligen Johannes einen Moment der Stille. Der Weg entlang der Küste verbindet die historischen Perlen mit sanftem Meeresrauschen.\n\nLassen Sie den Tag am Strand Gabine ausklingen. Genießen Sie die warme dalmatinische Brise und den Blick auf die Bucht von Kaštela bei einem Glas lokalem Crljenak.",
             "hu": "Kezdje a napot Kaštel Noviban, ahol a történelem megelevenedik a szűk utcákon. Csodálja meg a Rotondo-torony erődítményét és az impozáns öreg olajfát, amely a római kor óta rendületlenül áll.\n\nDélben érkezzen meg a pazar Vitturi-kastélyhoz Kaštel Lukšićban. Merüljön el Miljenko és Dobrila tragikus szerelmi történetében, miközben bejárja a múzeum termeit.\n\nDélután a Szent János-templom nyújt egy pillanatnyi csendet. A tengerparti sétány lágy hullámzással kísérve köti össze a történelmi gyöngyszemeket.\n\nZárja a napot a Gabine strandon. Élvezze a meleg dalmát szellőt és a Kaštelai-öbölre nyíló kilátást egy pohár helyi Crljenak bor társaságában.",
             "ro": "Începeți ziua în Kaštel Novi, unde istoria prinde viață pe străzile înguste. Admirați fortificația Turnului Rotondo și impunătorul măslin vechi, care stă neclintit încă din epoca romană.\n\nLa prânz, ajungeți la somptuosul Castel Vitturi din Kaštel Lukšić. Scufundați-vă în povestea tragică de dragoste a lui Miljenko și Dobrila în timp ce explorați sălile muzeului.\n\nDupă-amiaza, Biserica Sfântul Ioan oferă un moment de liniște. Promenada de pe malul mării leagă perlele istorice, însoțită de susurul blând al valurilor.\n\nÎncheiați ziua pe plaja Gabine. Bucurați-vă de briza caldă dalmată și de vederea spre golful Kaštela cu un pahar de vin local Crljenak.",
-            "en": "Start your day in Kaštel Novi, where history comes alive in the narrow streets. Admire the fortification of the Rotondo Tower and the imposing old olive tree, which has stood since Roman times.\n\nAt noon, reach the magnificent Vitturi Castle in Kaštel Lukšić. Immerse yourself in the tragic love story of Miljenko and Dobrila while exploring the museum rooms.\n\nIn the afternoon, the Church of Saint John offers a moment of silence. The seaside promenade connects the historical gems accompanied by the gentle sound of the waves.\n\nEnd the day at Gabine beach. Enjoy the warm Dalmatian breeze and the view of the Kaštela Bay with a glass of local Crljenak wine."
+            "en": "Start your day in Kaštel Novi, where history comes alive in the narrow streets. Admire the fortification of the Rotondo Tower and the imposing old olive tree, which has stood since Roman times.\n\nAt noon, reach the magnificent Vitturi Castle in Kaštel Lukšić. Immerse yourself in the tragic love story of Miljenko and Dobrila while exploring the museum rooms.\n\nIn the afternoon, the Church of Saint John offers a moment of silence. The seaside promenade connects the historical gems accompanied by the gentle sound of the waves.\n\nEnd the day at Gabine beach. Enjoy the warm Dalmatian breeze and the view of the Kaštela Bay with a glass of local Crljenak wine.",
+            "hr": "Započnite dan u Kaštel Novom, gdje povijest oživljava u uskim ulicama. Divite se utvrdi Tornja Rotondo i impozantnom starom maslinovom stablu koje stoji još od rimskih vremena.\n\nU podne, dođite do veličanstvenog Kaštela Vitturi u Kaštel Lukšiću. Uronite u tragičnu ljubavnu priču Miljenka i Dobrile dok istražujete muzejske prostorije.\n\nPoslijepodne, crkva sv. Ivana nudi trenutak tišine. Šetnica uz more povezuje povijesne dragulje uz nježan zvuk valova.\n\nZavršite dan na plaži Gabine. Uživajte u toplom dalmatinskom povjetarcu i pogledu na Kaštelanski zaljev uz čašu lokalnog vina Crljenak."
           },
           "stops": [
             {
@@ -276,7 +277,8 @@
                 "de": "Frühmorgens ist der Markt am lebhaftesten.",
                 "hu": "Kora reggel a legpezsgőbb itt a piaci élet.",
                 "ro": "Piața este cea mai plină de viață dimineața devreme.",
-                "en": "The market is most lively early in the morning."
+                "en": "The market is most lively early in the morning.",
+                "hr": "Tržnica je najživlja rano ujutro."
               }
             },
             {
@@ -285,7 +287,8 @@
                 "de": "Bewundern Sie das Wappen der Familie Rossi.",
                 "hu": "Csodálja meg a Rossi család címerét a falon.",
                 "ro": "Admirați blazonul familiei Rossi pe zid.",
-                "en": "Admire the coat of arms of the Rossi family."
+                "en": "Admire the coat of arms of the Rossi family.",
+                "hr": "Divite se grbu obitelji Rossi."
               }
             },
             {
@@ -294,7 +297,8 @@
                 "de": "Über 1500 Jahre alter Naturdenkmal.",
                 "hu": "Több mint 1500 éves természeti emlék.",
                 "ro": "Monument natural de peste 1500 de ani.",
-                "en": "A natural monument over 1500 years old."
+                "en": "A natural monument over 1500 years old.",
+                "hr": "Prirodna znamenitost starija od 1500 godina."
               }
             },
             {
@@ -303,7 +307,8 @@
                 "de": "Besuchen Sie das Stadtmuseum im Inneren.",
                 "hu": "Látogassa meg a bent működő városi múzeumot.",
                 "ro": "Vizitați muzeul orașului aflat în interior.",
-                "en": "Visit the city museum located inside."
+                "en": "Visit the city museum located inside.",
+                "hr": "Posjetite gradski muzej smješten unutra."
               }
             },
             {
@@ -312,7 +317,8 @@
                 "de": "Ein ruhiger Ort für innere Einkehr.",
                 "hu": "Csendes hely az elmélyüléshez.",
                 "ro": "Un loc liniștit pentru meditație.",
-                "en": "A quiet place for reflection."
+                "en": "A quiet place for reflection.",
+                "hr": "Mirno mjesto za razmišljanje."
               }
             },
             {
@@ -321,7 +327,8 @@
                 "de": "Perfekt für einen Drink zum Sonnenuntergang.",
                 "hu": "Tökéletes hely egy italra naplementekor.",
                 "ro": "Perfect pentru o băutură la apus.",
-                "en": "Perfect for a drink at sunset."
+                "en": "Perfect for a drink at sunset.",
+                "hr": "Savršeno za piće u zalazak sunca."
               }
             }
           ],
@@ -423,6 +430,10 @@
             "en": [
               "Wear comfortable shoes for the cobblestone streets.",
               "Use the seaside promenade to move between the castles."
+            ],
+            "hr": [
+              "Nosite udobnu obuću zbog kaldrme.",
+              "Koristite šetnicu uz more za kretanje između kaštela."
             ]
           }
         },
@@ -432,7 +443,7 @@
             "hu": "Kezdje a napot Kaštel Noviban esernyővel; a szűk utcák némi védelmet nyújtanak a szél elől. Délben fedezze fel a Vitturi-várat, amely múzeumként száraz programot kínál. Délután látogassa meg a Szent János-templomot, majd zárja a napot egy hangulatos tengerparti konobában, miközben az eső kopog az ablakon, és az Adria misztikus hangulatot áraszt a szürke fényekben.",
             "ro": "Începeți ziua în Kaštel Novi cu o umbrelă; străzile înguste oferă protecție împotriva vântului. La prânz, explorați Castelul Vitturi, care oferă un program uscat ca muzeu. După-amiaza vizitați Biserica Sfântului Ioan și încheiați ziua într-o tavernă primitoare de pe malul mării, în timp ce ploaia bate în geamuri, iar Adriatica emană o atmosferă mistică sub cerul plumburiu.",
             "en": "Start the day in Kaštel Novi with an umbrella; the narrow streets provide some shelter from the wind. At noon, explore Vitturi Castle, which offers a dry program as a museum. In the afternoon, visit St. John's Church and end the day in a cozy seaside tavern while the rain taps on the windows and the Adriatic exudes a mystical atmosphere in the gray light.",
-            "hr": "Započnite dan u Kaštel Novom s kišobranom; uske uličice pružaju zaklon od vjetra. U podne istražite dvorac Vitturi koji nudi suhi program kao muzej. Poslijepodne posjetite crkvu sv. Ivana i završite dan u ugodnoj konobi uz more dok kiša lupa po prozorima, a Jadran odiše mističnom atmosferom u sivom svjetlu."
+            "hr": "Započnite dan u Kaštel Novom s kišobranom; uske ulice pružaju određenu zaštitu od vjetra. U podne istražite Kaštel Vitturi koji nudi suh program kao muzej. Poslijepodne posjetite crkvu sv. Ivana i završite dan u ugodnoj konobi uz more dok kiša kuca po prozorima, a Jadran u sivoj svjetlosti oduševljava mističnom atmosferom."
           },
           "stops": [
             {
@@ -442,7 +453,7 @@
                 "hu": "A szűk utcák jól védenek az oldalszélben érkező esőtől.",
                 "ro": "Străzile înguste protejează bine de ploaia laterală.",
                 "en": "The narrow alleys protect well from sideways rain.",
-                "hr": "Uske kalete dobro štite od bočne kiše."
+                "hr": "Uske uličice dobro štite od bočne kiše."
               }
             },
             {
@@ -452,7 +463,7 @@
                 "hu": "Gyors fotómegálló, utána keressen fedett részt a közelben.",
                 "ro": "Oprire scurtă pentru poze, apoi căutați un adăpost apropiat.",
                 "en": "Quick photo stop, then find shelter nearby.",
-                "hr": "Brzo fotografiranje, a zatim potražite zaklon u blizini."
+                "hr": "Kratka foto pauza, zatim potražite sklonište u blizini."
               }
             },
             {
@@ -462,7 +473,7 @@
                 "hu": "A lombkorona csak minimális védelmet nyújt, nagy ernyő kell.",
                 "ro": "Coroana oferă protecție limitată, aveți nevoie de o umbrelă mare.",
                 "en": "The canopy offers limited protection; a large umbrella is needed.",
-                "hr": "Krošnja nudi ograničenu zaštitu; potreban je veliki kišobran."
+                "hr": "Nadstrešnica nudi ograničenu zaštitu; potreban je veliki kišobran."
               }
             },
             {
@@ -472,7 +483,7 @@
                 "hu": "Tökéletes hely esőben, a múzeum teljesen fedett és száraz.",
                 "ro": "Loc perfect pe ploaie, muzeul este complet acoperit.",
                 "en": "Perfect place in the rain; the museum is fully indoor and dry.",
-                "hr": "Savršeno mjesto po kiši; muzej je potpuno zatvoren i suh."
+                "hr": "Savršeno mjesto za kišu; muzej je potpuno unutra i suh."
               }
             },
             {
@@ -482,7 +493,7 @@
                 "hu": "Használja a belső teret egy elmélyült, száraz pihenőre.",
                 "ro": "Folosiți interiorul pentru o pauză spirituală și uscată.",
                 "en": "Use the interior for a contemplative, dry break.",
-                "hr": "Iskoristite unutrašnjost za kontemplativnu, suhu pauzu."
+                "hr": "Iskoristite interijer za kontemplativnu, suhu pauzu."
               }
             },
             {
@@ -492,7 +503,7 @@
                 "hu": "A tengerparti kávézók fedett teraszáról nézheti a hullámokat.",
                 "ro": "Cafenelele de pe plajă au terase acoperite cu vedere la mare.",
                 "en": "Beach cafes have covered terraces to watch the waves.",
-                "hr": "Kafići na plaži imaju natkrivene terase za promatranje valova."
+                "hr": "Plažni kafići imaju natkrivene terase za promatranje valova."
               }
             }
           ],
@@ -522,10 +533,10 @@
               "Many cafes along the Riva have glass fronts for dry sea views."
             ],
             "hr": [
-              "Nosite vodootpornu obuću jer kameni pločnici često budu skliski.",
-              "Vjetar Jugo može prevrnuti kišobrane; kabanica je sigurniji izbor.",
-              "Dvorac Vitturi je najbolja opcija za dužu pauzu od kiše.",
-              "Mnogi kafići uz Rivu imaju staklene stijene za suhi pogled na more."
+              "Nosite vodootpornu obuću zbog često klizavih kamenih ploča.",
+              "Jugo može prevrnuti kišobrane; kabanica je sigurniji izbor.",
+              "Kaštel Vitturi je najbolja opcija za dužu pauzu tijekom kiše.",
+              "Mnogi kafići uz Rivu imaju staklene vitrine za suhi pogled na more."
             ]
           }
         },
@@ -535,7 +546,7 @@
             "hu": "Élje át Kaštela nyugalmát az enyhe téli fényekben. A reggel frissen indul az óvárosban, majd a Vitturi-vár látogatása következik. Mivel a nap már 16:30 körül nyugszik, látogassa meg az 1500 éves olajfát az aranyló délutáni fényekben. A nap egy hűvös sétával zárul a Gabine-strandon, ahol élvezheti a tiszta téli levegőt és a tágas horizontot a nyári tömeg nélkül.",
             "ro": "Experimentați liniștea orașului Kaštela în lumina blândă de iarnă. Dimineața începe proaspăt în orașul vechi, urmată de o vizită la Castelul Vitturi. Deoarece soarele apune în jur de 16:30, vizitați măslinul vechi de 1500 de ani în lumina aurie a după-amiezii. Ziua se încheie cu o plimbare răcoroasă pe plaja Gabine, unde vă bucurați de aerul curat și orizontul larg fără turiștii de vară.",
             "en": "Experience the silence of Kaštela in the mild winter light. The morning starts fresh in the old town, followed by a visit to Vitturi Castle. Since the sun sets around 16:30, visit the 1500-year-old olive tree in the golden afternoon light. The day ends with a cool walk at Gabine Beach, where you enjoy the crisp winter air and the wide horizon without the summer crowds.",
-            "hr": "Doživite tišinu Kaštela u blagom zimskom svjetlu. Jutro počinje svježe u starom gradu, nakon čega slijedi posjet dvorcu Vitturi. Budući da sunce zalazi oko 16:30, posjetite 1500 godina staru maslinu u zlatnom poslijepodnevnom svjetlu. Dan završava hladnom šetnjom na plaži Gabine, gdje ćete uživati u svježem zimskom zraku i širokom horizontu bez ljetnih gužvi."
+            "hr": "Doživite tišinu Kaštela u blagom zimskom svjetlu. Jutro započinje svježinom u starom gradu, nakon čega slijedi posjet Kaštelu Vitturi. Budući da sunce zalazi oko 16:30, posjetite 1500 godina staro maslinovo stablo u zlatnom poslijepodnevnom svjetlu. Dan završava hladnom šetnjom na plaži Gabine, gdje uživate u svježem zimskom zraku i širokom horizontu bez ljetnih gužvi."
           },
           "stops": [
             {
@@ -545,7 +556,7 @@
                 "hu": "Élvezze a nyugalmat a nyári hőség és tömeg nélkül.",
                 "ro": "Bucurați-vă de liniște fără căldura sufocantă a verii.",
                 "en": "Enjoy the tranquility without the summer heat and crowds.",
-                "hr": "Uživajte u miru bez ljetnih vrućina i gužvi."
+                "hr": "Uživajte u miru bez ljetne vrućine i gužvi."
               }
             },
             {
@@ -555,7 +566,7 @@
                 "hu": "A téli fények szépen kiemelik a kövek textúráját.",
                 "ro": "Lumina de iarnă scoate în evidență textura pietrei.",
                 "en": "Winter light beautifully emphasizes the stone textures.",
-                "hr": "Zimsko svjetlo prekrasno naglašava teksturu kamena."
+                "hr": "Zimsko svjetlo lijepo ističe teksture kamena."
               }
             },
             {
@@ -565,7 +576,7 @@
                 "hu": "Télen az 1500 éves fa különösen tiszteletreméltó látvány.",
                 "ro": "Iarna, măslinul milenar arată deosebit de maiestuos.",
                 "en": "In winter, the 1500-year-old tree looks particularly venerable.",
-                "hr": "Zimi 1500 godina staro stablo izgleda posebno dostojanstveno."
+                "hr": "Zimi 1500 godina staro stablo izgleda osobito dostojanstveno."
               }
             },
             {
@@ -585,7 +596,7 @@
                 "hu": "Decemberben gyakran helyi betlehemes kiállítások helyszíne.",
                 "ro": "Deseori găzduiește expoziții de Crăciun în decembrie.",
                 "en": "Often hosts local nativity scenes in December.",
-                "hr": "Često ugošćuje lokalne jaslice u prosincu."
+                "hr": "Često u prosincu prikazuje lokalne jaslice."
               }
             },
             {
@@ -595,7 +606,7 @@
                 "hu": "Ideális egy meditatív sétára az üres tengerparton.",
                 "ro": "Ideal pentru o plimbare meditativă pe malul pustiu.",
                 "en": "Ideal for a meditative walk on the empty shore.",
-                "hr": "Idealno za meditativnu šetnju praznom obalom."
+                "hr": "Idelano za meditativnu šetnju po praznoj obali."
               }
             }
           ],
@@ -625,10 +636,10 @@
               "Bura winds can significantly lower the perceived temperature."
             ],
             "hr": [
-              "Odjenite se slojevito zbog hladnog obalnog povjetarca.",
+              "Obucite se u slojevima protiv hladnog primorskog povjetarca.",
               "Imajte na umu rani zalazak sunca oko 16:30.",
-              "Neki kafići rade kraće ili su potpuno zatvoreni zimi.",
-              "Bura može značajno sniziti osjet temperature."
+              "Neki kafići zatvaraju ranije ili u potpunosti tijekom zime.",
+              "Bura može znatno sniziti osjet temperature."
             ]
           }
         }
@@ -677,7 +688,7 @@
             "hu": "Az építészet kedvelőinek kötelező látnivaló.",
             "ro": "O vizită obligatorie pentru iubitorii de arhitectură.",
             "en": "A must-see for architecture lovers.",
-            "hr": "Obavezno mjesto za ljubitelje arhitekture."
+            "hr": "Obavezno za ljubitelje arhitekture."
           }
         },
         {
@@ -696,7 +707,7 @@
             "hu": "Óvatosan kerekezzen a szűk sikátorokban.",
             "ro": "Pedalați cu atenție pe străzile înguste.",
             "en": "Cycle carefully through the narrow alleys.",
-            "hr": "Vozite oprezno kroz uske uličice."
+            "hr": "Biciklirajte oprezno kroz uske uličice."
           }
         },
         {
@@ -715,7 +726,7 @@
             "hu": "Egy rövid megálló egy fotó erejéig.",
             "ro": "O scurtă oprire pentru o fotografie.",
             "en": "A short stop for a photo.",
-            "hr": "Kratko zaustavljanje za fotografiju."
+            "hr": "Kratka stanica za fotografiju."
           }
         },
         {
@@ -762,7 +773,7 @@
         "hu": "Induljon Kaštel Gomilicából a Kaštilac-erődtől, amely egy apró szigeten fekvő ékszerdoboz. Tekerjen nyugat felé a tengerpart mentén, érintve a különböző településrészeket.\n\nLátogasson el a Vitturi-kastélyhoz és fedezze fel Kaštel Lukšić történetét. A sík tengerparti út ideális egy pihentető tekeréshez a fenyőfák alatt.\n\nKerekezzen fel a Kozjak-hegység oldalában fekvő Bibliai kerthez. Az út fantasztikus panorámát kínál az egész öbölre és a szemközti szigetekre.\n\nZárja a túrát egy gyors legurulással a Gabine strandhoz. Egy csobbanás a kristálytiszta vízben a legjobb jutalom a megtett kilométerekért.",
         "ro": "Începeți din Kaštel Gomilica de la fortăreața Kaštilac, o bijuterie pe o mică insulă. Pedalați spre vest de-a lungul coastei, trecând prin diversele așezări.\n\nVizitați Castelul Vitturi și descoperiți istoria din Kaštel Lukšić. Drumul plat de pe coastă este ideal pentru o plimbare relaxantă sub pini.\n\nUrcați spre Grădina Biblică Stomorija de pe versantul muntelui Kozjak. Drumul oferă vederi panoramice fantastice peste întreg golful și insule.\n\nÎncheiați turul cu o coborâre rapidă spre plaja Gabine. O săritură în apa cristalina este cea mai bună recompensă pentru kilometrii parcurși.",
         "en": "Start in Kaštel Gomilica at the Kaštilac fortress, a gem on a tiny island. Cycle west along the coast through the various settlements.\n\nVisit Vitturi Castle and discover the history of Kaštel Lukšić. The flat coastal road is ideal for a relaxed ride under the pine trees.\n\nCycle up to the Biblical Garden Stomorija on the slopes of Mount Kozjak. The path offers fantastic panoramic views over the entire bay and the islands.\n\nEnd your tour with a quick descent to Gabine beach. A dip in the crystal-clear water is the best reward for the kilometers traveled.",
-        "hr": "Krenite iz Kaštel Gomilice kod utvrde Kaštilac, dragulja na malenom otoku. Vozite bicikl prema zapadu uz obalu kroz razna naselja.\n\nPosjetite dvorac Vitturi i otkrijte povijest Kaštel Lukšića. Ravna obalna cesta idealna je za opuštenu vožnju pod borovima.\n\nOdvezite se do Biblijskog vrta Stomorija na padinama planine Kozjak. Put nudi fantastičan panoramski pogled na cijeli zaljev i otoke.\n\nZavršite svoju turu brzim spustom do plaže Gabine. Uron u kristalno čisto more najbolja je nagrada za prijeđene kilometre."
+        "hr": "Započnite u Kaštel Gomilici kod tvrđave Kaštilac, dragulja na malom otoku. Vožnja biciklom zapadno uz obalu vodi kroz razna naselja.\n\nPosjetite Kaštel Vitturi i otkrijte povijest Kaštel Lukšića. Ravna obalna cesta idealna je za opuštenu vožnju pod borovima.\n\nBiciklirajte do Biblijskog vrta Stomorija na padinama Kozjaka. Staza nudi fantastične panoramske poglede preko cijelog zaljeva i otoka.\n\nZavršite turu brzom spustom do plaže Gabine. Kupanje u kristalno čistom moru najbolja je nagrada za prijeđene kilometre."
       },
       "gastro_picks": {
         "de": [
@@ -883,7 +894,7 @@
           "Take enough water for the climb to Stomorija."
         ],
         "hr": [
-          "Izbjegavajte glavnu cestu (Magistralu), držite se obalnih cesta.",
+          "Izbjegavajte glavnu cestu (Magistralu), ostanite lokalnim obalnim cestama.",
           "Ponesite dovoljno vode za uspon do Stomorije."
         ]
       },
@@ -893,7 +904,8 @@
             "de": "Starten Sie in Kaštel Gomilica bei der Festung Kaštilac, einem Juwel auf einer kleinen Insel. Radeln Sie entlang der Küste nach Westen durch die verschiedenen Kastelle.\n\nBesuchen Sie die Burg Vitturi und erkunden Sie die Geschichte von Kaštel Lukšić. Die flache Küstenstraße ist ideal für eine entspannte Fahrt unter Pinien.\n\nFahren Sie hinauf zum Biblischen Garten Stomorija am Hang des Kozjak-Gebirges. Der Weg bietet fantastische Panoramablicke über die gesamte Bucht und die Inseln.\n\nBeenden Sie Ihre Tour mit einer rasanten Abfahrt zum Strand Gabine. Ein Sprung ins kristallklare Wasser ist die beste Belohnung für die geleisteten Kilometer.",
             "hu": "Induljon Kaštel Gomilicából a Kaštilac-erődtől, amely egy apró szigeten fekvő ékszerdoboz. Tekerjen nyugat felé a tengerpart mentén, érintve a különböző településrészeket.\n\nLátogasson el a Vitturi-kastélyhoz és fedezze fel Kaštel Lukšić történetét. A sík tengerparti út ideális egy pihentető tekeréshez a fenyőfák alatt.\n\nKerekezzen fel a Kozjak-hegység oldalában fekvő Bibliai kerthez. Az út fantasztikus panorámát kínál az egész öbölre és a szemközti szigetekre.\n\nZárja a túrát egy gyors legurulással a Gabine strandhoz. Egy csobbanás a kristálytiszta vízben a legjobb jutalom a megtett kilométerekért.",
             "ro": "Începeți din Kaštel Gomilica de la fortăreața Kaštilac, o bijuterie pe o mică insulă. Pedalați spre vest de-a lungul coastei, trecând prin diversele așezări.\n\nVizitați Castelul Vitturi și descoperiți istoria din Kaštel Lukšić. Drumul plat de pe coastă este ideal pentru o plimbare relaxantă sub pini.\n\nUrcați spre Grădina Biblică Stomorija de pe versantul muntelui Kozjak. Drumul oferă vederi panoramice fantastice peste întreg golful și insule.\n\nÎncheiați turul cu o coborâre rapidă spre plaja Gabine. O săritură în apa cristalina este cea mai bună recompensă pentru kilometrii parcurși.",
-            "en": "Start in Kaštel Gomilica at the Kaštilac fortress, a gem on a tiny island. Cycle west along the coast through the various settlements.\n\nVisit Vitturi Castle and discover the history of Kaštel Lukšić. The flat coastal road is ideal for a relaxed ride under the pine trees.\n\nCycle up to the Biblical Garden Stomorija on the slopes of Mount Kozjak. The path offers fantastic panoramic views over the entire bay and the islands.\n\nEnd your tour with a quick descent to Gabine beach. A dip in the crystal-clear water is the best reward for the kilometers traveled."
+            "en": "Start in Kaštel Gomilica at the Kaštilac fortress, a gem on a tiny island. Cycle west along the coast through the various settlements.\n\nVisit Vitturi Castle and discover the history of Kaštel Lukšić. The flat coastal road is ideal for a relaxed ride under the pine trees.\n\nCycle up to the Biblical Garden Stomorija on the slopes of Mount Kozjak. The path offers fantastic panoramic views over the entire bay and the islands.\n\nEnd your tour with a quick descent to Gabine beach. A dip in the crystal-clear water is the best reward for the kilometers traveled.",
+            "hr": "Započnite u Kaštel Gomilici kod tvrđave Kaštilac, dragulja na malom otoku. Vožnja biciklom zapadno uz obalu vodi kroz razna naselja.\n\nPosjetite Kaštel Vitturi i otkrijte povijest Kaštel Lukšića. Ravna obalna cesta idealna je za opuštenu vožnju pod borovima.\n\nBiciklirajte do Biblijskog vrta Stomorija na padinama Kozjaka. Staza nudi fantastične panoramske poglede preko cijelog zaljeva i otoka.\n\nZavršite turu brzom spustom do plaže Gabine. Kupanje u kristalno čistom moru najbolja je nagrada za prijeđene kilometre."
           },
           "stops": [
             {
@@ -902,7 +914,8 @@
                 "de": "Bekannt als Drehort für Game of Thrones.",
                 "hu": "Ismert Trónok harca forgatási helyszín.",
                 "ro": "Cunoscut ca locație de filmare pentru Game of Thrones.",
-                "en": "Known as a filming location for Game of Thrones."
+                "en": "Known as a filming location for Game of Thrones.",
+                "hr": "Poznato kao lokacija snimanja Igre prijestolja."
               }
             },
             {
@@ -911,7 +924,8 @@
                 "de": "Ein Muss für Architektur-Liebhaber.",
                 "hu": "Az építészet kedvelőinek kötelező látnivaló.",
                 "ro": "O vizită obligatorie pentru iubitorii de arhitectură.",
-                "en": "A must-see for architecture lovers."
+                "en": "A must-see for architecture lovers.",
+                "hr": "Obavezno za ljubitelje arhitekture."
               }
             },
             {
@@ -920,7 +934,8 @@
                 "de": "Fahren Sie vorsichtig durch die engen Gassen.",
                 "hu": "Óvatosan kerekezzen a szűk sikátorokban.",
                 "ro": "Pedalați cu atenție pe străzile înguste.",
-                "en": "Cycle carefully through the narrow alleys."
+                "en": "Cycle carefully through the narrow alleys.",
+                "hr": "Biciklirajte oprezno kroz uske uličice."
               }
             },
             {
@@ -929,7 +944,8 @@
                 "de": "Ein kurzer Stopp für ein Foto.",
                 "hu": "Egy rövid megálló egy fotó erejéig.",
                 "ro": "O scurtă oprire pentru o fotografie.",
-                "en": "A short stop for a photo."
+                "en": "A short stop for a photo.",
+                "hr": "Kratka stanica za fotografiju."
               }
             },
             {
@@ -938,7 +954,8 @@
                 "de": "Der Anstieg lohnt sich für die Aussicht.",
                 "hu": "A kaptató megéri a kilátás miatt.",
                 "ro": "Urcarea merită pentru priveliște.",
-                "en": "The climb is worth it for the view."
+                "en": "The climb is worth it for the view.",
+                "hr": "Uspon se isplati zbog pogleda."
               }
             },
             {
@@ -947,7 +964,8 @@
                 "de": "Kühlen Sie sich nach der Fahrt ab.",
                 "hu": "Frissüljön fel a tekerés után.",
                 "ro": "Răcoriți-vă după plimbare.",
-                "en": "Refresh yourself after the ride."
+                "en": "Refresh yourself after the ride.",
+                "hr": "Osvježite se nakon vožnje."
               }
             }
           ],
@@ -1049,6 +1067,10 @@
             "en": [
               "Avoid the main road (Magistrale), stay on the coastal roads.",
               "Take enough water for the climb to Stomorija."
+            ],
+            "hr": [
+              "Izbjegavajte glavnu cestu (Magistralu), ostanite lokalnim obalnim cestama.",
+              "Ponesite dovoljno vode za uspon do Stomorije."
             ]
           }
         },
@@ -1058,7 +1080,7 @@
             "hu": "Tekerjen esővédő felszerelésben a part mentén Kastilactól Vitturiig. Az utak síkak, de nedvesen csúszósak. Délben keressen menedéket Kaštel Noviban, és nézze meg az öreg olajfát. Délután irány a Bibliai kert, ahol a növények az esőben különösen intenzív illatot árasztanak. A napot egy meleg ital mellett zárja a Gabine-strand egyik bárjában, a szürke tengert figyelve.",
             "ro": "Pedalați cu echipament de ploaie de-a lungul coastei de la Kastilac la Vitturi. Drumurile sunt plate, dar alunecoase pe ud. La prânz, găsiți adăpost în Kaštel Novi și vizitați măslinul vechi. După-amiaza mergeți la Grădina Biblică, unde plantele miros intens în ploaie. Încheiați ziua cu o băutură caldă într-un bar de pe plaja Gabine, privind marea cenușie.",
             "en": "Cycle with rain gear along the coast from Kastilac to Vitturi. The paths are flat but slippery when wet. At noon, find shelter in Kaštel Novi and visit the old olive tree. In the afternoon, head to the Biblical Garden, where the plants smell particularly intense in the rain. End the day with a warm drink at a bar at Gabine Beach, watching the gray sea.",
-            "hr": "Vozite s kišnom opremom uz obalu od Kaštilca do Vitturija. Staze su ravne, ali skliske kad su mokre. U podne potražite zaklon u Kaštel Novom i posjetite staru maslinu. Poslijepodne se uputite u Biblijski vrt, gdje biljke mirišu posebno intenzivno na kiši. Završite dan uz topli napitak u baru na plaži Gabine, promatrajući sivo more."
+            "hr": "Biciklirajte obalom s kišnim ogrtačem od Kaštilca do Vitturija. Staze su ravne, ali skliske kad su mokre. U podne potražite sklonište u Kaštel Novom i posjetite staro maslinovo stablo. Poslijepodne uputite se u Biblijski vrt, gdje biljke posebno intenzivno mirišu po kiši. Završite dan toplim napitkom u baru na plaži Gabine, promatrajući sivo more."
           },
           "stops": [
             {
@@ -1068,7 +1090,7 @@
                 "hu": "Vigyázat: az erőd macskaköves burkolata esőben rendkívül csúszós.",
                 "ro": "Atenție: pavajul de piatră din fortăreață este extrem de alunecos.",
                 "en": "Caution: the cobblestones in the fortress are extremely slippery.",
-                "hr": "Oprez: kameni pločnici u utvrdi su izuzetno skliski."
+                "hr": "Upozorenje: kaldrma u tvrđavi je iznimno skliska."
               }
             },
             {
@@ -1078,7 +1100,7 @@
                 "hu": "Használja a fedett belső udvart a biciklik tárolására.",
                 "ro": "Folosiți curtea interioară acoperită pentru a lăsa bicicletele.",
                 "en": "Use the covered inner courtyard to park your bikes.",
-                "hr": "Koristite natkriveno unutarnje dvorište za parkiranje bicikala."
+                "hr": "Iskoristite natkriveno unutarnje dvorište za parkiranje bicikala."
               }
             },
             {
@@ -1098,7 +1120,7 @@
                 "hu": "Rövid megálló, a fa körüli talaj sáros lehet.",
                 "ro": "Oprire scurtă, solul din jurul pomului poate fi noroios.",
                 "en": "Short stop; the ground around the tree can be muddy.",
-                "hr": "Kratko zaustavljanje; tlo oko masline može biti blatno."
+                "hr": "Kratka stanica; tlo oko stabla može biti bljuzgavo."
               }
             },
             {
@@ -1108,7 +1130,7 @@
                 "hu": "A kert útjai felázhatnak, maradjon a kavicsos részeken.",
                 "ro": "Potecile din grădină sunt moi, rămâneți pe pietriș.",
                 "en": "Garden paths get soft; stay on the gravel parts.",
-                "hr": "Vrtne staze postaju mekane; držite se šljunčanih dijelova."
+                "hr": "Staze u vrtu postaju mekane; ostanite na šljunčanim dijelovima."
               }
             },
             {
@@ -1118,7 +1140,7 @@
                 "hu": "Keressen olyan bárt, ahol rálát a kerékpártárolóra.",
                 "ro": "Căutați un bar cu suport de biciclete vizibil de la masă.",
                 "en": "Find a bar where you can keep an eye on the bike rack.",
-                "hr": "Pronađite bar gdje možete držati na oku stalak za bicikle."
+                "hr": "Pronađite bar gdje možete držati bicikl na oku."
               }
             }
           ],
@@ -1149,8 +1171,8 @@
             ],
             "hr": [
               "Izbjegavajte naglo kočenje na mokrom prirodnom kamenu.",
-              "Potpuna kišna oprema (hlače + jakna) je neophodna.",
-              "Obalna cesta je ravna, što olakšava vožnju po vjetru.",
+              "Puna kišna oprema (hlače + jakna) je obavezna.",
+              "Obalna cesta je ravna, što olakšava vožnju na vjetru.",
               "Uključite svjetla jer je vidljivost često loša."
             ]
           }
@@ -1161,7 +1183,7 @@
             "hu": "Frissítő téli kerékpártúra mind a hét Kaštelán keresztül. Kezdje reggel Kastilacban, és élvezze a tiszta kilátást az öbölre. Délben látogassa meg a Vitturi-várat és az öreg olajfát. Délután tekerjen el a Stomorija Bibliai kertbe, amely télen különleges nyugalmat áraszt. Fejezze be a túrát a Gabine-strandon, mielőtt a naplemente utáni hideg érezhetővé válik.",
             "ro": "O excursie revigorantă de iarnă cu bicicleta prin toate cele șapte Kaštela. Începeți dimineața în Kastilac și bucurați-vă de vederea clară asupra golfului. La prânz vizitați Castelul Vitturi și măslinul vechi. După-amiaza pedalați spre Grădina Biblică Stomorija, care emană o liniște aparte iarna. Încheiați turul la plaja Gabine înainte ca frigul să se lase după apus.",
             "en": "A refreshing winter bike trip through all seven Kaštelas. Start in the morning in Kastilac and enjoy the clear view over the bay. At noon, visit Vitturi Castle and the old olive tree. In the afternoon, cycle to the Stomorija Biblical Garden, which radiates a special calm in winter. Finish the tour at Gabine Beach before the post-sunset cold sets in.",
-            "hr": "Osvježavajući zimski izlet biciklom kroz svih sedam Kaštela. Krenite ujutro iz Kaštilca i uživajte u jasnom pogledu na zaljev. U podne posjetite dvorac Vitturi i staru maslinu. Poslijepodne odvezite bicikl do Biblijskog vrta Stomorija koji zimi zrači posebnim mirom. Završite turu na plaži Gabine prije nego što nastupi hladnoća nakon zalaska sunca."
+            "hr": "Osvježavajuća zimska biciklistička tura kroz svih sedam Kaštela. Započnite ujutro u Kaštilcu i uživajte u jasnom pogledu preko zaljeva. U podne posjetite Kaštel Vitturi i staro maslinovo stablo. Poslijepodne biciklirajte do Biblijskog vrta Stomorija, koji zimi zrači posebnom mirom. Završite turu na plaži Gabine prije nego što nastupi postzalazak hladnoće."
           },
           "stops": [
             {
@@ -1171,7 +1193,7 @@
                 "hu": "Viseljen kesztyűt, az erődnél hűvös a tengeri szél.",
                 "ro": "Purtați mănuși, vântul la fortăreață este tăios.",
                 "en": "Wear gloves; the wind at the fortress is chilly.",
-                "hr": "Nosite rukavice; vjetar kod utvrde je hladan."
+                "hr": "Nosite rukavice; vjetar na tvrđavi je hladan."
               }
             },
             {
@@ -1181,7 +1203,7 @@
                 "hu": "Ideális hely a felmelegedésre egy múzeumlátogatás során.",
                 "ro": "Ideal pentru a vă încălzi în timpul vizitei la muzeu.",
                 "en": "Ideal for warming up during a museum visit.",
-                "hr": "Idealno za grijanje tijekom posjeta muzeju."
+                "hr": "Idealno za zagrijavanje tijekom posjeta muzeju."
               }
             },
             {
@@ -1201,7 +1223,7 @@
                 "hu": "Szép hely egy rövid piknikhez a téli napsütésben.",
                 "ro": "Un loc frumos pentru un scurt picnic în soarele de iarnă.",
                 "en": "A nice spot for a short picnic in the winter sun.",
-                "hr": "Lijepo mjesto za kratki piknik na zimskom suncu."
+                "hr": "Lijepo mjesto za kratki piknik na zimskoj sunčanoj strani."
               }
             },
             {
@@ -1211,7 +1233,7 @@
                 "hu": "Kora délutáni látogatás ajánlott a napsütés miatt.",
                 "ro": "Vizită recomandată după-amiaza devreme (pentru soare).",
                 "en": "Early afternoon visit recommended to catch the sun.",
-                "hr": "Preporučuje se posjet rano poslijepodne kako biste uhvatili sunce."
+                "hr": "Preporučuje se posjet ranog poslijepodneva kako biste ulovili sunce."
               }
             },
             {
@@ -1251,10 +1273,10 @@
               "Drink enough fluids even if you don't feel thirsty."
             ],
             "hr": [
-              "Tople rukavice i zaštita za uši su važni zbog hladnoće vjetra.",
-              "Dani su kratki; planirajte završiti turu do 16:00 sati.",
-              "Pazite na zaleđene dijelove u sjenovitim uličicama.",
-              "Pijte dovoljno tekućine čak i ako ne osjećate žeđ."
+              "Topli rukavice i zaštita za uši važni zbog osjećaja hladnoće uz vjetar.",
+              "Dani su kratki; planirajte završetak ture do 16:00.",
+              "Pazite na zaleđene mrlje u sjenovitim uličicama.",
+              "Pijte dovoljno tekućine iako možda ne osjećate žeđ."
             ]
           }
         }
@@ -1303,7 +1325,7 @@
             "hu": "Érdemes körbejárni a múzeumot.",
             "ro": "Merită să faceți un tur al muzeului.",
             "en": "It's worth taking a tour of the museum.",
-            "hr": "Vrijedi otići u obilazak muzeja."
+            "hr": "Ima smisla razgledati muzej."
           }
         },
         {
@@ -1322,7 +1344,7 @@
             "hu": "Csodálja meg a Rotondo erődített tornyot.",
             "ro": "Admirați turnul fortificat Rotondo.",
             "en": "Admire the fortified Rotondo tower.",
-            "hr": "Divite se utvrđenoj kuli Rotondo."
+            "hr": "Divite se utvrđenom Tornju Rotondo."
           }
         },
         {
@@ -1341,7 +1363,7 @@
             "hu": "Parkolóhelyek közvetlenül az út mentén.",
             "ro": "Locuri de parcare disponibile direct lângă drum.",
             "en": "Parking spaces available right by the road.",
-            "hr": "Parkirna mjesta dostupna su odmah uz cestu."
+            "hr": "Parkirna mjesta dostupna odmah uz cestu."
           }
         },
         {
@@ -1398,7 +1420,7 @@
             "hu": "Pihenjen meg a túra után a tengerparton.",
             "ro": "Relaxați-vă pe malul mării după tur.",
             "en": "Relax by the sea after the tour.",
-            "hr": "Opustite se uz more nakon obilaska."
+            "hr": "Opustite se kraj mora nakon ture."
           }
         }
       ],
@@ -1407,7 +1429,7 @@
         "hu": "Autóval könnyedén felfedezheti Kaštela teljes partvidékét. Kezdjen a fotogén Kaštilac-erődnél Gomilicában, majd haladjon tovább Lukšić történelmi központja felé.\n\nA Vitturi-kastély és a 1500 éves štafilići olajfa megtekintése után az út felvezet a Bibliai kerthez egy rövid zöld pihenőre.\n\nDélután tegyen egy kitérőt a közeli Klis erődjéhez. Ez a stratégiai vár kínálja Dalmácia talán legszebb kilátását, és világszerte ismert filmekből.\n\nTérjen vissza időben, hogy az estét Kaštel Novi egyik hangulatos tengerparti éttermében töltse. A kultúra, a történelem és a természet tökéletes keveréke.",
         "ro": "Cu mașina, veți descoperi cu ușurință întreaga coastă a orașului Kaštela. Începeți de la fotogenica fortăreață Kaštilac din Gomilica și continuați spre centrul istoric din Lukšić.\n\nDupă vizitarea Castelului Vitturi și a măslinului de 1500 de ani din Štafilić, drumul vă duce sus, la Grădina Biblică Stomorija, pentru o pauză în natură.\n\nDupă-amiaza, faceți o excursie la cetatea Klis din apropiere. Această fortăreață strategică oferă probabil cea mai bună vedere asupra Dalmației și este faimoasă în întreaga lume.\n\nÎntoarceți-vă la timp pentru a petrece seara într-unul dintre restaurantele primitoare de pe malul mării din Kaštel Novi. Un amestec perfect de cultură, istorie și natură.",
         "en": "By car, you will easily discover the entire coast of Kaštela. Start at the photogenic Kaštilac fortress in Gomilica and continue to the historical center of Lukšić.\n\nAfter visiting Vitturi Castle and the 1500-year-old olive tree in Štafilić, the drive takes you up to the Biblical Garden Stomorija for a break in the greenery.\n\nIn the afternoon, take a trip to the nearby Klis fortress. This strategic castle offers perhaps the best view over Dalmatia and is world-famous from movies and TV.\n\nReturn in time to spend the evening in one of the cozy seaside restaurants in Kaštel Novi. A perfect mix of culture, history, and nature.",
-        "hr": "Automobilom ćete lako otkriti cijelu obalu Kaštela. Započnite kod fotogenične utvrde Kaštilac u Gomilici i nastavite do povijesnog centra Lukšića.\n\nNakon posjeta dvorcu Vitturi i 1500 godina staroj maslini u Štafiliću, vožnja vas vodi do Biblijskog vrta Stomorija za odmor u zelenilu.\n\nPoslijepodne otputujte do obližnje tvrđave Klis. Ovaj strateški dvorac nudi možda najbolji pogled na Dalmaciju i svjetski je poznat iz filmova i serija.\n\nVratite se na vrijeme kako biste proveli večer u jednom od ugodnih restorana uz more u Kaštel Novom. Savršen spoj kulture, povijesti i prirode."
+        "hr": "Autom ćete lako istražiti cijelu kaštelansku obalu. Započnite kod fotogenične tvrđave Kaštilac u Gomilici i nastavite do povijesnog centra Lukšića.\n\nNakon posjeta Kaštelu Vitturi i 1500 godina starom maslinovom stablu u Štafiliću, vožnja vas vodi do Biblijskog vrta Stomorija za predah u zelenilu.\n\nPoslijepodne napravite izlet do obližnje tvrđave Klis. Ovaj strateški kaštel nudi vjerojatno najbolji pogled na Dalmaciju i svjetski je poznat iz filmova i TV-a.\n\nVratite se na vrijeme kako biste proveli večer u jednom od ugodnih restorana uz more u Kaštel Novom. Savršena mješavina kulture, povijesti i prirode."
       },
       "gastro_picks": {
         "de": [
@@ -1528,7 +1550,7 @@
           "The drive to Klis takes about 20 minutes."
         ],
         "hr": [
-          "Parkiranje u starim jezgrama često je teško, koristite označena mjesta.",
+          "Parkiranje u centrima starih gradova često je teško, koristite označena mjesta.",
           "Vožnja do Klisa traje oko 20 minuta."
         ]
       },
@@ -1538,7 +1560,8 @@
             "de": "Mit dem Auto entdecken Sie die gesamte Küste von Kaštela mühelos. Beginnen Sie bei der fotogenen Kaštilac-Festung in Gomilica und fahren Sie weiter zum historischen Zentrum von Lukšić.\n\nNach dem Besuch von Burg Vitturi und dem 1500 Jahre alten Olivenbaum in Štafilić führt Sie die Fahrt hinauf zum Biblischen Garten Stomorija für eine Pause im Grünen.\n\nAm Nachmittag machen Sie einen Ausflug zur nahegelegenen Festung Klis. Diese strategische Burg bietet den wohl besten Ausblick über Dalmatien und ist weltberühmt aus Film und Fernsehen.\n\nKehren Sie rechtzeitig zurück, um den Abend in einem der gemütlichen Restaurants am Meer in Kaštel Novi zu verbringen. Ein perfekter Mix aus Kultur, Geschichte und Natur.",
             "hu": "Autóval könnyedén felfedezheti Kaštela teljes partvidékét. Kezdjen a fotogén Kaštilac-erődnél Gomilicában, majd haladjon tovább Lukšić történelmi központja felé.\n\nA Vitturi-kastély és a 1500 éves štafilići olajfa megtekintése után az út felvezet a Bibliai kerthez egy rövid zöld pihenőre.\n\nDélután tegyen egy kitérőt a közeli Klis erődjéhez. Ez a stratégiai vár kínálja Dalmácia talán legszebb kilátását, és világszerte ismert filmekből.\n\nTérjen vissza időben, hogy az estét Kaštel Novi egyik hangulatos tengerparti éttermében töltse. A kultúra, a történelem és a természet tökéletes keveréke.",
             "ro": "Cu mașina, veți descoperi cu ușurință întreaga coastă a orașului Kaštela. Începeți de la fotogenica fortăreață Kaštilac din Gomilica și continuați spre centrul istoric din Lukšić.\n\nDupă vizitarea Castelului Vitturi și a măslinului de 1500 de ani din Štafilić, drumul vă duce sus, la Grădina Biblică Stomorija, pentru o pauză în natură.\n\nDupă-amiaza, faceți o excursie la cetatea Klis din apropiere. Această fortăreață strategică oferă probabil cea mai bună vedere asupra Dalmației și este faimoasă în întreaga lume.\n\nÎntoarceți-vă la timp pentru a petrece seara într-unul dintre restaurantele primitoare de pe malul mării din Kaštel Novi. Un amestec perfect de cultură, istorie și natură.",
-            "en": "By car, you will easily discover the entire coast of Kaštela. Start at the photogenic Kaštilac fortress in Gomilica and continue to the historical center of Lukšić.\n\nAfter visiting Vitturi Castle and the 1500-year-old olive tree in Štafilić, the drive takes you up to the Biblical Garden Stomorija for a break in the greenery.\n\nIn the afternoon, take a trip to the nearby Klis fortress. This strategic castle offers perhaps the best view over Dalmatia and is world-famous from movies and TV.\n\nReturn in time to spend the evening in one of the cozy seaside restaurants in Kaštel Novi. A perfect mix of culture, history, and nature."
+            "en": "By car, you will easily discover the entire coast of Kaštela. Start at the photogenic Kaštilac fortress in Gomilica and continue to the historical center of Lukšić.\n\nAfter visiting Vitturi Castle and the 1500-year-old olive tree in Štafilić, the drive takes you up to the Biblical Garden Stomorija for a break in the greenery.\n\nIn the afternoon, take a trip to the nearby Klis fortress. This strategic castle offers perhaps the best view over Dalmatia and is world-famous from movies and TV.\n\nReturn in time to spend the evening in one of the cozy seaside restaurants in Kaštel Novi. A perfect mix of culture, history, and nature.",
+            "hr": "Autom ćete lako istražiti cijelu kaštelansku obalu. Započnite kod fotogenične tvrđave Kaštilac u Gomilici i nastavite do povijesnog centra Lukšića.\n\nNakon posjeta Kaštelu Vitturi i 1500 godina starom maslinovom stablu u Štafiliću, vožnja vas vodi do Biblijskog vrta Stomorija za predah u zelenilu.\n\nPoslijepodne napravite izlet do obližnje tvrđave Klis. Ovaj strateški kaštel nudi vjerojatno najbolji pogled na Dalmaciju i svjetski je poznat iz filmova i TV-a.\n\nVratite se na vrijeme kako biste proveli večer u jednom od ugodnih restorana uz more u Kaštel Novom. Savršena mješavina kulture, povijesti i prirode."
           },
           "stops": [
             {
@@ -1547,7 +1570,8 @@
                 "de": "Parken Sie am Eingang von Gomilica.",
                 "hu": "Parkoljon Gomilica bejáratánál.",
                 "ro": "Parcați la intrarea în Gomilica.",
-                "en": "Park at the entrance of Gomilica."
+                "en": "Park at the entrance of Gomilica.",
+                "hr": "Parkirajte na ulazu u Gomilicu."
               }
             },
             {
@@ -1556,7 +1580,8 @@
                 "de": "Ein Rundgang durch das Museum ist lohnenswert.",
                 "hu": "Érdemes körbejárni a múzeumot.",
                 "ro": "Merită să faceți un tur al muzeului.",
-                "en": "It's worth taking a tour of the museum."
+                "en": "It's worth taking a tour of the museum.",
+                "hr": "Ima smisla razgledati muzej."
               }
             },
             {
@@ -1565,7 +1590,8 @@
                 "de": "Bestaunen Sie den Wehrturm Rotondo.",
                 "hu": "Csodálja meg a Rotondo erődített tornyot.",
                 "ro": "Admirați turnul fortificat Rotondo.",
-                "en": "Admire the fortified Rotondo tower."
+                "en": "Admire the fortified Rotondo tower.",
+                "hr": "Divite se utvrđenom tornju Rotondo."
               }
             },
             {
@@ -1574,7 +1600,8 @@
                 "de": "Parkplätze direkt an der Straße vorhanden.",
                 "hu": "Parkolóhelyek közvetlenül az út mentén.",
                 "ro": "Locuri de parcare disponibile direct lângă drum.",
-                "en": "Parking spaces available right by the road."
+                "en": "Parking spaces available right by the road.",
+                "hr": "Parkirna mjesta dostupna neposredno uz cestu."
               }
             },
             {
@@ -1583,7 +1610,8 @@
                 "de": "Ideal für ein Picknick im Grünen.",
                 "hu": "Ideális egy piknikhez a zöldben.",
                 "ro": "Ideal pentru un picnic în natură.",
-                "en": "Ideal for a picnic in the countryside."
+                "en": "Ideal for a picnic in the countryside.",
+                "hr": "Idealno za piknik na selu."
               }
             },
             {
@@ -1592,7 +1620,8 @@
                 "de": "Spektakuläre Festung oberhalb von Split.",
                 "hu": "Látványos erőd Split felett.",
                 "ro": "Cetate spectaculoasă deasupra orașului Split.",
-                "en": "Spectacular fortress above Split."
+                "en": "Spectacular fortress above Split.",
+                "hr": "Spektakularna tvrđava iznad Splita."
               }
             },
             {
@@ -1601,7 +1630,8 @@
                 "de": "Entspannen Sie nach der Tour am Meer.",
                 "hu": "Pihenjen meg a túra után a tengerparton.",
                 "ro": "Relaxați-vă pe malul mării după tur.",
-                "en": "Relax by the sea after the tour."
+                "en": "Relax by the sea after the tour.",
+                "hr": "Opustite se uz more nakon ture."
               }
             }
           ],
@@ -1703,6 +1733,10 @@
             "en": [
               "Parking in the old town centers is often difficult, use marked spots.",
               "The drive to Klis takes about 20 minutes."
+            ],
+            "hr": [
+              "Parkiranje u starim gradskim jezgrama često je teško, koristite označena mjesta.",
+              "Vožnja do Klisa traje oko 20 minuta."
             ]
           }
         },
@@ -1712,7 +1746,7 @@
             "hu": "Élvezze az autó rugalmasságát a hét Kaštela száraz felfedezéséhez. Délelőtt látogassa meg Kastilacot és Vitturit. Délben irány Kaštel Novi óvárosa. Délután autózzon fel a Klis-erődbe, ahol az eső és a köd drámai hangulatot áraszt a völgy felett. Zárásként pihenjen meg a Gabine-strand egyik kávézójában, miközben az autó közvetlenül a közelben parkol.",
             "ro": "Bucurați-vă de flexibilitatea mașinii pentru a explora cele șapte Kaštela la uscat. Dimineața vizitați Kastilac și Vitturi. La prânz treceți prin orașul vechi Kaštel Novi. După-amiaza conduceți până la cetatea Klis, unde ploaia și ceața creează o atmosferă dramatică. La final, relaxați-vă într-o cafenea de pe plaja Gabine, cu mașina parcată chiar lângă.",
             "en": "Enjoy the flexibility of the car to explore the seven Kaštelas while staying dry. In the morning, visit Kastilac and Vitturi. At noon, head through the old town of Kaštel Novi. In the afternoon, drive up to Klis Fortress, where the rain and mist create a dramatic atmosphere over the valley. Finally, relax in a cafe at Gabine Beach with the car parked right nearby.",
-            "hr": "Uživajte u fleksibilnosti automobila za istraživanje sedam Kaštela dok ostajete suhi. Ujutro posjetite Kaštilac i Vitturi. U podne prođite kroz staru jezgru Kaštel Novog. Poslijepodne se odvezite do tvrđave Klis, gdje kiša i magla stvaraju dramatičnu atmosferu nad dolinom. Na kraju se opustite u kafiću na plaži Gabine s automobilom parkiranim u neposrednoj blizini."
+            "hr": "Uživajte u fleksibilnosti automobila za istraživanje sedam Kaštela dok ostajete suhi. Ujutro posjetite Kaštilac i Vitturi. U podne prođite kroz staru jezgru Kaštel Novog. Poslijepodne se popnite do Tvrđave Klis, gdje kiša i magla stvaraju dramatičnu atmosferu nad dolinom. Na kraju se opustite u kafiću na plaži Gabine s automobilom parkiranim odmah u blizini."
           },
           "stops": [
             {
@@ -1732,7 +1766,7 @@
                 "hu": "Használja a Riva melletti parkolót a rövid séta érdekében.",
                 "ro": "Folosiți parcarea de pe Riva pentru a merge puțin pe jos.",
                 "en": "Use the parking lot on the Riva for a short walk.",
-                "hr": "Koristite parkiralište na Rivi za kratku šetnju."
+                "hr": "Iskoristite parkiralište na Rivi za kratku šetnju."
               }
             },
             {
@@ -1742,7 +1776,7 @@
                 "hu": "Ne hajtson be a legszűkebb utcákba, parkoljon kívül.",
                 "ro": "Nu intrați în străzile cele mai înguste, parcați la exterior.",
                 "en": "Don't drive into the narrowest alleys; park outside.",
-                "hr": "Ne ulazite u najuže uličice; parkirajte izvan njih."
+                "hr": "Nemojte voziti u najuže ulice; parkirajte izvana."
               }
             },
             {
@@ -1752,7 +1786,7 @@
                 "hu": "Közvetlen behajtás lehetséges, ideális egy gyors megállóhoz.",
                 "ro": "Acces auto direct, ideal pentru o oprire rapidă.",
                 "en": "Direct car access possible, ideal for a quick stop.",
-                "hr": "Moguć izravan pristup automobilom, idealno za kratko stajanje."
+                "hr": "Moguć je izravan pristup automobilom, idealno za kratko zaustavljanje."
               }
             },
             {
@@ -1762,7 +1796,7 @@
                 "hu": "A kerthez vezető út aszfaltozott és jól járható.",
                 "ro": "Drumul spre grădină este asfaltat și ușor accesibil.",
                 "en": "The road to the garden is paved and easy to drive.",
-                "hr": "Cesta do vrta je asfaltirana i laka za vožnju."
+                "hr": "Cesta do vrta je asfaltirana i jednostavna za vožnju."
               }
             },
             {
@@ -1772,7 +1806,7 @@
                 "hu": "A felvezető út látványos panorámát kínál az esőben is.",
                 "ro": "Urcarea oferă vederi panoramice spectaculoase pe ploaie.",
                 "en": "The drive up offers spectacular, misty panoramic views.",
-                "hr": "Vožnja prema gore nudi spektakularne, maglovite panoramske vidike."
+                "hr": "Uspon automobilom nudi spektakularne, maglovite panoramske poglede."
               }
             },
             {
@@ -1782,7 +1816,7 @@
                 "hu": "Nagy parkoló van, szinte a kávézóig szárazon eljuthat.",
                 "ro": "Parcare mare, puteți ajunge la cafenea aproape uscat.",
                 "en": "Large parking lot available; you can stay dry almost to the cafe.",
-                "hr": "Dostupno veliko parkiralište; možete ostati suhi gotovo do samog kafića."
+                "hr": "Veliko parkiralište dostupno; možete ostati suhi gotovo do kafića."
               }
             }
           ],
@@ -1812,10 +1846,10 @@
               "Visibility from Klis may be limited during low cloud cover."
             ],
             "hr": [
-              "Budite oprezni na obalnoj cesti tijekom jake kiše (akvaplaning).",
-              "Koristite automobil kao bazu za čekanje da prođu pljuskovi.",
-              "U Klisu se parkirajte izravno na gornjem parkiralištu.",
-              "Vidljivost s Klisa može biti ograničena tijekom niske naoblake."
+              "Budite oprezni na obalnoj cesti za jake kiše (aquaplaning).",
+              "Iskoristite automobil kao bazu za prečekati pljuskove.",
+              "U Klisu parkirajte izravno na gornjem parkiralištu.",
+              "Vidljivost s Klisa može biti ograničena tijekom niskih oblaka."
             ]
           }
         },
@@ -1825,7 +1859,7 @@
             "hu": "Fedezze fel Kaštela és Klis történelmi kincseit kényelmesen, autóval. A téli reggel tiszta kilátást kínál Kastilac és Vitturi erődjeiből. Délben látogassa meg az óvárost és az ősi olajfát. A nap fénypontja a Klis-erőd délután, ahonnan csodás naplementét láthat Splitre és a szigetekre. A napot a csendes Gabine-strandon zárja egy meleg teával.",
             "ro": "Explorați comorile istorice din Kaštela și Klis în confortul mașinii. Dimineața de iarnă oferă vederi clare din fortărețele Kastilac și Vitturi. La prânz vizitați orașul vechi și măslinul secular. Punctul culminant este vizita la cetatea Klis după-amiaza, pentru apusul peste Split și insule. Încheiați ziua la plaja liniștită Gabine cu un ceai cald.",
             "en": "Explore the historical treasures of Kaštela and Klis in the comfort of your car. The winter morning offers clear views from the Kastilac and Vitturi fortresses. At noon, visit the old town and the ancient olive tree. The highlight is the trip to Klis Fortress in the afternoon, where you can witness the sunset over Split and the islands. End the day with a tea at the quiet Gabine Beach.",
-            "hr": "Istražite povijesna blaga Kaštela i Klisa u udobnosti svog automobila. Zimsko jutro nudi jasne poglede s utvrda Kaštilac i Vitturi. U podne posjetite stari grad i drevnu maslinu. Vrhunac je izlet na tvrđavu Klis poslijepodne, gdje možete svjedočiti zalasku sunca nad Splitom i otocima. Završite dan uz čaj na mirnoj plaži Gabine."
+            "hr": "Istražite povijesna blaga Kaštela i Klisa u udobnosti automobila. Zimsko jutro nudi jasne poglede s tvrđava Kaštilac i Vitturi. U podne posjetite staru jezgru i drevno maslinovo stablo. Vrhunac je izlet do Tvrđave Klis poslijepodne, gdje možete svjedočiti zalasku sunca nad Splitom i otocima. Završite dan čajem na mirnoj plaži Gabine."
           },
           "stops": [
             {
@@ -1835,7 +1869,7 @@
                 "hu": "Télen itt minden gond nélkül talál parkolóhelyet.",
                 "ro": "Iarna veți găsi loc de parcare fără nicio problemă aici.",
                 "en": "In winter, you'll find a parking spot here without any trouble.",
-                "hr": "Zimi ćete ovdje bez problema pronaći parkirno mjesto."
+                "hr": "Zimi ćete ovdje bez problema naći parkirno mjesto."
               }
             },
             {
@@ -1845,7 +1879,7 @@
                 "hu": "Az autó a hűvös tengeri szélben is jól szellőzik.",
                 "ro": "Mașina rămâne bine ventilată în briza rece a mării.",
                 "en": "The car stays well-ventilated in the cool sea breeze.",
-                "hr": "Automobil ostaje dobro prozračen na hladnom morskom povjetarcu."
+                "hr": "Automobil je dobro prozračen u svježem morskome povjetarcu."
               }
             },
             {
@@ -1855,7 +1889,7 @@
                 "hu": "Parkoljon a főúton a gyorsabb haladás érdekében.",
                 "ro": "Parcați pe drumul principal pentru a pleca rapid mai departe.",
                 "en": "Park on the main road for a quicker departure.",
-                "hr": "Parkirajte na glavnoj cesti za brži polazak."
+                "hr": "Parkirajte na glavnoj cesti za brži odlazak."
               }
             },
             {
@@ -1865,7 +1899,7 @@
                 "hu": "Látogassa meg a fát az alacsonyan járó nap meleg fényében.",
                 "ro": "Vizitați măslinul în lumina caldă a soarelui de iarnă.",
                 "en": "Visit the tree in the warm light of the low-lying sun.",
-                "hr": "Posjetite maslinu na toplom svjetlu niskog sunca."
+                "hr": "Posjetite stablo u toplom svjetlu niskog sunca."
               }
             },
             {
@@ -1875,7 +1909,7 @@
                 "hu": "A kerthez vezető út télen különösen festői és néptelen.",
                 "ro": "Drumul spre grădină este pitoresc și pustiu iarna.",
                 "en": "The drive to the garden is particularly scenic and empty in winter.",
-                "hr": "Vožnja do vrta je posebno slikovita i prazna zimi."
+                "hr": "Vožnja do vrta posebno je slikovita i prazna zimi."
               }
             },
             {
@@ -1885,7 +1919,7 @@
                 "hu": "Vigyázat: télen az erőd tetején nagyon erős a szél.",
                 "ro": "Atenție: iarna vântul suflă foarte tare sus pe cetate.",
                 "en": "Caution: it's very windy on top of the fortress in winter.",
-                "hr": "Oprez: zimi je jako vjetrovito na vrhu tvrđave."
+                "hr": "Upozorenje: zimi je na vrhu tvrđave vrlo vjetrovito."
               }
             },
             {
@@ -1895,7 +1929,7 @@
                 "hu": "A tengerparti parkoló hívogató, ha az autóból nézné a vizet.",
                 "ro": "Parcarea de pe plajă e perfectă pentru a privi marea din mașină.",
                 "en": "The beachside parking is perfect for watching the sea from the car.",
-                "hr": "Parkiralište uz plažu savršeno je za promatranje mora iz automobila."
+                "hr": "Parkiranje uz plažu savršeno je za promatranje mora iz automobila."
               }
             }
           ],
@@ -1925,8 +1959,8 @@
               "Check if Klis fortress closes earlier in winter."
             ],
             "hr": [
-              "Cesta prema Klisu može biti skliska u slučaju mraza.",
-              "Koristite grijanje u automobilu da se zagrijete između zaustavljanja.",
+              "Cesta do Klisa može postati skliska u slučaju mraza.",
+              "Koristite grijač u autu za ugrijavanje između stajanja.",
               "Zimski zalazak sunca na Klisu je spektakularan.",
               "Provjerite zatvara li se tvrđava Klis ranije zimi."
             ]
@@ -1996,7 +2030,7 @@
             "hu": "Egy rövid sétára a megállótól.",
             "ro": "La scurtă distanță de mers pe jos de stație.",
             "en": "A short walk from the stop.",
-            "hr": "Kratka šetnja od stanice."
+            "hr": "Kratka šetnja od stajališta."
           }
         },
         {
@@ -2034,7 +2068,7 @@
             "hu": "Kaštel Štafilićnál kell leszállni.",
             "ro": "Coborâți la Kaštel Štafilić.",
             "en": "Get off at Kaštel Štafilić.",
-            "hr": "Siđite u Kaštel Štafiliću."
+            "hr": "Izađite na Kaštel Štafilić."
           }
         },
         {
@@ -2053,7 +2087,7 @@
             "hu": "A kikapcsolódás végállomása.",
             "ro": "Stația finală pentru relaxare.",
             "en": "The final stop for relaxation.",
-            "hr": "Posljednja postaja za opuštanje."
+            "hr": "Zadnje stajalište za opuštanje."
           }
         }
       ],
@@ -2062,7 +2096,7 @@
         "hu": "Használja a legendás 37-es buszt, amely összeköti Splitet és Trogirt, és minden településrészen megáll. Kezdjen Gomilicában a lenyűgöző Kaštilac-erődnél.\n\nUtazzon tovább Kaštel Lukšićba a Vitturi-kastélyhoz. A tömegközlekedés hatékony és autentikus betekintést nyújt a helyi életbe.\n\nDélután fedezze fel Kaštel Novi utcáit és látogassa meg a štafilići öreg olajfát. A megállók többnyire a főúton vannak, pár perc sétára a tengertől.\n\nZárja a napot a Gabine strandon, mielőtt kényelmesen visszabuszozna. Stresszmentes módja a hét kastély felfedezésének parkolási gondok nélkül.",
         "ro": "Folosiți legendarul autobuz „37”, care leagă Split de Trogir și oprește în toate zonele. Începeți în Gomilica la impresionanta fortăreață Kaštilac.\n\nContinuați spre Kaštel Lukšić la Castelul Vitturi. Transportul public este eficient și oferă o perspectivă autentică asupra vieții locale.\n\nDupă-amiaza, explorați străzile din Kaštel Novi și vizitați măslinul vechi din Štafilić. Stațiile sunt în mare parte pe drumul principal, la doar câteva minute de mers pe jos de mare.\n\nÎncheiați ziua pe plaja Gabine înainte de a vă întoarce relaxat cu autobuzul. O modalitate fără stres de a experimenta diversitatea celor șapte castele fără grija parcării.",
         "en": "Use the legendary '37' bus, which connects Split and Trogir and stops at all the settlements. Start in Gomilica at the impressive Kaštilac fortress.\n\nContinue to Kaštel Lukšić to Vitturi Castle. Public transport is efficient and offers an authentic insight into local life.\n\nIn the afternoon, explore the streets of Kaštel Novi and visit the old olive tree in Štafilić. The stops are mostly on the main road, just a few minutes' walk from the sea.\n\nEnd the day at Gabine beach before taking a relaxed bus ride back. A stress-free way to experience the variety of the seven castles without parking worries.",
-        "hr": "Koristite legendarni autobus linije 37 koji povezuje Split i Trogir i staje u svim naseljima. Krenite u Gomilici kod impresivne utvrde Kaštilac.\n\nNastavite do Kaštel Lukšića do dvorca Vitturi. Javni prijevoz je učinkovit i nudi autentičan uvid u lokalni život.\n\nPoslijepodne istražite uličice Kaštel Novog i posjetite staru maslinu u Štafiliću. Stanice su uglavnom na glavnoj cesti, svega nekoliko minuta hoda od mora.\n\nZavršite dan na plaži Gabine prije opuštene vožnje autobusom natrag. Način bez stresa za doživjeti raznolikost sedam dvoraca bez brige o parkiranju."
+        "hr": "Iskoristite legendarni autobus '37' koji povezuje Split i Trogir i staje u svim naseljima. Započnite u Gomilici kod impresivne tvrđave Kaštilac.\n\nNastavite do Kaštel Lukšića do dvorca Vitturi. Javne prijevozne linije su učinkovite i nude autentičan uvid u lokalni život.\n\nPoslijepodne istražite ulice Kaštel Novog i posjetite staro maslinovo stablo u Štafiliću. Stajališta su većinom na glavnoj cesti, svega nekoliko minuta hoda od mora.\n\nZavršite dan na plaži Gabine prije opuštene vožnje autobusom natrag. Bezstresan način da doživite raznolikost sedam kaštela bez brige oko parkiranja."
       },
       "gastro_picks": {
         "de": [
@@ -2183,8 +2217,8 @@
           "Pay attention to the direction of travel (Split or Trogir)."
         ],
         "hr": [
-          "Kupite karte za autobus kod vozača ili putem aplikacije.",
-          "Obratite pozornost na smjer vožnje (Split ili Trogir)."
+          "Kupite autobusne karte kod vozača ili putem aplikacije.",
+          "Obratite pažnju na smjer vožnje (Split ili Trogir)."
         ]
       },
       "variants": {
@@ -2193,7 +2227,8 @@
             "de": "Nutzen Sie den legendären '37er' Bus, der Split mit Trogir verbindet und an allen Kastellen hält. Beginnen Sie in Gomilica bei der beeindruckenden Kaštilac-Festung.\n\nFahren Sie weiter nach Kaštel Lukšić zum Schloss Vitturi. Der öffentliche Nahverkehr ist effizient und bietet einen authentischen Einblick in das lokale Leben.\n\nNachmittags erkunden Sie die Gassen von Kaštel Novi und besuchen den alten Olivenbaum in Štafilić. Die Haltestellen befinden sich meist an der Hauptstraße, nur wenige Gehminuten vom Meer entfernt.\n\nBeenden Sie den Tag am Strand Gabine, bevor Sie entspannt mit dem Bus zurückfahren. Eine stressfreie Art, die Vielfalt der sieben Kastelle ohne Parkplatzsorgen zu erleben.",
             "hu": "Használja a legendás 37-es buszt, amely összeköti Splitet és Trogirt, és minden településrészen megáll. Kezdjen Gomilicában a lenyűgöző Kaštilac-erődnél.\n\nUtazzon tovább Kaštel Lukšićba a Vitturi-kastélyhoz. A tömegközlekedés hatékony és autentikus betekintést nyújt a helyi életbe.\n\nDélután fedezze fel Kaštel Novi utcáit és látogassa meg a štafilići öreg olajfát. A megállók többnyire a főúton vannak, pár perc sétára a tengertől.\n\nZárja a napot a Gabine strandon, mielőtt kényelmesen visszabuszozna. Stresszmentes módja a hét kastély felfedezésének parkolási gondok nélkül.",
             "ro": "Folosiți legendarul autobuz „37”, care leagă Split de Trogir și oprește în toate zonele. Începeți în Gomilica la impresionanta fortăreață Kaštilac.\n\nContinuați spre Kaštel Lukšić la Castelul Vitturi. Transportul public este eficient și oferă o perspectivă autentică asupra vieții locale.\n\nDupă-amiaza, explorați străzile din Kaštel Novi și vizitați măslinul vechi din Štafilić. Stațiile sunt în mare parte pe drumul principal, la doar câteva minute de mers pe jos de mare.\n\nÎncheiați ziua pe plaja Gabine înainte de a vă întoarce relaxat cu autobuzul. O modalitate fără stres de a experimenta diversitatea celor șapte castele fără grija parcării.",
-            "en": "Use the legendary '37' bus, which connects Split and Trogir and stops at all the settlements. Start in Gomilica at the impressive Kaštilac fortress.\n\nContinue to Kaštel Lukšić to Vitturi Castle. Public transport is efficient and offers an authentic insight into local life.\n\nIn the afternoon, explore the streets of Kaštel Novi and visit the old olive tree in Štafilić. The stops are mostly on the main road, just a few minutes' walk from the sea.\n\nEnd the day at Gabine beach before taking a relaxed bus ride back. A stress-free way to experience the variety of the seven castles without parking worries."
+            "en": "Use the legendary '37' bus, which connects Split and Trogir and stops at all the settlements. Start in Gomilica at the impressive Kaštilac fortress.\n\nContinue to Kaštel Lukšić to Vitturi Castle. Public transport is efficient and offers an authentic insight into local life.\n\nIn the afternoon, explore the streets of Kaštel Novi and visit the old olive tree in Štafilić. The stops are mostly on the main road, just a few minutes' walk from the sea.\n\nEnd the day at Gabine beach before taking a relaxed bus ride back. A stress-free way to experience the variety of the seven castles without parking worries.",
+            "hr": "Iskoristite legendarni autobus '37' koji povezuje Split i Trogir i staje u svim naseljima. Započnite u Gomilici kod impresivne tvrđave Kaštilac.\n\nNastavite do Kaštel Lukšića do dvorca Vitturi. Javne prijevozne linije su učinkovite i nude autentičan uvid u lokalni život.\n\nPoslijepodne istražite ulice Kaštel Novog i posjetite staro maslinovo stablo u Štafiliću. Stajališta su većinom na glavnoj cesti, svega nekoliko minuta hoda od mora.\n\nZavršite dan na plaži Gabine prije opuštene vožnje autobusom natrag. Bezstresan način da doživite raznolikost sedam kaštela bez brige oko parkiranja."
           },
           "stops": [
             {
@@ -2202,7 +2237,8 @@
                 "de": "Buslinie 37 hält in der Nähe.",
                 "hu": "A 37-es busz megállója a közelben van.",
                 "ro": "Linia de autobuz 37 oprește în apropiere.",
-                "en": "Bus line 37 stops nearby."
+                "en": "Bus line 37 stops nearby.",
+                "hr": "Autobusna linija 37 staje u blizini."
               }
             },
             {
@@ -2211,7 +2247,8 @@
                 "de": "Das Schloss liegt direkt am Wasser.",
                 "hu": "A kastély közvetlenül a vízparton található.",
                 "ro": "Castelul este situat direct pe malul apei.",
-                "en": "The castle is located directly on the waterfront."
+                "en": "The castle is located directly on the waterfront.",
+                "hr": "Dvorac se nalazi izravno na obali."
               }
             },
             {
@@ -2220,7 +2257,8 @@
                 "de": "Ein kurzes Stück zu Fuß von der Haltestelle.",
                 "hu": "Egy rövid sétára a megállótól.",
                 "ro": "La scurtă distanță de mers pe jos de stație.",
-                "en": "A short walk from the stop."
+                "en": "A short walk from the stop.",
+                "hr": "Kratka šetnja od stajališta."
               }
             },
             {
@@ -2229,7 +2267,8 @@
                 "de": "Genießen Sie ein Eis auf dem Hauptplatz.",
                 "hu": "Egyen egy fagyit a főtéren.",
                 "ro": "Savurați o înghețată în piața principală.",
-                "en": "Enjoy an ice cream in the main square."
+                "en": "Enjoy an ice cream in the main square.",
+                "hr": "Uživajte u sladoledu na glavnom trgu."
               }
             },
             {
@@ -2238,7 +2277,8 @@
                 "de": "In Kaštel Štafilić aussteigen.",
                 "hu": "Kaštel Štafilićnál kell leszállni.",
                 "ro": "Coborâți la Kaštel Štafilić.",
-                "en": "Get off at Kaštel Štafilić."
+                "en": "Get off at Kaštel Štafilić.",
+                "hr": "Izađite na Kaštel Štafilić."
               }
             },
             {
@@ -2247,7 +2287,8 @@
                 "de": "Endstation für Entspannung.",
                 "hu": "A kikapcsolódás végállomása.",
                 "ro": "Stația finală pentru relaxare.",
-                "en": "The final stop for relaxation."
+                "en": "The final stop for relaxation.",
+                "hr": "Zadnje stajalište za opuštanje."
               }
             }
           ],
@@ -2349,6 +2390,10 @@
             "en": [
               "Buy bus tickets from the driver or via app.",
               "Pay attention to the direction of travel (Split or Trogir)."
+            ],
+            "hr": [
+              "Kupite autobusne karte kod vozača ili putem aplikacije.",
+              "Obratite pažnju na smjer vožnje (Split ili Trogir)."
             ]
           }
         },
@@ -2358,7 +2403,7 @@
             "hu": "Használja a helyi buszt (37-es vonal) a Kaštelák közötti száraz közlekedéshez. Kezdje Kastilacban, majd menjen tovább a Vitturi-várhoz, amely ideális védelmet nyújt az eső elől. A Szent János-templom után fedezze fel Kaštel Novit. Délután látogassa meg az öreg olajfát, majd zárja a napot a Gabine-strandon egy hangulatos kávézóban, figyelve a parti esőt.",
             "ro": "Folosiți autobuzul local (linia 37) pentru a circula între Kaštela fără să vă udați. Începeți în Kastilac și continuați spre Castelul Vitturi, ideal pentru adăpost. După Biserica Sfântului Ioan, explorați Kaštel Novi. După-amiaza vizitați măslinul vechi și încheiați ziua la plaja Gabine, privind ploaia de coastă dintr-o cafenea primitoare.",
             "en": "Use the local bus (line 37) to commute dryly between the Kaštelas. Start in Kastilac and continue to Vitturi Castle, which provides ideal rain shelter. After visiting St. John's Church, explore Kaštel Novi. In the afternoon, visit the old olive tree and end the day at Gabine Beach, watching the coastal rain from a cozy cafe.",
-            "hr": "Koristite lokalni autobus (linija 37) za suho putovanje između Kaštela. Krenite u Kaštilcu i nastavite do dvorca Vitturi koji pruža idealan zaklon od kiše. Nakon posjeta crkvi sv. Ivana, istražite Kaštel Novi. Poslijepodne posjetite staru maslinu i završite dan na plaži Gabine, promatrajući kišu na obali iz ugodnog kafića."
+            "hr": "Koristite lokalni autobus (linija 37) za suho putovanje između Kaštela. Započnite u Kaštilcu i nastavite do dvorca Vitturi, koji pruža idealno sklonište od kiše. Nakon posjeta crkvi sv. Ivana, istražite Kaštel Novi. Poslijepodne posjetite staro maslinovo stablo i završite dan na plaži Gabine, promatrajući obalnu kišu iz ugodnog kafića."
           },
           "stops": [
             {
@@ -2368,7 +2413,7 @@
                 "hu": "A buszmegálló mindössze pár perc sétára található.",
                 "ro": "Stația de autobuz este la doar câteva minute de mers pe jos.",
                 "en": "The bus stop is just a few minutes' walk away.",
-                "hr": "Autobusna stanica je udaljena svega nekoliko minuta hoda."
+                "hr": "Autobusno stajalište je udaljeno samo nekoliko minuta hoda."
               }
             },
             {
@@ -2378,7 +2423,7 @@
                 "hu": "Tökéletes hely egy hosszabb esőzés kivárására.",
                 "ro": "Locul perfect pentru a aștepta trecerea unui front de ploaie.",
                 "en": "Perfect spot to wait out a longer rain front.",
-                "hr": "Savršeno mjesto za čekanje da prođe duža kišna fronta."
+                "hr": "Savršeno mjesto za prečekati dulji kišni front."
               }
             },
             {
@@ -2398,7 +2443,7 @@
                 "hu": "A buszok gyakran járnak, nem kell sokat várni az esőben.",
                 "ro": "Autobuzele circulă des, nu veți aștepta mult în ploaie.",
                 "en": "Buses run frequently; you won't wait long in the rain.",
-                "hr": "Autobusi voze često; nećete dugo čekati na kiši."
+                "hr": "Autobusi voze često; nećete dugo čekati po kiši."
               }
             },
             {
@@ -2408,7 +2453,7 @@
                 "hu": "Esernyő elengedhetetlen a megállótól vezető úton.",
                 "ro": "O umbrelă este indispensabilă de la stație până la pom.",
                 "en": "An umbrella is essential for the walk from the stop.",
-                "hr": "Kišobran je neophodan za šetnju od stanice."
+                "hr": "Kišobran je nužan za šetnju od stajališta."
               }
             },
             {
@@ -2418,7 +2463,7 @@
                 "hu": "Válasszon egy kávézót a visszafelé tartó busz megállója közelében.",
                 "ro": "Alegeți o cafenea aproape de stația de retur.",
                 "en": "Choose a cafe near the return bus stop.",
-                "hr": "Odaberite kafić u blizini povratne autobusne stanice."
+                "hr": "Odaberite kafić blizu povratnog stajališta autobusa."
               }
             }
           ],
@@ -2449,9 +2494,9 @@
             ],
             "hr": [
               "Kupite karte unaprijed putem aplikacije ili kod vozača.",
-              "Linija 37 vozi svakih 20-30 minuta duž glavne ceste.",
+              "Linija 37 vozi svakih 20–30 minuta duž glavne ceste.",
               "Koristite Google Maps za praćenje autobusa u stvarnom vremenu po kiši.",
-              "Stanice su uglavnom natkrivene, ali nude malo zaštite od vjetra."
+              "Stajališta su većinom natkrivena, ali pružaju malo zaštite od vjetra."
             ]
           }
         },
@@ -2461,7 +2506,7 @@
             "hu": "Nyugodt téli nap Kaštelában tömegközlekedéssel. Kezdje reggel Kastilacban, majd busszal menjen a Vitturi-várhoz. Élvezze a téli nyugalmat a Szent János-templomnál és Kaštel Novi óvárosában. Délután látogassa meg az 1500 éves olajfát. Mivel korán sötétedik, fejezze be a kirándulást a Gabine-strandon, majd térjen vissza kényelmesen busszal.",
             "ro": "O zi de iarnă relaxată în Kaštela folosind transportul public. Începeți dimineața în Kastilac și luați autobuzul spre Castelul Vitturi. Bucurați-vă de liniștea iernii la Biserica Sfântului Ioan și în orașul vechi Kaštel Novi. După-amiaza vizitați măslinul milenar. Deoarece se întunecă devreme, încheiați excursia la plaja Gabine și reveniți confortabil cu autobuzul.",
             "en": "A relaxed winter day in Kaštela using public transport. Start in the morning in Kastilac and take the bus to Vitturi Castle. Enjoy the winter peace at St. John's Church and in the old town of Kaštel Novi. In the afternoon, visit the 1500-year-old olive tree. Since it gets dark early, finish your excursion at Gabine Beach and return comfortably by bus.",
-            "hr": "Opušten zimski dan u Kaštelima uz korištenje javnog prijevoza. Krenite ujutro u Kaštilcu i odvezite se autobusom do dvorca Vitturi. Uživajte u zimskom miru kod crkve sv. Ivana i u staroj jezgri Kaštel Novog. Poslijepodne posjetite 1500 godina staru maslinu. Budući da rano pada mrak, završite svoj izlet na plaži Gabine i vratite se udobno autobusom."
+            "hr": "Opusten zimski dan u Kaštelima koristeći javni prijevoz. Započnite ujutro u Kaštilcu i autobusom se odvezite do dvorca Vitturi. Uživajte u zimskoj tišini kod crkve sv. Ivana i u staroj jezgri Kaštel Novog. Poslijepodne posjetite 1500 godina staro maslinovo stablo. Budući da se brzo smrkava, završite izlet na plaži Gabine i udobno se vratite autobusom."
           },
           "stops": [
             {
@@ -2471,7 +2516,7 @@
                 "hu": "Télen a buszok kevésbé zsúfoltak.",
                 "ro": "Iarna autobuzele sunt mult mai puțin aglomerate.",
                 "en": "In winter, buses are much less crowded.",
-                "hr": "Zimi su autobusi puno manje krcati."
+                "hr": "Zimi su autobusi znatno rjeđe popunjeni."
               }
             },
             {
@@ -2481,7 +2526,7 @@
                 "hu": "A fűtött múzeum remek hely a felmelegedésre.",
                 "ro": "Muzeul încălzit este o oprire bună pentru a vă dezmorți.",
                 "en": "The heated museum is a good stop to warm up.",
-                "hr": "Grijani muzej je dobro mjesto za zagrijavanje."
+                "hr": "Zagrijani muzej je dobro mjesto za ugrijavanje."
               }
             },
             {
@@ -2491,7 +2536,7 @@
                 "hu": "Élvezze a csendet a hűvös téli levegőben.",
                 "ro": "Bucurați-vă de liniște în aerul rece de iarnă.",
                 "en": "Enjoy the silence in the cool winter air.",
-                "hr": "Uživajte u tišini na svježem zimskom zraku."
+                "hr": "Uživajte u tišini u svježem zimskom zraku."
               }
             },
             {
@@ -2501,7 +2546,7 @@
                 "hu": "Sok helyi lakos ilyenkor a benti kávézókban találkozik.",
                 "ro": "Mulți localnici se întâlnesc iarna în cafenelele de aici.",
                 "en": "Many locals meet in the indoor cafes here during winter.",
-                "hr": "Mnogi lokalci se zimi sastaju u zatvorenim kafićima ovdje."
+                "hr": "Mnogi mještani se zimi sastaju u unutarnjim kafićima ovdje."
               }
             },
             {
@@ -2511,7 +2556,7 @@
                 "hu": "Szép fotómegálló a tiszta délutáni fényekben.",
                 "ro": "O oprire foto frumoasă în lumina clară a după-amiezii.",
                 "en": "A beautiful photo stop in the clear afternoon light.",
-                "hr": "Prekrasno mjesto za fotografiju na jasnom popodnevnom svjetlu."
+                "hr": "Lijepo fotografsko stajalište u jasnom popodnevnom svjetlu."
               }
             },
             {
@@ -2521,7 +2566,7 @@
                 "hu": "Az utolsó állomás a sötétben való visszautazás előtt.",
                 "ro": "Ultima oprire înainte de întoarcerea pe întuneric.",
                 "en": "The last stop before the return journey in the dark.",
-                "hr": "Posljednja postaja prije povratka u mraku."
+                "hr": "Posljednje stajalište prije povratka u mraku."
               }
             }
           ],
@@ -2551,10 +2596,10 @@
               "Plan your return journey before 17:00."
             ],
             "hr": [
-              "Provjerite zimski vozni red za liniju 37.",
-              "Toplo se odjenite za vrijeme čekanja na autobusnim stanicama.",
-              "Autobusi su zimi obično dobro zagrijani.",
-              "Planirajte povratak prije 17:00 sati."
+              "Provjerite zimski raspored linije 37.",
+              "Obucite se toplo za čekanja na autobusnim stajalištima.",
+              "Autobusi su obično dobro grijani zimi.",
+              "Isplanirajte povratak prije 17:00."
             ]
           }
         }
@@ -2614,19 +2659,22 @@
       "de": "Kroatisch ist Amtssprache; in Dalmatien spricht das Tourismuspersonal Englisch, Deutsch und Italienisch. 'Bok' = Hallo (informell).",
       "hu": "A horvát a hivatalos nyelv; Dalmáciában a turisztikai dolgozók beszélnek angolul, németül és olaszul. 'Bok' = szia (informális).",
       "ro": "Croata este limba oficială; în Dalmația personalul turistic vorbește engleză, germană și italiană. 'Bok' = salut (informal).",
-      "en": "Croatian is official; in Dalmatia hospitality staff speak English, German and Italian. 'Bok' = hi (informal)."
+      "en": "Croatian is official; in Dalmatia hospitality staff speak English, German and Italian. 'Bok' = hi (informal).",
+      "hr": "Hrvatski je službeni; u Dalmaciji osoblje u ugostiteljstvu govori engleski, njemački i talijanski. 'Bok' = zdravo (neformalno)."
     },
     "best_time_to_visit": {
       "de": "Mai, Juni, September; im August sehr voll wegen Nähe zu Split und zum Flughafen.",
       "hu": "Május, június, szeptember; augusztusban nagyon zsúfolt Split és a reptér közelsége miatt.",
       "ro": "Mai, iunie, septembrie; în august foarte aglomerat datorită proximității de Split și aeroport.",
-      "en": "May, June, September; very crowded in August due to proximity to Split and the airport."
+      "en": "May, June, September; very crowded in August due to proximity to Split and the airport.",
+      "hr": "Svibanj, lipanj, rujan; u kolovozu vrlo gužva zbog blizine Splita i zračne luke."
     },
     "neighborhood_warnings": {
       "de": "Die sieben Orte (Štafilić bis Sućurac) ziehen sich 17 km entlang der Bucht, ohne Auto schwer zu erkunden; Flugzeuglärm in Kaštel Štafilić nahe Flughafen.",
       "hu": "A hét település (Štafilić-tól Sućurac-ig) 17 km hosszan húzódik az öbölben, autó nélkül nehéz bejárni; repülőgépzaj Kaštel Štafilićban a reptér közelében.",
       "ro": "Cele șapte localități (de la Štafilić la Sućurac) se întind pe 17 km de-a lungul golfului, greu de explorat fără mașină; zgomot de avioane în Kaštel Štafilić, lângă aeroport.",
-      "en": "The seven settlements (Štafilić to Sućurac) stretch 17 km along the bay, hard to explore without a car; aircraft noise in Kaštel Štafilić near the airport."
+      "en": "The seven settlements (Štafilić to Sućurac) stretch 17 km along the bay, hard to explore without a car; aircraft noise in Kaštel Štafilić near the airport.",
+      "hr": "Sedam naselja (od Štafilića do Sućurca) proteže se 17 km duž zaljeva, teško ih je istražiti bez automobila; buka zrakoplova u Kaštel Štafiliću blizu zračne luke."
     }
   }
 }

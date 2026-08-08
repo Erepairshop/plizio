@@ -21,7 +21,8 @@
             "de": "Kaffee am Zrmanja-Ufer",
             "hu": "Kávé a Zrmanja-parton",
             "ro": "Cafea pe malul râului Zrmanja",
-            "en": "Coffee on the Zrmanja Bank"
+            "en": "Coffee on the Zrmanja Bank",
+            "hr": "Kava na obali Zrmanje"
           },
           "coords": [
             15.6825,
@@ -45,7 +46,8 @@
             "de": "Utvrda Kurjakovića",
             "hu": "Utvrda Kurjakovića",
             "ro": "Utvrda Kurjakovića",
-            "en": "Utvrda Kurjakovića"
+            "en": "Utvrda Kurjakovića",
+            "hr": "Utvrda Kurjakovića"
           },
           "coords": [
             15.681,
@@ -61,7 +63,7 @@
             "hu": "A romokról remek kilátás nyílik a városra.",
             "ro": "Ruinele oferă o priveliște excelentă asupra orașului.",
             "en": "The ruins offer a great view over the town.",
-            "hr": "Ruševine nude sjajan pogled na grad."
+            "hr": "Ruševine nude izvrstan pogled na grad."
           }
         },
         {
@@ -69,7 +71,8 @@
             "de": "Kanjon Zrmanje (Uferweg)",
             "hu": "Zrmanja-kanyon (parti sétány)",
             "ro": "Canionul Zrmanje (faleza)",
-            "en": "Zrmanja Canyon (Riverside Walk)"
+            "en": "Zrmanja Canyon (Riverside Walk)",
+            "hr": "Zrmanjski kanjon (šetnica uz rijeku)"
           },
           "coords": [
             15.683,
@@ -85,7 +88,7 @@
             "hu": "Itt forgatták a Winnetou-filmek több jelenetét.",
             "ro": "Aici au fost filmate părți din filmele Winnetou.",
             "en": "Parts of the Winnetou movies were filmed here.",
-            "hr": "Ovdje su snimani dijelovi filmova o Winnetouu."
+            "hr": "Dijelovi Winnetou filmova snimani su ovdje."
           }
         },
         {
@@ -93,7 +96,8 @@
             "de": "Mittagessen in einer Konoba",
             "hu": "Ebéd egy konobában",
             "ro": "Prânz la o konoba",
-            "en": "Lunch in a Konoba"
+            "en": "Lunch in a Konoba",
+            "hr": "Ručak u konobi"
           },
           "coords": [
             15.682,
@@ -109,7 +113,7 @@
             "hu": "Kóstolja meg a friss folyami pisztrángot.",
             "ro": "Încercați păstrăvul proaspăt de râu.",
             "en": "Try fresh trout from the river.",
-            "hr": "Probajte svježu pastrvu iz rijeke."
+            "hr": "Probajte svježu potočnu pastrvu iz rijeke."
           }
         },
         {
@@ -117,7 +121,8 @@
             "de": "Alte Brücke von Obrovac",
             "hu": "Obrovaci öreg híd",
             "ro": "Podul vechi din Obrovac",
-            "en": "Old Bridge of Obrovac"
+            "en": "Old Bridge of Obrovac",
+            "hr": "Stari most u Obrovcu"
           },
           "coords": [
             15.6815,
@@ -133,7 +138,7 @@
             "hu": "Tökéletes fotóhelyszín a folyó kanyarulatához.",
             "ro": "Un loc perfect pentru fotografii cu cursul râului.",
             "en": "A perfect photo spot for the river bend.",
-            "hr": "Savršeno mjesto za fotografiranje zavoja rijeke."
+            "hr": "Savršeno mjesto za fotografiju zavoja rijeke."
           }
         },
         {
@@ -141,7 +146,8 @@
             "de": "Flusspromenade",
             "hu": "Folyóparti sétány",
             "ro": "Promenada râului",
-            "en": "Riverside Promenade"
+            "en": "Riverside Promenade",
+            "hr": "Riva"
           },
           "coords": [
             15.684,
@@ -165,7 +171,8 @@
             "de": "Abendliche Ruhepause",
             "hu": "Esti pihenő",
             "ro": "Pauză de seară",
-            "en": "Evening Rest"
+            "en": "Evening Rest",
+            "hr": "Večerni odmor"
           },
           "coords": [
             15.6822,
@@ -181,7 +188,7 @@
             "hu": "Nézze a víz csillogását a lemenő napban.",
             "ro": "Urmăriți strălucirea apei la apus.",
             "en": "Watch the water sparkle in the setting sun.",
-            "hr": "Gledajte kako voda svjetluca na zalazećem suncu."
+            "hr": "Gledajte kako voda sjaji u zalasku sunca."
           }
         }
       ],
@@ -190,7 +197,7 @@
         "hu": "Kezdje a napot a festői Obrovacban, közvetlenül a Zrmanja partján. Egy élénkítő kávé után másszon fel a történelmi Kurjakovića-erődhöz a legszebb kilátásért. A delet a vízparton töltse, ahol egy helyi konobában élvezheti a kanyon hűvös fuvallatát, mielőtt a napot egy pihentető sétával zárná a folyóparti korzón.",
         "ro": "Începeți ziua în pitorescul Obrovac, chiar pe malul râului Zrmanja. După o cafea revigorantă, urcați la cetatea istorică Kurjakovića pentru cea mai bună panoramă. Petreceți amiaza lângă apă, unde vă puteți bucura de briza răcoroasă a canionului într-o konoba locală, înainte de a încheia ziua cu o plimbare relaxantă pe faleză.",
         "en": "Start your day in picturesque Obrovac, right on the banks of the Zrmanja. After a refreshing coffee, climb up to the historic Kurjakovića fortress for the best views. Spend midday by the water, enjoying the canyon's cool breeze in a local konoba, before ending the day with a relaxing stroll along the riverside promenade.",
-        "hr": "Započnite svoj dan u slikovitom Obrovcu, smještenom na samim obalama Zrmanje. Nakon osvježavajuće kave, popnite se do povijesne utvrde Kurjakovića za najljepši pogled. Podne provedite uz vodu, uživajući u svježem povjetarcu kanjona u lokalnoj konobi, prije nego što dan završite opuštajućom šetnjom uz obalnu šetnicu."
+        "hr": "Započnite dan u slikovitom Obrovcu, odmah na obali Zrmanje. Nakon osvježavajuće kave, uspnite se do povijesne utvrde Kurjakovića za najbolje poglede. Provedite podne uz rijeku, uživajući u svježem kanjonu u lokalnoj konobi, prije nego što dan završite opuštajućom šetnjom rivom."
       },
       "gastro_picks": {
         "de": [
@@ -312,7 +319,7 @@
         ],
         "hr": [
           "Nosite udobnu obuću za uspon do utvrde.",
-          "Grad je u podne često vrlo miran i opušten."
+          "Grad je često vrlo tih i opušten u podne."
         ]
       },
       "variants": {
@@ -322,7 +329,7 @@
             "hu": "A reggel forró kávéval indul a Zrmanja partján, fedett helyen. Délben a várromot fedezzük fel, miközben az eső fényessé teszi a köveket. Délután a kanyon ködös, misztikus látványt nyújt egy rövid séta során. A nap egy hagyományos konoba melegében, kényelmesen ér véget.",
             "ro": "Dimineața începe cu o cafea fierbinte la adăpost pe malul Zrmanja. La prânz explorăm ruinele cetății, în timp ce ploaia face pietrele să strălucească. După-amiaza, canionul oferă un cadru mistic în ceață pentru o scurtă plimbare. Ziua se încheie confortabil în căldura unei taverne tradiționale.",
             "en": "Morning starts with a hot coffee sheltered by the Zrmanja bank. At noon, we explore the fortress ruins as rain makes the stones glisten. In the afternoon, the canyon provides a mystical backdrop in the mist for a short walk. The day ends cozily in the warmth of a traditional konoba.",
-            "hr": "Jutro počinje toplom kavom u zavjetrini obale Zrmanje. U podne istražujemo ruševine utvrde dok kiša čini kamenje sjajnim. Poslijepodne kanjon u magli pruža mističnu kulisu za kratku šetnju. Dan ugodno završava u toplini tradicionalne konobe."
+            "hr": "Jutro započinje toplom kavom pod zaklonom obale Zrmanje. U podne istražujemo ruševine utvrde dok kiša čini kamenje blistavim. Poslijepodne kanjon stvara mističnu pozadinu u magli za kratku šetnju. Dan završava ugodno u toplini tradicionalne konobe."
           },
           "stops": [
             {
@@ -332,7 +339,7 @@
                 "hu": "Válasszon belső asztalt folyóra néző kilátással.",
                 "ro": "Alegeți o masă în interior cu vedere la râu.",
                 "en": "Choose an indoor table with a view of the rising river.",
-                "hr": "Odaberite stol u zatvorenom s pogledom na nabujalu rijeku."
+                "hr": "Odaberite stol unutra s pogledom na rijeku koja se diže."
               }
             },
             {
@@ -342,7 +349,7 @@
                 "hu": "Vigyázat, a kőlépcsők esőben nagyon csúszósak lehetnek.",
                 "ro": "Atenție, treptele de piatră pot fi foarte alunecoase pe ploaie.",
                 "en": "Caution: the stone steps can be very slippery when wet.",
-                "hr": "Oprez: kamene stepenice mogu biti vrlo skliske kad su mokre."
+                "hr": "Upozorenje: kameni koraci mogu biti jako sklizavi kad su mokri."
               }
             },
             {
@@ -362,7 +369,7 @@
                 "hu": "Élvezze a helyi specialitásokat a kandalló mellett.",
                 "ro": "Savurați specialități locale lângă focul din șemineu.",
                 "en": "Enjoy local specialties by the fireplace if available.",
-                "hr": "Uživajte u lokalnim specijalitetima uz ognjište ako je dostupno."
+                "hr": "Uživajte u domaćim specijalitetima kraj ognjišta ako je dostupno."
               }
             },
             {
@@ -372,7 +379,7 @@
                 "hu": "Rövid fotómegálló; a híd nem nyújt védelmet az eső elől.",
                 "ro": "Oprire scurtă pentru poze; podul nu oferă protecție contra ploii.",
                 "en": "Quick photo stop; the bridge offers little shelter from rain.",
-                "hr": "Brzo mjesto za fotografiju; most nudi malo zaklona od kiše."
+                "hr": "Brza foto-stanica; most nudi malo zaklona od kiše."
               }
             },
             {
@@ -382,7 +389,7 @@
                 "hu": "Vízálló cipő szükséges a parton lévő tócsák miatt.",
                 "ro": "Încălțămintea impermeabilă este necesară pentru bălțile de pe mal.",
                 "en": "Waterproof shoes are essential for the puddles along the bank.",
-                "hr": "Vodootporna obuća je neophodna za lokve uz obalu."
+                "hr": "Vodootporna obuća je bitna zbog lokvi duž obale."
               }
             },
             {
@@ -392,7 +399,7 @@
                 "hu": "Keressen menedéket egy bárban a kikötő közelében.",
                 "ro": "Căutați adăpost într-un bar de lângă debarcader.",
                 "en": "Seek shelter in a bar near the boat landing area.",
-                "hr": "Potražite zaklon u baru blizu pristaništa za brodove."
+                "hr": "Potražite zaklon u baru blizu mjesta iskrcaja brodova."
               }
             }
           ],
@@ -423,9 +430,9 @@
             ],
             "hr": [
               "Nosite kvalitetnu kabanicu jer vjetar lako okreće kišobrane.",
-              "Vapnenački pločnik u starom gradu postaje sklizak poput ogledala.",
+              "Krečnjačka popločanja u starom gradu postaju ogledalo pod mokrim uvjetima.",
               "Koristite konobe za duže pauze tijekom jakih pljuskova.",
-              "Zrmanja izgleda posebno divlje tijekom kiše zbog uskovitlane vode."
+              "Zrmanja izgleda posebno divlje tijekom kiše zbog uzburkane vode."
             ]
           }
         },
@@ -435,7 +442,7 @@
             "hu": "A téli reggel friss és a Bura miatt gyakran szeles. Délben az alacsonyan járó nap melegíti a vár öreg falait. Délután a korai alkonyat fényei lágy tónusokba öltöztetik a kanyont, mielőtt visszahúzódnánk egy meleg kávézóba. Az este csendes és hangulatos a kivilágított folyónál.",
             "ro": "Dimineața de iarnă este proaspătă și adesea vântoasă din cauza Burei. La prânz, soarele blând încălzește zidurile vechi ale cetății. După-amiaza, lumina timpurie a serii colorează canionul în tonuri calde. Seara este liniștită și atmosferică lângă râul iluminat.",
             "en": "The winter morning is crisp and often windy due to the Bura. At noon, the low sun warms the old walls of the fortress. In the afternoon, early twilight colors the canyon in soft tones before we retreat to a warm cafe. The evening is quiet and atmospheric by the lit river.",
-            "hr": "Zimsko jutro je svježe i često vjetrovito zbog bure. U podne nisko sunce grije stare zidine utvrde. Poslijepodne rani sumrak boja kanjon u meke tonove prije nego što se povučemo u topli kafić. Večer je tiha i atmosferska uz osvijetljenu rijeku."
+            "hr": "Zimsko jutro je oštro i često vjetrovito zbog bure. U podne nisko sunce grije stare zidine utvrde. Poslijepodne rano sumrak boji kanjon nježnim tonovima prije nego se povučemo u topli kafić. Večer je mirna i atmosferična uz osvijetljenu rijeku."
           },
           "stops": [
             {
@@ -445,7 +452,7 @@
                 "hu": "Rendeljen egy forró teát a reggeli hideg ellen.",
                 "ro": "Comandați un ceai fierbinte împotriva frigului de dimineață.",
                 "en": "Order a hot tea or local brandy to combat the morning chill.",
-                "hr": "Naručite topli čaj ili domaću rakiju protiv jutarnje hladnoće."
+                "hr": "Naručite vrući čaj ili domaću rakiju protiv jutarnje zime."
               }
             },
             {
@@ -465,7 +472,7 @@
                 "hu": "Sétáljon tempósan, hogy melegen tartsa magát a hűvös szélben.",
                 "ro": "Mergeți vioi pentru a vă menține căldura în briza rece.",
                 "en": "Walk briskly to stay warm in the cool canyon breeze.",
-                "hr": "Hodajte brže kako biste ostali zagrijani na hladnom povjetarcu kanjona."
+                "hr": "Hodajte brzo da ostanete topli u hladnom kanjonskom povjetarcu."
               }
             },
             {
@@ -475,7 +482,7 @@
                 "hu": "Kérdezzen a laktató téli ételekről, mint a Pašticada.",
                 "ro": "Cereți preparate de iarnă consistente, cum ar fi Pašticada.",
                 "en": "Ask for hearty winter dishes like Pašticada or bean soup.",
-                "hr": "Pitajte za krepka zimska jela poput pašticade ili graha."
+                "hr": "Zatražite srdačna zim­ska jela poput pašticade ili graha."
               }
             },
             {
@@ -485,7 +492,7 @@
                 "hu": "A fémkorlát télen jéghideg; használjon kesztyűt.",
                 "ro": "Balustrada metalică este extrem de rece iarna; purtați mănuși.",
                 "en": "The metal railing is ice-cold in winter; use gloves.",
-                "hr": "Metalna ograda je zimi ledeno hladna; koristite rukavice."
+                "hr": "Metalna ograda je ledeno hladna zimi; koristite rukavice."
               }
             },
             {
@@ -505,7 +512,7 @@
                 "hu": "Mivel 16:30-kor sötétedik, ez az ideális idő a benti pihenésre.",
                 "ro": "Deoarece se întunecă la 16:30, este momentul ideal pentru interior.",
                 "en": "Since it gets dark by 16:30, it's the perfect time to go inside.",
-                "hr": "Budući da se smrkne već oko 16:30, savršeno je vrijeme za odlazak u zatvoreno."
+                "hr": "Budući da se smrkava oko 16:30, idealno je vrijeme za unutra."
               }
             }
           ],
@@ -535,10 +542,10 @@
               "Visibility in the canyon is often best on clear winter days."
             ],
             "hr": [
-              "Odjenite se slojevito kako biste se zaštitili od oštre bure.",
-              "Sunce rano zalazi, pa planirajte aktivnosti na otvorenom prije 16:00.",
-              "Mnogi kafići zimi imaju ograničen broj mjesta na otvorenom s grijalicama.",
-              "Vidljivost u kanjonu često je najbolja tijekom vedrih zimskih dana."
+              "Obucite se u slojevima da se zaštitite od oštre bura.",
+              "Sunce zalazi rano, pa planirajte aktivnosti na otvorenom prije 16:00.",
+              "Mnogi kafići imaju ograničen vanjski smještaj s grijačima zimi.",
+              "Vidljivost u kanjonu često je najbolja na vedrim zimskim danima."
             ]
           }
         }
@@ -557,7 +564,8 @@
             "de": "Utvrda Kurjakovića (Cluster A)",
             "hu": "Utvrda Kurjakovića (A-klaszter)",
             "ro": "Utvrda Kurjakovića (Cluster A)",
-            "en": "Utvrda Kurjakovića (Cluster A)"
+            "en": "Utvrda Kurjakovića (Cluster A)",
+            "hr": "Utvrda Kurjakovića (Skupina A)"
           },
           "coords": [
             15.681,
@@ -573,7 +581,7 @@
             "hu": "Parkoljon a városközpontban, és sétáljon fel.",
             "ro": "Parcați în centrul orașului și urcați pe jos.",
             "en": "Park in the town center and walk up.",
-            "hr": "Parkirajte u centru grada i popnite se pješice."
+            "hr": "Parkirajte u centru grada i pješačite gore."
           }
         },
         {
@@ -581,7 +589,8 @@
             "de": "Kanjon Zrmanje Aussichtspunkt",
             "hu": "Zrmanja-kanyon kilátó",
             "ro": "Punct de belvedere Canionul Zrmanje",
-            "en": "Zrmanja Canyon Viewpoint"
+            "en": "Zrmanja Canyon Viewpoint",
+            "hr": "Vidikovac na Zrmanjskom kanjonu"
           },
           "coords": [
             15.615,
@@ -597,7 +606,7 @@
             "hu": "A leghíresebb 'Pueblo Plateau' kilátás.",
             "ro": "Cea mai faimoasă priveliște 'Pueblo Plateau'.",
             "en": "The most famous 'Pueblo Plateau' view.",
-            "hr": "Najpoznatiji pogled s 'Pueblo platoa'."
+            "hr": "Najpoznatiji pogled s 'Pueblo Platea'."
           }
         },
         {
@@ -605,7 +614,8 @@
             "de": "Mittagessen in Obrovac",
             "hu": "Ebéd Obrovacban",
             "ro": "Prânz în Obrovac",
-            "en": "Lunch in Obrovac"
+            "en": "Lunch in Obrovac",
+            "hr": "Ručak u Obrovcu"
           },
           "coords": [
             15.682,
@@ -621,7 +631,7 @@
             "hu": "Rövid visszatérés a városba ebédelni.",
             "ro": "Scurtă întoarcere în oraș pentru masă.",
             "en": "Short return to town for lunch.",
-            "hr": "Kratki povratak u grad na ručak."
+            "hr": "Kraći povratak u grad na ručak."
           }
         },
         {
@@ -629,7 +639,8 @@
             "de": "Krupa (Kloster & Brücke)",
             "hu": "Krupa (kolostor és híd)",
             "ro": "Krupa (mănăstire și pod)",
-            "en": "Krupa (Monastery & Bridge)"
+            "en": "Krupa (Monastery & Bridge)",
+            "hr": "Krupa (samostan i most)"
           },
           "coords": [
             15.842,
@@ -645,7 +656,7 @@
             "hu": "Látogassa meg a régi szerb ortodox kolostort.",
             "ro": "Vizitați vechea mănăstire ortodoxă sârbă.",
             "en": "Visit the old Serbian Orthodox monastery.",
-            "hr": "Posjetite stari srpski pravoslavni manastir."
+            "hr": "Posjetite stari srpski pravoslavni samostan."
           }
         },
         {
@@ -653,7 +664,8 @@
             "de": "Tulove Grede",
             "hu": "Tulove Grede",
             "ro": "Tulove Grede",
-            "en": "Tulove Grede"
+            "en": "Tulove Grede",
+            "hr": "Tulove Grede"
           },
           "coords": [
             15.645,
@@ -669,7 +681,7 @@
             "hu": "Bizzar sziklaformációk a Velebitben.",
             "ro": "Formațiuni stâncoase bizare în munții Velebit.",
             "en": "Bizarre rock formations in the Velebit mountains.",
-            "hr": "Bizarno oblikovane stijene na Velebitu."
+            "hr": "Neobične stijenske formacije u Velebitu."
           }
         },
         {
@@ -677,7 +689,8 @@
             "de": "Panorama-Abschluss",
             "hu": "Panorámás búcsú",
             "ro": "Final panoramic",
-            "en": "Panoramic Farewell"
+            "en": "Panoramic Farewell",
+            "hr": "Pogled za rastanak"
           },
           "coords": [
             15.655,
@@ -693,7 +706,7 @@
             "hu": "Kilátás az Adriára tiszta időben.",
             "ro": "Vedere spre Adriatica pe vreme senină.",
             "en": "View down to the Adriatic in clear weather.",
-            "hr": "Pogled dolje na Jadran po vedrom vremenu."
+            "hr": "Pogled prema Jadranu za vedrog vremena."
           }
         }
       ],
@@ -702,7 +715,7 @@
         "hu": "Autóval fedezze fel Obrovac drámai környezetét. A várerőd után látogasson el a híres Zrmanja-kanyon kilátóhoz, amely filmekből lehet ismerős. A délután a hátország mélyére, az idilli Krupa-kolostorhoz vezet, végül pedig a Velebit-hegység látványos Tulove Grede sziklatűihez kanyarodik fel.",
         "ro": "Cu mașina, explorați împrejurimile dramatice ale Obrovacului. După cetate, mergeți la celebrul punct de belvedere al canionului Zrmanja, cunoscut din filme. După-amiaza vă poartă adânc în hinterland, la idilica mănăstire Krupa, și în final sus, la spectaculoasele coloane de piatră Tulove Grede din masivul Velebit.",
         "en": "Explore the dramatic surroundings of Obrovac by car. After the fortress, drive to the famous Zrmanja Canyon viewpoint, known from the movies. The afternoon takes you deep into the hinterland to the idyllic Krupa Monastery and finally high up to the spectacular rock needles of Tulove Grede in the Velebit massif.",
-        "hr": "Istražite dramatičnu okolicu Obrovca automobilom. Nakon utvrde, odvezite se do poznatog vidikovca na kanjon Zrmanje, poznatog iz filmova. Poslijepodne vas vodi duboko u zaleđe do idiličnog manastira Krupa i na kraju visoko do spektakularnih stijena Tulove grede na masivu Velebita."
+        "hr": "Istražite dramatičnu okolinu Obrovca automobilom. Nakon utvrde, vozite do poznatog vidikovca Zrmanjskog kanjona, poznatog iz filmova. Poslijepodne vodi duboko u zaleđe do idiličnog samostana Krupa i na kraju visoko do spektakularnih stijenskih igala Tulovih Greda u masivu Velebita."
       },
       "gastro_picks": {
         "de": [
@@ -823,7 +836,7 @@
           "Fill up your tank in Obrovac before heading into the hinterland."
         ],
         "hr": [
-          "Pazite na uske planinske ceste prema Tulovim gredama.",
+          "Pazite na uske planinske ceste prema Tulovim Gredama.",
           "Napunite spremnik u Obrovcu prije odlaska u zaleđe."
         ]
       },
@@ -834,7 +847,7 @@
             "hu": "Az autós túra biztonságosan vezet át az eső áztatta tájon. Délelőtt a várat látogatjuk meg, miközben a felhők mélyen a kanyonban ülnek. Délben Obrovac nyújt menedéket a pihenőhöz, mielőtt a Krupa-kolostorhoz hajtanánk, amely esőben különösen békés. Az út drámai kilátásokkal zárul a biztonságos parkolókból.",
             "ro": "Turul cu mașina ne poartă în siguranță prin peisajul plin de ploaie. Dimineața vizităm cetatea, în timp ce norii stau jos în canion. La prânz, Obrovac oferă adăpost, înainte de a merge la mănăstirea Krupa, care pare foarte liniștită pe ploaie. Călătoria se încheie cu vederi dramatice.",
             "en": "The car tour leads us safely through the rain-soaked landscape. In the morning, we visit the fortress while clouds hang low in the canyon. At noon, Obrovac offers shelter before we drive to the remote Krupa monastery, which feels especially peaceful in the rain. The drive ends with dramatic views from safe spots.",
-            "hr": "Tura automobilom vodi nas sigurno kroz kišom natopljen krajolik. Ujutro posjećujemo utvrdu dok niski oblaci vise u kanjonu. U podne Obrovac nudi zaklon prije nego što se odvezemo do udaljenog manastira Krupa, koji na kiši djeluje posebno mirno. Vožnja završava dramatičnim vidicima sa sigurnih mjesta."
+            "hr": "Izlet automobilom vodi nas sigurno kroz kišom natopljeni krajolik. Ujutro posjećujemo utvrdu dok oblaci vise nisko u kanjonu. U podne Obrovac nudi zaklon prije vožnje do udaljenog samostana Krupa, koji je poseban miran po kiši. Vožnja završava dramatičnim pogledima sa sigurnih mjesta."
           },
           "stops": [
             {
@@ -844,7 +857,7 @@
                 "hu": "Parkoljon közel a feljáróhoz, hogy rövid legyen a gyalogút az esőben.",
                 "ro": "Parcați aproape de intrare pentru a scurta drumul pe jos prin ploaie.",
                 "en": "Park close to the entrance to keep the walk in the rain short.",
-                "hr": "Parkirajte blizu ulaza kako bi šetnja po kiši bila kratka."
+                "hr": "Parkirajte blizu ulaza da skratite pješačenje po kiši."
               }
             },
             {
@@ -854,7 +867,7 @@
                 "hu": "Heves esőben maradjon az autóban a fotózáshoz.",
                 "ro": "Rămâneți în mașină pentru fotografii în timpul ploii abundente.",
                 "en": "Stay in the car for photos if the rain is too heavy.",
-                "hr": "Ostanite u automobilu za fotografiranje ako je kiša prejaka."
+                "hr": "Ostanite u autu za fotografije ako je kiša pre jaka."
               }
             },
             {
@@ -864,7 +877,7 @@
                 "hu": "Keressen parkolót közvetlenül az étteremnél, hogy száraz maradjon.",
                 "ro": "Căutați parcare chiar lângă restaurant pentru a rămâne uscat.",
                 "en": "Look for parking right by the restaurant to stay dry.",
-                "hr": "Potražite parking odmah uz restoran kako biste ostali suhi."
+                "hr": "Potražite parkiranje odmah uz restoran da ostanete suhi."
               }
             },
             {
@@ -874,7 +887,7 @@
                 "hu": "Látogasson el a kolostor belsejébe, hogy elkerülje az időjárást.",
                 "ro": "Vizitați interiorul mănăstirii pentru a scăpa de vremea rea.",
                 "en": "Visit the interior of the monastery to escape the weather.",
-                "hr": "Posjetite unutrašnjost manastira kako biste pobjegli od vremena."
+                "hr": "Posjetite unutrašnjost samostana da pobjegnete od lošeg vremena."
               }
             },
             {
@@ -884,7 +897,7 @@
                 "hu": "Vigyázat a murvás úton; esőben sáros lehet.",
                 "ro": "Atenție pe drumul de pietriș; poate fi noroios pe ploaie.",
                 "en": "Be careful on the gravel road; it can get muddy in the rain.",
-                "hr": "Budite oprezni na makadamu; na kiši može postati blatnjav."
+                "hr": "Budite oprezni na makadamu; može se zablatoiti po kiši."
               }
             },
             {
@@ -894,7 +907,7 @@
                 "hu": "Élvezze a kilátást az esős Velebit-hegységre az ablakból.",
                 "ro": "Bucurați-vă de vederea spre munții Velebit prin fereastra mașinii.",
                 "en": "Enjoy the view of the rainy Velebit mountains from your window.",
-                "hr": "Uživajte u pogledu na kišoviti Velebit kroz prozor."
+                "hr": "Uživajte u pogledu na kišni Velebit kroz prozor."
               }
             }
           ],
@@ -925,9 +938,9 @@
             ],
             "hr": [
               "Provjerite brisače prije odlaska u planine.",
-              "Ceste do manastira Krupa su uske i mogu biti skliske kad su mokre.",
-              "Izbjegavajte izložene vidikovce poput Tulovih greda tijekom grmljavine.",
-              "Svjetla za maglu često su potrebna na višim predjelima Velebita."
+              "Ceste do samostana Krupa su uske i mogu biti skliske kad su mokre.",
+              "Izbjegavajte izložene vidikovce poput Tulovih Greda tijekom grmljavinskih oluja.",
+              "Maglenke su često nužne na većim nadmorskim visinama Velebita."
             ]
           }
         },
@@ -937,7 +950,7 @@
             "hu": "A téli autózás feltárja a hátország zord szépségét. Délelőtt a vár sziklái csillognak a dértől. Délben Obrovacban melegszünk fel, mielőtt meglátogatnánk a csendes Krupa-kolostort. Az út felvezet a látványos Tulove Grede-hez, ahol a Bura gyakran havat hord a csúcsokról. Tiszta levegővel és távoli kilátásokkal teli nap.",
             "ro": "Călătoria de iarnă dezvăluie frumusețea aspră a hinterlandului. Dimineața, stâncile cetății strălucesc de brumă. La prânz ne încălzim în Obrovac, apoi vizităm mănăstirea Krupa. Traseul urcă spre spectaculoasele Tulove Grede, unde Bura suflă zăpada de pe vârfuri. O zi cu aer curat și vederi panoramice.",
             "en": "The winter drive reveals the rugged beauty of the hinterland. In the morning, the fortress rocks glisten with frost. At noon, we warm up in Obrovac before visiting the silent Krupa monastery. The route climbs to the spectacular Tulove Grede, where the Bura often blows snow from the peaks. A day of crisp air and far-reaching views.",
-            "hr": "Zimska vožnja otkriva surovu ljepotu zaleđa. Ujutro stijene utvrde svjetlucaju od mraza. U podne se grijemo u Obrovcu prije posjeta tihom manastiru Krupa. Ruta se penje do spektakularnih Tulovih greda, gdje bura često nosi snijeg s vrhova. Dan svježeg zraka i dalekosežnih vidika."
+            "hr": "Zimska vožnja otkriva grubu ljepotu zaleđa. Ujutro stijene utvrde sjaje od mraza. U podne se ugrijemo u Obrovcu prije posjeta tihom samostanu Krupa. Ruta se penje do spektakularnih Tulovih Greda, gdje bura često nosi snijeg s vrhova. Dan pun svježeg zraka i dalekih vidika."
           },
           "stops": [
             {
@@ -947,7 +960,7 @@
                 "hu": "Figyeljen a jegesedésre az árnyékos parkolókban.",
                 "ro": "Atenție la polei în parcările umbrite.",
                 "en": "Watch out for black ice in shaded parking areas.",
-                "hr": "Pazite na poledicu na sjenovitim parkiralištima."
+                "hr": "Pazite na crni led na sjenovitim parkiralištima."
               }
             },
             {
@@ -957,7 +970,7 @@
                 "hu": "Készítsen elő meleg ruhát, ha kiszállna fotózni.",
                 "ro": "Pregătiți haine groase dacă coborâți pentru o poză.",
                 "en": "Have warm clothes ready if you step out for a photo.",
-                "hr": "Imajte spremnu toplu odjeću ako izlazite radi fotografiranja."
+                "hr": "Imate spremnu toplu odjeću ako izađete na fotografiranje."
               }
             },
             {
@@ -977,7 +990,7 @@
                 "hu": "A híd télen lejegesedhet; járjon óvatosan.",
                 "ro": "Podul poate fi înghețat iarna; mergeți cu mare grijă.",
                 "en": "The bridge may be icy in winter; walk with extreme care.",
-                "hr": "Most zimi može biti zaleđen; hodajte s krajnjim oprezom."
+                "hr": "Most može biti poledio zimi; hodajte s krajnjim oprezom."
               }
             },
             {
@@ -987,7 +1000,7 @@
                 "hu": "Hóesésben az út lezárható; ellenőrizze előre.",
                 "ro": "Drumul poate fi închis în caz de zăpadă; verificați înainte.",
                 "en": "The road may be closed during snowfall; check status beforehand.",
-                "hr": "Cesta može biti zatvorena tijekom snježnih oborina; provjerite stanje unaprijed."
+                "hr": "Cesta može biti zatvorena tijekom snježnih padalina; provjerite stanje prije polaska."
               }
             },
             {
@@ -997,7 +1010,7 @@
                 "hu": "A távoli kilátás a tengerig télen gyakran fenomenális.",
                 "ro": "Vizibilitatea până la mare este adesea fenomenală iarna.",
                 "en": "The long-distance view to the sea is often phenomenal in winter.",
-                "hr": "Pogled u daljinu prema moru zimi je često fenomenalan."
+                "hr": "Pogled na more na daljinu često je fenomenalan zimi."
               }
             }
           ],
@@ -1027,10 +1040,10 @@
               "Keep your fuel tank full as gas stations are scarce in the interior."
             ],
             "hr": [
-              "Zimske gume i lanci za snijeg često su obavezni na Velebitu.",
-              "Bura može uzrokovati opasne bočne vjetrove na planinskim cestama.",
-              "Tulove grede planirajte samo za danjeg svjetla; nema ulične rasvjete.",
-              "Držite spremnik goriva punim jer su benzinske postaje rijetke u unutrašnjosti."
+              "Zimske gume i lance za snijeg često su obavezni u planinama Velebita.",
+              "Bura može izazvati opasne bočne udare vjetra na planinskim cestama.",
+              "Tulove Grede planirajte samo tijekom dnevnog svjetla; nema javne rasvjete.",
+              "Držite pun spremnik goriva jer su benzinske postaje rijetke u unutrašnjosti."
             ]
           }
         }
@@ -1049,7 +1062,8 @@
             "de": "Zrmanja-Radweg Start",
             "hu": "Zrmanja kerékpárút rajt",
             "ro": "Start pistă de biciclete Zrmanja",
-            "en": "Zrmanja Bike Trail Start"
+            "en": "Zrmanja Bike Trail Start",
+            "hr": "Početak biciklističke staze Zrmanja"
           },
           "coords": [
             15.682,
@@ -1073,7 +1087,8 @@
             "de": "Utvrda Kurjakovića",
             "hu": "Utvrda Kurjakovića",
             "ro": "Utvrda Kurjakovića",
-            "en": "Utvrda Kurjakovića"
+            "en": "Utvrda Kurjakovića",
+            "hr": "Utvrda Kurjakovića"
           },
           "coords": [
             15.681,
@@ -1089,7 +1104,7 @@
             "hu": "Zárja le a biciklit lent biztonságosan.",
             "ro": "Parcați și încuiați bicicleta jos.",
             "en": "Lock your bike securely at the bottom.",
-            "hr": "Sigurno zaključajte bicikl na dnu."
+            "hr": "Zaključajte bicikl sigurno dolje."
           }
         },
         {
@@ -1097,7 +1112,8 @@
             "de": "Kanjon Zrmanje (Oberer Pfad)",
             "hu": "Zrmanja-kanyon (felső ösvény)",
             "ro": "Canionul Zrmanje (poteca de sus)",
-            "en": "Zrmanja Canyon (Upper Path)"
+            "en": "Zrmanja Canyon (Upper Path)",
+            "hr": "Zrmanja kanjon (gornja staza)"
           },
           "coords": [
             15.66,
@@ -1113,7 +1129,7 @@
             "hu": "Gyönyörű kilátópontok a murvás utak mentén.",
             "ro": "Puncte de belvedere superbe de-a lungul drumurilor pietruite.",
             "en": "Beautiful viewpoints along the gravel paths.",
-            "hr": "Prekrasni vidikovci uz makadamske staze."
+            "hr": "Prekrasni vidikovci duž makadamskih staza."
           }
         },
         {
@@ -1121,7 +1137,8 @@
             "de": "Picknick am Fluss",
             "hu": "Piknik a folyónál",
             "ro": "Picnic lângă râu",
-            "en": "Picnic by the River"
+            "en": "Picnic by the River",
+            "hr": "Piknik uz rijeku"
           },
           "coords": [
             15.675,
@@ -1137,7 +1154,7 @@
             "hu": "Keressen egy árnyékos helyet a fák alatt.",
             "ro": "Căutați un loc umbrit sub copaci.",
             "en": "Find a shaded spot under the trees.",
-            "hr": "Pronađite sjenovito mjesto ispod drveća."
+            "hr": "Pronađite mjesto u hladu pod stablima."
           }
         },
         {
@@ -1145,7 +1162,8 @@
             "de": "Obrovac Ufertour",
             "hu": "Obrovaci parti túra",
             "ro": "Turul falezei Obrovac",
-            "en": "Obrovac Waterfront Tour"
+            "en": "Obrovac Waterfront Tour",
+            "hr": "Obrovačka šetnica uz vodu"
           },
           "coords": [
             15.6835,
@@ -1161,7 +1179,7 @@
             "hu": "Pihentető gurulás a folyóparton.",
             "ro": "Plimbare relaxată pe malul râului.",
             "en": "Relaxing ride along the riverbank.",
-            "hr": "Opuštajuća vožnja uz obalu rijeke."
+            "hr": "Opustajuća vožnja uz obalu rijeke."
           }
         },
         {
@@ -1169,7 +1187,8 @@
             "de": "Abschlussgetränk",
             "hu": "Búcsúital",
             "ro": "Băutură de final",
-            "en": "Farewell Drink"
+            "en": "Farewell Drink",
+            "hr": "Oproštajni napitak"
           },
           "coords": [
             15.682,
@@ -1185,7 +1204,7 @@
             "hu": "Egy hűvös ital a Riván.",
             "ro": "O băutură rece pe Riva.",
             "en": "A cool drink on the Riva.",
-            "hr": "Hladno piće na rivi."
+            "hr": "Hladan napitak na Rivi."
           }
         }
       ],
@@ -1194,7 +1213,7 @@
         "hu": "Kerékpárral testközelből élheti át Obrovacot és a Zrmanja-kanyont. Az útvonal a várerődtől indul, majd enyhe emelkedőkön vezet a folyó feletti kilátópontokhoz. Élvezze a szabadságot két keréken, miközben felfedezi a karsztos lejtőket, és közben tartson egy kellemes pikniket a fák árnyékában a folyóparton.",
         "ro": "Cu bicicleta, veți experimenta Obrovacul și canionul Zrmanja de aproape. Traseul vă poartă de la cetate peste urcări ușoare către puncte de belvedere deasupra râului. Bucurați-vă de libertatea pe două roți în timp ce explorați pantele carstice și faceți un picnic plăcut la umbra copacilor de pe malul râului.",
         "en": "Experience Obrovac and the Zrmanja Canyon firsthand by bike. The route takes you from the fortress via gentle climbs to viewpoints above the river. Enjoy the freedom on two wheels while exploring the karstic slopes and having a cozy picnic in the shade of trees on the riverbank.",
-        "hr": "Doživite Obrovac i kanjon Zrmanje iz prve ruke biciklom. Ruta vas vodi od utvrde preko blagih uspona do vidikovaca iznad rijeke. Uživajte u slobodi na dva kotača istražujući krške padine i uz ugodan piknik u hladu drveća na obali rijeke."
+        "hr": "Iskusite Obrovac i Zrmanju iz prve ruke biciklom. Ruta vodi od utvrde preko blagih uspona do vidikovaca iznad rijeke. Uživajte u slobodi na dva kotača istražujući krško brdo i priredivši ugodan piknik u hladu stabala uz obalu."
       },
       "gastro_picks": {
         "de": [
@@ -1316,7 +1335,7 @@
         ],
         "hr": [
           "Ponesite dovoljno vode, ima malo hlada.",
-          "Staze su djelomično makadamske, preporučuje se brdski bicikl."
+          "Staze su djelomično makadam; preporuča se brdski bicikl."
         ]
       },
       "variants": {
@@ -1326,7 +1345,7 @@
             "hu": "Az esőben való kerékpározás óvatosságot igényel, de frissítő perspektívát kínál. Délelőtt a várhoz tekerünk, ahol a sár és a nedvesség próbára teszi az utakat. Délben menedéket keresünk a folyóparti pikniknél, majd a napot Obrovac kikötőjében zárjuk. Kalandoroknak való túra, akik nem félnek a víztől.",
             "ro": "Mersul pe bicicletă în ploaie necesită atenție, dar oferă o perspectivă revigorantă. Dimineața pedalăm spre cetate, unde noroiul și umezeala provoacă drumurile. La prânz căutăm adăpost la picnicul de lângă râu, apoi încheiem ziua în portul Obrovac. Un tur pentru aventurieri.",
             "en": "Cycling in the rain requires caution but offers a refreshing perspective. In the morning, we pedal to the fortress where mud and wetness challenge the paths. At noon, we seek shelter during the riverside picnic before ending the day at Obrovac harbor. A tour for adventurers not afraid of water.",
-            "hr": "Bicikliranje po kiši zahtijeva oprez, ali nudi osvježavajuću perspektivu. Ujutro pedaliramo do utvrde gdje blato i vlaga predstavljaju izazov na stazama. U podne tražimo zaklon tijekom piknika uz rijeku prije završetka dana u obrovačkoj luci. Tura za avanturiste koji se ne boje vode."
+            "hr": "Bicikliranje po kiši zahtijeva oprez, ali pruža osvježavajuću perspektivu. Ujutro pedaļamo prema utvrdi gdje blato i vlažnost otežavaju staze. U podne tražimo zaklon za piknik uz rijeku prije završetka dana u obrovačkoj luci. Tura za avanturiste koji se ne boje vode."
           },
           "stops": [
             {
@@ -1346,7 +1365,7 @@
                 "hu": "Vigyázat a leszálláskor; a talaj a romnál csúszós.",
                 "ro": "Atenție la descălecare; solul de lângă ruină este alunecos.",
                 "en": "Be careful when dismounting; the ground by the ruins is slippery.",
-                "hr": "Budite oprezni pri silaženju s bicikla; tlo kod ruševina je sklisko."
+                "hr": "Budite oprezni pri silasku s bicikla; tlo uz ruševine je sklisko."
               }
             },
             {
@@ -1356,7 +1375,7 @@
                 "hu": "Tekerjen óvatosan; a szél oldalra tolhatja.",
                 "ro": "Pedalați defensiv; vântul vă poate deplasa lateral.",
                 "en": "Ride defensively; the wind can push you sideways.",
-                "hr": "Vozite defenzivno; vjetar vas može gurnuti u stranu."
+                "hr": "Vozite defenzivno; vjetar vas može strpati u stranu."
               }
             },
             {
@@ -1366,7 +1385,7 @@
                 "hu": "Keressen menedéket fák alatt vagy a híd pillérénél.",
                 "ro": "Căutați adăpost sub copaci sau lângă pilonul podului.",
                 "en": "Seek shelter under trees or near the bridge pillar.",
-                "hr": "Potražite zaklon ispod drveća ili blizu stupa mosta."
+                "hr": "Potražite zaklon pod stablima ili uz stup mosta."
               }
             },
             {
@@ -1376,7 +1395,7 @@
                 "hu": "Vigyázzon a sima jelzésekkel a rakparton.",
                 "ro": "Atenție la marcajele alunecoase de pe chei.",
                 "en": "Watch out for slippery markings on the waterfront.",
-                "hr": "Pazite na skliske oznake na rivi."
+                "hr": "Pazite na skliske oznake na šetnici uz vodu."
               }
             },
             {
@@ -1386,7 +1405,7 @@
                 "hu": "Válasszon kávézót fedett biciklitárolóval.",
                 "ro": "Alegeți o cafenea cu suport de biciclete acoperit.",
                 "en": "Choose a cafe with a sheltered bike rack.",
-                "hr": "Odaberite kafić s natkrivenim stalkom za bicikle."
+                "hr": "Odaberite kafić s natkrivenim stalakom za bicikle."
               }
             }
           ],
@@ -1416,10 +1435,10 @@
               "Wipe down your brake pads after the tour to reduce wear."
             ],
             "hr": [
-              "Blatobrani su neophodni za bicikliranje po ovakvom vremenu.",
-              "Izbjegavajte kočenje na mokrim metalnim poklopcima ili oznakama na cesti.",
-              "Nosite vodootporne navlake za cipele kako bi vam stopala ostala suha.",
-              "Obrišite kočione obloge nakon ture kako biste smanjili trošenje."
+              "Blatobrani su nužni za vožnju u ovakvom vremenu.",
+              "Izbjegavajte kočenje na mokrim metalnim poklopcima ili prometnim oznakama.",
+              "Nosite vodonepropusne navlake za cipele da držite noge suhim.",
+              "Obrišite kočione pločice nakon ture kako biste smanjili habanje."
             ]
           }
         },
@@ -1429,7 +1448,7 @@
             "hu": "A téli túra tiszta levegőt és magányos utakat kínál. Délelőtt a várhoz tekerünk a keményre fagyott talajon. Délben egy napsütéses piknik melegít fel, mielőtt élveznénk a kanyon felső ösvényének látványát. A nap kellemes tekeréssel zárul Obrovac sétányán, ahol a téli nap korán eltűnik a hegyek mögött.",
             "ro": "Turul de iarnă oferă aer curat și drumuri pustii. Dimineața pedalăm spre cetate pe solul înghețat. La prânz, un picnic la soare ne încălzește înainte de a ne bucura de vederile de pe poteca de sus a canionului. Ziua se încheie cu o plimbare pe faleza din Obrovac, unde soarele apune devreme.",
             "en": "The winter tour offers crisp air and solitary paths. In the morning, we cycle to the fortress while the ground is frozen hard. At noon, a picnic in the sun warms us up before we enjoy the spectacular views on the upper canyon path. The day ends with a pleasant ride along the Obrovac promenade.",
-            "hr": "Zimska tura nudi svjež zrak i puste staze. Ujutro bicikliramo do utvrde dok je tlo čvrsto smrznuto. U podne nas grije piknik na suncu prije nego što uživamo u spektakularnim vidicima na gornjoj stazi kanjona. Dan završava ugodnom vožnjom duž obrovačke šetnice."
+            "hr": "Zimska tura nudi oštar zrak i osamljene staze. Ujutro vozimo do utvrde dok je tlo smrznuto i tvrdo. U podne nas u suncu ugrije piknik prije nego što uživamo u spektakularnim pogledima na gornjoj stazi kanjona. Dan završava ugodnom vožnjom uz obrovačku šetnicu."
           },
           "stops": [
             {
@@ -1439,7 +1458,7 @@
                 "hu": "A kesztyű kötelező a menetszél miatt télen.",
                 "ro": "Mănușile sunt obligatorii din cauza curentului de aer iarna.",
                 "en": "Gloves are a must-have against the wind chill in winter.",
-                "hr": "Rukavice su obavezne protiv hladnog vjetra zimi."
+                "hr": "Rukavice su obavezne protiv hladnoće vjetra zimi."
               }
             },
             {
@@ -1459,7 +1478,7 @@
                 "hu": "A Bura szél itt extrém módon lehűthet; szélfogó kabát ajánlott!",
                 "ro": "Vântul Bura poate fi extrem de rece aici; purtați jachetă windstopper!",
                 "en": "The Bura wind can be extremely chilling here; wear a windstopper!",
-                "hr": "Bura ovdje može biti izuzetno hladna; nosite windstopper!"
+                "hr": "Bura ovdje može biti izuzetno prohladna; nosite vjetrootpornu jaknu!"
               }
             },
             {
@@ -1469,7 +1488,7 @@
                 "hu": "Keressen napos helyet, hogy ne hűljön ki.",
                 "ro": "Căutați un loc însorit pentru a nu vă răci.",
                 "en": "Find a sunny spot to avoid getting too cold while eating.",
-                "hr": "Pronađite sunčano mjesto kako vam ne bi postalo prehladno dok jedete."
+                "hr": "Pronađite sunčano mjesto da se ne ohladite tijekom jela."
               }
             },
             {
@@ -1479,7 +1498,7 @@
                 "hu": "A sétány az árnyékban nagyon hűvös lehet.",
                 "ro": "Faleza poate fi foarte rece la umbră.",
                 "en": "The promenade can be very chilly in the shade.",
-                "hr": "Šetnica u hladu može biti vrlo hladna."
+                "hr": "Šetnica može biti vrlo prohladna u sjeni."
               }
             },
             {
@@ -1489,7 +1508,7 @@
                 "hu": "Egy forró ital regenerálja a testhőmérsékletét.",
                 "ro": "O băutură fierbinte vă va ajuta să vă încălziți.",
                 "en": "A hot drink will help restore your body temperature.",
-                "hr": "Topli napitak pomoći će vam da povratite tjelesnu temperaturu."
+                "hr": "Topli napitak pomoći će vratiti tjelesnu temperaturu."
               }
             }
           ],
@@ -1519,9 +1538,9 @@
               "Watch out for frozen puddles in curves and corners."
             ],
             "hr": [
-              "Nosite tanku kapu ispod kacige kako biste spriječili gubitak topline.",
-              "Dani su kratki; osigurajte ispravna svjetla na biciklu.",
-              "Izbjegavajte duža stajanja kako se ne biste pothladili.",
+              "Nosite tanku kapu ispod kacige da spriječite gubitak topline.",
+              "Dani su kratki; osigurajte da imate ispravna svjetla na biciklu.",
+              "Izbjegavajte duža stajanja kako se ne biste prehladili.",
               "Pazite na zaleđene lokve u zavojima i kutovima."
             ]
           }
@@ -1541,7 +1560,8 @@
             "de": "Zentraler Platz (Haltestelle)",
             "hu": "Központi tér (megálló)",
             "ro": "Piața Centrală (stație)",
-            "en": "Central Square (Bus Stop)"
+            "en": "Central Square (Bus Stop)",
+            "hr": "Središnji trg (autobusno stajalište)"
           },
           "coords": [
             15.682,
@@ -1557,7 +1577,7 @@
             "hu": "Tájékozódjon a helyi buszjáratokról.",
             "ro": "Informați-vă despre orarul autobuzelor locale.",
             "en": "Check the local bus schedules.",
-            "hr": "Provjerite lokalne vozne redove autobusa."
+            "hr": "Provjerite lokalne autobusne linije i rasporede."
           }
         },
         {
@@ -1565,7 +1585,8 @@
             "de": "Utvrda Kurjakovića",
             "hu": "Utvrda Kurjakovića",
             "ro": "Utvrda Kurjakovića",
-            "en": "Utvrda Kurjakovića"
+            "en": "Utvrda Kurjakovića",
+            "hr": "Utvrda Kurjakovića"
           },
           "coords": [
             15.681,
@@ -1581,7 +1602,7 @@
             "hu": "A tértől rövid gyalogút felfelé.",
             "ro": "O scurtă plimbare la deal de la piață.",
             "en": "A short walk uphill from the square.",
-            "hr": "Kratka šetnja uzbrdo s trga."
+            "hr": "Kratka šetnja uzbrdo od trga."
           }
         },
         {
@@ -1589,7 +1610,8 @@
             "de": "Mittagessen im Zentrum",
             "hu": "Ebéd a központban",
             "ro": "Prânz în centru",
-            "en": "Lunch in the Center"
+            "en": "Lunch in the Center",
+            "hr": "Ručak u centru"
           },
           "coords": [
             15.682,
@@ -1605,7 +1627,7 @@
             "hu": "A házi tésztafélék itt népszerűek.",
             "ro": "Pastele de casă sunt populare aici.",
             "en": "Homemade pasta is popular here.",
-            "hr": "Domaća tjestenina je ovdje popularna."
+            "hr": "Domaće tjestenine su ovdje popularne."
           }
         },
         {
@@ -1613,7 +1635,8 @@
             "de": "Zrmanja Bootsanleger (Wasser-Transit)",
             "hu": "Zrmanja hajóállomás (vízi közlekedés)",
             "ro": "Debarcader Zrmanja (tranzit naval)",
-            "en": "Zrmanja Boat Pier (Water Transit)"
+            "en": "Zrmanja Boat Pier (Water Transit)",
+            "hr": "Zrmanja brodska riva (vodeni promet)"
           },
           "coords": [
             15.683,
@@ -1629,7 +1652,7 @@
             "hu": "Vegyen részt egy hajókiránduláson a kanyonba.",
             "ro": "Participați la o excursie cu barca în canion.",
             "en": "Take a boat tour into the canyon.",
-            "hr": "Krenite na turu brodom u kanjon."
+            "hr": "Uzmite brodsku turu u kanjon."
           }
         },
         {
@@ -1637,7 +1660,8 @@
             "de": "Uferpromenade Ausklang",
             "hu": "Parti sétány zárás",
             "ro": "Final pe faleză",
-            "en": "Waterfront Finale"
+            "en": "Waterfront Finale",
+            "hr": "Završetak uz vodu"
           },
           "coords": [
             15.6825,
@@ -1653,7 +1677,7 @@
             "hu": "Várja a buszt egy fagylalt mellett.",
             "ro": "Așteptați autobuzul cu o înghețată.",
             "en": "Wait for the bus with an ice cream.",
-            "hr": "Čekajte autobus uz sladoled."
+            "hr": "Pričekajte autobus uz sladoled."
           }
         }
       ],
@@ -1662,7 +1686,7 @@
         "hu": "Saját autó nélkül is felfedezhető Obrovac. Használja a buszt a központba jutáshoz, majd gyalog fedezze fel az erődöt. A nap fénypontja a vízi közlekedés: egy hajótúra a mólótól közvetlenül a látványos Zrmanja-kanyonba visz, ahol a víztől csodálhatja meg a meredek sziklafalakat, mielőtt visszatérne a buszmegállóhoz.",
         "ro": "Obrovacul poate fi descoperit și fără mașină proprie. Folosiți autobuzul pentru a ajunge în centru și explorați cetatea pe jos. Punctul culminant este tranzitul naval: o excursie cu barca de la debarcader vă duce direct în spectaculosul canion Zrmanja, unde puteți admira pereții stâncoși de pe apă, înainte de a reveni la stație.",
         "en": "Obrovac can be discovered even without your own car. Use the bus to get to the center and explore the fortress on foot. The highlight is the water transit: a boat tour from the pier takes you directly into the spectacular Zrmanja Canyon, where you can admire the steep cliffs from the water before returning to the bus stop.",
-        "hr": "Obrovac se može otkriti i bez vlastitog automobila. Koristite autobus do centra i istražite utvrdu pješice. Vrhunac je prijevoz vodom: tura brodom s gata vodi vas izravno u spektakularni kanjon Zrmanje, gdje se s vode možete diviti strmim liticama prije povratka na autobusnu stanicu."
+        "hr": "Obrovac se može otkriti i bez vlastitog auta. Iskoristite autobus do centra i istražite utvrdu pješice. Vrhunac je vodeni prijelaz: brodska tura s rive vodi vas izravno u spektakularni Zrmanja kanjon, gdje možete iz vode promatrati strme litice prije povratka na autobusno stajalište."
       },
       "gastro_picks": {
         "de": [
@@ -1783,8 +1807,8 @@
           "The bus stop is small and easy to navigate."
         ],
         "hr": [
-          "U kafiću pitajte za trenutna vremena polaska brodova.",
-          "Autobusna stanica je mala i lako se snalazi."
+          "Raspitajte se u kafiću o aktualnim vremenima polazaka broda.",
+          "Autobusno stajalište je malo i lako za snalaženje."
         ]
       },
       "variants": {
@@ -1794,7 +1818,7 @@
             "hu": "Busszal és hajóval szárazon és nyugodtan fedezzük fel Obrovacot. Délelőtt a központi tér védelmét élvezzük a vár felé indulva. Délben bőséges ebédet fogyasztunk a központban, majd a fedett kikötőben a vízről éljük át a Zrmanját. Egy nap, amely megmutatja, hogy Obrovac esőben is megőrzi báját.",
             "ro": "Explorăm Obrovac cu autobuzul și barca într-un mod relaxat. Dimineața folosim protecția pieței centrale pentru startul spre cetate. La prânz ne bucurăm de o masă bogată în centru, apoi experimentăm Zrmanja de pe apă de la debarcaderul acoperit. O zi care arată farmecul orașului pe ploaie.",
             "en": "By bus and boat, we explore Obrovac in a dry and relaxed way. In the morning, we use the central square's shelter before heading to the fortress. At noon, we enjoy a hearty meal in the center, then experience the Zrmanja from the water at the sheltered pier. A day showing Obrovac's charm in the rain.",
-            "hr": "Autobusom i brodom istražujemo Obrovac na suh i opušten način. Ujutro koristimo zaklon na glavnom trgu prije odlaska do utvrde. U podne uživamo u krepkom obroku u centru, a zatim doživljavamo Zrmanju s vode na natkrivenom pristaništu. Dan koji pokazuje šarm Obrovca na kiši."
+            "hr": "Autobusom i brodom istražujemo Obrovac suho i opušteno. Ujutro koristimo zaklon na središnjem trgu prije polaska prema utvrdi. U podne uživamo u obilnom obroku u centru, potom doživljavamo Zrmanju s vode na natkrivenoj rivi. Dan koji prikazuje Obrovčev šarm po kiši."
           },
           "stops": [
             {
@@ -1804,7 +1828,7 @@
                 "hu": "Használja a várótermet, hogy szárazon várja a buszt.",
                 "ro": "Folosiți stația acoperită pentru a aștepta autobuzul la uscat.",
                 "en": "Use the bus shelter to stay dry while waiting.",
-                "hr": "Koristite nadstrešnicu na stanici kako biste ostali suhi dok čekate."
+                "hr": "Iskoristite autobusni zaklon da ostanete suhi dok čekate."
               }
             },
             {
@@ -1814,7 +1838,7 @@
                 "hu": "A gyalogút a megállótól rövid, de meredek.",
                 "ro": "Drumul pe jos de la stație este scurt, dar abrupt.",
                 "en": "The walk from the stop is short but steep; watch for mud.",
-                "hr": "Šetnja od stanice je kratka, ali strma; pazite na blato."
+                "hr": "Šetnja od stajališta je kratka, ali strma; pazite na blato."
               }
             },
             {
@@ -1824,7 +1848,7 @@
                 "hu": "Ideális hely egy heves zápor kivárására.",
                 "ro": "Un loc ideal pentru a aștepta trecerea unei averse.",
                 "en": "An ideal place to wait out a heavy downpour.",
-                "hr": "Idealno mjesto za čekanje da prođe jaki pljusak."
+                "hr": "Idealno mjesto za pričekati pljusak."
               }
             },
             {
@@ -1844,7 +1868,7 @@
                 "hu": "Az itteni kávézók jó kilátást nyújtanak az esős folyóra.",
                 "ro": "Cafenelele de aici oferă o vedere bună spre râul plin de ploaie.",
                 "en": "The cafes here offer great views of the rainy river.",
-                "hr": "Kafići ovdje nude sjajan pogled na kišovitu rijeku."
+                "hr": "Kafići ovdje nude odličan pogled na kišnu rijeku."
               }
             }
           ],
@@ -1874,10 +1898,10 @@
               "A pocket umbrella is perfect for the short walk to the bus stop."
             ],
             "hr": [
-              "Provjerite vozni red autobusa jer može varirati po kišnom vremenu.",
-              "Pripremite sitan novac za kartu kako biste izbjegli kašnjenja.",
-              "Brodovi možda neće voziti tijekom jakog vjetra ili visokog vodostaja.",
-              "Džepni kišobran je savršen za kratku šetnju do stanice."
+              "Provjerite autobusni raspored jer se može razlikovati po kišnom vremenu.",
+              "Imajte sitan novac za kartu kako biste izbjegli kašnjenja.",
+              "Brodovi možda ne voze tijekom jakih vjetrova ili visokog vodostaja.",
+              "Džepni kišobran je savršen za kratku šetnju do stajališta."
             ]
           }
         },
@@ -1887,7 +1911,7 @@
             "hu": "A téli túra tömegközlekedéssel vezet át a csendes Obrovacon. Délelőtt a központi térről indulunk, miközben a város lassan ébredezik. Egy melengető ebéd után a központban felfedezzük a téli Zrmanját. A túra a kikötőben zárul, ahol a város fényei tükröződnek a hideg vízben, békés hangulatot árasztva.",
             "ro": "Turul de iarnă cu transportul public trece prin liniștitul Obrovac. Dimineața plecăm din piața centrală, în timp ce orașul se trezește lent. După un prânz cald în centru, explorăm Zrmanja iarna. Turul se încheie în port, unde luminile orașului se oglindesc în apa rece.",
             "en": "The winter tour by public transport leads through quiet Obrovac. In the morning, we start at the central square as the town slowly wakes up. After a warming lunch in the center, we explore the winter Zrmanja. The tour ends at the harbor, where city lights reflect in the cold water, creating a peaceful vibe.",
-            "hr": "Zimska tura javnim prijevozom vodi kroz mirni Obrovac. Ujutro krećemo s glavnog trga dok se grad polako budi. Nakon zagrijavanja uz ručak u centru, istražujemo zimsku Zrmanju. Tura završava u luci, gdje se gradska svjetla ogledaju u hladnoj vodi, stvarajući mirnu atmosferu."
+            "hr": "Zimska tura javnim prijevozom vodi kroz mirni Obrovac. Ujutro krećemo sa središnjeg trga dok se grad polako budi. Nakon zagrijavajućeg ručka u centru, istražujemo zimsku Zrmanju. Tura završava u luci, gdje gradska svjetla reflektiraju u hladnoj vodi, stvarajući mirnu atmosferu."
           },
           "stops": [
             {
@@ -1897,7 +1921,7 @@
                 "hu": "Viseljen meleg cipőt a szabadtéri várakozáshoz.",
                 "ro": "Purtați încălțăminte groasă pentru așteptarea în aer liber.",
                 "en": "Wear warm shoes for waiting outside at the stop.",
-                "hr": "Nosite toplu obuću za čekanje vani na stanici."
+                "hr": "Nosite tople cipele za čekanje vani na stajalištu."
               }
             },
             {
@@ -1907,7 +1931,7 @@
                 "hu": "Élvezze a kilátást a hóval borított Velebit-csúcsokra.",
                 "ro": "Bucurați-vă de vederea spre vârfurile înzăpezite ale Velebitului.",
                 "en": "Enjoy the view of the snow-capped Velebit peaks from here.",
-                "hr": "Uživajte u pogledu na snijegom prekrivene vrhove Velebita odavde."
+                "hr": "Uživajte u pogledu na snijegom pokrivene vrhove Velebita odavde."
               }
             },
             {
@@ -1917,7 +1941,7 @@
                 "hu": "Válasszon fűtött vendégterű helyet.",
                 "ro": "Alegeți un local cu încălzire în interior.",
                 "en": "Choose a restaurant with a well-heated dining area.",
-                "hr": "Odaberite restoran s dobro zagrijanim prostorom za jelo."
+                "hr": "Odaberite restoran s dobro zagrijanim blagovaonicama."
               }
             },
             {
@@ -1927,7 +1951,7 @@
                 "hu": "Ellenőrizze a hajók téli menetrendjét.",
                 "ro": "Verificați orarul de iarnă al ambarcațiunilor.",
                 "en": "Check the restricted winter operating hours for boats.",
-                "hr": "Provjerite ograničeno zimsko radno vrijeme brodova."
+                "hr": "Provjerite ograničena zimska radna vremena za brodove."
               }
             },
             {
@@ -1937,7 +1961,7 @@
                 "hu": "Az utolsó busz télen gyakran korábban indul.",
                 "ro": "Ultimul autobuz pleacă adesea mai devreme iarna.",
                 "en": "The last bus often departs earlier during the winter season.",
-                "hr": "Zadnji autobus zimi često polazi ranije."
+                "hr": "Zadnji autobus često polazi ranije tijekom zimske sezone."
               }
             }
           ],
@@ -1967,10 +1991,10 @@
               "Wear clothing that protects against wind while waiting at stops."
             ],
             "hr": [
-              "Autobusi su zimi pouzdano grijani.",
-              "Raspitajte se o 'zimskoj ruti' ili rasporedu izletničkih brodova.",
+              "Autobusi su tijekom zimskih mjeseci pouzdano grijani.",
+              "Raspitajte se o 'zimskom putu' ili rasporedu izletničkih brodova.",
               "Sumrak počinje rano; luka je tada posebno fotogenična.",
-              "Nosite odjeću koja štiti od vjetra dok čekate na stanicama."
+              "Nosite odjeću koja štiti od vjetra dok čekate na stajalištima."
             ]
           }
         }

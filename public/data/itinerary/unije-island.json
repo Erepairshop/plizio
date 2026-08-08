@@ -21,7 +21,8 @@
             "de": "Der alte Ortskern",
             "hu": "A régi faluközpont",
             "ro": "Centrul vechi al satului",
-            "en": "The old village center"
+            "en": "The old village center",
+            "hr": "Stari centar sela"
           },
           "coords": [
             14.246,
@@ -45,7 +46,8 @@
             "de": "Pfarrkirche St. Andreas",
             "hu": "Szent András plébániatemplom",
             "ro": "Biserica Sfântul Andrei",
-            "en": "St. Andrew Parish Church"
+            "en": "St. Andrew Parish Church",
+            "hr": "Župa sv. Andrije"
           },
           "coords": [
             14.247,
@@ -69,7 +71,8 @@
             "de": "Malo Polje",
             "hu": "Malo Polje",
             "ro": "Malo Polje",
-            "en": "Malo Polje"
+            "en": "Malo Polje",
+            "hr": "Malo Polje"
           },
           "coords": [
             14.25,
@@ -85,7 +88,7 @@
             "hu": "A sziget termékeny síksága.",
             "ro": "Câmpul fertil al insulei.",
             "en": "The fertile field of the island.",
-            "hr": "Plodno polje na otoku."
+            "hr": "Plodno polje otoka."
           }
         },
         {
@@ -93,7 +96,8 @@
             "de": "Bucht Marčana",
             "hu": "Marčana-öböl",
             "ro": "Golful Marčana",
-            "en": "Marčana Bay"
+            "en": "Marčana Bay",
+            "hr": "Uvala Marčana"
           },
           "coords": [
             14.255,
@@ -109,7 +113,7 @@
             "hu": "Kristálytiszta víz búvárkodáshoz.",
             "ro": "Apă cristalină pentru snorkeling.",
             "en": "Crystal clear water for snorkeling.",
-            "hr": "Kristalno čista voda za ronjenje."
+            "hr": "Kristalno čista voda za snorklanje."
           }
         },
         {
@@ -117,7 +121,8 @@
             "de": "Vele Stijene",
             "hu": "Vele Stijene",
             "ro": "Vele Stijene",
-            "en": "Vele Stijene"
+            "en": "Vele Stijene",
+            "hr": "Vele Stijene"
           },
           "coords": [
             14.23,
@@ -133,7 +138,7 @@
             "hu": "Impozáns sziklák az északi részen.",
             "ro": "Stânci impunătoare în nord.",
             "en": "Impressive cliffs in the north.",
-            "hr": "Impresivne hridi na sjeveru."
+            "hr": "Impresivne litice na sjeveru."
           }
         },
         {
@@ -141,7 +146,8 @@
             "de": "Leuchtturm Vnetak",
             "hu": "Vnetak világítótorony",
             "ro": "Farul Vnetak",
-            "en": "Vnetak Lighthouse"
+            "en": "Vnetak Lighthouse",
+            "hr": "Svjetionik Vnetak"
           },
           "coords": [
             14.23,
@@ -157,7 +163,7 @@
             "hu": "A sziget déli csücske.",
             "ro": "Vârful sudic al insulei.",
             "en": "Southern tip of the island.",
-            "hr": "Južni vrh otoka."
+            "hr": "Južni rt otoka."
           }
         },
         {
@@ -165,7 +171,8 @@
             "de": "Bucht Podkujni",
             "hu": "Podkujni-öböl",
             "ro": "Golful Podkujni",
-            "en": "Podkujni Bay"
+            "en": "Podkujni Bay",
+            "hr": "Uvala Podkujni"
           },
           "coords": [
             14.258,
@@ -190,7 +197,7 @@
         "hu": "Unije a nyugalom szigete autók nélkül. A séta a bájos faluközpontban kezdődik és a Szent András-templomhoz vezet. Szelje át a zöldellő Malo Poljét, és élvezze a Marčana-öböl magányát. Az északi drámai Vele Stijene sziklák és a déli magányos Vnetak világítótorony megmutatják a sziget érintetlen természetét, mielőtt a napot pihentetően zárná a Podkujni-öbölben.",
         "ro": "Unije este o oază de liniște fără mașini. Plimbarea dvs. începe în centrul fermecător al satului și duce la Biserica Sf. Andrei. Traversați zona verde Malo Polje și bucurați-vă de singurătatea golfului Marčana. Stâncile dramatice Vele Stijene din nord și farul solitar Vnetak din sud arată natura neatinsă a insulei, înainte de a încheia ziua relaxat în golful Podkujni.",
         "en": "Unije is an oasis of peace without cars. Your walk begins in the charming village center and leads to St. Andrew Church. Cross the green Malo Polje and enjoy the solitude of Marčana Bay. The dramatic Vele Stijene cliffs in the north and the lonely Vnetak lighthouse in the south show the island's untouched nature, before ending the day relaxed in Podkujni Bay.",
-        "hr": "Unije je oaza mira bez automobila. Vaša šetnja započinje u šarmantnom središtu sela i vodi do crkve sv. Andrije. Preko zelenog Malog polja uživajte u samoći uvale Marčana. Dramatične hridi Vele stijene na sjeveru i usamljeni svjetionik Vnetak na jugu pokazuju netaknutu prirodu otoka, prije nego što dan završite opušteno u uvali Podkujni."
+        "hr": "Unije je oaza mira bez automobila. Vaša šetnja počinje u šarmantnom centru sela i vodi do crkve sv. Andrije. Prijelazite zeleno Malo Polje i uživate u samoći uvale Marčana. Dramatične litice Vele Stijene na sjeveru i usamljeni svjetionik Vnetak na jugu pokazuju netaknutu prirodu otoka, prije nego dan završite opušteno u uvali Podkujni."
       },
       "gastro_picks": {
         "de": [
@@ -366,8 +373,8 @@
         "hr": [
           "Nema automobila, uživajte u tišini.",
           "Staze mogu biti kamenite, čvrsta obuća pomaže.",
-          "Napunite boce vodom na javnom izvoru.",
-          "Selo je malo, gotovo svatko poznaje svakoga."
+          "Napunite boce s vodom na javnom izvoru.",
+          "Selo je malo, gotovo svi poznaju sve."
         ]
       },
       "variants": {
@@ -376,7 +383,8 @@
             "de": "Unije ist eine Oase der Ruhe ohne Autos. Ihr Spaziergang beginnt im charmanten Dorfzentrum und führt zur St. Andreas Kirche. Durchqueren Sie das grüne Malo Polje und genießen Sie die Einsamkeit der Marčana Bucht. Die dramatischen Vele Stijene Klippen im Norden und der einsame Leuchtturm Vnetak im Süden zeigen die unberührte Natur der Insel, bevor Sie den Tag entspannt in der Podkujni Bucht ausklingen lassen.",
             "hu": "Unije a nyugalom szigete autók nélkül. A séta a bájos faluközpontban kezdődik és a Szent András-templomhoz vezet. Szelje át a zöldellő Malo Poljét, és élvezze a Marčana-öböl magányát. Az északi drámai Vele Stijene sziklák és a déli magányos Vnetak világítótorony megmutatják a sziget érintetlen természetét, mielőtt a napot pihentetően zárná a Podkujni-öbölben.",
             "ro": "Unije este o oază de liniște fără mașini. Plimbarea dvs. începe în centrul fermecător al satului și duce la Biserica Sf. Andrei. Traversați zona verde Malo Polje și bucurați-vă de singurătatea golfului Marčana. Stâncile dramatice Vele Stijene din nord și farul solitar Vnetak din sud arată natura neatinsă a insulei, înainte de a încheia ziua relaxat în golful Podkujni.",
-            "en": "Unije is an oasis of peace without cars. Your walk begins in the charming village center and leads to St. Andrew Church. Cross the green Malo Polje and enjoy the solitude of Marčana Bay. The dramatic Vele Stijene cliffs in the north and the lonely Vnetak lighthouse in the south show the island's untouched nature, before ending the day relaxed in Podkujni Bay."
+            "en": "Unije is an oasis of peace without cars. Your walk begins in the charming village center and leads to St. Andrew Church. Cross the green Malo Polje and enjoy the solitude of Marčana Bay. The dramatic Vele Stijene cliffs in the north and the lonely Vnetak lighthouse in the south show the island's untouched nature, before ending the day relaxed in Podkujni Bay.",
+            "hr": "Unije je oaza mira bez automobila. Vaša šetnja počinje u šarmantnom centru sela i vodi do crkve sv. Andrije. Prijelazite zeleno Malo Polje i uživate u samoći uvale Marčana. Dramatične litice Vele Stijene na sjeveru i usamljeni svjetionik Vnetak na jugu pokazuju netaknutu prirodu otoka, prije nego dan završite opušteno u uvali Podkujni."
           },
           "stops": [
             {
@@ -384,13 +392,15 @@
                 "de": "Der alte Ortskern",
                 "hu": "A régi faluközpont",
                 "ro": "Centrul vechi al satului",
-                "en": "The old village center"
+                "en": "The old village center",
+                "hr": "Stari centar sela"
               },
               "tip_5lang": {
                 "de": "Die einzige Siedlung auf der Insel.",
                 "hu": "A sziget egyetlen települése.",
                 "ro": "Singura așezare de pe insulă.",
-                "en": "The only settlement on the island."
+                "en": "The only settlement on the island.",
+                "hr": "Jedino naselje na otoku."
               }
             },
             {
@@ -398,13 +408,15 @@
                 "de": "Pfarrkirche St. Andreas",
                 "hu": "Szent András plébániatemplom",
                 "ro": "Biserica Sfântul Andrei",
-                "en": "St. Andrew Parish Church"
+                "en": "St. Andrew Parish Church",
+                "hr": "Župa sv. Andrije"
               },
               "tip_5lang": {
                 "de": "Ein schlichter, aber schöner Sakralbau.",
                 "hu": "Egyszerű, de szép szakrális épület.",
                 "ro": "O construcție sacră simplă, dar frumoasă.",
-                "en": "A simple but beautiful sacred building."
+                "en": "A simple but beautiful sacred building.",
+                "hr": "Jednostavna, ali lijepa sakralna građevina."
               }
             },
             {
@@ -412,13 +424,15 @@
                 "de": "Malo Polje",
                 "hu": "Malo Polje",
                 "ro": "Malo Polje",
-                "en": "Malo Polje"
+                "en": "Malo Polje",
+                "hr": "Malo Polje"
               },
               "tip_5lang": {
                 "de": "Das fruchtbare Feld der Insel.",
                 "hu": "A sziget termékeny síksága.",
                 "ro": "Câmpul fertil al insulei.",
-                "en": "The fertile field of the island."
+                "en": "The fertile field of the island.",
+                "hr": "Plodno polje otoka."
               }
             },
             {
@@ -426,13 +440,15 @@
                 "de": "Bucht Marčana",
                 "hu": "Marčana-öböl",
                 "ro": "Golful Marčana",
-                "en": "Marčana Bay"
+                "en": "Marčana Bay",
+                "hr": "Uvala Marčana"
               },
               "tip_5lang": {
                 "de": "Kristallklares Wasser zum Schnorcheln.",
                 "hu": "Kristálytiszta víz búvárkodáshoz.",
                 "ro": "Apă cristalină pentru snorkeling.",
-                "en": "Crystal clear water for snorkeling."
+                "en": "Crystal clear water for snorkeling.",
+                "hr": "Kristalno čista voda za snorklanje."
               }
             },
             {
@@ -440,13 +456,15 @@
                 "de": "Vele Stijene",
                 "hu": "Vele Stijene",
                 "ro": "Vele Stijene",
-                "en": "Vele Stijene"
+                "en": "Vele Stijene",
+                "hr": "Vele Stijene"
               },
               "tip_5lang": {
                 "de": "Imposante Klippen im Norden.",
                 "hu": "Impozáns sziklák az északi részen.",
                 "ro": "Stânci impunătoare în nord.",
-                "en": "Impressive cliffs in the north."
+                "en": "Impressive cliffs in the north.",
+                "hr": "Impresivne litice na sjeveru."
               }
             },
             {
@@ -454,13 +472,15 @@
                 "de": "Leuchtturm Vnetak",
                 "hu": "Vnetak világítótorony",
                 "ro": "Farul Vnetak",
-                "en": "Vnetak Lighthouse"
+                "en": "Vnetak Lighthouse",
+                "hr": "Svjetionik Vnetak"
               },
               "tip_5lang": {
                 "de": "Südspitze der Insel.",
                 "hu": "A sziget déli csücske.",
                 "ro": "Vârful sudic al insulei.",
-                "en": "Southern tip of the island."
+                "en": "Southern tip of the island.",
+                "hr": "Južni rt otoka."
               }
             },
             {
@@ -468,13 +488,15 @@
                 "de": "Bucht Podkujni",
                 "hu": "Podkujni-öböl",
                 "ro": "Golful Podkujni",
-                "en": "Podkujni Bay"
+                "en": "Podkujni Bay",
+                "hr": "Uvala Podkujni"
               },
               "tip_5lang": {
                 "de": "Ein ruhiger Ort für den späten Nachmittag.",
                 "hu": "Csendes hely a késő délutánhoz.",
                 "ro": "Un loc liniștit pentru după-amiaza târzie.",
-                "en": "A quiet spot for late afternoon."
+                "en": "A quiet spot for late afternoon.",
+                "hr": "Mirno mjesto za kasno poslijepodne."
               }
             }
           ],
@@ -620,6 +642,12 @@
               "The paths can be stony, sturdy footwear helps.",
               "Fill up water bottles at the public source.",
               "The village is small, almost everyone knows everyone."
+            ],
+            "hr": [
+              "Nema automobila, uživajte u tišini.",
+              "Staze mogu biti kamenite, čvrsta obuća pomaže.",
+              "Napunite boce vodom na javnom izvoru.",
+              "Selo je malo, gotovo svi ljude poznaju."
             ]
           }
         },
@@ -629,7 +657,7 @@
             "hu": "A reggel Unije falu szűk, esőáztatta utcáin indul, ahol a kőházak védelmet nyújtanak a szemerkélő eső elől. A déli órákban a párás levegőben illatozó Malo Polje mezői felé vesszük az irányt, ahol a köd különleges hangulatot áraszt. Délután a Marčana-öböl szikláihoz érünk, ahol a viharos tenger látványa lenyűgöző a szürke égbolt alatt. Az estét a kikötő közelében, fedett helyen zárjuk, figyelve a távoli Vnetak világítótorony pislákoló fényét a ködben.",
             "ro": "Dimineața începe la adăpostul străduțelor înguste din satul Unije, unde ploaia măruntă spală pietrele vechi. La prânz, parcurgem potecile parfumate spre Malo Polje, sub un cer plumburiu care oferă peisajului o notă melancolică. După-amiaza ajungem la stâncile din Golful Marčana, unde valurile se sparg cu putere de țărm sub rafalele de vânt. Seara ne retragem spre port, urmărind lumina farului Vnetak care străpunge ceațal deasupra Adriaticii.",
             "en": "The morning starts in the shelter of Unije's narrow streets, where rain patters on the ancient stone roofs. By noon, we trek through the misty, fragrant macchia towards Malo Polje, as low clouds hang over the fields. In the afternoon, the walk leads to the rugged cliffs of Marčana Bay, where the sea crashes dramatically against the rocks. We end the evening near the harbor, watching the Vnetak Lighthouse beams cut through the rainy haze.",
-            "hr": "Jutro počinje u zaklonu uskih ulica Unija, dok kiša dobuje po drevnim kamenim krovovima. Do podneva pješačimo kroz maglovitu, mirisnu makiju prema Malom polju, dok se niski oblaci nadvijaju nad poljima. Poslijepodne šetnja vodi do krševitih hridi uvale Marčana, gdje more dramatično udara o stijene. Večer završavamo u blizini luke, gledajući zrake svjetionika Vnetak kako prodiru kroz kišnu izmaglicu."
+            "hr": "Jutro počinje u zaklonu uskih ulica Unija, gdje kiša lupa po drevnim kamenim krovovima. Do podneva krećemo kroz maglovitu, mirisnu makiju prema Malom Polju, dok niske oblake vise nad poljima. Poslijepodne staza vodi do surovih litica uvala Marčana, gdje se more dramatično razbija o stijene. Večer završavamo kraj luke, promatrajući kako zrake svjetionika Vnetak probijaju kišnu izmaglicu."
           },
           "stops": [
             {
@@ -639,7 +667,7 @@
                 "hu": "Viseljen csúszásmentes talpú cipőt, mert a nedves macskakő rendkívül csúszós lehet.",
                 "ro": "Purtați încălțăminte antiderapantă, deoarece pavajul devine foarte alunecos când este ud.",
                 "en": "Wear non-slip shoes as the cobblestones become very slippery when wet.",
-                "hr": "Nosite obuću koja se ne kliže jer kaldrma postaje vrlo skliska kad je mokra."
+                "hr": "Nosite neklizajuću obuću jer kaldrma postaje vrlo skliska kad je mokra."
               }
             },
             {
@@ -649,7 +677,7 @@
                 "hu": "Tökéletes hely egy rövid pihenőre az eső elől, élvezve a belső tér nyugalmát.",
                 "ro": "Un loc ideal pentru a vă adăposti de ploaie și a vă bucura de liniștea interiorului.",
                 "en": "A perfect spot to take a break from the rain and enjoy the quiet interior.",
-                "hr": "Savršeno mjesto za predah od kiše i uživanje u mirnoj unutrašnjosti."
+                "hr": "Savršeno mjesto za predah od kiše i uživanje u tihom unutrašnjosti."
               }
             },
             {
@@ -659,7 +687,7 @@
                 "hu": "A vízálló ruházat itt alapvető, mivel a mezőn nincs menedék az eső elől.",
                 "ro": "Îmbrăcămintea impermeabilă este esențială aici, deoarece nu există adăposturi pe câmp.",
                 "en": "Waterproof gear is essential here as there is little shelter in the open fields.",
-                "hr": "Vodootporna oprema je ovdje neophodna jer na otvorenim poljima ima malo zaklona."
+                "hr": "Vodonepropusna oprema je ovdje neophodna jer ima malo zaklona na otvorenim poljima."
               }
             },
             {
@@ -679,7 +707,7 @@
                 "hu": "Tartson biztonságos távolságot a sziklaperemtől a csúszásveszély miatt.",
                 "ro": "Păstrați o distanță de siguranță față de margini; terenul poate fi instabil.",
                 "en": "Keep a safe distance from the cliff edges as the ground can be unstable.",
-                "hr": "Držite se na sigurnoj udaljenosti od rubova hridi jer tlo može biti nestabilno."
+                "hr": "Držite sigurnu udaljenost od ruba litica jer tlo može biti nestabilno."
               }
             },
             {
@@ -689,7 +717,7 @@
                 "hu": "A világítótoronyhoz vezető út köves és esőben komoly kihívást jelenthet.",
                 "ro": "Drumul spre far este pietros și reprezintă o provocare pe timp de ploaie.",
                 "en": "The path to the lighthouse is rocky and challenging in the rain.",
-                "hr": "Staza do svjetionika je kamenita i zahtjevna po kiši."
+                "hr": "Put do svjetionika je kamенit i težak po kiši."
               }
             },
             {
@@ -733,11 +761,11 @@
               "Watch out for puddles, which can be surprisingly deep on unpaved trails."
             ],
             "hr": [
-              "Vodootporne pješačke cipele su neophodne na vapnenačkim stazama otoka.",
-              "Kameni zidovi pružaju ograničen zaklon od bočne kiše.",
-              "Nekoliko kafića u selu brzo se popuni kad počne kiša.",
-              "Svu elektroniku stavite u vodootporne torbe prije polaska.",
-              "Pazite na lokve koje na neasfaltiranim stazama mogu biti iznenađujuće duboke."
+              "Vodootporne planinarske čizme su nezamjenjive na otočnim krškim stazama.",
+              "Kameni zidovi daju ograničen zaklon od prostrte bočne kiše.",
+              "Nekoliko kafića u selu brzo se napuni kad počne kiša.",
+              "Svu elektroniku spakirajte u vodonepropusne suhe vreće prije polaska.",
+              "Pazite na bare koje mogu biti iznenađujuće duboke na neasfaltiranim stazama."
             ]
           }
         },
@@ -747,7 +775,7 @@
             "hu": "A téli reggel Unijén tiszta és csípős, gyakran a hideg bóra szele járja át az utcákat. A falu központja ilyenkor szinte teljesen kihalt, csak a kémények füstje jelzi az életet. Délben a Malo Polje kopár, mégis gyönyörű táján vándorolunk a téli nap gyenge fényében. Kora délután érjük el a part menti sziklákat, sietve, mert a nap már fél öt körül nyugodni kezd. Az estét a kikötőbe visszatérve, a sziget mély téli csendjében zárjuk.",
             "ro": "Dimineața de iarnă pe Unije este senină și adesea marcată de briza rece a Burei. Explorăm centrul aproape pustiu al satului, unde fumul se ridică leneș din coșurile caselor. La prânz, traversăm peisajul arid din Malo Polje, care strălucește în nuanțe calde sub soarele palid. După-amiaza devreme ajungem la golfurile stâncoase, profitând de lumină înainte ca soarele să apună la 16:30. Seara se așterne rapid, lăsând insula într-o liniște deplină și odihnitoare.",
             "en": "Winter mornings on Unije are crisp and often shaped by the cold Bura wind. We explore the nearly empty village center, where smoke curls from the chimneys of stone houses. By noon, we trek across Malo Polje, a landscape glowing in soft winter tones under a pale sun. In the early afternoon, we visit the rugged bays, mindful that sunset arrives by 16:30. We conclude the day in the profound silence of the winter harbor as darkness falls.",
-            "hr": "Zimska jutra na Unijama su svježa i često oblikovana hladnom burom. Istražujemo gotovo prazno središte sela, gdje se dim vije iz dimnjaka kamenih kuća. Do podneva pješačimo preko Malog polja, krajolika koji pod blijedim suncem sjaji u mekim zimskim tonovima. Rano poslijepodne posjećujemo krševite uvale, imajući na umu da zalazak sunca nastupa već u 16:30. Dan završavamo u dubokoj tišini zimske luke dok pada mrak."
+            "hr": "Zimska jutra na Unijama su svježa i često ih oblikuje hladni vjetar Bura. Istražujemo gotovo praznu jezgru sela, gdje dim vijuga iz dimnjaka kamenih kuća. Do podneva prelazimo preko Malog Polja, krajolika koji zrači mekim zimskim tonovima pod bledim suncem. U ranom poslijepodnevu posjećujemo surove uvale, imajući na umu da zalazak sunca stiže oko 16:30. Dan zaključujemo u dubokoj tišini zimske luke kako se spušta tama."
           },
           "stops": [
             {
@@ -757,7 +785,7 @@
                 "hu": "Öltözzön rétegesen; a bóra szél nagyon hideg lehet a sikátorokban.",
                 "ro": "Îmbrăcați-vă gros; vântul Bura poate fi foarte tăios printre străduțe.",
                 "en": "Dress warmly; the Bura wind can feel very cold in the narrow alleys.",
-                "hr": "Obucite se toplo; bura u uskim uličicama može biti vrlo hladna."
+                "hr": "Obucite se toplo; bura u uskim sokacima može biti vrlo hladna."
               }
             },
             {
@@ -767,7 +795,7 @@
                 "hu": "A templom belsejében gyakran érezhetően melegebb van, mint kint a szélben.",
                 "ro": "În interior este adesea mai cald decât afară, la adăpost de vânt.",
                 "en": "The interior is often noticeably warmer than the wind-swept exterior.",
-                "hr": "Unutrašnjost je često primjetno toplija od vjetrovite vanjske strane."
+                "hr": "Unutrašnjost je često primjetno toplija od vjetrom izloženog vanjskog prostora."
               }
             },
             {
@@ -777,7 +805,7 @@
                 "hu": "A nyílt mezőn nincs szélfogó; szélálló ruházat használata javasolt.",
                 "ro": "Câmpia deschisă nu oferă protecție contra vântului; purtați haine windstopper.",
                 "en": "The open plain offers no windbreak; windstopper clothing is necessary.",
-                "hr": "Otvorena ravnica ne nudi zaštitu od vjetra; potrebna je odjeća otporna na vjetar."
+                "hr": "Otvoreno polje ne nudi zaklon od vjetra; potreban je vjetrodojamni sloj odjeće."
               }
             },
             {
@@ -787,7 +815,7 @@
                 "hu": "A délutáni fények télen különösen alkalmasak drámai fotók készítésére.",
                 "ro": "Lumina de după-amiază este ideală iarna pentru fotografii dramatice.",
                 "en": "The afternoon light in winter is perfect for capturing dramatic photos.",
-                "hr": "Popodnevno svjetlo zimi savršeno je za snimanje dramatičnih fotografija."
+                "hr": "Poslijepodnevno zimsko svjetlo idealno je za snimanje dramatičnih fotografija."
               }
             },
             {
@@ -797,7 +825,7 @@
                 "hu": "Vigyázzon az erős széllökésekkel a sziklák szélén.",
                 "ro": "Atenție la rafalele puternice de vânt pe marginea stâncilor.",
                 "en": "Be extremely careful of strong wind gusts near the cliff edges.",
-                "hr": "Budite izuzetno oprezni zbog jakih naleta vjetra u blizini rubova hridi."
+                "hr": "Budite iznimno oprezni zbog jakih naleta vjetra blizu ruba litica."
               }
             },
             {
@@ -807,7 +835,7 @@
                 "hu": "Tervezze meg a visszautat a korai, 16:30-as naplemente előtt.",
                 "ro": "Planificați întoarcerea înainte de apusul devreme de la ora 16:30.",
                 "en": "Plan your return trip before the early sunset at around 16:30.",
-                "hr": "Planirajte povratak prije ranog zalaska sunca oko 16:30."
+                "hr": "Isplanirajte povratak prije ranog zalaska sunca oko 16:30."
               }
             },
             {
@@ -817,7 +845,7 @@
                 "hu": "Csendes hely egy termosz tea elfogyasztásához a tengert bámulva.",
                 "ro": "Un loc liniștit pentru a bea un ceai din termos în timp ce admirați marea.",
                 "en": "A peaceful spot to enjoy a thermos of hot tea while watching the waves.",
-                "hr": "Mirno mjesto za uživanje u toplom čaju iz termosice dok promatrate valove."
+                "hr": "Mirno mjesto za uživanje u termosici vrućeg čaja dok promatrate valove."
               }
             }
           ],
@@ -851,11 +879,11 @@
               "Be careful of slippery sections on paths caused by frozen morning dew."
             ],
             "hr": [
-              "Ponesite termosicu s toplim napitkom jer je većina objekata zimi zatvorena.",
-              "Zalazak sunca je vrlo rano; ponesite čeonu svjetiljku ili bateriju za povratak.",
-              "Svakodnevno provjeravajte raspored trajekata i katamarana jer bura može uzrokovati otkazivanja.",
-              "Rukavice i topla kapa su neophodni zbog oštrih zimskih vjetrova.",
-              "Pazite na skliske dijelove staza uzrokovane smrznutom jutarnjom rosom."
+              "Ponesite termosicu s toplim napitkom jer je većina objekata zatvorena zimi.",
+              "Zalazak sunca je vrlo rano; ponesite baterijsku lampu ili ručnu svjetiljku za povratak.",
+              "Provjeravajte dnevno raspored trajekata i katamarana jer bura može uzrokovati otkazivanja.",
+              "Rukavice i topla kapa su nužni zbog prodirućih zimskih vjetrova.",
+              "Pazite na skliske dionice staza uzrokovane zaleđenom jutarnjom rosom."
             ]
           }
         }
@@ -874,7 +902,8 @@
             "de": "Der alte Ortskern",
             "hu": "A régi faluközpont",
             "ro": "Centrul vechi",
-            "en": "Old Village Center"
+            "en": "Old Village Center",
+            "hr": "Stari dio sela"
           },
           "coords": [
             14.246,
@@ -898,7 +927,8 @@
             "de": "Flugplatz Unije",
             "hu": "Unijei repülőtér",
             "ro": "Aerodromul Unije",
-            "en": "Unije Airfield"
+            "en": "Unije Airfield",
+            "hr": "Zračna luka Unije"
           },
           "coords": [
             14.255,
@@ -914,7 +944,7 @@
             "hu": "Kis füves pálya sportrepülőknek.",
             "ro": "Mică pistă de iarbă pentru avioane sportive.",
             "en": "Small grass strip for sports planes.",
-            "hr": "Mala travnata pista za sportske zrakoplove."
+            "hr": "Mala travnata pista za sportske avione."
           }
         },
         {
@@ -922,7 +952,8 @@
             "de": "Malo Polje",
             "hu": "Malo Polje",
             "ro": "Malo Polje",
-            "en": "Malo Polje"
+            "en": "Malo Polje",
+            "hr": "Malo Polje"
           },
           "coords": [
             14.25,
@@ -946,7 +977,8 @@
             "de": "Vele Stijene",
             "hu": "Vele Stijene",
             "ro": "Vele Stijene",
-            "en": "Vele Stijene"
+            "en": "Vele Stijene",
+            "hr": "Vele Stijene"
           },
           "coords": [
             14.23,
@@ -970,7 +1002,8 @@
             "de": "Bucht Marčana",
             "hu": "Marčana-öböl",
             "ro": "Golful Marčana",
-            "en": "Marčana Bay"
+            "en": "Marčana Bay",
+            "hr": "Uvala Marčana"
           },
           "coords": [
             14.255,
@@ -994,7 +1027,8 @@
             "de": "Leuchtturm Vnetak",
             "hu": "Vnetak világítótorony",
             "ro": "Farul Vnetak",
-            "en": "Vnetak Lighthouse"
+            "en": "Vnetak Lighthouse",
+            "hr": "Svjetionik Vnetak"
           },
           "coords": [
             14.23,
@@ -1010,7 +1044,7 @@
             "hu": "Magányos őrhely délnyugaton.",
             "ro": "Post solitar în sud-vest.",
             "en": "Lonely post in the southwest.",
-            "hr": "Usamljena postaja na jugozapadu."
+            "hr": "Usamljeni položaj na jugozapadu."
           }
         },
         {
@@ -1018,7 +1052,8 @@
             "de": "Bucht Podkujni",
             "hu": "Podkujni-öböl",
             "ro": "Golful Podkujni",
-            "en": "Podkujni Bay"
+            "en": "Podkujni Bay",
+            "hr": "Uvala Podkujni"
           },
           "coords": [
             14.258,
@@ -1043,7 +1078,7 @@
         "hu": "Fedezze fel Unijét kerékpárral a sziget sík útjain. A településtől az út a kis repülőtér mellett vezet a termékeny Malo Poljébe. A túra elviszi a Vele Stijene drámai szikláihoz, majd pihenést kínál a Marčana-öbölben. Mielőtt visszatérne a faluba, látogasson el a Vnetak világítótoronyhoz és a rejtett Podkujni-öbölhöz, miközben élvezi a tengeri szellőt.",
         "ro": "Descoperiți Unije cu bicicleta pe drumurile plate ale insulei. Din așezare, drumul trece pe lângă micul aerodrom către zona fertilă Malo Polje. Turul vă duce la stâncile dramatice Vele Stijene și oferă apoi relaxare în golful Marčana. Înainte de a vă întoarce în sat, vizitați farul Vnetak și golful ascuns Podkujni, în timp ce vă bucurați de briza mării.",
         "en": "Discover Unije by bike on the island's flat paths. From the settlement, the path leads past the small airfield into the fertile Malo Polje. The tour takes you to the dramatic cliffs of Vele Stijene and then offers relaxation in Marčana Bay. Before returning to the village, visit the Vnetak lighthouse and the hidden Podkujni Bay while enjoying the sea breeze.",
-        "hr": "Otkrijte Unije biciklom na ravnim stazama otoka. Iz naselja staza vodi pored malog aerodroma u plodno Malo polje. Tura vas vodi do dramatičnih hridi Vele stijene, a zatim nudi opuštanje u uvali Marčana. Prije povratka u selo, posjetite svjetionik Vnetak i skrivenu uvalu Podkujni dok uživate u morskom povjetarcu."
+        "hr": "Otkrijte Unije biciklom po ravnim otočnim stazama. Iz naselja staza vodi pored male zračne piste u plodno Malo Polje. Tura vas vodi do dramatičnih litica Vele Stijene, a potom nudi opuštanje u uvali Marčana. Prije povratka u selo posjetite svjetionik Vnetak i skrivenu uvalu Podkujni uživajući u morskom povjetarcu."
       },
       "gastro_picks": {
         "de": [
@@ -1173,7 +1208,7 @@
         ],
         "hr": [
           "Najam bicikala dostupan je u selu.",
-          "Pripazite na ovce koje često prelaze staze.",
+          "Pazite na ovce koje često prelaze staze.",
           "Sjeverni dio otoka je nešto brdovitiji.",
           "Provjerite tlak u gumama prije polaska."
         ]
@@ -1184,7 +1219,8 @@
             "de": "Entdecken Sie Unije mit dem Fahrrad auf den flachen Wegen der Insel. Von der Siedlung führt der Weg am kleinen Flugplatz vorbei ins fruchtbare Malo Polje. Die Tour führt Sie zu den dramatischen Klippen von Vele Stijene und bietet danach Entspannung in der Marčana Bucht. Bevor Sie zum Dorf zurückkehren, besuchen Sie den Leuchtturm Vnetak und die versteckte Bucht Podkujni, während Sie die Meeresbrise genießen.",
             "hu": "Fedezze fel Unijét kerékpárral a sziget sík útjain. A településtől az út a kis repülőtér mellett vezet a termékeny Malo Poljébe. A túra elviszi a Vele Stijene drámai szikláihoz, majd pihenést kínál a Marčana-öbölben. Mielőtt visszatérne a faluba, látogasson el a Vnetak világítótoronyhoz és a rejtett Podkujni-öbölhöz, miközben élvezi a tengeri szellőt.",
             "ro": "Descoperiți Unije cu bicicleta pe drumurile plate ale insulei. Din așezare, drumul trece pe lângă micul aerodrom către zona fertilă Malo Polje. Turul vă duce la stâncile dramatice Vele Stijene și oferă apoi relaxare în golful Marčana. Înainte de a vă întoarce în sat, vizitați farul Vnetak și golful ascuns Podkujni, în timp ce vă bucurați de briza mării.",
-            "en": "Discover Unije by bike on the island's flat paths. From the settlement, the path leads past the small airfield into the fertile Malo Polje. The tour takes you to the dramatic cliffs of Vele Stijene and then offers relaxation in Marčana Bay. Before returning to the village, visit the Vnetak lighthouse and the hidden Podkujni Bay while enjoying the sea breeze."
+            "en": "Discover Unije by bike on the island's flat paths. From the settlement, the path leads past the small airfield into the fertile Malo Polje. The tour takes you to the dramatic cliffs of Vele Stijene and then offers relaxation in Marčana Bay. Before returning to the village, visit the Vnetak lighthouse and the hidden Podkujni Bay while enjoying the sea breeze.",
+            "hr": "Otkrijte Unije biciklom po ravnim otočnim stazama. Iz naselja staza vodi pored male zračne piste u plodno Malo Polje. Tura vas vodi do dramatičnih litica Vele Stijene, a potom nudi opuštanje u uvali Marčana. Prije povratka u selo posjetite svjetionik Vnetak i skrivenu uvalu Podkujni uživajući u morskom povjetarcu."
           },
           "stops": [
             {
@@ -1192,13 +1228,15 @@
                 "de": "Der alte Ortskern",
                 "hu": "A régi faluközpont",
                 "ro": "Centrul vechi",
-                "en": "Old Village Center"
+                "en": "Old Village Center",
+                "hr": "Stari dio sela"
               },
               "tip_5lang": {
                 "de": "Start der Tour.",
                 "hu": "A túra kezdete.",
                 "ro": "Începutul turului.",
-                "en": "Start of the tour."
+                "en": "Start of the tour.",
+                "hr": "Početak ture."
               }
             },
             {
@@ -1206,13 +1244,15 @@
                 "de": "Flugplatz Unije",
                 "hu": "Unijei repülőtér",
                 "ro": "Aerodromul Unije",
-                "en": "Unije Airfield"
+                "en": "Unije Airfield",
+                "hr": "Zračna luka Unije"
               },
               "tip_5lang": {
                 "de": "Kleine Graspiste für Sportflugzeuge.",
                 "hu": "Kis füves pálya sportrepülőknek.",
                 "ro": "Mică pistă de iarbă pentru avioane sportive.",
-                "en": "Small grass strip for sports planes."
+                "en": "Small grass strip for sports planes.",
+                "hr": "Mala travnata pista za sportske avione."
               }
             },
             {
@@ -1220,13 +1260,15 @@
                 "de": "Malo Polje",
                 "hu": "Malo Polje",
                 "ro": "Malo Polje",
-                "en": "Malo Polje"
+                "en": "Malo Polje",
+                "hr": "Malo Polje"
               },
               "tip_5lang": {
                 "de": "Flaches Gelände, ideal zum Treten.",
                 "hu": "Lapos terep, ideális tekeréshez.",
                 "ro": "Teren plat, ideal pentru pedalat.",
-                "en": "Flat terrain, ideal for pedaling."
+                "en": "Flat terrain, ideal for pedaling.",
+                "hr": "Ravan teren, idealan za pedaliranje."
               }
             },
             {
@@ -1234,13 +1276,15 @@
                 "de": "Vele Stijene",
                 "hu": "Vele Stijene",
                 "ro": "Vele Stijene",
-                "en": "Vele Stijene"
+                "en": "Vele Stijene",
+                "hr": "Vele Stijene"
               },
               "tip_5lang": {
                 "de": "Schöner Küstenweg dorthin.",
                 "hu": "Szép parti út vezet oda.",
                 "ro": "Drum de coastă frumos până acolo.",
-                "en": "Beautiful coastal path leading there."
+                "en": "Beautiful coastal path leading there.",
+                "hr": "Prekrasna obalna staza koja vodi tamo."
               }
             },
             {
@@ -1248,13 +1292,15 @@
                 "de": "Bucht Marčana",
                 "hu": "Marčana-öböl",
                 "ro": "Golful Marčana",
-                "en": "Marčana Bay"
+                "en": "Marčana Bay",
+                "hr": "Uvala Marčana"
               },
               "tip_5lang": {
                 "de": "Badepause!",
                 "hu": "Fürdőzés!",
                 "ro": "Pauză de baie!",
-                "en": "Swim break!"
+                "en": "Swim break!",
+                "hr": "Pauza za kupanje!"
               }
             },
             {
@@ -1262,13 +1308,15 @@
                 "de": "Leuchtturm Vnetak",
                 "hu": "Vnetak világítótorony",
                 "ro": "Farul Vnetak",
-                "en": "Vnetak Lighthouse"
+                "en": "Vnetak Lighthouse",
+                "hr": "Svjetionik Vnetak"
               },
               "tip_5lang": {
                 "de": "Einsamer Posten im Südwesten.",
                 "hu": "Magányos őrhely délnyugaton.",
                 "ro": "Post solitar în sud-vest.",
-                "en": "Lonely post in the southwest."
+                "en": "Lonely post in the southwest.",
+                "hr": "Usamljeni položaj na jugozapadu."
               }
             },
             {
@@ -1276,13 +1324,15 @@
                 "de": "Bucht Podkujni",
                 "hu": "Podkujni-öböl",
                 "ro": "Golful Podkujni",
-                "en": "Podkujni Bay"
+                "en": "Podkujni Bay",
+                "hr": "Uvala Podkujni"
               },
               "tip_5lang": {
                 "de": "Bikes im Gebüsch parken.",
                 "hu": "A bringákat hagyja a bokrokban.",
                 "ro": "Parcați bicicletele în tufișuri.",
-                "en": "Park bikes in the bushes."
+                "en": "Park bikes in the bushes.",
+                "hr": "Parkirajte bicikle u grmlju."
               }
             }
           ],
@@ -1392,6 +1442,12 @@
               "Watch out for sheep that often cross the paths.",
               "The northern part of the island is slightly hillier.",
               "Check the tire pressure before leaving."
+            ],
+            "hr": [
+              "Najam bicikala dostupan je u selu.",
+              "Pazite na ovce koje često prelaze staze.",
+              "Sjeverni dio otoka je nešto brdovitiji.",
+              "Provjerite tlak u gumama prije polaska."
             ]
           }
         },
@@ -1401,7 +1457,7 @@
             "hu": "Esőben is nekivágunk Unije felfedezésének két keréken. A nap a faluban indul, felkészülve a nedves utakra. Délben a repülőtér és Malo Polje felé tekerünk, miközben a kerekek felverik a vizet a földutakon. Délután a sziklák és öblök mentén haladunk, ahol a köd különleges köntösbe öltözteti a tájat. A napot fáradtan, de élményekkel teli fejezzük be a faluban, miközben az eső lemossa a sarat a bringákról.",
             "ro": "Explorăm Unije pe două roți chiar și pe ploaie. Ziua începe în sat, unde ne pregătim pentru o tură umedă. La prânz pedalăm spre aerodrom și prin Malo Polje, în timp ce apa stropește din roți pe drumurile de pământ. După-amiaza traseul ne poartă spre stânci și golfuri, unde vizibilitatea este limitată de ceață. Încheiem ziua obosiți dar mulțumiți în sat, lăsând ploaia să curețe noroiul de pe biciclete.",
             "en": "We set out to explore Unije on two wheels despite the rain. The day starts in the village, gearing up for a wet ride. By noon, we cycle to the airfield and through Malo Polje, with water splashing from the tires on the dirt paths. In the afternoon, the trail leads to cliffs and bays where mist creates an atmospheric backdrop. We end the day back in the village, letting the rain wash the mud off our bikes.",
-            "hr": "Krećemo u istraživanje Unija na dva kotača unatoč kiši. Dan počinje u selu, pripremom za mokru vožnju. Do podneva se vozimo do aerodroma i kroz Malo polje, dok voda prska s guma na zemljanim stazama. Poslijepodne staza vodi do hridi i uvala gdje magla stvara atmosferičnu kulisu. Dan završavamo u selu, dopuštajući kiši da ispere blato s naših bicikala."
+            "hr": "Krenuli smo istraživati Unije na dva kotača unatoč kiši. Dan počinje u selu, opremamo se za mokru vožnju. Do podneva vozimo do zračne piste i preko Malog Polja, voda prska iz guma po zemljanim stazama. Poslijepodne staza vodi do litica i uvala gdje magla stvara atmosferičnu pozadinu. Dan završavamo natrag u selu, dopuštajući kiši da opere blato s naših bicikala."
           },
           "stops": [
             {
@@ -1411,7 +1467,7 @@
                 "hu": "Fokozott óvatosággal fékezzen a falu nedves macskaköves utcáin.",
                 "ro": "Frânați cu prudență pe pavajul umed din centrul satului.",
                 "en": "Exercise caution when braking on the wet cobblestones in the village.",
-                "hr": "Budite oprezni pri kočenju na mokroj kaldrmi u selu."
+                "hr": "Budite oprezni pri kočenju po mokroj kaldrmi u selu."
               }
             },
             {
@@ -1421,7 +1477,7 @@
                 "hu": "A füves kifutópálya esőben felázhat és nehezen tekerhetővé válhat.",
                 "ro": "Pista de iarbă poate deveni foarte moale și greu de parcurs pe ploaie.",
                 "en": "The grass runway can become very soft and difficult to cycle on in the rain.",
-                "hr": "Travnata pista može postati vrlo mekana i teška za vožnju po kiši."
+                "hr": "Travnata pista može postati vrlo meka i teško prohodna za vožnju po kiši."
               }
             },
             {
@@ -1431,7 +1487,7 @@
                 "hu": "A sárvédő itt aranyat ér, hogy távol tartsa a felcsapódó sarat.",
                 "ro": "Apărătorile sunt esențiale aici pentru a vă proteja de noroi.",
                 "en": "Mudguards are invaluable here to keep the mud off your clothes.",
-                "hr": "Blatobrani su ovdje neprocjenjivi kako bi blato ostalo podalje od vaše odjeće."
+                "hr": "Blatobrani su neprocjenjivi za održavanje odjeće bez blata."
               }
             },
             {
@@ -1441,7 +1497,7 @@
                 "hu": "Biztonságos helyen támassza le a biciklit; a sziklaszél csúszós lehet.",
                 "ro": "Parcați bicicleta într-un loc sigur; solul de lângă margine este alunecos.",
                 "en": "Park your bike securely; the ground near the edge can be slippery.",
-                "hr": "Sigurno parkirajte bicikl; tlo blizu ruba može biti sklisko."
+                "hr": "Parkirajte bicikl sigurno; tlo blizu ruba može biti sklisko."
               }
             },
             {
@@ -1451,7 +1507,7 @@
                 "hu": "Az öbölbe vezető lejtő nedves időben teljes koncentrációt igényel.",
                 "ro": "Coborârea spre golf necesită concentrare maximă pe timp de ploaie.",
                 "en": "The descent to the bay requires full concentration in wet conditions.",
-                "hr": "Spust do uvale zahtijeva punu koncentraciju u mokrim uvjetima."
+                "hr": "Spust do uvale zahtijeva potpunu koncentraciju u vlažnim uvjetima."
               }
             },
             {
@@ -1461,7 +1517,7 @@
                 "hu": "Az út bizonyos szakaszain szükség lehet a bicikli tolására.",
                 "ro": "Pe unele porțiuni ale drumului ar putea fi necesar să împingeți bicicleta.",
                 "en": "You might need to push your bike on some rocky sections of the path.",
-                "hr": "Na nekim kamenitim dijelovima staze možda ćete morati gurati bicikl."
+                "hr": "Možda ćete morati gurati bicikl na nekim stjenovitim dijelovima staze."
               }
             },
             {
@@ -1505,11 +1561,11 @@
               "Ensure you have working lights as visibility drops significantly in the rain."
             ],
             "hr": [
-              "Izbjegavajte oštro kočenje na mokrim vapnenačkim pločama kako biste spriječili proklizavanje.",
-              "Nosite biciklističke naočale kako biste zaštitili oči od prskanja blata.",
-              "Provjerite tlak u gumama prije polaska za bolje prianjanje na mokrim stazama.",
-              "Izbjegavajte duboke dijelove s blatom kako se bicikl ne bi zaglavio.",
-              "Osigurajte ispravna svjetla jer vidljivost znatno opada po kiši."
+              "Izbjegavajte oštro kočenje na mokrim krečnjačkim pločama kako biste spriječili proklizavanje.",
+              "Nosite biciklističke naočale za zaštitu očiju od prskanja blata.",
+              "Provjerite tlak u gumama prije polaska radi boljeg prianjanja na mokrim stazama.",
+              "Izbjegavajte duboke zakrčene lokve kako ne biste zapečili bicikl.",
+              "Osigurajte da imate radna svjetla jer vidljivost znatno opada po kiši."
             ]
           }
         },
@@ -1519,7 +1575,7 @@
             "hu": "A téli biciklitúra Unijén meleg öltözetet és kitartást igényel. A reggel a csendes faluban indul, ahonnan az üres ösvények felé vesszük az irányt. Délben a tágas Malo Polje felett tekerünk, ahol csak a szél a társunk. Délután érjük el a sziklákat, miközben az alacsonyan járó nap aranyló fénnyel világítja meg a köveket. Mivel korán sötétedik, időben visszatérünk a barátságos faluközpontba, hogy átadjuk magunkat a téli nyugalomnak.",
             "ro": "O excursie cu bicicleta iarna pe Unije necesită haine groase și rezistență. Dimineața începe în satul liniștit, de unde pornim pe potecile pustii. La prânz pedalăm prin vastul Malo Polje, unde vântul este singurul companion. După-amiaza ajungem la stânci, în timp ce lumina aurie a soarelui palid luminează calcarul. Deoarece se întunecă devreme, ne întoarcem la timp în centrul satului pentru a savura liniștea iernii.",
             "en": "A winter bike trip on Unije calls for warm layers and stamina. The morning starts in the quiet village before we head out onto the empty trails. By noon, we are cycling across the vast Malo Polje, with only the wind for company. In the afternoon, we reach the cliffs just as the golden low-angled sun lights up the rocks. As darkness falls early, we return to the cozy village center in time to enjoy the winter silence.",
-            "hr": "Zimska vožnja biciklom na Unijama zahtijeva tople slojeve i izdržljivost. Jutro počinje u tihom selu prije nego što krenemo na prazne staze. Do podneva pedaliramo prostranim Malim poljem, uz samo vjetar za društvo. Poslijepodne stižemo do hridi baš kad nisko zlatno sunce osvijetli stijene. Budući da mrak pada rano, vraćamo se u ugodno središte sela na vrijeme kako bismo uživali u zimskoj tišini."
+            "hr": "Zimski biciklistički izlet na Unije zahtijeva tople slojeve i izdržljivost. Jutro počinje u mirnom selu prije nego što krenemo na prazne staze. Do podneva vozimo preko prostranog Malog Polja, s jedino vjetrom za društvo. Poslijepodne stižemo do litica upravo kad zlatno nisko sunce osvijetli stijene. Kako se rano spušta tama, vraćamo se u ugodnu jezgru sela na vrijeme da uživamo u zimskoj tišini."
           },
           "stops": [
             {
@@ -1529,7 +1585,7 @@
                 "hu": "Viseljen szélálló kesztyűt, hogy melegen tartsa a kezeit tekerés közben.",
                 "ro": "Purtați mănuși rezistente la vânt pentru a vă proteja mâinile de frig.",
                 "en": "Wear windproof gloves to keep your hands warm while cycling.",
-                "hr": "Nosite rukavice otporne na vjetar kako bi vam ruke bile tople tijekom vožnje."
+                "hr": "Nosite vjetrootporne rukavice da vam ruke ostanu tople tijekom vožnje."
               }
             },
             {
@@ -1539,7 +1595,7 @@
                 "hu": "A szél itt gyakran akadálytalanul fúj; vigyázzon az oldalszéllel.",
                 "ro": "Vântul suflă adesea nestingherit aici; atenție la rafale.",
                 "en": "The wind often blows unchecked here; watch out for sudden gusts.",
-                "hr": "Vjetar ovdje često puše bez prepreka; pazite na iznenadne nalete."
+                "hr": "Vjetar ovdje često puše bez upozorenja; pazite na nagle nalete."
               }
             },
             {
@@ -1549,7 +1605,7 @@
                 "hu": "Élvezze a távoli kilátást, amely télen különösen tiszta.",
                 "ro": "Bucurați-vă de vizibilitatea mare, care este extrem de clară iarna.",
                 "en": "Enjoy the long-distance views, which are exceptionally clear in winter.",
-                "hr": "Uživajte u dalekosežnim pogledima koji su zimi izuzetno jasni."
+                "hr": "Uživajte u dalekosežnim pogledima koji su zimi izuzetno bistri."
               }
             },
             {
@@ -1559,7 +1615,7 @@
                 "hu": "A jegesedés veszélye miatt maradjon a kijelölt ösvényeken.",
                 "ro": "Rămâneți pe potecile bătătorite din cauza riscului de gheață.",
                 "en": "Stick to the established paths due to the potential for icy patches.",
-                "hr": "Držite se utvrđenih staza zbog mogućih zaleđenih dijelova."
+                "hr": "Držite se utvrđenih staza zbog mogućnosti zaleđenih mjesta."
               }
             },
             {
@@ -1569,7 +1625,7 @@
                 "hu": "A nap itt télen nagyon korán eltűnik a domb mögött.",
                 "ro": "Soarele dispare foarte devreme în spatele dealului pe timp de iarnă.",
                 "en": "The sun disappears behind the hill very early here during winter.",
-                "hr": "Sunce zimi ovdje vrlo rano nestaje iza brda."
+                "hr": "Sunce ovdje zimi vrlo rano zalazi iza brda."
               }
             },
             {
@@ -1579,7 +1635,7 @@
                 "hu": "A bóra szél itt rendkívül megterhelővé teheti a kerékpározást.",
                 "ro": "Vântul Bura poate face pedalatul extrem de obositor în această zonă.",
                 "en": "The Bura wind can make cycling extremely taxing in this area.",
-                "hr": "Bura može učiniti bicikliranje na ovom području izuzetno napornim."
+                "hr": "Bura može činiti bicikliranje iznimno napornim u ovom području."
               }
             },
             {
@@ -1589,7 +1645,7 @@
                 "hu": "Csak rövid pihenőt tartson, mielőtt a hideg átjárná a tagjait.",
                 "ro": "Faceți doar o pauză scurtă înainte ca frigul să vă pătrundă în oase.",
                 "en": "Take only a short break before the cold starts to set in.",
-                "hr": "Napravite samo kratku stanku prije nego što počne prodirati hladnoća."
+                "hr": "Uzmite samo kratku pauzu prije nego što zahladi."
               }
             }
           ],
@@ -1623,11 +1679,11 @@
               "Carry energy-dense snacks like nuts or bars to maintain your stamina."
             ],
             "hr": [
-              "Koristite specifično mazivo za lanac dizajnirano za hladne i mokre uvjete.",
-              "Baterije na e-biciklima i svjetlima troše se mnogo brže na hladnoći.",
-              "Tanka kapa ispod kacige sprječava značajan gubitak topline s glave.",
-              "Pripazite na inje na zasjenjenim dijelovima staze.",
-              "Nosite energetski bogate grickalice poput orašastih plodova za održavanje snage."
+              "Koristite specifično mazivo za lanac namijenjeno hladnim i vlažnim uvjetima.",
+              "Baterije za e-bicikle i svjetla troše se mnogo brže na hladnoći.",
+              "Tanki kapa ispod kacige sprječava značajan gubitak topline s glave.",
+              "Pazite na mraz (hoarfrost) na sjenovitim dijelovima staze.",
+              "Nosite energetski guste grickalice poput orašastih plodova ili pločica kako biste održali snagu."
             ]
           }
         }
@@ -1646,7 +1702,8 @@
             "de": "Dorf Unije",
             "hu": "Unije falu",
             "ro": "Satul Unije",
-            "en": "Unije Village"
+            "en": "Unije Village",
+            "hr": "Selo Unije"
           },
           "coords": [
             14.246,
@@ -1670,7 +1727,8 @@
             "de": "Pfarrkirche St. Andreas",
             "hu": "Szent András templom",
             "ro": "Biserica Sf. Andrei",
-            "en": "St. Andrew Church"
+            "en": "St. Andrew Church",
+            "hr": "Crkva sv. Andrije"
           },
           "coords": [
             14.247,
@@ -1686,7 +1744,7 @@
             "hu": "Látványosság a faluban.",
             "ro": "Punct de atracție în sat.",
             "en": "Eye-catcher in the village.",
-            "hr": "Privlačna točka u selu."
+            "hr": "Atrakcija u selu."
           }
         },
         {
@@ -1694,7 +1752,8 @@
             "de": "Flugplatz Unije",
             "hu": "Unijei repülőtér",
             "ro": "Aerodromul Unije",
-            "en": "Unije Airfield"
+            "en": "Unije Airfield",
+            "hr": "Zračni teren Unije"
           },
           "coords": [
             14.255,
@@ -1710,7 +1769,7 @@
             "hu": "Érdekes kontraszt a természettel.",
             "ro": "Contrast interesant cu natura.",
             "en": "Interesting contrast to nature.",
-            "hr": "Zanimljiv kontrast prirodi."
+            "hr": "Zanimljiv kontrast s prirodom."
           }
         },
         {
@@ -1718,7 +1777,8 @@
             "de": "Vele Stijene",
             "hu": "Vele Stijene",
             "ro": "Vele Stijene",
-            "en": "Vele Stijene"
+            "en": "Vele Stijene",
+            "hr": "Vele Stijene"
           },
           "coords": [
             14.23,
@@ -1742,7 +1802,8 @@
             "de": "Bucht Marčana",
             "hu": "Marčana-öböl",
             "ro": "Golful Marčana",
-            "en": "Marčana Bay"
+            "en": "Marčana Bay",
+            "hr": "Uvala Marčana"
           },
           "coords": [
             14.255,
@@ -1766,7 +1827,8 @@
             "de": "Leuchtturm Vnetak",
             "hu": "Vnetak világítótorony",
             "ro": "Farul Vnetak",
-            "en": "Vnetak Lighthouse"
+            "en": "Vnetak Lighthouse",
+            "hr": "Svjetionik Vnetak"
           },
           "coords": [
             14.23,
@@ -1782,7 +1844,7 @@
             "hu": "A sziget jelképe.",
             "ro": "Simbolul insulei.",
             "en": "Landmark of the island.",
-            "hr": "Znamenitost otoka."
+            "hr": "Označje otoka."
           }
         }
       ],
@@ -1791,7 +1853,7 @@
         "hu": "Mivel Unije autómentes, ez a mód egy teljes szigettúrát mutat be (elméletben hajóval vagy gyalog szimulálva). Felfedezi a faluközpontot, a Szent András-templomot és a kis szigeti repülőteret. Az útvonal elviszi a fenséges Vele Stijene sziklákhoz és a pihentető Marčana-öbölbe. Végezetül élvezze a kilátást a történelmi Vnetak világítótoronytól a végtelen tengerre.",
         "ro": "Deoarece Unije este fără mașini, acest mod reprezintă un tur complet al insulei (simulat teoretic cu barca sau pe jos). Explorați centrul satului, Biserica Sf. Andrei și micul aerodrom al insulei. Traseul vă duce la stâncile maiestuoase Vele Stijene și la golful relaxant Marčana. La final, bucurați-vă de priveliștea de la farul istoric Vnetak peste marea nesfârșită.",
         "en": "Since Unije is car-free, this mode represents a complete island tour (simulated theoretically by boat or on foot). You explore the village center, St. Andrew Church, and the small island airfield. The route takes you to the majestic Vele Stijene cliffs and the relaxing Marčana Bay. To finish, enjoy the view from the historical Vnetak lighthouse over the endless sea.",
-        "hr": "Budući da na Unijama nema automobila, ovaj način rada predstavlja potpunu turu po otoku (simuliranu teoretski brodom ili pješice). Istražite središte sela, crkvu sv. Andrije i mali otočki aerodrom. Ruta vas vodi do veličanstvenih hridi Vele stijene i opuštajuće uvale Marčana. Za kraj, uživajte u pogledu s povijesnog svjetionika Vnetak na beskrajno more."
+        "hr": "Budući da je Unije bez automobila, ovaj način predstavlja cjeloviti obilazak otoka (teoretski simuliran brodom ili pješice). Istražite središte sela, crkvu sv. Andrije i mali otočni zračni teren. Ruta vodi do veličanstvenih litica Vele Stijene i opuštajuće uvale Marčana. Za kraj uživajte u pogledu s povijesnog svjetionika Vnetak preko beskrajnog mora."
       },
       "gastro_picks": {
         "de": [
@@ -1921,9 +1983,9 @@
         ],
         "hr": [
           "Ostavite sva vozila na kopnu.",
-          "Otok je najbolje istraživati polako.",
+          "Otok je najbolje istražiti polako.",
           "Uživajte u apsolutnoj tišini bez buke motora.",
-          "Brod je ovdje jedino prijevozno sredstvo."
+          "Brodom je ovdje jedini prijevozno sredstvo."
         ]
       },
       "variants": {
@@ -1932,7 +1994,8 @@
             "de": "Da Unije autofrei ist, stellt dieser Modus eine komplette Inseltour dar (theoretisch per Boot oder zu Fuß simuliert). Sie erkunden den Ortskern, die St. Andreas Kirche und den kleinen Inselflugplatz. Die Route führt Sie zu den majestätischen Vele Stijene Klippen und zur entspannenden Marčana Bucht. Zum Abschluss genießen Sie den Blick vom historischen Leuchtturm Vnetak über das endlose Meer.",
             "hu": "Mivel Unije autómentes, ez a mód egy teljes szigettúrát mutat be (elméletben hajóval vagy gyalog szimulálva). Felfedezi a faluközpontot, a Szent András-templomot és a kis szigeti repülőteret. Az útvonal elviszi a fenséges Vele Stijene sziklákhoz és a pihentető Marčana-öbölbe. Végezetül élvezze a kilátást a történelmi Vnetak világítótoronytól a végtelen tengerre.",
             "ro": "Deoarece Unije este fără mașini, acest mod reprezintă un tur complet al insulei (simulat teoretic cu barca sau pe jos). Explorați centrul satului, Biserica Sf. Andrei și micul aerodrom al insulei. Traseul vă duce la stâncile maiestuoase Vele Stijene și la golful relaxant Marčana. La final, bucurați-vă de priveliștea de la farul istoric Vnetak peste marea nesfârșită.",
-            "en": "Since Unije is car-free, this mode represents a complete island tour (simulated theoretically by boat or on foot). You explore the village center, St. Andrew Church, and the small island airfield. The route takes you to the majestic Vele Stijene cliffs and the relaxing Marčana Bay. To finish, enjoy the view from the historical Vnetak lighthouse over the endless sea."
+            "en": "Since Unije is car-free, this mode represents a complete island tour (simulated theoretically by boat or on foot). You explore the village center, St. Andrew Church, and the small island airfield. The route takes you to the majestic Vele Stijene cliffs and the relaxing Marčana Bay. To finish, enjoy the view from the historical Vnetak lighthouse over the endless sea.",
+            "hr": "Budući da je Unije bez automobila, ovaj način predstavlja cjeloviti obilazak otoka (teoretski simuliran brodom ili pješice). Istražite središte sela, crkvu sv. Andrije i mali otočni zračni teren. Ruta vodi do veličanstvenih litica Vele Stijene i opuštajuće uvale Marčana. Za kraj uživajte u pogledu s povijesnog svjetionika Vnetak preko beskrajnog mora."
           },
           "stops": [
             {
@@ -1940,13 +2003,15 @@
                 "de": "Dorf Unije",
                 "hu": "Unije falu",
                 "ro": "Satul Unije",
-                "en": "Unije Village"
+                "en": "Unije Village",
+                "hr": "Selo Unije"
               },
               "tip_5lang": {
                 "de": "Das Herz der Insel.",
                 "hu": "A sziget szíve.",
                 "ro": "Inima insulei.",
-                "en": "The heart of the island."
+                "en": "The heart of the island.",
+                "hr": "Srce otoka."
               }
             },
             {
@@ -1954,13 +2019,15 @@
                 "de": "Pfarrkirche St. Andreas",
                 "hu": "Szent András templom",
                 "ro": "Biserica Sf. Andrei",
-                "en": "St. Andrew Church"
+                "en": "St. Andrew Church",
+                "hr": "Crkva sv. Andrije"
               },
               "tip_5lang": {
                 "de": "Blickfang im Dorf.",
                 "hu": "Látványosság a faluban.",
                 "ro": "Punct de atracție în sat.",
-                "en": "Eye-catcher in the village."
+                "en": "Eye-catcher in the village.",
+                "hr": "Atrakcija u selu."
               }
             },
             {
@@ -1968,13 +2035,15 @@
                 "de": "Flugplatz Unije",
                 "hu": "Unijei repülőtér",
                 "ro": "Aerodromul Unije",
-                "en": "Unije Airfield"
+                "en": "Unije Airfield",
+                "hr": "Zračni teren Unije"
               },
               "tip_5lang": {
                 "de": "Interessanter Kontrast zur Natur.",
                 "hu": "Érdekes kontraszt a természettel.",
                 "ro": "Contrast interesant cu natura.",
-                "en": "Interesting contrast to nature."
+                "en": "Interesting contrast to nature.",
+                "hr": "Zanimljiv kontrast s prirodom."
               }
             },
             {
@@ -1982,13 +2051,15 @@
                 "de": "Vele Stijene",
                 "hu": "Vele Stijene",
                 "ro": "Vele Stijene",
-                "en": "Vele Stijene"
+                "en": "Vele Stijene",
+                "hr": "Vele Stijene"
               },
               "tip_5lang": {
                 "de": "Unbedingt die Kamera mitnehmen.",
                 "hu": "Feltétlenül vigyen kamerát.",
                 "ro": "Luați neapărat camera cu dvs.",
-                "en": "Be sure to take a camera."
+                "en": "Be sure to take a camera.",
+                "hr": "Obavezno ponesite fotoaparat."
               }
             },
             {
@@ -1996,13 +2067,15 @@
                 "de": "Bucht Marčana",
                 "hu": "Marčana-öböl",
                 "ro": "Golful Marčana",
-                "en": "Marčana Bay"
+                "en": "Marčana Bay",
+                "hr": "Uvala Marčana"
               },
               "tip_5lang": {
                 "de": "Der schönste Platz zum Schwimmen.",
                 "hu": "A legszebb hely az úszáshoz.",
                 "ro": "Cel mai frumos loc pentru înot.",
-                "en": "The most beautiful spot for swimming."
+                "en": "The most beautiful spot for swimming.",
+                "hr": "Najljepše mjesto za kupanje."
               }
             },
             {
@@ -2010,13 +2083,15 @@
                 "de": "Leuchtturm Vnetak",
                 "hu": "Vnetak világítótorony",
                 "ro": "Farul Vnetak",
-                "en": "Vnetak Lighthouse"
+                "en": "Vnetak Lighthouse",
+                "hr": "Svjetionik Vnetak"
               },
               "tip_5lang": {
                 "de": "Wahrzeichen der Insel.",
                 "hu": "A sziget jelképe.",
                 "ro": "Simbolul insulei.",
-                "en": "Landmark of the island."
+                "en": "Landmark of the island.",
+                "hr": "Označje otoka."
               }
             }
           ],
@@ -2126,6 +2201,12 @@
               "The island is best explored slowly.",
               "Enjoy the absolute silence without engine noise.",
               "The boat is the only means of transport here."
+            ],
+            "hr": [
+              "Ostavite sva vozila na kopnu.",
+              "Otok je najbolje istražiti polako.",
+              "Uživajte u apsolutnoj tišini bez buke motora.",
+              "Brodom je ovdje jedini prijevozno sredstvo."
             ]
           }
         },
@@ -2135,7 +2216,7 @@
             "hu": "Esőben is bejárható Unije a helyi járművekkel (például traktorral vagy elektromos kocsival). A faluközpontból indulunk, védve az égi áldástól. Délben a templomot és a repülőteret érintjük, miközben az ablaktörlők dolgoznak. Délután a Vele Stijene kilátópontjaihoz hajtunk, a száraz utastérből figyelve az esőt. A napot biztonságban, a faluba visszatérve zárjuk, miközben az eső kopog a tetőn.",
             "ro": "Chiar și pe ploaie, Unije poate fi explorată cu un vehicul (transport local). Pornim din centrul satului, protejați de averse. La prânz vizităm biserica și aerodromul, în timp ce ștergătoarele bat ritmul călătoriei. După-amiaza conducem spre punctele de belvedere de la Vele Stijene, admirând ploaia din interiorul uscat. Încheiem ziua în siguranță în sat, ascultând ropotul ploii pe plafonul vehiculului.",
             "en": "Even in the rain, Unije can be explored using local vehicles. We start from the village center, sheltered from the downpour. By noon, we visit the church and the airfield as wipers clear the windshield. In the afternoon, we drive to the Vele Stijene viewpoints, watching the rain from the dry interior. We end the day safely back in the village, listening to the rain drumming on the roof.",
-            "hr": "Čak i po kiši, Unije se mogu istražiti lokalnim vozilima. Krećemo iz središta sela, zaštićeni od pljuska. Do podneva posjećujemo crkvu i aerodrom dok brisači čiste vjetrobransko staklo. Poslijepodne se vozimo do vidikovaca Vele stijene, promatrajući kišu iz suhe unutrašnjosti. Dan završavamo sigurno u selu, slušajući bubnjanje kiše po krovu."
+            "hr": "Čak i po kiši Unije se može istraživati lokalnim vozilima. Krenemo iz središta sela, zaštićeni od pljuska. Do podneva posjećujemo crkvu i zračni teren dok brisači čiste vjetrobran. Poslijepodne vozimo do vidikovaca Vele Stijene, promatrajući kišu iz suhog interijera. Dan završavamo sigurno natrag u selu, slušajući kapljanje kiše po krovu."
           },
           "stops": [
             {
@@ -2145,7 +2226,7 @@
                 "hu": "Szilárd talajon parkoljon, hogy elkerülje az elakadást a sárban.",
                 "ro": "Parcați pe teren solid pentru a evita împotmolirea în noroi.",
                 "en": "Park on firm ground to avoid getting stuck in the mud.",
-                "hr": "Parkirajte na čvrstom tlu kako biste izbjegli zaglavljivanje u blatu."
+                "hr": "Parkirajte na čvrstom tlu kako ne biste zapeli u blatu."
               }
             },
             {
@@ -2155,7 +2236,7 @@
                 "hu": "A parkolótól a bejáratig tartó rövid út pocsolyás lehet.",
                 "ro": "Drumul scurt de la parcare la intrare poate avea multe bălți.",
                 "en": "The short walk from the parking area to the entrance may be puddled.",
-                "hr": "Kratka šetnja od parkirališta do ulaza može biti puna lokvi."
+                "hr": "Kratka šetnja od parkirališta do ulaza može biti lužnata."
               }
             },
             {
@@ -2165,7 +2246,7 @@
                 "hu": "Nedves időben csak összkerékhajtással hajtson a füves területekre.",
                 "ro": "Intrați pe zonele cu iarbă doar cu tracțiune integrală când este ud.",
                 "en": "Only enter grassy areas with 4WD when conditions are wet.",
-                "hr": "Na travnate površine ulazite samo s pogonom na sva četiri kotača u mokrim uvjetima."
+                "hr": "Na travnate površine ulazite samo s pogonom na sva četiri kotača kad su uvjeti vlažni."
               }
             },
             {
@@ -2175,7 +2256,7 @@
                 "hu": "Heves esőzéskor maradjon a járműben, és onnan élvezze a kilátást.",
                 "ro": "Rămâneți în vehicul în timpul ploii torențiale și admirați peisajul.",
                 "en": "Stay inside the vehicle during heavy rain and enjoy the view from there.",
-                "hr": "Ostanite u vozilu tijekom jake kiše i uživajte u pogledu odande."
+                "hr": "Tijekom jake kiše ostanite u vozilu i uživajte u pogledu od tamo."
               }
             },
             {
@@ -2185,7 +2266,7 @@
                 "hu": "Az öbölhöz vezető földutak csúszósak és kimosottak lehetnek.",
                 "ro": "Drumurile neasfaltate spre golf pot fi alunecoase și spălate de ploi.",
                 "en": "The unpaved roads to the bay can be slippery and washed out.",
-                "hr": "Neasfaltirane ceste do uvale mogu biti skliske i isprane."
+                "hr": "Nerazvijeni putevi do uvale mogu biti klizavi i isprani."
               }
             },
             {
@@ -2195,7 +2276,7 @@
                 "hu": "Ellenőrizze, hogy az út járható marad-e esőben is.",
                 "ro": "Verificați dacă drumul de acces rămâne practicabil pe timp de ploaie.",
                 "en": "Check if the access road remains passable during heavy rainfall.",
-                "hr": "Provjerite je li pristupna cesta prohodna tijekom obilnih oborina."
+                "hr": "Provjerite ostaje li pristupni put prohodan za vrijeme jakih oborina."
               }
             }
           ],
@@ -2229,11 +2310,11 @@
               "Watch out for pedestrians who may move unpredictably in the rain."
             ],
             "hr": [
-              "Vozite polako uskim i mokrim neasfaltiranim cestama otoka.",
-              "Izbjegavajte vožnju po mekim rubovima polja ili zemljanim putovima.",
-              "Provjerite dubinu profila guma za bolje prianjanje na blatnjavim dijelovima.",
+              "Vozite polako po uskim i mokrim makadamskim cestama otoka.",
+              "Izbjegavajte vožnju po mekanim rubovima polja ili zemljanim stazama.",
+              "Provjerite dubinu profila guma za bolje prianjanje na blatnim dionicama.",
               "Osigurajte pravilno odmagljivanje prozora u vozilu za bolju vidljivost.",
-              "Pripazite na pješake koji se po kiši mogu kretati nepredvidivo."
+              "Pazite na pješake koji se po kiši mogu kretati nepredvidivo."
             ]
           }
         },
@@ -2243,7 +2324,7 @@
             "hu": "A téli Unije járművel kényelmes védelmet nyújt a metsző bóra ellen. A reggel a szinte elhagyatott faluközpontban indul. Délben a templomot és a repülőteret látogatjuk meg, a fűtés biztosítja a komfortot. Délután a tiszta kilátást élvezzük a Vele Stijene szikláiról, mielőtt a fény hirtelen fogyni kezd. Mivel a nap fél öt körül nyugszik, korán visszatérünk a falu védelmébe a téli alkonyatban.",
             "ro": "Iarna pe Unije cu vehiculul înseamnă protecție contra vântului tăios Bura. Dimineața începe în centrul satului aproape pustiu. La prânz vizităm biserica și aerodromul, beneficiind de căldura din habitaclu. După-amiaza admirăm vizibilitatea clară de la Vele Stijene înainte ca lumina să scadă rapid. Soarele apune în jur de 16:30, așa că ne întoarcem devreme în sat, în timp ce amurgul de iarnă cuprinde insula.",
             "en": "Winter on Unije by vehicle provides welcome shelter from the piercing Bura wind. The morning starts in the nearly deserted village center. By noon, we head to the church and the airfield, enjoying the warmth of the heater. In the afternoon, we take in the crystal-clear views from Vele Stijene before the light fades. With sunset around 16:30, we return early to the shelter of the village as the winter twilight settles in.",
-            "hr": "Zima na Unijama u vozilu pruža dobrodošao zaklon od oštre bure. Jutro počinje u gotovo pustom središtu sela. Do podneva idemo prema crkvi i aerodromu, uživajući u toplini grijanja. Poslijepodne uživamo u kristalno jasnim pogledima s Vele stijene prije nego što svjetlo izblijedi. Uz zalazak sunca oko 16:30, rano se vraćamo u zaklon sela dok se spušta zimski sumrak."
+            "hr": "Zima na Unijama u vozilu pruža dobrodošli zaklon od probadajuće bure. Jutro započinje u gotovo pustom središtu sela. Do podneva krećemo prema crkvi i zračnom terenu, uživajući u toplini grijača. Poslijepodne uživamo u kristalno čistim pogledima s Vele Stijene prije nego što svjetlo utihne. Sa zalaskom oko 16:30 vraćamo se rano u zaklon sela dok se zimski sumrak spušta."
           },
           "stops": [
             {
@@ -2253,7 +2334,7 @@
                 "hu": "Ne járassa feleslegesen hosszan a motort álló helyzetben a faluban.",
                 "ro": "Nu lăsați motorul pornit inutil de mult timp în timp ce staționați.",
                 "en": "Avoid idling the engine for unnecessarily long periods in the village.",
-                "hr": "Izbjegavajte rad motora u praznom hodu nepotrebno dugo u selu."
+                "hr": "Izbjegavajte nepotrebno dugo praznog hoda motora u selu."
               }
             },
             {
@@ -2263,7 +2344,7 @@
                 "hu": "Lehetőleg szélvédett helyen parkoljon, hogy a jármű lassabban hűljön ki.",
                 "ro": "Parcați într-un loc ferit de vânt, dacă este posibil, pentru a menține căldura.",
                 "en": "Park in a wind-sheltered spot if possible to keep the vehicle warmer.",
-                "hr": "Parkirajte na mjestu zaštićenom od vjetra ako je moguće kako bi vozilo ostalo toplije."
+                "hr": "Parkirajte, ako je moguće, na mjestu zaštićenom od vjetra kako bi vozilo ostalo toplije."
               }
             },
             {
@@ -2273,7 +2354,7 @@
                 "hu": "Vigyázzon a lefagyott szakaszokra a bekötőúton.",
                 "ro": "Atenție la porțiunile înghețate de pe drumul de acces.",
                 "en": "Watch out for icy patches on the access road to the airfield.",
-                "hr": "Pripazite na zaleđene dijelove na pristupnoj cesti aerodromu."
+                "hr": "Pazite na zaleđene dijelove na pristupnom putu do zračnog terena."
               }
             },
             {
@@ -2283,7 +2364,7 @@
                 "hu": "Kiszálláskor ügyeljen, mert a szél odafönt rendkívül erős lehet.",
                 "ro": "Vântul poate fi foarte puternic aici sus când coborâți din vehicul.",
                 "en": "Be careful when exiting the vehicle as the wind can be very strong here.",
-                "hr": "Budite oprezni pri izlasku iz vozila jer vjetar ovdje može biti vrlo jak."
+                "hr": "Budite pažljivi pri izlasku iz vozila jer ovdje vjetar može biti vrlo jak."
               }
             },
             {
@@ -2303,7 +2384,7 @@
                 "hu": "Élvezze a naplementét a jármű meleg utasteréből.",
                 "ro": "Bucurați-vă de apusul soarelui din interiorul cald al vehiculului.",
                 "en": "Enjoy the spectacular sunset from the warmth of your vehicle.",
-                "hr": "Uživajte u spektakularnom zalasku sunca iz topline svog vozila."
+                "hr": "Uživajte u spektakularnom zalasku s topline svog vozila."
               }
             }
           ],
@@ -2337,11 +2418,11 @@
               "Watch for wildlife as animals are more likely to cross roads in winter."
             ],
             "hr": [
-              "Provjerite je li razina antifriza u sustavu za hlađenje dovoljna.",
-              "Performanse baterije mogu znatno pasti na niskim temperaturama.",
+              "Osigurajte da je razina antifriza u rashladnom sustavu dovoljna.",
+              "Učinak baterije može značajno pasti na niskim temperaturama.",
               "Držite tople deke u vozilu u slučaju nužde.",
-              "Izbjegavajte parkiranje ispod starih stabala tijekom razdoblja jake bure.",
-              "Pripazite na divlje životinje jer će životinje zimi vjerojatnije prelaziti ceste."
+              "Izbjegavajte parkiranje pod starim stablima tijekom jakog vjetra bura.",
+              "Pazite na divljač jer su životinje zimi sklonije prelaziti ceste."
             ]
           }
         }
@@ -2360,7 +2441,8 @@
             "de": "Hafen Unije",
             "hu": "Unije kikötő",
             "ro": "Portul Unije",
-            "en": "Unije Harbor"
+            "en": "Unije Harbor",
+            "hr": "Luka Unije"
           },
           "coords": [
             14.242,
@@ -2384,7 +2466,8 @@
             "de": "Der alte Ortskern",
             "hu": "A régi faluközpont",
             "ro": "Centrul vechi",
-            "en": "Old Village Center"
+            "en": "Old Village Center",
+            "hr": "Staro središte sela"
           },
           "coords": [
             14.246,
@@ -2400,7 +2483,7 @@
             "hu": "Közvetlenül a kikötő felett.",
             "ro": "Chiar deasupra portului.",
             "en": "Just above the harbor.",
-            "hr": "Tik iznad luke."
+            "hr": "Iznad luke."
           }
         },
         {
@@ -2408,7 +2491,8 @@
             "de": "Pfarrkirche St. Andreas",
             "hu": "Szent András templom",
             "ro": "Biserica Sf. Andrei",
-            "en": "St. Andrew Church"
+            "en": "St. Andrew Church",
+            "hr": "Crkva sv. Andrije"
           },
           "coords": [
             14.247,
@@ -2432,7 +2516,8 @@
             "de": "Bucht Podkujni",
             "hu": "Podkujni-öböl",
             "ro": "Golful Podkujni",
-            "en": "Podkujni Bay"
+            "en": "Podkujni Bay",
+            "hr": "Uvala Podkujni"
           },
           "coords": [
             14.258,
@@ -2456,7 +2541,8 @@
             "de": "Malo Polje",
             "hu": "Malo Polje",
             "ro": "Malo Polje",
-            "en": "Malo Polje"
+            "en": "Malo Polje",
+            "hr": "Malo Polje"
           },
           "coords": [
             14.25,
@@ -2472,7 +2558,7 @@
             "hu": "Élje át a tiszta természetet.",
             "ro": "Experimentați natura pură.",
             "en": "Experience pure nature.",
-            "hr": "Doživite čistu prirodu."
+            "hr": "Iskusite čistu prirodu."
           }
         },
         {
@@ -2480,7 +2566,8 @@
             "de": "Hafen Abschied",
             "hu": "Búcsú a kikötőben",
             "ro": "Rămas bun la port",
-            "en": "Farewell at the Harbor"
+            "en": "Farewell at the Harbor",
+            "hr": "Oproštaj u luci"
           },
           "coords": [
             14.242,
@@ -2496,7 +2583,7 @@
             "hu": "Várakozás a hajóra.",
             "ro": "Așteptând vaporul.",
             "en": "Waiting for the ship.",
-            "hr": "Čekanje na brod."
+            "hr": "Čekanje broda."
           }
         }
       ],
@@ -2505,7 +2592,7 @@
         "hu": "A tranzit-utazók számára a nap Unije kikötőjében kezdődik. A régi faluközpont és a Szent András-templom meglátogatása után pihentető út vezet a festői Podkujni-öbölbe, ahol a délidőt tölti. A visszavezető út a zöldellő Malo Poljén keresztül visz a kikötőbe, ahol utoljára élvezheti a szigeti hangulatot, mielőtt a komp elindulna.",
         "ro": "Pentru călătorii în tranzit, ziua începe în portul Unije. După o vizită în centrul vechi și la Biserica Sf. Andrei, o potecă relaxantă duce la pitorescul golf Podkujni, unde veți petrece prânzul. Drumul de întoarcere trece prin zona verde Malo Polje înapoi în port, unde vă bucurați de atmosfera insulară o ultimă dată înainte de plecarea feribotului.",
         "en": "For transit travelers, the day begins at the harbor of Unije. After a visit to the old village center and St. Andrew Church, a relaxed path leads to the picturesque Podkujni Bay, where you spend the midday. The return path leads through the green Malo Polje back to the harbor, where you enjoy the island flair one last time before the ferry takes you back.",
-        "hr": "Za putnike u tranzitu, dan počinje u luci Unije. Nakon posjeta staroj jezgri sela i crkvi sv. Andrije, opuštena staza vodi do slikovite uvale Podkujni, gdje provodite podne. Povratna staza vodi kroz zeleno Malo polje natrag u luku, gdje još jednom uživate u otočkom ozračju prije nego što vas trajekt odveze natrag."
+        "hr": "Za tranzitne putnike dan počinje u luci Unije. Nakon posjete starom središtu sela i crkvi sv. Andrije, opuštena staza vodi do slikovite uvale Podkujni, gdje provodite podne. Povratna staza vodi kroz zeleno Malo Polje natrag do luke, gdje posljednji put uživate u otočnom ugođaju prije nego što vas trajekt vrati."
       },
       "gastro_picks": {
         "de": [
@@ -2634,10 +2721,10 @@
           "There is a small cafe in the harbor for waiting time."
         ],
         "hr": [
-          "Katamaran iz Rijeke ili Malog Lošinja je idealan.",
+          "Katamarani iz Rijeke ili Malog Lošinja su idealni.",
           "Provjerite pristaje li brod, često se otkazuje pri jakom vjetru.",
-          "Ponesite zalihe za pješačenje.",
-          "U luci se nalazi mali kafić za vrijeme čekanja."
+          "Ponesite zalihe za pješačenja.",
+          "U luci postoji mala kavana za vrijeme čekanja."
         ]
       },
       "variants": {
@@ -2646,7 +2733,8 @@
             "de": "Für Transit-Reisende beginnt der Tag am Hafen von Unije. Nach einem Besuch im alten Ortskern und der St. Andreas Kirche führt ein entspannter Weg zur malerischen Podkujni Bucht, wo Sie den Mittag verbringen. Der Rückweg führt über das grüne Malo Polje zurück zum Hafen, wo Sie das Inselflair ein letztes Mal genießen, bevor die Fähre Sie wieder mitnimmt.",
             "hu": "A tranzit-utazók számára a nap Unije kikötőjében kezdődik. A régi faluközpont és a Szent András-templom meglátogatása után pihentető út vezet a festői Podkujni-öbölbe, ahol a délidőt tölti. A visszavezető út a zöldellő Malo Poljén keresztül visz a kikötőbe, ahol utoljára élvezheti a szigeti hangulatot, mielőtt a komp elindulna.",
             "ro": "Pentru călătorii în tranzit, ziua începe în portul Unije. După o vizită în centrul vechi și la Biserica Sf. Andrei, o potecă relaxantă duce la pitorescul golf Podkujni, unde veți petrece prânzul. Drumul de întoarcere trece prin zona verde Malo Polje înapoi în port, unde vă bucurați de atmosfera insulară o ultimă dată înainte de plecarea feribotului.",
-            "en": "For transit travelers, the day begins at the harbor of Unije. After a visit to the old village center and St. Andrew Church, a relaxed path leads to the picturesque Podkujni Bay, where you spend the midday. The return path leads through the green Malo Polje back to the harbor, where you enjoy the island flair one last time before the ferry takes you back."
+            "en": "For transit travelers, the day begins at the harbor of Unije. After a visit to the old village center and St. Andrew Church, a relaxed path leads to the picturesque Podkujni Bay, where you spend the midday. The return path leads through the green Malo Polje back to the harbor, where you enjoy the island flair one last time before the ferry takes you back.",
+            "hr": "Za tranzitne putnike dan počinje u luci Unije. Nakon posjete starom središtu sela i crkvi sv. Andrije, opuštena staza vodi do slikovite uvale Podkujni, gdje provodite podne. Povratna staza vodi kroz zeleno Malo Polje natrag do luke, gdje posljednji put uživate u otočnom ugođaju prije nego što vas trajekt vrati."
           },
           "stops": [
             {
@@ -2654,13 +2742,15 @@
                 "de": "Hafen Unije",
                 "hu": "Unije kikötő",
                 "ro": "Portul Unije",
-                "en": "Unije Harbor"
+                "en": "Unije Harbor",
+                "hr": "Luka Unije"
               },
               "tip_5lang": {
                 "de": "Ankunftspunkt der Fähre.",
                 "hu": "A komp érkezési pontja.",
                 "ro": "Punctul de sosire al feribotului.",
-                "en": "Arrival point of the ferry."
+                "en": "Arrival point of the ferry.",
+                "hr": "Mjesto dolaska trajekta."
               }
             },
             {
@@ -2668,13 +2758,15 @@
                 "de": "Der alte Ortskern",
                 "hu": "A régi faluközpont",
                 "ro": "Centrul vechi",
-                "en": "Old Village Center"
+                "en": "Old Village Center",
+                "hr": "Staro selo - centar"
               },
               "tip_5lang": {
                 "de": "Gleich oberhalb des Hafens.",
                 "hu": "Közvetlenül a kikötő felett.",
                 "ro": "Chiar deasupra portului.",
-                "en": "Just above the harbor."
+                "en": "Just above the harbor.",
+                "hr": "Iznad luke."
               }
             },
             {
@@ -2682,13 +2774,15 @@
                 "de": "Pfarrkirche St. Andreas",
                 "hu": "Szent András templom",
                 "ro": "Biserica Sf. Andrei",
-                "en": "St. Andrew Church"
+                "en": "St. Andrew Church",
+                "hr": "Crkva sv. Andrije"
               },
               "tip_5lang": {
                 "de": "Kultureller Mittelpunkt.",
                 "hu": "Kulturális központ.",
                 "ro": "Centrul cultural.",
-                "en": "Cultural center."
+                "en": "Cultural center.",
+                "hr": "Kulturni centar."
               }
             },
             {
@@ -2696,13 +2790,15 @@
                 "de": "Bucht Podkujni",
                 "hu": "Podkujni-öböl",
                 "ro": "Golful Podkujni",
-                "en": "Podkujni Bay"
+                "en": "Podkujni Bay",
+                "hr": "Uvala Podkujni"
               },
               "tip_5lang": {
                 "de": "Ein schöner Spaziergang dorthin.",
                 "hu": "Szép séta vezet oda.",
                 "ro": "O plimbare frumoasă până acolo.",
-                "en": "A beautiful walk to get there."
+                "en": "A beautiful walk to get there.",
+                "hr": "Lijep put za pješačenje do tamo."
               }
             },
             {
@@ -2710,13 +2806,15 @@
                 "de": "Malo Polje",
                 "hu": "Malo Polje",
                 "ro": "Malo Polje",
-                "en": "Malo Polje"
+                "en": "Malo Polje",
+                "hr": "Malo Polje"
               },
               "tip_5lang": {
                 "de": "Natur pur erleben.",
                 "hu": "Élje át a tiszta természetet.",
                 "ro": "Experimentați natura pură.",
-                "en": "Experience pure nature."
+                "en": "Experience pure nature.",
+                "hr": "Iskusite čistu prirodu."
               }
             },
             {
@@ -2724,13 +2822,15 @@
                 "de": "Hafen Abschied",
                 "hu": "Búcsú a kikötőben",
                 "ro": "Rămas bun la port",
-                "en": "Farewell at the Harbor"
+                "en": "Farewell at the Harbor",
+                "hr": "Zbogom u luci"
               },
               "tip_5lang": {
                 "de": "Warten auf das Schiff.",
                 "hu": "Várakozás a hajóra.",
                 "ro": "Așteptând vaporul.",
-                "en": "Waiting for the ship."
+                "en": "Waiting for the ship.",
+                "hr": "Čekanje broda."
               }
             }
           ],
@@ -2840,6 +2940,12 @@
               "Check if the boat docks, it is often cancelled in strong winds.",
               "Take provisions for the hikes.",
               "There is a small cafe in the harbor for waiting time."
+            ],
+            "hr": [
+              "Katamarani iz Rijeke ili Malog Lošinja su idealni.",
+              "Provjerite pristaje li brod, često se otkazuje pri jakom vjetru.",
+              "Ponesite zalihe za pješačenja.",
+              "U luci se nalazi mali kafić za vrijeme čekanja."
             ]
           }
         },
@@ -2849,7 +2955,7 @@
             "hu": "A tömegközlekedéssel kombinált nap Unijén a kikötőben indul, ahová az esőben érkezik meg a hajó. A délelőttöt a falu és a templom védelmében töltjük. Délben az esőszüneteket kihasználva indulunk a Podkujni-öböl felé. Délután Malo Polje felé vesszük az irányt, ahol a táj ilyenkor mélyzöld színekben pompázik. A napot ismét a kikötőben zárjuk, várva a hajót, miközben a hullámok a mólónak csapódnak.",
             "ro": "Ziua de tranzit pe Unije începe în port, unde feribotul acostează prin ploaie. Petrecem dimineața la adăpost în sat și la biserică. La prânz profităm de pauzele dintre averse pentru a merge spre Golful Podkujni. După-amiaza traseul ne duce la Malo Polje, unde peisajul capătă nuanțe de verde intens sub ploaie. Încheiem ziua în port, așteptând cursa de întoarcere, în timp ce valurile se sparg de dig.",
             "en": "The transit day on Unije begins at the harbor as the ferry arrives through the rain. We spend the morning sheltered in the village and the church. At noon, we take advantage of breaks in the rain to head toward Podkujni Bay. In the afternoon, the route leads to Malo Polje, where the landscape appears vividly green. We finish the day at the harbor, waiting for the return ferry as waves crash against the pier.",
-            "hr": "Tranzitni dan na Unijama počinje u luci dok trajekt stiže po kiši. Jutro provodimo zaklonjeni u selu i crkvi. U podne koristimo stanke u kiši kako bismo se uputili prema uvali Podkujni. Poslijepodne ruta vodi do Malog polja, gdje krajolik izgleda izrazito zeleno. Dan završavamo u luci, čekajući povratni trajekt dok valovi udaraju o mol."
+            "hr": "Transitni dan na Unijama počinje u luci kad trajekt stiže kroz kišu. Jutro provodimo zaštićeni u selu i crkvi. U podne koristimo prekide u kiši da krenemo prema uvali Podkujni. Poslijepodne ruta vodi do Malog Polja, gdje krajolik izgleda živo zeleno. Dan završavamo u luci, čekajući povratni trajekt dok valovi udaraju o mol."
           },
           "stops": [
             {
@@ -2859,7 +2965,7 @@
                 "hu": "Maradjon a kikötői épület várótermében, hogy száraz maradjon.",
                 "ro": "Rămâneți în zona de așteptare a clădirii portului pentru a nu vă uda.",
                 "en": "Stay in the sheltered waiting area of the harbor building to stay dry.",
-                "hr": "Ostanite u natkritom dijelu lučke zgrade kako biste ostali suhi."
+                "hr": "Ostanite u zaštićenom prostoru za čekanje u luci da ostanete suhi."
               }
             },
             {
@@ -2869,7 +2975,7 @@
                 "hu": "Használja a házak ereszeit rövid idejű védelemként az eső elől.",
                 "ro": "Folosiți streșinile caselor ca adăpost temporar împotriva ploii.",
                 "en": "Use the overhangs of the stone houses for temporary shelter from rain.",
-                "hr": "Koristite isturene dijelove kamenih kuća kao privremeni zaklon od kiše."
+                "hr": "Koristite nadstrešnice kamenih kuća za privremeni zaklon od kiše."
               }
             },
             {
@@ -2879,7 +2985,7 @@
                 "hu": "Jó hely a menetrend ellenőrzésére és az eső kivárására.",
                 "ro": "Un loc bun pentru a verifica programul și a aștepta trecerea ploii.",
                 "en": "A good place to check your schedule and wait out a passing shower.",
-                "hr": "Dobro mjesto za provjeru rasporeda i čekanje da prođe pljusak."
+                "hr": "Dobar je mjesto za provjeru rasporeda i čekanje prolazne pljuske."
               }
             },
             {
@@ -2899,7 +3005,7 @@
                 "hu": "Ügyeljen az időre, hogy ne késse le a kikötői csatlakozást.",
                 "ro": "Fiți atenți la timp pentru a nu pierde legătura din port.",
                 "en": "Keep an eye on the time to ensure you don't miss your ferry connection.",
-                "hr": "Pazite na vrijeme kako ne biste propustili trajektnu vezu."
+                "hr": "Pazite na vrijeme kako ne biste zakasnili na trajekt."
               }
             },
             {
@@ -2909,7 +3015,7 @@
                 "hu": "Indulás előtt ellenőrizze, hogy a hajó pontosan érkezik-e.",
                 "ro": "Verificați dacă feribotul sosește la timp înainte de ora plecării.",
                 "en": "Check for any delays in the ferry arrival shortly before departure.",
-                "hr": "Provjerite ima li kašnjenja u dolasku trajekta kratko prije polaska."
+                "hr": "Provjerite ima li kašnjenja dolaska trajekta neposredno prije polaska."
               }
             }
           ],
@@ -2943,11 +3049,11 @@
               "Allow extra time for walking between locations in wet conditions."
             ],
             "hr": [
-              "Budite informirani o promjenama u rasporedu trajekata zbog vremenskih uvjeta.",
-              "Nosite vodootpornu odjeću za pješačke dionice između postaja.",
-              "Lučki bar pruža dobar zaklon dok čekate po kiši.",
-              "Putne karte držite pri ruci u vodootpornoj košuljici ili mapi.",
-              "Planirajte dodatno vrijeme za hodanje između lokacija u mokrim uvjetima."
+              "Ostanite informirani o promjenama reda plovidbe zbog vremenskih uvjeta.",
+              "Nosite vodootpornu vanjsku odjeću za dionice hodanja između stajališta.",
+              "Lučki bar pruža dobar zaklon dok čekate na kiši.",
+              "Držite putne karte pri ruci u vodootpornom futroli ili fasciklu.",
+              "Predvidite više vremena za hodanje između lokacija u mokrim uvjetima."
             ]
           }
         },
@@ -2957,7 +3063,7 @@
             "hu": "A téli tömegközlekedés Unijén a hideg kikötőbe való megérkezéssel kezdődik. A délelőttöt a néma falu felfedezésére szánjuk. Délben meglátogatjuk a templomot, majd elindulunk a Podkujni-öböl felé, ahol a téli szél korbácsolja a vizet. Délután Malo Polje felé vesszük az irányt, élvezve a tiszta téli fényeket. Mivel az utolsó hajó gyakran korán indul, időben visszatérünk a kikötőbe az esti hidegben.",
             "ro": "Tranzitul de iarnă pe Unije începe cu sosirea în portul înghețat. Dimineața este dedicată explorării satului tăcut. La prânz vizităm biserica, apoi pornim spre Golful Podkujni, unde vântul de iarnă biciuiește apa. După-amiaza mergem la Malo Polje pentru a profita de lumina clară. Deoarece ultimul feribot pleacă adesea devreme, ne întoarcem din timp în port, pe măsură ce frigul serii se instalează.",
             "en": "Winter transit on Unije starts with arrival at the chilly harbor. We spend the morning exploring the silent village. At noon, we visit the church before heading to Podkujni Bay, where the winter wind whips across the water. In the afternoon, we walk to Malo Polje to catch the clear winter light. Since the last ferry often departs early, we return to the harbor in good time as the evening chill sets in.",
-            "hr": "Zimski tranzit na Unijama počinje dolaskom u prohladnu luku. Jutro provodimo istražujući tiho selo. U podne posjećujemo crkvu prije nego što se uputimo u uvalu Podkujni, gdje zimski vjetar šiba preko vode. Poslijepodne šetamo do Malog polja kako bismo uhvatili bistro zimsko svjetlo. Budući da posljednji trajekt često polazi rano, vraćamo se u luku na vrijeme dok nastupa večernja hladnoća."
+            "hr": "Zimski tranzit na Unijama počinje dolaskom u hladnu luku. Jutro provodimo istražujući tihi gradić. U podne posjećujemo crkvu prije odlaska u uvalu Podkujni, gdje zimski vjetar šiba preko vode. Poslijepodne hodamo do Malog Polja da uhvatimo jasno zimsko svjetlo. Kako posljednji trajekt često polazi rano, vraćamo se na luku na vrijeme dok se spušta večernja hladnoća."
           },
           "stops": [
             {
@@ -2967,7 +3073,7 @@
                 "hu": "A zárt váróteremben keressen menedéket a hideg bóra elől.",
                 "ro": "Adăpostiți-vă în sala de așteptare închisă pentru a evita vântul Bura.",
                 "en": "Take shelter in the enclosed waiting room to avoid the cold Bura wind.",
-                "hr": "Potražite zaklon u zatvorenoj čekaonici kako biste izbjegli hladnu buru."
+                "hr": "Sklonite se u zatvorenu čekaonicu da izbjegnete hladni buri vjetar."
               }
             },
             {
@@ -2977,7 +3083,7 @@
                 "hu": "Látogasson el a kevés nyitva tartó bolt egyikébe egy meleg italért.",
                 "ro": "Vizitați puținele magazine deschise pentru a cumpăra o băutură caldă.",
                 "en": "Visit one of the few open shops to pick up a warm drink.",
-                "hr": "Posjetite jednu od rijetkih otvorenih trgovina kako biste uzeli topli napitak."
+                "hr": "Posjetite jednu od rijetkih otvorenih trgovina za toplu napitak."
               }
             },
             {
@@ -2987,7 +3093,7 @@
                 "hu": "Télen különösen békés csend honol a templom falai között.",
                 "ro": "Iarna, aici stăpânește o liniște deosebit de profundă și pașnică.",
                 "en": "A particularly peaceful silence reigns here during the winter months.",
-                "hr": "Ovdje tijekom zimskih mjeseci vlada posebno spokojan mir."
+                "hr": "Tijekom zimskih mjeseci ovdje vlada posebno mirna tišina."
               }
             },
             {
@@ -2997,7 +3103,7 @@
                 "hu": "A szél télen gyakran közvetlenül a tenger felől fúj itt.",
                 "ro": "Vântul bate adesea direct dinspre mare în această perioadă.",
                 "en": "The wind often blows directly from the sea here in winter.",
-                "hr": "Vjetar ovdje zimi često puše izravno s mora."
+                "hr": "Zimi ovdje često puše vjetar izravno s mora."
               }
             },
             {
@@ -3007,7 +3113,7 @@
                 "hu": "A visszautazáshoz ügyeljen a korai naplementére.",
                 "ro": "Atenție la apusul devreme pentru a planifica drumul de întoarcere.",
                 "en": "Keep the early sunset in mind when planning your return walk.",
-                "hr": "Imajte na umu rani zalazak sunca pri planiranju povratne šetnje."
+                "hr": "Imajte na umu raniji zalazak sunca pri planiranju povratnog hoda."
               }
             },
             {
@@ -3017,7 +3123,7 @@
                 "hu": "Legyen kint a mólón legalább 20 perccel a hajó indulása előtt.",
                 "ro": "Fiți pe dig cu cel puțin 20 de minute înainte de plecarea feribotului.",
                 "en": "Be at the pier at least 20 minutes before the scheduled ferry departure.",
-                "hr": "Budite na molu najmanje 20 minuta prije predviđenog polaska trajekta."
+                "hr": "Budite na molu najmanje 20 minuta prije zakazanog polaska trajekta."
               }
             }
           ],
@@ -3051,11 +3157,11 @@
               "A hand warmer can be very helpful while waiting for the ferry in the cold."
             ],
             "hr": [
-              "Ujutro provjerite je li katamaran otkazan zbog jakog vjetra.",
-              "Obucite se slojevito za hladan prijelaz trajektom preko Jadrana.",
-              "Zimi često postoji samo jedna trajektna veza dnevno s otokom.",
-              "Ponesite termosicu jer lučki kafići mogu biti zatvoreni izvan sezone.",
-              "Grijač za ruke može biti vrlo koristan dok čekate trajekt na hladnoći."
+              "Provjerite ujutro je li katamaran otkazan zbog jakog vjetra.",
+              "Obucite se slojevito za hladno trajektno putovanje preko Jadrana.",
+              "Zimi često postoji samo jedna trajektna veza dnevno za otok.",
+              "Ponesite termosicu jer lučki kafići mogu biti zatvoreni sezonski.",
+              "Ručni grijač može biti vrlo koristan dok čekate trajekt na hladnoći."
             ]
           }
         }

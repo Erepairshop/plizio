@@ -21,7 +21,8 @@
             "de": "Karlovac-Stern (Altstadt)",
             "hu": "Károlyvárosi Csillag (Óváros)",
             "ro": "Steaua Karlovac (Orașul Vechi)",
-            "en": "Karlovac Star (Old Town)"
+            "en": "Karlovac Star (Old Town)",
+            "hr": "Karlovačka Zvijezda (Stari Grad)"
           },
           "coords": [
             15.554,
@@ -37,7 +38,8 @@
             "de": "Bewundern Sie die einzigartige sechseckige Festungsanlage aus der Renaissance.",
             "hu": "Csodálja meg az egyedülálló, hatszögletű reneszánsz erődítményt.",
             "ro": "Admirați fortăreața renascentistă unică, în formă de hexagon.",
-            "en": "Admire the unique hexagonal Renaissance fortress layout."
+            "en": "Admire the unique hexagonal Renaissance fortress layout.",
+            "hr": "Divite se jedinstvenom heksagonalnom renesansnom rasporedu utvrde."
           }
         },
         {
@@ -45,7 +47,8 @@
             "de": "Franziskanerkloster und Museum",
             "hu": "Ferences kolostor és múzeum",
             "ro": "Mănăstirea și Muzeul Franciscan",
-            "en": "Franciscan Monastery and Museum"
+            "en": "Franciscan Monastery and Museum",
+            "hr": "Franjevački samostan i muzej"
           },
           "coords": [
             15.556,
@@ -61,7 +64,8 @@
             "de": "Das Museum beherbergt eine beeindruckende Sammlung sakraler Kunst.",
             "hu": "A múzeum lenyűgöző szakrális művészeti gyűjteménynek ad otthont.",
             "ro": "Muzeul găzduiește o colecție impresionantă de artă sacră.",
-            "en": "The museum houses an impressive collection of sacral art."
+            "en": "The museum houses an impressive collection of sacral art.",
+            "hr": "Muzej posjeduje impresivnu zbirku sakralne umjetnosti."
           }
         },
         {
@@ -69,7 +73,8 @@
             "de": "Kirche St. Nikolaus",
             "hu": "Szent Miklós-templom",
             "ro": "Biserica Sf. Nicolae",
-            "en": "Church of St. Nicholas"
+            "en": "Church of St. Nicholas",
+            "hr": "Crkva sv. Nikole"
           },
           "coords": [
             15.557,
@@ -85,7 +90,8 @@
             "de": "Achten Sie auf die wunderschöne Ikonostase in dieser serbisch-orthodoxen Kirche.",
             "hu": "Figyelje meg a gyönyörű ikonosztázt ebben a szerb ortodox templomban.",
             "ro": "Observați frumoasa iconostas din această biserică ortodoxă sârbă.",
-            "en": "Notice the beautiful iconostasis in this Serbian Orthodox church."
+            "en": "Notice the beautiful iconostasis in this Serbian Orthodox church.",
+            "hr": "Primijetite prekrasan ikonostas u ovoj Srpskoj pravoslavnoj crkvi."
           }
         },
         {
@@ -93,7 +99,8 @@
             "de": "Museum des Heimatkriegs",
             "hu": "Honvédő Háború Múzeuma",
             "ro": "Muzeul Războiului de Independență",
-            "en": "Museum of the Homeland War"
+            "en": "Museum of the Homeland War",
+            "hr": "Muzej Domovinskog rata"
           },
           "coords": [
             15.549,
@@ -109,7 +116,8 @@
             "de": "Ein bewegendes Museum, das der jüngeren Geschichte Kroatiens gewidmet ist.",
             "hu": "Egy megindító múzeum, amelyet Horvátország közelmúltjának szenteltek.",
             "ro": "Un muzeu emoționant dedicat istoriei recente a Croației.",
-            "en": "A moving museum dedicated to Croatia's recent history."
+            "en": "A moving museum dedicated to Croatia's recent history.",
+            "hr": "Dirljiv muzej posvećen nedavnoj hrvatskoj povijesti."
           }
         },
         {
@@ -117,7 +125,8 @@
             "de": "Aquatika - Süßwasseraquarium",
             "hu": "Aquatika - Édesvízi Akvárium",
             "ro": "Aquatika - Acvariul de apă dulce",
-            "en": "Aquatika - Freshwater Aquarium"
+            "en": "Aquatika - Freshwater Aquarium",
+            "hr": "Aquatika - slatkovodni akvarij"
           },
           "coords": [
             15.542,
@@ -133,7 +142,8 @@
             "de": "Entdecken Sie die reiche Unterwasserwelt der kroatischen Flüsse und Seen.",
             "hu": "Fedezze fel a horvát folyók és tavak gazdag vízi világát.",
             "ro": "Descoperiți bogata lume subacvatică a râurilor și lacurilor croate.",
-            "en": "Discover the rich underwater world of Croatian rivers and lakes."
+            "en": "Discover the rich underwater world of Croatian rivers and lakes.",
+            "hr": "Otkrijte bogati podvodni svijet hrvatskih rijeka i jezera."
           }
         },
         {
@@ -141,7 +151,8 @@
             "de": "Foginovo Strandbad",
             "hu": "Foginovo strand",
             "ro": "Plaja Foginovo",
-            "en": "Foginovo Beach"
+            "en": "Foginovo Beach",
+            "hr": "Plaža Foginovo"
           },
           "coords": [
             15.545,
@@ -157,7 +168,8 @@
             "de": "Der perfekte Ort, um sich an einem warmen Tag im Fluss Korana abzukühlen.",
             "hu": "Tökéletes hely a felüdülésre a Korana folyóban egy meleg napon.",
             "ro": "Locul perfect pentru a vă răcori în râul Korana într-o zi călduroasă.",
-            "en": "The perfect place to cool off in the Korana river on a warm day."
+            "en": "The perfect place to cool off in the Korana river on a warm day.",
+            "hr": "Savršeno mjesto za osvježenje u rijeci Korani na toplom danu."
           }
         },
         {
@@ -165,7 +177,8 @@
             "de": "Burg Dubovac",
             "hu": "Dubovac vára",
             "ro": "Castelul Dubovac",
-            "en": "Dubovac Castle"
+            "en": "Dubovac Castle",
+            "hr": "Gradina Dubovac"
           },
           "coords": [
             15.529,
@@ -181,7 +194,8 @@
             "de": "Genießen Sie den Panoramablick über Karlovac von diesem mittelalterlichen Schloss.",
             "hu": "Élvezze a panorámát Károlyvárosra ebből a középkori várból.",
             "ro": "Bucurați-vă de vederea panoramică asupra Karlovacului de la acest castel medieval.",
-            "en": "Enjoy the panoramic view over Karlovac from this medieval castle."
+            "en": "Enjoy the panoramic view over Karlovac from this medieval castle.",
+            "hr": "Uživajte u panoramskom pogledu na Karlovac s ove srednjovjekovne utvrde."
           }
         }
       ],
@@ -189,7 +203,8 @@
         "de": "Beginnen Sie Ihren Tag im Herzen von Karlovac, dem einzigartigen Festungsstern. Am Morgen erkunden Sie das historische Zentrum und seine Kirchen. Mittags tauchen Sie in die jüngere und aquatische Geschichte der Region ein. Der Nachmittag ist der Entspannung am Fluss und dem Aufstieg zur mittelalterlichen Burg für eine atemberaubende Aussicht gewidmet. Schließen Sie den Tag mit einem traditionellen Abendessen ab und lassen Sie die Eindrücke dieser Stadt der vier Flüsse auf sich wirken.",
         "hu": "Kezdje a napot Károlyváros szívében, az egyedülálló csillagerődben. Délelőtt fedezze fel a történelmi központot és templomait. Délben merüljön el a régió közelmúltjában és vízi világában. A délután a folyóparti pihenésé és a középkori várhoz való felsétálásé, ahonnan lélegzetelállító a kilátás. Zárja a napot egy hagyományos vacsorával, és élvezze a négy folyó városának benyomásait.",
         "ro": "Începeți ziua în inima Karlovacului, fortăreața unică în formă de stea. Dimineața explorați centrul istoric și bisericile sale. La prânz, scufundați-vă în istoria acvatică și recentă a regiunii. După-amiaza este dedicată relaxării pe malul râului și urcării la castelul medieval pentru priveliști uimitoare. Încheiați ziua cu o cină tradițională, reflectând la impresiile acestui oraș al celor patru râuri.",
-        "en": "Start your day in the heart of Karlovac, the unique fortress star. In the morning, explore the historic center and its churches. At midday, dive into the region's recent and aquatic history. The afternoon is for relaxing by the river and climbing to the medieval castle for stunning views. End the day with a traditional dinner, reflecting on the impressions of this city of four rivers."
+        "en": "Start your day in the heart of Karlovac, the unique fortress star. In the morning, explore the historic center and its churches. At midday, dive into the region's recent and aquatic history. The afternoon is for relaxing by the river and climbing to the medieval castle for stunning views. End the day with a traditional dinner, reflecting on the impressions of this city of four rivers.",
+        "hr": "Započnite dan u srcu Karlovca, jedinstvene zvijezde utvrde. Ujutro istražite povijesno središte i njegove crkve. U podne zaronite u nedavnu i vodenu povijest regije. Poslijepodne odvojite za opuštanje uz rijeku i uspon na srednjovjekovnu utvrdu za zadivljujuće poglede. Završite dan tradicionalnom večerom i razmišljanjem o dojmovima ovog grada četiri rijeke."
       },
       "gastro_picks": {
         "de": [
@@ -385,6 +400,12 @@
           "Bring a swimsuit for Foginovo Beach in warm weather.",
           "Check the opening hours of the museums in advance.",
           "Much of the old town is pedestrian-friendly, making it a pleasant walk."
+        ],
+        "hr": [
+          "Nosite udobnu obuću jer ćete puno hodati.",
+          "Ponesite kupaći kostim za plažu Foginovo kad je toplo.",
+          "Provjerite radno vrijeme muzeja unaprijed.",
+          "Veći dio starog grada prilagođen je pješacima, što ga čini ugodnim za šetnju."
         ]
       },
       "variants": {
@@ -393,7 +414,8 @@
             "de": "Der Morgen beginnt im Schutz der Arkaden der historischen Karlovac-Sterne. Der Regen trommelt auf das Kopfsteinpflaster, während Sie Klöster besuchen.\nMittags bietet das Museum des Heimatkrieges in Turanj trockene Ausstellungsräume, um die Geschichte zu erkunden.\nNachmittags tauchen Sie im Aquatika in die Unterwelt der Flüsse ein, ein perfekter Zufluchtsort vor dem nassen Wetter.\nDer Tag endet auf der Burg Dubovac mit mystischem Blick auf die nebligen Flüsse.",
             "hu": "A reggel a Csillag árkádjai alatt indul, ahol a kolostor falaiban találunk menedéket a szemerkélő eső elől.\nDélben a délszláv háború múzeumának belső kiállításaiban merülhetünk el, távol a nedves utcáktól.\nDélután az Aquatika édesvízi akváriuma nyújt tökéletes, fedett programot a folyók élővilágával.\nAz estét a Dubovac-várban zárjuk, ahonnan a ködbe burkolózó folyók látványa különleges hangulatot áraszt.",
             "ro": "Dimineața începe sub arcadele Stelei din Karlovac, unde mănăstirile oferă adăpost împotriva ploii constante.\nLa prânz, Muzeul Războiului de Independență oferă spații interioare fascinante pentru a învăța despre istoria locală.\nDupă-amiaza este dedicată acvariului Aquatika, un loc perfect acoperit pentru a descoperi fauna râurilor.\nSeara se încheie la Castelul Dubovac, unde priveliștea peste râurile învăluite în ceață este dramatică.",
-            "en": "Start your morning under the historic arcades of the Karlovac Star, seeking shelter in the monastery halls.\nBy midday, the Homeland War Museum provides a profound indoor exploration of the city's resilient history.\nSpend the afternoon at Aquatika, a perfect indoor escape to discover the local river life.\nConclude your day at Dubovac Castle, where the rainy mist over the four rivers creates a mysterious atmosphere."
+            "en": "Start your morning under the historic arcades of the Karlovac Star, seeking shelter in the monastery halls.\nBy midday, the Homeland War Museum provides a profound indoor exploration of the city's resilient history.\nSpend the afternoon at Aquatika, a perfect indoor escape to discover the local river life.\nConclude your day at Dubovac Castle, where the rainy mist over the four rivers creates a mysterious atmosphere.",
+            "hr": "Započnite jutro pod povijesnim arkadama Karlovačke Zvijezde, tražeći zaklon u samostanskim dvoranama. U podne Muzej Domovinskog rata pruža duboko unutarnje razgledavanje otporne povijesti grada. Poslijepodne provedite u Aquatiki, savršenom unutarnjem bijegu za otkrivanje lokalnog riječnog života. Dan zaključite na Gradini Dubovac, gdje kišna izmaglica nad četiri rijeke stvara tajanstvenu atmosferu."
           },
           "stops": [
             {
@@ -402,7 +424,8 @@
                 "de": "Nutzen Sie die Arkaden für trockene Spaziergänge.",
                 "hu": "Használja az árkádokat a száraz sétához.",
                 "ro": "Folosiți arcadele pentru plimbări uscate.",
-                "en": "Use the arcades for dry walks."
+                "en": "Use the arcades for dry walks.",
+                "hr": "Iskoristite arkade za suhe šetnje."
               }
             },
             {
@@ -411,7 +434,8 @@
                 "de": "Idealer Ort, um den stärksten Regen abzuwarten.",
                 "hu": "Ideális hely a legerősebb eső kivárására.",
                 "ro": "Loc ideal pentru a aștepta trecerea ploii torențiale.",
-                "en": "Ideal place to wait out the heaviest rain."
+                "en": "Ideal place to wait out the heaviest rain.",
+                "hr": "Idealno mjesto za pričekati najjaču kišu."
               }
             },
             {
@@ -420,7 +444,8 @@
                 "de": "Bewundern Sie die Ikonostase im trockenen Innenraum.",
                 "hu": "Csodálja meg az ikonosztázt a száraz belső térben.",
                 "ro": "Admirați iconostasul în interiorul uscat.",
-                "en": "Admire the iconostasis in the dry interior."
+                "en": "Admire the iconostasis in the dry interior.",
+                "hr": "Divite se ikonostasu u suhom interijeru."
               }
             },
             {
@@ -429,7 +454,8 @@
                 "de": "Die Innenkabinen der Fahrzeuge bieten Schutz.",
                 "hu": "A járművek belső kabinjai védelmet nyújtanak.",
                 "ro": "Cabinele interioare ale vehiculelor oferă adăpost.",
-                "en": "Inner cabins of vehicles provide shelter."
+                "en": "Inner cabins of vehicles provide shelter.",
+                "hr": "Unutarnje kabine vozila pružaju zaklon."
               }
             },
             {
@@ -438,7 +464,8 @@
                 "de": "Komplett überdacht, perfekt für Regentage.",
                 "hu": "Teljesen fedett, tökéletes esős napokra.",
                 "ro": "Complet acoperit, perfect pentru zilele ploioase.",
-                "en": "Completely covered, perfect for rainy days."
+                "en": "Completely covered, perfect for rainy days.",
+                "hr": "Potpuno natkriveno, savršeno za kišne dane."
               }
             },
             {
@@ -447,7 +474,8 @@
                 "de": "Die Pavillons am Ufer bieten Schutz vor Regen.",
                 "hu": "A parti pavilonok védelmet nyújtanak az eső ellen.",
                 "ro": "Pavilioanele de pe mal oferă adăpost împotriva ploii.",
-                "en": "Riverside pavilions provide shelter from the rain."
+                "en": "Riverside pavilions provide shelter from the rain.",
+                "hr": "Paviljoni uz rijeku pružaju zaklon od kiše."
               }
             },
             {
@@ -456,7 +484,8 @@
                 "de": "Das Restaurant im Turm ist ein gemütlicher Rückzugsort.",
                 "hu": "A toronyban lévő étterem hangulatos menedék.",
                 "ro": "Restaurantul din turn este un refugiu primitor.",
-                "en": "The restaurant in the tower is a cozy retreat."
+                "en": "The restaurant in the tower is a cozy retreat.",
+                "hr": "Restoran u tornju je ugodan zaklon."
               }
             }
           ],
@@ -484,6 +513,12 @@
               "A poncho is more practical than an umbrella on the windy riverbanks.",
               "Schedule museum visits during the heaviest downpours.",
               "Paths along the Korana can become slippery when wet."
+            ],
+            "hr": [
+              "Nosite vodootpornu obuću jer se na kaldrmi stvaraju lokve.",
+              "Pončo je praktičniji od kišobrana na vjetrovitim obalama rijeke.",
+              "Rasporedite posjete muzejima tijekom najjačih pljuskova.",
+              "Staze uz Koranu mogu postati klizave kad su mokre."
             ]
           }
         },
@@ -492,7 +527,8 @@
             "de": "Ein frischer Wintermorgen in der sternförmigen Altstadt, wo die Luft klar und kalt ist.\nMittags wärmen Sie sich in den modernen Ausstellungsräumen der Museen auf und erfahren mehr über die Geschichte.\nAm Nachmittag bietet das Aquatika eine behagliche Umgebung, bevor die Sonne früh untergeht.\nDer Abend auf der Burg Dubovac wird durch die Beleuchtung der Stadt und die winterliche Stille gekrönt.",
             "hu": "A téli reggel friss levegője járja át a csillag alakú óvárost, ahol a barokk épületek fagyosak.\nDélben a múzeumok fűtött termeiben melegedhetünk fel, mélyebb betekintést nyerve a történelembe.\nDélután az Aquatika üvegfalai mögött csodálhatjuk meg a halakat a korai naplemente előtt.\nAz estét a Dubovac-vár dombján zárjuk, ahol a kivilágított város látványa melenget a hidegben.",
             "ro": "O dimineață de iarnă crocantă în centrul vechi, unde aerul rece scoate în evidență arhitectura.\nLa prânz, interiorul încălzit al muzeelor oferă un refugiu binevenit și o lecție de istorie.\nDupă-amiaza, Aquatika oferă un mediu primitor înainte de apusul timpuriu al soarelui.\nSeara la Castelul Dubovac este marcată de liniștea iernii și de luminile orașului reflectate în ape.",
-            "en": "A crisp winter morning in the star-shaped old town, where the cold air is fresh and sharp.\nAt midday, warm up inside the modern museum exhibits, reflecting on the city's storied past.\nAfternoon brings a cozy visit to Aquatika, showcasing river life just before the early sunset.\nFinish the evening at Dubovac Castle, enjoying the panoramic view of the illuminated city in the silence."
+            "en": "A crisp winter morning in the star-shaped old town, where the cold air is fresh and sharp.\nAt midday, warm up inside the modern museum exhibits, reflecting on the city's storied past.\nAfternoon brings a cozy visit to Aquatika, showcasing river life just before the early sunset.\nFinish the evening at Dubovac Castle, enjoying the panoramic view of the illuminated city in the silence.",
+            "hr": "Hladno zimsko jutro u zvjezdastom starom gradu, gdje je hladan zrak svjež i oštar. U podne se ugrijte u modernim muzejskim postavima, razmišljajući o bogatoj povijesti grada. Poslijepodne donosi ugodan posjet Aquatici, koja prikazuje riječni život neposredno prije ranog zalaska sunca. Večer završite na Gradini Dubovac, uživajući u panoramskom pogledu na osvijetljeni grad u tišini."
           },
           "stops": [
             {
@@ -501,7 +537,8 @@
                 "de": "Vorsicht bei Frost auf dem Kopfsteinpflaster.",
                 "hu": "Vigyázzon a fagyos macskaköveken.",
                 "ro": "Atenție la pavajul înghețat.",
-                "en": "Be careful on the frozen cobblestones."
+                "en": "Be careful on the frozen cobblestones.",
+                "hr": "Budite oprezni na zaleđenoj kaldrmi."
               }
             },
             {
@@ -510,7 +547,8 @@
                 "de": "Die dicken Mauern halten die Kälte draußen.",
                 "hu": "A vastag falak kint tartják a hideget.",
                 "ro": "Zidurile groase țin frigul la distanță.",
-                "en": "The thick walls keep the cold at bay."
+                "en": "The thick walls keep the cold at bay.",
+                "hr": "Debeli zidovi drže toplinu unutra."
               }
             },
             {
@@ -519,7 +557,8 @@
                 "de": "Ein ruhiger, warmer Ort für eine kurze Rast.",
                 "hu": "Csendes, meleg hely egy rövid pihenőre.",
                 "ro": "Un loc liniștit și cald pentru o scurtă pauză.",
-                "en": "A quiet, warm place for a short rest."
+                "en": "A quiet, warm place for a short rest.",
+                "hr": "Tih, topao prostor za kratki odmor."
               }
             },
             {
@@ -528,7 +567,8 @@
                 "de": "Besuchen Sie zuerst die Außenausstellung bei Tageslicht.",
                 "hu": "A kültéri kiállítást még nappali fénynél nézze meg.",
                 "ro": "Vizitați expoziția în aer liber cât încă este lumină.",
-                "en": "Visit the outdoor exhibition while there is still daylight."
+                "en": "Visit the outdoor exhibition while there is still daylight.",
+                "hr": "Posjetite vanjsku izložbu dok još ima dnevnog svjetla."
               }
             },
             {
@@ -537,7 +577,8 @@
                 "de": "Hinter Glas ist es angenehm warm.",
                 "hu": "Az üvegfalak mögött kellemesen meleg az idő.",
                 "ro": "Este plăcut de cald în spatele geamurilor.",
-                "en": "It is pleasantly warm behind the glass walls."
+                "en": "It is pleasantly warm behind the glass walls.",
+                "hr": "Iza staklenih zidova ugodno je toplo."
               }
             },
             {
@@ -546,7 +587,8 @@
                 "de": "Genießen Sie die klare Winterluft am Flussufer.",
                 "hu": "Élvezze a friss téli leveőt a folyóparton.",
                 "ro": "Bucurați-vă de aerul curat de iarnă pe malul râului.",
-                "en": "Enjoy the fresh winter air on the riverbank."
+                "en": "Enjoy the fresh winter air on the riverbank.",
+                "hr": "Uživajte u svježem zimskom zraku na obali rijeke."
               }
             },
             {
@@ -555,7 +597,8 @@
                 "de": "Der Aufstieg zum Turm wärmt bei kalten Temperaturen.",
                 "hu": "A toronyba való feljutás megmozgat a hidegben.",
                 "ro": "Urcarea în turn vă va încălzi în zilele reci.",
-                "en": "Climbing the tower will warm you up on cold days."
+                "en": "Climbing the tower will warm you up on cold days.",
+                "hr": "Uspon na toranj ugrijat će vas u hladnim danima."
               }
             }
           ],
@@ -583,6 +626,12 @@
               "The sun sets as early as 16:30 during winter.",
               "Combine outdoor sightseeing with long museum stays.",
               "Watch out for black ice on the bridges and paths."
+            ],
+            "hr": [
+              "Obucite se slojevito; vjetar s rijeka je oštar.",
+              "Sunce zalazi već oko 16:30 zimi.",
+              "Kombinirajte razgledavanje na otvorenom s dugim boravcima u muzejima.",
+              "Pazite na crni led na mostovima i stazama."
             ]
           }
         }
@@ -601,7 +650,8 @@
             "de": "Burg Dubovac",
             "hu": "Dubovac vára",
             "ro": "Castelul Dubovac",
-            "en": "Dubovac Castle"
+            "en": "Dubovac Castle",
+            "hr": "Stari grad Dubovac"
           },
           "coords": [
             15.529,
@@ -617,7 +667,8 @@
             "de": "Beginnen Sie Ihren Tag mit einer großartigen Aussicht, bevor Sie in die Stadt hinabfahren.",
             "hu": "Kezdje a napot egy remek kilátással, mielőtt legurul a városba.",
             "ro": "Începeți ziua cu o priveliște minunată înainte de a coborî cu bicicleta în oraș.",
-            "en": "Start your day with a great view before cycling down into the city."
+            "en": "Start your day with a great view before cycling down into the city.",
+            "hr": "Započnite dan s odličnim pogledom prije vožnje biciklom niz grad."
           }
         },
         {
@@ -625,7 +676,8 @@
             "de": "Aquatika - Süßwasseraquarium",
             "hu": "Aquatika - Édesvízi Akvárium",
             "ro": "Aquatika - Acvariul de apă dulce",
-            "en": "Aquatika - Freshwater Aquarium"
+            "en": "Aquatika - Freshwater Aquarium",
+            "hr": "Aquatika - slatkovodni akvarij"
           },
           "coords": [
             15.542,
@@ -641,7 +693,8 @@
             "de": "Ein schöner Radweg führt am Fluss entlang zum Aquarium.",
             "hu": "Szép kerékpárút vezet a folyó mentén az akváriumhoz.",
             "ro": "O pistă de biciclete frumoasă duce la acvariu de-a lungul râului.",
-            "en": "A nice cycle path leads to the aquarium along the river."
+            "en": "A nice cycle path leads to the aquarium along the river.",
+            "hr": "Lijepa biciklistička staza vodi do akvarija uz rijeku."
           }
         },
         {
@@ -649,7 +702,8 @@
             "de": "Museum des Heimatkriegs",
             "hu": "Honvédő Háború Múzeuma",
             "ro": "Muzeul Războiului de Independență",
-            "en": "Museum of the Homeland War"
+            "en": "Museum of the Homeland War",
+            "hr": "Muzej Domovinskog rata"
           },
           "coords": [
             15.549,
@@ -665,7 +719,8 @@
             "de": "Nur eine kurze Radtour vom Aquarium entfernt, um mehr über die lokale Geschichte zu erfahren.",
             "hu": "Csak egy rövid biciklizésre az akváriumtól, hogy többet tudjon meg a helyi történelemről.",
             "ro": "La doar o scurtă plimbare cu bicicleta de la acvariu pentru a afla despre istoria locală.",
-            "en": "Just a short bike ride from the aquarium to learn about local history."
+            "en": "Just a short bike ride from the aquarium to learn about local history.",
+            "hr": "Samo kratka vožnja biciklom od akvarija za upoznavanje lokalne povijesti."
           }
         },
         {
@@ -673,7 +728,8 @@
             "de": "Karlovac-Stern (Altstadt)",
             "hu": "Károlyvárosi Csillag (Óváros)",
             "ro": "Steaua Karlovac (Orașul Vechi)",
-            "en": "Karlovac Star (Old Town)"
+            "en": "Karlovac Star (Old Town)",
+            "hr": "Karlovačka Zvijezda (Stari grad)"
           },
           "coords": [
             15.554,
@@ -689,7 +745,8 @@
             "de": "Stellen Sie Ihr Fahrrad ab und erkunden Sie die Gassen der Festung zu Fuß.",
             "hu": "Tegye le a biciklit, és fedezze fel gyalog az erőd sikátorait.",
             "ro": "Parcați bicicleta și explorați pe jos aleile fortăreței.",
-            "en": "Park your bike and explore the alleys of the fortress on foot."
+            "en": "Park your bike and explore the alleys of the fortress on foot.",
+            "hr": "Ostavite bicikl i istražite uličice utvrde pješice."
           }
         },
         {
@@ -697,7 +754,8 @@
             "de": "Vrbanić-Garten",
             "hu": "Vrbanić-kert",
             "ro": "Grădina Vrbanić",
-            "en": "Vrbanić Garden"
+            "en": "Vrbanić Garden",
+            "hr": "Vrbanićev vrt"
           },
           "coords": [
             15.562,
@@ -713,7 +771,8 @@
             "de": "Ein schöner Ort für eine Pause, bevor Sie zum Fluss weiterfahren.",
             "hu": "Szép hely egy kis pihenőre, mielőtt tovább tekersz a folyóhoz.",
             "ro": "Un loc frumos pentru o pauză înainte de a continua spre râu.",
-            "en": "A lovely place for a break before you continue to the river."
+            "en": "A lovely place for a break before you continue to the river.",
+            "hr": "Lijepo mjesto za odmor prije nastavka prema rijeci."
           }
         },
         {
@@ -721,7 +780,8 @@
             "de": "Foginovo Strandbad",
             "hu": "Foginovo strand",
             "ro": "Plaja Foginovo",
-            "en": "Foginovo Beach"
+            "en": "Foginovo Beach",
+            "hr": "Plaža Foginovo"
           },
           "coords": [
             15.545,
@@ -737,7 +797,8 @@
             "de": "Beenden Sie Ihre Radtour mit einem erfrischenden Bad im Fluss Korana.",
             "hu": "Zárja a kerékpártúrát egy frissítő fürdővel a Korana folyóban.",
             "ro": "Încheiați turul cu bicicleta cu o baie răcoritoare în râul Korana.",
-            "en": "End your bike tour with a refreshing dip in the Korana river."
+            "en": "End your bike tour with a refreshing dip in the Korana river.",
+            "hr": "Završite biciklističku turu osvježavajućim kupanjem u rijeci Korani."
           }
         }
       ],
@@ -745,7 +806,8 @@
         "de": "Starten Sie auf der Burg Dubovac für einen Panoramablick und radeln Sie dann hinunter zum Fluss, um das Aquatika zu besuchen. Mittags erkunden Sie die bewegte Geschichte im Heimatkriegsmuseum, bevor Sie in die sternförmige Altstadt fahren. Am Nachmittag entspannen Sie im Vrbanić-Garten und beenden den Tag mit einem Bad am beliebten Foginovo-Flussstrand. Diese Tour verbindet Kultur, Geschichte und Natur auf zwei Rädern.",
         "hu": "Induljon a Dubovac várból a panorámáért, majd tekerjen le a folyóhoz az Aquatika meglátogatásához. Délben fedezze fel a megindító történelmet a Honvédő Háború Múzeumában, mielőtt a csillag alakú óvárosba kerekezik. Délután pihenjen a Vrbanić-kertben, és fejezze be a napot egy fürdőzéssel a népszerű Foginovo folyóparti strandon. Ez a túra ötvözi a kultúrát, a történelmet és a természetet két keréken.",
         "ro": "Începeți la Castelul Dubovac pentru o vedere panoramică, apoi coborâți cu bicicleta la râu pentru a vizita Aquatika. La prânz, explorați istoria emoționantă la Muzeul Războiului de Independență înainte de a pedala spre orașul vechi în formă de stea. După-amiaza, relaxați-vă în Grădina Vrbanić și încheiați ziua cu o baie la populara plajă fluvială Foginovo. Acest tur combină cultura, istoria și natura pe două roți.",
-        "en": "Start at Dubovac Castle for a panoramic view, then cycle down to the river to visit Aquatika. At midday, explore the moving history at the Homeland War Museum before cycling to the star-shaped old town. In the afternoon, relax in the Vrbanić Garden and end the day with a swim at the popular Foginovo river beach. This tour combines culture, history, and nature on two wheels."
+        "en": "Start at Dubovac Castle for a panoramic view, then cycle down to the river to visit Aquatika. At midday, explore the moving history at the Homeland War Museum before cycling to the star-shaped old town. In the afternoon, relax in the Vrbanić Garden and end the day with a swim at the popular Foginovo river beach. This tour combines culture, history, and nature on two wheels.",
+        "hr": "Započnite na Dubovcu za panoramski pogled, zatim spustite bicikl do rijeke i posjetite Aquatiku. U podne istražite pomaknutu povijest u Muzeju Domovinskog rata prije vožnje prema zvjezdastom starom gradu. Poslijepodne se opustite u Vrbanićevu vrtu i završite dan kupanjem na popularnoj Foginovoj riječnoj plaži. Ova tura kombinira kulturu, povijest i prirodu na dva kotača."
       },
       "gastro_picks": {
         "de": [
@@ -941,6 +1003,12 @@
           "The city is relatively flat, but the climb to the castle requires some effort.",
           "Be mindful of pedestrians on the shared paths along the rivers.",
           "Some streets in the old town are cobblestoned, so ride with care."
+        ],
+        "hr": [
+          "Uvijek dobro zaključajte bicikl kad ga ostavljate.",
+          "Grad je relativno ravan, ali uspon do dvorca zahtijeva trud.",
+          "Pazite na pješake na zajedničkim stazama uz rijeke.",
+          "Neke ulice u starom gradu popločane su kaldrmom, vozite oprezno."
         ]
       },
       "variants": {
@@ -949,7 +1017,8 @@
             "de": "Trotz Regen bietet die Radtour durch Karlovac reizvolle Einblicke in die Stadt der vier Flüsse.\nAm Vormittag erkunden Sie die Burg Dubovac, bevor Sie durch die nassen Parks zum Aquatika radeln.\nMittags bietet das Heimatkriegsmuseum in Turanj einen interessanten Zwischenstopp im Trockenen.\nDer Tag endet mit einer Fahrt durch die Altstadt, wo die nassen Steine die Lichter spiegeln.",
             "hu": "Az eső ellenére a kerékpártúra Karlovacban izgalmas betekintést nyújt a négy folyó városába.\nDélelőtt a Dubovac-várat fedezzük fel, majd a nedves parkokon át az Aquatikához tekerünk.\nDélben a délszláv háború múzeuma nyújt száraz és tanulságos pihenőt.\nA napot az óvárosi tekeréssel zárjuk, ahol a vizes kövek tükrözik a város fényeit.",
             "ro": "În ciuda ploii, turul cu bicicleta prin Karlovac oferă perspective inedite asupra orașului celor patru râuri.\nDimineața explorați Castelul Dubovac înainte de a pedala prin parcurile umede spre Aquatika.\nLa prânz, Muzeul Războiului de Independență oferă o oprire interesantă și uscată.\nZiua se încheie cu o plimbare prin centrul vechi, unde pavajul umed reflectă luminile.",
-            "en": "Despite the rain, cycling through Karlovac offers unique views of the city of four rivers.\nIn the morning, explore Dubovac Castle before riding through lush, wet parks toward Aquatika.\nAt midday, the Homeland War Museum in Turanj provides an educational and dry stopover.\nThe day ends with a ride through the Old Town, where the wet stones mirror the city lights."
+            "en": "Despite the rain, cycling through Karlovac offers unique views of the city of four rivers.\nIn the morning, explore Dubovac Castle before riding through lush, wet parks toward Aquatika.\nAt midday, the Homeland War Museum in Turanj provides an educational and dry stopover.\nThe day ends with a ride through the Old Town, where the wet stones mirror the city lights.",
+            "hr": "Unatoč kiši, vožnja biciklom kroz Karlovac nudi jedinstvene poglede na grad četiri rijeke.\nUjutro istražite Dubovac prije vožnje kroz bujne, mokre parkove prema Aquatiki.\nU podne Muzej Domovinskog rata u Turanj pruža poučan i suh predah.\nDan završava vožnjom kroz Stari grad, gdje mokri kamen odražava gradska svjetla."
           },
           "stops": [
             {
@@ -958,7 +1027,8 @@
                 "de": "Stellen Sie Ihr Rad unter dem Torbogen ab.",
                 "hu": "A kapualj alatt biztonságban lelakatolhatja a biciklit.",
                 "ro": "Lăsați bicicleta sub arcada porții.",
-                "en": "Park your bike under the gateway arch."
+                "en": "Park your bike under the gateway arch.",
+                "hr": "Parkirajte bicikl ispod luka kapije."
               }
             },
             {
@@ -967,7 +1037,8 @@
                 "de": "Nutzen Sie die überdachten Fahrradständer am Eingang.",
                 "hu": "Használja a fedett kerékpártárolókat a bejáratnál.",
                 "ro": "Folosiți rastelele acoperite de la intrare.",
-                "en": "Use the covered bike racks at the entrance."
+                "en": "Use the covered bike racks at the entrance.",
+                "hr": "Iskoristite natkrivene stalke za bicikle na ulazu."
               }
             },
             {
@@ -976,7 +1047,8 @@
                 "de": "Vorsicht auf dem unbefestigten Gelände bei Regen.",
                 "hu": "Vigyázzon a laza talajon esőzés idején.",
                 "ro": "Atenție pe terenul neasfaltat în timpul ploii.",
-                "en": "Be careful on the unpaved ground during rain."
+                "en": "Be careful on the unpaved ground during rain.",
+                "hr": "Budite oprezni na neasfaltiranom tlu tijekom kiše."
               }
             },
             {
@@ -985,7 +1057,8 @@
                 "de": "Reduzieren Sie die Geschwindigkeit auf nassem Kopfsteinpflaster.",
                 "hu": "Lassítson a vizes macskaköves utakon.",
                 "ro": "Reduceți viteza pe pavajul umed.",
-                "en": "Reduce speed on wet cobblestones."
+                "en": "Reduce speed on wet cobblestones.",
+                "hr": "Smanjite brzinu na mokroj kaldrmi."
               }
             },
             {
@@ -994,7 +1067,8 @@
                 "de": "Die Bäume bieten teilweisen Schutz vor leichtem Regen.",
                 "hu": "A fák részleges védelmet nyújtanak az enyhe esőben.",
                 "ro": "Copacii oferă adăpost parțial în caz de ploaie ușoară.",
-                "en": "Trees provide partial shelter during light rain."
+                "en": "Trees provide partial shelter during light rain.",
+                "hr": "Drveće pruža djelomičnu zaklon tijekom slabe kiše."
               }
             },
             {
@@ -1003,7 +1077,8 @@
                 "de": "Suchen Sie Schutz in den Cafés am Flussufer.",
                 "hu": "Keressen menedéket a folyóparti kávézókban.",
                 "ro": "Căutați adăpost în cafenelele de pe mal.",
-                "en": "Seek shelter in the riverside cafes."
+                "en": "Seek shelter in the riverside cafes.",
+                "hr": "Sklonite se u kafiće uz rijeku."
               }
             }
           ],
@@ -1031,6 +1106,12 @@
               "Avoid sharp turns on wet cobblestones.",
               "Use mudguards to protect yourself from water spray.",
               "Check your brakes before descending from Dubovac Castle."
+            ],
+            "hr": [
+              "Nosite svjetlu vodootpornu opremu radi bolje vidljivosti.",
+              "Izbjegavajte oštre zavoje na mokroj kaldrmi.",
+              "Koristite blatobrane da se zaštitite od prskanja vode.",
+              "Provjerite kočnice prije spuštanja s Dubovca."
             ]
           }
         },
@@ -1039,7 +1120,8 @@
             "de": "Eine winterliche Radtour durch Karlovac erfordert Vorbereitung, belohnt aber mit Stille.\nDer Tag beginnt mit dem Anstieg zur Burg Dubovac, was den Körper schnell aufwärmt.\nAnschließend führt der Weg zum Aquatika, wo man sich im Inneren regenerieren kann.\nMittags geht es weiter zum Kriegsmuseum, bevor die Tour in den winterlichen Parks endet.",
             "hu": "A téli kerékpározás Karlovacban felkészülést igényel, de csendes élményt ígér.\nA nap a Dubovac-várhoz való feltekeréssel indul, ami gyorsan bemelegíti a testet.\nEzután az Aquatika felé vesszük az irányt, ahol belül felfrissülhetünk.\nDélben a hadtörténeti múzeum következik, majd a túra a téli parkokban zárul.",
             "ro": "Un tur cu bicicleta iarna prin Karlovac necesită pregătire, dar oferă liniște.\nZiua începe cu urcarea spre Castelul Dubovac, care vă va încălzi rapid corpul.\nUrmează drumul spre Aquatika, unde vă puteți regenera în interior.\nLa prânz continuați spre muzeu înainte de a încheia turul în parcurile hibernale.",
-            "en": "A winter bike tour through Karlovac requires preparation but rewards you with tranquility.\nThe day starts with the climb to Dubovac Castle, which quickly warms up the body.\nNext, head to Aquatika, where you can recharge in the indoor warmth.\nMidday continues to the war museum before ending the tour in the winter parks."
+            "en": "A winter bike tour through Karlovac requires preparation but rewards you with tranquility.\nThe day starts with the climb to Dubovac Castle, which quickly warms up the body.\nNext, head to Aquatika, where you can recharge in the indoor warmth.\nMidday continues to the war museum before ending the tour in the winter parks.",
+            "hr": "Zimska biciklistička tura kroz Karlovac zahtijeva pripremu, ali nagrađuje mirom.\nDan počinje usponom na Dubovac, koji brzo ugrije tijelo.\nZatim se uputite prema Aquatici gdje se možete okrijepiti u unutarnjoj toplini.\nU podne posjet Muzeju Domovinskog rata, a tura završava u zimskim parkovima."
           },
           "stops": [
             {
@@ -1048,7 +1130,8 @@
                 "de": "Vorsicht vor Eis in den schattigen Kurven der Auffahrt.",
                 "hu": "Vigyázzon a jegesedésre a feljáró árnyékos kanyarjaiban.",
                 "ro": "Atenție la gheață în curbele umbrite ale urcării.",
-                "en": "Watch out for ice in the shaded curves of the climb."
+                "en": "Watch out for ice in the shaded curves of the climb.",
+                "hr": "Pazite na led u zasjenjenim zavojima uspona."
               }
             },
             {
@@ -1057,7 +1140,8 @@
                 "de": "Wärmen Sie sich im Café auf, bevor Sie weiterfahren.",
                 "hu": "Melegedjen fel a kávézóban a továbbindulás előtt.",
                 "ro": "Încălziți-vă în cafenea înainte de a pleca mai departe.",
-                "en": "Warm up in the cafe before riding further."
+                "en": "Warm up in the cafe before riding further.",
+                "hr": "Ugrijte se u kafiću prije nastavka vožnje."
               }
             },
             {
@@ -1066,7 +1150,8 @@
                 "de": "Tragen Sie Handschuhe, um die Panzer im Freien zu besichtigen.",
                 "hu": "Viseljen kesztyűt a kültéri tankok megtekintéséhez.",
                 "ro": "Purtați mănuși pentru a vizita tancurile din exterior.",
-                "en": "Wear gloves to view the tanks in the outdoor area."
+                "en": "Wear gloves to view the tanks in the outdoor area.",
+                "hr": "Nosite rukavice za razgled tenkova na otvorenom prostoru."
               }
             },
             {
@@ -1075,7 +1160,8 @@
                 "de": "Achten Sie auf gefrorene Pfützen zwischen den Steinen.",
                 "hu": "Ügyeljen a kövek közötti fagyott tócsákra.",
                 "ro": "Atenție la bălțile înghețate dintre pietre.",
-                "en": "Watch out for frozen puddles between the stones."
+                "en": "Watch out for frozen puddles between the stones.",
+                "hr": "Pazite na zaleđene lokve između kamenja."
               }
             },
             {
@@ -1084,7 +1170,8 @@
                 "de": "Die Wege können bei Reif sehr glatt sein.",
                 "hu": "A sétányok zúzmarás időben nagyon csúszhatnak.",
                 "ro": "Potecile pot fi foarte alunecoase în caz de brumă.",
-                "en": "The paths can be very slippery when covered in frost."
+                "en": "The paths can be very slippery when covered in frost.",
+                "hr": "Staze mogu biti vrlo klizave kad su upropodene mrazom."
               }
             },
             {
@@ -1093,7 +1180,8 @@
                 "de": "Genießen Sie den Blick auf die eventuell gefrorene Korana.",
                 "hu": "Élvezze a kilátást az esetlegesen befagyott Koranára.",
                 "ro": "Bucurați-vă de priveliștea râului Korana înghețat.",
-                "en": "Enjoy the view of the potentially frozen Korana river."
+                "en": "Enjoy the view of the potentially frozen Korana river.",
+                "hr": "Uživajte u pogledu na potencijalno zaleđenu rijeku Koranu."
               }
             }
           ],
@@ -1121,6 +1209,12 @@
               "Check tire pressure for better grip on cold surfaces.",
               "Finish your tour before the early onset of darkness.",
               "Rinse your bike after the ride if salt was used on the roads."
+            ],
+            "hr": [
+              "Nosite vjetrootporne rukavice i termo kapu ispod kacige.",
+              "Provjerite tlak u gumama za bolji grip na hladnim površinama.",
+              "Završite turu prije rane večernje tame.",
+              "Isperite bicikl nakon vožnje ako je na cestama korištena sol."
             ]
           }
         }
@@ -1139,7 +1233,8 @@
             "de": "Burg Dubovac",
             "hu": "Dubovac vára",
             "ro": "Castelul Dubovac",
-            "en": "Dubovac Castle"
+            "en": "Dubovac Castle",
+            "hr": "Stari grad Dubovac"
           },
           "coords": [
             15.529,
@@ -1155,7 +1250,8 @@
             "de": "Parken Sie am Schloss und genießen Sie die morgendliche Aussicht.",
             "hu": "Parkoljon a várnál, és élvezze a reggeli kilátást.",
             "ro": "Parcați la castel și bucurați-vă de priveliștea de dimineață.",
-            "en": "Park at the castle and enjoy the morning view."
+            "en": "Park at the castle and enjoy the morning view.",
+            "hr": "Parkirajte kod dvorca i uživajte u jutarnjem pogledu."
           }
         },
         {
@@ -1163,7 +1259,8 @@
             "de": "Aquatika & Museum des Heimatkriegs Cluster",
             "hu": "Aquatika és Honvédő Háború Múzeuma Klaszter",
             "ro": "Clusterul Aquatika și Muzeul Războiului de Independență",
-            "en": "Aquatika & Homeland War Museum Cluster"
+            "en": "Aquatika & Homeland War Museum Cluster",
+            "hr": "Klaster Aquatika i Muzej Domovinskog rata"
           },
           "coords": [
             15.545,
@@ -1179,7 +1276,8 @@
             "de": "Parken Sie hier und besuchen Sie beide Museen zu Fuß, sie liegen nahe beieinander.",
             "hu": "Parkoljon itt, és látogassa meg mindkét múzeumot gyalog, közel vannak egymáshoz.",
             "ro": "Parcați aici și vizitați ambele muzee pe jos, sunt aproape unul de celălalt.",
-            "en": "Park here and visit both museums on foot, they are close to each other."
+            "en": "Park here and visit both museums on foot, they are close to each other.",
+            "hr": "Parkirajte ovdje i posjetite oba muzeja pješice, blizu su jedan drugome."
           }
         },
         {
@@ -1187,7 +1285,8 @@
             "de": "Karlovac-Stern (Altstadt)",
             "hu": "Károlyvárosi Csillag (Óváros)",
             "ro": "Steaua Karlovac (Orașul Vechi)",
-            "en": "Karlovac Star (Old Town)"
+            "en": "Karlovac Star (Old Town)",
+            "hr": "Karlovačka Zvijezda (Stari grad)"
           },
           "coords": [
             15.554,
@@ -1203,7 +1302,8 @@
             "de": "Finden Sie einen Parkplatz am Rande des Sterns und erkunden Sie ihn zu Fuß.",
             "hu": "Keressen parkolóhelyet a Csillag szélén, és fedezze fel gyalog.",
             "ro": "Găsiți un loc de parcare la marginea Stelei și explorați pe jos.",
-            "en": "Find a parking spot on the edge of the Star and explore on foot."
+            "en": "Find a parking spot on the edge of the Star and explore on foot.",
+            "hr": "Pronađite mjesto za parkiranje na rubu Zvijezde i istražite pješice."
           }
         },
         {
@@ -1211,7 +1311,8 @@
             "de": "Franziskanerkloster und Kirche St. Nikolaus",
             "hu": "Ferences kolostor és Szent Miklós-templom",
             "ro": "Mănăstirea Franciscană și Biserica Sf. Nicolae",
-            "en": "Franciscan Monastery and Church of St. Nicholas"
+            "en": "Franciscan Monastery and Church of St. Nicholas",
+            "hr": "Franjevački samostan i crkva sv. Nikole"
           },
           "coords": [
             15.5565,
@@ -1227,7 +1328,8 @@
             "de": "Diese beiden wichtigen religiösen Stätten liegen nur wenige Gehminuten voneinander entfernt.",
             "hu": "Ez a két fontos vallási helyszín csak pár perc sétára van egymástól.",
             "ro": "Aceste două situri religioase importante se află la câteva minute de mers pe jos unul de celălalt.",
-            "en": "These two important religious sites are just a few minutes' walk from each other."
+            "en": "These two important religious sites are just a few minutes' walk from each other.",
+            "hr": "Ove dvije važne vjerske lokacije udaljene su samo nekoliko minuta hoda jedna od druge."
           }
         },
         {
@@ -1235,7 +1337,8 @@
             "de": "Foginovo Strandbad",
             "hu": "Foginovo strand",
             "ro": "Plaja Foginovo",
-            "en": "Foginovo Beach"
+            "en": "Foginovo Beach",
+            "hr": "Plaža Foginovo"
           },
           "coords": [
             15.545,
@@ -1251,7 +1354,8 @@
             "de": "Fahren Sie zum Fluss für eine entspannte Pause am Ende des Tages.",
             "hu": "Hajtson le a folyóhoz egy pihentető szünetre a nap végén.",
             "ro": "Conduceți la râu pentru o pauză relaxantă la sfârșitul zilei.",
-            "en": "Drive down to the river for a relaxing break at the end of the day."
+            "en": "Drive down to the river for a relaxing break at the end of the day.",
+            "hr": "Sjednite niže do rijeke za opuštajući odmor na kraju dana."
           }
         },
         {
@@ -1259,7 +1363,8 @@
             "de": "Vrbanić-Garten",
             "hu": "Vrbanić-kert",
             "ro": "Grădina Vrbanić",
-            "en": "Vrbanić Garden"
+            "en": "Vrbanić Garden",
+            "hr": "Vrbanićev vrt"
           },
           "coords": [
             15.562,
@@ -1275,7 +1380,8 @@
             "de": "Schließen Sie den Tag mit einem friedlichen Spaziergang durch diesen historischen Garten ab.",
             "hu": "Zárja a napot egy békés sétával ebben a történelmi kertben.",
             "ro": "Încheiați ziua cu o plimbare liniștită prin această grădină istorică.",
-            "en": "End the day with a peaceful stroll through this historic garden."
+            "en": "End the day with a peaceful stroll through this historic garden.",
+            "hr": "Završite dan mirnom šetnjom kroz ovaj povijesni vrt."
           }
         }
       ],
@@ -1283,7 +1389,8 @@
         "de": "Mit dem Auto erkunden Sie Karlovac in bequemen Clustern. Beginnen Sie auf der Burg Dubovac für einen atemberaubenden Morgenblick. Fahren Sie dann zum Museumscluster, um in die Welt der Flüsse und die lokale Geschichte einzutauchen. Nach dem Mittagessen parken Sie in der Nähe der Altstadt und erkunden die sternförmige Festung und ihre Kirchen zu Fuß. Beenden Sie den Tag mit einer kurzen Fahrt zum Flussufer für eine wohlverdiente Entspannung.",
         "hu": "Autóval kényelmes klaszterekben fedezheti fel Károlyvárost. Kezdje a Dubovac váránál egy lélegzetelállító reggeli kilátásért. Ezután hajtson a múzeumi negyedbe, hogy elmerüljön a folyók világában és a helyi történelemben. Ebéd után parkoljon az óváros közelében, és fedezze fel gyalog a csillag alakú erődöt és templomait. Zárja a napot egy rövid autózással a folyópartra egy jól megérdemelt pihenésért.",
         "ro": "Cu mașina, explorați Karlovac în clustere convenabile. Începeți la Castelul Dubovac pentru o priveliște matinală uluitoare. Apoi, conduceți la clusterul de muzee pentru a vă cufunda în lumea râurilor și istoria locală. După prânz, parcați lângă orașul vechi și explorați pe jos fortăreața în formă de stea și bisericile sale. Încheiați ziua cu o scurtă călătorie cu mașina până la malul râului pentru o relaxare binemeritată.",
-        "en": "By car, explore Karlovac in convenient clusters. Start at Dubovac Castle for a stunning morning view. Then, drive to the museum cluster to immerse yourself in the world of rivers and local history. After lunch, park near the old town and explore the star-shaped fortress and its churches on foot. End the day with a short drive to the riverbank for some well-deserved relaxation."
+        "en": "By car, explore Karlovac in convenient clusters. Start at Dubovac Castle for a stunning morning view. Then, drive to the museum cluster to immerse yourself in the world of rivers and local history. After lunch, park near the old town and explore the star-shaped fortress and its churches on foot. End the day with a short drive to the riverbank for some well-deserved relaxation.",
+        "hr": "Autom istražite Karlovac u praktičnim skupinama. Započnite na Dubovcu za zadivljujući jutarnji pogled. Zatim vozite do klastera muzeja kako biste uronili u svijet rijeka i lokalne povijesti. Nakon ručka parkirajte blizu starog grada i pješice istražite zvjezdastu utvrdu i njezine crkve. Dan završite kratkom vožnjom do obale za zasluženi odmor."
       },
       "gastro_picks": {
         "de": [
@@ -1479,6 +1586,12 @@
           "The streets in the old town are narrow; drive slowly.",
           "A car allows you to also explore the surroundings of Karlovac, like the Mrežnica canyon.",
           "Pay attention to parking zones to avoid fines."
+        ],
+        "hr": [
+          "Parkiranje može biti izazovno u centru grada, osobito radnim danom. Potražite naplatne parkirališne površine.",
+          "Ulice u starom gradu su uske; vozite polako.",
+          "Autom možete istražiti i okolinu Karlovca, poput kanjona Mrežnice.",
+          "Obratite pozornost na zone parkiranja kako biste izbjegli kazne."
         ]
       },
       "variants": {
@@ -1487,7 +1600,8 @@
             "de": "Mit dem Auto erkunden Sie Karlovac bequem und trocken, egal wie stark es regnet.\nBeginnen Sie auf der Burg Dubovac, bevor Sie zum Museumskomplex in Turanj fahren.\nIn Aquatika können Sie Stunden verbringen, ohne nass zu werden.\nZum Abschluss bietet die Altstadt kurze Wege zwischen den Sehenswürdigkeiten.",
             "hu": "Autóval kényelmesen és szárazon fedezheti fel Karlovacot, bármennyire is esik.\nKezdjen a Dubovac-várnál, majd guruljon el a turanji múzeumkomplexumhoz.\nAz Aquatikában órákat tölthet anélkül, hogy megázna.\nZárásként az óváros kínál rövid sétákat a látnivalók között.",
             "ro": "Cu mașina explorați Karlovac confortabil și fără a vă uda, indiferent de ploaie.\nÎncepeți la Castelul Dubovac înainte de a merge la complexul muzeal din Turanj.\nLa Aquatika puteți petrece ore întregi fără să vă faceți griji pentru vreme.\nLa final, centrul vechi oferă distanțe scurte între obiectivele turistice.",
-            "en": "Explore Karlovac comfortably and stay dry in your car, no matter the rain intensity.\nStart at Dubovac Castle before driving to the museum complex in Turanj.\nAt Aquatika, you can spend hours without worrying about getting wet.\nTo finish, the Old Town offers short walking distances between the sights."
+            "en": "Explore Karlovac comfortably and stay dry in your car, no matter the rain intensity.\nStart at Dubovac Castle before driving to the museum complex in Turanj.\nAt Aquatika, you can spend hours without worrying about getting wet.\nTo finish, the Old Town offers short walking distances between the sights.",
+            "hr": "Istražite Karlovac udobno i ostanite suhi u automobilu, bez obzira na intenzitet kiše.\nZapočnite na Dubovcu prije vožnje do muzejskog kompleksa u Turanj.\nU Aquatici možete provesti sate bez brige o mokrenju.\nZa kraj, Stari grad nudi kratke udaljenosti između znamenitosti."
           },
           "stops": [
             {
@@ -1496,7 +1610,8 @@
                 "de": "Parken Sie direkt am Eingang, um den Regenweg zu minimieren.",
                 "hu": "Parkoljon közvetlenül a bejáratnál a séta minimalizálásához.",
                 "ro": "Parcați chiar la intrare pentru a minimiza mersul prin ploaie.",
-                "en": "Park right at the entrance to minimize walking in the rain."
+                "en": "Park right at the entrance to minimize walking in the rain.",
+                "hr": "Parkirajte točno na ulazu kako biste smanjili hodanje po kiši."
               }
             },
             {
@@ -1505,7 +1620,8 @@
                 "de": "Großer Parkplatz vorhanden, ideal für einen kombinierten Besuch.",
                 "hu": "Nagy parkoló áll rendelkezésre a kombinált látogatáshoz.",
                 "ro": "Parcare mare disponibilă, ideală pentru o vizită combinată.",
-                "en": "Large parking area available, ideal for a combined visit."
+                "en": "Large parking area available, ideal for a combined visit.",
+                "hr": "Veliko parkiralište dostupno, idealno za kombinirani posjet."
               }
             },
             {
@@ -1514,7 +1630,8 @@
                 "de": "Nutzen Sie die Parkplätze in der Nähe der zentralen Plätze.",
                 "hu": "Használja a központi terekhez közeli parkolóhelyeket.",
                 "ro": "Folosiți locurile de parcare din apropierea piețelor centrale.",
-                "en": "Use the parking spots near the central squares."
+                "en": "Use the parking spots near the central squares.",
+                "hr": "Iskoristite parkirna mjesta blizu središnjih trgova."
               }
             },
             {
@@ -1523,7 +1640,8 @@
                 "de": "Kurzer Fußweg vom Parkplatz zum trockenen Kircheninneren.",
                 "hu": "Rövid séta a parkolótól a templom száraz belsejéig.",
                 "ro": "Scurtă plimbare de la parcare până în interiorul uscat.",
-                "en": "Short walk from parking to the dry church interiors."
+                "en": "Short walk from parking to the dry church interiors.",
+                "hr": "Kratka šetnja od parkirališta do suhe unutrašnjosti crkava."
               }
             },
             {
@@ -1532,7 +1650,8 @@
                 "de": "Beobachten Sie den Regen auf dem Fluss bequem vom Auto aus.",
                 "hu": "Nézze az eső áztatta folyót kényelmesen az autóból.",
                 "ro": "Observați ploaia de pe râu confortabil din mașină.",
-                "en": "Watch the rain on the river comfortably from your car."
+                "en": "Watch the rain on the river comfortably from your car.",
+                "hr": "Promatrajte kišu na rijeci udobno iz automobila."
               }
             },
             {
@@ -1541,7 +1660,8 @@
                 "de": "Ein schneller Stopp für Fotos, bevor der Regen stärker wird.",
                 "hu": "Gyors megálló fotózásra, mielőtt eleredne az eső.",
                 "ro": "O oprire rapidă pentru poze înainte să se intensifice ploaia.",
-                "en": "A quick stop for a video clip before the rain intensifies."
+                "en": "A quick stop for a video clip before the rain intensifies.",
+                "hr": "Kratka stanica za video snimku prije nego kiša postane jača."
               }
             }
           ],
@@ -1569,6 +1689,12 @@
               "Keep an umbrella in the car for the short walks to entrances.",
               "Most city center parking spots require a payment.",
               "Visibility can be reduced on the bridges during heavy rain."
+            ],
+            "hr": [
+              "Pazite na akvaplaning na cestama uz rijeke.",
+              "Držite kišobran u autu za kratke šetnje do ulaza.",
+              "Većina parkirnih mjesta u centru grada zahtijeva plaćanje.",
+              "Vidljivost može biti smanjena na mostovima tijekom jake kiše."
             ]
           }
         },
@@ -1577,7 +1703,8 @@
             "de": "Eine winterliche Tour mit dem Auto ermöglicht es, Karlovac ohne Frieren zu erleben.\nStarten Sie bei der Burg Dubovac, wo die Aussicht im Winter besonders klar ist.\nBesuchen Sie die Museen und das Aquarium, die in der kalten Jahreszeit weniger überlaufen sind.\nBeenden Sie den Tag in der beleuchteten Altstadt mit kurzen Wegen zu warmen Cafés.",
             "hu": "A téli autós túra lehetővé teszi Karlovac felfedezését fagyoskodás nélkül.\nKezdjen a Dubovac-várnál, ahol télen különösen tiszta a kilátás.\nLátogasson el a múzeumokba és az akváriumba, amelyek ilyenkor kevésbé zsúfoltak.\nZárja a napot a kivilágított óvárosban, közel a meleg kávézókhoz.",
             "ro": "Un tur cu mașina iarna vă permite să experimentați Karlovac fără a îngheța.\nÎncepeți la Castelul Dubovac, unde priveliștea este foarte clară iarna.\nVizitați muzeele și acvariul, care sunt mai puțin aglomerate în sezonul rece.\nÎncheiați ziua în centrul vechi iluminat, aproape de cafenelele călduroase.",
-            "en": "A winter tour by car allows you to experience Karlovac without catching a cold.\nStart at Dubovac Castle, where the winter views are exceptionally clear.\nVisit the museums and the aquarium, which are less crowded during the cold season.\nEnd the day in the illuminated Old Town with short walks to warm cafes."
+            "en": "A winter tour by car allows you to experience Karlovac without catching a cold.\nStart at Dubovac Castle, where the winter views are exceptionally clear.\nVisit the museums and the aquarium, which are less crowded during the cold season.\nEnd the day in the illuminated Old Town with short walks to warm cafes.",
+            "hr": "Zimska tura automobilom omogućuje vam doživjeti Karlovac bez da se prehladite.\nZapočnite na Dubovcu, gdje su zimski pogledi osobito jasni.\nPosjetite muzeje i akvarij, koji su zimi manje posjećeni.\nDan završite u osvijetljenom Starom gradu s kratkim šetnjama do toplih kafića."
           },
           "stops": [
             {
@@ -1586,7 +1713,8 @@
                 "de": "Vorsicht bei Glätte auf der steilen Zufahrt zur Burg.",
                 "hu": "Vigyázzon a csúszós útra a várhoz vezető meredek szakaszon.",
                 "ro": "Atenție la drumul alunecos pe urcarea abruptă spre castel.",
-                "en": "Be careful of slippery roads on the steep climb to the castle."
+                "en": "Be careful of slippery roads on the steep climb to the castle.",
+                "hr": "Pazite na skliske ceste na strmom usponu prema dvorcu."
               }
             },
             {
@@ -1595,7 +1723,8 @@
                 "de": "Nutzen Sie die Nähe der Parkplätze zu den Eingängen.",
                 "hu": "Használja ki a parkolók bejáratokhoz való közelségét.",
                 "ro": "Profitați de proximitatea parcărilor față de intrări.",
-                "en": "Take advantage of the parking spots close to the entrances."
+                "en": "Take advantage of the parking spots close to the entrances.",
+                "hr": "Iskoristite parkirna mjesta blizu ulaza."
               }
             },
             {
@@ -1604,7 +1733,8 @@
                 "de": "Parken Sie zentral, um die Gehzeit in der Kälte zu verkürzen.",
                 "hu": "Parkoljon központilag, hogy rövid legyen a séta a hidegben.",
                 "ro": "Parcați central pentru a scurta timpul de mers prin frig.",
-                "en": "Park centrally to shorten walking time in the cold."
+                "en": "Park centrally to shorten walking time in the cold.",
+                "hr": "Parkirajte centralno kako biste skratili hodanje po hladnoći."
               }
             },
             {
@@ -1613,7 +1743,8 @@
                 "de": "Ein kurzer, frostiger Spaziergang zwischen den Kirchen.",
                 "hu": "Rövid, fagyos séta a két templom között.",
                 "ro": "O scurtă plimbare geroasă între cele două biserici.",
-                "en": "A short, frosty walk between the two churches."
+                "en": "A short, frosty walk between the two churches.",
+                "hr": "Kratka, mrazom ovijena šetnja između dviju crkava."
               }
             },
             {
@@ -1622,7 +1753,8 @@
                 "de": "Genießen Sie das Winterpanorama gemütlich vom warmen Auto aus.",
                 "hu": "Élvezze a téli panorámát kényelmesen a meleg autóból.",
                 "ro": "Bucurați-vă de panorama de iarnă din mașina încălzită.",
-                "en": "Enjoy the winter panorama from the comfort of a warm car."
+                "en": "Enjoy the winter panorama from the comfort of a warm car.",
+                "hr": "Uživajte u zimskoj panorami iz udobnosti toplog auta."
               }
             },
             {
@@ -1631,7 +1763,8 @@
                 "de": "Kurzer Stopp für einen Winterspaziergang zwischen den Bäumen.",
                 "hu": "Gyors megálló egy téli sétára a fák között.",
                 "ro": "O scurtă oprire pentru o plimbare de iarnă printre copaci.",
-                "en": "A quick stop for a winter stroll among the trees."
+                "en": "A quick stop for a winter stroll among the trees.",
+                "hr": "Kratka stanica za zimsku šetnju među drvećem."
               }
             }
           ],
@@ -1659,6 +1792,12 @@
               "The castle access road can be closed or difficult during snow.",
               "Park near the museums to minimize exposure to the cold.",
               "Watch out for pedestrians on the slippery cobblestones."
+            ],
+            "hr": [
+              "Osigurajte da je vaš automobil pravilno opremljen za zimske uvjete.",
+              "Pristupna cesta dvorcu može biti zatvorena ili otežana za snijega.",
+              "Parkirajte blizu muzeja kako biste smanjili izloženost hladnoći.",
+              "Pazite na pješake na klizavoj kaldrmi."
             ]
           }
         }
@@ -1677,7 +1816,8 @@
             "de": "Karlovac-Stern (Altstadt)",
             "hu": "Károlyvárosi Csillag (Óváros)",
             "ro": "Steaua Karlovac (Orașul Vechi)",
-            "en": "Karlovac Star (Old Town)"
+            "en": "Karlovac Star (Old Town)",
+            "hr": "Karlovačka Zvijezda (Stari grad)"
           },
           "coords": [
             15.554,
@@ -1693,7 +1833,8 @@
             "de": "Nehmen Sie einen Bus zum Hauptplatz, um Ihren Tag zu beginnen.",
             "hu": "Menjen busszal a főtérre, hogy elkezdje a napot.",
             "ro": "Luați un autobuz spre piața principală pentru a vă începe ziua.",
-            "en": "Take a bus to the main square to start your day."
+            "en": "Take a bus to the main square to start your day.",
+            "hr": "Slinite se autobusom do glavnog trga i započnite dan."
           }
         },
         {
@@ -1701,7 +1842,8 @@
             "de": "Franziskanerkloster und Museum",
             "hu": "Ferences kolostor és múzeum",
             "ro": "Mănăstirea și Muzeul Franciscan",
-            "en": "Franciscan Monastery and Museum"
+            "en": "Franciscan Monastery and Museum",
+            "hr": "Franjevački samostan i muzej"
           },
           "coords": [
             15.556,
@@ -1717,7 +1859,8 @@
             "de": "Ein kurzer Spaziergang vom Hauptplatz durch die historischen Straßen.",
             "hu": "Rövid séta a főtérről a történelmi utcákon keresztül.",
             "ro": "O scurtă plimbare de la piața principală prin străzile istorice.",
-            "en": "A short walk from the main square through the historic streets."
+            "en": "A short walk from the main square through the historic streets.",
+            "hr": "Kratka šetnja od glavnog trga kroz povijesne ulice."
           }
         },
         {
@@ -1725,7 +1868,8 @@
             "de": "Aquatika - Süßwasseraquarium",
             "hu": "Aquatika - Édesvízi Akvárium",
             "ro": "Aquatika - Acvariul de apă dulce",
-            "en": "Aquatika - Freshwater Aquarium"
+            "en": "Aquatika - Freshwater Aquarium",
+            "hr": "Aquatika - slatkovodni akvarij"
           },
           "coords": [
             15.542,
@@ -1741,7 +1885,8 @@
             "de": "Nehmen Sie einen Bus in Richtung des Flusses Korana, um das Aquarium zu erreichen.",
             "hu": "Menjen busszal a Korana folyó irányába, hogy elérje az akváriumot.",
             "ro": "Luați un autobuz spre râul Korana pentru a ajunge la acvariu.",
-            "en": "Take a bus towards the Korana river to reach the aquarium."
+            "en": "Take a bus towards the Korana river to reach the aquarium.",
+            "hr": "Uzmite autobus prema rijeci Korani da stignete do akvarija."
           }
         },
         {
@@ -1749,7 +1894,8 @@
             "de": "Museum des Heimatkriegs",
             "hu": "Honvédő Háború Múzeuma",
             "ro": "Muzeul Războiului de Independență",
-            "en": "Museum of the Homeland War"
+            "en": "Museum of the Homeland War",
+            "hr": "Muzej domovinskog rata"
           },
           "coords": [
             15.549,
@@ -1765,7 +1911,8 @@
             "de": "Dieses Museum befindet sich in Gehweite des Aquariums.",
             "hu": "Ez a múzeum sétatávolságra van az akváriumtól.",
             "ro": "Acest muzeu se află la distanță de mers pe jos de acvariu.",
-            "en": "This museum is within walking distance of the aquarium."
+            "en": "This museum is within walking distance of the aquarium.",
+            "hr": "Ovaj muzej udaljen je pješice od akvarija."
           }
         },
         {
@@ -1773,7 +1920,8 @@
             "de": "Burg Dubovac",
             "hu": "Dubovac vára",
             "ro": "Castelul Dubovac",
-            "en": "Dubovac Castle"
+            "en": "Dubovac Castle",
+            "hr": "Gradina Dubovac"
           },
           "coords": [
             15.529,
@@ -1789,7 +1937,8 @@
             "de": "Eine Buslinie bringt Sie auf den Hügel zur mittelalterlichen Burg.",
             "hu": "Egy buszjárat felvisz a dombra a középkori várhoz.",
             "ro": "O linie de autobuz vă va duce pe dealul castelului medieval.",
-            "en": "A bus line will take you up the hill to the medieval castle."
+            "en": "A bus line will take you up the hill to the medieval castle.",
+            "hr": "Autobusna linija vodi vas uzbrdo do srednjovjekovne utvrde."
           }
         },
         {
@@ -1797,7 +1946,8 @@
             "de": "Foginovo Strandbad",
             "hu": "Foginovo strand",
             "ro": "Plaja Foginovo",
-            "en": "Foginovo Beach"
+            "en": "Foginovo Beach",
+            "hr": "Plaža Foginovo"
           },
           "coords": [
             15.545,
@@ -1813,7 +1963,8 @@
             "de": "Gehen Sie von der Burg hinunter zum Flussstrand, um den Tag ausklingen zu lassen.",
             "hu": "Sétáljon le a várból a folyóparti strandra, hogy befejezze a napot.",
             "ro": "Coborâți pe jos de la castel la plaja fluvială pentru a încheia ziua.",
-            "en": "Walk down from the castle to the river beach to finish the day."
+            "en": "Walk down from the castle to the river beach to finish the day.",
+            "hr": "Spustite se s tvrđave do riječne plaže da završite dan."
           }
         }
       ],
@@ -1821,7 +1972,8 @@
         "de": "Entdecken Sie Karlovac mit öffentlichen Verkehrsmitteln, beginnend im sternförmigen Zentrum. Ein kurzer Spaziergang führt Sie zu den heiligen Stätten. Nehmen Sie dann einen Bus zum Flussufer für einen Besuch im Aquatika und dem nahegelegenen Museum. Am Nachmittag bringt Sie ein Bus auf den Hügel zur Burg Dubovac für eine fantastische Aussicht, bevor Sie den Tag am Flussstrand Foginovo ausklingen lassen.",
         "hu": "Fedezze fel Károlyvárost tömegközlekedéssel, kezdve a csillag alakú központban. Egy rövid séta elvezeti a szent helyekhez. Ezután buszozzon a folyópartra az Aquatika és a közeli múzeum meglátogatásához. Délután egy busz felvisz a Dubovac várához a fantasztikus kilátásért, mielőtt a napot a Foginovo folyóparti strandon zárja.",
         "ro": "Descoperiți Karlovac cu transportul public, începând din centrul în formă de stea. O scurtă plimbare vă duce la siturile sacre. Apoi, luați un autobuz spre malul râului pentru o vizită la Aquatika și la muzeul din apropiere. După-amiaza, un autobuz vă duce pe deal la Castelul Dubovac pentru o priveliște fantastică, înainte de a încheia ziua la plaja fluvială Foginovo.",
-        "en": "Discover Karlovac using public transport, starting in the star-shaped center. A short walk takes you to the sacred sites. Then, take a bus to the riverside for a visit to Aquatika and the nearby museum. In the afternoon, a bus takes you up the hill to Dubovac Castle for a fantastic view, before ending the day at the Foginovo river beach."
+        "en": "Discover Karlovac using public transport, starting in the star-shaped center. A short walk takes you to the sacred sites. Then, take a bus to the riverside for a visit to Aquatika and the nearby museum. In the afternoon, a bus takes you up the hill to Dubovac Castle for a fantastic view, before ending the day at the Foginovo river beach.",
+        "hr": "Otkrijte Karlovac koristeći javni prijevoz, počevši od zvjezdastog centra. Kratka šetnja vodi do svetih mjesta. Zatim se vozite autobusom do obale rijeke za posjet Aquatiki i obližnjem muzeju. U poslijepodnevnim satima autobus vozi uzbrdo do Gradine Dubovac za prekrasan pogled, prije nego završite dan na riječnoj plaži Foginovo."
       },
       "gastro_picks": {
         "de": [
@@ -2017,6 +2169,12 @@
           "Check the bus schedule in advance, especially for less frequent lines.",
           "Most buses are modern and air-conditioned.",
           "Keep small change ready for tickets if buying directly from the driver."
+        ],
+        "hr": [
+          "Kupite dnevnu autobusnu kartu ako planirate više vožnji.",
+          "Provjerite vozni red autobusa unaprijed, posebno za linije s rjeđim polascima.",
+          "Većina autobusa je moderna i klimatizirana.",
+          "Imajte sitniš spreman za karte ako ih kupujete izravno od vozača."
         ]
       },
       "variants": {
@@ -2025,7 +2183,8 @@
             "de": "Die Nutzung öffentlicher Verkehrsmittel hält Sie in Karlovac auch bei Regen trocken.\nBeginnen Sie den Tag in der Altstadt, bevor der Bus Sie zum Aquatika bringt.\nMittags erreichen Sie bequem das Heimatkriegsmuseum mit dem Nahverkehr.\nDer Tag endet mit einem Besuch der Burg, wobei der Bus Sie nahe an den Hügel bringt.",
             "hu": "A tömegközlekedés használatával Karlovacban esőben is száraz maradhat.\nKezdje a napot az óvárosban, mielőtt a busz elvinné az Aquatikához.\nDélben kényelmesen elérheti a hadtörténeti múzeumot a helyi járatokkal.\nA nap a várnál zárul, a busz közvetlenül a domb aljáig repíti.",
             "ro": "Utilizarea transportului public vă menține uscat în Karlovac chiar și pe ploaie.\nÎncepeți ziua în centrul vechi înainte ca autobuzul să vă ducă la Aquatika.\nLa prânz ajungeți ușor la Muzeul Războiului cu transportul local.\nZiua se încheie la castel, autobuzul lăsându-vă aproape de deal.",
-            "en": "Using public transport keeps you dry in Karlovac even when it rains.\nStart your day in the Old Town before catching a bus to Aquatika.\nAt midday, you can easily reach the Homeland War Museum via local lines.\nThe day ends with a castle visit, with the bus dropping you off near the hill."
+            "en": "Using public transport keeps you dry in Karlovac even when it rains.\nStart your day in the Old Town before catching a bus to Aquatika.\nAt midday, you can easily reach the Homeland War Museum via local lines.\nThe day ends with a castle visit, with the bus dropping you off near the hill.",
+            "hr": "Korištenje javnog prijevoza održava vas suhim u Karlovcu čak i kad pada kiša.\nZapočnite dan u Starom gradu prije nego što uhvatite autobus do Aquatike.\nU podne lako možete doći do Muzeja domovinskog rata lokalnim linijama.\nDan završava posjetom tvrđavi, a autobus vas iskrcava u blizini brda."
           },
           "stops": [
             {
@@ -2034,7 +2193,8 @@
                 "de": "Die meisten Bushaltestellen hier bieten Überdachungen.",
                 "hu": "A legtöbb itteni buszmegálló fedett.",
                 "ro": "Majoritatea stațiilor de autobuz de aici sunt acoperite.",
-                "en": "Most bus stops here offer shelters."
+                "en": "Most bus stops here offer shelters.",
+                "hr": "Većina autobusnih stajališta ovdje ima nadstrešnice."
               }
             },
             {
@@ -2043,7 +2203,8 @@
                 "de": "Kurzer Fußweg zur nächsten Haltestelle im Regen.",
                 "hu": "Rövid séta az esőben a legközelebbi megállóig.",
                 "ro": "Scurtă plimbare prin ploaie până la cea mai apropiată stație.",
-                "en": "Short walk through the rain to the nearest stop."
+                "en": "Short walk through the rain to the nearest stop.",
+                "hr": "Kratka šetnja kroz kišu do najbliže stanice."
               }
             },
             {
@@ -2052,7 +2213,8 @@
                 "de": "Die Haltestelle ist nur wenige Schritte vom Eingang entfernt.",
                 "hu": "A megálló csak pár lépésre van a bejárattól.",
                 "ro": "Stația este la doar câțiva pași de intrare.",
-                "en": "The stop is only a few steps away from the entrance."
+                "en": "The stop is only a few steps away from the entrance.",
+                "hr": "Stajalište je samo nekoliko koraka od ulaza."
               }
             },
             {
@@ -2061,7 +2223,8 @@
                 "de": "Warten Sie in den Museumsräumen auf Ihren Rückbus.",
                 "hu": "A múzeum belső terében várja meg a visszainduló buszt.",
                 "ro": "Așteptați autobuzul de întoarcere în interiorul muzeului.",
-                "en": "Wait for your return bus inside the museum premises."
+                "en": "Wait for your return bus inside the museum premises.",
+                "hr": "Pričekajte povratni autobus unutar prostora muzeja."
               }
             },
             {
@@ -2070,7 +2233,8 @@
                 "de": "Prüfen Sie die Abfahrtszeiten für den Rückweg den Hügel hinab.",
                 "hu": "Ellenőrizze az indulási időket a dombról lefelé menet.",
                 "ro": "Verificați orele de plecare pentru drumul de întoarcere de pe deal.",
-                "en": "Check departure times for the return trip down the hill."
+                "en": "Check departure times for the return trip down the hill.",
+                "hr": "Provjerite vremena polazaka za povratak nizbrdo."
               }
             },
             {
@@ -2079,7 +2243,8 @@
                 "de": "Busse verkehren regelmäßig in der Nähe des Flussufers.",
                 "hu": "A buszok rendszeresen járnak a folyópart közelében.",
                 "ro": "Autobuzele circulă regulat în apropierea malului râului.",
-                "en": "Buses run regularly near the riverbank."
+                "en": "Buses run regularly near the riverbank.",
+                "hr": "Autobusi redovito prometuju uz obalu rijeke."
               }
             }
           ],
@@ -2107,6 +2272,12 @@
               "Use a transit app for real-time departure information.",
               "Not all stops outside the center offer shelters.",
               "Wear waterproof clothing for the walks between stops and sights."
+            ],
+            "hr": [
+              "Kupite karte unaprijed kako biste izbjegli čekanje na kiši.",
+              "Koristite aplikaciju za prijevoz za informacije o stvarnim vremenima polazaka.",
+              "Nisu sva stajališta izvan centra zaštićena nadstrešnicama.",
+              "Nosite vodootpornu odjeću za šetnje između stajališta i znamenitosti."
             ]
           }
         },
@@ -2115,7 +2286,8 @@
             "de": "Öffentliche Verkehrsmittel bieten im Winter einen warmen Rückzugsort zwischen den Zielen.\nStarten Sie in der winterlichen Altstadt, bevor Sie das Aquarium besuchen.\nMittags bringt der Nahverkehr Sie zum Museumskomplex in Turanj.\nBeenden Sie den Tag auf der Burg Dubovac, während der Bus Sie den Hügel hinaufführt.",
             "hu": "A tömegközlekedés télen meleg menedéket nyújt a látnivalók között.\nKezdje a téli óvárosban, majd látogasson el az akváriumba.\nDélben a helyi járatok elviszik a turanji múzeumkomplexumhoz.\nZárja a napot a Dubovac-várnál, ahová busszal is feljuthat a dombra.",
             "ro": "Transportul public oferă un refugiu călduros între obiective pe timp de iarnă.\nÎncepeți în centrul vechi hibernal înainte de a vizita acvariul.\nLa prânz, transportul local vă duce la complexul muzeal din Turanj.\nÎncheiați ziua la Castelul Dubovac, autobuzul ducându-vă spre deal.",
-            "en": "Public transport provides a warm refuge between sights during winter.\nStart in the wintry Old Town before visiting the aquarium.\nAt midday, local lines take you to the museum complex in Turanj.\nEnd the day at Dubovac Castle, with the bus taking you up toward the hill."
+            "en": "Public transport provides a warm refuge between sights during winter.\nStart in the wintry Old Town before visiting the aquarium.\nAt midday, local lines take you to the museum complex in Turanj.\nEnd the day at Dubovac Castle, with the bus taking you up toward the hill.",
+            "hr": "Javni prijevoz pruža topao zaklon između znamenitosti tijekom zime.\nZapočnite u zimski obojenom Starom gradu prije posjeta akvariju.\nU podne vas lokalne linije vode do muzejnog kompleksa u Turanj.\nDan završite na Gradini Dubovac, s autobusom koji vas vozi uzbrdo prema brežuljku."
           },
           "stops": [
             {
@@ -2124,7 +2296,8 @@
                 "de": "Nutzen Sie die Wartehäuschen, um sich vor dem Wind zu schützen.",
                 "hu": "Használja a várókat a szél elleni védekezéshez.",
                 "ro": "Folosiți adăposturile din stații pentru a vă proteja de vânt.",
-                "en": "Use the shelters to shield yourself from the wind."
+                "en": "Use the shelters to shield yourself from the wind.",
+                "hr": "Iskoristite nadstrešnice kao zaštitu od vjetra."
               }
             },
             {
@@ -2133,7 +2306,8 @@
                 "de": "Kurze Gehwege halten die Kälteexposition gering.",
                 "hu": "A rövid séta miatt nem fog sokáig fázni.",
                 "ro": "Distanțele scurte pe jos reduc expunerea la frig.",
-                "en": "Short walking distances keep cold exposure minimal."
+                "en": "Short walking distances keep cold exposure minimal.",
+                "hr": "Kratke udaljenosti pješice minimaliziraju izloženost hladnoći."
               }
             },
             {
@@ -2142,7 +2316,8 @@
                 "de": "Der Bus hält direkt vor dem beheizten Gebäude.",
                 "hu": "A busz közvetlenül a fűtött épület előtt áll meg.",
                 "ro": "Autobuzul oprește chiar în fața clădirii încălzite.",
-                "en": "The bus stops right in front of the heated building."
+                "en": "The bus stops right in front of the heated building.",
+                "hr": "Autobus staje točno ispred grijane zgrade."
               }
             },
             {
@@ -2151,7 +2326,8 @@
                 "de": "Beachten Sie die selteneren Fahrzeiten am Winterabend.",
                 "hu": "Ügyeljen a ritkább járatokra a téli estéken.",
                 "ro": "Atenție la frecvența redusă a curselor în serile de iarnă.",
-                "en": "Note the less frequent departure times on winter evenings."
+                "en": "Note the less frequent departure times on winter evenings.",
+                "hr": "Obratite pažnju na rjeđe polaske tijekom zimskih večeri."
               }
             },
             {
@@ -2160,7 +2336,8 @@
                 "de": "Der Bus erspart den mühsamen Aufstieg bei Kälte.",
                 "hu": "A busz megkíméli a fárasztó hegymenettől a hidegben.",
                 "ro": "Autobuzul vă scutește de urcarea obositoare prin frig.",
-                "en": "The bus saves you from the tiring climb in the cold."
+                "en": "The bus saves you from the tiring climb in the cold.",
+                "hr": "Autobus vas spašava od iscrpljujućeg penjanja na hladnoći."
               }
             },
             {
@@ -2169,7 +2346,8 @@
                 "de": "Ein kurzer Blick auf den winterlichen Fluss, bevor der nächste Bus kommt.",
                 "hu": "Egy gyors pillantás a téli folyóra, mielőtt jön a következő busz.",
                 "ro": "O privire rapidă spre râu înainte de următorul autobuz.",
-                "en": "A quick look at the wintry river before the next bus arrives."
+                "en": "A quick look at the wintry river before the next bus arrives.",
+                "hr": "Brzi pogled na zimski tok rijeke prije nego što stigne sljedeći autobus."
               }
             }
           ],
@@ -2197,6 +2375,12 @@
               "Schedules may vary during winter holidays.",
               "Wait in shops or cafes if the bus is running late.",
               "Wear non-slip shoes for the walks to the bus stops."
+            ],
+            "hr": [
+              "Autobusi su dobro grijani i udobni tijekom zime.",
+              "Vozni redovi mogu se razlikovati tijekom zimskih praznika.",
+              "Pričekajte u trgovinama ili kafićima ako autobus kasni.",
+              "Nosite obuću protiv klizanja za šetnje do stajališta."
             ]
           }
         }

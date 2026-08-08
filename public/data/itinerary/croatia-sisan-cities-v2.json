@@ -70,7 +70,7 @@
             "hu": "Kóstolja meg a díjnyertes teran bort modern környezetben.",
             "ro": "Gustați vinul Teran premiat într-o ambianță modernă.",
             "en": "Taste the award-winning Teran in a modern setting.",
-            "hr": "Kušajte nagrađivani teran u modernom ambijentu."
+            "hr": "Kušajte nagrađivani Teran u modernom ambijentu."
           }
         },
         {
@@ -89,7 +89,7 @@
             "hu": "A friss isztriai tészta (fuži) itt kötelező választás.",
             "ro": "Pastele istriene proaspete (fuži) sunt obligatorii aici.",
             "en": "Fresh Istrian pasta (fuži) is a must-try here.",
-            "hr": "Domaća istarska tjestenina (fuži) ovdje se mora probati."
+            "hr": "Svježi istarski fuži ovdje su obavezno iskušenje."
           }
         },
         {
@@ -108,7 +108,7 @@
             "hu": "Fedezze fel a kilátást és a titkos katonai bunkereket.",
             "ro": "Descoperiți priveliștea și buncărele militare secrete.",
             "en": "Explore the panoramic view and the secret military bunkers.",
-            "hr": "Istražite panoramski pogled i tajne vojne bunkere."
+            "hr": "Istražite panoramski vidik i tajne vojne bunkerе."
           }
         },
         {
@@ -127,7 +127,7 @@
             "hu": "Kristálytiszta víz, ideális a sznorkelezéshez.",
             "ro": "Apă de cristal, ideală pentru snorkeling.",
             "en": "Crystal clear water, perfect for snorkeling.",
-            "hr": "Kristalno čisto more, savršeno za ronjenje s maskom."
+            "hr": "Kristalno čista voda, savršena za snorklanje."
           }
         },
         {
@@ -146,7 +146,7 @@
             "hu": "A nap legszebb zárása közvetlenül a sziklákon.",
             "ro": "Cel mai frumos final de zi, direct pe stânci.",
             "en": "The most beautiful end to the day right on the rocks.",
-            "hr": "Najljepši završetak dana izravno na stijenama."
+            "hr": "Najljepši završetak dana ravno na stijenama."
           }
         }
       ],
@@ -155,7 +155,7 @@
         "hu": "Reggel kezdjen egy feketével a falu főterén, majd látogasson el az ősi templomba. A délelőtt a modern borászaté a Trapan pincészetben. Ebédre kóstoljon helyi tésztát egy konobában. Délután fedezze fel Monte Madonna titkos katonai bázisát, majd ereszkedjen le a vadregényes tengerpartra. A napot a kristálytiszta vizű Šišan-öbölben való fürdőzés és a sziklákról csodált naplemente zárja.",
         "ro": "Dimineața începe cu o cafea în piața satului, urmată de o vizită la biserica istorică. Continuăm cu o degustare de vinuri moderne la crama Trapan. La prânz, savurați paste istriene la o konoba locală. După-amiaza este dedicată istoriei de la Monte Madonna și plimbării spre coasta sălbatică. Ziua se încheie cu o baie în apele limpezi ale golfului Šišan și un apus memorabil pe malul mării.",
         "en": "Start your morning with a coffee in the village square followed by a visit to the historic church. Spend the late morning tasting award-winning wines at Trapan Winery. Enjoy a traditional Istrian lunch at a local konoba. In the afternoon, explore the military secrets of Monte Madonna and hike down to the rugged coastline. End the day swimming in the clear waters of Šišan Bay and watching the sunset from the rocks.",
-        "hr": "Započnite jutro kavom na seoskom trgu, a zatim posjetite povijesnu crkvu. Provedite kasno jutro kušajući nagrađivana vina u vinariji Trapan. Uživajte u tradicionalnom istarskom ručku u lokalnoj konobi. Poslijepodne istražite vojne tajne Monte Madonne i spustite se pješice do razvedene obale. Završite dan kupanjem u čistom moru uvale Šišan i promatranjem zalaska sunca sa stijena."
+        "hr": "Započnite jutro kavom na seoskom trgu, a zatim posjetom povijesnoj crkvi. Kasno jutro posvetite kušanju nagrađivanih vina u vinariji Trapan. Uživajte u tradicionalnom istarskom ručku u lokalnoj konobi. Poslijepodne istražujte vojne tajne Monte Maddone i spustite se pješice do grube obale. Dan završite kupanjem u čistim vodama uvale Šišan i promatranjem zalaska sunca sa stijena."
       },
       "gastro_picks": {
         "de": [
@@ -329,10 +329,10 @@
           "Visit the bunkers only with a flashlight."
         ],
         "hr": [
-          "Nosite udobne cipele za pješačenje za obalnu stazu.",
+          "Nosite udobne planinarske cipele za obalnu stazu.",
           "Ponesite dovoljno vode za pješačenje.",
-          "Povratak u selo je blagi uspon.",
-          "Bunkere posjećujte isključivo uz pomoć svjetiljke."
+          "Povratak u selo je blago uzbrdo.",
+          "Posjetite bunkere samo s baterijskom svjetiljkom."
         ]
       },
       "variants": {
@@ -342,7 +342,7 @@
             "hu": "A napot a falu főterén kezdjük, ahol a friss kávé illata feledteti a kinti szürkeséget. A templom hűvös csendje után a Trapan borászat modern épülete nyújt tökéletes menedéket egy borkóstolóhoz. Ebédre egy helyi konobában melegszünk fel sűrű isztriai levesekkel, miközben az eső kopog az ablakon. Délután a Svetica katonai bunkerei között sétálunk, amelyek különös menedéket nyújtanak a zápor elől. Az utat a parton zárjuk, ahol a morajló tenger és az eső illata különleges, vadregényes hangulatot áraszt.",
             "ro": "Ziua începe confortabil în centrul satului, unde aroma cafelei proaspete ne face să uităm de ploaie. După o scurtă vizită la biserică, arhitectura modernă a cramei Trapan oferă refugiul perfect pentru o degustare de vinuri. La prânz ne încălzim într-o konoba cu preparate tradiționale, în timp ce picăturile bat în geam. După-amiaza ne conduce la Svetica, unde vechile instalații militare servesc drept adăposturi misterioase. Ziua se încheie pe coastă, unde Marea Adriatică agitată capătă o frumusețe melancolică sub ploaie.",
             "en": "The day starts cozily in the village center, where the scent of fresh coffee makes you forget the gray skies. After a sheltered visit to the church, the modern Trapan winery provides the perfect refuge for an extended wine tasting. For lunch, we warm up in a local konoba with hearty Istrian stews while rain taps on the windows. In the afternoon, we explore Svetica, where old military bunkers now serve as atmospheric shelters. The journey ends at the coast, where the churning Adriatic reveals a wild, melancholic beauty in the rain.",
-            "hr": "Dan počinje ugodno u centru sela, gdje vas miris svježe kave tjera da zaboravite sivo nebo. Nakon posjeta crkvi pod krovom, moderna vinarija Trapan pruža savršeno utočište za produljeno kušanje vina. Za ručak se grijemo u lokalnoj konobi uz krepka istarska variva dok kiša bubnja po prozorima. Poslijepodne istražujemo Sveticu, gdje stari vojni bunkeri sada služe kao atmosferska skloništa. Putovanje završava na obali, gdje uskovitlani Jadran na kiši otkriva divlju, melankoličnu ljepotu."
+            "hr": "Dan započinje ugodno u središtu sela, gdje miris svježe kave čini da zaboravite siva nepca. Nakon zaštićenog posjeta crkvi, moderna vinarija Trapan pruža idealno utočište za produženo kušanje vina. Za ručak se grijemo u lokalnoj konobi uz obilne istarske variva dok kiša kuca po prozorima. Poslijepodne istražujemo Sveticu, gdje stare vojne bunkerе danas služe kao atmosferična skloništa. Put završava na obali, gdje uzburkano Jadransko more otkriva divlju, melankoličnu ljepotu na kiši."
           },
           "stops": [
             {
@@ -352,7 +352,7 @@
                 "hu": "Válasszon benti asztalt, és élvezze a meleg italt az esőben.",
                 "ro": "Alegeți o masă în interior pentru a privi ploaia cu o băutură caldă.",
                 "en": "Choose an indoor table to watch the rain with a warm drink.",
-                "hr": "Odaberite stol u unutrašnjosti i promatrajte kišu uz topli napitak."
+                "hr": "Odaberite stol unutra da promatrate kišu uztopli napitak."
               }
             },
             {
@@ -372,7 +372,7 @@
                 "hu": "A borkóstoló fedett helyen van, ideális rossz idő esetén.",
                 "ro": "Degustarea are loc la interior – locul ideal pe vreme rea.",
                 "en": "The tasting takes place indoors – the ideal spot for bad weather.",
-                "hr": "Degustacija se odvija u zatvorenom – idealno mjesto za loše vrijeme."
+                "hr": "Kušanje se odvija u zatvorenom – idealno za loše vrijeme."
               }
             },
             {
@@ -392,7 +392,7 @@
                 "hu": "Az alagutak védelmet nyújtanak, ha az eső eleredne.",
                 "ro": "Sistemele de tuneluri oferă protecție în caz că ploaia se intensifică.",
                 "en": "The tunnel systems provide protection if the rain intensifies.",
-                "hr": "Sustavi tunela pružaju zaštitu ako se kiša pojača."
+                "hr": "Sistemi tunela pružaju zaštitu ako kiša pojača."
               }
             },
             {
@@ -402,7 +402,7 @@
                 "hu": "A sziklák csúszósak lehetnek, viseljen megfelelő lábbelit.",
                 "ro": "Încălțămintea solidă e importantă, stâncile pot fi alunecoase pe ploaie.",
                 "en": "Sturdy shoes are essential as rocks can be slippery when wet.",
-                "hr": "Čvrsta obuća je neophodna jer stijene mogu biti skliske kad su mokre."
+                "hr": "Čvrste cipele su nužne jer stijene postaju klizave kad su mokre."
               }
             },
             {
@@ -412,7 +412,7 @@
                 "hu": "Élvezze a drámai felhőket a tenger felett.",
                 "ro": "Bucurați-vă de formațiunile dramatice de nori deasupra mării.",
                 "en": "Enjoy the dramatic cloud formations over the sea.",
-                "hr": "Uživajte u dramatičnim formacijama oblaka iznad mora."
+                "hr": "Uživajte u dramatičnim oblacima nad morem."
               }
             }
           ],
@@ -442,10 +442,10 @@
               "Ask for a seat by the fireplace in the konoba if it's lit."
             ],
             "hr": [
-              "Nosite nepromočive gojzerice jer staze do obale mogu postati blatnjave.",
-              "Vinarija Trapan je izvrsno mjesto za čekanje da prođe jak pljusak.",
-              "Ponesite čvrst kišobran jer uz obalu može biti vjetrovito.",
-              "Tražite mjesto uz kamin u konobi ako je naložen."
+              "Nosite vodootporne planinarske čizme jer staze prema obali mogu biti blatne.",
+              "Vinarija Trapan je odlično mjesto za pričekati jak pljusak.",
+              "Spakirajte čvrst kišobran, jer uz obalu zna zapuhati.",
+              "Zamolite za mjesto kraj kamina u konobi ako je upaljen."
             ]
           }
         },
@@ -455,7 +455,7 @@
             "hu": "A friss téli levegő élénkítően hat, miközben a napot egy forró eszpresszóval indítjuk a csendes főtéren. A Szent Félix-templomban az áhítat csendjében csodáljuk a műalkotásokat, majd a Trapan borászat modern melege és testes vörösborai várnak ránk. Az ebéd a konobában igazi ünnep, ahol a szarvasgomba és a vadhús illata tölti be a teret. Délután a Svetica felé tartva olyan tiszta panorámát élvezhetünk, amely csak télen enged látni az Alpokig. A korai naplemente aranyba vonja a sziklás partot, mielőtt visszatérnénk a falu barátságos melegébe.",
             "ro": "Aerul curat de iarnă în Šišan este revigorant în timp ce începem ziua cu un espresso fierbinte în piața liniștită. În biserica Sf. Felix admirăm arta sacră în liniște deplină, înainte ca vinăria Trapan să ne primească cu căldură și vinuri roșii corpolente. Prânzul în konoba devine o sărbătoare a simțurilor, când aromele de trufe și vânat umplu încăperea. După-amiaza, drumul spre Svetica oferă vederi clare până la Alpi, posibile doar iarna. Apusul timpuriu scaldă coasta într-o lumină aurie înainte de a ne retrage la căldura satului.",
             "en": "The crisp winter air in Šišan is invigorating as we start the day with a hot espresso in the quiet village square. Inside St. Felix church, we admire the sacred art in solemn silence before the Trapan winery welcomes us with modern warmth and bold red wines. Lunch in the konoba is a feast for the senses, with the heavy aromas of truffles and wild game filling the room. In the afternoon, the walk to Svetica offers distant views as far as the Alps, clear only in winter. The early sunset bathes the coast in golden light before we retreat to the cozy warmth of the village.",
-            "hr": "Oštar zimski zrak u Šišanu okrepljuje dok započinjemo dan vrućim espressom na mirnom seoskom trgu. Unutar crkve sv. Feliksa divimo se sakralnoj umjetnosti u svečanoj tišini prije nego što nas vinarija Trapan dočeka modernom toplinom i odvažnim crnim vinima. Ručak u konobi gozba je za osjetila, s teškim aromama tartufa i divljači koje ispunjavaju prostor. Poslijepodne šetnja do Svetice nudi pogled koji seže sve do Alpa, što je vidljivo samo zimi. Rani zalazak sunca kupa obalu u zlatnoj svjetlosti prije nego što se povučemo u ugodnu toplinu sela."
+            "hr": "Hladan zimski zrak u Šišanu razbuđuje nas dok dan započinjemo vrućim espressom na tihom seoskom trgu. U crkvi sv. Feliksa divimo se sakralnoj umjetnosti u svečanoj tišini prije nego što nas vinarija Trapan dočeka toplinom modernog ambijenta i snažnim crnim vinima. Ručak u konobi je gozba za osjetila, s jakim aromama tartufa i divljači koje ispunjavaju prostoriju. Poslijepodne šetnja do Svetice nudi daleke vidike sve do Alpa, jasno vidljive samo zimi. Rani zalazak sunca obasjava obalu zlatnom svjetlošću prije nego se vratimo u ugodnu toplinu sela."
           },
           "stops": [
             {
@@ -465,7 +465,7 @@
                 "hu": "Élvezze a napsütést a védett kinti asztaloknál, ha nincs szél.",
                 "ro": "Bucurați-vă de soare pe locurile de afară protejate, dacă nu bate vântul.",
                 "en": "Enjoy the sun on the sheltered outdoor seats if there is no wind.",
-                "hr": "Uživajte u suncu na zaštićenim vanjskim sjedalima ako nema vjetra."
+                "hr": "Uživajte na zaštićenim vanjskim sjedalima ako nema vjetra."
               }
             },
             {
@@ -475,7 +475,7 @@
                 "hu": "Ügyeljen a téli, rövidebb nyitvatartási időre.",
                 "ro": "Atenție la programul scurt de vizitare în timpul iernii.",
                 "en": "Note the shorter opening hours during winter.",
-                "hr": "Obratite pozornost na kraće radno vrijeme tijekom zime."
+                "hr": "Imajte na umu kraće radno vrijeme tijekom zime."
               }
             },
             {
@@ -485,7 +485,7 @@
                 "hu": "Kóstolja meg a testes Teran borokat, amelyek remekül illenek a télhez.",
                 "ro": "Gustați vinurile Teran corpolente, perfecte pentru iarnă.",
                 "en": "Try the bold Teran wines, which are perfect for winter.",
-                "hr": "Probajte odvažna vina od terana koja su savršena za zimu."
+                "hr": "Probajte snažni Teran, koji odlično pristaje zimi."
               }
             },
             {
@@ -505,7 +505,7 @@
                 "hu": "Fent a szél nagyon hideg lehet, a meleg ruházat kötelező.",
                 "ro": "Vântul poate fi foarte rece aici sus, hainele groase sunt obligatorii.",
                 "en": "The wind can be very cold up here; warm clothing is a must.",
-                "hr": "Vjetar ovdje gore može biti vrlo hladan; topla odjeća je obavezna."
+                "hr": "Vjetar ovdje može biti vrlo hladan; topla odjeća je obavezna."
               }
             },
             {
@@ -515,7 +515,7 @@
                 "hu": "Az öböl téli magánya különleges vonzerővel bír.",
                 "ro": "Singurătatea golfului iarna are un farmec cu totul deosebit.",
                 "en": "The solitude of the bay in winter has a very special charm.",
-                "hr": "Samoća uvale zimi ima poseban šarm."
+                "hr": "Samosvijet uvale zimi ima poseban šarm."
               }
             },
             {
@@ -525,7 +525,7 @@
                 "hu": "A naplemente télen már 16:30 körül bekövetkezik.",
                 "ro": "Apusul are loc iarna deja în jurul orei 16:30.",
                 "en": "In winter, the sunset already occurs around 4:30 PM.",
-                "hr": "Zimi se zalazak sunca događa već oko 16:30."
+                "hr": "Zimi zalazak sunca već se događa oko 16:30."
               }
             }
           ],
@@ -555,10 +555,10 @@
               "Use lip balm, as the salty wind dries out your skin quickly."
             ],
             "hr": [
-              "Odjenite se slojevito kako biste bili spremni za hladnu buru.",
-              "Pogled na snijegom prekrivene Alpe spektakularan je za vedrih dana.",
-              "Rezervirajte stol u konobi jer su mnoga mjesta zimi popunjena.",
-              "Koristite balzam za usne jer slani vjetar brzo isušuje kožu."
+              "Obucite se slojevito da budete spremni za hladan buru.",
+              "Pogled na snijegom pokrivene Alpe spektakularan je po vedrim danima.",
+              "Rezervirajte stol u konobi, jer su mnogi lokali zauzeti zimi.",
+              "Koristite balzam za usne, jer slani vjetar brzo isušuje kožu."
             ]
           }
         }
@@ -607,7 +607,7 @@
             "hu": "Rövid megálló a templomnál.",
             "ro": "Scurtă oprire la biserică.",
             "en": "Short stop at the church.",
-            "hr": "Kratko zaustavljanje kod crkve."
+            "hr": "Kratka stanica kod crkve."
           }
         },
         {
@@ -626,7 +626,7 @@
             "hu": "Borkóstoló a tengerparti indulás előtt.",
             "ro": "Degustare de vinuri înainte de plecarea la mare.",
             "en": "Wine tasting before heading to the sea.",
-            "hr": "Kušanje vina prije odlaska na more."
+            "hr": "Kušanje vina prije polaska prema moru."
           }
         },
         {
@@ -645,7 +645,7 @@
             "hu": "Gyűjtsön erőt a biciklitúrához.",
             "ro": "Prindeți puteri pentru tura cu bicicleta.",
             "en": "Fuel up for the bike ride.",
-            "hr": "Napunite baterije za vožnju biciklom."
+            "hr": "Napunite energiju za vožnju biciklom."
           }
         },
         {
@@ -664,7 +664,7 @@
             "hu": "Kihívást jelentő emelkedő jutalommal.",
             "ro": "Urcare solicitantă cu o răsplată pe măsură.",
             "en": "Challenging uphill ride with a reward.",
-            "hr": "Izazovan uspon s nagradom na vrhu."
+            "hr": "Zahtjevna uzbrdica s nagradom na vrhu."
           }
         },
         {
@@ -683,7 +683,7 @@
             "hu": "Biciklizzen a part menti utakon.",
             "ro": "Mergeți pe potecile de pe coastă.",
             "en": "Ride along the coastal paths.",
-            "hr": "Vožnja uz obalne staze."
+            "hr": "Vozite uz obalne putove."
           }
         },
         {
@@ -702,7 +702,7 @@
             "hu": "Utolsó pihenő a visszaindulás előtt.",
             "ro": "Ultima relaxare înainte de întoarcere.",
             "en": "Last relaxation before the ride back.",
-            "hr": "Zadnje opuštanje prije vožnje natrag."
+            "hr": "Zadnje opuštanje prije povratne vožnje."
           }
         }
       ],
@@ -711,7 +711,7 @@
         "hu": "Fedezze fel Šišant két keréken. A faluban töltött laza délelőtt és a Trapan borászat meglátogatása után az út murvás ösvényeken vezet a Monte Madonna dombjára. Innen gyors ereszkedés következik a Šišan-öböl érintetlen partjaihoz. Az Adria menti sziklás utak fantasztikus kilátást és eldugott fürdőhelyeket kínálnak.",
         "ro": "Explorați Šišan pe două roți. După o dimineață relaxată în sat și o vizită la crama Trapan, turul continuă pe drumuri pietruite spre dealul Monte Madonna. De acolo, urmează o coborâre rapidă spre coasta virgină a golfului Šišan. Potecile stâncoase de-a lungul Adriaticii oferă priveliști fantastice și locuri ascunse de scăldat.",
         "en": "Explore Šišan on two wheels. After a relaxed morning in the village and a wine tasting at Trapan, the route leads via gravel paths to the Monte Madonna hill. From there, enjoy a fast descent to the untouched shores of Šišan Bay. The rocky paths along the Adriatic offer fantastic views and hidden swimming spots.",
-        "hr": "Istražite Šišan na dva kotača. Nakon opuštenog jutra u selu i kušanja vina u Trapanu, ruta vodi makadamskim putovima do brda Monte Madonna. Od tamo uživajte u brzom spustu do netaknute obale uvale Šišan. Stjenoviti putovi uz Jadran nude fantastične vidike i skrivena mjesta za kupanje."
+        "hr": "Istražite Šišan na dva kotača. Nakon opuštenog jutra u selu i kušanja vina u vinariji Trapan, ruta vodi šljunčanim putem do brda Monte Madonna. Odatle uživajte u brzom spustu do netaknute obale uvale Šišan. Stjenoviti putevi uz Jadran nude fantastične poglede i skrivene kupališne točke."
       },
       "gastro_picks": {
         "de": [
@@ -840,10 +840,10 @@
           "Take a repair kit with you."
         ],
         "hr": [
-          "Zbog stjenovitih putova preporučuje se brdski bicikl.",
-          "Provjerite kočnice prije spuštanja sa Svetice.",
-          "Pripazite na pješake na obalnim stazama.",
-          "Ponesite sa sobom pribor za popravak."
+          "Preporučuje se brdski bicikl zbog kamenitih staza.",
+          "Provjerite kočnice prije spusta sa Svetice.",
+          "Pazite na planinare na obalnim stazama.",
+          "Ponesite komplet za popravak."
         ]
       },
       "variants": {
@@ -853,7 +853,7 @@
             "hu": "Az eső ellenére Šišan környéke tartogat izgalmakat a kerékpárosoknak, főleg a biztonságos aszfaltos utakon. Az első megálló a faluban segít a tájékozódásban és egy gyors kávéban a fedél alatt. A Trapan borászatig tartó út rövid, és egyenesen a barátságos kóstolóterembe vezet. Egy kiadós ebéd után a konobában a Svetica felé vesszük az irányt, ahol a történelmi falak védelmet nyújtanak. A tengerpartról való visszatérés ugyan vizes lesz, de a friss sós levegő és a természet közelsége kárpótol mindenért.",
             "ro": "În ciuda ploii, Šišan are farmecul său pentru bicicliști, drumurile asfaltate oferind siguranță prin peisaj. O primă oprire în centrul satului servește pentru orientare și un espresso rapid la adăpost. Drumul către crama Trapan este scurt și duce direct în sala de degustare confortabilă. După un prânz revigorant în konoba, ne aventurăm pe drumurile consolidate spre Svetica, unde complexul istoric oferă protecție. Drumul de întoarcere de la coastă va fi ud, dar aerul proaspăt marin și experiența intensă a naturii compensează umezeala.",
             "en": "Despite the rain, Šišan offers its charm for cyclists as the paved paths lead safely through the landscape. A first stop in the village center helps with orientation and a quick espresso in the dry. The ride to Trapan Winery is short, leading straight into the cozy tasting hall. After a strengthening lunch at the konoba, we venture onto the reinforced paths towards Svetica, where the historical site offers shelter. The return ride from the coast might be wet, but the fresh sea air and the intense nature experience make up for the dampness.",
-            "hr": "Unatoč kiši, Šišan nudi svoj šarm biciklistima jer asfaltirani putovi sigurno vode kroz krajolik. Prvo zaustavljanje u centru sela pomaže u orijentaciji i brzom espressu na suhom. Vožnja do vinarije Trapan je kratka i vodi izravno u ugodnu dvoranu za degustaciju. Nakon krepkog ručka u konobi, krećemo utvrđenim putovima prema Svetici, gdje povijesni lokalitet nudi zaklon. Povratna vožnja s obale može biti mokra, ali svježi morski zrak i intenzivan doživljaj prirode nadoknađuju vlagu."
+            "hr": "Unatoč kiši, Šišan nudi čar za bicikliste jer asfaltirane staze sigurno vode kroz krajolik. Prvo zaustavljanje u središtu sela pomaže orijentaciji i brzom espressu na suhom. Vožnja do vinarije Trapan je kratka i vodi ravno u ugodnu salu za kušanje. Nakon okrepljujućeg ručka u konobi, upućujemo se na ojačane staze prema Svetici, gdje povijesno nalazište nudi zaklon. Povratak s obale može biti mokar, ali svježi morski zrak i intenzivan doživljaj prirode nadoknađuju vlagu."
           },
           "stops": [
             {
@@ -863,7 +863,7 @@
                 "hu": "Állítsa a kerékpárját az előtető alá.",
                 "ro": "Parcați bicicleta sub copertină.",
                 "en": "Park your bike under the overhang.",
-                "hr": "Parkirajte bicikl ispod nadstrešnice."
+                "hr": "Parkirajte bicikl pod nadstrešnicom."
               }
             },
             {
@@ -873,7 +873,7 @@
                 "hu": "Csendes hely az eső rövid kivárásához.",
                 "ro": "Un loc liniștit pentru a aștepta puțin oprirea ploii.",
                 "en": "A quiet place to wait out the rain for a short while.",
-                "hr": "Mirno mjesto za kratko čekanje da kiša prođe."
+                "hr": "Tiho mjesto za pričekati kišu kratko vrijeme."
               }
             },
             {
@@ -883,7 +883,7 @@
                 "hu": "Élvezze a száraz pihenőt egy pohár bor mellett.",
                 "ro": "Bucurați-vă de pauza la adăpost cu un pahar de vin.",
                 "en": "Enjoy the dry break with a glass of wine.",
-                "hr": "Uživajte u pauzi na suhom uz čašu vina."
+                "hr": "Uživajte u suhoj pauzi uz čašu vina."
               }
             },
             {
@@ -893,7 +893,7 @@
                 "hu": "Akassza az esőkabátját a fűtőtest közelébe száradni.",
                 "ro": "Puneți jacheta de ploaie la uscat lângă calorifer.",
                 "en": "Hang your raincoat near the heater to dry.",
-                "hr": "Objesite kabanicu blizu grijalice da se osuši."
+                "hr": "Objesite kabanicu blizu grijala da se osuši."
               }
             },
             {
@@ -903,7 +903,7 @@
                 "hu": "Vigyázzon a lejtőkön a kavicsos szakaszokon.",
                 "ro": "Atenție la coborârile pe porțiunile cu pietriș.",
                 "en": "Be careful on the descents on gravel sections.",
-                "hr": "Budite oprezni na spustovima na makadamskim dijelovima."
+                "hr": "Budite oprezni na spustovima po šljunku."
               }
             },
             {
@@ -923,7 +923,7 @@
                 "hu": "Ma egy rövid pihenő is elég az égbolt megfigyeléséhez.",
                 "ro": "O scurtă oprire e suficientă astăzi pentru a observa cerul.",
                 "en": "A short stay is enough today to observe the sky.",
-                "hr": "Kratak boravak je danas dovoljan za promatranje neba."
+                "hr": "Danas je dovoljno kratko zadržavanje da promatrate nebo."
               }
             }
           ],
@@ -953,9 +953,9 @@
               "Wear neon rain gear for better visibility in traffic."
             ],
             "hr": [
-              "Koristite blatobrane na biciklu kako biste izbjegli prskanje blata.",
-              "Kočite vrlo oprezno na vapnenačkim stijenama; postaju skliske poput leda.",
-              "Izbjegavajte neutvrđene šumske putove jer na kiši znatno omekšaju.",
+              "Koristite blatobrane na biciklu da izbjegnete prskanje blata.",
+              "Kočite vrlo pažljivo na vapnenačkim stijenama; postaju klizave kao led.",
+              "Izbjegavajte neasfaltirane šumske putove, jer se znatno omekšavaju na kiši.",
               "Nosite neonsku kišnu opremu radi bolje vidljivosti u prometu."
             ]
           }
@@ -966,7 +966,7 @@
             "hu": "A téli kerékpározás Isztrián tiszta kilátást és néptelen utakat ígér. Šišan faluból indulunk, a hűvös levegő gyorsan felébreszt minket. Egy rövid kulturális kitérő után a templomnál a Trapan borászathoz tekerünk, ahol a meleg fogadtatás és a modern dizájn remek kontrasztot ad a kinti hidegnek. Egy hosszú ebéd a konobában feltölt energiával a Monte Madonna kilátópontig. Itt fent gyakran fúj a Bura, ami kristálytiszta láthatóságot biztosít. A lejtmenet a Šišan-öbölig frissítő, a korai naplemente pedig gyönyörű színekkel festi meg a tengert.",
             "ro": "Ciclismul de iarnă în Istria înseamnă vederi clare și drumuri pustii. Pornim din satul Šišan, aerul rece trezindu-ne rapid. După o scurtă oprire culturală la biserică, drumul ne duce la crama Trapan, unde atmosfera caldă și arhitectura modernă oferă un contrast deosebit cu frigul de afară. Un prânz lung în konoba ne dă energia necesară pentru drumul spre punctul de belvedere Monte Madonna. Aici sus suflă adesea Bura, ceea ce asigură un orizont incredibil de clar. Coborârea spre Uvala Šišan este revigorantă înainte de a ne bucura de culorile mării la apusul timpuriu.",
             "en": "Winter cycling in Istria means clear views and deserted paths. We start in the village of Šišan, where the cool air quickly wakes us up. After a brief cultural stop at the church, the path leads us to Trapan Winery, where the warm atmosphere and modern architecture offer a great contrast to the cold outside. A long lunch at the konoba gives us the necessary energy for the route to the Monte Madonna viewpoint. Up here, the Bura wind often blows, ensuring a crystal-clear horizon. The descent to Uvala Šišan is refreshing before we enjoy the colors of the sea at the early sunset.",
-            "hr": "Zimski biciklizam u Istri znači čiste vidike i puste staze. Počinjemo u selu Šišan, gdje nas hladan zrak brzo budi. Nakon kratkog kulturnog zaustavljanja kod crkve, put nas vodi do vinarije Trapan, gdje topla atmosfera i moderna arhitektura nude izvrstan kontrast hladnoći vani. Dugi ručak u konobi daje nam potrebnu energiju za rutu do vidikovca Monte Madonna. Ovdje gore često puše bura, osiguravajući kristalno čist horizont. Spust do uvale Šišan je osvježavajući prije nego što uživamo u bojama mora uz rani zalazak sunca."
+            "hr": "Zimska vožnja biciklom po Istri znači bistre vidike i puste staze. Počinjemo u selu Šišan, gdje nas hladan zrak brzo razbudi. Nakon kratke kulturne stanice u crkvi, put vodi do vinarije Trapan, čija topla atmosfera i moderna arhitektura pružaju sjajan kontrast vanjskoj hladnoći. Dugačak ručak u konobi daje potrebnu energiju za rutu do vidikovca Monte Madonna. Ovdje često puše bura, što osigurava kristalno čisto nebo. Spust prema uvali Šišan osvježava prije nego uživamo u bojama mora pri ranom zalasku sunca."
           },
           "stops": [
             {
@@ -976,7 +976,7 @@
                 "hu": "Üljön a bejárat közelébe, hogy rálásson a kerékpárokra.",
                 "ro": "Așezați-vă lângă intrare pentru a vă supraveghea bicicletele.",
                 "en": "Sit near the entrance to keep an eye on your bikes.",
-                "hr": "Sjednite blizu ulaza kako biste držali bicikle na oku."
+                "hr": "Sjednite blizu ulaza da držite bicikle na oku."
               }
             },
             {
@@ -986,7 +986,7 @@
                 "hu": "A templom belsejében gyakran melegebb van, mint kint.",
                 "ro": "În interiorul bisericii este adesea mai cald decât afară.",
                 "en": "It is often warmer inside the church than outside.",
-                "hr": "Unutar crkve je često toplije nego vani."
+                "hr": "Često je toplije unutar crkve nego vani."
               }
             },
             {
@@ -996,7 +996,7 @@
                 "hu": "Melegítse fel a kezét egy pohár helyi borral.",
                 "ro": "Încălziți-vă mâinile cu un pahar de vin al casei.",
                 "en": "Warm your hands with a glass of the house wine.",
-                "hr": "Zagrijte ruke čašom domaćeg vina."
+                "hr": "Zagrijte ruke čašom kućnog vina."
               }
             },
             {
@@ -1006,7 +1006,7 @@
                 "hu": "Szánjon elég időt arra, hogy alaposan átmelegedjen.",
                 "ro": "Alocați suficient timp pentru a vă încălzi cum trebuie.",
                 "en": "Allow enough time to warm up properly.",
-                "hr": "Ostavite dovoljno vremena da se pošteno zagrijete."
+                "hr": "Ostavite dovoljno vremena za pravilno zagrijavanje."
               }
             },
             {
@@ -1016,7 +1016,7 @@
                 "hu": "Ügyeljen az erős széllökésekre a sziklák szélén.",
                 "ro": "Atenție la rafalele puternice de vânt pe marginea falezei.",
                 "en": "Watch out for strong wind gusts at the cliff edge.",
-                "hr": "Pripazite na jake udare vjetra na rubu litice."
+                "hr": "Pazite na jake nalete vjetra na rubu litice."
               }
             },
             {
@@ -1026,7 +1026,7 @@
                 "hu": "Tartsa a kesztyűjét könnyen elérhető helyen.",
                 "ro": "Păstrați-vă mănușile la îndemână.",
                 "en": "Keep your gloves easily accessible.",
-                "hr": "Neka vam rukavice budu lako dostupne."
+                "hr": "Držite rukavice lako dostupnima."
               }
             },
             {
@@ -1036,7 +1036,7 @@
                 "hu": "Zárja le hamar a túrát, mert naplemente után hirtelen lehűl az idő.",
                 "ro": "Încheiați turul rapid, deoarece se face foarte frig după apus.",
                 "en": "Finish the tour promptly as it gets very cold after sunset.",
-                "hr": "Završite turu na vrijeme jer nakon zalaska sunca postane jako hladno."
+                "hr": "Završite turu na vrijeme jer postaje vrlo hladno nakon zalaska sunca."
               }
             }
           ],
@@ -1066,10 +1066,10 @@
               "Check your tire pressure as it drops slightly in cold weather."
             ],
             "hr": [
-              "Koristite odjeću otpornu na vjetar, posebno za spustove.",
-              "Rukavice s dugim prstima neophodne su za zimu u Istri.",
-              "Pijte dovoljno vode čak i ako osjećate manju žeđ na hladnoći.",
-              "Provjerite tlak u gumama jer lagano pada na hladnom vremenu."
+              "Koristite vjetrootpornu odjeću, posebno za spustove.",
+              "Rukavice s punim prstima su nužne zimi u Istri.",
+              "Pijte dovoljno vode iako manje osjećate žeđ u hladnoći.",
+              "Provjerite tlak u gumama jer malo pada na hladnoći."
             ]
           }
         }
@@ -1099,7 +1099,7 @@
             "hu": "Parkoljon itt a falusi sétához.",
             "ro": "Parcați aici pentru plimbarea prin sat.",
             "en": "Park here for the village walk.",
-            "hr": "Ovdje parkirajte za šetnju selom."
+            "hr": "Parkirajte ovdje za šetnju selom."
           }
         },
         {
@@ -1118,7 +1118,7 @@
             "hu": "Gyalogosan elérhető a parkolótól.",
             "ro": "Accesibil pe jos din parcare.",
             "en": "Accessible on foot from the parking.",
-            "hr": "Dostupno pješice s parkirališta."
+            "hr": "Dostupno pješice iz parkirališta."
           }
         },
         {
@@ -1175,7 +1175,7 @@
             "hu": "Hajtson fel egészen a felső fennsíkig.",
             "ro": "Conduceți până la platoul superior.",
             "en": "Drive all the way to the upper plateau.",
-            "hr": "Vozite skroz do gornjeg platoa."
+            "hr": "Vozite sve do gornje visoravni."
           }
         },
         {
@@ -1194,7 +1194,7 @@
             "hu": "A tengerhez vezető út kissé göröngyös.",
             "ro": "Drumul spre mare este puțin accidentat.",
             "en": "The road to the sea is a bit bumpy.",
-            "hr": "Cesta do mora je malo kvrgava."
+            "hr": "Put prema moru je malo neravan."
           }
         },
         {
@@ -1213,7 +1213,7 @@
             "hu": "Tiszta pihenés a tengerparton.",
             "ro": "Relaxare pură pe malul mării.",
             "en": "Pure relaxation by the seashore.",
-            "hr": "Čisto opuštanje uz obalu mora."
+            "hr": "Pravo opuštanje uz morsku obalu."
           }
         }
       ],
@@ -1222,7 +1222,7 @@
         "hu": "Autóval kényelmesen elérheti Šišan különböző arcait. Kezdjen a történelmi központban a templommal és a borospincével. Ezután az út a Monte Madonnához vezet, ahol a történelem panorámával párosul. Végül irány a Šišan-öböl, Dél-Isztria azon kevés vadregényes partjainak egyike, amely közvetlenül elérhető járművel (óvatosan a murván!).",
         "ro": "Cu mașina, puteți ajunge confortabil la diferitele fațete ale satului Šišan. Începeți în centrul istoric cu biserica și crama. Apoi, drumul duce spre Monte Madonna, unde istoria se întâlnește cu panorama. În cele din urmă, mergeți spre golful Šišan, una dintre puținele porțiuni de coastă sălbatică din sudul Istriei care sunt accesibile direct cu vehiculul (atenție la pietriș!).",
         "en": "By car, you can comfortably reach the different facets of Šišan. Start in the historic core with the church and winery. Then, the drive leads to Monte Madonna, where history meets panorama. Finally, head to Šišan Bay, one of the few wild coastal stretches in southern Istria accessible directly by vehicle (be careful on the gravel!).",
-        "hr": "Automobilom možete udobno dosegnuti različite aspekte Šišana. Započnite u povijesnoj jezgri s crkvom i vinarijom. Zatim vožnja vodi do Monte Madonne, gdje se povijest susreće s panoramom. Naposljetku, uputite se u uvalu Šišan, jedan od rijetkih divljih obalnih poteza u južnoj Istri dostupnih izravno vozilom (budite oprezni na makadamu!)."
+        "hr": "Autom udobno možete doživjeti različite strane Šišana. Počnite u povijesnoj jezgri s crkvom i vinarijom. Zatim cesta vodi do Monte Madonne, gdje se povijest spaja s panoramom. Na kraju zaputite se do Uvale Šišan, jedne od rijetkih divljih obalnih staza u južnoj Istri do koje se može doći izravno vozilom (pažnja na šljunak!)."
       },
       "gastro_picks": {
         "de": [
@@ -1356,10 +1356,10 @@
           "Do not leave valuables in the car at the bay."
         ],
         "hr": [
-          "Cesta do uvale je neasfaltirana, vozite polako.",
-          "U centru sela parkirajte isključivo na označenim mjestima.",
+          "Put do uvale je neasfaltiran, vozite polako.",
+          "Parkirajte u središtu sela samo na označenim mjestima.",
           "Posjetite Trapan na kraju ako želite kupiti vino.",
-          "Ne ostavljajte dragocjenosti u automobilu u uvali."
+          "Ne ostavljajte vrijedne stvari u autu na uvali."
         ]
       },
       "variants": {
@@ -1369,7 +1369,7 @@
             "hu": "Autóval Šišan még erős esőben is kényelmesen felfedezhető, mivel minden célpont jól megközelíthető. Közvetlenül a falu központjában parkolunk, és gyorsan bemenekülünk egy kávéra. A Trapan borászat saját parkolóval rendelkezik az épület mellett, így szárazon jutunk el a kóstolóig. Az ebédet a konobában nyugodtan élvezzük, miközben kint szakad az eső. A Monte Madonna kilátópontig vezető út az autóból is szép látványt nyújt, a romok pedig védelmet adnak egy rövid sétához. A napot a tengerparti autózással zárjuk, ahol biztonságban és szárazon figyelhetjük az elemeket.",
             "ro": "Cu mașina, Šišan poate fi explorat relaxat chiar și pe ploaie torențială, toate obiectivele fiind ușor accesibile. Parcăm direct în centrul satului și fugim la adăpost pentru prima cafea. Vinăria Trapan are parcare chiar lângă clădire, deci drumul spre degustare rămâne scurt și uscat. Savurăm prânzul la konoba în liniște în timp ce afară cerul se revarsă. Drumul spre punctul de belvedere Monte Madonna oferă priveliști frumoase și din mașină, iar o scurtă plimbare duce la ruinele protejate. Ziua se încheie cu o tură de-a lungul coastei, unde putem observa fenomenele meteo în siguranță.",
             "en": "By car, Šišan can be explored in a relaxed way even in heavy rain, as all destinations are easily accessible. We park right in the village center and duck into the dry for our first coffee. Trapan Winery has parking directly at the building, so the path to the wine remains short and dry. We enjoy lunch at the konoba in peace while the heavens open outside. The drive to the Monte Madonna viewpoint offers great views even from the car, and a short walk leads to the sheltered ruins. The day ends with a drive along the coast, where we can observe the weather phenomena safely and dryly.",
-            "hr": "Automobilom se Šišan može istražiti na opušten način čak i po jakoj kiši, jer su sva odredišta lako dostupna. Parkiramo u samom centru sela i sklanjamo se na suho na prvu kavu. Vinarija Trapan ima parkiralište odmah uz zgradu, pa put do vina ostaje kratak i suh. U miru uživamo u ručku u konobi dok se vani nebo otvara. Vožnja do vidikovca Monte Madonna nudi sjajne vidike čak i iz automobila, a kratka šetnja vodi do natkritih ruševina. Dan završava vožnjom uz obalu, gdje možemo sigurno i na suhom promatrati vremenske pojave."
+            "hr": "Autom se Šišan može opušteno istražiti čak i po jakom pljusku, jer su sve destinacije lako dostupne. Parkiramo odmah u centru sela i sklanjamo se na prvi kavu. Vinarija Trapan ima parkiralište odmah uz zgradu, pa je put do vina kratak i suh. Ručamo u miru u konobi dok vani pljušti. Vožnja do vidikovca Monte Madonna pruža odlične poglede čak i iz auta, a kratka šetnja vodi do zaštićenih ruševina. Dan završava vožnjom uz obalu, gdje sigurno i suho promatramo vremenske pojave."
           },
           "stops": [
             {
@@ -1379,7 +1379,7 @@
                 "hu": "Használja a kávézóhoz közeli parkolót, hogy lerövidítse az utat.",
                 "ro": "Folosiți parcarea de lângă cafenea pentru a scurta drumul.",
                 "en": "Use the parking lot near the café to keep the walk short.",
-                "hr": "Koristite parkiralište u blizini kafića kako bi šetnja bila kratka."
+                "hr": "Iskoristite parkiralište blizu kafića da skratite pješačenje."
               }
             },
             {
@@ -1389,7 +1389,7 @@
                 "hu": "Közvetlenül a templom előtt korlátozott számú parkolóhely van.",
                 "ro": "Există locuri de parcare limitate chiar în fața bisericii.",
                 "en": "There are limited parking spaces directly in front of the church.",
-                "hr": "Postoji ograničen broj parkirnih mjesta izravno ispred crkve."
+                "hr": "Ispred crkve ima ograničen broj mjesta za parkiranje."
               }
             },
             {
@@ -1399,7 +1399,7 @@
                 "hu": "Ingyenes parkolás közvetlenül a borászat bejáratánál.",
                 "ro": "Parcare gratuită chiar la intrarea în cramă.",
                 "en": "Free parking directly at the entrance of the winery.",
-                "hr": "Besplatno parkiranje izravno na ulazu u vinariju."
+                "hr": "Besplatno parkiranje neposredno na ulazu u vinariju."
               }
             },
             {
@@ -1409,7 +1409,7 @@
                 "hu": "A legtöbb étterem saját vendégparkolót biztosít.",
                 "ro": "Majoritatea restaurantelor oferă parcări proprii pentru clienți.",
                 "en": "Most restaurants offer their own guest parking.",
-                "hr": "Većina restorana nudi vlastiti parking za goste."
+                "hr": "Većina restorana nudi vlastito gostinsko parkiranje."
               }
             },
             {
@@ -1419,7 +1419,7 @@
                 "hu": "Majdnem a kilátópontig el lehet jutni autóval.",
                 "ro": "Se poate înainta cu mașina până aproape de punctul de belvedere.",
                 "en": "You can drive almost all the way to the viewpoint.",
-                "hr": "Možete se dovesti gotovo do samog vidikovca."
+                "hr": "Možete voziti gotovo do samog vidikovca."
               }
             },
             {
@@ -1429,7 +1429,7 @@
                 "hu": "Erős esőben maradjon az autóban, és élvezze a hullámok látványát.",
                 "ro": "Rămâneți în mașină pe ploaie torențială și admirați spectacolul mării.",
                 "en": "Stay in the car during heavy rain and enjoy the view of the sea spray.",
-                "hr": "Ostanite u automobilu tijekom jake kiše i uživajte u pogledu na morsku pjenu."
+                "hr": "Ostanite u autu tijekom jakog pljuska i uživajte u pogledu na prskanje mora."
               }
             },
             {
@@ -1439,7 +1439,7 @@
                 "hu": "Védett pillanat az autóban, kilátással a végtelen tengerre.",
                 "ro": "Un moment la adăpost în mașină cu vedere spre marea largă.",
                 "en": "A sheltered moment in the car with a view of the open sea.",
-                "hr": "Zaklonjeni trenutak u automobilu s pogledom na otvoreno more."
+                "hr": "Zaštićeni trenutak u autu s pogledom na otvoreno more."
               }
             }
           ],
@@ -1469,10 +1469,10 @@
               "Ensure your windshield wipers are in good condition."
             ],
             "hr": [
-              "Vozite oprezno neasfaltiranim cestama do obale (pazite na kolotrage).",
-              "Čuvajte se lokvi koje mogu biti dublje nego što izgledaju.",
-              "Vinarija Trapan je idealna jer s parkirališta u zgradu ulazite suhi.",
-              "Provjerite jesu li vam brisači u dobrom stanju."
+              "Vozite oprezno po neasfaltiranim cestama prema obali (pazite na udubine).",
+              "Pazite na lokve, mogu biti dublje nego što izgledaju.",
+              "Vinarija Trapan je idealna jer možete od parkirališta doći do zgrade suhi.",
+              "Provjerite jesu li brisači vjetrobrana u dobrom stanju."
             ]
           }
         },
@@ -1482,7 +1482,7 @@
             "hu": "Télen Šišan környéke csodálatos nyugalmat áraszt. A nap egy rövid sétával indul a falu központjában, mielőtt egy kávéval felmelegednénk. A Trapan borászat modern eleganciával fogad minket, a belső tér meleg színei különösen jól esnek a hidegben. Az ebéd a konobában a nap fénypontja, ahol megismerjük az isztriai téli ételeket. A Monte Madonna-hoz vezető út télen éri meg leginkább, mert a levegő olyan tiszta, hogy kilométerekre ellátni. A napot a Šišan-öbölnél zárjuk, ahol az autóból csodálhatjuk a téli naplemente drámai színeit.",
             "ro": "Iarna, drumul prin regiunea Šišan oferă o liniște minunată. Ziua începe cu o scurtă plimbare în centrul satului înainte de a ne încălzi cu o cafea. Vinăria Trapan ne întâmpină cu eleganță modernă, culorile calde ale interiorului potrivindu-se perfect cu anotimpul rece. Prânzul la konoba este punctul culminant culinar, unde descoperim mâncărurile de iarnă istriene. Drumul spre Monte Madonna merită în mod special iarna, deoarece aerul este atât de clar încât vederea se întinde pe kilometri întregi. Încheiem ziua la Uvala Šišan, unde din mașină putem admira culorile dramatice ale apusului de iarnă.",
             "en": "In winter, driving through the Šišan region offers a wonderful peace. The day begins with a short walk in the village center before warming up with a coffee. Trapan Winery welcomes us with modern elegance, where the warm colors of the interior suit the cold season particularly well. Lunch at the konoba is the culinary highlight, where we get to know Istrian winter dishes. The drive to Monte Madonna is especially worthwhile in winter, as the air is so clear that the view extends for miles. We conclude the day at Uvala Šišan, where we can marvel at the dramatic colors of the winter sunset while sitting in the car.",
-            "hr": "Zimi vožnja regijom Šišana nudi prekrasan mir. Dan počinje kratkom šetnjom centrom sela prije zagrijavanja uz kavu. Vinarija Trapan dočekuje nas modernom elegancijom, gdje tople boje interijera posebno dobro pristaju hladnom godišnjem dobu. Ručak u konobi je kulinarski vrhunac, gdje upoznajemo istarska zimska jela. Vožnja do Monte Madonne posebno se isplati zimi, jer je zrak toliko čist da se pogled pruža kilometrima. Dan zaključujemo u uvali Šišan, gdje se iz automobila možemo diviti dramatičnim bojama zimskog zalaska sunca."
+            "hr": "Zimska vožnja kroz područje Šišana nudi prekrasan mir. Dan započinje kratkom šetnjom kroz središte sela prije zagrijavanja uz kavu. Vinarija Trapan dočekuje nas modernom elegancijom, gdje tople boje interijera posebno pristaju hladnoj sezoni. Ručak u konobi je kulinarski vrhunac, gdje upoznajemo istarske zimske specijalitete. Vožnja do Monte Madonne posebno se isplati zimi, jer je zrak toliko bistar da vidik seže kilometrima. Dan završavamo u Uvali Šišan, gdje se iz auta možemo diviti dramatičnim bojama zimskog zalaska sunca."
           },
           "stops": [
             {
@@ -1492,7 +1492,7 @@
                 "hu": "Télen nem probléma közvetlenül a központban parkolót találni.",
                 "ro": "Iarna nu este o problemă să găsiți parcare direct în centru.",
                 "en": "In winter, finding a parking spot right in the center is no problem.",
-                "hr": "Zimi pronalaženje parkirnog mjesta u samom centru nije problem."
+                "hr": "Zimi nije problem naći parkirno mjesto pravo u centru."
               }
             },
             {
@@ -1502,7 +1502,7 @@
                 "hu": "A rövid távolságok előnyösek télen, hogy ne fázzunk meg.",
                 "ro": "Distanțele scurte sunt un avantaj iarna pentru a nu îngheța.",
                 "en": "Short distances are an advantage in winter to avoid getting cold.",
-                "hr": "Kratke udaljenosti su prednost zimi kako biste izbjegli pothlađivanje."
+                "hr": "Kratke udaljenosti su prednost zimi da se ne ohladite."
               }
             },
             {
@@ -1512,7 +1512,7 @@
                 "hu": "Használja a fűtött üzlethelyiséget a vásárláshoz.",
                 "ro": "Folosiți sala de vânzare încălzită pentru cumpărături.",
                 "en": "Use the heated salesroom for your purchases.",
-                "hr": "Koristite grijani prodajni prostor za kupnju."
+                "hr": "Iskoristite grijanu prodajnu prostoriju za svoje kupnje."
               }
             },
             {
@@ -1532,7 +1532,7 @@
                 "hu": "A parkolóból is szép a kilátás, anélkül, hogy ki kellene szállni.",
                 "ro": "Parcarea oferă o vedere excelentă fără a fi nevoie să părăsiți mașina.",
                 "en": "The parking lot offers a great view without having to leave the car.",
-                "hr": "Parkiralište nudi sjajan pogled bez potrebe za izlaskom iz automobila."
+                "hr": "Parkiralište nudi odličan pogled bez potrebe da izlazite iz auta."
               }
             },
             {
@@ -1542,7 +1542,7 @@
                 "hu": "Járassa kicsit a motort, hogy használhassa a fűtést.",
                 "ro": "Lăsați motorul pornit scurt timp pentru a folosi căldura.",
                 "en": "Run the engine briefly to use the heater.",
-                "hr": "Nakratko upalite motor kako biste iskoristili grijanje."
+                "hr": "Upalite motor nakratko da koristite grijač."
               }
             },
             {
@@ -1582,10 +1582,10 @@
               "Battery check before the tour: the cold taxes the car battery."
             ],
             "hr": [
-              "Uvijek nosite toplu deku u automobilu.",
-              "Ceste rano ujutro mogu biti mjestimično skliske (mraz).",
-              "Koristite svjetla za maglu ako se s mora podigne zimska magla.",
-              "Provjera akumulatora prije ture: hladnoća opterećuje akumulator."
+              "Uvijek imajte topao pokrivač u autu.",
+              "Putevi mogu biti mjestimično sklizak rano ujutro (mraz).",
+              "Koristite maglenke ako se smrtna magla spusti s mora.",
+              "Provjera akumulatora prije ture: hladnoća opterećuje automobilsku bateriju."
             ]
           }
         }
@@ -1634,7 +1634,7 @@
             "hu": "Közvetlenül a buszmegálló sarkánál.",
             "ro": "Chiar după colț de stația de autobuz.",
             "en": "Just around the corner from the bus stop.",
-            "hr": "Odmah iza ugla od autobusne stanice."
+            "hr": "Samo iza ugla od stajališta autobusa."
           }
         },
         {
@@ -1653,7 +1653,7 @@
             "hu": "Buszos előny: borkóstoló vezetés nélkül.",
             "ro": "Avantajul tranzitului: degustare de vinuri fără stresul condusului.",
             "en": "Transit advantage: wine tasting without driving stress.",
-            "hr": "Prednost prijevoza: kušanje vina bez stresa oko vožnje."
+            "hr": "Prednost tranzita: kušanje vina bez stresa vožnje."
           }
         },
         {
@@ -1672,7 +1672,7 @@
             "hu": "Hangulatos ebédszünet a faluban.",
             "ro": "Pauză de prânz relaxantă în sat.",
             "en": "Cozy lunch break in the village.",
-            "hr": "Ugodna stanka za ručak u selu."
+            "hr": "Ugodna pauza za ručak u selu."
           }
         },
         {
@@ -1719,7 +1719,7 @@
         "hu": "Látogasson el Šišanba környezetbarát módon, busszal Pulából. A nap a bájos faluközpontra és a történelmi Monte Madonna kilátópontra összpontosít. Élvezze a Trapan pincészet kiváló borait bűntudat nélkül, sétáljon a csendes utcákon, majd fedezze fel a tengeri kilátással rendelkező dombi erődöt. Egy lassú, pihentető nap Isztrián.",
         "ro": "Vizitați Šišan într-un mod ecologic cu autobuzul din Pula. Ziua se concentrează pe centrul fermecător al satului și pe punctul de belvedere istoric Monte Madonna. Savurați vinurile excelente de la Trapan fără regrete și plimbați-vă pe străzile liniștite înainte de a explora fortăreața de pe deal cu vederea sa spre mare. O zi relaxată în Istria.",
         "en": "Visit Šišan in an eco-friendly way by bus from Pula. The day focuses on the charming village center and the historic Monte Madonna viewpoint. Enjoy the excellent wines at Trapan without worry and stroll through the quiet streets before exploring the hill fortress with its sea view. A slow, decelerated day in Istria.",
-        "hr": "Posjetite Šišan na ekološki prihvatljiv način autobusom iz Pule. Dan se fokusira na šarmantno središte sela i povijesni vidikovac Monte Madonna. Bez brige uživajte u izvrsnim vinima u Trapanu i prošećite mirnim ulicama prije istraživanja brdske tvrđave s pogledom na more. Polagan, usporen dan u Istri."
+        "hr": "Posjetite Šišan ekološki odgovorno autobusom iz Pule. Dan se usredotočuje na šarmantno središte sela i povijesni vidikovac Monte Madonna. Uživajte u izvrsnim vinima u Trapanu bez brige i prošećite tihim ulicama prije istraživanja brdske utvrde s pogledom na more. Polagan, usporen dan u Istri."
       },
       "gastro_picks": {
         "de": [
@@ -1848,10 +1848,10 @@
           "Ask locals about the last bus."
         ],
         "hr": [
-          "Učestalost autobusa je manja vikendom.",
-          "Kupite karte kod vozača ili putem aplikacije.",
-          "Monte Madonna je udaljena 40 minuta hoda od autobusa.",
-          "Pitajte lokalno stanovništvo za zadnji autobus."
+          "U dane vikenda frekvencija autobusa je niža.",
+          "Karte kupite kod vozača ili putem aplikacije.",
+          "Do Monte Madonne treba 40 minuta hoda od autobusa.",
+          "Pitajte mještane za posljednji autobus."
         ]
       },
       "variants": {
@@ -1861,7 +1861,7 @@
             "hu": "A buszos utazás Šišanba esőben igényel némi tervezést, de autentikus élményt nyújt. Érkezés után azonnal menedéket találunk egy közeli kávézóban. A templomhoz és a Trapan borászathoz vezető út elég rövid ahhoz, hogy esernyővel is szárazon megússzuk. A borkóstoló a Trapan-nál a tökéletes rosszidő-program. Egy kiadós ebéd a faluban felmelegít, mielőtt kisétálnánk a Monte Madonna-hoz, ahol a történelmi romok esőben különösen drámaiak. A napot a faluban zárjuk, amíg a buszunk vissza nem indul.",
             "ro": "Călătoria cu autobuzul spre Šišan necesită puțină planificare pe ploaie, dar oferă o experiență autentică. După sosire, găsim imediat adăpost într-o cafenea apropiată. Drumul spre biserică și spre vinăria Trapan este suficient de scurt pentru a fi parcurs cu umbrela fără a ne uda. Degustarea de la Trapan este programul perfect pentru vreme rea. Un prânz sățios în sat ne încălzește înainte de a merge spre Monte Madonna, unde complexul istoric pare deosebit de dramatic pe ploaie. Încheiem ziua în sat până la plecarea autobuzului.",
             "en": "Traveling by bus to Šišan requires some planning in the rain but rewards with an authentic experience. Upon arrival, we immediately find shelter in a nearby café. The walk to the church and Trapan Winery is short enough to manage with an umbrella. The wine tasting at Trapan is the perfect bad-weather activity. A hearty lunch in the village warms us up before we walk to Monte Madonna, where the historical sites look particularly dramatic in the rain. We end the day in the village until the bus takes us back safely.",
-            "hr": "Putovanje autobusom u Šišan zahtijeva određeno planiranje po kiši, ali nagrađuje autentičnim iskustvom. Po dolasku odmah pronalazimo zaklon u obližnjem kafiću. Šetnja do crkve i vinarije Trapan dovoljno je kratka da se svlada s kišobranom. Kušanje vina u Trapanu savršena je aktivnost za loše vrijeme. Krepak ručak u selu nas grije prije šetnje do Monte Madonne, gdje povijesne lokacije izgledaju posebno dramatično na kiši. Dan završavamo u selu dok nas autobus sigurno ne odveze natrag."
+            "hr": "Putovanje autobusom do Šišana zahtijeva malo planiranja po kiši, ali nagrađuje autentičnim doživljajem. Po dolasku odmah nalazimo zaklon u obližnjem kafiću. Šetnja do crkve i vinarije Trapan dovoljno je kratka da se može izvesti s kišobranom. Kušanje vina u Trapanu je savršena aktivnost za loše vrijeme. Srdačni ručak u selu nas zagrije prije no što prošetamo do Monte Madonne, gdje povijesna mjesta izgledaju posebno dramatično po kiši. Dan završavamo u selu dok nas autobus sigurno ne vrati."
           },
           "stops": [
             {
@@ -1871,7 +1871,7 @@
                 "hu": "A buszmegálló csak korlátozott védelmet nyújt az eső ellen.",
                 "ro": "Stația oferă doar protecție limitată împotriva ploii.",
                 "en": "The bus stop offers only limited protection from the rain.",
-                "hr": "Autobusna stanica nudi samo ograničenu zaštitu od kiše."
+                "hr": "Stajalište autobusa nudi samo ograničen zaklon od kiše."
               }
             },
             {
@@ -1901,7 +1901,7 @@
                 "hu": "Válasszon éttermet a buszmegálló közelében a visszautazáshoz.",
                 "ro": "Alegeți un restaurant aproape de stația de autobuz pentru drumul de întoarcere.",
                 "en": "Choose a restaurant near the bus stop for your return trip.",
-                "hr": "Odaberite restoran u blizini autobusne stanice za povratak."
+                "hr": "Odaberite restoran blizu autobusnog stajališta za povratak."
               }
             },
             {
@@ -1911,7 +1911,7 @@
                 "hu": "A gyalogút esőben kicsit csúszós lehet.",
                 "ro": "Drumul pietonal poate fi puțin alunecos pe ploaie.",
                 "en": "The footpath can be a bit slippery in the rain.",
-                "hr": "Pješačka staza na kiši može biti pomalo skliska."
+                "hr": "Pješačka staza može biti malo skliska po kiši."
               }
             },
             {
@@ -1921,7 +1921,7 @@
                 "hu": "Ellenőrizze a buszjáratokat online, hogy elkerülje az esőben való várakozást.",
                 "ro": "Verificați programul autobuzelor online pentru a evita așteptarea în ploaie.",
                 "en": "Check bus times online to avoid waiting in the rain.",
-                "hr": "Provjerite vremena autobusa online kako biste izbjegli čekanje na kiši."
+                "hr": "Provjerite vrijeme polazaka online da ne biste čekali na kiši."
               }
             }
           ],
@@ -1951,10 +1951,10 @@
               "Buses often run more irregularly in the rain."
             ],
             "hr": [
-              "Ponesite sa sobom kompaktan, ali čvrst kišobran.",
+              "Ponesite kompaktan, ali čvrst kišobran.",
               "Izbjegavajte kasne autobuse u slučaju da vrijeme odgodi putovanje.",
-              "Mali ruksak s navlakom za kišu održat će vaše kupnje suhima.",
-              "Autobusi po kiši često voze neredovitije."
+              "Mali ruksak s navlakom protiv kiše držat će vaše kupnje suhim.",
+              "Autobusi često voze neurednije po kiši."
             ]
           }
         },
@@ -1964,7 +1964,7 @@
             "hu": "Télen busszal ellátogatni Šišanba különleges, lelassult ritmust ad a napnak. Érkezés után először a helyi kávézóban melegszünk fel. A templomig tartó séta során a hűvös levegő frissítően hat. A Trapan borászatban élvezzük a meleg vendégszeretetet és a modern borokat, majd egy konobában töltődünk fel isztriai ételekkel. A Monte Madonna felé tartó út télen kristálytiszta kilátást nyújt. Időben visszaérünk a faluba, hogy még az éjszakai hideg beállta előtt elérjük a buszunkat.",
             "ro": "Vizitarea localității Šišan cu autobuzul iarna are un ritm propriu, mult mai lent. După sosire, ne încălzim mai întâi la cafeneaua locală. Aerul rece în timpul plimbării spre biserică este revigorant. La vinăria Trapan ne bucurăm de hospitalitatea caldă și de vinurile moderne înainte de a ne fortifica la o konoba cu mâncare tipic istriană. Drumul spre Monte Madonna oferă iarna vederi clare care merită orice efort. Revenim în sat la timp pentru a lua autobuzul înainte de lăsarea gerului nopții.",
             "en": "Visiting Šišan by bus in winter has its own unique, slowed-down rhythm. After arrival, we first warm up at the local café. The cool air during the walk to the church is refreshing. At Trapan Winery, we enjoy warm hospitality and modern wines before strengthening ourselves for the afternoon with typical Istrian food at a konoba. The walk to Monte Madonna offers clear views in winter that are worth every effort. We return to the village in time to catch the bus before the cold of the night sets in.",
-            "hr": "Posjet Šišanu autobusom zimi ima svoj jedinstven, usporen ritam. Nakon dolaska, prvo se zagrijavamo u lokalnom kafiću. Hladan zrak tijekom šetnje do crkve je osvježavajući. U vinariji Trapan uživamo u toplom gostoprimstvu i modernim vinima prije nego što se za poslijepodne okrijepimo tipičnom istarskom hranom u konobi. Šetnja do Monte Madonne nudi zimi čiste vidike koji su vrijedni svakog truda. Vraćamo se u selo na vrijeme kako bismo uhvatili autobus prije nego što nastupi noćna hladnoća."
+            "hr": "Posjet Šišanu autobusom zimi ima svoj jedinstveni, usporeni ritam. Nakon dolaska najprije se zagrijemo u lokalnom kafiću. Hladan zrak tijekom šetnje do crkve je osvježavajući. U vinariji Trapan uživamo u toploj dobrodošlici i modernim vinima prije nego se ojačamo za popodne tipičnom istarskom hranom u konobi. Šetnja do Monte Madonne pruža čiste zimske poglede koji vrijede truda. Vraćamo se u selo na vrijeme da uhvatimo autobus prije nego noćna hladnoća stigne."
           },
           "stops": [
             {
@@ -1974,7 +1974,7 @@
                 "hu": "Viseljen meleg ruhát a buszmegállóban való várakozáshoz.",
                 "ro": "Purtați haine groase pentru timpul de așteptare în stație.",
                 "en": "Wear warm clothing for the wait at the bus stop.",
-                "hr": "Nosite toplu odjeću za čekanje na autobusnoj stanici."
+                "hr": "Obucite toplu odjeću za čekanje na autobusnom stajalištu."
               }
             },
             {
@@ -1984,7 +1984,7 @@
                 "hu": "A templom vastag falai télen jól tartják a benti hőt.",
                 "ro": "Zidurile groase ale bisericii păstrează bine căldura iarna.",
                 "en": "The thick church walls hold the warmth well in winter.",
-                "hr": "Debeli zidovi crkve zimi dobro drže toplinu."
+                "hr": "Debeli zidovi crkve dobro zadržavaju toplinu zimi."
               }
             },
             {
@@ -2004,7 +2004,7 @@
                 "hu": "Használja ki az ebédszünetet egy hosszabb felmelegedésre.",
                 "ro": "Folosiți pauza de prânz pentru o perioadă lungă de încălzire.",
                 "en": "Use the lunch break for a long warming-up phase.",
-                "hr": "Iskoristite stanku za ručak za dugu fazu zagrijavanja."
+                "hr": "Iskoristite pauzu za ručak za dugo zagrijavanje."
               }
             },
             {
@@ -2014,7 +2014,7 @@
                 "hu": "Ügyeljen a jeges szélre a kilátóponton.",
                 "ro": "Atenție la vântul înghețat la punctul de belvedere.",
                 "en": "Watch out for the icy wind at the viewpoint.",
-                "hr": "Pripazite na ledeni vjetar na vidikovcu."
+                "hr": "Pazite na ledeni vjetar na vidikovcu."
               }
             },
             {
@@ -2024,7 +2024,7 @@
                 "hu": "Legyen ott pár perccel előbb, mert a buszok télen pontosabbak lehetnek.",
                 "ro": "Fiți prezenți cu câteva minute mai devreme, autobuzele sunt mai punctuale iarna.",
                 "en": "Be there a few minutes early, as buses tend to be more punctual in winter.",
-                "hr": "Budite tamo nekoliko minuta ranije jer autobusi zimi znaju biti točniji."
+                "hr": "Dođite nekoliko minuta ranije, jer su autobusi zimi često točniji."
               }
             }
           ],
@@ -2054,10 +2054,10 @@
               "Plan the tour so that you are at the bus stop before dark."
             ],
             "hr": [
-              "Obratite pozornost na reducirani zimski vozni red autobusa.",
-              "Uvijek nosite termosicu s toplim napitkom.",
-              "Nosite obuću koja se ne skliže za šetnju selom.",
-              "Planirajte turu tako da budete na autobusnoj stanici prije mraka."
+              "Obratite pozornost na smanjeni zimski vozni red autobusa.",
+              "Uvijek ponesite termoflasu s toplim napitkom.",
+              "Obujte cipele s dobrom protukliznom potplatom za šetnju po selu.",
+              "Isplanirajte turu tako da ste na stajalištu prije mraka."
             ]
           }
         }

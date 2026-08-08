@@ -32,7 +32,7 @@
             "hu": "Igyon meg egy kávét a helyiekkel a faluban.",
             "ro": "Savurați prima cafea alături de localnici în sat.",
             "en": "Enjoy your first coffee while watching village life.",
-            "hr": "Uživajte u prvoj kavi promatrajući seoski život."
+            "hr": "Uživajte u prvom kavu dok promatrate život sela."
           }
         },
         {
@@ -70,7 +70,7 @@
             "hu": "Egy csendes falusi templom, helyi jelentőséggel.",
             "ro": "O biserică liniștită de sat, cu importanță locală.",
             "en": "A peaceful village church with local significance.",
-            "hr": "Mirna seoska crkva od lokalnog značaja."
+            "hr": "Miran mjesni župni crkva s lokalnim značenjem."
           }
         },
         {
@@ -89,7 +89,7 @@
             "hu": "Kóstolja meg a pekát vagy a sült húsokat.",
             "ro": "Încercați peka sau carnea la grătar.",
             "en": "Try some peka or local grilled meats.",
-            "hr": "Probajte peku ili domaće meso s roštilja."
+            "hr": "Probajte peku ili lokalno pečeno meso."
           }
         },
         {
@@ -127,7 +127,7 @@
             "hu": "Fantasztikus kilátás a termékeny Imotski-mezőre.",
             "ro": "Vedere fantastică asupra câmpiei fertile Imotski.",
             "en": "Fantastic views over the fertile Imotski field.",
-            "hr": "Fantastičan pogled na plodno Imotsko polje."
+            "hr": "Fantastični pogledi na plodno Imotsko polje."
           }
         },
         {
@@ -146,7 +146,7 @@
             "hu": "A nap nyugodt lezárása a faluban.",
             "ro": "O încheiere relaxată a zilei în sat.",
             "en": "A relaxed end to the day in the village.",
-            "hr": "Opušten završetak dana u selu."
+            "hr": "Opusten završetak dana u selu."
           }
         }
       ],
@@ -155,7 +155,7 @@
         "hu": "Kezdje a napot Gornji Vinjaniban egy barátságos kávéval a falu központjában. Ezt követően fedezze fel a hagyományos öreg kőházakat és a Szent Rókus-templomot. Az ebédidő a kiadós helyi konyháé egy jellegzetes konobában. Délután sétáljon el az Imotski-mezőre néző kilátóhoz, mielőtt nyugodtan befejezné a napot.",
         "ro": "Începeți ziua în Gornji Vinjani cu o cafea primitoare în centrul satului. Apoi explorați vechile case tradiționale din piatră și biserica Sfântul Rochus. Prânzul este dedicat bucătăriei locale copioase într-o konoba tipică. După-amiaza, mergeți la punctul de belvedere de deasupra câmpiei Imotski, înainte de a încheia ziua relaxat.",
         "en": "Start your day in Gornji Vinjani with a friendly coffee in the village center. Next, explore the traditional old stone houses and the Church of St. Roch. Midday is for hearty local cuisine in a typical konoba. In the afternoon, walk to the viewpoint overlooking the Imotski field before finishing the day at a relaxed pace.",
-        "hr": "Započnite dan u Gornjim Vinjanima uz kavu u središtu sela. Zatim istražite tradicionalne stare kamene kuće i crkvu sv. Roka. Podne je rezervirano za krepku domaću kuhinju u tipičnoj konobi. Poslijepodne prošećite do vidikovca s pogledom na Imotsko polje prije nego što dan završite opuštenim tempom."
+        "hr": "Započnite dan u Gornjim Vinjanima uz prijateljski kavu u centru sela. Zatim istražite tradicionalne stare kamene kuće i crkvu sv. Roka. U podne uživajte u obilnoj lokalnoj kuhinji u tipičnoj konobi. Popodne prošetajte do vidikovca s pogledom na Imotsko polje, prije nego što dan završite u opuštenom ritmu."
       },
       "gastro_picks": {
         "de": [
@@ -284,10 +284,10 @@
           "Perfect for amateur photographers."
         ],
         "hr": [
-          "Nosite udobnu obuću za pješačenje po kamenitim cestama.",
-          "Ponesite vodu jer ljeti može biti jako vruće.",
-          "Lokalno stanovništvo je vrlo gostoljubivo.",
-          "Savršeno za fotografe amatere."
+          "Nosite udobnu obuću za hodanje zbog kamenitih cesta.",
+          "Ponesite vodu, jer ljeti može biti vrlo vruće.",
+          "Mještani su veoma gostoljubivi.",
+          "Idealno za amatere fotografe."
         ]
       },
       "variants": {
@@ -297,7 +297,7 @@
             "hu": "Az esős reggel Gornji Vinjaniban egy gőzölgő kávé mellett kezdődik, miközben figyeljük a vörös tetőkön kopogó esőt. Délben egy konoba vastag falai között találunk menedéket, ahol a helyi ételek illata feledteti a kinti szürkeséget. Délután a régi kőházak között sétálunk, melyek sötét tónusa az esőben még patinásabbnak hat. Az este csendesen telik, ahogy a köd lassan megül az Imotski-mező felett, különleges keretet adva a nap végének.",
             "ro": "O dimineață ploioasă în Gornji Vinjani începe cel mai bine cu o cafea prelungită, privind picăturile care bat în acoperișurile roșii. La prânz ne adăpostim într-o konoba tradițională, unde aromele mâncărurilor locale alungă umezeala de afară. După-amiaza explorăm casele vechi de piatră, ale căror ziduri de calcar capătă nuanțe dramatice sub ploaie. Seara se încheie liniștit, în timp ce ceața se lasă peste câmpia Imotsko polje, creând o atmosferă mistică.",
             "en": "A rainy morning in Gornji Vinjani starts perfectly with a long coffee as raindrops drum on the red tile roofs. At noon, we find shelter in a traditional konoba, where the scent of local stews warms the damp air. In the afternoon, we explore the old stone houses, their grey limestone looking particularly dark and characterful in the rain. The evening fades out quietly as mist settles over the Imotsko field, creating a mystical atmosphere to end the day.",
-            "hr": "Kišno jutro u Gornjim Vinjanima savršeno počinje dugom kavom dok kapi kiše bubnjaju po crvenim crepovima. U podne tražimo zaklon u tradicionalnoj konobi, gdje miris domaćih variva grije vlažan zrak. Poslijepodne istražujemo stare kamene kuće, čiji sivi vapnenac na kiši izgleda posebno tamno i karakterno. Večer mirno blijedi dok se magla spušta nad Imotsko polje, stvarajući mističnu atmosferu za kraj dana."
+            "hr": "Kišno jutro u Gornjim Vinjanima savršeno počinje dugim kavom dok kapljice kiše bubnjaju po crvenim crijepovima. U podne nalazimo sklonište u tradicionalnoj konobi, gdje miris lokalnih gulaša grije vlažan zrak. Popodne istražujemo stare kamene kuće, čiji su sivi vapnenaci u kiši osobito tamni i pun karaktera. Večer se tiho gasi dok se izmaglica spušta nad Imotskim poljem, stvarajući mističnu atmosferu za kraj dana."
           },
           "stops": [
             {
@@ -307,7 +307,7 @@
                 "hu": "Válasszunk ablak melletti asztalt, hogy szárazon élvezhessük az eső látványát.",
                 "ro": "Alegeți un loc lângă fereastră pentru a privi ploaia de la adăpost.",
                 "en": "Choose a window seat to enjoy watching the rain while staying dry.",
-                "hr": "Odaberite mjesto uz prozor kako biste uživali u pogledu na kišu dok ostajete suhi."
+                "hr": "Odaberite sjedište uz prozor da uživate u pogledu na kišu i ostanete suhi."
               }
             },
             {
@@ -317,7 +317,7 @@
                 "hu": "Vigyázzunk a vizes macskakövön, a kőfelületek csúszóssá válhatnak.",
                 "ro": "Atenție pe pavajul umed, piatra poate deveni alunecoasă.",
                 "en": "Watch your step on the wet pavement; the stone can be slippery.",
-                "hr": "Pazite na korak na mokrom pločniku; kamen može biti klizav."
+                "hr": "Pazite na mokre pločnike; kamen može biti klizav."
               }
             },
             {
@@ -327,7 +327,7 @@
                 "hu": "A templom bejárata kiváló menedék egy hirtelen zápor esetén.",
                 "ro": "Intrarea bisericii oferă un adăpost bun în caz de aversă.",
                 "en": "The church porch provides good shelter during a sudden downpour.",
-                "hr": "Crkveni trijem pruža dobar zaklon tijekom iznenadnog pljuska."
+                "hr": "Crkveni zadah pruža dobro sklonište tijekom naglog pljuska."
               }
             },
             {
@@ -337,7 +337,7 @@
                 "hu": "Használjuk ki az időt a vizes esőkabátok és cipők megszárítására.",
                 "ro": "Folosiți timpul pentru a vă usca bine pelerina de ploaie.",
                 "en": "Use this time to thoroughly dry your rain gear.",
-                "hr": "Iskoristite ovo vrijeme da temeljito osušite svoju kišnu opremu."
+                "hr": "Iskoristite to vrijeme za temeljito sušenje kišne opreme."
               }
             },
             {
@@ -347,7 +347,7 @@
                 "hu": "Maradjunk a kövezett utakon, hogy elkerüljük a saras szakaszokat.",
                 "ro": "Rămâneți pe potecile pavate pentru a evita noroiul.",
                 "en": "Stick to the paved paths to avoid muddy sections.",
-                "hr": "Držite se asfaltiranih staza kako biste izbjegli blatnjave dijelove."
+                "hr": "Držite se popločenih staza kako biste izbjegli blatne dionice."
               }
             },
             {
@@ -367,7 +367,7 @@
                 "hu": "Egy meleg gyógytea segít elűzni az esti nyirkosságot.",
                 "ro": "Un ceai cald de plante ajută împotriva umidității de seară.",
                 "en": "A warm herbal tea helps ward off the evening dampness.",
-                "hr": "Topli biljni čaj pomaže u obrani od večernje vlage."
+                "hr": "Topli biljni čaj pomaže otjerati večernju vlagu."
               }
             }
           ],
@@ -397,10 +397,10 @@
               "Views of the Imotsko field might be limited but remain very atmospheric."
             ],
             "hr": [
-              "Nosite nepromočive gojzerice prikladne za kamenit teren.",
-              "Čvrst kišobran je bolji od lagane kabanice zbog mogućih naleta vjetra.",
-              "Planirajte duže pauze u kafićima kako biste ostali suhi i ugrijani.",
-              "Pogledi na Imotsko polje mogli bi biti ograničeni, ali ostaju vrlo atmosferski."
+              "Nosite vodootporne planinarske čizme prikladne za kameniti teren.",
+              "Čvrst kišobran bolji je od lagane ponče zbog mogućih naleta vjetra.",
+              "Isplanirajte duže pauze u kafićima kako biste ostali suhi i topli.",
+              "Pogledi na imotsko polje možda su ograničeni, ali ostaju vrlo atmosferični."
             ]
           }
         },
@@ -410,7 +410,7 @@
             "hu": "A téli reggel Vinjani hegyei között tiszta, és gyakran a hideg bóra szele hatja át. Egy melegítő kávé után az út kopár fügefák mellett vezet a történelmi kőházakhoz, melyek az éles téli fényben ezüstösen csillognak. Délben a konoba kandallójának tüze és a laktató tájjellegű ételek csábítanak. Mivel a nap korán a hegyek mögé bukik, a délutánt egy rövid sétára használjuk a kilátóig, mielőtt beállna a fagyos esti csend.",
             "ro": "Dimineața de iarnă în munții din Vinjani este senină și adesea marcată de vântul rece Bura. După o cafea fierbinte, drumul trece pe lângă smochini golași spre casele vechi de piatră, care par argintii în lumina tăioasă. La prânz, focul din șemineul konobei ne atrage cu specialități regionale consistente. Deoarece soarele apune devreme după munți, folosim după-amiaza pentru o plimbare scurtă la belvedere înainte de gerul serii.",
             "en": "The winter morning in the Vinjani hills is crisp, often shaped by the cold Bura wind. After a warming coffee, the path leads past bare fig trees to historical stone houses that shimmer silver in the harsh winter light. At noon, the crackling fireplace of the konoba invites us to enjoy hearty regional specialties. As the sun sets early behind the mountains, we use the afternoon for a short walk to the viewpoint before the frosty evening chill sets in.",
-            "hr": "Zimsko jutro u vinjanskim brdima je svježe, često oblikovano hladnom burom. Nakon kave za zagrijavanje, put vodi pored ogoljelih stabala smokava do povijesnih kamenih kuća koje srebrno sjaje na oštrom zimskom svjetlu. U podne nas pucketanje vatre u kaminu konobe poziva na uživanje u krepkim regionalnim specijalitetima. Budući da sunce rano zalazi iza planina, poslijepodne koristimo za kratku šetnju do vidikovca prije nego što nastupi mrazna večernja hladnoća."
+            "hr": "Zimsko jutro na vinjanskim brežuljcima je svježe, često oblikovano hladnim burom. Nakon zagrijavajuće kave, staza vodi pored ogoljelih smokava do povijesnih kamenih kuća koje se u oštrom zimskom svjetlu sjaje srebrno. U podne nas pucketanje ognjišta u konobi poziva da uživamo u srdačnim regionalnim specijalitetima. Kako sunce rano zalazi iza planina, koristimo poslijepodne za kratku šetnju do vidikovca prije nego što zahvati ozeblina večeri."
           },
           "stops": [
             {
@@ -420,7 +420,7 @@
                 "hu": "Kérjünk helyi gyógynövényteát mézzel a hideg ellen.",
                 "ro": "Cereți un ceai local de plante cu miere împotriva frigului.",
                 "en": "Ask for local herbal tea with honey to warm up against the cold.",
-                "hr": "Zatražite domaći biljni čaj s medom kako biste se ugrijali protiv hladnoće."
+                "hr": "Zatražite domaći čaj od biljaka s medom za zagrijavanje od hladnoće."
               }
             },
             {
@@ -430,7 +430,7 @@
                 "hu": "Az alacsonyan járó téli nap hosszú, fotogén árnyékokat vet a kövekre.",
                 "ro": "Soarele de iarnă aruncă umbre lungi și fotogenice pe zidurile de piatră.",
                 "en": "The low winter sun casts long, photogenic shadows on the stones.",
-                "hr": "Nisko zimsko sunce baca duge, fotogenične sjene na kamenje."
+                "hr": "Nisko zimsko sunce baca dugačke, fotogenične sjene na kamenje."
               }
             },
             {
@@ -450,7 +450,7 @@
                 "hu": "Próbáljuk ki a 'peka' alatt sült ételeket, melyek tökéletesek télen.",
                 "ro": "Încercați 'peka', un preparat tradițional ideal pentru zilele de iarnă.",
                 "en": "Try 'peka', a traditional slow-cooked dish perfect for winter days.",
-                "hr": "Probajte peku, tradicionalno jelo koje se sporo kuha, savršeno za zimske dane."
+                "hr": "Isprobajte peka, tradicionalno polako pečeno jelo idealno za zimske dane."
               }
             },
             {
@@ -460,7 +460,7 @@
                 "hu": "Viseljünk szélálló ruházatot, különösen ha fúj a bóra.",
                 "ro": "Purtați haine rezistente la vânt, mai ales dacă suflă vântul Bura.",
                 "en": "Wear windproof clothing, especially if the Bura wind is blowing.",
-                "hr": "Nosite odjeću otpornu na vjetar, posebno ako puše bura."
+                "hr": "Nosite vjetrootpornu odjeću, osobito ako puše bura."
               }
             },
             {
@@ -470,7 +470,7 @@
                 "hu": "A távoli kilátás télen gyakran sokkal tisztább, mint nyáron.",
                 "ro": "Vizibilitatea la distanță este adesea mai clară iarna decât vara.",
                 "en": "The long-distance visibility is often much clearer in winter.",
-                "hr": "Vidljivost na daljinu često je puno jasnija zimi."
+                "hr": "Duga vidljivost često je znatno jasnija zimi."
               }
             },
             {
@@ -480,7 +480,7 @@
                 "hu": "Fejezzük be a túrát 16:30-ig, mielőtt besötétedik és lehűl a levegő.",
                 "ro": "Încheiați turul până la ora 16:30, înainte să se întunece și să înghețe.",
                 "en": "Finish your tour by 16:30 before it gets dark and freezing cold.",
-                "hr": "Završite obilazak do 16:30 prije nego što padne mrak i postane ledeno hladno."
+                "hr": "Završite svoju turu do 16:30 prije nego što se smrači i ohladi."
               }
             }
           ],
@@ -510,10 +510,10 @@
               "Sturdy boots will protect you from ground frost on the hiking trails."
             ],
             "hr": [
-              "Slojevito odijevanje je neophodno zbog oštrog vjetra.",
-              "Sunce zalazi iza brda već u 16:15 zimi.",
-              "Neki mali kafići mogu imati ograničeno radno vrijeme tijekom zimskih mjeseci.",
-              "Čvrste čizme zaštitit će vas od mraza na planinarskim stazama."
+              "Slojevito odijevanje je neophodno zbog oštre bure.",
+              "Sunce u zimskim mjesecima nestaje iza brežuljaka već oko 16:15.",
+              "Neki mali kafići mogu imati ograničeno radno vrijeme zimi.",
+              "Čvrste čizme štitit će vas od mraza na tlu na planinarskim stazama."
             ]
           }
         }
@@ -543,7 +543,7 @@
             "hu": "Csendes reggeli kezdés.",
             "ro": "Un început de dimineață liniștit.",
             "en": "A quiet start to the morning.",
-            "hr": "Miran početak jutra."
+            "hr": "Tih, miran početak jutra."
           }
         },
         {
@@ -581,7 +581,7 @@
             "hu": "Érdekes határpont Bosznia felé.",
             "ro": "Un punct de frontieră interesant către Bosnia.",
             "en": "An interesting border point to Bosnia.",
-            "hr": "Zanimljiv granični prijelaz prema Bosni."
+            "hr": "Zanimljiva granična točka prema Bosni."
           }
         },
         {
@@ -600,7 +600,7 @@
             "hu": "Feltöltődés a visszaútra.",
             "ro": "Refacere pentru drumul de întoarcere.",
             "en": "Recharge for the way back.",
-            "hr": "Napunite baterije za povratak."
+            "hr": "Napunite energiju za povratak."
           }
         },
         {
@@ -619,7 +619,7 @@
             "hu": "A túra legszebb kilátása.",
             "ro": "Cea mai frumoasă priveliște a turului.",
             "en": "The best view of the tour.",
-            "hr": "Najbolji pogled na turi."
+            "hr": "Najbolji pogled na turu."
           }
         },
         {
@@ -638,7 +638,7 @@
             "hu": "Egy megérdemelt frissítő.",
             "ro": "O răcorire binemeritată.",
             "en": "A well-deserved refreshment.",
-            "hr": "Zasluženo osvježenje."
+            "hr": "Dobro zasluženo osvježenje."
           }
         }
       ],
@@ -647,7 +647,7 @@
         "hu": "Ez a kerékpártúra Imotski dombos hátországán vezet keresztül. A Szent Rókus-templomtól az öreg kőházakhoz, majd a határponthoz tekerhet. Egy bőséges ebéd után élvezze a gurulást a kilátóhoz, és fejezze be a túrát egy fagylalttal a falu központjában.",
         "ro": "Acest tur cu bicicleta vă poartă prin zona deluroasă din spatele Imotski. De la biserica Sfântul Rochus, pedalați către vechile case de piatră și mai departe spre punctul de frontieră. După un prânz copios, bucurați-vă de coborârea spre punctul de belvedere și încheiați turul cu o înghețată în centrul satului.",
         "en": "This bike tour takes you through the hilly hinterland of Imotski. From the Church of St. Roch, cycle to the old stone houses and on to the border point. After a hearty lunch, enjoy the ride down to the viewpoint and finish the tour with an ice cream in the village center.",
-        "hr": "Ova biciklistička tura vodi vas kroz brdovito zaleđe Imotskog. Od crkve sv. Roka vozite do starih kamenih kuća i dalje do graničnog prijelaza. Nakon obilnog ručka uživajte u vožnji do vidikovca i završite turu sladoledom u središtu sela."
+        "hr": "Ova biciklistička tura vodi vas kroz brežuljkasto zaleđe Imotskog. Od crkve sv. Roka vozite do starih kamenih kuća pa do granične točke. Nakon obilnog ručka uživajte u vožnji nizbrdo do vidikovca i završite turu s gelatom u središtu sela."
       },
       "gastro_picks": {
         "de": [
@@ -776,10 +776,10 @@
           "The roads are mostly quiet."
         ],
         "hr": [
-          "Postoje neke strme dionice; e-bicikl je prednost.",
+          "Ima nekoliko strmih dionica; e-bicikl je prednost.",
           "Pazite na granični promet.",
           "Koristite puno kreme za sunčanje.",
-          "Ceste su uglavnom mirne."
+          "Ceste su većinom tihe."
         ]
       },
       "variants": {
@@ -789,7 +789,7 @@
             "hu": "Az esőben való kerékpározás koncentrációt igényel Gornji Vinjaniban, de magányos utakkal ajándékoz meg. Délelőtt a sv. Roka templomhoz tekerünk, melynek előtere menedéket nyújt. Délben egy konobában frissülünk fel, miközben száradnak a ruhák. A délutáni kör a kilátóhoz drámai panorámát nyújt a vizes Imotski-mezőre, majd a túrát egy forró itallal zárjuk.",
             "ro": "Ciclismul pe ploaie necesită concentrare în Gornji Vinjani, dar oferă drumuri pustii. Dimineața ne îndreptăm spre biserica sv. Roka, unde pridvorul ne oferă adăpost. La prânz ne refacem forțele într-o konoba, lăsând echipamentul să se usuce. Tura de după-amiază spre belvedere oferă vederi dramatice asupra câmpiei umede, înainte de a încheia cu o băutură caldă.",
             "en": "Cycling in the rain requires focus in Gornji Vinjani but rewards you with empty roads. The morning leads to St. Roch church, where the porch offers shelter. At noon, we recharge in a konoba while letting our gear dry. The afternoon loop to the viewpoint offers dramatic views over the wet Imotsko field, before finishing the tour with a hot drink.",
-            "hr": "Bicikliranje po kiši zahtijeva fokus u Gornjim Vinjanima, ali vas nagrađuje praznim cestama. Jutro vodi do crkve sv. Roka, gdje trijem nudi zaklon. U podne se odmaramo u konobi dok sušimo opremu. Poslijepodnevni krug do vidikovca nudi dramatične poglede na mokro Imotsko polje, prije završetka ture uz topli napitak."
+            "hr": "Ciklizam po kiši zahtijeva fokus u Gornjim Vinjanima, ali nagrađuje praznim cestama. Jutro vodi do crkve sv. Roka, gdje trijem pruža zaklon. U podne se u konobi ponovno grijemo dok oprema suši. Poslijepodnevna ruta do vidikovca nudi dramatične poglede na mokro imotsko polje, prije završetka ture uz topli napitak."
           },
           "stops": [
             {
@@ -809,7 +809,7 @@
                 "hu": "Itt tekerjünk különösen lassan, mert a kövezet nagyon csúszik.",
                 "ro": "Mergeți foarte încet aici, deoarece pavajul este extrem de alunecos.",
                 "en": "Ride very slowly here as the stone pavement is extremely slick.",
-                "hr": "Ovdje vozite vrlo polako jer je kameni pločnik iznimno klizav."
+                "hr": "Vozite vrlo polako ovdje jer je kamena kaldrma iznimno skliska."
               }
             },
             {
@@ -819,7 +819,7 @@
                 "hu": "Csak rövid időre álljunk meg, nehogy áthűljünk az esőben.",
                 "ro": "Opriți doar scurt pentru a nu vă răci în ploaie.",
                 "en": "Stop only briefly to avoid getting chilled in the rain.",
-                "hr": "Zaustavite se samo nakratko kako se ne biste prehladili na kiši."
+                "hr": "Zaustavljajte se samo kratko kako ne biste ozebli na kiši."
               }
             },
             {
@@ -839,7 +839,7 @@
                 "hu": "Legyünk óvatosak a lejtőn a vizes aszfalton.",
                 "ro": "Fiți precauți la coborâre pe carosabilul umed.",
                 "en": "Be cautious during the descent on wet road surfaces.",
-                "hr": "Budite oprezni tijekom spusta na mokrim kolnicima."
+                "hr": "Budite oprezni tijekom spusta po mokroj podlozi."
               }
             },
             {
@@ -849,7 +849,7 @@
                 "hu": "Talán ma egy forró eszpresszó jobb választás a fagylaltnál.",
                 "ro": "Poate astăzi e mai bun un espresso cald în loc de înghețată?",
                 "en": "Maybe a hot espresso is a better choice than gelato today.",
-                "hr": "Možda je topli espresso danas bolji izbor od sladoleda."
+                "hr": "Možda je danas bolji izbor vrući espresso nego sladoled."
               }
             }
           ],
@@ -879,10 +879,10 @@
               "Wear bright clothing or reflectors due to poor visibility."
             ],
             "hr": [
-              "Lagano smanjite tlak u gumama za bolje prianjanje na mokrom kamenju.",
-              "Izbjegavajte naglo kočenje u zavojima na mokrim površinama.",
-              "Blatobrani su neophodni po ovakvom vremenu.",
-              "Nosite svijetlu odjeću ili reflektirajuće elemente zbog loše vidljivosti."
+              "Blago smanjite tlak u gumama za bolje prianjanje na mokrim kamenima.",
+              "Izbjegavajte naglo kočenje u zavoju na mokroj podlozi.",
+              "Blatobrani su u ovakvom vremenu neizostavni.",
+              "Nosite odjeću jarkih boja ili reflektore zbog loše vidljivosti."
             ]
           }
         },
@@ -892,7 +892,7 @@
             "hu": "A téli kerékpártúra Gornji Vinjaniban friss levegőt és tágas kilátást kínál. Délelőtt tempósan haladunk a történelmi pontok felé, a mozgás segít a hideg ellen. Délben hosszabb időre megállunk melegedni a konobában. A délutánt rövidre fogjuk, hogy még lássuk a naplementét a kilátónál, mielőtt a hőmérséklet hirtelen leesne a hegyek árnyékában.",
             "ro": "O tură de iarnă cu bicicleta prin Gornji Vinjani oferă aer curat și vederi largi. Dimineața pedalăm susținut spre punctele istorice, mișcarea ajutând împotriva frigului. La prânz ne oprim pentru o încălzire prelungită în konoba. După-amiaza este scurtă, pentru a prinde apusul la belvedere înainte ca temperaturile să scadă brusc în umbra munților.",
             "en": "A winter bike tour through Gornji Vinjani offers crisp air and vast views. The morning takes us swiftly to historical spots, where movement helps combat the cold. At noon, we take a long warming break in a konoba. The afternoon is kept short to catch the sunset at the viewpoint before temperatures drop rapidly in the mountain shadows.",
-            "hr": "Zimski biciklistički obilazak Gornjih Vinjana nudi svjež zrak i prostrane vidike. Jutro nas brzo vodi do povijesnih mjesta, gdje kretanje pomaže u borbi protiv hladnoće. U podne radimo dužu pauzu za grijanje u konobi. Poslijepodne ostaje kratko kako bismo uhvatili zalazak sunca na vidikovcu prije nego što temperature naglo padnu u planinskim sjenama."
+            "hr": "Zimska biciklistička tura kroz Gornje Vinjane nudi svjež zrak i široke poglede. Jutro nas brzo vodi do povijesnih mjesta gdje kretanje pomaže protiv hladnoće. U podne pravimo dugi zagrijavajući odmor u konobi. Poslijepodne je kraće kako bismo uhvatili zalazak sunca na vidikovcu prije nego što temperature brzo padnu u planinskim sjenama."
           },
           "stops": [
             {
@@ -902,7 +902,7 @@
                 "hu": "Tartsunk rövid szüneteket, hogy ne hűljünk ki.",
                 "ro": "Țineți pauzele scurte pentru a nu vă răci.",
                 "en": "Keep breaks short to prevent your body temperature from dropping.",
-                "hr": "Neka pauze budu kratke kako bi se spriječio pad tjelesne temperature."
+                "hr": "Držite pauze kratkima kako vam tjelesna temperatura ne bi pala."
               }
             },
             {
@@ -912,7 +912,7 @@
                 "hu": "Vigyázzunk az esetleges jeges foltokra a falak árnyékában.",
                 "ro": "Atenție la eventualele porțiuni cu gheață în umbra zidurilor.",
                 "en": "Watch out for potential icy patches in the shadows of the walls.",
-                "hr": "Pazite na moguće zaleđene dijelove u sjenama zidova."
+                "hr": "Pazite na moguća zaleđena mjesta u sjenama zidova."
               }
             },
             {
@@ -932,7 +932,7 @@
                 "hu": "Válasszunk energiadús ételeket a folytatáshoz.",
                 "ro": "Alegeți mâncăruri bogate în calorii pentru continuarea drumului.",
                 "en": "Choose high-energy meals to fuel the rest of your ride.",
-                "hr": "Odaberite energetski bogate obroke za nastavak vožnje."
+                "hr": "Birajte obroke s puno energije da biste napunili ostatak vožnje."
               }
             },
             {
@@ -942,7 +942,7 @@
                 "hu": "Élvezzük a tiszta panorámát, mielőtt lebukik a nap.",
                 "ro": "Bucurați-vă de panorama clară înainte ca soarele să apună.",
                 "en": "Enjoy the clear panorama before the sun disappears.",
-                "hr": "Uživajte u bistroj panorami prije nego sunce nestane."
+                "hr": "Uživajte u čistom panoramskom pogledu prije nego sunce nestane."
               }
             },
             {
@@ -952,7 +952,7 @@
                 "hu": "Egy forró kakaó most sokkal jobb jutalom.",
                 "ro": "O ciocolată caldă este acum o recompensă mai bună.",
                 "en": "A hot cocoa is a much better reward right now.",
-                "hr": "Topli kakao je sada puno bolja nagrada."
+                "hr": "Topla kakao je trenutno puno bolja nagrada."
               }
             }
           ],
@@ -982,10 +982,10 @@
               "Plan to be back by 16:30 to avoid the evening freeze."
             ],
             "hr": [
-              "Tople rukavice i navlake za cipele neophodne su za zimski biciklizam.",
-              "Provjerite tlak u gumama; niske temperature uzrokuju blagi pad.",
-              "Hidratizirajte se čak i ako ne osjećate žeđ kao ljeti.",
-              "Planirajte povratak do 16:30 kako biste izbjegli večernje smrzavanje."
+              "Tople rukavice i navlake za cipele nužne su za zimski biciklizam.",
+              "Provjerite tlak u gumama; hladnoća ga malo spušta.",
+              "Ostanite hidrirani iako možda ne osjećate žeđ kao ljeti.",
+              "Planirajte povratak do 16:30 kako biste izbjegli večernju smrzavicu."
             ]
           }
         }
@@ -1015,7 +1015,7 @@
             "hu": "Parkoljon közvetlenül a templomnál.",
             "ro": "Parcați direct la biserică.",
             "en": "Park directly at the church.",
-            "hr": "Parkirajte izravno kod crkve."
+            "hr": "Parkirajte izravno kraj crkve."
           }
         },
         {
@@ -1053,7 +1053,7 @@
             "hu": "Érdekes fotómegálló a határon.",
             "ro": "Oprire interesantă pentru poze la graniță.",
             "en": "Interesting photo stop at the border.",
-            "hr": "Zanimljivo mjesto za fotografiranje na granici."
+            "hr": "Zanimljiva fotostop kod granice."
           }
         },
         {
@@ -1129,7 +1129,7 @@
             "hu": "Visszatérés Vinjaniba a kilátásért.",
             "ro": "Întoarcere în Vinjani pentru belvedere.",
             "en": "Return to Vinjani for the view.",
-            "hr": "Povratak u Vinjane na vidikovac."
+            "hr": "Vratite se u Vinjane radi pogleda."
           }
         },
         {
@@ -1157,7 +1157,7 @@
         "hu": "Autóval Gornji Vinjani tökéletesen összeköthető a közeli Imotskival. Délelőtt látogassa meg a helyi látnivalókat, mint a templom és az öreg kőházak. Ebéd után tegyen kirándulást a híres imotski Kék-tóhoz, majd térjen vissza Vinjaniba a naplementére.",
         "ro": "Cu mașina, puteți conecta perfect Gornji Vinjani cu orașul Imotski din apropiere. Dimineața, vizitați atracțiile locale, cum ar fi biserica și vechile case de piatră. După prânz, faceți o excursie la faimosul Lac Albastru din Imotski, înainte de a reveni în Vinjani pentru apus.",
         "en": "By car, Gornji Vinjani is perfectly combined with nearby Imotski. In the morning, visit local sights like the church and old stone houses. After lunch, take an excursion to the famous Blue Lake in Imotski before returning to Vinjani for the sunset.",
-        "hr": "Automobilom su Gornji Vinjani savršeno povezani s obližnjim Imotskim. Ujutro posjetite lokalne znamenitosti poput crkve i starih kamenih kuća. Nakon ručka otiđite na izlet do poznatog Modrog jezera u Imotskom prije povratka u Vinjane na zalazak sunca."
+        "hr": "Autom, Gornji Vinjani se savršeno kombiniraju s obližnjim Imotskim. Ujutro posjetite lokalne znamenitosti poput crkve i starih kamenih kuća. Nakon ručka, odvezite na slavnu Modro jezero u Imotskom prije povratka u Vinjane na zalazak sunca."
       },
       "gastro_picks": {
         "de": [
@@ -1286,10 +1286,10 @@
           "A detour to the Red Lake is also worth it."
         ],
         "hr": [
-          "Parkiranje u Vinjanima je uglavnom besplatno.",
-          "U Imotskom se parkiranje kod Modrog jezera plaća.",
-          "Pazite na gužve na granici vikendom.",
-          "Isplati se i skretanje do Crvenog jezera."
+          "Parkiranje u Vinjanima većinom je besplatno.",
+          "U Imotskom je parkiranje kod Modrog jezera naplaćeno.",
+          "Pazite na kolone na granici tijekom vikenda.",
+          "Isporuka do Crvenog jezera također vrijedi kao zaobilaznica."
         ]
       },
       "variants": {
@@ -1299,7 +1299,7 @@
             "hu": "Az Imotski-hátországban tett autós túra esőben is kényelmes. A történelmi helyszíneket szárazon és rugalmasan látogatjuk meg. A konobában elköltött ebéd a nap egyik leghangulatosabb eseményévé válik. Kiemelt pont a Kék-tó (Modro Jezero), mely esőben mélykék és szürke színekben játszik, majd Imotski védettebb részein teszünk egy városi sétát.",
             "ro": "Turul cu mașina prin hinterlandul Imotski este deosebit de confortabil pe ploaie. Vizităm punctele istorice din clusterele A și B rămânând uscați și flexibili. Prânzul în konoba devine evenimentul principal al zilei. Un punct culminant este excursia la Lacul Albastru (Modro Jezero), care sub ploaie capătă nuanțe profunde de albastru și gri, urmată de o plimbare în Imotski.",
             "en": "A car tour through the Imotski hinterland is especially comfortable in the rain. We visit the historical clusters A and B while staying dry and flexible. Lunch in the konoba becomes the cozy main event of the day. A highlight is the excursion to the Blue Lake (Modro Jezero), shimmering in deep blue and grey hues in the rain, followed by a relaxed stroll in sheltered Imotski.",
-            "hr": "Obilazak imotskog zaleđa automobilom posebno je udoban po kiši. Posjećujemo povijesne cjeline A i B dok ostajemo suhi i fleksibilni. Ručak u konobi postaje ugodan glavni događaj dana. Vrhunac je izlet na Modro jezero, koje na kiši svjetluca u tamnoplavim i sivim nijansama, nakon čega slijedi opuštena šetnja u zaklonjenom Imotskom."
+            "hr": "Automobilska tura kroz imotsko zaleđe posebno je ugodna po kiši. Posjećujemo povijesne skupine A i B dok ostajemo suhi i fleksibilni. Ručak u konobi postaje udobni glavni događaj dana. Istaknuta točka je izlet do Modrog jezera, koje po kiši blješti u duboko plavim i sivim tonovima, nakon čega slijedi opuštena šetnja zaštićenim dijelom Imotskog."
           },
           "stops": [
             {
@@ -1319,7 +1319,7 @@
                 "hu": "Rövid megtekintés esernyővel, majd vissza a meleg autóba.",
                 "ro": "Vizită scurtă cu umbrela, apoi înapoi în mașina caldă.",
                 "en": "Quick visit with an umbrella, then back to the warm car.",
-                "hr": "Brzi posjet s kišobranom, pa natrag u topli auto."
+                "hr": "Brzi posjet s kišobranom, pa natrag u topao auto."
               }
             },
             {
@@ -1329,7 +1329,7 @@
                 "hu": "Erős esőben egy fotó az autóból is elegendő.",
                 "ro": "O fotografie din mașină este suficientă în caz de ploaie torențială.",
                 "en": "A photo from inside the car is enough during heavy rain.",
-                "hr": "Fotografija iz unutrašnjosti automobila dovoljna je tijekom jake kiše."
+                "hr": "Fotografija iz automobila dovoljna je tijekom jake kiše."
               }
             },
             {
@@ -1359,7 +1359,7 @@
                 "hu": "Sok kávézó rendelkezik fedett terasszal.",
                 "ro": "Multe cafenele oferă zone exterioare acoperite.",
                 "en": "Many cafes offer covered outdoor seating areas.",
-                "hr": "Mnogi kafići nude natkrivene vanjske prostore za sjedenje."
+                "hr": "Mnogi kafići nude natkrivene vanjske sjedeće površine."
               }
             },
             {
@@ -1379,7 +1379,7 @@
                 "hu": "Élvezzük a hangulatot szárazon, a vezetőülésből.",
                 "ro": "Bucurați-vă de atmosferă rămânând uscați în mașină.",
                 "en": "Enjoy the atmosphere while staying dry in your car.",
-                "hr": "Uživajte u atmosferi dok ostajete suhi u svom automobilu."
+                "hr": "Uživajte u atmosferi dok ostajete suhi u autu."
               }
             }
           ],
@@ -1409,10 +1409,10 @@
               "Keep your headlights on during the day due to poor visibility."
             ],
             "hr": [
-              "Pazite na akvaplaning na lokalnim cestama prema Imotskom.",
+              "Pazite na aquaplaning na seoskim cestama prema Imotskom.",
               "Parkirna mjesta u Imotskom često se brže popune kad pada kiša.",
-              "Koristite grijače sjedala kako biste se ugrijali nakon kratkih zaustavljanja na otvorenom.",
-              "Držite upaljena svjetla tijekom dana zbog loše vidljivosti."
+              "Koristite grijače sjedala za zagrijavanje nakon kratkih izlazaka van.",
+              "Držite svjetla uključena i danju zbog loše vidljivosti."
             ]
           }
         },
@@ -1422,7 +1422,7 @@
             "hu": "Télen a Gornji Vinjani környéki autós túra a tiszta fények és a fagy világába vezet. Az autó lehetővé teszi, hogy a távolabb eső látnivalókat is meglátogassuk anélkül, hogy áthűlnénk. A történelmi helyszínek után a konoba regionális konyhájával melegszünk fel. A Kék-tóhoz tett kirándulás téli csendben mutatja meg a vizet, mielőtt Imotskiban és a kilátónál fejeznénk be a napot.",
             "ro": "Iarna, turul cu mașina prin Gornji Vinjani ne poartă într-o lume de lumină clară și ger. Mașina ne permite să vizităm obiectivele dispersate fără a ne răci prea tare. După vizitarea clusterelor A și B, ne încălzim în konoba cu preparate regionale. Excursia la Lacul Albastru arată lacul într-o liniște hibernală, înainte de a încheia ziua în Imotski și la belvedere.",
             "en": "In winter, a car tour through Gornji Vinjani leads into a world of crisp light and frost. The car allows us to visit scattered sights without getting chilled. After exploring clusters A and B, we warm up in a konoba with regional cuisine. The excursion to the Blue Lake shows the water in winter silence before ending the day in Imotski and at the viewpoint.",
-            "hr": "Zimi tura automobilom kroz Gornje Vinjane vodi u svijet oštrog svjetla i mraza. Automobil nam omogućuje posjet raštrkanim znamenitostima bez pothlađivanja. Nakon istraživanja cjelina A i B, grijemo se u konobi uz regionalnu kuhinju. Izlet na Modro jezero pokazuje vodu u zimskoj tišini prije završetka dana u Imotskom i na vidikovcu."
+            "hr": "Zimi automobilska tura kroz Gornje Vinjane vodi u svijet oštrog svjetla i mraza. Auto nam omogućuje posjet razbacanim znamenitostima bez smrzavanja. Nakon istraživanja skupina A i B, grijemo se u konobi uz regionalnu kuhinju. Izlet do Modrog jezera pokazuje vodu u zimskoj tišini prije završetka dana u Imotskom i na vidikovcu."
           },
           "stops": [
             {
@@ -1432,7 +1432,7 @@
                 "hu": "Vigyázzunk kiszálláskor, a talaj fagyott lehet.",
                 "ro": "Atenție la coborâre, solul poate fi înghețat.",
                 "en": "Be careful when getting out of the car; the ground may be frozen.",
-                "hr": "Budite oprezni pri izlasku iz automobila; tlo može biti zaleđeno."
+                "hr": "Budite oprezni pri izlasku iz auta; teren može biti zaleden."
               }
             },
             {
@@ -1442,7 +1442,7 @@
                 "hu": "A kövek a téli fényben különösen plasztikusnak hatnak.",
                 "ro": "Pietrele par deosebit de tridimensionale în lumina iernii.",
                 "en": "The stones look particularly textured in the winter light.",
-                "hr": "Kamenje izgleda posebno teksturirano na zimskom svjetlu."
+                "hr": "Kamenje izgleda posebno teksturirano u zimskom svjetlu."
               }
             },
             {
@@ -1452,7 +1452,7 @@
                 "hu": "A határőrök örülnek egy barátságos 'Dobar dan' köszönésnek.",
                 "ro": "Polițiștii de frontieră se bucură de un 'Dobar dan' prietenos.",
                 "en": "The border guards appreciate a friendly 'Dobar dan' greeting.",
-                "hr": "Graničari cijene prijateljski pozdrav 'Dobar dan'."
+                "hr": "Granični policajci cijene prijateljski pozdrav 'Dobar dan'."
               }
             },
             {
@@ -1462,7 +1462,7 @@
                 "hu": "Kérjünk helyet a kandalló közelében.",
                 "ro": "Cereți un loc lângă șemineu.",
                 "en": "Ask for a table near the fireplace.",
-                "hr": "Zatražite stol blizu kamina."
+                "hr": "Zatražite stol kraj ognjišta."
               }
             },
             {
@@ -1472,7 +1472,7 @@
                 "hu": "Ellenőrizzük, hogy a leereszkedés biztonságos-e jeges időben.",
                 "ro": "Verificați dacă coborârea este sigură în caz de îngheț.",
                 "en": "Check if the descent is safe if there's ice on the path.",
-                "hr": "Provjerite je li spust siguran ako na stazi ima leda."
+                "hr": "Provjerite je li silazak siguran ako je put zaleđen."
               }
             },
             {
@@ -1482,7 +1482,7 @@
                 "hu": "Élvezzük a város téli díszítését.",
                 "ro": "Bucurați-vă de decorațiunile de iarnă ale orașului.",
                 "en": "Enjoy the city's winter decorations.",
-                "hr": "Uživajte u zimskim ukrasima grada."
+                "hr": "Uživajte u gradskoj zimskoj dekoraciji."
               }
             },
             {
@@ -1492,7 +1492,7 @@
                 "hu": "A legjobb hely fotózáshoz közvetlenül naplemente előtt (kb. 16:00).",
                 "ro": "Cel mai bun loc pentru poze chiar înainte de apus (aprox. ora 16:00).",
                 "en": "Best spot for photos just before sunset (around 16:00).",
-                "hr": "Najbolje mjesto za fotografije neposredno prije zalaska sunca (oko 16:00)."
+                "hr": "Najbolje mjesto za fotografije odmah prije zalaska (oko 16:00)."
               }
             },
             {
@@ -1502,7 +1502,7 @@
                 "hu": "Ne járassuk feleslegesen a motort álló helyzetben.",
                 "ro": "Nu lăsați motorul pornit inutil în staționare.",
                 "en": "Avoid letting the engine idle unnecessarily while parked.",
-                "hr": "Izbjegavajte nepotreban rad motora u leru dok ste parkirani."
+                "hr": "Izbjegavajte nepotrebno uspavljivanje motora dok je vozilo parkirano."
               }
             }
           ],
@@ -1532,10 +1532,10 @@
               "Keep a blanket in the car just in case."
             ],
             "hr": [
-              "Zimske gume su obavezne jer ceste u brdima mogu biti skliske.",
-              "Ne zaboravite antifriz za sustav pranja vjetrobranskog stakla.",
-              "Planinske ceste mogu biti opasne tijekom naleta bure.",
-              "Za svaki slučaj držite deku u autu."
+              "Zimske gume su obavezne jer ceste na brežuljcima mogu biti skliske.",
+              "Ne zaboravite antifriz za tekućinu brisača vjetrobrana.",
+              "Planinske ceste mogu biti opasne tijekom udara bure.",
+              "Držite deku u autu za svaki slučaj."
             ]
           }
         }
@@ -1584,7 +1584,7 @@
             "hu": "Séta a templomhoz.",
             "ro": "Plimbare către biserică.",
             "en": "Walk to the church.",
-            "hr": "Šetnja do crkve."
+            "hr": "Prošetajte do crkve."
           }
         },
         {
@@ -1641,7 +1641,7 @@
             "hu": "Túra a panorámaponthoz.",
             "ro": "Drumeție către punctul panoramic.",
             "en": "Hike to the panoramic point.",
-            "hr": "Pješačenje do panoramske točke."
+            "hr": "Pješačenje do vidikovca."
           }
         },
         {
@@ -1660,7 +1660,7 @@
             "hu": "Utolsó fagylalt a visszaindulás előtt.",
             "ro": "Ultima înghețată înainte de plecare.",
             "en": "Last ice cream before departure.",
-            "hr": "Posljednji sladoled prije polaska."
+            "hr": "Posljednja sladoledna prije polaska."
           }
         }
       ],
@@ -1669,7 +1669,7 @@
         "hu": "Használja az Imotskiból Gornji Vinjaniba tartó helyi buszt. A falu központjából gyalogosan kényelmesen felfedezheti a főbb pontokat, mint a templom és a kőházak. Egy kellemes ebéd után egy kis séta vezet a kilátóhoz, mielőtt visszabuszozna.",
         "ro": "Folosiți autobuzul local din Imotski către Gornji Vinjani. Din centrul satului, explorați principalele puncte, cum ar bi biserica și casele de piatră, confortabil pe jos. După un prânz plăcut, o scurtă plimbare vă duce la punctul de belvedere înainte de a lua autobuzul înapoi.",
         "en": "Use the local bus from Imotski to Gornji Vinjani. From the village center, explore the main points like the church and stone houses easily on foot. After a pleasant lunch, a short walk leads to the viewpoint before taking the bus back.",
-        "hr": "Koristite lokalni autobus iz Imotskog do Gornjih Vinjana. Iz središta sela lako pješice istražite glavne točke poput crkve i kamenih kuća. Nakon ugodnog ručka, kratka šetnja vodi do vidikovca prije povratka autobusom."
+        "hr": "Koristite lokalni autobus iz Imotskog za Gornje Vinjane. Iz centra sela lako pješice istražite glavne točke poput crkve i kamenih kuća. Nakon ugodnog ručka, kratka šetnja vodi do vidikovca prije povratka autobusom."
       },
       "gastro_picks": {
         "de": [
@@ -1798,10 +1798,10 @@
           "Bring small change for the ticket."
         ],
         "hr": [
-          "Unaprijed provjerite vozni red autobusa (Arriva Croatia).",
+          "Provjerite vozni red autobusa unaprijed (Arriva Croatia).",
           "Autobusi voze rjeđe nedjeljom.",
-          "Pitajte mještane za lokaciju autobusne stanice.",
-          "Ponesite sitan novac za kartu."
+          "Upitajte mještane za lokaciju autobusne stanice.",
+          "Ponesite sitniš za kartu."
         ]
       },
       "variants": {
@@ -1811,7 +1811,7 @@
             "hu": "Busszal esőben is megbízhatóan elérhetjük Gornji Vinjanit. A délelőtt a falu központjáé és a sv. Roka templomé, a várakozási időt helyi kávézókban töltjük. A falusi ebéd tökéletes menekülés az időjárás elől. Délután meglátogatjuk a kilátót, majd a busz biztonságban visszavisz minket, miközben az ablakból figyeljük az esős tájat.",
             "ro": "Cu autobuzul ajungem în Gornji Vinjani în siguranță chiar și pe ploaie. Dimineața aparține centrului satului și bisericii sv. Roka, petrecând timpii de așteptare în cafenele locale. Prânzul în sat este evadarea perfectă din calea vremii. După-amiaza vizităm belvederea, înainte ca transportul să ne ducă înapoi în timp ce privim peisajul ploios.",
             "en": "By bus, we reach Gornji Vinjani reliably even in the rain. The morning belongs to the village center and St. Roch church, using local cafes to bridge any waiting times. Lunch in the village is the perfect escape from the weather. In the afternoon, we visit the viewpoint before transit takes us safely back as we watch the rainy landscape from the window.",
-            "hr": "Autobusom pouzdano stižemo u Gornje Vinjane čak i po kiši. Jutro pripada središtu sela i crkvi sv. Roka, uz korištenje lokalnih kafića za premošćivanje vremena čekanja. Ručak u selu savršen je bijeg od vremena. Poslijepodne posjećujemo vidikovac prije nego što nas prijevoz sigurno vrati dok promatramo kišni krajolik kroz prozor."
+            "hr": "Autobusom pouzdano stižemo u Gornje Vinjane i po kiši. Jutro je rezervirano za centar sela i crkvu sv. Roka, a lokalni kafići pomažu prekratiti čekanje. Ručak u selu savršen je bijeg od vremena. Poslijepodne posjećujemo vidikovac prije nego nas prijevoz sigurno vrati dok iz prozora promatramo kišnu krajoliku."
           },
           "stops": [
             {
@@ -1821,7 +1821,7 @@
                 "hu": "A buszmegálló gyakran csak korlátozott védelmet nyújt.",
                 "ro": "Stația de autobuz oferă adesea doar un adăpost limitat.",
                 "en": "The bus stop often provides only limited shelter from the rain.",
-                "hr": "Autobusna stanica često pruža samo ograničen zaklon od kiše."
+                "hr": "Autobusna stanica često nudi samo ograničen zaklon od kiše."
               }
             },
             {
@@ -1831,7 +1831,7 @@
                 "hu": "A megállótól a templomig tartó út rövid, de vizes.",
                 "ro": "Drumul de la stație la biserică este scurt, dar umed.",
                 "en": "The walk from the stop to the church is short but wet.",
-                "hr": "Hod od stanice do crkve je kratak, ali mokar."
+                "hr": "Šetnja od stanice do crkve kratka je, ali mokra."
               }
             },
             {
@@ -1841,7 +1841,7 @@
                 "hu": "Erős esőben érdemes ezt a megállót rövidre fogni.",
                 "ro": "În caz de ploaie torențială, scurtați această vizită.",
                 "en": "Keep this stop brief if the rain is very heavy.",
-                "hr": "Neka ovo zaustavljanje bude kratko ako je kiša vrlo jaka."
+                "hr": "Ograničite boravak na stanici ako pada jaka kiša."
               }
             },
             {
@@ -1851,7 +1851,7 @@
                 "hu": "Kérdezzünk rá az étteremben az aktuális buszindulásokra.",
                 "ro": "Întrebați la restaurant despre orele actuale de plecare a autobuzelor.",
                 "en": "Ask at the restaurant about current bus departure times.",
-                "hr": "Pitajte u restoranu o trenutnom vremenu polaska autobusa."
+                "hr": "Upitajte u restoranu za aktualne polaske autobusa."
               }
             },
             {
@@ -1871,7 +1871,7 @@
                 "hu": "Várjunk a kávézóban, amíg a busz közvetlenül meg nem érkezik.",
                 "ro": "Așteptați în cafenea până când autobuzul sosește.",
                 "en": "Wait inside the cafe until just before the bus arrives.",
-                "hr": "Čekajte unutar kafića do neposredno prije dolaska autobusa."
+                "hr": "Pričekajte unutra u kafiću do netom prije dolaska autobusa."
               }
             }
           ],
@@ -1901,9 +1901,9 @@
               "Bus stops are not always sheltered."
             ],
             "hr": [
-              "Unaprijed provjerite vozni red; kiša može uzrokovati kašnjenja u prometu.",
-              "Mali kišobran je lakše pospremiti u autobus nego veliki.",
-              "Pripremite nešto gotovine za karte u slučaju da plaćanje karticom nije dostupno.",
+              "Provjerite raspored unaprijed; kiša može uzrokovati kašnjenja u prometu.",
+              "Mali kišobran lakše se spremi u autobusu nego veliki.",
+              "Imajte spreman gotovinu za karte ako kartično plaćanje nije dostupno.",
               "Autobusne stanice nisu uvijek natkrivene."
             ]
           }
@@ -1914,7 +1914,7 @@
             "hu": "A téli tömegközlekedés Gornji Vinjaniba tervezést igényel, de kényelmes érkezést biztosít. A délelőttöt a falu központjában és a történelmi templomnál töltjük. A meleg vendéglőben elköltött ebéd a nap közösségi fénypontja. Visszaindulás előtt még élvezzük a mező téli látványát, pontosan figyelve a busz indulását, hogy ne kelljen a hidegben várakoznunk.",
             "ro": "Transportul de iarnă spre Gornji Vinjani necesită planificare, dar oferă o sosire confortabilă. Petrecem dimineața în centrul satului și la biserica istorică. Prânzul într-o locație încălzită este punctul social al zilei. Înainte de întoarcere, admirăm vederea hibernală asupra câmpiei, supraveghind orarul autobuzelor pentru a nu aștepta în frig.",
             "en": "Winter transit to Gornji Vinjani requires planning but offers a cozy way to travel. We spend the morning in the village center and at the historical church. Lunch in a warm eatery is the social highlight of the day. Before returning, we enjoy the winter views over the field, keeping a close eye on bus times to avoid waiting in the cold.",
-            "hr": "Zimski prijevoz do Gornjih Vinjana zahtijeva planiranje, ali nudi ugodan način putovanja. Jutro provodimo u središtu sela i kod povijesne crkve. Ručak u toplom restoranu društveni je vrhunac dana. Prije povratka uživamo u zimskim vidicima na polje, pomno pazeći na vrijeme autobusa kako bismo izbjegli čekanje na hladnoći."
+            "hr": "Zimski prijevoz do Gornjih Vinjana zahtijeva planiranje, ali pruža ugodan način putovanja. Jutro provodimo u centru sela i u povijesnoj crkvi. Ručak u toplom lokalu društveni je vrhunac dana. Prije povratka uživamo u zimskim pogledima preko polja, pazeći na polaske autobusa kako bismo izbjegli čekanje na hladnoći."
           },
           "stops": [
             {
@@ -1924,7 +1924,7 @@
                 "hu": "Viseljünk meleg ruhát a megállóban való várakozáshoz.",
                 "ro": "Purtați haine groase pentru timpul de așteptare în stație.",
                 "en": "Wear warm clothing for the wait at the bus stop.",
-                "hr": "Nosite toplu odjeću za čekanje na autobusnoj stanici."
+                "hr": "Obucite toplu odjeću za čekanje na autobusnoj stanici."
               }
             },
             {
@@ -1934,7 +1934,7 @@
                 "hu": "A templom belseje télen nagyon hűvös lehet.",
                 "ro": "Interiorul bisericii poate fi foarte rece iarna.",
                 "en": "The interior of the church can be very chilly in winter.",
-                "hr": "Unutrašnjost crkve zimi može biti vrlo hladna."
+                "hr": "Unutrašnjost crkve može biti vrlo hladna zimi."
               }
             },
             {
@@ -1944,7 +1944,7 @@
                 "hu": "A késő délelőtti fények ideálisak a fotózáshoz.",
                 "ro": "Lumina de la sfârșitul dimineții este ideală pentru fotografii.",
                 "en": "The late morning light is ideal for photography.",
-                "hr": "Kasno jutarnje svjetlo idealno je za fotografiranje."
+                "hr": "Kasnojutarnje svjetlo idealno je za fotografiranje."
               }
             },
             {
@@ -1954,7 +1954,7 @@
                 "hu": "Élvezzük a vendéglő melegét egészen az indulásig.",
                 "ro": "Bucurați-vă de căldura localului până aproape de plecare.",
                 "en": "Stay in the warmth of the restaurant until just before departure.",
-                "hr": "Ostanite u toplini restorana do neposredno prije polaska."
+                "hr": "Ostanite u toplini restorana do netom prije polaska."
               }
             },
             {
@@ -1964,7 +1964,7 @@
                 "hu": "Egy gyors pillantás is elég, a szél itt gyakran erős.",
                 "ro": "O privire rapidă e suficientă, vântul este adesea puternic aici.",
                 "en": "A quick look is enough; the wind is often strong here.",
-                "hr": "Kratak pogled je dovoljan; vjetar je ovdje često jak."
+                "hr": "Brzi pogled je dovoljna; vjetar je često jak ovdje."
               }
             },
             {
@@ -1974,7 +1974,7 @@
                 "hu": "Egy forró tea elvitelre jól jöhet az induláskor.",
                 "ro": "Un ceai cald la pachet vă va prinde bine la plecare.",
                 "en": "A hot tea to go will keep you warm as you depart.",
-                "hr": "Topli čaj za van grijat će vas pri odlasku."
+                "hr": "Topli čaj za ponijeti ugrijat će vas pri odlasku."
               }
             }
           ],
@@ -2005,9 +2005,9 @@
             ],
             "hr": [
               "Zimski vozni redovi mogu se razlikovati od ljetnih.",
-              "Planirajte povratak ranije jer autobusi mogu voziti rjeđe.",
-              "Autobusi su obično dobro zagrijani – iskoristite vožnju da se ugrijete.",
-              "Provjerite lokalne zimske praznike koji bi mogli utjecati na uslugu."
+              "Planirajte povratak rano jer autobusi mogu voziti rjeđe.",
+              "Autobusi su obično dobro grijani – iskoristite vožnju za ugrijavanje.",
+              "Provjerite lokalne zimske praznike koji mogu utjecati na promet."
             ]
           }
         }

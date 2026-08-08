@@ -32,7 +32,7 @@
             "hu": "Igya meg itt az első eszpresszóját a csatornára nézve.",
             "ro": "Savurați aici primul espresso cu vedere la canal.",
             "en": "Enjoy your first espresso here overlooking the canal.",
-            "hr": "Uživajte u svom prvom espressu ovdje s pogledom na kanal."
+            "hr": "Uživajte u prvom espressu ovdje s pogledom na kanal."
           }
         },
         {
@@ -70,7 +70,7 @@
             "hu": "A sziget barokk építészetének szép példája.",
             "ro": "Un exemplu frumos de arhitectură barocă pe insulă.",
             "en": "A fine example of baroque architecture on the island.",
-            "hr": "Lijep primjer barokne arhitekture na otoku."
+            "hr": "Izvrstan primjer barokne arhitekture na otoku."
           }
         },
         {
@@ -89,7 +89,7 @@
             "hu": "Figyeljen a belső tér művészi oltárképeire.",
             "ro": "Admirați picturile murale artistice din interior.",
             "en": "Note the artistic altarpieces inside.",
-            "hr": "Obratite pažnju na umjetničke oltarne pale u unutrašnjosti."
+            "hr": "Obratite pozornost na umjetnička oltarna djela unutra."
           }
         },
         {
@@ -108,7 +108,7 @@
             "hu": "Pompás villa közvetlenül a parti sétányon.",
             "ro": "Vilă splendidă situată chiar pe faleza orașului.",
             "en": "Splendid villa located right on the waterfront promenade.",
-            "hr": "Raskošna vila smještena izravno na obalnoj šetnici."
+            "hr": "Sjajna vila smještena odmah na šetnici uz more."
           }
         },
         {
@@ -155,7 +155,7 @@
         "hu": "Reggel fedezze fel Tisno szívét a híres felvonóhíd körül, amely összeköti a szárazföldet Murter-szigetével.\n\nDélben sétáljon végig a szűk utcákon, csodálja meg a barokk palotákat és látogassa meg a központ történelmi templomait.\n\nDélután másszon fel a Karavaj-szentélyhez, amely egy spirituális hely a régió egyik legjobb kilátásával.\n\nEste zárja a napot a Jazine-strandon, ahol a nyugodt víz tökéletes egy frissítő fürdőzéshez.",
         "ro": "Dimineața explorați inima orașului Tisno în jurul celebrului pod mobil care leagă continentul de insula Murter.\n\nLa prânz plimbați-vă pe străzile înguste, admirați palatele baroce și vizitați bisericile istorice din centrul vechi.\n\nDupă-amiaza urcați la sanctuarul Karavaj, un loc spiritual care oferă una dintre cele mai bune priveliști din regiune.\n\nSeara încheiați ziua pe plaja Jazine, unde apa liniștită este perfectă pentru o baie răcoritoare.",
         "en": "In the morning, explore the heart of Tisno around the famous drawbridge connecting the mainland to Murter Island.\n\nAt midday, stroll through the narrow streets, admire the baroque palaces, and visit the historical churches in the center.\n\nIn the afternoon, climb up to the Karavaj sanctuary, a spiritual site offering some of the best views in the region.\n\nIn the evening, end your day at Jazine beach, where the calm water is perfect for a refreshing swim.",
-        "hr": "Ujutro istražite srce Tisnog oko poznatog pokretnog mosta koji povezuje kopno s otokom Murterom.\n\nU podne prošećite uskim ulicama, divite se baroknim palačama i posjetite povijesne crkve u centru.\n\nPoslijepodne se popnite do svetišta Gospe od Karavaja, duhovnog mjesta koje nudi neke od najboljih pogleda u regiji.\n\nNavečer završite dan na plaži Jazine, gdje je mirna voda savršena za osvježavajuće kupanje."
+        "hr": "Ujutro istražite srce Tisnog oko poznatog mosta koji povezuje kopno s otokom Murter.\n\nU podne prošećite uskim ulicama, divite se baroknim palačama i posjetite povijesne crkve u centru.\n\nPoslijepodne se popnite do svetišta Karavaj, duhovnog mjesta koje nudi neke od najboljih vidika u regiji.\n\nUvečer završite dan na plaži Jazine, gdje je mirno more izvrsno za osvježavajući kupanje."
       },
       "gastro_picks": {
         "de": [
@@ -330,9 +330,9 @@
         ],
         "hr": [
           "Most je srce grada, svakako ga prijeđite.",
-          "Za stazu do brda Karavaj preporučuje se čvrsta obuća.",
-          "Parkirna mjesta su ograničena ljeti, dođite rano.",
-          "Posjetite Tisno tijekom međunarodne utrke tovara u kolovozu."
+          "Čvrsta obuća preporučuje se za put do brda Karavaj.",
+          "Parkirnih mjesta je ljeti malo, dođite rano.",
+          "Posjetite Tisno tijekom međunarodne utrke magaraca u kolovozu."
         ]
       },
       "variants": {
@@ -341,7 +341,8 @@
             "de": "Morgens erkunden Sie das Herz von Tisno rund um die berühmte Ziehbrücke, die das Festland mit der Insel Murter verbindet.\n\nMittags schlendern Sie durch die engen Gassen, bewundern barocke Paläste und besuchen die historischen Kirchen im Ortskern.\n\nNachmittags steigen Sie zum Heiligtum von Karavaj auf, einem spirituellen Ort mit einem der besten Ausblicke der Region.\n\nAbends lassen Sie den Tag am Strand Jazine ausklingen, wo das ruhige Wasser perfekt für ein erfrischendes Bad ist.",
             "hu": "Reggel fedezze fel Tisno szívét a híres felvonóhíd körül, amely összeköti a szárazföldet Murter-szigetével.\n\nDélben sétáljon végig a szűk utcákon, csodálja meg a barokk palotákat és látogassa meg a központ történelmi templomait.\n\nDélután másszon fel a Karavaj-szentélyhez, amely egy spirituális hely a régió egyik legjobb kilátásával.\n\nEste zárja a napot a Jazine-strandon, ahol a nyugodt víz tökéletes egy frissítő fürdőzéshez.",
             "ro": "Dimineața explorați inima orașului Tisno în jurul celebrului pod mobil care leagă continentul de insula Murter.\n\nLa prânz plimbați-vă pe străzile înguste, admirați palatele baroce și vizitați bisericile istorice din centrul vechi.\n\nDupă-amiaza urcați la sanctuarul Karavaj, un loc spiritual care oferă una dintre cele mai bune priveliști din regiune.\n\nSeara încheiați ziua pe plaja Jazine, unde apa liniștită este perfectă pentru o baie răcoritoare.",
-            "en": "In the morning, explore the heart of Tisno around the famous drawbridge connecting the mainland to Murter Island.\n\nAt midday, stroll through the narrow streets, admire the baroque palaces, and visit the historical churches in the center.\n\nIn the afternoon, climb up to the Karavaj sanctuary, a spiritual site offering some of the best views in the region.\n\nIn the evening, end your day at Jazine beach, where the calm water is perfect for a refreshing swim."
+            "en": "In the morning, explore the heart of Tisno around the famous drawbridge connecting the mainland to Murter Island.\n\nAt midday, stroll through the narrow streets, admire the baroque palaces, and visit the historical churches in the center.\n\nIn the afternoon, climb up to the Karavaj sanctuary, a spiritual site offering some of the best views in the region.\n\nIn the evening, end your day at Jazine beach, where the calm water is perfect for a refreshing swim.",
+            "hr": "Ujutro istražite srce Tisnog oko poznatog mosta koji povezuje kopno s otokom Murter.\n\nU podne prošećite uskim ulicama, divite se baroknim palačama i posjetite povijesne crkve u centru.\n\nPoslijepodne se popnite do svetišta Karavaj, duhovnog mjesta koje nudi neke od najboljih vidika u regiji.\n\nUvečer završite dan na plaži Jazine, gdje je mirno more izvrsno za osvježavajući kupanje."
           },
           "stops": [
             {
@@ -350,7 +351,8 @@
                 "de": "Trinken Sie hier Ihren ersten Espresso mit Blick auf den Kanal.",
                 "hu": "Igya meg itt az első eszpresszóját a csatornára nézve.",
                 "ro": "Savurați aici primul espresso cu vedere la canal.",
-                "en": "Enjoy your first espresso here overlooking the canal."
+                "en": "Enjoy your first espresso here overlooking the canal.",
+                "hr": "Uživajte u prvom espressu ovdje s pogledom na kanal."
               }
             },
             {
@@ -359,7 +361,8 @@
                 "de": "Täglich um 09:00 und 17:00 Uhr öffnet sich die Brücke.",
                 "hu": "A híd minden nap 09:00-kor és 17:00-kor nyílik ki.",
                 "ro": "Podul se deschide zilnic la orele 09:00 și 17:00.",
-                "en": "The bridge opens daily at 09:00 and 17:00."
+                "en": "The bridge opens daily at 09:00 and 17:00.",
+                "hr": "Most se otvara svakodnevno u 09:00 i 17:00."
               }
             },
             {
@@ -368,7 +371,8 @@
                 "de": "Ein schönes Beispiel für die Barockarchitektur der Insel.",
                 "hu": "A sziget barokk építészetének szép példája.",
                 "ro": "Un exemplu frumos de arhitectură barocă pe insulă.",
-                "en": "A fine example of baroque architecture on the island."
+                "en": "A fine example of baroque architecture on the island.",
+                "hr": "Izvrstan primjer barokne arhitekture na otoku."
               }
             },
             {
@@ -377,7 +381,8 @@
                 "de": "Achten Sie auf die kunstvollen Altarbilder im Inneren.",
                 "hu": "Figyeljen a belső tér művészi oltárképeire.",
                 "ro": "Admirați picturile murale artistice din interior.",
-                "en": "Note the artistic altarpieces inside."
+                "en": "Note the artistic altarpieces inside.",
+                "hr": "Obratite pozornost na umjetnička oltarna djela unutra."
               }
             },
             {
@@ -386,7 +391,8 @@
                 "de": "Prachtvolle Villa direkt an der Uferpromenade.",
                 "hu": "Pompás villa közvetlenül a parti sétányon.",
                 "ro": "Vilă splendidă situată chiar pe faleza orașului.",
-                "en": "Splendid villa located right on the waterfront promenade."
+                "en": "Splendid villa located right on the waterfront promenade.",
+                "hr": "Sjajna vila smještena odmah na šetnici uz more."
               }
             },
             {
@@ -395,7 +401,8 @@
                 "de": "Der Aufstieg lohnt sich für das Panorama über Tisno.",
                 "hu": "A feljutás megéri a Tisno feletti panoráma miatt.",
                 "ro": "Urcarea merită pentru panorama asupra orașului Tisno.",
-                "en": "The climb is worth it for the panorama over Tisno."
+                "en": "The climb is worth it for the panorama over Tisno.",
+                "hr": "Uspon se isplati zbog panorame nad Tisnim."
               }
             },
             {
@@ -404,7 +411,8 @@
                 "de": "Flaches Wasser, ideal für Familien und zum Entspannen.",
                 "hu": "Sekély víz, ideális családoknak és pihenésre.",
                 "ro": "Apă puțin adâncă, ideală pentru familii și relaxare.",
-                "en": "Shallow water, ideal for families and relaxation."
+                "en": "Shallow water, ideal for families and relaxation.",
+                "hr": "Plitka voda, idealna za obitelji i opuštanje."
               }
             }
           ],
@@ -550,6 +558,12 @@
               "Sturdy shoes are recommended for the path to Karavaj Hill.",
               "Parking spaces are limited in summer, arrive early.",
               "Visit Tisno during the international donkey race in August."
+            ],
+            "hr": [
+              "Most je srce grada, svakako ga prijeđite.",
+              "Čvrsta obuća preporučuje se za put do brda Karavaj.",
+              "Parkirnih mjesta je ljeti malo, dođite rano.",
+              "Posjetite Tisno tijekom međunarodne utrke magaraca u kolovozu."
             ]
           }
         },
@@ -559,7 +573,7 @@
             "hu": "Reggel esernyővel járjuk be a Tisno-testvériségek terét, élvezve az eső áztatta kövek illatát. Ebédidőben a felvonóhíd látványa borús időben is lenyűgöző. Délután a Szentlélek-templom és a Villa Katina nyújt menedéket a záporok elől. Este a Jazine-part csendes magányában figyelhetjük, ahogy az esőcseppek a tengerbe vesznek.",
             "ro": "Dimineața explorăm Piața Tisno sub umbrelă, admirând reflexiile pe pavajul vechi. La prânz, podul mobil oferă un spectacol dramatic pe un cer gri. După-amiaza, Biserica Sfântului Duh și Vila Katina devin refugii primitoare împotriva ploii. Seara se încheie cu o plimbare melancolică pe plaja Jazine, unde sunetul ploii se contopește cu valurile.",
             "en": "Morning begins at the Tisno Brotherhoods Square with an umbrella in hand. At lunch, the drawbridge offers a dramatic view under grey skies. Afternoon provides dry refuge inside the Church of the Holy Spirit and Villa Katina. Evening concludes with a peaceful, rainy walk at Jazine beach, where the sea meets the falling drops.",
-            "hr": "Jutro počinje na Trgu bratstva u Tisnom s kišobranom u ruci. Za ručak, pokretni most nudi dramatičan pogled pod sivim nebom. Poslijepodne nudi suho utočište u crkvi Svetog Duha i vili Katina. Večer završava mirnom, kišnom šetnjom plažom Jazine, gdje se more susreće s kapima kiše."
+            "hr": "Jutro započinje na Trgu bratstava u Tisnom s kišobranom u ruci. U podne most pruža dramatičan pogled pod sivim nebom. Poslijepodne nudi suhi zaklon unutar Crkve Duha Svetoga i Ville Katina. Večer završava mirnom, kišovitom šetnjom na plaži Jazine, gdje se more susreće s kapima koje padaju."
           },
           "stops": [
             {
@@ -569,7 +583,7 @@
                 "hu": "Vigyázat, az esőben a kőburkolat csúszóssá válhat.",
                 "ro": "Atenție la pavajul de piatră care devine alunecos pe ploaie.",
                 "en": "Watch out for slippery stone pavement in the rain.",
-                "hr": "Pripazite na skliski kameni pločnik na kiši."
+                "hr": "Pazite na sklizak kameni pločnik po kiši."
               }
             },
             {
@@ -579,7 +593,7 @@
                 "hu": "Rövid megálló, nézze meg a hídnyitást fedett helyről.",
                 "ro": "Oprire scurtă pentru a vedea ridicarea podului la adăpost.",
                 "en": "Short stop to watch the bridge lift from a sheltered spot.",
-                "hr": "Kratko zaustavljanje za promatranje podizanja mosta iz natkritog mjesta."
+                "hr": "Kratka pauza za promatranje podizanja mosta s natkrivenog mjesta."
               }
             },
             {
@@ -589,7 +603,7 @@
                 "hu": "A történelmi falak jó védelmet nyújtanak a széllökések ellen.",
                 "ro": "Zidurile istorice oferă o protecție bună împotriva vântului.",
                 "en": "The historic walls provide good shelter from wind gusts.",
-                "hr": "Povijesni zidovi pružaju dobar zaklon od udara vjetra."
+                "hr": "Povijesni zidovi pružaju dobar zaklon od naleta vjetra."
               }
             },
             {
@@ -599,7 +613,7 @@
                 "hu": "Ideális helyszín egy hosszabb beltéri pihenőhöz az eső elől.",
                 "ro": "Un loc ideal pentru o pauză prelungită la interior.",
                 "en": "An ideal place for a longer indoor break from the rain.",
-                "hr": "Idealno mjesto za dužu pauzu od kiše u zatvorenom."
+                "hr": "Idealno mjesto za dužu unutarnju pauzu od kiše."
               }
             },
             {
@@ -609,7 +623,7 @@
                 "hu": "Csodálja meg az építészetet az eresz alól.",
                 "ro": "Admirați arhitectura stând sub streșina clădirii.",
                 "en": "Admire the architecture while staying under the eaves.",
-                "hr": "Divite se arhitekturi dok boravite pod strehom."
+                "hr": "Divite se arhitekturi dok ostajete pod strehom."
               }
             },
             {
@@ -619,7 +633,7 @@
                 "hu": "A felfelé vezető út nedvesen csúszós, használjon túracipőt.",
                 "ro": "Urcarea poate fi alunecoasă, folosiți încălțăminte aderentă.",
                 "en": "The uphill path can be slippery; use sturdy footwear.",
-                "hr": "Staza uzbrdo može biti skliska; koristite čvrstu obuću."
+                "hr": "Uspon može biti klizav; nosite čvrstu obuću."
               }
             },
             {
@@ -629,7 +643,7 @@
                 "hu": "Használja a közeli kávézókat a tengerparti kilátáshoz.",
                 "ro": "Folosiți cafenelele din apropiere pentru a admira marea la uscat.",
                 "en": "Use nearby cafes to enjoy the sea view while staying dry.",
-                "hr": "Koristite obližnje kafiće za uživanje u pogledu na more dok ste na suhom."
+                "hr": "Iskoristite obližnje kafiće za uživanje u pogledu na more dok ostajete suhi."
               }
             }
           ],
@@ -659,10 +673,10 @@
               "A compact umbrella is more practical in narrow streets than a large one."
             ],
             "hr": [
-              "Nosite vodootpornu obuću za skliske uličice starog grada.",
-              "Kafići u luci savršena su mjesta za čekanje da kiša prođe.",
-              "Most se otvara i po kiši; planirajte svoje vrijeme u skladu s tim.",
-              "Kompaktan kišobran praktičniji je u uskim ulicama od velikog."
+              "Nosite vodootpornu obuću za klizave uličice starog grada.",
+              "Kafići u luci idealna su mjesta za čekanje prolaznih pljuskova.",
+              "Most se otvara i po kiši; planirajte vrijeme odgovarajuće.",
+              "Kompaktan kišobran praktičniji je u uskim ulicama nego veliki."
             ]
           }
         },
@@ -672,7 +686,7 @@
             "hu": "Reggel friss tengeri szellő fúj az üres Testvériségek terén. Ebédidőben a felvonóhíd a tiszta téli napsütésben ragyog. Délután a templomok és paloták falaiban keresünk enyhülést a hideg ellen. Mivel a nap 16:30 körül nyugszik, a kora esti égboltot már a csendes Jazine-parton csodáljuk.",
             "ro": "Dimineața, o briză proaspătă suflă peste piața pustie a Tisno. La prânz, podul mobil strălucește în lumina clară a soarelui de iarnă. După-amiaza ne încălzim vizitând bisericile și reședințele istorice. Deoarece soarele apune în jur de 16:30, admirăm cerul serii devreme pe plaja liniștită Jazine.",
             "en": "Morning brings a crisp breeze across the empty Brotherhoods Square. At lunch, the drawbridge shines in the clear winter sun. Afternoon is spent warming up inside churches and historic residences. As the sun sets around 4:30 PM, we enjoy the early evening sky over the quiet Jazine beach.",
-            "hr": "Jutro donosi oštar povjetarac preko praznog Trga bratstva. Za ručak, pokretni most sjaji na čistom zimskom suncu. Poslijepodne se provodi grijući se u crkvama i povijesnim rezidencijama. Kako sunce zalazi oko 16:30, uživamo u ranom večernjem nebu iznad tihe plaže Jazine."
+            "hr": "Jutro donosi svjež povjetarac preko praznog Trga Bratstava. U podne, pokretni most blista na jasnom zimskom suncu. Poslijepodne se grijemo u crkvama i povijesnim rezidencijama. Kad sunce zađe oko 16:30, uživamo u ranom večernjem nebu iznad mirne plaže Jazine."
           },
           "stops": [
             {
@@ -682,7 +696,7 @@
                 "hu": "A tengeri szél miatt a meleg ruházat elengedhetetlen.",
                 "ro": "Îmbrăcămintea groasă este esențială din cauza vântului marin.",
                 "en": "Warm clothing is essential due to the sea wind.",
-                "hr": "Topla odjeća je neophodna zbog morskog vjetra."
+                "hr": "Topla odjeća je nužna zbog morskog vjetra."
               }
             },
             {
@@ -692,7 +706,7 @@
                 "hu": "Tökéletes fotófények a mélyen járó téli napnál.",
                 "ro": "Lumină perfectă pentru fotografii datorită soarelui de iarnă.",
                 "en": "Perfect photo lighting with the low winter sun.",
-                "hr": "Savršeno osvjetljenje za fotografije uz nisko zimsko sunce."
+                "hr": "Savršeno svjetlo za fotografije s niskim zimskim suncem."
               }
             },
             {
@@ -702,7 +716,7 @@
                 "hu": "Élvezze a nyugalmat a nyári turistatömeg nélkül.",
                 "ro": "Bucurați-vă de liniște fără mulțimile de turiști din vară.",
                 "en": "Enjoy the tranquility without the summer tourist crowds.",
-                "hr": "Uživajte u tišini bez ljetnih turističkih gužvi."
+                "hr": "Uživajte u miru bez ljetnih turističkih gužvi."
               }
             },
             {
@@ -712,7 +726,7 @@
                 "hu": "Gyakran szélvédettebb hely, mint a tengerparti sétány.",
                 "ro": "Aeseori mai ferit de vânt decât faleza.",
                 "en": "Often more sheltered from wind than the waterfront.",
-                "hr": "Često zaklonjenije od vjetra nego sama obala."
+                "hr": "Često zaštićenije od vjetra nego obala."
               }
             },
             {
@@ -722,7 +736,7 @@
                 "hu": "Egy rövid megálló is elég az alacsony hőmérsékletben.",
                 "ro": "O oprire scurtă este suficientă la temperaturi scăzute.",
                 "en": "A short stop is sufficient in low temperatures.",
-                "hr": "Kratko zaustavljanje je dovoljno na niskim temperaturama."
+                "hr": "Kratka stanica dovoljna je pri niskim temperaturama."
               }
             },
             {
@@ -732,7 +746,7 @@
                 "hu": "A legjobb kilátópont a korai naplemente megtekintéséhez.",
                 "ro": "Cel mai bun punct de observație pentru apusul devreme.",
                 "en": "Best vantage point for the early sunset.",
-                "hr": "Najbolja točka za promatranje ranog zalaska sunca."
+                "hr": "Najbolja pozicija za raniji zalazak sunca."
               }
             },
             {
@@ -742,7 +756,7 @@
                 "hu": "Ideális egy tempós téli sétához a tengerparton.",
                 "ro": "Ideal pentru o plimbare rapidă de iarnă pe malul mării.",
                 "en": "Ideal for a brisk winter walk by the sea.",
-                "hr": "Idealno za brzu zimsku šetnju uz more."
+                "hr": "Idealno za svježu zimsku šetnju uz more."
               }
             }
           ],
@@ -772,10 +786,10 @@
               "Sunset occurs as early as 4:30 PM."
             ],
             "hr": [
-              "Bura može biti vrlo hladna; spakirajte šal i kapu.",
-              "Mnogi restorani su zatvoreni zimi; unaprijed provjerite radno vrijeme.",
-              "Iskoristite podnevne sate za najviše temperature.",
-              "Zalazak sunca nastupa već u 16:30."
+              "Bura može biti jako hladna; ponesite šal i kapu.",
+              "Mnogi restorani zatvaraju zimi; provjerite radno vrijeme unaprijed.",
+              "Iskoristite satnice oko podneva za najtoplije temperature.",
+              "Zalazak sunca može biti već u 16:30."
             ]
           }
         }
@@ -805,7 +819,7 @@
             "hu": "Induljon innen, és tekerjen Murter-sziget irányába.",
             "ro": "Porniți de aici și pedalați spre insula Murter.",
             "en": "Start here and cycle towards Murter Island.",
-            "hr": "Krenite odavde i biciklirajte prema otoku Murteru."
+            "hr": "Krenite ovdje i vozite prema otoku Murter."
           }
         },
         {
@@ -824,7 +838,7 @@
             "hu": "Kis kápolna történelmi bájjal az út mentén.",
             "ro": "Capelă mică cu farmec istoric la marginea drumului.",
             "en": "Small chapel with historical charm by the road.",
-            "hr": "Mala kapelica s povijesnim šarmom uz cestu."
+            "hr": "Mala kapela s povijesnim šarmom uz cestu."
           }
         },
         {
@@ -843,7 +857,7 @@
             "hu": "Kiváló megálló egy rövid felfrissüléshez.",
             "ro": "O oprire excelentă pentru o scurtă răcorire.",
             "en": "A great stop for a quick cooling down.",
-            "hr": "Odlično mjesto za brzo hlađenje."
+            "hr": "Odlično mjesto za kratko osvježenje."
           }
         },
         {
@@ -881,7 +895,7 @@
             "hu": "Utolsó fotómegálló a túra vége előtt.",
             "ro": "Ultima oprire pentru poze înainte de finalul turului.",
             "en": "Last photo stop before the end of the tour.",
-            "hr": "Posljednja prilika za fotografiju prije kraja ture."
+            "hr": "Zadnje mjesto za fotografiju prije kraja ture."
           }
         }
       ],
@@ -890,7 +904,7 @@
         "hu": "Kezdje kerékpártúráját a hídnál, és élvezze a csatorna hűvös szellőjét reggel.\n\nTekerjen a parti úton a Jazine-öböl felé, ahol az utak síkok és könnyen járhatók.\n\nDélben térjen vissza a főtérre, hogy magába szívja a nyüzsgő halászfalu hangulatát.\n\nZárja a kört a történelmi villák meglátogatásával a sziget oldali parti sétány mentén.",
         "ro": "Începeți turul cu bicicleta la pod și bucurați-vă de briza răcoroasă a canalului dimineața.\n\nPedalați pe drumul de coastă spre golful Jazine, unde traseele sunt plane și ușor de parcurs.\n\nLa prânz reveniți în piața principală pentru a absorbi atmosfera satului pescăresc plin de viață.\n\nÎncheiați tura cu o vizită la vilele istorice de-a lungul falezei de pe partea insulei.",
         "en": "Start your bike tour at the bridge and enjoy the cool canal breeze in the morning.\n\nCycle along the coastal road to Jazine Bay, where the paths are flat and easy to ride.\n\nAt midday, return to the main square to soak up the atmosphere of the vibrant fishing village.\n\nEnd the loop with a visit to the historical villas along the waterfront promenade on the island side.",
-        "hr": "Započnite svoju biciklističku turu kod mosta i uživajte u hladnom povjetarcu s kanala ujutro.\n\nBiciklirajte obalnom cestom do uvale Jazine, gdje su staze ravne i lake za vožnju.\n\nU podne se vratite na glavni trg kako biste upili atmosferu živahnog ribarskog mjesta.\n\nZavršite krug posjetom povijesnim vilama duž obalne šetnice na otočnoj strani."
+        "hr": "Započnite biciklističku turu na mostu i uživajte u svježem jutarnjem povjetarcu kanala.\n\nVozite uz obalnu cestu do uvale Jazine, gdje su putevi ravni i lagani za vožnju.\n\nU podne se vratite na glavni trg kako biste upili atmosferu živahnog ribarskog mjesta.\n\nZavršite krug posjetom povijesnim vilama uz šetnicu na strani otoka."
       },
       "gastro_picks": {
         "de": [
@@ -1020,9 +1034,9 @@
         ],
         "hr": [
           "Ulice u Tisnom mogu biti uske, pazite na pješake.",
-          "Staza do Jazina je ravna i vrlo ugodna za vožnju.",
-          "Uzmite dovoljno vode, na biciklističkim stazama ima malo hlada.",
-          "Izlet u susjedno mjesto Jezera vrlo je jednostavan biciklom."
+          "Put do Jazine je ravan i vrlo ugodan za vožnju.",
+          "Ponesite dovoljno vode, na biciklističkim stazama ima malo hlada.",
+          "Izlet do susjednog sela Jezera vrlo je jednostavan biciklom."
         ]
       },
       "variants": {
@@ -1031,7 +1045,8 @@
             "de": "Starten Sie Ihre Radtour an der Brücke und genießen Sie die kühle Brise des Kanals am Morgen.\n\nFahren Sie entlang der Küstenstraße zur Jazine-Bucht, wo die Wege flach und leicht befahrbar sind.\n\nMittags kehren Sie zum Hauptplatz zurück, um die Atmosphäre des lebendigen Fischerortes aufzusaugen.\n\nBeenden Sie die Runde mit einem Besuch der historischen Villen entlang der Uferpromenade auf der Inselseite.",
             "hu": "Kezdje kerékpártúráját a hídnál, és élvezze a csatorna hűvös szellőjét reggel.\n\nTekerjen a parti úton a Jazine-öböl felé, ahol az utak síkok és könnyen járhatók.\n\nDélben térjen vissza a főtérre, hogy magába szívja a nyüzsgő halászfalu hangulatát.\n\nZárja a kört a történelmi villák meglátogatásával a sziget oldali parti sétány mentén.",
             "ro": "Începeți turul cu bicicleta la pod și bucurați-vă de briza răcoroasă a canalului dimineața.\n\nPedalați pe drumul de coastă spre golful Jazine, unde traseele sunt plane și ușor de parcurs.\n\nLa prânz reveniți în piața principală pentru a absorbi atmosfera satului pescăresc plin de viață.\n\nÎncheiați tura cu o vizită la vilele istorice de-a lungul falezei de pe partea insulei.",
-            "en": "Start your bike tour at the bridge and enjoy the cool canal breeze in the morning.\n\nCycle along the coastal road to Jazine Bay, where the paths are flat and easy to ride.\n\nAt midday, return to the main square to soak up the atmosphere of the vibrant fishing village.\n\nEnd the loop with a visit to the historical villas along the waterfront promenade on the island side."
+            "en": "Start your bike tour at the bridge and enjoy the cool canal breeze in the morning.\n\nCycle along the coastal road to Jazine Bay, where the paths are flat and easy to ride.\n\nAt midday, return to the main square to soak up the atmosphere of the vibrant fishing village.\n\nEnd the loop with a visit to the historical villas along the waterfront promenade on the island side.",
+            "hr": "Započnite biciklističku turu na mostu i uživajte u svježem jutarnjem povjetarcu kanala.\n\nVozite uz obalnu cestu do uvale Jazine, gdje su putevi ravni i lagani za vožnju.\n\nU podne se vratite na glavni trg kako biste upili atmosferu živahnog ribarskog mjesta.\n\nZavršite krug posjetom povijesnim vilama uz šetnicu na strani otoka."
           },
           "stops": [
             {
@@ -1040,7 +1055,8 @@
                 "de": "Starten Sie hier und fahren Sie Richtung Murter-Insel.",
                 "hu": "Induljon innen, és tekerjen Murter-sziget irányába.",
                 "ro": "Porniți de aici și pedalați spre insula Murter.",
-                "en": "Start here and cycle towards Murter Island."
+                "en": "Start here and cycle towards Murter Island.",
+                "hr": "Krenite ovdje i vozite prema otoku Murter."
               }
             },
             {
@@ -1049,7 +1065,8 @@
                 "de": "Kleine Kapelle mit historischem Charme am Wegrand.",
                 "hu": "Kis kápolna történelmi bájjal az út mentén.",
                 "ro": "Capelă mică cu farmec istoric la marginea drumului.",
-                "en": "Small chapel with historical charm by the road."
+                "en": "Small chapel with historical charm by the road.",
+                "hr": "Mala kapela s povijesnim šarmom uz cestu."
               }
             },
             {
@@ -1058,7 +1075,8 @@
                 "de": "Ein schöner Stopp für eine kurze Abkühlung.",
                 "hu": "Kiváló megálló egy rövid felfrissüléshez.",
                 "ro": "O oprire excelentă pentru o scurtă răcorire.",
-                "en": "A great stop for a quick cooling down."
+                "en": "A great stop for a quick cooling down.",
+                "hr": "Odlično mjesto za kratko osvježenje."
               }
             },
             {
@@ -1067,7 +1085,8 @@
                 "de": "Stellen Sie das Rad ab und genießen Sie ein Eis.",
                 "hu": "Tegye le a biciklit, és élvezze a fagyit.",
                 "ro": "Parcați bicicleta și savurați o înghețată.",
-                "en": "Park the bike and enjoy some ice cream."
+                "en": "Park the bike and enjoy some ice cream.",
+                "hr": "Parkirajte bicikl i uživajte u sladoledu."
               }
             },
             {
@@ -1076,7 +1095,8 @@
                 "de": "Letzter Fotostopp vor dem Ende der Tour.",
                 "hu": "Utolsó fotómegálló a túra vége előtt.",
                 "ro": "Ultima oprire pentru poze înainte de finalul turului.",
-                "en": "Last photo stop before the end of the tour."
+                "en": "Last photo stop before the end of the tour.",
+                "hr": "Zadnje mjesto za fotografiju prije kraja ture."
               }
             }
           ],
@@ -1186,6 +1206,12 @@
               "The path to Jazine is flat and very pleasant to ride.",
               "Take enough water, there is little shade on the bike paths.",
               "A side trip to the neighboring village Jezera is very easy by bike."
+            ],
+            "hr": [
+              "Ulice u Tisnom mogu biti uske, pazite na pješake.",
+              "Put do Jazine je ravan i vrlo ugodan za vožnju.",
+              "Ponesite dovoljno vode, na biciklističkim stazama ima malo hlada.",
+              "Izlet do susjednog sela Jezera vrlo je jednostavan biciklom."
             ]
           }
         },
@@ -1195,7 +1221,7 @@
             "hu": "Reggel óvatosan tekerünk át a nedves felvonóhídon. Ebédidőben a Szent Rókus-templom nyújt védelmet a zápor elől. Délután a Jazine-parton figyeljük a háborgó tengert. A túrát korán befejezzük, hogy egy meleg kávézóban száradjunk meg a Testvériségek terén.",
             "ro": "Dimineața pedalăm cu atenție peste podul mobil umed. La prânz, Biserica Sfântului Roch oferă adăpost în timpul unei averse. După-amiaza, pe plaja Jazine, observăm marea agitată. Încheiem turul devreme pentru a ne usca într-o cafenea caldă din Piața Tisno.",
             "en": "Morning starts with a cautious ride over the wet drawbridge. At lunch, St. Roch's Church provides shelter from a shower. Afternoon at Jazine beach is spent watching the stormy sea. We finish the tour early to dry off in a warm cafe at the Brotherhoods Square.",
-            "hr": "Jutro počinje opreznom vožnjom preko mokrog pokretnog mosta. Za ručak, crkva sv. Roka pruža zaklon od pljuska. Poslijepodne na plaži Jazine provodi se promatrajući olujno more. Turu završavamo ranije kako bismo se osušili u toplom kafiću na Trgu bratstva."
+            "hr": "Jutro počinje opreznom vožnjom preko mokrog pokretnog mosta. U podne crkva sv. Roka pruža zaklon od pljuska. Poslijepodne na plaži Jazine promatramo olujno more. Turu završavamo ranije kako bismo se osušili uz topao čaj u kafiću na Trgu Bratstava."
           },
           "stops": [
             {
@@ -1205,7 +1231,7 @@
                 "hu": "Vigyázat, a híd fém részei nedvesen rendkívül csúszósak.",
                 "ro": "Atenție, părțile metalice ale podului sunt extrem de alunecoase pe ploaie.",
                 "en": "Caution: metal parts of the bridge are extremely slippery when wet.",
-                "hr": "Oprez: metalni dijelovi mosta su izuzetno skliski kad su mokri."
+                "hr": "Upozorenje: metalni dijelovi mosta iznimno su klizavi kad su mokri."
               }
             },
             {
@@ -1215,7 +1241,7 @@
                 "hu": "Jó hely az esőruházat rövid szellőztetésére.",
                 "ro": "Un loc bun pentru a aerisi scurt echipamentul de ploaie.",
                 "en": "A good spot to briefly air out your rain gear.",
-                "hr": "Dobra točka za kratko provjetravanje kišne opreme."
+                "hr": "Dobra lokacija za kratko prozračivanje kišne opreme."
               }
             },
             {
@@ -1225,7 +1251,7 @@
                 "hu": "A kerékpárút szilárd burkolata megvéd a sártól.",
                 "ro": "Suprafața solidă a pistei de biciclete protejează de noroi.",
                 "en": "The firm surface of the bike path protects from mud.",
-                "hr": "Čvrsta podloga biciklističke staze štiti od blata."
+                "hr": "Čvrsta površina biciklističke staze štiti od blata."
               }
             },
             {
@@ -1235,7 +1261,7 @@
                 "hu": "Biztonságos kerékpártárolók a fedett kávézók közelében.",
                 "ro": "Rasteluri sigure pentru biciclete lângă cafenelele acoperite.",
                 "en": "Secure bike racks available near the sheltered cafes.",
-                "hr": "Sigurni stalci za bicikle dostupni su u blizini natkritih kafića."
+                "hr": "Osigurani nosači za bicikle dostupni su uz zaklonjene kafiće."
               }
             },
             {
@@ -1245,7 +1271,7 @@
                 "hu": "Rövid fotómegálló a következő zápor előtt.",
                 "ro": "Oprire scurtă pentru poze înainte de următoarea aversă.",
                 "en": "Short photo stop before the next rain starts.",
-                "hr": "Kratko zaustavljanje za slikanje prije nego što počne sljedeća kiša."
+                "hr": "Kratka fotostanica prije nego što počne nova kiša."
               }
             }
           ],
@@ -1275,10 +1301,10 @@
               "Wear bright rain gear for better visibility."
             ],
             "hr": [
-              "Provjerite kočnice; mokri obruči povećavaju put kočenja.",
-              "Izbjegavajte oštra skretanja na kamenim ulicama.",
-              "Blatobrani su obavezni po ovakvom vremenu.",
-              "Nosite uočljivu kišnu opremu za bolju vidljivost."
+              "Provjerite kočnice; mokri obruči povećavaju zaustavni put.",
+              "Izbjegavajte oštre zavoje na kaldrmama.",
+              "Blatobrani su must-have za ovakvo vrijeme.",
+              "Nosite svijetlu kišnu opremu radi bolje vidljivosti."
             ]
           }
         },
@@ -1288,7 +1314,7 @@
             "hu": "Reggel a tiszta, hideg levegőt élvezzük a híd felé menet. Ebédidőben a szélvédett Szent Rókus-templomnál pihenünk. Délután az elhagyatott Jazine-partra tekerünk, ahol a téli fények varázslatosak. A napot egy forró teával zárjuk a központban, még sötétedés előtt.",
             "ro": "Dimineața ne bucurăm de aerul curat și rece în drum spre pod. La prânz facem o pauză lângă biserica Sf. Roch, ferită de vânt. După-amiaza pedalăm spre plaja pustie Jazine, unde lumina de iarnă este magică. Încheiem ziua cu un ceai fierbinte în centru, înainte de lăsarea întunericului.",
             "en": "Morning is spent enjoying the crisp, cold air on the way to the bridge. At lunch, we break at the sheltered St. Roch's Church. Afternoon involves a ride to the deserted Jazine beach, where winter light looks magical. We finish the day with hot tea in the center before it gets dark.",
-            "hr": "Jutro provodimo uživajući u oštrom, hladnom zraku na putu do mosta. Za ručak se odmaramo kod zaklonjene crkve sv. Roka. Poslijepodne uključuje vožnju do puste plaže Jazine, gdje zimsko svjetlo izgleda čarobno. Dan završavamo uz topli čaj u centru prije mraka."
+            "hr": "Jutro provodimo uživajući u svježem, hladnom zraku na putu prema mostu. U podne stajemо uz zaklon crkve sv. Roka. Poslijepodne vožnja vodi do napuštene plaže Jazine, gdje zimsko svjetlo izgleda čarobno. Dan završavamo s toplim čajem u centru prije nego što padne mrak."
           },
           "stops": [
             {
@@ -1298,7 +1324,7 @@
                 "hu": "A hídon fújó szél jelentősen csökkentheti a hőérzetet.",
                 "ro": "Vântul de pe pod poate scădea temperatura resimțită.",
                 "en": "Wind on the bridge can significantly lower the felt temperature.",
-                "hr": "Vjetar na mostu može značajno sniziti osjet temperature."
+                "hr": "Vjetar na mostu može znatno sniziti osjećaj temperature."
               }
             },
             {
@@ -1308,7 +1334,7 @@
                 "hu": "A nap délben gyakran felmelegíti itt a templomfalat.",
                 "ro": "Soarele încălzește adesea zidul bisericii la prânz.",
                 "en": "The sun often warms the church wall here at midday.",
-                "hr": "Sunce u podne ovdje često grije zid crkve."
+                "hr": "Sunce često grije zid crkve ovdje u podne."
               }
             },
             {
@@ -1328,7 +1354,7 @@
                 "hu": "Keressen egy belső teres kávézót a felmelegedéshez.",
                 "ro": "Căutați o cafenea cu locuri la interior pentru încălzire.",
                 "en": "Look for a cafe with indoor seating to warm up.",
-                "hr": "Potražite kafić sa zatvorenim prostorom za zagrijavanje."
+                "hr": "Potražite kafić s unutarnjim sjedenjem za zagrijavanje."
               }
             },
             {
@@ -1338,7 +1364,7 @@
                 "hu": "A kis forgalom élvezetesebbé teszi a tekerést.",
                 "ro": "Traficul redus face pedalarea mai plăcută.",
                 "en": "Low traffic volume makes cycling more enjoyable.",
-                "hr": "Mali promet čini bicikliranje ugodnijim."
+                "hr": "Niska gustoća prometa čini vožnju biciklom ugodnijom."
               }
             }
           ],
@@ -1368,10 +1394,10 @@
               "Layering your clothes is the best way to prevent cooling down."
             ],
             "hr": [
-              "Nosite termo rukavice kako biste se zaštitili od hladnog vjetra.",
+              "Nosite termo rukavice radi zaštite od hladnog osjećaja vjetra.",
               "Dani su kratki; planirajte povratak do 16:00.",
-              "Pripazite na mraz u zasjenjenim dijelovima ceste.",
-              "Slojevito oblačenje je najbolji način za sprječavanje pothlađivanja."
+              "Pazite na led u zasjenjenim dijelovima ceste.",
+              "Slojevito odijevanje najbolji je način da spriječite prehladu."
             ]
           }
         }
@@ -1420,7 +1446,7 @@
             "hu": "Keljen át a hídon a sziget oldalára.",
             "ro": "Traversați podul spre partea insulei.",
             "en": "Cross the bridge to the island side.",
-            "hr": "Prijeđite most na otočnu stranu."
+            "hr": "Prijeđite most na stranu otoka."
           }
         },
         {
@@ -1496,7 +1522,7 @@
             "hu": "Zárja a napot a szárazföldi oldalon.",
             "ro": "Încheiați ziua pe partea continentală.",
             "en": "End the day on the mainland side.",
-            "hr": "Završite dan na kopnenoj strani."
+            "hr": "Završite dan na kopnu."
           }
         }
       ],
@@ -1505,7 +1531,7 @@
         "hu": "Kezdje a dombtetőn lévő szentélynél, hogy madártávlatból láthassa Tisno városát.\n\nHajtson át a hídon, és fedezze fel a barokk kincseket a sziget oldali óvárosban.\n\nDélben tegyen kirándulást a Kosirina-strandra, a sziget egyik legszebb öblébe, amely autóval könnyen megközelíthető.\n\nKéső délután térjen vissza Tisnóba, és élvezze a pihentető hangulatot a Jazine-strandon.",
         "ro": "Începeți la sanctuarul de pe deal pentru a vedea orașul Tisno din perspectiva unei pasări.\n\nMergeți cu mașina peste pod și explorați comorile baroce din centrul vechi de pe partea insulei.\n\nLa prânz faceți o excursie la plaja Kosirina, unul dintre cele mai frumoase golfuri ale insulei, accesibil ușor cu mașina.\n\nReveniți în Tisno după-amiaza târziu și bucurați-vă de atmosfera relaxată de pe plaja Jazine.",
         "en": "Start at the hilltop sanctuary to see Tisno from a bird's-eye view.\n\nDrive across the bridge and explore the baroque treasures in the old town on the island side.\n\nAt midday, take a trip to Kosirina beach, one of the island's most beautiful bays, easily reached by car.\n\nReturn to Tisno in the late afternoon and enjoy the relaxed atmosphere at Jazine beach.",
-        "hr": "Započnite u svetištu na brdu kako biste vidjeli Tisno iz ptičje perspektive.\n\nOdvezite se preko mosta i istražite barokna blaga u starom gradu na otočnoj strani.\n\nU podne otputujte do plaže Kosirina, jedne od najljepših uvala na otoku, do koje se lako dolazi automobilom.\n\nVratite se u Tisno kasno poslijepodne i uživajte u opuštenoj atmosferi na plaži Jazine."
+        "hr": "Krenite od svetišta na uzvisini za pogled na Tisno iz ptičje perspektive.\n\nPređite most automobilom i istražite barokne dragulje starog grada na strani otoka.\n\nU podne posjetite plažu Koširinu, jednu od najljepših uvala na otoku, lako dostupnu automobilom.\n\nVratite se u Tisno kasnog poslijepodneva i uživajte u opuštenoj atmosferi na plaži Jazine."
       },
       "gastro_picks": {
         "de": [
@@ -1634,9 +1660,9 @@
           "The road between Tisno and Murter is very scenic."
         ],
         "hr": [
-          "Obratite pozornost na vrijeme otvaranja mosta kako biste izbjegli čekanje.",
-          "Parkiranje u centru se plaća tijekom ljeta.",
-          "Koristite automobil za izlete do udaljenijih plaža na otoku.",
+          "Obratite pažnju na vrijeme otvaranja mosta kako biste izbjegli čekanje.",
+          "Parking u centru naplaćuje se tijekom ljeta.",
+          "Koristite auto za izlete do udaljenijih plaža na otoku.",
           "Cesta između Tisnog i Murtera vrlo je slikovita."
         ]
       },
@@ -1646,7 +1672,8 @@
             "de": "Starten Sie am Heiligtum auf dem Hügel, um die Stadt Tisno aus der Vogelperspektive zu sehen.\n\nFahren Sie über die Brücke und erkunden Sie die barocken Schätze im alten Ortskern auf der Inselseite.\n\nMittags machen Sie einen Ausflug zum Strand Kosirina, einer der schönsten Buchten der Insel, die ideal mit dem Wagen erreichbar ist.\n\nKehren Sie am späten Nachmittag nach Tisno zurück und genießen Sie die entspannte Atmosphäre am Jazine-Strand.",
             "hu": "Kezdje a dombtetőn lévő szentélynél, hogy madártávlatból láthassa Tisno városát.\n\nHajtson át a hídon, és fedezze fel a barokk kincseket a sziget oldali óvárosban.\n\nDélben tegyen kirándulást a Kosirina-strandra, a sziget egyik legszebb öblébe, amely autóval könnyen megközelíthető.\n\nKéső délután térjen vissza Tisnóba, és élvezze a pihentető hangulatot a Jazine-strandon.",
             "ro": "Începeți la sanctuarul de pe deal pentru a vedea orașul Tisno din perspectiva unei pasări.\n\nMergeți cu mașina peste pod și explorați comorile baroce din centrul vechi de pe partea insulei.\n\nLa prânz faceți o excursie la plaja Kosirina, unul dintre cele mai frumoase golfuri ale insulei, accesibil ușor cu mașina.\n\nReveniți în Tisno după-amiaza târziu și bucurați-vă de atmosfera relaxată de pe plaja Jazine.",
-            "en": "Start at the hilltop sanctuary to see Tisno from a bird's-eye view.\n\nDrive across the bridge and explore the baroque treasures in the old town on the island side.\n\nAt midday, take a trip to Kosirina beach, one of the island's most beautiful bays, easily reached by car.\n\nReturn to Tisno in the late afternoon and enjoy the relaxed atmosphere at Jazine beach."
+            "en": "Start at the hilltop sanctuary to see Tisno from a bird's-eye view.\n\nDrive across the bridge and explore the baroque treasures in the old town on the island side.\n\nAt midday, take a trip to Kosirina beach, one of the island's most beautiful bays, easily reached by car.\n\nReturn to Tisno in the late afternoon and enjoy the relaxed atmosphere at Jazine beach.",
+            "hr": "Krenite od svetišta na uzvisini za pogled na Tisno iz ptičje perspektive.\n\nPređite most automobilom i istražite barokne dragulje starog grada na strani otoka.\n\nU podne posjetite plažu Koširinu, jednu od najljepših uvala na otoku, lako dostupnu automobilom.\n\nVratite se u Tisno kasnog poslijepodneva i uživajte u opuštenoj atmosferi na plaži Jazine."
           },
           "stops": [
             {
@@ -1655,7 +1682,8 @@
                 "de": "Parken Sie unterhalb des Hügels und gehen Sie den Rest zu Fuß.",
                 "hu": "Parkoljon a domb alatt, és a többi részt tegye meg gyalog.",
                 "ro": "Parcați sub deal și parcurgeți restul drumului pe jos.",
-                "en": "Park below the hill and walk the rest of the way."
+                "en": "Park below the hill and walk the rest of the way.",
+                "hr": "Parkirajte ispod brda i ostatak puta prošećite."
               }
             },
             {
@@ -1664,7 +1692,8 @@
                 "de": "Überqueren Sie die Brücke auf die Inselseite.",
                 "hu": "Keljen át a hídon a sziget oldalára.",
                 "ro": "Traversați podul spre partea insulei.",
-                "en": "Cross the bridge to the island side."
+                "en": "Cross the bridge to the island side.",
+                "hr": "Prijeđite most na stranu otoka."
               }
             },
             {
@@ -1673,7 +1702,8 @@
                 "de": "Einer der historischsten Orte auf der Insel Murter.",
                 "hu": "Murter-sziget egyik legtörténelmibb helyszíne.",
                 "ro": "Unul dintre cele mai istorice locuri de pe insula Murter.",
-                "en": "One of the most historical sites on Murter Island."
+                "en": "One of the most historical sites on Murter Island.",
+                "hr": "Jedno od najpovijesnijih mjesta na otoku Murteru."
               }
             },
             {
@@ -1682,7 +1712,8 @@
                 "de": "Hübsche Kirche mit typisch dalmatinischer Architektur.",
                 "hu": "Szép templom tipikus dalmát építészettel.",
                 "ro": "Biserică frumoasă cu arhitectură tipic dalmată.",
-                "en": "Pretty church with typical Dalmatian architecture."
+                "en": "Pretty church with typical Dalmatian architecture.",
+                "hr": "Lijepa crkva s tipičnom dalmatinskom arhitekturom."
               }
             },
             {
@@ -1691,7 +1722,8 @@
                 "de": "Ein spektakulärer Strand in der Nähe, nur per Auto gut erreichbar.",
                 "hu": "Egy látványos közeli strand, csak autóval érhető el jól.",
                 "ro": "O plajă spectaculoasă în apropiere, accesibilă bine doar cu mașina.",
-                "en": "A spectacular nearby beach, best reached by car."
+                "en": "A spectacular nearby beach, best reached by car.",
+                "hr": "Spektakularna obližnja plaža, najbolje dostupna automobilom."
               }
             },
             {
@@ -1700,7 +1732,8 @@
                 "de": "Beenden Sie den Tag auf der Festlandseite.",
                 "hu": "Zárja a napot a szárazföldi oldalon.",
                 "ro": "Încheiați ziua pe partea continentală.",
-                "en": "End the day on the mainland side."
+                "en": "End the day on the mainland side.",
+                "hr": "Završite dan na kopnu."
               }
             }
           ],
@@ -1810,6 +1843,12 @@
               "Parking in the center is paid during summer.",
               "Use the car for trips to the more remote beaches of the island.",
               "The road between Tisno and Murter is very scenic."
+            ],
+            "hr": [
+              "Obratite pažnju na vrijeme otvaranja mosta kako biste izbjegli čekanje.",
+              "Parking u centru naplaćuje se tijekom ljeta.",
+              "Koristite auto za izlete do udaljenijih plaža na otoku.",
+              "Cesta između Tisnog i Murtera vrlo je slikovita."
             ]
           }
         },
@@ -1819,7 +1858,7 @@
             "hu": "Reggel kényelmesen autózunk a Karavaj-szentélyhez a doboló esőben. Ebédidőben szárazon, az autóból nézzük a hídnyitást. Délután meglátogatjuk a palotát és a Szent Rókus-templomot. A napot a viharos Kosirina-parton zárjuk, a hullámokat biztonságosan, az autóból figyelve.",
             "ro": "Dimineața conducem confortabil spre sanctuarul Karavaj în timp ce plouă torențial. La prânz observăm podul stând la uscat în mașină. După-amiaza vizităm palatul și biserica Sf. Roch. Încheiem ziua cu o plimbare spre plaja Kosirina, admirând valurile din siguranța vehiculului.",
             "en": "Morning starts with a comfortable drive to the Karavaj sanctuary while rain pours down. At lunch, we watch the bridge from the dry safety of the car. Afternoon includes visits to the palace and St. Roch's Church. We finish the day at the stormy Kosirina beach, watching the waves from the vehicle.",
-            "hr": "Jutro počinje ugodnom vožnjom do svetišta Karavaj dok kiša lijeva. Za ručak promatramo most iz suhe sigurnosti automobila. Poslijepodne uključuje posjete palači i crkvi sv. Roka. Dan završavamo na olujnoj plaži Kosirina, promatrajući valove iz vozila."
+            "hr": "Jutro započinje ugodnom vožnjom do svetišta Karavaj dok vani lije kiša. U podne promatramo most iz suhog sigurnog automobila. Poslijepodne uključuje posjete palači i crkvi sv. Roka. Dan završavamo na olujnoj plaži Koširina, promatrajući valove iz vozila."
           },
           "stops": [
             {
@@ -1839,7 +1878,7 @@
                 "hu": "A parkolókeresés esőben gyakran egyszerűbb, mint nyáron.",
                 "ro": "Găsirea unui loc de parcare este mai ușoară pe ploaie.",
                 "en": "Finding a parking spot is often easier in the rain than in summer.",
-                "hr": "Pronalaženje parkinga često je lakše po kiši nego ljeti."
+                "hr": "Pronalaženje parkirnog mjesta često je lakše po kiši nego ljeti."
               }
             },
             {
@@ -1849,7 +1888,7 @@
                 "hu": "Használja az autó ablakait a városi kilátáshoz.",
                 "ro": "Folosiți ferestrele mașinii pentru vederi panoramice ale orașului.",
                 "en": "Use the car windows for scenic city views.",
-                "hr": "Koristite prozore automobila za slikovite poglede na grad."
+                "hr": "Koristite prozore automobila za panoramski razgled grada."
               }
             },
             {
@@ -1859,7 +1898,7 @@
                 "hu": "Tervezzen egy rövid sprintet a parkolótól a templomig.",
                 "ro": "Planificați un scurt sprint de la parcare la biserică.",
                 "en": "Plan a short dash from the parking spot to the church.",
-                "hr": "Planirajte kratki trk od parkinga do crkve."
+                "hr": "Isplanirajte kratki sprint od mjesta za parkiranje do crkve."
               }
             },
             {
@@ -1869,7 +1908,7 @@
                 "hu": "A lehajtó út erős esőben sáros lehet.",
                 "ro": "Drumul de acces poate fi noroios în caz de ploaie puternică.",
                 "en": "The access road can be muddy during heavy rain.",
-                "hr": "Pristupna cesta može biti blatna tijekom jake kiše."
+                "hr": "Pristupni put može biti blatan tijekom jake kiše."
               }
             },
             {
@@ -1879,7 +1918,7 @@
                 "hu": "Élvezze a tengeri kilátást működő ablaktörlők mellett.",
                 "ro": "Bucurați-vă de vederea la mare cu ștergătoarele pornite.",
                 "en": "Enjoy the sea view with your windshield wipers on.",
-                "hr": "Uživajte u pogledu na more s uključenim brisačima."
+                "hr": "Uživajte u pogledu na more s brisačima na vjetrobranu uključenima."
               }
             }
           ],
@@ -1909,10 +1948,10 @@
               "Check the condition of your wipers before the trip."
             ],
             "hr": [
-              "Pripazite na velike lokve u udubinama na cesti.",
-              "Koristite klima uređaj kako biste spriječili zamagljivanje stakala.",
+              "Pazite na velike bare u udubljenjima na cesti.",
+              "Koristite klima-uređaj da spriječite zamagljivanje prozora.",
               "Izbjegavajte parkiranje ispod nestabilnih stabala tijekom vjetrovitog vremena.",
-              "Provjerite stanje brisača prije puta."
+              "Provjerite stanje brisača prije putovanja."
             ]
           }
         },
@@ -1922,7 +1961,7 @@
             "hu": "Reggel az autó gyorsan elvisz a tiszta kilátást nyújtó szentélyhez. Ebédidőben a hidat mélykék téli háttér előtt látjuk. Délután a Banovčevih palotát és a Szent Rókust fedezzük fel. A napot panorámaautózással zárjuk Kosirinától Jazinéig a korai naplementében.",
             "ro": "Dimineața mașina ne duce rapid la punctul de observație clar de la sanctuar. La prânz vedem podul pe un fundal albastru intens de iarnă. După-amiaza explorăm palatul Banovčevih și biserica Sf. Roch. Încheiem ziua cu o plimbare panoramică de la Kosirina la Jazine în apusul devreme.",
             "en": "Morning takes us quickly to the clear vantage point at the sanctuary. At lunch, we see the bridge against a deep blue winter backdrop. Afternoon is for exploring the palace and St. Roch's. We end the day with a scenic drive from Kosirina to Jazine as the sun sets early.",
-            "hr": "Jutro nas brzo vodi do čistog vidikovca kod svetišta. Za ručak vidimo most na tamnoplavoj zimskoj pozadini. Poslijepodne je za istraživanje palače i sv. Roka. Dan završavamo slikovitom vožnjom od Kosirine do Jazina dok sunce rano zalazi."
+            "hr": "Jutro nas brzo vodi do čistog vidikovca pokraj svetišta. U podne vidimo most na duboko plavoj zimskoj pozadini. Poslijepodne je za istraživanje palače i sv. Roka. Dan završavamo slikovitom vožnjom od Koširine do Jazina dok se sunce rano spušta."
           },
           "stops": [
             {
@@ -1932,7 +1971,7 @@
                 "hu": "Az autó fűtése meleget ad a fotómegállók között.",
                 "ro": "Căldura din mașină asigură confort între opririle foto.",
                 "en": "Car heating ensures warmth between photo stops.",
-                "hr": "Grijanje u automobilu osigurava toplinu između foto pauza."
+                "hr": "Grijanje u automobilu osigurava toplinu između zaustavljanja za fotografije."
               }
             },
             {
@@ -1942,7 +1981,7 @@
                 "hu": "Parkoláskor nem kell tartani a belső tér túlmelegedésétől.",
                 "ro": "Nu există problema supraîncălzirii habitaclului la parcare.",
                 "en": "No issues with overheated interiors when parking.",
-                "hr": "Nema problema s pregrijanom unutrašnjosti pri parkiranju."
+                "hr": "Nema problema s pregrijanim unutrašnjostima prilikom parkiranja."
               }
             },
             {
@@ -1952,7 +1991,7 @@
                 "hu": "A tiszta levegő kiváló távolsági kilátást tesz lehetővé.",
                 "ro": "Aerul curat oferă o vizibilitate excelentă la distanță.",
                 "en": "The clear air provides excellent long-distance visibility.",
-                "hr": "Čist zrak pruža izvrsnu vidljivost na velike udaljenosti."
+                "hr": "Bistar zrak pruža izvrsnu vidljivost na velike udaljenosti."
               }
             },
             {
@@ -1972,7 +2011,7 @@
                 "hu": "A strand magánya télen lenyűgöző látvány.",
                 "ro": "Singurătatea plajei este impresionantă iarna.",
                 "en": "The solitude of the beach is impressive in winter.",
-                "hr": "Samoća plaže zimi je dojmljiva."
+                "hr": "Samosa plaže je impresivna zimi."
               }
             },
             {
@@ -1982,7 +2021,7 @@
                 "hu": "Kapja el az utolsó napsugarakat 16:15 körül.",
                 "ro": "Surprindeți ultimele raze de soare în jurul orei 16:15.",
                 "en": "Catch the last rays of sun around 4:15 PM.",
-                "hr": "Uhvatite posljednje zrake sunca oko 16:15."
+                "hr": "Uhvati posljednje zrake sunca oko 16:15."
               }
             }
           ],
@@ -2012,9 +2051,9 @@
               "Make use of daylight until 4:30 PM at the latest."
             ],
             "hr": [
-              "Provjerite antifriz u tekućini za pranje stakla.",
-              "Pripazite na poledicu na mostovima rano ujutro.",
-              "Imajte strugač za led pri ruci u slučaju noćnog mraza.",
+              "Provjerite antifriz u tekućini za pranje vjetrobrana.",
+              "Pazite na led na mostovima rano ujutro.",
+              "Držite strugač za led pri ruci u slučaju noćnog mraza.",
               "Iskoristite dnevno svjetlo najkasnije do 16:30."
             ]
           }
@@ -2045,7 +2084,7 @@
             "hu": "Fő megálló a Šibenikből és Zadarból érkező buszoknak.",
             "ro": "Stația principală pentru autobuzele din Šibenik și Zadar.",
             "en": "Main stop for buses from Šibenik and Zadar.",
-            "hr": "Glavna stanica za autobuse iz Šibenika i Zadra."
+            "hr": "Glavno stajalište za autobuse iz Šibenika i Zadra."
           }
         },
         {
@@ -2064,7 +2103,7 @@
             "hu": "Központi találkozóhely, minden sétatávolságra van.",
             "ro": "Punct de întâlnire central, totul este la câțiva pași.",
             "en": "Central meeting point, everything is within walking distance.",
-            "hr": "Središnje mjesto susreta, sve je na pješačkoj udaljenosti."
+            "hr": "Središnje mjesto za sastanke, sve je na pješačkoj udaljenosti."
           }
         },
         {
@@ -2083,7 +2122,7 @@
             "hu": "Történelmi épület közvetlenül a városközpontban.",
             "ro": "Clădire istorică situată chiar în centrul orașului.",
             "en": "Historical building right in the town center.",
-            "hr": "Povijesna zgrada u samom centru grada."
+            "hr": "Povijesna zgrada u samom središtu grada."
           }
         },
         {
@@ -2102,7 +2141,7 @@
             "hu": "Könnyen elérhető egy rövid sétával a kikötőtől.",
             "ro": "Accesibilă ușor printr-o scurtă plimbare de la port.",
             "en": "Easily accessible by a short walk from the port.",
-            "hr": "Lako dostupno kratkom šetnjom iz luke."
+            "hr": "Lako dostupno kratkom šetnjom od luke."
           }
         },
         {
@@ -2121,7 +2160,7 @@
             "hu": "A helyi buszok gyakran megállnak a kemping közelében.",
             "ro": "Autobuzele locale opresc adesea lângă camping.",
             "en": "Local buses often stop near the campsite.",
-            "hr": "Lokalni autobusi često staju u blizini kampa."
+            "hr": "Lokalni autobusi često staju blizu kampa."
           }
         }
       ],
@@ -2130,7 +2169,7 @@
         "hu": "Használja a buszt, hogy stresszmentesen érkezzen Tisno központjába, a hídhoz.\n\nTöltse a délelőttöt a templomok és a főtér felfedezésével, ahol a város élete lüktet.\n\nDélben sétáljon a víz mentén a sziget oldali pompás történelmi villákhoz.\n\nDélután egy rövid séta vagy a helyi közlekedés elviszi a Jazine-strandra, mielőtt hazaindulna.",
         "ro": "Folosiți autobuzul pentru a ajunge fără stres în centrul orașului Tisno, lângă pod.\n\nPetreceți dimineața explorând bisericile și piața principală, unde pulsează viața orașului.\n\nLa prânz plimbați-vă pe malul apei spre vilele istorice splendide de pe partea insulei.\n\nDupă-amiaza, o scurtă plimbare sau transportul local vă duce la plaja Jazine înainte de a pleca spre casă.",
         "en": "Use the bus to arrive stress-free in the center of Tisno by the bridge.\n\nSpend the morning exploring the churches and the main square, where the town's life pulses.\n\nAt midday, stroll along the water to the splendid historical villas on the island side.\n\nIn the afternoon, a short walk or local transit takes you to Jazine beach before you head home.",
-        "hr": "Koristite autobus za dolazak bez stresa u centar Tisnog kod mosta.\n\nProvedite jutro istražujući crkve i glavni trg, gdje pulsira život grada.\n\nU podne prošećite uz vodu do prekrasnih povijesnih vila na otočnoj strani.\n\nPoslijepodne vas kratka šetnja ili lokalni prijevoz vodi do plaže Jazine prije povratka kući."
+        "hr": "Koristite autobus da stignete bez stresa u središte Tisnog pored mosta.\n\nProvedite jutro istražujući crkve i glavni trg, gdje pulsira gradski život.\n\nU podne prošećite uz vodu do sjajnih povijesnih vila na otočnoj strani.\n\nPoslijepodne vas kratka šetnja ili lokalni prijevoz vodi do plaže Jazine prije povratka kući."
       },
       "gastro_picks": {
         "de": [
@@ -2259,10 +2298,10 @@
           "In summer, there are extra water taxis between the coastal towns."
         ],
         "hr": [
-          "Unaprijed provjerite vozni red autobusa za povratak u Šibenik.",
-          "Većina znamenitosti lako je dostupna pješice s terminala.",
-          "Karte se često mogu kupiti izravno kod vozača.",
-          "Ljeti voze dodatni taxi brodovi između obalnih mjesta."
+          "Provjerite vozni red autobusa za povratak u Šibenik unaprijed.",
+          "Većina znamenitosti lako je dostupna pješice iz terminala.",
+          "Karte se često mogu kupiti izravno od vozača autobusa.",
+          "Ljeti ima dodatnih vodenih taksija između obalnih gradova."
         ]
       },
       "variants": {
@@ -2271,7 +2310,8 @@
             "de": "Nutzen Sie den Bus, um stressfrei im Zentrum von Tisno an der Brücke anzukommen.\n\nVerbringen Sie den Vormittag damit, die Kirchen und den Hauptplatz zu erkunden, wo das Leben des Ortes pulsiert.\n\nMittags spazieren Sie entlang des Wassers zu den prächtigen historischen Villen auf der Inselseite.\n\nNachmittags bringt Sie ein kurzer Fußweg oder der lokale Transit zum Strand Jazine, bevor Sie die Heimreise antreten.",
             "hu": "Használja a buszt, hogy stresszmentesen érkezzen Tisno központjába, a hídhoz.\n\nTöltse a délelőttöt a templomok és a főtér felfedezésével, ahol a város élete lüktet.\n\nDélben sétáljon a víz mentén a sziget oldali pompás történelmi villákhoz.\n\nDélután egy rövid séta vagy a helyi közlekedés elviszi a Jazine-strandra, mielőtt hazaindulna.",
             "ro": "Folosiți autobuzul pentru a ajunge fără stres în centrul orașului Tisno, lângă pod.\n\nPetreceți dimineața explorând bisericile și piața principală, unde pulsează viața orașului.\n\nLa prânz plimbați-vă pe malul apei spre vilele istorice splendide de pe partea insulei.\n\nDupă-amiaza, o scurtă plimbare sau transportul local vă duce la plaja Jazine înainte de a pleca spre casă.",
-            "en": "Use the bus to arrive stress-free in the center of Tisno by the bridge.\n\nSpend the morning exploring the churches and the main square, where the town's life pulses.\n\nAt midday, stroll along the water to the splendid historical villas on the island side.\n\nIn the afternoon, a short walk or local transit takes you to Jazine beach before you head home."
+            "en": "Use the bus to arrive stress-free in the center of Tisno by the bridge.\n\nSpend the morning exploring the churches and the main square, where the town's life pulses.\n\nAt midday, stroll along the water to the splendid historical villas on the island side.\n\nIn the afternoon, a short walk or local transit takes you to Jazine beach before you head home.",
+            "hr": "Koristite autobus da stignete bez stresa u središte Tisnog pored mosta.\n\nProvedite jutro istražujući crkve i glavni trg, gdje pulsira gradski život.\n\nU podne prošećite uz vodu do sjajnih povijesnih vila na otočnoj strani.\n\nPoslijepodne vas kratka šetnja ili lokalni prijevoz vodi do plaže Jazine prije povratka kući."
           },
           "stops": [
             {
@@ -2280,7 +2320,8 @@
                 "de": "Haupthaltestelle für Busse aus Šibenik und Zadar.",
                 "hu": "Fő megálló a Šibenikből és Zadarból érkező buszoknak.",
                 "ro": "Stația principală pentru autobuzele din Šibenik și Zadar.",
-                "en": "Main stop for buses from Šibenik and Zadar."
+                "en": "Main stop for buses from Šibenik and Zadar.",
+                "hr": "Glavno stajalište za autobuse iz Šibenika i Zadra."
               }
             },
             {
@@ -2289,7 +2330,8 @@
                 "de": "Zentraler Treffpunkt, alles ist fußläufig erreichbar.",
                 "hu": "Központi találkozóhely, minden sétatávolságra van.",
                 "ro": "Punct de întâlnire central, totul este la câțiva pași.",
-                "en": "Central meeting point, everything is within walking distance."
+                "en": "Central meeting point, everything is within walking distance.",
+                "hr": "Središnje mjesto za sastanke, sve je na pješačkoj udaljenosti."
               }
             },
             {
@@ -2298,7 +2340,8 @@
                 "de": "Historisches Bauwerk direkt im Ortskern.",
                 "hu": "Történelmi épület közvetlenül a városközpontban.",
                 "ro": "Clădire istorică situată chiar în centrul orașului.",
-                "en": "Historical building right in the town center."
+                "en": "Historical building right in the town center.",
+                "hr": "Povijesna zgrada u samom središtu grada."
               }
             },
             {
@@ -2307,7 +2350,8 @@
                 "de": "Einfach per kurzem Spaziergang vom Hafen erreichbar.",
                 "hu": "Könnyen elérhető egy rövid sétával a kikötőtől.",
                 "ro": "Accesibilă ușor printr-o scurtă plimbare de la port.",
-                "en": "Easily accessible by a short walk from the port."
+                "en": "Easily accessible by a short walk from the port.",
+                "hr": "Lako dostupno kratkom šetnjom od luke."
               }
             },
             {
@@ -2316,7 +2360,8 @@
                 "de": "Lokale Busse halten oft in der Nähe des Campingplatzes.",
                 "hu": "A helyi buszok gyakran megállnak a kemping közelében.",
                 "ro": "Autobuzele locale opresc adesea lângă camping.",
-                "en": "Local buses often stop near the campsite."
+                "en": "Local buses often stop near the campsite.",
+                "hr": "Lokalni autobusi često staju blizu kampa."
               }
             }
           ],
@@ -2426,6 +2471,12 @@
               "Most sights are easily reachable on foot from the terminal.",
               "Tickets can often be bought directly from the bus driver.",
               "In summer, there are extra water taxis between the coastal towns."
+            ],
+            "hr": [
+              "Provjerite vozni red autobusa za povratak u Šibenik unaprijed.",
+              "Većina znamenitosti lako je dostupna pješice iz terminala.",
+              "Karte se često mogu kupiti izravno od vozača autobusa.",
+              "Ljeti ima dodatnih vodenih taksija između obalnih gradova."
             ]
           }
         },
@@ -2435,7 +2486,7 @@
             "hu": "Reggel busszal megyünk a felvonóhídhoz, a váróban szárazon maradva. Ebédidőben a Testvériségek terét és a Szentlélek-templomot járjuk be. Délután a Villa Katina nyújt menedéket. A túrát a Jazine-parton zárjuk, kihasználva a fedett buszmegállót a visszautazáshoz.",
             "ro": "Dimineața luăm autobuzul spre podul mobil și rămânem la uscat sub copertină. La prânz explorăm Piața Tisno și Biserica Sfântului Duh. După-amiaza, Vila Katina oferă adăpost. Încheiem turul la plaja Jazine, folosind stația acoperită pentru drumul de întoarcere.",
             "en": "Morning starts with a bus to the drawbridge, staying dry under the shelter. At lunch, we explore the Brotherhoods Square and the Church of the Holy Spirit. Afternoon provides refuge at Villa Katina. We finish the tour at Jazine beach, using the covered bus stop for the return trip.",
-            "hr": "Jutro počinje autobusom do pokretnog mosta, ostajući suhi pod nadstrešnicom. Za ručak istražujemo Trg bratstva i crkvu Svetog Duha. Poslijepodne pruža utočište u vili Katina. Turu završavamo na plaži Jazine, koristeći natkritu stanicu za povratak."
+            "hr": "Jutro počinje autobusom do mosta na izvlačenje, ostajući suhi pod natkrivenjem. U podne istražujemo Trg bratstva i Crkvu Svetog Duha. Poslijepodne pruža utočište Villa Katina. Tur završavamo na plaži Jazine, koristeći natkriveno stajalište za povratak."
           },
           "stops": [
             {
@@ -2445,7 +2496,7 @@
                 "hu": "Várjon a buszváróban, amíg alábbhagy az eső.",
                 "ro": "Așteptați în stația de autobuz până se potolește ploaia.",
                 "en": "Wait in the bus shelter until the rain lets up.",
-                "hr": "Čekajte pod nadstrešnicom dok kiša ne popusti."
+                "hr": "Pričekajte u autobusnom skloništu dok kiša ne prestane."
               }
             },
             {
@@ -2455,7 +2506,7 @@
                 "hu": "A buszmegálló központi helyen van sok kávézóhoz képest.",
                 "ro": "Stația de autobuz este situată central față de cafenele.",
                 "en": "The bus stop is centrally located near many cafes.",
-                "hr": "Autobusna stanica je centralno smještena u blizini mnogih kafića."
+                "hr": "Autobusno stajalište smješteno je u centru blizu mnogih kafića."
               }
             },
             {
@@ -2465,7 +2516,7 @@
                 "hu": "Rövid gyalogút a megállótól a templomig.",
                 "ro": "Drum scurt pe jos de la stație până la biserică.",
                 "en": "Short walk from the stop to the church.",
-                "hr": "Kratka šetnja od stanice do crkve."
+                "hr": "Kratka šetnja od stajališta do crkve."
               }
             },
             {
@@ -2475,7 +2526,7 @@
                 "hu": "Tájékozódjon az eső miatti esetleges buszkésésekről.",
                 "ro": "Informați-vă despre posibilele întârzieri cauzate de ploaie.",
                 "en": "Check for potential bus delays due to the weather.",
-                "hr": "Provjerite moguća kašnjenja autobusa zbog vremena."
+                "hr": "Provjerite moguće kašnjenje autobusa zbog vremena."
               }
             },
             {
@@ -2485,7 +2536,7 @@
                 "hu": "A busz száraz visszautat biztosít a szálláshoz.",
                 "ro": "Locurile din autobuz oferă un drum uscat spre hotel.",
                 "en": "Bus seats provide a dry return trip to your accommodation.",
-                "hr": "Sjedala u autobusu osiguravaju suh povratak do vašeg smještaja."
+                "hr": "Sjedišta u autobusu osiguravaju suhi povratak do smještaja."
               }
             }
           ],
@@ -2515,9 +2566,9 @@
               "Wear clothing that dries quickly while on the bus."
             ],
             "hr": [
-              "Pripremite sitan novac za autobusnu kartu.",
+              "Imajte sitan novac spreman za kartu za autobus.",
               "Učestalost autobusa može varirati tijekom lošeg vremena.",
-              "Koristite mobilne aplikacije za informacije o voznom redu u stvarnom vremenu.",
+              "Koristite mobilne aplikacije za informacije o rasporedu u stvarnom vremenu.",
               "Nosite odjeću koja se brzo suši dok ste u autobusu."
             ]
           }
@@ -2528,7 +2579,7 @@
             "hu": "Reggel az első busszal megyünk a téli hangulatú felvonóhídhoz. Ebédidőben a hűvös levegőben járjuk be a Testvériségek terét. Délután a templomot és a Villa Katinát látogatjuk meg. A kirándulást a csendes Jazine-parton zárjuk, és busszal térünk vissza 17:00 óra, a sötétedés előtt.",
             "ro": "Dimineața luăm primul autobuz spre podul mobil iernatic. La prânz explorăm Piața Tisno în aerul rece de iarnă. După-amiaza vizităm biserica și Vila Katina. Încheiem excursia pe plaja liniștită Jazine și ne întoarcem cu autobuzul înainte de lăsarea întunericului, la ora 17:00.",
             "en": "Morning involves taking the first bus to the wintry drawbridge. At lunch, we explore the Brotherhoods Square in the cool winter air. Afternoon is for visiting the church and Villa Katina. We end the trip at the quiet Jazine beach and return by bus before it gets dark at 5:00 PM.",
-            "hr": "Jutro uključuje odlazak prvim autobusom do zimskog pokretnog mosta. Za ručak istražujemo Trg bratstva na hladnom zimskom zraku. Poslijepodne je za posjet crkvi i vili Katina. Izlet završavamo na tihoj plaži Jazine i vraćamo se autobusom prije mraka u 17:00."
+            "hr": "Jutro uključuje prvi autobus do zimski hladnog mosta na izvlačenje. U podne istražujemo Trg bratstva na svježem zimskom zraku. Poslijepodne je za posjet crkvi i Villi Katina. Put završavamo na mirnoj plaži Jazine i vraćamo se autobusom prije mraka u 17:00."
           },
           "stops": [
             {
@@ -2538,7 +2589,7 @@
                 "hu": "A buszok télen gyakran kevésbé zsúfoltak.",
                 "ro": "Autobuzele sunt adesea mai puțin aglomerate iarna.",
                 "en": "Buses are often less crowded during the winter season.",
-                "hr": "Autobusi su često manje popunjeni tijekom zimske sezone."
+                "hr": "Autobusi su često rjeđe popunjeni tijekom zimske sezone."
               }
             },
             {
@@ -2548,7 +2599,7 @@
                 "hu": "Télen gyakran korlátozott menetrend van érvényben.",
                 "ro": "Iarna este adesea în vigoare un program redus.",
                 "en": "A reduced winter schedule is often in effect.",
-                "hr": "Često je na snazi reducirani zimski vozni red."
+                "hr": "Često vrijedi smanjeni zimski vozni red."
               }
             },
             {
@@ -2558,7 +2609,7 @@
                 "hu": "A megállók gyakran szélvédett sarkok közelében találhatók.",
                 "ro": "Stațiile sunt adesea situate lângă colțuri ferite de vânt.",
                 "en": "Stops are often located near sheltered corners.",
-                "hr": "Stanice su često smještene blizu zaklonjenih kutova."
+                "hr": "Stajališta su često smještena blizu zaklonjenih kutova."
               }
             },
             {
@@ -2568,7 +2619,7 @@
                 "hu": "Tervezze úgy a látogatást, hogy sötétedés előtt elérje a buszt.",
                 "ro": "Planificați vizita astfel încât să luați autobuzul înainte de lăsarea serii.",
                 "en": "Plan your visit to catch the bus before nightfall.",
-                "hr": "Planirajte posjet tako da uhvatite autobus prije mraka."
+                "hr": "Planirajte posjet kako biste uhvatili autobus prije zalaska sunca."
               }
             },
             {
@@ -2578,7 +2629,7 @@
                 "hu": "Ellenőrizze az utolsó buszjáratot késő délután.",
                 "ro": "Verificați ultima cursă de autobuz de la sfârșitul după-amiezii.",
                 "en": "Check the last bus connection in the late afternoon.",
-                "hr": "Provjerite zadnju autobusnu liniju kasno poslijepodne."
+                "hr": "Provjerite posljednje autobusno povezivanje kasno poslijepodne."
               }
             }
           ],
@@ -2608,10 +2659,10 @@
               "The last return trip is often earlier in winter than in summer."
             ],
             "hr": [
-              "Zimski vozni redovi značajno se razlikuju od ljetnih.",
-              "Nosite toplu odjeću za vrijeme čekanja na stanici.",
-              "Koristite grijane autobuse za zagrijavanje između postaja.",
-              "Posljednji povratak zimi je često ranije nego ljeti."
+              "Zimski rasporedi značajno se razlikuju od ljetnih.",
+              "Nosite toplu odjeću za vrijeme čekanja na autobusnom stajalištu.",
+              "Koristite grijane autobuse da se ugrijete između stajanja.",
+              "Posljednje putovanje za povratak često je ranije zimi nego ljeti."
             ]
           }
         }
@@ -2639,19 +2690,22 @@
       "de": "Kroatisch ist Amtssprache; Englisch und Italienisch entlang der Küste verbreitet, Deutsch in der Hochsaison oft verstanden. 'Hvala' = danke, 'Molim' = bitte.",
       "hu": "A horvát a hivatalos nyelv; a tengerparton az angol és olasz általános, főszezonban a német is gyakori. 'Hvala' = köszönöm, 'Dobar dan' = jó napot.",
       "ro": "Croata este limba oficială; engleza și italiana sunt frecvente pe coastă, germana în sezon. 'Hvala' = mulțumesc, 'Dobar dan' = bună ziua.",
-      "en": "Croatian is official; English and Italian widely spoken on the coast, German common in peak season. 'Hvala' = thanks, 'Dobar dan' = good day."
+      "en": "Croatian is official; English and Italian widely spoken on the coast, German common in peak season. 'Hvala' = thanks, 'Dobar dan' = good day.",
+      "hr": "Hrvatski je službeni; engleski i talijanski široko se govore na obali, njemački je uobičajen u vrhuncu sezone. 'Hvala' = thanks, 'Dobar dan' = good day."
     },
     "best_time_to_visit": {
       "de": "Juni bis Anfang September für Festivals (Garden Festival, Love International, Defected); Mai und späte September für ruhigere Strände und milderes Wetter.",
       "hu": "Június és szeptember eleje a fesztiválok ideje (Garden, Love International, Defected); májusban és szeptember végén nyugodtabb strandok, enyhébb idő.",
       "ro": "Iunie - început de septembrie pentru festivaluri (Garden, Love International, Defected); mai și sfârșitul lui septembrie pentru plaje liniștite.",
-      "en": "June to early September for festivals (Garden, Love International, Defected); May and late September for quieter beaches and milder weather."
+      "en": "June to early September for festivals (Garden, Love International, Defected); May and late September for quieter beaches and milder weather.",
+      "hr": "Od lipnja do početka rujna za festivale (Garden, Love International, Defected); svibanj i kraj rujna za mirnije plaže i umjerenije vrijeme."
     },
     "neighborhood_warnings": {
       "de": "Während der Festivalwochen sind Unterkünfte teuer und laut bis spät; die schmale Brücke nach Murter staut sich, Parken in Ortsmitte schwierig.",
       "hu": "Fesztiválhetekben drága és hangos a szállás késő éjjelig; a Murter-szigetre vezető keskeny híd dugós, a központban nehéz a parkolás.",
       "ro": "În săptămânile cu festivaluri cazarea e scumpă și zgomotoasă până târziu; podul îngust spre insula Murter se aglomerează, parcare dificilă în centru.",
-      "en": "During festival weeks lodging is expensive and noisy late into the night; the narrow bridge to Murter island gets congested, parking tight in centre."
+      "en": "During festival weeks lodging is expensive and noisy late into the night; the narrow bridge to Murter island gets congested, parking tight in centre.",
+      "hr": "Tijekom tjedana festivala smještaj je skup i bučan do kasno u noć; uski most prema otoku Murteru postaje zagušen, parkiranje u centru otežano."
     }
   }
 }

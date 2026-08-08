@@ -21,7 +21,8 @@
             "de": "Amphitheater (Arena)",
             "hu": "Amfiteátrum (Aréna)",
             "ro": "Amfiteatrul (Arena)",
-            "en": "Amphitheater (Arena)"
+            "en": "Amphitheater (Arena)",
+            "hr": "Amfiteatar (Arena)"
           },
           "coords": [
             13.8496,
@@ -45,7 +46,8 @@
             "de": "Augustustempel & Forum",
             "hu": "Augustus-templom és Fórum",
             "ro": "Templul lui Augustus și Forumul",
-            "en": "Temple of Augustus & Forum"
+            "en": "Temple of Augustus & Forum",
+            "hr": "Hram Augusta i Forum"
           },
           "coords": [
             13.842,
@@ -61,7 +63,7 @@
             "hu": "A város ókori központja.",
             "ro": "Centrul antic al orașului.",
             "en": "The ancient center of the city.",
-            "hr": "Antičko središte grada."
+            "hr": "Antički centar grada."
           }
         },
         {
@@ -69,7 +71,8 @@
             "de": "Sergierbogen (Goldenes Tor)",
             "hu": "Sergius-diadalív",
             "ro": "Arcul Sergiilor",
-            "en": "Arch of the Sergii"
+            "en": "Arch of the Sergii",
+            "hr": "Vrata Sergijevaca (Arculi)"
           },
           "coords": [
             13.8475,
@@ -93,7 +96,8 @@
             "de": "Markthalle Pula",
             "hu": "Pulai vásárcsarnok",
             "ro": "Piața Centrală Pula",
-            "en": "Pula Market Hall"
+            "en": "Pula Market Hall",
+            "hr": "Pulska tržnica"
           },
           "coords": [
             13.851,
@@ -109,7 +113,7 @@
             "hu": "Szecessziós építészet és halpiac.",
             "ro": "Arhitectură Art Nouveau și piață de pește.",
             "en": "Art Nouveau architecture and fish market.",
-            "hr": "Secesijska arhitektura i ribarnica."
+            "hr": "Art nouveau arhitektura i riblja tržnica."
           }
         },
         {
@@ -117,7 +121,8 @@
             "de": "Mittagessen in der Altstadt",
             "hu": "Ebéd az óvárosban",
             "ro": "Prânz în centrul vechi",
-            "en": "Lunch in the Old Town"
+            "en": "Lunch in the Old Town",
+            "hr": "Ručak u Starom gradu"
           },
           "coords": [
             13.845,
@@ -133,7 +138,7 @@
             "hu": "Kóstolja meg az isztriai szarvasgombát.",
             "ro": "Încercați trufele istriene.",
             "en": "Try some Istrian truffles.",
-            "hr": "Probajte istarske tartufe."
+            "hr": "Probajte neke istarske tartufe."
           }
         },
         {
@@ -141,7 +146,8 @@
             "de": "Kastell (Festung)",
             "hu": "Kastély (erőd)",
             "ro": "Cetatea (Kastel)",
-            "en": "Kastel (Fortress)"
+            "en": "Kastel (Fortress)",
+            "hr": "Kaštel (Tvrđava)"
           },
           "coords": [
             13.8465,
@@ -165,7 +171,8 @@
             "de": "Zerostrasse Tunnelsystem",
             "hu": "Zerostrasse alagútrendszer",
             "ro": "Sistemul de tuneluri Zerostrasse",
-            "en": "Zerostrasse Tunnel System"
+            "en": "Zerostrasse Tunnel System",
+            "hr": "Tunelski sustav Zerostrasse"
           },
           "coords": [
             13.848,
@@ -190,7 +197,7 @@
         "hu": "Pula a római kor nyitott történelemkönyve. Kezdje a napot a monumentális amfiteátrumban, majd sétáljon el az ókori fórumhoz az Augustus-templommal. A Sergius-diadalívnél tett rövid megálló után merüljön el a szecessziós vásárcsarnok forgatagában. A délután isztriai gasztronómiát, az erődbe való feljutást a legjobb kilátásért, és a Zerostrasse földalatti alagútrendszer rejtélyes bejárását kínálja.",
         "ro": "Pula este o carte de istorie deschisă a epocii romane. Începeți ziua la monumentul Amfiteatru și apoi plimbați-vă spre Forumul antic cu Templul lui Augustus. După o scurtă oprire la Arcul Sergiilor, cufundați-vă în agitația pieței centrale Art Nouveau. După-amiaza oferă delicii culinare istriene, o urcare la cetate pentru cea mai bună panoramă și un tur misterios prin sistemul de tuneluri subterane Zerostrasse.",
         "en": "Pula is an open history book of the Roman era. Start your day at the monumental Amphitheater and then walk to the ancient Forum with the Temple of Augustus. After a quick stop at the Arch of the Sergii, immerse yourself in the bustle of the Art Nouveau market hall. The afternoon offers Istrian culinary delights, a climb to the fortress for the best overview, and a mysterious tour through the underground Zerostrasse tunnel system.",
-        "hr": "Pula je otvorena povijesna knjiga rimskog doba. Započnite dan kod monumentalnog Amfiteatra, a zatim prošetajte do antičkog Foruma s Augustovim hramom. Nakon kratkog zaustavljanja kod Slavoluka Sergijevaca, uronite u vrevu tržnice u stilu secesije. Poslijepodne nudi istarske kulinarske užitke, uspon do utvrde za najbolji pregled i tajanstvenu turu kroz sustav podzemnih tunela Zerostrasse."
+        "hr": "Pula je otvorena povijesna knjiga rimskog doba. Započnite dan u monumentalnom Amfiteatru, a zatim prošetajte do antičkog Foruma s Hramom Augusta. Nakon kratkog zadržavanja kod Porta Sergiija, uronite u žamor art nouveau tržnice. Poslijepodne nudi istarska kulinarska uživanja, uspon do tvrđave za najbolji pregled i tajanstvenu šetnju kroz podzemni tunelski sustav Zerostrasse."
       },
       "gastro_picks": {
         "de": [
@@ -377,7 +384,7 @@
         ],
         "hr": [
           "Arena je prekrasno osvijetljena noću.",
-          "Kupite proizvode od tartufa u hermetički zatvorenim staklenkama."
+          "Kupujte proizvode od tartufa u zatvorenim staklenkama."
         ]
       },
       "variants": {
@@ -387,7 +394,7 @@
             "hu": "Reggel az Aréna föld alatti kiállításai nyújtanak menedéket az eső elől. Délben az Isztriai Régészeti Múzeum belső tereiben kalandozunk. Délután a Fórum árkádjai alatt kávézunk, figyelve az eső áztatta ókori köveket. A napot a Kastel várfalai között zárjuk, ahol a Történeti Múzeum beltéri tárlatai és a tengeri vihar látványa vár minket.",
             "ro": "Dimineața, galeriile subterane ale Arenei oferă adăpost împotriva ploii. La prânz, explorăm Muzeul de Arheologie, un refugiu cultural perfect. După-amiaza ne relaxăm la o cafenea în Forum, privind ploaia pe templele antice. Încheiem ziua în interiorul fortăreței Kastel, unde expozițiile muzeului istoric ne țin la adăpost în timp ce admirăm marea agitată.",
             "en": "Morning finds us in the Arena's underground passages, safe from the rain. At noon, the Archaeological Museum provides a dry cultural escape. In the afternoon, we retreat to the cafes of the Forum to watch the rain on the ancient stones. We end the day inside the Kastel fortress, exploring the indoor museum exhibits while staying warm and dry.",
-            "hr": "Jutro nas zatiče u podzemnim prolazima Arene, sigurnima od kiše. U podne, Arheološki muzej pruža suhi kulturni bijeg. Poslijepodne se povlačimo u kafiće na Forumu kako bismo promatrali kišu na antičkom kamenju. Dan završavamo unutar utvrde Kaštel, istražujući muzejske izloške u zatvorenom prostoru dok nam je toplo i suho."
+            "hr": "Jutro nas zatiče u podzemnim prolazima Arene, sigurnima od kiše. U podne, Arheološki muzej pruža suhi kulturni bijeg. Poslijepodne se povlačimo u kafiće Foruma da promatramo kišu na antičkim kamenim pločama. Dan završavamo unutar Kaštela, istražujući unutarnje muzejske postave i ostajući topli i suhi."
           },
           "stops": [
             {
@@ -397,7 +404,7 @@
                 "hu": "Látogass el a föld alatti olívaolaj-kiállításra, ott garantáltan nem ázol meg.",
                 "ro": "Vizitează expoziția subterană despre producția de ulei de măsline pentru a rămâne uscat.",
                 "en": "Visit the underground exhibition on olive oil production to stay dry and sheltered.",
-                "hr": "Posjetite podzemnu izložbu o proizvodnji maslinovog ulja kako biste ostali suhi i zaštićeni."
+                "hr": "Posjetite podzemnu izložbu o proizvodnji maslinovog ulja da ostanete suhi i zaštićeni."
               }
             },
             {
@@ -417,7 +424,7 @@
                 "hu": "Tökéletes helyszín egy nagyobb zápor átvészelésére az antik művészetek társaságában.",
                 "ro": "Locul perfect pentru a aștepta trecerea unei ploi torențiale printre artefacte antice.",
                 "en": "The perfect place to wait out a heavy downpour surrounded by ancient art.",
-                "hr": "Savršeno mjesto za čekanje da prođe jaki pljusak, okruženi antičkom umjetnošću."
+                "hr": "Savršeno mjesto za pričekati jaku pljusku okruženi starom umjetnošću."
               }
             },
             {
@@ -427,7 +434,7 @@
                 "hu": "Rövid megálló; ügyelj a tócsákra az óváros szűk, lejtős utcáin.",
                 "ro": "Oprire scurtă; atenție la bălți pe străzile înguste ale orașului vechi.",
                 "en": "Short stop; watch out for puddles in the narrow streets of the old town.",
-                "hr": "Kratko zaustavljanje; pripazite na lokve u uskim ulicama starog grada."
+                "hr": "Kratko zadržavanje; pazite na lokve u uskim ulicama starog grada."
               }
             },
             {
@@ -437,7 +444,7 @@
                 "hu": "A közeli üzletek és árkádok jó lehetőséget kínálnak egy kis fedezékre.",
                 "ro": "Magazinele din apropiere oferă opțiuni bune pentru a te adăposti scurt timp.",
                 "en": "Nearby shops and arcades offer good options for a quick temporary shelter.",
-                "hr": "Obližnje trgovine i arkade nude dobre opcije za brzo privremeno sklonište."
+                "hr": "Obližnje trgovine i arkade nude dobar privremeni zaklon."
               }
             },
             {
@@ -447,7 +454,7 @@
                 "hu": "Igyál meg egy kávét az árkádok alatt, élvezve a vizes templom látványát.",
                 "ro": "Savurează o cafea sub arcade, admirând templul sub ploaie.",
                 "en": "Enjoy a coffee under the arcades with a view of the rain-drenched temple.",
-                "hr": "Uživajte u kavi ispod arkada s pogledom na hram okupan kišom."
+                "hr": "Uživajte u kavi pod arkadama s pogledom na kišom okupani hram."
               }
             },
             {
@@ -457,7 +464,7 @@
                 "hu": "Használd ki a Történeti Múzeum belső tereit, hogy szárazon fejezd be a napot.",
                 "ro": "Folosește interiorul Muzeului de Istorie pentru a încheia ziua la adăpost.",
                 "en": "Utilize the indoor areas of the Historical Museum to end the day dry.",
-                "hr": "Iskoristite unutarnje prostore Povijesnog muzeja kako biste dan završili suhi."
+                "hr": "Iskoristite unutarnje prostore Povijesnog muzeja da završite dan suhi."
               }
             }
           ],
@@ -487,10 +494,10 @@
               "Pula's museums are great shelters; check their schedules before heading out."
             ],
             "hr": [
-              "Nosite vodootpornu obuću jer antički kameni pločnik postaje vrlo sklizak.",
-              "Forum nudi najveću gustoću kafića s natkrivenim vanjskim sjedalima.",
-              "Podrum Arene potpuno je otporan na kišu i u njemu se nalazi sjajna izložba.",
-              "Pulski muzeji su izvrsna skloništa; provjerite njihovo radno vrijeme prije polaska."
+              "Nosite vodootpornu obuću jer antičko kameno popločanje postaje vrlo sklisko.",
+              "Forum nudi najveću koncentraciju kafića s natkrivenim vanjskim sjedalima.",
+              "Podrum Arene je potpuno otporan na kišu i sadrži odličnu izložbu.",
+              "Pulski muzeji su izvrsni zakloni; prije polaska provjerite njihove rasporede."
             ]
           }
         },
@@ -500,7 +507,7 @@
             "hu": "A téli reggel az Arénánál csendes, tömegek nélkül élvezhetjük a látványt. Délben az óváros múzeumaiban melegszünk fel, ha fúj a bóra szél. Délután a Fórumon élvezzük az alacsonyan járó nap sugarait egy forró ital mellett. A korai naplementére felkapaszkodunk a Kastelba, hogy lássuk az Adria feletti aranyló fényeket.",
             "ro": "Dimineața de iarnă la Arenă este liniștită, fără mulțimi de turiști. La prânz, ne încălzim în muzeele din orașul vechi dacă bate vântul Bora. După-amiaza, ne bucurăm de soarele blând în Forum cu o băutură caldă. Pentru apusul timpuriu, urcăm la fortăreața Kastel pentru a vedea lumina aurie peste Adriatica.",
             "en": "A winter morning at the Arena is peaceful, free from summer crowds. At noon, we warm up in the old town museums if the Bora wind picks up. In the afternoon, we enjoy the low sun at the Forum with a hot drink. For the early sunset, we climb to the Kastel fortress to witness the golden light over the Adriatic Sea.",
-            "hr": "Zimsko jutro u Areni je mirno, bez ljetnih gužvi. U podne se grijemo u muzejima starog grada ako zapuše bura. Poslijepodne uživamo u niskom suncu na Forumu uz topli napitak. Za rani zalazak sunca penjemo se na utvrdu Kaštel kako bismo svjedočili zlatnoj svjetlosti nad Jadranskim morem."
+            "hr": "Zimsko jutro u Areni je mirno, bez ljetnih gužvi. U podne se grijemo u muzejima starog grada ako zapuše bura. Poslijepodne uživamo u niskom suncu na Forumu uz topao napitak. Zbog ranog zalaska sunca, penjemo se do Kaštela da svjedočimo zlatnom svjetlu nad Jadranom."
           },
           "stops": [
             {
@@ -510,7 +517,7 @@
                 "hu": "Öltözz rétegesen, mert a szél átfúj a nyitott boltívek között.",
                 "ro": "Îmbracă-te gros, deoarece vântul suflă prin arcadele deschise.",
                 "en": "Dress warmly as the wind blows through the open arches of the structure.",
-                "hr": "Obucite se toplo jer vjetar puše kroz otvorene lukove građevine."
+                "hr": "Obucite se toplo jer vjetar prolazi kroz otvorene svodove građevine."
               }
             },
             {
@@ -530,7 +537,7 @@
                 "hu": "Jól fűtött helyszín, ahol egy időre elfelejtheted a kinti hideget.",
                 "ro": "Un loc bine încălzit unde poți uita de frig pentru o perioadă.",
                 "en": "A well-heated indoor space to escape the cold for a while.",
-                "hr": "Dobro zagrijan zatvoreni prostor za kratki bijeg od hladnoće."
+                "hr": "Dobar grijani prostor za bijeg od hladnoće na kratko."
               }
             },
             {
@@ -540,7 +547,7 @@
                 "hu": "Rövid megálló; az árnyékos részeken a kövek jegesek lehetnek.",
                 "ro": "Oprire scurtă; pietrele pot fi reci sau înghețate în zonele cu umbră.",
                 "en": "Short stop; stones can be very cold or frosty in shaded areas.",
-                "hr": "Kratko zaustavljanje; kamenje može biti vrlo hladno ili zaleđeno u sjenovitim područjima."
+                "hr": "Kratko zadržavanje; kamenje može biti vrlo hladno ili poledilo u sjenovitim dijelovima."
               }
             },
             {
@@ -550,7 +557,7 @@
                 "hu": "Látogass el a közeli kávézókba egy forró csokoládéra.",
                 "ro": "Vizitează cafenelele din apropiere pentru o ciocolată caldă.",
                 "en": "Visit the nearby cafes for a hot chocolate to keep your energy up.",
-                "hr": "Posjetite obližnje kafiće na toplu čokoladu kako biste održali energiju."
+                "hr": "Posjetite obližnje kafiće po vruću čokoladu da održite energiju."
               }
             },
             {
@@ -560,7 +567,7 @@
                 "hu": "Keress egy napos helyet a téren, hogy kiélvezd a gyenge meleget.",
                 "ro": "Caută un loc însorit în piață pentru a maximiza căldura.",
                 "en": "Find a sunny spot in the square to maximize the winter warmth.",
-                "hr": "Pronađite sunčano mjesto na trgu kako biste maksimalno iskoristili zimsku toplinu."
+                "hr": "Pronađite sunčano mjesto na trgu da maksimalno iskoristite zimsku toplinu."
               }
             },
             {
@@ -570,7 +577,7 @@
                 "hu": "Érkezz meg 16:30 előtt, hogy ne maradj le a naplementéről.",
                 "ro": "Ajungi înainte de ora 16:30 pentru a nu rata apusul de soare.",
                 "en": "Arrive before 4:30 PM so you don't miss the early winter sunset.",
-                "hr": "Dođite prije 16:30 kako ne biste propustili rani zimski zalazak sunca."
+                "hr": "Stignite prije 16:30 da ne propustite rani zimski zalazak sunca."
               }
             }
           ],
@@ -600,10 +607,10 @@
               "Use the midday hours for outdoor sightseeing when it's warmest."
             ],
             "hr": [
-              "Zalazak sunca zimi je oko 16:30, pa planirajte svoje dnevne aktivnosti.",
-              "Bura može značajno sniziti osjet temperature.",
-              "Mnoge male suvenirnice imaju ograničeno radno vrijeme zimi.",
-              "Iskoristite podnevne sate za razgledavanje na otvorenom kada je najtoplije."
+              "Zalazak sunca zimi je oko 16:30, pa isplanirajte dnevne aktivnosti prema tomu.",
+              "Bura može znatno sniziti osjet temperaturu.",
+              "Mnogi mali suvenirnici imaju ograničeno radno vrijeme zimi.",
+              "Iskoristite poslijepodnevne sate za razgledavanje na otvorenom kada je najtoplije."
             ]
           }
         }

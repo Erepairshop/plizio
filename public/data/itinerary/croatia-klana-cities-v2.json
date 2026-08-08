@@ -32,7 +32,7 @@
             "hu": "Kóstolja meg a helyi péksüteményeket a kis pékségben.",
             "ro": "Încercați produsele de patiserie locale de la mica brutărie.",
             "en": "Try the local pastries at the small bakery.",
-            "hr": "Probajte domaća peciva u maloj pekari."
+            "hr": "Isprobajte lokalne kolače u maloj pekari."
           }
         },
         {
@@ -89,7 +89,7 @@
             "hu": "Rendeljen jotát, a környék hagyományos egytálételét.",
             "ro": "Comandați jota, o tocană tradițională din regiune.",
             "en": "Order jota, a traditional stew of the region.",
-            "hr": "Naručite jotu, tradicionalno varivo ove regije."
+            "hr": "Naručite jotu, tradicionalnu čorbu ovog kraja."
           }
         },
         {
@@ -108,7 +108,7 @@
             "hu": "Kövesse a római katonai múltról szóló információs táblákat.",
             "ro": "Urmați panourile informative despre istoria militară romană.",
             "en": "Follow the information boards about Roman military history.",
-            "hr": "Pratite informativne ploče o rimskoj vojnoj povijesti."
+            "hr": "Slijedite informativne ploče o rimskoj vojnoj povijesti."
           }
         },
         {
@@ -127,7 +127,7 @@
             "hu": "Nézze meg az antik védőfal maradványait.",
             "ro": "Vedeți resturile vechiului zid de apărare.",
             "en": "See the remains of the ancient defensive wall.",
-            "hr": "Pogledajte ostatke antičkog obrambenog zida."
+            "hr": "Pogledajte ostatke drevnog obrambenog zida."
           }
         },
         {
@@ -146,7 +146,7 @@
             "hu": "Élvezze a friss erdei levegőt távozás előtt.",
             "ro": "Bucurați-vă de aerul curat de pădure înainte de plecare.",
             "en": "Enjoy the fresh forest air before departure.",
-            "hr": "Uživajte u svježem šumskom zraku prije odlaska."
+            "hr": "Uživajte u svježem šumskom zraku prije polaska."
           }
         }
       ],
@@ -155,7 +155,7 @@
         "hu": "Kezdje a napot Klana központjában egy erős kávéval, majd látogasson el a barokk Szent Jeromos templomba. Egy rövid séta felvezet a Gradina romjaihoz, ahol a középkori várfalak vigyázzák a települést. A kiadós ebéd után merüljön el az ókori történelemben: járja végig a római legionáriusok tanösvényét egészen a Liburniai limes lenyűgöző erdei falmaradványaiig.",
         "ro": "Începeți ziua în centrul localității Klana cu o cafea tare, apoi vizitați biserica barocă Sf. Ieronim. O scurtă plimbare vă duce sus la Gradina, unde ruinele cetății medievale veghează asupra satului. După un prânz copios, scufundați-vă în istoria antică: parcurgeți traseul educațional al legionarilor romani până la impresionantele resturi ale Limesului Liburnic ascunse în pădure.",
         "en": "Start your day in the center of Klana with a strong coffee before visiting the Baroque Church of St. Jerome. A short walk leads up to Gradina, where the ruins of a medieval fortress overlook the village. After a hearty lunch, dive into ancient history by following the Roman Legionnaires' educational trail all the way to the impressive forest remains of the Liburnian Limes.",
-        "hr": "Započnite dan u centru Klane uz jaku kavu prije posjeta baroknoj crkvi sv. Jerolima. Kratka šetnja vodi do Gradine, gdje ruševine srednjovjekovne utvrde nadvisuju selo. Nakon krepkog ručka, uronite u antičku povijest prateći poučnu stazu rimskih legionara sve do impresivnih šumskih ostataka Liburnijskog limesa."
+        "hr": "Započnite dan u centru Klane jakom kavom prije posjete baroknoj crkvi sv. Jeronima. Kratka šetnja vodi do Gradine, gdje ruševine srednjovjekovne utvrde nadgledaju selo. Nakon obilnog ručka, uronite u staru povijest slijedeći edukativnu stazu rimskih legionara sve do impresivnih šumskih ostataka Liburnskog limesa."
       },
       "gastro_picks": {
         "de": [
@@ -280,8 +280,8 @@
           "Visit Klana in autumn for the beautiful foliage colors."
         ],
         "hr": [
-          "Nosite čvrste planinarske cipele za poučnu stazu.",
-          "Vrijeme u unutrašnjosti može biti hladnije nego na obali.",
+          "Nosite čvrste planinarske čizme za edukativnu stazu.",
+          "Kopneno vrijeme može biti hladnije nego na obali.",
           "Posjetite Klanu u jesen zbog prekrasnih boja lišća."
         ]
       },
@@ -292,7 +292,7 @@
             "hu": "A reggeli kávé a fedett teraszon indul. A templomlátogatás menedéket nyújt az eső elől, mielőtt a várromhoz vezető út csúszóssá válna. Ebédre egy meleg konobát választunk. A délutáni séta az erdei tanösvényen frissítő, de vízálló cipő kötelező. Az este nyugodt hangulatban telik, miközben hallgatjuk az eső kopogását a fák lombjain.",
             "ro": "Dimineața începe cu o cafea la adăpost. Vizita la biserică oferă un refugiu uscat înainte ca urcușul spre cetate să devină alunecos. Prânzul la konoba vă va încălzi. După-amiaza pe poteca educativă este revigorantă, dar necesită pelerină de ploaie. Seara se încheie liniștit, ascultând ploaia care bate în coronamentul pădurii.",
             "en": "Enjoy a dry morning coffee. The church visit provides shelter before the climb to the castle ruins becomes slippery. Warm up in a cozy konoba for lunch. The afternoon walk on the forest trail is refreshing but requires good waterproof gear. End the day peacefully, listening to the rain pattering on the forest canopy.",
-            "hr": "Uživajte u suhoj jutarnjoj kavi. Posjet crkvi pruža utočište prije nego što uspon do ruševina dvorca postane sklizak. Ugrijte se u ugodnoj konobi za ručak. Popodnevna šetnja šumskom stazom je osvježavajuća, ali zahtijeva dobru nepromočivu opremu. Završite dan mirno, slušajući bubnjanje kiše po krošnjama drveća."
+            "hr": "Uživajte u suhom jutarnjem kavu. Posjet crkvi pruža zaklon prije nego uspon do ruševina postane klizav. Zagrijte se u ugodnoj konobi na ručak. Poslijepodnevna šetnja šumskom stazom osvježava, ali zahtijeva dobru vodootpornu opremu. Završite dan mirno slušajući kapljanje kiše po šumskom krovu."
           },
           "stops": [
             {
@@ -302,7 +302,7 @@
                 "hu": "Keressen egy ablak melletti asztalt, és figyelje az esőt.",
                 "ro": "Găsiți un loc la fereastră pentru a urmări ploaia.",
                 "en": "Find a cozy spot by the window to watch the rain.",
-                "hr": "Pronađite ugodno mjesto uz prozor i promatrajte kišu."
+                "hr": "Pronađite ugodan kutak pokraj prozora za promatranje kiše."
               }
             },
             {
@@ -312,7 +312,7 @@
                 "hu": "Tökéletes hely egy nagyobb zápor szárazon való megvárásához.",
                 "ro": "Locul perfect pentru a aștepta trecerea unei plume de ploaie.",
                 "en": "Perfect place to wait out a heavy downpour in the dry.",
-                "hr": "Savršeno mjesto za čekanje da prođe pljusak na suhom."
+                "hr": "Savršeno mjesto za istrčati jak pljusak na suhom."
               }
             },
             {
@@ -322,7 +322,7 @@
                 "hu": "Vigyázat a nedves köveken a várromhoz vezető emelkedőn.",
                 "ro": "Atenție pe pietrele umede în timpul urcușului spre cetate.",
                 "en": "Watch your step on the wet stones while climbing to the ruins.",
-                "hr": "Pazite na korak na mokrom kamenju dok se penjete do ruševina."
+                "hr": "Pazite gdje gazite na mokrim kamenjima tijekom uspona do ruševina."
               }
             },
             {
@@ -332,7 +332,7 @@
                 "hu": "Élvezzen egy forró levest, amíg a ruhái megszáradnak.",
                 "ro": "Savurați o supă fierbinte în timp ce hainele se usucă.",
                 "en": "Enjoy a hot soup while your clothes dry.",
-                "hr": "Uživajte u toploj juhi dok vam se odjeća suši."
+                "hr": "Uživajte u vrućoj juhi dok se odjeća suši."
               }
             },
             {
@@ -342,7 +342,7 @@
                 "hu": "A lombok némi védelmet nyújtanak, de sok a tócsa.",
                 "ro": "Coronamentul oferă protecție, dar sunt multe bălți.",
                 "en": "The canopy provides some cover, but expect puddles.",
-                "hr": "Krošnje pružaju određenu zaštitu, ali očekujte lokve."
+                "hr": "Krošnja pruža djelomičan zaklon, ali očekujte lokve."
               }
             },
             {
@@ -352,7 +352,7 @@
                 "hu": "Az ókori falak esőben különösen misztikus látványt nyújtanak.",
                 "ro": "Zidurile antice par deosebit de mistice în ploaie.",
                 "en": "The ancient walls look especially mystical in the rain.",
-                "hr": "Drevni zidovi izgledaju posebno mistično na kiši."
+                "hr": "Drevni zidovi izgledaju osobito mistično na kiši."
               }
             },
             {
@@ -362,7 +362,7 @@
                 "hu": "Rövid pihenő a sűrű fenyők alatt, hogy szárazon maradjunk.",
                 "ro": "Scurt popas sub brazi deși pentru a rămâne uscat.",
                 "en": "Short rest under thick fir trees to stay dry.",
-                "hr": "Kratak odmor ispod gustih jela kako biste ostali suhi."
+                "hr": "Kratki odmor pod gustom jele održava vas suhim."
               }
             }
           ],
@@ -392,10 +392,10 @@
               "Watch out for slippery leaves on the ancient paths."
             ],
             "hr": [
-              "Nosite vodootporne planinarske cipele za područje dvorca.",
-              "Kompaktni kišobran je koristan u selu.",
-              "Kišne kabanice su praktičnije za šumske staze.",
-              "Pripazite na sklisko lišće na drevnim putovima."
+              "Nosite vodootporne planinarske čizme za područje utvrde.",
+              "Kompaktan kišobran je koristan u selu.",
+              "Kišne ponče su praktičniji za šumske staze.",
+              "Pazite na klizave lišće na drevnim stazama."
             ]
           }
         },
@@ -405,7 +405,7 @@
             "hu": "A fagyos reggel forró kávéval indul. A templom hűvös csendje áhítatos hangulatot áraszt. A várromhoz vezető út tiszta időben pazar kilátást nyújt a havas völgyre. Ebédre a vadételek és a konoba melege vár. A téli erdőben tett séta varázslatos, mielőtt a korai sötétedés lágy fénybe vonja a tájat.",
             "ro": "O dimineață geroasă începe cu o cafea fierbinte. Liniștea rece din biserică este solemnă. Urcușul spre cetate oferă, pe aer curat, o vedere largă asupra văii înzăpezite. La prânz, căldura de la konoba vă îmbie cu preparate din vânat. Plimbarea prin pădurea de iarnă este magică înainte de amurgul timpuriu.",
             "en": "A frosty start with hot coffee wakes the spirits. The cool silence in the church is solemn. The climb to the ruins offers broad views of the snowy valley in the crisp air. At noon, the warmth of the konoba invites you with game dishes. The hike through the winter forest is magical before the early sunset bathes the village in soft light.",
-            "hr": "Ledeni početak uz toplu kavu budi duhove. Hladna tišina u crkvi je svečana. Uspon do ruševina nudi široke poglede na snježnu dolinu na oštrom zraku. U podne vas toplina konobe mami jelima od divljači. Planinarenje kroz zimsku šumu je magično prije nego što rani zalazak sunca okupa selo u mekom svjetlu."
+            "hr": "Frostano jutro uz vruću kavu budi duhove. Hladna tišina u crkvi je svečana. Uspon do ruševina nudi široke poglede na snježnu dolinu u svježem zraku. U podne vas toplina konobe mami jelima od divljači. Planinarenje kroz zimsku šumu je čarobno prije nego što rani zalazak sunca obasja selo mekanim svjetlom."
           },
           "stops": [
             {
@@ -415,7 +415,7 @@
                 "hu": "Melegedjen fel alaposan, mielőtt kimegy a hidegbe.",
                 "ro": "Încălziți-vă bine înainte de a ieși în frig.",
                 "en": "Warm up thoroughly before heading out into the cold.",
-                "hr": "Dobro se ugrijte prije odlaska na hladnoću."
+                "hr": "Dobro se ugrijte prije izlaska na hladnoću."
               }
             },
             {
@@ -425,7 +425,7 @@
                 "hu": "Figyelje meg a templom belső ünnepi téli díszítését.",
                 "ro": "Observați decorațiunile festive de iarnă din interior.",
                 "en": "Note the festive winter decorations inside.",
-                "hr": "Obratite pozornost na svečane zimske ukrase u unutrašnjosti."
+                "hr": "Obratite pozornost na svečane zimske dekoracije unutra."
               }
             },
             {
@@ -435,7 +435,7 @@
                 "hu": "A jeges szakaszok miatt elengedhetetlen a stabil bakancs.",
                 "ro": "Încălțămintea stabilă este vitală din cauza gheții.",
                 "en": "Sturdy footwear is essential for potential icy patches.",
-                "hr": "Čvrsta obuća je neophodna zbog mogućih zaleđenih dijelova."
+                "hr": "Čvrsta obuća je bitna zbog mogućih zaleđenih mjesta."
               }
             },
             {
@@ -445,7 +445,7 @@
                 "hu": "Kóstolja meg a laktató egytálételeket a téli hideg ellen.",
                 "ro": "Încercați tocănițele consistente împotriva gerului.",
                 "en": "Try hearty stews to combat the winter chill.",
-                "hr": "Probajte krepka variva za borbu protiv zimske hladnoće."
+                "hr": "Isprobajte teške čorbe za borbu protiv zime."
               }
             },
             {
@@ -455,7 +455,7 @@
                 "hu": "A kopár fák között jobban látszanak a római falmaradványok.",
                 "ro": "Copacii golași dezvăluie mai bine zidurile limesului.",
                 "en": "The bare trees reveal a better view of the Limes walls.",
-                "hr": "Oguljena stabla omogućuju bolji pogled na zidove Limesa."
+                "hr": "Gole krošnje otkrivaju bolji pogled na zidove Limesa."
               }
             },
             {
@@ -465,7 +465,7 @@
                 "hu": "A hó alatt a kövek rendkívül csúszósak lehetnek.",
                 "ro": "Pietrele pot fi foarte alunecoase sub zăpadă.",
                 "en": "The stones can be very slippery under the snow.",
-                "hr": "Kamenje može biti vrlo sklisko pod snijegom."
+                "hr": "Kamenje može biti vrlo klizavo pod snijegom."
               }
             },
             {
@@ -475,7 +475,7 @@
                 "hu": "Ügyeljen a korai naplementére, 16:30 körül sötétedik.",
                 "ro": "Atenție la apusul timpuriu, în jur de ora 16:30.",
                 "en": "Be mindful of the early sunset around 4:30 PM.",
-                "hr": "Budite svjesni ranog zalaska sunca oko 16:30 h."
+                "hr": "Imajte na umu rani zalazak sunca oko 16:30."
               }
             }
           ],
@@ -505,10 +505,10 @@
               "Plan to finish your walk before it gets dark."
             ],
             "hr": [
-              "Slojevita odjeća se toplo preporučuje.",
-              "Ponesite termosicu s toplim čajem sa sobom.",
-              "Šumske staze se ne čiste od snijega.",
-              "Planirajte završiti šetnju prije nego što padne mrak."
+              "Slojevito odijevanje je toplo preporučljivo.",
+              "Ponesite termosicu s toplim čajem.",
+              "Šumske staze nisu očišćene od snijega.",
+              "Planirajte završetak šetnje prije mraka."
             ]
           }
         }
@@ -538,7 +538,7 @@
             "hu": "Készüljön fel a dombos terepre.",
             "ro": "Pregătiți-vă pentru un traseu deluros.",
             "en": "Prepare for a hilly ride.",
-            "hr": "Pripremite se za brdovitu vožnju."
+            "hr": "Pripremite se na brdovitu vožnju."
           }
         },
         {
@@ -576,7 +576,7 @@
             "hu": "Parkolja le a bicikliket az út szélén.",
             "ro": "Parcați bicicletele la marginea drumului.",
             "en": "Park the bikes at the edge of the path.",
-            "hr": "Parkirajte bicikle na rubu staze."
+            "hr": "Parkirajte bicikle na rubu puta."
           }
         },
         {
@@ -595,7 +595,7 @@
             "hu": "Hegyi kerékpár szükséges az erdei utakhoz.",
             "ro": "Este necesar mountain bike pentru drumurile de pădure.",
             "en": "Mountain bike required for the forest paths.",
-            "hr": "Brdski bicikl je neophodan za šumske staze."
+            "hr": "Za šumske staze potreban je brdski bicikl."
           }
         },
         {
@@ -614,7 +614,7 @@
             "hu": "Kalóriadús étkezés a visszaúthoz.",
             "ro": "Masă bogată în calorii pentru drumul de întoarcere.",
             "en": "Calorie-rich meal for the return journey.",
-            "hr": "Kaloričan obrok za povratak."
+            "hr": "Obrok bogat kalorijama za povratak."
           }
         },
         {
@@ -633,7 +633,7 @@
             "hu": "Árnyas utak, ideálisak délutánra.",
             "ro": "Drumuri umbrite, ideale pentru după-amiază.",
             "en": "Shady paths, ideal for the afternoon.",
-            "hr": "Sjenovite staze, idealne za popodne."
+            "hr": "Sjenoviti putovi, idealni za poslijepodne."
           }
         }
       ],
@@ -642,7 +642,7 @@
         "hu": "Fedezze fel Klána dombos hátországát hegyi kerékpárral. A falu templomának és a Gradina romjainak rövid megtekintése után egy kalandos erdei túra vár Önre a Liburniai limes ókori védvonalai mentén. Az árnyas ösvények nyáron is kellemes hőmérsékletet biztosítanak, és végül visszavezetnek a falu központjába egy jól megérdemelt, helyi különlegességekből álló ebédre.",
         "ro": "Explorați hinterlandul deluros al localității Klana cu mountain bike-ul. După o scurtă vizită la biserica din sat și ruinele Gradina, vă așteaptă o tură forestieră aventuroasă de-a lungul vechilor linii de apărare ale Limesului Liburnic. Potecile umbrite oferă temperaturi plăcute chiar și vara, ducându-vă înapoi în centrul satului pentru o masă binemeritată cu specialități locale.",
         "en": "Explore the hilly hinterland of Klana by mountain bike. After a brief visit to the village church and the Gradina ruins, an adventurous forest tour awaits you along the ancient defensive lines of the Liburnian Limes. The shady paths provide pleasant temperatures even in summer and finally lead you back to the village center for a well-deserved meal of local specialties.",
-        "hr": "Istražite brdovito zaleđe Klane brdskim biciklom. Nakon kratkog posjeta seoskoj crkvi i ruševinama Gradine, očekuje vas avanturistička šumska tura duž drevnih obrambenih linija Liburnijskog limesa. Sjenovite staze pružaju ugodne temperature čak i ljeti te vas na kraju vode natrag u centar sela na zasluženi obrok od lokalnih specijaliteta."
+        "hr": "Istražite brdoviti zaleđe Klane brdskim biciklom. Nakon kratkog posjeta crkvi sela i ruševinama Gradine, čeka vas pustolovna šumska tura duž drevnih obrambenih linija Liburnskog limesa. Sjenovite staze pružaju ugodne temperature čak i ljeti i na kraju vas vode natrag do središta sela na zasluženi obrok lokalnih specijaliteta."
       },
       "gastro_picks": {
         "de": [
@@ -767,9 +767,9 @@
           "A GPS device is useful for the deeper forest paths."
         ],
         "hr": [
-          "Provjerite kočnice prije spustova.",
-          "Uzmite dovoljno vode, u šumi ima malo izvora.",
-          "GPS uređaj je koristan za staze dublje u šumi."
+          "Provjerite kočnice prije spusteva.",
+          "Ponesite dovoljno vode, u šumi ima malo izvora.",
+          "GPS uređaj je koristan za dublje šumske staze."
         ]
       },
       "variants": {
@@ -779,7 +779,7 @@
             "hu": "Fröcskölős kezdés Klana tócsái között. A faluban tett megállók rövid pihenőt adnak az esőben. A Limeshez vezető emelkedő teljes koncentrációt igényel a nedves talajon. A száraz helyen elköltött ebéd után sáros erdei utakon folytatódik a túra. Egy nap az igazi rajongóknak, akik imádják a vizes erdő illatát.",
             "ro": "Un început plin de stropi prin bălțile din Klana. Vizitele în sat oferă scurte pauze de la ploaie. Urcarea spre Limes necesită concentrare maximă pe terenul umed. După un prânz revigorant la adăpost, aventura continuă pe poteci noroioase. O zi pentru entuziaști care iubesc mirosul pădurii umede.",
             "en": "A splashy start through the puddles of Klana. Sightseeing in the village offers short breaks from the rain. The climb to the Limes requires full focus on the damp ground. After a restorative lunch in the dry, the ride continues on muddy forest trails. A day for true enthusiasts who love the scent of the wet woods.",
-            "hr": "Prskav početak kroz lokve Klane. Razgledavanje u selu nudi kratke pauze od kiše. Uspon na Limes zahtijeva punu koncentraciju na vlažnom tlu. Nakon okrepljujućeg ručka na suhom, vožnja se nastavlja po blatnjavim šumskim stazama. Dan za prave entuzijaste koji vole miris mokre šume."
+            "hr": "Počinje prskanjem kroz lokve Klane. Razgledavanje sela nudi kratke stanke od kiše. Uspon do Limesa zahtijeva potpunu koncentraciju na vlažnu podlogu. Nakon okrepljujućeg ručka na suhom, vožnja se nastavlja blatnim šumskim stazama. Dan za prave entuzijaste koji vole miris mokre šume."
           },
           "stops": [
             {
@@ -789,7 +789,7 @@
                 "hu": "Ellenőrizze a fékeket az esős indulás előtt.",
                 "ro": "Verificați frânele înainte de plecarea prin ploaie.",
                 "en": "Check your brakes before starting off in the rain.",
-                "hr": "Provjerite kočnice prije kretanja na kiši."
+                "hr": "Provjerite kočnice prije polaska na kiši."
               }
             },
             {
@@ -809,7 +809,7 @@
                 "hu": "Hagyja a bringát lent, az ösvény túl csúszós.",
                 "ro": "Lăsați bicicleta jos, poteca e prea alunecoasă.",
                 "en": "Leave your bike below; the path is too slippery.",
-                "hr": "Ostavite bicikl niže; staza je previše skliska."
+                "hr": "Ostavite bicikl dolje; staza je previše skliska."
               }
             },
             {
@@ -819,7 +819,7 @@
                 "hu": "Csökkentse a guminyomást a jobb tapadásért.",
                 "ro": "Reduceți presiunea în anvelope pentru aderență.",
                 "en": "Reduce tire pressure slightly for better grip.",
-                "hr": "Smanjite tlak u gumama za bolje prianjanje."
+                "hr": "Smanjite tlak u gumama lagano za bolje prianjanje."
               }
             },
             {
@@ -829,7 +829,7 @@
                 "hu": "Egy törölköző a nyereghez csodákat tesz.",
                 "ro": "Un prosop pentru șa face minuni la întoarcere.",
                 "en": "A towel for the saddle works wonders.",
-                "hr": "Ručnik za sjedalo čini čuda."
+                "hr": "Ručník za sjedalo čini čuda."
               }
             },
             {
@@ -839,7 +839,7 @@
                 "hu": "Vigyázzon a sár alatti rejtett gyökerekre.",
                 "ro": "Atenție la rădăcinile ascunse sub noroi.",
                 "en": "Watch out for tree roots hidden under the mud.",
-                "hr": "Pazite na korijenje drveća skriveno pod blatom."
+                "hr": "Pazite na korijenje stabala skrivene pod blatom."
               }
             }
           ],
@@ -869,9 +869,9 @@
               "Clean the mud off your chain after the tour."
             ],
             "hr": [
-              "Blatobrani su obavezni po ovakvom vremenu.",
-              "Izbjegavajte rizične manevre na mokrom asfaltu.",
-              "Nosite uočljive, neon kišne jakne.",
+              "Blatobrani su neophodni u ovakvom vremenu.",
+              "Izbjegavajte rizične maneuvre na mokrom asfaltu.",
+              "Nosite retroreflektirajuće fluorescentne kabanice.",
               "Očistite blato s lanca nakon ture."
             ]
           }
@@ -882,7 +882,7 @@
             "hu": "Hideg levegő és tiszta kilátás kíséri a téli túrát. A reggeli kávé adja meg az energiát. A várromhoz és a Limeshez vezető emelkedők melegen tartják a testet, a lejtőkön viszont harap a szél. Az ebéd megérdemelt jutalom a meleg szobában. A délutáni tekerés a havas erdőben időben véget ér a jeges sötétedés előtt.",
             "ro": "Aerul rece și vizibilitatea clară însoțesc tura de iarnă. Cafeaua de dimineață oferă energia necesară. Urcările spre cetate și Limes mențin corpul cald, în timp ce vântul pișcă la coborâri. Prânzul este recompensa meritată în sala caldă. Tura de după-amiază prin pădurea înzăpezită se termină înainte de gerul nopții.",
             "en": "Cold air and clear views accompany the winter tour. Morning coffee provides the necessary energy. The climbs to the castle and Limes keep your body warm, while the wind bites during descents. Lunch is a well-deserved reward in the cozy room. The afternoon ride through the snowy forest ends well before the icy darkness sets in.",
-            "hr": "Hladan zrak i čisti vidici prate zimsku turu. Jutarnja kava daje potrebnu energiju. Usponi do dvorca i Limesa griju tijelo, dok vjetar grize tijekom spustova. Ručak je zaslužena nagrada u toploj prostoriji. Popodnevna vožnja kroz snježnu šumu završava znatno prije nego što nastupi ledeni mrak."
+            "hr": "Hladan zrak i jasni vidici prate zimsku turu. Jutarnja kava daje potrebnu energiju. Usponi do dvorca i Limesa griju tijelo, dok vjetar žestoko udara pri spustovima. Ručak je zaslužena nagrada u ugodnoj prostoriji. Popodnevna vožnja kroz snježnu šumu završava prije nego što nastupi ledena tama."
           },
           "stops": [
             {
@@ -892,7 +892,7 @@
                 "hu": "Viseljen szélálló kesztyűt és kamáslit.",
                 "ro": "Purtați mănuși rezistente la vânt și protecții de încălțăminte.",
                 "en": "Wear windproof gloves and shoe covers.",
-                "hr": "Nosite rukavice otporne na vjetar i navlake za cipele."
+                "hr": "Nosite vjetrootporne rukavice i navlake za cipele."
               }
             },
             {
@@ -902,7 +902,7 @@
                 "hu": "Csak rövid pihenő, hogy ne hűljenek ki az izmok.",
                 "ro": "Pauză scurtă pentru ca mușchii să nu se răcească.",
                 "en": "Keep the break short so your muscles don't cool down.",
-                "hr": "Neka pauza bude kratka kako vam se mišići ne bi ohladili."
+                "hr": "Držite pauzu kratkom kako se mišići ne bi ohladili."
               }
             },
             {
@@ -922,7 +922,7 @@
                 "hu": "Vigyázzon a jégfoltokra az árnyékos részeken.",
                 "ro": "Atenție la plăcile de gheață din zonele umbrite.",
                 "en": "Watch out for ice patches in the shade of trees.",
-                "hr": "Pazite na zaleđene dijelove u sjeni drveća."
+                "hr": "Pazite na zaleđene mrlje u hladu drveća."
               }
             },
             {
@@ -932,7 +932,7 @@
                 "hu": "Töltse fel az energiakészleteit szénhidráttal.",
                 "ro": "Refaceți-vă rezervele de energie cu carbohidrați.",
                 "en": "Replenish your energy reserves with carbohydrates.",
-                "hr": "Nadoknadite zalihe energije ugljikohidratima."
+                "hr": "Nadopunite energetske zalihe ugljikohidratima."
               }
             },
             {
@@ -942,7 +942,7 @@
                 "hu": "Legkésőbb 16:00-kor kapcsolja be a világítást.",
                 "ro": "Aprindeți luminile cel târziu la ora 16:00.",
                 "en": "Turn on your lights by 4:00 PM at the latest.",
-                "hr": "Uključite svjetla najkasnije do 16:00 h."
+                "hr": "Uključite svjetla najkasnije do 16:00."
               }
             }
           ],
@@ -974,7 +974,7 @@
             "hr": [
               "Zimske gume s mekšom smjesom pomažu.",
               "Zaštitite lice od hladnog vjetra.",
-              "Budite svjesni kraćeg trajanja baterije na hladnoći.",
+              "Imajte na umu kraće trajanje baterije na hladnoći.",
               "Pijte dovoljno vode unatoč niskim temperaturama."
             ]
           }
@@ -1005,7 +1005,7 @@
             "hu": "Ingyenes parkolás a falu központjában.",
             "ro": "Parcare gratuită disponibilă în centrul satului.",
             "en": "Free parking available in the village center.",
-            "hr": "Besplatan parking dostupan u centru sela."
+            "hr": "Besplatan parking dostupan je u centru sela."
           }
         },
         {
@@ -1062,7 +1062,7 @@
             "hu": "Rövid autózás kiépített erdei utakon.",
             "ro": "Scurtă călătorie pe drumuri forestiere amenajate.",
             "en": "Short drive on paved forest roads.",
-            "hr": "Kratka vožnja asfaltiranim šumskim cestama."
+            "hr": "Kratka vožnja po asfaltiranim šumskim cestama."
           }
         },
         {
@@ -1081,7 +1081,7 @@
             "hu": "Sétáljon egy szakaszt a történelmi nyomvonalon.",
             "ro": "Mergeți pe o porțiune din traseul istoric.",
             "en": "Walk a section of the historical route.",
-            "hr": "Prošećite dijelom povijesne rute."
+            "hr": "Prošećite odrezak povijesne rute."
           }
         },
         {
@@ -1100,7 +1100,7 @@
             "hu": "Kérdezze a napi ajánlatot.",
             "ro": "Întrebați de meniul zilei.",
             "en": "Ask for the daily special.",
-            "hr": "Pitajte za dnevni specijalitet."
+            "hr": "Pitajte za dnevnu ponudu."
           }
         },
         {
@@ -1119,7 +1119,7 @@
             "hu": "A nap pihentető lezárása a természetben.",
             "ro": "O încheiere relaxantă a zilei în natură.",
             "en": "A relaxing end to the day in nature.",
-            "hr": "Opuštajući završetak dana u prirodi."
+            "hr": "Opustajući završetak dana u prirodi."
           }
         }
       ],
@@ -1128,7 +1128,7 @@
         "hu": "Autóval kényelmesen elérheti Klána különböző történelmi helyszíneit. Miután megtekintette a falu templomát és romjait, egy rövid autózás beljebb viszi az erdőbe, a Liburniai limes rejtettebb szakaszaihoz. Így könnyedén kombinálhatja a központi kulturális látnivalókat a természetjárással az ókori védműveknél, mielőtt a napot egy hagyományos vacsorával zárná.",
         "ro": "Cu mașina puteți ajunge confortabil la diferitele situri istorice din Klana. După ce vizitați biserica și ruinele din sat, o scurtă călătorie vă duce mai adânc în pădure, la secțiunile ascunse ale Limesului Liburnic. Astfel, combinați fără efort vizitarea obiectivelor culturale din centru cu natura de la vechile ziduri de apărare, înainte de a încheia ziua cu o cină tradițională.",
         "en": "By car, you can comfortably reach the various historical sites of Klana. After visiting the church and the ruins in the village, a short drive takes you deeper into the forest to the hidden sections of the Liburnian Limes. This allows you to effortlessly combine central cultural sightseeing with nature walks at the ancient defensive walls before ending the day with a traditional dinner.",
-        "hr": "Automobilom možete udobno doći do raznih povijesnih mjesta Klane. Nakon posjeta crkvi i ruševinama u selu, kratka vožnja vodi vas dublje u šumu do skrivenih dijelova Liburnijskog limesa. To vam omogućuje da bez napora spojite središnje kulturne znamenitosti sa šetnjama prirodom uz drevne obrambene zidove prije završetka dana uz tradicionalnu večeru."
+        "hr": "Autom možete ugodno doći do raznih povijesnih lokaliteta Klane. Nakon posjeta crkvi i ruševinama u selu, kratka vožnja vodi dublje u šumu do skrivenih dijelova Liburnskog Limesa. To vam omogućuje lako kombiniranje centralnog kulturnog razgledavanja s prirodnim šetnjama uz drevne obrambene zidove prije završetka dana tradicionalnom večerom."
       },
       "gastro_picks": {
         "de": [
@@ -1265,7 +1265,7 @@
             "hu": "Az esős idő nem zavarja az autózást. A faluban elfogyasztott eszpresszó után a templomot keressük fel. A rövid séta a várromhoz esernyőt és óvatosságot igényel. Az út a Limeshez a ködös erdőn át vezet, ami misztikus hangulatot áraszt. A késői ebéd a nap fénypontja, mielőtt kényelmesen befejeznénk a programot.",
             "ro": "Vremea ploioasă nu deranjează condusul. După un espresso în sat, vizitați biserica. Scurta plimbare spre cetate necesită umbrelă și prudență. Drumul spre Limes trece prin pădurea cețoasă, creând o atmosferă mistică. Prânzul târziu este un punct culminant, înainte de a încheia ziua relaxat.",
             "en": "Rainy weather doesn't hinder the drive much. After an espresso in the village, visit the church. The short walk to the castle ruins requires an umbrella and caution. The drive to the Limes trailhead goes through misty woods, creating a mystical atmosphere. The late lunch is a cozy highlight before ending the day in a relaxed way.",
-            "hr": "Kišovito vrijeme ne ometa previše vožnju. Nakon espressa u selu, posjetite crkvu. Kratka šetnja do ruševina dvorca zahtijeva kišobran i oprez. Vožnja do početka staze Limes prolazi kroz maglovite šume, stvarajući mističnu atmosferu. Kasni ručak je ugodan vrhunac prije opuštenog završetka dana."
+            "hr": "Kišno vrijeme ne ometa uvelike vožnju. Nakon espressa u selu posjetite crkvu. Kratka šetnja do ruševina dvorca zahtijeva kišobran i oprez. Vožnja do početka staze Limes prolazi kroz maglovite šume, stvarajući mističnu atmosferu. Kasni ručak je ugodan vrhunac prije opuštenog završetka dana."
           },
           "stops": [
             {
@@ -1275,7 +1275,7 @@
                 "hu": "Parkoljon a kávézó közelében, hogy száraz maradjon.",
                 "ro": "Parcați aproape de cafenea pentru a rămâne uscat.",
                 "en": "Park close to the cafe to stay dry.",
-                "hr": "Parkirajte blizu kafića kako biste ostali suhi."
+                "hr": "Parkirajte blizu kafića da ostanete suhi."
               }
             },
             {
@@ -1285,7 +1285,7 @@
                 "hu": "Hagyja az esernyőt kicsöpögni az előtérben.",
                 "ro": "Lăsați umbrela la scurs în pridvor.",
                 "en": "Let your umbrella drip dry in the porch area.",
-                "hr": "Ostavite kišobran da se ocijedi u trijemu."
+                "hr": "Pustite kišobran da se ocijedi na trijemu."
               }
             },
             {
@@ -1295,7 +1295,7 @@
                 "hu": "Vigyázzon a vizes fűre a kiszálláskor.",
                 "ro": "Atenție la iarba udă când coborâți din mașină.",
                 "en": "Watch out for wet grass when getting out of the car.",
-                "hr": "Pazite na mokru travu pri izlasku iz automobila."
+                "hr": "Pazite na mokru travu pri izlasku iz auta."
               }
             },
             {
@@ -1305,7 +1305,7 @@
                 "hu": "A ködlámpa hasznos lehet az erdei utakon.",
                 "ro": "Farurile de ceață pot fi utile în pădure.",
                 "en": "Fog lights can be helpful on the forest roads.",
-                "hr": "Maglenke mogu biti korisne na šumskim cestama."
+                "hr": "Maglenke mogu pomoći na šumskim cestama."
               }
             },
             {
@@ -1315,7 +1315,7 @@
                 "hu": "Egy rövid felfedezés esőkabátban is bőven elég.",
                 "ro": "O explorare scurtă cu pelerină este suficientă.",
                 "en": "A short exploration with a rain jacket is sufficient.",
-                "hr": "Kratko istraživanje u kišnoj jakni je dovoljno."
+                "hr": "Kratko istraživanje uz kabanicu je dovoljno."
               }
             },
             {
@@ -1325,7 +1325,7 @@
                 "hu": "Ideális hely az eső kivárására.",
                 "ro": "Un loc ideal pentru a aștepta trecerea ploii.",
                 "en": "An ideal place to wait out the rain.",
-                "hr": "Idealno mjesto za čekanje da kiša prestane."
+                "hr": "Idealno mjesto za čekanje da prestane kiša."
               }
             },
             {
@@ -1335,7 +1335,7 @@
                 "hu": "Maradjon a kijelölt, köves utakon.",
                 "ro": "Rămâneți pe potecile amenajate.",
                 "en": "Stick to the established, gravel paths.",
-                "hr": "Držite se uređenih, šljunčanih staza."
+                "hr": "Držite se ustaljenih šljunčanih putova."
               }
             }
           ],
@@ -1365,10 +1365,10 @@
               "Parking areas can be muddy in the rain."
             ],
             "hr": [
-              "Pazite na akvaplaning na šumskim cestama.",
-              "Imajte spremnu baterijsku svjetiljku u autu.",
-              "Koristite grijanje/klimu za odmagljivanje stakala.",
-              "Parkirališta mogu biti blatnjava na kiši."
+              "Pazite na aquaplaning na šumskim cestama.",
+              "Držite spremnom baterijsku lampu u autu.",
+              "Koristite grijač/klimu za odmagljivanje prozora.",
+              "Parkirališta mogu biti blata u kiši."
             ]
           }
         },
@@ -1378,7 +1378,7 @@
             "hu": "A téli utak figyelmet igényelnek. A reggeli bemelegítés után a kávézóban, a templom nyújt nyugalmat. A havas várrom remek fotótéma, de jó téli bakancs kell hozzá. Az út a Limeshez fehér mesevilágon át vezet. A vadas ebéd belülről melegít fel. A tanösvény utolsó állomása zárja a napot, mielőtt sötétben elindulnánk haza.",
             "ro": "Drumurile de iarnă necesită atenție sporită. După încălzirea de dimineață la cafenea, biserica oferă liniște. Cetatea înzăpezită este un motiv foto excelent, dar necesită ghete bune. Drumul spre Limes trece printr-o lume albă de basm. Prânzul cu vânat vă va încălzi. Ultima oprire pe potecă încheie ziua înainte de plecarea pe întuneric.",
             "en": "Winter roads demand extra attention. After warming up in the cafe, the church offers tranquility. The snowy castle ruins are a great photo op but require good winter boots. The drive to the Limes takes you through a white wonderland. Lunch with game specialties warms you from the inside. The final stop on the trail rounds out the day before returning in the dark.",
-            "hr": "Zimske ceste zahtijevaju dodatnu pažnju. Nakon zagrijavanja u kafiću, crkva nudi mir. Snježne ruševine dvorca izvrsna su prilika za fotografiranje, ali zahtijevaju dobre zimske čizme. Vožnja do Limesa vodi vas kroz bijelu zemlju čuda. Ručak sa specijalitetima od divljači grije vas iznutra. Posljednja stanica na stazi zaokružuje dan prije povratka po mraku."
+            "hr": "Zimske ceste zahtijevaju dodatnu pažnju. Nakon zagrijavanja u kafiću, crkva pruža mir. Snježne ruševine dvorca su odlična prilika za fotografiju, no trebaju dobre zimske čizme. Vožnja do Limesa vodi kroz bijeli čarobni krajolik. Ručak s jelima od divljači grije iznutra. Završna točka na stazi zaokružuje dan prije povratka u mrak."
           },
           "stops": [
             {
@@ -1388,7 +1388,7 @@
                 "hu": "Ne járassa feleslegesen a motort a falu közepén.",
                 "ro": "Nu lăsați motorul pornit inutil în centrul satului.",
                 "en": "Don't leave the engine idling unnecessarily.",
-                "hr": "Ne ostavljajte motor u praznom hodu bez potrebe."
+                "hr": "Ne ostavljajte motor nepotrebno uključenim."
               }
             },
             {
@@ -1398,7 +1398,7 @@
                 "hu": "Vigyázzon az ereszekről lógó jégcsapokra.",
                 "ro": "Atenție la țurțurii de pe streșini.",
                 "en": "Watch out for icicles hanging from the gutters.",
-                "hr": "Pazite na sige koje vise s oluka."
+                "hr": "Pazite na ledenice koje vise s žlijebova."
               }
             },
             {
@@ -1408,7 +1408,7 @@
                 "hu": "Úgy parkoljon, hogy ne akadjon el a hóban.",
                 "ro": "Parcați astfel încât să nu rămâneți blocat în zăpadă.",
                 "en": "Park in a way that you won't get stuck in the snow.",
-                "hr": "Parkirajte tako da ne zaglavite u snijegu."
+                "hr": "Parkirajte tako da ne zapnete u snijegu."
               }
             },
             {
@@ -1438,7 +1438,7 @@
                 "hu": "Tökéletes hely a lábak felmelegítésére.",
                 "ro": "Perfect pentru a vă reîncălzi picioarele.",
                 "en": "Perfect for warming up your feet.",
-                "hr": "Savršeno za grijanje stopala."
+                "hr": "Savršeno za zagrijavanje stopala."
               }
             },
             {
@@ -1448,7 +1448,7 @@
                 "hu": "Keresse a jelzéseket a hó alatt is.",
                 "ro": "Căutați marcajele chiar și sub zăpadă.",
                 "en": "Look for trail markers even under the snow.",
-                "hr": "Tražite oznake staze čak i pod snijegom."
+                "hr": "Tražite oznake staza i pod snijegom."
               }
             }
           ],
@@ -1478,10 +1478,10 @@
               "The roads to Klana can freeze over quickly."
             ],
             "hr": [
-              "Provjerite razinu antifriza u tekućini za pranje stakla.",
+              "Provjerite razinu antifriza u tekućini za pranje stakala.",
               "Držite lopatu za snijeg u prtljažniku.",
-              "Vozite defenzivno kada postoji opasnost od poledice.",
-              "Ceste prema Klani mogu se brzo zalediti."
+              "Vozite defanzivno kada postoji rizik od leda.",
+              "Ceste prema Klani se mogu brzo zalediti."
             ]
           }
         }
@@ -1511,7 +1511,7 @@
             "hu": "Érkezéskor azonnal ellenőrizze a visszautat.",
             "ro": "Verificați orarul de întoarcere imediat la sosire.",
             "en": "Check the return schedule immediately upon arrival.",
-            "hr": "Provjerite vozni red za povratak odmah po dolasku."
+            "hr": "Provjerite raspored povratka odmah po dolasku."
           }
         },
         {
@@ -1530,7 +1530,7 @@
             "hu": "Közvetlenül a megálló mellett található.",
             "ro": "Situată chiar lângă stație.",
             "en": "Located right next to the stop.",
-            "hr": "Nalazi se odmah uz stanicu."
+            "hr": "Nalazi se odmah pokraj stajališta."
           }
         },
         {
@@ -1587,7 +1587,7 @@
             "hu": "Jól járható ösvény családoknak is.",
             "ro": "Traseu ușor de parcurs, și pentru familii.",
             "en": "Easy walking path, also for families.",
-            "hr": "Laka pješačka staza, prikladna i za obitelji."
+            "hr": "Laka pješačka staza, pogodna i za obitelji."
           }
         },
         {
@@ -1615,7 +1615,7 @@
         "hu": "Érkezzen Klánába a Rijékából (Fiume) induló helyi autóbusszal, és fedezze fel gyalogosan a hegyi falu báját. A faluközpontból minden fontos látnivaló jól megközelíthető. Tekintse meg a templomot és a Gradina romjait, mielőtt a helyi fogadóban ebédelne. Délután a római legionáriusok útja a környező természetbe csalogatja, ahol megcsodálhatja az antik Limes falait, mielőtt visszatérne a buszmegállóba az induláshoz.",
         "ro": "Ajungeți în Klana cu autobuzul local din Rijeka și descoperiți farmecul acestui sat de munte pe jos. Din centrul satului, toate obiectivele importante sunt ușor accesibile. Vizitați biserica și ruinele Gradina înainte de a lua masa la hanul local. După-amiaza, drumul legionarilor romani vă poartă în natura înconjurătoare, unde puteți admira zidurile antice ale Limesului, înainte de a reveni la stația de autobuz pentru plecare.",
         "en": "Reach Klana by local bus from Rijeka and discover the charm of this mountain village on foot. From the village center, all major sights are easily accessible. Visit the church and the Gradina ruins before having lunch at the local inn. In the afternoon, the Roman Legionnaires' path leads you into the surrounding nature, where you can admire the ancient Limes walls before returning to the bus stop for departure.",
-        "hr": "Dođite u Klanu lokalnim autobusom iz Rijeke i otkrijte šarm ovog planinskog sela pješice. Iz centra sela sve su glavne znamenitosti lako dostupne. Posjetite crkvu i ruševine Gradine prije ručka u lokalnoj gostionici. Poslijepodne vas put rimskih legionara vodi u okolnu prirodu, gdje se možete diviti drevnim zidinama Limesa prije povratka na autobusnu stanicu za odlazak."
+        "hr": "Dođite autobusom do Klane iz Rijeke i otkrijte čar planinskog sela pješice. Iz središta sela svi glavni sadržaji su lako dostupni. Posjetite crkvu i ruševine Gradine prije ručka u lokalnoj konobi. Poslijepodne vas Put rimskih legionara vodi u okolnu prirodu, gdje možete razgledati drevne Limes zidove prije povratka na autobusno stajalište za polazak."
       },
       "gastro_picks": {
         "de": [
@@ -1752,7 +1752,7 @@
             "hu": "Az eső kényelmetlenné teszi a buszra várást, de a templom közelsége segít. A várrom meglátogatása vizes kalanddá válik. Az ebéd a falu központjában a megváltó száraz pihenő. A délutáni tanösvény az eső ellenére is hangulatos. A nap folyamán ügyesen kell sakkozni a buszmenetrend és a záporok között.",
             "ro": "Ploaia face așteptarea în stație inconfortabilă, dar proximitatea bisericii ajută. Vizita la cetate devine o aventură umedă. Prânzul în centrul satului este pauza uscată salvatoare. Poteca de după-amiază rămâne atmosferică în ciuda ploii. O zi care necesită coordonare între orarul autobuzului și averse.",
             "en": "Rain makes waiting at the bus stop a bit uncomfortable, but the short distance to the church helps. Visiting the castle ruins turns into a wet adventure. Lunch in the village center is a saving dry break. The afternoon on the trail is atmospheric despite the rain. A day that requires smart planning between bus schedules and rain showers.",
-            "hr": "Kiša čini čekanje na autobusnoj stanici pomalo neugodnim, ali kratka udaljenost do crkve pomaže. Posjet ruševinama dvorca pretvara se u mokru avanturu. Ručak u centru sela je spasonosna pauza na suhom. Poslijepodne na stazi je atmosferično unatoč kiši. Dan koji zahtijeva pametno planiranje između voznog reda autobusa i kišnih pljuskova."
+            "hr": "Kiša otežava čekanje na stanici, ali kratka udaljenost do crkve pomaže. Posjet ruševinama dvorca pretvara se u mokru pustolovinu. Ručak u centru sela pruža suhi predah. Popodne na stazi je atmosferično unatoč kiši. Dan koji zahtijeva pametno planiranje između voznih redova i pljuskova."
           },
           "stops": [
             {
@@ -1762,7 +1762,7 @@
                 "hu": "Használja a buszvárót első menedékként.",
                 "ro": "Folosiți refugiul din stație ca prim adăpost.",
                 "en": "Use the bus shelter as your first cover.",
-                "hr": "Koristite nadstrešnicu stanice kao prvi zaklon."
+                "hr": "Iskoristite nadstrešnicu na stanici kao prvo sklonište."
               }
             },
             {
@@ -1782,7 +1782,7 @@
                 "hu": "A keskeny ösvény esőben patakká változhat.",
                 "ro": "Poteca îngustă se poate transforma în pârâu la ploaie.",
                 "en": "The narrow path can turn into a stream in the rain.",
-                "hr": "Uski put se na kiši može pretvoriti u potok."
+                "hr": "Uski put može postati potok po kiši."
               }
             },
             {
@@ -1802,7 +1802,7 @@
                 "hu": "Vigyázzon, ne késse le az utolsó visszjáratot.",
                 "ro": "Aveți grijă să nu pierdeți ultima cursă de întoarcere.",
                 "en": "Be careful not to miss the last return bus.",
-                "hr": "Pazite da ne propustite posljednji autobus za povratak."
+                "hr": "Pazite da ne propustite zadnji povratni autobus."
               }
             },
             {
@@ -1812,7 +1812,7 @@
                 "hu": "Rövidítse le az útvonalat, ha erősödik az eső.",
                 "ro": "Scurtați traseul dacă ploaia se intensifică.",
                 "en": "Shorten the route if the rain gets heavier.",
-                "hr": "Skratite rutu ako kiša postane jača."
+                "hr": "Skratite rutu ako kiša pojača."
               }
             }
           ],
@@ -1844,8 +1844,8 @@
             "hr": [
               "Provjerite vozni red Autotroleja (Linija 11/11A).",
               "Nosite vodootpornu odjeću za vrijeme čekanja.",
-              "Kišobrani mogu biti nezgodni na vjetru; koristite kabanicu.",
-              "Nisu sve autobusne stanice natkrivene."
+              "Kišobrani su nezgodni na vjetru; koristite pončo.",
+              "Nisu sva autobusna stajališta natkrivena."
             ]
           }
         },
@@ -1855,7 +1855,7 @@
             "hu": "A megállóban átfagyott lábakat a forró kávé kárpótolja. A templomlátogatás áhítatos meleget ad. A havas várrom a téli túrázók fénypontja. A központi ebéd után jöhet a délutáni fagyos séta. A tanösvény a téli álom idején különösen békés, mielőtt a busz meleg utastere visszarepítene a városba.",
             "ro": "Picioarele înghețate în stație sunt compensate de cafeaua fierbinte. Vizita la biserică oferă o căldură solemnă. Cetatea înzăpezită este un punct culminant pentru drumeți. Prânzul central vă pregătește pentru după-amiaza geroasă. Poteca pare deosebit de pașnică în somnul iernii, înainte ca autobuzul să vă preia.",
             "en": "Cold feet at the bus stop are compensated by hot coffee in the village. The church visit offers a solemn warmth. The snowy castle ruins are a highlight for winter hikers. A central lunch prepares you for a frosty afternoon. The trail feels especially peaceful during its winter sleep before the warm bus cabin takes you back.",
-            "hr": "Hladna stopala na autobusnoj stanici kompenziraju se toplom kavom u selu. Posjet crkvi nudi svečanu toplinu. Snježne ruševine dvorca vrhunac su za zimske planinare. Središnji ručak priprema vas za prohladno poslijepodne. Staza djeluje posebno mirno tijekom zimskog sna prije nego što vas topla kabina autobusa odveze natrag."
+            "hr": "Hladna stopala na stanici nadoknađuje vruća kava u selu. Posjet crkvi pruža svečan osjećaj topline. Snježne ruševine dvorca su vrhunac za zimske planinare. Središnji ručak pripremi vas za mrzlo popodne. Staza djeluje posebno mirno tijekom zimskog sna prije nego što vas topla kabina autobusa vrati nazad."
           },
           "stops": [
             {
@@ -1865,7 +1865,7 @@
                 "hu": "Mozogjon folyamatosan a megállóban, hogy ne fázzon.",
                 "ro": "Muntați-vă continuu în stație pentru a vă încălzi.",
                 "en": "Keep moving at the bus stop to stay warm.",
-                "hr": "Krećite se na stanici kako biste ostali topli."
+                "hr": "Ostanite u pokretu na stanici da se ugrijete."
               }
             },
             {
@@ -1875,7 +1875,7 @@
                 "hu": "Csendes hely egy rövid felmelegedéshez.",
                 "ro": "Un loc liniștit pentru o scurtă încălzire.",
                 "en": "A quiet place for a quick warm-up.",
-                "hr": "Mirno mjesto za brzo zagrijavanje."
+                "hr": "Tihi prostor za kratko zagrijavanje."
               }
             },
             {
@@ -1885,7 +1885,7 @@
                 "hu": "Az ösvény jeges lehet, óvatosan lépkedjen.",
                 "ro": "Poteca poate fi înghețată, mergeți cu prudență.",
                 "en": "The path may be icy; tread carefully.",
-                "hr": "Staza može biti zaleđena; koračajte oprezno."
+                "hr": "Put može biti zaleđen; hodajte oprezno."
               }
             },
             {
@@ -1895,7 +1895,7 @@
                 "hu": "Használja ki az időt egy forró italra.",
                 "ro": "Folosiți timpul pentru o băutură fierbinte.",
                 "en": "Take the opportunity to have a hot drink.",
-                "hr": "Iskoristite priliku za topli napitak."
+                "hr": "Iskoristite priliku za toplu piće."
               }
             },
             {
@@ -1905,7 +1905,7 @@
                 "hu": "Télen sokkal kevesebb a túrázó az utakon.",
                 "ro": "Iarna sunt mult mai puțini drumeți pe traseu.",
                 "en": "There are much fewer hikers on the trail in winter.",
-                "hr": "Zimi je na stazi znatno manje planinara."
+                "hr": "Zimi ima znatno manje planinara na stazi."
               }
             },
             {
@@ -1945,10 +1945,10 @@
               "Have some small change ready for the ticket."
             ],
             "hr": [
-              "Autobusi mogu kasniti tijekom obilnih snježnih oborina.",
+              "Autobusi mogu kasniti za vrijeme obilnog snijega.",
               "Nosite termo donje rublje za vrijeme čekanja.",
-              "Vozni redovi na stanicama mogu biti zamagljeni zimi.",
-              "Imajte spreman sitniš za kartu."
+              "Rasporedi na stajalištima mogu se zamagliti zimi.",
+              "Imajte sitniš spreman za kartu."
             ]
           }
         }

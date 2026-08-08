@@ -31,7 +31,8 @@
             "de": "Perfekt für einen morgendlichen Spaziergang.",
             "hu": "Tökéletes egy reggeli sétához a fák alatt.",
             "ro": "Perfect pentru o plimbare matinală sub copaci.",
-            "en": "Perfect for a morning stroll under the trees."
+            "en": "Perfect for a morning stroll under the trees.",
+            "hr": "Savršeno za jutarnju šetnju pod stablima."
           },
           "hop_mode": "walk"
         },
@@ -50,7 +51,8 @@
             "de": "Sehen Sie sich die traditionellen Trachten an.",
             "hu": "Nézze meg a hagyományos népviseleteket.",
             "ro": "Verificați costumele tradiționale locale.",
-            "en": "Check out the traditional local costumes."
+            "en": "Check out the traditional local costumes.",
+            "hr": "Pogledajte tradicionalne lokalne nošnje."
           },
           "hop_mode": "walk"
         },
@@ -69,7 +71,8 @@
             "de": "Beachten Sie die wunderschönen Fresken im Inneren.",
             "hu": "Figyelje meg a gyönyörű belső freskókat.",
             "ro": "Observați frescele interioare frumoase.",
-            "en": "Notice the beautiful interior frescoes."
+            "en": "Notice the beautiful interior frescoes.",
+            "hr": "Primijetite prekrasne unutarnje freske."
           },
           "hop_mode": "walk"
         },
@@ -88,7 +91,8 @@
             "de": "Ein ruhiger spiritueller Ort am Rande des Zentrums.",
             "hu": "Csendes spirituális hely a központ peremén.",
             "ro": "Un loc spiritual liniștit la marginea centrului.",
-            "en": "A quiet spiritual spot on the edge of the center."
+            "en": "A quiet spiritual spot on the edge of the center.",
+            "hr": "Tihi duhovni kutak na rubu centra."
           },
           "hop_mode": "walk"
         }
@@ -97,7 +101,8 @@
         "de": "Ein gemütlicher Spaziergang durch das Herz von Velika Gorica. Wir erkunden die reiche Geschichte im Turopolje-Museum und entspannen in den grünen Parks, bevor wir die historische Architektur der Stadtkirchen bewundern.",
         "hu": "Egy kellemes séta Velika Gorica szívében. Felfedezzük a gazdag történelmet a Turopolje Múzeumban, pihenünk a zöld parkokban, majd megcsodáljuk a városi templomok történelmi építészetét.",
         "ro": "O plimbare relaxantă prin inima orașului Velika Gorica. Explorăm istoria bogată la Muzeul Turopolje și ne relaxăm în parcurile verzi, înainte de a admira arhitectura bisericilor locale.",
-        "en": "A leisurely stroll through the heart of Velika Gorica. We explore rich history at the Turopolje Museum, relax in the green parks, and admire the historic architecture of the city's churches."
+        "en": "A leisurely stroll through the heart of Velika Gorica. We explore rich history at the Turopolje Museum, relax in the green parks, and admire the historic architecture of the city's churches.",
+        "hr": "Lagana šetnja kroz srce Velike Gorice. Istražujemo bogatu povijest u Muzeju Turopolja, opuštamo se u zelenim parkovima i divimo se povijesnoj arhitekturi gradskih crkvi."
       },
       "gastro_picks": {
         "de": [
@@ -273,6 +278,12 @@
           "Bring a water bottle for warm days.",
           "Museums are often closed on Mondays.",
           "Pay attention to the wooden architectural details."
+        ],
+        "hr": [
+          "Centar je vrlo prilagođen pješacima.",
+          "Ponesite bocu vode za tople dane.",
+          "Muzeji su često zatvoreni ponedjeljkom.",
+          "Obratite pozornost na drvene arhitektonske detalje."
         ]
       },
       "variants": {
@@ -281,7 +292,8 @@
             "de": "Beginnen Sie Ihren Tag im Stadtpark unter dem Schutz eines Regenschirms. Mittags bietet das Turopolje-Museum eine trockene Zuflucht voller Geschichte. Am Nachmittag besuchen Sie die Verkündigungskirche, bevor Sie den Tag an der St.-Laurentius-Kirche beenden. Die kurzen Wege minimieren die Zeit im Regen, während die kulturellen Innenräume Sie warm und trocken halten.",
             "hu": "Kezdje a napot a városi parkban, esernyővel a kézben. Délben a Turopolje Múzeum kínál száraz menedéket és gazdag történelmi tárlatokat. Délután látogasson el az Angyali Üdvözlet templomba, majd fejezze be a sétát a Szent Lőrinc templomnál. A rövid távolságok miatt kevés időt kell az esőben töltenie, a belső terek pedig kényelmes kikapcsolódást nyújtanak.",
             "ro": "Începeți ziua în parcul orașului, protejați de o umbrelă. La prânz, Muzeul Turopolje oferă un refugiu uscat și plin de istorie locală. După-amiaza, vizitați Biserica Bunei Vestiri înainte de a încheia turul la Biserica Sf. Laurențiu. Distanțele scurte minimizează expunerea la ploaie, în timp ce interioarele culturale vă mențin confortabil și uscat.",
-            "en": "Start your day in the city park with an umbrella in hand. At noon, the Turopolje Museum provides a dry sanctuary filled with local history. In the afternoon, visit the Church of the Annunciation before ending your walk at St. Lawrence Church. The short distances minimize your time in the rain, while the cultural interiors keep you warm and dry."
+            "en": "Start your day in the city park with an umbrella in hand. At noon, the Turopolje Museum provides a dry sanctuary filled with local history. In the afternoon, visit the Church of the Annunciation before ending your walk at St. Lawrence Church. The short distances minimize your time in the rain, while the cultural interiors keep you warm and dry.",
+            "hr": "Započnite dan u gradskom parku s kišobranom u ruci. U podne Turopoljski muzej pruža suhi zaklon ispunjen lokalnom poviješću. Poslijepodne posjetite Crkvu Navještenja prije nego što završite šetnju kod crkve sv. Lovre. Male udaljenosti smanjuju vrijeme provedeno na kiši, dok vas kulturni interijeri drže toplima i suhim."
           },
           "stops": [
             {
@@ -290,7 +302,8 @@
                 "de": "Nutzen Sie die befestigten Wege, um Pfützen zu vermeiden.",
                 "hu": "Használja a kiépített utakat a tócsák elkerülése érdekében.",
                 "ro": "Folosiți aleile pavate pentru a evita bălțile.",
-                "en": "Use the paved paths to avoid puddles."
+                "en": "Use the paved paths to avoid puddles.",
+                "hr": "Koristite popločane staze kako biste izbjegli lokve."
               }
             },
             {
@@ -299,7 +312,8 @@
                 "de": "Idealer Ort, um den stärksten Regen im Trockenen abzuwarten.",
                 "hu": "Ideális hely a nagyobb eső szárazon való megvárásához.",
                 "ro": "Locul ideal pentru a aștepta trecerea ploii la adăpost.",
-                "en": "Ideal place to wait out the heaviest rain indoors."
+                "en": "Ideal place to wait out the heaviest rain indoors.",
+                "hr": "Idealno mjesto za čekanje najsnažnije kiše unutra."
               }
             },
             {
@@ -308,7 +322,8 @@
                 "de": "Der Eingangsbereich bietet kurzzeitigen Schutz vor Schauern.",
                 "hu": "A bejárat környéke rövid ideig védelmet nyújt a záporok elől.",
                 "ro": "Zona intrării oferă protecție temporară împotriva ploii.",
-                "en": "The entrance area offers temporary shelter from showers."
+                "en": "The entrance area offers temporary shelter from showers.",
+                "hr": "Ulazni prostor nudi privremeni zaklon od pljuskova."
               }
             },
             {
@@ -317,7 +332,8 @@
                 "de": "Vorsicht auf den nassen Steinstufen am Eingang.",
                 "hu": "Vigyázat a nedves kőlépcsőkkel a bejáratnál.",
                 "ro": "Atenție la treptele de piatră umede de la intrare.",
-                "en": "Be careful on the wet stone steps at the entrance."
+                "en": "Be careful on the wet stone steps at the entrance.",
+                "hr": "Budite oprezni na mokrim kamenim stepenicama na ulazu."
               }
             }
           ],
@@ -349,6 +365,13 @@
               "The museum offers cloakrooms for wet coats.",
               "Small cafes near the churches are perfect for a warming break.",
               "Check the weather app for short rain breaks to take photos."
+            ],
+            "hr": [
+              "Čvrst kišobran je neophodan tijekom udara vjetra u Turopolju.",
+              "Nosite vodootpornu obuću za nepopločane dijelove u parku.",
+              "Muzej nudi garderobe za mokre kapute.",
+              "Mali kafići blizu crkvi savršeni su za otopljavanje uz pauzu.",
+              "Provjerite aplikaciju za vremensku prognozu radi kratkih prestanaka kiše za fotografiranje."
             ]
           }
         },
@@ -357,7 +380,8 @@
             "de": "Erleben Sie die winterliche Ruhe im Stadtpark, wenn der Frost die Bäume glitzern lässt. Mittags wärmen Sie sich im Turopolje-Museum auf und erkunden die lokale Geschichte. Der Nachmittag führt Sie zu den festlich beleuchteten Kirchen der Stadt. Da es früh dunkel wird, endet Ihr Rundgang in der gemütlichen Atmosphäre des historischen Zentrums von Velika Gorica.",
             "hu": "Élje át a téli nyugalmat a városi parkban, amikor a zúzmara megcsillan a fákon. Délben melegedjen fel a Turopolje Múzeumban, felfedezve a helyi múltat. A délután a város ünnepi fényekbe öltözött templomaihoz vezet. Mivel korán sötétedik, a séta Velika Gorica történelmi központjának meghitt hangulatában ér véget.",
             "ro": "Experimentați liniștea iernii în parcul orașului, când chiciura strălucește pe copaci. La prânz, încălziți-vă în Muzeul Turopolje explorând trecutul local. După-amiaza vă poartă spre bisericile orașului iluminate festiv. Deoarece se întunecă devreme, turul se încheie în atmosfera primitoare a centrului istoric din Velika Gorica.",
-            "en": "Experience winter tranquility in the city park as frost glitters on the trees. At noon, warm up in the Turopolje Museum while exploring local history. The afternoon leads you to the city's festively lit churches. Since it gets dark early, your walk ends in the cozy atmosphere of Velika Gorica's historical center."
+            "en": "Experience winter tranquility in the city park as frost glitters on the trees. At noon, warm up in the Turopolje Museum while exploring local history. The afternoon leads you to the city's festively lit churches. Since it gets dark early, your walk ends in the cozy atmosphere of Velika Gorica's historical center.",
+            "hr": "Doživite zimsku spokojnost u gradskom parku dok mraz sjaji na stablima. U podne se ugrijte u Turopoljskom muzeju istražujući lokalnu povijest. Poslijepodne posjetite svečano osvijetljene crkve grada. Budući da se rano smrkava, šetnja završava u ugodnoj atmosferi povijesnog centra Velike Gorice."
           },
           "stops": [
             {
@@ -366,7 +390,8 @@
                 "de": "Genießen Sie den Frost am Morgen, bevor der Publikumsverkehr zunimmt.",
                 "hu": "Élvezze a reggeli zúzmarát, mielőtt megnő a forgalom.",
                 "ro": "Bucurați-vă de chiciura dimineții înainte de aglomerație.",
-                "en": "Enjoy the morning frost before the crowds arrive."
+                "en": "Enjoy the morning frost before the crowds arrive.",
+                "hr": "Uživajte u jutarnjem mrazu prije nego što stignu gužve."
               }
             },
             {
@@ -375,7 +400,8 @@
                 "de": "Hervorragend beheizte Räume laden zum langen Verweilen ein.",
                 "hu": "Kiválóan fűtött termek csábítanak hosszabb időtöltésre.",
                 "ro": "Sălile bine încălzite vă invită la o vizită prelungită.",
-                "en": "Excellent heated rooms invite you to stay longer."
+                "en": "Excellent heated rooms invite you to stay longer.",
+                "hr": "Izvrsne grijane prostorije pozivaju da ostanete dulje."
               }
             },
             {
@@ -384,7 +410,8 @@
                 "de": "Im Inneren ist es oft kühler als erwartet, behalten Sie den Mantel an.",
                 "hu": "Bent gyakran hűvösebb van a vártnál, hagyja magán a kabátot.",
                 "ro": "În interior este adesea mai rece decât vă așteptați, păstrați haina.",
-                "en": "Inside is often cooler than expected, keep your coat on."
+                "en": "Inside is often cooler than expected, keep your coat on.",
+                "hr": "Unutra je često hladnije nego što očekujete, držite kaput na sebi."
               }
             },
             {
@@ -393,7 +420,8 @@
                 "de": "Die Abendbeleuchtung macht diesen Ort im Winter besonders magisch.",
                 "hu": "Az esti kivilágítás télen különösen varázslatossá teszi ezt a helyet.",
                 "ro": "Iluminatul de seară face acest loc deosebit de magic iarna.",
-                "en": "Evening lighting makes this place especially magical in winter."
+                "en": "Evening lighting makes this place especially magical in winter.",
+                "hr": "Večernje osvjetljenje čini ovo mjesto posebno magičnim zimi."
               }
             }
           ],
@@ -425,6 +453,13 @@
               "Watch out for icy patches on the paved sidewalks.",
               "A hot tea in a thermos is ideal for the park visit.",
               "Visit the churches after 4:00 PM for the atmospheric lighting."
+            ],
+            "hr": [
+              "Sunce zalazi oko 16:15 u prosincu.",
+              "Nosite termo odjeću jer vjetar na ravnici može biti oštar.",
+              "Pazite na zaleđene mrlje na popločanim pločnicima.",
+              "Topli čaj u termosu idealan je za posjet parku.",
+              "Posjetite crkve nakon 16:00 radi atmosferskog osvjetljenja."
             ]
           }
         }
@@ -453,7 +488,8 @@
             "de": "Guter Startpunkt, um die Fahrräder bereitzumachen.",
             "hu": "Jó kiindulópont a kerékpárok felkészítéséhez.",
             "ro": "Punct bun de pornire pentru a pregăti bicicletele.",
-            "en": "Good starting point to get the bikes ready."
+            "en": "Good starting point to get the bikes ready.",
+            "hr": "Dobar polazak za pripremu bicikala."
           },
           "hop_mode": "bike"
         },
@@ -472,7 +508,8 @@
             "de": "Lernen Sie die Region kennen, bevor Sie hinausfahren.",
             "hu": "Ismerje meg a régiót, mielőtt útnak indul.",
             "ro": "Cunoașteți regiunea înainte de a pleca la drum.",
-            "en": "Get to know the region before heading out."
+            "en": "Get to know the region before heading out.",
+            "hr": "Upoznajte regiju prije nego krenete dalje."
           },
           "hop_mode": "bike"
         },
@@ -491,7 +528,8 @@
             "de": "Ein Meisterwerk der lokalen Holzbaukunst.",
             "hu": "A helyi faépítészet igazi remekműve.",
             "ro": "O capodoperă a arhitecturii locale din lemn.",
-            "en": "A masterpiece of local wooden architecture."
+            "en": "A masterpiece of local wooden architecture.",
+            "hr": "Remek-djelo lokalne drvene arhitekture."
           },
           "hop_mode": "bike"
         },
@@ -510,7 +548,8 @@
             "de": "Genießen Sie die Atmosphäre dieses historischen Anwesens.",
             "hu": "Élvezze ennek a történelmi birtoknak a hangulatát.",
             "ro": "Bucurați-vă de atmosfera acestei moșii istorice.",
-            "en": "Enjoy the atmosphere of this historic estate."
+            "en": "Enjoy the atmosphere of this historic estate.",
+            "hr": "Uživajte u atmosferi ove povijesne gospodarske kuće."
           },
           "hop_mode": "bike"
         },
@@ -529,7 +568,8 @@
             "de": "Die alte Festung bietet tolle Fotomotive.",
             "hu": "A régi erőd nagyszerű fotótémákat kínál.",
             "ro": "Vechea fortăreață oferă oportunități foto excelente.",
-            "en": "The old fortress offers great photo opportunities."
+            "en": "The old fortress offers great photo opportunities.",
+            "hr": "Stara utvrda nudi odlične prilike za fotografiranje."
           },
           "hop_mode": "bike"
         }
@@ -538,7 +578,8 @@
         "de": "Die flache Umgebung von Velika Gorica ist ideal für Radtouren. Wir radeln von den Museen im Zentrum hinaus in die grünen Vororte, um faszinierende Holzkapellen und alte Festungen zu entdecken.",
         "hu": "Velika Gorica sík környéke ideális kerékpározáshoz. A központi múzeumoktól a zöldellő külvárosok felé tekerünk, hogy lenyűgöző fatemplomokat és ősi erődöket fedezzünk fel.",
         "ro": "Împrejurimile plate din Velika Gorica sunt ideale pentru ciclism. Pedalăm de la muzeele din centru spre suburbiile verzi pentru a descoperi capele de lemn fascinante și fortărețe vechi.",
-        "en": "The flat surroundings of Velika Gorica are ideal for cycling. We ride from the central museums out into the green suburbs to discover fascinating wooden chapels and ancient fortresses."
+        "en": "The flat surroundings of Velika Gorica are ideal for cycling. We ride from the central museums out into the green suburbs to discover fascinating wooden chapels and ancient fortresses.",
+        "hr": "Ravna okolina Velike Gorice idealna je za biciklizam. Vozimo iz središnjih muzeja prema zelenim predgrađima kako bismo otkrili fascinantne drvene kapele i drevne utvrde."
       },
       "gastro_picks": {
         "de": [
@@ -662,6 +703,12 @@
           "Roads to the suburbs are mostly quiet.",
           "Wear a helmet for safety.",
           "Don't forget sunscreen."
+        ],
+        "hr": [
+          "Provjerite tlak u gumama unaprijed.",
+          "Ceste prema predgrađima su većinom mirne.",
+          "Nosite kacigu radi sigurnosti.",
+          "Ne zaboravite kremu za sunčanje."
         ]
       },
       "variants": {
@@ -670,7 +717,8 @@
             "de": "Eine nasse Radtour durch Turopolje erfordert gute Ausrüstung. Nach dem Parkbesuch bietet das Museum eine Pause zum Trocknen. Die Route führt weiter zur Holzkapelle St. Barbara, wo das Vordach Schutz bietet. Über Kurija Modić-Bedeković erreichen Sie schließlich Schloss Lukavec. Die flache Landschaft ist auch bei Regen gut befahrbar, sofern man auf rutschigen Untergrund achtet.",
             "hu": "Egy esős biciklitúra Turopolje környékén jó felszerelést igényel. A park után a múzeum ad lehetőséget a száradásra. Az út a Szent Borbála fatemplomhoz vezet, ahol az előtető védelmet nyújt. A Modić-Bedeković kúrián keresztül végül a lukaveci várhoz ér. A sík terep esőben is jól tekerhető, ha figyel a csúszós felületekre.",
             "ro": "O tură cu bicicleta prin Turopolje pe ploaie necesită echipament bun. După parc, muzeul oferă o pauză pentru uscare. Traseul continuă spre capela de lemn Sf. Barbara, unde streașina oferă adăpost. Prin Curia Modić-Bedeković ajungeți în final la Castelul Lukavec. Relieful plat este ușor de parcurs și pe ploaie, cu atenție la suprafețele alunecoase.",
-            "en": "A rainy bike ride through Turopolje requires good gear. After the park, the museum offers a chance to dry off. The route continues to St. Barbara wooden chapel, where the porch provides shelter. Via Modić-Bedeković Manor, you finally reach Lukavec Castle. The flat landscape remains easy to cycle in the rain, provided you watch for slippery surfaces."
+            "en": "A rainy bike ride through Turopolje requires good gear. After the park, the museum offers a chance to dry off. The route continues to St. Barbara wooden chapel, where the porch provides shelter. Via Modić-Bedeković Manor, you finally reach Lukavec Castle. The flat landscape remains easy to cycle in the rain, provided you watch for slippery surfaces.",
+            "hr": "Kišna biciklistička tura kroz Turopolje zahtijeva dobru opremu. Nakon parka, muzej nudi priliku da se osušite. Ruta se nastavlja do drvene kapele sv. Barbare, gdje trijem pruža zaklon. Preko vlastelinstva Modić-Bedeković na kraju stižete do dvorca Lukavec. Ravna krajolika ostaje laka za vožnju po kiši, pod uvjetom da pazite na klizave površine."
           },
           "stops": [
             {
@@ -679,7 +727,8 @@
                 "de": "Vorsicht vor nassem Laub auf den Radwegen.",
                 "hu": "Vigyázat a nedves levelekkel a kerékpárutakon.",
                 "ro": "Atenție la frunzele ude de pe pistele de biciclete.",
-                "en": "Watch out for wet leaves on the cycling paths."
+                "en": "Watch out for wet leaves on the cycling paths.",
+                "hr": "Pazite na mokro lišće na biciklističkim stazama."
               }
             },
             {
@@ -688,7 +737,8 @@
                 "de": "Überdachte Fahrradständer befinden sich in der Nähe.",
                 "hu": "Fedett biciklitárolók találhatók a közelben.",
                 "ro": "Suporturi de biciclete acoperite se află în apropiere.",
-                "en": "Covered bike racks are located nearby."
+                "en": "Covered bike racks are located nearby.",
+                "hr": "Nalaze se natkriveni stalci za bicikle u blizini."
               }
             },
             {
@@ -697,7 +747,8 @@
                 "de": "Das Holz kann bei Nässe an den Stufen sehr glatt sein.",
                 "hu": "A fa a lépcsőknél nedvesen nagyon csúszós lehet.",
                 "ro": "Lemnul treptelor poate fi foarte alunecos când este ud.",
-                "en": "The wood on the steps can be very slippery when wet."
+                "en": "The wood on the steps can be very slippery when wet.",
+                "hr": "Drvo na stepenicama može biti vrlo klizavo kad je mokro."
               }
             },
             {
@@ -706,7 +757,8 @@
                 "de": "Stellen Sie das Rad unter den Bäumen unter, falls es stark regnet.",
                 "hu": "Támassza a bringát a fák alá, ha erősen esik.",
                 "ro": "Lăsați bicicleta sub copaci dacă plouă torențial.",
-                "en": "Park your bike under the trees if it's raining hard."
+                "en": "Park your bike under the trees if it's raining hard.",
+                "hr": "Parkirajte bicikl pod stablima ako jako pada kiša."
               }
             },
             {
@@ -715,7 +767,8 @@
                 "de": "Der Innenhof bietet begrenzten Schutz vor Wind und Regen.",
                 "hu": "A belső udvar korlátozott védelmet nyújt a szél és eső elől.",
                 "ro": "Curtea interioară oferă protecție limitată contra vântului și ploii.",
-                "en": "The inner courtyard offers limited shelter from wind and rain."
+                "en": "The inner courtyard offers limited shelter from wind and rain.",
+                "hr": "Unutarnje dvorište nudi ograničen zaklon od vjetra i kiše."
               }
             }
           ],
@@ -747,6 +800,13 @@
               "Waterproof shoe covers will keep your feet dry while riding.",
               "Visibility can be limited by spray from cars on rural roads.",
               "A dry rag for the saddle saves a lot of discomfort."
+            ],
+            "hr": [
+              "Blatobrani su obavezni na zemljanim stazama između kapela.",
+              "Izbjegavajte naglo kočenje na obojenim dijelovima ceste.",
+              "Vodootporne navlake za cipele održat će vam noge suhim tijekom vožnje.",
+              "Vidljivost može biti ograničena prskanjem automobila na seoskim cestama.",
+              "Suha krpa za sjedalo uštedit će mnogo neugodnosti."
             ]
           }
         },
@@ -755,7 +815,8 @@
             "de": "Eine Wintertour per Rad durch die Turopolje-Ebene ist erfrischend, erfordert aber Schichten. Nach dem Start im Park dient das Museum als wichtiger Aufwärmstopp. Die Weiterfahrt zur Holzkapelle St. Barbara führt durch kühle, offene Landschaften. Die Kurija Modić-Bedeković und Schloss Lukavec wirken im Winterlicht besonders einsam und majestätisch. Beenden Sie die Tour vor Einbruch der Dunkelheit.",
             "hu": "A téli biciklitúra a Turopolje-síkságon frissítő, de réteges öltözetet kíván. A parki kezdés után a múzeum fontos melegedőpont. A Szent Borbála fatemplom felé vezető út hűvös, nyitott tájakon visz keresztül. A Modić-Bedeković kúria és a lukaveci vár a téli fényben különösen magányosnak és fenségesnek tűnik. Fejezze be a túrát sötétedés előtt.",
             "ro": "O tură de iarnă cu bicicleta prin câmpia Turopolje este revigorantă, dar necesită straturi de haine. După startul în parc, muzeul servește ca punct important de încălzire. Drumul spre capela de lemn Sf. Barbara trece prin peisaje deschise și reci. Curia Modić-Bedeković și Castelul Lukavec par deosebit de solitare și maiestuoase în lumina iernii. Încheiați tura înainte de lăsarea întunericului.",
-            "en": "A winter bike tour through the Turopolje plain is refreshing but requires layers. After starting in the park, the museum serves as a key warming stop. The ride to St. Barbara wooden chapel takes you through cool, open landscapes. Modić-Bedeković Manor and Lukavec Castle appear particularly solitary and majestic in winter light. Finish the tour before dark."
+            "en": "A winter bike tour through the Turopolje plain is refreshing but requires layers. After starting in the park, the museum serves as a key warming stop. The ride to St. Barbara wooden chapel takes you through cool, open landscapes. Modić-Bedeković Manor and Lukavec Castle appear particularly solitary and majestic in winter light. Finish the tour before dark.",
+            "hr": "Zimska biciklistička tura ravnicom Turopolja osvježava, ali zahtijeva slojevitu odjeću. Nakon polaska u parku, muzej služi kao glavna točka za zagrijavanje. Vožnja do drvene kapele sv. Barbare vodi kroz hladne, otvorene krajobraze. Vlastelinstvo Modić-Bedeković i dvorac Lukavec djeluju posebno samotno i veličanstveno u zimskom svjetlu. Završite turu prije mraka."
           },
           "stops": [
             {
@@ -764,7 +825,8 @@
                 "de": "Fahren Sie vorsichtig, da Wege oft erst spät gestreut werden.",
                 "hu": "Óvatosan tekerjen, az utakat gyakran későn szórják fel.",
                 "ro": "Pedalați cu atenție, aleile sunt adesea deszăpezite târziu.",
-                "en": "Ride carefully as paths are often salted late."
+                "en": "Ride carefully as paths are often salted late.",
+                "hr": "Vozite oprezno jer se staze često posipaju solju kasno."
               }
             },
             {
@@ -773,7 +835,8 @@
                 "de": "Nutzen Sie die Zeit drinnen, um die Finger wieder zu spüren.",
                 "hu": "Használja ki a benti időt, hogy újra érezze az ujjait.",
                 "ro": "Folosiți timpul în interior pentru a vă dezmorți degetele.",
-                "en": "Use the indoor time to regain feeling in your fingers."
+                "en": "Use the indoor time to regain feeling in your fingers.",
+                "hr": "Iskoristite vrijeme unutra za povrat osjeta u prstima."
               }
             },
             {
@@ -782,7 +845,8 @@
                 "de": "Die offene Lage macht diesen Stopp im Winter sehr windig.",
                 "hu": "A nyitott fekvés miatt ez a megálló télen nagyon szeles.",
                 "ro": "Locația deschisă face acest punct foarte vântos iarna.",
-                "en": "The open location makes this stop very windy in winter."
+                "en": "The open location makes this stop very windy in winter.",
+                "hr": "Otvoreni položaj čini ovu postaju vrlo vjetrovitom zimi."
               }
             },
             {
@@ -791,7 +855,8 @@
                 "de": "Das historische Holzgebäude speichert keine Wärme, bleiben Sie in Bewegung.",
                 "hu": "A történelmi faépület nem tartja a meleget, maradjon mozgásban.",
                 "ro": "Clădirea istorică din lemn nu reține căldura, rămâneți în mișcare.",
-                "en": "The historic wooden building doesn't hold heat, keep moving."
+                "en": "The historic wooden building doesn't hold heat, keep moving.",
+                "hr": "Povijesna drvena zgrada ne zadržava toplinu, nastavite se kretati."
               }
             },
             {
@@ -800,7 +865,8 @@
                 "de": "Der Wind pfeift durch die Zinnen, ein Schal ist hier Pflicht.",
                 "hu": "A szél átfütyül a bástyákon, a sál itt kötelező.",
                 "ro": "Vântul suflă printre creneluri, un fular este obligatoriu aici.",
-                "en": "The wind whistles through the battlements, a scarf is a must here."
+                "en": "The wind whistles through the battlements, a scarf is a must here.",
+                "hr": "Vjetar zviždi kroz utvrde, šal je ovdje obavezan."
               }
             }
           ],
@@ -832,6 +898,13 @@
               "Plan to return by 4:00 PM at the latest.",
               "Warm drinks in an insulated bottle are your best companions.",
               "Reflectors are vital during the often foggy winter days."
+            ],
+            "hr": [
+              "Zimske rukavice su nužne zbog hladnog vjetra.",
+              "Trajanje baterije za e-bicikle i telefone drastično pada na hladnoći.",
+              "Isplanirajte povrat najkasnije do 16:00.",
+              "Topli napitci u izoliranoj boci su vam najbolji suputnici.",
+              "Reflektori su važni tijekom često maglovitih zimskih dana."
             ]
           }
         }
@@ -860,7 +933,8 @@
             "de": "Tragen Sie bequeme Schuhe für das römische Gelände.",
             "hu": "Viseljen kényelmes cipőt a római romokhoz.",
             "ro": "Purtați pantofi comozi pentru ruinele romane.",
-            "en": "Wear comfortable shoes for the Roman ruins."
+            "en": "Wear comfortable shoes for the Roman ruins.",
+            "hr": "Nosite udobnu obuću za rimske ostatke."
           },
           "hop_mode": "car"
         },
@@ -879,7 +953,8 @@
             "de": "Parken Sie in der Nähe des Zentrums.",
             "hu": "Parkoljon le a központ közelében.",
             "ro": "Parcați mașina aproape de centru.",
-            "en": "Park your car near the center."
+            "en": "Park your car near the center.",
+            "hr": "Parkirajte auto blizu centra."
           },
           "hop_mode": "car"
         },
@@ -898,7 +973,8 @@
             "de": "Nur einen kurzen Spaziergang vom Museum entfernt.",
             "hu": "Csak egy rövid sétára van a múzeumtól.",
             "ro": "Doar o scurtă plimbare de la muzeu.",
-            "en": "Just a short walk from the museum."
+            "en": "Just a short walk from the museum.",
+            "hr": "Samo kratka šetnja od muzeja."
           },
           "hop_mode": "walk"
         },
@@ -917,7 +993,8 @@
             "de": "Die alte Burg ist ideal für Fotopausen.",
             "hu": "A régi kastély ideális fotós szünetekhez.",
             "ro": "Vechiul castel este ideal pentru pauze foto.",
-            "en": "The old castle is ideal for photo breaks."
+            "en": "The old castle is ideal for photo breaks.",
+            "hr": "Stari dvorac idealan je za foto-pauze."
           },
           "hop_mode": "car"
         },
@@ -936,7 +1013,8 @@
             "de": "Ein authentisches Holzanwesen aus dem 19. Jahrhundert.",
             "hu": "Egy autentikus 19. századi faudvarház.",
             "ro": "Un conac autentic din lemn din secolul al XIX-lea.",
-            "en": "An authentic 19th-century wooden manor."
+            "en": "An authentic 19th-century wooden manor.",
+            "hr": "Autentično drveno vlastelinstvo iz 19. stoljeća."
           },
           "hop_mode": "walk"
         }
@@ -945,7 +1023,8 @@
         "de": "Mit dem Auto erkunden wir das Zentrum von Velika Gorica und fahren dann zu den faszinierenden Ausgrabungen von Andautonia sowie den abgelegenen Schlössern. Wir parken in strategischen Clustern und spazieren vor Ort.",
         "hu": "Autóval fedezzük fel Velika Gorica központját, majd Andautonia lenyűgöző ásatásaihoz és a távolabbi kastélyokhoz autózunk. Stratégiai csomópontokban parkolunk, és helyben sétálunk.",
         "ro": "Cu mașina explorăm centrul Velika Gorica și apoi ne îndreptăm spre săpăturile fascinante de la Andautonia și castelele izolate. Parcăm în grupuri strategice și ne plimbăm la fața locului.",
-        "en": "By car, we explore the center of Velika Gorica and then drive to the fascinating excavations of Andautonia and the remote castles. We park in strategic clusters and walk locally."
+        "en": "By car, we explore the center of Velika Gorica and then drive to the fascinating excavations of Andautonia and the remote castles. We park in strategic clusters and walk locally.",
+        "hr": "Autom istražujemo centar Velike Gorice, a zatim vozimo do fascinantnih iskapanja Andautonije i udaljenih dvoraca. Parkiramo u strateškim skupinama i lokalno hodamo."
       },
       "gastro_picks": {
         "de": [
@@ -1069,6 +1148,12 @@
           "Plan some extra time for the drive to Andautonia.",
           "Navigate carefully on the side roads.",
           "Check the castle's opening hours in advance."
+        ],
+        "hr": [
+          "Parkirališta u centru mogu biti puna u podne.",
+          "Planirajte dodatno vrijeme za vožnju do Andautonije.",
+          "Navigirajte pažljivo na sporednim cestama.",
+          "Provjerite radno vrijeme dvorca unaprijed."
         ]
       },
       "variants": {
@@ -1077,7 +1162,8 @@
             "de": "Mit dem Auto erkunden Sie Turopolje bequem und trocken. Beginnen Sie beim archäologischen Park Andautonia – bei Regen sind die Ausgrabungen teilweise geschützt. Danach geht es zum Turopolje-Museum im Stadtzentrum. Die Verkündigungskirche und Schloss Lukavec sind schnell erreichbar, wobei Sie den Regen aus dem warmen Cockpit beobachten. Die Tour endet bei der Kurija Modić-Bedeković, einem Juwel der Holzarchitektur.",
             "hu": "Autóval kényelmesen és szárazon fedezheti fel Turopoljét. Kezdjen az Andautonia régészeti parknál – esőben az ásatások részben fedettek. Ezután irány a Turopolje Múzeum a városközpontban. Az Angyali Üdvözlet templom és a lukaveci vár gyorsan elérhető, miközben a meleg autóból figyeli az esőt. A túra a Modić-Bedeković kúriánál ér véget, amely a faépítészet gyöngyszeme.",
             "ro": "Cu mașina explorați Turopolje confortabil și uscat. Începeți la parcul arheologic Andautonia – pe ploaie, excavațiile sunt parțial protejate. Apoi mergeți la Muzeul Turopolje în centrul orașului. Biserica Bunei Vestiri și Castelul Lukavec sunt ușor accesibile, în timp ce priviți ploaia din mașina caldă. Turul se încheie la Curia Modić-Bedeković, o bijuterie a arhitecturii în lemn.",
-            "en": "By car, you explore Turopolje comfortably and dryly. Start at Andautonia Archaeological Park – the excavations are partially sheltered during rain. Then head to the Turopolje Museum in the city center. The Church of the Annunciation and Lukavec Castle are quickly reachable while you watch the rain from your warm cockpit. The tour ends at Modić-Bedeković Manor, a gem of wooden architecture."
+            "en": "By car, you explore Turopolje comfortably and dryly. Start at Andautonia Archaeological Park – the excavations are partially sheltered during rain. Then head to the Turopolje Museum in the city center. The Church of the Annunciation and Lukavec Castle are quickly reachable while you watch the rain from your warm cockpit. The tour ends at Modić-Bedeković Manor, a gem of wooden architecture.",
+            "hr": "Autom udobno i suho istražujete Turopolje. Započnite u Arheološkom parku Andautonija – iskapanja su djelomično natkrivena tijekom kiše. Zatim se uputite u Turopoljski muzej u središtu grada. Crkva Navještenja i dvorac Lukavec brzo su dostupni dok promatrate kišu iz toplog kokpita. Turu završite u vlastelinstvu Modić-Bedeković, dragulju drvene arhitekture."
           },
           "stops": [
             {
@@ -1086,7 +1172,8 @@
                 "de": "Wegen der unbefestigten Wege ist festes Schuhwerk bei Matsch nötig.",
                 "hu": "A nem aszfaltozott utak miatt sárban erős lábbeli szükséges.",
                 "ro": "Din cauza potecilor neamenajate, e nevoie de încălțăminte solidă în noroi.",
-                "en": "Sturdy footwear is needed for the unpaved paths in muddy conditions."
+                "en": "Sturdy footwear is needed for the unpaved paths in muddy conditions.",
+                "hr": "Potrebna je čvrsta obuća za nepopločane staze u blatu."
               }
             },
             {
@@ -1095,7 +1182,8 @@
                 "de": "Parkplätze direkt vor dem Eingang erleichtern den kurzen Weg ins Trockene.",
                 "hu": "A bejárat előtti parkolók megkönnyítik a gyors bejutást.",
                 "ro": "Parcările chiar în fața intrării facilitează accesul rapid la adăpost.",
-                "en": "Parking spots right in front of the entrance ease the quick dash indoors."
+                "en": "Parking spots right in front of the entrance ease the quick dash indoors.",
+                "hr": "Parkirna mjesta odmah ispred ulaza olakšavaju brz ulazak unutra."
               }
             },
             {
@@ -1104,7 +1192,8 @@
                 "de": "Kurzer Stopp direkt an der Straße ist für ein Foto möglich.",
                 "hu": "Egy rövid megálló közvetlenül az utcán lehetséges egy fotó erejéig.",
                 "ro": "O oprire scurtă chiar pe stradă este posibilă pentru o fotografie.",
-                "en": "A short stop right on the street is possible for a photo."
+                "en": "A short stop right on the street is possible for a photo.",
+                "hr": "Moguć je kratak zaustavljanje uz ulicu za fotografiju."
               }
             },
             {
@@ -1113,7 +1202,8 @@
                 "de": "Der Weg zum Schloss kann bei starkem Regen aufgeweicht sein.",
                 "hu": "A várhoz vezető út heves esőzéskor felázhat.",
                 "ro": "Drumul spre castel poate fi noroios în caz de ploi torențiale.",
-                "en": "The path to the castle can be soggy during heavy rain."
+                "en": "The path to the castle can be soggy during heavy rain.",
+                "hr": "Put do dvorca može biti mokar i blatnjav tijekom jake kiše."
               }
             },
             {
@@ -1122,7 +1212,8 @@
                 "de": "Parken Sie auf befestigtem Grund, um nicht im Gras steckenzubleiben.",
                 "hu": "Parkoljon szilárd talajon, hogy ne akadjon el a fűben.",
                 "ro": "Parcați pe teren solid pentru a nu rămâne blocat în iarbă.",
-                "en": "Park on solid ground to avoid getting stuck in the grass."
+                "en": "Park on solid ground to avoid getting stuck in the grass.",
+                "hr": "Parkirajte na čvrstom tlu kako ne biste zapeli u travi."
               }
             }
           ],
@@ -1154,6 +1245,13 @@
               "Andautonia is an open-air museum; take an umbrella when getting out.",
               "Finding parking in Velika Gorica center is easy even in the rain.",
               "Plan breaks at the guesthouses along the route."
+            ],
+            "hr": [
+              "Seoske ceste u Turopolju mogu biti klizave po kiši.",
+              "Koristite klima-uređaj da spriječite magljenje vjetrobranskog stakla.",
+              "Andautonia je muzej na otvorenom; ponesite kišobran kad izlazite iz auta.",
+              "Pronalaženje parkiranja u centru Velike Gorice lako je i po kiši.",
+              "Isplanirajte stanke u gostionicama uz rutu."
             ]
           }
         },
@@ -1162,7 +1260,8 @@
             "de": "Winterliche Autofahrten durch die weißen Felder von Turopolje haben ihren eigenen Charme. Beginnen Sie in Andautonia, wo die römischen Ruinen oft von Reif bedeckt sind. Das beheizte Turopolje-Museum bietet danach angenehme Wärme. Besuchen Sie die Verkündigungskirche und das einsame Schloss Lukavec, das im Winter besonders trutzig wirkt. Die Kurija Modić-Bedeković bildet den Abschluss in der kalten, klaren Abendluft.",
             "hu": "A téli autózás Turopolje fehér mezőin át sajátos bájjal bír. Kezdjen Andautoniában, ahol a római romokat gyakran zúzmara fedi. A fűtött Turopolje Múzeum ezután kellemes meleget kínál. Látogasson el az Angyali Üdvözlet templomhoz és a magányos lukaveci várhoz, amely télen különösen dacosnak tűnik. A Modić-Bedeković kúria zárja a napot a hideg, tiszta esti levegőben.",
             "ro": "Călătoria cu mașina prin câmpurile albe ale Turopolje are propriul farmec. Începeți la Andautonia, unde ruinele romane sunt adesea acoperite de chiciură. Muzeul încălzit din Turopolje oferă apoi o căldură plăcută. Vizitați Biserica Bunei Vestiri și castelul solitar Lukavec, care pare deosebit de dârz iarna. Curia Modić-Bedeković încheie ziua în aerul rece și limpede al serii.",
-            "en": "Winter drives through the white fields of Turopolje have their own charm. Start in Andautonia, where the Roman ruins are often covered in frost. The heated Turopolje Museum then offers pleasant warmth. Visit the Church of the Annunciation and the solitary Lukavec Castle, which looks particularly defiant in winter. Modić-Bedeković Manor concludes the day in the cold, clear evening air."
+            "en": "Winter drives through the white fields of Turopolje have their own charm. Start in Andautonia, where the Roman ruins are often covered in frost. The heated Turopolje Museum then offers pleasant warmth. Visit the Church of the Annunciation and the solitary Lukavec Castle, which looks particularly defiant in winter. Modić-Bedeković Manor concludes the day in the cold, clear evening air.",
+            "hr": "Zimske vožnje kroz bijela polja Turopolja imaju svoj šarm. Započnite u Andautoniji, gdje su rimski ostaci često prekriveni mrazom. Grijani Turopoljski muzej zatim nudi ugodnu toplinu. Posjetite Crkvu Navještenja i osamljeni dvorac Lukavec, koji izgleda posebno prkosno zimi. Vlastelinstvo Modić-Bedeković zaokružuje dan u hladnom, bistru večernjem zraku."
           },
           "stops": [
             {
@@ -1171,7 +1270,8 @@
                 "de": "Der Wind weht hier ungehindert, ziehen Sie sich warm an.",
                 "hu": "A szél itt akadálytalanul fúj, öltözzön fel melegen.",
                 "ro": "Vântul bate nestingherit aici, îmbrăcați-vă gros.",
-                "en": "The wind blows unchecked here, dress warmly."
+                "en": "The wind blows unchecked here, dress warmly.",
+                "hr": "Vjetar ovdje neometano puše, obucite se toplo."
               }
             },
             {
@@ -1180,7 +1280,8 @@
                 "de": "Idealer Stopp, um sich zwischen den Außenbesichtigungen aufzuwärmen.",
                 "hu": "Ideális megálló a szabadtéri látnivalók közötti felmelegedésre.",
                 "ro": "Oprire ideală pentru a vă încălzi între vizitele în aer liber.",
-                "en": "Ideal stop to warm up between outdoor visits."
+                "en": "Ideal stop to warm up between outdoor visits.",
+                "hr": "Idealan je zaustavni punkt za zagrijavanje između vanjskih posjeta."
               }
             },
             {
@@ -1189,7 +1290,8 @@
                 "de": "Achten Sie auf Glätte auf dem Vorplatz.",
                 "hu": "Ügyeljen a jegesedésre a templom előtti téren.",
                 "ro": "Atenție la polei pe esplanada din fața bisericii.",
-                "en": "Watch out for ice on the church forecourt."
+                "en": "Watch out for ice on the church forecourt.",
+                "hr": "Pazite na led na crkvenom trgu."
               }
             },
             {
@@ -1198,7 +1300,8 @@
                 "de": "Im Winter sind die Innenräume oft sehr kalt, bleiben Sie nicht zu lange.",
                 "hu": "Télen a belső terek nagyon hidegek, ne maradjon túl sokáig.",
                 "ro": "Iarna interioarele sunt foarte reci, nu stați prea mult timp.",
-                "en": "In winter, the interiors are very cold, don't stay too long."
+                "en": "In winter, the interiors are very cold, don't stay too long.",
+                "hr": "Zimi su interijeri vrlo hladni, ne ostajte predugo."
               }
             },
             {
@@ -1207,7 +1310,8 @@
                 "de": "Im Abendlicht ist die Holzfassade ein fantastisches Fotomotiv.",
                 "hu": "Az esti fényben a fafalazat fantasztikus fotótéma.",
                 "ro": "În lumina serii, fațada de lemn este un subiect foto fantastic.",
-                "en": "The wooden facade is a fantastic photo subject in the evening light."
+                "en": "The wooden facade is a fantastic photo subject in the evening light.",
+                "hr": "Drvena fasada je fantastičan motiv za fotografiju u večernjem svjetlu."
               }
             }
           ],
@@ -1239,6 +1343,13 @@
               "Twilight starts early; check your headlights.",
               "Some rural paths might be impassable during heavy snowfall.",
               "Use seat heating for maximum comfort between stops."
+            ],
+            "hr": [
+              "Zimske gume su obvezne u ovom kraju i apsolutno potrebne.",
+              "Napunite spremnik za tekućinu za pranje vjetrobrana antifrizom.",
+              "Sumrak počinje rano; provjerite svjetla na vozilu.",
+              "Neki seoski putovi mogu postati neprohodni tijekom obilnog snijega.",
+              "Koristite grijače sjedala za maksimalnu udobnost između stajanja."
             ]
           }
         }
@@ -1267,7 +1378,8 @@
             "de": "Genießen Sie die Morgenluft im Park.",
             "hu": "Élvezze a reggeli levegőt a parkban.",
             "ro": "Bucurați-vă de aerul dimineții în parc.",
-            "en": "Enjoy the morning air in the park."
+            "en": "Enjoy the morning air in the park.",
+            "hr": "Uživajte u jutarnjem zraku u parku."
           },
           "hop_mode": "transit"
         },
@@ -1286,7 +1398,8 @@
             "de": "Das Museum ist nur einen kurzen Spaziergang entfernt.",
             "hu": "A múzeum csak egy rövid sétára található.",
             "ro": "Muzeul se află la o scurtă plimbare distanță.",
-            "en": "The museum is just a short walk away."
+            "en": "The museum is just a short walk away.",
+            "hr": "Muzej je samo kratka šetnja dalje."
           },
           "hop_mode": "walk"
         },
@@ -1305,7 +1418,8 @@
             "de": "Direkt in der Nähe des Museums gelegen.",
             "hu": "Közvetlenül a múzeum közelében található.",
             "ro": "Situată chiar lângă muzeu.",
-            "en": "Located right near the museum."
+            "en": "Located right near the museum.",
+            "hr": "Nalazi se tik uz muzej."
           },
           "hop_mode": "walk"
         },
@@ -1324,7 +1438,8 @@
             "de": "Nehmen Sie den Bus ins Nachbardorf Velika Mlaka.",
             "hu": "Busszal utazzon a szomszédos Velika Mlaka faluba.",
             "ro": "Luați autobuzul spre satul vecin Velika Mlaka.",
-            "en": "Take the bus to the neighboring village of Velika Mlaka."
+            "en": "Take the bus to the neighboring village of Velika Mlaka.",
+            "hr": "Sjednite na autobus do susjednog naselja Velika Mlaka."
           },
           "hop_mode": "transit"
         }
@@ -1333,7 +1448,8 @@
         "de": "Velika Gorica lässt sich gut mit Bussen erkunden. Wir spazieren durch die zentralen Attraktionen und Museen, bevor wir den Nahverkehr nutzen, um zur faszinierenden Holzkapelle im Nachbarort zu fahren.",
         "hu": "Velika Gorica kiválóan felfedezhető busszal. Végigsétálunk a központi látványosságokon és múzeumokon, majd a helyi közlekedést használva elutazunk a szomszédos település lenyűgöző fatemplomához.",
         "ro": "Velika Gorica este ușor de explorat cu autobuzele. Ne plimbăm prin atracțiile centrale și muzee, înainte de a folosi transportul public pentru a vizita fascinanta capelă din lemn din satul vecin.",
-        "en": "Velika Gorica is easy to explore with buses. We stroll through the central attractions and museums before using local transit to visit the fascinating wooden chapel in the neighboring village."
+        "en": "Velika Gorica is easy to explore with buses. We stroll through the central attractions and museums before using local transit to visit the fascinating wooden chapel in the neighboring village.",
+        "hr": "Velika Gorica je lako za istraživanje autobusima. Prošetamo kroz središnje znamenitosti i muzeje, pa lokalnim prijevozom posjetimo fascinantnu drvenu kapelu u susjednom selu."
       },
       "gastro_picks": {
         "de": [
@@ -1441,6 +1557,12 @@
           "Buy tickets at the local kiosk.",
           "Bus stops are well signposted.",
           "Have small change ready for the bus ticket."
+        ],
+        "hr": [
+          "Provjerite vozne redove autobusa unaprijed, ne voze uvijek često.",
+          "Kupite karte u lokalnom kiosku.",
+          "Autobusne postaje su dobro označene.",
+          "Imajte sitniš spreman za kartu za autobus."
         ]
       },
       "variants": {
@@ -1449,7 +1571,8 @@
             "de": "Mit dem Bus durch Velika Gorica zu reisen, schützt Sie weitgehend vor dem Regen. Nach dem Parkbesuch erreichen Sie schnell das Turopolje-Museum. Die Fahrt geht weiter zur Verkündigungskirche und schließlich zur Holzkapelle St. Barbara. Die Linienbusse sind zuverlässig und bieten eine trockene Möglichkeit, die kulturellen Highlights der Region ohne langes Laufen im Regen zu verbinden.",
             "hu": "A Velika Gorica-i buszozás nagyrészt megvédi Önt az esőtől. A park után gyorsan eléri a Turopolje Múzeumot. Az út az Angyali Üdvözlet templomhoz, végül a Szent Borbála fatemplomhoz folytatódik. A menetrend szerinti buszok megbízhatóak, és száraz lehetőséget kínálnak a régió kulturális kincseinek összekötésére, hosszú esőben való gyaloglás nélkül.",
             "ro": "Călătoria cu autobuzul prin Velika Gorica vă protejează în mare parte de ploaie. După parc, ajungeți rapid la Muzeul Turopolje. Drumul continuă spre Biserica Bunei Vestiri și, în final, spre capela de lemn Sf. Barbara. Autobuzele sunt fiabile și oferă o modalitate uscată de a vedea punctele culturale fără a merge mult prin ploaie.",
-            "en": "Traveling by bus through Velika Gorica largely protects you from the rain. After the park, you quickly reach the Turopolje Museum. The journey continues to the Church of the Annunciation and finally to St. Barbara wooden chapel. Regular buses are reliable and offer a dry way to connect the region's cultural highlights without long walks in the rain."
+            "en": "Traveling by bus through Velika Gorica largely protects you from the rain. After the park, you quickly reach the Turopolje Museum. The journey continues to the Church of the Annunciation and finally to St. Barbara wooden chapel. Regular buses are reliable and offer a dry way to connect the region's cultural highlights without long walks in the rain.",
+            "hr": "Putovanje autobusom kroz Veliku Goricu uvelike vas štiti od kiše. Nakon parka brzo stižete do Turopoljskog muzeja. Putovanje se nastavlja do Crkve Navještenja i konačno do drvene kapele sv. Barbare. Redovni autobusi su pouzdani i nude suh način povezivanja kulturnih istaknutosti regije bez dugih šetnji po kiši."
           },
           "stops": [
             {
@@ -1458,7 +1581,8 @@
                 "de": "Die Bushaltestellen am Parkrand bieten teilweise Unterstand.",
                 "hu": "A park szélén lévő buszmegállók részben fedettek.",
                 "ro": "Stațiile de autobuz de la marginea parcului oferă parțial adăpost.",
-                "en": "Bus stops at the edge of the park offer some shelter."
+                "en": "Bus stops at the edge of the park offer some shelter.",
+                "hr": "Autobusne stanice na rubu parka nude određeno zaklon."
               }
             },
             {
@@ -1467,7 +1591,8 @@
                 "de": "Das Museum ist nur wenige Schritte von der zentralen Haltestelle entfernt.",
                 "hu": "A múzeum csak pár lépésre van a központi megállótól.",
                 "ro": "Muzeul este la doar câțiva pași de stația centrală.",
-                "en": "The museum is just a few steps from the central bus stop."
+                "en": "The museum is just a few steps from the central bus stop.",
+                "hr": "Muzej je samo nekoliko koraka od središnje autobusne stanice."
               }
             },
             {
@@ -1476,7 +1601,8 @@
                 "de": "Nutzen Sie den Kircheneingang als Regenschutz beim Warten auf den Bus.",
                 "hu": "Használja a templom bejáratát esővédelemnek buszra váráskor.",
                 "ro": "Folosiți intrarea bisericii ca protecție contra ploii în timp ce așteptați autobuzul.",
-                "en": "Use the church entrance for rain protection while waiting for the bus."
+                "en": "Use the church entrance for rain protection while waiting for the bus.",
+                "hr": "Koristite ulaz u crkvu kao zaštitu od kiše dok čekate autobus."
               }
             },
             {
@@ -1485,7 +1611,8 @@
                 "de": "Vom Busstopp zur Kapelle führt ein kurzer, oft nasser Fußweg.",
                 "hu": "A buszmegállótól a kápolnáig rövid, gyakran vizes gyalogút vezet.",
                 "ro": "De la stație la capelă este un drum scurt, adesea umed.",
-                "en": "A short, often wet path leads from the bus stop to the chapel."
+                "en": "A short, often wet path leads from the bus stop to the chapel.",
+                "hr": "Kratka, često mokra staza vodi od autobusne stanice do kapele."
               }
             }
           ],
@@ -1517,6 +1644,13 @@
               "Buses can be damp and cool during rain due to wet clothing.",
               "Bus frequency is higher on weekdays than on weekends.",
               "Wear waterproof shoes for the walk between the stop and the site."
+            ],
+            "hr": [
+              "Provjerite raspored u stvarnom vremenu kako biste smanjili čekanje na kiši.",
+              "Imajte kartu ili sitniš spreman kako biste izbjegli kašnjenja.",
+              "Autobusi mogu biti vlažni i hladni tijekom kiše zbog mokre odjeće.",
+              "Učestalost autobusa veća je radnim danima nego vikendom.",
+              "Nosite vodootpornu obuću za šetnju između stanice i odredišta."
             ]
           }
         },
@@ -1525,7 +1659,8 @@
             "de": "Die Nutzung öffentlicher Verkehrsmittel ist im Winter die wärmste Option in Velika Gorica. Nach dem frostigen Parkbesuch bietet der Bus eine kurze Aufwärmphase zum Museum. Die Route führt weiter zu den winterlich geschmückten Kirchen und der idyllischen Holzkapelle St. Barbara. Genießen Sie die vorbeiziehende Winterlandschaft aus dem beheizten Bus, bevor Sie den Abend gemütlich ausklingen lassen.",
             "hu": "A tömegközlekedés télen a legmelegebb opció Velika Goricában. A fagyos parki látogatás után a busz rövid felmelegedést kínál a múzeumig. Az út a téli díszbe öltözött templomokhoz és az idilli Szent Borbála fatemplomhoz folytatódik. Élvezze az elsuhanó téli tájat a fűtött buszból, mielőtt kényelmesen zárná az estét.",
             "ro": "Utilizarea transportului public este cea mai călduroasă opțiune iarna în Velika Gorica. După vizita în parcul înghețat, autobuzul oferă o scurtă încălzire până la muzeu. Traseul continuă spre bisericile decorate de iarnă și idilica capelă de lemn Sf. Barbara. Bucurați-vă de peisajul de iarnă din autobuzul încălzit înainte de a încheia seara confortabil.",
-            "en": "Using public transit is the warmest option in Velika Gorica during winter. After a frosty park visit, the bus offers a brief warm-up on the way to the museum. The route continues to winter-decorated churches and the idyllic St. Barbara wooden chapel. Enjoy the passing winter scenery from the heated bus before ending your evening cozily."
+            "en": "Using public transit is the warmest option in Velika Gorica during winter. After a frosty park visit, the bus offers a brief warm-up on the way to the museum. The route continues to winter-decorated churches and the idyllic St. Barbara wooden chapel. Enjoy the passing winter scenery from the heated bus before ending your evening cozily.",
+            "hr": "Korištenje javnog prijevoza najtoplija je opcija u Velikoj Gorici tijekom zime. Nakon mrazovitog posjeta parku, autobus nudi kratko zagrijavanje na putu do muzeja. Ruta se nastavlja do zimom ukrašenih crkava i idilične drvene kapele sv. Barbare. Uživajte u prolaznom zimskom krajoliku iz grijane linije prije nego što svoj večernji izlazak završite ugodno."
           },
           "stops": [
             {
@@ -1534,7 +1669,8 @@
                 "de": "Warten Sie in der Nähe der Haltestelle, um den Bus nicht zu verpassen.",
                 "hu": "Várjon a megálló közelében, hogy ne késse le a buszt.",
                 "ro": "Așteptați în apropierea stației pentru a nu pierde autobuzul.",
-                "en": "Wait near the stop to avoid missing the bus."
+                "en": "Wait near the stop to avoid missing the bus.",
+                "hr": "Pričekajte blizu stanice kako ne biste propustili autobus."
               }
             },
             {
@@ -1543,7 +1679,8 @@
                 "de": "Der kurze Fußweg von der Haltestelle ist bei Frost gut begehbar.",
                 "hu": "A megállótól vezető rövid sétaút fagyban is jól járható.",
                 "ro": "Scurta plimbare de la stație este ușoară chiar și pe ger.",
-                "en": "The short walk from the stop is manageable even in freezing weather."
+                "en": "The short walk from the stop is manageable even in freezing weather.",
+                "hr": "Kratka šetnja od stanice podnošljiva je čak i po mrazu."
               }
             },
             {
@@ -1552,7 +1689,8 @@
                 "de": "Die Haltestellen sind im Winter oft beleuchtet und sicher.",
                 "hu": "A megállók télen gyakran kivilágítottak és biztonságosak.",
                 "ro": "Stațiile sunt adesea iluminate și sigure iarna.",
-                "en": "Bus stops are often lit and safe in winter."
+                "en": "Bus stops are often lit and safe in winter.",
+                "hr": "Autobusne postaje često su osvijetljene i sigurne zimi."
               }
             },
             {
@@ -1561,7 +1699,8 @@
                 "de": "Beachten Sie die selteneren Busverbindungen in die Außenbezirke im Winter.",
                 "hu": "Ügyeljen a ritkább buszjáratokra a külső kerületekbe télen.",
                 "ro": "Atenție la frecvența redusă a autobuzelor spre periferie iarna.",
-                "en": "Note the less frequent bus connections to the outskirts in winter."
+                "en": "Note the less frequent bus connections to the outskirts in winter.",
+                "hr": "Obratite pozornost na rjeđe autobusne veze prema rubnim dijelovima zimi."
               }
             }
           ],
@@ -1593,6 +1732,13 @@
               "Snow can cause delays in the schedule; plan for extra time.",
               "Wear gloves, as the handrails in the bus can be very cold.",
               "The last return trip should be planned before 5:00 PM."
+            ],
+            "hr": [
+              "Autobusi su obično dobro grijani zimi.",
+              "Iskoristite vrijeme čekanja za brzu kavu u obližnjem kiosku.",
+              "Snijeg može uzrokovati kašnjenja u voznom redu; planirajte dodatno vrijeme.",
+              "Nosite rukavice, rukohvati u autobusu mogu biti vrlo hladni.",
+              "Posljednje povratno putovanje planirajte prije 17:00."
             ]
           }
         }

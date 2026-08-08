@@ -21,7 +21,8 @@
             "de": "Hafenviertel Riva",
             "hu": "Riva kikötőnegyed",
             "ro": "Zona portuară Riva",
-            "en": "Riva Waterfront"
+            "en": "Riva Waterfront",
+            "hr": "Riva – šetalište uz more"
           },
           "coords": [
             45.2745,
@@ -37,7 +38,7 @@
             "hu": "Figyeld a halászhajók mozgását egy reggeli kávé mellett.",
             "ro": "Urmăriți bărcile de pescuit la o cafea de dimineață.",
             "en": "Watch the fishing boats with your morning coffee.",
-            "hr": "Promatrajte ribarske brodice uz jutarnju kavu."
+            "hr": "Gledajte ribarske brodove uz jutarnju kavu."
           }
         },
         {
@@ -45,7 +46,8 @@
             "de": "Brodogradilište Kraljevica",
             "hu": "Kraljevica Hajógyár",
             "ro": "Șantierul Naval Kraljevica",
-            "en": "Kraljevica Shipyard"
+            "en": "Kraljevica Shipyard",
+            "hr": "Brodogradilište Kraljevica"
           },
           "coords": [
             45.2755,
@@ -69,7 +71,8 @@
             "de": "Dvorac Stari Grad",
             "hu": "Stari Grad kastély (Zrínyi-vár)",
             "ro": "Castelul Stari Grad",
-            "en": "Stari Grad Castle"
+            "en": "Stari Grad Castle",
+            "hr": "Stari grad – dvorac"
           },
           "coords": [
             45.2742,
@@ -93,7 +96,8 @@
             "de": "Mittagessen in einer Konoba",
             "hu": "Ebéd egy helyi konobában",
             "ro": "Prânz la o konoba locală",
-            "en": "Lunch in a local Konoba"
+            "en": "Lunch in a local Konoba",
+            "hr": "Ručak u lokalnoj konobi"
           },
           "coords": [
             45.2735,
@@ -109,7 +113,7 @@
             "hu": "Kóstold meg a Kvarner-öböl friss halait.",
             "ro": "Gustați peștele proaspăt din Golful Kvarner.",
             "en": "Taste fresh fish from the Kvarner Bay.",
-            "hr": "Kušajte svježu ribu iz Kvarnerskog zaljeva."
+            "hr": "Probajte svježu ribu iz Kvarnerskog zaljeva."
           }
         },
         {
@@ -117,7 +121,8 @@
             "de": "Dvorac Nova Kraljevica",
             "hu": "Nova Kraljevica kastély (Frangepán-vár)",
             "ro": "Castelul Nova Kraljevica",
-            "en": "Nova Kraljevica Castle"
+            "en": "Nova Kraljevica Castle",
+            "hr": "Dvorac Nova Kraljevica"
           },
           "coords": [
             45.2728,
@@ -141,7 +146,8 @@
             "de": "Crkva sv. Nikole",
             "hu": "Szent Miklós-templom",
             "ro": "Biserica Sf. Nicolae",
-            "en": "Church of St. Nicholas"
+            "en": "Church of St. Nicholas",
+            "hr": "Crkva sv. Nikole"
           },
           "coords": [
             45.2732,
@@ -157,7 +163,7 @@
             "hu": "Keresd a tengerészek fogadalmi ajándékait a belső térben.",
             "ro": "Căutați ofrandele votive ale marinarilor în interior.",
             "en": "Look for the votive offerings of sailors inside.",
-            "hr": "Potražite zavjetne darove pomoraca u unutrašnjosti."
+            "hr": "Potražite votivne darove pomoraca unutra."
           }
         },
         {
@@ -165,7 +171,8 @@
             "de": "Poluotok Oštro",
             "hu": "Oštro-félsziget",
             "ro": "Peninsula Oštro",
-            "en": "Oštro Peninsula"
+            "en": "Oštro Peninsula",
+            "hr": "Rt Oštro"
           },
           "coords": [
             45.2645,
@@ -189,7 +196,8 @@
             "de": "Naplemente a világítótoronynál",
             "hu": "Naplemente a világítótoronynál",
             "ro": "Apus la far",
-            "en": "Sunset at the Lighthouse"
+            "en": "Sunset at the Lighthouse",
+            "hr": "Zalazak sunca na svjetioniku"
           },
           "coords": [
             45.2625,
@@ -205,7 +213,7 @@
             "hu": "A nap legszebb zárása kilátással az Adriára.",
             "ro": "Cea mai frumoasă încheiere a zilei cu vedere la Adriatică.",
             "en": "The most beautiful end to the day with an Adriatic view.",
-            "hr": "Najljepši završetak dana uz pogled na Jadran."
+            "hr": "Najljepši kraj dana s pogledom na Jadran."
           }
         }
       ],
@@ -214,7 +222,7 @@
         "hu": "A napot Kraljevica történelmi kikötőjében indítjuk, ahol a patinás hajógyár ipari öröksége találkozik a tenger nyugalmával. Délelőtt a Zrínyi és Frangepán családok két impozáns kastélyát járjuk be, megismerve a horvát nemesség középkori hatalmát. Egy ízletes tengeri ebéd után a part mentén indulunk tovább.\n\nDélután az Oštro-félsziget strandjaié a főszerep, ahol a fenyvesek hűse és az Adria hűvös vize frissít fel. A napot a félsziget csúcsán, a világítótoronynál zárjuk, ahonnan látványos naplemente nyílik a Kvarner-öbölre és a közeli Krki-hídra.",
         "ro": "Ziua începe în portul istoric din Kraljevica, unde moștenirea industrială a șantierului naval se împletește cu liniștea mării. Dimineața este dedicată explorării celor două castele impunătoare ale familiilor Zrinski și Frankopan. După un prânz tradițional în centrul vechi, ne îndreptăm spre coastă.\n\nDupă-amiaza aparține relaxării pe peninsula Oštro, unde umbra pinilor și apa cristalină a Adriaticii oferă răcoarea necesară. Încheiem ziua la farul de la capătul peninsulei, locul ideal pentru a admira apusul peste Golful Kvarner și impunătorul pod Krk.",
         "en": "Start your day at the historic harbor of Kraljevica, where the industrial heritage of the shipyard meets the calm of the sea. Spend your morning exploring the two grand castles of the Zrinski and Frankopan families, diving into medieval history. After a traditional seafood lunch, follow the scenic coastal path.\n\nThe afternoon is all about relaxation on the Oštro peninsula, featuring shaded pine groves and crystal-clear waters. Cap off the day with a stroll to the lighthouse at the peninsula's tip, the perfect spot to watch the sun dip below the horizon with views of the Kvarner Bay and the Krk Bridge.",
-        "hr": "Započnite dan u povijesnoj luci Kraljevice, gdje se industrijska baština brodogradilišta susreće s mirom mora. Provedite jutro istražujući dva veličanstvena dvorca obitelji Zrinski i Frankopan, uranjajući u srednjovjekovnu povijest. Nakon tradicionalnog ručka s morskim plodovima, slijedite slikovitu obalnu stazu.\n\nPoslijepodne je rezervirano za opuštanje na poluotoku Oštro, koji nudi sjenovite borove šumarke i kristalno čisto more. Dan upotpunite šetnjom do svjetionika na samom vrhu poluotoka, savršenog mjesta za promatranje zalaska sunca s pogledom na Kvarnerski zaljev i Krčki most."
+        "hr": "Započnite dan u povijesnoj luci Kraljevica, gdje se industrijska baština brodogradilišta susreće s mirom mora. Provedite jutro istražujući dva velika dvorca obitelji Zrinski i Frankopan, uranjajući u srednjovjekovnu povijest. Nakon tradicionalnog ručka s plodovima mora, krenite slikovitom obalnom stazom.\n\nPoslijepodne je rezervirano za opuštanje na rt Oštro, s hladenim borovim šumama i kristalno čistim vodama. Završite dan šetnjom do svjetionika na vrhu rta, savršenom mjestu za promatranje zalaska sunca uz pogled na Kvarnerski zaljev i Krčki most."
       },
       "gastro_picks": {
         "de": [
@@ -388,10 +396,10 @@
           "Kraljevica is much quieter and more authentic than nearby tourist hubs."
         ],
         "hr": [
-          "Nosite udobnu obuću za šetnju do poluotoka Oštro.",
-          "Dvorci često ugošćuju lokalna kulturna događanja i izložbe.",
-          "Ponesite kupaći kostim, more na Oštru je iznimno čisto.",
-          "Kraljevica je puno mirnija i autentičnija od obližnjih turističkih središta."
+          "Nosite udobne cipele za šetnju do rta Oštro.",
+          "Dvorci često ugovaraju lokalne kulturne događaje i izložbe.",
+          "Ponesite kupaći kostim, voda na Oštru je iznimno bistra.",
+          "Kraljevica je mnogo mirnija i autentičnija od obližnjih turističkih centara."
         ]
       },
       "variants": {
@@ -401,7 +409,7 @@
             "hu": "Reggel a párás kikötőben a ködből előbukkanó hajók látványa fogadja. Délben keressen menedéket egy konobában egy tál forró maneštra mellett. Délután a Frankopán-kastélyok vastag falai között kalandozhat szárazon. Este egy rövid, esernyős séta az Oštro-félszigeten, ahol a morajló tenger látványa különösen drámai.",
             "ro": "Dimineața pe faleza cețoasă, cu navele apărând din negură. La prânz, refugiu într-o konoba caldă cu o tocană de pește aburindă. După-amiaza, explorarea castelelor Frankopan, ale căror ziduri groase țin ploaia la distanță. Seara, o plimbare scurtă cu umbrela pe peninsula Oštro, cu marea zbuciumată în fundal.",
             "en": "Morning at the misty Riva with ships emerging from the haze. At noon, seek refuge in a warm konoba over a steaming bowl of fish stew. In the afternoon, explore the Frankopan castles where thick walls keep the rain out. In the evening, a short, atmospheric walk with an umbrella on Oštro Peninsula as the waves crash below.",
-            "hr": "Jutro na maglovitoj Rivi s brodovima koji izranjaju iz izmaglice. U podne potražite utočište u toploj konobi uz zdjelu tople riblje juhe. Poslijepodne istražite dvorce Frankopan gdje debeli zidovi ne propuštaju kišu. Navečer, kratka, atmosferska šetnja s kišobranom na poluotoku Oštro dok valovi udaraju ispod vas."
+            "hr": "Jutro na maglovitoj Rivi s brodovima koji izranjaju iz izmaglice. U podne potražite zaklon u toploj konobi uz paru ribljeg gulaša. Popodne istražite Frankopanske dvorce gdje debele zidine drže kišu van. Navečer kratak, atmosferičan pohod s kišobranom na poluotoku Oštro dok se valovi razbijaju dolje."
           },
           "stops": [
             {
@@ -411,7 +419,7 @@
                 "hu": "Vigyázzon, a kövek vizesen nagyon csúszósak.",
                 "ro": "Atenție, pietrele sunt foarte alunecoase când sunt ude.",
                 "en": "Careful, the stones are very slippery when wet.",
-                "hr": "Oprez, kamenje je vrlo klizavo kad je mokro."
+                "hr": "Pažnja, kamenje je vrlo klizavo kad je mokro."
               }
             },
             {
@@ -441,7 +449,7 @@
                 "hu": "Kóstolja meg a meleg maneštra levest az eső ellen.",
                 "ro": "Încercați supa caldă 'Maneštra' împotriva ploii.",
                 "en": "Try the warm 'Maneštra' soup to beat the rain.",
-                "hr": "Probajte toplu maneštru kako biste pobijedili kišu."
+                "hr": "Probajte toplu maneštru protiv kiše."
               }
             },
             {
@@ -451,7 +459,7 @@
                 "hu": "Látogassa meg a kastély belsejében lévő látogatóközpontot.",
                 "ro": "Vizitați centrul de vizitare din interiorul castelului.",
                 "en": "Visit the visitor center inside the castle.",
-                "hr": "Posjetite interpretacijski centar unutar dvorca."
+                "hr": "Posjetite posjetiteljski centar unutar dvorca."
               }
             },
             {
@@ -461,7 +469,7 @@
                 "hu": "Csendes, fedett hely egy pillanatnyi nyugalomhoz.",
                 "ro": "Un loc liniștit și acoperit pentru un moment de tăcere.",
                 "en": "A quiet, covered spot for a moment of silence.",
-                "hr": "Mirno, natkriveno mjesto za trenutak tišine."
+                "hr": "Tih, natkriven prostor za trenutak tišine."
               }
             },
             {
@@ -481,7 +489,7 @@
                 "hu": "Élvezze a drámai felhőket a tenger felett.",
                 "ro": "Admirați norii dramatici deasupra mării.",
                 "en": "Enjoy the dramatic clouds over the sea.",
-                "hr": "Uživajte u dramatičnim oblacima iznad mora."
+                "hr": "Uživajte u dramatičnim oblacima nad morem."
               }
             }
           ],
@@ -511,10 +519,10 @@
               "Local cuisine is excellent for warming up."
             ],
             "hr": [
-              "Nosite vodootpornu obuću za šetnju uz more.",
+              "Nosite vodootpornu obuću za šetnju uz obalu.",
               "Dvorci pružaju sate zaklona od kiše.",
-              "Čvrsti olujni kišobran bolji je od laganih verzija.",
-              "Lokalna kuhinja izvrsna je za zagrijavanje."
+              "Čvrst olujni kišobran bolji je od laganih.",
+              "Domaća kuhinja je izvrsna za zagrijavanje."
             ]
           }
         },
@@ -524,7 +532,7 @@
             "hu": "Friss reggel az Adrián, a Bura tisztító ereje söpör végig a vízen. Délben melegedjen fel egy barátságos tavernban. Délután a kastélyok falai nyújtanak menedéket a metsző szél elől. A nap korán ér véget a világítótoronynál látható látványos naplementével, mielőtt egy forró italra vágyna.",
             "ro": "O dimineață proaspătă la Adriatică, cu vântul Bura măturând apa. La prânz, încălziți-vă într-o tavernă primitoare. După-amiaza, zidurile castelelor oferă adăpost contra vântului tăios. Ziua se încheie devreme cu un apus spectaculos la far, înainte de a căuta o băutură caldă.",
             "en": "A crisp morning by the Adriatic, with the Bura wind sweeping across the water. At noon, warm up in a cozy tavern. In the afternoon, the castle walls provide shelter from the biting wind. The day ends early with a spectacular sunset at the lighthouse before heading for a hot drink.",
-            "hr": "Vedro jutro na Jadranu s burom koja briše preko vode. U podne se zagrijte u ugodnoj konobi. Poslijepodne zidine dvorca pružaju zaklon od oštrog vjetra. Dan rano završava spektakularnim zalaskom sunca kod svjetionika prije odlaska na topli napitak."
+            "hr": "Svježe jutro uz Jadran, s burom kako nosi vjetar preko mora. U podne ugrijte se u ugodnoj konobi. Popodne zidovi dvorca pružaju zaklon od oštrog vjetra. Dan se rano završava spektakularnim zalaskom sunca na svjetioniku prije povratka na topao napitak."
           },
           "stops": [
             {
@@ -534,7 +542,7 @@
                 "hu": "Öltözzön rétegesen, a vízparti szél hideg.",
                 "ro": "Îmbrăcați-vă gros, vântul de pe faleză este rece.",
                 "en": "Dress in layers, the wind by the water is cold.",
-                "hr": "Odjenite se slojevito, vjetar uz more je hladan."
+                "hr": "Obucite se slojevito, vjetar kraj vode je hladan."
               }
             },
             {
@@ -544,7 +552,7 @@
                 "hu": "Rövid betekintés az ipari múltba téli fényeknél.",
                 "ro": "O scurtă privire în istoria industrială în lumina iernii.",
                 "en": "A quick look into industrial history in winter light.",
-                "hr": "Brzi pogled u industrijsku povijest na zimskom svjetlu."
+                "hr": "Brzi uvid u industrijsku povijest na zimskoj svjetlosti."
               }
             },
             {
@@ -554,7 +562,7 @@
                 "hu": "A belső terek jóval melegebbek a kinti szélénél.",
                 "ro": "Interioarele sunt mult mai calde decât exteriorul.",
                 "en": "The interiors are much warmer than the outside wind.",
-                "hr": "Unutrašnjost je mnogo toplija od vanjskog vjetra."
+                "hr": "Unutrašnjost je znatno toplija od vanjskog vjetra."
               }
             },
             {
@@ -564,7 +572,7 @@
                 "hu": "Élvezzen egy pohár helyi vörösbort a felmelegedéshez.",
                 "ro": "Savurați un pahar de vin roșu local pentru a vă încălzi.",
                 "en": "Enjoy a glass of local red wine to warm up.",
-                "hr": "Uživajte u čaši domaćeg crnog vina za zagrijavanje."
+                "hr": "Ugrijte se čašom lokalnog crnog vina."
               }
             },
             {
@@ -574,7 +582,7 @@
                 "hu": "Tökéletes egy alapos látogatáshoz hőség nélkül.",
                 "ro": "Perfect pentru o vizită detaliată fără căldură.",
                 "en": "Perfect for an in-depth visit without the summer heat.",
-                "hr": "Savršeno za detaljan obilazak bez ljetnih vrućina."
+                "hr": "Savršeno za temeljit posjet bez ljetne vrućine."
               }
             },
             {
@@ -594,7 +602,7 @@
                 "hu": "A Bura itt nagyon erősen fújhat, legyen óvatos.",
                 "ro": "Vântul Bura poate sufla foarte tare aici, atenție.",
                 "en": "The Bura wind can blow very strongly here, be careful.",
-                "hr": "Bura ovdje može puhati vrlo snažno, budite oprezni."
+                "hr": "Bura ovdje može puhati vrlo jako, budite oprezni."
               }
             },
             {
@@ -604,7 +612,7 @@
                 "hu": "A naplemente télen már 16:30 körül bekövetkezik.",
                 "ro": "Apusul soarelui este deja în jurul orei 16:30 iarna.",
                 "en": "Sunset is already around 16:30 in winter.",
-                "hr": "Zalazak sunca je zimi već oko 16:30."
+                "hr": "Zalazak sunca zimi je već oko 16:30."
               }
             }
           ],
@@ -634,10 +642,10 @@
               "Take hot drinks in thermoses with you."
             ],
             "hr": [
-              "Odjeća otporna na vjetar je obavezna zbog bure.",
-              "Planirajte povratak prije nego što padne mrak.",
+              "Vjetrootporna odjeća je obavezna zbog bure.",
+              "Isplanirajte povratak prije nego što padne mrak.",
               "Dvorci su najbolja utočišta.",
-              "Ponesite tople napitke u termosicama sa sobom."
+              "Ponesite tople napitke u termosima."
             ]
           }
         }
@@ -656,7 +664,8 @@
             "de": "Dvorac Nova Kraljevica",
             "hu": "Nova Kraljevica kastély",
             "ro": "Castelul Nova Kraljevica",
-            "en": "Nova Kraljevica Castle"
+            "en": "Nova Kraljevica Castle",
+            "hr": "Dvorac Nova Kraljevica"
           },
           "coords": [
             45.2728,
@@ -672,7 +681,7 @@
             "hu": "Biztonságos biciklitároló az udvarban.",
             "ro": "Parcare sigură pentru biciclete în curtea interioară.",
             "en": "Secure bike parking available in the courtyard.",
-            "hr": "Siguran parking za bicikle dostupan je u dvorištu."
+            "hr": "Osigurano parkiranje bicikala dostupno u dvorištu."
           }
         },
         {
@@ -680,7 +689,8 @@
             "de": "Dvorac Stari Grad",
             "hu": "Stari Grad kastély",
             "ro": "Castelul Stari Grad",
-            "en": "Stari Grad Castle"
+            "en": "Stari Grad Castle",
+            "hr": "Dvorac Stari Grad"
           },
           "coords": [
             45.2742,
@@ -696,7 +706,7 @@
             "hu": "Csak egy rövid gurulás választja el a két várat.",
             "ro": "O scurtă plimbare prin străduțe separă cele două castele.",
             "en": "Only a short ride through the alleys separates the two castles.",
-            "hr": "Samo kratka vožnja uličicama dijeli dva dvorca."
+            "hr": "Samo kratka vožnja kroz uličice dijeli dva dvorca."
           }
         },
         {
@@ -704,7 +714,8 @@
             "de": "Mittagessen in der Riva",
             "hu": "Ebéd a Riván",
             "ro": "Prânz pe Riva",
-            "en": "Lunch at the Riva"
+            "en": "Lunch at the Riva",
+            "hr": "Ručak na Rivi"
           },
           "coords": [
             45.2745,
@@ -720,7 +731,7 @@
             "hu": "Élvezd a tengeri kilátást evés közben.",
             "ro": "Bucurați-vă de vederea la mare în timp ce mâncați.",
             "en": "Enjoy the sea view while you dine.",
-            "hr": "Uživajte u pogledu na more dok objedujete."
+            "hr": "Uživajte u pogledu na more dok jedete."
           }
         },
         {
@@ -728,7 +739,8 @@
             "de": "Crkva sv. Nikole",
             "hu": "Szent Miklós-templom",
             "ro": "Biserica Sf. Nicolae",
-            "en": "Church of St. Nicholas"
+            "en": "Church of St. Nicholas",
+            "hr": "Crkva sv. Nikole"
           },
           "coords": [
             45.2732,
@@ -752,7 +764,8 @@
             "de": "Küstentour nach Oštro",
             "hu": "Part menti tekerés Oštro felé",
             "ro": "Tur de coastă spre Oštro",
-            "en": "Coastal ride to Oštro"
+            "en": "Coastal ride to Oštro",
+            "hr": "Obalna vožnja prema Oštru"
           },
           "coords": [
             45.268,
@@ -768,7 +781,7 @@
             "hu": "Állj meg fotózni a Krki-hidat útközben.",
             "ro": "Opriți pentru poze cu podul Krk pe drum.",
             "en": "Stop for photos of the Krk bridge along the way.",
-            "hr": "Zaustavite se radi fotografiranja Krčkog mosta putem."
+            "hr": "Stajte za fotografije mosta Krk usput."
           }
         },
         {
@@ -776,7 +789,8 @@
             "de": "Poluotok Oštro (Strandzeit)",
             "hu": "Oštro-félsziget (strandolás)",
             "ro": "Peninsula Oštro (timp de plajă)",
-            "en": "Oštro Peninsula (Beach time)"
+            "en": "Oštro Peninsula (Beach time)",
+            "hr": "Poluotok Oštro (Vrijeme za plažu)"
           },
           "coords": [
             45.2645,
@@ -792,7 +806,7 @@
             "hu": "Tekerj a félsziget fenyőerdőinek ösvényein.",
             "ro": "Pedalați pe potecile din pădurea de pini a peninsulei.",
             "en": "Ride the paths through the peninsula's pine forest.",
-            "hr": "Vozite se stazama kroz borovu šumu poluotoka."
+            "hr": "Vozite stazama kroz borovu šumu poluotoka."
           }
         },
         {
@@ -800,7 +814,8 @@
             "de": "Brodogradilište Kraljevica",
             "hu": "Kraljevica Hajógyár",
             "ro": "Șantierul Naval Kraljevica",
-            "en": "Kraljevica Shipyard"
+            "en": "Kraljevica Shipyard",
+            "hr": "Brodogradilište Kraljevica"
           },
           "coords": [
             45.2755,
@@ -816,7 +831,7 @@
             "hu": "Egy rövid pillantás a darukra a lemenő napfényben.",
             "ro": "O privire scurtă spre macarale la apus.",
             "en": "A quick look at the cranes in the setting sun.",
-            "hr": "Brzi pogled na dizalice u zalasku sunca."
+            "hr": "Kratki pogled na dizalice u zalazećem suncu."
           }
         }
       ],
@@ -825,7 +840,7 @@
         "hu": "Biciklivel Kraljevica és környéke rendkívül rugalmasan bejárható. A központ történelmi kastélyai után egy kellemes tengerparti tekerés következik az Oštro-félsziget felé. Az út során végig csodás kilátás nyílik az Adriára és a Krki-hídra. Oštrón felfedezheted az erdei ösvényeket vagy pihenhetsz a parton, mielőtt visszatérnél a kikötőbe.",
         "ro": "Cu bicicleta, puteți explora Kraljevica și împrejurimile sale cu mare flexibilitate. După vizitarea castelelor istorice din centru, urmează o cursă plăcută de-a lungul coastei spre peninsula Oštro. Drumul oferă vederi superbe spre Adriatică și podul Krk. Pe Oštro, puteți explora potecile de pădure sau vă puteți relaxa la malul mării înainte de a reveni în port.",
         "en": "Cycling offers great flexibility to explore Kraljevica and its coast. After visiting the historical castles in the center, enjoy a pleasant ride along the shore towards the Oštro peninsula. The route provides stunning views of the Adriatic and the Krk bridge. On Oštro, explore the pine forest trails or relax by the sea before heading back to the harbor.",
-        "hr": "Biciklizam nudi veliku fleksibilnost za istraživanje Kraljevice i njezine obale. Nakon posjeta povijesnim dvorcima u centru, uživajte u ugodnoj vožnji uz obalu prema poluotoku Oštro. Ruta nudi zadivljujuće vidike na Jadran i Krčki most. Na Oštru istražite staze kroz borovu šumu ili se opustite uz more prije povratka u luku."
+        "hr": "Bicikliranje nudi veliku fleksibilnost za istraživanje Kraljevice i njezine obale. Nakon posjeta povijesnim dvorcima u centru, uživajte u ugodnoj vožnji uz obalu prema poluotoku Oštro. Ruta pruža zadivljujuće poglede na Jadran i most Krk. Na Oštru istražite staze kroz borovu šumu ili se opustite uz more prije povratka u luku."
       },
       "gastro_picks": {
         "de": [
@@ -950,9 +965,9 @@
           "Be mindful of pedestrians when riding in the harbor area."
         ],
         "hr": [
-          "Ruta do Oštra je uglavnom ravna i laka za vožnju.",
+          "Ruta prema Oštru je većinom ravna i laka za vožnju.",
           "Nosite dovoljno vode, posebno tijekom ljetnih mjeseci.",
-          "Pazite na pješake dok se vozite u području luke."
+          "Vodite računa o pješacima pri vožnji u lučkom području."
         ]
       },
       "variants": {
@@ -962,7 +977,7 @@
             "hu": "Frissítő tekerés a parton, ahol a tenger és az eső összeér. Délben pihenő a városban. Délután látogatás a várfalak védelmében rejlő kulturális kincsekhez. Az út Oštro felé rövid és intenzív, tökéletes az elemekkel való szembenézéshez a felmelegedés előtt.",
             "ro": "O plimbare revigorantă pe coastă, unde marea și ploaia se contopesc. La prânz, pauză de uscare în oraș. După-amiaza, vizită la comorile culturale la adăpostul zidurilor cetății. Drumul spre Oštro este scurt și intens, perfect pentru a înfrunta elementele înainte de încălzire.",
             "en": "A refreshing ride along the coast where sea and rain merge. At noon, a drying break in town. In the afternoon, visit cultural treasures sheltered by castle walls. The ride to Oštro is short and brisk, perfect for facing the elements before warming up again.",
-            "hr": "Osvježavajuća vožnja uz obalu gdje se spajaju more i kiša. U podne, pauza za sušenje u gradu. Poslijepodne posjetite kulturna blaga zaklonjena zidinama dvorca. Vožnja do Oštra je kratka i brza, savršena za suočavanje s elementima prije ponovnog zagrijavanja."
+            "hr": "Osvježavajuća vožnja uz obalu gdje se more i kiša stapaju. U podne stanka za sušenje u gradu. Popodne posjetite kulturna blaga zaštićena zidovima dvorca. Vožnja do Oštra je kratka i brza, savršena za suočavanje s elementima prije ponovnog zagrijavanja."
           },
           "stops": [
             {
@@ -972,7 +987,7 @@
                 "hu": "Parkolja le a bringát a fedett bejáratnál.",
                 "ro": "Parcați bicicleta în zona de intrare acoperită.",
                 "en": "Park your bike in the covered entrance area.",
-                "hr": "Parkirajte bicikl u natkrivenom ulaznom prostoru."
+                "hr": "Parkirajte bicikl na natkrivenom ulazu."
               }
             },
             {
@@ -1002,7 +1017,7 @@
                 "hu": "Rövid pihenő szárazon a továbbindulás előtt.",
                 "ro": "Scurtă pauză la uscat înainte de a pleca mai departe.",
                 "en": "Short break in the dry before moving on.",
-                "hr": "Kratka stanka na suhom prije nastavka puta."
+                "hr": "Kratka pauza u suhom prije nastavka."
               }
             },
             {
@@ -1012,7 +1027,7 @@
                 "hu": "Vigyázzon a tócsákra és a csúszós aszfaltra.",
                 "ro": "Atenție la bălți și la asfaltul alunecos.",
                 "en": "Watch out for puddles and slippery asphalt.",
-                "hr": "Pazite na lokve i klizav asfalt."
+                "hr": "Pazite na lokve i klizavi asfalt."
               }
             },
             {
@@ -1022,7 +1037,7 @@
                 "hu": "A fenyők alatt némi védelmet talál az eső ellen.",
                 "ro": "Sub pini veți găsi ceva protecție contra ploii.",
                 "en": "Find some rain protection under the pine trees.",
-                "hr": "Pronađite zaštitu od kiše ispod borova."
+                "hr": "Pronađite zaklon od kiše pod borovima."
               }
             },
             {
@@ -1062,10 +1077,10 @@
               "Mudguards will keep you much drier."
             ],
             "hr": [
-              "Potpuna kišna oprema neophodna je za vožnju.",
-              "Provjerite kočnice u mokrim uvjetima.",
-              "Izbjegavajte obojene linije na cesti.",
-              "Blatobrani će vas održati znatno sušima."
+              "Potpuna kišna oprema je bitna za vožnju.",
+              "Provjerite kočnice u vlažnim uvjetima.",
+              "Izbjegavajte obojane crtice na cesti.",
+              "Blatobrani će vas znatno držati sušima."
             ]
           }
         },
@@ -1075,7 +1090,7 @@
             "hu": "Gyors tekerés a téli széllel szemben, a tiszta levegő felélénkíti a szellemet. Délben melegedő megálló a központban. Délután a történelmi helyszínek szélvédett betekintést nyújtanak a múltba. Egy gyors kanyar Oštro felé magányos utakkal és tágas kilátással jutalmaz, mielőtt a hideg visszatérésre intene.",
             "ro": "Pedalare rapidă contra vântului de iarnă, aerul curat revigorează spiritul. La prânz, oprire pentru încălzire în centru. După-amiaza, siturile istorice oferă o privire în trecut, ferită de vânt. O tură rapidă spre Oštro vă răsplătește cu drumuri pustii și vederi ample.",
             "en": "Brisk cycling against the winter wind, the clear air awakens the spirit. At noon, a warming stop in the center. In the afternoon, historic sites offer a wind-sheltered glimpse into the past. A quick ride to Oštro rewards with lonely paths and wide views before the cold urges a return.",
-            "hr": "Žustra vožnja biciklom protiv zimskog vjetra, čisti zrak budi duh. U podne, postaja za zagrijavanje u centru. Poslijepodne povijesna mjesta nude pogled u prošlost zaklonjen od vjetra. Brza vožnja do Oštra nagrađuje usamljenim stazama i širokim vidicima prije nego hladnoća potakne na povratak."
+            "hr": "Brza vožnja protiv zimskog vjetra, čist zrak budi duh. U podne zagrijavanje u centru. Popodne povijesne lokacije nude zaklon od vjetra i pogled u prošlost. Brza vožnja do Oštra nagrađuje osamljenim stazama i širokim pogledima prije nego hladnoća pozove na povratak."
           },
           "stops": [
             {
@@ -1085,7 +1100,7 @@
                 "hu": "Védett hely a kerékpárok leállításához.",
                 "ro": "Un loc protejat pentru a lăsa bicicletele.",
                 "en": "A sheltered spot to park your bicycles.",
-                "hr": "Zaklonjeno mjesto za parkiranje vaših bicikala."
+                "hr": "Natkriveno mjesto za parkiranje vaših bicikala."
               }
             },
             {
@@ -1095,7 +1110,7 @@
                 "hu": "Melegedjen fel a kiállítótermekben.",
                 "ro": "Încălziți-vă în sălile de expoziție.",
                 "en": "Warm up in the exhibition rooms.",
-                "hr": "Zagrijte se u izložbenim prostorima."
+                "hr": "Ugrijte se u izložbenim prostorijama."
               }
             },
             {
@@ -1105,7 +1120,7 @@
                 "hu": "A forró csokoládé nagyon ajánlott a tekerés után.",
                 "ro": "Ciocolata caldă este foarte recomandată după drum.",
                 "en": "Hot chocolate is highly recommended after the ride.",
-                "hr": "Vruća čokolada se toplo preporučuje nakon vožnje."
+                "hr": "Topla čokolada je snažno preporučljiva nakon vožnje."
               }
             },
             {
@@ -1115,7 +1130,7 @@
                 "hu": "Csendes pillanat távol a hideg tengeri széltől.",
                 "ro": "Un moment liniștit departe de vântul rece marin.",
                 "en": "A quiet moment away from the cold sea wind.",
-                "hr": "Mirni trenutak daleko od hladnog morskog vjetra."
+                "hr": "Tih trenutak daleko od hladnog morskog vjetra."
               }
             },
             {
@@ -1125,7 +1140,7 @@
                 "hu": "Viseljen kesztyűt a jeges menetszél ellen.",
                 "ro": "Purtați mănuși contra vântului înghețat de mers.",
                 "en": "Wear gloves against the icy headwind.",
-                "hr": "Nosite rukavice protiv ledenog čeonog vjetra."
+                "hr": "Nosite rukavice protiv ledenog vjetra u lice."
               }
             },
             {
@@ -1135,7 +1150,7 @@
                 "hu": "Élvezze a téli, üres strand nyugalmát.",
                 "ro": "Bucurați-vă de liniștea plajei pustii de iarnă.",
                 "en": "Enjoy the peace of the winter-empty beach.",
-                "hr": "Uživajte u miru zimski prazne plaže."
+                "hr": "Uživajte u miru zimi prazne plaže."
               }
             },
             {
@@ -1145,7 +1160,7 @@
                 "hu": "A hajógyár téli fényben különösen nyersnek tűnik.",
                 "ro": "Șantierul naval pare deosebit de brut în lumina iernii.",
                 "en": "The shipyard area looks especially raw in winter light.",
-                "hr": "Područje brodogradilišta izgleda posebno sirovo na zimskom svjetlu."
+                "hr": "Područje brodogradilišta izgleda posebno sirovo u zimskom svjetlu."
               }
             }
           ],
@@ -1176,9 +1191,9 @@
             ],
             "hr": [
               "Termo donje rublje i slojevi su važni.",
-              "Pazite na poledicu na mostovima.",
+              "Pazite na zaleđene dijelove na mostovima.",
               "Koristite tople rukavice i štitnike za uši.",
-              "Zimi sunce zalazi vrlo rano."
+              "Sunce zalazi vrlo rano zimi."
             ]
           }
         }
@@ -1197,7 +1212,8 @@
             "de": "Zentrum Kraljevica (Parkplatz)",
             "hu": "Kraljevica központ (Parkoló)",
             "ro": "Centru Kraljevica (Parcare)",
-            "en": "Kraljevica Center (Parking)"
+            "en": "Kraljevica Center (Parking)",
+            "hr": "Centar Kraljevice (Parking)"
           },
           "coords": [
             45.2741,
@@ -1213,7 +1229,7 @@
             "hu": "Parkolj le itt az első gyalogos felfedezéshez.",
             "ro": "Parcați aici pentru primul tur pietonal.",
             "en": "Park here for the first walking cluster tour.",
-            "hr": "Parkirajte ovdje za prvi pješački obilazak."
+            "hr": "Parkirajte ovdje za prvu pješačku turu grupom atrakcija."
           }
         },
         {
@@ -1221,7 +1237,8 @@
             "de": "Brodogradilište Kraljevica",
             "hu": "Kraljevica Hajógyár",
             "ro": "Șantierul Naval Kraljevica",
-            "en": "Kraljevica Shipyard"
+            "en": "Kraljevica Shipyard",
+            "hr": "Brodogradilište Kraljevica"
           },
           "coords": [
             45.2755,
@@ -1245,7 +1262,8 @@
             "de": "Dvorac Stari Grad",
             "hu": "Stari Grad kastély",
             "ro": "Castelul Stari Grad",
-            "en": "Stari Grad Castle"
+            "en": "Stari Grad Castle",
+            "hr": "Dvorac Stari Grad"
           },
           "coords": [
             45.2742,
@@ -1261,7 +1279,7 @@
             "hu": "A Frangepán kulturális útvonal része.",
             "ro": "Parte din ruta culturală a Frankopanilor.",
             "en": "Part of the Frankopan cultural route.",
-            "hr": "Dio kulturne rute Putovima Frankopana."
+            "hr": "Dio Frankopanske kulturne rute."
           }
         },
         {
@@ -1269,7 +1287,8 @@
             "de": "Ebéd a városban",
             "hu": "Ebéd a városban",
             "ro": "Prânz în oraș",
-            "en": "Lunch in town"
+            "en": "Lunch in town",
+            "hr": "Ručak u gradu"
           },
           "coords": [
             45.2735,
@@ -1285,7 +1304,7 @@
             "hu": "Mediterrán konyha sétatávolságra.",
             "ro": "Bucătărie mediteraneană la câțiva pași.",
             "en": "Mediterranean cuisine within walking distance.",
-            "hr": "Mediteranska kuhinja na pješačkoj udaljenosti."
+            "hr": "Mediteranska kuhinja na pješačnoj udaljenosti."
           }
         },
         {
@@ -1293,7 +1312,8 @@
             "de": "Dvorac Nova Kraljevica",
             "hu": "Nova Kraljevica kastély",
             "ro": "Castelul Nova Kraljevica",
-            "en": "Nova Kraljevica Castle"
+            "en": "Nova Kraljevica Castle",
+            "hr": "Dvorac Nova Kraljevica"
           },
           "coords": [
             45.2728,
@@ -1309,7 +1329,7 @@
             "hu": "Látogasd meg a kastélymúzeumot.",
             "ro": "Vizitați muzeul castelului.",
             "en": "Visit the castle museum.",
-            "hr": "Posjetite muzej u dvorcu."
+            "hr": "Posjetite dvorac-muzej."
           }
         },
         {
@@ -1317,7 +1337,8 @@
             "de": "Poluotok Oštro (Fahrt)",
             "hu": "Oštro-félsziget (autóval)",
             "ro": "Peninsula Oštro (cu mașina)",
-            "en": "Oštro Peninsula (by car)"
+            "en": "Oštro Peninsula (by car)",
+            "hr": "Poluotok Oštro (autom)"
           },
           "coords": [
             45.2645,
@@ -1333,7 +1354,7 @@
             "hu": "Rövid gurulás a második zónába; parkolás a strandnál.",
             "ro": "Scurtă deplasare spre a doua zonă; parcare la plajă.",
             "en": "Short drive to the second cluster; parking available at the beach.",
-            "hr": "Kratka vožnja do drugog klastera; parking dostupan kod plaže."
+            "hr": "Kratka vožnja do druge grupe; parking dostupan na plaži."
           }
         },
         {
@@ -1341,7 +1362,8 @@
             "de": "Aussichtspunkt Krk-Brücke",
             "hu": "Krki-híd kilátópont",
             "ro": "Punct de belvedere podul Krk",
-            "en": "Krk Bridge Viewpoint"
+            "en": "Krk Bridge Viewpoint",
+            "hr": "Vidikovac na most Krk"
           },
           "coords": [
             45.2675,
@@ -1357,7 +1379,7 @@
             "hu": "Látványos kilátás a mérnöki csodára.",
             "ro": "Vedere spectaculoasă asupra minunii de inginerie.",
             "en": "Spectacular view of the engineering marvel.",
-            "hr": "Spektakularan pogled na graditeljsko čudo."
+            "hr": "Spektakularan pogled na inženjersko remek-djelo."
           }
         },
         {
@@ -1365,7 +1387,8 @@
             "de": "Sonnenuntergang am Wasser",
             "hu": "Naplemente a parton",
             "ro": "Apus pe mal",
-            "en": "Sunset by the shore"
+            "en": "Sunset by the shore",
+            "hr": "Zalazak sunca uz obalu"
           },
           "coords": [
             45.2745,
@@ -1390,7 +1413,7 @@
         "hu": "Ez az autós nap a kulturális felfedezést ötvözi a strandolással. Először a központban parkolunk le, hogy gyalogosan járjuk be a történelmi örökséget, a hajógyárat és a kastélyokat. Egy kényelmes ebéd után az Oštro-félszigetre autózunk, ahol a tágas öböl és a tiszta víz vár. Egy rövid kitérő a Krki-hídra néző kilátóhoz teszi teljessé a programot, mielőtt a kikötőben élveznénk a naplementét.",
         "ro": "Această zi cu mașina îmbină descoperirile culturale cu relaxarea la plajă. Mai întâi parcăm în centru și explorăm pe jos moștenirea istorică, șantierul naval și castelele. După un prânz liniștit, mergem cu mașina spre peninsula Oštro, unde ne așteaptă golful larg și apa curată. O scurtă oprire la un punct de belvedere spre podul Krk completează programul înainte de apusul în port.",
         "en": "This car tour combines cultural discovery with beach relaxation. Start by parking in the center to explore the historical heritage, the shipyard, and the castles on foot. After a relaxed lunch, drive to the Oštro peninsula for some sun and sea. A quick detour to a viewpoint overlooking the Krk bridge completes the itinerary before enjoying the sunset at the harbor.",
-        "hr": "Ova tura automobilom kombinira kulturna otkrića s opuštanjem na plaži. Započnite parkiranjem u centru kako biste pješice istražili povijesnu baštinu, brodogradilište i dvorce. Nakon opuštenog ručka, odvezite se do poluotoka Oštro na malo sunca i mora. Kratki skok do vidikovca s pogledom na Krčki most upotpunjuje itinerar prije uživanja u zalasku sunca u luci."
+        "hr": "Ova automobilistička tura kombinira kulturno otkrivanje i opuštanje na plaži. Parkirajte u centru kako biste pješice istražili povijesno naslijeđe, brodogradilište i dvorce. Nakon opuštenog ručka, vozite do poluotoka Oštro na sunce i more. Kratki zaobilazak do vidikovca s pogledom na most Krk upotpunjuje itinerar prije uživanja u zalasku sunca u luci."
       },
       "gastro_picks": {
         "de": [
@@ -1515,8 +1538,8 @@
           "Take advantage of the short driving distances for maximum flexibility."
         ],
         "hr": [
-          "Parkiranje u centru obično je lako izvan glavne sezone.",
-          "Krčki most je besplatan za osobna vozila.",
+          "Parkiranje u centru obično je lako izvan vršne sezone.",
+          "Most Krk je bez naplate za osobna vozila.",
           "Iskoristite kratke udaljenosti vožnje za maksimalnu fleksibilnost."
         ]
       },
@@ -1527,7 +1550,7 @@
             "hu": "Kényelmes városnézés a meleg autóból, miközben az eső kopog a tetőn. Ebédeljen a városközpontban egy hangulatos helyen. Délután fedezze fel a történelmi várakat minimális kinti sétával. Egy rövid kitérő a Krk-híd kilátójához megmutatja a tajtékzó tengert a maga teljességében.",
             "ro": "Vizitarea obiectivelor turistice din mașina caldă, în timp ce ploaia bate în plafon. La prânz, oprire în centrul orașului pentru o masă relaxată. După-amiaza, explorarea castelelor istorice cu mers pe jos minim în exterior. O scurtă vizită la podul Krk arată marea înfuriată.",
             "en": "Comfortable sightseeing from a warm car while raindrops drum on the roof. At noon, stop in the city center for a cozy meal. In the afternoon, explore historic castles with minimal outdoor walking. A short detour to the Krk Bridge viewpoint reveals the roaring sea in all its glory.",
-            "hr": "Udobno razgledavanje iz toplog automobila dok kapi kiše bubnjaju po krovu. U podne svratite u centar grada na ugodan obrok. Poslijepodne istražite povijesne dvorce uz minimalno hodanje na otvorenom. Kratki skok do vidikovca kod Krčkog mosta otkriva hučno more u punom sjaju."
+            "hr": "Udobno razgledavanje iz toplog auta dok kapi kiše bubnjaju po krovu. U podne stanite u centru grada na ugodan obrok. Popodne istražite povijesne dvorce uz minimalno hodanja na otvorenom. Kratki zaobilazak do vidikovca Mosta Krk otkriva bučno more u svom punom sjaju."
           },
           "stops": [
             {
@@ -1547,7 +1570,7 @@
                 "hu": "Parkoljon közvetlenül a bejáratnál a rövid sétáért.",
                 "ro": "Parcați chiar la intrare pentru un drum scurt.",
                 "en": "Park right at the entrance for a short walk.",
-                "hr": "Parkirajte tik uz ulaz za kratku šetnju."
+                "hr": "Parkirajte odmah na ulazu za kratak hod."
               }
             },
             {
@@ -1557,7 +1580,7 @@
                 "hu": "A vastag falak tökéletes esővédelmet nyújtanak.",
                 "ro": "Zidurile groase sunt o protecție perfectă contra ploii.",
                 "en": "The thick walls are a perfect rain shelter.",
-                "hr": "Debeli zidovi savršen su zaklon od kiše."
+                "hr": "Debeli zidovi savršeno štite od kiše."
               }
             },
             {
@@ -1577,7 +1600,7 @@
                 "hu": "A látogatóközpont sok beltéri programot kínál.",
                 "ro": "Centrul de vizitare oferă multe programe de interior.",
                 "en": "The visitor center offers plenty of indoor activities.",
-                "hr": "Interpretacijski centar nudi mnogo aktivnosti u zatvorenom."
+                "hr": "Informativni centar nudi mnogo unutarnjih aktivnosti."
               }
             },
             {
@@ -1607,7 +1630,7 @@
                 "hu": "Maradjon az autóban és figyelje az eget.",
                 "ro": "Rămâneți în mașină și observați cerul.",
                 "en": "Stay in the car and watch the sky change.",
-                "hr": "Ostanite u autu i gledajte kako se nebo mijenja."
+                "hr": "Ostanite u autu i promatrajte promjenu neba."
               }
             }
           ],
@@ -1637,9 +1660,9 @@
               "Visibility can be limited during heavy rain."
             ],
             "hr": [
-              "Pazite na akvaplaning na obalnoj cesti.",
-              "Parkirajte blizu ulaza kad god je to moguće.",
-              "Uvijek imajte kišobran pri ruci u automobilu.",
+              "Pazite na aquaplaning na obalnoj cesti.",
+              "Parkirajte blizu ulaza kad god je moguće.",
+              "Stalno držite kišobran pri ruci u autu.",
               "Vidljivost može biti ograničena tijekom jake kiše."
             ]
           }
@@ -1650,7 +1673,7 @@
             "hu": "Meleg utazás a téli parti tájon, a Krk-híd ragyog a hideg fényben. Délben térjen be egy helyi specialitásra. Délután a kastélyok történelmi utazást kínálnak a metsző szél nélkül. Egy kitérő a partra megmutatja a Kvarner nyers téli szépségét, mielőtt kényelmesen visszaindulna.",
             "ro": "Călătorie caldă prin peisajul de coastă iernatic, podul Krk strălucind în lumina rece. La prânz, opriți pentru specialități locale. După-amiaza, castelele oferă o călătorie în istorie fără vântul tăios. O vizită la coastă arată frumusețea brută a iernii.",
             "en": "A warm drive through the winter coastal landscape, with the Krk Bridge gleaming in the cold light. At noon, stop for local specialties. In the afternoon, the castles offer a journey into history without the biting wind. A trip to the coast shows the raw winter beauty of Kvarner before a cozy drive back.",
-            "hr": "Topla vožnja kroz zimski obalni krajolik, s Krčkim mostom koji blista na hladnom svjetlu. U podne svratite na lokalne specijalitete. Poslijepodne dvorci nude putovanje u povijest bez oštrog vjetra. Izlet do obale pokazuje sirovu zimsku ljepotu Kvarnera prije ugodne vožnje natrag."
+            "hr": "Topla vožnja kroz zimski obalni krajolik, s mostom Krk koji se sjaji u hladnom svjetlu. U podne stanite na lokalne specijalitete. Popodne dvorci pružaju putovanje kroz povijest bez prodornog vjetra. Izlet na obalu pokazuje sirovu zimsku ljepotu Kvarnera prije udobne povratne vožnje."
           },
           "stops": [
             {
@@ -1660,7 +1683,7 @@
                 "hu": "Az autó kellemesen meleg marad a városközpontban.",
                 "ro": "Mașina rămâne plăcut de caldă în centrul orașului.",
                 "en": "The car stays pleasantly warm in the city center.",
-                "hr": "Automobil ostaje ugodno topao u centru grada."
+                "hr": "Auto ostaje ugodno topao u centru grada."
               }
             },
             {
@@ -1670,7 +1693,7 @@
                 "hu": "A daruk fémszerkezete fagyosnak hat télen.",
                 "ro": "Structura metalică a macaralelor pare înghețată iarna.",
                 "en": "The metal of the cranes looks frosty in winter.",
-                "hr": "Metal dizalica izgleda mrazno zimi."
+                "hr": "Metal dizalica izgleda osjetno mrzlo zimi."
               }
             },
             {
@@ -1690,7 +1713,7 @@
                 "hu": "Rendeljen melengető, laktató ételeket.",
                 "ro": "Comandați mâncăruri calde și consistente.",
                 "en": "Order warming, hearty local dishes.",
-                "hr": "Naručite topla, krepka lokalna jela."
+                "hr": "Naručite topla, obilna lokalna jela."
               }
             },
             {
@@ -1720,7 +1743,7 @@
                 "hu": "A Bura megrázhatja az autót a kilátópontnál.",
                 "ro": "Vântul Bura poate zgâlțâi mașina la belvedere.",
                 "en": "The Bura can shake the car at the viewpoint.",
-                "hr": "Bura može tresti automobil na vidikovcu."
+                "hr": "Bura može prodrmati auto na vidikovcu."
               }
             },
             {
@@ -1760,10 +1783,10 @@
               "Keep a warm blanket ready in the car."
             ],
             "hr": [
-              "Provjerite tlak u gumama po hladnom vremenu.",
-              "Antifriz za perače stakla je važan.",
+              "Provjerite tlak u gumama na hladnoći.",
+              "Antifriz za brisače vjetrobrana je važan.",
               "Obalna cesta može biti zahtjevna tijekom bure.",
-              "Imajte spremnu toplu deku u automobilu."
+              "Držite toplu dekicu spremnu u autu."
             ]
           }
         }
@@ -1782,7 +1805,8 @@
             "de": "Zentraler Busbahnhof Kraljevica",
             "hu": "Kraljevica központi buszmegálló",
             "ro": "Stația centrală de autobuz Kraljevica",
-            "en": "Kraljevica Central Bus Stop"
+            "en": "Kraljevica Central Bus Stop",
+            "hr": "Autobusno stajalište Kraljevica centar"
           },
           "coords": [
             45.2741,
@@ -1806,7 +1830,8 @@
             "de": "Dvorac Stari Grad",
             "hu": "Stari Grad kastély",
             "ro": "Castelul Stari Grad",
-            "en": "Stari Grad Castle"
+            "en": "Stari Grad Castle",
+            "hr": "Dvorac Stari Grad"
           },
           "coords": [
             45.2742,
@@ -1822,7 +1847,7 @@
             "hu": "Csak pár lépésre a buszmegállótól.",
             "ro": "La doar câțiva pași de stația de autobuz.",
             "en": "Just a few steps from the bus stop.",
-            "hr": "Samo nekoliko koraka od autobusne stanice."
+            "hr": "Samo nekoliko koraka od autobusnog stajališta."
           }
         },
         {
@@ -1830,7 +1855,8 @@
             "de": "Dvorac Nova Kraljevica",
             "hu": "Nova Kraljevica kastély",
             "ro": "Castelul Nova Kraljevica",
-            "en": "Nova Kraljevica Castle"
+            "en": "Nova Kraljevica Castle",
+            "hr": "Dvorac Nova Kraljevica"
           },
           "coords": [
             45.2728,
@@ -1846,7 +1872,7 @@
             "hu": "A történelmi városrész központi pontja.",
             "ro": "Punctul central al clusterului istoric.",
             "en": "The central point of the historical cluster.",
-            "hr": "Središnja točka povijesne jezgre."
+            "hr": "Središnja točka povijesne cjeline."
           }
         },
         {
@@ -1854,7 +1880,8 @@
             "de": "Konoba (Mittagessen)",
             "hu": "Konoba (ebéd)",
             "ro": "Konoba (prânz)",
-            "en": "Konoba (lunch)"
+            "en": "Konoba (lunch)",
+            "hr": "Konoba (ručak)"
           },
           "coords": [
             45.2735,
@@ -1870,7 +1897,7 @@
             "hu": "Kellemes pihenő a továbbutazás előtt.",
             "ro": "O oprire plăcută înainte de a continua drumul.",
             "en": "A pleasant stop before continuing the journey.",
-            "hr": "Ugodna stanka prije nastavka puta."
+            "hr": "Ugodno mjesto za stanku prije nastavka puta."
           }
         },
         {
@@ -1878,7 +1905,8 @@
             "de": "Transfer zum Poluotok Oštro",
             "hu": "Transzfer az Oštro-félszigetre",
             "ro": "Transfer spre Peninsula Oštro",
-            "en": "Transfer to Oštro Peninsula"
+            "en": "Transfer to Oštro Peninsula",
+            "hr": "Transfer na poluotok Oštro"
           },
           "coords": [
             45.2645,
@@ -1894,7 +1922,7 @@
             "hu": "Használd a helyi buszt vagy egy rövid taxit.",
             "ro": "Folosiți autobuzul local sau un taxi scurt.",
             "en": "Use the local bus or a short taxi ride.",
-            "hr": "Koristite lokalni autobus ili kratku vožnju taksijem."
+            "hr": "Iskoristite lokalni autobus ili kratku taksi vožnju."
           }
         },
         {
@@ -1902,7 +1930,8 @@
             "de": "Oštro Strandpause",
             "hu": "Oštro strandpihenő",
             "ro": "Pauză de plajă Oštro",
-            "en": "Oštro Beach Break"
+            "en": "Oštro Beach Break",
+            "hr": "Oštro plažni odmor"
           },
           "coords": [
             45.2645,
@@ -1918,7 +1947,7 @@
             "hu": "A megálló közel van a strand lejáratához.",
             "ro": "Stația este aproape de intrarea pe plajă.",
             "en": "The stop is close to the beach entrance.",
-            "hr": "Stanica je blizu ulaza na plažu."
+            "hr": "Stajanje je blizu ulaza na plažu."
           }
         },
         {
@@ -1926,7 +1955,8 @@
             "de": "Rückfahrt zum Zentrum",
             "hu": "Visszautazás a központba",
             "ro": "Retur spre centru",
-            "en": "Return to the center"
+            "en": "Return to the center",
+            "hr": "Povratak u centar"
           },
           "coords": [
             45.2745,
@@ -1942,7 +1972,7 @@
             "hu": "Idő egy utolsó fagyira a kikötőben.",
             "ro": "Timp pentru o ultimă înghețată în port.",
             "en": "Time for one last gelato at the harbor.",
-            "hr": "Vrijeme za zadnji sladoled u luci."
+            "hr": "Vrijeme za još jedan gelato u luci."
           }
         }
       ],
@@ -1951,7 +1981,7 @@
         "hu": "Tömegközlekedéssel Kraljevica könnyen felfedezhető, mivel a fő látnivalók a központban csoportosulnak. Érkezés után a kastélyokat nézzük meg, majd egy helyi ebédet élvezünk. Délután a busz elvisz az Oštro-félszigetre, ahol a természetet és a tengert élvezhetjük, mielőtt a nap végén visszatérnénk a kikötőbe.",
         "ro": "Cu transportul public, Kraljevica este ușor de explorat, deoarece principalele atracții sunt concentrate în centru. După sosire, vizităm castelele și savurăm un prânz local. După-amiaza, autobuzul ne duce spre peninsula Oštro, unde ne putem bucura de natură și de mare, înainte de a reveni în port la finalul zilei.",
         "en": "Public transport makes exploring Kraljevica straightforward, as the main sights are clustered in the center. After arrival, visit the historic castles and enjoy a local lunch. In the afternoon, take a bus to the Oštro peninsula for some nature and sea time before returning to the harbor for the evening.",
-        "hr": "Javni prijevoz čini istraživanje Kraljevice jednostavnim, jer su glavne znamenitosti grupirane u centru. Nakon dolaska, posjetite povijesne dvorce i uživajte u lokalnom ručku. Poslijepodne idite autobusom do poluotoka Oštro na malo vremena u prirodi i uz more prije povratka u luku navečer."
+        "hr": "Javni prijevoz čini istraživanje Kraljevice jednostavnim, jer su glavni sadržaji koncentrirani u centru. Nakon dolaska posjetite povijesne dvorce i uživajte u lokalnom ručku. Popodne se autobusom uputite na poluotok Oštro na prirodu i more prije povratka u luku za večer."
       },
       "gastro_picks": {
         "de": [
@@ -2076,9 +2106,9 @@
           "Sidewalks in the center are well-maintained for walking."
         ],
         "hr": [
-          "Unaprijed provjerite vozni red za liniju 29.",
-          "Karte se često mogu kupiti izravno kod vozača.",
-          "Nogostupi u centru su dobro održavani za šetnju."
+          "Provjerite vozni red linije 29 unaprijed.",
+          "Karte se često mogu kupiti izravno od vozača.",
+          "Pločnici u centru dobro su održavani za hodanje."
         ]
       },
       "variants": {
@@ -2088,7 +2118,7 @@
             "hu": "Busszal szárazon Kraljevica-szerte, az ablakok enyhén párásak. Délben melegedjen fel egy megálló közeli tavernban. Délután a történelmi várak kulturális menekülést kínálnak az eső elől. Az Oštro-félszigetre való eljutás a tömegközlekedéssel kényelmes és gyors.",
             "ro": "Cu autobuzul la uscat prin Kraljevica, geamurile se aburesc ușor. La prânz, încălziți-vă într-o tavernă lângă stație. După-amiaza, castelele oferă o evadare culturală din ploaie. Drumul spre peninsula Oštro este confortabil datorită transportului în comun.",
             "en": "By bus dry through Kraljevica, windows fogging up slightly. At noon, warm up in a tavern near the stop. In the afternoon, historic castles offer a cultural escape from the rain. Reaching Oštro Peninsula is convenient via transit, minimizing exposure to the elements.",
-            "hr": "Autobusom suhi kroz Kraljevicu, dok se prozori lagano magle. U podne se zagrijte u konobi blizu stanice. Poslijepodne povijesni dvorci nude kulturni bijeg od kiše. Dolazak na poluotok Oštro praktičan je javnim prijevozom, čime se minimalizira izloženost vremenskim prilikama."
+            "hr": "Autobusom suha kroz Kraljevicu, prozori se blago zamagle. U podne se ugrijte u konobi blizu stajališta. Popodne povijesni dvorci nude kulturni bijeg od kiše. Dolazak na poluotok Oštro je praktičan javnim prijevozom, minimizirajući izlaganje elementima."
           },
           "stops": [
             {
@@ -2098,7 +2128,7 @@
                 "hu": "Várjon a váróban a következő buszra.",
                 "ro": "Așteptați în stația acoperită următorul autobuz.",
                 "en": "Wait in the shelter for the next bus.",
-                "hr": "Pričekajte u zaklonu sljedeći autobus."
+                "hr": "Čekajte u zaklonu na sljedeći autobus."
               }
             },
             {
@@ -2108,7 +2138,7 @@
                 "hu": "Csak rövid séta a buszmegállótól.",
                 "ro": "Doar o scurtă plimbare de la stația de autobuz.",
                 "en": "Only a short walk from the bus stop.",
-                "hr": "Samo kratka šetnja od autobusne stanice."
+                "hr": "Samo kratak hod od autobusnog stajališta."
               }
             },
             {
@@ -2118,7 +2148,7 @@
                 "hu": "A kastély számos fedett területtel rendelkezik.",
                 "ro": "Castelul are multe zone acoperite.",
                 "en": "The castle has many covered areas.",
-                "hr": "Dvorac ima mnogo natkrivenih područja."
+                "hr": "Dvorac ima mnogo natkrivenih prostora."
               }
             },
             {
@@ -2128,7 +2158,7 @@
                 "hu": "Válasszon egy helyet az útvonal közelében.",
                 "ro": "Alegeți un local aproape de traseu.",
                 "en": "Choose a place near the transit route.",
-                "hr": "Odaberite mjesto blizu tranzitne rute."
+                "hr": "Odaberite mjesto blizu trase javnog prijevoza."
               }
             },
             {
@@ -2148,7 +2178,7 @@
                 "hu": "Keressen menedéket a sűrű fenyőliget alatt.",
                 "ro": "Căutați adăpost sub pădurea de pini deasă.",
                 "en": "Seek shelter under the dense pine grove.",
-                "hr": "Potražite zaklon pod gustom borovom šumom."
+                "hr": "Potražite zaklon ispod guste borove šume."
               }
             },
             {
@@ -2158,7 +2188,7 @@
                 "hu": "Használja a buszt, hogy gyorsan szárazra érjen.",
                 "ro": "Folosiți autobuzul pentru a ajunge rapid la uscat.",
                 "en": "Use the bus to quickly get back to the dry center.",
-                "hr": "Koristite autobus za brzi povratak u suhi centar."
+                "hr": "Iskoristite autobus za brz povratak u suhi centar."
               }
             }
           ],
@@ -2188,10 +2218,10 @@
               "An umbrella is needed for the walk to the stop."
             ],
             "hr": [
-              "Koristite aplikaciju za informacije o busu u stvarnom vremenu.",
-              "Imajte sitniš spreman za karte.",
-              "Autobusi su zimi obično dobro zagrijani.",
-              "Kiśobran je potreban za šetnju do stanice."
+              "Koristite aplikaciju za informacije o autobusima u stvarnom vremenu.",
+              "Pripremite sitniš za karte.",
+              "Autobusi su obično dobro grijani zimi.",
+              "Za hod do stajališta potreban je kišobran."
             ]
           }
         },
@@ -2201,7 +2231,7 @@
             "hu": "Téli tömegközlekedés Kraljevicában, a buszok meleg pihenőt nyújtanak a látnivalók között. Délben térjen be egy ebédre a városközpontban. Délután fedezze fel a Frankopán-történelmet a masszív kőfalak védelmében. A nap a téli Kvarner látványával zárul, mielőtt az esti busz hazaszállítaná.",
             "ro": "Transport de iarnă prin Kraljevica, autobuzele oferind o pauză caldă între obiective. La prânz, opriți pentru masă în centru. După-amiaza, descoperiți istoria Frankopan la adăpostul zidurilor de piatră. Ziua se încheie cu o vedere spre Kvarnerul iernatic.",
             "en": "Winter transit through Kraljevica, with buses offering a warm break between sights. At noon, stop for lunch in the city center. In the afternoon, discover Frankopan history sheltered by massive stone walls. The day ends with a view of winter Kvarner before the evening bus takes you back.",
-            "hr": "Zimski tranzit kroz Kraljevicu, s autobusima koji nude toplu stanku između znamenitosti. U podne svratite na ručak u centar grada. Poslijepodne otkrijte povijest Frankopana zaklonjeni masivnim kamenim zidovima. Dan završava pogledom na zimski Kvarner prije nego vas večernji autobus odveze natrag."
+            "hr": "Zimski tranzit kroz Kraljevicu, s autobusima koji nude toplu stanku između atrakcija. U podne stanite na ručak u centru grada. Popodne otkrijte Frankopansku povijest zaštićeni masivnim kamenim zidovima. Dan završava pogledom na zimski Kvarner prije večernjeg autobusa koji vas vraća."
           },
           "stops": [
             {
@@ -2211,7 +2241,7 @@
                 "hu": "Várjon a szélvédett területen.",
                 "ro": "Așteptați în zona ferită de vânt.",
                 "en": "Wait in the wind-sheltered area.",
-                "hr": "Čekajte u području zaklonjenom od vjetra."
+                "hr": "Čekajte u području zaštićenom od vjetra."
               }
             },
             {
@@ -2221,7 +2251,7 @@
                 "hu": "Látogassa meg a kiállításokat a meleg belsőben.",
                 "ro": "Vizitați expozițiile în interiorul cald.",
                 "en": "Visit the exhibitions in the warm interior.",
-                "hr": "Posjetite izložbe u toploj unutrašnjosti."
+                "hr": "Posjetite izložbe u toplom interijeru."
               }
             },
             {
@@ -2231,7 +2261,7 @@
                 "hu": "Nagyszerű akusztika a hűvös téli csarnokokban.",
                 "ro": "Acustică grozavă în halele răcoroase de iarnă.",
                 "en": "Great acoustics in the cool winter halls.",
-                "hr": "Sjajna akustika u hladnim zimskim dvoranama."
+                "hr": "Izvrsna akustika u hladnim zimskim dvoranama."
               }
             },
             {
@@ -2241,7 +2271,7 @@
                 "hu": "Válasszon jól fűtött vendéglátóhelyet.",
                 "ro": "Alegeți un local cu sistem de încălzire bun.",
                 "en": "Choose a place with a good heating system.",
-                "hr": "Odaberite mjesto s dobrim sustavom grijanja."
+                "hr": "Odaberite mjesto s dobrim grijanjem."
               }
             },
             {
@@ -2261,7 +2291,7 @@
                 "hu": "Élvezze a tiszta fényeket a magányos parton.",
                 "ro": "Bucurați-vă de lumina clară pe țărmul pustiu.",
                 "en": "Enjoy the clear light on the lonely shore.",
-                "hr": "Uživajte u čistom svjetlu na usamljenoj obali."
+                "hr": "Uživajte u bistrom svjetlu na usamljenoj obali."
               }
             },
             {
@@ -2271,7 +2301,7 @@
                 "hu": "A sötétedés előtti utolsó busz az ideális.",
                 "ro": "Ultimul autobuz înainte de întuneric este ideal.",
                 "en": "The last bus before dark is ideal.",
-                "hr": "Zadnji autobus prije mraka je idealan."
+                "hr": "Posljednji autobus prije mraka je idealan."
               }
             }
           ],
@@ -2301,10 +2331,10 @@
               "Wear warm clothes for the waiting time."
             ],
             "hr": [
-              "Unaprijed provjerite vozni red online.",
-              "Intervali mogu biti duži navečer.",
-              "Potražite grijane čekaonice.",
-              "Nosite toplu odjeću za vrijeme čekanja."
+              "Provjerite vozni red online unaprijed.",
+              "Intervali mogu biti dulji navečer.",
+              "Potražite zagrijana čekaonica.",
+              "Obucite tople stvari za vrijeme čekanja."
             ]
           }
         }

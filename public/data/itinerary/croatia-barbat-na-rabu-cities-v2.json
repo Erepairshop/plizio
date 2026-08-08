@@ -51,7 +51,7 @@
             "hu": "Élvezze a kávét a szemközti halászhajók látványával.",
             "ro": "Savurați o cafea cu vedere la bărcile de pescuit care trec.",
             "en": "Enjoy a coffee with a view of the passing fishing boats.",
-            "hr": "Uživajte u kavi s pogledom na ribarske brodove koji prolaze."
+            "hr": "Uživajte u kavi s pogledom na prolazeće ribarske brodove."
           }
         },
         {
@@ -70,7 +70,7 @@
             "hu": "A csatorna híres nyugodt vizéről és a vitorlásokról.",
             "ro": "Canalul este renumit pentru apele sale calme și ambarcațiunile cu vele.",
             "en": "The channel is famous for its calm waters and sailing boats.",
-            "hr": "Kanal je poznat po mirnom moru i jedrilicama."
+            "hr": "Kanal je poznat po mirnim vodama i jedrilicama."
           }
         },
         {
@@ -89,7 +89,7 @@
             "hu": "Kóstolja meg a házi tésztát tenger gyümölcseivel.",
             "ro": "Încercați pastele de casă cu fructe de mare.",
             "en": "Try the homemade pasta with seafood.",
-            "hr": "Probajte domaću tjesteninu s plodovima mora."
+            "hr": "Probajte domaće tjestenine s plodovima mora."
           }
         },
         {
@@ -108,7 +108,7 @@
             "hu": "Remek hely a lakatlan Dolin-sziget fotózásához.",
             "ro": "Un loc minunat pentru a fotografia insula nelocuită Dolin.",
             "en": "A great spot to photograph the uninhabited Dolin Island.",
-            "hr": "Odlično mjesto za fotografiranje nenaseljenog otoka Dolina."
+            "hr": "Odlična lokacija za fotografiranje nenastanjelog otoka Dolin."
           }
         },
         {
@@ -127,7 +127,7 @@
             "hu": "A barbati korzó az egyik leghosszabb a szigeten.",
             "ro": "Faleza din Barbat este una dintre cele mai lungi de pe insulă.",
             "en": "The Barbat promenade is one of the longest on the island.",
-            "hr": "Barbatska šetnica jedna je od najdužih na otoku."
+            "hr": "Promenada Barbat jedna je od najdužih na otoku."
           }
         },
         {
@@ -146,7 +146,7 @@
             "hu": "Nézze meg, ahogy a nap lebukik a Velebit-hegység mögött.",
             "ro": "Urmăriți cum soarele apune în spatele munților Velebit.",
             "en": "Watch the sun set behind the Velebit mountains.",
-            "hr": "Gledajte kako sunce zalazi iza planine Velebit."
+            "hr": "Gledajte zalazak sunca iza Velebita."
           }
         }
       ],
@@ -155,7 +155,7 @@
         "hu": "Egy pihentető nap Barbatban a Szent István-templom megtekintésével indul. Ezután a Barbatski-csatorna mentén sétálunk, ahol ma is él a hajóépítő hagyomány. Az ebéd mellé a Dolin-sziget látványa társul. A délutánt a hosszú parti sétányon töltjük, végül a helyi kikötőben, egy pohár bor mellett élvezzük a tengeri levegőt és a lemenő nap fényeit.",
         "ro": "O zi relaxantă în Barbat începe cu vizitarea bisericii Sf. Ștefan. Apoi ne plimbăm de-a lungul canalului Barbat, unde tradiția construcției de bărci este încă vie. Un prânz cu vedere la insula Dolin oferă pauza perfectă. După-amiaza este dedicată unei plimbări lungi pe faleză, înainte de a încheia ziua în portul local, savurând atmosfera marină.",
         "en": "A relaxing day in Barbat begins with a visit to St. Stephen's Church. Afterwards, we stroll along the Barbat Channel, where the tradition of boatbuilding is still present. Lunch comes with a beautiful view of Dolin Island. The afternoon is perfect for a long walk on the promenade, finally ending the day at the local harbor, enjoying the sea breeze and the sunset.",
-        "hr": "Opuštajući dan u Barbat počinje posjetom crkvi sv. Stjepana. Nakon toga, šetamo uz Barbatski kanal, gdje je tradicija brodogradnje još uvijek prisutna. Ručak dolazi s prekrasnim pogledom na otok Dolin. Poslijepodne je savršeno za dugu šetnju šetnicom, a dan završavamo u lokalnoj luci, uživajući u morskom povjetarcu i zalasku sunca."
+        "hr": "Opustajući dan u Barbatu započinje posjetom crkvi sv. Stjepana. Nakon toga šećemo uz kanal Barbat, gdje je tradicija gradnje brodova još uvijek prisutna. Ručak dolazi s prekrasnim pogledom na otok Dolin. Poslijepodne je idealno za dugu šetnju promenadom, a dan završava u lokalnoj luci uživajući u morskom povjetarcu i zalasku sunca."
       },
       "gastro_picks": {
         "de": [
@@ -346,8 +346,8 @@
         ],
         "hr": [
           "Nosite udobnu obuću za dugu šetnju uz obalu.",
-          "Većina konoba prima kartice, ali preporučuje se ponijeti nešto gotovine za kafiće.",
-          "Plaža u Barbat je šljunčana, pa ponesite obuću za vodu."
+          "Većina konoba prima kartice, no za kafiće je preporučljivo imati i gotovinu.",
+          "Plaža u Barbatu je šljunčana, pa ponesite vodene cipele."
         ]
       },
       "variants": {
@@ -357,7 +357,7 @@
             "hu": "A napot a Szent István-templomban kezdjük, amely menedéket nyújt az eső elől. A tengerparti reggelit egy fedett teraszon fogyasztjuk el, hallgatva a vízcseppek kopogását. A Barbatski-csatorna menti séta esernyővel is hangulatos, ilyenkor a legcsendesebb a környék. A délutánt egy barátságos konobában töltjük, ahol a helyi ételek mellett melegedhetünk meg. Otok Dolin látványa a ködben egészen misztikus, a napot pedig egy kikötői kávézó oltalmában zárjuk, figyelve a szürke Adria hullámait.",
             "ro": "Începeți ziua la Biserica Sf. Ștefan, un refugiu perfect împotriva ploii matinale. Micul dejun pe malul mării poate fi savurat sub o terasă acoperită, ascultând sunetul stropilor pe apă. O plimbare de-a lungul canalului Barbat cu umbrela oferă o perspectivă liniștită și melancolică asupra bărcilor ancorate. Prânzul prelungit într-o konoba tradițională vă va încălzi cu preparate locale. Vederea spre insula Dolin este mistică prin ceață, iar seara se încheie confortabil într-un bar din port, privind ploaia dansând pe mare.",
             "en": "Start your day at St. Stephen's Church, providing a dry sanctuary from the morning drizzle. Enjoy breakfast by the sea under a sturdy awning, taking in the fresh scent of the rain-washed Adriatic. A stroll along the Barbat Channel with an umbrella reveals a calm, silvery landscape. Spend a long afternoon in a cozy Konoba, savoring local dishes while the rain patters on the stone walls. The view of Dolin Island appears mystical through the mist, before ending the day in a sheltered harbor bar.",
-            "hr": "Započnite dan u crkvi sv. Stjepana, koja pruža suho utočište od jutarnje kišice. Uživajte u doručku uz more pod čvrstom nadstrešnicom, udišući svježi miris Jadrana opranog kišom. Šetnja uz Barbatski kanal s kišobranom otkriva miran, srebrnasti krajolik. Provedite dugo poslijepodne u ugodnoj konobi, kušajući lokalna jela dok kiša dobuje po kamenim zidovima. Pogled na otok Dolin djeluje mistično kroz maglu, prije nego što dan završite u zaklonjenom lučkom baru."
+            "hr": "Započnite dan u crkvi sv. Stjepana, koja pruža suhi zaklon od jutarnje kiše. Uživajte u doručku uz more pod čvrstom tendom i osjetite miris opranog Jadrana. Šetnja uz kanal Barbat s kišobranom otkriva miran, srebrnkast krajolik. Provedite dugo poslijepodne u ugodnoj konobi, uživajući u lokalnim jelima dok kiša lupa o kamene zidove. Pogled na otok Dolin izgleda mistično kroz maglu, a dan završava u zaklonjenom barčiću u luci."
           },
           "stops": [
             {
@@ -366,7 +366,8 @@
                 "de": "Idealer Ort, um den ersten Regenschauer trocken abzuwarten.",
                 "hu": "Tökéletes fedett helyszín az első esőfelhők elvonulásáig.",
                 "ro": "Loc ideal pentru a aștepta trecerea primei averse în siguranță.",
-                "en": "A perfect indoor spot to wait out the first rain shower."
+                "en": "A perfect indoor spot to wait out the first rain shower.",
+                "hr": "Savršeno unutarnje mjesto za prespavati prvi pljusak."
               }
             },
             {
@@ -375,7 +376,8 @@
                 "de": "Wählen Sie ein Café mit fester Überdachung an der Riva.",
                 "hu": "Válasszunk fix tetővel rendelkező kávézót a parton.",
                 "ro": "Alegeți o cafenea cu terasă acoperită solid pe faleză.",
-                "en": "Choose a café with a solid roof terrace along the waterfront."
+                "en": "Choose a café with a solid roof terrace along the waterfront.",
+                "hr": "Odaberite kafić s čvrstom krovnom terasom uz obalu."
               }
             },
             {
@@ -384,7 +386,8 @@
                 "de": "Der gepflasterte Weg kann bei Nässe rutschig sein. Vorsicht!",
                 "hu": "A kövezett sétány vizesen csúszós lehet, óvatosan lépkedjünk.",
                 "ro": "Aleea pavată poate fi alunecoasă când este udă. Atenție!",
-                "en": "The paved path can be slippery when wet. Walk carefully."
+                "en": "The paved path can be slippery when wet. Walk carefully.",
+                "hr": "Popločana staza može biti skliska kad je mokra. Hodajte pažljivo."
               }
             },
             {
@@ -393,7 +396,8 @@
                 "de": "Genießen Sie die warme, rustikale Atmosphäre im Innenraum.",
                 "hu": "Élvezzük a belső tér meleg, rusztikus hangulatát.",
                 "ro": "Bucurați-vă de atmosfera caldă și rustică din interior.",
-                "en": "Enjoy the warm, rustic atmosphere of the indoor dining area."
+                "en": "Enjoy the warm, rustic atmosphere of the indoor dining area.",
+                "hr": "Uživajte u toploj, rustikalnoj atmosferi unutarnjeg restoranskog prostora."
               }
             },
             {
@@ -402,7 +406,8 @@
                 "de": "Kurzer Fotostopp; Wolken bieten dramatische Kontraste.",
                 "hu": "Rövid fotómegálló; a felhők drámai kontrasztot adnak.",
                 "ro": "Oprire scurtă pentru poze; norii oferă un contrast dramatic.",
-                "en": "Brief photo stop; the clouds provide dramatic sea contrasts."
+                "en": "Brief photo stop; the clouds provide dramatic sea contrasts.",
+                "hr": "Kratka foto-stanica; oblaci daju dramatičan kontrast moru."
               }
             },
             {
@@ -411,7 +416,8 @@
                 "de": "Gute Regenjacke ist hier wegen des Seewinds wichtig.",
                 "hu": "A tengeri szél miatt egy jó esőkabát itt elengedhetetlen.",
                 "ro": "O jachetă impermeabilă bună este esențială din cauza vântului.",
-                "en": "A good raincoat is essential here due to the sea breeze."
+                "en": "A good raincoat is essential here due to the sea breeze.",
+                "hr": "Dobra nepromočiva jakna ovdje je nužna zbog morskog povjetarca."
               }
             },
             {
@@ -420,7 +426,8 @@
                 "de": "Beobachten Sie das Spiel der Regentropfen im Hafenbecken.",
                 "hu": "Figyeljük a vízcseppek játékát a kikötő védett vizén.",
                 "ro": "Observați jocul picăturilor de ploaie în bazinul portului.",
-                "en": "Watch the play of raindrops on the calm harbor water."
+                "en": "Watch the play of raindrops on the calm harbor water.",
+                "hr": "Promatrajte igru kišnih kapljica na mirnoj luci."
               }
             }
           ],
@@ -454,11 +461,11 @@
               "Many cafes have outdoor heaters on their covered terraces."
             ],
             "hr": [
-              "Iskoristite lokalne konobe za duže pauze kako biste ostali suhi.",
+              "Iskoristite lokalne konobe za dulje pauze i ostanite suhi.",
               "Čvrst kišobran bolji je od malog na morskom povjetarcu.",
-              "Nosite obuću s dobrim prianjanjem za mokre kamene staze.",
+              "Nosite cipele s dobrim prijanjanjem za mokre kamene staze.",
               "Vlaga čini boje Jadrana intenzivnijima.",
-              "Mnogi kafići imaju vanjske grijače na natkrivenim terasama."
+              "Mnogi kafići imaju vanjske grijalice na natkrivenim terasama."
             ]
           }
         },
@@ -468,7 +475,7 @@
             "hu": "A friss téli reggel Barbatban a Szent István-templom meglátogatásával indul. A parti kávét már bent, a melegben fogyasztjuk el, miközben az alacsonyan járó nap aranyba vonja a csatornát. A parti séta ilyenkor felfrissítő, a nyári tömeg hiánya pedig igazi nyugalmat áraszt. Ebédre egy tál forró peka vagy sűrű leves vár a konobában. Otok Dolin körvonalai a tiszta téli levegőben rendkívül élesek. Mivel korán sötétedik, a kikötői naplementét már késő délután megcsodálhatjuk.",
             "ro": "O dimineață senină de iarnă în Barbat începe cu briza proaspătă la Biserica Sf. Ștefan. Cafeaua pe faleză se servește în interior, în timp ce soarele jos scaldă canalul în lumină aurie. Plimbarea pe mal este revigorantă, iar liniștea fără turiști este un deliciu. La prânz, mâncărurile consistente precum 'peka' sunt perfecte pentru vremea rece. Vederea spre insula Dolin este extrem de clară în aerul iernatic. Deoarece soarele apune devreme, ne bucurăm de amurgul din port încă de la sfârșitul după-amiezii.",
             "en": "A crisp winter morning in Barbat begins with a fresh sea breeze at St. Stephen's Church. Enjoy your coffee indoors while the low sun bathes the channel in golden light. The waterfront walk is invigorating, offering peace away from the summer crowds. For lunch, hearty dishes like 'peka' in a Konoba are perfect for the cool season. The view of Dolin Island is especially sharp in the winter air. Since the sun sets early, we enjoy the harbor's glow by late afternoon.",
-            "hr": "Vedro zimsko jutro u Barbat počinje svježim morskim povjetarcem kod crkve sv. Stjepana. Uživajte u kavi u zatvorenom dok nisko sunce kupa kanal u zlatnoj svjetlosti. Šetnja uz obalu okrepljuje, nudeći mir daleko od ljetnih gužvi. Za ručak su krepka jela poput peke u konobi savršena za hladnu sezonu. Pogled na otok Dolin posebno je oštar u zimskom zraku. Budući da sunce rano zalazi, uživamo u sjaju luke do kasnog poslijepodneva."
+            "hr": "Svježe zimsko jutro u Barbatu počinje svježim morskim povjetarcem kod crkve sv. Stjepana. Uživajte u kavi unutra dok nisko sunce kupa kanal u zlatnoj svjetlosti. Šetnica uz obalu razbistruje misli, nudeći mir daleko od ljetnih gužvi. Za ručak su za hladno doba idealna srdačna jela poput peke u konobi. Pogled na otok Dolin osobito je oštar u zimskom zraku. Budući da sunce zalazi rano, uživamo u lučkom sjaju kasnog poslijepodneva."
           },
           "stops": [
             {
@@ -477,7 +484,8 @@
                 "de": "Die Kirche bietet Schutz vor der kalten Bora-Brise.",
                 "hu": "A templom jó menedék a hűvös bóra szél elől.",
                 "ro": "Biserica oferă protecție împotriva brizei reci de iarnă.",
-                "en": "The church provides shelter from the cold winter breeze."
+                "en": "The church provides shelter from the cold winter breeze.",
+                "hr": "Crkva pruža zaklon od hladnog zimskog vjetra."
               }
             },
             {
@@ -486,7 +494,8 @@
                 "de": "Frühstücken Sie gemütlich im beheizten Innenbereich.",
                 "hu": "Reggelizzünk kényelmesen a fűtött belső térben.",
                 "ro": "Luați micul dejun în zona interioară încălzită.",
-                "en": "Enjoy breakfast in the cozy, heated indoor area."
+                "en": "Enjoy breakfast in the cozy, heated indoor area.",
+                "hr": "Uživajte u doručku u ugodnom, grijanim zatvorenom prostoru."
               }
             },
             {
@@ -495,7 +504,8 @@
                 "de": "Kristallklare Sicht auf das Festland und den Velebit.",
                 "hu": "Kristálytiszta kilátás a szárazföldre és a Velebitre.",
                 "ro": "Vizibilitate clară spre continent și munții Velebit.",
-                "en": "Crystal clear views towards the mainland and Velebit mountains."
+                "en": "Crystal clear views towards the mainland and Velebit mountains.",
+                "hr": "Kristalno čisti pogledi prema kopnu i planinama Velebit."
               }
             },
             {
@@ -504,7 +514,8 @@
                 "de": "Probieren Sie winterliche Eintöpfe oder Fleischgerichte.",
                 "hu": "Kóstoljuk meg a téli egytálételeket vagy húsfogásokat.",
                 "ro": "Încercați tocănițele de iarnă sau preparatele din carne.",
-                "en": "Try the winter stews or hearty meat dishes."
+                "en": "Try the winter stews or hearty meat dishes.",
+                "hr": "Probajte zimske varive ili srdačna mesna jela."
               }
             },
             {
@@ -513,7 +524,8 @@
                 "de": "Perfektes Fotolicht zur goldenen Stunde gegen 15:30.",
                 "hu": "Tökéletes fotófények az aranyórában, 15:30 körül.",
                 "ro": "Lumină perfectă pentru poze la ora aurie, în jur de 15:30.",
-                "en": "Perfect photo lighting during the golden hour around 15:30."
+                "en": "Perfect photo lighting during the golden hour around 15:30.",
+                "hr": "Savršeno svjetlo za fotografije tijekom zlatnog sata oko 15:30."
               }
             },
             {
@@ -522,7 +534,8 @@
                 "de": "Warme Kleidung und Mütze gegen den Wind einplanen.",
                 "hu": "Meleg ruha és sapka kötelező a parti szél miatt.",
                 "ro": "Planificați haine groase și căciulă contra vântului.",
-                "en": "Plan for warm clothes and a hat against the sea wind."
+                "en": "Plan for warm clothes and a hat against the sea wind.",
+                "hr": "Planirajte tople stvari i kapu protiv morskog vjetra."
               }
             },
             {
@@ -531,7 +544,8 @@
                 "de": "Der Sonnenuntergang ist im Winter oft besonders farbintensiv.",
                 "hu": "A téli naplemente gyakran különlegesen intenzív színeket hoz.",
                 "ro": "Apusul de iarnă este adesea foarte intens în culori.",
-                "en": "Winter sunsets are often exceptionally vivid in color."
+                "en": "Winter sunsets are often exceptionally vivid in color.",
+                "hr": "Zimski zalasci često su iznimno žive boje."
               }
             }
           ],
@@ -565,11 +579,11 @@
               "Enjoy the absolute stillness of the village without the crowds."
             ],
             "hr": [
-              "Imajte na umu rani zalazak sunca oko 16:15 tijekom zimskih mjeseci.",
-              "Preporučuje se slojevita odjeća zbog oštre bure.",
-              "Mnoge konobe zimi koriste otvorena ognjišta za grijanje.",
-              "Trajekti voze rjeđe; provjerite zimski red vožnje.",
-              "Uživajte u potpunom miru mjesta bez gužve."
+              "Obratite pažnju na rani zalazak oko 16:15 u zimskim mjesecima.",
+              "Preporučuje se slojevito odijevanje zbog oštrog bure.",
+              "Mnoge konobe koriste otvorene kamine za grijanje zimi.",
+              "Trajekti voze rjeđe; dvojno provjerite zimski red plovidbe.",
+              "Uživajte u apsolutnoj tišini sela bez gužve."
             ]
           }
         }
@@ -599,7 +613,7 @@
             "hu": "A túra kezdőpontja, jó parkolási lehetőséggel a bicikliknek.",
             "ro": "Punctul de plecare al turului, cu locuri bune de parcare pentru biciclete.",
             "en": "Starting point of the tour with good parking for bikes.",
-            "hr": "Polazna točka ture s dobrim parkingom za bicikle."
+            "hr": "Polazna točka ture s dobrim parkiranjem za bicikle."
           }
         },
         {
@@ -637,7 +651,7 @@
             "hu": "Friss hal közvetlenül a tengerparton az úszás után.",
             "ro": "Pește proaspăt chiar pe malul mării după înot.",
             "en": "Fresh fish right by the sea after your swim.",
-            "hr": "Svježa riba tik uz more nakon kupanja."
+            "hr": "Svježa riba odmah uz more nakon kupanja."
           }
         },
         {
@@ -703,7 +717,7 @@
         "hu": "Biciklivel fedezzük fel Barbat partvidékét egészen a híres Pudarica strandig. A Barbatski-csatorna menti sík terep folyamatos kilátást nyújt a kristálytiszta tengerre és a Dolin-szigetre. Egy hosszú fürdőzés után kényelmesen visszakerekezünk a faluba, megkóstoljuk a helyi finomságokat, és a napot a kikötőben zárjuk a lemenő nap fényeiben.",
         "ro": "Cu bicicleta explorăm coasta localității Barbat până la faimoasa plajă Pudarica. Traseul plat de-a lungul canalului oferă vederi constante spre marea cristalină și insula Dolin. După o pauză lungă de baie la Pudarica, pedalăm relaxat înapoi în sat, savurăm specialități locale și încheiem ziua la apus în micul port din Barbat.",
         "en": "We explore the Barbat coast by bike, reaching the famous Pudarica beach. The flat route along the Barbat Channel offers constant views of the crystal-clear sea and Dolin Island. After a long swimming break at Pudarica, we cycle leisurely back to the village, enjoy local specialties, and end the day at sunset in the small harbor of Barbat.",
-        "hr": "Istražujemo barbatsku obalu biciklom, stižući do poznate plaže Pudarica. Ravna ruta uz Barbatski kanal nudi stalni pogled na kristalno čisto more i otok Dolin. Nakon duge pauze za kupanje na Pudarici, lagano se vraćamo u mjesto, uživamo u lokalnim specijalitetima i završavamo dan uz zalazak sunca u maloj luci u Barbat."
+        "hr": "Istražujemo obalu Barbata biciklom, stižući do poznate plaže Pudarica. Ravna ruta uz Barbat kanal nudi stalne poglede na kristalno čisto more i otok Dolin. Nakon dugog kupanja na Pudarici, polagano se vraćamo u selo, uživamo u lokalnim specijalitetima i završavamo dan zalaskom sunca u maloj luci Barbata."
       },
       "gastro_picks": {
         "de": [
@@ -874,8 +888,8 @@
         ],
         "hr": [
           "Obalna staza je ravna, ali sunce je jako – koristite zaštitu od sunca.",
-          "Uzmite dovoljno vode za dionicu do Pudarice.",
-          "U jeku sezone staza je popularna i među pješacima, pa vozite oprezno."
+          "Ponesite dovoljno vode za dionicu do Pudarice.",
+          "U visokoj sezoni staza je popularna i kod pješaka, vozite oprezno."
         ]
       },
       "variants": {
@@ -885,7 +899,7 @@
             "hu": "Az esős bringázás Barbatban óvatosságot igényel, de frissítő élmény. A templom után a Pudarica-öböl felé vesszük az irányt; a vizes aszfalt csillog, a fenyők illata pedig bódító. A tengerparti ebédet egy fedett teraszon költjük el, figyelve a tajtékzó hullámokat. A visszaút a csatorna mentén egy szinte néptelen tájon át vezet. Dolin látványa az esőben igazi kaland a kitartóknak. A napot egy forró itallal zárjuk a kikötőben, miközben lassan megszáradunk.",
             "ro": "Ciclismul în Barbat pe ploaie necesită prudență, dar oferă o perspectivă revigorantă. După biserică, pedalați spre golful Pudarica; asfaltul ud strălucește, iar mirosul pinilor este intens. Prânzul pe plajă se ia la un local acoperit, privind valurile spumegând. Drumul de întoarcere de-a lungul canalului trece printr-o natură aproape pustie. Vederea spre insula Dolin prin ploaie este o experiență pentru cei rezistenți. Ziua se încheie cu o băutură fierbinte în port, în timp ce vă uscați echipamentul.",
             "en": "Cycling in Barbat in the rain requires caution but offers a refreshing perspective. After the church, head towards Pudarica Bay; the wet roads glisten, and the scent of pines is more intense. Enjoy a seaside lunch at a covered venue while watching the crashing waves. The return trip along the channel takes you through a nearly deserted landscape. The view of Dolin through the rain is an adventure for the resilient. End the day with a hot drink in the harbor as you slowly dry off.",
-            "hr": "Vožnja biciklom u Barbat po kiši zahtijeva oprez, ali nudi osvježavajuću perspektivu. Nakon crkve, krenite prema uvali Pudarica; mokre ceste blistaju, a miris borova je intenzivniji. Uživajte u ručku uz more na natkrivenom mjestu dok gledate valove. Povratak uz kanal vodi vas kroz gotovo pust krajolik. Pogled na Dolin kroz kišu avantura je za one izdržljive. Završite dan toplim napitkom u luci dok se polako sušite."
+            "hr": "Bicikliranje u Barbatu po kiši zahtijeva oprez, ali nudi osvježavajuću perspektivu. Nakon crkve krenite prema uvali Pudarica; mokri putevi sjaje, a miris borova je intenzivniji. Uživajte u obalnom ručku u natkrivenom objektu dok gledate udar valova. Povratak uz kanal vodi kroz gotovo pustu krajinu. Pogled na Dolin kroz kišu avantura je za izdržljive. Završite dan toplim napitkom u luci dok se polako sušite."
           },
           "stops": [
             {
@@ -894,7 +908,8 @@
                 "de": "Prüfen Sie hier noch einmal Ihre Bremsen vor der Abfahrt.",
                 "hu": "Indulás előtt ellenőrizzük még egyszer a fékeket.",
                 "ro": "Verificați frânele încă o dată înainte de plecare.",
-                "en": "Check your brakes once more before heading out."
+                "en": "Check your brakes once more before heading out.",
+                "hr": "Provjerite kočnice još jednom prije polaska."
               }
             },
             {
@@ -903,7 +918,8 @@
                 "de": "Die Zufahrt kann bei Starkregen kleine Sturzbäche führen.",
                 "hu": "Erős esőben a levezető út kis patakokká változhat.",
                 "ro": "Drumul de acces poate avea mici șuvoaie la ploi torențiale.",
-                "en": "The access road can have small torrents during heavy rain."
+                "en": "The access road can have small torrents during heavy rain.",
+                "hr": "Pristupni put može imati male bujice tijekom jake kiše."
               }
             },
             {
@@ -912,7 +928,8 @@
                 "de": "Wählen Sie ein Restaurant mit sicherem Unterstand für die Räder.",
                 "hu": "Válasszunk olyan helyet, ahol fedett helyre tehetjük a bicikliket.",
                 "ro": "Alegeți un restaurant cu adăpost sigur pentru biciclete.",
-                "en": "Choose a restaurant with a secure shelter for your bikes."
+                "en": "Choose a restaurant with a secure shelter for your bikes.",
+                "hr": "Odaberite restoran s sigurnim zaklonom za vaše bicikle."
               }
             },
             {
@@ -921,7 +938,8 @@
                 "de": "Vorsicht bei Pfützen; sie könnten tiefer sein als gedacht.",
                 "hu": "Vigyázzunk a tócsákkal, mélyebbek lehetnek, mint látszanak.",
                 "ro": "Atenție la bălți; pot fi mai adânci decât par.",
-                "en": "Watch out for puddles; they might be deeper than they look."
+                "en": "Watch out for puddles; they might be deeper than they look.",
+                "hr": "Pazite na bare; mogu biti dublje nego što izgledaju."
               }
             },
             {
@@ -930,7 +948,8 @@
                 "de": "Kurzer Stopp; halten Sie die Kamera/Handy unter der Jacke.",
                 "hu": "Rövid megálló; a telefont tartsuk a kabát alatt.",
                 "ro": "Oprire scurtă; țineți telefonul sau camera sub jachetă.",
-                "en": "Short stop; keep your phone or camera under your jacket."
+                "en": "Short stop; keep your phone or camera under your jacket.",
+                "hr": "Kratko zaustavljanje; držite telefon ili fotoaparat pod jaknom."
               }
             },
             {
@@ -939,7 +958,8 @@
                 "de": "Warmer Tee im Café hilft gegen das Frösteln nach der Fahrt.",
                 "hu": "Egy meleg tea a kávézóban segít átmelegedni a túra után.",
                 "ro": "Un ceai cald la cafenea ajută contra frigurilor de după drum.",
-                "en": "A warm tea at the cafe helps against post-ride chills."
+                "en": "A warm tea at the cafe helps against post-ride chills.",
+                "hr": "Topli čaj u kafiću pomaže protiv hladnoće nakon vožnje."
               }
             }
           ],
@@ -973,11 +993,11 @@
               "Seek solid shelter immediately in case of a thunderstorm."
             ],
             "hr": [
-              "Nosite potpunu vodonepropusnu opremu (jaknu i hlače).",
+              "Nosite potpuno vodonepropusnu opremu (jaknu i hlače).",
               "Izbjegavajte naglo kočenje na mokrim oznakama na cesti.",
-              "Blatobrani su obavezni po ovakvom vremenu.",
-              "Obalna cesta je znatno manje prometna po kiši.",
-              "Odmah potražite čvrsti zaklon u slučaju grmljavine."
+              "Blatobrani su obavezni u ovakvom vremenu.",
+              "Obalna cesta značajno je manje prometna po kiši.",
+              "U slučaju oluje odmah potražite čvrst zaklon."
             ]
           }
         },
@@ -987,7 +1007,7 @@
             "hu": "A téli bringázás Barbatban a tiszta levegő szerelmeseinek való. A túra frissen indul a templomtól az elhagyatott Pudarica-öböl felé. Fürdőzők nélkül a strand vad és érintetlen arcát mutatja. A tengerparti ebéd helyi ízekkel melegít fel a visszaút előtt. Az alacsony napállás hosszú árnyékokat és különleges fényeket vet az Otok Dolin-szigetre. Mivel korán nyugszik a nap, pont időben érünk vissza a kikötőbe, hogy lássuk az Adria téli színeit.",
             "ro": "Ciclismul de iarnă în Barbat este o plăcere pentru fanii aerului curat. Turul începe viguros la biserică și continuă spre golful pustiu Pudarica. Fără turiști, plaja pare sălbatică și neatinsă. Prânzul pe malul mării vă încălzește cu specialități locale înainte de întoarcerea pe lângă canal. Soarele jos creează umbre lungi și o lumină fantastică pe insula Dolin. Deoarece apusul vine devreme, ajungem în port exact la timp pentru spectacolul de culori peste Adriatică.",
             "en": "Winter biking in Barbat is a treat for those who love crisp air. The tour starts fresh at the church and leads to the deserted Pudarica Bay. Without swimmers, the beach looks wild and untouched. A seaside lunch with local specialties warms you up before heading back along the Barbat Channel. The low sun creates long shadows and fantastic lighting on Dolin Island. As the sun sets early, we reach the harbor just in time to witness the winter glow over the Adriatic.",
-            "hr": "Zimski biciklizam u Barbat poslastica je za one koji vole oštar zrak. Tura počinje svježe kod crkve i vodi do puste uvale Pudarica. Bez kupača, plaža izgleda divlje i netaknuto. Ručak uz more s lokalnim specijalitetima zagrijat će vas prije povratka uz Barbatski kanal. Nisko sunce stvara duge sjene i fantastično osvjetljenje na otoku Dolin. Budući da sunce rano zalazi, u luku stižemo na vrijeme da svjedočimo zimskom sjaju nad Jadranom."
+            "hr": "Zimsko bicikliranje u Barbatu poslastica je za ljubitelje oštrog zraka. Tura počinje svježe kod crkve i vodi do puste uvale Pudarica. Bez kupača plaža izgleda divlje i netaknuto. Obalni ručak s lokalnim specijalitetima ugrijat će vas prije povratka uz Barbat kanal. Nisko sunce stvara duge sjene i fantastično osvjetljenje na otoku Dolin. Kako sunce zalazi rano, stižemo u luku taman na vrijeme da svjedočimo zimskom sjaju nad Jadranom."
           },
           "stops": [
             {
@@ -996,7 +1016,8 @@
                 "de": "Starten Sie nicht zu früh, um Frost auf dem Weg zu vermeiden.",
                 "hu": "Ne induljunk túl korán, hogy elkerüljük az utakon a hajnali fagyot.",
                 "ro": "Nu porniți prea devreme pentru a evita gheața pe drum.",
-                "en": "Don't start too early to avoid potential frost on the road."
+                "en": "Don't start too early to avoid potential frost on the road.",
+                "hr": "Ne krećite prerano kako biste izbjegli moguću poledicu na cesti."
               }
             },
             {
@@ -1005,7 +1026,8 @@
                 "de": "Genießen Sie die Einsamkeit; der Wind kann hier schneidend sein.",
                 "hu": "Élvezzük a magányt; a szél itt metsző lehet ilyenkor.",
                 "ro": "Bucurați-vă de singurătate; vântul poate fi tăios aici.",
-                "en": "Enjoy the solitude; the wind can be quite biting here."
+                "en": "Enjoy the solitude; the wind can be quite biting here.",
+                "hr": "Uživajte u samoći; ovdje vjetar zna biti prožimajuće hladan."
               }
             },
             {
@@ -1014,7 +1036,8 @@
                 "de": "Viele Strandbars haben zu; suchen Sie offene Ganzjahres-Konobas.",
                 "hu": "Sok strandbár zárva van; keressük az egész évben nyitva tartókat.",
                 "ro": "Multe baruri sunt închise; căutați taverne deschise tot anul.",
-                "en": "Many beach bars are closed; look for year-round Konobas."
+                "en": "Many beach bars are closed; look for year-round Konobas.",
+                "hr": "Mnogi beach barovi su zatvoreni; potražite konobe otvorene tijekom cijele godine."
               }
             },
             {
@@ -1023,7 +1046,8 @@
                 "de": "Hervorragende Fernsicht auf das Velebit-Gebirge im Osten.",
                 "hu": "Kiváló kilátás nyílik kelet felé a Velebit-hegységre.",
                 "ro": "Vizibilitate excelentă spre munții Velebit în est.",
-                "en": "Excellent long-distance views towards the Velebit mountains."
+                "en": "Excellent long-distance views towards the Velebit mountains.",
+                "hr": "Izvrsni vidici na velike udaljenosti prema Velebitu."
               }
             },
             {
@@ -1032,7 +1056,8 @@
                 "de": "Die Insel wirkt im Winterlicht besonders plastisch.",
                 "hu": "A sziget a téli fényben különösen élesen rajzolódik ki.",
                 "ro": "Insula pare deosebit de clară în lumina iernii.",
-                "en": "The island looks especially vivid in the winter light."
+                "en": "The island looks especially vivid in the winter light.",
+                "hr": "Otok izgleda osobito živo u zimskom svjetlu."
               }
             },
             {
@@ -1041,7 +1066,8 @@
                 "de": "Gegen 16:30 Uhr sinkt die Temperatur rapide. Schnell ins Warme!",
                 "hu": "16:30 után a hőmérséklet gyorsan esik. Irány a meleg kávézó!",
                 "ro": "După ora 16:30 temperatura scade rapid. Grăbiți-vă la căldură!",
-                "en": "After 16:30 the temperature drops quickly. Head for warmth!"
+                "en": "After 16:30 the temperature drops quickly. Head for warmth!",
+                "hr": "Nakon 16:30 temperatura brzo pada. Potražite toplinu!"
               }
             }
           ],
@@ -1075,11 +1101,11 @@
               "Take a hot drink with you in a thermos flask."
             ],
             "hr": [
-              "Nosite odjeću otpornu na vjetar i kvalitetne rukavice.",
-              "Planirajte turu tako da se vratite najkasnije do 17:00 sati.",
-              "Bura može učiniti bicikliranje vrlo napornim.",
-              "Provjerite tlak u gumama; hladan zrak ga lagano smanjuje.",
-              "Ponesite topli napitak sa sobom u termosici."
+              "Nosite vjetrootpornu odjeću i kvalitetne rukavice.",
+              "Planirajte povratak najkasnije do 17:00.",
+              "Bura može bicikliranje učiniti vrlo napornim.",
+              "Provjerite tlak u gumama; hladan zrak ga malo smanjuje.",
+              "Ponesite topao napitak u termosici."
             ]
           }
         }
@@ -1109,7 +1135,7 @@
             "hu": "A klaszter: Parkoljon a templom közelében az első körsétához.",
             "ro": "Cluster A: Parcați lângă biserică pentru primul tur pietonal.",
             "en": "Cluster A: Park near the church for the first walking tour.",
-            "hr": "Skupina A: Parkirajte u blizini crkve za prvi pješački obilazak."
+            "hr": "Skupina A: Parkirajte blizu crkve za prvu pješačku turu."
           }
         },
         {
@@ -1166,7 +1192,7 @@
             "hu": "C klaszter: Látványos kilátás fentről a csatornára.",
             "ro": "Cluster C: Vedere spectaculoasă de sus asupra canalului.",
             "en": "Cluster C: Spectacular view of the channel from above.",
-            "hr": "Skupina C: Spektakularan pogled na kanal odozgo."
+            "hr": "Skupina C: Spektakularan pogled na kanal s visine."
           }
         },
         {
@@ -1185,7 +1211,7 @@
             "hu": "B klaszter: Autózás Barbat legdélebbi pontjára.",
             "ro": "Cluster B: Călătorie până în cel mai sudic punct din Barbat.",
             "en": "Cluster B: Drive to the southernmost point of Barbat.",
-            "hr": "Skupina B: Vožnja do najjužnije točke Barbata."
+            "hr": "Skupina B: Vozite do najjužnije točke Barbata."
           }
         },
         {
@@ -1223,7 +1249,7 @@
             "hu": "Visszatérés a kiindulópontra az alkonyati fényekért.",
             "ro": "Revenire la punctul de plecare pentru culorile amurgului.",
             "en": "Return to the starting point for the evening glow.",
-            "hr": "Povratak na polazište za večernji sjaj."
+            "hr": "Povratak na polazište radi večernjeg sjaja."
           }
         }
       ],
@@ -1232,7 +1258,7 @@
         "hu": "Ez az autós nap ötvözi Barbat történelmi kincseit a pihentető strandolással. A központban, a Szent István-templomnál kezdünk, majd felautózunk és felsétálunk Szent Damján erődítményének romjaihoz a legszebb szigeti panorámáért. A délutánt Pudarica homokos strandján töltjük, amely azúrkék vizéről híres, végül a faluba visszatérve egy kellemes vacsorával zárjuk a napot.",
         "ro": "Această zi cu mașina combină comorile istorice din Barbat cu ore de relaxare pe plajă. Începem în centru la biserica Sf. Ștefan, înainte de a urca la ruinele cetății Sf. Damian pentru cea mai frumoasă panoramă asupra insulei Rab. După-amiaza o petrecem pe plaja cu nisip Pudarica, faimoasă pentru apa sa azurie, încheind ziua cu o cină plăcută înapoi în sat.",
         "en": "This car-based day combines Barbat's historical treasures with relaxing beach time. We start in the center at St. Stephen's Church before driving and hiking up to the ruins of St. Damian's fortress for the best views over Rab Island. We spend the afternoon at the sandy Pudarica beach, famous for its azure waters, and end the day with a nice dinner back in the village.",
-        "hr": "Ovaj dan automobilom spaja povijesna blaga Barbata s opuštajućim vremenom na plaži. Počinjemo u centru kod crkve sv. Stjepana prije vožnje i pješačenja do ruševina utvrde sv. Damjana za najbolji pogled na otok Rab. Poslijepodne provodimo na pješčanoj plaži Pudarica, poznatoj po azurnom moru, a dan završavamo lijepom večerom u mjestu."
+        "hr": "Ovaj jednodnevni izlet automobilom kombinira povijesne znamenitosti Barbata s opuštajućim vremenom na plaži. Krećemo iz centra kod crkve sv. Stjepana prije vožnje i pješačenja do ruševina utvrde sv. Damjana za najbolje poglede na otok Rab. Popodne provodimo na pješčanoj plaži Pudarica, poznatoj po azurnoj vodi, i završavamo dan lijepom večerom natrag u selu."
       },
       "gastro_picks": {
         "de": [
@@ -1402,9 +1428,9 @@
           "Sturdy footwear is required for the climb to St. Damian."
         ],
         "hr": [
-          "Cesta do Pudarice je uska, vozite oprezno.",
-          "Parking na plaži Pudarica može se brzo popuniti ljeti.",
-          "Za uspon na sv. Damjana potrebna je čvrsta obuća."
+          "Put do Pudarice je uzak, vozite oprezno.",
+          "Parkiranje na plaži Pudarica ljeti se brzo popunjava.",
+          "Za uspon do sv. Damjana potrebna je čvrsta obuća."
         ]
       },
       "variants": {
@@ -1414,7 +1440,7 @@
             "hu": "Autóval Barbat esőben is kényelmesen felfedezhető. A nap szárazon indul a templomnál, majd egy vízparti kávézás következik, miközben az ablakon át figyeljük az esőt. A Sv. Damjan erőd felé vezető út esőben is szép kilátást nyújt, a csatorna panorámáját pedig az autó oltalmából élvezhetjük. A Pudarica-öbölnél testközelből látjuk a zord tengert, majd egy hosszú ebéd ad meleget egy konobában. A naplementét az autóból nézzük végig, mielőtt visszatérnénk.",
             "ro": "Cu mașina, Barbat poate fi explorat confortabil chiar și pe ploaie. Ziua începe la biserică, urmată de o cafea la faleză, privind vremea prin fereastră. Drumul spre cetatea Sf. Damian oferă vederi largi în ciuda ploii, iar oprirea panoramică la canal este o plăcere la adăpost. În golful Pudarica experimentați marea agitată, înainte ca un prânz lung într-o tavernă să vă încălzească. Admirăm apusul protejați în mașină înainte de a încheia turul.",
             "en": "By car, Barbat can be explored comfortably even in the rain. The day starts dry at the church, followed by a cozy coffee at the Riva while watching the weather through the window. The drive to St. Damian's fortress offers wide views despite the rain, and the panoramic stop by the channel is a treat from the dry interior. At Pudarica Bay, experience the rough sea up close before a long lunch warms you up. Watch the sunset protected in the car before heading back.",
-            "hr": "Automobilom se Barbat može udobno istražiti čak i po kiši. Dan počinje suho kod crkve, nakon čega slijedi ugodna kava na Rivi dok kroz prozor promatrate vrijeme. Vožnja do utvrde sv. Damjana nudi široke vidike unatoč kiši, a panoramsko zaustavljanje uz kanal pravi je užitak iz suhe unutrašnjosti. U uvali Pudarica doživite uzburkano more izbliza prije nego što vas dugi ručak zagrije. Promatrajte zalazak sunca zaštićeni u automobilu prije povratka."
+            "hr": "Automobilom je Barbat ugodno istražiti i po kiši. Dan započinje suho kod crkve, nakon čega slijedi ugodna kava na rivi dok promatrate vrijeme kroz prozor. Vožnja do utvrde sv. Damjana nudi široke poglede unatoč kiši, a panoramsko zaustavljanje uz kanal prava je poslastica iz suhog unutrašnjeg prostora. U uvali Pudarica doživite razbijačicu mora iz blizine prije dugog ručka koji će vas ugrijati. Promatrajte zalazak sunca zaštićeni u autu prije povratka."
           },
           "stops": [
             {
@@ -1423,7 +1449,8 @@
                 "de": "Parkplatz direkt an der Straße; kurzer Weg zum Eingang.",
                 "hu": "Parkoló közvetlenül az út mellett, rövid séta a bejáratig.",
                 "ro": "Parcare chiar lângă drum; drum scurt până la intrare.",
-                "en": "Parking is right by the road; a short walk to the entrance."
+                "en": "Parking is right by the road; a short walk to the entrance.",
+                "hr": "Parkiranje je odmah uz cestu; kratka šetnja do ulaza."
               }
             },
             {
@@ -1432,7 +1459,8 @@
                 "de": "Parken Sie nah am Café, um nicht nass zu werden.",
                 "hu": "Parkoljunk közel a kávézóhoz, hogy ne ázzunk meg.",
                 "ro": "Parcați aproape de cafenea pentru a nu vă uda.",
-                "en": "Park close to the cafe to avoid getting wet."
+                "en": "Park close to the cafe to avoid getting wet.",
+                "hr": "Parkirajte blizu kafića kako biste izbjegli mokrenje."
               }
             },
             {
@@ -1441,7 +1469,8 @@
                 "de": "Der Anstieg kann rutschig sein; vorsichtig fahren und gehen.",
                 "hu": "Az emelkedő csúszós lehet; vezessünk és sétáljunk óvatosan.",
                 "ro": "Urcarea poate fi alunecoasă; conduceți și mergeți cu atenție.",
-                "en": "The climb can be slippery; drive and walk with caution."
+                "en": "The climb can be slippery; drive and walk with caution.",
+                "hr": "Uspon može biti klizav; vozite i hodajte oprezno."
               }
             },
             {
@@ -1450,7 +1479,8 @@
                 "de": "Genießen Sie den Blick direkt aus dem Autofenster.",
                 "hu": "Élvezzük a kilátást közvetlenül az autó ablakából.",
                 "ro": "Bucurați-vă de priveliște direct de la geamul mașinii.",
-                "en": "Enjoy the view directly from your car window."
+                "en": "Enjoy the view directly from your car window.",
+                "hr": "Uživajte u pogledu direktno iz prozora auta."
               }
             },
             {
@@ -1459,7 +1489,8 @@
                 "de": "Großer Parkplatz; man kann nah ans Wasser heranfahren.",
                 "hu": "Nagy parkoló; egészen közel hajthatunk a vízhez.",
                 "ro": "Parcare mare; puteți conduce foarte aproape de apă.",
-                "en": "Large parking area; you can drive very close to the water."
+                "en": "Large parking area; you can drive very close to the water.",
+                "hr": "Veliko parkiralište; možete voziti vrlo blizu vode."
               }
             },
             {
@@ -1468,7 +1499,8 @@
                 "de": "Suchen Sie Restaurants mit überdachtem Parkraum oder Nähe.",
                 "hu": "Keressünk éttermet, amelynek közelében van parkolóhely.",
                 "ro": "Căutați restaurante cu parcare acoperită sau în apropiere.",
-                "en": "Look for restaurants with parking nearby or covered spaces."
+                "en": "Look for restaurants with parking nearby or covered spaces.",
+                "hr": "Potražite restorane s parkirnim mjestima u blizini ili natkrivenim prostorima."
               }
             },
             {
@@ -1477,7 +1509,8 @@
                 "de": "Die Autoscheiben können beschlagen; Lüftung hochstellen.",
                 "hu": "Az ablakok bepárásodhatnak, állítsuk magasra a szellőzést.",
                 "ro": "Geamurile se pot aburi; setați ventilația la maximum.",
-                "en": "Windows might fog up; turn up the ventilation."
+                "en": "Windows might fog up; turn up the ventilation.",
+                "hr": "Prozori se mogu zamagliti; pojačajte ventilaciju."
               }
             }
           ],
@@ -1511,11 +1544,11 @@
               "Enjoy the drive with your favorite music in the dry interior."
             ],
             "hr": [
-              "Pripazite na akvaplaning na obalnoj cesti.",
-              "Koristite postavku brisača s intervalima.",
-              "Parkirna mjesta duž Rive često su prazna po kiši.",
-              "Ne ostavljajte mokre kišobrane na sjedalima automobila.",
-              "Uživajte u vožnji uz omiljenu glazbu u suhoj unutrašnjosti."
+              "Pazite na aquaplaning na obalnoj cesti.",
+              "Koristite intervalno podešavanje brisača vjetrobrana.",
+              "Parkirna mjesta uz Rivu često su prazna po kiši.",
+              "Ne ostavljajte mokre kišobrane na sjedalima auta.",
+              "Uživajte u vožnji uz omiljenu glazbu u suhom interijeru."
             ]
           }
         },
@@ -1525,7 +1558,7 @@
             "hu": "Egy téli autós kirándulás Barbatban a sziget nyugodt arcát mutatja. A templom után egy parti kávézóban melegszünk fel. A Sv. Damjan erőd felé autózva a tiszta téli levegőben elképesztő távlatok nyílnak a szárazföld felé. A Barbatski-csatornánál az Adria csillog az alacsony napsütésben. A Pudarica-öböl télen a csend szigete, tökéletes egy rövid, szeles sétához. Az ebéd a konobában a nap fénypontja, mielőtt megcsodálnánk a korai naplementét.",
             "ro": "O plimbare de iarnă cu mașina prin Barbat arată latura liniștită a insulei. După vizitarea bisericii, ne încălzim cu o cafea pe faleză. Drumul spre cetatea Sf. Damian oferă, în aerul clar, o vizibilitate incredibilă până la continent. La canalul Barbat, Adriatica sclipește sub soarele jos. Golful Pudarica este un loc al tăcerii iarna, perfect pentru o scurtă plimbare prin vânt. Prânzul la tavernă este punctul culminant, înainte de a admira apusul timpuriu.",
             "en": "A winter drive through Barbat reveals the island's tranquil side. After visiting the church, warm up with a coffee at the Riva. The drive to St. Damian's fortress offers incredible views reaching as far as the mainland in the clear winter air. At the Barbat Channel, the Adriatic glistens in the low sun. Pudarica Bay is a place of silence in winter, perfect for a short, breezy stroll. A Konoba lunch is the culinary highlight before admiring the early sunset.",
-            "hr": "Zimska vožnja kroz Barbat otkriva mirnu stranu otoka. Nakon posjeta crkvi, zagrijte se uz kavu na Rivi. Vožnja do utvrde sv. Damjana nudi nevjerojatne vidike koji sežu sve do kopna na čistom zimskom zraku. Uz Barbatski kanal, Jadran blista na niskom suncu. Uvala Pudarica zimi je mjesto tišine, savršeno za kratku, vjetrovitu šetnju. Ručak u konobi kulinarski je vrhunac prije divljenja ranom zalasku sunca."
+            "hr": "Zimska vožnja kroz Barbat otkriva mirnu stranu otoka. Nakon posjeta crkvi, ugrijte se kavom na rivi. Vožnja do utvrde sv. Damjana pruža nevjerojatne poglede koji sežu čak do kopna u bistrom zimskom zraku. Uz Barbat kanal Jadran škripi u niskom suncu. Uvala Pudarica zimi je mjesto tišine, savršeno za kratku, vjetrovitu šetnju. Ručak u konobi je kulinarski vrhunac prije divljenja ranom zalasku."
           },
           "stops": [
             {
@@ -1534,7 +1567,8 @@
                 "de": "Heizung im Auto sorgt für angenehmen Start.",
                 "hu": "Az autó fűtése kellemes indulást biztosít.",
                 "ro": "Încălzirea mașinii asigură un start plăcut.",
-                "en": "Car heating ensures a pleasant start to the day."
+                "en": "Car heating ensures a pleasant start to the day.",
+                "hr": "Grijanje u autu osigurava ugodan početak dana."
               }
             },
             {
@@ -1543,7 +1577,8 @@
                 "de": "Parkplätze sind im Winter kein Problem.",
                 "hu": "A parkolás télen egyáltalán nem jelent problémát.",
                 "ro": "Parcarea nu este o problemă în timpul iernii.",
-                "en": "Parking is not an issue during the winter months."
+                "en": "Parking is not an issue during the winter months.",
+                "hr": "Parkiranje tijekom zimskih mjeseci nije problem."
               }
             },
             {
@@ -1552,7 +1587,8 @@
                 "de": "Beste Sichtweite des Jahres bei klarem Wetter.",
                 "hu": "Tiszta időben az év legjobb látási viszonyai várnak.",
                 "ro": "Cea mai bună vizibilitate din an pe vreme senină.",
-                "en": "The best visibility of the year in clear weather."
+                "en": "The best visibility of the year in clear weather.",
+                "hr": "Najbolja vidljivost u godini pri jasnom vremenu."
               }
             },
             {
@@ -1561,7 +1597,8 @@
                 "de": "Tiefstehende Sonne kann blenden; Sonnenbrille mitnehmen.",
                 "hu": "Az alacsony nap vakíthat, vigyünk napszemüveget.",
                 "ro": "Soarele jos poate fi orbitor; luați ochelari de soare.",
-                "en": "The low sun can be blinding; bring sunglasses."
+                "en": "The low sun can be blinding; bring sunglasses.",
+                "hr": "Nisko sunce može zaslijepiti; ponesite sunčane naočale."
               }
             },
             {
@@ -1570,7 +1607,8 @@
                 "de": "Vom warmen Auto aus die Brandung beobachten.",
                 "hu": "A meleg autóból figyelhetjük a tenger morajlását.",
                 "ro": "Observați valurile din confortul mașinii calde.",
-                "en": "Watch the surf from the comfort of your warm car."
+                "en": "Watch the surf from the comfort of your warm car.",
+                "hr": "Promatrajte udare valova iz udobnosti toplog auta."
               }
             },
             {
@@ -1579,7 +1617,8 @@
                 "de": "Reservierung im Winter oft nicht nötig, aber sicherheitshalber.",
                 "hu": "Télen általában nem kell foglalni, de érdemes odaszólni.",
                 "ro": "Rezervarea nu e necesară iarna, dar e sigură.",
-                "en": "Reservations aren't usually needed in winter, but check."
+                "en": "Reservations aren't usually needed in winter, but check.",
+                "hr": "Rezervacije obično nisu potrebne zimi, ali provjerite."
               }
             },
             {
@@ -1588,7 +1627,8 @@
                 "de": "Rechnen Sie mit Sonnenuntergang gegen 16:15 Uhr.",
                 "hu": "Készüljünk fel, hogy a nap már 16:15 körül lemegy.",
                 "ro": "Așteptați-vă ca apusul să fie în jur de ora 16:15.",
-                "en": "Expect the sun to set around 16:15."
+                "en": "Expect the sun to set around 16:15.",
+                "hr": "Očekujte zalazak oko 16:15."
               }
             }
           ],
@@ -1622,11 +1662,11 @@
               "Hot drinks in the car make the breaks more comfortable."
             ],
             "hr": [
-              "Provjerite antifriz u tekućini za pranje stakla.",
-              "Ceste mogu biti skliske u sjenovitim zavojima.",
-              "Iskoristite parking bez stresa zimi.",
+              "Provjerite antifriz u tekućini za pranje vjetrobrana.",
+              "Ceste mogu biti skliske u zasjenjenim zavojima.",
+              "Iskoristite bezbrižno parkiranje zimi.",
               "Sunčane naočale su neophodne zbog niskog položaja sunca.",
-              "Topli napici u automobilu čine pauze ugodnijima."
+              "Vrući napitci u autu čine odmore ugodnijima."
             ]
           }
         }
@@ -1656,7 +1696,7 @@
             "hu": "A buszmegálló központi helyen található Barbat faluban.",
             "ro": "Stația de autobuz este situată central în satul Barbat.",
             "en": "The bus stop is centrally located in Barbat village.",
-            "hr": "Autobusna stanica nalazi se u središtu mjesta Barbat."
+            "hr": "Autobusna stanica nalazi se u središtu sela Barbat."
           }
         },
         {
@@ -1713,7 +1753,7 @@
             "hu": "Használja a helyi buszt Misnjak irányába.",
             "ro": "Folosiți autobuzul local în direcția Misnjak.",
             "en": "Use the local bus in the direction of Misnjak.",
-            "hr": "Koristite lokalni autobus u smjeru Mišnjaka."
+            "hr": "Koristite lokalni autobus u smjeru Misnjaka."
           }
         },
         {
@@ -1732,7 +1772,7 @@
             "hu": "Visszautazás a falu központjába busszal.",
             "ro": "Întoarcerea în centrul satului cu autobuzul.",
             "en": "Return to the village center by bus.",
-            "hr": "Povratak u centar mjesta autobusom."
+            "hr": "Povratak u središte sela autobusom."
           }
         },
         {
@@ -1760,7 +1800,7 @@
         "hu": "Barbat jól felfedezhető a szigeti busszal. A központban, a Szent István-templomnál kezdünk, majd gyalogosan ismerjük meg a Barbatski-csatornát. Egy kiadós ebéd után busszal utazunk Barbat déli végébe, hogy élvezzük a gyönyörű Pudarica strandot. A visszautat követően a falu központjában zárjuk a napot pihentető hangulatban.",
         "ro": "Barbat poate fi explorat ușor cu autobuzul insular. Începem în centru la biserica Sf. Ștefan și descoperim canalul Barbat la pas. După un prânz copios, luăm autobuzul spre capătul sudic al localității pentru a ne bucura de minunata plajă Pudarica. Drumul de întoarcere ne duce în centrul satului, unde încheiem ziua într-o atmosferă relaxată.",
         "en": "Barbat can be easily explored using the island bus. We start in the center at St. Stephen's Church and explore the Barbat Channel on foot. After a hearty lunch, we take the bus to the southern end of Barbat to enjoy the beautiful Pudarica beach. The return trip takes us back to the village center for a relaxed end to the day.",
-        "hr": "Barbat se lako može istražiti otočnim autobusom. Počinjemo u centru kod crkve sv. Stjepana i pješice istražujemo Barbatski kanal. Nakon krepkog ručka, idemo autobusom do južnog kraja Barbata kako bismo uživali u prekrasnoj plaži Pudarica. Povratak nas vodi natrag u centar mjesta za opušteni završetak dana."
+        "hr": "Barbat se lako može istražiti otočnim autobusom. Polazimo iz centra kod crkve sv. Stjepana i pješice istražujemo Barbaški kanal. Nakon obilnog ručka uzimamo autobus do južnog dijela Barbata kako bismo uživali na prekrasnoj plaži Pudarica. Povratak nas vodi natrag u središte sela za opušten završetak dana."
       },
       "gastro_picks": {
         "de": [
@@ -1885,9 +1925,9 @@
           "Stops are well-marked, but signal the driver to stop."
         ],
         "hr": [
-          "Unaprijed provjerite red vožnje autobusa jer učestalost može varirati.",
-          "Karte se mogu kupiti izravno kod vozača.",
-          "Stanice su dobro označene, ali dajte znak vozaču da stane."
+          "Provjerite vozni red autobusa unaprijed jer učestalost može varirati.",
+          "Karte se mogu kupiti izravno od vozača.",
+          "Stajališta su dobro označena, ali signalizirajte vozaču da stane."
         ]
       },
       "variants": {
@@ -1897,7 +1937,7 @@
             "hu": "Busszal Barbat esőben is bejárható anélkül, hogy bőrig áznánk. A Szent István-templom után egy rövid séta vezet a csatornához, ahol figyelhetjük a vízen táncoló esőcseppeket. Az ebéd a konobában kellemes száraz pihenőt kínál. A busz továbbvisz a Pudarica-öbölhöz, ahol a látvány szürke égbolt mellett is lenyűgöző. Otok Dolin látványa a megállókból is élvezhető. Az este Barbatban zárul, kényelmesen elérve az utolsó visszafelé tartó járatot.",
             "ro": "Cu autobuzul, Barbat poate fi explorat pe ploaie fără a vă uda prea tare. După biserica Sf. Ștefan, o scurtă plimbare duce la canalul Barbat, unde puteți observa ploaia pe apă. Prânzul la tavernă oferă o pauză binemeritată la adăpost. Autobuzul vă duce mai departe spre golful Pudarica, unde priveliștea impresionează și sub cerul gri. Vederea spre insula Dolin este adesea posibilă chiar din stații. Seara se încheie relaxat în Barbat înainte de ultimul autobuz.",
             "en": "By bus, Barbat can be explored in the rain without getting soaked. After St. Stephen's Church, a short walk leads to the Barbat Channel where you can watch the rain on the water. A Konoba lunch provides a welcome dry break. The bus continues to Pudarica Bay, where the view remains impressive even under gray skies. Views of Dolin Island are often accessible right from the bus stops. The evening ends in Barbat, comfortably catching the last bus back.",
-            "hr": "Autobusom se Barbat može istražiti po kiši, a da ne pokisnete. Nakon crkve sv. Stjepana, kratka šetnja vodi do Barbatskog kanala gdje možete promatrati kišu na površini mora. Ručak u konobi pruža dobrodošlu suhu pauzu. Autobus nastavlja do uvale Pudarica, gdje pogled ostaje impresivan čak i pod sivim nebom. Pogledi na otok Dolin često su dostupni izravno s autobusnih stanica. Večer završava u Barbat, uz udoban povratak zadnjim autobusom."
+            "hr": "Autobusom se Barbat može istražiti i po kiši bez da se smočite. Nakon crkve sv. Stjepana kratka šetnja vodi do Barbaškog kanala gdje možete gledati kapljice kiše na vodi. Ručak u konobi pruža zaslužen suhi predah. Autobus nastavlja do uvale Pudarica, gdje je pogled impresivan i pod sivim nebom. Pogledi na otok Dolin često su dostupni već s autobusnih stajališta. Večer završava u Barbatu, ugodno ulovivši zadnji autobus natrag."
           },
           "stops": [
             {
@@ -1906,7 +1946,8 @@
                 "de": "Bushaltestelle ist nur wenige Gehminuten entfernt.",
                 "hu": "A buszmegálló mindössze pár perc sétára található.",
                 "ro": "Stația de autobuz este la doar câteva minute de mers.",
-                "en": "The bus stop is only a few minutes' walk away."
+                "en": "The bus stop is only a few minutes' walk away.",
+                "hr": "Autobusna stanica udaljena je samo nekoliko minuta hoda."
               }
             },
             {
@@ -1915,7 +1956,8 @@
                 "de": "Bleiben Sie bei starkem Regen unter den Vordächern.",
                 "hu": "Erős esőben maradjunk az épületek ereszei alatt.",
                 "ro": "Stați sub streșini în caz de ploaie torențială.",
-                "en": "Stay under the eaves if the rain gets too heavy."
+                "en": "Stay under the eaves if the rain gets too heavy.",
+                "hr": "Ostanite pod nadstrešnicom ako kiša postane prejaka."
               }
             },
             {
@@ -1924,7 +1966,8 @@
                 "de": "Prüfen Sie die Abfahrtszeiten während des Essens.",
                 "hu": "Ebéd közben ellenőrizzük a buszok indulási idejét.",
                 "ro": "Verificați orele de plecare în timpul mesei.",
-                "en": "Check the bus departure times while you eat."
+                "en": "Check the bus departure times while you eat.",
+                "hr": "Provjerite polaske autobusa dok jedete."
               }
             },
             {
@@ -1933,7 +1976,8 @@
                 "de": "Die Haltestelle bietet oft ein kleines Wartehäuschen.",
                 "hu": "A megállónál gyakran van egy kis váróterem vagy bódé.",
                 "ro": "Stația are adesea o mică cabină de așteptare.",
-                "en": "The stop often has a small shelter for waiting."
+                "en": "The stop often has a small shelter for waiting.",
+                "hr": "Na stajalištu često ima mali zaklon za čekanje."
               }
             },
             {
@@ -1942,7 +1986,8 @@
                 "de": "Vom Fensterplatz im Bus aus gut zu sehen.",
                 "hu": "A busz ablakából, az ülésből is jól látható.",
                 "ro": "Se vede bine de la fereastra autobuzului.",
-                "en": "Well visible from the window seat on the bus."
+                "en": "Well visible from the window seat on the bus.",
+                "hr": "Dobro vidljivo iz prozornog sjedala u autobusu."
               }
             },
             {
@@ -1951,7 +1996,8 @@
                 "de": "Die letzte Busverbindung des Tages nicht verpassen.",
                 "hu": "Ne késsük le a nap utolsó buszjáratát.",
                 "ro": "Nu ratați ultima conexiune de autobuz a zilei.",
-                "en": "Don't miss the final bus connection of the day."
+                "en": "Don't miss the final bus connection of the day.",
+                "hr": "Ne propustite posljednju autobusnu vezu dana."
               }
             }
           ],
@@ -1985,10 +2031,10 @@
               "The route runs directly along the picturesque coastline."
             ],
             "hr": [
-              "Imajte spreman red vožnje, digitalno ili u tiskanom obliku.",
-              "Kupite karte unaprijed ili imajte spreman točan iznos gotovine.",
-              "Autobusi su često puni po kiši; planirajte dodatno vrijeme.",
-              "Koristite nadstrešnice na stanicama za zaštitu od kiše.",
+              "Imajte vozni red pri ruci, digitalno ili u tiskanom obliku.",
+              "Kupite karte unaprijed ili imajte točan iznos gotovine.",
+              "Autobusi su često prepuni po kiši; predvidite dodatno vrijeme.",
+              "Koristite autobusne zaklone za zaštitu od kiše.",
               "Ruta prolazi izravno uz slikovitu obalu."
             ]
           }
@@ -1999,7 +2045,7 @@
             "hu": "A téli buszos kirándulás Barbat nyugodt oldalát mutatja meg. A templom után a csatornához sétálunk, amely ragyog a téli fényben. A konoba melegséggel és téli finomságokkal hívogat. A busz elvisz a Pudarica-öbölhöz, amely télen szinte mágikus csendet áraszt. Otok Dolin látványa a tiszta levegőben fantasztikus. Mivel korán sötétedik, a délutánt Barbatban töltjük, majd busszal térünk vissza, miközben kigyúlnak a kikötő fényei.",
             "ro": "O excursie de iarnă cu autobuzul arată un Barbat liniștit. După biserică, drumul duce la canal, care strălucește în lumina iernii. Taverna vă atrage cu căldură și specialități de sezon. Autobuzul vă transportă la golful Pudarica, ce emană o liniște magică iarna. Vederea spre insula Dolin este fantastică în aerul clar. Deoarece se întunecă devreme, profităm de orele după-amiezii în Barbat înainte ca autobuzul să ne aducă înapoi, în timp ce luminile portului se aprind.",
             "en": "A winter bus excursion shows the quiet side of Barbat. After the church, head to the channel glistening in the winter light. The Konoba welcomes you with warmth and seasonal specialties. The bus takes us to Pudarica Bay, which radiates an almost magical silence in winter. The view of Dolin Island is fantastic in the clear air. As it gets dark early, we make the most of the afternoon in Barbat before the bus brings us back as the harbor lights begin to twinkle.",
-            "hr": "Zimski izlet autobusom pokazuje mirnu stranu Barbata. Nakon crkve, uputite se do kanala koji blista na zimskom svjetlu. Konoba vas dočekuje toplinom i sezonskim specijalitetima. Autobus nas vodi do uvale Pudarica, koja zimi odiše gotovo magičnom tišinom. Pogled na otok Dolin fantastičan je na čistom zraku. Kako se rano mrači, najbolje koristimo poslijepodne u Barbat prije nego što nas autobus vrati dok lučka svjetla počinju treperiti."
+            "hr": "Zimska autobusna izletnica pokazuje mirniju stranu Barbata. Nakon crkve krenite prema kanalu koji se presijava u zimskom svjetlu. Konoba vas dočeka toplinom i sezonskim specijalitetima. Autobus nas vodi do uvale Pudarica koja zimi zrači gotovo čarobnom tišinom. Pogled na otok Dolin je fantastičan u čistom zraku. Kako brzo pada mrak, maksimalno koristimo poslijepodne u Barbatu prije nego nas autobus vrati dok lučka svjetla počinju treperiti."
           },
           "stops": [
             {
@@ -2008,7 +2054,8 @@
                 "de": "Der Bus ist im Winter oft angenehm beheizt.",
                 "hu": "A buszok télen gyakran kellemesen fűtöttek.",
                 "ro": "Autobuzele sunt adesea încălzite plăcut iarna.",
-                "en": "The buses are often pleasantly heated in winter."
+                "en": "The buses are often pleasantly heated in winter.",
+                "hr": "Autobusi su zimi često ugodno grijani."
               }
             },
             {
@@ -2017,7 +2064,8 @@
                 "de": "Beachten Sie die kühleren Temperaturen am Wasser.",
                 "hu": "Vegyük figyelembe a vízparti hűvösebb hőmérsékletet.",
                 "ro": "Țineți cont de temperaturile mai scăzute lângă apă.",
-                "en": "Be mindful of the cooler temperatures near the water."
+                "en": "Be mindful of the cooler temperatures near the water.",
+                "hr": "Imajte na umu niže temperature blizu vode."
               }
             },
             {
@@ -2026,7 +2074,8 @@
                 "de": "Ein heißer Kaffee verkürzt die Wartezeit auf den Bus.",
                 "hu": "Egy forró kávé segít elütni az időt a busz érkezéséig.",
                 "ro": "O cafea fierbinte scurtează timpul de așteptare pentru autobuz.",
-                "en": "A hot coffee makes waiting for the bus more pleasant."
+                "en": "A hot coffee makes waiting for the bus more pleasant.",
+                "hr": "Vruća kava čini čekanje autobusa ugodnijim."
               }
             },
             {
@@ -2035,7 +2084,8 @@
                 "de": "Im Winter sind die Haltestellen fast menschenleer.",
                 "hu": "Télen a buszmegállók szinte teljesen üresek.",
                 "ro": "Stațiile de autobuz sunt aproape pustii iarna.",
-                "en": "The bus stops are almost deserted during the winter."
+                "en": "The bus stops are almost deserted during the winter.",
+                "hr": "Autobusna stajališta zimi su gotovo pusta."
               }
             },
             {
@@ -2044,7 +2094,8 @@
                 "de": "Halten Sie die Kamera für den Blick aus dem Bus bereit.",
                 "hu": "Tartsuk készenlétben a kamerát a buszból nyíló kilátáshoz.",
                 "ro": "Țineți camera pregătită pentru vederea din autobuz.",
-                "en": "Keep your camera ready for the view from the bus."
+                "en": "Keep your camera ready for the view from the bus.",
+                "hr": "Držite fotoaparat pri ruci za pogled iz autobusa."
               }
             },
             {
@@ -2053,7 +2104,8 @@
                 "de": "Der Winterfahrplan kann vom Sommerfahrplan abweichen.",
                 "hu": "A téli menetrend eltérhet a nyáritól, ellenőrizzük.",
                 "ro": "Orarul de iarnă poate diferi de cel de vară; verificați-l.",
-                "en": "The winter schedule may differ from the summer one."
+                "en": "The winter schedule may differ from the summer one.",
+                "hr": "Zimski vozni red može se razlikovati od ljetnog."
               }
             }
           ],
@@ -2087,11 +2139,11 @@
               "Enjoy the coastal views without the summer heat."
             ],
             "hr": [
-              "Provjerite zimski red vožnje (rjeđe linije).",
-              "Nosite toplu odjeću za čekanje na otvorenom na stanicama.",
+              "Provjerite zimski raspored (rjeđe linije).",
+              "Obucite toplu odjeću za čekanje vani na stajalištima.",
               "Autobusi su pouzdano prijevozno sredstvo zimi.",
-              "Stanice su dobri orijentiri za snalaženje u mjestu.",
-              "Uživajte u pogledu na obalu bez ljetnih vrućina."
+              "Stajališta su dobri orijentiri za snalaženje u selu.",
+              "Uživajte u obalnim pogledima bez ljetne vrućine."
             ]
           }
         }

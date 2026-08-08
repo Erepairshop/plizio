@@ -21,7 +21,8 @@
             "de": "Altstadt von Rogoznica",
             "hu": "Rogoznica óvárosa",
             "ro": "Orașul vechi Rogoznica",
-            "en": "Rogoznica Old Town"
+            "en": "Rogoznica Old Town",
+            "hr": "Stari grad Rogoznica"
           },
           "coords": [
             15.9685,
@@ -36,14 +37,15 @@
             "de": "Frühstücken Sie in einer der kleinen Gassen am Morgen.",
             "hu": "Reggelizzünk az egyik kis sikátorban.",
             "ro": "Luați micul dejun pe una dintre străduțele înguste.",
-            "en": "Have breakfast in one of the small narrow alleys."
+            "en": "Have breakfast in one of the small narrow alleys.",
+            "hr": "Doručkujte u jednoj od malih uskih uličica."
           },
           "tip_5lang": {
             "de": "Schlendern Sie durch die engen Steingassen mit Blick auf die Bucht.",
             "hu": "Sétáljon végig a szűk kőutcákon, csodás kilátással az öbölre.",
             "ro": "Plimbați-vă pe străduțele înguste de piatră cu vedere la golf.",
             "en": "Wander the narrow stone alleys with sweeping bay views.",
-            "hr": "Lutajte uskim kamenim uličicama s prekrasnim pogledom na zaljev."
+            "hr": "Prošećite uskim kamenitim ulicama s pogledom na zaljev."
           }
         },
         {
@@ -51,7 +53,8 @@
             "de": "Kirche Mariä Himmelfahrt",
             "hu": "Mária Mennybevétele templom",
             "ro": "Biserica Adormirea Maicii Domnului",
-            "en": "Church of the Assumption"
+            "en": "Church of the Assumption",
+            "hr": "Crkva Uznesenja"
           },
           "coords": [
             15.9692,
@@ -66,14 +69,15 @@
             "de": "Achten Sie auf die Steinmetzarbeiten am Turm.",
             "hu": "Figyeljük meg a torony kőfaragványait.",
             "ro": "Admirați sculpturile în piatră de pe turn.",
-            "en": "Observe the stonework on the tower."
+            "en": "Observe the stonework on the tower.",
+            "hr": "Promatrajte kameni rad na zvoniku."
           },
           "tip_5lang": {
             "de": "Kleine Pfarrkirche mit barockem Altar, kurzer Stopp lohnt sich.",
             "hu": "Kis plébániatemplom barokk oltárral, érdemes betérni egy percre.",
             "ro": "Bisericuță parohială cu altar baroc, o oprire scurtă merită.",
             "en": "Small parish church with a baroque altar, worth a short stop.",
-            "hr": "Mala župna crkva s baroknim oltarom, vrijedna kratkog zaustavljanja."
+            "hr": "Mala župna crkva s baroknim oltarom, vrijedi kratka stanica."
           }
         },
         {
@@ -81,7 +85,8 @@
             "de": "Marina Frapa",
             "hu": "Marina Frapa",
             "ro": "Marina Frapa",
-            "en": "Marina Frapa"
+            "en": "Marina Frapa",
+            "hr": "Marina Frapa"
           },
           "coords": [
             15.9615,
@@ -96,14 +101,15 @@
             "de": "Besuchen Sie die Unterwasserbar im Yachthafen.",
             "hu": "Látogassuk meg a kikötő víz alatti bárját.",
             "ro": "Vizitați barul subacvatic din port.",
-            "en": "Visit the underwater bar in the marina."
+            "en": "Visit the underwater bar in the marina.",
+            "hr": "Posjetite podvodni bar u marini."
           },
           "tip_5lang": {
             "de": "Eine der größten ACI-Marinas Kroatiens, ideal zum Yachten-Schauen.",
             "hu": "Horvátország egyik legnagyobb ACI kikötője, remek hely jachtnézésre.",
             "ro": "Una dintre cele mai mari marini ACI din Croația, perfectă pentru yachturi.",
             "en": "One of Croatia's largest ACI marinas, perfect for yacht spotting.",
-            "hr": "Jedna od najvećih marina u Hrvatskoj, savršena za promatranje jahti."
+            "hr": "Jedna od najvećih hrvatskih ACI marina, izvrstan za promatranje jahti."
           }
         },
         {
@@ -111,7 +117,8 @@
             "de": "Strand Miline",
             "hu": "Miline strand",
             "ro": "Plaja Miline",
-            "en": "Miline Beach"
+            "en": "Miline Beach",
+            "hr": "Plaža Miline"
           },
           "coords": [
             15.9635,
@@ -126,14 +133,15 @@
             "de": "Perfekt für Familien durch das flache Wasser.",
             "hu": "A sekély víz miatt ideális családoknak.",
             "ro": "Perfect pentru familii datorită apei puțin adânci.",
-            "en": "Perfect for families due to the shallow water."
+            "en": "Perfect for families due to the shallow water.",
+            "hr": "Savršena za obitelji zbog plitke vode."
           },
           "tip_5lang": {
             "de": "Kies-Sand-Mix mit flachem Einstieg, perfekt für eine längere Badepause.",
             "hu": "Kavics-homok keverék lankás bemenettel, hosszabb fürdéshez ideális.",
             "ro": "Mix de pietriș și nisip cu intrare lină, ideal pentru o baie lungă.",
             "en": "Pebble-sand mix with a gentle entry, ideal for a long swim break.",
-            "hr": "Mješavina šljunka i pijeska s blagim ulazom, idealna za dužu pauzu za kupanje."
+            "hr": "Mješavina šljunka i pijeska s blagim ulazom, idealna za dugi plivački odmor."
           }
         },
         {
@@ -141,7 +149,8 @@
             "de": "Drachenaugen-See",
             "hu": "Sárkány-szem tó",
             "ro": "Lacul Ochiul Dragonului",
-            "en": "Dragon's Eye Lake"
+            "en": "Dragon's Eye Lake",
+            "hr": "Jezero Zmajevo Oko"
           },
           "coords": [
             15.9595,
@@ -156,14 +165,15 @@
             "de": "Springen Sie von den Klippen in das salzige Wasser.",
             "hu": "Ugorjunk a sziklákról a sós vízbe.",
             "ro": "Săriți de pe stânci în apa sărată.",
-            "en": "Jump from the cliffs into the salty water."
+            "en": "Jump from the cliffs into the salty water.",
+            "hr": "Skakanje s litica u slanu vodu."
           },
           "tip_5lang": {
             "de": "Salzwasser-Karst-See mit Klippen, Badeschuhe gegen scharfe Steine mitnehmen.",
             "hu": "Karsztos sósvizű tó sziklákkal, hozzon úszócipőt az éles kövek miatt.",
             "ro": "Lac carstic cu apă sărată și stânci, luați încălțăminte de apă.",
             "en": "Karst saltwater lake with cliffs, bring water shoes for sharp rocks.",
-            "hr": "Krško slano jezero s liticama, ponesite obuću za vodu zbog oštrog kamenja."
+            "hr": "Karski slanično jezero s liticama, ponesite vodene papuče zbog oštrih stijena."
           }
         },
         {
@@ -171,7 +181,8 @@
             "de": "Kap Gradina",
             "hu": "Gradina-fok",
             "ro": "Capul Gradina",
-            "en": "Cape Gradina"
+            "en": "Cape Gradina",
+            "hr": "Rt Gradina"
           },
           "coords": [
             15.9555,
@@ -186,14 +197,15 @@
             "de": "Genießen Sie den Sonnenuntergang an der kleinen Kapelle.",
             "hu": "Élvezzük a naplementét a kis kápolnánál.",
             "ro": "Bucurați-vă de apus la mica capelă.",
-            "en": "Enjoy the sunset by the small chapel."
+            "en": "Enjoy the sunset by the small chapel.",
+            "hr": "Uživajte u zalasku sunca kraj male kapelice."
           },
           "tip_5lang": {
             "de": "Felsige Landzunge mit kleiner Kapelle, beliebt für den Sonnenuntergang.",
             "hu": "Sziklás földnyelv kis kápolnával, naplementekor a legszebb.",
             "ro": "Limbă stâncoasă de pământ cu o capelă mică, superbă la apus.",
             "en": "Rocky headland with a small chapel, popular at sunset.",
-            "hr": "Stjenoviti rt s malom kapelicom, popularno mjesto za zalazak sunca."
+            "hr": "Stjenoviti rt s malom kapelicom, popularan za zalazak sunca."
           }
         }
       ],
@@ -202,7 +214,7 @@
         "hu": "A reggelt a szigeten fekvő óváros hangulatos utcáin kezdjük. Délben a Marina Frapa luxusjachtjai között sétálunk, ami az Adria egyik legszebb kikötője. Délután a Miline strandon pihenünk, majd megnézzük a Sárkány-szem tó természeti csodáját. Az estét egy romantikus sétával zárjuk a Gradina-fokhoz.",
         "ro": "Dimineața explorați străduțele fermecătoare ale orașului vechi de pe insulă. La prânz vă plimbați prin luxoasa Marina Frapa, una dintre cele mai frumoase porturi de la Adriatică. După-amiaza vă relaxați pe plaja Miline și vizitați fenomenul natural al Lacului Ochiul Dragonului. Încheiați seara cu o plimbare romantică spre Capul Gradina.",
         "en": "Start your morning in the charming streets of the old town on the island. At noon, stroll through the luxurious Marina Frapa, one of the most beautiful marinas on the Adriatic. In the afternoon, relax at Miline Beach and visit the natural phenomenon of Dragon's Eye Lake. Finish the evening with a romantic walk to Cape Gradina.",
-        "hr": "Započnite jutro u šarmantnim uličicama stare jezgre na otoku. U podne prošećite luksuznom Marinom Frapa, jednom od najljepših marina na Jadranu. Poslijepodne se opustite na plaži Miline i posjetite prirodni fenomen, jezero Zmajevo oko. Večer završite romantičnom šetnjom do rta Gradina."
+        "hr": "Započnite jutro u šarmantnim ulicama starog grada na otoku. U podne prošećite luksuznom Marinom Frapa, jednom od najljepših marina na Jadranu. Popodne se opustite na plaži Miline i posjetite prirodni fenomen Jezero Zmajevo Oko. Večer završite romantičnom šetnjom do Rta Gradina."
       },
       "gastro_picks": {
         "de": [
@@ -396,10 +408,10 @@
           "Shade is scarce at Cape Gradina, bring a hat."
         ],
         "hr": [
-          "Rogoznica je otok povezan s kopnom nasipom.",
-          "Nosite obuću za vodu za posjet jezeru Zmajevo oko.",
-          "Marina Frapa nudi besplatan Wi-Fi za posjetitelje.",
-          "Na rtu Gradina ima malo hlada, ponesite šešir."
+          "Rogoznica je otok povezan nasipom.",
+          "Nosite vodene papuče za Jezero Zmajevo Oko.",
+          "Marina Frapa nudi besplatan Wi‑Fi za posjetitelje.",
+          "U hladu je malo na rt Gradina, ponesite šešir."
         ]
       },
       "variants": {
@@ -408,7 +420,8 @@
             "de": "Morgens erkunden Sie die charmanten Gassen der Altstadt auf der Insel. Mittags schlendern Sie durch die luxuriöse Marina Frapa, eine der schönsten an der Adria. Nachmittags entspannen Sie am Strand Miline und besuchen das Naturphänomen des Drachenaugen-Sees. Den Abend lassen Sie bei einem romantischen Spaziergang zum Kap Gradina ausklingen.",
             "hu": "A reggelt a szigeten fekvő óváros hangulatos utcáin kezdjük. Délben a Marina Frapa luxusjachtjai között sétálunk, ami az Adria egyik legszebb kikötője. Délután a Miline strandon pihenünk, majd megnézzük a Sárkány-szem tó természeti csodáját. Az estét egy romantikus sétával zárjuk a Gradina-fokhoz.",
             "ro": "Dimineața explorați străduțele fermecătoare ale orașului vechi de pe insulă. La prânz vă plimbați prin luxoasa Marina Frapa, una dintre cele mai frumoase porturi de la Adriatică. După-amiaza vă relaxați pe plaja Miline și vizitați fenomenul natural al Lacului Ochiul Dragonului. Încheiați seara cu o plimbare romantică spre Capul Gradina.",
-            "en": "Start your morning in the charming streets of the old town on the island. At noon, stroll through the luxurious Marina Frapa, one of the most beautiful marinas on the Adriatic. In the afternoon, relax at Miline Beach and visit the natural phenomenon of Dragon's Eye Lake. Finish the evening with a romantic walk to Cape Gradina."
+            "en": "Start your morning in the charming streets of the old town on the island. At noon, stroll through the luxurious Marina Frapa, one of the most beautiful marinas on the Adriatic. In the afternoon, relax at Miline Beach and visit the natural phenomenon of Dragon's Eye Lake. Finish the evening with a romantic walk to Cape Gradina.",
+            "hr": "Počnite jutro u šarmantnim ulicama starog grada na otoku. U podne prošećite luksuznom Marinom Frapa, jednom od najljepših marina na Jadranu. Poslijepodne se opustite na plaži Miline i posjetite prirodni fenomen Zmajevo oko. Završite večer romantičnom šetnjom do rta Gradina."
           },
           "stops": [
             {
@@ -416,13 +429,15 @@
                 "de": "Altstadt von Rogoznica",
                 "hu": "Rogoznica óvárosa",
                 "ro": "Orașul vechi Rogoznica",
-                "en": "Rogoznica Old Town"
+                "en": "Rogoznica Old Town",
+                "hr": "Stari grad Rogoznica"
               },
               "tip_5lang": {
                 "de": "Schlendern Sie durch die engen Steingassen mit Blick auf die Bucht.",
                 "hu": "Sétáljon végig a szűk kőutcákon, csodás kilátással az öbölre.",
                 "ro": "Plimbați-vă pe străduțele înguste de piatră cu vedere la golf.",
-                "en": "Wander the narrow stone alleys with sweeping bay views."
+                "en": "Wander the narrow stone alleys with sweeping bay views.",
+                "hr": "Šetajte uskim kamenim uličicama s pogledom na uvalu."
               }
             },
             {
@@ -430,13 +445,15 @@
                 "de": "Kirche Mariä Himmelfahrt",
                 "hu": "Mária Mennybevétele templom",
                 "ro": "Biserica Adormirea Maicii Domnului",
-                "en": "Church of the Assumption"
+                "en": "Church of the Assumption",
+                "hr": "Crkva Uznesenja"
               },
               "tip_5lang": {
                 "de": "Kleine Pfarrkirche mit barockem Altar, kurzer Stopp lohnt sich.",
                 "hu": "Kis plébániatemplom barokk oltárral, érdemes betérni egy percre.",
                 "ro": "Bisericuță parohială cu altar baroc, o oprire scurtă merită.",
-                "en": "Small parish church with a baroque altar, worth a short stop."
+                "en": "Small parish church with a baroque altar, worth a short stop.",
+                "hr": "Mala župna crkva s baroknim oltarom, vrijedna kratkog zadržavanja."
               }
             },
             {
@@ -444,13 +461,15 @@
                 "de": "Marina Frapa",
                 "hu": "Marina Frapa",
                 "ro": "Marina Frapa",
-                "en": "Marina Frapa"
+                "en": "Marina Frapa",
+                "hr": "Marina Frapa"
               },
               "tip_5lang": {
                 "de": "Eine der größten ACI-Marinas Kroatiens, ideal zum Yachten-Schauen.",
                 "hu": "Horvátország egyik legnagyobb ACI kikötője, remek hely jachtnézésre.",
                 "ro": "Una dintre cele mai mari marini ACI din Croația, perfectă pentru yachturi.",
-                "en": "One of Croatia's largest ACI marinas, perfect for yacht spotting."
+                "en": "One of Croatia's largest ACI marinas, perfect for yacht spotting.",
+                "hr": "Jedna od najvećih ACI marina u Hrvatskoj, idealna za promatranje jahti."
               }
             },
             {
@@ -458,13 +477,15 @@
                 "de": "Strand Miline",
                 "hu": "Miline strand",
                 "ro": "Plaja Miline",
-                "en": "Miline Beach"
+                "en": "Miline Beach",
+                "hr": "Plaža Miline"
               },
               "tip_5lang": {
                 "de": "Kies-Sand-Mix mit flachem Einstieg, perfekt für eine längere Badepause.",
                 "hu": "Kavics-homok keverék lankás bemenettel, hosszabb fürdéshez ideális.",
                 "ro": "Mix de pietriș și nisip cu intrare lină, ideal pentru o baie lungă.",
-                "en": "Pebble-sand mix with a gentle entry, ideal for a long swim break."
+                "en": "Pebble-sand mix with a gentle entry, ideal for a long swim break.",
+                "hr": "Mješavina šljunka i pijeska s blagim ulazom, idealna za duži kupajući odmor."
               }
             },
             {
@@ -472,13 +493,15 @@
                 "de": "Drachenaugen-See",
                 "hu": "Sárkány-szem tó",
                 "ro": "Lacul Ochiul Dragonului",
-                "en": "Dragon's Eye Lake"
+                "en": "Dragon's Eye Lake",
+                "hr": "Zmajevo oko"
               },
               "tip_5lang": {
                 "de": "Salzwasser-Karst-See mit Klippen, Badeschuhe gegen scharfe Steine mitnehmen.",
                 "hu": "Karsztos sósvizű tó sziklákkal, hozzon úszócipőt az éles kövek miatt.",
                 "ro": "Lac carstic cu apă sărată și stânci, luați încălțăminte de apă.",
-                "en": "Karst saltwater lake with cliffs, bring water shoes for sharp rocks."
+                "en": "Karst saltwater lake with cliffs, bring water shoes for sharp rocks.",
+                "hr": "Karsko slanozero s liticama, ponesite vodene cipele zbog oštrih stijena."
               }
             },
             {
@@ -486,13 +509,15 @@
                 "de": "Kap Gradina",
                 "hu": "Gradina-fok",
                 "ro": "Capul Gradina",
-                "en": "Cape Gradina"
+                "en": "Cape Gradina",
+                "hr": "Rt Gradina"
               },
               "tip_5lang": {
                 "de": "Felsige Landzunge mit kleiner Kapelle, beliebt für den Sonnenuntergang.",
                 "hu": "Sziklás földnyelv kis kápolnával, naplementekor a legszebb.",
                 "ro": "Limbă stâncoasă de pământ cu o capelă mică, superbă la apus.",
-                "en": "Rocky headland with a small chapel, popular at sunset."
+                "en": "Rocky headland with a small chapel, popular at sunset.",
+                "hr": "Stjenoviti rt s malom kapelicom, popularan za zalazak sunca."
               }
             }
           ],
@@ -654,6 +679,12 @@
               "Wear water shoes for the Dragon's Eye Lake.",
               "Marina Frapa offers free Wi-Fi for visitors.",
               "Shade is scarce at Cape Gradina, bring a hat."
+            ],
+            "hr": [
+              "Rogoznica je otok povezan nasipom.",
+              "Nosite vodene cipele za Zmajevo oko.",
+              "Marina Frapa nudi besplatni Wi‑Fi za posjetitelje.",
+              "U hladu je malo na rt Gradina, ponesite šešir."
             ]
           }
         },
@@ -663,7 +694,7 @@
             "hu": "A reggel az óváros szűk utcáin esőben is hangulatos, a kőházak védelmet nyújtanak a szél ellen. Délben a Marina Frapa elegáns fedett teraszai tökéletesek a pihenésre. Délután a Sárkányszem-tó misztikus látványt nyújt a borús égbolt alatt. Az este egy helyi konobában, a tenger morajlását hallgatva, egy tál meleg halleves mellett a legkellemesebb.",
             "ro": "Dimineața în orașul vechi din Rogoznica este atmosferică chiar și pe ploaie, străzile înguste oferind un farmec aparte. La prânz, Marina Frapa oferă adăpost excelent și vederi frumoase spre port. După-amiaza, Lacul Ochiul Dragonului capătă nuanțe dramatice sub cerul înnorat. Seara se încheie perfect într-o tavernă locală, savurând preparate calde în timp ce ploaia bate în geam.",
             "en": "Morning in Rogoznica's old town remains atmospheric despite the rain, with narrow stone alleys providing some shelter. At noon, Marina Frapa offers excellent covered spots to enjoy the view of the yachts. In the afternoon, Dragon's Eye Lake looks mystical under the heavy clouds. The evening is best spent in a cozy local konoba, listening to the rain while enjoying fresh seafood.",
-            "hr": "Jutro u starom gradu Rogoznice ostaje atmosfersko unatoč kiši, a uske kamene uličice pružaju određeni zaklon. U podne, Marina Frapa nudi izvrsna natkrita mjesta za uživanje u pogledu na jahte. Poslijepodne, jezero Zmajevo oko izgleda mistično pod teškim oblacima. Večer je najbolje provesti u ugodnoj lokalnoj konobi, slušajući kišu uz svježe plodove mora."
+            "hr": "Jutro u starom gradu Rogoznice ostaje ugođajno unatoč kiši, uske kamene uličice pružaju određenu zaklonjenost. U podne Marina Frapa nudi izvrsna pokrivena mjesta za uživanje u pogledu na jahte. Poslijepodne Zmajevo oko izgleda mistično pod teškim oblacima. Večer je najbolje provesti u ugodnoj lokalnoj konobi, slušajući kišu dok uživate u svježim plodovima mora."
           },
           "stops": [
             {
@@ -673,7 +704,7 @@
                 "hu": "A macskakő csúszós, viseljen tapadós talpú cipőt.",
                 "ro": "Pavelele sunt alunecoase, purtați încălțăminte adecvată.",
                 "en": "Cobblestones are slippery when wet, wear grippy shoes.",
-                "hr": "Kaldrma je skliska kad je mokra, nosite obuću koja se ne kliže."
+                "hr": "Kocke su klizave kad su mokre, nosite cipele s dobrim đonom."
               }
             },
             {
@@ -693,7 +724,7 @@
                 "hu": "Használja a fedett árkádokat a sétához a kikötőben.",
                 "ro": "Folosiți arcadele acoperite pentru plimbarea prin marină.",
                 "en": "Use the covered arcades for your walk around the marina.",
-                "hr": "Koristite natkrivene arkade za šetnju oko marine."
+                "hr": "Iskoristite natkrivene arkade za šetnju oko marine."
               }
             },
             {
@@ -703,7 +734,7 @@
                 "hu": "Rövid megálló egy zárt kávézó előtetője alatt.",
                 "ro": "Oprire scurtă sub copertina unei cafenele închise.",
                 "en": "Quick stop under the awning of a closed beach cafe.",
-                "hr": "Brzo zaustavljanje pod tendom zatvorenog plažnog kafića."
+                "hr": "Brzi predah pod tendom zatvorenog plažnog kafića."
               }
             },
             {
@@ -723,7 +754,7 @@
                 "hu": "Élvezze a hullámtörést biztonságos távolságból.",
                 "ro": "Admirați valurile izbindu-se de țărm de la distanță.",
                 "en": "Enjoy the dramatic waves from a safe distance.",
-                "hr": "Uživajte u dramatičnim valovima sa sigurne udaljenosti."
+                "hr": "Uživajte u dramatičnim valovima s sigurne udaljenosti."
               }
             }
           ],
@@ -753,10 +784,10 @@
               "Wear waterproof hiking shoes for the natural segments."
             ],
             "hr": [
-              "Kišobran otporan na vjetar je neophodan zbog obalnih naleta.",
-              "Marina Frapa nudi najbolje zatvorene sadržaje u gradu.",
+              "Protuvjetni kišobran otporan na vjetar je neophodan zbog obalnih naleta.",
+              "Marina Frapa pruža najbolje unutarnje sadržaje u gradu.",
               "Mnoge uličice starog grada nude prirodni zaklon od kiše.",
-              "Nosite vodootpornu obuću za pješačenje za prirodne dionice."
+              "Nosite vodonepropusne planinarske cipele za prirodne dijelove."
             ]
           }
         },
@@ -766,7 +797,7 @@
             "hu": "A téli reggel Rogoznicában frissítő és békés, tömegek nélkül fedezhetjük fel az utcákat. Délben a nap kellemesen melengeti a Marina fehér köveit, alkalmat adva egy sétára. A korai naplemente délután aranyba öltözteti a Gradina-fokot. Az este csendes, a legkellemesebb egy kandallóval fűtött helyi vendéglőben elidőzni.",
             "ro": "O dimineață de iarnă în Rogoznica este revigorantă și liniștită, fără mulțimile de vară. La prânz, soarele încălzește pietrele albe din marină, perfect pentru o scurtă pauză. Apusul timpuriu de după-amiază scaldă Capul Gradina în lumină aurie. Seara aduce o liniște deplină, ideală pentru a fi savurată lângă un șemineu local.",
             "en": "A crisp winter morning in Rogoznica is refreshing and peaceful without the summer crowds. At noon, the sun warms the bright stones of the marina, perfect for a short stroll. The early afternoon sunset paints Cape Gradina in golden hues. The evening brings a deep silence to the village, best enjoyed by the fireplace of a local tavern.",
-            "hr": "Oštro zimsko jutro u Rogoznici je osvježavajuće i mirno bez ljetnih gužvi. U podne sunce grije svijetle kamene marine, što je savršeno za kratku šetnju. Rani poslijepodnevni zalazak sunca boji rt Gradina u zlatne nijanse. Večer donosi duboku tišinu u mjesto, u kojoj je najbolje uživati uz kamin lokalne konobe."
+            "hr": "Svježe zimsko jutro u Rogoznici je osvježavajuće i mirno bez ljetnih gužvi. U podne sunce grije svijetle kamene marine, savršeno za kratku šetnju. Rano poslijepodne sunčev zalazak boji rt Gradinu zlatnim nijansama. Večer donosi duboku tišinu selu, najbolje je uživati kraj kamina lokalne konobe."
           },
           "stops": [
             {
@@ -776,7 +807,7 @@
                 "hu": "A kövek jól tárolják a déli napsütés melegét.",
                 "ro": "Pietrele rețin bine căldura soarelui de la prânz.",
                 "en": "The stones retain the midday sun warmth very well.",
-                "hr": "Kamenje vrlo dobro zadržava toplinu podnevnog sunca."
+                "hr": "Kamen dobro zadržava toplinu podnevnog sunca."
               }
             },
             {
@@ -786,7 +817,7 @@
                 "hu": "Odabent gyakran melegebb van, mint a kinti szélben.",
                 "ro": "În interior este adesea mai cald decât în vântul mării.",
                 "en": "It is often warmer inside than in the cold sea breeze.",
-                "hr": "Unutra je često toplije nego na hladnom morskom povjetarcu."
+                "hr": "Često je toplije unutra nego u hladnom morskom povjetarcu."
               }
             },
             {
@@ -806,7 +837,7 @@
                 "hu": "Tökéletes egy magányos sétához a téli napsütésben.",
                 "ro": "Ideal pentru o plimbare solitară în soarele de iarnă.",
                 "en": "Perfect for a solitary walk in the winter sun.",
-                "hr": "Savršeno za osamljenu šetnju na zimskom suncu."
+                "hr": "Savršeno za samotnu šetnju na zimskom suncu."
               }
             },
             {
@@ -816,7 +847,7 @@
                 "hu": "A víz télen gyakran kristálytiszta és teljesen nyugodt.",
                 "ro": "Apa este adesea cristalină și liniștită în timpul iernii.",
                 "en": "The water is often crystal clear and calm in winter.",
-                "hr": "Voda je zimi često kristalno čista i mirna."
+                "hr": "Voda je često kristalno čista i mirna zimi."
               }
             },
             {
@@ -826,7 +857,7 @@
                 "hu": "Érkezzen 16:30 előtt, ha látni akarja a naplementét.",
                 "ro": "Sosiți înainte de 16:30 pentru a vedea apusul.",
                 "en": "Be here before 16:30 to catch the winter sunset.",
-                "hr": "Budite ovdje prije 16:30 kako biste uhvatili zimski zalazak sunca."
+                "hr": "Budite ovdje prije 16:30 da uhvatite zimski zalazak sunca."
               }
             }
           ],
@@ -856,10 +887,10 @@
               "Layered clothing is vital to block the sea wind."
             ],
             "hr": [
-              "Zalazak sunca je rano, oko 16:30 sredinom zime.",
-              "Pazite na buru, hladan sjeveroistočni vjetar.",
-              "Mnogi restorani orijentirani na turiste zatvaraju se tijekom sezone.",
-              "Slojevita odjeća je ključna za zaštitu od morskog vjetra."
+              "Zalazak sunca događa se rano, oko 16:30 sredinom zime.",
+              "Pazite na Buru, hladan sjeveroistočni vjetar.",
+              "Mnoge turistički orijentirane restorane zatvaraju izvan sezone.",
+              "Višeslojna odjeća je ključna za zaštitu od morskog vjetra."
             ]
           }
         }
@@ -878,7 +909,8 @@
             "de": "Marina Frapa",
             "hu": "Marina Frapa",
             "ro": "Marina Frapa",
-            "en": "Marina Frapa"
+            "en": "Marina Frapa",
+            "hr": "Marina Frapa"
           },
           "coords": [
             15.9615,
@@ -893,14 +925,15 @@
             "de": "Starten Sie Ihre Tour am gläsernen Drachen.",
             "hu": "Kezdjük a túrát az üvegsárkánynál.",
             "ro": "Începeți turul la dragonul de sticlă.",
-            "en": "Start your tour at the glass dragon."
+            "en": "Start your tour at the glass dragon.",
+            "hr": "Započnite turu kod staklenog zmaja."
           },
           "tip_5lang": {
             "de": "Eine der größten ACI-Marinas Kroatiens, ideal zum Yachten-Schauen.",
             "hu": "Horvátország egyik legnagyobb ACI kikötője, remek hely jachtnézésre.",
             "ro": "Una dintre cele mai mari marini ACI din Croația, perfectă pentru yachturi.",
             "en": "One of Croatia's largest ACI marinas, perfect for yacht spotting.",
-            "hr": "Jedna od najvećih marina u Hrvatskoj, savršena za promatranje jahti."
+            "hr": "Jedna od najvećih ACI marina u Hrvatskoj, idealna za promatranje jahti."
           }
         },
         {
@@ -908,7 +941,8 @@
             "de": "Drachenaugen-See",
             "hu": "Sárkány-szem tó",
             "ro": "Lacul Ochiul Dragonului",
-            "en": "Dragon's Eye Lake"
+            "en": "Dragon's Eye Lake",
+            "hr": "Zmajevo oko"
           },
           "coords": [
             15.9595,
@@ -923,14 +957,15 @@
             "de": "Der Radweg führt direkt am Ufer entlang.",
             "hu": "A kerékpárút közvetlenül a part mentén halad.",
             "ro": "Pista de biciclete trece direct pe mal.",
-            "en": "The bike path runs directly along the shore."
+            "en": "The bike path runs directly along the shore.",
+            "hr": "Biciklistička staza ide uz samu obalu."
           },
           "tip_5lang": {
             "de": "Salzwasser-Karst-See mit Klippen, Badeschuhe gegen scharfe Steine mitnehmen.",
             "hu": "Karsztos sósvizű tó sziklákkal, hozzon úszócipőt az éles kövek miatt.",
             "ro": "Lac carstic cu apă sărată și stânci, luați încălțăminte de apă.",
             "en": "Karst saltwater lake with cliffs, bring water shoes for sharp rocks.",
-            "hr": "Krško slano jezero s liticama, ponesite obuću za vodu zbog oštrog kamenja."
+            "hr": "Karsko slanozero s liticama, ponesite vodene cipele zbog oštrih stijena."
           }
         },
         {
@@ -938,7 +973,8 @@
             "de": "Lavendel-Labyrinth",
             "hu": "Levendula-labirintus",
             "ro": "Labirintul de lavandă",
-            "en": "Lavender Labyrinth"
+            "en": "Lavender Labyrinth",
+            "hr": "Lavandini labirint"
           },
           "coords": [
             15.9525,
@@ -953,14 +989,15 @@
             "de": "Ein verstecktes Juwel abseits der Hauptwege.",
             "hu": "Egy rejtett kincs a főutaktól távol.",
             "ro": "O bijuterie ascunsă departe de drumurile principale.",
-            "en": "A hidden gem away from the main paths."
+            "en": "A hidden gem away from the main paths.",
+            "hr": "Skriveni dragulj izvan glavnih staza."
           },
           "tip_5lang": {
             "de": "Duftendes Labyrinth aus Lavendelhecken, im Juni in voller Blüte.",
             "hu": "Illatos labirintus levendulasövényekből, júniusban virágzik a legszebben.",
             "ro": "Labirint parfumat de tufișuri de lavandă, în floare în iunie.",
             "en": "Fragrant lavender hedge maze, in full bloom in June.",
-            "hr": "Mirisni labirint od lavande, u punom cvatu u lipnju."
+            "hr": "Mirisni živuogradi lavande, u punom cvatu u lipnju."
           }
         },
         {
@@ -968,7 +1005,8 @@
             "de": "Kirche Unserer Lieben Frau von der Kapelle",
             "hu": "Szent Szűz kápolna",
             "ro": "Biserica Maicii Domnului de la Capelă",
-            "en": "Church of Our Lady of the Chapel"
+            "en": "Church of Our Lady of the Chapel",
+            "hr": "Crkva Gospe od Kapele"
           },
           "coords": [
             15.9558,
@@ -983,7 +1021,8 @@
             "de": "Wunderschöne Aussicht auf die offene See.",
             "hu": "Gyönyörű kilátás a nyílt tengerre.",
             "ro": "O priveliște minunată asupra mării deschise.",
-            "en": "Beautiful view of the open sea."
+            "en": "Beautiful view of the open sea.",
+            "hr": "Prekrasan pogled na otvoreno more."
           },
           "tip_5lang": {
             "de": "Kleine Küstenkapelle mit Blick aufs Meer, ein ruhiger Halt.",
@@ -998,7 +1037,8 @@
             "de": "Strand Miline",
             "hu": "Miline strand",
             "ro": "Plaja Miline",
-            "en": "Miline Beach"
+            "en": "Miline Beach",
+            "hr": "Plaža Miline"
           },
           "coords": [
             15.9635,
@@ -1013,14 +1053,15 @@
             "de": "Hier gibt es gute Fahrradständer.",
             "hu": "Itt jó kerékpártárolók találhatók.",
             "ro": "Există suporturi bune pentru biciclete aici.",
-            "en": "There are good bike racks here."
+            "en": "There are good bike racks here.",
+            "hr": "Ovdje ima dobrih stalaka za bicikle."
           },
           "tip_5lang": {
             "de": "Kies-Sand-Mix mit flachem Einstieg, perfekt für eine längere Badepause.",
             "hu": "Kavics-homok keverék lankás bemenettel, hosszabb fürdéshez ideális.",
             "ro": "Mix de pietriș și nisip cu intrare lină, ideal pentru o baie lungă.",
             "en": "Pebble-sand mix with a gentle entry, ideal for a long swim break.",
-            "hr": "Mješavina šljunka i pijeska s blagim ulazom, idealna za dužu pauzu za kupanje."
+            "hr": "Mješavina šljunka i pijeska s blagim ulazom, idealna za duži kupajući odmor."
           }
         },
         {
@@ -1028,7 +1069,8 @@
             "de": "Altstadt von Rogoznica",
             "hu": "Rogoznica óvárosa",
             "ro": "Orașul vechi Rogoznica",
-            "en": "Rogoznica Old Town"
+            "en": "Rogoznica Old Town",
+            "hr": "Stari grad Rogoznica"
           },
           "coords": [
             15.9685,
@@ -1043,14 +1085,15 @@
             "de": "Schieben Sie das Rad in den engen Gassen.",
             "hu": "A szűk utcákban toljuk a kerékpárt.",
             "ro": "Împingeți bicicleta pe străzile înguste.",
-            "en": "Push your bike in the narrow streets."
+            "en": "Push your bike in the narrow streets.",
+            "hr": "Gurajte bicikl kroz uske ulice."
           },
           "tip_5lang": {
             "de": "Schlendern Sie durch die engen Steingassen mit Blick auf die Bucht.",
             "hu": "Sétáljon végig a szűk kőutcákon, csodás kilátással az öbölre.",
             "ro": "Plimbați-vă pe străduțele înguste de piatră cu vedere la golf.",
             "en": "Wander the narrow stone alleys with sweeping bay views.",
-            "hr": "Lutajte uskim kamenim uličicama s prekrasnim pogledom na zaljev."
+            "hr": "Šetajte uskim kamenim uličicama s pogledom na uvalu."
           }
         },
         {
@@ -1058,7 +1101,8 @@
             "de": "Kap Gradina",
             "hu": "Gradina-fok",
             "ro": "Capul Gradina",
-            "en": "Cape Gradina"
+            "en": "Cape Gradina",
+            "hr": "Rt Gradina"
           },
           "coords": [
             15.9555,
@@ -1073,14 +1117,15 @@
             "de": "Bester Platz für das Abschlussfoto.",
             "hu": "A legjobb hely a zárófotóhoz.",
             "ro": "Cel mai bun loc pentru fotografia de final.",
-            "en": "Best spot for the final photo."
+            "en": "Best spot for the final photo.",
+            "hr": "Najbolje mjesto za završnu fotografiju."
           },
           "tip_5lang": {
             "de": "Felsige Landzunge mit kleiner Kapelle, beliebt für den Sonnenuntergang.",
             "hu": "Sziklás földnyelv kis kápolnával, naplementekor a legszebb.",
             "ro": "Limbă stâncoasă de pământ cu o capelă mică, superbă la apus.",
             "en": "Rocky headland with a small chapel, popular at sunset.",
-            "hr": "Stjenoviti rt s malom kapelicom, popularno mjesto za zalazak sunca."
+            "hr": "Stjenoviti rt s malom kapelicom, popularan za zalazak sunca."
           }
         }
       ],
@@ -1089,7 +1134,7 @@
         "hu": "Ez a kerékpártúra Rogoznica festői partvidékén vezet végig. A kikötőben kezdünk, megkerüljük a Sárkány-szem tavat, majd eltekerünk a levendula-labirintushoz. Egy hosszú strandolás után a Miline parton, felfedezzük a történelmi óvárost, és a napot a Gradina-foknál zárjuk.",
         "ro": "Acest tur cu bicicleta vă poartă de-a lungul coastei pitorești din Rogoznica. Începeți la marină, ocoliți Lacul Ochiul Dragonului și pedalați spre Labirintul de lavandă. După o pauză lungă de baie pe plaja Miline, explorați centrul istoric și încheiați ziua la Capul Gradina.",
         "en": "This bike tour takes you along the picturesque coast of Rogoznica. Start at the marina, circle the Dragon's Eye Lake, and cycle to the Lavender Labyrinth. After a long swimming break at Miline Beach, explore the historical old town and end the day at Cape Gradina.",
-        "hr": "Ova biciklistička tura vodi vas uz pitoresknu obalu Rogoznice. Započnite kod marine, obiđite jezero Zmajevo oko i odvezite se do Labirinta lavande. Nakon duže pauze za kupanje na plaži Miline, istražite povijesnu staru jezgru i završite dan na rtu Gradina."
+        "hr": "Ova biciklistička tura vodi vas slikovitom obalom Rogoznice. Počnite u marini, obiđite Zmajevo oko i vozite do Lavandinog labirinta. Nakon dugog kupanja na plaži Miline, istražite povijesni stari grad i završite dan na rtu Gradina."
       },
       "gastro_picks": {
         "de": [
@@ -1218,9 +1263,9 @@
           "Bicycle helmets are mandatory for children under 16."
         ],
         "hr": [
-          "Obalne staze su uglavnom ravne i lake za vožnju.",
-          "Budite oprezni zbog jakog vjetra (bure) na otvorenim dijelovima.",
-          "Unajmite e-bicikle za brda u zaleđu.",
+          "Obalne staze su većinom ravne i lako prohodne biciklom.",
+          "Pazite na jake vjetrove (Bura) na otvorenim dionicama.",
+          "Iznajmite električne bicikle za brežuljke u zaleđu.",
           "Biciklističke kacige su obavezne za djecu mlađu od 16 godina."
         ]
       },
@@ -1230,7 +1275,8 @@
             "de": "Diese Radtour führt Sie entlang der malerischen Küste von Rogoznica. Sie beginnen an der Marina, umrunden den Drachenaugen-See und radeln zum Lavendel-Labyrinth. Nach einer langen Badepause am Strand Miline erkunden Sie die historische Altstadt und beenden den Tag am Kap Gradina.",
             "hu": "Ez a kerékpártúra Rogoznica festői partvidékén vezet végig. A kikötőben kezdünk, megkerüljük a Sárkány-szem tavat, majd eltekerünk a levendula-labirintushoz. Egy hosszú strandolás után a Miline parton, felfedezzük a történelmi óvárost, és a napot a Gradina-foknál zárjuk.",
             "ro": "Acest tur cu bicicleta vă poartă de-a lungul coastei pitorești din Rogoznica. Începeți la marină, ocoliți Lacul Ochiul Dragonului și pedalați spre Labirintul de lavandă. După o pauză lungă de baie pe plaja Miline, explorați centrul istoric și încheiați ziua la Capul Gradina.",
-            "en": "This bike tour takes you along the picturesque coast of Rogoznica. Start at the marina, circle the Dragon's Eye Lake, and cycle to the Lavender Labyrinth. After a long swimming break at Miline Beach, explore the historical old town and end the day at Cape Gradina."
+            "en": "This bike tour takes you along the picturesque coast of Rogoznica. Start at the marina, circle the Dragon's Eye Lake, and cycle to the Lavender Labyrinth. After a long swimming break at Miline Beach, explore the historical old town and end the day at Cape Gradina.",
+            "hr": "Ova biciklistička tura vodi vas slikovitom obalom Rogoznice. Počnite u marini, obiđite Zmajevo oko i vozite do Lavandinog labirinta. Nakon dugog kupanja na plaži Miline, istražite povijesni stari grad i završite dan na rtu Gradina."
           },
           "stops": [
             {
@@ -1238,13 +1284,15 @@
                 "de": "Marina Frapa",
                 "hu": "Marina Frapa",
                 "ro": "Marina Frapa",
-                "en": "Marina Frapa"
+                "en": "Marina Frapa",
+                "hr": "Marina Frapa"
               },
               "tip_5lang": {
                 "de": "Eine der größten ACI-Marinas Kroatiens, ideal zum Yachten-Schauen.",
                 "hu": "Horvátország egyik legnagyobb ACI kikötője, remek hely jachtnézésre.",
                 "ro": "Una dintre cele mai mari marini ACI din Croația, perfectă pentru yachturi.",
-                "en": "One of Croatia's largest ACI marinas, perfect for yacht spotting."
+                "en": "One of Croatia's largest ACI marinas, perfect for yacht spotting.",
+                "hr": "Jedna od najvećih ACI marina u Hrvatskoj, idealna za promatranje jahti."
               }
             },
             {
@@ -1252,13 +1300,15 @@
                 "de": "Drachenaugen-See",
                 "hu": "Sárkány-szem tó",
                 "ro": "Lacul Ochiul Dragonului",
-                "en": "Dragon's Eye Lake"
+                "en": "Dragon's Eye Lake",
+                "hr": "Zmajevo oko"
               },
               "tip_5lang": {
                 "de": "Salzwasser-Karst-See mit Klippen, Badeschuhe gegen scharfe Steine mitnehmen.",
                 "hu": "Karsztos sósvizű tó sziklákkal, hozzon úszócipőt az éles kövek miatt.",
                 "ro": "Lac carstic cu apă sărată și stânci, luați încălțăminte de apă.",
-                "en": "Karst saltwater lake with cliffs, bring water shoes for sharp rocks."
+                "en": "Karst saltwater lake with cliffs, bring water shoes for sharp rocks.",
+                "hr": "Karsko slanozero s liticama, ponesite vodene cipele zbog oštrih stijena."
               }
             },
             {
@@ -1266,13 +1316,15 @@
                 "de": "Lavendel-Labyrinth",
                 "hu": "Levendula-labirintus",
                 "ro": "Labirintul de lavandă",
-                "en": "Lavender Labyrinth"
+                "en": "Lavender Labyrinth",
+                "hr": "Lavandini labirint"
               },
               "tip_5lang": {
                 "de": "Duftendes Labyrinth aus Lavendelhecken, im Juni in voller Blüte.",
                 "hu": "Illatos labirintus levendulasövényekből, júniusban virágzik a legszebben.",
                 "ro": "Labirint parfumat de tufișuri de lavandă, în floare în iunie.",
-                "en": "Fragrant lavender hedge maze, in full bloom in June."
+                "en": "Fragrant lavender hedge maze, in full bloom in June.",
+                "hr": "Mirisni živuogradi lavande, u punom cvatu u lipnju."
               }
             },
             {
@@ -1280,13 +1332,15 @@
                 "de": "Kirche Unserer Lieben Frau von der Kapelle",
                 "hu": "Szent Szűz kápolna",
                 "ro": "Biserica Maicii Domnului de la Capelă",
-                "en": "Church of Our Lady of the Chapel"
+                "en": "Church of Our Lady of the Chapel",
+                "hr": "Crkva Gospe od Kapele"
               },
               "tip_5lang": {
                 "de": "Kleine Küstenkapelle mit Blick aufs Meer, ein ruhiger Halt.",
                 "hu": "Apró tengerparti kápolna nyílt tengeri kilátással, csendes megálló.",
                 "ro": "Capelă mică de coastă cu vedere la mare, oprire liniștită.",
-                "en": "Tiny coastal chapel with sea views, a peaceful stop."
+                "en": "Tiny coastal chapel with sea views, a peaceful stop.",
+                "hr": "Mala obalna kapelica s pogledom na more, mirna stanica."
               }
             },
             {
@@ -1294,13 +1348,15 @@
                 "de": "Strand Miline",
                 "hu": "Miline strand",
                 "ro": "Plaja Miline",
-                "en": "Miline Beach"
+                "en": "Miline Beach",
+                "hr": "Plaža Miline"
               },
               "tip_5lang": {
                 "de": "Kies-Sand-Mix mit flachem Einstieg, perfekt für eine längere Badepause.",
                 "hu": "Kavics-homok keverék lankás bemenettel, hosszabb fürdéshez ideális.",
                 "ro": "Mix de pietriș și nisip cu intrare lină, ideal pentru o baie lungă.",
-                "en": "Pebble-sand mix with a gentle entry, ideal for a long swim break."
+                "en": "Pebble-sand mix with a gentle entry, ideal for a long swim break.",
+                "hr": "Mješavina šljunka i pijeska s blagim ulazom, idealna za duži kupajući odmor."
               }
             },
             {
@@ -1308,13 +1364,15 @@
                 "de": "Altstadt von Rogoznica",
                 "hu": "Rogoznica óvárosa",
                 "ro": "Orașul vechi Rogoznica",
-                "en": "Rogoznica Old Town"
+                "en": "Rogoznica Old Town",
+                "hr": "Stari grad Rogoznica"
               },
               "tip_5lang": {
                 "de": "Schlendern Sie durch die engen Steingassen mit Blick auf die Bucht.",
                 "hu": "Sétáljon végig a szűk kőutcákon, csodás kilátással az öbölre.",
                 "ro": "Plimbați-vă pe străduțele înguste de piatră cu vedere la golf.",
-                "en": "Wander the narrow stone alleys with sweeping bay views."
+                "en": "Wander the narrow stone alleys with sweeping bay views.",
+                "hr": "Šetajte uskim kamenim uličicama s pogledom na uvalu."
               }
             },
             {
@@ -1322,13 +1380,15 @@
                 "de": "Kap Gradina",
                 "hu": "Gradina-fok",
                 "ro": "Capul Gradina",
-                "en": "Cape Gradina"
+                "en": "Cape Gradina",
+                "hr": "Rt Gradina"
               },
               "tip_5lang": {
                 "de": "Felsige Landzunge mit kleiner Kapelle, beliebt für den Sonnenuntergang.",
                 "hu": "Sziklás földnyelv kis kápolnával, naplementekor a legszebb.",
                 "ro": "Limbă stâncoasă de pământ cu o capelă mică, superbă la apus.",
-                "en": "Rocky headland with a small chapel, popular at sunset."
+                "en": "Rocky headland with a small chapel, popular at sunset.",
+                "hr": "Stjenoviti rt s malom kapelicom, popularan za zalazak sunca."
               }
             }
           ],
@@ -1438,6 +1498,12 @@
               "Be careful of strong winds (Bura) on open sections.",
               "Rent e-bikes for the hills in the hinterland.",
               "Bicycle helmets are mandatory for children under 16."
+            ],
+            "hr": [
+              "Obalne staze su većinom ravne i lako prohodne biciklom.",
+              "Pazite na jake vjetrove (Bura) na otvorenim dionicama.",
+              "Iznajmite električne bicikle za brežuljke u zaleđu.",
+              "Biciklističke kacige su obavezne za djecu mlađu od 16 godina."
             ]
           }
         },
@@ -1447,7 +1513,7 @@
             "hu": "Az esős délelőtt a fényes tengerparti úton vezet a kikötő felé. Délben a Sárkányszem-tó sötét felhők alatt mutatja meg vad arcát. Délután óvatosság kell a Levendula-labirintus felé, az utak sárosak lehetnek. Este jól esik leparkolni a bringát és beülni egy forró italra az óváros egyik bárjába.",
             "ro": "O dimineață ploioasă pe bicicletă urmează drumul strălucitor de pe coastă. La prânz, Lacul Ochiul Dragonului oferă o priveliște dramatică sub norii grei. După-amiaza necesită prudență pe drumul spre Labirintul de Lavandă din cauza noroiului. Seara, e o plăcere să lași bicicleta și să te încălzești într-un bar din centru.",
             "en": "A rainy morning on the bike follows the shiny coastal road towards the marina. At noon, Dragon's Eye Lake shows its wild side under dark clouds. The afternoon ride to the Lavender Labyrinth requires caution as paths get muddy. In the evening, it feels great to park the bike and warm up with a drink in an old town bar.",
-            "hr": "Kišno jutro na biciklu prati sjajnu obalnu cestu prema marini. U podne, jezero Zmajevo oko pokazuje svoju divlju stranu pod tamnim oblacima. Poslijepodnevna vožnja do Labirinta lavande zahtijeva oprez jer staze postaju blatne. Navečer je sjajan osjećaj parkirati bicikl i ugrijati se pićem u baru u starom gradu."
+            "hr": "Kišno jutro na biciklu vodi po sjajnoj obalnoj cesti prema marini. U podne, Jezero Zmajevo Oko pokazuje svoju divlju stranu pod tamnim oblacima. Popodnevna vožnja do Lavandinog Labirinta zahtijeva oprez jer se staze zamoče. Uvečer je divno parkirati bicikl i zagrijati se pićem u baru u starom gradu."
           },
           "stops": [
             {
@@ -1467,7 +1533,7 @@
                 "hu": "A talaj sziklás és esőben rendkívül csúszós.",
                 "ro": "Terenul este stâncos și extrem de alunecos pe ploaie.",
                 "en": "The terrain is rocky and extremely slippery in rain.",
-                "hr": "Teren je stjenovit i izuzetno sklizak na kiši."
+                "hr": "Terena je kamenit i iznimno klizav po kiši."
               }
             },
             {
@@ -1477,7 +1543,7 @@
                 "hu": "A kiépítetlen utak nagyon sárosak lehetnek.",
                 "ro": "Drumurile neasfaltate pot deveni foarte noroioase.",
                 "en": "The unpaved paths can become quite muddy.",
-                "hr": "Neasfaltirane staze mogu postati prilično blatnjave."
+                "hr": "Nenatkrivene staze mogu postati prilično blatne."
               }
             },
             {
@@ -1487,7 +1553,7 @@
                 "hu": "Csendes hely egy rövid pihenőre az eső elől.",
                 "ro": "Un loc liniștit pentru o pauză scurtă de ploaie.",
                 "en": "A quiet spot for a brief break from the rain.",
-                "hr": "Mirno mjesto za kratki predah od kiše."
+                "hr": "Mirno mjesto za kratku pauzu od kiše."
               }
             },
             {
@@ -1497,7 +1563,7 @@
                 "hu": "Kerülje a közvetlenül a nedves kavicson való tekerést.",
                 "ro": "Evitați să pedalați direct pe pietrișul ud.",
                 "en": "Avoid riding directly on the wet pebbles.",
-                "hr": "Izbjegavajte vožnju izravno po mokrom šljunku."
+                "hr": "Izbjegavajte vožnju izravno po mokrim šljunkama."
               }
             },
             {
@@ -1507,7 +1573,7 @@
                 "hu": "A legszűkebb utcákban érdemes tolni a biciklit.",
                 "ro": "E recomandat să împingeți bicicleta în zonele strâmte.",
                 "en": "Better to push your bike in the narrowest alleys.",
-                "hr": "Bolje je gurati bicikl u najužim uličicama."
+                "hr": "Bolje je gurati bicikl u najužim prolazima."
               }
             },
             {
@@ -1548,9 +1614,9 @@
             ],
             "hr": [
               "Testiranje kočnica na mokrom asfaltu ključno je za sigurnost.",
-              "Izbjegavajte lokve jer mogu skriti duboke rupe.",
-              "Blatobrani su neophodni kako bi vam odjeća ostala suha.",
-              "Nosite uočljivu kabanicu radi sigurnosti."
+              "Izbjegavajte lokve jer mogu skrivati duboke rupe.",
+              "Blatobrani su neophodni za suhe odjeće.",
+              "Nosite fluorescentnu vodonepropusnu jaknu radi sigurnosti."
             ]
           }
         },
@@ -1560,7 +1626,7 @@
             "hu": "A friss téli reggelen a tekerés a Marina felé felpezsdítő. Délben a nap a Sárkányszem-tónál elegendő meleget ad egy pihenőhöz. Délután a kopárabb, de szép téli tájon át vezet az út a labirintushoz. Mivel korán sötétedik, a túra késő délután az óváros meghitt fényeiben ér véget.",
             "ro": "O dimineață răcoroasă de iarnă face tura spre marină revigorantă. La prânz, soarele de la Lacul Ochiul Dragonului oferă destulă căldură. După-amiaza traversează peisajul de iarnă spre Labirintul de Lavandă. Deoarece se întunecă devreme, turul se încheie spre seară în centrul vechi.",
             "en": "A crisp winter morning makes the bike ride to the marina invigorating. At noon, the sun by Dragon's Eye Lake provides enough warmth for a break. The afternoon route goes through the stark but beautiful winter landscape. As darkness falls early, the tour finishes in the late afternoon in the cozy old town.",
-            "hr": "Oštro zimsko jutro čini vožnju biciklom do marine okrepljujućom. U podne, sunce pored jezera Zmajevo oko pruža dovoljno topline za odmor. Poslijepodnevna ruta prolazi kroz ogoljen, ali prekrasan zimski krajolik. Kako mrak pada rano, tura završava kasno poslijepodne u ugodnom starom gradu."
+            "hr": "Svježe zimsko jutro čini vožnju biciklom do marine osvježavajućom. U podne, sunce kraj Jezera Zmajevo Oko daje dovoljno topline za pauzu. Popodnevna ruta prolazi kroz oštar ali lijep zimski krajolik. Kako se tama spušta rano, tura završava kasnim poslijepodnevom u ugodnom starom gradu."
           },
           "stops": [
             {
@@ -1570,7 +1636,7 @@
                 "hu": "Az utak szárazak, de a szél nagyon hideg.",
                 "ro": "Drumurile sunt uscate, dar vântul este rece.",
                 "en": "The paths are dry, but the sea breeze is chilly.",
-                "hr": "Staze su suhe, ali morski povjetarac je hladan."
+                "hr": "Staze su suhe, ali morska bura je hladna."
               }
             },
             {
@@ -1580,7 +1646,7 @@
                 "hu": "Télen a tó vize gyakran tükörsima.",
                 "ro": "Iarna, lacul este adesea neted ca o oglindă.",
                 "en": "The lake is often perfectly still during winter.",
-                "hr": "Jezero je zimi često savršeno mirno."
+                "hr": "Jezero je često savršeno mirno zimi."
               }
             },
             {
@@ -1590,7 +1656,7 @@
                 "hu": "A levendula nem virágzik, de a formája látható.",
                 "ro": "Lavanda nu este înflorită, dar structura e vizibilă.",
                 "en": "Lavender isn't blooming, but the pattern is visible.",
-                "hr": "Lavanda ne cvjeta, ali uzorak labirinta je vidljiv."
+                "hr": "Lavanda ne cvjeta, ali se uzorak može vidjeti."
               }
             },
             {
@@ -1600,7 +1666,7 @@
                 "hu": "Szép kilátópont a téli napsütés élvezetéhez.",
                 "ro": "Un punct de observație frumos pentru soarele de iarnă.",
                 "en": "A beautiful viewpoint to catch some winter sun.",
-                "hr": "Prekrasan vidikovac za hvatanje malo zimskog sunca."
+                "hr": "Prekrasna vidikovac za uhvatiti malo zimskog sunca."
               }
             },
             {
@@ -1610,7 +1676,7 @@
                 "hu": "A strandnál a szél télen nagyon csípős lehet.",
                 "ro": "Vântul pe plajă poate fi foarte tăios iarna.",
                 "en": "The wind at the beach can be biting in winter.",
-                "hr": "Vjetar na plaži zimi može biti vrlo oštar."
+                "hr": "Vjetar na plaži može biti oštar zimi."
               }
             },
             {
@@ -1620,7 +1686,7 @@
                 "hu": "Használja ki az üres utcákat a fotózáshoz.",
                 "ro": "Profitați de străzile goale pentru fotografii.",
                 "en": "Take advantage of the empty streets for photos.",
-                "hr": "Iskoristite prazne ulice za fotografiranje."
+                "hr": "Iskoristite prazne ulice za fotografije."
               }
             },
             {
@@ -1660,10 +1726,10 @@
               "Keep hydrated even if you don't feel thirsty in the cold."
             ],
             "hr": [
-              "Tople rukavice i zaštita za uši su obavezni.",
+              "Tople rukavice i zaštita za uši su obvezni.",
               "Zalazak sunca je oko 16:30, provjerite rade li vam svjetla.",
-              "Izbjegavajte sjenovita područja jer mogu ostati zaleđena.",
-              "Pijte dovoljno tekućine čak i ako na hladnoći ne osjećate žeđ."
+              "Izbjegavajte sjenovita područja jer mogu ostati zaleđena ili poledjena.",
+              "Ostanite hidrirani iako ne osjećate žeđ u hladnoći."
             ]
           }
         }
@@ -1727,7 +1793,7 @@
     "marina": {
       "url": "https://www.aci-marinas.com/aci-marina/aci-marina-rogoznica/",
       "label": {
-        "hr": "ACI marina Frapa Rogoznica",
+        "hr": "ACI Marina Frapa Rogoznica",
         "de": "ACI Marina Frapa Rogoznica",
         "hu": "ACI Frapa Rogoznica kikötő",
         "en": "ACI Marina Frapa Rogoznica"
@@ -1754,7 +1820,7 @@
     "transit_official": {
       "url": "https://www.jadrolinija.hr/",
       "label": {
-        "hr": "Jadrolinija - polazište Split/Šibenik",
+        "hr": "Jadrolinija - polasci Split/Šibenik",
         "de": "Jadrolinija - Abfahrt Split/Šibenik",
         "hu": "Jadrolinija - indulás Split/Šibenik",
         "en": "Jadrolinija - Split/Šibenik departures"

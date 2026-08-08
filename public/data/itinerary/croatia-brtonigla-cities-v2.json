@@ -32,7 +32,7 @@
             "hu": "Csodálja meg a 19. századi, 36 méter magas harangtornyot.",
             "ro": "Admirați clopotnița de 36 de metri înălțime, construită în secolul al XIX-lea.",
             "en": "Admire the 19th-century bell tower standing 36 meters tall.",
-            "hr": "Divite se zvoniku iz 19. stoljeća visokom 36 metara."
+            "hr": "Divite se zvoniku iz 19. stoljeća visokome 36 metara."
           }
         },
         {
@@ -51,7 +51,7 @@
             "hu": "Fedezze fel a szűk utcák bájos kőházait.",
             "ro": "Descoperiți casele de piatră fermecătoare de pe străzile înguste.",
             "en": "Discover the charming stone houses in the narrow streets.",
-            "hr": "Otkrijte šarmantne kamene kuće u uskim ulicama."
+            "hr": "Otkrijte šarmantne kamenite kuće u uskim ulicama."
           }
         },
         {
@@ -70,7 +70,7 @@
             "hu": "Kövesse a patak menti ösvényt a kis vízesésekhez a zöld kanyonban.",
             "ro": "Urmați poteca de-a lungul pârâului către micile cascade din canionul verde.",
             "en": "Follow the stream path to the small waterfalls in the green canyon.",
-            "hr": "Slijedite stazu uz potok do malih slapova u zelenom kanjonu."
+            "hr": "Slijedite potočnu stazu do malih slapova u zelenom kanjonu."
           }
         },
         {
@@ -89,7 +89,7 @@
             "hu": "Kóstolja meg az isztriai tésztát (fuži) friss szarvasgombával.",
             "ro": "Gustați pastele istriene (fuži) cu trufe proaspete.",
             "en": "Try Istrian pasta (fuži) with fresh truffles.",
-            "hr": "Probajte istarsku tjesteninu (fuže) sa svježim tartufima."
+            "hr": "Isprobajte istarske fuže sa svježim tartufima."
           }
         },
         {
@@ -127,7 +127,7 @@
             "hu": "Vásároljon helyi olívaolajat és malvaziját közvetlenül a termelőtől.",
             "ro": "Cumpărați ulei de măsline local și vin Malvasia direct de la producător.",
             "en": "Buy local olive oil and Malvasia wine directly from the producer.",
-            "hr": "Kupite lokalno maslinovo ulje i malvaziju izravno od proizvođača."
+            "hr": "Kupite lokalno maslinovo ulje i Malvaziju izravno od proizvođača."
           }
         },
         {
@@ -146,7 +146,7 @@
             "hu": "Élvezzen egy aperitífet ebben a díjnyertes gourmet hotelben.",
             "ro": "Savurați un aperitiv în acest hotel gourmet premiat.",
             "en": "Enjoy an aperitif in this award-winning gourmet hotel.",
-            "hr": "Uživajte u aperitivu u ovom nagrađivanom gurmanskom hotelu."
+            "hr": "Uživajte u aperitivu u ovom nagrađivanom gourmet hotelu."
           }
         },
         {
@@ -174,7 +174,7 @@
         "hu": "Reggel Brtonigla spirituális központját, a Zenon-templomot ismerheti meg, majd barangolhat a történelmi óvárosban. Ezután egy rövid séta vezet a Škarline natúrpark érintetlen természetébe, ahol a patakparton pihenhet meg. Ebédre kóstolja meg a világhírű isztriai konyhát egy hangulatos konobában. A délután a titokzatos Mramornica-barlang felfedezésével telik, amit egy exkluzív borkóstoló követ a San Rocco kertjében, végül pedig a szőlőültetvények feletti aranyló naplemente zárja a napot.",
         "ro": "Dimineața veți explora inima spirituală a localității Brtonigla la Biserica Sf. Zenon și vă veți plimba pe străzile istorice. Apoi, o scurtă drumeție vă duce în natura virgină a parcului Škarline, unde vă puteți relaxa lângă pârâu. La prânz, savurați faimoasa bucătărie istriană într-o konoba primitoare. După-amiaza este dedicată explorării misterioasei peșteri Mramornica, urmată de o degustare exclusivă de vinuri la San Rocco, înainte ca ziua să se încheie cu un apus auriu peste podgorii.",
         "en": "In the morning, explore the spiritual heart of Brtonigla at St. Zenon Church and wander through the historic alleys. Then, a short walk leads you to the untouched nature of Škarline Park, where you can relax by the stream. For lunch, savor world-famous Istrian cuisine in a cozy konoba. The afternoon is spent discovering the mysterious Mramornica Cave, followed by an exclusive wine tasting at San Rocco, before the day concludes with a golden sunset over the vineyards.",
-        "hr": "Ujutro istražite duhovno srce Brtonigle u crkvi sv. Zenona i prošećite povijesnim uličicama. Zatim će vas kratka šetnja odvesti do netaknute prirode parka Škarline, gdje se možete opustiti uz potok. Za ručak uživajte u svjetski poznatoj istarskoj kuhinji u ugodnoj konobi. Popodne je rezervirano za otkrivanje tajanstvene špilje Mramornice, nakon čega slijedi ekskluzivna degustacija vina u San Roccu, a dan završava zlatnim zalaskom sunca iznad vinograda."
+        "hr": "Ujutro istražite duhovno srce Brtonigle u crkvi sv. Zenona i lutajte povijesnim ulicama. Zatim vas kratka šetnja vodi do netaknute prirode Parka Škarline, gdje se možete opustiti uz potok. Za ručak uživajte u svjetski poznatoj istarskoj kuhinji u ugodnoj konobi. Popodne provedite otkrivajući tajanstvenu špilju Mramornicu, nakon čega slijedi ekskluzivno kušanje vina u San Roccu, a dan završava zlatnim zalaskom sunca nad vinogradima."
       },
       "gastro_picks": {
         "de": [
@@ -324,8 +324,8 @@
         ],
         "hr": [
           "Brtonigla je mala, sve je lako dostupno pješice.",
-          "Nosite udobnu obuću za park prirode Škarline.",
-          "U špilji Mramornici je stalnih 14 stupnjeva, ponesite jaknu.",
+          "Nosite udobnu obuću za Park prirode Škarline.",
+          "U Mramornici je stalnih 14 stupnjeva, ponesite jaknu.",
           "Rezervirajte stol unaprijed za večeru u San Roccu."
         ]
       },
@@ -336,7 +336,7 @@
             "hu": "Kezdje a napot a Szent Zénó templom oltalmazó falai között. Az esőtől fénylő óvárosi utcák után meneküljön egy hangulatos konoba melegébe. A délutánt töltse a Mramornica-barlangban, amely ilyenkor tökéletes száraz menedéket nyújt. Az estét a San Rocco belső terében zárja egy pohár helyi borral, miközben hallgatja az eső kopogását az ablakon.",
             "ro": "Începeți ziua sub acoperișul protector al bisericii Sf. Zenon. După o plimbare pe străzile lucioase ale orașului vechi, retrageți-vă în căldura unei konoba primitoare. După-amiaza aparține peșterii Mramornica, care servește ca refugiu perfect și uscat. Încheiați seara la San Rocco cu vinuri excelente, în timp ce ploaia bate ușor în geamuri.",
             "en": "Start the day under the protective roof of St. Zenon Church. A walk through the glistening old town alleys leads you to the cozy warmth of a local konoba. Spend the afternoon in Mramornica Cave, which serves as a perfect dry refuge. End the evening at San Rocco with excellent wines while the rain drums softly against the windows.",
-            "hr": "Započnite dan pod zaštitnim krovom crkve sv. Zenona. Šetnja kroz svjetlucave uličice starog grada vodi vas do ugodne topline lokalne konobe. Popodne provedite u špilji Mramornici, koja služi kao savršeno suho utočište. Večer završite u San Roccu uz vrhunska vina dok kiša lagano bubnja po prozorima."
+            "hr": "Počnite dan pod zaštitnim krovom crkve sv. Zenona. Šetnja kroz blistave uličice starog grada vodi vas do ugodne topline lokalne konobe. Poslijepodne provedite u špilji Mramornici, koja služi kao savršen suhi zaklon. Večer završite u San Roccu s odličnim vinima dok kiša tiho lupa o prozore."
           },
           "stops": [
             {
@@ -345,7 +345,8 @@
                 "de": "Trockener Start in den Tag.",
                 "hu": "Száraz kezdés a templomban.",
                 "ro": "Început uscat în biserică.",
-                "en": "Dry start inside the church."
+                "en": "Dry start inside the church.",
+                "hr": "Suhi početak unutar crkve."
               }
             },
             {
@@ -354,7 +355,8 @@
                 "de": "Vorsicht, rutschiges Pflaster.",
                 "hu": "Vigyázat, csúszós kövezet.",
                 "ro": "Atenție la pavajul alunecos.",
-                "en": "Caution, slippery pavement."
+                "en": "Caution, slippery pavement.",
+                "hr": "Upozorenje, klizav kolnik."
               }
             },
             {
@@ -363,7 +365,8 @@
                 "de": "Festes Schuhwerk für Matsch.",
                 "hu": "Sárálló cipő ajánlott.",
                 "ro": "Încălțăminte pentru noroi.",
-                "en": "Sturdy shoes for mud."
+                "en": "Sturdy shoes for mud.",
+                "hr": "Čvrsta obuća zbog blata."
               }
             },
             {
@@ -372,7 +375,8 @@
                 "de": "Längere Pause im Trockenen.",
                 "hu": "Hosszabb pihenő a szárazon.",
                 "ro": "Pauză prelungită la uscat.",
-                "en": "Longer break in the dry."
+                "en": "Longer break in the dry.",
+                "hr": "Duža pauza u suhom prostoru."
               }
             },
             {
@@ -381,7 +385,8 @@
                 "de": "Bestes Ziel bei Regen.",
                 "hu": "Legjobb célpont esőben.",
                 "ro": "Cea mai bună țintă pe ploaie.",
-                "en": "Best destination in rain."
+                "en": "Best destination in rain.",
+                "hr": "Najbolje odredište po kiši."
               }
             },
             {
@@ -390,7 +395,8 @@
                 "de": "Souvenirkauf unterm Dach.",
                 "hu": "Ajándékvásárlás fedél alatt.",
                 "ro": "Cumpărături sub acoperiș.",
-                "en": "Souvenir shopping indoors."
+                "en": "Souvenir shopping indoors.",
+                "hr": "Kupovina suvenira u zatvorenom."
               }
             },
             {
@@ -399,7 +405,8 @@
                 "de": "Warme Atmosphäre genießen.",
                 "hu": "Élvezze a meleg hangulatot.",
                 "ro": "Bucurați-vă de atmosfera caldă.",
-                "en": "Enjoy the warm atmosphere."
+                "en": "Enjoy the warm atmosphere.",
+                "hr": "Uživajte u toploj atmosferi."
               }
             },
             {
@@ -408,7 +415,8 @@
                 "de": "Dramatische Wolkenstimmung.",
                 "hu": "Dramatikus felhős kilátás.",
                 "ro": "Vedere dramatică cu nori.",
-                "en": "Dramatic cloudy views."
+                "en": "Dramatic cloudy views.",
+                "hr": "Dramatični oblačni pogledi."
               }
             }
           ],
@@ -438,10 +446,10 @@
               "Plan more time for indoor stops."
             ],
             "hr": [
-              "Ponesite čvrst kišobran.",
-              "Špilja Mramornica je suha u svim vremenskim uvjetima.",
-              "Nosite nepromočivu obuću za pješačenje.",
-              "Planirajte više vremena za unutarnja stajališta."
+              "Ponesite čvrst kišobran sa sobom.",
+              "Mramornica je suha u svakom vremenu.",
+              "Nosite vodootpornu planinarsku obuću.",
+              "Planirajte više vremena za zatvorene stanice."
             ]
           }
         },
@@ -451,7 +459,7 @@
             "hu": "Tapasztalja meg a csendes Brtoniglát a lágy téli fényekben. A templomlátogatás után egy erős eszpresszó melengeti át az óvárosban. A parkbéli séta tiszta levegőt és nyugalmat ígér, amit forró leves követ a konobában. A barlangban ilyenkor is kellemes az idő, mielőtt a korai naplementét egy pohár testes vörösborral köszöntené.",
             "ro": "Experimentați liniștea din Brtonigla în lumina blândă a iernii. După vizita la biserică, un espresso tare vă va încălzi în centrul vechi. Plimbarea prin parc oferă aer curat și liniște, urmată de o supă fierbinte în konoba. În peșteră temperatura este plăcută, înainte de a admira apusul timpuriu cu un pahar de vin roșu.",
             "en": "Experience quiet Brtonigla in the soft winter light. After the church visit, a strong espresso warms the soul in the old town. The park walk offers crisp air and silence, followed by hot soup in the konoba. The cave maintains a pleasant temperature before you watch the early sunset with a glass of bold red wine.",
-            "hr": "Doživite mirnu Brtoniglu na blagom zimskom svjetlu. Nakon posjeta crkvi, jaki espresso u starom gradu ugrijat će vam dušu. Šetnja parkom nudi svjež zrak i tišinu, nakon čega slijedi topla juha u konobi. Špilja zadržava ugodnu temperaturu prije nego što ispratite rani zalazak sunca uz čašu jakog crnog vina."
+            "hr": "Doživite tihu Brtoniglu u blagom zimskom svjetlu. Nakon posjeta crkvi, jak espresso ugrijat će dušu u starom gradu. Šetnja parkom nudi svjež zrak i tišinu, a nakon toga vruću juhu u konobi. Špilja održava ugodnu temperaturu prije nego što gledate rani zalazak sunca uz čašu snažnog crnog vina."
           },
           "stops": [
             {
@@ -460,7 +468,8 @@
                 "de": "Windgeschützter Ort.",
                 "hu": "Szélvédett helyszín.",
                 "ro": "Loc ferit de vânt.",
-                "en": "Sheltered location."
+                "en": "Sheltered location.",
+                "hr": "Zaštićena lokacija."
               }
             },
             {
@@ -469,7 +478,8 @@
                 "de": "Warmer Kaffee zwischendurch.",
                 "hu": "Meleg kávé útközben.",
                 "ro": "Cafea caldă pe drum.",
-                "en": "Warm coffee on the way."
+                "en": "Warm coffee on the way.",
+                "hr": "Topla kava na putu."
               }
             },
             {
@@ -478,7 +488,8 @@
                 "de": "Mütze und Handschuhe!",
                 "hu": "Sapka és kesztyű!",
                 "ro": "Căciulă și mănuși!",
-                "en": "Hat and gloves!"
+                "en": "Hat and gloves!",
+                "hr": "Kapa i rukavice!"
               }
             },
             {
@@ -487,7 +498,8 @@
                 "de": "Heimelige Kaminwärme.",
                 "hu": "Otthonos kandallótűz.",
                 "ro": "Căldura șemineului.",
-                "en": "Cozy fireplace warmth."
+                "en": "Cozy fireplace warmth.",
+                "hr": "Ugodna toplina kamina."
               }
             },
             {
@@ -496,7 +508,8 @@
                 "de": "Konstante 14 Grad.",
                 "hu": "Állandó 14 fok.",
                 "ro": "Constant 14 grade.",
-                "en": "Constant 14 degrees."
+                "en": "Constant 14 degrees.",
+                "hr": "Stalnih 14 stupnjeva."
               }
             },
             {
@@ -505,7 +518,8 @@
                 "de": "Lokale Produkte probieren.",
                 "hu": "Kóstoljon helyi termékeket.",
                 "ro": "Gustați produse locale.",
-                "en": "Taste local products."
+                "en": "Taste local products.",
+                "hr": "Kušajte lokalne proizvode."
               }
             },
             {
@@ -514,7 +528,8 @@
                 "de": "Perfekter Winterabend.",
                 "hu": "Tökéletes téli este.",
                 "ro": "Seară perfectă de iarnă.",
-                "en": "Perfect winter evening."
+                "en": "Perfect winter evening.",
+                "hr": "Savršeno zimsko večer."
               }
             },
             {
@@ -523,7 +538,8 @@
                 "de": "Sonnenuntergang ca. 16:45.",
                 "hu": "Naplemente kb. 16:45.",
                 "ro": "Apus în jur de 16:45.",
-                "en": "Sunset around 16:45."
+                "en": "Sunset around 16:45.",
+                "hr": "Zalazak oko 16:45."
               }
             }
           ],
@@ -553,10 +569,10 @@
               "The cave is warmer than the outside air."
             ],
             "hr": [
-              "Odjenite se slojevito.",
-              "Čuvajte se bure (hladnog vjetra).",
-              "Sunce zalazi prije 17:00 sati.",
-              "U špilji je toplije nego vani."
+              "Oblačite se u slojevima.",
+              "Pazite na buru (hladan vjetar).",
+              "Sunce zalazi prije 17:00.",
+              "Špilja je toplija od vanjskog zraka."
             ]
           }
         }
@@ -605,7 +621,7 @@
             "hu": "Kerekezzen kényelmesen a régi utcákon keresztül.",
             "ro": "Pedalați relaxat prin străzile vechi.",
             "en": "Cycle leisurely through the old streets.",
-            "hr": "Lagano pedalirajte kroz stare ulice."
+            "hr": "Biciklirajte lagano kroz stare ulice."
           }
         },
         {
@@ -643,7 +659,7 @@
             "hu": "Energialöket isztriai specialitásokkal.",
             "ro": "Prânz energizant cu specialități istriene.",
             "en": "Energy boost with Istrian specialties.",
-            "hr": "Energetski poticaj uz istarske specijalitete."
+            "hr": "Povećajte energiju istarskim specijalitetima."
           }
         },
         {
@@ -662,7 +678,7 @@
             "hu": "Hűsítő pihenő a kerékpártúra során.",
             "ro": "O pauză răcoroasă în timpul turului cu bicicleta.",
             "en": "A cool break during the bike tour.",
-            "hr": "Hladno osvježenje tijekom biciklističke ture."
+            "hr": "Hladni odmor tijekom biciklističke ture."
           }
         },
         {
@@ -719,7 +735,7 @@
             "hu": "A tökéletes hely az utolsó nyaralási fotóhoz.",
             "ro": "Locul perfect pentru ultima fotografie de vacanță.",
             "en": "The perfect spot for the last holiday photo.",
-            "hr": "Savršeno mjesto za posljednju fotografiju s odmora."
+            "hr": "Savršeno mjesto za zadnju prazničnu fotografiju."
           }
         }
       ],
@@ -728,7 +744,7 @@
         "hu": "Fedezze fel Brtoniglát két keréken. A túra a történelmi központban indul, majd gyorsan eléri a zöldellő Škarline natúrparkot. Egy bőséges ebéd után a Mramornica-barlanghoz kerekezhet, majd felfedezheti a festői szőlőültetvényeket, amelyekről a régió híres. A napot egy pihentető ital zárja a San Rocco-ban, csodálatos kilátással az isztriai dombokra.",
         "ro": "Experimentați Brtonigla pe două roți. Turul începe în centrul istoric și vă duce rapid în parcul natural verde Škarline. După o masă copioasă, pedalați spre peștera Mramornica și explorați apoi podgoriile pitorești pentru care regiunea este faimoasă. Finalul este marcat de o băutură relaxantă la San Rocco și o priveliște uluitoare asupra dealurilor istriene.",
         "en": "Experience Brtonigla on two wheels. The tour begins in the historic center and quickly takes you to the lush Škarline Nature Park. After a hearty meal, cycle to the Mramornica Cave and then explore the picturesque vineyards for which the region is famous. The day ends with a relaxing drink at San Rocco and a breathtaking view of the Istrian hills.",
-        "hr": "Doživite Brtoniglu na dva kotača. Tura počinje u povijesnom središtu i brzo vas vodi do bujnog parka prirode Škarline. Nakon obilnog obroka, odvozite do špilje Mramornice, a zatim istražite slikovite vinograde po kojima je ova regija poznata. Dan završava uz opuštajuće piće u San Roccu i prekrasan pogled na istarske brežuljke."
+        "hr": "Doživite Brtoniglu na dva kotača. Tura počinje u povijesnom centru i brzo vas vodi do bujnog Parka prirode Škarline. Nakon obilnog obroka, vozite do špilje Mramornice i potom istražite slikovite vinograde po kojima je regija poznata. Dan završava opuštajućim pićem u San Roccu i zapanjujućim pogledom na istarske brežuljke."
       },
       "gastro_picks": {
         "de": [
@@ -853,8 +869,8 @@
           "Take enough water with you, especially in summer."
         ],
         "hr": [
-          "Ceste su uglavnom mirne i idealne za bicikliste.",
-          "Postoje usponi, preporučuje se e-bicikl.",
+          "Ceste su uglavnom tihe i idealne za bicikliste.",
+          "Ima nekoliko uspona, preporučuje se e-bike.",
           "Ponesite dovoljno vode, posebno ljeti."
         ]
       },
@@ -865,7 +881,7 @@
             "hu": "Frissítő túra az igazi bringásoknak. A kövezett utak biztonságosan vezetnek a templomhoz és az óvárosba. A természetben készüljön fel a sárra, de az ebéd minden fáradozásért kárpótol. A Mramornica-barlang üdvözlendő száraz szünetet biztosít. A visszaút után a San Rocco kényelme vagy wellness szolgáltatásai melengetik át a fáradt tagokat.",
             "ro": "Un tur revigorant pentru cicliștii adevărați. Drumurile pavate duc în siguranță la biserică și prin orașul vechi. În natură trebuie să fiți pregătiți pentru noroi, dar prânzul compensează orice efort. Peștera Mramornica oferă o pauză binemeritată la uscat. După întoarcere, facilitățile de la San Rocco încălzesc membrele obosite.",
             "en": "A refreshing tour for true cyclists. Paved paths lead safely to the church and through the old town. Be prepared for mud in nature, but lunch makes up for every effort. Mramornica Cave offers a welcome dry break. After the return ride, San Rocco's comfort or spa facilities warm up tired limbs.",
-            "hr": "Osvježavajuća tura za prave bicikliste. Asfaltirane staze sigurno vode do crkve i kroz stari grad. Budite spremni na blato u prirodi, ali ručak nadoknađuje svaki trud. Špilja Mramornica nudi dobrodošao suhi predah. Nakon povratka, udobnost San Rocca ili spa sadržaji ugrijat će umorne udove."
+            "hr": "Osvježavajuća tura za prave bicikliste. Asfaltirane staze vode sigurno do crkve i kroz stari grad. Budite spremni na blato u prirodi, ali ručak nadoknađuje svaki trud. Špilja Mramornica nudi dobrodošli suhi predah. Nakon povratne vožnje, udobnost ili spa sadržaji San Rocca ugrijat će umorne mišiće."
           },
           "stops": [
             {
@@ -874,7 +890,8 @@
                 "de": "Fahrrad sicher abstellen.",
                 "hu": "Biztonságos bringatárolás.",
                 "ro": "Parcare sigură biciclete.",
-                "en": "Safe bike parking."
+                "en": "Safe bike parking.",
+                "hr": "Sigurno parkiranje bicikala."
               }
             },
             {
@@ -883,7 +900,8 @@
                 "de": "Vorsicht auf nassem Stein.",
                 "hu": "Vigyázzon a nedves kövön.",
                 "ro": "Atenție pe piatra udă.",
-                "en": "Careful on wet stone."
+                "en": "Careful on wet stone.",
+                "hr": "Pažljivo na mokrim kamenima."
               }
             },
             {
@@ -892,7 +910,8 @@
                 "de": "Rutschengefahr auf Wegen.",
                 "hu": "Csúszásveszély az utakon.",
                 "ro": "Risc de alunecare pe poteci.",
-                "en": "Slipping hazard on trails."
+                "en": "Slipping hazard on trails.",
+                "hr": "Opasnost od klizanja na stazama."
               }
             },
             {
@@ -901,7 +920,8 @@
                 "de": "Kleidung kurz trocknen.",
                 "hu": "Ruhák rövid szárítása.",
                 "ro": "Uscarea scurtă a hainelor.",
-                "en": "Briefly dry your clothes."
+                "en": "Briefly dry your clothes.",
+                "hr": "Kratko osušite odjeću."
               }
             },
             {
@@ -910,7 +930,8 @@
                 "de": "Rad draußen parken.",
                 "hu": "Bringaparkoló kint.",
                 "ro": "Parcare biciclete afară.",
-                "en": "Bike parking outside."
+                "en": "Bike parking outside.",
+                "hr": "Parkiranje bicikala vani."
               }
             },
             {
@@ -919,7 +940,8 @@
                 "de": "Schutzbleche empfohlen.",
                 "hu": "Sárvédő ajánlott.",
                 "ro": "Apărători recomandate.",
-                "en": "Mudguards recommended."
+                "en": "Mudguards recommended.",
+                "hr": "Preporučuju se blatobrani."
               }
             },
             {
@@ -928,7 +950,8 @@
                 "de": "Belohnung nach der Tour.",
                 "hu": "Jutalom a túra után.",
                 "ro": "Răsplată după tur.",
-                "en": "Reward after the tour."
+                "en": "Reward after the tour.",
+                "hr": "Nagrada nakon ture."
               }
             },
             {
@@ -937,7 +960,8 @@
                 "de": "Schnell ins Trockene.",
                 "hu": "Gyorsan fedél alá.",
                 "ro": "Rapid la adăpost.",
-                "en": "Quickly to shelter."
+                "en": "Quickly to shelter.",
+                "hr": "Brzo do zaklona."
               }
             }
           ],
@@ -967,9 +991,9 @@
               "Avoid deep puddles."
             ],
             "hr": [
-              "Koristite vodootporne torbe za bicikl.",
-              "Provjerite kočnice po mokrom.",
-              "Nosite uočljivu kabanicu.",
+              "Koristite vodootporne torbe za prtljagu.",
+              "Provjerite kočnice na mokrom.",
+              "Nosite reflektirajući kabanicu.",
               "Izbjegavajte duboke lokve."
             ]
           }
@@ -980,7 +1004,7 @@
             "hu": "A tiszta levegő és a távoli kilátás különlegessé teszi a téli túrát. Az emelkedők melegen tartják a testet, a lejtők pedig frissítőek a szőlősök között. Egy megálló a konobában meleg ételre elengedhetetlen. A barlang kellemes, 14 fokos melegedő szünetet kínál. Fejezze be időben a túrát, hogy elkapja az arany fényeket a korai naplemente előtt.",
             "ro": "Aerul curat și vizibilitatea fac turul de iarnă deosebit. Urcările mențin corpul cald, iar coborârile prin vii sunt revigorante. O oprire în konoba pentru o masă caldă este esențială. Peștera oferă o pauză de încălzire la 14 grade. Terminați turul devreme pentru a surprinde lumina aurie înainte de apus.",
             "en": "Crisp air and wide views make the winter tour special. The climbs keep the body warm, while the descents through the vineyards are refreshing. A stop in the konoba for a warm meal is essential. The cave offers a welcome warm-up break at 14 degrees. Finish the tour early to catch the golden light before the early sunset.",
-            "hr": "Čist zrak i široki vidici čine zimsku turu posebnom. Usponi griju tijelo, dok su spuštanja kroz vinograde osvježavajuća. Stajanje u konobi na toplom obroku je neophodno. Špilja nudi dobrodošao predah za zagrijavanje na 14 stupnjeva. Završite turu rano kako biste uhvatili zlatno svjetlo prije ranog zalaska sunca."
+            "hr": "Hladan zrak i široki vidici čine zimsku turu posebnom. Usponi griju tijelo, dok su spustevi kroz vinograde osvježavajući. Zaustavljanje u konobi na topli obrok je obavezno. Špilja nudi ugodnu pauzu za zagrijavanje na 14 stupnjeva. Završite turu rano kako biste uhvatili zlatno svjetlo prije ranog zalaska sunca."
           },
           "stops": [
             {
@@ -989,7 +1013,8 @@
                 "de": "Handschuhe anbehalten.",
                 "hu": "Kesztyű maradjon kézen.",
                 "ro": "Păstrați mănușile.",
-                "en": "Keep gloves on."
+                "en": "Keep gloves on.",
+                "hr": "Držite rukavice na rukama."
               }
             },
             {
@@ -998,7 +1023,8 @@
                 "de": "Kurze Fotostopps.",
                 "hu": "Rövid fotómegállók.",
                 "ro": "Opriri scurte foto.",
-                "en": "Short photo stops."
+                "en": "Short photo stops.",
+                "hr": "Kratka zaustavljanja za fotografiranje."
               }
             },
             {
@@ -1007,7 +1033,8 @@
                 "de": "Kühler Fahrtwind im Tal.",
                 "hu": "Hűvös menetszél a völgyben.",
                 "ro": "Vânt rece în vale.",
-                "en": "Cool wind in the valley."
+                "en": "Cool wind in the valley.",
+                "hr": "Hladan vjetar u dolini."
               }
             },
             {
@@ -1016,7 +1043,8 @@
                 "de": "Warmer Tee zur Stärkung.",
                 "hu": "Meleg tea az erőért.",
                 "ro": "Ceai cald pentru energie.",
-                "en": "Warm tea for energy."
+                "en": "Warm tea for energy.",
+                "hr": "Topli čaj za energiju."
               }
             },
             {
@@ -1025,7 +1053,8 @@
                 "de": "Helm ab, Temperatur genießen.",
                 "hu": "Sisak le, élvezze a hőt.",
                 "ro": "Casca jos, bucurați-vă de căldură.",
-                "en": "Helmet off, enjoy the temp."
+                "en": "Helmet off, enjoy the temp.",
+                "hr": "Skinite kacigu i uživajte u temperaturi."
               }
             },
             {
@@ -1034,7 +1063,8 @@
                 "de": "Helle Kleidung tragen.",
                 "hu": "Viseljen világos ruhát.",
                 "ro": "Purtați haine deschise.",
-                "en": "Wear bright clothing."
+                "en": "Wear bright clothing.",
+                "hr": "Nosite svijetlu odjeću."
               }
             },
             {
@@ -1043,7 +1073,8 @@
                 "de": "Rad sicher verstauen.",
                 "hu": "Bringa elrakása.",
                 "ro": "Depozitare bicicletă.",
-                "en": "Store bike safely."
+                "en": "Store bike safely.",
+                "hr": "Sigurno spremite bicikl."
               }
             },
             {
@@ -1052,7 +1083,8 @@
                 "de": "Licht an für den Rückweg.",
                 "hu": "Lámpa be a hazatéréshez.",
                 "ro": "Luminile aprinse la retur.",
-                "en": "Lights on for return ride."
+                "en": "Lights on for return ride.",
+                "hr": "Svjetla upaljena za povratak."
               }
             }
           ],
@@ -1084,8 +1116,8 @@
             "hr": [
               "Vjetrootporna odjeća je obavezna.",
               "Pijte dovoljno toplog čaja.",
-              "Potpuno napunite baterije za svjetla.",
-              "Izbjegavajte predugo stajanje na jednom mjestu."
+              "Potpuno napunite baterije svjetla.",
+              "Izbjegavajte dugo stajanje na mjestu."
             ]
           }
         }
@@ -1115,7 +1147,7 @@
             "hu": "Használja a faluközponti parkolót.",
             "ro": "Folosiți parcarea centrală din localitate.",
             "en": "Use the central parking in the village.",
-            "hr": "Koristite središnje parkiralište u selu."
+            "hr": "Koristite centralno parkiralište u selu."
           }
         },
         {
@@ -1134,7 +1166,7 @@
             "hu": "Gyalogosan a történelmi utcákon keresztül.",
             "ro": "La pas prin străzile istorice.",
             "en": "On foot through the historic streets.",
-            "hr": "Pješice kroz povijesne ulice."
+            "hr": "Pješke kroz povijesne ulice."
           }
         },
         {
@@ -1172,7 +1204,7 @@
             "hu": "Visszatérés a falu központjába ebédre.",
             "ro": "Revenire în centrul satului pentru prânz.",
             "en": "Return to the village center for lunch.",
-            "hr": "Povratak u centar mjesta na ručak."
+            "hr": "Povratak u središte sela na ručak."
           }
         },
         {
@@ -1229,7 +1261,7 @@
             "hu": "Vásároljon pár palackkal otthonra.",
             "ro": "Cumpărați câteva sticle pentru acasă.",
             "en": "Buy a few bottles for home.",
-            "hr": "Kupite nekoliko boca za ponijeti kući."
+            "hr": "Kupite nekoliko boca za doma."
           }
         },
         {
@@ -1248,7 +1280,7 @@
             "hu": "Rövid séta a parkolótól a kilátópontig.",
             "ro": "Scurtă plimbare de la parcare la punctul de belvedere.",
             "en": "Short walk from the parking to the viewpoint.",
-            "hr": "Kratka šetnja od parkinga do vidikovca."
+            "hr": "Kratka šetnja od parkirališta do vidikovca."
           }
         }
       ],
@@ -1257,7 +1289,7 @@
         "hu": "Autóval rugalmasan fedezheti fel Brtoniglát és környékét. Kezdjen a központban, látogasson el a Škarline-park természeti csodáihoz, majd térjen vissza egy autentikus ebédre. Délután a Mramornica-barlang várja, mielőtt a napot luxuskörülmények között, a San Rocco-ban és egy borkóstolón zárná. Egy nap, amely tele van kontrasztokkal az alvilág, a természet és a gourmet élvezetek között.",
         "ro": "Cu mașina, veți explora Brtonigla și împrejurimile sale într-un mod flexibil. Începeți în centru, vizitați minunile naturale ale parcului Škarline și reveniți pentru un prânz autentic. După-amiaza vă așteaptă peștera Mramornica, înainte de a încheia ziua luxos la San Rocco și la o degustare de vinuri. O zi plină de contraste între lumea subterană, natură și delicii gourmet.",
         "en": "By car, you can flexibly explore Brtonigla and its surroundings. Start in the center, visit the natural wonders of Škarline Park, and return for an authentic lunch. In the afternoon, Mramornica Cave awaits, before concluding the day luxuriously at San Rocco and with a wine tasting. A day full of contrasts between the underworld, nature, and gourmet delights.",
-        "hr": "Automobilom možete fleksibilno istražiti Brtoniglu i njezinu okolicu. Započnite u središtu, posjetite prirodna čuda parka Škarline i vratite se na autentičan ručak. Popodne vas čeka špilja Mramornica, prije luksuznog završetka dana u San Roccu uz degustaciju vina. Dan pun kontrasta između podzemlja, prirode i gurmanskih užitaka."
+        "hr": "Autom možete fleksibilno istraživati Brtoniglu i okolicu. Počnite u centru, posjetite prirodne ljepote Parka Škarline i vratite se na autentičan ručak. U poslijepodnevnim satima čeka špilja Mramornica, prije nego što dan luksuzno zaključite u San Roccu uz degustaciju vina. Dan pun kontrasta između podzemlja, prirode i gurmanskih užitaka."
       },
       "gastro_picks": {
         "de": [
@@ -1382,9 +1414,9 @@
           "Combine the cave visit with a stop at local winemakers."
         ],
         "hr": [
-          "Parkiranje u centru je uglavnom besplatno.",
-          "Ceste do parka prirode su uske, vozite oprezno.",
-          "Kombinirajte posjet špilji sa stajanjem kod lokalnih vinara."
+          "Parkiranje u centru je većinom besplatno.",
+          "Ceste prema parku prirode su uske, vozite oprezno.",
+          "Kombinirajte posjet špilji sa zaustavljanjem kod lokalnih vinara."
         ]
       },
       "variants": {
@@ -1394,7 +1426,7 @@
             "hu": "Élvezze Isztriát kényelmesen az autóból. A közeli megállók megvédik az időjárástól. Látogassa meg a történelmi helyeket és a natúrparkot, mielőtt betérne egy bőséges ebédre. A Mramornica-barlang időjárásálló fénypont, amelyet száraz lábbal érhet el. A napot borkóstoló és egy kiváló vacsora zárja a San Rocco étteremben.",
             "ro": "Bucurați-vă de Istria confortabil din mașină. Distanțele scurte între grupuri vă protejează de vreme. Vizitați locurile istorice și parcul natural înainte de un prânz copios. Peștera Mramornica este un punct culminant rezistent la vreme, la care ajungeți uscat. Ziua se încheie cu o degustare de vinuri și o cină excelentă la San Rocco.",
             "en": "Enjoy Istria comfortably from your car. Short distances between clusters keep you protected from the weather. Visit historical sites and the nature park before stopping for a hearty lunch. Mramornica Cave is a weather-proof highlight reachable with dry feet. The day ends perfectly with wine tasting and an excellent dinner at San Rocco.",
-            "hr": "Udobno uživajte u Istri iz svog automobila. Male udaljenosti između postaja štite vas od vremenskih nepogoda. Posjetite povijesne znamenitosti i park prirode prije zaustavljanja na obilan ručak. Špilja Mramornica je vrhunac otporan na vremenske uvjete do kojeg se dolazi suhih nogu. Dan savršeno završava degustacijom vina i izvrsnom večerom u San Roccu."
+            "hr": "Udobno uživajte u Istri iz automobila. Kratke udaljenosti između mjesta štite vas od vremenskih neprilika. Posjetite povijesne lokalitete i park prirode prije nego što stanete na obilni ručak. Špilja Mramornica je otporna na loše vrijeme i dostupna s suhim nogama. Dan savršeno završava degustacijom vina i izvrsnom večerom u San Roccu."
           },
           "stops": [
             {
@@ -1403,7 +1435,8 @@
                 "de": "Parken nah am Eingang.",
                 "hu": "Parkolás a bejáratnál.",
                 "ro": "Parcare lângă intrare.",
-                "en": "Park close to the entrance."
+                "en": "Park close to the entrance.",
+                "hr": "Parkirajte blizu ulaza."
               }
             },
             {
@@ -1412,7 +1445,8 @@
                 "de": "Kurze Wege im Regen.",
                 "hu": "Rövid utak az esőben.",
                 "ro": "Distanțe scurte pe ploaie.",
-                "en": "Short walks in the rain."
+                "en": "Short walks in the rain.",
+                "hr": "Kratke šetnje po kiši."
               }
             },
             {
@@ -1421,7 +1455,8 @@
                 "de": "Sicht aus dem Auto.",
                 "hu": "Kilátás az autóból.",
                 "ro": "Vedere din mașină.",
-                "en": "View from the car."
+                "en": "View from the car.",
+                "hr": "Pogled iz automobila."
               }
             },
             {
@@ -1430,7 +1465,8 @@
                 "de": "Gemütlich drinnen sitzen.",
                 "hu": "Kényelmes benti ülés.",
                 "ro": "Stați comod în interior.",
-                "en": "Sit comfortably inside."
+                "en": "Sit comfortably inside.",
+                "hr": "Sjednite udobno unutra."
               }
             },
             {
@@ -1439,7 +1475,8 @@
                 "de": "Auto direkt am Parkplatz.",
                 "hu": "Autó a parkolóban.",
                 "ro": "Mașina în parcare.",
-                "en": "Car right at the parking lot."
+                "en": "Car right at the parking lot.",
+                "hr": "Auto tik na parkiralištu."
               }
             },
             {
@@ -1448,7 +1485,8 @@
                 "de": "Eleganter Stopp im Trockenen.",
                 "hu": "Elegáns, száraz megálló.",
                 "ro": "Oprire elegantă la uscat.",
-                "en": "Elegant dry stop."
+                "en": "Elegant dry stop.",
+                "hr": "Elegantno suho zaustavljanje."
               }
             },
             {
@@ -1457,7 +1495,8 @@
                 "de": "Nicht trinken beim Fahren!",
                 "hu": "Sofőr ne igyon!",
                 "ro": "Șoferul nu bea!",
-                "en": "Driver stays sober!"
+                "en": "Driver stays sober!",
+                "hr": "Vozač ostaje trijezan!"
               }
             },
             {
@@ -1466,7 +1505,8 @@
                 "de": "Blick durch die Frontscheibe.",
                 "hu": "Kilátás a szélvédőn át.",
                 "ro": "Vedere prin parbriz.",
-                "en": "View through the windshield."
+                "en": "View through the windshield.",
+                "hr": "Pogled kroz vjetrobransko staklo."
               }
             }
           ],
@@ -1497,9 +1537,9 @@
             ],
             "hr": [
               "Koristite parkirna mjesta blizu odredišta.",
-              "Izbjegavajte neasfaltirane sporedne ceste.",
-              "Uključite klima uređaj kako biste odmaglili prozore.",
-              "Držite kišobran spreman u autu."
+              "Izbjegavajte makadamske sporedne ceste.",
+              "Palite klimu za odmagljivanje prozora.",
+              "Imajte kišobran pri ruci u autu."
             ]
           }
         },
@@ -1509,7 +1549,7 @@
             "hu": "Télen Brtonigla felfedezése autóval a legkényelmesebb. Élvezze a fűtött utazást a bájos látnivalók között. A natúrpark ilyenkor különösen misztikus. Egy melegítő ebéd után a barlang állandó hőmérséklete hívogat. Zárja a napot borkóstolóval és a téli fényekben úszó szőlőültetvények látványával.",
             "ro": "Iarna, Brtonigla se explorează cel mai bine cu mașina. Bucurați-vă de călătoria încălzită între obiectivele fermecătoare. Parcul natural pare mistic iarna. După un prânz cald, peștera oferă o temperatură constantă. Încheiați ziua cu o degustare de vin și vederea podgoriilor în lumina iernii.",
             "en": "Exploring Brtonigla in winter is most comfortable by car. Enjoy the heated ride between charming sights. The nature park looks particularly mystical in winter. After a warming lunch, the cave offers a constant temperature. Close the day with wine tasting and views of the vineyards in soft winter light.",
-            "hr": "Istraživanje Brtonigle zimi najudobnije je automobilom. Uživajte u grijanoj vožnji između šarmantnih znamenitosti. Park prirode zimi izgleda posebno mistično. Nakon ručka za zagrijavanje, špilja nudi stalnu temperaturu. Zatvorite dan degustacijom vina i pogledom na vinograde u blagom zimskom svjetlu."
+            "hr": "Istraživanje Brtonigle zimi najudobnije je automobilom. Uživajte u grijanom prijevozu između šarmantnih znamenitosti. Park prirode izgleda posebno mistično zimi. Nakon zagrijavajućeg ručka špilja nudi konstantnu temperaturu. Dan zaključite degustacijom vina i pogledom na vinograde u mekanoj zimskoj svjetlosti."
           },
           "stops": [
             {
@@ -1518,7 +1558,8 @@
                 "de": "Kurzer Kälteschock.",
                 "hu": "Rövid hidegsokk.",
                 "ro": "Scurt șoc de frig.",
-                "en": "Brief cold shock."
+                "en": "Brief cold shock.",
+                "hr": "Kratki hladni šok."
               }
             },
             {
@@ -1527,7 +1568,8 @@
                 "de": "Warmer Stopp zwischendurch.",
                 "hu": "Meleg megálló közben.",
                 "ro": "Oprire caldă pe parcurs.",
-                "en": "Warm stop in between."
+                "en": "Warm stop in between.",
+                "hr": "Topla pauza usput."
               }
             },
             {
@@ -1536,7 +1578,8 @@
                 "de": "Eisige Wege möglich.",
                 "hu": "Jeges utak lehetségesek.",
                 "ro": "Posibile drumuri înghețate.",
-                "en": "Icy paths possible."
+                "en": "Icy paths possible.",
+                "hr": "Mogući zaleđeni putovi."
               }
             },
             {
@@ -1545,7 +1588,8 @@
                 "de": "Lange Pause zum Aufwärmen.",
                 "hu": "Hosszú melegedő szünet.",
                 "ro": "Pauză lungă de încălzire.",
-                "en": "Long break for warming up."
+                "en": "Long break for warming up.",
+                "hr": "Duga pauza za zagrijavanje."
               }
             },
             {
@@ -1554,7 +1598,8 @@
                 "de": "Kein Frost in der Höhle.",
                 "hu": "Nincs fagy a barlangban.",
                 "ro": "Fără îngheț în peșteră.",
-                "en": "No frost in the cave."
+                "en": "No frost in the cave.",
+                "hr": "U špilji nema mraza."
               }
             },
             {
@@ -1563,7 +1608,8 @@
                 "de": "Luxuriöses Winterflair.",
                 "hu": "Luxus téli hangulat.",
                 "ro": "Atmosferă de iarnă de lux.",
-                "en": "Luxurious winter flair."
+                "en": "Luxurious winter flair.",
+                "hr": "Luksuzan zimski ugođaj."
               }
             },
             {
@@ -1572,7 +1618,8 @@
                 "de": "Wein im Warmen genießen.",
                 "hu": "Élvezze a bort a melegben.",
                 "ro": "Vin în interior cald.",
-                "en": "Enjoy wine in the warm."
+                "en": "Enjoy wine in the warm.",
+                "hr": "Uživajte u vinu u toplini."
               }
             },
             {
@@ -1581,7 +1628,8 @@
                 "de": "Heizung an beim Schauen.",
                 "hu": "Fűtés be nézelődés közben.",
                 "ro": "Căldura pornită la vedere.",
-                "en": "Heater on while watching."
+                "en": "Heater on while watching.",
+                "hr": "Grijač uključen dok promatrate."
               }
             }
           ],
@@ -1612,8 +1660,8 @@
             ],
             "hr": [
               "Provjerite tlak u gumama na hladnoći.",
-              "Imajte spreman sprej za odmrzavanje.",
-              "Pripazite na led na sporednim cestama.",
+              "Imajte sprej za odledljivanje pri ruci.",
+              "Pazite na led na sporednim cestama.",
               "Uživajte u grijanim sjedalima."
             ]
           }
@@ -1663,7 +1711,7 @@
             "hu": "A faluban minden elérhető gyalogosan.",
             "ro": "Totul în sat este accesibil la pas.",
             "en": "Everything in the village is accessible on foot.",
-            "hr": "Sve u mjestu je dostupno pješice."
+            "hr": "Sve u selu je dostupno pješice."
           }
         },
         {
@@ -1682,7 +1730,7 @@
             "hu": "Szép túra a központból indulva.",
             "ro": "O drumeție frumoasă pornind din centru.",
             "en": "Beautiful hike starting from the center.",
-            "hr": "Lijepa pješačka staza koja kreće iz centra."
+            "hr": "Prekrasna pješačka tura koja počinje iz centra."
           }
         },
         {
@@ -1701,7 +1749,7 @@
             "hu": "Élvezze a helyi vendégszeretetet.",
             "ro": "Bucurați-vă de hospitalitatea locală.",
             "en": "Enjoy the local hospitality.",
-            "hr": "Uživajte u lokalnom gostoprimstvu."
+            "hr": "Uživajte u lokalnoj gostoljubivosti."
           }
         },
         {
@@ -1739,7 +1787,7 @@
             "hu": "Utolsó pihenő a visszaindulás előtt.",
             "ro": "Ultima pauză înainte de plecare.",
             "en": "Last break before departure.",
-            "hr": "Posljednji predah prije polaska."
+            "hr": "Zadnja pauza prije polaska."
           }
         },
         {
@@ -1758,7 +1806,7 @@
             "hu": "Közel a buszmegállóhoz.",
             "ro": "Aproape de stația de autobuz.",
             "en": "Close to the bus stop.",
-            "hr": "Blizu autobusne stanice."
+            "hr": "Blizu autobusnog stajališta."
           }
         }
       ],
@@ -1767,7 +1815,7 @@
         "hu": "Saját autó nélkül is csodásan felfedezhető Brtonigla. A busszal való érkezés után fedezze fel a központot, majd túrázzon a Škarline natúrparkhoz. Egy hagyományos ebéd után kényelmes séta vezet a Mramornica-barlanghoz. A délutánt az exkluzív San Rocco-ban töltheti, mielőtt megcsodálná a naplementét, és nyugodtan elindulna visszafelé.",
         "ro": "Chiar și fără mașină proprie, Brtonigla poate fi descoperită minunat. După sosirea cu autobuzul, explorați centrul și faceți o drumeție până la parcul natural Škarline. După un prânz tradițional, o plimbare relaxantă vă duce la peștera Mramornica. Savurați după-amiaza la exclusivistul San Rocco, înainte de a admira apusul și de a porni relaxat spre casă.",
         "en": "Even without your own car, Brtonigla can be wonderfully discovered. After arriving by bus, explore the center and hike to the Škarline Nature Park. Following a traditional lunch, a leisurely walk leads to the Mramornica Cave. Enjoy the afternoon at the exclusive San Rocco before admiring the sunset and starting your journey back relaxed.",
-        "hr": "Brtonigla se može predivno istražiti čak i bez vlastitog automobila. Nakon dolaska autobusom, istražite centar i pješačite do parka prirode Škarline. Nakon tradicionalnog ručka, lagana šetnja vodi do špilje Mramornice. Uživajte u popodnevu u ekskluzivnom San Roccu prije nego što se divite zalasku sunca i opušteno krenete na put natrag."
+        "hr": "Čak i bez vlastitog auta Brtoniglu možete prekrasno otkriti. Nakon dolaska autobusom istražite centar i prošećite do Parka prirode Škarline. Nakon tradicionalnog ručka ležerna šetnja vodi do špilje Mramornica. Popodne provedite u ekskluzivnom San Roccu prije nego što pogledate zalazak sunca i polako krenete natrag."
       },
       "gastro_picks": {
         "de": [
@@ -1892,9 +1940,9 @@
           "Plan a bit more time for the hikes."
         ],
         "hr": [
-          "Unaprijed pažljivo provjerite vozni red autobusa (Arriva/Fils).",
-          "Većina znamenitosti u selu je blizu jedna drugoj.",
-          "Planirajte malo više vremena za pješačenje."
+          "Pažljivo provjerite vozni red autobusa (Arriva/Filils) unaprijed.",
+          "Većina atrakcija u selu je blizu jedna drugoj.",
+          "Planirajte malo više vremena za pješačenja."
         ]
       },
       "variants": {
@@ -1904,7 +1952,7 @@
             "hu": "Fedezze fel Brtoniglát stresszmentesen helyi járatokkal. A központi megállók gyors hozzáférést adnak a templomhoz és az óvároshoz. Használja ki az esőszünetet a Škarline parkhoz. A Mramornica-barlang továbbra is ideális rosszidős célpont. Az estét töltse regionális finomságokkal, mielőtt visszaindulna.",
             "ro": "Explorați Brtonigla fără stres cu conexiunile locale. Stațiile centrale oferă acces rapid la biserică și centrul vechi. Profitați de pauzele de ploaie pentru parcul Škarline. Peștera Mramornica rămâne ținta ideală pe vreme rea. Seara, relaxați-vă cu specialități regionale înainte de plecare.",
             "en": "Explore Brtonigla stress-free with local connections. Central stops offer quick access to the church and old town. Use rain breaks to visit Škarline Park. Mramornica Cave remains the ideal bad-weather destination. Spend the evening relaxed with regional specialties before heading back.",
-            "hr": "Istražite Brtoniglu bez stresa uz lokalne veze. Središnja stajališta nude brz pristup crkvi i starom gradu. Iskoristite stanke od kiše za posjet parku Škarline. Špilja Mramornica ostaje idealno odredište za loše vrijeme. Provedite večer opušteno uz regionalne specijalitete prije povratka."
+            "hr": "Istražite Brtoniglu bez stresa uz lokalne veze. Centralne stanice nude brz pristup crkvi i starom gradu. Iskoristite pauze od kiše za posjet Parku Škarline. Špilja Mramornica ostaje idealna destinacija za loše vrijeme. Večer provedite opušteno uz domaće specijalitete prije povratka."
           },
           "stops": [
             {
@@ -1913,7 +1961,8 @@
                 "de": "Zentraler Unterstand.",
                 "hu": "Központi esőbeálló.",
                 "ro": "Adăpost central.",
-                "en": "Central shelter."
+                "en": "Central shelter.",
+                "hr": "Središnje sklonište."
               }
             },
             {
@@ -1922,7 +1971,8 @@
                 "de": "Kurze Wege zum Bus.",
                 "hu": "Rövid út a buszig.",
                 "ro": "Drum scurt la autobuz.",
-                "en": "Short walk to bus."
+                "en": "Short walk to bus.",
+                "hr": "Kratka šetnja do autobusa."
               }
             },
             {
@@ -1931,7 +1981,8 @@
                 "de": "Wetter-App checken.",
                 "hu": "Nézze az időjárás-appot.",
                 "ro": "Verificați aplicația meteo.",
-                "en": "Check the weather app."
+                "en": "Check the weather app.",
+                "hr": "Provjerite vremensku aplikaciju."
               }
             },
             {
@@ -1940,7 +1991,8 @@
                 "de": "Warten im Trockenen.",
                 "hu": "Várjon a szárazon.",
                 "ro": "Așteptați la uscat.",
-                "en": "Wait in the dry."
+                "en": "Wait in the dry.",
+                "hr": "Pričekajte na suhom."
               }
             },
             {
@@ -1949,7 +2001,8 @@
                 "de": "Trockener Fußweg.",
                 "hu": "Száraz gyalogút.",
                 "ro": "Drum pe jos uscat.",
-                "en": "Dry walking path."
+                "en": "Dry walking path.",
+                "hr": "Suha pješačka staza."
               }
             },
             {
@@ -1958,7 +2011,8 @@
                 "de": "Abfahrt im Blick behalten.",
                 "hu": "Figyelje az indulást.",
                 "ro": "Urmăriți ora plecării.",
-                "en": "Watch the departure time."
+                "en": "Watch the departure time.",
+                "hr": "Pazite na vrijeme polaska."
               }
             },
             {
@@ -1967,7 +2021,8 @@
                 "de": "Sicht bei Bewölkung.",
                 "hu": "Kilátás felhős időben.",
                 "ro": "Vedere pe timp înnorat.",
-                "en": "View when cloudy."
+                "en": "View when cloudy.",
+                "hr": "Pogled pri oblačnom vremenu."
               }
             }
           ],
@@ -1998,9 +2053,9 @@
             ],
             "hr": [
               "Planirajte s rezervom vremena.",
-              "Držite vozne redove pri ruci.",
-              "Nosite nepromočivu obuću.",
-              "Središnje mjesto susreta po kiši."
+              "Imajte rasporede pri ruci.",
+              "Nosite vodonepropusnu obuću.",
+              "Središnje mjesto za susret po kiši."
             ]
           }
         },
@@ -2010,7 +2065,7 @@
             "hu": "Tapasztalja meg a téli Brtoniglát tömegközlekedéssel. A fűtött buszok kényelmes bázist nyújtanak a felfedezéshez. A Szent Zénó templom és a natúrpark után melegedjen fel egy konobában. A Mramornica-barlang üdvözlendő állandó hőmérsékletet kínál. Ügyeljen a korai naplementére a hazatérés tervezésekor.",
             "ro": "Experimentați Brtonigla iarna cu transportul public. Autobuzele încălzite oferă o bază confortabilă pentru explorare. După vizita la biserică și parcul natural, încălziți-vă într-o konoba. Peștera Mramornica oferă o temperatură constantă. Atenție la apusul timpuriu pentru planificarea returului.",
             "en": "Experience winter Brtonigla with public transport. Heated buses provide a cozy base for your discovery tour. After visiting St. Zenon Church and the nature park, warm up in a konoba. Mramornica Cave offers a welcome temperature stability. Watch for the early sunset to plan your return trip in time.",
-            "hr": "Doživite zimsku Brtoniglu javnim prijevozom. Grijani autobusi pružaju ugodnu bazu za vašu istraživačku turu. Nakon posjeta crkvi sv. Zenona i parku prirode, ugrijte se u konobi. Špilja Mramornica nudi dobrodošlu stabilnu temperaturu. Pratite rani zalazak sunca kako biste na vrijeme isplanirali povratak."
+            "hr": "Doživite zimsku Brtoniglu javnim prijevozom. Grijani autobusi pružaju ugodnu bazu za vaše razgledavanje. Nakon posjeta crkvi sv. Zenona i parku prirode, u konobi se možete ugrijati. Špilja Mramornica nudi dobrodošlo stalno temperaturu. Pazite na rani zalazak sunca kako biste na vrijeme isplanirali povratak."
           },
           "stops": [
             {
@@ -2019,7 +2074,8 @@
                 "de": "Bus kommt pünktlich.",
                 "hu": "Busz pontosan jön.",
                 "ro": "Autobuzul vine la timp.",
-                "en": "Bus arrives on time."
+                "en": "Bus arrives on time.",
+                "hr": "Autobus stiže na vrijeme."
               }
             },
             {
@@ -2028,7 +2084,8 @@
                 "de": "Warm anziehen für Pausen.",
                 "hu": "Öltözzön melegen a szünetre.",
                 "ro": "Haine groase pentru pauze.",
-                "en": "Dress warm for breaks."
+                "en": "Dress warm for breaks.",
+                "hr": "Obucite se toplo za pauze."
               }
             },
             {
@@ -2037,7 +2094,8 @@
                 "de": "Frische Winterluft.",
                 "hu": "Friss téli levegő.",
                 "ro": "Aer proaspăt de iarnă.",
-                "en": "Fresh winter air."
+                "en": "Fresh winter air.",
+                "hr": "Svježi zimski zrak."
               }
             },
             {
@@ -2046,7 +2104,8 @@
                 "de": "Aufwärmen obligatorisch.",
                 "hu": "Melegedés kötelező.",
                 "ro": "Încălzirea obligatorie.",
-                "en": "Warming up mandatory."
+                "en": "Warming up mandatory.",
+                "hr": "Zagrijavanje obavezno."
               }
             },
             {
@@ -2055,7 +2114,8 @@
                 "de": "Höhle ist frostfrei.",
                 "hu": "A barlang fagymentes.",
                 "ro": "Peștera e fără îngheț.",
-                "en": "Cave is frost-free."
+                "en": "Cave is frost-free.",
+                "hr": "Špilja je bez mraza."
               }
             },
             {
@@ -2064,7 +2124,8 @@
                 "de": "Warmer Abschied.",
                 "hu": "Meleg búcsú.",
                 "ro": "Rămas bun cald.",
-                "en": "Warm farewell."
+                "en": "Warm farewell.",
+                "hr": "Topao oproštaj."
               }
             },
             {
@@ -2073,7 +2134,8 @@
                 "de": "Frühes Ende planen.",
                 "hu": "Tervezzen korai zárást.",
                 "ro": "Planificați final devreme.",
-                "en": "Plan an early end."
+                "en": "Plan an early end.",
+                "hr": "Planirajte rani završetak."
               }
             }
           ],
@@ -2104,9 +2166,9 @@
             ],
             "hr": [
               "Uživajte u toplini u autobusu.",
-              "Obratite pozornost na zimski vozni red.",
+              "Obratite pozornost na zimske rasporede.",
               "Ne zaboravite rukavice.",
-              "Nosite sa sobom tople napitke."
+              "Nosite tople napitke."
             ]
           }
         }

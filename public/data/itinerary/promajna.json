@@ -21,7 +21,8 @@
             "de": "Dorfhafen",
             "hu": "Falu kikötője",
             "ro": "Portul satului",
-            "en": "Village Harbor"
+            "en": "Village Harbor",
+            "hr": "Viče"
           },
           "coords": [
             17.0722,
@@ -37,7 +38,7 @@
             "hu": "Kora reggel nézze meg a halászok zsákmányát.",
             "ro": "Dimineața devreme puteți vedea captura pescarilor.",
             "en": "Watch the fishermen bring in their catch early.",
-            "hr": "Gledajte ribare kako rano ujutro donose svoj ulov."
+            "hr": "Gledajte ribare kako rano dovoze ulov."
           }
         },
         {
@@ -45,7 +46,8 @@
             "de": "Allerheiligenkirche",
             "hu": "Mindenszentek-templom",
             "ro": "Biserica Tuturor Sfinților",
-            "en": "All Saints Church"
+            "en": "All Saints Church",
+            "hr": "Crkva Svih Svetih"
           },
           "coords": [
             17.071,
@@ -61,7 +63,7 @@
             "hu": "Hűvös hely az elmélyüléshez.",
             "ro": "Un loc răcoros pentru meditație.",
             "en": "A cool place for reflection.",
-            "hr": "Svijetlo i mirno mjesto za razmišljanje."
+            "hr": "Hladno mjesto za razmišljanje."
           }
         },
         {
@@ -69,7 +71,8 @@
             "de": "Alte Steinhäuser",
             "hu": "Régi kőházak",
             "ro": "Case vechi de piatră",
-            "en": "Old Stone Houses"
+            "en": "Old Stone Houses",
+            "hr": "Stare kamene kuće"
           },
           "coords": [
             17.0735,
@@ -93,7 +96,8 @@
             "de": "Promajna Hauptstrand",
             "hu": "Promajna központi strand",
             "ro": "Plaja principală Promajna",
-            "en": "Promajna Main Beach"
+            "en": "Promajna Main Beach",
+            "hr": "Glavna plaža Promajne"
           },
           "coords": [
             17.07,
@@ -109,7 +113,7 @@
             "hu": "Természetes árnyék a fenyők alatt.",
             "ro": "Umbră naturală sub pini.",
             "en": "Natural shade under pine trees.",
-            "hr": "Prirodna hladovina ispod borova."
+            "hr": "Prirodni hlad ispod borova."
           }
         },
         {
@@ -117,7 +121,8 @@
             "de": "Denkmal für die Fischer",
             "hu": "Halászok emlékműve",
             "ro": "Monumentul pescarilor",
-            "en": "Monument to Fishermen"
+            "en": "Monument to Fishermen",
+            "hr": "Spomenik ribarima"
           },
           "coords": [
             17.0715,
@@ -141,7 +146,8 @@
             "de": "Küstenweg nach Baška Voda",
             "hu": "Parti út Baška Voda felé",
             "ro": "Drumul de coastă spre Baška Voda",
-            "en": "Coastal Path to Baška Voda"
+            "en": "Coastal Path to Baška Voda",
+            "hr": "Put uz obalu do Baške Vode"
           },
           "coords": [
             17.06,
@@ -157,7 +163,7 @@
             "hu": "Pazar kilátás az Adriára.",
             "ro": "Vedere superbă spre Marea Adriatică.",
             "en": "Stunning views of the Adriatic.",
-            "hr": "Zadivljujući pogled na Jadran."
+            "hr": "Zapanjujući pogled na Jadran."
           }
         },
         {
@@ -165,7 +171,8 @@
             "de": "Aussichtspunkt Sveti Rok",
             "hu": "Szent Rókus kilátó",
             "ro": "Punctul de belvedere Sveti Rok",
-            "en": "Sveti Rok Viewpoint"
+            "en": "Sveti Rok Viewpoint",
+            "hr": "Vidikovac Sveti Rok"
           },
           "coords": [
             17.075,
@@ -190,7 +197,7 @@
         "hu": "A délelőtt a festői kikötőben és a Mindenszentek-templomban indul, ahol átélhető az egykori halászfalu nyugalma. Délben a régi kőházak hívogatnak sétára, amit egy hosszú pihenő követ a fenyvesek övezte strandon. Délután tisztelegjünk a halászok emlékművénél, majd sétáljunk a panorámás parti úton. Az estét a Szent Rókus kilátónál zárjuk, ahonnan csodás kilátás nyílik a Biokovo-hegységre és a tengerre.",
         "ro": "Dimineața începe relaxat în portul pitoresc și la Biserica Tuturor Sfinților, unde se simte liniștea fostului sat pescăresc. La prânz, casele vechi de piatră invită la o plimbare, urmată de o pauză lungă pe plaja principală umbrită. După-amiaza onorăm tradiția la monumentul pescarilor și ne plimbăm pe drumul panoramic. Seara este încununată de apusul de la punctul de belvedere Sveti Rok, cu vedere spre muntele Biokovo.",
         "en": "The morning starts relaxed at the picturesque harbor and All Saints Church, capturing the peace of this former fishing village. At midday, explore the old stone houses before a long break on the pine-shaded main beach. In the afternoon, honor tradition at the fishermen's monument and stroll along the scenic coastal path. The evening concludes at the Sveti Rok viewpoint, offering stunning sunset views over the Adriatic and Biokovo mountains.",
-        "hr": "Jutro počinje opušteno u slikovitoj luci i crkvi Svih Svetih, hvatajući mir ovog bivšeg ribarskog mjesta. Sredinom dana istražite stare kamene kuće prije duge pauze na glavnoj plaži u sjeni borova. Poslijepodne odajte počast tradiciji kod spomenika ribaru i prošećite slikovitom obalnom stazom. Večer završava na vidikovcu Sveti Rok, koji nudi zadivljujući pogled na zalazak sunca nad Jadranom i planinu Biokovo."
+        "hr": "Jutro započinje opušteno u slikovitom lučici i kod crkve Svih Svetih, hvatajući mir ovog nekada ribarskog mjesta. U podne istražite stare kamene kuće prije dužeg odmora na glavnoj plaži u hladu borova. Poslijepodne izrazite poštovanje na spomeniku ribarima i prošećite slikovitom obalnom stazom. Večer završava na vidikovcu Sveti Rok s prekrasnim zalaskom sunca nad Jadranom i planinama Biokova."
       },
       "gastro_picks": {
         "de": [
@@ -386,8 +393,8 @@
         "hr": [
           "Nosite udobnu obuću za obalnu stazu.",
           "Posjetite luku rano ujutro.",
-          "Ponesite opremu za ronjenje zbog čistog mora.",
-          "Iskoristite hladovinu borova u podne."
+          "Ponesite opremu za ronjenje s maskom zbog bistrog mora.",
+          "Iskoristite hlad borova u podne."
         ]
       },
       "variants": {
@@ -396,7 +403,8 @@
             "de": "Der Vormittag beginnt entspannt am malerischen Hafen und in der Allerheiligenkirche, wo man die Ruhe des ehemaligen Fischerdorfs spürt. Mittags laden die alten Steinhäuser zu einem Spaziergang ein, gefolgt von einer ausgiebigen Pause am schattigen Hauptstrand. Am Nachmittag ehren wir die Tradition am Fischerdenkmal und spazieren den Panoramaweg entlang. Den Abend krönt der Sonnenuntergang am Aussichtspunkt Sveti Rok mit Blick auf das Biokovo-Gebirge.",
             "hu": "A délelőtt a festői kikötőben és a Mindenszentek-templomban indul, ahol átélhető az egykori halászfalu nyugalma. Délben a régi kőházak hívogatnak sétára, amit egy hosszú pihenő követ a fenyvesek övezte strandon. Délután tisztelegjünk a halászok emlékművénél, majd sétáljunk a panorámás parti úton. Az estét a Szent Rókus kilátónál zárjuk, ahonnan csodás kilátás nyílik a Biokovo-hegységre és a tengerre.",
             "ro": "Dimineața începe relaxat în portul pitoresc și la Biserica Tuturor Sfinților, unde se simte liniștea fostului sat pescăresc. La prânz, casele vechi de piatră invită la o plimbare, urmată de o pauză lungă pe plaja principală umbrită. După-amiaza onorăm tradiția la monumentul pescarilor și ne plimbăm pe drumul panoramic. Seara este încununată de apusul de la punctul de belvedere Sveti Rok, cu vedere spre muntele Biokovo.",
-            "en": "The morning starts relaxed at the picturesque harbor and All Saints Church, capturing the peace of this former fishing village. At midday, explore the old stone houses before a long break on the pine-shaded main beach. In the afternoon, honor tradition at the fishermen's monument and stroll along the scenic coastal path. The evening concludes at the Sveti Rok viewpoint, offering stunning sunset views over the Adriatic and Biokovo mountains."
+            "en": "The morning starts relaxed at the picturesque harbor and All Saints Church, capturing the peace of this former fishing village. At midday, explore the old stone houses before a long break on the pine-shaded main beach. In the afternoon, honor tradition at the fishermen's monument and stroll along the scenic coastal path. The evening concludes at the Sveti Rok viewpoint, offering stunning sunset views over the Adriatic and Biokovo mountains.",
+            "hr": "Jutro započinje opušteno u slikovitom lučici i kod crkve Svih Svetih, hvatajući mir ovog nekada ribarskog mjesta. U podne istražite stare kamene kuće prije dužeg odmora na glavnoj plaži u hladu borova. Poslijepodne izrazite poštovanje na spomeniku ribarima i prošećite slikovitom obalnom stazom. Večer završava na vidikovcu Sveti Rok s prekrasnim zalaskom sunca nad Jadranom i planinama Biokova."
           },
           "stops": [
             {
@@ -404,13 +412,15 @@
                 "de": "Dorfhafen",
                 "hu": "Falu kikötője",
                 "ro": "Portul satului",
-                "en": "Village Harbor"
+                "en": "Village Harbor",
+                "hr": "Viče"
               },
               "tip_5lang": {
                 "de": "Frühmorgens bringen Fischer ihren Fang.",
                 "hu": "Kora reggel nézze meg a halászok zsákmányát.",
                 "ro": "Dimineața devreme puteți vedea captura pescarilor.",
-                "en": "Watch the fishermen bring in their catch early."
+                "en": "Watch the fishermen bring in their catch early.",
+                "hr": "Gledajte ribare kako rano dovoze ulov."
               }
             },
             {
@@ -418,13 +428,15 @@
                 "de": "Allerheiligenkirche",
                 "hu": "Mindenszentek-templom",
                 "ro": "Biserica Tuturor Sfinților",
-                "en": "All Saints Church"
+                "en": "All Saints Church",
+                "hr": "Crkva Svih Svetih"
               },
               "tip_5lang": {
                 "de": "Kühler Ort für Besinnung.",
                 "hu": "Hűvös hely az elmélyüléshez.",
                 "ro": "Un loc răcoros pentru meditație.",
-                "en": "A cool place for reflection."
+                "en": "A cool place for reflection.",
+                "hr": "Hladno mjesto za razmišljanje."
               }
             },
             {
@@ -432,13 +444,15 @@
                 "de": "Alte Steinhäuser",
                 "hu": "Régi kőházak",
                 "ro": "Case vechi de piatră",
-                "en": "Old Stone Houses"
+                "en": "Old Stone Houses",
+                "hr": "Stare kamene kuće"
               },
               "tip_5lang": {
                 "de": "Fotogenste Gasse im Ort.",
                 "hu": "A falu legfotogénebb utcája.",
                 "ro": "Cea mai fotogenică uliță din sat.",
-                "en": "The most photogenic alley in the village."
+                "en": "The most photogenic alley in the village.",
+                "hr": "Najfotogeničnija uličica u selu."
               }
             },
             {
@@ -446,13 +460,15 @@
                 "de": "Promajna Hauptstrand",
                 "hu": "Promajna központi strand",
                 "ro": "Plaja principală Promajna",
-                "en": "Promajna Main Beach"
+                "en": "Promajna Main Beach",
+                "hr": "Glavna plaža Promajne"
               },
               "tip_5lang": {
                 "de": "Natürlicher Schatten unter Pinien.",
                 "hu": "Természetes árnyék a fenyők alatt.",
                 "ro": "Umbră naturală sub pini.",
-                "en": "Natural shade under pine trees."
+                "en": "Natural shade under pine trees.",
+                "hr": "Prirodni hlad ispod borova."
               }
             },
             {
@@ -460,13 +476,15 @@
                 "de": "Denkmal für die Fischer",
                 "hu": "Halászok emlékműve",
                 "ro": "Monumentul pescarilor",
-                "en": "Monument to Fishermen"
+                "en": "Monument to Fishermen",
+                "hr": "Spomenik ribarima"
               },
               "tip_5lang": {
                 "de": "Symbol der lokalen Tradition.",
                 "hu": "A helyi hagyományok szimbóluma.",
                 "ro": "Simbolul tradiției locale.",
-                "en": "A symbol of local tradition."
+                "en": "A symbol of local tradition.",
+                "hr": "Simbol lokalne tradicije."
               }
             },
             {
@@ -474,13 +492,15 @@
                 "de": "Küstenweg nach Baška Voda",
                 "hu": "Parti út Baška Voda felé",
                 "ro": "Drumul de coastă spre Baška Voda",
-                "en": "Coastal Path to Baška Voda"
+                "en": "Coastal Path to Baška Voda",
+                "hr": "Put uz obalu do Baške Vode"
               },
               "tip_5lang": {
                 "de": "Herrliche Aussicht auf die Adria.",
                 "hu": "Pazar kilátás az Adriára.",
                 "ro": "Vedere superbă spre Marea Adriatică.",
-                "en": "Stunning views of the Adriatic."
+                "en": "Stunning views of the Adriatic.",
+                "hr": "Zapanjujući pogled na Jadran."
               }
             },
             {
@@ -488,13 +508,15 @@
                 "de": "Aussichtspunkt Sveti Rok",
                 "hu": "Szent Rókus kilátó",
                 "ro": "Punctul de belvedere Sveti Rok",
-                "en": "Sveti Rok Viewpoint"
+                "en": "Sveti Rok Viewpoint",
+                "hr": "Vidikovac Sveti Rok"
               },
               "tip_5lang": {
                 "de": "Perfekt für das Abendlicht.",
                 "hu": "Tökéletes az esti fényekhez.",
                 "ro": "Perfect pentru lumina de seară.",
-                "en": "Perfect for the evening light."
+                "en": "Perfect for the evening light.",
+                "hr": "Savršeno za večernje svjetlo."
               }
             }
           ],
@@ -656,6 +678,12 @@
               "Visit the harbor early in the morning.",
               "Bring snorkeling gear for the clear water.",
               "Take advantage of the pine shade at noon."
+            ],
+            "hr": [
+              "Nosite udobnu obuću za obalnu stazu.",
+              "Posjetite luku rano ujutro.",
+              "Ponesite opremu za ronjenje s maskom zbog bistrog mora.",
+              "Iskoristite hlad borova u podne."
             ]
           }
         },
@@ -665,7 +693,7 @@
             "hu": "Kezdje a reggelt a kikötőben, ahol az esőcseppek táncolnak a tenger felszínén. Meneküljön az All Saints templom csendjébe, amíg odakint elered az égi áldás.\n\nDélben a főstrand szürke víztükre melankolikus, mégis lenyűgöző látványt nyújt. Az ódon kőházak falai között az eső csak még jobban kiemeli a történelmi hangulatot.\n\nDélután a Baška Voda felé vezető parti út mentén a morajló tenger morajlása kíséri lépteit. A sós pára frissítő ereje ilyenkor a legintenzívebb.\n\nEste a Sveti Rok kilátóról csodálhatja meg a falu fényeit, ahogy megcsillannak a vizes aszfalton és a tengeri ködön keresztül.",
             "ro": "Începeți dimineața în port, unde picăturile de ploaie se pierd în mare. Refugiați-vă în liniștea Bisericii Tuturor Sfinților în timp ce ploaia cade neîncetat afară.\n\nLa prânz, oglinda cenușie a mării de pe plaja principală oferă o frumusețe melancolică. Casele vechi de piatră par și mai impunătoare sub cerul înnorat.\n\nDupă-amiaza, poteca de coastă spre Baška Voda vă poartă pe lângă valurile spumoase. Vântul aduce mirosul proaspăt de sare direct spre dumneavoastră.\n\nSeara, de la punctul de observație Sveti Rok, puteți vedea luminile satului reflectându-se în asfaltul ud și prin ceața marină.",
             "en": "Start your morning at the harbor, where raindrops dance on the sea's surface. Seek shelter in the silence of All Saints Church while the rain pours outside.\n\nAt noon, the grey mirror of the sea at the main beach offers a melancholic yet stunning view. The old stone houses feel even more historic under the overcast sky.\n\nIn the afternoon, the coastal path to Baška Voda leads you past crashing waves. The sea spray and wind provide a truly invigorating experience.\n\nIn the evening, enjoy the view from Sveti Rok, where the village lights shimmer against the wet pavement and through the coastal mist.",
-            "hr": "Započnite jutro u luci, gdje kapi kiše plešu na površini mora. Potražite utočište u tišini crkve Svih Svetih dok vani pljušti.\n\nU podne, sivo ogledalo mora na glavnoj plaži nudi melankoličan, ali zadivljujući prizor. Stare kamene kuće djeluju još povijesnije pod oblačnim nebom.\n\nPoslijepodne, obalna staza prema Baškoj Vodi vodi vas pokraj valova koji se razbijaju. Morska pjena i vjetar pružaju uistinu okrepljujuće iskustvo.\n\nNavečer uživajte u pogledu sa Svetog Roka, gdje se seoska svjetla ljeskaju na mokrom pločniku i kroz obalnu maglu."
+            "hr": "Započnite jutro u luci, gdje kapljice kiše plešu po površini mora. Potražite zaklon u tišini crkve Svih Svetih dok vani pada kiša.\n\nU podne sivi ogledalo mora na glavnoj plaži pruža melankoličan, ali zadivljujući prizor. Stare kamene kuće djeluju još povijesnije pod tmurnim nebom.\n\nPoslijepodne obalna staza prema Baškoj Vodi vodi pored razbijajućih valova. Morska prskanja i vjetar pružaju istinski osvježavajuće iskustvo.\n\nUvečer uživajte u pogledu s Svetog Roka, gdje svjetla sela svjetlucaju na mokrom popločenju i kroz obalnu izmaglicu."
           },
           "stops": [
             {
@@ -675,7 +703,7 @@
                 "hu": "A kikötői kávézó száraz menedéket nyújt.",
                 "ro": "Cafeneaua din port oferă un adăpost uscat.",
                 "en": "The harbor café provides dry shelter.",
-                "hr": "Kafić u luci nudi suhi zaklon."
+                "hr": "Kafić u luci pruža suhi zaklon."
               }
             },
             {
@@ -685,7 +713,7 @@
                 "hu": "Ideális hely a legnagyobb zápor kivárására.",
                 "ro": "Loc ideal pentru a aștepta trecerea ploii.",
                 "en": "Ideal place to wait out the heaviest rain.",
-                "hr": "Idealno mjesto za čekanje da prođe najjača kiša."
+                "hr": "Idealno mjesto za pričekati najjaču kišu."
               }
             },
             {
@@ -695,7 +723,7 @@
                 "hu": "Vigyázat a vizes, csúszós macskaköveken.",
                 "ro": "Atenție la pietrele umede și alunecoase.",
                 "en": "Watch out for wet, slippery cobblestones.",
-                "hr": "Pripazite na mokru i sklisku kaldrmu."
+                "hr": "Pazite na mokre, klizave kaldrme."
               }
             },
             {
@@ -705,7 +733,7 @@
                 "hu": "Használja a fedett strandbárokat a szárazon maradáshoz.",
                 "ro": "Folosiți barurile acoperite pentru a rămâne uscați.",
                 "en": "Use covered beach bars to stay dry.",
-                "hr": "Koristite natkrivene barove na plaži kako biste ostali suhi."
+                "hr": "Koristite natkrivene beach barove da ostanete suhi."
               }
             },
             {
@@ -715,7 +743,7 @@
                 "hu": "Gyors fotómegálló, a szobor csillog az esőben.",
                 "ro": "Oprire rapidă, statuia strălucește în ploaie.",
                 "en": "Quick photo stop, the statue shines in the rain.",
-                "hr": "Brzo mjesto za fotografiranje, kip sjaji na kiši."
+                "hr": "Brza foto-stanica, kip sjaji na kiši."
               }
             },
             {
@@ -725,7 +753,7 @@
                 "hu": "Zárt cipő szükséges a sáros szakaszok miatt.",
                 "ro": "Încălțăminte închisă necesară pentru zonele noroioase.",
                 "en": "Closed shoes needed for muddy sections.",
-                "hr": "Potrebna je zatvorena obuća za blatnjave dijelove."
+                "hr": "Potrebne zatvorene cipele zbog blatnih dionica."
               }
             },
             {
@@ -735,7 +763,7 @@
                 "hu": "Vihar esetén kerülje ezt a nyitott pontot.",
                 "ro": "Evitați acest punct expus în caz de furtună.",
                 "en": "Avoid this exposed point during thunderstorms.",
-                "hr": "Izbjegavajte ovu izloženu točku tijekom grmljavine."
+                "hr": "Izbjegavajte ovu izloženu točku tijekom grmljavinskih oluja."
               }
             }
           ],
@@ -765,10 +793,10 @@
               "Schedule coffee breaks for when the rain bands are passing through."
             ],
             "hr": [
-              "Čvrst kišobran je bolji od sklopivog zbog obalnog vjetra.",
-              "Kamene ploče u selu postaju izuzetno skliske kad su mokre.",
-              "Borovi uz plažu nude ograničen zaklon tijekom lagane kiše.",
-              "Planirajte pauze za kavu u vrijeme kada prolaze kišni oblaci."
+              "Čvrst kišobran bolji je od sklopivog zbog obalnog vjetra.",
+              "Kamenite ploče u selu postaju izuzetno klizave kad su mokre.",
+              "Borovi uz plažu pružaju ograničen zaklon tijekom lagane kiše.",
+              "Rasporedite pauze za kavu kad prođu kišna polja."
             ]
           }
         },
@@ -778,7 +806,7 @@
             "hu": "Élvezze a tiszta téli levegőt Promajna kikötőjében, szinte turisták nélkül. A Biokovo-hegység látványa ilyenkor a legélesebb.\n\nDélben az alacsonyan járó nap melegíti az ódon kőházak falait. Olyan békés csend honol a faluban, amit nyáron sosem tapasztalni.\n\nA délutáni strandséta alatt csodálhatja meg a korai naplementét a szigetek mögött. A színek télen gyakran sokkal intenzívebbek.\n\nA napot nyugodtan zárhatja, miközben a hűvös tengeri szél megérkezik, és a falusiak behúzódnak meleg otthonaikba.",
             "ro": "Bucurați-vă de aerul curat de iarnă în portul Promajna, aproape fără alți turiști. Vederea spre muntele Biokovo este acum deosebit de clară.\n\nLa prânz, soarele blând încălzește zidurile caselor vechi de piatră. Domnește o liniște deplină, imposibil de găsit în timpul verii.\n\nDupă-amiaza pe plajă este ideală pentru plimbări lungi, în timp ce soarele apune devreme după insule. Culorile iernii sunt adesea mult mai vii.\n\nÎncheiați ziua liniștit, în timp ce briza rece a mării începe să bată, iar localnicii se retrag în casele lor primitoare.",
             "en": "Enjoy the crisp winter air at Promajna harbor, with almost no other tourists around. The views of the Biokovo mountain are exceptionally clear now.\n\nAt noon, the low sun warms the walls of the old stone houses. There's a peaceful silence in the village that is never found in summer.\n\nAn afternoon walk on the beach is perfect as the sun sets early behind the islands. Winter colors are often much more intense and vibrant.\n\nEnd your day peacefully as the cool sea breeze picks up and the locals retreat to their cozy homes.",
-            "hr": "Uživajte u svježem zimskom zraku u luci Promajna, gotovo bez drugih turista. Pogled na planinu Biokovo sada je izuzetno čist.\n\nU podne, nisko sunce grije zidove starih kamenih kuća. U selu vlada mirna tišina kakva se ljeti nikada ne susreće.\n\nPopodnevna šetnja plažom savršena je jer sunce rano zalazi iza otoka. Zimske boje su često mnogo intenzivnije i živopisnije.\n\nZavršite dan mirno dok hladni morski povjetarac jača, a mještani se povlače u svoje tople domove."
+            "hr": "Uživajte u svježem zimskom zraku u luci Promajne, gotovo bez drugih turista. Pogledi na planinu Biokovo sada su izuzetno jasni.\n\nU podne nisko sunce grije zidove starih kamenih kuća. U selu vlada mir koji se ljeti rijetko osjeti.\n\nPoslijepodnevna šetnja plažom idealna je dok se sunce rano spušta iza otoka. Zimske boje često su intenzivnije i vibrantnije.\n\nZavršite dan mirno dok svježi morski povjetarac jača i mještani odlaze u svoje tople domove."
           },
           "stops": [
             {
@@ -788,7 +816,7 @@
                 "hu": "Öltözzön rétegesen, a kikötői szél hűvös.",
                 "ro": "Purtați haine groase, briza din port este rece.",
                 "en": "Wear warm layers, the harbor breeze is chilly.",
-                "hr": "Obucite se toplo, povjetarac u luci je hladan."
+                "hr": "Nosite tople slojeve, povjetarac iz luke je hladan."
               }
             },
             {
@@ -808,7 +836,7 @@
                 "hu": "Fotózza le a kőfaragó művészet részleteit.",
                 "ro": "Fotografiați detaliile meșteșugului în piatră.",
                 "en": "Photograph the details of the stonemasonry.",
-                "hr": "Fotografirajte detalje klesarskog umijeća."
+                "hr": "Fotografirajte detalje kamene zidarske izrade."
               }
             },
             {
@@ -818,7 +846,7 @@
                 "hu": "Tökéletes magányos sétákhoz a parton.",
                 "ro": "Perfect pentru plimbări solitare pe mal.",
                 "en": "Perfect for solitary walks along the shore.",
-                "hr": "Savršeno za usamljene šetnje obalom."
+                "hr": "Savršeno za samotne šetnje uz obalu."
               }
             },
             {
@@ -828,7 +856,7 @@
                 "hu": "A délutáni fények ideálisak a fotózáshoz.",
                 "ro": "Lumina de după-amiază este ideală pentru poze.",
                 "en": "The afternoon light is ideal for photos.",
-                "hr": "Popodnevno svjetlo je idealno za fotografije."
+                "hr": "Poslijepodnevno svjetlo idealno je za fotografije."
               }
             },
             {
@@ -878,10 +906,10 @@
               "This is the best time for high-contrast landscape photography."
             ],
             "hr": [
-              "Mnogi su restorani zimi zatvoreni; ponesite vlastite grickalice.",
-              "Sunce zimi zalazi vrlo rano (oko 16:30).",
-              "Bura može biti vrlo hladna; ponesite vjetrovku.",
-              "Ovo je najbolje vrijeme za pejzažnu fotografiju visokog kontrasta."
+              "Mnogi restorani zimi su zatvoreni; ponesite vlastite grickalice.",
+              "Sunce se zimi vrlo rano spušta (oko 16:30).",
+              "Bura može biti vrlo hladna; ponesite vjetrootpornu jaknu.",
+              "Ovo je najbolje vrijeme za fotografiranje krajolika s visokim kontrastom."
             ]
           }
         }
@@ -900,7 +928,8 @@
             "de": "Dorfhafen",
             "hu": "Falu kikötője",
             "ro": "Portul satului",
-            "en": "Village Harbor"
+            "en": "Village Harbor",
+            "hr": "Viče"
           },
           "coords": [
             17.0722,
@@ -916,7 +945,7 @@
             "hu": "Könnyű kezdőpont a túrákhoz.",
             "ro": "Punct de plecare ușor pentru tururi.",
             "en": "Easy starting point for tours.",
-            "hr": "Laka polazna točka za ture."
+            "hr": "Jednostavna polazna točka za ture."
           }
         },
         {
@@ -924,7 +953,8 @@
             "de": "Alte Steinhäuser",
             "hu": "Régi kőházak",
             "ro": "Case vechi de piatră",
-            "en": "Old Stone Houses"
+            "en": "Old Stone Houses",
+            "hr": "Stare kamene kuće"
           },
           "coords": [
             17.0735,
@@ -940,7 +970,7 @@
             "hu": "Szűk utcák, tolja a biciklit.",
             "ro": "Ulițe înguste, împingeți bicicleta.",
             "en": "Narrow alleys, push your bike briefly.",
-            "hr": "Uske uličice, nakratko gurajte bicikl."
+            "hr": "Uske uličice, kratko gurnite bicikl."
           }
         },
         {
@@ -948,7 +978,8 @@
             "de": "Küstenweg nach Baška Voda",
             "hu": "Parti út Baška Voda felé",
             "ro": "Drumul de coastă spre Baška Voda",
-            "en": "Coastal Path to Baška Voda"
+            "en": "Coastal Path to Baška Voda",
+            "hr": "Put uz obalu do Baške Vode"
           },
           "coords": [
             17.06,
@@ -964,7 +995,7 @@
             "hu": "Árnyas út a tenger mellett.",
             "ro": "Drum umbrit pe malul mării.",
             "en": "Shaded path by the sea.",
-            "hr": "Sjenovita staza uz more."
+            "hr": "Put u hladu uz more."
           }
         },
         {
@@ -972,7 +1003,8 @@
             "de": "Promajna Hauptstrand",
             "hu": "Promajna központi strand",
             "ro": "Plaja principală Promajna",
-            "en": "Promajna Main Beach"
+            "en": "Promajna Main Beach",
+            "hr": "Glavna plaža Promajne"
           },
           "coords": [
             17.07,
@@ -988,7 +1020,7 @@
             "hu": "Biciklitárolók a strandbejáratnál.",
             "ro": "Suporturi de biciclete la intrarea pe plajă.",
             "en": "Bike racks at the beach entrance.",
-            "hr": "Stalci za bicikle na ulazu na plažu."
+            "hr": "Stalak za bicikle na ulazu na plažu."
           }
         },
         {
@@ -996,7 +1028,8 @@
             "de": "Allerheiligenkirche",
             "hu": "Mindenszentek-templom",
             "ro": "Biserica Tuturor Sfinților",
-            "en": "All Saints Church"
+            "en": "All Saints Church",
+            "hr": "Crkva Svih Svetih"
           },
           "coords": [
             17.071,
@@ -1012,7 +1045,7 @@
             "hu": "Rövid megálló a leadás előtt.",
             "ro": "Scurt popas înainte de returnare.",
             "en": "Short stop before returning the bike.",
-            "hr": "Kratko zaustavljanje prije povratka bicikla."
+            "hr": "Kratka stanica prije vraćanja bicikla."
           }
         }
       ],
@@ -1021,7 +1054,7 @@
         "hu": "Biciklivel ideális felfedezni a partot. A kikötői indulás után a régi utcákon tekerünk, majd a lankás parti úton Baška Voda felé vesszük az irányt. A tengeri szellő tökéletes kísérő. Délben visszatérünk a központi strandra egy hűsítő csobbanásra. A délutánt a falu templománál zárjuk, mielőtt leadnánk a bringákat.",
         "ro": "Cu bicicleta, coasta este ideală de explorat. După pornirea din port, pedalăm prin ulițele vechi și apoi pe drumul plat de coastă spre Baška Voda. Briza mării este partenerul perfect. La prânz revenim pe plaja principală pentru răcorire. După-amiaza se încheie cu o vizită la biserica satului, înainte de a returna bicicletele.",
         "en": "Exploring the coast by bike is ideal. Starting from the harbor, we cycle through old alleys and then take the flat coastal path towards Baška Voda. The sea breeze is your perfect companion. At noon, we return to the main beach to cool off. The afternoon ends with a visit to the village church before returning the bikes.",
-        "hr": "Istraživanje obale biciklom je idealno. Krenuvši iz luke, vozimo se kroz stare uličice, a zatim ravnom obalnom stazom prema Baškoj Vodi. Morski povjetarac vaš je savršeni suputnik. U podne se vraćamo na glavnu plažu da se rashladimo. Popodne završava posjetom seoskoj crkvi prije vraćanja bicikala."
+        "hr": "Istraživanje obale biciklom je idealno. Polazeći iz luke, vozimo kroz stare uličice i potom idemo ravnom obalnom stazom prema Baškoj Vodi. Morski povjetarac je vaš savršen suputnik. U podne se vraćamo na glavnu plažu da se rashladimo. Poslijepodne završava posjetom seoskoj crkvi prije vraćanja bicikala."
       },
       "gastro_picks": {
         "de": [
@@ -1170,8 +1203,8 @@
           "Take plenty of water."
         ],
         "hr": [
-          "Unajmite e-bicikle za uspone prema Biokovu.",
-          "Izbjegavajte glavnu cestu (Magistralu).",
+          "Iznajmite e-bicikle za uspon prema Biokovu.",
+          "Izbjegavajte glavnu cestu (Magistrala).",
           "Koristite stazu prema Baškoj Vodi.",
           "Ponesite dovoljno vode."
         ]
@@ -1182,7 +1215,8 @@
             "de": "Mit dem Rad lässt sich die Küste ideal erkunden. Nach dem Hafen-Start radeln wir durch die alten Gassen und nehmen dann den flachen Küstenweg Richtung Baška Voda. Die Meeresbrise ist der perfekte Begleiter. Mittags kehren wir zum Hauptstrand zurück, um uns abzukühlen. Der Nachmittag endet mit einem Besuch der Dorfkirche, bevor die Räder zurückgegeben werden.",
             "hu": "Biciklivel ideális felfedezni a partot. A kikötői indulás után a régi utcákon tekerünk, majd a lankás parti úton Baška Voda felé vesszük az irányt. A tengeri szellő tökéletes kísérő. Délben visszatérünk a központi strandra egy hűsítő csobbanásra. A délutánt a falu templománál zárjuk, mielőtt leadnánk a bringákat.",
             "ro": "Cu bicicleta, coasta este ideală de explorat. După pornirea din port, pedalăm prin ulițele vechi și apoi pe drumul plat de coastă spre Baška Voda. Briza mării este partenerul perfect. La prânz revenim pe plaja principală pentru răcorire. După-amiaza se încheie cu o vizită la biserica satului, înainte de a returna bicicletele.",
-            "en": "Exploring the coast by bike is ideal. Starting from the harbor, we cycle through old alleys and then take the flat coastal path towards Baška Voda. The sea breeze is your perfect companion. At noon, we return to the main beach to cool off. The afternoon ends with a visit to the village church before returning the bikes."
+            "en": "Exploring the coast by bike is ideal. Starting from the harbor, we cycle through old alleys and then take the flat coastal path towards Baška Voda. The sea breeze is your perfect companion. At noon, we return to the main beach to cool off. The afternoon ends with a visit to the village church before returning the bikes.",
+            "hr": "Istraživanje obale biciklom je idealno. Polazeći iz luke, vozimo kroz stare uličice i potom idemo ravnom obalnom stazom prema Baškoj Vodi. Morski povjetarac je vaš savršen suputnik. U podne se vraćamo na glavnu plažu da se rashladimo. Poslijepodne završava posjetom seoskoj crkvi prije vraćanja bicikala."
           },
           "stops": [
             {
@@ -1190,13 +1224,15 @@
                 "de": "Dorfhafen",
                 "hu": "Falu kikötője",
                 "ro": "Portul satului",
-                "en": "Village Harbor"
+                "en": "Village Harbor",
+                "hr": "Seoska luka"
               },
               "tip_5lang": {
                 "de": "Einfacher Startpunkt für Touren.",
                 "hu": "Könnyű kezdőpont a túrákhoz.",
                 "ro": "Punct de plecare ușor pentru tururi.",
-                "en": "Easy starting point for tours."
+                "en": "Easy starting point for tours.",
+                "hr": "Lagan početak za ture."
               }
             },
             {
@@ -1204,13 +1240,15 @@
                 "de": "Alte Steinhäuser",
                 "hu": "Régi kőházak",
                 "ro": "Case vechi de piatră",
-                "en": "Old Stone Houses"
+                "en": "Old Stone Houses",
+                "hr": "Stare kamene kuće"
               },
               "tip_5lang": {
                 "de": "Gassen sind schmal, schieben Sie kurz.",
                 "hu": "Szűk utcák, tolja a biciklit.",
                 "ro": "Ulițe înguste, împingeți bicicleta.",
-                "en": "Narrow alleys, push your bike briefly."
+                "en": "Narrow alleys, push your bike briefly.",
+                "hr": "Uzne uličice, kratko odgurate bicikl."
               }
             },
             {
@@ -1218,13 +1256,15 @@
                 "de": "Küstenweg nach Baška Voda",
                 "hu": "Parti út Baška Voda felé",
                 "ro": "Drumul de coastă spre Baška Voda",
-                "en": "Coastal Path to Baška Voda"
+                "en": "Coastal Path to Baška Voda",
+                "hr": "Obalna staza prema Baškoj Vodi"
               },
               "tip_5lang": {
                 "de": "Schattiger Weg am Meer.",
                 "hu": "Árnyas út a tenger mellett.",
                 "ro": "Drum umbrit pe malul mării.",
-                "en": "Shaded path by the sea."
+                "en": "Shaded path by the sea.",
+                "hr": "U hladu uz more."
               }
             },
             {
@@ -1232,13 +1272,15 @@
                 "de": "Promajna Hauptstrand",
                 "hu": "Promajna központi strand",
                 "ro": "Plaja principală Promajna",
-                "en": "Promajna Main Beach"
+                "en": "Promajna Main Beach",
+                "hr": "Glavna plaža Promajne"
               },
               "tip_5lang": {
                 "de": "Fahrradständer am Strandzugang.",
                 "hu": "Biciklitárolók a strandbejáratnál.",
                 "ro": "Suporturi de biciclete la intrarea pe plajă.",
-                "en": "Bike racks at the beach entrance."
+                "en": "Bike racks at the beach entrance.",
+                "hr": "Stalak za bicikle na ulazu na plažu."
               }
             },
             {
@@ -1246,13 +1288,15 @@
                 "de": "Allerheiligenkirche",
                 "hu": "Mindenszentek-templom",
                 "ro": "Biserica Tuturor Sfinților",
-                "en": "All Saints Church"
+                "en": "All Saints Church",
+                "hr": "Crkva Svih Svetih"
               },
               "tip_5lang": {
                 "de": "Kurzer Stopp vor der Rückgabe.",
                 "hu": "Rövid megálló a leadás előtt.",
                 "ro": "Scurt popas înainte de returnare.",
-                "en": "Short stop before returning the bike."
+                "en": "Short stop before returning the bike.",
+                "hr": "Kratka stanica prije vraćanja bicikla."
               }
             }
           ],
@@ -1378,6 +1422,12 @@
               "Avoid the main road (Magistrale).",
               "Use the path to Baška Voda.",
               "Take plenty of water."
+            ],
+            "hr": [
+              "Iznajmite e-bicikle za uspon prema Biokovu.",
+              "Izbjegavajte glavnu cestu (Magistrala).",
+              "Koristite stazu prema Baškoj Vodi.",
+              "Ponesite dovoljno vode."
             ]
           }
         },
@@ -1387,7 +1437,7 @@
             "hu": "Készítse fel kerékpárját egy vizes gurulásra a kikötőben. A sós tengeri permet keveredik az esővel, miközben az ódon házak felé teker.\n\nDélben a parti út teljes koncentrációt igényel. A vizes talaj kihívást jelent, de a látvány továbbra is drámai marad.\n\nDélután a strandon nagy a nyugalom, csak a hullámok zaja kíséri a gumiabroncsok gördülését a nedves kavicsokon.\n\nA túra végén a templomban találhat egy pillanatnyi nyugalmat, hogy megszárítsa ruháit és átgondolja a napot.",
             "ro": "Pregătiți bicicleta pentru o tură umedă în port. Pulverizarea sărată a mării se amestecă cu ploaia în timp ce pedalați spre casele vechi.\n\nLa prânz, poteca de coastă necesită concentrare maximă. Terenul umed este o provocare, dar priveliștea rămâne dramatică.\n\nDupă-amiaza pe plajă este liniște, doar zgomotul valurilor însoțește rularea anvelopelor pe pietrișul umed.\n\nLa finalul turului, în biserică, veți găsi un moment de liniște pentru a vă usca hainele și a reflecta asupra zilei.",
             "en": "Prepare your bike for a wet ride at the harbor. Salt spray mixes with the rain as you cycle toward the ancient houses.\n\nAt noon, the coastal path demands full concentration. The wet surface is a challenge, but the views remain dramatic and powerful.\n\nIn the afternoon at the beach, it's very peaceful; only the sound of waves accompanies your tires rolling on damp gravel.\n\nAt the end of the tour, find a quiet moment in the church to dry off and reflect on your rainy cycling adventure.",
-            "hr": "Pripremite svoj bicikl za mokru vožnju u luci. Morska sol miješa se s kišom dok se vozite prema drevnim kućama.\n\nU podne, obalna staza zahtijeva punu koncentraciju. Mokra površina je izazov, ali pogledi ostaju dramatični i snažni.\n\nPoslijepodne na plaži vlada veliki mir; samo šum valova prati vaše gume koje se kotrljaju po vlažnom šljunku.\n\nNa kraju ture, pronađite miran trenutak u crkvi kako biste se osušili i razmislili o svojoj kišnoj biciklističkoj avanturi."
+            "hr": "Pripremite bicikl za mokru vožnju u luci. Slana prskanja miješaju se s kišom dok vozite prema starim kućama.\n\nU podne, obalna staza zahtijeva punu koncentraciju. Mokra podloga predstavlja izazov, ali pogledi su i dalje dramatični i impresivni.\n\nPoslijepodne na plaži je vrlo mirno; samo zvuk valova prati vaše gume na vlažnom šljunku.\n\nNa kraju ture, pronađite tih trenutak u crkvi da se osušíte i razmislite o svojoj kišnoj biciklističkoj avanturi."
           },
           "stops": [
             {
@@ -1397,7 +1447,7 @@
                 "hu": "Csökkentse kissé a guminyomást a jobb tapadásért.",
                 "ro": "Reduceți ușor presiunea în pneuri pentru aderență pe ud.",
                 "en": "Lower tire pressure slightly for better grip on wet roads.",
-                "hr": "Malo smanjite tlak u gumama za bolje prianjanje na mokrim cestama."
+                "hr": "Smanjite malo tlak u gumama za bolje prianjanje na mokrim cestama."
               }
             },
             {
@@ -1407,7 +1457,7 @@
                 "hu": "Szálljon le a bringáról, a macskakő tükörsima ilyenkor.",
                 "ro": "Coborâți de pe bicicletă, piatra cubică este foarte alunecoasă.",
                 "en": "Dismount your bike; the cobblestones are slippery.",
-                "hr": "Sjedišite s bicikla; kaldrma je skliska."
+                "hr": "Sjednite s bicikla; kaldrma je skliska."
               }
             },
             {
@@ -1417,7 +1467,7 @@
                 "hu": "Vigyázzon a tócsákkal, mélyebbek lehetnek a vártnál.",
                 "ro": "Atenție la bălți, ar putea fi mai adânci decât par.",
                 "en": "Watch out for puddles; they might be deeper than they look.",
-                "hr": "Pripazite na lokve; mogle bi biti dublje nego što izgledaju."
+                "hr": "Pazite na lokve; mogu biti dublje nego što izgledaju."
               }
             },
             {
@@ -1427,7 +1477,7 @@
                 "hu": "Parkoljon a fenyők alatt, hogy száraz maradjon a nyereg.",
                 "ro": "Parcați sub pini pentru a păstra șaua uscată.",
                 "en": "Park under pine trees to keep your saddle dry.",
-                "hr": "Parkirajte ispod borova kako bi vam sjedalo ostalo suho."
+                "hr": "Parkirajte pod borovima da vam se sjedalo ne smoči."
               }
             },
             {
@@ -1437,7 +1487,7 @@
                 "hu": "Helyezze biztonságba a biciklit és melegedjen fel kissé.",
                 "ro": "Parcați bicicleta în siguranță și încălziți-vă puțin.",
                 "en": "Park your bike securely and warm up for a moment.",
-                "hr": "Sigurno parkirajte bicikl i nakratko se ugrijte."
+                "hr": "Parkirajte bicikl sigurno i malo se ugrijte."
               }
             }
           ],
@@ -1467,10 +1517,10 @@
               "Rinse your bike with fresh water after the ride to remove salt."
             ],
             "hr": [
-              "Blatobrani su neophodni po ovakvom vremenu.",
-              "Izbjegavajte naglo kočenje na obojanim oznakama na cesti.",
-              "Vodootporne torbe zaštitit će vaš fotoaparat i hranu.",
-              "Isperite bicikl svježom vodom nakon vožnje kako biste uklonili sol."
+              "Blatobrani su neophodni u ovakvom vremenu.",
+              "Izbjegavajte naglo kočenje na obojanim prometnim oznakama.",
+              "Vodootporne torbe za prtljagu zaštitit će kameru i hranu.",
+              "Isperite bicikl slatkom vodom nakon vožnje kako biste uklonili sol."
             ]
           }
         },
@@ -1480,7 +1530,7 @@
             "hu": "Kezdje téli túráját a kikötőben, amikor a levegő kristálytiszta. A tekerés segít melegen tartani a testét.\n\nDélben éri el az ódon kőházakat, ahol a téli napfény remek kontrasztokat teremt. Nincs tömeg, ami hátráltatná a haladást.\n\nA délutáni parti út frissítő szellőt és tiszta kilátást kínál egészen Brač és Hvar szigetéig.\n\nMielőtt túl hideg lenne, fejezze be a túrát a strandnál vagy a templomnál, élvezve a falu békés téli hangulatát.",
             "ro": "Începeți tura de iarnă în port, când aerul este de cristal. Pedalatul vă va ajuta să vă mențineți corpul cald.\n\nLa prânz ajungeți la casele vechi de piatră, unde soarele de iarnă creează contraste superbe. Nicio mulțime nu vă stă în cale.\n\nPoteca de coastă de după-amiază oferă o briză revigorantă și vizibilitate clară până la insulele Brač și Hvar.\n\nÎnainte de a se face prea frig, încheiați tura la plajă sau la biserică, bucurându-vă de atmosfera liniștită de iarnă.",
             "en": "Start your winter ride at the harbor when the air is crystal clear. The physical activity will keep your body temperature up.\n\nAt noon, reach the old stone houses where the winter sun creates great contrasts for photos. No crowds will slow you down.\n\nThe afternoon coastal path offers a refreshing breeze and clear views all the way to the islands of Brač and Hvar.\n\nBefore it gets too cold, finish your tour at the beach or the church, soaking in the peaceful winter vibe of the village.",
-            "hr": "Započnite svoju zimsku vožnju u luci kada je zrak kristalno čist. Fizička aktivnost održat će temperaturu vašeg tijela.\n\nU podne dođite do starih kamenih kuća gdje zimsko sunce stvara sjajne kontraste za fotografije. Gužve vas neće usporavati.\n\nPopodnevna obalna staza nudi osvježavajući povjetarac i čist pogled sve do otoka Brača i Hvara.\n\nPrije nego što postane prehladno, završite svoju turu na plaži ili kod crkve, upijajući mirnu zimsku atmosferu sela."
+            "hr": "Započnite zimsku vožnju u luci kad je zrak kristalno čist. Tjelesna aktivnost održat će tjelesnu temperaturu.\n\nU podne, dođite do starih kamenih kuća gdje zimsko sunce stvara snažne kontraste za fotografije. Nema gužvi koje bi vas usporile.\n\nPoslijepodnevna obalna staza nudi osvježavajući povjetarac i jasne poglede sve do otoka Brača i Hvara.\n\nPrije nego što postane prehladno, završite turu na plaži ili u crkvi i upijte miran zimski ugođaj sela."
           },
           "stops": [
             {
@@ -1490,7 +1540,7 @@
                 "hu": "Viseljen kesztyűt, a menetszél hamar lehűti az ujjakat.",
                 "ro": "Purtați mănuși, vântul vă va răci rapid degetele.",
                 "en": "Wear gloves; the wind will cool your fingers quickly.",
-                "hr": "Nosite rukavice; vjetar će vam brzo ohladiti prste."
+                "hr": "Nosite rukavice; vjetar će brzo ohladiti prste."
               }
             },
             {
@@ -1500,7 +1550,7 @@
                 "hu": "Használja ki a tiszta fényeket az építészeti fotókhoz.",
                 "ro": "Profitați de lumina clară pentru fotografii de arhitectură.",
                 "en": "Take advantage of the clear light for architectural shots.",
-                "hr": "Iskoristite čisto svjetlo za arhitektonske snimke."
+                "hr": "Iskoristite jasno svjetlo za arhitektonske snimke."
               }
             },
             {
@@ -1510,7 +1560,7 @@
                 "hu": "Ügyeljen a lehullott ágakra erős szeles napok után.",
                 "ro": "Atenție la crengile căzute după zile cu vânt puternic.",
                 "en": "Watch out for fallen branches after windy days.",
-                "hr": "Pripazite na otpale grane nakon vjetrovitih dana."
+                "hr": "Pazite na polomljene grane nakon vjetrovitih dana."
               }
             },
             {
@@ -1520,7 +1570,7 @@
                 "hu": "Az üres sétány bőséges helyet kínál a tekeréshez.",
                 "ro": "Promenada goală oferă mult spațiu pentru pedalat.",
                 "en": "The empty promenade offers plenty of space for cycling.",
-                "hr": "Prazna šetnica nudi dovoljno prostora za vožnju."
+                "hr": "Prazna šetnica nudi puno prostora za vožnju biciklom."
               }
             },
             {
@@ -1530,7 +1580,7 @@
                 "hu": "Védett hely, ha feltámadna a Bóra szél.",
                 "ro": "Un loc protejat în cazul în care vântul Bura se întețește.",
                 "en": "A sheltered spot if the Bura wind picks up.",
-                "hr": "Zaklonjeno mjesto ako bura ojača."
+                "hr": "Zaštićeno mjesto ako se digne Bura."
               }
             }
           ],
@@ -1560,10 +1610,10 @@
               "Avoid cycling during extreme Bura (gale-force gusts)."
             ],
             "hr": [
-              "Odjenite se slojevito kako biste se prilagodili intenzitetu vožnje.",
-              "Pijte dovoljno čak i na hladnoći; suhi zrak može vas dehidrirati.",
-              "Dani su kratki; ispravna svjetla na biciklu su obavezna.",
-              "Izbjegavajte vožnju biciklom tijekom jake bure (olujni udari)."
+              "Obucite se slojevito da se možete prilagoditi intenzitetu vožnje.",
+              "Pijte dovoljno čak i na hladnoći; suh zrak može dehidrirati.",
+              "Dani su kratki; radna svjetla na biciklu su obavezna.",
+              "Izbjegavajte vožnju pri ekstremnoj Buri (oluji s naletima)."
             ]
           }
         }
@@ -1582,7 +1632,8 @@
             "de": "Aussichtspunkt Sveti Rok",
             "hu": "Szent Rókus kilátó",
             "ro": "Punctul de belvedere Sveti Rok",
-            "en": "Sveti Rok Viewpoint"
+            "en": "Sveti Rok Viewpoint",
+            "hr": "Vidikovac Sveti Rok"
           },
           "coords": [
             17.075,
@@ -1598,7 +1649,7 @@
             "hu": "Autóval kényelmesen elérhető.",
             "ro": "Accesibil ușor cu mașina.",
             "en": "Easily accessible by car.",
-            "hr": "Lako dostupno automobilom."
+            "hr": "Jednostavno dostupan automobilom."
           }
         },
         {
@@ -1606,7 +1657,8 @@
             "de": "Makarska (Altstadt)",
             "hu": "Makarska (Óváros)",
             "ro": "Makarska (Orașul vechi)",
-            "en": "Makarska (Old Town)"
+            "en": "Makarska (Old Town)",
+            "hr": "Makarska (Stari grad)"
           },
           "coords": [
             17.021,
@@ -1630,7 +1682,8 @@
             "de": "Promajna Hauptstrand",
             "hu": "Promajna központi strand",
             "ro": "Plaja principală Promajna",
-            "en": "Promajna Main Beach"
+            "en": "Promajna Main Beach",
+            "hr": "Glavna plaža Promajne"
           },
           "coords": [
             17.07,
@@ -1654,7 +1707,8 @@
             "de": "Alte Steinhäuser",
             "hu": "Régi kőházak",
             "ro": "Case vechi de piatră",
-            "en": "Old Stone Houses"
+            "en": "Old Stone Houses",
+            "hr": "Stare kamene kuće"
           },
           "coords": [
             17.0735,
@@ -1679,7 +1733,7 @@
         "hu": "Az autó lehetővé teszi a közeli Makarska felfedezését is. A Promajna feletti kilátónál kezdünk, majd Makarska pezsgő óvárosába gurulunk. Délben élvezzük a nyugalmat a promajnai strandon. A napot a falu báját adó történelmi kőházaknál zárjuk.",
         "ro": "Mașina permite o excursie în apropiatul oraș Makarska. Începem la punctul de belvedere deasupra localității Promajna, apoi mergem în orașul vechi plin de viață din Makarska. La prânz ne bucurăm de liniște pe plaja din Promajna. Ziua se încheie cu vizitarea caselor vechi de piatră care dau farmec locului.",
         "en": "A car allows for a quick trip to nearby Makarska. We start at the viewpoint above Promajna, then drive to Makarska's lively old town. At noon, enjoy the peace on Promajna's main beach. The day ends with a visit to the historic stone houses that define the village's charm.",
-        "hr": "Automobil omogućuje brzi izlet do obližnje Makarske. Počinjemo na vidikovcu iznad Promajne, zatim se vozimo do živahne stare jezgre Makarske. U podne uživajte u miru na glavnoj plaži Promajne. Dan završava posjetom povijesnim kamenim kućama koje definiraju šarm sela."
+        "hr": "Autom omogućuje brz izlet do obližnje Makarske. Počinjemo na vidikovcu iznad Promajne, zatim vozimo do živahnog starog grada Makarske. U podne uživajte u miru na glavnoj plaži Promajne. Dan završava posjetom povijesnim kamenim kućama koje određuju šarm sela."
       },
       "gastro_picks": {
         "de": [
@@ -1808,9 +1862,9 @@
           "Be careful on narrow serpentines."
         ],
         "hr": [
-          "Parkiranje može biti teško u jeku sezone.",
-          "Koristite aplikaciju za plaćanje parkinga.",
-          "Točite gorivo u Makarskoj.",
+          "Parkiranje može biti teško u vrhunskim sezonama.",
+          "Koristite aplikaciju za parkiranje.",
+          "Nagradite se u Makarskoj.",
           "Budite oprezni na uskim serpentinama."
         ]
       },
@@ -1820,7 +1874,8 @@
             "de": "Das Auto erlaubt einen Abstecher ins nahegelegene Makarska. Wir starten am Aussichtspunkt oberhalb von Promajna und fahren dann in die lebhafte Altstadt von Makarska. Mittags genießen wir die Ruhe in Promajna am Hauptstrand. Der Tag endet mit einem Besuch der historischen Steinhäuser, die den Charme des Ortes ausmachen.",
             "hu": "Az autó lehetővé teszi a közeli Makarska felfedezését is. A Promajna feletti kilátónál kezdünk, majd Makarska pezsgő óvárosába gurulunk. Délben élvezzük a nyugalmat a promajnai strandon. A napot a falu báját adó történelmi kőházaknál zárjuk.",
             "ro": "Mașina permite o excursie în apropiatul oraș Makarska. Începem la punctul de belvedere deasupra localității Promajna, apoi mergem în orașul vechi plin de viață din Makarska. La prânz ne bucurăm de liniște pe plaja din Promajna. Ziua se încheie cu vizitarea caselor vechi de piatră care dau farmec locului.",
-            "en": "A car allows for a quick trip to nearby Makarska. We start at the viewpoint above Promajna, then drive to Makarska's lively old town. At noon, enjoy the peace on Promajna's main beach. The day ends with a visit to the historic stone houses that define the village's charm."
+            "en": "A car allows for a quick trip to nearby Makarska. We start at the viewpoint above Promajna, then drive to Makarska's lively old town. At noon, enjoy the peace on Promajna's main beach. The day ends with a visit to the historic stone houses that define the village's charm.",
+            "hr": "Autom omogućuje brz izlet do obližnje Makarske. Počinjemo na vidikovcu iznad Promajne, zatim vozimo do živahnog starog grada Makarske. U podne uživajte u miru na glavnoj plaži Promajne. Dan završava posjetom povijesnim kamenim kućama koje određuju šarm sela."
           },
           "stops": [
             {
@@ -1828,13 +1883,15 @@
                 "de": "Aussichtspunkt Sveti Rok",
                 "hu": "Szent Rókus kilátó",
                 "ro": "Punctul de belvedere Sveti Rok",
-                "en": "Sveti Rok Viewpoint"
+                "en": "Sveti Rok Viewpoint",
+                "hr": "Vidikovac Sveti Rok"
               },
               "tip_5lang": {
                 "de": "Bequem per Auto erreichbar.",
                 "hu": "Autóval kényelmesen elérhető.",
                 "ro": "Accesibil ușor cu mașina.",
-                "en": "Easily accessible by car."
+                "en": "Easily accessible by car.",
+                "hr": "Jednostavno dostupan automobilom."
               }
             },
             {
@@ -1842,13 +1899,15 @@
                 "de": "Makarska (Altstadt)",
                 "hu": "Makarska (Óváros)",
                 "ro": "Makarska (Orașul vechi)",
-                "en": "Makarska (Old Town)"
+                "en": "Makarska (Old Town)",
+                "hr": "Makarska (Stari grad)"
               },
               "tip_5lang": {
                 "de": "Parken am Hafen.",
                 "hu": "Parkolás a kikötőnél.",
                 "ro": "Parcare la port.",
-                "en": "Park near the harbor."
+                "en": "Park near the harbor.",
+                "hr": "Parkirajte blizu luke."
               }
             },
             {
@@ -1856,13 +1915,15 @@
                 "de": "Promajna Hauptstrand",
                 "hu": "Promajna központi strand",
                 "ro": "Plaja principală Promajna",
-                "en": "Promajna Main Beach"
+                "en": "Promajna Main Beach",
+                "hr": "Glavna plaža Promajne"
               },
               "tip_5lang": {
                 "de": "Gebührenpflichtige Parkplätze vorhanden.",
                 "hu": "Fizetős parkolók rendelkezésre állnak.",
                 "ro": "Locuri de parcare cu plată disponibile.",
-                "en": "Paid parking lots available."
+                "en": "Paid parking lots available.",
+                "hr": "Dostupna plaćena parkirališta."
               }
             },
             {
@@ -1870,13 +1931,15 @@
                 "de": "Alte Steinhäuser",
                 "hu": "Régi kőházak",
                 "ro": "Case vechi de piatră",
-                "en": "Old Stone Houses"
+                "en": "Old Stone Houses",
+                "hr": "Stare kamene kuće"
               },
               "tip_5lang": {
                 "de": "Kurzer Spaziergang vom Parkplatz.",
                 "hu": "Rövid séta a parkolótól.",
                 "ro": "Scurtă plimbare din parcare.",
-                "en": "Short walk from the parking area."
+                "en": "Short walk from the parking area.",
+                "hr": "Kratka šetnja od parkirališta."
               }
             }
           ],
@@ -1986,6 +2049,12 @@
               "Use a parking app.",
               "Refuel in Makarska.",
               "Be careful on narrow serpentines."
+            ],
+            "hr": [
+              "Parkiranje može biti teško u vrhunskim sezonama.",
+              "Koristite aplikaciju za parkiranje.",
+              "Nagradite se u Makarskoj.",
+              "Budite oprezni na uskim serpentinama."
             ]
           }
         },
@@ -1995,7 +2064,7 @@
             "hu": "Hajtson fel a Sveti Rok kilátóhoz, ahol kényelmesen, az autóból nézheti az esőt. A felhők alacsonyan ülnek a Biokovo felett.\n\nDélben érdemes átugrani Makarskába. Az óváros utcái az esőben különösen fényesek és autentikusak.\n\nDélután parkoljon le a Promajna strand közelében. Élvezze a hullámtörés látványát az ablaktörlők ütemes mozgása mellett.\n\nZárásként látogassa meg az ódon kőházakat. A parkolótól mért rövid távolság még záporok esetén is jól kezelhető.",
             "ro": "Conduceți până la punctul de observație Sveti Rok, unde puteți privi ploaia confortabil din mașină. Norii stau jos deasupra muntelui Biokovo.\n\nLa prânz, se recomandă o excursie în Makarska. Străzile orașului vechi par deosebit de strălucitoare și autentice în ploaie.\n\nDupă-amiaza parcați aproape de plaja din Promajna. Bucurați-vă de vederea valurilor în timp ce ștergătoarele dau ritmul.\n\nLa final, vizitați casele vechi de piatră. Distanța scurtă de la parcare poate fi parcursă ușor chiar și în timpul averselor.",
             "en": "Drive up to Sveti Rok viewpoint, where you can watch the rain comfortably from your car. Clouds hang low over the Biokovo range.\n\nAt noon, a trip to Makarska is highly recommended. The old town streets look especially shiny and authentic in the rain.\n\nIn the afternoon, park close to Promajna beach. Enjoy the view of the breaking waves while the wipers clear the rhythm.\n\nTo wrap up, visit the old stone houses. The short distance from the parking lot makes it manageable even during showers.",
-            "hr": "Odvezite se do vidikovca Sveti Rok, odakle možete udobno promatrati kišu iz automobila. Oblaci vise nisko nad biokovskim lancem.\n\nU podne se toplo preporučuje izlet u Makarsku. Ulice starog grada izgledaju posebno sjajno i autentično na kiši.\n\nPoslijepodne parkirajte blizu plaže u Promajni. Uživajte u pogledu na valove koji se lome dok brisači čiste u ritmu.\n\nZa kraj posjetite stare kamene kuće. Mala udaljenost od parkirališta čini ih dostupnima čak i tijekom pljuskova."
+            "hr": "Vozite do vidikovca Sveti Rok, gdje možete udobno gledati kišu iz auta. Oblaci visе nisko nad planinskim lancem Biokova.\n\nU podne, izlet u Makarsku je vrlo preporučljiv. Ulice starog grada izgledaju posebno sjajno i autentično na kiši.\n\nPoslijepodne parkirajte blizu plaže Promajne. Uživajte u pogledu na razbijajuće valove dok brisači brišu ritam.\n\nZa kraj, posjetite stare kamene kuće. Kratka udaljenost od parkirališta čini ih pristupačnima čak i tijekom pljuskova."
           },
           "stops": [
             {
@@ -2015,7 +2084,7 @@
                 "hu": "Használja a parkolóházakat a száraz bejutáshoz.",
                 "ro": "Folosiți parcările acoperite pentru a intra uscat în oraș.",
                 "en": "Use parking garages to enter the city dry.",
-                "hr": "Koristite garaže kako biste ušli u grad suhi."
+                "hr": "Koristite parkirne garaže da uđete u grad suhi."
               }
             },
             {
@@ -2035,7 +2104,7 @@
                 "hu": "Álljon meg közvetlenül az út mentén egy gyors nézelődésre.",
                 "ro": "Opriți direct pe marginea drumului pentru o privire rapidă.",
                 "en": "Stop directly by the roadside for a quick look.",
-                "hr": "Zaustavite se izravno uz cestu za brzi pogled."
+                "hr": "Zaustavite se uz cestu za brz pogled."
               }
             }
           ],
@@ -2065,10 +2134,10 @@
               "Keep a towel in the car in case you get wet while sightseeing."
             ],
             "hr": [
-              "Provjerite stanje brisača prije početka putovanja.",
-              "Izbjegavajte duboke lokve; rizik od akvaplaninga na glavnoj cesti.",
-              "Parkiranje je često lakše po kiši jer ima manje ljudi.",
-              "Držite ručnik u autu za slučaj da pokisnete tijekom razgledavanja."
+              "Provjerite stanje brisača prije početka puta.",
+              "Izbjegavajte duboke lokve; postoji opasnost od akvaplaninga na glavnoj cesti.",
+              "Parkiranje je često lakše po kiši jer je manje ljudi.",
+              "Držite ručnik u autu u slučaju da se smočite tijekom razgledavanja."
             ]
           }
         },
@@ -2078,7 +2147,7 @@
             "hu": "A Sveti Rokhoz vezető út télen remek, mivel nincsenek turistabuszok, amik blokkolnák a szűk utat.\n\nDélben Makarska autentikus hangulatot áraszt a nyári nyüzsgés nélkül. A parkolás közvetlenül a parton is egyszerű.\n\nDélután a Promajna strandon akár az autóból is nézheti a naplementét, ha odakint túl hűvös lenne.\n\nLátogassa meg az ódon kőházakat szürkületkor, amikor kigyúlnak az első fények a lakott házak ablakaiban.",
             "ro": "Urcarea spre Sveti Rok este minunată iarna, nefiind autocare care să blocheze drumul îngust.\n\nLa prânz, Makarska oferă o atmosferă autentică fără agitația verii. Parcarea pe faleză este foarte facilă.\n\nDupă-amiaza pe plaja Promajna puteți privi apusul direct din mașină dacă afară este prea frig.\n\nVizitați casele vechi de piatră la amurg, când se aprind primele lumini în ferestrele caselor locuite.",
             "en": "The drive up to Sveti Rok is wonderful in winter as no tour buses block the narrow road.\n\nAt noon, Makarska offers an authentic atmosphere without the summer hustle. Parking right on the waterfront is easy.\n\nIn the afternoon at Promajna beach, you can watch the sunset directly from your car if it's too chilly outside.\n\nVisit the old stone houses at dusk when the first lights appear in the windows of the inhabited homes.",
-            "hr": "Vožnja do Svetog Roka zimi je prekrasna jer turistički autobusi ne blokiraju usku cestu.\n\nU podne, Makarska nudi autentičnu atmosferu bez ljetne vreve. Parkiranje na samoj rivi je jednostavno.\n\nPoslijepodne na plaži u Promajni možete promatrati zalazak sunca izravno iz automobila ako je vani prehladno.\n\nPosjetite stare kamene kuće u sumrak kada se pojave prva svjetla u prozorima naseljenih domova."
+            "hr": "Vožnja do Svetog Roka je prekrasna zimi jer nijedan turistički autobus ne blokira usku cestu.\n\nU podne, Makarska nudi autentičnu atmosferu bez ljetne gužve. Parkiranje pravo na obali je lako.\n\nPoslijepodne na plaži Promajne možete gledati zalazak izravno iz auta ako vam je prehladno vani.\n\nPosjetite stare kamene kuće u sumrak kad se prve svjetlosti pojave u prozorima naseljenih kuća."
           },
           "stops": [
             {
@@ -2088,7 +2157,7 @@
                 "hu": "Tiszta kilátás az Adria távoli szigeteire.",
                 "ro": "Vizibilitate clară până la insulele îndepărtate ale Adriaticii.",
                 "en": "Clear views all the way to the distant Adriatic islands.",
-                "hr": "Čist pogled sve do udaljenih jadranskih otoka."
+                "hr": "Bistri pogledi sve do udaljenih jadranskih otoka."
               }
             },
             {
@@ -2098,7 +2167,7 @@
                 "hu": "Sok parkolóhely ingyenes a téli időszakban.",
                 "ro": "Multe locuri de parcare sunt gratuite în timpul iernii.",
                 "en": "Many parking spots are free of charge in winter.",
-                "hr": "Mnogi parkingzi su zimi besplatni."
+                "hr": "Mnogi parkinga su besplatni zimi."
               }
             },
             {
@@ -2108,7 +2177,7 @@
                 "hu": "Tökéletes hely a tengeri szél élvezetéhez védett helyen.",
                 "ro": "Loc perfect pentru a savura briza mării la adăpost.",
                 "en": "Perfect spot to enjoy the sea breeze while sheltered.",
-                "hr": "Savršeno mjesto za uživanje u morskom povjetarcu iz zaklona."
+                "hr": "Savršeno mjesto za uživanje u morskom povjetarcu dok ste zaklonjeni."
               }
             },
             {
@@ -2118,7 +2187,7 @@
                 "hu": "Egy rövid megálló elég az építészet megcsodálásához.",
                 "ro": "O scurtă oprire este suficientă pentru a admira arhitectura.",
                 "en": "A short stop is enough to admire the architecture.",
-                "hr": "Kratko zaustavljanje dovoljno je za divljenje arhitekturi."
+                "hr": "Kratka stanica je dovoljna za divljenje arhitekturi."
               }
             }
           ],
@@ -2149,9 +2218,9 @@
             ],
             "hr": [
               "Zimske gume su obavezne u Hrvatskoj tijekom zimskih uvjeta.",
-              "Ne zaboravite antifriz u sustavu za pranje stakla.",
-              "Planinske ceste mogu biti zaleđene u sjenovitim područjima.",
-              "Uživajte u kratkom vremenu putovanja i besplatnim parkirnim mjestima posvuda."
+              "Ne zaboravite antifriz u tekućini za pranje vjetrobrana.",
+              "Planinske ceste mogu biti zaleđene u zasjenjenim područjima.",
+              "Uživajte u kratkom vremenu putovanja i besplatnim parkirnim mjestima svuda."
             ]
           }
         }
@@ -2170,7 +2239,8 @@
             "de": "Bushaltestelle Magistrale",
             "hu": "Magistrale buszmegálló",
             "ro": "Stație de autobuz Magistrală",
-            "en": "Magistrale Bus Stop"
+            "en": "Magistrale Bus Stop",
+            "hr": "Autobusno stajalište Magistrale"
           },
           "coords": [
             17.076,
@@ -2186,7 +2256,7 @@
             "hu": "A főút mentén található.",
             "ro": "Situată la drumul principal.",
             "en": "Located on the main road.",
-            "hr": "Nalazi se na glavnoj cesti."
+            "hr": "Smešteno na glavnoj cesti."
           }
         },
         {
@@ -2194,7 +2264,8 @@
             "de": "Baška Voda (Zentrum)",
             "hu": "Baška Voda (Központ)",
             "ro": "Baška Voda (Centru)",
-            "en": "Baška Voda (Center)"
+            "en": "Baška Voda (Center)",
+            "hr": "Baška Voda (Centar)"
           },
           "coords": [
             16.95,
@@ -2218,7 +2289,8 @@
             "de": "Promajna Hauptstrand",
             "hu": "Promajna központi strand",
             "ro": "Plaja principală Promajna",
-            "en": "Promajna Main Beach"
+            "en": "Promajna Main Beach",
+            "hr": "Glavna plaža Promajna"
           },
           "coords": [
             17.07,
@@ -2242,7 +2314,8 @@
             "de": "Kulturzentrum Promajna",
             "hu": "Promajna Kulturális Központ",
             "ro": "Centrul Cultural Promajna",
-            "en": "Promajna Cultural Centre"
+            "en": "Promajna Cultural Centre",
+            "hr": "Kulturni centar Promajna"
           },
           "coords": [
             17.0725,
@@ -2258,7 +2331,7 @@
             "hu": "Helyi kiállítások megtekintése.",
             "ro": "Vizitați expozițiile locale.",
             "en": "Check local exhibitions.",
-            "hr": "Pogledajte lokalne izložbe."
+            "hr": "Provjerite lokalne izložbe."
           }
         }
       ],
@@ -2267,7 +2340,7 @@
         "hu": "Helyi busszal kényelmesen átugrunk Baška Vodába egy délelőtti kirándulásra. A visszatérés után a délutánt a tágas promajnai strandon töltjük. A nap zárásaként ellátogatunk a Kulturális Központba, hogy megismerjük a régió művészetét.",
         "ro": "Cu autobuzul local ajungem ușor în Baška Voda pentru o excursie de dimineață. După revenire, petrecem amiaza și după-amiaza pe plaja întinsă din Promajna. La finalul zilei vizităm centrul cultural pentru a afla mai multe despre regiune.",
         "en": "By local bus, we easily reach Baška Voda for a morning trip. Upon return, spend the midday and afternoon at Promajna's wide beach. Finish the day with a visit to the cultural center to learn about the region.",
-        "hr": "Lokalnim autobusom lako stižemo do Baške Vode na jutarnji izlet. Po povratku, provedite podne i poslijepodne na širokoj plaži u Promajni. Završite dan posjetom kulturnom centru kako biste naučili o regiji."
+        "hr": "Lokalnim autobusom lako stižemo do Baške Vode za jutarnji izlet. Po povratku, provedite podne i poslijepodne na širokoj plaži Promajne. Završite dan posjetom kulturnom centru kako biste saznali više o regiji."
       },
       "gastro_picks": {
         "de": [
@@ -2398,8 +2471,8 @@
         "hr": [
           "Kupite karte kod vozača.",
           "Tražite žute autobuse.",
-          "Provjerite vozni red na stajalištima.",
-          "Pripremite sitan novac."
+          "Provjerite vozne redove na stajalištima.",
+          "Imajte sitan novac spreman."
         ]
       },
       "variants": {
@@ -2408,7 +2481,8 @@
             "de": "Mit dem lokalen Bus erreichen wir bequem Baška Voda für einen Vormittagsausflug. Nach der Rückkehr verbringen wir den Mittag und Nachmittag am weitläufigen Strand von Promajna. Zum Abschluss des Tages besuchen wir das Kulturzentrum, um mehr über die Region zu erfahren.",
             "hu": "Helyi busszal kényelmesen átugrunk Baška Vodába egy délelőtti kirándulásra. A visszatérés után a délutánt a tágas promajnai strandon töltjük. A nap zárásaként ellátogatunk a Kulturális Központba, hogy megismerjük a régió művészetét.",
             "ro": "Cu autobuzul local ajungem ușor în Baška Voda pentru o excursie de dimineață. După revenire, petrecem amiaza și după-amiaza pe plaja întinsă din Promajna. La finalul zilei vizităm centrul cultural pentru a afla mai multe despre regiune.",
-            "en": "By local bus, we easily reach Baška Voda for a morning trip. Upon return, spend the midday and afternoon at Promajna's wide beach. Finish the day with a visit to the cultural center to learn about the region."
+            "en": "By local bus, we easily reach Baška Voda for a morning trip. Upon return, spend the midday and afternoon at Promajna's wide beach. Finish the day with a visit to the cultural center to learn about the region.",
+            "hr": "Lokalnim autobusom lako stižemo do Baške Vode za jutarnji izlet. Po povratku, provedite podne i poslijepodne na širokoj plaži Promajne. Završite dan posjetom kulturnom centru kako biste saznali više o regiji."
           },
           "stops": [
             {
@@ -2416,13 +2490,15 @@
                 "de": "Bushaltestelle Magistrale",
                 "hu": "Magistrale buszmegálló",
                 "ro": "Stație de autobuz Magistrală",
-                "en": "Magistrale Bus Stop"
+                "en": "Magistrale Bus Stop",
+                "hr": "Autobusno stajalište Magistrale"
               },
               "tip_5lang": {
                 "de": "An der Hauptstraße gelegen.",
                 "hu": "A főút mentén található.",
                 "ro": "Situată la drumul principal.",
-                "en": "Located on the main road."
+                "en": "Located on the main road.",
+                "hr": "Smešteno na glavnoj cesti."
               }
             },
             {
@@ -2430,13 +2506,15 @@
                 "de": "Baška Voda (Zentrum)",
                 "hu": "Baška Voda (Központ)",
                 "ro": "Baška Voda (Centru)",
-                "en": "Baška Voda (Center)"
+                "en": "Baška Voda (Center)",
+                "hr": "Baška Voda (Centar)"
               },
               "tip_5lang": {
                 "de": "Promenade erkunden.",
                 "hu": "Fedezze fel a sétányt.",
                 "ro": "Explorați faleza.",
-                "en": "Explore the promenade."
+                "en": "Explore the promenade.",
+                "hr": "Istražite šetnicu."
               }
             },
             {
@@ -2444,13 +2522,15 @@
                 "de": "Promajna Hauptstrand",
                 "hu": "Promajna központi strand",
                 "ro": "Plaja principală Promajna",
-                "en": "Promajna Main Beach"
+                "en": "Promajna Main Beach",
+                "hr": "Glavna plaža Promajna"
               },
               "tip_5lang": {
                 "de": "Rückweg zu Fuß zum Strand.",
                 "hu": "Séta vissza a strandhoz.",
                 "ro": "Revenire pe jos spre plajă.",
-                "en": "Walk back to the beach."
+                "en": "Walk back to the beach.",
+                "hr": "Prošećite natrag do plaže."
               }
             },
             {
@@ -2458,13 +2538,15 @@
                 "de": "Kulturzentrum Promajna",
                 "hu": "Promajna Kulturális Központ",
                 "ro": "Centrul Cultural Promajna",
-                "en": "Promajna Cultural Centre"
+                "en": "Promajna Cultural Centre",
+                "hr": "Kulturni centar Promajna"
               },
               "tip_5lang": {
                 "de": "Lokale Ausstellungen ansehen.",
                 "hu": "Helyi kiállítások megtekintése.",
                 "ro": "Vizitați expozițiile locale.",
-                "en": "Check local exhibitions."
+                "en": "Check local exhibitions.",
+                "hr": "Provjerite lokalne izložbe."
               }
             }
           ],
@@ -2574,6 +2656,12 @@
               "Look for the yellow buses.",
               "Check schedules at the stops.",
               "Have small change ready."
+            ],
+            "hr": [
+              "Kupite karte kod vozača.",
+              "Tražite žute autobuse.",
+              "Provjerite vozne redove na stajalištima.",
+              "Imajte sitan novac spreman."
             ]
           }
         },
@@ -2583,7 +2671,7 @@
             "hu": "Várja a buszt a főúti megálló fedele alatt. Az eső a parti utazást rendkívül hangulatossá teszi.\n\nDélben fedezze fel Baška Voda központját. A fedett árkádok védelmet nyújtanak, miközben az üzletek között sétál.\n\nDélután a Promajna strandon ideális az idő arra, hogy megtapasztalja a tenger erejét anélkül, hogy megázna.\n\nA napot a Promajna Kulturális Központban zárja, ahol szárazon látogathatja meg a helyi kiállításokat.",
             "ro": "Așteptați autobuzul sub acoperișul stației de pe drumul principal. Ploaia face călătoria de-a lungul coastei foarte atmosferică.\n\nLa prânz explorați centrul localității Baška Voda. Pasajele acoperite oferă adăpost în timp ce vă plimbați printre magazine.\n\nDupă-amiaza pe plaja din Promajna este momentul ideal pentru a experimenta puterea mării fără a vă uda.\n\nÎncheiați ziua la Centrul Cultural din Promajna, unde puteți vizita expoziții locale la adăpost de ploaie.",
             "en": "Wait for the bus under the shelter at the Magistrale stop. The rain makes the coastal journey very atmospheric.\n\nAt noon, explore the center of Baška Voda. The covered walkways provide shelter as you stroll between shops.\n\nIn the afternoon at Promajna beach, it's the perfect time to experience the sea's power without getting soaked.\n\nFinish your day at the Promajna Cultural Centre, where you can visit local exhibitions or events while staying dry.",
-            "hr": "Pričekajte autobus ispod nadstrešnice na stajalištu na Magistrali. Kiša čini putovanje obalom vrlo atmosferskim.\n\nU podne istražite centar Baške Vode. Natkriveni prolazi pružaju zaklon dok šetate između trgovina.\n\nPoslijepodne na plaži u Promajni je savršeno vrijeme da osjetite snagu mora, a da ne pokisnete do kože.\n\nZavršite dan u Kulturnom centru Promajna, gdje možete posjetiti lokalne izložbe ili događanja dok ste na suhom."
+            "hr": "Čekajte autobus ispod stajališta Magistrale. Kiša čini obalno putovanje vrlo atmosferičnim.\n\nU podne istražite centar Baške Vode. Natkriveni prolazi pružaju zaklon dok šećete između trgovina.\n\nPoslijepodne na plaži Promajna, idealno je vrijeme da osjetite snagu mora bez da se potpuno pokvasite.\n\nZavršite dan u Kulturnom centru Promajna, gdje možete posjetiti lokalne izložbe ili događanja i ostati na suhom."
           },
           "stops": [
             {
@@ -2593,7 +2681,7 @@
                 "hu": "Maradjon a váróteremben, hogy száraz maradjon.",
                 "ro": "Rămâneți sub copertină pentru a nu vă uda.",
                 "en": "Stay under the bus shelter to stay dry.",
-                "hr": "Ostanite ispod nadstrešnice kako biste ostali suhi."
+                "hr": "Ostanite ispod autobusnog zaklona da ostanete suhi."
               }
             },
             {
@@ -2603,7 +2691,7 @@
                 "hu": "Sok kávézó remek kilátást nyújt az esőre.",
                 "ro": "Multe cafenele oferă o vedere bună spre ploaie.",
                 "en": "Many cafés offer a great view of the falling rain.",
-                "hr": "Mnogi kafići nude sjajan pogled na kišu koja pada."
+                "hr": "Mnogi kafići nude prekrasan pogled na padajuću kišu."
               }
             },
             {
@@ -2613,7 +2701,7 @@
                 "hu": "Megéri egy séta egy stabil esernyővel.",
                 "ro": "O plimbare cu o umbrelă rezistentă merită.",
                 "en": "A walk with a sturdy umbrella is worth it.",
-                "hr": "Šetnja s čvrstim kišobranom se isplati."
+                "hr": "Šetnja sa čvrstim kišobranom se isplati."
               }
             },
             {
@@ -2623,7 +2711,7 @@
                 "hu": "Tökéletes fedett zárása egy esős napnak.",
                 "ro": "Încheierea indoor perfectă pentru o zi ploioasă.",
                 "en": "The perfect indoor finale for a rainy day.",
-                "hr": "Savršen zatvoreni završetak kišnog dana."
+                "hr": "Savršeni unutarnji završetak za kišan dan."
               }
             }
           ],
@@ -2653,10 +2741,10 @@
               "Wear waterproof shoes for the walk to the bus stop."
             ],
             "hr": [
-              "Autobusi mogu imati mala kašnjenja tijekom jakih oborina.",
-              "Pripremite točan iznos za kartu kako biste izbjegli zastoje.",
-              "Aplikacija prijevoznika prikazuje podatke o dolasku u stvarnom vremenu.",
-              "Nosite vodootpornu obuću za hodanje do autobusne stanice."
+              "Autobusi mogu imati manja kašnjenja tijekom obilnih padalina.",
+              "Imajte točan novac spreman za kartu kako biste izbjegli zastoje.",
+              "Aplikacija prijevoznika prikazuje podatke o stvarnom vremenu dolaska.",
+              "Nosite vodootpornu obuću za šetnju do stajališta."
             ]
           }
         },
@@ -2666,7 +2754,7 @@
             "hu": "Kezdje a napot a buszmegállóban. A téli napfény mélykékre festi a tengert, miközben a járatra vár.\n\nDélben Baška Voda csendes és pihentető. Használja ki az időt a település megismerésére a szokásos turistatömeg nélkül.\n\nDélután a Promajna strandon élvezze a friss tengeri levegőt. A megállóhoz vezető utat érdemes sötétedés előtt megtenni.\n\nA napot a Kulturális Központban zárja, ahol télen gyakran tartanak barátságos helyi esteket vagy kiállításokat.",
             "ro": "Începeți ziua în stația de autobuz. Soarele de iarnă face marea să strălucească în albastru profund în timp ce așteptați.\n\nLa prânz în Baška Voda este liniște și relaxare. Profitați de timp pentru a vedea locul fără mulțimile de turiști.\n\nDupă-amiaza pe plaja din Promajna bucurați-vă de aerul proaspăt. Întoarcerea la stație ar trebui făcută înainte de lăsarea întunericului.\n\nÎncheiați ziua la Centrul Cultural, unde iarna au loc adesea seri locale primitoare sau expoziții.",
             "en": "Start your day at the bus stop. The winter sun turns the sea a deep blue while you wait for your connection.\n\nAt noon in Baška Voda, it's quiet and relaxed. Take the time to experience the town without the usual tourist crowds.\n\nIn the afternoon at Promajna beach, enjoy the fresh sea air. Plan your walk back to the stop before darkness falls.\n\nFinish the day at the Cultural Centre, where cozy local evenings or exhibitions are often held during the winter months.",
-            "hr": "Započnite dan na autobusnoj stanici. Zimsko sunce boji more u duboko plavu boju dok čekate svoju liniju.\n\nU podne u Baškoj Vodi vlada mir i opuštenost. Odvojite vrijeme da doživite mjesto bez uobičajene turističke gužve.\n\nPoslijepodne na plaži u Promajni uživajte u svježem morskom zraku. Planirajte povratak do stanice prije nego što padne mrak.\n\nZavršite dan u Kulturnom centru, gdje se tijekom zimskih mjeseci često održavaju ugodne lokalne večeri ili izložbe."
+            "hr": "Započnite dan na autobusnom stajalištu. Zimsko sunce pretvara more u duboku plavu dok čekate vezu.\n\nU podne u Baškoj Vodi je tiho i opušteno. Iskoristite vrijeme da doživite grad bez uobičajenih turističkih gužvi.\n\nPoslijepodne na plaži Promajna uživajte u svježem morskom zraku. Isplanirajte povratak do stajališta prije nego što padne mrak.\n\nZavršite dan u Kulturnom centru, gdje se tijekom zime često održavaju prijatna lokalna večernja događanja ili izložbe."
           },
           "stops": [
             {
@@ -2676,7 +2764,7 @@
                 "hu": "Öltözzön fel jól, a főúton a szél télen metsző lehet.",
                 "ro": "Îmbrăcați-vă bine, vântul pe drumul principal este tăios iarna.",
                 "en": "Wrap up warm; the wind at the Magistrale is biting in winter.",
-                "hr": "Dobro se zamotajte; vjetar na Magistrali zimi grize."
+                "hr": "Debelo se obucite; vjetar na Magistrali zimi je oštar."
               }
             },
             {
@@ -2696,7 +2784,7 @@
                 "hu": "Egy séta a tiszta téli levegőben felfrissíti az érzékeket.",
                 "ro": "O plimbare în aerul curat de iarnă revigorează simțurile.",
                 "en": "A walk in the crisp winter air invigorates the senses.",
-                "hr": "Šetnja na svježem zimskom zraku okrepljuje osjetila."
+                "hr": "Šetnja u svježem zimskom zraku budi osjetila."
               }
             },
             {
@@ -2706,7 +2794,7 @@
                 "hu": "Meleg hely a nap barátságos befejezéséhez.",
                 "ro": "Un loc călduros pentru a încheia ziua într-un mod plăcut.",
                 "en": "A warm place to end the day in a cozy way.",
-                "hr": "Toplo mjesto za ugodan završetak dana."
+                "hr": "Toplo mjesto za završetak dana na ugodan način."
               }
             }
           ],
@@ -2737,9 +2825,9 @@
             ],
             "hr": [
               "Zimski vozni red često ima manje linija; provjerite unaprijed.",
-              "Posljednji povratni autobus zimi je često ranije nego ljeti.",
-              "Autobusna stajališta zimi se ne griju; toplo se obucite dok čekate.",
-              "Uživajte u vožnji s panoramskim pogledom na zimsku obalu."
+              "Zadnji povratni autobus često je ranije zimi nego ljeti.",
+              "Autobusna stajališta nisu grijana zimi; obucite se toplo dok čekate.",
+              "Uživajte u vožnji i panoramskim pogledima zimske obale."
             ]
           }
         }
@@ -2765,19 +2853,22 @@
       "de": "Deutsch in Hotels und groesseren Restaurants ueblich, am Strand und in Apartments oft nur Englisch.",
       "hu": "Nemet a szallodakban es nagyobb ettermekben szokasos, a strandon es apartmanokban gyakran csak angol.",
       "ro": "Germana in hoteluri si restaurante mari, pe plaja si in apartamente deseori doar engleza.",
-      "en": "German common in hotels and larger restaurants, on the beach and in apartments often English only."
+      "en": "German common in hotels and larger restaurants, on the beach and in apartments often English only.",
+      "hr": "Njemački je uobičajen u hotelima i većim restoranima; na plaži i u apartmanima često samo engleski."
     },
     "best_time": {
       "de": "Mitte Juni bis Mitte September; im Juli/August Parkplaetze knapp, frueh anreisen.",
       "hu": "Junius kozepetol szeptember kozepeig; julius-augusztusban a parkolas szuk, korai erkezes ajanlott.",
       "ro": "De la mijlocul lui iunie pana la mijlocul lui septembrie; in iulie-august locuri de parcare putine, soseste devreme.",
-      "en": "Mid-June to mid-September; in July-August parking is tight, arrive early."
+      "en": "Mid-June to mid-September; in July-August parking is tight, arrive early.",
+      "hr": "Sredinom lipnja do sredine rujna; u srpnju i kolovozu parking je ograničen, dođite rano."
     },
     "neighborhood_warnings": {
       "de": "Lange Kiesstrandpromenade ohne viel Schatten, Sonnenschutz wichtig; Biokovo-Fallwinde moeglich.",
       "hu": "Hosszu kavicsos sztrandsetany kevsi arnyekkal, naptej fontos; a Biokovo felol idoszakos szelek.",
       "ro": "Promenada lunga cu pietris si putina umbra, protectie solara importanta; vant rafale dinspre Biokovo.",
-      "en": "Long pebble beach promenade with little shade, sun protection essential; gusty winds off Biokovo possible."
+      "en": "Long pebble beach promenade with little shade, sun protection essential; gusty winds off Biokovo possible.",
+      "hr": "Duga šljunčana plaža s malo hlada; zaštita od sunca je obavezna; moguće su udarne bura s Biokova."
     },
     "transit_official": null
   }

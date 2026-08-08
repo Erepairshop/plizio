@@ -21,7 +21,8 @@
             "de": "Kirche des Hl. Martin",
             "hu": "Szent Márton-templom",
             "ro": "Biserica Sfântul Martin",
-            "en": "Church of St. Martin"
+            "en": "Church of St. Martin",
+            "hr": "Crkva sv. Martina"
           },
           "coords": [
             13.9562,
@@ -37,7 +38,7 @@
             "hu": "Figyelje meg a neoklasszicista homlokzatot a falu szívében.",
             "ro": "Observați fațada neoclasică din inima satului.",
             "en": "Note the neoclassical facade in the heart of the village.",
-            "hr": "Uočite neoklasicističko pročelje u srcu sela."
+            "hr": "Obratite pozornost na neoklasičnu fasadu u srcu sela."
           }
         },
         {
@@ -45,7 +46,8 @@
             "de": "Morgenkaffee am Dorfplatz",
             "hu": "Reggeli kávé a faluban",
             "ro": "Cafeaua de dimineață în sat",
-            "en": "Morning Coffee at the Village Square"
+            "en": "Morning Coffee at the Village Square",
+            "hr": "Jutarnja kava na trgu sela"
           },
           "coords": [
             13.957,
@@ -61,7 +63,7 @@
             "hu": "Élvezze a nyugalmat, mielőtt elindulna a tengerpartra.",
             "ro": "Bucurați-vă de liniște înainte de a pleca spre coastă.",
             "en": "Enjoy the peace before heading to the coast.",
-            "hr": "Uživajte u miru prije odlaska na obalu."
+            "hr": "Uživajte u miru prije polaska prema obali."
           }
         },
         {
@@ -69,7 +71,8 @@
             "de": "Kirche der Muttergottes von Kuj",
             "hu": "Kuji Boldogasszony-templom",
             "ro": "Biserica Maicii Domnului din Kuj",
-            "en": "Church of Mother of God from Kuj"
+            "en": "Church of Mother of God from Kuj",
+            "hr": "Crkva Gospe od Kuj"
           },
           "coords": [
             13.9715,
@@ -85,7 +88,7 @@
             "hu": "Kis kápolna gyönyörű mozaikmaradványokkal.",
             "ro": "O mică capelă cu frumoase resturi de mozaic.",
             "en": "A small chapel with beautiful mosaic remains.",
-            "hr": "Mala kapelica s prekrasnim ostacima mozaika."
+            "hr": "Mala kapela s lijepim ostacima mozaika."
           }
         },
         {
@@ -93,7 +96,8 @@
             "de": "Bucht Kuje",
             "hu": "Kuje-öböl",
             "ro": "Golful Kuje",
-            "en": "Kuje Bay"
+            "en": "Kuje Bay",
+            "hr": "Uvala Kuje"
           },
           "coords": [
             13.9725,
@@ -109,7 +113,7 @@
             "hu": "Tökéletes úszáshoz és régészeti felfedezésekhez.",
             "ro": "Perfect pentru înot și descoperiri arheologice.",
             "en": "Perfect for swimming and archaeological discoveries.",
-            "hr": "Savršeno za kupanje i arheološka otkrića."
+            "hr": "Savršena za kupanje i arheološka otkrića."
           }
         },
         {
@@ -117,7 +121,8 @@
             "de": "Mittagessen in einer Konoba",
             "hu": "Ebéd egy konobában",
             "ro": "Prânz la o konoba",
-            "en": "Lunch in a Konoba"
+            "en": "Lunch in a Konoba",
+            "hr": "Ručak u konobi"
           },
           "coords": [
             13.9585,
@@ -133,7 +138,7 @@
             "hu": "Kóstolja meg a friss halat vagy az isztriai sonkát.",
             "ro": "Încercați pește proaspăt sau șuncă istriană.",
             "en": "Try fresh fish or Istrian ham.",
-            "hr": "Probajte svježu ribu ili istarski pršut."
+            "hr": "Probajte svježu ribu ili istarsku pršut."
           }
         },
         {
@@ -141,7 +146,8 @@
             "de": "Hafenspaziergang",
             "hu": "Kikötői séta",
             "ro": "Plimbare în port",
-            "en": "Harbour Walk"
+            "en": "Harbour Walk",
+            "hr": "Šetnja lukom"
           },
           "coords": [
             13.965,
@@ -157,7 +163,7 @@
             "hu": "Nézze meg a kis halászhajókat az esti fényben.",
             "ro": "Priviți micile bărci de pescuit în lumina serii.",
             "en": "Watch the small fishing boats in the evening light.",
-            "hr": "Gledajte male ribarske brodice u večernjem svjetlu."
+            "hr": "Promatrajte male ribarske brodice u večernjem svjetlu."
           }
         },
         {
@@ -165,7 +171,8 @@
             "de": "Sonnenuntergang am Aussichtspunkt",
             "hu": "Naplemente a kilátónál",
             "ro": "Apus la punctul de belvedere",
-            "en": "Sunset at the Viewpoint"
+            "en": "Sunset at the Viewpoint",
+            "hr": "Zalazak sunca na vidikovcu"
           },
           "coords": [
             13.96,
@@ -190,7 +197,7 @@
         "hu": "Kezdje a napot Ližnjan csendes központjában a neoklasszicista Szent Márton-templom meglátogatásával. Egy kellemes kávé után sétáljon le a tengerpartra a történelmi Kuje-öbölhöz.\n\nDélben merüljön el az antik hangulatban a Kuji Boldogasszony kis kápolnánál, majd töltse a délutánt úszással és napozással az öböl kristálytiszta vizében.\n\nKéső délután térjen vissza a faluba, hogy egy hagyományos konobában helyi specialitásokat kóstoljon. Egy séta a kikötőben segít átélni az autentikus halászéletet.\n\nAz estét zárja egy festői naplementével, miközben a kilátás az Adriára és a közeli szigetekre nyílik.",
         "ro": "Începeți ziua în centrul liniștit al localității Ližnjan cu o vizită la biserica neoclasică Sfântul Martin. După o cafea relaxantă, coborâți spre coastă către golful istoric Kuje.\n\nLa prânz, scufundați-vă în atmosfera antică de la mica capelă a Maicii Domnului din Kuj, apoi petreceți după-amiaza înotând și făcând plajă în apele cristaline ale golfului.\n\nSpre seară, reveniți în sat pentru a savura specialități locale într-o konoba tradițională. O plimbare prin port vă va face să simțiți viața autentică de pescar.\n\nÎncheiați seara cu un apus pitoresc, în timp ce privirea alunecă peste Marea Adriatică și insulele din apropiere.",
         "en": "Start your day in the quiet center of Ližnjan by visiting the neoclassical St. Martin's Church. After a cozy coffee, stroll down to the coast to the historic Kuje Bay.\n\nAt midday, immerse yourself in the ancient atmosphere at the small chapel of the Mother of God from Kuj, then spend the afternoon swimming and sunbathing in the bay's crystal-clear waters.\n\nIn the late afternoon, return to the village to enjoy local specialties in a traditional konoba. A walk to the harbour lets you experience the authentic fisherman's life.\n\nEnd the evening with a picturesque sunset, as the view stretches across the Adriatic and the nearby islands.",
-        "hr": "Započnite dan u mirnom središtu Ližnjana posjetom neoklasicističkoj crkvi sv. Martina. Nakon ugodne kave, prošećite do obale do povijesne uvale Kuje.\n\nU podne uronite u drevnu atmosferu u maloj kapelici Majke Božje od Kuj, a zatim provedite poslijepodne plivajući i sunčajući se u kristalno čistom moru uvale.\n\nKasno poslijepodne vratite se u selo kako biste uživali u lokalnim specijalitetima u tradicionalnoj konobi. Šetnja do luke omogućuje vam da doživite autentičan život ribara.\n\nVečer završite slikovitim zalaskom sunca, dok se pogled pruža preko Jadrana i obližnjih otoka."
+        "hr": "Započnite dan u tihom centru Ližnjana posjetom neoklasičnoj crkvi sv. Martina. Nakon ugodne kave prošetajte do obale do povijesne uvale Kuje.\n\nU podne se uronite u drevnu atmosferu u malenoj kapelici Majke Božje iz Kuj, zatim poslijepodne provedite plivajući i sunčajući se u kristalno čistim vodama uvale.\n\nKasno poslijepodne vratite se u selo i uživajte u lokalnim specijalitetima u tradicionalnoj konobi. Šetnja do luke omogućit će vam doživljaj autentičnog ribarskog života.\n\nZavršite večer slikovitim zalaskom sunca, dok se pogled pruža preko Jadrana i obližnjih otoka."
       },
       "gastro_picks": {
         "de": [
@@ -336,8 +343,8 @@
         ],
         "hr": [
           "Nosite udobnu obuću za šetnju do uvale.",
-          "Ponesite cipele za vodu za šljunčanu plažu.",
-          "Rezervirajte stol u konobi tijekom vrhunca sezone."
+          "Ponesite vodene cipele za šljunčanu plažu.",
+          "Rezervirajte stol u konobi tijekom glavne sezone."
         ]
       },
       "variants": {
@@ -347,7 +354,7 @@
             "hu": "Kezdje a napot a Szent Márton-templom védelmében. Élvezzen egy forró teát a falu főterén, miközben az eső kopog az ablakon. Délben a Kuje-öböl drámai látványt nyújt a felkorbolt tengerrel. A délutánt töltheti egy meleg konobában isztriai ételek mellett, majd egy rövid, frissítő kikötői séta zárja a napot, ahol a sós tengeri levegő esővel keveredik.",
             "ro": "Începeți ziua sub protecția bisericii Sf. Martin. Savurați un ceai fierbinte în piața satului în timp ce ploaia bate în geamuri. La prânz, golful Kuje oferă un peisaj dramatic cu marea agitată. Petreceți după-amiaza într-o konoba călduroasă cu specialități istriene, iar seara o scurtă plimbare revigorantă prin port încheie ziua în aerul sărat.",
             "en": "Start the day under the protection of St. Martin's Church. Enjoy a hot tea at the village square while the rain taps on the windows. At noon, Kuje Bay offers a dramatic backdrop with the churning sea. Spend the afternoon in a warm konoba with Istrian specialties, and a short, refreshing harbour walk concludes the day in the salty, rain-washed air.",
-            "hr": "Započnite dan pod zaštitom crkve sv. Martina. Uživajte u toplom čaju na seoskom trgu dok kiša lupka po prozorima. U podne uvala Kuje nudi dramatičnu kulisu s uzburkanim morem. Provedite poslijepodne u toploj konobi uz istarske specijalitete, a kratka, osvježavajuća šetnja lukom zaključuje dan u slanom zraku opranom kišom."
+            "hr": "Započnite dan pod zaštitom crkve sv. Martina. Uživajte u toplom čaju na seoskom trgu dok kiša lupa o prozore. U podne uvala Kuje pruža dramatičnu pozadinu s razjaranim morem. Poslijepodne provedite u toploj konobi s istarskim specijalitetima, a kratka, osvježavajuća šetnja lukom zaokružit će dan u slanom, kišom opranom zraku."
           },
           "stops": [
             {
@@ -356,7 +363,8 @@
                 "de": "Idealer Ort, um den ersten Schauer trocken abzuwarten.",
                 "hu": "Tökéletes helyszín az első zápor szárazon történő megvárásához.",
                 "ro": "Locul ideal pentru a aștepta trecerea primei averse la adăpost.",
-                "en": "Ideal place to wait out the first shower in the dry."
+                "en": "Ideal place to wait out the first shower in the dry.",
+                "hr": "Idealno mjesto da se sklonite od prve pljuske i ostanete suhi."
               }
             },
             {
@@ -365,7 +373,8 @@
                 "de": "Wählen Sie einen Tisch im Innenbereich für gemütliche Regenstimmung.",
                 "hu": "Válasszon belső asztalt a barátságos esős hangulathoz.",
                 "ro": "Alegeți o masă în interior pentru o atmosferă plăcută de ploaie.",
-                "en": "Choose an indoor table for a cozy rainy atmosphere."
+                "en": "Choose an indoor table for a cozy rainy atmosphere.",
+                "hr": "Odaberite stol unutra za ugodnu kišnu atmosferu."
               }
             },
             {
@@ -374,7 +383,8 @@
                 "de": "Kleiner Rückzugsort mit Blick auf die graue Adria.",
                 "hu": "Kis menedékhely kilátással a szürke Adriára.",
                 "ro": "Mic refugiu cu vedere spre marea Adriatică gri.",
-                "en": "Small retreat with a view of the grey Adriatic."
+                "en": "Small retreat with a view of the grey Adriatic.",
+                "hr": "Mali zaklon s pogledom na sivu jadransku površinu."
               }
             },
             {
@@ -383,7 +393,8 @@
                 "de": "Beobachten Sie die Wellen geschützt unter dem Vordach am Ufer.",
                 "hu": "Figyelje a hullámokat a parti előtető alól védve.",
                 "ro": "Observați valurile protejați sub streșina de pe mal.",
-                "en": "Watch the waves protected under the shoreline overhang."
+                "en": "Watch the waves protected under the shoreline overhang.",
+                "hr": "Gledajte valove zaštićeni pod nadvisi rubom obale."
               }
             },
             {
@@ -392,7 +403,8 @@
                 "de": "Trocknen Sie sich bei einer heißen Maneštra-Suppe auf.",
                 "hu": "Melegedjen fel egy forró Maneštra leves mellett.",
                 "ro": "Încălziți-vă cu o supă fierbinte Maneštra.",
-                "en": "Warm up and dry off with a hot Maneštra soup."
+                "en": "Warm up and dry off with a hot Maneštra soup.",
+                "hr": "Ugrijte se i osušite uz toplu maneštru."
               }
             },
             {
@@ -401,7 +413,8 @@
                 "de": "Vorsicht, die Steine an der Mole können bei Nässe rutschig sein.",
                 "hu": "Vigyázat, a móló kövei nedvesen csúszósak lehetnek.",
                 "ro": "Atenție, pietrele de pe dig pot fi alunecoase când sunt ude.",
-                "en": "Caution, the stones on the pier can be slippery when wet."
+                "en": "Caution, the stones on the pier can be slippery when wet.",
+                "hr": "Upozorenje, kamenje na molu može biti sklisko kad je mokro."
               }
             },
             {
@@ -410,7 +423,8 @@
                 "de": "Ein Regenschirm schützt vor dem Wind; genießen Sie das Lichtspiel.",
                 "hu": "Egy esernyő megvéd a széltől; élvezze a felhők fényjátékát.",
                 "ro": "O umbrelă vă protejează de vânt; savurați jocul de lumini.",
-                "en": "An umbrella protects against the wind; enjoy the light through clouds."
+                "en": "An umbrella protects against the wind; enjoy the light through clouds.",
+                "hr": "Kišobran štiti od vjetra; uživajte u svjetlu kroz oblake."
               }
             }
           ],
@@ -444,11 +458,11 @@
               "Watch out for puddles on the unpaved paths to the bay."
             ],
             "hr": [
-              "Nosite vodootporne pješačke cipele za obalne staze.",
-              "Konobe u centru sela najbolja su utočišta tijekom jake kiše.",
-              "Posjete crkvi iskoristite kao prirodne pauze od kiše.",
-              "Džepni kišobran je praktičniji od velikog zbog vjetra.",
-              "Pripazite na lokve na neasfaltiranim stazama do uvale."
+              "Nosite vodootpornu planinarsku obuću za obalne staze.",
+              "Konobe u centru sela najbolji su zakloni tijekom jake kiše.",
+              "Iskoristite posjete crkvama kao prirodne pauze od kiše.",
+              "Džepni kišobran praktičniji je od velikog zbog vjetra.",
+              "Pazite na bare na neasfaltiranim puteljcima do uvale."
             ]
           }
         },
@@ -458,7 +472,7 @@
             "hu": "A téli nap Ližnjan felett enyhe, de a bóra hideg lehet. Reggel látogassa meg a csendes templomokat turisták nélkül. Délben melegedjen fel egy kávéval a téren. A Kuje-öböl magányos sétára hívogat. Mivel a nap 16:30 körül nyugszik, élvezze korán az aranyló fényeket a kikötőben, mielőtt egy hangulatos vacsorára indulna.",
             "ro": "Soarele de iarnă peste Ližnjan este blând, dar bora poate fi rece. Dimineața vizitați bisericile liniștite, fără fluxuri de turiști. La prânz încălziți-vă cu o cafea în piață. Golful Kuje invită la o plimbare solitară. Deoarece soarele apune în jur de 16:30, savurați lumina aurie în port devreme, înainte de o cină primitoare.",
             "en": "The winter sun over Ližnjan is mild, but the Bora wind can be chilly. In the morning, visit the quiet churches without the tourist crowds. At noon, warm up with a coffee at the square. Kuje Bay invites you for a solitary walk. Since the sun sets around 4:30 PM, enjoy the golden light at the harbour early before a cozy dinner.",
-            "hr": "Zimsko sunce nad Ližnjanom je blago, ali bura može biti hladna. Ujutro posjetite mirne crkve bez turističkih gužvi. U podne se ugrijte uz kavu na trgu. Uvala Kuje poziva vas na osamljenu šetnju. Budući da sunce zalazi oko 16:30, rano uživajte u zlatnom svjetlu u luci prije ugodne večere."
+            "hr": "Zimsko sunce nad Ližnjanom je blago, ali bura može biti hladna. Ujutro posjetite tihi crkve bez turističkih gužvi. U podne se ugrijte uz kavu na trgu. Uvala Kuje poziva na samotnu šetnju. Budući da sunce zalazi oko 16:30, uživajte u zlatnom svjetlu u luci ranije prije ugodne večere."
           },
           "stops": [
             {
@@ -467,7 +481,8 @@
                 "de": "Die dicken Mauern speichern die Kälte; ziehen Sie sich warm an.",
                 "hu": "A vastag falak tartják a hideget; öltözzön fel melegen.",
                 "ro": "Zidurile groase rețin frigul; îmbrăcați-vă bine.",
-                "en": "The thick walls retain the cold; dress warmly."
+                "en": "The thick walls retain the cold; dress warmly.",
+                "hr": "Debeli zidovi zadržavaju hladnoću; obucite se toplo."
               }
             },
             {
@@ -476,7 +491,8 @@
                 "de": "Ein sonniger Platz im Freien ist trotz Kälte oft angenehm.",
                 "hu": "Egy napsütötte kinti asztal a hideg ellenére is kellemes lehet.",
                 "ro": "Un loc însorit afară este adesea plăcut în ciuda frigului.",
-                "en": "A sunny spot outside is often pleasant despite the cold."
+                "en": "A sunny spot outside is often pleasant despite the cold.",
+                "hr": "Sunčano mjesto vani često je ugodno unatoč hladnoći."
               }
             },
             {
@@ -485,7 +501,8 @@
                 "de": "Genießen Sie die absolute Stille der Nebensaison.",
                 "hu": "Élvezze a holtszezon abszolút csendjét.",
                 "ro": "Bucurați-vă de liniștea absolută a extrasezonului.",
-                "en": "Enjoy the absolute silence of the off-season."
+                "en": "Enjoy the absolute silence of the off-season.",
+                "hr": "Uživajte u apsolutnoj tišini izvan sezone."
               }
             },
             {
@@ -494,7 +511,8 @@
                 "de": "Perfekt für einen windgeschützten Strandspaziergang.",
                 "hu": "Tökéletes egy széltől védett tengerparti sétához.",
                 "ro": "Perfect pentru o plimbare pe plajă ferită de vânt.",
-                "en": "Perfect for a beach walk sheltered from the wind."
+                "en": "Perfect for a beach walk sheltered from the wind.",
+                "hr": "Savršeno za šetnju plažom zaštićenu od vjetra."
               }
             },
             {
@@ -503,7 +521,8 @@
                 "de": "Probieren Sie saisonale Gerichte wie getrockneten Kabeljau (Bakalar).",
                 "hu": "Kóstolja meg a szezonális ételeket, például a tőkehalat (Bakalar).",
                 "ro": "Gustați mâncărurile sezoniere, cum ar fi codul uscat (Bakalar).",
-                "en": "Try seasonal dishes like dried cod (Bakalar)."
+                "en": "Try seasonal dishes like dried cod (Bakalar).",
+                "hr": "Isprobajte sezonska jela poput sušenog bakalara (Bakalar)."
               }
             },
             {
@@ -512,7 +531,8 @@
                 "de": "Das Licht am Nachmittag ist im Winter besonders klar.",
                 "hu": "A délutáni fények télen különösen tiszták.",
                 "ro": "Lumina de după-amiază este deosebit de clară iarna.",
-                "en": "The afternoon light is particularly clear in winter."
+                "en": "The afternoon light is particularly clear in winter.",
+                "hr": "Poslijepodnevno svjetlo zimi je posebno jasno."
               }
             },
             {
@@ -521,7 +541,8 @@
                 "de": "Seien Sie spätestens um 16:15 Uhr hier für den Sonnenuntergang.",
                 "hu": "Legyen itt legkésőbb 16:15-kor a naplemente miatt.",
                 "ro": "Fiți aici cel târziu la 16:15 pentru apusul soarelui.",
-                "en": "Be here by 4:15 PM at the latest for the sunset."
+                "en": "Be here by 4:15 PM at the latest for the sunset.",
+                "hr": "Budite ovdje najkasnije do 16:15 za zalazak sunca."
               }
             }
           ],
@@ -557,9 +578,9 @@
             "hr": [
               "Slojevita odjeća pomaže protiv hladnog vjetra.",
               "Sunce rano nestaje iza brda.",
-              "Mnoge terase kafića imaju vanjske grijalice.",
-              "Posjetite arheološka nalazišta u Kujama bez ljetnih vrućina.",
-              "Bura na obali može biti vrlo jaka."
+              "Mnogi kafići imaju vanjske grijače.",
+              "Posjetite arheološka nalazišta u Kujama bez ljetne vrućine.",
+              "Bura može biti vrlo jaka na obali."
             ]
           }
         }
@@ -578,7 +599,8 @@
             "de": "Kirche des Hl. Martin",
             "hu": "Szent Márton-templom",
             "ro": "Biserica Sfântul Martin",
-            "en": "Church of St. Martin"
+            "en": "Church of St. Martin",
+            "hr": "Crkva sv. Martina"
           },
           "coords": [
             13.9562,
@@ -594,7 +616,7 @@
             "hu": "Kiindulópont a központban.",
             "ro": "Punct de plecare în centru.",
             "en": "Starting point in the center.",
-            "hr": "Početna točka u centru."
+            "hr": "Polazište u centru."
           }
         },
         {
@@ -602,7 +624,8 @@
             "de": "Halbinsel Marlera",
             "hu": "Marlera-félsziget",
             "ro": "Peninsula Marlera",
-            "en": "Marlera Peninsula"
+            "en": "Marlera Peninsula",
+            "hr": "Peninsula Marlera"
           },
           "coords": [
             13.99,
@@ -626,7 +649,8 @@
             "de": "Leuchtturm Marlera",
             "hu": "Marlera világítótorony",
             "ro": "Farul Marlera",
-            "en": "Marlera Lighthouse"
+            "en": "Marlera Lighthouse",
+            "hr": "Svjetionik Marlera"
           },
           "coords": [
             14.001,
@@ -650,7 +674,8 @@
             "de": "Versteckte Bucht Badepause",
             "hu": "Rejtett öböl strandolás",
             "ro": "Pauză de baie în golf ascuns",
-            "en": "Hidden Cove Swim Break"
+            "en": "Hidden Cove Swim Break",
+            "hr": "Skriveni zaljev za kupanje"
           },
           "coords": [
             13.985,
@@ -666,7 +691,7 @@
             "hu": "Találja meg saját helyét a sziklás parton.",
             "ro": "Găsiți-vă propriul loc pe țărmul stâncos.",
             "en": "Find your own spot on the rocky shore.",
-            "hr": "Pronađite svoje mjesto na stjenovitoj obali."
+            "hr": "Pronađite svoje mjesto na kamenitoj obali."
           }
         },
         {
@@ -674,7 +699,8 @@
             "de": "Mittagessen im Dorf",
             "hu": "Ebéd a faluban",
             "ro": "Prânz în sat",
-            "en": "Lunch in the Village"
+            "en": "Lunch in the Village",
+            "hr": "Ručak u selu"
           },
           "coords": [
             13.958,
@@ -690,7 +716,7 @@
             "hu": "Gyűjtsön erőt a túra hátralévő részéhez.",
             "ro": "Primiți energie pentru restul turului.",
             "en": "Get energy for the rest of the tour.",
-            "hr": "Skupite energiju za ostatak ture."
+            "hr": "Nabavite energije za ostatak ture."
           }
         },
         {
@@ -698,7 +724,8 @@
             "de": "Bucht Kuje",
             "hu": "Kuje-öböl",
             "ro": "Golful Kuje",
-            "en": "Kuje Bay"
+            "en": "Kuje Bay",
+            "hr": "Uvala Kuje"
           },
           "coords": [
             13.9725,
@@ -714,7 +741,7 @@
             "hu": "Rövid megálló a régészeti lelőhelynél.",
             "ro": "O scurtă oprire la situl arheologic.",
             "en": "A short stop at the archaeological site.",
-            "hr": "Kratko zaustavljanje na arheološkom nalazištu."
+            "hr": "Kratka stanica na arheološkom lokalitetu."
           }
         },
         {
@@ -722,7 +749,8 @@
             "de": "Kirche der Muttergottes von Kuj",
             "hu": "Kuji Boldogasszony-templom",
             "ro": "Biserica Maicii Domnului din Kuj",
-            "en": "Church of Mother of God from Kuj"
+            "en": "Church of Mother of God from Kuj",
+            "hr": "Crkva Majke Božje iz Kuj"
           },
           "coords": [
             13.9715,
@@ -746,7 +774,8 @@
             "de": "Gelato-Stopp",
             "hu": "Fagylaltozás",
             "ro": "Oprire pentru înghețată",
-            "en": "Gelato Stop"
+            "en": "Gelato Stop",
+            "hr": "Stajanje za sladoled"
           },
           "coords": [
             13.957,
@@ -762,7 +791,7 @@
             "hu": "Megérdemelt hűsítő a tekerés után.",
             "ro": "Răcorire binemeritată după plimbare.",
             "en": "Well-deserved cool down after the ride.",
-            "hr": "Zasluženo hlađenje nakon vožnje."
+            "hr": "Well-deserved cool down after the ride."
           }
         }
       ],
@@ -771,7 +800,7 @@
         "hu": "Fedezze fel Ližnjan vad szépségét kerékpárral. A Szent Márton-templomtól az út az érintetlen Marlera-félszigetre vezet, ahol kavicsos utak és vadpart várja.\n\nLátogassa meg a magányos világítótornyot a félsziget végén, és élvezze a csendet. Egy pihenő az egyik rejtett öbölben tökéletes felfrissülést nyújt a tengerben.\n\nEgy laktató falusi ebéd után tekerjen el a Kuje-öbölhöz, hogy megtekintse a régészeti kincseket és a kis kápolnát.\n\nA napot egy házi fagyival zárhatja a falu központjában, miközben felidézi a nap során megtett kilométereket.",
         "ro": "Explorați frumusețea sălbatică a localității Ližnjan cu bicicleta. De la biserica Sfântul Martin, drumul duce spre peninsula neatinsă Marlera, unde vă așteaptă drumuri de pietriș și o coastă aspră.\n\nVizitați farul singuratic de la capătul peninsulei și bucurați-vă de liniște. O pauză într-unul dintre golfurile ascunse oferă reîmprospătarea perfectă în mare.\n\nDupă un prânz consistent în sat, pedalați spre golful Kuje pentru a vedea comorile arheologice și mica capelă.\n\nZiua se încheie relaxat cu o înghețată artizanală în centrul satului, în timp ce treceți în revistă kilometrii parcurși.",
         "en": "Explore the wild beauty of Ližnjan by bike. From St. Martin's Church, the path leads to the untouched Marlera Peninsula, where gravel paths and a rugged coast await you.\n\nVisit the lonely lighthouse at the end of the peninsula and enjoy the silence. A break in one of the hidden coves offers the perfect refreshment in the sea.\n\nAfter a hearty lunch in the village, cycle to Kuje Bay to see the archaeological treasures and the small chapel.\n\nThe day ends relaxedly with a homemade gelato in the village center, as you review the kilometers covered during the day.",
-        "hr": "Istražite divlju ljepotu Ližnjana biciklom. Od crkve sv. Martina staza vodi do netaknutog poluotoka Marlera, gdje vas čekaju makadamski putovi i krševita obala.\n\nPosjetite usamljeni svjetionik na kraju poluotoka i uživajte u tišini. Predah u jednoj od skrivenih uvala nudi savršeno osvježenje u moru.\n\nNakon obilnog ručka u selu, odvezite se do uvale Kuje kako biste vidjeli arheološka blaga i malu kapelicu.\n\nDan završava opušteno uz domaći sladoled u centru sela, dok prebirate prijeđene kilometre tijekom dana."
+        "hr": "Istražite divlju ljepotu Ližnjana biciklom. Od crkve sv. Martina put vodi do netaknute poluotoka Marlera, gdje vas čekaju makadamske staze i krševita obala.\n\nPosjetite usamljeni svjetionik na kraju poluotoka i uživajte u tišini. Pauza u jednom od skrivenih zaljeva nudi savršeno osvježenje u moru.\n\nNakon obilnog ručka u selu, vozite do uvale Kuje da vidite arheološke blaga i malu kapelicu.\n\nDan završava opušteno uz domaći sladoled u centru sela, dok prelistavate pređene kilometre tijekom dana."
       },
       "gastro_picks": {
         "de": [
@@ -896,9 +925,9 @@
           "A mountain bike is ideal for the gravel paths."
         ],
         "hr": [
-          "Provjerite tlak u gumama prije vožnje do Marlere.",
-          "Uzmite dovoljno vode jer na poluotoku nema hlada.",
-          "Planinski bicikl je idealan za makadamske staze."
+          "Provjerite tlak u gumama prije vožnje prema Marleri.",
+          "Ponesite dovoljno vode, jer na poluotoku nema hlada.",
+          "Mountain bike je idealan za makadamske staze."
         ]
       },
       "variants": {
@@ -908,7 +937,7 @@
             "hu": "Egy kerékpártúra esőben jó felszerelést igényel. Látogassa meg a Szent Márton-templomot, mielőtt a Marlera-félszigetre indulna. A burkolatlan út saras lehet, ami növeli a kalandot. Keressen menedéket a világítótoronynál és élvezze a kilátást. Ebéd után a faluban melegedjen fel a Kuje-öbölben, majd egy fagylaltozás zárja ezt a vizes, de aktív napot.",
             "ro": "O tură cu bicicleta pe ploaie necesită echipament bun. Vizitați biserica Sf. Martin înainte de a pleca spre peninsula Marlera. Drumul neasfaltat poate fi noroios, ceea ce sporește aventura. Căutați adăpost la far și savurați priveliștea. După prânzul în sat, încălziți-vă în golful Kuje, iar o oprire pentru înghețată încheie această zi udă, dar activă.",
             "en": "A bike tour in the rain requires good gear. Visit St. Martin's Church before heading to the Marlera peninsula. The unpaved path can be muddy, which adds to the adventure. Seek shelter at the lighthouse and enjoy the view. After lunch in the village, warm up near Kuje Bay, and a gelato stop concludes this wet but active day.",
-            "hr": "Biciklistička tura po kiši zahtijeva dobru opremu. Posjetite crkvu sv. Martina prije odlaska na poluotok Marleru. Neasfaltirani put može biti blatan, što doprinosi avanturi. Potražite zaklon kod svjetionika i uživajte u pogledu. Nakon ručka u selu, ugrijte se u blizini uvale Kuje, a posjet slastičarnici zaključuje ovaj mokar, ali aktivan dan."
+            "hr": "Biciklistička tura na kiši zahtijeva dobru opremu. Posjetite crkvu sv. Martina prije nego krenete na poluotok Marlera. Neasfaltirani put može biti blatnjav, što dodaje avanturi. Sklonite se u svjetioniku i uživajte u pogledu. Nakon ručka u selu, ugrijte se kraj uvale Kuje, a stajanje za sladoled zaokružit će ovaj mokri ali aktivan dan."
           },
           "stops": [
             {
@@ -917,7 +946,8 @@
                 "de": "Stellen Sie Ihr Rad unter dem Dachvorsprung ab.",
                 "hu": "Állítsa a kerékpárját az ereszhajlás alá.",
                 "ro": "Parcați bicicleta sub streșină.",
-                "en": "Park your bike under the roof overhang."
+                "en": "Park your bike under the roof overhang.",
+                "hr": "Parkirajte bicikl pod nadstrešnicom."
               }
             },
             {
@@ -926,7 +956,8 @@
                 "de": "Vorsicht vor tiefem Schlamm auf den Feldwegen.",
                 "hu": "Vigyázat, mély sár lehet a mezei utakon.",
                 "ro": "Atenție la noroiul adânc de pe drumurile de câmp.",
-                "en": "Beware of deep mud on the field paths."
+                "en": "Beware of deep mud on the field paths.",
+                "hr": "Pazite na duboko blato na poljskim putevima."
               }
             },
             {
@@ -935,7 +966,8 @@
                 "de": "Hinter dem Gebäude finden Sie Schutz vor dem Schlagregen.",
                 "hu": "Az épület mögött menedéket talál a verőfényes eső elől.",
                 "ro": "În spatele clădirii găsiți adăpost de ploaia bătută de vânt.",
-                "en": "You'll find shelter from driving rain behind the building."
+                "en": "You'll find shelter from driving rain behind the building.",
+                "hr": "Sklonište od jake kiše pronaći ćete iza zgrade."
               }
             },
             {
@@ -944,7 +976,8 @@
                 "de": "Statt Schwimmen: Genießen Sie das Tosen der Wellen.",
                 "hu": "Úszás helyett: Élvezze a hullámok morajlását.",
                 "ro": "În loc de înot: Bucurați-vă de vuietul valurilor.",
-                "en": "Instead of swimming: Enjoy the roar of the waves."
+                "en": "Instead of swimming: Enjoy the roar of the waves.",
+                "hr": "Umjesto plivanja: uživajte u urliku valova."
               }
             },
             {
@@ -953,7 +986,8 @@
                 "de": "Nutzen Sie die Pause, um Ihre Regenbekleidung auszuschütteln.",
                 "hu": "Használja a szünetet az esőruházat kirázására.",
                 "ro": "Folosiți pauza pentru a vă scutura echipamentul de ploaie.",
-                "en": "Use the break to shake out your rain gear."
+                "en": "Use the break to shake out your rain gear.",
+                "hr": "Iskoristite pauzu za protresanje kišne odjeće."
               }
             },
             {
@@ -962,7 +996,8 @@
                 "de": "Die Asphaltstraße zurück ins Dorf ist sicherer bei Nässe.",
                 "hu": "A faluba visszavezető aszfaltút biztonságosabb nedves időben.",
                 "ro": "Drumul asfaltat înapoi în sat este mai sigur pe ploaie.",
-                "en": "The asphalt road back to the village is safer when wet."
+                "en": "The asphalt road back to the village is safer when wet.",
+                "hr": "Asfaltna cesta natrag prema selu sigurnija je kad je mokro."
               }
             },
             {
@@ -971,7 +1006,8 @@
                 "de": "Kurzer Stopp zum Verschnaufen im Trockenen.",
                 "hu": "Rövid pihenő a szárazban.",
                 "ro": "Scurt popas pentru respirație la uscat.",
-                "en": "Short stop to catch your breath in the dry."
+                "en": "Short stop to catch your breath in the dry.",
+                "hr": "Kratka stanica da uhvatite dah na suhom."
               }
             },
             {
@@ -980,7 +1016,8 @@
                 "de": "Eis schmeckt auch bei Regen – oder wählen Sie einen heißen Kakao.",
                 "hu": "A fagyi esőben is finom – vagy válasszon egy forró kakaót.",
                 "ro": "Înghețata e bună și pe ploaie – sau alegeți o cacao fierbinte.",
-                "en": "Gelato is good in the rain too – or choose a hot cocoa."
+                "en": "Gelato is good in the rain too – or choose a hot cocoa.",
+                "hr": "Sladoled je dobar i na kiši – ili odaberite vruću čokoladu."
               }
             }
           ],
@@ -1014,11 +1051,11 @@
               "Choose a route with more asphalt sections."
             ],
             "hr": [
-              "Blatobrani su obavezni na makadamskim stazama.",
+              "Blatobrani su nužni na makadamskim stazama.",
               "Izbjegavajte naglo kočenje na mokrom asfaltu.",
-              "Dragocjenosti spakirajte u vodootporne torbe.",
-              "Staze na Marleri mogu postati neprohodne tijekom jake kiše.",
-              "Odaberite rutu s više asfaltiranih dijelova."
+              "Vrijednosti pakirajte u vodonepropusne vrećice.",
+              "Staze na Marleri mogu postati neprohodne za vrijeme jake kiše.",
+              "Odaberite rutu s više asfaltiranih dionica."
             ]
           }
         },
@@ -1028,7 +1065,7 @@
             "hu": "Egy téli biciklitúra a tiszta isztriai levegőn vezet keresztül. A Szent Márton-templom után fedezze fel a Marlera-félszigetet, amely télen szinte néptelen. A világítótorony nyers panorámát kínál. Úszás helyett élvezzen egy pikniket a kilátással. Délben a nap felmelegíti a faluban. A Kuje-öböl a nyugodt arcát mutatja, mielőtt egy forró itallal zárná a napot.",
             "ro": "O tură de iarnă cu bicicleta vă poartă prin aerul curat istrian. După biserica Sf. Martin, explorați peninsula Marlera, aproape pustie iarna. Farul oferă o panoramă aspră. În loc de înot, savurați un picnic cu vedere. La prânz, soarele vă încălzește în sat. Golful Kuje își arată latura liniștită, înainte de a încheia ziua cu o băutură fierbinte.",
             "en": "A winter bike tour takes you through the crisp Istrian air. After St. Martin's Church, explore the Marlera peninsula, which is almost deserted in winter. The lighthouse offers a rugged panorama. Instead of swimming, enjoy a picnic with a view. At noon, the sun warms you up in the village. Kuje Bay shows its quiet side before you end the day with a hot drink.",
-            "hr": "Zimska biciklistička tura vodi vas kroz svjež istarski zrak. Nakon crkve sv. Martina, istražite poluotok Marleru, koji je zimi gotovo pust. Svjetionik nudi krševitu panoramu. Umjesto kupanja, uživajte u pikniku s pogledom. U podne će vas sunce ugrijati u selu. Uvala Kuje pokazuje svoju mirnu stranu prije nego što dan završite toplim napitkom."
+            "hr": "Zimska biciklistička tura vodi kroz svježi istarski zrak. Nakon crkve sv. Martina istražite poluotok Marlera, koji je zimi gotovo pust. Svjetionik nudi krševitu panoramu. Umjesto plivanja, uživajte u pikniku s pogledom. U podne vas sunce ugrije u selu. Uvala Kuje pokazuje svoju mirnu stranu prije nego dan završite toplim napitkom."
           },
           "stops": [
             {
@@ -1037,7 +1074,8 @@
                 "de": "Kurzer Stopp; lassen Sie den Körper nicht auskühlen.",
                 "hu": "Rövid megálló; ne hagyja kihűlni a testét.",
                 "ro": "Popas scurt; nu lăsați corpul să se răcească.",
-                "en": "Short stop; don't let your body cool down."
+                "en": "Short stop; don't let your body cool down.",
+                "hr": "Kratka stanica; ne dopustite da vam tijelo ohladi."
               }
             },
             {
@@ -1046,7 +1084,8 @@
                 "de": "Der Wind ist hier stärker; Windstopper-Kleidung ist Pflicht.",
                 "hu": "Itt erősebb a szél; a szélálló ruházat kötelező.",
                 "ro": "Vântul este mai puternic aici; hainele windstopper sunt obligatorii.",
-                "en": "The wind is stronger here; windstopper clothing is a must."
+                "en": "The wind is stronger here; windstopper clothing is a must.",
+                "hr": "Vjetar je ovdje jači; windstopper odjeća je obavezna."
               }
             },
             {
@@ -1055,7 +1094,8 @@
                 "de": "Ein spektakulärer Ort für Winterfotos bei klarem Himmel.",
                 "hu": "Látványos hely téli fotókhoz tiszta égbolt mellett.",
                 "ro": "Un loc spectaculos pentru fotografii de iarnă sub cerul senin.",
-                "en": "A spectacular spot for winter photos under clear skies."
+                "en": "A spectacular spot for winter photos under clear skies.",
+                "hr": "Spektakularno mjesto za zimske fotografije pod vedrim nebom."
               }
             },
             {
@@ -1064,7 +1104,8 @@
                 "de": "Nutzen Sie die Zeit für Dehnübungen in der Sonne.",
                 "hu": "Használja az időt nyújtásra a napsütésben.",
                 "ro": "Folosiți timpul pentru exerciții de stretching la soare.",
-                "en": "Use the time for stretching in the sun."
+                "en": "Use the time for stretching in the sun.",
+                "hr": "Iskoristite vrijeme za istezanje na suncu."
               }
             },
             {
@@ -1073,7 +1114,8 @@
                 "de": "Ein Platz am Fenster fängt die wertvollen Sonnenstrahlen ein.",
                 "hu": "Egy ablak melletti asztal befogja az értékes napsugarakat.",
                 "ro": "Un loc la fereastră captează razele prețioase ale soarelui.",
-                "en": "A window seat catches the precious sun rays."
+                "en": "A window seat catches the precious sun rays.",
+                "hr": "Sjedalo uz prozor lovi dragocjene sunčeve zrake."
               }
             },
             {
@@ -1082,7 +1124,8 @@
                 "de": "Die tiefstehende Sonne glitzert wunderschön auf dem Wasser.",
                 "hu": "Az alacsonyan járó nap gyönyörűen csillog a vízen.",
                 "ro": "Soarele jos sclipește minunat pe apă.",
-                "en": "The low sun glitters beautifully on the water."
+                "en": "The low sun glitters beautifully on the water.",
+                "hr": "Nisko sunce prekrasno se presijava na vodi."
               }
             },
             {
@@ -1091,7 +1134,8 @@
                 "de": "Die Abendruhe beginnt hier im Winter sehr früh.",
                 "hu": "Az esti nyugalom télen nagyon korán kezdődik itt.",
                 "ro": "Liniștea serii începe foarte devreme aici iarna.",
-                "en": "The evening peace starts very early here in winter."
+                "en": "The evening peace starts very early here in winter.",
+                "hr": "Večerni mir ovdje u zimskom razdoblju počinje vrlo rano."
               }
             },
             {
@@ -1100,7 +1144,8 @@
                 "de": "Fragen Sie nach einer heißen Schokolade statt Eis.",
                 "hu": "Kérjen forró csokoládét fagyi helyett.",
                 "ro": "Cereți o ciocolată caldă în loc de înghețată.",
-                "en": "Ask for a hot chocolate instead of gelato."
+                "en": "Ask for a hot chocolate instead of gelato.",
+                "hr": "Zatražite vruću čokoladu umjesto sladoleda."
               }
             }
           ],
@@ -1134,10 +1179,10 @@
               "Visibility towards the Kvarner islands is often better in winter."
             ],
             "hr": [
-              "Nosite rukavice; osjet hladnoće zbog vjetra je zimi leden.",
-              "Pripazite na kraće dane; provjerite svjetla na biciklu.",
-              "Neasfaltirane staze su zimi često čvršće nego ljeti.",
-              "Pijte dovoljno vode čak i na hladnoći.",
+              "Nosite rukavice; osjet hladnoće vjetra je leden.",
+              "Pazite na kraće dane; provjerite svjetla na biciklu.",
+              "Neasfaltirane staze često su čvršće zimi nego ljeti.",
+              "Pijte dovoljno vode čak i kada je hladno.",
               "Vidljivost prema kvarnerskim otocima često je bolja zimi."
             ]
           }
@@ -1157,7 +1202,8 @@
             "de": "Kirche des Hl. Martin",
             "hu": "Szent Márton-templom",
             "ro": "Biserica Sfântul Martin",
-            "en": "Church of St. Martin"
+            "en": "Church of St. Martin",
+            "hr": "Crkva sv. Martina"
           },
           "coords": [
             13.9562,
@@ -1181,7 +1227,8 @@
             "de": "Morgenkaffee im Zentrum",
             "hu": "Reggeli kávé a központban",
             "ro": "Cafeaua de dimineață în centru",
-            "en": "Morning Coffee in the Center"
+            "en": "Morning Coffee in the Center",
+            "hr": "Jutarnja kava u centru"
           },
           "coords": [
             13.957,
@@ -1205,7 +1252,8 @@
             "de": "Kirche der Muttergottes von Kuj",
             "hu": "Kuji Boldogasszony-templom",
             "ro": "Biserica Maicii Domnului din Kuj",
-            "en": "Church of Mother of God from Kuj"
+            "en": "Church of Mother of God from Kuj",
+            "hr": "Crkva Majke Božje iz Kuj"
           },
           "coords": [
             13.9715,
@@ -1221,7 +1269,7 @@
             "hu": "Egyszerű megközelítés az öbölhöz vezető aszfaltozott úton.",
             "ro": "Acces ușor prin drumul asfaltat spre golf.",
             "en": "Easy access via the paved road to the bay.",
-            "hr": "Lak pristup asfaltiranom cestom do uvale."
+            "hr": "Jednostavan pristup preko asfaltirane ceste do uvale."
           }
         },
         {
@@ -1229,7 +1277,8 @@
             "de": "Bucht Kuje & Archäologie",
             "hu": "Kuje-öböl és régészet",
             "ro": "Golful Kuje și arheologie",
-            "en": "Kuje Bay & Archaeology"
+            "en": "Kuje Bay & Archaeology",
+            "hr": "Uvala Kuje i arheologija"
           },
           "coords": [
             13.9725,
@@ -1245,7 +1294,7 @@
             "hu": "Látogassa meg a római villa maradványait.",
             "ro": "Vizitați resturile vilei romane.",
             "en": "Visit the remains of the Roman villa.",
-            "hr": "Posjetite ostatke rimske vile."
+            "hr": "Posjetite ostatke rimske ville."
           }
         },
         {
@@ -1253,7 +1302,8 @@
             "de": "Leuchtturm Marlera",
             "hu": "Marlera világítótorony",
             "ro": "Farul Marlera",
-            "en": "Marlera Lighthouse"
+            "en": "Marlera Lighthouse",
+            "hr": "Svjetionik Marlera"
           },
           "coords": [
             14.001,
@@ -1269,7 +1319,7 @@
             "hu": "Vigyázat a nem szilárd burkolatú úton, vezessen lassan.",
             "ro": "Atenție pe drumul neasfaltat, conduceți încet.",
             "en": "Caution on the unpaved path, drive slowly.",
-            "hr": "Oprez na neasfaltiranom putu, vozite polako."
+            "hr": "Upozorenje na neasfaltiranu stazu, vozite polako."
           }
         },
         {
@@ -1277,7 +1327,8 @@
             "de": "Spätes Mittagessen in der Konoba",
             "hu": "Késői ebéd a konobában",
             "ro": "Prânz târziu la konoba",
-            "en": "Late Lunch in the Konoba"
+            "en": "Late Lunch in the Konoba",
+            "hr": "Kasni ručak u konobi"
           },
           "coords": [
             13.9585,
@@ -1302,7 +1353,7 @@
         "hu": "Fedezze fel Ližnjant kényelmesen autóval. Kezdjen a falu központjában a Szent Márton-templomnál, és igyon meg egy kávét, mielőtt a történelmi Kuje-öbölhöz hajtana.\n\nOtt fedezze fel egy római villa antik maradványait és a Kuji Boldogasszony bájos kápolnáját. Az öböl pihentető fürdőzésre is csábít.\n\nFolytassa útját a legdélebbi pontig, a Marlera világítótoronyhoz. Az út nem aszfaltozott ösvényeken vezet keresztül a vad természeti tájon, tágas kilátással a tengerre.\n\nVisszatérve a faluba, kiváló vacsora várja az egyik helyi konobában, ahol élvezheti Isztria ízeit.",
         "ro": "Experimentați Ližnjan confortabil cu mașina. Începeți în centrul satului la biserica Sfântul Martin și savurați o cafea înainte de a merge la golful istoric Kuje.\n\nAcolo veți descoperi resturile antice ale unei vile romane și fermecătoarea capelă a Maicii Domnului din Kuj. Golful vă invită, de asemenea, la o pauză de baie relaxantă.\n\nContinuați spre cel mai sudic punct, farul Marlera. Drumul duce pe poteci neasfaltate printr-un peisaj natural sălbatic, cu vederi largi spre mare.\n\nReveniți în sat pentru o cină excelentă la una dintre konobele locale, unde puteți savura aromele Istriei.",
         "en": "Experience Ližnjan comfortably by car. Start in the village center at St. Martin's Church and enjoy a coffee before driving to the historic Kuje Bay.\n\nThere you will discover the ancient remains of a Roman villa and the charming chapel of the Mother of God from Kuj. The bay also invites you for a relaxing swim break.\n\nContinue to the southernmost point, the Marlera Lighthouse. The drive leads over unpaved paths through a wild natural landscape with wide views of the sea.\n\nBack in the village, an excellent dinner awaits you in one of the local konobas, where you can enjoy the flavors of Istria.",
-        "hr": "Doživite Ližnjan udobno automobilom. Započnite u centru sela kod crkve sv. Martina i uživajte u kavi prije vožnje do povijesne uvale Kuje.\n\nTamo ćete otkriti drevne ostatke rimske vile i šarmantnu kapelicu Majke Božje od Kuj. Uvala vas također poziva na opuštajuću pauzu za kupanje.\n\nNastavite do najjužnije točke, svjetionika Marlera. Vožnja vodi preko neasfaltiranih staza kroz divlji prirodni krajolik s prostranim pogledom na more.\n\nPovratak u selo, gdje vas čeka izvrsna večera u jednoj od lokalnih konoba, gdje možete uživati u okusima Istre."
+        "hr": "Iskusite Ližnjan udobno automobilom. Počnite u centru sela kod crkve sv. Martina i uživajte u kavi prije vožnje prema povijesnoj uvali Kuje.\n\nTamo ćete otkriti drevne ostatke rimske ville i šarmantnu kapelicu Majke Božje iz Kuj. Uvala vas također poziva na opuštajući kupališni predah.\n\nNastavite do najjužnije točke, svjetionika Marlera. Vožnja vodi preko makadamskih puteva kroz divlju prirodu s širokim pogledima na more.\n\nNatrag u selu čeka vas izvrstan ručak u jednoj od lokalnih konoba, gdje možete uživati u okusima Istre."
       },
       "gastro_picks": {
         "de": [
@@ -1427,8 +1478,8 @@
           "Combine the trip with a visit to nearby Medulin."
         ],
         "hr": [
-          "Cesta do svjetionika je kamenita, vozite oprezno.",
-          "Parking u centru je uglavnom besplatan.",
+          "Cesta do svjetionika je kamena, vozite pažljivo.",
+          "Parkiranje u centru je uglavnom besplatno.",
           "Kombinirajte izlet s posjetom obližnjem Medulinu."
         ]
       },
@@ -1439,7 +1490,7 @@
             "hu": "Autóval Ližnjan esőben is kényelmes. Látogassa meg a Szent Márton-templomot és pihenjen egy kávé mellett a központban. Az út a Kuje-öbölbe nagyszerű kilátást nyújt a viharos tengerre anélkül, hogy megázna. A marlerai világítótorony esőben különösen misztikus. Egy hosszú ebéd egy konobában a borús napot gasztronómiai élménnyé teszi.",
             "ro": "Cu mașina, Ližnjan este confortabil chiar și pe ploaie. Vizitați biserica Sf. Martin și relaxați-vă cu o cafea în centru. Drumul spre golful Kuje oferă vederi superbe spre marea înfuriată, fără să vă udați. Farul Marlera pare deosebit de mistic pe ploaie. Un prânz prelungit într-o konoba transformă ziua ploioasă într-o experiență culinară.",
             "en": "Ližnjan is comfortable by car even in the rain. Visit St. Martin's Church and relax with a coffee in the center. The drive to Kuje Bay offers great views of the stormy sea without getting wet. The Marlera lighthouse looks particularly mystical in the rain. A long lunch in a konoba turns the rainy day into a culinary highlight.",
-            "hr": "Ližnjan je ugodan automobilom čak i po kiši. Posjetite crkvu sv. Martina i opustite se uz kavu u centru. Vožnja do uvale Kuje nudi prekrasan pogled na olujno more bez močenja. Svjetionik Marlera izgleda posebno mistično na kiši. Dug ručak u konobi pretvara kišni dan u kulinarski vrhunac."
+            "hr": "Ližnjan je udoban automobilom i za kišnog vremena. Posjetite crkvu sv. Martina i opustite se uz kavu u centru. Vožnja do uvale Kuje nudi izvrsne poglede na uzburkano more bez da se smočite. Svjetionik Marlera izgleda posebno mistično na kiši. Dugi ručak u konobi pretvara kišni dan u kulinarski vrhunac."
           },
           "stops": [
             {
@@ -1448,7 +1499,8 @@
                 "de": "Parkplatz direkt vor dem Eingang nutzen.",
                 "hu": "Használja a közvetlenül a bejárat előtti parkolót.",
                 "ro": "Folosiți parcarea direct din fața intrării.",
-                "en": "Use the parking spot directly in front of the entrance."
+                "en": "Use the parking spot directly in front of the entrance.",
+                "hr": "Iskoristite parkirno mjesto neposredno ispred ulaza."
               }
             },
             {
@@ -1457,7 +1509,8 @@
                 "de": "Suchen Sie Cafés mit Parkplätzen in der Nähe.",
                 "hu": "Keressen kávézót közeli parkolási lehetőséggel.",
                 "ro": "Căutați cafenele cu parcare în apropiere.",
-                "en": "Look for cafes with nearby parking."
+                "en": "Look for cafes with nearby parking.",
+                "hr": "Potražite kafiće s obližnjim parkingom."
               }
             },
             {
@@ -1466,7 +1519,8 @@
                 "de": "Vom Auto aus hat man einen guten Blick auf die Fassade.",
                 "hu": "Az autóból is jó kilátás nyílik a homlokzatra.",
                 "ro": "Din mașină aveți o vedere bună spre fațadă.",
-                "en": "You have a good view of the facade from the car."
+                "en": "You have a good view of the facade from the car.",
+                "hr": "Iz auta imate dobar pogled na fasadu."
               }
             },
             {
@@ -1475,7 +1529,8 @@
                 "de": "Die Ausgrabungen sind im Regen schwer zu besichtigen; Fokus auf das Meer.",
                 "hu": "Az ásatásokat esőben nehéz megnézni; fókuszáljon a tengerre.",
                 "ro": "Săpăturile sunt greu de vizitat pe ploaie; concentrați-vă pe mare.",
-                "en": "Archaeology is hard to visit in the rain; focus on the sea."
+                "en": "Archaeology is hard to visit in the rain; focus on the sea.",
+                "hr": "Arheološke lokacije teško je posjetiti po kiši; usredotočite se na more."
               }
             },
             {
@@ -1484,7 +1539,8 @@
                 "de": "Bleiben Sie im Auto und genießen Sie das Panorama.",
                 "hu": "Maradjon az autóban és élvezze a panorámát.",
                 "ro": "Rămâneți în mașină și savurați panorama.",
-                "en": "Stay in the car and enjoy the panorama."
+                "en": "Stay in the car and enjoy the panorama.",
+                "hr": "Ostanite u autu i uživajte u panorami."
               }
             },
             {
@@ -1493,7 +1549,8 @@
                 "de": "Der perfekte Ort, um das Ende des Regens abzuwarten.",
                 "hu": "Tökéletes hely az eső végének megvárásához.",
                 "ro": "Locul perfect pentru a aștepta oprirea ploii.",
-                "en": "The perfect place to wait for the rain to stop."
+                "en": "The perfect place to wait for the rain to stop.",
+                "hr": "Savršeno mjesto za čekanje prestanka kiše."
               }
             }
           ],
@@ -1527,11 +1584,11 @@
               "Don't leave wet umbrellas on the car seats."
             ],
             "hr": [
-              "Vozite oprezno na uskim cestama zbog rizika od akvaplaninga.",
-              "Pristup svjetioniku može biti blatan tijekom jake kiše.",
-              "Koristite klimu kako biste spriječili zamagljivanje stakala.",
-              "Ne parkirajte ispod drveća tijekom mogućih oluja.",
-              "Ne ostavljajte mokre kišobrane na sjedalima automobila."
+              "Vozite pažljivo uskim cestama zbog opasnosti od akvaplaninga.",
+              "Pristup svjetioniku može biti blatnjav tijekom jakih pljuskova.",
+              "Koristite klima-uređaj kako biste spriječili magljenje stakala.",
+              "Nemojte parkirati pod drvećem tijekom moguće oluje.",
+              "Ne ostavljajte mokre kišobrane na sjedalima auta."
             ]
           }
         },
@@ -1541,7 +1598,7 @@
             "hu": "Télen az autó ideális bázist nyújt Ližnjan meleg felfedezéséhez. Kezdjen a Szent Mártonnál és élvezze a tiszta levegőt. Az út a marlerai világítótoronyhoz télen zavartalan; a nyers tenger látványa lenyűgöző. A Kuje-öbölben tehet egy rövid kitérőt az ebéd előtt. Az autónak köszönhetően minden pontot kényelmesen elér a korai sötétedés előtt.",
             "ro": "Iarna, mașina oferă baza ideală pentru a explora Ližnjan la căldură. Începeți la Sf. Martin și savurați aerul curat. Drumul spre farul Marlera este neîntrerupt iarna; marea aspră e o priveliște superbă. În golful Kuje puteți zăbovi scurt înainte de prânz. Datorită mașinii, ajungeți confortabil la toate punctele înainte de lăsarea întunericului.",
             "en": "In winter, the car provides an ideal warm base for exploring Ližnjan. Start at St. Martin's and enjoy the crisp air. The drive to the Marlera lighthouse is peaceful in winter; the rugged sea is a great sight. You can linger briefly at Kuje Bay before lunching in the village. Thanks to the car, you'll reach all spots comfortably before the early darkness sets in.",
-            "hr": "Zimi automobil pruža idealnu toplu bazu za istraživanje Ližnjana. Počnite kod sv. Martina i uživajte u svježem zraku. Vožnja do svjetionika Marlera zimi je mirna; uzburkano more je sjajan prizor. Možete se kratko zadržati u uvali Kuje prije ručka u selu. Zahvaljujući automobilu, udobno ćete stići do svih mjesta prije ranog mraka."
+            "hr": "Zimi automobil pruža idealnu toplu bazu za istraživanje Ližnjana. Počnite kod sv. Martina i uživajte u svježem zraku. Vožnja do svjetionika Marlera zimi je mirna; razorno more pruža sjajan prizor. Možete se kratko zadržati u uvali Kuje prije ručka u selu. Zahvaljujući automobilu, sve lokacije ćete pohoditi udobno prije nego što nastupi rana tama."
           },
           "stops": [
             {
@@ -1550,7 +1607,8 @@
                 "de": "Kurze Besichtigung; das Auto bleibt warm aufgeheizt.",
                 "hu": "Rövid látogatás; az autó melegen tartva marad.",
                 "ro": "Vizită scurtă; mașina rămâne încălzită.",
-                "en": "Short visit; keep the car warmed up."
+                "en": "Short visit; keep the car warmed up.",
+                "hr": "Kratki posjet; držite auto zagrijanim."
               }
             },
             {
@@ -1559,7 +1617,8 @@
                 "de": "Ideal, um den weiteren Tagesablauf im Warmen zu planen.",
                 "hu": "Ideális a nap további részének megtervezéséhez a melegben.",
                 "ro": "Ideal pentru a planifica restul zilei la căldură.",
-                "en": "Ideal for planning the rest of your day in the warm."
+                "en": "Ideal for planning the rest of your day in the warm.",
+                "hr": "Idealno za planiranje ostatka dana na toplom."
               }
             },
             {
@@ -1568,7 +1627,8 @@
                 "de": "Parken Sie so, dass Sie das Meer im Blick haben.",
                 "hu": "Úgy parkoljon, hogy rálásson a tengerre.",
                 "ro": "Parcați astfel încât să aveți marea în vedere.",
-                "en": "Park so that you have a view of the sea."
+                "en": "Park so that you have a view of the sea.",
+                "hr": "Parkirajte tako da imate pogled na more."
               }
             },
             {
@@ -1577,7 +1637,8 @@
                 "de": "Ein Spaziergang am leeren Strand ist im Winter sehr erholsam.",
                 "hu": "Egy séta az üres strandon télen nagyon pihentető.",
                 "ro": "O plimbare pe plaja goală este foarte relaxantă iarna.",
-                "en": "A walk on the empty beach is very relaxing in winter."
+                "en": "A walk on the empty beach is very relaxing in winter.",
+                "hr": "Šetnja praznom plažom zimi je vrlo opuštajuća."
               }
             },
             {
@@ -1586,7 +1647,8 @@
                 "de": "Vorsicht bei starkem Wind beim Aussteigen aus dem Auto.",
                 "hu": "Vigyázat az erős szélnél az autóból való kiszálláskor.",
                 "ro": "Atenție la vântul puternic când coborâți din mașină.",
-                "en": "Be careful of strong winds when getting out of the car."
+                "en": "Be careful of strong winds when getting out of the car.",
+                "hr": "Pazite na jake vjetrove pri izlasku iz auta."
               }
             },
             {
@@ -1595,7 +1657,8 @@
                 "de": "Genießen Sie die gemütliche Atmosphäre am Kamin, falls vorhanden.",
                 "hu": "Élvezze a kandalló melletti hangulatot, ha van.",
                 "ro": "Bucurați-vă de atmosfera de lângă șemineu, dacă există.",
-                "en": "Enjoy the cozy atmosphere by the fireplace, if available."
+                "en": "Enjoy the cozy atmosphere by the fireplace, if available.",
+                "hr": "Uživajte u ugodnoj atmosferi uz kamin, ako postoji."
               }
             }
           ],
@@ -1629,11 +1692,11 @@
               "Use seat heating for extra comfort after walks."
             ],
             "hr": [
-              "Provjerite tlak u gumama; hladnoća utječe na njega.",
-              "Zimske gume su obavezne u Hrvatskoj u zimskim uvjetima.",
-              "Imajte spreman sprej za odmrzavanje vjetrobranskog stakla.",
-              "Obalne ceste mogu biti skliske tijekom mraza.",
-              "Koristite grijanje sjedala za dodatnu udobnost nakon šetnji."
+              "Provjerite tlak u gumama; hladnoća ga utječe.",
+              "Zimske gume su obvezne u Hrvatskoj u zimskim uvjetima.",
+              "Držite sprej za odleđivanje vjetrobrana pri ruci.",
+              "Primorski putovi mogu biti skliski tijekom poledice.",
+              "Koristite grijače sjedala za dodatnu udobnost nakon šetnji."
             ]
           }
         }
@@ -1652,7 +1715,8 @@
             "de": "Busstation Ližnjan",
             "hu": "Ližnjan buszmegálló",
             "ro": "Stația de autobuz Ližnjan",
-            "en": "Ližnjan Bus Station"
+            "en": "Ližnjan Bus Station",
+            "hr": "Autobusni kolodvor Ližnjan"
           },
           "coords": [
             13.9555,
@@ -1676,7 +1740,8 @@
             "de": "Kirche des Hl. Martin",
             "hu": "Szent Márton-templom",
             "ro": "Biserica Sfântul Martin",
-            "en": "Church of St. Martin"
+            "en": "Church of St. Martin",
+            "hr": "Crkva sv. Martina"
           },
           "coords": [
             13.9562,
@@ -1692,7 +1757,7 @@
             "hu": "Csak rövid séta a megállótól.",
             "ro": "La doar o scurtă plimbare de stație.",
             "en": "Just a short walk from the stop.",
-            "hr": "Samo kratka šetnja od stanice."
+            "hr": "Samo kratak hod od stajališta."
           }
         },
         {
@@ -1700,7 +1765,8 @@
             "de": "Kirche der Muttergottes von Kuj",
             "hu": "Kuji Boldogasszony-templom",
             "ro": "Biserica Maicii Domnului din Kuj",
-            "en": "Church of Mother of God from Kuj"
+            "en": "Church of Mother of God from Kuj",
+            "hr": "Crkva Majke Božje iz Kuj"
           },
           "coords": [
             13.9715,
@@ -1716,7 +1782,7 @@
             "hu": "Túra a mezőkön keresztül a tengerpartig.",
             "ro": "Drumeție prin câmpuri spre coastă.",
             "en": "Hike through the fields to the coast.",
-            "hr": "Pješačenje kroz polja do obale."
+            "hr": "Pješačite kroz polja do obale."
           }
         },
         {
@@ -1724,7 +1790,8 @@
             "de": "Bucht Kuje & Strandzeit",
             "hu": "Kuje-öböl és strandolás",
             "ro": "Golful Kuje și timp de plajă",
-            "en": "Kuje Bay & Beach Time"
+            "en": "Kuje Bay & Beach Time",
+            "hr": "Uvala Kuje i vrijeme na plaži"
           },
           "coords": [
             13.9725,
@@ -1740,7 +1807,7 @@
             "hu": "Élvezze a délutánt a tengerparton.",
             "ro": "Bucurați-vă de după-amiază la mare.",
             "en": "Enjoy the afternoon by the sea.",
-            "hr": "Uživajte u poslijepodnevu uz more."
+            "hr": "Uživajte popodne uz more."
           }
         },
         {
@@ -1748,7 +1815,8 @@
             "de": "Mittagessen in der Dorf-Konoba",
             "hu": "Ebéd a falusi konobában",
             "ro": "Prânz la konoba din sat",
-            "en": "Lunch in the Village Konoba"
+            "en": "Lunch in the Village Konoba",
+            "hr": "Ručak u seoskoj konobi"
           },
           "coords": [
             13.9585,
@@ -1772,7 +1840,8 @@
             "de": "Abschiedsgetränk am Hafen",
             "hu": "Búcsúital a kikötőben",
             "ro": "Băutură de rămas bun în port",
-            "en": "Farewell Drink at the Harbour"
+            "en": "Farewell Drink at the Harbour",
+            "hr": "Zbogom piće u luci"
           },
           "coords": [
             13.965,
@@ -1797,7 +1866,7 @@
         "hu": "Fedezze fel Ližnjant fenntartható módon, tömegközlekedéssel. A buszmegállóba érkezés után csak egy rövid ugrás a Szent Márton-templom.\n\nEgy szép séta vezet végig az isztriai tájon le a Kuje-öbölhöz, ahol megtekintheti a kis kápolnát, és egy hosszú, pihentető délutánt tölthet a strandon.\n\nKésőbb sétáljon vissza a faluba, hogy egy hagyományos konobában felfrissüljön. A napot egy hűsítő itallal zárja a kikötőben, mielőtt felszállna a visszainduló buszra.\n\nEz a mód lehetővé teszi, hogy lelassítsa a tempót és gyalogosan élvezze a környezetet, miközben az autó pihen.",
         "ro": "Explorați Ližnjan în mod sustenabil cu transportul public. După sosirea la stația de autobuz, este doar o scurtă plimbare până la biserica Sfântul Martin.\n\nO plimbare frumoasă vă poartă prin peisajul istrian jos spre golful Kuje, unde puteți vizita mica capelă și puteți petrece o după-amiază lungă și relaxantă pe plajă.\n\nMai târziu, mergeți înapoi în sat pentru a vă reîmprospăta într-o konoba tradițională. Încheiați ziua cu o băutură rece în port înainte de a lua autobuzul înapoi.\n\nAcest mod vă permite să reduceți ritmul și să vă bucurați de împrejurimi pe jos, în timp ce mașina rămâne parcată.",
         "en": "Explore Ližnjan sustainably using public transport. After arriving at the bus station, it's just a short hop to St. Martin's Church.\n\nA lovely walk takes you through the Istrian landscape down to Kuje Bay, where you can visit the small chapel and spend a long, relaxed afternoon on the beach.\n\nLater, hike back to the village to refresh in a traditional konoba. Conclude the day with a cool drink at the harbour before catching the return bus.\n\nThis mode allows you to slow down and enjoy the surroundings on foot while leaving the car behind.",
-        "hr": "Istražite Ližnjan održivo koristeći javni prijevoz. Nakon dolaska na autobusnu stanicu, samo je kratki korak do crkve sv. Martina.\n\nLjupka šetnja vodi vas kroz istarski krajolik do uvale Kuje, gdje možete posjetiti malu kapelicu i provesti dugo, opušteno poslijepodne na plaži.\n\nKasnije se pješke vratite u selo na osvježenje u tradicionalnoj konobi. Dan zaključite hladnim pićem u luci prije povratka autobusom.\n\nOvaj način omogućuje vam da usporite i uživate u okruženju pješice dok automobil ostavljate iza sebe."
+        "hr": "Istražite Ližnjan održivo koristeći javni prijevoz. Nakon dolaska na autobusni kolodvor, do crkve sv. Martina ima samo kratak skok.\n\nLijepa šetnja vodi kroz istarsku krajinu do uvale Kuje, gdje možete posjetiti malu kapelicu i provesti dugo, opušteno popodne na plaži.\n\nKasnije se prošetajte natrag u selo da se osvježite u tradicionalnoj konobi. Dan zaključite hladnim pićem u luci prije povratka autobusom.\n\nOvaj način omogućuje vam da usporite i pješke uživate u okolini, ostavljajući automobil iza sebe."
       },
       "gastro_picks": {
         "de": [
@@ -1922,9 +1991,9 @@
           "Wear sturdy shoes for the unpaved paths."
         ],
         "hr": [
-          "Unaprijed provjerite aktualni vozni red autobusa online.",
-          "Uzmite zaštitu od sunca za šetnju do uvale.",
-          "Nosite čvrstu obuću za neasfaltirane staze."
+          "Provjerite aktualni autobusni raspored online unaprijed.",
+          "Ponesite zaštitu od sunca za šetnju do uvale.",
+          "Nosite čvrstu obuću za neasfaltirane putove."
         ]
       },
       "variants": {
@@ -1934,7 +2003,7 @@
             "hu": "Busszal esőben is biztonságosan elérheti Ližnjant. Töltsön időt a templomokban és a barátságos faluközpontban. Az út a Kuje-öbölhöz esőben kihívást jelenthet, de az Adriára nyíló kilátás kárpótolja. Egy meleg ebéd a nap fénypontja, mielőtt a kikötőben elbúcsúzna a viharos tengertől és visszaszállna a buszra.",
             "ro": "Cu autobuzul ajungeți în siguranță la Ližnjan chiar și pe ploaie. Petreceți timp în biserici și în centrul primitor al satului. Drumul spre golful Kuje e o provocare pe ploaie, dar vederea spre Adriatică merită. Un prânz cald e punctul culminant, înainte de a vă lua rămas bun de la marea agitată în port și a lua busul înapoi.",
             "en": "You can reach Ližnjan safely by bus even in the rain. Spend time in the churches and the cozy village core. The walk to Kuje Bay is a challenge in the rain, but the view of the Adriatic rewards you. A warm lunch is the highlight before you say goodbye to the stormy sea at the harbour and catch the bus back.",
-            "hr": "Do Ližnjana možete sigurno doći autobusom čak i po kiši. Provedite vrijeme u crkvama i ugodnoj jezgri sela. Šetnja do uvale Kuje izazov je na kiši, ali pogled na Jadran vas nagrađuje. Topao ručak je vrhunac prije nego što se u luci oprostite od olujnog mora i krenete autobusom natrag."
+            "hr": "Autobusom sigurno možete stići u Ližnjan i po kiši. Provedite vrijeme u crkvama i u ugodnom seoskom središtu. Šetnja do uvale Kuje po kiši predstavlja izazov, ali pogled na Jadran vas nagrađuje. Topli ručak je vrhunac prije nego pozdravite olujno more u luci i vratite se autobusom."
           },
           "stops": [
             {
@@ -1943,7 +2012,8 @@
                 "de": "Das Wartehäuschen bietet Schutz vor dem ersten Guss.",
                 "hu": "A buszváró védelmet nyújt az első zápor elől.",
                 "ro": "Refugiul din stație oferă protecție de prima aversă.",
-                "en": "The bus shelter provides protection from the first downpour."
+                "en": "The bus shelter provides protection from the first downpour.",
+                "hr": "Autobusna čekaonica pruža zaštitu od prvog pljuska."
               }
             },
             {
@@ -1952,7 +2022,8 @@
                 "de": "Nur ein kurzer Fußweg von der Haltestelle.",
                 "hu": "Csak egy rövid séta a megállótól.",
                 "ro": "Doar o scurtă plimbare de la stație.",
-                "en": "Just a short walk from the bus stop."
+                "en": "Just a short walk from the bus stop.",
+                "hr": "Samo kratak hod od autobusnog stajališta."
               }
             },
             {
@@ -1961,7 +2032,8 @@
                 "de": "Der Weg hierher führt über offenes Gelände; Schirm fest halten.",
                 "hu": "Az idevezető út nyílt terepen visz; fogja erősen az esernyőt.",
                 "ro": "Drumul până aici e pe teren deschis; țineți bine umbrela.",
-                "en": "The path here is across open ground; hold your umbrella tight."
+                "en": "The path here is across open ground; hold your umbrella tight.",
+                "hr": "Put je preko otvorenog terena; držite kišobran čvrsto."
               }
             },
             {
@@ -1970,7 +2042,8 @@
                 "de": "Suchen Sie ein Lokal am Strand für trockene Aussichten.",
                 "hu": "Keressen egy vízparti helyet a száraz kilátáshoz.",
                 "ro": "Căutați un local pe plajă pentru vederi la adăpost.",
-                "en": "Look for a place by the beach for dry views."
+                "en": "Look for a place by the beach for dry views.",
+                "hr": "Potražite mjesto uz plažu za suhe poglede."
               }
             },
             {
@@ -1979,7 +2052,8 @@
                 "de": "Planen Sie genug Zeit ein, um trocken zum Bus zu kommen.",
                 "hu": "Hagyjon elég időt, hogy szárazon érjen a buszhoz.",
                 "ro": "Planificați destul timp pentru a ajunge uscat la autobuz.",
-                "en": "Allow enough time to get to the bus dry."
+                "en": "Allow enough time to get to the bus dry.",
+                "hr": "Ostavite dovoljno vremena da stignete do autobusa suhi."
               }
             },
             {
@@ -1988,7 +2062,8 @@
                 "de": "Ein letzter Blick auf den Regen über dem Meer.",
                 "hu": "Utolsó pillantás a tenger feletti esőre.",
                 "ro": "O ultimă privire spre ploaia de deasupra mării.",
-                "en": "A last look at the rain over the sea."
+                "en": "A last look at the rain over the sea.",
+                "hr": "Posljednji pogled na kišu nad morem."
               }
             }
           ],
@@ -2022,11 +2097,11 @@
               "Village bus stops usually have small shelters."
             ],
             "hr": [
-              "Unaprijed provjerite vozni red autobusa online (Pulapromet).",
-              "Nosite reflektirajuću opremu na kiši radi bolje vidljivosti.",
-              "Pripremite sitniš za autobusnu kartu.",
-              "Autobusi po kiši često voze malo sporije.",
-              "Seoska autobusna stajališta obično imaju male nadstrešnice."
+              "Provjerite autobusni raspored online unaprijed (Pulapromet).",
+              "Nosite reflektirajuću odjeću po kiši radi bolje vidljivosti.",
+              "Imate sitniš spreman za autobusnu kartu.",
+              "Autobusi često voze malo sporije po kiši.",
+              "Seoska autobusna stajališta obično imaju male čekaonice."
             ]
           }
         },
@@ -2036,7 +2111,7 @@
             "hu": "Egy téli buszos kirándulás Ližnjanba a falu legautentikusabb arcát mutatja meg. Érkezés után nézze meg a templomokat és élvezze a csendet. Egy séta a Kuje-öbölhöz a téli napsütésben csodálatos. Az ebéd a konobában felmelegíti, mielőtt egy búcsúital a kikötőben lezárná a kirándulást. Ügyeljen a buszmenetrendre, mert télen ritkább lehet.",
             "ro": "O excursie de iarnă cu autobuzul la Ližnjan arată satul în cea mai autentică formă. După sosire, vizitați bisericile și savurați liniștea. O plimbare spre golful Kuje sub soarele de iarnă e minunată. Prânzul în konoba vă încălzește înainte ca o băutură în port să încheie excursia. Atenție la orar, frecvența autobuzelor poate fi mai mică iarna.",
             "en": "A winter trip by bus to Ližnjan shows the village at its most authentic. After arrival, visit the churches and enjoy the silence. A walk to Kuje Bay in the winter sun is wonderful. Lunch in the konoba warms you up before a farewell drink at the harbour rounds off the trip. Keep an eye on the bus schedule, as frequency may be lower in winter.",
-            "hr": "Zimski izlet autobusom u Ližnjan pokazuje selo u njegovom najautentičnijem izdanju. Nakon dolaska posjetite crkve i uživajte u tišini. Šetnja do uvale Kuje na zimskom suncu je prekrasna. Ručak u konobi će vas ugrijati prije nego što oproštajno piće u luci zaokruži putovanje. Pratite vozni red autobusa jer zimi polasci mogu biti rjeđi."
+            "hr": "Zimski izlet autobusom do Ližnjana pokazuje selo u najautentičnijem izdanju. Nakon dolaska posjetite crkve i uživajte u tišini. Šetnja do uvale Kuje na zimskom suncu je prekrasna. Ručak u konobi vas ugrije prije oprostnog pića u luci koje zaokružuje izlet. Pazite na autobusni raspored, jer učestalost može biti manja zimi."
           },
           "stops": [
             {
@@ -2045,7 +2120,8 @@
                 "de": "Ziehen Sie sich für die Wartezeit an der Haltestelle dick an.",
                 "hu": "Öltözzön fel jól a megállóban való várakozáshoz.",
                 "ro": "Îmbrăcați-vă bine pentru așteptarea în stație.",
-                "en": "Dress warmly for the wait at the bus stop."
+                "en": "Dress warmly for the wait at the bus stop.",
+                "hr": "Toplo se obucite za čekanje na bus-stajalištu."
               }
             },
             {
@@ -2054,7 +2130,8 @@
                 "de": "Ein ruhiger Ort zur Besinnung im Winter.",
                 "hu": "Csendes hely az elmélyüléshez télen.",
                 "ro": "Un loc liniștit pentru reflecție iarna.",
-                "en": "A quiet place for reflection in winter."
+                "en": "A quiet place for reflection in winter.",
+                "hr": "Mirno mjesto za razmišljanje zimi."
               }
             },
             {
@@ -2063,7 +2140,8 @@
                 "de": "Im Winter ist der Weg hierher oft sehr windig.",
                 "hu": "Télen az idevezető út gyakran nagyon szeles.",
                 "ro": "Iarna, drumul până aici este adesea foarte vântos.",
-                "en": "In winter, the path here is often very windy."
+                "en": "In winter, the path here is often very windy.",
+                "hr": "Zimi je ova staza često vrlo vjetrovita."
               }
             },
             {
@@ -2072,7 +2150,8 @@
                 "de": "Genießen Sie die Einsamkeit am Strand.",
                 "hu": "Élvezze a magányt a tengerparton.",
                 "ro": "Bucurați-vă de singurătatea de pe plajă.",
-                "en": "Enjoy the solitude on the beach."
+                "en": "Enjoy the solitude on the beach.",
+                "hr": "Uživajte u samoći na plaži."
               }
             },
             {
@@ -2081,7 +2160,8 @@
                 "de": "Fragen Sie nach dem Tagesgericht (Marenda) für Einheimische.",
                 "hu": "Kérdezzen rá a helyieknek kínált napi ajánlatra (Marenda).",
                 "ro": "Întrebați de meniul zilei (Marenda) pentru localnici.",
-                "en": "Ask for the daily special (Marenda) for locals."
+                "en": "Ask for the daily special (Marenda) for locals.",
+                "hr": "Pitajte za dnevni specijal (Marenda) za lokalce."
               }
             },
             {
@@ -2090,7 +2170,8 @@
                 "de": "Behalten Sie die Zeit für den letzten Bus im Auge.",
                 "hu": "Tartsa szemmel az utolsó busz indulási idejét.",
                 "ro": "Fiți atenți la ora ultimului autobuz.",
-                "en": "Keep an eye on the time for the last bus."
+                "en": "Keep an eye on the time for the last bus.",
+                "hr": "Pazite na vrijeme zbog zadnjeg autobusa."
               }
             }
           ],
@@ -2124,9 +2205,9 @@
               "The last bus often departs early in the evening."
             ],
             "hr": [
-              "Zimi je vikendom manje autobusnih veza.",
-              "Putovanje od Pule do Ližnjana traje oko 20 minuta.",
-              "Autobusi su zimi obično dobro grijani.",
+              "Zimi ima manje autobusnih poveznica vikendom.",
+              "Put od Pule do Ližnjana traje oko 20 minuta.",
+              "Autobusi su obično dobro grijani zimi.",
               "Koristite aplikaciju Pulapromet za informacije u stvarnom vremenu.",
               "Zadnji autobus često polazi rano navečer."
             ]

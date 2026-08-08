@@ -21,7 +21,8 @@
             "de": "Hafen von Malinska",
             "hu": "Malinska kikötő",
             "ro": "Portul Malinska",
-            "en": "Malinska Port"
+            "en": "Malinska Port",
+            "hr": "Malinska Luka"
           },
           "coords": [
             14.5295,
@@ -37,7 +38,7 @@
             "hu": "Reggeli kávé a parton.",
             "ro": "Cafea de dimineață în port.",
             "en": "Morning coffee by the docks.",
-            "hr": "Jutarnja kava uz dokove."
+            "hr": "Jutarnja kava uz pristanište."
           }
         },
         {
@@ -45,7 +46,8 @@
             "de": "DUBoak Interpretationszentrum",
             "hu": "DUBoak Látogatóközpont",
             "ro": "Centrul de Interpretare DUBoak",
-            "en": "DUBoak Interpretation Centre"
+            "en": "DUBoak Interpretation Centre",
+            "hr": "DUBoak Interpretacijski centar"
           },
           "coords": [
             14.531,
@@ -69,7 +71,8 @@
             "de": "Kirche des Hl. Apollinaris",
             "hu": "Szt. Apollinár-templom",
             "ro": "Biserica Sf. Apolinarie",
-            "en": "Church of St. Apollinaris"
+            "en": "Church of St. Apollinaris",
+            "hr": "Crkva sv. Apolinara"
           },
           "coords": [
             14.535,
@@ -93,7 +96,8 @@
             "de": "Mittagessen in Malinska",
             "hu": "Ebéd Malinskában",
             "ro": "Prânz în Malinska",
-            "en": "Lunch in Malinska"
+            "en": "Lunch in Malinska",
+            "hr": "Ručak u Malinskoj"
           },
           "coords": [
             14.5265,
@@ -109,7 +113,7 @@
             "hu": "Kóstolja meg a surlice tésztát.",
             "ro": "Încercați pastele surlice.",
             "en": "Try local surlice pasta.",
-            "hr": "Probajte lokalnu tjesteninu šurlice."
+            "hr": "Probajte domaće šurlice."
           }
         },
         {
@@ -117,7 +121,8 @@
             "de": "Strand Rova",
             "hu": "Rova strand",
             "ro": "Plaja Rova",
-            "en": "Rova Beach"
+            "en": "Rova Beach",
+            "hr": "Plaža Rova"
           },
           "coords": [
             14.518,
@@ -133,7 +138,7 @@
             "hu": "Tiszta víz, családbarát.",
             "ro": "Apă limpede, ideală pentru familii.",
             "en": "Clear water, family friendly.",
-            "hr": "Čisto more, prikladno za obitelji."
+            "hr": "Bistra voda, pogodna za obitelji."
           }
         },
         {
@@ -141,7 +146,8 @@
             "de": "Haludovo Palasthotel",
             "hu": "Haludovo palotaszálló",
             "ro": "Hotelul Haludovo",
-            "en": "Haludovo Palace Hotel"
+            "en": "Haludovo Palace Hotel",
+            "hr": "Hotel Haludovo Palace"
           },
           "coords": [
             14.52,
@@ -157,7 +163,7 @@
             "hu": "Elhagyatott luxus fotóhelyszín.",
             "ro": "Locuri foto în ruine de lux.",
             "en": "Abandoned luxury photo spot.",
-            "hr": "Napušteno luksuzno mjesto za fotografiranje."
+            "hr": "Napučeno mjesto za fotografiranje napuštenog luksuza."
           }
         }
       ],
@@ -166,7 +172,7 @@
         "hu": "Kezdje a napot a nyüzsgő kikötőben és a DUBoak központban. A Szt. Apollinár-templom megtekintése után ebédeljen helyi tengeri ételeket. A délutánt töltse a Rova strandon, majd fedezze fel a Haludovo komplexum kísérteties romjait.",
         "ro": "Începeți ziua în portul vibrant și la centrul DUBoak. După vizitarea bisericii Sf. Apolinarie, savurați fructe de mare locale. După-amiaza este pentru relaxare pe plaja Rova, urmată de o explorare a fascinantului complex Haludovo.",
         "en": "Start your day at the lively harbor and DUBoak center. After visiting St. Apollinaris church, enjoy local seafood. Spend the afternoon relaxing at Rova beach, followed by an exploration of the fascinating abandoned Haludovo complex.",
-        "hr": "Započnite dan u živahnoj luci i centru DUBoak. Nakon posjeta crkvi sv. Apolinara, uživajte u lokalnim morskim plodovima. Provedite poslijepodne opuštajući se na plaži Rova, a zatim istražite fascinantan napušteni kompleks Haludovo."
+        "hr": "Započnite dan u živahnoj luci i DUBoak centru. Nakon posjete crkvi sv. Apolinara uživajte u lokalnim plodovima mora. Poslijepodne se opustite na plaži Rova, a zatim istražite fascinantni napušteni kompleks Haludovo."
       },
       "gastro_picks": {
         "de": [
@@ -308,7 +314,7 @@
         ],
         "hr": [
           "Nosite udobnu obuću za obalne staze.",
-          "Rezervirajte restorane unaprijed tijekom vrhunca sezone."
+          "Rezervirajte restorane unaprijed tijekom visoke sezone."
         ]
       },
       "variants": {
@@ -317,7 +323,8 @@
             "de": "Beginnen Sie den Tag am lebhaften Hafen und im DUBoak-Zentrum. Nach dem Besuch der St. Apollinaris Kirche genießen Sie lokale Meeresfrüchte. Der Nachmittag gehört der Entspannung am Rova Strand, gefolgt von einer Erkundung des faszinierenden Haludovo Komplexes.",
             "hu": "Kezdje a napot a nyüzsgő kikötőben és a DUBoak központban. A Szt. Apollinár-templom megtekintése után ebédeljen helyi tengeri ételeket. A délutánt töltse a Rova strandon, majd fedezze fel a Haludovo komplexum kísérteties romjait.",
             "ro": "Începeți ziua în portul vibrant și la centrul DUBoak. După vizitarea bisericii Sf. Apolinarie, savurați fructe de mare locale. După-amiaza este pentru relaxare pe plaja Rova, urmată de o explorare a fascinantului complex Haludovo.",
-            "en": "Start your day at the lively harbor and DUBoak center. After visiting St. Apollinaris church, enjoy local seafood. Spend the afternoon relaxing at Rova beach, followed by an exploration of the fascinating abandoned Haludovo complex."
+            "en": "Start your day at the lively harbor and DUBoak center. After visiting St. Apollinaris church, enjoy local seafood. Spend the afternoon relaxing at Rova beach, followed by an exploration of the fascinating abandoned Haludovo complex.",
+            "hr": "Započnite dan u živahnoj luci i DUBoak centru. Nakon posjete crkvi sv. Apolinara uživajte u lokalnim plodovima mora. Poslijepodne se opustite na plaži Rova, a zatim istražite fascinantni napušteni kompleks Haludovo."
           },
           "stops": [
             {
@@ -325,13 +332,15 @@
                 "de": "Hafen von Malinska",
                 "hu": "Malinska kikötő",
                 "ro": "Portul Malinska",
-                "en": "Malinska Port"
+                "en": "Malinska Port",
+                "hr": "Malinska Luka"
               },
               "tip_5lang": {
                 "de": "Frischer Kaffee am Morgen.",
                 "hu": "Reggeli kávé a parton.",
                 "ro": "Cafea de dimineață în port.",
-                "en": "Morning coffee by the docks."
+                "en": "Morning coffee by the docks.",
+                "hr": "Jutarnja kava uz pristanište."
               }
             },
             {
@@ -339,13 +348,15 @@
                 "de": "DUBoak Interpretationszentrum",
                 "hu": "DUBoak Látogatóközpont",
                 "ro": "Centrul de Interpretare DUBoak",
-                "en": "DUBoak Interpretation Centre"
+                "en": "DUBoak Interpretation Centre",
+                "hr": "DUBoak Interpretacijski centar"
               },
               "tip_5lang": {
                 "de": "Interaktive Seefahrtsgeschichte.",
                 "hu": "Interaktív hajózási kiállítás.",
                 "ro": "Istorie maritimă interactivă.",
-                "en": "Interactive maritime history."
+                "en": "Interactive maritime history.",
+                "hr": "Interaktivna pomorska povijest."
               }
             },
             {
@@ -353,13 +364,15 @@
                 "de": "Kirche des Hl. Apollinaris",
                 "hu": "Szt. Apollinár-templom",
                 "ro": "Biserica Sf. Apolinarie",
-                "en": "Church of St. Apollinaris"
+                "en": "Church of St. Apollinaris",
+                "hr": "Crkva sv. Apolinara"
               },
               "tip_5lang": {
                 "de": "Wunderschöner Glockenturm.",
                 "hu": "Gyönyörű harangtorony.",
                 "ro": "Turn de clopotniță superb.",
-                "en": "Beautiful bell tower."
+                "en": "Beautiful bell tower.",
+                "hr": "Prekrasan zvonik."
               }
             },
             {
@@ -367,13 +380,15 @@
                 "de": "Mittagessen in Malinska",
                 "hu": "Ebéd Malinskában",
                 "ro": "Prânz în Malinska",
-                "en": "Lunch in Malinska"
+                "en": "Lunch in Malinska",
+                "hr": "Ručak u Malinskoj"
               },
               "tip_5lang": {
                 "de": "Probieren Sie Surlice Nudeln.",
                 "hu": "Kóstolja meg a surlice tésztát.",
                 "ro": "Încercați pastele surlice.",
-                "en": "Try local surlice pasta."
+                "en": "Try local surlice pasta.",
+                "hr": "Probajte domaće šurlice."
               }
             },
             {
@@ -381,13 +396,15 @@
                 "de": "Strand Rova",
                 "hu": "Rova strand",
                 "ro": "Plaja Rova",
-                "en": "Rova Beach"
+                "en": "Rova Beach",
+                "hr": "Plaža Rova"
               },
               "tip_5lang": {
                 "de": "Klares Wasser, ideal für Familien.",
                 "hu": "Tiszta víz, családbarát.",
                 "ro": "Apă limpede, ideală pentru familii.",
-                "en": "Clear water, family friendly."
+                "en": "Clear water, family friendly.",
+                "hr": "Bistra voda, pogodna za obitelji."
               }
             },
             {
@@ -395,13 +412,15 @@
                 "de": "Haludovo Palasthotel",
                 "hu": "Haludovo palotaszálló",
                 "ro": "Hotelul Haludovo",
-                "en": "Haludovo Palace Hotel"
+                "en": "Haludovo Palace Hotel",
+                "hr": "Hotel Haludovo Palace"
               },
               "tip_5lang": {
                 "de": "Verlassene Glamour-Fotospots.",
                 "hu": "Elhagyatott luxus fotóhelyszín.",
                 "ro": "Locuri foto în ruine de lux.",
-                "en": "Abandoned luxury photo spot."
+                "en": "Abandoned luxury photo spot.",
+                "hr": "Mjesto za fotografiranje napuštenog luksuza."
               }
             }
           ],
@@ -519,6 +538,10 @@
             "en": [
               "Wear comfortable shoes for coastal paths.",
               "Book restaurants in advance during high season."
+            ],
+            "hr": [
+              "Nosite udobnu obuću za obalne staze.",
+              "Rezervirajte restorane unaprijed tijekom visoke sezone."
             ]
           }
         },
@@ -528,7 +551,7 @@
             "hu": "Reggel a malinskai kikötő melankolikus látványt nyújt az esernyő alól. A DUBoak központ meleg, száraz menedéket kínál a hajózási múlt felfedezéséhez. Ebédre egy helyi ragu melengeti meg a testet és lelket egy barátságos étteremben. A délutáni séta a Rova strandhoz az illatos fenyvesen át az esőben különösen frissítő, mielőtt a nap a Haludovo szálloda titokzatos romjainál zárulna.",
             "ro": "Dimineața, portul Malinska oferă un decor melancolic sub umbrelă. Centrul DUBoak oferă un refugiu cald și uscat pentru a explora istoria maritimă. La prânz, o tocană locală încălzește corpul și sufletul într-un restaurant primitor. Plimbarea de după-amiază spre plaja Rova prin pădurea de pini parfumată este deosebit de răcoritoare în ploaie, înainte ca ziua să se încheie la ruinele misterioase ale hotelului Haludovo.",
             "en": "In the morning, Malinska Port offers a melancholic backdrop from under an umbrella. The DUBoak center provides a warm, dry sanctuary to explore maritime history. At lunch, a local stew warms the body and soul in a cozy restaurant. The afternoon walk to Rova Beach through the fragrant pine forest is particularly refreshing in the rain, before the day ends at the mysterious ruins of the Haludovo Hotel.",
-            "hr": "Ujutro luka Malinska pod kišobranom nudi melankoličnu kulisu. Centar DUBoak pruža toplo i suho utočište za istraživanje pomorske povijesti. Za ručak će domaće varivo ugrijati tijelo i dušu u ugodnom restoranu. Poslijepodnevna šetnja do plaže Rova kroz mirisnu borovu šumu posebno je osvježavajuća na kiši, prije nego što dan završi u tajanstvenim ruševinama hotela Haludovo."
+            "hr": "Ujutro Malinska luka nudi melankoličnu pozadinu iz pod kišobranom. DUBoak centar pruža toplo, suho utočište za istraživanje pomorske povijesti. Za ručak lokalni gulaš grije tijelo i dušu u ugodnom restoranu. Poslijepodnevna šetnja do plaže Rova kroz mirisnu borovu šumu posebno je osvježavajuća po kiši, prije nego dan završi na tajanstvenim ruševinama hotela Haludovo."
           },
           "stops": [
             {
@@ -538,7 +561,7 @@
                 "hu": "Vigyázzon a vizes kőlapokon a mólónál.",
                 "ro": "Atenție la plăcile de piatră umede de pe debarcader.",
                 "en": "Watch out for wet stone slabs at the pier.",
-                "hr": "Pazite na mokre kamene ploče na gatu."
+                "hr": "Pazite na mokre kamene ploče na molu."
               }
             },
             {
@@ -548,7 +571,7 @@
                 "hu": "Tökéletes hely az eső elől való behúzódásra.",
                 "ro": "Locul perfect pentru a te adăposti de ploaie.",
                 "en": "Perfect place to stay dry during a downpour.",
-                "hr": "Savršeno mjesto da ostanete suhi tijekom pljuska."
+                "hr": "Savršeno mjesto za ostati na suhom tijekom pljuska."
               }
             },
             {
@@ -558,7 +581,7 @@
                 "hu": "A templom csendes, fedett pihenőt nyújt.",
                 "ro": "Biserica oferă un răgaz liniștit și acoperit.",
                 "en": "The church offers a quiet, covered respite.",
-                "hr": "Crkva nudi miran, natkriven predah."
+                "hr": "Crkva nudi miran, natkriveni predah."
               }
             },
             {
@@ -568,7 +591,7 @@
                 "hu": "Kérjen ablak melletti asztalt az eső figyeléséhez.",
                 "ro": "Cereți o masă la fereastră pentru a privi ploaia.",
                 "en": "Ask for a window seat to watch the rain.",
-                "hr": "Zatražite stol uz prozor kako biste gledali kišu."
+                "hr": "Tražite mjesto uz prozor da gledate kišu."
               }
             },
             {
@@ -578,7 +601,7 @@
                 "hu": "A fenyves természetes védelmet nyújt az enyhe eső ellen.",
                 "ro": "Pădurea de pini oferă adăpost natural împotriva ploii ușoare.",
                 "en": "The pine forest provides natural shelter from light rain.",
-                "hr": "Borova šuma pruža prirodni zaklon od lagane kiše."
+                "hr": "Borova šuma pruža prirodno sklonište od sitne kiše."
               }
             },
             {
@@ -588,7 +611,7 @@
                 "hu": "Nedves időben csak zárt cipőben lépjen a romok közé.",
                 "ro": "Intrați în ruine pe timp umed doar cu încălțăminte solidă.",
                 "en": "Enter the ruins in wet weather only with sturdy shoes.",
-                "hr": "U ruševine po mokrom vremenu ulazite samo u čvrstoj obući."
+                "hr": "Uđite u ruševine po vlažnom vremenu samo u čvrstoj obući."
               }
             }
           ],
@@ -622,11 +645,11 @@
               "A folding umbrella is often more practical in Krk's wind gusts than a large one."
             ],
             "hr": [
-              "Nosite vodootpornu obuću jer obalna šetnica može postati skliska.",
-              "Iskoristite pauze od kiše za fotografiranje maglovite luke.",
+              "Nosite nepropusnu obuću jer šetnica uz more može postati skliska.",
+              "Iskoristite prekide u kiši za fotografiranje maglovite luke.",
               "Muzej DUBoak je klimatiziran i nudi ormariće za mokre kapute.",
               "Potražite male kafiće s natkrivenim terasama za predah.",
-              "Sklopivi kišobran često je praktičniji od velikog zbog udara vjetra na Krku."
+              "Skadivi kišobran često je praktičniji u krčkim naletima vjetra od velikog kišobrana."
             ]
           }
         },
@@ -636,7 +659,7 @@
             "hu": "A téli reggel a kikötőben frissítő és békés, a nyári tömeg nélkül. A DUBoak központ meghitt betekintést nyújt a szigeti kultúrába, miközben felmelegszünk. Ebédre meleg mediterrán különlegességek csábítanak a kevés nyitva tartó taverna egyikében. Egy tempós délutáni séta a strandon a lemenő napfényben megmutatja az Adria vad szépségét, mielőtt a korai szürkület mágikus fénybe vonja a Haludovo területét.",
             "ro": "Dimineața de iarnă în port este revigorantă și liniștită, fără mulțimile de vară. Centrul DUBoak oferă o perspectivă intimă asupra culturii insulare în timp ce vă încălziți. La prânz, specialitățile mediteraneene calde vă atrag în puținele taverne deschise. O plimbare rapidă de după-amiază pe plajă sub soarele palid arată frumusețea sălbatică a Adriaticii, înainte ca amurgul timpuriu să scalde zona Haludovo într-o lumină magică.",
             "en": "The winter morning at the port is invigorating and peaceful, without the summer crowds. The DUBoak center offers a cozy insight into island culture while you warm up. At lunch, warm Mediterranean specialties beckon in one of the few open taverns. A brisk afternoon walk to the beach in the low sun shows the wild beauty of the Adriatic, before the early dusk bathes the Haludovo area in a magical light.",
-            "hr": "Zimsko jutro u luci je okrepljujuće i mirno, bez ljetnih gužvi. Centar DUBoak nudi ugodan uvid u otočku kulturu dok se grijete. Za ručak mame topli mediteranski specijaliteti u jednoj od rijetkih otvorenih konoba. Žustra poslijepodnevna šetnja do plaže pod niskim suncem pokazuje divlju ljepotu Jadrana, prije nego što rani sumrak okupa područje Haludova u čarobnom svjetlu."
+            "hr": "Zimsko jutro u luci osvježavajuće je i mirno, bez ljetnih gužvi. DUBoak centar nudi ugodan uvid u otočnu kulturu dok se grijete. Za ručak zovu tople mediteranske delicije u jednoj od rijetkih otvorenih konoba. Brza poslijepodnevna šetnja prema plaži u niskom suncu pokazuje divlju ljepotu Jadrana, prije nego rani sumrak obasja područje Haludova čarobnim svjetlom."
           },
           "stops": [
             {
@@ -646,7 +669,7 @@
                 "hu": "Meleg ruházat elengedhetetlen a bóra szél ellen.",
                 "ro": "Îmbrăcămintea groasă este esențială împotriva vântului Bura.",
                 "en": "Warm clothing against the Bura winds is essential.",
-                "hr": "Topla odjeća protiv bure je neophodna."
+                "hr": "Topla odjeća protiv buri je neophodna."
               }
             },
             {
@@ -666,7 +689,7 @@
                 "hu": "Belül gyakran melegebb van, mint kint a tengerparton.",
                 "ro": "În interior este adesea mai cald decât afară, la malul mării.",
                 "en": "It is often warmer inside than outside by the sea.",
-                "hr": "Unutra je često toplije nego vani uz more."
+                "hr": "Često je unutra toplije nego van uz more."
               }
             },
             {
@@ -676,7 +699,7 @@
                 "hu": "Kóstolja meg a báránygulyásos Šurlicét az erőgyűjtéshez.",
                 "ro": "Încercați Šurlice cu gulaș de miel pentru energie.",
                 "en": "Try Šurlice with lamb goulash for energy.",
-                "hr": "Probajte šurlice s janjećim gulašom za energiju."
+                "hr": "Probajte šurlice s janjetinom za energiju."
               }
             },
             {
@@ -686,7 +709,7 @@
                 "hu": "Ideális időpont magányos tengerparti sétákhoz.",
                 "ro": "Moment ideal pentru plimbări solitare pe plajă.",
                 "en": "Ideal time for solitary beach walks.",
-                "hr": "Idealno vrijeme za osamljene šetnje plažom."
+                "hr": "Idealno vrijeme za samotne šetnje plažom."
               }
             },
             {
@@ -696,7 +719,7 @@
                 "hu": "Látogassa meg a területet 16:30 előtt (naplemente).",
                 "ro": "Vizitați locația înainte de 16:30 (apusul soarelui).",
                 "en": "Visit the site before 4:30 PM (sunset).",
-                "hr": "Posjetite lokalitet prije 16:30 (zalazak sunca)."
+                "hr": "Posjetite mjesto prije 16:30 (zalazak sunca)."
               }
             }
           ],
@@ -731,8 +754,8 @@
             ],
             "hr": [
               "Slojevita odjeća štiti od hladnog vjetra.",
-              "Zimi sunce zalazi oko 16:30.",
-              "Mnogi su kafići zimi zatvoreni; potražite otvorene u centru.",
+              "Sunce zalazi oko 16:30 zimi.",
+              "Mnogi kafići zimi su zatvoreni; potražite otvorene u centru.",
               "Uživajte u čistom pogledu sve do otoka Cresa.",
               "Topla čokolada u luci savršen je završetak."
             ]
@@ -753,7 +776,8 @@
             "de": "Paradiesweg",
             "hu": "Paradicsom-út",
             "ro": "Calea Paradisului",
-            "en": "Paradise Way"
+            "en": "Paradise Way",
+            "hr": "Put Raja"
           },
           "coords": [
             14.52,
@@ -769,7 +793,7 @@
             "hu": "Gyönyörű árnyas út fenyők alatt.",
             "ro": "Umbră minunată sub pini.",
             "en": "Beautiful shade under pines.",
-            "hr": "Prekrasna hladovina ispod borova."
+            "hr": "Prekrasna hladovina pod borovima."
           }
         },
         {
@@ -777,7 +801,8 @@
             "de": "Kloster Porat",
             "hu": "Porati kolostor",
             "ro": "Mănăstirea Porat",
-            "en": "Porat Monastery"
+            "en": "Porat Monastery",
+            "hr": "Samostan Porat"
           },
           "coords": [
             14.492,
@@ -793,7 +818,7 @@
             "hu": "Nézze meg a glagolita múzeumot.",
             "ro": "Vizitați muzeul glagolitic.",
             "en": "Visit the Glagolitic museum.",
-            "hr": "Posjetite glagoljaški muzej."
+            "hr": "Posjetite glagoljački muzej."
           }
         },
         {
@@ -801,7 +826,8 @@
             "de": "Mittagessen in Porat",
             "hu": "Ebéd Poratban",
             "ro": "Prânz în Porat",
-            "en": "Lunch in Porat"
+            "en": "Lunch in Porat",
+            "hr": "Ručak u Poratu"
           },
           "coords": [
             14.49,
@@ -817,7 +843,7 @@
             "hu": "A garnéla kiváló itt.",
             "ro": "Creveții sunt excelenți aici.",
             "en": "Shrimp is excellent here.",
-            "hr": "Škampi su ovdje izvrsni."
+            "hr": "Gurmaniština s kozicama ovdje je izvrsna."
           }
         },
         {
@@ -825,7 +851,8 @@
             "de": "Archäologische Stätte Cickini",
             "hu": "Cickini régészeti lelőhely",
             "ro": "Situl arheologic Cickini",
-            "en": "Cickini Archaeological Site"
+            "en": "Cickini Archaeological Site",
+            "hr": "Arheološko nalazište Cickini"
           },
           "coords": [
             14.538,
@@ -841,7 +868,7 @@
             "hu": "Késő antik templomromok az erdőben.",
             "ro": "Ruine de biserică din antichitatea târzie.",
             "en": "Late antique church ruins in the woods.",
-            "hr": "Ruševine kasnoantičke crkve u šumi."
+            "hr": "Rane antičke crkvene ruševine u šumi."
           }
         },
         {
@@ -849,7 +876,8 @@
             "de": "Strand Rova",
             "hu": "Rova strand",
             "ro": "Plaja Rova",
-            "en": "Rova Beach"
+            "en": "Rova Beach",
+            "hr": "Plaža Rova"
           },
           "coords": [
             14.518,
@@ -874,7 +902,7 @@
         "hu": "Tekerjen a Paradicsom-úton Poratig a történelmi kolostorhoz. Egy tengeri ebéd után induljon a szárazföld felé a Cickini lelőhelyhez, majd zárja a napot a Rova strandon.",
         "ro": "Pedalați pe Calea Paradisului până la Porat, la mănăstirea istorică. După un prânz cu fructe de mare, mergeți spre interior la situl Cickini, înainte de a încheia ziua pe plaja Rova.",
         "en": "Cycle along Paradise Way to Porat and its historical monastery. After a seafood lunch, head inland to the Cickini site before finishing your day at Rova beach.",
-        "hr": "Vozite bicikl Rajskim putem do Porata i njegovog povijesnog samostana. Nakon ručka s morskim plodovima, uputite se u unutrašnjost do lokaliteta Cickini prije završetka dana na plaži Rova."
+        "hr": "Biciklirajte Putem Raja do Porata i njegove povijesne opatije. Nakon ribljeg ručka, uputite se u unutrašnjost do nalazišta Cickini prije nego dan završite na plaži Rova."
       },
       "gastro_picks": {
         "de": [
@@ -996,7 +1024,7 @@
         ],
         "hr": [
           "Ponesite dovoljno vode.",
-          "Staze do Cickina su dijelom makadamske."
+          "Staze prema Cickinima su djelomično makadamske."
         ]
       },
       "variants": {
@@ -1005,7 +1033,8 @@
             "de": "Radeln Sie entlang des Paradieswegs nach Porat zum historischen Kloster. Nach einem Meeresfrüchte-Mittagessen geht es landeinwärts zur Cickini-Stätte, bevor Sie den Tag am Strand Rova ausklingen lassen.",
             "hu": "Tekerjen a Paradicsom-úton Poratig a történelmi kolostorhoz. Egy tengeri ebéd után induljon a szárazföld felé a Cickini lelőhelyhez, majd zárja a napot a Rova strandon.",
             "ro": "Pedalați pe Calea Paradisului până la Porat, la mănăstirea istorică. După un prânz cu fructe de mare, mergeți spre interior la situl Cickini, înainte de a încheia ziua pe plaja Rova.",
-            "en": "Cycle along Paradise Way to Porat and its historical monastery. After a seafood lunch, head inland to the Cickini site before finishing your day at Rova beach."
+            "en": "Cycle along Paradise Way to Porat and its historical monastery. After a seafood lunch, head inland to the Cickini site before finishing your day at Rova beach.",
+            "hr": "Biciklirajte Putem Raja do Porata i njegove povijesne opatije. Nakon ribljeg ručka, uputite se u unutrašnjost do nalazišta Cickini prije nego dan završite na plaži Rova."
           },
           "stops": [
             {
@@ -1013,13 +1042,15 @@
                 "de": "Paradiesweg",
                 "hu": "Paradicsom-út",
                 "ro": "Calea Paradisului",
-                "en": "Paradise Way"
+                "en": "Paradise Way",
+                "hr": "Put Raja"
               },
               "tip_5lang": {
                 "de": "Wunderschöner Schatten unter Pinien.",
                 "hu": "Gyönyörű árnyas út fenyők alatt.",
                 "ro": "Umbră minunată sub pini.",
-                "en": "Beautiful shade under pines."
+                "en": "Beautiful shade under pines.",
+                "hr": "Prekrasna hladovina pod borovima."
               }
             },
             {
@@ -1027,13 +1058,15 @@
                 "de": "Kloster Porat",
                 "hu": "Porati kolostor",
                 "ro": "Mănăstirea Porat",
-                "en": "Porat Monastery"
+                "en": "Porat Monastery",
+                "hr": "Samostan Porat"
               },
               "tip_5lang": {
                 "de": "Museum der Glagoliza besuchen.",
                 "hu": "Nézze meg a glagolita múzeumot.",
                 "ro": "Vizitați muzeul glagolitic.",
-                "en": "Visit the Glagolitic museum."
+                "en": "Visit the Glagolitic museum.",
+                "hr": "Posjetite glagoljački muzej."
               }
             },
             {
@@ -1041,13 +1074,15 @@
                 "de": "Mittagessen in Porat",
                 "hu": "Ebéd Poratban",
                 "ro": "Prânz în Porat",
-                "en": "Lunch in Porat"
+                "en": "Lunch in Porat",
+                "hr": "Ručak u Poratu"
               },
               "tip_5lang": {
                 "de": "Garnelen sind hier exzellent.",
                 "hu": "A garnéla kiváló itt.",
                 "ro": "Creveții sunt excelenți aici.",
-                "en": "Shrimp is excellent here."
+                "en": "Shrimp is excellent here.",
+                "hr": "Kozice su ovdje izvrsne."
               }
             },
             {
@@ -1055,13 +1090,15 @@
                 "de": "Archäologische Stätte Cickini",
                 "hu": "Cickini régészeti lelőhely",
                 "ro": "Situl arheologic Cickini",
-                "en": "Cickini Archaeological Site"
+                "en": "Cickini Archaeological Site",
+                "hr": "Arheološko nalazište Cickini"
               },
               "tip_5lang": {
                 "de": "Spätantike Kirchenruinen im Wald.",
                 "hu": "Késő antik templomromok az erdőben.",
                 "ro": "Ruine de biserică din antichitatea târzie.",
-                "en": "Late antique church ruins in the woods."
+                "en": "Late antique church ruins in the woods.",
+                "hr": "Rane antičke crkvene ruševine u šumi."
               }
             },
             {
@@ -1069,13 +1106,15 @@
                 "de": "Strand Rova",
                 "hu": "Rova strand",
                 "ro": "Plaja Rova",
-                "en": "Rova Beach"
+                "en": "Rova Beach",
+                "hr": "Plaža Rova"
               },
               "tip_5lang": {
                 "de": "Entspannung nach der Fahrt.",
                 "hu": "Pihenés a tekerés után.",
                 "ro": "Relaxare după plimbare.",
-                "en": "Relaxation after the ride."
+                "en": "Relaxation after the ride.",
+                "hr": "Opuštanje nakon vožnje."
               }
             }
           ],
@@ -1177,6 +1216,10 @@
             "en": [
               "Take plenty of water.",
               "The paths to Cickini are partly gravel."
+            ],
+            "hr": [
+              "Ponesite dovoljno vode.",
+              "Staze do Cickini djelomično su makadam."
             ]
           }
         },
@@ -1186,7 +1229,7 @@
             "hu": "Az esős kezdés a Paradicsom úton óvatosságot igényel, de misztikus erdei hangulatot áraszt. A porati kolostor csendes menedék a zivatar elől. Ebédre a helyi tenger gyümölcsei tartják a lelket, amíg a ruhák száradnak. Cickini régészeti lelőhelye az esőben mintha egy másik korból származna, mielőtt a visszautat a Rova strand érintésével tennénk meg.",
             "ro": "Un început ploios pe Calea Paradisului necesită prudență, dar oferă o atmosferă mistică de pădure. Mănăstirea Porat este un refugiu liniștit de ploaie. La prânz, fructele de mare locale ridică moralul în timp ce hainele se usucă. Situl arheologic Cickini pare din altă eră în ploaie, înainte ca drumul de întoarcere să treacă pe lângă plaja Rova.",
             "en": "A rainy start on the Paradise Way requires caution but offers a mystical forest atmosphere. Porat Monastery is a quiet refuge from the downpour. At lunch, local seafood boosts morale while clothes dry. The Cickini archaeological site seems like it's from another era in the rain, before the return journey takes you past Rova Beach.",
-            "hr": "Kišni početak na Rajskom putu zahtijeva oprez, ali nudi mističnu šumsku atmosferu. Samostan u Poratu tiho je utočište od pljuska. Za ručak lokalni morski plodovi podižu moral dok se odjeća suši. Arheološko nalazište Cickini na kiši djeluje kao iz nekog drugog vremena, prije nego što vas povratak odvede pored plaže Rova."
+            "hr": "Kišni početak na Putu Raja zahtijeva oprez, ali nudi mističnu atmosferu šume. Samostan Porat je mirno utočište od pljuska. Za ručak lokalne morske delicije podižu raspoloženje dok se odjeća suši. Arheološko nalazište Cickini u kiši izgleda kao iz druge epohe, prije povratka koji prolazi pored plaže Rova."
           },
           "stops": [
             {
@@ -1196,7 +1239,7 @@
                 "hu": "Vigyázzon a csúszós gyökerekkel és nedves kövekkel.",
                 "ro": "Atenție la rădăcinile alunecoase și pietrele ude.",
                 "en": "Watch out for slippery roots and wet stones.",
-                "hr": "Pazite na sklisko korijenje i mokro kamenje."
+                "hr": "Pazite na skliske korijene i mokre kamene."
               }
             },
             {
@@ -1206,7 +1249,7 @@
                 "hu": "Használja a kerengőt eső elleni védelemként.",
                 "ro": "Folosiți claustrul ca adăpost împotriva ploii.",
                 "en": "Use the cloister as shelter from the rain.",
-                "hr": "Koristite klaustar kao zaklon od kiše."
+                "hr": "Iskoristite klaustar kao zaklon od kiše."
               }
             },
             {
@@ -1216,7 +1259,7 @@
                 "hu": "Keressen fedett biciklitárolóval rendelkező éttermet.",
                 "ro": "Căutați un restaurant cu suporturi de biciclete acoperite.",
                 "en": "Look for a restaurant with covered bike racks.",
-                "hr": "Potražite restoran s natkrivenim stalcima za bicikle."
+                "hr": "Potražite restoran s natkrivenim stalkovima za bicikle."
               }
             },
             {
@@ -1226,7 +1269,7 @@
                 "hu": "A talaj itt eső után nagyon sáros lehet.",
                 "ro": "Solul poate fi foarte noroios aici după ploaie.",
                 "en": "The ground here can be very muddy after rain.",
-                "hr": "Tlo ovdje može biti vrlo blatno nakon kiše."
+                "hr": "Tlo ovdje nakon kiše može biti vrlo blatozno."
               }
             },
             {
@@ -1236,7 +1279,7 @@
                 "hu": "Rövid pihenő a sűrű fenyőágak alatt.",
                 "ro": "Scurt popas sub coroanele dese ale pinilor.",
                 "en": "Short rest under the dense pine canopies.",
-                "hr": "Kratki odmor ispod gustih krošnji borova."
+                "hr": "Kratki odmor pod gustim borovim krošnjama."
               }
             }
           ],
@@ -1270,11 +1313,11 @@
               "A hot tea in Porat works wonders against the cold."
             ],
             "hr": [
-              "Blatobrani na biciklu su neophodni u ovom vremenu.",
-              "Važni su testovi kočnica na mokrom asfaltu.",
-              "Spakirajte dragocjenosti u vodootporne torbe.",
+              "Blatobrani na biciklu su nezamjenjivi u ovakvom vremenu.",
+              "Isprobavanje kočnica na mokrom asfaltu važno je.",
+              "Spakirajte vrijednosti u vodootporne vreće.",
               "Izbjegavajte neasfaltirane šumske staze tijekom jake kiše.",
-              "Vrući čaj u Poratu čini čuda protiv hladnoće."
+              "Topli čaj u Poratu čini čuda protiv hladnoće."
             ]
           }
         },
@@ -1284,7 +1327,7 @@
             "hu": "A téli túra a Paradicsom úton frissítő és kristálytiszta kilátást nyújt a tengerre. A porati kolostor mély nyugalmat áraszt a hideg levegőben. Ebédre egy laktató leves melenget egy rusztikus tavernában. Cickini romjai téli álmot aludva pihennek az erdőben, mielőtt a túra a Rova strandon zárulna a látványos téli fényekben.",
             "ro": "Un tur de iarnă pe Calea Paradisului este revigorant și oferă vederi cristaline spre mare. Mănăstirea Porat emană o liniște profundă în aerul rece. La prânz, o supă consistentă vă încălzește într-o tavernă rustică. Ruinele din Cickini se odihnesc pașnic în pădure, înainte ca turul să se încheie pe plaja Rova în luminile spectaculoase de iarnă.",
             "en": "A winter tour on the Paradise Way is refreshing and offers crystal-clear sea views. Porat Monastery emanates deep tranquility in the cold air. At lunch, a hearty soup warms you up in a rustic tavern. The ruins of Cickini lie peacefully in the forest, before the tour ends at Rova Beach in spectacular winter light.",
-            "hr": "Zimska tura Rajskim putem osvježava i nudi kristalno čist pogled na more. Samostan u Poratu zrači dubokim mirom na hladnom zraku. Za ručak će vas zagrijati krepka juha u rustikalnoj konobi. Ruševine Cickina mirno leže u šumi, prije nego što tura završi na plaži Rova u spektakularnom zimskom svjetlu."
+            "hr": "Zimska tura Putem Raja osvježava i nudi kristalno čiste poglede na more. Samostan Porat isijava duboki mir u hladnom zraku. Za ručak gusta juha grije u rustikalnoj konobi. Ruševine Cickini mirno leže u šumi, prije nego tura završi na plaži Rova u spektakularnom zimskom svjetlu."
           },
           "stops": [
             {
@@ -1294,7 +1337,7 @@
                 "hu": "Szélálló ruházat kötelező itt a tengerparton.",
                 "ro": "Îmbrăcămintea rezistentă la vânt este obligatorie la mare.",
                 "en": "Windproof clothing is mandatory here by the sea.",
-                "hr": "Odjeća otporna na vjetar ovdje je obavezna uz more."
+                "hr": "Vjetrootporna odjeća ovdje uz more je obavezna."
               }
             },
             {
@@ -1304,7 +1347,7 @@
                 "hu": "Látogassa meg a múzeumot a felmelegedéshez.",
                 "ro": "Vizitați muzeul pentru a vă încălzi.",
                 "en": "Visit the museum to warm up.",
-                "hr": "Posjetite muzej kako biste se ugrijali."
+                "hr": "Posjetite muzej da se ugrijete."
               }
             },
             {
@@ -1314,7 +1357,7 @@
                 "hu": "Kérjen regionális sült húsételeket.",
                 "ro": "Cereți preparate regionale din carne la grătar.",
                 "en": "Ask for regional grilled meat dishes.",
-                "hr": "Zatražite regionalna jela od mesa s roštilja."
+                "hr": "Tražite regionalna jela s roštilja od mesa."
               }
             },
             {
@@ -1324,7 +1367,7 @@
                 "hu": "Vigyen elemlámpát a késői visszautazáshoz.",
                 "ro": "Luați o lanternă pentru drumul de întoarcere târziu.",
                 "en": "Take a flashlight for the late return trip.",
-                "hr": "Uzmite svjetiljku za kasni povratak."
+                "hr": "Ponesite baterijsku svjetiljku za kasniji povratak."
               }
             },
             {
@@ -1334,7 +1377,7 @@
                 "hu": "Rövid megálló fotózáshoz az alacsony napállásnál.",
                 "ro": "Scurtă oprire pentru fotografii la apus.",
                 "en": "Short stop for photos in the low sun.",
-                "hr": "Kratko zaustavljanje za fotografije pod niskim suncem."
+                "hr": "Kratka pauza za fotografije pri niskom suncu."
               }
             }
           ],
@@ -1368,9 +1411,9 @@
               "Bright clothing increases visibility at dusk."
             ],
             "hr": [
-              "Nosite termo donje rublje i rukavice.",
-              "Dani su kratki; krenite na vrijeme u 09:00.",
-              "Izbjegavajte sjenovite staze gdje se mraz može zadržati.",
+              "Nosite termalno rublje i rukavice.",
+              "Dani su kratki; krenite na vrijeme u 9:00.",
+              "Izbjegavajte sjenovite staze gdje se smrzavanje može zadržati.",
               "Provjerite tlak u gumama prije polaska.",
               "Svijetla odjeća povećava vidljivost u sumrak."
             ]
@@ -1391,7 +1434,8 @@
             "de": "Kirche des Hl. Apollinaris",
             "hu": "Szt. Apollinár-templom",
             "ro": "Biserica Sf. Apolinarie",
-            "en": "Church of St. Apollinaris"
+            "en": "Church of St. Apollinaris",
+            "hr": "Crkva sv. Apolinara"
           },
           "coords": [
             14.535,
@@ -1407,7 +1451,7 @@
             "hu": "Jó parkolási lehetőség.",
             "ro": "Parcare disponibilă.",
             "en": "Good parking available.",
-            "hr": "Dostupan dobar parking."
+            "hr": "Dostupno dobro parkiranje."
           }
         },
         {
@@ -1415,7 +1459,8 @@
             "de": "Kloster Porat",
             "hu": "Porati kolostor",
             "ro": "Mănăstirea Porat",
-            "en": "Porat Monastery"
+            "en": "Porat Monastery",
+            "hr": "Samostan Porat"
           },
           "coords": [
             14.492,
@@ -1431,7 +1476,7 @@
             "hu": "Csendes kolostorkert.",
             "ro": "Grădină mănăstirească liniștită.",
             "en": "Quiet monastery garden.",
-            "hr": "Mirni samostanski vrt."
+            "hr": "Tihi samostanski vrt."
           }
         },
         {
@@ -1439,7 +1484,8 @@
             "de": "Archäologische Stätte Cickini",
             "hu": "Cickini régészeti lelőhely",
             "ro": "Situl arheologic Cickini",
-            "en": "Cickini Archaeological Site"
+            "en": "Cickini Archaeological Site",
+            "hr": "Arheološko nalazište Cickini"
           },
           "coords": [
             14.538,
@@ -1455,7 +1501,7 @@
             "hu": "Rövid séta a parkolótól.",
             "ro": "Scurtă plimbare de la parcare.",
             "en": "Short walk from parking.",
-            "hr": "Kratka šetnja od parkinga."
+            "hr": "Kratka šetnja od parkirališta."
           }
         },
         {
@@ -1463,7 +1509,8 @@
             "de": "Mittagessen in Malinska",
             "hu": "Ebéd Malinskában",
             "ro": "Prânz în Malinska",
-            "en": "Lunch in Malinska"
+            "en": "Lunch in Malinska",
+            "hr": "Ručak u Malinskoj"
           },
           "coords": [
             14.529,
@@ -1487,7 +1534,8 @@
             "de": "Strand Rova",
             "hu": "Rova strand",
             "ro": "Plaja Rova",
-            "en": "Rova Beach"
+            "en": "Rova Beach",
+            "hr": "Plaža Rova"
           },
           "coords": [
             14.518,
@@ -1503,7 +1551,7 @@
             "hu": "Béreljen napernyőt.",
             "ro": "Închiriați o umbrelă.",
             "en": "Rent a sunshade.",
-            "hr": "Unajmite suncobran."
+            "hr": "Iznajmite suncobran."
           }
         },
         {
@@ -1511,7 +1559,8 @@
             "de": "Glavotok (Ausflug)",
             "hu": "Glavotok (kirándulás)",
             "ro": "Glavotok (excursie)",
-            "en": "Glavotok (excursion)"
+            "en": "Glavotok (excursion)",
+            "hr": "Glavotok (izlet)"
           },
           "coords": [
             14.44,
@@ -1536,7 +1585,7 @@
         "hu": "Autóval kényelmesen látogathatja Malinska és Porat történelmi helyszíneit. Egy pihentető délután után a Rova strandon autózzon el a távoli Glavotokba, hogy élvezze a tengerparti magányt.",
         "ro": "Cu mașina, vizitați confortabil atracțiile istorice din Malinska și Porat. După o după-amiază relaxantă pe plaja Rova, conduceți până la Glavotok pentru a vă bucura de singurătatea de la malul mării.",
         "en": "By car, comfortably visit the historical highlights of Malinska and Porat. After a relaxing afternoon at Rova beach, drive to secluded Glavotok to enjoy seaside solitude.",
-        "hr": "Automobilom udobno posjetite povijesne znamenitosti Malinske i Porata. Nakon opuštajućeg poslijepodneva na plaži Rova, odvezite se do osamljenog Glavotoka kako biste uživali u tišini uz more."
+        "hr": "Autom udobno posjetite povijesne znamenitosti Malinske i Porata. Nakon opuštajućeg popodneva na plaži Rova, vozite do samotnog Glavotoka i uživajte u obalnom miru."
       },
       "gastro_picks": {
         "de": [
@@ -1657,8 +1706,8 @@
           "Drive carefully on narrow streets in Porat."
         ],
         "hr": [
-          "Pazite na cijene parkinga u centru.",
-          "Vozite oprezno uskim ulicama u Poratu."
+          "Pazite na naplatu parkiranja u centru.",
+          "Vozite pažljivo uskim ulicama u Poratu."
         ]
       },
       "variants": {
@@ -1667,7 +1716,8 @@
             "de": "Mit dem Auto besuchen Sie die historischen Highlights von Malinska und Porat bequem. Nach einem entspannten Nachmittag am Rova Strand fahren Sie zum abgelegenen Glavotok, um die Einsamkeit am Meer zu genießen.",
             "hu": "Autóval kényelmesen látogathatja Malinska és Porat történelmi helyszíneit. Egy pihentető délután után a Rova strandon autózzon el a távoli Glavotokba, hogy élvezze a tengerparti magányt.",
             "ro": "Cu mașina, vizitați confortabil atracțiile istorice din Malinska și Porat. După o după-amiază relaxantă pe plaja Rova, conduceți până la Glavotok pentru a vă bucura de singurătatea de la malul mării.",
-            "en": "By car, comfortably visit the historical highlights of Malinska and Porat. After a relaxing afternoon at Rova beach, drive to secluded Glavotok to enjoy seaside solitude."
+            "en": "By car, comfortably visit the historical highlights of Malinska and Porat. After a relaxing afternoon at Rova beach, drive to secluded Glavotok to enjoy seaside solitude.",
+            "hr": "Autom udobno posjetite povijesne znamenitosti Malinske i Porata. Nakon opuštajućeg popodneva na plaži Rova, vozite do samotnog Glavotoka i uživajte u obalnom miru."
           },
           "stops": [
             {
@@ -1675,13 +1725,15 @@
                 "de": "Kirche des Hl. Apollinaris",
                 "hu": "Szt. Apollinár-templom",
                 "ro": "Biserica Sf. Apolinarie",
-                "en": "Church of St. Apollinaris"
+                "en": "Church of St. Apollinaris",
+                "hr": "Crkva sv. Apolinara"
               },
               "tip_5lang": {
                 "de": "Gute Parkmöglichkeiten vorhanden.",
                 "hu": "Jó parkolási lehetőség.",
                 "ro": "Parcare disponibilă.",
-                "en": "Good parking available."
+                "en": "Good parking available.",
+                "hr": "Dostupno dobro parkiranje."
               }
             },
             {
@@ -1689,13 +1741,15 @@
                 "de": "Kloster Porat",
                 "hu": "Porati kolostor",
                 "ro": "Mănăstirea Porat",
-                "en": "Porat Monastery"
+                "en": "Porat Monastery",
+                "hr": "Samostan Porat"
               },
               "tip_5lang": {
                 "de": "Ruhiger Klostergarten.",
                 "hu": "Csendes kolostorkert.",
                 "ro": "Grădină mănăstirească liniștită.",
-                "en": "Quiet monastery garden."
+                "en": "Quiet monastery garden.",
+                "hr": "Tihi samostanski vrt."
               }
             },
             {
@@ -1703,13 +1757,15 @@
                 "de": "Archäologische Stätte Cickini",
                 "hu": "Cickini régészeti lelőhely",
                 "ro": "Situl arheologic Cickini",
-                "en": "Cickini Archaeological Site"
+                "en": "Cickini Archaeological Site",
+                "hr": "Arheološko nalazište Cickini"
               },
               "tip_5lang": {
                 "de": "Kurzer Fußweg vom Parkplatz.",
                 "hu": "Rövid séta a parkolótól.",
                 "ro": "Scurtă plimbare de la parcare.",
-                "en": "Short walk from parking."
+                "en": "Short walk from parking.",
+                "hr": "Kratka šetnja od parkirališta."
               }
             },
             {
@@ -1717,13 +1773,15 @@
                 "de": "Mittagessen in Malinska",
                 "hu": "Ebéd Malinskában",
                 "ro": "Prânz în Malinska",
-                "en": "Lunch in Malinska"
+                "en": "Lunch in Malinska",
+                "hr": "Ručak u Malinskoj"
               },
               "tip_5lang": {
                 "de": "Zentrumsnah parken.",
                 "hu": "Parkoljon a központ közelében.",
                 "ro": "Parcați aproape de centru.",
-                "en": "Park near the center."
+                "en": "Park near the center.",
+                "hr": "Parkirajte blizu centra."
               }
             },
             {
@@ -1731,13 +1789,15 @@
                 "de": "Strand Rova",
                 "hu": "Rova strand",
                 "ro": "Plaja Rova",
-                "en": "Rova Beach"
+                "en": "Rova Beach",
+                "hr": "Plaža Rova"
               },
               "tip_5lang": {
                 "de": "Sonnenschirm mieten.",
                 "hu": "Béreljen napernyőt.",
                 "ro": "Închiriați o umbrelă.",
-                "en": "Rent a sunshade."
+                "en": "Rent a sunshade.",
+                "hr": "Iznajmite suncobran."
               }
             },
             {
@@ -1745,13 +1805,15 @@
                 "de": "Glavotok (Ausflug)",
                 "hu": "Glavotok (kirándulás)",
                 "ro": "Glavotok (excursie)",
-                "en": "Glavotok (excursion)"
+                "en": "Glavotok (excursion)",
+                "hr": "Glavotok (izlet)"
               },
               "tip_5lang": {
                 "de": "Kirche am Ende der Welt.",
                 "hu": "Templom a világ végén.",
                 "ro": "Biserica de la capătul lumii.",
-                "en": "Church at the end of the world."
+                "en": "Church at the end of the world.",
+                "hr": "Crkva na kraju svijeta."
               }
             }
           ],
@@ -1853,6 +1915,10 @@
             "en": [
               "Watch out for parking fees in the center.",
               "Drive carefully on narrow streets in Porat."
+            ],
+            "hr": [
+              "Pazite na naplatu parkiranja u centru.",
+              "Vozite pažljivo uskim ulicama u Poratu."
             ]
           }
         },
@@ -1862,7 +1928,7 @@
             "hu": "Az esős nap kényelmesen kezdődik a Szent Apollónia templomnál, mely a ködben szinte misztikus. A porati kolostor szárazon látogatható, mielőtt Cickini felé vennénk az irányt. Egy hosszú malinskai ebéd elfeledteti az esőt. Délután a Rova strand drámai hullámzást kínál, mielőtt a nap Glavotok történelmi helyszínén, a tenger morajlása mellett zárulna.",
             "ro": "O zi ploioasă începe confortabil la biserica Sf. Apolinarie, care pare aproape mistică în ceață. Mănăstirea Porat poate fi vizitată la adăpost înainte de a pleca spre Cickini. Un prânz lung în Malinska vă face să uitați de ploaie. După-amiază, plaja Rova oferă valuri dramatice, înainte ca ziua să se încheie la situl istoric Glavotok.",
             "en": "A rainy day begins comfortably at St. Apollinaris Church, which looks almost mystical in the fog. Porat Monastery can be visited while staying dry before heading to Cickini. A long lunch in Malinska makes you forget the rain. In the afternoon, Rova Beach offers dramatic waves before the day ends at the historical site of Glavotok by the sound of the sea.",
-            "hr": "Kišni dan počinje udobno kod crkve sv. Apolinara, koja u magli izgleda gotovo mistično. Samostan u Poratu može se posjetiti bez močenja prije odlaska u Cickini. Dugi ručak in Malinskoj natjerat će vas da zaboravite na kišu. Poslijepodne plaža Rova nudi dramatične valove prije nego što dan završi na povijesnom lokalitetu Glavotok uz zvuk mora."
+            "hr": "Kišni dan udobno započinje kod crkve sv. Apolinara, koja u magli izgleda gotovo mistično. Samostan Porat može se posjetiti suhim ostajanjem prije odlaska prema Cickini. Dug ručak u Malinskoj natjera vas da zaboravite kišu. Poslijepodne plaža Rova nudi dramatične valove prije nego dan završi na povijesnom mjestu Glavotok uz šum mora."
           },
           "stops": [
             {
@@ -1872,7 +1938,7 @@
                 "hu": "Parkoljon közvetlenül a bejáratnál, hogy száraz maradjon.",
                 "ro": "Parcați direct la intrare pentru a rămâne uscat.",
                 "en": "Park directly at the entrance to stay dry.",
-                "hr": "Parkirajte izravno na ulazu kako biste ostali suhi."
+                "hr": "Parkirajte odmah kod ulaza da ostanete suhi."
               }
             },
             {
@@ -1882,7 +1948,7 @@
                 "hu": "A kolostormúzeum ideális tipp rossz idő esetén.",
                 "ro": "Muzeul mănăstirii este o recomandare ideală pentru vreme rea.",
                 "en": "The monastery museum is an ideal bad weather tip.",
-                "hr": "Samostanski muzej je idealan savjet za loše vrijeme."
+                "hr": "Samostanski muzej idealan je savjet za loše vrijeme."
               }
             },
             {
@@ -1892,7 +1958,7 @@
                 "hu": "Az erdei utak sárosak, parkoljon óvatosan.",
                 "ro": "Drumurile forestiere sunt noroioase, parcați cu atenție.",
                 "en": "Forest roads are muddy; park carefully.",
-                "hr": "Šumski putevi su blatni; parkirajte oprezno."
+                "hr": "Šumski putevi su blatni; parkirajte pažljivo."
               }
             },
             {
@@ -1912,7 +1978,7 @@
                 "hu": "Élvezze a viharos tenger látványát az autóból.",
                 "ro": "Bucurați-vă de vederea mării înfuriate din mașină.",
                 "en": "Enjoy the view of the stormy sea from the car.",
-                "hr": "Uživajte u pogledu na olujno more iz automobila."
+                "hr": "Uživajte u pogledu na olujno more iz auta."
               }
             },
             {
@@ -1922,7 +1988,7 @@
                 "hu": "A Glavotokba vezető szűk út esőben csúszós lehet.",
                 "ro": "Drumul îngust spre Glavotok poate fi alunecos pe ploaie.",
                 "en": "The narrow road to Glavotok can be slippery in the rain.",
-                "hr": "Uski put do Glavotoka može biti sklizak na kiši."
+                "hr": "Uski put prema Glavotoku može biti klizav po kiši."
               }
             }
           ],
@@ -1957,10 +2023,10 @@
             ],
             "hr": [
               "Provjerite stanje brisača vjetrobranskog stakla.",
-              "Izbjegavajte niska parkirališta tijekom jake kiše.",
+              "Izbjegavajte parkirališta u nizinama tijekom jake kiše.",
               "Kišobran u prtljažniku je obavezan za kratke šetnje.",
-              "Vidljivost može biti ograničena na obalnim cestama.",
-              "Koristite grijanje sjedala za dodatnu udobnost."
+              "Vidljivost na obalnim cestama može biti ograničena.",
+              "Koristite sjedalno grijanje za dodatnu udobnost."
             ]
           }
         },
@@ -1970,7 +2036,7 @@
             "hu": "A tiszta téli reggel a Szent Apollónia templomhoz vezet, mely a hideg fényben ragyog. A porati kolostorban nyugalmat és meleget találunk a cickini út előtt. Ebédre Malinskában bőséges szigeti konyhát élvezhetünk. A délután a Rova strandon friss tengeri szellőt kínál, mielőtt a túra pontosan naplementekor Glavotok magányos fokánál zárulna.",
             "ro": "O dimineață senină de iarnă duce la biserica Sf. Apolinarie, care strălucește în lumina rece. În mănăstirea Porat găsiți liniște și căldură înainte de drumul spre Cickini. La prânz, savurați bucătăria consistentă a insulei în Malinska. După-amiaza pe plaja Rova oferă brize marine proaspete, înainte ca turul să se încheie la Glavotok, exact la apus.",
             "en": "A clear winter morning leads to St. Apollinaris Church, glowing in the cold light. In Porat Monastery, find peace and warmth before the drive to Cickini. At lunch in Malinska, enjoy hearty island cuisine. The afternoon at Rova Beach offers fresh sea breezes before the tour ends exactly at sunset at the lonely cape of Glavotok.",
-            "hr": "Vedro zimsko jutro vodi do crkve sv. Apolinara, koja blista na hladnom svjetlu. U samostanu u Poratu pronađite mir i toplinu prije vožnje do Cickina. Na ručku u Malinskoj uživajte u krepkoj otočkoj kuhinji. Poslijepodne na plaži Rova nudi svjež morski povjetarac prije nego što tura završi točno u zalazak sunca na osamljenom rtu Glavotok."
+            "hr": "Bistar zimski jutro vodi do crkve sv. Apolinara, koja blista u hladnom svjetlu. U samostanu Porat pronađite mir i toplinu prije vožnje do Cickini. Za ručak u Malinskoj uživajte u obilnoj otočnoj kuhinji. Poslijepodne na plaži Rova donosi svježe morske povjetarce prije nego tura završi točno u zalazak sunca na samotnom rt Glavotok."
           },
           "stops": [
             {
@@ -1980,7 +2046,7 @@
                 "hu": "Ügyeljen a dérre a lépcsőkön.",
                 "ro": "Atenție la chiciura de pe trepte.",
                 "en": "Watch out for hoarfrost on the steps.",
-                "hr": "Pazite na inje na stepenicama."
+                "hr": "Pazite na poledicu na stepenicama."
               }
             },
             {
@@ -2020,7 +2086,7 @@
                 "hu": "Tökéletes állomás egy rövid, intenzív fotózáshoz.",
                 "ro": "Oprire perfectă pentru o sesiune foto scurtă și intensă.",
                 "en": "Perfect stop for a short, intense photo session.",
-                "hr": "Savršeno zaustavljanje za kratko, intenzivno fotografiranje."
+                "hr": "Savršeno mjesto za kratku, intenzivnu foto-sesiju."
               }
             },
             {
@@ -2065,10 +2131,10 @@
             ],
             "hr": [
               "Zimske gume su zakonski obavezne na Krku.",
-              "Pazite na buru (opasnost od padanja drveća).",
-              "Grijanju treba vremena na kratkim relacijama; planirajte pauze.",
-              "Provjerite vrijeme zalaska sunca; rano se mrači.",
-              "Ne zaboravite antifriz u sustavu za pranje stakla."
+              "Pazite na buru (opasnost od pada stabala).",
+              "Grijanje na kratkim relacijama traje; planirajte pauze.",
+              "Provjerite vrijeme zalaska sunca; brzo se smrkava.",
+              "Ne zaboravite antifriz u tekućini za pranje vjetrobrana."
             ]
           }
         }
@@ -2087,7 +2153,8 @@
             "de": "Hafen von Malinska",
             "hu": "Malinska kikötő",
             "ro": "Portul Malinska",
-            "en": "Malinska Port"
+            "en": "Malinska Port",
+            "hr": "Luka Malinska"
           },
           "coords": [
             14.5295,
@@ -2103,7 +2170,7 @@
             "hu": "Központi buszmegálló.",
             "ro": "Stație centrală de autobuz.",
             "en": "Central bus stop.",
-            "hr": "Centralna autobusna stanica."
+            "hr": "Središnja autobusna stanica."
           }
         },
         {
@@ -2111,7 +2178,8 @@
             "de": "DUBoak Interpretationszentrum",
             "hu": "DUBoak Látogatóközpont",
             "ro": "Centrul de Interpretare DUBoak",
-            "en": "DUBoak Interpretation Centre"
+            "en": "DUBoak Interpretation Centre",
+            "hr": "TUMAČKI CENTAR DUBoak"
           },
           "coords": [
             14.531,
@@ -2135,7 +2203,8 @@
             "de": "Porat (Busfahrt)",
             "hu": "Porat (buszozás)",
             "ro": "Porat (cu autobuzul)",
-            "en": "Porat (bus ride)"
+            "en": "Porat (bus ride)",
+            "hr": "Porat (vožnja autobusom)"
           },
           "coords": [
             14.492,
@@ -2151,7 +2220,7 @@
             "hu": "Ellenőrizze a menetrendet.",
             "ro": "Verificați mersul autobuzelor.",
             "en": "Check the schedule beforehand.",
-            "hr": "Prethodno provjerite vozni red."
+            "hr": "Provjerite red vožnje unaprijed."
           }
         },
         {
@@ -2159,7 +2228,8 @@
             "de": "Mittagessen in Malinska",
             "hu": "Ebéd Malinskában",
             "ro": "Prânz în Malinska",
-            "en": "Lunch in Malinska"
+            "en": "Lunch in Malinska",
+            "hr": "Ručak u Malinskoj"
           },
           "coords": [
             14.528,
@@ -2183,7 +2253,8 @@
             "de": "Strand Rova",
             "hu": "Rova strand",
             "ro": "Plaja Rova",
-            "en": "Rova Beach"
+            "en": "Rova Beach",
+            "hr": "Plaža Rova"
           },
           "coords": [
             14.518,
@@ -2199,7 +2270,7 @@
             "hu": "15 perc séta a busztól.",
             "ro": "15 min de mers de la autobuz.",
             "en": "15 min walk from the bus.",
-            "hr": "15 min šetnje od autobusa."
+            "hr": "15 minuta hoda od autobusa."
           }
         }
       ],
@@ -2208,7 +2279,7 @@
         "hu": "Használja a szigeti buszt a Malinska központ és Porat közötti közlekedéshez. Látogassa meg a DUBoak központot és a porati kolostort, majd töltse a délutánt a családbarát Rova strandon.",
         "ro": "Folosiți autobuzul insular pentru a face naveta între centrul Malinska și Porat. Vizitați centrul DUBoak și mănăstirea Porat înainte de a vă bucura de după-amiază pe plaja Rova.",
         "en": "Use the island bus to commute between Malinska center and Porat. Visit the DUBoak center and Porat monastery before enjoying the afternoon at family-friendly Rova beach.",
-        "hr": "Koristite otočni autobus za putovanje između centra Malinske i Porata. Posjetite centar DUBoak i samostan u Poratu prije uživanja u poslijepodnevu na plaži Rova prikladnoj za obitelji."
+        "hr": "Koristite otočki autobus za promet između centra Malinske i Porata. Posjetite Interpretacijski centar DUBoak i samostan u Poratu prije nego što uživate u poslijepodnevu na obiteljskoj plaži Rova."
       },
       "gastro_picks": {
         "de": [
@@ -2330,7 +2401,7 @@
         ],
         "hr": [
           "Koristite aplikaciju Arriva za vozne redove.",
-          "Pripremite sitniš za karte."
+          "Imate sitan novac spreman za karte."
         ]
       },
       "variants": {
@@ -2339,7 +2410,8 @@
             "de": "Nutzen Sie den Inselbus, um zwischen Malinska Zentrum und Porat zu pendeln. Besuchen Sie das DUBoak-Zentrum und das Kloster Porat, bevor Sie den Nachmittag am familienfreundlichen Rova Strand genießen.",
             "hu": "Használja a szigeti buszt a Malinska központ és Porat közötti közlekedéshez. Látogassa meg a DUBoak központot és a porati kolostort, majd töltse a délutánt a családbarát Rova strandon.",
             "ro": "Folosiți autobuzul insular pentru a face naveta între centrul Malinska și Porat. Vizitați centrul DUBoak și mănăstirea Porat înainte de a vă bucura de după-amiază pe plaja Rova.",
-            "en": "Use the island bus to commute between Malinska center and Porat. Visit the DUBoak center and Porat monastery before enjoying the afternoon at family-friendly Rova beach."
+            "en": "Use the island bus to commute between Malinska center and Porat. Visit the DUBoak center and Porat monastery before enjoying the afternoon at family-friendly Rova beach.",
+            "hr": "Koristite otočki autobus za promet između centra Malinske i Porata. Posjetite Interpretacijski centar DUBoak i samostan u Poratu prije nego što uživate u poslijepodnevu na obiteljskoj plaži Rova."
           },
           "stops": [
             {
@@ -2347,13 +2419,15 @@
                 "de": "Hafen von Malinska",
                 "hu": "Malinska kikötő",
                 "ro": "Portul Malinska",
-                "en": "Malinska Port"
+                "en": "Malinska Port",
+                "hr": "Luka Malinska"
               },
               "tip_5lang": {
                 "de": "Zentraler Busstopp.",
                 "hu": "Központi buszmegálló.",
                 "ro": "Stație centrală de autobuz.",
-                "en": "Central bus stop."
+                "en": "Central bus stop.",
+                "hr": "Središnja autobusna stanica."
               }
             },
             {
@@ -2361,13 +2435,15 @@
                 "de": "DUBoak Interpretationszentrum",
                 "hu": "DUBoak Látogatóközpont",
                 "ro": "Centrul de Interpretare DUBoak",
-                "en": "DUBoak Interpretation Centre"
+                "en": "DUBoak Interpretation Centre",
+                "hr": "Interpretacijski centar DUBoak"
               },
               "tip_5lang": {
                 "de": "Kurzer Fußweg vom Bus.",
                 "hu": "Rövid séta a busztól.",
                 "ro": "Scurtă plimbare de la autobuz.",
-                "en": "Short walk from the bus."
+                "en": "Short walk from the bus.",
+                "hr": "Kratka šetnja od autobusa."
               }
             },
             {
@@ -2375,13 +2451,15 @@
                 "de": "Porat (Busfahrt)",
                 "hu": "Porat (buszozás)",
                 "ro": "Porat (cu autobuzul)",
-                "en": "Porat (bus ride)"
+                "en": "Porat (bus ride)",
+                "hr": "Porat (vožnja autobusom)"
               },
               "tip_5lang": {
                 "de": "Fahrplan vorab prüfen.",
                 "hu": "Ellenőrizze a menetrendet.",
                 "ro": "Verificați mersul autobuzelor.",
-                "en": "Check the schedule beforehand."
+                "en": "Check the schedule beforehand.",
+                "hr": "Provjerite vozni red unaprijed."
               }
             },
             {
@@ -2389,13 +2467,15 @@
                 "de": "Mittagessen in Malinska",
                 "hu": "Ebéd Malinskában",
                 "ro": "Prânz în Malinska",
-                "en": "Lunch in Malinska"
+                "en": "Lunch in Malinska",
+                "hr": "Ručak u Malinskoj"
               },
               "tip_5lang": {
                 "de": "Rückfahrt zum Hafen.",
                 "hu": "Visszaút a kikötőbe.",
                 "ro": "Retur în port.",
-                "en": "Return to the harbor."
+                "en": "Return to the harbor.",
+                "hr": "Povratak u luku."
               }
             },
             {
@@ -2403,13 +2483,15 @@
                 "de": "Strand Rova",
                 "hu": "Rova strand",
                 "ro": "Plaja Rova",
-                "en": "Rova Beach"
+                "en": "Rova Beach",
+                "hr": "Plaža Rova"
               },
               "tip_5lang": {
                 "de": "15 min Fußweg vom Bus.",
                 "hu": "15 perc séta a busztól.",
                 "ro": "15 min de mers de la autobuz.",
-                "en": "15 min walk from the bus."
+                "en": "15 min walk from the bus.",
+                "hr": "15 minuta hoda od autobusa."
               }
             }
           ],
@@ -2511,6 +2593,10 @@
             "en": [
               "Use Arriva app for schedules.",
               "Have small change ready for tickets."
+            ],
+            "hr": [
+              "Koristite aplikaciju Arriva za vozne redove.",
+              "Imate sitan novac spreman za karte."
             ]
           }
         },
@@ -2520,7 +2606,7 @@
             "hu": "Az esős órákat a kikötőben nagyszerűen el lehet tölteni a DUBoak központban, amíg a következő buszra várunk. A porati utazás száraz kilátást nyújt a tájra. Egy hosszú malinskai ebéd tökéletes védelem a zápor ellen. Délután a Rova strand az esernyő alól különleges természeti élményt nyújt, mielőtt kényelmesen visszatérnénk busszal.",
             "ro": "Orele ploioase în port pot fi petrecute minunat în centrul DUBoak în timp ce așteptați următorul autobuz. Călătoria spre Porat oferă o vedere uscată asupra peisajului. Un prânz lung în Malinska este protecția perfectă împotriva ploii. După-amiază, plaja Rova sub umbrelă este o experiență naturală deosebită.",
             "en": "Rainy hours at the port can be spent wonderfully in the DUBoak center while waiting for the next bus. The ride to Porat offers a dry view of the landscape. A long lunch in Malinska is the perfect protection against the shower. In the afternoon, Rova Beach under an umbrella is a special natural experience before returning comfortably by bus.",
-            "hr": "Kišni sati u luci mogu se divno provesti u centru DUBoak dok čekate sljedeći autobus. Vožnja do Porata nudi suh pogled na krajolik. Dugi ručak u Malinskoj savršena je zaštita od pljuska. Poslijepodne, plaža Rova pod kišobranom poseban je prirodni doživljaj prije udobnog povratka autobusom."
+            "hr": "Kišno vrijeme u luci možete izvrsno provesti u centru DUBoak čekajući sljedeći autobus. Vožnja do Porata nudi pogled na krajolik bez kiše. Dugi ručak u Malinskoj savršena je zaštita od pljuska. Poslijepodne je plaža Rova pod suncobranom posebno prirodno iskustvo prije udobnog povratka autobusom."
           },
           "stops": [
             {
@@ -2530,7 +2616,7 @@
                 "hu": "Várjon az időjárástól védett buszmegállóban.",
                 "ro": "Așteptați în stația de autobuz protejată de intemperii.",
                 "en": "Wait in the weather-protected bus shelter.",
-                "hr": "Čekajte u autobusnoj čekaonici zaštićenoj od nevremena."
+                "hr": "Pričekajte u autobusnom staništu zaštićenom od vremenskih uvjeta."
               }
             },
             {
@@ -2540,7 +2626,7 @@
                 "hu": "Használja az ingyenes wifit, amíg esik.",
                 "ro": "Folosiți Wi-Fi-ul gratuit cât timp plouă.",
                 "en": "Use the free Wi-Fi while it's raining.",
-                "hr": "Koristite besplatni Wi-Fi dok pada kiša."
+                "hr": "Iskoristite besplatan Wi‑Fi dok pada kiša."
               }
             },
             {
@@ -2550,7 +2636,7 @@
                 "hu": "Élvezze a kilátást a busz száraz ablakán át.",
                 "ro": "Bucurați-vă de vedere prin geamul uscat al autobuzului.",
                 "en": "Enjoy the view through the dry bus window.",
-                "hr": "Uživajte u pogledu kroz suhi prozor autobusa."
+                "hr": "Uživajte u pogledu kroz suho autobusno staklo."
               }
             },
             {
@@ -2560,7 +2646,7 @@
                 "hu": "A buszpályaudvar közeli éttermek gyorsan elérhetők.",
                 "ro": "Restaurantele de lângă autogară sunt ușor accesibile.",
                 "en": "Restaurants near the bus station are quickly accessible.",
-                "hr": "Restorani blizu autobusnog kolodvora brzo su dostupni."
+                "hr": "Restorani u blizini autobusne stanice brzo su dostupni."
               }
             },
             {
@@ -2570,7 +2656,7 @@
                 "hu": "Ellenőrizze előre online a visszajáratokat esőben.",
                 "ro": "Verificați online orele de retur în caz de ploaie.",
                 "en": "Check return times online in advance during rain.",
-                "hr": "Unaprijed provjerite vrijeme povratka online tijekom kiše."
+                "hr": "Tijekom kiše unaprijed provjerite vrijeme povratka online."
               }
             }
           ],
@@ -2604,11 +2690,11 @@
               "Have small change ready for the ticket from the driver."
             ],
             "hr": [
-              "Imajte spremnu aplikaciju 'Arriva' za informacije u stvarnom vremenu.",
-              "Planirajte rezervno vrijeme za kašnjenja uzrokovana vremenom.",
+              "Imate spremnu aplikaciju 'Arriva' za informacije u stvarnom vremenu.",
+              "Planirajte odmake vremena zbog mogućih kašnjenja uzrokovanih vremenom.",
               "Autobusi na Krku su rjeđi zimi; provjerite vozni red.",
-              "Izbjegavajte čekanje na natkrivenim autobusnim stanicama.",
-              "Pripremite sitniš za kartu kod vozača."
+              "Izbjegavajte čekanje na nezaštićenim autobusnim stajalištima.",
+              "Imate sitan novac spreman za kartu od vozača."
             ]
           }
         },
@@ -2618,7 +2704,7 @@
             "hu": "A tömegközlekedéses téli nap csendesen indul a kikötőben, mielőtt a fűtött DUBoak központ hívogatna. A porati buszút alvó falvakon vezet át. Ebédre Malinskában helyi étel melenget, mielőtt a délutánt a tiszta Rova strandon töltenénk. A korai buszos hazatérés garantálja a meleget, amint a téli nap a tengerbe vész.",
             "ro": "Ziua de iarnă cu transportul public începe liniștit în port, înainte ca centrul încălzit DUBoak să vă atragă. Călătoria spre Porat trece prin sate adormite. La prânz, un preparat local vă încălzește în Malinska, înainte de a petrece după-amiaza pe plaja Rova. Întoarcerea timpurie cu autobuzul garantează căldura imediat ce soarele apune.",
             "en": "The winter day by transit starts quietly at the port before the heated DUBoak center beckons. The bus ride to Porat takes you through sleeping villages. At lunch in Malinska, a local dish warms you up before spending the afternoon at clear Rova Beach. The early return by bus guarantees warmth as soon as the winter sun sinks into the sea.",
-            "hr": "Zimski dan u tranzitu počinje mirno u luci prije nego što vas pozove grijani centar DUBoak. Vožnja autobusom do Porata vodi vas kroz usnula sela. Na ručku u Malinskoj zagrijat će vas domaće jelo prije poslijepodneva na čistoj plaži Rova. Rani povratak autobusom jamči toplinu čim zimsko sunce utone u more."
+            "hr": "Zimski dan javnim prijevozom započinje mirno u luci prije nego što vas pozove zagrijani centar DUBoak. Vožnja autobusom do Porata vodi vas kroz uspavana sela. Na ručku u Malinskoj lokalno jelo će vas ugrijati prije poslijepodneva na čistoj plaži Rova. Rani povratak autobusom jamči toplinu čim zimsko sunce zađe u more."
           },
           "stops": [
             {
@@ -2628,7 +2714,7 @@
                 "hu": "A téli menetrend érvényes, a buszok ritkábban járnak.",
                 "ro": "Se aplică orarul de iarnă, autobuzele circulă mai rar.",
                 "en": "The winter schedule applies; buses run less frequently.",
-                "hr": "Vrijedi zimski vozni red; autobusi voze rjeđe."
+                "hr": "Primjenjuje se zimski vozni red; autobusi voze rjeđe."
               }
             },
             {
@@ -2638,7 +2724,7 @@
                 "hu": "Tökéletes hely a buszok közötti idő kitöltésére.",
                 "ro": "Locul perfect pentru a umple timpul între autobuze.",
                 "en": "Perfect place to fill the time between buses.",
-                "hr": "Savršeno mjesto za popunjavanje vremena između autobusa."
+                "hr": "Savršeno mjesto za ispuniti vrijeme između autobusa."
               }
             },
             {
@@ -2648,7 +2734,7 @@
                 "hu": "Ügyeljen a meleg ruházatra a megállóba menet.",
                 "ro": "Aveți grijă la îmbrăcămintea groasă spre stație.",
                 "en": "Ensure warm clothing for the walk to the stop.",
-                "hr": "Osigurajte toplu odjeću za šetnju do stanice."
+                "hr": "Osigurajte toplu odjeću za šetnju do stajališta."
               }
             },
             {
@@ -2668,7 +2754,7 @@
                 "hu": "Az utolsó busz télen gyakran 18:00 előtt indul vissza.",
                 "ro": "Ultimul autobuz pleacă iarna adesea înainte de ora 18:00.",
                 "en": "The last bus back often leaves before 6:00 PM in winter.",
-                "hr": "Zadnji autobus za povratak zimi često polazi prije 18:00."
+                "hr": "Posljednji autobus za povratak često polazi prije 18:00 zimi."
               }
             }
           ],
@@ -2703,10 +2789,10 @@
             ],
             "hr": [
               "Provjerite 'Linijski vozni red' za zimu.",
-              "Nosite toplu obuću za čekanje na stanicama.",
-              "Autobusi su zimi obično dobro grijani.",
+              "Nosite tople cipele za čekanje na autobusnim stajalištima.",
+              "Autobusi su obično dobro grijani zimi.",
               "Kupite karte online unaprijed ako je moguće.",
-              "Iskoristite rane jutarnje sate jer se mrači u 16:30."
+              "Iskoristite ranojutarnje sate jer se smrkava oko 16:30."
             ]
           }
         }
@@ -2740,7 +2826,7 @@
     "regional_tourism": {
       "url": "https://www.visitkrk.com/",
       "label": {
-        "hr": "Visit Krk - otok Krk",
+        "hr": "Visit Krk - Otok Krk",
         "de": "Visit Krk - Insel Krk",
         "hu": "Visit Krk - Krk sziget",
         "en": "Visit Krk - Krk Island"
@@ -2749,7 +2835,7 @@
     "bus_transport": {
       "url": "https://www.arriva.com.hr/hr-hr/naslovna",
       "label": {
-        "hr": "Arriva Hrvatska (bivši Autotrans)",
+        "hr": "Arriva Croatia (ranije Autotrans)",
         "de": "Arriva Kroatien (ehem. Autotrans)",
         "hu": "Arriva Horvátország (volt Autotrans)",
         "en": "Arriva Croatia (formerly Autotrans)"

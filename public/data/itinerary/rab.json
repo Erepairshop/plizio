@@ -31,14 +31,15 @@
             "de": "Der perfekte Treffpunkt am Eingang zur Altstadt.",
             "hu": "Tökéletes találkozóhely az óváros bejáratánál.",
             "ro": "Locul perfect de întâlnire la intrarea în orașul vechi.",
-            "en": "The perfect meeting spot at the entrance to the old town."
+            "en": "The perfect meeting spot at the entrance to the old town.",
+            "hr": "Savršeno mjesto za sastanak na ulazu u staru jezgru."
           },
           "tip_5lang": {
             "de": "Guter Treffpunkt; gleich daneben erhebt sich der Christophorus-Turm.",
             "hu": "Remek találkozási pont, mellette a Szent Kristóf harangtorony magasodik.",
             "ro": "Loc bun de întâlnire; alături se înalță clopotnița Sfântului Cristofor.",
             "en": "A great meeting point; the bell tower of St. Christopher rises just beside.",
-            "hr": "Izvrsno mjesto za sastanak; odmah pored uzdiže se zvonik sv. Kristofora."
+            "hr": "Odlično mjesto za sastanak; zvonik Sv. Kristofora uzdiže se odmah pokraj."
           }
         },
         {
@@ -56,14 +57,15 @@
             "de": "Die 'Obere Straße' beherbergt die vier berühmten Glockentürme.",
             "hu": "A 'Felső utca' ad otthont a négy híres harangtoronynak.",
             "ro": "Strada de Sus găzduiește cele patru faimoase clopotnițe.",
-            "en": "The 'Upper Street' houses the four famous bell towers."
+            "en": "The 'Upper Street' houses the four famous bell towers.",
+            "hr": "'Gornja ulica' sadrži četiri poznata zvonika."
           },
           "tip_5lang": {
             "de": "Die obere Gasse langsam gehen — die höchste und ruhigste der drei.",
             "hu": "Lassan járd a felső utcát, ez a legmagasabb és legcsendesebb a három közül.",
             "ro": "Plimbă-te încet pe strada de sus — cea mai înaltă și mai liniștită dintre cele trei.",
             "en": "Walk the upper street slowly — it's the loftiest and quietest of the three.",
-            "hr": "Polako prošećite Gornjom ulicom – ona je najviša i najmirnija od triju ulica."
+            "hr": "Hodajte Gornjom ulicom polako — to je najuzvišenija i najmirnija od tri ulice."
           }
         },
         {
@@ -81,14 +83,15 @@
             "de": "Heute befindet sich hier ein kleines Museum für sakrale Kunst.",
             "hu": "Ma egy kis egyházművészeti múzeum működik itt.",
             "ro": "Astăzi găzduiește un mic muzeu de artă sacră.",
-            "en": "Today it houses a small museum of sacred art."
+            "en": "Today it houses a small museum of sacred art.",
+            "hr": "Danas u njoj djeluje mali muzej sakralne umjetnosti."
           },
           "tip_5lang": {
             "de": "Kleines Sakralkunstmuseum drinnen — Eintritt mit Sprachführer inklusive.",
             "hu": "Apró egyházművészeti múzeum belül, a belépővel idegenvezető is jár.",
             "ro": "Mic muzeu de artă sacră înăuntru — biletul include un ghid local.",
             "en": "Tiny sacred art museum inside — entry includes a local-language guide.",
-            "hr": "Mali muzej sakralne umjetnosti unutra – ulaznica uključuje vodič na lokalnom jeziku."
+            "hr": "Mali muzej sakralne umjetnosti unutra — ulaz uključuje vodiča na lokalnom jeziku."
           }
         },
         {
@@ -106,14 +109,15 @@
             "de": "Eines der schönsten gotischen Gebäude der Insel.",
             "hu": "A sziget egyik legszebb gótikus épülete.",
             "ro": "Una dintre cele mai frumoase clădiri gotice de pe insulă.",
-            "en": "One of the most beautiful Gothic buildings on the island."
+            "en": "One of the most beautiful Gothic buildings on the island.",
+            "hr": "Jedna od najljepših gotičkih građevina na otoku."
           },
           "tip_5lang": {
             "de": "Schauen Sie hoch zu den Renaissance-Fenstern — die schönsten an der Adria.",
             "hu": "Nézz fel a reneszánsz ablakokra, az Adria legszebbjei között vannak.",
             "ro": "Privește ferestrele renascentiste — printre cele mai frumoase de pe Adriatica.",
             "en": "Look up at the Renaissance windows — among the finest on the Adriatic.",
-            "hr": "Pogledajte renesansne prozore – među najljepšima su na Jadranu."
+            "hr": "Pogledajte prema gore na renesansne prozore — među najljepšima na Jadranu."
           }
         },
         {
@@ -131,14 +135,15 @@
             "de": "Bestaunen Sie den Glockenturm der Maria direkt daneben.",
             "hu": "Csodálja meg mellette a Mária-harangtornyot.",
             "ro": "Admirați clopotnița Mariei chiar lângă ea.",
-            "en": "Admire the bell tower of Mary right next to it."
+            "en": "Admire the bell tower of Mary right next to it.",
+            "hr": "Divite se zvoniku Marije odmah pokraj njega."
           },
           "tip_5lang": {
             "de": "Auf den Glockenturm steigen für den Postkartenblick auf Rabs vier Türme.",
             "hu": "Mássz fel a harangtoronyra a négy templomtornyos képeslapi kilátásért.",
             "ro": "Urcă în clopotniță pentru priveliștea-carte poștală a celor patru turle.",
             "en": "Climb the bell tower for the postcard view of Rab's four steeples.",
-            "hr": "Popnite se na zvonik za onaj kultni pogled na četiri rapska zvonika."
+            "hr": "Popnite se na zvonik za razglednicu-pogled na četiri rabinska zvonika."
           }
         },
         {
@@ -156,14 +161,15 @@
             "de": "Entspannen Sie im Schatten hoher Kiefern und Zypressen.",
             "hu": "Pihenjen a magas fenyők és ciprusok árnyékában.",
             "ro": "Relaxați-vă la umbra pinilor și chiparoșilor înalți.",
-            "en": "Relax in the shade of tall pines and cypresses."
+            "en": "Relax in the shade of tall pines and cypresses.",
+            "hr": "Opustite se u hladu visokih borova i čempresa."
           },
           "tip_5lang": {
             "de": "Schließen Sie unter hundertjährigen Pinien ab — perfekte Mittagspause.",
             "hu": "Zárj egy padon évszázados fenyők alatt, tökéletes déli felfrissülés.",
             "ro": "Încheie pe o bancă umbrită sub pini centenari — răcoare perfectă la prânz.",
             "en": "End with a shaded bench under century-old pines — perfect midday cooldown.",
-            "hr": "Završite na klupi u hladu ispod stoljetnih borova – savršeno podnevno osvježenje."
+            "hr": "Završite na sjenovitoj klupi pod stoljetnim borovima — savršeno za rashlađivanje u podne."
           }
         }
       ],
@@ -172,7 +178,7 @@
         "hu": "Rab a történelem és a tornyok városa. Kezdje a Szent Kristóf téren, és sétáljon végig a Gornja Ulicán, ahol kirajzolódik a négy harangtorony sziluettje. Fedezze fel a Szent Jusztina-templom egyházi műkincseit és a pompás Fejedelmi palotát. A székesegyház meglátogatása után a hűvös Komrčar-park ideális helyszín a városi séta lezárásához.",
         "ro": "Rab este un oraș al istoriei și al turnurilor. Începeți în Piața Sf. Cristofor și plimbați-vă pe Gornja Ulica, unde se profilează silueta celor patru clopotnițe. Descoperiți arta sacră din Sf. Iustina și magnificul Palat al Principelui. După vizitarea catedralei, parcul răcoros Komrčar oferă finalul ideal pentru plimbarea prin oraș.",
         "en": "Rab is a city of history and towers. Start at St. Christopher's Square and stroll through Gornja Ulica, where the silhouette of the four bell towers stands out. Discover the sacred art in St. Justina and the magnificent Rector's Palace. After visiting the Cathedral, the cool Komrcar Park offers the ideal ending to your city walk.",
-        "hr": "Rab je grad povijesti i tornjeva. Započnite na Trgu sv. Kristofora i prošećite Gornjom ulicom, gdje se ističe silueta četiri zvonika. Otkrijte sakralnu umjetnost u crkvi sv. Justine i veličanstvenu Kneževu palaču. Nakon posjeta katedrali, hladovina parka Komrčar nudi idealan završetak vaše gradske šetnje."
+        "hr": "Rab je grad povijesti i zvonika. Počnite na Trgu sv. Kristofora i prošećite Gornjom ulicom, gdje silueta četiri zvonika dominira. Otkrijte sakralnu umjetnost u crkvi sv. Justine i veličanstvenu Kneževu palaču. Nakon posjeta katedrali, hladni park Komrcar nudi idealan završetak gradskog obilaska."
       },
       "gastro_picks": {
         "de": [
@@ -313,8 +319,8 @@
           "The alleys of the old town are best in the cool morning."
         ],
         "hr": [
-          "Popnite se na zvonik sv. Marije za najbolji pogled.",
-          "Uličice staroga grada najbolje je istražiti u svježe jutro."
+          "Popnite se na zvonik Marije za najbolji pogled.",
+          "Ulice stare jezgre najbolje su u svježem jutru."
         ]
       },
       "variants": {
@@ -323,7 +329,8 @@
             "de": "Rab ist eine Stadt der Geschichte und der Türme. Beginnen Sie am Christophorus-Platz und schlendern Sie durch die Gornja Ulica, wo sich die Silhouette der vier Glockentürme abzeichnet. Entdecken Sie die sakrale Kunst in St. Justina und den prächtigen Fürstenpalast. Nach dem Besuch der Kathedrale bietet der kühle Park Komrčar den idealen Ausklang für Ihren Stadtspaziergang.",
             "hu": "Rab a történelem és a tornyok városa. Kezdje a Szent Kristóf téren, és sétáljon végig a Gornja Ulicán, ahol kirajzolódik a négy harangtorony sziluettje. Fedezze fel a Szent Jusztina-templom egyházi műkincseit és a pompás Fejedelmi palotát. A székesegyház meglátogatása után a hűvös Komrčar-park ideális helyszín a városi séta lezárásához.",
             "ro": "Rab este un oraș al istoriei și al turnurilor. Începeți în Piața Sf. Cristofor și plimbați-vă pe Gornja Ulica, unde se profilează silueta celor patru clopotnițe. Descoperiți arta sacră din Sf. Iustina și magnificul Palat al Principelui. După vizitarea catedralei, parcul răcoros Komrčar oferă finalul ideal pentru plimbarea prin oraș.",
-            "en": "Rab is a city of history and towers. Start at St. Christopher's Square and stroll through Gornja Ulica, where the silhouette of the four bell towers stands out. Discover the sacred art in St. Justina and the magnificent Rector's Palace. After visiting the Cathedral, the cool Komrcar Park offers the ideal ending to your city walk."
+            "en": "Rab is a city of history and towers. Start at St. Christopher's Square and stroll through Gornja Ulica, where the silhouette of the four bell towers stands out. Discover the sacred art in St. Justina and the magnificent Rector's Palace. After visiting the Cathedral, the cool Komrcar Park offers the ideal ending to your city walk.",
+            "hr": "Rab je grad povijesti i zvonika. Počnite na Trgu sv. Kristofora i prošećite Gornjom ulicom, gdje silueta četiri zvonika dominira. Otkrijte sakralnu umjetnost u crkvi sv. Justine i veličanstvenu Kneževu palaču. Nakon posjeta katedrali, hladni park Komrcar nudi idealan završetak gradskog obilaska."
           },
           "stops": [
             {
@@ -465,6 +472,10 @@
             "en": [
               "Climb the bell tower of Mary for the best view.",
               "The alleys of the old town are best in the cool morning."
+            ],
+            "hr": [
+              "Popnite se na zvonik Marije za najbolji pogled.",
+              "Ulice stare jezgre najbolje su u svježem jutru."
             ]
           }
         },
@@ -474,7 +485,7 @@
             "hu": "Az eső csillogóvá teszi Rab mészkőutcáit. Reggel kezdjen a Szent Kristóf téren, ahol a kávézók fedett teraszai menedéket nyújtanak. Délben a Gornja Ulica magas falai között sétálhat, melyek némi védelmet adnak a szél ellen. Délután fedezze fel a templomok és a Fejedelmi palota belső tereit. Este élvezze a hangulatot egy óvárosi konobában, miközben kint kopog az eső a macskaköveken.",
             "ro": "Ploaia conferă străzilor de calcar din Rab o strălucire aparte. Începeți dimineața în Piața Sf. Cristofor, unde cafenelele oferă refugiu. La prânz, plimbați-vă pe Gornja Ulica; zidurile înalte oferă o oarecare protecție. După-amiaza, vizitați interiorul bisericilor și Palatul Rectorului pentru a rămâne uscați. Seara, savurați atmosfera într-o tavernă locală din orașul vechi, ascultând ploaia de afară.",
             "en": "Rain gives Rab's limestone streets a glossy sheen. Start your morning at St. Christopher Square, where cafes provide dry shelter. At noon, stroll through Gornja Ulica; the high stone walls offer some protection. In the afternoon, explore the interiors of churches and the Rector's Palace. In the evening, enjoy the cozy atmosphere of an old town konoba while the rain patters against the windows.",
-            "hr": "Kiša daje vapnenačkim ulicama Raba sjaj. Započnite jutro na Trgu sv. Kristofora, gdje kafići nude suhi zaklon. U podne prošećite Gornjom ulicom; visoki kameni zidovi pružaju određenu zaštitu. Poslijepodne istražite unutrašnjost crkava i Kneževu palaču. Navečer uživajte u ugodnoj atmosferi konobe u starom gradu dok kiša dobuje po prozorima."
+            "hr": "Kiša daje rabskim vapnenačkim ulicama sjajan sjaj. Počnite jutro na Trgu sv. Kristofora, gdje kafići pružaju suhi zaklon. U podne prošećite Gornjom ulicom; visoki kameni zidovi nude određenu zaštitu. Popodne istražite interijere crkava i Kneževu palaču. Navečer uživajte u ugodnoj atmosferi stare gradske konobe dok kiša lupa o prozore."
           },
           "stops": [
             {
@@ -484,7 +495,7 @@
                 "hu": "Használja a környező kávézók árkádjait eső elleni védelemként.",
                 "ro": "Folosiți arcadele cafenelelor din jur pentru a vă adăposti de ploaie.",
                 "en": "Use the arcades of surrounding cafes as shelter from the rain.",
-                "hr": "Koristite arkade obližnjih kafića kao zaklon od kiše."
+                "hr": "Iskoristite arkade okolnih kafića kao zaklon od kiše."
               }
             },
             {
@@ -494,7 +505,7 @@
                 "hu": "Vigyázzon a csúszós kövezeten; esőben fontos a tapadós talpú cipő.",
                 "ro": "Atenție pe pavajul alunecos; încălțămintea aderentă este esențială pe ploaie.",
                 "en": "Be careful on the slippery pavement; sturdy footwear is essential in the wet.",
-                "hr": "Budite oprezni na skliskom pločniku; čvrsta obuća je neophodna na mokrom."
+                "hr": "Budite oprezni na klizavom popločenju; čvrsta obuća je nužna po mokrom vremenu."
               }
             },
             {
@@ -504,7 +515,7 @@
                 "hu": "Ideális helyszín egy száraz kulturális pihenőhöz a múzeumi részben.",
                 "ro": "Un loc ideal pentru o pauză culturală uscată în zona muzeului.",
                 "en": "An ideal spot for a dry cultural break in the museum area.",
-                "hr": "Idealno mjesto za suhi kulturni predah u zoni muzeja."
+                "hr": "Idealno mjesto za suhi kulturni predah u području muzeja."
               }
             },
             {
@@ -514,7 +525,7 @@
                 "hu": "Látogasson el a belső terekbe, hogy elkerülje a hevesebb esőt.",
                 "ro": "Vizitați interiorul pentru a evita ploaia mai puternică.",
                 "en": "Visit the interior rooms to escape the heaviest rain.",
-                "hr": "Posjetite unutarnje prostorije kako biste pobjegli od najjače kiše."
+                "hr": "Posjetite unutarnje prostorije da izbjegnete najjaču kišu."
               }
             },
             {
@@ -524,7 +535,7 @@
                 "hu": "Csodálja meg a művészeti kincseket a száraz belső térben.",
                 "ro": "Admirați comorile de artă în interiorul primitor și uscat.",
                 "en": "Admire the art treasures in the dry interior.",
-                "hr": "Divite se umjetničkom blagu u suhoj unutrašnjosti."
+                "hr": "Divite se umjetninama u suhom interijeru."
               }
             },
             {
@@ -534,7 +545,7 @@
                 "hu": "A sűrű fenyvesek természetes védelmet nyújtanak az enyhe szitálás ellen.",
                 "ro": "Pinii deși oferă protecție naturală împotriva burniței ușoare.",
                 "en": "Dense pines offer natural protection against light drizzle.",
-                "hr": "Gusti borovi nude prirodnu zaštitu od lagane kišice."
+                "hr": "Gusti borovi pružaju prirodnu zaštitu od lagane rosulje."
               }
             }
           ],
@@ -568,11 +579,11 @@
               "The view from the towers is often clouded over during rain."
             ],
             "hr": [
-              "Kameni pločnik u starom gradu postaje izuzetno sklizak kad je mokar.",
-              "Crkve i muzeji savršena su utočišta tijekom pljuskova.",
-              "Nosite nepromočivu jaknu; kišobrani su nespretni u uskim uličicama.",
-              "Mnogi kafići imaju grijane terase s tendama.",
-              "Pogled s tornjeva često je zaklonjen oblacima tijekom kiše."
+              "Kamnite ulice u starom gradu postaju izuzetno skliske kad su mokre.",
+              "Crkve i muzeji savršeno su utočište tijekom pljuskova.",
+              "Nosite vodootpornu jaknu; kišobrani su nezgrapni u uskim prolazima.",
+              "Mnogi kafići imaju grijane vanjske prostore s tendama.",
+              "Pogled s tornjeva često je zamagljen tijekom kiše."
             ]
           }
         },
@@ -582,7 +593,7 @@
             "hu": "Ismerje meg Rabot télen, a nyári tömeg nélkül. Reggel a kikötőben a levegő kristálytiszta. Délben az alacsonyan járó nap melegíti a Gornja Ulica kőhomlokzatait. Délután, ahogy a hűvösödik, a templomok spirituális nyugalmat árasztanak. Vegye figyelembe a korai, 16:30-as sötétedést. Este a lámpák fénye világítja meg a néptelen utcákat, varázslatos és időtlen hangulatot teremtve.",
             "ro": "Experimentați Rab iarna, fără mulțimile de vară. Dimineața, aerul din port este de o claritate cristalină. La prânz, soarele blând încălzește fațadele de piatră de pe Gornja Ulica. După-amiaza, pe măsură ce umbrele se lungesc, bisericile oferă o liniște spirituală. Rețineți că amurgul începe la ora 16:30. Seara, felinarele luminează străzile aproape pustii, creând o atmosferă magică.",
             "en": "Experience Rab in winter without the summer crowds. In the morning, the harbor air is crystal clear. At noon, the low-lying sun warms the stone facades of Gornja Ulica. In the afternoon, as shadows lengthen, the churches offer spiritual peace. Note that dusk begins as early as 4:30 PM. In the evening, streetlamps illuminate the nearly empty alleys, creating a magical, timeless atmosphere.",
-            "hr": "Doživite Rab zimi bez ljetnih gužvi. Ujutro je zrak u luci kristalno čist. U podne nisko sunce grije kamena pročelja Gornje ulice. Poslijepodne, kako se sjene produljuju, crkve nude duhovni mir. Imajte na umu कि sumrak počinje već oko 16:30. Navečer ulične svjetiljke obasjavaju gotovo prazne uličice, stvarajući čarobnu, bezvremensku atmosferu."
+            "hr": "Iskusite Rab zimi bez ljetnih gužvi. Ujutro je zrak u luci kristalno čist. U podne nisko sunce zagrijava kamene fasade Gornje ulice. Popodne, kako sjene postaju duže, crkve nude duhovni mir. Imajte na umu da sumrak počinje već oko 16:30. Navečer ulična rasvjeta osvjetljava gotovo prazne uličice, stvarajući čarobnu, bezvremensku atmosferu."
           },
           "stops": [
             {
@@ -592,7 +603,7 @@
                 "hu": "Élvezze a nyugalmat az egyébként nyüzsgő városkapunál.",
                 "ro": "Bucurați-vă de liniște la intrarea în oraș, de obicei foarte aglomerată.",
                 "en": "Enjoy the tranquility at the otherwise bustling town entrance.",
-                "hr": "Uživajte u tišini na inače užurbanom ulazu u grad."
+                "hr": "Uživajte u miru na inače užurbanom ulazu u grad."
               }
             },
             {
@@ -602,7 +613,7 @@
                 "hu": "A téli napfény különösen szépen világítja meg a harangtornyokat.",
                 "ro": "Soarele de iarnă luminează clopotnițele într-un mod deosebit.",
                 "en": "The winter sun illuminates the bell towers particularly beautifully.",
-                "hr": "Zimsko sunce posebno lijepo obasjava zvonike."
+                "hr": "Zimsko sunce posebno lijepo iluminira zvonike."
               }
             },
             {
@@ -612,7 +623,7 @@
                 "hu": "Előre ellenőrizze a múzeum téli nyitvatartási idejét.",
                 "ro": "Verificați programul de iarnă al muzeului în prealabil.",
                 "en": "Check the museum's winter opening hours in advance.",
-                "hr": "Unaprijed provjerite zimsko radno vrijeme muzeja."
+                "hr": "Provjerite zimska radna vremena muzeja unaprijed."
               }
             },
             {
@@ -632,7 +643,7 @@
                 "hu": "A csend és a meleg szigete a szeles téli napokon.",
                 "ro": "Un loc de liniște și căldură în zilele de iarnă cu vânt.",
                 "en": "A place of silence and warmth on windy winter days.",
-                "hr": "Mjesto tišine i topline tijekom vjetrovitih zimskih dana."
+                "hr": "Mjesto tišine i topline na vjetrovite zimske dane."
               }
             },
             {
@@ -642,7 +653,7 @@
                 "hu": "Az örökzöld fenyők télen is megőrzik mélyzöld színüket.",
                 "ro": "Pinii mereu verzi își păstrează culoarea bogată chiar și iarna.",
                 "en": "Evergreen pines keep their lush green even in winter.",
-                "hr": "Vazdazeleni borovi zadržavaju svoje bujno zelenilo i zimi."
+                "hr": "Vječnozeleni borovi zadržavaju bujnu zelen u zimskom razdoblju."
               }
             }
           ],
@@ -676,11 +687,11 @@
               "The bell towers often have limited access in winter."
             ],
             "hr": [
-              "Topla odjeća je važna zbog hladne bure.",
-              "Mnoge suvenirnice su zatvorene tijekom zime.",
-              "Zalazak sunca je rano, oko 16:30.",
+              "Topla odjeća je važna zbog hladnog vjetra bure.",
+              "Mnogi turistički dućani sa suvenirima zatvoreni su tijekom zime.",
+              "Zalazak sunca događa se rano, oko 16:30.",
               "Uživajte u autentičnom miru i tišini otočana.",
-              "Zvonici zimi često imaju ograničen pristup."
+              "Pristup zvonikima često je ograničen zimi."
             ]
           }
         }
@@ -709,14 +720,15 @@
             "de": "Guter Startpunkt für Radtouren entlang der Küste.",
             "hu": "Jó kiindulópont a tengerparti kerékpártúrákhoz.",
             "ro": "Punct bun de plecare pentru excursii cu bicicleta pe coastă.",
-            "en": "Good starting point for bike tours along the coast."
+            "en": "Good starting point for bike tours along the coast.",
+            "hr": "Dobar polazni punkt za biciklističke ture uz obalu."
           },
           "tip_5lang": {
             "de": "Mit Kaffee am Platz starten, bevor die Küstenstrecke beginnt.",
             "hu": "Indíts egy kávéval a téren, mielőtt nekivágsz a tengerparti útnak.",
             "ro": "Începe cu o cafea în piață înainte de a porni pe traseul de coastă.",
             "en": "Start with a coffee on the square before tackling the coastal route.",
-            "hr": "Započnite kavom na trgu prije nego što krenete na obalnu rutu."
+            "hr": "Započnite s kavom na trgu prije nego što krenete na obalnu rutu."
           }
         },
         {
@@ -734,14 +746,15 @@
             "de": "Der älteste Teil der Stadt mit verwinkelten Gassen.",
             "hu": "A város legrégebbi része kanyargós utcákkal.",
             "ro": "Cea mai veche parte a orașului cu străzi întortocheate.",
-            "en": "The oldest part of the town with winding alleys."
+            "en": "The oldest part of the town with winding alleys.",
+            "hr": "Najstariji dio grada s vijugavim ulicama."
           },
           "tip_5lang": {
             "de": "Das Rad durch die engen Kaldanac-Gassen schieben — Steintreppen.",
             "hu": "Told a biciklit a szűk Kaldanac sikátorokon, kőlépcsősek.",
             "ro": "Împinge bicicleta prin străduțele înguste din Kaldanac — sunt trepte de piatră.",
             "en": "Push your bike through the narrow Kaldanac alleys — they're stone steps.",
-            "hr": "Gurajte bicikl kroz uske uličice Kaldanca – to su kamene stepenice."
+            "hr": "Gurajte bicikl kroz uske kaldanac uličice — to su kameni koraci."
           }
         },
         {
@@ -759,14 +772,15 @@
             "de": "Ein geschichtsträchtiger Ort im oberen Stadtteil.",
             "hu": "Történelmi emlékhely a felső városrészben.",
             "ro": "Un loc plin de istorie în partea de sus a orașului.",
-            "en": "A place steeped in history in the upper town."
+            "en": "A place steeped in history in the upper town.",
+            "hr": "Mjesto prožeto poviješću u gornjem gradu."
           },
           "tip_5lang": {
             "de": "Rad an die Mauer lehnen und das dachlose Kirchenschiff zu Fuß erkunden.",
             "hu": "Támaszd a biciklit a falhoz, és gyalog járd be a tető nélküli hajót.",
             "ro": "Sprijină bicicleta de zid și plimbă-te pe jos prin nava fără acoperiș.",
             "en": "Lean your bike on the wall and explore the roofless nave on foot.",
-            "hr": "Naslonite bicikl na zid i pješice istražite lađu crkve bez krova."
+            "hr": "Naslonite bicikl na zid i pješice istražite brod bez krova."
           }
         },
         {
@@ -784,14 +798,15 @@
             "de": "Hier wird seit Jahrhunderten die Tradition gepflegt.",
             "hu": "Itt évszázadok óta ápolják a hagyományokat.",
             "ro": "Aici tradiția este păstrată de secole.",
-            "en": "Tradition has been maintained here for centuries."
+            "en": "Tradition has been maintained here for centuries.",
+            "hr": "Ovdje se tradicija održava stoljećima."
           },
           "tip_5lang": {
             "de": "Aktives Benediktinerkloster — beim Betreten zurückhaltende Kleidung.",
             "hu": "Működő bencés kolostor, belépéskor szerény öltözet kötelező.",
             "ro": "Mănăstire benedictină activă — ținută modestă necesară la intrare.",
             "en": "Active Benedictine monastery — modest dress required if you enter.",
-            "hr": "Aktivni benediktinski samostan – pri ulasku je potrebna pristojna odjeća."
+            "hr": "Aktivni benediktinski samostan — zahtijeva se skromna odjeća ako ulazite."
           }
         },
         {
@@ -809,14 +824,15 @@
             "de": "Fahren Sie langsam durch den bewaldeten Park.",
             "hu": "Hajtson lassan az erdős parkon keresztül.",
             "ro": "Pedalați încet prin parcul împădurit.",
-            "en": "Cycle slowly through the forested park."
+            "en": "Cycle slowly through the forested park.",
+            "hr": "Vozite polako kroz šumski park."
           },
           "tip_5lang": {
             "de": "Breite Schotterwege durch Pinienwald machen den Schluss leicht.",
             "hu": "Széles murvás utak a fenyvesben, könnyű befejezés a túrához.",
             "ro": "Aleile largi de pietriș prin pădurea de pini fac finalul ușor.",
             "en": "Wide gravel paths through pine forest make this an easy ride to finish.",
-            "hr": "Široke makadamske staze kroz borovu šumu čine ovo laganom vožnjom za kraj."
+            "hr": "Široke šljunčane staze kroz borovu šumu čine ovo lakom vožnjom za kraj ture."
           }
         }
       ],
@@ -825,7 +841,7 @@
         "hu": "Fedezze fel Rab-ot kényelmesen kerékpárral. A Szent Kristóf tértől kerekezzen át a festői Kaldanac negyeden, és fedezze fel a Szent János-templom történelmi romjait. A bencés kolostor mellett elhaladva végül a tágas Komrčar-parkba ér, ahol árnyas utak hívogatnak a nyugodt tekerésre, közben pedig újra és újra felbukkan a tenger látványa.",
         "ro": "Descoperiți Rab într-un mod relaxat cu bicicleta. De la Piața Sf. Cristofor pedalați prin cartierul pitoresc Kaldanac și explorați ruinele istorice ale Sf. Ioan. Trecând pe lângă mănăstirea benedictină, ajungeți în cele din urmă în parcul vast Komrčar, unde potecile umbrite vă invită la o plimbare relaxată, oferind din când în când vederi spre mare.",
         "en": "Discover Rab in a relaxed way by bike. From St. Christopher's Square, cycle through the picturesque Kaldanac district and explore the historic ruins of St. John. Passing the Benedictine monastery, you finally reach the wide Komrcar Park, where shady paths invite you to ride peacefully, offering occasional views of the sea.",
-        "hr": "Otkrijte Rab na opušten način biciklom. S Trga sv. Kristofora pedalirajte kroz slikovitu četvrt Kaldanac i istražite povijesne ruševine sv. Ivana. Prolazeći pored benediktinskog samostana, konačno stižete do prostranog parka Komrčar, gdje sjenovite staze pozivaju na mirnu vožnju uz povremene poglede na more."
+        "hr": "Otkrijte Rab opušteno biciklom. Sa Trga sv. Krse, vozite kroz slikoviti kaldanac i istražite povijesne ruševine sv. Ivana. Prolazeći pokraj benediktinskog samostana, naposljetku stižete do širokog parka Komrčar, gdje sjenovite staze pozivaju na mirnu vožnju i povremene poglede na more."
       },
       "gastro_picks": {
         "de": [
@@ -946,8 +962,8 @@
           "Use the coastal path for longer tours."
         ],
         "hr": [
-          "Vožnja bicikla u pješačkoj zoni dopuštena je samo ograničeno.",
-          "Koristite obalnu stazu za duže ture."
+          "Biciklizam je u pješačkoj zoni samo djelomično dopušten.",
+          "Za duže ture koristite obalnu stazu."
         ]
       },
       "variants": {
@@ -956,7 +972,8 @@
             "de": "Entdecken Sie Rab entspannt mit dem Fahrrad. Vom Christophorus-Platz radeln Sie durch das malerische Viertel Kaldanac und erkunden die historischen Ruinen von St. Johannes. Vorbei am Benediktinerkloster gelangen Sie schließlich in den weiten Park Komrčar, wo schattige Wege zum entspannten Fahren einladen und immer wieder Ausblicke auf das Meer bieten.",
             "hu": "Fedezze fel Rab-ot kényelmesen kerékpárral. A Szent Kristóf tértől kerekezzen át a festői Kaldanac negyeden, és fedezze fel a Szent János-templom történelmi romjait. A bencés kolostor mellett elhaladva végül a tágas Komrčar-parkba ér, ahol árnyas utak hívogatnak a nyugodt tekerésre, közben pedig újra és újra felbukkan a tenger látványa.",
             "ro": "Descoperiți Rab într-un mod relaxat cu bicicleta. De la Piața Sf. Cristofor pedalați prin cartierul pitoresc Kaldanac și explorați ruinele istorice ale Sf. Ioan. Trecând pe lângă mănăstirea benedictină, ajungeți în cele din urmă în parcul vast Komrčar, unde potecile umbrite vă invită la o plimbare relaxată, oferind din când în când vederi spre mare.",
-            "en": "Discover Rab in a relaxed way by bike. From St. Christopher's Square, cycle through the picturesque Kaldanac district and explore the historic ruins of St. John. Passing the Benedictine monastery, you finally reach the wide Komrcar Park, where shady paths invite you to ride peacefully, offering occasional views of the sea."
+            "en": "Discover Rab in a relaxed way by bike. From St. Christopher's Square, cycle through the picturesque Kaldanac district and explore the historic ruins of St. John. Passing the Benedictine monastery, you finally reach the wide Komrcar Park, where shady paths invite you to ride peacefully, offering occasional views of the sea.",
+            "hr": "Otkrijte Rab opušteno biciklom. Sa Trga sv. Krse, vozite kroz slikoviti kaldanac i istražite povijesne ruševine sv. Ivana. Prolazeći pokraj benediktinskog samostana, naposljetku stižete do širokog parka Komrčar, gdje sjenovite staze pozivaju na mirnu vožnju i povremene poglede na more."
           },
           "stops": [
             {
@@ -1078,6 +1095,10 @@
             "en": [
               "Cycling is only restrictedly allowed in the pedestrian zone.",
               "Use the coastal path for longer tours."
+            ],
+            "hr": [
+              "Biciklizam je u pješačkoj zoni samo djelomično dopušten.",
+              "Za duže ture koristite obalnu stazu."
             ]
           }
         },
@@ -1087,7 +1108,7 @@
             "hu": "Egy esős biciklitúra óvatosságot igényel, de üres utakat kínál. Reggel a Szent Kristóf térről induljon; figyeljen a csúszós kanyarokra. Délben fedezze fel a Kaldanac negyedet, ahol az eső tisztára mossa a régi köveket. Délután a Szent János romok misztikus látványt nyújtanak a szürke ég alatt. Zárja a túrát a Komrčar parkban, ahol a fák felfogják a hevesebb esőt.",
             "ro": "O plimbare cu bicicleta pe ploaie necesită prudență, dar oferă drumuri libere. Dimineața, porniți din Piața Sf. Cristofor; atenție la curbele alunecoase. La prânz, explorați cartierul Kaldanac, unde ploaia curăță pietrele vechi. După-amiaza, ruinele Sf. Ioan au un aspect mistic sub cerul gri. Încheiați turul în Parcul Komrčar, unde copacii vă protejează de ploaia torențială.",
             "en": "A bike tour in the rain requires caution but offers empty paths. In the morning, start at St. Christopher Square; watch out for slippery corners. At noon, explore the Kaldanac quarter, where rain washes the ancient stones. In the afternoon, the ruins of St. John offer a mystical sight under gray skies. End the tour in Komrčar Park, where the trees catch the heaviest rain.",
-            "hr": "Vožnja biciklom po kiši zahtijeva oprez, ali nudi prazne staze. Ujutro krenite s Trga sv. Kristofora; pazite na skliske zavoje. U podne istražite četvrt Kaldanac, gdje kiša ispire drevno kamenje. Poslijepodne ruševine sv. Ivana nude mističan prizor pod sivim nebom. Završite turu u parku Komrčar, gdje drveće zaustavlja najjaču kišu."
+            "hr": "Biciklistička tura po kiši zahtijeva oprez, ali nudi prazne staze. Ujutro krenite sa Trga sv. Krse; pripazite na klizave zavoje. U podne istražite kvart Kaldanac, gdje kiša ispire drevne kamene ploče. Popodne ruševine sv. Ivana nude mističan prizor pod sivim nebom. Završite turu u parku Komrčar, gdje drveće upija najintenzivniju kišu."
           },
           "stops": [
             {
@@ -1097,7 +1118,7 @@
                 "hu": "Indulás előtt ellenőrizze a fékeket a nedves talajon.",
                 "ro": "Verificați frânele înainte de a porni pe carosabilul umed.",
                 "en": "Check your brakes before starting on wet surfaces.",
-                "hr": "Provjerite kočnice prije kretanja po mokrim površinama."
+                "hr": "Provjerite kočnice prije početka na vlažnim površinama."
               }
             },
             {
@@ -1107,7 +1128,7 @@
                 "hu": "Lassan haladjon a szűk utcákban; a kövezet csalóka lehet.",
                 "ro": "Mergeți încet pe străzile înguste; pavajul poate fi trădător.",
                 "en": "Ride slowly in narrow alleys; the pavement is treacherous.",
-                "hr": "Vozite polako u uskim uličicama; pločnik je varljiv."
+                "hr": "Vozite polako uskim uličicama; popločenje je opasno klizavo."
               }
             },
             {
@@ -1117,7 +1138,7 @@
                 "hu": "A falak alig védenek; legyen kéznél esővédő ruházat.",
                 "ro": "Zidurile oferă puțin adăpost; aveți la îndemână pelerina de ploaie.",
                 "en": "The walls offer little shelter; keep rain gear ready.",
-                "hr": "Zidovi nude malo zaklona; držite kišnu opremu pri ruci."
+                "hr": "Zidine pružaju malo zaklona; imajte kišnu opremu pri ruci."
               }
             },
             {
@@ -1127,7 +1148,7 @@
                 "hu": "Egy rövid megálló a bejáratnál átmeneti védelmet nyújt.",
                 "ro": "O scurtă oprire la intrare oferă adăpost temporar.",
                 "en": "A short stop at the entrance area offers brief shelter.",
-                "hr": "Kratko zaustavljanje na ulaznom prostoru nudi kratak zaklon."
+                "hr": "Kratka pauza na ulaznom području nudi kratkotrajni zaklon."
               }
             },
             {
@@ -1172,10 +1193,10 @@
             ],
             "hr": [
               "Koristite blatobrane kako biste izbjegli prljavštinu i prskanje vode.",
-              "Kameni pločnik i oznake su izuzetno skliski kad su mokri.",
+              "Kameno popločenje i oznake iznimno su skliske kad su mokre.",
               "Izbjegavajte naglo kočenje u zavojima.",
-              "Nosite uočljivu, vodootpornu odjeću.",
-              "U slučaju jakog nevremena, odmah potražite čvrsti zaklon."
+              "Nosite reflektirajuću, vodootpornu odjeću.",
+              "U slučaju jake oluje, odmah potražite čvrst zaklon."
             ]
           }
         },
@@ -1185,7 +1206,7 @@
             "hu": "A téli kerékpározás Rabon frissítő és békés. Reggel a kikötőből indulva az élénkítő levegő fogadja. Délben fedezze fel Kaldanacot; az alacsony nap aranyszínnel világítja meg az utcákat. Délután a Szent János romoknál élvezze a tiszta távlatokat. Gondoljon a korai, 16:30-as naplementére. A túra a Komrčar parkban ér véget, amely télen szinte misztikus csendet áraszt.",
             "ro": "Ciclismul de iarnă în Rab este revigorant și liniștit. Dimineața porniți din port, unde aerul este revigorant. La prânz, explorați Kaldanac; soarele jos luminează străzile în tonuri aurii. După-amiaza, la ruinele Sf. Ioan, bucurați-vă de vizibilitatea mare. Nu uitați de apusul devreme, la 16:30. Turul se încheie în Parcul Komrčar, care emană o liniște mistică iarna.",
             "en": "Winter cycling on Rab is refreshing and peaceful. Start in the morning at the harbor, where the air is bracing. At noon, explore Kaldanac; the low sun lights up the alleys in golden tones. In the afternoon at the ruins of St. John, enjoy the clear views. Keep the early sunset at 4:30 PM in mind. The tour ends in Komrčar Park, which radiates a mystical silence in winter.",
-            "hr": "Zimski biciklizam na Rabu je osvježavajuć i miran. Krenite ujutro iz luke, gdje je zrak okrepljujući. U podne istražite Kaldanac; nisko sunce obasjava uličice zlatnim tonovima. Poslijepodne kod ruševina sv. Ivana uživajte u jasnim vidicima. Imajte na umu rani zalazak sunca u 16:30. Tura završava u parku Komrčar, koji zimi zrači mističnom tišinom."
+            "hr": "Zimsko bicikliranje na Rabu je osvježavajuće i mirno. Krenite ujutro iz luke, gdje je zrak pojačan i svjež. U podne istražite Kaldanac; nisko sunce obasjava uličice zlatnim tonovima. Popodne kod ruševina sv. Ivana uživajte u bistrim pogledima. Imajte na umu rani zalazak sunca oko 16:30. Tura završava u parku Komrčar, koji zimi odiše mističnom tišinom."
           },
           "stops": [
             {
@@ -1195,7 +1216,7 @@
                 "hu": "Viseljen kesztyűt a hűvös menetszél ellen.",
                 "ro": "Purtați mănuși împotriva curentului de aer rece.",
                 "en": "Wear gloves to protect against the chilly headwind.",
-                "hr": "Nosite rukavice kako biste se zaštitili od hladnog čeonog vjetra."
+                "hr": "Nosite rukavice za zaštitu od prohladnog protivvjetra."
               }
             },
             {
@@ -1205,7 +1226,7 @@
                 "hu": "A nap itt télen csak a felsőbb emeleteket éri el.",
                 "ro": "Soarele ajunge aici iarna doar la etajele superioare.",
                 "en": "The sun only reaches the upper floors here in winter.",
-                "hr": "Sunce ovdje zimi dopire samo do gornjih katova."
+                "hr": "Zimi sunce doseže samo gornje etaže ovdje."
               }
             },
             {
@@ -1225,7 +1246,7 @@
                 "hu": "A masszív falak gyakran még tovább tartják a hideget.",
                 "ro": "Zidurile masive păstrează adesea frigul mai mult timp.",
                 "en": "The massive walls often retain the cold even longer.",
-                "hr": "Masivni zidovi često zadržavaju hladnoću još duže."
+                "hr": "Masivne zidine često dulje zadržavaju hladnoću."
               }
             },
             {
@@ -1235,7 +1256,7 @@
                 "hu": "Az erdei utak télen gyakran nedvesek és puhák.",
                 "ro": "Potecile din pădure sunt adesea umede și moi iarna.",
                 "en": "The forest paths are often damp and soft in winter.",
-                "hr": "Šumske staze su zimi često vlažne i mekane."
+                "hr": "Šumske staze često su vlažne i mekane zimi."
               }
             }
           ],
@@ -1269,11 +1290,11 @@
               "Take advantage of the empty promenades for relaxed riding."
             ],
             "hr": [
-              "Odjenite se slojevito kako biste se zaštitili od vjetra.",
+              "Obucite se slojevito radi zaštite od vjetra.",
               "Rukavice i kapa ispod kacige su neophodni.",
               "Planirajte povratak prije 17:00 (mrak).",
               "Bura može otežati vožnju na izloženim dijelovima.",
-              "Iskoristite prazne šetnice za opuštenu vožnju."
+              "Iskoristite prazne promenade za opuštenu vožnju."
             ]
           }
         }
@@ -1302,14 +1323,15 @@
             "de": "Großer öffentlicher Parkplatz direkt am Hafen.",
             "hu": "Nagy nyilvános parkoló közvetlenül a kikötőnél.",
             "ro": "Parcare publică mare chiar lângă port.",
-            "en": "Large public parking lot right by the harbor."
+            "en": "Large public parking lot right by the harbor.",
+            "hr": "Veliko javno parkiralište odmah uz luku."
           },
           "tip_5lang": {
             "de": "Bezahlplatz im Juli ab neun voll; kleine Euromünzen bereithalten.",
             "hu": "Júliusban kilencre megtelik a fizetős parkoló, készíts apró eurót.",
             "ro": "Parcarea cu plată se umple până la ora 9 vara; pregătește mărunțiș.",
             "en": "Paid lot fills by 9 a.m. in July; have small euro coins ready.",
-            "hr": "Plaćeni parking se puni do 9 ujutro u srpnju; imajte spremne kovanice eura."
+            "hr": "Plato s naplatom puni se do 9:00 u srpnju; imajte sitne eure pri ruci."
           }
         },
         {
@@ -1327,14 +1349,15 @@
             "de": "Einer der bekanntesten Sandstrände Kroatiens.",
             "hu": "Horvátország egyik leghíresebb homokos strandja.",
             "ro": "Una dintre cele mai renumite plaje cu nisip din Croația.",
-            "en": "One of Croatia's most famous sandy beaches."
+            "en": "One of Croatia's most famous sandy beaches.",
+            "hr": "Jedna od najslavnijih pješčanih plaža Hrvatske."
           },
           "tip_5lang": {
             "de": "Berühmter Sandstrand — Sonnenschirm mitbringen, kaum natürlicher Schatten.",
             "hu": "Híres homokos strand, hozz napernyőt, alig van természetes árnyék.",
             "ro": "Plajă faimoasă cu nisip — adu o umbrelă, umbra naturală e foarte puțină.",
             "en": "Famous sandy beach — bring an umbrella, there's almost no natural shade.",
-            "hr": "Poznata pješčana plaža – ponesite suncobran, prirodnog hlada gotovo nema."
+            "hr": "Poznata pješčana plaža — ponesite suncobran, skoro nema prirodnog hlada."
           }
         },
         {
@@ -1352,14 +1375,15 @@
             "de": "Rückkehr ins Herz der Stadt Rab.",
             "hu": "Visszatérés Rab város szívébe.",
             "ro": "Revenire în inima orașului Rab.",
-            "en": "Return to the heart of Rab town."
+            "en": "Return to the heart of Rab town.",
+            "hr": "Povratak u srce grada Raba."
           },
           "tip_5lang": {
             "de": "Einheimische treffen sich hier abends — eine Rapska torta zum Teilen bestellen.",
             "hu": "Helyiek esti gyülekezőhelye, rendelj Rapska tortát közös fogyasztásra.",
             "ro": "Localnicii se adună aici seara — comandă o Rapska torta de împărțit.",
             "en": "Locals gather here in the cooler evening — order a Rapska torta to share.",
-            "hr": "Lokalno stanovništvo se ovdje okuplja u svježije večeri – naručite Rapsku tortu za podijeliti."
+            "hr": "Mještani se okupljaju ovdje u hladnijem večernjem vremenu — naručite Rapsku tortu za podijeliti."
           }
         },
         {
@@ -1377,14 +1401,15 @@
             "de": "Besuch der historischen Innenräume.",
             "hu": "A történelmi belső terek meglátogatása.",
             "ro": "Vizita interioarelor istorice.",
-            "en": "Visit the historic interiors."
+            "en": "Visit the historic interiors.",
+            "hr": "Posjetite povijesne interijere."
           },
           "tip_5lang": {
             "de": "Nach Abendkonzerten fragen; im Hof klassische Musik im Sommer.",
             "hu": "Kérdezz az esti koncertekről, az udvar nyáron klasszikus zenei helyszín.",
             "ro": "Întreabă despre concertele de seară; curtea găzduiește muzică clasică vara.",
             "en": "Ask about evening concerts; the courtyard hosts classical music in summer.",
-            "hr": "Pitajte za večernje koncerte; u dvorištu se ljeti održava klasična glazba."
+            "hr": "Pitajte za večernje koncerte; ljeti se u dvorištu održava klasična glazba."
           }
         },
         {
@@ -1402,14 +1427,15 @@
             "de": "Der schönste Aussichtspunkt der ganzen Insel.",
             "hu": "Az egész sziget legszebb kilátópontja.",
             "ro": "Cel mai frumos punct de observație de pe întreaga insulă.",
-            "en": "The most beautiful viewpoint on the entire island."
+            "en": "The most beautiful viewpoint on the entire island.",
+            "hr": "Najljepši vidikovac na cijelom otoku."
           },
           "tip_5lang": {
             "de": "Der höchste der vier Glockentürme Rabs — eine romantische Abendsilhouette.",
             "hu": "Rab négy harangtornya közül a legmagasabb, romantikus alkonyati sziluett.",
             "ro": "Cea mai înaltă dintre cele patru clopotnițe — siluetă romantică la apus.",
             "en": "The tallest of Rab's four bell towers — a romantic dusk silhouette.",
-            "hr": "Najviši od četiri rapska zvonika – romantična silueta u sumrak."
+            "hr": "Najviši od četiri rapska zvonika — romantična silueta u sumrak."
           }
         }
       ],
@@ -1418,7 +1444,7 @@
         "hu": "Autóval összekötheti a lopari strandolást Rab város kultúrájával. Kezdje a reggelt a lopari Paradicsom-parton, mielőtt délben visszatérne Rab óvárosába. Ott fedezze fel a Szent Kristóf teret, a Fejedelmi palotát, és végül másszon fel a híres harangtoronyba, hogy megcsodálja a panorámát a vörös tetők felett.",
         "ro": "Cu mașina combinați distracția la plajă în Lopar cu cultura orașului Rab. Începeți dimineața pe plaja Paradisului din Lopar, înainte de a reveni la prânz în orașul vechi Rab. Acolo explorați Piața Sf. Cristofor, Palatul Principelui și în cele din urmă urcați în faimoasa clopotniță pentru a admira panorama peste acoperișurile roșii.",
         "en": "By car, you can combine beach fun in Lopar with the culture of Rab town. Start the morning at Paradise Beach in Lopar before returning to the old town of Rab at midday. There, explore St. Christopher's Square, the Rector's Palace, and finally climb the famous bell tower to enjoy the panorama over the red roofs.",
-        "hr": "Automobilom možete kombinirati zabavu na plaži u Loparu s kulturom grada Raba. Jutro započnite na Rajskoj plaži u Loparu prije nego što se u podne vratite u stari grad Rab. Tamo istražite Trg sv. Kristofora, Kneževu palaču i na kraju se popnite na poznati zvonik kako biste uživali u panorami nad crvenim krovovima."
+        "hr": "Autom možete kombinirati užitak na plaži u Loparu s kulturom grada Raba. Započnite jutro na Raju u Loparu prije povratka u stari grad Raba u podne. Tamo istražite Trg sv. Kristofora, Kneževu palaču i na kraju se popnite na poznati zvonik kako biste uživali u panorami crvenih krovova."
       },
       "gastro_picks": {
         "de": [
@@ -1539,8 +1565,8 @@
           "The drive from Rab to Lopar takes about 15-20 minutes."
         ],
         "hr": [
-          "U jeku sezone parkiralište u Rabu se brzo puni.",
-          "Vožnja od Raba do Lopara traje oko 15-20 minuta."
+          "U visokoj sezoni parkiralište u Rabu brzo se popuni.",
+          "Voznja od Raba do Lopara traje oko 15–20 minuta."
         ]
       },
       "variants": {
@@ -1549,7 +1575,8 @@
             "de": "Mit dem Auto verbinden Sie den Badespaß in Lopar mit der Kultur der Stadt Rab. Starten Sie morgens am Paradiesstrand in Lopar, bevor Sie mittags in die Altstadt von Rab zurückkehren. Dort erkunden Sie den Christophorus-Platz, den Fürstenpalast und steigen schließlich auf den berühmten Glockenturm, um das Panorama über die roten Dächer zu genießen.",
             "hu": "Autóval összekötheti a lopari strandolást Rab város kultúrájával. Kezdje a reggelt a lopari Paradicsom-parton, mielőtt délben visszatérne Rab óvárosába. Ott fedezze fel a Szent Kristóf teret, a Fejedelmi palotát, és végül másszon fel a híres harangtoronyba, hogy megcsodálja a panorámát a vörös tetők felett.",
             "ro": "Cu mașina combinați distracția la plajă în Lopar cu cultura orașului Rab. Începeți dimineața pe plaja Paradisului din Lopar, înainte de a reveni la prânz în orașul vechi Rab. Acolo explorați Piața Sf. Cristofor, Palatul Principelui și în cele din urmă urcați în faimoasa clopotniță pentru a admira panorama peste acoperișurile roșii.",
-            "en": "By car, you can combine beach fun in Lopar with the culture of Rab town. Start the morning at Paradise Beach in Lopar before returning to the old town of Rab at midday. There, explore St. Christopher's Square, the Rector's Palace, and finally climb the famous bell tower to enjoy the panorama over the red roofs."
+            "en": "By car, you can combine beach fun in Lopar with the culture of Rab town. Start the morning at Paradise Beach in Lopar before returning to the old town of Rab at midday. There, explore St. Christopher's Square, the Rector's Palace, and finally climb the famous bell tower to enjoy the panorama over the red roofs.",
+            "hr": "Autom možete kombinirati užitak na plaži u Loparu s kulturom grada Raba. Započnite jutro na Raju u Loparu prije povratka u stari grad Raba u podne. Tamo istražite Trg sv. Kristofora, Kneževu palaču i na kraju se popnite na poznati zvonik kako biste uživali u panorami crvenih krovova."
           },
           "stops": [
             {
@@ -1671,6 +1698,10 @@
             "en": [
               "In high season, the parking lot in Rab fills up quickly.",
               "The drive from Rab to Lopar takes about 15-20 minutes."
+            ],
+            "hr": [
+              "U visokoj sezoni parkiralište u Rabu brzo se popuni.",
+              "Voznja od Raba do Lopara traje oko 15–20 minuta."
             ]
           }
         },
@@ -1680,7 +1711,7 @@
             "hu": "Autóval kényelmesen felfedezheti Rabot esőben is. Kezdje a reggelt az óvárosi parkolóban. Délben autózzon el Loparba; a Paradicsom-part esőben is drámai látvány, még ha a fürdés el is marad. Délután térjen vissza a városba a Szent Kristóf térhez. Látogassa meg a Fejedelmi palotát, és ha lehet, menjen fel a harangtoronyba megfigyelni a sziget feletti felhőket.",
             "ro": "Cu mașina, explorați Rab în confort chiar și pe ploaie. Începeți dimineața la parcarea din orașul vechi. La prânz, conduceți spre Lopar; Plaja Paradisului arată dramatic pe ploaie, chiar dacă nu puteți înota. După-amiaza, reveniți în oraș la Piața Sf. Cristofor. Vizitați Palatul Rectorului și urcați în clopotniță pentru a vedea norii deasupra insulei.",
             "en": "By car, you can explore Rab in comfort even in the rain. Start your morning at the old town parking lot. At noon, drive to Lopar; Paradise Beach looks dramatic in the rain, even if swimming is out. In the afternoon, return to town to St. Christopher Square. Visit the Rector's Palace and, if possible, climb the bell tower to watch the clouds over the island.",
-            "hr": "Automobilom možete udobno istraživati Rab čak i po kiši. Započnite jutro na parkiralištu staroga grada. U podne se odvezite do Lopara; Rajska plaža izgleda dramatično na kiši, čak i ako kupanje nije opcija. Poslijepodne se vratite u grad na Trg sv. Kristofora. Posjetite Kneževu palaču i, ako je moguće, popnite se na zvonik kako biste promatrali oblake nad otokom."
+            "hr": "Autom možete istražiti Rab ugodno i po kiši. Jutro započnite na parkiralištu kod starog grada. U podne se odvezite do Lopara; Raja izgleda dramatično po kiši, iako kupanje nije preporučljivo. Popodne se vratite u grad na Trg sv. Krse. Posjetite Kneževu palaču i, ako je moguće, popnite se na zvonik za promatranje oblaka nad otokom."
           },
           "stops": [
             {
@@ -1690,7 +1721,7 @@
                 "hu": "A rövid út a városkapuig minimalizálja az esőben töltött időt.",
                 "ro": "Distanța scurtă până la intrarea în oraș minimizează timpul în ploaie.",
                 "en": "Short paths to the town entrance minimize time spent in the rain.",
-                "hr": "Kratki putovi do ulaza u grad minimiziraju vrijeme provedeno na kiši."
+                "hr": "Kratke staze do ulaza u grad minimiziraju boravak na kiši."
               }
             },
             {
@@ -1700,7 +1731,7 @@
                 "hu": "Élvezze a kilátást a száraz autóból vagy egy kávézóból.",
                 "ro": "Bucurați-vă de priveliște din mașină sau de la o cafenea.",
                 "en": "Enjoy the view from the dry car or a nearby cafe.",
-                "hr": "Uživajte u pogledu iz suhog automobila ili obližnjeg kafića."
+                "hr": "Uživajte u pogledu iz suhog automobila ili obližnje kavane."
               }
             },
             {
@@ -1710,7 +1741,7 @@
                 "hu": "Parkoljon a központhoz közel, hogy gyorsan az árkádok alá érjen.",
                 "ro": "Parcați aproape de centru pentru a ajunge rapid sub arcade.",
                 "en": "Park close to the center to quickly reach the arcades.",
-                "hr": "Parkirajte blizu centra kako biste brzo stigli do arkada."
+                "hr": "Parkirajte blizu centra kako biste brzo došli do arkada."
               }
             },
             {
@@ -1720,7 +1751,7 @@
                 "hu": "Használja a palotát kulturális esővédőként.",
                 "ro": "Folosiți palatul ca adăpost cultural împotriva ploii.",
                 "en": "Use the palace as a cultural rain shelter.",
-                "hr": "Koristite palaču kao kulturni zaklon od kiše."
+                "hr": "Iskoristite palaču kao kulturni zaklon od kiše."
               }
             },
             {
@@ -1730,7 +1761,7 @@
                 "hu": "Vigyázzon a felmenetnél; a kőlépcsők nedvesek lehetnek.",
                 "ro": "Atenție la urcare; treptele de piatră pot fi umede.",
                 "en": "Be careful during the ascent; the stone steps may be damp.",
-                "hr": "Budite oprezni tijekom uspona; kamene stepenice mogu biti vlažne."
+                "hr": "Budite oprezni tijekom uspona; kameni koraci mogu biti vlažni."
               }
             }
           ],
@@ -1764,11 +1795,11 @@
               "Use the driving time for sightseeing along the coastal road."
             ],
             "hr": [
-              "Glavne otočke ceste su dobro održavane, ali skliske kad su mokre.",
-              "U Loparu ima dovoljno slobodnih parkirnih mjesta po kišnom vremenu.",
-              "Automobil nudi najbolju zaštitu od promjenjivog otočkog vremena.",
-              "Izbjegavajte parkiranje ispod drveća ako postoji opasnost od oluje.",
-              "Iskoristite vrijeme vožnje za razgledavanje duž obalne ceste."
+              "Glavne otočke ceste dobro su održavane, ali skliske kad su mokre.",
+              "U Loparu ima mnogo besplatnih parkirnih mjesta za kišnog vremena.",
+              "Automobil pruža najbolju zaštitu od promjenjivog otočkog vremena.",
+              "Izbjegavajte parkiranje ispod drveća ako postoji rizik od oluje.",
+              "Iskoristite vrijeme vožnje za razgledavanje uz obalnu cestu."
             ]
           }
         },
@@ -1778,7 +1809,7 @@
             "hu": "Télen az autózás a Rab-szigeten különösen pihentető. Reggel stresszmentesen indulhat az óvárosi parkolóból. Délben irány Lopar; a tágas homokos tengerpart szinte csak az Öné. Délután térjen vissza a Szent Kristóf térre. Az alacsony nap tökéletes fényt ad a fotózáshoz. Zárja a napot a harangtoronynál, mielőtt 17 óra körül a sötétség beborítja a szigetet.",
             "ro": "Iarna, o călătorie cu mașina pe insula Rab este deosebit de relaxantă. Dimineața porniți fără stres din parcarea orașului vechi. La prânz, conduceți spre Lopar; plaja vastă de nisip este aproape doar a dumneavoastră. După-amiaza reveniți în Piața Sf. Cristofor. Soarele jos oferă lumina ideală pentru fotografii. Încheiați ziua la clopotniță înainte ca întunericul să cuprindă insula la ora 17:00.",
             "en": "In winter, a car trip across Rab island is particularly relaxed. Start stress-free in the morning at the old town parking lot. At noon, drive to Lopar; the vast sandy beach is almost yours alone. In the afternoon, return to St. Christopher Square. The low sun provides ideal light for photos. End the day at the bell tower before darkness envelops the island around 5:00 PM.",
-            "hr": "Zimi je izlet automobilom po otoku Rabu posebno opušten. Započnite jutro bez stresa na parkiralištu staroga grada. U podne se odvezite do Lopara; prostrana pješčana plaža gotovo je samo vaša. Poslijepodne se vratite na Trg sv. Kristofora. Nisko sunce pruža idealno svjetlo za fotografije. Završite dan kod zvonika prije nego što mrak obavije otok oko 17:00."
+            "hr": "Zimi je vožnja automobilom po otoku Rabu posebno opuštena. Krenite bez stresa ujutro s parkirališta starog grada. U podne se odvezite do Lopara; prostrana pješčana plaža bit će gotovo vaša. Popodne se vratite na Trg sv. Krse. Nisko sunce pruža idealno svjetlo za fotografije. Dan završite na zvoniku prije nego što mrak obuzme otok oko 17:00."
           },
           "stops": [
             {
@@ -1788,7 +1819,7 @@
                 "hu": "Télen itt gond nélkül talál parkolóhelyet a központ közelében.",
                 "ro": "Iarna veți găsi fără probleme un loc de parcare aproape de centru.",
                 "en": "In winter, you'll easily find a parking spot close to the center.",
-                "hr": "Zimi ćete lako pronaći parkirno mjesto blizu centra."
+                "hr": "Zimi ćete lako naći parkirno mjesto blizu centra."
               }
             },
             {
@@ -1798,7 +1829,7 @@
                 "hu": "Tökéletes egy magányos tengerparti sétához a tiszta téli levegőben.",
                 "ro": "Perfect pentru o plimbare solitară pe plajă în aerul curat de iarnă.",
                 "en": "Perfect for a lonely beach walk in the clear winter air.",
-                "hr": "Savršeno za usamljenu šetnju plažom na čistom zimskom zraku."
+                "hr": "Savršeno za samotnu šetnju plažom u čistom zimskom zraku."
               }
             },
             {
@@ -1808,7 +1839,7 @@
                 "hu": "Élvezze az ünnepi kivilágítást, ha van ilyen a téren.",
                 "ro": "Bucurați-vă de iluminatul festiv, dacă este instalat în piață.",
                 "en": "Enjoy the festive lighting, if available in the square.",
-                "hr": "Uživajte u blagdanskoj rasvjeti, ako je postavljena na trgu."
+                "hr": "Uživajte u blagdanskom osvjetljenju, ako je dostupno na trgu."
               }
             },
             {
@@ -1818,7 +1849,7 @@
                 "hu": "A kőfalak télen hűvös eleganciát árasztanak.",
                 "ro": "Zidurile de piatră emană o eleganță rece în timpul iernii.",
                 "en": "The stone walls radiate a cool elegance in winter.",
-                "hr": "Kameni zidovi zimi zrače hladnom elegancijom."
+                "hr": "Kamene zidine zimi zrače hladnom elegancijom."
               }
             },
             {
@@ -1828,7 +1859,7 @@
                 "hu": "Meleg öltözet szükséges a szeles kilátóteraszhoz.",
                 "ro": "Haine groase necesare pentru platforma de observație cu vânt.",
                 "en": "Warm clothing needed for the windy observation deck.",
-                "hr": "Potrebna je topla odjeća za vjetrovit vidikovac."
+                "hr": "Topla odjeća potrebna na vjetrovitoj vidikovci."
               }
             }
           ],
@@ -1862,11 +1893,11 @@
               "Take advantage of shorter travel times due to less traffic."
             ],
             "hr": [
-              "Naknade za parkiranje zimi su često snižene ili se ne naplaćuju.",
-              "Bura može snažno puhati na mostovima i obalnim cestama.",
+              "Naknade za parkiranje često su smanjene ili ukinute zimi.",
+              "Bura može jako puhati na mostovima i obalnim cestama.",
               "Provjerite je li vaše vozilo spremno za zimu (antifriz).",
-              "Lopar je zimi vrlo tih; mnogi kafići su na sezonskoj pauzi.",
-              "Iskoristite kraće vrijeme putovanja zbog manjega prometa."
+              "Lopar je zimi vrlo miran; mnogi kafići su zatvoreni sezonski.",
+              "Iskoristite kraća vremena putovanja zbog manjeg prometa."
             ]
           }
         }
@@ -1895,14 +1926,15 @@
             "de": "Ankunftsort für Busse aus dem Fährhafen Mišnjak.",
             "hu": "A Mišnjak kompállomástól érkező buszok megállóhelye.",
             "ro": "Locul de sosire pentru autobuzele din portul de feribot Mišnjak.",
-            "en": "Arrival point for buses from the Mišnjak ferry port."
+            "en": "Arrival point for buses from the Mišnjak ferry port.",
+            "hr": "Polazna točka za autobuse s trajektnog pristaništa Mišnjak."
           },
           "tip_5lang": {
             "de": "Die meisten Busse von Mišnjak enden hier — Rückfahrtickets am Kiosk kaufen.",
             "hu": "A legtöbb Mišnjak-kompról jövő busz itt áll meg, jegyet a kioszkban vegyél.",
             "ro": "Majoritatea autobuzelor de la feribotul Mišnjak ajung aici — bilet la chioșc.",
             "en": "Most buses from Mišnjak ferry terminate here — buy return tickets at the kiosk.",
-            "hr": "Većina autobusa s trajekta Mišnjak ovdje završava – kupite povratne karte na kiosku."
+            "hr": "Većina autobusa s trajekta Mišnjak završava ovdje — kupite povratne karte na kiosku."
           }
         },
         {
@@ -1920,14 +1952,15 @@
             "de": "In unmittelbarer Nähe zum Busbahnhof.",
             "hu": "A buszpályaudvar közvetlen közelében.",
             "ro": "În imediata apropiere a autogării.",
-            "en": "In the immediate vicinity of the bus station."
+            "en": "In the immediate vicinity of the bus station.",
+            "hr": "U neposrednoj blizini autobusnog kolodvora."
           },
           "tip_5lang": {
             "de": "Vom Platz aus führt jede Gasse zu einem fotogenen verborgenen Winkel.",
             "hu": "A térről minden sikátor egy elrejtett, fotózásra érdemes sarokhoz vezet.",
             "ro": "Din piață, fiecare alee duce către un colț ascuns demn de fotografiat.",
             "en": "From the square, every alley leads to a hidden corner worth photographing.",
-            "hr": "S trga svaka uličica vodi do skrivenog kuta vrijednog fotografiranja."
+            "hr": "Iz trga svaka uličica vodi do skrivenog kuta vrijednog fotografiranja."
           }
         },
         {
@@ -1945,14 +1978,15 @@
             "de": "Zentraler historischer Punkt der Altstadt.",
             "hu": "Az óváros központi történelmi pontja.",
             "ro": "Punctul istoric central al orașului vechi.",
-            "en": "Central historical point of the old town."
+            "en": "Central historical point of the old town.",
+            "hr": "Središnja povijesna točka starog grada."
           },
           "tip_5lang": {
             "de": "Hier verlangsamen — der Loggia-Hof zeigt oft kostenlose Kunstausstellungen.",
             "hu": "Lassíts itt, a loggia udvar gyakran ingyenes kiállításoknak ad otthont.",
             "ro": "Încetinește aici — curtea loggiei găzduiește des expoziții gratuite de artă.",
             "en": "Slow down here — the loggia courtyard often hosts free art exhibitions.",
-            "hr": "Ovdje usporite – u dvorištu lože često se održavaju besplatne izložbe umjetnosti."
+            "hr": "Usporite ovdje — loggia dvorište često domaćinuje besplatnim izložbama umjetnosti."
           }
         },
         {
@@ -1970,14 +2004,15 @@
             "de": "Gut zu Fuß erreichbar.",
             "hu": "Gyalogosan jól megközelíthető.",
             "ro": "Ușor de accesat pe jos.",
-            "en": "Well accessible on foot."
+            "en": "Well accessible on foot.",
+            "hr": "Lako dostupno pješice."
           },
           "tip_5lang": {
             "de": "Den Domturm zu besteigen ist die beste Aktivität in Rab — hinauf!",
             "hu": "A katedrális tornyának megmászása Rab legjobb élménye, mássz fel.",
             "ro": "Urcușul în clopotnița catedralei e cea mai bună activitate din Rab — urcă.",
             "en": "Climbing the cathedral tower is the single best activity in Rab — go up.",
-            "hr": "Uspon na katedralni toranj najbolja je aktivnost u Rabu – popnite se."
+            "hr": "Uspon na toranj katedrale najbolja je aktivnost na Rabu — popnite se."
           }
         },
         {
@@ -1995,14 +2030,15 @@
             "de": "Ein schöner Spaziergang zurück zum Busbahnhof.",
             "hu": "Szép séta vissza a buszpályaudvarhoz.",
             "ro": "O plimbare frumoasă înapoi la autogară.",
-            "en": "A nice walk back to the bus station."
+            "en": "A nice walk back to the bus station.",
+            "hr": "Lijep povratak pješice do autobusnog kolodvora."
           },
           "tip_5lang": {
             "de": "Unter Pinien abkühlen, bevor der letzte Bus zur Fähre kommt.",
             "hu": "Hűsölj a fenyők alatt, mielőtt az utolsó busszal indulsz a kompra.",
             "ro": "Răcorește-te sub pini înainte de a prinde ultimul autobuz spre feribot.",
             "en": "Cool down under pines before catching the last bus back to your ferry.",
-            "hr": "Rashladite se pod borovima prije nego što uhvatite posljednji autobus natrag na trajekt."
+            "hr": "Ohladite se pod borovima prije posljednjeg autobusa natrag na trajekt."
           }
         }
       ],
@@ -2011,7 +2047,7 @@
         "hu": "Érkezzen Rab-ba kényelmesen a szigeti busszal. Az állomástól közvetlenül a Szent Kristóf térre jut, és elmerülhet a Fejedelmi palota történelmében. Látogassa meg a székesegyházat, barangoljon a festői utcákon, majd tölődjön fel a Komrčar-parkban, mielőtt újra buszra szállna a továbbutazáshoz.",
         "ro": "Ajungeți în Rab confortabil cu autobuzul de pe insulă. De la stație ajungeți direct în Piața Sf. Cristofor și vă scufundați în istoria Palatului Principelui. Vizitați catedrala și plimbați-vă pe străzile pitorești, înainte de a vă reîncărca bateriile în parcul Komrčar și de a lua din nou autobuzul pentru continuarea călătoriei.",
         "en": "Reach Rab comfortably by island bus. From the station, you'll reach St. Christopher's Square directly and dive into the history of the Rector's Palace. Visit the Cathedral and wander through the picturesque alleys before recharging in Komrcar Park and finally taking the bus again for your onward journey.",
-        "hr": "Dođite do Raba udobno otočnim autobusom. S kolodvora ćete izravno stići do Trga sv. Kristofora i uroniti u povijest Kneževe palače. Posjetite katedralu i lutajte slikovitim uličicama prije nego što napunite baterije u parku Komrčar i konačno ponovno sjednete na autobus za nastavak putovanja."
+        "hr": "Udobno dođite na Rab otočnim autobusom. Iz kolodvora stižete izravno na Trg sv. Kristofora i uranjate u povijest Kneževe palače. Posjetite katedralu i prošećite slikovitim uličicama prije odmora u parku Komrčar, a zatim ponovno sjednite na autobus za dalje putovanje."
       },
       "gastro_picks": {
         "de": [
@@ -2132,8 +2168,8 @@
           "The bus station is only about 300 meters from the harbor."
         ],
         "hr": [
-          "Kupite kartu unaprijed na šalteru.",
-          "Autobusni kolodvor je udaljen samo oko 300 metara od luke."
+          "Kupite kartu unaprijed na blagajni.",
+          "Autobusni kolodvor udaljen je samo oko 300 metara od luke."
         ]
       },
       "variants": {
@@ -2142,7 +2178,8 @@
             "de": "Erreichen Sie Rab bequem mit dem Inselbus. Von der Station gelangen Sie direkt zum Christophorus-Platz und tauchen in die Geschichte des Fürstenpalastes ein. Besuchen Sie die Kathedrale und wandern Sie durch die malerischen Gassen, bevor Sie im Park Komrčar neue Energie tanken und schließlich wieder den Bus für Ihre Weiterreise nehmen.",
             "hu": "Érkezzen Rab-ba kényelmesen a szigeti busszal. Az állomástól közvetlenül a Szent Kristóf térre jut, és elmerülhet a Fejedelmi palota történelmében. Látogassa meg a székesegyházat, barangoljon a festői utcákon, majd tölődjön fel a Komrčar-parkban, mielőtt újra buszra szállna a továbbutazáshoz.",
             "ro": "Ajungeți în Rab confortabil cu autobuzul de pe insulă. De la stație ajungeți direct în Piața Sf. Cristofor și vă scufundați în istoria Palatului Principelui. Vizitați catedrala și plimbați-vă pe străzile pitorești, înainte de a vă reîncărca bateriile în parcul Komrčar și de a lua din nou autobuzul pentru continuarea călătoriei.",
-            "en": "Reach Rab comfortably by island bus. From the station, you'll reach St. Christopher's Square directly and dive into the history of the Rector's Palace. Visit the Cathedral and wander through the picturesque alleys before recharging in Komrcar Park and finally taking the bus again for your onward journey."
+            "en": "Reach Rab comfortably by island bus. From the station, you'll reach St. Christopher's Square directly and dive into the history of the Rector's Palace. Visit the Cathedral and wander through the picturesque alleys before recharging in Komrcar Park and finally taking the bus again for your onward journey.",
+            "hr": "Udobno dođite na Rab otočnim autobusom. Iz kolodvora stižete izravno na Trg sv. Kristofora i uranjate u povijest Kneževe palače. Posjetite katedralu i prošećite slikovitim uličicama prije odmora u parku Komrčar, a zatim ponovno sjednite na autobus za dalje putovanje."
           },
           "stops": [
             {
@@ -2264,6 +2301,10 @@
             "en": [
               "Buy your ticket in advance at the counter.",
               "The bus station is only about 300 meters from the harbor."
+            ],
+            "hr": [
+              "Kupite kartu unaprijed na blagajni.",
+              "Autobusni kolodvor udaljen je samo oko 300 metara od luke."
             ]
           }
         },
@@ -2273,7 +2314,7 @@
             "hu": "Használja a buszt, hogy Rabot esőben is szárazon fedezhesse fel. Reggel érkezzen meg a buszpályaudvarra. Délben érje el a Szent Kristóf teret, ahol gyorsan az árkádok alá húzódhat. Délután a Fejedelmi palota és a Székesegyház kínál száraz kulturális programot. Zárja a napot a Komrčar parknál; a busz kényelmesen visszaviszi, elkerülve a hosszú esőben gyaloglást.",
             "ro": "Folosiți autobuzul pentru a explora Rab pe ploaie fără a vă uda. Dimineața sosiți la autogară. La prânz, ajungeți în Piața Sf. Cristofor, unde vă puteți adăposti rapid sub arcade. După-amiaza, Palatul Rectorului și Catedrala oferă un program cultural la adăpost. Încheiați ziua în Parcul Komrčar; autobuzul vă readuce confortabil, evitând mersul lung prin ploaie.",
             "en": "Use the bus to explore Rab dry during the rain. In the morning, arrive at the bus station. At noon, reach St. Christopher Square, where you can quickly slip under the arcades. In the afternoon, the Rector's Palace and the Cathedral offer a dry cultural program. End the day at Komrčar Park; the bus takes you back comfortably without a long walk in the rain.",
-            "hr": "Koristite autobus kako biste istražili Rab na suhom tijekom kiše. Ujutro stignite na autobusni kolodvor. U podne dođite do Trga sv. Kristofora, gdje se možete brzo skloniti pod arkade. Poslijepodne Kneževa palača i katedrala nude suhi kulturni program. Završite dan u parku Komrčar; autobus vas udobno vozi natrag bez duge šetnje po kiši."
+            "hr": "Koristite autobus za razgledavanje Raba suho tijekom kiše. Ujutro stižete na kolodvor. U podne dođite na Trg sv. Kristofora gdje se brzo možete skloniti pod arkade. Poslijepodne Kneževa palača i katedrala nude suhi kulturni program. Završite dan u parku Komrčar; autobus vas udobno vraća bez duge šetnje po kiši."
           },
           "stops": [
             {
@@ -2283,7 +2324,7 @@
                 "hu": "A váróterem jó védelmet nyújt az első eső elől.",
                 "ro": "Stația de autobuz oferă un adăpost bun împotriva ploii.",
                 "en": "The bus shelter provides good protection from the initial rain.",
-                "hr": "Nadstrešnica na autobusnoj stanici pruža dobru zaštitu od početne kiše."
+                "hr": "Autobusna čekaonica dobro štiti od početne kiše."
               }
             },
             {
@@ -2293,7 +2334,7 @@
                 "hu": "A buszmegállótól csak pár lépés a legközelebbi kávézó.",
                 "ro": "De la stația de autobuz sunt doar câțiva pași până la cafenea.",
                 "en": "It's only a few steps from the bus stop to the nearest cafe.",
-                "hr": "Samo je nekoliko koraka od stanice do najbližeg kafića."
+                "hr": "Samo je nekoliko koraka od stajališta do najbližeg kafića."
               }
             },
             {
@@ -2303,7 +2344,7 @@
                 "hu": "Ideális hely egy eső zápor kulturális átvészeléséhez.",
                 "ro": "Un loc ideal pentru a aștepta trecerea ploii vizitând un muzeu.",
                 "en": "An ideal place to wait out a rain shower culturally.",
-                "hr": "Idealno mjesto za kulturno čekanje da kiša prestane."
+                "hr": "Idealno mjesto za kulturno čekanje dok pada kiša."
               }
             },
             {
@@ -2313,7 +2354,7 @@
                 "hu": "A belső tér méltóságteljes és száraz menedék.",
                 "ro": "Interiorul este un refugiu demn și uscat.",
                 "en": "The interior is a dignified and dry retreat.",
-                "hr": "Unutrašnjost je dostojanstveno i suho utočište."
+                "hr": "Interijer je dostojanstveno i suho utočište."
               }
             },
             {
@@ -2323,7 +2364,7 @@
                 "hu": "Az utak esőben sárosak lehetnek; maradjon a kiépített ösvényeken.",
                 "ro": "Potecile pot fi noroioase pe ploaie; rămâneți pe căile pavate.",
                 "en": "Paths can be muddy in the rain; stay on the paved trails.",
-                "hr": "Staze mogu biti blatnjave na kiši; ostanite na popločanim putovima."
+                "hr": "Putevi mogu biti blatnjavi po kiši; ostanite na popločanim stazama."
               }
             }
           ],
@@ -2357,11 +2398,11 @@
               "Wear waterproof shoes for the walk to the bus stop."
             ],
             "hr": [
-              "Provjerite vozni red jer kiša može uzrokovati kašnjenja.",
-              "Imajte spremne sitne kovanice ili karticu za kartu.",
-              "Autobusi su često puni tijekom kiše; planirajte moguće vrijeme čekanja.",
-              "Stanice su uglavnom smještene centralno u blizini znamenitosti.",
-              "Nosite nepromočivu obuću za šetnju do autobusne stanice."
+              "Provjerite vozni red autobusa, jer kiša može uzrokovati kašnjenja.",
+              "Imajte sitniš ili karticu spremnu za kartu.",
+              "Autobusi su često puni tijekom kiše; planirajte moguće čekanje.",
+              "Stajališta su većinom smještena centralno blizu znamenitosti.",
+              "Nosite vodootpornu obuću za šetnju do stajališta."
             ]
           }
         },
@@ -2371,7 +2412,7 @@
             "hu": "Busszal úgy ismerheti meg a téli Rabot, mint a helyiek. Reggel a csendes buszpályaudvarról induljon. Délben fedezze fel a Szent Kristóf teret; a téli nap alacsonyan jár és hosszú árnyékokat vet. Délután a Fejedelmi palota és a Székesegyház nyugalmat és védelmet nyújt a szél ellen. Ügyeljen a ritkább téli menetrendre, és térjen vissza a Komrčar parkhoz a sötétedés előtt.",
             "ro": "Cu autobuzul, experimentați Rab-ul de iarnă la fel ca localnicii. Dimineața porniți de la autogara liniștită. La prânz, explorați Piața Sf. Cristofor; soarele de iarnă este jos și aruncă umbre lungi. După-amiaza, Palatul Rectorului și Catedrala oferă liniște și protecție împotriva vântului. Atenție la programul de iarnă redus și reveniți la Parcul Komrčar înainte de ora 17:00.",
             "en": "By bus, you can experience wintry Rab just like the locals. Start in the morning at the quiet bus station. At noon, explore St. Christopher Square; the winter sun is low and casts long shadows. In the afternoon, the Rector's Palace and the Cathedral offer silence and protection from the wind. Watch out for the reduced winter schedule and return to Komrčar Park before dark at 5:00 PM.",
-            "hr": "Autobusom možete doživjeti zimski Rab baš kao i mještani. Započnite jutro na mirnom autobusnom kolodvoru. U podne istražite Trg sv. Kristofora; zimsko sunce je nisko i baca duge sjene. Poslijepodne Kneževa palača i katedrala nude tišinu i zaštitu od vjetra. Pazite na reducirani zimski vozni red i vratite se u park Komrčar prije mraka u 17:00."
+            "hr": "Autobusom možete doživjeti zimski Rab baš kao mještani. Počnite ujutro na tihom kolodvoru. U podne istražite Trg sv. Kristofora; zimsko sunce je nisko i baca dugačke sjene. Poslijepodne Kneževa palača i katedrala nude tišinu i zaštitu od vjetra. Pazite na smanjeni zimski vozni red i vratite se u park Komrčar prije 17:00 sati dok je još svijetlo."
           },
           "stops": [
             {
@@ -2401,7 +2442,7 @@
                 "hu": "Az építészet a tiszta téli levegőben különösen élesnek hat.",
                 "ro": "Arhitectura pare deosebit de clară în aerul curat de iarnă.",
                 "en": "The architecture looks particularly sharp in the clear winter air.",
-                "hr": "Arhitektura izgleda posebno oštro na čistom zimskom zraku."
+                "hr": "Arhitektura posebno oštra u prozračnom zimskom zraku."
               }
             },
             {
@@ -2421,7 +2462,7 @@
                 "hu": "Téli erdei séta közvetlenül a város szélén.",
                 "ro": "O plimbare de iarnă prin pădure chiar la marginea orașului.",
                 "en": "A wintry forest walk right on the edge of town.",
-                "hr": "Zimska šetnja šumom odmah na rubu grada."
+                "hr": "Zimska šetnja šumom tik na rubu grada."
               }
             }
           ],
@@ -2455,10 +2496,10 @@
               "Ask the driver about special winter routes."
             ],
             "hr": [
-              "Zimski vozni redovi često su značajno reducirani.",
-              "Posljednji autobus može krenuti već s početkom večeri.",
-              "Iskoristite toplinu u autobusu za malu turu otokom.",
-              "Autobusne stanice su manje zagušene zimi.",
+              "Zimski vozni redovi često su znatno reducirani.",
+              "Zadnji autobus može polaziti već na početku večeri.",
+              "Iskoristite toplinu u autobusu za mali razgled otoka.",
+              "Stajališta su zimi manje gužvovita.",
               "Pitajte vozača o posebnim zimskim linijama."
             ]
           }
@@ -2487,19 +2528,22 @@
       "de": "Kroatisch ist Landessprache; im Tourismus sind Deutsch, Italienisch und Englisch sehr weit verbreitet.",
       "hu": "Az ország nyelve a horvát; a turizmusban a német, az olasz és az angol nagyon elterjedt.",
       "ro": "Limba țării este croata; în turism, germana, italiana și engleza sunt foarte răspândite.",
-      "en": "Croatian is the national language; in tourism, German, Italian and English are very widely spoken."
+      "en": "Croatian is the national language; in tourism, German, Italian and English are very widely spoken.",
+      "hr": "Hrvatski je državni jezik; u turizmu se vrlo često koriste njemački, talijanski i engleski."
     },
     "best_time_to_visit": {
       "de": "Juni bis September für Strände und das Rabska Fjera Festival Ende Juli; Mai und Oktober ideal zum Radfahren.",
       "hu": "Június és szeptember között a strandokhoz és a július végi Rabska Fjera fesztiválhoz; május, október jó kerékpározáshoz.",
       "ro": "Iunie până în septembrie pentru plaje și festivalul Rabska Fjera de la sfârșitul lui iulie; mai și octombrie bune pentru ciclism.",
-      "en": "June to September for beaches and the Rabska Fjera festival in late July; May and October ideal for cycling."
+      "en": "June to September for beaches and the Rabska Fjera festival in late July; May and October ideal for cycling.",
+      "hr": "Lipanj do rujna za plaže i Rabska fjera krajem srpnja; svibanj i listopad idealni za biciklizam."
     },
     "neighborhood_warnings": {
       "de": "Sehr sichere Insel; im Hochsommer Sonnenschutz und Wasser nicht vergessen, einige FKK-Strände sind klar ausgeschildert.",
       "hu": "Nagyon biztonságos sziget; nyáron napvédő és víz szükséges, néhány nudista strand jól táblázott.",
       "ro": "Insulă foarte sigură; vara protecție solară și apă obligatorii, unele plaje naturiste clar semnalizate.",
-      "en": "Very safe island; in high summer bring sunscreen and water, some nudist beaches are clearly signposted."
+      "en": "Very safe island; in high summer bring sunscreen and water, some nudist beaches are clearly signposted.",
+      "hr": "Vrlo siguran otok; u visokoj sezoni ponesite kremu za sunčanje i vodu, neke nudističke plaže jasno su označene."
     }
   }
 }

@@ -32,7 +32,7 @@
             "hu": "Élvezze a kilátást a Rijeka Dubrovačka nyugodt vizére.",
             "ro": "Bucurați-vă de priveliștea apelor liniștite din Rijeka Dubrovačka.",
             "en": "Enjoy the view of the calm waters of Rijeka Dubrovačka.",
-            "hr": "Uživajte u pogledu na mirne vode Rijeke dubrovačke."
+            "hr": "Uživajte u pogledu na mirnu vodu Rijeke Dubrovačke."
           }
         },
         {
@@ -51,7 +51,7 @@
             "hu": "A világ egyik legrövidebb folyója ered itt közvetlenül a hegy lábánál.",
             "ro": "Unul dintre cele mai scurte râuri din lume izvorăște chiar la poalele muntelui.",
             "en": "One of the shortest rivers in the world springs right at the foot of the mountain.",
-            "hr": "Jedna od najkraćih rijeka na svijetu izvire podno same planine."
+            "hr": "Jedna od najkraćih rijeka na svijetu izvire točno podno planine."
           }
         },
         {
@@ -70,7 +70,7 @@
             "hu": "Történelmi nyaraló, amely a Raguzai Köztársaság gazdagságát tükrözi.",
             "ro": "O casă de vară istorică care reflectă bogăția Republicii Ragusa.",
             "en": "A historic summer house reflecting the wealth of the Republic of Ragusa.",
-            "hr": "Povijesni ljetnikovac koji odražava bogatstvo Dubrovačke Republike."
+            "hr": "Povijesna ljetna kuća koja odražava bogatstvo Republike Dubrovačke."
           }
         },
         {
@@ -89,7 +89,7 @@
             "hu": "Próbálja ki a friss halat vagy a helyi 'Peka' ételt.",
             "ro": "Încercați peștele proaspăt sau preparatul local 'Peka'.",
             "en": "Try the fresh fish or the local 'Peka' dish.",
-            "hr": "Kušajte svježu ribu ili lokalno jelo ispod peke."
+            "hr": "Probajte svježu ribu ili lokalnu peka jelo."
           }
         },
         {
@@ -108,7 +108,7 @@
             "hu": "Pihentető séta a sétányon, kilátással a vitorlásokra.",
             "ro": "O plimbare relaxantă pe faleză, cu vedere la bărci.",
             "en": "Relaxing walk along the promenade with a view of the sailboats.",
-            "hr": "Opuštajuća šetnja uz šetnicu s pogledom na jedrilice."
+            "hr": "Opustajuća šetnja uz rivu s pogledom na jedrilice."
           }
         },
         {
@@ -127,7 +127,7 @@
             "hu": "Tökéletes hely a Rijeka Dubrovačka délutáni fotózásához.",
             "ro": "Loc perfect pentru fotografii cu Rijeka Dubrovačka după-amiaza.",
             "en": "Perfect spot for afternoon photos of Rijeka Dubrovačka.",
-            "hr": "Savršeno mjesto za poslijepodnevne fotografije Rijeke dubrovačke."
+            "hr": "Savršeno mjesto za popodnevne fotografije Rijeke Dubrovačke."
           }
         }
       ],
@@ -136,7 +136,7 @@
         "hu": "Kezdje a napot az Ombla csendes forrásánál, ahol kristálytiszta víz tör elő közvetlenül a sziklából. Sétáljon a part mentén a dubrovniki nemesség pompás történelmi nyaralóihoz. Egy kiadós ebéd után egy helyi konobában élvezze Mokošica partjának pihentető légkörét, és zárja a napot az öbölre nyíló kilátással.",
         "ro": "Începeți ziua la izvorul liniștit al Ombla, unde apa cristalină țâșnește direct din stâncă. Plimbați-vă de-a lungul malului până la conacele istorice somptuoase ale nobilimii din Dubrovnik. După un prânz copios la o konoba locală, bucurați-vă de atmosfera relaxantă de pe malul apei în Mokošica și încheiați ziua cu o priveliște asupra golfului.",
         "en": "Start your day at the quiet source of the Ombla, where crystal clear water bursts directly from the rock. Walk along the shore to the magnificent historic summer houses of the Dubrovnik nobility. After a hearty lunch in a local konoba, enjoy the relaxing atmosphere of the waterfront in Mokošica and end the day with a view over the bay.",
-        "hr": "Započnite dan na mirnom izvoru Omble, gdje kristalno čista voda izbija izravno iz stijene. Šetajte uz obalu do veličanstvenih povijesnih ljetnikovaca dubrovačkog plemstva. Nakon obilnog ručka u lokalnoj konobi, uživajte u opuštajućoj atmosferi mokoške rive i završite dan s pogledom na zaljev."
+        "hr": "Započnite dan na mirnom izvoru Omble, gdje kristalno čista voda izbija iz same stijene. Prošećite obalom do veličanstvenih povijesnih ljetnikovaca dubrovačke plemićke obitelji. Nakon obilnog ručka u lokalnoj konobi, uživajte u opuštenoj atmosferi rive u Mokošici i završite dan pogledom preko zaljeva."
       },
       "gastro_picks": {
         "de": [
@@ -310,10 +310,10 @@
           "The area is much quieter than Dubrovnik's Old Town."
         ],
         "hr": [
-          "Nosite udobnu obuću za stazu uz rijeku.",
-          "Područje oko izvora ostaje svježe čak i za vrućih dana.",
-          "Posjetite ljetnikovce ujutro radi najboljeg svjetla.",
-          "Područje je puno mirnije od dubrovačke Stare gradske jezgre."
+          "Nosite udobnu obuću za riječnu stazu.",
+          "Područje oko izvora ostaje svježe i za vrućih dana.",
+          "Posjetite ljetnikovce ujutro zbog najboljeg osvjetljenja.",
+          "Područje je znatno mirnije od dubrovačkog Starog grada."
         ]
       },
       "variants": {
@@ -323,7 +323,7 @@
             "hu": "A reggel az Ombla folyóra hulló eső kopogásával indul, ami tökéletes alkalmat ad egy hosszabb kávézáshoz a fedett parton. Délben egy helyi konoba nyújt menedéket és laktató dalmát ételeket, miközben a szürke felhők megülnek az öböl felett. Délután a történelmi udvarház vastag falai között kalandozunk, elkerülve a záporokat. A napot egy rövid, frissítő sétával zárjuk a parton, ahol a lámpák fényei megcsillannak a vizes aszfalton.",
             "ro": "Dimineața începe cu sunetul ploii pe râul Ombla, ideal pentru o cafea prelungită într-un loc acoperit. La prânz, o konoba locală oferă adăpost și preparate dalmate consistente, în timp ce norii gri plutesc peste golf. După-amiaza vizităm conacul istoric, ale cărui ziduri groase oferă protecție împotriva vremii. Încheiem ziua cu o scurtă plimbare revigorantă pe mal, unde luminile stradale se reflectă în asfaltul umed.",
             "en": "The morning starts with the sound of rain on the Ombla river, perfect for an extended coffee in a sheltered spot. At noon, a local konoba provides refuge and hearty Dalmatian dishes while gray clouds hang over the bay. In the afternoon, we explore the historical villa, where thick walls offer protection from the showers. We end the day with a short, refreshing walk along the Riva, where the streetlights reflect in the wet pavement.",
-            "hr": "Jutro počinje zvukom kiše na rijeci Ombli, idealno za produženu kavu u natkrivenom zaklonu. U podne, lokalna konoba pruža utočište i krepka dalmatinska jela dok sivi oblaci vise nad zaljevom. Poslijepodne istražujemo povijesnu vilu čiji debeli zidovi nude zaštitu od pljuskova. Dan završavamo kratkom, osvježavajućom šetnjom uz Rivu, gdje se ulična svjetla zrcale na mokrom pločniku."
+            "hr": "Jutro započinje zvukom kiše na rijeci Ombli, idealno za produženu kavu u zaklonjenom mjestu. U podne lokalna konoba pruža utočište i obilna dalmatinska jela dok se nad zaljevom nižu sivi oblaci. Popodne istražujemo povijesnu vilu, gdje debeli zidovi štite od pljuskova. Dan završavamo kratkom, osvježavajućom šetnjom rivom, gdje se ulična svjetla ogledaju na mokrom pločniku."
           },
           "stops": [
             {
@@ -333,7 +333,7 @@
                 "hu": "Válasszunk belső asztalt, ahonnan rálátni az eső áztatta folyótorkolatra.",
                 "ro": "Alegeți o masă în interior cu vedere spre gura râului sub ploaie.",
                 "en": "Choose an indoor table with a view of the rainy river mouth.",
-                "hr": "Odaberite stol u zatvorenom s pogledom na kišno ušće rijeke."
+                "hr": "Odaberite unutarnji stol s pogledom na kišni ušće rijeke."
               }
             },
             {
@@ -343,7 +343,7 @@
                 "hu": "A forrás eső után különösen bővizű; vigyázzunk a csúszós köveken.",
                 "ro": "Izvorul este spectaculos după ploaie; atenție la pietrele alunecoase.",
                 "en": "The source is powerful after rain; be careful on the slippery rocks.",
-                "hr": "Izvor je snažan nakon kiše; budite oprezni na skliskom kamenju."
+                "hr": "Izvor je snažniji nakon kiše; pazite na skliske stijene."
               }
             },
             {
@@ -353,7 +353,7 @@
                 "hu": "Használjuk a belső udvart esővédőként, és csodáljuk meg a kőfaragásokat.",
                 "ro": "Folosiți curtea interioară ca adăpost și admirați detaliile în piatră.",
                 "en": "Use the inner courtyard for shelter and admire the stonework.",
-                "hr": "Iskoristite unutarnje dvorište za zaklon i divite se klesariji."
+                "hr": "Koristite unutarnje dvorište za zaklon i divite se kamenom zidu."
               }
             },
             {
@@ -363,7 +363,7 @@
                 "hu": "Rendeljünk pekát vagy egy meleg levest, hogy átmelegedjünk.",
                 "ro": "Comandați peka sau o supă caldă pentru a vă încălzi.",
                 "en": "Order a peka or a warm soup to warm up.",
-                "hr": "Naručite peku ili toplu juhu da se ugrijete."
+                "hr": "Naručite peku ili toplu juhu za zagrijavanje."
               }
             },
             {
@@ -373,7 +373,7 @@
                 "hu": "Egy strapabíró esernyő elengedhetetlen a parti szélnél.",
                 "ro": "O umbrelă rezistentă este esențială din cauza vântului de coastă.",
                 "en": "A sturdy umbrella is essential with the coastal winds.",
-                "hr": "Čvrst kišobran je neophodan zbog obalnih vjetrova."
+                "hr": "Čvrsti kišobran je bitan zbog obalnih vjetrova."
               }
             },
             {
@@ -383,7 +383,7 @@
                 "hu": "A felhőzet az Adria felett gyakran drámai látványt nyújt esőben.",
                 "ro": "Nori deasupra Adriaticii oferă adesea un peisaj dramatic pe ploaie.",
                 "en": "The cloud cover over the Adriatic often looks dramatic in the rain.",
-                "hr": "Pokrivač oblaka nad Jadranom često izgleda dramatično na kiši."
+                "hr": "Oblačno nebo nad Jadranom često izgleda dramatično u kiši."
               }
             }
           ],
@@ -413,10 +413,10 @@
               "The Ombla source carries more water during rain and is more impressive acoustically."
             ],
             "hr": [
-              "Nosite nepromočivu obuću jer se na Rivi mogu stvoriti lokve.",
-              "Konobe u Mokošici obično su grijane i nude ugodan odmor.",
-              "Stanice autobusa 1A ili 1B blizu su znamenitosti ako kiša postane prejaka.",
-              "Izvor Omble nosi više vode tijekom kiše i akustički je impresivniji."
+              "Nosite vodootpornu obuću jer se na Rivi mogu stvoriti lokve.",
+              "Konobe u Mokošici obično su grijane i nude ugodno utočište.",
+              "Autobusi 1A ili 1B staju blizu znamenitosti ako kiša postane prejaka.",
+              "Izvor Omble nosi više vode za vrijeme kiše i akustički je dojmljiviji."
             ]
           }
         },
@@ -426,7 +426,7 @@
             "hu": "A tiszta téli levegőben az Ombla-forrás látványa különösen éles és tiszta. Délben a turistaáradattól mentes nyugalmat élvezzük egy fűtött konobában, hagyományos egytálételek társaságában. Kora délután kihasználjuk a lágy napsütést az udvarháznál, mielőtt a nap 16:30 körül eltűnik a dombok mögött. Az estét egy forró ital mellett töltjük Mokošicában, miközben a bóra tisztára sepri az eget.",
             "ro": "Aerul curat de iarnă face ca vederea spre izvorul Ombla să fie extrem de clară. La prânz ne bucurăm de liniștea fără turiști într-o konoba caldă, savurând mâncăruri tradiționale. Profităm de lumina blândă de după-amiază pentru fotografii la conac, înainte ca soarele să apună după dealuri în jur de 16:30. Seara o petrecem cu o băutură caldă în Mokošica, în timp ce vântul Bura curăță cerul.",
             "en": "The crisp winter air makes the view of the Ombla source particularly sharp. At noon, we enjoy the peace away from tourist crowds in a warm konoba with traditional stews. In the early afternoon, we take advantage of the soft sunlight for photos at the villa before the sun sets behind the hills around 4:30 PM. We spend the evening with a hot drink in Mokošica while the Bura wind sweeps the sky clear.",
-            "hr": "Oštar zimski zrak čini pogled na izvor Omble posebno jasnim. U podne uživamo u miru daleko od turističke gužve u toploj konobi s tradicionalnim varivima. U rano poslijepodne koristimo blagu sunčevu svjetlost za fotografiranje vile prije nego što sunce zađe iza brda oko 16:30. Večer provodimo uz topli napitak u Mokošici dok bura mete nebo do bistrine."
+            "hr": "Oštar zimski zrak čini pogled na izvor Omble posebno jasnim. U podne uživamo u miru daleko od turističkih gužvi u toploj konobi s tradicionalnim varivima. U ranim poslijepodnevnim satima koristimo mekano svjetlo za fotografije kod vile prije nego što sunce zađe iza brda oko 16:30. Večer provodimo uz topao napitak u Mokošici dok Bura razbistrava nebo."
           },
           "stops": [
             {
@@ -436,7 +436,7 @@
                 "hu": "Élvezzük a csendet; télen szinte csak helyieket találni itt.",
                 "ro": "Bucurați-vă de liniște; iarna sunt aproape doar localnici aici.",
                 "en": "Enjoy the peace; in winter, you'll find mostly locals here.",
-                "hr": "Uživajte u miru; zimi ćete ovdje naći uglavnom lokalno stanovništvo."
+                "hr": "Uživajte u miru; zimi ćete ovdje sresti većinom lokalno stanovništvo."
               }
             },
             {
@@ -456,7 +456,7 @@
                 "hu": "A téli fények szépen kiemelik a régi falak textúráját.",
                 "ro": "Lumina de iarnă scoate în evidență textura zidurilor vechi.",
                 "en": "The winter light beautifully highlights the texture of the old walls.",
-                "hr": "Zimsko svjetlo prekrasno ističe teksturu starih zidova."
+                "hr": "Zimsko svjetlo lijepo ističe teksturu starih zidova."
               }
             },
             {
@@ -466,7 +466,7 @@
                 "hu": "Kóstoljuk meg a 'Zelena Menestra'-t, a régió jellegzetes téli ételét.",
                 "ro": "Încercați „Zelena Menestra”, un preparat de iarnă tipic regiunii.",
                 "en": "Try 'Zelena Menestra', a typical winter dish of the region.",
-                "hr": "Kušajte zelenu menestru, tipično zimsko jelo ove regije."
+                "hr": "Probajte 'Zelenu Menestru', tipično zimsko jelo regije."
               }
             },
             {
@@ -476,7 +476,7 @@
                 "hu": "Vigyázzunk a bórával; a szél nagyon hűvös lehet a parton.",
                 "ro": "Atenție la Bura; vântul poate fi foarte tăios pe faleză.",
                 "en": "Watch out for the Bura; the wind can be very chilly on the Riva.",
-                "hr": "Čuvajte se bure; vjetar na Rivi može biti vrlo oštar."
+                "hr": "Pazite na Buru; vjetar može biti vrlo hladan na Rivi."
               }
             },
             {
@@ -486,7 +486,7 @@
                 "hu": "A naplemente télen korábban van, de gyakran színesebb.",
                 "ro": "Apusul este mai devreme iarna, dar adesea mai colorat.",
                 "en": "The sunset is earlier in winter, but often more colorful.",
-                "hr": "Zalazak sunca je zimi raniji, ali često i koloritniji."
+                "hr": "Zalazak sunca je raniji zimi, ali često šareniji."
               }
             }
           ],
@@ -516,9 +516,9 @@
               "Many cafes have outdoor heaters during the winter season."
             ],
             "hr": [
-              "Odjenite se slojevito jer je na suncu toplo, a u sjeni hladno.",
-              "Zalazak sunca je već u 16:30; planirajte fotografiranje unaprijed.",
-              "Bura omogućuje izvrsnu vidljivost, ali je vrlo hladan vjetar.",
+              "Obucite se slojevito jer je na suncu toplo, a u sjeni hladno.",
+              "Zalazak sunca je već oko 16:30; planirajte fotografije unaprijed.",
+              "Bura pruža izvrsnu vidljivost, ali je vrlo hladan vjetar.",
               "Mnogi kafići imaju vanjske grijalice tijekom zimske sezone."
             ]
           }
@@ -549,7 +549,7 @@
             "hu": "Kezdje a túrát a hűvös forrásnál.",
             "ro": "Începeți turul la izvorul răcoros.",
             "en": "Start your tour at the cool spring.",
-            "hr": "Započnite turu na osvježavajućem izvoru."
+            "hr": "Započnite obilazak kod hladnog izvora."
           }
         },
         {
@@ -568,7 +568,7 @@
             "hu": "Rövid megálló az építészet megtekintéséhez.",
             "ro": "Scurtă oprire pentru a vizita arhitectura.",
             "en": "Short stop to view the architecture.",
-            "hr": "Kratko zaustavljanje za razgledavanje arhitekture."
+            "hr": "Kratko zaustavljanje za razgled arhitekture."
           }
         },
         {
@@ -625,7 +625,7 @@
             "hu": "Pihenjen meg egy hűvös itallal a jachtkikötőnél.",
             "ro": "Relaxați-vă cu o băutură rece la portul de iahturi.",
             "en": "Recover with a cool drink by the marina.",
-            "hr": "Oporavite se uz hladno piće pored marine."
+            "hr": "Oporavite se uz hladni napitak pokraj marine."
           }
         },
         {
@@ -644,7 +644,7 @@
             "hu": "Utolsó megálló a biciklik leadása előtt.",
             "ro": "Ultima oprire înainte de a returna bicicletele.",
             "en": "Last stop before returning the bikes.",
-            "hr": "Zadnja stanica prije vraćanja bicikala."
+            "hr": "Zadnje stajalište prije vraćanja bicikala."
           }
         }
       ],
@@ -653,7 +653,7 @@
         "hu": "Fedezze fel a Rijeka Dubrovačka egész környékét két keréken. Az Ombla hűvös forrásától a lapos útvonal a tengeröböl mentén halad az impozáns Franjo Tuđman hídig. Élvezze a szelet és az öbölre, a jachtkikötőkre és a régi nyaralókra nyíló, folyamatosan változó tájat, mielőtt megállna Mokošicában.",
         "ro": "Explorați întreaga zonă Rijeka Dubrovačka pe două roți. De la izvorul răcoros al Ombla, traseul plat duce de-a lungul brațului de mare până la impresionantul pod Franjo Tuđman. Bucurați-vă de vânt și de perspectivele mereu schimbătoare asupra golfului, porturilor și conacelor vechi înainte de a vă opri în Mokošica.",
         "en": "Explore the entire Rijeka Dubrovačka area on two wheels. From the cool source of the Ombla, the flat route follows the sea inlet to the impressive Franjo Tuđman Bridge. Enjoy the breeze and the ever-changing perspectives of the bay, marinas, and old summer houses before stopping in Mokošica.",
-        "hr": "Istražite cijelo područje Rijeke dubrovačke na dva kotača. Od svježeg izvora Omble, ravna ruta prati morski zaljev do impresivnog Mosta dr. Franja Tuđmana. Uživajte u povjetarcu i stalnim promjenama perspektive na zaljev, marine i stare ljetnikovce prije zaustavljanja u Mokošici."
+        "hr": "Istražite cijelo područje Rijeke Dubrovačke na dva kotača. Od hladnog izvora Omble, ravna ruta prati morski zaljev do impozantnog mosta Franjo Tuđman. Uživajte u povjetarcu i stalno mijenjajućim perspektivama zaljeva, marina i starih ljetnikovaca prije zaustavljanja u Mokošici."
       },
       "gastro_picks": {
         "de": [
@@ -802,8 +802,8 @@
           "Take enough water with you."
         ],
         "hr": [
-          "Ruta je uglavnom ravna i prikladna za sve.",
-          "Izbjegavajte glavnu cestu, koristite staze uz obalu.",
+          "Ruta je uglavnom ravna i pogodna za sve.",
+          "Izbjegavajte glavnu cestu, koristite obalnu stazu.",
           "Na mostu može biti vrlo vjetrovito.",
           "Ponesite dovoljno vode sa sobom."
         ]
@@ -815,7 +815,7 @@
             "hu": "A Rijeka Dubrovačka menti esős tekerés koncentrációt és jó felszerelést igényel. Az Ombla-forrásnál kezdünk, amely vizesen vadabbnak hat, majd óvatosan haladunk az udvarház felé. A mokošicai ebédszünet alatt megszárítkozunk és feltöltődünk. Délután áttekerünk a hídon, ahol az öböl panorámája a szürke fátyol ellenére is lenyűgöző, majd a napot pihenéssel zárjuk.",
             "ro": "O tură cu bicicleta pe ploaie de-a lungul Rijeka Dubrovačka necesită concentrare și echipament bun. Începem la izvorul Ombla, care pare mai sălbatic pe umezeală, și pedalăm cu grijă spre conac. Prânzul în Mokošica este momentul perfect pentru a ne usca și a ne reîncărca. După-amiaza traversăm podul, unde panorama golfului impresionează în ciuda norilor, apoi încheiem ziua relaxați.",
             "en": "A rainy bike ride along Rijeka Dubrovačka requires focus and good gear. We start at the Ombla source, which feels wilder in the wet, and ride carefully toward the villa. The lunch break in Mokošica is used to dry off and recharge. In the afternoon, we cycle across the bridge, where the bay panorama impresses despite the gray veil, before ending the day relaxed.",
-            "hr": "Kišna vožnja biciklom uz Rijeku dubrovačku zahtijeva fokus i dobru opremu. Krećemo s izvora Omble, koji na kiši djeluje divljije, i pažljivo vozimo prema vili. Pauzu za ručak u Mokošici koristimo za sušenje i punjenje baterija. Poslijepodne bicikliramo preko mosta, gdje panorama zaljeva impresionira unatoč sivom velu, prije opuštenog završetka dana."
+            "hr": "Kišna biciklistička vožnja uz Rijeku Dubrovačku zahtijeva koncentraciju i dobru opremu. Polazimo od izvora Omble, koji u mokrom izgleda divlje, i pažljivo vozimo prema vili. Pauza za ručak u Mokošici služi za sušenje i punjenje energije. Poslijepodne prelazimo most, gdje panorama zaljeva impresionira unatoč sivom plaštu, prije nego što dan završimo opušteno."
           },
           "stops": [
             {
@@ -825,7 +825,7 @@
                 "hu": "Vigyázzunk a vizes levelekre az úton fékezéskor.",
                 "ro": "Atenție la frunzele ude de pe drum când frânați.",
                 "en": "Watch out for wet leaves on the ground when braking.",
-                "hr": "Pazite na mokro lišće na tlu prilikom kočenja."
+                "hr": "Pazite na mokro lišće na cesti prilikom kočenja."
               }
             },
             {
@@ -835,7 +835,7 @@
                 "hu": "Parkoljuk a biciklit védett helyen a fák alatt.",
                 "ro": "Parcați bicicleta într-un loc protejat sub copaci.",
                 "en": "Park the bike in a sheltered spot under the trees.",
-                "hr": "Parkirajte bicikl na zaklonjenom mjestu ispod drveća."
+                "hr": "Parkirajte bicikl na zaštićeno mjesto pod stablima."
               }
             },
             {
@@ -845,7 +845,7 @@
                 "hu": "Kerüljük a gyors kanyarodást a parti út vizes aszfaltján.",
                 "ro": "Evitați virajele rapide pe asfaltul umed al drumului de coastă.",
                 "en": "Avoid sharp turns on the wet asphalt of the coastal road.",
-                "hr": "Izbjegavajte oštra skretanja na mokrom asfaltu obalne ceste."
+                "hr": "Izbjegavajte oštre zavoje po mokrom asfaltu obalne ceste."
               }
             },
             {
@@ -855,7 +855,7 @@
                 "hu": "A szél a hídon esőben csalóka lehet; tartsuk erősen a kormányt.",
                 "ro": "Vântul pe pod poate fi periculos pe ploaie; țineți bine ghidonul.",
                 "en": "The wind on the bridge can be tricky in the rain; hold the handlebars firmly.",
-                "hr": "Vjetar na mostu može biti nezgodan na kiši; čvrsto držite upravljač."
+                "hr": "Vjetar na mostu može biti nezgodan po kiši; čvrsto držite upravljač."
               }
             },
             {
@@ -865,7 +865,7 @@
                 "hu": "Válasszunk olyan éttermet, ahol rálátunk a biciklitárolóra.",
                 "ro": "Alegeți un restaurant unde puteți supraveghea bicicletele.",
                 "en": "Choose a restaurant where you can keep an eye on the bike rack.",
-                "hr": "Odaberite restoran gdje možete držati na oku stalak za bicikle."
+                "hr": "Odaberite restoran iz kojeg možete nadzirati stalak za bicikle."
               }
             },
             {
@@ -905,10 +905,10 @@
               "Use underpasses as short dry rest areas."
             ],
             "hr": [
-              "Puna kišna oprema i blatobrani vaši su najbolji prijatelji danas.",
+              "Potpuna kišna oprema i blatobrani danas su vam najbolji prijatelji.",
               "Obalne ceste mogu biti posebno skliske zbog mješavine soli i kiše.",
-              "Provjerite kočnice prije spuštanja s mosta.",
-              "Koristite podvožnjake kao kratka suha odmarališta."
+              "Provjerite kočnice prije spusta s mosta.",
+              "Koristite podvožnjake kao kratke suhe odmorišta."
             ]
           }
         },
@@ -918,7 +918,7 @@
             "hu": "A mokošicai téli bringázás üres utakat és kristálytiszta levegőt kínál. Korán kezdünk a forrásnál, hogy kihasználjuk a fényeket. Az öböl menti tekerés frissítő, de meleg kesztyű kell a menetszél ellen. Délben egy konobában melegszünk fel, mielőtt nekivágnánk a Franjo Tuđman híd emelkedőjének. A nap még naplemente előtt véget ér, mert a hőmérséklet ilyenkor gyorsan zuhan.",
             "ro": "Mersul cu bicicleta iarna lângă Mokošica oferă drumuri libere și aer de cristal. Începem devreme la izvor pentru a profita de lumină. Tura de-a lungul golfului este revigorantă, dar necesită mănuși groase contra vântului. La prânz ne încălzim într-o konoba înainte de a urca spre podul Franjo Tuđman. Ziua se încheie înainte de apus, când temperaturile scad brusc.",
             "en": "Cycling in winter near Mokošica offers empty roads and crystal-clear air. We start early at the source to make the most of the light. The ride along the bay is refreshing but requires warm gloves against the wind chill. At noon, we warm up in a konoba before tackling the climb to the Franjo Tuđman bridge. The day ends well before sunset as temperatures drop quickly.",
-            "hr": "Bicikliranje zimi u blizini Mokošice nudi prazne ceste i kristalno čist zrak. Krećemo rano s izvora kako bismo maksimalno iskoristili svjetlo. Vožnja uz zaljev je osvježavajuća, ali zahtijeva tople rukavice zbog vjetra. U podne se grijemo u konobi prije uspona na Most dr. Franja Tuđmana. Dan završava znatno prije zalaska jer temperature brzo padaju."
+            "hr": "Zimsko bicikliranje kraj Mokošice nudi prazne ceste i kristalno čist zrak. Polazimo rano s izvora kako bismo iskoristili svjetlo. Vožnja uz zaljev osvježava, ali zahtijeva tople rukavice protiv osjećaja hladnog vjetra. U podne se ugrijemo u konobi prije uspona na most Franjo Tuđman. Dan završava daleko prije zalaska sunca jer temperature brzo padaju."
           },
           "stops": [
             {
@@ -928,7 +928,7 @@
                 "hu": "A sziklák árnyékában reggelente nagyon fagyos itt a levegő.",
                 "ro": "În umbra stâncilor, dimineața este foarte frig aici.",
                 "en": "In the shadow of the rocks, it's very frosty here in the morning.",
-                "hr": "U sjeni stijena ovdje je ujutro vrlo hladno."
+                "hr": "U sjeni stijena ujutro je ovdje vrlo poledica."
               }
             },
             {
@@ -938,7 +938,7 @@
                 "hu": "Használjuk ki a napsugarakat a kertben egy rövid pihenőre.",
                 "ro": "Profitați de razele soarelui în grădină pentru o scurtă pauză.",
                 "en": "Take advantage of the sunbeams in the garden for a short break.",
-                "hr": "Iskoristite sunčeve zrake u vrtu za kratki predah."
+                "hr": "Iskoristite sunčeve zrake u vrtu za kratki odmor."
               }
             },
             {
@@ -948,7 +948,7 @@
                 "hu": "Szélálló ruházat kötelező a bóra miatt.",
                 "ro": "Îmbrăcămintea rezistentă la vânt este obligatorie din cauza vântului Bura.",
                 "en": "Windproof clothing is absolutely necessary because of the Bura.",
-                "hr": "Odjeća otporna na vjetar apsolutno je neophodna zbog bure."
+                "hr": "Vjetrootporno odijevanje je apsolutno nužno zbog bure."
               }
             },
             {
@@ -958,7 +958,7 @@
                 "hu": "A szél a hídon télen nagyon jeges lehet.",
                 "ro": "Vântul pe pod poate fi extrem de rece iarna.",
                 "en": "The wind on the bridge can be very icy in winter.",
-                "hr": "Vjetar na mostu zimi može biti leden."
+                "hr": "Vjetar na mostu može biti vrlo leden u zimi."
               }
             },
             {
@@ -968,7 +968,7 @@
                 "hu": "Kérjünk forró teát vagy házi pálinkát az átmelegedéshez.",
                 "ro": "Cereți un ceai fierbinte sau o rakija de casă pentru încălzire.",
                 "en": "Ask for hot tea or homemade rakija to warm up.",
-                "hr": "Zatražite topli čaj ili domaću rakiju da se ugrijete."
+                "hr": "Zatražite topli čaj ili domaću rakiju za ugrijavanje."
               }
             },
             {
@@ -978,7 +978,7 @@
                 "hu": "Maradjunk mozgásban, hogy ne fázzunk meg a süllyedő hőmérsékletben.",
                 "ro": "Rămâneți în mișcare pentru a nu îngheța pe măsură ce temperatura scade.",
                 "en": "Keep moving to stay warm as temperatures drop.",
-                "hr": "Ostanite u pokretu kako biste se ugrijali dok temperature padaju."
+                "hr": "Ostanite u pokretu da biste se ugrijali kako temperature padaju."
               }
             }
           ],
@@ -1008,10 +1008,10 @@
               "Avoid shaded road sections early in the morning due to potential frost."
             ],
             "hr": [
-              "Nosite termo donje rublje i rukavice otporne na vjetar.",
-              "Bura može učiniti bicikliranje na mostu opasnim; provjerite prognozu.",
-              "Dani su kratki; završite turu do 16:00 sati.",
-              "Izbjegavajte zasjenjene dijelove ceste rano ujutro zbog moguće poledice."
+              "Nosite termo rublje i vjetrootporne rukavice.",
+              "Bura može otežati bicikliranje na mostu; provjerite prognozu.",
+              "Dani su kratki; završite svoju turu do 16:00.",
+              "Izbjegavajte zasjenjene dionice ceste rano ujutro zbog moguće poledice."
             ]
           }
         }
@@ -1060,7 +1060,7 @@
             "hu": "Gyalogosan elérhető a parkolótól.",
             "ro": "Accesibil pe jos de la parcare.",
             "en": "Accessible on foot from the parking spot.",
-            "hr": "Pristupačno pješice s parkirališta."
+            "hr": "Pristupačno pješke s parkirališta."
           }
         },
         {
@@ -1079,7 +1079,7 @@
             "hu": "Helyi konyha közvetlenül a parton.",
             "ro": "Bucătărie locală chiar pe mal.",
             "en": "Local cuisine right on the riverbank.",
-            "hr": "Lokalna kuhinja tik uz obalu rijeke."
+            "hr": "Domaća kuhinja odmah uz obalu rijeke."
           }
         },
         {
@@ -1098,7 +1098,7 @@
             "hu": "Látványos megálló Dubrovnik felé menet.",
             "ro": "Oprire spectaculoasă în drum spre Dubrovnik.",
             "en": "Spectacular stop on the way to Dubrovnik.",
-            "hr": "Spektakularno stajalište na putu prema Dubrovniku."
+            "hr": "Spektakularna stanica na putu prema Dubrovniku."
           }
         },
         {
@@ -1117,7 +1117,7 @@
             "hu": "Figyelje meg a nagy skandináv hajókat a távolból.",
             "ro": "Observați marile nave de croazieră din depărtare.",
             "en": "Watch the large cruise ships from a distance.",
-            "hr": "Promatrajte velike kruzere iz daljine."
+            "hr": "Promatrajte velike putničke brodove iz daljine."
           }
         },
         {
@@ -1164,7 +1164,7 @@
         "hu": "Autóval kényelmesen elérheti a Rijeka Dubrovačka környékének legfontosabb pontjait. Kezdje az Ombla-forrásnál és nézze meg a történelmi nyaralókat, mielőtt a lenyűgöző Franjo Tuđman hídhoz hajtana. Az útvonal nagyszerű panorámát kínál, ötvözve a természetet a régi Dubrovnik építészetével.",
         "ro": "Cu mașina puteți ajunge confortabil la cele mai importante puncte din jurul Rijeka Dubrovačka. Începeți la izvorul Ombla și vizitați conacele istorice înainte de a conduce spre impresionantul pod Franjo Tuđman. Traseul oferă panorame grozave, îmbinând experiențele naturale cu arhitectura vechiului Dubrovnik.",
         "en": "By car, you can comfortably reach the most important spots around Rijeka Dubrovačka. Start at the Ombla spring and see the historic summer houses before driving to the impressive Franjo Tuđman Bridge. The route offers great panoramic views, combining nature experiences with the architecture of old Dubrovnik.",
-        "hr": "Automobilom možete udobno stići do najvažnijih točaka oko Rijeke dubrovačke. Krenite od izvora Omble i razgledajte povijesne ljetnikovce prije vožnje do impresivnog Mosta dr. Franja Tuđmana. Ruta nudi sjajne panoramske poglede, spajajući doživljaj prirode s arhitekturom starog Dubrovnika."
+        "hr": "Autom možete udobno stići do najvažnijih mjesta oko Rijeke Dubrovačke. Počnite kod izvora Omble i razgledajte povijesne ljetnikovce prije nego što odvezete do impresivnog mosta Franjo Tuđman. Ruta nudi izvrsne panoramske poglede, spajajući doživljaje prirode s arhitekturom starog Dubrovnika."
       },
       "gastro_picks": {
         "de": [
@@ -1295,8 +1295,8 @@
         "hr": [
           "Parkirajte samo na označenim mjestima.",
           "Cesta uz zaljev je uska, vozite oprezno.",
-          "Iskoristite vidikovac na mostu za fotografiranje.",
-          "Vožnja od Mokošice do Dubrovnika traje samo 10-15 minuta."
+          "Iskoristite vidikovac na mostu za fotografije.",
+          "Vožnja od Mokošice do Dubrovnika traje samo 10–15 minuta."
         ]
       },
       "variants": {
@@ -1306,7 +1306,7 @@
             "hu": "Autóval Mokošica esőben is kényelmesen felfedezhető. Az Ombla-forrásnál kezdünk, ahol a közvetlen vízparti parkolás lerövidíti a sétát. A rožati ebéd száraz kilátópontot kínál az öbölre. A Franjo Tuđman híd felé vezető út esőben különösen hangulatos a mélyen szálló felhőkkel. A napot egy mokošicai kávéval zárjuk, az ablakból figyelve a szemerkélő esőt.",
             "ro": "Cu mașina, Mokošica este ușor de explorat chiar și pe ploaie. Începem la izvorul Ombla, unde parcarea de lângă apă permite accesul rapid. Prânzul în Rožat oferă un punct de observație uscat asupra golfului. Drumul spre podul Franjo Tuđman este atmosferic pe ploaie, cu nori joși. Încheiem ziua cu o cafea în Mokošica, privind ploaia de la fereastră.",
             "en": "By car, Mokošica is comfortable to explore even in the rain. We start at the Ombla source, where parking right by the water allows for short walks. Lunch in Rožat offers a dry viewpoint over the bay. The drive to the Franjo Tuđman bridge is particularly atmospheric in the rain with low-hanging clouds. We end the day with a coffee in Mokošica, watching the rain from the comfort of a window seat.",
-            "hr": "Automobilom je Mokošicu ugodno istraživati čak i po kiši. Krećemo s izvora Omble, gdje parkiranje uz samu vodu omogućuje kratke šetnje. Ručak u Rožatu nudi suhi vidikovac na zaljev. Vožnja do Mosta dr. Franja Tuđmana posebno je atmosferična na kiši s niskim oblacima. Dan završavamo kavom u Mokošici, promatrajući kišu iz udobnosti mjesta uz prozor."
+            "hr": "Autom je Mokošica ugodna za istraživanje čak i po kiši. Polazimo od izvora Omble, gdje parkiranje uz vodu omogućuje kratke šetnje. Ručak u Rožatu nudi suhi vidikovac na zaljev. Vožnja do mosta Franjo Tuđman posebno je atmosferična po kiši s niskim oblacima. Dan završavamo kavom u Mokošici, gledajući kišu iz udobnosti prozorskog mjesta."
           },
           "stops": [
             {
@@ -1316,7 +1316,7 @@
                 "hu": "Parkoljunk közel a forráshoz, hogy elkerüljük az ázást.",
                 "ro": "Parcați aproape de zona izvorului pentru a nu vă uda.",
                 "en": "Park close to the source area to avoid getting wet.",
-                "hr": "Parkirajte blizu izvora kako ne biste pokisli."
+                "hr": "Parkirajte blizu područja izvora da biste izbjegli mokrenje."
               }
             },
             {
@@ -1326,7 +1326,7 @@
                 "hu": "A bevezető út esőben kissé sáros lehet.",
                 "ro": "Aleea de acces poate fi noroioasă pe ploaie.",
                 "en": "The access path can be a bit muddy in the rain.",
-                "hr": "Pristupna staza može biti pomalo blatna na kiši."
+                "hr": "Pristupna staza može biti pomalo blatna po kiši."
               }
             },
             {
@@ -1336,7 +1336,7 @@
                 "hu": "Keressünk éttermet fedett parkolóval vagy rövid bejárattal.",
                 "ro": "Căutați un restaurant cu parcare acoperită sau acces rapid.",
                 "en": "Look for a restaurant with a covered parking area or short access walk.",
-                "hr": "Potražite restoran s natkrivenim parkingom ili kratkim pristupom."
+                "hr": "Potražite restoran s natkrivenim parkirnim mjestom ili kratkom pristupnom šetnjom."
               }
             },
             {
@@ -1356,7 +1356,7 @@
                 "hu": "A kilátásért maradhatunk akár az autóban is.",
                 "ro": "Puteți admira vederea direct din mașină.",
                 "en": "You can enjoy the view without even leaving your car.",
-                "hr": "Možete uživati u pogledu bez izlaska iz automobila."
+                "hr": "Pogled možete uživati i ne izlazeći iz automobila."
               }
             },
             {
@@ -1366,7 +1366,7 @@
                 "hu": "Ideális időpont a másnapi terv átnézésére a szárazban.",
                 "ro": "Moment ideal pentru a verifica planul de călătorie la uscat.",
                 "en": "Ideal time to check your travel plan for the next day while staying dry.",
-                "hr": "Idealno vrijeme za provjeru plana putovanja za sutra dok ste na suhom."
+                "hr": "Idealno vrijeme za provjeru plana putovanja za sljedeći dan dok ostajete suhi."
               }
             },
             {
@@ -1376,7 +1376,7 @@
                 "hu": "Parkoljunk a főúton egy gyors pillantásra a vízre.",
                 "ro": "Parcați pe drumul principal pentru o privire rapidă spre apă.",
                 "en": "Park on the main road for a quick look at the water.",
-                "hr": "Parkirajte na glavnoj cesti za brzi pogled na vodu."
+                "hr": "Parkirajte na glavnoj cesti za brz pogled na vodu."
               }
             }
           ],
@@ -1406,10 +1406,10 @@
               "Keep the windows defogged by using the air conditioning."
             ],
             "hr": [
-              "Izbjegavajte parkiranje ispod nestabilnih stabala tijekom jake kiše.",
-              "Ceste mogu biti vrlo skliske zbog prašine koja se ispere nakon suše.",
-              "Koristite parkirna mjesta u Rožatu; tamo je često manja gužva.",
-              "Spriječite zamagljivanje prozora korištenjem klima uređaja."
+              "Izbjegavajte parkiranje pod nestabilnim stablima tijekom jake kiše.",
+              "Ceste mogu biti vrlo skliske zbog prašine koja se podigne nakon suše i opere kišom.",
+              "Koristite parkirna mjesta u Rožatu; često su manje popunjena.",
+              "Držite prozore odmagljenima koristeći klima-uređaj."
             ]
           }
         },
@@ -1419,7 +1419,7 @@
             "hu": "A téli autós túrák a Rijeka Dubrovačka körül dugók nélküli tiszta panorámát kínálnak. Az Ombla-forrásnál kezdünk, ahol a reggeli nap megcsillan a vízen. Délben egy tradicionális rožati ebéddel melegszünk fel. A Franjo Tuđman hídon való átkelés télen fantasztikus kilátást nyújt egészen az Elafiti-szigetekig. Zárásként élvezzük a mokošicai sétány nyugodt hangulatát a sötétedés előtt.",
             "ro": "Turul cu mașina iarna în jurul Rijeka Dubrovačka oferă panorame clare fără trafic. Începem la izvorul Ombla, unde soarele dimineții face apa să sclipească. La prânz ne încălzim cu o masă tradițională în Rožat. Drumul peste podul Franjo Tuđman oferă iarna o vizibilitate fantastică până la insulele Elafiti. La final, ne bucurăm de atmosfera liniștită de pe faleza din Mokošica înainte de lăsarea serii.",
             "en": "Winter car tours around Rijeka Dubrovačka offer clear panoramas without traffic jams. We start at the Ombla source, where the morning sun makes the water sparkle. At noon, we warm up with a traditional meal in Rožat. Driving across the Franjo Tuđman bridge in winter provides fantastic visibility all the way to the Elafiti Islands. To finish, we enjoy the quiet atmosphere at the Mokošica promenade before it gets dark.",
-            "hr": "Zimske ture automobilom oko Rijeke dubrovačke nude jasne panorame bez prometnih gužvi. Krećemo s izvora Omble, gdje jutarnje sunce čini vodu svjetlucavom. U podne se grijemo tradicionalnim obrokom u Rožatu. Vožnja preko Mosta dr. Franja Tuđmana zimi pruža fantastičnu vidljivost sve do Elafitskih otoka. Za kraj uživamo u mirnoj atmosferi na mokoškoj šetnici prije mraka."
+            "hr": "Zimske ture autom oko Rijekе Dubrovačke nude jasne panorame bez gužvi u prometu. Počinjemo kod izvora Omble, gdje jutarnje sunce daje vodu sjaj. U podne se ugrijemo tradicionalnim obrokom u Rožatu. Vožnja preko mosta Franjo Tuđman zimi pruža fantastičnu vidljivost sve do Elafitskih otoka. Za kraj uživamo u mirnoj atmosferi promenade Mokošice prije nego što padne mrak."
           },
           "stops": [
             {
@@ -1429,7 +1429,7 @@
                 "hu": "A kora reggeli órákban a parkoló jeges lehet.",
                 "ro": "În orele dimineții, parcarea poate fi alunecoasă.",
                 "en": "In the early morning hours, the parking lot can be icy.",
-                "hr": "U ranim jutarnjim satima parkiralište može biti zaleđeno."
+                "hr": "U ranim jutarnjim satima parkiralište može biti poledeno."
               }
             },
             {
@@ -1439,7 +1439,7 @@
                 "hu": "A téli nap késő délelőtt világítja meg a legjobban a homlokzatot.",
                 "ro": "Soarele de iarnă luminează cel mai bine fațada spre sfârșitul dimineții.",
                 "en": "The winter sun illuminates the facade best in the late morning.",
-                "hr": "Zimsko sunce najbolje osvjetljava pročelje u kasno jutro."
+                "hr": "Zimsko sunce najbolje osvjetljava fasadu kasnog jutra."
               }
             },
             {
@@ -1449,7 +1449,7 @@
                 "hu": "Keressünk kandallós helyet az extra hangulatért.",
                 "ro": "Căutați un local cu șemineu pentru un plus de confort.",
                 "en": "Look for a place with a fireplace for extra coziness.",
-                "hr": "Potražite mjesto s kaminom za dodatnu udobnost."
+                "hr": "Potražite mjesto s kaminom za dodatnu ugodu."
               }
             },
             {
@@ -1459,7 +1459,7 @@
                 "hu": "Vigyázzunk az erős bóra-lökésekre; tartsuk erősen a kormányt.",
                 "ro": "Atenție la rafalele de Bura; țineți bine volanul.",
                 "en": "Be careful with strong Bura gusts; hold the steering wheel firmly.",
-                "hr": "Budite oprezni s jakim naletima bure; čvrsto držite upravljač."
+                "hr": "Budite oprezni sa snažnim udarima bure; čvrsto držite volan."
               }
             },
             {
@@ -1469,7 +1469,7 @@
                 "hu": "A tengerjáró hajók télen ritkábbak, így a kilátás nyugodtabb.",
                 "ro": "Navele de croazieră sunt rare iarna, făcând priveliștea mai aerisită.",
                 "en": "Cruise ships are rarer in winter, making the view more peaceful.",
-                "hr": "Kruzeri su zimi rjeđi, što pogled čini mirnijim."
+                "hr": "Putnički brodovi su rjeđi zimi, što čini pogled mirnijim."
               }
             },
             {
@@ -1479,7 +1479,7 @@
                 "hu": "Kóstoljuk meg a forró csokoládét tejszínhabbal.",
                 "ro": "Încercați o ciocolată caldă cu frișcă.",
                 "en": "Try a hot chocolate with whipped cream.",
-                "hr": "Probajte toplu čokoladu sa šlagom."
+                "hr": "Probajte topli kakao sa šlagom."
               }
             },
             {
@@ -1489,7 +1489,7 @@
                 "hu": "A naplemente előtti fények ideálisak tájképekhez.",
                 "ro": "Lumina de dinainte de apus este ideală pentru fotografii de peisaj.",
                 "en": "The light just before sunset is ideal for landscape photos.",
-                "hr": "Svjetlo neposredno prije zalaska sunca idealno je za pejzažne fotografije."
+                "hr": "Svjetlo neposredno prije zalaska idealno je za pejzažne fotografije."
               }
             }
           ],
@@ -1519,10 +1519,10 @@
               "Antifreeze in the windshield washer fluid is advisable even here."
             ],
             "hr": [
-              "Pripazite na zatvaranje cesta na mostu tijekom ekstremnih udara bure.",
-              "Vijek trajanja baterije može pasti na hladnoći; punite telefon u autu.",
+              "Pazite na zatvaranja ceste na mostu tijekom ekstremnog vjetra (bure).",
+              "Trajanje baterije može pasti na hladnoći; punite telefon u automobilu.",
               "Obalna cesta je zimi gotovo prazna; uživajte u opuštenoj vožnji.",
-              "Savjetuje se antifriz u tekućini za pranje stakla čak i ovdje."
+              "Antifriz u tekućini za pranje vjetrobrana savjetuje se i ovdje."
             ]
           }
         }
@@ -1552,7 +1552,7 @@
             "hu": "Szálljon fel az 1A vagy 1B buszra a Rožat-i végállomásig.",
             "ro": "Luați autobuzul 1A sau 1B până la capătul de linie din Rožat.",
             "en": "Take bus 1A or 1B to the terminus in Rožat.",
-            "hr": "Uzmite autobus 1A ili 1B do okretišta u Rožatu."
+            "hr": "Uzmite autobus 1A ili 1B do terminala u Rožatu."
           }
         },
         {
@@ -1590,7 +1590,7 @@
             "hu": "Élvezze a helyi gasztronómiát a továbbút előtt.",
             "ro": "Bucurați-vă de gastronomia locală înainte de a continua.",
             "en": "Enjoy the local gastronomy before continuing.",
-            "hr": "Uživajte u lokalnoj gastronomiji prije nastavka."
+            "hr": "Uživajte u lokalnoj gastronomiji prije nastavka puta."
           }
         },
         {
@@ -1609,7 +1609,7 @@
             "hu": "Kilátás a buszból az egész öbölre.",
             "ro": "Vedere din autobuz spre întregul golf.",
             "en": "View from the bus over the entire bay.",
-            "hr": "Pogled iz autobusa na cijeli zaljev."
+            "hr": "Pogled iz autobusa preko cijelog zaljeva."
           }
         },
         {
@@ -1628,7 +1628,7 @@
             "hu": "Szálljon le a hídnál egy panorámafotóért.",
             "ro": "Coborâți la pod pentru o fotografie panoramică.",
             "en": "Get off at the bridge for a panoramic photo.",
-            "hr": "Izađite na mostu za panoramsku fotografiju."
+            "hr": "Iskočite na mostu za panoramsku fotografiju."
           }
         },
         {
@@ -1647,7 +1647,7 @@
             "hu": "A nap pihentető lezárása.",
             "ro": "Încheiere relaxantă a zilei.",
             "en": "Relaxing end of the day.",
-            "hr": "Opuštajući završetak dana."
+            "hr": "Opustajući završetak dana."
           }
         }
       ],
@@ -1656,7 +1656,7 @@
         "hu": "Használja Dubrovnik kiváló buszhálózatát Nova Mokošica és környéke felfedezéséhez. Az 1A és 1B vonalak összekötik az összes fontos pontot, az Ombla-forrástól a nagy hídig. Tapasztalja meg a helyi életmódot távol a turistaáradattól, és élvezze a kilátást az ablakból.",
         "ro": "Folosiți sistemul excelent de autobuze din Dubrovnik pentru a explora Nova Mokošica și împrejurimile. Liniile 1A și 1B conectează toate punctele importante, de la izvorul Ombla până la podul cel mare. Experimentați modul de viață local departe de mulțimile de turiști și bucurați-vă de priveliștile de pe geam.",
         "en": "Use Dubrovnik's excellent bus system to explore Nova Mokošica and its surroundings. Lines 1A and 1B connect all the major spots, from the source of the Ombla to the great bridge. Experience the local way of life away from the tourist crowds and enjoy the views from the window.",
-        "hr": "Koristite izvrsni dubrovački sustav autobusa za istraživanje Nove Mokošice i okolice. Linije 1A i 1B povezuju sve glavne točke, od izvora Omble do velikog mosta. Doživite lokalni način života daleko od turističkih gužvi i uživajte u pogledu kroz prozor."
+        "hr": "Iskoristite odličan dubrovački autobusni sustav za istraživanje Nove Mokošice i okolice. Linije 1A i 1B povezuju sve glavne točke, od izvora Omble do velikog mosta. Doživite lokalni način života daleko od turističkih gužvi i uživajte u pogledima kroz prozor."
       },
       "gastro_picks": {
         "de": [
@@ -1785,10 +1785,10 @@
           "The stop at the bridge is a must for panorama fans."
         ],
         "hr": [
-          "Kupite autobusne karte na kiosku, tamo su jeftinije.",
-          "Autobusi voze vrlo često (svakih 15-20 minuta).",
-          "Pripazite na vozni red za povratak.",
-          "Stanica na mostu je obavezna za ljubitelje panorama."
+          "Kupujte karte za autobus na kiosku, tamo su jeftinije.",
+          "Autobusi voze vrlo često (svakih 15–20 minuta).",
+          "Pazite na raspored za povratak.",
+          "Stajalište na mostu je obavezno za ljubitelje panorame."
         ]
       },
       "variants": {
@@ -1798,7 +1798,7 @@
             "hu": "Az 1A és 1B buszjáratokkal esőben is gond nélkül elérjük Mokošicát. Az Ombla-forrásnál kezdünk, a várókat esővédőként használva. A vízparti ebéd kellemes szünetet nyújt a szárazban. Délután kényelmesen, a busz ablakából csodáljuk a Rijeka Dubrovačka panorámáját, majd egy rövid megállót teszünk a Franjo Tuđman hídnál. A napot biztonságban, a mokošicai buszon zárjuk.",
             "ro": "Cu liniile de autobuz 1A și 1B ajungem în Mokošica fără probleme chiar și pe ploaie. Începem la izvorul Ombla, folosind stațiile acoperite ca adăpost. Prânzul lângă apă oferă o pauză binemeritată la uscat. După-amiaza ne bucurăm de drumul panoramic de-a lungul Rijeka Dubrovačka din confortul scaunului de autobuz. Încheiem ziua în siguranță, în autobuzul spre Mokošica.",
             "en": "With bus lines 1A and 1B, we reach Mokošica easily even in the rain. We start at the Ombla source, using the bus shelters for cover. Lunch by the water provides a welcome break in the dry. In the afternoon, we enjoy the panoramic ride along Rijeka Dubrovačka comfortably from a bus seat before making a short stop at the Franjo Tuđman bridge. We end the day safely on the bus back to Mokošica.",
-            "hr": "S autobusnim linijama 1A i 1B lako stižemo do Mokošice čak i po kiši. Krećemo s izvora Omble, koristeći nadstrešnice stanica za zaklon. Ručak uz vodu pruža dobrodošao predah na suhom. Poslijepodne uživamo u panoramskoj vožnji uz Rijeku dubrovačku udobno iz sjedala autobusa prije kratkog zaustavljanja na Mostu dr. Franja Tuđmana. Dan sigurno završavamo autobusom natrag u Mokošicu."
+            "hr": "S linijama 1A i 1B lako stižemo u Mokošicu čak i po kiši. Polazimo od izvora Omble, koristeći autobusne nadstrešnice za zaklon. Ručak uz vodu pruža dobrodošli suhi predah. Poslijepodne uživamo u panoramskoj vožnji duž Rijeke Dubrovačke udobno iz sjedišta autobusa prije kratkog stajanja na mostu Franjo Tuđman. Dan sigurno završavamo autobusom natrag u Mokošicu."
           },
           "stops": [
             {
@@ -1808,7 +1808,7 @@
                 "hu": "Használjuk a Libertas alkalmazást, hogy minimálisat kelljen várni az esőben.",
                 "ro": "Folosiți aplicația Libertas pentru a vedea timpii reali și a nu aștepta în ploaie.",
                 "en": "Use the Libertas app for live departures to minimize waiting in the rain.",
-                "hr": "Koristite aplikaciju Libertas za polaske uživo kako biste smanjili čekanje na kiši."
+                "hr": "Koristite Libertas aplikaciju za žive polaske kako biste smanjili čekanje na kiši."
               }
             },
             {
@@ -1818,7 +1818,7 @@
                 "hu": "A 'Mokošica' buszmegálló csak pár perc séta.",
                 "ro": "Stația de autobuz „Mokošica” este la doar câteva minute de mers pe jos.",
                 "en": "The 'Mokošica' bus stop is just a few minutes' walk away.",
-                "hr": "Autobusna stanica 'Mokošica' udaljena je tek nekoliko minuta hoda."
+                "hr": "Autobusno stajalište 'Mokošica' udaljeno je samo nekoliko minuta hoda."
               }
             },
             {
@@ -1828,7 +1828,7 @@
                 "hu": "Válasszunk éttermet közvetlenül a buszútvonal mentén.",
                 "ro": "Alegeți un restaurant pe traseul autobuzului pentru acces rapid.",
                 "en": "Choose a restaurant right on the bus route for short walks.",
-                "hr": "Odaberite restoran neposredno uz autobusnu rutu za kratke šetnje."
+                "hr": "Odaberite restoran koji je upravo na autobusnoj liniji za kratke šetnje."
               }
             },
             {
@@ -1848,7 +1848,7 @@
                 "hu": "A buszváró jó védelmet nyújt a szél és az eső ellen.",
                 "ro": "Stația acoperită oferă protecție bună contra vântului și ploii.",
                 "en": "The bus shelter provides good protection from wind and rain.",
-                "hr": "Nadstrešnica na stanici pruža dobru zaštitu od vjetra i kiše."
+                "hr": "Autobusna nadstrešnica dobro štiti od vjetra i kiše."
               }
             },
             {
@@ -1858,7 +1858,7 @@
                 "hu": "Legyen kéznél a jegyünk, hogy elkerüljük a várakozást a felszálláskor.",
                 "ro": "Aveți biletul la îndemână pentru a nu întârzia urcarea în autobuz.",
                 "en": "Have your ticket ready to avoid delays when boarding.",
-                "hr": "Pripremite kartu ranije kako biste izbjegli kašnjenja pri ulasku."
+                "hr": "Imajte kartu spremnu kako biste izbjegli kašnjenja pri ulasku."
               }
             }
           ],
@@ -1888,10 +1888,10 @@
               "Watch out for puddles at the stops when boarding or alighting."
             ],
             "hr": [
-              "Kupite karte unaprijed na Tisak kiosku kako biste izbjegli gotovinu u autobusu.",
-              "Autobusi voze svakih 20-30 minuta; planirajte svoja stajališta prema tome.",
-              "Kišnim danima autobusi su često puniji; uđite ranije.",
-              "Pazite na lokve na stanicama prilikom ulaska ili izlaska."
+              "Kupite karte unaprijed na Tisak kiosku kako biste izbjegli plaćanje gotovinom u autobusu.",
+              "Autobusi voze svakih 20–30 minuta; planirajte svoje stanice sukladno tome.",
+              "Za kišnih dana autobusi su često gušći; ukrcajte se rano.",
+              "Pazite na lokve na stajalištima pri ulasku ili izlasku iz autobusa."
             ]
           }
         },
@@ -1901,7 +1901,7 @@
             "hu": "A téli tömegközlekedés Mokošicába hatékony és fűtött járműveket kínál. Az Ombla-forrásnál kezdünk, élvezve a téli csendet. Ebédre egy meleg helyet választunk az 1A buszvonal közelében. Délután tiszta kilátásunk nyílik az öbölre a Franjo Tuđman híd felé vezető úton. A kinti hideg ellenére a meleg buszból csodáljuk a panorámát, majd pihenéssel zárjuk a napot.",
             "ro": "Transportul public iarna spre Mokošica este eficient și oferă vehicule încălzite. Începem la izvorul Ombla, bucurându-ne de liniștea iernii. Prânzul are loc într-un local cald lângă linia 1A. După-amiaza avem o vedere clară asupra golfului în timpul drumului spre podul Franjo Tuđman. În ciuda frigului de afară, ne bucurăm de drumul panoramic la căldură.",
             "en": "Winter transit to Mokošica is efficient and features heated vehicles. We start at the Ombla source, enjoying the winter silence. Lunch is at a warm spot near bus line 1A. In the afternoon, we experience clear views of the bay during the ride to the Franjo Tuđman bridge. Despite the chill outside, we enjoy the panoramic ride in the warmth before ending the day relaxed.",
-            "hr": "Zimski prijevoz do Mokošice je učinkovit i uključuje grijana vozila. Krećemo s izvora Omble, uživajući u zimskoj tišini. Ručak je na toplom mjestu blizu linije 1A. Poslijepodne doživljavamo jasne poglede na zaljev tijekom vožnje prema Mostu dr. Franja Tuđmana. Unatoč hladnoći vani, uživamo u panoramskoj vožnji na toplom prije opuštenog završetka dana."
+            "hr": "Zimski prijevoz do Mokošice je učinkovit i obiluje grijanima vozilima. Polazimo od izvora Omble, uživajući u zimskoj tišini. Ručak je na toplom mjestu blizu linije 1A. Poslijepodne doživljavamo jasne poglede na zaljev tijekom vožnje do mosta Franjo Tuđman. Unatoč hladnoći vani, uživamo u panoramskoj vožnji u toplini prije nego što dan završimo opušteno."
           },
           "stops": [
             {
@@ -1921,7 +1921,7 @@
                 "hu": "A környező kertek télen is érdemesek a megtekintésre és csendesek.",
                 "ro": "Grădinile din jur merită văzute chiar și iarna și sunt foarte liniștite.",
                 "en": "The surrounding gardens are worth seeing even in winter and are quiet.",
-                "hr": "Okolne vrtove vrijedi vidjeti i zimi, a tada su i mirni."
+                "hr": "Okolišni vrtovi vrijede razgleda i zimi te su mirni."
               }
             },
             {
@@ -1931,7 +1931,7 @@
                 "hu": "Egy forró ital megédesíti a várakozást a következő buszra.",
                 "ro": "O băutură caldă face așteptarea următorului autobuz mai plăcută.",
                 "en": "A hot drink makes the wait for the next bus more pleasant.",
-                "hr": "Topli napitak olakšava čekanje sljedećeg autobusa."
+                "hr": "Topli napitak čini čekanje na sljedeći autobus ugodnijim."
               }
             },
             {
@@ -1941,7 +1941,7 @@
                 "hu": "Az alacsonyan járó téli nap csillogó tükröződéseket hoz létre a folyón.",
                 "ro": "Soarele de iarnă creează reflexii strălucitoare pe râu.",
                 "en": "The low winter sun creates sparkling reflections on the river.",
-                "hr": "Nisko zimsko sunce stvara blistave odsjaje na rijeci."
+                "hr": "Nisko zim­sko sunce stvara šlj­š­ta­ve odraze na rijeci."
               }
             },
             {
@@ -1951,7 +1951,7 @@
                 "hu": "A várakozás itt a bóra miatt hűvös lehet; öltözzünk fel jól.",
                 "ro": "Așteptarea aici poate fi rece din cauza vântului; îmbrăcați-vă bine.",
                 "en": "Waiting here can be quite chilly due to the Bura; dress warmly.",
-                "hr": "Čekanje ovdje može biti prilično hladno zbog bure; toplo se odjenite."
+                "hr": "Čekanje ovdje može biti prilično hladno zbog bure; obucite se toplo."
               }
             },
             {
@@ -1961,7 +1961,7 @@
                 "hu": "A sötétedés előtti utolsó buszok nyújtják a legbiztonságosabb hazautat.",
                 "ro": "Ultimele autobuze înainte de lăsarea serii oferă cea mai sigură întoarcere.",
                 "en": "The last buses before dark offer the safest return journey.",
-                "hr": "Zadnji autobusi prije mraka nude najsigurniji povratak."
+                "hr": "Posljednji autobusi prije mraka pružaju najsigurniji povratak."
               }
             }
           ],
@@ -1991,10 +1991,10 @@
               "Wear gloves to avoid getting cold while waiting at the stops."
             ],
             "hr": [
-              "Autobusi su zimi dobro grijani, što putovanje čini vrlo ugodnim.",
-              "Oslonite se na Libertasov zimski vozni red jer ima manje autobusa nego ljeti.",
-              "Stanica na mostu nudi najbolji pogled na zalazak sunca zimi.",
-              "Nosite rukavice kako vam ne bi bilo hladno dok čekate na stanicama."
+              "Autobusi su dobro grijani zimi, što čini putovanje vrlo ugodnim.",
+              "Ravnajte se po Libertasovom zimskom voznom redu jer ima manje linija nego ljeti.",
+              "Stajalište na mostu nudi najbolji pogled na zalazak sunca zimi.",
+              "Nosite rukavice kako vam ne bi bilo hladno dok čekate na stajalištima."
             ]
           }
         }
