@@ -19,6 +19,10 @@ on:
         description: "Translation batches; 0 means all"
         required: true
         default: "0"
+      language_name:
+        description: "English target language name"
+        required: true
+        default: "Dutch"
 
 permissions:
   actions: write
@@ -35,6 +39,7 @@ jobs:
       COUNTRY_SLUG: ${{ inputs.country_slug }}
       POIS_FILE: ${{ inputs.pois_file }}
       BATCH_LIMIT: ${{ inputs.batch_limit }}
+      LANGUAGE_NAME: ${{ inputs.language_name }}
     steps:
       - name: Run and wait for each pipeline stage
         shell: bash
@@ -82,7 +87,7 @@ jobs:
           wait_for_dispatch "Native Sights Azure Translation" \
             -f language="$LANGUAGE" -f limit=0
           wait_for_dispatch "Native UI Azure Translation" \
-            -f language_code="$LANGUAGE" -f language_name="Dutch" -f limit=0
+            -f language_code="$LANGUAGE" -f language_name="$LANGUAGE_NAME" -f limit=0
           wait_for_dispatch "Deploy VPS (Leaseweb)" \
             -f poi_mode=full -f poi_scope_language="$LANGUAGE"
 

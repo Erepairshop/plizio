@@ -4,9 +4,9 @@
 import fs from "node:fs";
 import path from "node:path";
 
-type Lang = "de" | "hu" | "ro" | "en" | "it" | "es";
+type Lang = "de" | "hu" | "ro" | "en" | "it" | "es" | "nl" | "cs" | "sk" | "da" | "sv" | "fi" | "el" | "bg";
 const CORE_LANGS: Lang[] = ["de", "hu", "ro", "en"];
-const LANGS: Lang[] = [...CORE_LANGS, "it", "es"];
+const LANGS: Lang[] = [...CORE_LANGS, "it", "es", "nl", "cs", "sk", "da", "sv", "fi", "el", "bg"];
 
 // Dedup blocklist — same set build-seo-index/split/generate-poi-html honor, so map
 // markers never show a duplicate POI even if the pois/<ISO>.json is not yet re-split.
@@ -151,7 +151,7 @@ const COUNTRIES: Country[] = [
   { iso:"gb", slug:"unitedkingdom", svgFile:"unitedkingdom.svg.ts", mapVar:"unitedkingdomMap", vbVar:"unitedkingdomViewBox", projFn:"projectCoordsUK",
     names:{ de:"Vereinigtes Königreich", hu:"Egyesült Királyság", ro:"Regatul Unit", en:"United Kingdom" } },
   { iso:"nl", slug:"netherlands", svgFile:"netherlands.svg.ts", mapVar:"netherlandsMap", vbVar:"netherlandsViewBox", projFn:"projectCoordsNL",
-    names:{ de:"Niederlande", hu:"Hollandia", ro:"Țările de Jos", en:"Netherlands" } },
+    names:{ de:"Niederlande", hu:"Hollandia", ro:"Țările de Jos", en:"Netherlands", nl:"Nederland" } },
   { iso:"at", slug:"austria", svgFile:"austria.svg.ts", mapVar:"austriaMap", vbVar:"austriaViewBox", projFn:"projectCoordsAT",
     names:{ de:"Österreich", hu:"Ausztria", ro:"Austria", en:"Austria" } },
   { iso:"be", slug:"belgium", svgFile:"belgium.svg.ts", mapVar:"belgiumMap", vbVar:"belgiumViewBox", projFn:"projectCoordsBE",
@@ -159,27 +159,27 @@ const COUNTRIES: Country[] = [
   { iso:"pt", slug:"portugal", svgFile:"portugal.svg.ts", mapVar:"portugalMap", vbVar:"portugalViewBox", projFn:"projectCoordsPT",
     names:{ de:"Portugal", hu:"Portugália", ro:"Portugalia", en:"Portugal" } },
   { iso:"gr", slug:"greece", svgFile:"greece.svg.ts", mapVar:"greeceMap", vbVar:"greeceViewBox", projFn:"projectCoordsGR",
-    names:{ de:"Griechenland", hu:"Görögország", ro:"Grecia", en:"Greece" } },
+    names:{ de:"Griechenland", hu:"Görögország", ro:"Grecia", en:"Greece", el:"Ελλάδα" } },
   { iso:"ie", slug:"ireland", svgFile:"ireland.svg.ts", mapVar:"irelandMap", vbVar:"irelandViewBox", projFn:"projectCoordsIE",
     names:{ de:"Irland", hu:"Írország", ro:"Irlanda", en:"Ireland" } },
   { iso:"dk", slug:"denmark", svgFile:"denmark.svg.ts", mapVar:"denmarkMap", vbVar:"denmarkViewBox", projFn:"projectCoordsDK",
-    names:{ de:"Dänemark", hu:"Dánia", ro:"Danemarca", en:"Denmark" } },
+    names:{ de:"Dänemark", hu:"Dánia", ro:"Danemarca", en:"Denmark", da:"Danmark" } },
   { iso:"se", slug:"sweden", svgFile:"sweden.svg.ts", mapVar:"swedenMap", vbVar:"swedenViewBox", projFn:"projectCoordsSE",
-    names:{ de:"Schweden", hu:"Svédország", ro:"Suedia", en:"Sweden" } },
+    names:{ de:"Schweden", hu:"Svédország", ro:"Suedia", en:"Sweden", sv:"Sverige" } },
   { iso:"no", slug:"norway", svgFile:"norway.svg.ts", mapVar:"norwayMap", vbVar:"norwayViewBox", projFn:"projectCoordsNO",
     names:{ de:"Norwegen", hu:"Norvégia", ro:"Norvegia", en:"Norway" } },
   { iso:"fi", slug:"finland", svgFile:"finland.svg.ts", mapVar:"finlandMap", vbVar:"finlandViewBox", projFn:"projectCoordsFI",
-    names:{ de:"Finnland", hu:"Finnország", ro:"Finlanda", en:"Finland" } },
+    names:{ de:"Finnland", hu:"Finnország", ro:"Finlanda", en:"Finland", fi:"Suomi" } },
   { iso:"ch", slug:"switzerland", svgFile:"switzerland.svg.ts", mapVar:"switzerlandMap", vbVar:"switzerlandViewBox", projFn:"projectCoordsCH",
     names:{ de:"Schweiz", hu:"Svájc", ro:"Elveția", en:"Switzerland" } },
   { iso:"cz", slug:"czech-republic", svgFile:"czechRepublic.svg.ts", mapVar:"czechRepublicMap", vbVar:"czechRepublicViewBox", projFn:"projectCoordsCZ",
-    names:{ de:"Tschechien", hu:"Csehország", ro:"Cehia", en:"Czech Republic" } },
+    names:{ de:"Tschechien", hu:"Csehország", ro:"Cehia", en:"Czech Republic", cs:"Česko" } },
   { iso:"sk", slug:"slovakia", svgFile:"slovakia.svg.ts", mapVar:"slovakiaMap", vbVar:"slovakiaViewBox", projFn:"projectCoordsSK",
-    names:{ de:"Slowakei", hu:"Szlovákia", ro:"Slovacia", en:"Slovakia" } },
+    names:{ de:"Slowakei", hu:"Szlovákia", ro:"Slovacia", en:"Slovakia", sk:"Slovensko" } },
   { iso:"si", slug:"slovenia", svgFile:"slovenia.svg.ts", mapVar:"sloveniaMap", vbVar:"sloveniaViewBox", projFn:"projectCoordsSI",
     names:{ de:"Slowenien", hu:"Szlovénia", ro:"Slovenia", en:"Slovenia" } },
   { iso:"bg", slug:"bulgaria", svgFile:"bulgaria.svg.ts", mapVar:"bulgariaMap", vbVar:"bulgariaViewBox", projFn:"projectCoordsBG",
-    names:{ de:"Bulgarien", hu:"Bulgária", ro:"Bulgaria", en:"Bulgaria" } },
+    names:{ de:"Bulgarien", hu:"Bulgária", ro:"Bulgaria", en:"Bulgaria", bg:"България" } },
   { iso:"rs", slug:"serbia", svgFile:"serbia.svg.ts", mapVar:"serbiaMap", vbVar:"serbiaViewBox", projFn:"projectCoordsRS",
     names:{ de:"Serbien", hu:"Szerbia", ro:"Serbia", en:"Serbia" } },
   { iso:"ba", slug:"bosnia", svgFile:"bosnia.svg.ts", mapVar:"bosniaMap", vbVar:"bosniaViewBox", projFn:"projectCoordsBA",
@@ -540,17 +540,27 @@ const HINT: Record<Lang, string> = {
   en: "Tap a place for details",
   it: "Tocca un luogo per i dettagli",
   es: "Toca un lugar para ver los detalles",
+  nl: "Tik op een plaats voor details",
+  cs: "Klepnutím na místo zobrazíte podrobnosti",
+  sk: "Ťuknite na miesto pre podrobnosti",
+  da: "Tryk på et sted for detaljer",
+  sv: "Tryck på en plats för detaljer",
+  fi: "Napauta paikkaa nähdäksesi tiedot",
+  el: "Πατήστε σε μια τοποθεσία για λεπτομέρειες",
+  bg: "Докоснете място за подробности",
 };
 
 function langsForCountry(country: Country): Lang[] {
   if (country.iso === "it") return [...CORE_LANGS, "it"];
   if (country.iso === "es") return [...CORE_LANGS, "es"];
+  const native: Partial<Record<string, Lang>> = { nl:"nl", cz:"cs", sk:"sk", dk:"da", se:"sv", fi:"fi", gr:"el", bg:"bg" };
+  if (native[country.iso]) return [...CORE_LANGS, native[country.iso]!];
   return CORE_LANGS;
 }
-const MORE: Record<Lang, string> = { de:"Mehr erfahren", hu:"Bővebben", ro:"Detalii", en:"Read more", it:"Scopri di più", es:"Más información" };
-const BACK: Record<Lang, string> = { de:"Zurück", hu:"Vissza", ro:"Înapoi", en:"Back", it:"Indietro", es:"Volver" };
-const TITLE_SUFFIX: Record<Lang, string> = { de:"Karte", hu:"térkép", ro:"hartă", en:"map", it:"mappa", es:"mapa" };
-const SEARCH_PH: Record<Lang, string> = { de:"Suche…", hu:"Keresés…", ro:"Caută…", en:"Search…", it:"Cerca…", es:"Buscar…" };
+const MORE: Record<Lang, string> = { de:"Mehr erfahren", hu:"Bővebben", ro:"Detalii", en:"Read more", it:"Scopri di più", es:"Más información", nl:"Meer informatie", cs:"Zjistit více", sk:"Zistiť viac", da:"Læs mere", sv:"Läs mer", fi:"Lue lisää", el:"Μάθετε περισσότερα", bg:"Научете повече" };
+const BACK: Record<Lang, string> = { de:"Zurück", hu:"Vissza", ro:"Înapoi", en:"Back", it:"Indietro", es:"Volver", nl:"Terug", cs:"Zpět", sk:"Späť", da:"Tilbage", sv:"Tillbaka", fi:"Takaisin", el:"Πίσω", bg:"Назад" };
+const TITLE_SUFFIX: Record<Lang, string> = { de:"Karte", hu:"térkép", ro:"hartă", en:"map", it:"mappa", es:"mapa", nl:"kaart", cs:"mapa", sk:"mapa", da:"kort", sv:"karta", fi:"kartta", el:"χάρτης", bg:"карта" };
+const SEARCH_PH: Record<Lang, string> = { de:"Suche…", hu:"Keresés…", ro:"Caută…", en:"Search…", it:"Cerca…", es:"Buscar…", nl:"Zoeken…", cs:"Hledat…", sk:"Hľadať…", da:"Søg…", sv:"Sök…", fi:"Hae…", el:"Αναζήτηση…", bg:"Търсене…" };
 
 // Type → group mapping (5 visible groups). Unknown types fall into "other".
 type Grp = "city" | "sight" | "nature" | "history" | "industry" | "other";
@@ -579,12 +589,12 @@ function groupOf(t?: string): Grp { return (t && TYPE_GROUP[t]) || "other"; }
 
 // Chip labels per group per lang
 const GROUP_LABELS: Record<Grp, Record<Lang, string>> = {
-  city:     { de:"Städte", hu:"Városok", ro:"Orașe", en:"Cities", it:"Città", es:"Ciudades" },
-  sight:    { de:"Sehensw.", hu:"Látnivalók", ro:"Atracții", en:"Sights", it:"Luoghi", es:"Lugares" },
-  nature:   { de:"Natur", hu:"Természet", ro:"Natură", en:"Nature", it:"Natura", es:"Naturaleza" },
-  history:  { de:"Geschichte", hu:"Történelem", ro:"Istorie", en:"History", it:"Storia", es:"Historia" },
-  industry: { de:"Industrie", hu:"Ipar", ro:"Industrie", en:"Industry", it:"Industria", es:"Industria" },
-  other:    { de:"Sonst.", hu:"Egyéb", ro:"Altele", en:"Other", it:"Altro", es:"Otros" },
+  city:     { de:"Städte", hu:"Városok", ro:"Orașe", en:"Cities", it:"Città", es:"Ciudades", nl:"Steden", cs:"Města", sk:"Mestá", da:"Byer", sv:"Städer", fi:"Kaupungit", el:"Πόλεις", bg:"Градове" },
+  sight:    { de:"Sehensw.", hu:"Látnivalók", ro:"Atracții", en:"Sights", it:"Luoghi", es:"Lugares", nl:"Bezienswaardigheden", cs:"Památky", sk:"Pamiatky", da:"Seværdigheder", sv:"Sevärdheter", fi:"Nähtävyydet", el:"Αξιοθέατα", bg:"Забележителности" },
+  nature:   { de:"Natur", hu:"Természet", ro:"Natură", en:"Nature", it:"Natura", es:"Naturaleza", nl:"Natuur", cs:"Příroda", sk:"Príroda", da:"Natur", sv:"Natur", fi:"Luonto", el:"Φύση", bg:"Природа" },
+  history:  { de:"Geschichte", hu:"Történelem", ro:"Istorie", en:"History", it:"Storia", es:"Historia", nl:"Geschiedenis", cs:"Historie", sk:"História", da:"Historie", sv:"Historia", fi:"Historia", el:"Ιστορία", bg:"История" },
+  industry: { de:"Industrie", hu:"Ipar", ro:"Industrie", en:"Industry", it:"Industria", es:"Industria", nl:"Industrie", cs:"Průmysl", sk:"Priemysel", da:"Industri", sv:"Industri", fi:"Teollisuus", el:"Βιομηχανία", bg:"Промишленост" },
+  other:    { de:"Sonst.", hu:"Egyéb", ro:"Altele", en:"Other", it:"Altro", es:"Otros", nl:"Overig", cs:"Ostatní", sk:"Ostatné", da:"Andet", sv:"Övrigt", fi:"Muut", el:"Άλλα", bg:"Други" },
 };
 
 type SlimPoi = { id:string; type:string; grp:Grp; cx:number; cy:number; name:any; urls?:Record<string,string>; img?:string; desc?:any; facts?:any; sv?:string };
@@ -780,6 +790,14 @@ const MAP_QUIZ_UI: Record<Lang, Record<string,string>> = {
   en: { launch:"Quiz", start:"Start quiz", next:"Next", close:"Exit", restart:"Play again", correct:"Correct!", wrong:"Not quite.", answer:"Correct answer", score:"Score", task:"Task", complete:"Complete!", intro:"10 varied map challenges", sequence:"Next place", namePrompt:"What is your name?", namePlaceholder:"Player name", save:"Save result", saved:"Result saved", best:"Your best score", invalidName:"Use 2-16 characters: letters, numbers, _ or -" },
   it: { launch:"Quiz", start:"Inizia il quiz", next:"Avanti", close:"Esci", restart:"Gioca ancora", correct:"Corretto!", wrong:"Non proprio.", answer:"Risposta corretta", score:"Punti", task:"Domanda", complete:"Completato!", intro:"10 sfide diverse sulla mappa", sequence:"Luogo successivo", namePrompt:"Come ti chiami?", namePlaceholder:"Nome giocatore", save:"Salva risultato", saved:"Risultato salvato", best:"Il tuo miglior risultato", invalidName:"Usa da 2 a 16 caratteri: lettere, numeri, _ o -" },
   es: { launch:"Quiz", start:"Iniciar quiz", next:"Siguiente", close:"Salir", restart:"Jugar de nuevo", correct:"¡Correcto!", wrong:"No del todo.", answer:"Respuesta correcta", score:"Puntos", task:"Pregunta", complete:"¡Completado!", intro:"10 retos variados en el mapa", sequence:"Siguiente lugar", namePrompt:"¿Cómo te llamas?", namePlaceholder:"Nombre del jugador", save:"Guardar resultado", saved:"Resultado guardado", best:"Tu mejor resultado", invalidName:"Usa entre 2 y 16 caracteres: letras, números, _ o -" },
+  nl: { launch:"Quiz", start:"Quiz starten", next:"Volgende", close:"Sluiten", restart:"Opnieuw spelen", correct:"Goed!", wrong:"Niet helemaal.", answer:"Juiste antwoord", score:"Score", task:"Opdracht", complete:"Voltooid!", intro:"10 gevarieerde kaartopdrachten", sequence:"Volgende plaats", namePrompt:"Hoe heet je?", namePlaceholder:"Spelersnaam", save:"Resultaat opslaan", saved:"Resultaat opgeslagen", best:"Je beste score", invalidName:"Gebruik 2-16 tekens: letters, cijfers, _ of -" },
+  cs: { launch:"Kvíz", start:"Spustit kvíz", next:"Další", close:"Zavřít", restart:"Hrát znovu", correct:"Správně!", wrong:"Ne tak docela.", answer:"Správná odpověď", score:"Skóre", task:"Úkol", complete:"Hotovo!", intro:"10 různých úkolů s mapou", sequence:"Další místo", namePrompt:"Jak se jmenuješ?", namePlaceholder:"Jméno hráče", save:"Uložit výsledek", saved:"Výsledek uložen", best:"Nejlepší skóre", invalidName:"Použijte 2–16 znaků: písmena, čísla, _ nebo -" },
+  sk: { launch:"Kvíz", start:"Spustiť kvíz", next:"Ďalej", close:"Zavrieť", restart:"Hrať znova", correct:"Správne!", wrong:"Nie celkom.", answer:"Správna odpoveď", score:"Skóre", task:"Úloha", complete:"Hotovo!", intro:"10 rozmanitých úloh s mapou", sequence:"Ďalšie miesto", namePrompt:"Ako sa voláš?", namePlaceholder:"Meno hráča", save:"Uložiť výsledok", saved:"Výsledok uložený", best:"Najlepšie skóre", invalidName:"Použite 2–16 znakov: písmená, čísla, _ alebo -" },
+  da: { launch:"Quiz", start:"Start quiz", next:"Næste", close:"Luk", restart:"Spil igen", correct:"Korrekt!", wrong:"Ikke helt.", answer:"Rigtigt svar", score:"Point", task:"Opgave", complete:"Gennemført!", intro:"10 varierede kortopgaver", sequence:"Næste sted", namePrompt:"Hvad hedder du?", namePlaceholder:"Spillernavn", save:"Gem resultat", saved:"Resultat gemt", best:"Din bedste score", invalidName:"Brug 2-16 tegn: bogstaver, tal, _ eller -" },
+  sv: { launch:"Quiz", start:"Starta quiz", next:"Nästa", close:"Stäng", restart:"Spela igen", correct:"Rätt!", wrong:"Inte riktigt.", answer:"Rätt svar", score:"Poäng", task:"Uppgift", complete:"Klart!", intro:"10 varierade kartuppgifter", sequence:"Nästa plats", namePrompt:"Vad heter du?", namePlaceholder:"Spelarnamn", save:"Spara resultat", saved:"Resultatet sparat", best:"Ditt bästa resultat", invalidName:"Använd 2–16 tecken: bokstäver, siffror, _ eller -" },
+  fi: { launch:"Tietovisa", start:"Aloita visa", next:"Seuraava", close:"Sulje", restart:"Pelaa uudelleen", correct:"Oikein!", wrong:"Ei aivan.", answer:"Oikea vastaus", score:"Pisteet", task:"Tehtävä", complete:"Valmis!", intro:"10 vaihtelevaa karttatehtävää", sequence:"Seuraava paikka", namePrompt:"Mikä sinun nimesi on?", namePlaceholder:"Pelaajan nimi", save:"Tallenna tulos", saved:"Tulos tallennettu", best:"Paras tuloksesi", invalidName:"Käytä 2–16 merkkiä: kirjaimia, numeroita, _ tai -" },
+  el: { launch:"Κουίζ", start:"Έναρξη κουίζ", next:"Επόμενο", close:"Κλείσιμο", restart:"Παίξτε ξανά", correct:"Σωστά!", wrong:"Όχι ακριβώς.", answer:"Σωστή απάντηση", score:"Βαθμολογία", task:"Εργασία", complete:"Ολοκληρώθηκε!", intro:"10 διαφορετικές ασκήσεις χάρτη", sequence:"Επόμενη τοποθεσία", namePrompt:"Πώς σε λένε;", namePlaceholder:"Όνομα παίκτη", save:"Αποθήκευση αποτελέσματος", saved:"Το αποτέλεσμα αποθηκεύτηκε", best:"Η καλύτερη βαθμολογία σου", invalidName:"Χρησιμοποίησε 2–16 χαρακτήρες: γράμματα, αριθμούς, _ ή -" },
+  bg: { launch:"Викторина", start:"Започни викторината", next:"Следващ", close:"Затвори", restart:"Играй отново", correct:"Правилно!", wrong:"Не съвсем.", answer:"Правилен отговор", score:"Точки", task:"Задача", complete:"Готово!", intro:"10 разнообразни задачи с карта", sequence:"Следващо място", namePrompt:"Как се казваш?", namePlaceholder:"Име на играча", save:"Запази резултата", saved:"Резултатът е запазен", best:"Най-добър резултат", invalidName:"Използвай 2–16 знака: букви, цифри, _ или -" },
 };
 
 // Street View availability sidecar (built by the VPS metadata sweep):

@@ -10,7 +10,7 @@ import { SEO_POIS, SEO_REGIONS } from "@/lib/seo/_seo-data.generated";
 // remains in per-country JSON under public/data/pois/<CC>.json and is read on
 // demand by the POI detail page render path (out of scope here).
 
-export type Lang = "de" | "hu" | "ro" | "en" | "fr" | "tr" | "hr" | "it" | "es" | "pt" | "nl";
+export type Lang = "de" | "hu" | "ro" | "en" | "fr" | "tr" | "hr" | "it" | "es" | "pt" | "nl" | "cs" | "sk" | "da" | "sv" | "fi" | "el" | "bg";
 
 // Core 4 langs build everywhere. `fr` and `tr` are conditional:
 //   - fr: emitted for French POIs (parent starts with "FR")
@@ -19,14 +19,14 @@ export type Lang = "de" | "hu" | "ro" | "en" | "fr" | "tr" | "hr" | "it" | "es" 
 // NOT in SUPPORTED_LANGS to avoid sitemap bloat for non-applicable pages.
 // Use `extraLangsFor(poi)` to detect per-POI extras.
 export const SUPPORTED_LANGS: Lang[] = ["de", "hu", "ro", "en"];
-export const ALL_LANGS: Lang[] = ["de", "hu", "ro", "en", "fr", "tr", "hr", "it", "es", "pt", "nl"];
+export const ALL_LANGS: Lang[] = ["de", "hu", "ro", "en", "fr", "tr", "hr", "it", "es", "pt", "nl", "cs", "sk", "da", "sv", "fi", "el", "bg"];
 
 // Emit the extra lang URL in the sitemap when EITHER:
 //   - the POI lives in the lang's target country (FR-parent for fr, DE-parent for tr)
 //   - OR the POI has a real ≥700-char descriptionAdvanced in that lang
 //     (frLong / trLong, computed at build-seo-index time).
 // Short pages stay out so Google doesn't soft-404 them.
-export function extraLangsFor(poi: { parent?: string; frLong?: boolean; trLong?: boolean; hrLong?: boolean; itLong?: boolean; esLong?: boolean; ptLong?: boolean; plLong?: boolean; nlLong?: boolean }): Lang[] {
+export function extraLangsFor(poi: { parent?: string; frLong?: boolean; trLong?: boolean; hrLong?: boolean; itLong?: boolean; esLong?: boolean; ptLong?: boolean; plLong?: boolean; nlLong?: boolean; csLong?: boolean; skLong?: boolean; daLong?: boolean; svLong?: boolean; fiLong?: boolean; elLong?: boolean; bgLong?: boolean }): Lang[] {
   const extras: Lang[] = [];
   // FONTOS: fr CSAK France POI-kra, tr CSAK DE POI-kra. A generate-poi-html.mts
   // is csak ezekre keszit oldalt — ha a sitemap a frLong/trLong alapjan szelesebb
@@ -79,6 +79,13 @@ export function extraLangsFor(poi: { parent?: string; frLong?: boolean; trLong?:
     parentRegion?.parent === "NL" ||
     parentRegion?.parent?.startsWith("NL-")
   ) extras.push("nl");
+  const nativeByCountry: Record<string, Lang> = {
+    netherlands: "nl", "czech-republic": "cs", slovakia: "sk", denmark: "da",
+    sweden: "sv", finland: "fi", greece: "el", bulgaria: "bg",
+  };
+  const countryId = poi.parent ? getCountryIdStrict(poi.parent) : null;
+  const nativeLang = countryId ? nativeByCountry[countryId] : undefined;
+  if (nativeLang) extras.push(nativeLang);
   return extras;
 }
 
@@ -154,8 +161,8 @@ export const COUNTRY_SLUGS: Record<string, Partial<Record<Lang, string>> & { de:
   // `pl: "polska"` follows the germany/tr precedent above: a country-native
   // language gets the country's own name, not the English fallback.
   poland:         { de: "polen", hu: "lengyelorszag", ro: "polonia", en: "poland", pl: "polska" },
-  "czech-republic": { de: "tschechien", hu: "csehorszag", ro: "cehia", en: "czech-republic" },
-  slovakia:       { de: "slowakei", hu: "szlovakia", ro: "slovacia", en: "slovakia" },
+  "czech-republic": { de: "tschechien", hu: "csehorszag", ro: "cehia", en: "czech-republic", cs: "cesko" },
+  slovakia:       { de: "slowakei", hu: "szlovakia", ro: "slovacia", en: "slovakia", sk: "slovensko" },
   slovenia:       { de: "slowenien", hu: "szlovenia", ro: "slovenia", en: "slovenia" },
   croatia:        { de: "kroatien", hu: "horvatorszag", ro: "croatia", en: "croatia" },
   serbia:         { de: "serbien", hu: "szerbia", ro: "serbia", en: "serbia" },
@@ -164,15 +171,15 @@ export const COUNTRY_SLUGS: Record<string, Partial<Record<Lang, string>> & { de:
   "north-macedonia": { de: "nordmazedonien", hu: "eszak-macedonia", ro: "macedonia-de-nord", en: "north-macedonia" },
   albania:        { de: "albanien", hu: "albania", ro: "albania", en: "albania" },
   kosovo:         { de: "kosovo", hu: "koszovo", ro: "kosovo", en: "kosovo" },
-  bulgaria:       { de: "bulgarien", hu: "bulgaria", ro: "bulgaria", en: "bulgaria" },
-  greece:         { de: "griechenland", hu: "gorogorszag", ro: "grecia", en: "greece" },
+  bulgaria:       { de: "bulgarien", hu: "bulgaria", ro: "bulgaria", en: "bulgaria", bg: "balgariya" },
+  greece:         { de: "griechenland", hu: "gorogorszag", ro: "grecia", en: "greece", el: "ellada" },
   turkey:         { de: "tuerkei", hu: "torokorszag", ro: "turcia", en: "turkey" },
   cyprus:         { de: "zypern", hu: "ciprus", ro: "cipru", en: "cyprus" },
   malta:          { de: "malta", hu: "malta", ro: "malta", en: "malta" },
-  denmark:        { de: "daenemark", hu: "dania", ro: "danemarca", en: "denmark" },
+  denmark:        { de: "daenemark", hu: "dania", ro: "danemarca", en: "denmark", da: "danmark" },
   norway:         { de: "norwegen", hu: "norvegia", ro: "norvegia", en: "norway" },
-  sweden:         { de: "schweden", hu: "svedorszag", ro: "suedia", en: "sweden" },
-  finland:        { de: "finnland", hu: "finnorszag", ro: "finlanda", en: "finland" },
+  sweden:         { de: "schweden", hu: "svedorszag", ro: "suedia", en: "sweden", sv: "sverige" },
+  finland:        { de: "finnland", hu: "finnorszag", ro: "finlanda", en: "finland", fi: "suomi" },
   iceland:        { de: "island", hu: "izland", ro: "islanda", en: "iceland" },
   estonia:        { de: "estland", hu: "esztorszag", ro: "estonia", en: "estonia" },
   latvia:         { de: "lettland", hu: "lettorszag", ro: "letonia", en: "latvia" },
@@ -567,8 +574,8 @@ export const COUNTRY_NAMES: Record<string, Partial<Record<Lang, string>>> = {
   "united-kingdom": { de: "Vereinigtes Königreich", hu: "Egyesült Királyság", ro: "Regatul Unit", en: "United Kingdom" },
   ireland: { de: "Irland", hu: "Írország", ro: "Irlanda", en: "Ireland" },
   poland: { de: "Polen", hu: "Lengyelország", ro: "Polonia", en: "Poland" },
-  "czech-republic": { de: "Tschechien", hu: "Csehország", ro: "Cehia", en: "Czech Republic" },
-  slovakia: { de: "Slowakei", hu: "Szlovákia", ro: "Slovacia", en: "Slovakia" },
+  "czech-republic": { de: "Tschechien", hu: "Csehország", ro: "Cehia", en: "Czech Republic", cs: "Česko" },
+  slovakia: { de: "Slowakei", hu: "Szlovákia", ro: "Slovacia", en: "Slovakia", sk: "Slovensko" },
   slovenia: { de: "Slowenien", hu: "Szlovénia", ro: "Slovenia", en: "Slovenia" },
   croatia: { de: "Kroatien", hu: "Horvátország", ro: "Croația", en: "Croatia" },
   serbia: { de: "Serbien", hu: "Szerbia", ro: "Serbia", en: "Serbia" },
@@ -577,15 +584,15 @@ export const COUNTRY_NAMES: Record<string, Partial<Record<Lang, string>>> = {
   "north-macedonia": { de: "Nordmazedonien", hu: "Észak-Macedónia", ro: "Macedonia de Nord", en: "North Macedonia" },
   albania: { de: "Albanien", hu: "Albánia", ro: "Albania", en: "Albania" },
   kosovo: { de: "Kosovo", hu: "Koszovó", ro: "Kosovo", en: "Kosovo" },
-  bulgaria: { de: "Bulgarien", hu: "Bulgária", ro: "Bulgaria", en: "Bulgaria" },
-  greece: { de: "Griechenland", hu: "Görögország", ro: "Grecia", en: "Greece" },
+  bulgaria: { de: "Bulgarien", hu: "Bulgária", ro: "Bulgaria", en: "Bulgaria", bg: "България" },
+  greece: { de: "Griechenland", hu: "Görögország", ro: "Grecia", en: "Greece", el: "Ελλάδα" },
   turkey: { de: "Türkei", hu: "Törökország", ro: "Turcia", en: "Turkey" },
   cyprus: { de: "Zypern", hu: "Ciprus", ro: "Cipru", en: "Cyprus" },
   malta: { de: "Malta", hu: "Málta", ro: "Malta", en: "Malta" },
-  denmark: { de: "Dänemark", hu: "Dánia", ro: "Danemarca", en: "Denmark" },
+  denmark: { de: "Dänemark", hu: "Dánia", ro: "Danemarca", en: "Denmark", da: "Danmark" },
   norway: { de: "Norwegen", hu: "Norvégia", ro: "Norvegia", en: "Norway" },
-  sweden: { de: "Schweden", hu: "Svédország", ro: "Suedia", en: "Sweden" },
-  finland: { de: "Finnland", hu: "Finnország", ro: "Finlanda", en: "Finland" },
+  sweden: { de: "Schweden", hu: "Svédország", ro: "Suedia", en: "Sweden", sv: "Sverige" },
+  finland: { de: "Finnland", hu: "Finnország", ro: "Finlanda", en: "Finland", fi: "Suomi" },
   iceland: { de: "Island", hu: "Izland", ro: "Islanda", en: "Iceland" },
   estonia: { de: "Estland", hu: "Észtország", ro: "Estonia", en: "Estonia" },
   latvia: { de: "Lettland", hu: "Lettország", ro: "Letonia", en: "Latvia" },
@@ -841,7 +848,7 @@ export function countrySlugFor(lang: Lang, countryId: string = "germany") {
   // Fallback: fr → en, tr → de (Turkish DE pages use German state names where TR slug missing), hr → en.
   // Without an entry here a native language falls all the way through to
   // COUNTRY_SLUGS.germany.en below, i.e. /pl/germany/ for a Polish POI.
-  const fallback: Lang = lang === "fr" ? "en" : lang === "tr" ? "de" : lang === "hr" || lang === "it" || lang === "es" || lang === "pt" || lang === "pl" || lang === "nl" ? "en" : lang;
+  const fallback: Lang = lang === "fr" ? "en" : lang === "tr" ? "de" : lang === "hr" || lang === "it" || lang === "es" || lang === "pt" || lang === "pl" || lang === "nl" || lang === "cs" || lang === "sk" || lang === "da" || lang === "sv" || lang === "fi" || lang === "el" || lang === "bg" ? "en" : lang;
   const effLang: Lang = (COUNTRY_SLUGS[countryId]?.[lang] ? lang : fallback);
   return COUNTRY_SLUGS[countryId]?.[effLang] ?? COUNTRY_SLUGS.germany[effLang] ?? COUNTRY_SLUGS.germany.en;
 }
@@ -864,7 +871,7 @@ export function stateSlugFor(stateId: string, lang: Lang) {
   // Fallback: fr → en (FR-* states already natively French), tr → de (DE-* states use German slug), hr → en.
   // pl → en so the Polish pages reuse the existing /en/poland/pl/ state slugs
   // rather than inventing new ones under a language that has no STATE_SLUGS.
-  const fallback: Lang = lang === "fr" ? "en" : lang === "tr" ? "de" : lang === "hr" || lang === "it" || lang === "es" || lang === "pt" || lang === "pl" || lang === "nl" ? "en" : lang;
+  const fallback: Lang = lang === "fr" ? "en" : lang === "tr" ? "de" : lang === "hr" || lang === "it" || lang === "es" || lang === "pt" || lang === "pl" || lang === "nl" || lang === "cs" || lang === "sk" || lang === "da" || lang === "sv" || lang === "fi" || lang === "el" || lang === "bg" ? "en" : lang;
   const effLang: Lang = STATE_SLUGS[stateId]?.[lang] ? lang : fallback;
   return STATE_SLUGS[stateId]?.[effLang] ?? slugify(REGION_BY_ID.get(stateId)?.name?.[effLang] || REGION_BY_ID.get(stateId)?.name?.de || stateId);
 }

@@ -45,6 +45,13 @@ export function generateStaticParams() {
     { lang: "es", country: countrySlugFor("es", "spain") },
     { lang: "pt", country: countrySlugFor("pt", "portugal") },
     { lang: "nl", country: countrySlugFor("nl", "netherlands") },
+    { lang: "cs", country: countrySlugFor("cs", "czech-republic") },
+    { lang: "sk", country: countrySlugFor("sk", "slovakia") },
+    { lang: "da", country: countrySlugFor("da", "denmark") },
+    { lang: "sv", country: countrySlugFor("sv", "sweden") },
+    { lang: "fi", country: countrySlugFor("fi", "finland") },
+    { lang: "el", country: countrySlugFor("el", "greece") },
+    { lang: "bg", country: countrySlugFor("bg", "bulgaria") },
   ]);
 }
 
@@ -113,6 +120,7 @@ export default async function CountryPage({
     (["de", "hu", "ro", "en"] as Lang[]).includes(lang as Lang)
     || (lang === "it" && countryId === "italy")
     || (lang === "es" && countryId === "spain")
+    || ({ nl: "netherlands", cs: "czech-republic", sk: "slovakia", da: "denmark", sv: "sweden", fi: "finland", el: "greece", bg: "bulgaria" } as Record<string, string>)[lang] === countryId
       ? (lang as Lang)
       : ("en" as Lang);
   const mapHref = mapSlug ? `/${mapSlug}-map/${mapLang === "hu" ? "" : mapLang + "/"}` : null;
@@ -125,6 +133,13 @@ export default async function CountryPage({
     es: { kicker: "Mapa interactivo", cta: `Explora ${countryCopy.name}`, sub: "Lugares, ciudades, mapa y búsqueda", world: "Mapa del mundo", open: "Abrir mapa" },
     pt: { kicker: "Mapa interativo", cta: `Explorar ${countryCopy.name}`, sub: "Locais, cidades, mapa e pesquisa", world: "Mapa do mundo", open: "Abrir mapa" },
     nl: { kicker: "Interactieve kaart", cta: `${countryCopy.name} ontdekken`, sub: "Bezienswaardigheden, steden, kaart en zoeken", world: "Wereldkaart bekijken", open: "Kaart openen" },
+    cs: { kicker: "Interaktivní mapa", cta: `Objevte ${countryCopy.name}`, sub: "Památky, města, mapa a vyhledávání", world: "Prozkoumat mapu světa", open: "Otevřít mapu" },
+    sk: { kicker: "Interaktívna mapa", cta: `Objavte ${countryCopy.name}`, sub: "Pamiatky, mestá, mapa a vyhľadávanie", world: "Pozrieť mapu sveta", open: "Otvoriť mapu" },
+    da: { kicker: "Interaktivt kort", cta: `Udforsk ${countryCopy.name}`, sub: "Seværdigheder, byer, kort og søgning", world: "Se verdenskortet", open: "Åbn kort" },
+    sv: { kicker: "Interaktiv karta", cta: `Upptäck ${countryCopy.name}`, sub: "Sevärdheter, städer, karta och sökning", world: "Visa världskartan", open: "Öppna karta" },
+    fi: { kicker: "Interaktiivinen kartta", cta: `Tutustu kohteeseen ${countryCopy.name}`, sub: "Nähtävyydet, kaupungit, kartta ja haku", world: "Katso maailmankarttaa", open: "Avaa kartta" },
+    el: { kicker: "Διαδραστικός χάρτης", cta: `Εξερευνήστε ${countryCopy.name}`, sub: "Αξιοθέατα, πόλεις, χάρτης και αναζήτηση", world: "Προβολή παγκόσμιου χάρτη", open: "Άνοιγμα χάρτη" },
+    bg: { kicker: "Интерактивна карта", cta: `Разгледайте ${countryCopy.name}`, sub: "Забележителности, градове, карта и търсене", world: "Вижте картата на света", open: "Отвори картата" },
   } as const);
   // Native-lang landing pages exist beyond the 4 core langs, so fall back instead
   // of indexing into undefined (prerender crashed on /pt/portugal this way).

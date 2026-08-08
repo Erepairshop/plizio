@@ -11,7 +11,7 @@ on:
         description: "Native language key"
         type: choice
         required: true
-        options: [fr, tr, hr, pl, nl]
+        options: [fr, tr, hr, pl, nl, cs, sk, da, sv, fi, el, bg]
       mode:
         description: "Translation queue"
         type: choice
@@ -46,6 +46,13 @@ jobs:
             hr) SLUG=croatia;  POIS=HR.json; NAME="Croatian" ;;
             pl) SLUG=poland;   POIS=PL.json; NAME="Polish" ;;
             nl) SLUG=netherlands; POIS=NL.json; NAME="Dutch" ;;
+            cs) SLUG=czech-republic; POIS=CZ.json; NAME="Czech" ;;
+            sk) SLUG=slovakia; POIS=SK.json; NAME="Slovak" ;;
+            da) SLUG=denmark; POIS=DK.json; NAME="Danish" ;;
+            sv) SLUG=sweden; POIS=SE.json; NAME="Swedish" ;;
+            fi) SLUG=finland; POIS=FI.json; NAME="Finnish" ;;
+            el) SLUG=greece; POIS=GR.json; NAME="Greek" ;;
+            bg) SLUG=bulgaria; POIS=BG.json; NAME="Bulgarian" ;;
             *) echo "::error::No mapping for language ${{ inputs.language }}"; exit 1 ;;
           esac
           echo "slug=$SLUG" >> "$GITHUB_OUTPUT"

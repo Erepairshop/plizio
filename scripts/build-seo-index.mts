@@ -158,7 +158,7 @@ async function main() {
   // parent chain. If the sitemap claims a page the generator does not write,
   // that is a 404 — so any language added here needs the matching entry in
   // NATIVE_LANGS in scripts/generate-poi-html.mts.
-  const NATIVE_LANGS = ["it", "pt", "fr", "tr", "hr", "pl", "nl"] as const;
+  const NATIVE_LANGS = ["it", "pt", "fr", "tr", "hr", "pl", "nl", "cs", "sk", "da", "sv", "fi", "el", "bg"] as const;
   const NATIVE_SIDECARS = new Map<string, Map<string, Record<string, unknown>>>();
   for (const lang of NATIVE_LANGS) {
     const entries = new Map<string, Record<string, unknown>>();

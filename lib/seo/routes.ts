@@ -36,6 +36,13 @@ export const SEO_LOCALES: Record<Lang, string> = {
   es: "es_ES",
   pt: "pt_PT",
   nl: "nl_NL",
+  cs: "cs_CZ",
+  sk: "sk_SK",
+  da: "da_DK",
+  sv: "sv_SE",
+  fi: "fi_FI",
+  el: "el_GR",
+  bg: "bg_BG",
 };
 
 // Sablon-alapú ország-szintű meta (title, description) generálás —
@@ -270,7 +277,8 @@ export function absoluteUrl(path: string) {
 
 export function getCountryAlternates(countryId: string = "germany") {
   const native: Partial<Record<string, Lang>> = {
-    italy: "it", spain: "es", portugal: "pt", netherlands: "nl",
+    italy: "it", spain: "es", portugal: "pt", netherlands: "nl", "czech-republic": "cs",
+    slovakia: "sk", denmark: "da", sweden: "sv", finland: "fi", greece: "el", bulgaria: "bg",
   };
   const langs: Lang[] = native[countryId]
     ? [...SUPPORTED_LANGS, native[countryId] as Lang]
@@ -281,7 +289,8 @@ export function getCountryAlternates(countryId: string = "germany") {
 export function getStateAlternates(stateId: string) {
   const countryId = getCountryId(stateId);
   const native: Partial<Record<string, Lang>> = {
-    italy: "it", spain: "es", portugal: "pt", netherlands: "nl",
+    italy: "it", spain: "es", portugal: "pt", netherlands: "nl", "czech-republic": "cs",
+    slovakia: "sk", denmark: "da", sweden: "sv", finland: "fi", greece: "el", bulgaria: "bg",
   };
   const langs: Lang[] = native[countryId]
     ? [...SUPPORTED_LANGS, native[countryId] as Lang]

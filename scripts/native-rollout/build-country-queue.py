@@ -11,7 +11,7 @@ import re
 from pathlib import Path
 
 
-LANG_KEYS = {"de", "hu", "ro", "en", "fr", "tr", "hr", "it", "es", "pt", "pl", "nl"}
+LANG_KEYS = {"de", "hu", "ro", "en", "fr", "tr", "hr", "it", "es", "pt", "pl", "nl", "cs", "sk", "da", "sv", "fi", "el", "bg"}
 MAX_INPUT_CHARS = 18_000
 MAX_ITEMS = 85
 

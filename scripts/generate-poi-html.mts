@@ -350,6 +350,8 @@ const FAQ_HEAD: Record<string, string> = {
   de: "Häufige Fragen", hu: "Gyakori kérdések", ro: "Întrebări frecvente",
   en: "Frequently asked questions", fr: "Questions fréquentes", tr: "Sıkça sorulan sorular",
   hr: "Često postavljana pitanja", it: "Domande frequenti", es: "Preguntas frecuentes", nl: "Veelgestelde vragen",
+  cs: "Často kladené otázky", sk: "Často kladené otázky", da: "Ofte stillede spørgsmål", sv: "Vanliga frågor",
+  fi: "Usein kysytyt kysymykset", el: "Συχνές ερωτήσεις", bg: "Често задавани въпроси",
 };
 const FAQ_CHEV = `<svg class="plz-faq-chev" viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M6 9l6 6 6-6"/></svg>`;
 function pickFaqStr(o: Record<string, unknown> | undefined, lang: Lang): string {
@@ -367,6 +369,8 @@ function renderFAQ(poi: POI, lang: Lang): string {
     de: "Häufige Fragen", hu: "Gyakori kérdések", ro: "Întrebări frecvente",
     en: "Frequently asked questions", fr: "Questions fréquentes", tr: "Sıkça sorulan sorular",
     hr: "Često postavljana pitanja", it: "Domande frequenti", es: "Preguntas frecuentes", nl: "Veelgestelde vragen",
+    cs: "Často kladené otázky", sk: "Často kladené otázky", da: "Ofte stillede spørgsmål", sv: "Vanliga frågor",
+    fi: "Usein kysytyt kysymykset", el: "Συχνές ερωτήσεις", bg: "Често задавани въпроси",
   };
   const head = heading[lang] || heading.en!;
   const accordion = items.map((it, i) => {
@@ -560,7 +564,7 @@ try {
 } catch {}
 // Build a global id→POI lookup for cross-referencing (e.g. sight name internal links).
 const allById = new Map<string, POI>(pois.filter(p => p?.id).map(p => [p.id, p]));
-type Lang = "de" | "hu" | "ro" | "en" | "fr" | "tr" | "hr" | "it" | "es" | "pt" | "pl" | "nl";
+type Lang = "de" | "hu" | "ro" | "en" | "fr" | "tr" | "hr" | "it" | "es" | "pt" | "pl" | "nl" | "cs" | "sk" | "da" | "sv" | "fi" | "el" | "bg";
 
 // Native language → the country whose POIs may carry it. Single source of truth
 // for the sidecar merges below; keep in sync with extraLangsFor() in lib/seo/slugs
@@ -575,6 +579,13 @@ const NATIVE_LANGS = [
   ["hr", "croatia"],
   ["pl", "poland"],
   ["nl", "netherlands"],
+  ["cs", "czech-republic"],
+  ["sk", "slovakia"],
+  ["da", "denmark"],
+  ["sv", "sweden"],
+  ["fi", "finland"],
+  ["el", "greece"],
+  ["bg", "bulgaria"],
 ] as const satisfies ReadonlyArray<readonly [Lang, string]>;
 
 // hr = native Croatian: merge the poi-hr-native.json sidecar INTO each POI's
@@ -1015,6 +1026,13 @@ const AUTO_FAQ: Record<string, {
   it: { whereQ: (n) => `${n}: dove si trova?`, whereA: (n, l) => `${n} si trova in ${l}.`, whatQ: (n) => `${n}: cosa vedere?`, whatA: (l) => `Tra le attrazioni principali ci sono ${l}.`, whenQ: (n) => `${n}: qual è il periodo migliore?`, whenA: (b) => `Il periodo più piacevole per una visita è ${b}.`, whyQ: (n) => `${n}: perché vale la pena visitarlo?` },
   es: { whereQ: (n) => `${n}: ¿dónde está?`, whereA: (n, l) => `${n} se encuentra en ${l}.`, whatQ: (n) => `${n}: ¿qué se puede ver?`, whatA: (l) => `Entre los lugares destacados se encuentran ${l}.`, whenQ: (n) => `${n}: ¿cuál es la mejor época para visitarlo?`, whenA: (b) => `La época más agradable para visitarlo es ${b}.`, whyQ: (n) => `${n}: ¿por qué merece una visita?` },
   nl: { whereQ: (n) => `${n}: waar ligt het?`, whereA: (n, l) => `${n} ligt in ${l}.`, whatQ: (n) => `${n}: wat is er te zien?`, whatA: (l) => `De belangrijkste bezienswaardigheden zijn ${l}.`, whenQ: (n) => `${n}: wanneer is de beste reistijd?`, whenA: (b) => `De aangenaamste periode voor een bezoek is ${b}.`, whyQ: (n) => `${n}: waarom is het een bezoek waard?` },
+  cs: { whereQ: (n) => `${n}: kde se nachází?`, whereA: (n, l) => `${n} se nachází v oblasti ${l}.`, whatQ: (n) => `${n}: co zde můžete vidět?`, whatA: (l) => `Mezi hlavní zajímavosti patří ${l}.`, whenQ: (n) => `${n}: kdy je nejlepší doba k návštěvě?`, whenA: (b) => `Nejpříjemnější období je ${b}.`, whyQ: (n) => `${n}: proč stojí za návštěvu?` },
+  sk: { whereQ: (n) => `${n}: kde sa nachádza?`, whereA: (n, l) => `${n} sa nachádza v oblasti ${l}.`, whatQ: (n) => `${n}: čo tu môžete vidieť?`, whatA: (l) => `Medzi hlavné atrakcie patria ${l}.`, whenQ: (n) => `${n}: kedy je najlepší čas na návštevu?`, whenA: (b) => `Najpríjemnejšie obdobie je ${b}.`, whyQ: (n) => `${n}: prečo sa oplatí navštíviť?` },
+  da: { whereQ: (n) => `${n}: hvor ligger det?`, whereA: (n, l) => `${n} ligger i ${l}.`, whatQ: (n) => `${n}: hvad kan man se?`, whatA: (l) => `Blandt seværdighederne er ${l}.`, whenQ: (n) => `${n}: hvornår er det bedst at besøge stedet?`, whenA: (b) => `Det mest behagelige tidspunkt er ${b}.`, whyQ: (n) => `${n}: hvorfor er det et besøg værd?` },
+  sv: { whereQ: (n) => `${n}: var ligger det?`, whereA: (n, l) => `${n} ligger i ${l}.`, whatQ: (n) => `${n}: vad kan man se?`, whatA: (l) => `Bland sevärdheterna finns ${l}.`, whenQ: (n) => `${n}: när är bästa tiden att besöka platsen?`, whenA: (b) => `Den behagligaste perioden är ${b}.`, whyQ: (n) => `${n}: varför är det värt ett besök?` },
+  fi: { whereQ: (n) => `${n}: missä se sijaitsee?`, whereA: (n, l) => `${n} sijaitsee alueella ${l}.`, whatQ: (n) => `${n}: mitä siellä voi nähdä?`, whatA: (l) => `Nähtävyyksiin kuuluvat ${l}.`, whenQ: (n) => `${n}: milloin on paras aika vierailla?`, whenA: (b) => `Miellyttävin ajanjakso on ${b}.`, whyQ: (n) => `${n}: miksi siellä kannattaa vierailla?` },
+  el: { whereQ: (n) => `${n}: πού βρίσκεται;`, whereA: (n, l) => `Το ${n} βρίσκεται στην περιοχή ${l}.`, whatQ: (n) => `${n}: τι μπορείτε να δείτε;`, whatA: (l) => `Στα αξιοθέατα περιλαμβάνονται ${l}.`, whenQ: (n) => `${n}: πότε είναι η καλύτερη εποχή για επίσκεψη;`, whenA: (b) => `Η πιο ευχάριστη περίοδος είναι ${b}.`, whyQ: (n) => `${n}: γιατί αξίζει να το επισκεφθείτε;` },
+  bg: { whereQ: (n) => `${n}: къде се намира?`, whereA: (n, l) => `${n} се намира в района на ${l}.`, whatQ: (n) => `${n}: какво може да се види?`, whatA: (l) => `Сред забележителностите са ${l}.`, whenQ: (n) => `${n}: кога е най-доброто време за посещение?`, whenA: (b) => `Най-приятният период е ${b}.`, whyQ: (n) => `${n}: защо си заслужава посещението?` },
 };
 
 function buildAutoFaq(
