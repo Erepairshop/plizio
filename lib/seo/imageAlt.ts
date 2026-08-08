@@ -1,12 +1,12 @@
 import type { POI } from "@/lib/visualLab/data/poi";
 
-type Lang = "de" | "hu" | "ro" | "en";
+type Lang = "de" | "hu" | "ro" | "en" | "nl";
 
 function localizedValue(value: Partial<Record<Lang, string>> | undefined, lang: Lang) {
   return value?.[lang] || value?.de || "";
 }
 
-const TYPE_LABEL: Record<string, Record<Lang, string>> = {
+const TYPE_LABEL: Record<string, Partial<Record<Lang, string>>> = {
   "state-capital": { de: "Hauptstadt", hu: "főváros", ro: "capitală", en: "capital city" },
   city:            { de: "Stadt",      hu: "város",    ro: "oraș",      en: "city" },
   mountain:        { de: "Berg",       hu: "hegy",     ro: "munte",     en: "mountain" },

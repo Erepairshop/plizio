@@ -158,7 +158,7 @@ async function main() {
   // parent chain. If the sitemap claims a page the generator does not write,
   // that is a 404 — so any language added here needs the matching entry in
   // NATIVE_LANGS in scripts/generate-poi-html.mts.
-  const NATIVE_LANGS = ["it", "pt", "fr", "tr", "hr", "pl"] as const;
+  const NATIVE_LANGS = ["it", "pt", "fr", "tr", "hr", "pl", "nl"] as const;
   const NATIVE_SIDECARS = new Map<string, Map<string, Record<string, unknown>>>();
   for (const lang of NATIVE_LANGS) {
     const entries = new Map<string, Record<string, unknown>>();
@@ -193,10 +193,12 @@ async function main() {
     const nativeItName = typeof sidecarFor("it", p.id)?.name === "string" ? (sidecarFor("it", p.id)!.name as string) : undefined;
     const nativePtName = typeof sidecarFor("pt", p.id)?.name === "string" ? (sidecarFor("pt", p.id)!.name as string) : undefined;
     const nativePlName = typeof sidecarFor("pl", p.id)?.name === "string" ? (sidecarFor("pl", p.id)!.name as string) : undefined;
+    const nativeNlName = typeof sidecarFor("nl", p.id)?.name === "string" ? (sidecarFor("nl", p.id)!.name as string) : undefined;
     const nativeNames = {
       ...(nativeItName ? { it: nativeItName } : {}),
       ...(nativePtName ? { pt: nativePtName } : {}),
       ...(nativePlName ? { pl: nativePlName } : {}),
+      ...(nativeNlName ? { nl: nativeNlName } : {}),
     };
     return {
       id: p.id,
@@ -209,6 +211,7 @@ async function main() {
       hrLong: HR_NATIVE_IDS.has(p.id) || Boolean(sidecarFor("hr", p.id)),
       itLong: Boolean(sidecarFor("it", p.id)),
       ptLong: Boolean(sidecarFor("pt", p.id)),
+      nlLong: Boolean(sidecarFor("nl", p.id)),
       coa: p.coa,
       name: Object.keys(nativeNames).length ? { ...(p.name || {}), ...nativeNames } : p.name,
       hasIndexable: hasIndexable(p),

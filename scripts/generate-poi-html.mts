@@ -548,7 +548,7 @@ try {
 } catch {}
 // Build a global id→POI lookup for cross-referencing (e.g. sight name internal links).
 const allById = new Map<string, POI>(pois.filter(p => p?.id).map(p => [p.id, p]));
-type Lang = "de" | "hu" | "ro" | "en" | "fr" | "tr" | "hr" | "it" | "es" | "pt" | "pl";
+type Lang = "de" | "hu" | "ro" | "en" | "fr" | "tr" | "hr" | "it" | "es" | "pt" | "pl" | "nl";
 
 // Native language → the country whose POIs may carry it. Single source of truth
 // for the sidecar merges below; keep in sync with extraLangsFor() in lib/seo/slugs
@@ -562,6 +562,7 @@ const NATIVE_LANGS = [
   ["tr", "germany"],
   ["hr", "croatia"],
   ["pl", "poland"],
+  ["nl", "netherlands"],
 ] as const satisfies ReadonlyArray<readonly [Lang, string]>;
 
 // hr = native Croatian: merge the poi-hr-native.json sidecar INTO each POI's
@@ -3174,7 +3175,7 @@ function renderHtml(poi: POI, lang: Lang): string | null {
   // On extra-lang pages (fr/tr/hr) those landing URLs 404 → link them to `en`
   // (which exists) instead. The POI page itself stays in `lang`. (2026-06-12:
   // ~40k broken internal links came from extra-lang breadcrumb/home/footer.)
-  const hasNativeLanding = (lang === "it" && countryId === "italy") || (lang === "es" && countryId === "spain") || (lang === "pt" && countryId === "portugal");
+  const hasNativeLanding = (lang === "it" && countryId === "italy") || (lang === "es" && countryId === "spain") || (lang === "pt" && countryId === "portugal") || (lang === "nl" && countryId === "netherlands");
   const navLang: Lang = SUPPORTED_LANGS.includes(lang) || hasNativeLanding ? lang : ("en" as Lang);
   // Beach-hub CTA (reciprocal internal link) for countries that have a beach hub.
   // Beach hubs are built for the 4 core langs only (it/es/pt landing pages keep

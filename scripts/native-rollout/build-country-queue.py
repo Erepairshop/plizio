@@ -11,7 +11,7 @@ import re
 from pathlib import Path
 
 
-LANG_KEYS = {"de", "hu", "ro", "en", "fr", "tr", "hr", "it", "es", "pt", "pl"}
+LANG_KEYS = {"de", "hu", "ro", "en", "fr", "tr", "hr", "it", "es", "pt", "pl", "nl"}
 MAX_INPUT_CHARS = 18_000
 MAX_ITEMS = 85
 
@@ -59,7 +59,7 @@ def rendered_ids(data: Path, ids: set[str], language: str, pois_file: str) -> se
         native = load_json(data / "poi-hr-native.json", {})
         sidecars = {p.stem for p in (data / "i18n" / "hr").glob("*.json")} if (data / "i18n" / "hr").is_dir() else set()
         return {poi_id for poi_id in ids if poi_id in native or poi_id in sidecars}
-    # it/es/pt are gated on the country alone.
+    # it/es/pt/nl are gated on the country alone.
     return ids
 
 

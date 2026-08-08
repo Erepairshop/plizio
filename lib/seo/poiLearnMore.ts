@@ -1,15 +1,15 @@
 import type { POI } from "@/lib/visualLab/data/poi";
 
-type Lang = "de" | "hu" | "ro" | "en";
+type Lang = "de" | "hu" | "ro" | "en" | "nl";
 
 interface LearnMoreSuggestion {
   subject: string;       // astrogeographie / astrogeschichte / astrobiologie / astrosachkunde
   grade: number;         // 1..8
-  topic: Record<Lang, string>;   // Localized topic label (e.g. "Berge und Flüsse")
+  topic: Partial<Record<Lang, string>>;   // Localized topic label
   href: string;          // route path
 }
 
-const TOPIC: Record<string, Record<Lang, string>> = {
+const TOPIC: Record<string, Partial<Record<Lang, string>>> = {
   mountains_rivers: { de: "Berge und Flüsse", hu: "Hegyek és folyók", ro: "Munți și râuri", en: "Mountains and rivers" },
   landscapes:       { de: "Landschaften",      hu: "Tájak",            ro: "Peisaje",        en: "Landscapes" },
   cities_capitals:  { de: "Städte und Hauptstädte", hu: "Városok és fővárosok", ro: "Orașe și capitale", en: "Cities and capitals" },
@@ -100,8 +100,8 @@ export interface LearnMoreCtaCopy {
 
 /** Localized CTA copy for the "Learn more about this" card. */
 export function learnMoreCtaCopy(s: LearnMoreSuggestion, lang: Lang): LearnMoreCtaCopy {
-  const topic = s.topic[lang];
-  const subjectName: Record<string, Record<Lang, string>> = {
+  const topic = s.topic[lang] || s.topic.en || "";
+  const subjectName: Record<string, Partial<Record<Lang, string>>> = {
     astrogeographie: { de: "Astro-Geographie", hu: "Astro-Földrajz", ro: "Astro-Geografie", en: "Astro-Geography" },
     astrogeschichte: { de: "Astro-Geschichte", hu: "Astro-Történelem", ro: "Astro-Istorie", en: "Astro-History" },
     astrobiologie:   { de: "Astro-Biologie",   hu: "Astro-Biológia",   ro: "Astro-Biologie", en: "Astro-Biology" },

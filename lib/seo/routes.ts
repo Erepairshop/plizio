@@ -35,6 +35,7 @@ export const SEO_LOCALES: Record<Lang, string> = {
   it: "it_IT",
   es: "es_ES",
   pt: "pt_PT",
+  nl: "nl_NL",
 };
 
 // Sablon-alapú ország-szintű meta (title, description) generálás —
@@ -77,6 +78,13 @@ function templateCopy(countryId: string, lang: Lang): { title: string; descripti
     return {
       title: `Mapa interactivo de ${name}`,
       description: `Páginas sobre regiones, ciudades, naturaleza, historia y lugares de interés de ${name}.`,
+      name,
+    };
+  }
+  if (lang === "nl") {
+    return {
+      title: `Interactieve kaart van ${name}`,
+      description: `Statische leerpagina's over regio's, steden, natuur, geschiedenis en bezienswaardigheden in ${name}.`,
       name,
     };
   }
@@ -392,7 +400,7 @@ export function getStateByRouteParams(lang: Lang, country: string, state: string
 // Keywords are type-specific and ordered by search volume (descending).
 // Drops trailing keywords or state until fit.
 
-const TYPE_KEYWORDS: Record<string, Record<Lang, string[]>> = {
+const TYPE_KEYWORDS: Record<string, Partial<Record<Lang, string[]>>> = {
   city: {
     de: ["Sehenswürdigkeiten", "Karte", "Wetter", "Nachrichten", "Geschichte"],
     hu: ["Látnivalók", "Térkép", "Időjárás", "Hírek", "Történelem"],
@@ -501,7 +509,7 @@ export function poiDescription(poi: POI, lang: Lang) {
   const sightsArr = (poi as unknown as { sights?: Record<string, unknown[]> }).sights?.[lang];
   const sightsCount = Array.isArray(sightsArr) ? sightsArr.length : 0;
   if (sightsCount > 0) {
-    const suffix: Record<Lang, string> = {
+    const suffix: Partial<Record<Lang, string>> = {
       de: ` ${sightsCount} Sehenswürdigkeiten in der Übersicht.`,
       hu: ` ${sightsCount} látnivaló egy helyen.`,
       ro: ` ${sightsCount} obiective turistice listate.`,
@@ -512,6 +520,7 @@ export function poiDescription(poi: POI, lang: Lang) {
       it: ` ${sightsCount} luoghi da scoprire.`,
       es: ` ${sightsCount} lugares que descubrir.`,
       pt: ` ${sightsCount} locais a descobrir.`,
+      nl: ` ${sightsCount} bezienswaardigheden om te ontdekken.`,
     };
     const withSights = base + suffix[lang];
     if (withSights.length <= 160) return withSights;
