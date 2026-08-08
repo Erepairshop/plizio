@@ -26,11 +26,14 @@ def main() -> int:
             translations.update(row.get("translations") or {})
 
     expected = set(manifest["targets"])
-    if set(translations) != expected:
+    missing = expected - set(translations)
+    if missing:
         raise SystemExit(
-            f"Incomplete Azure result: missing={len(expected - set(translations))} "
-            f"extra={len(set(translations) - expected)}"
+            f"Incomplete Azure result: missing={len(missing)}"
         )
+    # The VPS result file is intentionally resumable across queue revisions.
+    # Ignore completed keys from an older, larger audit queue.
+    translations = {key: translations[key] for key in expected}
 
     output = {}
     skipped = 0
