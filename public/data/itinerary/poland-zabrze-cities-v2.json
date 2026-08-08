@@ -21,7 +21,8 @@
             "de": "St.-Andreas-Kirche",
             "hu": "Szent András-templom",
             "ro": "Biserica Sf. Andrei",
-            "en": "St. Andrew's Church"
+            "en": "St. Andrew's Church",
+            "pl": "Kościół św. Andrzeja"
           },
           "coords": [
             18.788,
@@ -36,7 +37,8 @@
             "de": "Bewundern Sie die neugotischen Details und die beeindruckenden Glasfenster.",
             "hu": "Csodálja meg a neogótikus részleteket és a lenyűgöző üvegablakokat.",
             "ro": "Admirați detaliile neogotice și vitraliile impresionante.",
-            "en": "Admire the neo-Gothic details and the impressive stained glass windows."
+            "en": "Admire the neo-Gothic details and the impressive stained glass windows.",
+            "pl": "Podziwiaj neogotyckie detale i imponujące witraże."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Zabrze-Museum",
             "hu": "Zabrze Múzeum",
             "ro": "Muzeul Zabrze",
-            "en": "Zabrze Museum"
+            "en": "Zabrze Museum",
+            "pl": "Muzeum Zabrze"
           },
           "coords": [
             18.785,
@@ -59,7 +62,8 @@
             "de": "Konzentrieren Sie sich auf die Ausstellungen, die das städtische Leben im 19. und 20. Jahrhundert dokumentieren.",
             "hu": "Fókuszáljon a 19. és 20. századi városi életet bemutató kiállításokra.",
             "ro": "Concentrați-vă pe expozițiile care documentează viața urbană din secolele XIX și XX.",
-            "en": "Focus on the exhibitions documenting urban life in the 19th and 20th centuries."
+            "en": "Focus on the exhibitions documenting urban life in the 19th and 20th centuries.",
+            "pl": "Skup się na wystawach dokumentujących życie miejskie w XIX i XX wieku."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Museum für Kohlebergbau",
             "hu": "Szénbányászati Múzeum",
             "ro": "Muzeul Mineritului de Cărbune",
-            "en": "Museum of Coal Mining"
+            "en": "Museum of Coal Mining",
+            "pl": "Muzeum Górnictwa Węglowego"
           },
           "coords": [
             18.8,
@@ -82,7 +87,8 @@
             "de": "Ein Muss, um den Kontext der anderen Industriestandorte zu verstehen. Planen Sie ausreichend Zeit ein.",
             "hu": "Kötelező darab, hogy megértse a többi ipari helyszín kontextusát. Tervezzen elég időt.",
             "ro": "O vizită obligatorie pentru a înțelege contextul celorlalte situri industriale. Planificați suficient timp.",
-            "en": "A must-see to understand the context of the other industrial sites. Allow plenty of time."
+            "en": "A must-see to understand the context of the other industrial sites. Allow plenty of time.",
+            "pl": "To punkt obowiązkowy, by zrozumieć kontekst innych obiektów przemysłowych. Zarezerwuj wystarczająco dużo czasu."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Stollen Königin Luise",
             "hu": "Lujza királynő-táró",
             "ro": "Galeria subterană Regina Luiza",
-            "en": "Queen Louise Adit"
+            "en": "Queen Louise Adit",
+            "pl": "Szyb Królowej Luizy"
           },
           "coords": [
             18.801,
@@ -105,7 +112,8 @@
             "de": "Die unterirdische Bootstour ist das Highlight. Buchen Sie Tickets im Voraus.",
             "hu": "A földalatti csónaktúra a fénypont. Foglaljon jegyet előre.",
             "ro": "Turul cu barca subterană este punctul culminant. Rezervați biletele în avans.",
-            "en": "The underground boat tour is the highlight. Book tickets in advance."
+            "en": "The underground boat tour is the highlight. Book tickets in advance.",
+            "pl": "Podziemna wycieczka łodzią to atrakcja numer jeden. Rezerwuj bilety z wyprzedzeniem."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Bergwerk Guido",
             "hu": "Guido bánya",
             "ro": "Mina Guido",
-            "en": "Guido Mine"
+            "en": "Guido Mine",
+            "pl": "Kopalnia Guido"
           },
           "coords": [
             18.765,
@@ -128,7 +137,8 @@
             "de": "Wählen Sie die 'Deep Level' Tour, um 320 Meter unter die Erde zu fahren. Nicht für Klaustrophobiker.",
             "hu": "Válassza a 'Mélyszint' túrát, hogy 320 méter mélyre menjen. Nem klausztrofóbiásoknak.",
             "ro": "Alegeți turul 'Deep Level' pentru a coborî la 320 de metri sub pământ. Nu este pentru claustrofobi.",
-            "en": "Choose the 'Deep Level' tour to go 320 meters underground. Not for the claustrophobic."
+            "en": "Choose the 'Deep Level' tour to go 320 meters underground. Not for the claustrophobic.",
+            "pl": "Wybierz wycieczkę „Głębokie Poziomy”, by zejść 320 metrów pod ziemię. Nie dla klaustrofobików."
           }
         }
       ],
@@ -136,7 +146,8 @@
         "de": "Ihr Tag in Zabrze beginnt im Herzen der Stadt mit einem Besuch der neugotischen St.-Andreas-Kirche. Von dort aus tauchen Sie im Stadtmuseum in die lokale Geschichte ein, bevor Sie sich dem industriellen Erbe widmen. Der Vormittag gipfelt im Museum für Kohlebergbau, das die Bühne für die kommenden unterirdischen Abenteuer bereitet. Nach dem Mittagessen erkunden Sie den weitläufigen Komplex des Königin-Luise-Stollens, ein Labyrinth aus Gängen und Wasserwegen. Der Nachmittag führt Sie dann noch tiefer in die Erde, in das historische Bergwerk Guido, wo Sie die harte Arbeit der Bergleute hautnah erleben. Dieser intensive Tag endet mit unvergesslichen Eindrücken aus der Welt des 'schwarzen Goldes'.",
         "hu": "Zabrzei napja a város szívében kezdődik a neogótikus Szent András-templom meglátogatásával. Innen a Városi Múzeumban merül el a helyi történelemben, mielőtt az ipari örökség felé fordulna. A délelőtt a Szénbányászati Múzeumban csúcsosodik ki, amely előkészíti a terepet a következő földalatti kalandokhoz. Ebéd után felfedezi a Lujza királynő-táró hatalmas komplexumát, egy folyosókból és vízi utakból álló labirintust. A délután még mélyebbre viszi a föld alá, a történelmi Guido bányába, ahol testközelből tapasztalhatja meg a bányászok kemény munkáját. Ez az intenzív nap a 'fekete arany' világából származó felejthetetlen benyomásokkal zárul.",
         "ro": "Ziua dumneavoastră în Zabrze începe în inima orașului cu o vizită la biserica neogotică Sf. Andrei. De acolo, vă scufundați în istoria locală la Muzeul Orașului înainte de a vă îndrepta spre patrimoniul industrial. Dimineața culminează la Muzeul Mineritului de Cărbune, pregătind scena pentru aventurile subterane ce vor urma. După prânz, explorați vastul complex al Galeriei subterane Regina Luiza, un labirint de coridoare și căi navigabile. După-amiaza vă duce și mai adânc în subteran, la mina istorică Guido, unde veți experimenta direct munca grea a minerilor. Această zi intensă se încheie cu impresii de neuitat din lumea 'aurului negru'.",
-        "en": "Your day in Zabrze starts in the heart of the city with a visit to the neo-Gothic St. Andrew's Church. From there, delve into local history at the City Museum before turning to the industrial heritage. The morning culminates at the Museum of Coal Mining, setting the stage for the underground adventures to come. After lunch, you'll explore the vast Queen Louise Adit complex, a labyrinth of corridors and waterways. The afternoon takes you even deeper underground to the historic Guido Mine, where you'll experience the hard work of miners firsthand. This intense day concludes with unforgettable impressions from the world of 'black gold'."
+        "en": "Your day in Zabrze starts in the heart of the city with a visit to the neo-Gothic St. Andrew's Church. From there, delve into local history at the City Museum before turning to the industrial heritage. The morning culminates at the Museum of Coal Mining, setting the stage for the underground adventures to come. After lunch, you'll explore the vast Queen Louise Adit complex, a labyrinth of corridors and waterways. The afternoon takes you even deeper underground to the historic Guido Mine, where you'll experience the hard work of miners firsthand. This intense day concludes with unforgettable impressions from the world of 'black gold'.",
+        "pl": "Twój dzień w Zabrzu zaczyna się w sercu miasta od wizyty w neogotyckim kościele św. Andrzeja. Stamtąd zanurzysz się w lokalnej historii w Muzeum Miejskim, zanim przejdziesz do dziedzictwa przemysłowego. Poranek kulminuje w Muzeum Górnictwa Węglowego, przygotowując grunt pod podziemne przygody. Po lunchu zwiedzisz rozległy kompleks Szybu Królowej Luizy, labirynt korytarzy i zbiorników wodnych. Popołudnie zabierze cię jeszcze głębiej pod ziemię do historycznej Kopalni Guido, gdzie doświadczysz ciężkiej pracy górników na własnej skórze. Intensywny dzień zamkną niezapomniane wrażenia ze świata „czarnego złota”."
       },
       "gastro_picks": {
         "de": [
@@ -332,6 +343,12 @@
           "Temperatures in the mines are consistently cool (around 14-16°C), so bring a light jacket.",
           "Book all mine tours in advance online, especially during peak season, to avoid disappointment.",
           "Some tours are physically demanding. Check the requirements before you book."
+        ],
+        "pl": [
+          "Załóż bardzo wygodne buty; ten dzień wiąże się z dużą ilością chodzenia, zarówno nad, jak i pod ziemią.",
+          "Temperatura w kopalniach jest stała i chłodna (około 14–16°C), więc zabierz lekką kurtkę.",
+          "Rezerwuj wszystkie wycieczki po kopalniach wcześniej online, zwłaszcza w sezonie, aby uniknąć rozczarowania.",
+          "Niektóre wycieczki są wymagające fizycznie. Sprawdź wymagania przed rezerwacją."
         ]
       },
       "variants": {
@@ -340,7 +357,8 @@
             "de": "Beginnen Sie Ihren regnerischen Tag an der St.-Andreas-Kirche, wo das Backstein-Interieur Zuflucht bietet. Mittags führen die Straßen zum Stadtmuseum und zum Kohlebergbaumuseum, die beide ideal für Indoor-Erkundungen sind. Der Nachmittag gehört der Queen-Louise-Stollen; die unterirdischen Gänge halten Sie trocken. Abends erleben Sie die Kopalnia Guido tief unter der Erde, wo das Wetter keine Rolle spielt.",
             "hu": "Kezdje az esős napot a Szent András-templomban, ahol a téglafalak között szárazon maradhat. Délben a Városi Múzeum és a Szénbányászati Múzeum nyújt fedezéket a záporok elől. Délután a Louise királynő tárna várja; a föld alatti folyosókon nem számít az eső. Az estét a Guido bányában töltse mélyen a felszín alatt, ahol a bányászati történelem teljesen időjárásfüggetlen élményt kínál.",
             "ro": "Începeți ziua ploioasă la Biserica Sf. Andrei, unde interiorul de cărămidă oferă adăpost. La prânz, vizitați Muzeul din Zabrze și Muzeul Mineritului, ambele ideale pentru explorări la interior. După-amiaza aparține Galeriei Regina Luiza; tunelurile subterane vă țin departe de umezeală. Seara, experimentați Mina Guido la mare adâncime, unde vremea de afară nu contează deloc.",
-            "en": "Start your rainy day at St. Andrew's Church, where the brick interior provides immediate shelter. At noon, head to the Zabrze Museum and the Coal Mining Museum, both perfect for indoor exploration. The afternoon is spent in the Queen Louise Adit; the underground passages keep you dry. End the evening at the Guido Mine deep underground, where the mining history is a completely weather-proof experience."
+            "en": "Start your rainy day at St. Andrew's Church, where the brick interior provides immediate shelter. At noon, head to the Zabrze Museum and the Coal Mining Museum, both perfect for indoor exploration. The afternoon is spent in the Queen Louise Adit; the underground passages keep you dry. End the evening at the Guido Mine deep underground, where the mining history is a completely weather-proof experience.",
+            "pl": "Zacznij deszczowy dzień w kościele św. Andrzeja, gdzie ceglany wnętrze zapewnia natychmiastową osłonę. W południe udaj się do Muzeum Zabrze i Muzeum Górnictwa Węglowego — idealnych do zwiedzania wewnątrz. Popołudnie spędź w Szybie Królowej Luizy; podziemne korytarze chronią przed deszczem. Zakończ wieczór w Kopalni Guido głęboko pod ziemią — tam historia górnictwa jest całkowicie odporna na pogodę."
           },
           "stops": [
             {
@@ -349,7 +367,8 @@
                 "de": "Nutzen Sie den Haupteingang, um dem Regen zu entkommen; das Innere ist angenehm ruhig.",
                 "hu": "Használja a főbejáratot a gyors meneküléshez az eső elől; a belső tér csendes menedék.",
                 "ro": "Folosiți intrarea principală pentru a scăpa de ploaie; interiorul este un refugiu liniștit.",
-                "en": "Use the main entrance for a quick escape from the rain; the interior is a peaceful sanctuary."
+                "en": "Use the main entrance for a quick escape from the rain; the interior is a peaceful sanctuary.",
+                "pl": "Skorzystaj z głównego wejścia, by szybko uciec przed deszczem; wnętrze to spokojne sanktuarium."
               }
             },
             {
@@ -358,7 +377,8 @@
                 "de": "Garderoben im Eingangsbereich sind ideal, um nasse Mäntel und Schirme abzugeben.",
                 "hu": "A bejáratnál lévő ruhatár tökéletes a vizes kabátok és esernyők leadására.",
                 "ro": "Garderoba de la intrare este ideală pentru a lăsa haina umedă și umbrela.",
-                "en": "The cloakroom near the entrance is perfect for leaving wet coats and umbrellas."
+                "en": "The cloakroom near the entrance is perfect for leaving wet coats and umbrellas.",
+                "pl": "Szatnia przy wejściu to świetne miejsce, by zostawić mokre płaszcze i parasole."
               }
             },
             {
@@ -367,7 +387,8 @@
                 "de": "Ein kurzer Sprint vom Museumseingang zum nächsten Gebäude ist nötig; Schirm bereithalten.",
                 "hu": "Egy rövid futás szükséges az épületek között; tartsa készenlétben az esernyőjét.",
                 "ro": "Este necesar un scurt sprint între clădiri; țineți umbrela la îndemână.",
-                "en": "A short sprint is needed between buildings; keep your umbrella ready."
+                "en": "A short sprint is needed between buildings; keep your umbrella ready.",
+                "pl": "Między budynkami trzeba przebiec krótki odcinek; miej parasol pod ręką."
               }
             },
             {
@@ -376,7 +397,8 @@
                 "de": "Wasserdichte Schuhe sind für die unterirdische Bootstour sehr zu empfehlen.",
                 "hu": "A föld alatti csónaktúrához vízálló cipő viselése erősen ajánlott.",
                 "ro": "Se recomandă încălțăminte impermeabilă pentru turul subteran cu barca.",
-                "en": "Waterproof shoes are highly recommended for the underground boat tour."
+                "en": "Waterproof shoes are highly recommended for the underground boat tour.",
+                "pl": "Wodoodporne buty są zdecydowanie zalecane do podziemnej wycieczki łodzią."
               }
             },
             {
@@ -385,7 +407,8 @@
                 "de": "Tief unter der Erde ist es trocken, aber die Luftfeuchtigkeit ist hoch.",
                 "hu": "A mélyben száraz az idő, de a páratartalom magas a bányajáratokban.",
                 "ro": "Adânc sub pământ este uscat, dar umiditatea în galerii este ridicată.",
-                "en": "Deep underground it's dry, but the humidity in the shafts is quite high."
+                "en": "Deep underground it's dry, but the humidity in the shafts is quite high.",
+                "pl": "Głęboko pod ziemią jest sucho, ale wilgotność w szybach jest dość wysoka."
               }
             }
           ],
@@ -417,6 +440,13 @@
               "Most museums have cafes where you can wait out heavy showers.",
               "Zabrze has several covered passages in the city center area.",
               "Keep a sturdy umbrella ready for the windier street corners."
+            ],
+            "pl": [
+              "Noś wodoodporne buty trekkingowe na spacery między obiektami przemysłowymi.",
+              "Wykorzystaj podziemne atrakcje jako naturalną ochronę przed deszczem.",
+              "Większość muzeów ma kawiarnie, gdzie możesz przeczekać mocne ulewy.",
+              "Zabrze ma kilka zadaszonych pasaży w rejonie centrum miasta.",
+              "Miej porządny parasol pod ręką na bardziej wietrzne rogi ulic."
             ]
           }
         },
@@ -425,7 +455,8 @@
             "de": "Der Wintermorgen beginnt frisch an der St.-Andreas-Kirche, wo die Heizung oft willkommen ist. Mittags wärmen Sie sich in den Ausstellungen des Stadtmuseums und des Bergbaumuseums auf. Am Nachmittag bietet die Queen-Louise-Stollen konstante Temperaturen unter der Erde, weit weg vom Frost. Der Tag endet in der Kopalnia Guido, wo die winterliche Kälte an der Erdoberfläche schnell vergessen ist.",
             "hu": "A téli reggel frissen indul a Szent András-templomnál, ahol a belső fűtés jóleső melegséget ad. Délben melegedjen fel a Városi Múzeum és a Bányászati Múzeum kiállításain. Délután a Louise királynő tárna állandó hőmérséklete nyújt menedéket a fagy elől. A nap a Guido bányában zárul, ahol a felszíni jeges szél már csak távoli emlék lesz a mélyben.",
             "ro": "Dimineața de iarnă începe răcoros la Biserica Sf. Andrei, unde încălzirea este binevenită. La prânz, încălziți-vă în expozițiile Muzeului din Zabrze și ale Muzeului Mineritului. După-amiaza, Galeria Regina Luiza oferă temperaturi constante sub pământ, departe de ger. Ziua se încheie la Mina Guido, unde frigul de la suprafață este rapid uitat în galeriile adânci.",
-            "en": "The winter morning starts crisp at St. Andrew's Church, where the indoor heating is often a welcome relief. At noon, warm up in the exhibitions of the Zabrze Museum and the Mining Museum. In the afternoon, the Queen Louise Adit offers constant underground temperatures away from the frost. The day ends at the Guido Mine, where the surface winter chill is quickly forgotten deep below."
+            "en": "The winter morning starts crisp at St. Andrew's Church, where the indoor heating is often a welcome relief. At noon, warm up in the exhibitions of the Zabrze Museum and the Mining Museum. In the afternoon, the Queen Louise Adit offers constant underground temperatures away from the frost. The day ends at the Guido Mine, where the surface winter chill is quickly forgotten deep below.",
+            "pl": "Zimowy poranek zaczyna się rześko przy kościele św. Andrzeja, gdzie ogrzewanie wewnątrz często daje upragnioną ulgę. W południe rozgrzej się na wystawach Muzeum Zabrze i Muzeum Górnictwa. Po południu Szyb Królowej Luizy zapewnia stałe podziemne temperatury z dala od mrozu. Dzień kończy się w Kopalni Guido, gdzie powierzchniowy zimowy chłód szybko się zapomina głęboko pod ziemią."
           },
           "stops": [
             {
@@ -434,7 +465,8 @@
                 "de": "Die massiven Mauern halten die Wärme; ein guter Ort, um den Tag ruhig zu beginnen.",
                 "hu": "A vastag falak jól tartják a meleget; kiváló hely a nap nyugodt indításához.",
                 "ro": "Zidurile masive rețin bine căldura; un loc bun pentru a începe ziua liniștit.",
-                "en": "The thick walls retain heat well; it's a great spot to start your day calmly."
+                "en": "The thick walls retain heat well; it's a great spot to start your day calmly.",
+                "pl": "Grube mury dobrze trzymają ciepło; to świetne miejsce, by spokojnie zacząć dzień."
               }
             },
             {
@@ -443,7 +475,8 @@
                 "de": "Besuchen Sie die geheizten Galerien im Obergeschoss für längere Aufenthalte.",
                 "hu": "Az emeleti fűtött galériák ideálisak a hosszabb ideig tartó nézelődéshez.",
                 "ro": "Vizitați galeriile încălzite de la etaj pentru șederi mai lungi.",
-                "en": "Visit the heated galleries on the upper floor for longer stays."
+                "en": "Visit the heated galleries on the upper floor for longer stays.",
+                "pl": "Odwiedź ogrzewane galerie na górnym piętrze przy dłuższych pobytach."
               }
             },
             {
@@ -452,7 +485,8 @@
                 "de": "Die Wege zwischen den Pavillons können glatt sein; Vorsicht bei Schnee.",
                 "hu": "A pavilonok közötti utak csúszósak lehetnek; vigyázzon a hóban.",
                 "ro": "Potecile dintre pavilioane pot fi alunecoase; atenție la zăpadă.",
-                "en": "Paths between the pavilions can be slippery; take care in the snow."
+                "en": "Paths between the pavilions can be slippery; take care in the snow.",
+                "pl": "Ścieżki między pawilonami mogą być śliskie; uważaj na śniegu."
               }
             },
             {
@@ -461,7 +495,8 @@
                 "de": "Unter Tage herrschen ca. 14°C – oft wärmer als draußen im Winter.",
                 "hu": "A föld alatt kb. 14°C van, ami télen gyakran melegebb, mint a felszínen.",
                 "ro": "În subteran sunt aproximativ 14°C, adesea mai cald decât afară iarna.",
-                "en": "Underground it's about 14°C – often warmer than outside in winter."
+                "en": "Underground it's about 14°C – often warmer than outside in winter.",
+                "pl": "Pod ziemią jest około 14°C – często cieplej niż na zewnątrz zimą."
               }
             },
             {
@@ -470,7 +505,8 @@
                 "de": "Die tiefste Ebene ist angenehm temperiert; ideal für ein spätes Aufwärmen.",
                 "hu": "A legmélyebb szint kellemes hőmérsékletű; ideális egy késői átmelegedéshez.",
                 "ro": "Nivelul cel mai adânc are o temperatură plăcută; ideal pentru încălzire.",
-                "en": "The deepest level has a pleasant temperature; ideal for a late warming up."
+                "en": "The deepest level has a pleasant temperature; ideal for a late warming up.",
+                "pl": "Najgłębszy poziom ma przyjemną temperaturę; idealny na późniejsze rozgrzanie."
               }
             }
           ],
@@ -502,6 +538,13 @@
               "Use the constant 14°C in the mines as a shield against the winter cold.",
               "Wear shoes with good grip due to potentially slippery sidewalks.",
               "Warm up in between stops at the many local bakeries."
+            ],
+            "pl": [
+              "Ubieraj się na cebulkę, by poradzić sobie ze zmianą między mrozem a ogrzewanymi wnętrzami.",
+              "Słońce zachodzi już o 16:00 w grudniu.",
+              "Wykorzystaj stałe 14°C w kopalniach jako osłonę przed zimowym chłodem.",
+              "Noś buty z dobrą przyczepnością ze względu na potencjalnie śliskie chodniki.",
+              "Rozgrzej się między przystankami w licznych lokalnych piekarniach."
             ]
           }
         }
@@ -520,7 +563,8 @@
             "de": "Botanischer Garten",
             "hu": "Botanikus Kert",
             "ro": "Grădina Botanică",
-            "en": "Botanical Garden"
+            "en": "Botanical Garden",
+            "pl": "Ogród Botaniczny"
           },
           "coords": [
             18.81,
@@ -535,7 +579,8 @@
             "de": "Beginnen Sie den Tag mit frischer Luft. Schließen Sie Ihr Fahrrad sicher ab und genießen Sie die Ruhe.",
             "hu": "Kezdje a napot friss levegővel. Zárja le biztonságosan a kerékpárját, és élvezze a csendet.",
             "ro": "Începeți ziua cu aer proaspăt. Asigurați-vă bicicleta și bucurați-vă de liniște.",
-            "en": "Start the day with some fresh air. Lock your bike securely and enjoy the peace."
+            "en": "Start the day with some fresh air. Lock your bike securely and enjoy the peace.",
+            "pl": "Zacznij dzień świeżym powietrzem. Zabezpiecz rower i ciesz się ciszą."
           }
         },
         {
@@ -543,7 +588,8 @@
             "de": "Stollen Königin Luise",
             "hu": "Lujza királynő-táró",
             "ro": "Galeria subterană Regina Luiza",
-            "en": "Queen Louise Adit"
+            "en": "Queen Louise Adit",
+            "pl": "Sztolnia Królowej Luizy"
           },
           "coords": [
             18.801,
@@ -558,7 +604,8 @@
             "de": "Stellen Sie Ihr Fahrrad in der Nähe des Eingangs ab. Die unterirdische Bootstour ist eine willkommene Pause vom Radfahren.",
             "hu": "Parkolja le a kerékpárt a bejárat közelében. A földalatti csónaktúra kellemes pihenést nyújt a biciklizés után.",
             "ro": "Parcați bicicleta lângă intrare. Turul cu barca subterană este o pauză binevenită de la ciclism.",
-            "en": "Park your bike near the entrance. The underground boat tour is a welcome break from cycling."
+            "en": "Park your bike near the entrance. The underground boat tour is a welcome break from cycling.",
+            "pl": "Zaplanuj postój z rowerem przy wejściu. Podziemna wycieczka łodzią to miła przerwa od jazdy."
           }
         },
         {
@@ -566,7 +613,8 @@
             "de": "St.-Andreas-Kirche",
             "hu": "Szent András-templom",
             "ro": "Biserica Sf. Andrei",
-            "en": "St. Andrew's Church"
+            "en": "St. Andrew's Church",
+            "pl": "Kościół św. Andrzeja"
           },
           "coords": [
             18.788,
@@ -581,7 +629,8 @@
             "de": "Ein kurzer Halt, um die Architektur zu bewundern, bevor Sie im Stadtzentrum zu Mittag essen.",
             "hu": "Egy rövid megálló, hogy megcsodálja az építészetet, mielőtt megebédel a városközpontban.",
             "ro": "O oprire scurtă pentru a admira arhitectura înainte de a lua prânzul în centrul orașului.",
-            "en": "A quick stop to admire the architecture before grabbing lunch in the city center."
+            "en": "A quick stop to admire the architecture before grabbing lunch in the city center.",
+            "pl": "Krótki postój, by podziwiać architekturę przed lunchem w centrum."
           }
         },
         {
@@ -589,7 +638,8 @@
             "de": "Zabrze-Museum",
             "hu": "Zabrze Múzeum",
             "ro": "Muzeul Zabrze",
-            "en": "Zabrze Museum"
+            "en": "Zabrze Museum",
+            "pl": "Muzeum Zabrza"
           },
           "coords": [
             18.785,
@@ -604,7 +654,8 @@
             "de": "Perfekt für eine Pause nach dem Mittagessen, um mehr über die Stadt zu erfahren.",
             "hu": "Tökéletes egy ebéd utáni szünetre, hogy többet tudjon meg a városról.",
             "ro": "Perfect pentru o pauză după prânz pentru a afla mai multe despre oraș.",
-            "en": "Perfect for a post-lunch break to learn more about the city."
+            "en": "Perfect for a post-lunch break to learn more about the city.",
+            "pl": "Idealne miejsce na popołudniową przerwę po obiedzie, by dowiedzieć się więcej o mieście."
           }
         },
         {
@@ -612,7 +663,8 @@
             "de": "Bergwerk Guido",
             "hu": "Guido bánya",
             "ro": "Mina Guido",
-            "en": "Guido Mine"
+            "en": "Guido Mine",
+            "pl": "Kopalnia Guido"
           },
           "coords": [
             18.765,
@@ -627,7 +679,8 @@
             "de": "Die Hauptattraktion des Nachmittags. Planen Sie genügend Zeit für die lange Tour ein.",
             "hu": "A délután fő attrakciója. Tervezzen elég időt a hosszú túrára.",
             "ro": "Atracția principală a după-amiezii. Planificați suficient timp pentru turul lung.",
-            "en": "The main attraction for the afternoon. Plan enough time for the long tour."
+            "en": "The main attraction for the afternoon. Plan enough time for the long tour.",
+            "pl": "Główna atrakcja popołudnia. Zaplanuj wystarczająco dużo czasu na długą wycieczkę."
           }
         },
         {
@@ -635,7 +688,8 @@
             "de": "Maciej-Schacht",
             "hu": "Maciej-akna",
             "ro": "Puțul Maciej",
-            "en": "Maciej Shaft"
+            "en": "Maciej Shaft",
+            "pl": "Szyb Maciej"
           },
           "coords": [
             18.75,
@@ -650,7 +704,8 @@
             "de": "Ein großartiger Ort, um den Tag ausklingen zu lassen, vielleicht mit einem Getränk im Restaurant an der Spitze.",
             "hu": "Nagyszerű hely a nap befejezéséhez, talán egy itallal a tetején lévő étteremben.",
             "ro": "Un loc minunat pentru a încheia ziua, poate cu o băutură la restaurantul din vârf.",
-            "en": "A great spot to end the day, perhaps with a drink at the restaurant on top."
+            "en": "A great spot to end the day, perhaps with a drink at the restaurant on top.",
+            "pl": "Świetne miejsce na zakończenie dnia, być może przy drinku w restauracji na szczycie."
           }
         },
         {
@@ -658,7 +713,8 @@
             "de": "Stahlhaus",
             "hu": "Acélház",
             "ro": "Casa de Oțel",
-            "en": "Steel House"
+            "en": "Steel House",
+            "pl": "Dom Stali"
           },
           "coords": [
             18.79,
@@ -673,7 +729,8 @@
             "de": "Fahren Sie an diesem architektonischen Experiment vorbei und bewundern Sie die einzigartige Metallkonstruktion.",
             "hu": "Tekerjen el emellett az építészeti kísérlet mellett, és csodálja meg az egyedi fémszerkezetet.",
             "ro": "Treceți pe lângă acest experiment arhitectural și admirați construcția metalică unică.",
-            "en": "Cycle past this architectural experiment and admire the unique metal construction."
+            "en": "Cycle past this architectural experiment and admire the unique metal construction.",
+            "pl": "Przejedź rowerem obok tego eksperymentalnego obiektu i podziwiaj unikatową metalową konstrukcję."
           }
         }
       ],
@@ -681,7 +738,8 @@
         "de": "Ihre Fahrradtour durch Zabrze beginnt grün im Botanischen Garten. Von dort radeln Sie zum weitläufigen Komplex des Königin-Luise-Stollens. Nach der unterirdischen Erkundung geht es weiter ins Stadtzentrum. Dort legen Sie kurze Stopps an der St.-Andreas-Kirche und dem Zabrze-Museum ein, ideal für eine Mittagspause. Am Nachmittag steht das beeindruckende Bergwerk Guido auf dem Programm, die größte Attraktion des Tages. Zum Abschluss radeln Sie zum Maciej-Schacht, wo Sie den Tag mit einer atemberaubenden Aussicht und vielleicht einem Abendessen im Turmrestaurant ausklingen lassen. Auf dem Rückweg werfen Sie noch einen Blick auf das futuristische Stahlhaus.",
         "hu": "Zabrze-i kerékpártúrája zölden indul a Botanikus Kertben. Onnan a Lujza királynő-táró hatalmas komplexumához teker. A földalatti felfedezés után a városközpont felé veszi az irányt. Ott rövid megállókat tesz a Szent András-templomnál és a Zabrze Múzeumnál, ami ideális egy ebédszünethez. Délután a lenyűgöző Guido bánya szerepel a programban, a nap legnagyobb attrakciója. Végül a Maciej-aknához biciklizik, ahol lélegzetelállító kilátással és esetleg egy vacsorával zárja a napot a toronyétteremben. Visszafelé még egy pillantást vet a futurisztikus Acélházra.",
         "ro": "Turul dumneavoastră cu bicicleta prin Zabrze începe în verdeața Grădinii Botanice. De acolo, pedalați spre vastul complex al Galeriei subterane Regina Luiza. După explorarea subterană, continuați spre centrul orașului. Acolo, faceți opriri scurte la Biserica Sf. Andrei și la Muzeul Zabrze, ideale pentru o pauză de prânz. După-amiaza este dedicată impresionantei Mine Guido, cea mai mare atracție a zilei. În cele din urmă, pedalați spre Puțul Maciej, unde puteți încheia ziua cu o priveliște uluitoare și poate o cină la restaurantul din turn. La întoarcere, aruncați o privire și la futurista Casă de Oțel.",
-        "en": "Your cycling tour of Zabrze starts green in the Botanical Garden. From there, you'll pedal to the vast Queen Louise Adit complex. After the underground exploration, you'll continue to the city center. There, you'll make short stops at St. Andrew's Church and the Zabrze Museum, ideal for a lunch break. The afternoon is dedicated to the impressive Guido Mine, the day's biggest attraction. Finally, you'll cycle to the Maciej Shaft, where you can end the day with a breathtaking view and perhaps dinner at the tower restaurant. On your way back, you'll catch a glimpse of the futuristic Steel House."
+        "en": "Your cycling tour of Zabrze starts green in the Botanical Garden. From there, you'll pedal to the vast Queen Louise Adit complex. After the underground exploration, you'll continue to the city center. There, you'll make short stops at St. Andrew's Church and the Zabrze Museum, ideal for a lunch break. The afternoon is dedicated to the impressive Guido Mine, the day's biggest attraction. Finally, you'll cycle to the Maciej Shaft, where you can end the day with a breathtaking view and perhaps dinner at the tower restaurant. On your way back, you'll catch a glimpse of the futuristic Steel House.",
+        "pl": "Twoja rowerowa wycieczka po Zabrzu zaczyna się od zielonego Ogrodu Botanicznego. Stamtąd pojedziesz do rozległego kompleksu Sztolni Królowej Luizy. Po podziemnej eksploracji ruszysz do centrum miasta. Tam zrobisz krótkie przystanki przy kościele św. Andrzeja i Muzeum Zabrza, idealne na przerwę na lunch. Popołudnie poświęcone jest imponującej Kopalni Guido, największej atrakcji dnia. Na koniec pojedziesz do Szybu Maciej, gdzie możesz zakończyć dzień zapierającym dech w piersiach widokiem i ewentualnie kolacją w restauracji na wieży. Po drodze zobaczysz też futurystyczny Dom Stali."
       },
       "gastro_picks": {
         "de": [
@@ -877,6 +935,12 @@
           "Zabrze is hilly; be prepared for some climbs.",
           "Use designated bike paths wherever possible.",
           "Bring a strong lock to secure your bike at the various locations."
+        ],
+        "pl": [
+          "Sprawdź rower przed wyjazdem, zwłaszcza hamulce i opony.",
+          "Zabrze jest pagórkowate; przygotuj się na podjazdy.",
+          "Korzystaj z wyznaczonych ścieżek rowerowych, gdzie to możliwe.",
+          "Zabierz solidną blokadę, by zabezpieczyć rower w różnych miejscach."
         ]
       },
       "variants": {
@@ -885,7 +949,8 @@
             "de": "Starten Sie vorsichtig im Botanischen Garten, wo die Wege bei Regen weich werden können. Mittags radeln Sie zur Queen-Louise-Stollen; parken Sie Ihr Rad trocken unter dem Vordach. Der Nachmittag führt an der St.-Andreas-Kirche vorbei zum Stadtmuseum. Abends erreichen Sie die Guido-Mine und den Szyb Maciej, wo die industrielle Kulisse im Regen besonders dramatisch wirkt.",
             "hu": "Induljon óvatosan a Botanikus Kertben, ahol az utak esőben felázhatnak. Délben tekerjen a Louise királynő tárnához; parkolja a biciklit fedett helyre. A délután a Szent András-templom mellett elhaladva a Városi Múzeumhoz vezet. Este érje el a Guido bányát és a Maciej-aknát, ahol az ipari táj esőben különösen drámai látványt nyújt.",
             "ro": "Porniți cu prudență din Grădina Botanică, unde potecile pot deveni moi la ploaie. La prânz, pedalați spre Galeria Regina Luiza; parcați bicicleta la adăpost sub copertină. După-amiaza treceți pe lângă Biserica Sf. Andrei spre Muzeul din Zabrze. Seara ajungeți la Mina Guido și Puțul Maciej, unde decorul industrial arată dramatic în ploaie.",
-            "en": "Start cautiously at the Botanical Garden, where paths can soften in the rain. At noon, cycle to the Queen Louise Adit; park your bike under the dry canopy. The afternoon takes you past St. Andrew's Church to the Zabrze Museum. End your day at the Guido Mine and Maciej Shaft, where the industrial backdrop looks particularly dramatic in the rain."
+            "en": "Start cautiously at the Botanical Garden, where paths can soften in the rain. At noon, cycle to the Queen Louise Adit; park your bike under the dry canopy. The afternoon takes you past St. Andrew's Church to the Zabrze Museum. End your day at the Guido Mine and Maciej Shaft, where the industrial backdrop looks particularly dramatic in the rain.",
+            "pl": "Zacznij ostrożnie w Ogrodzie Botanicznym, gdzie ścieżki mogą zmięknąć po deszczu. W południe pojedź do Sztolni Królowej Luizy; zaparkuj rower pod suchym zadaszeniem. Popołudnie prowadzi obok kościoła św. Andrzeja do Muzeum Zabrza. Zakończ dzień w Kopalni Guido i przy Szybie Maciej, gdzie przemysłowe tło wygląda szczególnie dramatycznie w deszczu."
           },
           "stops": [
             {
@@ -894,7 +959,8 @@
                 "de": "Vermeiden Sie unbefestigte Pfade; bleiben Sie auf den asphaltierten Hauptwegen.",
                 "hu": "Kerülje a földutakat; maradjon az aszfaltozott főútvonalakon.",
                 "ro": "Evitați potecile neamenajate; rămâneți pe drumurile principale asfaltate.",
-                "en": "Avoid unpaved paths; stick to the paved main routes."
+                "en": "Avoid unpaved paths; stick to the paved main routes.",
+                "pl": "Unikaj dróg nieutwardzonych; trzymaj się utwardzonych głównych tras."
               }
             },
             {
@@ -903,7 +969,8 @@
                 "de": "Überdachte Fahrradständer befinden sich in der Nähe des Haupteingangs.",
                 "hu": "Fedett kerékpártárolók találhatók a főbejárat közvetlen közelében.",
                 "ro": "Suporturile de biciclete acoperite se află lângă intrarea principală.",
-                "en": "Covered bike racks are located near the main entrance."
+                "en": "Covered bike racks are located near the main entrance.",
+                "pl": "Zadaszone stojaki rowerowe znajdują się w pobliżu głównego wejścia."
               }
             },
             {
@@ -912,7 +979,8 @@
                 "de": "Vorsicht beim Absteigen; das Kopfsteinpflaster ist bei Nässe sehr rutschig.",
                 "hu": "Vigyázzon a leszálláskor; a macskaköves burkolat nedvesen nagyon csúszik.",
                 "ro": "Atenție la coborâre; pavajul din piatră este foarte alunecos când este ud.",
-                "en": "Careful when dismounting; the cobblestones are very slippery when wet."
+                "en": "Careful when dismounting; the cobblestones are very slippery when wet.",
+                "pl": "Uważaj przy zsiadaniu; bruk jest bardzo śliski, gdy jest mokry."
               }
             },
             {
@@ -921,7 +989,8 @@
                 "de": "Ein idealer Ort, um die Regenbekleidung kurz zu lüften und sich abzutrocknen.",
                 "hu": "Ideális hely az esőruházat rövid szellőztetésére és a megszárítkozásra.",
                 "ro": "Un loc ideal pentru a aerisi scurt echipamentul de ploaie și a vă usca.",
-                "en": "An ideal spot to briefly air out your rain gear and dry off."
+                "en": "An ideal spot to briefly air out your rain gear and dry off.",
+                "pl": "Idealne miejsce, by krótko przewietrzyć ubranie przeciwdeszczowe i wysuszyć się."
               }
             },
             {
@@ -930,7 +999,8 @@
                 "de": "Sicherer Abstellplatz direkt am Zechengelände vorhanden.",
                 "hu": "Biztonságos tárolóhely áll rendelkezésre közvetlenül a bánya területén.",
                 "ro": "Loc de parcare sigur disponibil direct în incinta minei.",
-                "en": "Secure storage space is available directly on the mine premises."
+                "en": "Secure storage space is available directly on the mine premises.",
+                "pl": "Na terenie kopalni dostępna jest bezpieczna przestrzeń do przechowania."
               }
             },
             {
@@ -939,7 +1009,8 @@
                 "de": "Das Restaurant oben bietet einen tollen Ausblick auf die regnerische Stadt.",
                 "hu": "A fenti étterem nagyszerű kilátást nyújt az eső áztatta városra.",
                 "ro": "Restaurantul de sus oferă o vedere excelentă asupra orașului ploios.",
-                "en": "The restaurant at the top offers a great view of the rainy city."
+                "en": "The restaurant at the top offers a great view of the rainy city.",
+                "pl": "Restauracja na górze oferuje świetny widok na deszczowe miasto."
               }
             },
             {
@@ -948,7 +1019,8 @@
                 "de": "Nur kurzer Stopp im Freien; das Stahldach lässt den Regen laut prasseln.",
                 "hu": "Csak rövid megálló; az acéltetőn hangosan kopog az eső.",
                 "ro": "Doar o scurtă oprire afară; acoperișul de oțel face ploaia să răsune tare.",
-                "en": "Only a short outdoor stop; the steel roof makes the rain rattle loudly."
+                "en": "Only a short outdoor stop; the steel roof makes the rain rattle loudly.",
+                "pl": "Tylko krótki postój na zewnątrz; stalowy dach głośno grzmi od deszczu."
               }
             }
           ],
@@ -980,6 +1052,13 @@
               "Check your lights, as visibility is often limited in the rain.",
               "Use bike racks under canopies at the museums.",
               "Always wipe your saddle dry before continuing your ride."
+            ],
+            "pl": [
+              "Noś pełne ubranie przeciwdeszczowe i używaj błotników w rowerze.",
+              "Unikaj gwałtownego hamowania na mokrym bruku.",
+              "Sprawdź światła, bo widoczność często jest ograniczona w deszczu.",
+              "Korzystaj ze stojaków pod zadaszeniem przy muzeach.",
+              "Zawsze wytrzyj siodełko przed kontynuacją jazdy."
             ]
           }
         },
@@ -988,7 +1067,8 @@
             "de": "Ein klarer Wintermorgen im Botanischen Garten zeigt die Schönheit der frostigen Natur. Mittags radeln Sie zur Queen-Louise-Stollen, um sich unter Tage aufzuwärmen. Der Weg zur St.-Andreas-Kirche und zum Museum führt durch die verschneiten Straßen von Zabrze. Der Abend endet am Szyb Maciej und dem Stahlhaus, wo die Lichter der Industrie im Winterdunkel hell leuchten.",
             "hu": "A tiszta téli reggel a Botanikus Kertben megmutatja a fagyos természet szépségét. Délben tekerjen a Louise királynő tárnához, hogy a föld alatt felmelegedjen. A Szent András-templomhoz és a múzeumhoz vezető út Zabrze havas utcáin át visz. Az este a Maciej-aknánál és az Acélháznál zárul, ahol az ipari fények ragyognak a téli sötétségben.",
             "ro": "O dimineață senină de iarnă în Grădina Botanică arată frumusețea naturii înghețate. La prânz, pedalați spre Galeria Regina Luiza pentru a vă încălzi în subteran. Drumul spre Biserica Sf. Andrei și muzeu trece prin străzile înzăpezite ale orașului. Seara se încheie la Puțul Maciej și Casa de Oțel, unde luminile industriale strălucesc în întunericul iernii.",
-            "en": "A clear winter morning in the Botanical Garden shows the beauty of frosty nature. At noon, cycle to the Queen Louise Adit to warm up underground. The route to St. Andrew's Church and the museum leads through the snowy streets of Zabrze. The evening ends at the Maciej Shaft and the Steel House, where industrial lights shine brightly in the winter darkness."
+            "en": "A clear winter morning in the Botanical Garden shows the beauty of frosty nature. At noon, cycle to the Queen Louise Adit to warm up underground. The route to St. Andrew's Church and the museum leads through the snowy streets of Zabrze. The evening ends at the Maciej Shaft and the Steel House, where industrial lights shine brightly in the winter darkness.",
+            "pl": "Jasny zimowy poranek w Ogrodzie Botanicznym ukazuje piękno mroźnej przyrody. W południe pojedź do Sztolni Królowej Luizy, by rozgrzać się pod ziemią. Trasa do kościoła św. Andrzeja i muzeum prowadzi przez zaśnieżone ulice Zabrza. Wieczór kończy się przy Szybie Maciej i Domu Stali, gdzie przemysłowe światła jasno błyszczą w zimowej ciemności."
           },
           "stops": [
             {
@@ -997,7 +1077,8 @@
                 "de": "Vorsicht bei gefrorenem Laub auf den Wegen; sehr rutschig.",
                 "hu": "Vigyázzon az utakon lévő fagyott levelekkel; nagyon csúszósak lehetnek.",
                 "ro": "Atenție la frunzele înghețate de pe poteci; pot fi foarte alunecoase.",
-                "en": "Watch out for frozen leaves on the paths; they can be very slippery."
+                "en": "Watch out for frozen leaves on the paths; they can be very slippery.",
+                "pl": "Uważaj na zamarznięte liście na ścieżkach; mogą być bardzo śliskie."
               }
             },
             {
@@ -1006,7 +1087,8 @@
                 "de": "Ein guter Ort, um die steif gefrorenen Hände wieder aufzuwärmen.",
                 "hu": "Kiváló hely az átfagyott kezek újbóli felmelegítésére.",
                 "ro": "Un loc bun pentru a vă încălzi mâinile amorțite de frig.",
-                "en": "A great place to warm up your frozen hands again."
+                "en": "A great place to warm up your frozen hands again.",
+                "pl": "Świetne miejsce, by znów rozgrzać zamarznięte dłonie."
               }
             },
             {
@@ -1015,7 +1097,8 @@
                 "de": "Schließen Sie Ihr Rad gut sichtbar an; der Kirchplatz wird früh dunkel.",
                 "hu": "Láncolja le a biciklit jól látható helyen; a templomkert korán sötétedik.",
                 "ro": "Legați bicicleta într-un loc vizibil; piața bisericii se întunecă devreme.",
-                "en": "Lock your bike in a visible spot; the church square gets dark early."
+                "en": "Lock your bike in a visible spot; the church square gets dark early.",
+                "pl": "Zabezpiecz rower w widocznym miejscu; przy kościele plac szybko robi się ciemny."
               }
             },
             {
@@ -1024,7 +1107,8 @@
                 "de": "Die Wärme im Inneren ist perfekt für eine kurze Pause vom Winterwind.",
                 "hu": "A benti meleg tökéletes egy rövid pihenőre a téli szél elől.",
                 "ro": "Căldura din interior este perfectă pentru o scurtă pauză de vântul iernii.",
-                "en": "The indoor warmth is perfect for a short break from the winter wind."
+                "en": "The indoor warmth is perfect for a short break from the winter wind.",
+                "pl": "Ciepło wewnątrz to idealna krótka przerwa od zimowego wiatru."
               }
             },
             {
@@ -1033,7 +1117,8 @@
                 "de": "Tiefster Punkt der Tour; hier ist der Winter am weitesten entfernt.",
                 "hu": "A túra legmélyebb pontja; itt érezni legkevésbé a telet.",
                 "ro": "Cel mai adânc punct al turului; aici iarna este cel mai departe.",
-                "en": "The deepest point of the tour; winter feels furthest away here."
+                "en": "The deepest point of the tour; winter feels furthest away here.",
+                "pl": "Najgłębszy punkt trasy; zima wydaje się tu najbardziej odległa."
               }
             },
             {
@@ -1042,7 +1127,8 @@
                 "de": "Abendessen in historischer Atmosphäre; perfekt zum Aufwärmen.",
                 "hu": "Vacsora történelmi környezetben; tökéletes a felmelegedéshez.",
                 "ro": "Cină într-o atmosferă istorică; perfect pentru încălzire.",
-                "en": "Dinner in a historical atmosphere; perfect for warming up."
+                "en": "Dinner in a historical atmosphere; perfect for warming up.",
+                "pl": "Kolacja w historycznej atmosferze; idealna do rozgrzania."
               }
             },
             {
@@ -1051,7 +1137,8 @@
                 "de": "Die Metallfassade wirkt im Winterfrost besonders kühl und industriell.",
                 "hu": "A fém homlokzat a téli fagyban különösen hűvösnek és iparinak hat.",
                 "ro": "Fațada metalică arată deosebit de rece și industrială în gerul iernii.",
-                "en": "The metal facade looks especially cool and industrial in the winter frost."
+                "en": "The metal facade looks especially cool and industrial in the winter frost.",
+                "pl": "Metalowa fasada wygląda szczególnie surowo i industrialnie w zimowym mrozie."
               }
             }
           ],
@@ -1083,6 +1170,13 @@
               "Ensure your bike lighting is working perfectly.",
               "Avoid icy patches in shaded street sections.",
               "Plan more time for breaks in heated indoor spaces."
+            ],
+            "pl": [
+              "Noś odzież termiczną i dobre rękawice na mroźne zjazdy.",
+              "Sprawdź ciśnienie w oponach, bo może spaść na mrozie.",
+              "Upewnij się, że oświetlenie roweru działa perfekcyjnie.",
+              "Unikaj oblodzonych odcinków w zacienionych częściach ulic.",
+              "Zaplanuj więcej czasu na przerwy w ogrzewanych wnętrzach."
             ]
           }
         }
@@ -1101,7 +1195,8 @@
             "de": "Parkplatz Cluster 'Industrie Ost'",
             "hu": "'Kelet-Ipari' Klaszter Parkoló",
             "ro": "Parcare Cluster 'Industria de Est'",
-            "en": "Parking Cluster 'Industry East'"
+            "en": "Parking Cluster 'Industry East'",
+            "pl": "Parking Klaster „Przemysł Wschód”"
           },
           "coords": [
             18.802,
@@ -1116,7 +1211,8 @@
             "de": "Parken Sie hier, um den Stollen und das Bergbaumuseum zu Fuß zu erkunden.",
             "hu": "Parkoljon itt, hogy gyalog fedezze fel a tárót és a bányamúzeumot.",
             "ro": "Parcați aici pentru a explora galeria și muzeul minier pe jos.",
-            "en": "Park here to explore the adit and the mining museum on foot."
+            "en": "Park here to explore the adit and the mining museum on foot.",
+            "pl": "Zaparkuj tutaj, by na piechotę zwiedzić sztolnię i muzeum górnictwa."
           }
         },
         {
@@ -1124,7 +1220,8 @@
             "de": "Stollen Königin Luise",
             "hu": "Lujza királynő-táró",
             "ro": "Galeria subterană Regina Luiza",
-            "en": "Queen Louise Adit"
+            "en": "Queen Louise Adit",
+            "pl": "Sztolnia Królowej Luizy"
           },
           "coords": [
             18.801,
@@ -1140,7 +1237,8 @@
             "de": "Beginnen Sie Ihr Abenteuer mit der faszinierenden unterirdischen Bootstour.",
             "hu": "Kezdje kalandját a lenyűgöző földalatti csónaktúrával.",
             "ro": "Începeți aventura cu fascinantul tur cu barca subterană.",
-            "en": "Start your adventure with the fascinating underground boat tour."
+            "en": "Start your adventure with the fascinating underground boat tour.",
+            "pl": "Rozpocznij przygodę od fascynującej podziemnej wycieczki łodzią."
           }
         },
         {
@@ -1148,7 +1246,8 @@
             "de": "Museum für Kohlebergbau",
             "hu": "Szénbányászati Múzeum",
             "ro": "Muzeul Mineritului de Cărbune",
-            "en": "Museum of Coal Mining"
+            "en": "Museum of Coal Mining",
+            "pl": "Muzeum Górnictwa Węgla"
           },
           "coords": [
             18.8,
@@ -1164,7 +1263,8 @@
             "de": "Vertiefen Sie Ihr Wissen über die Technologie und die soziale Geschichte des Bergbaus.",
             "hu": "Mélyítse el tudását a bányászat technológiájáról és társadalomtörténetéről.",
             "ro": "Aprofundați-vă cunoștințele despre tehnologia și istoria socială a mineritului.",
-            "en": "Deepen your knowledge of the technology and social history of mining."
+            "en": "Deepen your knowledge of the technology and social history of mining.",
+            "pl": "Pogłęb wiedzę o technologii i społecznej historii górnictwa."
           }
         },
         {
@@ -1172,7 +1272,8 @@
             "de": "Parkplatz Cluster 'Industrie West'",
             "hu": "'Nyugat-Ipari' Klaszter Parkoló",
             "ro": "Parcare Cluster 'Industria de Vest'",
-            "en": "Parking Cluster 'Industry West'"
+            "en": "Parking Cluster 'Industry West'",
+            "pl": "Parking Klaster „Przemysł Zachód”"
           },
           "coords": [
             18.764,
@@ -1188,7 +1289,8 @@
             "de": "Der Ausgangspunkt für das Bergwerk Guido. Suchen Sie nach einem Platz und planen Sie einen langen Aufenthalt.",
             "hu": "A Guido bánya kiindulópontja. Keressen egy helyet, és tervezzen hosszú tartózkodást.",
             "ro": "Punctul de plecare pentru Mina Guido. Căutați un loc și planificați o ședere lungă.",
-            "en": "The starting point for the Guido Mine. Find a spot and plan for a long stay."
+            "en": "The starting point for the Guido Mine. Find a spot and plan for a long stay.",
+            "pl": "Punkt startowy do Kopalni Guido. Znajdź miejsce i zaplanuj dłuższy pobyt."
           }
         },
         {
@@ -1196,7 +1298,8 @@
             "de": "Bergwerk Guido",
             "hu": "Guido bánya",
             "ro": "Mina Guido",
-            "en": "Guido Mine"
+            "en": "Guido Mine",
+            "pl": "Kopalnia Guido"
           },
           "coords": [
             18.765,
@@ -1212,7 +1315,8 @@
             "de": "Nehmen Sie an einer Führung teil und essen Sie anschließend in der 'Pumpenstation'-Kneipe zu Mittag.",
             "hu": "Vegyen részt egy vezetett túrán, majd ebédeljen a 'Pumpenstation' kocsmában.",
             "ro": "Participați la un tur ghidat și apoi luați prânzul la pub-ul 'Pumpenstation'.",
-            "en": "Take a guided tour and then have lunch at the 'Pumpenstation' pub."
+            "en": "Take a guided tour and then have lunch at the 'Pumpenstation' pub.",
+            "pl": "Weź udział w oprowadzaniu, a potem zjedz obiad w pubie 'Pumpenstation'."
           }
         },
         {
@@ -1220,7 +1324,8 @@
             "de": "Maciej-Schacht",
             "hu": "Maciej-akna",
             "ro": "Puțul Maciej",
-            "en": "Maciej Shaft"
+            "en": "Maciej Shaft",
+            "pl": "Szyb Maciej"
           },
           "coords": [
             18.75,
@@ -1236,7 +1341,8 @@
             "de": "Der perfekte Abschluss des Tages mit einem Panoramablick und einem gehobenen Abendessen.",
             "hu": "A nap tökéletes befejezése panorámás kilátással és egy elegáns vacsorával.",
             "ro": "Finalul perfect al zilei, cu o priveliște panoramică și o cină rafinată.",
-            "en": "The perfect end to the day with a panoramic view and an upscale dinner."
+            "en": "The perfect end to the day with a panoramic view and an upscale dinner.",
+            "pl": "Idealne zakończenie dnia z panoramicznym widokiem i wykwintną kolacją."
           }
         }
       ],
@@ -1244,7 +1350,8 @@
         "de": "Ihre Autotour durch Zabrze ist in drei Cluster aufgeteilt. Sie beginnen im Osten und parken in der Nähe des Königin-Luise-Stollens, den Sie am Vormittag zusammen mit dem Bergbaumuseum zu Fuß erkunden. Gegen Mittag fahren Sie zum westlichen Industriecluster. Dort parken Sie erneut und verbringen den Großteil des Nachmittags im beeindruckenden Guido-Bergwerk, einschließlich einer Mittagspause 320 Meter unter der Erde. Den späten Nachmittag und Abend verbringen Sie im dritten Cluster, dem Maciej-Schacht. Nach einer kurzen Fahrt können Sie dort die Aussicht genießen und den Tag mit einem ausgezeichneten Abendessen im Turmrestaurant ausklingen lassen. Diese Route minimiert die Parkplatzsuche und maximiert das Erlebnis.",
         "hu": "Zabrze-i autós túrája három klaszterre oszlik. Keleten kezd, és a Lujza királynő-táró közelében parkol, amelyet délelőtt a Bányamúzeummal együtt gyalogosan fedez fel. Dél körül áthajt a nyugati ipari klaszterbe. Ott újra leparkol, és a délután nagy részét a lenyűgöző Guido bányában tölti, beleértve egy ebédszünetet 320 méterrel a föld alatt. A késő délutánt és estét a harmadik klaszterben, a Maciej-aknában tölti. Egy rövid autóút után élvezheti a kilátást, és a napot egy kiváló vacsorával zárhatja a toronyétteremben. Ez az útvonal minimalizálja a parkolóhely-keresést és maximalizálja az élményt.",
         "ro": "Turul dumneavoastră cu mașina prin Zabrze este împărțit în trei clustere. Începeți în est, parcând lângă Galeria subterană Regina Luiza, pe care o explorați pe jos dimineața, împreună cu Muzeul Mineritului. În jurul prânzului, conduceți spre clusterul industrial de vest. Acolo, parcați din nou și petreceți cea mai mare parte a după-amiezii în impresionanta Mină Guido, inclusiv o pauză de prânz la 320 de metri sub pământ. Seara târzie și seara le petreceți în al treilea cluster, Puțul Maciej. După o scurtă călătorie cu mașina, vă puteți bucura de priveliște și puteți încheia ziua cu o cină excelentă la restaurantul din turn. Acest traseu minimizează căutarea parcării și maximizează experiența.",
-        "en": "Your car tour of Zabrze is divided into three clusters. You start in the east, parking near the Queen Louise Adit, which you explore on foot in the morning along with the Mining Museum. Around noon, you drive to the western industrial cluster. There, you park again and spend most of the afternoon in the impressive Guido Mine, including a lunch break 320 meters underground. The late afternoon and evening are spent at the third cluster, the Maciej Shaft. After a short drive, you can enjoy the view and end the day with an excellent dinner at the tower restaurant. This route minimizes parking searches and maximizes the experience."
+        "en": "Your car tour of Zabrze is divided into three clusters. You start in the east, parking near the Queen Louise Adit, which you explore on foot in the morning along with the Mining Museum. Around noon, you drive to the western industrial cluster. There, you park again and spend most of the afternoon in the impressive Guido Mine, including a lunch break 320 meters underground. The late afternoon and evening are spent at the third cluster, the Maciej Shaft. After a short drive, you can enjoy the view and end the day with an excellent dinner at the tower restaurant. This route minimizes parking searches and maximizes the experience.",
+        "pl": "Twoja samochodowa wycieczka po Zabrzu podzielona jest na trzy klastry. Zaczynasz na wschodzie, parkując przy Sztolni Królowej Luizy, którą zwiedzasz rano wraz z Muzeum Górnictwa. W południe jedziesz do zachodniego klastra przemysłowego. Tam znowu parkujesz i spędzasz większość popołudnia w imponującej Kopalni Guido, wliczając przerwę na lunch 320 metrów pod ziemią. Późne popołudnie i wieczór spędzasz przy trzecim klastrze, Szybie Maciej. Po krótkiej jeździe możesz podziwiać widok i zakończyć dzień doskonałą kolacją w restauracji na wieży. Ta trasa minimalizuje poszukiwania parkingu i maksymalizuje doznania."
       },
       "gastro_picks": {
         "de": [
@@ -1440,6 +1547,12 @@
           "Parking at the main attractions can be crowded. Allow a little extra time to find a parking spot.",
           "Do not leave valuables visible in the car.",
           "The cluster strategy saves time and nerves. Stick to the plan to make the most of the day."
+        ],
+        "pl": [
+          "Użyj aplikacji nawigacyjnej, by unikać korków między klastrami.",
+          "Parkowanie przy głównych atrakcjach może być zatłoczone. Przeznacz nieco więcej czasu na znalezienie miejsca.",
+          "Nie zostawiaj cennych rzeczy na widoku w samochodzie.",
+          "Strategia z klastrami oszczędza czas i nerwy. Trzymaj się planu, by jak najlepiej wykorzystać dzień."
         ]
       },
       "variants": {
@@ -1448,7 +1561,8 @@
             "de": "Starten Sie entspannt am Parkplatz 'Industry East', direkt neben der Queen-Louise-Stollen. Mittags führt die kurze Fahrt zum Bergbaumuseum, wo Sie fast bis vor die Tür fahren können. Am Nachmittag parken Sie am 'Industry West' für den Besuch der Guido-Mine. Der Tag endet am Szyb Maciej, wo Sie im trockenen Auto die industrielle Skyline genießen können.",
             "hu": "Kezdje a napot kényelmesen az 'Industry East' parkolóban, közvetlenül a Louise királynő tárna mellett. Délben egy rövid autózás következik a Bányászati Múzeumhoz, ahol szinte az ajtóig hajthat. Délután parkoljon az 'Industry West' területén a Guido bánya látogatásához. A nap a Maciej-aknánál zárul, ahol a száraz autóból élvezheti az ipari látképet.",
             "ro": "Începeți relaxat la parcarea 'Industry East', chiar lângă Galeria Regina Luiza. La prânz, scurta călătorie vă duce la Muzeul Mineritului, unde puteți parca aproape de intrare. După-amiaza, lăsați mașina la 'Industry West' pentru vizitarea Minei Guido. Ziua se încheie la Puțul Maciej, unde puteți admira orizontul industrial din confortul mașinii.",
-            "en": "Start relaxed at the 'Industry East' parking cluster, right next to the Queen Louise Adit. At noon, a short drive takes you to the Mining Museum, where you can park very close to the entrance. In the afternoon, park at 'Industry West' for your Guido Mine visit. The day ends at the Maciej Shaft, where you can enjoy the industrial skyline from your dry car."
+            "en": "Start relaxed at the 'Industry East' parking cluster, right next to the Queen Louise Adit. At noon, a short drive takes you to the Mining Museum, where you can park very close to the entrance. In the afternoon, park at 'Industry West' for your Guido Mine visit. The day ends at the Maciej Shaft, where you can enjoy the industrial skyline from your dry car.",
+            "pl": "Zacznij zrelaksowany przy parkingu 'Przemysł Wschód', tuż obok Sztolni Królowej Luizy. W południe krótka przejażdżka zabierze cię do Muzeum Górnictwa, gdzie możesz zaparkować bardzo blisko wejścia. Po południu zaparkuj przy 'Przemysł Zachód' na wizytę w Kopalni Guido. Dzień kończy się przy Szybie Maciej, skąd możesz podziwiać industrialną panoramę z suchego samochodu."
           },
           "stops": [
             {
@@ -1457,7 +1571,8 @@
                 "de": "Wählen Sie einen Platz nahe der Fußgängerbrücke, um den Weg im Regen zu verkürzen.",
                 "hu": "Válasszon helyet a gyalogoshíd közelében, hogy lerövidítse az utat az esőben.",
                 "ro": "Alegeți un loc lângă pasarela pietonală pentru a scurta drumul prin ploaie.",
-                "en": "Choose a spot near the pedestrian bridge to shorten the walk in the rain."
+                "en": "Choose a spot near the pedestrian bridge to shorten the walk in the rain.",
+                "pl": "Wybierz miejsce blisko kładki dla pieszych, by skrócić spacer w deszczu."
               }
             },
             {
@@ -1466,7 +1581,8 @@
                 "de": "Der Eingangsbereich bietet guten Schutz beim Aussteigen.",
                 "hu": "A bejárati rész jó védelmet nyújt a kiszálláskor.",
                 "ro": "Zona de intrare oferă o protecție bună la coborârea din mașină.",
-                "en": "The entrance area provides good shelter when getting out of the car."
+                "en": "The entrance area provides good shelter when getting out of the car.",
+                "pl": "Strefa przy wejściu zapewnia dobre schronienie przy wysiadaniu z samochodu."
               }
             },
             {
@@ -1475,7 +1591,8 @@
                 "de": "Nutzen Sie den Besucherparkplatz direkt vor dem Hauptgebäude.",
                 "hu": "Használja a látogatói parkolót közvetlenül a főépület előtt.",
                 "ro": "Folosiți parcarea pentru vizitatori chiar în fața clădirii principale.",
-                "en": "Use the visitor parking directly in front of the main building."
+                "en": "Use the visitor parking directly in front of the main building.",
+                "pl": "Korzystaj z parkingu dla odwiedzających bezpośrednio przed głównym budynkiem."
               }
             },
             {
@@ -1484,7 +1601,8 @@
                 "de": "Vermeiden Sie Pfützen auf den unbefestigten Teilen des Parkplatzes.",
                 "hu": "Kerülje a tócsákat a parkoló nem aszfaltozott részein.",
                 "ro": "Evitați bălțile de pe porțiunile neasfaltate ale parcării.",
-                "en": "Avoid puddles on the unpaved parts of the parking lot."
+                "en": "Avoid puddles on the unpaved parts of the parking lot.",
+                "pl": "Unikaj kałuż na nieutwardzonych częściach parkingu."
               }
             },
             {
@@ -1493,7 +1611,8 @@
                 "de": "Perfekt erreichbar; der Weg vom Auto zum Schacht ist kurz.",
                 "hu": "Tökéletesen elérhető; az út az autótól az aknáig rövid.",
                 "ro": "Accesibil perfect; drumul de la mașină la puț este scurt.",
-                "en": "Perfectly accessible; the walk from the car to the shaft is short."
+                "en": "Perfectly accessible; the walk from the car to the shaft is short.",
+                "pl": "Idealnie dostępne; spacer z samochodu do szybu jest krótki."
               }
             },
             {
@@ -1502,7 +1621,8 @@
                 "de": "Beleuchteter Parkplatz vorhanden; ideal für den regnerischen Abend.",
                 "hu": "Kivilágított parkoló áll rendelkezésre; ideális az esős estéhez.",
                 "ro": "Parcare iluminată disponibilă; ideală pentru seara ploioasă.",
-                "en": "Illuminated parking available; ideal for the rainy evening."
+                "en": "Illuminated parking available; ideal for the rainy evening.",
+                "pl": "Oświetlony parking dostępny; idealny na deszczowy wieczór."
               }
             }
           ],
@@ -1534,6 +1654,13 @@
               "Keep an umbrella handy in the door pocket.",
               "Zabrze's roads can flood quickly during heavy rain.",
               "Use seat heating for extra comfort after outdoor visits."
+            ],
+            "pl": [
+              "Uważaj na ograniczoną widoczność z powodu zaparowanych szyb.",
+              "Parkuj jak najbliżej wejść do muzeów.",
+              "Trzymaj parasol w bocznej kieszeni drzwi.",
+              "Drogi w Zabrzu mogą się szybko zalewać podczas intensywnego deszczu.",
+              "Użyj podgrzewania siedzeń dla większego komfortu po pobytach na zewnątrz."
             ]
           }
         },
@@ -1542,7 +1669,8 @@
             "de": "Der frostige Morgen beginnt komfortabel mit der Fahrt zur Queen-Louise-Stollen. Mittags wärmt die Autoheizung auf dem Weg zum Bergbaumuseum. Der Nachmittag führt zum verschneiten Parkplatz 'Industry West' für die Tour in der Guido-Mine. Der Tag klingt gemütlich am Szyb Maciej aus, während draußen der Winterwind um die Fördertürme pfeift.",
             "hu": "A fagyos reggel kényelmesen indul az autóban a Louise királynő tárna felé. Délben az autófűtés ad meleget a Bányászati Múzeumhoz vezető úton. A délután a havas 'Industry West' parkolóba vezet a Guido bányatúra előtt. A nap hangulatosan zárul a Maciej-aknánál, miközben kint a téli szél fütyül a bányatornyok körül.",
             "ro": "Dimineața geroasă începe confortabil cu drumul spre Galeria Regina Luiza. La prânz, încălzirea mașinii vă prinde bine în drum spre Muzeul Mineritului. După-amiaza vă duce în parcarea înzăpezită 'Industry West' pentru turul Minei Guido. Ziua se încheie plăcut la Puțul Maciej, în timp ce afară vântul iernii șuieră printre turnurile de extracție.",
-            "en": "The frosty morning starts comfortably with a drive to the Queen Louise Adit. At noon, the car's heater warms you up on the way to the Mining Museum. The afternoon leads to the snowy 'Industry West' parking lot for the Guido Mine tour. The day winds down cozily at the Maciej Shaft while the winter wind whistles around the headframes outside."
+            "en": "The frosty morning starts comfortably with a drive to the Queen Louise Adit. At noon, the car's heater warms you up on the way to the Mining Museum. The afternoon leads to the snowy 'Industry West' parking lot for the Guido Mine tour. The day winds down cozily at the Maciej Shaft while the winter wind whistles around the headframes outside.",
+            "pl": "Mroźny poranek zaczyna się wygodnie przejazdem do Sztolni Królowej Luizy. W południe ogrzewanie w samochodzie rozgrzeje cię w drodze do Muzeum Górnictwa. Popołudnie prowadzi do zaśnieżonego parkingu 'Przemysł Zachód' na wycieczkę w Kopalni Guido. Dzień kończy się przy Szybie Maciej, podczas gdy zimny wiatr gwizda wokół pobudowań na zewnątrz."
           },
           "stops": [
             {
@@ -1551,7 +1679,8 @@
                 "de": "Vorsicht vor vereisten Stellen beim Verlassen des Fahrzeugs.",
                 "hu": "Vigyázzon a jeges foltokra a gépjármű elhagyásakor.",
                 "ro": "Atenție la porțiunile înghețate când coborâți din vehicul.",
-                "en": "Watch out for icy patches when exiting the vehicle."
+                "en": "Watch out for icy patches when exiting the vehicle.",
+                "pl": "Uważaj na oblodzone miejsca przy wysiadaniu z pojazdu."
               }
             },
             {
@@ -1560,7 +1689,8 @@
                 "de": "Unterirdisch ist es deutlich wärmer als auf dem Parkplatz.",
                 "hu": "A föld alatt lényegesen melegebb van, mint kint a parkolóban.",
                 "ro": "În subteran este mult mai cald decât în parcare.",
-                "en": "Underground it's significantly warmer than in the parking lot."
+                "en": "Underground it's significantly warmer than in the parking lot.",
+                "pl": "Pod ziemią jest znacznie cieplej niż na parkingu."
               }
             },
             {
@@ -1569,7 +1699,8 @@
                 "de": "Kurze Wege sind im Winter ein großer Vorteil dieses Standorts.",
                 "hu": "A rövid gyalogutak télen nagy előnyt jelentenek ezen a helyszínen.",
                 "ro": "Distanțele scurte sunt un mare avantaj al acestei locații iarna.",
-                "en": "Short walking distances are a big advantage of this location in winter."
+                "en": "Short walking distances are a big advantage of this location in winter.",
+                "pl": "Krótkie odległości piesze to duża zaleta tej lokalizacji zimą."
               }
             },
             {
@@ -1578,7 +1709,8 @@
                 "de": "Schneeräumung kann auf Nebenflächen eingeschränkt sein.",
                 "hu": "A hóeltakarítás a mellékterületeken korlátozott lehet.",
                 "ro": "Deszăpezirea poate fi limitată pe suprafețele secundare.",
-                "en": "Snow removal might be limited on secondary parking areas."
+                "en": "Snow removal might be limited on secondary parking areas.",
+                "pl": "Odśnieżanie może być ograniczone na bocznych parkingach."
               }
             },
             {
@@ -1587,7 +1719,8 @@
                 "de": "Ein warmes Ziel, das man direkt mit dem Auto ansteuern kann.",
                 "hu": "Meleg célpont, amely közvetlenül megközelíthető autóval.",
                 "ro": "O destinație caldă la care se poate ajunge direct cu mașina.",
-                "en": "A warm destination that can be reached directly by car."
+                "en": "A warm destination that can be reached directly by car.",
+                "pl": "Ciepłe miejsce, do którego można dojechać bezpośrednio samochodem."
               }
             },
             {
@@ -1596,7 +1729,8 @@
                 "de": "Die Zufahrt ist gut geräumt; Parken direkt am Turm möglich.",
                 "hu": "A felhajtó jól le van takarítva; parkolás közvetlenül a toronynál lehetséges.",
                 "ro": "Accesul este bine deszăpezit; parcare posibilă chiar lângă turn.",
-                "en": "The access road is well cleared; parking is possible right by the tower."
+                "en": "The access road is well cleared; parking is possible right by the tower.",
+                "pl": "Droga dojazdowa jest dobrze odśnieżona; parking możliwy tuż przy wieży."
               }
             }
           ],
@@ -1628,6 +1762,13 @@
               "Avoid parking under snow-laden industrial structures.",
               "Plan more time for finding a parking spot due to snow piles.",
               "Use the auxiliary heater, if available, for the return journey."
+            ],
+            "pl": [
+              "Upewnij się, że pojazd jest przygotowany na zimę (opony zimowe).",
+              "Miej skrobaczkę do szyb i odmrażacz pod ręką.",
+              "Unikaj parkowania pod konstrukcjami przemysłowymi obciążonymi śniegiem.",
+              "Zaplanuj więcej czasu na znalezienie miejsca parkingowego z powodu kop śnieżnych.",
+              "Skorzystaj z ogrzewania postojowego, jeśli jest dostępne, na powrót."
             ]
           }
         }
@@ -1646,7 +1787,8 @@
             "de": "Zentrum",
             "hu": "Városközpont",
             "ro": "Centrul orașului",
-            "en": "City Center"
+            "en": "City Center",
+            "pl": "Centrum miasta"
           },
           "coords": [
             18.7885,
@@ -1661,7 +1803,8 @@
             "de": "Beginnen Sie Ihren Tag an einer zentralen Haltestelle in der Nähe der St.-Andreas-Kirche.",
             "hu": "Kezdje a napot egy központi megállónál a Szent András-templom közelében.",
             "ro": "Începeți ziua la o stație centrală lângă Biserica Sf. Andrei.",
-            "en": "Start your day at a central stop near St. Andrew's Church."
+            "en": "Start your day at a central stop near St. Andrew's Church.",
+            "pl": "Zacznij dzień na centralnym przystanku blisko kościoła św. Andrzeja."
           }
         },
         {
@@ -1669,7 +1812,8 @@
             "de": "St.-Andreas-Kirche",
             "hu": "Szent András-templom",
             "ro": "Biserica Sf. Andrei",
-            "en": "St. Andrew's Church"
+            "en": "St. Andrew's Church",
+            "pl": "Kościół św. Andrzeja"
           },
           "coords": [
             18.788,
@@ -1685,7 +1829,8 @@
             "de": "Ein kurzer Blick auf die beeindruckende Fassade, bevor der Tag richtig beginnt.",
             "hu": "Egy gyors pillantás a lenyűgöző homlokzatra, mielőtt a nap igazán elkezdődik.",
             "ro": "O privire rapidă la fațada impresionantă înainte ca ziua să înceapă cu adevărat.",
-            "en": "A quick look at the impressive facade before the day really gets started."
+            "en": "A quick look at the impressive facade before the day really gets started.",
+            "pl": "Szybkie spojrzenie na imponującą fasadę, zanim dzień naprawdę się zacznie."
           }
         },
         {
@@ -1693,7 +1838,8 @@
             "de": "Zabrze-Museum",
             "hu": "Zabrze Múzeum",
             "ro": "Muzeul Zabrze",
-            "en": "Zabrze Museum"
+            "en": "Zabrze Museum",
+            "pl": "Muzeum Zabrza"
           },
           "coords": [
             18.785,
@@ -1709,7 +1855,8 @@
             "de": "Ein kurzer Spaziergang vom Kirchplatz zum Museum, das die Geschichte der Stadt erzählt.",
             "hu": "Egy rövid séta a templomtértől a múzeumig, amely a város történetét meséli el.",
             "ro": "O scurtă plimbare de la piața bisericii la muzeul care spune povestea orașului.",
-            "en": "A short walk from the church square to the museum that tells the city's story."
+            "en": "A short walk from the church square to the museum that tells the city's story.",
+            "pl": "Krótki spacer z rynku przy kościele do muzeum, które opowiada historię miasta."
           }
         },
         {
@@ -1717,7 +1864,8 @@
             "de": "Bergwerk Guido",
             "hu": "Guido bánya",
             "ro": "Mina Guido",
-            "en": "Guido Mine"
+            "en": "Guido Mine",
+            "pl": "Kopalnia Guido"
           },
           "coords": [
             18.765,
@@ -1733,7 +1881,8 @@
             "de": "Nehmen Sie einen Bus oder eine Straßenbahn. Dies wird Ihr Hauptprogrammpunkt für den Nachmittag sein.",
             "hu": "Menjen busszal vagy villamossal. Ez lesz a délutáni fő programpont.",
             "ro": "Luați un autobuz sau un tramvai. Acesta va fi punctul principal al programului dumneavoastră de după-amiază.",
-            "en": "Take a bus or tram. This will be your main event for the afternoon."
+            "en": "Take a bus or tram. This will be your main event for the afternoon.",
+            "pl": "Dojedź autobusem lub tramwajem. To będzie główna atrakcja popołudnia."
           }
         },
         {
@@ -1741,7 +1890,8 @@
             "de": "Stollen Königin Luise",
             "hu": "Lujza királynő-táró",
             "ro": "Galeria subterană Regina Luiza",
-            "en": "Queen Louise Adit"
+            "en": "Queen Louise Adit",
+            "pl": "Sztolnia Królowa Luiza"
           },
           "coords": [
             18.801,
@@ -1757,7 +1907,8 @@
             "de": "Eine weitere Fahrt mit öffentlichen Verkehrsmitteln bringt Sie zum zweiten großen Industriekomplex des Tages.",
             "hu": "Egy újabb tömegközlekedési út viszi a nap második nagy ipari komplexumához.",
             "ro": "O altă călătorie cu transportul public vă duce la al doilea mare complex industrial al zilei.",
-            "en": "Another transit ride takes you to the second major industrial complex of the day."
+            "en": "Another transit ride takes you to the second major industrial complex of the day.",
+            "pl": "Kolejna przejażdżka transportem zabierze cię do drugiego dużego kompleksu przemysłowego dnia."
           }
         }
       ],
@@ -1765,7 +1916,8 @@
         "de": "Ihre Tour mit öffentlichen Verkehrsmitteln beginnt im Stadtzentrum mit kurzen Spaziergängen zwischen der St.-Andreas-Kirche und dem Zabrze-Museum. Nach diesem kulturellen Einstieg nehmen Sie einen Bus oder eine Straßenbahn zum ersten großen Industrie-Highlight: dem Guido-Bergwerk, wo Sie den größten Teil des Tages verbringen werden. Eine Mittagspause unter Tage ist sehr zu empfehlen. Am Nachmittag bringt Sie eine weitere Fahrt mit den öffentlichen Verkehrsmitteln zum Königin-Luise-Stollen. Dort beenden Sie Ihren Tag mit einer unvergesslichen unterirdischen Bootstour. Diese Route nutzt das öffentliche Verkehrsnetz, um die weit auseinander liegenden Hauptattraktionen effizient zu verbinden.",
         "hu": "Tömegközlekedési túrája a városközpontban kezdődik rövid sétákkal a Szent András-templom és a Zabrze Múzeum között. E kulturális bevezető után busszal vagy villamossal utazik az első nagy ipari látványossághoz: a Guido bányához, ahol a nap nagy részét tölti. Egy földalatti ebédszünet erősen ajánlott. Délután egy újabb tömegközlekedési út viszi a Lujza királynő-táróhoz. Ott egy felejthetetlen földalatti csónaktúrával zárja a napot. Ez az útvonal a tömegközlekedési hálózatot használja a távol eső fő látványosságok hatékony összekötésére.",
         "ro": "Turul dumneavoastră cu transportul public începe în centrul orașului, cu plimbări scurte între Biserica Sf. Andrei și Muzeul Zabrze. După această introducere culturală, luați un autobuz sau un tramvai spre primul punct culminant industrial: Mina Guido, unde veți petrece cea mai mare parte a zilei. O pauză de prânz în subteran este foarte recomandată. După-amiaza, o altă călătorie cu transportul public vă va duce la Galeria subterană Regina Luiza. Acolo, veți încheia ziua cu un tur subteran cu barca de neuitat. Acest traseu utilizează rețeaua de transport public pentru a conecta eficient principalele atracții îndepărtate.",
-        "en": "Your public transport tour begins in the city center with short walks between St. Andrew's Church and the Zabrze Museum. After this cultural introduction, you take a bus or tram to the first major industrial highlight: the Guido Mine, where you will spend most of the day. A lunch break underground is highly recommended. In the afternoon, another transit ride will take you to the Queen Louise Adit. There, you'll end your day with an unforgettable underground boat tour. This route uses the public transport network to efficiently connect the distant main attractions."
+        "en": "Your public transport tour begins in the city center with short walks between St. Andrew's Church and the Zabrze Museum. After this cultural introduction, you take a bus or tram to the first major industrial highlight: the Guido Mine, where you will spend most of the day. A lunch break underground is highly recommended. In the afternoon, another transit ride will take you to the Queen Louise Adit. There, you'll end your day with an unforgettable underground boat tour. This route uses the public transport network to efficiently connect the distant main attractions.",
+        "pl": "Twoja wycieczka transportem publicznym zaczyna się w centrum miasta z krótkimi spacerami między kościołem św. Andrzeja a Muzeum Zabrza. Po tym wprowadzeniu kulturalnym wsiądziesz w autobus lub tramwaj do pierwszego głównego przemysłowego punktu: Kopalni Guido, gdzie spędzisz większość dnia. Przerwa na lunch pod ziemią jest wysoce zalecana. Po południu kolejna przejażdżka transportem zabierze cię do Sztolni Królowa Luiza. Tam zakończysz dzień niezapomnianą podziemną przejażdżką łodzią. Trasa wykorzystuje sieć transportu publicznego, aby sprawnie połączyć odległe główne atrakcje."
       },
       "gastro_picks": {
         "de": [
@@ -1961,6 +2113,12 @@
           "Use a public transport app to check routes and departure times in real-time.",
           "Be aware that buses and trams can be crowded during peak hours. Plan accordingly.",
           "Have some cash on hand for tickets in case the machines don't accept cards."
+        ],
+        "pl": [
+          "Kup bilet całodzienny na transport publiczny, aby móc podróżować bez ograniczeń.",
+          "Użyj aplikacji transportu publicznego, aby sprawdzać trasy i godziny odjazdów w czasie rzeczywistym.",
+          "Pamiętaj, że autobusy i tramwaje mogą być zatłoczone w godzinach szczytu. Planuj odpowiednio.",
+          "Miej przy sobie trochę gotówki na bilety w razie, gdy maszyny nie akceptują kart."
         ]
       },
       "variants": {
@@ -1969,7 +2127,8 @@
             "de": "Starten Sie im Stadtzentrum, wo die Straßenbahnen dichte Intervalle bieten. Mittags besuchen Sie die St.-Andreas-Kirche und das Stadtmuseum, bequem per Tram erreichbar. Am Nachmittag führt die Linie zur Guido-Mine; die Wartezeiten verbringen Sie unter überdachten Haltestellen. Der Tag endet an der Queen-Louise-Stollen, wo der Bus fast direkt vor dem Eingang hält.",
             "hu": "Kezdje a városközpontban, ahol a villamosok sűrűn közlekednek. Délben látogasson el a Szent András-templomhoz és a Városi Múzeumhoz, amelyeket villamossal kényelmesen elérhet. Délután a Guido bányához visz a vonal; a várakozási időt fedett megállókban töltheti. A nap a Louise királynő tárnánál zárul, ahol a busz szinte közvetlenül a bejáratnál áll meg.",
             "ro": "Începeți în centrul orașului, unde tramvaiele au intervale scurte de succedare. La prânz vizitați Biserica Sf. Andrei și Muzeul din Zabrze, ușor accesibile cu tramvaiul. După-amiaza linia vă duce la Mina Guido; petreceți timpul de așteptare în stații acoperite. Ziua se încheie la Galeria Regina Luiza, unde autobuzul oprește aproape direct în fața intrării.",
-            "en": "Start in the city center, where trams run at frequent intervals. At noon, visit St. Andrew's Church and the Zabrze Museum, both easily accessible by tram. In the afternoon, the line takes you to the Guido Mine; spend your waiting time under covered shelters. The day ends at the Queen Louise Adit, where the bus stops almost directly in front of the entrance."
+            "en": "Start in the city center, where trams run at frequent intervals. At noon, visit St. Andrew's Church and the Zabrze Museum, both easily accessible by tram. In the afternoon, the line takes you to the Guido Mine; spend your waiting time under covered shelters. The day ends at the Queen Louise Adit, where the bus stops almost directly in front of the entrance.",
+            "pl": "Zacznij w centrum miasta, gdzie tramwaje kursują często. W południe odwiedź kościół św. Andrzeja i Muzeum Zabrza, obie atrakcje łatwo dostępne tramwajem. Po południu linia zawiezie cię do Kopalni Guido; czas oczekiwania spędź pod zadaszonymi wiatami. Dzień kończy się przy Sztolni Królowa Luiza, gdzie autobus zatrzymuje się niemal bezpośrednio przed wejściem."
           },
           "stops": [
             {
@@ -1978,7 +2137,8 @@
                 "de": "Der zentrale Umsteigepunkt bietet viele überdachte Wartebereiche.",
                 "hu": "A központi átszállópont számos fedett váróterülettel rendelkezik.",
                 "ro": "Punctul central de transfer are multe zone de așteptare acoperite.",
-                "en": "The central transfer point offers many covered waiting areas."
+                "en": "The central transfer point offers many covered waiting areas.",
+                "pl": "Centralny węzeł przesiadkowy oferuje wiele zadaszonych poczekalni."
               }
             },
             {
@@ -1987,7 +2147,8 @@
                 "de": "Die Haltestelle ist nur wenige Meter vom Kircheneingang entfernt.",
                 "hu": "A megálló mindössze néhány méterre van a templom bejáratától.",
                 "ro": "Stația se află la doar câțiva metri de intrarea în biserică.",
-                "en": "The stop is located just a few meters from the church entrance."
+                "en": "The stop is located just a few meters from the church entrance.",
+                "pl": "Przystanek znajduje się zaledwie kilka metrów od wejścia do kościoła."
               }
             },
             {
@@ -1996,7 +2157,8 @@
                 "de": "Nutzen Sie die Zeit im Museum, um sich vor der nächsten Fahrt zu trocknen.",
                 "hu": "Használja ki a múzeumban töltött időt a megszáradáshoz a következő út előtt.",
                 "ro": "Folosiți timpul din muzeu pentru a vă usca înainte de următoarea călătorie.",
-                "en": "Use your time in the museum to dry off before the next transit leg."
+                "en": "Use your time in the museum to dry off before the next transit leg.",
+                "pl": "Wykorzystaj czas w muzeum, by wyschnąć przed kolejnym odcinkiem podróży."
               }
             },
             {
@@ -2005,7 +2167,8 @@
                 "de": "Die Straßenbahn hält direkt vor der Zeche; minimaler Weg im Regen.",
                 "hu": "A villamos közvetlenül a bánya előtt áll meg; minimális séta az esőben.",
                 "ro": "Tramvaiul oprește chiar în fața minei; drum minim prin ploaie.",
-                "en": "The tram stops right in front of the mine; minimal walking in the rain."
+                "en": "The tram stops right in front of the mine; minimal walking in the rain.",
+                "pl": "Tramwaj zatrzymuje się tuż przed kopalnią; minimalne spacery na deszczu."
               }
             },
             {
@@ -2014,7 +2177,8 @@
                 "de": "Busse verkehren regelmäßig; prüfen Sie die App für Echtzeit-Infos.",
                 "hu": "A buszok rendszeresen járnak; ellenőrizze az alkalmazást a valós idejű adatokért.",
                 "ro": "Autobuzele circulă regulat; verificați aplicația pentru informații în timp real.",
-                "en": "Buses run regularly; check the app for real-time information."
+                "en": "Buses run regularly; check the app for real-time information.",
+                "pl": "Autobusy kursują regularnie; sprawdź aplikację dla informacji w czasie rzeczywistym."
               }
             }
           ],
@@ -2046,6 +2210,13 @@
               "The trams are well-heated during autumn and winter.",
               "Use the digital displays at stops for real-time information.",
               "Zabrze has a very compact network, ideal for rainy days."
+            ],
+            "pl": [
+              "Kup bilety wcześniej przez aplikację, aby uniknąć używania biletomatów w deszczu.",
+              "Mokre parasole trzymaj złożone i skierowane w dół wewnątrz pojazdów.",
+              "Tramwaje są dobrze ogrzewane jesienią i zimą.",
+              "Korzystaj z elektronicznych wyświetlaczy na przystankach dla informacji w czasie rzeczywistym.",
+              "Zabrze ma bardzo zwartą sieć, idealną na deszczowe dni."
             ]
           }
         },
@@ -2054,7 +2225,8 @@
             "de": "Ein frostiger Wintertag beginnt am beheizten Knotenpunkt im Stadtzentrum. Mittags bringen Sie die Trams schnell zur St.-Andreas-Kirche und zum Stadtmuseum. Der Nachmittag steht im Zeichen der Guido-Mine, wo die Wärme unter Tage den Frost vergessen lässt. Zum Abschluss bringt Sie der Bus zur Queen-Louise-Stollen, wo Sie den Tag in industrieller Winteratmosphäre beenden.",
             "hu": "A fagyos téli nap a városközpont fűtött csomópontján indul. Délben a villamosok gyorsan eljuttatják a Szent András-templomhoz és a Városi Múzeumhoz. A délután a Guido bányáé, ahol a föld alatti meleg elfeledteti a kinti fagyot. Befejezésül a busz a Louise királynő tárnához viszi, ahol ipari téli hangulatban zárhatja a napot.",
             "ro": "O zi geroasă de iarnă începe la nodul de transport încălzit din centrul orașului. La prânz, tramvaiele vă duc rapid la Biserica Sf. Andrei și la Muzeul din Zabrze. După-amiaza este dedicată Minei Guido, unde căldura din subteran vă face să uitați de ger. La final, autobuzul vă duce la Galeria Regina Luiza, unde încheiați ziua într-o atmosferă industrială de iarnă.",
-            "en": "A frosty winter day starts at the heated transit hub in the city center. At noon, trams take you quickly to St. Andrew's Church and the Zabrze Museum. The afternoon is dedicated to the Guido Mine, where the underground warmth makes you forget the frost. To finish, the bus brings you to the Queen Louise Adit, where you end the day in an industrial winter atmosphere."
+            "en": "A frosty winter day starts at the heated transit hub in the city center. At noon, trams take you quickly to St. Andrew's Church and the Zabrze Museum. The afternoon is dedicated to the Guido Mine, where the underground warmth makes you forget the frost. To finish, the bus brings you to the Queen Louise Adit, where you end the day in an industrial winter atmosphere.",
+            "pl": "Mroźny zimowy dzień zaczyna się w ogrzewanym węźle przesiadkowym w centrum. W południe tramwaje zabierają cię szybko do kościoła św. Andrzeja i Muzeum Zabrza. Popołudnie poświęcone jest Kopalni Guido, gdzie podziemne ciepło pozwala zapomnieć o mrozie. Na koniec autobus zawiezie cię do Sztolni Królowa Luiza, gdzie zakończysz dzień w przemysłowej, zimowej atmosferze."
           },
           "stops": [
             {
@@ -2063,7 +2235,8 @@
                 "de": "Warten Sie in den beheizten Wartehallen oder nahen Cafés auf den Anschluss.",
                 "hu": "Várjon a csatlakozásra a fűtött várótermekben vagy a közeli kávézókban.",
                 "ro": "Așteptați legătura în sălile de așteptare încălzite sau în cafenelele din apropiere.",
-                "en": "Wait for your connection in the heated waiting halls or nearby cafes."
+                "en": "Wait for your connection in the heated waiting halls or nearby cafes.",
+                "pl": "Czekaj na połączenie w ogrzewanych poczekalniach lub pobliskich kawiarniach."
               }
             },
             {
@@ -2072,7 +2245,8 @@
                 "de": "Vorsicht beim Ein- und Aussteigen wegen Schneeanhäufungen an der Bordkante.",
                 "hu": "Vigyázzon a fel- és leszálláskor a padka menti hóbuckák miatt.",
                 "ro": "Atenție la urcare și coborâre din cauza zăpezii acumulate la marginea bordurii.",
-                "en": "Be careful when boarding and disembarking due to snow piles along the curb."
+                "en": "Be careful when boarding and disembarking due to snow piles along the curb.",
+                "pl": "Uważaj podczas wsiadania i wysiadania z powodu kop śniegu przy krawężniku."
               }
             },
             {
@@ -2081,7 +2255,8 @@
                 "de": "Die Haltestelle bietet im Winter oft weniger Windschutz; Schal festziehen.",
                 "hu": "A megálló télen gyakran kevésbé védett a széltől; húzza szorosabbra a sálát.",
                 "ro": "Stația oferă adesea mai puțină protecție împotriva vântului iarna; strângeți fularul.",
-                "en": "The stop often offers less wind protection in winter; tighten your scarf."
+                "en": "The stop often offers less wind protection in winter; tighten your scarf.",
+                "pl": "Przystanek zimą często osłania mniej od wiatru; mocniej zawiąż szalik."
               }
             },
             {
@@ -2090,7 +2265,8 @@
                 "de": "Die Straßenbahn fährt im Winter sehr zuverlässig bis vor das Tor.",
                 "hu": "A villamos télen is nagyon megbízhatóan közlekedik egészen a kapuig.",
                 "ro": "Tramvaiul circulă foarte fiabil iarna până chiar în fața porții.",
-                "en": "The tram runs very reliably even in winter right up to the gate."
+                "en": "The tram runs very reliably even in winter right up to the gate.",
+                "pl": "Tramwaj kursuje bardzo niezawodnie nawet zimą aż pod bramę."
               }
             },
             {
@@ -2099,7 +2275,8 @@
                 "de": "Achten Sie auf den Fahrplan; am Abend können die Intervalle länger sein.",
                 "hu": "Ügyeljen a menetrendre; este a járatok ritkábban közlekedhetnek.",
                 "ro": "Atenție la orar; seara intervalele de succedare pot fi mai lungi.",
-                "en": "Pay attention to the schedule; intervals can be longer in the evening."
+                "en": "Pay attention to the schedule; intervals can be longer in the evening.",
+                "pl": "Zwracaj uwagę na rozkład; odstępy mogą być dłuższe wieczorem."
               }
             }
           ],
@@ -2131,6 +2308,13 @@
               "Wear shoes with non-slip soles for the walks to the stops.",
               "Watch out for modified schedules during the holiday season.",
               "Keep your ticket ready so you don't have to search for it in the cold."
+            ],
+            "pl": [
+              "Korzystaj z aplikacji ZTM dla dokładnych do minuty czasów odjazdów zimą.",
+              "Tramwaje często są najszybszym sposobem ucieczki przed zimnym wiatrem.",
+              "Noś buty z antypoślizgową podeszwą na spacery do przystanków.",
+              "Uważaj na zmienione rozkłady w okresie świątecznym.",
+              "Miej bilet pod ręką, by nie szukać go na mrozie."
             ]
           }
         }

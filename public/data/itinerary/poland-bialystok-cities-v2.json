@@ -21,7 +21,8 @@
             "de": "Planty-Park",
             "hu": "Planty Park",
             "ro": "Parcul Planty",
-            "en": "Planty Park"
+            "en": "Planty Park",
+            "pl": "Planty Park"
           },
           "coords": [
             23.1645,
@@ -37,7 +38,8 @@
             "de": "Beginnen Sie den Tag mit einem erfrischenden Spaziergang und bewundern Sie die Skulptur „Wäscherinnen“.",
             "hu": "Kezdje a napot egy frissítő sétával és csodálja meg a „Mosónők” szoborcsoportot.",
             "ro": "Începeți ziua cu o plimbare revigorantă și admirați sculptura „Spălătoresele”.",
-            "en": "Start your day with a refreshing walk and admire the 'Laundresses' sculpture."
+            "en": "Start your day with a refreshing walk and admire the 'Laundresses' sculpture.",
+            "pl": "Rozpocznij dzień od orzeźwiającego spaceru i podziwiaj rzeźbę „Praczki”."
           }
         },
         {
@@ -45,7 +47,8 @@
             "de": "Branicki-Palast",
             "hu": "Branicki-palota",
             "ro": "Palatul Branicki",
-            "en": "Branicki Palace"
+            "en": "Branicki Palace",
+            "pl": "Pałac Branickich"
           },
           "coords": [
             23.16,
@@ -61,7 +64,8 @@
             "de": "Nehmen Sie sich Zeit für die Gärten; der französische Garten ist besonders beeindruckend.",
             "hu": "Szánjon időt a kertre is; a francia kert különösen lenyűgöző.",
             "ro": "Acordați timp și grădinilor; grădina franceză este deosebit de impresionantă.",
-            "en": "Take time for the gardens; the French garden is particularly impressive."
+            "en": "Take time for the gardens; the French garden is particularly impressive.",
+            "pl": "Poświęć czas na ogrody; szczególnie imponują ogród francuski."
           }
         },
         {
@@ -69,7 +73,8 @@
             "de": "Mariä-Himmelfahrt-Kathedrale",
             "hu": "Mária Mennybemenetele-katedrális",
             "ro": "Catedrala Adormirea Maicii Domnului",
-            "en": "Cathedral Basilica of the Assumption"
+            "en": "Cathedral Basilica of the Assumption",
+            "pl": "Bazylika katedralna Wniebowzięcia Najświętszej Maryi Panny"
           },
           "coords": [
             23.1661,
@@ -85,7 +90,8 @@
             "de": "Achten Sie auf die neugotische Fassade und die prächtigen Buntglasfenster.",
             "hu": "Figyelje meg a neogótikus homlokzatot és a csodálatos ólomüveg ablakokat.",
             "ro": "Observați fațada neogotică și vitraliile splendide.",
-            "en": "Pay attention to the neo-Gothic facade and the magnificent stained glass windows."
+            "en": "Pay attention to the neo-Gothic facade and the magnificent stained glass windows.",
+            "pl": "Zwróć uwagę na neogotycką fasadę i wspaniałe witraże."
           }
         },
         {
@@ -93,7 +99,8 @@
             "de": "Historisches Museum",
             "hu": "Történeti Múzeum",
             "ro": "Muzeul de Istorie",
-            "en": "Historical Museum"
+            "en": "Historical Museum",
+            "pl": "Muzeum Historyczne"
           },
           "coords": [
             23.1648,
@@ -109,7 +116,8 @@
             "de": "Das Modell des barocken Białystok ist ein Muss, um die Stadtentwicklung zu verstehen.",
             "hu": "A barokk Białystok makettje kihagyhatatlan a város fejlődésének megértéséhez.",
             "ro": "Macheta Białystokului baroc este esențială pentru a înțelege dezvoltarea orașului.",
-            "en": "The model of baroque Białystok is a must-see to understand the city's development."
+            "en": "The model of baroque Białystok is a must-see to understand the city's development.",
+            "pl": "Model barokowego Białegostoku to pozycja obowiązkowa, by zrozumieć rozwój miasta."
           }
         },
         {
@@ -117,7 +125,8 @@
             "de": "St.-Nikolaus-Kathedrale",
             "hu": "Szent Miklós-székesegyház",
             "ro": "Catedrala Sfântul Nicolae",
-            "en": "St. Nicholas Cathedral"
+            "en": "St. Nicholas Cathedral",
+            "pl": "Katedra św. Mikołaja"
           },
           "coords": [
             23.1585,
@@ -133,7 +142,8 @@
             "de": "Erleben Sie die spirituelle Atmosphäre dieser wichtigen orthodoxen Kirche.",
             "hu": "Élje át ennek a fontos ortodox templomnak a spirituális atmoszféráját.",
             "ro": "Experimentați atmosfera spirituală a acestei importante biserici ortodoxe.",
-            "en": "Experience the spiritual atmosphere of this important Orthodox church."
+            "en": "Experience the spiritual atmosphere of this important Orthodox church.",
+            "pl": "Poczuj duchową atmosferę tego ważnego kościoła prawosławnego."
           }
         },
         {
@@ -141,7 +151,8 @@
             "de": "Denkmal der Großen Synagoge",
             "hu": "Nagy Zsinagóga Emlékműve",
             "ro": "Monumentul Marii Sinagogi",
-            "en": "Great Synagogue Monument"
+            "en": "Great Synagogue Monument",
+            "pl": "Pomnik Wielkiej Synagogi"
           },
           "coords": [
             23.1599,
@@ -157,7 +168,8 @@
             "de": "Ein Moment der Besinnung an diesem Denkmal für die jüdische Gemeinde von Białystok.",
             "hu": "Egy pillanatnyi megemlékezés a białystoki zsidó közösség emlékművénél.",
             "ro": "Un moment de reculegere la acest monument dedicat comunității evreiești din Białystok.",
-            "en": "A moment of reflection at this monument to Białystok's Jewish community."
+            "en": "A moment of reflection at this monument to Białystok's Jewish community.",
+            "pl": "Chwila zadumy przy pomniku poświęconym żydowskiej społeczności Białegostoku."
           }
         },
         {
@@ -165,7 +177,8 @@
             "de": "Podlasie-Oper und Philharmonie",
             "hu": "Podlasiei Opera és Filharmónia",
             "ro": "Opera și Filarmonica Podlasie",
-            "en": "Podlasie Opera and Philharmonic"
+            "en": "Podlasie Opera and Philharmonic",
+            "pl": "Opera i Filharmonia Podlaska"
           },
           "coords": [
             23.1711,
@@ -181,7 +194,8 @@
             "de": "Bewundern Sie die moderne Architektur und den Dachgarten, auch wenn Sie keine Vorstellung besuchen.",
             "hu": "Csodálja meg a modern építészetet és a tetőkertet, még ha nem is megy előadásra.",
             "ro": "Admirați arhitectura modernă și grădina de pe acoperiș, chiar dacă nu mergeți la un spectacol.",
-            "en": "Admire the modern architecture and the rooftop garden, even if you're not attending a show."
+            "en": "Admire the modern architecture and the rooftop garden, even if you're not attending a show.",
+            "pl": "Podziwiaj nowoczesną architekturę i ogród na dachu, nawet jeśli nie idziesz na przedstawienie."
           }
         }
       ],
@@ -189,7 +203,8 @@
         "de": "Ihr Spaziergang beginnt im grünen Herzen der Stadt, dem Planty-Park. Am Vormittag erkunden Sie das prächtige Branicki-Palais, das „Versailles des Nordens“. Nach dem Mittagessen tauchen Sie in die Geschichte ein, mit Besuchen der Kathedrale und des Historischen Museums, die das reiche Erbe Białystoks offenbaren. Der späte Nachmittag ist der Besinnung gewidmet, an der St.-Nikolaus-Kathedrale und dem Synagogen-Denkmal. Der Tag endet mit einem Blick auf die moderne Kultur im beeindruckenden Opernhaus, ein perfekter Abschluss für einen Tag voller Entdeckungen.",
         "hu": "Sétája a város zöld szívében, a Planty Parkban kezdődik. A délelőttöt a csodálatos Branicki-palota, „Észak Versailles-a” felfedezésével tölti. Ebéd után elmerül a történelemben a katedrális és a Történeti Múzeum meglátogatásával, amelyek feltárják Białystok gazdag örökségét. A késő délután az elmélkedésé a Szent Miklós-székesegyháznál és a zsinagóga emlékművénél. A nap a modern kultúrára vetett pillantással zárul a lenyűgöző operaházban, tökéletes befejezése egy felfedezésekkel teli napnak.",
         "ro": "Plimbarea dvs. începe în inima verde a orașului, Parcul Planty. Dimineața explorați magnificul Palat Branicki, „Versailles-ul Nordului”. După prânz, vă scufundați în istorie cu vizite la catedrală și la Muzeul de Istorie, care dezvăluie bogata moștenire a Białystokului. După-amiaza târziu este dedicată reflecției la Catedrala Sf. Nicolae și la monumentul sinagogii. Ziua se încheie cu o privire asupra culturii moderne la impresionanta clădire a operei, o încheiere perfectă pentru o zi plină de descoperiri.",
-        "en": "Your walking tour begins in the green heart of the city, Planty Park. In the morning, you'll explore the magnificent Branicki Palace, the 'Versailles of the North.' After lunch, you'll dive into history with visits to the cathedral and the Historical Museum, revealing Białystok's rich heritage. The late afternoon is for reflection at St. Nicholas Cathedral and the synagogue monument. The day concludes with a glimpse of modern culture at the impressive opera house, a perfect end to a day of discovery."
+        "en": "Your walking tour begins in the green heart of the city, Planty Park. In the morning, you'll explore the magnificent Branicki Palace, the 'Versailles of the North.' After lunch, you'll dive into history with visits to the cathedral and the Historical Museum, revealing Białystok's rich heritage. The late afternoon is for reflection at St. Nicholas Cathedral and the synagogue monument. The day concludes with a glimpse of modern culture at the impressive opera house, a perfect end to a day of discovery.",
+        "pl": "Twój spacer zaczyna się w zielonym sercu miasta, Parku Planty. Rano zwiedzisz wspaniały Pałac Branickich, „Wersal Północy”. Po lunchu zagłębisz się w historię, odwiedzając katedrę i Muzeum Historyczne, które odkrywają bogate dziedzictwo Białegostoku. Późne popołudnie to chwila zadumy przy katedrze św. Mikołaja i pomniku synagogi. Dzień kończy się spojrzeniem na nowoczesną kulturę w imponującej operze — idealne zakończenie dnia odkryć."
       },
       "gastro_picks": {
         "de": [
@@ -385,6 +400,12 @@
           "Most central sights are easily within walking distance.",
           "Check museum opening times in advance as they can vary.",
           "Some churches may require shoulders and knees to be covered."
+        ],
+        "pl": [
+          "Noś wygodne buty, ponieważ dużo będziesz chodzić.",
+          "Większość centralnych zabytków znajduje się w niewielkiej odległości spaceru.",
+          "Sprawdź godziny otwarcia muzeów z wyprzedzeniem, ponieważ mogą się różnić.",
+          "W niektórych kościołach może być wymóg zasłonięcia ramion i kolan."
         ]
       },
       "variants": {
@@ -393,7 +414,8 @@
             "de": "Ein regnerischer Morgen in den Planty-Gärten lässt die Farben satt leuchten, während der Schirm Schutz bietet. Mittags empfängt Sie der Branicki-Palast mit trockenem, barockem Glanz. Am Nachmittag bieten die Kathedrale und das Historische Museum ideale Zufluchtsorte vor den Schauern. Der Tag endet glanzvoll in der modernen Oper, wo die Lichter der Stadt in den Pfützen auf dem Vorplatz tanzen.",
             "hu": "Az esős délelőtt a Planty park dús zöldjei között indul, esernyő alatt sétálva. Délben a Branicki-palota belső terei nyújtanak menedéket és barokk pompát. Délután a székesegyház és a Történeti Múzeum falai között vészelhetjük át a záporokat. Az este az Operaház modern épületénél ér véget, ahol az utcai lámpák fénye megcsillan a vizes aszfalton.",
             "ro": "O dimineață ploioasă în Parcul Planty face culorile să pară mai vii sub protecția umbrelei. La prânz, Palatul Branicki oferă un refugiu baroc elegant și uscat. După-amiaza, Catedrala și Muzeul de Istorie sunt locuri ideale pentru a evita aversele. Ziua se încheie strălucitor la Operă, unde luminile orașului se reflectă spectaculos în bălțile de pe esplanadă.",
-            "en": "A rainy morning in Planty Park makes the colors pop while you stay dry under an umbrella. At noon, Branicki Palace offers a grand, dry sanctuary of Baroque art. Afternoon showers are best avoided inside the Cathedral and the Historical Museum. The day concludes at the modern Opera, where city lights dance in the puddles on the square."
+            "en": "A rainy morning in Planty Park makes the colors pop while you stay dry under an umbrella. At noon, Branicki Palace offers a grand, dry sanctuary of Baroque art. Afternoon showers are best avoided inside the Cathedral and the Historical Museum. The day concludes at the modern Opera, where city lights dance in the puddles on the square.",
+            "pl": "Deszczowe poranki w Parku Planty wydobywają intensywne kolory, gdy schronisz się pod parasolem. W południe Pałac Branickich oferuje wielkie, suche sanktuarium sztuki barokowej. Popołudniowe przelotne opady najlepiej przeczekać w Katedrze i Muzeum Historycznym. Dzień kończy Opera, gdzie światła miasta tańczą w kałużach na placu."
           },
           "stops": [
             {
@@ -402,7 +424,8 @@
                 "de": "Die Alleen sind asphaltiert, aber Vorsicht vor tiefen Pfützen unter den Bäumen.",
                 "hu": "Az utak aszfaltozottak, de a fák alatt figyeljen a mélyebb tócsákra.",
                 "ro": "Aleile sunt asfaltate, dar atenție la bălțile mari de sub copaci.",
-                "en": "The paths are paved, but watch out for deep puddles under the trees."
+                "en": "The paths are paved, but watch out for deep puddles under the trees.",
+                "pl": "Ścieżki są brukowane, ale uważaj na głębokie kałuże pod drzewami."
               }
             },
             {
@@ -411,7 +434,8 @@
                 "de": "Nutzen Sie die ausführliche Innenführung, um dem Regen länger zu entgehen.",
                 "hu": "Válassza a részletes belső vezetést, hogy hosszabb ideig maradjon fedett helyen.",
                 "ro": "Alegeți turul interior detaliat pentru a sta mai mult timp la adăpost.",
-                "en": "Take the detailed interior tour to stay out of the rain longer."
+                "en": "Take the detailed interior tour to stay out of the rain longer.",
+                "pl": "Weź szczegółową wycieczkę wnętrz, aby dłużej pozostać suchym."
               }
             },
             {
@@ -420,7 +444,8 @@
                 "de": "Ein ruhiger Ort, um den Regen abzuwarten und die Akustik zu genießen.",
                 "hu": "Csendes hely az eső kivárására és az akusztika élvezetére.",
                 "ro": "Un loc liniștit pentru a aștepta oprirea ploii și a savura acustica.",
-                "en": "A quiet place to wait out the rain and enjoy the acoustics."
+                "en": "A quiet place to wait out the rain and enjoy the acoustics.",
+                "pl": "Ciche miejsce, by przeczekać deszcz i pocieszyć się akustyką."
               }
             },
             {
@@ -429,7 +454,8 @@
                 "de": "Die Garderobe ist ideal, um nasse Mäntel und Schirme sicher abzugeben.",
                 "hu": "A ruhatár tökéletes a vizes kabátok és esernyők leadására.",
                 "ro": "Garderoba este ideală pentru a lăsa haina udă și umbrela.",
-                "en": "The cloakroom is perfect for leaving wet coats and umbrellas."
+                "en": "The cloakroom is perfect for leaving wet coats and umbrellas.",
+                "pl": "Szatnia jest idealna, by zostawić mokre płaszcze i parasole."
               }
             },
             {
@@ -438,7 +464,8 @@
                 "de": "Bewundern Sie die Ikonostase, während es draußen stürmt.",
                 "hu": "Csodálja meg az ikonosztázt, miközben kint dörög az ég.",
                 "ro": "Admirați iconostasul în timp ce afară plouă torențial.",
-                "en": "Admire the iconostasis while it storms outside."
+                "en": "Admire the iconostasis while it storms outside.",
+                "pl": "Podziwiaj ikonostas, gdy na zewnątrz szaleje burza."
               }
             },
             {
@@ -447,7 +474,8 @@
                 "de": "Ein kurzer, bewegender Stopp; halten Sie den Schirm fest bei Wind.",
                 "hu": "Rövid, megható megálló; szeles időben tartsa erősen az ernyőt.",
                 "ro": "O oprire scurtă și emoționantă; țineți bine umbrela pe vânt.",
-                "en": "A brief, moving stop; hold your umbrella tight if it is windy."
+                "en": "A brief, moving stop; hold your umbrella tight if it is windy.",
+                "pl": "Krótki, wzruszający przystanek; trzymaj parasol mocno, jeśli jest wietrznie."
               }
             },
             {
@@ -456,7 +484,8 @@
                 "de": "Das moderne Foyer bietet viel Platz zum Trocknen vor der Vorstellung.",
                 "hu": "A modern aula rengeteg helyet kínál a megszárítkozáshoz.",
                 "ro": "Foaierul modern oferă mult spațiu pentru a vă usca înainte de spectacol.",
-                "en": "The modern foyer offers plenty of space to dry off before a show."
+                "en": "The modern foyer offers plenty of space to dry off before a show.",
+                "pl": "Nowoczesne foyer oferuje dużo miejsca, by wyschnąć przed spektaklem."
               }
             }
           ],
@@ -484,6 +513,12 @@
               "Bialystok museums have excellent, heated cloakrooms.",
               "Plan coffee breaks on Lipowa Street to wait out the heavy showers.",
               "Waterproof footwear is essential for the park paths."
+            ],
+            "pl": [
+              "Solidna parasolka jest lepsza na często wietrzne deszcze w Podlasiu.",
+              "Muzea w Białymstoku mają doskonałe, ogrzewane szatnie.",
+              "Planuj przerwy na kawę na ulicy Lipowej, aby przeczekać silne ulewy.",
+              "Wodoodporne obuwie jest niezbędne na ścieżki w parku."
             ]
           }
         },
@@ -492,7 +527,8 @@
             "de": "Bialystok im Winter glänzt unter einer Frostschicht, während der Planty-Park im Morgengrauen erstarrt. Mittags bietet die barocke Pracht des Schlosses einen warmen Kontrast zur Kälte draußen. Da die Sonne bereits um 16:00 Uhr sinkt, leuchten die Kathedralen im blauen Zwielicht besonders mystisch. Der Abend in der Oper bietet den perfekten, beheizten Abschluss eines kalten Erkundungstages.",
             "hu": "A téli Białystok deres pompában tündököl, a Planty park reggelente zúzmarás mesevilággá válik. Délben a kastély barokk termei meleg menedéket nyújtanak a kinti fagy elől. Mivel a nap már délután 4-kor lemegy, a katedrálisok a kék szürkületben különösen misztikusan festenek. Az estét az Operaház fűtött eleganciája zárja le a hideg városnézés után.",
             "ro": "Bialystok în iarnă strălucește sub un strat de promoroacă, parcul devenind un tărâm de basm înghețat. La prânz, interiorul palatului oferă un contrast cald față de gerul de afară. Deoarece soarele apune deja la ora 16:00, catedralele arată mistic în amurgul albastru. Seara la Operă oferă finalul perfect și călduros după o zi de explorare în frig.",
-            "en": "Winter in Bialystok glitters under a layer of frost, with Planty Park turning into a frozen wonderland. At noon, the Palace's Baroque interior provides a warm contrast to the freezing cold. With the sun setting by 4 PM, the cathedrals look mystical in the blue twilight. The evening at the Opera is the perfect heated conclusion to a cold day of exploration."
+            "en": "Winter in Bialystok glitters under a layer of frost, with Planty Park turning into a frozen wonderland. At noon, the Palace's Baroque interior provides a warm contrast to the freezing cold. With the sun setting by 4 PM, the cathedrals look mystical in the blue twilight. The evening at the Opera is the perfect heated conclusion to a cold day of exploration.",
+            "pl": "Zima w Białymstoku mieni się szronem, a Park Planty zamienia się w lodową krainę. W południe barokowe wnętrze Pałacu zapewnia ciepły kontrast do mrozu. Przy zachodzie słońca około 16:00 katedry wyglądają mistycznie w błękitnych zmierzchu. Wieczór w Operze to idealne, ogrzewane zakończenie zimowego dnia zwiedzania."
           },
           "stops": [
             {
@@ -501,7 +537,8 @@
                 "de": "Vorsicht vor vereisten Wegen; die Brunnen sind im Winterschlaf.",
                 "hu": "Vigyázzon a jeges utakra; a szökőkutak téli álmot alszanak.",
                 "ro": "Atenție la aleile înghețate; fântânile sunt închise iarna.",
-                "en": "Watch out for icy paths; the fountains are in winter hibernation."
+                "en": "Watch out for icy paths; the fountains are in winter hibernation.",
+                "pl": "Uważaj na oblodzone ścieżki; fontanny zimą śpią."
               }
             },
             {
@@ -510,7 +547,8 @@
                 "de": "Der Schlossgarten ist im Schnee bezaubernd, aber ziehen Sie sich warm an.",
                 "hu": "A kastélykert gyönyörű a hóban, de öltözzön fel nagyon melegen.",
                 "ro": "Grădina palatului este superbă în zăpadă, dar îmbrăcați-vă gros.",
-                "en": "The palace garden is charming in the snow, but dress very warmly."
+                "en": "The palace garden is charming in the snow, but dress very warmly.",
+                "pl": "Ogród pałacowy jest urokliwy na śniegu, ale ubierz się bardzo ciepło."
               }
             },
             {
@@ -519,7 +557,8 @@
                 "de": "Das Innere ist angenehm temperiert, ideal zum Aufwärmen.",
                 "hu": "A belső tér kellemesen temperált, ideális a felmelegedéshez.",
                 "ro": "Interiorul este temperat plăcut, ideal pentru a vă încălzi.",
-                "en": "The interior is pleasantly tempered, ideal for warming up."
+                "en": "The interior is pleasantly tempered, ideal for warming up.",
+                "pl": "Wnętrze jest przyjemnie ogrzane, idealne do rozgrzania się."
               }
             },
             {
@@ -528,7 +567,8 @@
                 "de": "Besuchen Sie die Ausstellungen, wenn die Kälte draußen am stärksten ist.",
                 "hu": "Látogassa meg a kiállításokat, amikor kint a legnagyobb a fagy.",
                 "ro": "Vizitați expozițiile când gerul de afară este cel mai puternic.",
-                "en": "Visit the exhibits when the cold outside is at its peak."
+                "en": "Visit the exhibits when the cold outside is at its peak.",
+                "pl": "Odwiedź wystawy, gdy na zewnątrz jest największy mróz."
               }
             },
             {
@@ -537,7 +577,8 @@
                 "de": "Die Kerzenlichter im Inneren erzeugen eine wunderbare Wärme.",
                 "hu": "A belső gyertyafények csodálatos melegséget árasztanak.",
                 "ro": "Luminile lumânărilor din interior creează o căldură minunată.",
-                "en": "The candlelight inside creates a wonderful warmth."
+                "en": "The candlelight inside creates a wonderful warmth.",
+                "pl": "Światło świec wewnątrz tworzy wspaniałe ciepło."
               }
             },
             {
@@ -546,7 +587,8 @@
                 "de": "Ein schneller Stopp, da es hier im Winter sehr windanfällig ist.",
                 "hu": "Gyors megálló, mert télen itt nagyon metsző tud lenni a szél.",
                 "ro": "O oprire rapidă, deoarece iarna vântul suflă cu putere aici.",
-                "en": "A quick stop, as it can be very windy here in winter."
+                "en": "A quick stop, as it can be very windy here in winter.",
+                "pl": "Krótki postój, może tu wiać bardzo mocno zimą."
               }
             },
             {
@@ -555,7 +597,8 @@
                 "de": "Genießen Sie die moderne Architektur in wohliger Wärme.",
                 "hu": "Élvezze a modern építészetet kellemes melegben.",
                 "ro": "Bucurați-vă de arhitectura modernă la o temperatură confortabilă.",
-                "en": "Enjoy the modern architecture in cozy warmth."
+                "en": "Enjoy the modern architecture in cozy warmth.",
+                "pl": "Ciesz się nowoczesną architekturą w przytulnym cieple."
               }
             }
           ],
@@ -583,6 +626,12 @@
               "The sun sets around 3:30 PM in December; plan photos early.",
               "Watch out for slushy sections on the sidewalks in the center.",
               "Hot chocolate in the main square cafes is a must-try."
+            ],
+            "pl": [
+              "W Białymstoku może być bardzo zimno; zalecane są termiczne bielizny podstawowe.",
+              "Słońce zachodzi około 15:30 w grudniu; planuj zdjęcia wcześniej.",
+              "Uważaj na błotniste fragmenty chodników w centrum.",
+              "Gorąca czekolada w kawiarniach na głównym rynku to pozycja obowiązkowa."
             ]
           }
         }
@@ -601,7 +650,8 @@
             "de": "Podlasie-Oper und Philharmonie",
             "hu": "Podlasiei Opera és Filharmónia",
             "ro": "Opera și Filarmonica Podlasie",
-            "en": "Podlasie Opera and Philharmonic"
+            "en": "Podlasie Opera and Philharmonic",
+            "pl": "Opera i Filharmonia Podlaska"
           },
           "coords": [
             23.1711,
@@ -617,7 +667,8 @@
             "de": "Starten Sie hier, um die moderne Seite der Stadt zu sehen und den Dachgarten zu genießen.",
             "hu": "Kezdje itt, hogy lássa a város modern oldalát és élvezze a tetőkertet.",
             "ro": "Începeți aici pentru a vedea partea modernă a orașului și a vă bucura de grădina de pe acoperiș.",
-            "en": "Start here to see the city's modern side and enjoy the rooftop garden."
+            "en": "Start here to see the city's modern side and enjoy the rooftop garden.",
+            "pl": "Zacznij tutaj, aby zobaczyć nowoczesną stronę miasta i skorzystać z ogrodu na dachu."
           }
         },
         {
@@ -625,7 +676,8 @@
             "de": "Denkmal der Großen Synagoge",
             "hu": "Nagy Zsinagóga Emlékműve",
             "ro": "Monumentul Marii Sinagogi",
-            "en": "Great Synagogue Monument"
+            "en": "Great Synagogue Monument",
+            "pl": "Pomnik Wielkiej Synagogi"
           },
           "coords": [
             23.1599,
@@ -641,7 +693,8 @@
             "de": "Eine kurze, aber wichtige Pause, um der Geschichte der Stadt zu gedenken.",
             "hu": "Egy rövid, de fontos megálló a város történelmére való emlékezéshez.",
             "ro": "O oprire scurtă, dar importantă pentru a comemora istoria orașului.",
-            "en": "A short but important stop to commemorate the city's history."
+            "en": "A short but important stop to commemorate the city's history.",
+            "pl": "Krótki, ale ważny postój upamiętniający historię miasta."
           }
         },
         {
@@ -649,7 +702,8 @@
             "de": "St.-Nikolaus-Kathedrale",
             "hu": "Szent Miklós-székesegyház",
             "ro": "Catedrala Sfântul Nicolae",
-            "en": "St. Nicholas Cathedral"
+            "en": "St. Nicholas Cathedral",
+            "pl": "Katedra św. Mikołaja"
           },
           "coords": [
             23.1585,
@@ -665,7 +719,8 @@
             "de": "Die goldenen Kuppeln sind schon von weitem ein schöner Anblick.",
             "hu": "Az arany kupolák már messziről is gyönyörű látványt nyújtanak.",
             "ro": "Cupolele aurii sunt o priveliște frumoasă de la distanță.",
-            "en": "The golden domes are a beautiful sight from a distance."
+            "en": "The golden domes are a beautiful sight from a distance.",
+            "pl": "Złote kopuły są pięknym widokiem z daleka."
           }
         },
         {
@@ -673,7 +728,8 @@
             "de": "Historisches Museum",
             "hu": "Történeti Múzeum",
             "ro": "Muzeul de Istorie",
-            "en": "Historical Museum"
+            "en": "Historical Museum",
+            "pl": "Muzeum Historyczne"
           },
           "coords": [
             23.1648,
@@ -689,7 +745,8 @@
             "de": "Perfekt für eine längere Pause, um mehr über die Region zu erfahren.",
             "hu": "Tökéletes egy hosszabb szünetre, hogy többet tudjon meg a régióról.",
             "ro": "Perfect pentru o pauză mai lungă pentru a afla mai multe despre regiune.",
-            "en": "Perfect for a longer break to learn about the region."
+            "en": "Perfect for a longer break to learn about the region.",
+            "pl": "Idealne na dłuższą przerwę, by poznać region."
           }
         },
         {
@@ -697,7 +754,8 @@
             "de": "Mariä-Himmelfahrt-Kathedrale",
             "hu": "Mária Mennybemenetele-katedrális",
             "ro": "Catedrala Adormirea Maicii Domnului",
-            "en": "Cathedral Basilica of the Assumption"
+            "en": "Cathedral Basilica of the Assumption",
+            "pl": "Bazylika archikatedralna Wniebowzięcia Najświętszej Maryi Panny"
           },
           "coords": [
             23.1661,
@@ -713,7 +771,8 @@
             "de": "Der Kontrast zwischen dem alten und dem neuen Teil der Kirche ist faszinierend.",
             "hu": "A templom régi és új része közötti kontraszt lenyűgöző.",
             "ro": "Contrastul dintre partea veche și cea nouă a bisericii este fascinant.",
-            "en": "The contrast between the old and new parts of the church is fascinating."
+            "en": "The contrast between the old and new parts of the church is fascinating.",
+            "pl": "Kontrast między starą a nową częścią kościoła jest fascynujący."
           }
         },
         {
@@ -721,7 +780,8 @@
             "de": "Branicki-Palast",
             "hu": "Branicki-palota",
             "ro": "Palatul Branicki",
-            "en": "Branicki Palace"
+            "en": "Branicki Palace",
+            "pl": "Pałac Branickich"
           },
           "coords": [
             23.16,
@@ -737,7 +797,8 @@
             "de": "Fahren Sie mit dem Rad durch die weitläufigen Gärten, um das ganze Ausmaß zu erfassen.",
             "hu": "Biciklizzen át a tágas kerteken, hogy felmérje a teljes méretét.",
             "ro": "Mergeți cu bicicleta prin grădinile întinse pentru a aprecia întreaga scară.",
-            "en": "Cycle through the expansive gardens to appreciate the full scale."
+            "en": "Cycle through the expansive gardens to appreciate the full scale.",
+            "pl": "Przejedź rowerem przez rozległe ogrody, by docenić ich pełną skalę."
           }
         },
         {
@@ -745,7 +806,8 @@
             "de": "Planty-Park",
             "hu": "Planty Park",
             "ro": "Parcul Planty",
-            "en": "Planty Park"
+            "en": "Planty Park",
+            "pl": "Park Planty"
           },
           "coords": [
             23.1645,
@@ -761,7 +823,8 @@
             "de": "Ein idealer Ort für eine Pause am Nachmittag im Schatten der Bäume.",
             "hu": "Ideális hely egy délutáni pihenőre a fák árnyékában.",
             "ro": "Un loc ideal pentru o pauză de după-amiază la umbra copacilor.",
-            "en": "An ideal spot for an afternoon break in the shade of the trees."
+            "en": "An ideal spot for an afternoon break in the shade of the trees.",
+            "pl": "Idealne miejsce na popołudniowy odpoczynek w cieniu drzew."
           }
         },
         {
@@ -769,7 +832,8 @@
             "de": "Armeemuseum",
             "hu": "Hadtörténeti Múzeum",
             "ro": "Muzeul Armatei",
-            "en": "Army Museum"
+            "en": "Army Museum",
+            "pl": "Muzeum Wojska"
           },
           "coords": [
             23.17,
@@ -785,7 +849,8 @@
             "de": "Ein interessanter Abstecher für Militärgeschichtsfans zum Abschluss der Tour.",
             "hu": "Érdekes kitérő a hadtörténelem rajongóinak a túra végén.",
             "ro": "Un ocol interesant pentru fanii istoriei militare la sfârșitul turului.",
-            "en": "An interesting detour for military history fans to end the tour."
+            "en": "An interesting detour for military history fans to end the tour.",
+            "pl": "Ciekawy wypad dla fanów historii wojskowości na zakończenie wycieczki."
           }
         }
       ],
@@ -793,7 +858,8 @@
         "de": "Ihre Radtour startet am modernen Opernhaus und führt Sie schnell zu historischen Stätten wie dem Synagogen-Denkmal und der orthodoxen Kathedrale. Am Vormittag nehmen Sie sich Zeit für das Historische Museum, um in die Vergangenheit der Region einzutauchen. Gegen Mittag bewundern Sie die imposante Mariä-Himmelfahrt-Kathedrale, bevor Sie zum Höhepunkt des Tages, dem Branicki-Palast, radeln. Der Nachmittag lädt zu einer entspannten Pause im Planty-Park ein. Ein letzter Abstecher zum Armeemuseum rundet Ihren ereignisreichen Tag auf zwei Rädern ab.",
         "hu": "Kerékpártúrája a modern Operaháznál kezdődik, és gyorsan elvezeti Önt olyan történelmi helyszínekhez, mint a Zsinagóga emlékműve és az ortodox katedrális. Délelőtt szánjon időt a Történeti Múzeumra, hogy elmerüljön a régió múltjában. Dél körül megcsodálhatja az impozáns Mária Mennybemenetele-katedrálist, mielőtt a nap fénypontjához, a Branicki-palotához teker. A délután egy pihentető szünetre hív a Planty Parkban. Egy utolsó kitérő a Hadtörténeti Múzeumba teszi teljessé az eseménydús, két keréken töltött napot.",
         "ro": "Turul dvs. cu bicicleta începe la Opera modernă și vă duce rapid la situri istorice precum Monumentul Sinagogii și catedrala ortodoxă. Dimineața, acordați-vă timp pentru Muzeul de Istorie pentru a vă cufunda în trecutul regiunii. În jurul prânzului, admirați impunătoarea Catedrală a Adormirii Maicii Domnului înainte de a pedala spre punctul culminant al zilei, Palatul Branicki. După-amiaza invită la o pauză relaxantă în Parcul Planty. Un ultim ocol la Muzeul Armatei completează ziua dvs. plină de evenimente pe două roți.",
-        "en": "Your bike tour starts at the modern Opera House, quickly leading you to historic sites like the Synagogue Monument and the Orthodox Cathedral. In the morning, take time for the Historical Museum to delve into the region's past. Around noon, admire the imposing Cathedral Basilica before cycling to the day's highlight, the Branicki Palace. The afternoon invites a relaxing break in Planty Park. A final detour to the Army Museum completes your eventful day on two wheels."
+        "en": "Your bike tour starts at the modern Opera House, quickly leading you to historic sites like the Synagogue Monument and the Orthodox Cathedral. In the morning, take time for the Historical Museum to delve into the region's past. Around noon, admire the imposing Cathedral Basilica before cycling to the day's highlight, the Branicki Palace. The afternoon invites a relaxing break in Planty Park. A final detour to the Army Museum completes your eventful day on two wheels.",
+        "pl": "Twoja wycieczka rowerowa zaczyna się przy nowoczesnej Operze, szybko prowadząc do zabytków, takich jak Pomnik Synagogi i katedra prawosławna. Rano poświęć czas Muzeum Historycznemu, by zgłębić przeszłość regionu. W południe podziwiaj potężną Bazylikę, po czym pedałuj do głównej atrakcji dnia — Pałacu Branickich. Popołudnie zaprasza na relaks w Parku Planty. Ostateczny wypad do Muzeum Wojska dopełnia pełnego wrażeń dnia na dwóch kółkach."
       },
       "gastro_picks": {
         "de": [
@@ -989,6 +1055,12 @@
           "Look for bike lanes, but be prepared for roads shared with car traffic.",
           "A lock is essential to secure your bike while sightseeing.",
           "Plan your route in advance to avoid unnecessary hills."
+        ],
+        "pl": [
+          "Korzystaj z miejskich systemów wypożyczania rowerów.",
+          "Szukaj ścieżek rowerowych, ale bądź przygotowany na drogi współdzielone z samochodami.",
+          "Zapięcie jest niezbędne do zabezpieczenia roweru podczas zwiedzania.",
+          "Zaplanuj trasę z wyprzedzeniem, by uniknąć niepotrzebnych podjazdów."
         ]
       },
       "variants": {
@@ -997,7 +1069,8 @@
             "de": "Trotz Regen bietet die Radtour durch Bialystok eine dynamische Perspektive auf die Stadt. Am Vormittag gleiten Sie durch die feuchten Straßen zur Oper und zum Synagogen-Denkmal. Mittags bieten Museen und Kirchen trockene Pausen, während der Palast im Regen besonders majestätisch wirkt. Den Abschluss bildet der Planty-Park, wo die asphaltierten Wege auch bei Nässe gut befahrbar bleiben.",
             "hu": "Az eső ellenére a kerékpártúra dinamikus betekintést nyújt Białystok életébe. Délelőtt a vizes utcákon suhanunk az Operához és a zsinagóga emlékműhöz. Délben a múzeumok és templomok adnak száraz pihenőt, a kastély pedig méltóságteljes az esőben. A napot a Planty park zárja, ahol az aszfaltozott utak esőben is jól tekerhetőek.",
             "ro": "În ciuda ploii, turul cu bicicleta oferă o perspectivă dinamică asupra orașului. Dimineața pedalați pe străzile umede spre Operă și Monumentul Sinagogii. La prânz, muzeele și bisericile oferă pauze uscate, iar palatul arată maiestuos în ploaie. Finalul are loc în Parcul Planty, unde aleile asfaltate rămân practicabile.",
-            "en": "Despite the rain, cycling through Bialystok offers a dynamic perspective on the city. In the morning, glide through wet streets to the Opera and Synagogue Monument. At noon, museums and churches offer dry breaks, while the Palace looks majestic in the rain. The day ends in Planty Park, where paved paths remain rideable even when wet."
+            "en": "Despite the rain, cycling through Bialystok offers a dynamic perspective on the city. In the morning, glide through wet streets to the Opera and Synagogue Monument. At noon, museums and churches offer dry breaks, while the Palace looks majestic in the rain. The day ends in Planty Park, where paved paths remain rideable even when wet.",
+            "pl": "Pomimo deszczu, jazda rowerem po Białymstoku daje dynamiczną perspektywę miasta. Rano przemieszczaj się mokrymi ulicami do Opery i Pomnika Synagogi. W południe muzea i kościoły oferują suche przystanki, a Pałac wygląda majestatycznie w deszczu. Dzień kończy się w Parku Planty, gdzie utwardzone ścieżki są przejezdne nawet gdy mokro."
           },
           "stops": [
             {
@@ -1006,7 +1079,8 @@
                 "de": "Überdachte Fahrradständer befinden sich in der Nähe des Haupteingangs.",
                 "hu": "Fedett kerékpártárolók találhatók a főbejárat közelében.",
                 "ro": "Rafturi de biciclete acoperite se află lângă intrarea principală.",
-                "en": "Covered bike racks are located near the main entrance."
+                "en": "Covered bike racks are located near the main entrance.",
+                "pl": "Zadaszone stojaki rowerowe znajdują się przy głównym wejściu."
               }
             },
             {
@@ -1015,7 +1089,8 @@
                 "de": "Kurzer Stopp; achten Sie auf rutschiges Kopfsteinpflaster in der Nähe.",
                 "hu": "Rövid megálló; ügyeljen a közeli csúszós macskakövekre.",
                 "ro": "Oprire scurtă; atenție la pavajul umed și alunecos din apropiere.",
-                "en": "Short stop; watch out for slippery cobblestones nearby."
+                "en": "Short stop; watch out for slippery cobblestones nearby.",
+                "pl": "Krótki postój; uważaj na śliskie kostki brukowe w pobliżu."
               }
             },
             {
@@ -1024,7 +1099,8 @@
                 "de": "Stellen Sie das Rad sicher ab; der Boden am Kircheneingang ist griffig.",
                 "hu": "Parkoljon biztonságosan; a templombejáratnál a talaj nem csúszik.",
                 "ro": "Parcați în siguranță; solul de la intrarea în biserică are aderență bună.",
-                "en": "Park safely; the ground at the church entrance has good grip."
+                "en": "Park safely; the ground at the church entrance has good grip.",
+                "pl": "Parkuj bezpiecznie; teren przy wejściu do kościoła ma dobrą przyczepność."
               }
             },
             {
@@ -1033,7 +1109,8 @@
                 "de": "Perfekt für eine längere Pause, um Kleidung und Sattel zu trocknen.",
                 "hu": "Tökéletes egy hosszabb szünetre, hogy megszáradjon a ruha és a nyereg.",
                 "ro": "Perfect pentru o pauză lungă pentru a usca hainele și șaua.",
-                "en": "Perfect for a longer break to dry your clothes and saddle."
+                "en": "Perfect for a longer break to dry your clothes and saddle.",
+                "pl": "Idealne na dłuższą przerwę, by wysuszyć ubrania i siodło."
               }
             },
             {
@@ -1042,7 +1119,8 @@
                 "de": "Nutzen Sie die Zeit im Inneren für eine Regenpause.",
                 "hu": "Használja ki a belső teret egy esőszünetre.",
                 "ro": "Folosiți timpul în interior pentru o pauză de ploaie.",
-                "en": "Use the time inside for a rain break."
+                "en": "Use the time inside for a rain break.",
+                "pl": "Wykorzystaj czas wewnątrz na przerwę od deszczu."
               }
             },
             {
@@ -1051,7 +1129,8 @@
                 "de": "Fahren Sie vorsichtig auf den Kieswegen im Garten bei Nässe.",
                 "hu": "Vizes időben óvatosan hajtson a kert kavicsos útjain.",
                 "ro": "Pedalați cu atenție pe aleile cu pietriș din grădină când sunt ude.",
-                "en": "Ride carefully on the gravel paths in the garden when wet."
+                "en": "Ride carefully on the gravel paths in the garden when wet.",
+                "pl": "Jazda po żwirowych ścieżkach w ogrodzie wymaga ostrożności, gdy są mokre."
               }
             },
             {
@@ -1060,7 +1139,8 @@
                 "de": "Die Wege sind breit, aber achten Sie auf Fußgänger mit Schirmen.",
                 "hu": "Az utak szélesek, de figyeljen az ernyős gyalogosokra.",
                 "ro": "Aleile sunt late, dar atenție la pietonii cu umbrele.",
-                "en": "The paths are wide, but watch out for pedestrians with umbrellas."
+                "en": "The paths are wide, but watch out for pedestrians with umbrellas.",
+                "pl": "Ścieżki są szerokie, ale uważaj na pieszych z parasolami."
               }
             },
             {
@@ -1069,7 +1149,8 @@
                 "de": "Ein schneller Check-in am Ende; das Gebäude bietet Schutz.",
                 "hu": "Gyors bejelentkezés a végén; az épület védelmet nyújt.",
                 "ro": "O scurtă oprire la final; clădirea oferă adăpost.",
-                "en": "A quick check-in at the end; the building offers shelter."
+                "en": "A quick check-in at the end; the building offers shelter.",
+                "pl": "Szybkie meldowanie na koniec; budynek zapewnia schronienie."
               }
             }
           ],
@@ -1097,6 +1178,12 @@
               "Watch out for tram tracks, which are extremely slippery in the rain.",
               "Waterproof panniers will protect your camera and valuables.",
               "Brake early, as braking distance is longer on wet asphalt."
+            ],
+            "pl": [
+              "Używaj pokrowca na siodełko, żeby zawsze siadać na suchej powierzchni.",
+              "Uważaj na tory tramwajowe, które są niezwykle śliskie w deszczu.",
+              "Wodoodporne sakwy ochronią aparat i cenne przedmioty.",
+              "Hamuj wcześniej, bo droga hamowania jest dłuższa na mokrym asfalcie."
             ]
           }
         },
@@ -1105,7 +1192,8 @@
             "de": "Radfahren im winterlichen Bialystok erfordert warme Schichten, belohnt aber mit glitzernden Aussichten. Der Vormittag führt Sie durch die klare Luft zur Oper. Mittags wärmen Sie sich in den Museen und Kathedralen auf, bevor Sie das Branicki-Schloss im weißen Kleid besuchen. Da es früh dunkel wird, endet die Tour im beleuchteten Planty-Park, wo die Winterbeleuchtung für eine magische Stimmung sorgt.",
             "hu": "A téli kerékpározás Białystokban réteges öltözetet igényel, de csillogó látvánnyal jutalmaz. A délelőtt a friss levegőn vezet az Operához. Napközben a múzeumokban és katedrálisokban melegedhetünk fel, mielőtt meglátogatjuk a havas Branicki-kastélyt. Mivel korán sötétedik, a túra a kivilágított Planty parkban ér véget, ahol a fények mágikus hangulatot árasztanak.",
             "ro": "Mersul cu bicicleta iarna în Bialystok necesită haine groase, dar oferă peisaje sclipitoare. Dimineața vă poartă prin aerul rece spre Operă. La prânz vă încălziți în muzee și catedrale înainte de a vedea palatul sub zăpadă. Deoarece se întunecă devreme, turul se încheie în Parcul Planty iluminat, unde atmosfera devine magică.",
-            "en": "Cycling in winter Bialystok requires warm layers but rewards you with glittering views. The morning takes you through crisp air to the Opera. Midday is spent warming up in museums and cathedrals before visiting the snowy Branicki Palace. As it gets dark early, the tour ends in the illuminated Planty Park, where winter lights create a magical mood."
+            "en": "Cycling in winter Bialystok requires warm layers but rewards you with glittering views. The morning takes you through crisp air to the Opera. Midday is spent warming up in museums and cathedrals before visiting the snowy Branicki Palace. As it gets dark early, the tour ends in the illuminated Planty Park, where winter lights create a magical mood.",
+            "pl": "Jazda rowerem zimą po Białymstoku wymaga ciepłych warstw, ale nagradza olśniewającymi widokami. Rano przemierzasz rześkie powietrze do Opery. W południe ogrzewasz się w muzeach i katedrach przed wizytą w zaśnieżonym Pałacu Branickich. Ponieważ szybko robi się ciemno, trasa kończy się w oświetlonym Parku Planty, gdzie zimowe iluminacje tworzą magiczny nastrój."
           },
           "stops": [
             {
@@ -1114,7 +1202,8 @@
                 "de": "Vermeiden Sie hastiges Fahren auf dem eventuell glatten Vorplatz.",
                 "hu": "Kerülje a hirtelen mozdulatokat az esetleg csúszós előtéren.",
                 "ro": "Evitați manevrele bruște pe esplanada care poate fi alunecoasă.",
-                "en": "Avoid sudden movements on the potentially slippery forecourt."
+                "en": "Avoid sudden movements on the potentially slippery forecourt.",
+                "pl": "Unikaj gwałtownych ruchów na potencjalnie śliskim placu przed wejściem."
               }
             },
             {
@@ -1123,7 +1212,8 @@
                 "de": "Ein frostiger Stopp; halten Sie Ihre Handschuhe griffbereit.",
                 "hu": "Jeges megálló; tartsa kéznél a kesztyűjét.",
                 "ro": "O oprire geroasă; păstrați-vă mănușile la îndemână.",
-                "en": "A frosty stop; keep your gloves handy."
+                "en": "A frosty stop; keep your gloves handy.",
+                "pl": "Mroźny postój; miej pod ręką rękawiczki."
               }
             },
             {
@@ -1132,7 +1222,8 @@
                 "de": "Parken Sie auf geräumten Flächen, um ein Umkippen zu vermeiden.",
                 "hu": "Parkoljon letakarított területen, hogy elkerülje a felborulást.",
                 "ro": "Parcați pe suprafețe curățate de zăpadă pentru a evita răsturnarea.",
-                "en": "Park on cleared surfaces to prevent the bike from tipping over."
+                "en": "Park on cleared surfaces to prevent the bike from tipping over.",
+                "pl": "Parkuj na oczyszczonych powierzchniach, aby zapobiec przewróceniu się roweru."
               }
             },
             {
@@ -1141,7 +1232,8 @@
                 "de": "Nutzen Sie den Museumsbesuch als Aufwärmpause für Hände und Füße.",
                 "hu": "Használja a múzeumi látogatást kéz- és lábmelegítő szünetnek.",
                 "ro": "Folosiți vizita la muzeu ca pauză de încălzire pentru mâini și picioare.",
-                "en": "Use the museum visit as a warm-up break for hands and feet."
+                "en": "Use the museum visit as a warm-up break for hands and feet.",
+                "pl": "Wykorzystaj wizytę w muzeum jako rozgrzewkę dla rąk i stóp."
               }
             },
             {
@@ -1150,7 +1242,8 @@
                 "de": "Achten Sie beim Absteigen auf Glatteis vor den Stufen.",
                 "hu": "Leszálláskor ügyeljen a lépcsők előtti jegesedésre.",
                 "ro": "Atenție la gheața din fața treptelor când coborâți de pe bicicletă.",
-                "en": "Watch out for black ice in front of the steps when dismounting."
+                "en": "Watch out for black ice in front of the steps when dismounting.",
+                "pl": "Uważaj na czarny lód przed stopniami przy zsiadaniu z roweru."
               }
             },
             {
@@ -1159,7 +1252,8 @@
                 "de": "Kopfsteinpflaster im Hof kann unter Schnee tückisch sein.",
                 "hu": "Az udvari macskakő a hó alatt csalóka lehet.",
                 "ro": "Pavajul din curte poate fi înșelător sub zăpadă.",
-                "en": "Cobblestones in the courtyard can be treacherous under snow."
+                "en": "Cobblestones in the courtyard can be treacherous under snow.",
+                "pl": "Kostka brukowa na dziedzińcu może być zdradliwa pod śniegiem."
               }
             },
             {
@@ -1168,7 +1262,8 @@
                 "de": "Fahren Sie nur auf geräumten Hauptwegen; Licht einschalten!",
                 "hu": "Csak a letakarított főutakon haladjon; kapcsolja be a lámpát!",
                 "ro": "Circulați doar pe aleile principale deszăpezite; aprindeți luminile!",
-                "en": "Ride only on cleared main paths; turn on your lights!"
+                "en": "Ride only on cleared main paths; turn on your lights!",
+                "pl": "Jedź tylko po odśnieżonych głównych ścieżkach; włącz światła!"
               }
             },
             {
@@ -1177,7 +1272,8 @@
                 "de": "Das Metall der Fahrradständer ist sehr kalt; Handschuhe anlassen.",
                 "hu": "A kerékpártárolók fémvázai nagyon hidegek; ne vegye le a kesztyűt.",
                 "ro": "Metalul rafturilor este foarte rece; nu vă scoateți mănușile.",
-                "en": "The metal of the bike racks is very cold; keep your gloves on."
+                "en": "The metal of the bike racks is very cold; keep your gloves on.",
+                "pl": "Metal stojaków rowerowych jest bardzo zimny; trzymaj rękawiczki na dłoniach."
               }
             }
           ],
@@ -1205,6 +1301,12 @@
               "A bright headlight is mandatory as it starts getting dark at 3:30 PM.",
               "Protect your joints from the cold wind while riding.",
               "Clean the salt off the chain after the tour to prevent corrosion."
+            ],
+            "pl": [
+              "Sprawdź ciśnienie w oponach; nieco niższe ciśnienie daje lepszą przyczepność na śniegu.",
+              "Jasne przednie światło jest obowiązkowe, bo robi się ciemno już około 15:30.",
+              "Chroń stawy przed zimnym wiatrem podczas jazdy.",
+              "Po wycieczce oczyść łańcuch z soli, aby zapobiec korozji."
             ]
           }
         }
@@ -1223,7 +1325,8 @@
             "de": "Podlasie-Oper und Philharmonie",
             "hu": "Podlasiei Opera és Filharmónia",
             "ro": "Opera și Filarmonica Podlasie",
-            "en": "Podlasie Opera and Philharmonic"
+            "en": "Podlasie Opera and Philharmonic",
+            "pl": "Opera i Filharmonia Podlaska"
           },
           "coords": [
             23.1711,
@@ -1239,7 +1342,8 @@
             "de": "Parken Sie in der Nähe. Von hier aus beginnt Ihr erster Spaziergang.",
             "hu": "Parkoljon a közelben. Innen indul az első séta.",
             "ro": "Parcați în apropiere. Prima dvs. plimbare pe jos începe de aici.",
-            "en": "Park nearby. Your first walking cluster starts from here."
+            "en": "Park nearby. Your first walking cluster starts from here.",
+            "pl": "Zaparkuj w pobliżu. Stąd zaczyna się pierwszy obszar do zwiedzania pieszo."
           }
         },
         {
@@ -1247,7 +1351,8 @@
             "de": "Armeemuseum",
             "hu": "Hadtörténeti Múzeum",
             "ro": "Muzeul Armatei",
-            "en": "Army Museum"
+            "en": "Army Museum",
+            "pl": "Muzeum Wojska"
           },
           "coords": [
             23.17,
@@ -1263,7 +1368,8 @@
             "de": "Ein kurzer Spaziergang vom Opernhaus. Faszinierende Ausstellungen für Geschichtsinteressierte.",
             "hu": "Rövid séta az Operaháztól. Lenyűgöző kiállítások a történelem iránt érdeklődőknek.",
             "ro": "La o scurtă plimbare de Operă. Expoziții fascinante pentru pasionații de istorie.",
-            "en": "A short walk from the Opera. Fascinating exhibits for history buffs."
+            "en": "A short walk from the Opera. Fascinating exhibits for history buffs.",
+            "pl": "Krótki spacer od Opery. Fascynujące eksponaty dla miłośników historii."
           }
         },
         {
@@ -1271,7 +1377,8 @@
             "de": "St.-Nikolaus-Kathedrale",
             "hu": "Szent Miklós-székesegyház",
             "ro": "Catedrala Sfântul Nicolae",
-            "en": "St. Nicholas Cathedral"
+            "en": "St. Nicholas Cathedral",
+            "pl": "Katedra św. Mikołaja"
           },
           "coords": [
             23.1585,
@@ -1287,7 +1394,8 @@
             "de": "Fahren Sie zum nächsten Cluster. Suchen Sie einen Parkplatz für die nächste Erkundung zu Fuß.",
             "hu": "Vezessen a következő csoporthoz. Keressen parkolót a következő gyalogos felfedezéshez.",
             "ro": "Conduceți spre următorul cluster. Găsiți un loc de parcare pentru următoarea explorare pe jos.",
-            "en": "Drive to the next cluster. Find a parking spot for the next walking exploration."
+            "en": "Drive to the next cluster. Find a parking spot for the next walking exploration.",
+            "pl": "Jedź samochodem do następnego obszaru. Znajdź miejsce parkingowe na kolejną pieszą eksplorację."
           }
         },
         {
@@ -1295,7 +1403,8 @@
             "de": "Historisches Museum",
             "hu": "Történeti Múzeum",
             "ro": "Muzeul de Istorie",
-            "en": "Historical Museum"
+            "en": "Historical Museum",
+            "pl": "Muzeum Historyczne"
           },
           "coords": [
             23.1648,
@@ -1311,7 +1420,8 @@
             "de": "Vom orthodoxen Dom aus leicht zu Fuß erreichbar. Ideal für die Mittagszeit.",
             "hu": "Könnyen elérhető gyalog az ortodox székesegyháztól. Ideális ebédidőben.",
             "ro": "Ușor de ajuns pe jos de la catedrala ortodoxă. Ideal pentru ora prânzului.",
-            "en": "An easy walk from the Orthodox Cathedral. Ideal for the midday hours."
+            "en": "An easy walk from the Orthodox Cathedral. Ideal for the midday hours.",
+            "pl": "Łatwy spacer od katedry prawosławnej. Idealne na godziny południowe."
           }
         },
         {
@@ -1319,7 +1429,8 @@
             "de": "Denkmal der Großen Synagoge",
             "hu": "Nagy Zsinagóga Emlékműve",
             "ro": "Monumentul Marii Sinagogi",
-            "en": "Great Synagogue Monument"
+            "en": "Great Synagogue Monument",
+            "pl": "Pomnik Wielkiej Synagogi"
           },
           "coords": [
             23.1599,
@@ -1335,7 +1446,8 @@
             "de": "Ein kurzer, nachdenklicher Spaziergang vom Museum aus.",
             "hu": "Egy rövid, elgondolkodtató séta a múzeumtól.",
             "ro": "O scurtă plimbare reflexivă de la muzeu.",
-            "en": "A short, reflective walk from the museum."
+            "en": "A short, reflective walk from the museum.",
+            "pl": "Krótki, refleksyjny spacer od muzeum."
           }
         },
         {
@@ -1343,7 +1455,8 @@
             "de": "Branicki-Palast",
             "hu": "Branicki-palota",
             "ro": "Palatul Branicki",
-            "en": "Branicki Palace"
+            "en": "Branicki Palace",
+            "pl": "Pałac Branickich"
           },
           "coords": [
             23.16,
@@ -1359,7 +1472,8 @@
             "de": "Der Höhepunkt des Tages. Parken Sie und nehmen Sie sich Zeit für das Schloss und die Gärten.",
             "hu": "A nap fénypontja. Parkoljon le és szánjon időt a kastélyra és a kertekre.",
             "ro": "Punctul culminant al zilei. Parcați și acordați-vă timp pentru palat și grădini.",
-            "en": "The highlight of the day. Park and take your time for the palace and the gardens."
+            "en": "The highlight of the day. Park and take your time for the palace and the gardens.",
+            "pl": "Główna atrakcja dnia. Zaparkuj i poświęć czas na pałac i ogrody."
           }
         },
         {
@@ -1367,7 +1481,8 @@
             "de": "Planty-Park",
             "hu": "Planty Park",
             "ro": "Parcul Planty",
-            "en": "Planty Park"
+            "en": "Planty Park",
+            "pl": "Park Planty"
           },
           "coords": [
             23.1645,
@@ -1383,7 +1498,8 @@
             "de": "Ein entspannender Spaziergang zum Abschluss des Tages, direkt neben dem Palast.",
             "hu": "Egy pihentető séta a nap végén, közvetlenül a palota mellett.",
             "ro": "O plimbare relaxantă pentru a încheia ziua, chiar lângă palat.",
-            "en": "A relaxing walk to end the day, right next to the palace."
+            "en": "A relaxing walk to end the day, right next to the palace.",
+            "pl": "Relaksujący spacer na zakończenie dnia, tuż obok pałacu."
           }
         }
       ],
@@ -1391,7 +1507,8 @@
         "de": "Ihre Autotour nutzt Cluster-Walking: Fahren Sie zu einem Bereich und erkunden Sie ihn zu Fuß. Starten Sie am Opernhaus (Cluster 1) und spazieren Sie zum Armeemuseum. Fahren Sie dann zum zweiten Cluster, wo Sie die orthodoxe Kathedrale, das Historische Museum und das Synagogen-Denkmal zu Fuß erkunden. Der Nachmittag ist für den prächtigen Branicki-Palast reserviert (Cluster 3). Nach der Erkundung des Palastes und seiner Gärten beenden Sie den Tag mit einem entspannten Spaziergang durch den angrenzenden Planty-Park. Diese Methode kombiniert den Komfort des Autos mit dem Vergnügen des Entdeckens zu Fuß.",
         "hu": "Autós túrája a „cluster-walking” módszert alkalmazza: vezessen egy területre, majd fedezze fel gyalog. Kezdjen az Operaháznál (1. csoport), és sétáljon el a Hadtörténeti Múzeumba. Ezután vezessen a második csoporthoz, ahol gyalogosan fedezi fel az ortodox katedrálist, a Történeti Múzeumot és a Zsinagóga emlékművét. A délután a csodálatos Branicki-palotának van szentelve (3. csoport). A palota és kertjeinek felfedezése után a napot egy pihentető sétával zárja a szomszédos Planty Parkban. Ez a módszer ötvözi az autó kényelmét a gyalogos felfedezés örömével.",
         "ro": "Turul dvs. cu mașina folosește metoda „cluster-walking”: conduceți într-o zonă, apoi explorați-o pe jos. Începeți la Operă (clusterul 1) și plimbați-vă la Muzeul Armatei. Apoi conduceți la al doilea cluster, unde explorați pe jos Catedrala Ortodoxă, Muzeul de Istorie și Monumentul Sinagogii. După-amiaza este rezervată magnificului Palat Branicki (clusterul 3). După explorarea palatului și a grădinilor sale, încheiați ziua cu o plimbare relaxantă prin Parcul Planty adiacent. Această metodă combină confortul mașinii cu plăcerea explorării pe jos.",
-        "en": "Your car tour uses 'cluster-walking': drive to an area, then explore on foot. Start at the Opera House (cluster 1) and walk to the Army Museum. Then, drive to the second cluster to explore the Orthodox Cathedral, Historical Museum, and Synagogue Monument on foot. The afternoon is reserved for the magnificent Branicki Palace (cluster 3). After exploring the palace and its gardens, end your day with a relaxing stroll through the adjacent Planty Park. This method combines the convenience of a car with the joy of discovery on foot."
+        "en": "Your car tour uses 'cluster-walking': drive to an area, then explore on foot. Start at the Opera House (cluster 1) and walk to the Army Museum. Then, drive to the second cluster to explore the Orthodox Cathedral, Historical Museum, and Synagogue Monument on foot. The afternoon is reserved for the magnificent Branicki Palace (cluster 3). After exploring the palace and its gardens, end your day with a relaxing stroll through the adjacent Planty Park. This method combines the convenience of a car with the joy of discovery on foot.",
+        "pl": "Twoja wycieczka samochodowa używa „cluster-walking”: jedź do obszaru, a potem zwiedzaj pieszo. Zacznij przy Operze (klaster 1) i idź do Muzeum Wojska. Następnie jedź do drugiego klastra, aby pieszo zwiedzić katedrę prawosławną, Muzeum Historyczne i Pomnik Synagogi. Popołudnie zarezerwuj na wspaniały Pałac Branickich (klaster 3). Po zwiedzaniu pałacu i ogrodów zakończ dzień relaksującym spacerem po przylegającym Parku Planty. Ta metoda łączy wygodę samochodu z radością odkrywania pieszo."
       },
       "gastro_picks": {
         "de": [
@@ -1587,6 +1704,12 @@
           "Factor parking costs into your budget.",
           "Avoid driving in the center during rush hours.",
           "A GPS is helpful for navigating the city."
+        ],
+        "pl": [
+          "Szukaj strzeżonych lub wyznaczonych parkingów, szczególnie w centrum miasta.",
+          "Uwzględnij koszty parkowania w budżecie.",
+          "Unikaj jazdy w centrum w godzinach szczytu.",
+          "GPS jest pomocny w nawigacji po mieście."
         ]
       },
       "variants": {
@@ -1595,7 +1718,8 @@
             "de": "Mit dem Auto erkunden Sie Bialystok komfortabel und trocken, egal wie stark der Regen prasselt. Der Vormittag beginnt an der Oper und dem Armeemuseum, wo nahegelegene Parkplätze kurze Wege garantieren. Mittags steuern Sie die Kathedralen und das Historische Museum an. Der Palastbesuch wird durch den Komfort des Fahrzeugs ergänzt, bevor der Tag am Planty-Park bei einem kurzen Spaziergang im Regen ausklingt.",
             "hu": "Autóval kényelmesen és szárazon fedezheti fel Białystokot, bármilyen erősen is esik az eső. A délelőtt az Operánál és a Hadtörténeti Múzeumnál indul, ahol a közeli parkolók rövid sétát garantálnak. Délben a katedrálisok és a Történeti Múzeum következik. A kastélylátogatást az autó kényelme egészíti ki, majd a nap a Planty parknál egy rövid esős sétával zárul.",
             "ro": "Cu mașina explorați Bialystok confortabil și uscat, indiferent cât de tare plouă. Dimineața începe la Operă și Muzeul Armatei, unde parcările apropiate garantează drumuri scurte. La prânz vizitați catedralele și Muzeul de Istorie. Vizita la palat este completată de confortul vehiculului, înainte ca ziua să se încheie la Parcul Planty cu o scurtă plimbare.",
-            "en": "By car, you explore Bialystok comfortably and dry, no matter how hard the rain falls. The morning begins at the Opera and Army Museum, where nearby parking guarantees short walks. At noon, head to the cathedrals and the Historical Museum. The palace visit is complemented by the vehicle's comfort before the day ends at Planty Park with a short rainy stroll."
+            "en": "By car, you explore Bialystok comfortably and dry, no matter how hard the rain falls. The morning begins at the Opera and Army Museum, where nearby parking guarantees short walks. At noon, head to the cathedrals and the Historical Museum. The palace visit is complemented by the vehicle's comfort before the day ends at Planty Park with a short rainy stroll.",
+            "pl": "Samochodem zwiedzasz Białystok wygodnie i sucho, niezależnie od ulewy. Rano zaczynasz przy Operze i Muzeum Wojska, gdzie pobliski parking gwarantuje krótkie spacery. W południe udaj się do katedr i Muzeum Historycznego. Wizyta w pałacu zyskuje komfort pojazdu, a dzień kończy się krótkim, deszczowym spacerem po Parku Planty."
           },
           "stops": [
             {
@@ -1604,7 +1728,8 @@
                 "de": "Nutzen Sie das Parkhaus der Oper für einen komplett trockenen Zugang.",
                 "hu": "Használja az Opera parkolóházát a teljesen száraz bejutáshoz.",
                 "ro": "Folosiți parcarea subterană a operei pentru un acces complet uscat.",
-                "en": "Use the opera's parking garage for a completely dry entry."
+                "en": "Use the opera's parking garage for a completely dry entry.",
+                "pl": "Skorzystaj z parkingu podziemnego Opery, aby wejść całkowicie suchą drogą."
               }
             },
             {
@@ -1613,7 +1738,8 @@
                 "de": "Parkplätze direkt vor dem Eingang sparen den Weg im Regen.",
                 "hu": "A közvetlenül a bejárat előtti parkolók megspórolják az esőben gyaloglást.",
                 "ro": "Parcările chiar în fața intrării vă scutesc de mersul prin ploaie.",
-                "en": "Parking spots right in front of the entrance save you from walking in rain."
+                "en": "Parking spots right in front of the entrance save you from walking in rain.",
+                "pl": "Miejsca parkingowe tuż przed wejściem oszczędzą Ci spaceru w deszczu."
               }
             },
             {
@@ -1622,7 +1748,8 @@
                 "de": "In den umliegenden Straßen gibt es oft Kurzzeitparkplätze.",
                 "hu": "A környező utcákban gyakran találni rövid távú parkolóhelyet.",
                 "ro": "Pe străzile din jur se găsesc adesea locuri de parcare pe termen scurt.",
-                "en": "There are often short-term parking spots in the surrounding streets."
+                "en": "There are often short-term parking spots in the surrounding streets.",
+                "pl": "W okolicznych ulicach często są krótkoterminowe miejsca parkingowe."
               }
             },
             {
@@ -1631,7 +1758,8 @@
                 "de": "Parken Sie in der Warszawska-Straße; achten Sie auf Einbahnstraßen.",
                 "hu": "Parkoljon a Warszawska utcában; ügyeljen az egyirányú forgalomra.",
                 "ro": "Parcați pe strada Warszawska; atenție la sensurile unice.",
-                "en": "Park on Warszawska Street; watch out for one-way streets."
+                "en": "Park on Warszawska Street; watch out for one-way streets.",
+                "pl": "Parkuj na ulicy Warszawskiej; uważaj na jednokierunkowe ulice."
               }
             },
             {
@@ -1640,7 +1768,8 @@
                 "de": "Halten Sie kurz in der Nähe; der Stopp ist im Regen meist nur kurz.",
                 "hu": "Álljon meg rövid időre a közelben; esőben ez csak rövid látogatás.",
                 "ro": "Opriți scurt în apropiere; pe ploaie vizita este de obicei scurtă.",
-                "en": "Stop briefly nearby; in the rain, this visit is usually very short."
+                "en": "Stop briefly nearby; in the rain, this visit is usually very short.",
+                "pl": "Zatrzymaj się krótko w pobliżu; przy deszczu wizyta zwykle jest bardzo krótka."
               }
             },
             {
@@ -1649,7 +1778,8 @@
                 "de": "Es gibt einen großen Parkplatz in der Nähe des Schlosseingangs.",
                 "hu": "A kastély bejáratához közel egy nagy parkoló található.",
                 "ro": "Există o parcare mare în apropierea intrării în palat.",
-                "en": "There is a large parking lot near the palace entrance."
+                "en": "There is a large parking lot near the palace entrance.",
+                "pl": "Przy wejściu do pałacu znajduje się duży parking."
               }
             },
             {
@@ -1658,7 +1788,8 @@
                 "de": "Parken Sie am Rand und genießen Sie den Blick aus dem trockenen Auto.",
                 "hu": "Parkoljon le a szélen, és élvezze a kilátást a száraz autóból.",
                 "ro": "Parcați la margine și bucurați-vă de priveliște din mașina uscată.",
-                "en": "Park at the edge and enjoy the view from your dry car."
+                "en": "Park at the edge and enjoy the view from your dry car.",
+                "pl": "Zaparkuj na skraju i podziwiaj widok z suchego samochodu."
               }
             }
           ],
@@ -1686,6 +1817,12 @@
               "Avoid large puddles at the roadside to not splash pedestrians.",
               "Bialystok has a paid parking zone; use the mobile app.",
               "Keep your windows defogged for a safe drive."
+            ],
+            "pl": [
+              "Widoczność w mieście może być ograniczona podczas ulewy.",
+              "Unikaj dużych kałuż na poboczu, by nie ochlapać pieszych.",
+              "Białystok ma płatną strefę parkowania; korzystaj z aplikacji mobilnej.",
+              "Utrzymuj szyby wolne od pary dla bezpiecznej jazdy."
             ]
           }
         },
@@ -1694,7 +1831,8 @@
             "de": "Winterliches Bialystok mit dem Auto bedeutet Wärme zwischen den Sehenswürdigkeiten. Am Vormittag besuchen Sie die Oper und das Armeemuseum bequem im vorgeheizten Wagen. Mittags steuern Sie die prächtigen Kirchen und das Museum an. Der barocke Palast im Schnee ist ein Highlight, bevor Sie den Tag am frostigen Planty-Park beenden, wo Sie jederzeit ins warme Auto zurückkehren können.",
             "hu": "A téli Białystok autóval a látnivalók közötti kellemes meleget jelenti. Délelőtt az Operát és a Hadtörténeti Múzeumot látogatjuk meg az előmelegített kocsival. Napközben a pompás templomok és a múzeum következik. A havas barokk kastély igazi fénypont, mielőtt a napot a fagyos Planty parknál zárjuk, ahonnan bármikor visszatérhetünk a fűtött autóba.",
             "ro": "Bialystok iarna cu mașina înseamnă căldură între obiectivele turistice. Dimineața vizitați Opera și Muzeul Armatei confortabil în mașina preîncălzită. La prânz urmează bisericile superbe și muzeul. Palatul baroc în zăpadă este punctul culminant înainte de a încheia ziua la parcul înghețat, de unde puteți reveni oricând în mașină.",
-            "en": "Winter Bialystok by car means staying warm between sights. In the morning, visit the Opera and Army Museum comfortably in a pre-heated car. Midday includes the magnificent churches and the museum. The Baroque Palace in the snow is a highlight before ending the day at the frosty Planty Park, where you can return to your warm car at any time."
+            "en": "Winter Bialystok by car means staying warm between sights. In the morning, visit the Opera and Army Museum comfortably in a pre-heated car. Midday includes the magnificent churches and the museum. The Baroque Palace in the snow is a highlight before ending the day at the frosty Planty Park, where you can return to your warm car at any time.",
+            "pl": "Zima w Białymstoku samochodem to ogrzewanie między atrakcjami. Rano odwiedź Operę i Muzeum Wojska wygodnie w podgrzanym aucie. W południe obejrzyj okazałe kościoły i muzeum. Barokowy pałac w śniegu to punkt kulminacyjny, zanim zakończysz dzień w mroźnym Parku Planty, gdzie możesz w każdej chwili wrócić do ciepłego samochodu."
           },
           "stops": [
             {
@@ -1703,7 +1841,8 @@
                 "de": "Das Parkhaus schützt Ihr Auto vor Frost während der Besichtigung.",
                 "hu": "A parkolóház megvédi autóját a fagytól a látogatás alatt.",
                 "ro": "Parcarea subterană protejează mașina de îngheț în timpul vizitei.",
-                "en": "The parking garage protects your car from frost during the visit."
+                "en": "The parking garage protects your car from frost during the visit.",
+                "pl": "Parking podziemny chroni samochód przed mrozem podczas zwiedzania."
               }
             },
             {
@@ -1712,7 +1851,8 @@
                 "de": "Vorsicht beim Einparken auf eventuell nicht geräumten Parkstreifen.",
                 "hu": "Vigyázzon a parkoláskor az esetleg le nem takarított parkolósávokon.",
                 "ro": "Atenție la parcare pe benzile care ar putea să nu fie deszăpezite.",
-                "en": "Be careful when parking on potentially uncleared parking strips."
+                "en": "Be careful when parking on potentially uncleared parking strips.",
+                "pl": "Uważaj przy parkowaniu na pasach, które mogą nie być odśnieżone."
               }
             },
             {
@@ -1721,7 +1861,8 @@
                 "de": "Planen Sie Zeit für die Parkplatzsuche ein; Schnee engt Straßen ein.",
                 "hu": "Számoljon időt a parkolókeresésre; a hó leszűkíti az utcákat.",
                 "ro": "Alocați timp pentru căutarea parcării; zăpada îngustează străzile.",
-                "en": "Allow time for parking search; snow narrows the streets."
+                "en": "Allow time for parking search; snow narrows the streets.",
+                "pl": "Przeznacz czas na poszukiwanie miejsca; śnieg zwęża ulice."
               }
             },
             {
@@ -1730,7 +1871,8 @@
                 "de": "Parken Sie zentral, um mehrere Sehenswürdigkeiten zu Fuß zu erreichen.",
                 "hu": "Parkoljon központilag, hogy több látnivalót gyalog érjen el.",
                 "ro": "Parcați central pentru a ajunge la mai multe obiective pe jos.",
-                "en": "Park centrally to reach several sights on foot."
+                "en": "Park centrally to reach several sights on foot.",
+                "pl": "Parkuj centralnie, by dojść pieszo do kilku atrakcji."
               }
             },
             {
@@ -1739,7 +1881,8 @@
                 "de": "Kurzer Stopp; lassen Sie den Motor nicht unnötig laufen.",
                 "hu": "Rövid megálló; ne járassa feleslegesen a motort.",
                 "ro": "Oprire scurtă; nu lăsați motorul pornit inutil.",
-                "en": "Short stop; don't leave the engine running unnecessarily."
+                "en": "Short stop; don't leave the engine running unnecessarily.",
+                "pl": "Krótkie zatrzymanie; nie zostawiaj na biegu jałowym silnika bez potrzeby."
               }
             },
             {
@@ -1748,7 +1891,8 @@
                 "de": "Der Parkplatz kann bei Glätte rutschig sein; vorsichtig rangieren.",
                 "hu": "A parkoló csúszós lehet jegesedéskor; óvatosan manőverezzen.",
                 "ro": "Parcarea poate fi alunecoasă; manevrați cu atenție.",
-                "en": "The parking lot can be slippery; maneuver carefully."
+                "en": "The parking lot can be slippery; maneuver carefully.",
+                "pl": "Parking może być śliski; manewruj ostrożnie."
               }
             },
             {
@@ -1757,7 +1901,8 @@
                 "de": "Nutzen Sie die Parkplätze an der Mickiewicza-Straße für schnellen Zugang.",
                 "hu": "Használja a Mickiewicza utcai parkolókat a gyors bejutáshoz.",
                 "ro": "Folosiți parcările de pe strada Mickiewicza pentru acces rapid.",
-                "en": "Use the parking spots on Mickiewicza Street for quick access."
+                "en": "Use the parking spots on Mickiewicza Street for quick access.",
+                "pl": "Korzystaj z miejsc parkingowych na ulicy Mickiewicza dla szybkiego dostępu."
               }
             }
           ],
@@ -1785,6 +1930,12 @@
               "Keep an ice scraper and a snow brush in the car.",
               "Bridges and overpasses in Bialystok often freeze first.",
               "Expect more traffic in the city center during snowfall."
+            ],
+            "pl": [
+              "Upewnij się, że pojazd jest przygotowany na zimę (opony zimowe).",
+              "Miej w samochodzie skrobaczkę do lodu i szczotkę do śniegu.",
+              "Mosty i wiadukty w Białymstoku często zamarzają jako pierwsze.",
+              "Spodziewaj się większego ruchu w centrum podczas opadów śniegu."
             ]
           }
         }
@@ -1803,7 +1954,8 @@
             "de": "Branicki-Palast",
             "hu": "Branicki-palota",
             "ro": "Palatul Branicki",
-            "en": "Branicki Palace"
+            "en": "Branicki Palace",
+            "pl": "Pałac Branickich"
           },
           "coords": [
             23.16,
@@ -1819,7 +1971,8 @@
             "de": "Nehmen Sie einen Bus zum Palast. Beginnen Sie Ihren Tag mit dem prächtigsten Anblick der Stadt.",
             "hu": "Menjen busszal a palotához. Kezdje a napot a város legpompásabb látványával.",
             "ro": "Luați un autobuz spre palat. Începeți ziua cu cea mai splendidă priveliște a orașului.",
-            "en": "Take a bus to the Palace. Start your day with the city's most magnificent sight."
+            "en": "Take a bus to the Palace. Start your day with the city's most magnificent sight.",
+            "pl": "Dojedź autobusem do pałacu. Rozpocznij dzień od najbardziej okazałej atrakcji miasta."
           }
         },
         {
@@ -1827,7 +1980,8 @@
             "de": "Planty-Park",
             "hu": "Planty Park",
             "ro": "Parcul Planty",
-            "en": "Planty Park"
+            "en": "Planty Park",
+            "pl": "Park Planty"
           },
           "coords": [
             23.1645,
@@ -1843,7 +1997,8 @@
             "de": "Ein kurzer Spaziergang vom Palast entfernt, perfekt für eine Pause am Vormittag.",
             "hu": "Rövid séta a palotától, tökéletes egy délelőtti pihenőre.",
             "ro": "La o scurtă plimbare de palat, perfect pentru o pauză de dimineață.",
-            "en": "A short walk from the palace, perfect for a mid-morning break."
+            "en": "A short walk from the palace, perfect for a mid-morning break.",
+            "pl": "Krótki spacer od pałacu, idealny na przerwę przed południem."
           }
         },
         {
@@ -1851,7 +2006,8 @@
             "de": "Mariä-Himmelfahrt-Kathedrale",
             "hu": "Mária Mennybemenetele-katedrális",
             "ro": "Catedrala Adormirea Maicii Domnului",
-            "en": "Cathedral Basilica of the Assumption"
+            "en": "Cathedral Basilica of the Assumption",
+            "pl": "Bazylika Archikatedralna Wniebowzięcia Najświętszej Maryi Panny"
           },
           "coords": [
             23.1661,
@@ -1867,7 +2023,8 @@
             "de": "Setzen Sie Ihren Spaziergang zu dieser beeindruckenden Doppelkirche fort.",
             "hu": "Folytassa sétáját ehhez a lenyűgöző kettős templomhoz.",
             "ro": "Continuați-vă plimbarea spre această biserică dublă impresionantă.",
-            "en": "Continue your walk to this impressive dual-church."
+            "en": "Continue your walk to this impressive dual-church.",
+            "pl": "Kontynuuj spacer do tej imponującej podwójnej świątyni."
           }
         },
         {
@@ -1875,7 +2032,8 @@
             "de": "St.-Nikolaus-Kathedrale",
             "hu": "Szent Miklós-székesegyház",
             "ro": "Catedrala Sfântul Nicolae",
-            "en": "St. Nicholas Cathedral"
+            "en": "St. Nicholas Cathedral",
+            "pl": "Katedra św. Mikołaja"
           },
           "coords": [
             23.1585,
@@ -1891,7 +2049,8 @@
             "de": "Nehmen Sie einen Bus zum nächsten Cluster, um die orthodoxe Kultur zu erleben.",
             "hu": "Menjen busszal a következő csoporthoz, hogy megismerje az ortodox kultúrát.",
             "ro": "Luați un autobuz spre următorul cluster pentru a experimenta cultura ortodoxă.",
-            "en": "Take a bus to the next cluster to experience the Orthodox culture."
+            "en": "Take a bus to the next cluster to experience the Orthodox culture.",
+            "pl": "Zjedź autobusem do kolejnego klastra, by doświadczyć kultury prawosławnej."
           }
         },
         {
@@ -1899,7 +2058,8 @@
             "de": "Historisches Museum",
             "hu": "Történeti Múzeum",
             "ro": "Muzeul de Istorie",
-            "en": "Historical Museum"
+            "en": "Historical Museum",
+            "pl": "Muzeum Historyczne"
           },
           "coords": [
             23.1648,
@@ -1915,7 +2075,8 @@
             "de": "Vom Dom aus leicht zu Fuß erreichbar. Vertiefen Sie Ihr Wissen über die Stadt.",
             "hu": "Könnyen megközelíthető a székesegyháztól. Mélyítse el tudását a városról.",
             "ro": "Ușor accesibil de la catedrală. Aprofundați-vă cunoștințele despre oraș.",
-            "en": "Easily walkable from the cathedral. Deepen your knowledge of the city."
+            "en": "Easily walkable from the cathedral. Deepen your knowledge of the city.",
+            "pl": "Łatwo dojdziesz z katedry. Pogłęb swoją wiedzę o mieście."
           }
         },
         {
@@ -1923,7 +2084,8 @@
             "de": "Podlasie-Oper und Philharmonie",
             "hu": "Podlasiei Opera és Filharmónia",
             "ro": "Opera și Filarmonica Podlasie",
-            "en": "Podlasie Opera and Philharmonic"
+            "en": "Podlasie Opera and Philharmonic",
+            "pl": "Opera i Filharmonia Podlaska"
           },
           "coords": [
             23.1711,
@@ -1939,7 +2101,8 @@
             "de": "Schließen Sie den Tag mit einer kurzen Busfahrt zu diesem modernen Wahrzeichen ab.",
             "hu": "Zárja a napot egy rövid buszúttal ehhez a modern nevezetességhez.",
             "ro": "Încheiați ziua cu o scurtă călătorie cu autobuzul la acest reper modern.",
-            "en": "Conclude the day with a short bus ride to this modern landmark."
+            "en": "Conclude the day with a short bus ride to this modern landmark.",
+            "pl": "Zakończ dzień krótką przejażdżką autobusem do tego nowoczesnego punktu orientacyjnego."
           }
         }
       ],
@@ -1947,7 +2110,8 @@
         "de": "Ihre Tour mit öffentlichen Verkehrsmitteln maximiert die Zeit durch Cluster-Walking. Sie starten mit einer Busfahrt zum Branicki-Palast (Cluster 1) und erkunden den Palast, den Planty-Park und die Kathedrale zu Fuß. Am Nachmittag bringt Sie ein Bus zum zweiten Cluster, wo Sie die orthodoxe Kathedrale und das Historische Museum entdecken. Eine letzte kurze Fahrt führt Sie zum Opernhaus, dem modernen Abschluss eines Tages, der das Beste aus beiden Welten vereint: die Effizienz des Transports und die Freude am Spazierengehen.",
         "hu": "A tömegközlekedési túra a „cluster-walking” segítségével maximalizálja az időt. A Branicki-palotához (1. csoport) busszal indul, majd gyalog fedezi fel a palotát, a Planty Parkot és a katedrálist. Délután egy busz viszi a második csoporthoz, ahol felfedezi az ortodox katedrálist és a Történeti Múzeumot. Egy utolsó rövid utazás vezet az Operaházhoz, amely modern lezárása egy olyan napnak, amely a két világ legjobbját ötvözi: a közlekedés hatékonyságát és a séta örömét.",
         "ro": "Turul dvs. cu transportul public maximizează timpul prin „cluster-walking”. Începeți cu o călătorie cu autobuzul la Palatul Branicki (clusterul 1), explorând pe jos palatul, Parcul Planty și catedrala. După-amiaza, un autobuz vă duce la al doilea cluster pentru a descoperi Catedrala Ortodoxă și Muzeul de Istorie. O ultimă călătorie scurtă vă duce la Operă, încheierea modernă a unei zile care combină ce e mai bun din ambele lumi: eficiența transportului și bucuria plimbării.",
-        "en": "Your public transit tour maximizes time using cluster-walking. You start with a bus ride to Branicki Palace (cluster 1), exploring the palace, Planty Park, and the cathedral on foot. In the afternoon, a bus takes you to the second cluster to discover the Orthodox Cathedral and the Historical Museum. A final short ride takes you to the Opera House, the modern conclusion to a day that combines the best of both worlds: transport efficiency and the joy of walking."
+        "en": "Your public transit tour maximizes time using cluster-walking. You start with a bus ride to Branicki Palace (cluster 1), exploring the palace, Planty Park, and the cathedral on foot. In the afternoon, a bus takes you to the second cluster to discover the Orthodox Cathedral and the Historical Museum. A final short ride takes you to the Opera House, the modern conclusion to a day that combines the best of both worlds: transport efficiency and the joy of walking.",
+        "pl": "Wycieczka komunikacją publiczną maksymalizuje czas, łącząc spacerowe klastry. Zaczynasz od autobusu do Pałacu Branickich (klaster 1), zwiedzając pałac, Park Planty i katedrę pieszo. Po południu autobus zabierze cię do drugiego klastra, by odkryć cerkiew prawosławną i Muzeum Historyczne. Ostatni krótki przejazd prowadzi do Opery — nowoczesnego zwieńczenia dnia łączącego efektywność transportu z przyjemnością spacerów."
       },
       "gastro_picks": {
         "de": [
@@ -2143,6 +2307,12 @@
           "Download a public transport app for real-time routes and schedules.",
           "Buses are the main mode of transit; familiarize yourself with the key lines.",
           "Note that tickets must be validated before boarding or right on the bus."
+        ],
+        "pl": [
+          "Kup bilet całodzienny na nielimitowane przejazdy.",
+          "Pobierz aplikację komunikacji miejskiej dla rozkładów i tras w czasie rzeczywistym.",
+          "Autobusy są głównym środkiem transportu; zapoznaj się z kluczowymi liniami.",
+          "Pamiętaj, że bilety należy skasować przed wejściem lub bezpośrednio w autobusie."
         ]
       },
       "variants": {
@@ -2151,7 +2321,8 @@
             "de": "Die Nutzung öffentlicher Verkehrsmittel in Bialystok schützt Sie vor dem Regen und verbindet die Highlights effizient. Der Vormittag beginnt barock am Branicki-Palast, gefolgt von einem Besuch im Planty-Park bei Regenpausen. Mittags bringen Sie die Busse zur Kathedrale und zum Museum. Den Abschluss bildet die moderne Oper, die bequem mit den Linien des Stadtverkehrs erreichbar ist.",
             "hu": "A tömegközlekedés Białystokban megvédi az esőtől, és hatékonyan köti össze a látnivalókat. A délelőtt barokk hangulatban indul a kastélynál, majd a Planty park következik az esőszünetekben. Napközben buszok visznek a katedrálishoz és a múzeumhoz. A napot a modern Operaház zárja, amely kényelmesen elérhető a városi járatokkal.",
             "ro": "Transportul public din Bialystok vă protejează de ploaie și conectează eficient punctele de atracție. Dimineața începe la Palatul Branicki, urmată de o vizită în parcul Planty între reprizele de ploaie. La prânz, autobuzele vă duc la catedrală și muzeu. Ziua se încheie la operă, ușor accesibilă cu liniile urbane.",
-            "en": "Public transit in Bialystok keeps you dry and efficiently connects the city's highlights. The morning starts with Baroque flair at Branicki Palace, followed by Planty Park during rain breaks. At noon, buses take you to the Cathedral and Museum. The day concludes at the modern Opera, easily accessible via urban transit lines."
+            "en": "Public transit in Bialystok keeps you dry and efficiently connects the city's highlights. The morning starts with Baroque flair at Branicki Palace, followed by Planty Park during rain breaks. At noon, buses take you to the Cathedral and Museum. The day concludes at the modern Opera, easily accessible via urban transit lines.",
+            "pl": "Komunikacja publiczna w Białymstoku utrzyma cię w suchości i sprawnie połączy miejskie atrakcje. Rano zaczynasz od barokowego Pałacu Branickich, potem Park Planty podczas przerw w deszczu. W południe autobusy zabierają cię do Katedry i Muzeum. Dzień kończy się przy nowoczesnej Operze, łatwo dostępnej liniami miejskimi."
           },
           "stops": [
             {
@@ -2160,7 +2331,8 @@
                 "de": "Die Bushaltestelle 'Plac Jana Pawła II' ist ganz nah am Eingang.",
                 "hu": "A 'Plac Jana Pawła II' buszmegálló nagyon közel van a bejárathoz.",
                 "ro": "Stația de autobuz 'Plac Jana Pawła II' este foarte aproape de intrare.",
-                "en": "The bus stop 'Plac Jana Pawła II' is very close to the entrance."
+                "en": "The bus stop 'Plac Jana Pawła II' is very close to the entrance.",
+                "pl": "Przystanek „Plac Jana Pawła II” znajduje się bardzo blisko wejścia."
               }
             },
             {
@@ -2169,7 +2341,8 @@
                 "de": "Mehrere Linien halten am Rand; wählen Sie die nächste zum Pavillon.",
                 "hu": "Több járat is megáll a szélen; válassza a pavilonhoz legközelebbit.",
                 "ro": "Mai multe linii opresc la margine; alegeți-o pe cea mai apropiată.",
-                "en": "Several lines stop at the edge; choose the one closest to the pavilion."
+                "en": "Several lines stop at the edge; choose the one closest to the pavilion.",
+                "pl": "Kilka linii zatrzymuje się na obrzeżu; wybierz tę najbliżej pawilonu."
               }
             },
             {
@@ -2178,7 +2351,8 @@
                 "de": "Das Zentrum ist gut vernetzt; die Haltestellen bieten oft Unterstand.",
                 "hu": "A központ jól hálózott; a megállók gyakran fedettek.",
                 "ro": "Centrul este bine conectat; stațiile au adesea copertine.",
-                "en": "The center is well connected; bus stops often have shelters."
+                "en": "The center is well connected; bus stops often have shelters.",
+                "pl": "Centrum jest dobrze skomunikowane; przystanki często mają wiaty."
               }
             },
             {
@@ -2187,7 +2361,8 @@
                 "de": "Ein kurzer Fußweg von der Lipowa-Straße, die viele Buslinien hat.",
                 "hu": "Rövid séta a Lipowa utcától, ahol számos buszjárat közlekedik.",
                 "ro": "O scurtă plimbare de pe strada Lipowa, deservită de multe linii.",
-                "en": "A short walk from Lipowa Street, which is served by many bus lines."
+                "en": "A short walk from Lipowa Street, which is served by many bus lines.",
+                "pl": "Krótki spacer od ulicy Lipowej, którą obsługuje wiele linii autobusowych."
               }
             },
             {
@@ -2196,7 +2371,8 @@
                 "de": "Haltestellen in der Nähe ermöglichen einen trockenen Übergang.",
                 "hu": "A közeli megállók száraz átjutást tesznek lehetővé.",
                 "ro": "Stațiile din apropiere permit o tranziție uscată.",
-                "en": "Nearby stops allow for a dry transition."
+                "en": "Nearby stops allow for a dry transition.",
+                "pl": "Okoliczne przystanki umożliwiają suchą przesiadkę."
               }
             },
             {
@@ -2205,7 +2381,8 @@
                 "de": "Die Endstation vieler Linien garantiert einen bequemen Heimweg.",
                 "hu": "Számos járat végállomása, ami garantálja a kényelmes hazautat.",
                 "ro": "Capătul multor linii garantează un drum confortabil spre casă.",
-                "en": "The terminus for many lines ensures a comfortable journey home."
+                "en": "The terminus for many lines ensures a comfortable journey home.",
+                "pl": "Końcowy przystanek wielu linii zapewnia wygodny powrót do domu."
               }
             }
           ],
@@ -2233,6 +2410,12 @@
               "Bialystok buses are modern and usually well-heated.",
               "Check the digital displays at bus stops for real-time information.",
               "Have some coins ready if you plan to buy tickets from the onboard machine."
+            ],
+            "pl": [
+              "Kup bilety przez aplikację, aby nie stać przy automatach na deszczu.",
+              "Autobusy w Białymstoku są nowoczesne i zwykle dobrze ogrzane.",
+              "Sprawdzaj wyświetlacze cyfrowe na przystankach dla informacji w czasie rzeczywistym.",
+              "Miej przy sobie trochę drobnych, jeśli planujesz kupić bilet w automacie pokładowym."
             ]
           }
         },
@@ -2241,7 +2424,8 @@
             "de": "Mit Bus und Bahn durch das verschneite Bialystok zu reisen, ist im Winter die wärmste Option. Der Tag beginnt am majestätischen Branicki-Palast, bequem erreichbar mit den zentralen Linien. Mittags wärmen Sie sich in den Bussen zwischen Kathedrale und Museum auf. Da es früh dunkelt, ist die beleuchtete Oper am Abend ein sicherer und warmer Hafen, bevor Sie der Stadtverkehr zurückbringt.",
             "hu": "Busszal utazni a havas Białystokban télen a legmelegebb opció. A nap a fenséges Branicki-kastélynál indul, amely könnyen elérhető a központi járatokkal. Napközben a buszokon melegedhetünk fel a katedrális és a múzeum között. Mivel korán sötétedik, a kivilágított Opera meleg menedéket nyújt este, mielőtt a busz visszaviszi a szállására.",
             "ro": "Călătoria cu autobuzul prin Bialystokul înzăpezit este cea mai călduroasă opțiune iarna. Ziua începe la maiestuosul Palat Branicki, ușor de accesat cu liniile centrale. La prânz vă încălziți în autobuze între catedrală și muzeu. Deoarece se întunecă devreme, opera iluminată este un refugiu sigur și cald seara.",
-            "en": "Traveling by bus through snowy Bialystok is the warmest option in winter. The day starts at the majestic Branicki Palace, easily reachable with central lines. Midday is spent warming up on buses between the Cathedral and Museum. As it gets dark early, the illuminated Opera is a safe and warm haven in the evening before transit takes you back."
+            "en": "Traveling by bus through snowy Bialystok is the warmest option in winter. The day starts at the majestic Branicki Palace, easily reachable with central lines. Midday is spent warming up on buses between the Cathedral and Museum. As it gets dark early, the illuminated Opera is a safe and warm haven in the evening before transit takes you back.",
+            "pl": "Podróż autobusem po zaśnieżonym Białymstoku to najcieplejsza opcja zimą. Dzień zaczyna się przy majestatycznym Pałacu Branickich, dostępnego centralnymi liniami. W południe ogrzewasz się w autobusach, przemieszczając się między Katedrą a Muzeum. Skoro robi się szybko ciemno, oświetlona Opera to bezpieczne, ciepłe schronienie wieczorem przed powrotem komunikacją."
           },
           "stops": [
             {
@@ -2250,7 +2434,8 @@
                 "de": "Die Busse fahren im Winter regelmäßig; warten Sie in der Nähe der Heizung.",
                 "hu": "A buszok télen is sűrűn járnak; várjon a fűtőtest közelében.",
                 "ro": "Autobuzele circulă regulat iarna; așteptați în apropierea încălzirii.",
-                "en": "Buses run regularly in winter; wait near the heater on board."
+                "en": "Buses run regularly in winter; wait near the heater on board.",
+                "pl": "Autobusy kursują regularnie zimą; stojąc, trzymaj się w pobliżu nagrzewnicy w pojeździe."
               }
             },
             {
@@ -2259,7 +2444,8 @@
                 "de": "Vorsicht vor Schneehaufen an den Bordsteinen beim Ein- und Aussteigen.",
                 "hu": "Vigyázzon a padkánál lévő hóbuckákra a fel- és leszálláskor.",
                 "ro": "Atenție la mormanele de zăpadă de la bordură când urcați sau coborâți.",
-                "en": "Watch out for snow piles at the curb when boarding or alighting."
+                "en": "Watch out for snow piles at the curb when boarding or alighting.",
+                "pl": "Uważaj na hałdy śniegu przy krawężniku podczas wsiadania i wysiadania."
               }
             },
             {
@@ -2268,7 +2454,8 @@
                 "de": "Ein zentraler Knotenpunkt; viele Busse bieten Schutz vor der Kälte.",
                 "hu": "Központi csomópont; sok busz kínál védelmet a hideg elől.",
                 "ro": "Un nod central; multe autobuze oferă protecție împotriva frigului.",
-                "en": "A central hub; many buses provide protection from the cold."
+                "en": "A central hub; many buses provide protection from the cold.",
+                "pl": "Centralny węzeł; wiele autobusów zapewnia ochronę przed zimnem."
               }
             },
             {
@@ -2277,7 +2464,8 @@
                 "de": "Die Haltestellen sind im Winter gut geräumt.",
                 "hu": "A megállókat télen is jól takarítják.",
                 "ro": "Stațiile sunt bine deszăpezite iarna.",
-                "en": "The bus stops are well-cleared in winter."
+                "en": "The bus stops are well-cleared in winter.",
+                "pl": "Przystanki autobusowe są dobrze odśnieżone zimą."
               }
             },
             {
@@ -2286,7 +2474,8 @@
                 "de": "Nutzen Sie den Bus, um die Beine zwischen den Museen aufzuwärmen.",
                 "hu": "Használja a buszt a lábak felmelegítésére a múzeumok között.",
                 "ro": "Folosiți autobuzul pentru a vă încălzi picioarele între muzee.",
-                "en": "Use the bus to warm up your legs between museum visits."
+                "en": "Use the bus to warm up your legs between museum visits.",
+                "pl": "Skorzystaj z autobusu, by rozgrzać nogi między wizytami w muzeach."
               }
             },
             {
@@ -2295,7 +2484,8 @@
                 "de": "Helle Haltestellen sorgen für Sicherheit bei früher Dunkelheit.",
                 "hu": "A kivilágított megállók biztonságot nyújtanak a korai sötétségben.",
                 "ro": "Stațiile luminate oferă siguranță în amurgul timpuriu.",
-                "en": "Well-lit stops ensure safety during the early darkness."
+                "en": "Well-lit stops ensure safety during the early darkness.",
+                "pl": "Dobrze oświetlone przystanki zapewniają bezpieczeństwo podczas wczesnego zmroku."
               }
             }
           ],
@@ -2323,6 +2513,12 @@
               "Wear non-slip shoes for the walk from the stop to your destination.",
               "Schedules at stops remain readable even in freezing temperatures.",
               "Use the 'Jakdojade' app for the best transit connections in Bialystok."
+            ],
+            "pl": [
+              "Spodziewaj się drobnych opóźnień w rozkładzie podczas zimy.",
+              "Noś antypoślizgowe buty na spacer z przystanku do celu.",
+              "Rozkłady na przystankach pozostają czytelne nawet w mrozie.",
+              "Korzystaj z aplikacji „Jakdojade” dla najlepszych połączeń w Białymstoku."
             ]
           }
         }

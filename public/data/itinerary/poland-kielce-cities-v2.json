@@ -21,7 +21,8 @@
             "de": "Marktplatz",
             "hu": "Piactér (Rynek)",
             "ro": "Piața Centrală (Rynek)",
-            "en": "Market Square (Rynek)"
+            "en": "Market Square (Rynek)",
+            "pl": "Rynek"
           },
           "coords": [
             20.628,
@@ -37,7 +38,8 @@
             "de": "Probieren Sie morgens einen Obwarzanek von einem der Stände.",
             "hu": "Kóstoljon meg egy reggeli obwarzaneket az egyik standnál.",
             "ro": "Încercați un covrig Obwarzanek de la o tarabă dimineața.",
-            "en": "Try an Obwarzanek pretzel from a stall in the morning."
+            "en": "Try an Obwarzanek pretzel from a stall in the morning.",
+            "pl": "Spróbuj obwarzanka z budki rano."
           }
         },
         {
@@ -45,7 +47,8 @@
             "de": "Sienkiewicz-Straße",
             "hu": "Sienkiewicz utca",
             "ro": "Strada Sienkiewicz",
-            "en": "Sienkiewicz Street"
+            "en": "Sienkiewicz Street",
+            "pl": "ulica Sienkiewicza"
           },
           "coords": [
             20.629,
@@ -61,7 +64,8 @@
             "de": "Die Hauptschlagader der Stadt, perfekt für einen Spaziergang und zum Leutebeobachten.",
             "hu": "A város fő artériája, tökéletes egy sétához és az emberek nézéséhez.",
             "ro": "Artera principală a orașului, perfectă pentru o plimbare și pentru a privi oamenii.",
-            "en": "The city's main artery, perfect for a stroll and people-watching."
+            "en": "The city's main artery, perfect for a stroll and people-watching.",
+            "pl": "Główna arteria miasta, idealna na spacer i obserwację ludzi."
           }
         },
         {
@@ -69,7 +73,8 @@
             "de": "Palast der Krakauer Bischöfe",
             "hu": "Krakkói Püspöki Palota",
             "ro": "Palatul Episcopilor din Cracovia",
-            "en": "Palace of the Krakow Bishops"
+            "en": "Palace of the Krakow Bishops",
+            "pl": "Pałac Biskupów Krakowskich"
           },
           "coords": [
             20.6288,
@@ -85,7 +90,8 @@
             "de": "Verpassen Sie nicht den angrenzenden Italienischen Garten.",
             "hu": "Ne hagyja ki a szomszédos olasz kertet.",
             "ro": "Nu ratați Grădina Italiană adiacentă.",
-            "en": "Don't miss the adjacent Italian Garden."
+            "en": "Don't miss the adjacent Italian Garden.",
+            "pl": "Nie przegap przylegającego Ogrodu Włoskiego."
           }
         },
         {
@@ -93,7 +99,8 @@
             "de": "Kathedrale von Kielce",
             "hu": "Kielcei székesegyház",
             "ro": "Catedrala din Kielce",
-            "en": "Kielce Cathedral"
+            "en": "Kielce Cathedral",
+            "pl": "Kielecka katedra"
           },
           "coords": [
             20.6295,
@@ -109,7 +116,8 @@
             "de": "Bewundern Sie das reiche barocke Interieur und den Altar.",
             "hu": "Csodálja meg a gazdag barokk belső teret és az oltárt.",
             "ro": "Admirați interiorul baroc bogat și altarul.",
-            "en": "Admire the rich baroque interior and the altar."
+            "en": "Admire the rich baroque interior and the altar.",
+            "pl": "Podziwiaj bogate barokowe wnętrze i ołtarz."
           }
         },
         {
@@ -117,7 +125,8 @@
             "de": "Museum für Spielzeug und Spiel",
             "hu": "Játék- és Játékmúzeum",
             "ro": "Muzeul Jucăriilor și al Jocului",
-            "en": "Museum of Toys and Play"
+            "en": "Museum of Toys and Play",
+            "pl": "Muzeum Zabawek i Zabawy"
           },
           "coords": [
             20.6255,
@@ -133,7 +142,8 @@
             "de": "Ein nostalgischer Spaß für Erwachsene und ein Vergnügen für Kinder.",
             "hu": "Nosztalgikus szórakozás a felnőtteknek és élvezet a gyerekeknek.",
             "ro": "Distracție nostalgică pentru adulți și o încântare pentru copii.",
-            "en": "A nostalgic fun for adults and a delight for children."
+            "en": "A nostalgic fun for adults and a delight for children.",
+            "pl": "Nostalgiczna zabawa dla dorosłych i rozkosz dla dzieci."
           }
         },
         {
@@ -141,7 +151,8 @@
             "de": "Naturschutzgebiet Kadzielnia",
             "hu": "Kadzielnia Természetvédelmi Terület",
             "ro": "Rezervația Naturală Kadzielnia",
-            "en": "Kadzielnia Nature Reserve"
+            "en": "Kadzielnia Nature Reserve",
+            "pl": "Rezerwat przyrody Kadzielnia"
           },
           "coords": [
             20.618,
@@ -157,7 +168,8 @@
             "de": "Erkunden Sie die Höhlen und den unterirdischen Pfad.",
             "hu": "Fedezze fel a barlangokat és a föld alatti ösvényt.",
             "ro": "Explorați peșterile și traseul subteran.",
-            "en": "Explore the caves and the underground trail."
+            "en": "Explore the caves and the underground trail.",
+            "pl": "Odkryj jaskinie i podziemną trasę."
           }
         },
         {
@@ -165,7 +177,8 @@
             "de": "Abendessen in der Innenstadt",
             "hu": "Vacsora a belvárosban",
             "ro": "Cină în centrul orașului",
-            "en": "Dinner in the city center"
+            "en": "Dinner in the city center",
+            "pl": "Kolacja w centrum miasta"
           },
           "coords": [
             20.6275,
@@ -181,7 +194,8 @@
             "de": "Kehren Sie zum Marktplatz zurück, um eine Vielzahl von Restaurants zu finden.",
             "hu": "Térjen vissza a Piactérre a változatos éttermekért.",
             "ro": "Întoarceți-vă în Piața Centrală pentru o varietate de restaurante.",
-            "en": "Return to the Market Square area for a variety of restaurants."
+            "en": "Return to the Market Square area for a variety of restaurants.",
+            "pl": "Wróć na obszar Rynku, gdzie znajduje się wiele restauracji."
           }
         }
       ],
@@ -189,7 +203,8 @@
         "de": "Beginnen Sie Ihren Tag auf dem belebten Marktplatz, dem Herzen von Kielce. Spazieren Sie die historische Sienkiewicz-Straße entlang, bevor Sie in die Pracht des Bischofspalastes und der benachbarten Kathedrale eintauchen. Am Nachmittag erleben Sie im Spielzeugmuseum eine nostalgische Reise und entfliehen dann der Stadt in die beeindruckende Natur des Kadzielnia-Reservats. Schließen Sie den Tag mit einem herzhaften polnischen Abendessen im Stadtzentrum ab und lassen Sie die Erlebnisse Revue passieren.",
         "hu": "Kezdje a napot Kielce szívében, a nyüzsgő Piactéren. Sétáljon végig a történelmi Sienkiewicz utcán, majd merüljön el a Püspöki Palota és a szomszédos székesegyház pompájában. Délután nosztalgikus utazást tehet a Játékmúzeumban, majd elmenekülhet a városból a lenyűgöző Kadzielnia Természetvédelmi Területre. Zárja a napot egy kiadós lengyel vacsorával a városközpontban, felidézve az élményeket.",
         "ro": "Începeți-vă ziua în inima orașului Kielce, în Piața Centrală plină de viață. Plimbați-vă pe strada istorică Sienkiewicz înainte de a vă cufunda în splendoarea Palatului Episcopal și a catedralei adiacente. După-amiaza, bucurați-vă de o călătorie nostalgică la Muzeul Jucăriilor, apoi evadați din oraș în natura impresionantă a Rezervației Kadzielnia. Încheiați ziua cu o cină poloneză consistentă în centrul orașului, reflectând asupra experiențelor.",
-        "en": "Start your day in the heart of Kielce at the bustling Market Square. Stroll down the historic Sienkiewicz Street before immersing yourself in the grandeur of the Bishops' Palace and the adjacent Cathedral. In the afternoon, enjoy a nostalgic journey at the Toy Museum, then escape the city to the stunning nature of the Kadzielnia Reserve. Conclude your day with a hearty Polish dinner back in the city center, reflecting on the day's experiences."
+        "en": "Start your day in the heart of Kielce at the bustling Market Square. Stroll down the historic Sienkiewicz Street before immersing yourself in the grandeur of the Bishops' Palace and the adjacent Cathedral. In the afternoon, enjoy a nostalgic journey at the Toy Museum, then escape the city to the stunning nature of the Kadzielnia Reserve. Conclude your day with a hearty Polish dinner back in the city center, reflecting on the day's experiences.",
+        "pl": "Rozpocznij dzień w sercu Kielc na tętniącym życiem Rynku. Przejdź się zabytkową ul. Sienkiewicza, zanim zanurzysz się w dostojność Pałacu Biskupów i przylegającej Katedry. Po południu czeka nostalgiczną podróż Muzeum Zabawek, a potem ucieczka w naturę Rezerwatu Kadzielnia. Zakończ dzień sycącą polską kolacją w centrum miasta, podsumowując wrażenia z całego dnia."
       },
       "gastro_picks": {
         "de": [
@@ -385,6 +400,12 @@
           "Carry water, especially for the walk to and around the Kadzielnia Reserve.",
           "Most central attractions are within easy walking distance of each other.",
           "Check museum opening times, as they are often closed on Mondays."
+        ],
+        "pl": [
+          "Noś wygodne buty, ponieważ bruk na starówce może być nierówny.",
+          "Noś wodę, zwłaszcza na spacer do i po Rezerwacie Kadzielnia.",
+          "Większość centralnych atrakcji znajduje się w niewielkiej odległości spacerowej.",
+          "Sprawdź godziny otwarcia muzeów, ponieważ często są zamknięte w poniedziałki."
         ]
       },
       "variants": {
@@ -393,7 +414,8 @@
             "de": "Der Tag beginnt am überdachten Marktplatz, wo Cafés Schutz vor dem Regen bieten. Mittags erkunden Sie die prächtigen, trockenen Säle des Bischofspalastes und die benachbarte Kathedrale. Der Nachmittag gehört dem Spielzeugmuseum, einem idealen Zufluchtsort für regnerische Stunden. Am Abend führt ein kurzer Spaziergang zur Kadzielnia, deren Felsen im Regen besonders dramatisch wirken, bevor Sie den Tag in einem gemütlichen Restaurant im Zentrum ausklingen lassen.",
             "hu": "A nap a Fő téren indul, ahol az árkádok és kávézók nyújtanak menedéket az eső elől. Délben a püspöki palota és a katedrális belső tereiben kalandozunk, távol a víztől. A délutáni program a Játékmúzeum, amely tökéletes fedett helyszín ilyenkor. Este a Kadzielnia sziklái az esőben még különlegesebb látványt nyújtanak, végül egy belvárosi étterem melegében zárjuk a napot.",
             "ro": "Ziua începe în Piața Mare, unde cafenelele oferă adăpost împotriva ploii. La prânz, explorăm sălile uscate și somptuoase ale Palatului Episcopilor și Catedrala vecină. După-amiaza este dedicată Muzeului Jucăriilor, un refugiu ideal pentru orele ploioase. Seara, o scurtă plimbare spre Kadzielnia oferă o priveliște dramatică a stâncilor ude, înainte de a încheia ziua într-un restaurant primitor din centru.",
-            "en": "The day starts at the Market Square, where cafes provide shelter from the rain. At midday, explore the grand, dry halls of the Bishops' Palace and the neighboring Cathedral. The afternoon is dedicated to the Toy Museum, an ideal refuge for rainy hours. In the evening, a short walk to Kadzielnia offers a dramatic view of the wet cliffs before ending the day in a cozy restaurant in the center."
+            "en": "The day starts at the Market Square, where cafes provide shelter from the rain. At midday, explore the grand, dry halls of the Bishops' Palace and the neighboring Cathedral. The afternoon is dedicated to the Toy Museum, an ideal refuge for rainy hours. In the evening, a short walk to Kadzielnia offers a dramatic view of the wet cliffs before ending the day in a cozy restaurant in the center.",
+            "pl": "Dzień zaczyna się na Rynku, gdzie kawiarnie chronią przed deszczem. W południe zwiedzaj wspaniałe, suche sale Pałacu Biskupów i pobliską Katedrę. Popołudnie poświęć Muzeum Zabawek, idealnemu schronieniu na deszczowe godziny. Wieczorem krótki spacer na Kadzielnię oferuje dramatyczny widok na mokre skały, po czym dzień kończy się w przytulnej restauracji w centrum."
           },
           "stops": [
             {
@@ -402,7 +424,8 @@
                 "de": "Nutzen Sie die Arkaden und Cafés am Rand des Platzes, um trocken zu bleiben.",
                 "hu": "Használja a tér szélén található árkádokat és kávézókat a várakozáshoz.",
                 "ro": "Folosiți arcadele și cafenelele de pe marginea pieței pentru a rămâne uscați.",
-                "en": "Use the arcades and cafes around the square to stay dry while observing."
+                "en": "Use the arcades and cafes around the square to stay dry while observing.",
+                "pl": "Korzystaj z arkad i kawiarni wokół rynku, by pozostać suchym podczas obserwacji."
               }
             },
             {
@@ -411,7 +434,8 @@
                 "de": "Viele Geschäfte bieten hier Unterschlupf bei plötzlichen Schauern.",
                 "hu": "Számos üzlet és beugró kínál menedéket hirtelen zápor esetén.",
                 "ro": "Multe magazine de aici oferă adăpost în caz de averse bruște.",
-                "en": "Many shops and alcoves here offer shelter during sudden showers."
+                "en": "Many shops and alcoves here offer shelter during sudden showers.",
+                "pl": "Wiele sklepów i wnęk zapewnia tu schronienie podczas nagłych ulewnych deszczy."
               }
             },
             {
@@ -420,7 +444,8 @@
                 "de": "Ein hervorragender Ort, um viel Zeit im trockenen Inneren zu verbringen.",
                 "hu": "Kiváló helyszín, hogy hosszabb időt töltsön a száraz és díszes belső terekben.",
                 "ro": "Un loc excelent pentru a petrece mult timp în interiorul uscat și decorat.",
-                "en": "An excellent place to spend quality time in the dry and ornate interior."
+                "en": "An excellent place to spend quality time in the dry and ornate interior.",
+                "pl": "Świetne miejsce na miłe spędzenie czasu w suchym i ozdobnym wnętrzu."
               }
             },
             {
@@ -429,7 +454,8 @@
                 "de": "Die spirituelle Stille ist bei prasselndem Regen draußen besonders intensiv.",
                 "hu": "A kinti eső kopogása mellett a belső csend még megnyugtatóbb.",
                 "ro": "Liniștea spirituală este deosebit de intensă când afară plouă.",
-                "en": "The spiritual silence is particularly intense with the rain pattering outside."
+                "en": "The spiritual silence is particularly intense with the rain pattering outside.",
+                "pl": "Duchowa cisza jest szczególnie intensywna, gdy na zewnątrz pada deszcz."
               }
             },
             {
@@ -438,7 +464,8 @@
                 "de": "Planen Sie hier ruhig etwas mehr Zeit ein, bis der Regen nachlässt.",
                 "hu": "Töltsön itt bátran több időt, amíg odakint elcsendesedik az eső.",
                 "ro": "Planificați ceva mai mult timp aici până când ploaia se mai potolește.",
-                "en": "Feel free to plan a bit more time here until the rain subsides."
+                "en": "Feel free to plan a bit more time here until the rain subsides.",
+                "pl": "Możesz zaplanować tu nieco więcej czasu, aż deszcz ustanie."
               }
             },
             {
@@ -447,7 +474,8 @@
                 "de": "Vorsicht auf den gepflasterten Wegen, diese können bei Nässe rutschig sein.",
                 "hu": "Vigyázzon a kövezett utakon, mert nedvesen csúszósak lehetnek.",
                 "ro": "Atenție pe potecile pavate, acestea pot fi alunecoase când sunt ude.",
-                "en": "Be careful on the paved paths, as they can be slippery when wet."
+                "en": "Be careful on the paved paths, as they can be slippery when wet.",
+                "pl": "Uważaj na brukowane ścieżki, bo mogą być śliskie na mokro."
               }
             },
             {
@@ -456,7 +484,8 @@
                 "de": "Wärmen Sie sich mit einer traditionellen polnischen Suppe wie Żurek auf.",
                 "hu": "Melegedjen fel egy hagyományos lengyel levessel, például egy Żurek-kel.",
                 "ro": "Încălziți-vă cu o supă tradițională poloneză, cum ar fi Żurek.",
-                "en": "Warm up with a traditional Polish soup like Żurek after the wet walk."
+                "en": "Warm up with a traditional Polish soup like Żurek after the wet walk.",
+                "pl": "Rozgrzej się tradycyjną polską zupą, np. żurkiem, po mokrym spacerze."
               }
             }
           ],
@@ -484,6 +513,12 @@
               "The Bishops' Palace and the Toy Museum are perfect rainy-day sanctuaries.",
               "Sienkiewicz Street has many passages to help you stay dry between shops.",
               "Polish restaurants often serve hot tea with raspberry syrup to help you warm up."
+            ],
+            "pl": [
+              "Noś wodoodporne buty, ponieważ na kostce często tworzą się kałuże.",
+              "Pałac Biskupów i Muzeum Zabawek to idealne schronienia na deszczowy dzień.",
+              "Ulica Sienkiewicza ma wiele przejść, które pomogą ci pozostać suchym między sklepami.",
+              "W polskich restauracjach często podaje się gorącą herbatę z syropem malinowym, która rozgrzewa."
             ]
           }
         },
@@ -492,7 +527,8 @@
             "de": "Ein frostiger Morgen am Marktplatz beginnt mit einem heißen Kaffee. Die Sienkiewicz-Straße ist winterlich dekoriert und führt Sie zum warmen Bischofspalast. Mittags bietet die Kathedrale einen Ort der Besinnung in der Kälte. Der Nachmittag im Spielzeugmuseum lässt Sie den Frost vergessen, bevor Sie die verschneite Kadzielnia bei frühem Sonnenuntergang besuchen. Der Tag endet gemütlich bei Kerzenschein und deftiger polnischer Küche.",
             "hu": "Fagyos reggel a Fő téren, egy forró kávéval indítunk. A téli díszbe öltözött Sienkiewicz utca vezet a püspöki palota fűtött termeihez. Délben a katedrális nyújt csendes menedéket a hideg elől. A délutáni Játékmúzeum segít elfelejteni a kinti fagyot, majd a havas Kadzielnia látványa vár a korai naplementében. A napot gyertyafényes vacsorával és laktató lengyel ételekkel zárjuk.",
             "ro": "O dimineață geroasă în Piața Mare începe cu o cafea fierbinte. Strada Sienkiewicz, decorată de iarnă, vă conduce spre căldura Palatului Episcopilor. La prânz, Catedrala oferă un loc de liniște departe de frig. După-amiaza la Muzeul Jucăriilor vă face să uitați de ger, înainte de a vizita Kadzielnia înzăpezită la apusul timpuriu. Ziua se încheie confortabil, la lumina lumânărilor, cu preparate poloneze consistente.",
-            "en": "A frosty morning at the Market Square begins with a hot coffee. Sienkiewicz Street is decorated for winter and leads you to the warm Bishops' Palace. At midday, the Cathedral offers a place for reflection away from the cold. The afternoon at the Toy Museum makes you forget the frost before visiting the snowy Kadzielnia at early sunset. The day ends cozily with candlelight and hearty Polish cuisine."
+            "en": "A frosty morning at the Market Square begins with a hot coffee. Sienkiewicz Street is decorated for winter and leads you to the warm Bishops' Palace. At midday, the Cathedral offers a place for reflection away from the cold. The afternoon at the Toy Museum makes you forget the frost before visiting the snowy Kadzielnia at early sunset. The day ends cozily with candlelight and hearty Polish cuisine.",
+            "pl": "Mroźny poranek na Rynku zaczyna się od gorącej kawy. Ulica Sienkiewicza jest udekorowana na zimę i prowadzi do ciepłego Pałacu Biskupów. W południe Katedra oferuje miejsce do refleksji z dala od chłodu. Popołudnie w Muzeum Zabawek pozwala zapomnieć o mrozie, zanim odwiedzisz zaśnieżoną Kadzielnię przy wczesnym zachodzie słońca. Dzień kończy się przytulnie przy świecach i sytym, polskim jedzeniu."
           },
           "stops": [
             {
@@ -501,7 +537,8 @@
                 "de": "Achten Sie auf vereiste Stellen auf dem Marktplatz.",
                 "hu": "Vigyázzon a jeges foltokra a téren a reggeli órákban.",
                 "ro": "Atenție la porțiunile înghețate din piață la primele ore.",
-                "en": "Watch out for icy patches on the square during the morning."
+                "en": "Watch out for icy patches on the square during the morning.",
+                "pl": "Uważaj na oblodzenia na rynku rano."
               }
             },
             {
@@ -510,7 +547,8 @@
                 "de": "Genießen Sie die Winterbeleuchtung in den frühen Abendstunden.",
                 "hu": "Élvezze a téli díszkivilágítást a korai sötétedés idején.",
                 "ro": "Bucurați-vă de iluminatul festiv de iarnă în orele serii.",
-                "en": "Enjoy the winter lights and decorations during the early sunset."
+                "en": "Enjoy the winter lights and decorations during the early sunset.",
+                "pl": "Ciesz się zimowymi światłami i dekoracjami podczas wczesnego zachodu słońca."
               }
             },
             {
@@ -519,7 +557,8 @@
                 "de": "Nutzen Sie die Garderobe für Ihre schwere Winterkleidung.",
                 "hu": "Használja a ruhatárat a vastag téli kabátok leadásához.",
                 "ro": "Folosiți garderoba pentru hainele groase de iarnă.",
-                "en": "Use the cloakroom to leave your heavy winter layers while exploring."
+                "en": "Use the cloakroom to leave your heavy winter layers while exploring.",
+                "pl": "Skorzystaj z szatni, by zostawić cięższe zimowe warstwy podczas zwiedzania."
               }
             },
             {
@@ -528,7 +567,8 @@
                 "de": "Im Inneren ist es deutlich wärmer als draußen auf dem Hügel.",
                 "hu": "Odabent jóval melegebb van, mint kint a dombtetőn.",
                 "ro": "În interior este mult mai cald decât afară pe deal.",
-                "en": "The interior is significantly warmer than outside on the hill."
+                "en": "The interior is significantly warmer than outside on the hill.",
+                "pl": "Wnętrze jest znacząco cieplejsze niż na wzgórzu na zewnątrz."
               }
             },
             {
@@ -537,7 +577,8 @@
                 "de": "Ein warmer Ort, um die kältesten Stunden des Nachmittags zu verbringen.",
                 "hu": "Ideális fűtött helyszín a délutáni leghidegebb órákra.",
                 "ro": "Un loc încălzit ideal pentru cele mai reci ore ale după-amiezii.",
-                "en": "A warm indoor location to spend the coldest hours of the afternoon."
+                "en": "A warm indoor location to spend the coldest hours of the afternoon.",
+                "pl": "Ciepłe wnętrze, gdzie można spędzić najzimniejsze godziny popołudnia."
               }
             },
             {
@@ -546,7 +587,8 @@
                 "de": "Besuchen Sie diesen Ort vor 16:00 Uhr, um das Tageslicht zu nutzen.",
                 "hu": "Látogasson el ide 16:00 előtt, hogy még lásson valamit a fényben.",
                 "ro": "Vizitați acest loc înainte de ora 16:00 pentru a profita de lumină.",
-                "en": "Visit this spot before 16:00 to catch the remaining daylight."
+                "en": "Visit this spot before 16:00 to catch the remaining daylight.",
+                "pl": "Odwiedź to miejsce przed 16:00, aby złapać pozostałe światło dzienne."
               }
             },
             {
@@ -555,7 +597,8 @@
                 "de": "Probieren Sie 'Bigos', ein wärmendes polnisches Nationalgericht.",
                 "hu": "Kóstolja meg a 'Bigos'-t, ami laktató és felmelegít a hidegben.",
                 "ro": "Încercați 'Bigos', un fel de mâncare polonez care vă va încălzi.",
-                "en": "Try 'Bigos', a warming Polish national dish perfect for winter."
+                "en": "Try 'Bigos', a warming Polish national dish perfect for winter.",
+                "pl": "Spróbuj bigosu, rozgrzewającej, polskiej potrawy narodowej idealnej na zimę."
               }
             }
           ],
@@ -583,6 +626,12 @@
               "Wear thermal layers as the wind on the castle hill can be biting.",
               "The Market Square can be very slippery during snowfall.",
               "Kielce is near the mountains, and temperatures drop quickly after dark."
+            ],
+            "pl": [
+              "Zachód słońca jest około 16:00 zimą, więc planuj wizyty na zewnątrz wcześniej.",
+              "Noś warstwy termiczne, bo wiatr na wzgórzu zamkowym może być przenikliwy.",
+              "Rynek może być bardzo śliski podczas opadów śniegu.",
+              "Kielce są blisko gór, a temperatury szybko spadają po zmroku."
             ]
           }
         }
@@ -601,7 +650,8 @@
             "de": "Marktplatz & Fahrradverleih",
             "hu": "Piactér és kerékpárkölcsönző",
             "ro": "Piața Centrală și închiriere de biciclete",
-            "en": "Market Square & Bike Rental"
+            "en": "Market Square & Bike Rental",
+            "pl": "Rynek i wypożyczalnia rowerów"
           },
           "coords": [
             20.628,
@@ -617,7 +667,8 @@
             "de": "Holen Sie sich Ihr Fahrrad für den Tag bei einer der städtischen Verleihstationen.",
             "hu": "Szerezze be a kerékpárját a napra az egyik városi kölcsönzőállomáson.",
             "ro": "Luați-vă bicicleta pentru o zi de la una dintre stațiile de închiriere din oraș.",
-            "en": "Grab your bike for the day from one of the city rental stations."
+            "en": "Grab your bike for the day from one of the city rental stations.",
+            "pl": "Weź rower na cały dzień z jednej z miejskich stacji wypożyczeń."
           }
         },
         {
@@ -625,7 +676,8 @@
             "de": "Palast der Krakauer Bischöfe",
             "hu": "Krakkói Püspöki Palota",
             "ro": "Palatul Episcopilor din Cracovia",
-            "en": "Palace of the Krakow Bishops"
+            "en": "Palace of the Krakow Bishops",
+            "pl": "Pałac Biskupów Krakowskich"
           },
           "coords": [
             20.6288,
@@ -641,7 +693,8 @@
             "de": "Schließen Sie Ihr Fahrrad in der Nähe ab und erkunden Sie den Palast und die Gärten.",
             "hu": "Zárja le a kerékpárt a közelben, és fedezze fel a palotát és a kerteket.",
             "ro": "Legați-vă bicicleta în apropiere și explorați palatul și grădinile.",
-            "en": "Lock your bike nearby and explore the palace and gardens."
+            "en": "Lock your bike nearby and explore the palace and gardens.",
+            "pl": "Zabezpiecz rower w pobliżu i zwiedź pałac oraz ogrody."
           }
         },
         {
@@ -649,7 +702,8 @@
             "de": "Museum für Spielzeug und Spiel",
             "hu": "Játék- és Játékmúzeum",
             "ro": "Muzeul Jucăriilor și al Jocului",
-            "en": "Museum of Toys and Play"
+            "en": "Museum of Toys and Play",
+            "pl": "Muzeum Zabawek i Zabawy"
           },
           "coords": [
             20.6255,
@@ -665,7 +719,8 @@
             "de": "Eine kurze Fahrt vom Palast entfernt, ein Muss für alle Altersgruppen.",
             "hu": "Rövid bicikliút a palotától, minden korosztálynak kötelező.",
             "ro": "La o scurtă plimbare cu bicicleta de palat, o vizită obligatorie pentru toate vârstele.",
-            "en": "A short bike ride from the palace, a must-visit for all ages."
+            "en": "A short bike ride from the palace, a must-visit for all ages.",
+            "pl": "Krótka przejażdżka rowerem od pałacu, obowiązkowe miejsce dla wszystkich grup wiekowych."
           }
         },
         {
@@ -673,7 +728,8 @@
             "de": "Mittagessen auf der Sienkiewicz-Straße",
             "hu": "Ebéd a Sienkiewicz utcán",
             "ro": "Prânz pe strada Sienkiewicz",
-            "en": "Lunch on Sienkiewicz Street"
+            "en": "Lunch on Sienkiewicz Street",
+            "pl": "Lunch na ulicy Sienkiewicza"
           },
           "coords": [
             20.629,
@@ -689,7 +745,8 @@
             "de": "Hier gibt es viele Restaurants mit Außensitzplätzen.",
             "hu": "Számos étterem található itt szabadtéri ülőhelyekkel.",
             "ro": "Multe restaurante cu terase sunt disponibile aici.",
-            "en": "Plenty of restaurants with outdoor seating available here."
+            "en": "Plenty of restaurants with outdoor seating available here.",
+            "pl": "Wiele restauracji oferuje tutaj miejsca na zewnątrz."
           }
         },
         {
@@ -697,7 +754,8 @@
             "de": "Geopark Kielce",
             "hu": "Kielce Geopark",
             "ro": "Geoparcul Kielce",
-            "en": "Geopark Kielce"
+            "en": "Geopark Kielce",
+            "pl": "Geopark Kielce"
           },
           "coords": [
             20.615,
@@ -713,7 +771,8 @@
             "de": "Radwege führen zu diesem faszinierenden geologischen Zentrum.",
             "hu": "Kerékpárutak vezetnek ehhez a lenyűgöző geológiai központhoz.",
             "ro": "Piste de biciclete duc la acest centru geologic fascinant.",
-            "en": "Bike paths lead towards this fascinating geological center."
+            "en": "Bike paths lead towards this fascinating geological center.",
+            "pl": "Ścieżki rowerowe prowadzą w stronę tego fascynującego centrum geologicznego."
           }
         },
         {
@@ -721,7 +780,8 @@
             "de": "Naturschutzgebiet Kadzielnia",
             "hu": "Kadzielnia Természetvédelmi Terület",
             "ro": "Rezervația Naturală Kadzielnia",
-            "en": "Kadzielnia Nature Reserve"
+            "en": "Kadzielnia Nature Reserve",
+            "pl": "Rezerwat Przyrody Kadzielnia"
           },
           "coords": [
             20.618,
@@ -737,7 +797,8 @@
             "de": "Stellen Sie Ihr Fahrrad ab und spazieren Sie durch den ehemaligen Steinbruch.",
             "hu": "Parkolja le a biciklit és sétáljon egyet az egykori kőbányában.",
             "ro": "Parcați-vă bicicleta și faceți o plimbare prin fosta carieră.",
-            "en": "Park your bike and take a walk through the former quarry."
+            "en": "Park your bike and take a walk through the former quarry.",
+            "pl": "Zaparkuj rower i wybierz się na spacer po byłym kamieniołomie."
           }
         },
         {
@@ -745,7 +806,8 @@
             "de": "Rückkehr zum Marktplatz",
             "hu": "Visszatérés a Piactérre",
             "ro": "Întoarcere în Piața Centrală",
-            "en": "Return to Market Square"
+            "en": "Return to Market Square",
+            "pl": "Powrót na Rynek"
           },
           "coords": [
             20.628,
@@ -761,7 +823,8 @@
             "de": "Geben Sie Ihr Fahrrad zurück und genießen Sie einen wohlverdienten Drink.",
             "hu": "Adja vissza a kerékpárt, és élvezzen egy jól megérdemelt italt.",
             "ro": "Returnați bicicleta și bucurați-vă de o băutură binemeritată.",
-            "en": "Return your bike and enjoy a well-deserved drink."
+            "en": "Return your bike and enjoy a well-deserved drink.",
+            "pl": "Zwróć rower i rozkoszuj się zasłużonym napojem."
           }
         }
       ],
@@ -769,7 +832,8 @@
         "de": "Starten Sie Ihren Tag mit dem Fahrrad am Marktplatz. Radeln Sie zum prächtigen Bischofspalast und tauchen Sie ein in die Geschichte, bevor Sie zum nostalgischen Spielzeugmuseum weiterfahren. Genießen Sie ein Mittagessen auf der belebten Sienkiewicz-Straße. Am Nachmittag führt Sie eine längere Fahrt zu den geologischen Wundern des Geoparks und des Kadzielnia-Reservats. Beenden Sie Ihre Tour mit der Rückgabe des Fahrrads und einem entspannten Abend auf dem Marktplatz.",
         "hu": "Kezdje a napot kerékpárral a Piactéren. Tekerjen el a csodálatos Püspöki Palotához, és merüljön el a történelemben, mielőtt továbbhaladna a nosztalgikus Játékmúzeumhoz. Ebédeljen a nyüzsgő Sienkiewicz utcán. Délután egy hosszabb út vezet a Geopark és a Kadzielnia Természetvédelmi Terület geológiai csodáihoz. Fejezze be a túrát a kerékpár visszavitelével és egy pihentető estével a Piactéren.",
         "ro": "Începeți ziua pe bicicletă din Piața Centrală. Pedalați spre magnificul Palat Episcopal pentru o doză de istorie înainte de a continua spre nostalgic Muzeu al Jucăriilor. Bucurați-vă de prânz pe animata stradă Sienkiewicz. După-amiaza, o plimbare mai lungă vă duce la minunile geologice ale Geoparcului și Rezervației Kadzielnia. Încheiați turul returnând bicicleta și relaxându-vă seara în Piața Centrală.",
-        "en": "Kick off your day on two wheels from the Market Square. Pedal to the magnificent Bishops' Palace for a dose of history before heading to the nostalgic Toy Museum. Enjoy lunch on the bustling Sienkiewicz Street. In the afternoon, a longer ride takes you to the geological wonders of the Geopark and Kadzielnia Reserve. End your tour by returning the bike and enjoying a relaxing evening in the Market Square."
+        "en": "Kick off your day on two wheels from the Market Square. Pedal to the magnificent Bishops' Palace for a dose of history before heading to the nostalgic Toy Museum. Enjoy lunch on the bustling Sienkiewicz Street. In the afternoon, a longer ride takes you to the geological wonders of the Geopark and Kadzielnia Reserve. End your tour by returning the bike and enjoying a relaxing evening in the Market Square.",
+        "pl": "Rozpocznij dzień na dwóch kółkach z Rynku. Dojedź do wspaniałego Pałacu Biskupów po dawkę historii, potem udaj się do nostalgicznego Muzeum Zabawek. Zjedz lunch na tętniącej życiem ulicy Sienkiewicza. Po południu dłuższa przejażdżka zaprowadzi cię do geologicznych cudów Geoparku i rezerwatu Kadzielnia. Zakończ wycieczkę zwrotem roweru i relaksującym wieczorem na Rynku."
       },
       "gastro_picks": {
         "de": [
@@ -965,6 +1029,12 @@
           "Always lock your bike in a secure place, especially in the city center.",
           "Some areas, like the Kadzielnia Reserve, will require you to dismount and walk.",
           "Check your tire pressure and brakes before starting your tour."
+        ],
+        "pl": [
+          "Kielce mają rosnącą sieć ścieżek rowerowych; korzystaj z nich, gdzie to możliwe.",
+          "Zawsze przypinaj rower w bezpiecznym miejscu, zwłaszcza w centrum miasta.",
+          "W niektórych miejscach, jak Rezerwat Kadzielnia, trzeba będzie zejść z roweru i iść pieszo.",
+          "Sprawdź ciśnienie w oponach i hamulce przed rozpoczęciem wycieczki."
         ]
       },
       "variants": {
@@ -973,7 +1043,8 @@
             "de": "Ein regnerischer Tag auf zwei Rädern erfordert gute Ausrüstung. Vom Marktplatz geht es zum Bischofspalast, wo Sie die Räder sicher abstellen und im Trockenen Geschichte erleben. Nach dem Spielzeugmuseum bietet ein Mittagessen an der Sienkiewicz-Straße die nötige Stärkung. Die Fahrt zum Geopark und zur Kadzielnia führt durch nasse Natur, die im Regen eine ganz eigene, mystische Atmosphäre ausstrahlt.",
             "hu": "Egy esős nap két keréken jó felszerelést igényel. A Fő térről a püspöki palotához tekerünk, ahol biztonságban hagyhatjuk a bringákat a száraz városnézés idejére. A Játékmúzeum után a Sienkiewicz utcai ebéd ad új erőt. A Geopark és a Kadzielnia felé vezető út vizes tájakon át visz, amelyek esőben sajátos, misztikus hangulatot árasztanak.",
             "ro": "O zi ploioasă pe două roți necesită echipament bun. De la Piața Mare mergem spre Palatul Episcopilor, unde puteți lăsa bicicletele în siguranță pentru o vizită uscată. După Muzeul Jucăriilor, un prânz pe strada Sienkiewicz oferă energia necesară. Drumul spre Geoparc și Kadzielnia trece prin natură udă, care are o atmosferă mistică pe ploaie.",
-            "en": "A rainy day on two wheels requires good gear. From the Market Square, ride to the Bishops' Palace, where you can park safely and enjoy history in the dry. After the Toy Museum, lunch on Sienkiewicz Street provides the necessary boost. The ride to Geopark and Kadzielnia takes you through wet nature, which radiates a unique, mystical atmosphere in the rain."
+            "en": "A rainy day on two wheels requires good gear. From the Market Square, ride to the Bishops' Palace, where you can park safely and enjoy history in the dry. After the Toy Museum, lunch on Sienkiewicz Street provides the necessary boost. The ride to Geopark and Kadzielnia takes you through wet nature, which radiates a unique, mystical atmosphere in the rain.",
+            "pl": "Deszczowy dzień na rowerze wymaga dobrego wyposażenia. Z Rynku pojedź do Pałacu Biskupów, gdzie możesz bezpiecznie zaparkować i zwiedzać w suchu. Po Muzeum Zabawek lunch na ulicy Sienkiewicza doda energii. Trasa do Geoparku i Kadzielni prowadzi przez wilgotną przyrodę, która w deszczu emanuje wyjątkową, mistyczną atmosferą."
           },
           "stops": [
             {
@@ -982,7 +1053,8 @@
                 "de": "Fragen Sie nach einem Leihrad mit Schutzblechen.",
                 "hu": "Kérjen sárvédővel felszerelt kerékpárt a kölcsönzőben.",
                 "ro": "Cereți o bicicletă dotată cu apărători de noroi.",
-                "en": "Ask for a rental bike equipped with mudguards to stay cleaner."
+                "en": "Ask for a rental bike equipped with mudguards to stay cleaner.",
+                "pl": "Poproś o rower wypożyczalniany z błotnikami, aby pozostać czyściejszym."
               }
             },
             {
@@ -991,7 +1063,8 @@
                 "de": "Stellen Sie Ihr Rad unter, falls möglich, während Sie das Museum besuchen.",
                 "hu": "Ha lehet, keressen fedett tárolót a biciklinek a látogatás idejére.",
                 "ro": "Dacă este posibil, lăsați bicicleta la adăpost în timpul vizitei.",
-                "en": "Park your bike under cover if possible while visiting the museum."
+                "en": "Park your bike under cover if possible while visiting the museum.",
+                "pl": "Zaparkuj rower pod zadaszeniem, jeśli to możliwe, podczas zwiedzania muzeum."
               }
             },
             {
@@ -1000,7 +1073,8 @@
                 "de": "Nutzen Sie die Pause, um die nassen Sachen kurz abzutrocknen.",
                 "hu": "Használja ki az időt a vizes ruhák és felszerelések megszárítására.",
                 "ro": "Folosiți pauza pentru a vă șterge echipamentul ud.",
-                "en": "Use this break to dry off your wet gear before the next ride."
+                "en": "Use this break to dry off your wet gear before the next ride.",
+                "pl": "Wykorzystaj tę przerwę, by osuszyć mokry ekwipunek przed kolejną jazdą."
               }
             },
             {
@@ -1009,7 +1083,8 @@
                 "de": "Wählen Sie ein Lokal mit Sichtkontakt zu Ihrem Fahrrad.",
                 "hu": "Válasszon olyan helyet, ahonnan rálát a lezárt kerékpárra.",
                 "ro": "Alegeți un local de unde puteți vedea bicicleta parcată.",
-                "en": "Choose a place where you can keep an eye on your bike from inside."
+                "en": "Choose a place where you can keep an eye on your bike from inside.",
+                "pl": "Wybierz miejsce, z którego będziesz mógł widzieć swój rower z wnętrza."
               }
             },
             {
@@ -1018,7 +1093,8 @@
                 "de": "Der Boden kann hier schlammig sein, fahren Sie vorsichtig.",
                 "hu": "A talaj itt sáros lehet, hajtson óvatosan a kanyarokban.",
                 "ro": "Solul poate fi noroios aici, circulați cu atenție.",
-                "en": "The ground can be muddy here; ride carefully on the unpaved sections."
+                "en": "The ground can be muddy here; ride carefully on the unpaved sections.",
+                "pl": "Teren może być błotnisty; jedź ostrożnie po nieutwardzonych odcinkach."
               }
             },
             {
@@ -1027,7 +1103,8 @@
                 "de": "Die Felsen sind bei Regen rutschig, bleiben Sie auf den Wegen.",
                 "hu": "A sziklák esőben csúszósak, maradjon a kijelölt utakon.",
                 "ro": "Stâncile sunt alunecoase pe ploaie, rămâneți pe poteci.",
-                "en": "The rocks are slippery in the rain; stay on the designated paths."
+                "en": "The rocks are slippery in the rain; stay on the designated paths.",
+                "pl": "Skały są śliskie na deszczu; trzymaj się wyznaczonych ścieżek."
               }
             },
             {
@@ -1036,7 +1113,8 @@
                 "de": "Prüfen Sie Ihre Bremsen, sie könnten bei Nässe weniger greifen.",
                 "hu": "Ellenőrizze a fékeket, nedves időben hosszabb lehet a féktáv.",
                 "ro": "Verificați frânele, pot fi mai puțin eficiente pe timp umed.",
-                "en": "Check your brakes as they might be less responsive in the wet."
+                "en": "Check your brakes as they might be less responsive in the wet.",
+                "pl": "Sprawdź hamulce, bo w mokrych warunkach mogą reagować słabiej."
               }
             }
           ],
@@ -1064,6 +1142,12 @@
               "Full rain gear (trousers and jacket) is essential for this tour.",
               "Use bike racks near museums to get indoors as quickly as possible.",
               "The route to the Geopark has sections where puddles can accumulate."
+            ],
+            "pl": [
+              "Unikaj ostrych zakrętów na mokrych kostkach w centrum miasta.",
+              "Pełny strój przeciwdeszczowy (spodnie i kurtka) jest niezbędny na tę trasę.",
+              "Korzystaj ze stojaków rowerowych przy muzeach, by jak najszybciej wejść do środka.",
+              "Na trasie do Geoparku są odcinki, gdzie mogą gromadzić się kałuże."
             ]
           }
         },
@@ -1072,7 +1156,8 @@
             "de": "Winter-Biking in Kielce ist erfrischend. Dick eingepackt starten Sie am Marktplatz. Der Bischofspalast und das Spielzeugmuseum bieten die nötigen Aufwärmpausen. Mittags genießen Sie die Wintersonne auf der Sienkiewicz-Straße. Die Fahrt zum Geopark und zur Kadzielnia zeigt Ihnen die winterliche Natur Polens in ihrer ganzen Pracht, bevor Sie vor Einbruch der Dunkelheit zum Marktplatz zurückkehren.",
             "hu": "A téli bringázás Kielcében frissítő élmény. Jól felöltözve indulunk a Fő térről. A püspöki palota és a Játékmúzeum biztosítja a szükséges melegedőket. Délben a Sienkiewicz utcán élvezzük a téli napsütést. A Geopark és a Kadzielnia felé tekerve megismerhetjük Lengyelország téli arcát, majd még sötétedés előtt visszaérünk a Fő térre.",
             "ro": "Ciclismul de iarnă în Kielce este revigorant. Bine echipați, pornim din Piața Mare. Palatul Episcopilor și Muzeul Jucăriilor oferă pauzele necesare pentru încălzire. La prânz, ne bucurăm de soarele de iarnă pe strada Sienkiewicz. Drumul spre Geoparc și Kadzielnia dezvăluie natura hibernală a Poloniei, înainte de a reveni în piață la lăsarea serii.",
-            "en": "Winter biking in Kielce is refreshing. Bundled up, you start at the Market Square. The Bishops' Palace and the Toy Museum provide the necessary warming breaks. At midday, enjoy the winter sun on Sienkiewicz Street. The ride to Geopark and Kadzielnia shows Poland's winter nature in all its glory before returning to the square by dark."
+            "en": "Winter biking in Kielce is refreshing. Bundled up, you start at the Market Square. The Bishops' Palace and the Toy Museum provide the necessary warming breaks. At midday, enjoy the winter sun on Sienkiewicz Street. The ride to Geopark and Kadzielnia shows Poland's winter nature in all its glory before returning to the square by dark.",
+            "pl": "Zimowa jazda rowerem po Kielcach orzeźwia. Zapakowani ciepło, zaczynacie na Rynku. Pałac Biskupów i Muzeum Zabawek zapewniają potrzebne przerwy na rozgrzanie. W południe korzystaj z zimowego słońca na ulicy Sienkiewicza. Trasa do Geoparku i Kadzielni pokazuje polską zimową przyrodę w całej okazałości, zanim wrócisz na Rynek po zmroku."
           },
           "stops": [
             {
@@ -1081,7 +1166,8 @@
                 "de": "Prüfen Sie den Reifendruck; etwas weniger Druck gibt mehr Grip auf Schnee.",
                 "hu": "Ellenőrizze a guminyomást; a puhább gumi jobban tapad a havon.",
                 "ro": "Verificați presiunea; anvelopele ușor mai moi au aderență mai bună pe zăpadă.",
-                "en": "Check tire pressure; slightly lower pressure offers better grip on snow."
+                "en": "Check tire pressure; slightly lower pressure offers better grip on snow.",
+                "pl": "Sprawdź ciśnienie w oponach; nieco niższe ciśnienie daje lepszą przyczepność na śniegu."
               }
             },
             {
@@ -1090,7 +1176,8 @@
                 "de": "Wärmen Sie Ihre Hände auf, bevor es zum nächsten Ziel geht.",
                 "hu": "Melegítse fel a kezeit alaposan, mielőtt továbbindulna.",
                 "ro": "Încălziți-vă bine mâinile înainte de a pleca spre următoarea destinație.",
-                "en": "Make sure to warm up your hands thoroughly before the next ride."
+                "en": "Make sure to warm up your hands thoroughly before the next ride.",
+                "pl": "Upewnij się, że dokładnie rozgrzałeś dłonie przed kolejną jazdą."
               }
             },
             {
@@ -1099,7 +1186,8 @@
                 "de": "Ein idealer Ort, um die Kälte für eine Weile zu vergessen.",
                 "hu": "Ideális helyszín, hogy egy időre elfelejtse a kinti fagyot.",
                 "ro": "Un loc ideal pentru a uita de gerul de afară pentru o vreme.",
-                "en": "An ideal location to forget about the frost outside for a while."
+                "en": "An ideal location to forget about the frost outside for a while.",
+                "pl": "Idealne miejsce, by przez chwilę zapomnieć o mrozie na zewnątrz."
               }
             },
             {
@@ -1108,7 +1196,8 @@
                 "de": "Bestellen Sie ein heißes Getränk, um die Körpertemperatur zu halten.",
                 "hu": "Rendeljen forró italt, hogy testhőmérséklete ne csökkenjen tovább.",
                 "ro": "Comandați o băutură fierbinte pentru a vă menține temperatura corpului.",
-                "en": "Order a hot drink to keep your core body temperature up."
+                "en": "Order a hot drink to keep your core body temperature up.",
+                "pl": "Zamów gorący napój, by utrzymać temperaturę ciała."
               }
             },
             {
@@ -1117,7 +1206,8 @@
                 "de": "Achten Sie auf gefrorenen Matsch auf den Waldwegen.",
                 "hu": "Vigyázzon a megfagyott sárra és jégre az erdei utakon.",
                 "ro": "Atenție la noroiul înghețat de pe potecile din pădure.",
-                "en": "Watch out for frozen mud and icy patches on the forest paths."
+                "en": "Watch out for frozen mud and icy patches on the forest paths.",
+                "pl": "Uważaj na zamarznięte błoto i oblodzenia na leśnych ścieżkach."
               }
             },
             {
@@ -1126,7 +1216,8 @@
                 "de": "Die Aussicht auf die verschneiten Felsen ist im Winter einmalig.",
                 "hu": "A havas sziklák látványa télen egészen egyedülálló élmény.",
                 "ro": "Priveliștea stâncilor înzăpezite este unică pe timpul iernii.",
-                "en": "The view of the snow-covered cliffs is truly unique in winter."
+                "en": "The view of the snow-covered cliffs is truly unique in winter.",
+                "pl": "Widok zaśnieżonych klifów jest naprawdę wyjątkowy zimą."
               }
             },
             {
@@ -1135,7 +1226,8 @@
                 "de": "Schalten Sie Ihr Licht ein, die Dämmerung beginnt früh.",
                 "hu": "Kapcsolja be a lámpákat, mert a szürkület hamar beáll.",
                 "ro": "Aprindeți luminile, deoarece amurgul se instalează devreme.",
-                "en": "Turn on your lights as dusk sets in very early in winter."
+                "en": "Turn on your lights as dusk sets in very early in winter.",
+                "pl": "Włącz światła, bo zmrok zapada bardzo wcześnie zimą."
               }
             }
           ],
@@ -1163,6 +1255,12 @@
               "Watch out for 'black ice' on the paved streets in the city center.",
               "Use the midday sun for the longer stretches toward the Geopark.",
               "Kielce can be very windy in winter; a neck warmer is highly recommended."
+            ],
+            "pl": [
+              "Noś wiatroszczelne rękawice, by zapobiec zmarznięciu palców.",
+              "Uważaj na „czarny lód” na brukowanych ulicach w centrum.",
+              "Wykorzystaj południowe słońce na dłuższe odcinki w kierunku Geoparku.",
+              "Kielce mogą być bardzo wietrzne zimą; polecam komin lub chustę na szyję."
             ]
           }
         }
@@ -1181,7 +1279,8 @@
             "de": "Parken am Marktplatz",
             "hu": "Parkolás a Piactérnél",
             "ro": "Parcare lângă Piața Centrală",
-            "en": "Parking near the Market Square"
+            "en": "Parking near the Market Square",
+            "pl": "Parkowanie przy Rynku"
           },
           "coords": [
             20.627,
@@ -1197,7 +1296,8 @@
             "de": "Finden Sie einen Parkplatz für den Morgen. Es gibt mehrere gebührenpflichtige Zonen.",
             "hu": "Keressen parkolóhelyet a délelőttre. Több fizetős zóna is van.",
             "ro": "Găsiți un loc de parcare pentru dimineață. Există mai multe zone cu plată.",
-            "en": "Find a parking spot for the morning. There are several paid zones."
+            "en": "Find a parking spot for the morning. There are several paid zones.",
+            "pl": "Znajdź miejsce parkingowe na poranek. Są tu różne strefy płatne."
           }
         },
         {
@@ -1205,7 +1305,8 @@
             "de": "Marktplatz & Sienkiewicz-Straße",
             "hu": "Piactér és Sienkiewicz utca",
             "ro": "Piața Centrală și Strada Sienkiewicz",
-            "en": "Market Square & Sienkiewicz Street"
+            "en": "Market Square & Sienkiewicz Street",
+            "pl": "Rynek i ulica Sienkiewicza"
           },
           "coords": [
             20.628,
@@ -1221,7 +1322,8 @@
             "de": "Erkunden Sie den Platz und die Hauptstraße zu Fuß.",
             "hu": "Fedezze fel a teret és a főutcát gyalog.",
             "ro": "Explorați piața și strada principală pe jos.",
-            "en": "Explore the square and the main street on foot."
+            "en": "Explore the square and the main street on foot.",
+            "pl": "Zwiedzaj Rynek i główną ulicę pieszo."
           }
         },
         {
@@ -1229,7 +1331,8 @@
             "de": "Palast der Krakauer Bischöfe & Kathedrale",
             "hu": "Krakkói Püspöki Palota és Székesegyház",
             "ro": "Palatul Episcopilor din Cracovia și Catedrala",
-            "en": "Palace of the Krakow Bishops & Cathedral"
+            "en": "Palace of the Krakow Bishops & Cathedral",
+            "pl": "Pałac Biskupów Krakowskich i Katedra"
           },
           "coords": [
             20.6288,
@@ -1245,7 +1348,8 @@
             "de": "Beide sind nebeneinander und können leicht zusammen besichtigt werden.",
             "hu": "Mindkettő egymás mellett van, és könnyen megtekinthetők együtt.",
             "ro": "Ambele sunt adiacente și pot fi vizitate cu ușurință împreună.",
-            "en": "Both are adjacent and can be easily visited together."
+            "en": "Both are adjacent and can be easily visited together.",
+            "pl": "Obie atrakcje przylegają do siebie i można je wygodnie zwiedzić razem."
           }
         },
         {
@@ -1253,7 +1357,8 @@
             "de": "Fahrt zum Geopark Kielce",
             "hu": "Utazás a Kielce Geoparkhoz",
             "ro": "Condus spre Geoparcul Kielce",
-            "en": "Drive to Geopark Kielce"
+            "en": "Drive to Geopark Kielce",
+            "pl": "Dojazd do Geoparku Kielce"
           },
           "coords": [
             20.615,
@@ -1269,7 +1374,8 @@
             "de": "Parken Sie hier und bereiten Sie sich darauf vor, das geologische Zentrum zu erkunden.",
             "hu": "Parkoljon le itt, és készüljön fel a geológiai központ felfedezésére.",
             "ro": "Parcați aici și pregătiți-vă să explorați centrul geologic.",
-            "en": "Park here and prepare to explore the geological center."
+            "en": "Park here and prepare to explore the geological center.",
+            "pl": "Zaparkuj tu i przygotuj się do zwiedzania centrum geologicznego."
           }
         },
         {
@@ -1277,7 +1383,8 @@
             "de": "Naturschutzgebiet Kadzielnia",
             "hu": "Kadzielnia Természetvédelmi Terület",
             "ro": "Rezervația Naturală Kadzielnia",
-            "en": "Kadzielnia Nature Reserve"
+            "en": "Kadzielnia Nature Reserve",
+            "pl": "Rezerwat Przyrody Kadzielnia"
           },
           "coords": [
             20.618,
@@ -1293,7 +1400,8 @@
             "de": "Ein kurzer Spaziergang vom Geopark entfernt; erkunden Sie die Wege und Höhlen.",
             "hu": "Rövid séta a Geoparktól; fedezze fel az ösvényeket és barlangokat.",
             "ro": "La o scurtă plimbare de Geoparc; explorați potecile și peșterile.",
-            "en": "A short walk from the Geopark; explore the paths and caves."
+            "en": "A short walk from the Geopark; explore the paths and caves.",
+            "pl": "Krótki spacer od Geoparku; odkrywaj ścieżki i jaskinie."
           }
         },
         {
@@ -1301,7 +1409,8 @@
             "de": "Fahrt zurück ins Zentrum zum Abendessen",
             "hu": "Vissza a központba vacsorázni",
             "ro": "Înapoi în centru pentru cină",
-            "en": "Drive back to the center for dinner"
+            "en": "Drive back to the center for dinner",
+            "pl": "Powrót do centrum na kolację"
           },
           "coords": [
             20.6275,
@@ -1317,7 +1426,8 @@
             "de": "Fahren Sie zurück in die Nähe des Marktplatzes, um eine größere Auswahl an Restaurants zu haben.",
             "hu": "Hajtson vissza a Piactér közelébe a szélesebb étteremválasztékért.",
             "ro": "Conduceți înapoi în apropierea Pieței Centrale pentru o selecție mai largă de restaurante.",
-            "en": "Drive back near the Market Square for a wider choice of restaurants."
+            "en": "Drive back near the Market Square for a wider choice of restaurants.",
+            "pl": "Wróć w okolice Rynku, by mieć większy wybór restauracji."
           }
         }
       ],
@@ -1325,7 +1435,8 @@
         "de": "Beginnen Sie Ihren Tag, indem Sie im Zentrum von Kielce parken und den historischen Kern zu Fuß erkunden: den Marktplatz, die Sienkiewicz-Straße und den prächtigen Palast-Kathedralen-Komplex. Nach dem Mittagessen fahren Sie zu den Naturwundern außerhalb des unmittelbaren Zentrums. Erkunden Sie den Geopark und das benachbarte Kadzielnia-Reservat, eine faszinierende Mischung aus Geologie und Natur. Schließen Sie den Tag mit einer kurzen Fahrt zurück ins Zentrum für ein wohlverdientes polnisches Abendessen ab.",
         "hu": "Kezdje a napot Kielce központjában parkolva, és fedezze fel gyalog a történelmi magot: a Piacteret, a Sienkiewicz utcát és a csodálatos Palota-Székesegyház komplexumot. Ebéd után autózzon el a közvetlen központon kívüli természeti csodákhoz. Fedezze fel a Geoparkot és a szomszédos Kadzielnia Rezervátumot, a geológia és a természet lenyűgöző keverékét. Zárja a napot egy rövid autóúttal vissza a központba egy jól megérdemelt lengyel vacsorára.",
         "ro": "Începeți ziua parcând în centrul orașului Kielce și explorând nucleul istoric pe jos: Piața Centrală, strada Sienkiewicz și magnificul complex Palat-Catedrală. După prânz, conduceți spre minunile naturale din afara centrului imediat. Explorați Geoparcul și Rezervația Kadzielnia adiacentă, un amestec fascinant de geologie și natură. Încheiați ziua cu o scurtă călătorie cu mașina înapoi în centru pentru o cină poloneză binemeritată.",
-        "en": "Start your day by parking in the center of Kielce and exploring the historic core on foot: the Market Square, Sienkiewicz Street, and the magnificent Palace-Cathedral complex. After lunch, drive to the natural wonders just outside the immediate center. Explore the Geopark and the adjacent Kadzielnia Reserve, a fascinating mix of geology and nature. End the day with a short drive back to the center for a well-deserved Polish dinner."
+        "en": "Start your day by parking in the center of Kielce and exploring the historic core on foot: the Market Square, Sienkiewicz Street, and the magnificent Palace-Cathedral complex. After lunch, drive to the natural wonders just outside the immediate center. Explore the Geopark and the adjacent Kadzielnia Reserve, a fascinating mix of geology and nature. End the day with a short drive back to the center for a well-deserved Polish dinner.",
+        "pl": "Rozpocznij dzień, parkując w centrum Kielc i zwiedzając zabytkowe serce pieszo: Rynek, ulicę Sienkiewicza i wspaniały kompleks Pałac–Katedra. Po obiedzie dojedź samochodem do przyrodniczych cudów tuż poza centrum. Odkrywaj Geopark i sąsiedni Rezerwat Kadzielnia, fascynujące połączenie geologii i przyrody. Zakończ dzień krótkim dojazdem z powrotem do centrum na zasłużoną polską kolację."
       },
       "gastro_picks": {
         "de": [
@@ -1521,6 +1632,12 @@
           "Navigating the city center can be tricky due to one-way streets. Use GPS.",
           "The cluster-walking method saves time on finding parking for each individual sight.",
           "Plan for extra time for traffic during peak hours."
+        ],
+        "pl": [
+          "Parkowanie w centrum jest płatne. Miej ze sobą monety lub aplikację parkingową.",
+          "Nawigacja po centrum może być utrudniona z powodu jednokierunkowych ulic. Używaj GPS.",
+          "Metoda zwiedzania w klastrach oszczędza czas na szukanie miejsca parkingowego przy każdej atrakcji.",
+          "Zaplanuj dodatkowy czas na korki w godzinach szczytu."
         ]
       },
       "variants": {
@@ -1529,7 +1646,8 @@
             "de": "Ein Regentag in Kielce lässt sich am besten mit dem Auto bewältigen. Parken Sie direkt im Zentrum und besuchen Sie den Marktplatz und den Bischofspalast ohne lange Wege im Freien. Mittags fahren Sie bequem zum Geopark und zur Kadzielnia, wo Sie die Aussichtspunkte fast direkt vom Parkplatz aus erreichen können. Der Tag endet entspannt mit einer Fahrt zum Abendessen, während der Regen gegen die Scheiben prasselt.",
             "hu": "Egy esős nap Kielcében autóval a legkényelmesebb. Parkoljon közvetlenül a központban, így a Fő tér és a püspöki palota is csak pár lépés. Délben guruljon át a Geoparkhoz és a Kadzielniához, ahol a kilátópontok közel vannak a parkolókhoz. A napot egy nyugodt autózással zárjuk a vacsora helyszínére, miközben az eső kopog a szélvédőn.",
             "ro": "O zi ploioasă în Kielce este cel mai confortabil de parcurs cu mașina. Parcați direct în centru pentru a vizita Piața Mare și Palatul Episcopilor fără a merge mult prin ploaie. La prânz, conduceți spre Geoparc și Kadzielnia, unde punctele de belvedere sunt aproape de parcări. Ziua se încheie relaxat cu o scurtă cursă spre cină.",
-            "en": "A rainy day in Kielce is most comfortably handled by car. Park directly in the center to visit the Market Square and the Bishops' Palace with minimal walking in the wet. At midday, drive to the Geopark and Kadzielnia, where viewpoints are close to the parking areas. The day ends with a relaxed drive to dinner while the rain taps on the windshield."
+            "en": "A rainy day in Kielce is most comfortably handled by car. Park directly in the center to visit the Market Square and the Bishops' Palace with minimal walking in the wet. At midday, drive to the Geopark and Kadzielnia, where viewpoints are close to the parking areas. The day ends with a relaxed drive to dinner while the rain taps on the windshield.",
+            "pl": "Deszczowy dzień w Kielcach najwygodniej przetrwać samochodem. Zaparkuj bezpośrednio w centrum, by odwiedzić Rynek i Pałac Biskupów przy minimalnym marszu w mokru. W południe pojedź do Geoparku i Kadzielni, gdzie punkty widokowe są blisko miejsc parkingowych. Dzień kończy się spokojną jazdą na kolację, podczas gdy deszcz stuka w przednią szybę."
           },
           "stops": [
             {
@@ -1538,7 +1656,8 @@
                 "de": "Nutzen Sie Parkhäuser, um trockenen Fußes in die Stadt zu gelangen.",
                 "hu": "Válasszon fedett parkolót, hogy száraz lábbal érjen be a központba.",
                 "ro": "Folosiți parcările acoperite pentru a ajunge în centru fără a vă uda.",
-                "en": "Use covered parking garages to reach the center while staying dry."
+                "en": "Use covered parking garages to reach the center while staying dry.",
+                "pl": "Korzystaj z krytych garaży, by dotrzeć do centrum suchą stopą."
               }
             },
             {
@@ -1547,7 +1666,8 @@
                 "de": "Lassen Sie Ihren Regenschirm griffbereit im Auto.",
                 "hu": "Tartsa az esernyőt könnyen elérhető helyen az autóban.",
                 "ro": "Țineți umbrela la îndemână în mașină.",
-                "en": "Keep your umbrella within easy reach inside the car."
+                "en": "Keep your umbrella within easy reach inside the car.",
+                "pl": "Miej parasol pod ręką wewnątrz samochodu."
               }
             },
             {
@@ -1556,7 +1676,8 @@
                 "de": "Es gibt Parkplätze sehr nah am Schlosshügel.",
                 "hu": "A várdomb közvetlen közelében is találhatók parkolóhelyek.",
                 "ro": "Există locuri de parcare chiar lângă dealul castelului.",
-                "en": "There are parking spaces located very close to the castle hill."
+                "en": "There are parking spaces located very close to the castle hill.",
+                "pl": "Przy wzgórzu zamkowym znajdują się miejsca parkingowe bardzo blisko."
               }
             },
             {
@@ -1565,7 +1686,8 @@
                 "de": "Vermeiden Sie bei starkem Regen unbefestigte Seitenstreifen.",
                 "hu": "Nagy esőben kerülje a nem aszfaltozott útpadkákat.",
                 "ro": "Evitați acostamentele neasfaltate în timpul ploilor torențiale.",
-                "en": "Avoid unpaved road shoulders during heavy rain."
+                "en": "Avoid unpaved road shoulders during heavy rain.",
+                "pl": "Unikaj nieutwardzonych poboczy podczas ulewy."
               }
             },
             {
@@ -1574,7 +1696,8 @@
                 "de": "Der Hauptparkplatz bietet einen guten Blick, auch wenn es stark regnet.",
                 "hu": "A főparkolóból akkor is jó a kilátás, ha épp szakad az eső.",
                 "ro": "Parcarea principală oferă o vedere bună chiar dacă plouă torențial.",
-                "en": "The main parking lot offers a good view even if it's pouring rain."
+                "en": "The main parking lot offers a good view even if it's pouring rain.",
+                "pl": "Główny parking oferuje dobry widok nawet podczas ulewy."
               }
             },
             {
@@ -1583,7 +1706,8 @@
                 "de": "Planen Sie etwas mehr Zeit für die Parkplatzsuche am Abend ein.",
                 "hu": "Számoljon kicsit több idővel a belvárosi parkoláshoz este.",
                 "ro": "Alocați puțin mai mult timp pentru găsirea unui loc de parcare seara.",
-                "en": "Allow a bit more time for finding a parking spot in the center at night."
+                "en": "Allow a bit more time for finding a parking spot in the center at night.",
+                "pl": "Przygotuj się na nieco dłuższe poszukiwania miejsca parkingowego w centrum nocą."
               }
             }
           ],
@@ -1611,6 +1735,12 @@
               "Parking fees in the center can be conveniently paid via mobile apps.",
               "Use the seat heating to warm up quickly after outdoor stops.",
               "Some roads near Kadzielnia can accumulate large puddles during rain."
+            ],
+            "pl": [
+              "Sprawdź wycieraczki przed jazdą po pagórkowatych obrzeżach.",
+              "Opłaty parkingowe w centrum można wygodnie płacić przez aplikacje mobilne.",
+              "Włącz ogrzewanie siedzeń, by szybko się rozgrzać po przerwach na zewnątrz.",
+              "Niektóre drogi w pobliżu Kadzielni mogą gromadzić duże kałuże podczas deszczu."
             ]
           }
         },
@@ -1619,7 +1749,8 @@
             "de": "Mit dem Auto ist der Winter in Kielce ein Genuss. Sie starten warm am Marktplatz und fahren dann zum prächtigen Bischofspalast. Mittags bringt Sie das Auto schnell zum Geopark, während Sie draußen die verschneite Landschaft bewundern. Die Kadzielnia wirkt im Winter wie eine Eisburg. Den Tag beschließen Sie mit einer kurzen Fahrt zurück in die Stadt, wo ein warmes Abendessen auf Sie wartet.",
             "hu": "Autóval a téli Kielce igazi élvezet. Melegben indulunk a Fő térről, majd a püspöki palotához hajtunk. Délben a kocsi gyorsan elvisz a Geoparkhoz, miközben az ablakból csodálhatjuk a havas tájat. A Kadzielnia télen olyan, mint egy jégvár. A napot egy rövid autózással zárjuk vissza a városba, ahol forró vacsora vár ránk.",
             "ro": "Iarna în Kielce este o plăcere cu mașina. Porniți la drum din Piața Mare și mergeți spre Palatul Episcopilor. La prânz, mașina vă duce rapid la Geoparc, în timp ce admirați peisajul înzăpezit de la fereastră. Kadzielnia arată ca un castel de gheață iarna. Ziua se încheie cu o scurtă cursă înapoi în oraș pentru o cină caldă.",
-            "en": "Winter in Kielce is a treat by car. Start in comfort at the Market Square and head to the magnificent Bishops' Palace. At midday, the car whiskies you to the Geopark while you admire the snowy scenery from the window. Kadzielnia looks like an ice castle in winter. The day concludes with a short drive back to the city for a warm dinner."
+            "en": "Winter in Kielce is a treat by car. Start in comfort at the Market Square and head to the magnificent Bishops' Palace. At midday, the car whiskies you to the Geopark while you admire the snowy scenery from the window. Kadzielnia looks like an ice castle in winter. The day concludes with a short drive back to the city for a warm dinner.",
+            "pl": "Zima w Kielcach to przyjemność samochodem. Zacznij wygodnie na Rynku i udaj się do wspaniałego Pałacu Biskupów. W południe samochód zawiezie cię do Geoparku, a ty podziwiasz zaśnieżony krajobraz przez szybę. Kadzielnia wygląda zimą jak lodowy zamek. Dzień kończy krótka przejażdżka z powrotem do miasta na ciepłą kolację."
           },
           "stops": [
             {
@@ -1628,7 +1759,8 @@
                 "de": "Stellen Sie sicher, dass Ihr Scheibenwischwasser frostsicher ist.",
                 "hu": "Győződjön meg róla, hogy fagyálló szélvédőmosót használ.",
                 "ro": "Asigurați-vă că folosiți lichid de parbriz rezistent la îngheț.",
-                "en": "Ensure you are using frost-resistant windshield washer fluid."
+                "en": "Ensure you are using frost-resistant windshield washer fluid.",
+                "pl": "Upewnij się, że używasz odmrażającego płynu do spryskiwaczy."
               }
             },
             {
@@ -1637,7 +1769,8 @@
                 "de": "Tragen Sie griffige Schuhe für den Weg vom Parkplatz.",
                 "hu": "Viseljen jól tapadó talpú cipőt a parkolótól vezető úton.",
                 "ro": "Purtați încălțăminte cu aderență bună pentru drumul de la parcare.",
-                "en": "Wear shoes with good grip for the walk from the parking lot."
+                "en": "Wear shoes with good grip for the walk from the parking lot.",
+                "pl": "Zakładaj buty z dobrą przyczepnością na spacer z parkingu."
               }
             },
             {
@@ -1646,7 +1779,8 @@
                 "de": "Parken Sie nicht unter Bäumen, falls Schnee oder Eis herunterfallen könnte.",
                 "hu": "Ne parkoljon fák alatt, ha fennáll a hó- vagy jégomlás veszélye.",
                 "ro": "Nu parcați sub copaci dacă există risc de căderi de zăpadă sau gheață.",
-                "en": "Avoid parking under trees if there's a risk of falling snow or ice."
+                "en": "Avoid parking under trees if there's a risk of falling snow or ice.",
+                "pl": "Unikaj parkowania pod drzewami, jeśli istnieje ryzyko spadającego śniegu lub sopli."
               }
             },
             {
@@ -1655,7 +1789,8 @@
                 "de": "Vorsicht vor Straßenglätte in den schattigen Waldabschnitten.",
                 "hu": "Vigyázzon a jegesedésre az út árnyékos, erdei szakaszain.",
                 "ro": "Atenție la porțiunile de drum înghețate în zonele cu umbră.",
-                "en": "Watch out for road icing in the shaded, forested sections."
+                "en": "Watch out for road icing in the shaded, forested sections.",
+                "pl": "Uważaj na oblodzenie na zacienionych, zalesionych odcinkach dróg."
               }
             },
             {
@@ -1664,7 +1799,8 @@
                 "de": "Das Auto bietet einen warmen Rückzugsort nach dem Fotostopp.",
                 "hu": "Az autó meleg menedéket nyújt a fotózás után.",
                 "ro": "Mașina oferă un refugiu cald după sesiunea de fotografii.",
-                "en": "The car provides a warm retreat after your photography stop."
+                "en": "The car provides a warm retreat after your photography stop.",
+                "pl": "Samochód zapewni ciepłe schronienie po przystanku fotograficznym."
               }
             },
             {
@@ -1673,7 +1809,8 @@
                 "de": "Lassen Sie die Fenster kurz einen Spalt offen, um Beschlagen zu vermeiden.",
                 "hu": "Húzza le résnyire az ablakot, hogy elkerülje a párásodást.",
                 "ro": "Lăsați geamul puțin deschis pentru a evita aburirea.",
-                "en": "Crack the window slightly to help prevent fogging while driving."
+                "en": "Crack the window slightly to help prevent fogging while driving.",
+                "pl": "Szczelnie uchyl okno, by zapobiec parowaniu podczas jazdy."
               }
             }
           ],
@@ -1701,6 +1838,12 @@
               "Always carry an ice scraper and a small brush for clearing snow.",
               "Watch out for wildlife crossing near the Geopark during twilight.",
               "Car batteries can weaken in the cold; ensure your vehicle is in good condition."
+            ],
+            "pl": [
+              "Opony zimowe są obowiązkowe w tym regionie Polski od listopada do marca.",
+              "Zawsze miej ze sobą skrobaczkę do lodu i małą szczotkę do oczyszczania śniegu.",
+              "Uważaj na zwierzynę przekraczającą drogę w pobliżu Geoparku o zmierzchu.",
+              "Akumulatory samochodowe mogą słabnąć na mrozie; sprawdź stan pojazdu."
             ]
           }
         }
@@ -1719,7 +1862,8 @@
             "de": "Ankunft am Marktplatz",
             "hu": "Érkezés a Piactérre",
             "ro": "Sosire în Piața Centrală",
-            "en": "Arrival at Market Square"
+            "en": "Arrival at Market Square",
+            "pl": "Przyjazd na Rynek"
           },
           "coords": [
             20.628,
@@ -1735,7 +1879,8 @@
             "de": "Nehmen Sie einen Bus zu einer Haltestelle in der Nähe des Platzes, z. B. 'Plac Artystów'.",
             "hu": "Menjen busszal a térhez közeli megállóig, például a 'Plac Artystów'-ig.",
             "ro": "Luați un autobuz până la o stație din apropierea pieței, cum ar fi 'Plac Artystów'.",
-            "en": "Take a bus to a stop near the square, such as 'Plac Artystów'."
+            "en": "Take a bus to a stop near the square, such as 'Plac Artystów'.",
+            "pl": "Jedź autobusem do przystanku w pobliżu rynku, np. 'Plac Artystów'."
           }
         },
         {
@@ -1743,7 +1888,8 @@
             "de": "Palast der Krakauer Bischöfe",
             "hu": "Krakkói Püspöki Palota",
             "ro": "Palatul Episcopilor din Cracovia",
-            "en": "Palace of the Krakow Bishops"
+            "en": "Palace of the Krakow Bishops",
+            "pl": "Pałac Biskupów Krakowskich"
           },
           "coords": [
             20.6288,
@@ -1759,7 +1905,8 @@
             "de": "Ein kurzer Spaziergang vom Marktplatz entfernt.",
             "hu": "Rövid séta a Piactértől.",
             "ro": "La o scurtă plimbare de Piața Centrală.",
-            "en": "A short walk from the Market Square."
+            "en": "A short walk from the Market Square.",
+            "pl": "Krótki spacer od Rynku."
           }
         },
         {
@@ -1767,7 +1914,8 @@
             "de": "Kathedrale & Museum für Spielzeug",
             "hu": "Székesegyház és Játékmúzeum",
             "ro": "Catedrala și Muzeul Jucăriilor",
-            "en": "Cathedral & Toy Museum"
+            "en": "Cathedral & Toy Museum",
+            "pl": "Katedra i Muzeum Zabawek"
           },
           "coords": [
             20.6295,
@@ -1783,7 +1931,8 @@
             "de": "Besichtigen Sie die Kathedrale und gehen Sie dann zum nahegelegenen Museum.",
             "hu": "Nézze meg a székesegyházat, majd sétáljon át a közeli múzeumba.",
             "ro": "Vizitați catedrala, apoi mergeți pe jos la muzeul din apropiere.",
-            "en": "Visit the cathedral, then walk over to the nearby museum."
+            "en": "Visit the cathedral, then walk over to the nearby museum.",
+            "pl": "Odwiedź katedrę, a potem przejdź do pobliskiego muzeum."
           }
         },
         {
@@ -1791,7 +1940,8 @@
             "de": "Fahrt zum Kadzielnia-Reservat",
             "hu": "Buszozás a Kadzielnia Rezervátumhoz",
             "ro": "Călătorie cu autobuzul la Rezervația Kadzielnia",
-            "en": "Bus ride to Kadzielnia Reserve"
+            "en": "Bus ride to Kadzielnia Reserve",
+            "pl": "Przejazd autobusem do rezerwatu Kadzielnia"
           },
           "coords": [
             20.618,
@@ -1807,7 +1957,8 @@
             "de": "Mehrere Buslinien halten in der Nähe des Reservats, z. B. an der Haltestelle 'Krakowska / Kadzielnia'.",
             "hu": "Több buszjárat is megáll a rezervátum közelében, például a 'Krakowska / Kadzielnia' megállónál.",
             "ro": "Mai multe linii de autobuz opresc lângă rezervație, la stația 'Krakowska / Kadzielnia'.",
-            "en": "Several bus lines stop near the reserve, at the 'Krakowska / Kadzielnia' stop."
+            "en": "Several bus lines stop near the reserve, at the 'Krakowska / Kadzielnia' stop.",
+            "pl": "Kilka linii autobusowych zatrzymuje się przy rezerwacie, na przystanku 'Krakowska / Kadzielnia'."
           }
         },
         {
@@ -1815,7 +1966,8 @@
             "de": "Geopark Kielce",
             "hu": "Kielce Geopark",
             "ro": "Geoparcul Kielce",
-            "en": "Geopark Kielce"
+            "en": "Geopark Kielce",
+            "pl": "Geopark Kielce"
           },
           "coords": [
             20.615,
@@ -1831,7 +1983,8 @@
             "de": "Ein einfacher Spaziergang vom Kadzielnia-Park zum Geologiezentrum.",
             "hu": "Könnyű séta a Kadzielnia parktól a geológiai központig.",
             "ro": "O plimbare ușoară de la Parcul Kadzielnia la centrul de geologie.",
-            "en": "An easy walk from Kadzielnia park to the geology center."
+            "en": "An easy walk from Kadzielnia park to the geology center.",
+            "pl": "Łatwy spacer z parku Kadzielnia do centrum geologicznego."
           }
         },
         {
@@ -1839,7 +1992,8 @@
             "de": "Rückfahrt ins Zentrum",
             "hu": "Vissza a központba",
             "ro": "Întoarcere în centru",
-            "en": "Return to the center"
+            "en": "Return to the center",
+            "pl": "Powrót do centrum"
           },
           "coords": [
             20.6275,
@@ -1855,7 +2009,8 @@
             "de": "Nehmen Sie einen Bus zurück zur Sienkiewicz-Straße für das Abendessen.",
             "hu": "Menjen busszal vissza a Sienkiewicz utcára vacsorázni.",
             "ro": "Luați un autobuz înapoi pe strada Sienkiewicz pentru cină.",
-            "en": "Take a bus back to Sienkiewicz Street for dinner."
+            "en": "Take a bus back to Sienkiewicz Street for dinner.",
+            "pl": "Wróć autobusem na ul. Sienkiewicza na kolację."
           }
         }
       ],
@@ -1863,7 +2018,8 @@
         "de": "Nutzen Sie Kiels effiziente Busse, um Ihren Tag zu beginnen, und steigen Sie in der Nähe des historischen Zentrums aus. Verbringen Sie den Morgen damit, den Palast, die Kathedrale und die Museen zu Fuß zu erkunden. Nach dem Mittagessen bringt Sie ein kurzer Bus Sie in eine andere Welt: die geologischen Parks Kadzielnia und Geopark. Erkunden Sie dieses Naturgebiet, bevor Sie mit dem Bus ins Zentrum zurückkehren, um einen entspannten Abend zu verbringen.",
         "hu": "Használja Kielce hatékony buszait a nap indításához, szálljon le a történelmi központ közelében. Töltse a délelőttöt a Palota, a Székesegyház és a múzeumok gyalogos felfedezésével. Ebéd után egy rövid buszozás egy másik világba repíti: a Kadzielnia és a Geopark geológiai parkjaiba. Fedezze fel ezt a természeti területet, mielőtt visszatérne a központba egy pihentető estére.",
         "ro": "Folosiți autobuzele eficiente din Kielce pentru a începe ziua, coborând aproape de centrul istoric. Petreceți dimineața explorând pe jos Palatul, Catedrala și muzeele. După prânz, o scurtă călătorie cu autobuzul vă transportă într-o altă lume: parcurile geologice Kadzielnia și Geopark. Explorați această zonă naturală înainte de a lua un autobuz înapoi în centru pentru o seară relaxantă.",
-        "en": "Use Kielce's efficient buses to start your day, hopping off near the historic center. Spend the morning exploring the Palace, Cathedral, and museums on foot. After lunch, a short bus ride transports you to another world: the Kadzielnia and Geopark geological parks. Explore this natural area before taking a bus back to the center for a relaxing evening."
+        "en": "Use Kielce's efficient buses to start your day, hopping off near the historic center. Spend the morning exploring the Palace, Cathedral, and museums on foot. After lunch, a short bus ride transports you to another world: the Kadzielnia and Geopark geological parks. Explore this natural area before taking a bus back to the center for a relaxing evening.",
+        "pl": "Skorzystaj z wydajnych autobusów Kielc, zaczynając dzień i wysiadając przy zabytkowym centrum. Przed południem zwiedzaj Pałac, Katedrę i muzea na piechotę. Po lunchu krótki przejazd autobusem przeniesie cię do innego świata: Kadzielni i Geoparku. Zwiedź ten obszar przyrodniczy, zanim wrócisz autobusem do centrum na relaksujący wieczór."
       },
       "gastro_picks": {
         "de": [
@@ -2059,6 +2215,12 @@
           "Use an app like 'jakdojade' to track bus routes and schedules in real-time.",
           "Most buses are modern, but keep some change handy in case you need to buy a ticket on board.",
           "Be aware of the stop names, as they may not always match the attraction names."
+        ],
+        "pl": [
+          "Kup bilet całodzienny na autobus, aby korzystać z nieograniczonych przejazdów.",
+          "Użyj aplikacji takiej jak 'jakdojade' do śledzenia tras i rozkładów w czasie rzeczywistym.",
+          "Większość autobusów jest nowoczesna, ale miej drobne na wypadek zakupu biletu u kierowcy.",
+          "Zwracaj uwagę na nazwy przystanków, bo nie zawsze odpowiadają nazwom atrakcji."
         ]
       },
       "variants": {
@@ -2067,7 +2229,8 @@
             "de": "Nutzen Sie das gut ausgebaute Busnetz von Kielce an diesem Regentag. Vom Marktplatz gelangen Sie schnell zum Bischofspalast. Mittags bringt Sie ein Bus direkt zur Kathedrale und zum Játékmúzeum. Die Fahrt zur Kadzielnia und zum Geopark erspart Ihnen lange Fußwege im Regen. Den Abend lassen Sie gemütlich im Zentrum ausklingen, während Sie bequem mit dem Bus zurückkehren.",
             "hu": "Használja Kielce jól kiépített buszhálózatát ezen az esős napon. A Fő térről gyorsan elérheti a püspöki palotát. Délben a busz közvetlenül a katedrálishoz és a Játékmúzeumhoz visz. A Kadzielnia és a Geopark felé vezető út így megkíméli a hosszú, esős gyaloglástól. Az estét a belvárosban zárjuk, ahonnan kényelmesen visszatérhet szállására.",
             "ro": "Folosiți rețeaua de autobuze bine pusă la punct din Kielce în această zi ploioasă. Din Piața Mare ajungeți rapid la Palatul Episcopilor. La prânz, un autobuz vă duce direct la Catedrală și la Muzeul Jucăriilor. Drumul spre Kadzielnia și Geoparc vă scutește de plimbări lungi prin ploaie. Încheiați seara confortabil în centru.",
-            "en": "Use Kielce's well-developed bus network on this rainy day. From the Market Square, reach the Bishops' Palace quickly. At midday, a bus takes you directly to the Cathedral and the Toy Museum. The trip to Kadzielnia and the Geopark saves you from long walks in the rain. Conclude the evening cozily in the center before heading back by bus."
+            "en": "Use Kielce's well-developed bus network on this rainy day. From the Market Square, reach the Bishops' Palace quickly. At midday, a bus takes you directly to the Cathedral and the Toy Museum. The trip to Kadzielnia and the Geopark saves you from long walks in the rain. Conclude the evening cozily in the center before heading back by bus.",
+            "pl": "Wykorzystaj dobrze rozwiniętą sieć autobusową Kielc w ten deszczowy dzień. Z Rynku szybko dotrzesz do Pałacu Biskupów. W południe autobus zawiezie cię bezpośrednio do Katedry i Muzeum Zabawek. Przejazd do Kadzielni i Geoparku oszczędzi długich spacerów w deszczu. Zakończ wieczór przytulnie w centrum, a stamtąd wróć autobusem."
           },
           "stops": [
             {
@@ -2076,7 +2239,8 @@
                 "de": "Die meisten Haltestellen im Zentrum sind überdacht.",
                 "hu": "A belvárosi buszmegállók többsége fedett.",
                 "ro": "Majoritatea stațiilor din centru sunt acoperite.",
-                "en": "Most of the bus stops in the center are covered for protection."
+                "en": "Most of the bus stops in the center are covered for protection.",
+                "pl": "Większość przystanków w centrum jest zadaszona."
               }
             },
             {
@@ -2085,7 +2249,8 @@
                 "de": "Die Bushaltestelle liegt nur wenige Gehminuten vom Eingang entfernt.",
                 "hu": "A buszmegálló mindössze pár perc sétára található a bejárattól.",
                 "ro": "Stația de autobuz este la doar câteva minute de mers pe jos de intrare.",
-                "en": "The bus stop is located just a few minutes' walk from the entrance."
+                "en": "The bus stop is located just a few minutes' walk from the entrance.",
+                "pl": "Przystanek autobusowy znajduje się kilka minut spacerem od wejścia."
               }
             },
             {
@@ -2094,7 +2259,8 @@
                 "de": "Nutzen Sie die Zeit im Museum, um auf den nächsten Bus zu warten.",
                 "hu": "Használja ki a múzeumi időt a következő busz érkezéséig.",
                 "ro": "Folosiți timpul în muzeu pentru a aștepta următorul autobuz.",
-                "en": "Use your time in the museum to wait for the next scheduled bus."
+                "en": "Use your time in the museum to wait for the next scheduled bus.",
+                "pl": "Wykorzystaj czas w muzeum, by poczekać na następny kurs autobusu."
               }
             },
             {
@@ -2103,7 +2269,8 @@
                 "de": "Genießen Sie die trockene Fahrt und den Ausblick aus dem Fenster.",
                 "hu": "Élvezze a száraz utazást és a kilátást az ablakból.",
                 "ro": "Bucurați-vă de drumul uscat și de priveliștea de la fereastră.",
-                "en": "Enjoy the dry ride and the views from the bus window."
+                "en": "Enjoy the dry ride and the views from the bus window.",
+                "pl": "Ciesz się suchą jazdą i widokami przez okno autobusu."
               }
             },
             {
@@ -2112,7 +2279,8 @@
                 "de": "Prüfen Sie die Abfahrtszeiten vorab, um nicht im Regen zu warten.",
                 "hu": "Ellenőrizze előre a menetrendet, hogy ne kelljen kint várakoznia.",
                 "ro": "Verificați orarul în avans pentru a nu aștepta în ploaie.",
-                "en": "Check the schedule in advance so you don't have to wait in the rain."
+                "en": "Check the schedule in advance so you don't have to wait in the rain.",
+                "pl": "Sprawdź rozkład z wyprzedzeniem, żeby nie czekać na deszczu."
               }
             },
             {
@@ -2121,7 +2289,8 @@
                 "de": "Die Busse am Abend verkehren regelmäßig ins Zentrum.",
                 "hu": "Az esti buszok rendszeresen közlekednek a központ felé.",
                 "ro": "Autobuzele de seară circulă regulat spre centru.",
-                "en": "Evening buses run frequently back toward the city center."
+                "en": "Evening buses run frequently back toward the city center.",
+                "pl": "Wieczorne autobusy kursują często w kierunku centrum miasta."
               }
             }
           ],
@@ -2149,6 +2318,12 @@
               "Use a transit app for real-time departure information in Kielce.",
               "Have change or a contactless card ready for ticket purchases.",
               "Buses may experience slight delays on rainy days due to traffic."
+            ],
+            "pl": [
+              "Bilety można kupić bezpośrednio w automatach w autobusach.",
+              "Użyj aplikacji komunikacyjnej do informacji o odjazdach w czasie rzeczywistym w Kielcach.",
+              "Miej przy sobie drobne lub kartę zbliżeniową do zakupu biletów.",
+              "Autobusy mogą mieć niewielkie opóźnienia w deszczowe dni z powodu ruchu."
             ]
           }
         },
@@ -2157,7 +2332,8 @@
             "de": "Erleben Sie das winterliche Kielce bequem mit dem Bus. Die warmen Fahrzeuge bringen Sie vom Marktplatz zum prachtvollen Bischofspalast. Mittags können Sie sich während der Fahrt zur Kathedrale und zum Játékmúzeum aufwärmen. Ein Bus bringt Sie dann zur verschneiten Kadzielnia und zum Geopark, wo Sie die Winterlandschaft ohne Erfrierungen genießen können. Der Tag endet mit einer gemütlichen Fahrt zurück ins Herz der Stadt.",
             "hu": "Ismerje meg a téli Kielcét kényelmesen, busszal. A fűtött járművek a Fő térről a püspöki palotához repítik. Délben felmelegedhet a katedrálishoz és a Játékmúzeumhoz vezető úton. A busz elviszi a havas Kadzielniához és a Geoparkhoz is, így fagyoskodás nélkül élvezheti a tájat. A napot egy hangulatos utazással zárjuk vissza a város szívébe.",
             "ro": "Experimentați Kielce hibernal confortabil cu autobuzul. Vehiculele încălzite vă duc din Piața Mare la Palatul Episcopilor. La prânz, vă puteți încălzi în timpul drumului spre Catedrală și Muzeul Jucăriilor. Autobuzul vă duce apoi la Kadzielnia și Geoparc pentru a vedea peisajul de iarnă fără a îngheța.",
-            "en": "Experience winter in Kielce comfortably by bus. The heated vehicles take you from the Market Square to the grand Bishops' Palace. At midday, warm up during the ride to the Cathedral and the Toy Museum. A bus then whisks you to the snowy Kadzielnia and Geopark, letting you enjoy the winter landscape without the frostbite."
+            "en": "Experience winter in Kielce comfortably by bus. The heated vehicles take you from the Market Square to the grand Bishops' Palace. At midday, warm up during the ride to the Cathedral and the Toy Museum. A bus then whisks you to the snowy Kadzielnia and Geopark, letting you enjoy the winter landscape without the frostbite.",
+            "pl": "Przeżyj zimę w Kielcach komfortowo autobusem. Ogrzewane pojazdy zabiorą cię z Rynku do okazałego Pałacu Biskupów. W południe rozgrzej się podczas przejazdu do Katedry i Muzeum Zabawek. Autobus zawiezie cię potem na zaśnieżoną Kadzielnię i Geopark, pozwalając cieszyć się zimowym krajobrazem bez odmrożeń."
           },
           "stops": [
             {
@@ -2166,7 +2342,8 @@
                 "de": "Warten Sie in einem nahegelegenen Café, wenn der Bus Verspätung hat.",
                 "hu": "Várjon egy közeli kávézóban, ha a busz esetleg késne.",
                 "ro": "Așteptați într-o cafenea din apropiere dacă autobuzul întârzie.",
-                "en": "Wait in a nearby cafe if the bus happens to be running late."
+                "en": "Wait in a nearby cafe if the bus happens to be running late.",
+                "pl": "Poczekaj w pobliskiej kawiarni, jeśli autobus się spóźnia."
               }
             },
             {
@@ -2175,7 +2352,8 @@
                 "de": "Bewahren Sie Ihr Busticket griffbereit in der Jackentasche auf.",
                 "hu": "Tartsa a buszjegyét könnyen elérhető helyen a kabátzsebében.",
                 "ro": "Țineți biletul de autobuz la îndemână în buzunarul hainei.",
-                "en": "Keep your bus ticket easily accessible in your coat pocket."
+                "en": "Keep your bus ticket easily accessible in your coat pocket.",
+                "pl": "Miej bilet autobusowy łatwo dostępnym w kieszeni płaszcza."
               }
             },
             {
@@ -2184,7 +2362,8 @@
                 "de": "Die Heizung im Bus ist eine Wohltat nach dem Hügelbesuch.",
                 "hu": "A busz fűtése igazi áldás lesz a várdombi séta után.",
                 "ro": "Căldura din autobuz va fi o binecuvântare după vizita de pe deal.",
-                "en": "The heating on the bus will be a blessing after your hill visit."
+                "en": "The heating on the bus will be a blessing after your hill visit.",
+                "pl": "Ogrzewanie w autobusie będzie wybawieniem po wizycie na wzgórzu."
               }
             },
             {
@@ -2193,7 +2372,8 @@
                 "de": "Nutzen Sie die Fahrt für eine kurze Aufwärmpause.",
                 "hu": "Használja ki az utazást egy rövid melegedő szünetre.",
                 "ro": "Folosiți drumul pentru o scurtă pauză de încălzire.",
-                "en": "Use the duration of the ride as a short warming-up break."
+                "en": "Use the duration of the ride as a short warming-up break.",
+                "pl": "Wykorzystaj czas przejazdu jako krótką przerwę na rozgrzanie się."
               }
             },
             {
@@ -2202,7 +2382,8 @@
                 "de": "Die Haltestellen außerhalb des Zentrums können zugig sein.",
                 "hu": "A központon kívüli buszmegállók szelesebbek lehetnek.",
                 "ro": "Stațiile de autobuz din afara centrului pot fi expuse vântului.",
-                "en": "Bus stops outside the city center can be quite windy."
+                "en": "Bus stops outside the city center can be quite windy.",
+                "pl": "Przystanki poza centrum mogą być dość wietrzne."
               }
             },
             {
@@ -2211,7 +2392,8 @@
                 "de": "In den Abendstunden sind die Busse oft weniger voll.",
                 "hu": "Az esti órákban a buszok gyakran kevésbé zsúfoltak.",
                 "ro": "În orele serii, autobuzele sunt adesea mai puțin aglomerate.",
-                "en": "Buses are often less crowded during the late evening hours."
+                "en": "Buses are often less crowded during the late evening hours.",
+                "pl": "Autobusy są często mniej zatłoczone późnym wieczorem."
               }
             }
           ],
@@ -2239,6 +2421,12 @@
               "Purchase 24-hour tickets for flexible transfers between lines.",
               "Remote bus stops may be harder to access during heavy snowfall.",
               "Watch the displays inside the bus for next stop announcements."
+            ],
+            "pl": [
+              "Autobusy w Kielcach są dobrze ogrzewane w miesiącach zimowych.",
+              "Kup bilety 24-godzinne dla elastycznych przesiadek między liniami.",
+              "Dostęp do odległych przystanków może być utrudniony podczas intensywnych opadów śniegu.",
+              "Patrz na wyświetlacze w środku autobusu dla zapowiedzi następnego przystanku."
             ]
           }
         }

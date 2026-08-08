@@ -21,7 +21,8 @@
             "de": "Rathaus und Alter Markt",
             "hu": "Városháza és Régi Piactér",
             "ro": "Primăria și Piața Veche",
-            "en": "Town Hall and Old Market Square"
+            "en": "Town Hall and Old Market Square",
+            "pl": "Ratusz i Stary Rynek"
           },
           "coords": [
             15.238,
@@ -36,7 +37,8 @@
             "de": "Bewundern Sie die Mischung aus historischer und sozialistischer Architektur.",
             "hu": "Figyelje meg a történelmi és a szocialista építészet keverékét.",
             "ro": "Admirați amestecul de arhitectură istorică și socialistă.",
-            "en": "Admire the mix of historical and socialist architecture."
+            "en": "Admire the mix of historical and socialist architecture.",
+            "pl": "Podziwiaj mieszankę architektury historycznej i socjalistycznej."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Paucksch-Brunnen",
             "hu": "Paucksch-kút",
             "ro": "Fântâna Paucksch",
-            "en": "Paucksch Fountain"
+            "en": "Paucksch Fountain",
+            "pl": "Fontanna Pauckscha"
           },
           "coords": [
             15.2385,
@@ -59,7 +62,8 @@
             "de": "Ein beliebter Fotopunkt und Treffpunkt für Einheimische.",
             "hu": "Népszerű fotópont és a helyiek találkozóhelye.",
             "ro": "Un loc popular pentru fotografii și un punct de întâlnire pentru localnici.",
-            "en": "A popular photo spot and meeting point for locals."
+            "en": "A popular photo spot and meeting point for locals.",
+            "pl": "Popularne miejsce do zdjęć i punkt spotkań dla mieszkańców."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Marienkathedrale",
             "hu": "Szent Mária-székesegyház",
             "ro": "Catedrala Sf. Maria",
-            "en": "St. Mary's Cathedral"
+            "en": "St. Mary's Cathedral",
+            "pl": "Katedra Najświętszej Marii Panny"
           },
           "coords": [
             15.2401,
@@ -82,7 +87,8 @@
             "de": "Achten Sie auf den massiven, wehrhaften Turm, der einst zur Stadtverteidigung diente.",
             "hu": "Keresse a masszív, védelemre is szolgáló tornyot, amely egykor a város védelmét szolgálta.",
             "ro": "Observați turnul masiv, fortificat, care a servit cândva la apărarea orașului.",
-            "en": "Look for the massive, fortified tower that once served in the city's defense."
+            "en": "Look for the massive, fortified tower that once served in the city's defense.",
+            "pl": "Szukaj masywnej, ufortyfikowanej wieży, która kiedyś służyła obronie miasta."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Spichlerz (Speicher)",
             "hu": "Spichlerz (Magtár)",
             "ro": "Spichlerz (Hambarul)",
-            "en": "The Granary (Spichlerz)"
+            "en": "The Granary (Spichlerz)",
+            "pl": "Spichlerz"
           },
           "coords": [
             15.2345,
@@ -105,7 +112,8 @@
             "de": "Beherbergt heute eine Kunstausstellung, ursprünglich ein Getreidespeicher.",
             "hu": "Ma művészeti kiállításnak ad otthont, eredetileg gabonaraktár volt.",
             "ro": "Astăzi găzduiește o expoziție de artă, fiind inițial un depozit de cereale.",
-            "en": "Now houses an art exhibition, but was originally a grain storehouse."
+            "en": "Now houses an art exhibition, but was originally a grain storehouse.",
+            "pl": "Obecnie mieści wystawę sztuki, ale pierwotnie był spichrzem."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Warthe-Boulevard",
             "hu": "Warta-sétány",
             "ro": "Bulevardul Warta",
-            "en": "Warta Boulevard"
+            "en": "Warta Boulevard",
+            "pl": "Bulwar Warty"
           },
           "coords": [
             15.235,
@@ -128,7 +137,8 @@
             "de": "Ideal für eine Mittagspause in einem der Cafés mit Blick auf den Fluss.",
             "hu": "Ideális egy ebédszünetre a folyóra néző kávézók egyikében.",
             "ro": "Ideal pentru o pauză de prânz la una dintre cafenelele cu vedere la râu.",
-            "en": "Ideal for a lunch break at one of the cafes overlooking the river."
+            "en": "Ideal for a lunch break at one of the cafes overlooking the river.",
+            "pl": "Idealne miejsce na przerwę na lunch w jednej z kawiarni z widokiem na rzekę."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Museum des Lebuser Landes",
             "hu": "Lubusi Föld Múzeuma",
             "ro": "Muzeul Ținutului Lubusz",
-            "en": "Museum of the Lubusz Land"
+            "en": "Museum of the Lubusz Land",
+            "pl": "Muzeum Ziemi Lubuskiej"
           },
           "coords": [
             15.228,
@@ -151,7 +162,8 @@
             "de": "Erkunden Sie die komplexe Geschichte der deutsch-polnischen Grenzregion.",
             "hu": "Ismerje meg a német-lengyel határvidék összetett történelmét.",
             "ro": "Explorați istoria complexă a regiunii de frontieră germano-poloneză.",
-            "en": "Explore the complex history of the German-Polish border region."
+            "en": "Explore the complex history of the German-Polish border region.",
+            "pl": "Poznaj złożoną historię niemiecko‑polskiego pogranicza."
           }
         },
         {
@@ -159,7 +171,8 @@
             "de": "Eisenbrücke und Park",
             "hu": "Vasúti híd és park",
             "ro": "Podul de Fier și Parcul",
-            "en": "Iron Bridge and Park"
+            "en": "Iron Bridge and Park",
+            "pl": "Żelazny Most i Park"
           },
           "coords": [
             15.225,
@@ -174,7 +187,8 @@
             "de": "Ein schöner Spaziergang am späten Nachmittag über die Brücke und durch den angrenzenden Park.",
             "hu": "Kellemes késő délutáni séta a hídon át és a szomszédos parkban.",
             "ro": "O plimbare plăcută după-amiaza târziu peste pod și prin parcul adiacent.",
-            "en": "A lovely late afternoon walk across the bridge and through the adjacent park."
+            "en": "A lovely late afternoon walk across the bridge and through the adjacent park.",
+            "pl": "Uroczy późnopopołudniowy spacer przez most i przez przyległy park."
           }
         }
       ],
@@ -182,7 +196,8 @@
         "de": "Beginnen Sie Ihren Tag am belebten Alten Markt, dem Herzen der Stadt. Am Vormittag erkunden Sie die gotische Marienkathedrale und das historische Spichlerz-Gebäude. Nach dem Mittagessen am malerischen Warthe-Boulevard tauchen Sie in die Regionalgeschichte im Museum des Lebuser Landes ein. Beenden Sie Ihren Tag mit einem entspannenden Spaziergang über die alte Eisenbrücke, während die Sonne langsam untergeht und ein warmes Licht auf den Fluss wirft.",
         "hu": "Kezdje a napot a nyüzsgő Régi Piactéren, a város szívében. A délelőtt folyamán fedezze fel a gótikus Szent Mária-székesegyházat és a történelmi Spichlerz épületét. Ebéd után a festői Warta-sétányon merüljön el a Lubusi Föld Múzeumában a régió történelmében. A napot egy pihentető sétával zárja a régi Vasúti hídon, miközben a lemenő nap meleg fénnyel árasztja el a folyót.",
         "ro": "Începeți ziua în Piața Veche plină de viață, inima orașului. Dimineața, explorați gotica Catedrală Sf. Maria și clădirea istorică Spichlerz. După prânzul pe pitorescul Bulevard Warta, scufundați-vă în istoria regională la Muzeul Ținutului Lubusz. Încheiați ziua cu o plimbare relaxantă peste vechiul Pod de Fier, în timp ce soarele apune și aruncă o lumină caldă peste râu.",
-        "en": "Start your day in the bustling Old Market Square, the heart of the city. In the morning, explore the Gothic St. Mary's Cathedral and the historic Spichlerz building. After lunch on the picturesque Warta Boulevard, delve into regional history at the Museum of the Lubusz Land. End your day with a relaxing walk across the old Iron Bridge as the sun sets, casting a warm glow over the river."
+        "en": "Start your day in the bustling Old Market Square, the heart of the city. In the morning, explore the Gothic St. Mary's Cathedral and the historic Spichlerz building. After lunch on the picturesque Warta Boulevard, delve into regional history at the Museum of the Lubusz Land. End your day with a relaxing walk across the old Iron Bridge as the sun sets, casting a warm glow over the river.",
+        "pl": "Rozpocznij dzień na tętniącym życiem Starym Rynku, sercu miasta. Rano zwiedź gotycką Katedrę Najświętszej Marii Panny i zabytkowy spichlerz. Po obiedzie na malowniczym Bulwarze Warty zagłęb się w historię regionu w Muzeum Ziemi Lubuskiej. Zakończ dzień relaksującym spacerem po starym Żelaznym Moście przy zachodzie słońca, które kąpie rzekę w ciepłym świetle."
       },
       "gastro_picks": {
         "de": [
@@ -378,6 +393,12 @@
           "Many museums are closed on Mondays.",
           "Look out for the small dwarf statues scattered around the city.",
           "Be sure to try the local beer."
+        ],
+        "pl": [
+          "Noś wygodne buty, ponieważ bruk na starym mieście może być nierówny.",
+          "Wiele muzeów jest zamkniętych w poniedziałki.",
+          "Szukaj małych krasnali rozsianych po mieście.",
+          "Koniecznie spróbuj lokalnego piwa."
         ]
       },
       "variants": {
@@ -386,7 +407,8 @@
             "de": "Beginnen Sie den Morgen am Alten Markt unter den Arkaden. Die Kathedrale bietet einen trockenen Zufluchtsort mit spiritueller Atmosphäre. Den Mittag verbringen wir im Spichlerz-Museum, wo die Geschichte der Stadt sicher vor dem Regen präsentiert wird. Nachmittags spazieren wir unter dem Regenschirm am Warta-Boulevard, bevor wir uns im Museum des Lebuser Landes endgültig aufwärmen.",
             "hu": "A reggelt az Óváros téren kezdjük, az árkádok alatt védve az esőtől. A Szűz Mária-székesegyház csendes és száraz menedéket nyújt. A délutánt a Spichlerz magtárban töltjük, ahol fedett helyen ismerkedhetünk a helytörténettel. Egy rövid, ernyős séta a Warta-parton után a Lubuszi Föld Múzeumának kiállításai között várjuk meg az este közeledtét.",
             "ro": "Începeți dimineața în Piața Veche, folosind arcadele pentru adăpost. Catedrala Sf. Maria oferă un refugiu uscat și liniștit. La prânz, explorăm magazia istorică Spichlerz, protejați de ploaie. După-amiaza presupune o plimbare cu umbrela pe bulevardul Warta, încheind vizita la Muzeul Pământului Lubusz, unde expozițiile interioare ne țin la adăpost.",
-            "en": "Start the morning at the Old Market Square, using the eaves for shelter. St. Mary's Cathedral offers a quiet, dry retreat from the drizzle. Spend mid-day in the historic Granary museum, where the city's history is safely indoors. The afternoon involves a damp stroll along the Warta Boulevard, concluding at the Museum of the Lubusz Land to escape the evening rain."
+            "en": "Start the morning at the Old Market Square, using the eaves for shelter. St. Mary's Cathedral offers a quiet, dry retreat from the drizzle. Spend mid-day in the historic Granary museum, where the city's history is safely indoors. The afternoon involves a damp stroll along the Warta Boulevard, concluding at the Museum of the Lubusz Land to escape the evening rain.",
+            "pl": "Rozpocznij poranek na Starym Rynku, korzystając z daszków jako schronienia. Katedra Najświętszej Marii Panny oferuje ciche, suche schronienie przed mżawką. Południe spędź w muzeum Spichlerza, gdzie historia miasta jest bezpiecznie wewnątrz. Popołudnie to wilgotny spacer Bulwarem Warty, kończący się w Muzeum Ziemi Lubuskiej, by uciec przed wieczornym deszczem."
           },
           "stops": [
             {
@@ -395,7 +417,8 @@
                 "de": "Nutzen Sie die Gebäudevorsprünge als Regenschutz.",
                 "hu": "Használja az épületek ereszét eső elleni védelemként.",
                 "ro": "Folosiți streșinile clădirilor pentru a vă feri de ploaie.",
-                "en": "Use the building overhangs to shield yourself from the rain."
+                "en": "Use the building overhangs to shield yourself from the rain.",
+                "pl": "Korzystaj z występów budynków, by osłonić się przed deszczem."
               }
             },
             {
@@ -404,7 +427,8 @@
                 "de": "Kurzer Fotostopp, die Brunnenfigur wirkt im Regen melancholisch.",
                 "hu": "Gyors fotó, a szobor az esőben különösen hangulatos.",
                 "ro": "Oprire scurtă pentru poze; statuia arată melancolic pe ploaie.",
-                "en": "Quick photo stop; the fountain statue looks atmospheric in the rain."
+                "en": "Quick photo stop; the fountain statue looks atmospheric in the rain.",
+                "pl": "Krótki postój na zdjęcie; rzeźba fontanny wygląda nastrojowo w deszczu."
               }
             },
             {
@@ -413,7 +437,8 @@
                 "de": "Idealer Ort, um eine schwere Regenschauer abzuwarten.",
                 "hu": "Ideális helyszín egy nagyobb zápor átvészelésére.",
                 "ro": "Locul ideal pentru a aștepta trecerea unei averse puternice.",
-                "en": "An ideal place to wait out a heavy rain shower."
+                "en": "An ideal place to wait out a heavy rain shower.",
+                "pl": "Idealne miejsce, by przeczekać intensywny opad deszczu."
               }
             },
             {
@@ -422,7 +447,8 @@
                 "de": "Verlängern Sie den Aufenthalt, um im Trockenen zu bleiben.",
                 "hu": "Hosszabbítsa meg a látogatást, hogy szárazon maradjon.",
                 "ro": "Prelungiți vizita pentru a rămâne la adăpost de umezeală.",
-                "en": "Extend your visit here to stay dry and out of the wet."
+                "en": "Extend your visit here to stay dry and out of the wet.",
+                "pl": "Wydłuż wizytę tutaj, by pozostać suchym i poza deszczem."
               }
             },
             {
@@ -431,7 +457,8 @@
                 "de": "Vorsicht vor Pfützen auf dem asphaltierten Weg.",
                 "hu": "Vigyázzon a tócsákra az aszfaltozott sétányon.",
                 "ro": "Atenție la bălți pe poteca asfaltată de lângă râu.",
-                "en": "Watch out for puddles on the paved riverside path."
+                "en": "Watch out for puddles on the paved riverside path.",
+                "pl": "Uważaj na kałuże na wybrukowanej nadbrzeżnej ścieżce."
               }
             },
             {
@@ -440,7 +467,8 @@
                 "de": "Geben Sie nasse Mäntel an der Garderobe ab.",
                 "hu": "A vizes kabátokat hagyja a múzeumi ruhatárban.",
                 "ro": "Lăsați hainele ude la garderoba muzeului.",
-                "en": "Leave your wet coats at the museum cloakroom."
+                "en": "Leave your wet coats at the museum cloakroom.",
+                "pl": "Zostaw mokre płaszcze w szatni muzealnej."
               }
             },
             {
@@ -449,7 +477,8 @@
                 "de": "Die Brücke ist bei Nässe rutschig, vorsichtig gehen.",
                 "hu": "A híd nedvesen csúszós lehet, óvatosan lépkedjen.",
                 "ro": "Podul poate fi alunecos când e ud; mergeți cu grijă.",
-                "en": "The bridge can be slippery when wet; walk carefully."
+                "en": "The bridge can be slippery when wet; walk carefully.",
+                "pl": "Most może być śliski, gdy jest mokry; chodź ostrożnie."
               }
             }
           ],
@@ -477,6 +506,12 @@
               "Wear waterproof footwear for the cobbled streets of the old town.",
               "The museums (Granary) are perfect retreats during continuous rain.",
               "Use the cafes at the market for warm breaks between showers."
+            ],
+            "pl": [
+              "Solidna parasolka jest niezbędna ze względu na wiatr znad Warty.",
+              "Noś wodoodporne obuwie na brukowane ulice starego miasta.",
+              "Muzea (Spichlerz) są doskonałym schronieniem podczas ciągłych opadów.",
+              "Korzystaj z kawiarni na rynku, aby zrobić ciepłą przerwę między przelotnymi deszczami."
             ]
           }
         },
@@ -485,7 +520,8 @@
             "de": "Frostiger Morgen am Marktplatz mit Blick auf die vereiste Pauckschfontäne. Die Kathedrale bietet milde Wärme während der Besichtigung. Mittags wärmen wir uns in den Ausstellungsräumen des Speichers auf. Der Nachmittag am Warta-Boulevard endet früh bei Sonnenuntergang gegen 16 Uhr, bevor wir den Tag im hell erleuchteten Lubusz-Museum abschließen.",
             "hu": "Fagyos reggel a főtéren, jégcsapokkal a Paucksch-kúton. A székesegyház falaiban enyhe menedéket találunk a hideg elől. Délben a magtár fűtött kiállítóterei tartanak melegen. A Warta-parti séta a korai, délután 4 órai naplemente miatt rövidre nyúlik, az estét pedig a kivilágított múzeumban fejezzük be.",
             "ro": "Dimineață geroasă în piață, cu fântâna Paucksch parțial înghețată. Catedrala oferă o căldură blândă în timpul vizitei. La prânz, ne încălzim în sălile de expoziție ale magaziei Spichlerz. Plimbarea pe bulevardul Warta se termină devreme, odată cu apusul de la ora 16:00, încheind ziua la muzeu.",
-            "en": "A frosty morning at the market square with ice on the Paucksch fountain. The Cathedral provides mild warmth during the visit. At noon, warm up inside the Granary's exhibition rooms. The afternoon along Warta Boulevard ends early with sunset around 4 PM, before finishing the day at the brightly lit Lubusz Museum."
+            "en": "A frosty morning at the market square with ice on the Paucksch fountain. The Cathedral provides mild warmth during the visit. At noon, warm up inside the Granary's exhibition rooms. The afternoon along Warta Boulevard ends early with sunset around 4 PM, before finishing the day at the brightly lit Lubusz Museum.",
+            "pl": "Mroźny poranek na Rynku z lodem na fontannie Pauckscha. Katedra daje lekkie ciepło podczas wizyty. W południe rozgrzej się w salach wystawowych Spichlerza. Popołudnie wzdłuż Bulwaru Warty kończy się wcześnie przy zachodzie słońca około godz. 16:00, po czym dzień zamyka jasno oświetlone Muzeum Ziemi Lubuskiej."
           },
           "stops": [
             {
@@ -494,7 +530,8 @@
                 "de": "Vorsicht vor Glatteis auf dem Kopfsteinpflaster.",
                 "hu": "Vigyázzon a jegesedésre a macskaköveken.",
                 "ro": "Atenție la gheața de pe piatra cubică din piață.",
-                "en": "Beware of black ice on the cobblestone square."
+                "en": "Beware of black ice on the cobblestone square.",
+                "pl": "Uważaj na gołoledź na brukowanym rynku."
               }
             },
             {
@@ -503,7 +540,8 @@
                 "de": "Oft sehenswert vereist im Winter.",
                 "hu": "Télen gyakran látványosan bejegesedik.",
                 "ro": "Adesea înghețată spectaculos în timpul iernii.",
-                "en": "Often features spectacular ice formations in winter."
+                "en": "Often features spectacular ice formations in winter.",
+                "pl": "Często występują spektakularne formacje lodowe zimą."
               }
             },
             {
@@ -512,7 +550,8 @@
                 "de": "Ein Ort für eine kurze Aufwärmpause in Stille.",
                 "hu": "Helyszín egy rövid, csendes melegedésre.",
                 "ro": "Un loc pentru o scurtă pauză de încălzire în liniște.",
-                "en": "A place for a short, quiet warm-up break."
+                "en": "A place for a short, quiet warm-up break.",
+                "pl": "Miejsce na krótki, cichy odpoczynek i rozgrzewkę."
               }
             },
             {
@@ -521,7 +560,8 @@
                 "de": "Genießen Sie die beheizten Räume und die Aussicht.",
                 "hu": "Élvezze a fűtött termeket és a kilátást.",
                 "ro": "Bucurați-vă de sălile încălzite și de priveliște.",
-                "en": "Enjoy the heated rooms and the view of the river."
+                "en": "Enjoy the heated rooms and the view of the river.",
+                "pl": "Ciesz się ogrzewanymi salami i widokiem na rzekę."
               }
             },
             {
@@ -530,7 +570,8 @@
                 "de": "Beißender Wind vom Fluss; warm anziehen!",
                 "hu": "Metsző szél fúj a folyó felől, öltözzön rétegesen!",
                 "ro": "Vânt tăios dinspre râu; îmbrăcați-vă gros!",
-                "en": "Biting wind from the river; dress in warm layers!"
+                "en": "Biting wind from the river; dress in warm layers!",
+                "pl": "Przenikliwy wiatr znad rzeki; ubierz się warstwowo!"
               }
             },
             {
@@ -539,7 +580,8 @@
                 "de": "Perfekt für den späten, kalten Nachmittag.",
                 "hu": "Tökéletes program a kései, hideg délutánra.",
                 "ro": "Perfect pentru după-amiaza târzie și friguroasă.",
-                "en": "Perfect for the late, cold afternoon indoors."
+                "en": "Perfect for the late, cold afternoon indoors.",
+                "pl": "Idealne na późne, zimne popołudnie w zamkniętym wnętrzu."
               }
             },
             {
@@ -548,7 +590,8 @@
                 "de": "Schöne Beleuchtung nach Einbruch der Dunkelheit.",
                 "hu": "Gyönyörű díszkivilágítás sötétedés után.",
                 "ro": "Iluminare frumoasă după lăsarea întunericului.",
-                "en": "Beautiful festive lighting after darkness falls."
+                "en": "Beautiful festive lighting after darkness falls.",
+                "pl": "Piękne świąteczne oświetlenie po zmroku."
               }
             }
           ],
@@ -576,6 +619,12 @@
               "Sunset occurs early, around 4:00 PM in December.",
               "Museums are often closed on Mondays; check winter hours.",
               "Enjoy hot tea in the cafes along Chrobrego Street."
+            ],
+            "pl": [
+              "Ciepłe ubranie jest niezbędne ze względu na wilgotność znad rzeki.",
+              "Zachód słońca następuje wcześnie, około 16:00 w grudniu.",
+              "Muzea często są zamknięte w poniedziałki; sprawdź zimowe godziny otwarcia.",
+              "Rozkoszuj się gorącą herbatą w kawiarniach przy ulicy Chrobrego."
             ]
           }
         }
@@ -594,7 +643,8 @@
             "de": "Rosenpark",
             "hu": "Rózsapark",
             "ro": "Parcul Trandafirilor",
-            "en": "Rose Park"
+            "en": "Rose Park",
+            "pl": "Park Różany"
           },
           "coords": [
             15.255,
@@ -609,7 +659,8 @@
             "de": "Mieten Sie hier Ihr Fahrrad und genießen Sie die Morgenruhe.",
             "hu": "Béreljen itt kerékpárt, és élvezze a reggeli csendet.",
             "ro": "Închiriați-vă bicicleta de aici și bucurați-vă de liniștea dimineții.",
-            "en": "Rent your bike here and enjoy the morning tranquility."
+            "en": "Rent your bike here and enjoy the morning tranquility.",
+            "pl": "Wypożycz tu rower i ciesz się porannym spokojem."
           }
         },
         {
@@ -617,7 +668,8 @@
             "de": "Warthe-Boulevard",
             "hu": "Warta-sétány",
             "ro": "Bulevardul Warta",
-            "en": "Warta Boulevard"
+            "en": "Warta Boulevard",
+            "pl": "Bulwar Warty"
           },
           "coords": [
             15.235,
@@ -632,7 +684,8 @@
             "de": "Eine angenehme Fahrt entlang des Flusses in Richtung Stadtzentrum.",
             "hu": "Kellemes út a folyó mentén a városközpont felé.",
             "ro": "O plimbare plăcută pe malul râului spre centrul orașului.",
-            "en": "A pleasant ride along the river towards the city center."
+            "en": "A pleasant ride along the river towards the city center.",
+            "pl": "Przyjemna przejażdżka wzdłuż rzeki w kierunku centrum miasta."
           }
         },
         {
@@ -640,7 +693,8 @@
             "de": "Eisenbrücke",
             "hu": "Vasúti híd",
             "ro": "Podul de Fier",
-            "en": "Iron Bridge"
+            "en": "Iron Bridge",
+            "pl": "Żelazny Most"
           },
           "coords": [
             15.225,
@@ -655,7 +709,8 @@
             "de": "Überqueren Sie die Brücke für eine andere Perspektive auf die Stadt.",
             "hu": "Menjen át a hídon, hogy más szemszögből is megnézze a várost.",
             "ro": "Traversați podul pentru o perspectivă diferită asupra orașului.",
-            "en": "Cross the bridge for a different perspective of the city."
+            "en": "Cross the bridge for a different perspective of the city.",
+            "pl": "Przejdź przez most, by zobaczyć miasto z innej perspektywy."
           }
         },
         {
@@ -663,7 +718,8 @@
             "de": "Museum des Lebuser Landes",
             "hu": "Lubusi Föld Múzeuma",
             "ro": "Muzeul Ținutului Lubusz",
-            "en": "Museum of the Lubusz Land"
+            "en": "Museum of the Lubusz Land",
+            "pl": "Muzeum Ziemi Lubuskiej"
           },
           "coords": [
             15.228,
@@ -678,7 +734,8 @@
             "de": "Stellen Sie Ihr Fahrrad sicher ab, bevor Sie das Museum betreten.",
             "hu": "Biztonságosan zárja le a kerékpárját, mielőtt belép a múzeumba.",
             "ro": "Asigurați-vă bicicleta înainte de a intra în muzeu.",
-            "en": "Securely lock your bike before entering the museum."
+            "en": "Securely lock your bike before entering the museum.",
+            "pl": "Pewnie zamknij rower przed wejściem do muzeum."
           }
         },
         {
@@ -686,7 +743,8 @@
             "de": "Spichlerz (Speicher)",
             "hu": "Spichlerz (Magtár)",
             "ro": "Spichlerz (Hambarul)",
-            "en": "The Granary (Spichlerz)"
+            "en": "The Granary (Spichlerz)",
+            "pl": "Spichlerz"
           },
           "coords": [
             15.2345,
@@ -701,7 +759,8 @@
             "de": "Kombinieren Sie den Museumsbesuch mit einer Kaffeepause in der Nähe.",
             "hu": "Kösse össze a múzeumlátogatást egy közeli kávészünettel.",
             "ro": "Combinați vizita la muzeu cu o pauză de cafea în apropiere.",
-            "en": "Combine the museum visit with a coffee break nearby."
+            "en": "Combine the museum visit with a coffee break nearby.",
+            "pl": "Połącz wizytę w muzeum z przerwą na kawę w pobliżu."
           }
         },
         {
@@ -709,7 +768,8 @@
             "de": "Rathaus Gorzów",
             "hu": "Gorzówi Városháza",
             "ro": "Primăria Gorzów",
-            "en": "Gorzów Town Hall"
+            "en": "Gorzów Town Hall",
+            "pl": "Ratusz Gorzowski"
           },
           "coords": [
             15.238,
@@ -724,7 +784,8 @@
             "de": "Der zentrale Platz ist ideal, um das städtische Leben zu beobachten.",
             "hu": "A központi tér ideális a városi élet megfigyelésére.",
             "ro": "Piața centrală este ideală pentru a observa viața urbană.",
-            "en": "The central square is ideal for watching city life."
+            "en": "The central square is ideal for watching city life.",
+            "pl": "Centralny plac jest idealny do obserwowania miejskiego życia."
           }
         },
         {
@@ -732,7 +793,8 @@
             "de": "Marienkathedrale",
             "hu": "Szent Mária-székesegyház",
             "ro": "Catedrala Sf. Maria",
-            "en": "St. Mary's Cathedral"
+            "en": "St. Mary's Cathedral",
+            "pl": "Katedra Najświętszej Marii Panny"
           },
           "coords": [
             15.2401,
@@ -747,7 +809,8 @@
             "de": "Eine beeindruckende gotische Backsteinkirche im Herzen der Stadt.",
             "hu": "Lenyűgöző gótikus téglatemplom a város szívében.",
             "ro": "O impresionantă biserică gotică din cărămidă în inima orașului.",
-            "en": "An impressive Gothic brick church in the heart of the city."
+            "en": "An impressive Gothic brick church in the heart of the city.",
+            "pl": "Imponujący gotycki ceglany kościół w sercu miasta."
           }
         },
         {
@@ -755,7 +818,8 @@
             "de": "Paucksch-Brunnen",
             "hu": "Paucksch-kút",
             "ro": "Fântâna Paucksch",
-            "en": "Paucksch Fountain"
+            "en": "Paucksch Fountain",
+            "pl": "Fontanna Pauckscha"
           },
           "coords": [
             15.2385,
@@ -770,7 +834,8 @@
             "de": "Beenden Sie Ihre Radtour an diesem ikonischen Brunnen.",
             "hu": "Fejezze be a kerékpártúrát ennél az ikonikus kútnál.",
             "ro": "Încheiați-vă turul cu bicicleta la această fântână iconică.",
-            "en": "End your bike tour at this iconic fountain."
+            "en": "End your bike tour at this iconic fountain.",
+            "pl": "Zakończ wycieczkę rowerową przy tej ikonicznej fontannie."
           }
         }
       ],
@@ -778,7 +843,8 @@
         "de": "Starten Sie Ihre Radtour im ruhigen Rosenpark und fahren Sie entlang des Flusses auf dem Warthe-Boulevard. Überqueren Sie die historische Eisenbrücke, um die Stadt aus einer anderen Perspektive zu sehen. Am Mittag besuchen Sie die Museen, um in die Kunst und Geschichte der Region einzutauchen. Der Nachmittag ist dem historischen Herzen gewidmet: dem Rathaus und der imposanten Marienkathedrale. Schließen Sie den Kreis Ihrer Tour am berühmten Paucksch-Brunnen ab.",
         "hu": "Kezdje a kerékpártúrát a csendes Rózsaparkban, majd tekerjen a folyó mentén a Warta-sétányon. Keljen át a történelmi Vasúti hídon, hogy más szemszögből is lássa a várost. Délben látogasson el a múzeumokba, hogy elmerüljön a régió művészetében és történelmében. A délután a történelmi városrészé: a Városházáé és a lenyűgöző Szent Mária-székesegyházé. A túrát a híres Paucksch-kútnál zárja.",
         "ro": "Începeți turul cu bicicleta în liniștitul Parc al Trandafirilor și pedalați de-a lungul râului pe Bulevardul Warta. Traversați istoricul Pod de Fier pentru a vedea orașul dintr-o altă perspectivă. La prânz, vizitați muzeele pentru a vă cufunda în arta și istoria regiunii. După-amiaza este dedicată inimii istorice: Primăria și impunătoarea Catedrală Sf. Maria. Încheiați turul la faimoasa Fântână Paucksch.",
-        "en": "Start your bike tour in the quiet Rose Park and ride along the river on the Warta Boulevard. Cross the historic Iron Bridge to see the city from a different perspective. At noon, visit the museums to immerse yourself in the region's art and history. The afternoon is dedicated to the historic heart: the Town Hall and the imposing St. Mary's Cathedral. Complete your tour at the famous Paucksch Fountain."
+        "en": "Start your bike tour in the quiet Rose Park and ride along the river on the Warta Boulevard. Cross the historic Iron Bridge to see the city from a different perspective. At noon, visit the museums to immerse yourself in the region's art and history. The afternoon is dedicated to the historic heart: the Town Hall and the imposing St. Mary's Cathedral. Complete your tour at the famous Paucksch Fountain.",
+        "pl": "Rozpocznij trasę rowerową w spokojnym Parku Różanym i jedź wzdłuż rzeki Bulwarem Warty. Przejedź przez zabytkowy Żelazny Most, by zobaczyć miasto z innej perspektywy. W południe odwiedź muzea, by zanurzyć się w sztuce i historii regionu. Popołudnie poświęć historycznemu sercu: Ratuszowi i imponującej Katedrze Najświętszej Marii Panny. Zakończ trasę przy słynnej fontannie Pauckscha."
       },
       "gastro_picks": {
         "de": [
@@ -974,6 +1040,12 @@
           "Use the well-developed bike paths along the Warta river.",
           "Be aware of pedestrians on the boulevard.",
           "Always lock your bike securely."
+        ],
+        "pl": [
+          "Sprawdź ciśnienie w oponach przed startem.",
+          "Korzystaj z dobrze rozwiniętych ścieżek rowerowych wzdłuż Warty.",
+          "Uważaj na pieszych na bulwarze.",
+          "Zawsze solidnie zamykaj rower."
         ]
       },
       "variants": {
@@ -982,7 +1054,8 @@
             "de": "Morgendliche Fahrt durch den nassen Rosenpark mit Vorsicht auf den Waldwegen. Am Warta-Boulevard trotzen wir dem Wind, bevor wir für längere Zeit im Spichlerz-Museum untertauchen. Die Route führt mittags über die Eiserne Brücke, wo wir bei Regen besonders vorsichtig bremsen, und endet nach Museumsbesuchen am Marktplatz.",
             "hu": "Reggeli tekerés a vizes Rózsaparkban, óvatosan a sárral. A Warta-parton dacolunk a széllel, majd hosszabb időre behúzódunk a Magtár múzeumába. Délben az Acélhídon kelünk át, ahol esőben óvatosan kell fékezni, a napot pedig a város főterén zárjuk a múzeumlátogatások után.",
             "ro": "Cursă matinală prin Parcul Róż umed, cu atenție la potecile cu noroi. Pe bulevardul Warta înfruntăm vântul înainte de a ne adăposti la muzeul Spichlerz. Traseul trece peste Podul de Fier la prânz, unde frânăm cu grijă pe ploaie, și se încheie în Piața Veche după vizitarea muzeelor.",
-            "en": "Morning ride through the wet Rose Park, cautious of mud on the paths. We brave the wind on the Warta Boulevard before taking a long break inside the Granary museum. The route crosses the Iron Bridge at noon, requiring careful braking in the rain, and ends at the Market Square after visiting the Lubusz Museum."
+            "en": "Morning ride through the wet Rose Park, cautious of mud on the paths. We brave the wind on the Warta Boulevard before taking a long break inside the Granary museum. The route crosses the Iron Bridge at noon, requiring careful braking in the rain, and ends at the Market Square after visiting the Lubusz Museum.",
+            "pl": "Poranna przejażdżka mokrym Parkiem Różanym, uważaj na błoto na ścieżkach. Zmagamy się z wiatrem na Bulwarze Warty, po czym dłuższa przerwa wewnątrz muzeum Spichlerza. Trasa przecina Żelazny Most w południe, wymagając ostrego hamowania w deszczu, i kończy się na Rynku po wizycie w Muzeum Ziemi Lubuskiej."
           },
           "stops": [
             {
@@ -991,7 +1064,8 @@
                 "de": "Vorsicht auf unbefestigten Wegen, Matschgefahr.",
                 "hu": "Vigyázzon a fövenyes utakon, sárveszély.",
                 "ro": "Atenție pe potecile neasfaltate; risc de noroi.",
-                "en": "Be careful on unpaved paths; watch out for mud."
+                "en": "Be careful on unpaved paths; watch out for mud.",
+                "pl": "Uważaj na nieutwardzone ścieżki; pilnuj błota."
               }
             },
             {
@@ -1000,7 +1074,8 @@
                 "de": "Starker Seitenwind am Flussufer möglich.",
                 "hu": "Erős oldalszél várható a folyóparton.",
                 "ro": "Vânt lateral puternic posibil pe malul râului.",
-                "en": "Strong crosswinds possible along the riverbank."
+                "en": "Strong crosswinds possible along the riverbank.",
+                "pl": "Możliwe silne porywy bocznego wiatru wzdłuż brzegu rzeki."
               }
             },
             {
@@ -1009,7 +1084,8 @@
                 "de": "Metalloberfläche bei Regen extrem rutschig.",
                 "hu": "A fémfelület esőben rendkívül csúszós.",
                 "ro": "Suprafața metalică este extrem de alunecoasă pe ploaie.",
-                "en": "The metal surface is extremely slippery when raining."
+                "en": "The metal surface is extremely slippery when raining.",
+                "pl": "Metalowa nawierzchnia jest wyjątkowo śliska podczas deszczu."
               }
             },
             {
@@ -1018,7 +1094,8 @@
                 "de": "Sichere Fahrradständer vor dem Eingang vorhanden.",
                 "hu": "Biztonságos biciklitárolók a bejárat előtt.",
                 "ro": "Rasteluri sigure pentru biciclete la intrare.",
-                "en": "Secure bike racks are available near the entrance."
+                "en": "Secure bike racks are available near the entrance.",
+                "pl": "Przy wejściu dostępne są solidne stojaki rowerowe."
               }
             },
             {
@@ -1027,7 +1104,8 @@
                 "de": "Parken Sie das Rad im geschützten Bereich.",
                 "hu": "Parkolja a biciklit védett helyre.",
                 "ro": "Parcați bicicleta într-o zonă protejată.",
-                "en": "Park your bike in a sheltered area if possible."
+                "en": "Park your bike in a sheltered area if possible.",
+                "pl": "Zaparkuj rower w zadaszonym miejscu, jeśli to możliwe."
               }
             },
             {
@@ -1036,7 +1114,8 @@
                 "de": "Kurze Pause unter den Arkaden des Marktes.",
                 "hu": "Rövid szünet a piac árkádjai alatt.",
                 "ro": "Pauză scurtă sub arcadele pieței.",
-                "en": "Short break under the market square's arches."
+                "en": "Short break under the market square's arches.",
+                "pl": "Krótka przerwa pod arkadami na rynku."
               }
             },
             {
@@ -1045,7 +1124,8 @@
                 "de": "Fahrrad abstellen und drinnen aufwärmen.",
                 "hu": "Hagyja kint a gépet, és melegedjen bent.",
                 "ro": "Lăsați bicicleta și încălziți-vă în interior.",
-                "en": "Park your bike and warm up inside the cathedral."
+                "en": "Park your bike and warm up inside the cathedral.",
+                "pl": "Zostaw rower i ogrzej się wewnątrz katedry."
               }
             },
             {
@@ -1054,7 +1134,8 @@
                 "de": "Letzter Stopp, achten Sie auf Fußgänger mit Schirmen.",
                 "hu": "Utolsó állomás, figyeljen az esernyős gyalogosokra.",
                 "ro": "Ultima oprire; atenție la pietonii cu umbrele.",
-                "en": "Last stop; watch out for pedestrians with umbrellas."
+                "en": "Last stop; watch out for pedestrians with umbrellas.",
+                "pl": "Ostatni przystanek; zwracaj uwagę na pieszych z parasolami."
               }
             }
           ],
@@ -1082,6 +1163,12 @@
               "Avoid crossing tram tracks in the city center when wet.",
               "Wear reflective gear for better visibility in the rain.",
               "Brake early and gently on the metal surface of the Iron Bridge."
+            ],
+            "pl": [
+              "Błotniki są niezbędne ze względu na kałuże na bulwarze.",
+              "Unikaj przejeżdżania przez tory tramwajowe w centrum, gdy są mokre.",
+              "Noś odblaskowe elementy dla lepszej widoczności w deszczu.",
+              "Hamuj wcześnie i łagodnie na metalowej nawierzchni Żelaznego Mostu."
             ]
           }
         },
@@ -1090,7 +1177,8 @@
             "de": "Kalte Fahrt durch den Rosenpark, wo die Wege gefroren sein können. Wir radeln zügig am Warta-Boulevard entlang, um den kalten Wind im Rücken zu haben. Den Mittag verbringen wir im warmen Museum und im Speicher. Da es früh dunkel wird, nutzen wir die Radwege der Innenstadt, um rechtzeitig die beleuchtete Kathedrale und den Marktplatz zu erreichen.",
             "hu": "Hideg tekerés a Rózsaparkban, ahol az utak fagyosak lehetnek. Gyorsan haladunk a Warta-parton, hogy a hátunk mögött tudjuk a metsző szelet. A delet fűtött múzeumi terekben töltjük. Mivel korán sötétedik, a belvárosi kerékpárutakat használjuk, hogy időben elérjük a kivilágított székesegyházat és a főteret.",
             "ro": "Cursă friguroasă prin Parcul Róż, unde potecile pot fi înghețate. Pedalăm rapid pe bulevardul Warta pentru a scăpa de vântul rece. Prânzul îl petrecem în căldura muzeelor. Deoarece se întunecă devreme, folosim pistele de biciclete din centru pentru a ajunge la timp în piața iluminată.",
-            "en": "A cold ride through Rose Park, where paths might be icy. Cycle quickly along the Warta Boulevard to keep the cold wind at your back. Spend mid-day inside the warm museums. As it gets dark early, use the city bike lanes to reach the illuminated Cathedral and Market Square before it's too late."
+            "en": "A cold ride through Rose Park, where paths might be icy. Cycle quickly along the Warta Boulevard to keep the cold wind at your back. Spend mid-day inside the warm museums. As it gets dark early, use the city bike lanes to reach the illuminated Cathedral and Market Square before it's too late.",
+            "pl": "Zimna przejażdżka przez Park Różany, gdzie ścieżki mogą być oblodzone. Szybko jedź Bulwarem Warty, by mieć wiatr w plecy. Południe spędź w ciepłych muzeach. Ponieważ robi się wcześnie ciemno, korzystaj ze ścieżek rowerowych, by dotrzeć do oświetlonej Katedry i Rynku zanim będzie za późno."
           },
           "stops": [
             {
@@ -1099,7 +1187,8 @@
                 "de": "Gefrorener Boden in schattigen Bereichen möglich.",
                 "hu": "Az árnyékos részeken fagyott talajra számítson.",
                 "ro": "Sol înghețat posibil în zonele umbrite.",
-                "en": "Frozen ground possible in shaded areas of the park."
+                "en": "Frozen ground possible in shaded areas of the park.",
+                "pl": "Zamarznięta ziemia możliwa w zacienionych częściach parku."
               }
             },
             {
@@ -1108,7 +1197,8 @@
                 "de": "Der Windchill-Effekt ist am Fluss extrem.",
                 "hu": "A szélérzet a folyóparton sokkal hidegebb.",
                 "ro": "Efectul de răcire al vântului este extrem lângă râu.",
-                "en": "The wind chill effect is extreme along the river."
+                "en": "The wind chill effect is extreme along the river.",
+                "pl": "Efekt wychłodzenia wiatrem jest silny wzdłuż rzeki."
               }
             },
             {
@@ -1117,7 +1207,8 @@
                 "de": "Brücken frieren zuerst ein, Vorsicht bei Glätte.",
                 "hu": "A hidak fagynak le először, óvatosan a jégen.",
                 "ro": "Podurile îngheață primele; atenție la polei.",
-                "en": "Bridges freeze first; watch out for black ice."
+                "en": "Bridges freeze first; watch out for black ice.",
+                "pl": "Mosty zamarzają jako pierwsze; uważaj na gołoledź."
               }
             },
             {
@@ -1126,7 +1217,8 @@
                 "de": "Fahrradhandschuhe drinnen trocknen lassen.",
                 "hu": "Szárítsa meg a kesztyűit bent a múzeumban.",
                 "ro": "Lăsați mănușile de ciclism la uscat în interior.",
-                "en": "Let your cycling gloves dry while you're inside."
+                "en": "Let your cycling gloves dry while you're inside.",
+                "pl": "Pozwól rękawicom rowerowym wyschnąć, gdy będziesz wewnątrz."
               }
             },
             {
@@ -1135,7 +1227,8 @@
                 "de": "Kurze Aufwärmpause mit Blick auf die Warthe.",
                 "hu": "Rövid melegedő szünet kilátással a Wartára.",
                 "ro": "Pauză scurtă de încălzire cu vedere spre Warta.",
-                "en": "Short warm-up break with a view of the river."
+                "en": "Short warm-up break with a view of the river.",
+                "pl": "Krótka rozgrzewka z widokiem na rzekę."
               }
             },
             {
@@ -1144,7 +1237,8 @@
                 "de": "Achten Sie auf Fußgänger auf dem Weihnachtsmarkt.",
                 "hu": "Figyeljen a gyalogosokra a karácsonyi vásárnál.",
                 "ro": "Atenție la pietoni dacă există târg de Crăciun.",
-                "en": "Watch out for pedestrians near the holiday market."
+                "en": "Watch out for pedestrians near the holiday market.",
+                "pl": "Uważaj na pieszych w pobliżu jarmarku świątecznego."
               }
             },
             {
@@ -1153,7 +1247,8 @@
                 "de": "Beleuchtete Fassade ist ein tolles Fotomotiv.",
                 "hu": "A kivilágított homlokzat remek fotótéma.",
                 "ro": "Fațada iluminată este un subiect foto excelent.",
-                "en": "The illuminated facade is a great photo subject."
+                "en": "The illuminated facade is a great photo subject.",
+                "pl": "Oświetlona fasada to świetny temat fotograficzny."
               }
             },
             {
@@ -1162,7 +1257,8 @@
                 "de": "Rad gut abschließen, Dunkelheit bricht früh ein.",
                 "hu": "Zárja le jól a gépet, korán sötétedik.",
                 "ro": "Legăți bine bicicleta; se întunecă devreme.",
-                "en": "Lock your bike well; darkness falls early."
+                "en": "Lock your bike well; darkness falls early.",
+                "pl": "Dobrze zabezpiecz rower; szybko zapada zmrok."
               }
             }
           ],
@@ -1190,6 +1286,12 @@
               "Check tire pressure for better grip on potentially icy roads.",
               "Ensure your bike lights are working for early darkness.",
               "Plan shorter cycling segments with more indoor breaks."
+            ],
+            "pl": [
+              "Termiczne rękawice są niezbędne w mroźnych temperaturach.",
+              "Sprawdź ciśnienie w oponach dla lepszej przyczepności na potencjalnie oblodzonych drogach.",
+              "Upewnij się, że lampki rowerowe działają przed wczesnym zmrokiem.",
+              "Planuj krótsze etapy jazdy z częstszymi przerwami w pomieszczeniach."
             ]
           }
         }
@@ -1208,7 +1310,8 @@
             "de": "Parkplatz am Rosenpark",
             "hu": "Parkoló a Rózsaparknál",
             "ro": "Parcare la Parcul Trandafirilor",
-            "en": "Parking at Rose Park"
+            "en": "Parking at Rose Park",
+            "pl": "Parking w Parku Różanym"
           },
           "coords": [
             15.255,
@@ -1224,7 +1327,8 @@
             "de": "Guter Ausgangspunkt, um das Auto für den Tag abzustellen und die östliche Seite zu erkunden.",
             "hu": "Jó kiindulópont, ahol hagyhatja az autót, és felfedezheti a keleti oldalt.",
             "ro": "Un bun punct de plecare pentru a lăsa mașina și a explora partea de est.",
-            "en": "Good starting point to leave the car and explore the eastern side."
+            "en": "Good starting point to leave the car and explore the eastern side.",
+            "pl": "Dobre miejsce na zostawienie samochodu i zwiedzanie wschodniej części."
           }
         },
         {
@@ -1232,7 +1336,8 @@
             "de": "Rosenpark",
             "hu": "Rózsapark",
             "ro": "Parcul Trandafirilor",
-            "en": "Rose Park"
+            "en": "Rose Park",
+            "pl": "Park Różany"
           },
           "coords": [
             15.2545,
@@ -1248,7 +1353,8 @@
             "de": "Genießen Sie einen ruhigen Morgenspaziergang durch die Rosengärten.",
             "hu": "Élvezze a csendes reggeli sétát a rózsakertekben.",
             "ro": "Bucurați-vă de o plimbare liniștită de dimineață prin grădinile de trandafiri.",
-            "en": "Enjoy a quiet morning walk through the rose gardens."
+            "en": "Enjoy a quiet morning walk through the rose gardens.",
+            "pl": "Ciesz się cichym porannym spacerem po ogrodach różanych."
           }
         },
         {
@@ -1256,7 +1362,8 @@
             "de": "Parkplatz am Alten Markt",
             "hu": "Parkoló a Régi Piactérnél",
             "ro": "Parcare în Piața Veche",
-            "en": "Parking at the Old Market Square"
+            "en": "Parking at the Old Market Square",
+            "pl": "Parking na Starym Rynku"
           },
           "coords": [
             15.239,
@@ -1272,7 +1379,8 @@
             "de": "Parken Sie hier, um das historische Zentrum zu Fuß zu erkunden.",
             "hu": "Parkoljon itt, hogy gyalog fedezze fel a történelmi központot.",
             "ro": "Parcați aici pentru a explora centrul istoric pe jos.",
-            "en": "Park here to explore the historic center on foot."
+            "en": "Park here to explore the historic center on foot.",
+            "pl": "Zaparkuj tu, by zwiedzać zabytkowe centrum pieszo."
           }
         },
         {
@@ -1280,7 +1388,8 @@
             "de": "Rathaus und Paucksch-Brunnen",
             "hu": "Városháza és Paucksch-kút",
             "ro": "Primăria și Fântâna Paucksch",
-            "en": "Town Hall and Paucksch Fountain"
+            "en": "Town Hall and Paucksch Fountain",
+            "pl": "Ratusz i Fontanna Pauckscha"
           },
           "coords": [
             15.238,
@@ -1296,7 +1405,8 @@
             "de": "Der perfekte Ort, um das Treiben der Stadt auf sich wirken zu lassen.",
             "hu": "Tökéletes hely a városi nyüzsgés megfigyelésére.",
             "ro": "Locul perfect pentru a absorbi agitația orașului.",
-            "en": "The perfect place to soak up the city's hustle and bustle."
+            "en": "The perfect place to soak up the city's hustle and bustle.",
+            "pl": "Idealne miejsce, by wchłonąć miejskie zgiełk i życie."
           }
         },
         {
@@ -1304,7 +1414,8 @@
             "de": "Marienkathedrale",
             "hu": "Szent Mária-székesegyház",
             "ro": "Catedrala Sf. Maria",
-            "en": "St. Mary's Cathedral"
+            "en": "St. Mary's Cathedral",
+            "pl": "Katedra św. Marii"
           },
           "coords": [
             15.2401,
@@ -1320,7 +1431,8 @@
             "de": "Steigen Sie auf den Turm, wenn möglich, für eine großartige Aussicht.",
             "hu": "Ha lehetséges, másszon fel a toronyba a nagyszerű kilátásért.",
             "ro": "Urcați în turn, dacă este posibil, pentru o priveliște minunată.",
-            "en": "Climb the tower, if possible, for a great view."
+            "en": "Climb the tower, if possible, for a great view.",
+            "pl": "Jeśli to możliwe, wejdź na wieżę — świetny widok."
           }
         },
         {
@@ -1328,7 +1440,8 @@
             "de": "Parkplatz am Flussufer",
             "hu": "Parkoló a folyóparton",
             "ro": "Parcare pe malul râului",
-            "en": "Parking at the Riverside"
+            "en": "Parking at the Riverside",
+            "pl": "Parking przy Nabrzeżu"
           },
           "coords": [
             15.233,
@@ -1344,7 +1457,8 @@
             "de": "Lassen Sie das Auto hier für den Rest des Nachmittags stehen.",
             "hu": "Hagyja itt az autót a délután hátralévő részére.",
             "ro": "Lăsați mașina aici pentru restul după-amiezii.",
-            "en": "Leave the car here for the rest of the afternoon."
+            "en": "Leave the car here for the rest of the afternoon.",
+            "pl": "Zostaw tu samochód na resztę popołudnia."
           }
         },
         {
@@ -1352,7 +1466,8 @@
             "de": "Warthe-Boulevard und Spichlerz",
             "hu": "Warta-sétány és Spichlerz",
             "ro": "Bulevardul Warta și Spichlerz",
-            "en": "Warta Boulevard and The Granary"
+            "en": "Warta Boulevard and The Granary",
+            "pl": "Bulwar Warty i Spichlerz"
           },
           "coords": [
             15.2345,
@@ -1368,7 +1483,8 @@
             "de": "Genießen Sie ein spätes Mittagessen und erkunden Sie dann das Museum im Spichlerz.",
             "hu": "Élvezze a késői ebédet, majd fedezze fel a Spichlerzben található múzeumot.",
             "ro": "Bucurați-vă de un prânz târziu și apoi explorați muzeul din Spichlerz.",
-            "en": "Enjoy a late lunch and then explore the museum in the Granary."
+            "en": "Enjoy a late lunch and then explore the museum in the Granary.",
+            "pl": "Zjedz późny obiad, a potem zwiedź muzeum w Spichlerzu."
           }
         }
       ],
@@ -1376,7 +1492,8 @@
         "de": "Beginnen Sie Ihren Tag entspannt im Rosenpark, nachdem Sie Ihr Auto in der Nähe geparkt haben. Fahren Sie dann ins Zentrum, parken Sie erneut und erkunden Sie den historischen Kern zu Fuß: das Rathaus, den Paucksch-Brunnen und die beeindruckende Marienkathedrale. Für den Nachmittag fahren Sie zum Flussufer. Parken Sie ein letztes Mal und verbringen Sie den Rest des Tages am Warthe-Boulevard, genießen Sie die Aussicht, essen Sie zu Mittag und besuchen Sie das Kunstmuseum im alten Speicher.",
         "hu": "Kezdje a napot pihentetően a Rózsaparkban, miután leparkolt a közelben. Ezután hajtson a központba, parkoljon le újra, és fedezze fel gyalog a történelmi belvárost: a Városházát, a Paucksch-kutat és a lenyűgöző Szent Mária-székesegyházat. Délutánra hajtson a folyóparthoz. Parkoljon le utoljára, és töltse a nap hátralévő részét a Warta-sétányon, élvezve a kilátást, ebédelve és meglátogatva a régi magtárban található művészeti múzeumot.",
         "ro": "Începeți ziua relaxat în Parcul Trandafirilor după ce ați parcat mașina în apropiere. Apoi, conduceți spre centru, parcați din nou și explorați nucleul istoric pe jos: Primăria, Fântâna Paucksch și impresionanta Catedrală Sf. Maria. Pentru după-amiază, mergeți pe malul râului. Parcați pentru ultima dată și petreceți restul zilei pe Bulevardul Warta, bucurându-vă de priveliște, luând prânzul și vizitând muzeul de artă din vechiul hambar.",
-        "en": "Start your day relaxing in the Rose Park after parking your car nearby. Then drive to the center, park again, and explore the historic core on foot: the Town Hall, the Paucksch Fountain, and the impressive St. Mary's Cathedral. For the afternoon, drive to the riverside. Park one last time and spend the rest of the day on the Warta Boulevard, enjoying the views, having lunch, and visiting the art museum in the old granary."
+        "en": "Start your day relaxing in the Rose Park after parking your car nearby. Then drive to the center, park again, and explore the historic core on foot: the Town Hall, the Paucksch Fountain, and the impressive St. Mary's Cathedral. For the afternoon, drive to the riverside. Park one last time and spend the rest of the day on the Warta Boulevard, enjoying the views, having lunch, and visiting the art museum in the old granary.",
+        "pl": "Rozpocznij dzień relaksem w Parku Róż po zaparkowaniu samochodu w pobliżu. Potem jedź do centrum, ponownie zaparkuj i zwiedź pieszo historyczne centrum: ratusz, fontannę Pauckscha i imponującą Katedrę św. Marii. Po południu jedź nad rzekę. Zaparkuj jeszcze raz i spędź resztę dnia na Bulwarze Warty, podziwiając widoki, jedząc obiad i odwiedzając muzeum sztuki w starym spichlerzu."
       },
       "gastro_picks": {
         "de": [
@@ -1572,6 +1689,12 @@
           "Pay attention to the parking zones and pay the fees to avoid tickets.",
           "Use the car to also reach destinations a little further out.",
           "Traffic can be heavy during peak hours."
+        ],
+        "pl": [
+          "Zaplanuj przystanki parkingowe z wyprzedzeniem. Miejsca w centrum mogą być ograniczone.",
+          "Zwracaj uwagę na strefy parkowania i opłać postój, żeby uniknąć mandatów.",
+          "Samochód warto też wykorzystać, by dotrzeć do nieco dalszych punktów.",
+          "Ruch może być duży w godzinach szczytu."
         ]
       },
       "variants": {
@@ -1580,7 +1703,8 @@
             "de": "Regnerischer Start am Parkplatz beim Rosenpark. Wir nutzen das Auto, um trocken zwischen den weit entfernten Zielen wie dem Lubusz-Museum und dem Marktplatz zu pendeln. Mittags parken wir nahe der Kathedrale und genießen die Aussicht aus dem Auto am Warta-Boulevard, bevor wir den Tag im geschützten Speicher-Museum ausklingen lassen.",
             "hu": "Esős kezdés a Rózsapark parkolójában. Az autót használjuk, hogy szárazon ingázzunk a távolabbi célpontok, mint a Lubuszi Múzeum és a főtér között. Délben a székesegyház közelében parkolunk, és az autóból nézzük a Warta-partot, majd a napot a fedett Magtár múzeumában zárjuk.",
             "ro": "Început ploios la parcarea de lângă Parcul Róż. Folosim mașina pentru a face naveta între obiectivele îndepărtate, cum ar fi Muzeul Lubusz și Piața Veche. La prânz parcăm lângă Catedrală și admirăm bulevardul Warta din mașină, înainte de a încheia ziua la adăpostul muzeului Spichlerz.",
-            "en": "A rainy start at the Rose Park parking lot. We use the car to commute dry between distant spots like the Lubusz Museum and the Market Square. At noon, park near the Cathedral and enjoy the riverside views from the car before ending the day at the sheltered Granary museum."
+            "en": "A rainy start at the Rose Park parking lot. We use the car to commute dry between distant spots like the Lubusz Museum and the Market Square. At noon, park near the Cathedral and enjoy the riverside views from the car before ending the day at the sheltered Granary museum.",
+            "pl": "Deszczowy poranek na parkingu przy Parku Róż. Korzystamy z samochodu, by suchą drogą przemieszczać się między dalszymi punktami, jak Muzeum Ziemi Lubuskiej i Rynek. W południe zaparkuj przy katedrze i podziwiaj widoki nad rzeką z auta, kończąc dzień w osłoniętym muzeum Spichlerz."
           },
           "stops": [
             {
@@ -1589,7 +1713,8 @@
                 "de": "Parkplatz ist oft nass, achten Sie auf Pfützen.",
                 "hu": "A parkoló gyakran vizes, vigyázzon a tócsákra.",
                 "ro": "Parcarea este adesea umedă; atenție la bălți.",
-                "en": "The parking lot can be very wet; watch for puddles."
+                "en": "The parking lot can be very wet; watch for puddles.",
+                "pl": "Parking bywa bardzo mokry; uważaj na kałuże."
               }
             },
             {
@@ -1598,7 +1723,8 @@
                 "de": "Kurzer Spaziergang, nutzen Sie den Schirm.",
                 "hu": "Rövid séta, használjon esernyőt.",
                 "ro": "Plimbare scurtă; folosiți umbrela.",
-                "en": "Keep the walk short and use an umbrella."
+                "en": "Keep the walk short and use an umbrella.",
+                "pl": "Skróć spacer i użyj parasola."
               }
             },
             {
@@ -1607,7 +1733,8 @@
                 "de": "Zentrale Lage, ideal für schnellen Zugang.",
                 "hu": "Központi fekvés, ideális a gyors bejutáshoz.",
                 "ro": "Locație centrală, ideală pentru acces rapid.",
-                "en": "Central location, ideal for quick access to shops."
+                "en": "Central location, ideal for quick access to shops.",
+                "pl": "Centralna lokalizacja, idealna dla szybkiego dostępu do sklepów."
               }
             },
             {
@@ -1616,7 +1743,8 @@
                 "de": "Sehenswürdigkeiten direkt am Parkplatz.",
                 "hu": "A látnivalók közvetlenül a parkolónál vannak.",
                 "ro": "Obiectivele sunt chiar lângă parcare.",
-                "en": "Major sights are right next to the parking area."
+                "en": "Major sights are right next to the parking area.",
+                "pl": "Główne atrakcje są tuż obok parkingu."
               }
             },
             {
@@ -1625,7 +1753,8 @@
                 "de": "Guter Ort für eine Regenpause.",
                 "hu": "Kiváló hely egy esőszünethez.",
                 "ro": "Loc bun pentru o pauză de ploaie.",
-                "en": "A good spot for a break from the rain."
+                "en": "A good spot for a break from the rain.",
+                "pl": "Dobre miejsce na przerwę od deszczu."
               }
             },
             {
@@ -1634,7 +1763,8 @@
                 "de": "Parken Sie nah am Boulevard-Eingang.",
                 "hu": "Parkoljon közel a sétány bejáratához.",
                 "ro": "Parcați aproape de intrarea pe bulevard.",
-                "en": "Park close to the boulevard entrance to stay dry."
+                "en": "Park close to the boulevard entrance to stay dry.",
+                "pl": "Zaparkuj blisko wejścia na bulwar, by pozostać suchym."
               }
             },
             {
@@ -1643,7 +1773,8 @@
                 "de": "Museum direkt am Ufer, kaum Gehweg im Regen.",
                 "hu": "A múzeum a parton van, alig kell gyalogolni.",
                 "ro": "Muzeul este pe mal; mers minim pe jos.",
-                "en": "The museum is on the bank; minimal walking required."
+                "en": "The museum is on the bank; minimal walking required.",
+                "pl": "Muzeum znajduje się przy nabrzeżu; wymagany jest minimalny spacer."
               }
             }
           ],
@@ -1671,6 +1802,12 @@
               "Watch for reduced visibility during heavy downpours.",
               "Roads can be slippery around the old town area.",
               "Don't leave wet umbrellas open inside the car."
+            ],
+            "pl": [
+              "Parkingowe garaże kryte zapewniają suchy sposób wyjścia z auta.",
+              "Uważaj na ograniczoną widoczność podczas silnych opadów.",
+              "Drogi wokół starego miasta mogą być śliskie.",
+              "Nie zostawiaj mokrych parasoli rozłożonych w środku auta."
             ]
           }
         },
@@ -1679,7 +1816,8 @@
             "de": "Frostiger Morgen, das Auto muss eventuell enteist werden. Wir genießen die Sitzheizung auf dem Weg zum Rosenpark und zur Kathedrale. Die Parkplätze in der Altstadt sind gut geräumt. Nachmittags erleben wir das beleuchtete Gorzów bequem vom Wagen aus, bevor wir den Tag im beheizten Speicher-Museum abschließen.",
             "hu": "Fagyos reggel, az autót lehet, hogy jégmentesíteni kell. Élvezzük az ülésfűtést a Rózsapark és a székesegyház felé vezető úton. Az óvárosi parkolók jól takarítottak. Délután a kivilágított Gorzówot az autóból is megcsodálhatjuk, mielőtt a fűtött Magtár múzeumában zárnánk a napot.",
             "ro": "Dimineață geroasă; mașina ar putea avea nevoie de dezghețare. Ne bucurăm de scaunele încălzite în drum spre Parcul Róż. Parcările din orașul vechi sunt bine deszăpezite. După-amiaza admirăm orașul iluminat din mașină, înainte de a încheia ziua la muzeul Spichlerz.",
-            "en": "A frosty morning; the car might need de-icing. We enjoy the seat heaters on the way to Rose Park and the Cathedral. Parking lots in the old town are well-cleared. In the afternoon, view the illuminated Gorzów from the comfort of the car before finishing the day at the heated Granary museum."
+            "en": "A frosty morning; the car might need de-icing. We enjoy the seat heaters on the way to Rose Park and the Cathedral. Parking lots in the old town are well-cleared. In the afternoon, view the illuminated Gorzów from the comfort of the car before finishing the day at the heated Granary museum.",
+            "pl": "Mroźny poranek; samochód może wymagać odśnieżenia lub odmrożenia szyb. Korzystamy z podgrzewanych siedzeń w drodze do Parku Róż i Katedry. Parking w starej części miasta jest dobrze utrzymany. Po południu oglądamy podświetlony Gorzów z wnętrza samochodu, kończąc dzień w ogrzewanym muzeum Spichlerz."
           },
           "stops": [
             {
@@ -1688,7 +1826,8 @@
                 "de": "Achten Sie auf Eisflächen auf dem Parkplatz.",
                 "hu": "Vigyázzon a jeges foltokra a parkolóban.",
                 "ro": "Atenție la porțiunile înghețate din parcare.",
-                "en": "Watch out for icy patches in the parking lot."
+                "en": "Watch out for icy patches in the parking lot.",
+                "pl": "Uważaj na oblodzone fragmenty na parkingu."
               }
             },
             {
@@ -1697,7 +1836,8 @@
                 "de": "Kurzer, knackiger Winterspaziergang.",
                 "hu": "Rövid, frissítő téli séta.",
                 "ro": "Plimbare de iarnă scurtă și revigorantă.",
-                "en": "Short, crisp winter walk in the fresh air."
+                "en": "Short, crisp winter walk in the fresh air.",
+                "pl": "Krótki, rześki zimowy spacer na świeżym powietrzu."
               }
             },
             {
@@ -1706,7 +1846,8 @@
                 "de": "Parkplätze sind meist gut geräumt.",
                 "hu": "A parkolóhelyek általában jól takarítottak.",
                 "ro": "Locurile de parcare sunt de obicei curățate.",
-                "en": "Parking spots are usually well-cleared of snow."
+                "en": "Parking spots are usually well-cleared of snow.",
+                "pl": "Miejsca parkingowe zwykle dobrze oczyszczone ze śniegu."
               }
             },
             {
@@ -1715,7 +1856,8 @@
                 "de": "Sehenswert bei winterlicher Beleuchtung.",
                 "hu": "Téli kivilágításban különösen szép.",
                 "ro": "Merită văzut în iluminatul de iarnă.",
-                "en": "Worth seeing with the festive winter lighting."
+                "en": "Worth seeing with the festive winter lighting.",
+                "pl": "Warto zobaczyć przy świątecznym oświetleniu zimą."
               }
             },
             {
@@ -1724,7 +1866,8 @@
                 "de": "Kurze Pause in den kühlen, aber windstillen Mauern.",
                 "hu": "Rövid pihenő a hűvös, de szélvédett falak között.",
                 "ro": "Pauză scurtă între zidurile răcoroase, dar ferite de vânt.",
-                "en": "Short break inside the cool but windless walls."
+                "en": "Short break inside the cool but windless walls.",
+                "pl": "Krótka przerwa wewnątrz chłodnych, ale bezwietrznych murów."
               }
             },
             {
@@ -1733,7 +1876,8 @@
                 "de": "Vorsicht beim Aussteigen, Rutschgefahr.",
                 "hu": "Vigyázzon kiszálláskor, csúszásveszély.",
                 "ro": "Atenție la coborâre; risc de alunecare.",
-                "en": "Be careful when getting out; risk of slipping."
+                "en": "Be careful when getting out; risk of slipping.",
+                "pl": "Uważaj przy wysiadaniu; ryzyko poślizgnięcia."
               }
             },
             {
@@ -1742,7 +1886,8 @@
                 "de": "Genießen Sie die Wärme im Museum.",
                 "hu": "Élvezze a meleget a múzeum falai között.",
                 "ro": "Bucurați-vă de căldura din interiorul muzeului.",
-                "en": "Enjoy the cozy warmth inside the museum."
+                "en": "Enjoy the cozy warmth inside the museum.",
+                "pl": "Ciesz się przytulnym ciepłem wewnątrz muzeum."
               }
             }
           ],
@@ -1770,6 +1915,12 @@
               "Keep an ice scraper and anti-freeze in the car.",
               "Be mindful of early twilight while driving.",
               "Park in garages to avoid having to scrape the windows."
+            ],
+            "pl": [
+              "Opony zimowe są obowiązkowe podczas polskiej zimy.",
+              "Miej w samochodzie skrobaczkę do szyb i odmrażacz.",
+              "Pamiętaj o wczesnym zmroku podczas jazdy.",
+              "Parkuj w garażach, by nie musieć skrobać szyb."
             ]
           }
         }
@@ -1788,7 +1939,8 @@
             "de": "Ankunft am Alten Markt (Haltestelle Kathedrale)",
             "hu": "Érkezés a Régi Piactérre (Katedrális megálló)",
             "ro": "Sosire în Piața Veche (stația Catedrala)",
-            "en": "Arrival at the Old Market Square (Cathedral stop)"
+            "en": "Arrival at the Old Market Square (Cathedral stop)",
+            "pl": "Przyjazd na Stary Rynek (przystanek Katedra)"
           },
           "coords": [
             15.241,
@@ -1804,7 +1956,8 @@
             "de": "Kaufen Sie eine Tageskarte für den öffentlichen Nahverkehr.",
             "hu": "Vásároljon napijegyet a tömegközlekedéshez.",
             "ro": "Cumpărați un bilet de o zi pentru transportul public.",
-            "en": "Buy a day pass for public transport."
+            "en": "Buy a day pass for public transport.",
+            "pl": "Kup całodzienny bilet na transport publiczny."
           }
         },
         {
@@ -1812,7 +1965,8 @@
             "de": "Marienkathedrale",
             "hu": "Szent Mária-székesegyház",
             "ro": "Catedrala Sf. Maria",
-            "en": "St. Mary's Cathedral"
+            "en": "St. Mary's Cathedral",
+            "pl": "Katedra św. Marii"
           },
           "coords": [
             15.2401,
@@ -1828,7 +1982,8 @@
             "de": "Direkt an der Haltestelle gelegen, ein perfekter erster Halt.",
             "hu": "Közvetlenül a megállónál található, tökéletes első megálló.",
             "ro": "Situată chiar lângă stație, o primă oprire perfectă.",
-            "en": "Located right next to the stop, a perfect first stop."
+            "en": "Located right next to the stop, a perfect first stop.",
+            "pl": "Położona tuż obok przystanku, idealny pierwszy punkt."
           }
         },
         {
@@ -1836,7 +1991,8 @@
             "de": "Rathaus und Alter Markt",
             "hu": "Városháza és Régi Piactér",
             "ro": "Primăria și Piața Veche",
-            "en": "Town Hall and Old Market Square"
+            "en": "Town Hall and Old Market Square",
+            "pl": "Ratusz i Stary Rynek"
           },
           "coords": [
             15.238,
@@ -1852,7 +2008,8 @@
             "de": "Schlendern Sie über den Platz und genießen Sie einen Kaffee.",
             "hu": "Sétáljon végig a téren és igyon meg egy kávét.",
             "ro": "Plimbați-vă prin piață și savurați o cafea.",
-            "en": "Stroll across the square and enjoy a coffee."
+            "en": "Stroll across the square and enjoy a coffee.",
+            "pl": "Przejdź przez rynek i napij się kawy."
           }
         },
         {
@@ -1860,7 +2017,8 @@
             "de": "Warthe-Boulevard (Haltestelle Spichlerz)",
             "hu": "Warta-sétány (Spichlerz megálló)",
             "ro": "Bulevardul Warta (stația Spichlerz)",
-            "en": "Warta Boulevard (Spichlerz stop)"
+            "en": "Warta Boulevard (Spichlerz stop)",
+            "pl": "Bulwar Warty (przystanek Spichlerz)"
           },
           "coords": [
             15.234,
@@ -1876,7 +2034,8 @@
             "de": "Steigen Sie hier aus für das Mittagessen und einen Spaziergang am Fluss.",
             "hu": "Szálljon ki itt ebédelni és sétálni a folyóparton.",
             "ro": "Coborâți aici pentru prânz și o plimbare pe râu.",
-            "en": "Get off here for lunch and a walk by the river."
+            "en": "Get off here for lunch and a walk by the river.",
+            "pl": "Wysiądź tutaj na obiad i spacer nad rzeką."
           }
         },
         {
@@ -1884,7 +2043,8 @@
             "de": "Spichlerz (Speicher)",
             "hu": "Spichlerz (Magtár)",
             "ro": "Spichlerz (Hambarul)",
-            "en": "The Granary (Spichlerz)"
+            "en": "The Granary (Spichlerz)",
+            "pl": "Spichlerz (Spichlerz)"
           },
           "coords": [
             15.2345,
@@ -1900,7 +2060,8 @@
             "de": "Nur einen kurzen Spaziergang vom Boulevard entfernt.",
             "hu": "Csak egy rövid sétára a sétánytól.",
             "ro": "La doar o scurtă plimbare de bulevard.",
-            "en": "Just a short walk from the boulevard."
+            "en": "Just a short walk from the boulevard.",
+            "pl": "Zaledwie krótki spacer od bulwaru."
           }
         },
         {
@@ -1908,7 +2069,8 @@
             "de": "Museum des Lebuser Landes",
             "hu": "Lubusi Föld Múzeuma",
             "ro": "Muzeul Ținutului Lubusz",
-            "en": "Museum of the Lubusz Land"
+            "en": "Museum of the Lubusz Land",
+            "pl": "Muzeum Ziemi Lubuskiej"
           },
           "coords": [
             15.228,
@@ -1924,7 +2086,8 @@
             "de": "Der letzte große Programmpunkt des Tages, nehmen Sie sich Zeit dafür.",
             "hu": "A nap utolsó nagy programpontja, szánjon rá időt.",
             "ro": "Ultimul punct important al zilei, acordați-i timp.",
-            "en": "The last major point on the agenda for the day, take your time."
+            "en": "The last major point on the agenda for the day, take your time.",
+            "pl": "Ostatni duży punkt planu na dziś, nie śpiesz się."
           }
         }
       ],
@@ -1932,7 +2095,8 @@
         "de": "Mit einer Tageskarte beginnt Ihr Abenteuer an der Haltestelle bei der Kathedrale. Erkunden Sie das religiöse und zivile Zentrum der Stadt – die Kathedrale und den Alten Markt – zu Fuß. Eine kurze Busfahrt bringt Sie zum Mittagessen an den Warthe-Boulevard. Von dort aus ist es nur ein kurzer Spaziergang zum Spichlerz-Museum. Eine weitere Fahrt mit den öffentlichen Verkehrsmitteln führt Sie zu Ihrem letzten Ziel, dem Museum des Lebuser Landes, wo Sie tief in die Geschichte der Region eintauchen können.",
         "hu": "Napijeggyel a kaland a székesegyház melletti megállónál kezdődik. Fedezze fel gyalog a város vallási és polgári központját – a székesegyházat és a Régi Piacteret. Egy rövid buszozás elviszi ebédelni a Warta-sétányra. Innen csak egy rövid séta a Spichlerz-múzeum. Egy újabb tömegközlekedési út vezet az utolsó célponthoz, a Lubusi Föld Múzeumához, ahol mélyen elmerülhet a régió történelmében.",
         "ro": "Cu un bilet de o zi, aventura dvs. începe la stația de lângă catedrală. Explorați centrul religios și civic al orașului - catedrala și Piața Veche - pe jos. O scurtă călătorie cu autobuzul vă duce la prânz pe Bulevardul Warta. De acolo, este doar o scurtă plimbare până la Muzeul Spichlerz. O altă călătorie cu transportul public vă duce la destinația finală, Muzeul Ținutului Lubusz, unde puteți aprofunda istoria regiunii.",
-        "en": "With a day pass, your adventure begins at the stop by the cathedral. Explore the city's religious and civic center - the cathedral and the Old Market Square - on foot. A short bus ride takes you to the Warta Boulevard for lunch. From there, it's just a short walk to the Spichlerz Museum. Another transit ride takes you to your final destination, the Museum of the Lubusz Land, where you can delve deep into the region's history."
+        "en": "With a day pass, your adventure begins at the stop by the cathedral. Explore the city's religious and civic center - the cathedral and the Old Market Square - on foot. A short bus ride takes you to the Warta Boulevard for lunch. From there, it's just a short walk to the Spichlerz Museum. Another transit ride takes you to your final destination, the Museum of the Lubusz Land, where you can delve deep into the region's history.",
+        "pl": "Z całodziennym biletem twoja przygoda zaczyna się na przystanku przy katedrze. Zwiedź pieszo religijne i obywatelskie centrum miasta — katedrę i Stary Rynek. Krótki przejazd autobusem zabierze cię na Bulwar Warty na obiad. Stamtąd to tylko krótki spacer do Muzeum Spichlerz. Kolejna przejażdżka transportem zabierze cię do ostatniego celu, Muzeum Ziemi Lubuskiej, gdzie możesz zgłębić historię regionu."
       },
       "gastro_picks": {
         "de": [
@@ -2128,6 +2292,12 @@
           "Validate your ticket upon boarding.",
           "Note that fewer buses run at night and on weekends.",
           "Give your seat to elderly passengers."
+        ],
+        "pl": [
+          "Pobierz lokalną aplikację komunikacji miejskiej dla informacji w czasie rzeczywistym o rozkładach i trasach.",
+          "Skasuj bilet przy wsiadaniu.",
+          "Pamiętaj, że nocą i w weekendy kursuje mniej autobusów.",
+          "Ustępuj miejsca starszym pasażerom."
         ]
       },
       "variants": {
@@ -2136,7 +2306,8 @@
             "de": "Ankunft am nassen Marktplatz per Straßenbahn. Die Kathedrale bietet einen schnellen Schutz vor dem ersten Guss. Mittags fahren wir mit dem Bus zum Warta-Boulevard, wo wir die meiste Zeit im trockenen Speicher-Museum verbringen. Der Tag endet im Museum des Lebuser Landes, das bequem per ÖPNV erreichbar ist, ohne lange im Regen laufen zu müssen.",
             "hu": "Érkezés a vizes főtérre villamossal. A székesegyház gyors menedéket nyújt az első zápor elől. Délben busszal megyünk a Warta-partra, ahol az idő nagy részét a száraz Magtár múzeumában töltjük. A napot a Lubuszi Múzeumban zárjuk, amely tömegközlekedéssel könnyen elérhető, így nem kell sokat áznunk.",
             "ro": "Sosire în piața umedă cu tramvaiul. Catedrala oferă un adăpost rapid împotriva primei averse. La prânz luăm autobuzul spre bulevardul Warta, unde stăm în muzeul Spichlerz. Ziua se termină la Muzeul Pământului Lubusz, accesibil ușor cu transportul public, fără a merge mult prin ploaie.",
-            "en": "Arrival at the wet Market Square by tram. The Cathedral offers quick shelter from the first downpour. At noon, take the bus to Warta Boulevard, spending most of the time inside the dry Granary museum. The day ends at the Lubusz Museum, easily accessible by transit to minimize walking in the rain."
+            "en": "Arrival at the wet Market Square by tram. The Cathedral offers quick shelter from the first downpour. At noon, take the bus to Warta Boulevard, spending most of the time inside the dry Granary museum. The day ends at the Lubusz Museum, easily accessible by transit to minimize walking in the rain.",
+            "pl": "Przyjazd na mokry Rynek tramwajem. Katedra daje szybkie schronienie przed pierwszymi opadami. W południe jedź autobusem na Bulwar Warty, spędzając większość czasu w suchym muzeum Spichlerz. Dzień kończy się w Muzeum Ziemi Lubuskiej, łatwo dostępnym komunikacją, by zminimalizować spacer w deszczu."
           },
           "stops": [
             {
@@ -2145,7 +2316,8 @@
                 "de": "Unterstand an der Haltestelle nutzen.",
                 "hu": "Használja a megálló váróját.",
                 "ro": "Folosiți adăpostul din stație.",
-                "en": "Use the shelter at the transit stop."
+                "en": "Use the shelter at the transit stop.",
+                "pl": "Skorzystaj z wiaty na przystanku."
               }
             },
             {
@@ -2154,7 +2326,8 @@
                 "de": "Kurzer Weg von der Haltestelle, kaum Regen.",
                 "hu": "Rövid út a megállótól, alig fog ázni.",
                 "ro": "Drum scurt de la stație; expunere minimă.",
-                "en": "Short walk from the stop; minimal rain exposure."
+                "en": "Short walk from the stop; minimal rain exposure.",
+                "pl": "Krótki spacer z przystanku; minimalna ekspozycja na deszcz."
               }
             },
             {
@@ -2163,7 +2336,8 @@
                 "de": "Viele Cafés für eine Regenpause in der Nähe.",
                 "hu": "Sok kávézó van a közelben az eső elől.",
                 "ro": "Multe cafenele în apropiere pentru adăpost.",
-                "en": "Many cafes nearby to hide from the rain."
+                "en": "Many cafes nearby to hide from the rain.",
+                "pl": "Wiele kawiarni w pobliżu, gdzie można schować się przed deszczem."
               }
             },
             {
@@ -2172,7 +2346,8 @@
                 "de": "Steigen Sie direkt vor dem Museum aus.",
                 "hu": "Szálljon le közvetlenül a múzeumnál.",
                 "ro": "Coborâți chiar în fața muzeului.",
-                "en": "Get off right in front of the museum entrance."
+                "en": "Get off right in front of the museum entrance.",
+                "pl": "Wysiądź tuż przed wejściem do muzeum."
               }
             },
             {
@@ -2181,7 +2356,8 @@
                 "de": "Idealer Ort für den regnerischen Mittag.",
                 "hu": "Ideális helyszín az esős délidőben.",
                 "ro": "Loc ideal pentru prânzul ploios.",
-                "en": "Ideal place for a rainy midday visit."
+                "en": "Ideal place for a rainy midday visit.",
+                "pl": "Idealne miejsce na deszczową wizytę w środku dnia."
               }
             },
             {
@@ -2190,7 +2366,8 @@
                 "de": "Gut angebunden, Bushaltestelle fast vor der Tür.",
                 "hu": "Jól megközelíthető, buszmegálló a közelben.",
                 "ro": "Bine conectat; stație de autobuz aproape.",
-                "en": "Well connected; bus stop is almost at the door."
+                "en": "Well connected; bus stop is almost at the door.",
+                "pl": "Dobrze skomunikowane; przystanek prawie przy drzwiach."
               }
             }
           ],
@@ -2218,6 +2395,12 @@
               "Wait for your bus in a nearby shop or cafe to stay dry.",
               "Trams can get crowded during rain; allow extra time.",
               "Check the electronic displays at stops for real-time info."
+            ],
+            "pl": [
+              "Kupuj bilety wygodnie przez aplikacje mobilne (np. moBILET).",
+              "Czekaj na autobus w pobliskim sklepie lub kawiarni, by pozostać suchym.",
+              "Tramwaje mogą być zatłoczone podczas deszczu; przeznacz na to więcej czasu.",
+              "Sprawdzaj wyświetlacze elektroniczne na przystankach dla informacji w czasie rzeczywistym."
             ]
           }
         },
@@ -2226,7 +2409,8 @@
             "de": "Wintermorgen, die beheizte Straßenbahn bringt uns zum Marktplatz. In der Kathedrale herrscht eine friedliche Stille. Mittags nutzen wir den Bus zum Speicher, wo wir uns lange aufwärmen. Da es gegen 16 Uhr dunkel wird, fahren wir mit dem ÖPNV zurück durch das winterlich beleuchtete Gorzów und genießen den Abschluss im Museum des Lebuser Landes.",
             "hu": "Téli reggel, a fűtött villamos repít minket a főtérre. A székesegyházban békés csend fogad. Délben busszal megyünk a Magtárhoz, ahol alaposan átmelegszünk. Mivel 4 óra körül sötétedik, tömegközlekedéssel utazunk át a kivilágított városon a Lubuszi Múzeumig, ahol a napot zárjuk.",
             "ro": "Dimineață de iarnă; tramvaiul încălzit ne duce în piață. În Catedrală domnește o liniște deplină. La prânz luăm autobuzul spre Spichlerz, unde ne încălzim bine. Deoarece se întunecă în jur de ora 16:00, mergem cu transportul public prin orașul luminat festiv până la muzeu.",
-            "en": "Winter morning; the heated tram takes us to the Market Square. Peace and quiet await inside the Cathedral. At noon, take the bus to the Granary for a long warm-up. Since it gets dark around 4 PM, travel by transit through the festively lit Gorzów and enjoy the final stop at the Lubusz Museum."
+            "en": "Winter morning; the heated tram takes us to the Market Square. Peace and quiet await inside the Cathedral. At noon, take the bus to the Granary for a long warm-up. Since it gets dark around 4 PM, travel by transit through the festively lit Gorzów and enjoy the final stop at the Lubusz Museum.",
+            "pl": "Zimowy poranek; ogrzewany tramwaj zabiera nas na Rynek. W katedrze panuje cisza i spokój. W południe jedź autobusem do Spichlerza na długie rozgrzanie. Ponieważ o zmierzchu robi się ciemno około 16:00, podróżuj komunikacją przez świątecznie oświetlony Gorzów i ciesz się ostatnim przystankiem w Muzeum Ziemi Lubuskiej."
           },
           "stops": [
             {
@@ -2235,7 +2419,8 @@
                 "de": "Haltestelle liegt direkt im Zentrum.",
                 "hu": "A megálló közvetlenül a központban van.",
                 "ro": "Stația este chiar în centrul orașului.",
-                "en": "The stop is located directly in the center."
+                "en": "The stop is located directly in the center.",
+                "pl": "Przystanek znajduje się bezpośrednio w centrum."
               }
             },
             {
@@ -2244,7 +2429,8 @@
                 "de": "Kurzer Aufenthalt zum Aufwärmen möglich.",
                 "hu": "Rövid melegedés a vastag falak között.",
                 "ro": "Scurtă pauză de încălzire între ziduri.",
-                "en": "A short stay inside to warm up is possible."
+                "en": "A short stay inside to warm up is possible.",
+                "pl": "Możliwy krótki postój w środku, by się ogrzać."
               }
             },
             {
@@ -2253,7 +2439,8 @@
                 "de": "Suchen Sie Cafés mit heißen Getränken auf.",
                 "hu": "Keressen kávézót egy forró italhoz.",
                 "ro": "Căutați cafenele cu băuturi calde.",
-                "en": "Look for cafes offering hot beverages nearby."
+                "en": "Look for cafes offering hot beverages nearby.",
+                "pl": "Szukaj kawiarni z gorącymi napojami w pobliżu."
               }
             },
             {
@@ -2262,7 +2449,8 @@
                 "de": "Vorsicht beim Aussteigen auf glatten Gehwegen.",
                 "hu": "Vigyázzon kiszálláskor a csúszós járdán.",
                 "ro": "Atenție la coborâre pe trotuarele alunecoase.",
-                "en": "Be careful when exiting onto slippery sidewalks."
+                "en": "Be careful when exiting onto slippery sidewalks.",
+                "pl": "Uważaj przy wysiadaniu na śliskie chodniki."
               }
             },
             {
@@ -2271,7 +2459,8 @@
                 "de": "Museum ist gut beheizt, ideal für den Mittag.",
                 "hu": "A múzeum jól fűtött, ideális délidőben.",
                 "ro": "Muzeul este bine încălzit; ideal pentru prânz.",
-                "en": "The museum is well-heated; ideal for midday."
+                "en": "The museum is well-heated; ideal for midday.",
+                "pl": "Muzeum jest dobrze ogrzewane; idealne na południe dnia."
               }
             },
             {
@@ -2280,7 +2469,8 @@
                 "de": "Nach dem Besuch ist die Bushaltestelle nah.",
                 "hu": "A látogatás után közel a buszmegálló.",
                 "ro": "Stația de autobuz este aproape după vizită.",
-                "en": "The bus stop is very close for your return trip."
+                "en": "The bus stop is very close for your return trip.",
+                "pl": "Przystanek autobusowy bardzo blisko na powrót."
               }
             }
           ],
@@ -2308,6 +2498,12 @@
               "Check the winter schedule on the MZK website.",
               "Wear shoes with good grip for potentially icy stops.",
               "Sunset is early; enjoy the city lights from the window."
+            ],
+            "pl": [
+              "Tramwaje i autobusy są dobrze ogrzewane zimą.",
+              "Sprawdź zimowy rozkład na stronie MZK.",
+              "Noś buty z dobrą przyczepnością na ewentualnie oblodzone przystanki.",
+              "Wcześnie zapada zmrok; podziwiaj miejskie światła z okna tramwaju/autobusu."
             ]
           }
         }

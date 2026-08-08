@@ -21,7 +21,8 @@
             "de": "Rathaus Bielsko-Biała",
             "hu": "Városháza, Bielsko-Biała",
             "ro": "Primăria din Bielsko-Biała",
-            "en": "Bielsko-Biała Town Hall"
+            "en": "Bielsko-Biała Town Hall",
+            "pl": "Ratusz w Bielsku-Białej"
           },
           "coords": [
             19.045,
@@ -37,7 +38,8 @@
             "de": "Bewundern Sie die beeindruckende Architektur im Wiener Stil.",
             "hu": "Csodálja meg a lenyűgöző bécsi stílusú építészetet.",
             "ro": "Admirați arhitectura impresionantă în stil vienez.",
-            "en": "Admire the impressive Vienna-style architecture."
+            "en": "Admire the impressive Vienna-style architecture.",
+            "pl": "Podziwiaj imponującą architekturę w stylu wiedeńskim."
           }
         },
         {
@@ -45,7 +47,8 @@
             "de": "Kathedrale St. Nikolaus",
             "hu": "Szent Miklós-katedrális",
             "ro": "Catedrala Sfântul Nicolae",
-            "en": "St. Nicholas Cathedral"
+            "en": "St. Nicholas Cathedral",
+            "pl": "Katedra św. Mikołaja"
           },
           "coords": [
             19.0465,
@@ -61,7 +64,8 @@
             "de": "Achten Sie auf die Jugendstil-Glasfenster im Inneren.",
             "hu": "Figyelje meg a szecessziós ólomüveg ablakokat a belsejében.",
             "ro": "Observați vitraliile Art Nouveau din interior.",
-            "en": "Look for the Art Nouveau stained-glass windows inside."
+            "en": "Look for the Art Nouveau stained-glass windows inside.",
+            "pl": "Szukaj secesyjnych witraży wewnątrz."
           }
         },
         {
@@ -69,7 +73,8 @@
             "de": "Schloss Sułkowski & Museum",
             "hu": "Sułkowski-kastély és Múzeum",
             "ro": "Castelul Sułkowski și Muzeul",
-            "en": "Sułkowski Castle & Museum"
+            "en": "Sułkowski Castle & Museum",
+            "pl": "Zamek Sułkowskich i Muzeum"
           },
           "coords": [
             19.043,
@@ -85,7 +90,8 @@
             "de": "Der älteste Teil der Burg stammt aus dem 14. Jahrhundert.",
             "hu": "A vár legrégebbi része a 14. századból származik.",
             "ro": "Cea mai veche parte a castelului datează din secolul al XIV-lea.",
-            "en": "The oldest part of the castle dates back to the 14th century."
+            "en": "The oldest part of the castle dates back to the 14th century.",
+            "pl": "Najstarsza część zamku pochodzi z XIV wieku."
           }
         },
         {
@@ -93,7 +99,8 @@
             "de": "Haus zu den Fröschen",
             "hu": "Békás ház",
             "ro": "Casa cu broaște",
-            "en": "House of Frogs"
+            "en": "House of Frogs",
+            "pl": "Dom Żab"
           },
           "coords": [
             19.0478,
@@ -109,7 +116,8 @@
             "de": "Ein perfektes Beispiel für Jugendstil-Architektur. Zählen Sie die Frösche!",
             "hu": "A szecessziós építészet tökéletes példája. Számolja meg a békákat!",
             "ro": "Un exemplu perfect de arhitectură Art Nouveau. Numărați broaștele!",
-            "en": "A perfect example of Art Nouveau architecture. Count the frogs!"
+            "en": "A perfect example of Art Nouveau architecture. Count the frogs!",
+            "pl": "Doskonały przykład secesji. Policz żaby!"
           }
         },
         {
@@ -117,7 +125,8 @@
             "de": "Mittagessen im Stadtzentrum",
             "hu": "Ebéd a városközpontban",
             "ro": "Prânz în centrul orașului",
-            "en": "Lunch in the city center"
+            "en": "Lunch in the city center",
+            "pl": "Obiad w centrum miasta"
           },
           "coords": [
             19.047,
@@ -133,7 +142,8 @@
             "de": "Probieren Sie die regionalen Piroggen in einem der Restaurants am Marktplatz.",
             "hu": "Kóstolja meg a regionális pierogit a Fő téri éttermek egyikében.",
             "ro": "Încercați pierogi regionali la unul dintre restaurantele din piață.",
-            "en": "Try the regional pierogi in one of the market square restaurants."
+            "en": "Try the regional pierogi in one of the market square restaurants.",
+            "pl": "Spróbuj regionalnych pierogów w jednej z restauracji na rynku."
           }
         },
         {
@@ -141,7 +151,8 @@
             "de": "Alte Fabrik Museum",
             "hu": "Régi Gyár Múzeum",
             "ro": "Muzeul Vechea Fabrică",
-            "en": "Old Factory Museum"
+            "en": "Old Factory Museum",
+            "pl": "Muzeum Starej Fabryki"
           },
           "coords": [
             19.051,
@@ -157,7 +168,8 @@
             "de": "Erfahren Sie mehr über die reiche industrielle Vergangenheit der Stadt.",
             "hu": "Ismerje meg a város gazdag ipari múltját.",
             "ro": "Aflați despre trecutul industrial bogat al orașului.",
-            "en": "Learn about the city's rich industrial past."
+            "en": "Learn about the city's rich industrial past.",
+            "pl": "Poznaj bogatą przemysłową przeszłość miasta."
           }
         },
         {
@@ -165,7 +177,8 @@
             "de": "Polnisches Theater",
             "hu": "Lengyel Színház",
             "ro": "Teatrul Polonez",
-            "en": "Polish Theatre"
+            "en": "Polish Theatre",
+            "pl": "Teatr Polski"
           },
           "coords": [
             19.041,
@@ -181,7 +194,8 @@
             "de": "Prüfen Sie den Spielplan für Abendvorstellungen.",
             "hu": "Nézze meg a műsort az esti előadásokhoz.",
             "ro": "Verificați programul pentru spectacolele de seară.",
-            "en": "Check the schedule for evening performances."
+            "en": "Check the schedule for evening performances.",
+            "pl": "Sprawdź repertuar wieczornych przedstawień."
           }
         }
       ],
@@ -189,7 +203,8 @@
         "de": "Ihr Tag in Bielsko-Biała beginnt auf dem historischen Marktplatz, umgeben von eleganter Architektur. Am Morgen erkunden Sie das Herz der Altstadt, besuchen die Kathedrale St. Nikolaus und das imposante Sułkowski-Schloss und entdecken dabei die Seele von „Klein-Wien“. Gegen Mittag tauchen Sie mit einem Besuch im Haus zu den Fröschen in den lokalen Jugendstil ein, bevor Sie eine wohlverdiente Pause mit traditioneller polnischer Küche einlegen. Der Nachmittag ist der industriellen Geschichte gewidmet, mit einem aufschlussreichen Besuch im Alte Fabrik Museum. Zum Abschluss des Tages bewundern Sie das Äußere des Polnischen Theaters, ein kulturelles Wahrzeichen, das die künstlerische Seite der Stadt widerspiegelt.",
         "hu": "A nap Bielsko-Białában a történelmi piactéren indul, elegáns építészettel körülvéve. Délelőtt felfedezi az óváros szívét, meglátogatja a Szent Miklós-katedrálist és a lenyűgöző Sułkowski-kastélyt, megismerve „Kis-Bécs” lelkét. Dél felé a Békás ház meglátogatásával elmerül a helyi szecesszióban, mielőtt jól megérdemelt pihenőt tartana a hagyományos lengyel konyhával. A délután az ipari történelemé, egy tanulságos látogatással a Régi Gyár Múzeumban. A napot a Lengyel Színház külsejének megcsodálásával zárja, amely a város művészi oldalát tükröző kulturális nevezetesség.",
         "ro": "Ziua dumneavoastră în Bielsko-Biała începe în piața istorică, înconjurată de arhitectură elegantă. Dimineața explorați inima orașului vechi, vizitând Catedrala Sf. Nicolae și impunătorul Castel Sułkowski, descoperind sufletul „Micii Viene”. La prânz, vă cufundați în stilul Art Nouveau local cu o vizită la Casa cu broaște, înainte de o pauză binemeritată cu bucătărie tradițională poloneză. După-amiaza este dedicată istoriei industriale, cu o vizită edificatoare la Muzeul Vechea Fabrică. Încheiați ziua admirând exteriorul Teatrului Polonez, un reper cultural care reflectă latura artistică a orașului.",
-        "en": "Your day in Bielsko-Biała begins in the historic market square, surrounded by elegant architecture. In the morning, you'll explore the heart of the old town, visiting St. Nicholas Cathedral and the imposing Sułkowski Castle, discovering the soul of 'Little Vienna'. Towards noon, you'll delve into local Art Nouveau with a visit to the House of Frogs before a well-deserved break with traditional Polish cuisine. The afternoon is dedicated to industrial history with an insightful visit to the Old Factory Museum. You'll end your day admiring the exterior of the Polish Theatre, a cultural landmark reflecting the city's artistic side."
+        "en": "Your day in Bielsko-Biała begins in the historic market square, surrounded by elegant architecture. In the morning, you'll explore the heart of the old town, visiting St. Nicholas Cathedral and the imposing Sułkowski Castle, discovering the soul of 'Little Vienna'. Towards noon, you'll delve into local Art Nouveau with a visit to the House of Frogs before a well-deserved break with traditional Polish cuisine. The afternoon is dedicated to industrial history with an insightful visit to the Old Factory Museum. You'll end your day admiring the exterior of the Polish Theatre, a cultural landmark reflecting the city's artistic side.",
+        "pl": "Twój dzień w Bielsku-Białej zaczyna się na historycznym rynku, otoczonym elegancką zabudową. Rano zwiedzisz serce starego miasta, odwiedzając katedrę św. Mikołaja i imponujący Zamek Sułkowskich, odkrywając duszę „Małej Wiednia”. W południe zanurzysz się w lokalną secesję, odwiedzając Dom Żab, po czym zasłużony odpoczynek przy tradycyjnej polskiej kuchni. Popołudnie poświęcone jest historii przemysłu w Muzeum Starej Fabryki. Dzień zakończysz podziwiając fasadę Teatru Polskiego, kulturalnego punktu odzwierciedlającego artystyczną stronę miasta."
       },
       "gastro_picks": {
         "de": [
@@ -381,6 +396,11 @@
           "Wear comfortable shoes as the cobblestones in the old town can be uneven.",
           "Most museums are closed on Mondays, so plan accordingly.",
           "Always have some cash on you for small purchases or tips."
+        ],
+        "pl": [
+          "Noś wygodne buty — bruk w starej części może być nierówny.",
+          "Wiele muzeów jest zamkniętych w poniedziałki, więc zaplanuj to wcześniej.",
+          "Zawsze miej przy sobie trochę gotówki na drobne zakupy lub napiwki."
         ]
       },
       "variants": {
@@ -389,7 +409,8 @@
             "de": "Bielitz-Biala zeigt im Regen seinen industriellen Charme. Der Morgen beginnt am Rathaus, bevor die Kathedrale trockenen Unterschlupf bietet. Mittags wärmt ein polnisches Gericht, gefolgt von einem tiefen Einblick in die Textilgeschichte im Schloss und der Fabrik. Der Abend endet glanzvoll im beleuchteten Polnischen Theater, während der Regen auf das Pflaster trommelt.",
             "hu": "Bielsko-Biała esőben is lenyűgöző ipari város. A reggel a Városházánál indul, majd a székesegyház nyújt menedéket a zápor elől. Ebéd után a vár és a régi gyár belső tereiben kalandozunk, elmerülve a textilipar múltjában. Az estét a színház pompás épülete és a vizes aszfalton tükröződő városi fények zárják le.",
             "ro": "Bielsko-Biała pe ploaie își dezvăluie farmecul industrial. Dimineața începe la Primărie, apoi Catedrala oferă un adăpost uscat. La prânz, o masă caldă dă energie pentru explorarea Castelului și a Vechii Fabrici. Seara se încheie glorios la Teatrul Polonez, cu luminile orașului reflectându-se în asfaltul umed.",
-            "en": "Bielsko-Biała in the rain reveals its industrial charm. Morning starts at the Town Hall, followed by the dry sanctuary of the Cathedral. Lunch provides warmth before a deep dive into textile history at the Castle and Old Factory. The evening ends brilliantly at the Polish Theatre, with city lights reflecting on the wet pavement."
+            "en": "Bielsko-Biała in the rain reveals its industrial charm. Morning starts at the Town Hall, followed by the dry sanctuary of the Cathedral. Lunch provides warmth before a deep dive into textile history at the Castle and Old Factory. The evening ends brilliantly at the Polish Theatre, with city lights reflecting on the wet pavement.",
+            "pl": "Bielsko-Biała w deszczu odsłania swoje przemysłowe uroki. Rano zacznij od ratusza, potem sucha przystań katedry. Obiad rozgrzewa przed głębszym zanurzeniem w historię włókiennictwa w zamku i Starej Fabryce. Wieczór olśniewa przy Teatrze Polskim, gdy miejskie światła odbijają się na mokrym bruku."
           },
           "stops": [
             {
@@ -398,7 +419,8 @@
                 "de": "Unter den Arkaden des Rathauses warten, bis der Guss nachlässt.",
                 "hu": "A Városháza árkádjai alatt várd meg a zápor végét.",
                 "ro": "Așteaptă sub arcadele Primăriei până trece ploaia.",
-                "en": "Wait under the Town Hall arcades for the heavy rain to pass."
+                "en": "Wait under the Town Hall arcades for the heavy rain to pass.",
+                "pl": "Poczekaj pod arkadami ratusza, aż ulewa ustanie."
               }
             },
             {
@@ -407,7 +429,8 @@
                 "de": "Die Ruhe und Trockenheit im gotischen Inneren genießen.",
                 "hu": "Élvezd a gótikus belső tér nyugalmát és szárazságát.",
                 "ro": "Bucură-te de liniștea și uscăciunea interiorului gotic.",
-                "en": "Enjoy the silence and dryness of the gothic interior."
+                "en": "Enjoy the silence and dryness of the gothic interior.",
+                "pl": "Ciesz się ciszą i suchością gotyckiego wnętrza."
               }
             },
             {
@@ -416,7 +439,8 @@
                 "de": "Idealer Ort für eine lange, trockene Besichtigung am Vormittag.",
                 "hu": "Ideális helyszín egy hosszú, fedett délelőtti látogatáshoz.",
                 "ro": "Locul ideal pentru o vizită lungă și uscată de dimineață.",
-                "en": "Ideal location for a long, dry morning visit."
+                "en": "Ideal location for a long, dry morning visit.",
+                "pl": "Idealne miejsce na długą, suchą poranną wizytę."
               }
             },
             {
@@ -425,7 +449,8 @@
                 "de": "Schnelles Foto der Frösche unter dem Dachvorsprung.",
                 "hu": "Gyors fotó a békákról az ereszvédő alatt.",
                 "ro": "Poză rapidă cu broaștele sub streașina acoperișului.",
-                "en": "Quick photo of the frogs under the roof overhang."
+                "en": "Quick photo of the frogs under the roof overhang.",
+                "pl": "Szybkie zdjęcie żab pod okapem dachowym."
               }
             },
             {
@@ -434,7 +459,8 @@
                 "de": "Zeit nutzen, um Kleidung und Schirme zu trocknen.",
                 "hu": "Használd ki az időt a kabátok és esernyők megszárítására.",
                 "ro": "Profită de timp pentru a-ți usca hainele și umbrela.",
-                "en": "Use this time to dry your coats and umbrellas."
+                "en": "Use this time to dry your coats and umbrellas.",
+                "pl": "Wykorzystaj ten czas, aby wysuszyć płaszcze i parasole."
               }
             },
             {
@@ -443,7 +469,8 @@
                 "de": "Das Prasseln des Regens passt perfekt zur alten Fabrikhalle.",
                 "hu": "Az eső kopogása jól illik a régi gyárcsarnok hangulatához.",
                 "ro": "Ropotul ploii se potrivește perfect cu atmosfera vechii fabrici.",
-                "en": "The sound of rain matches the old factory atmosphere perfectly."
+                "en": "The sound of rain matches the old factory atmosphere perfectly.",
+                "pl": "Dźwięk deszczu doskonale pasuje do atmosfery starej fabryki."
               }
             },
             {
@@ -452,7 +479,8 @@
                 "de": "Das prächtige Foyer bietet Schutz vor dem Abendregen.",
                 "hu": "A pompás előcsarnok védelmet nyújt az esti eső elől.",
                 "ro": "Foaierul splendid oferă protecție împotriva ploii de seară.",
-                "en": "The grand foyer provides shelter from the evening rain."
+                "en": "The grand foyer provides shelter from the evening rain.",
+                "pl": "Wielkie foyer chroni przed wieczornym deszczem."
               }
             }
           ],
@@ -484,6 +512,13 @@
               "Take advantage of Old Town cafes for breaks.",
               "Umbrellas can be tricky in narrow streets due to wind.",
               "The Textile Museum is spacious and completely indoors."
+            ],
+            "pl": [
+              "Noś wodoodporne buty ze względu na śliskie brukowane ulice.",
+              "Muzea to doskonałe schronienie podczas uporczywego deszczu.",
+              "Wykorzystaj kawiarnie na Starym Mieście na przerwy.",
+              "Parasol bywa kłopotliwy na wąskich uliczkach z powodu wiatru.",
+              "Muzeum Tekstyliów jest przestronne i całkowicie pod dachem."
             ]
           }
         },
@@ -492,7 +527,8 @@
             "de": "Das winterliche Bielitz-Biala glänzt im Festtagslicht. Der frostige Morgen am Rathaus führt zur wärmenden Stille der Kathedrale. Nach einem herzhaften Mittagessen bieten Schloss und Fabrikmuseum Schutz vor der Kälte. Wenn die Dunkelheit gegen 16 Uhr hereinbricht, verwandelt sich die Stadt in ein Lichtermeer, das am Theater seinen Höhepunkt findet.",
             "hu": "A téli Bielsko-Biała ünnepi fényekben pompázik. A fagyos reggel a Városházánál indul, majd a székesegyház csendes melege fogad. A kiadós ebéd után a vár és a gyármúzeum vastag falai védenek a hidegtől. Mivel 16 óra után sötétedik, a város fényei már korán beragyogják az utcákat a színház felé tartva.",
             "ro": "Bielsko-Biała în iarnă strălucește în lumini de sărbătoare. Dimineața geroasă la Primărie duce spre căldura tăcută a Catedralei. După un prânz consistent, Castelul și Vechea Fabrică oferă protecție împotriva frigului. Întunericul se lasă după ora 16, transformând orașul într-o mare de lumini spre Teatru.",
-            "en": "Winter in Bielsko-Biała shines with festive lights. The frosty morning at the Town Hall leads to the warming silence of the Cathedral. After a hearty lunch, the Castle and Factory Museum protect you from the cold. As darkness falls after 4 PM, the city lights illuminate the way toward the grand Theatre."
+            "en": "Winter in Bielsko-Biała shines with festive lights. The frosty morning at the Town Hall leads to the warming silence of the Cathedral. After a hearty lunch, the Castle and Factory Museum protect you from the cold. As darkness falls after 4 PM, the city lights illuminate the way toward the grand Theatre.",
+            "pl": "Zima w Bielsku-Białej błyszczy świątecznymi iluminacjami. Mroźny poranek przy Ratuszu prowadzi do rozgrzewającej ciszy Katedry. Po pożywnym obiedzie Zamek i Muzeum Fabryki chronią przed chłodem. Gdy po 16:00 zapada zmrok, światła miasta oświetlają drogę do okazałego Teatru."
           },
           "stops": [
             {
@@ -501,7 +537,8 @@
                 "de": "Bewundern Sie die winterliche Beleuchtung der Fassade.",
                 "hu": "Csodáld meg a homlokzat ünnepi kivilágítását.",
                 "ro": "Admiră iluminatul festiv de pe fațadă.",
-                "en": "Admire the festive winter lighting on the facade."
+                "en": "Admire the festive winter lighting on the facade.",
+                "pl": "Podziwiaj świąteczne oświetlenie fasady."
               }
             },
             {
@@ -510,7 +547,8 @@
                 "de": "Oft finden hier im Winter besinnliche Orgelkonzerte statt.",
                 "hu": "Télen gyakran tartanak itt meghitt orgonakoncerteket.",
                 "ro": "Iarna au loc adesea concerte de orgă impresionante.",
-                "en": "Often, moving organ concerts take place here in winter."
+                "en": "Often, moving organ concerts take place here in winter.",
+                "pl": "Często zimą odbywają się tu koncerty organowe z ruchomymi elementami."
               }
             },
             {
@@ -519,7 +557,8 @@
                 "de": "Die dicken Mauern halten die Winterkälte draußen.",
                 "hu": "A vastag falak jól kint tartják a téli hideget.",
                 "ro": "Zidurile groase țin frigul iernii la distanță.",
-                "en": "The thick walls keep the winter cold outside."
+                "en": "The thick walls keep the winter cold outside.",
+                "pl": "Grube mury trzymają zimno na zewnątrz."
               }
             },
             {
@@ -528,7 +567,8 @@
                 "de": "Die Frösche wirken im Winterfrost besonders skurril.",
                 "hu": "A békák a téli fagyban különösen furcsán festenek.",
                 "ro": "Broaștele par deosebit de ciudate în gerul iernii.",
-                "en": "The frogs look particularly whimsical in the winter frost."
+                "en": "The frogs look particularly whimsical in the winter frost.",
+                "pl": "Żaby wyglądają szczególnie kapryśnie w zimowym przymrozku."
               }
             },
             {
@@ -537,7 +577,8 @@
                 "de": "Probieren Sie heiße Pierogi oder eine wärmende Suppe.",
                 "hu": "Kóstolj forró pirogot vagy egy melegítő levest.",
                 "ro": "Încearcă pierogi fierbinți sau o supă caldă.",
-                "en": "Try hot pierogi or a warming soup."
+                "en": "Try hot pierogi or a warming soup.",
+                "pl": "Spróbuj gorących pierogów lub rozgrzewającej zupy."
               }
             },
             {
@@ -546,7 +587,8 @@
                 "de": "Warme Kleidung ist auch in den großen Hallen ratsam.",
                 "hu": "A nagy csarnokokban is tanácsos a meleg öltözet.",
                 "ro": "Hainele groase sunt recomandate și în halele mari.",
-                "en": "Warm clothing is advised even inside the large halls."
+                "en": "Warm clothing is advised even inside the large halls.",
+                "pl": "Zalecane jest ciepłe ubranie nawet wewnątrz dużych sal."
               }
             },
             {
@@ -555,7 +597,8 @@
                 "de": "Der beleuchtete Vorplatz wirkt im Schnee magisch.",
                 "hu": "A kivilágított előtér hóban egészen varázslatos.",
                 "ro": "Piața iluminată din față arată magic în zăpadă.",
-                "en": "The illuminated square looks magical in the snow."
+                "en": "The illuminated square looks magical in the snow.",
+                "pl": "Oświetlony plac wygląda magicznie na śniegu."
               }
             }
           ],
@@ -587,6 +630,13 @@
               "Wear thermal socks for long museum explorations.",
               "Enjoy the Christmas atmosphere in the Old Town.",
               "Hot chocolate in local cafes is a must."
+            ],
+            "pl": [
+              "Zachód słońca następuje wcześnie, około 16:00.",
+              "Uważaj na oblodzone miejsca na bruku.",
+              "Noś termiczne skarpety podczas długich zwiedzania muzeów.",
+              "Ciesz się świąteczną atmosferą na Starym Mieście.",
+              "Gorąca czekolada w lokalnych kawiarniach to obowiązek."
             ]
           }
         }
@@ -605,7 +655,8 @@
             "de": "Rathaus und Marktplatz",
             "hu": "Városháza és Piactér",
             "ro": "Primăria și Piața Centrală",
-            "en": "Town Hall and Market Square"
+            "en": "Town Hall and Market Square",
+            "pl": "Ratusz i Rynek"
           },
           "coords": [
             19.045,
@@ -621,7 +672,8 @@
             "de": "Starten Sie Ihren Tag im Herzen der Stadt. Schließen Sie Ihr Fahrrad sicher ab, bevor Sie den Platz erkunden.",
             "hu": "Kezdje a napot a város szívében. Zárja le biztonságosan a kerékpárját, mielőtt felfedezné a teret.",
             "ro": "Începeți-vă ziua în inima orașului. Asigurați-vă bicicleta înainte de a explora piața.",
-            "en": "Start your day in the heart of the city. Lock your bike securely before exploring the square."
+            "en": "Start your day in the heart of the city. Lock your bike securely before exploring the square.",
+            "pl": "Rozpocznij dzień w sercu miasta. Zabezpiecz rower solidnie przed zwiedzaniem rynku."
           }
         },
         {
@@ -629,7 +681,8 @@
             "de": "Schloss Sułkowski",
             "hu": "Sułkowski-kastély",
             "ro": "Castelul Sułkowski",
-            "en": "Sułkowski Castle"
+            "en": "Sułkowski Castle",
+            "pl": "Zamek Sułkowskich"
           },
           "coords": [
             19.043,
@@ -645,7 +698,8 @@
             "de": "Eine kurze Fahrt vom Marktplatz entfernt. Das Museum im Inneren ist einen Besuch wert.",
             "hu": "Rövid biciklizésre a piactértől. A benne lévő múzeum megér egy látogatást.",
             "ro": "La o scurtă plimbare cu bicicleta de piață. Muzeul din interior merită vizitat.",
-            "en": "A short ride from the market square. The museum inside is worth a visit."
+            "en": "A short ride from the market square. The museum inside is worth a visit.",
+            "pl": "Krótka przejażdżka z rynku. Warto odwiedzić muzeum w środku."
           }
         },
         {
@@ -653,7 +707,8 @@
             "de": "Polnisches Theater",
             "hu": "Lengyel Színház",
             "ro": "Teatrul Polonez",
-            "en": "Polish Theatre"
+            "en": "Polish Theatre",
+            "pl": "Teatr Polski"
           },
           "coords": [
             19.041,
@@ -669,7 +724,8 @@
             "de": "Bewundern Sie die Architektur dieses Kulturzentrums.",
             "hu": "Csodálja meg ennek a kulturális központnak az építészetét.",
             "ro": "Admirați arhitectura acestui centru cultural.",
-            "en": "Admire the architecture of this cultural hub."
+            "en": "Admire the architecture of this cultural hub.",
+            "pl": "Podziwiaj architekturę tego kulturalnego centrum."
           }
         },
         {
@@ -677,7 +733,8 @@
             "de": "Fahrt entlang des Flusses Biała",
             "hu": "Biciklizés a Biała folyó mentén",
             "ro": "Plimbare cu bicicleta de-a lungul râului Biała",
-            "en": "Ride along the Biała River"
+            "en": "Ride along the Biała River",
+            "pl": "Przejażdżka wzdłuż rzeki Białej"
           },
           "coords": [
             19.055,
@@ -693,7 +750,8 @@
             "de": "Genießen Sie eine entspannte Fahrt auf den Wegen entlang des Flusses.",
             "hu": "Élvezze a pihentető biciklizést a folyó menti utakon.",
             "ro": "Bucurați-vă de o plimbare relaxantă pe cărările de-a lungul râului.",
-            "en": "Enjoy a relaxing ride on the paths along the river."
+            "en": "Enjoy a relaxing ride on the paths along the river.",
+            "pl": "Ciesz się relaksującą przejażdżką ścieżkami wzdłuż rzeki."
           }
         },
         {
@@ -701,7 +759,8 @@
             "de": "Mittagessen",
             "hu": "Ebéd",
             "ro": "Prânz",
-            "en": "Lunch"
+            "en": "Lunch",
+            "pl": "Obiad"
           },
           "coords": [
             19.053,
@@ -717,7 +776,8 @@
             "de": "Finden Sie ein Restaurant mit Fahrradständern in der Nähe.",
             "hu": "Keressen egy éttermet, amelynek közelében kerékpártárolók vannak.",
             "ro": "Găsiți un restaurant cu parcări pentru biciclete în apropiere.",
-            "en": "Find a restaurant with bike racks nearby."
+            "en": "Find a restaurant with bike racks nearby.",
+            "pl": "Znajdź restaurację z stojakami na rowery w pobliżu."
           }
         },
         {
@@ -725,7 +785,8 @@
             "de": "Alte Fabrik Museum",
             "hu": "Régi Gyár Múzeum",
             "ro": "Muzeul Vechea Fabrică",
-            "en": "Old Factory Museum"
+            "en": "Old Factory Museum",
+            "pl": "Muzeum Starej Fabryki"
           },
           "coords": [
             19.051,
@@ -741,7 +802,8 @@
             "de": "Tauchen Sie ein in das industrielle Erbe, das die Stadt geprägt hat.",
             "hu": "Merüljön el az ipari örökségben, amely a várost formálta.",
             "ro": "Scufundați-vă în moștenirea industrială care a modelat orașul.",
-            "en": "Dive into the industrial heritage that shaped the city."
+            "en": "Dive into the industrial heritage that shaped the city.",
+            "pl": "Zanurz się w przemysłowym dziedzictwie, które ukształtowało miasto."
           }
         },
         {
@@ -749,7 +811,8 @@
             "de": "Weberhaus",
             "hu": "Szövőház",
             "ro": "Casa Țesătorului",
-            "en": "Weaver's House"
+            "en": "Weaver's House",
+            "pl": "Dom Tkacza"
           },
           "coords": [
             19.0445,
@@ -765,7 +828,8 @@
             "de": "Ein kleines Museum, das das Leben der Weber der Stadt zeigt.",
             "hu": "Egy kis múzeum, amely a város szövőinek életét mutatja be.",
             "ro": "Un mic muzeu care prezintă viața țesătorilor din oraș.",
-            "en": "A small museum showcasing the life of the city's weavers."
+            "en": "A small museum showcasing the life of the city's weavers.",
+            "pl": "Małe muzeum pokazujące życie miejskich tkaczy."
           }
         }
       ],
@@ -773,7 +837,8 @@
         "de": "Beginnen Sie Ihre Radtour auf dem lebhaften Marktplatz von Bielsko-Biała. Am Vormittag radeln Sie zu historischen Wahrzeichen wie dem Sułkowski-Schloss und dem Polnischen Theater. Anschließend genießen Sie eine landschaftlich reizvolle Fahrt entlang des Flusses Biała, eine perfekte Flucht aus der Hektik der Stadt. Gönnen Sie sich zur Mittagszeit eine Pause mit herzhafter lokaler Küche in einem fahrradfreundlichen Restaurant. Der Nachmittag ist eine Reise in die Vergangenheit mit Besuchen des Alte Fabrik Museums und des charmanten Weberhauses, die Einblicke in das reiche Erbe der Stadt bieten. Ihr Tag endet mit einem Gefühl tiefer Verbundenheit mit der einzigartigen Geschichte und Landschaft von Bielsko-Biała.",
         "hu": "Kezdje kerékpártúráját Bielsko-Biała nyüzsgő piacterén. A délelőtt folyamán történelmi nevezetességekhez, például a Sułkowski-kastélyhoz és a Lengyel Színházhoz teker. Ezt követően élvezze a festői utat a Biała folyó mentén, amely tökéletes menekülés a város nyüzsgésétől. Délben tartson szünetet egy kiadós helyi fogással egy kerékpárbarát étteremben. A délután egy utazás a múltba a Régi Gyár Múzeum és a bájos Szövőház meglátogatásával, amelyek betekintést nyújtanak a város gazdag örökségébe. A nap végére mélyen kötődik majd Bielsko-Biała egyedi történelméhez és tájához.",
         "ro": "Începeți turul cu bicicleta în piața plină de viață din Bielsko-Biała. Dimineața veți pedala spre repere istorice precum Castelul Sułkowski și Teatrul Polonez. Apoi, bucurați-vă de o plimbare pitorească de-a lungul râului Biała, o evadare perfectă din agitația orașului. La prânz, faceți o pauză cu o masă copioasă locală la un restaurant prietenos cu bicicliștii. După-amiaza este o călătorie înapoi în timp, cu vizite la Muzeul Vechea Fabrică și la fermecătoarea Casă a Țesătorului, oferind perspective asupra moștenirii bogate a orașului. Ziua se încheie cu un sentiment de conexiune profundă cu istoria și peisajul unic al Bielsko-Biała.",
-        "en": "Start your bike tour in the bustling market square of Bielsko-Biała. The morning will see you pedaling to historic landmarks like the Sułkowski Castle and the Polish Theatre. Following this, enjoy a scenic ride along the Biała River, a perfect escape from the city buzz. For lunch, take a break with some hearty local cuisine at a bike-friendly spot. The afternoon is a journey back in time with visits to the Old Factory Museum and the charming Weaver's House, offering insights into the city's rich heritage. Your day concludes with a sense of deep connection to Bielsko-Biała's unique history and landscape."
+        "en": "Start your bike tour in the bustling market square of Bielsko-Biała. The morning will see you pedaling to historic landmarks like the Sułkowski Castle and the Polish Theatre. Following this, enjoy a scenic ride along the Biała River, a perfect escape from the city buzz. For lunch, take a break with some hearty local cuisine at a bike-friendly spot. The afternoon is a journey back in time with visits to the Old Factory Museum and the charming Weaver's House, offering insights into the city's rich heritage. Your day concludes with a sense of deep connection to Bielsko-Biała's unique history and landscape.",
+        "pl": "Rozpocznij wycieczkę rowerową na tętniącym życiem Rynku Bielska-Białej. Rano będziesz pedałować do zabytków takich jak Zamek Sułkowskich i Teatr Polski. Następnie czeka malownicza przejażdżka wzdłuż rzeki Białej, idealna ucieczka od miejskiego zgiełku. Na lunch zrób przerwę na pożywne lokalne danie w miejscu przyjaznym rowerom. Popołudnie to podróż w czasie z wizytami w Muzeum Starej Fabryki i urokliwym Domu Tkacza, które pokazują bogate dziedzictwo miasta. Dzień kończysz poczuciem głębokiego związku z wyjątkową historią i krajobrazem Bielska-Białej."
       },
       "gastro_picks": {
         "de": [
@@ -965,6 +1030,11 @@
           "Check your tire pressure before you set off.",
           "Poland has a mandatory helmet law for cyclists under 18; it's recommended for adults.",
           "Use designated bike paths wherever possible."
+        ],
+        "pl": [
+          "Sprawdź ciśnienie w oponach przed wyruszeniem.",
+          "W Polsce obowiązuje nakaz noszenia kasku dla rowerzystów poniżej 18 lat; zalecany także dla dorosłych.",
+          "Korzystaj z wyznaczonych ścieżek rowerowych, gdzie to możliwe."
         ]
       },
       "variants": {
@@ -973,7 +1043,8 @@
             "de": "Radfahren in Bielitz-Biala bei Regen erfordert Vorsicht, bietet aber eine frische Perspektive. Vom Rathaus geht es zum Schloss, wo man das Rad trocken parken kann. Nach einem Stopp am Theater folgt eine Fahrt entlang der Biala, wo die Natur im Regen leuchtet. Nach dem Mittagessen und dem Fabrikbesuch endet der Tag gemütlich am Weberhaus.",
             "hu": "A kerékpározás Bielsko-Białában esőben óvatosságot igényel, de friss élményt ad. A Városházától a várig tekerünk, ahol fedett helyen parkolhatsz. A színház után a Biala-folyó menti út következik, ahol a természet kivirul az esőben. Az ebéd és a gyármúzeum után a nap a takácsok házánál ér véget.",
             "ro": "Ciclismul în Bielsko-Biała pe ploaie necesită prudență, dar oferă o perspectivă proaspătă. De la Primărie mergem la Castel, unde poți parca bicicleta la uscat. După Teatru, urmează drumul pe lângă râul Biala, unde natura strălucește sub ploaie. Ziua se încheie la Casa Țesătorului, după prânz și Fabrică.",
-            "en": "Cycling in Bielsko-Biała in the rain requires caution but offers a fresh perspective. Ride from the Town Hall to the Castle, where you can park under cover. After the Theatre, follow the Biala River path where nature glows in the wet. Post-lunch and museum, the day ends at the Weaver's House."
+            "en": "Cycling in Bielsko-Biała in the rain requires caution but offers a fresh perspective. Ride from the Town Hall to the Castle, where you can park under cover. After the Theatre, follow the Biala River path where nature glows in the wet. Post-lunch and museum, the day ends at the Weaver's House.",
+            "pl": "Jazda rowerem po Bielsko-Białej w deszczu wymaga ostrożności, ale oferuje świeżą perspektywę. Jedź z Ratusza do Zamku, gdzie możesz zaparkować pod zadaszeniem. Po Teatrze podążaj ścieżką nad Białą, gdzie przyroda błyszczy na mokro. Po obiedzie i wizycie w muzeum dzień kończy się przy Domu Tkacza."
           },
           "stops": [
             {
@@ -982,7 +1053,8 @@
                 "de": "Vorsicht auf dem nassen Pflaster beim Anfahren.",
                 "hu": "Vigyázz a vizes macskakövön az elindulásnál.",
                 "ro": "Atenție pe pavajul umed la plecarea de pe loc.",
-                "en": "Be careful on wet cobblestones when starting off."
+                "en": "Be careful on wet cobblestones when starting off.",
+                "pl": "Uważaj na mokry bruk przy ruszaniu."
               }
             },
             {
@@ -991,7 +1063,8 @@
                 "de": "Fahrradständer im Innenhof bieten oft etwas Schutz.",
                 "hu": "A belső udvari tárolók némi védelmet nyújtanak.",
                 "ro": "Rafturile din curtea interioară oferă puțin adăpost.",
-                "en": "Bike racks in the courtyard often provide some cover."
+                "en": "Bike racks in the courtyard often provide some cover.",
+                "pl": "Stojaki na rowery na dziedzińcu często zapewniają trochę osłony."
               }
             },
             {
@@ -1000,7 +1073,8 @@
                 "de": "Kurzer Stopp für ein Foto, Sattel danach abwischen.",
                 "hu": "Gyors fotómegálló, utána töröld le a nyerget.",
                 "ro": "Oprire scurtă pentru poze, apoi șterge șaua.",
-                "en": "Quick photo stop; wipe your saddle afterwards."
+                "en": "Quick photo stop; wipe your saddle afterwards.",
+                "pl": "Krótki postój na zdjęcie; przetrzyj potem siodełko."
               }
             },
             {
@@ -1009,7 +1083,8 @@
                 "de": "Schutzbleche sind auf dem Uferweg unverzichtbar.",
                 "hu": "A sárvédő elengedhetetlen a folyóparti úton.",
                 "ro": "Apărătorile de noroi sunt esențiale pe drumul de pe mal.",
-                "en": "Mudguards are essential on the riverside path."
+                "en": "Mudguards are essential on the riverside path.",
+                "pl": "Błotniki są niezbędne na nadbrzeżnej ścieżce."
               }
             },
             {
@@ -1018,7 +1093,8 @@
                 "de": "Ein Restaurant mit Sichtkontakt zum Rad wählen.",
                 "hu": "Válassz olyan éttermet, ahonnan rálátsz a gépre.",
                 "ro": "Alege un restaurant de unde poți vedea bicicleta.",
-                "en": "Choose a restaurant where you can keep an eye on your bike."
+                "en": "Choose a restaurant where you can keep an eye on your bike.",
+                "pl": "Wybierz restaurację, w której możesz mieć rower na oku."
               }
             },
             {
@@ -1027,7 +1103,8 @@
                 "de": "Lange Pause nutzen, um die Regenkleidung zu lüften.",
                 "hu": "Használd ki a szünetet az esőruha szellőztetésére.",
                 "ro": "Folosește pauza pentru a aerisi hainele de ploaie.",
-                "en": "Use the long break to air out your rain gear."
+                "en": "Use the long break to air out your rain gear.",
+                "pl": "Wykorzystaj dłuższą przerwę, by przewietrzyć odzież przeciwdeszczową."
               }
             },
             {
@@ -1036,7 +1113,8 @@
                 "de": "Das Holzhaus strömt bei Regen einen urigen Duft aus.",
                 "hu": "A faház esőben különleges, ódon illatot áraszt.",
                 "ro": "Casa din lemn emană un miros arhaic pe ploaie.",
-                "en": "The wooden house emits a rustic scent in the rain."
+                "en": "The wooden house emits a rustic scent in the rain.",
+                "pl": "Drewniany dom emituje wiejski zapach w deszczu."
               }
             }
           ],
@@ -1068,6 +1146,13 @@
               "Waterproof panniers will protect your valuables.",
               "The riverside path may have slippery mud patches.",
               "A bright rain jacket improves visibility to drivers."
+            ],
+            "pl": [
+              "Unikaj metalowych włazów kanalizacyjnych na mokrej nawierzchni.",
+              "Sprawdź hamulce przed wyruszeniem.",
+              "Wodoodporne sakwy ochronią twoje cenne przedmioty.",
+              "Ścieżka nad rzeką może mieć śliskie błotniste miejsca.",
+              "Jasna kurtka przeciwdeszczowa poprawia widoczność dla kierowców."
             ]
           }
         },
@@ -1076,7 +1161,8 @@
             "de": "Eine Wintertour per Rad durch Bielitz-Biala ist erfrischend. Morgens glitzert der Frost am Marktplatz. Das Schloss bietet eine kulturelle Aufwärmpause, gefolgt vom Besuch am Theater. Die Fahrt entlang der Biala ist bei klarem Winterwetter herrlich, erfordert aber Fokus. Nach Fabrik und Mittagessen endet die Tour am gemütlichen Weaver's House.",
             "hu": "A téli bringázás Bielsko-Białában felfrissítő élmény. Reggel a dér csillog a főtéren. A vár kulturális melegedőt kínál, majd a színház következik. A Biala-folyó menti tekerés tiszta téli időben gyönyörű, de figyelmet igényel. A gyármúzeum és az ebéd után a túra a hangulatos Takácsok házánál zárul.",
             "ro": "O tură de iarnă cu bicicleta prin Bielsko-Biała este revigorantă. Dimineața, promoroaca sclipește în piață. Castelul oferă o pauză culturală caldă, urmată de Teatru. Drumul pe lângă râul Biala este superb pe vreme senină, dar necesită atenție. După Fabrică și prânz, tura se încheie la Casa Țesătorului.",
-            "en": "A winter bike tour through Bielsko-Biała is refreshing. In the morning, frost glitters on the Market Square. The Castle offers a cultural warm-up, followed by the Theatre. The riverside ride is beautiful in clear winter weather but requires focus. After the Factory and lunch, the tour ends at the cozy Weaver's House."
+            "en": "A winter bike tour through Bielsko-Biała is refreshing. In the morning, frost glitters on the Market Square. The Castle offers a cultural warm-up, followed by the Theatre. The riverside ride is beautiful in clear winter weather but requires focus. After the Factory and lunch, the tour ends at the cozy Weaver's House.",
+            "pl": "Zimowa wycieczka rowerowa po Bielsku-Białej jest orzeźwiająca. Rano mróz migocze na Rynku. Zamek oferuje kulturalne rozgrzanie, a potem Teatr. Przejażdżka nad rzeką jest piękna przy czystej zimowej pogodzie, ale wymaga koncentracji. Po wizycie w Fabryce i lunchu wycieczka kończy się w przytulnym Domu Tkacza."
           },
           "stops": [
             {
@@ -1085,7 +1171,8 @@
                 "de": "Achtung bei Eisflächen zwischen den Pflastersteinen.",
                 "hu": "Figyelj a jégfoltokra a macskakövek között.",
                 "ro": "Atenție la gheața dintre pietrele de pavaj.",
-                "en": "Watch out for ice patches between the cobblestones."
+                "en": "Watch out for ice patches between the cobblestones.",
+                "pl": "Uważaj na oblodzone miejsca między kostkami brukowymi."
               }
             },
             {
@@ -1094,7 +1181,8 @@
                 "de": "Nutzen Sie den Museumsbesuch zum Aufwärmen der Finger.",
                 "hu": "Használd a múzeumi látogatást az ujjaid felmelegítésére.",
                 "ro": "Profită de vizita la muzeu pentru a-ți încălzi degetele.",
-                "en": "Use the museum visit to warm up your fingers."
+                "en": "Use the museum visit to warm up your fingers.",
+                "pl": "Wykorzystaj wizytę w muzeum, by rozgrzać palce."
               }
             },
             {
@@ -1103,7 +1191,8 @@
                 "de": "Kurzer Stopp; Metallteile des Rads sind jetzt sehr kalt.",
                 "hu": "Gyors megálló; a bicikli fém részei ilyenkor nagyon hidegek.",
                 "ro": "Oprire scurtă; părțile metalice sunt foarte reci acum.",
-                "en": "Quick stop; metal parts of the bike are very cold now."
+                "en": "Quick stop; metal parts of the bike are very cold now.",
+                "pl": "Krótki postój; metalowe części roweru są teraz bardzo zimne."
               }
             },
             {
@@ -1112,7 +1201,8 @@
                 "de": "Der Wind am Fluss kann die gefühlte Kälte verstärken.",
                 "hu": "A folyóparti szél felerősítheti a hidegérzetet.",
                 "ro": "Vântul de lângă râu poate accentua senzația de frig.",
-                "en": "The riverside wind can increase the wind chill factor."
+                "en": "The riverside wind can increase the wind chill factor.",
+                "pl": "Nadbrzeżny wiatr może zwiększać odczuwanie chłodu."
               }
             },
             {
@@ -1121,7 +1211,8 @@
                 "de": "Warme Getränke auffüllen für die restliche Fahrt.",
                 "hu": "Töltsd fel a melegital-készletedet a hátralévő útra.",
                 "ro": "Reumple rezervele de băuturi calde pentru restul drumului.",
-                "en": "Refill your warm beverage supplies for the rest of the ride."
+                "en": "Refill your warm beverage supplies for the rest of the ride.",
+                "pl": "Uzupełnij zapasy ciepłych napojów na dalszą część trasy."
               }
             },
             {
@@ -1130,7 +1221,8 @@
                 "de": "Innen ist es deutlich angenehmer als auf dem Sattel.",
                 "hu": "Bent sokkal kellemesebb, mint a nyeregben.",
                 "ro": "În interior e mult mai plăcut decât în șa.",
-                "en": "It is much more pleasant inside than on the saddle."
+                "en": "It is much more pleasant inside than on the saddle.",
+                "pl": "W środku jest znacznie przyjemniej niż w siodle."
               }
             },
             {
@@ -1139,7 +1231,8 @@
                 "de": "Ein schöner Schlusspunkt, bevor es zu dunkel wird.",
                 "hu": "Szép befejező pont, mielőtt túl sötét lesz.",
                 "ro": "Un punct final frumos înainte să se întunece de tot.",
-                "en": "A beautiful finish point before it gets too dark."
+                "en": "A beautiful finish point before it gets too dark.",
+                "pl": "Piękne miejsce na zakończenie, zanim zrobi się zbyt ciemno."
               }
             }
           ],
@@ -1171,6 +1264,13 @@
               "Watch out for black ice in shaded areas.",
               "Lower tire pressure slightly for better grip.",
               "Layered clothing prevents hypothermia."
+            ],
+            "pl": [
+              "Noś wiatroszczelne rękawice i skarpety.",
+              "Światła są obowiązkowe ze względu na wczesne zmierzchy.",
+              "Uważaj na czarny lód w zacienionych miejscach.",
+              "Nieco obniż ciśnienie w oponach dla lepszej przyczepności.",
+              "Warstwowe ubranie zapobiega wychłodzeniu."
             ]
           }
         }
@@ -1189,7 +1289,8 @@
             "de": "Cluster Altstadt: Rathaus",
             "hu": "Óváros Klaszter: Városháza",
             "ro": "Cluster Centrul Vechi: Primăria",
-            "en": "Old Town Cluster: Town Hall"
+            "en": "Old Town Cluster: Town Hall",
+            "pl": "Klustery Starego Miasta: Ratusz"
           },
           "coords": [
             19.045,
@@ -1205,7 +1306,8 @@
             "de": "Parken Sie in einem der Parkhäuser in der Nähe und beginnen Sie Ihre Erkundung zu Fuß.",
             "hu": "Parkoljon a közeli parkolóházak egyikében, és kezdje a felfedezést gyalog.",
             "ro": "Parcați într-una dintre parcările din apropiere și începeți explorarea pe jos.",
-            "en": "Park in one of the nearby parking garages and start your exploration on foot."
+            "en": "Park in one of the nearby parking garages and start your exploration on foot.",
+            "pl": "Zaparkuj w jednym z pobliskich garaży i rozpocznij zwiedzanie pieszo."
           }
         },
         {
@@ -1213,7 +1315,8 @@
             "de": "Cluster Altstadt: Kathedrale St. Nikolaus",
             "hu": "Óváros Klaszter: Szent Miklós-katedrális",
             "ro": "Cluster Centrul Vechi: Catedrala Sf. Nicolae",
-            "en": "Old Town Cluster: St. Nicholas Cathedral"
+            "en": "Old Town Cluster: St. Nicholas Cathedral",
+            "pl": "Klustery Starego Miasta: Katedra św. Mikołaja"
           },
           "coords": [
             19.0465,
@@ -1229,7 +1332,8 @@
             "de": "Nur einen kurzen Spaziergang vom Marktplatz entfernt.",
             "hu": "Csak egy rövid sétára a piactértől.",
             "ro": "La doar o scurtă plimbare de piață.",
-            "en": "Just a short walk from the market square."
+            "en": "Just a short walk from the market square.",
+            "pl": "Zaledwie krótki spacer od Rynku."
           }
         },
         {
@@ -1237,7 +1341,8 @@
             "de": "Cluster Altstadt: Schloss Sułkowski",
             "hu": "Óváros Klaszter: Sułkowski-kastély",
             "ro": "Cluster Centrul Vechi: Castelul Sułkowski",
-            "en": "Old Town Cluster: Sułkowski Castle"
+            "en": "Old Town Cluster: Sułkowski Castle",
+            "pl": "Klustery Starego Miasta: Zamek Sułkowskich"
           },
           "coords": [
             19.043,
@@ -1253,7 +1358,8 @@
             "de": "Schlendern Sie durch die Gassen zum historischen Schloss der Stadt.",
             "hu": "Sétáljon végig a sikátorokon a város történelmi kastélyához.",
             "ro": "Plimbați-vă pe străduțe până la castelul istoric al orașului.",
-            "en": "Stroll through the alleys to the city's historic castle."
+            "en": "Stroll through the alleys to the city's historic castle.",
+            "pl": "Przejdź alejkami do zabytkowego zamku miasta."
           }
         },
         {
@@ -1261,7 +1367,8 @@
             "de": "Cluster Szyndzielnia: Seilbahn",
             "hu": "Szyndzielnia Klaszter: Kötélpálya",
             "ro": "Cluster Szyndzielnia: Telecabina",
-            "en": "Szyndzielnia Cluster: Cable Car"
+            "en": "Szyndzielnia Cluster: Cable Car",
+            "pl": "Klustery Szyndzielni: Kolejka linowa"
           },
           "coords": [
             19.025,
@@ -1277,7 +1384,8 @@
             "de": "Fahren Sie zur Talstation und nehmen Sie die Gondel für eine atemberaubende Aussicht.",
             "hu": "Vezessen az alsó állomáshoz, és szálljon fel a gondolára a lélegzetelállító kilátásért.",
             "ro": "Conduceți până la stația de jos și luați telecabina pentru priveliști uluitoare.",
-            "en": "Drive to the bottom station and take the gondola for breathtaking views."
+            "en": "Drive to the bottom station and take the gondola for breathtaking views.",
+            "pl": "Dojedź do stacji dolnej i wjedź gondolą dla zapierających dech w piersiach widoków."
           }
         },
         {
@@ -1285,7 +1393,8 @@
             "de": "Cluster Szyndzielnia: Mittagessen in den Beskiden",
             "hu": "Szyndzielnia Klaszter: Ebéd a Beszkidekben",
             "ro": "Cluster Szyndzielnia: Prânz în Beskizi",
-            "en": "Szyndzielnia Cluster: Lunch in the Beskids"
+            "en": "Szyndzielnia Cluster: Lunch in the Beskids",
+            "pl": "Klustery Szyndzielni: Obiad w Beskidach"
           },
           "coords": [
             19.026,
@@ -1301,7 +1410,8 @@
             "de": "Genießen Sie eine Mahlzeit in einer traditionellen Karczma (Taverne) am Fuße des Berges.",
             "hu": "Fogyasszon el egy ételt egy hagyományos Karczmában (csárdában) a hegy lábánál.",
             "ro": "Bucurați-vă de o masă la o Karczma (tavernă) tradițională la poalele muntelui.",
-            "en": "Enjoy a meal at a traditional Karczma (tavern) at the foot of the mountain."
+            "en": "Enjoy a meal at a traditional Karczma (tavern) at the foot of the mountain.",
+            "pl": "Zjedz posiłek w tradycyjnej karczmie u podnóża góry."
           }
         },
         {
@@ -1309,7 +1419,8 @@
             "de": "Cluster Museum: Alte Fabrik",
             "hu": "Múzeum Klaszter: Régi Gyár",
             "ro": "Cluster Muzeu: Vechea Fabrică",
-            "en": "Museum Cluster: Old Factory"
+            "en": "Museum Cluster: Old Factory",
+            "pl": "Klustery Muzealne: Stara Fabryka"
           },
           "coords": [
             19.051,
@@ -1325,7 +1436,8 @@
             "de": "Fahren Sie zurück in die Stadt, um in die Industriegeschichte einzutauchen.",
             "hu": "Vezessen vissza a városba, hogy elmerüljön az ipartörténetben.",
             "ro": "Conduceți înapoi în oraș pentru a vă cufunda în istoria industrială.",
-            "en": "Drive back into the city to immerse yourself in industrial history."
+            "en": "Drive back into the city to immerse yourself in industrial history.",
+            "pl": "Wróć samochodem do miasta, by zanurzyć się w historii przemysłu."
           }
         },
         {
@@ -1333,7 +1445,8 @@
             "de": "Cluster Museum: Weberhaus",
             "hu": "Múzeum Klaszter: Szövőház",
             "ro": "Cluster Muzeu: Casa Țesătorului",
-            "en": "Museum Cluster: Weaver's House"
+            "en": "Museum Cluster: Weaver's House",
+            "pl": "Klustery Muzealne: Dom Tkacza"
           },
           "coords": [
             19.0495,
@@ -1349,7 +1462,8 @@
             "de": "Ein kurzer Spaziergang, um einen weiteren Teil des textilen Erbes der Stadt zu sehen.",
             "hu": "Egy rövid séta, hogy megnézze a város textil örökségének egy másik részét.",
             "ro": "O scurtă plimbare pentru a vedea o altă parte a moștenirii textile a orașului.",
-            "en": "A short walk to see another part of the city's textile heritage."
+            "en": "A short walk to see another part of the city's textile heritage.",
+            "pl": "Krótki spacer, by zobaczyć kolejną część tekstylnego dziedzictwa miasta."
           }
         }
       ],
@@ -1357,7 +1471,8 @@
         "de": "Ihr Autotag beginnt im Herzen von Bielsko-Białas Altstadt. Parken Sie Ihr Auto und erkunden Sie den ersten Cluster zu Fuß, der das Rathaus, die Kathedrale und das Sułkowski-Schloss umfasst. Spüren Sie die Atmosphäre von „Klein-Wien“. Gegen Mittag fahren Sie zum Szyndzielnia-Berg. Nehmen Sie die Seilbahn für Panoramablicke und genießen Sie anschließend ein Mittagessen in einer Berghütte, eine perfekte Mischung aus Natur und Gastronomie. Am Nachmittag fahren Sie zurück in die Stadt zu einem Industrie-Cluster. Besuchen Sie das Alte Fabrik Museum und das Weberhaus, um das reiche Erbe zu verstehen, das Bielsko-Biała geprägt hat.",
         "hu": "Autós napja Bielsko-Biała óvárosának szívében kezdődik. Parkolja le autóját, és fedezze fel gyalog az első klasztert, amely a Városházát, a Katedrálist és a Sułkowski-kastélyt foglalja magában, átérezve „Kis-Bécs” hangulatát. Dél felé vezessen a Szyndzielnia-hegyhez. Menjen fel a felvonóval a panorámás kilátásért, majd ebédeljen egy hegyi fogadóban, a természet és a gasztronómia tökéletes keverékében. Délután vezessen vissza a városba egy ipari klaszterhez. Látogasson el a Régi Gyár Múzeumba és a Szövőházba, hogy megértse a Bielsko-Białát formáló gazdag örökséget.",
         "ro": "Ziua cu mașina începe în inima orașului vechi din Bielsko-Biała. Parcați mașina și explorați primul cluster pe jos, cuprinzând Primăria, Catedrala și Castelul Sułkowski, simțind atmosfera „Micii Viene”. La prânz, conduceți spre Muntele Szyndzielnia. Luați telecabina pentru vederi panoramice, apoi bucurați-vă de prânz la o tavernă montană, un amestec perfect de natură și gastronomie. După-amiaza, conduceți înapoi în oraș la un cluster industrial. Vizitați Muzeul Vechea Fabrică și Casa Țesătorului pentru a înțelege moștenirea bogată care a modelat Bielsko-Biała.",
-        "en": "Your car-based day starts in the heart of Bielsko-Biała's old town. Park your car and explore the first cluster on foot, covering the Town Hall, Cathedral, and Sułkowski Castle, feeling the 'Little Vienna' atmosphere. Around noon, drive to Szyndzielnia Mountain. Take the cable car for panoramic views, then enjoy lunch at a mountain tavern, a perfect mix of nature and gastronomy. In the afternoon, drive back to the city for an industrial-themed cluster. Visit the Old Factory Museum and the Weaver's House to understand the rich heritage that shaped Bielsko-Biała."
+        "en": "Your car-based day starts in the heart of Bielsko-Biała's old town. Park your car and explore the first cluster on foot, covering the Town Hall, Cathedral, and Sułkowski Castle, feeling the 'Little Vienna' atmosphere. Around noon, drive to Szyndzielnia Mountain. Take the cable car for panoramic views, then enjoy lunch at a mountain tavern, a perfect mix of nature and gastronomy. In the afternoon, drive back to the city for an industrial-themed cluster. Visit the Old Factory Museum and the Weaver's House to understand the rich heritage that shaped Bielsko-Biała.",
+        "pl": "Twój dzień samochodowy zaczyna się w sercu starego miasta Bielska-Białej. Zaparkuj auto i zwiedź pierwszy klaster pieszo, obejmując Ratusz, Katedrę i Zamek Sułkowskich, poczuj atmosferę „Małej Wiednia”. W połowie dnia pojedź na Szyndzielnię. Wjedź kolejką linową, by podziwiać panoramę, a potem zjedz obiad w górskiej karczmie — idealne połączenie natury i gastronomii. Po południu wróć do miasta na klaster o tematyce przemysłowej. Odwiedź Muzeum Starej Fabryki i Dom Tkacza, by poznać bogate dziedzictwo, które ukształtowało Bielsko-Białą."
       },
       "gastro_picks": {
         "de": [
@@ -1549,6 +1664,11 @@
           "Check parking regulations in the city center; some zones require a parking disc or payment.",
           "Traffic can be heavy during peak hours, allow for extra driving time.",
           "The cable car to Szyndzielnia may be closed during high winds."
+        ],
+        "pl": [
+          "Sprawdź przepisy dotyczące parkowania w centrum; niektóre strefy wymagają tarczy parkingowej lub opłaty.",
+          "Ruch może być duży w godzinach szczytu, zaplanuj dodatkowy czas na dojazd.",
+          "Kolejka linowa na Szyndzielnię może być zamknięta przy silnym wietrze."
         ]
       },
       "variants": {
@@ -1557,7 +1677,8 @@
             "de": "Mit dem Auto ist Bielitz-Biala auch bei Regen komfortabel. Morgens erkunden wir die Altstadt und das Schloss, wobei das Auto als trockener Hafen dient. Das Highlight ist die Szyndzielnia-Seilbahn, wo man über den wolkenverhangenen Beskiden schwebt. Nach dem Mittagessen in den Bergen folgen Museumsbesuche im Stadtzentrum, alles ohne nass zu werden.",
             "hu": "Autóval Bielsko-Biała esőben is kényelmesen felfedezhető. Reggel az óvárost és a várat járjuk be, az autó pedig száraz menedékként szolgál. A nap fénypontja a Szyndzielnia felvonó, ahol a felhős Beszkidek felett lebeghetünk. A hegyi ebéd után a városközponti múzeumok következnek, így az eső ellenére is száraz marad minden.",
             "ro": "Cu mașina, Bielsko-Biała este ușor de explorat chiar și pe ploaie. Dimineața vizităm orașul vechi și Castelul, mașina fiind un refugiu uscat. Punctul culminant este telecabina Szyndzielnia, unde plutim deasupra munților Beskizi acoperiți de nori. După prânzul la munte, urmează muzeele din centru.",
-            "en": "By car, Bielsko-Biała is comfortable even in the rain. Spend the morning exploring the Old Town and Castle, using the car as a dry base. The highlight is the Szyndzielnia cable car, soaring above the cloudy Beskids. After a mountain lunch, return to the center for museums, staying dry throughout."
+            "en": "By car, Bielsko-Biała is comfortable even in the rain. Spend the morning exploring the Old Town and Castle, using the car as a dry base. The highlight is the Szyndzielnia cable car, soaring above the cloudy Beskids. After a mountain lunch, return to the center for museums, staying dry throughout.",
+            "pl": "Samochodem Bielsko-Biała jest wygodne nawet w deszczu. Spędź rano na zwiedzaniu Starego Miasta i Zamku, używając auta jako suchej bazy. Atrakcją jest kolejka na Szyndzielnię, szybująca nad chmurami Beskidów. Po górskim obiedzie wróć do centrum na muzea, pozostając suchym przez cały czas."
           },
           "stops": [
             {
@@ -1566,7 +1687,8 @@
                 "de": "Parkplätze in Rathausnähe sind bei Regen schnell belegt.",
                 "hu": "A Városháza közeli parkolók esőben hamar betelnek.",
                 "ro": "Parcările de lângă Primărie se ocupă repede pe ploaie.",
-                "en": "Parking near the Town Hall fills up quickly in the rain."
+                "en": "Parking near the Town Hall fills up quickly in the rain.",
+                "pl": "Parkingi przy Ratuszu szybko się zapełniają podczas deszczu."
               }
             },
             {
@@ -1575,7 +1697,8 @@
                 "de": "Kurzer Fußweg vom Parkplatz zum Portal einplanen.",
                 "hu": "Tervezz rövid sétát a parkolótól a bejáratig.",
                 "ro": "Planifică un drum scurt pe jos de la parcare la intrare.",
-                "en": "Plan for a short walk from the parking lot to the entrance."
+                "en": "Plan for a short walk from the parking lot to the entrance.",
+                "pl": "Planuj krótki spacer z parkingu do wejścia."
               }
             },
             {
@@ -1584,7 +1707,8 @@
                 "de": "Die Burgbesichtigung dauert etwa 75 Minuten im Trockenen.",
                 "hu": "A várlátogatás kb. 75 percet vesz igénybe fedett helyen.",
                 "ro": "Vizita la castel durează aproximativ 75 de minute la uscat.",
-                "en": "The castle tour takes about 75 minutes in the dry interior."
+                "en": "The castle tour takes about 75 minutes in the dry interior.",
+                "pl": "Wycieczka po zamku zajmuje około 75 minut w suchych wnętrzach."
               }
             },
             {
@@ -1593,7 +1717,8 @@
                 "de": "Mystische Aussicht, wenn die Wolken tief hängen.",
                 "hu": "Misztikus kilátás, amikor a felhők alacsonyan szállnak.",
                 "ro": "Vedere mistică atunci când norii sunt joși.",
-                "en": "Mystic views when the clouds are hanging low."
+                "en": "Mystic views when the clouds are hanging low.",
+                "pl": "Mistyczne widoki, gdy chmury wiszą nisko."
               }
             },
             {
@@ -1602,7 +1727,8 @@
                 "de": "Genießen Sie den Regenblick aus dem warmen Restaurant.",
                 "hu": "Élvezd az esős panorámát a meleg étteremből.",
                 "ro": "Bucură-te de vederea spre ploaie din restaurantul cald.",
-                "en": "Enjoy the rainy views from the warmth of the restaurant."
+                "en": "Enjoy the rainy views from the warmth of the restaurant.",
+                "pl": "Podziwiaj deszczowe widoki z ciepła restauracji."
               }
             },
             {
@@ -1611,7 +1737,8 @@
                 "de": "Parken Sie direkt vor dem Museumseingang.",
                 "hu": "Parkolj közvetlenül a múzeum bejárata előtt.",
                 "ro": "Parchează direct în fața intrării muzeului.",
-                "en": "Park directly in front of the museum entrance."
+                "en": "Park directly in front of the museum entrance.",
+                "pl": "Zaparkuj bezpośrednio przed wejściem do muzeum."
               }
             },
             {
@@ -1620,7 +1747,8 @@
                 "de": "Ein letzter kurzer Sprint durch den Regen zum Eingang.",
                 "hu": "Egy utolsó rövid sprint az esőben a bejáratig.",
                 "ro": "Un ultim sprint scurt prin ploaie până la intrare.",
-                "en": "One last short sprint through the rain to the entrance."
+                "en": "One last short sprint through the rain to the entrance.",
+                "pl": "Ostatni krótki sprint przez deszcz do wejścia."
               }
             }
           ],
@@ -1652,6 +1780,13 @@
               "Keep an umbrella in the trunk for the walk from the car.",
               "Use multi-story parking in the Old Town as a base.",
               "Drive with extra caution in the mountains during heavy rain."
+            ],
+            "pl": [
+              "Drogi w Beskidach mogą być śliskie podczas deszczu.",
+              "Sprawdź z wyprzedzeniem widoczność dla kolejki linowej.",
+              "Miej parasol w bagażniku na spacer od auta.",
+              "Korzystaj z wielopoziomowego parkingu na Starym Mieście jako bazy.",
+              "Jedź ostrożniej w górach podczas ulewy."
             ]
           }
         },
@@ -1660,7 +1795,8 @@
             "de": "Bielitz-Biala im Winter bietet mit dem Auto alpine Romantik. Nach dem frostigen Start in der Altstadt führt die Fahrt zur Szyndzielnia, wo die beschneiten Gipfel warten. Die Seilbahnfahrt ist im Winter ein Muss. Nach einem deftigen Mittagessen in der Berghütte geht es zurück zu den Museen, um den Tag im Warmen ausklingen zu lassen.",
             "hu": "Bielsko-Biała télen autóval igazi alpesi romantikát kínál. A fagyos óvárosi kezdés után az út a Szyndzielniához vezet, ahol hófödte csúcsok várnak. A felvonózás télen kötelező program. A hegyi menedékházas ebéd után a múzeumok melegében fejezzük be a napot.",
             "ro": "Bielsko-Biała iarna oferă o romantică alpină cu mașina. După startul geros în centrul vechi, drumul duce spre Szyndzielnia, unde așteaptă vârfurile înzăpezite. Telecabina este un must iarna. După un prânz copios la cabană, ne întoarcem la muzee pentru a încheia ziua la căldură.",
-            "en": "Winter in Bielsko-Biała offers alpine romance by car. After a frosty start in the Old Town, drive to Szyndzielnia where snow-capped peaks await. The cable car ride is a winter essential. After a hearty mountain hut lunch, return to the warmth of the museums to finish the day."
+            "en": "Winter in Bielsko-Biała offers alpine romance by car. After a frosty start in the Old Town, drive to Szyndzielnia where snow-capped peaks await. The cable car ride is a winter essential. After a hearty mountain hut lunch, return to the warmth of the museums to finish the day.",
+            "pl": "Zima w Bielsku-Białej to alpejski romantyzm samochodem. Po mroźnym poranku na Starym Rynku pojedź na Szyndzielnię, gdzie czekają ośnieżone szczyty. Przejażdżka kolejką linową to zimowy must-have. Po sytym obiedzie w schronisku wróć do ciepła muzeów, by zakończyć dzień."
           },
           "stops": [
             {
@@ -1669,7 +1805,8 @@
                 "de": "Scheiben rechtzeitig enteisen für gute Sicht.",
                 "hu": "Időben jégtelenítsd a szélvédőt a jó látáshoz.",
                 "ro": "Dezgheață parbrizul la timp pentru o vizibilitate bună.",
-                "en": "Defrost your windows in time for good visibility."
+                "en": "Defrost your windows in time for good visibility.",
+                "pl": "Odszron okna na czas, by zapewnić dobrą widoczność."
               }
             },
             {
@@ -1678,7 +1815,8 @@
                 "de": "Achtung, die Gassen zur Kathedrale können glatt sein.",
                 "hu": "Vigyázz, a székesegyházhoz vezető utcák jegesek lehetnek.",
                 "ro": "Atenție, străzile spre Catedrală pot fi poleite.",
-                "en": "Caution: the narrow streets to the Cathedral can be icy."
+                "en": "Caution: the narrow streets to the Cathedral can be icy.",
+                "pl": "Uwaga: wąskie uliczki do katedry mogą być oblodzone."
               }
             },
             {
@@ -1687,7 +1825,8 @@
                 "de": "Das Schlossmuseum ist im Winter gut beheizt.",
                 "hu": "A vármúzeum télen is kellemesen fűtött.",
                 "ro": "Muzeul castelului este bine încălzit iarna.",
-                "en": "The castle museum is well-heated in winter."
+                "en": "The castle museum is well-heated in winter.",
+                "pl": "Muzeum zamkowe jest dobrze ogrzewane zimą."
               }
             },
             {
@@ -1696,7 +1835,8 @@
                 "de": "Warme Kleidung für die Bergstation einpacken.",
                 "hu": "Vigyél meleg ruhát a fenti hegyi állomáshoz.",
                 "ro": "Ia haine groase pentru stația de sus de pe munte.",
-                "en": "Pack warm clothing for the mountain top station."
+                "en": "Pack warm clothing for the mountain top station.",
+                "pl": "Spakuj ciepłe ubrania na stację szczytową."
               }
             },
             {
@@ -1705,7 +1845,8 @@
                 "de": "Heiße polnische Spezialitäten sind jetzt perfekt.",
                 "hu": "A forró lengyel specialitások most a legjobbak.",
                 "ro": "Specialitățile poloneze fierbinți sunt perfecte acum.",
-                "en": "Hot Polish specialties are perfect right now."
+                "en": "Hot Polish specialties are perfect right now.",
+                "pl": "Gorące polskie specjały będą teraz idealne."
               }
             },
             {
@@ -1714,7 +1855,8 @@
                 "de": "Parken Sie auf dem geräumten Besucherparkplatz.",
                 "hu": "Parkolj a letakarított látogatói parkolóban.",
                 "ro": "Parchează în parcarea curățată pentru vizitatori.",
-                "en": "Park in the cleared visitor parking lot."
+                "en": "Park in the cleared visitor parking lot.",
+                "pl": "Zaparkuj na odśnieżonym parkingu dla odwiedzających."
               }
             },
             {
@@ -1723,7 +1865,8 @@
                 "de": "Ein idyllischer Winterblick auf das alte Holzhaus.",
                 "hu": "Idilli téli látvány a régi faházra.",
                 "ro": "O vedere de iarnă idilică asupra vechii case din lemn.",
-                "en": "An idyllic winter view of the old wooden house."
+                "en": "An idyllic winter view of the old wooden house.",
+                "pl": "Idylliczny zimowy widok starego drewnianego domu."
               }
             }
           ],
@@ -1755,6 +1898,13 @@
               "Carry snow chains for extreme conditions.",
               "Keep your phone charged; cold drains the battery faster.",
               "The cable car may stop operating in high winds."
+            ],
+            "pl": [
+              "Opony zimowe i płyn do chłodnicy są obowiązkowe.",
+              "Drogi górskie mogą być zamknięte podczas intensywnych opadów śniegu.",
+              "Noś ze sobą łańcuchy na koła na ekstremalne warunki.",
+              "Trzymaj telefon naładowany; zimno szybciej rozładowuje baterię.",
+              "Kolejka linowa może przestać kursować przy silnym wietrze."
             ]
           }
         }
@@ -1773,7 +1923,8 @@
             "de": "Cluster Altstadt: Marktplatz",
             "hu": "Óváros Klaszter: Piactér",
             "ro": "Cluster Centrul Vechi: Piața Centrală",
-            "en": "Old Town Cluster: Market Square"
+            "en": "Old Town Cluster: Market Square",
+            "pl": "Klaster Starego Miasta: Rynek"
           },
           "coords": [
             19.0455,
@@ -1789,7 +1940,8 @@
             "de": "Beginnen Sie am zentralen Platz, der von vielen Buslinien angefahren wird.",
             "hu": "Kezdje a központi téren, amelyet számos buszjárat érint.",
             "ro": "Începeți din piața centrală, deservită de multe linii de autobuz.",
-            "en": "Start at the central square, served by many bus lines."
+            "en": "Start at the central square, served by many bus lines.",
+            "pl": "Zacznij od centralnego rynku, obsługiwanego przez wiele linii autobusowych."
           }
         },
         {
@@ -1797,7 +1949,8 @@
             "de": "Cluster Altstadt: Schloss Sułkowski",
             "hu": "Óváros Klaszter: Sułkowski-kastély",
             "ro": "Cluster Centrul Vechi: Castelul Sułkowski",
-            "en": "Old Town Cluster: Sułkowski Castle"
+            "en": "Old Town Cluster: Sułkowski Castle",
+            "pl": "Klaster Starego Miasta: Zamek Sułkowskich"
           },
           "coords": [
             19.043,
@@ -1813,7 +1966,8 @@
             "de": "Ein einfacher Spaziergang vom Marktplatz durch die Altstadt.",
             "hu": "Könnyű séta a piactértől az óvároson keresztül.",
             "ro": "O plimbare ușoară din piață prin orașul vechi.",
-            "en": "An easy walk from the market square through the old town."
+            "en": "An easy walk from the market square through the old town.",
+            "pl": "Łatwy spacer z Rynku przez Stare Miasto."
           }
         },
         {
@@ -1821,7 +1975,8 @@
             "de": "Cluster Museum: Alte Fabrik",
             "hu": "Múzeum Klaszter: Régi Gyár",
             "ro": "Cluster Muzeu: Vechea Fabrică",
-            "en": "Museum Cluster: Old Factory"
+            "en": "Museum Cluster: Old Factory",
+            "pl": "Klaster Muzeów: Stara Fabryka"
           },
           "coords": [
             19.051,
@@ -1837,7 +1992,8 @@
             "de": "Nehmen Sie einen Bus vom Stadtzentrum, um dieses Industriejuwel zu erreichen.",
             "hu": "Szálljon buszra a városközpontból, hogy elérje ezt az ipari gyöngyszemet.",
             "ro": "Luați un autobuz din centrul orașului pentru a ajunge la această bijuterie industrială.",
-            "en": "Take a bus from the city center to reach this industrial gem."
+            "en": "Take a bus from the city center to reach this industrial gem.",
+            "pl": "Dojazd autobusem z centrum miasta do tego przemysłowego klejnotu."
           }
         },
         {
@@ -1845,7 +2001,8 @@
             "de": "Cluster Museum: Mittagessen",
             "hu": "Múzeum Klaszter: Ebéd",
             "ro": "Cluster Muzeu: Prânz",
-            "en": "Museum Cluster: Lunch"
+            "en": "Museum Cluster: Lunch",
+            "pl": "Klaster Muzeów: Lunch"
           },
           "coords": [
             19.0515,
@@ -1861,7 +2018,8 @@
             "de": "In der Nähe des Museums gibt es mehrere kleine Restaurants.",
             "hu": "A múzeum közelében több kis étterem is található.",
             "ro": "Există mai multe restaurante mici în apropierea muzeului.",
-            "en": "There are several small restaurants near the museum."
+            "en": "There are several small restaurants near the museum.",
+            "pl": "Wokół muzeum jest kilka niewielkich restauracji."
           }
         },
         {
@@ -1869,7 +2027,8 @@
             "de": "Cluster Szyndzielnia: Seilbahn",
             "hu": "Szyndzielnia Klaszter: Kötélpálya",
             "ro": "Cluster Szyndzielnia: Telecabina",
-            "en": "Szyndzielnia Cluster: Cable Car"
+            "en": "Szyndzielnia Cluster: Cable Car",
+            "pl": "Klaster Szyndzielnia: Kolejka linowa"
           },
           "coords": [
             19.025,
@@ -1885,7 +2044,8 @@
             "de": "Ein spezieller Bus (Linie 8) fährt direkt zur Talstation der Szyndzielnia-Seilbahn.",
             "hu": "Egy külön busz (8-as vonal) közvetlenül a Szyndzielnia felvonó alsó állomásához visz.",
             "ro": "Un autobuz dedicat (linia 8) merge direct la stația de jos a telecabinei Szyndzielnia.",
-            "en": "A dedicated bus (line 8) goes directly to the Szyndzielnia cable car bottom station."
+            "en": "A dedicated bus (line 8) goes directly to the Szyndzielnia cable car bottom station.",
+            "pl": "Specjalna linia autobusowa (nr 8) jedzie bezpośrednio do dolnej stacji kolejki na Szyndzielnię."
           }
         },
         {
@@ -1893,7 +2053,8 @@
             "de": "Cluster Szyndzielnia: Aussichtspunkt",
             "hu": "Szyndzielnia Klaszter: Kilátópont",
             "ro": "Cluster Szyndzielnia: Punct de observare",
-            "en": "Szyndzielnia Cluster: Viewpoint"
+            "en": "Szyndzielnia Cluster: Viewpoint",
+            "pl": "Klaster Szyndzielnia: Punkt widokowy"
           },
           "coords": [
             19.024,
@@ -1909,7 +2070,8 @@
             "de": "Genießen Sie die Aussicht von der Spitze, bevor Sie den letzten Bus zurück nehmen.",
             "hu": "Élvezze a kilátást a csúcsról, mielőtt az utolsó busszal visszamenne.",
             "ro": "Bucurați-vă de priveliștea de sus înainte de a lua ultimul autobuz înapoi.",
-            "en": "Enjoy the views from the top before taking the last bus back."
+            "en": "Enjoy the views from the top before taking the last bus back.",
+            "pl": "Podziwiaj widoki ze szczytu przed ostatnim powrotnym autobusem."
           }
         }
       ],
@@ -1917,7 +2079,8 @@
         "de": "Ihr Tag mit öffentlichen Verkehrsmitteln beginnt am zentralen Marktplatz. Am Morgen erkunden Sie zu Fuß das historische Zentrum um das Schloss Sułkowski. Anschließend nehmen Sie einen Bus zum Museumsviertel. Tauchen Sie in die industrielle Vergangenheit im Alte Fabrik Museum ein und genießen Sie ein lokales Mittagessen. Am Nachmittag bringt Sie ein weiterer Bus an den Stadtrand zum majestätischen Berg Szyndzielnia. Eine Seilbahnfahrt bietet atemberaubende Ausblicke und einen erfrischenden Ausflug in die Natur, bevor Sie am Abend mit dem Bus in die Stadt zurückkehren.",
         "hu": "Tömegközlekedési napja a központi piactéren kezdődik. Délelőtt gyalog fedezi fel a történelmi központot a Sułkowski-kastély körül. Ezután busszal utazik a múzeumi negyedbe. Merüljön el az ipari múltban a Régi Gyár Múzeumban, és ebédeljen egy helyi étteremben. Délután egy másik busz viszi a város szélére a fenséges Szyndzielnia-hegyhez. A felvonózás lélegzetelállító kilátást és frissítő természeti kiruccanást kínál, mielőtt este busszal visszatérne a városba.",
         "ro": "Ziua dumneavoastră cu transportul public începe în piața centrală. Dimineața, explorați pe jos centrul istoric din jurul Castelului Sułkowski. Apoi, luați un autobuz spre cartierul muzeelor. Cufundați-vă în trecutul industrial la Muzeul Vechea Fabrică și bucurați-vă de un prânz local. După-amiaza, un alt autobuz vă duce la marginea orașului, la maiestuosul Munte Szyndzielnia. O plimbare cu telecabina oferă vederi uimitoare și o escapadă revigorantă în natură înainte de a vă întoarce în oraș cu autobuzul seara.",
-        "en": "Your public transit day starts at the central market square. In the morning, you'll explore the historic center around Sułkowski Castle on foot. Then, you'll take a bus to the museum district. Immerse yourself in the industrial past at the Old Factory Museum and enjoy a local lunch. In the afternoon, another bus takes you to the city's outskirts to the majestic Szyndzielnia Mountain. A cable car ride offers stunning views and a refreshing nature escape before you return to the city by bus in the evening."
+        "en": "Your public transit day starts at the central market square. In the morning, you'll explore the historic center around Sułkowski Castle on foot. Then, you'll take a bus to the museum district. Immerse yourself in the industrial past at the Old Factory Museum and enjoy a local lunch. In the afternoon, another bus takes you to the city's outskirts to the majestic Szyndzielnia Mountain. A cable car ride offers stunning views and a refreshing nature escape before you return to the city by bus in the evening.",
+        "pl": "Twój dzień transportem publicznym zaczyna się na centralnym Rynku. Rano zwiedzisz pieszo zabytkowe centrum wokół Zamku Sułkowskich. Następnie pojedziesz autobusem do dzielnicy muzealnej. Zanurzysz się w przemysłowej przeszłości w Muzeum Starej Fabryki i zjesz lokalny obiad. Po południu kolejny autobus zabierze cię na obrzeża miasta na majestatyczną Szyndzielnię. Przejażdżka kolejką linową oferuje oszałamiające widoki i orzeźwiający kontakt z naturą, zanim wieczorem wrócisz do miasta autobusem."
       },
       "gastro_picks": {
         "de": [
@@ -2109,6 +2272,11 @@
           "Buy a day pass for the bus to save money.",
           "Download the local public transport app (e.g., jakdojade) to check routes and schedules.",
           "Be aware that buses may run less frequently in the outskirts, especially on weekends."
+        ],
+        "pl": [
+          "Kup bilet całodniowy na autobus, żeby zaoszczędzić.",
+          "Pobierz lokalną aplikację transportu publicznego (np. jakdojade) by sprawdzać trasy i rozkłady.",
+          "Pamiętaj, że autobusy na peryferiach kursują rzadziej, zwłaszcza w weekendy."
         ]
       },
       "variants": {
@@ -2117,7 +2285,8 @@
             "de": "Öffentliche Verkehrsmittel machen Bielitz-Biala bei Regen stressfrei. Morgens führt die Route zum Marktplatz und zum Schloss, wobei Buswartehäuschen Schutz bieten. Der Nachmittag gehört dem Fabrikmuseum und der Szyndzielnia-Seilbahn, die gut mit dem Bus erreichbar ist. Ein Tag voller Kontraste zwischen Industrie und Natur, während man draußen den Regen beobachtet.",
             "hu": "A tömegközlekedés stresszmentessé teszi Bielsko-Białát esőben is. Reggel az útvonal a főtérhez és a várhoz vezet, a buszvárók pedig védenek az esőtől. A délután a gyármúzeumé és a Szyndzielnia felvonóé, ami busszal is jól megközelíthető. Ipari és természeti kontrasztok, miközben az ablakon át figyeled a záport.",
             "ro": "Transportul public face ca Bielsko-Biała să fie fără stres pe ploaie. Dimineața, traseul duce spre Piața Mare și Castel, adăposturile de autobuz oferind protecție. După-amiaza aparține Muzeului Fabricii și telecabinei Szyndzielnia, ușor accesibile cu autobuzul. O zi de contraste între industrie și natură.",
-            "en": "Public transport makes Bielsko-Biała stress-free even in the rain. Morning routes take you to the Market Square and Castle, with bus shelters providing cover. The afternoon is for the Factory Museum and the Szyndzielnia cable car, easily reached by bus. A day of industrial and natural contrasts while watching the rain from the window."
+            "en": "Public transport makes Bielsko-Biała stress-free even in the rain. Morning routes take you to the Market Square and Castle, with bus shelters providing cover. The afternoon is for the Factory Museum and the Szyndzielnia cable car, easily reached by bus. A day of industrial and natural contrasts while watching the rain from the window.",
+            "pl": "Transport publiczny sprawia, że Bielsko-Biała jest bezstresowe nawet w deszczu. Poranne trasy zabierają na Rynek i do Zamku, gdzie przystanki autobusowe dają schronienie. Popołudnie to Muzeum Fabryki i kolejka na Szyndzielnię, łatwo dostępne autobusem. Dzień pełen przemysłowych i naturalnych kontrastów, obserwując deszcz zza szyby."
           },
           "stops": [
             {
@@ -2126,7 +2295,8 @@
                 "de": "Nutzen Sie die zentralen Bushaltestellen als Startpunkt.",
                 "hu": "Használd a központi buszmegállókat kiindulópontként.",
                 "ro": "Folosește stațiile de autobuz centrale ca punct de plecare.",
-                "en": "Use the central bus stops as your starting point."
+                "en": "Use the central bus stops as your starting point.",
+                "pl": "Używaj centralnych przystanków autobusowych jako punktu wyjścia."
               }
             },
             {
@@ -2135,7 +2305,8 @@
                 "de": "Vom Schloss sind es nur wenige Minuten zur nächsten Haltestelle.",
                 "hu": "A vártól csak pár perc a legközelebbi megálló.",
                 "ro": "De la castel sunt doar câteva minute până la cea mai apropiată stație.",
-                "en": "It is only a few minutes from the Castle to the nearest stop."
+                "en": "It is only a few minutes from the Castle to the nearest stop.",
+                "pl": "To tylko kilka minut z Zamku do najbliższego przystanku."
               }
             },
             {
@@ -2144,7 +2315,8 @@
                 "de": "Die Busverbindung zum Museum ist sehr frequentiert.",
                 "hu": "A múzeumhoz vezető buszjárat gyakran közlekedik.",
                 "ro": "Legătura cu autobuzul către muzeu este foarte frecventă.",
-                "en": "The bus connection to the museum runs frequently."
+                "en": "The bus connection to the museum runs frequently.",
+                "pl": "Połączenie autobusowe do muzeum kursuje często."
               }
             },
             {
@@ -2153,7 +2325,8 @@
                 "de": "Restaurants in Haltestellennähe ersparen lange Wege im Regen.",
                 "hu": "A megálló közeli éttermekkel elkerülhető a hosszú ázás.",
                 "ro": "Restaurantele de lângă stații te scutesc de mersul prin ploaie.",
-                "en": "Restaurants near stops save you from long walks in the rain."
+                "en": "Restaurants near stops save you from long walks in the rain.",
+                "pl": "Restauracje przy przystankach oszczędzą długich spacerów w deszczu."
               }
             },
             {
@@ -2162,7 +2335,8 @@
                 "de": "Der Bus hält fast direkt an der Talstation.",
                 "hu": "A busz szinte közvetlenül az alsó állomásnál áll meg.",
                 "ro": "Autobuzul oprește aproape direct la stația de jos.",
-                "en": "The bus stops almost directly at the lower station."
+                "en": "The bus stops almost directly at the lower station.",
+                "pl": "Autobus zatrzymuje się prawie bezpośrednio przy dolnej stacji."
               }
             },
             {
@@ -2171,7 +2345,8 @@
                 "de": "Bei Regen ist die Sicht eingeschränkt, aber stimmungsvoll.",
                 "hu": "Esőben a kilátás korlátozott, de hangulatos.",
                 "ro": "Pe ploaie vederea este limitată, dar atmosferică.",
-                "en": "In the rain, the view is limited but atmospheric."
+                "en": "In the rain, the view is limited but atmospheric.",
+                "pl": "W deszczu widok jest ograniczony, ale nastrojowy."
               }
             }
           ],
@@ -2203,6 +2378,13 @@
               "Check the schedule for the return trip from the Beskids.",
               "Buses run less frequently in the evening; plan ahead.",
               "A day pass is usually the most economical option."
+            ],
+            "pl": [
+              "Bilety często można kupić przez aplikację lub w automatach.",
+              "Autobusy są dobrze ogrzewane zimą i podczas deszczu.",
+              "Sprawdź rozkład na powrót z Beskidów.",
+              "Autobusy kursują rzadziej wieczorem; zaplanuj podróż wcześniej.",
+              "Bilet całodniowy to zwykle najbardziej ekonomiczna opcja."
             ]
           }
         },
@@ -2211,7 +2393,8 @@
             "de": "Bielitz-Biala lässt sich im Winter hervorragend mit Bus und Bahn erkunden. Vom winterlichen Marktplatz geht es zum Schloss, wo die Geschichte wärmt. Der Nachmittag bringt den Kontrast zwischen dem Fabrikmuseum und der verschneiten Welt an der Szyndzielnia-Seilbahn. Ein Tag, der zeigt, wie gut die Stadt auch in der kalten Jahreszeit vernetzt ist.",
             "hu": "Bielsko-Biała télen kiválóan felfedezhető busszal és vonattal. A téli főtérről a várba megyünk, ahol a történelem melegít fel. A délután a gyármúzeum és a Szyndzielnia felvonó havas világa közti kontrasztot hozza el. Ez a nap megmutatja, milyen jól összekapcsolt a város a hideg évszakban is.",
             "ro": "Bielsko-Biała poate fi explorat excelent iarna cu autobuzul și trenul. De la piața de iarnă mergem la Castel, unde istoria te încălzește. După-amiaza aduce contrastul dintre Muzeul Fabricii și lumea înzăpezită de la telecabina Szyndzielnia. O zi care arată cât de bine este conectat orașul.",
-            "en": "Winter in Bielsko-Biała is easily explored by bus and train. From the wintery Market Square, head to the Castle for a historical warm-up. The afternoon brings a contrast between the Factory Museum and the snowy world at the Szyndzielnia cable car. A day showcasing the city's great connectivity even in winter."
+            "en": "Winter in Bielsko-Biała is easily explored by bus and train. From the wintery Market Square, head to the Castle for a historical warm-up. The afternoon brings a contrast between the Factory Museum and the snowy world at the Szyndzielnia cable car. A day showcasing the city's great connectivity even in winter.",
+            "pl": "Zimą Bielsko-Białą łatwo zwiedzać autobusem i pociągiem. Z zimowego Rynku udaj się do Zamku na historyczne rozgrzanie. Popołudnie to kontrast między Muzeum Fabryki a zaśnieżonym światem przy kolejce na Szyndzielnię. Dzień pokazujący świetne połączenia miasta nawet zimą."
           },
           "stops": [
             {
@@ -2220,7 +2403,8 @@
                 "de": "Der Marktplatz ist im Winter festlich beleuchtet.",
                 "hu": "A főtér télen ünnepi díszkivilágítást kap.",
                 "ro": "Piața Mare este iluminată festiv iarna.",
-                "en": "The Market Square is festively lit in winter."
+                "en": "The Market Square is festively lit in winter.",
+                "pl": "Rynek jest świątecznie oświetlony zimą."
               }
             },
             {
@@ -2229,7 +2413,8 @@
                 "de": "Nutzen Sie die Zeit im Museum, um sich aufzuwärmen.",
                 "hu": "Használd ki a múzeumi időt a felmelegedésre.",
                 "ro": "Folosește timpul petrecut în muzeu pentru a te încălzi.",
-                "en": "Use your time in the museum to warm up properly."
+                "en": "Use your time in the museum to warm up properly.",
+                "pl": "Wykorzystaj czas w muzeum, by porządnie się ogrzać."
               }
             },
             {
@@ -2238,7 +2423,8 @@
                 "de": "In der Nähe der Haltestelle gibt es oft warme Snack-Stände.",
                 "hu": "A megálló közelében gyakran vannak meleg harapnivalót kínáló árusok.",
                 "ro": "Lângă stație se găsesc adesea standuri cu gustări calde.",
-                "en": "There are often warm snack stands near the bus stop."
+                "en": "There are often warm snack stands near the bus stop.",
+                "pl": "Przy przystankach często są stoiska z ciepłymi przekąskami."
               }
             },
             {
@@ -2247,7 +2433,8 @@
                 "de": "Wählen Sie ein Lokal mit gemütlicher Winteratmosphäre.",
                 "hu": "Válassz egy hangulatos téli atmoszférájú helyet.",
                 "ro": "Alege un local cu o atmosferă de iarnă primitoare.",
-                "en": "Choose a place with a cozy winter atmosphere."
+                "en": "Choose a place with a cozy winter atmosphere.",
+                "pl": "Wybierz miejsce o przytulnej zimowej atmosferze."
               }
             },
             {
@@ -2256,7 +2443,8 @@
                 "de": "Der Bus zur Seilbahn fährt auch bei Schnee zuverlässig.",
                 "hu": "A felvonóhoz menő busz hóban is megbízhatóan közlekedik.",
                 "ro": "Autobuzul spre telecabină circulă constant și pe zăpadă.",
-                "en": "The bus to the cable car runs reliably even in snow."
+                "en": "The bus to the cable car runs reliably even in snow.",
+                "pl": "Autobus do kolejki kursuje niezawodnie nawet przy śniegu."
               }
             },
             {
@@ -2265,7 +2453,8 @@
                 "de": "Warme Kleidung ist für die Aussichtspunkte unerlässlich.",
                 "hu": "A kilátópontoknál elengedhetetlen a meleg öltözet.",
                 "ro": "Hainele groase sunt indispensabile la punctele de belvedere.",
-                "en": "Warm clothing is essential for the viewpoints."
+                "en": "Warm clothing is essential for the viewpoints.",
+                "pl": "Ciepłe ubrania są niezbędne na punktach widokowych."
               }
             }
           ],
@@ -2297,6 +2486,13 @@
               "Schedules are posted at every major stop.",
               "Wear shoes with good grip for the walks to the stops.",
               "Use the mobile app for real-time arrival information."
+            ],
+            "pl": [
+              "Ogrzej się w wiatach przystankowych.",
+              "Opady śniegu mogą powodować drobne opóźnienia.",
+              "Rozkłady są wywieszone na każdym ważnym przystanku.",
+              "Noś buty z dobrą przyczepnością na dojścia do przystanków.",
+              "Korzystaj z aplikacji mobilnej dla informacji o przyjazdach w czasie rzeczywistym."
             ]
           }
         }

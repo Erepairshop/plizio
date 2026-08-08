@@ -21,7 +21,8 @@
             "de": "Marktplatz (Rynek)",
             "hu": "Piactér (Rynek)",
             "ro": "Piața Centrală (Rynek)",
-            "en": "Market Square (Rynek)"
+            "en": "Market Square (Rynek)",
+            "pl": "Rynek (Market Square)"
           },
           "coords": [
             20.6973,
@@ -37,7 +38,8 @@
             "de": "Beginnen Sie mit einem Kaffee in einem der Cafés und beobachten Sie das morgendliche Treiben.",
             "hu": "Kezdje a napot egy kávéval a tér egyik kávézójában, és figyelje a reggeli nyüzsgést.",
             "ro": "Începeți cu o cafea la una dintre cafenele și priviți agitația de dimineață.",
-            "en": "Start with a coffee at one of the square's cafes and watch the morning bustle."
+            "en": "Start with a coffee at one of the square's cafes and watch the morning bustle.",
+            "pl": "Zacznij od kawy w jednej z kawiarni na rynku i obserwuj poranne poruszenie."
           }
         },
         {
@@ -45,7 +47,8 @@
             "de": "Rathaus von Nowy Sącz",
             "hu": "Újszandeci városháza",
             "ro": "Primăria din Nowy Sącz",
-            "en": "Nowy Sącz Town Hall"
+            "en": "Nowy Sącz Town Hall",
+            "pl": "Ratusz w Nowym Sączu"
           },
           "coords": [
             20.697,
@@ -61,7 +64,8 @@
             "de": "Bewundern Sie die Architektur des 19. Jahrhunderts und achten Sie auf das Wappen der Stadt.",
             "hu": "Csodálja meg a 19. századi építészetet, és keresse a város címerét.",
             "ro": "Admirați arhitectura din secolul al XIX-lea și căutați stema orașului.",
-            "en": "Admire the 19th-century architecture and look for the city's coat of arms."
+            "en": "Admire the 19th-century architecture and look for the city's coat of arms.",
+            "pl": "Podziwiaj XIX‑wieczną architekturę i poszukaj herbu miasta."
           }
         },
         {
@@ -69,7 +73,8 @@
             "de": "Basilika St. Margareta",
             "hu": "Szent Margit-bazilika",
             "ro": "Bazilica Sf. Margareta",
-            "en": "St. Margaret's Basilica"
+            "en": "St. Margaret's Basilica",
+            "pl": "Bazylika św. Małgorzaty"
           },
           "coords": [
             20.7001,
@@ -85,7 +90,8 @@
             "de": "Suchen Sie nach den gotischen Fresken und dem beeindruckenden Hauptaltar.",
             "hu": "Keresse meg a gótikus freskókat és a lenyűgöző főoltárt.",
             "ro": "Căutați frescele gotice și altarul principal impresionant.",
-            "en": "Look for the Gothic frescoes and the impressive main altar."
+            "en": "Look for the Gothic frescoes and the impressive main altar.",
+            "pl": "Szukaj gotyckich fresków i imponującego ołtarza głównego."
           }
         },
         {
@@ -93,7 +99,8 @@
             "de": "Bezirksmuseum (Luberadzki-Haus)",
             "hu": "Körzeti Múzeum (Luberadzki-ház)",
             "ro": "Muzeul Districtual (Casa Luberadzki)",
-            "en": "District Museum (Luberadzki House)"
+            "en": "District Museum (Luberadzki House)",
+            "pl": "Muzeum Okręgowe (Dom Luberadzkich)"
           },
           "coords": [
             20.695,
@@ -109,7 +116,8 @@
             "de": "Konzentrieren Sie sich auf die Ausstellungen zur Stadtgeschichte, um ein tieferes Verständnis zu erlangen.",
             "hu": "Koncentráljon a város történetét bemutató kiállításokra a mélyebb megértés érdekében.",
             "ro": "Concentrați-vă pe expozițiile despre istoria orașului pentru o înțelegere mai profundă.",
-            "en": "Focus on the city history exhibitions for a deeper understanding of the area."
+            "en": "Focus on the city history exhibitions for a deeper understanding of the area.",
+            "pl": "Skoncentruj się na wystawach dotyczących historii miasta, by lepiej poznać region."
           }
         },
         {
@@ -117,7 +125,8 @@
             "de": "Ruinen des Königsschlosses",
             "hu": "Királyi vár romjai",
             "ro": "Ruinele Castelului Regal",
-            "en": "Ruins of the Royal Castle"
+            "en": "Ruins of the Royal Castle",
+            "pl": "Ruiny Zamku Królewskiego"
           },
           "coords": [
             20.693,
@@ -133,7 +142,8 @@
             "de": "Genießen Sie die Aussicht auf den Fluss Dunajec vom Schlosshügel aus.",
             "hu": "Élvezze a Dunajec folyóra nyíló kilátást a várdombról.",
             "ro": "Bucurați-vă de priveliștea râului Dunajec de pe dealul castelului.",
-            "en": "Enjoy the view of the Dunajec River from the castle hill."
+            "en": "Enjoy the view of the Dunajec River from the castle hill.",
+            "pl": "Rozkoszuj się widokiem na Dunajec z zamkowego wzgórza."
           }
         },
         {
@@ -141,7 +151,8 @@
             "de": "Sądecker Ethnographenpark",
             "hu": "Szandeci Néprajzi Park",
             "ro": "Parcul Etnografic Sądecki",
-            "en": "Sądecki Ethnographic Park"
+            "en": "Sądecki Ethnographic Park",
+            "pl": "Sądecki Park Etnograficzny"
           },
           "coords": [
             20.715,
@@ -157,7 +168,8 @@
             "de": "Nehmen Sie sich Zeit für die Innenräume der Holzhäuser, um das ländliche Leben zu spüren.",
             "hu": "Szánjon időt a faházak belső tereire, hogy átérezze a vidéki életet.",
             "ro": "Luați-vă timp să explorați interioarele caselor de lemn pentru a simți viața rurală.",
-            "en": "Take your time to explore the interiors of the wooden houses to feel the rural life."
+            "en": "Take your time to explore the interiors of the wooden houses to feel the rural life.",
+            "pl": "Poświęć czas na zwiedzanie wnętrz drewnianych domów, by poczuć życie na wsi."
           }
         }
       ],
@@ -165,7 +177,8 @@
         "de": "Ihr Tag in Nowy Sącz beginnt auf dem belebten Marktplatz, dem Herzen der Stadt. Am Vormittag erkunden Sie die gotische Basilika und das historische Rathaus. Nach einem tiefen Einblick in die Regionalgeschichte im Bezirksmuseum spazieren Sie am Nachmittag zu den malerischen Ruinen des Königsschlosses. Den Abschluss bildet ein ausgedehnter Besuch im Freilichtmuseum, das Ihnen das ländliche Polen näherbringt.",
         "hu": "Az Ön napja Újszandecben a nyüzsgő Piactéren, a város szívében kezdődik. Délelőtt felfedezi a gótikus bazilikát és a történelmi városházát. Miután a Körzeti Múzeumban elmélyült a helytörténetben, délután elsétál a festői Királyi Vár romjaihoz. A napot egy kiadós látogatás zárja a skanzenben, amely közelebb hozza Önhöz a vidéki Lengyelországot.",
         "ro": "Ziua dvs. în Nowy Sącz începe în Piața plină de viață, inima orașului. Dimineața explorați bazilica gotică și primăria istorică. După o incursiune în istoria regională la Muzeul Districtual, după-amiaza vă plimbați la ruinele pitorești ale Castelului Regal. Încheiați ziua cu o vizită extinsă la muzeul în aer liber, care vă va apropia de Polonia rurală.",
-        "en": "Your day in Nowy Sącz begins in the bustling Market Square, the heart of the city. In the morning, you'll explore the Gothic basilica and the historic Town Hall. After a deep dive into regional history at the District Museum, you'll stroll to the picturesque ruins of the Royal Castle in the afternoon. The day concludes with an extensive visit to the open-air museum, bringing rural Poland closer to you."
+        "en": "Your day in Nowy Sącz begins in the bustling Market Square, the heart of the city. In the morning, you'll explore the Gothic basilica and the historic Town Hall. After a deep dive into regional history at the District Museum, you'll stroll to the picturesque ruins of the Royal Castle in the afternoon. The day concludes with an extensive visit to the open-air museum, bringing rural Poland closer to you.",
+        "pl": "Twój dzień w Nowym Sączu rozpoczyna się na tętniącym życiem Rynku, sercu miasta. Rano zwiedzisz gotycką bazylikę i historyczny ratusz. Po dogłębnej wizycie w muzeum okręgowym poznasz regionalną historię, a po południu przejdziesz się do malowniczych ruin Zamku Królewskiego. Dzień zakończy się obszerną wizytą w skansenie, który przybliży ci wiejską Polskę."
       },
       "gastro_picks": {
         "de": [
@@ -341,6 +354,12 @@
           "Allow enough time for the Ethnographic Park, the area is extensive.",
           "Check the opening hours of the museums, as they may vary.",
           "A small backpack for water and snacks is recommended."
+        ],
+        "pl": [
+          "Noś wygodne buty — bruk w starej części miasta bywa nierówny.",
+          "Zarezerwuj wystarczająco dużo czasu na Park Etnograficzny — teren jest rozległy.",
+          "Sprawdź godziny otwarcia muzeów, gdyż mogą się różnić.",
+          "Polecany mały plecak na wodę i przekąski."
         ]
       },
       "variants": {
@@ -349,7 +368,8 @@
             "de": "Der Tag beginnt am regnerischen Marktplatz, wo die Arkaden der Bürgerhäuser Schutz bieten. Mittags ziehen wir uns in das Bezirksmuseum im Luberadzki-Haus zurück, um die sakrale Kunst trocken zu genießen. Nachmittags führt der Weg zur Basilika und den Schlossruinen, wobei festes Schuhwerk für die nassen Wege zum Ethnographischen Park unerlässlich ist. Den Abend lassen wir in einem der gemütlichen Kellerrestaurants am Rynek ausklingen.",
             "hu": "Az esős reggelt a főtéri árkádok alatt kezdjük, figyelve a városháza tornyát a szürke égbolt alatt. Délben a Luberadzki-ház kiállításai kínálnak menedéket a csapadék elől. Délután az ínséges idő ellenére felkeressük a várromokat, majd a skanzen sárga ösvényein vágunk át esernyővel. Az estét egy meleg teával zárjuk a történelmi belváros egyik védett kávézójában.",
             "ro": "Începem dimineața în Piața Mare, folosind arcadele caselor vechi ca adăpost împotriva ploii. La prânz, vizităm Muzeul Districtual pentru a admira arta religioasă la adăpost. După-amiaza continuăm spre ruinele castelului, iar drumul spre parcul etnografic necesită încălțăminte impermeabilă din cauza potecilor umede. Seara ne retragem într-un restaurant primitor din centrul vechi.",
-            "en": "The day starts at the rainy Market Square, where the historic arcades provide perfect shelter. At noon, we retreat to the District Museum to enjoy sacred art away from the wet. Afternoon involves a walk to the castle ruins and the ethnographic park, where waterproof boots are essential for the unpaved paths. We finish the evening in a cozy cellar restaurant near the Rynek."
+            "en": "The day starts at the rainy Market Square, where the historic arcades provide perfect shelter. At noon, we retreat to the District Museum to enjoy sacred art away from the wet. Afternoon involves a walk to the castle ruins and the ethnographic park, where waterproof boots are essential for the unpaved paths. We finish the evening in a cozy cellar restaurant near the Rynek.",
+            "pl": "Dzień zaczyna się na deszczowym Rynku, gdzie historyczne arkady zapewniają doskonałe schronienie. W południe uciekamy do Muzeum Okręgowego, by w ciszy podziwiać sztukę sakralną z dala od wilgoci. Popołudnie obejmuje spacer do ruin zamku i do parku etnograficznego, gdzie nieutwardzone ścieżki wymagają wodoodpornych butów. Wieczór kończymy w przytulnej piwnicznej restauracji przy Rynku."
           },
           "stops": [
             {
@@ -358,7 +378,8 @@
                 "de": "Nutzen Sie die Arkadengänge der historischen Bürgerhäuser als Regenschutz.",
                 "hu": "Használja a történelmi polgárházak árkádjait eső elleni védelemként.",
                 "ro": "Folosiți arcadele caselor istorice ca adăpost împotriva ploii.",
-                "en": "Use the arcades of the historical townhouses as shelter from the rain."
+                "en": "Use the arcades of the historical townhouses as shelter from the rain.",
+                "pl": "Korzystaj z arkad historycznych kamienic jako schronienia przed deszczem."
               }
             },
             {
@@ -367,7 +388,8 @@
                 "de": "Der Haupteingang bietet einen trockenen Bereich für Fotos der Fassade.",
                 "hu": "A főbejárat fedett résziről jól fotózható a homlokzat.",
                 "ro": "Intrarea principală oferă o zonă uscată pentru fotografierea fațadei.",
-                "en": "The main entrance provides a dry area for photographing the facade."
+                "en": "The main entrance provides a dry area for photographing the facade.",
+                "pl": "Główne wejście zapewnia suchą przestrzeń do fotografowania fasady."
               }
             },
             {
@@ -376,7 +398,8 @@
                 "de": "Die massiven Mauern bieten exzellenten Schutz und eine ruhige Atmosphäre.",
                 "hu": "A vaskos falak kiváló menedéket és nyugodt hangulatot árasztanak.",
                 "ro": "Zidurile masive oferă un adăpost excelent și o atmosferă liniștită.",
-                "en": "The massive walls provide excellent shelter and a quiet atmosphere."
+                "en": "The massive walls provide excellent shelter and a quiet atmosphere.",
+                "pl": "Masywne mury dają doskonałe osłonięcie i cichą atmosferę."
               }
             },
             {
@@ -385,7 +408,8 @@
                 "de": "Ein idealer Ort, um die regenreichste Zeit des Mittags drinnen zu verbringen.",
                 "hu": "Ideális helyszín a legcsapadékosabb déli órák benti eltöltésére.",
                 "ro": "Un loc ideal pentru a petrece orele de prânz ploioase în interior.",
-                "en": "An ideal place to spend the rainiest midday hours indoors."
+                "en": "An ideal place to spend the rainiest midday hours indoors.",
+                "pl": "Idealne miejsce na spędzenie najbardziej deszczowego południa pod dachem."
               }
             },
             {
@@ -394,7 +418,8 @@
                 "de": "Vorsicht auf den rutschigen Steinen bei den Schlossruinen.",
                 "hu": "Vigyázat, a várromok kövei esőben rendkívül csúszósak.",
                 "ro": "Atenție la pietrele alunecoase de lângă ruinele castelului.",
-                "en": "Be careful on the slippery stones near the castle ruins."
+                "en": "Be careful on the slippery stones near the castle ruins.",
+                "pl": "Uważaj na śliskie kamienie w rejonie ruin zamku."
               }
             },
             {
@@ -403,7 +428,8 @@
                 "de": "Die unbefestigten Wege können schlammig sein; bleiben Sie auf den Hauptpfaden.",
                 "hu": "A burkolatlan utak sárosak lehetnek; maradjon a fő ösvényeken.",
                 "ro": "Potecile neasfaltate pot fi noroioase; rămâneți pe traseele principale.",
-                "en": "The unpaved paths can be muddy; stay on the main tracks."
+                "en": "The unpaved paths can be muddy; stay on the main tracks.",
+                "pl": "Nieutwardzone ścieżki mogą być błotniste; pozostań na głównych traktach."
               }
             }
           ],
@@ -435,6 +461,13 @@
               "Umbrellas can be tricky near the castle due to wind; raincoats are better.",
               "The District Museum offers enough space to dry off slightly.",
               "Check the park's opening hours as they may change during severe weather."
+            ],
+            "pl": [
+              "Na zwiedzanie skansenu załóż wodoodporne buty turystyczne.",
+              "Kawiarnie wokół Rynku są idealne na krótkie przerwy podczas przelotnych opadów.",
+              "Parasole bywają niepraktyczne przy zamku z powodu wiatru; lepsze są peleryny przeciwdeszczowe.",
+              "Muzeum Okręgowe ma wystarczająco miejsca, by nieco się osuszyć.",
+              "Sprawdź godziny otwarcia parku, mogą się zmieniać podczas gwałtownej pogody."
             ]
           }
         },
@@ -443,7 +476,8 @@
             "de": "Ein frostiger Morgen beginnt am verschneiten Marktplatz, wo die Lichter des Rathauses eine warme Atmosphäre schaffen. Mittags wärmen wir uns in der Basilika und dem Luberadzki-Haus auf, bevor wir die Ruinen des Königsschlosses besichtigen. Da die Sonne bereits gegen 16:00 Uhr untergeht, besuchen wir den Ethnographischen Park frühzeitig, um die verschneite Holzarchitektur im Tageslicht zu sehen. Der Tag endet mit einer heißen Schokolade in der Altstadt.",
             "hu": "A fagyos reggel a havas főtéren ér minket, ahol a városháza fényei ünnepi hangulatot árasztanak. Délben a bazilika és a múzeum fűtött tereiben melegszünk fel a várromok megtekintése előtt. Mivel a nap már 16:00 körül nyugszik, korán indulunk a skanzenbe, hogy lássuk a hófödte faházakat. A napot egy forró csokoládéval zárjuk az óváros egyik hangulatos zugában.",
             "ro": "O dimineață geroasă începe în Piața Mare înzăpezită, unde luminile primăriei creează o atmosferă caldă. La prânz ne încălzim în basilică și în Casa Luberadzki înainte de a vizita ruinele castelului. Deoarece soarele apune în jurul orei 16:00, vizităm parcul etnografic devreme pentru a vedea arhitectura din lemn sub zăpadă. Ziua se încheie cu o ciocolată caldă în orașul vechi.",
-            "en": "A frosty morning begins at the snow-covered Market Square, where the Town Hall lights create a warm glow. At noon, we warm up in the Basilica and Luberadzki House before visiting the castle ruins. As the sun sets around 4:00 PM, we visit the Ethnographic Park early to see the snow-dusted wooden architecture in daylight. The day ends with a hot chocolate in the old town."
+            "en": "A frosty morning begins at the snow-covered Market Square, where the Town Hall lights create a warm glow. At noon, we warm up in the Basilica and Luberadzki House before visiting the castle ruins. As the sun sets around 4:00 PM, we visit the Ethnographic Park early to see the snow-dusted wooden architecture in daylight. The day ends with a hot chocolate in the old town.",
+            "pl": "Mroźny poranek zaczyna się na zaśnieżonym Rynku, gdzie iluminacje ratusza tworzą ciepły blask. W południe rozgrzewamy się w bazylice i w domu Luberadzkich, zanim odwiedzimy ruiny zamku. Gdy słońce zachodzi około 16:00, wczesnym popołudniem zwiedzamy Skansen, aby zobaczyć zaśnieżoną drewnianą architekturę przy dziennym świetle. Dzień kończy się gorącą czekoladą na starówce."
           },
           "stops": [
             {
@@ -452,7 +486,8 @@
                 "de": "Achten Sie auf vereiste Stellen auf dem Kopfsteinpflaster.",
                 "hu": "Vigyázzon a macskaköveken kialakuló jeges foltokra.",
                 "ro": "Atenție la porțiunile înghețate de pe pavajul cu piatră cubică.",
-                "en": "Watch out for icy patches on the cobblestone pavement."
+                "en": "Watch out for icy patches on the cobblestone pavement.",
+                "pl": "Uważaj na oblodzone miejsca na kostce brukowej."
               }
             },
             {
@@ -461,7 +496,8 @@
                 "de": "Die beleuchtete Fassade ist in der frühen Dämmerung besonders fotogen.",
                 "hu": "A kivilágított homlokzat a kora esti szürkületben a legszebb.",
                 "ro": "Fațada iluminată este foarte fotogenică în amurgul timpuriu.",
-                "en": "The illuminated facade is very photogenic in the early twilight."
+                "en": "The illuminated facade is very photogenic in the early twilight.",
+                "pl": "Oświetlona fasada jest bardzo fotogeniczna wczesnym zmierzchem."
               }
             },
             {
@@ -470,7 +506,8 @@
                 "de": "Ein ruhiger Ort für eine spirituelle Pause in der Kälte.",
                 "hu": "Csendes hely egy spirituális pihenőre a nagy hidegben.",
                 "ro": "Un loc liniștit pentru o pauză spirituală în timpul gerului.",
-                "en": "A quiet place for a spiritual break during the cold."
+                "en": "A quiet place for a spiritual break during the cold.",
+                "pl": "Ciche miejsce na duchową przerwę podczas chłodu."
               }
             },
             {
@@ -479,7 +516,8 @@
                 "de": "Nutzen Sie die Garderobe, um schwere Wintermäntel während der Tour abzulegen.",
                 "hu": "Használja a ruhatárat a nehéz télikabátok tárolására a látogatás alatt.",
                 "ro": "Folosiți garderoba pentru a lăsa hainele groase în timpul turului.",
-                "en": "Use the cloakroom to leave heavy winter coats during the tour."
+                "en": "Use the cloakroom to leave heavy winter coats during the tour.",
+                "pl": "Skorzystaj z szatni, by zostawić ciężkie zimowe płaszcze na czas zwiedzania."
               }
             },
             {
@@ -488,7 +526,8 @@
                 "de": "Der Wind kann hier oben sehr schneidig sein; ziehen Sie sich warm an.",
                 "hu": "A szél itt metsző lehet; öltözzön rétegesen a várfalaknál.",
                 "ro": "Vântul poate fi foarte tăios aici; îmbrăcați-vă gros lângă ruine.",
-                "en": "The wind can be very biting here; dress warmly near the ruins."
+                "en": "The wind can be very biting here; dress warmly near the ruins.",
+                "pl": "Wiatr może tu mocno przeszywać; ciepło się ubierz przy ruinach."
               }
             },
             {
@@ -497,7 +536,8 @@
                 "de": "Besuchen Sie den Park vor 15:00 Uhr, um das natürliche Licht zu nutzen.",
                 "hu": "Látogasson el a parkba 15:00 előtt a természetes fények miatt.",
                 "ro": "Vizitați parcul înainte de ora 15:00 pentru a profita de lumina naturală.",
-                "en": "Visit the park before 3:00 PM to make use of the natural light."
+                "en": "Visit the park before 3:00 PM to make use of the natural light.",
+                "pl": "Odwiedź park przed 15:00, aby skorzystać z naturalnego światła."
               }
             }
           ],
@@ -529,6 +569,13 @@
               "There are several pastry shops near the Rynek offering traditional hot drinks.",
               "Paths in the open-air museum are cleared but can remain slippery under snow.",
               "Camera batteries drain faster in the cold; keep them warm near your body."
+            ],
+            "pl": [
+              "Słońce zachodzi już około 16:15 w miesiącach zimowych.",
+              "Noś termiczne warstwy, bo muzea w zabytkowych budynkach mogą być chłodne.",
+              "W pobliżu Rynku jest kilka cukierni oferujących tradycyjne gorące napoje.",
+              "Ścieżki w skansenie są odśnieżane, ale mogą pozostać śliskie.",
+              "Baterie w aparatach szybciej się rozładowują w zimnie; trzymaj je ciepło przy ciele."
             ]
           }
         }
@@ -547,7 +594,8 @@
             "de": "Marktplatz (Rynek)",
             "hu": "Piactér (Rynek)",
             "ro": "Piața Centrală (Rynek)",
-            "en": "Market Square (Rynek)"
+            "en": "Market Square (Rynek)",
+            "pl": "Rynek (Rynek)"
           },
           "coords": [
             20.6973,
@@ -563,7 +611,8 @@
             "de": "Schließen Sie Ihr Fahrrad sicher ab, bevor Sie den Platz erkunden.",
             "hu": "Zárja le biztonságosan a kerékpárját, mielőtt felfedezné a teret.",
             "ro": "Asigurați-vă bicicleta înainte de a explora piața.",
-            "en": "Lock your bike securely before exploring the square."
+            "en": "Lock your bike securely before exploring the square.",
+            "pl": "Zabezpiecz rower odpowiednio przed dalszym zwiedzaniem placu."
           }
         },
         {
@@ -571,7 +620,8 @@
             "de": "Basilika St. Margareta",
             "hu": "Szent Margit-bazilika",
             "ro": "Bazilica Sf. Margareta",
-            "en": "St. Margaret's Basilica"
+            "en": "St. Margaret's Basilica",
+            "pl": "Bazylika św. Małgorzaty"
           },
           "coords": [
             20.7001,
@@ -587,7 +637,8 @@
             "de": "Genießen Sie die Ruhe im Inneren als Kontrast zur Radtour.",
             "hu": "Élvezze a benti csendet a kerékpártúra kontrasztjaként.",
             "ro": "Bucurați-vă de liniștea din interior ca un contrast cu turul cu bicicleta.",
-            "en": "Enjoy the tranquility inside as a contrast to the bike tour."
+            "en": "Enjoy the tranquility inside as a contrast to the bike tour.",
+            "pl": "Ciesz się ciszą w środku jako kontrastem do wycieczki rowerowej."
           }
         },
         {
@@ -595,7 +646,8 @@
             "de": "Bezirksmuseum (Luberadzki-Haus)",
             "hu": "Körzeti Múzeum (Luberadzki-ház)",
             "ro": "Muzeul Districtual (Casa Luberadzki)",
-            "en": "District Museum (Luberadzki House)"
+            "en": "District Museum (Luberadzki House)",
+            "pl": "Muzeum Okręgowe (Dom Luberadzkich)"
           },
           "coords": [
             20.695,
@@ -611,7 +663,8 @@
             "de": "Eine willkommene Pause vom Radfahren, um in die Kultur einzutauchen.",
             "hu": "Üdvözlő szünet a kerékpározásban, hogy elmerüljön a kultúrában.",
             "ro": "O pauză binevenită de la ciclism pentru a vă cufunda în cultură.",
-            "en": "A welcome break from cycling to immerse yourself in culture."
+            "en": "A welcome break from cycling to immerse yourself in culture.",
+            "pl": "Miła przerwa od jazdy rowerem, by zanurzyć się w kulturze."
           }
         },
         {
@@ -619,7 +672,8 @@
             "de": "Ruinen des Königsschlosses",
             "hu": "Királyi vár romjai",
             "ro": "Ruinele Castelului Regal",
-            "en": "Ruins of the Royal Castle"
+            "en": "Ruins of the Royal Castle",
+            "pl": "Ruiny Zamku Królewskiego"
           },
           "coords": [
             20.693,
@@ -635,7 +689,8 @@
             "de": "Fahren Sie vorsichtig den Hügel hinauf; die Aussicht ist die Belohnung.",
             "hu": "Óvatosan hajtson fel a dombra; a kilátás a jutalom.",
             "ro": "Urcați dealul cu prudență; priveliștea este recompensa.",
-            "en": "Ride up the hill carefully; the view is the reward."
+            "en": "Ride up the hill carefully; the view is the reward.",
+            "pl": "Podjeżdżaj ostrożnie pod górę; widok jest nagrodą."
           }
         },
         {
@@ -643,7 +698,8 @@
             "de": "Weißes Kloster",
             "hu": "Fehér kolostor",
             "ro": "Mănăstirea Albă",
-            "en": "White Monastery"
+            "en": "White Monastery",
+            "pl": "Biały Klasztor"
           },
           "coords": [
             20.705,
@@ -659,7 +715,8 @@
             "de": "Ein friedlicher Ort, ideal für eine kurze Pause und Besinnung.",
             "hu": "Békés hely, ideális egy rövid szünetre és elmélkedésre.",
             "ro": "Un loc pașnic, ideal pentru o scurtă pauză și reflecție.",
-            "en": "A peaceful place, ideal for a short break and reflection."
+            "en": "A peaceful place, ideal for a short break and reflection.",
+            "pl": "Spokojne miejsce, idealne na krótką przerwę i zadumę."
           }
         },
         {
@@ -667,7 +724,8 @@
             "de": "Sądecker Ethnographenpark",
             "hu": "Szandeci Néprajzi Park",
             "ro": "Parcul Etnografic Sądecki",
-            "en": "Sądecki Ethnographic Park"
+            "en": "Sądecki Ethnographic Park",
+            "pl": "Sądecki Park Etnograficzny"
           },
           "coords": [
             20.715,
@@ -683,7 +741,8 @@
             "de": "Das Fahrradfahren auf dem Gelände ist nicht gestattet, aber es gibt Fahrradständer am Eingang.",
             "hu": "A park területén nem szabad kerékpározni, de a bejáratnál vannak kerékpártárolók.",
             "ro": "Ciclismul nu este permis în interiorul parcului, dar există suporturi pentru biciclete la intrare.",
-            "en": "Cycling is not allowed inside the park, but there are bike racks at the entrance."
+            "en": "Cycling is not allowed inside the park, but there are bike racks at the entrance.",
+            "pl": "W parku nie wolno jeździć na rowerze, ale przy wejściu są stojaki na rowery."
           }
         },
         {
@@ -691,7 +750,8 @@
             "de": "Galizisches Städtchen",
             "hu": "Galíciai kisváros",
             "ro": "Micul Oraș Galițian",
-            "en": "Galician Town"
+            "en": "Galician Town",
+            "pl": "Miasto Galicyjskie"
           },
           "coords": [
             20.716,
@@ -707,7 +767,8 @@
             "de": "Direkt neben dem Ethnographenpark, ein Spaziergang zurück in die Zeit der k.u.k. Monarchie.",
             "hu": "Közvetlenül a Néprajzi Park mellett, egy séta vissza az Osztrák-Magyar Monarchia idejébe.",
             "ro": "Chiar lângă Parcul Etnografic, o plimbare înapoi în timp, în Imperiul Austro-Ungar.",
-            "en": "Right next to the Ethnographic Park, a walk back in time to the Austro-Hungarian Empire."
+            "en": "Right next to the Ethnographic Park, a walk back in time to the Austro-Hungarian Empire.",
+            "pl": "Tuż obok Skansenu, spacer w przeszłość do Austro-Węgier."
           }
         }
       ],
@@ -715,7 +776,8 @@
         "de": "Mit dem Fahrrad erkunden Sie Nowy Sącz flexibel und hautnah. Am Morgen starten Sie am Rynek und radeln zu den heiligen Stätten der Stadt. Mittags führt Sie Ihr Weg zu den historischen Schlossruinen mit Blick auf den Fluss. Der Nachmittag ist für eine längere Tour zum faszinierenden Ethnographenpark reserviert, wo Sie in die ländliche Kultur eintauchen und das Rad für einen Spaziergang durch das Galizische Städtchen abstellen.",
         "hu": "Kerékpárral rugalmasan és testközelből fedezheti fel Újszandecet. Reggel a Rynekről indul, és a város szent helyeihez teker. Délben az útja a történelmi várromokhoz vezet, kilátással a folyóra. A délután egy hosszabb túrára van fenntartva a lenyűgöző Néprajzi Parkhoz, ahol elmerülhet a vidéki kultúrában, és leteheti a kerékpárt egy sétára a Galíciai kisvárosban.",
         "ro": "Cu bicicleta, explorați Nowy Sącz în mod flexibil și de aproape. Dimineața porniți din Rynek și pedalați către locurile sacre ale orașului. La prânz, drumul vă duce la ruinele istorice ale castelului cu vedere la râu. După-amiaza este rezervată pentru un tur mai lung la fascinantul Parc Etnografic, unde vă puteți cufunda în cultura rurală și lăsa bicicleta pentru o plimbare prin Micul Oraș Galițian.",
-        "en": "By bike, you can explore Nowy Sącz flexibly and up close. In the morning, you'll start at the Rynek and cycle to the city's sacred sites. At noon, your path leads to the historic castle ruins with a view of the river. The afternoon is reserved for a longer tour to the fascinating Ethnographic Park, where you can immerse yourself in rural culture and park your bike for a walk through the Galician Town."
+        "en": "By bike, you can explore Nowy Sącz flexibly and up close. In the morning, you'll start at the Rynek and cycle to the city's sacred sites. At noon, your path leads to the historic castle ruins with a view of the river. The afternoon is reserved for a longer tour to the fascinating Ethnographic Park, where you can immerse yourself in rural culture and park your bike for a walk through the Galician Town.",
+        "pl": "Rowe-rem możesz zwiedzać Nowy Sącz elastycznie i z bliska. Rano zaczniesz na Rynku i przejedziesz do miejskich miejsc sakralnych. W południe trasa prowadzi do historycznych ruin zamku z widokiem na rzekę. Popołudnie zarezerwowane jest na dłuższą wycieczkę do fascynującego Skansenu, gdzie możesz zanurzyć się w kulturze wiejskiej i zostawić rower, aby pieszo zwiedzić Miasto Galicyjskie."
       },
       "gastro_picks": {
         "de": [
@@ -891,6 +953,12 @@
           "Some streets in the old town are closed to bicycle traffic, pay attention to the signs.",
           "Use the existing bike paths, especially along the river.",
           "A helmet is recommended for safety."
+        ],
+        "pl": [
+          "Sprawdź stan roweru przed wyruszeniem.",
+          "Niektóre ulice na starówce są zamknięte dla ruchu rowerowego — zwracaj uwagę na znaki.",
+          "Korzystaj z istniejących tras rowerowych, zwłaszcza wzdłuż rzeki.",
+          "Kask jest zalecany dla bezpieczeństwa."
         ]
       },
       "variants": {
@@ -899,7 +967,8 @@
             "de": "Eine nasse Radtour beginnt am glitschigen Marktplatz. Wir radeln vorsichtig zur Basilika und zum Luberadzki-Haus, wo wir längere Pausen einlegen, um zu trocknen. Die Fahrt zu den Schlossruinen und zum Weißen Kloster führt über nasse Asphaltwege. Den Nachmittag verbringen wir im Ethnographischen Park und der Galizischen Stadt, wobei wir die Fahrräder sicher unterstellen. Der Tag endet mit einer zügigen Rückfahrt zum Stadtzentrum.",
             "hu": "A vizes kerékpártúra a csúszós főtéren kezdődik. Óvatosan tekerünk a bazilikához és a Luberadzki-házhoz, ahol hosszabb pihenőket tartunk a száradáshoz. A várromokhoz és a Fehér Kolostorhoz vezető út vizes aszfalton halad. A délutánt a skanzenben és a Galíciai Városban töltjük, a bicikliket fedett helyen lelakatolva. A nap gyors belvárosi tekeréssel zárul.",
             "ro": "O tură cu bicicleta pe ploaie începe în piața alunecoasă. Pedalăm cu atenție spre basilică și Casa Luberadzki, unde facem pauze mai lungi pentru a ne usca. Drumul spre ruinele castelului și Mănăstirea Albă urmează asfaltul umed. După-amiaza o petrecem în parcul etnografic, lăsând bicicletele într-un loc sigur. Ziua se încheie cu o întoarcere rapidă spre centru.",
-            "en": "A wet cycling tour starts at the slippery Market Square. We ride carefully to the Basilica and Luberadzki House, taking longer breaks to dry off. The route to the castle ruins and White Monastery follows damp asphalt paths. We spend the afternoon at the Ethnographic Park and Galician Town, locking our bikes in a sheltered spot. The day ends with a quick ride back to the city center."
+            "en": "A wet cycling tour starts at the slippery Market Square. We ride carefully to the Basilica and Luberadzki House, taking longer breaks to dry off. The route to the castle ruins and White Monastery follows damp asphalt paths. We spend the afternoon at the Ethnographic Park and Galician Town, locking our bikes in a sheltered spot. The day ends with a quick ride back to the city center.",
+            "pl": "Mokra wycieczka rowerowa zaczyna się na śliskim Rynku. Jedziemy ostrożnie do bazyliki i domu Luberadzkich, robiąc dłuższe przerwy na osuszenie. Trasa do ruin zamku i Białego Klasztoru prowadzi po wilgotnym asfalcie. Popołudnie spędzamy w Skansenie i Mieście Galicyjskim, przypinając rowery w osłoniętym miejscu. Dzień kończy się szybkim przejazdem z powrotem do centrum."
           },
           "stops": [
             {
@@ -908,7 +977,8 @@
                 "de": "Vorsicht vor den nassen Straßenbahnschienen und glattem Pflaster.",
                 "hu": "Vigyázzon a vizes sínpárokra és a csúszós térkőre.",
                 "ro": "Atenție la șinele de tramvai umede și la pavajul alunecos.",
-                "en": "Watch out for wet tram tracks and slippery pavement stones."
+                "en": "Watch out for wet tram tracks and slippery pavement stones.",
+                "pl": "Uważaj na mokre tory tramwajowe i śliskie kamienne nawierzchnie."
               }
             },
             {
@@ -917,7 +987,8 @@
                 "de": "Fahrradständer befinden sich in der Nähe des Seiteneingangs.",
                 "hu": "Kerékpártárolók az oldalsó bejárat közelében találhatóak.",
                 "ro": "Suporturile pentru biciclete se află lângă intrarea laterală.",
-                "en": "Bike racks are located near the side entrance."
+                "en": "Bike racks are located near the side entrance.",
+                "pl": "Stojaki na rowery znajdują się przy bocznym wejściu."
               }
             },
             {
@@ -926,7 +997,8 @@
                 "de": "Stellen Sie Ihr Rad nach Möglichkeit unter einem Vordach ab.",
                 "hu": "Lehetőség szerint parkoljon fedett előtető alatt.",
                 "ro": "Parcați bicicleta sub o copertină dacă este posibil.",
-                "en": "Park your bike under a canopy if possible."
+                "en": "Park your bike under a canopy if possible.",
+                "pl": "Jeśli to możliwe, zaparkuj rower pod daszkiem."
               }
             },
             {
@@ -935,7 +1007,8 @@
                 "de": "Die Auffahrt zum Schloss kann bei Regen rutschig sein.",
                 "hu": "A várhoz vezető emelkedő esőben csúszóssá válhat.",
                 "ro": "Urcarea spre castel poate fi alunecoasă pe timp de ploaie.",
-                "en": "The climb to the castle can become slippery in the rain."
+                "en": "The climb to the castle can become slippery in the rain.",
+                "pl": "Wjazd na wzgórze zamkowe może stać się śliski przy deszczu."
               }
             },
             {
@@ -944,7 +1017,8 @@
                 "de": "Ein kurzer Stopp bietet Schutz vor plötzlichen Schauern.",
                 "hu": "Egy rövid megálló védelmet nyújt a hirtelen záporok ellen.",
                 "ro": "O scurtă oprire oferă protecție împotriva averselor bruște.",
-                "en": "A short stop provides protection from sudden showers."
+                "en": "A short stop provides protection from sudden showers.",
+                "pl": "Krótki postój daje ochronę przed nagłymi ulewami."
               }
             },
             {
@@ -953,7 +1027,8 @@
                 "de": "Nutzen Sie die befestigten Wege innerhalb des Geländes.",
                 "hu": "Használja a kiépített utakat a skanzen területén belül.",
                 "ro": "Folosiți drumurile pavate din interiorul complexului.",
-                "en": "Use the paved paths within the museum grounds."
+                "en": "Use the paved paths within the museum grounds.",
+                "pl": "Korzystaj z utwardzonych ścieżek na terenie muzeum."
               }
             },
             {
@@ -962,7 +1037,8 @@
                 "de": "Überdachte Bereiche bieten Platz zum Abstellen der Räder.",
                 "hu": "Fedett részek biztosítanak helyet a biciklik tárolására.",
                 "ro": "Zonele acoperite oferă spațiu pentru parcarea bicicletelor.",
-                "en": "Covered areas provide space for parking the bikes."
+                "en": "Covered areas provide space for parking the bikes.",
+                "pl": "Zadaszone miejsca zapewniają przestrzeń do parkowania rowerów."
               }
             }
           ],
@@ -994,6 +1070,13 @@
               "Brake early and gently on wet cobblestone surfaces.",
               "Always wipe the saddle dry before continuing your ride.",
               "The route partly follows less busy side streets."
+            ],
+            "pl": [
+              "Błotniki są niezbędne ze względu na kałuże w Nowym Sączu.",
+              "Noś odblaskową pelerynę przeciwdeszczową w ruchu miejskim.",
+              "Hamuj wcześnie i delikatnie na mokrej nawierzchni z kostki brukowej.",
+              "Zawsze przetrzyj siodełko do sucha przed kontynuacją jazdy.",
+              "Trasa częściowo prowadzi mniej uczęszczanymi bocznymi ulicami."
             ]
           }
         },
@@ -1002,7 +1085,8 @@
             "de": "Die Winter-Radtour startet am frostigen Rynek. Wir radeln auf geräumten Straßen zur Basilika und zum Museum, wobei wir uns bei den Stopps gründlich aufwärmen. Die Fahrt zu den Schlossruinen und zum Kloster erfordert bei Minustemperaturen warme Handschuhe. Der Nachmittag im Ethnographischen Park zeigt die Holzarchitektur unter glitzerndem Schnee, bevor wir vor Einbruch der Dunkelheit zur Galizischen Stadt aufbrechen.",
             "hu": "A téli bringázás a fagyos főtéren indul. A megtisztított utakon tekerünk a bazilikához és a múzeumhoz, ahol alaposan átmelegedünk a megállók alatt. A várromokhoz és a kolostorhoz vezető út mínuszokban meleg kesztyűt igényel. A skanzenben töltött délután csillogó hó alatt mutatja be a faépítészetet, mielőtt sötétedés előtt a Galíciai Városba érnénk.",
             "ro": "Tura de iarnă cu bicicleta începe în piața geroasă. Pedalăm pe străzi curățate spre basilică și muzeu, încălzindu-ne bine la fiecare oprire. Drumul spre ruinele castelului și mănăstire necesită mănuși groase la temperaturi negative. După-amiaza în parcul etnografic dezvăluie arhitectura din lemn sub zăpadă, înainte de a pleca spre Orașul Galițian.",
-            "en": "The winter bike tour starts at the frosty Rynek. We cycle on cleared roads to the Basilica and Museum, warming up thoroughly during the stops. The ride to the castle ruins and monastery requires warm gloves in sub-zero temperatures. The afternoon at the Ethnographic Park showcases wooden architecture under glistening snow before heading to Galician Town before dark."
+            "en": "The winter bike tour starts at the frosty Rynek. We cycle on cleared roads to the Basilica and Museum, warming up thoroughly during the stops. The ride to the castle ruins and monastery requires warm gloves in sub-zero temperatures. The afternoon at the Ethnographic Park showcases wooden architecture under glistening snow before heading to Galician Town before dark.",
+            "pl": "Zimowa wycieczka rowerowa zaczyna się na mroźnym Rynku. Jedziemy po odśnieżonych drogach do bazyliki i muzeum, dobrze się rozgrzewając podczas postojów. Przejazd do ruin zamku i klasztoru wymaga ciepłych rękawic w ujemnych temperaturach. Popołudnie w Skansenie ukazuje drewnianą architekturę pod skrzącym się śniegiem, zanim pojedziemy do Miasta Galicyjskiego przed zmrokiem."
           },
           "stops": [
             {
@@ -1011,7 +1095,8 @@
                 "de": "Vorsicht bei Kurvenfahrten auf gestreuten, aber glatten Flächen.",
                 "hu": "Vigyázzon a kanyarodáskor a felszórt, de csúszós felületeken.",
                 "ro": "Atenție la viraje pe suprafețele presărate, dar încă alunecoase.",
-                "en": "Be careful when cornering on gritted but still slippery surfaces."
+                "en": "Be careful when cornering on gritted but still slippery surfaces.",
+                "pl": "Uważaj na zakrętach na posypanej, lecz wciąż śliskiej nawierzchni."
               }
             },
             {
@@ -1020,7 +1105,8 @@
                 "de": "Schließen Sie Ihr Rad an einem festen Gegenstand an, um Diebstahl vorzubeugen.",
                 "hu": "Lakatolja a biciklit stabil tárgyhoz a lopás megelőzése érdekében.",
                 "ro": "Legați bicicleta de un obiect fix pentru a preveni furtul.",
-                "en": "Lock your bike to a fixed object to prevent theft."
+                "en": "Lock your bike to a fixed object to prevent theft.",
+                "pl": "Przypnij rower do stałego elementu, aby zapobiec kradzieży."
               }
             },
             {
@@ -1029,7 +1115,8 @@
                 "de": "Drinnen können Sie Ihre Brille von Beschlag befreien.",
                 "hu": "Benti megállónál érdemes páramentesíteni a szemüveget.",
                 "ro": "În interior vă puteți dezaburi ochelarii de protecție.",
-                "en": "Inside, you can clear the fog from your cycling glasses."
+                "en": "Inside, you can clear the fog from your cycling glasses.",
+                "pl": "W środku możesz usunąć parę z okularów rowerowych."
               }
             },
             {
@@ -1038,7 +1125,8 @@
                 "de": "Der Boden kann gefroren und uneben sein; fahren Sie langsam.",
                 "hu": "A talaj fagyott és egyenetlen lehet; hajtson lassan.",
                 "ro": "Solul poate fi înghețat și denivelat; pedalați încet.",
-                "en": "The ground can be frozen and uneven; ride slowly."
+                "en": "The ground can be frozen and uneven; ride slowly.",
+                "pl": "Podłoże może być zamarznięte i nierówne; jedź powoli."
               }
             },
             {
@@ -1047,7 +1135,8 @@
                 "de": "Kurze Pause zum Händewärmen vor der Weiterfahrt.",
                 "hu": "Rövid pihenő a kéz felmelegítésére a továbbhaladás előtt.",
                 "ro": "Scurtă pauză pentru a vă încălzi mâinile înainte de a pleca.",
-                "en": "Brief stop to warm your hands before continuing."
+                "en": "Brief stop to warm your hands before continuing.",
+                "pl": "Krótki postój na ogrzanie rąk przed dalszą jazdą."
               }
             },
             {
@@ -1056,7 +1145,8 @@
                 "de": "Die Wege können bei tiefem Schnee schwer befahrbar sein.",
                 "hu": "Mély hó esetén az utak nehezen járhatóak lehetnek biciklivel.",
                 "ro": "Drumurile pot fi greu practicabile cu bicicleta în zăpadă mare.",
-                "en": "Paths can be difficult to cycle on in deep snow."
+                "en": "Paths can be difficult to cycle on in deep snow.",
+                "pl": "Ścieżki mogą być trudne do przejechania w głębokim śniegu."
               }
             },
             {
@@ -1065,7 +1155,8 @@
                 "de": "Planen Sie die Rückfahrt vor Sonnenuntergang ein.",
                 "hu": "Tervezze meg a visszautat naplemente előtt.",
                 "ro": "Planificați drumul de întoarcere înainte de apus.",
-                "en": "Plan your return trip before the sun goes down."
+                "en": "Plan your return trip before the sun goes down.",
+                "pl": "Zaplanuj powrót przed zapadnięciem zmroku."
               }
             }
           ],
@@ -1097,6 +1188,13 @@
               "Days are short; working lights on your bike are mandatory.",
               "Avoid sudden steering movements on slippery surfaces.",
               "E-bike batteries should be taken indoors during longer breaks."
+            ],
+            "pl": [
+              "Sprawdź ciśnienie w oponach; nieco niższe ciśnienie zapewnia lepszą przyczepność na śniegu.",
+              "Noś odzież przeciwwiatrową, by zminimalizować efekt chłodzący wiatru.",
+              "Dni są krótkie; działające światła na rowerze są obowiązkowe.",
+              "Unikaj gwałtownych ruchów kierownicą na śliskiej nawierzchni.",
+              "Akumulatory w e-rowerach należy zabrać do środka podczas dłuższych przerw."
             ]
           }
         }
@@ -1115,7 +1213,8 @@
             "de": "Parkplatz Altstadt & Spaziergang zum Marktplatz",
             "hu": "Parkoló az Óvárosnál és séta a Piactérre",
             "ro": "Parcare Centrul Vechi & plimbare spre Piață",
-            "en": "Old Town Car Park & walk to Market Square"
+            "en": "Old Town Car Park & walk to Market Square",
+            "pl": "Parking Starego Miasta i spacer do Rynku"
           },
           "coords": [
             20.692,
@@ -1131,7 +1230,8 @@
             "de": "Parken Sie außerhalb des direkten Zentrums. Der erste Spaziergang zum Rynek stimmt Sie auf den Tag ein.",
             "hu": "Parkoljon a központtól kissé távolabb. Az első séta a Rynekre ráhangolja a napra.",
             "ro": "Parcați în afara centrului direct. Prima plimbare până la Rynek vă pregătește pentru zi.",
-            "en": "Park outside the immediate center. The first walk to the Rynek gets you in the mood for the day."
+            "en": "Park outside the immediate center. The first walk to the Rynek gets you in the mood for the day.",
+            "pl": "Zaparkuj poza bezpośrednim centrum. Pierwszy spacer na Rynek wprowadzi cię w nastrój dnia."
           }
         },
         {
@@ -1139,7 +1239,8 @@
             "de": "Rathaus & Basilika St. Margareta",
             "hu": "Városháza és Szent Margit-bazilika",
             "ro": "Primăria & Bazilica Sf. Margareta",
-            "en": "Town Hall & St. Margaret's Basilica"
+            "en": "Town Hall & St. Margaret's Basilica",
+            "pl": "Ratusz i Bazylika św. Małgorzaty"
           },
           "coords": [
             20.697,
@@ -1155,7 +1256,8 @@
             "de": "Diese beiden Wahrzeichen liegen so nah beieinander, dass Sie sie als eine Einheit erkunden können.",
             "hu": "Ez a két nevezetesség olyan közel van egymáshoz, hogy egy egységként fedezheti fel őket.",
             "ro": "Aceste două repere sunt atât de apropiate încât le puteți explora ca pe o singură unitate.",
-            "en": "These two landmarks are so close together you can explore them as one unit."
+            "en": "These two landmarks are so close together you can explore them as one unit.",
+            "pl": "Te dwie atrakcje są tak blisko siebie, że możesz zwiedzić je jako jedną całość."
           }
         },
         {
@@ -1163,7 +1265,8 @@
             "de": "Ruinen des Königsschlosses",
             "hu": "Királyi vár romjai",
             "ro": "Ruinele Castelului Regal",
-            "en": "Ruins of the Royal Castle"
+            "en": "Ruins of the Royal Castle",
+            "pl": "Ruiny Zamku Królewskiego"
           },
           "coords": [
             20.693,
@@ -1179,7 +1282,8 @@
             "de": "Ein kurzer Spaziergang vom Rynek, der Sie aus dem Trubel in eine grüne Oase führt.",
             "hu": "Egy rövid séta a Rynekről, amely a nyüzsgésből egy zöld oázisba vezet.",
             "ro": "O scurtă plimbare de la Rynek care vă duce din agitație într-o oază de verdeață.",
-            "en": "A short walk from the Rynek that takes you from the hustle and bustle into a green oasis."
+            "en": "A short walk from the Rynek that takes you from the hustle and bustle into a green oasis.",
+            "pl": "Krótki spacer od Rynku, który przenosi z zgiełku w zieloną oazę."
           }
         },
         {
@@ -1187,7 +1291,8 @@
             "de": "Mittagessen in der Altstadt",
             "hu": "Ebéd az Óvárosban",
             "ro": "Prânz în Centrul Vechi",
-            "en": "Lunch in the Old Town"
+            "en": "Lunch in the Old Town",
+            "pl": "Obiad na Starym Mieście"
           },
           "coords": [
             20.696,
@@ -1203,7 +1308,8 @@
             "de": "Kehren Sie zu Fuß zum Auto zurück und stärken Sie sich auf dem Weg in einem der vielen Restaurants.",
             "hu": "Sétáljon vissza az autóhoz, útközben pedig erősítse meg magát a számos étterem egyikében.",
             "ro": "Întoarceți-vă pe jos la mașină, oprindu-vă la unul dintre numeroasele restaurante pe drum.",
-            "en": "Walk back towards the car, stopping for lunch at one of the many restaurants on the way."
+            "en": "Walk back towards the car, stopping for lunch at one of the many restaurants on the way.",
+            "pl": "Wracając w kierunku samochodu, zatrzymaj się na obiad w jednej z licznych restauracji po drodze."
           }
         },
         {
@@ -1211,7 +1317,8 @@
             "de": "Fahrt zum Sądecker Ethnographenpark",
             "hu": "Utazás a Szandeci Néprajzi Parkhoz",
             "ro": "Cu mașina la Parcul Etnografic Sądecki",
-            "en": "Drive to Sądecki Ethnographic Park"
+            "en": "Drive to Sądecki Ethnographic Park",
+            "pl": "Dojazd do Sądeckiego Parku Etnograficznego"
           },
           "coords": [
             20.715,
@@ -1227,7 +1334,8 @@
             "de": "Der Park verfügt über einen eigenen Parkplatz. Dies ist der Hauptcluster-Wechsel des Tages.",
             "hu": "A parknak saját parkolója van. Ez a nap fő klaszterváltása.",
             "ro": "Parcul are propria parcare. Aceasta este principala schimbare de cluster a zilei.",
-            "en": "The park has its own car park. This is the main cluster change of the day."
+            "en": "The park has its own car park. This is the main cluster change of the day.",
+            "pl": "Park ma własny parking. To główna zmiana skupisk dnia."
           }
         },
         {
@@ -1235,7 +1343,8 @@
             "de": "Galizisches Städtchen",
             "hu": "Galíciai kisváros",
             "ro": "Micul Oraș Galițian",
-            "en": "Galician Town"
+            "en": "Galician Town",
+            "pl": "Miasto Galicyjskie"
           },
           "coords": [
             20.716,
@@ -1251,7 +1360,8 @@
             "de": "Erkunden Sie dieses rekonstruierte Dorf zu Fuß, nachdem Sie das Auto am Hauptparkplatz abgestellt haben.",
             "hu": "Fedezze fel ezt az újjáépített falut gyalog, miután leparkolta az autót a fő parkolóban.",
             "ro": "Explorați acest sat reconstruit pe jos după ce ați lăsat mașina în parcarea principală.",
-            "en": "Explore this reconstructed village on foot after leaving the car at the main car park."
+            "en": "Explore this reconstructed village on foot after leaving the car at the main car park.",
+            "pl": "Po zostawieniu samochodu na głównym parkingu zwiedź tę zrekonstruowaną wieś pieszo."
           }
         }
       ],
@@ -1259,7 +1369,8 @@
         "de": "Mit dem Auto erleben Sie Nowy Sącz in zwei Kapiteln. Am Morgen parken Sie zentral und erkunden den historischen Kern – vom Rynek über die Basilika bis zu den Schlossruinen – komplett zu Fuß. Nach dem Mittagessen fahren Sie zum zweiten Cluster, dem weitläufigen Ethnographenpark. Dort parken Sie erneut und tauchen zu Fuß in die Welt des alten Galiziens ein, eine perfekte Kombination aus urbanem Spaziergang und ländlicher Entdeckung.",
         "hu": "Autóval két fejezetben ismerheti meg Újszandecet. Reggel a központban parkol, és gyalog fedezi fel a történelmi magot – a Rynektől a bazilikán át a várromokig. Ebéd után a második klaszterhez, a tágas Néprajzi Parkhoz hajt. Ott újra leparkol, és gyalog merül el a régi Galícia világában – a városi séta és a vidéki felfedezés tökéletes kombinációja.",
         "ro": "Cu mașina, experimentați Nowy Sącz în două capitole. Dimineața parcați central și explorați nucleul istoric – de la Rynek la bazilică și ruinele castelului – complet pe jos. După prânz, conduceți către al doilea cluster, vastul Parc Etnografic. Acolo parcați din nou și vă cufundați pe jos în lumea vechii Galiții, o combinație perfectă de plimbare urbană și descoperire rurală.",
-        "en": "With a car, you experience Nowy Sącz in two chapters. In the morning, you park centrally and explore the historic core—from the Rynek to the basilica to the castle ruins—entirely on foot. After lunch, you drive to the second cluster, the expansive Ethnographic Park. There, you park again and immerse yourself on foot in the world of old Galicia, a perfect combination of urban stroll and rural discovery."
+        "en": "With a car, you experience Nowy Sącz in two chapters. In the morning, you park centrally and explore the historic core—from the Rynek to the basilica to the castle ruins—entirely on foot. After lunch, you drive to the second cluster, the expansive Ethnographic Park. There, you park again and immerse yourself on foot in the world of old Galicia, a perfect combination of urban stroll and rural discovery.",
+        "pl": "Samochodem doświadczysz Nowego Sącza w dwóch rozdziałach. Rano parkujesz centralnie i pieszo zwiedzasz historyczne centrum — od Rynku, przez bazylikę, po ruiny zamku. Po obiedzie jedziesz do drugiego skupiska, rozległego Skansenu. Tam znowu parkujesz i pieszo zanurzasz się w świat dawnej Galicji — doskonałe połączenie miejskiego spaceru i wiejskiego odkrywania."
       },
       "gastro_picks": {
         "de": [
@@ -1419,6 +1530,12 @@
           "In Poland, it is mandatory to drive with dipped headlights on even during the day.",
           "Parking fees at machines can often only be paid with coins or an app.",
           "Plan your drive between clusters outside of peak hours."
+        ],
+        "pl": [
+          "Użyj aplikacji nawigacyjnej, by znaleźć parkingi przy skupiskach.",
+          "W Polsce obowiązkowe jest jazda na światłach mijania nawet w ciągu dnia.",
+          "Opłaty parkingowe w parkomatach często można płacić tylko monetami lub przez aplikację.",
+          "Planuj jazdę między skupiskami poza godzinami szczytu."
         ]
       },
       "variants": {
@@ -1427,7 +1544,8 @@
             "de": "Mit dem Auto erkunden wir Nowy Sącz bequem trotz Dauerregen. Wir parken zentrumsnah für den Rynek und das Rathaus, wobei der Regenschirm nur für kurze Wege nötig ist. Die Fahrt zu den Schlossruinen und zum Mittagessen in der Altstadt bleibt trocken. Am Nachmittag steuern wir direkt den Parkplatz des Ethnographischen Parks an und besuchen die Galizische Stadt, bevor wir entspannt heimfahren.",
             "hu": "Autóval kényelmesen fedezzük fel Nowy Sącz városát a szakadó eső ellenére is. A belvárosban parkolunk a főtérnél, az esernyőre csak a rövid sétákhoz van szükség. A várromokhoz és az óvárosi ebédhez vezető út száraz marad a kocsiban. Délután közvetlenül a skanzen parkolójába hajtunk, majd a Galíciai Várost látogatjuk meg, mielőtt hazaindulnánk.",
             "ro": "Cu mașina explorăm Nowy Sącz confortabil, în ciuda ploii continue. Parcăm aproape de centru pentru piață și primărie, umbrela fiind necesară doar pentru distanțe scurte. Drumul spre ruine și prânzul rămân uscate în interiorul mașinii. După-amiaza mergem direct la parcarea parcului etnografic, vizitând și Orașul Galițian înainte de plecare.",
-            "en": "By car, we explore Nowy Sącz comfortably despite the steady rain. We park near the center for the Rynek and Town Hall, needing an umbrella only for short walks. The drive to the castle ruins and lunch remains dry. In the afternoon, we head directly to the Ethnographic Park parking lot and visit Galician Town before a relaxed drive home."
+            "en": "By car, we explore Nowy Sącz comfortably despite the steady rain. We park near the center for the Rynek and Town Hall, needing an umbrella only for short walks. The drive to the castle ruins and lunch remains dry. In the afternoon, we head directly to the Ethnographic Park parking lot and visit Galician Town before a relaxed drive home.",
+            "pl": "Samochodem zwiedzamy Nowy Sącz wygodnie mimo stałego deszczu. Parkujemy blisko centrum przy Rynku i Ratuszu, potrzebując parasola tylko na krótkie spacery. Przejazd do ruin zamku i na obiad pozostaje suchy. Po południu jedziemy prosto na parking Skansenu i odwiedzamy Miasto Galicyjskie, po czym spokojnie wracamy do domu."
           },
           "stops": [
             {
@@ -1436,7 +1554,8 @@
                 "de": "Überdachte Parkplätze sind in der Innenstadt begrenzt; halten Sie einen Schirm bereit.",
                 "hu": "A fedett parkolóhelyek száma korlátozott; legyen kéznél esernyő.",
                 "ro": "Locurile de parcare acoperite sunt limitate; aveți umbrela pregătită.",
-                "en": "Covered parking spots are limited; have an umbrella ready."
+                "en": "Covered parking spots are limited; have an umbrella ready.",
+                "pl": "Zadaszonych miejsc parkingowych jest mało; miej pod ręką parasol."
               }
             },
             {
@@ -1445,7 +1564,8 @@
                 "de": "Kurze Laufwege machen diesen Stopp auch bei starkem Regen angenehm.",
                 "hu": "A rövid gyalogutak miatt ez a megálló erős esőben is élvezhető.",
                 "ro": "Distanțele scurte pe jos fac această oprire plăcută chiar și pe ploaie.",
-                "en": "Short walking distances make this stop pleasant even in heavy rain."
+                "en": "Short walking distances make this stop pleasant even in heavy rain.",
+                "pl": "Krótki dystans pieszy sprawia, że przystanek jest przyjemny nawet przy ulewnym deszczu."
               }
             },
             {
@@ -1454,7 +1574,8 @@
                 "de": "Parken Sie direkt am Fuße des Schlosshügels für minimalen Regen-Kontakt.",
                 "hu": "Parkoljon közvetlenül a várdomb lábánál, hogy keveset ázzon.",
                 "ro": "Parcați direct la baza dealului castelului pentru contact minim cu ploaia.",
-                "en": "Park directly at the foot of the castle hill for minimal rain exposure."
+                "en": "Park directly at the foot of the castle hill for minimal rain exposure.",
+                "pl": "Zaparkuj bezpośrednio u stóp wzgórza zamkowego, aby zminimalizować ekspozycję na deszcz."
               }
             },
             {
@@ -1463,7 +1584,8 @@
                 "de": "Nutzen Sie Park-Apps, um die Parkzeit bei Regen flexibel zu verlängern.",
                 "hu": "Használjon parkoló-appot az idő rugalmas meghosszabbításához esőben.",
                 "ro": "Folosiți aplicații de parcare pentru a prelungi timpul flexibil pe ploaie.",
-                "en": "Use parking apps to flexibly extend your parking time during rain."
+                "en": "Use parking apps to flexibly extend your parking time during rain.",
+                "pl": "Korzystaj z aplikacji parkingowych, aby elastycznie przedłużać czas parkowania podczas deszczu."
               }
             },
             {
@@ -1472,7 +1594,8 @@
                 "de": "Der Parkplatz ist asphaltiert und liegt nah am Eingang.",
                 "hu": "A parkoló aszfaltozott és közel fekszik a bejárathoz.",
                 "ro": "Parcarea este asfaltată și situată aproape de intrare.",
-                "en": "The parking lot is paved and located close to the entrance."
+                "en": "The parking lot is paved and located close to the entrance.",
+                "pl": "Parking jest utwardzony i znajduje się blisko wejścia."
               }
             },
             {
@@ -1481,7 +1604,8 @@
                 "de": "Ein idealer Ort für einen schnellen Besuch zwischen den Schauern.",
                 "hu": "Ideális helyszín egy gyors látogatáshoz két zápor között.",
                 "ro": "Un loc ideal pentru o vizită rapidă între averse.",
-                "en": "An ideal location for a quick visit between rain showers."
+                "en": "An ideal location for a quick visit between rain showers.",
+                "pl": "Idealne miejsce na krótką wizytę między przelotnymi opadami deszczu."
               }
             }
           ],
@@ -1513,6 +1637,13 @@
               "Some streets in the old town may experience minor flooding during heavy rain.",
               "Central parking spots are paid but save you significant time.",
               "Use the seat heaters to warm up quickly after short walks."
+            ],
+            "pl": [
+              "Widoczność w mieście może być ograniczona podczas ulewnych deszczy.",
+              "Przechowuj mokre parasole w bagażniku, aby uniknąć zaparowanych szyb.",
+              "Niektóre ulice na starówce mogą się nieznacznie zalewać podczas intensywnych opadów.",
+              "Miejsca centralne są płatne, ale oszczędzają dużo czasu.",
+              "Użyj podgrzewania siedzeń, by szybko się ogrzać po krótkich spacerach."
             ]
           }
         },
@@ -1521,7 +1652,8 @@
             "de": "Eine winterliche Autofahrt führt uns durch das verschneite Nowy Sącz. Wir genießen den warmen Wagen zwischen den Stopps am Rynek und der Basilika. Die Fahrt zu den Schlossruinen bietet einen tollen Blick auf das Winterpanorama. Mittags kehren wir in ein gut beheiztes Restaurant ein. Den Nachmittag verbringen wir im stimmungsvoll verschneiten Ethnographischen Park, bevor wir die Rückfahrt bei einsetzender Dunkelheit antreten.",
             "hu": "A téli autózás során a havas Nowy Sącz utcáin kalandozunk. Élvezzük a meleg utasteret a főtéri és bazilikai megállók között. A várromokhoz vezető út gyönyörű téli panorámát kínál. Délben egy jól fűtött étteremben ebédelünk. A délutánt a hangulatosan hófödte skanzenben töltjük, mielőtt a sötétedéssel egy időben hazaindulnánk.",
             "ro": "O călătorie de iarnă cu mașina ne poartă prin Nowy Sącz-ul înzăpezit. Ne bucurăm de căldura mașinii între opririle din piață și basilică. Drumul spre ruine oferă o panoramă de iarnă superbă. La prânz luăm masa într-un restaurant bine încălzit. După-amiaza o petrecem în parcul etnografic nins, înainte de a pleca spre casă odată cu lăsarea serii.",
-            "en": "A winter car journey takes us through snowy Nowy Sącz. We enjoy the warm car interior between stops at the Rynek and Basilica. The drive to the castle ruins offers a great view of the winter panorama. At noon, we dine in a well-heated restaurant. We spend the afternoon in the atmospherically snowy Ethnographic Park before heading back as darkness sets in."
+            "en": "A winter car journey takes us through snowy Nowy Sącz. We enjoy the warm car interior between stops at the Rynek and Basilica. The drive to the castle ruins offers a great view of the winter panorama. At noon, we dine in a well-heated restaurant. We spend the afternoon in the atmospherically snowy Ethnographic Park before heading back as darkness sets in.",
+            "pl": "Zimowa podróż samochodem prowadzi nas przez zaśnieżony Nowy Sącz. Cieszymy się ciepłym wnętrzem auta między postojami na Rynku i przy bazylice. Jazda do ruin zamku oferuje świetny widok na zimową panoramę. W południe jemy obiad w dobrze ogrzanej restauracji. Popołudnie spędzamy w nastrojowym, zaśnieżonym Parku Etnograficznym, po czym wracamy, gdy zapada zmrok."
           },
           "stops": [
             {
@@ -1530,7 +1662,8 @@
                 "de": "Befreien Sie das Auto vollständig von Schnee, bevor Sie losfahren.",
                 "hu": "Indulás előtt teljesen takarítsa le a havat az autóról.",
                 "ro": "Curățați complet mașina de zăpadă înainte de a pleca la drum.",
-                "en": "Completely clear the snow off your car before starting the journey."
+                "en": "Completely clear the snow off your car before starting the journey.",
+                "pl": "Dokładnie usuń śnieg z samochodu przed rozpoczęciem podróży."
               }
             },
             {
@@ -1539,7 +1672,8 @@
                 "de": "Vorsicht vor Eiszapfen an historischen Gebäuden beim Parken.",
                 "hu": "Parkoláskor ügyeljen a történelmi épületekről lelógó jégcsapokra.",
                 "ro": "Atenție la țurțurii de pe clădirile istorice când parcați.",
-                "en": "Watch out for icicles on historic buildings when parking nearby."
+                "en": "Watch out for icicles on historic buildings when parking nearby.",
+                "pl": "Uważaj na sopelki na zabytkowych budynkach, gdy parkujesz w pobliżu."
               }
             },
             {
@@ -1548,7 +1682,8 @@
                 "de": "Die Zufahrt zum Schlossparkplatz kann bei Glätte tückisch sein.",
                 "hu": "A várparkolóhoz vezető út jegesedés esetén trükkös lehet.",
                 "ro": "Accesul spre parcarea castelului poate fi înșelător pe polei.",
-                "en": "Access to the castle parking can be tricky during icy conditions."
+                "en": "Access to the castle parking can be tricky during icy conditions.",
+                "pl": "Dostęp do parkingu przy zamku może być utrudniony przy oblodzeniu."
               }
             },
             {
@@ -1557,7 +1692,8 @@
                 "de": "Reservieren Sie einen Tisch in der Nähe der Heizung oder des Kamins.",
                 "hu": "Foglaljon asztalt a fűtőtest vagy a kandalló közelében.",
                 "ro": "Rezervați o masă lângă calorifer sau șemineu.",
-                "en": "Book a table near a heater or fireplace for extra comfort."
+                "en": "Book a table near a heater or fireplace for extra comfort.",
+                "pl": "Zarezerwuj stolik przy ogrzewaniu lub kominku dla dodatkowego komfortu."
               }
             },
             {
@@ -1566,7 +1702,8 @@
                 "de": "Prüfen Sie den Winterdienst auf der Zufahrtsstraße zum Park.",
                 "hu": "Ellenőrizze a hóeltakarítást a parkhoz vezető bekötőúton.",
                 "ro": "Verificați dacă drumul de acces spre parc a fost deszăpezit.",
-                "en": "Check if the access road to the park has been cleared of snow."
+                "en": "Check if the access road to the park has been cleared of snow.",
+                "pl": "Sprawdź, czy droga dojazdowa do parku została odśnieżona."
               }
             },
             {
@@ -1575,7 +1712,8 @@
                 "de": "Die Parkplatzbeleuchtung schaltet sich bei früher Dämmerung ein.",
                 "hu": "A parkoló világítása a korai szürkületben automatikusan bekapcsol.",
                 "ro": "Iluminatul parcării se aprinde la lăsarea timpurie a serii.",
-                "en": "Parking lot lights turn on during the early winter twilight."
+                "en": "Parking lot lights turn on during the early winter twilight.",
+                "pl": "Światła na parkingu zapalają się podczas wczesnego zimowego zmroku."
               }
             }
           ],
@@ -1607,6 +1745,13 @@
               "Finding a parking spot near Rynek can take longer during heavy snowfall.",
               "Be aware of road salt which can damage paint; plan a car wash later.",
               "A battery check before the trip is advisable during low temperatures."
+            ],
+            "pl": [
+              "Opony zimowe są obowiązkowe w tym regionie górskim od listopada do marca.",
+              "Miej w pojeździe skrobaczkę do szyb i odmrażacz w sprayu.",
+              "Znalezienie miejsca parkingowego blisko Rynku może zająć więcej czasu podczas intensywnych opadów śniegu.",
+              "Uważaj na sól drogową, która może uszkodzić lakier; zaplanuj późniejsze mycie auta.",
+              "Przy niskich temperaturach zaleca się sprawdzenie akumulatora przed wyjazdem."
             ]
           }
         }
@@ -1625,7 +1770,8 @@
             "de": "Ankunft am Marktplatz (Rynek)",
             "hu": "Érkezés a Piactérre (Rynek)",
             "ro": "Sosire în Piața Centrală (Rynek)",
-            "en": "Arrival at Market Square (Rynek)"
+            "en": "Arrival at Market Square (Rynek)",
+            "pl": "Przyjazd na Rynek (Market Square)"
           },
           "coords": [
             20.6973,
@@ -1641,7 +1787,8 @@
             "de": "Suchen Sie die nächste Bushaltestelle, um sich für den späteren Cluster-Wechsel zu orientieren.",
             "hu": "Keresse meg a legközelebbi buszmegállót, hogy tájékozódjon a későbbi klaszterváltáshoz.",
             "ro": "Localizați cea mai apropiată stație de autobuz pentru a vă orienta pentru schimbarea ulterioară a clusterului.",
-            "en": "Locate the nearest bus stop to get your bearings for the later cluster change."
+            "en": "Locate the nearest bus stop to get your bearings for the later cluster change.",
+            "pl": "Znajdź najbliższy przystanek autobusowy, by zorientować się przed późniejszą zmianą trasy."
           }
         },
         {
@@ -1649,7 +1796,8 @@
             "de": "Rathaus & Basilika St. Margareta",
             "hu": "Városháza és Szent Margit-bazilika",
             "ro": "Primăria & Bazilica Sf. Margareta",
-            "en": "Town Hall & St. Margaret's Basilica"
+            "en": "Town Hall & St. Margaret's Basilica",
+            "pl": "Ratusz i Bazylika św. Małgorzaty"
           },
           "coords": [
             20.698,
@@ -1665,7 +1813,8 @@
             "de": "Diese beiden Hauptattraktionen des ersten Clusters sind nur einen Steinwurf voneinander entfernt.",
             "hu": "Az első klaszter e két fő látványossága csak egy kőhajításnyira van egymástól.",
             "ro": "Aceste două atracții principale ale primului cluster sunt la o aruncătură de băț una de cealaltă.",
-            "en": "These two main attractions of the first cluster are just a stone's throw from each other."
+            "en": "These two main attractions of the first cluster are just a stone's throw from each other.",
+            "pl": "Te dwie główne atrakcje pierwszego skupiska są bardzo blisko siebie."
           }
         },
         {
@@ -1673,7 +1822,8 @@
             "de": "Bezirksmuseum (Luberadzki-Haus)",
             "hu": "Körzeti Múzeum (Luberadzki-ház)",
             "ro": "Muzeul Districtual (Casa Luberadzki)",
-            "en": "District Museum (Luberadzki House)"
+            "en": "District Museum (Luberadzki House)",
+            "pl": "Muzeum Rejonowe (Dom Luberadzkich)"
           },
           "coords": [
             20.695,
@@ -1689,7 +1839,8 @@
             "de": "Perfekt für die Mittagszeit, um der Hektik zu entfliehen und in die Geschichte einzutauchen.",
             "hu": "Tökéletes ebédidőben, hogy elmeneküljön a nyüzsgés elől és elmerüljön a történelemben.",
             "ro": "Perfect pentru amiază pentru a scăpa de agitație și a vă cufunda în istorie.",
-            "en": "Perfect for midday to escape the hustle and bustle and delve into history."
+            "en": "Perfect for midday to escape the hustle and bustle and delve into history.",
+            "pl": "Idealne na południe, by uchylić się od zgiełku i zanurzyć w historię."
           }
         },
         {
@@ -1697,7 +1848,8 @@
             "de": "Ruinen des Königsschlosses",
             "hu": "Királyi vár romjai",
             "ro": "Ruinele Castelului Regal",
-            "en": "Ruins of the Royal Castle"
+            "en": "Ruins of the Royal Castle",
+            "pl": "Ruiny Zamku Królewskiego"
           },
           "coords": [
             20.693,
@@ -1713,7 +1865,8 @@
             "de": "Der letzte Halt im ersten Cluster, bevor Sie den Bus zum nächsten Ziel nehmen.",
             "hu": "Az első klaszter utolsó állomása, mielőtt buszra szállna a következő célponthoz.",
             "ro": "Ultima oprire din primul cluster înainte de a lua autobuzul spre următoarea destinație.",
-            "en": "The last stop in the first cluster before you take the bus to the next destination."
+            "en": "The last stop in the first cluster before you take the bus to the next destination.",
+            "pl": "Ostatni przystanek w pierwszym skupisku, zanim wsiądziesz do autobusu do następnego miejsca."
           }
         },
         {
@@ -1721,7 +1874,8 @@
             "de": "Fahrt zum Sądecker Ethnographenpark",
             "hu": "Buszozás a Szandeci Néprajzi Parkhoz",
             "ro": "Călătorie cu autobuzul la Parcul Etnografic",
-            "en": "Bus ride to the Sądecki Ethnographic Park"
+            "en": "Bus ride to the Sądecki Ethnographic Park",
+            "pl": "Przejazd autobusem do Sądeckiego Parku Etnograficznego"
           },
           "coords": [
             20.715,
@@ -1737,7 +1891,8 @@
             "de": "Kaufen Sie Ihr Ticket im Voraus an einem Kiosk oder per App.",
             "hu": "Vásárolja meg a jegyét előre egy kioszkban vagy alkalmazáson keresztül.",
             "ro": "Cumpărați-vă biletul în avans de la un chioșc sau prin aplicație.",
-            "en": "Buy your ticket in advance at a kiosk or via an app."
+            "en": "Buy your ticket in advance at a kiosk or via an app.",
+            "pl": "Kup bilet z wyprzedzeniem w kiosku lub przez aplikację."
           }
         },
         {
@@ -1745,7 +1900,8 @@
             "de": "Galizisches Städtchen",
             "hu": "Galíciai kisváros",
             "ro": "Micul Oraș Galițian",
-            "en": "Galician Town"
+            "en": "Galician Town",
+            "pl": "Miasteczko Galicyjskie"
           },
           "coords": [
             20.716,
@@ -1761,7 +1917,8 @@
             "de": "Ein nahtloser Übergang vom Ethnographenpark, alles zu Fuß erreichbar.",
             "hu": "Zökkenőmentes átmenet a Néprajzi Parkból, minden gyalogosan elérhető.",
             "ro": "O tranziție fără probleme de la Parcul Etnografic, totul fiind la distanță de mers pe jos.",
-            "en": "A seamless transition from the Ethnographic Park, all within walking distance."
+            "en": "A seamless transition from the Ethnographic Park, all within walking distance.",
+            "pl": "Płynne przejście z Parku Etnograficznego, wszystko w zasięgu spaceru."
           }
         }
       ],
@@ -1769,7 +1926,8 @@
         "de": "Mit öffentlichen Verkehrsmitteln entdecken Sie Nowy Sącz wie ein Einheimischer. Sie beginnen im Herzen der Stadt, dem Rynek, und erkunden den ersten Cluster mit historischen Gebäuden zu Fuß. Am Nachmittag bringt Sie ein lokaler Bus bequem zum zweiten Cluster, dem Ethnographenpark. Dort tauchen Sie wieder als Fußgänger in die Vergangenheit ein. Diese Methode ist effizient, günstig und bietet authentische Einblicke in das Stadtleben.",
         "hu": "Tömegközlekedéssel úgy fedezheti fel Újszandecet, mint egy helyi. A város szívében, a Ryneken kezd, és gyalog fedezi fel az első klasztert a történelmi épületekkel. Délután egy helyi busz kényelmesen elviszi a második klaszterhez, a Néprajzi Parkhoz. Ott ismét gyalogosként merül el a múltban. Ez a módszer hatékony, olcsó és autentikus betekintést nyújt a városi életbe.",
         "ro": "Cu transportul public, descoperiți Nowy Sącz ca un localnic. Începeți în inima orașului, Rynek, și explorați pe jos primul cluster de clădiri istorice. După-amiaza, un autobuz local vă duce confortabil la al doilea cluster, Parcul Etnografic. Acolo, vă cufundați din nou în trecut ca pieton. Această metodă este eficientă, ieftină și oferă o perspectivă autentică asupra vieții urbane.",
-        "en": "Using public transport, you'll discover Nowy Sącz like a local. You start in the heart of the city, the Rynek, and explore the first cluster of historic buildings on foot. In the afternoon, a local bus comfortably takes you to the second cluster, the Ethnographic Park. There, you once again immerse yourself in the past as a pedestrian. This method is efficient, affordable, and offers authentic insights into city life."
+        "en": "Using public transport, you'll discover Nowy Sącz like a local. You start in the heart of the city, the Rynek, and explore the first cluster of historic buildings on foot. In the afternoon, a local bus comfortably takes you to the second cluster, the Ethnographic Park. There, you once again immerse yourself in the past as a pedestrian. This method is efficient, affordable, and offers authentic insights into city life.",
+        "pl": "Korzystając z transportu publicznego, odkryjesz Nowy Sącz jak miejscowy. Zaczynasz w sercu miasta, na Rynku, i pieszo zwiedzasz pierwsze skupisko zabytków. Po południu lokalny autobus komfortowo zabierze cię do drugiego skupiska — Parku Etnograficznego. Tam ponownie zanurzasz się w przeszłości jako pieszy. Ta metoda jest efektywna, niedroga i daje autentyczne wglądy w życie miasta."
       },
       "gastro_picks": {
         "de": [
@@ -1893,6 +2051,12 @@
           "A day ticket is often cheaper than several single tickets.",
           "Be aware of rush hours in the morning and late afternoon.",
           "Always give up your seat to elderly people on the bus."
+        ],
+        "pl": [
+          "Pobierz lokalną aplikację transportu publicznego, aby sprawdzić rozkłady i trasy.",
+          "Bilet dzienny często jest tańszy niż kilka pojedynczych biletów.",
+          "Zwróć uwagę na godziny szczytu rano i późnym popołudniem.",
+          "Na autobusie zawsze ustępuj miejsca osobom starszym."
         ]
       },
       "variants": {
@@ -1901,7 +2065,8 @@
             "de": "Mit dem Bus navigieren wir trocken durch das regnerische Nowy Sącz. Wir starten am Rynek und nutzen die Wartehallen für die Fahrt zur Basilika und zum Museum. Die Verbindung zu den Schlossruinen ist effizient. Nachmittags bringt uns der Bus zum Ethnographischen Park, wobei wir die Fahrpläne per App checken, um Regenpausen optimal zu nutzen. Der Tag endet mit einer entspannten Busfahrt zurück zum Hauptknotenpunkt.",
             "hu": "Busszal szárazon navigálunk az esős Nowy Sącz utcáin. A főtéren kezdünk, kihasználva a fedett várókat a bazilikához és a múzeumhoz vezető úton. A várromokhoz való csatlakozás hatékony. Délután a busz közvetlenül a skanzenhez visz; az applikációval figyeljük a menetrendet, hogy elkerüljük a kint várakozást. A nap egy kényelmes buszozással zárul vissza a csomópont felé.",
             "ro": "Cu autobuzul navigăm fără să ne udăm prin Nowy Sącz-ul ploios. Începem în Piața Mare și folosim stațiile acoperite pentru drumul spre basilică și muzeu. Conexiunea spre ruine este eficientă. După-amiaza luăm autobuzul spre parcul etnografic; verificăm orarul pe aplicație pentru a minimiza așteptarea în ploaie. Ziua se încheie cu o călătorie relaxată spre nodul principal.",
-            "en": "By bus, we navigate dryly through rainy Nowy Sącz. We start at the Rynek and use sheltered bus stops for the journey to the Basilica and Museum. The connection to the castle ruins is efficient. In the afternoon, the bus takes us to the Ethnographic Park; we check the app to time our arrival and avoid waiting in the rain. The day ends with a relaxed bus ride back to the main hub."
+            "en": "By bus, we navigate dryly through rainy Nowy Sącz. We start at the Rynek and use sheltered bus stops for the journey to the Basilica and Museum. The connection to the castle ruins is efficient. In the afternoon, the bus takes us to the Ethnographic Park; we check the app to time our arrival and avoid waiting in the rain. The day ends with a relaxed bus ride back to the main hub.",
+            "pl": "Autobusem poruszamy się sucho przez deszczowy Nowy Sącz. Zaczynamy na Rynku i korzystamy z zadaszonych przystanków, by dotrzeć do Bazyliki i Muzeum. Połączenie do ruin zamku jest sprawne. Po południu autobus zabiera nas do Parku Etnograficznego; sprawdzamy aplikację, by tak zaplanować przyjazd, by nie czekać na deszczu. Dzień kończy się relaksującą jazdą autobusem z powrotem do głównego węzła."
           },
           "stops": [
             {
@@ -1910,7 +2075,8 @@
                 "de": "Die Haltestellen am Rynek verfügen über digitale Anzeigen und Regenschutz.",
                 "hu": "A Rynek megállói digitális kijelzővel és esővédővel felszereltek.",
                 "ro": "Stațiile de la Rynek au afișaj digital și protecție împotriva ploii.",
-                "en": "The bus stops at Rynek feature digital displays and rain shelters."
+                "en": "The bus stops at Rynek feature digital displays and rain shelters.",
+                "pl": "Na przystankach przy Rynku są cyfrowe wyświetlacze i zadaszenia chroniące przed deszczem."
               }
             },
             {
@@ -1919,7 +2085,8 @@
                 "de": "In der Nähe gibt es mehrere Kioske zum Kauf von Fahrkarten im Trockenen.",
                 "hu": "A közelben számos kioszkban vásárolható jegy fedett helyen.",
                 "ro": "Există mai multe chioșcuri în apropiere de unde puteți cumpăra bilete la adăpost.",
-                "en": "There are several kiosks nearby where you can buy tickets while staying dry."
+                "en": "There are several kiosks nearby where you can buy tickets while staying dry.",
+                "pl": "W pobliżu jest kilka kiosków, gdzie możesz kupić bilety, pozostając suchym."
               }
             },
             {
@@ -1928,7 +2095,8 @@
                 "de": "Der Fußweg von der Bushaltestelle zum Museum ist kurz und gut befestigt.",
                 "hu": "A buszmegállótól a múzeumig vezető gyalogút rövid és jól kiépített.",
                 "ro": "Drumul de la stația de autobuz la muzeu este scurt și bine amenajat.",
-                "en": "The walk from the bus stop to the museum is short and well-paved."
+                "en": "The walk from the bus stop to the museum is short and well-paved.",
+                "pl": "Spacer z przystanku do muzeum jest krótki i dobrze utwardzony."
               }
             },
             {
@@ -1937,7 +2105,8 @@
                 "de": "Nutzen Sie die Wartehäuschen an der Haltestelle 'Zamek'.",
                 "hu": "Használja a 'Zamek' megállóban található fedett várót.",
                 "ro": "Folosiți refugiul din stația 'Zamek' pentru a vă proteja de ploaie.",
-                "en": "Use the shelters at the 'Zamek' bus stop to stay dry."
+                "en": "Use the shelters at the 'Zamek' bus stop to stay dry.",
+                "pl": "Skorzystaj z zadaszeń na przystanku 'Zamek', by pozostać suchym."
               }
             },
             {
@@ -1946,7 +2115,8 @@
                 "de": "Die Linie 7 oder 23 bringt Sie direkt zum Eingang des Parks.",
                 "hu": "A 7-es vagy 23-as járat közvetlenül a park bejáratához visz.",
                 "ro": "Liniile 7 sau 23 vă duc direct la intrarea în parc.",
-                "en": "Bus lines 7 or 23 take you directly to the park entrance."
+                "en": "Bus lines 7 or 23 take you directly to the park entrance.",
+                "pl": "Linie autobusowe 7 lub 23 zabierają cię prosto pod wejście do parku."
               }
             },
             {
@@ -1955,7 +2125,8 @@
                 "de": "Halten Sie die Fahrkarte für die Rückfahrt griffbereit.",
                 "hu": "Tartsa kéznél a jegyét a visszaúthoz.",
                 "ro": "Aveți biletul pregătit pentru drumul de întoarcere.",
-                "en": "Keep your ticket ready for the return journey."
+                "en": "Keep your ticket ready for the return journey.",
+                "pl": "Miej gotowy bilet na podróż powrotną."
               }
             }
           ],
@@ -1987,6 +2158,13 @@
               "Main lines run every 15-20 minutes.",
               "Bus stops often have small shops nearby for a quick snack in the dry.",
               "Watch out for puddles when boarding or alighting at the curbside."
+            ],
+            "pl": [
+              "Kup bilety z wyprzedzeniem przez aplikacje 'moBilet' lub 'SkyCash'.",
+              "Autobusy często są zatłoczone podczas deszczu; uwzględnij dodatkowy czas.",
+              "Główne linie kursują co 15–20 minut.",
+              "Przy przystankach często są małe sklepy na szybki suchy posiłek.",
+              "Uważaj na kałuże przy wsiadaniu i wysiadaniu przy krawężniku."
             ]
           }
         },
@@ -1995,7 +2173,8 @@
             "de": "Winterliches Nowy Sącz erleben wir gemütlich mit dem beheizten Nahverkehr. Wir starten am Rynek und fahren zur Basilika, wobei wir die Wartezeit in Cafés verkürzen. Die Fahrt zum Schloss bietet tolle Ausblicke auf schneebedeckte Dächer. Nachmittags bringt uns der Bus zum Ethnographischen Park, wo wir die Winterstille genießen. Den Rückweg treten wir frühzeitig an, um der Kälte der Dämmerung zu entgehen.",
             "hu": "A téli Nowy Sącz-ot kényelmesen, fűtött tömegközlekedéssel fedezzük fel. A főtérről indulunk a bazilikához, a várakozási időt a közeli kávézókban töltve. A várhoz vezető út pazar kilátást nyújt a hófödte tetőkre. Délután busz visz a skanzenbe, ahol átéljük a téli csendet. Korán indulunk vissza, hogy elkerüljük a szürkületi nagy hideget.",
             "ro": "Explorăm Nowy Sącz-ul de iarnă confortabil, folosind transportul public încălzit. Plecăm din Rynek spre basilică, scurtând timpul de așteptare în cafenele. Drumul spre castel oferă vederi superbe spre acoperișurile nânse. După-amiaza autobuzul ne duce la parcul etnografic, unde savurăm liniștea iernii. Ne întoarcem devreme pentru a evita gerul serii.",
-            "en": "We experience winter in Nowy Sącz comfortably using heated public transit. Starting at the Rynek, we head to the Basilica, minimizing wait times by staying in nearby cafes. The ride to the castle offers great views of snow-covered rooftops. In the afternoon, the bus takes us to the Ethnographic Park, where we enjoy the winter silence. We return early to escape the twilight chill."
+            "en": "We experience winter in Nowy Sącz comfortably using heated public transit. Starting at the Rynek, we head to the Basilica, minimizing wait times by staying in nearby cafes. The ride to the castle offers great views of snow-covered rooftops. In the afternoon, the bus takes us to the Ethnographic Park, where we enjoy the winter silence. We return early to escape the twilight chill.",
+            "pl": "Zimą w Nowym Sączu korzystamy wygodnie z ogrzewanego transportu publicznego. Z Rynku jedziemy do Bazyliki, skracając czas oczekiwania przez schowanie się w pobliskich kawiarniach. Przejazd do ruin zamku oferuje piękne widoki na zaśnieżone dachy. Po południu autobus zabiera nas do Parku Etnograficznego, gdzie delektujemy się zimową ciszą. Wracamy wcześnie, aby uniknąć wieczornego chłodu."
           },
           "stops": [
             {
@@ -2004,7 +2183,8 @@
                 "de": "Warten Sie in den beheizten Geschäften am Platz, bis der Bus kommt.",
                 "hu": "Várjon a tér fűtött üzleteiben, amíg megérkezik a busz.",
                 "ro": "Așteptați în magazinele încălzite din piață până vine autobuzul.",
-                "en": "Wait inside the heated shops on the square until the bus arrives."
+                "en": "Wait inside the heated shops on the square until the bus arrives.",
+                "pl": "Poczekaj w ogrzanych sklepach na placu, aż przyjedzie autobus."
               }
             },
             {
@@ -2013,7 +2193,8 @@
                 "de": "Die Haltestellen werden regelmäßig von Schnee und Eis befreit.",
                 "hu": "A megállókat rendszeresen takarítják a hótól és a jégtől.",
                 "ro": "Stațiile sunt curățate regulat de zăpadă și gheață.",
-                "en": "Bus stops are regularly cleared of snow and ice."
+                "en": "Bus stops are regularly cleared of snow and ice.",
+                "pl": "Przystanki są regularnie odśnieżane i posypywane przeciwlodowo."
               }
             },
             {
@@ -2022,7 +2203,8 @@
                 "de": "Busse sind im Winter gut beheizt; ideal zum Aufwärmen.",
                 "hu": "A buszok télen jól fűtöttek; ideálisak az átmelegedéshez.",
                 "ro": "Autobuzele sunt bine încălzite iarna; ideale pentru a vă încălzi.",
-                "en": "Buses are well-heated in winter; ideal for warming up between stops."
+                "en": "Buses are well-heated in winter; ideal for warming up between stops.",
+                "pl": "Autobusy są dobrze ogrzewane zimą; idealne do rozgrzania się między postojami."
               }
             },
             {
@@ -2031,7 +2213,8 @@
                 "de": "Tragen Sie rutschfeste Schuhe für den Weg von der Haltestelle zum Schloss.",
                 "hu": "Viseljen csúszásmentes talpú cipőt a megállótól a várig vezető úton.",
                 "ro": "Purtați încălțăminte antiderapantă pentru drumul de la stație la castel.",
-                "en": "Wear non-slip shoes for the walk from the bus stop to the castle."
+                "en": "Wear non-slip shoes for the walk from the bus stop to the castle.",
+                "pl": "Noś buty z antypoślizgową podeszwą na spacer z przystanku do zamku."
               }
             },
             {
@@ -2040,7 +2223,8 @@
                 "de": "Im Winter kann es zu leichten Verspätungen im Busnetz kommen.",
                 "hu": "Télen előfordulhatnak kisebb késések a buszhálózaton.",
                 "ro": "Iarna pot apărea ușoare întârzieri în rețeaua de autobuze.",
-                "en": "Slight delays in the bus network can occur during winter weather."
+                "en": "Slight delays in the bus network can occur during winter weather.",
+                "pl": "Niewielkie opóźnienia w komunikacji autobusowej mogą wystąpić podczas zimowej pogody."
               }
             },
             {
@@ -2049,7 +2233,8 @@
                 "de": "Die letzte Busverbindung vor Sonnenuntergang ist meist die beste Wahl.",
                 "hu": "A naplemente előtti utolsó buszjárat általában a legjobb választás.",
                 "ro": "Ultima cursă de autobuz înainte de apus este de obicei cea mai bună alegere.",
-                "en": "The last bus connection before sunset is usually the best choice."
+                "en": "The last bus connection before sunset is usually the best choice.",
+                "pl": "Ostatnie połączenie przed zachodem słońca jest zwykle najlepszym wyborem."
               }
             }
           ],
@@ -2081,6 +2266,13 @@
               "Bus stops near the park have less shelter; time your arrival precisely.",
               "Buses are a safe mode of transport when roads are slippery.",
               "Keeping some coins for ticket machines is useful if card readers freeze up."
+            ],
+            "pl": [
+              "Rozkłady autobusów mogą się zmieniać w czasie zimowych wakacji.",
+              "Użyj aplikacji 'Jakdojade' do połączeń w czasie rzeczywistym.",
+              "Przystanki przy parku mają mniej zadaszeń; precyzyjnie zaplanuj przyjazd.",
+              "Autobusy są bezpiecznym środkiem transportu przy śliskich drogach.",
+              "Przydatne jest trzymanie kilku monet na automaty biletowe, jeśli czytniki kart zamarzną."
             ]
           }
         }

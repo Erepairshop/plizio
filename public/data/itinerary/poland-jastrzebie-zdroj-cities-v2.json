@@ -21,7 +21,8 @@
             "de": "Kurpark (Park Zdrojowy)",
             "hu": "Gyógypark (Park Zdrojowy)",
             "ro": "Parcul balnear (Park Zdrojowy)",
-            "en": "Spa Park (Park Zdrojowy)"
+            "en": "Spa Park (Park Zdrojowy)",
+            "pl": "Spa Park (Park Zdrojowy)"
           },
           "coords": [
             18.6033,
@@ -36,7 +37,8 @@
             "de": "Beginnen Sie den Tag mit einem Spaziergang entlang der Hauptallee.",
             "hu": "Kezdje a napot egy sétával a fő sétányon.",
             "ro": "Începeți ziua cu o plimbare pe aleea principală.",
-            "en": "Start your day with a stroll along the main avenue."
+            "en": "Start your day with a stroll along the main avenue.",
+            "pl": "Rozpocznij dzień spacerem główną aleją."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Kurhaus (Dom Zdrojowy)",
             "hu": "Gyógyház (Dom Zdrojowy)",
             "ro": "Casa balneară (Dom Zdrojowy)",
-            "en": "Spa House (Dom Zdrojowy)"
+            "en": "Spa House (Dom Zdrojowy)",
+            "pl": "Spa House (Dom Zdrojowy)"
           },
           "coords": [
             18.6045,
@@ -59,7 +62,8 @@
             "de": "Bewundern Sie die historische Architektur dieses zentralen Spa-Gebäudes.",
             "hu": "Csodálja meg ennek a központi gyógyépületnek a történelmi építészetét.",
             "ro": "Admirați arhitectura istorică a acestei clădiri balneare centrale.",
-            "en": "Admire the historic architecture of this central spa building."
+            "en": "Admire the historic architecture of this central spa building.",
+            "pl": "Podziwiaj zabytkową architekturę tego centralnego budynku zdrojowego."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Trinkhalle (Pijalnia Wód)",
             "hu": "Ivócsarnok (Pijalnia Wód)",
             "ro": "Pavilionul cu apă minerală (Pijalnia Wód)",
-            "en": "Pump Room (Pijalnia Wód)"
+            "en": "Pump Room (Pijalnia Wód)",
+            "pl": "Pump Room (Pijalnia Wód)"
           },
           "coords": [
             18.604,
@@ -82,7 +87,8 @@
             "de": "Probieren Sie das lokale Mineralwasser direkt von der Quelle.",
             "hu": "Kóstolja meg a helyi ásványvizet egyenesen a forrásból.",
             "ro": "Încercați apa minerală locală direct de la izvor.",
-            "en": "Try the local mineral water straight from the spring."
+            "en": "Try the local mineral water straight from the spring.",
+            "pl": "Skosztuj lokalnej wody mineralnej prosto ze źródła."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Galerie der Stadtgeschichte",
             "hu": "Várostörténeti Galéria",
             "ro": "Galeria de Istorie a Orașului",
-            "en": "City History Gallery"
+            "en": "City History Gallery",
+            "pl": "City History Gallery"
           },
           "coords": [
             18.6015,
@@ -105,7 +112,8 @@
             "de": "Konzentrieren Sie sich auf die Ausstellungen zur Bergbau- und Spa-Geschichte.",
             "hu": "Fókuszáljon a bányászat és a fürdőkultúra történetét bemutató kiállításokra.",
             "ro": "Concentrați-vă pe expozițiile despre istoria minieră și balneară.",
-            "en": "Focus on the exhibitions about the mining and spa history."
+            "en": "Focus on the exhibitions about the mining and spa history.",
+            "pl": "Skup się na wystawach dotyczących historii górnictwa i uzdrowiska."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Kirche des Heiligsten Herzens Jesu",
             "hu": "Jézus Legszentebb Szíve templom",
             "ro": "Biserica Preasfânta Inimă a lui Iisus",
-            "en": "Church of the Most Sacred Heart of Jesus"
+            "en": "Church of the Most Sacred Heart of Jesus",
+            "pl": "Church of the Most Sacred Heart of Jesus"
           },
           "coords": [
             18.5998,
@@ -128,7 +137,8 @@
             "de": "Achten Sie auf die beeindruckenden Glasfenster und den Hauptaltar.",
             "hu": "Figyelje meg a lenyűgöző ólomüveg ablakokat és a főoltárt.",
             "ro": "Observați vitraliile impresionante și altarul principal.",
-            "en": "Pay attention to the impressive stained glass windows and the main altar."
+            "en": "Pay attention to the impressive stained glass windows and the main altar.",
+            "pl": "Zwróć uwagę na imponujące witraże i ołtarz główny."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Denkmal für die Bergleute",
             "hu": "Bányász-emlékmű",
             "ro": "Monumentul Minerilor",
-            "en": "Monument to the Miners"
+            "en": "Monument to the Miners",
+            "pl": "Monument to the Miners"
           },
           "coords": [
             18.5985,
@@ -151,7 +162,8 @@
             "de": "Ein ergreifendes Denkmal, das das industrielle Erbe der Stadt ehrt.",
             "hu": "Egy megindító emlékmű, amely a város ipari öröksége előtt tiszteleg.",
             "ro": "Un monument emoționant care onorează moștenirea industrială a orașului.",
-            "en": "A poignant monument honoring the city's industrial heritage."
+            "en": "A poignant monument honoring the city's industrial heritage.",
+            "pl": "Wzruszający pomnik upamiętniający przemysłowe dziedzictwo miasta."
           }
         }
       ],
@@ -159,7 +171,8 @@
         "de": "Ihr Tag beginnt im grünen Herzen der Stadt, dem Kurpark. Sie erkunden die historischen Kurgebäude, bevor Sie in die Geschichte der Stadt in der Galerie eintauchen. Am Nachmittag besuchen Sie die Hauptkirche und ehren das Bergbauerbe am Denkmal. Der Tag ist eine Mischung aus entspannender Natur und tiefem kulturellem Einblick.",
         "hu": "A nap a város zöld szívében, a Gyógyparkban kezdődik. Felfedezi a történelmi fürdőépületeket, mielőtt elmélyülne a város történetében a galériában. Délután meglátogatja a főtemplomot és tiszteleg a bányászati örökség előtt az emlékműnél. A nap a pihentető természet és a mély kulturális betekintés keveréke.",
         "ro": "Ziua dvs. începe în inima verde a orașului, Parcul Balnear. Explorați clădirile istorice ale stațiunii înainte de a vă cufunda în istoria orașului la galerie. După-amiaza, vizitați biserica principală și onorați moștenirea minieră la monument. Ziua este un amestec de natură relaxantă și o perspectivă culturală profundă.",
-        "en": "Your day starts in the green heart of the city, the Spa Park. You'll explore the historic spa buildings before delving into the city's history at the gallery. In the afternoon, you visit the main church and honor the mining heritage at the monument. The day is a mix of relaxing nature and deep cultural insight."
+        "en": "Your day starts in the green heart of the city, the Spa Park. You'll explore the historic spa buildings before delving into the city's history at the gallery. In the afternoon, you visit the main church and honor the mining heritage at the monument. The day is a mix of relaxing nature and deep cultural insight.",
+        "pl": "Dzień zaczyna się w zielonym sercu miasta, Parku Zdrojowym. Zwiedzisz zabytkowe budynki zdrojowe, zanim zagłębisz się w historię miasta w galerii. Po południu odwiedzisz główny kościół i uczcisz górnicze dziedzictwo przy pomniku. To mieszanka relaksującej natury i głębokiego wglądu kulturowego."
       },
       "gastro_picks": {
         "de": [
@@ -331,6 +344,11 @@
           "Wear comfortable shoes as you will be walking for most of the day.",
           "Check the gallery's opening hours in advance.",
           "Keep a reusable bottle handy for the mineral water."
+        ],
+        "pl": [
+          "Noś wygodne buty, ponieważ będziesz chodzić przez większość dnia.",
+          "Sprawdź wcześniej godziny otwarcia galerii.",
+          "Miej pod ręką butelkę wielokrotnego użytku na wodę mineralną."
         ]
       },
       "variants": {
@@ -339,7 +357,8 @@
             "de": "Beginnen Sie den Tag im Kurpark, wo die Pavillons Schutz vor dem Regen bieten. Mittags erkunden Sie das historische Kurhaus und die Trinkhalle, ideal für einen trockenen Aufenthalt. Am Nachmittag vertiefen Sie sich in die Stadtgeschichte in der Galerie. Der Abend endet ruhig mit einem Blick auf das Bergmannsdenkmal unter dem Regenschirm.",
             "hu": "Kezdje a napot a Gyógyparkban, ahol a pavilonok menedéket nyújtanak az eső elől. Délben fedezze fel a történelmi Gyógyházat és az Ivócsarnokot, amelyek ideálisak a száraz időtöltéshez. Délután merüljön el a város történetében a Galériában. Az este nyugodtan zárul a bányász-emlékmű megtekintésével az esernyő alatt.",
             "ro": "Începeți ziua în Parcul Stațiunii, unde pavilioanele oferă adăpost de ploaie. La prânz, explorați Casa de Cură și Sala Pompelor, ideale pentru a rămâne uscat. După-amiaza, vizitați Galeria de Istorie a Orașului. Seara se încheie liniștit cu o privire asupra Monumentului Minerilor sub umbrelă.",
-            "en": "Start the day in the Spa Park, where pavilions provide shelter from the rain. At noon, explore the historic Spa House and the Pump Room, ideal for staying dry. In the afternoon, dive into the city's history at the Gallery. The evening ends quietly with a view of the Miners' Monument under an umbrella."
+            "en": "Start the day in the Spa Park, where pavilions provide shelter from the rain. At noon, explore the historic Spa House and the Pump Room, ideal for staying dry. In the afternoon, dive into the city's history at the Gallery. The evening ends quietly with a view of the Miners' Monument under an umbrella.",
+            "pl": "Rozpocznij dzień w Parku Zdrojowym, gdzie pawilony chronią przed deszczem. W południe zwiedź zabytkowy Dom Zdrojowy i Pijalnię Wód, idealne miejsca, by pozostać suchym. Po południu zanurz się w historii miasta w Galerii. Wieczór kończy się spokojnie widokiem Pomnika Górników pod parasolem."
           },
           "stops": [
             {
@@ -348,7 +367,8 @@
                 "de": "Nutzen Sie die überdachten Alleen und Pavillons.",
                 "hu": "Használja a fedett sétányokat és pavilonokat.",
                 "ro": "Folosiți aleile acoperite și pavilioanele.",
-                "en": "Use the covered walkways and pavilions."
+                "en": "Use the covered walkways and pavilions.",
+                "pl": "Korzystaj z zadaszonych przejść i pawilonów."
               }
             },
             {
@@ -357,7 +377,8 @@
                 "de": "Perfekter Ort für eine längere Pause im Trockenen.",
                 "hu": "Tökéletes hely egy hosszabb száraz pihenőhöz.",
                 "ro": "Loc perfect pentru o pauză lungă la adăpost.",
-                "en": "Perfect place for a long break in the dry."
+                "en": "Perfect place for a long break in the dry.",
+                "pl": "Idealne miejsce na dłuższą przerwę w suchości."
               }
             },
             {
@@ -366,7 +387,8 @@
                 "de": "Probieren Sie das Heilwasser im Warmen.",
                 "hu": "Kóstolja meg a gyógyvizet a melegben.",
                 "ro": "Gustați apa curativă la căldură.",
-                "en": "Taste the healing water inside the warmth."
+                "en": "Taste the healing water inside the warmth.",
+                "pl": "Skosztuj leczniczej wody w cieple wnętrza."
               }
             },
             {
@@ -375,7 +397,8 @@
                 "de": "Ideales Ziel bei starkem Regen.",
                 "hu": "Ideális célpont heves esőzés esetén.",
                 "ro": "Destinație ideală în caz de ploaie torențială.",
-                "en": "Ideal destination during heavy rain."
+                "en": "Ideal destination during heavy rain.",
+                "pl": "Idealne miejsce podczas ulewy."
               }
             },
             {
@@ -384,7 +407,8 @@
                 "de": "Genießen Sie die Stille im Inneren.",
                 "hu": "Élvezze a benti csendet és nyugalmat.",
                 "ro": "Bucurați-vă de liniștea din interior.",
-                "en": "Enjoy the peace and quiet inside."
+                "en": "Enjoy the peace and quiet inside.",
+                "pl": "Ciesz się ciszą i spokojem wewnątrz."
               }
             },
             {
@@ -393,7 +417,8 @@
                 "de": "Kurzer Stopp für ein schnelles Foto.",
                 "hu": "Rövid megálló egy gyors fotó erejéig.",
                 "ro": "Oprire scurtă pentru o fotografie rapidă.",
-                "en": "Short stop for a quick photo."
+                "en": "Short stop for a quick photo.",
+                "pl": "Krótki postój na szybkie zdjęcie."
               }
             }
           ],
@@ -421,6 +446,12 @@
               "The pump room provides good shelter.",
               "Schedule museum visits during showers.",
               "An umbrella is essential in the spa district."
+            ],
+            "pl": [
+              "Noś wodoodporne buty na ścieżki parkowe.",
+              "Pijalnia zapewnia dobre schronienie.",
+              "Planuj wizyty w muzeach podczas opadów.",
+              "Parasol jest niezbędny w dzielnicy zdrojowej."
             ]
           }
         },
@@ -429,7 +460,8 @@
             "de": "Erleben Sie den winterlichen Kurpark mit seinen beleuchteten Wegen am Morgen. Mittags wärmen Sie sich im historischen Kurhaus auf. Der Nachmittag gehört der Stadtgeschichte in der behaglichen Galerie. Bevor die frühe Dunkelheit einbricht, besuchen Sie die Kirche und das Bergmannsdenkmal, das im Schnee besonders eindrucksvoll wirkt.",
             "hu": "Tapasztalja meg a téli Gyógyparkot a kivilágított ösvényekkel reggel. Délben melegedjen fel a történelmi Gyógyházban. A délután a várostörténeté a barátságos Galériában. Mielőtt beáll a korai sötétség, látogasson el a templomhoz és a bányász-emlékműhöz, amely a hóban különösen hatásos.",
             "ro": "Experimentați Parcul Stațiunii iarna, cu aleile sale iluminate dimineața. La prânz, încălziți-vă în Casa de Cură istorică. După-amiaza aparține istoriei orașului în galeria primitoare. Înainte de lăsarea întunericului, vizitați biserica și Monumentul Minerilor, care arată impresionant în zăpadă.",
-            "en": "Experience the winter Spa Park with its illuminated paths in the morning. At noon, warm up in the historic Spa House. The afternoon is dedicated to city history in the cozy Gallery. Before early darkness falls, visit the church and the Miners' Monument, which looks particularly impressive in the snow."
+            "en": "Experience the winter Spa Park with its illuminated paths in the morning. At noon, warm up in the historic Spa House. The afternoon is dedicated to city history in the cozy Gallery. Before early darkness falls, visit the church and the Miners' Monument, which looks particularly impressive in the snow.",
+            "pl": "Doświadcz zimowego Parku Zdrojowego z oświetlonymi ścieżkami rano. W południe rozgrzej się w zabytkowym Domu Zdrojowym. Po południu poświęć czas na historię miasta w przytulnej Galerii. Zanim zapadnie wczesna ciemność, odwiedź kościół i Pomnik Górników, który szczególnie imponuje w śniegu."
           },
           "stops": [
             {
@@ -438,7 +470,8 @@
                 "de": "Vorsicht vor glatten Wegen am Morgen.",
                 "hu": "Vigyázat, reggel csúszósak lehetnek az utak.",
                 "ro": "Atenție la aleile alunecoase dimineața.",
-                "en": "Watch out for slippery paths in the morning."
+                "en": "Watch out for slippery paths in the morning.",
+                "pl": "Uważaj na śliskie ścieżki rano."
               }
             },
             {
@@ -447,7 +480,8 @@
                 "de": "Hervorragender Ort zum Aufwärmen.",
                 "hu": "Kiváló hely a felmelegedéshez.",
                 "ro": "Loc excelent pentru încălzire.",
-                "en": "Excellent place to warm up."
+                "en": "Excellent place to warm up.",
+                "pl": "Doskonałe miejsce na rozgrzanie się."
               }
             },
             {
@@ -456,7 +490,8 @@
                 "de": "Heißes Heilwasser genießen.",
                 "hu": "Élvezze a forró gyógyvizet.",
                 "ro": "Bucurați-vă de apa curativă fierbinte.",
-                "en": "Enjoy the hot healing water."
+                "en": "Enjoy the hot healing water.",
+                "pl": "Ciesz się gorącą wodą leczniczą."
               }
             },
             {
@@ -465,7 +500,8 @@
                 "de": "Lange Besichtigung im Warmen planen.",
                 "hu": "Tervezzen hosszú látogatást a melegben.",
                 "ro": "Planificați o vizită lungă la căldură.",
-                "en": "Plan a long visit in the warm interior."
+                "en": "Plan a long visit in the warm interior.",
+                "pl": "Zaplanuj dłuższe zwiedzanie w ciepłym wnętrzu."
               }
             },
             {
@@ -474,7 +510,8 @@
                 "de": "Besinnliche Atmosphäre im Winter.",
                 "hu": "Meghitt hangulat téli időszakban.",
                 "ro": "Atmosferă meditativă pe timp de iarnă.",
-                "en": "Contemplative atmosphere in winter."
+                "en": "Contemplative atmosphere in winter.",
+                "pl": "Kontemplacyjna atmosfera zimą."
               }
             },
             {
@@ -483,7 +520,8 @@
                 "de": "Fotostopp vor Sonnenuntergang um 16:00.",
                 "hu": "Fotómegálló naplemente előtt, kb. 16:00-kor.",
                 "ro": "Oprire foto înainte de apus, la ora 16:00.",
-                "en": "Photo stop before sunset around 16:00."
+                "en": "Photo stop before sunset around 16:00.",
+                "pl": "Przystanek fotograficzny przed zachodem około 16:00."
               }
             }
           ],
@@ -511,6 +549,12 @@
               "The sun sets as early as 16:00.",
               "Combine outdoor stops with warming breaks.",
               "Saltwater inhalations are very healthy in winter."
+            ],
+            "pl": [
+              "Na wizytę w parku niezbędne są ciepłe ubrania.",
+              "Słońce zachodzi już o 16:00.",
+              "Łącz przystanki na świeżym powietrzu z rozgrzewającymi przerwami.",
+              "W zimie inhalacje solankowe są bardzo zdrowe."
             ]
           }
         }
@@ -529,7 +573,8 @@
             "de": "Kurpark (Park Zdrojowy)",
             "hu": "Gyógypark (Park Zdrojowy)",
             "ro": "Parcul balnear (Park Zdrojowy)",
-            "en": "Spa Park (Park Zdrojowy)"
+            "en": "Spa Park (Park Zdrojowy)",
+            "pl": "Spa Park (Park Zdrojowy)"
           },
           "coords": [
             18.6033,
@@ -544,7 +589,8 @@
             "de": "Starten Sie Ihre Radtour mit einer Runde durch den Park.",
             "hu": "Kezdje a biciklitúrát egy körrel a parkban.",
             "ro": "Începeți turul cu bicicleta cu o tură prin parc.",
-            "en": "Start your bike tour with a lap around the park."
+            "en": "Start your bike tour with a lap around the park.",
+            "pl": "Rozpocznij wycieczkę rowerową od pętli wokół parku."
           }
         },
         {
@@ -552,7 +598,8 @@
             "de": "Kurhaus & Trinkhalle",
             "hu": "Gyógyház és Ivócsarnok",
             "ro": "Casa balneară & Pavilionul cu apă",
-            "en": "Spa House & Pump Room"
+            "en": "Spa House & Pump Room",
+            "pl": "Spa House & Pump Room"
           },
           "coords": [
             18.6045,
@@ -567,7 +614,8 @@
             "de": "Stellen Sie Ihr Fahrrad ab und erkunden Sie diese beiden zentralen Orte.",
             "hu": "Parkolja le a kerékpárt, és fedezze fel ezt a két központi helyszínt.",
             "ro": "Parcați bicicleta și explorați aceste două situri centrale.",
-            "en": "Park your bike and explore these two central sites."
+            "en": "Park your bike and explore these two central sites.",
+            "pl": "Zabezpiecz rower i zwiedź te dwa centralne obiekty."
           }
         },
         {
@@ -575,7 +623,8 @@
             "de": "Kirche des Heiligsten Herzens Jesu",
             "hu": "Jézus Legszentebb Szíve templom",
             "ro": "Biserica Preasfânta Inimă a lui Iisus",
-            "en": "Church of the Most Sacred Heart of Jesus"
+            "en": "Church of the Most Sacred Heart of Jesus",
+            "pl": "Church of the Most Sacred Heart of Jesus"
           },
           "coords": [
             18.5998,
@@ -590,7 +639,8 @@
             "de": "Eine angenehme Radtour vom Park zur Hauptkirche der Stadt.",
             "hu": "Kellemes kerékpárút a parktól a város főtemplomáig.",
             "ro": "O plimbare plăcută cu bicicleta de la parc la biserica principală a orașului.",
-            "en": "A pleasant bike ride from the park to the city's main church."
+            "en": "A pleasant bike ride from the park to the city's main church.",
+            "pl": "Przyjemna przejażdżka rowerowa z parku do głównego kościoła w mieście."
           }
         },
         {
@@ -598,7 +648,8 @@
             "de": "Galerie der Stadtgeschichte",
             "hu": "Várostörténeti Galéria",
             "ro": "Galeria de Istorie a Orașului",
-            "en": "City History Gallery"
+            "en": "City History Gallery",
+            "pl": "City History Gallery"
           },
           "coords": [
             18.6015,
@@ -613,7 +664,8 @@
             "de": "Perfekt für eine Mittagspause vom Radfahren.",
             "hu": "Tökéletes egy déli pihenőre a biciklizésből.",
             "ro": "Perfect pentru o pauză de prânz de la ciclism.",
-            "en": "Perfect for a midday break from cycling."
+            "en": "Perfect for a midday break from cycling.",
+            "pl": "Idealne miejsce na przerwę w południe podczas jazdy na rowerze."
           }
         },
         {
@@ -621,7 +673,8 @@
             "de": "Denkmal für die Bergleute",
             "hu": "Bányász-emlékmű",
             "ro": "Monumentul Minerilor",
-            "en": "Monument to the Miners"
+            "en": "Monument to the Miners",
+            "pl": "Monument to the Miners"
           },
           "coords": [
             18.5985,
@@ -636,7 +689,8 @@
             "de": "Ein kurzer Stopp, um über die Geschichte der Region nachzudenken.",
             "hu": "Egy rövid megálló, hogy elgondolkodjon a régió történelmén.",
             "ro": "O oprire scurtă pentru a reflecta asupra istoriei regiunii.",
-            "en": "A brief stop to reflect on the region's history."
+            "en": "A brief stop to reflect on the region's history.",
+            "pl": "Krótki postój, by zastanowić się nad historią regionu."
           }
         },
         {
@@ -644,7 +698,8 @@
             "de": "St.-Barbara-Kirche",
             "hu": "Szent Borbála-templom",
             "ro": "Biserica Sf. Barbara",
-            "en": "St. Barbara's Church"
+            "en": "St. Barbara's Church",
+            "pl": "St. Barbara's Church"
           },
           "coords": [
             18.578,
@@ -659,7 +714,8 @@
             "de": "Diese Kirche ist der Schutzpatronin der Bergleute gewidmet.",
             "hu": "Ez a templom a bányászok védőszentjének van szentelve.",
             "ro": "Această biserică este dedicată sfintei patroane a minerilor.",
-            "en": "This church is dedicated to the patron saint of miners."
+            "en": "This church is dedicated to the patron saint of miners.",
+            "pl": "Ten kościół jest poświęcony patronce górników."
           }
         },
         {
@@ -667,7 +723,8 @@
             "de": "Rückkehr zum Kurpark",
             "hu": "Visszatérés a Gyógyparkba",
             "ro": "Întoarcere la Parcul Balnear",
-            "en": "Return to Spa Park"
+            "en": "Return to Spa Park",
+            "pl": "Return to Spa Park"
           },
           "coords": [
             18.6033,
@@ -682,7 +739,8 @@
             "de": "Beenden Sie Ihre Tour dort, wo Sie begonnen haben, und entspannen Sie sich.",
             "hu": "Fejezze be a túrát ott, ahol elkezdte, és pihenjen.",
             "ro": "Încheiați turul acolo unde l-ați început și relaxați-vă.",
-            "en": "End your tour where you started and relax."
+            "en": "End your tour where you started and relax.",
+            "pl": "Zakończ wycieczkę tam, gdzie zaczynałeś, i odpocznij."
           }
         }
       ],
@@ -690,7 +748,8 @@
         "de": "Mit dem Fahrrad erkunden Sie Jastrzębie-Zdrój auf aktive Weise. Der Tag beginnt im Kurpark und führt Sie zu den wichtigsten Kirchen und dem Bergbau-Denkmal. Ein längerer Halt in der Stadtgeschichtsgalerie bietet eine kulturelle Pause. Die Tour führt Sie auch zur St.-Barbara-Kirche, die eng mit der Bergbautradition verbunden ist, bevor Sie zum entspannten Abschluss in den Park zurückkehren.",
         "hu": "Kerékpárral aktívan fedezheti fel Jastrzębie-Zdrójt. A nap a Gyógyparkban kezdődik, majd elvezet a legfontosabb templomokhoz és a bányász-emlékműhöz. A Várostörténeti Galériában tartott hosszabb megálló kulturális pihenőt kínál. A túra elviszi Önt a bányászati hagyományokhoz szorosan kapcsolódó Szent Borbála-templomhoz is, mielőtt visszatérne a parkba egy pihentető befejezéshez.",
         "ro": "Cu bicicleta, explorați Jastrzębie-Zdrój într-un mod activ. Ziua începe în Parcul Balnear și vă duce la principalele biserici și la monumentul minerilor. O oprire mai lungă la Galeria de Istorie a Orașului oferă o pauză culturală. Turul vă duce și la Biserica Sf. Barbara, strâns legată de tradiția minieră, înainte de a vă întoarce în parc pentru o încheiere relaxantă.",
-        "en": "By bike, you explore Jastrzębie-Zdrój in an active way. The day begins in the Spa Park and takes you to the main churches and the miners' monument. A longer stop at the City History Gallery provides a cultural break. The tour also takes you to St. Barbara's Church, closely linked to the mining tradition, before returning to the park for a relaxing finish."
+        "en": "By bike, you explore Jastrzębie-Zdrój in an active way. The day begins in the Spa Park and takes you to the main churches and the miners' monument. A longer stop at the City History Gallery provides a cultural break. The tour also takes you to St. Barbara's Church, closely linked to the mining tradition, before returning to the park for a relaxing finish.",
+        "pl": "Na rowerze odkrywasz Jastrzębie-Zdrój aktywnie. Dzień zaczyna się w Parku Zdrojowym, prowadząc do głównych kościołów i pomnika górników. Dłuższy postój w Miejskiej Galerii Historii daje kulturalną przerwę. Trasa prowadzi także do kościoła św. Barbary, ściśle związanego z tradycją górniczą, po czym wracasz do parku na relaksujące zakończenie."
       },
       "gastro_picks": {
         "de": [
@@ -862,6 +921,11 @@
           "Bring a bike lock to secure your bike at the stops.",
           "The city is relatively flat, but some slight inclines are possible.",
           "Wear a helmet and be mindful of traffic."
+        ],
+        "pl": [
+          "Zabierz zapięcie do roweru, by zabezpieczyć go na przystankach.",
+          "Miasto jest względnie płaskie, ale mogą wystąpić niewielkie wzniesienia.",
+          "Noś kask i zwracaj uwagę na ruch drogowy."
         ]
       },
       "variants": {
@@ -870,7 +934,8 @@
             "de": "Radeln Sie vorsichtig durch den nassen Kurpark am Vormittag. Mittags bieten das Kurhaus und die Trinkhalle sichere Pausenplätze. Der Nachmittag führt zur Geschichtsgalerie, wo Sie die Räder geschützt abstellen können. Trotz Regen bleibt die Tour zum Bergbaudenkmal und zur St.-Barbara-Kirche ein Erlebnis, sofern die Ausrüstung stimmt.",
             "hu": "Óvatosan kerekezzen a nedves Gyógyparkon keresztül délelőtt. Délben a Gyógyház és az Ivócsarnok biztonságos pihenőhelyet kínál. Délután a történelmi galéria felé vezet az út, ahol védett helyen hagyhatja a biciklit. Az eső ellenére a bányász-emlékmű és a Szent Borbála-templom is látogatható jó felszereléssel.",
             "ro": "Pedalați cu atenție prin parcul ud dimineața. La prânz, Casa de Cură și Sala Pompelor oferă locuri sigure de odihnă. După-amiaza duce spre galeria de istorie, unde puteți lăsa bicicletele protejate. În ciuda ploii, turul la monument și biserica Sf. Barbara rămâne o experiență cu echipament adecvat.",
-            "en": "Cycle carefully through the wet Spa Park in the morning. At noon, the Spa House and Pump Room offer safe resting spots. The afternoon leads to the history gallery, where you can park bikes under cover. Despite the rain, the tour to the miners' monument and St. Barbara's Church remains an experience with the right gear."
+            "en": "Cycle carefully through the wet Spa Park in the morning. At noon, the Spa House and Pump Room offer safe resting spots. The afternoon leads to the history gallery, where you can park bikes under cover. Despite the rain, the tour to the miners' monument and St. Barbara's Church remains an experience with the right gear.",
+            "pl": "Jedź ostrożnie przez mokry Park Zdrojowy rano. W południe Dom Zdrojowy i Pijalnia Wód oferują bezpieczne miejsca odpoczynku. Po południu dotrzesz do galerii historii, gdzie można zostawić rowery pod zadaszeniem. Przy odpowiednim wyposażeniu, mimo deszczu, wycieczka do pomnika górników i kościoła św. Barbary nadal będzie atrakcyjna."
           },
           "stops": [
             {
@@ -879,7 +944,8 @@
                 "de": "Vorsicht vor rutschigem Laub auf Wegen.",
                 "hu": "Vigyázat, csúszós levelek az utakon.",
                 "ro": "Atenție la frunzele alunecoase de pe drum.",
-                "en": "Beware of slippery leaves on the paths."
+                "en": "Beware of slippery leaves on the paths.",
+                "pl": "Uważaj na śliskie liście na ścieżkach."
               }
             },
             {
@@ -888,7 +954,8 @@
                 "de": "Fahrradständer meist unüberdacht, Schloss nutzen.",
                 "hu": "A tárolók többnyire fedetlenek, használjon zárat.",
                 "ro": "Rastelurile sunt neacoperite, folosiți antifurt.",
-                "en": "Bike racks are mostly uncovered, use a lock."
+                "en": "Bike racks are mostly uncovered, use a lock.",
+                "pl": "Stojaki rowerowe są przeważnie niezadaszone, użyj zapięcia."
               }
             },
             {
@@ -897,7 +964,8 @@
                 "de": "Gute Gelegenheit zum Unterstellen.",
                 "hu": "Jó alkalom a fedél alá húzódásra.",
                 "ro": "Oportunitate bună pentru a sta la adăpost.",
-                "en": "Good opportunity to seek shelter."
+                "en": "Good opportunity to seek shelter.",
+                "pl": "Dobra okazja, by szukać schronienia."
               }
             },
             {
@@ -906,7 +974,8 @@
                 "de": "Lange Pause, um Kleidung zu trocknen.",
                 "hu": "Hosszú szünet a ruhák megszárításához.",
                 "ro": "Pauză lungă pentru a vă usca hainele.",
-                "en": "Long break to dry your clothes."
+                "en": "Long break to dry your clothes.",
+                "pl": "Dłuższa przerwa na wysuszenie ubrań."
               }
             },
             {
@@ -915,7 +984,8 @@
                 "de": "Vorsicht beim Absteigen auf nassem Asphalt.",
                 "hu": "Vigyázzon a leszállásnál a vizes aszfalton.",
                 "ro": "Atenție la coborâre pe asfaltul ud.",
-                "en": "Be careful when dismounting on wet asphalt."
+                "en": "Be careful when dismounting on wet asphalt.",
+                "pl": "Bądź ostrożny podczas zsiadania na mokrym asfalcie."
               }
             },
             {
@@ -924,7 +994,8 @@
                 "de": "Holzoberflächen können sehr glatt sein.",
                 "hu": "A fafelületek nagyon csúszósak lehetnek.",
                 "ro": "Suprafețele de lemn pot fi foarte alunecoase.",
-                "en": "Wooden surfaces can be very slippery."
+                "en": "Wooden surfaces can be very slippery.",
+                "pl": "Drewniane nawierzchnie mogą być bardzo śliskie."
               }
             },
             {
@@ -933,7 +1004,8 @@
                 "de": "Letzte Etappe mit Vorsicht bei Dämmerung.",
                 "hu": "Utolsó szakasz, óvatosan a szürkületben.",
                 "ro": "Ultima etapă, cu atenție la amurg.",
-                "en": "Last leg, be careful in the twilight."
+                "en": "Last leg, be careful in the twilight.",
+                "pl": "Ostatni odcinek — uważaj o zmierzchu."
               }
             }
           ],
@@ -961,6 +1033,12 @@
               "Test brakes early on wet roads.",
               "Use waterproof panniers.",
               "Turn on lights even during the day."
+            ],
+            "pl": [
+              "Błotniki są teraz bardzo ważne.",
+              "Testuj hamulce wcześnie na mokrych drogach.",
+              "Używaj wodoodpornych sakw.",
+              "Włącz światła nawet w ciągu dnia."
             ]
           }
         },
@@ -969,7 +1047,8 @@
             "de": "Starten Sie dick eingepackt zur winterlichen Radtour durch Jastrzębie. Der Kurpark glitzert im Frost, doch Vorsicht ist geboten. Mittags wärmen kurze Stopps im Kurhaus auf. Nach dem Besuch der Geschichtsgalerie führt der Weg zur beeindruckenden Holzkirche St. Barbara. Beenden Sie die Tour frühzeitig, bevor die Kälte nach Sonnenuntergang zunimmt.",
             "hu": "Vastagon felöltözve induljon a téli biciklitúrára Jastrzębie-ben. A Gyógypark csillog a fagyban, de legyen óvatos. Délben rövid megállók segítenek a felmelegedésben a Gyógyházban. A Galéria után az út a lenyűgöző Szent Borbála fatemplomhoz vezet. Fejezze be a túrát időben, mielőtt a fagy erősödne.",
             "ro": "Porniți bine îmbrăcat în turul de iarnă cu bicicleta prin Jastrzębie. Parcul strălucește în îngheț, dar prudența este necesară. La prânz, opririle scurte la Casa de Cură vă vor încălzi. După galerie, drumul duce la biserica de lemn Sf. Barbara. Încheiați turul devreme, înainte ca frigul să se intensifice.",
-            "en": "Start warmly bundled up for a winter bike tour through Jastrzębie. The Spa Park glitters in the frost, but caution is advised. At noon, short stops at the Spa House help you warm up. After the Gallery, the path leads to the impressive wooden St. Barbara's Church. Finish the tour early before the cold intensifies after sunset."
+            "en": "Start warmly bundled up for a winter bike tour through Jastrzębie. The Spa Park glitters in the frost, but caution is advised. At noon, short stops at the Spa House help you warm up. After the Gallery, the path leads to the impressive wooden St. Barbara's Church. Finish the tour early before the cold intensifies after sunset.",
+            "pl": "Rozpocznij dobrze ubraną wyprawę zimową rowerem po Jastrzębiu. Park Zdrojowy mieni się szronem, ale trzeba zachować ostrożność. W południe krótkie postoje przy Domu Zdrojowym pomogą się rozgrzać. Za Galerią ścieżka prowadzi do imponującego drewnianego kościoła św. Barbary. Zakończ wycieczkę wcześniej, zanim po zachodzie słońca zrobi się silniej zimno."
           },
           "stops": [
             {
@@ -978,7 +1057,8 @@
                 "de": "Reifendruck für mehr Grip leicht senken.",
                 "hu": "Kicsit csökkentse a guminyomást a jobb tapadásért.",
                 "ro": "Reduceți ușor presiunea în pneuri pentru aderență.",
-                "en": "Lower tire pressure slightly for better grip."
+                "en": "Lower tire pressure slightly for better grip.",
+                "pl": "Nieco obniż ciśnienie w oponach dla lepszej przyczepności."
               }
             },
             {
@@ -987,7 +1067,8 @@
                 "de": "Kurze Aufwärmpause ohne zu langes Schwitzen.",
                 "hu": "Rövid melegedő szünet túlzott izzadás nélkül.",
                 "ro": "Pauză scurtă de încălzire fără a transpira prea mult.",
-                "en": "Short warming break without sweating too much."
+                "en": "Short warming break without sweating too much.",
+                "pl": "Krótka przerwa na rozgrzanie bez nadmiernego pocenia się."
               }
             },
             {
@@ -996,7 +1077,8 @@
                 "de": "Vorsicht beim Abstellen im Schnee.",
                 "hu": "Vigyázzon a bicikli leállításánál a hóban.",
                 "ro": "Atenție la parcarea în zăpadă.",
-                "en": "Be careful when parking in the snow."
+                "en": "Be careful when parking in the snow.",
+                "pl": "Uważaj parkując na śniegu."
               }
             },
             {
@@ -1005,7 +1087,8 @@
                 "de": "Bester Ort für eine regenerative Pause.",
                 "hu": "A legjobb hely egy regeneráló pihenőhöz.",
                 "ro": "Cel mai bun loc pentru o pauză regeneratoare.",
-                "en": "Best place for a regenerative break."
+                "en": "Best place for a regenerative break.",
+                "pl": "Najlepsze miejsce na regeneracyjną przerwę."
               }
             },
             {
@@ -1014,7 +1097,8 @@
                 "de": "Kalter Wind auf freien Flächen möglich.",
                 "hu": "Hideg szél várható a nyitott tereken.",
                 "ro": "Vânt rece posibil pe spațiile deschise.",
-                "en": "Cold wind possible in open areas."
+                "en": "Cold wind possible in open areas.",
+                "pl": "W otwartych przestrzeniach możliwy jest zimny wiatr."
               }
             },
             {
@@ -1023,7 +1107,8 @@
                 "de": "Märchenhafter Anblick bei Schneefall.",
                 "hu": "Mesei látvány hóesésben.",
                 "ro": "Vedere de basm în timpul ninsorii.",
-                "en": "Fairytale sight during snowfall."
+                "en": "Fairytale sight during snowfall.",
+                "pl": "Baśniowy widok podczas opadów śniegu."
               }
             },
             {
@@ -1032,7 +1117,8 @@
                 "de": "Letzte Kilometer vor dem Frost-Einbruch.",
                 "hu": "Utolsó kilométerek a fagy beállta előtt.",
                 "ro": "Ultimii kilometri înainte de lăsarea gerului.",
-                "en": "Last kilometers before the frost sets in."
+                "en": "Last kilometers before the frost sets in.",
+                "pl": "Ostatnie kilometry przed nadejściem mrozu."
               }
             }
           ],
@@ -1060,6 +1146,12 @@
               "Protect e-bike batteries from the cold.",
               "Early sunset limits riding time.",
               "Avoid heavy braking on ice."
+            ],
+            "pl": [
+              "Rękawice termiczne są niezbędne.",
+              "Chroń akumulatory roweru elektrycznego przed zimnem.",
+              "Wczesny zachód słońca ogranicza czas jazdy.",
+              "Unikaj mocnego hamowania na lodzie."
             ]
           }
         }
@@ -1078,7 +1170,8 @@
             "de": "Cluster 1: Kohlebergwerk Zofiówka",
             "hu": "1. klaszter: Zofiówka szénbánya",
             "ro": "Cluster 1: Mina de cărbune Zofiówka",
-            "en": "Cluster 1: Zofiówka Coal Mine"
+            "en": "Cluster 1: Zofiówka Coal Mine",
+            "pl": "Klastrowanie 1: Kopalnia Zofiówka"
           },
           "coords": [
             18.638,
@@ -1094,7 +1187,8 @@
             "de": "Beginnen Sie mit dem industriellen Erbe. Parken Sie hier für den ersten Teil des Tages.",
             "hu": "Kezdje az ipari örökséggel. Parkoljon itt a nap első részére.",
             "ro": "Începeți cu patrimoniul industrial. Parcați aici pentru prima parte a zilei.",
-            "en": "Start with the industrial heritage. Park here for the first part of the day."
+            "en": "Start with the industrial heritage. Park here for the first part of the day.",
+            "pl": "Zacznij od dziedzictwa przemysłowego. Zaparkuj tutaj na pierwszą część dnia."
           }
         },
         {
@@ -1102,7 +1196,8 @@
             "de": "Denkmal für die Bergleute",
             "hu": "Bányász-emlékmű",
             "ro": "Monumentul Minerilor",
-            "en": "Monument to the Miners"
+            "en": "Monument to the Miners",
+            "pl": "Pomnik Górników"
           },
           "coords": [
             18.635,
@@ -1118,7 +1213,8 @@
             "de": "Ein kurzer Spaziergang vom Bergwerk zum Denkmal.",
             "hu": "Rövid séta a bányától az emlékműig.",
             "ro": "O scurtă plimbare de la mină la monument.",
-            "en": "A short walk from the mine to the monument."
+            "en": "A short walk from the mine to the monument.",
+            "pl": "Krótki spacer z kopalni do pomnika."
           }
         },
         {
@@ -1126,7 +1222,8 @@
             "de": "St.-Barbara-Kirche",
             "hu": "Szent Borbála-templom",
             "ro": "Biserica Sf. Barbara",
-            "en": "St. Barbara's Church"
+            "en": "St. Barbara's Church",
+            "pl": "Kościół św. Barbary"
           },
           "coords": [
             18.578,
@@ -1142,7 +1239,8 @@
             "de": "Fahren Sie zur Kirche, die den Bergleuten gewidmet ist.",
             "hu": "Vezessen el a bányászoknak szentelt templomhoz.",
             "ro": "Conduceți la biserica dedicată minerilor.",
-            "en": "Drive to the church dedicated to the miners."
+            "en": "Drive to the church dedicated to the miners.",
+            "pl": "Podjedź do kościoła poświęconego górnikom."
           }
         },
         {
@@ -1150,7 +1248,8 @@
             "de": "Cluster 2: Kurpark (Park Zdrojowy)",
             "hu": "2. klaszter: Gyógypark (Park Zdrojowy)",
             "ro": "Cluster 2: Parcul balnear (Park Zdrojowy)",
-            "en": "Cluster 2: Spa Park (Park Zdrojowy)"
+            "en": "Cluster 2: Spa Park (Park Zdrojowy)",
+            "pl": "Klastrowanie 2: Park Zdrojowy (Spa Park)"
           },
           "coords": [
             18.6033,
@@ -1166,7 +1265,8 @@
             "de": "Parken Sie für den Rest des Nachmittags und erkunden Sie das Spa-Zentrum.",
             "hu": "Parkoljon le a délután hátralévő részére, és fedezze fel a fürdőközpontot.",
             "ro": "Parcați pentru restul după-amiezii și explorați centrul balnear.",
-            "en": "Park for the rest of the afternoon and explore the spa center."
+            "en": "Park for the rest of the afternoon and explore the spa center.",
+            "pl": "Zaparkuj na resztę popołudnia i zwiedzaj centrum uzdrowiskowe."
           }
         },
         {
@@ -1174,7 +1274,8 @@
             "de": "Kurhaus & Trinkhalle",
             "hu": "Gyógyház és Ivócsarnok",
             "ro": "Casa balneară & Pavilionul cu apă",
-            "en": "Spa House & Pump Room"
+            "en": "Spa House & Pump Room",
+            "pl": "Dom Zdrojowy i Pijalnia Wód"
           },
           "coords": [
             18.6045,
@@ -1190,7 +1291,8 @@
             "de": "Spazieren Sie durch den Park zu diesen ikonischen Gebäuden.",
             "hu": "Sétáljon át a parkon ezekhez az ikonikus épületekhez.",
             "ro": "Plimbați-vă prin parc până la aceste clădiri iconice.",
-            "en": "Stroll through the park to these iconic buildings."
+            "en": "Stroll through the park to these iconic buildings.",
+            "pl": "Przejdź przez park do tych ikonicznych budynków."
           }
         },
         {
@@ -1198,7 +1300,8 @@
             "de": "Galerie der Stadtgeschichte",
             "hu": "Várostörténeti Galéria",
             "ro": "Galeria de Istorie a Orașului",
-            "en": "City History Gallery"
+            "en": "City History Gallery",
+            "pl": "Galeria Historii Miasta"
           },
           "coords": [
             18.6015,
@@ -1214,7 +1317,8 @@
             "de": "Der perfekte Abschluss, um beide Seiten der Stadtgeschichte zu verbinden.",
             "hu": "Tökéletes befejezés, hogy összekapcsolja a város történetének két oldalát.",
             "ro": "Finalul perfect pentru a conecta cele două fețe ale istoriei orașului.",
-            "en": "The perfect ending to connect both sides of the city's history."
+            "en": "The perfect ending to connect both sides of the city's history.",
+            "pl": "Idealne zakończenie łączące obie strony historii miasta."
           }
         }
       ],
@@ -1222,7 +1326,8 @@
         "de": "Mit dem Auto tauchen Sie tief in das doppelte Erbe von Jastrzębie-Zdrój ein. Der Morgen ist dem Bergbau gewidmet, mit einem Besuch des Bergwerks Zofiówka und der St.-Barbara-Kirche. Am Nachmittag fahren Sie ins Zentrum, parken und erkunden den entspannenden Kurpark und seine historischen Gebäude zu Fuß. Diese Tour verbindet auf perfekte Weise die industrielle Stärke mit der heilenden Ruhe der Stadt.",
         "hu": "Autóval mélyen elmerülhet Jastrzębie-Zdrój kettős örökségében. A délelőtt a bányászat jegyében telik, a Zofiówka bánya és a Szent Borbála-templom meglátogatásával. Délután a központba hajt, leparkol, és gyalogosan fedezi fel a pihentető Gyógyparkot és történelmi épületeit. Ez a túra tökéletesen ötvözi az ipari erőt a város gyógyító nyugalmával.",
         "ro": "Cu mașina, pătrundeți adânc în dubla moștenire a orașului Jastrzębie-Zdrój. Dimineața este dedicată mineritului, cu o vizită la mina Zofiówka și la Biserica Sf. Barbara. După-amiaza, conduceți spre centru, parcați și explorați pe jos relaxantul Parc Balnear și clădirile sale istorice. Acest tur combină perfect puterea industrială cu liniștea vindecătoare a orașului.",
-        "en": "By car, you delve deep into the dual heritage of Jastrzębie-Zdrój. The morning is dedicated to mining, with a visit to the Zofiówka mine and St. Barbara's Church. In the afternoon, you drive to the center, park, and explore the relaxing Spa Park and its historic buildings on foot. This tour perfectly combines industrial strength with the city's healing tranquility."
+        "en": "By car, you delve deep into the dual heritage of Jastrzębie-Zdrój. The morning is dedicated to mining, with a visit to the Zofiówka mine and St. Barbara's Church. In the afternoon, you drive to the center, park, and explore the relaxing Spa Park and its historic buildings on foot. This tour perfectly combines industrial strength with the city's healing tranquility.",
+        "pl": "Samochodem zanurzysz się w dwoistym dziedzictwie Jastrzębia-Zdroju. Rano poświęć czas górnictwu, odwiedzając kopalnię Zofiówka i kościół św. Barbary. Po południu pojedź do centrum, zaparkuj i pieszo zwiedzaj relaksujący Park Zdrojowy z jego historycznymi budynkami. Ta trasa doskonale łączy przemysłową siłę z uzdrowiskowym spokojem miasta."
       },
       "gastro_picks": {
         "de": [
@@ -1378,6 +1483,11 @@
           "Plan for parking fees in the city center.",
           "Roads can be busy during rush hours.",
           "A GPS is highly recommended for navigating between the clusters."
+        ],
+        "pl": [
+          "Zapewnij miejsce na opłaty parkingowe w centrum miasta.",
+          "Drogi mogą być zatłoczone w godzinach szczytu.",
+          "GPS jest wysoce zalecany do nawigacji między klastrami."
         ]
       },
       "variants": {
@@ -1386,7 +1496,8 @@
             "de": "Starten Sie die Autotour am Bergwerk Zofiówka, wo der Regen die industrielle Atmosphäre verstärkt. Mittags führt die Fahrt zur Holzkirche St. Barbara und weiter zum Kurpark. Die kurzen Wege vom Parkplatz zu den Sehenswürdigkeiten machen den Regen erträglich. Den Nachmittag verbringen Sie trocken in der Geschichtsgalerie und im Kurhaus.",
             "hu": "Kezdje az autós túrát a Zofiówka bányánál, ahol az eső fokozza az ipari hangulatot. Délben az út a Szent Borbála fatemplomhoz, majd a Gyógyparkhoz vezet. A parkolótól a látnivalókig tartó rövid séták elviselhetővé teszik az esőt. A délutánt töltse szárazon a Galériában és a Gyógyházban.",
             "ro": "Începeți turul auto la mina Zofiówka, unde ploaia intensifică atmosfera industrială. La prânz, drumul duce la biserica de lemn Sf. Barbara și apoi la Parcul Stațiunii. Distanțele scurte de la parcare la obiective fac ploaia suportabilă. Petreceți după-amiaza la adăpost în galerie și Casa de Cură.",
-            "en": "Start the car tour at the Zofiówka mine, where the rain enhances the industrial atmosphere. At noon, the drive leads to St. Barbara's wooden church and then to the Spa Park. The short walks from the parking lot to the sights make the rain bearable. Spend the afternoon dry in the History Gallery and the Spa House."
+            "en": "Start the car tour at the Zofiówka mine, where the rain enhances the industrial atmosphere. At noon, the drive leads to St. Barbara's wooden church and then to the Spa Park. The short walks from the parking lot to the sights make the rain bearable. Spend the afternoon dry in the History Gallery and the Spa House.",
+            "pl": "Rozpocznij wycieczkę samochodową przy kopalni Zofiówka, gdzie deszcz potęguje przemysłowy nastrój. W południe dojedziesz do drewnianego kościoła św. Barbary, a potem do Parku Zdrojowego. Krótkie spacery z parkingu do atrakcji czynią deszcz znośnym. Popołudnie spędź pod dachem w Galerii Historii i Domu Zdrojowym."
           },
           "stops": [
             {
@@ -1395,7 +1506,8 @@
                 "de": "Parkplatz direkt am Eingang nutzen.",
                 "hu": "Használja a közvetlenül a bejáratnál lévő parkolót.",
                 "ro": "Folosiți parcarea direct de la intrare.",
-                "en": "Use the parking lot directly at the entrance."
+                "en": "Use the parking lot directly at the entrance.",
+                "pl": "Korzystaj z parkingu bezpośrednio przy wejściu."
               }
             },
             {
@@ -1404,7 +1516,8 @@
                 "de": "Besichtigung kurz vom Auto aus möglich.",
                 "hu": "A megtekintés rövid ideig az autóból is lehetséges.",
                 "ro": "Vizitarea este posibilă scurt timp din mașină.",
-                "en": "Viewing is possible briefly from the car."
+                "en": "Viewing is possible briefly from the car.",
+                "pl": "Możliwe krótkie oglądanie z samochodu."
               }
             },
             {
@@ -1413,7 +1526,8 @@
                 "de": "Regenschirm für den kurzen Kirchweg mitnehmen.",
                 "hu": "Vigyen esernyőt a templomhoz vezető rövid útra.",
                 "ro": "Luați umbrela pentru drumul scurt spre biserică.",
-                "en": "Take an umbrella for the short walk to the church."
+                "en": "Take an umbrella for the short walk to the church.",
+                "pl": "Weź parasol na krótki spacer do kościoła."
               }
             },
             {
@@ -1422,7 +1536,8 @@
                 "de": "Zentraler Parkplatz an der ul. Witczaka.",
                 "hu": "Központi parkoló az ul. Witczaka mentén.",
                 "ro": "Parcare centrală pe strada Witczaka.",
-                "en": "Central parking on Witczaka Street."
+                "en": "Central parking on Witczaka Street.",
+                "pl": "Parking centralny przy ulicy Witczaka."
               }
             },
             {
@@ -1431,7 +1546,8 @@
                 "de": "Naher Parkplatz minimiert Regen-Exposition.",
                 "hu": "A közeli parkoló minimalizálja az esőben töltött időt.",
                 "ro": "Parcarea apropiată minimizează expunerea la ploaie.",
-                "en": "Nearby parking minimizes rain exposure."
+                "en": "Nearby parking minimizes rain exposure.",
+                "pl": "Parking w pobliżu minimalizuje ekspozycję na deszcz."
               }
             },
             {
@@ -1440,7 +1556,8 @@
                 "de": "Perfekt für den späten, verregneten Nachmittag.",
                 "hu": "Tökéletes a késő délutáni esős időre.",
                 "ro": "Perfect pentru după-amiaza târzie ploioasă.",
-                "en": "Perfect for the late rainy afternoon."
+                "en": "Perfect for the late rainy afternoon.",
+                "pl": "Idealne na późne deszczowe popołudnie."
               }
             }
           ],
@@ -1468,6 +1585,12 @@
               "Check windshield wipers before starting.",
               "Watch out for aquaplaning on main roads.",
               "Plan the park visit between showers."
+            ],
+            "pl": [
+              "Miejsca parkingowe w Jastrzębiu są zazwyczaj dostępne.",
+              "Sprawdź wycieraczki przed rozpoczęciem jazdy.",
+              "Uważaj na aquaplaning na głównych drogach.",
+              "Zaplanuj wizytę w parku między opadami."
             ]
           }
         },
@@ -1476,7 +1599,8 @@
             "de": "Die winterliche Autotour beginnt am Bergwerk Zofiówka, das im Nebel mystisch wirkt. Über die verschneite St.-Barbara-Kirche geht es zum festlich beleuchteten Kurviertel. Das Auto bietet eine warme Basis zwischen den Besichtigungen des Kurhauses und der Geschichtsgalerie. Der Tag endet mit einem kurzen Spaziergang im beleuchteten Kurpark.",
             "hu": "A téli autós túra a Zofiówka bányánál kezdődik, amely misztikus a ködben. A havas Szent Borbála-templomon keresztül vezet az út az ünnepi fényben úszó gyógynegyedbe. Az autó meleg bázist nyújt a Gyógyház és a Galéria megtekintése között. A napot egy rövid séta zárja a kivilágított parkban.",
             "ro": "Turul auto de iarnă începe la mina Zofiówka, care pare mistică în ceață. Prin biserica Sf. Barbara înzăpezită, drumul duce la cartierul stațiunii iluminat festiv. Mașina oferă o bază caldă între vizitele la Casa de Cură și galerie. Ziua se încheie cu o scurtă plimbare în parcul iluminat.",
-            "en": "The winter car tour starts at the Zofiówka mine, which looks mystical in the fog. Via the snowy St. Barbara's Church, the route leads to the festively lit Spa district. The car provides a warm base between visits to the Spa House and the History Gallery. The day ends with a short walk in the illuminated park."
+            "en": "The winter car tour starts at the Zofiówka mine, which looks mystical in the fog. Via the snowy St. Barbara's Church, the route leads to the festively lit Spa district. The car provides a warm base between visits to the Spa House and the History Gallery. The day ends with a short walk in the illuminated park.",
+            "pl": "Zimowa trasa samochodowa zaczyna się przy kopalni Zofiówka, która w mgle wygląda mistycznie. Przez zaśnieżony kościół św. Barbary trasa prowadzi do świątecznie oświetlonej dzielnicy uzdrowiskowej. Samochód daje ciepłą bazę między wizytami w Domu Zdrojowym i Galerii Historii. Dzień kończy krótki spacer po podświetlonym parku."
           },
           "stops": [
             {
@@ -1485,7 +1609,8 @@
                 "de": "Achten Sie auf Glätte auf den Zufahrtswegen.",
                 "hu": "Ügyeljen a csúszós szakaszokra a bekötőutakon.",
                 "ro": "Atenție la polei pe drumurile de acces.",
-                "en": "Watch out for icy spots on access roads."
+                "en": "Watch out for icy spots on access roads.",
+                "pl": "Uważaj na oblodzone miejsca na drogach dojazdowych."
               }
             },
             {
@@ -1494,7 +1619,8 @@
                 "de": "Beheiztes Auto als kurzer Rückzugsort.",
                 "hu": "A fűtött autó jó rövid pihenőhely.",
                 "ro": "Mașina încălzită este un bun loc de retragere.",
-                "en": "The heated car is a good short retreat."
+                "en": "The heated car is a good short retreat.",
+                "pl": "Ogrzewany samochód to dobre krótkie schronienie."
               }
             },
             {
@@ -1503,7 +1629,8 @@
                 "de": "Parkplatz kann ungeräumt sein, Vorsicht.",
                 "hu": "A parkoló néha nincs letakarítva, legyen óvatos.",
                 "ro": "Parcarea poate fi nedezpezită, atenție.",
-                "en": "The parking lot may not be cleared, be careful."
+                "en": "The parking lot may not be cleared, be careful.",
+                "pl": "Parking może nie być odśnieżony, zachowaj ostrożność."
               }
             },
             {
@@ -1512,7 +1639,8 @@
                 "de": "Beleuchtung im Winter ab 16:00 Uhr genießen.",
                 "hu": "Élvezze a kivilágítást télen 16:00 órától.",
                 "ro": "Bucurați-vă de iluminat iarna de la ora 16:00.",
-                "en": "Enjoy the illumination from 16:00 in winter."
+                "en": "Enjoy the illumination from 16:00 in winter.",
+                "pl": "W zimie delektuj się iluminacją od 16:00."
               }
             },
             {
@@ -1521,7 +1649,8 @@
                 "de": "Kurze Gehwege zum Aufwärmen nutzen.",
                 "hu": "Használja ki a rövid sétákat a bemelegedéshez.",
                 "ro": "Folosiți distanțele scurte pentru a vă încălzi.",
-                "en": "Use the short walking distances to warm up."
+                "en": "Use the short walking distances to warm up.",
+                "pl": "Wykorzystaj krótkie odległości piesze, aby się rozgrzać."
               }
             },
             {
@@ -1530,7 +1659,8 @@
                 "de": "Warmer Ausklang der Tour.",
                 "hu": "A túra meleg befejezése.",
                 "ro": "Final cald al turului.",
-                "en": "Warm end to the tour."
+                "en": "Warm end to the tour.",
+                "pl": "Ciepłe zakończenie trasy."
               }
             }
           ],
@@ -1558,6 +1688,12 @@
               "Keep an ice scraper and brush handy.",
               "Check antifreeze in the washer fluid.",
               "Turn on low beams in fog and snow."
+            ],
+            "pl": [
+              "Opony zimowe są obowiązkowe w tym regionie.",
+              "Miej pod ręką skrobaczkę i szczotkę do lodu.",
+              "Sprawdź płyn do spryskiwaczy pod kątem zabezpieczenia przed zamarzaniem.",
+              "Włącz światła mijania we mgle i śniegu."
             ]
           }
         }
@@ -1576,7 +1712,8 @@
             "de": "Cluster 1: Hauptkirche & Galerie",
             "hu": "1. klaszter: Főtemplom és Galéria",
             "ro": "Cluster 1: Biserica Principală & Galerie",
-            "en": "Cluster 1: Main Church & Gallery"
+            "en": "Cluster 1: Main Church & Gallery",
+            "pl": "Klastrowanie 1: Kościół główny i Galeria"
           },
           "coords": [
             18.5998,
@@ -1592,7 +1729,8 @@
             "de": "Starten Sie am religiösen und historischen Kern, der mit dem Bus leicht erreichbar ist.",
             "hu": "Kezdje a vallási és történelmi központban, amely busszal könnyen elérhető.",
             "ro": "Începeți la nucleul religios și istoric, ușor accesibil cu autobuzul.",
-            "en": "Start at the religious and historical core, easily accessible by bus."
+            "en": "Start at the religious and historical core, easily accessible by bus.",
+            "pl": "Zacznij w religijnym i historycznym rdzeniu, łatwo dostępnym autobusem."
           }
         },
         {
@@ -1600,7 +1738,8 @@
             "de": "Galerie der Stadtgeschichte",
             "hu": "Várostörténeti Galéria",
             "ro": "Galeria de Istorie a Orașului",
-            "en": "City History Gallery"
+            "en": "City History Gallery",
+            "pl": "Galeria Historii Miasta"
           },
           "coords": [
             18.6015,
@@ -1616,7 +1755,8 @@
             "de": "Ein kurzer Spaziergang von der Kirche zum Museum.",
             "hu": "Rövid séta a templomtól a múzeumig.",
             "ro": "O scurtă plimbare de la biserică la muzeu.",
-            "en": "A short walk from the church to the museum."
+            "en": "A short walk from the church to the museum.",
+            "pl": "Krótki spacer z kościoła do muzeum."
           }
         },
         {
@@ -1624,7 +1764,8 @@
             "de": "Denkmal für die Bergleute",
             "hu": "Bányász-emlékmű",
             "ro": "Monumentul Minerilor",
-            "en": "Monument to the Miners"
+            "en": "Monument to the Miners",
+            "pl": "Pomnik Górników"
           },
           "coords": [
             18.5985,
@@ -1640,7 +1781,8 @@
             "de": "Schließen Sie den ersten Cluster mit einem Besuch des Denkmals ab.",
             "hu": "Zárja az első klasztert az emlékmű meglátogatásával.",
             "ro": "Încheiați primul cluster cu o vizită la monument.",
-            "en": "Conclude the first cluster with a visit to the monument."
+            "en": "Conclude the first cluster with a visit to the monument.",
+            "pl": "Zakończ pierwszy klaster wizytą przy pomniku."
           }
         },
         {
@@ -1648,7 +1790,8 @@
             "de": "Cluster 2: Kurpark & Spa-Gebäude",
             "hu": "2. klaszter: Gyógypark és fürdőépületek",
             "ro": "Cluster 2: Parcul Balnear & Clădiri Spa",
-            "en": "Cluster 2: Spa Park & Spa Buildings"
+            "en": "Cluster 2: Spa Park & Spa Buildings",
+            "pl": "Klastrowanie 2: Park Zdrojowy i budynki uzdrowiskowe"
           },
           "coords": [
             18.6033,
@@ -1664,7 +1807,8 @@
             "de": "Nehmen Sie einen Bus zum Kurpark für einen entspannten Nachmittag.",
             "hu": "Menjen busszal a Gyógyparkba egy pihentető délutánra.",
             "ro": "Luați un autobuz spre Parcul Balnear pentru o după-amiază relaxantă.",
-            "en": "Take a bus to the Spa Park for a relaxing afternoon."
+            "en": "Take a bus to the Spa Park for a relaxing afternoon.",
+            "pl": "Dojedź autobusem do Parku Zdrojowego na relaksujące popołudnie."
           }
         },
         {
@@ -1672,7 +1816,8 @@
             "de": "Kurhaus (Dom Zdrojowy)",
             "hu": "Gyógyház (Dom Zdrojowy)",
             "ro": "Casa balneară (Dom Zdrojowy)",
-            "en": "Spa House (Dom Zdrojowy)"
+            "en": "Spa House (Dom Zdrojowy)",
+            "pl": "Dom Zdrojowy"
           },
           "coords": [
             18.6045,
@@ -1688,7 +1833,8 @@
             "de": "Erkunden Sie das Hauptgebäude des Parks.",
             "hu": "Fedezze fel a park főépületét.",
             "ro": "Explorați clădirea principală a parcului.",
-            "en": "Explore the main building of the park."
+            "en": "Explore the main building of the park.",
+            "pl": "Odkryj główny budynek parku."
           }
         },
         {
@@ -1696,7 +1842,8 @@
             "de": "Trinkhalle (Pijalnia Wód)",
             "hu": "Ivócsarnok (Pijalnia Wód)",
             "ro": "Pavilionul cu apă minerală (Pijalnia Wód)",
-            "en": "Pump Room (Pijalnia Wód)"
+            "en": "Pump Room (Pijalnia Wód)",
+            "pl": "Pijalnia Wód"
           },
           "coords": [
             18.604,
@@ -1712,7 +1859,8 @@
             "de": "Genießen Sie zum Abschluss ein Glas Heilwasser.",
             "hu": "A végén igyon egy pohár gyógyvizet.",
             "ro": "Bucurați-vă de un pahar de apă medicinală la final.",
-            "en": "Enjoy a glass of medicinal water to finish."
+            "en": "Enjoy a glass of medicinal water to finish.",
+            "pl": "Na koniec skosztuj leczniczej wody."
           }
         }
       ],
@@ -1720,7 +1868,8 @@
         "de": "Mit öffentlichen Verkehrsmitteln erleben Sie Jastrzębie-Zdrój wie ein Einheimischer. Der Tag ist in zwei Cluster aufgeteilt: Zuerst erkunden Sie den historischen Kern um die Hauptkirche und die Galerie zu Fuß. Dann bringt Sie ein Bus in das Spa-Viertel, wo Sie den Nachmittag im Kurpark und seinen eleganten Gebäuden verbringen. Es ist eine effiziente und stressfreie Möglichkeit, die beiden Gesichter der Stadt zu sehen.",
         "hu": "A tömegközlekedéssel úgy élheti át Jastrzębie-Zdrójt, mint egy helyi. A nap két klaszterre oszlik: először gyalogosan fedezi fel a történelmi központot a főtemplom és a galéria körül. Ezután egy busz elviszi a fürdőnegyedbe, ahol a délutánt a Gyógyparkban és elegáns épületeiben tölti. Ez egy hatékony és stresszmentes módja a város két arcának megismerésének.",
         "ro": "Folosind transportul public, veți experimenta Jastrzębie-Zdrój ca un localnic. Ziua este împărțită în două clustere: mai întâi, explorați pe jos nucleul istoric din jurul bisericii principale și al galeriei. Apoi, un autobuz vă duce în cartierul balnear, unde petreceți după-amiaza în Parcul Balnear și clădirile sale elegante. Este o modalitate eficientă și fără stres de a vedea cele două fețe ale orașului.",
-        "en": "Using public transit, you'll experience Jastrzębie-Zdrój like a local. The day is split into two clusters: first, you explore the historical core around the main church and gallery on foot. Then, a bus takes you to the spa district, where you'll spend the afternoon in the Spa Park and its elegant buildings. It's an efficient and stress-free way to see the two faces of the city."
+        "en": "Using public transit, you'll experience Jastrzębie-Zdrój like a local. The day is split into two clusters: first, you explore the historical core around the main church and gallery on foot. Then, a bus takes you to the spa district, where you'll spend the afternoon in the Spa Park and its elegant buildings. It's an efficient and stress-free way to see the two faces of the city.",
+        "pl": "Korzystając z komunikacji publicznej, doświadczysz Jastrzębia-Zdroju jak lokals. Dzień podzielony jest na dwa klastry: najpierw pieszo zwiedzaj historyczne centrum wokół kościoła głównego i galerii. Potem autobusem pojedziesz do dzielnicy uzdrowiskowej, gdzie spędzisz popołudnie w Parku Zdrojowym i eleganckich budynkach. To efektywny i bezstresowy sposób na poznanie dwóch twarzy miasta."
       },
       "gastro_picks": {
         "de": [
@@ -1876,6 +2025,11 @@
           "Buy a day pass for public transport to save money.",
           "Have the bus schedules handy, either digitally or on paper.",
           "Be prepared for some walking between bus stops and the sights."
+        ],
+        "pl": [
+          "Kup całodzienny bilet na komunikację miejską, aby oszczędzić.",
+          "Miej pod ręką rozkład jazdy autobusów, cyfrowo lub na papierze.",
+          "Bądź przygotowany na trochę chodzenia między przystankami a atrakcjami."
         ]
       },
       "variants": {
@@ -1884,7 +2038,8 @@
             "de": "Nutzen Sie den Bus, um trocken zwischen dem Stadtzentrum und dem Kurviertel zu pendeln. Vormittags besuchen Sie die Kirche und die Geschichtsgalerie. Mittags führt die Fahrt zum Kurpark, wo Sie im Kurhaus und der Trinkhalle verweilen können. Die Buswartehäuschen bieten Schutz, während Sie auf die Verbindung zum Bergmannsdenkmal warten.",
             "hu": "Használja a buszt, hogy szárazon utazzon a városközpont és a gyógynegyed között. Délelőtt látogasson el a templomba és a Galériába. Délben az út a Gyógyparkba vezet, ahol a Gyógyházban és az Ivócsarnokban időzhet. A buszvárók védelmet nyújtanak, amíg a bányász-emlékműhöz tartó járatra vár.",
             "ro": "Folosiți autobuzul pentru a călători uscat între centru și cartierul stațiunii. Dimineața vizitați biserica și galeria. La prânz, drumul duce spre parcul stațiunii, unde puteți zăbovi în Casa de Cură. Stațiile de autobuz oferă protecție în timp ce așteptați legătura spre monument.",
-            "en": "Use the bus to travel dry between the city center and the Spa district. In the morning, visit the church and the Gallery. At noon, the trip leads to the Spa Park, where you can linger in the Spa House and Pump Room. Bus shelters provide cover while waiting for the connection to the miners' monument."
+            "en": "Use the bus to travel dry between the city center and the Spa district. In the morning, visit the church and the Gallery. At noon, the trip leads to the Spa Park, where you can linger in the Spa House and Pump Room. Bus shelters provide cover while waiting for the connection to the miners' monument.",
+            "pl": "Użyj autobusu, by suchą stopą przejechać między centrum a dzielnicą uzdrowiskową. Rano odwiedź kościół i Galerię. W południe dojedź do Parku Zdrojowego, gdzie możesz zatrzymać się w Domu Zdrojowym i Pijalni Wód. Wiaty przystankowe zapewniają schronienie podczas oczekiwania na połączenie do pomnika górników."
           },
           "stops": [
             {
@@ -1893,7 +2048,8 @@
                 "de": "Haltestelle direkt in der Nähe der Galerie.",
                 "hu": "Megálló közvetlenül a Galéria közelében.",
                 "ro": "Stație direct lângă galerie.",
-                "en": "Bus stop directly near the Gallery."
+                "en": "Bus stop directly near the Gallery.",
+                "pl": "Przystanek autobusu bezpośrednio przy Galerii."
               }
             },
             {
@@ -1902,7 +2058,8 @@
                 "de": "Perfekt für längere Wartezeiten bei Regen.",
                 "hu": "Tökéletes hosszabb várakozáshoz esőben.",
                 "ro": "Perfect pentru așteptări lungi pe ploaie.",
-                "en": "Perfect for longer waits during rain."
+                "en": "Perfect for longer waits during rain.",
+                "pl": "Idealne na dłuższe oczekiwanie podczas deszczu."
               }
             },
             {
@@ -1911,7 +2068,8 @@
                 "de": "Haltestelle 'Urząd Miasta' nutzen.",
                 "hu": "Használja az 'Urząd Miasta' megállót.",
                 "ro": "Folosiți stația 'Urząd Miasta'.",
-                "en": "Use the 'Urząd Miasta' stop."
+                "en": "Use the 'Urząd Miasta' stop.",
+                "pl": "Skorzystaj z przystanku 'Urząd Miasta'."
               }
             },
             {
@@ -1920,7 +2078,8 @@
                 "de": "Mehrere Linien verbinden das Zentrum.",
                 "hu": "Számos vonal köti össze a központtal.",
                 "ro": "Mai multe linii fac legătura cu centrul.",
-                "en": "Several lines connect with the center."
+                "en": "Several lines connect with the center.",
+                "pl": "Kilka linii łączy się z centrum."
               }
             },
             {
@@ -1929,7 +2088,8 @@
                 "de": "Wetterfeste Kleidung für den Weg vom Bus.",
                 "hu": "Időjárásálló ruházat a busztól tartó útra.",
                 "ro": "Haine rezistente la vreme pentru drumul de la bus.",
-                "en": "Weatherproof clothing for the walk from the bus."
+                "en": "Weatherproof clothing for the walk from the bus.",
+                "pl": "Odzież nieprzemakalna na spacer z przystanku do atrakcji."
               }
             },
             {
@@ -1938,7 +2098,8 @@
                 "de": "Warmer Stopp vor der Rückfahrt.",
                 "hu": "Meleg megálló a visszautazás előtt.",
                 "ro": "Oprire caldă înainte de drumul de întoarcere.",
-                "en": "Warm stop before the return trip."
+                "en": "Warm stop before the return trip.",
+                "pl": "Ciepły postój przed powrotem."
               }
             }
           ],
@@ -1966,6 +2127,12 @@
               "Use 'Jakdojade' app for real-time schedules.",
               "Bus shelters are mostly covered.",
               "Frequent connections within the city area."
+            ],
+            "pl": [
+              "Bilety autobusowe można kupić u kierowcy.",
+              "Użyj aplikacji 'Jakdojade' do rozkładów w czasie rzeczywistym.",
+              "Wiaty przystankowe są w większości zadaszone.",
+              "Częste połączenia w obrębie miasta."
             ]
           }
         },
@@ -1974,7 +2141,8 @@
             "de": "Entdecken Sie Jastrzębie im Winter gemütlich mit dem Bus. Vormittags besuchen Sie die Kirche und die Geschichtsgalerie, die angenehm geheizt sind. Mittags bringt Sie der Bus zum verschneiten Kurpark. Genießen Sie die winterliche Ruhe im Kurhaus bei einem heißen Getränk. Der frühe Sonnenuntergang macht die Rückfahrt in der beleuchteten Stadt besonders schön.",
             "hu": "Fedezze fel Jastrzębiét télen kényelmesen busszal. Délelőtt látogasson el a templomba és a Galériába, amelyek kellemesen fűtöttek. Délben a busz a havas Gyógyparkba viszi. Élvezze a téli nyugalmat a Gyógyházban egy forró ital mellett. A korai naplemente különlegessé teszi a kivilágított városban a visszautat.",
             "ro": "Descoperiți Jastrzębie iarna confortabil cu autobuzul. Dimineața vizitați biserica și galeria, care sunt bine încălzite. La prânz, autobuzul vă duce la parcul înzăpezit. Bucurați-vă de liniștea iernii în Casa de Cură cu o băutură caldă. Apusul devreme face drumul de întoarcere frumos.",
-            "en": "Discover Jastrzębie in winter comfortably by bus. In the morning, visit the church and the History Gallery, which are pleasantly heated. At noon, the bus takes you to the snowy Spa Park. Enjoy the winter peace in the Spa House with a hot drink. Early sunset makes the return trip in the illuminated city especially beautiful."
+            "en": "Discover Jastrzębie in winter comfortably by bus. In the morning, visit the church and the History Gallery, which are pleasantly heated. At noon, the bus takes you to the snowy Spa Park. Enjoy the winter peace in the Spa House with a hot drink. Early sunset makes the return trip in the illuminated city especially beautiful.",
+            "pl": "Odkryj Jastrzębie zimą wygodnie autobusem. Rano odwiedź kościół i Galerię Historii, które są przyjemnie ogrzane. W południe autobus zabierze cię do zaśnieżonego Parku Zdrojowego. Delektuj się zimowym spokojem w Domu Zdrojowym przy gorącym napoju. Wczesny zmrok sprawia, że powrót po rozświetlonym mieście jest szczególnie piękny."
           },
           "stops": [
             {
@@ -1983,7 +2151,8 @@
                 "de": "Geheizte Busse bieten gute Erholung.",
                 "hu": "A fűtött buszok jó pihenést nyújtanak.",
                 "ro": "Autobuzele încălzite oferă odihnă bună.",
-                "en": "Heated buses provide good recovery."
+                "en": "Heated buses provide good recovery.",
+                "pl": "Ogrzewane autobusy dobrze służą jako miejsce odpoczynku."
               }
             },
             {
@@ -1992,7 +2161,8 @@
                 "de": "Viel Zeit im Innenbereich verbringen.",
                 "hu": "Töltsön sok időt a belső terekben.",
                 "ro": "Petreceți mult timp în interior.",
-                "en": "Spend plenty of time indoors."
+                "en": "Spend plenty of time indoors.",
+                "pl": "Spędź dużo czasu w pomieszczeniach."
               }
             },
             {
@@ -2001,7 +2171,8 @@
                 "de": "Zügig zur nächsten Haltestelle gehen.",
                 "hu": "Haladjon tempósan a következő megállóig.",
                 "ro": "Mergeți rapid spre următoarea stație.",
-                "en": "Walk briskly to the next stop."
+                "en": "Walk briskly to the next stop.",
+                "pl": "Idź żwawo do następnego przystanku."
               }
             },
             {
@@ -2010,7 +2181,8 @@
                 "de": "Beleuchtete Wege am späten Nachmittag.",
                 "hu": "Kivilágított utak késő délután.",
                 "ro": "Alei iluminate după-amiaza târziu.",
-                "en": "Illuminated paths in the late afternoon."
+                "en": "Illuminated paths in the late afternoon.",
+                "pl": "Oświetlone ścieżki późnym popołudniem."
               }
             },
             {
@@ -2019,7 +2191,8 @@
                 "de": "Idealer Ort für Tee oder Kaffee.",
                 "hu": "Ideális hely egy teára vagy kávéra.",
                 "ro": "Loc ideal pentru un ceai sau o cafea.",
-                "en": "Ideal place for tea or coffee."
+                "en": "Ideal place for tea or coffee.",
+                "pl": "Idealne miejsce na herbatę lub kawę."
               }
             },
             {
@@ -2028,7 +2201,8 @@
                 "de": "Wärmen Sie sich vor der Abfahrt auf.",
                 "hu": "Melegedjen fel az indulás előtt.",
                 "ro": "Încălziți-vă înainte de plecare.",
-                "en": "Warm up before departure."
+                "en": "Warm up before departure.",
+                "pl": "Rozgrzej się przed wyjazdem."
               }
             }
           ],
@@ -2056,6 +2230,12 @@
               "Wait in shops near the bus stop.",
               "Slip hazard when boarding or alighting.",
               "Electronic tickets are often cheaper."
+            ],
+            "pl": [
+              "Rozkłady mogą się nieznacznie różnić przy obfitym śniegu.",
+              "Czekaj w sklepach w pobliżu przystanku autobusowego.",
+              "Ryzyko poślizgnięcia się przy wsiadaniu i wysiadaniu.",
+              "Bilety elektroniczne są często tańsze."
             ]
           }
         }

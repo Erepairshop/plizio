@@ -21,7 +21,8 @@
             "de": "Alter Markt",
             "hu": "Régi Piactér",
             "ro": "Piața Veche",
-            "en": "Old Market Square"
+            "en": "Old Market Square",
+            "pl": "Stary Rynek"
           },
           "coords": [
             18.0019,
@@ -37,7 +38,8 @@
             "de": "Starten Sie den Tag hier mit einem Kaffee und beobachten Sie das städtische Leben.",
             "hu": "Kezdje a napot egy kávéval, és figyelje a város ébredését.",
             "ro": "Începeți ziua aici cu o cafea, privind viața orașului.",
-            "en": "Start your day here with a coffee and watch the city life unfold."
+            "en": "Start your day here with a coffee and watch the city life unfold.",
+            "pl": "Zacznij tu dzień od kawy i obserwuj miejskie życie."
           }
         },
         {
@@ -45,7 +47,8 @@
             "de": "Bydgoszczer Venedig",
             "hu": "Bydgoszczi Velence",
             "ro": "Veneția din Bydgoszcz",
-            "en": "Bydgoszcz Venice"
+            "en": "Bydgoszcz Venice",
+            "pl": "Bydgoskie Wenecje"
           },
           "coords": [
             18.0001,
@@ -61,7 +64,8 @@
             "de": "Die besten Fotos gelingen von der Brücke Mostowa.",
             "hu": "A legjobb fotókat a Mostowa hídról készítheti.",
             "ro": "Cele mai bune fotografii se fac de pe podul Mostowa.",
-            "en": "The best photos can be taken from the Mostowa bridge."
+            "en": "The best photos can be taken from the Mostowa bridge.",
+            "pl": "Najlepsze zdjęcia zrobisz z mostu Mostowa."
           }
         },
         {
@@ -69,7 +73,8 @@
             "de": "Mühleninsel (Wyspa Młyńska)",
             "hu": "Malom-sziget (Wyspa Młyńska)",
             "ro": "Insula Morilor (Wyspa Młyńska)",
-            "en": "Mill Island (Wyspa Młyńska)"
+            "en": "Mill Island (Wyspa Młyńska)",
+            "pl": "Wyspa Młyńska"
           },
           "coords": [
             17.9969,
@@ -85,7 +90,8 @@
             "de": "Ein perfekter Ort für ein Picknick oder einfach zum Entspannen im Gras.",
             "hu": "Tökéletes hely egy piknikhez vagy csak egy kis pihenéshez a fűben.",
             "ro": "Un loc perfect pentru un picnic sau pur și simplu pentru a vă relaxa pe iarbă.",
-            "en": "A perfect spot for a picnic or just relaxing on the grass."
+            "en": "A perfect spot for a picnic or just relaxing on the grass.",
+            "pl": "Idealne miejsce na piknik lub relaks na trawie."
           }
         },
         {
@@ -93,7 +99,8 @@
             "de": "Bezirksmuseum Leon Wyczółkowski",
             "hu": "Leon Wyczółkowski Kerületi Múzeum",
             "ro": "Muzeul Districtual Leon Wyczółkowski",
-            "en": "Leon Wyczółkowski District Museum"
+            "en": "Leon Wyczółkowski District Museum",
+            "pl": "Muzeum Okręgowe im. Leona Wyczółkowskiego"
           },
           "coords": [
             17.9975,
@@ -109,7 +116,8 @@
             "de": "Konzentrieren Sie sich auf die archäologischen und modernen Kunstausstellungen.",
             "hu": "Koncentráljon a régészeti és a modern művészeti kiállításokra.",
             "ro": "Concentrați-vă pe expozițiile de arheologie și artă modernă.",
-            "en": "Focus on the archaeological and modern art exhibitions."
+            "en": "Focus on the archaeological and modern art exhibitions.",
+            "pl": "Skoncentruj się na wystawach archeologicznych i sztuce nowoczesnej."
           }
         },
         {
@@ -117,7 +125,8 @@
             "de": "Skulptur 'Über den Fluss gehend'",
             "hu": "'Átkelés a folyón' szobor",
             "ro": "Sculptura 'Trecând peste râu'",
-            "en": "Sculpture 'Passing through the River'"
+            "en": "Sculpture 'Passing through the River'",
+            "pl": "Rzeźba „Przechodząc przez rzekę”"
           },
           "coords": [
             18.0008,
@@ -133,7 +142,8 @@
             "de": "Warten Sie auf den Sonnenuntergang für eine dramatische Silhouette.",
             "hu": "Várja meg a naplementét a drámai sziluettért.",
             "ro": "Așteptați apusul pentru o siluetă dramatică.",
-            "en": "Wait for sunset for a dramatic silhouette."
+            "en": "Wait for sunset for a dramatic silhouette.",
+            "pl": "Poczekaj na zachód słońca, by uzyskać dramatyczny sylwetkowy efekt."
           }
         },
         {
@@ -141,7 +151,8 @@
             "de": "Bydgoszczer Dom",
             "hu": "Bydgoszczi Dóm",
             "ro": "Catedrala din Bydgoszcz",
-            "en": "Bydgoszcz Cathedral"
+            "en": "Bydgoszcz Cathedral",
+            "pl": "Katedra bydgoska"
           },
           "coords": [
             18.0025,
@@ -157,7 +168,8 @@
             "de": "Achten Sie auf die farbenfrohen Buntglasfenster und die gotische Architektur.",
             "hu": "Figyelje meg a színes ólomüveg ablakokat és a gótikus építészetet.",
             "ro": "Observați vitraliile colorate și arhitectura gotică.",
-            "en": "Pay attention to the colorful stained glass windows and the Gothic architecture."
+            "en": "Pay attention to the colorful stained glass windows and the Gothic architecture.",
+            "pl": "Zwróć uwagę na kolorowe witraże i gotycką architekturę."
           }
         },
         {
@@ -165,7 +177,8 @@
             "de": "Opera Nova",
             "hu": "Opera Nova",
             "ro": "Opera Nova",
-            "en": "Opera Nova"
+            "en": "Opera Nova",
+            "pl": "Opera Nova"
           },
           "coords": [
             17.9934,
@@ -181,7 +194,8 @@
             "de": "Auch wenn keine Vorstellung ist, lohnt sich ein Spaziergang um das moderne Gebäude.",
             "hu": "Még ha nincs is előadás, érdemes körbesétálni a modern épületet.",
             "ro": "Chiar dacă nu există un spectacol, merită să faceți o plimbare în jurul clădirii moderne.",
-            "en": "Even if there's no performance, a walk around the modern building is worthwhile."
+            "en": "Even if there's no performance, a walk around the modern building is worthwhile.",
+            "pl": "Nawet bez przedstawienia warto obejść nowoczesny budynek."
           }
         }
       ],
@@ -189,7 +203,8 @@
         "de": "Ihr Tag in Bydgoszcz beginnt am belebten Alten Markt. Von hier aus schlendern Sie zum malerischen Bydgoszczer Venedig und genießen die Atmosphäre am Wasser. Die grüne Oase der Mühleninsel lädt zum Verweilen und zum Besuch des Leon-Wyczółkowski-Museums ein, wo Sie in die lokale Kunst und Geschichte eintauchen. Am Nachmittag überqueren Sie symbolisch den Fluss mit der berühmten Skulptur, bevor Sie die gotische Pracht der Kathedrale bewundern. Ihr Spaziergang endet an der modernen Opera Nova, einem architektonischen Highlight, das einen Kontrast zur Altstadt bildet und den perfekten Abschluss für Ihren kulturellen Stadtrundgang darstellt.",
         "hu": "A nap Bydgoszczban a nyüzsgő Régi Piactéren kezdődik. Innen sétáljon el a festői Bydgoszczi Velencébe, és élvezze a vízparti hangulatot. A Malom-sziget zöld oázisa pihenésre és a Leon Wyczółkowski Múzeum meglátogatására csábít, ahol elmerülhet a helyi művészetben és történelemben. Délután szimbolikusan átkel a folyón a híres szoborral, mielőtt megcsodálná a dóm gótikus pompáját. Sétája a modern Opera Novánál ér véget, egy építészeti gyöngyszemnél, amely kontrasztot alkot az óvárossal, és tökéletes lezárása a kulturális városnézésnek.",
         "ro": "Ziua dvs. în Bydgoszcz începe în Piața Veche animată. De aici, plimbați-vă spre pitoreasca Veneție din Bydgoszcz și bucurați-vă de atmosfera de pe malul apei. Oaza verde a Insulei Morilor vă invită să zăboviți și să vizitați Muzeul Leon Wyczółkowski, unde vă puteți cufunda în arta și istoria locală. După-amiaza, traversați simbolic râul cu faimoasa sculptură înainte de a admira splendoarea gotică a catedralei. Plimbarea se încheie la moderna Opera Nova, o bijuterie arhitecturală care contrastează cu orașul vechi și oferă încheierea perfectă pentru turul cultural al orașului.",
-        "en": "Your day in Bydgoszcz begins at the bustling Old Market Square. From here, stroll to the picturesque Bydgoszcz Venice and enjoy the waterside atmosphere. The green oasis of Mill Island invites you to linger and visit the Leon Wyczółkowski Museum, where you can immerse yourself in local art and history. In the afternoon, symbolically cross the river with the famous sculpture before admiring the Gothic splendor of the cathedral. Your walk concludes at the modern Opera Nova, an architectural highlight that contrasts with the old town and provides the perfect end to your cultural city tour."
+        "en": "Your day in Bydgoszcz begins at the bustling Old Market Square. From here, stroll to the picturesque Bydgoszcz Venice and enjoy the waterside atmosphere. The green oasis of Mill Island invites you to linger and visit the Leon Wyczółkowski Museum, where you can immerse yourself in local art and history. In the afternoon, symbolically cross the river with the famous sculpture before admiring the Gothic splendor of the cathedral. Your walk concludes at the modern Opera Nova, an architectural highlight that contrasts with the old town and provides the perfect end to your cultural city tour.",
+        "pl": "Twój dzień w Bydgoszczy zaczyna się na tętniącym życiem Starym Rynku. Stąd przejdź do malowniczych Bydgoskich Wenecji i poczuj atmosferę nadbrzeża. Zielona oaza Wyspy Młyńskiej zaprasza do odpoczynku i wizyty w Muzeum Leona Wyczółkowskiego, gdzie możesz zanurzyć się w lokalnej sztuce i historii. Po południu symbolicznie przejdź przez rzekę przy słynnej rzeźbie, a potem podziwiaj gotycką wspaniałość katedry. Spacer zakończysz przy nowoczesnej Operze Nova — architektonicznym akcentem kontrastującym ze starym miastem, idealnym zakończeniem kulturalnej wycieczki."
       },
       "gastro_picks": {
         "de": [
@@ -385,6 +400,12 @@
           "Keep your camera ready, especially around the Bydgoszcz Venice area.",
           "Check the museum's opening hours in advance.",
           "Some of the best views are from the numerous bridges."
+        ],
+        "pl": [
+          "Noś wygodne buty — będziesz dużo chodzić po brukach.",
+          "Miej aparat gotowy, zwłaszcza w rejonie Bydgoskich Wenecji.",
+          "Sprawdź godziny otwarcia muzeów z wyprzedzeniem.",
+          "Najlepsze widoki są z licznych mostów."
         ]
       },
       "variants": {
@@ -393,7 +414,8 @@
             "de": "Morgen: Beginnen Sie am Alten Markt und nutzen Sie die Arkaden der umliegenden Gebäude als Regenschutz. Mittag: Die Museen auf der Mühleninsel bieten den perfekten Zufluchtsort vor dem nassen Wetter. Nachmittag: Nach einem kurzen Blick auf die Skulptur über der Brda bietet die Kathedrale eine andächtige, trockene Pause. Abend: Beenden Sie den Tag im modernen, beheizten Foyer der Opera Nova oder genießen Sie den Regenblick aus einem der gemütlichen Cafés am Flussufer.",
             "hu": "Reggel: Az Óvárosi téren kezdjük a sétát, a városháza környéki árkádok alatt védve az esőtől. Délben: A Malom-sziget múzeumi negyede ideális menedék, ahol fedett helyen fedezhetjük fel a város történetét. Délután: A folyón átkelő szobor megtekintése után a székesegyház belső tere nyújt nyugalmat és száraz pihenőt. Este: A napot az Opera Nova modern épületében vagy a Bydgoszczy Velence egyik hangulatos, folyóra néző kávézójában zárjuk, figyelve a vízen táncoló esőcseppeket.",
             "ro": "Dimineața: Începeți în Piața Veche, folosind arcadele clădirilor istorice pentru a vă proteja de ploaie. Prânz: Insula Morii este refugiul perfect, complexul muzeal oferind numeroase spații interioare fascinante. După-amiază: După o scurtă oprire la sculptura de pe Brda, interiorul catedralei oferă un spațiu liniștit și uscat. Seara: Încheiați ziua în foierul modern al Operei Nova sau savurând o băutură caldă într-o cafenea din Veneția Bydgoszczului, privind ploaia peste râu.",
-            "en": "Morning: Start at the Old Market Square, utilizing building overhangs and nearby cafes to stay dry. Noon: The museums on Mill Island provide an excellent indoor retreat during heavy showers. Afternoon: After a quick stop to see the sculpture over the river, find sanctuary in the beautiful interior of the Bydgoszcz Cathedral. Evening: Finish your day at the Opera Nova or enjoy the atmospheric view of the rain hitting the Brda river from a window seat in Bydgoszcz Venice."
+            "en": "Morning: Start at the Old Market Square, utilizing building overhangs and nearby cafes to stay dry. Noon: The museums on Mill Island provide an excellent indoor retreat during heavy showers. Afternoon: After a quick stop to see the sculpture over the river, find sanctuary in the beautiful interior of the Bydgoszcz Cathedral. Evening: Finish your day at the Opera Nova or enjoy the atmospheric view of the rain hitting the Brda river from a window seat in Bydgoszcz Venice.",
+            "pl": "Poranek: zacznij na Starym Rynku, korzystając z okapów budynków i pobliskich kawiarni, by pozostać suchym. Południe: muzea na Wyspie Młyńskiej to doskonałe schronienie podczas ulew. Popołudnie: po krótkim przystanku przy rzeźbie nad rzeką znajdź azyl w pięknym wnętrzu katedry. Wieczór: zakończ dzień w Operze Nova lub obserwując deszcz uderzający o Brdę z miejsca przy oknie w Bydgoskich Wenecjach."
           },
           "stops": [
             {
@@ -402,7 +424,8 @@
                 "de": "Unter den Arkaden des Rathauses bleiben Sie auch bei Schauern trocken.",
                 "hu": "A városháza árkádjai alatt esőben is szárazon maradhat.",
                 "ro": "Arcadele primăriei oferă adăpost excelent în caz de aversă.",
-                "en": "The town hall arcades provide good shelter from passing showers."
+                "en": "The town hall arcades provide good shelter from passing showers.",
+                "pl": "Arkady ratusza dobrze chronią przed przelotnymi opadami."
               }
             },
             {
@@ -411,7 +434,8 @@
                 "de": "Die Cafés direkt am Wasser bieten einen tollen Blick auf den regnerischen Fluss.",
                 "hu": "A közvetlen vízparti kávézók remek kilátást nyújtanak az esős folyóra.",
                 "ro": "Cafenelele de pe malul apei oferă o priveliște superbă spre râul plouat.",
-                "en": "Waterfront cafes offer a moody and beautiful view of the rain on the river."
+                "en": "Waterfront cafes offer a moody and beautiful view of the rain on the river.",
+                "pl": "Kawiarnie nadbrzeżne oferują nastrojowy widok deszczu na rzece."
               }
             },
             {
@@ -420,7 +444,8 @@
                 "de": "Besuchen Sie das Rotunda-Gebäude für eine interaktive Indoor-Pause.",
                 "hu": "Látogasson el a Rotunda épületébe egy interaktív beltéri pihenőre.",
                 "ro": "Vizitați clădirea Rotunda pentru o pauză interactivă la interior.",
-                "en": "Visit the Rotunda building for an engaging indoor break."
+                "en": "Visit the Rotunda building for an engaging indoor break.",
+                "pl": "Odwiedź budynek Rotundy na angażującą przerwę w wnętrzu."
               }
             },
             {
@@ -429,7 +454,8 @@
                 "de": "Planen Sie hier bei starkem Regen mehr Zeit für die Ausstellungen ein.",
                 "hu": "Heves esőzés esetén szánjon több időt a benti kiállításokra.",
                 "ro": "Alocați mai mult timp expozițiilor dacă plouă torențial afară.",
-                "en": "Allocate more time for exhibitions here if the rain gets heavy."
+                "en": "Allocate more time for exhibitions here if the rain gets heavy.",
+                "pl": "Zarezerwuj więcej czasu na wystawy tutaj, jeśli deszcz nasili się."
               }
             },
             {
@@ -438,7 +464,8 @@
                 "de": "Das Seil glänzt bei Regen besonders schön; perfekt für ein schnelles Foto.",
                 "hu": "A kötél esőben különlegesen csillog; ideális egy gyors fotóhoz.",
                 "ro": "Cablul strălucește frumos în ploaie; perfect pentru o fotografie rapidă.",
-                "en": "The cable glistens beautifully in the rain; great for a quick snap."
+                "en": "The cable glistens beautifully in the rain; great for a quick snap.",
+                "pl": "Kabel lśni pięknie w deszczu; świetne miejsce na szybkie zdjęcie."
               }
             },
             {
@@ -447,7 +474,8 @@
                 "de": "Der farbenfrohe Innenraum wirkt an grauen Regentagen besonders warm.",
                 "hu": "A színes belső tér különösen barátságos a szürke esős napokon.",
                 "ro": "Interiorul colorat pare deosebit de cald în zilele gri de ploaie.",
-                "en": "The colorful interior feels especially warm on grey rainy days."
+                "en": "The colorful interior feels especially warm on grey rainy days.",
+                "pl": "Kolorowe wnętrze wydaje się szczególnie przytulne w ponure, deszczowe dni."
               }
             },
             {
@@ -456,7 +484,8 @@
                 "de": "Ein idealer Ort, um den Tag bei einer Vorstellung im Trockenen zu beenden.",
                 "hu": "Ideális helyszín a nap szárazon történő befejezéséhez egy előadással.",
                 "ro": "Locul ideal pentru a încheia ziua la interior cu un spectacol.",
-                "en": "An ideal place to finish the day indoors with a performance."
+                "en": "An ideal place to finish the day indoors with a performance.",
+                "pl": "Idealne miejsce, by zakończyć dzień w pomieszczeniu przy przedstawieniu."
               }
             }
           ],
@@ -484,6 +513,12 @@
               "The water taxis are covered and offer a great rainy-day transport alternative.",
               "Mill Island museums are clustered close together, ideal for short dashes.",
               "An umbrella is often more practical than a poncho due to river breezes."
+            ],
+            "pl": [
+              "Bydgoszcz ma wiele pasaży; używaj ich jako skrótów, żeby pozostać suchym.",
+              "Taksówki wodne są zadaszone i stanowią świetną alternatywę transportową na deszczowy dzień.",
+              "Muzea na Wyspie Młyńskiej są blisko siebie, idealne na krótkie przeskoki.",
+              "Parasol bywa często praktyczniejszy niż peleryna z powodu wiatrów znad rzeki."
             ]
           }
         },
@@ -492,7 +527,8 @@
             "de": "Morgen: Ein erfrischender Winterspaziergang über den Alten Markt, wo oft der Duft von gerösteten Mandeln in der Luft liegt. Mittag: Wärmen Sie sich in den historischen Getreidespeichern der Mühleninsel auf, die heute moderne Ausstellungen beherbergen. Nachmittag: Bewundern Sie die Brda-Skulptur im sanften Licht der frühen Dämmerung, bevor Sie die Kathedrale besuchen. Abend: Die beleuchtete Glasfassade der Opera Nova spiegelt sich im dunklen Flusswasser und bietet einen glanzvollen Abschluss Ihres Wintertages.",
             "hu": "Reggel: Frissítő téli séta az Óvárosi téren, ahol a levegőben gyakran érezni a pörkölt mandula illatát. Délben: Melegedjen fel a Malom-sziget történelmi magtáraiban, amelyek ma modern kiállításoknak adnak otthont. Délután: Csodálja meg a folyó feletti szobrot a korai szürkület lágy fényeiben, mielőtt betérne a székesegyházba. Este: Az Opera Nova kivilágított üveghomlokzata tükröződik a sötét folyóvízben, pompás zárást adva a téli napnak.",
             "ro": "Dimineața: O plimbare revigorantă de iarnă prin Piața Veche, unde mirosul de migdale prăjite plutește adesea în aer. Prânz: Încălziți-vă în hambarele istorice de pe Insula Morii, care găzduiesc acum expoziții moderne. După-amiază: Admirați sculptura de pe Brda în lumina blândă a amurgului timpuriu, înainte de a vizita catedrala. Seara: Fațada de sticlă iluminată a Operei Nova se oglindește în apele întunecate ale râului, oferind un final strălucitor.",
-            "en": "Morning: A crisp winter walk through the Old Market Square, often filled with the scent of seasonal treats. Noon: Warm up inside the historic granaries of Mill Island, now housing modern art and history. Afternoon: Catch the 'Passing through the River' sculpture in the soft twilight before visiting the cathedral. Evening: The illuminated glass facade of Opera Nova reflects in the dark river waters, providing a spectacular finish to your winter day."
+            "en": "Morning: A crisp winter walk through the Old Market Square, often filled with the scent of seasonal treats. Noon: Warm up inside the historic granaries of Mill Island, now housing modern art and history. Afternoon: Catch the 'Passing through the River' sculpture in the soft twilight before visiting the cathedral. Evening: The illuminated glass facade of Opera Nova reflects in the dark river waters, providing a spectacular finish to your winter day.",
+            "pl": "Poranek: Orzeźwiający zimowy spacer po Starym Rynku, często przesiąknięty zapachem sezonowych przysmaków. Południe: Rozgrzej się we wnętrzach zabytkowych spichlerzy na Wyspie Młyńskiej, dziś mieszczących sztukę współczesną i historię. Popołudnie: Zobacz rzeźbę „Przejście przez rzekę” w miękkim zmierzchu, a potem odwiedź katedrę. Wieczór: Podświetlona szklana fasada Opery Nova odbija się w ciemnych wodach rzeki, co daje spektakularne zakończenie zimowego dnia."
           },
           "stops": [
             {
@@ -501,7 +537,8 @@
                 "de": "Genießen Sie ein heißes Getränk an einem der Stände, falls der Wintermarkt stattfindet.",
                 "hu": "Élvezzen egy forró italt az egyik bódénál, ha tart a téli vásár.",
                 "ro": "Savurați o băutură caldă la standuri dacă este organizat târgul de iarnă.",
-                "en": "Enjoy a hot drink from a stall if the winter market is in session."
+                "en": "Enjoy a hot drink from a stall if the winter market is in session.",
+                "pl": "Jeśli trwa zimowy jarmark, rozgrzej się gorącym napojem ze stoiska."
               }
             },
             {
@@ -510,7 +547,8 @@
                 "de": "Die Eiszapfen an den alten Häusern entlang des Kanals wirken wie im Märchen.",
                 "hu": "A csatorna menti régi házakon lógó jégcsapok mesebeli látványt nyújtanak.",
                 "ro": "Țurțurii de gheață de pe casele vechi de-a lungul canalului par desprinși din basme.",
-                "en": "Icicles on the old houses along the canal create a fairytale atmosphere."
+                "en": "Icicles on the old houses along the canal create a fairytale atmosphere.",
+                "pl": "Sople lodu na starych kamienicach wzdłuż kanału tworzą baśniową atmosferę."
               }
             },
             {
@@ -519,7 +557,8 @@
                 "de": "Die weite Fläche kann im Winter windig sein; ziehen Sie sich warm an.",
                 "hu": "A tágas terület télen szeles lehet; öltözzön fel melegen.",
                 "ro": "Zona deschisă poate fi vântoasă iarna; îmbrăcați-vă cu haine groase.",
-                "en": "The open area can be windy in winter; dress in warm layers."
+                "en": "The open area can be windy in winter; dress in warm layers.",
+                "pl": "W otwartej przestrzeni może być wietrznie zimą; ubierz się warstwowo."
               }
             },
             {
@@ -528,7 +567,8 @@
                 "de": "Nutzen Sie die Garderobe, um schwere Wintermäntel während des Besuchs abzulegen.",
                 "hu": "Használja a ruhatárat a nehéz téli kabátok leadásához a látogatás alatt.",
                 "ro": "Folosiți garderoba pentru a lăsa hainele groase de iarnă pe durata vizitei.",
-                "en": "Use the cloakroom to drop off heavy winter coats during your visit."
+                "en": "Use the cloakroom to drop off heavy winter coats during your visit.",
+                "pl": "Skorzystaj z szatni, żeby zostawić ciężkie zimowe płaszcze podczas zwiedzania."
               }
             },
             {
@@ -537,7 +577,8 @@
                 "de": "Im Winter wird die Skulptur oft früh am Nachmittag stimmungsvoll beleuchtet.",
                 "hu": "Télen a szobrot gyakran már kora délután hangulatosan kivilágítják.",
                 "ro": "Iarna, sculptura este adesea iluminată ambiental încă de la amiază.",
-                "en": "In winter, the sculpture is often atmospherically lit starting in early afternoon."
+                "en": "In winter, the sculpture is often atmospherically lit starting in early afternoon.",
+                "pl": "Zimą rzeźba bywa nastrojowo oświetlona często już od wczesnego popołudnia."
               }
             },
             {
@@ -546,7 +587,8 @@
                 "de": "Ein Ort der Stille und Wärme, ideal nach einem Spaziergang am Fluss.",
                 "hu": "A csend és a meleg helyszíne, ideális egy folyóparti séta után.",
                 "ro": "Un loc de liniște și căldură, ideal după o plimbare pe malul râului.",
-                "en": "A place of peace and warmth, perfect after a walk along the river."
+                "en": "A place of peace and warmth, perfect after a walk along the river.",
+                "pl": "Miejsce spokoju i ciepła, idealne po spacerze nad rzeką."
               }
             },
             {
@@ -555,7 +597,8 @@
                 "de": "Buchen Sie Tickets im Voraus für eine festliche Winteraufführung.",
                 "hu": "Foglaljon jegyet előre egy ünnepi téli előadásra.",
                 "ro": "Rezervați bilete din timp pentru un spectacol festiv de iarnă.",
-                "en": "Book tickets in advance for a festive winter performance."
+                "en": "Book tickets in advance for a festive winter performance.",
+                "pl": "Rezerwuj bilety z wyprzedzeniem na świąteczne widowisko."
               }
             }
           ],
@@ -583,6 +626,12 @@
               "Wear shoes with good grip, as the bridges can become slippery.",
               "Many cafes on Mill Island offer outdoor heaters and blankets.",
               "Visit the Exploseum only if you have warm layers for the underground tunnels."
+            ],
+            "pl": [
+              "Zachód słońca w grudniu następuje już o 15:45.",
+              "Noś buty z dobrą przyczepnością, mosty mogą być śliskie.",
+              "Wiele kawiarni na Wyspie Młyńskiej oferuje nagrzewnice i koce na zewnątrz.",
+              "Odwiedź Exploseum tylko jeśli masz ciepłe warstwy na podziemne tunele."
             ]
           }
         }
@@ -601,7 +650,8 @@
             "de": "Alter Markt",
             "hu": "Régi Piactér",
             "ro": "Piața Veche",
-            "en": "Old Market Square"
+            "en": "Old Market Square",
+            "pl": "Stary Rynek"
           },
           "coords": [
             18.0019,
@@ -617,7 +667,8 @@
             "de": "Schließen Sie Ihr Rad an und erkunden Sie den Platz zu Fuß.",
             "hu": "Zárja le a biciklit, és fedezze fel a teret gyalog.",
             "ro": "Legați-vă bicicleta și explorați piața pe jos.",
-            "en": "Lock up your bike and explore the square on foot."
+            "en": "Lock up your bike and explore the square on foot.",
+            "pl": "Zamknij rower i zwiedzaj rynek pieszo."
           }
         },
         {
@@ -625,7 +676,8 @@
             "de": "Mühleninsel & Bydgoszczer Venedig",
             "hu": "Malom-sziget és Bydgoszczi Velence",
             "ro": "Insula Morilor & Veneția din Bydgoszcz",
-            "en": "Mill Island & Bydgoszcz Venice"
+            "en": "Mill Island & Bydgoszcz Venice",
+            "pl": "Wyspa Młyńska i Bydgoska Wenecja"
           },
           "coords": [
             17.9969,
@@ -641,7 +693,8 @@
             "de": "Radfahren Sie um die Insel und über die Brücken für tolle Ausblicke.",
             "hu": "Kerékpározzon körbe a szigeten és át a hidakon a nagyszerű kilátásért.",
             "ro": "Mergeți cu bicicleta în jurul insulei și peste poduri pentru priveliști minunate.",
-            "en": "Cycle around the island and over the bridges for great views."
+            "en": "Cycle around the island and over the bridges for great views.",
+            "pl": "Przejedź się wokół wyspy i przez mosty, by podziwiać widoki."
           }
         },
         {
@@ -649,7 +702,8 @@
             "de": "Opera Nova",
             "hu": "Opera Nova",
             "ro": "Opera Nova",
-            "en": "Opera Nova"
+            "en": "Opera Nova",
+            "pl": "Opera Nova"
           },
           "coords": [
             17.9934,
@@ -665,7 +719,8 @@
             "de": "Ein guter Ort, um das moderne Bydgoszcz zu sehen. Es gibt Fahrradständer in der Nähe.",
             "hu": "Jó hely a modern Bydgoszcz megtekintésére. A közelben kerékpártárolók találhatók.",
             "ro": "Un loc bun pentru a vedea Bydgoszcz-ul modern. Există suporturi pentru biciclete în apropiere.",
-            "en": "A good place to see modern Bydgoszcz. There are bike racks nearby."
+            "en": "A good place to see modern Bydgoszcz. There are bike racks nearby.",
+            "pl": "Dobre miejsce, by zobaczyć nowoczesną Bydgoszcz. W pobliżu stojaki na rowery."
           }
         },
         {
@@ -673,7 +728,8 @@
             "de": "Bezirksmuseum Leon Wyczółkowski",
             "hu": "Leon Wyczółkowski Kerületi Múzeum",
             "ro": "Muzeul Districtual Leon Wyczółkowski",
-            "en": "Leon Wyczółkowski District Museum"
+            "en": "Leon Wyczółkowski District Museum",
+            "pl": "Muzeum Okręgowe im. Leona Wyczółkowskiego"
           },
           "coords": [
             17.9975,
@@ -689,7 +745,8 @@
             "de": "Planen Sie genügend Zeit für dieses umfangreiche Museum ein.",
             "hu": "Szánjon elegendő időt erre a kiterjedt múzeumra.",
             "ro": "Planificați suficient timp pentru acest muzeu extins.",
-            "en": "Plan enough time for this extensive museum."
+            "en": "Plan enough time for this extensive museum.",
+            "pl": "Zaplanuj wystarczająco dużo czasu na to obszerne muzeum."
           }
         },
         {
@@ -697,7 +754,8 @@
             "de": "Bydgoszczer Dom & Skulptur",
             "hu": "Bydgoszczi Dóm és Szobor",
             "ro": "Catedrala & Sculptura din Bydgoszcz",
-            "en": "Bydgoszcz Cathedral & Sculpture"
+            "en": "Bydgoszcz Cathedral & Sculpture",
+            "pl": "Katedra bydgoska i rzeźba"
           },
           "coords": [
             18.0025,
@@ -713,7 +771,8 @@
             "de": "Stellen Sie Ihr Fahrrad ab und besuchen Sie die Kathedrale, bevor Sie die berühmte Skulptur bewundern.",
             "hu": "Tegye le a kerékpárt, és látogassa meg a katedrálist, mielőtt megcsodálná a híres szobrot.",
             "ro": "Parcați bicicleta și vizitați catedrala înainte de a admira faimoasa sculptură.",
-            "en": "Park your bike and visit the cathedral before admiring the famous sculpture."
+            "en": "Park your bike and visit the cathedral before admiring the famous sculpture.",
+            "pl": "Zabezpiecz rower i odwiedź katedrę przed podziwianiem słynnej rzeźby."
           }
         },
         {
@@ -721,7 +780,8 @@
             "de": "Exploseum",
             "hu": "Exploseum",
             "ro": "Exploseum",
-            "en": "Exploseum"
+            "en": "Exploseum",
+            "pl": "Exploseum"
           },
           "coords": [
             18.0986,
@@ -737,7 +797,8 @@
             "de": "Die Radtour hierher führt durch Waldgebiete. Eine tolle Abwechslung zur Stadt.",
             "hu": "Az ide vezető kerékpárút erdős területeken halad át. Nagyszerű változatosság a városhoz képest.",
             "ro": "Traseul cu bicicleta până aici trece prin zone împădurite. O schimbare grozavă față de oraș.",
-            "en": "The bike ride here leads through forest areas. A great change from the city."
+            "en": "The bike ride here leads through forest areas. A great change from the city.",
+            "pl": "Jazda rowerem tam prowadzi przez obszary leśne. Fajna odmiana od miasta."
           }
         }
       ],
@@ -745,7 +806,8 @@
         "de": "Schwingen Sie sich aufs Rad und starten Sie am Alten Markt in Bydgoszcz. Ihre erste Etappe führt Sie zur idyllischen Mühleninsel und dem Bydgoszczer Venedig, wo Radwege am Wasser entlangführen. Weiter geht es zur modernen Opera Nova, bevor Sie zurück ins Herz der Insel radeln, um im Bezirksmuseum in die Geschichte einzutauchen. Der Nachmittag gehört der Erkundung des Domviertels, wo Sie die Kathedrale und die berühmte Seiltänzer-Skulptur bewundern. Die letzte, längere Etappe führt Sie durch Wälder zum faszinierenden Exploseum, einem Relikt der Industriegeschichte, das einen spannenden Kontrast zum Stadtzentrum bietet.",
         "hu": "Pattanjon biciklire, és induljon a bydgoszczi Régi Piactérről. Az első szakasz az idilli Malom-szigetre és a Bydgoszczi Velencébe vezet, ahol a vízparti kerékpárutakon tekerhet. Továbbhaladva a modern Opera Nova felé, majd vissza a sziget szívébe, hogy a Kerületi Múzeumban elmerüljön a történelemben. A délután a Dómnegyed felfedezésével telik, ahol megcsodálhatja a katedrálist és a híres kötéltáncos szobrot. Az utolsó, hosszabb szakasz erdőkön át vezet a lenyűgöző Exploseumba, egy ipari történelmi emlékhelyre, amely izgalmas kontrasztot kínál a városközponttal.",
         "ro": "Urcați-vă pe bicicletă și porniți din Piața Veche din Bydgoszcz. Prima etapă vă duce la idilica Insulă a Morilor și la Veneția din Bydgoszcz, unde pistele de biciclete șerpuiesc de-a lungul apei. Continuați spre moderna Opera Nova înainte de a pedala înapoi în inima insulei pentru a vă cufunda în istorie la Muzeul Districtual. După-amiaza este dedicată explorării cartierului catedralei, unde puteți admira catedrala și faimoasa sculptură a acrobatului pe sârmă. Ultima și cea mai lungă etapă vă duce prin păduri la fascinantul Exploseum, o relicvă a istoriei industriale care oferă un contrast palpitant cu centrul orașului.",
-        "en": "Hop on your bike and start at the Old Market Square in Bydgoszcz. Your first leg takes you to the idyllic Mill Island and Bydgoszcz Venice, where bike paths run along the water. Continue to the modern Opera Nova before cycling back to the heart of the island to delve into history at the District Museum. The afternoon is for exploring the Cathedral district, where you can admire the cathedral and the famous tightrope walker sculpture. The final, longer stage takes you through forests to the fascinating Exploseum, a relic of industrial history that offers an exciting contrast to the city center."
+        "en": "Hop on your bike and start at the Old Market Square in Bydgoszcz. Your first leg takes you to the idyllic Mill Island and Bydgoszcz Venice, where bike paths run along the water. Continue to the modern Opera Nova before cycling back to the heart of the island to delve into history at the District Museum. The afternoon is for exploring the Cathedral district, where you can admire the cathedral and the famous tightrope walker sculpture. The final, longer stage takes you through forests to the fascinating Exploseum, a relic of industrial history that offers an exciting contrast to the city center.",
+        "pl": "Wskocz na rower i rozpocznij od Starego Rynku w Bydgoszczy. Pierwszy etap prowadzi na malowniczą Wyspę Młyńską i Bydgoską Wenecję, gdzie ścieżki rowerowe biegną wzdłuż wody. Kontynuuj do nowoczesnej Opery Nova, potem wróć w stronę serca wyspy, by zanurzyć się w historii w Muzeum Okręgowym. Popołudnie przeznaczone jest na dzielnicę Katedry, gdzie możesz podziwiać katedrę i słynnego linoskoczka. Ostatni, dłuższy odcinek prowadzi przez lasy do fascynującego Exploseum, reliktu przemysłowej historii, który stanowi ekscytujący kontrast do centrum miasta."
       },
       "gastro_picks": {
         "de": [
@@ -941,6 +1003,12 @@
           "Use the cycle paths along the river.",
           "A good lock is essential when you're visiting sights.",
           "The ride to the Exploseum requires some stamina."
+        ],
+        "pl": [
+          "Bydgoszcz jest stosunkowo przyjazna rowerom, ale uważaj na pieszych w starej części miasta.",
+          "Korzystaj ze ścieżek rowerowych wzdłuż rzeki.",
+          "Dobry zamek jest niezbędny, gdy odwiedzasz atrakcje.",
+          "Przejazd do Exploseum wymaga pewnej kondycji."
         ]
       },
       "variants": {
@@ -949,7 +1017,8 @@
             "de": "Morgen: Start im Zentrum, achten Sie auf rutschiges Kopfsteinpflaster am Markt. Mittag: Nutzen Sie die langen Museumsbesuche auf der Mühleninsel, um den Regen abzuwarten. Nachmittag: Eine zügige Fahrt zur Kathedrale und dann hinaus zum Exploseum, wo Sie größtenteils im Trockenen unter Tage sind. Abend: Rückkehr in die Stadt zu einem gemütlichen Abendessen, während das Fahrrad sicher und idealerweise unter einem Vordach abgestellt ist.",
             "hu": "Reggel: Indulás a belvárosból, vigyázzon a csúszós macskakőre a piacon. Délben: Használja ki a Malom-sziget hosszú múzeumi látogatásait, hogy kivárja az eső végét. Délután: Gyors tekerés a székesegyházhoz, majd ki az Exploseumhoz, ahol nagyobbrészt szárazon, a föld alatt lesz. Este: Visszatérés a városba egy hangulatos vacsorára, miközben a kerékpárt biztonságos, ideális esetben fedett helyen parkolja le.",
             "ro": "Dimineața: Start din centru, atenție la pavajul alunecos din piață pe timp de ploaie. Prânz: Profitați de vizitele lungi la muzeele de pe Insula Morii pentru a aștepta oprirea ploii. După-amiază: O cursă rapidă spre catedrală, apoi spre Exploseum, unde veți fi în mare parte la adăpost, în subteran. Seara: Revenire în oraș pentru o cină caldă, cu bicicleta parcată în siguranță sub un acoperiș.",
-            "en": "Morning: Start in the center, being cautious of slippery cobblestones in the Market Square. Noon: Use the long museum visits on Mill Island to wait out the rain. Afternoon: A quick ride to the Cathedral and then out to the Exploseum, where you'll stay dry underground. Evening: Return to the city for a cozy dinner while your bike is parked safely, ideally under a shelter."
+            "en": "Morning: Start in the center, being cautious of slippery cobblestones in the Market Square. Noon: Use the long museum visits on Mill Island to wait out the rain. Afternoon: A quick ride to the Cathedral and then out to the Exploseum, where you'll stay dry underground. Evening: Return to the city for a cozy dinner while your bike is parked safely, ideally under a shelter.",
+            "pl": "Poranek: Zacznij w centrum, uważając na śliskie brukowane kamienie na Rynku. Południe: Wykorzystaj długie wizyty w muzeach na Wyspie Młyńskiej, żeby przeczekać deszcz. Popołudnie: Szybka przejażdżka do Katedry, a potem na Exploseum, gdzie schronisz się pod ziemią. Wieczór: Wracaj do miasta na przytulną kolację, trzymając rower zaparkowany bezpiecznie, najlepiej pod zadaszeniem."
           },
           "stops": [
             {
@@ -958,7 +1027,8 @@
                 "de": "Vorsicht bei nassen Straßenbahnschienen rund um den Platz.",
                 "hu": "Vigyázzon a vizes villamossínekre a tér környékén.",
                 "ro": "Atenție la șinele de tramvai ude din jurul pieței.",
-                "en": "Be careful crossing wet tram tracks around the square."
+                "en": "Be careful crossing wet tram tracks around the square.",
+                "pl": "Uważaj przejeżdżając mokre tory tramwajowe wokół rynku."
               }
             },
             {
@@ -967,7 +1037,8 @@
                 "de": "Es gibt überdachte Fahrradständer in der Nähe der Museen.",
                 "hu": "A múzeumok közelében fedett kerékpártárolók találhatók.",
                 "ro": "Există rastele de biciclete acoperite în apropierea muzeelor.",
-                "en": "There are covered bike racks near the museum buildings."
+                "en": "There are covered bike racks near the museum buildings.",
+                "pl": "Są zadaszone stojaki rowerowe przy budynkach muzealnych."
               }
             },
             {
@@ -976,7 +1047,8 @@
                 "de": "Der Vorplatz bietet wenig Schutz; parken Sie direkt am Eingang.",
                 "hu": "Az előtér kevés védelmet nyújt; parkoljon közvetlenül a bejáratnál.",
                 "ro": "Esplanada oferă puțin adăpost; parcați chiar lângă intrare.",
-                "en": "The forecourt offers little shelter; park right by the entrance."
+                "en": "The forecourt offers little shelter; park right by the entrance.",
+                "pl": "Przedpole oferuje niewiele schronienia; parkuj tuż przy wejściu."
               }
             },
             {
@@ -985,7 +1057,8 @@
                 "de": "Ein perfekter Ort für eine lange Regenpause im Trockenen.",
                 "hu": "Tökéletes helyszín egy hosszú, száraz esőszünethez.",
                 "ro": "Locul perfect pentru o pauză lungă și uscată în timp ce plouă.",
-                "en": "A perfect spot for a long, dry break while it rains."
+                "en": "A perfect spot for a long, dry break while it rains.",
+                "pl": "Idealne miejsce na dłuższą, suchą przerwę podczas deszczu."
               }
             },
             {
@@ -994,7 +1067,8 @@
                 "de": "Achten Sie auf Fußgänger mit Regenschirmen auf der Brücke.",
                 "hu": "Vigyázzon az esernyős gyalogosokra a hídon.",
                 "ro": "Atenție la pietonii cu umbrele de pe pod.",
-                "en": "Watch out for pedestrians with umbrellas on the bridge."
+                "en": "Watch out for pedestrians with umbrellas on the bridge.",
+                "pl": "Uważaj na pieszych z parasolami na moście."
               }
             },
             {
@@ -1003,7 +1077,8 @@
                 "de": "Die Fahrt dorthin führt durch Waldwege; Schutzbleche sind empfohlen.",
                 "hu": "Az odaút erdei utakon vezet; sárvédő használata javasolt.",
                 "ro": "Drumul trece prin pădure; se recomandă aripi de protecție la bicicletă.",
-                "en": "The ride there follows forest paths; mudguards are highly recommended."
+                "en": "The ride there follows forest paths; mudguards are highly recommended.",
+                "pl": "Trasa tam wiedzie leśnymi ścieżkami; błotniki są zdecydowanie zalecane."
               }
             }
           ],
@@ -1031,6 +1106,12 @@
               "The route to Exploseum can get muddy during heavy rain.",
               "Front and rear lights are essential in gloomy rainy weather.",
               "A waterproof saddle cover will keep you dry when starting off."
+            ],
+            "pl": [
+              "Unikaj gwałtownego hamowania na mokrym bruku.",
+              "Droga do Exploseum może być błotnista podczas ulewy.",
+              "Przednie i tylne światła są niezbędne w ponure, deszczowe dni.",
+              "Wodoodporny pokrowiec na siodełko ochroni cię przed zmoknięciem na starcie."
             ]
           }
         },
@@ -1039,7 +1120,8 @@
             "de": "Morgen: Start bei klarer Winterluft im Stadtzentrum. Mittag: Die Mühleninsel ist ein schöner Stopp, aber achten Sie auf gefrorene Stellen am Ufer. Nachmittag: Nach Kultur in den Museen folgt die Fahrt zum Exploseum. Die Waldstrecke ist im Winter besonders ruhig und stimmungsvoll. Abend: Rückkehr in die beleuchtete Stadt. Planen Sie ein, dass die Energie bei Kälte schneller nachlässt – ein heißer Tee im Zentrum ist die beste Belohnung.",
             "hu": "Reggel: Indulás tiszta téli levegőben a városközpontból. Délben: A Malom-sziget szép megálló, de ügyeljen a fagyott foltokra a part mentén. Délután: A múzeumi kultúra után irány az Exploseum. Az erdei szakasz télen különösen csendes és hangulatos. Este: Visszatérés a kivilágított városba. Számoljon azzal, hogy hidegben gyorsabban fogy az energia – egy forró tea a központban a legjobb jutalom.",
             "ro": "Dimineața: Start în aerul curat de iarnă din centrul orașului. Prânz: Insula Morii este o oprire frumoasă, dar atenție la zonele înghețate de pe mal. După-amiază: După cultura din muzee, urmează drumul spre Exploseum. Secțiunea prin pădure este deosebit de liniștită iarna. Seara: Revenire în orașul iluminat. Anticipați faptul că energia scade mai repede la frig – un ceai fierbinte în centru este cea mai bună recompensă.",
-            "en": "Morning: Start in the crisp winter air of the city center. Noon: Mill Island is a beautiful stop, but watch for icy patches along the riverbank. Afternoon: After soaking up culture in the museums, head out to Exploseum. The forest stretch is particularly quiet and atmospheric in winter. Evening: Return to the brightly lit city. Remember that cold weather drains energy faster—a hot tea in the center is the best reward."
+            "en": "Morning: Start in the crisp winter air of the city center. Noon: Mill Island is a beautiful stop, but watch for icy patches along the riverbank. Afternoon: After soaking up culture in the museums, head out to Exploseum. The forest stretch is particularly quiet and atmospheric in winter. Evening: Return to the brightly lit city. Remember that cold weather drains energy faster—a hot tea in the center is the best reward.",
+            "pl": "Poranek: Zacznij w rześkim zimowym powietrzu centrum. Południe: Wyspa Młyńska to pięsty przystanek, ale uważaj na oblodzone miejsca wzdłuż brzegu rzeki. Popołudnie: Po dawce kultury w muzeach udaj się do Exploseum. Leśny odcinek jest szczególnie cichy i nastrojowy zimą. Wieczór: Wracaj do jasno oświetlonego miasta. Pamiętaj, że zimno szybciej wyczerpuje energię — gorąca herbata w centrum to najlepsza nagroda."
           },
           "stops": [
             {
@@ -1048,7 +1130,8 @@
                 "de": "Achten Sie auf rutschige Stellen im Bereich der Marktplatz-Brunnen.",
                 "hu": "Ügyeljen a csúszós foltokra a piaci kút környékén.",
                 "ro": "Atenție la zonele alunecoase din jurul fântânilor din piață.",
-                "en": "Watch out for icy spots near the market square fountains."
+                "en": "Watch out for icy spots near the market square fountains.",
+                "pl": "Uważaj na oblodzone miejsca w pobliżu fontann na rynku."
               }
             },
             {
@@ -1057,7 +1140,8 @@
                 "de": "Die Brücken können bei Frost sehr glatt sein – bitte absteigen.",
                 "hu": "A hidak fagyban nagyon csúszósak lehetnek – kérjük, szálljon le.",
                 "ro": "Podurile pot fi foarte alunecoase la îngheț – vă rugăm să coborâți.",
-                "en": "Bridges can be very slippery during frost—please dismount if needed."
+                "en": "Bridges can be very slippery during frost—please dismount if needed.",
+                "pl": "Mosty mogą być bardzo śliskie przy przymrozkach — proszę zejdź z roweru, jeśli to konieczne."
               }
             },
             {
@@ -1066,7 +1150,8 @@
                 "de": "Nutzen Sie den Stop, um sich kurz im beheizten Foyer aufzuwärmen.",
                 "hu": "Használja ki a megállót egy rövid felmelegedésre a fűtött előcsarnokban.",
                 "ro": "Folosiți oprirea pentru a vă încălzi puțin în foierul încălzit.",
-                "en": "Use this stop to warm up briefly in the heated foyer."
+                "en": "Use this stop to warm up briefly in the heated foyer.",
+                "pl": "Wykorzystaj to miejsce, by szybko się ogrzać w ogrzewanym foyer."
               }
             },
             {
@@ -1075,7 +1160,8 @@
                 "de": "Hinterlassen Sie Helm und Handschuhe sicher an der Garderobe.",
                 "hu": "Hagyja a sisakot és a kesztyűt biztonságban a ruhatárban.",
                 "ro": "Lăsați casca și mănușile în siguranță la garderobă.",
-                "en": "Leave your helmet and gloves safely at the cloakroom."
+                "en": "Leave your helmet and gloves safely at the cloakroom.",
+                "pl": "Zostaw kask i rękawice bezpiecznie w szatni."
               }
             },
             {
@@ -1084,7 +1170,8 @@
                 "de": "Genießen Sie den Blick auf die eventuell vereiste Brda.",
                 "hu": "Élvezze a kilátást az esetleg befagyott Brda folyóra.",
                 "ro": "Admirați priveliștea spre râul Brda care poate fi înghețat.",
-                "en": "Enjoy the view of the Brda river, which might be partially frozen."
+                "en": "Enjoy the view of the Brda river, which might be partially frozen.",
+                "pl": "Podziwiaj widok rzeki Brdy, która może być częściowo zamarznięta."
               }
             },
             {
@@ -1093,7 +1180,8 @@
                 "de": "Der Weg durch den Wald kann schneebedeckt sein; gute Reifen wichtig.",
                 "hu": "Az erdei út havas lehet; a jó gumiabroncs fontos.",
                 "ro": "Drumul prin pădure poate fi înzăpezit; anvelopele bune sunt esențiale.",
-                "en": "The forest path may be snow-covered; good tires are essential."
+                "en": "The forest path may be snow-covered; good tires are essential.",
+                "pl": "Leśna ścieżka może być pokryta śniegiem; dobre opony są niezbędne."
               }
             }
           ],
@@ -1121,6 +1209,12 @@
               "Check your brakes before setting off; cold affects their performance.",
               "E-bike batteries drain significantly faster in freezing temperatures.",
               "Most of the route will be in darkness after 4 PM; good lights are mandatory."
+            ],
+            "pl": [
+              "Ubierz się warstwowo na dłuższy przejazd do Exploseum.",
+              "Sprawdź hamulce przed wyjazdem; zimno wpływa na ich działanie.",
+              "Baterie w rowerach elektrycznych znacznie szybciej rozładowują się w mrozie.",
+              "Po 16:00 większość trasy będzie w ciemności; dobre oświetlenie jest obowiązkowe."
             ]
           }
         }
@@ -1139,7 +1233,8 @@
             "de": "Exploseum",
             "hu": "Exploseum",
             "ro": "Exploseum",
-            "en": "Exploseum"
+            "en": "Exploseum",
+            "pl": "Exploseum"
           },
           "coords": [
             18.0986,
@@ -1155,7 +1250,8 @@
             "de": "Beginnen Sie hier, um den Vormittagsverkehr in der Stadt zu meiden. Planen Sie viel Zeit ein.",
             "hu": "Kezdje itt, hogy elkerülje a délelőtti városi forgalmat. Szánjon rá bőséges időt.",
             "ro": "Începeți aici pentru a evita traficul de dimineață din oraș. Planificați-vă mult timp.",
-            "en": "Start here to avoid the morning city traffic. Plan for plenty of time."
+            "en": "Start here to avoid the morning city traffic. Plan for plenty of time.",
+            "pl": "Rozpocznij tutaj, by uniknąć porannego ruchu w mieście. Zaplanuj dużo czasu."
           }
         },
         {
@@ -1163,7 +1259,8 @@
             "de": "Parkplatz Altstadt (Cluster 1)",
             "hu": "Óvárosi Parkoló (1. Klaszter)",
             "ro": "Parcare Centrul Vechi (Cluster 1)",
-            "en": "Old Town Car Park (Cluster 1)"
+            "en": "Old Town Car Park (Cluster 1)",
+            "pl": "Parking Starego Miasta (Strefa 1)"
           },
           "coords": [
             18.004,
@@ -1179,7 +1276,8 @@
             "de": "Parken Sie hier für den Rest des Tages und erkunden Sie das Zentrum zu Fuß.",
             "hu": "Parkoljon le itt a nap hátralévő részére, és fedezze fel a központot gyalog.",
             "ro": "Parcați aici pentru restul zilei și explorați centrul pe jos.",
-            "en": "Park here for the rest of the day and explore the center on foot."
+            "en": "Park here for the rest of the day and explore the center on foot.",
+            "pl": "Zaparkuj tu na resztę dnia i zwiedzaj centrum pieszo."
           }
         },
         {
@@ -1187,7 +1285,8 @@
             "de": "Alter Markt & Dom",
             "hu": "Régi Piactér és Dóm",
             "ro": "Piața Veche & Catedrală",
-            "en": "Old Market Square & Cathedral"
+            "en": "Old Market Square & Cathedral",
+            "pl": "Stary Rynek i Katedra"
           },
           "coords": [
             18.0019,
@@ -1203,7 +1302,8 @@
             "de": "Nehmen Sie sich Zeit für den Platz, die Kathedrale und ein Mittagessen.",
             "hu": "Szánjon időt a térre, a dómra és egy ebédre.",
             "ro": "Acordați-vă timp pentru piață, catedrală și un prânz.",
-            "en": "Take your time for the square, the cathedral, and lunch."
+            "en": "Take your time for the square, the cathedral, and lunch.",
+            "pl": "Poświęć czas na rynek, katedrę i obiad."
           }
         },
         {
@@ -1211,7 +1311,8 @@
             "de": "Bydgoszczer Venedig",
             "hu": "Bydgoszczi Velence",
             "ro": "Veneția din Bydgoszcz",
-            "en": "Bydgoszcz Venice"
+            "en": "Bydgoszcz Venice",
+            "pl": "Bydgoska Wenecja"
           },
           "coords": [
             18.0001,
@@ -1227,7 +1328,8 @@
             "de": "Ein kurzer Spaziergang vom Markt, aber eine völlig andere Atmosphäre.",
             "hu": "Rövid séta a piactól, de teljesen más hangulat.",
             "ro": "O scurtă plimbare de la piață, dar o atmosferă complet diferită.",
-            "en": "A short walk from the market, but a completely different atmosphere."
+            "en": "A short walk from the market, but a completely different atmosphere.",
+            "pl": "Krótki spacer od rynku, ale zupełnie inna atmosfera."
           }
         },
         {
@@ -1235,7 +1337,8 @@
             "de": "Mühleninsel & Museum",
             "hu": "Malom-sziget és Múzeum",
             "ro": "Insula Morilor & Muzeu",
-            "en": "Mill Island & Museum"
+            "en": "Mill Island & Museum",
+            "pl": "Wyspa Młyńska i Muzeum"
           },
           "coords": [
             17.9969,
@@ -1251,7 +1354,8 @@
             "de": "Verbringen Sie den Großteil des Nachmittags hier, es gibt viel zu sehen.",
             "hu": "Töltse itt a délután nagy részét, rengeteg a látnivaló.",
             "ro": "Petreceți cea mai mare parte a după-amiezii aici, sunt multe de văzut.",
-            "en": "Spend most of the afternoon here, there's a lot to see."
+            "en": "Spend most of the afternoon here, there's a lot to see.",
+            "pl": "Spędź tu większość popołudnia, jest tu wiele do zobaczenia."
           }
         },
         {
@@ -1259,7 +1363,8 @@
             "de": "Opera Nova & Skulptur 'Über den Fluss gehend'",
             "hu": "Opera Nova és 'Átkelés a folyón' szobor",
             "ro": "Opera Nova & Sculptura 'Trecând peste râu'",
-            "en": "Opera Nova & Sculpture 'Passing through the River'"
+            "en": "Opera Nova & Sculpture 'Passing through the River'",
+            "pl": "Opera Nova i rzeźba „Przejście przez rzekę”"
           },
           "coords": [
             17.9934,
@@ -1275,7 +1380,8 @@
             "de": "Ein schöner Abschluss des Tages mit Blick auf den Fluss und die moderne Architektur.",
             "hu": "Szép lezárása a napnak a folyóra és a modern építészetre nyíló kilátással.",
             "ro": "Un final frumos de zi, cu vedere la râu și la arhitectura modernă.",
-            "en": "A beautiful end to the day with views of the river and modern architecture."
+            "en": "A beautiful end to the day with views of the river and modern architecture.",
+            "pl": "Piękne zakończenie dnia z widokami na rzekę i nowoczesną architekturę."
           }
         }
       ],
@@ -1283,7 +1389,8 @@
         "de": "Ihr Autotag beginnt mit einem strategischen Besuch des außerhalb gelegenen Exploseums, um den Morgenverkehr zu umgehen und in die faszinierende Industriegeschichte einzutauchen. Nach diesem intensiven Erlebnis fahren Sie ins Stadtzentrum, parken Ihr Auto und beginnen Ihren Stadtspaziergang. Der Mittag gehört dem historischen Herzen von Bydgoszcz: dem Alten Markt und der majestätischen Kathedrale, ideal für eine ausgiebige Mittagspause. Am Nachmittag erkunden Sie das malerische Bydgoszczer Venedig zu Fuß, bevor Sie sich auf die grüne Mühleninsel begeben, um das Museum zu besuchen und die Natur zu genießen. Der Tag endet mit einem Spaziergang zur modernen Opera Nova und der berühmten Skulptur, die einen perfekten Kontrastpunkt setzt, bevor Sie zu Ihrem Auto zurückkehren.",
         "hu": "Autós napja egy stratégiai látogatással kezdődik a városon kívüli Exploseumban, hogy elkerülje a reggeli forgalmat, és elmerüljön a lenyűgöző ipari történelemben. Ezen intenzív élmény után a városközpontba hajt, leparkolja az autót, és megkezdi városi sétáját. A déli órák Bydgoszcz történelmi szívében telnek: a Régi Piactéren és a fenséges dómban, ami ideális egy kiadós ebédszünethez. Délután gyalogosan fedezi fel a festői Bydgoszczi Velencét, mielőtt a zöld Malom-szigetre indulna a múzeumba és a természetbe. A nap egy sétával zárul a modern Opera Novához és a híres szoborhoz, ami tökéletes kontrasztot nyújt, mielőtt visszatérne az autójához.",
         "ro": "Ziua dvs. cu mașina începe cu o vizită strategică la Exploseum, situat în afara orașului, pentru a evita traficul de dimineață și a vă cufunda în fascinanta istorie industrială. După această experiență intensă, conduceți spre centrul orașului, parcați mașina și începeți plimbarea urbană. Prânzul este dedicat inimii istorice a Bydgoszcz: Piața Veche și catedrala maiestuoasă, ideale pentru o pauză de masă lungă. După-amiaza, explorați pe jos pitoreasca Veneție din Bydgoszcz, înainte de a vă îndrepta spre verdele Insulei a Morilor pentru a vizita muzeul și a vă bucura de natură. Ziua se încheie cu o plimbare la moderna Opera Nova și la faimoasa sculptură, oferind un punct de contrast perfect înainte de a vă întoarce la mașină.",
-        "en": "Your car day begins with a strategic visit to the outlying Exploseum to bypass morning traffic and delve into fascinating industrial history. After this intense experience, you drive to the city center, park your car, and begin your city walk. Midday belongs to the historical heart of Bydgoszcz: the Old Market Square and the majestic Cathedral, ideal for a lengthy lunch break. In the afternoon, you explore the picturesque Bydgoszcz Venice on foot before heading to the green Mill Island to visit the museum and enjoy nature. The day concludes with a walk to the modern Opera Nova and the famous sculpture, providing a perfect point of contrast before you return to your car."
+        "en": "Your car day begins with a strategic visit to the outlying Exploseum to bypass morning traffic and delve into fascinating industrial history. After this intense experience, you drive to the city center, park your car, and begin your city walk. Midday belongs to the historical heart of Bydgoszcz: the Old Market Square and the majestic Cathedral, ideal for a lengthy lunch break. In the afternoon, you explore the picturesque Bydgoszcz Venice on foot before heading to the green Mill Island to visit the museum and enjoy nature. The day concludes with a walk to the modern Opera Nova and the famous sculpture, providing a perfect point of contrast before you return to your car.",
+        "pl": "Twój dzień samochodem zaczyna się od strategicznej wizyty w odległym Exploseum, aby ominąć poranny ruch i zanurzyć się w fascynującej historii przemysłowej. Po intensywnym doświadczeniu jedziesz do centrum miasta, parkujesz samochód i zaczynasz spacer po mieście. Południe należy do historycznego serca Bydgoszczy: Starego Rynku i majestatycznej Katedry, idealnych na długi przerwę na lunch. Po południu spacerujesz po malowniczej Bydgoskiej Wenecji, a następnie udajesz się na zieloną Wyspę Młyńską, by odwiedzić muzeum i cieszyć się naturą. Dzień kończy spacer do nowoczesnej Opery Nova i słynnej rzeźby, co stanowi doskonały kontrast przed powrotem do samochodu."
       },
       "gastro_picks": {
         "de": [
@@ -1479,6 +1586,12 @@
           "Plan the route to the Exploseum in advance as it is located outside the city.",
           "Pay attention to parking zones and fees in the city center.",
           "The car gives you the flexibility to visit more distant parks like Myślęcinek."
+        ],
+        "pl": [
+          "Korzystaj z opcji Park and Ride, jeśli są dostępne.",
+          "Zaplanuj trasę do Exploseum z wyprzedzeniem, bo leży poza miastem.",
+          "Zwracaj uwagę na strefy parkowania i opłaty w centrum.",
+          "Samochód daje elastyczność w odwiedzinie dalszych parków, takich jak Myślęcinek."
         ]
       },
       "variants": {
@@ -1487,7 +1600,8 @@
             "de": "Morgen: Start beim Exploseum, das bei Regen ein perfektes Indoor-Ziel ist. Mittag: Parken Sie im Parkhaus nahe der Altstadt, um kurze Wege zu haben. Nachmittag: Erkunden Sie die Mühleninsel und das Museum, während das Auto trocken parkt. Die kurzen Wege zwischen den Sehenswürdigkeiten minimieren den Kontakt mit dem Regen. Abend: Ein stilvoller Abschluss bei der Opera Nova, direkt erreichbar vom Parkplatz.",
             "hu": "Reggel: Indulás az Exploseumnál, amely esőben tökéletes beltéri célpont. Délben: Parkoljon az óváros közeli parkolóházban, hogy rövid legyen a gyalogút. Délután: Fedezze fel a Malom-szigetet és a múzeumot, miközben az autó szárazon parkol. A látnivalók közötti rövid távolságok minimalizálják az esővel való érintkezést. Este: Stílusos zárás az Opera Novánál, amely közvetlenül elérhető a parkolóból.",
             "ro": "Dimineața: Începeți la Exploseum, o destinație perfectă de interior pe timp de ploaie. Prânz: Parcați în parcarea etajată de lângă orașul vechi pentru a scurta drumul pe jos. După-amiază: Explorați Insula Morii și muzeul în timp ce mașina stă la adăpost. Distanțele scurte între obiective minimizează expunerea la ploaie. Seara: Final de zi elegant la Opera Nova, accesibilă direct din parcare.",
-            "en": "Morning: Start at Exploseum, a perfect indoor destination during rain. Noon: Park in the multi-story car park near the Old Town to keep walking distances short. Afternoon: Explore Mill Island and the museum while your car is parked nearby. The proximity of sights minimizes your time in the rain. Evening: A stylish finish at Opera Nova, easily accessible from the parking area."
+            "en": "Morning: Start at Exploseum, a perfect indoor destination during rain. Noon: Park in the multi-story car park near the Old Town to keep walking distances short. Afternoon: Explore Mill Island and the museum while your car is parked nearby. The proximity of sights minimizes your time in the rain. Evening: A stylish finish at Opera Nova, easily accessible from the parking area.",
+            "pl": "Poranek: Zacznij w Exploseum, idealnym zamkniętym miejscu podczas deszczu. Południe: Zaparkuj w wielopoziomowym parkingu blisko Starego Miasta, by skrócić odległości piesze. Popołudnie: Zwiedzaj Wyspę Młyńską i muzeum, mając samochód zaparkowany w pobliżu. Bliskość atrakcji minimalizuje czas spędzony w deszczu. Wieczór: Stylowe zakończenie w Operze Nova, łatwo dostępne z parkingu."
           },
           "stops": [
             {
@@ -1496,7 +1610,8 @@
                 "de": "Nutzen Sie den Parkplatz direkt vor dem Eingang.",
                 "hu": "Használja a közvetlenül a bejárat előtt található parkolót.",
                 "ro": "Folosiți parcarea situată chiar în fața intrării.",
-                "en": "Use the car park located directly in front of the entrance."
+                "en": "Use the car park located directly in front of the entrance.",
+                "pl": "Korzystaj z parkingu znajdującego się bezpośrednio przed wejściem."
               }
             },
             {
@@ -1505,7 +1620,8 @@
                 "de": "Ein überdachtes Parkhaus ist bei Regen die beste Wahl.",
                 "hu": "Esőben egy fedett parkolóház a legjobb választás.",
                 "ro": "O parcare acoperită este cea mai bună alegere pe timp de ploaie.",
-                "en": "A covered parking garage is your best bet during rain."
+                "en": "A covered parking garage is your best bet during rain.",
+                "pl": "Zadaszony garaż parkingowy to najlepszy wybór podczas deszczu."
               }
             },
             {
@@ -1514,7 +1630,8 @@
                 "de": "Kurzer Fußweg vom Parkplatz; halten Sie den Schirm bereit.",
                 "hu": "Rövid séta a parkolótól; tartsa készenlétben az esernyőt.",
                 "ro": "Drum scurt pe jos din parcare; țineți umbrela la îndemână.",
-                "en": "Short walk from the car park; keep your umbrella ready."
+                "en": "Short walk from the car park; keep your umbrella ready.",
+                "pl": "Krótki spacer z parkingu; miej parasol pod ręką."
               }
             },
             {
@@ -1523,7 +1640,8 @@
                 "de": "Parken Sie entlang der Straße, falls Plätze frei sind, für kürzere Wege.",
                 "hu": "Parkoljon az utca mentén, ha van szabad hely, a rövidebb út érdekében.",
                 "ro": "Parcați de-a lungul străzii dacă sunt locuri libere pentru acces rapid.",
-                "en": "Park along the street if spots are available for quicker access."
+                "en": "Park along the street if spots are available for quicker access.",
+                "pl": "Parkuj wzdłuż ulicy, jeśli są wolne miejsca, aby szybciej dostać się na miejsce."
               }
             },
             {
@@ -1532,7 +1650,8 @@
                 "de": "Lassen Sie Ihre Regenjacken im Auto, wenn Sie nur ins Museum gehen.",
                 "hu": "Hagyja az esőkabátokat az autóban, ha csak a múzeumba megy.",
                 "ro": "Lăsați pelerinele în mașină dacă mergeți doar la muzeu.",
-                "en": "Leave heavy rain gear in the car if you're just heading into the museum."
+                "en": "Leave heavy rain gear in the car if you're just heading into the museum.",
+                "pl": "Zostaw ciężkie przeciwdeszczowe rzeczy w samochodzie, jeśli idziesz tylko do muzeum."
               }
             },
             {
@@ -1541,7 +1660,8 @@
                 "de": "Der Parkplatz direkt an der Oper ist ideal bei schlechtem Wetter.",
                 "hu": "Az Opera közvetlen parkolója ideális rossz idő esetén.",
                 "ro": "Parcarea de lângă operă este ideală în caz de vreme rea.",
-                "en": "The car park right by the Opera is ideal during bad weather."
+                "en": "The car park right by the Opera is ideal during bad weather.",
+                "pl": "Parking tuż przy Operze jest idealny podczas złej pogody."
               }
             }
           ],
@@ -1569,6 +1689,12 @@
               "City center parking garages offer the driest access to sights.",
               "Visibility may be reduced on the forested road to Exploseum during heavy rain.",
               "Use parking apps to avoid standing at payment machines in the rain."
+            ],
+            "pl": [
+              "Uważaj na duże kałuże w niżej położonych ulicach Starego Miasta.",
+              "Garaże parkingowe w centrum oferują najsuchszy dostęp do atrakcji.",
+              "Widoczność na leśnej drodze do Exploseum może być ograniczona podczas obfitych opadów deszczu.",
+              "Korzystaj z aplikacji parkingowych, aby nie stać przy parkomatach na deszczu."
             ]
           }
         },
@@ -1577,7 +1703,8 @@
             "de": "Morgen: Besuch des Exploseums – drinnen ist es angenehm temperiert, während es draußen friert. Mittag: Fahrt in die Innenstadt und Parken in einem zentralen Parkhaus. Mittagessen in der Altstadt. Nachmittag: Spaziergang über die winterliche Mühleninsel. Die Nähe zum geparkten Auto erlaubt jederzeit eine Aufwärmpause. Abend: Genießen Sie die festlich beleuchtete Stadt rund um die Opera Nova, bevor Sie die Heimfahrt im vorgeheizten Auto antreten.",
             "hu": "Reggel: Az Exploseum meglátogatása – bent kellemes a hőmérséklet, miközben kint fagy. Délben: Autózás a belvárosba, parkolás egy központi parkolóházban. Ebéd az óvárosban. Délután: Séta a téli Malom-szigeten. A parkoló autó közelsége bármikor lehetővé teszi a felmelegedést. Este: Élvezze az ünnepi kivilágítást az Opera Nova környékén, mielőtt hazaindulna az előmelegített autóval.",
             "ro": "Dimineața: Vizită la Exploseum – interiorul are o temperatură plăcută în timp ce afară e ger. Prânz: Drum spre centrul orașului și parcare într-o locație centrală. Prânz în orașul vechi. După-amiază: Plimbare pe Insula Morii iarna. Proximitatea mașinii parcate permite pauze de încălzire oricând. Seara: Admirați orașul iluminat festiv în jurul Operei Nova înainte de a pleca spre casă cu mașina preîncălzită.",
-            "en": "Morning: Visit Exploseum—it stays at a steady temperature inside while it's freezing outside. Noon: Drive to the city center and park in a central garage. Lunch in the Old Town. Afternoon: A stroll through the wintry Mill Island. Having your car parked nearby allows for quick warm-up breaks. Evening: Enjoy the festively lit city around Opera Nova before heading home in your pre-heated car."
+            "en": "Morning: Visit Exploseum—it stays at a steady temperature inside while it's freezing outside. Noon: Drive to the city center and park in a central garage. Lunch in the Old Town. Afternoon: A stroll through the wintry Mill Island. Having your car parked nearby allows for quick warm-up breaks. Evening: Enjoy the festively lit city around Opera Nova before heading home in your pre-heated car.",
+            "pl": "Rano: Odwiedź Exploseum — w środku panuje stała temperatura, gdy na zewnątrz jest mróz. W południe: Jedź do centrum i zaparkuj w garażu. Obiad na Starym Rynku. Popołudnie: Spacer po zimowej Wyspie Młyńskiej. Zaparkowany w pobliżu samochód pozwala na szybkie przerwy na rozgrzanie. Wieczór: Podziwiaj świątecznie oświetlone miasto wokół Opery Nova, po czym wróć do podgrzanego samochodu i jedź do domu."
           },
           "stops": [
             {
@@ -1586,7 +1713,8 @@
                 "de": "Die Zufahrtsstraße kann bei Schneefall glatt sein.",
                 "hu": "A bekötőút hóesésben csúszós lehet.",
                 "ro": "Drumul de acces poate fi alunecos în caz de ninsoare.",
-                "en": "The access road can be slippery during snowfall."
+                "en": "The access road can be slippery during snowfall.",
+                "pl": "Droga dojazdowa może być śliska podczas opadów śniegu."
               }
             },
             {
@@ -1595,7 +1723,8 @@
                 "de": "Parkhäuser schützen das Auto vor dem Einfrieren der Scheiben.",
                 "hu": "A parkolóházak megvédik az autót a szélvédők befagyásától.",
                 "ro": "Parcările etajate protejează mașina de înghețarea geamurilor.",
-                "en": "Parking garages prevent your windshield from icing up while you explore."
+                "en": "Parking garages prevent your windshield from icing up while you explore.",
+                "pl": "Garaże chronią przed zamarzaniem szyby podczas zwiedzania."
               }
             },
             {
@@ -1604,7 +1733,8 @@
                 "de": "Der Marktplatz ist im Winter oft festlich geschmückt.",
                 "hu": "A piactér télen gyakran ünnepi díszben pompázik.",
                 "ro": "Piața este adesea decorată festiv pe timp de iarnă.",
-                "en": "The market square is often festively decorated in winter."
+                "en": "The market square is often festively decorated in winter.",
+                "pl": "Rynek często bywa w zimie świątecznie udekorowany."
               }
             },
             {
@@ -1613,7 +1743,8 @@
                 "de": "Parkplätze direkt am Wasser sind im Winter begehrt; früh kommen.",
                 "hu": "A közvetlen vízparti parkolóhelyek télen kelendőek; érkezzen korán.",
                 "ro": "Locurile de parcare de pe malul apei sunt căutate iarna; veniți devreme.",
-                "en": "Waterfront parking spots are popular in winter; arrive early."
+                "en": "Waterfront parking spots are popular in winter; arrive early.",
+                "pl": "Miejsca parkingowe nad brzegiem są w zimie popularne; przyjedź wcześniej."
               }
             },
             {
@@ -1622,7 +1753,8 @@
                 "de": "Lassen Sie keine Flüssigkeiten im Auto, die einfrieren könnten.",
                 "hu": "Ne hagyjon az autóban olyan folyadékokat, amelyek megfagyhatnak.",
                 "ro": "Nu lăsați în mașină lichide care ar putea îngheța.",
-                "en": "Avoid leaving liquids in the car that could freeze overnight."
+                "en": "Avoid leaving liquids in the car that could freeze overnight.",
+                "pl": "Unikaj zostawiania płynów w samochodzie, które mogłyby zamarznąć przez noc."
               }
             },
             {
@@ -1631,7 +1763,8 @@
                 "de": "Der Blick auf die beleuchtete Oper aus dem warmen Auto ist herrlich.",
                 "hu": "A kivilágított Operára nyíló kilátás a meleg autóból csodálatos.",
                 "ro": "Priveliștea spre opera iluminată din mașina caldă este superbă.",
-                "en": "The view of the illuminated Opera from your warm car is wonderful."
+                "en": "The view of the illuminated Opera from your warm car is wonderful.",
+                "pl": "Widok podświetlonej Opery z ciepłego samochodu jest wspaniały."
               }
             }
           ],
@@ -1659,6 +1792,12 @@
               "Keep an ice scraper handy if you park in open-air lots.",
               "Parking near the Old Market is often easier to find in winter months.",
               "Utilize seat heaters for maximum comfort between tour clusters."
+            ],
+            "pl": [
+              "Opony zimowe są obowiązkowe na dojazd do Exploseum przez las.",
+              "Miej pod ręką skrobaczkę do lodu, jeśli parkujesz pod chmurką.",
+              "Parkowanie w pobliżu Starego Rynku jest często łatwiejsze w miesiącach zimowych.",
+              "Korzystaj z podgrzewanych siedzeń dla maksymalnego komfortu między atrakcjami."
             ]
           }
         }
@@ -1677,7 +1816,8 @@
             "de": "Ankunft am Alten Markt (Cluster 1)",
             "hu": "Érkezés a Régi Piactérre (1. Klaszter)",
             "ro": "Sosire în Piața Veche (Cluster 1)",
-            "en": "Arrival at Old Market Square (Cluster 1)"
+            "en": "Arrival at Old Market Square (Cluster 1)",
+            "pl": "Przyjazd na Stary Rynek (Klaster 1)"
           },
           "coords": [
             18.0019,
@@ -1693,7 +1833,8 @@
             "de": "Steigen Sie an einer zentralen Haltestelle wie 'Stary Rynek' aus.",
             "hu": "Szálljon le egy központi megállónál, mint a 'Stary Rynek'.",
             "ro": "Coborâți la o stație centrală precum 'Stary Rynek'.",
-            "en": "Get off at a central stop like 'Stary Rynek'."
+            "en": "Get off at a central stop like 'Stary Rynek'.",
+            "pl": "Wysiądź na centralnym przystanku, np. 'Stary Rynek'."
           }
         },
         {
@@ -1701,7 +1842,8 @@
             "de": "Bydgoszczer Dom",
             "hu": "Bydgoszczi Dóm",
             "ro": "Catedrala din Bydgoszcz",
-            "en": "Bydgoszcz Cathedral"
+            "en": "Bydgoszcz Cathedral",
+            "pl": "Katedra w Bydgoszczy"
           },
           "coords": [
             18.0025,
@@ -1717,7 +1859,8 @@
             "de": "Nur ein paar Schritte vom Marktplatz entfernt, ein Muss für Geschichtsliebhaber.",
             "hu": "Csak pár lépésre a piactértől, kötelező a történelem kedvelőinek.",
             "ro": "La doar câțiva pași de piață, un punct de atracție pentru iubitorii de istorie.",
-            "en": "Just a few steps from the market square, a must for history lovers."
+            "en": "Just a few steps from the market square, a must for history lovers.",
+            "pl": "Zaledwie kilka kroków od rynku, obowiązkowe miejsce dla miłośników historii."
           }
         },
         {
@@ -1725,7 +1868,8 @@
             "de": "Bydgoszczer Venedig & Mühleninsel",
             "hu": "Bydgoszczi Velence és Malom-sziget",
             "ro": "Veneția din Bydgoszcz & Insula Morilor",
-            "en": "Bydgoszcz Venice & Mill Island"
+            "en": "Bydgoszcz Venice & Mill Island",
+            "pl": "Bydgoska Wenecja i Wyspa Młyńska"
           },
           "coords": [
             17.998,
@@ -1741,7 +1885,8 @@
             "de": "Erkunden Sie diesen gesamten Bereich zu Fuß, er ist kompakt und wunderschön.",
             "hu": "Fedezze fel ezt az egész területet gyalog, kompakt és gyönyörű.",
             "ro": "Explorați întreaga zonă pe jos, este compactă și superbă.",
-            "en": "Explore this entire area on foot, it's compact and beautiful."
+            "en": "Explore this entire area on foot, it's compact and beautiful.",
+            "pl": "Zwiedź całą okolicę pieszo — jest zwarta i piękna."
           }
         },
         {
@@ -1749,7 +1894,8 @@
             "de": "Fahrt zur Opera Nova (Cluster 2)",
             "hu": "Utazás az Opera Novához (2. Klaszter)",
             "ro": "Călătorie la Opera Nova (Cluster 2)",
-            "en": "Trip to Opera Nova (Cluster 2)"
+            "en": "Trip to Opera Nova (Cluster 2)",
+            "pl": "Wycieczka do Opery Nova (Klaster 2)"
           },
           "coords": [
             17.9934,
@@ -1765,7 +1911,8 @@
             "de": "Nehmen Sie eine Straßenbahn oder einen Bus für diese kurze Strecke.",
             "hu": "Vegyen igénybe villamost vagy buszt erre a rövid távolságra.",
             "ro": "Luați un tramvai sau un autobuz pentru această distanță scurtă.",
-            "en": "Take a tram or bus for this short distance."
+            "en": "Take a tram or bus for this short distance.",
+            "pl": "Na tę krótką trasę jedź tramwajem lub autobusem."
           }
         },
         {
@@ -1773,7 +1920,8 @@
             "de": "Bezirksmuseum Leon Wyczółkowski",
             "hu": "Leon Wyczółkowski Kerületi Múzeum",
             "ro": "Muzeul Districtual Leon Wyczółkowski",
-            "en": "Leon Wyczółkowski District Museum"
+            "en": "Leon Wyczółkowski District Museum",
+            "pl": "Muzeum Okręgowe im. Leona Wyczółkowskiego"
           },
           "coords": [
             17.9975,
@@ -1789,7 +1937,8 @@
             "de": "Ein kurzer Spaziergang über die Brücke von der Oper aus.",
             "hu": "Rövid séta a hídon át az Operától.",
             "ro": "O scurtă plimbare peste pod de la Operă.",
-            "en": "A short walk across the bridge from the Opera."
+            "en": "A short walk across the bridge from the Opera.",
+            "pl": "Krótki spacer przez most od Opery."
           }
         },
         {
@@ -1797,7 +1946,8 @@
             "de": "Fahrt zum Exploseum (Cluster 3)",
             "hu": "Utazás az Exploseumhoz (3. Klaszter)",
             "ro": "Călătorie la Exploseum (Cluster 3)",
-            "en": "Trip to Exploseum (Cluster 3)"
+            "en": "Trip to Exploseum (Cluster 3)",
+            "pl": "Wycieczka do Exploseum (Klaster 3)"
           },
           "coords": [
             18.0986,
@@ -1813,7 +1963,8 @@
             "de": "Dies erfordert eine spezielle Buslinie, planen Sie die Fahrtzeit sorgfältig.",
             "hu": "Ehhez külön buszjáratra van szükség, tervezze meg gondosan az utazási időt.",
             "ro": "Acest lucru necesită o linie specială de autobuz, planificați cu atenție timpul de călătorie.",
-            "en": "This requires a specific bus line, plan the travel time carefully."
+            "en": "This requires a specific bus line, plan the travel time carefully.",
+            "pl": "To wymaga konkretnej linii autobusowej — zaplanuj czas przejazdu ostrożnie."
           }
         }
       ],
@@ -1821,7 +1972,8 @@
         "de": "Ihr Tag mit öffentlichen Verkehrsmitteln beginnt im Herzen der Stadt, am Alten Markt. Von hier aus erkunden Sie das erste Cluster zu Fuß: die Kathedrale, das malerische Bydgoszczer Venedig und die grüne Mühleninsel. Nach einer ausgiebigen Mittagspause nehmen Sie die Straßenbahn zum zweiten Cluster, der modernen Opera Nova, von wo aus Sie bequem zum Hauptgebäude des Bezirksmuseums spazieren können. Der Höhepunkt des Nachmittags ist die Busfahrt zum dritten Cluster, dem abgelegenen Exploseum. Diese Fahrt führt Sie aus dem Stadtzentrum heraus und bietet einen tiefen Einblick in die Industriegeschichte der Region, ein perfekter, nachdenklicher Abschluss Ihres Erkundungstages.",
         "hu": "Tömegközlekedési napja a város szívében, a Régi Piactéren kezdődik. Innen gyalogosan fedezi fel az első klasztert: a dómot, a festői Bydgoszczi Velencét és a zöld Malom-szigetet. Egy kiadós ebédszünet után villamossal utazik a második klaszterhez, a modern Opera Novához, ahonnan kényelmesen átsétálhat a Kerületi Múzeum főépületéhez. A délután csúcspontja a buszozás a harmadik klaszterhez, a távoli Exploseumhoz. Ez az utazás kiviszi a városközpontból, és mély betekintést nyújt a régió ipari történelmébe, tökéletes, elgondolkodtató lezárása a felfedező napnak.",
         "ro": "Ziua dvs. cu transportul public începe în inima orașului, în Piața Veche. De aici, explorați primul cluster pe jos: catedrala, pitoreasca Veneție din Bydgoszcz și verdeața Insulei Morilor. După o pauză de prânz consistentă, luați tramvaiul spre al doilea cluster, moderna Opera Nova, de unde puteți merge pe jos confortabil până la clădirea principală a Muzeului Districtual. Punctul culminant al după-amiezii este călătoria cu autobuzul către al treilea cluster, îndepărtatul Exploseum. Această călătorie vă scoate din centrul orașului și oferă o perspectivă profundă asupra istoriei industriale a regiunii, o încheiere perfectă și reflexivă a zilei de explorare.",
-        "en": "Your day using public transport begins in the heart of the city, at the Old Market Square. From here, you explore the first cluster on foot: the Cathedral, the picturesque Bydgoszcz Venice, and the green Mill Island. After a hearty lunch break, you take the tram to the second cluster, the modern Opera Nova, from where you can comfortably walk to the main building of the District Museum. The highlight of the afternoon is the bus trip to the third cluster, the remote Exploseum. This journey takes you out of the city center and offers a deep insight into the region's industrial history, a perfect, thoughtful end to your day of exploration."
+        "en": "Your day using public transport begins in the heart of the city, at the Old Market Square. From here, you explore the first cluster on foot: the Cathedral, the picturesque Bydgoszcz Venice, and the green Mill Island. After a hearty lunch break, you take the tram to the second cluster, the modern Opera Nova, from where you can comfortably walk to the main building of the District Museum. The highlight of the afternoon is the bus trip to the third cluster, the remote Exploseum. This journey takes you out of the city center and offers a deep insight into the region's industrial history, a perfect, thoughtful end to your day of exploration.",
+        "pl": "Dzień z komunikacją publiczną zaczynasz w sercu miasta, na Starym Rynku. Stamtąd pierwszą grupę atrakcji zwiedzasz pieszo: katedrę, malowniczą Bydgoską Wenecję i zieloną Wyspę Młyńską. Po pożywnym obiedzie tramwajem jedziesz do drugiego klastra — nowoczesnej Opery Nova, skąd wygodnie dojdziesz do głównego gmachu Muzeum Okręgowego. Popołudniową atrakcją jest autobus do trzeciego klastra, odległego Exploseum. Podróż wyprowadzi cię poza ścisłe centrum i da wgląd w przemysłową historię regionu — to idealne, refleksyjne zakończenie dnia zwiedzania."
       },
       "gastro_picks": {
         "de": [
@@ -2017,6 +2169,12 @@
           "Use a public transport app to check routes and schedules in real time.",
           "Plan for buffer time for waiting at stops.",
           "The bus to the Exploseum runs less frequently, so check the schedule beforehand."
+        ],
+        "pl": [
+          "Kup bilet całodzienny na komunikację publiczną, aby zaoszczędzić.",
+          "Używaj aplikacji transportowej, aby sprawdzać trasy i rozkłady w czasie rzeczywistym.",
+          "Planuj zapas czasu na oczekiwanie na przystankach.",
+          "Autobus do Exploseum jeździ rzadziej, sprawdź rozkład wcześniej."
         ]
       },
       "variants": {
@@ -2025,7 +2183,8 @@
             "de": "Morgen: Ankunft am Alten Markt mit dem Bus oder der Straßenbahn. Mittag: Kurze Fahrten zwischen den Clustern schützen vor dem Regen. Die Mühleninsel erkunden Sie bequem zu Fuß, da die Museen nah beieinander liegen. Nachmittag: Fahrt zum Exploseum; die Busverbindung bringt Sie nah an das Gelände. Abend: Rückfahrt ins Zentrum, wo Sie direkt vor der Opera Nova aussteigen können, um trocken ins Theater zu gelangen.",
             "hu": "Reggel: Érkezés az Óvárosi térre busszal vagy villamossal. Délben: A helyszínek közötti rövid utazások megvédik az esőtől. A Malom-szigetet kényelmesen felfedezheti gyalog, mivel a múzeumok közel vannak egymáshoz. Délután: Utazás az Exploseumhoz; a buszjárat közel visz a bejárathoz. Este: Visszautazás a központba, ahol közvetlenül az Opera Nova előtt szállhat le, így szárazon juthat be a színházba.",
             "ro": "Dimineața: Sosire în Piața Veche cu autobuzul sau tramvaiul. Prânz: Călătoriile scurte între zone vă protejează de ploaie. Insula Morii poate fi explorată ușor pe jos, muzeele fiind apropiate. După-amiază: Drum spre Exploseum; autobuzul vă lasă aproape de intrare. Seara: Revenire în centru, unde puteți coborî chiar în fața Operei Nova pentru a intra uscat la spectacol.",
-            "en": "Morning: Arrive at the Old Market Square by bus or tram. Noon: Short transit trips between clusters help you avoid the worst of the rain. Explore Mill Island easily on foot as the museums are very close together. Afternoon: Head to Exploseum; the bus connection drops you off near the site. Evening: Return to the center, where you can disembark right in front of Opera Nova to enter the theater dry."
+            "en": "Morning: Arrive at the Old Market Square by bus or tram. Noon: Short transit trips between clusters help you avoid the worst of the rain. Explore Mill Island easily on foot as the museums are very close together. Afternoon: Head to Exploseum; the bus connection drops you off near the site. Evening: Return to the center, where you can disembark right in front of Opera Nova to enter the theater dry.",
+            "pl": "Rano: Przyjedź na Stary Rynek autobusem lub tramwajem. W południe: Krótkie przejazdy między klastrami pomogą uniknąć najgorszego deszczu. Wyspę Młyńską zwiedzisz łatwo pieszo, bo muzea są bardzo blisko. Popołudnie: Kieruj się do Exploseum; połączenie autobusowe wysadza blisko obiektu. Wieczór: Wróć do centrum, gdzie możesz wysiąść tuż przed Operą Nova i wejść do teatru suchą stopą."
           },
           "stops": [
             {
@@ -2034,7 +2193,8 @@
                 "de": "Die Straßenbahnhaltestellen haben meist gute Unterstände.",
                 "hu": "A villamosmegállók többsége jó váróval rendelkezik.",
                 "ro": "Stațiile de tramvai au în general adăposturi bune.",
-                "en": "Most tram stops have decent shelters to keep you dry while waiting."
+                "en": "Most tram stops have decent shelters to keep you dry while waiting.",
+                "pl": "Większość przystanków tramwajowych ma solidne wiaty, które ochronią przed deszczem podczas oczekiwania."
               }
             },
             {
@@ -2043,7 +2203,8 @@
                 "de": "Nur ein kurzer Fußweg von der Haltestelle 'Zbożowy Rynek'.",
                 "hu": "Csak rövid séta a 'Zbożowy Rynek' megállótól.",
                 "ro": "Doar un scurt drum pe jos de la stația 'Zbożowy Rynek'.",
-                "en": "Just a short walk from the 'Zbożowy Rynek' stop."
+                "en": "Just a short walk from the 'Zbożowy Rynek' stop.",
+                "pl": "Zaledwie krótki spacer od przystanku 'Zbożowy Rynek'."
               }
             },
             {
@@ -2052,7 +2213,8 @@
                 "de": "Nutzen Sie bei Regen das Wassertaxi als Teil des ÖPNV.",
                 "hu": "Esőben használja a vízibuszt a tömegközlekedés részeként.",
                 "ro": "Pe timp de ploaie, folosiți taxiul pe apă ca parte a transportului public.",
-                "en": "Use the water taxi as a rainy-day transit alternative."
+                "en": "Use the water taxi as a rainy-day transit alternative.",
+                "pl": "Użyj taksówki wodnej jako alternatywy w deszczowy dzień."
               }
             },
             {
@@ -2061,7 +2223,8 @@
                 "de": "Die Haltestelle 'Focha' liegt direkt an der Oper.",
                 "hu": "A 'Focha' megálló közvetlenül az Operánál található.",
                 "ro": "Stația 'Focha' se află chiar lângă Operă.",
-                "en": "The 'Focha' stop is located right by the Opera house."
+                "en": "The 'Focha' stop is located right by the Opera house.",
+                "pl": "Przystanek 'Focha' znajduje się tuż przy operze."
               }
             },
             {
@@ -2070,7 +2233,8 @@
                 "de": "Die Museen sind durch kurze, überdachte Passagen verbunden.",
                 "hu": "A múzeumokat rövid, fedett átjárók kötik össze.",
                 "ro": "Muzeele sunt conectate prin pasaje scurte și acoperite.",
-                "en": "The museum buildings are connected by short, sheltered paths."
+                "en": "The museum buildings are connected by short, sheltered paths.",
+                "pl": "Gmachy muzeów są połączone krótkimi, zadaszonymi przejściami."
               }
             },
             {
@@ -2079,7 +2243,8 @@
                 "de": "Prüfen Sie den Busfahrplan; bei Regen ist Warten unangenehm.",
                 "hu": "Ellenőrizze a buszmenetrendet; esőben kellemetlen a várakozás.",
                 "ro": "Verificați orarul autobuzelor; așteptarea în ploaie este neplăcută.",
-                "en": "Check the bus schedule; waiting in the rain can be unpleasant."
+                "en": "Check the bus schedule; waiting in the rain can be unpleasant.",
+                "pl": "Sprawdź rozkład autobusów; oczekiwanie w deszczu jest nieprzyjemne."
               }
             }
           ],
@@ -2107,6 +2272,12 @@
               "Trams are well-heated during winter and rainy days.",
               "Use transit hubs 'Zbożowy Rynek' and 'Focha' for the quickest connections.",
               "Water taxis may not operate during very strong winds or storms."
+            ],
+            "pl": [
+              "Kup bilety online lub przez aplikację, żeby nie stać przy maszynach na deszczu.",
+              "Tramy są dobrze ogrzewane zimą i w deszczowe dni.",
+              "Wykorzystaj węzły przesiadkowe 'Zbożowy Rynek' i 'Focha' dla najszybszych połączeń.",
+              "Taksówki wodne mogą nie kursować przy bardzo silnym wietrze lub sztormie."
             ]
           }
         },
@@ -2115,7 +2286,8 @@
             "de": "Morgen: Anreise zum winterlichen Alten Markt. Die festliche Beleuchtung macht das Warten auf die Tram angenehm. Mittag: Erkundung der Mühleninsel. Die Museen bieten ideale Aufwärmstopps zwischen den Fahrten. Nachmittag: Fahrt mit dem Bus zum Exploseum. Genießen Sie die winterliche Landschaft aus dem warmen Busfenster. Abend: Rückfahrt zur Opera Nova. Der beleuchtete Fluss und das moderne Gebäude bilden einen warmen Kontrast zur Winternacht.",
             "hu": "Reggel: Érkezés a téli Óvárosi térre. Az ünnepi kivilágítás kellemessé teszi a villamosra való várakozást. Délben: A Malom-sziget felfedezése. A múzeumok ideális melegedőhelyek az utazások között. Délután: Buszozás az Exploseumhoz. Élvezze a téli tájat a meleg buszablakból. Este: Visszautazás az Opera Novához. A kivilágított folyó és a modern épület meleg kontrasztot alkot a téli éjszakával.",
             "ro": "Dimineața: Sosire în Piața Veche iarna. Iluminatul festiv face așteptarea tramvaiului plăcută. Prânz: Explorarea Insulei Morii. Muzeele sunt puncte de încălzire ideale între călătorii. După-amiază: Drum cu autobuzul spre Exploseum. Admirați peisajul de iarnă prin fereastra caldă a autobuzului. Seara: Revenire la Opera Nova. Râul iluminat și clădirea modernă oferă un contrast cald cu noaptea de iarnă.",
-            "en": "Morning: Arrive at the wintry Old Market Square. The festive lights make waiting for the tram a pleasant experience. Noon: Explore Mill Island, using the museum buildings as warm-up stops between your transit legs. Afternoon: Take the bus to Exploseum and enjoy the snowy landscape from the warmth of the bus window. Evening: Return to Opera Nova. The illuminated river and modern architecture provide a warm contrast to the winter night."
+            "en": "Morning: Arrive at the wintry Old Market Square. The festive lights make waiting for the tram a pleasant experience. Noon: Explore Mill Island, using the museum buildings as warm-up stops between your transit legs. Afternoon: Take the bus to Exploseum and enjoy the snowy landscape from the warmth of the bus window. Evening: Return to Opera Nova. The illuminated river and modern architecture provide a warm contrast to the winter night.",
+            "pl": "Rano: Przyjedź na zimowy Stary Rynek. Świąteczne iluminacje umilają oczekiwanie na tramwaj. W południe: Zwiedzaj Wyspę Młyńską, korzystając z budynków muzealnych jako miejsc do rozgrzania się między odcinkami podróży. Popołudnie: Jedź autobusem do Exploseum i obserwuj zaśnieżony krajobraz z ciepła autobusowego okna. Wieczór: Wróć do Opery Nova — oświetlona rzeka i nowoczesna architektura tworzą ciepły kontrast do zimowej nocy."
           },
           "stops": [
             {
@@ -2124,7 +2296,8 @@
                 "de": "Die Bahnhöfe sind im Winter oft mit Lichterketten geschmückt.",
                 "hu": "A megállók télen gyakran fényfüzérekkel vannak díszítve.",
                 "ro": "Stațiile sunt adesea decorate cu luminițe pe timp de iarnă.",
-                "en": "Transit stops are often decorated with festive lights in winter."
+                "en": "Transit stops are often decorated with festive lights in winter.",
+                "pl": "Przystanki często są zimą ozdobione świątecznymi światłami."
               }
             },
             {
@@ -2133,7 +2306,8 @@
                 "de": "Die Heizung in der Kathedrale sorgt für eine angenehme Pause.",
                 "hu": "A székesegyház fűtése kellemes pihenőt biztosít.",
                 "ro": "Încălzirea din catedrală asigură o pauză plăcută.",
-                "en": "The heating inside the cathedral makes for a comfortable break."
+                "en": "The heating inside the cathedral makes for a comfortable break.",
+                "pl": "Ogrzewanie w katedrze daje wygodną przerwę."
               }
             },
             {
@@ -2142,7 +2316,8 @@
                 "de": "Achten Sie auf geräumte Wege zwischen den Haltestellen.",
                 "hu": "Ügyeljen a letakarított utakra a megállók között.",
                 "ro": "Atenție la căile curățate de zăpadă între stații.",
-                "en": "Stick to cleared paths when walking between transit stops."
+                "en": "Stick to cleared paths when walking between transit stops.",
+                "pl": "Poruszaj się po oczyszczonych ścieżkach między przystankami."
               }
             },
             {
@@ -2151,7 +2326,8 @@
                 "de": "Die Tramhaltestelle ist nur wenige Schritte vom Haupteingang entfernt.",
                 "hu": "A villamosmegálló csak néhány lépésre van a főbejárattól.",
                 "ro": "Stația de tramvai este la doar câțiva pași de intrarea principală.",
-                "en": "The tram stop is only a few steps away from the main entrance."
+                "en": "The tram stop is only a few steps away from the main entrance.",
+                "pl": "Przystanek tramwajowy znajduje się zaledwie kilka kroków od głównego wejścia."
               }
             },
             {
@@ -2160,7 +2336,8 @@
                 "de": "Ein warmer Ort, um die Zeit bis zur nächsten Busabfahrt zu überbrücken.",
                 "hu": "Meleg hely a következő buszindulásig hátralévő idő eltöltésére.",
                 "ro": "Un loc cald pentru a aștepta următoarea plecare a autobuzului.",
-                "en": "A warm indoor spot to wait for your next bus departure."
+                "en": "A warm indoor spot to wait for your next bus departure.",
+                "pl": "Ciepłe, kryte miejsce do oczekiwania na następny autobus."
               }
             },
             {
@@ -2169,7 +2346,8 @@
                 "de": "Im Winter können Busse aufgrund der Straßenverhältnisse Verspätung haben.",
                 "hu": "Télen az útviszonyok miatt a buszok késhetnek.",
                 "ro": "Iarna, autobuzele pot avea întârzieri din cauza stării drumurilor.",
-                "en": "In winter, buses may experience slight delays due to road conditions."
+                "en": "In winter, buses may experience slight delays due to road conditions.",
+                "pl": "Zimą autobusy mogą mieć niewielkie opóźnienia z powodu warunków drogowych."
               }
             }
           ],
@@ -2197,6 +2375,12 @@
               "Buses to Exploseum are well-heated, perfect for warming up.",
               "Allow extra time for transfers if there is active snowfall.",
               "It gets dark after 5 PM; the glowing trams make for great city photos."
+            ],
+            "pl": [
+              "Użyj aplikacji 'Jakdojade' dla aktualnych informacji o komunikacji w zimie.",
+              "Autobusy do Exploseum są dobrze ogrzewane — idealne do rozgrzania się.",
+              "Przy aktywnych opadach śniegu zaplanuj dodatkowy czas na przesiadki.",
+              "Po 17:00 robi się ciemno; świecące tramwaje świetnie nadają się do zdjęć miasta."
             ]
           }
         }

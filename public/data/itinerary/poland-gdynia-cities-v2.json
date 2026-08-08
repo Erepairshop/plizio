@@ -21,7 +21,8 @@
             "de": "Kościuszko-Platz",
             "hu": "Kościuszko tér",
             "ro": "Piața Kościuszko",
-            "en": "Kościuszko Square"
+            "en": "Kościuszko Square",
+            "pl": "Skwer Kościuszki"
           },
           "coords": [
             18.546,
@@ -37,7 +38,8 @@
             "de": "Das Herz des maritimen Gdynia, ideal für einen Morgenkaffee.",
             "hu": "Gdynia tengeri szívének központja, ideális egy reggeli kávéhoz.",
             "ro": "Inima maritimă a Gdyniei, ideală pentru o cafea de dimineață.",
-            "en": "The heart of maritime Gdynia, perfect for a morning coffee."
+            "en": "The heart of maritime Gdynia, perfect for a morning coffee.",
+            "pl": "Serce morskiej Gdyni, idealne na poranną kawę."
           }
         },
         {
@@ -45,7 +47,8 @@
             "de": "Museumsschiff Dar Pomorza",
             "hu": "Dar Pomorza múzeumhajó",
             "ro": "Nava-muzeu Dar Pomorza",
-            "en": "Dar Pomorza Museum Ship"
+            "en": "Dar Pomorza Museum Ship",
+            "pl": "Dar Pomorza (statek-muzeum)"
           },
           "coords": [
             18.549,
@@ -61,7 +64,8 @@
             "de": "Erkunden Sie das Deck dieses berühmten Segelschulschiffs.",
             "hu": "Fedezze fel ennek a híres vitorlás iskolahajónak a fedélzetét!",
             "ro": "Explorați puntea acestei faimoase nave-școală cu pânze.",
-            "en": "Explore the deck of this famous tall ship."
+            "en": "Explore the deck of this famous tall ship.",
+            "pl": "Zwiedź pokład słynnego żaglowca."
           }
         },
         {
@@ -69,7 +73,8 @@
             "de": "Aquarium Gdynia",
             "hu": "Gdynia Akvárium",
             "ro": "Acvariul din Gdynia",
-            "en": "Gdynia Aquarium"
+            "en": "Gdynia Aquarium",
+            "pl": "Akwarium Gdyńskie"
           },
           "coords": [
             18.551,
@@ -85,7 +90,8 @@
             "de": "Einblicke in die Unterwasserwelt der Ostsee und darüber hinaus.",
             "hu": "Pillantás a Balti-tenger és más vizek víz alatti világába.",
             "ro": "O incursiune în lumea subacvatică a Mării Baltice și nu numai.",
-            "en": "An insight into the underwater world of the Baltic Sea and beyond."
+            "en": "An insight into the underwater world of the Baltic Sea and beyond.",
+            "pl": "Wgląd w podwodny świat Morza Bałtyckiego i nie tylko."
           }
         },
         {
@@ -93,7 +99,8 @@
             "de": "Mittagessen am Hafen",
             "hu": "Ebéd a kikötőben",
             "ro": "Prânz în port",
-            "en": "Lunch at the Harbor"
+            "en": "Lunch at the Harbor",
+            "pl": "Lunch w porcie"
           },
           "coords": [
             18.547,
@@ -109,7 +116,8 @@
             "de": "Probieren Sie frischen Fisch in einem der Restaurants am Kai.",
             "hu": "Kóstoljon friss halat a rakparti éttermek egyikében.",
             "ro": "Încercați pește proaspăt la unul dintre restaurantele de pe chei.",
-            "en": "Try some fresh fish at one of the quayside restaurants."
+            "en": "Try some fresh fish at one of the quayside restaurants.",
+            "pl": "Spróbuj świeżej ryby w jednej z nadbrzeżnych restauracji."
           }
         },
         {
@@ -117,7 +125,8 @@
             "de": "Kamienna Góra (Steinberg)",
             "hu": "Kamienna Góra (Kő-hegy)",
             "ro": "Kamienna Góra (Dealul de Piatră)",
-            "en": "Kamienna Góra (Stone Hill)"
+            "en": "Kamienna Góra (Stone Hill)",
+            "pl": "Kamienna Góra"
           },
           "coords": [
             18.544,
@@ -133,7 +142,8 @@
             "de": "Nehmen Sie die Standseilbahn für einen atemberaubenden Blick über die Stadt.",
             "hu": "Menjen fel a siklóval a városra nyíló lélegzetelállító kilátásért.",
             "ro": "Luați funicularul pentru o priveliște uluitoare asupra orașului.",
-            "en": "Take the funicular railway for a breathtaking view over the city."
+            "en": "Take the funicular railway for a breathtaking view over the city.",
+            "pl": "Wjedź kolejką linowo-terenową i podziwiaj zapierający dech w piersiach widok na miasto."
           }
         },
         {
@@ -141,7 +151,8 @@
             "de": "Auswanderungsmuseum",
             "hu": "Kivándorlási Múzeum",
             "ro": "Muzeul Emigrației",
-            "en": "Emigration Museum"
+            "en": "Emigration Museum",
+            "pl": "Muzeum Emigracji"
           },
           "coords": [
             18.538,
@@ -157,7 +168,8 @@
             "de": "Ein bewegendes Museum über die Geschichte der polnischen Auswanderung.",
             "hu": "Megindító múzeum a lengyel kivándorlás történetéről.",
             "ro": "Un muzeu emoționant despre istoria emigrației poloneze.",
-            "en": "A moving museum about the history of Polish emigration."
+            "en": "A moving museum about the history of Polish emigration.",
+            "pl": "Poruszające muzeum o historii polskiej emigracji."
           }
         }
       ],
@@ -165,7 +177,8 @@
         "de": "Beginnen Sie Ihren Tag am belebten Kościuszko-Platz, dem Herzen des maritimen Gdynia. Am Vormittag tauchen Sie in die Seefahrtsgeschichte auf dem Museumsschiff Dar Pomorza ein und entdecken die Unterwasserwelt im Aquarium. Nach einem frischen Fisch-Mittagessen am Hafen fahren Sie mit der Seilbahn auf den Kamienna Góra, um die Panoramaaussicht zu genießen. Der Nachmittag ist der bewegenden Geschichte der polnischen Auswanderung im Auswanderungsmuseum gewidmet, bevor Sie den Tag bei einem Spaziergang entlang der Küste ausklingen lassen.",
         "hu": "Kezdje a napot a nyüzsgő Kościuszko téren, Gdynia tengeri szívében. Délelőtt merüljön el a tengerészeti történelemben a Dar Pomorza múzeumhajón, majd fedezze fel a víz alatti világot az Akváriumban. Egy friss halból készült ebéd után a kikötőben, siklóval menjen fel a Kamienna Góra hegyre a panorámás kilátásért. A délutánt a lengyel emigráció megindító történetének szentelje a Kivándorlási Múzeumban, mielőtt egy tengerparti sétával zárja a napot.",
         "ro": "Începeți ziua în Piața plină de viață Kościuszko, inima maritimă a Gdyniei. În cursul dimineții, pătrundeți în istoria navală pe nava-muzeu Dar Pomorza și descoperiți lumea subacvatică la Acvariu. După un prânz cu pește proaspăt în port, urcați cu funicularul pe Kamienna Góra pentru a admira priveliștea panoramică. După-amiaza este dedicată istoriei emoționante a emigrației poloneze la Muzeul Emigrației, înainte de a încheia ziua cu o plimbare pe malul mării.",
-        "en": "Start your day at the bustling Kościuszko Square, the maritime heart of Gdynia. In the morning, delve into naval history on the Dar Pomorza museum ship and discover the underwater world at the Aquarium. After a fresh fish lunch at the harbour, take the funicular up Kamienna Góra to enjoy the panoramic view. The afternoon is dedicated to the moving story of Polish emigration at the Emigration Museum, before ending the day with a stroll along the coast."
+        "en": "Start your day at the bustling Kościuszko Square, the maritime heart of Gdynia. In the morning, delve into naval history on the Dar Pomorza museum ship and discover the underwater world at the Aquarium. After a fresh fish lunch at the harbour, take the funicular up Kamienna Góra to enjoy the panoramic view. The afternoon is dedicated to the moving story of Polish emigration at the Emigration Museum, before ending the day with a stroll along the coast.",
+        "pl": "Rozpocznij dzień na tętniącym życiem Skwerze Kościuszki, morskim sercu Gdyni. Rano poznaj historię marynarki na statku-muzeum Dar Pomorza i odkryj podwodny świat w Akwarium. Po świeżym obiedzie z rybą w porcie wjedź kolejką na Kamienną Górę, by nacieszyć się panoramą. Popołudnie poświęć na poruszającą opowieść o polskiej emigracji w Muzeum Emigracji, a dzień zakończ spacerem wzdłuż wybrzeża."
       },
       "gastro_picks": {
         "de": [
@@ -361,6 +374,12 @@
           "A windbreaker is a good idea, even in summer.",
           "The funicular to Kamienna Góra is a worthwhile shortcut.",
           "Check museum opening times in advance, especially outside of the main season."
+        ],
+        "pl": [
+          "Noś wygodne buty, czeka cię dużo chodzenia.",
+          "Kurtka przeciwwiatrowa przyda się nawet latem.",
+          "Kolejka na Kamienną Górę to wart uwagi skrót.",
+          "Sprawdź godziny otwarcia muzeów wcześniej, zwłaszcza poza sezonem."
         ]
       },
       "variants": {
@@ -369,7 +388,8 @@
             "de": "Morgen am Platz, Regenschirm bereit. Vormittag auf dem Museumsschiff Dar Pomorza, dann Schutz im Aquarium suchen. Mittagessen am Hafen im Trockenen. Nachmittag mit der Seilbahn auf den Kamienna Góra, um Nässe zu vermeiden. Abschluss im großen Auswanderungsmuseum.",
             "hu": "Reggel a téren kezdünk, ernyő legyen kéznél. Délelőtt a Dar Pomorza hajón, majd az Akváriumban lelünk menedékre. Ebéd a kikötő egyik fedett éttermében. Délután siklóval megyünk fel a Kamienna Góra dombra a csúszós utak helyett. A napot a tágas Emigrációs Múzeumban zárjuk.",
             "ro": "Dimineața în piață cu umbrela pregătită. Vizităm nava-muzeu Dar Pomorza, apoi ne adăpostim la Acvariu. Prânz la port într-un loc acoperit. După-amiaza folosim funicularul spre Kamienna Góra pentru a evita potecile ude. Încheiem ziua la Muzeul Emigrației, un spațiu interior generos.",
-            "en": "Morning at the square with an umbrella. Visit the Dar Pomorza ship, then seek shelter in the Aquarium. Lunch by the harbor in a dry spot. Afternoon take the funicular to Kamienna Góra to avoid wet paths. End the day at the spacious Emigration Museum indoors."
+            "en": "Morning at the square with an umbrella. Visit the Dar Pomorza ship, then seek shelter in the Aquarium. Lunch by the harbor in a dry spot. Afternoon take the funicular to Kamienna Góra to avoid wet paths. End the day at the spacious Emigration Museum indoors.",
+            "pl": "Poranek na placu z parasolem. Odwiedź statek Dar Pomorza, potem schowaj się w Akwarium. Lunch przy porcie w suchym miejscu. Popołudnie wjedź kolejką na Kamienną Górę, by uniknąć mokrych ścieżek. Zakończ dzień w przestronnym Muzeum Emigracji w budynku."
           },
           "stops": [
             {
@@ -378,7 +398,8 @@
                 "de": "Schnelles Foto am Brunnen, dann direkt zum Schiff flüchten.",
                 "hu": "Gyors fotó a szökőkútnál, aztán irány a közeli hajó menedéke.",
                 "ro": "Poză rapidă la fântână, apoi refugiați-vă pe nava apropiată.",
-                "en": "Quick photo at the fountain, then head straight for the ship shelter."
+                "en": "Quick photo at the fountain, then head straight for the ship shelter.",
+                "pl": "Szybkie zdjęcie przy fontannie, potem prosto do schronienia na statku."
               }
             },
             {
@@ -387,7 +408,8 @@
                 "de": "Die Ausstellungen unter Deck sind perfekt trocken und windstill.",
                 "hu": "A fedélzet alatti kiállítások szárazak és szélvédettek.",
                 "ro": "Expozițiile de sub punte sunt perfect uscate și ferite de vânt.",
-                "en": "The exhibitions below deck are perfectly dry and shielded from wind."
+                "en": "The exhibitions below deck are perfectly dry and shielded from wind.",
+                "pl": "Ekspozycje poniżej pokładu są całkowicie suche i osłonięte od wiatru."
               }
             },
             {
@@ -396,7 +418,8 @@
                 "de": "Idealer Ort, um einen starken Regenschauer auszusitzen.",
                 "hu": "Ideális hely egy komolyabb zápor átvészelésére.",
                 "ro": "Locul ideal pentru a aștepta trecerea unei averse puternice.",
-                "en": "Ideal place to wait out a heavy rain shower."
+                "en": "Ideal place to wait out a heavy rain shower.",
+                "pl": "Idealne miejsce, by przeczekać intensywny deszcz."
               }
             },
             {
@@ -405,7 +428,8 @@
                 "de": "Wählen Sie ein Restaurant mit Blick auf das stürmische Meer.",
                 "hu": "Válasszon egy éttermet, ahonnan látszik a viharos tenger.",
                 "ro": "Alegeți un restaurant cu vedere la marea învolburată.",
-                "en": "Choose a restaurant with a view of the stormy sea."
+                "en": "Choose a restaurant with a view of the stormy sea.",
+                "pl": "Wybierz restaurację z widokiem na wzburzone morze."
               }
             },
             {
@@ -414,7 +438,8 @@
                 "de": "Nutzen Sie die kostenlose Seilbahn, um nicht auszurutschen.",
                 "hu": "Használja az ingyenes siklót, hogy elkerülje a csúszós lépcsőket.",
                 "ro": "Folosiți funicularul gratuit pentru a evita treptele alunecoase.",
-                "en": "Use the free funicular to avoid slippery stairs."
+                "en": "Use the free funicular to avoid slippery stairs.",
+                "pl": "Skorzystaj z bezpłatnej kolejki, by ominąć śliskie schody."
               }
             },
             {
@@ -423,7 +448,8 @@
                 "de": "Großes, modernes Gebäude mit Café für den späten Nachmittag.",
                 "hu": "Tágas, modern épület kávézóval a késő délutáni pihenéshez.",
                 "ro": "Clădire mare și modernă cu cafenea pentru relaxarea de după-amiază.",
-                "en": "Spacious, modern building with a cafe for late afternoon rest."
+                "en": "Spacious, modern building with a cafe for late afternoon rest.",
+                "pl": "Przestronny, nowoczesny budynek z kawiarnią na popołudniowy odpoczynek."
               }
             }
           ],
@@ -451,6 +477,12 @@
               "The funicular to Kamienna Góra is free and keeps you dry.",
               "Port museums provide perfect shelter from passing showers.",
               "Wear waterproof shoes for the harbor quays."
+            ],
+            "pl": [
+              "Solidny parasol jest niezbędny ze względu na bałtyckie wiatry.",
+              "Kolejka na Kamienną Górę jest bezpłatna i pozwala zachować suchość.",
+              "Muzea portowe to doskonałe schronienie przed przejściowymi opadami.",
+              "Noś wodoodporne buty na nadbrzeżne nabrzeża."
             ]
           }
         },
@@ -459,7 +491,8 @@
             "de": "Frostiger Morgen am Hafen. Vormittag auf der Dar Pomorza (warm anziehen!), dann Aufwärmen im tropischen Aquarium. Mittagessen mit heißer Suppe. Nachmittag kurze Aussicht vom Kamienna Góra vor dem frühen Sonnenuntergang. Abendlicher Ausklang im gemütlichen Auswanderungsmuseum.",
             "hu": "Fagyos reggel a kikötőben. Délelőtt a Dar Pomorza (öltözzön melegen!), majd melegedés a trópusi Akváriumban. Ebéd forró levessel. Délután rövid kilátás a Kamienna Góráról a korai naplemente előtt. Este a hangulatos Emigrációs Múzeumban fejezzük be a napot.",
             "ro": "Dimineață geroasă în port. Vizităm Dar Pomorza (îmbrăcați-vă gros!), apoi ne încălzim la Acvariul tropical. Prânz cu supă fierbinte. După-amiază o scurtă privire de pe Kamienna Góra înainte de apusul timpuriu. Seara se încheie la Muzeul Emigrației.",
-            "en": "Frosty morning at the harbor. Visit Dar Pomorza (dress warmly!), then warm up in the tropical Aquarium. Lunch with hot soup. Afternoon brief view from Kamienna Góra before the early sunset. Evening ends at the cozy Emigration Museum."
+            "en": "Frosty morning at the harbor. Visit Dar Pomorza (dress warmly!), then warm up in the tropical Aquarium. Lunch with hot soup. Afternoon brief view from Kamienna Góra before the early sunset. Evening ends at the cozy Emigration Museum.",
+            "pl": "Mroźny poranek w porcie. Odwiedź Dar Pomorza (ubierz się ciepło!), potem rozgrzej się w tropikalnym Akwarium. Lunch z gorącą zupą. Popołudniowy krótki widok z Kamiennej Góry przed wczesnym zachodem słońca. Wieczór spędź w przytulnym Muzeum Emigracji."
           },
           "stops": [
             {
@@ -468,7 +501,8 @@
                 "de": "Die Gischt kann an der Kaimauer gefrieren, Vorsicht beim Gehen.",
                 "hu": "A vízpermet ráfagyhat a mólóra, óvatosan sétáljon.",
                 "ro": "Stropii de apă pot îngheța pe dig, mergeți cu mare atenție.",
-                "en": "Water spray can freeze on the pier, walk carefully."
+                "en": "Water spray can freeze on the pier, walk carefully.",
+                "pl": "Rozpylona woda może zamarznąć na pomoście, chodź ostrożnie."
               }
             },
             {
@@ -477,7 +511,8 @@
                 "de": "Unter Deck ist es etwas wärmer als draußen im Wind.",
                 "hu": "A fedélzet alatt valamivel melegebb van, mint kint a szélben.",
                 "ro": "Sub punte este ceva mai cald decât afară în vânt.",
-                "en": "It is slightly warmer below deck than out in the wind."
+                "en": "It is slightly warmer below deck than out in the wind.",
+                "pl": "Na dole, poniżej pokładu, jest nieco cieplej niż na wietrze."
               }
             },
             {
@@ -486,7 +521,8 @@
                 "de": "Genießen Sie die tropische Hitze im Amazonas-Bereich.",
                 "hu": "Élvezze a trópusi hőséget az Amazonas-részlegben.",
                 "ro": "Bucurați-vă de căldura tropicală din secțiunea Amazonului.",
-                "en": "Enjoy the tropical heat in the Amazon section."
+                "en": "Enjoy the tropical heat in the Amazon section.",
+                "pl": "Rozkoszuj się tropikalnym ciepłem w sekcji Amazonii."
               }
             },
             {
@@ -495,7 +531,8 @@
                 "de": "Probieren Sie eine traditionelle polnische saure Mehlsuppe (Żurek).",
                 "hu": "Próbálja ki a hagyományos lengyel savanyú levest (Żurek).",
                 "ro": "Încercați supa tradițională poloneză de secară (Żurek).",
-                "en": "Try the traditional Polish sour rye soup (Żurek)."
+                "en": "Try the traditional Polish sour rye soup (Żurek).",
+                "pl": "Spróbuj tradycyjnego polskiego żurku."
               }
             },
             {
@@ -504,7 +541,8 @@
                 "de": "Das Kreuz auf dem Gipfel ist im Winter abends oft beleuchtet.",
                 "hu": "A dombtetőn lévő keresztet téli estéken gyakran kivilágítják.",
                 "ro": "Crucea de pe deal este adesea iluminată în serile de iarnă.",
-                "en": "The cross on the hill is often illuminated on winter evenings."
+                "en": "The cross on the hill is often illuminated on winter evenings.",
+                "pl": "Krzyż na wzgórzu często jest podświetlany zimowymi wieczorami."
               }
             },
             {
@@ -513,7 +551,8 @@
                 "de": "Perfekt für den frühen Sonnenuntergang gegen 16:00 Uhr.",
                 "hu": "Tökéletes helyszín a korai, 16 óra körüli naplementéhez.",
                 "ro": "Locație perfectă pentru apusul timpuriu de pe la ora 16:00.",
-                "en": "Perfect location for the early sunset around 4 PM."
+                "en": "Perfect location for the early sunset around 4 PM.",
+                "pl": "Idealne miejsce na wczesny zachód słońca około godz. 16:00."
               }
             }
           ],
@@ -541,6 +580,12 @@
               "In Poland, the sun sets as early as 3:45 PM in winter.",
               "Warm gloves are essential for the harbor visit.",
               "The Aquarium is the best place to warm up in between stops."
+            ],
+            "pl": [
+              "Bałtycki wiatr sprawia, że odczuwalna temperatura jest niższa niż wskazuje termometr.",
+              "W Polsce słońce może zachodzić już o 15:45 zimą.",
+              "Ciepłe rękawiczki są niezbędne podczas wizyty w porcie.",
+              "Akwarium to najlepsze miejsce, by się rozgrzać między przystankami."
             ]
           }
         }
@@ -559,7 +604,8 @@
             "de": "Auswanderungsmuseum",
             "hu": "Kivándorlási Múzeum",
             "ro": "Muzeul Emigrației",
-            "en": "Emigration Museum"
+            "en": "Emigration Museum",
+            "pl": "Muzeum Emigracji"
           },
           "coords": [
             18.538,
@@ -575,7 +621,8 @@
             "de": "Beginnen Sie hier, um die Menschenmassen am Vormittag zu vermeiden.",
             "hu": "Kezdje itt, hogy elkerülje a délelőtti tömeget.",
             "ro": "Începeți aici pentru a evita aglomerația de dimineață.",
-            "en": "Start here to avoid the mid-morning crowds."
+            "en": "Start here to avoid the mid-morning crowds.",
+            "pl": "Rozpocznij tu, by uniknąć porannych tłumów."
           }
         },
         {
@@ -583,7 +630,8 @@
             "de": "Kościuszko-Platz & ORP Błyskawica",
             "hu": "Kościuszko tér és ORP Błyskawica",
             "ro": "Piața Kościuszko & ORP Błyskawica",
-            "en": "Kościuszko Square & ORP Błyskawica"
+            "en": "Kościuszko Square & ORP Błyskawica",
+            "pl": "Skwer Kościuszki i ORP Błyskawica"
           },
           "coords": [
             18.548,
@@ -599,7 +647,8 @@
             "de": "Kombinieren Sie den Platz mit dem benachbarten Zerstörer-Museumsschiff.",
             "hu": "Kombinálja a teret a szomszédos romboló múzeumhajóval.",
             "ro": "Combinați piața cu vizitarea distrugătorului-muzeu învecinat.",
-            "en": "Combine the square with the adjacent destroyer museum ship."
+            "en": "Combine the square with the adjacent destroyer museum ship.",
+            "pl": "Połącz spacer po skwerze ze zwiedzaniem sąsiedniego niszczyciela-muzeum."
           }
         },
         {
@@ -607,7 +656,8 @@
             "de": "Mittagessen an der Strandpromenade",
             "hu": "Ebéd a tengerparti sétányon",
             "ro": "Prânz pe promenada de pe plajă",
-            "en": "Lunch on the beach promenade"
+            "en": "Lunch on the beach promenade",
+            "pl": "Lunch na promenadzie nad plażą"
           },
           "coords": [
             18.545,
@@ -623,7 +673,8 @@
             "de": "Genießen Sie die Aussicht bei einem leichten Mittagessen.",
             "hu": "Élvezze a kilátást egy könnyű ebéd mellett.",
             "ro": "Bucurați-vă de priveliște cu un prânz ușor.",
-            "en": "Enjoy the view with a light lunch."
+            "en": "Enjoy the view with a light lunch.",
+            "pl": "Ciesz się widokiem przy lekkim lunchu."
           }
         },
         {
@@ -631,7 +682,8 @@
             "de": "Kamienna Góra",
             "hu": "Kamienna Góra",
             "ro": "Kamienna Góra",
-            "en": "Kamienna Góra"
+            "en": "Kamienna Góra",
+            "pl": "Kamienna Góra"
           },
           "coords": [
             18.544,
@@ -647,7 +699,8 @@
             "de": "Lassen Sie Ihr Fahrrad unten und gehen Sie für die Aussicht nach oben.",
             "hu": "Hagyja lent a biciklit, és sétáljon fel a kilátásért.",
             "ro": "Lăsați bicicleta jos și urcați pentru priveliște.",
-            "en": "Leave your bike at the bottom and walk up for the view."
+            "en": "Leave your bike at the bottom and walk up for the view.",
+            "pl": "Zostaw rower u podnóża i wejdź pieszo dla lepszego widoku."
           }
         },
         {
@@ -655,7 +708,8 @@
             "de": "Fahrt nach Orłowo",
             "hu": "Utazás Orłowóba",
             "ro": "Plimbare spre Orłowo",
-            "en": "Ride to Orłowo"
+            "en": "Ride to Orłowo",
+            "pl": "Wyprawa rowerowa do Orłowa"
           },
           "coords": [
             18.547,
@@ -671,7 +725,8 @@
             "de": "Der Radweg entlang der Küste ist einer der schönsten in Polen.",
             "hu": "A tengerparti kerékpárút az egyik legszebb Lengyelországban.",
             "ro": "Pista de biciclete de-a lungul coastei este una dintre cele mai frumoase din Polonia.",
-            "en": "The cycle path along the coast is one of the most beautiful in Poland."
+            "en": "The cycle path along the coast is one of the most beautiful in Poland.",
+            "pl": "Trasa rowerowa wzdłuż wybrzeża jest jedną z najpiękniejszych w Polsce."
           }
         },
         {
@@ -679,7 +734,8 @@
             "de": "Seebrücke Orłowo",
             "hu": "Orłowo móló",
             "ro": "Debarcaderul Orłowo",
-            "en": "Orłowo Pier"
+            "en": "Orłowo Pier",
+            "pl": "Molo w Orłowie"
           },
           "coords": [
             18.548,
@@ -695,7 +751,8 @@
             "de": "Ein malerischer Holzsteg mit Blick auf die Klippen.",
             "hu": "Festői famóló, kilátással a sziklákra.",
             "ro": "Un debarcader pitoresc din lemn, cu vedere la stânci.",
-            "en": "A picturesque wooden pier with views of the cliffs."
+            "en": "A picturesque wooden pier with views of the cliffs.",
+            "pl": "Malownicze drewniane molo z widokiem na klify."
           }
         },
         {
@@ -703,7 +760,8 @@
             "de": "Rückfahrt ins Zentrum",
             "hu": "Vissza a központba",
             "ro": "Întoarcere în centru",
-            "en": "Ride back to the center"
+            "en": "Ride back to the center",
+            "pl": "Powrót rowerem do centrum"
           },
           "coords": [
             18.5305,
@@ -719,7 +777,8 @@
             "de": "Genießen Sie die letzte Fahrt und halten Sie für ein Eis an.",
             "hu": "Élvezze az utolsó utat, és álljon meg egy fagyira.",
             "ro": "Bucurați-vă de ultima plimbare și opriți-vă pentru o înghețată.",
-            "en": "Enjoy the last ride and stop for an ice cream."
+            "en": "Enjoy the last ride and stop for an ice cream.",
+            "pl": "Ciesz się ostatnią przejażdżką i zatrzymaj na lody."
           }
         }
       ],
@@ -727,7 +786,8 @@
         "de": "Schwingen Sie sich auf Ihr Rad und starten Sie beim Auswanderungsmuseum. Radeln Sie dann ins Herz der Stadt zum Kościuszko-Platz und dem Zerstörer Błyskawica. Nach einem Mittagessen mit Meerblick führt Sie eine kurze Fahrt zum Kamienna Góra für eine tolle Aussicht. Der Höhepunkt des Nachmittags ist die malerische Radtour entlang der Küste zur Seebrücke von Orłowo. Genießen Sie die frische Meeresbrise, bevor Sie gemütlich ins Zentrum zurückkehren und den Tag ausklingen lassen.",
         "hu": "Pattanjon biciklire, és kezdjen a Kivándorlási Múzeumnál. Ezután tekerjen be a város szívébe, a Kościuszko térre és a Błyskawica rombolóhoz. Egy tengerre néző ebéd után egy rövid út vezet a Kamienna Góra hegyre a nagyszerű kilátásért. A délután fénypontja a festői tengerparti biciklitúra az Orłowo mólóhoz. Élvezze a friss tengeri szellőt, mielőtt kényelmesen visszatér a központba, és lezárja a napot.",
         "ro": "Urcați-vă pe bicicletă și porniți de la Muzeul Emigrației. Apoi pedalați spre inima orașului, la Piața Kościuszko și distrugătorul Błyskawica. După un prânz cu vedere la mare, o scurtă plimbare vă duce la Kamienna Góra pentru o priveliște minunată. Punctul culminant al după-amiezii este pitoreasca plimbare cu bicicleta de-a lungul coastei până la debarcaderul din Orłowo. Bucurați-vă de briza proaspătă a mării înainte de a vă întoarce agale în centru pentru a încheia ziua.",
-        "en": "Get on your bike and start at the Emigration Museum. Then cycle into the heart of the city to Kościuszko Square and the destroyer Błyskawica. After a lunch with a sea view, a short ride takes you to Kamienna Góra for a great view. The highlight of the afternoon is the scenic bike ride along the coast to the Orłowo Pier. Enjoy the fresh sea breeze before leisurely returning to the centre to round off the day."
+        "en": "Get on your bike and start at the Emigration Museum. Then cycle into the heart of the city to Kościuszko Square and the destroyer Błyskawica. After a lunch with a sea view, a short ride takes you to Kamienna Góra for a great view. The highlight of the afternoon is the scenic bike ride along the coast to the Orłowo Pier. Enjoy the fresh sea breeze before leisurely returning to the centre to round off the day.",
+        "pl": "Wsiądź na rower i zacznij przy Muzeum Emigracji. Następnie przejedź do serca miasta na Skwer Kościuszki i przy niszczycielu Błyskawica. Po obiedzie z widokiem na morze krótka przejażdżka zaprowadzi cię na Kamienna Górę, skąd rozpościera się świetna panorama. Popołudniowym punktem kulminacyjnym jest malownicza jazda wzdłuż wybrzeża do molo w Orłowie. Delektuj się świeżą morską bryzą, po czym spokojnie wróć do centrum, by zakończyć dzień."
       },
       "gastro_picks": {
         "de": [
@@ -923,6 +983,12 @@
           "A lock is essential when you visit the sights.",
           "The coastal cycle path can be crowded on weekends.",
           "Take water and snacks for the longer ride to Orłowo."
+        ],
+        "pl": [
+          "Sprawdź ciśnienie w oponach przed wyjazdem.",
+          "Zapięcie do roweru jest niezbędne podczas zwiedzania atrakcji.",
+          "Nadbrzeżna trasa rowerowa może być zatłoczona w weekendy.",
+          "Weź wodę i przekąski na dłuższą trasę do Orłowa."
         ]
       },
       "variants": {
@@ -931,7 +997,8 @@
             "de": "Regnerische Radtour ab dem Auswanderungsmuseum. Vormittag am Kościuszko-Platz (Vorsicht, glatt!). Mittagessen an der Strandpromenade unter einem Vordach. Nachmittag Fahrt zum Orłowo-Pier durch den windgeschützten Waldweg. Rückfahrt ins Zentrum im Regenponcho.",
             "hu": "Esős biciklitúra az Emigrációs Múzeumtól. Délelőtt a Kościuszko téren (vigyázat, csúszik!). Ebéd a tengerparti sétányon fedett teraszon. Délután tekerés az orłowói mólóhoz a szélvédettebb erdei úton. Visszatérés a központba esőponchóban.",
             "ro": "Tură cu bicicleta pe ploaie de la Muzeul Emigrației. Dimineața în Piața Kościuszko (atenție, alunecă!). Prânz pe faleză sub o copertină. După-amiaza pedalăm spre digul Orłowo pe poteca protejată din pădure. Retur în centru în pelerină.",
-            "en": "Rainy bike tour starting from the Emigration Museum. Morning at Kościuszko Square (caution, slippery!). Lunch on the beach promenade under a canopy. Afternoon ride to Orłowo Pier via the sheltered forest path. Return to the center in a rain poncho."
+            "en": "Rainy bike tour starting from the Emigration Museum. Morning at Kościuszko Square (caution, slippery!). Lunch on the beach promenade under a canopy. Afternoon ride to Orłowo Pier via the sheltered forest path. Return to the center in a rain poncho.",
+            "pl": "Deszczowa wycieczka rowerowa zaczynająca się przy Muzeum Emigracji. Rano Skwer Kościuszki (uwaga, ślisko!). Lunch na promenadzie pod zadaszeniem. Popołudniowa jazda do mola w Orłowie przez osłoniętą leśną ścieżkę. Powrót do centrum w pelerynie przeciwdeszczowej."
           },
           "stops": [
             {
@@ -940,7 +1007,8 @@
                 "de": "Nutzen Sie den überdachten Eingang zum Umziehen der Regenkleidung.",
                 "hu": "Használja a fedett bejáratot az esőruházat átvételéhez.",
                 "ro": "Folosiți intrarea acoperită pentru a vă schimba hainele de ploaie.",
-                "en": "Use the covered entrance to change into your rain gear."
+                "en": "Use the covered entrance to change into your rain gear.",
+                "pl": "Skorzystaj z zadaszonego wejścia, by przebrać się w odzież przeciwdeszczową."
               }
             },
             {
@@ -949,7 +1017,8 @@
                 "de": "Vorsicht auf dem Kopfsteinpflaster, es ist bei Nässe tückisch.",
                 "hu": "Vigyázzon a macskaköveken, nedvesen nagyon csalókák.",
                 "ro": "Atenție pe piatra cubică, este înșelătoare când e udă.",
-                "en": "Be careful on the cobblestones; they are treacherous when wet."
+                "en": "Be careful on the cobblestones; they are treacherous when wet.",
+                "pl": "Uważaj na bruk; jest zdradliwy, gdy jest mokry."
               }
             },
             {
@@ -958,7 +1027,8 @@
                 "de": "Suchen Sie Cafés mit Fahrradstellplätzen direkt am Fenster.",
                 "hu": "Keressen olyan kávézót, ahol az ablakból látja a bringáját.",
                 "ro": "Căutați cafenele unde vă puteți vedea bicicleta de la fereastră.",
-                "en": "Look for cafes where you can see your bike from the window."
+                "en": "Look for cafes where you can see your bike from the window.",
+                "pl": "Szukaj kawiarni, z których widać rower przez okno."
               }
             },
             {
@@ -967,7 +1037,8 @@
                 "de": "Die steile Abfahrt zum Strand ist bei Regen rutschig.",
                 "hu": "A strand felé vezető meredek lejtő esőben csúszós.",
                 "ro": "Coborârea abruptă spre plajă este alunecoasă pe ploaie.",
-                "en": "The steep descent towards the beach is slippery in the rain."
+                "en": "The steep descent towards the beach is slippery in the rain.",
+                "pl": "Strome zejście w kierunku plaży jest śliskie podczas deszczu."
               }
             },
             {
@@ -976,7 +1047,8 @@
                 "de": "Der Radweg R10 durch den Park bietet etwas Schutz vor Wind.",
                 "hu": "Az R10-es bringaút a parkon át némi védelmet nyújt a szél ellen.",
                 "ro": "Pista R10 prin parc oferă puțină protecție împotriva vântului.",
-                "en": "The R10 bike path through the park offers some wind protection."
+                "en": "The R10 bike path through the park offers some wind protection.",
+                "pl": "Trasa rowerowa R10 przez park zapewnia częściową ochronę przed wiatrem."
               }
             },
             {
@@ -985,7 +1057,8 @@
                 "de": "Holzplanken sind extrem glatt, schieben Sie das Rad lieber.",
                 "hu": "A fapadlók rendkívül csúszósak, inkább tolja a kerékpárt.",
                 "ro": "Scândurile sunt extrem de alunecoase, mai bine împingeți bicicleta.",
-                "en": "Wooden planks are extremely slippery; better to push your bike."
+                "en": "Wooden planks are extremely slippery; better to push your bike.",
+                "pl": "Drewniane pomosty są bardzo śliskie; lepiej prowadzić rower."
               }
             },
             {
@@ -994,7 +1067,8 @@
                 "de": "Wählen Sie die Straße statt der Küste, um Wellengischt zu meiden.",
                 "hu": "Válassza az utcákat a part helyett, hogy elkerülje a sós permetet.",
                 "ro": "Alegeți străzile în locul falezei pentru a evita vaporii sărați.",
-                "en": "Choose the streets instead of the coast to avoid salt spray."
+                "en": "Choose the streets instead of the coast to avoid salt spray.",
+                "pl": "Wybierz ulice zamiast wybrzeża, by uniknąć morskiego aerozolu soli."
               }
             }
           ],
@@ -1022,6 +1096,12 @@
               "Use the bike path through the park instead of the promenade.",
               "A raincoat is more practical than an umbrella due to wind.",
               "There are covered bike racks available in Orłowo."
+            ],
+            "pl": [
+              "Uwaga: drewniane deski w porcie są bardzo śliskie, gdy są mokre.",
+              "Skorzystaj ze ścieżki rowerowej przez park zamiast promenady.",
+              "Płaszcz przeciwdeszczowy jest praktyczniejszy niż parasol ze względu na wiatr.",
+              "W Orłowie dostępne są zadaszone stojaki rowerowe."
             ]
           }
         },
@@ -1030,7 +1110,8 @@
             "de": "Eisige Tour entlang der Danziger Bucht. Vormittag im Auswanderungsmuseum aufwärmen. Mittags radeln wir zum Hafenplatz. Mittagessen mit Blick auf das Packeis. Nachmittag Fahrt nach Orłowo, solange es noch hell ist. Rückfahrt bei Dämmerung mit guter Beleuchtung.",
             "hu": "Jeges túra a Gdanski-öböl mentén. Délelőtt melegedés az Emigrációs Múzeumban. Délben kitekerünk a kikötői térre. Ebéd kilátással a zajló jégre. Délután tekerés Orłowóba, amíg még világos van. Visszatérés szürkületben, jó világítással.",
             "ro": "Tură înghețată de-a lungul Golfului Gdansk. Încălzire la Muzeul Emigrației. La prânz pedalăm spre piața portului. Prânz cu vedere la gheața de pe mare. După-amiaza drum spre Orłowo cât încă e lumină. Retur pe amurg cu lumini bune.",
-            "en": "Icy tour along the Gdańsk Bay. Warm up at the Emigration Museum. At noon, cycle to the harbor square. Lunch with a view of the sea ice. Afternoon ride to Orłowo while it's still light. Return at dusk with good lights."
+            "en": "Icy tour along the Gdańsk Bay. Warm up at the Emigration Museum. At noon, cycle to the harbor square. Lunch with a view of the sea ice. Afternoon ride to Orłowo while it's still light. Return at dusk with good lights.",
+            "pl": "Oblodzona trasa wzdłuż Zatoki Gdańskiej. Rozgrzej się w Muzeum Emigracji. W południe przejedź na plac portowy. Lunch z widokiem na lód na morzu. Popołudniowa jazda do Orłowa, póki jest jeszcze jasno. Powrót o zmierzchu z dobrym oświetleniem."
           },
           "stops": [
             {
@@ -1039,7 +1120,8 @@
                 "de": "Starten Sie hier, um die erste Kälte im Inneren zu vermeiden.",
                 "hu": "Kezdjen itt, hogy elkerülje az első reggeli fagyokat.",
                 "ro": "Începeți aici pentru a evita primul ger al dimineții.",
-                "en": "Start here to avoid the first morning frost."
+                "en": "Start here to avoid the first morning frost.",
+                "pl": "Rozpocznij tutaj, by uniknąć porannego przymrozku."
               }
             },
             {
@@ -1048,7 +1130,8 @@
                 "de": "Metallteile am Rad können sehr kalt werden, Handschuhe tragen.",
                 "hu": "A fém alkatrészek nagyon lehűlhetnek, viseljen kesztyűt.",
                 "ro": "Părțile metalice pot deveni foarte reci, purtați mănuși.",
-                "en": "Metal bike parts can get very cold; wear gloves."
+                "en": "Metal bike parts can get very cold; wear gloves.",
+                "pl": "Metalowe części roweru mogą bardzo zmarznąć; noś rękawiczki."
               }
             },
             {
@@ -1057,7 +1140,8 @@
                 "de": "Im Winter sind viele Strandbars geschlossen, suchen Sie feste Lokale.",
                 "hu": "Télen sok strandbár zárva van, keressen állandó éttermet.",
                 "ro": "Multe baruri de plajă sunt închise iarna, căutați restaurante fixe.",
-                "en": "Many beach bars are closed in winter; look for permanent restaurants."
+                "en": "Many beach bars are closed in winter; look for permanent restaurants.",
+                "pl": "Wiele barów plażowych jest zamkniętych zimą; szukaj stałych restauracji."
               }
             },
             {
@@ -1066,7 +1150,8 @@
                 "de": "Der Anstieg hält warm, aber oben zieht der Wind stark.",
                 "hu": "A kapaszkodó melegen tart, de fent erősen fúj a szél.",
                 "ro": "Urcarea vă menține cald, dar sus vântul bate cu putere.",
-                "en": "The climb keeps you warm, but the wind bites at the top."
+                "en": "The climb keeps you warm, but the wind bites at the top.",
+                "pl": "Wspinaczka rozgrzewa, ale wiatr kąsa na szczycie."
               }
             },
             {
@@ -1075,7 +1160,8 @@
                 "de": "Achten Sie auf gefrorene Pfützen auf den Waldwegen.",
                 "hu": "Ügyeljen a befagyott tócsákra az erdei utakon.",
                 "ro": "Atenție la bălțile înghețate de pe potecile din pădure.",
-                "en": "Watch out for frozen puddles on the forest paths."
+                "en": "Watch out for frozen puddles on the forest paths.",
+                "pl": "Uważaj na zamarznięte kałuże na leśnych ścieżkach."
               }
             },
             {
@@ -1084,7 +1170,8 @@
                 "de": "Der Wind auf dem Pier ist im Winter extrem schneidend.",
                 "hu": "A mólón a szél télen rendkívül metsző tud lenni.",
                 "ro": "Vântul de pe dig poate fi extrem de tăios iarna.",
-                "en": "The wind on the pier can be extremely piercing in winter."
+                "en": "The wind on the pier can be extremely piercing in winter.",
+                "pl": "Wiatr na pomoście bywa zimowy i przenikliwy."
               }
             },
             {
@@ -1093,7 +1180,8 @@
                 "de": "Gute Reflektoren sind wichtig, da es früh dunkel wird.",
                 "hu": "A jó prizmák fontosak, mert korán sötétedik.",
                 "ro": "Reflectorizantele bune sunt importante, se întunecă devreme.",
-                "en": "Good reflectors are important as it gets dark early."
+                "en": "Good reflectors are important as it gets dark early.",
+                "pl": "Dobre odblaski są ważne, bo szybko robi się ciemno."
               }
             }
           ],
@@ -1121,6 +1209,12 @@
               "Check tire pressure; it drops slightly in the cold.",
               "Bike paths can be icy in some places.",
               "Plan your return by 4 PM at the latest."
+            ],
+            "pl": [
+              "Noś warstwy i odzież przeciwwiatrową.",
+              "Sprawdź ciśnienie w oponach; w zimnie spada nieco.",
+              "Ścieżki rowerowe w niektórych miejscach mogą być oblodzone.",
+              "Zaplanuj powrót najpóźniej do godz. 16:00."
             ]
           }
         }
@@ -1139,7 +1233,8 @@
             "de": "Fahrt nach Orłowo & Parken",
             "hu": "Utazás Orłowóba és parkolás",
             "ro": "Conduceți spre Orłowo și parcați",
-            "en": "Drive to Orłowo & Park"
+            "en": "Drive to Orłowo & Park",
+            "pl": "Dojazd do Orłowa i parku"
           },
           "coords": [
             18.547,
@@ -1155,7 +1250,8 @@
             "de": "Beginnen Sie im Süden, um dem Stadtverkehr am Morgen zu entgehen.",
             "hu": "Kezdje délen, hogy elkerülje a reggeli városi forgalmat.",
             "ro": "Începeți în sud pentru a evita traficul de dimineață din oraș.",
-            "en": "Start in the south to avoid the morning city traffic."
+            "en": "Start in the south to avoid the morning city traffic.",
+            "pl": "Zacznij na południu, by uniknąć porannych korków w mieście."
           }
         },
         {
@@ -1163,7 +1259,8 @@
             "de": "Seebrücke Orłowo",
             "hu": "Orłowo móló",
             "ro": "Debarcaderul Orłowo",
-            "en": "Orłowo Pier"
+            "en": "Orłowo Pier",
+            "pl": "Molo w Orłowie"
           },
           "coords": [
             18.548,
@@ -1179,7 +1276,8 @@
             "de": "Genießen Sie die Morgenbrise und den Blick auf die Klippen von Orłowo.",
             "hu": "Élvezze a reggeli szellőt és a kilátást az Orłowo sziklákra.",
             "ro": "Bucurați-vă de briza dimineții și de vederea spre stâncile Orłowo.",
-            "en": "Enjoy the morning breeze and the view of the Orłowo cliffs."
+            "en": "Enjoy the morning breeze and the view of the Orłowo cliffs.",
+            "pl": "Rozkoszuj się poranną bryzą i widokiem na klify w Orłowie."
           }
         },
         {
@@ -1187,7 +1285,8 @@
             "de": "Fahrt zum Zentrum & Parken bei Kamienna Góra",
             "hu": "Utazás a központba és parkolás a Kamienna Góránál",
             "ro": "Conduceți spre centru și parcați lângă Kamienna Góra",
-            "en": "Drive to Center & Park near Kamienna Góra"
+            "en": "Drive to Center & Park near Kamienna Góra",
+            "pl": "Jazda do centrum i parku przy Kamiennej Górze"
           },
           "coords": [
             18.544,
@@ -1203,7 +1302,8 @@
             "de": "Parken Sie hier für den Rest des zentralen Teils des Tages.",
             "hu": "Parkoljon itt a nap központi részének hátralévő idejére.",
             "ro": "Parcați aici pentru restul părții centrale a zilei.",
-            "en": "Park here for the rest of the central part of the day."
+            "en": "Park here for the rest of the central part of the day.",
+            "pl": "Zaparkuj tu na pozostałą część dnia w centrum."
           }
         },
         {
@@ -1211,7 +1311,8 @@
             "de": "Kościuszko-Platz & Museumsschiffe",
             "hu": "Kościuszko tér és múzeumhajók",
             "ro": "Piața Kościuszko și navele-muzeu",
-            "en": "Kościuszko Square & Museum Ships"
+            "en": "Kościuszko Square & Museum Ships",
+            "pl": "Plac Kościuszki i statki-muzea"
           },
           "coords": [
             18.547,
@@ -1227,7 +1328,8 @@
             "de": "Ein kurzer Spaziergang bergab führt Sie zum Herzen des Hafens.",
             "hu": "Egy rövid séta lefelé a hegyről a kikötő szívébe vezet.",
             "ro": "O scurtă plimbare la vale vă duce în inima portului.",
-            "en": "A short walk downhill takes you to the heart of the harbour."
+            "en": "A short walk downhill takes you to the heart of the harbour.",
+            "pl": "Krótki spacer w dół zaprowadzi cię w serce portu."
           }
         },
         {
@@ -1235,7 +1337,8 @@
             "de": "Aquarium Gdynia & Mittagessen",
             "hu": "Gdynia Akvárium és ebéd",
             "ro": "Acvariul Gdynia și prânzul",
-            "en": "Gdynia Aquarium & Lunch"
+            "en": "Gdynia Aquarium & Lunch",
+            "pl": "Akwarium w Gdyni i obiad"
           },
           "coords": [
             18.551,
@@ -1251,7 +1354,8 @@
             "de": "Nach der Unterwasserwelt gibt es viele Restaurants in der Nähe.",
             "hu": "A víz alatti világ után számos étterem található a közelben.",
             "ro": "După lumea subacvatică, există multe restaurante în apropiere.",
-            "en": "After the underwater world, there are many restaurants nearby."
+            "en": "After the underwater world, there are many restaurants nearby.",
+            "pl": "Po podwodnym świecie jest tu wiele restauracji w pobliżu."
           }
         },
         {
@@ -1259,7 +1363,8 @@
             "de": "Fahrt zum Auswanderungsmuseum",
             "hu": "Utazás a Kivándorlási Múzeumhoz",
             "ro": "Conduceți spre Muzeul Emigrației",
-            "en": "Drive to the Emigration Museum"
+            "en": "Drive to the Emigration Museum",
+            "pl": "Jazda do Muzeum Emigracji"
           },
           "coords": [
             18.538,
@@ -1275,7 +1380,8 @@
             "de": "Beenden Sie den Tag mit diesem wichtigen Teil der polnischen Geschichte.",
             "hu": "Zárja a napot a lengyel történelem e fontos részével.",
             "ro": "Încheiați ziua cu această parte importantă a istoriei poloneze.",
-            "en": "End the day with this important part of Polish history."
+            "en": "End the day with this important part of Polish history.",
+            "pl": "Zakończ dzień tą ważną częścią polskiej historii."
           }
         }
       ],
@@ -1283,7 +1389,8 @@
         "de": "Beginnen Sie Ihren Autotag mit einer Fahrt zur malerischen Seebrücke von Orłowo. Nachdem Sie die morgendliche Meeresluft genossen haben, fahren Sie ins Zentrum und parken in der Nähe des Kamienna Góra. Von dort aus erkunden Sie zu Fuß das Herz von Gdynia: den Kościuszko-Platz, die Museumsschiffe und das Aquarium, unterbrochen von einem Mittagessen am Meer. Am Nachmittag fahren Sie zum Auswanderungsmuseum, einem tiefgründigen Abschluss Ihrer Erkundungstour durch diese faszinierende Hafenstadt.",
         "hu": "Kezdje autós napját egy utazással a festői Orłowo mólóhoz. Miután élvezte a reggeli tengeri levegőt, hajtson be a központba, és parkoljon a Kamienna Góra közelében. Innen gyalogosan fedezze fel Gdynia szívét: a Kościuszko teret, a múzeumhajókat és az Akváriumot, egy tengerparti ebéddel megszakítva. Délután hajtson el a Kivándorlási Múzeumhoz, amely mélyreható befejezése ennek a lenyűgöző kikötővárosnak a felfedezésének.",
         "ro": "Începeți ziua cu mașina cu o excursie la pitorescul debarcader din Orłowo. După ce v-ați bucurat de aerul de dimineață al mării, conduceți spre centru și parcați lângă Kamienna Góra. De acolo, explorați pe jos inima Gdyniei: Piața Kościuszko, navele-muzeu și Acvariul, cu o pauză pentru prânz la malul mării. După-amiaza, conduceți la Muzeul Emigrației pentru o concluzie profundă a explorării acestui oraș portuar fascinant.",
-        "en": "Start your car day with a drive to the picturesque Orłowo Pier. After enjoying the morning sea air, drive to the centre and park near Kamienna Góra. From there, explore the heart of Gdynia on foot: Kościuszko Square, the museum ships and the Aquarium, with a break for lunch by the sea. In the afternoon, drive to the Emigration Museum for a profound conclusion to your exploration of this fascinating port city."
+        "en": "Start your car day with a drive to the picturesque Orłowo Pier. After enjoying the morning sea air, drive to the centre and park near Kamienna Góra. From there, explore the heart of Gdynia on foot: Kościuszko Square, the museum ships and the Aquarium, with a break for lunch by the sea. In the afternoon, drive to the Emigration Museum for a profound conclusion to your exploration of this fascinating port city.",
+        "pl": "Rozpocznij dzień samochodem przejazdem na malownicze molo w Orłowie. Po porannym oddechu morskiego powietrza pojedź do centrum i zaparkuj w pobliżu Kamiennej Góry. Stamtąd zwiedzaj piechotą serce Gdyni: Plac Kościuszki, statki-muzea i Akwarium, z przerwą na obiad przy morzu. Po południu pojedź do Muzeum Emigracji, by w refleksyjny sposób zamknąć odkrywanie tego fascynującego miasta portowego."
       },
       "gastro_picks": {
         "de": [
@@ -1479,6 +1586,12 @@
           "Parking fees are common in Gdynia, especially in the centre.",
           "Allow extra time for traffic during the high season.",
           "The car gives you the flexibility to visit more remote places like the Babie Doły cliffs."
+        ],
+        "pl": [
+          "Korzystaj z Park and Ride, aby uniknąć centrum miasta.",
+          "Opłaty za parking są powszechne w Gdyni, szczególnie w centrum.",
+          "Zarezerwuj dodatkowy czas na ruch drogowy w sezonie wysokim.",
+          "Samochód daje elastyczność w odwiedzaniu bardziej odległych miejsc, takich jak klify Babie Doły."
         ]
       },
       "variants": {
@@ -1487,7 +1600,8 @@
             "de": "Komfortable Regentour mit dem Auto. Fahrt nach Orłowo zum stürmischen Pier. Vormittag zurück ins Zentrum, Parken im Parkhaus am Kamienna Góra. Mittagessen und Aquarium-Besuch im Trockenen. Nachmittag zum Auswanderungsmuseum, direkt vor dem Eingang parken.",
             "hu": "Kényelmes esős túra autóval. Autózás Orłowóba a viharos mólóhoz. Délelőtt vissza a központba, parkolás a Kamienna Góra melletti parkolóházban. Ebéd és Akvárium látogatás szárazon. Délután az Emigrációs Múzeumba megyünk, parkolás közvetlen a bejárat előtt.",
             "ro": "Tură confortabilă cu mașina pe ploaie. Drum spre Orłowo pentru digul învolburat. Revenire în centru, parcare în garajul de lângă Kamienna Góra. Prânz și vizită la Acvariu la adăpost. După-amiaza la Muzeul Emigrației, parcare chiar la intrare.",
-            "en": "Comfortable rainy tour by car. Drive to Orłowo for the stormy pier. Morning back to the center, parking in the garage near Kamienna Góra. Lunch and Aquarium visit in the dry. Afternoon to the Emigration Museum, parking right in front of the entrance."
+            "en": "Comfortable rainy tour by car. Drive to Orłowo for the stormy pier. Morning back to the center, parking in the garage near Kamienna Góra. Lunch and Aquarium visit in the dry. Afternoon to the Emigration Museum, parking right in front of the entrance.",
+            "pl": "Komfortowa wycieczka samochodowa na deszcz. Zjedź do Orłowa na burzliwe molo. Rano wróć do centrum, zaparkuj w garażu przy Kamiennej Górze. Obiad i wizyta w Akwarium w sucho. Po południu do Muzeum Emigracji, parking tuż przed wejściem."
           },
           "stops": [
             {
@@ -1496,7 +1610,8 @@
                 "de": "Parken Sie nah am Strand, um den Fußweg im Regen kurz zu halten.",
                 "hu": "Parkoljon közel a strandhoz, hogy rövid legyen a séta az esőben.",
                 "ro": "Parcați aproape de plajă pentru a scurta mersul prin ploaie.",
-                "en": "Park close to the beach to keep the walk in the rain short."
+                "en": "Park close to the beach to keep the walk in the rain short.",
+                "pl": "Parkuj blisko plaży, żeby spacer w deszczu był krótki."
               }
             },
             {
@@ -1505,7 +1620,8 @@
                 "de": "Genießen Sie den Blick auf die Wellen, bevor es zu nass wird.",
                 "hu": "Élvezze a hullámok látványát, mielőtt túl vizes lenne.",
                 "ro": "Bucurați-vă de valuri înainte de a vă uda prea tare.",
-                "en": "Enjoy the view of the waves before getting too wet."
+                "en": "Enjoy the view of the waves before getting too wet.",
+                "pl": "Podziwiaj widok fal, zanim zmokniesz."
               }
             },
             {
@@ -1514,7 +1630,8 @@
                 "de": "Nutzen Sie das überdachte Parkhaus im Waterfront-Zentrum.",
                 "hu": "Használja a Waterfront központ fedett parkolóházát.",
                 "ro": "Folosiți parcarea acoperită din centrul Waterfront.",
-                "en": "Use the covered parking garage in the Waterfront center."
+                "en": "Use the covered parking garage in the Waterfront center.",
+                "pl": "Skorzystaj z zadaszonego garażu przy centrum Waterfront."
               }
             },
             {
@@ -1523,7 +1640,8 @@
                 "de": "Vom Parkplatz sind es nur wenige Schritte bis zum Aquarium.",
                 "hu": "A parkolótól csak pár lépés az Akvárium bejárata.",
                 "ro": "De la parcare sunt doar câțiva pași până la intrarea Acvariului.",
-                "en": "It is only a few steps from the parking to the Aquarium entrance."
+                "en": "It is only a few steps from the parking to the Aquarium entrance.",
+                "pl": "To tylko kilka kroków z parkingu do wejścia do Akwarium."
               }
             },
             {
@@ -1532,7 +1650,8 @@
                 "de": "Das Auto bleibt trocken, während Sie die Meereswelt erkunden.",
                 "hu": "Az autó száraz marad, amíg Ön a tenger világát fedezi fel.",
                 "ro": "Mașina rămâne uscată în timp ce explorați lumea marină.",
-                "en": "The car stays dry while you explore the marine world."
+                "en": "The car stays dry while you explore the marine world.",
+                "pl": "Samochód pozostaje suchy, gdy eksplorujesz świat morski."
               }
             },
             {
@@ -1541,7 +1660,8 @@
                 "de": "Es gibt ausreichend Parkplätze direkt am Hafenkai.",
                 "hu": "Közvetlenül a kikötői mólónál rengeteg parkolóhely van.",
                 "ro": "Există multe locuri de parcare chiar lângă cheiul portului.",
-                "en": "There are plenty of parking spaces right by the harbor quay."
+                "en": "There are plenty of parking spaces right by the harbor quay.",
+                "pl": "Przy nabrzeżu jest mnóstwo miejsc parkingowych tuż przy kei."
               }
             }
           ],
@@ -1569,6 +1689,12 @@
               "City center parking garages offer the best rain protection.",
               "Keep some coins ready for the parking meters.",
               "Drive carefully on the coastal road due to aquaplaning risks."
+            ],
+            "pl": [
+              "Unikaj parkowania pod drzewami podczas silnego wiatru.",
+              "Garaże parkingowe w centrum oferują najlepszą ochronę przed deszczem.",
+              "Miej przygotowane drobne do parkomatów.",
+              "Jedź ostrożnie po nadmorskiej drodze ze względu na ryzyko aquaplaningu."
             ]
           }
         },
@@ -1577,7 +1703,8 @@
             "de": "Winterliche Autotour durch Gdingen. Vormittags zum frostigen Orłowo-Kliff. Danach Fahrt ins warme Zentrum. Mittagessen in Hafennähe und Besuch des Aquariums. Nachmittags Fahrt zum Auswanderungsmuseum, um den Sonnenuntergang über dem Hafenbecken bequem vom Auto oder Museum aus zu sehen.",
             "hu": "Téli autós túra Gdyniában. Délelőtt a fagyos orłowói sziklákhoz. Utána autózás a meleg belvárosba. Ebéd a kikötő közelében és az Akvárium megtekintése. Délután az Emigrációs Múzeumba megyünk, a naplementét kényelmesen az autóból vagy a múzeumból nézzük.",
             "ro": "Tură de iarnă cu mașina prin Gdynia. Dimineața la faleza înghețată din Orłowo. Apoi drum spre centrul călduros. Prânz lângă port și vizită la Acvariu. După-amiaza la Muzeul Emigrației pentru apusul de soare peste port.",
-            "en": "Winter car tour through Gdynia. Morning to the frosty Orłowo cliffs. Then drive to the warm city center. Lunch near the harbor and visit the Aquarium. Afternoon to the Emigration Museum to watch the sunset over the harbor."
+            "en": "Winter car tour through Gdynia. Morning to the frosty Orłowo cliffs. Then drive to the warm city center. Lunch near the harbor and visit the Aquarium. Afternoon to the Emigration Museum to watch the sunset over the harbor.",
+            "pl": "Zimowa wycieczka samochodowa po Gdyni. Rano do mroźnych klifów w Orłowie. Potem przejazd do ciepłego centrum. Obiad przy porcie i wizyta w Akwarium. Po południu do Muzeum Emigracji, by oglądać zachód słońca nad portem."
           },
           "stops": [
             {
@@ -1586,7 +1713,8 @@
                 "de": "Die Straßen in Strandnähe können morgens glatt sein.",
                 "hu": "A tengerparthoz közeli utcák reggelente jegesek lehetnek.",
                 "ro": "Străzile de lângă plajă pot fi înghețate dimineața.",
-                "en": "Streets near the beach can be icy in the mornings."
+                "en": "Streets near the beach can be icy in the mornings.",
+                "pl": "Ulice przy plaży mogą być oblodzone rano."
               }
             },
             {
@@ -1595,7 +1723,8 @@
                 "de": "Lassen Sie den Motor nicht zu lange im Stehen laufen.",
                 "hu": "Ne járassa túl sokáig álló helyzetben a motort.",
                 "ro": "Nu lăsați motorul pornit prea mult timp în staționare.",
-                "en": "Do not leave the engine idling for too long."
+                "en": "Do not leave the engine idling for too long.",
+                "pl": "Nie zostawiaj silnika na jałowym biegu zbyt długo."
               }
             },
             {
@@ -1604,7 +1733,8 @@
                 "de": "Vorgewärmte Parkhäuser schonen die Autobatterie.",
                 "hu": "A temperált parkolóházak kímélik az autó akkumulátorát.",
                 "ro": "Parcările acoperite protejează bateria mașinii.",
-                "en": "Climate-controlled parking garages are easier on the car battery."
+                "en": "Climate-controlled parking garages are easier on the car battery.",
+                "pl": "Garaże z kontrolą klimatu oszczędzają akumulatorowi samochodu."
               }
             },
             {
@@ -1613,7 +1743,8 @@
                 "de": "Kurzer Spaziergang zu den Schiffen, dann zurück ins warme Auto.",
                 "hu": "Rövid séta a hajókhoz, majd vissza a meleg autóba.",
                 "ro": "Scurtă plimbare la nave, apoi înapoi în mașina caldă.",
-                "en": "Short walk to the ships, then back to the warm car."
+                "en": "Short walk to the ships, then back to the warm car.",
+                "pl": "Krótki spacer do statków, a potem z powrotem do ciepłego auta."
               }
             },
             {
@@ -1622,7 +1753,8 @@
                 "de": "Parken Sie so, dass Sie nach dem Essen direkt losfahren können.",
                 "hu": "Úgy parkoljon, hogy ebéd után rögtön indulni tudjon.",
                 "ro": "Parcați astfel încât să puteți pleca imediat după masă.",
-                "en": "Park so that you can leave immediately after lunch."
+                "en": "Park so that you can leave immediately after lunch.",
+                "pl": "Zaparkuj tak, żebyś mógł odjechać zaraz po obiedzie."
               }
             },
             {
@@ -1631,7 +1763,8 @@
                 "de": "Die Hafenstraßen werden im Winter meist gut geräumt.",
                 "hu": "A kikötői utakat télen általában jól takarítják.",
                 "ro": "Drumurile din port sunt de obicei bine deszăpezite iarna.",
-                "en": "Harbor roads are usually well-cleared in winter."
+                "en": "Harbor roads are usually well-cleared in winter.",
+                "pl": "Drogi portowe zazwyczaj są dobrze odśnieżone zimą."
               }
             }
           ],
@@ -1659,6 +1792,12 @@
               "Watch out for black ice forming near the sea.",
               "Bring an ice scraper and antifreeze fluid.",
               "Parking fees apply in winter as well."
+            ],
+            "pl": [
+              "Opony zimowe są obowiązkowe w Polsce przy śniegu i lodzie.",
+              "Uważaj na gołoledź tworzącą się przy morzu.",
+              "Zabierz skrobaczkę do szyb i płyn odmrażający.",
+              "Opłaty parkingowe obowiązują również zimą."
             ]
           }
         }
@@ -1677,7 +1816,8 @@
             "de": "Fahrt zum Auswanderungsmuseum",
             "hu": "Utazás a Kivándorlási Múzeumhoz",
             "ro": "Călătorie la Muzeul Emigrației",
-            "en": "Trip to the Emigration Museum"
+            "en": "Trip to the Emigration Museum",
+            "pl": "Wycieczka do Muzeum Emigracji"
           },
           "coords": [
             18.538,
@@ -1693,7 +1833,8 @@
             "de": "Mehrere Buslinien halten in der Nähe des Museums am Hafen.",
             "hu": "Több buszjárat is megáll a múzeum közelében a kikötőnél.",
             "ro": "Mai multe linii de autobuz opresc lângă muzeul din port.",
-            "en": "Several bus lines stop near the museum at the harbour."
+            "en": "Several bus lines stop near the museum at the harbour.",
+            "pl": "Przy muzeum zatrzymuje się kilka linii autobusowych przy nabrzeżu."
           }
         },
         {
@@ -1701,7 +1842,8 @@
             "de": "Fahrt zum Kościuszko-Platz",
             "hu": "Utazás a Kościuszko térre",
             "ro": "Călătorie la Piața Kościuszko",
-            "en": "Trip to Kościuszko Square"
+            "en": "Trip to Kościuszko Square",
+            "pl": "Wycieczka na Plac Kościuszki"
           },
           "coords": [
             18.546,
@@ -1717,7 +1859,8 @@
             "de": "Fahren Sie zurück ins Zentrum, um den nächsten Teil zu Fuß zu erkunden.",
             "hu": "Utazzon vissza a központba, hogy gyalog fedezze fel a következő részt.",
             "ro": "Întoarceți-vă în centru pentru a explora următoarea parte pe jos.",
-            "en": "Travel back to the centre to explore the next part on foot."
+            "en": "Travel back to the centre to explore the next part on foot.",
+            "pl": "Wróć do centrum, by kolejny etap zwiedzać pieszo."
           }
         },
         {
@@ -1725,7 +1868,8 @@
             "de": "Museumsschiff Dar Pomorza & Aquarium",
             "hu": "Dar Pomorza múzeumhajó és Akvárium",
             "ro": "Nava-muzeu Dar Pomorza și Acvariul",
-            "en": "Dar Pomorza Museum Ship & Aquarium"
+            "en": "Dar Pomorza Museum Ship & Aquarium",
+            "pl": "Statek-muzeum Dar Pomorza i Akwarium"
           },
           "coords": [
             18.55,
@@ -1741,7 +1885,8 @@
             "de": "Diese beiden Attraktionen liegen direkt nebeneinander.",
             "hu": "Ez a két látnivaló közvetlenül egymás mellett található.",
             "ro": "Aceste două atracții sunt situate chiar una lângă cealaltă.",
-            "en": "These two attractions are located right next to each other."
+            "en": "These two attractions are located right next to each other.",
+            "pl": "Te dwie atrakcje znajdują się tuż obok siebie."
           }
         },
         {
@@ -1749,7 +1894,8 @@
             "de": "Mittagessen & Spaziergang zum Kamienna Góra",
             "hu": "Ebéd és séta a Kamienna Górára",
             "ro": "Prânz și plimbare la Kamienna Góra",
-            "en": "Lunch & walk to Kamienna Góra"
+            "en": "Lunch & walk to Kamienna Góra",
+            "pl": "Obiad i spacer na Kamienną Górę"
           },
           "coords": [
             18.544,
@@ -1765,7 +1911,8 @@
             "de": "Stärken Sie sich, bevor Sie den Hügel für die Aussicht erklimmen.",
             "hu": "Erősítsen, mielőtt megmássza a dombot a kilátásért.",
             "ro": "Întăriți-vă înainte de a urca pe deal pentru priveliște.",
-            "en": "Fortify yourself before climbing the hill for the view."
+            "en": "Fortify yourself before climbing the hill for the view.",
+            "pl": "Wzmocnij się przed wspinaczką na wzgórze dla widoku."
           }
         },
         {
@@ -1773,7 +1920,8 @@
             "de": "Fahrt nach Orłowo (SKM-Zug)",
             "hu": "Utazás Orłowóba (SKM vonat)",
             "ro": "Călătorie la Orłowo (tren SKM)",
-            "en": "Trip to Orłowo (SKM train)"
+            "en": "Trip to Orłowo (SKM train)",
+            "pl": "Wycieczka do Orłowa (SKM)"
           },
           "coords": [
             18.547,
@@ -1789,7 +1937,8 @@
             "de": "Der SKM-Nahverkehrszug ist der schnellste Weg nach Orłowo.",
             "hu": "Az SKM elővárosi vonat a leggyorsabb út Orłowóba.",
             "ro": "Trenul suburban SKM este cel mai rapid mod de a ajunge la Orłowo.",
-            "en": "The SKM commuter train is the fastest way to get to Orłowo."
+            "en": "The SKM commuter train is the fastest way to get to Orłowo.",
+            "pl": "Szybka kolej SKM to najszybszy sposób, by dostać się do Orłowa."
           }
         },
         {
@@ -1797,7 +1946,8 @@
             "de": "Seebrücke Orłowo & Klippen",
             "hu": "Orłowo móló és sziklák",
             "ro": "Debarcaderul și stâncile din Orłowo",
-            "en": "Orłowo Pier & Cliffs"
+            "en": "Orłowo Pier & Cliffs",
+            "pl": "Molo i klify w Orłowie"
           },
           "coords": [
             18.548,
@@ -1813,7 +1963,8 @@
             "de": "Verbringen Sie den Rest des Nachmittags an diesem wunderschönen Ort.",
             "hu": "Töltse a délután hátralévő részét ezen a gyönyörű helyen.",
             "ro": "Petreceți restul după-amiezii în acest loc frumos.",
-            "en": "Spend the rest of the afternoon in this beautiful spot."
+            "en": "Spend the rest of the afternoon in this beautiful spot.",
+            "pl": "Spędź resztę popołudnia w tym pięknym miejscu."
           }
         }
       ],
@@ -1821,7 +1972,8 @@
         "de": "Nutzen Sie Gdynias effiziente öffentliche Verkehrsmittel. Beginnen Sie mit einer Busfahrt zum Auswanderungsmuseum. Kehren Sie ins Zentrum zurück, um das maritime Cluster zu Fuß zu erkunden: Dar Pomorza, das Aquarium und ein Mittagessen am Hafen. Nach dem Aufstieg zum Kamienna Góra nehmen Sie den schnellen SKM-Zug nach Orłowo. Verbringen Sie den Nachmittag damit, die berühmte Seebrücke und die dramatischen Klippen zu bewundern, bevor Sie bequem ins Zentrum zurückkehren.",
         "hu": "Használja ki Gdynia hatékony tömegközlekedését. Kezdje egy buszúttal a Kivándorlási Múzeumhoz. Térjen vissza a központba, hogy gyalogosan fedezze fel a tengeri klasztert: a Dar Pomorza, az Akvárium és egy kikötői ebéd. A Kamienna Góra megmászása után szálljon fel a gyors SKM vonatra Orłowóba. Töltse a délutánt a híres móló és a drámai sziklák csodálásával, mielőtt kényelmesen visszatérne a központba.",
         "ro": "Profitați de transportul public eficient din Gdynia. Începeți cu o călătorie cu autobuzul la Muzeul Emigrației. Întoarceți-vă în centru pentru a explora pe jos clusterul maritim: Dar Pomorza, Acvariul și un prânz în port. După urcarea pe Kamienna Góra, luați trenul rapid SKM spre Orłowo. Petreceți după-amiaza admirând faimosul debarcader și stâncile dramatice înainte de a vă întoarce confortabil în centru.",
-        "en": "Take advantage of Gdynia's efficient public transport. Start with a bus trip to the Emigration Museum. Return to the centre to explore the maritime cluster on foot: Dar Pomorza, the Aquarium, and a harbour lunch. After climbing Kamienna Góra, take the fast SKM train to Orłowo. Spend the afternoon admiring the famous pier and dramatic cliffs before returning comfortably to the centre."
+        "en": "Take advantage of Gdynia's efficient public transport. Start with a bus trip to the Emigration Museum. Return to the centre to explore the maritime cluster on foot: Dar Pomorza, the Aquarium, and a harbour lunch. After climbing Kamienna Góra, take the fast SKM train to Orłowo. Spend the afternoon admiring the famous pier and dramatic cliffs before returning comfortably to the centre.",
+        "pl": "Skorzystaj z efektywnego transportu publicznego Gdyni. Zacznij od autobusu do Muzeum Emigracji. Wróć do centrum, by pieszo zwiedzić morskie atrakcje: Dar Pomorza, Akwarium i obiad przy porcie. Po wejściu na Kamienną Górę pojedź szybką SKM-ką do Orłowa. Spędź popołudnie podziwiając słynne molo i dramatyczne klify, zanim wygodnie wrócisz do centrum."
       },
       "gastro_picks": {
         "de": [
@@ -2017,6 +2169,12 @@
           "The 'jakdojade' app is essential for planning routes.",
           "SKM trains and trolleybuses are the main modes of transport.",
           "Validate your ticket immediately after boarding to avoid a fine."
+        ],
+        "pl": [
+          "Kup bilet dzienny na nieograniczone przejazdy.",
+          "Aplikacja 'jakdojade' jest niezbędna do planowania tras.",
+          "Koleje SKM i trolejbusy to główne środki transportu.",
+          "Zasady ważenia biletu natychmiast po wejściu, by uniknąć mandatu."
         ]
       },
       "variants": {
@@ -2025,7 +2183,8 @@
             "de": "Mit Bus und Bahn durch das regnerische Gdingen. Vormittag Fahrt zum Auswanderungsmuseum. Danach mit dem Bus zum Kościuszko-Platz. Besuch der Museumsschiffe und des Aquariums im Trockenen. Nachmittag mit dem Bus zum Kamienna Góra und schließlich mit dem SKM-Zug nach Orłowo.",
             "hu": "Busszal és vonattal az esős Gdyniában. Délelőtt utazás az Emigrációs Múzeumba. Utána busszal a Kościuszko térre. A hajók és az Akvárium megtekintése fedett helyen. Délután buszozás a Kamienna Górárához, végül SKM vonattal Orłowóba.",
             "ro": "Cu autobuzul și trenul prin Gdynia ploioasă. Dimineața drum la Muzeul Emigrației. Apoi cu autobuzul în Piața Kościuszko. Vizităm navele și Acvariul la adăpost. După-amiaza cu autobuzul la Kamienna Góra și cu trenul SKM la Orłowo.",
-            "en": "By bus and train through rainy Gdynia. Morning trip to the Emigration Museum. Then by bus to Kościuszko Square. Visit the museum ships and Aquarium in the dry. Afternoon bus to Kamienna Góra and finally an SKM train to Orłowo."
+            "en": "By bus and train through rainy Gdynia. Morning trip to the Emigration Museum. Then by bus to Kościuszko Square. Visit the museum ships and Aquarium in the dry. Afternoon bus to Kamienna Góra and finally an SKM train to Orłowo.",
+            "pl": "Autobusem i pociągiem przez deszczową Gdynię. Poranna wyprawa do Muzeum Emigracji. Potem autobusem na Plac Kościuszki. Zwiedzanie statków-muzeów i Akwarium w sucho. Popołudniowy autobus na Kamienną Górę i wreszcie SKM do Orłowa."
           },
           "stops": [
             {
@@ -2034,7 +2193,8 @@
                 "de": "Die Buslinie 119 hält fast direkt vor dem Museumseingang.",
                 "hu": "A 119-es busz szinte közvetlenül a múzeum bejárata előtt áll meg.",
                 "ro": "Autobuzul 119 oprește aproape chiar în fața intrării muzeului.",
-                "en": "Bus line 119 stops almost directly in front of the museum entrance."
+                "en": "Bus line 119 stops almost directly in front of the museum entrance.",
+                "pl": "Linia autobusowa 119 zatrzymuje się prawie bezpośrednio przed wejściem do muzeum."
               }
             },
             {
@@ -2043,7 +2203,8 @@
                 "de": "Nutzen Sie die Wartehäuschen an den Bushaltestellen.",
                 "hu": "Használja a buszmegállók fedett váróit.",
                 "ro": "Folosiți adăposturile din stațiile de autobuz.",
-                "en": "Use the shelters at the bus stops."
+                "en": "Use the shelters at the bus stops.",
+                "pl": "Korzystaj z wiat na przystankach."
               }
             },
             {
@@ -2052,7 +2213,8 @@
                 "de": "Vom Aquarium ist es nur ein kurzer Sprint zur nächsten Haltestelle.",
                 "hu": "Az Akváriumtól csak egy rövid futás a következő megálló.",
                 "ro": "De la Acvariu e doar un sprint scurt până la următoarea stație.",
-                "en": "It is just a short sprint from the Aquarium to the next stop."
+                "en": "It is just a short sprint from the Aquarium to the next stop.",
+                "pl": "To tylko krótki sprint z Akwarium na następny przystanek."
               }
             },
             {
@@ -2061,7 +2223,8 @@
                 "de": "Viele Busse fahren vom Hafen direkt ins Zentrum.",
                 "hu": "Sok busz jár a kikötőtől közvetlenül a központba.",
                 "ro": "Multe autobuze merg din port direct spre centru.",
-                "en": "Many buses run from the harbor directly to the center."
+                "en": "Many buses run from the harbor directly to the center.",
+                "pl": "Wiele autobusów kursuje z nabrzeża bezpośrednio do centrum."
               }
             },
             {
@@ -2070,7 +2233,8 @@
                 "de": "Die SKM-Züge sind warm, trocken und fahren alle 15 Minuten.",
                 "hu": "Az SKM vonatok melegek, szárazak és 15 percenként járnak.",
                 "ro": "Trenurile SKM sunt calde, uscate și circulă la fiecare 15 minute.",
-                "en": "SKM trains are warm, dry, and run every 15 minutes."
+                "en": "SKM trains are warm, dry, and run every 15 minutes.",
+                "pl": "Pociągi SKM są ciepłe, suche i kursują co 15 minut."
               }
             },
             {
@@ -2079,7 +2243,8 @@
                 "de": "Vom Bahnhof Orłowo ist es ein ca. 10-minütiger Fußweg zum Meer.",
                 "hu": "Az orłowói állomástól kb. 10 perc séta a tengerpart.",
                 "ro": "De la gara Orłowo sunt cam 10 minute de mers pe jos până la mare.",
-                "en": "From Orłowo station, it is about a 10-minute walk to the sea."
+                "en": "From Orłowo station, it is about a 10-minute walk to the sea.",
+                "pl": "Ze stacji Orłowo to około 10 minut spacerem do morza."
               }
             }
           ],
@@ -2107,6 +2272,12 @@
               "Gdynia buses are modern and usually on time.",
               "On rainy days, trains are often more crowded than usual.",
               "Stop announcements help when visibility is poor."
+            ],
+            "pl": [
+              "Kupuj bilety wygodnie przez aplikację (np. Jakdojade).",
+              "Autobusy w Gdyni są nowoczesne i zazwyczaj punktualne.",
+              "W deszczowe dni pociągi bywają częściej zatłoczone niż zwykle.",
+              "Zapowiedzi na przystankach pomagają, gdy widoczność jest słaba."
             ]
           }
         },
@@ -2115,7 +2286,8 @@
             "de": "Winter-Tagestrip mit öffentlichen Verkehrsmitteln. Vormittags zum Auswanderungsmuseum. Mittags mit dem Bus zum Kościuszko-Platz, um Schiffe und Aquarium zu sehen. Nachmittag Fahrt zum Kamienna Góra. Zum Abschluss mit dem warmen SKM-Zug nach Orłowo für einen frostigen Strandspaziergang.",
             "hu": "Téli nap Gdyniában tömegközlekedéssel. Délelőtt az Emigrációs Múzeumban kezdünk. Délben busszal a Kościuszko térre a hajókhoz és az Akváriumhoz. Délután buszozás a Kamienna Górárához. Végül a meleg SKM vonattal Orłowóba egy fagyos parti sétára.",
             "ro": "O zi de iarnă în Gdynia cu transportul public. Dimineața la Muzeul Emigrației. La prânz cu autobuzul în Piața Kościuszko. După-amiaza la Kamienna Góra. La final, cu trenul cald SKM la Orłowo pentru o plimbare pe plaja înghețată.",
-            "en": "Winter day in Gdynia by public transport. Start at the Emigration Museum in the morning. At noon, bus to Kościuszko Square for the ships and Aquarium. Afternoon bus to Kamienna Góra. Finally, take the warm SKM train to Orłowo for a frosty beach walk."
+            "en": "Winter day in Gdynia by public transport. Start at the Emigration Museum in the morning. At noon, bus to Kościuszko Square for the ships and Aquarium. Afternoon bus to Kamienna Góra. Finally, take the warm SKM train to Orłowo for a frosty beach walk.",
+            "pl": "Zimowy dzień w Gdyni transportem publicznym. Rano zacznij w Muzeum Emigracji. W południe autobus na Plac Kościuszki na statki i Akwarium. Popołudnie autobusem na Kamienną Górę. Na koniec weź ciepłą SKM-kę do Orłowa na mroźny spacer po plaży."
           },
           "stops": [
             {
@@ -2124,7 +2296,8 @@
                 "de": "Warten Sie im Museumscafé, wenn der Bus Verspätung hat.",
                 "hu": "Várjon a múzeum kávézójában, ha késik a busz.",
                 "ro": "Așteptați în cafeneaua muzeului dacă autobuzul întârzie.",
-                "en": "Wait in the museum cafe if the bus is delayed."
+                "en": "Wait in the museum cafe if the bus is delayed.",
+                "pl": "Poczekaj w kawiarni muzealnej, jeśli autobus się opóźnia."
               }
             },
             {
@@ -2133,7 +2306,8 @@
                 "de": "Im Winter fahren die Busse im Standardtakt, achten Sie auf die Kälte.",
                 "hu": "Télen a buszok alapmenetrend szerint járnak, ügyeljen a hidegre.",
                 "ro": "Iarna autobuzele au program normal, atenție la ger.",
-                "en": "Buses run on a standard schedule in winter; mind the cold."
+                "en": "Buses run on a standard schedule in winter; mind the cold.",
+                "pl": "Autobusy kursują według standardowego rozkładu zimą; pamiętaj o chłodzie."
               }
             },
             {
@@ -2142,7 +2316,8 @@
                 "de": "Die Schiffe haben im Winter oft verkürzte Öffnungszeiten.",
                 "hu": "A hajók télen gyakran rövidített nyitvatartással üzemelnek.",
                 "ro": "Navele au adesea program scurtat pe timp de iarnă.",
-                "en": "The ships often have shortened opening hours in winter."
+                "en": "The ships often have shortened opening hours in winter.",
+                "pl": "Statki często mają skrócone godziny otwarcia zimą."
               }
             },
             {
@@ -2151,7 +2326,8 @@
                 "de": "Der Weg zur nächsten Haltestelle kann windig sein.",
                 "hu": "A következő megállóig vezető út szeles lehet.",
                 "ro": "Drumul până la următoarea stație poate fi foarte vântos.",
-                "en": "The walk to the next stop can be very windy."
+                "en": "The walk to the next stop can be very windy.",
+                "pl": "Spacer do następnego przystanku może być bardzo wietrzny."
               }
             },
             {
@@ -2160,7 +2336,8 @@
                 "de": "Die Bahnhöfe sind zugig, kommen Sie kurz vor der Abfahrt.",
                 "hu": "Az állomások huzatosak, érkezzen röviddel indulás előtt.",
                 "ro": "Gările sunt expuse curentului, veniți cu puțin timp înainte de plecare.",
-                "en": "Stations are drafty; arrive shortly before departure."
+                "en": "Stations are drafty; arrive shortly before departure.",
+                "pl": "Dworce są przeciągowe; przyjdź na chwilę przed odjazdem."
               }
             },
             {
@@ -2169,7 +2346,8 @@
                 "de": "Der Rückweg zum Bahnhof wärmt nach dem Strandbesuch auf.",
                 "hu": "A tengerpart után a visszaút az állomásra jól átmelegíti.",
                 "ro": "Drumul înapoi spre gară vă va încălzi după vizita pe plajă.",
-                "en": "The walk back to the station will warm you up after the beach."
+                "en": "The walk back to the station will warm you up after the beach.",
+                "pl": "Powrót na stację rozgrzeje cię po plaży."
               }
             }
           ],
@@ -2197,6 +2375,12 @@
               "Gdynia's trolleybuses are heated and very comfortable.",
               "Check the winter schedule during holidays.",
               "Ticket machines at stops can sometimes malfunction in the frost."
+            ],
+            "pl": [
+              "Pociągi SKM to najbardziej niezawodne połączenie zimą.",
+              "Trolejbusy Gdyni są ogrzewane i bardzo wygodne.",
+              "Sprawdź rozkład zimowy w czasie świąt.",
+              "Automaty biletowe na przystankach czasem zawodzą na mrozie."
             ]
           }
         }

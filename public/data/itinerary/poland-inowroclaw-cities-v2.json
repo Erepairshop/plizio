@@ -21,7 +21,8 @@
             "de": "Marktplatz (Rynek)",
             "hu": "Piactér (Rynek)",
             "ro": "Piața Centrală (Rynek)",
-            "en": "Market Square (Rynek)"
+            "en": "Market Square (Rynek)",
+            "pl": "Rynek (Market Square)"
           },
           "coords": [
             18.259,
@@ -37,7 +38,8 @@
             "de": "Beginnen Sie Ihren Tag hier mit einem Kaffee und beobachten Sie das städtische Treiben.",
             "hu": "Kezdje a napot egy kávéval, és figyelje a város ébredését.",
             "ro": "Începeți ziua aici cu o cafea, observând agitația orașului.",
-            "en": "Start your day here with a coffee and watch the town come to life."
+            "en": "Start your day here with a coffee and watch the town come to life.",
+            "pl": "Rozpocznij tu dzień od kawy i obserwuj, jak miasto budzi się do życia."
           }
         },
         {
@@ -45,7 +47,8 @@
             "de": "Nikolauskirche",
             "hu": "Szent Miklós-templom",
             "ro": "Biserica Sfântul Nicolae",
-            "en": "St. Nicholas Church"
+            "en": "St. Nicholas Church",
+            "pl": "Kościół św. Mikołaja"
           },
           "coords": [
             18.2575,
@@ -61,7 +64,8 @@
             "de": "Bewundern Sie die romanische Architektur, eine der ältesten in der Region.",
             "hu": "Csodálja meg a román stílusú építészetet, az egyik legrégebbit a régióban.",
             "ro": "Admirați arhitectura romanică, una dintre cele mai vechi din regiune.",
-            "en": "Admire the Romanesque architecture, one of the oldest in the region."
+            "en": "Admire the Romanesque architecture, one of the oldest in the region.",
+            "pl": "Podziwiaj architekturę romańską, jedną z najstarszych w regionie."
           }
         },
         {
@@ -69,7 +73,8 @@
             "de": "Jan-Kasprowicz-Museum",
             "hu": "Jan Kasprowicz Múzeum",
             "ro": "Muzeul Jan Kasprowicz",
-            "en": "Jan Kasprowicz Museum"
+            "en": "Jan Kasprowicz Museum",
+            "pl": "Muzeum Jana Kasprowicza"
           },
           "coords": [
             18.256,
@@ -85,7 +90,8 @@
             "de": "Erfahren Sie mehr über das Leben des berühmten lokalen Dichters und Schriftstellers.",
             "hu": "Ismerje meg a híres helyi költő és író életét.",
             "ro": "Aflați mai multe despre viața celebrului poet și scriitor local.",
-            "en": "Learn about the life of the famous local poet and writer."
+            "en": "Learn about the life of the famous local poet and writer.",
+            "pl": "Poznaj życie słynnego lokalnego poety i pisarza."
           }
         },
         {
@@ -93,7 +99,8 @@
             "de": "Marienkirche (Die Ruine)",
             "hu": "Mária-templom (A rom)",
             "ro": "Biserica Sf. Maria (Ruina)",
-            "en": "St. Mary's Church (The Ruin)"
+            "en": "St. Mary's Church (The Ruin)",
+            "pl": "Kościół Mariacki (Ruina)"
           },
           "coords": [
             18.2545,
@@ -109,7 +116,8 @@
             "de": "Die gotischen Ruinen schaffen eine einzigartige, nachdenkliche Atmosphäre.",
             "hu": "A gótikus romok egyedi, elgondolkodtató hangulatot teremtenek.",
             "ro": "Ruinele gotice creează o atmosferă unică, reflexivă.",
-            "en": "The Gothic ruins create a unique, contemplative atmosphere."
+            "en": "The Gothic ruins create a unique, contemplative atmosphere.",
+            "pl": "Gotyckie ruiny tworzą wyjątkową, kontemplacyjną atmosferę."
           }
         },
         {
@@ -117,7 +125,8 @@
             "de": "Solankowy-Park (Kurpark)",
             "hu": "Solankowy Park (Gyógyfürdőpark)",
             "ro": "Parcul Solankowy (Parcul balnear)",
-            "en": "Solankowy Park (Spa Park)"
+            "en": "Solankowy Park (Spa Park)",
+            "pl": "Solankowy Park (Spa Park)"
           },
           "coords": [
             18.268,
@@ -133,7 +142,8 @@
             "de": "Ein idealer Ort für ein Mittagessen im Freien oder einen entspannten Spaziergang.",
             "hu": "Ideális hely egy szabadtéri ebédhez vagy egy pihentető sétához.",
             "ro": "Un loc ideal pentru un prânz în aer liber sau o plimbare relaxantă.",
-            "en": "An ideal spot for an open-air lunch or a relaxing stroll."
+            "en": "An ideal spot for an open-air lunch or a relaxing stroll.",
+            "pl": "Idealne miejsce na lunch na świeżym powietrzu lub relaksujący spacer."
           }
         },
         {
@@ -141,7 +151,8 @@
             "de": "Gradierwerk (Tężnia Solankowa)",
             "hu": "Sólepárló torony (Tężnia Solankowa)",
             "ro": "Turnul de gradare a sării (Tężnia Solankowa)",
-            "en": "Graduation Tower (Tężnia Solankowa)"
+            "en": "Graduation Tower (Tężnia Solankowa)",
+            "pl": "Tężnia Solankowa (Graduation Tower)"
           },
           "coords": [
             18.272,
@@ -157,7 +168,8 @@
             "de": "Atmen Sie die salzhaltige Luft tief ein, sie ist bekannt für ihre gesundheitlichen Vorteile.",
             "hu": "Lélegezze be mélyen a sós levegőt, amely jótékony egészségügyi hatásairól ismert.",
             "ro": "Respirați adânc aerul sărat, cunoscut pentru beneficiile sale pentru sănătate.",
-            "en": "Breathe in the salty air deeply; it's known for its health benefits."
+            "en": "Breathe in the salty air deeply; it's known for its health benefits.",
+            "pl": "Głęboko wciągnij słone powietrze; słynie ze swoich prozdrowotnych właściwości."
           }
         },
         {
@@ -165,7 +177,8 @@
             "de": "Salzmuseum",
             "hu": "Sómúzeum",
             "ro": "Muzeul Sării",
-            "en": "Salt Museum"
+            "en": "Salt Museum",
+            "pl": "Muzeum Soli (Salt Museum)"
           },
           "coords": [
             18.274,
@@ -181,7 +194,8 @@
             "de": "Ein kleines, aber faszinierendes Museum, das die Geschichte des lokalen Salzabbaus zeigt.",
             "hu": "Kicsi, de lenyűgöző múzeum a helyi sóbányászat történetéről.",
             "ro": "Un muzeu mic, dar fascinant, care prezintă istoria mineritului de sare local.",
-            "en": "A small but fascinating museum showcasing the history of local salt mining."
+            "en": "A small but fascinating museum showcasing the history of local salt mining.",
+            "pl": "Małe, lecz fascynujące muzeum prezentujące historię lokalnego wydobycia soli."
           }
         }
       ],
@@ -189,7 +203,8 @@
         "de": "Ihr Tag in Hohensalza beginnt am lebhaften Marktplatz, dem Herzen der Altstadt. Von hier aus führt Sie ein Spaziergang zu den historischen Kirchen St. Nikolaus und der gotischen Marienruine, die von der reichen Vergangenheit der Stadt zeugen. Am Mittag tauchen Sie im Jan-Kasprowicz-Museum in die lokale Kultur ein. Der Nachmittag ist der Erholung im berühmten Kurpark gewidmet. Atmen Sie die heilende Luft am Gradierwerk ein und entdecken Sie die Geschichte des „weißen Goldes“ im Salzmuseum. Der Abend klingt entspannt im Grünen aus, eine perfekte Abrundung eines Tages voller Entdeckungen.",
         "hu": "Hohensalzai napja a nyüzsgő Piactéren, az óváros szívében kezdődik. Innen egy séta elvezeti a történelmi Szent Miklós-templomhoz és a gótikus Mária-templom romjaihoz, melyek a város gazdag múltjáról tanúskodnak. Délben a Jan Kasprowicz Múzeumban merülhet el a helyi kultúrában. A délután a híres Gyógyfürdőparkban a pihenésé. Lélegezze be a gyógyító levegőt a sólepárló toronynál, és fedezze fel a „fehér arany” történetét a Sómúzeumban. Az este a zöldben, pihentetően zárul, tökéletes lezárása egy felfedezésekkel teli napnak.",
         "ro": "Ziua dvs. în Hohensalza începe în Piața Centrală plină de viață, inima orașului vechi. De aici, o plimbare vă va duce la bisericile istorice Sf. Nicolae și ruinele gotice ale Bisericii Sf. Maria, care mărturisesc trecutul bogat al orașului. La prânz, vă veți cufunda în cultura locală la Muzeul Jan Kasprowicz. După-amiaza este dedicată relaxării în faimosul Parc Balnear. Respirați aerul vindecător la turnul de gradare a sării și descoperiți istoria „aurului alb” la Muzeul Sării. Seara se încheie relaxant în natură, o concluzie perfectă pentru o zi plină de descoperiri.",
-        "en": "Your day in Hohensalza begins at the lively Market Square, the heart of the old town. From here, a walk takes you to the historic St. Nicholas Church and the Gothic ruins of St. Mary's, testifying to the city's rich past. At midday, immerse yourself in local culture at the Jan Kasprowicz Museum. The afternoon is dedicated to relaxation in the famous Spa Park. Breathe in the healing air at the graduation tower and discover the history of the \"white gold\" at the Salt Museum. The evening ends relaxingly in the green, a perfect conclusion to a day full of discoveries."
+        "en": "Your day in Hohensalza begins at the lively Market Square, the heart of the old town. From here, a walk takes you to the historic St. Nicholas Church and the Gothic ruins of St. Mary's, testifying to the city's rich past. At midday, immerse yourself in local culture at the Jan Kasprowicz Museum. The afternoon is dedicated to relaxation in the famous Spa Park. Breathe in the healing air at the graduation tower and discover the history of the \"white gold\" at the Salt Museum. The evening ends relaxingly in the green, a perfect conclusion to a day full of discoveries.",
+        "pl": "Twój dzień w Hohensalza zaczyna się na tętniącym życiem Rynku, sercu starego miasta. Stąd spacer zaprowadzi cię do historycznego kościoła św. Mikołaja i gotyckich ruin kościoła Najświętszej Marii, świadczących o bogatej przeszłości miasta. W południe zanurz się w lokalnej kulturze w Muzeum Jana Kasprowicza. Popołudnie przeznaczone jest na relaks w słynnym Solankowym Parku. Wdychaj lecznicze powietrze przy tężni i odkryj historię „białego złota” w Muzeum Soli. Wieczór kończy się spokojnie w zieleni — doskonałe zwieńczenie dnia pełnego odkryć."
       },
       "gastro_picks": {
         "de": [
@@ -345,6 +360,11 @@
           "Wear comfortable shoes as you will be walking on cobblestones and park paths all day.",
           "Bring a reusable water bottle to stay hydrated.",
           "Check museum opening hours in advance as they may vary."
+        ],
+        "pl": [
+          "Noś wygodne buty, będziesz chodzić po brukach i ścieżkach parkowych przez cały dzień.",
+          "Weź ze sobą wielorazową butelkę na wodę, by się nawadniać.",
+          "Sprawdź godziny otwarcia muzeów z wyprzedzeniem, mogą się różnić."
         ]
       },
       "variants": {
@@ -353,7 +373,8 @@
             "de": "Der Morgen am Rynek beginnt mit glänzenden Kopfsteinpflastern; die Arkaden bieten Schutz vor dem Nieselregen. In der Nikolaikirche finden wir trockene Stille. Mittags bietet das Jan-Kasprowicz-Museum eine warme Zuflucht in die Stadtgeschichte. Am Nachmittag besuchen wir die Ruine von St. Marien unter dem Regenschirm. Im Kurpark vermischt sich die feuchte Luft intensiv mit dem Salzgeruch des Gradierwerks. Der Abend endet trocken im Salzmuseum.",
             "hu": "A reggel a Ryneken vizes macskakövekkel indul; az ereszalják jó menedéket nyújtanak. A Szent Miklós-templomban száraz nyugalomra lelünk. Délben a Jan Kasprowicz Múzeum nyújt meleg menedéket a város történetével. Délután esernyő alatt keressük fel a romtemplomot, majd a parkba indulunk. A párás levegőben még intenzívebb a sólepárló illata. Az estét a Sómúzeum fedett tereiben zárjuk.",
             "ro": "Dimineața în Rynek începe cu pavajele lucioase de ploaie; arcadele oferă adăpost temporar. Găsim liniște uscată în biserica Sf. Nicolae. La prânz, Muzeul Jan Kasprowicz oferă un refugiu cald în istoria orașului. După-amiaza vizităm ruinele bisericii Sf. Maria sub protecția umbrelei. În parc, aerul umed intensifică mirosul sărat al turnului de gradare. Seara se încheie la adăpost, în incinta Muzeului Sării.",
-            "en": "Morning at the Market Square starts with glistening cobblestones; the eaves provide shelter from the drizzle. We find dry peace inside St. Nicholas Church. Midday offers a warm refuge in the Jan Kasprowicz Museum exploring city history. Afternoon leads us to the ruins of St. Mary's under an umbrella. In the park, the damp air intensifies the salt scent of the graduation tower. The evening ends dry inside the Salt Museum."
+            "en": "Morning at the Market Square starts with glistening cobblestones; the eaves provide shelter from the drizzle. We find dry peace inside St. Nicholas Church. Midday offers a warm refuge in the Jan Kasprowicz Museum exploring city history. Afternoon leads us to the ruins of St. Mary's under an umbrella. In the park, the damp air intensifies the salt scent of the graduation tower. The evening ends dry inside the Salt Museum.",
+            "pl": "Poranek na Rynku zaczyna się od błyszczących bruków; gzymsy chronią przed mżawką. W kościele św. Mikołaja panuje suche ukojenie. W południe ciepłe schronienie daje Muzeum Jana Kasprowicza, gdzie poznajemy historię miasta. Popołudnie prowadzi nas do ruin Najświętszej Marii pod parasolem. W parku wilgotne powietrze wzmacnia słonawy zapach tężni. Wieczór kończy się sucho w Muzeum Soli."
           },
           "stops": [
             {
@@ -362,7 +383,8 @@
                 "de": "Vorsicht, das Kopfsteinpflaster ist bei Nässe extrem rutschig.",
                 "hu": "Vigyázat, a macskakő esőben rendkívül csúszós.",
                 "ro": "Atenție, pavajul de piatră este extrem de alunecos pe ploaie.",
-                "en": "Careful, the cobblestones are extremely slippery when wet."
+                "en": "Careful, the cobblestones are extremely slippery when wet.",
+                "pl": "Uwaga, bruk jest wyjątkowo śliski po deszczu."
               }
             },
             {
@@ -371,7 +393,8 @@
                 "de": "Ein idealer Ort, um den ersten Regenschauer trocken abzuwarten.",
                 "hu": "Ideális hely az első eső zápor száraz kivárásához.",
                 "ro": "Un loc ideal pentru a aștepta trecerea primei averse.",
-                "en": "An ideal place to wait out the first rain shower in the dry."
+                "en": "An ideal place to wait out the first rain shower in the dry.",
+                "pl": "Idealne miejsce, by przeczekać pierwszy przelotny deszcz w suchym miejscu."
               }
             },
             {
@@ -380,7 +403,8 @@
                 "de": "Nutzen Sie die Garderobe, um nasse Mäntel vor dem Rundgang abzugeben.",
                 "hu": "Használja a ruhatárat a vizes kabátok leadásához a körút előtt.",
                 "ro": "Folosiți garderoba pentru a lăsa hainele ude înainte de vizitare.",
-                "en": "Use the cloakroom to drop off wet coats before the tour."
+                "en": "Use the cloakroom to drop off wet coats before the tour.",
+                "pl": "Skorzystaj z szatni, by odłożyć mokre płaszcze przed wycieczką."
               }
             },
             {
@@ -389,7 +413,8 @@
                 "de": "Der Boden in den Ruinen kann schlammig sein, bleiben Sie auf den Wegen.",
                 "hu": "A romok talaja saras lehet, maradjon a kijelölt ösvényeken.",
                 "ro": "Solul printre ruine poate fi noroios, rămâneți pe poteci.",
-                "en": "The ground in the ruins can be muddy, stay on the paved paths."
+                "en": "The ground in the ruins can be muddy, stay on the paved paths.",
+                "pl": "Grunt w ruinach może być błotnisty, pozostań na utwardzonych ścieżkach."
               }
             },
             {
@@ -398,7 +423,8 @@
                 "de": "Die asphaltierten Wege sind sauberer als die Kiespfade im Park.",
                 "hu": "Az aszfaltozott utak tisztábbak, mint a parki kavicsos ösvények.",
                 "ro": "Aleile asfaltate sunt mai curate decât potecile cu pietriș.",
-                "en": "The paved paths are cleaner than the gravel trails in the park."
+                "en": "The paved paths are cleaner than the gravel trails in the park.",
+                "pl": "Utwardzone ścieżki są czystsze niż żwirowe alejki w parku."
               }
             },
             {
@@ -407,7 +433,8 @@
                 "de": "Das Salz-Aerosol ist bei hoher Luftfeuchtigkeit besonders wirksam.",
                 "hu": "A sós pára magas páratartalomnál különösen hatékony.",
                 "ro": "Aerosolii sărați sunt deosebit de eficienți la umiditate ridicată.",
-                "en": "The salt aerosol is particularly effective in high humidity."
+                "en": "The salt aerosol is particularly effective in high humidity.",
+                "pl": "Aerozol solny jest szczególnie skuteczny przy dużej wilgotności."
               }
             },
             {
@@ -416,7 +443,8 @@
                 "de": "Perfekter Abschluss, um den Tag im Trockenen Revue passieren zu lassen.",
                 "hu": "Tökéletes zárás a nap száraz áttekintéséhez.",
                 "ro": "Final perfect pentru a trece în revistă ziua la adăpost.",
-                "en": "Perfect finale to review the day while staying dry."
+                "en": "Perfect finale to review the day while staying dry.",
+                "pl": "Idealne zakończenie dnia, by podsumować wrażenia, pozostając suchym."
               }
             }
           ],
@@ -444,6 +472,12 @@
               "The graduation tower's microclimate is especially healthy for airways in the rain.",
               "Many cafes at Rynek offer heated indoor seating for breaks.",
               "Stick to the paved paths in the spa park to avoid mud."
+            ],
+            "pl": [
+              "Zalecany solidny parasol ze względu na porywiste wiatry w regionie Kujaw.",
+              "Mikroklimat tężni jest szczególnie korzystny dla dróg oddechowych podczas deszczu.",
+              "Wiele kawiarni przy Rynku oferuje ogrzewane miejsca wewnątrz na przerwy.",
+              "Trzymaj się utwardzonych ścieżek w parku, aby unikać błota."
             ]
           }
         },
@@ -452,7 +486,8 @@
             "de": "In der Morgenkälte leuchten die Fassaden am Rynek frostig weiß. Die Nikolaikirche wärmt uns kurz auf, bevor wir mittags ins Kasprowicz-Museum flüchten. Der Nachmittag im Kurpark bietet eine klare, kalte Brise und den Anblick des vereisten Gradierwerks, das im Winterlicht glitzert. Nach der Ruinenbesichtigung wärmen wir uns bei der frühen Dämmerung im Salzmuseum auf. Der Abend gehört der gemütlichen Gastronomie der Kurstadt.",
             "hu": "A reggeli hidegben a főtér homlokzatai zúzmarásan fehéren fénylenek. A Szent Miklós-templom rövid felmelegedést nyújt, mielőtt délben a múzeumba menekülünk. A délutáni parkban tiszta, hideg szél fúj, a sólepárló torony pedig csillog a téli fényben. A romok után, a korai sötétben a Sómúzeum fűtött tereiben pihenünk meg. Az estét a fürdőváros barátságos éttermeiben zárjuk.",
             "ro": "În frigul dimineții, fațadele din Rynek strălucesc de chiciură. Biserica Sf. Nicolae ne încălzește scurt înainte de a ne refugia la muzeu. După-amiaza în parc aduce o briză rece și clară, turnul de gradare sclipind în lumina iernii. După vizitarea ruinelor, ne încălzim la Muzeul Sării pe măsură ce se lasă întunericul. Seara aparține gastronomiei primitoare a orașului balnear.",
-            "en": "In the morning cold, the facades at Rynek glisten with frost. St. Nicholas Church warms us briefly before we escape to the museum at midday. Afternoon in the park brings a crisp, cold breeze and the sight of the graduation tower sparkling in the winter light. After visiting the ruins, we warm up at the Salt Museum as darkness falls early. The evening is spent in the cozy restaurants of the spa town."
+            "en": "In the morning cold, the facades at Rynek glisten with frost. St. Nicholas Church warms us briefly before we escape to the museum at midday. Afternoon in the park brings a crisp, cold breeze and the sight of the graduation tower sparkling in the winter light. After visiting the ruins, we warm up at the Salt Museum as darkness falls early. The evening is spent in the cozy restaurants of the spa town.",
+            "pl": "Rano mróz na fasadach Rynku. Kościół św. Mikołaja daje chwilowe ciepło, zanim udamy się do muzeum w południe. Popołudnie w parku przynosi rześki, zimny wiatr i widok tężni lśniącej w zimowym świetle. Po odwiedzinach ruin rozgrzewamy się w Muzeum Soli, bo zmierzch zapada wcześnie. Wieczór upływa w przytulnych restauracjach uzdrowiska."
           },
           "stops": [
             {
@@ -461,7 +496,8 @@
                 "de": "Dick anziehen, der Wind zieht oft ungehindert über den Platz.",
                 "hu": "Öltözzön vastagon, a szél gyakran akadálytalanul söpör végig a téren.",
                 "ro": "Îmbrăcați-vă gros, vântul bate adesea nestingherit prin piață.",
-                "en": "Dress warmly, the wind often sweeps across the square unchecked."
+                "en": "Dress warmly, the wind often sweeps across the square unchecked.",
+                "pl": "Ubierz się ciepło, wiatr często nie oszczędza placu."
               }
             },
             {
@@ -470,7 +506,8 @@
                 "de": "Nutzen Sie den Moment der Stille, um kalte Hände aufzuwärmen.",
                 "hu": "Használja ki a csendes pillanatot a hideg kezek felmelegítésére.",
                 "ro": "Folosiți momentul de liniște pentru a vă încălzi mâinile reci.",
-                "en": "Use the quiet moment to warm up cold hands."
+                "en": "Use the quiet moment to warm up cold hands.",
+                "pl": "Wykorzystaj spokojną chwilę, by rozgrzać zmarznięte dłonie."
               }
             },
             {
@@ -479,7 +516,8 @@
                 "de": "Die Ausstellungen sind gut beheizt, ideal für eine lange Pause.",
                 "hu": "A kiállítások jól fűtöttek, ideálisak egy hosszabb szünetre.",
                 "ro": "Expozițiile sunt bine încălzite, ideale pentru o pauză lungă.",
-                "en": "The exhibits are well heated, ideal for a long break."
+                "en": "The exhibits are well heated, ideal for a long break.",
+                "pl": "Ekspozycje są dobrze ogrzane, idealne na dłuższą przerwę."
               }
             },
             {
@@ -488,7 +526,8 @@
                 "de": "Bei Glätte sind die Stufen zu den Ruinen mit Vorsicht zu betreten.",
                 "hu": "Jegesedés esetén a romokhoz vezető lépcsőkön óvatosan járjon.",
                 "ro": "În caz de polei, treptele spre ruine trebuie urcate cu mare grijă.",
-                "en": "In case of ice, tread carefully on the steps leading to the ruins."
+                "en": "In case of ice, tread carefully on the steps leading to the ruins.",
+                "pl": "W przypadku oblodzenia uważaj na schody prowadzące do ruin."
               }
             },
             {
@@ -497,7 +536,8 @@
                 "de": "Die Bäume mit Reifüberzug sind ein tolles Fotomotiv.",
                 "hu": "A zúzmarás fák remek fotótémát szolgáltatnak.",
                 "ro": "Copacii acoperiți cu chiciură sunt un subiect foto excelent.",
-                "en": "The frost-covered trees make for a great photo opportunity."
+                "en": "The frost-covered trees make for a great photo opportunity.",
+                "pl": "Ośnieżone drzewa to świetna okazja do fotografii."
               }
             },
             {
@@ -506,7 +546,8 @@
                 "de": "Achtung, gefrierende Gischt kann die Wege um den Turm glatt machen.",
                 "hu": "Vigyázat, a kifröccsenő sós víz jegessé teheti az utat a torony körül.",
                 "ro": "Atenție, stropii de apă sărată pot îngheța pe aleile din jurul turnului.",
-                "en": "Caution, freezing salt spray can make paths around the tower slippery."
+                "en": "Caution, freezing salt spray can make paths around the tower slippery.",
+                "pl": "Uwaga, zamarzający słony spray może uczynić ścieżki wokół tężni śliskimi."
               }
             },
             {
@@ -515,7 +556,8 @@
                 "de": "Perfekt, um sich vor dem Abendessen wieder aufzuwärmen.",
                 "hu": "Tökéletes helyszín a vacsora előtti felmelegedéshez.",
                 "ro": "Loc perfect pentru a vă reîncălzi înainte de cină.",
-                "en": "Perfect place to warm up again before dinner."
+                "en": "Perfect place to warm up again before dinner.",
+                "pl": "Idealne miejsce, by znów się rozgrzać przed kolacją."
               }
             }
           ],
@@ -543,6 +585,12 @@
               "Wear winter boots with good grip for the park paths.",
               "The graduation tower is often illuminated in winter and well worth seeing.",
               "Road salt can damage leather shoes; clean them after your walk."
+            ],
+            "pl": [
+              "Słońce zachodzi już o 16:00 zimą.",
+              "Noś zimowe buty z dobrą przyczepnością na ścieżki parkowe.",
+              "Tężnia często bywa oświetlona zimą i zdecydowanie warto ją zobaczyć.",
+              "Sól drogowa może uszkodzić skórzane buty; oczyść je po spacerze."
             ]
           }
         }
@@ -561,7 +609,8 @@
             "de": "Marktplatz (Rynek)",
             "hu": "Piactér (Rynek)",
             "ro": "Piața Centrală (Rynek)",
-            "en": "Market Square (Rynek)"
+            "en": "Market Square (Rynek)",
+            "pl": "Rynek (Market Square)"
           },
           "coords": [
             18.259,
@@ -577,7 +626,8 @@
             "de": "Schließen Sie Ihr Fahrrad sicher ab und genießen Sie die Atmosphäre des Platzes.",
             "hu": "Zárja le biztonságosan a kerékpárját, és élvezze a tér hangulatát.",
             "ro": "Asigurați-vă bicicleta și bucurați-vă de atmosfera pieței.",
-            "en": "Lock your bike securely and enjoy the atmosphere of the square."
+            "en": "Lock your bike securely and enjoy the atmosphere of the square.",
+            "pl": "Zabezpiecz rower solidnie i rozkoszuj się atmosferą placu."
           }
         },
         {
@@ -585,7 +635,8 @@
             "de": "Nikolauskirche",
             "hu": "Szent Miklós-templom",
             "ro": "Biserica Sfântul Nicolae",
-            "en": "St. Nicholas Church"
+            "en": "St. Nicholas Church",
+            "pl": "Kościół św. Mikołaja (St. Nicholas Church)"
           },
           "coords": [
             18.2575,
@@ -601,7 +652,8 @@
             "de": "Ein kurzer Stopp, um dieses romanische Juwel zu bewundern.",
             "hu": "Egy rövid megálló, hogy megcsodálja ezt a román kori ékszert.",
             "ro": "O oprire scurtă pentru a admira această bijuterie romanică.",
-            "en": "A quick stop to admire this Romanesque gem."
+            "en": "A quick stop to admire this Romanesque gem.",
+            "pl": "Krótki postój, by podziwiać ten romański klejnot."
           }
         },
         {
@@ -609,7 +661,8 @@
             "de": "Jan-Kasprowicz-Museum",
             "hu": "Jan Kasprowicz Múzeum",
             "ro": "Muzeul Jan Kasprowicz",
-            "en": "Jan Kasprowicz Museum"
+            "en": "Jan Kasprowicz Museum",
+            "pl": "Muzeum Jana Kasprowicza (Jan Kasprowicz Museum)"
           },
           "coords": [
             18.256,
@@ -625,7 +678,8 @@
             "de": "Parken Sie Ihr Fahrrad in der Nähe und tauchen Sie in die Poesie ein.",
             "hu": "Parkolja le a kerékpárt a közelben, és merüljön el a költészetben.",
             "ro": "Parcați bicicleta în apropiere și cufundați-vă în poezie.",
-            "en": "Park your bike nearby and dive into the poetry."
+            "en": "Park your bike nearby and dive into the poetry.",
+            "pl": "Zaparkuj rower w pobliżu i zanurz się w poezji."
           }
         },
         {
@@ -633,7 +687,8 @@
             "de": "Solankowy-Park (Kurpark)",
             "hu": "Solankowy Park (Gyógyfürdőpark)",
             "ro": "Parcul Solankowy (Parcul balnear)",
-            "en": "Solankowy Park (Spa Park)"
+            "en": "Solankowy Park (Spa Park)",
+            "pl": "Solankowy Park (Spa Park)"
           },
           "coords": [
             18.268,
@@ -649,7 +704,8 @@
             "de": "Der Park hat ausgezeichnete Radwege. Genießen Sie eine gemütliche Fahrt.",
             "hu": "A parkban kiváló kerékpárutak vannak. Élvezze a kényelmes tekerést.",
             "ro": "Parcul are piste de biciclete excelente. Bucurați-vă de o plimbare relaxantă.",
-            "en": "The park has excellent bike paths. Enjoy a leisurely ride."
+            "en": "The park has excellent bike paths. Enjoy a leisurely ride.",
+            "pl": "Park ma doskonałe ścieżki rowerowe. Miłej, spokojnej przejażdżki."
           }
         },
         {
@@ -657,7 +713,8 @@
             "de": "Gradierwerk (Tężnia Solankowa)",
             "hu": "Sólepárló torony (Tężnia Solankowa)",
             "ro": "Turnul de gradare a sării (Tężnia Solankowa)",
-            "en": "Graduation Tower (Tężnia Solankowa)"
+            "en": "Graduation Tower (Tężnia Solankowa)",
+            "pl": "Tężnia Solankowa (Graduation Tower)"
           },
           "coords": [
             18.272,
@@ -673,7 +730,8 @@
             "de": "Stellen Sie Ihr Fahrrad ab und spazieren Sie um die Anlage, um die salzige Luft einzuatmen.",
             "hu": "Tegye le a kerékpárt, és sétáljon körbe a létesítmény körül, hogy belélegezze a sós levegőt.",
             "ro": "Lăsați bicicleta și plimbați-vă în jurul structurii pentru a respira aerul sărat.",
-            "en": "Park your bike and walk around the structure to inhale the salty air."
+            "en": "Park your bike and walk around the structure to inhale the salty air.",
+            "pl": "Zaplanuj postój przy rowerze i obejdź konstrukcję, by wciągnąć słone powietrze."
           }
         },
         {
@@ -681,7 +739,8 @@
             "de": "Denkmal für Jan Kasprowicz",
             "hu": "Jan Kasprowicz emlékműve",
             "ro": "Monumentul lui Jan Kasprowicz",
-            "en": "Monument to Jan Kasprowicz"
+            "en": "Monument to Jan Kasprowicz",
+            "pl": "Pomnik Jana Kasprowicza (Monument to Jan Kasprowicz)"
           },
           "coords": [
             18.265,
@@ -697,7 +756,8 @@
             "de": "Ein kurzer Fotostopp auf dem Rückweg ins Zentrum, um dem Dichter zu huldigen.",
             "hu": "Egy rövid fotómegálló a központ felé vezető úton, hogy tisztelegjen a költő előtt.",
             "ro": "O oprire rapidă pentru fotografii în drum spre centru pentru a aduce un omagiu poetului.",
-            "en": "A quick photo stop on your way back to the center to pay homage to the poet."
+            "en": "A quick photo stop on your way back to the center to pay homage to the poet.",
+            "pl": "Krótki postój na zdjęcie w drodze powrotnej do centrum, by oddać hołd poecie."
           }
         },
         {
@@ -705,7 +765,8 @@
             "de": "Marienkirche (Die Ruine)",
             "hu": "Mária-templom (A rom)",
             "ro": "Biserica Sf. Maria (Ruina)",
-            "en": "St. Mary's Church (The Ruin)"
+            "en": "St. Mary's Church (The Ruin)",
+            "pl": "Kościół Najświętszej Marii (ruina) (St. Mary's Church (The Ruin))"
           },
           "coords": [
             18.2545,
@@ -721,7 +782,8 @@
             "de": "Besuchen Sie die Ruine am späten Nachmittag für eine besonders stimmungsvolle Beleuchtung.",
             "hu": "Látogasson el a romokhoz késő délután a különösen hangulatos megvilágításért.",
             "ro": "Vizitați ruina după-amiaza târziu pentru o lumină deosebit de atmosferică.",
-            "en": "Visit the ruin in the late afternoon for particularly atmospheric lighting."
+            "en": "Visit the ruin in the late afternoon for particularly atmospheric lighting.",
+            "pl": "Odwiedź ruiny późnym popołudniem dla szczególnie nastrojowego oświetlenia."
           }
         }
       ],
@@ -729,7 +791,8 @@
         "de": "Schwingen Sie sich auf den Sattel für eine Radtour durch Hohensalza. Starten Sie am Marktplatz, bevor Sie zu den alten Kirchen der Stadt radeln. Eine längere Pause im Jan-Kasprowicz-Museum bietet kulturelle Einblicke. Mittags erreichen Sie den weitläufigen Kurpark, ideal für eine Radtour und ein Picknick. Die Hauptattraktion, das Gradierwerk, ist nur eine kurze Fahrt entfernt. Am Nachmittag radeln Sie zurück ins Zentrum, vorbei am Denkmal des Dichters, und beenden den Tag bei den stimmungsvollen Ruinen der Marienkirche.",
         "hu": "Pattanjon nyeregbe egy hohensalzai biciklitúrához. Induljon a Piactérről, mielőtt a város régi templomaihoz teker. Egy hosszabb pihenő a Jan Kasprowicz Múzeumban kulturális betekintést nyújt. Délben eléri a tágas Gyógyfürdőparkot, amely ideális egy kerékpártúrához és piknikhez. A fő látványosság, a sólepárló torony, csak egy rövid út. Délután visszateker a központba, elhaladva a költő emlékműve mellett, és a napot a Mária-templom hangulatos romjainál fejezi be.",
         "ro": "Urcați-vă pe bicicletă pentru un tur al orașului Hohensalza. Începeți din Piața Centrală înainte de a pedala spre bisericile vechi ale orașului. O pauză mai lungă la Muzeul Jan Kasprowicz oferă perspective culturale. La prânz, ajungeți în vastul Parc Balnear, ideal pentru o plimbare cu bicicleta și un picnic. Atracția principală, turnul de gradare, este la o scurtă distanță. După-amiaza, pedalați înapoi spre centru, trecând pe lângă monumentul poetului, și încheiați ziua la ruinele atmosferice ale Bisericii Sf. Maria.",
-        "en": "Hop on your bike for a cycling tour of Hohensalza. Start at the Market Square before cycling to the city's old churches. A longer break at the Jan Kasprowicz Museum offers cultural insights. At noon, you'll reach the spacious Spa Park, ideal for a bike ride and a picnic. The main attraction, the graduation tower, is just a short ride away. In the afternoon, cycle back to the center, passing the poet's monument, and end the day at the atmospheric ruins of St. Mary's Church."
+        "en": "Hop on your bike for a cycling tour of Hohensalza. Start at the Market Square before cycling to the city's old churches. A longer break at the Jan Kasprowicz Museum offers cultural insights. At noon, you'll reach the spacious Spa Park, ideal for a bike ride and a picnic. The main attraction, the graduation tower, is just a short ride away. In the afternoon, cycle back to the center, passing the poet's monument, and end the day at the atmospheric ruins of St. Mary's Church.",
+        "pl": "Wskocz na rower i wybierz się na wycieczkę po Hohensalza. Zacznij na Rynku, potem pedałuj do starych miejskich kościołów. Dłuższy postój w Muzeum Jana Kasprowicza zapewni kulturalne wrażenia. W południe dotrzesz do rozległego Solankowego Parku, idealnego na przejażdżkę i piknik. Główna atrakcja, tężnia, jest w krótkiej odległości. Po południu wróć do centrum, mijając pomnik poety, i zakończ dzień przy nastrojowych ruinach kościoła Najświętszej Marii."
       },
       "gastro_picks": {
         "de": [
@@ -885,6 +948,11 @@
           "Bring a good bike lock.",
           "Use the bike paths in the Spa Park for a safe and enjoyable ride.",
           "A small backpack is useful for water and souvenirs."
+        ],
+        "pl": [
+          "Weź dobry zamek do roweru.",
+          "Korzystaj ze ścieżek rowerowych w Solankowym Parku dla bezpiecznej i przyjemnej jazdy.",
+          "Mały plecak przyda się na wodę i pamiątki."
         ]
       },
       "variants": {
@@ -893,7 +961,8 @@
             "de": "Regnerischer Start am Rynek; das nasse Kopfsteinpflaster erfordert volle Konzentration. Kurzer Stopp an der Nikolaikirche, um die Regenjacke zu richten. Mittags parken wir die Räder am Kasprowicz-Museum und genießen die trockenen Räume. Die Fahrt zum Kurpark führt über nasse Straßen, doch das Gradierwerk wirkt im Regen majestätisch. Nach dem Kasprowicz-Denkmal beenden wir die Tour an der Ruine von St. Marien.",
             "hu": "Esős indítás a Ryneken; a vizes macskakő teljes koncentrációt igényel. Rövid megálló a Szent Miklós-templomnál az esőkabát megigazítására. Délben a múzeumnál hagyjuk a gépeket, és élvezzük a száraz belsőt. A vizes utakon tekerünk a parkba, ahol a sólepárló fenséges látvány az esőben is. A Kasprowicz-emlékmű érintésével a romtemplomnál zárjuk a túrát.",
             "ro": "Start ploios în Rynek; pavajul ud necesită concentrare maximă. Scurtă oprire la biserica Sf. Nicolae pentru a ajusta haina de ploaie. La prânz parcăm bicicletele la muzeu și ne bucurăm de spațiile uscate. Drumul spre parc trece pe străzi ude, dar turnul de gradare pare maiestuos prin ploaie. După monumentul lui Kasprowicz, încheiem turul la ruinele Sf. Maria.",
-            "en": "Rainy start at Rynek; the wet cobblestones require full concentration. A quick stop at St. Nicholas Church to adjust rain gear. At midday, we park the bikes at the museum and enjoy the dry rooms. The ride to the park goes over wet streets, but the graduation tower looks majestic in the rain. After the Kasprowicz monument, we finish the tour at St. Mary's ruins."
+            "en": "Rainy start at Rynek; the wet cobblestones require full concentration. A quick stop at St. Nicholas Church to adjust rain gear. At midday, we park the bikes at the museum and enjoy the dry rooms. The ride to the park goes over wet streets, but the graduation tower looks majestic in the rain. After the Kasprowicz monument, we finish the tour at St. Mary's ruins.",
+            "pl": "Deszczowy początek na Rynku; mokre brukowane ulice wymagają pełnej koncentracji. Krótki postój przy kościele św. Mikołaja na dopracowanie odzieży przeciwdeszczowej. W południe parkujemy rowery przy muzeum i korzystamy z suchych sal. Przejazd do parku prowadzi mokrymi ulicami, ale tężnia wygląda majestatycznie w deszczu. Po pomniku Kasprowicza kończymy trasę przy ruinach Najświętszej Marii."
           },
           "stops": [
             {
@@ -902,7 +971,8 @@
                 "de": "Vermeiden Sie scharfes Bremsen auf den nassen Steinen.",
                 "hu": "Kerülje az erős fékezést a vizes köveken.",
                 "ro": "Evitați frânările bruște pe pietrele ude.",
-                "en": "Avoid sharp braking on the wet stones."
+                "en": "Avoid sharp braking on the wet stones.",
+                "pl": "Unikaj gwałtownego hamowania na mokrych kamieniach."
               }
             },
             {
@@ -911,7 +981,8 @@
                 "de": "Parken Sie Ihr Rad an einem festen Ständer in Kirchennähe.",
                 "hu": "Parkolja le kerékpárját egy biztos támasztékhoz a templom közelében.",
                 "ro": "Parcați bicicleta la un suport fix în apropierea bisericii.",
-                "en": "Park your bike at a secure rack near the church."
+                "en": "Park your bike at a secure rack near the church.",
+                "pl": "Zaparkuj rower przy bezpiecznym stojaku obok kościoła."
               }
             },
             {
@@ -920,7 +991,8 @@
                 "de": "Ideale Zeit, um die Kleidung etwas trocknen zu lassen.",
                 "hu": "Ideális időpont a ruházat kicsit kiszárítására.",
                 "ro": "Moment ideal pentru a lăsa hainele să se usuce puțin.",
-                "en": "Ideal time to let your gear dry out a bit."
+                "en": "Ideal time to let your gear dry out a bit.",
+                "pl": "Idealny czas, by trochę wysuszyć ekwipunek."
               }
             },
             {
@@ -929,7 +1001,8 @@
                 "de": "Vorsicht vor Laub auf den Wegen, es kann sehr rutschig sein.",
                 "hu": "Vigyázzon a levelekre az utakon, nagyon csúszósak lehetnek.",
                 "ro": "Atenție la frunzele de pe alei, pot fi foarte alunecoase.",
-                "en": "Watch out for leaves on the paths, they can be very slippery."
+                "en": "Watch out for leaves on the paths, they can be very slippery.",
+                "pl": "Uważaj na liście na ścieżkach, mogą być bardzo śliskie."
               }
             },
             {
@@ -938,7 +1011,8 @@
                 "de": "Die salzige Luft kann Korrosion am Fahrrad fördern; später abwischen.",
                 "hu": "A sós levegő korróziót okozhat a bringán; később törölje le.",
                 "ro": "Aerul sărat poate favoriza coroziunea; ștergeți bicicleta mai târziu.",
-                "en": "Salt air can promote corrosion on the bike; wipe it down later."
+                "en": "Salt air can promote corrosion on the bike; wipe it down later.",
+                "pl": "Słone powietrze może przyspieszać korozję roweru; przetrzyj go później."
               }
             },
             {
@@ -947,7 +1021,8 @@
                 "de": "Nur ein kurzer Fotostopp im Regen.",
                 "hu": "Csak egy rövid fotómegálló az esőben.",
                 "ro": "Doar o scurtă oprire pentru poze pe ploaie.",
-                "en": "Just a quick photo stop in the rain."
+                "en": "Just a quick photo stop in the rain.",
+                "pl": "Tylko krótki postój na zdjęcie w deszczu."
               }
             },
             {
@@ -956,7 +1031,8 @@
                 "de": "Passen Sie auf Pfützen auf dem Rückweg auf.",
                 "hu": "Vigyázzon a tócsákra a visszaúton.",
                 "ro": "Atenție la bălți pe drumul de întoarcere.",
-                "en": "Watch out for puddles on the way back."
+                "en": "Watch out for puddles on the way back.",
+                "pl": "Uważaj na kałuże w drodze powrotnej."
               }
             }
           ],
@@ -984,6 +1060,12 @@
               "Wear waterproof overshoes to keep your feet dry.",
               "Avoid road markings, as they are extremely slippery when wet.",
               "A saddle cover keeps your seat dry during stops."
+            ],
+            "pl": [
+              "Sprawdź klocki hamulcowe przed wyjazdem w deszczu.",
+              "Noś wodoodporne ochraniacze na buty, by mieć suche stopy.",
+              "Unikaj oznaczeń drogowych — są niezwykle śliskie po deszczu.",
+              "Pokrowiec na siodełko utrzyma siedzenie suche podczas postojów."
             ]
           }
         },
@@ -992,7 +1074,8 @@
             "de": "Frostiger Morgenritt zum Rynek; der Kujawien-Wind ist schneidend kalt. Wir wärmen uns kurz in St. Nikolaus auf, bevor es zum Kasprowicz-Museum geht. Mittags ist das Radfahren anstrengender, aber die Winterlandschaft im Kurpark entschädigt uns. Das Gradierwerk wirkt wie ein Eispalast. Nach dem Kasprowicz-Denkmal und der Ruinenbesichtigung beenden wir die Tour vor Einbruch der frühen Dunkelheit.",
             "hu": "Fagyos reggeli tekerés a Rynekig; a kujawy-i szél metszően hideg. Rövid melegedés a Szent Miklós-templomban, majd irány a múzeum. Délben a tekerés fárasztóbb, de a park téli látványa kárpótol minket. A sólepárló torony úgy fest, mint egy jégpalota. Az emlékmű és a romok után még a korai sötétedés előtt befejezzük a túrát.",
             "ro": "Plimbare geroasă de dimineață spre Rynek; vântul din Kujavia este tăios. Ne încălzim scurt la Sf. Nicolae înainte de a merge la muzeu. La prânz, pedalatul este mai obositor, dar peisajul de iarnă din parc merită efortul. Turnul de gradare arată ca un palat de gheață. După monument și ruine, încheiem turul înainte de lăsarea întunericului.",
-            "en": "Frosty morning ride to Rynek; the Kujawy wind is cuttingly cold. We warm up briefly in St. Nicholas before heading to the museum. At midday, cycling is tougher, but the winter landscape in the park makes up for it. The graduation tower looks like an ice palace. After the monument and ruins, we finish the tour before the early darkness sets in."
+            "en": "Frosty morning ride to Rynek; the Kujawy wind is cuttingly cold. We warm up briefly in St. Nicholas before heading to the museum. At midday, cycling is tougher, but the winter landscape in the park makes up for it. The graduation tower looks like an ice palace. After the monument and ruins, we finish the tour before the early darkness sets in.",
+            "pl": "Mroźna poranna przejażdżka na Rynek; kujawski wiatr kąsa w twarz. Chwilowe rozgrzanie w kościele św. Mikołaja, potem ruszamy do muzeum. W południe pedałowanie jest trudniejsze, ale zimowy krajobraz w parku rekompensuje wysiłek. Tężnia wygląda jak lodowy pałac. Po pomniku i ruinach kończymy wycieczkę przed zapadającym wcześnie zmrokiem."
           },
           "stops": [
             {
@@ -1001,7 +1084,8 @@
                 "de": "Vorsicht vor Glatteis unter dem frisch gefallenen Schnee.",
                 "hu": "Vigyázzon a friss hó alatti jegesedésre.",
                 "ro": "Atenție la gheața de sub zăpada proaspăt căzută.",
-                "en": "Watch out for black ice under freshly fallen snow."
+                "en": "Watch out for black ice under freshly fallen snow.",
+                "pl": "Uważaj na czarny lód pod świeżo spadłym śniegiem."
               }
             },
             {
@@ -1010,7 +1094,8 @@
                 "de": "Schließen Sie das Rad an einem gut sichtbaren Ort an.",
                 "hu": "Zárja le a biciklit egy jól látható helyen.",
                 "ro": "Încuiați bicicleta într-un loc bine vizibil.",
-                "en": "Lock your bike in a highly visible spot."
+                "en": "Lock your bike in a highly visible spot.",
+                "pl": "Zamykaj rower w dobrze widocznym miejscu."
               }
             },
             {
@@ -1019,7 +1104,8 @@
                 "de": "Perfekt, um das Gefühl in den Fingern wiederzuerlangen.",
                 "hu": "Tökéletes, hogy visszatérjen az érzés az ujjaiba.",
                 "ro": "Perfect pentru a vă recăpăta simțul în degete.",
-                "en": "Perfect for getting the feeling back in your fingers."
+                "en": "Perfect for getting the feeling back in your fingers.",
+                "pl": "Idealne, by odzyskać czucie w palcach."
               }
             },
             {
@@ -1028,7 +1114,8 @@
                 "de": "Nutzen Sie geräumte Wege, um Energie zu sparen.",
                 "hu": "Használja a letakarított utakat az energiamegtakarítás érdekében.",
                 "ro": "Folosiți aleile deszăpezite pentru a economisi energie.",
-                "en": "Use cleared paths to save energy."
+                "en": "Use cleared paths to save energy.",
+                "pl": "Korzystaj z odśnieżonych ścieżek, by oszczędzać energię."
               }
             },
             {
@@ -1037,7 +1124,8 @@
                 "de": "Die salzige Luft kann bei Kälte die Atemwege reizen.",
                 "hu": "A sós levegő hidegben irritálhatja a légutakat.",
                 "ro": "Aerul sărat poate irita căile respiratorii în frig.",
-                "en": "The salt air can irritate airways in the cold."
+                "en": "The salt air can irritate airways in the cold.",
+                "pl": "Słone powietrze może podrażniać drogi oddechowe na mrozie."
               }
             },
             {
@@ -1046,7 +1134,8 @@
                 "de": "Nur ein kurzer Stopp, um nicht auszukühlen.",
                 "hu": "Csak egy rövid megálló, nehogy áthűljön.",
                 "ro": "Doar o scurtă oprire pentru a nu vă răci de tot.",
-                "en": "Just a short stop to avoid getting too cold."
+                "en": "Just a short stop to avoid getting too cold.",
+                "pl": "Tylko krótki postój, by nie zmarznąć za bardzo."
               }
             },
             {
@@ -1055,7 +1144,8 @@
                 "de": "Das Licht der blauen Stunde ist hier im Winter besonders schön.",
                 "hu": "A kék óra fényei itt télen különösen szépek.",
                 "ro": "Lumina orei albastre este deosebit de frumoasă aici iarna.",
-                "en": "The blue hour light is especially beautiful here in winter."
+                "en": "The blue hour light is especially beautiful here in winter.",
+                "pl": "Błękitna godzina zimą jest tu szczególnie piękna."
               }
             }
           ],
@@ -1083,6 +1173,12 @@
               "Wear windproof gloves against the sharp Kujawy wind.",
               "Ensure your lights are working, as it gets dark early.",
               "Let the bike thaw out in a dry place after the tour."
+            ],
+            "pl": [
+              "Nieco zmniejsz ciśnienie w oponach dla lepszej przyczepności na śniegu.",
+              "Noś wiatroodporne rękawice przeciw ostryemu kujawskiemu wiatrowi.",
+              "Upewnij się, że światła działają, bo zmrok zapada wcześnie.",
+              "Pozwól rowerowi odmrozić się w suchym miejscu po wycieczce."
             ]
           }
         }
@@ -1101,7 +1197,8 @@
             "de": "Parkplatz Zentrum",
             "hu": "Parkoló a központban",
             "ro": "Parcare în centru",
-            "en": "City Center Parking"
+            "en": "City Center Parking",
+            "pl": "Parking w centrum miasta (City Center Parking)"
           },
           "coords": [
             18.258,
@@ -1117,7 +1214,8 @@
             "de": "Parken Sie hier für den Vormittag, um das historische Zentrum zu Fuß zu erkunden.",
             "hu": "Parkoljon le délelőttre, és fedezze fel gyalog a történelmi központot.",
             "ro": "Parcați aici pentru dimineață pentru a explora centrul istoric pe jos.",
-            "en": "Park here for the morning to explore the historic center on foot."
+            "en": "Park here for the morning to explore the historic center on foot.",
+            "pl": "Zaparkuj tu na rano, by zwiedzać historyczne centrum pieszo."
           }
         },
         {
@@ -1125,7 +1223,8 @@
             "de": "Marktplatz & Nikolauskirche",
             "hu": "Piactér és Szent Miklós-templom",
             "ro": "Piața Centrală și Biserica Sf. Nicolae",
-            "en": "Market Square & St. Nicholas Church"
+            "en": "Market Square & St. Nicholas Church",
+            "pl": "Rynek i kościół św. Mikołaja (Market Square & St. Nicholas Church)"
           },
           "coords": [
             18.2585,
@@ -1141,7 +1240,8 @@
             "de": "Dieser erste Cluster umfasst das Herz der Altstadt.",
             "hu": "Ez az első klaszter magában foglalja az óváros szívét.",
             "ro": "Acest prim grup include inima orașului vechi.",
-            "en": "This first cluster covers the heart of the old town."
+            "en": "This first cluster covers the heart of the old town.",
+            "pl": "Ten pierwszy obszar obejmuje serce starego miasta."
           }
         },
         {
@@ -1149,7 +1249,8 @@
             "de": "Jan-Kasprowicz-Museum & Marienkirche",
             "hu": "Jan Kasprowicz Múzeum és Mária-templom",
             "ro": "Muzeul Jan Kasprowicz și Biserica Sf. Maria",
-            "en": "Jan Kasprowicz Museum & St. Mary's Church"
+            "en": "Jan Kasprowicz Museum & St. Mary's Church",
+            "pl": "Muzeum Jana Kasprowicza i kościół Najświętszej Marii (Jan Kasprowicz Museum & St. Mary's Church)"
           },
           "coords": [
             18.255,
@@ -1165,7 +1266,8 @@
             "de": "Ein kurzer Spaziergang bringt Sie zu diesen beiden kulturellen Höhepunkten.",
             "hu": "Egy rövid séta elvezeti ehhez a két kulturális látnivalóhoz.",
             "ro": "O scurtă plimbare vă duce la aceste două atracții culturale.",
-            "en": "A short walk takes you to these two cultural highlights."
+            "en": "A short walk takes you to these two cultural highlights.",
+            "pl": "Krótki spacer zaprowadzi cię do tych dwóch kulturalnych atrakcji."
           }
         },
         {
@@ -1173,7 +1275,8 @@
             "de": "Parkplatz Kurpark",
             "hu": "Parkoló a Gyógyfürdőparknál",
             "ro": "Parcare la Parcul Balnear",
-            "en": "Spa Park Parking"
+            "en": "Spa Park Parking",
+            "pl": "Parking przy Solankowym Parku (Spa Park Parking)"
           },
           "coords": [
             18.267,
@@ -1189,7 +1292,8 @@
             "de": "Fahren Sie zum zweiten Cluster. Hier können Sie für den Rest des Tages parken.",
             "hu": "Vezessen a második klaszterhez. Itt parkolhat a nap hátralévő részére.",
             "ro": "Conduceți la al doilea grup. Puteți parca aici pentru restul zilei.",
-            "en": "Drive to the second cluster. You can park here for the rest of the day."
+            "en": "Drive to the second cluster. You can park here for the rest of the day.",
+            "pl": "Podjedź do drugiego obszaru. Możesz tu zaparkować na resztę dnia."
           }
         },
         {
@@ -1197,7 +1301,8 @@
             "de": "Solankowy-Park & Gradierwerk",
             "hu": "Solankowy Park és Sólepárló torony",
             "ro": "Parcul Solankowy și Turnul de gradare",
-            "en": "Solankowy Park & Graduation Tower"
+            "en": "Solankowy Park & Graduation Tower",
+            "pl": "Solankowy Park i Tężnia (Solankowy Park & Graduation Tower)"
           },
           "coords": [
             18.27,
@@ -1213,7 +1318,8 @@
             "de": "Genießen Sie einen langen Spaziergang und die heilende Luft dieses Bereichs.",
             "hu": "Élvezze a hosszú sétát és a gyógyító levegőt ezen a területen.",
             "ro": "Bucurați-vă de o plimbare lungă și de aerul vindecător din această zonă.",
-            "en": "Enjoy a long walk and the healing air of this area."
+            "en": "Enjoy a long walk and the healing air of this area.",
+            "pl": "Wybierz się na długi spacer i korzystaj z uzdrawiającego powietrza tego terenu."
           }
         },
         {
@@ -1221,7 +1327,8 @@
             "de": "Salzmuseum",
             "hu": "Sómúzeum",
             "ro": "Muzeul Sării",
-            "en": "Salt Museum"
+            "en": "Salt Museum",
+            "pl": "Muzeum Soli"
           },
           "coords": [
             18.274,
@@ -1237,7 +1344,8 @@
             "de": "Das Museum ist nur einen kurzen Spaziergang vom Gradierwerk entfernt.",
             "hu": "A múzeum csak egy rövid sétára van a sólepárló toronytól.",
             "ro": "Muzeul se află la o scurtă plimbare de turnul de gradare.",
-            "en": "The museum is just a short walk from the graduation tower."
+            "en": "The museum is just a short walk from the graduation tower.",
+            "pl": "Muzeum jest zaledwie krótki spacer od tężni."
           }
         }
       ],
@@ -1245,7 +1353,8 @@
         "de": "Mit dem Auto erkunden Sie Hohensalza in zwei Clustern. Parken Sie zuerst im Zentrum und entdecken Sie zu Fuß den historischen Kern mit dem Marktplatz und den alten Kirchen. Ein kurzer Spaziergang führt Sie weiter zum Museum und den gotischen Ruinen. Am Mittag fahren Sie zum Kurpark-Cluster. Parken Sie dort und verbringen Sie den Nachmittag im Grünen. Erleben Sie das berühmte Gradierwerk, spazieren Sie durch den Park und lernen Sie im Salzmuseum alles über die lokale Salzgeschichte. Diese Aufteilung maximiert Ihr Erlebnis und minimiert die Parkplatzsuche.",
         "hu": "Autóval két klaszterben fedezheti fel Hohensalzát. Először parkoljon a központban, és gyalogosan fedezze fel a történelmi magot a Piactérrel és a régi templomokkal. Egy rövid séta elvezeti a múzeumhoz és a gótikus romokhoz. Délben hajtson át a Gyógyfürdőpark-klaszterhez. Parkoljon le, és töltse a délutánt a zöldben. Tapasztalja meg a híres sólepárló tornyot, sétáljon a parkban, és ismerje meg a helyi sótörténetet a Sómúzeumban. Ez a felosztás maximalizálja az élményt és minimalizálja a parkolóhely-keresést.",
         "ro": "Cu mașina, explorați Hohensalza în două grupuri. Mai întâi, parcați în centru și explorați pe jos nucleul istoric cu Piața Centrală și bisericile vechi. O scurtă plimbare vă duce mai departe la muzeu și la ruinele gotice. La prânz, conduceți spre grupul Parcului Balnear. Parcați acolo și petreceți după-amiaza în natură. Experimentați faimosul turn de gradare, plimbați-vă prin parc și învățați totul despre istoria locală a sării la Muzeul Sării. Această împărțire maximizează experiența și minimizează căutarea unui loc de parcare.",
-        "en": "Explore Hohensalza by car in two clusters. First, park in the center and discover the historic core on foot, with the Market Square and old churches. A short walk takes you further to the museum and the Gothic ruins. At midday, drive to the Spa Park cluster. Park there and spend the afternoon in the green. Experience the famous graduation tower, stroll through the park, and learn all about local salt history at the Salt Museum. This division maximizes your experience and minimizes parking searches."
+        "en": "Explore Hohensalza by car in two clusters. First, park in the center and discover the historic core on foot, with the Market Square and old churches. A short walk takes you further to the museum and the Gothic ruins. At midday, drive to the Spa Park cluster. Park there and spend the afternoon in the green. Experience the famous graduation tower, stroll through the park, and learn all about local salt history at the Salt Museum. This division maximizes your experience and minimizes parking searches.",
+        "pl": "Odkryj Hohensalza samochodem w dwóch skupiskach. Najpierw zaparkuj w centrum i poznaj historyczne centrum pieszo, z Rynkiem i starymi kościołami. Krótki spacer zaprowadzi cię dalej do muzeum i gotyckich ruin. W południe pojedź do skupiska przy Parku Zdrojowym. Zaparkuj tam i spędź popołudnie w zieleni. Doświadcz słynnej tężni, przejdź się po parku i poznaj lokalną historię soli w Muzeum Soli. Takie rozdzielenie maksymalizuje doznania i minimalizuje poszukiwanie parkingu."
       },
       "gastro_picks": {
         "de": [
@@ -1401,6 +1510,11 @@
           "Use designated parking areas. Parking in the center can be restricted.",
           "Plan your route between the two clusters in advance.",
           "A car gives you the flexibility to visit places just outside the city as well."
+        ],
+        "pl": [
+          "Korzystaj z wyznaczonych miejsc parkingowych. Parkowanie w centrum może być ograniczone.",
+          "Zaplanuj trasę między dwoma skupiskami z wyprzedzeniem.",
+          "Samochód daje elastyczność, by odwiedzić także miejsca tuż poza miastem."
         ]
       },
       "variants": {
@@ -1409,7 +1523,8 @@
             "de": "Bequemer Start mit dem Wagen am zentralen Parkplatz; der Regen trommelt aufs Dach. Wir besichtigen den Rynek und die Nikolaikirche unter dem Schirm. Mittags fahren wir zum Kasprowicz-Museum, das bequem erreichbar ist. Am Nachmittag parken wir direkt am Kurpark; das Gradierwerk bietet trotz Regen ein gesundes Erlebnis. Den Tag lassen wir entspannt im Salzmuseum ausklingen, bevor wir trocken zum Auto zurückkehren.",
             "hu": "Kényelmes kezdés autóval a központi parkolóban; az eső kopog a tetőn. Esernyővel járjuk be a Ryneket és a Szent Miklós-templomot. Délben a múzeumhoz hajtunk, ami könnyen elérhető. Délután közvetlenül a parknál parkolunk; a sólepárló az eső ellenére is egészséges élményt nyújt. A napot lazán a Sómúzeumban zárjuk, majd szárazon térünk vissza az autóhoz.",
             "ro": "Start confortabil cu mașina în parcarea centrală; ploaia bate în plafon. Vizităm Rynek și biserica Sf. Nicolae sub umbrelă. La prânz conducem spre muzeul Kasprowicz, care este ușor accesibil. După-amiaza parcăm chiar lângă parc; turnul de gradare oferă o experiență sănătoasă în ciuda ploii. Încheiem ziua relaxați la Muzeul Sării, înainte de a reveni uscați la mașină.",
-            "en": "Comfortable start with the car at the central parking lot; rain drums on the roof. We visit Rynek and St. Nicholas Church under an umbrella. At midday, we drive to the Kasprowicz Museum, which is easily accessible. In the afternoon, we park right by the spa park; the graduation tower offers a healthy experience despite the rain. We end the day relaxed at the Salt Museum before returning dry to the car."
+            "en": "Comfortable start with the car at the central parking lot; rain drums on the roof. We visit Rynek and St. Nicholas Church under an umbrella. At midday, we drive to the Kasprowicz Museum, which is easily accessible. In the afternoon, we park right by the spa park; the graduation tower offers a healthy experience despite the rain. We end the day relaxed at the Salt Museum before returning dry to the car.",
+            "pl": "Komfortowy start samochodem na centralnym parkingu; deszcz bębni o dach. Odwiedzamy Rynek i kościół św. Mikołaja pod parasolem. W południe jedziemy do Muzeum Kasprowicza, które jest łatwo dostępne. Po południu parkujemy tuż przy parku zdrojowym; tężnia zapewnia zdrowotne doznania mimo deszczu. Dzień kończymy zrelaksowani w Muzeum Soli przed suchym powrotem do auta."
           },
           "stops": [
             {
@@ -1418,7 +1533,8 @@
                 "de": "Nutzen Sie Park-Apps, um das Bezahlen im Regen zu verkürzen.",
                 "hu": "Használjon parkolási appot, hogy lerövidítse a fizetést az esőben.",
                 "ro": "Folosiți aplicații de parcare pentru a plăti rapid pe ploaie.",
-                "en": "Use parking apps to shorten the time spent paying in the rain."
+                "en": "Use parking apps to shorten the time spent paying in the rain.",
+                "pl": "Używaj aplikacji parkingowych, by skrócić czas płacenia w deszczu."
               }
             },
             {
@@ -1427,7 +1543,8 @@
                 "de": "Der Fußweg vom Parkplatz zum Rynek ist kurz und gut befestigt.",
                 "hu": "A gyalogút a parkolótól a főtérig rövid és jól burkolt.",
                 "ro": "Drumul pe jos de la parcare la Rynek este scurt și bine pavat.",
-                "en": "The walk from the parking lot to Rynek is short and well-paved."
+                "en": "The walk from the parking lot to Rynek is short and well-paved.",
+                "pl": "Spacer z parkingu na Rynek jest krótki i dobrze utwardzony."
               }
             },
             {
@@ -1436,7 +1553,8 @@
                 "de": "Parkmöglichkeiten gibt es oft direkt in den Seitenstraßen.",
                 "hu": "Parkolási lehetőség gyakran van közvetlenül az oldalsó utcákban.",
                 "ro": "Există adesea locuri de parcare chiar pe străzile laterale.",
-                "en": "Parking is often available directly in the side streets."
+                "en": "Parking is often available directly in the side streets.",
+                "pl": "Często można zaparkować bezpośrednio w bocznych uliczkach."
               }
             },
             {
@@ -1445,7 +1563,8 @@
                 "de": "Dieser Parkplatz ist ideal, um das Gradierwerk schnell zu erreichen.",
                 "hu": "Ez a parkoló ideális a sólepárló gyors eléréséhez.",
                 "ro": "Această parcare este ideală pentru a ajunge rapid la turn.",
-                "en": "This parking lot is ideal for reaching the graduation tower quickly."
+                "en": "This parking lot is ideal for reaching the graduation tower quickly.",
+                "pl": "Ten parking jest idealny, by szybko dotrzeć do tężni."
               }
             },
             {
@@ -1454,7 +1573,8 @@
                 "de": "Das Salz-Aerosol ist bei hoher Luftfeuchtigkeit besonders intensiv.",
                 "hu": "A sós pára magas páratartalomnál különösen intenzív.",
                 "ro": "Aerosolii sărați sunt deosebit de intenși la umiditate ridicată.",
-                "en": "The salt aerosol is particularly intense in high humidity."
+                "en": "The salt aerosol is particularly intense in high humidity.",
+                "pl": "Aerozol solny jest szczególnie intensywny przy dużej wilgotności."
               }
             },
             {
@@ -1463,7 +1583,8 @@
                 "de": "Der Parkplatz ist nur wenige Schritte vom Eingang entfernt.",
                 "hu": "A parkoló csak pár lépésre van a bejárattól.",
                 "ro": "Parcarea este la doar câțiva pași de intrare.",
-                "en": "The parking lot is just a few steps from the entrance."
+                "en": "The parking lot is just a few steps from the entrance.",
+                "pl": "Parking jest tylko kilka kroków od wejścia."
               }
             }
           ],
@@ -1491,6 +1612,12 @@
               "Keep your windows defogged to see pedestrians more clearly.",
               "An umbrella in the car is essential for the walks between parking and stops.",
               "Use the parking lots close to the graduation tower to avoid wet feet."
+            ],
+            "pl": [
+              "Uważaj na głębsze kałuże w bocznych ulicach Inowrocławia.",
+              "Utrzymuj szyby wolne od pary, by wyraźniej widzieć pieszych.",
+              "Parasolka w samochodzie jest niezbędna na spacery między parkingiem a przystankami.",
+              "Korzystaj z parkingów blisko tężni, by uniknąć mokrych stóp."
             ]
           }
         },
@@ -1499,7 +1626,8 @@
             "de": "Ein frostiger Tag beginnt; das Auto ist bereits vorgeheizt. Wir parken im Zentrum und genießen den Rynek im Winterkleid. Mittags führt die kurze Fahrt zum warmen Kasprowicz-Museum. Am Nachmittag ist der Kurpark mit dem vereisten Gradierwerk ein optisches Highlight, das wir bequem erreichen. Nach der Ruinenbesichtigung bietet das Salzmuseum einen warmen Abschluss. Die Rückfahrt erfolgt sicher in der frühen Winterdämmerung.",
             "hu": "Fagyos nap kezdődik; az autó már elő van melegítve. A központban parkolunk, és élvezzük a főteret téli díszben. Délben rövid út vezet a meleg múzeumhoz. Délután a park a jeges sólepárlóval vizuális élmény, amit kényelmesen érünk el. A romok után a Sómúzeum nyújt meleg zárást. A visszautat biztonságban tesszük meg a korai téli szürkületben.",
             "ro": "Începe o zi geroasă; mașina este deja preîncălzită. Parcăm în centru și admirăm Rynek în haine de iarnă. La prânz, un drum scurt ne duce la muzeul călduros. După-amiaza, parcul cu turnul de gradare înghețat este un punct de atracție vizual, ușor accesibil. După ruine, Muzeul Sării oferă un final călduros. Întoarcerea are loc în siguranță în amurgul timpuriu.",
-            "en": "A frosty day begins; the car is already preheated. We park in the center and enjoy Rynek in its winter coat. At midday, a short drive leads to the warm museum. In the afternoon, the park with the icy graduation tower is a visual highlight, easily reached. After the ruins, the Salt Museum provides a warm finale. The return trip is made safely in the early winter twilight."
+            "en": "A frosty day begins; the car is already preheated. We park in the center and enjoy Rynek in its winter coat. At midday, a short drive leads to the warm museum. In the afternoon, the park with the icy graduation tower is a visual highlight, easily reached. After the ruins, the Salt Museum provides a warm finale. The return trip is made safely in the early winter twilight.",
+            "pl": "Zaczyna się mroźny dzień; samochód jest już podgrzany. Parkujemy w centrum i podziwiamy Rynek w zimowym ubraniu. W południe krótka przejażdżka prowadzi do ciepłego muzeum. Po południu park z lodową tężnią to wizualny akcent, łatwo dostępny. Po ruinach Muzeum Soli zapewnia ciepłe zakończenie. Powrót odbywa się bezpiecznie we wczesnym zimowym zmroku."
           },
           "stops": [
             {
@@ -1508,7 +1636,8 @@
                 "de": "Parkplätze werden oft geräumt, aber Vorsicht vor Restglätte.",
                 "hu": "A parkolókat gyakran takarítják, de vigyázzon a maradék jégre.",
                 "ro": "Parcările sunt adesea deszăpezite, dar atenție la gheața reziduală.",
-                "en": "Parking lots are often cleared, but watch out for residual ice."
+                "en": "Parking lots are often cleared, but watch out for residual ice.",
+                "pl": "Parking często jest odśnieżany, ale uważaj na resztki lodu."
               }
             },
             {
@@ -1517,7 +1646,8 @@
                 "de": "Genießen Sie den kurzen Weg durch die klare Winterluft.",
                 "hu": "Élvezze a rövid utat a tiszta téli levegőn.",
                 "ro": "Bucurați-vă de drumul scurt prin aerul curat de iarnă.",
-                "en": "Enjoy the short walk through the crisp winter air."
+                "en": "Enjoy the short walk through the crisp winter air.",
+                "pl": "Ciesz się krótkim spacerem w rześkim zimowym powietrzu."
               }
             },
             {
@@ -1526,7 +1656,8 @@
                 "de": "Parken Sie nicht zu weit weg, um die Kältephasen kurz zu halten.",
                 "hu": "Ne parkoljon túl messze, hogy a hidegben töltött idő rövid maradjon.",
                 "ro": "Nu parcați prea departe pentru a limita expunerea la frig.",
-                "en": "Don't park too far away to keep the time spent in the cold short."
+                "en": "Don't park too far away to keep the time spent in the cold short.",
+                "pl": "Nie parkuj zbyt daleko, by skrócić czas spędzony na mrozie."
               }
             },
             {
@@ -1535,7 +1666,8 @@
                 "de": "Hinterlassen Sie keine Wertsachen sichtbar im Auto.",
                 "hu": "Ne hagyjon értéktárgyat látható helyen az autóban.",
                 "ro": "Nu lăsați obiecte de valoare la vedere în mașină.",
-                "en": "Do not leave valuables visible in the car."
+                "en": "Do not leave valuables visible in the car.",
+                "pl": "Nie pozostawiaj widocznych wartościowych rzeczy w samochodzie."
               }
             },
             {
@@ -1544,7 +1676,8 @@
                 "de": "Die Wege zum Turm können bei Frost sehr glatt sein.",
                 "hu": "A toronyhoz vezető utak fagyban nagyon csúszósak lehetnek.",
                 "ro": "Aleile spre turn pot fi foarte alunecoase în caz de îngheț.",
-                "en": "The paths to the tower can be very slippery during frost."
+                "en": "The paths to the tower can be very slippery during frost.",
+                "pl": "Ścieżki do tężni mogą być bardzo śliskie przy przymrozku."
               }
             },
             {
@@ -1553,7 +1686,8 @@
                 "de": "Lassen Sie den Wagen hier für den Museumsbesuch stehen.",
                 "hu": "Hagyja itt az autót a múzeumlátogatás idejére.",
                 "ro": "Lăsați mașina aici pe durata vizitării muzeului.",
-                "en": "Leave the car here during the museum visit."
+                "en": "Leave the car here during the museum visit.",
+                "pl": "Zostaw tu samochód podczas wizyty w muzeum."
               }
             }
           ],
@@ -1581,6 +1715,12 @@
               "Watch out for black ice on the bridge over the railway tracks.",
               "Finding a parking spot by the spa park is usually easier in winter.",
               "Drive defensively, as roads in Kujawy can be icy."
+            ],
+            "pl": [
+              "Sprawdź poziom płynu do spryskiwaczy z antyzamarzającą formułą.",
+              "Uważaj na gołoledź na moście nad torami kolejowymi.",
+              "Znalezienie miejsca parkingowego przy parku zdrojowym zwykle jest łatwiejsze zimą.",
+              "Jedź defensywnie, bo drogi na Kujawach mogą być oblodzone."
             ]
           }
         }
@@ -1599,7 +1739,8 @@
             "de": "Zentrale Bushaltestelle (Rynek)",
             "hu": "Központi buszmegálló (Rynek)",
             "ro": "Stație centrală de autobuz (Rynek)",
-            "en": "Central Bus Stop (Rynek)"
+            "en": "Central Bus Stop (Rynek)",
+            "pl": "Przystanek centralny (Rynek)"
           },
           "coords": [
             18.2595,
@@ -1615,7 +1756,8 @@
             "de": "Beginnen Sie hier. Das historische Zentrum ist nur wenige Schritte entfernt.",
             "hu": "Itt kezdjen. A történelmi központ csak pár lépésre van.",
             "ro": "Începeți de aici. Centrul istoric este la doar câțiva pași.",
-            "en": "Start here. The historic center is just a few steps away."
+            "en": "Start here. The historic center is just a few steps away.",
+            "pl": "Zacznij tutaj. Historyczne centrum jest zaledwie kilka kroków stąd."
           }
         },
         {
@@ -1623,7 +1765,8 @@
             "de": "Marktplatz & Nikolauskirche",
             "hu": "Piactér és Szent Miklós-templom",
             "ro": "Piața Centrală și Biserica Sf. Nicolae",
-            "en": "Market Square & St. Nicholas Church"
+            "en": "Market Square & St. Nicholas Church",
+            "pl": "Rynek i kościół św. Mikołaja"
           },
           "coords": [
             18.2585,
@@ -1639,7 +1782,8 @@
             "de": "Erkunden Sie den ersten Cluster zu Fuß.",
             "hu": "Fedezze fel az első klasztert gyalog.",
             "ro": "Explorați primul grup pe jos.",
-            "en": "Explore the first cluster on foot."
+            "en": "Explore the first cluster on foot.",
+            "pl": "Zwiedź pierwsze skupisko pieszo."
           }
         },
         {
@@ -1647,7 +1791,8 @@
             "de": "Jan-Kasprowicz-Museum",
             "hu": "Jan Kasprowicz Múzeum",
             "ro": "Muzeul Jan Kasprowicz",
-            "en": "Jan Kasprowicz Museum"
+            "en": "Jan Kasprowicz Museum",
+            "pl": "Muzeum Jana Kasprowicza"
           },
           "coords": [
             18.256,
@@ -1663,7 +1808,8 @@
             "de": "Ein kultureller Höhepunkt, leicht zu Fuß vom Marktplatz aus erreichbar.",
             "hu": "Kulturális fénypont, gyalog könnyen elérhető a Piactérről.",
             "ro": "Un punct culminant cultural, ușor accesibil pe jos din Piața Centrală.",
-            "en": "A cultural highlight, easily reachable on foot from the Market Square."
+            "en": "A cultural highlight, easily reachable on foot from the Market Square.",
+            "pl": "Kulturalny punkt obowiązkowy, łatwo dostępny pieszo z Rynku."
           }
         },
         {
@@ -1671,7 +1817,8 @@
             "de": "Bushaltestelle am Kurpark",
             "hu": "Buszmegálló a Gyógyfürdőparknál",
             "ro": "Stație de autobuz la Parcul Balnear",
-            "en": "Bus Stop at the Spa Park"
+            "en": "Bus Stop at the Spa Park",
+            "pl": "Przystanek przy Parku Zdrojowym"
           },
           "coords": [
             18.2675,
@@ -1687,7 +1834,8 @@
             "de": "Nehmen Sie einen Bus zum zweiten Cluster. Die Fahrt ist kurz.",
             "hu": "Menjen busszal a második klaszterhez. Az út rövid.",
             "ro": "Luați un autobuz spre al doilea grup. Călătoria este scurtă.",
-            "en": "Take a bus to the second cluster. The ride is short."
+            "en": "Take a bus to the second cluster. The ride is short.",
+            "pl": "Wsiądź do autobusu do drugiego skupiska. Przejazd jest krótki."
           }
         },
         {
@@ -1695,7 +1843,8 @@
             "de": "Solankowy-Park & Gradierwerk",
             "hu": "Solankowy Park és Sólepárló torony",
             "ro": "Parcul Solankowy și Turnul de gradare",
-            "en": "Solankowy Park & Graduation Tower"
+            "en": "Solankowy Park & Graduation Tower",
+            "pl": "Park Solankowy i tężnia"
           },
           "coords": [
             18.27,
@@ -1711,7 +1860,8 @@
             "de": "Von der Haltestelle aus können Sie den gesamten Parkbereich erkunden.",
             "hu": "A megállótól az egész park területét felfedezheti.",
             "ro": "De la stație puteți explora întreaga zonă a parcului.",
-            "en": "From the bus stop, you can explore the entire park area."
+            "en": "From the bus stop, you can explore the entire park area.",
+            "pl": "Z przystanku możesz zwiedzić cały obszar parku."
           }
         },
         {
@@ -1719,7 +1869,8 @@
             "de": "Salzmuseum",
             "hu": "Sómúzeum",
             "ro": "Muzeul Sării",
-            "en": "Salt Museum"
+            "en": "Salt Museum",
+            "pl": "Muzeum Soli"
           },
           "coords": [
             18.274,
@@ -1735,7 +1886,8 @@
             "de": "Ein kurzer Spaziergang durch den Park führt Sie zum letzten Halt des Tages.",
             "hu": "Egy rövid séta a parkon keresztül elvezeti a nap utolsó állomásához.",
             "ro": "O scurtă plimbare prin parc vă duce la ultima oprire a zilei.",
-            "en": "A short walk through the park takes you to the last stop of the day."
+            "en": "A short walk through the park takes you to the last stop of the day.",
+            "pl": "Krótki spacer przez park prowadzi do ostatniego punktu dnia."
           }
         }
       ],
@@ -1743,7 +1895,8 @@
         "de": "Mit öffentlichen Verkehrsmitteln ist Hohensalza leicht zu erkunden. Beginnen Sie Ihren Tag im historischen Zentrum, das Sie von der zentralen Bushaltestelle aus zu Fuß erreichen. Entdecken Sie den Marktplatz, Kirchen und Museen. Zur Mittagszeit bringt Sie ein kurzer Bus-Hop zum Kurpark. Verbringen Sie den Nachmittag damit, den Park, das Gradierwerk und das Salzmuseum zu erkunden, alles bequem zu Fuß erreichbar. Diese Methode ist effizient, umweltfreundlich und lässt Sie die Stadt wie ein Einheimischer erleben.",
         "hu": "Tömegközlekedéssel Hohensalza könnyen felfedezhető. Kezdje a napot a történelmi központban, amely a központi buszmegállótól gyalogosan elérhető. Fedezze fel a Piacteret, a templomokat és a múzeumokat. Délidőben egy rövid buszozás elviszi a Gyógyfürdőparkba. Töltse a délutánt a park, a sólepárló torony és a Sómúzeum felfedezésével, mindegyik kényelmesen gyalogosan elérhető. Ez a módszer hatékony, környezetbarát, és lehetővé teszi, hogy úgy élje át a várost, mint egy helyi.",
         "ro": "Hohensalza este ușor de explorat cu transportul public. Începeți ziua în centrul istoric, accesibil pe jos de la stația centrală de autobuz. Descoperiți Piața Centrală, bisericile și muzeele. La prânz, o scurtă călătorie cu autobuzul vă va duce la Parcul Balnear. Petreceți după-amiaza explorând parcul, turnul de gradare și Muzeul Sării, toate accesibile confortabil pe jos. Această metodă este eficientă, ecologică și vă permite să experimentați orașul ca un localnic.",
-        "en": "Hohensalza is easy to explore using public transport. Start your day in the historic center, reachable on foot from the central bus stop. Discover the Market Square, churches, and museums. At midday, a short bus hop will take you to the Spa Park. Spend the afternoon exploring the park, the graduation tower, and the Salt Museum, all comfortably within walking distance. This method is efficient, eco-friendly, and lets you experience the city like a local."
+        "en": "Hohensalza is easy to explore using public transport. Start your day in the historic center, reachable on foot from the central bus stop. Discover the Market Square, churches, and museums. At midday, a short bus hop will take you to the Spa Park. Spend the afternoon exploring the park, the graduation tower, and the Salt Museum, all comfortably within walking distance. This method is efficient, eco-friendly, and lets you experience the city like a local.",
+        "pl": "Hohensalza łatwo zwiedza się transportem publicznym. Zacznij dzień w historycznym centrum, dostępnym pieszo z centralnego przystanku. Odkrywaj Rynek, kościoły i muzea. W południe krótki przejazd autobusem zabierze cię do Parku Zdrojowego. Popołudnie spędź zwiedzając park, tężnię i Muzeum Soli, wszystko w wygodnym dystansie spacerowym. Ta metoda jest efektywna, ekologiczna i pozwala poczuć miasto jak miejscowy."
       },
       "gastro_picks": {
         "de": [
@@ -1899,6 +2052,11 @@
           "Buy a day pass for the bus to save on costs.",
           "Check bus routes and schedules in advance.",
           "Be aware that buses may run less frequently on weekends."
+        ],
+        "pl": [
+          "Kup bilet całodniowy na autobus, by oszczędzić.",
+          "Sprawdź trasy i rozkłady autobusów z wyprzedzeniem.",
+          "Pamiętaj, że autobusy mogą kursować rzadziej w weekendy."
         ]
       },
       "variants": {
@@ -1907,7 +2065,8 @@
             "de": "Vom zentralen Busstopp am Rynek erkunden wir die Altstadt im Regen. Die Nikolaikirche bietet Schutz. Mittags bringt uns der Bus zum Kasprowicz-Museum, wo wir im Trockenen verweilen. Am Nachmittag steigen wir direkt am Kurpark aus; das Gradierwerk ist auch bei Regen ein Highlight für die Gesundheit. Das Salzmuseum ist der letzte Stopp, bevor wir bequem mit dem nächsten Bus zurückfahren.",
             "hu": "A Ryneknél lévő központi buszmegállóból esőben fedezzük fel az óvárost. A Szent Miklós-templom menedéket ad. Délben busz visz a múzeumhoz, ahol szárazon időzhetünk. Délután közvetlenül a parknál szállunk le; a sólepárló esőben is az egészség megőrzésének központja. A Sómúzeum az utolsó állomás, mielőtt kényelmesen visszautaznánk a következő busszal.",
             "ro": "Din stația centrală de autobuz de la Rynek explorăm orașul vechi pe ploaie. Biserica Sf. Nicolae oferă adăpost. La prânz autobuzul ne duce la muzeu, unde stăm la adăpost. După-amiaza coborâm chiar lângă parc; turnul de gradare rămâne un punct important pentru sănătate chiar și pe ploaie. Muzeul Sării este ultima oprire înainte de a reveni confortabil cu următorul autobuz.",
-            "en": "From the central bus stop at Rynek, we explore the old town in the rain. St. Nicholas Church provides shelter. At midday, the bus takes us to the museum, where we stay dry. In the afternoon, we get off right by the park; the graduation tower remains a health highlight even in the rain. The Salt Museum is the final stop before we head back comfortably on the next bus."
+            "en": "From the central bus stop at Rynek, we explore the old town in the rain. St. Nicholas Church provides shelter. At midday, the bus takes us to the museum, where we stay dry. In the afternoon, we get off right by the park; the graduation tower remains a health highlight even in the rain. The Salt Museum is the final stop before we head back comfortably on the next bus.",
+            "pl": "Z centralnego przystanku przy Rynku zwiedzamy stare miasto w deszczu. Kościół św. Mikołaja daje schronienie. W południe autobus zabiera nas do muzeum, gdzie pozostajemy suchi. Po południu wysiadamy tuż przy parku; tężnia nadal jest zdrowotnym punktem nawet w deszczu. Muzeum Soli to ostatni przystanek przed wygodnym powrotem kolejnym autobusem."
           },
           "stops": [
             {
@@ -1916,7 +2075,8 @@
                 "de": "Das Wartehäuschen bietet Schutz vor dem Regen.",
                 "hu": "A váróterem védelmet nyújt az eső elől.",
                 "ro": "Adăpostul din stație oferă protecție împotriva ploii.",
-                "en": "The bus shelter provides protection from the rain."
+                "en": "The bus shelter provides protection from the rain.",
+                "pl": "Wiaty na przystankach chronią przed deszczem."
               }
             },
             {
@@ -1925,7 +2085,8 @@
                 "de": "Die Kirche ist nur einen kurzen, nassen Spaziergang entfernt.",
                 "hu": "A templom csak egy rövid, vizes sétára van.",
                 "ro": "Biserica este la doar o scurtă plimbare prin ploaie.",
-                "en": "The church is just a short, wet walk away."
+                "en": "The church is just a short, wet walk away.",
+                "pl": "Do kościoła jest krótki, mokry spacer."
               }
             },
             {
@@ -1934,7 +2095,8 @@
                 "de": "Nutzen Sie die Zeit im Museum, um den Fahrplan zu prüfen.",
                 "hu": "Használja a múzeumban töltött időt a menetrend ellenőrzésére.",
                 "ro": "Folosiți timpul de la muzeu pentru a verifica orarul.",
-                "en": "Use your time at the museum to check the bus schedule."
+                "en": "Use your time at the museum to check the bus schedule.",
+                "pl": "Wykorzystaj czas w muzeum na sprawdzenie rozkładu autobusów."
               }
             },
             {
@@ -1943,7 +2105,8 @@
                 "de": "In der Nähe gibt es Cafés zum Aufwärmen.",
                 "hu": "A közelben kávézók találhatók a felmelegedéshez.",
                 "ro": "Există cafenele în apropiere pentru a vă încălzi.",
-                "en": "There are cafes nearby where you can warm up."
+                "en": "There are cafes nearby where you can warm up.",
+                "pl": "W pobliżu są kawiarnie, gdzie można się rozgrzać."
               }
             },
             {
@@ -1952,7 +2115,8 @@
                 "de": "Das Mikroklima ist bei Regen besonders wohltuend.",
                 "hu": "A mikroklíma esőben különösen jótékony hatású.",
                 "ro": "Microclimatul este deosebit de benefic pe ploaie.",
-                "en": "The microclimate is especially beneficial in the rain."
+                "en": "The microclimate is especially beneficial in the rain.",
+                "pl": "Mikroklimat jest szczególnie korzystny podczas deszczu."
               }
             },
             {
@@ -1961,7 +2125,8 @@
                 "de": "Die Bushaltestelle für die Rückfahrt ist gut beschildert.",
                 "hu": "A visszautat szolgáló buszmegálló jól ki van táblázva.",
                 "ro": "Stația de autobuz pentru întoarcere este bine semnalizată.",
-                "en": "The bus stop for the return journey is well signposted."
+                "en": "The bus stop for the return journey is well signposted.",
+                "pl": "Przystanek powrotny jest dobrze oznakowany."
               }
             }
           ],
@@ -1989,6 +2154,12 @@
               "Buses usually run on schedule in the rain, but allow for some delay.",
               "Wear waterproof shoes for the walks between stops.",
               "The buses are well heated in autumn and winter."
+            ],
+            "pl": [
+              "Kup bilety wcześniej w automatach lub przez aplikację.",
+              "Autobusy zwykle kursują zgodnie z rozkładem w deszczu, ale uwzględnij możliwe opóźnienia.",
+              "Noś wodoodporne buty na spacery między przystankami.",
+              "Autobusy są dobrze ogrzewane jesienią i zimą."
             ]
           }
         },
@@ -1997,7 +2168,8 @@
             "de": "Im beheizten Bus erreichen wir den Rynek; draußen ist es klirrend kalt. Die Nikolaikirche bietet einen Moment der Stille, bevor wir mittags im Kasprowicz-Museum weiterwärmen. Am Nachmittag bringt uns der Bus direkt zum verschneiten Kurpark. Das Gradierwerk wirkt im Winterlicht fast magisch. Den Abend verbringen wir im Salzmuseum, bevor wir bequem mit den öffentlichen Verkehrsmitteln die Heimreise antreten.",
             "hu": "Fűtött busszal érkezünk a főtérre; kint metsző hideg van. A Szent Miklós-templom egy pillanatnyi csendet ad, mielőtt délben a múzeumban melegednénk tovább. Délután a busz közvetlenül a havas parkhoz visz. A sólepárló torony a téli fényben szinte mágikus látvány. Az estét a Sómúzeumban töltjük, majd kényelmesen indulunk haza tömegközlekedéssel.",
             "ro": "Ajungem la Rynek cu autobuzul încălzit; afară e un ger pătrunzător. Biserica Sf. Nicolae oferă un moment de liniște înainte de a ne încălzi la muzeu. După-amiaza autobuzul ne lasă direct la parcul înzăpezit. Turnul de gradare arată aproape magic în lumina iernii. Seara o petrecem la Muzeul Sării, apoi pornim spre casă confortabil cu transportul public.",
-            "en": "We reach Rynek by heated bus; outside it's bitterly cold. St. Nicholas Church offers a moment of silence before we continue warming up at the museum. In the afternoon, the bus takes us directly to the snowy park. The graduation tower looks almost magical in the winter light. We spend the evening at the Salt Museum before heading home comfortably by public transport."
+            "en": "We reach Rynek by heated bus; outside it's bitterly cold. St. Nicholas Church offers a moment of silence before we continue warming up at the museum. In the afternoon, the bus takes us directly to the snowy park. The graduation tower looks almost magical in the winter light. We spend the evening at the Salt Museum before heading home comfortably by public transport.",
+            "pl": "Dojeżdżamy na Rynek ogrzanym autobusem; na zewnątrz jest przenikliwie zimno. Kościół św. Mikołaja daje chwilę ciszy, zanim ogrzejemy się w muzeum. Po południu autobus zabiera nas prosto do zaśnieżonego parku. Tężnia wygląda niemal magicznie w zimowym świetle. Wieczór spędzamy w Muzeum Soli, po czym wygodnie wracamy transportem publicznym."
           },
           "stops": [
             {
@@ -2006,7 +2178,8 @@
                 "de": "Warten Sie im Windschatten des Haltestellengebäudes.",
                 "hu": "Várjon a megálló épületének szélvédett oldalán.",
                 "ro": "Așteptați în partea ferită de vânt a stației.",
-                "en": "Wait in the lee of the bus shelter."
+                "en": "Wait in the lee of the bus shelter.",
+                "pl": "Czekaj w osłonie wiaty przystankowej."
               }
             },
             {
@@ -2015,7 +2188,8 @@
                 "de": "Vorsicht vor gefrorenem Schneematsch an den Haltestellen.",
                 "hu": "Vigyázzon a fagyott hókására a megállókban.",
                 "ro": "Atenție la lapovița înghețată din stații.",
-                "en": "Watch out for frozen slush at the bus stops."
+                "en": "Watch out for frozen slush at the bus stops.",
+                "pl": "Uważaj na zamarznięty brejok na przystankach autobusowych."
               }
             },
             {
@@ -2024,7 +2198,8 @@
                 "de": "Ein langer Aufenthalt im Warmen ist hier möglich.",
                 "hu": "Hosszabb ideig is maradhat a melegben.",
                 "ro": "O ședere lungă la căldură este posibilă aici.",
-                "en": "A long stay in the warmth is possible here."
+                "en": "A long stay in the warmth is possible here.",
+                "pl": "Możliwe jest długie przebywanie w cieple tutaj."
               }
             },
             {
@@ -2033,7 +2208,8 @@
                 "de": "In der Nähe gibt es heiße Getränke zum Mitnehmen.",
                 "hu": "A közelben meleg italok kaphatók elvitelre.",
                 "ro": "Există băuturi calde de luat la pachet în apropiere.",
-                "en": "Hot drinks to go are available nearby."
+                "en": "Hot drinks to go are available nearby.",
+                "pl": "W pobliżu dostępne są gorące napoje na wynos."
               }
             },
             {
@@ -2042,7 +2218,8 @@
                 "de": "Der Aufenthalt am Turm sollte im Winter nicht zu lang sein.",
                 "hu": "A toronynál töltött idő ne legyen túl hosszú télen.",
                 "ro": "Șederea la turn nu ar trebui să fie prea lungă iarna.",
-                "en": "Don't spend too long at the tower in the winter."
+                "en": "Don't spend too long at the tower in the winter.",
+                "pl": "Nie przebywaj zbyt długo przy tężni zimą."
               }
             },
             {
@@ -2051,7 +2228,8 @@
                 "de": "Prüfen Sie die Abfahrtszeiten für den letzten Bus.",
                 "hu": "Ellenőrizze az utolsó busz indulási idejét.",
                 "ro": "Verificați ora de plecare a ultimului autobuz.",
-                "en": "Check the departure times for the last bus."
+                "en": "Check the departure times for the last bus.",
+                "pl": "Sprawdź godziny odjazdów ostatniego autobusu."
               }
             }
           ],
@@ -2079,6 +2257,12 @@
               "Buses in Inowrocław are reliably heated in winter.",
               "Watch out for modified schedules on public holidays.",
               "Have change or a card ready for ticket purchases."
+            ],
+            "pl": [
+              "Korzystaj z informacji o rozkładzie w czasie rzeczywistym na smartfonie.",
+              "Autobusy w Inowrocławiu są niezawodnie ogrzewane zimą.",
+              "Uważaj na zmienione rozkłady w święta.",
+              "Miej przygotowane drobne lub kartę do zakupu biletów."
             ]
           }
         }

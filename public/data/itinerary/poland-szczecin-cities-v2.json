@@ -21,7 +21,8 @@
             "de": "Altes Rathaus",
             "hu": "Régi Városháza",
             "ro": "Primăria Veche",
-            "en": "Old Town Hall"
+            "en": "Old Town Hall",
+            "pl": "Stary Ratusz"
           },
           "coords": [
             14.5575,
@@ -36,7 +37,8 @@
             "de": "Bewundern Sie die rote Backsteingotik, die typisch für die Region ist.",
             "hu": "Csodálja meg a régióra jellemző vörös téglagótikát.",
             "ro": "Admirați goticul de cărămidă roșie, tipic pentru regiune.",
-            "en": "Admire the red-brick Gothic architecture, typical for the region."
+            "en": "Admire the red-brick Gothic architecture, typical for the region.",
+            "pl": "Podziwiaj ceglano-gotycką architekturę charakterystyczną dla regionu."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Jakobskathedrale",
             "hu": "Szent Jakab-katedrális",
             "ro": "Catedrala Sf. Iacob",
-            "en": "St. James' Cathedral"
+            "en": "St. James' Cathedral",
+            "pl": "Katedra św. Jakuba"
           },
           "coords": [
             14.5545,
@@ -59,7 +62,8 @@
             "de": "Nehmen Sie den Aufzug zur Aussichtsplattform für einen Panoramablick.",
             "hu": "Menjen fel lifttel a kilátóteraszra a panorámáért.",
             "ro": "Luați liftul până la platforma de observare pentru o vedere panoramică.",
-            "en": "Take the elevator to the viewing platform for a panoramic view."
+            "en": "Take the elevator to the viewing platform for a panoramic view.",
+            "pl": "Wjedź windą na taras widokowy, by zobaczyć panoramę."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Schloss der Pommerschen Herzöge",
             "hu": "Pomerániai hercegek kastélya",
             "ro": "Castelul Ducilor Pomeranieni",
-            "en": "Pomeranian Dukes' Castle"
+            "en": "Pomeranian Dukes' Castle",
+            "pl": "Zamek Książąt Pomorskich"
           },
           "coords": [
             14.5583,
@@ -82,7 +87,8 @@
             "de": "Prüfen Sie den Veranstaltungskalender für Konzerte im Innenhof.",
             "hu": "Nézze meg az eseménynaptárt, gyakran tartanak koncerteket az udvaron.",
             "ro": "Verificați calendarul evenimentelor pentru concerte în curtea interioară.",
-            "en": "Check the event calendar for concerts held in the courtyard."
+            "en": "Check the event calendar for concerts held in the courtyard.",
+            "pl": "Sprawdź kalendarz wydarzeń — często odbywają się tu koncerty na dziedzińcu."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Hakenterrasse (Wały Chrobrego)",
             "hu": "Hakenterrasse (Chrobry-sáncok)",
             "ro": "Terasa lui Hakon (Wały Chrobrego)",
-            "en": "Chrobry Embankment (Hakenterrasse)"
+            "en": "Chrobry Embankment (Hakenterrasse)",
+            "pl": "Nabrzeże Chrobrego (Hakenterrasse)"
           },
           "coords": [
             14.562,
@@ -105,7 +112,8 @@
             "de": "Ein idealer Ort für ein Mittagessen mit Blick auf die Oder.",
             "hu": "Ideális hely egy ebédhez az Odera-folyóra néző kilátással.",
             "ro": "Un loc ideal pentru prânz cu vedere la râul Oder.",
-            "en": "An ideal spot for lunch with a view over the Oder River."
+            "en": "An ideal spot for lunch with a view over the Oder River.",
+            "pl": "Idealne miejsce na obiad z widokiem na Odrę."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Philharmonie Stettin",
             "hu": "Stettini Filharmónia",
             "ro": "Filarmonica din Szczecin",
-            "en": "Szczecin Philharmonic"
+            "en": "Szczecin Philharmonic",
+            "pl": "Filharmonia Szczecińska"
           },
           "coords": [
             14.5515,
@@ -128,7 +137,8 @@
             "de": "Die leuchtende Fassade ist nachts am beeindruckendsten.",
             "hu": "A kivilágított homlokzat éjjel a leglenyűgözőbb.",
             "ro": "Fațada luminată este cea mai impresionantă noaptea.",
-            "en": "The illuminated facade is most impressive at night."
+            "en": "The illuminated facade is most impressive at night.",
+            "pl": "Podświetlona elewacja robi największe wrażenie nocą."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Berliner Tor",
             "hu": "Berlini kapu",
             "ro": "Poarta Berlinului",
-            "en": "Berlin Gate"
+            "en": "Berlin Gate",
+            "pl": "Brama Berlińska"
           },
           "coords": [
             14.545,
@@ -151,7 +162,8 @@
             "de": "Eines der beiden erhaltenen barocken Stadttore, perfekt für ein Foto.",
             "hu": "Egy a két megmaradt barokk városkapu közül, tökéletes egy fotóhoz.",
             "ro": "Una dintre cele două porți baroce ale orașului care s-au păstrat, perfectă pentru o fotografie.",
-            "en": "One of the two preserved baroque city gates, perfect for a photo."
+            "en": "One of the two preserved baroque city gates, perfect for a photo.",
+            "pl": "Jedna z dwóch zachowanych barokowych bram miejskich — idealna na zdjęcie."
           }
         }
       ],
@@ -159,7 +171,8 @@
         "de": "Ihr Tag beginnt am Alten Rathaus, einem Juwel der Backsteingotik. Von dort aus führt Sie ein kurzer Spaziergang zur imposanten Jakobskathedrale. Nach dem spirituellen Erlebnis erkunden Sie das Schloss der Pommerschen Herzöge, das Herz der Geschichte der Region. Am Nachmittag schlendern Sie entlang der Hakenterrasse mit herrlichem Blick auf die Oder und bewundern die moderne Architektur der Philharmonie. Der Tag endet am historischen Berliner Tor und lässt Sie die reiche Geschichte der Stadt spüren.",
         "hu": "A nap a Régi Városházánál, a téglagótika ékkövénél kezdődik. Innen rövid séta vezet a lenyűgöző Szent Jakab-katedrálishoz. A spirituális élmény után fedezze fel a Pomerániai hercegek kastélyát, a régió történelmének szívét. Délután sétáljon végig a Hakenterrasse-on, ahonnan csodálatos kilátás nyílik az Oderára, majd csodálja meg a Filharmónia modern építészetét. A nap a történelmi Berlini kapunál ér véget, átérezve a város gazdag múltját.",
         "ro": "Ziua dvs. începe la Primăria Veche, o bijuterie a goticului de cărămidă. De acolo, o scurtă plimbare vă duce la impunătoarea Catedrală Sf. Iacob. După experiența spirituală, explorați Castelul Ducilor Pomeranieni, inima istoriei regiunii. După-amiaza, plimbați-vă de-a lungul Terasei lui Hakon cu vederi magnifice asupra Oderului și admirați arhitectura modernă a Filarmonicii. Ziua se încheie la istorica Poartă a Berlinului, simțind istoria bogată a orașului.",
-        "en": "Your day starts at the Old Town Hall, a gem of brick Gothic architecture. From there, a short walk takes you to the imposing St. James' Cathedral. After the spiritual experience, explore the Pomeranian Dukes' Castle, the heart of the region's history. In the afternoon, stroll along the Chrobry Embankment with magnificent views of the Oder River and admire the modern architecture of the Philharmonic. The day ends at the historic Berlin Gate, feeling the city's rich history."
+        "en": "Your day starts at the Old Town Hall, a gem of brick Gothic architecture. From there, a short walk takes you to the imposing St. James' Cathedral. After the spiritual experience, explore the Pomeranian Dukes' Castle, the heart of the region's history. In the afternoon, stroll along the Chrobry Embankment with magnificent views of the Oder River and admire the modern architecture of the Philharmonic. The day ends at the historic Berlin Gate, feeling the city's rich history.",
+        "pl": "Twój dzień zaczyna się przy Starym Ratuszu, klejnocie ceglano-gotyckiej architektury. Stąd krótki spacer prowadzi do potężnej Katedry św. Jakuba. Po doświadczeniu duchowym zwiedź Zamek Książąt Pomorskich, serce historii regionu. Po południu przespaceruj się Nabrzeżem Chrobrego z wspaniałymi widokami na Odrę i podziwiaj nowoczesną architekturę Filharmonii. Dzień kończy się przy historycznej Bramie Berlińskiej, wyczuwając bogatą historię miasta."
       },
       "gastro_picks": {
         "de": [
@@ -355,6 +368,12 @@
           "Most central sights are within easy walking distance.",
           "Keep a camera ready for the impressive architecture.",
           "Plan for a lunch break at the Chrobry Embankment to enjoy the view."
+        ],
+        "pl": [
+          "Noś wygodne buty — dużo będziesz chodzić po kostce brukowej.",
+          "Większość centralnych zabytków jest w łatwym zasięgu pieszym.",
+          "Miej pod ręką aparat na imponującą architekturę.",
+          "Zaplanuj przerwę na obiad przy Nabrzeżu Chrobrego, by nacieszyć się widokiem."
         ]
       },
       "variants": {
@@ -363,7 +382,8 @@
             "de": "Regnerischer Morgen am Alten Rathaus, die roten Backsteine glänzen im nassen Licht. Mittags bietet die Kathedrale trockenen Unterschlupf und stille Einkehr. Nachmittags weht eine frische Brise an der Hakenterrasse, während die Oder grau dahinfließt. Der Abend endet trocken in der futuristischen Philharmonie, die wie ein Eisberg im Regen leuchtet.",
             "hu": "Esős reggel az Óvárosi Városházánál, ahol a vörös téglák csillognak a vízben. Délben a székesegyház nyújt menedéket a zápor elől. Délután a Chrobry-sétányon a szél és az eső az Oderát korbácsolja, de a látvány így is fenséges. Az estét a modern Filharmónia épületében zárjuk, amely fehéren világít a szürke szitálásban.",
             "ro": "O dimineață ploioasă la Primăria Veche, unde cărămizile roșii strălucesc în apă. La prânz, Catedrala oferă un adăpost liniștit împotriva averselor. După-amiaza, pe faleza Chrobry, vântul și ploaia biciuiesc Oderul, dar panorama rămâne impunătoare. Seara se încheie la Filarmonica modernă, care luminează alb prin burnița cenușie.",
-            "en": "A rainy morning at the Old Town Hall, with red bricks glistening in the wet light. At noon, the Cathedral provides a peaceful shelter from the showers. In the afternoon, the Chrobry Embankment is windy and misty, offering a moody view of the Oder. The evening ends at the futuristic Philharmonic, shining like an iceberg through the rain."
+            "en": "A rainy morning at the Old Town Hall, with red bricks glistening in the wet light. At noon, the Cathedral provides a peaceful shelter from the showers. In the afternoon, the Chrobry Embankment is windy and misty, offering a moody view of the Oder. The evening ends at the futuristic Philharmonic, shining like an iceberg through the rain.",
+            "pl": "Deszczowe poranne zwiedzanie Starego Ratusza — czerwone cegły błyszczą w mokrym świetle. W południe Katedra zapewnia spokojne schronienie przed opadami. Po południu Nabrzeże Chrobrego jest wietrzne i mgliste, oferując nastrojowy widok Odry. Wieczór kończy się przy futurystycznej Filharmonii, świecącej jak góra lodowa przez deszcz."
           },
           "stops": [
             {
@@ -372,7 +392,8 @@
                 "de": "Unter den Arkaden des Rathauses findet man Schutz vor plötzlichen Schauern.",
                 "hu": "A városháza árkádjai alatt védelmet találhatsz a hirtelen záporok elől.",
                 "ro": "Sub arcadele primăriei puteți găsi adăpost împotriva averselor bruște.",
-                "en": "Under the town hall arcades, you can find shelter from sudden showers."
+                "en": "Under the town hall arcades, you can find shelter from sudden showers.",
+                "pl": "Pod arkadami ratusza znajdziesz schronienie przed nagłymi ulewami."
               }
             },
             {
@@ -381,7 +402,8 @@
                 "de": "Nutzen Sie den Regen für eine ausführliche Innenbesichtigung der gotischen Hallen.",
                 "hu": "Használd ki az esőt a gótikus csarnokok alapos belső megtekintésére.",
                 "ro": "Folosiți ploaia pentru o vizită detaliată în interiorul halelor gotice.",
-                "en": "Use the rain as an excuse for a detailed indoor tour of the Gothic halls."
+                "en": "Use the rain as an excuse for a detailed indoor tour of the Gothic halls.",
+                "pl": "Wykorzystaj deszcz jako pretekst do dokładnego zwiedzania gotyckich sal w środku."
               }
             },
             {
@@ -390,7 +412,8 @@
                 "de": "Die Ausstellungen in den Schlossflügeln sind der perfekte Ort, um trocken zu bleiben.",
                 "hu": "A kastélyszárnyak kiállításai tökéletes helyszínek a szárazon maradáshoz.",
                 "ro": "Expozițiile din aripile castelului sunt locul perfect pentru a rămâne uscat.",
-                "en": "The exhibitions in the castle wings are the perfect place to stay dry."
+                "en": "The exhibitions in the castle wings are the perfect place to stay dry.",
+                "pl": "Wystawy w skrzydłach zamku to doskonałe miejsce, by pozostać suchym."
               }
             },
             {
@@ -399,7 +422,8 @@
                 "de": "Achtung, die Steinstufen können bei Nässe rutschig sein. Vorsichtig gehen.",
                 "hu": "Vigyázat, a kőlépcsők nedvesen csúszósak lehetnek. Közlekedj óvatosan.",
                 "ro": "Atenție, treptele de piatră pot fi alunecoase când sunt ude. Mergeți cu grijă.",
-                "en": "Caution, the stone steps can be slippery when wet. Walk carefully."
+                "en": "Caution, the stone steps can be slippery when wet. Walk carefully.",
+                "pl": "Uwaga — kamienne schody mogą być śliskie, gdy są mokre. Chodź ostrożnie."
               }
             },
             {
@@ -408,7 +432,8 @@
                 "de": "Genießen Sie die beeindruckende Akustik und das warme Interieur im Trockenen.",
                 "hu": "Élvezd a lenyűgöző akusztikát és a meleg belsőt a szárazban.",
                 "ro": "Bucurați-vă de acustica impresionantă și de interiorul cald la adăpost.",
-                "en": "Enjoy the impressive acoustics and warm interior while staying dry."
+                "en": "Enjoy the impressive acoustics and warm interior while staying dry.",
+                "pl": "Ciesz się imponującą akustyką i ciepłym wnętrzem, będąc suchym."
               }
             },
             {
@@ -417,7 +442,8 @@
                 "de": "Die umliegenden Cafés bieten einen guten Blick auf das Tor bei einer Tasse Tee.",
                 "hu": "A környező kávézók jó kilátást nyújtanak a kapura egy csésze tea mellett.",
                 "ro": "Cafenelele din jur oferă o priveliște bună asupra porții la o ceașcă de ceai.",
-                "en": "The surrounding cafes offer a good view of the gate over a cup of tea."
+                "en": "The surrounding cafes offer a good view of the gate over a cup of tea.",
+                "pl": "Okoliczne kawiarnie oferują dobry widok na bramę przy filiżance herbaty."
               }
             }
           ],
@@ -445,6 +471,12 @@
               "The 'Red Line' on the sidewalk can be slippery when wet.",
               "Szczecin has many passages and arcades in the center.",
               "Visit the underground shelters beneath the station during heavy rain."
+            ],
+            "pl": [
+              "Solidny parasol jest niezbędny z powodu wiatrów od Odry.",
+              "„Czerwona linia” na chodniku może być śliska, gdy jest mokra.",
+              "Szczecin ma wiele przejść i arkad w centrum.",
+              "Odwiedź podziemne schrony pod dworcem podczas intensywnych opadów deszczu."
             ]
           }
         },
@@ -453,7 +485,8 @@
             "de": "Frostiger Start am Rathaus, wo der Raureif die Fassade verziert. Mittags wärmt die spirituelle Atmosphäre der Kathedrale Körper und Geist. Am Nachmittag taucht die frühe Dämmerung das Schloss in ein festliches Licht. Der Tag endet vor der strahlend weißen Philharmonie, deren moderne Architektur im Winterlicht besonders scharf wirkt.",
             "hu": "Fagyos kezdés a városházánál, ahol a zúzmara díszíti a homlokzatot. Délben a székesegyház spirituális atmoszférája melegíti fel a testet és lelket. Délután a korai szürkület ünnepi fénybe öltözteti a kastélyt. A nap a ragyogó fehér Filharmónia előtt ér véget, melynek modern vonalai élesek a téli hidegben.",
             "ro": "Un început geros la primărie, unde chiciura împodobește fațada. La prânz, atmosfera spirituală a catedralei încălzește corpul și sufletul. După-amiaza, amurgul timpuriu îmbracă castelul într-o lumină festivă. Ziua se încheie în fața Filarmonicii albe, ale cărei linii moderne sunt clare în frigul iernii.",
-            "en": "A frosty start at the Town Hall, with hoarfrost decorating the facade. At noon, the spiritual atmosphere of the Cathedral warms both body and soul. In the afternoon, early dusk bathes the Castle in festive light. The day ends in front of the brilliant white Philharmonic, its modern lines sharp in the winter air."
+            "en": "A frosty start at the Town Hall, with hoarfrost decorating the facade. At noon, the spiritual atmosphere of the Cathedral warms both body and soul. In the afternoon, early dusk bathes the Castle in festive light. The day ends in front of the brilliant white Philharmonic, its modern lines sharp in the winter air.",
+            "pl": "Mroźny poranek przy Ratuszu, szron zdobiący fasadę. W południe duchowa atmosfera Katedry ogrzewa ciało i duszę. Po południu wczesny zmrok kąpie Zamek w świątecznym świetle. Dzień kończy się przed olśniewająco białą Filharmonią, jej nowoczesne linie ostre w zimowym powietrzu."
           },
           "stops": [
             {
@@ -462,7 +495,8 @@
                 "de": "Vorsicht vor vereisten Stellen auf dem Kopfsteinpflaster des Heumarktes.",
                 "hu": "Vigyázz a jeges foltokra a Széna piac macskakövein.",
                 "ro": "Atenție la porțiunile înghețate de pe pavajul pieței de fân.",
-                "en": "Watch out for icy patches on the cobblestones of the Hay Market."
+                "en": "Watch out for icy patches on the cobblestones of the Hay Market.",
+                "pl": "Uważaj na oblodzone fragmenty na brukowanych kamieniach Targu Siennego."
               }
             },
             {
@@ -471,7 +505,8 @@
                 "de": "Das Kircheninnere ist meist kühler als erwartet, behalten Sie den Mantel an.",
                 "hu": "A templombelső hűvösebb lehet a vártnál, maradj kabátban.",
                 "ro": "Interiorul bisericii este adesea mai rece decât vă așteptați, păstrați haina.",
-                "en": "The church interior is often cooler than expected, keep your coat on."
+                "en": "The church interior is often cooler than expected, keep your coat on.",
+                "pl": "Wnętrze kościoła jest często chłodniejsze niż się spodziewasz, zostań w płaszczu."
               }
             },
             {
@@ -480,7 +515,8 @@
                 "de": "Der Schlosshof ist im Winter oft wunderschön beleuchtet.",
                 "hu": "A kastély udvara télen gyakran gyönyörűen ki van világítva.",
                 "ro": "Curtea castelului este adesea luminată superb în timpul iernii.",
-                "en": "The castle courtyard is often beautifully illuminated in winter."
+                "en": "The castle courtyard is often beautifully illuminated in winter.",
+                "pl": "Dziedziniec zamkowy zimą często jest pięknie podświetlony."
               }
             },
             {
@@ -489,7 +525,8 @@
                 "de": "Der Wind vom Fluss ist im Winter beißend kalt. Mütze und Schal sind Pflicht.",
                 "hu": "A folyó felőli szél télen metsző. Sapka és sál kötelező.",
                 "ro": "Vântul de pe râu este tăios iarna. Căciula și fularul sunt obligatorii.",
-                "en": "The wind from the river is biting in winter. Hat and scarf are mandatory."
+                "en": "The wind from the river is biting in winter. Hat and scarf are mandatory.",
+                "pl": "Zimny wiatr znad rzeki jest przenikliwy zimą. Czapka i szalik obowiązkowe."
               }
             },
             {
@@ -498,7 +535,8 @@
                 "de": "Die weiße Fassade wirkt bei Schnee wie getarnt. Ein tolles Fotomotiv.",
                 "hu": "A fehér homlokzat hóban szinte beleolvad a környezetbe. Remek fotótéma.",
                 "ro": "Fațada albă pare camuflată în zăpadă. Un subiect excelent pentru fotografii.",
-                "en": "The white facade looks camouflaged in the snow. A great photo subject."
+                "en": "The white facade looks camouflaged in the snow. A great photo subject.",
+                "pl": "Biała fasada kamufluje się w śniegu. Świetny temat do zdjęć."
               }
             },
             {
@@ -507,7 +545,8 @@
                 "de": "Ein kurzer Stopp hier reicht, bevor man sich im nächsten Café aufwärmt.",
                 "hu": "Egy rövid megálló elég itt, mielőtt felmelegednél a közeli kávézóban.",
                 "ro": "O scurtă oprire aici este suficientă înainte de a vă încălzi la o cafenea.",
-                "en": "A quick stop here is enough before warming up in a nearby cafe."
+                "en": "A quick stop here is enough before warming up in a nearby cafe.",
+                "pl": "Krótki postój tutaj wystarczy przed rozgrzaniem się w pobliskiej kawiarni."
               }
             }
           ],
@@ -535,6 +574,12 @@
               "Wear sturdy boots with good grip for snowy paths.",
               "Hot tea or mulled wine near the castle will warm you up.",
               "Many museums close slightly earlier during the winter season."
+            ],
+            "pl": [
+              "Słońce zachodzi już o 16:00 w grudniu.",
+              "Noś solidne buty z dobrą przyczepnością na zaśnieżonych ścieżkach.",
+              "Gorąca herbata lub grzane wino przy zamku rozgrzeją cię.",
+              "Wiele muzeów zamyka się nieco wcześniej w sezonie zimowym."
             ]
           }
         }
@@ -553,7 +598,8 @@
             "de": "Berliner Tor",
             "hu": "Berlini kapu",
             "ro": "Poarta Berlinului",
-            "en": "Berlin Gate"
+            "en": "Berlin Gate",
+            "pl": "Brama Berlińska"
           },
           "coords": [
             14.545,
@@ -568,7 +614,8 @@
             "de": "Ein schneller Fotostopp zum Aufwärmen.",
             "hu": "Egy gyors fotómegálló bemelegítésként.",
             "ro": "O oprire foto rapidă pentru încălzire.",
-            "en": "A quick photo stop to warm up."
+            "en": "A quick photo stop to warm up.",
+            "pl": "Krótka sesja zdjęciowa, żeby się rozgrzać."
           }
         },
         {
@@ -576,7 +623,8 @@
             "de": "Altes Rathaus",
             "hu": "Régi Városháza",
             "ro": "Primăria Veche",
-            "en": "Old Town Hall"
+            "en": "Old Town Hall",
+            "pl": "Stary Ratusz"
           },
           "coords": [
             14.5575,
@@ -591,7 +639,8 @@
             "de": "Stellen Sie Ihr Fahrrad in der Nähe ab und erkunden Sie den Heumarkt.",
             "hu": "Parkolja le a biciklit a közelben, és fedezze fel a Széna-piacot.",
             "ro": "Parcați bicicleta în apropiere și explorați Piața de Fân.",
-            "en": "Park your bike nearby and explore the Hay Market square."
+            "en": "Park your bike nearby and explore the Hay Market square.",
+            "pl": "Zaplanuj postój roweru w pobliżu i zwiedź plac Targu Siennego."
           }
         },
         {
@@ -599,7 +648,8 @@
             "de": "Jakobskathedrale",
             "hu": "Szent Jakab-katedrális",
             "ro": "Catedrala Sf. Iacob",
-            "en": "St. James' Cathedral"
+            "en": "St. James' Cathedral",
+            "pl": "Katedra św. Jakuba"
           },
           "coords": [
             14.5545,
@@ -614,7 +664,8 @@
             "de": "Schließen Sie Ihr Fahrrad gut ab, bevor Sie den Turm besteigen.",
             "hu": "Zárja le jól a kerékpárját, mielőtt felmenne a toronyba.",
             "ro": "Legați-vă bine bicicleta înainte de a urca în turn.",
-            "en": "Lock your bike securely before climbing the tower."
+            "en": "Lock your bike securely before climbing the tower.",
+            "pl": "Zabezpiecz rower porządnym zamkiem przed wejściem na wieżę."
           }
         },
         {
@@ -622,7 +673,8 @@
             "de": "Schloss der Pommerschen Herzöge",
             "hu": "Pomerániai hercegek kastélya",
             "ro": "Castelul Ducilor Pomeranieni",
-            "en": "Pomeranian Dukes' Castle"
+            "en": "Pomeranian Dukes' Castle",
+            "pl": "Zamek Książąt Pomorskich"
           },
           "coords": [
             14.5583,
@@ -637,7 +689,8 @@
             "de": "Es gibt Fahrradständer im ersten Innenhof.",
             "hu": "Az első udvarban vannak kerékpártárolók.",
             "ro": "Există suporturi pentru biciclete în prima curte.",
-            "en": "There are bike racks in the first courtyard."
+            "en": "There are bike racks in the first courtyard.",
+            "pl": "W pierwszym dziedzińcu znajdują się stojaki na rowery."
           }
         },
         {
@@ -645,7 +698,8 @@
             "de": "Hakenterrasse (Wały Chrobrego)",
             "hu": "Hakenterrasse (Chrobry-sáncok)",
             "ro": "Terasa lui Hakon (Wały Chrobrego)",
-            "en": "Chrobry Embankment (Hakenterrasse)"
+            "en": "Chrobry Embankment (Hakenterrasse)",
+            "pl": "Wały Chrobrego (Hakenterrasse)"
           },
           "coords": [
             14.562,
@@ -660,7 +714,8 @@
             "de": "Perfekt für eine Mittagspause. Fahren Sie am Flussufer entlang.",
             "hu": "Tökéletes egy ebédszünethez. Tekerjen végig a folyóparton.",
             "ro": "Perfect pentru o pauză de prânz. Pedalați de-a lungul malului râului.",
-            "en": "Perfect for a lunch break. Cycle along the riverbank."
+            "en": "Perfect for a lunch break. Cycle along the riverbank.",
+            "pl": "Idealne miejsce na przerwę na lunch. Przejedź wzdłuż nabrzeża."
           }
         },
         {
@@ -668,7 +723,8 @@
             "de": "Bismarckturm",
             "hu": "Bismarck-torony",
             "ro": "Turnul Bismarck",
-            "en": "Bismarck Tower"
+            "en": "Bismarck Tower",
+            "pl": "Wieża Bismarcka"
           },
           "coords": [
             14.6,
@@ -683,7 +739,8 @@
             "de": "Die Fahrt bergauf ist eine kleine Herausforderung, aber die Aussicht belohnt Sie.",
             "hu": "Az út felfelé egy kis kihívás, de a kilátás kárpótol.",
             "ro": "Urcușul este o mică provocare, dar priveliștea vă va răsplăti.",
-            "en": "The uphill ride is a bit of a challenge, but the view is rewarding."
+            "en": "The uphill ride is a bit of a challenge, but the view is rewarding.",
+            "pl": "Podjazd pod górę to wyzwanie, ale widok wynagradza wysiłek."
           }
         },
         {
@@ -691,7 +748,8 @@
             "de": "Zentralfriedhof",
             "hu": "Központi temető",
             "ro": "Cimitirul Central",
-            "en": "Central Cemetery"
+            "en": "Central Cemetery",
+            "pl": "Cmentarz Centralny"
           },
           "coords": [
             14.51,
@@ -706,7 +764,8 @@
             "de": "Dieser riesige parkähnliche Friedhof ist ideal für eine lange, ruhige Radtour.",
             "hu": "Ez a hatalmas, parkszerű temető ideális egy hosszú, csendes biciklitúrához.",
             "ro": "Acest cimitir imens, asemănător unui parc, este ideal pentru o plimbare lungă și liniștită cu bicicleta.",
-            "en": "This huge park-like cemetery is ideal for a long, quiet bike ride."
+            "en": "This huge park-like cemetery is ideal for a long, quiet bike ride.",
+            "pl": "Ten ogromny, parkowy cmentarz jest idealny na długą, spokojną przejażdżkę rowerową."
           }
         }
       ],
@@ -714,7 +773,8 @@
         "de": "Beginnen Sie Ihre Radtour am Berliner Tor und radeln Sie ins Herz der Altstadt. Nach der Besichtigung von Rathaus, Kathedrale und Schloss genießen Sie eine Pause an der Hakenterrasse. Am Nachmittag erwartet Sie eine sportliche Herausforderung: die Fahrt zum Bismarckturm, die mit einer fantastischen Aussicht belohnt wird. Zum Abschluss des Tages radeln Sie durch die ruhigen Alleen des weitläufigen Zentralfriedhofs, einer Oase der Ruhe.",
         "hu": "Kezdje a biciklitúrát a Berlini kapunál, és tekerjen be az óváros szívébe. A városháza, a katedrális és a kastély megtekintése után élvezze a szünetet a Hakenterrasse-on. Délután sportos kihívás várja: a tekerés a Bismarck-toronyhoz, amit fantasztikus kilátás jutalmaz. A nap végén kerékpározzon végig a hatalmas Központi temető csendes fasorain, a nyugalom oázisában.",
         "ro": "Începeți turul cu bicicleta de la Poarta Berlinului și pedalați în inima Orașului Vechi. După ce vizitați Primăria, Catedrala și Castelul, bucurați-vă de o pauză la Terasa lui Hakon. După-amiaza vă așteaptă o provocare sportivă: urcarea la Turnul Bismarck, recompensată cu o priveliște fantastică. La sfârșitul zilei, pedalați pe aleile liniștite ale vastului Cimitir Central, o oază de pace.",
-        "en": "Start your bike tour at the Berlin Gate and cycle into the heart of the Old Town. After visiting the Town Hall, Cathedral, and Castle, enjoy a break at the Chrobry Embankment. In the afternoon, a sporty challenge awaits: the ride to the Bismarck Tower, rewarded with a fantastic view. At the end of the day, cycle through the quiet avenues of the vast Central Cemetery, an oasis of peace."
+        "en": "Start your bike tour at the Berlin Gate and cycle into the heart of the Old Town. After visiting the Town Hall, Cathedral, and Castle, enjoy a break at the Chrobry Embankment. In the afternoon, a sporty challenge awaits: the ride to the Bismarck Tower, rewarded with a fantastic view. At the end of the day, cycle through the quiet avenues of the vast Central Cemetery, an oasis of peace.",
+        "pl": "Rozpocznij wycieczkę rowerową przy Bramie Berlińskiej i wjedź w serce Starego Miasta. Po odwiedzeniu Ratusza, Katedry i Zamku zrób przerwę na Wałach Chrobrego. Po południu czeka sportowe wyzwanie: podjazd do Wieży Bismarcka, nagrodzony fantastycznym widokiem. Na koniec dnia przejedź alejami rozległego Cmentarza Centralnego, oazą spokoju."
       },
       "gastro_picks": {
         "de": [
@@ -910,6 +970,12 @@
           "Szczecin is relatively flat, but some bridges and the path to the Bismarck Tower require some effort.",
           "Use the well-developed cycle paths, especially along the river.",
           "A good lock is essential when you're visiting the sights."
+        ],
+        "pl": [
+          "Sprawdź ciśnienie w oponach przed wyruszeniem.",
+          "Szczecin jest stosunkowo płaski, ale niektóre mosty i droga do Wieży Bismarcka wymagają wysiłku.",
+          "Korzystaj z dobrze rozwiniętych ścieżek rowerowych, szczególnie wzdłuż rzeki.",
+          "Dobry zamek jest niezbędny podczas zwiedzania zabytków."
         ]
       },
       "variants": {
@@ -918,7 +984,8 @@
             "de": "Vom Berliner Tor geht es durch den Regen zum Rathaus. Die Reifen wirbeln Wasser auf, während wir die gotischen Kirchen passieren. Mittags bietet das Schloss eine Pause im Trockenen. Nachmittags führt die Fahrt am windigen Ufer entlang zum Bismarckturm, bevor wir die melancholische Stille des Hauptfriedhofs im Regen erleben.",
             "hu": "A Berlini kaputól esőben tekerünk a városháza felé. A kerekek verik fel a vizet a gótikus templomok mellett. Délben a kastély nyújt fedett pihenőt. Délután a szeles parton át a Bismarck-toronyhoz tekerünk, majd zárásként megtapasztaljuk a Központi temető melankolikus, esőáztatta csendjét.",
             "ro": "De la Poarta Berlinului pedalăm prin ploaie spre primărie. Roțile împroșcă apa pe lângă bisericile gotice. La prânz, castelul oferă un popas la adăpost. După-amiaza, drumul duce pe malul vântos spre Turnul Bismarck, terminând cu liniștea melancolică a Cimitirului Central sub ploaie.",
-            "en": "From the Berlin Gate, we cycle through the rain towards the Town Hall. Tires splash water as we pass Gothic churches. At noon, the Castle offers a dry break. In the afternoon, the ride leads along the windy embankment to the Bismarck Tower, ending with the melancholic silence of the Central Cemetery in the rain."
+            "en": "From the Berlin Gate, we cycle through the rain towards the Town Hall. Tires splash water as we pass Gothic churches. At noon, the Castle offers a dry break. In the afternoon, the ride leads along the windy embankment to the Bismarck Tower, ending with the melancholic silence of the Central Cemetery in the rain.",
+            "pl": "Z Bramy Berlińskiej jedziemy przez ulewny deszcz w kierunku Ratusza. Opony rozpryskują wodę mijając gotyckie kościoły. W południe Zamek daje suchą przerwę. Po południu trasa prowadzi wzdłuż wietrznego nabrzeża do Wieży Bismarcka, kończąc się melancholijną ciszą Cmentarza Centralnego w deszczu."
           },
           "stops": [
             {
@@ -927,7 +994,8 @@
                 "de": "Prüfen Sie Ihre Bremsen, bevor Sie auf nassen Asphalt starten.",
                 "hu": "Ellenőrizd a fékeket, mielőtt elindulsz a vizes aszfalton.",
                 "ro": "Verificați frânele înainte de a porni pe asfaltul ud.",
-                "en": "Check your brakes before starting on wet asphalt."
+                "en": "Check your brakes before starting on wet asphalt.",
+                "pl": "Sprawdź hamulce przed rozpoczęciem jazdy po mokrym asfalcie."
               }
             },
             {
@@ -936,7 +1004,8 @@
                 "de": "Vorsicht beim Abbiegen auf dem nassen Kopfsteinpflaster am Markt.",
                 "hu": "Vigyázz a kanyarodásnál a vizes macskakövön a piacon.",
                 "ro": "Atenție la viraje pe pavajul ud din piață.",
-                "en": "Be careful when turning on the wet cobblestones at the market."
+                "en": "Be careful when turning on the wet cobblestones at the market.",
+                "pl": "Uważaj przy skręcaniu na mokrych brukach na rynku."
               }
             },
             {
@@ -945,7 +1014,8 @@
                 "de": "Stellen Sie Ihr Rad unter einem Vorsprung ab, um den Sattel trocken zu halten.",
                 "hu": "Állítsd a biciklit egy eresz alá, hogy a nyereg száraz maradjon.",
                 "ro": "Parcați bicicleta sub o streașină pentru a păstra șaua uscată.",
-                "en": "Park your bike under a ledge to keep the saddle dry."
+                "en": "Park your bike under a ledge to keep the saddle dry.",
+                "pl": "Zaparkuj rower pod okapem, żeby siodełko pozostało suche."
               }
             },
             {
@@ -954,7 +1024,8 @@
                 "de": "Nutzen Sie den überdachten Innenhof für einen kurzen Check der Ausrüstung.",
                 "hu": "Használd a fedett belső udvart a felszerelés rövid ellenőrzésére.",
                 "ro": "Folosiți curtea interioară acoperită pentru o scurtă verificare a echipamentului.",
-                "en": "Use the covered courtyard for a quick equipment check."
+                "en": "Use the covered courtyard for a quick equipment check.",
+                "pl": "Skorzystaj z zadaszonego dziedzińca na szybkie sprawdzenie sprzętu."
               }
             },
             {
@@ -963,7 +1034,8 @@
                 "de": "Starker Seitenwind vom Fluss möglich. Lenker fest im Griff halten.",
                 "hu": "Erős oldalszél lehetséges a folyó felől. Tartsd erősen a kormányt.",
                 "ro": "Posibil vânt lateral puternic dinspre râu. Țineți bine ghidonul.",
-                "en": "Strong side winds from the river possible. Keep a firm grip on the handlebars."
+                "en": "Strong side winds from the river possible. Keep a firm grip on the handlebars.",
+                "pl": "Możliwe silne boczne wiatry znad rzeki. Trzymaj mocno kierownicę."
               }
             },
             {
@@ -972,7 +1044,8 @@
                 "de": "Der Weg zum Turm kann durch Pfützen und Schlamm etwas mühsam sein.",
                 "hu": "A toronyhoz vezető út tócsák és sár miatt nehézkes lehet.",
                 "ro": "Drumul spre turn poate fi anevoios din cauza bălților și a noroiului.",
-                "en": "The path to the tower can be tedious due to puddles and mud."
+                "en": "The path to the tower can be tedious due to puddles and mud.",
+                "pl": "Droga do wieży może być udręką z powodu kałuż i błota."
               }
             },
             {
@@ -981,7 +1054,8 @@
                 "de": "Die asphaltierten Hauptwege sind auch bei Regen gut befahrbar.",
                 "hu": "Az aszfaltozott főutak esőben is jól járhatóak biciklivel.",
                 "ro": "Aleile principale asfaltate sunt ușor de parcurs chiar și pe ploaie.",
-                "en": "The paved main paths are easily cyclable even in the rain."
+                "en": "The paved main paths are easily cyclable even in the rain.",
+                "pl": "Główne utwardzone ścieżki są łatwe do przejechania nawet w deszczu."
               }
             }
           ],
@@ -1009,6 +1083,12 @@
               "Watch out for tram tracks, they are extremely slippery when wet.",
               "Mudguards are indispensable in this weather.",
               "Plan shorter cycling segments with more indoor breaks."
+            ],
+            "pl": [
+              "Noś wodoodporną odzież i ochraniacze na buty.",
+              "Uważaj na tory tramwajowe, są wyjątkowo śliskie kiedy mokre.",
+              "Błotniki są nieodzowne w taką pogodę.",
+              "Planuj krótsze odcinki rowerowe z częstszymi przerwami w pomieszczeniach."
             ]
           }
         },
@@ -1017,7 +1097,8 @@
             "de": "Kalte Luft schlägt uns am Berliner Tor entgegen. Die Fahrt zum Rathaus ist kurz und knackig. In der Kathedrale finden wir Wärme. Nachmittags bewundern wir das Schloss und die gefrorene Oder an der Hakenterrasse. Der Bismarckturm wirkt einsam im Schnee, während der Hauptfriedhof wie ein verwunschener Winterwald unter unseren Reifen knirscht.",
             "hu": "Hideg levegő fogad a Berlini kapunál. A városházáig tartó út rövid és frissítő. A székesegyházban melegszünk fel. Délután a kastélyt és az Oderán lévő jégtáblákat csodáljuk a sétányról. A Bismarck-torony magányosan áll a hóban, míg a Központi temető elvarázsolt téli erdőként ropog a kerekeink alatt.",
             "ro": "Aerul rece ne întâmpină la Poarta Berlinului. Drumul spre primărie este scurt și revigorant. Ne încălzim în catedrală. După-amiaza admirăm castelul și sloiurile de gheață de pe Oder de pe faleză. Turnul Bismarck pare singuratic în zăpadă, în timp ce Cimitirul Central trosnește sub roți ca o pădure de iarnă vrăjită.",
-            "en": "Cold air hits us at the Berlin Gate. The ride to the Town Hall is short and brisk. We find warmth inside the Cathedral. In the afternoon, we admire the Castle and the frozen Oder from the Embankment. The Bismarck Tower stands lonely in the snow, while the Central Cemetery crunches under our tires like an enchanted winter forest."
+            "en": "Cold air hits us at the Berlin Gate. The ride to the Town Hall is short and brisk. We find warmth inside the Cathedral. In the afternoon, we admire the Castle and the frozen Oder from the Embankment. The Bismarck Tower stands lonely in the snow, while the Central Cemetery crunches under our tires like an enchanted winter forest.",
+            "pl": "Zimne powietrze uderza nas przy Bramie Berlińskiej. Przejazd do Ratusza jest krótki i rześki. W Katedrze znajdujemy ciepło. Po południu podziwiamy Zamek i zamarzniętą Odrę z Wałów. Wieża Bismarcka stoi samotna w śniegu, a Cmentarz Centralny skrzypi pod naszymi oponami jak zaczarowany zimowy las."
           },
           "stops": [
             {
@@ -1026,7 +1107,8 @@
                 "de": "Vermeiden Sie hastige Lenkbewegungen auf möglicherweise glattem Boden.",
                 "hu": "Kerüld a hirtelen kormánymozdulatokat az esetleg csúszós talajon.",
                 "ro": "Evitați mișcările bruște de ghidon pe solul care poate fi alunecos.",
-                "en": "Avoid sudden steering movements on potentially slippery ground."
+                "en": "Avoid sudden steering movements on potentially slippery ground.",
+                "pl": "Unikaj gwałtownych ruchów kierownicą na potencjalnie śliskim podłożu."
               }
             },
             {
@@ -1035,7 +1117,8 @@
                 "de": "Stellen Sie sicher, dass Ihr Schloss bei Frost nicht einfriert.",
                 "hu": "Győződj meg róla, hogy a lakatod nem fagy be a hidegben.",
                 "ro": "Asigurați-vă că antifurtul nu îngheață la temperaturi scăzute.",
-                "en": "Make sure your bike lock doesn't freeze in the frost."
+                "en": "Make sure your bike lock doesn't freeze in the frost.",
+                "pl": "Upewnij się, że zamek rowerowy nie zamarznie przy mrozie."
               }
             },
             {
@@ -1044,7 +1127,8 @@
                 "de": "Nutzen Sie die Zeit drinnen, um Ihre Finger wieder aufzuwärmen.",
                 "hu": "Használd a benti időt az ujjaid felmelegítésére.",
                 "ro": "Folosiți timpul petrecut în interior pentru a vă reîncălzi degetele.",
-                "en": "Use the time inside to warm up your fingers again."
+                "en": "Use the time inside to warm up your fingers again.",
+                "pl": "Wykorzystaj czas w środku, żeby rozgrzać palce ponownie."
               }
             },
             {
@@ -1053,7 +1137,8 @@
                 "de": "Der Schlosshof kann vereist sein. Schieben Sie das Rad gegebenenfalls.",
                 "hu": "A kastélyudvar jeges lehet. Szükség esetén told a biciklit.",
                 "ro": "Curtea castelului poate fi înghețată. Împingeți bicicleta dacă este necesar.",
-                "en": "The castle courtyard may be icy. Push your bike if necessary."
+                "en": "The castle courtyard may be icy. Push your bike if necessary.",
+                "pl": "Dziedziniec zamkowy może być oblodzony. W razie potrzeby prowadź rower."
               }
             },
             {
@@ -1062,7 +1147,8 @@
                 "de": "Der Fahrtwind ist hier besonders intensiv. Gesichtsschutz empfohlen.",
                 "hu": "A menetszél itt különösen erős. Arcvédő maszk ajánlott.",
                 "ro": "Vântul produs de deplasare este intens aici. Se recomandă protecție pentru față.",
-                "en": "The wind chill is particularly intense here. Face protection recommended."
+                "en": "The wind chill is particularly intense here. Face protection recommended.",
+                "pl": "Odczucie chłodu od wiatru jest tu szczególnie silne. Zalecana ochrona twarzy."
               }
             },
             {
@@ -1071,7 +1157,8 @@
                 "de": "Prüfen Sie vorab, ob die Wege zum Turm geräumt sind.",
                 "hu": "Ellenőrizd előre, hogy a toronyhoz vezető utak le vannak-e takarítva.",
                 "ro": "Verificați din timp dacă drumurile spre turn sunt deszăpezite.",
-                "en": "Check in advance if the paths to the tower are cleared of snow."
+                "en": "Check in advance if the paths to the tower are cleared of snow.",
+                "pl": "Sprawdź wcześniej, czy ścieżki do wieży są odśnieżone."
               }
             },
             {
@@ -1080,7 +1167,8 @@
                 "de": "Wunderschön verschneite Alleen, aber Vorsicht vor verborgenem Glatteis.",
                 "hu": "Gyönyörű havas fasorok, de vigyázz a hó alatti jégbordákkal.",
                 "ro": "Alei superbe înzăpezite, dar atenție la gheața ascunsă sub zăpadă.",
-                "en": "Beautiful snowy avenues, but watch out for hidden black ice."
+                "en": "Beautiful snowy avenues, but watch out for hidden black ice.",
+                "pl": "Piękne zaśnieżone aleje, ale uważaj na ukryty czarny lód."
               }
             }
           ],
@@ -1108,6 +1196,12 @@
               "Warm gloves and winter shoes are vital for survival.",
               "Watch out for frozen meltwater on the bike paths.",
               "Lower your tire pressure slightly for better grip on snow."
+            ],
+            "pl": [
+              "Światła obowiązkowe od 15:30 z powodu wcześniejszego zmroku.",
+              "Ciepłe rękawice i zimowe buty są niezbędne do przetrwania.",
+              "Uważaj na zamarznięte spływy roztopów na ścieżkach rowerowych.",
+              "Obniż nieco ciśnienie w oponach dla lepszej przyczepności na śniegu."
             ]
           }
         }
@@ -1126,7 +1220,8 @@
             "de": "Zentralfriedhof (Parkplatz)",
             "hu": "Központi temető (parkoló)",
             "ro": "Cimitirul Central (Parcare)",
-            "en": "Central Cemetery (Parking)"
+            "en": "Central Cemetery (Parking)",
+            "pl": "Cmentarz Centralny (parking)"
           },
           "coords": [
             14.51,
@@ -1142,7 +1237,8 @@
             "de": "Beginnen Sie den Tag in dieser ruhigen Oase. Parken Sie am Haupteingang.",
             "hu": "Kezdje a napot ebben a csendes oázisban. Parkoljon a főbejáratnál.",
             "ro": "Începeți ziua în această oază de liniște. Parcați la intrarea principală.",
-            "en": "Start the day in this peaceful oasis. Park at the main entrance."
+            "en": "Start the day in this peaceful oasis. Park at the main entrance.",
+            "pl": "Rozpocznij dzień w tej spokojnej oazie. Zaparkuj przy głównym wejściu."
           }
         },
         {
@@ -1150,7 +1246,8 @@
             "de": "Parkhaus Altstadt (z.B. Kaskada)",
             "hu": "Óvárosi parkolóház (pl. Kaskada)",
             "ro": "Parcare Centrul Vechi (ex. Kaskada)",
-            "en": "Old Town Parking (e.g., Kaskada)"
+            "en": "Old Town Parking (e.g., Kaskada)",
+            "pl": "Parking Starego Miasta (np. Kaskada)"
           },
           "coords": [
             14.5505,
@@ -1166,7 +1263,8 @@
             "de": "Parken Sie hier für den Rest des zentralen Rundgangs.",
             "hu": "Parkoljon itt a központi séta hátralévő részére.",
             "ro": "Parcați aici pentru restul turului central.",
-            "en": "Park here for the remainder of the central walking tour."
+            "en": "Park here for the remainder of the central walking tour.",
+            "pl": "Zaparkuj tutaj na czas trasy pieszej po centrum."
           }
         },
         {
@@ -1174,7 +1272,8 @@
             "de": "Altes Rathaus & Heumarkt",
             "hu": "Régi Városháza és Széna-piac",
             "ro": "Primăria Veche și Piața de Fân",
-            "en": "Old Town Hall & Hay Market"
+            "en": "Old Town Hall & Hay Market",
+            "pl": "Stary Ratusz i Targ Sienny"
           },
           "coords": [
             14.5575,
@@ -1190,7 +1289,8 @@
             "de": "Schlendern Sie über den Markt und genießen Sie ein frühes Mittagessen.",
             "hu": "Sétáljon át a piacon és ebédeljen korán.",
             "ro": "Plimbați-vă prin piață și luați un prânz timpuriu.",
-            "en": "Stroll through the market and have an early lunch."
+            "en": "Stroll through the market and have an early lunch.",
+            "pl": "Przejdź się po targu i zjedz wczesny lunch."
           }
         },
         {
@@ -1198,7 +1298,8 @@
             "de": "Schloss der Pommerschen Herzöge",
             "hu": "Pomerániai hercegek kastélya",
             "ro": "Castelul Ducilor Pomeranieni",
-            "en": "Pomeranian Dukes' Castle"
+            "en": "Pomeranian Dukes' Castle",
+            "pl": "Zamek Książąt Pomorskich"
           },
           "coords": [
             14.5583,
@@ -1214,7 +1315,8 @@
             "de": "Ein kurzer Spaziergang vom Rathaus. Erkunden Sie die Höfe.",
             "hu": "Rövid séta a Városházától. Fedezze fel az udvarokat.",
             "ro": "O scurtă plimbare de la Primărie. Explorați curțile.",
-            "en": "A short walk from the Town Hall. Explore the courtyards."
+            "en": "A short walk from the Town Hall. Explore the courtyards.",
+            "pl": "Krótki spacer od Ratusza. Zwiedź dziedzińce."
           }
         },
         {
@@ -1222,7 +1324,8 @@
             "de": "Hakenterrasse (Wały Chrobrego)",
             "hu": "Hakenterrasse (Chrobry-sáncok)",
             "ro": "Terasa lui Hakon (Wały Chrobrego)",
-            "en": "Chrobry Embankment (Hakenterrasse)"
+            "en": "Chrobry Embankment (Hakenterrasse)",
+            "pl": "Wały Chrobrego (Hakenterrasse)"
           },
           "coords": [
             14.562,
@@ -1238,7 +1341,8 @@
             "de": "Genießen Sie den Nachmittagsblick auf den Fluss, bevor Sie zum Auto zurückkehren.",
             "hu": "Élvezze a délutáni kilátást a folyóra, mielőtt visszatérne az autóhoz.",
             "ro": "Bucurați-vă de vederea de după-amiază a râului înainte de a vă întoarce la mașină.",
-            "en": "Enjoy the afternoon river view before heading back to the car."
+            "en": "Enjoy the afternoon river view before heading back to the car.",
+            "pl": "Ciesz się popołudniowym widokiem na rzekę przed powrotem do samochodu."
           }
         },
         {
@@ -1246,7 +1350,8 @@
             "de": "Bismarckturm",
             "hu": "Bismarck-torony",
             "ro": "Turnul Bismarck",
-            "en": "Bismarck Tower"
+            "en": "Bismarck Tower",
+            "pl": "Wieża Bismarcka"
           },
           "coords": [
             14.6,
@@ -1262,7 +1367,8 @@
             "de": "Fahren Sie zum Abschluss des Tages hierher für den Sonnenuntergangsblick.",
             "hu": "A nap végén vezessen ide a naplementéért.",
             "ro": "Conduceți aici la sfârșitul zilei pentru a vedea apusul.",
-            "en": "Drive here at the end of the day for the sunset view."
+            "en": "Drive here at the end of the day for the sunset view.",
+            "pl": "Przyjedź tutaj pod koniec dnia dla widoku zachodu słońca."
           }
         }
       ],
@@ -1270,7 +1376,8 @@
         "de": "Ihr Autotag beginnt unkonventionell im ruhigen Zentralfriedhof, einem riesigen Park. Nach einem Spaziergang fahren Sie ins Zentrum und parken in einem Parkhaus. Von dort erkunden Sie zu Fuß den historischen Kern: das Alte Rathaus, das Schloss der Herzöge und die prächtige Hakenterrasse, wo Sie zu Mittag essen. Am späten Nachmittag holen Sie Ihr Auto und fahren zum Bismarckturm, um den Tag mit einem Panoramablick über die Stadt bei Sonnenuntergang abzuschließen.",
         "hu": "Az autós nap szokatlanul kezdődik a csendes Központi temetőben, egy hatalmas parkban. Séta után hajtson be a központba, és parkoljon egy parkolóházban. Innen gyalog fedezze fel a történelmi magot: a Régi Városházát, a hercegi kastélyt és a csodálatos Hakenterrasse-t, ahol ebédelhet. Késő délután vegye fel az autót, és hajtson a Bismarck-toronyhoz, hogy a napot egy panorámás kilátással zárja a városra naplementekor.",
         "ro": "Ziua dvs. cu mașina începe neconvențional în liniștitul Cimitir Central, un parc imens. După o plimbare, conduceți spre centru și parcați într-o parcare supraetajată. De acolo explorați pe jos nucleul istoric: Primăria Veche, Castelul Ducilor și magnifica Terasă a lui Hakon, unde luați prânzul. Spre seară, vă recuperați mașina și conduceți la Turnul Bismarck pentru a încheia ziua cu o vedere panoramică a orașului la apus.",
-        "en": "Your car day begins unconventionally at the peaceful Central Cemetery, a vast park. After a stroll, drive to the center and park in a multi-story car park. From there, explore the historic core on foot: the Old Town Hall, the Dukes' Castle, and the magnificent Chrobry Embankment, where you'll have lunch. In the late afternoon, retrieve your car and drive to the Bismarck Tower to end the day with a panoramic sunset view over the city."
+        "en": "Your car day begins unconventionally at the peaceful Central Cemetery, a vast park. After a stroll, drive to the center and park in a multi-story car park. From there, explore the historic core on foot: the Old Town Hall, the Dukes' Castle, and the magnificent Chrobry Embankment, where you'll have lunch. In the late afternoon, retrieve your car and drive to the Bismarck Tower to end the day with a panoramic sunset view over the city.",
+        "pl": "Twój dzień samochodowy zaczyna się nietypowo przy spokojnym Cmentarzu Centralnym, rozległym parku. Po spacerze pojedź do centrum i zaparkuj w wielopoziomowym parkingu. Stamtąd zwiedź na piechotę historyczne centrum: Stary Ratusz, Zamek Książąt Pomorskich i wspaniałe Wały Chrobrego, gdzie zjesz lunch. Pod koniec popołudnia wróć do samochodu i pojedź do Wieży Bismarcka, by zakończyć dzień panoramicznym widokiem na zachód słońca nad miastem."
       },
       "gastro_picks": {
         "de": [
@@ -1466,6 +1573,12 @@
           "Traffic can be heavy in the city center during peak hours, plan accordingly.",
           "Do not leave valuables visible in the car.",
           "The cluster-walking method saves time on parking searches."
+        ],
+        "pl": [
+          "Sprawdź opłaty parkingowe w centralnych garażach; bilety dzienne mogą być tańsze.",
+          "Ruch w centrum może być duży w godzinach szczytu, zaplanuj to wcześniej.",
+          "Nie zostawiaj wartościowych przedmiotów na widoku w samochodzie.",
+          "Metoda skupionego zwiedzania oszczędza czas na szukanie parkingu."
         ]
       },
       "variants": {
@@ -1474,7 +1587,8 @@
             "de": "Vom Parkplatz am Friedhof fahren wir im prasselnden Regen zum Stadtzentrum. Mittags parken wir bequem im Kaskada und erkunden das Rathaus und den Heumarkt unter dem Schirm. Das Schloss bietet Schutz vor dem Nachmittagsguss. Die Hakenterrasse bewundern wir kurz vom Auto aus, bevor wir zum Bismarckturm in die nebligen Vororte aufbrechen.",
             "hu": "A temető melletti parkolóból az esőben hajtunk a belváros felé. Délben kényelmesen leparkolunk a Kaskadában, és ernyővel fedezzük fel a városházát. A kastély menedéket nyújt a délutáni zápor elől. A Chrobry-sétányt rövid ideig az autóból csodáljuk, majd elindulunk a Bismarck-toronyhoz a ködös külvárosba.",
             "ro": "De la parcarea cimitirului conducem prin ploaie spre centrul orașului. La prânz parcăm confortabil la Kaskada și explorăm primăria sub umbrelă. Castelul oferă adăpost împotriva aversei de după-amiază. Admirăm faleza Chrobry scurt din mașină, apoi plecăm spre Turnul Bismarck în suburbiile cețoase.",
-            "en": "From the cemetery parking, we drive through the pouring rain towards the city center. At noon, we park conveniently at Kaskada and explore the Town Hall under an umbrella. The castle provides shelter from the afternoon downpour. We briefly admire the Embankment from the car before heading to the Bismarck Tower in the misty suburbs."
+            "en": "From the cemetery parking, we drive through the pouring rain towards the city center. At noon, we park conveniently at Kaskada and explore the Town Hall under an umbrella. The castle provides shelter from the afternoon downpour. We briefly admire the Embankment from the car before heading to the Bismarck Tower in the misty suburbs.",
+            "pl": "Z parkingu przy cmentarzu jedziemy przez ulewny deszcz w stronę centrum. W południe parkujemy wygodnie przy Kaskadzie i zwiedzamy Ratusz pod parasolem. Zamek daje schronienie przed popołudniową ulewą. Krótko podziwiamy Wały Chrobrego z samochodu, zanim udamy się do Wieży Bismarcka na mglistych przedmieściach."
           },
           "stops": [
             {
@@ -1483,7 +1597,8 @@
                 "de": "Parken Sie nahe am Eingang, um den Weg im Regen kurzzuhalten.",
                 "hu": "Parkolj közel a bejárathoz, hogy esőben rövid legyen a séta.",
                 "ro": "Parcați aproape de intrare pentru a scurta drumul prin ploaie.",
-                "en": "Park close to the entrance to keep the walk in the rain short."
+                "en": "Park close to the entrance to keep the walk in the rain short.",
+                "pl": "Parkuj blisko wejścia, żeby skrócić spacer w deszczu."
               }
             },
             {
@@ -1492,7 +1607,8 @@
                 "de": "Ein trockenes Parkhaus ist der ideale Ausgangspunkt für die Innenstadt.",
                 "hu": "Egy száraz parkolóház ideális kiindulópont a belvároshoz.",
                 "ro": "O parcare acoperită este punctul de plecare ideal pentru centrul orașului.",
-                "en": "A dry parking garage is the ideal starting point for the city center."
+                "en": "A dry parking garage is the ideal starting point for the city center.",
+                "pl": "Suchy parking podziemny to idealny punkt startowy do centrum."
               }
             },
             {
@@ -1501,7 +1617,8 @@
                 "de": "Kurze Wege zwischen den historischen Gebäuden minimieren die Nässe.",
                 "hu": "A történelmi épületek közötti rövid távolságok miatt kevésbé ázol el.",
                 "ro": "Distanțele scurte între clădirile istorice minimizează expunerea la ploaie.",
-                "en": "Short distances between historic buildings minimize getting wet."
+                "en": "Short distances between historic buildings minimize getting wet.",
+                "pl": "Krótkie odległości między zabytkami minimalizują zmoknięcie."
               }
             },
             {
@@ -1510,7 +1627,8 @@
                 "de": "Nutzen Sie den Parkplatz direkt am Schlossberg für schnellen Zugang.",
                 "hu": "Használd a közvetlenül a várhegynél lévő parkolót a gyors bejutáshoz.",
                 "ro": "Folosiți parcarea de lângă dealul castelului pentru acces rapid.",
-                "en": "Use the parking lot right by the castle hill for quick access."
+                "en": "Use the parking lot right by the castle hill for quick access.",
+                "pl": "Skorzystaj z parkingu tuż przy wzgórzu zamkowym dla szybkiego dostępu."
               }
             },
             {
@@ -1519,7 +1637,8 @@
                 "de": "Genießen Sie den Blick auf den Hafen direkt aus dem warmen Auto.",
                 "hu": "Élvezd a kikötői kilátást közvetlenül a meleg autóból.",
                 "ro": "Bucurați-vă de vederea spre port direct din mașina caldă.",
-                "en": "Enjoy the harbor view directly from the warm car."
+                "en": "Enjoy the harbor view directly from the warm car.",
+                "pl": "Ciesz się widokiem portu prosto z ciepłego samochodu."
               }
             },
             {
@@ -1528,7 +1647,8 @@
                 "de": "Die Zufahrtsstraße kann bei starkem Regen schlammig sein.",
                 "hu": "A bekötőút heves esőzéskor sáros lehet.",
                 "ro": "Drumul de acces poate fi noroios în caz de ploaie torențială.",
-                "en": "The access road can be muddy during heavy rain."
+                "en": "The access road can be muddy during heavy rain.",
+                "pl": "Droga dojazdowa może być błotnista podczas ulewnych deszczy."
               }
             }
           ],
@@ -1556,6 +1676,12 @@
               "Ensure windshield wipers are in good condition.",
               "Parking garages like Kaskada or Galaxy offer car protection.",
               "Watch out for aquaplaning on larger arterial roads."
+            ],
+            "pl": [
+              "Włącz światła mijania przy słabej widoczności.",
+              "Upewnij się, że wycieraczki są w dobrym stanie.",
+              "Garaże takie jak Kaskada czy Galaxy oferują ochronę samochodu.",
+              "Uważaj na aquaplaning na większych arteriach."
             ]
           }
         },
@@ -1564,7 +1690,8 @@
             "de": "Frostiger Morgen am Friedhofsparkplatz, die Scheiben sind vereist. Durch die verschneite Stadt geht es zum Zentrum. Mittags wärmt der Bummel am Heumarkt, bevor wir das Schloss im Winterglanz besuchen. Nachmittags bietet die Hakenterrasse einen eisigen Blick auf die Oder. Der Tag endet am Bismarckturm, der wie ein steinerner Wächter im Schnee steht.",
             "hu": "Fagyos reggel a temető parkolójában, az ablakok jégvirágosak. A havas városon át hajtunk a központba. Délben a Széna piac környékén sétálunk, majd meglátogatjuk a téli pompában tündöklő kastélyt. Délután a Chrobry-sétányról jeges kilátás nyílik az Oderára. A nap a Bismarck-toronynál zárul, amely kőőrként áll a hóban.",
             "ro": "Dimineață geroasă în parcarea cimitirului, geamurile sunt înghețate. Conducem prin orașul înzăpezit spre centru. La prânz ne plimbăm prin piață, apoi vizităm castelul în splendoarea iernii. După-amiaza, faleza Chrobry oferă o priveliște înghețată asupra Oderului. Ziua se încheie la Turnul Bismarck, care stă ca un străjer de piatră în zăpadă.",
-            "en": "A frosty morning at the cemetery parking, with windows iced over. We drive through the snowy city to the center. At noon, we stroll around the Hay Market before visiting the Castle in its winter glory. In the afternoon, the Embankment offers an icy view of the Oder. The day ends at the Bismarck Tower, standing like a stone sentinel in the snow."
+            "en": "A frosty morning at the cemetery parking, with windows iced over. We drive through the snowy city to the center. At noon, we stroll around the Hay Market before visiting the Castle in its winter glory. In the afternoon, the Embankment offers an icy view of the Oder. The day ends at the Bismarck Tower, standing like a stone sentinel in the snow.",
+            "pl": "Mroźny poranek na parkingu cmentarza, z szybami oblodzonymi. Jedziemy przez zaśnieżone miasto do centrum. W południe spacerujemy po Targu Siennym przed odwiedzeniem Zamku w zimowej odsłonie. Po południu Wały oferują lodowaty widok na Odrę. Dzień kończy się przy Wieży Bismarcka stojącej jak kamienny strażnik w śniegu."
           },
           "stops": [
             {
@@ -1573,7 +1700,8 @@
                 "de": "Planen Sie Zeit zum Eiskratzen ein, bevor Sie losfahren.",
                 "hu": "Szánj időt a jégkaparásra indulás előtt.",
                 "ro": "Alocați timp pentru curățarea gheții înainte de a pleca.",
-                "en": "Plan time for ice scraping before you set off."
+                "en": "Plan time for ice scraping before you set off.",
+                "pl": "Zaplanuj czas na odskrobanie lodu z szyb przed wyruszeniem."
               }
             },
             {
@@ -1582,7 +1710,8 @@
                 "de": "Im Parkhaus taut das Auto auf und bleibt schneefrei.",
                 "hu": "A parkolóházban az autó felenged és hómentes marad.",
                 "ro": "În parcarea acoperită mașina se dezgheață și rămâne fără zăpadă.",
-                "en": "In the parking garage, the car thaws out and stays snow-free."
+                "en": "In the parking garage, the car thaws out and stays snow-free.",
+                "pl": "W garażu samochód odmarza i pozostaje wolny od śniegu."
               }
             },
             {
@@ -1591,7 +1720,8 @@
                 "de": "Das Kopfsteinpflaster kann bei Frost sehr glatt sein.",
                 "hu": "A macskakő fagyos időben nagyon csúszós lehet.",
                 "ro": "Pavajul poate fi foarte alunecos în caz de îngheț.",
-                "en": "The cobblestones can be very slippery during frost."
+                "en": "The cobblestones can be very slippery during frost.",
+                "pl": "Brukowane kamienie mogą być bardzo śliskie podczas przymrozku."
               }
             },
             {
@@ -1600,7 +1730,8 @@
                 "de": "Parken Sie vorsichtig an den Steigungen rund um das Schloss.",
                 "hu": "Parkolj óvatosan a kastély körüli emelkedőkön.",
                 "ro": "Parcați cu atenție pe pantele din jurul castelului.",
-                "en": "Park carefully on the inclines around the castle."
+                "en": "Park carefully on the inclines around the castle.",
+                "pl": "Parkuj ostrożnie na zboczach wokół zamku."
               }
             },
             {
@@ -1609,7 +1740,8 @@
                 "de": "Der Parkplatz direkt am Ufer ist oft sehr windig und exponiert.",
                 "hu": "A közvetlenül a parton lévő parkoló gyakran nagyon szeles.",
                 "ro": "Parcarea de pe mal este adesea foarte expusă vântului.",
-                "en": "The parking lot directly on the shore is often very windy and exposed."
+                "en": "The parking lot directly on the shore is often very windy and exposed.",
+                "pl": "Parking bezpośrednio nad brzegiem jest często bardzo wietrzny i odsłonięty."
               }
             },
             {
@@ -1618,7 +1750,8 @@
                 "de": "Die Straße zum Turm wird im Winter oft erst spät geräumt.",
                 "hu": "A toronyhoz vezető utat télen gyakran csak későn takarítják le.",
                 "ro": "Drumul spre turn este adesea deszăpezit mai târziu iarna.",
-                "en": "The road to the tower is often cleared late in winter."
+                "en": "The road to the tower is often cleared late in winter.",
+                "pl": "Droga do wieży bywa późno odśnieżana zimą."
               }
             }
           ],
@@ -1646,6 +1779,12 @@
               "Refill your antifreeze windshield washer fluid in time.",
               "Watch out for road salt which can smear the windshield.",
               "An ice scraper and a small broom are essential equipment."
+            ],
+            "pl": [
+              "Opony zimowe są obowiązkowe w Polsce podczas śniegu i gołoledzi.",
+              "Uzupełnij na czas płyn do spryskiwaczy z odmrażaczem.",
+              "Uważaj na sól drogową, która może rozmazywać szybę.",
+              "Skrobaczka do lodu i mała miotełka to niezbędne wyposażenie."
             ]
           }
         }
@@ -1664,7 +1803,8 @@
             "de": "Hauptbahnhof (Start)",
             "hu": "Főpályaudvar (indulás)",
             "ro": "Gara Centrală (Start)",
-            "en": "Main Station (Start)"
+            "en": "Main Station (Start)",
+            "pl": "Dworzec Główny (Start)"
           },
           "coords": [
             14.551,
@@ -1680,7 +1820,8 @@
             "de": "Kaufen Sie eine Tageskarte für den öffentlichen Nahverkehr.",
             "hu": "Vásároljon napijegyet a tömegközlekedéshez.",
             "ro": "Cumpărați un bilet de o zi pentru transportul public.",
-            "en": "Buy a day ticket for public transport."
+            "en": "Buy a day ticket for public transport.",
+            "pl": "Kup bilet dzienny na transport publiczny."
           }
         },
         {
@@ -1688,7 +1829,8 @@
             "de": "Haltestelle Brama Portowa (Berliner Tor)",
             "hu": "Brama Portowa megálló (Berlini kapu)",
             "ro": "Stația Brama Portowa (Poarta Berlinului)",
-            "en": "Brama Portowa Stop (Berlin Gate)"
+            "en": "Brama Portowa Stop (Berlin Gate)",
+            "pl": "Przystanek Brama Portowa (Berlin Gate)"
           },
           "coords": [
             14.5465,
@@ -1704,7 +1846,8 @@
             "de": "Cluster 1: Beginnen Sie hier Ihre Erkundung der Altstadt.",
             "hu": "1. klaszter: Kezdje itt az óváros felfedezését.",
             "ro": "Cluster 1: Începeți explorarea Orașului Vechi de aici.",
-            "en": "Cluster 1: Start your exploration of the Old Town here."
+            "en": "Cluster 1: Start your exploration of the Old Town here.",
+            "pl": "Klaster 1: Rozpocznij tutaj zwiedzanie Starego Miasta."
           }
         },
         {
@@ -1712,7 +1855,8 @@
             "de": "Altes Rathaus & Jakobskathedrale",
             "hu": "Régi Városháza és Szent Jakab-katedrális",
             "ro": "Primăria Veche și Catedrala Sf. Iacob",
-            "en": "Old Town Hall & St. James' Cathedral"
+            "en": "Old Town Hall & St. James' Cathedral",
+            "pl": "Ratusz i Katedra św. Jakuba"
           },
           "coords": [
             14.556,
@@ -1728,7 +1872,8 @@
             "de": "Diese beiden liegen nahe beieinander. Nehmen Sie sich Zeit für die Kathedrale.",
             "hu": "Ez a kettő közel van egymáshoz. Szánjon időt a katedrálisra.",
             "ro": "Aceste două sunt aproape una de cealaltă. Acordați-vă timp pentru catedrală.",
-            "en": "These two are close to each other. Take your time for the cathedral."
+            "en": "These two are close to each other. Take your time for the cathedral.",
+            "pl": "Oba obiekty są blisko siebie. Poświęć czas katedrze."
           }
         },
         {
@@ -1736,7 +1881,8 @@
             "de": "Schloss & Hakenterrasse",
             "hu": "Kastély és Hakenterrasse",
             "ro": "Castelul și Terasa lui Hakon",
-            "en": "Castle & Chrobry Embankment"
+            "en": "Castle & Chrobry Embankment",
+            "pl": "Zamek i Wały Chrobrego"
           },
           "coords": [
             14.56,
@@ -1752,7 +1898,8 @@
             "de": "Beenden Sie Ihren Rundgang durch die Altstadt mit einem Spaziergang am Flussufer.",
             "hu": "Fejezze be az óvárosi sétát egy folyóparti sétával.",
             "ro": "Încheiați turul Orașului Vechi cu o plimbare pe malul râului.",
-            "en": "End your Old Town tour with a walk along the riverbank."
+            "en": "End your Old Town tour with a walk along the riverbank.",
+            "pl": "Zakończ spacer po Starym Mieście spacerem nadbrzeżem."
           }
         },
         {
@@ -1760,7 +1907,8 @@
             "de": "Haltestelle Cmentarz Centralny (Zentralfriedhof)",
             "hu": "Cmentarz Centralny megálló (Központi temető)",
             "ro": "Stația Cmentarz Centralny (Cimitirul Central)",
-            "en": "Cmentarz Centralny Stop (Central Cemetery)"
+            "en": "Cmentarz Centralny Stop (Central Cemetery)",
+            "pl": "Przystanek Cmentarz Centralny (Central Cemetery)"
           },
           "coords": [
             14.512,
@@ -1776,7 +1924,8 @@
             "de": "Cluster 2: Nehmen Sie eine Straßenbahn (z.B. Linie 8) hierher. Der Friedhof ist riesig.",
             "hu": "2. klaszter: Menjen villamossal (pl. 8-as) ide. A temető hatalmas.",
             "ro": "Cluster 2: Luați un tramvai (de ex. linia 8) până aici. Cimitirul este imens.",
-            "en": "Cluster 2: Take a tram (e.g., line 8) here. The cemetery is huge."
+            "en": "Cluster 2: Take a tram (e.g., line 8) here. The cemetery is huge.",
+            "pl": "Klaster 2: Dojedź tramwajem (np. linią 8). Cmentarz jest ogromny."
           }
         },
         {
@@ -1784,7 +1933,8 @@
             "de": "Philharmonie",
             "hu": "Filharmónia",
             "ro": "Filarmonica",
-            "en": "Philharmonic"
+            "en": "Philharmonic",
+            "pl": "Filharmonia"
           },
           "coords": [
             14.5515,
@@ -1800,7 +1950,8 @@
             "de": "Cluster 3: Fahren Sie zurück ins Zentrum, um dieses architektonische Meisterwerk zu sehen.",
             "hu": "3. klaszter: Utazzon vissza a központba, hogy megnézze ezt az építészeti remekművet.",
             "ro": "Cluster 3: Întoarceți-vă în centru pentru a vedea această capodoperă arhitecturală.",
-            "en": "Cluster 3: Travel back to the center to see this architectural masterpiece."
+            "en": "Cluster 3: Travel back to the center to see this architectural masterpiece.",
+            "pl": "Klaster 3: Wróć do centrum, aby zobaczyć tę architektoniczną perłę."
           }
         }
       ],
@@ -1808,7 +1959,8 @@
         "de": "Mit einer Tageskarte starten Sie am Hauptbahnhof und fahren zum Berliner Tor, dem Startpunkt Ihres ersten Clusters. Zu Fuß erkunden Sie die Altstadt mit Rathaus, Kathedrale, Schloss und Hakenterrasse. Am frühen Nachmittag nehmen Sie die Straßenbahn zum zweiten Cluster: dem riesigen Zentralfriedhof, einer Parklandschaft. Nach einem ausgedehnten Spaziergang fahren Sie mit der Straßenbahn zurück ins Zentrum, um das dritte Cluster zu besuchen: die beeindruckende Philharmonie, besonders schön bei Dämmerung.",
         "hu": "Napijeggyel induljon a főpályaudvarról a Berlini kapuhoz, az első klaszter kiindulópontjához. Gyalog fedezze fel az óvárost: a városházát, a katedrálist, a kastélyt és a Hakenterrasse-t. Kora délután villamossal utazzon a második klaszterhez: a hatalmas, parkszerű Központi temetőhöz. Egy kiadós séta után villamossal térjen vissza a központba, hogy meglátogassa a harmadik klasztert: a lenyűgöző Filharmóniát, amely alkonyatkor különösen szép.",
         "ro": "Cu un bilet de o zi, porniți de la Gara Centrală spre Poarta Berlinului, punctul de plecare al primului cluster. Explorați pe jos Orașul Vechi cu Primăria, Catedrala, Castelul și Terasa lui Hakon. La începutul după-amiezii, luați tramvaiul spre al doilea cluster: imensul Cimitir Central, un peisaj de parc. După o plimbare lungă, luați tramvaiul înapoi în centru pentru a vizita al treilea cluster: impresionanta Filarmonică, deosebit de frumoasă la amurg.",
-        "en": "With a day ticket, start at the main station and travel to the Berlin Gate, the starting point of your first cluster. Explore the Old Town on foot, including the Town Hall, Cathedral, Castle, and Chrobry Embankment. In the early afternoon, take the tram to the second cluster: the vast Central Cemetery, a park-like landscape. After a long walk, take the tram back to the center to visit the third cluster: the impressive Philharmonic, especially beautiful at dusk."
+        "en": "With a day ticket, start at the main station and travel to the Berlin Gate, the starting point of your first cluster. Explore the Old Town on foot, including the Town Hall, Cathedral, Castle, and Chrobry Embankment. In the early afternoon, take the tram to the second cluster: the vast Central Cemetery, a park-like landscape. After a long walk, take the tram back to the center to visit the third cluster: the impressive Philharmonic, especially beautiful at dusk.",
+        "pl": "Z biletem dziennym zacznij na dworcu głównym i dojedź do Bramy Portowej, punktu startowego pierwszego klastra. Zwiedź Stare Miasto pieszo: ratusz, katedrę, zamek i Wały Chrobrego. Wczesnym popołudniem tramwajem udaj się do drugiego klastra: rozległego Cmentarza Centralnego, przypominającego park. Po długim spacerze wróć tramwajem do centrum, by odwiedzić trzeci klaster: imponującą Filharmonię, szczególnie piękną o zmierzchu."
       },
       "gastro_picks": {
         "de": [
@@ -2004,6 +2156,12 @@
           "Download a public transport app to track real-time departure times.",
           "Pay attention to the correct tram and bus numbers.",
           "Validate your ticket upon boarding to avoid fines."
+        ],
+        "pl": [
+          "Bilet dzienny to najprostsza i najtańsza opcja przy wielu przejazdach.",
+          "Pobierz aplikację transportu publicznego, aby śledzić odjazdy w czasie rzeczywistym.",
+          "Zwracaj uwagę na właściwe numery tramwajów i autobusów.",
+          "Skasuj bilet przy wsiadaniu, aby uniknąć mandatów."
         ]
       },
       "variants": {
@@ -2012,7 +2170,8 @@
             "de": "Vom Hauptbahnhof nehmen wir die Straßenbahn durch das regnerische Stettin. Mittags erreichen wir das Rathaus und die Kathedrale, während wir zwischen den Schauern von Halt zu Halt springen. Das Schloss bietet einen langen Aufenthalt im Trockenen. Nachmittags führt die Fahrt zum Friedhof, bevor wir den Abend trocken in der Philharmonie ausklingen lassen.",
             "hu": "A főpályaudvarról villamossal indulunk az esős Szczecinbe. Délben érjük el a városházát és a székesegyházat, a záporok között egyik megállótól a másikig osonva. A kastélyban hosszabb időt töltünk szárazon. Délután a temetőhöz utazunk, majd az estét a Filharmónia modern épületében fejezzük be.",
             "ro": "De la gara centrală luăm tramvaiul prin Szczecinul ploios. La prânz ajungem la primărie și catedrală, sărind de la o stație la alta între averse. Castelul oferă o ședere lungă la adăpost. După-amiaza drumul duce spre cimitir, iar seara se încheie în siguranță la Filarmonică.",
-            "en": "From the Main Station, we take the tram through rainy Szczecin. At noon, we reach the Town Hall and the Cathedral, hopping from stop to stop between showers. The castle offers a long indoor stay. In the afternoon, the journey leads to the cemetery before finishing the evening dry at the Philharmonic."
+            "en": "From the Main Station, we take the tram through rainy Szczecin. At noon, we reach the Town Hall and the Cathedral, hopping from stop to stop between showers. The castle offers a long indoor stay. In the afternoon, the journey leads to the cemetery before finishing the evening dry at the Philharmonic.",
+            "pl": "Z Dworca Głównego jedziemy tramwajem przez deszczowy Szczecin. W południe docieramy do Ratusza i Katedry, przeskakując z przystanku na przystanek między przelotnymi opadami. Zamek zapewnia dłuższy pobyt w środku. Po południu podróż prowadzi do cmentarza, a wieczór kończy się suchy w Filharmonii."
           },
           "stops": [
             {
@@ -2021,7 +2180,8 @@
                 "de": "Nutzen Sie den überdachten Bahnsteig, um trocken auf die Tram zu warten.",
                 "hu": "Használd a fedett peront, hogy szárazon várd a villamost.",
                 "ro": "Folosiți peronul acoperit pentru a aștepta tramvaiul la adăpost.",
-                "en": "Use the covered platform to wait for the tram in the dry."
+                "en": "Use the covered platform to wait for the tram in the dry.",
+                "pl": "Skorzystaj z zadaszonego peronu, by czekać na tramwaj w suchym miejscu."
               }
             },
             {
@@ -2030,7 +2190,8 @@
                 "de": "Ein wichtiger Knotenpunkt mit vielen Unterständen bei Regen.",
                 "hu": "Fontos csomópont sok fedett váróval eső esetére.",
                 "ro": "Un nod important cu multe adăposturi în caz de ploaie.",
-                "en": "An important hub with many shelters in case of rain."
+                "en": "An important hub with many shelters in case of rain.",
+                "pl": "Ważny węzeł z wieloma wiatami na wypadek deszczu."
               }
             },
             {
@@ -2039,7 +2200,8 @@
                 "de": "Der Fußweg von der Haltestelle ist kurz, ein Schirm reicht völlig.",
                 "hu": "A gyalogút a megállótól rövid, egy esernyő bőven elég.",
                 "ro": "Drumul pe jos de la stație este scurt, o umbrelă este suficientă.",
-                "en": "The walk from the stop is short, an umbrella is quite enough."
+                "en": "The walk from the stop is short, an umbrella is quite enough.",
+                "pl": "Spacer z przystanku jest krótki, wystarczy parasol."
               }
             },
             {
@@ -2048,7 +2210,8 @@
                 "de": "Die Tramhaltestelle liegt nah am Schloss, ideal bei schlechtem Wetter.",
                 "hu": "A villamosmegálló közel van a kastélyhoz, ideális rossz időben.",
                 "ro": "Stația de tramvai este aproape de castel, ideală pe vreme rea.",
-                "en": "The tram stop is close to the castle, ideal in bad weather."
+                "en": "The tram stop is close to the castle, ideal in bad weather.",
+                "pl": "Przystanek tramwajowy jest blisko zamku, idealny w złej pogodzie."
               }
             },
             {
@@ -2057,7 +2220,8 @@
                 "de": "Die Tram bringt Sie direkt zum Haupteingang, ohne nass zu werden.",
                 "hu": "A villamos közvetlenül a főbejárathoz visz, így nem ázol el.",
                 "ro": "Tramvaiul vă duce direct la intrarea principală, fără a vă uda.",
-                "en": "The tram takes you right to the main entrance without getting wet."
+                "en": "The tram takes you right to the main entrance without getting wet.",
+                "pl": "Tramwaj dowiezie cię prosto pod główne wejście, nie moknąc."
               }
             },
             {
@@ -2066,7 +2230,8 @@
                 "de": "Die Haltestelle befindet sich fast direkt vor dem Eingang.",
                 "hu": "A megálló szinte közvetlenül a bejárat előtt található.",
                 "ro": "Stația se află aproape direct în fața intrării.",
-                "en": "The stop is located almost directly in front of the entrance."
+                "en": "The stop is located almost directly in front of the entrance.",
+                "pl": "Przystanek znajduje się niemal bezpośrednio przed wejściem."
               }
             }
           ],
@@ -2094,6 +2259,12 @@
               "Wait in the glass-walled shelters at the stops.",
               "The trams are usually well-heated and offer protection from the wet.",
               "Check the schedule in real-time for any rain-related delays."
+            ],
+            "pl": [
+              "Kupuj bilety wygodnie przez aplikacje takie jak \"moBilet\" czy \"jakdojade\".",
+              "Czekaj w przeszklonych wiatkach na przystankach.",
+              "Tramwaje zazwyczaj są dobrze ogrzane i chronią przed wilgocią.",
+              "Sprawdź rozkład w czasie rzeczywistym na wypadek opóźnień związanych z deszczem."
             ]
           }
         },
@@ -2102,7 +2273,8 @@
             "de": "Vom Hauptbahnhof geht es im beheizten Bus durch das verschneite Stettin. Mittags erkunden wir das Zentrum rund um das Rathaus, wobei wir uns immer wieder in der Bahn aufwärmen. Das Schloss und die Hakenterrasse glänzen im Winterlicht. Nachmittags besuchen wir den märchenhaft verschneiten Friedhof, bevor die Philharmonie im Dunkeln weiß strahlt.",
             "hu": "A főpályaudvarról fűtött busszal vágunk át a havas Szczecinen. Délben a városháza környékét fedezzük fel, közben a járatokon melegszünk fel újra meg újra. A kastély és a sétány ragyog a téli fényben. Délután a meseszerűen havas temetőt látogatjuk meg, majd a Filharmónia fehér fénye zárja a napot.",
             "ro": "De la gara centrală trecem prin Szczecinul înzăpezit cu un autobuz încălzit. La prânz explorăm zona primăriei, încălzindu-ne periodic în mijloacele de transport. Castelul și faleza strălucesc în lumina iernii. După-amiaza vizităm cimitirul înzăpezit ca în basme, iar lumina albă a Filarmonicii încheie ziua.",
-            "en": "From the Main Station, we ride through snowy Szczecin in a heated bus. At noon, we explore the area around the Town Hall, warming up in the transit vehicles along the way. The Castle and Embankment glow in the winter light. In the afternoon, we visit the fairytale-like snowy cemetery before the Philharmonic shines white in the dark."
+            "en": "From the Main Station, we ride through snowy Szczecin in a heated bus. At noon, we explore the area around the Town Hall, warming up in the transit vehicles along the way. The Castle and Embankment glow in the winter light. In the afternoon, we visit the fairytale-like snowy cemetery before the Philharmonic shines white in the dark.",
+            "pl": "Z Dworca Głównego jedziemy przez zaśnieżony Szczecin w ogrzewanym autobusie. W południe zwiedzamy okolice Ratusza, ogrzewając się w pojazdach tranzytowych po drodze. Zamek i Wały Chrobrego błyszczą w zimowym świetle. Po południu odwiedzamy bajkowo zaśnieżony cmentarz, a Filharmonia kończy wieczór bielą w ciemności."
           },
           "stops": [
             {
@@ -2111,7 +2283,8 @@
                 "de": "Der Bahnhof bietet beheizte Wartesäle für längere Pausen.",
                 "hu": "A vasútállomás fűtött várótermeket kínál hosszabb pihenőkhöz.",
                 "ro": "Gara oferă săli de așteptare încălzite pentru pauze mai lungi.",
-                "en": "The station offers heated waiting rooms for longer breaks."
+                "en": "The station offers heated waiting rooms for longer breaks.",
+                "pl": "Na stacji są ogrzewane poczekalnie na dłuższe przerwy."
               }
             },
             {
@@ -2120,7 +2293,8 @@
                 "de": "Vorsicht beim Ein- und Aussteigen auf vereisten Bordsteinen.",
                 "hu": "Vigyázz a fel- és leszállásnál a jeges padkákon.",
                 "ro": "Atenție la urcare și coborâre pe bordurile înghețate.",
-                "en": "Be careful when getting on and off on icy curbs."
+                "en": "Be careful when getting on and off on icy curbs.",
+                "pl": "Uważaj przy wsiadaniu i wysiadaniu na oblodzonych krawężnikach."
               }
             },
             {
@@ -2129,7 +2303,8 @@
                 "de": "Die Bahnen fahren hier im Winter in dichten Abständen.",
                 "hu": "A járatok itt télen is sűrűn közlekednek.",
                 "ro": "Tramvaiele circulă frecvent aici chiar și iarna.",
-                "en": "Trams run frequently here even in the winter season."
+                "en": "Trams run frequently here even in the winter season.",
+                "pl": "Tramwaje kursują tu często nawet w sezonie zimowym."
               }
             },
             {
@@ -2138,7 +2313,8 @@
                 "de": "Die Wartezeit draußen sollte man so kurz wie möglich halten.",
                 "hu": "A kinti várakozási időt próbáld a lehető legrövidebbre fogni.",
                 "ro": "Încercați să mențineți timpul de așteptare afară cât mai scurt posibil.",
-                "en": "Try to keep the waiting time outside as short as possible."
+                "en": "Try to keep the waiting time outside as short as possible.",
+                "pl": "Staraj się skrócić czas oczekiwania na zewnątrz do minimum."
               }
             },
             {
@@ -2147,7 +2323,8 @@
                 "de": "Ein Besuch hier lohnt sich besonders bei frischem Neuschnee.",
                 "hu": "Egy látogatás itt különösen friss hóesés után éri meg.",
                 "ro": "O vizită aici merită mai ales după o ninsoare proaspătă.",
-                "en": "A visit here is especially worthwhile after fresh snowfall."
+                "en": "A visit here is especially worthwhile after fresh snowfall.",
+                "pl": "Wizyta tu jest szczególnie warta po świeżym opadzie śniegu."
               }
             },
             {
@@ -2156,7 +2333,8 @@
                 "de": "Die warme Lobby der Philharmonie ist ein Segen nach dem Winterspaziergang.",
                 "hu": "A Filharmónia meleg előcsarnoka áldás a téli séta után.",
                 "ro": "Lobby-ul cald al Filarmonicii este o binecuvântare după plimbarea de iarnă.",
-                "en": "The warm lobby of the Philharmonic is a blessing after a winter walk."
+                "en": "The warm lobby of the Philharmonic is a blessing after a winter walk.",
+                "pl": "Ciepłe lobby Filharmonii to błogosławieństwo po zimowym spacerze."
               }
             }
           ],
@@ -2184,6 +2362,12 @@
               "Watch out for modified schedules during extreme snowfall.",
               "Use Brama Portowa as a central, warm transfer point.",
               "The city's evening lights are best seen from the bus."
+            ],
+            "pl": [
+              "Ogrzewanie w tramwajach jest zwykle ustawione na maksimum zimą.",
+              "Uważaj na zmienione rozkłady podczas intensywnych opadów śniegu.",
+              "Wykorzystaj Bramę Portową jako centralny, ciepły punkt przesiadkowy.",
+              "Wieczorne iluminacje miasta najlepiej oglądać z autobusu."
             ]
           }
         }

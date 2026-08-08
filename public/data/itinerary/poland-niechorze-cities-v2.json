@@ -21,7 +21,8 @@
             "de": "St. Stanislaus Kirche",
             "hu": "Szent Szaniszló Templom",
             "ro": "Biserica Sf. Stanislav",
-            "en": "St. Stanislaus Church"
+            "en": "St. Stanislaus Church",
+            "pl": "Kościół św. Stanisława"
           },
           "coords": [
             15.080748,
@@ -36,7 +37,8 @@
             "de": "Bewundern Sie die moderne Architektur dieser Küstenkirche, die als spirituelles Zentrum dient, und prüfen Sie die Tafel auf abendliche Konzerttermine.",
             "hu": "Csodálja meg e tengerparti templom modern építészetét, amely a helyiek spirituális központja, és ellenőrizze az esti koncertek menetrendjét a táblán.",
             "ro": "Admirați arhitectura modernă a acestei biserici de coastă, inima spirituală a localnicilor, și verificați panoul pentru programul concertelor de seară.",
-            "en": "Admire the modern architecture of this coastal church, which serves as a spiritual heart for locals, and check the board for evening concert schedules."
+            "en": "Admire the modern architecture of this coastal church, which serves as a spiritual heart for locals, and check the board for evening concert schedules.",
+            "pl": "Podziwiaj nowoczesną architekturę tego nadmorskiego kościoła, będącego duchowym sercem lokalnej społeczności, i sprawdź tablicę z wieczornymi koncertami."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Historische Handpumpe",
             "hu": "Történelmi Kézi Pumpa",
             "ro": "Pompa Manuală Istorică",
-            "en": "Historic Hand Pump"
+            "en": "Historic Hand Pump",
+            "pl": "Historyczna ręczna pompa"
           },
           "coords": [
             15.077843,
@@ -59,7 +62,8 @@
             "de": "Entdecken Sie diese perfekt erhaltene historische Handpumpe auf einem Wagen, ein Zeugnis der Feuerwehrgeschichte, die morgens am besten zu fotografieren ist.",
             "hu": "Fedezze fel ezt a tökéletesen megőrzött történelmi kézi tűzoltópumpát, a múltbeli tűzoltás emlékét, amelyet a reggeli fényben érdemes lefotózni.",
             "ro": "Descoperiți această pompă manuală istorică pe un vagon, o dovadă a pompierilor din trecut, care merită fotografiată cel mai bine în lumina dimineții.",
-            "en": "Discover this perfectly preserved historic hand-pumped fire engine on a wagon, a testament to past firefighting, best photographed in the morning light."
+            "en": "Discover this perfectly preserved historic hand-pumped fire engine on a wagon, a testament to past firefighting, best photographed in the morning light.",
+            "pl": "Odkryj doskonale zachowaną zabytkową ręczną sikawkę pożarniczą na wozie, świadectwo dawnych działań gaśniczych, najlepiej fotografowaną o porannym świetle."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Seefischereimuseum",
             "hu": "Tengeri Halászati Múzeum",
             "ro": "Muzeul Pescuitului Maritim",
-            "en": "Sea Fishery Museum"
+            "en": "Sea Fishery Museum",
+            "pl": "Muzeum Rybołówstwa"
           },
           "coords": [
             15.086131,
@@ -82,7 +87,8 @@
             "de": "Erkunden Sie das reiche maritime Erbe durch authentische Fanggeräte und regionale Artefakte, aber fragen Sie das Personal unbedingt nach dem Audioguide.",
             "hu": "Fedezze fel a gazdag tengeri örökséget hiteles halászeszközök és regionális tárgyak révén, de ne felejtse el elkérni a személyzettől az interaktív audioguide-ot.",
             "ro": "Explorați bogata moștenire maritimă prin unelte de pescuit autentice, dar asigurați-vă că solicitați personalului ghidul audio interactiv pentru detalii.",
-            "en": "Explore the rich maritime heritage through authentic fishing gear and regional artifacts, but make sure to ask the staff for the interactive audio guide."
+            "en": "Explore the rich maritime heritage through authentic fishing gear and regional artifacts, but make sure to ask the staff for the interactive audio guide.",
+            "pl": "Poznaj bogate dziedzictwo morskie przez autentyczne narzędzia rybackie i regionalne artefakty, ale koniecznie poproś obsługę o interaktywny przewodnik audio."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Leuchtturm-Miniaturpark",
             "hu": "Világítótorony Miniatűr Park",
             "ro": "Parcul Miniaturilor Farurilor",
-            "en": "Miniature Lighthouse Park"
+            "en": "Miniature Lighthouse Park",
+            "pl": "Park Miniaturowych Latarni Morskich"
           },
           "coords": [
             15.067552,
@@ -105,7 +112,8 @@
             "de": "Spazieren Sie zwischen detailgetreuen 1:10-Modellen aller polnischen Leuchttürme, die einen einmaligen Überblick bieten, und kaufen Sie hier Kombitickets.",
             "hu": "Sétáljon az összes lengyel világítótorony részletes, 1:10 méretarányú modelljei között, és érdemes a bejáratnál kombinált jegyet vásárolni a túrához.",
             "ro": "Plimbați-vă printre machetele la scara 1:10 ale farurilor poloneze, oferind o perspectivă geografică unică, și cumpărați bilete combinate de la poartă.",
-            "en": "Walk among intricate 1:10 scale models of all Polish coastal lighthouses, providing a unique geographical overview, and buy combined tickets at the gate."
+            "en": "Walk among intricate 1:10 scale models of all Polish coastal lighthouses, providing a unique geographical overview, and buy combined tickets at the gate.",
+            "pl": "Spaceruj wśród misternych modeli latarni morskich w skali 1:10, oferujących unikatowy przegląd geograficzny, i kup bilety łączone przy bramie."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Leuchtturm Niechorze",
             "hu": "Niechorze Világítótorony",
             "ro": "Farul Niechorze",
-            "en": "Niechorze Lighthouse"
+            "en": "Niechorze Lighthouse",
+            "pl": "Latarnia Niechorze"
           },
           "coords": [
             15.063875,
@@ -128,7 +137,8 @@
             "de": "Erklimmen Sie die 200 Stufen dieses ikonischen Leuchtturms aus Backstein für einen atemberaubenden Ostseeblick, wobei bequeme Schuhe sehr zu empfehlen sind.",
             "hu": "Mássza meg a lenyűgöző tégla világítótorony 200 lépcsőfokát a lélegzetelállító balti-tengeri panorámáért, de kényelmes cipő viselése erősen ajánlott.",
             "ro": "Urcați cele 200 de trepte ale farului de cărămidă pentru vederi panoramice uluitoare la Marea Baltică, deși încălțămintea confortabilă este foarte recomandată.",
-            "en": "Climb the 200 steps of this iconic brick lighthouse for breathtaking panoramic views of the Baltic Sea, though wearing comfortable shoes is highly advised."
+            "en": "Climb the 200 steps of this iconic brick lighthouse for breathtaking panoramic views of the Baltic Sea, though wearing comfortable shoes is highly advised.",
+            "pl": "Wejdź po 200 stopniach tej ikonicznej ceglanej latarni dla zapierających dech w piersiach panoramicznych widoków na Morze Bałtyckie; zaleca się wygodne buty."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Wachsfigurenkabinett",
             "hu": "Viaszmúzeum",
             "ro": "Muzeul de Ceară",
-            "en": "Wax Museum"
+            "en": "Wax Museum",
+            "pl": "Muzeum Figur Woskowych"
           },
           "coords": [
             15.064742,
@@ -151,7 +162,8 @@
             "de": "Treffen Sie detaillierte Wachsfiguren von Prominenten und historischen Ikonen in dieser unterhaltsamen Halle, die sich perfekt für regnerische Tage eignet.",
             "hu": "Találkozzon hírességek és történelmi ikonok viaszfiguráival ebben a szórakoztató benti múzeumban, amely tökéletes esős napokra vagy családi fotózáshoz.",
             "ro": "Întâlniți figuri de ceară detaliate ale celebrităților în acest loc de divertisment acoperit, perfect pentru zilele ploioase sau pentru fotografii de familie.",
-            "en": "Meet incredibly detailed wax figures of celebrities and historical icons in this entertaining indoor venue, which is perfect for rainy days or family photos."
+            "en": "Meet incredibly detailed wax figures of celebrities and historical icons in this entertaining indoor venue, which is perfect for rainy days or family photos.",
+            "pl": "Spotkaj niezwykle szczegółowe figury woskowe celebrytów i postaci historycznych w tej rozrywkowej sali — idealne na deszczowe dni i zdjęcia rodzinne."
           }
         }
       ],
@@ -159,7 +171,8 @@
         "de": "Beginnen Sie Ihren Morgen in Niechorze im Stadtzentrum und genießen Sie die friedliche Küstenatmosphäre bei der örtlichen Kirche und der historischen Feuerwehrausstellung.\nTauchen Sie mittags im Fischereimuseum in die maritime Kultur ein, gefolgt von einem spannenden Spaziergang durch den berühmten Leuchtturm-Miniaturpark.\nErklimmen Sie am Nachmittag den echten, ikonischen Leuchtturm für spektakuläre Ausblicke auf die Ostsee und besuchen Sie danach das Wachsfigurenkabinett.\nBeenden Sie Ihren Tag in der Natur am ruhigen See Liwia Łuża oder entspannen Sie sich auf einem rustikalen Bauernhof vor einem ruhigen Abend am Meer.",
         "hu": "Kezdje a reggelt Niechorze központjában, átadva magát a békés tengerparti hangulatnak a helyi templomnál és a történelmi tűzoltóautó kiállításánál.\nDélben merüljön el a tengeri kultúrában a Halászati Múzeumban, majd tegyen egy izgalmas sétát a híres Világítótorony Miniatűr Parkban.\nA délután folyamán mássza meg az ikonikus igazi világítótornyot a látványos balti-tengeri panorámáért, majd látogasson el a szórakoztató viaszmúzeumba.\nZárja a napot a természettel való kapcsolódással a csendes Liwia Łuża tórezervátumban, vagy pihenjen egy falusias agroturisztikai helyszínen.",
         "ro": "Începeți dimineața în centrul orașului Niechorze, absorbind atmosfera pașnică de coastă la biserica locală și la expoziția mașinii istorice de pompieri.\nPână la prânz, scufundați-vă în cultura maritimă la Muzeul Pescuitului, urmat de o plimbare captivantă prin celebrul Parc al Farurilor în Miniatură.\nPe măsură ce după-amiaza se desfășoară, urcați pe farul emblematic pentru vederi spectaculoase la Marea Baltică, apoi vizitați muzeul de ceară.\nÎncheiați-vă ziua conectându-vă cu natura la rezervația lacului Liwia Łuża sau relaxându-vă într-un loc agroturistic rustic înainte de o seară liniștită.",
-        "en": "Start your morning in Niechorze exploring the town center, absorbing the peaceful coastal vibe at the local church and the quaint historic fire engine display.\nBy midday, dive into the maritime culture at the Fishery Museum, followed by an engaging stroll through the famous Miniature Lighthouse Park.\nAs the afternoon unfolds, challenge yourself to climb the iconic real lighthouse for spectacular Baltic views, then visit the entertaining wax museum.\nConclude your day connecting with nature at the serene Liwia Łuża lake reserve or relaxing in a rustic agrotourism spot before a quiet evening by the sea."
+        "en": "Start your morning in Niechorze exploring the town center, absorbing the peaceful coastal vibe at the local church and the quaint historic fire engine display.\nBy midday, dive into the maritime culture at the Fishery Museum, followed by an engaging stroll through the famous Miniature Lighthouse Park.\nAs the afternoon unfolds, challenge yourself to climb the iconic real lighthouse for spectacular Baltic views, then visit the entertaining wax museum.\nConclude your day connecting with nature at the serene Liwia Łuża lake reserve or relaxing in a rustic agrotourism spot before a quiet evening by the sea.",
+        "pl": "Zacznij poranek w Niechorzu, zwiedzając centrum miasteczka i chłonąc spokojny nadmorski klimat przy lokalnym kościele oraz przy uroczym zabytkowym wozie strażackim.\nW południe zanurz się w kulturze morskiej w Muzeum Rybołówstwa, po czym wybierz się na angażujący spacer przez słynny Park Miniaturowych Latarni Morskich.\nPopołudniu zmierz się ze wspinaczką na prawdziwą latarnię, by podziwiać spektakularne widoki na Bałtyk, a potem odwiedź rozrywkowe Muzeum Figur Woskowych.\nZakończ dzień kontaktem z przyrodą w spokojnym rezerwacie Liwia Łuża lub relaksem w rustykalnym agroturystycznym miejscu przed cichym wieczorem nad morzem."
       },
       "variants": {
         "rainy": {
@@ -167,7 +180,8 @@
             "de": "Der Vormittag beginnt geschützt in der St. Stanislaus Kirche, während der Regen gegen die Fenster trommelt. Ein kurzer, schneller Weg führt zur historischen Pumpe, bevor Sie im Fischereimuseum trockenere Stunden verbringen. Am Nachmittag trotzen wir dem Wetter im Miniaturenpark mit festem Schuhwerk. Den Tag lassen wir gemütlich und vollkommen wetterunabhängig im Wachsfigurenkabinett ausklingen.",
             "hu": "A délelőtt a Szent Szaniszló templom falai között indul, ahol védve vagyunk az égi áldástól. Egy gyors séta a kézi pumpához, majd a Halászati Múzeum kínál tartós menedéket a záporok elől. Délután a világítótornyok kicsinyített másait esernyő alatt is megcsodálhatjuk. A napot a Viaszmúzeum fedett és száraz termeiben fejezzük be, ahol az eső már egyáltalán nem zavarja az élményt.",
             "ro": "Dimineața începe la adăpost în Biserica Sf. Stanislav, feriți de stropii de ploaie. O scurtă plimbare până la pompa istorică, apoi Muzeul Pescuitului oferă refugiul perfect pentru orele umede. După-amiaza, explorăm parcul de miniaturi sub protecția umbrelei. Încheiem ziua într-un mod relaxant și complet uscat la Muzeul de Ceară, unde vremea de afară devine doar un decor îndepărtat.",
-            "en": "The morning starts sheltered inside St. Stanislaus Church while rain drums against the windows. A quick dash to the historic pump precedes a longer, dry stay at the Fishery Museum. In the afternoon, we explore the miniature park equipped with umbrellas and waterproof shoes. We conclude the day in the fully indoor Wax Museum, where the weather no longer affects our exploration."
+            "en": "The morning starts sheltered inside St. Stanislaus Church while rain drums against the windows. A quick dash to the historic pump precedes a longer, dry stay at the Fishery Museum. In the afternoon, we explore the miniature park equipped with umbrellas and waterproof shoes. We conclude the day in the fully indoor Wax Museum, where the weather no longer affects our exploration.",
+            "pl": "Poranek zaczyna się w schronionym wnętrzu Kościoła św. Stanisława, podczas gdy deszcz bębni o okna. Krótki przeskok do historycznej pompy poprzedza dłuższy, suchy pobyt w Muzeum Rybołówstwa. Po południu zwiedzamy park miniatur z parasolami i wodoodpornymi butami. Dzień kończymy w całkowicie wewnętrznym Muzeum Figur Woskowych, gdzie pogoda już nas nie dotyczy."
           },
           "stops": [
             {
@@ -175,13 +189,15 @@
                 "de": "St. Stanislaus Kirche",
                 "hu": "Szent Szaniszló Templom",
                 "ro": "Biserica Sf. Stanislav",
-                "en": "St. Stanislaus Church"
+                "en": "St. Stanislaus Church",
+                "pl": "Kościół św. Stanisława"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie die Architektur im trockenen Innenraum und nutzen Sie die Stille, um den heftigen Regenguss draußen für einen Moment zu vergessen.",
                 "hu": "Csodálja meg a belső építészetet a száraz belső térben, és használja ki a csendet, hogy egy pillanatra elfelejtse a kinti heves esőzést.",
                 "ro": "Admirați arhitectura în interiorul uscat și profitați de liniște pentru a uita pentru o clipă de ploaia torențială de afară, stând la adăpost.",
-                "en": "Admire the interior architecture in the dry sanctuary and use the silence to momentarily forget the heavy downpour outside while staying dry."
+                "en": "Admire the interior architecture in the dry sanctuary and use the silence to momentarily forget the heavy downpour outside while staying dry.",
+                "pl": "Podziwiaj wnętrze suchego sanktuarium i wykorzystaj ciszę, by na moment zapomnieć o ulewnym deszczu na zewnątrz, pozostając suchym."
               }
             },
             {
@@ -189,13 +205,15 @@
                 "de": "Historische Handpumpe",
                 "hu": "Történelmi Kézi Pumpa",
                 "ro": "Pompa Manuală Istorică",
-                "en": "Historic Hand Pump"
+                "en": "Historic Hand Pump",
+                "pl": "Historyczna ręczna pompa"
               },
               "tip_5lang": {
                 "de": "Ein sehr kurzer Stopp für ein Foto; halten Sie den Regenschirm fest, da der Wind an dieser ungeschützten Straßenecke oft kräftiger weht.",
                 "hu": "Egy villámgyors megálló egy fotóra; tartsa erősen az esernyőt, mert ezen a védtelen utcasarkon a szél gyakran erősebben fúj az esőben.",
                 "ro": "O oprire foarte scurtă pentru o fotografie; țineți bine umbrela, deoarece vântul suflă adesea mai tare la acest colț de stradă neprotejat.",
-                "en": "A very quick stop for a photo; hold your umbrella firmly as the wind often blows stronger at this unprotected street corner during rain."
+                "en": "A very quick stop for a photo; hold your umbrella firmly as the wind often blows stronger at this unprotected street corner during rain.",
+                "pl": "Bardzo krótki postój na zdjęcie; trzymaj mocno parasol — wiatr często wieje mocniej na tym nieosłoniętym rogu ulicy podczas deszczu."
               }
             },
             {
@@ -203,13 +221,15 @@
                 "de": "Seefischereimuseum",
                 "hu": "Tengeri Halászati Múzeum",
                 "ro": "Muzeul Pescuitului Maritim",
-                "en": "Sea Fishery Museum"
+                "en": "Sea Fishery Museum",
+                "pl": "Muzeum Rybołówstwa"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie die umfangreichen Ausstellungen im Innenbereich als idealen Rückzugsort, um die maritime Geschichte ganz ohne nasse Füße zu erkunden.",
                 "hu": "Használja ki a kiterjedt belső kiállításokat, mint ideális menedéket, hogy vizes lábak nélkül fedezze fel a tengeri halászat történelmét.",
                 "ro": "Profitați de expozițiile interioare extinse ca refugiu ideal pentru a explora istoria maritimă fără a vă uda deloc la picioare pe durata vizitei.",
-                "en": "Take advantage of the extensive indoor exhibits as an ideal retreat to explore maritime history without getting wet feet during the storm."
+                "en": "Take advantage of the extensive indoor exhibits as an ideal retreat to explore maritime history without getting wet feet during the storm.",
+                "pl": "Wykorzystaj obszerne ekspozycje wewnętrzne jako idealne schronienie, by poznawać historię morską bez zmoczonych stóp podczas burzy."
               }
             },
             {
@@ -217,13 +237,15 @@
                 "de": "Leuchtturm-Miniaturpark",
                 "hu": "Világítótorony Miniatűr Park",
                 "ro": "Parcul Miniaturilor Farurilor",
-                "en": "Miniature Lighthouse Park"
+                "en": "Miniature Lighthouse Park",
+                "pl": "Park Miniaturowych Latarni Morskich"
               },
               "tip_5lang": {
                 "de": "Die Wege können bei Nässe rutschig sein, daher ist festes Schuhwerk ratsam, während Sie die Miniaturen unter dem Schutz Ihres Regenschirms betrachten.",
                 "hu": "Az utak vizesen csúszósak lehetnek, ezért tanácsos stabil cipőt viselni, miközben az esernyője védelmében nézegeti a világítótorony maketteket.",
                 "ro": "Potecile pot fi alunecoase când sunt ude, așa că se recomandă încălțăminte stabilă în timp ce priviți machetele sub protecția umbrelei proprii.",
-                "en": "Paths can be slippery when wet, so stable footwear is advised while viewing the lighthouse miniatures under the protection of your umbrella."
+                "en": "Paths can be slippery when wet, so stable footwear is advised while viewing the lighthouse miniatures under the protection of your umbrella.",
+                "pl": "Ścieżki mogą być śliskie, gdy są mokre, więc zalecane jest stabilne obuwie podczas oglądania miniatur pod osłoną parasola."
               }
             },
             {
@@ -231,13 +253,15 @@
                 "de": "Leuchtturm Niechorze",
                 "hu": "Niechorze Világítótorony",
                 "ro": "Farul Niechorze",
-                "en": "Niechorze Lighthouse"
+                "en": "Niechorze Lighthouse",
+                "pl": "Latarnia Niechorze"
               },
               "tip_5lang": {
                 "de": "Der Aufstieg erfolgt im Trockenen, doch oben auf der Galerie sollten Sie sich auf peitschenden Regen und eine sehr windige Aussicht einstellen.",
                 "hu": "A feljutás száraz helyen történik, de fent a galérián készüljön fel a csapkodó esőre és a rendkívül szeles kilátásra a tenger felett.",
                 "ro": "Urcarea are loc la uscat, dar sus pe galerie trebuie să fiți pregătit pentru ploaia tăioasă și o priveliște foarte vântoasă peste mare.",
-                "en": "The climb takes place in the dry, but up on the gallery be prepared for lashing rain and a very windy view over the Baltic Sea coast."
+                "en": "The climb takes place in the dry, but up on the gallery be prepared for lashing rain and a very windy view over the Baltic Sea coast.",
+                "pl": "Wejście odbywa się w suchych warunkach, ale na galerii przygotuj się na ulewę i bardzo wietrzny widok na wybrzeże Bałtyku."
               }
             },
             {
@@ -245,13 +269,15 @@
                 "de": "Wachsfigurenkabinett",
                 "hu": "Viaszmúzeum",
                 "ro": "Muzeul de Ceară",
-                "en": "Wax Museum"
+                "en": "Wax Museum",
+                "pl": "Muzeum Figur Woskowych"
               },
               "tip_5lang": {
                 "de": "Der perfekte Ort, um den Tag gemütlich im Trockenen zu beenden; genießen Sie die detailreichen Figuren ganz ohne Sorge um das Wetter draußen.",
                 "hu": "Tökéletes hely a nap kellemes, száraz befejezéséhez; élvezze a részletgazdag figurákat anélkül, hogy aggódnia kellene a kinti barátságtalan idő miatt.",
                 "ro": "Locul perfect pentru a încheia ziua plăcut și la uscat; savurați figurile detaliate fără a vă face griji pentru vremea neprietenoasă de afară.",
-                "en": "The perfect place to end the day comfortably in the dry; enjoy the detailed figures without worrying about the unfriendly weather outside."
+                "en": "The perfect place to end the day comfortably in the dry; enjoy the detailed figures without worrying about the unfriendly weather outside.",
+                "pl": "Idealne miejsce na zakończenie dnia komfortowo i na sucho; ciesz się szczegółowymi figurami bez obaw o nieprzyjazną pogodę na zewnątrz."
               }
             }
           ]
@@ -261,7 +287,8 @@
             "de": "Ein frischer Wintermorgen beginnt an der St. Stanislaus Kirche, wo die klare Luft die Sinne belebt. Nach einem kurzen Halt an der alten Pumpe wärmen wir uns im Fischereimuseum auf. Der Nachmittag führt uns zum Leuchtturm, wobei wir die tiefstehende Wintersonne nutzen. Da es bereits gegen 17:00 Uhr dunkel wird, bietet das Wachsfigurenkabinett einen hellen und warmen Abschluss des Tages.",
             "hu": "A friss téli reggel a Szent Szaniszló templomnál indul, ahol a tiszta levegő felfrissít. A régi pumpa érintése után a Halászati Múzeumban melegedhetünk fel alaposan. Délután a világítótorony felé vesszük az irányt, kihasználva az alacsonyan járó téli nap sugarait. Mivel 17:00 körül már sötétedik, a Viaszmúzeum világos és meleg termei nyújtanak tökéletes zárást.",
             "ro": "O dimineață răcoroasă de iarnă începe la Biserica Sf. Stanislav, unde aerul curat revigorează simțurile. După o scurtă oprire la vechea pompă, ne încălzim bine în Muzeul Pescuitului. După-amiaza ne îndreptăm spre far, profitând de razele soarelui palid de iarnă. Deoarece se întunecă deja în jurul orei 17:00, Muzeul de Ceară oferă un final luminos și călduros.",
-            "en": "A crisp winter morning starts at St. Stanislaus Church, where the clear air refreshes the senses. After a quick stop at the old pump, we warm up inside the Fishery Museum. The afternoon leads us toward the lighthouse, making the most of the low winter sun. As it gets dark around 17:00, the Wax Museum provides a bright and warm conclusion to the day."
+            "en": "A crisp winter morning starts at St. Stanislaus Church, where the clear air refreshes the senses. After a quick stop at the old pump, we warm up inside the Fishery Museum. The afternoon leads us toward the lighthouse, making the most of the low winter sun. As it gets dark around 17:00, the Wax Museum provides a bright and warm conclusion to the day.",
+            "pl": "Rześki zimowy poranek zaczyna się w Kościele św. Stanisława, gdzie rześkie powietrze orzeźwia zmysły. Po krótkim postoju przy starej pompie rozgrzewamy się wewnątrz Muzeum Rybołówstwa. Popołudnie prowadzi nas w stronę latarni, korzystając z niskiego zimowego słońca. Gdy robi się ciemno około 17:00, Muzeum Figur Woskowych zapewnia jasne i ciepłe zakończenie dnia."
           },
           "stops": [
             {
@@ -269,13 +296,15 @@
                 "de": "St. Stanislaus Kirche",
                 "hu": "Szent Szaniszló Templom",
                 "ro": "Biserica Sf. Stanislav",
-                "en": "St. Stanislaus Church"
+                "en": "St. Stanislaus Church",
+                "pl": "Kościół św. Stanisława"
               },
               "tip_5lang": {
                 "de": "Die Kirche bietet einen windgeschützten Ort der Besinnung; achten Sie beim Verlassen auf eventuell vereiste Stufen im Eingangsbereich.",
                 "hu": "A templom szélvédett helyet kínál az elmélyüléshez; távozáskor ügyeljen az esetlegesen jeges lépcsőkre a bejárati részen a hidegben.",
                 "ro": "Biserica oferă un loc ferit de vânt pentru reflecție; la plecare, aveți grijă la treptele eventual înghețate de la intrare pe timp de ger.",
-                "en": "The church offers a wind-sheltered place for reflection; when leaving, watch out for potentially icy steps at the entrance in the cold."
+                "en": "The church offers a wind-sheltered place for reflection; when leaving, watch out for potentially icy steps at the entrance in the cold.",
+                "pl": "Kościół oferuje miejsce osłonięte od wiatru do refleksji; wychodząc uważaj na potencjalnie oblodzone stopnie przy wejściu."
               }
             },
             {
@@ -283,13 +312,15 @@
                 "de": "Historische Handpumpe",
                 "hu": "Történelmi Kézi Pumpa",
                 "ro": "Pompa Manuală Istorică",
-                "en": "Historic Hand Pump"
+                "en": "Historic Hand Pump",
+                "pl": "Historyczna ręczna pompa"
               },
               "tip_5lang": {
                 "de": "Berühren Sie das Metall der Pumpe im Winter lieber nur mit Handschuhen, um nicht an der eiskalten Oberfläche hängen zu bleiben.",
                 "hu": "A pumpa fém részeit télen inkább csak kesztyűben érintse meg, hogy ne ragadjon hozzá a keze a jéghideg felülethez a fagyban.",
                 "ro": "Atingeți părțile metalice ale pompei iarna mai degrabă doar cu mănuși, pentru a nu vă lipi mâna de suprafața înghețată în timpul gerului.",
-                "en": "Touch the metal parts of the pump in winter only with gloves to avoid your hands sticking to the ice-cold surface in the freezing cold."
+                "en": "Touch the metal parts of the pump in winter only with gloves to avoid your hands sticking to the ice-cold surface in the freezing cold.",
+                "pl": "Dotykaj metalowych części pompy zimą tylko w rękawiczkach, by uniknąć przyklejenia dłoni do lodowato zimnej powierzchni."
               }
             },
             {
@@ -297,13 +328,15 @@
                 "de": "Seefischereimuseum",
                 "hu": "Tengeri Halászati Múzeum",
                 "ro": "Muzeul Pescuitului Maritim",
-                "en": "Sea Fishery Museum"
+                "en": "Sea Fishery Museum",
+                "pl": "Muzeum Rybołówstwa"
               },
               "tip_5lang": {
                 "de": "Genießen Sie die gut beheizten Ausstellungsräume, um Ihre Glieder nach dem Spaziergang an der frischen Ostseeluft wieder aufzuwärmen.",
                 "hu": "Élvezze a jól fűtött kiállítótermeket, hogy alaposan átmelegítse tagjait a friss, sós tengeri levegőn tett séta után a téli napon.",
                 "ro": "Bucurați-vă de sălile de expoziție bine încălzite pentru a vă încălzi bine după plimbarea în aerul proaspăt și sărat al mării în zi de iarnă.",
-                "en": "Enjoy the well-heated exhibition rooms to thoroughly warm up your limbs after a walk in the fresh, salty sea air on a winter day."
+                "en": "Enjoy the well-heated exhibition rooms to thoroughly warm up your limbs after a walk in the fresh, salty sea air on a winter day.",
+                "pl": "Korzystaj z dobrze ogrzewanych sal wystawowych, aby dokładnie rozgrzać kończyny po spacerze w świeżym, słonym morskim powietrzu zimą."
               }
             },
             {
@@ -311,13 +344,15 @@
                 "de": "Leuchtturm-Miniaturpark",
                 "hu": "Világítótorony Miniatűr Park",
                 "ro": "Parcul Miniaturilor Farurilor",
-                "en": "Miniature Lighthouse Park"
+                "en": "Miniature Lighthouse Park",
+                "pl": "Park Miniaturowych Latarni Morskich"
               },
               "tip_5lang": {
                 "de": "Tragen Sie warme Kleidung, da die Besichtigung im Freien stattfindet; der Anblick der Mini-Leuchttürme im Winterlicht ist besonders charmant.",
                 "hu": "Viseljen meleg ruhát, mivel a látogatás a szabadban történik; a miniatűr világítótornyok látványa a téli fényben különösen bájos élmény.",
                 "ro": "Purtați haine groase, deoarece vizita are loc în aer liber; vederea miniaturilor de faruri în lumina iernii este o experiență fermecătoare.",
-                "en": "Wear warm clothing as the visit takes place outdoors; the sight of the miniature lighthouses in the winter light is especially charming."
+                "en": "Wear warm clothing as the visit takes place outdoors; the sight of the miniature lighthouses in the winter light is especially charming.",
+                "pl": "Ubierz się ciepło, bo zwiedzanie odbywa się na zewnątrz; widok miniaturowych latarni w zimowym świetle jest szczególnie urokliwy."
               }
             },
             {
@@ -325,13 +360,15 @@
                 "de": "Leuchtturm Niechorze",
                 "hu": "Niechorze Világítótorony",
                 "ro": "Farul Niechorze",
-                "en": "Niechorze Lighthouse"
+                "en": "Niechorze Lighthouse",
+                "pl": "Latarnia Niechorze"
               },
               "tip_5lang": {
                 "de": "Der Aufstieg wärmt auf, aber oben erwartet Sie ein eisiger Wind; eine windfeste Mütze ist für den Blick über die winterliche Ostsee unerlässlich.",
                 "hu": "A lépcsőzés felmelegít, de fent jeges szél várja; egy szélálló sapka elengedhetetlen a téli Balti-tenger feletti kilátáshoz a toronyból.",
                 "ro": "Urcarea vă va încălzi, dar sus vă așteaptă un vânt înghețat; o căciulă rezistentă la vânt este esențială pentru priveliștea peste mare.",
-                "en": "The climb warms you up, but an icy wind awaits at the top; a windproof hat is essential for the view over the winter Baltic Sea."
+                "en": "The climb warms you up, but an icy wind awaits at the top; a windproof hat is essential for the view over the winter Baltic Sea.",
+                "pl": "Wspinaczka rozgrzewa, ale na szczycie czeka lodowaty wiatr; niezbędna jest wiatroodporna czapka, by podziwiać widok na zimowy Bałtyk."
               }
             },
             {
@@ -339,13 +376,15 @@
                 "de": "Wachsfigurenkabinett",
                 "hu": "Viaszmúzeum",
                 "ro": "Muzeul de Ceară",
-                "en": "Wax Museum"
+                "en": "Wax Museum",
+                "pl": "Muzeum Figur Woskowych"
               },
               "tip_5lang": {
                 "de": "Beenden Sie Ihre Tour hier im Warmen, kurz bevor die Sonne untergeht, und genießen Sie die bunte Welt der Figuren im behaglichen Ambiente.",
                 "hu": "Fejezze be a túrát itt a melegben, éppen mielőtt lemegy a nap, és élvezze a figurák színes világát a barátságos, fűtött környezetben.",
                 "ro": "Încheiați turul aici la căldură, chiar înainte de apusul soarelui, și bucurați-vă de lumea colorată a figurilor în ambianța primitoare.",
-                "en": "End your tour here in the warmth, just before the sun sets, and enjoy the colorful world of figures in the cozy, heated environment."
+                "en": "End your tour here in the warmth, just before the sun sets, and enjoy the colorful world of figures in the cozy, heated environment.",
+                "pl": "Zakończ tu wycieczkę w cieple, tuż przed zachodem słońca, i ciesz się barwnym światem figur w przytulnym, ogrzewanym wnętrzu."
               }
             }
           ]
@@ -365,7 +404,8 @@
             "de": "Seefischereimuseum",
             "hu": "Tengeri Halászati Múzeum",
             "ro": "Muzeul Pescuitului Maritim",
-            "en": "Sea Fishery Museum"
+            "en": "Sea Fishery Museum",
+            "pl": "Muzeum Rybołówstwa"
           },
           "coords": [
             15.086131,
@@ -380,7 +420,8 @@
             "de": "Erkunden Sie das reiche maritime Erbe durch authentische Fanggeräte und regionale Artefakte, aber fragen Sie das Personal unbedingt nach dem Audioguide.",
             "hu": "Fedezze fel a gazdag tengeri örökséget hiteles halászeszközök és regionális tárgyak révén, de ne felejtse el elkérni a személyzettől az interaktív audioguide-ot.",
             "ro": "Explorați bogata moștenire maritimă prin unelte de pescuit autentice, dar asigurați-vă că solicitați personalului ghidul audio interactiv pentru detalii.",
-            "en": "Explore the rich maritime heritage through authentic fishing gear and regional artifacts, but make sure to ask the staff for the interactive audio guide."
+            "en": "Explore the rich maritime heritage through authentic fishing gear and regional artifacts, but make sure to ask the staff for the interactive audio guide.",
+            "pl": "Poznaj bogate dziedzictwo morskie przez autentyczne narzędzia rybackie i regionalne artefakty, ale koniecznie poproś obsługę o interaktywny przewodnik audio."
           }
         },
         {
@@ -388,7 +429,8 @@
             "de": "St. Stanislaus Kirche",
             "hu": "Szent Szaniszló Templom",
             "ro": "Biserica Sf. Stanislav",
-            "en": "St. Stanislaus Church"
+            "en": "St. Stanislaus Church",
+            "pl": "Kościół św. Stanisława"
           },
           "coords": [
             15.080748,
@@ -403,7 +445,8 @@
             "de": "Bewundern Sie die moderne Architektur dieser Küstenkirche, die als spirituelles Zentrum dient, und prüfen Sie die Tafel auf abendliche Konzerttermine.",
             "hu": "Csodálja meg e tengerparti templom modern építészetét, amely a helyiek spirituális központja, és ellenőrizze az esti koncertek menetrendjét a táblán.",
             "ro": "Admirați arhitectura modernă a acestei biserici de coastă, inima spirituală a localnicilor, și verificați panoul pentru programul concertelor de seară.",
-            "en": "Admire the modern architecture of this coastal church, which serves as a spiritual heart for locals, and check the board for evening concert schedules."
+            "en": "Admire the modern architecture of this coastal church, which serves as a spiritual heart for locals, and check the board for evening concert schedules.",
+            "pl": "Podziwiaj nowoczesną architekturę tego nadmorskiego kościoła, będącego duchowym sercem lokalnej społeczności, i sprawdź tablicę z wieczornymi koncertami."
           }
         },
         {
@@ -411,7 +454,8 @@
             "de": "Historische Handpumpe",
             "hu": "Történelmi Kézi Pumpa",
             "ro": "Pompa Manuală Istorică",
-            "en": "Historic Hand Pump"
+            "en": "Historic Hand Pump",
+            "pl": "Historyczna ręczna pompa"
           },
           "coords": [
             15.077843,
@@ -426,7 +470,8 @@
             "de": "Entdecken Sie diese perfekt erhaltene historische Handpumpe auf einem Wagen, ein Zeugnis der Feuerwehrgeschichte, die morgens am besten zu fotografieren ist.",
             "hu": "Fedezze fel ezt a tökéletesen megőrzött történelmi kézi tűzoltópumpát, a múltbeli tűzoltás emlékét, amelyet a reggeli fényben érdemes lefotózni.",
             "ro": "Descoperiți această pompă manuală istorică pe un vagon, o dovadă a pompierilor din trecut, care merită fotografiată cel mai bine în lumina dimineții.",
-            "en": "Discover this perfectly preserved historic hand-pumped fire engine on a wagon, a testament to past firefighting, best photographed in the morning light."
+            "en": "Discover this perfectly preserved historic hand-pumped fire engine on a wagon, a testament to past firefighting, best photographed in the morning light.",
+            "pl": "Odkryj doskonale zachowaną zabytkową ręczną sikawkę pożarniczą na wozie, świadectwo dawnych działań gaśniczych, najlepiej fotografowaną o porannym świetle."
           }
         },
         {
@@ -434,7 +479,8 @@
             "de": "Leuchtturm-Miniaturpark",
             "hu": "Világítótorony Miniatűr Park",
             "ro": "Parcul Miniaturilor Farurilor",
-            "en": "Miniature Lighthouse Park"
+            "en": "Miniature Lighthouse Park",
+            "pl": "Park Miniaturowych Latarni Morskich"
           },
           "coords": [
             15.067552,
@@ -449,7 +495,8 @@
             "de": "Spazieren Sie zwischen detailgetreuen 1:10-Modellen aller polnischen Leuchttürme, die einen einmaligen Überblick bieten, und kaufen Sie hier Kombitickets.",
             "hu": "Sétáljon az összes lengyel világítótorony részletes, 1:10 méretarányú modelljei között, és érdemes a bejáratnál kombinált jegyet vásárolni a túrához.",
             "ro": "Plimbați-vă printre machetele la scara 1:10 ale farurilor poloneze, oferind o perspectivă geografică unică, și cumpărați bilete combinate de la poartă.",
-            "en": "Walk among intricate 1:10 scale models of all Polish coastal lighthouses, providing a unique geographical overview, and buy combined tickets at the gate."
+            "en": "Walk among intricate 1:10 scale models of all Polish coastal lighthouses, providing a unique geographical overview, and buy combined tickets at the gate.",
+            "pl": "Spaceruj wśród misternych modeli latarni morskich w skali 1:10, oferujących unikatowy przegląd geograficzny, i kup bilety łączone przy bramie."
           }
         },
         {
@@ -457,7 +504,8 @@
             "de": "Leuchtturm Niechorze",
             "hu": "Niechorze Világítótorony",
             "ro": "Farul Niechorze",
-            "en": "Niechorze Lighthouse"
+            "en": "Niechorze Lighthouse",
+            "pl": "Latarnia Niechorze"
           },
           "coords": [
             15.063875,
@@ -472,7 +520,8 @@
             "de": "Erklimmen Sie die 200 Stufen dieses ikonischen Leuchtturms aus Backstein für einen atemberaubenden Ostseeblick, wobei bequeme Schuhe sehr zu empfehlen sind.",
             "hu": "Mássza meg a lenyűgöző tégla világítótorony 200 lépcsőfokát a lélegzetelállító balti-tengeri panorámáért, de kényelmes cipő viselése erősen ajánlott.",
             "ro": "Urcați cele 200 de trepte ale farului de cărămidă pentru vederi panoramice uluitoare la Marea Baltică, deși încălțămintea confortabilă este foarte recomandată.",
-            "en": "Climb the 200 steps of this iconic brick lighthouse for breathtaking panoramic views of the Baltic Sea, though wearing comfortable shoes is highly advised."
+            "en": "Climb the 200 steps of this iconic brick lighthouse for breathtaking panoramic views of the Baltic Sea, though wearing comfortable shoes is highly advised.",
+            "pl": "Wejdź po 200 stopniach tej ikonicznej ceglanej latarni dla zapierających dech w piersiach panoramicznych widoków na Morze Bałtyckie; zaleca się wygodne buty."
           }
         },
         {
@@ -480,7 +529,8 @@
             "de": "Naturschutzgebiet Liwia Łuża",
             "hu": "Liwia Łuża Természetvédelmi Terület",
             "ro": "Rezervația Liwia Łuża",
-            "en": "Liwia Łuża Nature Reserve"
+            "en": "Liwia Łuża Nature Reserve",
+            "pl": "Rezerwat przyrody Liwia Łuża"
           },
           "coords": [
             15.096819,
@@ -495,7 +545,8 @@
             "de": "Beobachten Sie seltene Zugvögel an diesem ruhigen Küstensee und Naturschutzgebiet, weshalb Sie bei Ihrem Besuch unbedingt ein Fernglas mitbringen sollten.",
             "hu": "Figyeljen meg ritka vándormadarakat ennél a nyugodt tengerparti tónál és természetvédelmi területnél, ezért mindenképpen hozzon távcsövet a látogatáshoz.",
             "ro": "Observați păsări migratoare rare la acest lac de coastă și rezervație naturală, fiind esențial să aduceți binoclu și soluție împotriva insectelor cu dumneavoastră.",
-            "en": "Observe rare migratory birds at this tranquil coastal lake and nature reserve, making it essential to bring binoculars and insect repellent during your visit."
+            "en": "Observe rare migratory birds at this tranquil coastal lake and nature reserve, making it essential to bring binoculars and insect repellent during your visit.",
+            "pl": "Obserwuj rzadkie ptaki migrujące przy tym spokojnym nadmorskim jeziorze i rezerwacie; warto zabrać ze sobą lornetkę i środek na owady."
           }
         },
         {
@@ -503,7 +554,8 @@
             "de": "Dziadkowizna Agrotourismus",
             "hu": "Dziadkowizna Agroturizmus",
             "ro": "Agroturism Dziadkowizna",
-            "en": "Dziadkowizna Agrotourism"
+            "en": "Dziadkowizna Agrotourism",
+            "pl": "Agroturystyka Dziadkowizna"
           },
           "coords": [
             15.104067,
@@ -518,7 +570,8 @@
             "de": "Entspannen Sie an diesem charmanten Agrotourismus-Ort, der das traditionelle Landleben zeigt, und wo Sie unbedingt die lokalen Honigprodukte probieren sollten.",
             "hu": "Pihenjen ebben a bájos agroturisztikai helyszínben, amely a hagyományos vidéki életet mutatja be, ahol érdemes megkóstolni a helyi méhészeti termékeket.",
             "ro": "Relaxați-vă în acest loc agroturistic fermecător care prezintă viața rurală tradițională, oferind un refugiu unde ar trebui să gustați produsele locale din miere.",
-            "en": "Relax in this charming agrotourism spot that showcases traditional rural life, offering a perfect rustic retreat where you should sample local honey products."
+            "en": "Relax in this charming agrotourism spot that showcases traditional rural life, offering a perfect rustic retreat where you should sample local honey products.",
+            "pl": "Zrelaksuj się w tej urokliwej agroturystyce pokazującej tradycyjne życie wiejskie; to idealne rustykalne miejsce na próbę lokalnych produktów z miodu."
           }
         }
       ],
@@ -526,7 +579,8 @@
         "de": "Beginnen Sie Ihren Morgen in Niechorze im Stadtzentrum und genießen Sie die friedliche Küstenatmosphäre bei der örtlichen Kirche und der historischen Feuerwehrausstellung.\nTauchen Sie mittags im Fischereimuseum in die maritime Kultur ein, gefolgt von einem spannenden Spaziergang durch den berühmten Leuchtturm-Miniaturpark.\nErklimmen Sie am Nachmittag den echten, ikonischen Leuchtturm für spektakuläre Ausblicke auf die Ostsee und besuchen Sie danach das Wachsfigurenkabinett.\nBeenden Sie Ihren Tag in der Natur am ruhigen See Liwia Łuża oder entspannen Sie sich auf einem rustikalen Bauernhof vor einem ruhigen Abend am Meer.",
         "hu": "Kezdje a reggelt Niechorze központjában, átadva magát a békés tengerparti hangulatnak a helyi templomnál és a történelmi tűzoltóautó kiállításánál.\nDélben merüljön el a tengeri kultúrában a Halászati Múzeumban, majd tegyen egy izgalmas sétát a híres Világítótorony Miniatűr Parkban.\nA délután folyamán mássza meg az ikonikus igazi világítótornyot a látványos balti-tengeri panorámáért, majd látogasson el a szórakoztató viaszmúzeumba.\nZárja a napot a természettel való kapcsolódással a csendes Liwia Łuża tórezervátumban, vagy pihenjen egy falusias agroturisztikai helyszínen.",
         "ro": "Începeți dimineața în centrul orașului Niechorze, absorbind atmosfera pașnică de coastă la biserica locală și la expoziția mașinii istorice de pompieri.\nPână la prânz, scufundați-vă în cultura maritimă la Muzeul Pescuitului, urmat de o plimbare captivantă prin celebrul Parc al Farurilor în Miniatură.\nPe măsură ce după-amiaza se desfășoară, urcați pe farul emblematic pentru vederi spectaculoase la Marea Baltică, apoi vizitați muzeul de ceară.\nÎncheiați-vă ziua conectându-vă cu natura la rezervația lacului Liwia Łuża sau relaxându-vă într-un loc agroturistic rustic înainte de o seară liniștită.",
-        "en": "Start your morning in Niechorze exploring the town center, absorbing the peaceful coastal vibe at the local church and the quaint historic fire engine display.\nBy midday, dive into the maritime culture at the Fishery Museum, followed by an engaging stroll through the famous Miniature Lighthouse Park.\nAs the afternoon unfolds, challenge yourself to climb the iconic real lighthouse for spectacular Baltic views, then visit the entertaining wax museum.\nConclude your day connecting with nature at the serene Liwia Łuża lake reserve or relaxing in a rustic agrotourism spot before a quiet evening by the sea."
+        "en": "Start your morning in Niechorze exploring the town center, absorbing the peaceful coastal vibe at the local church and the quaint historic fire engine display.\nBy midday, dive into the maritime culture at the Fishery Museum, followed by an engaging stroll through the famous Miniature Lighthouse Park.\nAs the afternoon unfolds, challenge yourself to climb the iconic real lighthouse for spectacular Baltic views, then visit the entertaining wax museum.\nConclude your day connecting with nature at the serene Liwia Łuża lake reserve or relaxing in a rustic agrotourism spot before a quiet evening by the sea.",
+        "pl": "Zacznij poranek w Niechorzu, zwiedzając centrum miasteczka i chłonąc spokojny nadmorski klimat przy lokalnym kościele oraz przy uroczym zabytkowym wozie strażackim.\nW południe zanurz się w kulturze morskiej w Muzeum Rybołówstwa, po czym wybierz się na angażujący spacer przez słynny Park Miniaturowych Latarni Morskich.\nPopołudniu zmierz się ze wspinaczką na prawdziwą latarnię, by podziwiać spektakularne widoki na Bałtyk, a potem odwiedź rozrywkowe Muzeum Figur Woskowych.\nZakończ dzień kontaktem z przyrodą w spokojnym rezerwacie Liwia Łuża lub relaksem w rustykalnym agroturystycznym miejscu przed cichym wieczorem nad morzem."
       },
       "variants": {
         "rainy": {
@@ -534,7 +588,8 @@
             "de": "Trotz Regen starten wir die Radtour am Fischereimuseum, wo wir die erste Schauer abwarten. Danach geht es zur Kirche und zur Pumpe, wobei wir auf die nassen Straßen achten. Mittags bietet der Miniaturenpark kleine Unterstände. Den Nachmittag verbringen wir am Leuchtturm und wagen eine feuchte Fahrt zum Naturschutzgebiet, bevor wir den Tag sicher in der Agrotouristik beenden.",
             "hu": "Az eső ellenére a kerékpártúrát a Halászati Múzeumnál kezdjük, ahol kivárhatjuk az első záport. Ezután a templom és a pumpa következik, ügyelve a vizes aszfaltra. Délben a Miniaturenpark kínál kisebb fedett részeket. Délután a világítótoronynál teszünk megállót, majd egy esős tekerés után a Liwia Łuża mentén, biztonságban zárjuk a napot az agroturizmusnál.",
             "ro": "În ciuda ploii, începem turul cu bicicleta la Muzeul Pescuitului, unde așteptăm să treacă prima aversă. Continuăm spre biserică și pompă, atenți la asfaltul ud. La prânz, parcul de miniaturi oferă mici adăposturi. După-amiaza o petrecem la far și ne aventurăm spre rezervație pe drumuri umede, înainte de a încheia ziua în siguranță la agroturism.",
-            "en": "Despite the rain, we start the bike tour at the Fishery Museum, where we can wait out the first shower. Then we proceed to the church and pump, paying attention to wet roads. At noon, the miniature park offers small shelters. In the afternoon, we stop at the lighthouse and venture on a damp ride to the nature reserve before safely ending the day at the agrotourism."
+            "en": "Despite the rain, we start the bike tour at the Fishery Museum, where we can wait out the first shower. Then we proceed to the church and pump, paying attention to wet roads. At noon, the miniature park offers small shelters. In the afternoon, we stop at the lighthouse and venture on a damp ride to the nature reserve before safely ending the day at the agrotourism.",
+            "pl": "Pomimo deszczu rozpoczynamy wycieczkę rowerową przy Muzeum Rybołówstwa, gdzie możemy przeczekać pierwszy opad. Następnie jedziemy do kościoła i pompy, zwracając uwagę na mokre drogi. W południe park miniatur oferuje małe wiaty. Po południu zatrzymujemy się przy latarni i ruszamy wilgotną trasą do rezerwatu przyrody, kończąc dzień bezpiecznie w agroturystyce."
           },
           "stops": [
             {
@@ -542,13 +597,15 @@
                 "de": "Seefischereimuseum",
                 "hu": "Tengeri Halászati Múzeum",
                 "ro": "Muzeul Pescuitului Maritim",
-                "en": "Sea Fishery Museum"
+                "en": "Sea Fishery Museum",
+                "pl": "Muzeum Rybołówstwa"
               },
               "tip_5lang": {
                 "de": "Ein idealer Ort, um das Fahrrad sicher abzustellen und die erste Regenhälfte im Trockenen zwischen historischen Fischerbooten zu verbringen.",
                 "hu": "Ideális hely a kerékpár biztonságos leállításához, és az első esős órák szárazon töltéséhez a történelmi halászhajók között a múzeumban.",
                 "ro": "Un loc ideal pentru a parca bicicleta în siguranță și pentru a petrece primele ore ploioase la uscat printre bărcile de pescuit istorice.",
-                "en": "An ideal place to safely park your bike and spend the first rainy hours in the dry among the historic fishing boats inside the museum."
+                "en": "An ideal place to safely park your bike and spend the first rainy hours in the dry among the historic fishing boats inside the museum.",
+                "pl": "Idealne miejsce, by bezpiecznie zaparkować rower i spędzić pierwsze deszczowe godziny w suchym otoczeniu wśród zabytkowych łodzi rybackich."
               }
             },
             {
@@ -556,13 +613,15 @@
                 "de": "St. Stanislaus Kirche",
                 "hu": "Szent Szaniszló Templom",
                 "ro": "Biserica Sf. Stanislav",
-                "en": "St. Stanislaus Church"
+                "en": "St. Stanislaus Church",
+                "pl": "Kościół św. Stanisława"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie den überdachten Eingangsbereich der Kirche, um die Regenjacke zu richten, bevor Sie die spirituelle Stille im Inneren genießen.",
                 "hu": "Használja ki a templom fedett bejárati részét az esőkabát igazítására, mielőtt belépne élvezni a belső tér spirituális nyugalmát.",
                 "ro": "Folosiți intrarea acoperită a bisericii pentru a vă ajusta pelerina de ploaie înainte de a intra să vă bucurați de liniștea spirituală.",
-                "en": "Use the covered entrance area of the church to adjust your raincoat before entering to enjoy the spiritual silence of the interior."
+                "en": "Use the covered entrance area of the church to adjust your raincoat before entering to enjoy the spiritual silence of the interior.",
+                "pl": "Skorzystaj z zadaszonego przedsionka kościoła, by dopasować pelerynę przeciwdeszczową przed wejściem i nacieszyć się duchową ciszą wnętrza."
               }
             },
             {
@@ -570,13 +629,15 @@
                 "de": "Historische Handpumpe",
                 "hu": "Történelmi Kézi Pumpa",
                 "ro": "Pompa Manuală Istorică",
-                "en": "Historic Hand Pump"
+                "en": "Historic Hand Pump",
+                "pl": "Historyczna ręczna pompa"
               },
               "tip_5lang": {
                 "de": "Vorsicht beim Bremsen auf dem nassen Kopfsteinpflaster rund um die Pumpe; ein kurzer Halt genügt bei diesem ungemütlichen Wetter.",
                 "hu": "Vigyázzon a fékezéssel a pumpa körüli vizes macskaköveken; ebben a barátságtalan időben egy rövid megálló is bőven elegendő itt.",
                 "ro": "Atenție la frânare pe pavajul ud din jurul pompei; o scurtă oprire este suficientă în această zonă neprotejată pe o astfel de vreme.",
-                "en": "Be careful when braking on the wet cobblestones around the pump; a short stop is sufficient in this unprotected area during bad weather."
+                "en": "Be careful when braking on the wet cobblestones around the pump; a short stop is sufficient in this unprotected area during bad weather.",
+                "pl": "Uważaj przy hamowaniu na mokrych kostkach brukowych wokół pompy; krótki postój wystarczy w tym nieosłoniętym miejscu podczas złej pogody."
               }
             },
             {
@@ -584,13 +645,15 @@
                 "de": "Leuchtturm-Miniaturpark",
                 "hu": "Világítótorony Miniatűr Park",
                 "ro": "Parcul Miniaturilor Farurilor",
-                "en": "Miniature Lighthouse Park"
+                "en": "Miniature Lighthouse Park",
+                "pl": "Park Miniaturowych Latarni Morskich"
               },
               "tip_5lang": {
                 "de": "Achten Sie auf Pfützen auf den Parkwegen und nutzen Sie die kleinen Pavillons, um während der Besichtigung kurz im Trockenen zu stehen.",
                 "hu": "Ügyeljen a tócsákra a park útjain, és használja a kis pavilonokat, hogy a látogatás során rövid ideig szárazon maradhasson a makettek mellett.",
                 "ro": "Aveți grijă la bălțile de pe aleile parcului și folosiți micile pavilioane pentru a sta la uscat pe durata vizitării machetelor de faruri.",
-                "en": "Watch out for puddles on the park paths and use the small pavilions to stay dry for a short while during your visit to the lighthouse models."
+                "en": "Watch out for puddles on the park paths and use the small pavilions to stay dry for a short while during your visit to the lighthouse models.",
+                "pl": "Uważaj na kałuże na alejkach parku i korzystaj z małych pawilonów, by na krótko pozostać suchym podczas zwiedzania modeli latarni."
               }
             },
             {
@@ -598,13 +661,15 @@
                 "de": "Leuchtturm Niechorze",
                 "hu": "Niechorze Világítótorony",
                 "ro": "Farul Niechorze",
-                "en": "Niechorze Lighthouse"
+                "en": "Niechorze Lighthouse",
+                "pl": "Latarnia Niechorze"
               },
               "tip_5lang": {
                 "de": "Stellen Sie Ihr Rad regengeschützt unter und genießen Sie den Aufstieg, der Sie vorübergehend vor dem nassen Wetter draußen bewahrt.",
                 "hu": "Állítsa le kerékpárját esőtől védett helyre, és élvezze a feljutást a toronyba, amely átmenetileg megóvja Önt a kinti nedves időjárástól.",
                 "ro": "Parcați bicicleta într-un loc ferit de ploaie și bucurați-vă de urcarea în far, care vă va proteja temporar de vremea umedă de afară.",
-                "en": "Park your bike in a rain-protected spot and enjoy the climb up the lighthouse, which temporarily shields you from the wet weather outside."
+                "en": "Park your bike in a rain-protected spot and enjoy the climb up the lighthouse, which temporarily shields you from the wet weather outside.",
+                "pl": "Zaparkuj rower w miejscu osłoniętym od deszczu i ciesz się wspinaczką na latarnię, która chwilowo osłoni cię od mokrej pogody na zewnątrz."
               }
             },
             {
@@ -612,13 +677,15 @@
                 "de": "Naturschutzgebiet Liwia Łuża",
                 "hu": "Liwia Łuża Természetvédelmi Terület",
                 "ro": "Rezervația Liwia Łuża",
-                "en": "Liwia Łuża Nature Reserve"
+                "en": "Liwia Łuża Nature Reserve",
+                "pl": "Rezerwat przyrody Liwia Łuża"
               },
               "tip_5lang": {
                 "de": "Die unbefestigten Wege können sehr schlammig und rutschig sein; fahren Sie langsam und achten Sie auf eine gute Bodenhaftung Ihrer Reifen.",
                 "hu": "A burkolatlan utak nagyon sárosak és csúszósak lehetnek; tekerjen lassan, és ügyeljen a gumiabroncsok megfelelő tapadására az esőben.",
                 "ro": "Potecile neasfaltate pot fi foarte noroioase și alunecoase; pedalați încet și aveți grijă la aderența anvelopelor pe durata ploii.",
-                "en": "The unpaved paths can be very muddy and slippery; cycle slowly and ensure good tire grip while exploring the reserve in the rain."
+                "en": "The unpaved paths can be very muddy and slippery; cycle slowly and ensure good tire grip while exploring the reserve in the rain.",
+                "pl": "Niejednokrotnie nieutwardzone ścieżki mogą być bardzo błotniste i śliskie; jedź powoli i zadbaj o dobrą przyczepność opon podczas zwiedzania rezerwatu w deszczu."
               }
             },
             {
@@ -626,13 +693,15 @@
                 "de": "Dziadkowizna Agrotourismus",
                 "hu": "Dziadkowizna Agroturizmus",
                 "ro": "Agroturism Dziadkowizna",
-                "en": "Dziadkowizna Agrotourism"
+                "en": "Dziadkowizna Agrotourism",
+                "pl": "Dziadkowizna Agroturystyka"
               },
               "tip_5lang": {
                 "de": "Der ideale Endpunkt, um nasse Kleidung zu trocknen und sich bei einem heißen Getränk von der regnerischen Radtour durch Niechorze zu erholen.",
                 "hu": "Ideális végpont a vizes ruhák megszárításához, és egy forró ital melletti pihenéshez a Niechorze körüli esős kerékpártúra fáradalmai után.",
                 "ro": "Punctul final ideal pentru a usca hainele ude și pentru a vă relaxa cu o băutură caldă după turul cu bicicleta prin ploaia din Niechorze.",
-                "en": "The ideal endpoint to dry wet clothes and relax with a hot drink after your rainy bike tour around Niechorze's coastal sights."
+                "en": "The ideal endpoint to dry wet clothes and relax with a hot drink after your rainy bike tour around Niechorze's coastal sights.",
+                "pl": "Idealne miejsce na wysuszenie mokrych ubrań i relaks przy gorącym napoju po deszczowej wycieczce rowerowej po nadmorskich atrakcjach Niechorza."
               }
             }
           ]
@@ -642,7 +711,8 @@
             "de": "Eine winterliche Radtour erfordert warme Handschuhe, während wir vom Fischereimuseum zur Kirche fahren. Die kühle Brise an der Pumpe macht die Fahrt erfrischend. Mittags bewundern wir den Miniaturenpark im fahlen Sonnenlicht. Am Nachmittag erklimmen wir den Leuchtturm für eine eisige Aussicht und radeln schnell durch das Naturschutzgebiet, bevor die Dämmerung gegen 17:00 Uhr einsetzt.",
             "hu": "A téli kerékpártúra meleg kesztyűt igényel, miközben a Halászati Múzeumtól a templomig tekerünk. A friss szellő a pumpánál üdítővé teszi az utat. Délben a Miniaturenparkot csodáljuk meg a bágyadt napsütésben. Délután megmásszuk a világítótornyot a jeges kilátásért, majd gyorsan áttekerünk a természetvédelmi területen, mielőtt 17:00 körül ránk sötétedik.",
             "ro": "Un tur de iarnă cu bicicleta necesită mănuși groase în timp ce pedalăm de la muzeu spre biserică. Briza rece de la pompă face drumul revigorant. La prânz, admirăm parcul de miniaturi în lumina palidă a soarelui. După-amiaza urcăm în far pentru o priveliște înghețată, apoi pedalăm rapid prin rezervație înainte de lăsarea serii la ora 17:00.",
-            "en": "A winter bike tour requires warm gloves as we cycle from the Fishery Museum to the church. The cool breeze at the pump makes the ride refreshing. At noon, we admire the miniature park in the pale sunlight. In the afternoon, we climb the lighthouse for an icy view and cycle quickly through the nature reserve before dusk sets in around 17:00."
+            "en": "A winter bike tour requires warm gloves as we cycle from the Fishery Museum to the church. The cool breeze at the pump makes the ride refreshing. At noon, we admire the miniature park in the pale sunlight. In the afternoon, we climb the lighthouse for an icy view and cycle quickly through the nature reserve before dusk sets in around 17:00.",
+            "pl": "Zimowa wycieczka rowerowa wymaga ciepłych rękawic — jedziemy od Muzeum Rybołówstwa do kościoła. Chłodny powiew przy pompie orzeźwia przejazd. W południe podziwiamy park miniatur w bladoróżowym świetle. Po południu wchodzimy na latarnię morską dla lodowatego widoku i szybko przejeżdżamy przez rezerwat przyrody, zanim zapadnie zmrok około 17:00."
           },
           "stops": [
             {
@@ -650,13 +720,15 @@
                 "de": "Seefischereimuseum",
                 "hu": "Tengeri Halászati Múzeum",
                 "ro": "Muzeul Pescuitului Maritim",
-                "en": "Sea Fishery Museum"
+                "en": "Sea Fishery Museum",
+                "pl": "Muzeum Rybołówstwa Morskiego"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie den Museumsbesuch zum Aufwärmen, bevor Sie sich wieder in den kalten Winterwind auf Ihr Fahrrad schwingen.",
                 "hu": "Használja ki a múzeumlátogatást az alapos felmelegedésre, mielőtt újra felpattanna a kerékpárjára a hideg téli szélben.",
                 "ro": "Profitați de vizita la muzeu pentru a vă încălzi bine înainte de a vă urca din nou pe bicicletă în vântul rece de iarnă.",
-                "en": "Take advantage of the museum visit to warm up thoroughly before getting back on your bike in the cold winter wind."
+                "en": "Take advantage of the museum visit to warm up thoroughly before getting back on your bike in the cold winter wind.",
+                "pl": "Wykorzystaj wizytę w muzeum, by dokładnie się ogrzać przed ponownym wsiadaniem na rower w zimnym wietrze."
               }
             },
             {
@@ -664,13 +736,15 @@
                 "de": "St. Stanislaus Kirche",
                 "hu": "Szent Szaniszló Templom",
                 "ro": "Biserica Sf. Stanislav",
-                "en": "St. Stanislaus Church"
+                "en": "St. Stanislaus Church",
+                "pl": "Kościół św. Stanisława"
               },
               "tip_5lang": {
                 "de": "Ein kurzer, besinnlicher Halt im geschützten Inneren hilft, die Kälte der Fahrt kurzzeitig zu vergessen und Energie zu tanken.",
                 "hu": "Egy rövid, elmélyült megálló a védett belső térben segít átmenetileg elfelejteni az út hidegét, és új energiával feltöltődni.",
                 "ro": "O scurtă oprire meditativă în interiorul protejat ajută la uitarea temporară a frigului de pe drum și la reîncărcarea cu energie.",
-                "en": "A short, contemplative stop in the sheltered interior helps to temporarily forget the cold of the ride and recharge your energy."
+                "en": "A short, contemplative stop in the sheltered interior helps to temporarily forget the cold of the ride and recharge your energy.",
+                "pl": "Krótki, kontemplacyjny przystanek w osłoniętym wnętrzu pozwala chwilowo zapomnieć o zimnie i naładować siły."
               }
             },
             {
@@ -678,13 +752,15 @@
                 "de": "Historische Handpumpe",
                 "hu": "Történelmi Kézi Pumpa",
                 "ro": "Pompa Manuală Istorică",
-                "en": "Historic Hand Pump"
+                "en": "Historic Hand Pump",
+                "pl": "Historyczna pompa ręczna"
               },
               "tip_5lang": {
                 "de": "Vorsicht vor gefrorener Nässe auf dem Pflaster; halten Sie nur kurz an, da der Fahrtwind bei Minusgraden schnell auskühlt.",
                 "hu": "Vigyázzon a köveken lévő fagyott nedvességre; csak rövid időre álljon meg, mert a menetszél fagypont alatt gyorsan lehűti a testét.",
                 "ro": "Atenție la umezeala înghețată de pe pavaj; opriți-vă doar pentru scurt timp, deoarece vântul de deplasare vă răcește repede corpul.",
-                "en": "Beware of frozen moisture on the pavement; stop only briefly as the wind chill quickly cools you down in freezing temperatures."
+                "en": "Beware of frozen moisture on the pavement; stop only briefly as the wind chill quickly cools you down in freezing temperatures.",
+                "pl": "Uważaj na zamarznięte wilgotne plamy na chodniku; zatrzymuj się tylko na krótko, bo chłodny wiatr szybko cię wychładza w mrozie."
               }
             },
             {
@@ -692,13 +768,15 @@
                 "de": "Leuchtturm-Miniaturpark",
                 "hu": "Világítótorony Miniatűr Park",
                 "ro": "Parcul Miniaturilor Farurilor",
-                "en": "Miniature Lighthouse Park"
+                "en": "Miniature Lighthouse Park",
+                "pl": "Park Miniaturowych Latarni Morskich"
               },
               "tip_5lang": {
                 "de": "Die klaren Wintertage bieten exzellente Sichtverhältnisse für Fotos der Miniaturen; bewegen Sie sich viel, um nicht auszukühlen.",
                 "hu": "A tiszta téli napok kiváló látási viszonyokat biztosítanak a makettek fotózásához; mozogjon sokat, hogy ne hűljön ki a nézelődés közben.",
                 "ro": "Zilele senine de iarnă oferă condiții de vizibilitate excelente pentru fotografierea machetelor; mișcați-vă mult pentru a nu vă răci.",
-                "en": "Clear winter days offer excellent visibility for photographing the miniatures; keep moving to stay warm while looking around the park."
+                "en": "Clear winter days offer excellent visibility for photographing the miniatures; keep moving to stay warm while looking around the park.",
+                "pl": "W pogodny zimowy dzień widoczność do fotografowania miniatur jest znakomita; ruszaj się, by się rozgrzać podczas zwiedzania parku."
               }
             },
             {
@@ -706,13 +784,15 @@
                 "de": "Leuchtturm Niechorze",
                 "hu": "Niechorze Világítótorony",
                 "ro": "Farul Niechorze",
-                "en": "Niechorze Lighthouse"
+                "en": "Niechorze Lighthouse",
+                "pl": "Latarnia Morska w Niechorzu"
               },
               "tip_5lang": {
                 "de": "Schließen Sie Ihre Jacke fest vor dem Betreten der Aussichtsplattform, da der Wind in dieser Höhe im Winter extrem schneidend sein kann.",
                 "hu": "Gombolja be jól a kabátját, mielőtt kilépne a kilátóplatformra, mert a szél ebben a magasságban télen rendkívül metsző tud lenni.",
                 "ro": "Încheiați-vă bine haina înainte de a ieși pe platforma de observație, deoarece vântul la această înălțime poate fi extrem de tăios iarna.",
-                "en": "Button up your coat tightly before stepping onto the observation platform, as the wind at this height can be extremely biting in winter."
+                "en": "Button up your coat tightly before stepping onto the observation platform, as the wind at this height can be extremely biting in winter.",
+                "pl": "Zapinaj płaszcz mocno zanim wejdziesz na taras widokowy — wiatr na tej wysokości może zimą bardzo szczypać."
               }
             },
             {
@@ -720,13 +800,15 @@
                 "de": "Naturschutzgebiet Liwia Łuża",
                 "hu": "Liwia Łuża Természetvédelmi Terület",
                 "ro": "Rezervația Liwia Łuża",
-                "en": "Liwia Łuża Nature Reserve"
+                "en": "Liwia Łuża Nature Reserve",
+                "pl": "Rezerwat Przyrody Liwia Łuża"
               },
               "tip_5lang": {
                 "de": "Achten Sie auf gefrorene Pfützen auf den Wegen; die winterliche Stille am See ist wunderschön, aber die Sonne sinkt hier am Nachmittag schnell.",
                 "hu": "Ügyeljen a fagyott tócsákra az utakon; a tó téli csendje gyönyörű, de a nap délután itt hamar a látóhatár alá bukik a fák mögött.",
                 "ro": "Atenție la bălțile înghețate de pe poteci; liniștea de iarnă a lacului este superbă, dar soarele coboară repede sub orizont după-amiaza.",
-                "en": "Watch out for frozen puddles on the paths; the lake's winter silence is beautiful, but the sun sinks quickly below the horizon in the afternoon."
+                "en": "Watch out for frozen puddles on the paths; the lake's winter silence is beautiful, but the sun sinks quickly below the horizon in the afternoon.",
+                "pl": "Uważaj na zamarznięte kałuże na ścieżkach; zimowa cisza nad jeziorem jest piękna, ale słońce szybko zachodzi po południu."
               }
             },
             {
@@ -734,13 +816,15 @@
                 "de": "Dziadkowizna Agrotourismus",
                 "hu": "Dziadkowizna Agroturizmus",
                 "ro": "Agroturism Dziadkowizna",
-                "en": "Dziadkowizna Agrotourism"
+                "en": "Dziadkowizna Agrotourism",
+                "pl": "Dziadkowizna Agroturystyka"
               },
               "tip_5lang": {
                 "de": "Kommen Sie rechtzeitig vor der Dunkelheit an und genießen Sie die ländliche Ruhe am warmen Kamin nach Ihrer winterlichen Entdeckungstour.",
                 "hu": "Érkezzen meg időben a sötétedés előtt, és élvezze a vidéki nyugalmat a meleg kandalló mellett a téli felfedezőútja végeztével.",
                 "ro": "Sosiți la timp înainte de lăsarea întunericului și bucurați-vă de liniștea rurală lângă șemineul cald după turul de iarnă.",
-                "en": "Arrive in good time before dark and enjoy the rural tranquility by the warm fireplace after completing your winter discovery tour."
+                "en": "Arrive in good time before dark and enjoy the rural tranquility by the warm fireplace after completing your winter discovery tour.",
+                "pl": "Przyjedź na czas przed zmrokiem i rozkoszuj się wiejskim spokojem przy ciepłym kominku po zakończeniu zimowej wycieczki."
               }
             }
           ]
@@ -760,7 +844,8 @@
             "de": "Dziadkowizna Agrotourismus",
             "hu": "Dziadkowizna Agroturizmus",
             "ro": "Agroturism Dziadkowizna",
-            "en": "Dziadkowizna Agrotourism"
+            "en": "Dziadkowizna Agrotourism",
+            "pl": "Dziadkowizna Agroturystyka"
           },
           "coords": [
             15.104067,
@@ -775,7 +860,8 @@
             "de": "Entspannen Sie an diesem charmanten Agrotourismus-Ort, der das traditionelle Landleben zeigt, und wo Sie unbedingt die lokalen Honigprodukte probieren sollten.",
             "hu": "Pihenjen ebben a bájos agroturisztikai helyszínben, amely a hagyományos vidéki életet mutatja be, ahol érdemes megkóstolni a helyi méhészeti termékeket.",
             "ro": "Relaxați-vă în acest loc agroturistic fermecător care prezintă viața rurală tradițională, oferind un refugiu unde ar trebui să gustați produsele locale din miere.",
-            "en": "Relax in this charming agrotourism spot that showcases traditional rural life, offering a perfect rustic retreat where you should sample local honey products."
+            "en": "Relax in this charming agrotourism spot that showcases traditional rural life, offering a perfect rustic retreat where you should sample local honey products.",
+            "pl": "Zrelaksuj się w tym uroczym gospodarstwie agroturystycznym, które pokazuje tradycyjne życie na wsi — to idealne rustykalne schronienie, gdzie warto spróbować lokalnych produktów z miodu."
           }
         },
         {
@@ -783,7 +869,8 @@
             "de": "Naturschutzgebiet Liwia Łuża",
             "hu": "Liwia Łuża Természetvédelmi Terület",
             "ro": "Rezervația Liwia Łuża",
-            "en": "Liwia Łuża Nature Reserve"
+            "en": "Liwia Łuża Nature Reserve",
+            "pl": "Rezerwat Przyrody Liwia Łuża"
           },
           "coords": [
             15.096819,
@@ -798,7 +885,8 @@
             "de": "Beobachten Sie seltene Zugvögel an diesem ruhigen Küstensee und Naturschutzgebiet, weshalb Sie bei Ihrem Besuch unbedingt ein Fernglas mitbringen sollten.",
             "hu": "Figyeljen meg ritka vándormadarakat ennél a nyugodt tengerparti tónál és természetvédelmi területnél, ezért mindenképpen hozzon távcsövet a látogatáshoz.",
             "ro": "Observați păsări migratoare rare la acest lac de coastă și rezervație naturală, fiind esențial să aduceți binoclu și soluție împotriva insectelor cu dumneavoastră.",
-            "en": "Observe rare migratory birds at this tranquil coastal lake and nature reserve, making it essential to bring binoculars and insect repellent during your visit."
+            "en": "Observe rare migratory birds at this tranquil coastal lake and nature reserve, making it essential to bring binoculars and insect repellent during your visit.",
+            "pl": "Obserwuj rzadkie ptaki wędrowne przy tym spokojnym nadmorskim jeziorze i rezerwacie; koniecznie zabierz lornetkę i środek na owady."
           }
         },
         {
@@ -806,7 +894,8 @@
             "de": "Seefischereimuseum",
             "hu": "Tengeri Halászati Múzeum",
             "ro": "Muzeul Pescuitului Maritim",
-            "en": "Sea Fishery Museum"
+            "en": "Sea Fishery Museum",
+            "pl": "Muzeum Rybołówstwa Morskiego"
           },
           "coords": [
             15.086131,
@@ -821,7 +910,8 @@
             "de": "Erkunden Sie das reiche maritime Erbe durch authentische Fanggeräte und regionale Artefakte, aber fragen Sie das Personal unbedingt nach dem Audioguide.",
             "hu": "Fedezze fel a gazdag tengeri örökséget hiteles halászeszközök és regionális tárgyak révén, de ne felejtse el elkérni a személyzettől az interaktív audioguide-ot.",
             "ro": "Explorați bogata moștenire maritimă prin unelte de pescuit autentice, dar asigurați-vă că solicitați personalului ghidul audio interactiv pentru detalii.",
-            "en": "Explore the rich maritime heritage through authentic fishing gear and regional artifacts, but make sure to ask the staff for the interactive audio guide."
+            "en": "Explore the rich maritime heritage through authentic fishing gear and regional artifacts, but make sure to ask the staff for the interactive audio guide.",
+            "pl": "Poznaj bogate dziedzictwo morskie przez autentyczny sprzęt rybacki i regionalne eksponaty; koniecznie zapytaj personel o interaktywny przewodnik audio."
           }
         },
         {
@@ -829,7 +919,8 @@
             "de": "St. Stanislaus Kirche",
             "hu": "Szent Szaniszló Templom",
             "ro": "Biserica Sf. Stanislav",
-            "en": "St. Stanislaus Church"
+            "en": "St. Stanislaus Church",
+            "pl": "Kościół św. Stanisława"
           },
           "coords": [
             15.080748,
@@ -844,7 +935,8 @@
             "de": "Bewundern Sie die moderne Architektur dieser Küstenkirche, die als spirituelles Zentrum dient, und prüfen Sie die Tafel auf abendliche Konzerttermine.",
             "hu": "Csodálja meg e tengerparti templom modern építészetét, amely a helyiek spirituális központja, és ellenőrizze az esti koncertek menetrendjét a táblán.",
             "ro": "Admirați arhitectura modernă a acestei biserici de coastă, inima spirituală a localnicilor, și verificați panoul pentru programul concertelor de seară.",
-            "en": "Admire the modern architecture of this coastal church, which serves as a spiritual heart for locals, and check the board for evening concert schedules."
+            "en": "Admire the modern architecture of this coastal church, which serves as a spiritual heart for locals, and check the board for evening concert schedules.",
+            "pl": "Podziwiaj nowoczesną architekturę tego nadmorskiego kościoła, pełniącego rolę duchowego centrum mieszkańców, i sprawdź tablicę z wieczornymi koncertami."
           }
         },
         {
@@ -852,7 +944,8 @@
             "de": "Leuchtturm-Miniaturpark",
             "hu": "Világítótorony Miniatűr Park",
             "ro": "Parcul Miniaturilor Farurilor",
-            "en": "Miniature Lighthouse Park"
+            "en": "Miniature Lighthouse Park",
+            "pl": "Park Miniaturowych Latarni Morskich"
           },
           "coords": [
             15.067552,
@@ -867,7 +960,8 @@
             "de": "Spazieren Sie zwischen detailgetreuen 1:10-Modellen aller polnischen Leuchttürme, die einen einmaligen Überblick bieten, und kaufen Sie hier Kombitickets.",
             "hu": "Sétáljon az összes lengyel világítótorony részletes, 1:10 méretarányú modelljei között, és érdemes a bejáratnál kombinált jegyet vásárolni a túrához.",
             "ro": "Plimbați-vă printre machetele la scara 1:10 ale farurilor poloneze, oferind o perspectivă geografică unică, și cumpărați bilete combinate de la poartă.",
-            "en": "Walk among intricate 1:10 scale models of all Polish coastal lighthouses, providing a unique geographical overview, and buy combined tickets at the gate."
+            "en": "Walk among intricate 1:10 scale models of all Polish coastal lighthouses, providing a unique geographical overview, and buy combined tickets at the gate.",
+            "pl": "Spaceruj wśród misternych modeli w skali 1:10 wszystkich polskich latarni morskich, co daje unikatowy przegląd geograficzny; kupuj bilety łączone przy wejściu."
           }
         },
         {
@@ -875,7 +969,8 @@
             "de": "Leuchtturm Niechorze",
             "hu": "Niechorze Világítótorony",
             "ro": "Farul Niechorze",
-            "en": "Niechorze Lighthouse"
+            "en": "Niechorze Lighthouse",
+            "pl": "Latarnia Morska w Niechorzu"
           },
           "coords": [
             15.063875,
@@ -890,7 +985,8 @@
             "de": "Erklimmen Sie die 200 Stufen dieses ikonischen Leuchtturms aus Backstein für einen atemberaubenden Ostseeblick, wobei bequeme Schuhe sehr zu empfehlen sind.",
             "hu": "Mássza meg a lenyűgöző tégla világítótorony 200 lépcsőfokát a lélegzetelállító balti-tengeri panorámáért, de kényelmes cipő viselése erősen ajánlott.",
             "ro": "Urcați cele 200 de trepte ale farului de cărămidă pentru vederi panoramice uluitoare la Marea Baltică, deși încălțămintea confortabilă este foarte recomandată.",
-            "en": "Climb the 200 steps of this iconic brick lighthouse for breathtaking panoramic views of the Baltic Sea, though wearing comfortable shoes is highly advised."
+            "en": "Climb the 200 steps of this iconic brick lighthouse for breathtaking panoramic views of the Baltic Sea, though wearing comfortable shoes is highly advised.",
+            "pl": "Wejdź po 200 schodach tej ikonicznej ceglanej latarni, by podziwiać zapierające dech w piersiach panoramy Bałtyku; polecane jest wygodne obuwie."
           }
         },
         {
@@ -898,7 +994,8 @@
             "de": "Wachsfigurenkabinett",
             "hu": "Viaszmúzeum",
             "ro": "Muzeul de Ceară",
-            "en": "Wax Museum"
+            "en": "Wax Museum",
+            "pl": "Muzeum Figur Woskowych"
           },
           "coords": [
             15.064742,
@@ -913,7 +1010,8 @@
             "de": "Treffen Sie detaillierte Wachsfiguren von Prominenten und historischen Ikonen in dieser unterhaltsamen Halle, die sich perfekt für regnerische Tage eignet.",
             "hu": "Találkozzon hírességek és történelmi ikonok viaszfiguráival ebben a szórakoztató benti múzeumban, amely tökéletes esős napokra vagy családi fotózáshoz.",
             "ro": "Întâlniți figuri de ceară detaliate ale celebrităților în acest loc de divertisment acoperit, perfect pentru zilele ploioase sau pentru fotografii de familie.",
-            "en": "Meet incredibly detailed wax figures of celebrities and historical icons in this entertaining indoor venue, which is perfect for rainy days or family photos."
+            "en": "Meet incredibly detailed wax figures of celebrities and historical icons in this entertaining indoor venue, which is perfect for rainy days or family photos.",
+            "pl": "Spotkaj niezwykle szczegółowe figury woskowe sław i postaci historycznych w tej zabawnej atrakcji krytej — idealnej na deszczowe dni i rodzinne zdjęcia."
           }
         }
       ],
@@ -921,7 +1019,8 @@
         "de": "Beginnen Sie Ihren Morgen in Niechorze im Stadtzentrum und genießen Sie die friedliche Küstenatmosphäre bei der örtlichen Kirche und der historischen Feuerwehrausstellung.\nTauchen Sie mittags im Fischereimuseum in die maritime Kultur ein, gefolgt von einem spannenden Spaziergang durch den berühmten Leuchtturm-Miniaturpark.\nErklimmen Sie am Nachmittag den echten, ikonischen Leuchtturm für spektakuläre Ausblicke auf die Ostsee und besuchen Sie danach das Wachsfigurenkabinett.\nBeenden Sie Ihren Tag in der Natur am ruhigen See Liwia Łuża oder entspannen Sie sich auf einem rustikalen Bauernhof vor einem ruhigen Abend am Meer.",
         "hu": "Kezdje a reggelt Niechorze központjában, átadva magát a békés tengerparti hangulatnak a helyi templomnál és a történelmi tűzoltóautó kiállításánál.\nDélben merüljön el a tengeri kultúrában a Halászati Múzeumban, majd tegyen egy izgalmas sétát a híres Világítótorony Miniatűr Parkban.\nA délután folyamán mássza meg az ikonikus igazi világítótornyot a látványos balti-tengeri panorámáért, majd látogasson el a szórakoztató viaszmúzeumba.\nZárja a napot a természettel való kapcsolódással a csendes Liwia Łuża tórezervátumban, vagy pihenjen egy falusias agroturisztikai helyszínen.",
         "ro": "Începeți dimineața în centrul orașului Niechorze, absorbind atmosfera pașnică de coastă la biserica locală și la expoziția mașinii istorice de pompieri.\nPână la prânz, scufundați-vă în cultura maritimă la Muzeul Pescuitului, urmat de o plimbare captivantă prin celebrul Parc al Farurilor în Miniatură.\nPe măsură ce după-amiaza se desfășoară, urcați pe farul emblematic pentru vederi spectaculoase la Marea Baltică, apoi vizitați muzeul de ceară.\nÎncheiați-vă ziua conectându-vă cu natura la rezervația lacului Liwia Łuża sau relaxându-vă într-un loc agroturistic rustic înainte de o seară liniștită.",
-        "en": "Start your morning in Niechorze exploring the town center, absorbing the peaceful coastal vibe at the local church and the quaint historic fire engine display.\nBy midday, dive into the maritime culture at the Fishery Museum, followed by an engaging stroll through the famous Miniature Lighthouse Park.\nAs the afternoon unfolds, challenge yourself to climb the iconic real lighthouse for spectacular Baltic views, then visit the entertaining wax museum.\nConclude your day connecting with nature at the serene Liwia Łuża lake reserve or relaxing in a rustic agrotourism spot before a quiet evening by the sea."
+        "en": "Start your morning in Niechorze exploring the town center, absorbing the peaceful coastal vibe at the local church and the quaint historic fire engine display.\nBy midday, dive into the maritime culture at the Fishery Museum, followed by an engaging stroll through the famous Miniature Lighthouse Park.\nAs the afternoon unfolds, challenge yourself to climb the iconic real lighthouse for spectacular Baltic views, then visit the entertaining wax museum.\nConclude your day connecting with nature at the serene Liwia Łuża lake reserve or relaxing in a rustic agrotourism spot before a quiet evening by the sea.",
+        "pl": "Rozpocznij poranek w Niechorzu od zwiedzania centrum miasta, chłonąc spokojny nadmorski klimat przy lokalnym kościele i uroczym zabytkowym wozie strażackim. W południe zanurz się w kulturze morskiej w Muzeum Rybołówstwa, a potem wybierz się na spacer po słynnym Parku Miniatur Latarni. Po południu podejmij wyzwanie wejścia na ikoniczną prawdziwą latarnię dla spektakularnych widoków na Bałtyk, a następnie odwiedź rozrywkowe Muzeum Figur Woskowych. Dzień zakończ kontakt z naturą nad jeziorową ostoją Liwia Łuża lub relaksem w rustykalnym gospodarstwie agroturystycznym przed cichym wieczorem nad morzem."
       },
       "variants": {
         "rainy": {
@@ -929,7 +1028,8 @@
             "de": "Der Regentag beginnt entspannt mit der Fahrt zur Agrotouristik, während die Scheibenwischer den Rhythmus vorgeben. Am Vormittag besuchen wir das Naturschutzgebiet nur kurz und verbringen mehr Zeit im trockenen Fischereimuseum. Nachmittags geht es zur Kirche und zum Miniaturenpark, bevor wir den Tag am Leuchtturm und schließlich wettergeschützt im Wachsfigurenkabinett abschließen.",
             "hu": "Az esős nap kényelmesen indul az agroturizmus felé vezető autóúttal, miközben az ablaktörlők adják a ritmust. Délelőtt a természetvédelmi területet csak röviden érintjük, több időt hagyva a száraz Halászati Múzeumnak. Délután a templom és a makettpark következik, majd a napot a világítótoronynál és végül a fedett Viaszmúzeumban zárjuk.",
             "ro": "Ziua ploioasă începe relaxat cu drumul spre agroturism, în timp ce ștergătoarele dau ritmul. Dimineața vizităm rezervația doar scurt, petrecând mai mult timp în Muzeul Pescuitului. După-amiaza urmează biserica și parcul de miniaturi, înainte de a încheia ziua la far și, în final, protejați de vreme la Muzeul de Ceară.",
-            "en": "The rainy day starts relaxedly with the drive toward agrotourism while windshield wipers set the rhythm. In the morning, we visit the nature reserve only briefly, spending more time in the dry Fishery Museum. In the afternoon, we head to the church and miniature park before concluding the day at the lighthouse and finally in the indoor Wax Museum."
+            "en": "The rainy day starts relaxedly with the drive toward agrotourism while windshield wipers set the rhythm. In the morning, we visit the nature reserve only briefly, spending more time in the dry Fishery Museum. In the afternoon, we head to the church and miniature park before concluding the day at the lighthouse and finally in the indoor Wax Museum.",
+            "pl": "Deszczowy dzień zaczyna się swobodnie od dojazdu do agroturystyki, podczas gdy wycieraczki nadają rytm. Rano odwiedzamy rezerwat przyrody tylko krótko, dłużej przebywając w suchym Muzeum Rybołówstwa. Po południu kierujemy się do kościoła i parku miniatur, by zakończyć dzień przy latarni, a na koniec w Muzeum Figur Woskowych."
           },
           "stops": [
             {
@@ -937,13 +1037,15 @@
                 "de": "Dziadkowizna Agrotourismus",
                 "hu": "Dziadkowizna Agroturizmus",
                 "ro": "Agroturism Dziadkowizna",
-                "en": "Dziadkowizna Agrotourism"
+                "en": "Dziadkowizna Agrotourism",
+                "pl": "Dziadkowizna Agroturystyka"
               },
               "tip_5lang": {
                 "de": "Parken Sie so nah wie möglich am Eingang, um trockenen Fußes in die gemütlichen Innenräume zu gelangen und die ländliche Atmosphäre zu genießen.",
                 "hu": "Parkoljon a lehető legközelebb a bejárathoz, hogy száraz lábbal jusson be a barátságos belső terekbe, és élvezze a vidéki hangulatot az esőben.",
                 "ro": "Parcați cât mai aproape de intrare pentru a ajunge cu picioarele uscate în spațiile interioare primitoare și pentru a savura atmosfera rurală.",
-                "en": "Park as close to the entrance as possible to reach the cozy interiors with dry feet and enjoy the rural atmosphere despite the rain."
+                "en": "Park as close to the entrance as possible to reach the cozy interiors with dry feet and enjoy the rural atmosphere despite the rain.",
+                "pl": "Parkuj możliwie najbliżej wejścia, aby dotrzeć do przytulnych wnętrz z suchymi stopami i cieszyć się wiejską atmosferą mimo deszczu."
               }
             },
             {
@@ -951,13 +1053,15 @@
                 "de": "Naturschutzgebiet Liwia Łuża",
                 "hu": "Liwia Łuża Természetvédelmi Terület",
                 "ro": "Rezervația Liwia Łuża",
-                "en": "Liwia Łuża Nature Reserve"
+                "en": "Liwia Łuża Nature Reserve",
+                "pl": "Rezerwat Przyrody Liwia Łuża"
               },
               "tip_5lang": {
                 "de": "Bleiben Sie bei starkem Regen für den Blick auf den See im Auto oder nutzen Sie einen kurzen Moment mit dem Schirm an einem der Aussichtspunkte.",
                 "hu": "Heves esőben maradjon az autóban a tóra nyíló kilátáshoz, vagy használja ki az esernyős pillanatokat az egyik kilátópontnál a vízparton.",
                 "ro": "În caz de ploaie torențială, rămâneți în mașină pentru vederea spre lac sau folosiți scurte momente cu umbrela la unul dintre punctele de observație.",
-                "en": "In heavy rain, stay in the car for the lake view or make use of brief moments with an umbrella at one of the lakeside viewpoints."
+                "en": "In heavy rain, stay in the car for the lake view or make use of brief moments with an umbrella at one of the lakeside viewpoints.",
+                "pl": "W intensywnym deszczu zostań w samochodzie, by oglądać jezioro, lub korzystaj z krótkich przerw pod parasolem przy jednym z punktów widokowych nad brzegiem."
               }
             },
             {
@@ -965,13 +1069,15 @@
                 "de": "Seefischereimuseum",
                 "hu": "Tengeri Halászati Múzeum",
                 "ro": "Muzeul Pescuitului Maritim",
-                "en": "Sea Fishery Museum"
+                "en": "Sea Fishery Museum",
+                "pl": "Muzeum Rybołówstwa Morskiego"
               },
               "tip_5lang": {
                 "de": "Ein perfekter Stopp bei Regen; lassen Sie Ihre nassen Mäntel an der Garderobe und tauchen Sie ein in die maritime Welt im warmen Inneren.",
                 "hu": "Tökéletes megálló esőben; hagyja a vizes kabátokat a ruhatárban, és merüljön el a tengeri világban a múzeum meleg és száraz belső tereiben.",
                 "ro": "O oprire perfectă pe ploaie; lăsați hainele ude la garderobă și scufundați-vă în lumea maritimă în interiorul cald și uscat al muzeului.",
-                "en": "A perfect stop in the rain; leave your wet coats at the cloakroom and immerse yourself in the maritime world inside the warm museum."
+                "en": "A perfect stop in the rain; leave your wet coats at the cloakroom and immerse yourself in the maritime world inside the warm museum.",
+                "pl": "Idealny przystanek w deszczu; zostaw mokre płaszcze w szatni i zanurz się w morskim świecie wewnątrz ciepłego muzeum."
               }
             },
             {
@@ -979,13 +1085,15 @@
                 "de": "St. Stanislaus Kirche",
                 "hu": "Szent Szaniszló Templom",
                 "ro": "Biserica Sf. Stanislav",
-                "en": "St. Stanislaus Church"
+                "en": "St. Stanislaus Church",
+                "pl": "Kościół św. Stanisława"
               },
               "tip_5lang": {
                 "de": "Die Kirche bietet einen ruhigen und absolut trockenen Zufluchtsort, ideal um die Regenpause für eine kurze Besichtigung der Architektur zu nutzen.",
                 "hu": "A templom csendes és abszolút száraz menedéket nyújt, ideális hely az esőszünet kihasználására az építészet rövid tanulmányozásához.",
                 "ro": "Biserica oferă un refugiu liniștit și absolut uscat, fiind locul ideal pentru a profita de o pauză de ploaie pentru a studia arhitectura.",
-                "en": "The church provides a quiet and absolutely dry sanctuary, ideal for using a rain break to briefly study the beautiful architecture."
+                "en": "The church provides a quiet and absolutely dry sanctuary, ideal for using a rain break to briefly study the beautiful architecture.",
+                "pl": "Kościół zapewnia ciche i zupełnie suche schronienie — doskonałe miejsce, by podczas przerwy od deszczu przez chwilę podziwiać piękną architekturę."
               }
             },
             {
@@ -993,13 +1101,15 @@
                 "de": "Leuchtturm-Miniaturpark",
                 "hu": "Világítótorony Miniatűr Park",
                 "ro": "Parcul Miniaturilor Farurilor",
-                "en": "Miniature Lighthouse Park"
+                "en": "Miniature Lighthouse Park",
+                "pl": "Park Miniaturowych Latarni Morskich"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie den Parkplatz direkt am Gelände und halten Sie den Schirm bereit, da die meisten Exponate unter freiem Himmel zu bewundern sind.",
                 "hu": "Használja a közvetlenül a terület mellett található parkolót, és tartsa készenlétben az esernyőt, mivel a legtöbb kiállított tárgy a szabad ég alatt van.",
                 "ro": "Folosiți parcarea direct de lângă incintă și țineți umbrela pregătită, deoarece majoritatea exponatelor sunt sub cerul liber în parc.",
-                "en": "Use the parking lot directly by the site and keep your umbrella ready, as most exhibits are displayed outdoors in the open air."
+                "en": "Use the parking lot directly by the site and keep your umbrella ready, as most exhibits are displayed outdoors in the open air.",
+                "pl": "Korzystaj z parkingu tuż przy obiekcie i trzymaj parasol pod ręką — większość eksponatów wystawiona jest na otwartym powietrzu."
               }
             },
             {
@@ -1007,13 +1117,15 @@
                 "de": "Leuchtturm Niechorze",
                 "hu": "Niechorze Világítótorony",
                 "ro": "Farul Niechorze",
-                "en": "Niechorze Lighthouse"
+                "en": "Niechorze Lighthouse",
+                "pl": "Latarnia Morska w Niechorzu"
               },
               "tip_5lang": {
                 "de": "Der Parkplatz ist nah, sodass Sie schnell zum Turm gelangen; oben auf der Galerie sollten Sie sich vor dem windigen Regen in Acht nehmen.",
                 "hu": "A parkoló közel van, így gyorsan eljuthat a toronyhoz; fent a galérián azonban vigyázzon a széllel járó esővel a kilátás közben.",
                 "ro": "Parcarea este aproape, astfel că ajungeți repede la turn; sus pe galerie însă, aveți grijă la ploaia purtată de vânt în timpul vizionării.",
-                "en": "The parking is close, allowing you to reach the tower quickly; however, be careful of wind-driven rain while up on the gallery."
+                "en": "The parking is close, allowing you to reach the tower quickly; however, be careful of wind-driven rain while up on the gallery.",
+                "pl": "Parking jest blisko, co pozwala szybko dotrzeć do wieży; uważaj jednak na deszcz wtłaczany przez wiatr będąc na galerii."
               }
             },
             {
@@ -1021,13 +1133,15 @@
                 "de": "Wachsfigurenkabinett",
                 "hu": "Viaszmúzeum",
                 "ro": "Muzeul de Ceară",
-                "en": "Wax Museum"
+                "en": "Wax Museum",
+                "pl": "Muzeum Figur Woskowych"
               },
               "tip_5lang": {
                 "de": "Ein idealer Abschluss im Trockenen; genießen Sie die Zeit bei den Figuren, während der Regen draußen gegen die Wände des Gebäudes peitscht.",
                 "hu": "Ideális befejezés száraz helyen; élvezze az időt a figurák között, miközben kint az eső a falakat veri ebben a barátságtalan időben.",
                 "ro": "Un final ideal la uscat; savurați timpul printre figuri în timp ce afară ploaia bate în pereți pe această vreme neprietenoasă.",
-                "en": "An ideal conclusion in the dry; enjoy your time among the figures while the rain lashes against the walls outside in this gray weather."
+                "en": "An ideal conclusion in the dry; enjoy your time among the figures while the rain lashes against the walls outside in this gray weather.",
+                "pl": "Idealne zakończenie w suchym wnętrzu; spędź czas wśród figur, podczas gdy na zewnątrz deszcz bębni o ściany w tej pochmurnej aurze."
               }
             }
           ]
@@ -1037,7 +1151,8 @@
             "de": "Die winterliche Autofahrt beginnt gemütlich mit Sitzheizung auf dem Weg zur Agrotouristik. Am Vormittag erleben wir die eisige Natur an der Liwia Łuża und wärmen uns anschließend im Fischereimuseum auf. Nachmittags besuchen wir die Kirche und den Miniaturenpark im klaren Winterlicht. Den Tag lassen wir am Leuchtturm und im warmen Wachsfigurenkabinett ausklingen, bevor es um 17:00 Uhr dunkel wird.",
             "hu": "A téli autós túra kényelmesen, ülésfűtéssel indul az agroturizmus felé. Délelőtt a Liwia Łuża jeges természetét csodáljuk meg, majd a Halászati Múzeumban melegedünk fel. Délután a templom és a makettpark következik a tiszta téli fényekben. A napot a világítótoronynál és a fűtött Viaszmúzeumban zárjuk, mielőtt 17:00 körül teljesen ránk sötétedik.",
             "ro": "Turul auto de iarnă începe confortabil cu încălzirea în scaune spre agroturism. Dimineața admirăm natura înghețată la Liwia Łuża, apoi ne încălzim în Muzeul Pescuitului. După-amiaza vizităm biserica și parcul de miniaturi în lumina clară de iarnă. Încheiem ziua la far și în Muzeul de Ceară încălzit, înainte de lăsarea întunericului la ora 17:00.",
-            "en": "The winter car tour starts comfortably with seat heating on the way to agrotourism. In the morning, we experience the icy nature at Liwia Łuża and then warm up in the Fishery Museum. In the afternoon, we visit the church and miniature park in the clear winter light. We conclude the day at the lighthouse and in the warm Wax Museum before it gets dark around 17:00."
+            "en": "The winter car tour starts comfortably with seat heating on the way to agrotourism. In the morning, we experience the icy nature at Liwia Łuża and then warm up in the Fishery Museum. In the afternoon, we visit the church and miniature park in the clear winter light. We conclude the day at the lighthouse and in the warm Wax Museum before it gets dark around 17:00.",
+            "pl": "Zimowa wycieczka samochodowa zaczyna się komfortowo z włączonym ogrzewaniem foteli w drodze do agroturystyki. Rano doświadczamy lodowej przyrody w Liwiej Łuży, a potem ogrzewamy się w Muzeum Rybołówstwa. Po południu odwiedzamy kościół i park miniatur w czystym zimowym świetle. Dzień kończymy przy latarni i w ciepłym Muzeum Figur Woskowych zanim zrobi się ciemno około 17:00."
           },
           "stops": [
             {
@@ -1045,13 +1160,15 @@
                 "de": "Dziadkowizna Agrotourismus",
                 "hu": "Dziadkowizna Agroturizmus",
                 "ro": "Agroturism Dziadkowizna",
-                "en": "Dziadkowizna Agrotourism"
+                "en": "Dziadkowizna Agrotourism",
+                "pl": "Dziadkowizna Agroturystyka"
               },
               "tip_5lang": {
                 "de": "Genießen Sie den Kontrast zwischen der eisigen Winterluft draußen und der wohligen Wärme in den traditionell eingerichteten Gasträumen.",
                 "hu": "Élvezze a kinti jeges téli levegő és a hagyományosan berendezett vendégszobák barátságos melege közötti kontrasztot a látogatás során.",
                 "ro": "Bucurați-vă de contrastul dintre aerul înghețat de iarnă de afară și căldura primitoare din camerele de oaspeți mobilate tradițional.",
-                "en": "Enjoy the contrast between the icy winter air outside and the cozy warmth inside the traditionally furnished guest rooms during your visit."
+                "en": "Enjoy the contrast between the icy winter air outside and the cozy warmth inside the traditionally furnished guest rooms during your visit.",
+                "pl": "Rozkoszuj się kontrastem między lodowatym powietrzem na zewnątrz a przytulnym ciepłem tradycyjnie urządzonych pokoi podczas pobytu."
               }
             },
             {
@@ -1059,13 +1176,15 @@
                 "de": "Naturschutzgebiet Liwia Łuża",
                 "hu": "Liwia Łuża Természetvédelmi Terület",
                 "ro": "Rezervația Liwia Łuża",
-                "en": "Liwia Łuża Nature Reserve"
+                "en": "Liwia Łuża Nature Reserve",
+                "pl": "Rezerwat Przyrody Liwia Łuża"
               },
               "tip_5lang": {
                 "de": "Der Blick auf den möglicherweise zugefrorenen See ist vom warmen Auto aus besonders entspannend; achten Sie beim Aussteigen auf Glätte auf dem Parkplatz.",
                 "hu": "A vélhetően befagyott tó látványa a meleg autóból különösen pihentető; kiszálláskor ügyeljen a parkoló esetlegesen jeges felületére a hidegben.",
                 "ro": "Vederea spre lacul probabil înghețat este deosebit de relaxantă din mașina caldă; la coborâre, aveți grijă la gheața din parcare pe timp de ger.",
-                "en": "The view of the possibly frozen lake is especially relaxing from the warm car; when getting out, watch for ice in the parking lot in the cold."
+                "en": "The view of the possibly frozen lake is especially relaxing from the warm car; when getting out, watch for ice in the parking lot in the cold.",
+                "pl": "Widok na ewentualnie zamarznięte jezioro jest szczególnie relaksujący z ciepłego samochodu; podczas wysiadania zwracaj uwagę na lód na parkingu."
               }
             },
             {
@@ -1073,13 +1192,15 @@
                 "de": "Seefischereimuseum",
                 "hu": "Tengeri Halászati Múzeum",
                 "ro": "Muzeul Pescuitului Maritim",
-                "en": "Sea Fishery Museum"
+                "en": "Sea Fishery Museum",
+                "pl": "Muzeum Rybołówstwa Morskiego"
               },
               "tip_5lang": {
                 "de": "Ein idealer Ort für einen längeren Aufenthalt im Winter; die Ausstellungen sind gut temperiert und lassen die Kälte draußen schnell vergessen.",
                 "hu": "Ideális hely egy hosszabb téli tartózkodáshoz; a kiállítások jól fűtöttek, így gyorsan elfelejtheti a kinti barátságtalan hideget nézelődés közben.",
                 "ro": "Un loc ideal pentru o ședere mai lungă iarna; expozițiile sunt bine încălzite, permițându-vă să uitați repede de gerul de afară în timpul vizitei.",
-                "en": "An ideal place for a longer stay in winter; the exhibits are well-tempered, making it easy to quickly forget the unfriendly cold outside."
+                "en": "An ideal place for a longer stay in winter; the exhibits are well-tempered, making it easy to quickly forget the unfriendly cold outside.",
+                "pl": "Idealne miejsce na dłuższy pobyt zimą; eksponaty są dobrze ogrzane, dzięki czemu łatwo zapomnieć o nieprzyjaznym chłodzie na zewnątrz."
               }
             },
             {
@@ -1087,13 +1208,15 @@
                 "de": "St. Stanislaus Kirche",
                 "hu": "Szent Szaniszló Templom",
                 "ro": "Biserica Sf. Stanislav",
-                "en": "St. Stanislaus Church"
+                "en": "St. Stanislaus Church",
+                "pl": "Kościół św. Stanisława"
               },
               "tip_5lang": {
                 "de": "Die dicken Mauern der Kirche halten den frostigen Wind ab; nutzen Sie die Stille für einen Moment der inneren Einkehr im windgeschützten Raum.",
                 "hu": "A templom vastag falai távol tartják a fagyos szelet; használja ki a csendet egy pillanatnyi belső elmélyülésre a szélvédett, nyugodt térben.",
                 "ro": "Zidurile groase ale bisericii țin la distanță vântul înghețat; folosiți liniștea pentru un moment de reflecție în spațiul ferit de vânt.",
-                "en": "The thick walls of the church keep out the frosty wind; use the silence for a moment of inner reflection in the wind-sheltered, calm space."
+                "en": "The thick walls of the church keep out the frosty wind; use the silence for a moment of inner reflection in the wind-sheltered, calm space.",
+                "pl": "Grube mury kościoła zatrzymują mroźny wiatr; wykorzystaj ciszę na chwilę refleksji w osłoniętej, spokojnej przestrzeni."
               }
             },
             {
@@ -1101,13 +1224,15 @@
                 "de": "Leuchtturm-Miniaturpark",
                 "hu": "Világítótorony Miniatűr Park",
                 "ro": "Parcul Miniaturilor Farurilor",
-                "en": "Miniature Lighthouse Park"
+                "en": "Miniature Lighthouse Park",
+                "pl": "Park Miniaturowych Latarni Morskich"
               },
               "tip_5lang": {
                 "de": "Das Winterlicht lässt die Modelle in einem besonderen Glanz erscheinen; kleiden Sie sich sehr warm, da der Aufenthalt größtenteils im Freien erfolgt.",
                 "hu": "A téli fények különleges ragyogást kölcsönöznek a maketteknek; öltözzön nagyon melegen, mivel a látogatás nagy része a szabadban zajlik.",
                 "ro": "Lumina iernii oferă o strălucire deosebită machetelor; îmbrăcați-vă foarte gros, deoarece cea mai mare parte a vizitei are loc în aer liber.",
-                "en": "The winter light gives the models a special glow; dress very warmly, as the majority of the visit takes place outdoors in the open air."
+                "en": "The winter light gives the models a special glow; dress very warmly, as the majority of the visit takes place outdoors in the open air.",
+                "pl": "Zimowe światło nadaje modelom szczególnego blasku; ubierz się bardzo ciepło, bo większość zwiedzania odbywa się na otwartej przestrzeni."
               }
             },
             {
@@ -1115,13 +1240,15 @@
                 "de": "Leuchtturm Niechorze",
                 "hu": "Niechorze Világítótorony",
                 "ro": "Farul Niechorze",
-                "en": "Niechorze Lighthouse"
+                "en": "Niechorze Lighthouse",
+                "pl": "Latarnia Morska w Niechorzu"
               },
               "tip_5lang": {
                 "de": "Der Aufstieg der Stufen wärmt Sie auf; auf der Galerie erwartet Sie jedoch eine schneidende Winterbrise, die eine warme Mütze erforderlich macht.",
                 "hu": "A lépcsők megmászása alaposan felmelegíti; a galérián azonban metsző téli szél várja, ami miatt egy meleg sapka viselése elengedhetetlen.",
                 "ro": "Urcarea treptelor vă va încălzi bine; pe galerie însă vă așteaptă un vânt tăios de iarnă, ceea ce face necesară purtarea unei căciuli groase.",
-                "en": "Climbing the stairs will warm you up; however, a biting winter breeze awaits on the gallery, making a warm hat absolutely essential for the view."
+                "en": "Climbing the stairs will warm you up; however, a biting winter breeze awaits on the gallery, making a warm hat absolutely essential for the view.",
+                "pl": "Wejście po schodach rozgrzeje cię; jednak na galerii czeka przenikliwy zimowy wiatr, więc ciepła czapka jest absolutnie niezbędna dla komfortowego widoku."
               }
             },
             {
@@ -1129,13 +1256,15 @@
                 "de": "Wachsfigurenkabinett",
                 "hu": "Viaszmúzeum",
                 "ro": "Muzeul de Ceară",
-                "en": "Wax Museum"
+                "en": "Wax Museum",
+                "pl": "Muzeum Figur Woskowych"
               },
               "tip_5lang": {
                 "de": "Beenden Sie den Tag hier im Warmen, kurz bevor es dunkel wird, und genießen Sie die lebensechten Figuren im gemütlich beheizten Gebäude.",
                 "hu": "Fejezze be a napot itt a melegben, éppen mielőtt besötétedik, és élvezze az élethű figurákat a barátságosan fűtött épület belső tereiben.",
                 "ro": "Încheiați ziua aici la căldură, chiar înainte de lăsarea întunericului, și bucurați-vă de figurile realiste în interiorul clădirii încălzite.",
-                "en": "End the day here in the warmth, just before it gets dark, and enjoy the lifelike figures in the pleasantly heated interior of the building."
+                "en": "End the day here in the warmth, just before it gets dark, and enjoy the lifelike figures in the pleasantly heated interior of the building.",
+                "pl": "Zakończ dzień tutaj w cieple, tuż przed zapadnięciem zmroku, i ciesz się realistycznymi figurami w przyjemnie ogrzewanym wnętrzu."
               }
             }
           ]

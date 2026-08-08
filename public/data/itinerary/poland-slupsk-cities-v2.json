@@ -21,7 +21,8 @@
             "de": "Rathaus von Słupsk",
             "hu": "Słupski Városháza",
             "ro": "Primăria din Słupsk",
-            "en": "Słupsk Town Hall"
+            "en": "Słupsk Town Hall",
+            "pl": "Ratusz w Słupsku"
           },
           "coords": [
             17.0285,
@@ -36,7 +37,8 @@
             "de": "Besteigen Sie den Turm für eine großartige Aussicht auf die Stadt. Der Eintritt ist oft kostenlos.",
             "hu": "Mássz fel a toronyba a nagyszerű városi kilátásért. A belépés gyakran ingyenes.",
             "ro": "Urcați în turn pentru o priveliște superbă asupra orașului. Intrarea este adesea gratuită.",
-            "en": "Climb the tower for a great view of the city. Admission is often free."
+            "en": "Climb the tower for a great view of the city. Admission is often free.",
+            "pl": "Wejdź na wieżę, by podziwiać świetny widok na miasto. Wstęp często jest bezpłatny."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Marienkirche",
             "hu": "Mária-templom",
             "ro": "Biserica Sf. Maria",
-            "en": "St. Mary's Church"
+            "en": "St. Mary's Church",
+            "pl": "Kościół Matki Bożej"
           },
           "coords": [
             17.0301,
@@ -59,7 +62,8 @@
             "de": "Achten Sie auf die beeindruckende Orgel und die kunstvollen Glasfenster.",
             "hu": "Figyeld meg a lenyűgöző orgonát és a díszes ólomüveg ablakokat.",
             "ro": "Observați orga impresionantă și vitraliile elaborate.",
-            "en": "Pay attention to the impressive organ and the ornate stained glass windows."
+            "en": "Pay attention to the impressive organ and the ornate stained glass windows.",
+            "pl": "Zwróć uwagę na imponujący organ i zdobione witraże."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Schloss der Pommerschen Herzöge",
             "hu": "Pomerániai Hercegek Vára",
             "ro": "Castelul Ducilor Pomeraniei",
-            "en": "Castle of the Pomeranian Dukes"
+            "en": "Castle of the Pomeranian Dukes",
+            "pl": "Zamek Książąt Pomorskich"
           },
           "coords": [
             17.0225,
@@ -82,7 +87,8 @@
             "de": "Das Schloss beherbergt das Mittelpommersche Museum mit einer riesigen Sammlung von Witkacy-Porträts.",
             "hu": "A kastély ad otthont a Közép-Pomerániai Múzeumnak, ahol egy hatalmas Witkacy-portrégyűjtemény található.",
             "ro": "Castelul găzduiește Muzeul Pomeraniei Centrale, cu o colecție uriașă de portrete de Witkacy.",
-            "en": "The castle houses the Museum of Central Pomerania with a huge collection of Witkacy's portraits."
+            "en": "The castle houses the Museum of Central Pomerania with a huge collection of Witkacy's portraits.",
+            "pl": "W zamku mieści się Muzeum Pomorza Środkowego z ogromną kolekcją portretów Witkacego."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Richter-Speicher",
             "hu": "Richter-magtár",
             "ro": "Hambarul Richter",
-            "en": "Richter's Granary"
+            "en": "Richter's Granary",
+            "pl": "Spichrz Richterów"
           },
           "coords": [
             17.022,
@@ -105,7 +112,8 @@
             "de": "Die ethnografische Ausstellung hier gibt einen faszinierenden Einblick in das regionale Leben.",
             "hu": "Az itteni néprajzi kiállítás lenyűgöző betekintést nyújt a régió életébe.",
             "ro": "Expoziția etnografică de aici oferă o perspectivă fascinantă asupra vieții regionale.",
-            "en": "The ethnographic exhibition here offers a fascinating insight into regional life."
+            "en": "The ethnographic exhibition here offers a fascinating insight into regional life.",
+            "pl": "Ekspozycja etnograficzna oferuje fascynujący wgląd w życie regionu."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Mühlentor (Brama Młyńska)",
             "hu": "Malom-kapu (Brama Młyńska)",
             "ro": "Poarta Morii (Brama Młyńska)",
-            "en": "Mill Gate (Brama Młyńska)"
+            "en": "Mill Gate (Brama Młyńska)",
+            "pl": "Brama Młyńska"
           },
           "coords": [
             17.0235,
@@ -128,7 +137,8 @@
             "de": "Ein schöner Ort für Fotos, besonders mit dem Fluss im Hintergrund.",
             "hu": "Szép hely a fotózáshoz, különösen a folyóval a háttérben.",
             "ro": "Un loc frumos pentru fotografii, mai ales cu râul pe fundal.",
-            "en": "A beautiful spot for photos, especially with the river in the background."
+            "en": "A beautiful spot for photos, especially with the river in the background.",
+            "pl": "Piękne miejsce do zdjęć, zwłaszcza z rzeką w tle."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Hexenturm (Baszta Czarownic)",
             "hu": "Boszorkánytorony (Baszta Czarownic)",
             "ro": "Turnul Vrăjitoarelor (Baszta Czarownic)",
-            "en": "Witches' Tower (Baszta Czarownic)"
+            "en": "Witches' Tower (Baszta Czarownic)",
+            "pl": "Baszta Czarownic"
           },
           "coords": [
             17.0269,
@@ -151,7 +162,8 @@
             "de": "Heute eine Kunstgalerie. Überprüfen Sie die aktuellen Ausstellungen, bevor Sie hingehen.",
             "hu": "Ma művészeti galéria. Látogatás előtt ellenőrizd az aktuális kiállításokat.",
             "ro": "Astăzi este o galerie de artă. Verificați expozițiile curente înainte de a merge.",
-            "en": "It's an art gallery today. Check the current exhibitions before you go."
+            "en": "It's an art gallery today. Check the current exhibitions before you go.",
+            "pl": "Dziś to galeria sztuki. Sprawdź aktualne wystawy przed wyjściem."
           }
         },
         {
@@ -159,7 +171,8 @@
             "de": "Spaziergang am Słupia-Flussufer",
             "hu": "Séta a Słupia folyó partján",
             "ro": "Promenadă pe malul râului Słupia",
-            "en": "Walk along the Słupia Riverbank"
+            "en": "Walk along the Słupia Riverbank",
+            "pl": "Spacer wzdłuż nabrzeża rzeki Słupia"
           },
           "coords": [
             17.0205,
@@ -174,7 +187,8 @@
             "de": "Ideal für eine entspannte Pause. Suchen Sie sich eine Bank und genießen Sie die Ruhe.",
             "hu": "Ideális egy pihentető szünethez. Keress egy padot, és élvezd a csendet.",
             "ro": "Ideal pentru o pauză relaxantă. Găsiți o bancă și bucurați-vă de liniște.",
-            "en": "Ideal for a relaxing break. Find a bench and enjoy the peace and quiet."
+            "en": "Ideal for a relaxing break. Find a bench and enjoy the peace and quiet.",
+            "pl": "Idealne na relaksujący wypoczynek. Znajdź ławkę i ciesz się ciszą i spokojem."
           }
         }
       ],
@@ -182,7 +196,8 @@
         "de": "Beginnen Sie Ihren Tag am prächtigen Rathaus und spüren Sie den Puls der Stadt. Der Vormittag führt Sie durch gotische Wunder in der Marienkirche, bevor Sie in die herzogliche Geschichte im Schloss der Pommerschen Herzöge eintauchen. Nach dem Mittagessen erkunden Sie die faszinierenden Ausstellungen im Richter-Speicher und durchqueren das historische Mühlentor. Am Nachmittag entdecken Sie die geheimnisvolle Vergangenheit des Hexenturms. Beenden Sie Ihren Tag mit einem ruhigen Spaziergang entlang des malerischen Słupia-Flussufers, wo Sie die friedliche Atmosphäre genießen können.",
         "hu": "Kezdje a napot a csodálatos Városházánál, és érezze a város lüktetését. A délelőtt gótikus csodákon vezet keresztül a Mária-templomban, mielőtt elmerülne a hercegi történelemben a Pomerániai Hercegek Várában. Ebéd után fedezze fel a Richter-magtár lenyűgöző kiállításait és haladjon át a történelmi Malom-kapun. Délután fedezze fel a Boszorkánytorony titokzatos múltját. Zárja a napot egy békés sétával a festői Słupia folyó partján, élvezve a nyugodt légkört.",
         "ro": "Începeți ziua la magnificul Primărie și simțiți pulsul orașului. Dimineața vă poartă prin minuni gotice la Biserica Sf. Maria, înainte de a vă adânci în istoria ducală la Castelul Ducilor Pomeraniei. După prânz, explorați expozițiile fascinante de la Hambarul Richter și treceți prin istorica Poartă a Morii. După-amiaza, descoperiți trecutul misterios al Turnului Vrăjitoarelor. Încheiați ziua cu o plimbare liniștită de-a lungul malului pitoresc al râului Słupia, bucurându-vă de atmosfera pașnică.",
-        "en": "Start your day at the magnificent Town Hall and feel the city's pulse. The morning takes you through Gothic wonders at St. Mary's Church before delving into ducal history at the Castle of the Pomeranian Dukes. After lunch, explore the fascinating exhibitions at Richter's Granary and pass through the historic Mill Gate. In the afternoon, discover the mysterious past of the Witches' Tower. End your day with a peaceful stroll along the picturesque Słupia riverbank, enjoying the tranquil atmosphere."
+        "en": "Start your day at the magnificent Town Hall and feel the city's pulse. The morning takes you through Gothic wonders at St. Mary's Church before delving into ducal history at the Castle of the Pomeranian Dukes. After lunch, explore the fascinating exhibitions at Richter's Granary and pass through the historic Mill Gate. In the afternoon, discover the mysterious past of the Witches' Tower. End your day with a peaceful stroll along the picturesque Słupia riverbank, enjoying the tranquil atmosphere.",
+        "pl": "Rozpocznij dzień przy wspaniałym Ratuszu i poczuj puls miasta. Rano odwiedź gotyckie cuda w Kościele Mariackim, a potem zgłębiaj książęcą historię w Zamku Książąt Pomorskich. Po obiedzie zwiedź fascynujące wystawy w Spichlerzu Richterów i przejdź przez zabytkową Bramę Młyńską. Po południu odkryj tajemniczą przeszłość Baszty Czarownic. Zakończ dzień spacerem wzdłuż malowniczego brzegu Słupi, podziwiając spokojną atmosferę."
       },
       "gastro_picks": {
         "de": [
@@ -374,6 +389,11 @@
           "Wear comfortable shoes as the cobblestones in the old town can be uneven.",
           "Most sights are within walking distance, so allow enough time for spontaneous discoveries.",
           "Some museums are closed on Mondays, so check opening hours in advance."
+        ],
+        "pl": [
+          "Noś wygodne buty — bruk na starym mieście bywa nierówny.",
+          "Większość atrakcji jest w zasięgu spaceru, więc zarezerwuj czas na spontaniczne odkrycia.",
+          "Niektóre muzea są zamknięte w poniedziałki, sprawdź godziny otwarcia wcześniej."
         ]
       },
       "variants": {
@@ -382,7 +402,8 @@
             "de": "Beginnen Sie den regnerischen Morgen im prächtigen neugotischen Rathaus, dessen Innenräume Schutz bieten. Mittags finden Sie in der Marienkirche Ruhe, während draußen der Regen auf das Dach trommelt. Am Nachmittag ist das Schloss der Pommerschen Herzöge mit seinen Ausstellungen der perfekte Ort zum Verweilen. Beenden Sie den Tag gemütlich im Richterspeicher bei einer Tasse Tee.",
             "hu": "A borús reggelt kezdje a neogótikus városháza lenyűgöző belső tereiben. Délben a Mária-templom vastag falai között leljen menedéket a kopogó eső elől. Délután a Pomerániai Hercegi Kastély Witkacy-gyűjteménye kínál tartalmas beltéri programot. Az estét zárja a Richter-magtár kiállítótermében, élvezve a történelmi épület meghitt, száraz atmoszféráját.",
             "ro": "Începeți dimineața ploioasă în interiorul somptuos al primăriei neogotice. La prânz, Biserica Sf. Maria oferă un refugiu liniștit în timp ce ploaia cade afară. După-amiaza este dedicată Castelului Ducilor Pomeranieni, unde muzeul vă ține la adăpost. Încheiați ziua la Grânarul lui Richter, explorând istoria locală fără a vă uda, într-un cadru istoric autentic.",
-            "en": "Start your rainy morning inside the magnificent neo-Gothic Town Hall. At noon, find sanctuary in St. Mary's Church as the rain patters on the roof. The afternoon is best spent exploring the extensive collections within the Castle of the Pomeranian Dukes. End your day at Richter's Granary, where the historical exhibitions provide a perfect indoor conclusion to your walk."
+            "en": "Start your rainy morning inside the magnificent neo-Gothic Town Hall. At noon, find sanctuary in St. Mary's Church as the rain patters on the roof. The afternoon is best spent exploring the extensive collections within the Castle of the Pomeranian Dukes. End your day at Richter's Granary, where the historical exhibitions provide a perfect indoor conclusion to your walk.",
+            "pl": "Rozpocznij deszczowe rano wewnątrz wspaniałego neogotyckiego Ratusza. W południe schroń się w Kościele Mariackim, gdy deszcz bębni o dach. Popołudnie najlepiej spędzić na zwiedzaniu bogatych zbiorów Zamku Książąt Pomorskich. Zakończ dzień w Spichlerzu Richterów, gdzie historyczne wystawy będą idealnym, klimatycznym zakończeniem spaceru pod dachem."
           },
           "stops": [
             {
@@ -391,7 +412,8 @@
                 "de": "Bewundern Sie die Holzschnitzereien im Flur, während es draußen regnet.",
                 "hu": "Csodálja meg a belső fafaragásokat a folyosón, amíg odakint esik.",
                 "ro": "Admirați sculpturile în lemn de pe hol în timp ce plouă afară.",
-                "en": "Admire the wood carvings in the hallway while it rains outside."
+                "en": "Admire the wood carvings in the hallway while it rains outside.",
+                "pl": "Podziwiaj rzeźbione drewniane zdobienia na korytarzu, gdy na zewnątrz pada."
               }
             },
             {
@@ -400,7 +422,8 @@
                 "de": "Ein idealer Ort, um den stärksten Schauer trocken abzuwarten.",
                 "hu": "Ideális hely a legerősebb zápor szárazon történő megvárására.",
                 "ro": "Un loc ideal pentru a aștepta trecerea celei mai puternice averse.",
-                "en": "An ideal place to wait out the heaviest shower in the dry."
+                "en": "An ideal place to wait out the heaviest shower in the dry.",
+                "pl": "Idealne miejsce, by przeczekać najsilniejszy ulewny deszcz w suchym wnętrzu."
               }
             },
             {
@@ -409,7 +432,8 @@
                 "de": "Nutzen Sie die Garderobe für Ihre nassen Regenmäntel am Eingang.",
                 "hu": "Használja a ruhatárat a vizes esőkabátok számára a bejáratnál.",
                 "ro": "Folosiți garderoba de la intrare pentru pelerinele de ploaie ude.",
-                "en": "Use the cloakroom for your wet raincoats at the entrance."
+                "en": "Use the cloakroom for your wet raincoats at the entrance.",
+                "pl": "Skorzystaj z szatni przy wejściu na mokre płaszcze przeciwdeszczowe."
               }
             },
             {
@@ -418,7 +442,8 @@
                 "de": "Das gemütliche Café im Erdgeschoss ist perfekt bei Regenwetter.",
                 "hu": "A földszinti hangulatos kávézó tökéletes esős időben.",
                 "ro": "Cafeneaua primitoare de la parter este perfectă pe vreme de ploaie.",
-                "en": "The cozy ground-floor cafe is perfect during rainy weather."
+                "en": "The cozy ground-floor cafe is perfect during rainy weather.",
+                "pl": "Przytulna kawiarnia na parterze jest idealna podczas deszczu."
               }
             },
             {
@@ -427,7 +452,8 @@
                 "de": "Kurzer Sprint vom Schloss hierher, um nicht nass zu werden.",
                 "hu": "Rövid sprint a kastélytól idáig, hogy ne ázzon el.",
                 "ro": "Sprint scurt de la castel până aici pentru a nu vă uda.",
-                "en": "Short sprint from the castle to here to avoid getting wet."
+                "en": "Short sprint from the castle to here to avoid getting wet.",
+                "pl": "Krótki sprint z zamku tutaj, by nie zmoknąć."
               }
             },
             {
@@ -436,7 +462,8 @@
                 "de": "Die Ausstellungen im Turm bieten Schutz vor dem Wind.",
                 "hu": "A torony belső kiállításai védelmet nyújtanak a szél ellen.",
                 "ro": "Expozițiile din turn oferă protecție împotriva vântului.",
-                "en": "The exhibitions inside the tower offer protection from the wind."
+                "en": "The exhibitions inside the tower offer protection from the wind.",
+                "pl": "Wystawy wewnątrz wieży chronią przed wiatrem."
               }
             },
             {
@@ -445,7 +472,8 @@
                 "de": "Vorsicht, die Uferwege können bei Regen rutschig sein.",
                 "hu": "Vigyázat, a folyóparti utak esőben csúszósak lehetnek.",
                 "ro": "Atenție, potecile de pe malul râului pot fi alunecoase pe ploaie.",
-                "en": "Watch out, the riverbank paths can be slippery in the rain."
+                "en": "Watch out, the riverbank paths can be slippery in the rain.",
+                "pl": "Uwaga — ścieżki przy brzegu rzeki mogą być śliskie podczas deszczu."
               }
             }
           ],
@@ -477,6 +505,13 @@
               "Umbrellas can be tricky near the river due to potential gusts.",
               "Many cafes around the market square provide cozy shelters.",
               "Use the Mill Gate passages as a quick spot to stay dry."
+            ],
+            "pl": [
+              "Noś wodoodporne buty, bo bruk starego miasta łatwo tworzy kałuże.",
+              "Muzeum Zamkowe zapewnia godziny schronienia przed złą pogodą.",
+              "Parasolki bywają problematyczne przy rzece z powodu porywistych podmuchów wiatru.",
+              "Wiele kawiarni wokół rynku oferuje przytulne schronienie.",
+              "Wykorzystaj przejścia Bramą Młyńską jako szybkie miejsce, by nie zmoknąć."
             ]
           }
         },
@@ -485,7 +520,8 @@
             "de": "Erleben Sie Słupsk im Winterlicht, beginnend am frostigen Marktplatz. Mittags wärmt die Marienkirche nicht nur die Seele, sondern bietet auch Schutz vor der Kälte. Nachmittags im Schlossmuseum erfahren Sie mehr über die Herzöge, während draußen früh die Dämmerung einsetzt. Beenden Sie den Tag bei einer heißen Schokolade im Richterspeicher, während die Lichter der Stadt im Schnee glitzern.",
             "hu": "Fedezze fel Słupskot téli fényekben, kezdve a fagyos főtéren. Délben a Mária-templom nyugalma testi-lelki felmelegedést nyújt a hideg után. Délután a hercegi kastély falai között barangolva elkerülheti a korai sötétedést. Az estét zárja forró csokoládéval a Richter-magtárban, miközben az ablakon túl a város fényei szikráznak a téli hóban.",
             "ro": "Descoperiți Słupsk în lumina iernii, începând din piața înghețată a orașului. La prânz, Biserica Sf. Maria oferă un moment de reculegere și căldură. După-amiaza la castel este ideală pentru a evita amurgul timpuriu de afară. Încheiați ziua cu o ciocolată caldă la Grânarul lui Richter, în timp ce luminile orașului sclipesc peste zăpadă.",
-            "en": "Experience Słupsk in winter light, starting at the frosty market square. At noon, St. Mary's Church offers a peaceful spot to warm up. The afternoon in the Castle Museum is perfect for avoiding the early winter twilight outside. End your day with a hot chocolate at Richter's Granary, watching the city lights twinkle against the falling snow."
+            "en": "Experience Słupsk in winter light, starting at the frosty market square. At noon, St. Mary's Church offers a peaceful spot to warm up. The afternoon in the Castle Museum is perfect for avoiding the early winter twilight outside. End your day with a hot chocolate at Richter's Granary, watching the city lights twinkle against the falling snow.",
+            "pl": "Poczuj Słupsk w zimowym świetle, zaczynając na mroźnym rynku. W południe Kościół Mariacki to spokojne miejsce, by się rozgrzać. Popołudnie w Muzeum Zamkowym jest idealne, by uniknąć wczesnego zimowego zmierzchu. Zakończ dzień gorącą czekoladą w Spichlerzu Richterów, obserwując migoczące światła miasta na tle opadającego śniegu."
           },
           "stops": [
             {
@@ -494,7 +530,8 @@
                 "de": "Die warme Lobby ist ein guter Ort, um sich kurz aufzuwärmen.",
                 "hu": "A fűtött előcsarnok kiváló hely egy rövid felmelegedéshez.",
                 "ro": "Lobby-ul încălzit este un loc bun pentru o scurtă încălzire.",
-                "en": "The warm lobby is a good spot for a quick warm-up."
+                "en": "The warm lobby is a good spot for a quick warm-up.",
+                "pl": "Ciepłe lobby to dobre miejsce na szybkie rozgrzanie."
               }
             },
             {
@@ -503,7 +540,8 @@
                 "de": "Im Winter ist es hier oft wärmer als in den windigen Gassen.",
                 "hu": "Télen itt gyakran melegebb van, mint a szeles utcákon.",
                 "ro": "Iarna, aici este adesea mai cald decât pe străzile vântoase.",
-                "en": "In winter, it is often warmer here than in the windy alleys."
+                "en": "In winter, it is often warmer here than in the windy alleys.",
+                "pl": "Zimą często jest tu cieplej niż w wietrznych zaułkach."
               }
             },
             {
@@ -512,7 +550,8 @@
                 "de": "Besuchen Sie die Ausstellungen, wenn die Kälte draußen zunimmt.",
                 "hu": "Irány a belső kiállítás, ha kint már nagyon csípős a hideg.",
                 "ro": "Vizitați expozițiile când frigul de afară devine tăios.",
-                "en": "Head to the exhibitions when the cold outside gets biting."
+                "en": "Head to the exhibitions when the cold outside gets biting.",
+                "pl": "Udaj się na wystawy, gdy na zewnątrz zrobi się przenikliwie zimno."
               }
             },
             {
@@ -521,7 +560,8 @@
                 "de": "Genießen Sie den Blick auf die Słupia aus den beheizten Räumen.",
                 "hu": "Élvezze a Słupia-parti kilátást a fűtött belső terekből.",
                 "ro": "Bucurați-vă de vederea spre Słupia din spațiile încălzite.",
-                "en": "Enjoy the view of the Słupia from the heated interior spaces."
+                "en": "Enjoy the view of the Słupia from the heated interior spaces.",
+                "pl": "Podziwiaj widok Słupi z ogrzewanych wnętrz."
               }
             },
             {
@@ -530,7 +570,8 @@
                 "de": "Vorsicht vor Eiszapfen, die von den historischen Dächern hängen könnten.",
                 "hu": "Vigyázzon a történelmi tetőkről lelógó jégcsapokra.",
                 "ro": "Atenție la țurțurii care pot atârna de pe acoperișurile istorice.",
-                "en": "Watch out for icicles that might hang from the historic roofs."
+                "en": "Watch out for icicles that might hang from the historic roofs.",
+                "pl": "Uważaj na sopla, które mogą wisieć z zabytkowych dachów."
               }
             },
             {
@@ -539,7 +580,8 @@
                 "de": "Der Turm wirkt im Schnee besonders mystisch und fotogen.",
                 "hu": "A torony a hóban különösen misztikus és fotogén látvány.",
                 "ro": "Turnul arată deosebit de mistic și fotogenic în zăpadă.",
-                "en": "The tower looks particularly mystic and photogenic in the snow."
+                "en": "The tower looks particularly mystic and photogenic in the snow.",
+                "pl": "Wieża wygląda szczególnie mistycznie i efektownie na zdjęciach w śniegu."
               }
             },
             {
@@ -548,7 +590,8 @@
                 "de": "Die Sonne geht im Winter gegen 16:00 Uhr unter, planen Sie das ein.",
                 "hu": "A nap télen 16:00 körül nyugszik, tervezzen ezzel előre.",
                 "ro": "Soarele apune în jur de ora 16:00 iarna, planificați din timp.",
-                "en": "The sun sets around 4:00 PM in winter, plan accordingly."
+                "en": "The sun sets around 4:00 PM in winter, plan accordingly.",
+                "pl": "Słońce zachodzi około 16:00 zimą — zaplanuj to odpowiednio."
               }
             }
           ],
@@ -580,6 +623,13 @@
               "Take advantage of the early darkness for photos of the lit-up old town.",
               "Museums might have shorter hours in winter, check before you go.",
               "A hot tea near the castle area helps fight the winter chill."
+            ],
+            "pl": [
+              "Noś termiczne warstwy — wiatr znad Bałtyku potrafi mocno szczypać.",
+              "Chodniki mogą być śliskie, szczególnie przy brzegu rzeki.",
+              "Wykorzystaj wczesny zmrok na zdjęcia starego miasta podświetlonego nocą.",
+              "Muzea mogą mieć krótsze godziny zimą, sprawdź przed wyjściem.",
+              "Gorąca herbata w pobliżu zamku pomaga zwalczyć zimowy chłód."
             ]
           }
         }
@@ -598,7 +648,8 @@
             "de": "Rathaus von Słupsk",
             "hu": "Słupski Városháza",
             "ro": "Primăria din Słupsk",
-            "en": "Słupsk Town Hall"
+            "en": "Słupsk Town Hall",
+            "pl": "Ratusz w Słupsku"
           },
           "coords": [
             17.0285,
@@ -613,7 +664,8 @@
             "de": "Perfekter Startpunkt. Schließen Sie Ihr Fahrrad sicher ab, bevor Sie den Turm besteigen.",
             "hu": "Tökéletes kiindulópont. Zárd le biztonságosan a biciklidet, mielőtt felmész a toronyba.",
             "ro": "Punct de plecare perfect. Asigurați-vă bicicleta înainte de a urca în turn.",
-            "en": "Perfect starting point. Lock your bike securely before climbing the tower."
+            "en": "Perfect starting point. Lock your bike securely before climbing the tower.",
+            "pl": "Idealne miejsce na start. Zabezpiecz rower solidnym zamkiem przed wejściem na wieżę."
           }
         },
         {
@@ -621,7 +673,8 @@
             "de": "Schloss der Pommerschen Herzöge",
             "hu": "Pomerániai Hercegek Vára",
             "ro": "Castelul Ducilor Pomeraniei",
-            "en": "Castle of the Pomeranian Dukes"
+            "en": "Castle of the Pomeranian Dukes",
+            "pl": "Zamek Książąt Pomorskich"
           },
           "coords": [
             17.0225,
@@ -636,7 +689,8 @@
             "de": "Planen Sie genügend Zeit für das Museum im Inneren ein. Es gibt Fahrradständer in der Nähe.",
             "hu": "Szánj elég időt a belső múzeumra. A közelben vannak kerékpártárolók.",
             "ro": "Planificați suficient timp pentru muzeul din interior. Există suporturi pentru biciclete în apropiere.",
-            "en": "Plan enough time for the museum inside. There are bike racks nearby."
+            "en": "Plan enough time for the museum inside. There are bike racks nearby.",
+            "pl": "Zaplanuj wystarczająco dużo czasu na muzeum w środku. W pobliżu znajdują się stojaki na rowery."
           }
         },
         {
@@ -644,7 +698,8 @@
             "de": "Mühlentor & Richter-Speicher",
             "hu": "Malom-kapu és Richter-magtár",
             "ro": "Poarta Morii & Hambarul Richter",
-            "en": "Mill Gate & Richter's Granary"
+            "en": "Mill Gate & Richter's Granary",
+            "pl": "Brama Młyńska i Spichrz Richterów"
           },
           "coords": [
             17.0235,
@@ -659,7 +714,8 @@
             "de": "Diese beiden historischen Stätten liegen direkt nebeneinander, perfekt für einen kombinierten Besuch.",
             "hu": "Ez a két történelmi helyszín közvetlenül egymás mellett található, tökéletes egy közös látogatáshoz.",
             "ro": "Aceste două situri istorice sunt chiar unul lângă celălalt, perfecte pentru o vizită combinată.",
-            "en": "These two historic sites are right next to each other, perfect for a combined visit."
+            "en": "These two historic sites are right next to each other, perfect for a combined visit.",
+            "pl": "Te dwie zabytkowe atrakcje są tuż obok siebie — świetne na wspólną wizytę."
           }
         },
         {
@@ -667,7 +723,8 @@
             "de": "Fahrt entlang des Słupia-Flussufers",
             "hu": "Biciklizés a Słupia folyó partján",
             "ro": "Plimbare cu bicicleta pe malul râului Słupia",
-            "en": "Ride along the Słupia Riverbank"
+            "en": "Ride along the Słupia Riverbank",
+            "pl": "Przejażdżka wzdłuż brzegu Słupi"
           },
           "coords": [
             17.015,
@@ -682,7 +739,8 @@
             "de": "Der Radweg ist gut ausgebaut. Machen Sie eine Pause in einem der Parks entlang des Weges.",
             "hu": "A kerékpárút jól kiépített. Tarts szünetet az egyik parkban útközben.",
             "ro": "Pista de biciclete este bine dezvoltată. Luați o pauză într-unul dintre parcurile de pe drum.",
-            "en": "The bike path is well-developed. Take a break in one of the parks along the way."
+            "en": "The bike path is well-developed. Take a break in one of the parks along the way.",
+            "pl": "Ścieżka rowerowa jest dobrze rozwinięta. Zrób przerwę w jednym z parków po drodze."
           }
         },
         {
@@ -690,7 +748,8 @@
             "de": "Hexenturm (Baszta Czarownic)",
             "hu": "Boszorkánytorony (Baszta Czarownic)",
             "ro": "Turnul Vrăjitoarelor (Baszta Czarownic)",
-            "en": "Witches' Tower (Baszta Czarownic)"
+            "en": "Witches' Tower (Baszta Czarownic)",
+            "pl": "Baszta Czarownic"
           },
           "coords": [
             17.0269,
@@ -705,7 +764,8 @@
             "de": "Nach der Radtour eine willkommene kulturelle Abwechslung in der Kunstgalerie.",
             "hu": "A biciklitúra után üdítő kulturális kitérő a művészeti galériában.",
             "ro": "O pauză culturală binevenită la galeria de artă după plimbarea cu bicicleta.",
-            "en": "A welcome cultural break at the art gallery after the bike ride."
+            "en": "A welcome cultural break at the art gallery after the bike ride.",
+            "pl": "Kulturalna przerwa w galerii po przejażdżce rowerowej."
           }
         },
         {
@@ -713,7 +773,8 @@
             "de": "St.-Hyazinth-Kirche",
             "hu": "Szent Jácint-templom",
             "ro": "Biserica Sf. Iacint",
-            "en": "St. Hyacinth's Church"
+            "en": "St. Hyacinth's Church",
+            "pl": "Kościół św. Jacka"
           },
           "coords": [
             17.0245,
@@ -728,7 +789,8 @@
             "de": "Eine der ältesten Kirchen der Stadt mit einer einzigartigen Fachwerkkonstruktion.",
             "hu": "A város egyik legrégebbi temploma, egyedi favázas szerkezettel.",
             "ro": "Una dintre cele mai vechi biserici din oraș, cu o construcție unică din lemn.",
-            "en": "One of the oldest churches in the city with a unique half-timbered construction."
+            "en": "One of the oldest churches in the city with a unique half-timbered construction.",
+            "pl": "Jeden z najstarszych kościołów w mieście o unikatowej konstrukcji szachulcowej."
           }
         }
       ],
@@ -736,7 +798,8 @@
         "de": "Schwingen Sie sich am Rathaus auf Ihr Fahrrad und starten Sie den Tag. Radeln Sie zum Schloss der Herzöge, wo Geschichte lebendig wird. Nach einer ausgiebigen Erkundung geht es weiter zum Fluss, wo das Mühlentor und der Richter-Speicher auf Sie warten. Gönnen Sie sich am Mittag eine lange, erfrischende Fahrt entlang des Słupia-Ufers, die perfekte Flucht aus der Stadt. Am Nachmittag kehren Sie ins Zentrum zurück, um die Kunst im Hexenturm zu bewundern und die stille Andacht der St.-Hyazinth-Kirche zu erleben, bevor Sie den Tag ausklingen lassen.",
         "hu": "Pattanj biciklire a Városházánál a nap indításaként. Tekerj el a Hercegek Várához, ahol a történelem megelevenedik. Egy alapos felfedezés után folytasd az utat a folyóhoz, ahol a Malom-kapu és a Richter-magtár vár. Délben engedj meg magadnak egy hosszú, frissítő biciklizést a Słupia partján, tökéletes menekülés a városból. Délután térj vissza a központba, hogy megcsodáld a Boszorkánytorony művészetét és megtapasztald a Szent Jácint-templom csendes áhítatát, mielőtt lezárnád a napot.",
         "ro": "Urcați-vă pe bicicletă la Primărie pentru a începe ziua. Pedalați spre Castelul Ducilor, unde istoria prinde viață. După o explorare amănunțită, continuați spre râu, unde vă așteaptă Poarta Morii și Hambarul Richter. La prânz, bucurați-vă de o plimbare lungă și revigorantă de-a lungul malului Słupia, evadarea perfectă din oraș. După-amiaza, reveniți în centru pentru a admira arta din Turnul Vrăjitoarelor și a experimenta devoțiunea liniștită a Bisericii Sf. Iacint înainte de a încheia ziua.",
-        "en": "Hop on your bike at the Town Hall to kick off the day. Cycle to the Dukes' Castle where history comes alive. After a thorough exploration, continue to the river where the Mill Gate and Richter's Granary await. At midday, treat yourself to a long, refreshing ride along the Słupia riverbank, the perfect urban escape. In the afternoon, return to the center to admire the art in the Witches' Tower and experience the quiet devotion of St. Hyacinth's Church before wrapping up the day."
+        "en": "Hop on your bike at the Town Hall to kick off the day. Cycle to the Dukes' Castle where history comes alive. After a thorough exploration, continue to the river where the Mill Gate and Richter's Granary await. At midday, treat yourself to a long, refreshing ride along the Słupia riverbank, the perfect urban escape. In the afternoon, return to the center to admire the art in the Witches' Tower and experience the quiet devotion of St. Hyacinth's Church before wrapping up the day.",
+        "pl": "Wskocz na rower przy Ratuszu, by rozpocząć dzień. Przejedź do Zamku Książąt, gdzie historia ożywa. Po dokładnym zwiedzaniu jedź dalej nad rzekę, gdzie czekają Brama Młyńska i Spichrz Richterów. W południe pozwól sobie na długą, orzeźwiającą przejażdżkę brzegiem Słupi — idealny miejski odpoczynek. Po południu wróć do centrum, by podziwiać sztukę w Baszcie Czarownic i doświadczyć cichej zadumy w Kościele św. Jacka, kończąc dzień."
       },
       "gastro_picks": {
         "de": [
@@ -928,6 +991,11 @@
           "Słupsk is relatively flat and therefore very bike-friendly.",
           "Pay attention to the bike lanes, but also be prepared for streets without separate paths.",
           "Bring a good lock to secure your bike at the sights."
+        ],
+        "pl": [
+          "Słupsk jest stosunkowo płaski i bardzo przyjazny rowerzystom.",
+          "Zwracaj uwagę na drogi rowerowe, ale przygotuj się też na ulice bez oddzielnych ścieżek.",
+          "Weź dobry zamek, by zabezpieczyć rower przy atrakcjach."
         ]
       },
       "variants": {
@@ -936,7 +1004,8 @@
             "de": "Eine Radtour durch Słupsk bei Regen erfordert Vorsicht auf dem Kopfsteinpflaster am Rathaus. Mittags bietet das Schlossmuseum einen langen, trockenen Aufenthalt für Radfahrer. Nachmittags führt die Route am Fluss entlang, wo der Asphalt griffiger ist als in der Altstadt. Beenden Sie die Tour an der St.-Hyazinth-Kirche, wo Sie unter den Bäumen kurz verschnaufen können.",
             "hu": "Az esős kerékpártúra Słupskban óvatosságot igényel a városháza környéki macskaköveken. Délben a Kastélymúzeum biztosít hosszú, száraz pihenőt a bringásoknak. Délután a folyóparti aszfaltozott utakon haladjon, ahol jobb a tapadás, mint a belvárosban. A túrát a Szent Jácint-templomnál zárja, ahol a fák alatt találhat rövid menedéket.",
             "ro": "O tură cu bicicleta prin Słupsk pe ploaie necesită prudență pe pavajul de lângă primărie. La prânz, Muzeul Castelului oferă un popas lung și uscat pentru bicicliști. După-amiaza, urmați ruta de pe malul râului, unde asfaltul oferă aderență mai bună. Încheiați turul la Biserica Sf. Hyacinth, unde copacii oferă un scurt adăpost.",
-            "en": "Cycling through Słupsk in the rain requires caution on the cobblestones near the Town Hall. At noon, the Castle Museum provides a long, dry break for cyclists. In the afternoon, stick to the riverbank paths where the asphalt is safer than in the old town. Finish your ride at St. Hyacinth's Church, where the large trees offer a bit of cover."
+            "en": "Cycling through Słupsk in the rain requires caution on the cobblestones near the Town Hall. At noon, the Castle Museum provides a long, dry break for cyclists. In the afternoon, stick to the riverbank paths where the asphalt is safer than in the old town. Finish your ride at St. Hyacinth's Church, where the large trees offer a bit of cover.",
+            "pl": "Jazda rowerem po Słupsku w deszczu wymaga ostrożności na brukach przy Ratuszu. W południe Muzeum Zamkowe daje długą, suchą przerwę dla rowerzystów. Po południu trzymaj się ścieżek brzegowych, gdzie asfalt jest bezpieczniejszy niż w starym mieście. Zakończ przejażdżkę przy Kościele św. Jacka, gdzie duże drzewa dają trochę osłony."
           },
           "stops": [
             {
@@ -945,7 +1014,8 @@
                 "de": "Vorsicht beim Bremsen auf dem nassen Pflaster vor dem Gebäude.",
                 "hu": "Vigyázzon a fékezéssel a nedves kövezeteten az épület előtt.",
                 "ro": "Atenție la frânare pe pavajul ud din fața clădirii.",
-                "en": "Be careful when braking on the wet stones in front of the building."
+                "en": "Be careful when braking on the wet stones in front of the building.",
+                "pl": "Uważaj przy hamowaniu na mokrych kamieniach przed budynkiem."
               }
             },
             {
@@ -954,7 +1024,8 @@
                 "de": "Sichere Fahrradständer befinden sich direkt am Museumseingang.",
                 "hu": "Biztonságos biciklitárolók találhatók közvetlenül a múzeumnál.",
                 "ro": "Rasteluri sigure pentru biciclete se află chiar la intrare.",
-                "en": "Secure bike racks are located right by the museum entrance."
+                "en": "Secure bike racks are located right by the museum entrance.",
+                "pl": "Zabezpieczone stojaki na rowery znajdują się tuż przy wejściu do muzeum."
               }
             },
             {
@@ -963,7 +1034,8 @@
                 "de": "Stellen Sie Ihr Rad unter das Dach der Mühlenpforte bei Schauern.",
                 "hu": "Zápor idején állítsa a biciklit a Malom-kapu tetője alá.",
                 "ro": "Puneți bicicleta sub acoperișul Porții Morii în timpul averselor.",
-                "en": "Park your bike under the Mill Gate roof during heavy showers."
+                "en": "Park your bike under the Mill Gate roof during heavy showers.",
+                "pl": "Zaparkuj rower pod dachem Bramy Młyńskiej podczas ulewnych opadów."
               }
             },
             {
@@ -972,7 +1044,8 @@
                 "de": "Die asphaltierten Radwege am Fluss sind bei Regen sicherer.",
                 "hu": "Az aszfaltozott kerékpárutak a folyónál biztonságosabbak esőben.",
                 "ro": "Pistele de biciclete asfaltate de lângă râu sunt mai sigure pe ploaie.",
-                "en": "The paved bike paths by the river are safer during the rain."
+                "en": "The paved bike paths by the river are safer during the rain.",
+                "pl": "Utrzymane nawierzchnie ścieżek rowerowych przy rzece są bezpieczniejsze podczas deszczu."
               }
             },
             {
@@ -981,7 +1054,8 @@
                 "de": "Kurzer Stopp für ein Foto, bevor die Sicht durch Regen schlechter wird.",
                 "hu": "Gyors fotómegálló, mielőtt az eső rontaná a látási viszonyokat.",
                 "ro": "Oprire scurtă pentru poze înainte ca vizibilitatea să scadă.",
-                "en": "Quick photo stop before visibility drops due to the rain."
+                "en": "Quick photo stop before visibility drops due to the rain.",
+                "pl": "Krótki postój na zdjęcie, zanim pogorszy się widoczność z powodu deszczu."
               }
             },
             {
@@ -990,7 +1064,8 @@
                 "de": "Parken Sie Ihr Rad trocken unter dem Vordach, falls möglich.",
                 "hu": "Próbálja a biciklit száraz helyen hagyni az előtető alatt.",
                 "ro": "Încercați să parcați bicicleta la uscat sub streașină.",
-                "en": "Try to park your bike in a dry spot under the eaves if possible."
+                "en": "Try to park your bike in a dry spot under the eaves if possible.",
+                "pl": "Staraj się zaparkować rower w suchym miejscu pod okapem, jeśli to możliwe."
               }
             }
           ],
@@ -1022,6 +1097,13 @@
               "Wear a bright raincoat to ensure better visibility for drivers.",
               "Check your brakes thoroughly before heading out in the rain.",
               "Old town cobblestones get extremely slippery during rainfall."
+            ],
+            "pl": [
+              "Używaj błotników, by zapobiec chlapanemu brudowi na ubraniach.",
+              "Unikaj malowanych oznaczeń na jezdni — stają się śliskie po deszczu.",
+              "Noś jasny płaszcz przeciwdeszczowy, by być lepiej widocznym dla kierowców.",
+              "Sprawdź hamulce dokładnie przed wyjazdem w deszczu.",
+              "Bruk starego miasta staje się ekstremalnie śliski podczas opadów."
             ]
           }
         },
@@ -1030,7 +1112,8 @@
             "de": "Radfahren im Winter in Słupsk ist erfrischend, erfordert aber warme Kleidung gegen den Wind. Mittags bietet das Schloss eine perfekte Aufwärmpause in beheizten Räumen. Nachmittags gleiten Sie am Fluss entlang, wo der Schnee oft geräumt ist. Beenden Sie die Tour früh, da die Kälte nach Sonnenuntergang schnell zunimmt und die Wege glatt werden können.",
             "hu": "A téli kerékpározás Słupskban frissítő, de meleg öltözetet igényel a szél ellen. Délben a kastély fűtött terei tökéletes pihenőt nyújtanak. Délután tekerjen a folyóparton, ahol gyakrabban takarítják a havat az utakról. Fejezze be korán a túrát, mert napnyugta után a hideg hirtelen fokozódik, és az utak lefagyhatnak.",
             "ro": "Ciclismul de iarnă în Słupsk este revigorant, dar necesită haine groase contra vântului. La prânz, castelul oferă o pauză de încălzire în spații climatizate. După-amiaza, pedalați pe lângă râu, unde zăpada este adesea curățată. Încheiați tura devreme, deoarece frigul se intensifică rapid după apus.",
-            "en": "Winter cycling in Słupsk is refreshing but demands warm gear against the wind. At noon, the castle provides a perfect warming break in heated rooms. In the afternoon, glide along the riverbank where paths are often cleared of snow. End your ride early, as the temperature drops quickly after sunset and paths may freeze."
+            "en": "Winter cycling in Słupsk is refreshing but demands warm gear against the wind. At noon, the castle provides a perfect warming break in heated rooms. In the afternoon, glide along the riverbank where paths are often cleared of snow. End your ride early, as the temperature drops quickly after sunset and paths may freeze.",
+            "pl": "Zimowa jazda rowerem w Słupsku jest orzeźwiająca, ale wymaga ciepłego wyposażenia przeciw wiatrowi. W południe zamek daje idealną rozgrzewkę w ogrzewanych salach. Po południu jedź brzegiem rzeki, gdzie ścieżki są często odśnieżane. Zakończ przejażdżkę wcześniej, bo temperatura szybko spada po zachodzie słońca, a ścieżki mogą zamarzać."
           },
           "stops": [
             {
@@ -1039,7 +1122,8 @@
                 "de": "Vorsicht vor gefrorenen Pfützen auf dem Marktplatz.",
                 "hu": "Vigyázzon a lefagyott tócsákra a főtéren.",
                 "ro": "Atenție la bălțile înghețate din piața orașului.",
-                "en": "Watch out for frozen puddles in the market square."
+                "en": "Watch out for frozen puddles in the market square.",
+                "pl": "Uważaj na zamarznięte kałuże na rynku."
               }
             },
             {
@@ -1048,7 +1132,8 @@
                 "de": "Schließen Sie Ihr Rad an und wärmen Sie sich im Museum auf.",
                 "hu": "Zárja le a biciklit, és melegedjen fel a múzeumban.",
                 "ro": "Încuiați bicicleta și încălziți-vă în interiorul muzeului.",
-                "en": "Lock your bike and warm up inside the museum."
+                "en": "Lock your bike and warm up inside the museum.",
+                "pl": "Zabezpiecz rower i rozgrzej się w muzeum."
               }
             },
             {
@@ -1057,7 +1142,8 @@
                 "de": "Der Speicher bietet eine tolle Aussicht auf die winterliche Stadt.",
                 "hu": "A magtárból remek kilátás nyílik a téli városra.",
                 "ro": "Grânarul oferă o vedere superbă asupra orașului iarna.",
-                "en": "The granary offers a great view of the winter city."
+                "en": "The granary offers a great view of the winter city.",
+                "pl": "Ze spichlerza roztacza się świetny widok na zimowe miasto."
               }
             },
             {
@@ -1066,7 +1152,8 @@
                 "de": "Achten Sie auf Glatteis auf den Brücken über die Słupia.",
                 "hu": "Ügyeljen a jegesedésre a Słupia feletti hidakon.",
                 "ro": "Atenție la polei pe podurile de peste râul Słupia.",
-                "en": "Watch out for black ice on the bridges over the Słupia."
+                "en": "Watch out for black ice on the bridges over the Słupia.",
+                "pl": "Uważaj na czarny lód na mostach nad Słupią."
               }
             },
             {
@@ -1075,7 +1162,8 @@
                 "de": "Ein schneller Fotostopp, bevor die Finger zu kalt werden.",
                 "hu": "Gyors fotómegálló, mielőtt lefagynának az ujjai.",
                 "ro": "O oprire foto rapidă înainte să vă înghețe degetele.",
-                "en": "A quick photo stop before your fingers get too cold."
+                "en": "A quick photo stop before your fingers get too cold.",
+                "pl": "Krótka sesja zdjęciowa, zanim palce zrobią się zbyt zimne."
               }
             },
             {
@@ -1084,7 +1172,8 @@
                 "de": "Die Kirche bietet am Ende der Tour einen Moment der Ruhe.",
                 "hu": "A templom a túra végén csendes nyugalmat áraszt.",
                 "ro": "Biserica oferă un moment de liniște la finalul rutei.",
-                "en": "The church offers a moment of peace at the end of the tour."
+                "en": "The church offers a moment of peace at the end of the tour.",
+                "pl": "Kościół oferuje chwilę zadumy na zakończenie trasy."
               }
             }
           ],
@@ -1116,6 +1205,13 @@
               "Ride defensively as braking distances are longer on snow.",
               "Use bright lights, as winter days are often foggy or overcast.",
               "Be aware of road salt, as it can corrode your bike chain."
+            ],
+            "pl": [
+              "Dobre rękawice i ochrona przed wiatrem to konieczność dla zimowych rowerzystów.",
+              "Sprawdź ciśnienie w oponach — zimą często nieco spada.",
+              "Jedź defensywnie — drogi hamowania są dłuższe na śniegu.",
+              "Używaj mocnych świateł — zimowe dni bywają mglisté lub pochmurne.",
+              "Zwróć uwagę na sól drogową — może korodować łańcuch rowerowy."
             ]
           }
         }
@@ -1134,7 +1230,8 @@
             "de": "Parkplatz Altstadt",
             "hu": "Parkoló az Óvárosban",
             "ro": "Parcare în Centrul Vechi",
-            "en": "Old Town Car Park"
+            "en": "Old Town Car Park",
+            "pl": "Parking Starego Miasta"
           },
           "coords": [
             17.032,
@@ -1150,7 +1247,8 @@
             "de": "Parken Sie hier und erkunden Sie den ersten Cluster zu Fuß.",
             "hu": "Parkolj le itt, és fedezd fel az első látnivaló-csoportot gyalog.",
             "ro": "Parcați aici și explorați primul grup de atracții pe jos.",
-            "en": "Park here and explore the first cluster on foot."
+            "en": "Park here and explore the first cluster on foot.",
+            "pl": "Zaparkuj tu i zwiedzaj pierwszą grupę atrakcji pieszo."
           }
         },
         {
@@ -1158,7 +1256,8 @@
             "de": "Rathaus & Marienkirche",
             "hu": "Városháza és Mária-templom",
             "ro": "Primăria și Biserica Sf. Maria",
-            "en": "Town Hall & St. Mary's Church"
+            "en": "Town Hall & St. Mary's Church",
+            "pl": "Ratusz i Kościół Mariacki"
           },
           "coords": [
             17.0293,
@@ -1174,7 +1273,8 @@
             "de": "Diese beiden Hauptsehenswürdigkeiten liegen nur wenige Schritte voneinander entfernt.",
             "hu": "Ez a két fő látnivaló csak pár lépésre van egymástól.",
             "ro": "Aceste două atracții principale sunt la doar câțiva pași una de cealaltă.",
-            "en": "These two main sights are just a few steps from each other."
+            "en": "These two main sights are just a few steps from each other.",
+            "pl": "Te dwa główne punkty leżą zaledwie kilka kroków od siebie."
           }
         },
         {
@@ -1182,7 +1282,8 @@
             "de": "St.-Hyazinth-Kirche",
             "hu": "Szent Jácint-templom",
             "ro": "Biserica Sf. Iacint",
-            "en": "St. Hyacinth's Church"
+            "en": "St. Hyacinth's Church",
+            "pl": "Kościół św. Jacka"
           },
           "coords": [
             17.0245,
@@ -1198,7 +1299,8 @@
             "de": "Ein kurzer Spaziergang vom Hauptplatz durch charmante Gassen.",
             "hu": "Rövid séta a főtérről bájos sikátorokon keresztül.",
             "ro": "O scurtă plimbare din piața principală pe alei fermecătoare.",
-            "en": "A short walk from the main square through charming alleys."
+            "en": "A short walk from the main square through charming alleys.",
+            "pl": "Krótki spacer z głównego rynku przez urokliwe uliczki."
           }
         },
         {
@@ -1206,7 +1308,8 @@
             "de": "Parkplatz Schloss & Fluss",
             "hu": "Parkoló a Várnál és a folyónál",
             "ro": "Parcare la Castel și Râu",
-            "en": "Castle & River Car Park"
+            "en": "Castle & River Car Park",
+            "pl": "Parking przy Zamku i nad Rzeką"
           },
           "coords": [
             17.0215,
@@ -1222,7 +1325,8 @@
             "de": "Fahren Sie zum zweiten Cluster. Von hier aus ist alles am Flussufer zu Fuß erreichbar.",
             "hu": "Vezess át a második látnivaló-csoporthoz. Innen minden elérhető gyalog a folyóparton.",
             "ro": "Conduceți spre al doilea grup. Totul de pe malul râului este la distanță de mers pe jos de aici.",
-            "en": "Drive to the second cluster. Everything on the riverbank is within walking distance from here."
+            "en": "Drive to the second cluster. Everything on the riverbank is within walking distance from here.",
+            "pl": "Podjedź do drugiej grupy atrakcji. Wszystko nad rzeką jest w zasięgu spaceru stąd."
           }
         },
         {
@@ -1230,7 +1334,8 @@
             "de": "Schloss, Mühlentor & Richter-Speicher",
             "hu": "Vár, Malom-kapu és Richter-magtár",
             "ro": "Castel, Poarta Morii și Hambarul Richter",
-            "en": "Castle, Mill Gate & Richter's Granary"
+            "en": "Castle, Mill Gate & Richter's Granary",
+            "pl": "Zamek, Brama Młyńska i Spichrz Richterów"
           },
           "coords": [
             17.0225,
@@ -1246,7 +1351,8 @@
             "de": "Nehmen Sie sich Zeit für dieses reiche historische Ensemble. Das Mittagessen passt gut in diese lange Pause.",
             "hu": "Szánj időt erre a gazdag történelmi együttesre. Az ebéd jól belefér ebbe a hosszú szünetbe.",
             "ro": "Luați-vă timp pentru acest ansamblu istoric bogat. Prânzul se potrivește bine în această pauză lungă.",
-            "en": "Take your time for this rich historical ensemble. Lunch fits well into this long break."
+            "en": "Take your time for this rich historical ensemble. Lunch fits well into this long break.",
+            "pl": "Poświęć czas na to bogate historyczne zespołu. Obiad dobrze wpasuje się w tę dłuższą przerwę."
           }
         },
         {
@@ -1254,7 +1360,8 @@
             "de": "Hexenturm & Flussufer",
             "hu": "Boszorkánytorony és folyópart",
             "ro": "Turnul Vrăjitoarelor și malul râului",
-            "en": "Witches' Tower & Riverbank"
+            "en": "Witches' Tower & Riverbank",
+            "pl": "Baszta Czarownic i Brzeg Rzeki"
           },
           "coords": [
             17.0269,
@@ -1270,7 +1377,8 @@
             "de": "Ein kurzer Spaziergang zum Turm und dann ein entspannender Abschluss des Tages am Wasser.",
             "hu": "Egy rövid séta a toronyhoz, majd egy pihentető napzárás a vízparton.",
             "ro": "O scurtă plimbare până la turn și apoi o încheiere relaxantă a zilei la malul apei.",
-            "en": "A short walk to the tower and then a relaxing end to the day by the water."
+            "en": "A short walk to the tower and then a relaxing end to the day by the water.",
+            "pl": "Krótki spacer do wieży, a potem relaksujące zakończenie dnia nad wodą."
           }
         }
       ],
@@ -1278,7 +1386,8 @@
         "de": "Parken Sie Ihr Auto in der Nähe der Altstadt und beginnen Sie Ihren Tag zu Fuß. Entdecken Sie das Rathaus und die nahe gelegene Marienkirche in Ihrem eigenen Tempo. Nach einem kurzen Spaziergang erreichen Sie die historische St.-Hyazinth-Kirche. Am Mittag fahren Sie zu einem neuen Parkplatz in der Nähe des Schlosses. Von hier aus erkunden Sie das Schloss, das Mühlentor und den Richter-Speicher, mit genügend Zeit für ein Mittagessen. Der Nachmittag endet mit einem Besuch des Hexenturms und einem entspannten Spaziergang am Słupia-Flussufer, bevor Sie zu Ihrem Auto zurückkehren.",
         "hu": "Parkolja le autóját az óváros közelében, és kezdje a napot gyalog. Fedezze fel a Városházát és a közeli Mária-templomot a saját tempójában. Egy rövid séta után elérheti a történelmi Szent Jácint-templomot. Délben vezessen át egy új parkolóba a vár közelében. Innen fedezze fel a várat, a Malom-kaput és a Richter-magtárat, elegendő időt hagyva az ebédre. A délután a Boszorkánytorony meglátogatásával és egy pihentető sétával zárul a Słupia folyó partján, mielőtt visszatérne az autójához.",
         "ro": "Parcați mașina lângă centrul vechi și începeți ziua pe jos. Descoperiți Primăria și Biserica Sf. Maria din apropiere în propriul ritm. După o scurtă plimbare, ajungeți la istorica Biserică Sf. Iacint. La prânz, conduceți spre o nouă parcare lângă castel. De aici, explorați castelul, Poarta Morii și Hambarul Richter, cu timp suficient pentru prânz. După-amiaza se încheie cu o vizită la Turnul Vrăjitoarelor și o plimbare relaxantă pe malul râului Słupia înainte de a vă întoarce la mașină.",
-        "en": "Park your car near the old town and start your day on foot. Discover the Town Hall and the nearby St. Mary's Church at your own pace. After a short stroll, you'll reach the historic St. Hyacinth's Church. At midday, drive to a new parking spot near the castle. From here, explore the castle, the Mill Gate, and Richter's Granary, with plenty of time for lunch. The afternoon concludes with a visit to the Witches' Tower and a relaxing walk along the Słupia riverbank before returning to your car."
+        "en": "Park your car near the old town and start your day on foot. Discover the Town Hall and the nearby St. Mary's Church at your own pace. After a short stroll, you'll reach the historic St. Hyacinth's Church. At midday, drive to a new parking spot near the castle. From here, explore the castle, the Mill Gate, and Richter's Granary, with plenty of time for lunch. The afternoon concludes with a visit to the Witches' Tower and a relaxing walk along the Słupia riverbank before returning to your car.",
+        "pl": "Zaparkuj samochód przy starym mieście i rozpocznij dzień pieszo. Odkrywaj Ratusz i pobliski Kościół Mariacki we własnym tempie. Po krótkim spacerze dotrzesz do zabytkowego Kościoła św. Jacka. W południe podjedź na nowe miejsce parkingowe przy zamku. Stąd zwiedź zamek, Bramę Młyńską i Spichrz Richterów, z wystarczającą ilością czasu na obiad. Popołudnie zakończy się wizytą w Baszcie Czarownic i relaksującym spacerem wzdłuż brzegu Słupi, zanim wrócisz do samochodu."
       },
       "gastro_picks": {
         "de": [
@@ -1470,6 +1579,11 @@
           "Parking in the city center can be paid. Have coins ready.",
           "Plan your route between car parks to avoid one-way streets.",
           "The car gives you the flexibility to also visit sights slightly outside the center."
+        ],
+        "pl": [
+          "Parkowanie w centrum może być płatne. Miej przy sobie drobne.",
+          "Zaplanuj trasę między parkingami, aby unikać jednokierunkowych ulic.",
+          "Samochód daje elastyczność odwiedzenia także zabytków nieco poza centrum."
         ]
       },
       "variants": {
@@ -1478,7 +1592,8 @@
             "de": "Mit dem Auto ist Słupsk bei Regen bequem zu erkunden. Parken Sie morgens nahe dem Rathaus, um trocken ins Zentrum zu kommen. Mittags bietet der Parkplatz am Schloss direkten Zugang zum Museumskomplex. Den Nachmittag verbringen Sie entspannt in den Museen, während Sie den Regen von drinnen beobachten können, bevor Sie am Abend bequem zum nächsten Ziel fahren.",
             "hu": "Autóval kényelmesen felfedezheti Słupskot esőben is. Reggel parkoljon a városháza közelében, így szárazon jut a központba. Délben a kastély melletti parkoló közvetlen bejutást kínál a múzeumokhoz. A délutánt töltse a kiállításokon, bentről figyelve az esőt, majd este kényelmesen hajtson tovább a következő úti céljához.",
             "ro": "Cu mașina, Słupsk este ușor de explorat chiar și pe ploaie. Parcați dimineața lângă primărie pentru a ajunge uscat în centru. La prânz, parcarea de la castel oferă acces direct la complexul muzeal. Petreceți după-amiaza vizitând expozițiile, privind ploaia de la adăpost, înainte de a pleca confortabil spre casă.",
-            "en": "Słupsk is easy to explore by car even in the rain. Park near the Town Hall in the morning for dry access to the center. At noon, the castle car park provides direct access to the museum complex. Spend the afternoon relaxing in the museums, watching the rain from inside, before driving comfortably to your next destination."
+            "en": "Słupsk is easy to explore by car even in the rain. Park near the Town Hall in the morning for dry access to the center. At noon, the castle car park provides direct access to the museum complex. Spend the afternoon relaxing in the museums, watching the rain from inside, before driving comfortably to your next destination.",
+            "pl": "Słupsk łatwo zwiedzać samochodem nawet w deszczu. Zaparkuj rano przy Ratuszu, by mieć suchy dostęp do centrum. W południe parking przy zamku zapewnia bezpośredni dostęp do kompleksu muzealnego. Połóż popołudnie na relaks w muzeach, obserwując deszcz z wnętrza, zanim wygodnie odjedziesz do następnego celu."
           },
           "stops": [
             {
@@ -1487,7 +1602,8 @@
                 "de": "Zahlen Sie am Automaten, bevor Sie im Regen zum Auto laufen.",
                 "hu": "Fizessen az automatánál, mielőtt az esőben az autóhoz szaladna.",
                 "ro": "Plătiți la automat înainte de a alerga prin ploaie spre mașină.",
-                "en": "Pay at the machine before running through the rain to your car."
+                "en": "Pay at the machine before running through the rain to your car.",
+                "pl": "Opłać na parkomacie, zanim przebiegniesz w deszczu do samochodu."
               }
             },
             {
@@ -1496,7 +1612,8 @@
                 "de": "Kurze Wege zwischen den Gebäuden minimieren die Nässe.",
                 "hu": "Az épületek közti rövid távolság segít szárazon maradni.",
                 "ro": "Distanțele scurte între clădiri minimizează contactul cu ploaia.",
-                "en": "Short distances between buildings minimize getting wet."
+                "en": "Short distances between buildings minimize getting wet.",
+                "pl": "Krótkie odległości między budynkami ograniczają zamoczenie."
               }
             },
             {
@@ -1505,7 +1622,8 @@
                 "de": "Parken Sie in der Nähe des Eingangs, um den Regen zu umgehen.",
                 "hu": "Parkoljon a bejárat közelében, hogy elkerülje az esőt.",
                 "ro": "Parcați cât mai aproape de intrare pentru a evita ploaia.",
-                "en": "Park close to the entrance to bypass the rain."
+                "en": "Park close to the entrance to bypass the rain.",
+                "pl": "Zaparkuj blisko wejścia, by ominąć deszcz."
               }
             },
             {
@@ -1514,7 +1632,8 @@
                 "de": "Ein idealer Ausgangspunkt für den Schlossbesuch bei Regen.",
                 "hu": "Ideális kiindulópont a kastélylátogatáshoz esős időben.",
                 "ro": "Un punct de plecare ideal pentru vizitarea castelului pe ploaie.",
-                "en": "An ideal starting point for a castle visit in rainy weather."
+                "en": "An ideal starting point for a castle visit in rainy weather.",
+                "pl": "Idealny punkt startowy do zwiedzania zamku w deszczową pogodę."
               }
             },
             {
@@ -1523,7 +1642,8 @@
                 "de": "Lassen Sie nasse Schirme im Auto, wenn Sie nah geparkt haben.",
                 "hu": "Hagyja a vizes esernyőt az autóban, ha közel parkolt.",
                 "ro": "Lăsați umbrelele ude în mașină dacă ați parcat aproape.",
-                "en": "Leave wet umbrellas in the car if you've parked nearby."
+                "en": "Leave wet umbrellas in the car if you've parked nearby.",
+                "pl": "Zostaw mokre parasole w samochodzie, jeśli zaparkowałeś w pobliżu."
               }
             },
             {
@@ -1532,7 +1652,8 @@
                 "de": "Genießen Sie den Blick auf den Fluss aus dem trockenen Auto.",
                 "hu": "Élvezze a folyóparti kilátást a száraz autóból.",
                 "ro": "Bucurați-vă de vederea spre râu din mașina uscată.",
-                "en": "Enjoy the river view from the dry comfort of your car."
+                "en": "Enjoy the river view from the dry comfort of your car.",
+                "pl": "Podziwiaj widok na rzekę z suchego, przytulnego wnętrza samochodu."
               }
             }
           ],
@@ -1564,6 +1685,13 @@
               "Avoid deep puddles at the curb when pulling into a parking spot.",
               "An umbrella in the trunk is essential for short walks to entrances.",
               "The castle offers one of the most conveniently located car parks."
+            ],
+            "pl": [
+              "Korzystaj z aplikacji parkingowych, by nie stać przy parkomacie w deszczu.",
+              "Widoczność może być słaba na wąskich ulicach podczas ulewy.",
+              "Unikaj głębokich kałuż przy krawężniku przy wjeżdżaniu na miejsce parkingowe.",
+              "Parasol w bagażniku to konieczność na krótkie przejścia do wejść.",
+              "Zamek oferuje jeden z najwygodniej położonych parkingów."
             ]
           }
         },
@@ -1572,7 +1700,8 @@
             "de": "Słupsk im Winter per Auto bietet Wärme zwischen den Sehenswürdigkeiten. Starten Sie morgens in der Altstadt, wo die Straßen meist gut geräumt sind. Mittags parken Sie direkt am beheizten Schlossmuseum für einen entspannten Besuch. Nachmittags genießen Sie die Winterlandschaft am Fluss bequem vom Auto aus, bevor Sie die Tour in der beleuchteten Innenstadt abschließen.",
             "hu": "A téli Słupsk autóval felfedezve meleget kínál a látnivalók között. Kezdjen reggel az óvárosban, ahol az utakat általában jól takarítják. Délben parkoljon közvetlenül a fűtött Kastélymúzeumnál a kényelmes látogatáshoz. Délután élvezze a téli folyóparti tájat az autóból, majd zárja a túrát a kivilágított belvárosban.",
             "ro": "Explorarea orașului Słupsk iarna cu mașina oferă confort între obiective. Începeți dimineața în centrul vechi, unde străzile sunt de obicei curățate. La prânz, parcați lângă muzeul castelului pentru o vizită relaxantă. După-amiaza, admirați peisajul de iarnă de lângă râu din mașină, înainte de a încheia turul în centru.",
-            "en": "Słupsk in winter by car offers warmth between the sights. Start your morning in the old town, where roads are usually well-cleared. At noon, park right by the heated Castle Museum for a comfortable visit. In the afternoon, enjoy the winter scenery along the river from your car before finishing the tour in the illuminated city center."
+            "en": "Słupsk in winter by car offers warmth between the sights. Start your morning in the old town, where roads are usually well-cleared. At noon, park right by the heated Castle Museum for a comfortable visit. In the afternoon, enjoy the winter scenery along the river from your car before finishing the tour in the illuminated city center.",
+            "pl": "Słupsk zimą samochodem daje ciepło między atrakcjami. Zacznij rano na starówce, gdzie drogi zazwyczaj są dobrze odśnieżone. W południe zaparkuj przy ogrzewanym Muzeum Zamkowym, by wygodnie zwiedzać. Po południu ciesz się zimowym krajobrazem nad rzeką z samochodu, kończąc wycieczkę w oświetlonym centrum miasta."
           },
           "stops": [
             {
@@ -1581,7 +1710,8 @@
                 "de": "Achten Sie auf Glatteis auf dem ungeräumten Teil des Platzes.",
                 "hu": "Ügyeljen a jegesedésre a tér le nem takarított részein.",
                 "ro": "Atenție la polei pe porțiunile necurățate ale parcării.",
-                "en": "Watch out for black ice on uncleared sections of the lot."
+                "en": "Watch out for black ice on uncleared sections of the lot.",
+                "pl": "Uważaj na gołoledź na nieodśnieżonych fragmentach parkingu."
               }
             },
             {
@@ -1590,7 +1720,8 @@
                 "de": "Die Heizung im Auto sorgt für Wärme zwischen den Besuchen.",
                 "hu": "Az autó fűtése segít átmelegedni a látogatások között.",
                 "ro": "Căldura din mașină vă ajută să vă dezmorțiți între vizite.",
-                "en": "The car heater helps you warm up between visits."
+                "en": "The car heater helps you warm up between visits.",
+                "pl": "Nagrzewnica w samochodzie pomaga się ogrzać między wizytami."
               }
             },
             {
@@ -1599,7 +1730,8 @@
                 "de": "Parken Sie vorsichtig, da Schneehaufen Parkplätze verengen können.",
                 "hu": "Parkoljon óvatosan, mert a hóbuckák leszűkíthetik a helyet.",
                 "ro": "Parcați cu grijă, mormanele de zăpadă pot îngusta locurile.",
-                "en": "Park carefully, as snowbanks can narrow the available spots."
+                "en": "Park carefully, as snowbanks can narrow the available spots.",
+                "pl": "Parkuj ostrożnie — zaspy śnieżne mogą zwężać miejsca parkingowe."
               }
             },
             {
@@ -1608,7 +1740,8 @@
                 "de": "Im Winter ist dieser Parkplatz oft weniger belegt.",
                 "hu": "Télen ez a parkoló gyakran kevésbé zsúfolt.",
                 "ro": "Iarna, această parcare este adesea mai liberă.",
-                "en": "In winter, this car park is often less crowded."
+                "en": "In winter, this car park is often less crowded.",
+                "pl": "Zimą ten parking bywa często mniej zatłoczony."
               }
             },
             {
@@ -1617,7 +1750,8 @@
                 "de": "Genießen Sie den Kontrast von Backstein und weißem Schnee.",
                 "hu": "Élvezze a vörös tégla és a fehér hó látványos kontrasztját.",
                 "ro": "Bucurați-vă de contrastul dintre cărămidă și zăpada albă.",
-                "en": "Enjoy the striking contrast between red brick and white snow."
+                "en": "Enjoy the striking contrast between red brick and white snow.",
+                "pl": "Ciesz się kontrastem czerwonej cegły i białego śniegu."
               }
             },
             {
@@ -1626,7 +1760,8 @@
                 "de": "Lassen Sie das Auto laufen, um die Scheiben eisfrei zu halten.",
                 "hu": "Tartsa melegen az autót, hogy ne fagyjanak be az ablakok.",
                 "ro": "Mențineți mașina caldă pentru a preveni înghețarea geamurilor.",
-                "en": "Keep the car warm to prevent windows from frosting over."
+                "en": "Keep the car warm to prevent windows from frosting over.",
+                "pl": "Utrzymuj samochód ciepły, aby zapobiec zamarzaniu szyb."
               }
             }
           ],
@@ -1658,6 +1793,13 @@
               "An ice scraper is an absolute must during the Polish winter.",
               "Watch out for pedestrians who may walk on the road to avoid slush.",
               "Parking fees in winter are the same as summer rates."
+            ],
+            "pl": [
+              "Sprawdź wcześniej, czy miejsca parkingowe zostały oczyszczone ze śniegu.",
+              "Jedź ostrożnie po bruku, gdy istnieje ryzyko przymarznięcia.",
+              "Skrobaczka do szyb to absolutne must-have podczas polskiej zimy.",
+              "Uważaj na pieszych, którzy mogą iść jezdnią, by ominąć błoto pośniegowe.",
+              "Opłaty za parking zimą są takie same jak latem."
             ]
           }
         }
@@ -1676,7 +1818,8 @@
             "de": "Haltestelle am Rathaus",
             "hu": "Megálló a Városházánál",
             "ro": "Stația de la Primărie",
-            "en": "Bus Stop at the Town Hall"
+            "en": "Bus Stop at the Town Hall",
+            "pl": "Przystanek autobusowy przy Ratuszu"
           },
           "coords": [
             17.0295,
@@ -1692,7 +1835,8 @@
             "de": "Beginnen Sie hier. Die meisten Buslinien halten in der Nähe des Stadtzentrums.",
             "hu": "Kezdd itt. A legtöbb buszjárat a városközpont közelében áll meg.",
             "ro": "Începeți aici. Majoritatea liniilor de autobuz opresc lângă centrul orașului.",
-            "en": "Start here. Most bus lines stop near the city center."
+            "en": "Start here. Most bus lines stop near the city center.",
+            "pl": "Zacznij tutaj. Większość linii autobusowych zatrzymuje się przy centrum miasta."
           }
         },
         {
@@ -1700,7 +1844,8 @@
             "de": "Rathaus & Marienkirche",
             "hu": "Városháza és Mária-templom",
             "ro": "Primăria și Biserica Sf. Maria",
-            "en": "Town Hall & St. Mary's Church"
+            "en": "Town Hall & St. Mary's Church",
+            "pl": "Ratusz i kościół św. Marii"
           },
           "coords": [
             17.0293,
@@ -1716,7 +1861,8 @@
             "de": "Erkunden Sie den zentralen Platz und die beeindruckende Kirche, das Herz von Słupsk.",
             "hu": "Fedezd fel a központi teret és a lenyűgöző templomot, Słupsk szívét.",
             "ro": "Explorați piața centrală și biserica impresionantă, inima orașului Słupsk.",
-            "en": "Explore the central square and the impressive church, the heart of Słupsk."
+            "en": "Explore the central square and the impressive church, the heart of Słupsk.",
+            "pl": "Zwiedź główny plac i imponujący kościół, serce Słupska."
           }
         },
         {
@@ -1724,7 +1870,8 @@
             "de": "Haltestelle am Schloss",
             "hu": "Megálló a Várnál",
             "ro": "Stația de la Castel",
-            "en": "Bus Stop at the Castle"
+            "en": "Bus Stop at the Castle",
+            "pl": "Przystanek autobusowy przy Zamku"
           },
           "coords": [
             17.022,
@@ -1740,7 +1887,8 @@
             "de": "Nehmen Sie einen Bus zum zweiten Cluster. Die Fahrt dauert nur wenige Minuten.",
             "hu": "Menj busszal a második látnivaló-csoporthoz. Az út csak pár percig tart.",
             "ro": "Luați un autobuz spre al doilea grup. Călătoria durează doar câteva minute.",
-            "en": "Take a bus to the second cluster. The ride only takes a few minutes."
+            "en": "Take a bus to the second cluster. The ride only takes a few minutes.",
+            "pl": "Wsiądź do autobusu do drugiego skupiska. Przejazd trwa tylko kilka minut."
           }
         },
         {
@@ -1748,7 +1896,8 @@
             "de": "Schloss der Pommerschen Herzöge",
             "hu": "Pomerániai Hercegek Vára",
             "ro": "Castelul Ducilor Pomeraniei",
-            "en": "Castle of the Pomeranian Dukes"
+            "en": "Castle of the Pomeranian Dukes",
+            "pl": "Zamek Książąt Pomorskich"
           },
           "coords": [
             17.0225,
@@ -1764,7 +1913,8 @@
             "de": "Tauchen Sie tief in die Geschichte der Region ein und besuchen Sie das Museum im Inneren.",
             "hu": "Merülj el a régió történelmében, és látogass el a belső múzeumba.",
             "ro": "Pătrundeți adânc în istoria regiunii și vizitați muzeul din interior.",
-            "en": "Dive deep into the region's history and visit the museum inside."
+            "en": "Dive deep into the region's history and visit the museum inside.",
+            "pl": "Zanurz się w historii regionu i odwiedź muzeum wewnątrz."
           }
         },
         {
@@ -1772,7 +1922,8 @@
             "de": "Richter-Speicher, Mühlentor & Hexenturm",
             "hu": "Richter-magtár, Malom-kapu és Boszorkánytorony",
             "ro": "Hambarul Richter, Poarta Morii și Turnul Vrăjitoarelor",
-            "en": "Richter's Granary, Mill Gate & Witches' Tower"
+            "en": "Richter's Granary, Mill Gate & Witches' Tower",
+            "pl": "Spichlerz Richtera, Brama Młyńska i Baszta Czarownic"
           },
           "coords": [
             17.0245,
@@ -1788,7 +1939,8 @@
             "de": "Dieser Spaziergang verbindet drei wichtige historische Stätten am Flussufer und in der Nähe.",
             "hu": "Ez a séta három fontos történelmi helyszínt köt össze a folyóparton és környékén.",
             "ro": "Această plimbare leagă trei situri istorice importante de pe malul râului și din apropiere.",
-            "en": "This walk connects three important historical sites on and near the riverbank."
+            "en": "This walk connects three important historical sites on and near the riverbank.",
+            "pl": "Ten spacer łączy trzy ważne zabytki na nabrzeżu i w jego pobliżu."
           }
         }
       ],
@@ -1796,7 +1948,8 @@
         "de": "Starten Sie Ihren Tag mit einer Busfahrt ins Herz der Stadt, zum Rathaus. Erkunden Sie den Hauptplatz und die Marienkirche zu Fuß. Eine kurze Busfahrt bringt Sie dann zum Schloss-Cluster, wo Sie den größten Teil des Tages verbringen. Tauchen Sie in die Geschichte im Herzogsschloss ein. Nach dem Mittagessen schlendern Sie gemütlich zum Richter-Speicher, dem Mühlentor und dem Hexenturm. Diese fußgängerfreundliche Zone ermöglicht es Ihnen, die Sehenswürdigkeiten in Ihrem eigenen Tempo zu genießen, bevor Sie den Bus zurück nehmen.",
         "hu": "Kezdje a napot egy buszúttal a város szívébe, a Városházához. Fedezze fel gyalog a főteret és a Mária-templomot. Egy rövid buszút elvisz a vár-csoporthoz, ahol a nap nagy részét tölti. Merüljön el a hercegi vár történelmében. Ebéd után sétáljon kényelmesen a Richter-magtárhoz, a Malom-kapuhoz és a Boszorkánytoronyhoz. Ez a gyalogosbarát zóna lehetővé teszi, hogy a saját tempójában élvezze a látnivalókat, mielőtt visszaszállna a buszra.",
         "ro": "Începeți ziua cu o călătorie cu autobuzul în inima orașului, la Primărie. Explorați piața principală și Biserica Sf. Maria pe jos. O scurtă călătorie cu autobuzul vă va duce apoi la grupul castelului, unde veți petrece cea mai mare parte a zilei. Pătrundeți în istoria Castelului Ducal. După prânz, plimbați-vă agale la Hambarul Richter, Poarta Morii și Turnul Vrăjitoarelor. Această zonă pietonală vă permite să vă bucurați de atracții în ritmul propriu înainte de a lua autobuzul înapoi.",
-        "en": "Start your day with a bus ride into the heart of the city, to the Town Hall. Explore the main square and St. Mary's Church on foot. A short bus ride will then take you to the castle cluster, where you'll spend most of your day. Immerse yourself in the history at the Ducal Castle. After lunch, stroll leisurely to Richter's Granary, the Mill Gate, and the Witches' Tower. This pedestrian-friendly zone allows you to enjoy the sights at your own pace before taking the bus back."
+        "en": "Start your day with a bus ride into the heart of the city, to the Town Hall. Explore the main square and St. Mary's Church on foot. A short bus ride will then take you to the castle cluster, where you'll spend most of your day. Immerse yourself in the history at the Ducal Castle. After lunch, stroll leisurely to Richter's Granary, the Mill Gate, and the Witches' Tower. This pedestrian-friendly zone allows you to enjoy the sights at your own pace before taking the bus back.",
+        "pl": "Rozpocznij dzień od przejazdu autobusem w serce miasta, do Ratusza. Zwiedź główny plac i kościół św. Marii pieszo. Krótki przejazd autobusem zabierze Cię do skupiska zamkowego, gdzie spędzisz większość dnia. Zanurz się w historii Zamku Książąt. Po obiedzie przespaceruj się do Spichlerza Richtera, Bramy Młyńskiej i Baszty Czarownic. Ta strefa przyjazna pieszym pozwala cieszyć się zabytkami w swoim tempie, zanim wrócisz autobusem."
       },
       "gastro_picks": {
         "de": [
@@ -1988,6 +2141,11 @@
           "Buy a day ticket for the bus to allow for unlimited rides.",
           "Check the bus schedule in advance, especially on weekends.",
           "Don't be afraid to walk a few blocks; it's often faster than waiting for the next bus."
+        ],
+        "pl": [
+          "Kup bilet dzienny na autobus, aby korzystać z nieograniczonej liczby przejazdów.",
+          "Sprawdź rozkład jazdy z wyprzedzeniem, zwłaszcza w weekendy.",
+          "Nie bój się przejść kilku przecznic; często jest to szybsze niż czekanie na następny autobus."
         ]
       },
       "variants": {
@@ -1996,7 +2154,8 @@
             "de": "Nutzen Sie die Busse in Słupsk, um bei Regen trocken von der Altstadt zum Schloss zu gelangen. Vormittags bringen Sie die Linien direkt zum Rathausplatz. Mittags bietet die Fahrt zum Schloss eine kurze Pause vom Wetter. Nachmittags erkunden Sie die Museen am Fluss und kehren bequem per Bus ins Zentrum zurück, während Sie den Regen durch das Fenster beobachten.",
             "hu": "Használja Słupsk buszhálózatát, hogy esőben is szárazon jusson el az óvárostól a kastélyig. Délelőtt a járatok közvetlenül a városháza mellé viszik. Délben a kastély felé tartó buszút rövid pihenőt kínál az időjárás elől. Délután fedezze fel a folyóparti múzeumokat, majd buszozzon kényelmesen vissza a központba, az ablakból figyelve az esőt.",
             "ro": "Folosiți autobuzele din Słupsk pentru a ajunge uscat de la centrul vechi la castel pe ploaie. Dimineața, liniile vă lasă chiar lângă primărie. La prânz, drumul spre castel oferă o scurtă pauză de la vremea rea. După-amiaza, vizitați muzeele de pe râu și întoarceți-vă confortabil cu autobuzul, privind ploaia de la fereastră.",
-            "en": "Use Słupsk's bus network to travel dry from the old town to the castle during the rain. In the morning, lines take you right to the Town Hall square. At noon, the bus ride to the castle offers a brief respite from the weather. In the afternoon, explore the riverside museums and return comfortably by bus, watching the rain through the window."
+            "en": "Use Słupsk's bus network to travel dry from the old town to the castle during the rain. In the morning, lines take you right to the Town Hall square. At noon, the bus ride to the castle offers a brief respite from the weather. In the afternoon, explore the riverside museums and return comfortably by bus, watching the rain through the window.",
+            "pl": "Korzystaj z sieci autobusowej Słupska, by przemieścić się suchą drogą ze starówki do zamku podczas deszczu. Rano linie dowożą prosto na plac Ratuszowy. W południe przejazd autobusem do zamku daje krótką odskocznię od pogody. Po południu zwiedzaj nadbrzeżne muzea i wróć wygodnie autobusem, obserwując deszcz przez szybę."
           },
           "stops": [
             {
@@ -2005,7 +2164,8 @@
                 "de": "Das Wartehäuschen bietet Schutz vor dem Regen.",
                 "hu": "A buszváró tetője védelmet nyújt az eső elől.",
                 "ro": "Adăpostul din stație oferă protecție împotriva ploii.",
-                "en": "The bus shelter provides protection from the rain."
+                "en": "The bus shelter provides protection from the rain.",
+                "pl": "Wiata przystankowa chroni przed deszczem."
               }
             },
             {
@@ -2014,7 +2174,8 @@
                 "de": "Nur wenige Meter vom Busstopp bis zum rettenden Eingang.",
                 "hu": "Csak pár méter a busztól a megmentő bejáratig.",
                 "ro": "Doar câțiva metri de la stație până la intrarea salvatoare.",
-                "en": "Only a few meters from the bus stop to the shelter of the entrance."
+                "en": "Only a few meters from the bus stop to the shelter of the entrance.",
+                "pl": "Tylko kilka metrów z przystanku do osłony przy wejściu."
               }
             },
             {
@@ -2023,7 +2184,8 @@
                 "de": "Prüfen Sie die Abfahrtszeiten per App, um nicht im Regen zu warten.",
                 "hu": "Ellenőrizze az indulást appon, hogy ne kelljen az esőben várnia.",
                 "ro": "Verificați programul pe aplicație pentru a nu aștepta în ploaie.",
-                "en": "Check the schedule on the app to avoid waiting in the rain."
+                "en": "Check the schedule on the app to avoid waiting in the rain.",
+                "pl": "Sprawdź rozkład w aplikacji, by nie czekać na deszczu."
               }
             },
             {
@@ -2032,7 +2194,8 @@
                 "de": "Genießen Sie den Museumsbesuch ohne Sorge um das Wetter.",
                 "hu": "Élvezze a múzeumlátogatást anélkül, hogy az időjárás miatt aggódna.",
                 "ro": "Bucurați-vă de muzeu fără grija vremii de afară.",
-                "en": "Enjoy the museum visit without worrying about the weather."
+                "en": "Enjoy the museum visit without worrying about the weather.",
+                "pl": "Ciesz się wizytą w muzeum bez martwienia się o pogodę."
               }
             },
             {
@@ -2041,7 +2204,8 @@
                 "de": "Vom Richterspeicher ist es nicht weit zur nächsten Haltestelle.",
                 "hu": "A Richter-magtártól nincs messze a következő megálló.",
                 "ro": "De la grânar nu este mult până la următoarea stație.",
-                "en": "It's a short walk from the granary to the nearest stop."
+                "en": "It's a short walk from the granary to the nearest stop.",
+                "pl": "Ze spichlerza do najbliższego przystanku jest krótki spacer."
               }
             }
           ],
@@ -2073,6 +2237,13 @@
               "Shelters are usually available at the main transit stops.",
               "Use the time on the bus to plan your route digitally.",
               "The line to the castle runs regularly and reliably."
+            ],
+            "pl": [
+              "Kupuj bilety wygodnie przez aplikację lub w kiosku.",
+              "Autobusy często są zatłoczone podczas deszczu, więc daj sobie więcej czasu.",
+              "Wiaty są zwykle dostępne na głównych przystankach komunikacji.",
+              "Wykorzystaj czas w autobusie na zaplanowanie trasy cyfrowo.",
+              "Linia do zamku kursuje regularnie i niezawodnie."
             ]
           }
         },
@@ -2081,7 +2252,8 @@
             "de": "Erkunden Sie Słupsk im Winter mit den gut beheizten Bussen. Starten Sie morgens in der Altstadt und nutzen Sie die kurzen Wege von den Haltestellen zu den Sehenswürdigkeiten. Mittags bringt Sie der Bus direkt zum Schloss, wo Sie den Nachmittag in den Museen verbringen können. Die Rückfahrt am Abend bietet einen tollen Blick auf die weihnachtlich beleuchteten Straßen der Stadt.",
             "hu": "Fedezze fel Słupskot télen a jól fűtött buszok segítségével. Kezdjen reggel az óvárosban, kihasználva a megállók közelségét a látnivalókhoz. Délben a busz közvetlenül a kastélyhoz viszi, ahol a délutánt a múzeumokban töltheti. Az esti visszautat a karácsonyi fényekben úszó város látványa teszi teljessé.",
             "ro": "Explorați Słupsk iarna folosind autobuzele bine încălzite. Începeți dimineața în centrul vechi, profitând de distanța mică de la stații la obiective. La prânz, autobuzul vă duce direct la castel pentru o după-amiază la muzeu. Drumul de întoarcere de seară oferă o priveliște superbă asupra luminilor festive.",
-            "en": "Explore Słupsk in winter using the well-heated buses. Start your morning in the old town, taking advantage of the short walks from the stops to the sights. At noon, the bus takes you directly to the castle for an afternoon at the museums. The evening return trip offers a great view of the city's festive holiday lights."
+            "en": "Explore Słupsk in winter using the well-heated buses. Start your morning in the old town, taking advantage of the short walks from the stops to the sights. At noon, the bus takes you directly to the castle for an afternoon at the museums. The evening return trip offers a great view of the city's festive holiday lights.",
+            "pl": "Zwiedzaj Słupsk zimą korzystając z dobrze ogrzewanych autobusów. Zacznij rano na starówce, korzystając z krótkich spacerów z przystanków do atrakcji. W południe autobus zawiezie Cię prosto do zamku na popołudnie w muzeach. Powrotny wieczorny kurs oferuje świetny widok na świąteczne iluminacje miasta."
           },
           "stops": [
             {
@@ -2090,7 +2262,8 @@
                 "de": "Die Busse kommen im Winter meist pünktlich trotz Schnee.",
                 "hu": "A buszok télen is többnyire pontosak a hó ellenére.",
                 "ro": "Autobuzele sunt de obicei punctuale iarna, în ciuda zăpezii.",
-                "en": "Buses usually run on time in winter despite the snow."
+                "en": "Buses usually run on time in winter despite the snow.",
+                "pl": "Autobusy zwykle kursują punktualnie zimą mimo śniegu."
               }
             },
             {
@@ -2099,7 +2272,8 @@
                 "de": "Die kurzen Wege verhindern ein zu starkes Auskühlen.",
                 "hu": "A rövid séták segítenek megelőzni a túlzott lehűlést.",
                 "ro": "Distanțele scurte previn răcirea excesivă între obiective.",
-                "en": "Short walks prevent you from getting too chilled between sights."
+                "en": "Short walks prevent you from getting too chilled between sights.",
+                "pl": "Krótkie spacery zapobiegają nadmiernemu wychłodzeniu między atrakcjami."
               }
             },
             {
@@ -2108,7 +2282,8 @@
                 "de": "Warten Sie im beheizten Vorraum des Schlosses auf den Bus.",
                 "hu": "Várjon a buszra a kastély fűtött előterében, ha lehet.",
                 "ro": "Așteptați autobuzul în vestibulul încălzit al castelului.",
-                "en": "Wait for the bus in the heated vestibule of the castle if possible."
+                "en": "Wait for the bus in the heated vestibule of the castle if possible.",
+                "pl": "Czekaj na autobus w ogrzewanym przedsionku zamku, jeśli to możliwe."
               }
             },
             {
@@ -2117,7 +2292,8 @@
                 "de": "Ein herrlicher Ort, um die Winterstimmung zu genießen.",
                 "hu": "Csodálatos hely a téli hangulat kiélvezéséhez.",
                 "ro": "Un loc minunat pentru a vă bucura de atmosfera de iarnă.",
-                "en": "A wonderful place to soak in the winter atmosphere."
+                "en": "A wonderful place to soak in the winter atmosphere.",
+                "pl": "Wspaniałe miejsce, by chłonąć zimową atmosferę."
               }
             },
             {
@@ -2126,7 +2302,8 @@
                 "de": "Die beleuchteten Monumente sind am späten Nachmittag ein Muss.",
                 "hu": "A kivilágított műemlékek késő délután kötelező látnivalók.",
                 "ro": "Monumentele iluminate sunt de neratat la lăsarea serii.",
-                "en": "The illuminated monuments are a must-see in the late afternoon."
+                "en": "The illuminated monuments are a must-see in the late afternoon.",
+                "pl": "Oświetlone zabytki trzeba zobaczyć późnym popołudniem."
               }
             }
           ],
@@ -2158,6 +2335,13 @@
               "Keep small change or the app ready for ticket purchases.",
               "Bus windows can fog up in the cold; front seats might be better.",
               "The transit stops are well-lit and safe even after dark."
+            ],
+            "pl": [
+              "Autobusy to najcieplejsza alternatywa dla chodzenia zimą.",
+              "Sprawdź zimowy rozkład, czy nie ma drobnych zmian.",
+              "Miej drobne lub aplikację pod ręką do zakupu biletów.",
+              "Szyby autobusowe mogą parować na mrozie; lepsze mogą być przednie siedzenia.",
+              "Przystanki komunikacji są dobrze oświetlone i bezpieczne nawet po zmroku."
             ]
           }
         }

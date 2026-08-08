@@ -21,7 +21,8 @@
             "de": "Elbinger Altstadt & Markttor",
             "hu": "Elblągi Óváros és Piaci kapu",
             "ro": "Orașul vechi Elbląg și Poarta Pieței",
-            "en": "Elbląg Old Town & Market Gate"
+            "en": "Elbląg Old Town & Market Gate",
+            "pl": "Stare Miasto Elbląga i Brama Targowa"
           },
           "coords": [
             19.4021,
@@ -37,7 +38,8 @@
             "de": "Beginnen Sie hier mit einem Kaffee und beobachten Sie das Treiben.",
             "hu": "Kezdje a napot egy kávéval, és figyelje a város ébredését.",
             "ro": "Începeți ziua aici cu o cafea, privind agitația orașului.",
-            "en": "Start here with a coffee and watch the town come to life."
+            "en": "Start here with a coffee and watch the town come to life.",
+            "pl": "Zacznij tutaj od kawy i obserwuj, jak miasto budzi się do życia."
           }
         },
         {
@@ -45,7 +47,8 @@
             "de": "Archäologisches Museum",
             "hu": "Régészeti és Történeti Múzeum",
             "ro": "Muzeul de Arheologie și Istorie",
-            "en": "Archaeological and Historical Museum"
+            "en": "Archaeological and Historical Museum",
+            "pl": "Muzeum Archeologiczne i Historyczne"
           },
           "coords": [
             19.4005,
@@ -61,7 +64,8 @@
             "de": "Fokus auf die Wikingerausstellung Truso.",
             "hu": "Koncentráljon a Truso viking településről szóló kiállításra.",
             "ro": "Concentrați-vă pe expoziția despre așezarea vikingă Truso.",
-            "en": "Focus on the exhibition about the Truso Viking settlement."
+            "en": "Focus on the exhibition about the Truso Viking settlement.",
+            "pl": "Skoncentruj się na wystawie o osadzie wikińskiej Truso."
           }
         },
         {
@@ -69,7 +73,8 @@
             "de": "St. Nikolaus Kathedrale",
             "hu": "Szent Miklós-székesegyház",
             "ro": "Catedrala Sfântul Nicolae",
-            "en": "St. Nicholas Cathedral"
+            "en": "St. Nicholas Cathedral",
+            "pl": "Katedra św. Mikołaja"
           },
           "coords": [
             19.398,
@@ -85,7 +90,8 @@
             "de": "Besteigen Sie den Turm für eine großartige Aussicht auf die Stadt.",
             "hu": "Másszon fel a toronyba a városra nyíló csodás kilátásért.",
             "ro": "Urcați în turn pentru o priveliște magnifică asupra orașului.",
-            "en": "Climb the tower for a great view of the city."
+            "en": "Climb the tower for a great view of the city.",
+            "pl": "Wejdź na wieżę, by podziwiać świetny widok na miasto."
           }
         },
         {
@@ -93,7 +99,8 @@
             "de": "Kunstzentrum Galeria EL",
             "hu": "Galeria EL Művészeti Központ",
             "ro": "Centrul de Artă Galeria EL",
-            "en": "Art Centre Galeria EL"
+            "en": "Art Centre Galeria EL",
+            "pl": "Centrum Sztuki Galeria EL"
           },
           "coords": [
             19.3958,
@@ -109,7 +116,8 @@
             "de": "Prüfen Sie, ob es aktuelle Ausstellungen zeitgenössischer Kunst gibt.",
             "hu": "Nézze meg, van-e aktuális kortárs művészeti kiállítás.",
             "ro": "Verificați dacă există expoziții curente de artă contemporană.",
-            "en": "Check for any current contemporary art exhibitions."
+            "en": "Check for any current contemporary art exhibitions.",
+            "pl": "Sprawdź aktualne wystawy sztuki współczesnej."
           }
         },
         {
@@ -117,7 +125,8 @@
             "de": "Spaziergang am Elbing-Kanal",
             "hu": "Séta az Elbląg-csatorna mentén",
             "ro": "Plimbare de-a lungul Canalului Elbląg",
-            "en": "Walk along the Elbląg Canal"
+            "en": "Walk along the Elbląg Canal",
+            "pl": "Spacer wzdłuż Kanału Elbląskiego"
           },
           "coords": [
             19.4065,
@@ -133,7 +142,8 @@
             "de": "Finden Sie eine Bank und schauen Sie den Booten auf dem Fluss zu.",
             "hu": "Keressen egy padot, és nézze a hajókat a folyón.",
             "ro": "Găsiți o bancă și priviți bărcile de pe râu.",
-            "en": "Find a bench and watch the boats on the river."
+            "en": "Find a bench and watch the boats on the river.",
+            "pl": "Znajdź ławkę i obserwuj łodzie na rzece."
           }
         },
         {
@@ -141,7 +151,8 @@
             "de": "Bażantarnia-Park",
             "hu": "Bażantarnia Park",
             "ro": "Parcul Bażantarnia",
-            "en": "Bażantarnia Park"
+            "en": "Bażantarnia Park",
+            "pl": "Park Bażantarnia"
           },
           "coords": [
             19.465,
@@ -157,7 +168,8 @@
             "de": "Ein langer Spaziergang, aber der Wald ist die Mühe wert.",
             "hu": "Hosszú séta, de az erdő megéri a fáradságot.",
             "ro": "O plimbare lungă, dar pădurea merită efortul.",
-            "en": "It's a long walk, but the forest is worth the effort."
+            "en": "It's a long walk, but the forest is worth the effort.",
+            "pl": "To długi spacer, ale las wart jest wysiłku."
           }
         },
         {
@@ -165,7 +177,8 @@
             "de": "Abendessen in der Altstadt",
             "hu": "Vacsora az Óvárosban",
             "ro": "Cină în Orașul Vechi",
-            "en": "Dinner in the Old Town"
+            "en": "Dinner in the Old Town",
+            "pl": "Kolacja na Starym Mieście"
           },
           "coords": [
             19.401,
@@ -181,7 +194,8 @@
             "de": "Wählen Sie ein Restaurant mit Blick auf den Fluss für eine schöne Atmosphäre.",
             "hu": "Válasszon egy folyóra néző éttermet a hangulatért.",
             "ro": "Alegeți un restaurant cu vedere la râu pentru o atmosferă plăcută.",
-            "en": "Choose a restaurant with a river view for a nice atmosphere."
+            "en": "Choose a restaurant with a river view for a nice atmosphere.",
+            "pl": "Wybierz restaurację z widokiem na rzekę dla miłej atmosfery."
           }
         }
       ],
@@ -189,7 +203,8 @@
         "de": "Beginnen Sie Ihren Tag im Herzen von Elbing, der sorgfältig restaurierten Altstadt, und nehmen Sie die Atmosphäre am Markttor auf. Am Vormittag tauchen Sie im Archäologischen Museum in die reiche Geschichte der Region ein, bevor Sie die hoch aufragende St.-Nikolaus-Kathedrale bestaunen. Nach einem Mittagessen voller lokaler Aromen lassen Sie sich von der modernen Kunst in der Galeria EL inspirieren, die in einer ehemaligen Kirche untergebracht ist. Am Nachmittag unternehmen Sie einen entspannenden Spaziergang entlang des berühmten Elbing-Kanals und gehen dann weiter zum grünen Bażantarnia-Park, um der Stadt zu entfliehen. Beenden Sie Ihren Tag mit einem köstlichen Abendessen in einem der charmanten Restaurants der Altstadt und lassen Sie die Erlebnisse des Tages Revue passieren.",
         "hu": "Kezdje a napot Elbląg szívében, a gondosan felújított Óvárosban, magába szívva a Piaci kapu hangulatát. Délelőtt merüljön el a régió gazdag történelmében a Régészeti Múzeumban, mielőtt megcsodálná a tornyosuló Szent Miklós-székesegyházat. Egy helyi ízekkel teli ebéd után merítsen ihletet a Galeria EL modern művészetéből, amely egy egykori templomban kapott helyet. Délután tegyen egy pihentető sétát a híres Elbląg-csatorna mentén, majd induljon a zöldellő Bażantarnia Parkba egy kis városi kikapcsolódásért. Zárja a napot egy finom vacsorával az Óváros egyik hangulatos éttermében, felidézve a nap élményeit.",
         "ro": "Începeți ziua în inima orașului Elbląg, Orașul Vechi meticulos restaurat, absorbind atmosfera de la Poarta Pieței. La amiază, pătrundeți în istoria bogată a regiunii la Muzeul de Arheologie înainte de a admira impunătoarea Catedrală Sf. Nicolae. După un prânz plin de arome locale, lăsați-vă inspirat de arta modernă de la Galeria EL, găzduită într-o fostă biserică. După-amiaza, faceți o plimbare relaxantă de-a lungul faimosului Canal Elbląg, apoi mergeți spre Parcul verde Bażantarnia pentru o evadare din oraș. Încheiați ziua cu o cină delicioasă la unul dintre restaurantele fermecătoare din Orașul Vechi, reflectând la aventurile zilei.",
-        "en": "Start your day in the heart of Elbląg, the meticulously restored Old Town, absorbing the atmosphere at the Market Gate. In the morning, delve into the region's rich history at the Archaeological Museum before marveling at the towering St. Nicholas Cathedral. After a lunch filled with local flavors, get inspired by the modern art at Galeria EL, housed in a former church. In the afternoon, take a relaxing stroll along the famous Elbląg Canal, then head to the leafy Bażantarnia Park for a city escape. End your day with a delicious dinner at one of the Old Town's charming restaurants, reflecting on the day's adventures."
+        "en": "Start your day in the heart of Elbląg, the meticulously restored Old Town, absorbing the atmosphere at the Market Gate. In the morning, delve into the region's rich history at the Archaeological Museum before marveling at the towering St. Nicholas Cathedral. After a lunch filled with local flavors, get inspired by the modern art at Galeria EL, housed in a former church. In the afternoon, take a relaxing stroll along the famous Elbląg Canal, then head to the leafy Bażantarnia Park for a city escape. End your day with a delicious dinner at one of the Old Town's charming restaurants, reflecting on the day's adventures.",
+        "pl": "Rozpocznij dzień w sercu Elbląga, starannie odrestaurowanym Starym Mieście, chłonąc atmosferę przy Bramie Targowej. Rano zgłębiaj bogatą historię regionu w Muzeum Archeologicznym, a następnie zachwyć się katedrą św. Mikołaja. Po obiedzie pełnym lokalnych smaków zainspiruj się nowoczesną sztuką w Galerii EL, mieszczącej się w dawym kościele. Po południu wybierz się na relaksujący spacer słynnym Kanałem Elbląskim, potem udaj się do zielonego Parku Bażantarnia, by odpocząć od miejskiego zgiełku. Zakończ dzień pyszną kolacją w jednej z urokliwych restauracji Starego Miasta, wspominając przeżyte przygody."
       },
       "gastro_picks": {
         "de": [
@@ -385,6 +400,12 @@
           "Bring water, especially if you plan to walk to Bażantarnia Park.",
           "Most attractions in the Old Town are within easy walking distance.",
           "Check the opening hours of museums in advance as they can vary."
+        ],
+        "pl": [
+          "Noś wygodne buty, bo bruk na Starym Mieście może być nierówny.",
+          "Weź wodę, zwłaszcza jeśli planujesz dojść do Parku Bażantarnia.",
+          "Większość atrakcji na Starym Mieście znajduje się w niewielkiej odległości spacerem.",
+          "Sprawdź wcześniej godziny otwarcia muzeów, ponieważ mogą się różnić."
         ]
       },
       "variants": {
@@ -393,7 +414,8 @@
             "de": "Morgens bietet das Markttor Schutz vor dem ersten Regenschauer. Die rekonstruierten Backsteinfassaden der Altstadt glänzen nass im fahlen Licht. Mittags verbringen Sie viel Zeit im trockenen Museum und in der gewaltigen Kathedrale. Nachmittags ist die Galeria EL ein idealer Ort für zeitgenössische Kunst unter festem Dach. Abends locken die gemütlichen Kellerrestaurants der Altstadt mit Wärme.",
             "hu": "Reggel a piaci kapu boltívei alatt indul a nap, védve az esőtől. Az újjáépített óváros téglafalai sötétebb tónust kapnak a nedvességtől. Délben a múzeum és a katedrális belső terei nyújtanak menedéket. Délután a Galeria EL modern művészete vár egy egykori templom falai között. Estére a kivilágított főutca egyik éttermében pihenhetjük ki a vizes sétát.",
             "ro": "Dimineața începe sub Poarta Pieței, oferind adăpost împotriva ploii. Fațadele de cărămidă ale orașului vechi strălucesc sub picăturile de apă. La prânz, interiorul muzeului și al catedralei oferă un refugiu uscat și cultural. După-amiaza, Galeria EL este locul perfect pentru artă modernă, ferit de intemperii. Seara se încheie într-un restaurant primitor din centru.",
-            "en": "Morning starts under the shelter of the Market Gate. The red bricks of the reconstructed Old Town glisten in the rain. At noon, the museum and cathedral provide extensive indoor exploration. In the afternoon, the Galeria EL art center offers a dry cultural escape in a former church. The evening is best spent in a cozy basement restaurant in the heart of Elbląg."
+            "en": "Morning starts under the shelter of the Market Gate. The red bricks of the reconstructed Old Town glisten in the rain. At noon, the museum and cathedral provide extensive indoor exploration. In the afternoon, the Galeria EL art center offers a dry cultural escape in a former church. The evening is best spent in a cozy basement restaurant in the heart of Elbląg.",
+            "pl": "Poranek zaczyna się pod osłoną Bramy Targowej. Czerwone cegły odtworzonego Starego Miasta błyszczą na deszczu. W południe muzeum i katedra oferują szerokie możliwości zwiedzania w pomieszczeniach. Po południu centrum sztuki Galeria EL zapewnia suchą odsłonę kultury w byłym kościele. Wieczór najlepiej spędzić w przytulnej restauracji w piwnicy w sercu Elbląga."
           },
           "stops": [
             {
@@ -402,7 +424,8 @@
                 "de": "Das Markttor bietet guten Unterstand bei plötzlichem Guss.",
                 "hu": "A kapu boltívei alatt megvárhatja az esőfelhők levonulását.",
                 "ro": "Arcadele porții oferă un adăpost bun în caz de ploaie torențială.",
-                "en": "The gate's arches provide excellent shelter during sudden downpours."
+                "en": "The gate's arches provide excellent shelter during sudden downpours.",
+                "pl": "Łuki bramy zapewniają doskonałą osłonę podczas nagłych ulew."
               }
             },
             {
@@ -411,7 +434,8 @@
                 "de": "Perfekter Ort für eine lange, trockene Pause mit viel Geschichte.",
                 "hu": "Hosszú beltéri program, ideális a legesősebb órákra.",
                 "ro": "O opțiune excelentă pentru a sta la adăpost pe durata ploii.",
-                "en": "Extensive indoor exhibits make this perfect for rainy hours."
+                "en": "Extensive indoor exhibits make this perfect for rainy hours.",
+                "pl": "Obszerne wystawy wewnątrz sprawiają, że to idealne miejsce na deszczowe godziny."
               }
             },
             {
@@ -420,7 +444,8 @@
                 "de": "Die hohen Gewölbe sind trocken, aber in den Gängen ist es kühl.",
                 "hu": "A hatalmas belső tér száraz, de a kövezet hűvös lehet.",
                 "ro": "Interiorul vast este uscat, dar răcoros în zilele ploioase.",
-                "en": "The vast interior is dry, though it can feel chilly inside."
+                "en": "The vast interior is dry, though it can feel chilly inside.",
+                "pl": "Obszerne wnętrze jest suche, choć w środku może być chłodno."
               }
             },
             {
@@ -429,7 +454,8 @@
                 "de": "Genießen Sie moderne Kunst im trockenen Kirchenschiff.",
                 "hu": "Modern művészet egy egykori templom száraz falai között.",
                 "ro": "Artă modernă într-o fostă biserică, complet ferită de ploaie.",
-                "en": "Contemporary art in a former church, fully protected from rain."
+                "en": "Contemporary art in a former church, fully protected from rain.",
+                "pl": "Sztuka współczesna w dawnym kościele, w pełni chroniona przed deszczem."
               }
             },
             {
@@ -438,7 +464,8 @@
                 "de": "Der Weg ist befestigt, aber ein großer Schirm ist hier Pflicht.",
                 "hu": "A part menti út kövezett, de ide már kell a nagy esernyő.",
                 "ro": "Drumul este pavat, dar o umbrelă mare este necesară aici.",
-                "en": "The path is paved, but a sturdy umbrella is essential here."
+                "en": "The path is paved, but a sturdy umbrella is essential here.",
+                "pl": "Ścieżka jest wybrukowana, ale niezbędny jest solidny parasol."
               }
             },
             {
@@ -447,7 +474,8 @@
                 "de": "Die dichten Baumkronen bieten nur begrenzten Schutz vor Regen.",
                 "hu": "A sűrű lombozat csak részben fogja fel az esővizet.",
                 "ro": "Coroanele copacilor oferă doar un adăpost limitat.",
-                "en": "The dense canopy provides only partial cover from the rain."
+                "en": "The dense canopy provides only partial cover from the rain.",
+                "pl": "Gęsty koron drzew daje tylko częściową osłonę przed deszczem."
               }
             },
             {
@@ -456,7 +484,8 @@
                 "de": "Wählen Sie ein Restaurant mit Garderobe für nasse Mäntel.",
                 "hu": "Keressen olyan helyet, ahol van ruhatár a vizes kabátoknak.",
                 "ro": "Alegeți un restaurant cu garderobă pentru hainele umede.",
-                "en": "Choose a restaurant with a cloakroom for your wet coats."
+                "en": "Choose a restaurant with a cloakroom for your wet coats.",
+                "pl": "Wybierz restaurację z szatnią na mokre płaszcze."
               }
             }
           ],
@@ -484,6 +513,12 @@
               "Use the cathedral and museum as strategic indoor resting points.",
               "The Old Town features several arcades that help you stay dry while walking.",
               "Due to the often windy weather, a sturdy umbrella is highly recommended."
+            ],
+            "pl": [
+              "Noś wodoodporne buty, ponieważ stary bruk ma tendencję do tworzenia kałuż.",
+              "Wykorzystaj katedrę i muzeum jako strategiczne miejsca na odpoczynek w pomieszczeniu.",
+              "Na Starym Mieście znajduje się kilka arkad, które pomagają zachować suchość podczas spaceru.",
+              "Ze względu na często wietrzną pogodę warto mieć solidny parasol."
             ]
           }
         },
@@ -492,7 +527,8 @@
             "de": "Morgens liegt oft Frost auf dem Backstein des Markttors, was der Altstadt einen herben Charme verleiht. Mittags wärmen Sie sich in der geheizten Kathedrale oder bei einer Tasse Tee am Marktplatz auf. Nachmittags sinkt die Sonne früh über dem Elbing-Kanal, die blaue Stunde färbt den Schnee auf den Wiesen blau. Abends leuchtet die Weihnachtsbeleuchtung in den Gassen der historischen Hansestadt.",
             "hu": "Reggel zúzmara borítja a piaci kapu tégláit, ami különleges fényt ad az óvárosnak. Délben a katedrális csendje és a múzeum fűtött termei nyújtanak menedéket a hideg elől. Délután a nap korán bukik a horizont alá a csatorna felett, a Bażantarnia erdő pedig téli mesevilággá változik. Estére a kivilágított főutca hangulatos fényei mellett fejezhetjük be a napot.",
             "ro": "Dimineața, chiciura acoperă cărămizile Porții Pieței, oferind orașului un farmec auster. La prânz, interiorul catedralei și muzeul încălzit oferă momente de respiro. După-amiaza, soarele apune devreme peste canal, transformând parcul Bażantarnia într-un peisaj de basm. Seara, luminile festive din centrul istoric creează o atmosferă caldă în ciuda gerului.",
-            "en": "Morning frost often covers the bricks of the Market Gate, adding a crisp charm to the Old Town. At noon, warm up in the heated museum or enjoy the quiet of the cathedral. In the afternoon, the sun sets early over the canal, and the Bażantarnia forest turns into a winter wonderland. By evening, the festive lights of the Hanseatic city create a magical atmosphere in the cold air."
+            "en": "Morning frost often covers the bricks of the Market Gate, adding a crisp charm to the Old Town. At noon, warm up in the heated museum or enjoy the quiet of the cathedral. In the afternoon, the sun sets early over the canal, and the Bażantarnia forest turns into a winter wonderland. By evening, the festive lights of the Hanseatic city create a magical atmosphere in the cold air.",
+            "pl": "Poranna szron często pokrywa cegły Bramy Targowej, dodając Staremu Miastu rześkiego uroku. W południe rozgrzej się w ogrzewanym muzeum lub ciesz się ciszą katedry. Po południu słońce szybko zachodzi nad kanałem, a las Bażantarnia zmienia się w zimową krainę czarów. Wieczorem świąteczne światła hanzeatyckiego miasta tworzą w mroźnym powietrzu magiczną atmosferę."
           },
           "stops": [
             {
@@ -501,7 +537,8 @@
                 "de": "Vorsicht vor Glätte auf den historischen Pflastersteinen.",
                 "hu": "Vigyázat, a történelmi macskakövek jegesek és csúszósak lehetnek.",
                 "ro": "Atenție la polei pe pietrele cubice din zona istorică.",
-                "en": "Watch out for icy patches on the historic cobblestones."
+                "en": "Watch out for icy patches on the historic cobblestones.",
+                "pl": "Uważaj na oblodzone miejsca na historycznym bruku."
               }
             },
             {
@@ -510,7 +547,8 @@
                 "de": "Die Ausstellungsräume sind gut beheizt und bieten Komfort.",
                 "hu": "A kiállítótermek jól fűtöttek, ideális melegedőhely.",
                 "ro": "Sălile de expoziție sunt bine încălzite și confortabile.",
-                "en": "The exhibition halls are well-heated and very comfortable."
+                "en": "The exhibition halls are well-heated and very comfortable.",
+                "pl": "Sale wystawowe są dobrze ogrzewane i bardzo komfortowe."
               }
             },
             {
@@ -519,7 +557,8 @@
                 "de": "Ziehen Sie sich warm an, in der Kirche ist es sehr kalt.",
                 "hu": "Öltözzön rétegesen, a templom belső tere télen igen hideg.",
                 "ro": "Îmbrăcați-vă gros, interiorul bisericii este foarte rece iarna.",
-                "en": "Dress warmly as the cathedral interior can be very cold in winter."
+                "en": "Dress warmly as the cathedral interior can be very cold in winter.",
+                "pl": "Ubierz się ciepło, bo wnętrze katedry może być zimne zimą."
               }
             },
             {
@@ -528,7 +567,8 @@
                 "de": "Das ungewöhnliche Ambiente wirkt im Winter besonders puristisch.",
                 "hu": "A különleges környezet télen még puritánabbnak hat.",
                 "ro": "Ambianța neobișnuită pare deosebit de puristă iarna.",
-                "en": "The unique atmosphere feels especially minimalist in winter."
+                "en": "The unique atmosphere feels especially minimalist in winter.",
+                "pl": "Unikalna atmosfera jest szczególnie minimalistyczna zimą."
               }
             },
             {
@@ -537,7 +577,8 @@
                 "de": "Der Wind vom Haff kann hier besonders schneidend sein.",
                 "hu": "A lagúna felől fújó szél itt különösen metsző lehet.",
                 "ro": "Vântul dinspre lagună poate fi tăios în această zonă.",
-                "en": "The wind from the lagoon can be particularly biting here."
+                "en": "The wind from the lagoon can be particularly biting here.",
+                "pl": "Wiatr znad laguny może tu szczególnie przenikać."
               }
             },
             {
@@ -546,7 +587,8 @@
                 "de": "Die Waldwege können vereist sein; festes Schuhwerk ist nötig.",
                 "hu": "Az erdei utak jegesek lehetnek, túrabakancs ajánlott.",
                 "ro": "Potecile din pădure pot fi înghețate; purtați bocanci.",
-                "en": "Forest paths may be icy; sturdy winter boots are required."
+                "en": "Forest paths may be icy; sturdy winter boots are required.",
+                "pl": "Ścieżki leśne mogą być oblodzone; wymagane są solidne zimowe buty."
               }
             },
             {
@@ -555,7 +597,8 @@
                 "de": "Reservieren Sie einen Tisch nahe an der Heizung oder am Kamin.",
                 "hu": "Foglaljon asztalt a fűtőtest vagy a kandalló közelében.",
                 "ro": "Rezervați o masă lângă calorifer sau lângă șemineu.",
-                "en": "Book a table near the heater or the fireplace if available."
+                "en": "Book a table near the heater or the fireplace if available.",
+                "pl": "Zarezerwuj stolik przy nagrzewnicy lub kominku, jeśli to możliwe."
               }
             }
           ],
@@ -583,6 +626,12 @@
               "Wear thermal layers to protect against the cold lagoon winds.",
               "Cobblestones in the Old Town become extremely slippery when frozen.",
               "Many local cafes serve 'Grzaniec' (mulled wine) during winter."
+            ],
+            "pl": [
+              "W grudniu słońce zachodzi już około 15:30.",
+              "Noś termiczne warstwy, by chronić się przed zimnymi wiatrami znad laguny.",
+              "Bruk na Starym Mieście staje się niezwykle śliski po zamarznięciu.",
+              "Wiele lokalnych kawiarni serwuje zimą grzane wino „Grzaniec”."
             ]
           }
         }
@@ -601,7 +650,8 @@
             "de": "Elbinger Altstadt & Markttor",
             "hu": "Elblągi Óváros és Piaci kapu",
             "ro": "Orașul vechi Elbląg și Poarta Pieței",
-            "en": "Elbląg Old Town & Market Gate"
+            "en": "Elbląg Old Town & Market Gate",
+            "pl": "Stare Miasto Elbląga i Brama Targowa"
           },
           "coords": [
             19.4021,
@@ -617,7 +667,8 @@
             "de": "Schließen Sie Ihr Fahrrad sicher ab und erkunden Sie die Gassen zu Fuß.",
             "hu": "Zárja le biztonságosan a kerékpárját, és fedezze fel a sikátorokat gyalog.",
             "ro": "Asigurați-vă bicicleta și explorați aleile pe jos.",
-            "en": "Lock your bike securely and explore the alleys on foot."
+            "en": "Lock your bike securely and explore the alleys on foot.",
+            "pl": "Zamknij rower na solidny zamek i zwiedzaj uliczki pieszo."
           }
         },
         {
@@ -625,7 +676,8 @@
             "de": "St. Nikolaus Kathedrale",
             "hu": "Szent Miklós-székesegyház",
             "ro": "Catedrala Sfântul Nicolae",
-            "en": "St. Nicholas Cathedral"
+            "en": "St. Nicholas Cathedral",
+            "pl": "Katedra św. Mikołaja"
           },
           "coords": [
             19.398,
@@ -641,7 +693,8 @@
             "de": "Ein kurzer Halt, um die gotische Architektur zu bewundern.",
             "hu": "Egy rövid megálló a gótikus építészet megcsodálására.",
             "ro": "O oprire scurtă pentru a admira arhitectura gotică.",
-            "en": "A quick stop to admire the Gothic architecture."
+            "en": "A quick stop to admire the Gothic architecture.",
+            "pl": "Krótki postój, by podziwiać gotycką architekturę."
           }
         },
         {
@@ -649,7 +702,8 @@
             "de": "Archäologisches Museum",
             "hu": "Régészeti és Történeti Múzeum",
             "ro": "Muzeul de Arheologie și Istorie",
-            "en": "Archaeological and Historical Museum"
+            "en": "Archaeological and Historical Museum",
+            "pl": "Muzeum Archeologiczne i Historyczne"
           },
           "coords": [
             19.4005,
@@ -665,7 +719,8 @@
             "de": "Perfekt für einen regnerischen Teil des Tages.",
             "hu": "Tökéletes program a nap egy esős részére.",
             "ro": "Perfect pentru o parte ploioasă a zilei.",
-            "en": "Perfect for a rainy part of the day."
+            "en": "Perfect for a rainy part of the day.",
+            "pl": "Idealne na deszczową część dnia."
           }
         },
         {
@@ -673,7 +728,8 @@
             "de": "Radweg am Elbing-Kanal",
             "hu": "Kerékpárút az Elbląg-csatorna mentén",
             "ro": "Pistă de biciclete de-a lungul Canalului Elbląg",
-            "en": "Bike ride along the Elbląg Canal"
+            "en": "Bike ride along the Elbląg Canal",
+            "pl": "Przejażdżka rowerowa wzdłuż Kanału Elbląskiego"
           },
           "coords": [
             19.41,
@@ -689,7 +745,8 @@
             "de": "Genießen Sie die flache Strecke und die einzigartige Landschaft.",
             "hu": "Élvezze a sík terepet és az egyedülálló tájat.",
             "ro": "Bucurați-vă de traseul plat și de peisajul unic.",
-            "en": "Enjoy the flat route and the unique scenery."
+            "en": "Enjoy the flat route and the unique scenery.",
+            "pl": "Ciesz się płaską trasą i unikalnymi widokami."
           }
         },
         {
@@ -697,7 +754,8 @@
             "de": "Bażantarnia-Park",
             "hu": "Bażantarnia Park",
             "ro": "Parcul Bażantarnia",
-            "en": "Bażantarnia Park"
+            "en": "Bażantarnia Park",
+            "pl": "Park Bażantarnia"
           },
           "coords": [
             19.465,
@@ -713,7 +771,8 @@
             "de": "Erkunden Sie die Waldwege mit dem Fahrrad.",
             "hu": "Fedezze fel az erdei ösvényeket kerékpárral.",
             "ro": "Explorați potecile pădurii cu bicicleta.",
-            "en": "Explore the forest trails by bike."
+            "en": "Explore the forest trails by bike.",
+            "pl": "Odkrywaj leśne szlaki na rowerze."
           }
         },
         {
@@ -721,7 +780,8 @@
             "de": "Ruinen der Marienkirche",
             "hu": "A Mária-templom romjai",
             "ro": "Ruinele Bisericii Sf. Maria",
-            "en": "Ruins of St. Mary's Church"
+            "en": "Ruins of St. Mary's Church",
+            "pl": "Ruiny kościoła św. Marii"
           },
           "coords": [
             19.397,
@@ -737,7 +797,8 @@
             "de": "Ein kurzer, besinnlicher Halt auf dem Rückweg in die Stadt.",
             "hu": "Egy rövid, elgondolkodtató megálló a városba visszavezető úton.",
             "ro": "O oprire scurtă și contemplativă în drum spre oraș.",
-            "en": "A short, contemplative stop on the way back to the city."
+            "en": "A short, contemplative stop on the way back to the city.",
+            "pl": "Krótki, kontemplacyjny postój w drodze powrotnej do miasta."
           }
         },
         {
@@ -745,7 +806,8 @@
             "de": "Abendessen mit Blick auf den Fluss",
             "hu": "Vacsora folyóra néző kilátással",
             "ro": "Cină cu vedere la râu",
-            "en": "Dinner with a River View"
+            "en": "Dinner with a River View",
+            "pl": "Kolacja z widokiem na rzekę"
           },
           "coords": [
             19.4015,
@@ -761,7 +823,8 @@
             "de": "Belohnen Sie sich nach einem aktiven Tag.",
             "hu": "Jutalmazza meg magát egy aktív nap után.",
             "ro": "Recompensați-vă după o zi activă.",
-            "en": "Reward yourself after an active day."
+            "en": "Reward yourself after an active day.",
+            "pl": "Nagrodź się po aktywnym dniu."
           }
         }
       ],
@@ -769,7 +832,8 @@
         "de": "Schwingen Sie sich aufs Rad und beginnen Sie Ihre Tour in der Elbinger Altstadt. Nach der Erkundung der historischen Gassen fahren Sie zur St.-Nikolaus-Kathedrale und zum Archäologischen Museum. Am Mittag genießen Sie eine malerische Fahrt entlang des Elbing-Kanals, ein technisches Wunderwerk. Der Nachmittag ist für den ausgedehnten Bażantarnia-Park reserviert, wo Sie die Natur auf zwei Rädern genießen können. Auf dem Rückweg halten Sie an den stimmungsvollen Ruinen der Marienkirche inne, bevor Sie Ihren Tag mit einem wohlverdienten Abendessen an der Uferpromenade ausklingen lassen.",
         "hu": "Pattanjon biciklire, és kezdje a túrát az elblągi Óvárosban. A történelmi utcák felfedezése után tekerjen el a Szent Miklós-székesegyházhoz és a Régészeti Múzeumhoz. Délben élvezze a festői kerékpárutat az Elbląg-csatorna, egy műszaki csoda mentén. A délután a tágas Bażantarnia Parké, ahol két keréken élvezheti a természetet. Visszafelé álljon meg a hangulatos Mária-templom romjainál, mielőtt egy jól megérdemelt vacsorával zárná a napot a folyóparton.",
         "ro": "Urcați-vă pe bicicletă și începeți turul în Orașul Vechi din Elbląg. După ce explorați străzile istorice, mergeți cu bicicleta la Catedrala Sf. Nicolae și la Muzeul de Arheologie. La prânz, bucurați-vă de o plimbare pitorească de-a lungul Canalului Elbląg, o minune a ingineriei. După-amiaza este rezervată pentru vastul Parc Bażantarnia, unde vă puteți bucura de natură pe două roți. Pe drumul de întoarcere, opriți-vă la ruinele evocatoare ale Bisericii Sf. Maria înainte de a încheia ziua cu o cină binemeritată pe malul râului.",
-        "en": "Hop on your bike and start your tour in Elbląg's Old Town. After exploring the historic streets, cycle to St. Nicholas Cathedral and the Archaeological Museum. At midday, enjoy a scenic ride along the Elbląg Canal, an engineering marvel. The afternoon is reserved for the expansive Bażantarnia Park, where you can enjoy nature on two wheels. On your way back, pause at the evocative ruins of St. Mary's Church before ending your day with a well-deserved dinner on the riverfront."
+        "en": "Hop on your bike and start your tour in Elbląg's Old Town. After exploring the historic streets, cycle to St. Nicholas Cathedral and the Archaeological Museum. At midday, enjoy a scenic ride along the Elbląg Canal, an engineering marvel. The afternoon is reserved for the expansive Bażantarnia Park, where you can enjoy nature on two wheels. On your way back, pause at the evocative ruins of St. Mary's Church before ending your day with a well-deserved dinner on the riverfront.",
+        "pl": "Wskocz na rower i rozpocznij wycieczkę na Starym Mieście Elbląga. Po zwiedzeniu zabytkowych ulic przejedź do katedry św. Mikołaja i Muzeum Archeologicznego. W południe delektuj się malowniczą jazdą wzdłuż Kanału Elbląskiego, inżynieryjnego cudu. Popołudnie zarezerwuj na rozległy Park Bażantarnia, gdzie możesz cieszyć się naturą na dwóch kółkach. W drodze powrotnej zatrzymaj się przy nastrojowych ruinach kościoła św. Marii, po czym zakończ dzień zasłużoną kolacją nad rzeką."
       },
       "gastro_picks": {
         "de": [
@@ -965,6 +1029,12 @@
           "Some trails in Bażantarnia Park are unpaved and better suited for mountain bikes.",
           "Bring a good lock to secure your bike at the attractions.",
           "Plan for extra time for unexpected stops and photo opportunities."
+        ],
+        "pl": [
+          "Zwracaj uwagę na ruch drogowy podczas jazdy po głównych ulicach.",
+          "Niektóre trasy w Parku Bażantarnia są nieutwardzone i lepiej nadają się dla rowerów górskich.",
+          "Weź ze sobą dobry zamek, by zabezpieczyć rower przy atrakcjach.",
+          "Planuj dodatkowy czas na niespodziewane przerwy i sesje zdjęciowe."
         ]
       },
       "variants": {
@@ -973,7 +1043,8 @@
             "de": "Morgens erfordert das nasse Kopfsteinpflaster am Markttor volle Konzentration auf zwei Rädern. Mittags bietet die Kathedrale eine willkommene Pause zum Abtrocknen. Nachmittags führt die Tour am Elbing-Kanal entlang, wo der Asphalt griffiger ist als in der Altstadt. Der Bażantarnia-Park riecht bei Regen intensiv nach Wald, die Wege sind jedoch weich. Abends belohnt ein warmes Essen die nasse Fahrt.",
             "hu": "Reggel a piaci kapu környéki vizes macskakő fokozott figyelmet igényel két keréken. Délben a székesegyház és a múzeum kínál száraz menedéket. Délután a csatorna menti kerékpározás során az aszfalt biztosabb tapadást ad, mint az óváros kövei. A Bażantarnia erdő ilyenkor illatos, de az utak sárosak lehetnek. Estére a folyóparti vacsora mellett szárítkozhatunk meg.",
             "ro": "Dimineața, pavajul ud de lângă Poarta Pieței necesită atenție sporită pe bicicletă. La prânz, catedrala oferă o pauză binemeritată pentru a vă usca. După-amiaza, tura pe malul canalului beneficiază de asfalt, mai sigur decât piatra cubică. Parcul Bażantarnia are un miros intens de pădure, dar potecile sunt moi. Seara, o cină caldă răsplătește efortul prin ploaie.",
-            "en": "Morning ride near the Market Gate requires focus due to slippery wet cobblestones. At noon, the cathedral offers a perfect spot to dry off. In the afternoon, cycling along the canal provides better traction on asphalt compared to the Old Town. Bażantarnia Park smells wonderful in the rain, though forest paths can be muddy. A warm dinner by the river is the perfect reward for a wet ride."
+            "en": "Morning ride near the Market Gate requires focus due to slippery wet cobblestones. At noon, the cathedral offers a perfect spot to dry off. In the afternoon, cycling along the canal provides better traction on asphalt compared to the Old Town. Bażantarnia Park smells wonderful in the rain, though forest paths can be muddy. A warm dinner by the river is the perfect reward for a wet ride.",
+            "pl": "Poranna jazda w pobliżu Bramy Targowej wymaga koncentracji z powodu śliskiego, mokrego bruku. W południe katedra to idealne miejsce, by się osuszyć. Po południu jazda wzdłuż kanału daje lepszą przyczepność na asfalcie w porównaniu ze Starym Miastem. Park Bażantarnia pięknie pachnie po deszczu, choć leśne ścieżki mogą być błotniste. Ciepła kolacja nad rzeką to doskonała nagroda po mokrej wycieczce."
           },
           "stops": [
             {
@@ -982,7 +1053,8 @@
                 "de": "Vorsicht in Kurven; das nasse Pflaster ist extrem glatt.",
                 "hu": "Óvatosan a kanyarokban, a vizes macskakő nagyon csúszik.",
                 "ro": "Atenție în curbe; pavajul ud este extrem de alunecos.",
-                "en": "Careful in turns; the wet cobblestones are extremely slick."
+                "en": "Careful in turns; the wet cobblestones are extremely slick.",
+                "pl": "Uważaj na zakrętach; mokry bruk jest bardzo śliski."
               }
             },
             {
@@ -991,7 +1063,8 @@
                 "de": "Stellen Sie Ihr Rad unter dem Vordach einer nahen Arkade ab.",
                 "hu": "Parkoljon le a közeli árkádok védelme alatt.",
                 "ro": "Parcați bicicleta sub protecția arcadelor din apropiere.",
-                "en": "Park your bike under the shelter of nearby arcades."
+                "en": "Park your bike under the shelter of nearby arcades.",
+                "pl": "Zaparkuj rower pod osłoną pobliskich arkad."
               }
             },
             {
@@ -1000,7 +1073,8 @@
                 "de": "Nutzen Sie den Museumsbesuch als längere Trockenpause.",
                 "hu": "Használja ki a múzeumi időt a ruházat szárítására.",
                 "ro": "Folosiți vizita la muzeu ca o pauză lungă pentru uscare.",
-                "en": "Use the museum visit as an extended break to dry off."
+                "en": "Use the museum visit as an extended break to dry off.",
+                "pl": "Wykorzystaj wizytę w muzeum jako dłuższą przerwę na osuszenie się."
               }
             },
             {
@@ -1009,7 +1083,8 @@
                 "de": "Die Uferwege sind asphaltiert und auch bei Regen gut befahrbar.",
                 "hu": "A parti utak aszfaltozottak, esőben is jól tekerhetők.",
                 "ro": "Drumurile de pe mal sunt asfaltate și bune de parcurs pe ploaie.",
-                "en": "The riverside paths are paved and manageable even in the rain."
+                "en": "The riverside paths are paved and manageable even in the rain.",
+                "pl": "Ścieżki nad rzeką są utwardzone i do opanowania nawet w deszczu."
               }
             },
             {
@@ -1018,7 +1093,8 @@
                 "de": "Meiden Sie bei starkem Regen die unbefestigten Waldwege.",
                 "hu": "Heves esőzéskor kerülje a burkolatlan erdei ösvényeket.",
                 "ro": "Evitați potecile de pământ din pădure în caz de ploaie grea.",
-                "en": "Avoid unpaved forest trails during heavy rainfall."
+                "en": "Avoid unpaved forest trails during heavy rainfall.",
+                "pl": "Unikaj nieutwardzonych szlaków leśnych podczas ulewnych deszczy."
               }
             },
             {
@@ -1027,7 +1103,8 @@
                 "de": "Kurzer Stopp; die Ruinen bieten kaum Schutz vor Güssen.",
                 "hu": "Rövid megálló, a romok nem védenek az esőtől.",
                 "ro": "Oprire scurtă; ruinele nu oferă protecție contra ploii.",
-                "en": "Short stop; the ruins offer little protection from rain."
+                "en": "Short stop; the ruins offer little protection from rain.",
+                "pl": "Krótki postój; ruiny oferują niewiele ochrony przed deszczem."
               }
             },
             {
@@ -1036,7 +1113,8 @@
                 "de": "Suchen Sie ein Lokal mit Innenplätzen direkt am Fenster.",
                 "hu": "Válasszon belső asztalt közvetlenül az ablak mellett.",
                 "ro": "Căutați un local cu locuri la interior chiar lângă fereastră.",
-                "en": "Look for a spot with indoor seating right by the window."
+                "en": "Look for a spot with indoor seating right by the window.",
+                "pl": "Szukaj miejsca z miejscami wewnątrz tuż przy oknie."
               }
             }
           ],
@@ -1064,6 +1142,12 @@
               "Avoid braking on tram tracks when they are wet.",
               "Wear a high-visibility rain jacket for better safety.",
               "The surfaces of the river bridges can be very slippery when wet."
+            ],
+            "pl": [
+              "Błotniki są niezbędne ze względu na mokre nawierzchnie w Elblągu.",
+              "Unikaj hamowania na torach tramwajowych, gdy są mokre.",
+              "Noś jaskrawą, wodoodporną kurtkę dla lepszej widoczności i bezpieczeństwa.",
+              "Powierzchnie mostów nad rzeką mogą być bardzo śliskie, gdy są mokre."
             ]
           }
         },
@@ -1072,7 +1156,8 @@
             "de": "Morgens knirscht der Frost unter den Reifen, während Sie durch das Markttor fahren. Die klare Winterluft am Fluss ist erfrischend, erfordert aber gute Handschuhe. Mittags wärmt die Kathedrale den Geist, während die Finger im Museum auftauen. Nachmittags führt die Tour in den verschneiten Bażantarnia-Park, wo die Stille des Winters herrscht. Abends leuchten die Lichter der Altstadt den Weg zum verdienten Abendessen.",
             "hu": "Reggel ropog a fagy a gumi alatt, ahogy áthajt a piaci kapun. A folyóparti tiszta téli levegő frissítő, de jó kesztyű nélkülözhetetlen. Délben a katedrális és a múzeum fűtött terei adják vissza az életkedvet. Délután a Bażantarnia park havas ösvényei igazi téli csendet árasztanak. Estére az óváros ünnepi fényei mutatják az utat a folyóparti étterem felé.",
             "ro": "Dimineața, gerul scrâșnește sub roți la trecerea prin Poarta Pieței. Aerul curat de iarnă de lângă râu este revigorant, dar necesită mănuși bune. La prânz, degetele se dezgheață în muzeul încălzit. După-amiaza, tura continuă în parcul Bażantarnia înzăpezit, unde domnește liniștea iernii. Seara, luminile orașului vechi ghidează drumul spre cină.",
-            "en": "Morning frost crunches under your tires as you ride through the Market Gate. The crisp winter air by the river is refreshing but demands good gloves. At noon, your fingers thaw out in the heated museum. In the afternoon, the tour takes you to the snowy Bażantarnia Park, where winter silence prevails. By evening, the Old Town lights guide your way to a well-deserved dinner."
+            "en": "Morning frost crunches under your tires as you ride through the Market Gate. The crisp winter air by the river is refreshing but demands good gloves. At noon, your fingers thaw out in the heated museum. In the afternoon, the tour takes you to the snowy Bażantarnia Park, where winter silence prevails. By evening, the Old Town lights guide your way to a well-deserved dinner.",
+            "pl": "Poranny szron skrzypi pod oponami, gdy przejeżdżasz przez Bramę Targową. Rześkie zimowe powietrze nad rzeką orzeźwia, ale wymaga dobrych rękawic. W południe palce ogrzewają się w ogrzewanym muzeum. Po południu trasa prowadzi do zaśnieżonego Parku Bażantarnia, gdzie panuje zimowa cisza. Wieczorem światła Starego Miasta prowadzą cię do zasłużonej kolacji."
           },
           "stops": [
             {
@@ -1081,7 +1166,8 @@
                 "de": "Reifendruck leicht senken für mehr Grip auf Eis.",
                 "hu": "Engedjen kicsit a keréknyomásból a jobb tapadásért.",
                 "ro": "Reduceți ușor presiunea în pneuri pentru aderență pe gheață.",
-                "en": "Slightly lower tire pressure for better grip on icy ground."
+                "en": "Slightly lower tire pressure for better grip on icy ground.",
+                "pl": "Delikatnie obniż ciśnienie w oponach dla lepszej przyczepności na oblodzonej nawierzchni."
               }
             },
             {
@@ -1090,7 +1176,8 @@
                 "de": "Kurzer Stopp; das Metallschloss kann bei Frost klemmen.",
                 "hu": "Rövid megálló, a lakat belefagyhat a fémbe.",
                 "ro": "Oprire scurtă; lacătul metalic se poate bloca la ger.",
-                "en": "Short stop; metal locks can sometimes freeze up."
+                "en": "Short stop; metal locks can sometimes freeze up.",
+                "pl": "Krótki postój; metalowe zamki mogą czasem zamarzać."
               }
             },
             {
@@ -1099,7 +1186,8 @@
                 "de": "Parken Sie das Rad sicher und wärmen Sie sich lange auf.",
                 "hu": "Parkoljon le biztonságosan, és melegedjen fel alaposan.",
                 "ro": "Parcați bicicleta și încălziți-vă bine în interior.",
-                "en": "Park your bike securely and take plenty of time to warm up."
+                "en": "Park your bike securely and take plenty of time to warm up.",
+                "pl": "Zaparkuj rower bezpiecznie i poświęć dużo czasu na rozgrzewkę."
               }
             },
             {
@@ -1108,7 +1196,8 @@
                 "de": "Achten Sie auf gefrorene Pfützen am Wegrand.",
                 "hu": "Ügyeljen az út szélén megfagyott tócsákra.",
                 "ro": "Atenție la bălțile înghețate de pe marginea drumului.",
-                "en": "Watch out for frozen puddles along the path edges."
+                "en": "Watch out for frozen puddles along the path edges.",
+                "pl": "Uważaj na zamarznięte kałuże przy krawędziach ścieżki."
               }
             },
             {
@@ -1117,7 +1206,8 @@
                 "de": "Steile Abschnitte im Wald können extrem glatt sein.",
                 "hu": "Az erdei meredek szakaszok rendkívül csúszósak lehetnek.",
                 "ro": "Secțiunile abrupte din pădure pot fi extrem de alunecoase.",
-                "en": "Steep forest sections can be extremely slippery."
+                "en": "Steep forest sections can be extremely slippery.",
+                "pl": "Strome odcinki leśne mogą być wyjątkowo śliskie."
               }
             },
             {
@@ -1126,7 +1216,8 @@
                 "de": "Die Backsteinruinen wirken im Schnee besonders dramatisch.",
                 "hu": "A téglaromok a hóban különösen drámai látványt nyújtanak.",
                 "ro": "Ruinele de cărămidă par dramatice sub zăpadă.",
-                "en": "The brick ruins look particularly dramatic in the snow."
+                "en": "The brick ruins look particularly dramatic in the snow.",
+                "pl": "Ceglane ruiny wyglądają szczególnie dramatycznie na śniegu."
               }
             },
             {
@@ -1135,7 +1226,8 @@
                 "de": "Prüfen Sie vor der Abfahrt die Lichtanlage Ihres Rades.",
                 "hu": "Indulás előtt ellenőrizze a kerékpár világítását.",
                 "ro": "Verificați sistemul de iluminare înainte de plecare.",
-                "en": "Check your bike lights thoroughly before heading out."
+                "en": "Check your bike lights thoroughly before heading out.",
+                "pl": "Dokładnie sprawdź światła rowerowe przed wyjazdem."
               }
             }
           ],
@@ -1163,6 +1255,12 @@
               "Keep your chain well-oiled to protect against road salt.",
               "Warm, windproof gloves are essential in Elbląg winter.",
               "Avoid sudden steering movements on icy or frozen patches."
+            ],
+            "pl": [
+              "Zawsze używaj jasnych przednich i tylnych świateł zimą.",
+              "Utrzymuj łańcuch dobrze nasmarowany, aby chronić go przed solą drogową.",
+              "Ciepłe, wiatroodporne rękawice są niezbędne zimą w Elblągu.",
+              "Unikaj gwałtownych ruchów kierownicą na lodzie lub zamarzniętych miejscach."
             ]
           }
         }
@@ -1181,7 +1279,8 @@
             "de": "Parkplatz Altstadt (Cluster A)",
             "hu": "Parkoló az Óvárosnál (A Klaszter)",
             "ro": "Parcare Orașul Vechi (Cluster A)",
-            "en": "Old Town Car Park (Cluster A)"
+            "en": "Old Town Car Park (Cluster A)",
+            "pl": "Parking Starego Miasta (Strefa A)"
           },
           "coords": [
             19.395,
@@ -1197,7 +1296,8 @@
             "de": "Parken Sie hier für den Vormittag. Es gibt mehrere kostenpflichtige Parkplätze.",
             "hu": "Parkoljon le itt a délelőttre. Több fizetős parkoló is található.",
             "ro": "Parcați aici pentru dimineață. Există mai multe parcări cu plată.",
-            "en": "Park here for the morning. There are several paid parking lots."
+            "en": "Park here for the morning. There are several paid parking lots.",
+            "pl": "Zaparkuj tu na poranek. Jest kilka płatnych parkingów."
           }
         },
         {
@@ -1205,7 +1305,8 @@
             "de": "St. Nikolaus Kathedrale & Altstadt",
             "hu": "Szent Miklós-székesegyház és Óváros",
             "ro": "Catedrala Sf. Nicolae și Orașul Vechi",
-            "en": "St. Nicholas Cathedral & Old Town"
+            "en": "St. Nicholas Cathedral & Old Town",
+            "pl": "Katedra św. Mikołaja i Stare Miasto"
           },
           "coords": [
             19.398,
@@ -1221,7 +1322,8 @@
             "de": "Erkunden Sie die Kathedrale und schlendern Sie dann zum Markttor.",
             "hu": "Fedezze fel a székesegyházat, majd sétáljon el a Piaci kapuhoz.",
             "ro": "Explorați catedrala și apoi plimbați-vă până la Poarta Pieței.",
-            "en": "Explore the cathedral and then wander towards the Market Gate."
+            "en": "Explore the cathedral and then wander towards the Market Gate.",
+            "pl": "Odkryj katedrę, a potem przejdź w stronę Bramy Targowej."
           }
         },
         {
@@ -1229,7 +1331,8 @@
             "de": "Archäologisches Museum",
             "hu": "Régészeti és Történeti Múzeum",
             "ro": "Muzeul de Arheologie și Istorie",
-            "en": "Archaeological and Historical Museum"
+            "en": "Archaeological and Historical Museum",
+            "pl": "Muzeum Archeologiczne i Historyczne"
           },
           "coords": [
             19.4005,
@@ -1245,7 +1348,8 @@
             "de": "Ein kurzer Spaziergang vom Marktplatz entfernt.",
             "hu": "Egy rövid sétára a piactértől.",
             "ro": "La o scurtă plimbare de piață.",
-            "en": "A short walk from the market square."
+            "en": "A short walk from the market square.",
+            "pl": "Krótki spacer od rynku."
           }
         },
         {
@@ -1253,7 +1357,8 @@
             "de": "Fahrt zum Elbing-Kanal (Cluster B)",
             "hu": "Utazás az Elbląg-csatornához (B Klaszter)",
             "ro": "Călătorie la Canalul Elbląg (Cluster B)",
-            "en": "Drive to Elbląg Canal (Cluster B)"
+            "en": "Drive to Elbląg Canal (Cluster B)",
+            "pl": "Jazda do Kanału Elbląskiego (Strefa B)"
           },
           "coords": [
             19.53,
@@ -1269,7 +1374,8 @@
             "de": "Fahren Sie zu einer der berühmten geneigten Ebenen außerhalb der Stadt.",
             "hu": "Vezessen el a város melletti egyik híres lejtős síkhoz.",
             "ro": "Conduceți la unul dintre faimoasele planuri înclinate din afara orașului.",
-            "en": "Drive to one of the famous inclined planes outside the city."
+            "en": "Drive to one of the famous inclined planes outside the city.",
+            "pl": "Dojedź do jednej ze słynnych pochylni poza miastem."
           }
         },
         {
@@ -1277,7 +1383,8 @@
             "de": "Bażantarnia-Park (Cluster C)",
             "hu": "Bażantarnia Park (C Klaszter)",
             "ro": "Parcul Bażantarnia (Cluster C)",
-            "en": "Bażantarnia Park (Cluster C)"
+            "en": "Bażantarnia Park (Cluster C)",
+            "pl": "Park Bażantarnia (Strefa C)"
           },
           "coords": [
             19.465,
@@ -1293,7 +1400,8 @@
             "de": "Parken Sie am Eingang des Parks und machen Sie einen langen Spaziergang.",
             "hu": "Parkoljon a park bejáratánál, és tegyen egy hosszú sétát.",
             "ro": "Parcați la intrarea în parc și faceți o plimbare lungă.",
-            "en": "Park at the entrance of the park and take a long walk."
+            "en": "Park at the entrance of the park and take a long walk.",
+            "pl": "Zaparkuj przy wejściu do parku i wybierz się na długi spacer."
           }
         },
         {
@@ -1301,7 +1409,8 @@
             "de": "Abendessen in der Altstadt",
             "hu": "Vacsora az Óvárosban",
             "ro": "Cină în Orașul Vechi",
-            "en": "Dinner in the Old Town"
+            "en": "Dinner in the Old Town",
+            "pl": "Kolacja na Starym Mieście"
           },
           "coords": [
             19.401,
@@ -1317,7 +1426,8 @@
             "de": "Zurück im ersten Cluster für eine wohlverdiente Mahlzeit.",
             "hu": "Vissza az első klaszterbe egy jól megérdemelt étkezésért.",
             "ro": "Înapoi la primul cluster pentru o masă binemeritată.",
-            "en": "Back in the first cluster for a well-deserved meal."
+            "en": "Back in the first cluster for a well-deserved meal.",
+            "pl": "Powrót do pierwszej strefy na zasłużony posiłek."
           }
         }
       ],
@@ -1325,7 +1435,8 @@
         "de": "Beginnen Sie Ihren Tag mit dem Auto, indem Sie in der Nähe der Altstadt parken. Erkunden Sie das historische Zentrum zu Fuß, einschließlich der St.-Nikolaus-Kathedrale und des Archäologischen Museums. Nach dem Mittagessen fahren Sie aus der Stadt hinaus, um die einzigartigen geneigten Ebenen des Elbing-Kanals zu erleben, ein Wunder der Technik des 19. Jahrhunderts. Am Nachmittag fahren Sie zum Bażantarnia-Park, einem riesigen Waldgebiet, das sich perfekt für einen langen Spaziergang in der Natur eignet. Kehren Sie am Abend in die Stadt zurück, um in der charmanten Atmosphäre der Altstadt zu Abend zu essen.",
         "hu": "Kezdje a napot autóval, parkoljon le az Óváros közelében. Fedezze fel gyalog a történelmi központot, beleértve a Szent Miklós-székesegyházat és a Régészeti Múzeumot. Ebéd után hajtson ki a városból, hogy megtapasztalja az Elbląg-csatorna egyedülálló lejtős síkjait, a 19. századi mérnöki munka csodáját. Délután irány a Bażantarnia Park, egy hatalmas erdős terület, amely tökéletes egy hosszú természetjáráshoz. Este térjen vissza a városba, hogy az Óváros bájos hangulatában vacsorázzon.",
         "ro": "Începeți ziua cu mașina, parcând lângă Orașul Vechi. Explorați centrul istoric pe jos, inclusiv Catedrala Sf. Nicolae și Muzeul de Arheologie. După prânz, ieșiți din oraș pentru a experimenta planurile înclinate unice ale Canalului Elbląg, o minune a ingineriei din secolul al XIX-lea. După-amiaza, mergeți la Parcul Bażantarnia, o zonă forestieră vastă, perfectă pentru o plimbare lungă în natură. Seara, întoarceți-vă în oraș pentru cină în atmosfera fermecătoare a Orașului Vechi.",
-        "en": "Start your day by car, parking near the Old Town. Explore the historic center on foot, including St. Nicholas Cathedral and the Archaeological Museum. After lunch, drive out of the city to experience the unique inclined planes of the Elbląg Canal, a 19th-century engineering marvel. In the afternoon, head to Bażantarnia Park, a vast forest area perfect for a long walk in nature. Return to the city in the evening for dinner in the charming atmosphere of the Old Town."
+        "en": "Start your day by car, parking near the Old Town. Explore the historic center on foot, including St. Nicholas Cathedral and the Archaeological Museum. After lunch, drive out of the city to experience the unique inclined planes of the Elbląg Canal, a 19th-century engineering marvel. In the afternoon, head to Bażantarnia Park, a vast forest area perfect for a long walk in nature. Return to the city in the evening for dinner in the charming atmosphere of the Old Town.",
+        "pl": "Rozpocznij dzień samochodem, parkując w pobliżu Starego Miasta. Zwiedź pieszo historyczne centrum, w tym katedrę św. Mikołaja i Muzeum Archeologiczne. Po obiedzie wyjedź poza miasto, by doświadczyć unikalnych pochylni Kanału Elbląskiego, inżynieryjnego cudu XIX wieku. Po południu udaj się do Parku Bażantarnia, rozległego obszaru leśnego idealnego na długi spacer. Wieczorem wróć do miasta na kolację w urokliwej atmosferze Starego Miasta."
       },
       "gastro_picks": {
         "de": [
@@ -1521,6 +1632,12 @@
           "Traffic can be heavy in the city center during peak hours.",
           "A GPS is helpful for navigating to attractions outside the center.",
           "Refuel outside the city center where prices are usually lower."
+        ],
+        "pl": [
+          "Sprawdź opłaty i ograniczenia dotyczące parkowania przed zostawieniem samochodu.",
+          "Ruch w centrum może być duży w godzinach szczytu.",
+          "GPS przydaje się przy dojeździe do atrakcji poza centrum.",
+          "Tankuj poza centrum, gdzie ceny zwykle są niższe."
         ]
       },
       "variants": {
@@ -1529,7 +1646,8 @@
             "de": "Morgens parken Sie bequem nahe der Altstadt, während der Regen gegen das Autodach prasselt. Mittags sind die Wege zwischen Kathedrale und Museum kurz, was Sie weitgehend trocken hält. Nachmittags führt die Fahrt zum Elbing-Kanal, wo Sie die Technik aus dem Fenster beobachten können. Der Bażantarnia-Park bietet auch vom Parkplatz aus schöne Ausblicke ins Grüne. Abends kehren Sie bequem zum Abendessen zurück.",
             "hu": "Reggel kényelmesen parkolhat az óváros mellett, miközben az eső a kocsi tetején kopog. Délben a katedrális és a múzeum közötti rövid távokat szárazon teheti meg. Délután a csatornához autózva az ablakból is megcsodálhatja az ipari műemlékeket. A Bażantarnia park a parkolóból is szép zöld kilátást nyújt. Estére kényelmesen érkezhet az óvárosi vacsorahelyszínre.",
             "ro": "Dimineața parcați confortabil lângă centrul vechi în timp ce ploaia bate în plafonul mașinii. La prânz, distanțele scurte între catedrală și muzeu vă mențin uscat. După-amiaza, drumul spre canal vă permite să observați peisajul din confortul vehiculului. Parcul Bażantarnia oferă vederi frumoase chiar și din parcare. Seara, reveniți ușor în centru pentru cină.",
-            "en": "Morning starts with convenient parking near the Old Town as rain taps on the car roof. At noon, the short distances between the cathedral and museum keep you mostly dry. In the afternoon, driving to the canal allows you to see the sights from the comfort of your seat. Bażantarnia Park offers lush views even from the parking area. Evening access to the Old Town for dinner is easy and dry."
+            "en": "Morning starts with convenient parking near the Old Town as rain taps on the car roof. At noon, the short distances between the cathedral and museum keep you mostly dry. In the afternoon, driving to the canal allows you to see the sights from the comfort of your seat. Bażantarnia Park offers lush views even from the parking area. Evening access to the Old Town for dinner is easy and dry.",
+            "pl": "Poranek zaczyna się od skrobania szronu przed wyjściem do historycznej Bramy Targowej. Podgrzewane siedzenia sprawiają, że przejazd przez zimowy Elbląg jest bardzo przyjemny. W południe katedra i muzeum oferują ciepłe schronienie. Po południu przejazd do Bażantarni ukazuje wiecznie zielone drzewa obciążone śniegiem. Wieczorem zaparkuj przy Starym Mieście na krótki spacer do ciepłej restauracji."
           },
           "stops": [
             {
@@ -1538,7 +1656,8 @@
                 "de": "Zahlen Sie die Parkgebühr am Automaten per App.",
                 "hu": "Fizesse a parkolást kényelmesen, mobilapplikációval.",
                 "ro": "Plătiți parcarea ușor prin intermediul aplicației mobile.",
-                "en": "Pay for parking conveniently using a mobile app."
+                "en": "Pay for parking conveniently using a mobile app.",
+                "pl": "Opłać parking wygodnie przez aplikację mobilną."
               }
             },
             {
@@ -1547,7 +1666,8 @@
                 "de": "Nutzen Sie den Haupteingang für den kürzesten Fußweg.",
                 "hu": "Használja a főbejáratot a legrövidebb gyalogútért.",
                 "ro": "Folosiți intrarea principală pentru cel mai scurt traseu.",
-                "en": "Use the main entrance for the shortest walk from the car."
+                "en": "Use the main entrance for the shortest walk from the car.",
+                "pl": "Użyj głównego wejścia, aby skrócić spacer od samochodu."
               }
             },
             {
@@ -1556,7 +1676,8 @@
                 "de": "Parken Sie direkt davor, falls Plätze frei sind.",
                 "hu": "Parkoljon közvetlenül előtte, ha van szabad hely.",
                 "ro": "Parcați chiar în față dacă găsiți locuri libere.",
-                "en": "Park right in front if spaces are available."
+                "en": "Park right in front if spaces are available.",
+                "pl": "Zaparkuj tuż przed wejściem, jeśli są wolne miejsca."
               }
             },
             {
@@ -1565,7 +1686,8 @@
                 "de": "Gute Sicht auf die Hebewerke auch bei Regen.",
                 "hu": "Az emelőművekre esőben is jó rálátás nyílik a kocsiból.",
                 "ro": "Vedere bună asupra mecanismelor chiar și pe ploaie.",
-                "en": "Good view of the canal machinery even in the rain."
+                "en": "Good view of the canal machinery even in the rain.",
+                "pl": "Dobry widok na mechanikę kanału nawet w deszczu."
               }
             },
             {
@@ -1574,7 +1696,8 @@
                 "de": "Einige Aussichtspunkte sind direkt mit dem PKW erreichbar.",
                 "hu": "Néhány kilátópont közvetlenül autóval is megközelíthető.",
                 "ro": "Unele puncte de belvedere sunt accesibile direct cu mașina.",
-                "en": "Some viewpoints are directly accessible by car."
+                "en": "Some viewpoints are directly accessible by car.",
+                "pl": "Niektóre punkty widokowe są bezpośrednio dostępne samochodem."
               }
             },
             {
@@ -1583,7 +1706,8 @@
                 "de": "Bewachte Parkplätze in der Nähe bieten zusätzliche Sicherheit.",
                 "hu": "A közeli őrzött parkolók extra biztonságot adnak.",
                 "ro": "Parcările păzite din apropiere oferă siguranță sporită.",
-                "en": "Nearby guarded parking lots offer extra security."
+                "en": "Nearby guarded parking lots offer extra security.",
+                "pl": "Okoliczne strzeżone parkingi oferują dodatkowe bezpieczeństwo."
               }
             }
           ],
@@ -1611,6 +1735,12 @@
               "Use parking garages to reach the city center with dry feet.",
               "Watch out for deep puddles on side roads near the canal.",
               "Be extra careful with pedestrians whose visibility is limited by umbrellas."
+            ],
+            "pl": [
+              "Widoczność przy wybrzeżu może znacznie spaść podczas ulewy.",
+              "Korzystaj z parkingów wielopoziomowych, by dojść do centrum suchą stopą.",
+              "Uważaj na głębokie kałuże na bocznych drogach przy kanale.",
+              "Zachowaj szczególną ostrożność wobec pieszych, których widoczność ograniczają parasole."
             ]
           }
         },
@@ -1619,7 +1749,8 @@
             "de": "Morgens befreien Sie das Auto von Frost, bevor Sie zum historischen Markttor fahren. Die Sitzheizung macht die Fahrt durch das winterliche Elbing angenehm. Mittags bieten die Kathedrale und das Museum warme Rückzugsorte. Nachmittags führt die Fahrt in den Bażantarnia-Park, wo der Schnee die Nadelbäume schwer beugt. Abends parken Sie direkt in der beleuchteten Altstadt für einen kurzen Weg zum warmen Restaurant.",
             "hu": "Reggel le kell kaparni a jeget, mielőtt az óváros felé indulna. Az ülésfűtés kellemessé teszi a téli Elbląg bejárását. Délben a katedrális és a múzeum fűtött termei várják. Délután a Bażantarnia parkba autózva gyönyörködhet a hótól roskadozó fenyőkben. Estére közvetlenül az óvárosban parkolhat, így csak pár lépés a fűtött étterem.",
             "ro": "Dimineața trebuie să curățați gheața înainte de a porni spre orașul vechi. Încălzirea în scaune face parcurgerea orașului foarte plăcută. La prânz, catedrala și muzeul oferă refugii calde. După-amiaza, drumul spre parcul Bażantarnia vă arată brazi încărcați de zăpadă. Seara, parcați chiar în centru pentru un acces rapid la restaurantul călduros.",
-            "en": "Morning starts with scraping frost before heading to the historic Market Gate. Seat heating makes the drive through winter Elbląg very pleasant. At noon, the cathedral and museum offer warm retreats. In the afternoon, a drive to Bażantarnia Park reveals evergreens heavy with snow. In the evening, park right in the Old Town for a short walk to a warm restaurant."
+            "en": "Morning starts with scraping frost before heading to the historic Market Gate. Seat heating makes the drive through winter Elbląg very pleasant. At noon, the cathedral and museum offer warm retreats. In the afternoon, a drive to Bażantarnia Park reveals evergreens heavy with snow. In the evening, park right in the Old Town for a short walk to a warm restaurant.",
+            "pl": "Poranek zaczyna się od skrobania szronu przed wyruszeniem do historycznej Bramy Targowej. Podgrzewane siedzenia sprawiają, że przejazd przez zimowy Elbląg jest bardzo przyjemny. W południe katedra i muzeum oferują ciepłe wnętrza. Po południu przejazd do Parku Bażantarnia ukazuje iglaki obciążone śniegiem. Wieczorem zaparkuj na Starym Mieście, by krótko dojść do ciepłej restauracji."
           },
           "stops": [
             {
@@ -1628,7 +1759,8 @@
                 "de": "Parkplätze werden im Winter oft geräumt und gestreut.",
                 "hu": "A parkolókat télen rendszeresen takarítják és sózzák.",
                 "ro": "Parcările sunt de obicei deszăpezite și date cu sare iarna.",
-                "en": "Parking lots are usually cleared of snow and salted in winter."
+                "en": "Parking lots are usually cleared of snow and salted in winter.",
+                "pl": "Parking zazwyczaj jest odśnieżany i posypywany solą zimą."
               }
             },
             {
@@ -1637,7 +1769,8 @@
                 "de": "Das Auto bleibt warm, während Sie die Kirche kurz besichtigen.",
                 "hu": "Az autó meleg marad, amíg Ön gyorsan megnézi a templomot.",
                 "ro": "Mașina rămâne caldă în timp ce vizitați rapid biserica.",
-                "en": "The car stays warm while you take a quick look at the church."
+                "en": "The car stays warm while you take a quick look at the church.",
+                "pl": "Samochód pozostaje ciepły, gdy robisz szybkie zwiedzanie kościoła."
               }
             },
             {
@@ -1646,7 +1779,8 @@
                 "de": "Prüfen Sie, ob der Parkplatz vor dem Museum geräumt ist.",
                 "hu": "Ellenőrizze, hogy a múzeum előtti parkolót letakarították-e.",
                 "ro": "Verificați dacă parcarea din fața muzeului este deszăpezită.",
-                "en": "Check if the parking area in front of the museum is cleared."
+                "en": "Check if the parking area in front of the museum is cleared.",
+                "pl": "Sprawdź, czy teren parkingu przed muzeum jest odśnieżony."
               }
             },
             {
@@ -1655,7 +1789,8 @@
                 "de": "Die Straßen zum Kanal können bei Frost tückisch sein.",
                 "hu": "A csatornához vezető utak fagyban trükkösek lehetnek.",
                 "ro": "Drumurile spre canal pot fi înșelătoare în caz de îngheț.",
-                "en": "Roads leading to the canal can be tricky when frozen."
+                "en": "Roads leading to the canal can be tricky when frozen.",
+                "pl": "Drogi prowadzące do kanału mogą być zdradliwe przy zamarznięciu."
               }
             },
             {
@@ -1664,7 +1799,8 @@
                 "de": "Winterreifen sind für die Hügel im Park unbedingt nötig.",
                 "hu": "A park dombjaihoz a téli gumi elengedhetetlen.",
                 "ro": "Anvelopele de iarnă sunt obligatorii pentru dealurile din parc.",
-                "en": "Winter tires are essential for the hills inside the park."
+                "en": "Winter tires are essential for the hills inside the park.",
+                "pl": "Opony zimowe są niezbędne na wzgórzach w parku."
               }
             },
             {
@@ -1673,7 +1809,8 @@
                 "de": "Lassen Sie keine Wertsachen sichtbar im Auto liegen.",
                 "hu": "Ne hagyjon értéktárgyat látható helyen az autóban.",
                 "ro": "Nu lăsați obiecte de valoare la vedere în mașină.",
-                "en": "Do not leave any valuables visible inside the car."
+                "en": "Do not leave any valuables visible inside the car.",
+                "pl": "Nie zostawiaj wartościowych rzeczy na widoku w samochodzie."
               }
             }
           ],
@@ -1701,6 +1838,12 @@
               "Old Town streets can remain icy underneath the snow layer.",
               "Check your battery health during extreme cold spells.",
               "Prefer parking in well-lit areas for better safety."
+            ],
+            "pl": [
+              "Zawsze miej w samochodzie skrobaczkę do szyb i odmrażacz.",
+              "Ulice Starego Miasta mogą być oblodzone pod warstwą śniegu.",
+              "Sprawdź kondycję akumulatora podczas silnych mrozów.",
+              "Wybieraj parkingi w dobrze oświetlonych miejscach dla większego bezpieczeństwa."
             ]
           }
         }
@@ -1719,7 +1862,8 @@
             "de": "Zentrum Haltestelle (Cluster A)",
             "hu": "Központi megálló (A Klaszter)",
             "ro": "Stația Centrală (Cluster A)",
-            "en": "Central Stop (Cluster A)"
+            "en": "Central Stop (Cluster A)",
+            "pl": "Przystanek Centralny (Strefa A)"
           },
           "coords": [
             19.403,
@@ -1735,7 +1879,8 @@
             "de": "Beginnen Sie hier. Die meisten Bus- und Straßenbahnlinien halten in der Nähe.",
             "hu": "Kezdje itt. A legtöbb busz- és villamosvonal a közelben áll meg.",
             "ro": "Începeți de aici. Majoritatea liniilor de autobuz și tramvai opresc în apropiere.",
-            "en": "Start here. Most bus and tram lines stop nearby."
+            "en": "Start here. Most bus and tram lines stop nearby.",
+            "pl": "Zacznij stąd. Większość linii autobusowych i tramwajowych zatrzymuje się w pobliżu."
           }
         },
         {
@@ -1743,7 +1888,8 @@
             "de": "Elbinger Altstadt & Markttor",
             "hu": "Elblągi Óváros és Piaci kapu",
             "ro": "Orașul vechi Elbląg și Poarta Pieței",
-            "en": "Elbląg Old Town & Market Gate"
+            "en": "Elbląg Old Town & Market Gate",
+            "pl": "Stare Miasto Elbląga i Brama Targowa"
           },
           "coords": [
             19.4021,
@@ -1759,7 +1905,8 @@
             "de": "Tauchen Sie ein in die Atmosphäre der wiederaufgebauten Stadt.",
             "hu": "Merüljön el az újjáépített város hangulatában.",
             "ro": "Pătrundeți în atmosfera orașului reconstruit.",
-            "en": "Immerse yourself in the atmosphere of the rebuilt city."
+            "en": "Immerse yourself in the atmosphere of the rebuilt city.",
+            "pl": "Poczuj atmosferę odbudowanego miasta."
           }
         },
         {
@@ -1767,7 +1914,8 @@
             "de": "St. Nikolaus Kathedrale",
             "hu": "Szent Miklós-székesegyház",
             "ro": "Catedrala Sfântul Nicolae",
-            "en": "St. Nicholas Cathedral"
+            "en": "St. Nicholas Cathedral",
+            "pl": "Katedra św. Mikołaja"
           },
           "coords": [
             19.398,
@@ -1783,7 +1931,8 @@
             "de": "Bewundern Sie die gotische Architektur und das beeindruckende Innere.",
             "hu": "Csodálja meg a gótikus építészetet és a lenyűgöző belső teret.",
             "ro": "Admirați arhitectura gotică și interiorul impresionant.",
-            "en": "Admire the Gothic architecture and the impressive interior."
+            "en": "Admire the Gothic architecture and the impressive interior.",
+            "pl": "Podziwiaj gotycką architekturę i imponujące wnętrza."
           }
         },
         {
@@ -1791,7 +1940,8 @@
             "de": "Fahrt zum Bażantarnia-Park (Cluster B)",
             "hu": "Utazás a Bażantarnia Parkba (B Klaszter)",
             "ro": "Călătorie la Parcul Bażantarnia (Cluster B)",
-            "en": "Trip to Bażantarnia Park (Cluster B)"
+            "en": "Trip to Bażantarnia Park (Cluster B)",
+            "pl": "Wycieczka do Parku Bażantarnia (Strefa B)"
           },
           "coords": [
             19.465,
@@ -1807,7 +1957,8 @@
             "de": "Nehmen Sie einen Bus vom Stadtzentrum. Planen Sie Zeit für einen langen Spaziergang und ein Picknick ein.",
             "hu": "Vegyen buszt a városközpontból. Tervezzen időt egy hosszú sétára és piknikre.",
             "ro": "Luați un autobuz din centrul orașului. Planificați timp pentru o plimbare lungă și un picnic.",
-            "en": "Take a bus from the city center. Plan time for a long walk and a picnic."
+            "en": "Take a bus from the city center. Plan time for a long walk and a picnic.",
+            "pl": "Dojedź autobusem z centrum. Zaplanuj czas na długi spacer i piknik."
           }
         },
         {
@@ -1815,7 +1966,8 @@
             "de": "Kunstzentrum Galeria EL",
             "hu": "Galeria EL Művészeti Központ",
             "ro": "Centrul de Artă Galeria EL",
-            "en": "Art Centre Galeria EL"
+            "en": "Art Centre Galeria EL",
+            "pl": "Centrum Sztuki Galeria EL"
           },
           "coords": [
             19.3958,
@@ -1831,7 +1983,8 @@
             "de": "Zurück im Stadtzentrum für eine Dosis moderner Kunst.",
             "hu": "Vissza a városközpontba egy adag modern művészetért.",
             "ro": "Înapoi în centrul orașului pentru o doză de artă modernă.",
-            "en": "Back in the city center for a dose of modern art."
+            "en": "Back in the city center for a dose of modern art.",
+            "pl": "Powrót do centrum na dawkę sztuki współczesnej."
           }
         },
         {
@@ -1839,7 +1992,8 @@
             "de": "Abendessen in der Altstadt",
             "hu": "Vacsora az Óvárosban",
             "ro": "Cină în Orașul Vechi",
-            "en": "Dinner in the Old Town"
+            "en": "Dinner in the Old Town",
+            "pl": "Kolacja na Starym Mieście"
           },
           "coords": [
             19.401,
@@ -1855,7 +2009,8 @@
             "de": "Schließen Sie den Tag mit einem gemütlichen Abendessen ab.",
             "hu": "Zárja a napot egy kellemes vacsorával.",
             "ro": "Încheiați ziua cu o cină relaxantă.",
-            "en": "End the day with a relaxing dinner."
+            "en": "End the day with a relaxing dinner.",
+            "pl": "Zakończ dzień relaksującą kolacją."
           }
         }
       ],
@@ -1863,7 +2018,8 @@
         "de": "Nutzen Sie die öffentlichen Verkehrsmittel von Elbing, um den Tag zu beginnen. Steigen Sie im Zentrum aus und erkunden Sie die Altstadt und die Kathedrale zu Fuß. Am Mittag nehmen Sie einen Bus zum weitläufigen Bażantarnia-Park, einem perfekten Ort für eine lange Auszeit in der Natur und vielleicht ein Picknick. Am späten Nachmittag kehren Sie mit dem Bus ins Zentrum zurück, um das einzigartige Kunstzentrum Galeria EL zu besuchen, das sich in einer alten Kirche befindet. Beenden Sie Ihren Erkundungstag mit einem Abendessen in einem der vielen Restaurants in der Nähe des Flusses.",
         "hu": "Használja Elbląg tömegközlekedését a nap elindításához. Szálljon le a központban, és fedezze fel gyalog az Óvárost és a székesegyházat. Délben buszozzon el a tágas Bażantarnia Parkba, amely tökéletes hely egy hosszú természeti kikapcsolódásra és talán egy piknikre. Késő délután térjen vissza busszal a központba, hogy meglátogassa az egyedülálló Galeria EL művészeti központot, amely egy régi templomban található. Zárja a felfedezéssel töltött napot egy vacsorával a folyó melletti számos étterem egyikében.",
         "ro": "Folosiți transportul public din Elbląg pentru a începe ziua. Coborâți în centru și explorați Orașul Vechi și catedrala pe jos. La prânz, luați un autobuz spre vastul Parc Bażantarnia, un loc perfect pentru o pauză lungă în natură și poate un picnic. Spre după-amiaza târziu, reveniți cu autobuzul în centru pentru a vizita Centrul de Artă unic Galeria EL, situat într-o biserică veche. Încheiați ziua de explorare cu o cină la unul dintre numeroasele restaurante de lângă râu.",
-        "en": "Use Elbląg's public transport to kick off the day. Get off in the center and explore the Old Town and the cathedral on foot. At midday, take a bus to the expansive Bażantarnia Park, a perfect spot for a long nature break and perhaps a picnic. In the late afternoon, return to the center by bus to visit the unique Art Centre Galeria EL, located in an old church. Conclude your day of exploration with dinner at one of the many restaurants near the river."
+        "en": "Use Elbląg's public transport to kick off the day. Get off in the center and explore the Old Town and the cathedral on foot. At midday, take a bus to the expansive Bażantarnia Park, a perfect spot for a long nature break and perhaps a picnic. In the late afternoon, return to the center by bus to visit the unique Art Centre Galeria EL, located in an old church. Conclude your day of exploration with dinner at one of the many restaurants near the river.",
+        "pl": "Skorzystaj z komunikacji miejskiej Elbląga, by rozpocząć dzień. Wysiądź w centrum i zwiedź pieszo Stare Miasto i katedrę. W południe pojedź autobusem do rozległego Parku Bażantarnia, idealnego na dłuższy odpoczynek na łonie natury i piknik. Pod koniec popołudnia wróć do centrum, by odwiedzić wyjątkowe Centrum Sztuki Galeria EL, mieszczące się w dawnym kościele. Dzień zakończ kolacją w jednej z licznych restauracji nad rzeką."
       },
       "gastro_picks": {
         "de": [
@@ -2059,6 +2215,12 @@
           "Download a public transport app to track real-time schedules and routes.",
           "Be aware that buses can be crowded during peak hours.",
           "Always validate your ticket to avoid a fine."
+        ],
+        "pl": [
+          "Kup bilet dobowy na nielimitowane przejazdy autobusem i tramwajem.",
+          "Pobierz aplikację komunikacji miejskiej, by śledzić rozkłady i trasy w czasie rzeczywistym.",
+          "Pamiętaj, że autobusy mogą być zatłoczone w godzinach szczytu.",
+          "Zawsze skasuj bilet, by uniknąć mandatu."
         ]
       },
       "variants": {
@@ -2067,7 +2229,8 @@
             "de": "Morgens nutzen Sie die Straßenbahn, um trocken ins Zentrum von Elbing zu kommen. Das Markttor erreichen Sie mit nur wenigen Schritten von der Haltestelle. Mittags bieten die Museen und Kirchen lange Aufenthalte im Trockenen. Nachmittags bringt Sie der Bus zum Bażantarnia-Park, wo Sie die Natur unter dem Schutz der Bäume genießen. Abends kehren Sie mit der Bahn zum Abendessen in die beleuchtete Altstadt zurück.",
             "hu": "Reggel villamossal érkezhet szárazon Elbląg központjába. A piaci kapu csak pár lépés a megállótól. Délben a múzeumok és templomok hosszú, beltéri programot kínálnak. Délután busz viszi a Bażantarnia parkba, ahol a fák alatt sétálhat az esőben. Estére a tömegközlekedés visszarepíti az óvárosba, ahol egy hangulatos vacsorával zárhatja a napot.",
             "ro": "Dimineața folosiți tramvaiul pentru a ajunge uscat în centrul orașului. Poarta Pieței este la doar câțiva pași de stație. La prânz, muzeele și bisericile oferă vizite lungi la adăpost. După-amiaza, autobuzul vă duce la parcul Bażantarnia, unde puteți merge pe sub copaci. Seara, transportul public vă readuce în centrul istoric pentru cină.",
-            "en": "In the morning, use the tram to reach Elbląg center while staying dry. The Market Gate is just a few steps from the stop. At noon, museums and churches offer long indoor visits. In the afternoon, take a bus to Bażantarnia Park to enjoy nature under the leafy canopy. By evening, transit brings you back to the illuminated Old Town for a cozy dinner."
+            "en": "In the morning, use the tram to reach Elbląg center while staying dry. The Market Gate is just a few steps from the stop. At noon, museums and churches offer long indoor visits. In the afternoon, take a bus to Bażantarnia Park to enjoy nature under the leafy canopy. By evening, transit brings you back to the illuminated Old Town for a cozy dinner.",
+            "pl": "Rano wsiądź do tramwaju, który dowiezie cię do centrum suchym przejazdem. Brama Targowa jest tylko kilka kroków od przystanku. W południe muzea i kościoły zapewniają długie, ciepłe wizyty wewnątrz. Po południu pojedź autobusem do Parku Bażantarnia, by podziwiać przyrodę pod koronką drzew. Wieczorem komunikacja zawiezie cię z powrotem do oświetlonego Starego Miasta na przytulną kolację."
           },
           "stops": [
             {
@@ -2076,7 +2239,8 @@
                 "de": "Überdachte Haltestellen bieten Schutz beim Warten.",
                 "hu": "A fedett megállók védelmet nyújtanak várakozás közben.",
                 "ro": "Stațiile acoperite oferă protecție în timpul așteptării.",
-                "en": "Covered transit stops provide shelter while waiting."
+                "en": "Covered transit stops provide shelter while waiting.",
+                "pl": "Zadaszone przystanki chronią przed deszczem podczas oczekiwania."
               }
             },
             {
@@ -2085,7 +2249,8 @@
                 "de": "Kurzer Fußweg von der Straßenbahn; Schirm bereithalten.",
                 "hu": "Rövid séta a villamostól, tartsa készenlétben az esernyőt.",
                 "ro": "Drum scurt de la tramvai; țineți umbrela la îndemână.",
-                "en": "Short walk from the tram; keep your umbrella ready."
+                "en": "Short walk from the tram; keep your umbrella ready.",
+                "pl": "Krótki spacer od tramwaju; miej pod ręką parasol."
               }
             },
             {
@@ -2094,7 +2259,8 @@
                 "de": "Die Kathedrale ist ein idealer Ort, um einen Guss abzuwarten.",
                 "hu": "A székesegyház ideális hely egy zápor kivárásához.",
                 "ro": "Catedrala este un loc ideal pentru a aștepta trecerea ploii.",
-                "en": "The cathedral is a perfect place to wait out a shower."
+                "en": "The cathedral is a perfect place to wait out a shower.",
+                "pl": "Katedra to świetne miejsce, by przeczekać przelotny deszcz."
               }
             },
             {
@@ -2103,7 +2269,8 @@
                 "de": "Der Bus hält direkt am Haupteingang des Parks.",
                 "hu": "A busz közvetlenül a park főbejáratánál áll meg.",
                 "ro": "Autobuzul oprește chiar la intrarea principală a parcului.",
-                "en": "The bus stops right at the main entrance of the park."
+                "en": "The bus stops right at the main entrance of the park.",
+                "pl": "Autobus zatrzymuje się tuż przy głównym wejściu do parku."
               }
             },
             {
@@ -2112,7 +2279,8 @@
                 "de": "Perfektes Timing: Drinnen Kunst schauen, während es regnet.",
                 "hu": "Tökéletes időzítés: bent nézhet művészetet, amíg esik.",
                 "ro": "Sincronizare perfectă: vizitați galeria în timp ce plouă.",
-                "en": "Perfect timing: enjoy art indoors while it rains outside."
+                "en": "Perfect timing: enjoy art indoors while it rains outside.",
+                "pl": "Doskonały wybór: korzystaj ze sztuki w środku, gdy na zewnątrz pada."
               }
             },
             {
@@ -2121,7 +2289,8 @@
                 "de": "Prüfen Sie die Abfahrtszeiten für die Rückfahrt vorab.",
                 "hu": "Előre ellenőrizze a visszautazáshoz a menetrendet.",
                 "ro": "Verificați din timp orarul pentru drumul de întoarcere.",
-                "en": "Check the return schedule in advance to avoid waiting."
+                "en": "Check the return schedule in advance to avoid waiting.",
+                "pl": "Sprawdź rozkład powrotów z wyprzedzeniem, by nie czekać."
               }
             }
           ],
@@ -2149,6 +2318,12 @@
               "Trams in Elbląg are reliable even during rainy weather.",
               "Stay back from the curb at stops to avoid splashes from cars.",
               "A small foldable umbrella is handy during transit changes."
+            ],
+            "pl": [
+              "Kupuj bilety wygodnie w biletomatach lub przez aplikację.",
+              "Tramy w Elblągu są niezawodne nawet podczas deszczowej pogody.",
+              "Stój z dala od krawędzi peronu na przystankach, by uniknąć ochlapania przez samochody.",
+              "Mały składany parasol przyda się przy przesiadkach."
             ]
           }
         },
@@ -2157,7 +2332,8 @@
             "de": "Morgens bringen beheizte Straßenbahnen Sie direkt in das Herz der Altstadt. Der Frost am Markttor wirkt majestätisch. Mittags bieten die Kathedrale und das Museum Wärme und Kultur. Nachmittags fahren Sie mit dem Bus zum Bażantarnia-Park, um den frisch gefallenen Schnee auf den Hügeln zu bewundern. Abends leuchten die Lichter der Hansestadt den Weg zur Haltestelle nach einem gemütlichen Abendessen.",
             "hu": "Reggel fűtött villamosok repítik az óváros szívébe. A zúzmarás piaci kapu fenséges látványt nyújt. Délben a katedrális és a múzeum kínál melegséget és kultúrát. Délután busszal utazhat a Bażantarnia parkba, hogy megcsodálja a dombokat borító friss havat. Estére a hanzaváros fényei kísérik el a megállóig a hangulatos vacsora után.",
             "ro": "Dimineața, tramvaiele încălzite vă aduc direct în inima centrului vechi. Poarta Pieței înghețată arată maiestuos. La prânz, catedrala și muzeul oferă căldură și cultură. După-amiaza, luați autobuzul spre parcul Bażantarnia pentru a vedea zăpada proaspătă de pe dealuri. Seara, luminile festive vă ghidează spre stație după o cină reușită.",
-            "en": "Morning starts with heated trams taking you straight to the Old Town. The frost on the Market Gate looks majestic. At noon, the cathedral and museum provide warmth and local history. In the afternoon, take a bus to Bażantarnia Park to admire the fresh snow on the hills. By evening, the Hanseatic city lights guide your way to the stop after a cozy dinner."
+            "en": "Morning starts with heated trams taking you straight to the Old Town. The frost on the Market Gate looks majestic. At noon, the cathedral and museum provide warmth and local history. In the afternoon, take a bus to Bażantarnia Park to admire the fresh snow on the hills. By evening, the Hanseatic city lights guide your way to the stop after a cozy dinner.",
+            "pl": "Poranek zaczyna się w ogrzewanych tramwajach, które dowiozą cię prosto na Stare Miasto. Szron na Bramie Targowej wygląda majestatycznie. W południe katedra i muzeum zapewniają ciepło i lokalną historię. Po południu pojedź autobusem do Parku Bażantarnia, by podziwiać świeży śnieg na wzgórzach. Wieczorem hanzeatyckie światła wskażą drogę do przystanku po przytulnej kolacji."
           },
           "stops": [
             {
@@ -2166,7 +2342,8 @@
                 "de": "Warten Sie im Windschatten des Wartehäuschens.",
                 "hu": "Várjon a megálló szélvédett belső részén.",
                 "ro": "Așteptați în zona ferită de vânt a stației.",
-                "en": "Wait inside the sheltered part of the transit stop."
+                "en": "Wait inside the sheltered part of the transit stop.",
+                "pl": "Czekaj wewnątrz zadaszonej części przystanku."
               }
             },
             {
@@ -2175,7 +2352,8 @@
                 "de": "Vorsicht beim Aussteigen auf glatten Haltestellen.",
                 "hu": "Vigyázzon leszálláskor a csúszós megállókban.",
                 "ro": "Atenție la coborâre în stațiile care pot fi alunecoase.",
-                "en": "Be careful when stepping off onto slippery platforms."
+                "en": "Be careful when stepping off onto slippery platforms.",
+                "pl": "Uważaj przy wysiadaniu na śliskie podesty."
               }
             },
             {
@@ -2184,7 +2362,8 @@
                 "de": "Besuchen Sie die Kirche nur kurz, um nicht auszukühlen.",
                 "hu": "Csak rövid időre menjen be, hogy ne fázzon meg.",
                 "ro": "Vizitați biserica doar scurt timp pentru a nu vă răci.",
-                "en": "Keep your cathedral visit brief to avoid getting too cold."
+                "en": "Keep your cathedral visit brief to avoid getting too cold.",
+                "pl": "Skróć wizytę w katedrze, by nie zmarznąć za bardzo."
               }
             },
             {
@@ -2193,7 +2372,8 @@
                 "de": "Busse fahren im Winter nach dem Standardfahrplan.",
                 "hu": "A buszok télen is a szokásos menetrend szerint járnak.",
                 "ro": "Autobuzele circulă după orarul standard și iarna.",
-                "en": "Buses follow the standard schedule even in winter."
+                "en": "Buses follow the standard schedule even in winter.",
+                "pl": "Autobusy kursują według standardowego rozkładu również zimą."
               }
             },
             {
@@ -2202,7 +2382,8 @@
                 "de": "Ein moderner, beheizter Ort für eine Pause.",
                 "hu": "Modern, fűtött helyszín egy kis pihenőhöz.",
                 "ro": "Un spațiu modern și încălzit pentru o pauză culturală.",
-                "en": "A modern, heated venue for a cultural break."
+                "en": "A modern, heated venue for a cultural break.",
+                "pl": "Nowoczesne, ogrzewane miejsce na kulturalną przerwę."
               }
             },
             {
@@ -2211,7 +2392,8 @@
                 "de": "Haltestellen in der Altstadt sind abends gut beleuchtet.",
                 "hu": "Az óvárosi megállók este jól kivilágítottak.",
                 "ro": "Stațiile din centrul vechi sunt bine iluminate seara.",
-                "en": "Old Town transit stops are well-lit during the evening."
+                "en": "Old Town transit stops are well-lit during the evening.",
+                "pl": "Przystanki na Starym Mieście są dobrze oświetlone wieczorem."
               }
             }
           ],
@@ -2239,6 +2421,12 @@
               "Watch out for icy steps when getting on or off vehicles.",
               "Use a transit app for real-time departures to minimize waiting in the cold.",
               "Wear warm boots as standing at stops can quickly chill your feet."
+            ],
+            "pl": [
+              "Tramy bywają często cieplejsze niż autobusy w miesiącach zimowych.",
+              "Uważaj na oblodzone schody przy wsiadaniu i wysiadaniu z pojazdów.",
+              "Użyj aplikacji transportowej, by sprawdzać odjazdy w czasie rzeczywistym i skrócić oczekiwanie na mrozie.",
+              "Noś ciepłe buty — stanie na przystankach szybko wychładza stopy."
             ]
           }
         }

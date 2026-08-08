@@ -21,7 +21,8 @@
             "de": "Altstadt und Rathaus",
             "hu": "Óváros és Városháza",
             "ro": "Orașul vechi și Primăria",
-            "en": "Old Town and Town Hall"
+            "en": "Old Town and Town Hall",
+            "pl": "Stare Miasto i Ratusz"
           },
           "coords": [
             15.506,
@@ -37,7 +38,8 @@
             "de": "Suchen Sie nach den kleinen Bachus-Figuren, die in der ganzen Stadt verteilt sind.",
             "hu": "Keresd a kis Bacchus-szobrokat, melyek az egész városban elszórtan megtalálhatók.",
             "ro": "Căutați micile statui ale lui Bachus, răspândite prin tot orașul.",
-            "en": "Look for the small Bacchus figures scattered throughout the city."
+            "en": "Look for the small Bacchus figures scattered throughout the city.",
+            "pl": "Szukaj małych figur Bachusa rozrzuconych po mieście."
           }
         },
         {
@@ -45,7 +47,8 @@
             "de": "St. Hedwigs Kathedrale",
             "hu": "Szent Hedvig-székesegyház",
             "ro": "Catedrala Sf. Hedviga",
-            "en": "St. Hedwig's Cathedral"
+            "en": "St. Hedwig's Cathedral",
+            "pl": "Katedra św. Jadwigi"
           },
           "coords": [
             15.5085,
@@ -61,7 +64,8 @@
             "de": "Beachten Sie die beeindruckenden Buntglasfenster und die hohe Decke.",
             "hu": "Figyeld meg a lenyűgöző ólomüveg ablakokat és a magas mennyezetet.",
             "ro": "Observați vitraliile impresionante și tavanul înalt.",
-            "en": "Note the impressive stained-glass windows and the high ceiling."
+            "en": "Note the impressive stained-glass windows and the high ceiling.",
+            "pl": "Zwróć uwagę na imponujące witraże i wysokie sklepienie."
           }
         },
         {
@@ -69,7 +73,8 @@
             "de": "Museum des Lebuser Landes",
             "hu": "Lubuszi Föld Múzeuma",
             "ro": "Muzeul ținutului Lubusz",
-            "en": "Museum of the Lubusz Land"
+            "en": "Museum of the Lubusz Land",
+            "pl": "Muzeum Ziemi Lubuskiej"
           },
           "coords": [
             15.504,
@@ -85,7 +90,8 @@
             "de": "Die Weinausstellung ist ein Muss, um die lokale Geschichte zu verstehen.",
             "hu": "A borkészítési kiállítás kötelező a helyi történelem megértéséhez.",
             "ro": "Expoziția despre vin este esențială pentru a înțelege istoria locală.",
-            "en": "The wine exhibition is a must-see to understand the local history."
+            "en": "The wine exhibition is a must-see to understand the local history.",
+            "pl": "Wystawa wina to punkt obowiązkowy, by poznać lokalną historię."
           }
         },
         {
@@ -93,7 +99,8 @@
             "de": "Weinbergpark",
             "hu": "Szőlőhegy Park",
             "ro": "Parcul Viticol",
-            "en": "Vineyard Park"
+            "en": "Vineyard Park",
+            "pl": "Park Winny"
           },
           "coords": [
             15.5165,
@@ -109,7 +116,8 @@
             "de": "Der perfekte Ort für ein Mittagspicknick mit Blick über die Stadt.",
             "hu": "Tökéletes hely egy déli piknikhez, kilátással a városra.",
             "ro": "Locul perfect pentru un picnic la prânz cu vedere asupra orașului.",
-            "en": "The perfect spot for a lunch picnic with a view over the city."
+            "en": "The perfect spot for a lunch picnic with a view over the city.",
+            "pl": "Idealne miejsce na lunch-piknik z widokiem na miasto."
           }
         },
         {
@@ -117,7 +125,8 @@
             "de": "Palmenhaus",
             "hu": "Pálmaház",
             "ro": "Palmenhaus (Sera de palmieri)",
-            "en": "Palm House"
+            "en": "Palm House",
+            "pl": "Palmiarnia"
           },
           "coords": [
             15.515,
@@ -133,7 +142,8 @@
             "de": "Genießen Sie einen Kaffee im Restaurant auf dem Dach mit Panoramablick.",
             "hu": "Fogyassz el egy kávét a tetőtéri étteremben, ahonnan panorámás a kilátás.",
             "ro": "Savurați o cafea la restaurantul de pe acoperiș cu vedere panoramică.",
-            "en": "Enjoy a coffee at the rooftop restaurant with a panoramic view."
+            "en": "Enjoy a coffee at the rooftop restaurant with a panoramic view.",
+            "pl": "Rozkoszuj się kawą w restauracji na dachu z panoramicznym widokiem."
           }
         },
         {
@@ -141,7 +151,8 @@
             "de": "Piastowski-Park",
             "hu": "Piastowski Park",
             "ro": "Parcul Piastowski",
-            "en": "Piastowski Park"
+            "en": "Piastowski Park",
+            "pl": "Park Piastowski"
           },
           "coords": [
             15.498,
@@ -157,7 +168,8 @@
             "de": "Ein schöner Ort, um den Tag ausklingen zu lassen und die Natur zu genießen.",
             "hu": "Egy szép hely a nap lezárására és a természet élvezetére.",
             "ro": "Un loc frumos pentru a încheia ziua și a vă bucura de natură.",
-            "en": "A lovely place to end the day and enjoy nature."
+            "en": "A lovely place to end the day and enjoy nature.",
+            "pl": "Urocze miejsce na zakończenie dnia i kontakt z naturą."
           }
         }
       ],
@@ -165,7 +177,8 @@
         "de": "Ihr Tag in Grünberg beginnt im Herzen der Altstadt, wo Sie das historische Rathaus bewundern. Am Vormittag erkunden Sie die geistliche und kulturelle Seite der Stadt mit einem Besuch der St. Hedwigs Kathedrale und dem Museum des Lebuser Landes, das die reiche Weingeschichte der Region beleuchtet. Der Nachmittag steht im Zeichen der Natur: Sie spazieren zum berühmten Weinbergpark und dem exotischen Palmenhaus, die beide einen fantastischen Blick über die Stadt bieten. Zum Ausklang des Tages schlendern Sie durch den ruhigen Piastowski-Park und genießen die friedliche Atmosphäre, bevor Sie sich auf den Weg zum Abendessen machen.",
         "hu": "A nap Grünbergben az Óváros szívében kezdődik, ahol megcsodálhatja a történelmi Városházát. Délelőtt a város spirituális és kulturális oldalát fedezi fel a Szent Hedvig-székesegyház és a Lubuszi Föld Múzeumának meglátogatásával, amely bemutatja a régió gazdag bortörténetét. A délután a természet jegyében telik: elsétál a híres Szőlőhegy Parkba és az egzotikus Pálmaházhoz, mindkettő fantasztikus kilátást nyújt a városra. A nap végén átsétál a csendes Piastowski Parkon, és élvezi a békés hangulatot, mielőtt vacsorázni indulna.",
         "ro": "Ziua dvs. în Grünberg începe în inima orașului vechi, admirând Primăria istorică. Dimineața explorați latura spirituală și culturală a orașului cu o vizită la Catedrala Sf. Hedviga și la Muzeul ținutului Lubusz, care evidențiază bogata istorie viticolă a regiunii. După-amiaza este dedicată naturii: vă plimbați până la faimosul Parc Viticol și exotica Seră de Palmieri, ambele oferind priveliști fantastice asupra orașului. La finalul zilei, vă plimbați prin liniștitul Parc Piastowski, bucurându-vă de atmosfera pașnică înainte de a merge la cină.",
-        "en": "Your day in Grünberg begins in the heart of the Old Town, admiring the historic Town Hall. In the morning, you'll explore the city's spiritual and cultural side with a visit to St. Hedwig's Cathedral and the Museum of the Lubusz Land, which highlights the region's rich wine history. The afternoon is all about nature: you'll stroll to the famous Vineyard Park and the exotic Palm House, both offering fantastic views over the city. To round off the day, you'll wander through the quiet Piastowski Park, enjoying the peaceful atmosphere before heading to dinner."
+        "en": "Your day in Grünberg begins in the heart of the Old Town, admiring the historic Town Hall. In the morning, you'll explore the city's spiritual and cultural side with a visit to St. Hedwig's Cathedral and the Museum of the Lubusz Land, which highlights the region's rich wine history. The afternoon is all about nature: you'll stroll to the famous Vineyard Park and the exotic Palm House, both offering fantastic views over the city. To round off the day, you'll wander through the quiet Piastowski Park, enjoying the peaceful atmosphere before heading to dinner.",
+        "pl": "Twój dzień w Zielonej Górze zaczyna się w sercu Starego Miasta, podziwiając historyczny ratusz. Rano odkryjesz duchową i kulturalną stronę miasta, odwiedzając katedrę św. Jadwigi i Muzeum Ziemi Lubuskiej, które przybliża bogatą historię winiarstwa regionu. Popołudnie upłynie na obcowaniu z przyrodą: przejdziesz się do słynnego Parku Winnego i egzotycznej Palmiarni, z których roztaczają się fantastyczne widoki na miasto. Na zakończenie dnia pospacerujesz po spokojnym Parku Piastowskim, delektując się atmosferą, zanim udasz się na kolację."
       },
       "gastro_picks": {
         "de": [
@@ -357,6 +370,11 @@
           "Wear comfortable shoes as the cobblestones in the Old Town can be uneven.",
           "The city is famous for its wine festival in September, called Winobranie.",
           "Many sights are within walking distance, so plan for a leisurely stroll."
+        ],
+        "pl": [
+          "Noś wygodne buty, bo bruk w Starym Mieście może być nierówny.",
+          "Miasto słynie z festiwalu wina we wrześniu, zwanego Winobranie.",
+          "Wiele zabytków znajduje się blisko siebie, więc zaplanuj spokojny spacer."
         ]
       },
       "variants": {
@@ -365,7 +383,8 @@
             "de": "Der Morgen beginnt unter Regenschirmen in der Altstadt, wo das Rathaus im grauen Licht fast mystisch wirkt. Mittags bietet die St. Hedwigskathedrale einen trockenen, besinnlichen Rückzugsort vor dem Prasseln. Den Nachmittag verbringen wir im Lubusz-Museum, perfekt geschützt vor den Schauern. Der Tag endet im tropischen Klima des Palmenhauses, während draußen der Regen gegen das Glas trommelt.",
             "hu": "Az óvárosi reggel esernyők alatt indul, a Városháza szürke fényben is tekintélyt parancsoló. Délben a Szent Hedvig-székesegyház nyújt csendes és száraz menedéket a kopogó eső elől. A délutánt a Lubusi Föld Múzeumában töltjük, távol a tócsáktól. Az estet a Pálmaház trópusi melegében zárjuk, miközben az üvegtetőn dobol az eső, és a város fényei visszatükröződnek a vizes aszfalton.",
             "ro": "Dimineața începe sub umbrele în orașul vechi, unde primăria capătă un aer mistic sub cerul gri. La prânz, Catedrala Sf. Hedviga oferă un refugiu liniștit și uscat în fața ploii. După-amiaza este dedicată Muzeului Pământului Lubusz, locul perfect pentru a scăpa de umezeală. Seara se încheie în climatul tropical al Serei de Palmieri, ascultând ploaia care bate în ferestrele înalte.",
-            "en": "The morning starts under umbrellas in the Old Town, where the Town Hall looks almost mystical in the grey light. At noon, St. Hedwig's Cathedral provides a peaceful, dry sanctuary from the drizzle. The afternoon is spent inside the Museum of the Lubusz Land, perfectly shielded from the showers. The day ends in the tropical warmth of the Palm House while rain drums against the glass panes."
+            "en": "The morning starts under umbrellas in the Old Town, where the Town Hall looks almost mystical in the grey light. At noon, St. Hedwig's Cathedral provides a peaceful, dry sanctuary from the drizzle. The afternoon is spent inside the Museum of the Lubusz Land, perfectly shielded from the showers. The day ends in the tropical warmth of the Palm House while rain drums against the glass panes.",
+            "pl": "Poranek zaczyna się pod parasolami na Starym Rynku, gdzie ratusz wygląda niemal mistycznie w szarej poświacie. W południe katedra św. Jadwigi daje spokojne, suche schronienie przed mżawką. Popołudnie spędzasz wewnątrz Muzeum Ziemi Lubuskiej, idealnie chronionym przed opadami. Dzień kończy się w tropikalnym cieple Palmiarni, podczas gdy deszcz bębni o szklane panele."
           },
           "stops": [
             {
@@ -374,7 +393,8 @@
                 "de": "Vorsicht auf dem Kopfsteinpflaster, es wird bei Regen sehr rutschig.",
                 "hu": "Vigyázat, a macskaköves utcák esőben rendkívül csúszósak lehetnek.",
                 "ro": "Atenție pe pavajul de piatră cubică, devine foarte alunecos când plouă.",
-                "en": "Watch your step on the cobblestones; they become very slippery when wet."
+                "en": "Watch your step on the cobblestones; they become very slippery when wet.",
+                "pl": "Uważaj na kamienne płyty; robią się bardzo śliskie po deszczu."
               }
             },
             {
@@ -383,7 +403,8 @@
                 "de": "Ein idealer Ort, um einen heftigen Schauer in Ruhe abzuwarten.",
                 "hu": "Ideális helyszín egy hirtelen zápor nyugodt kivárásához.",
                 "ro": "Un loc ideal pentru a aștepta trecerea unei averse puternice în liniște.",
-                "en": "An ideal place to wait out a heavy downpour in peace."
+                "en": "An ideal place to wait out a heavy downpour in peace.",
+                "pl": "Idealne miejsce, by w spokoju przeczekać ulewny deszcz."
               }
             },
             {
@@ -392,7 +413,8 @@
                 "de": "Nutzen Sie die Garderobe, um nasse Mäntel und Schirme abzugeben.",
                 "hu": "Használja a ruhatárat a vizes kabátok és esernyők leadására.",
                 "ro": "Folosiți garderoba pentru a lăsa hainele umede și umbrelele.",
-                "en": "Use the cloakroom to drop off wet coats and umbrellas."
+                "en": "Use the cloakroom to drop off wet coats and umbrellas.",
+                "pl": "Skorzystaj z szatni, by zostawić mokre płaszcze i parasole."
               }
             },
             {
@@ -401,7 +423,8 @@
                 "de": "Die gepflasterten Wege sind besser begehbar als die Rasenflächen.",
                 "hu": "A burkolt utak jobban járhatóak ilyenkor, mint a füves területek.",
                 "ro": "Aleile pavate sunt mai accesibile decât zonele cu iarbă.",
-                "en": "The paved paths are more accessible than the grassy areas."
+                "en": "The paved paths are more accessible than the grassy areas.",
+                "pl": "Wybrukowane ścieżki są łatwiej dostępne niż trawiaste tereny."
               }
             },
             {
@@ -410,7 +433,8 @@
                 "de": "Das Restaurant im Inneren ist der gemütlichste Ort bei Regen.",
                 "hu": "A belső étterem a legbarátságosabb hely esős időben.",
                 "ro": "Restaurantul din interior este cel mai confortabil loc pe ploaie.",
-                "en": "The indoor restaurant is the coziest spot during rain."
+                "en": "The indoor restaurant is the coziest spot during rain.",
+                "pl": "Restauracja wewnątrz to najbardziej przytulne miejsce podczas deszczu."
               }
             },
             {
@@ -419,7 +443,8 @@
                 "de": "Die dichten Bäume bieten einen gewissen natürlichen Schutz.",
                 "hu": "A sűrű lombok némi természetes védelmet nyújtanak az eső ellen.",
                 "ro": "Copacii deși oferă o oarecare protecție naturală împotriva ploii.",
-                "en": "The dense trees offer some natural protection against the rain."
+                "en": "The dense trees offer some natural protection against the rain.",
+                "pl": "Gęste drzewa dają pewną naturalną ochronę przed deszczem."
               }
             }
           ],
@@ -451,6 +476,13 @@
               "The Old Town has many arcades where you can seek shelter.",
               "Take advantage of rain breaks to photograph the shiny streets.",
               "Check weather apps for potential thunderstorm warnings."
+            ],
+            "pl": [
+              "Noś wodoodporne buty na historyczny bruk.",
+              "Palmiarnia to najlepszy kryty cel w mieście.",
+              "Stare Miasto ma wiele arkad, gdzie można schronić się przed deszczem.",
+              "Wykorzystaj przerwy w deszczu na fotografowanie błyszczących ulic.",
+              "Sprawdzaj prognozy pogody pod kątem ostrzeżeń o burzach."
             ]
           }
         },
@@ -459,7 +491,8 @@
             "de": "Ein frostiger Morgen in Grünberg, wo der Reif auf den Weinstöcken glitzert. Mittags wärmen wir uns in der Kathedrale auf, bevor wir das Museum besuchen. Der Nachmittag gehört dem Palmenhaus – ein tropischer Kontrast zur klirrenden Kälte draußen. Da die Sonne bereits gegen 16:15 Uhr untergeht, genießen wir die blaue Stunde im Piastowski-Park, wenn die Stadtlichter im Schnee funkeln.",
             "hu": "Deres reggel Zielona Górán, a szőlőtőkék fehéren csillognak a hidegben. Délben a székesegyház áhítata ad meleget, majd a múzeumban kalandozunk. A délután fénypontja a Pálmaház: trópusi oázis a kinti fagyban. Mivel a nap már 16:15 körül lemegy, a Piastowski-parkban már sötétben sétálunk, élvezve a hóban szikrázó városi fényeket.",
             "ro": "O dimineață geroasă în Zielona Góra, cu chiciură sclipind pe butucii de viță de vie. La prânz ne încălzim în catedrală, apoi explorăm muzeul. După-amiaza aparține Serei de Palmieri – un contrast tropical cu frigul de afară. Deoarece soarele apune deja în jur de 16:15, savurăm ora albastră în Parcul Piastowski, când luminile orașului scânteiază în zăpadă.",
-            "en": "A frosty morning in Zielona Góra, where frost glistens on the vine stocks. At noon, we warm up in the cathedral before visiting the museum. The afternoon belongs to the Palm House – a tropical contrast to the biting cold outside. Since the sun sets around 16:15, we enjoy the blue hour in Piastowski Park as the city lights sparkle in the snow."
+            "en": "A frosty morning in Zielona Góra, where frost glistens on the vine stocks. At noon, we warm up in the cathedral before visiting the museum. The afternoon belongs to the Palm House – a tropical contrast to the biting cold outside. Since the sun sets around 16:15, we enjoy the blue hour in Piastowski Park as the city lights sparkle in the snow.",
+            "pl": "Mroźny poranek w Zielonej Górze, gdzie szron błyszczy na pniach winorośli. W południe rozgrzewamy się w katedrze, zanim odwiedzimy muzeum. Popołudnie należy do Palmiarni – tropikalny kontrast do przeszywającego zimna na zewnątrz. Ponieważ słońce zachodzi około 16:15, cieszymy się błękitną godziną w Parku Piastowskim, gdy miejskie światła migoczą na śniegu."
           },
           "stops": [
             {
@@ -468,7 +501,8 @@
                 "de": "Ein heißer Kaffee am Marktplatz ist der beste Start in den Tag.",
                 "hu": "Egy forró kávé a főtéren a legjobb kezdés a hidegben.",
                 "ro": "O cafea fierbinte în piață este cel mai bun început de zi.",
-                "en": "A hot coffee at the market square is the best start to the day."
+                "en": "A hot coffee at the market square is the best start to the day.",
+                "pl": "Gorąca kawa na rynku to najlepszy początek dnia."
               }
             },
             {
@@ -477,7 +511,8 @@
                 "de": "Die dicken Mauern halten den Wind effektiv ab.",
                 "hu": "A vastag falak hatékonyan fognak fel minden hideg szelet.",
                 "ro": "Zidurile groase opresc eficient vântul tăios.",
-                "en": "The thick walls effectively block out the cold wind."
+                "en": "The thick walls effectively block out the cold wind.",
+                "pl": "Grube mury skutecznie blokują zimny wiatr."
               }
             },
             {
@@ -486,7 +521,8 @@
                 "de": "Planen Sie hier mindestens zwei Stunden zum Aufwärmen ein.",
                 "hu": "Tervezzen ide legalább két órát az alapos felmelegedéshez.",
                 "ro": "Planificați cel puțin două ore aici pentru a vă încălzi.",
-                "en": "Plan at least two hours here to thoroughly warm up."
+                "en": "Plan at least two hours here to thoroughly warm up.",
+                "pl": "Zaplanuj co najmniej dwie godziny, by solidnie się rozgrzać."
               }
             },
             {
@@ -495,7 +531,8 @@
                 "de": "Vorsicht bei Glätte auf den steilen Wegen des Parks.",
                 "hu": "Vigyázzon a jegesedésre a park meredekebb ösvényein.",
                 "ro": "Atenție la polei pe aleile înclinate ale parcului.",
-                "en": "Beware of icy patches on the park's sloped paths."
+                "en": "Beware of icy patches on the park's sloped paths.",
+                "pl": "Uważaj na oblodzone miejsca na pochyłych ścieżkach parku."
               }
             },
             {
@@ -504,7 +541,8 @@
                 "de": "Der ultimative Ort, um dem polnischen Winter zu entfliehen.",
                 "hu": "A végső menedék, ha el akar menekülni a lengyel tél elől.",
                 "ro": "Locul suprem pentru a evada din iarna poloneză.",
-                "en": "The ultimate spot to escape the Polish winter."
+                "en": "The ultimate spot to escape the Polish winter.",
+                "pl": "Ostateczne miejsce, by uciec przed polską zimą."
               }
             },
             {
@@ -513,7 +551,8 @@
                 "de": "Besuchen Sie den Park vor Sonnenuntergang (ca. 16:00 Uhr).",
                 "hu": "Látogasson el ide naplemente előtt (kb. 16:00 óra).",
                 "ro": "Vizitați parcul înainte de apusul soarelui (aprox. 16:00).",
-                "en": "Visit the park before sunset (around 16:00)."
+                "en": "Visit the park before sunset (around 16:00).",
+                "pl": "Odwiedź park przed zachodem słońca (około 16:00)."
               }
             }
           ],
@@ -545,6 +584,13 @@
               "The Palm House offers a tropical 20 degrees Celsius year-round.",
               "Old Town sidewalks are usually cleared of snow quickly.",
               "Avoid open areas on the outskirts during windy days."
+            ],
+            "pl": [
+              "Słońce zachodzi już około 16:15 w grudniu.",
+              "Używaj termicznych wkładek do długich spacerów po zimnym chodniku.",
+              "Palmiarnia oferuje przez cały rok tropikalne 20 stopni Celsjusza.",
+              "Chodniki na Starym Mieście zazwyczaj szybko oczyszczane są ze śniegu.",
+              "Unikaj otwartych przestrzeni na peryferiach w wietrzne dni."
             ]
           }
         }
@@ -563,7 +609,8 @@
             "de": "Piastowski-Park",
             "hu": "Piastowski Park",
             "ro": "Parcul Piastowski",
-            "en": "Piastowski Park"
+            "en": "Piastowski Park",
+            "pl": "Park Piastowski"
           },
           "coords": [
             15.498,
@@ -579,7 +626,8 @@
             "de": "Starten Sie den Tag mit einer entspannten Runde durch den Park.",
             "hu": "Kezdd a napot egy pihentető körrel a parkban.",
             "ro": "Începeți ziua cu o tură relaxantă prin parc.",
-            "en": "Start the day with a relaxing lap around the park."
+            "en": "Start the day with a relaxing lap around the park.",
+            "pl": "Rozpocznij dzień od relaksującej rundki po parku."
           }
         },
         {
@@ -587,7 +635,8 @@
             "de": "Museum des Lebuser Landes",
             "hu": "Lubuszi Föld Múzeuma",
             "ro": "Muzeul ținutului Lubusz",
-            "en": "Museum of the Lubusz Land"
+            "en": "Museum of the Lubusz Land",
+            "pl": "Muzeum Ziemi Lubuskiej"
           },
           "coords": [
             15.504,
@@ -603,7 +652,8 @@
             "de": "Hier können Sie Ihr Fahrrad sicher abstellen und in die Geschichte eintauchen.",
             "hu": "Itt biztonságosan leparkolhatod a biciklidet és elmerülhetsz a történelemben.",
             "ro": "Puteți parca bicicleta în siguranță aici și vă puteți cufunda în istorie.",
-            "en": "You can safely park your bike here and delve into history."
+            "en": "You can safely park your bike here and delve into history.",
+            "pl": "Możesz tu bezpiecznie zostawić rower i zanurzyć się w historii."
           }
         },
         {
@@ -611,7 +661,8 @@
             "de": "Altstadt und Rathaus",
             "hu": "Óváros és Városháza",
             "ro": "Orașul vechi și Primăria",
-            "en": "Old Town and Town Hall"
+            "en": "Old Town and Town Hall",
+            "pl": "Stare Miasto i ratusz"
           },
           "coords": [
             15.506,
@@ -627,7 +678,8 @@
             "de": "Stellen Sie Ihr Fahrrad ab und erkunden Sie die charmanten Gassen zu Fuß.",
             "hu": "Tedd le a biciklit, és fedezd fel gyalog a bájos utcákat.",
             "ro": "Parcați bicicleta și explorați aleile fermecătoare pe jos.",
-            "en": "Park your bike and explore the charming alleys on foot."
+            "en": "Park your bike and explore the charming alleys on foot.",
+            "pl": "Zaplanuj postój rowerowy i zwiedzaj urokliwe uliczki pieszo."
           }
         },
         {
@@ -635,7 +687,8 @@
             "de": "St. Hedwigs Kathedrale",
             "hu": "Szent Hedvig-székesegyház",
             "ro": "Catedrala Sf. Hedviga",
-            "en": "St. Hedwig's Cathedral"
+            "en": "St. Hedwig's Cathedral",
+            "pl": "Katedra św. Jadwigi"
           },
           "coords": [
             15.5085,
@@ -651,7 +704,8 @@
             "de": "Ein kurzer Abstecher vom Hauptplatz, der sich lohnt.",
             "hu": "Egy rövid, de megérő kitérő a főtérről.",
             "ro": "O scurtă deviere de la piața principală care merită.",
-            "en": "A short detour from the main square that is well worth it."
+            "en": "A short detour from the main square that is well worth it.",
+            "pl": "Krótki objazd od głównego rynku, który naprawdę warto poczynić."
           }
         },
         {
@@ -659,7 +713,8 @@
             "de": "Weinbergpark & Palmenhaus",
             "hu": "Szőlőhegy Park és Pálmaház",
             "ro": "Parcul Viticol și Sera de Palmieri",
-            "en": "Vineyard Park & Palm House"
+            "en": "Vineyard Park & Palm House",
+            "pl": "Park Winiarski i Palmiarnia"
           },
           "coords": [
             15.516,
@@ -675,7 +730,8 @@
             "de": "Der Anstieg lohnt sich für die Aussicht und die exotischen Pflanzen.",
             "hu": "Az emelkedő megéri a kilátásért és az egzotikus növényekért.",
             "ro": "Urcușul merită pentru priveliște și plantele exotice.",
-            "en": "The climb is worth it for the view and the exotic plants."
+            "en": "The climb is worth it for the view and the exotic plants.",
+            "pl": "Wysiłek podczas podjazdu opłaca się ze względu na widok i egzotyczne rośliny."
           }
         },
         {
@@ -683,7 +739,8 @@
             "de": "Focus Mall",
             "hu": "Focus Mall",
             "ro": "Focus Mall",
-            "en": "Focus Mall"
+            "en": "Focus Mall",
+            "pl": "Focus Mall"
           },
           "coords": [
             15.495,
@@ -699,7 +756,8 @@
             "de": "Ein interessanter Kontrast zur Altstadt, in einem ehemaligen Fabrikgebäude.",
             "hu": "Érdekes kontraszt az óvárossal, egy régi gyárépületben.",
             "ro": "Un contrast interesant cu orașul vechi, într-o fostă clădire industrială.",
-            "en": "An interesting contrast to the old town, in a former factory building."
+            "en": "An interesting contrast to the old town, in a former factory building.",
+            "pl": "Interesujący kontrast ze starym miastem, w budynku dawnej fabryki."
           }
         }
       ],
@@ -707,7 +765,8 @@
         "de": "Ihre Radtour startet im grünen Piastowski-Park. Von dort aus radeln Sie zum Museum des Lebuser Landes, um in die Weingeschichte einzutauchen. Zur Mittagszeit erreichen Sie die belebte Altstadt, wo Sie das Rathaus und die nahegelegene Kathedrale besichtigen. Der anspruchsvollste Teil der Tour führt Sie am Nachmittag hinauf zum Weinbergpark und dem Palmenhaus – die Belohnung ist eine atemberaubende Aussicht. Zum Abschluss rollen Sie gemütlich zur Focus Mall, einem modernen Einkaufszentrum in einem historischen Industriegebäude, das einen spannenden Kontrast bietet.",
         "hu": "A kerékpártúra a zöld Piastowski Parkból indul. Onnan a Lubuszi Föld Múzeumához kerekezik, hogy elmerüljön a borászat történetében. Délben éri el az élettel teli Óvárost, ahol megtekintheti a Városházát és a közeli székesegyházat. A túra legnehezebb része délután a Szőlőhegy Parkhoz és a Pálmaházhoz vezet fel – a jutalom a lélegzetelállító kilátás. Végül kényelmesen legurul a Focus Mallhoz, egy modern bevásárlóközponthoz egy történelmi ipari épületben, amely izgalmas kontrasztot kínál.",
         "ro": "Turul dvs. cu bicicleta începe în Parcul Piastowski. De acolo, pedalați spre Muzeul ținutului Lubusz pentru a aprofunda istoria vinului. La prânz, ajungeți în vibrantul Oraș Vechi, unde vizitați Primăria și catedrala din apropiere. Cea mai provocatoare parte a turului vă duce după-amiaza sus, la Parcul Viticol și Sera de Palmieri – recompensa este o priveliște uluitoare. La final, coborâți agale spre Focus Mall, un centru comercial modern într-o clădire industrială istorică, oferind un contrast interesant.",
-        "en": "Your bike tour starts in the green Piastowski Park. From there, you'll cycle to the Museum of the Lubusz Land to delve into the history of wine. At noon, you'll reach the lively Old Town to visit the Town Hall and the nearby cathedral. The most challenging part of the tour takes you up to the Vineyard Park and Palm House in the afternoon – the reward is a breathtaking view. Finally, you'll leisurely roll down to Focus Mall, a modern shopping center in a historic industrial building, offering an exciting contrast."
+        "en": "Your bike tour starts in the green Piastowski Park. From there, you'll cycle to the Museum of the Lubusz Land to delve into the history of wine. At noon, you'll reach the lively Old Town to visit the Town Hall and the nearby cathedral. The most challenging part of the tour takes you up to the Vineyard Park and Palm House in the afternoon – the reward is a breathtaking view. Finally, you'll leisurely roll down to Focus Mall, a modern shopping center in a historic industrial building, offering an exciting contrast.",
+        "pl": "Twoja wycieczka rowerowa zaczyna się w zielonym Parku Piastowskim. Stamtąd pojedziesz do Muzeum Ziemi Lubuskiej, by poznać historię wina. W południe dotrzesz do tętniącego życiem Starego Miasta, by odwiedzić ratusz i pobliską katedrę. Najtrudniejsza część trasy prowadzi po południu na Wzgórze Winiarskie i do Palmiarni – nagrodą jest zapierający dech w piersiach widok. Na koniec spokojnie zjedziesz do Focus Mall, nowoczesnego centrum handlowego w historycznym budynku przemysłowym, oferującego ekscytujący kontrast."
       },
       "gastro_picks": {
         "de": [
@@ -899,6 +958,11 @@
           "Use the bike lanes along the main roads.",
           "Some hills require a bit of effort but are manageable.",
           "Lock your bike securely in the city center."
+        ],
+        "pl": [
+          "Korzystaj ze ścieżek rowerowych wzdłuż głównych dróg.",
+          "Niektóre wzgórza wymagają trochę wysiłku, ale są do pokonania.",
+          "Zabezpiecz rower solidnym zamkiem w centrum miasta."
         ]
       },
       "variants": {
@@ -907,7 +971,8 @@
             "de": "Eine erfrischende Fahrt durch den Piastowski-Park, während die Reifen leise im Regen zischen. Das Museum bietet die perfekte Mittagspause zum Trocknen. Am Nachmittag radeln wir zum Palmenhaus, wo die Fahrräder sicher im Regen stehen, während wir die Wärme genießen. Der Rückweg führt über glänzende Radwege durch die Innenstadt.",
             "hu": "Frissítő tekerés a Piastowski-parkban, miközben a kerekek halkan sustorognak az esőben. A múzeum tökéletes ebédidőbeli pihenőt kínál a száradáshoz. Délután a Pálmaházhoz biciklizünk, ahol a bringák kint maradnak az esőben, mi pedig élvezzük a benti meleget. A visszaút csillogó kerékpárutakon vezet a belvároson át.",
             "ro": "O plimbare revigorantă prin Parcul Piastowski, cu roțile foșnind ușor pe asfaltul ud. Muzeul oferă pauza perfectă de prânz pentru a ne usca. După-amiaza pedalăm spre Sera de Palmieri, unde bicicletele rămân afară în ploaie în timp ce noi savurăm căldura. Drumul de întoarcere trece pe piste lucioase prin centrul orașului.",
-            "en": "A refreshing ride through Piastowski Park, with tires hissing softly on the wet asphalt. The museum offers the perfect midday break to dry off. In the afternoon, we cycle to the Palm House, where bikes stay out in the rain while we enjoy the indoor warmth. The return trip follows shiny bike paths through the city center."
+            "en": "A refreshing ride through Piastowski Park, with tires hissing softly on the wet asphalt. The museum offers the perfect midday break to dry off. In the afternoon, we cycle to the Palm House, where bikes stay out in the rain while we enjoy the indoor warmth. The return trip follows shiny bike paths through the city center.",
+            "pl": "Orzeźwiająca przejażdżka przez Park Piastowski, z oponami syczącymi cicho na mokrym asfalcie. Muzeum to idealne miejsce na popołudniową przerwę i osuszenie się. Po południu jedziemy do Palmiarni, gdzie rowery pozostają na deszczu, a my korzystamy z ciepła wnętrza. Powrót wiedzie po błyszczących ścieżkach rowerowych przez centrum miasta."
           },
           "stops": [
             {
@@ -916,7 +981,8 @@
                 "de": "Vorsicht vor nassen Blättern auf den Waldwegen.",
                 "hu": "Vigyázzon a vizes levelekre az erdei utakon.",
                 "ro": "Atenție la frunzele ude pe potecile din pădure.",
-                "en": "Watch out for wet leaves on the forest paths."
+                "en": "Watch out for wet leaves on the forest paths.",
+                "pl": "Uważaj na mokre liście na leśnych ścieżkach."
               }
             },
             {
@@ -925,7 +991,8 @@
                 "de": "Nutzen Sie den überdachten Eingang zum Abstellen der Räder.",
                 "hu": "Használja a fedett bejáratot a kerékpárok leállításához.",
                 "ro": "Folosiți intrarea acoperită pentru a lăsa bicicletele.",
-                "en": "Use the covered entrance area to park your bikes."
+                "en": "Use the covered entrance area to park your bikes.",
+                "pl": "Skorzystaj z zadaszonego wejścia, by zaparkować rowery."
               }
             },
             {
@@ -934,7 +1001,8 @@
                 "de": "Bremsen Sie frühzeitig vor den rutschigen Markierungen.",
                 "hu": "Fékezzen időben a csúszós útburkolati jelek előtt.",
                 "ro": "Frânați din timp înaintea marcajelor rutiere alunecoase.",
-                "en": "Brake early before crossing slippery road markings."
+                "en": "Brake early before crossing slippery road markings.",
+                "pl": "Hamuj wcześniej przed przejechaniem po śliskich oznakowaniach drogowych."
               }
             },
             {
@@ -943,7 +1011,8 @@
                 "de": "Parken Sie das Rad sicher, bevor Sie die Kirche betreten.",
                 "hu": "Zárja le biztonságosan a bringát, mielőtt belép a templomba.",
                 "ro": "Parcați bicicleta în siguranță înainte de a intra în biserică.",
-                "en": "Lock your bike securely before entering the cathedral."
+                "en": "Lock your bike securely before entering the cathedral.",
+                "pl": "Zabezpiecz rower przed wejściem do katedry."
               }
             },
             {
@@ -952,7 +1021,8 @@
                 "de": "Die Auffahrt zum Hügel ist bei Nässe anstrengender.",
                 "hu": "A dombra való feljutás vizes úton fárasztóbb lehet.",
                 "ro": "Urcarea pe deal este mai solicitantă pe carosabil umed.",
-                "en": "The climb up the hill is more tiring in wet conditions."
+                "en": "The climb up the hill is more tiring in wet conditions.",
+                "pl": "W mokrych warunkach podjazd na wzgórze jest bardziej męczący."
               }
             },
             {
@@ -961,7 +1031,8 @@
                 "de": "Überdachte Fahrradständer finden Sie am Haupteingang.",
                 "hu": "Fedett kerékpártárolókat a főbejáratnál talál.",
                 "ro": "Găsiți suporturi de biciclete acoperite la intrarea principală.",
-                "en": "Find covered bike racks near the main entrance."
+                "en": "Find covered bike racks near the main entrance.",
+                "pl": "Znajdź zadaszone stojaki na rowery w pobliżu głównego wejścia."
               }
             }
           ],
@@ -993,6 +1064,13 @@
               "Wear a high-visibility rain jacket for safety.",
               "Check your brakes before descending from the Vineyard Hill.",
               "Take corners with extra caution on wet surfaces."
+            ],
+            "pl": [
+              "Błotniki są niezbędne w deszczowej Zielonej Górze.",
+              "Unikaj mokrej kostki brukowej, kiedy to możliwe.",
+              "Noś widoczną przeciwdeszczową kurtkę dla bezpieczeństwa.",
+              "Sprawdź hamulce przed zjazdem ze Wzgórza Winiarskiego.",
+              "Pokonuj zakręty ze szczególną ostrożnością na mokrych nawierzchniach."
             ]
           }
         },
@@ -1001,7 +1079,8 @@
             "de": "Eine sportliche Wintertour durch die verschneiten Parks von Grünberg. Die kalte Luft beißt in den Wangen, während wir zügig zwischen den Sehenswürdigkeiten pendeln. Das Museum und das Palmenhaus dienen als wichtige Wärmestationen auf unserer Route. Da die Sonne früh verschwindet, beenden wir die Tour im hell erleuchteten Focus Mall, bevor die Kälte zu stark wird.",
             "hu": "Sportos téli túra Zielona Góra havas parkjaiban. A hideg levegő csípi az arcunkat, miközben gyorsan haladunk a látnivalók között. A múzeum és a Pálmaház fontos melegedőpontok az utunk során. Mivel a nap korán nyugszik, a túrát a kivilágított Focus Mallnál fejezzük be, mielőtt túl nagy lenne a fagy.",
             "ro": "O tură sportivă de iarnă prin parcurile înzăpezite. Aerul rece ciupește obrajii în timp ce pedalăm rapid între obiective. Muzeul și Sera de Palmieri servesc drept stații cruciale de încălzire. Deoarece soarele apune devreme, încheiem tura la Focus Mall, puternic iluminat, înainte ca gerul să devină prea puternic.",
-            "en": "A sporty winter tour through the snowy parks of Zielona Góra. The cold air bites our cheeks as we commute quickly between sights. The museum and Palm House serve as vital warming stations on our route. Since the sun sets early, we end the tour at the brightly lit Focus Mall before the frost becomes too severe."
+            "en": "A sporty winter tour through the snowy parks of Zielona Góra. The cold air bites our cheeks as we commute quickly between sights. The museum and Palm House serve as vital warming stations on our route. Since the sun sets early, we end the tour at the brightly lit Focus Mall before the frost becomes too severe.",
+            "pl": "Sportowa zimowa trasa przez zaśnieżone parki Zielonej Góry. Zimne powietrze szczypie w policzki, gdy szybko przemieszczamy się między atrakcjami. Muzeum i Palmiarnia służą jako niezbędne punkty ogrzewcze na trasie. Ponieważ słońce zachodzi wcześnie, kończymy wycieczkę w jasno oświetlonym Focus Mall, zanim mróz stanie się zbyt dotkliwy."
           },
           "stops": [
             {
@@ -1010,7 +1089,8 @@
                 "de": "Achten Sie auf vereiste Stellen unter der Schneedecke.",
                 "hu": "Ügyeljen a hóréteg alatti jeges foltokra.",
                 "ro": "Atenție la zonele înghețate de sub stratul de zăpadă.",
-                "en": "Watch out for icy patches hidden under the snow."
+                "en": "Watch out for icy patches hidden under the snow.",
+                "pl": "Uważaj na oblodzone miejsca ukryte pod śniegiem."
               }
             },
             {
@@ -1019,7 +1099,8 @@
                 "de": "Ketten Sie das Rad nah am Eingang an, um Zeit zu sparen.",
                 "hu": "Zárja le a bringát közel a bejárathoz, hogy időt spóroljon.",
                 "ro": "Legați bicicleta aproape de intrare pentru a economisi timp.",
-                "en": "Lock your bike close to the entrance to save time in the cold."
+                "en": "Lock your bike close to the entrance to save time in the cold.",
+                "pl": "Zamknij rower blisko wejścia, aby zaoszczędzić czas w zimnie."
               }
             },
             {
@@ -1028,7 +1109,8 @@
                 "de": "Das Kopfsteinpflaster kann sehr glatt sein.",
                 "hu": "A macskakő ilyenkor rendkívül csúszós lehet.",
                 "ro": "Pavajul poate fi foarte alunecos în timpul iernii.",
-                "en": "The cobblestones can be extremely slippery in winter."
+                "en": "The cobblestones can be extremely slippery in winter.",
+                "pl": "Kostka brukowa może być wyjątkowo śliska zimą."
               }
             },
             {
@@ -1037,7 +1119,8 @@
                 "de": "Ein kurzer Stopp im Inneren bringt die Finger wieder zum Glühen.",
                 "hu": "Egy rövid benti pihenő segít átmelegíteni az ujjait.",
                 "ro": "O scurtă oprire în interior vă va încălzi degetele înghețate.",
-                "en": "A short stop inside will help thaw your frozen fingers."
+                "en": "A short stop inside will help thaw your frozen fingers.",
+                "pl": "Krótki postój wewnątrz pomoże odmrozić zmarznięte palce."
               }
             },
             {
@@ -1046,7 +1129,8 @@
                 "de": "Der Anstieg hält den Körper warm.",
                 "hu": "Az emelkedő segít melegen tartani a testét.",
                 "ro": "Urcarea vă va ajuta să vă mențineți corpul cald.",
-                "en": "The climb will help keep your body temperature up."
+                "en": "The climb will help keep your body temperature up.",
+                "pl": "Podjazd pomoże utrzymać temperaturę ciała."
               }
             },
             {
@@ -1055,7 +1139,8 @@
                 "de": "Genießen Sie die Wärme des Einkaufszentrums zum Abschluss.",
                 "hu": "Élvezze a bevásárlóközpont melegét a túra végén.",
                 "ro": "Bucurați-vă de căldura mall-ului la finalul turei.",
-                "en": "Enjoy the warmth of the mall at the end of your ride."
+                "en": "Enjoy the warmth of the mall at the end of your ride.",
+                "pl": "Skorzystaj z ciepła centrum handlowego na końcu przejażdżki."
               }
             }
           ],
@@ -1087,6 +1172,13 @@
               "Use bright lights as it gets dark after 16:00.",
               "Avoid sudden braking on snowy surfaces.",
               "Shorten the tour if you start to feel too cold."
+            ],
+            "pl": [
+              "Noś wiatroodporne rękawice i ciepłe termiczne skarpety.",
+              "Sprawdź ciśnienie w oponach; w niskich temperaturach spada.",
+              "Używaj jasnych świateł, bo po 16:00 robi się ciemno.",
+              "Unikaj nagłego hamowania na zaśnieżonych nawierzchniach.",
+              "Skróć trasę, jeśli zaczynasz odczuwać silny chłód."
             ]
           }
         }
@@ -1105,7 +1197,8 @@
             "de": "Focus Mall & Parken",
             "hu": "Focus Mall és Parkolás",
             "ro": "Focus Mall și Parcare",
-            "en": "Focus Mall & Parking"
+            "en": "Focus Mall & Parking",
+            "pl": "Focus Mall i parking"
           },
           "coords": [
             15.495,
@@ -1121,7 +1214,8 @@
             "de": "Parken Sie hier und beginnen Sie Ihren Tag mit einem Blick auf die moderne Architektur.",
             "hu": "Parkolj le itt, és kezdd a napot a modern építészet megtekintésével.",
             "ro": "Parcați aici și începeți ziua admirând arhitectura modernă.",
-            "en": "Park here and start your day with a look at modern architecture."
+            "en": "Park here and start your day with a look at modern architecture.",
+            "pl": "Zaparkuj tutaj i rozpocznij dzień od spojrzenia na nowoczesną architekturę."
           }
         },
         {
@@ -1129,7 +1223,8 @@
             "de": "Altstadt & Rathaus",
             "hu": "Óváros és Városháza",
             "ro": "Orașul vechi și Primăria",
-            "en": "Old Town and Town Hall"
+            "en": "Old Town and Town Hall",
+            "pl": "Stare Miasto i ratusz"
           },
           "coords": [
             15.506,
@@ -1145,7 +1240,8 @@
             "de": "Das Herz der Stadt. Parken Sie am Rande der Altstadt.",
             "hu": "A város szíve. Parkolj az óváros szélén.",
             "ro": "Inima orașului. Parcați la marginea orașului vechi.",
-            "en": "The heart of the city. Park on the edge of the old town."
+            "en": "The heart of the city. Park on the edge of the old town.",
+            "pl": "Serce miasta. Zaparkuj na obrzeżach starego miasta."
           }
         },
         {
@@ -1153,7 +1249,8 @@
             "de": "St. Hedwigs Kathedrale",
             "hu": "Szent Hedvig-székesegyház",
             "ro": "Catedrala Sf. Hedviga",
-            "en": "St. Hedwig's Cathedral"
+            "en": "St. Hedwig's Cathedral",
+            "pl": "Katedra św. Jadwigi"
           },
           "coords": [
             15.5085,
@@ -1169,7 +1266,8 @@
             "de": "Nur ein kurzer Spaziergang vom Rathausplatz entfernt.",
             "hu": "Csak egy rövid séta a Városház tértől.",
             "ro": "La doar o scurtă plimbare de piața primăriei.",
-            "en": "Just a short walk from the Town Hall square."
+            "en": "Just a short walk from the Town Hall square.",
+            "pl": "Tylko krótki spacer od placu ratuszowego."
           }
         },
         {
@@ -1177,7 +1275,8 @@
             "de": "Museum des Lebuser Landes",
             "hu": "Lubuszi Föld Múzeuma",
             "ro": "Muzeul ținutului Lubusz",
-            "en": "Museum of the Lubusz Land"
+            "en": "Museum of the Lubusz Land",
+            "pl": "Muzeum Ziemi Lubuskiej"
           },
           "coords": [
             15.504,
@@ -1193,7 +1292,8 @@
             "de": "Erkunden Sie die Geschichte des Weins in dieser Region.",
             "hu": "Fedezze fel a borászat történetét ebben a régióban.",
             "ro": "Explorați istoria vinului în această regiune.",
-            "en": "Explore the history of wine in this region."
+            "en": "Explore the history of wine in this region.",
+            "pl": "Poznaj historię winiarstwa w tym regionie."
           }
         },
         {
@@ -1201,7 +1301,8 @@
             "de": "Palmenhaus & Weinbergpark",
             "hu": "Pálmaház és Szőlőhegy Park",
             "ro": "Sera de Palmieri și Parcul Viticol",
-            "en": "Palm House & Vineyard Park"
+            "en": "Palm House & Vineyard Park",
+            "pl": "Palmiarnia i Park Winiarski"
           },
           "coords": [
             15.5155,
@@ -1217,7 +1318,8 @@
             "de": "Fahren Sie auf den Hügel, parken Sie und genießen Sie beide Attraktionen.",
             "hu": "Hajtson fel a dombra, parkoljon le, és élvezze mindkét látnivalót.",
             "ro": "Urcați pe deal cu mașina, parcați și bucurați-vă de ambele atracții.",
-            "en": "Drive up the hill, park, and enjoy both attractions."
+            "en": "Drive up the hill, park, and enjoy both attractions.",
+            "pl": "Wjedź na wzgórze, zaparkuj i ciesz się obiema atrakcjami."
           }
         },
         {
@@ -1225,7 +1327,8 @@
             "de": "Piastowski-Park",
             "hu": "Piastowski Park",
             "ro": "Parcul Piastowski",
-            "en": "Piastowski Park"
+            "en": "Piastowski Park",
+            "pl": "Park Piastowski"
           },
           "coords": [
             15.498,
@@ -1241,7 +1344,8 @@
             "de": "Ein schöner Abschluss des Tages in einer ruhigen, grünen Umgebung.",
             "hu": "A nap kellemes lezárása egy csendes, zöld környezetben.",
             "ro": "O încheiere frumoasă a zilei într-un mediu liniștit și verde.",
-            "en": "A beautiful end to the day in a quiet, green setting."
+            "en": "A beautiful end to the day in a quiet, green setting.",
+            "pl": "Piękne zakończenie dnia w cichym, zielonym otoczeniu."
           }
         }
       ],
@@ -1249,7 +1353,8 @@
         "de": "Ihr Autotag beginnt bei der Focus Mall, wo Sie bequem parken. Von dort fahren Sie zum ersten Cluster, der historischen Altstadt. Nachdem Sie geparkt haben, erkunden Sie zu Fuß das Rathaus, die Kathedrale und das Museum. Am Nachmittag fahren Sie zum zweiten Cluster: dem Weinbergpark und dem Palmenhaus. Parken Sie auf dem Hügel und genießen Sie die Aussicht und die exotische Atmosphäre. Die letzte Fahrt führt Sie zum weitläufigen Piastowski-Park, dem perfekten Ort, um den Tag entspannt ausklingen zu lassen.",
         "hu": "Az autós nap a Focus Mallnál kezdődik, ahol kényelmesen parkolhat. Onnan az első állomáscsoporthoz, a történelmi Óvároshoz hajt. A parkolás után gyalog fedezi fel a Városházát, a székesegyházat és a múzeumot. Délután a második állomáscsoporthoz, a Szőlőhegy Parkhoz és a Pálmaházhoz autózik. Parkoljon a dombon, és élvezze a kilátást és az egzotikus hangulatot. Az utolsó út a tágas Piastowski Parkhoz vezet, amely tökéletes hely a nap pihentető befejezéséhez.",
         "ro": "Ziua dvs. cu mașina începe la Focus Mall, unde puteți parca convenabil. De acolo, conduceți spre primul cluster, centrul istoric. După ce parcați, explorați pe jos Primăria, catedrala și muzeul. După-amiaza, conduceți spre al doilea cluster: Parcul Viticol și Sera de Palmieri. Parcați pe deal și bucurați-vă de priveliște și de atmosfera exotică. Ultima călătorie vă duce la vastul Parc Piastowski, locul perfect pentru a încheia ziua într-un mod relaxat.",
-        "en": "Your day by car begins at Focus Mall, where you can park conveniently. From there, you drive to the first cluster, the historic Old Town. After parking, you explore the Town Hall, the cathedral, and the museum on foot. In the afternoon, you drive to the second cluster: the Vineyard Park and the Palm House. Park on the hill and enjoy the view and the exotic atmosphere. The final drive takes you to the expansive Piastowski Park, the perfect place to end the day in a relaxed manner."
+        "en": "Your day by car begins at Focus Mall, where you can park conveniently. From there, you drive to the first cluster, the historic Old Town. After parking, you explore the Town Hall, the cathedral, and the museum on foot. In the afternoon, you drive to the second cluster: the Vineyard Park and the Palm House. Park on the hill and enjoy the view and the exotic atmosphere. The final drive takes you to the expansive Piastowski Park, the perfect place to end the day in a relaxed manner.",
+        "pl": "Twój dzień samochodem zaczyna się przy Focus Mall, gdzie możesz wygodnie zaparkować. Stamtąd jedziesz do pierwszego obszaru, historycznego Starego Miasta. Po zaparkowaniu zwiedzasz ratusz, katedrę i muzeum na piechotę. Po południu jedziesz do drugiego obszaru: Parku Winiarskiego i Palmiarni. Zaparkuj na wzgórzu i delektuj się widokiem oraz egzotyczną atmosferą. Ostatni przejazd prowadzi do rozległego Parku Piastowskiego, idealnego miejsca na zakończenie dnia w odprężającej atmosferze."
       },
       "gastro_picks": {
         "de": [
@@ -1441,6 +1546,11 @@
           "Use the parking garages on the edge of the old town, as parking in the center is limited.",
           "Plan your route to avoid rush hour traffic.",
           "A car also allows for trips to the surrounding wineries."
+        ],
+        "pl": [
+          "Korzystaj z parkingów wielopoziomowych na obrzeżach starego miasta, ponieważ miejsca w centrum są ograniczone.",
+          "Zaplanuj trasę tak, by unikać godzin szczytu.",
+          "Samochód umożliwia także wycieczki do okolicznych winiarni."
         ]
       },
       "variants": {
@@ -1449,7 +1559,8 @@
             "de": "Ein entspannter Start im Focus Mall mit überdachtem Parkplatz. Wir fahren gemütlich durch den Regen zur Altstadt und zur Kathedrale. Das Auto ist unser trockener Stützpunkt zwischen den Besuchen im Museum und im Palmenhaus. Der Tag endet sicher im Fahrzeug, während draußen die Welt in Pfützen versinkt.",
             "hu": "Kényelmes kezdés a Focus Mall fedett parkolójában. Komótosan autózunk az esőben az óváros és a székesegyház felé. Az autó a mi száraz bázisunk a múzeumi és pálmaházi látogatások között. A nap biztonságban, a kocsiban ülve ér véget, miközben odakint tócsákba borul a világ.",
             "ro": "Un început relaxat la Focus Mall, cu parcare acoperită. Conducem liniștiți prin ploaie spre orașul vechi și catedrală. Mașina este baza noastră uscată între vizitele la muzeu și sera de palmieri. Ziua se încheie în siguranță în vehicul, în timp ce afară lumea se scufundă în bălți.",
-            "en": "A relaxed start at Focus Mall with covered parking. We drive comfortably through the rain towards the Old Town and Cathedral. The car is our dry base between visits to the museum and the palm house. The day ends safely inside the vehicle while the world outside is covered in puddles."
+            "en": "A relaxed start at Focus Mall with covered parking. We drive comfortably through the rain towards the Old Town and Cathedral. The car is our dry base between visits to the museum and the palm house. The day ends safely inside the vehicle while the world outside is covered in puddles.",
+            "pl": "Relaksujący początek przy Focus Mall z zadaszonym parkingiem. Wygodnie jedziemy przez deszcz w stronę Starego Miasta i katedry. Samochód jest suchą bazą między wizytami w muzeum i palmiarni. Dzień kończy się bezpiecznie w pojeździe, gdy na zewnątrz świat pokryty jest kałużami."
           },
           "stops": [
             {
@@ -1458,7 +1569,8 @@
                 "de": "Nutzen Sie das Parkhaus, um trocken ins Gebäude zu gelangen.",
                 "hu": "Használja a parkolóházat, hogy szárazon jusson az épületbe.",
                 "ro": "Folosiți parcarea multietajată pentru a intra uscat în clădire.",
-                "en": "Use the parking garage to enter the building while staying dry."
+                "en": "Use the parking garage to enter the building while staying dry.",
+                "pl": "Skorzystaj z parkingu wielopoziomowego, by wejść do budynku, pozostając suchym."
               }
             },
             {
@@ -1467,7 +1579,8 @@
                 "de": "Parken Sie in der Nähe der Fußgängerzone am Rande.",
                 "hu": "Parkoljon a sétálóövezet szélén lévő közeli helyeken.",
                 "ro": "Parcați la marginea zonei pietonale în locurile apropiate.",
-                "en": "Park at the edge of the pedestrian zone in nearby spots."
+                "en": "Park at the edge of the pedestrian zone in nearby spots.",
+                "pl": "Parkuj na obrzeżach strefy pieszej w pobliskich miejscach."
               }
             },
             {
@@ -1476,7 +1589,8 @@
                 "de": "Ein Kurzzeitparkplatz befindet sich direkt bei der Kirche.",
                 "hu": "Rövid távú parkoló közvetlenül a templomnál található.",
                 "ro": "O parcare de scurtă durată se află chiar lângă biserică.",
-                "en": "A short-term parking lot is located right by the church."
+                "en": "A short-term parking lot is located right by the church.",
+                "pl": "Krótkoterminowy parking znajduje się tuż przy kościele."
               }
             },
             {
@@ -1485,7 +1599,8 @@
                 "de": "Die Parksuche in der Nähe kann bei Regen schwierig sein.",
                 "hu": "Esőben nehezebb lehet parkolót találni a közelben.",
                 "ro": "Găsirea unui loc de parcare în apropiere poate fi grea pe ploaie.",
-                "en": "Finding parking nearby can be difficult during heavy rain."
+                "en": "Finding parking nearby can be difficult during heavy rain.",
+                "pl": "Znalezienie miejsca parkingowego w czasie intensywnego deszczu może być trudne."
               }
             },
             {
@@ -1494,7 +1609,8 @@
                 "de": "Es gibt einen Parkplatz direkt am Fuße des Weinbergs.",
                 "hu": "Közvetlenül a borhegy lábánál található egy parkoló.",
                 "ro": "Există o parcare chiar la baza dealului viei.",
-                "en": "There is a parking lot right at the foot of the Vineyard Hill."
+                "en": "There is a parking lot right at the foot of the Vineyard Hill.",
+                "pl": "Przy samym podnóżu Wzgórza Winiarskiego znajduje się parking."
               }
             },
             {
@@ -1503,7 +1619,8 @@
                 "de": "Parken Sie am Haupteingang für kurze Wege im Regen.",
                 "hu": "Parkoljon a főbejáratnál a rövid esőben gyaloglásért.",
                 "ro": "Parcați la intrarea principală pentru a merge puțin prin ploaie.",
-                "en": "Park near the main entrance to minimize walking in the rain."
+                "en": "Park near the main entrance to minimize walking in the rain.",
+                "pl": "Parkuj przy głównym wejściu, by zminimalizować chodzenie w deszczu."
               }
             }
           ],
@@ -1535,6 +1652,13 @@
               "Keep an umbrella within reach inside the car.",
               "Use parking apps to avoid searching for a spot in the rain.",
               "Central streets can be slippery when wet."
+            ],
+            "pl": [
+              "Deszcz zmniejsza widoczność; jedź z włączonymi światłami.",
+              "Unikaj głębokich kałuż przy krawędzi jezdni.",
+              "Miej parasol w zasięgu ręki wewnątrz samochodu.",
+              "Korzystaj z aplikacji parkingowych, aby nie szukać miejsca na deszczu.",
+              "Ulice centralne mogą być śliskie po deszczu."
             ]
           }
         },
@@ -1543,7 +1667,8 @@
             "de": "Ein gemütlicher Wintermorgen im warmen Auto, während wir durch das verschneite Grünberg fahren. Die Parkplätze am Focus Mall und am Weinberg sind gut geräumt. Das Museum bietet Kultur in geheizten Räumen, und das Palmenhaus ist das Highlight für Frostbeulen. Wir beenden die Tour im Piastowski-Park, wo wir die Winterlandschaft vom Parkplatz aus bewundern.",
             "hu": "Kellemes téli reggel a meleg autóban, miközben a havas Zielona Górán autózunk. A Focus Mallnál és a borhegynél a parkolók jól le vannak takarítva. A múzeum fűtött termeiben kultúrát szippantunk, a Pálmaház pedig a fázósok kedvence lesz. A túrát a Piastowski-parknál zárjuk, megcsodálva a téli tájat a parkolóból.",
             "ro": "O dimineață de iarnă plăcută în mașina încălzită, în timp ce conducem prin orașul înzăpezit. Parcările de la Focus Mall și de la dealul viei sunt bine deszăpezite. Muzeul oferă cultură în spații încălzite, iar Sera de Palmieri este preferata celor friguroși. Încheiem tura la Parcul Piastowski, admirând peisajul de iarnă din parcare.",
-            "en": "A pleasant winter morning in a warm car while driving through snowy Zielona Góra. The parking lots at Focus Mall and the Vineyard are well-cleared. The museum offers culture in heated rooms, and the Palm House is the highlight for anyone feeling the cold. We end the tour at Piastowski Park, admiring the winter landscape from the parking area."
+            "en": "A pleasant winter morning in a warm car while driving through snowy Zielona Góra. The parking lots at Focus Mall and the Vineyard are well-cleared. The museum offers culture in heated rooms, and the Palm House is the highlight for anyone feeling the cold. We end the tour at Piastowski Park, admiring the winter landscape from the parking area.",
+            "pl": "Przyjemny zimowy poranek w ciepłym samochodzie podczas przejazdu przez zaśnieżoną Zieloną Górę. Parking przy Focus Mall i na Wzgórzu Winiarskim jest dobrze odśnieżony. Muzeum oferuje kulturę w ogrzewanych salach, a Palmiarnia to atrakcja dla wszystkich, którzy czują chłód. Trasę kończymy przy Parku Piastowskim, podziwiając zimowy krajobraz z miejsca parkingowego."
           },
           "stops": [
             {
@@ -1552,7 +1677,8 @@
                 "de": "Das Parkhaus schützt Ihr Auto vor Schnee und Frost.",
                 "hu": "A parkolóház megvédi az autót a hótól és a fagytól.",
                 "ro": "Parcarea acoperită vă protejează mașina de zăpadă și îngheț.",
-                "en": "The parking garage protects your car from snow and frost."
+                "en": "The parking garage protects your car from snow and frost.",
+                "pl": "Parking wielopoziomowy chroni samochód przed śniegiem i szronem."
               }
             },
             {
@@ -1561,7 +1687,8 @@
                 "de": "Achten Sie auf Schneehaufen beim Einparken.",
                 "hu": "Ügyeljen a hókupacokra a parkolásnál.",
                 "ro": "Atenție la mormanele de zăpadă când parcați.",
-                "en": "Watch out for snow piles when parking your car."
+                "en": "Watch out for snow piles when parking your car.",
+                "pl": "Uważaj na zwały śniegu podczas parkowania."
               }
             },
             {
@@ -1570,7 +1697,8 @@
                 "de": "Die Parkplätze direkt davor sind meistens gestreut.",
                 "hu": "A közvetlenül előtte lévő parkolók általában le vannak sózva.",
                 "ro": "Parcările din față sunt de obicei presărate cu sare.",
-                "en": "The parking spots directly in front are usually salted."
+                "en": "The parking spots directly in front are usually salted.",
+                "pl": "Miejsca parkingowe bezpośrednio z przodu są zwykle solone."
               }
             },
             {
@@ -1579,7 +1707,8 @@
                 "de": "Lassen Sie keine Wertsachen sichtbar im Auto liegen.",
                 "hu": "Ne hagyjon értéktárgyat látható helyen az autóban.",
                 "ro": "Nu lăsați obiecte de valoare la vedere în mașină.",
-                "en": "Do not leave any valuables visible inside the car."
+                "en": "Do not leave any valuables visible inside the car.",
+                "pl": "Nie zostawiaj wartościowych przedmiotów na widoku w samochodzie."
               }
             },
             {
@@ -1588,7 +1717,8 @@
                 "de": "Der Parkplatz kann bei Glätte tückisch sein.",
                 "hu": "A parkoló jegesedéskor trükkös lehet.",
                 "ro": "Parcarea poate fi înșelătoare dacă este polei.",
-                "en": "The parking lot can be treacherous if there is ice."
+                "en": "The parking lot can be treacherous if there is ice.",
+                "pl": "Plac parkingowy może być zdradliwy, gdy jest oblodzony."
               }
             },
             {
@@ -1597,7 +1727,8 @@
                 "de": "Schalten Sie das Licht ein, wenn es ab 16 Uhr dämmert.",
                 "hu": "Kapcsolja fel a lámpát, ha 16 órakor elkezd sötétedni.",
                 "ro": "Aprindeți luminile când începe să se întunece la ora 16.",
-                "en": "Turn on your lights as dusk begins around 16:00."
+                "en": "Turn on your lights as dusk begins around 16:00.",
+                "pl": "Włącz światła, gdy zapada zmrok około 16:00."
               }
             }
           ],
@@ -1629,6 +1760,13 @@
               "Keep an ice scraper ready in the glove compartment.",
               "Brake carefully on snowy side streets.",
               "Finding a parking spot is often easier in winter."
+            ],
+            "pl": [
+              "Uzupełnij płyn do spryskiwaczy płynem zimowym z antyzamarzaniem.",
+              "Sprawdź ciśnienie w oponach przed wyjazdem.",
+              "Miej skrobaczkę do szyb w schowku.",
+              "Hamuj ostrożnie na zaśnieżonych bocznych uliczkach.",
+              "Znalezienie miejsca parkingowego jest często łatwiejsze zimą."
             ]
           }
         }
@@ -1647,7 +1785,8 @@
             "de": "Hauptbahnhof & Ankunft",
             "hu": "Főpályaudvar és érkezés",
             "ro": "Gara Centrală și Sosire",
-            "en": "Main Station & Arrival"
+            "en": "Main Station & Arrival",
+            "pl": "Dworzec główny i przyjazd"
           },
           "coords": [
             15.513,
@@ -1663,7 +1802,8 @@
             "de": "Kaufen Sie eine Tageskarte für den Bus, um sich frei bewegen zu können.",
             "hu": "Vásárolj egy napijegyet a buszra a szabad mozgáshoz.",
             "ro": "Cumpărați un bilet de o zi pentru autobuz pentru a vă deplasa liber.",
-            "en": "Buy a day ticket for the bus to move around freely."
+            "en": "Buy a day ticket for the bus to move around freely.",
+            "pl": "Kup bilet całodzienny na autobus, by swobodnie się przemieszczać."
           }
         },
         {
@@ -1671,7 +1811,8 @@
             "de": "Altstadt & Rathaus",
             "hu": "Óváros és Városháza",
             "ro": "Orașul vechi și Primăria",
-            "en": "Old Town and Town Hall"
+            "en": "Old Town and Town Hall",
+            "pl": "Stare Miasto i Ratusz"
           },
           "coords": [
             15.506,
@@ -1687,7 +1828,8 @@
             "de": "Steigen Sie an der Haltestelle 'Palmiarnia' aus und gehen Sie zu Fuß.",
             "hu": "Szállj le a 'Palmiarnia' megállónál és sétálj.",
             "ro": "Coborâți la stația 'Palmiarnia' și mergeți pe jos.",
-            "en": "Get off at the 'Palmiarnia' stop and walk."
+            "en": "Get off at the 'Palmiarnia' stop and walk.",
+            "pl": "Wysiądź na przystanku 'Palmiarnia' i przejdź się piechotą."
           }
         },
         {
@@ -1695,7 +1837,8 @@
             "de": "St. Hedwigs Kathedrale & Museum",
             "hu": "Szent Hedvig-székesegyház és Múzeum",
             "ro": "Catedrala Sf. Hedviga și Muzeul",
-            "en": "St. Hedwig's Cathedral & Museum"
+            "en": "St. Hedwig's Cathedral & Museum",
+            "pl": "Katedra św. Jadwigi i Muzeum"
           },
           "coords": [
             15.5065,
@@ -1711,7 +1854,8 @@
             "de": "Beide Attraktionen liegen nahe beieinander im Herzen der Altstadt.",
             "hu": "Mindkét látnivaló közel van egymáshoz az óváros szívében.",
             "ro": "Ambele atracții sunt aproape una de cealaltă, în inima orașului vechi.",
-            "en": "Both attractions are close to each other in the heart of the old town."
+            "en": "Both attractions are close to each other in the heart of the old town.",
+            "pl": "Obie atrakcje znajdują się blisko siebie w sercu starego miasta."
           }
         },
         {
@@ -1719,7 +1863,8 @@
             "de": "Palmenhaus & Weinbergpark",
             "hu": "Pálmaház és Szőlőhegy Park",
             "ro": "Sera de Palmieri și Parcul Viticol",
-            "en": "Palm House & Vineyard Park"
+            "en": "Palm House & Vineyard Park",
+            "pl": "Palmiarnia i Park Winnic"
           },
           "coords": [
             15.5155,
@@ -1735,7 +1880,8 @@
             "de": "Nehmen Sie den Bus zum Weinberg und genießen Sie die Aussicht und die Pflanzen.",
             "hu": "Menj busszal a szőlőhegyre, és élvezd a kilátást és a növényeket.",
             "ro": "Luați autobuzul până la vie și bucurați-vă de priveliște și de plante.",
-            "en": "Take the bus to the vineyard and enjoy the view and the plants."
+            "en": "Take the bus to the vineyard and enjoy the view and the plants.",
+            "pl": "Wjedź autobusem na winnicę i ciesz się widokiem oraz roślinami."
           }
         },
         {
@@ -1743,7 +1889,8 @@
             "de": "Piastowski-Park",
             "hu": "Piastowski Park",
             "ro": "Parcul Piastowski",
-            "en": "Piastowski Park"
+            "en": "Piastowski Park",
+            "pl": "Park Piastowski"
           },
           "coords": [
             15.498,
@@ -1759,7 +1906,8 @@
             "de": "Ein entspannter Spaziergang zum Abschluss des Tages.",
             "hu": "Egy pihentető séta a nap végén.",
             "ro": "O plimbare relaxantă pentru a încheia ziua.",
-            "en": "A relaxing walk to end the day."
+            "en": "A relaxing walk to end the day.",
+            "pl": "Relaksujący spacer na zakończenie dnia."
           }
         }
       ],
@@ -1767,7 +1915,8 @@
         "de": "Ihre Tour mit öffentlichen Verkehrsmitteln beginnt am Hauptbahnhof. Mit dem Bus fahren Sie zum ersten Cluster, der Altstadt. Nach dem Aussteigen erkunden Sie zu Fuß das Rathaus, die Kathedrale und das Museum. Am Nachmittag bringt Sie ein weiterer Bus zum zweiten Cluster, dem Weinbergpark. Genießen Sie die Aussicht vom Palmenhaus, bevor Sie einen kurzen Spaziergang zum Piastowski-Park unternehmen, um den Tag in Ruhe ausklingen zu lassen, bevor Sie den Bus zurück ins Zentrum nehmen.",
         "hu": "A tömegközlekedési túra a főpályaudvarról indul. Busszal utazik az első állomáscsoporthoz, az Óvároshoz. Leszállás után gyalog fedezi fel a Városházát, a székesegyházat és a múzeumot. Délután egy másik busz viszi a második állomáscsoporthoz, a Szőlőhegy Parkhoz. Élvezze a kilátást a Pálmaházból, mielőtt egy rövid sétát tesz a Piastowski Parkba, hogy békében zárja a napot, majd busszal visszatér a központba.",
         "ro": "Turul dvs. cu transportul public începe la Gara Centrală. Cu autobuzul, mergeți la primul cluster, Orașul Vechi. După ce coborâți, explorați pe jos Primăria, catedrala și muzeul. După-amiaza, un alt autobuz vă duce la al doilea cluster, Parcul Viticol. Bucurați-vă de priveliștea de la Sera de Palmieri înainte de a face o scurtă plimbare până la Parcul Piastowski pentru a încheia ziua în liniște, înainte de a lua autobuzul înapoi spre centru.",
-        "en": "Your tour by public transport starts at the Main Station. By bus, you travel to the first cluster, the Old Town. After getting off, you explore the Town Hall, the cathedral, and the museum on foot. In the afternoon, another bus takes you to the second cluster, the Vineyard Park. Enjoy the view from the Palm House before taking a short walk to Piastowski Park to end the day peacefully, before taking the bus back to the center."
+        "en": "Your tour by public transport starts at the Main Station. By bus, you travel to the first cluster, the Old Town. After getting off, you explore the Town Hall, the cathedral, and the museum on foot. In the afternoon, another bus takes you to the second cluster, the Vineyard Park. Enjoy the view from the Palm House before taking a short walk to Piastowski Park to end the day peacefully, before taking the bus back to the center.",
+        "pl": "Twoja wycieczka środkami komunikacji publicznej zaczyna się na Dworcu Głównym. Autobusem dojeżdżasz do pierwszego obszaru, Starego Miasta. Po wysiadce zwiedzasz Ratusz, katedrę i muzeum pieszo. Po południu kolejny autobus zabiera cię do drugiego obszaru, Parku Winnic. Podziwiaj widok z Palmiarni, a potem krótki spacer zaprowadzi cię do Parku Piastowskiego, gdzie spokojnie kończysz dzień, zanim wrócisz autobusem do centrum."
       },
       "gastro_picks": {
         "de": [
@@ -1959,6 +2108,11 @@
           "A day ticket is the cheapest option for multiple trips.",
           "Bus schedules can be found online or at the stops.",
           "Most buses are modern and air-conditioned."
+        ],
+        "pl": [
+          "Bilet całodniowy to najtańsza opcja przy wielokrotnych przejazdach.",
+          "Rozkłady jazdy autobusów znajdziesz online lub na przystankach.",
+          "Większość autobusów jest nowoczesna i klimatyzowana."
         ]
       },
       "variants": {
@@ -1967,7 +2121,8 @@
             "de": "Ankunft am Hauptbahnhof, wo wir direkt in den Bus umsteigen. Die Linien verbinden die Altstadt, das Museum und das Palmenhaus, sodass wir kaum im Regen laufen müssen. Ein kurzer Sprint zur Haltestelle reicht aus, um trocken zu bleiben. Der Tag endet bequem im Bus zurück zum Bahnhof, während draußen der Abendregen fällt.",
             "hu": "Megérkezés a főpályaudvarra, ahol azonnal buszra szállunk. A járatok összekötik az óvárost, a múzeumot és a Pálmaházat, így alig kell gyalogolnunk az esőben. Egy rövid sprint a megállóig elég, hogy szárazak maradjunk. A nap kényelmesen, a buszon ér véget a pályaudvar felé, miközben odakint esik az esti eső.",
             "ro": "Sosirea la gara principală, de unde luăm imediat autobuzul. Liniile conectează orașul vechi, muzeul și sera de palmieri, deci abia trebuie să mergem prin ploaie. Un scurt sprint până în stație este suficient pentru a rămâne uscați. Ziua se încheie confortabil în autobuzul spre gară, în timp ce afară cade ploaia de seară.",
-            "en": "Arrival at the main station, where we transfer directly to a bus. The lines connect the Old Town, museum, and Palm House, so we hardly have to walk in the rain. A short sprint to the stop is enough to stay dry. The day ends comfortably on the bus back to the station while evening rain falls outside."
+            "en": "Arrival at the main station, where we transfer directly to a bus. The lines connect the Old Town, museum, and Palm House, so we hardly have to walk in the rain. A short sprint to the stop is enough to stay dry. The day ends comfortably on the bus back to the station while evening rain falls outside.",
+            "pl": "Przyjazd na dworzec główny, skąd od razu przesiadamy się do autobusu. Linie łączą Stare Miasto, muzeum i Palmiarnię, więc prawie nie musimy iść w deszczu. Krótki sprint na przystanek wystarczy, by pozostać suchym. Dzień kończy się wygodnie w autobusie powrotnym na dworzec, gdy na zewnątrz pada wieczorny deszcz."
           },
           "stops": [
             {
@@ -1976,7 +2131,8 @@
                 "de": "Warten Sie im Bahnhofsgebäude auf den nächsten Bus.",
                 "hu": "Várjon az állomásépületben a következő buszra.",
                 "ro": "Așteptați în clădirea gării următorul autobuz.",
-                "en": "Wait inside the station building for the next bus."
+                "en": "Wait inside the station building for the next bus.",
+                "pl": "Poczekaj wewnątrz budynku dworca na następny autobus."
               }
             },
             {
@@ -1985,7 +2141,8 @@
                 "de": "Die Haltestellen im Zentrum sind meistens überdacht.",
                 "hu": "A belvárosi megállók többsége fedett.",
                 "ro": "Majoritatea stațiilor din centru sunt acoperite.",
-                "en": "Most bus stops in the center are covered."
+                "en": "Most bus stops in the center are covered.",
+                "pl": "Większość przystanków w centrum jest zadaszona."
               }
             },
             {
@@ -1994,7 +2151,8 @@
                 "de": "Die Haltestelle liegt nur wenige Meter vom Eingang entfernt.",
                 "hu": "A megálló mindössze pár méterre van a bejárattól.",
                 "ro": "Stația se află la doar câțiva metri de intrare.",
-                "en": "The stop is located just a few meters from the entrance."
+                "en": "The stop is located just a few meters from the entrance.",
+                "pl": "Przystanek znajduje się zaledwie kilka metrów od wejścia."
               }
             },
             {
@@ -2003,7 +2161,8 @@
                 "de": "Benutzen Sie die App, um die Wartezeit im Freien zu minimieren.",
                 "hu": "Használja az appot a kültéri várakozás minimalizálására.",
                 "ro": "Folosiți aplicația pentru a minimiza așteptarea în exterior.",
-                "en": "Use the app to minimize waiting time outdoors."
+                "en": "Use the app to minimize waiting time outdoors.",
+                "pl": "Użyj aplikacji, aby zminimalizować czas oczekiwania na zewnątrz."
               }
             },
             {
@@ -2012,7 +2171,8 @@
                 "de": "Die Busse fahren hier regelmäßig bis spät in den Abend.",
                 "hu": "A buszok itt rendszeresen járnak késő estig.",
                 "ro": "Autobuzele circulă regulat aici până târziu în seară.",
-                "en": "Buses run regularly here until late in the evening."
+                "en": "Buses run regularly here until late in the evening.",
+                "pl": "Autobusy kursują tu regularnie aż do późnego wieczora."
               }
             }
           ],
@@ -2044,6 +2204,13 @@
               "Use the real-time displays at the bus stops.",
               "Buses are well-heated during winter and rain.",
               "Wear reflectors when walking in the dark."
+            ],
+            "pl": [
+              "Kup bilet wygodnie przez aplikację na smartfona.",
+              "Uważaj na kałuże podczas wsiadania i wysiadania.",
+              "Korzystaj z wyświetlaczy czasu rzeczywistego na przystankach.",
+              "Autobusy są dobrze ogrzewane zimą i podczas deszczu.",
+              "Noś odblaski podczas chodzenia po zmroku."
             ]
           }
         },
@@ -2052,7 +2219,8 @@
             "de": "Ankunft am Bahnhof im winterlichen Morgenlicht. Dank der gut geheizten Busse erreichen wir die Altstadt und das Museum, ohne zu frieren. Das Palmenhaus ist das perfekte Ziel, um sich bei tropischen Temperaturen aufzuwärmen. Wir beenden die Tour im Piastowski-Park, bevor wir mit dem Bus zurück zum warmen Bahnhof fahren.",
             "hu": "Megérkezés az állomásra a téli reggeli fényben. A jól fűtött buszoknak köszönhetően fagyoskodás nélkül érjük el az óvárost és a múzeumot. A Pálmaház tökéletes célpont, hogy trópusi hőségben melegedjünk fel. A túrát a Piastowski-parknál zárjuk, mielőtt busszal visszamennénk a meleg pályaudvarra.",
             "ro": "Sosirea la gară în lumina dimineții de iarnă. Datorită autobuzelor bine încălzite, ajungem la orașul vechi și la muzeu fără să înghețăm. Sera de Palmieri este destinația perfectă pentru a ne încălzi la temperaturi tropicale. Încheiem tura la Parcul Piastowski înainte de a lua autobuzul înapoi spre gara primitoare.",
-            "en": "Arrival at the station in the winter morning light. Thanks to well-heated buses, we reach the Old Town and the museum without freezing. The Palm House is the perfect destination to warm up in tropical temperatures. We end the tour at Piastowski Park before taking the bus back to the cozy station."
+            "en": "Arrival at the station in the winter morning light. Thanks to well-heated buses, we reach the Old Town and the museum without freezing. The Palm House is the perfect destination to warm up in tropical temperatures. We end the tour at Piastowski Park before taking the bus back to the cozy station.",
+            "pl": "Przyjazd na dworzec w zimowym porannym świetle. Dzięki dobrze ogrzewanym autobusom docieramy na Stare Miasto i do muzeum bez marznięcia. Palmiarnia to idealne miejsce, by rozgrzać się w tropikalnych temperaturach. Kończymy wycieczkę w Parku Piastowskim, a potem wracamy autobusem na przytulny dworzec."
           },
           "stops": [
             {
@@ -2061,7 +2229,8 @@
                 "de": "Im Bahnhof gibt es beheizte Wartebereiche.",
                 "hu": "Az állomáson fűtött várótermek találhatók.",
                 "ro": "În gară există zone de așteptare încălzite.",
-                "en": "There are heated waiting areas inside the station."
+                "en": "There are heated waiting areas inside the station.",
+                "pl": "Wewnątrz dworca są ogrzewane poczekalnie."
               }
             },
             {
@@ -2070,7 +2239,8 @@
                 "de": "Der Weg von der Haltestelle zum Rathaus ist kurz.",
                 "hu": "A megállótól a Városháza csak egy rövid séta.",
                 "ro": "Drumul de la stație până la primărie este scurt.",
-                "en": "The walk from the bus stop to the Town Hall is short."
+                "en": "The walk from the bus stop to the Town Hall is short.",
+                "pl": "Spacer z przystanku do Ratusza jest krótki."
               }
             },
             {
@@ -2079,7 +2249,8 @@
                 "de": "Nutzen Sie die Zeit im Bus, um die Hände aufzuwärmen.",
                 "hu": "Használja ki a buszon töltött időt a kezei felmelegítésére.",
                 "ro": "Folosiți timpul în autobuz pentru a vă încălzi mâinile.",
-                "en": "Use the time on the bus to warm up your hands."
+                "en": "Use the time on the bus to warm up your hands.",
+                "pl": "Wykorzystaj czas w autobusie, by rozgrzać dłonie."
               }
             },
             {
@@ -2088,7 +2259,8 @@
                 "de": "Steigen Sie an der Haltestelle 'Palmiarnia' aus.",
                 "hu": "Szálljon le a 'Palmiarnia' megállónál.",
                 "ro": "Coborâți la stația 'Palmiarnia'.",
-                "en": "Get off at the 'Palmiarnia' stop."
+                "en": "Get off at the 'Palmiarnia' stop.",
+                "pl": "Wysiądź na przystanku 'Palmiarnia'."
               }
             },
             {
@@ -2097,7 +2269,8 @@
                 "de": "Prüfen Sie den Fahrplan für die Rückfahrt im Voraus.",
                 "hu": "Ellenőrizze előre a menetrendet a visszaúthoz.",
                 "ro": "Verificați din timp orarul pentru drumul de întoarcere.",
-                "en": "Check the schedule for the return trip in advance."
+                "en": "Check the schedule for the return trip in advance.",
+                "pl": "Sprawdź rozkład powrotu z wyprzedzeniem."
               }
             }
           ],
@@ -2129,6 +2302,13 @@
               "Bus transit in Zielona Góra is very reliable.",
               "Keep small change ready for ticket machines (or use the app).",
               "Enjoy the view of the snowy city from the bus window."
+            ],
+            "pl": [
+              "Pamiętaj o zmienionych rozkładach w święta.",
+              "Lepiej poczekać wewnątrz, jeśli autobus się spóźnia.",
+              "Komunikacja autobusowa w Zielonej Górze jest bardzo niezawodna.",
+              "Miej drobne przy sobie do automatów biletowych (lub korzystaj z aplikacji).",
+              "Ciesz się widokiem zaśnieżonego miasta przez okno autobusu."
             ]
           }
         }

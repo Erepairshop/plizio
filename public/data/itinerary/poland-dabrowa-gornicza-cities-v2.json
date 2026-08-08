@@ -21,7 +21,8 @@
             "de": "Pałac Kultury Zagłębia",
             "hu": "Zagłębie Kultúrpalota",
             "ro": "Palatul Culturii din Zagłębie",
-            "en": "Zagłębie Palace of Culture"
+            "en": "Zagłębie Palace of Culture",
+            "pl": "Pałac Kultury Zagłębia"
           },
           "coords": [
             50.3225,
@@ -36,7 +37,8 @@
             "de": "Überprüfen Sie den Spielplan; oft gibt es tagsüber kostenlose Ausstellungen in der Lobby.",
             "hu": "Nézze meg a programot; a lobbyban napközben gyakran vannak ingyenes kiállítások.",
             "ro": "Verificați programul; adesea există expoziții gratuite în hol în timpul zilei.",
-            "en": "Check the schedule; there are often free exhibitions in the lobby during the day."
+            "en": "Check the schedule; there are often free exhibitions in the lobby during the day.",
+            "pl": "Sprawdź harmonogram; w holu często są w ciągu dnia darmowe wystawy."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Bazylika NMP Anielskiej",
             "hu": "Angyalos Szűz Mária Bazilika",
             "ro": "Bazilica Sfânta Maria a Îngerilor",
-            "en": "Basilica of Our Lady of the Angels"
+            "en": "Basilica of Our Lady of the Angels",
+            "pl": "Bazylika Matki Boskiej Anielskiej"
           },
           "coords": [
             50.3251,
@@ -59,7 +62,8 @@
             "de": "Bewundern Sie die neugotische Architektur und suchen Sie nach einem Moment der Ruhe im Inneren.",
             "hu": "Csodálja meg a neogótikus építészetet és keressen egy csendes pillanatot a templomban.",
             "ro": "Admirați arhitectura neogotică și căutați un moment de liniște în interior.",
-            "en": "Admire the neo-Gothic architecture and seek a moment of tranquility inside."
+            "en": "Admire the neo-Gothic architecture and seek a moment of tranquility inside.",
+            "pl": "Podziwiaj neogotycką architekturę i poszukaj chwili wytchnienia we wnętrzu."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Muzeum Sztygarka",
             "hu": "Sztygarka Múzeum",
             "ro": "Muzeul Sztygarka",
-            "en": "Sztygarka Museum"
+            "en": "Sztygarka Museum",
+            "pl": "Muzeum Sztygarka"
           },
           "coords": [
             50.3288,
@@ -82,7 +87,8 @@
             "de": "Konzentrieren Sie sich auf die Ausstellungen zum Bergbau, um die industrielle Seele der Stadt zu verstehen.",
             "hu": "Fókuszáljon a bányászati kiállításokra, hogy megértse a város ipari lelkét.",
             "ro": "Concentrați-vă pe expozițiile miniere pentru a înțelege sufletul industrial al orașului.",
-            "en": "Focus on the mining exhibits to understand the city's industrial soul."
+            "en": "Focus on the mining exhibits to understand the city's industrial soul.",
+            "pl": "Skup się na eksponatach górniczych, by poznać przemysłową duszę miasta."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Park Zielona",
             "hu": "Zielona Park",
             "ro": "Parcul Zielona",
-            "en": "Zielona Park"
+            "en": "Zielona Park",
+            "pl": "Park Zielona"
           },
           "coords": [
             50.3164,
@@ -105,7 +112,8 @@
             "de": "Perfekt für einen entspannten Spaziergang nach dem Museumsbesuch. Suchen Sie den Teich.",
             "hu": "Tökéletes egy pihentető sétára a múzeumlátogatás után. Keresse meg a tavat.",
             "ro": "Perfect pentru o plimbare relaxantă după muzeu. Căutați iazul.",
-            "en": "Perfect for a relaxing stroll after the museum visit. Look for the pond."
+            "en": "Perfect for a relaxing stroll after the museum visit. Look for the pond.",
+            "pl": "Idealny na relaksujący spacer po wizycie w muzeum. Poszukaj stawu."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Kościół św. Antoniego",
             "hu": "Szent Antal-templom",
             "ro": "Biserica Sf. Anton",
-            "en": "St. Anthony's Church"
+            "en": "St. Anthony's Church",
+            "pl": "Kościół św. Antoniego"
           },
           "coords": [
             50.3155,
@@ -128,7 +137,8 @@
             "de": "Ein kleineres, aber charmantes Gotteshaus, ideal für eine letzte besinnliche Pause.",
             "hu": "Egy kisebb, de bájos templom, ideális egy utolsó elmélkedő szünetre.",
             "ro": "O biserică mai mică, dar fermecătoare, ideală pentru o ultimă pauză contemplativă.",
-            "en": "A smaller but charming church, ideal for a final contemplative pause."
+            "en": "A smaller but charming church, ideal for a final contemplative pause.",
+            "pl": "Mniejszy, ale uroczy kościół, idealny na końcową chwilę zadumy."
           }
         }
       ],
@@ -136,7 +146,8 @@
         "de": "Beginnen Sie Ihren Tag im Herzen der Kultur von Dąbrowa Górnicza am Pałac Kultury Zagłębia. Ein kurzer Spaziergang führt Sie zur imposanten Basilika, einem Meisterwerk der Neugotik. Am Mittag tauchen Sie im Sztygarka-Museum tief in die industrielle Vergangenheit der Region ein. Der Nachmittag ist für die Natur reserviert: Entspannen Sie sich im grünen Zielona-Park, bevor Sie den Tag in der ruhigen Atmosphäre der St.-Antonius-Kirche ausklingen lassen.",
         "hu": "Kezdje a napot Dąbrowa Górnicza kulturális szívében, a Zagłębie Kultúrpalotánál. Egy rövid séta elvezeti a lenyűgöző, neogótikus stílusú bazilikához. Délben merüljön el a régió ipari múltjában a Sztygarka Múzeumban. A délután a természeté: pihenjen a zöldellő Zielona Parkban, mielőtt a napot a Szent Antal-templom békés légkörében zárja.",
         "ro": "Începeți ziua în inima culturală a orașului Dąbrowa Górnicza, la Palatul Culturii Zagłębie. O scurtă plimbare vă va duce la impunătoarea bazilică, o capodoperă neogotică. La prânz, pătrundeți în trecutul industrial al regiunii la Muzeul Sztygarka. După-amiaza este rezervată naturii: relaxați-vă în Parcul verde Zielona înainte de a încheia ziua în atmosfera liniștită a Bisericii Sf. Anton.",
-        "en": "Start your day in the cultural heart of Dąbrowa Górnicza at the Zagłębie Palace of Culture. A short walk will take you to the imposing Basilica, a neo-Gothic masterpiece. At midday, delve into the region's industrial past at the Sztygarka Museum. The afternoon is reserved for nature: relax in the green Zielona Park before concluding the day in the peaceful atmosphere of St. Anthony's Church."
+        "en": "Start your day in the cultural heart of Dąbrowa Górnicza at the Zagłębie Palace of Culture. A short walk will take you to the imposing Basilica, a neo-Gothic masterpiece. At midday, delve into the region's industrial past at the Sztygarka Museum. The afternoon is reserved for nature: relax in the green Zielona Park before concluding the day in the peaceful atmosphere of St. Anthony's Church.",
+        "pl": "Rozpocznij dzień w kulturalnym sercu Dąbrowy Górniczej w Pałacu Kultury Zagłębia. Krótki spacer zaprowadzi cię do okazałej bazyliki, neogotyckiego majstersztyku. W południe zanurz się w przemysłową przeszłość regionu w Muzeum Sztygarka. Popołudnie zarezerwuj na naturę: odpocznij w zielonym Parku Zielona, a dzień zakończ w spokojnej atmosferze kościoła św. Antoniego."
       },
       "gastro_picks": {
         "de": [
@@ -332,6 +343,12 @@
           "Bring a water bottle, especially for the longer afternoon walk.",
           "Check the museum's opening hours in advance.",
           "The Basilica is an active church, so dress respectfully."
+        ],
+        "pl": [
+          "Noś wygodne buty, ponieważ spacer do muzeum i parku jest dość długi.",
+          "Weź butelkę wody, zwłaszcza na dłuższy popołudniowy spacer.",
+          "Sprawdź wcześniej godziny otwarcia muzeum.",
+          "Bazylika jest czynna jako kościół, więc ubierz się stosownie."
         ]
       },
       "variants": {
@@ -340,7 +357,8 @@
             "de": "Beginnen Sie im imposanten Kulturpalast und spazieren Sie mit Schirm durch den Haller-Park zur Basilika. Mittags wärmt ein Essen im Zentrum. Der Nachmittag bietet trockene Kultur im Stadtmuseum, bevor der Tag im Zielona-Park endet.",
             "hu": "Kezdje a lenyűgöző Kultúrpalotában, majd esernyővel sétáljon át a Haller parkon a bazilikához. Egy meleg ebéd a központban felfrissít. Délután száraz menedék a városi múzeum, mielőtt a Zielona parkban zárná a napot.",
             "ro": "Începeți la impunătorul Palat al Culturii, traversând cu umbrela Parcul Haller spre basilică. Un prânz cald în centru vă revigorează. După-amiaza oferă un refugiu uscat la muzeul orașului, înainte de a încheia ziua în Parcul Zielona.",
-            "en": "Start at the impressive Palace of Culture, walking with an umbrella through Haller Park to the basilica. A warm lunch in the center revives you. The afternoon offers dry refuge in the city museum before ending in Zielona Park."
+            "en": "Start at the impressive Palace of Culture, walking with an umbrella through Haller Park to the basilica. A warm lunch in the center revives you. The afternoon offers dry refuge in the city museum before ending in Zielona Park.",
+            "pl": "Zacznij od imponującego Pałacu Kultury, idąc z parasolem przez Park Hallera do bazyliki. Ciepły obiad w centrum doda sił. Popołudnie oferuje suche schronienie w muzeum miejskim, zanim zakończysz dzień w Parku Zielona."
           },
           "stops": [
             {
@@ -349,7 +367,8 @@
                 "de": "Prächtige Innenräume zum Aufwärmen.",
                 "hu": "Pompás belső terek a felmelegedéshez.",
                 "ro": "Interioare magnifice pentru a vă încălzi.",
-                "en": "Magnificent interiors to warm up in."
+                "en": "Magnificent interiors to warm up in.",
+                "pl": "Wspaniałe wnętrza, by się ogrzać."
               }
             },
             {
@@ -358,7 +377,8 @@
                 "de": "Bleiben Sie auf den befestigten Hauptwegen.",
                 "hu": "Maradjon a burkolt főútvonalakon.",
                 "ro": "Rămâneți pe aleile principale pavate.",
-                "en": "Stay on the paved main paths."
+                "en": "Stay on the paved main paths.",
+                "pl": "Pozostań na utwardzonych głównych ścieżkach."
               }
             },
             {
@@ -367,7 +387,8 @@
                 "de": "Ein trockener Ort für eine besinnliche Pause.",
                 "hu": "Száraz hely egy elmélkedő szünetre.",
                 "ro": "Un loc uscat pentru o pauză contemplativă.",
-                "en": "A dry place for a contemplative break."
+                "en": "A dry place for a contemplative break.",
+                "pl": "Suche miejsce na kontemplacyjną przerwę."
               }
             },
             {
@@ -376,7 +397,8 @@
                 "de": "Ideales Indoor-Ziel bei starkem Regen.",
                 "hu": "Ideális benti célpont heves esőben.",
                 "ro": "Destinație de interior ideală pe ploaie puternică.",
-                "en": "Ideal indoor destination in heavy rain."
+                "en": "Ideal indoor destination in heavy rain.",
+                "pl": "Idealne miejsce pod dachem przy ulewnym deszczu."
               }
             },
             {
@@ -385,7 +407,8 @@
                 "de": "Viele gemütliche Lokale in der Nähe.",
                 "hu": "Sok hangulatos étterem a közelben.",
                 "ro": "Multe restaurante confortabile în apropiere.",
-                "en": "Many cozy restaurants nearby."
+                "en": "Many cozy restaurants nearby.",
+                "pl": "Wiele przytulnych restauracji w okolicy."
               }
             },
             {
@@ -394,7 +417,8 @@
                 "de": "Nehmen Sie einen Schirm für den Parkspaziergang mit.",
                 "hu": "Vigyen magával esernyőt a parki sétához.",
                 "ro": "Luați o umbrelă pentru plimbarea prin parc.",
-                "en": "Take an umbrella for the park walk."
+                "en": "Take an umbrella for the park walk.",
+                "pl": "Weź parasol na spacer po parku."
               }
             }
           ],
@@ -426,6 +450,13 @@
               "Use the indoor attractions for longer breaks.",
               "Many paths in the parks can be full of puddles.",
               "Plan more time for cozy cafe visits."
+            ],
+            "pl": [
+              "Zabierz ze sobą solidny parasol.",
+              "Noś wodoodporne buty z antypoślizgową podeszwą.",
+              "Korzystaj z atrakcji wewnątrz na dłuższe przerwy.",
+              "Wiele ścieżek w parkach może być pełnych kałuż.",
+              "Zaplanuj więcej czasu na wizyty w przytulnych kawiarniach."
             ]
           }
         },
@@ -434,7 +465,8 @@
             "de": "Ein frostiger Morgen am Kulturpalast, gefolgt von einem winterlichen Spaziergang zur Basilika. Mittags lockt ein heißes Essen im Zentrum. Der Nachmittag führt ins warme Stadtmuseum und zu einem verschneiten Spaziergang im Zielona-Park.",
             "hu": "Fagyos reggel a Kultúrpalotánál, majd téli séta a bazilikához. Délben egy forró ebéd csábít a központban. Délután a meleg városi múzeum várja, majd egy havas séta a Zielona parkban zárja a napot.",
             "ro": "O dimineață geroasă la Palatul Culturii, urmată de o plimbare hibernală spre basilică. La prânz, o masă caldă în centru. După-amiaza vă duce la muzeul cald al orașului și la o plimbare prin Parcul Zielona înzăpezit.",
-            "en": "A frosty morning at the Palace of Culture, followed by a winter walk to the basilica. At noon, a hot meal in the center beckons. The afternoon leads to the warm city museum and a snowy stroll in Zielona Park."
+            "en": "A frosty morning at the Palace of Culture, followed by a winter walk to the basilica. At noon, a hot meal in the center beckons. The afternoon leads to the warm city museum and a snowy stroll in Zielona Park.",
+            "pl": "Mroźny poranek przy Pałacu Kultury, potem zimowy spacer do bazyliki. W południe zachęca gorący posiłek w centrum. Po południu muzeum miejskie i śnieżny spacer po Parku Zielona."
           },
           "stops": [
             {
@@ -443,7 +475,8 @@
                 "de": "Genießen Sie die winterliche Architektur von innen.",
                 "hu": "Élvezze a téli építészetet belülről.",
                 "ro": "Bucurați-vă de arhitectura de iarnă din interior.",
-                "en": "Enjoy the winter architecture from inside."
+                "en": "Enjoy the winter architecture from inside.",
+                "pl": "Podziwiaj zimową architekturę od środka."
               }
             },
             {
@@ -452,7 +485,8 @@
                 "de": "Vorsicht vor versteckten Eisflächen.",
                 "hu": "Óvakodjon a rejtett jégfoltoktól.",
                 "ro": "Feriți-vă de peticele de gheață ascunse.",
-                "en": "Watch out for hidden ice patches."
+                "en": "Watch out for hidden ice patches.",
+                "pl": "Uważaj na ukryte śliskie miejsca z lodem."
               }
             },
             {
@@ -461,7 +495,8 @@
                 "de": "Ein ruhiger, aber kühler Ort der Besinnung.",
                 "hu": "Csendes, de hűvös elmélkedési hely.",
                 "ro": "Un loc liniștit, dar răcoros de reflecție.",
-                "en": "A quiet but cool place of reflection."
+                "en": "A quiet but cool place of reflection.",
+                "pl": "Ciche, ale chłodne miejsce do zadumy."
               }
             },
             {
@@ -470,7 +505,8 @@
                 "de": "Wärmen Sie sich bei historischen Ausstellungen auf.",
                 "hu": "Melegedjen fel a történelmi kiállításokon.",
                 "ro": "Încălziți-vă la expozițiile istorice.",
-                "en": "Warm up with historical exhibitions."
+                "en": "Warm up with historical exhibitions.",
+                "pl": "Rozgrzej się przy wystawach historycznych."
               }
             },
             {
@@ -479,7 +515,8 @@
                 "de": "Heiße Suppen sind jetzt besonders empfehlenswert.",
                 "hu": "A forró levesek most különösen ajánlottak.",
                 "ro": "Supele fierbinți sunt deosebit de recomandate acum.",
-                "en": "Hot soups are highly recommended now."
+                "en": "Hot soups are highly recommended now.",
+                "pl": "Gorące zupy są teraz szczególnie polecane."
               }
             },
             {
@@ -488,7 +525,8 @@
                 "de": "Im Winterwald wird es früh dunkel.",
                 "hu": "A téli erdőben korán sötétedik.",
                 "ro": "În pădurea de iarnă se întunecă devreme.",
-                "en": "It gets dark early in the winter forest."
+                "en": "It gets dark early in the winter forest.",
+                "pl": "W zimowym lesie szybko zapada zmrok."
               }
             }
           ],
@@ -520,6 +558,13 @@
               "Watch out for icy spots in the parks.",
               "Hot drinks during breaks keep you warm.",
               "The museum might close earlier in winter."
+            ],
+            "pl": [
+              "Ubierz się ciepło na kilka warstw.",
+              "Zimą słońce zachodzi około 15:30.",
+              "Uważaj na oblodzenia w parkach.",
+              "Gorące napoje w przerwach ogrzewają.",
+              "Muzeum może zimą zamykać się wcześniej."
             ]
           }
         }
@@ -538,7 +583,8 @@
             "de": "Pałac Kultury Zagłębia",
             "hu": "Zagłębie Kultúrpalota",
             "ro": "Palatul Culturii din Zagłębie",
-            "en": "Zagłębie Palace of Culture"
+            "en": "Zagłębie Palace of Culture",
+            "pl": "Zagłębie Palace of Culture"
           },
           "coords": [
             50.3225,
@@ -553,7 +599,8 @@
             "de": "Ein großartiger Ausgangspunkt mit beeindruckender sozialistischer Architektur.",
             "hu": "Nagyszerű kiindulópont lenyűgöző szocialista építészetével.",
             "ro": "Un punct de plecare excelent, cu o arhitectură socialistă impresionantă.",
-            "en": "A great starting point with impressive socialist architecture."
+            "en": "A great starting point with impressive socialist architecture.",
+            "pl": "Świetny punkt startowy z imponującą architekturą socrealistyczną."
           }
         },
         {
@@ -561,7 +608,8 @@
             "de": "Park Zielona",
             "hu": "Zielona Park",
             "ro": "Parcul Zielona",
-            "en": "Zielona Park"
+            "en": "Zielona Park",
+            "pl": "Zielona Park"
           },
           "coords": [
             50.3164,
@@ -576,7 +624,8 @@
             "de": "Fahren Sie durch die Hauptalleen, um ein Gefühl für die Weite des Parks zu bekommen.",
             "hu": "Tekerjen végig a fő sétányokon, hogy átérezze a park tágasságát.",
             "ro": "Plimbați-vă pe aleile principale pentru a vă face o idee despre vastitatea parcului.",
-            "en": "Ride through the main avenues to get a feel for the park's vastness."
+            "en": "Ride through the main avenues to get a feel for the park's vastness.",
+            "pl": "Przejedź głównymi alejami, by poczuć rozległość parku."
           }
         },
         {
@@ -584,7 +633,8 @@
             "de": "Muzeum Sztygarka",
             "hu": "Sztygarka Múzeum",
             "ro": "Muzeul Sztygarka",
-            "en": "Sztygarka Museum"
+            "en": "Sztygarka Museum",
+            "pl": "Sztygarka Museum"
           },
           "coords": [
             50.3288,
@@ -599,7 +649,8 @@
             "de": "Es gibt Fahrradständer in der Nähe des Eingangs. Schließen Sie Ihr Fahrrad sicher ab.",
             "hu": "A bejárat közelében vannak kerékpártárolók. Zárja le biztonságosan a kerékpárját.",
             "ro": "Există suporturi pentru biciclete lângă intrare. Asigurați-vă bicicleta în mod corespunzător.",
-            "en": "There are bike racks near the entrance. Lock your bike securely."
+            "en": "There are bike racks near the entrance. Lock your bike securely.",
+            "pl": "Przy wejściu są stojaki na rowery. Zabezpiecz rower solidnym zamkiem."
           }
         },
         {
@@ -607,7 +658,8 @@
             "de": "Pogoria-Seen (Pogoria III)",
             "hu": "Pogoria-tavak (Pogoria III)",
             "ro": "Lacurile Pogoria (Pogoria III)",
-            "en": "Pogoria Lakes (Pogoria III)"
+            "en": "Pogoria Lakes (Pogoria III)",
+            "pl": "Pogoria Lakes (Pogoria III)"
           },
           "coords": [
             50.3411,
@@ -622,7 +674,8 @@
             "de": "Der Radweg um den See ist fantastisch. Planen Sie Zeit für eine Pause am Strand ein.",
             "hu": "A tó körüli bicikliút fantasztikus. Tervezzen be egy pihenőt a strandon.",
             "ro": "Pista de biciclete din jurul lacului este fantastică. Planificați o pauză pe plajă.",
-            "en": "The bike path around the lake is fantastic. Plan for a break on the beach."
+            "en": "The bike path around the lake is fantastic. Plan for a break on the beach.",
+            "pl": "Ścieżka rowerowa wokół jeziora jest fantastyczna. Zaplanuj przerwę na plaży."
           }
         },
         {
@@ -630,7 +683,8 @@
             "de": "Bazylika NMP Anielskiej",
             "hu": "Angyalos Szűz Mária Bazilika",
             "ro": "Bazilica Sfânta Maria a Îngerilor",
-            "en": "Basilica of Our Lady of the Angels"
+            "en": "Basilica of Our Lady of the Angels",
+            "pl": "Basilica of Our Lady of the Angels"
           },
           "coords": [
             50.3251,
@@ -645,7 +699,8 @@
             "de": "Ein würdiger Abschluss Ihrer Radtour. Die Größe der Basilika ist ein beeindruckender Anblick.",
             "hu": "Méltó befejezése a biciklitúrának. A bazilika mérete lenyűgöző látvány.",
             "ro": "Un final demn pentru turul cu bicicleta. Dimensiunea bazilicii este o priveliște impresionantă.",
-            "en": "A worthy end to your bike tour. The scale of the basilica is an impressive sight."
+            "en": "A worthy end to your bike tour. The scale of the basilica is an impressive sight.",
+            "pl": "Godne zakończenie wycieczki rowerowej. Skala bazyliki robi wrażenie."
           }
         }
       ],
@@ -653,7 +708,8 @@
         "de": "Schwingen Sie sich auf Ihr Rad und starten Sie am Pałac Kultury Zagłębia. Ihre erste Etappe führt Sie in den weitläufigen Zielona-Park für eine Dosis Grün. Mittags radeln Sie zum Sztygarka-Museum, um mehr über das Erbe der Stadt zu erfahren. Am Nachmittag erwartet Sie das Highlight: eine erfrischende Tour zum und um den Pogoria III-See, der perfekte Ort für eine längere Pause. Schließen Sie den Tag mit einer Rückfahrt ins Zentrum ab, um die majestätische Basilika zu bewundern.",
         "hu": "Pattanjon biciklire, és induljon a Zagłębie Kultúrpalotától. Az első szakasz a tágas Zielona Parkba vezet egy adag zöldért. Délben tekerjen el a Sztygarka Múzeumhoz, hogy többet tudjon meg a város örökségéről. Délután várja a fénypont: egy frissítő túra a Pogoria III tóhoz és körülötte, tökéletes hely egy hosszabb pihenőre. Zárja a napot egy visszaúttal a központba, hogy megcsodálja a fenséges bazilikát.",
         "ro": "Urcați-vă pe bicicletă și porniți de la Palatul Culturii Zagłębie. Prima etapă vă duce în vastul Parc Zielona pentru o doză de verdeață. La prânz, pedalați spre Muzeul Sztygarka pentru a afla despre moștenirea orașului. Punctul culminant vă așteaptă după-amiază: un tur revigorant la și în jurul lacului Pogoria III, locul perfect pentru o pauză mai lungă. Încheiați ziua cu o plimbare înapoi în centru pentru a admira bazilica maiestuoasă.",
-        "en": "Hop on your bike and start at the Zagłębie Palace of Culture. Your first leg takes you to the expansive Zielona Park for a dose of green. At midday, cycle to the Sztygarka Museum to learn about the city's heritage. The highlight awaits in the afternoon: a refreshing tour to and around Pogoria III Lake, the perfect spot for a longer break. Conclude the day with a ride back to the center to admire the majestic Basilica."
+        "en": "Hop on your bike and start at the Zagłębie Palace of Culture. Your first leg takes you to the expansive Zielona Park for a dose of green. At midday, cycle to the Sztygarka Museum to learn about the city's heritage. The highlight awaits in the afternoon: a refreshing tour to and around Pogoria III Lake, the perfect spot for a longer break. Conclude the day with a ride back to the center to admire the majestic Basilica.",
+        "pl": "Wskocz na rower i zacznij przy Zagłębie Palace of Culture. Pierwszy etap prowadzi do rozległego Parku Zielona, by nacieszyć się zielenią. W południe jedź do Sztygarka Museum, by poznać dziedzictwo miasta. Punkt kulminacyjny to popołudniowa wycieczka nad Jezioro Pogoria III, idealne miejsce na dłuższą przerwę. Zakończ dzień powrotem do centrum, by podziwiać majestatyczną Bazylikę."
       },
       "gastro_picks": {
         "de": [
@@ -849,6 +905,12 @@
           "Bring a lock to secure your bike at the stops.",
           "A helmet is recommended for the longer stretches outside the city.",
           "The bike paths around the lakes can be crowded on weekends."
+        ],
+        "pl": [
+          "Sprawdź ciśnienie w oponach przed wyruszeniem.",
+          "Weź zamek do zabezpieczenia roweru podczas postojów.",
+          "Kask jest zalecany na dłuższe odcinki poza miastem.",
+          "Ścieżki rowerowe wokół jezior mogą być zatłoczone w weekendy."
         ]
       }
     },
@@ -865,7 +927,8 @@
             "de": "Błędów-Wüste",
             "hu": "Błędówi-sivatag",
             "ro": "Deșertul Błędów",
-            "en": "Błędów Desert"
+            "en": "Błędów Desert",
+            "pl": "Błędów Desert"
           },
           "coords": [
             50.3583,
@@ -880,7 +943,8 @@
             "de": "Tragen Sie festes Schuhwerk. Die 'polnische Sahara' ist ein einzigartiges Erlebnis.",
             "hu": "Viseljen erős cipőt. A 'lengyel Szahara' egyedülálló élmény.",
             "ro": "Purtați încălțăminte rezistentă. 'Sahara poloneză' este o experiență unică.",
-            "en": "Wear sturdy shoes. The 'Polish Sahara' is a unique experience."
+            "en": "Wear sturdy shoes. The 'Polish Sahara' is a unique experience.",
+            "pl": "Noś solidne buty. „Polska Sahara” to wyjątkowe doświadczenie."
           }
         },
         {
@@ -888,7 +952,8 @@
             "de": "Kopalnia Ćwiczebna (Übungsbergwerk)",
             "hu": "Gyakorló Bánya",
             "ro": "Mina de Instruire",
-            "en": "Training Mine Complex"
+            "en": "Training Mine Complex",
+            "pl": "Training Mine Complex"
           },
           "coords": [
             50.3341,
@@ -903,7 +968,8 @@
             "de": "Ein faszinierender Einblick in die Bergbaugeschichte. Buchen Sie eine Führung, falls verfügbar.",
             "hu": "Lenyűgöző bepillantás a bányászat történetébe. Foglaljon vezetett túrát, ha elérhető.",
             "ro": "O incursiune fascinantă în istoria mineritului. Rezervați un tur ghidat, dacă este disponibil.",
-            "en": "A fascinating insight into mining history. Book a guided tour if available."
+            "en": "A fascinating insight into mining history. Book a guided tour if available.",
+            "pl": "Fascynujący wgląd w historię górnictwa. Zarezerwuj zwiedzanie z przewodnikiem, jeśli jest dostępne."
           }
         },
         {
@@ -911,7 +977,8 @@
             "de": "Pogoria-Seen (Pogoria IV)",
             "hu": "Pogoria-tavak (Pogoria IV)",
             "ro": "Lacurile Pogoria (Pogoria IV)",
-            "en": "Pogoria Lakes (Pogoria IV)"
+            "en": "Pogoria Lakes (Pogoria IV)",
+            "pl": "Pogoria Lakes (Pogoria IV)"
           },
           "coords": [
             50.3653,
@@ -926,7 +993,8 @@
             "de": "Parken Sie und machen Sie einen Spaziergang am Ufer. Ideal für eine Mittagspause.",
             "hu": "Parkoljon le és sétáljon egyet a parton. Ideális egy ebédszünethez.",
             "ro": "Parcați și faceți o plimbare de-a lungul malului. Ideal pentru o pauză de prânz.",
-            "en": "Park and take a walk along the shore. Ideal for a lunch break."
+            "en": "Park and take a walk along the shore. Ideal for a lunch break.",
+            "pl": "Zaparkuj i wybierz się na spacer brzegiem. Idealne na przerwę na lunch."
           }
         },
         {
@@ -934,7 +1002,8 @@
             "de": "Pałac Kultury Zagłębia",
             "hu": "Zagłębie Kultúrpalota",
             "ro": "Palatul Culturii din Zagłębie",
-            "en": "Zagłębie Palace of Culture"
+            "en": "Zagłębie Palace of Culture",
+            "pl": "Zagłębie Palace of Culture"
           },
           "coords": [
             50.3225,
@@ -949,7 +1018,8 @@
             "de": "Parken Sie hier, um das Stadtzentrum zu erkunden. Der Platz davor ist ein guter Treffpunkt.",
             "hu": "Parkoljon itt a városközpont felfedezéséhez. Az előtte lévő tér jó találkozóhely.",
             "ro": "Parcați aici pentru a explora centrul orașului. Piața din față este un bun punct de întâlnire.",
-            "en": "Park here to explore the city center. The square in front is a good meeting point."
+            "en": "Park here to explore the city center. The square in front is a good meeting point.",
+            "pl": "Zaparkuj tutaj, by zwiedzić centrum miasta. Plac przed pałacem to dobre miejsce spotkań."
           }
         },
         {
@@ -957,7 +1027,8 @@
             "de": "Bazylika NMP Anielskiej",
             "hu": "Angyalos Szűz Mária Bazilika",
             "ro": "Bazilica Sfânta Maria a Îngerilor",
-            "en": "Basilica of Our Lady of the Angels"
+            "en": "Basilica of Our Lady of the Angels",
+            "pl": "Basilica of Our Lady of the Angels"
           },
           "coords": [
             50.3251,
@@ -972,7 +1043,8 @@
             "de": "Ein kurzer Spaziergang vom Palast entfernt. Lassen Sie das Auto stehen und genießen Sie die Architektur.",
             "hu": "Rövid séta a palotától. Hagyja az autót, és élvezze az építészetet.",
             "ro": "La o scurtă plimbare de palat. Lăsați mașina și bucurați-vă de arhitectură.",
-            "en": "A short walk from the Palace. Leave the car and enjoy the architecture."
+            "en": "A short walk from the Palace. Leave the car and enjoy the architecture.",
+            "pl": "Krótki spacer od Pałacu. Zostaw samochód i podziwiaj architekturę na piechotę."
           }
         },
         {
@@ -980,7 +1052,8 @@
             "de": "Muzeum Sztygarka",
             "hu": "Sztygarka Múzeum",
             "ro": "Muzeul Sztygarka",
-            "en": "Sztygarka Museum"
+            "en": "Sztygarka Museum",
+            "pl": "Sztygarka Museum"
           },
           "coords": [
             50.3288,
@@ -995,7 +1068,8 @@
             "de": "Beenden Sie Ihren Tag mit einem tiefen Einblick in die lokale Geschichte.",
             "hu": "Zárja a napot egy mély betekintéssel a helyi történelembe.",
             "ro": "Încheiați-vă ziua cu o incursiune profundă în istoria locală.",
-            "en": "End your day with a deep dive into local history."
+            "en": "End your day with a deep dive into local history.",
+            "pl": "Zakończ dzień głębokim zanurzeniem w lokalnej historii."
           }
         }
       ],
@@ -1003,7 +1077,8 @@
         "de": "Ihr Autoabenteuer beginnt mit einem außergewöhnlichen Naturwunder, der Błędów-Wüste. Verbringen Sie den Vormittag damit, diese einzigartige Landschaft zu erkunden. Anschließend fahren Sie zurück in Richtung Stadt, um im Übungsbergwerk in die industrielle Vergangenheit einzutauchen. Zur Mittagszeit entspannen Sie an den Ufern der Pogoria-Seen. Am Nachmittag parken Sie im Stadtzentrum und erkunden den Kulturcluster zu Fuß: den imposanten Kulturpalast, die prächtige Basilika und schließlich das aufschlussreiche Sztygarka-Museum.",
         "hu": "Autós kalandja egy rendkívüli természeti csodával, a Błędówi-sivataggal kezdődik. Töltse a délelőttöt ennek az egyedülálló tájnak a felfedezésével. Ezután vezessen vissza a város felé, hogy elmerüljön az ipari múltban a Gyakorló Bányában. Ebédidőben pihenjen a Pogoria-tavak partján. Délután parkoljon le a városközpontban, és fedezze fel gyalog a kulturális negyedet: a lenyűgöző Kultúrpalotát, a csodálatos bazilikát és végül a tanulságos Sztygarka Múzeumot.",
         "ro": "Aventura cu mașina începe cu o minune naturală extraordinară, Deșertul Błędów. Petreceți dimineața explorând acest peisaj unic. Apoi, conduceți înapoi spre oraș pentru o incursiune în trecutul industrial la Mina de Instruire. La prânz, relaxați-vă pe malurile lacurilor Pogoria. După-amiaza, parcați în centrul orașului și explorați clusterul cultural pe jos: impozantul Palat al Culturii, splendida bazilică și, în final, revelatorul Muzeu Sztygarka.",
-        "en": "Your car adventure begins with an extraordinary natural wonder, the Błędów Desert. Spend the morning exploring this unique landscape. Then, drive back towards the city for a dive into the industrial past at the Training Mine. At lunchtime, relax by the shores of the Pogoria Lakes. In the afternoon, park in the city center and explore the cultural cluster on foot: the imposing Palace of Culture, the magnificent Basilica, and finally, the insightful Sztygarka Museum."
+        "en": "Your car adventure begins with an extraordinary natural wonder, the Błędów Desert. Spend the morning exploring this unique landscape. Then, drive back towards the city for a dive into the industrial past at the Training Mine. At lunchtime, relax by the shores of the Pogoria Lakes. In the afternoon, park in the city center and explore the cultural cluster on foot: the imposing Palace of Culture, the magnificent Basilica, and finally, the insightful Sztygarka Museum.",
+        "pl": "Twoja samochodowa przygoda zaczyna się od niezwykłego cudu natury, Pustyni Błędowskiej. Spędź poranek na eksploracji tego unikalnego krajobrazu. Następnie jedź z powrotem w stronę miasta, by zanurzyć się w przemysłowej przeszłości w Kopalni Treningowej. Na lunch odpocznij nad brzegami jezior Pogoria. Po południu zaparkuj w centrum i pieszo zwiedź kulturalny klaster: imponujący Pałac Kultury, wspaniałą Bazylikę i wreszcie wnikliwe Sztygarka Museum."
       },
       "gastro_picks": {
         "de": [
@@ -1199,6 +1274,12 @@
           "Parking in the city center may require a fee.",
           "Allow extra time for traffic, especially in the late afternoon.",
           "Use a navigation app to find the best routes between locations."
+        ],
+        "pl": [
+          "Zatankuj przed wyjazdem na pustynię.",
+          "Parkowanie w centrum miasta może być płatne.",
+          "Zarezerwuj dodatkowy czas na korki, zwłaszcza pod wieczór.",
+          "Użyj aplikacji nawigacyjnej, aby znaleźć najlepsze trasy między miejscami."
         ]
       },
       "variants": {
@@ -1207,7 +1288,8 @@
             "de": "Fahren Sie zur St.-Antonius-Kirche und betrachten Sie die Błędów-Wüste im Regen. Nach einem Blick auf den Pogoria-See wärmt ein Mittagessen. Der Nachmittag bietet Parkansichten und trockene Erkundungen im Kulturpalast und im Bergwerksstollen.",
             "hu": "Vezessen a Szent Antal-templomhoz, majd nézze meg a Błędów-sivatagot esőben. A Pogoria-tó után jól esik a meleg ebéd. Délután parki kilátások, majd száraz felfedezés a Kultúrpalotában és a bányajáratban.",
             "ro": "Conduceți la Biserica Sf. Anton, apoi vedeți Deșertul Błędów în ploaie. După Lacul Pogoria, un prânz cald este binevenit. După-amiaza aduce vederi din parc și explorări uscate în Palatul Culturii și în mina subterană.",
-            "en": "Drive to St. Anthony Church and see the Błędów Desert in the rain. After viewing Pogoria Lake, a warm lunch is welcome. The afternoon brings park views and dry explorations in the Palace of Culture and the underground mine."
+            "en": "Drive to St. Anthony Church and see the Błędów Desert in the rain. After viewing Pogoria Lake, a warm lunch is welcome. The afternoon brings park views and dry explorations in the Palace of Culture and the underground mine.",
+            "pl": "Jedź do kościoła św. Antoniego i zobacz Pustynię Błędowską w deszczu. Po obejrzeniu Jeziora Pogoria mile widziany jest gorący obiad. Popołudnie przynosi widoki parku i suche eksploracje w Pałacu Kultury oraz podziemnej kopalni."
           },
           "stops": [
             {
@@ -1216,7 +1298,8 @@
                 "de": "Parken Sie nah am Eingang.",
                 "hu": "Parkoljon közel a bejárathoz.",
                 "ro": "Parcați aproape de intrare.",
-                "en": "Park close to the entrance."
+                "en": "Park close to the entrance.",
+                "pl": "Parkuj blisko wejścia."
               }
             },
             {
@@ -1225,7 +1308,8 @@
                 "de": "Der Sand kann bei Regen schwer und matschig sein.",
                 "hu": "A homok esőben nehéz és sáros lehet.",
                 "ro": "Nisipul poate fi greu și noroios pe ploaie.",
-                "en": "The sand can be heavy and muddy in the rain."
+                "en": "The sand can be heavy and muddy in the rain.",
+                "pl": "Piasek może być ciężki i błotnisty podczas deszczu."
               }
             },
             {
@@ -1234,7 +1318,8 @@
                 "de": "Die Aussicht ist auch aus dem Auto schön.",
                 "hu": "A kilátás autóból is szép.",
                 "ro": "Priveliștea este frumoasă și din mașină.",
-                "en": "The view is beautiful from the car too."
+                "en": "The view is beautiful from the car too.",
+                "pl": "Widok z auta też jest piękny."
               }
             },
             {
@@ -1243,7 +1328,8 @@
                 "de": "Suchen Sie ein Restaurant mit überdachter Terrasse.",
                 "hu": "Keressen fedett teraszos éttermet.",
                 "ro": "Căutați un restaurant cu terasă acoperită.",
-                "en": "Look for a restaurant with a covered terrace."
+                "en": "Look for a restaurant with a covered terrace.",
+                "pl": "Szukaj restauracji z zadaszonym tarasem."
               }
             },
             {
@@ -1252,7 +1338,8 @@
                 "de": "Kurzer Spaziergang zwischen den Regenschauern.",
                 "hu": "Rövid séta az esőzések között.",
                 "ro": "Scurtă plimbare între aversele de ploaie.",
-                "en": "Short walk between rain showers."
+                "en": "Short walk between rain showers.",
+                "pl": "Krótki spacer między przelotnymi opadami deszczu."
               }
             },
             {
@@ -1261,7 +1348,8 @@
                 "de": "Trockene Kulturgeschichte im Zentrum.",
                 "hu": "Száraz kultúrtörténet a központban.",
                 "ro": "Istorie culturală uscată în centru.",
-                "en": "Dry cultural history in the center."
+                "en": "Dry cultural history in the center.",
+                "pl": "Sucha historia kultury w centrum."
               }
             },
             {
@@ -1270,7 +1358,8 @@
                 "de": "Perfekt für regnerische Nachmittage.",
                 "hu": "Tökéletes esős délutánokra.",
                 "ro": "Perfect pentru după-amiezi ploioase.",
-                "en": "Perfect for rainy afternoons."
+                "en": "Perfect for rainy afternoons.",
+                "pl": "Idealne na deszczowe popołudnia."
               }
             }
           ],
@@ -1302,6 +1391,13 @@
               "Take an umbrella for short walks.",
               "Check the opening hours of the mine in advance.",
               "A car offers perfect flexibility in changeable weather."
+            ],
+            "pl": [
+              "Jedź wolniej w czasie ulewy, szczególnie na dojazdach do pustyni.",
+              "Parkuj strategicznie blisko wejść.",
+              "Weź parasol na krótkie spacery.",
+              "Sprawdź godziny otwarcia kopalni wcześniej.",
+              "Samochód daje idealną elastyczność przy zmiennej pogodzie."
             ]
           }
         },
@@ -1310,7 +1406,8 @@
             "de": "Verschneite Fahrt zur Antoniuskirche und zur frostigen Błędów-Wüste. Der Pogoria-See glitzert im Eis, gefolgt von einem gemütlichen Essen. Nachmittags durch den weißen Zielona-Park ins warme Innere von Kulturpalast und Bergwerk.",
             "hu": "Havas út az Antal-templomhoz és a fagyos Błędów-sivataghoz. A Pogoria-tó jegesen csillog, utána egy hangulatos ebéd várja. Délután a fehér Zielona parkon át a Kultúrpalota és a bánya melegébe.",
             "ro": "Drum înzăpezit spre Biserica Anton și deșertul înghețat Błędów. Lacul Pogoria strălucește în gheață, urmat de un prânz confortabil. După-amiaza, prin parcul alb Zielona spre căldura Palatului Culturii și a minei.",
-            "en": "Snowy drive to St. Anthony Church and the frosty Błędów Desert. Pogoria Lake glitters in ice, followed by a cozy lunch. Afternoon through the white Zielona Park to the warmth of the Palace of Culture and the mine."
+            "en": "Snowy drive to St. Anthony Church and the frosty Błędów Desert. Pogoria Lake glitters in ice, followed by a cozy lunch. Afternoon through the white Zielona Park to the warmth of the Palace of Culture and the mine.",
+            "pl": "Śnieżna przejażdżka do kościoła św. Antoniego i mroźnej Pustyni Błędowskiej. Jezioro Pogoria lśni w lodzie, po czym zaprasza przytulny lunch. Po południu przez biały Park Zielona do ciepła Pałacu Kultury i kopalni."
           },
           "stops": [
             {
@@ -1319,7 +1416,8 @@
                 "de": "Die Hügelkirche kann windig sein.",
                 "hu": "A dombtetőn lévő templom szeles lehet.",
                 "ro": "Biserica de pe deal poate fi vântoasă.",
-                "en": "The hilltop church can be windy."
+                "en": "The hilltop church can be windy.",
+                "pl": "Kościół na wzgórzu może być wietrzny."
               }
             },
             {
@@ -1328,7 +1426,8 @@
                 "de": "Eine einzigartige Schneelandschaft erwartet Sie.",
                 "hu": "Egyedülálló havas táj várja Önt.",
                 "ro": "Un peisaj de zăpadă unic vă așteaptă.",
-                "en": "A unique snowy landscape awaits you."
+                "en": "A unique snowy landscape awaits you.",
+                "pl": "Czeka na ciebie wyjątkowy zimowy krajobraz."
               }
             },
             {
@@ -1337,7 +1436,8 @@
                 "de": "Der zugefrorene See bietet ein tolles Fotomotiv.",
                 "hu": "A befagyott tó remek fotótéma.",
                 "ro": "Lacul înghețat oferă un motiv foto excelent.",
-                "en": "The frozen lake offers a great photo opportunity."
+                "en": "The frozen lake offers a great photo opportunity.",
+                "pl": "Zamrożone jezioro to świetna okazja do zdjęć."
               }
             },
             {
@@ -1346,7 +1446,8 @@
                 "de": "Wärmen Sie sich mit Blick auf das Eis auf.",
                 "hu": "Melegedjen fel a jégre néző kilátással.",
                 "ro": "Încălziți-vă cu vedere la gheață.",
-                "en": "Warm up with a view of the ice."
+                "en": "Warm up with a view of the ice.",
+                "pl": "Rozgrzej się, podziwiając widok na lód."
               }
             },
             {
@@ -1355,7 +1456,8 @@
                 "de": "Vorsicht auf verschneiten Gehwegen.",
                 "hu": "Óvatosan a havas járdákon.",
                 "ro": "Atenție pe trotuarele înzăpezite.",
-                "en": "Be careful on snowy sidewalks."
+                "en": "Be careful on snowy sidewalks.",
+                "pl": "Uważaj na zaśnieżone chodniki."
               }
             },
             {
@@ -1364,7 +1466,8 @@
                 "de": "Ein warmer Kontrast zur Winterkälte.",
                 "hu": "Meleg kontraszt a téli hideghez.",
                 "ro": "Un contrast cald cu frigul iernii.",
-                "en": "A warm contrast to the winter cold."
+                "en": "A warm contrast to the winter cold.",
+                "pl": "Ciepły kontrast do zimowego chłodu."
               }
             },
             {
@@ -1373,7 +1476,8 @@
                 "de": "Konstant kühle, aber windgeschützte Umgebung.",
                 "hu": "Állandóan hűvös, de szélvédett környezet.",
                 "ro": "Mediu constant răcoros, dar ferit de vânt.",
-                "en": "Constantly cool, but wind-protected environment."
+                "en": "Constantly cool, but wind-protected environment.",
+                "pl": "Stale chłodne, ale osłonięte od wiatru środowisko."
               }
             }
           ],
@@ -1405,6 +1509,13 @@
               "The roads to the Błędów Desert can be slippery.",
               "Pack a warm blanket for emergencies.",
               "Be aware of the early darkness for the drive back."
+            ],
+            "pl": [
+              "Opony zimowe są w tym sezonie zdecydowanie zalecane w Polsce.",
+              "Oczyść samochód dokładnie ze śniegu przed jazdą.",
+              "Drogi prowadzące na Pustynię Błędowską mogą być śliskie.",
+              "Spakuj ciepły koc na wypadek awarii.",
+              "Weź pod uwagę wczesne zapadanie zmroku przy powrocie."
             ]
           }
         }
@@ -1423,7 +1534,8 @@
             "de": "Pałac Kultury Zagłębia",
             "hu": "Zagłębie Kultúrpalota",
             "ro": "Palatul Culturii din Zagłębie",
-            "en": "Zagłębie Palace of Culture"
+            "en": "Zagłębie Palace of Culture",
+            "pl": "Zagłębie Palace of Culture"
           },
           "coords": [
             50.3225,
@@ -1438,7 +1550,8 @@
             "de": "Der Hauptbusbahnhof ist in der Nähe, was dies zu einem idealen Ausgangspunkt macht.",
             "hu": "A fő buszpályaudvar a közelben van, így ez ideális kiindulópont.",
             "ro": "Autogara principală este în apropiere, ceea ce face din acest loc un punct de plecare ideal.",
-            "en": "The main bus terminal is nearby, making this an ideal starting point."
+            "en": "The main bus terminal is nearby, making this an ideal starting point.",
+            "pl": "W pobliżu znajduje się główny dworzec autobusowy, co czyni to idealnym punktem startowym."
           }
         },
         {
@@ -1446,7 +1559,8 @@
             "de": "Bazylika NMP Anielskiej",
             "hu": "Angyalos Szűz Mária Bazilika",
             "ro": "Bazilica Sfânta Maria a Îngerilor",
-            "en": "Basilica of Our Lady of the Angels"
+            "en": "Basilica of Our Lady of the Angels",
+            "pl": "Basilica of Our Lady of the Angels"
           },
           "coords": [
             50.3251,
@@ -1461,7 +1575,8 @@
             "de": "Ein kurzer Spaziergang vom Kulturpalast. Genießen Sie diesen Teil des Zentrums zu Fuß.",
             "hu": "Rövid séta a Kultúrpalotától. Élvezze a központ ezen részét gyalog.",
             "ro": "O scurtă plimbare de la Palatul Culturii. Bucurați-vă de această parte a centrului pe jos.",
-            "en": "A short walk from the Palace of Culture. Enjoy this part of the center on foot."
+            "en": "A short walk from the Palace of Culture. Enjoy this part of the center on foot.",
+            "pl": "Krótki spacer od Pałacu Kultury. Ciesz się tą częścią centrum pieszo."
           }
         },
         {
@@ -1469,7 +1584,8 @@
             "de": "Muzeum Sztygarka",
             "hu": "Sztygarka Múzeum",
             "ro": "Muzeul Sztygarka",
-            "en": "Sztygarka Museum"
+            "en": "Sztygarka Museum",
+            "pl": "Sztygarka Museum"
           },
           "coords": [
             50.3288,
@@ -1484,7 +1600,8 @@
             "de": "Mehrere Buslinien halten in der Nähe. Überprüfen Sie die beste Verbindung vom Stadtzentrum.",
             "hu": "Több buszjárat is megáll a közelben. Ellenőrizze a legjobb összeköttetést a városközpontból.",
             "ro": "Mai multe linii de autobuz opresc în apropiere. Verificați cea mai bună legătură din centrul orașului.",
-            "en": "Several bus lines stop nearby. Check for the best connection from the city center."
+            "en": "Several bus lines stop nearby. Check for the best connection from the city center.",
+            "pl": "Kilka linii autobusowych zatrzymuje się w pobliżu. Sprawdź najlepsze połączenie z centrum miasta."
           }
         },
         {
@@ -1492,7 +1609,8 @@
             "de": "Park Zielona",
             "hu": "Zielona Park",
             "ro": "Parcul Zielona",
-            "en": "Zielona Park"
+            "en": "Zielona Park",
+            "pl": "Zielona Park"
           },
           "coords": [
             50.3164,
@@ -1507,7 +1625,8 @@
             "de": "Ein idealer Ort für eine Mittagspause. Es gibt Busverbindungen zurück ins Zentrum oder zu den Seen.",
             "hu": "Ideális hely egy ebédszünetre. Vannak buszjáratok vissza a központba vagy a tavakhoz.",
             "ro": "Un loc ideal pentru o pauză de prânz. Există legături de autobuz înapoi spre centru sau spre lacuri.",
-            "en": "An ideal place for a lunch break. There are bus connections back to the center or to the lakes."
+            "en": "An ideal place for a lunch break. There are bus connections back to the center or to the lakes.",
+            "pl": "Idealne miejsce na przerwę na lunch. Są połączenia autobusowe do centrum lub nad jeziora."
           }
         },
         {
@@ -1515,7 +1634,8 @@
             "de": "Pogoria-Seen (Pogoria III)",
             "hu": "Pogoria-tavak (Pogoria III)",
             "ro": "Lacurile Pogoria (Pogoria III)",
-            "en": "Pogoria Lakes (Pogoria III)"
+            "en": "Pogoria Lakes (Pogoria III)",
+            "pl": "Jeziora Pogoria (Pogoria III)"
           },
           "coords": [
             50.3411,
@@ -1530,7 +1650,8 @@
             "de": "Der letzte Ausflug des Tages. Stellen Sie sicher, dass Sie den Fahrplan für den letzten Bus zurück kennen.",
             "hu": "A nap utolsó kirándulása. Győződjön meg róla, hogy ismeri az utolsó busz menetrendjét visszafelé.",
             "ro": "Ultima excursie a zilei. Asigurați-vă că știți programul ultimului autobuz de întoarcere.",
-            "en": "The last trip of the day. Make sure you know the schedule for the last bus back."
+            "en": "The last trip of the day. Make sure you know the schedule for the last bus back.",
+            "pl": "Ostatni kurs dnia. Upewnij się, że znasz rozkład ostatniego autobusu powrotnego."
           }
         }
       ],
@@ -1538,7 +1659,8 @@
         "de": "Beginnen Sie Ihren Tag im Stadtzentrum, wo Sie den Kulturpalast und die Basilika bequem zu Fuß erreichen können. Nehmen Sie dann einen Bus zum Sztygarka-Museum und tauchen Sie in die lokale Geschichte ein. Am frühen Nachmittag bringt Sie ein weiterer kurzer Bus in den grünen Zielona-Park, ideal für eine Pause. Die letzte Etappe ist eine längere Busfahrt zu den beliebten Pogoria-Seen, wo Sie den Rest des Nachmittags mit Spaziergängen am Wasser und Entspannung verbringen können, bevor Sie den Bus zurück ins Zentrum nehmen.",
         "hu": "Kezdje a napot a városközpontban, ahol a Kultúrpalota és a bazilika gyalogosan is könnyen elérhető. Ezután buszozzon el a Sztygarka Múzeumba, és merüljön el a helyi történelemben. Kora délután egy másik rövid buszozás elviszi a zöld Zielona Parkba, amely ideális egy pihenőre. Az utolsó szakasz egy hosszabb buszút a népszerű Pogoria-tavakhoz, ahol a délután hátralévő részét vízparti sétákkal és pihenéssel töltheti, mielőtt visszabuszozna a központba.",
         "ro": "Începeți ziua în centrul orașului, unde Palatul Culturii și Bazilica sunt ușor accesibile pe jos. Apoi, luați un autobuz spre Muzeul Sztygarka pentru o incursiune în istoria locală. La începutul după-amiezii, o altă scurtă călătorie cu autobuzul vă va duce la Parcul verde Zielona, ideal pentru o pauză. Ultima etapă este o călătorie mai lungă cu autobuzul până la popularele lacuri Pogoria, unde vă puteți petrece restul după-amiezii plimbându-vă pe malul apei și relaxându-vă înainte de a lua autobuzul înapoi spre centru.",
-        "en": "Start your day in the city center, where the Palace of Culture and the Basilica are within easy walking distance. Then, take a bus to the Sztygarka Museum for a dive into local history. In the early afternoon, another short bus ride will take you to the green Zielona Park, ideal for a break. The final leg is a longer bus journey to the popular Pogoria Lakes, where you can spend the rest of the afternoon strolling by the water and relaxing before catching the bus back to the center."
+        "en": "Start your day in the city center, where the Palace of Culture and the Basilica are within easy walking distance. Then, take a bus to the Sztygarka Museum for a dive into local history. In the early afternoon, another short bus ride will take you to the green Zielona Park, ideal for a break. The final leg is a longer bus journey to the popular Pogoria Lakes, where you can spend the rest of the afternoon strolling by the water and relaxing before catching the bus back to the center.",
+        "pl": "Rozpocznij dzień w centrum miasta, gdzie Pałac Kultury i bazylika znajdują się w zasięgu krótkiego spaceru. Następnie pojedź autobusem do Muzeum Sztygarka, by poznać lokalną historię. Wczesnym popołudniem kolejna krótka podróż autobusem zaprowadzi cię do zielonego parku Zielona, idealnego na przerwę. Ostatni etap to dłuższy przejazd do popularnych Jezior Pogoria, gdzie możesz spędzić resztę popołudnia spacerując nad wodą i odpoczywając przed powrotem autobusem do centrum."
       },
       "gastro_picks": {
         "de": [
@@ -1734,6 +1856,12 @@
           "Download an offline map of the city and bus routes.",
           "Check schedules in advance, especially for the last bus back.",
           "Keep small change ready for tickets if buying directly from the driver."
+        ],
+        "pl": [
+          "Kup całodniowy bilet komunikacji miejskiej, aby zaoszczędzić.",
+          "Pobierz offline mapę miasta i tras autobusowych.",
+          "Sprawdź rozkłady z wyprzedzeniem, szczególnie ostatniego autobusu powrotnego.",
+          "Miej przygotowaną drobną gotówkę na bilety, jeśli kupujesz je u kierowcy."
         ]
       }
     }

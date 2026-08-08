@@ -21,7 +21,8 @@
             "de": "Rynek und Rathaus",
             "hu": "Piactér és Városháza",
             "ro": "Piața Centrală și Primăria",
-            "en": "Market Square and Town Hall"
+            "en": "Market Square and Town Hall",
+            "pl": "Rynek i ratusz"
           },
           "coords": [
             16.2831,
@@ -37,7 +38,8 @@
             "de": "Bewundern Sie die farbenfrohen Bürgerhäuser und die Architektur des Rathauses.",
             "hu": "Csodálja meg a színes polgárházakat és a Városháza építészetét.",
             "ro": "Admirați casele burgheze colorate și arhitectura primăriei.",
-            "en": "Admire the colorful tenement houses and the architecture of the Town Hall."
+            "en": "Admire the colorful tenement houses and the architecture of the Town Hall.",
+            "pl": "Podziwiaj kolorowe kamienice i architekturę ratusza."
           }
         },
         {
@@ -45,7 +47,8 @@
             "de": "Porzellanmuseum",
             "hu": "Porcelánmúzeum",
             "ro": "Muzeul Porțelanului",
-            "en": "Porcelain Museum"
+            "en": "Porcelain Museum",
+            "pl": "Muzeum Porcelany"
           },
           "coords": [
             16.2815,
@@ -61,7 +64,8 @@
             "de": "Die Sammlung schlesischen Porzellans ist von Weltrang.",
             "hu": "A sziléziai porcelángyűjtemény világszínvonalú.",
             "ro": "Colecția de porțelan silezian este de talie mondială.",
-            "en": "The collection of Silesian porcelain is world-class."
+            "en": "The collection of Silesian porcelain is world-class.",
+            "pl": "Zbiór śląskiej porcelany jest światowej klasy."
           }
         },
         {
@@ -69,7 +73,8 @@
             "de": "Mittagessen in der Altstadt",
             "hu": "Ebéd az Óvárosban",
             "ro": "Prânz în Centrul Vechi",
-            "en": "Lunch in the Old Town"
+            "en": "Lunch in the Old Town",
+            "pl": "Lunch na Starym Mieście"
           },
           "coords": [
             16.284,
@@ -85,7 +90,8 @@
             "de": "Probieren Sie Pierogi oder Żurek in einem der traditionellen Restaurants.",
             "hu": "Kóstoljon pierogit vagy żureket egy hagyományos étteremben.",
             "ro": "Încercați pierogi sau żurek la unul dintre restaurantele tradiționale.",
-            "en": "Try pierogi or żurek soup in one of the traditional restaurants."
+            "en": "Try pierogi or żurek soup in one of the traditional restaurants.",
+            "pl": "Spróbuj pierogów lub żurku w jednej z tradycyjnych restauracji."
           }
         },
         {
@@ -93,7 +99,8 @@
             "de": "Alte Grube",
             "hu": "Stara Kopalnia (Régi Bánya)",
             "ro": "Stara Kopalnia (Mina Veche)",
-            "en": "Old Mine Science and Art Centre"
+            "en": "Old Mine Science and Art Centre",
+            "pl": "Centrum Nauki i Sztuki Stara Kopalnia"
           },
           "coords": [
             16.265,
@@ -109,7 +116,8 @@
             "de": "Nehmen Sie an einer Führung teil, um die unterirdischen Stollen zu erkunden.",
             "hu": "Vegyen részt egy vezetett túrán a földalatti tárnák felfedezéséhez.",
             "ro": "Participați la un tur ghidat pentru a explora galeriile subterane.",
-            "en": "Take a guided tour to explore the underground tunnels."
+            "en": "Take a guided tour to explore the underground tunnels.",
+            "pl": "Weź udział w zwiedzaniu z przewodnikiem, aby poznać podziemne korytarze."
           }
         },
         {
@@ -117,7 +125,8 @@
             "de": "Rusinowa-Park",
             "hu": "Rusinowa Park",
             "ro": "Parcul Rusinowa",
-            "en": "Rusinowa Park"
+            "en": "Rusinowa Park",
+            "pl": "Park Rusinowa"
           },
           "coords": [
             16.305,
@@ -133,7 +142,8 @@
             "de": "Ein entspannender Spaziergang zum Abschluss des Tages.",
             "hu": "Egy pihentető séta a nap lezárásaként.",
             "ro": "O plimbare relaxantă pentru a încheia ziua.",
-            "en": "A relaxing walk to end the day."
+            "en": "A relaxing walk to end the day.",
+            "pl": "Relaksujący spacer na zakończenie dnia."
           }
         }
       ],
@@ -141,7 +151,8 @@
         "de": "Beginnen Sie Ihren Tag auf dem pulsierenden Marktplatz, umgeben von historischer Architektur. Nach einer Dosis Kultur im Porzellanmuseum führt Sie ein Spaziergang zum industriellen Herzen der Stadt, der Alten Grube. Der Nachmittag steht im Zeichen der Entspannung im Rusinowa-Park, wo Sie die Eindrücke des Tages verarbeiten können. Ein perfekter Ausklang in einem Café rundet Ihr Wałbrzych-Erlebnis ab.",
         "hu": "Kezdje a napot a nyüzsgő piactéren, történelmi épületekkel körülvéve. A Porcelánmúzeumban szerzett kulturális élmény után egy séta a város ipari szívébe, a Régi Bányába vezet. A délután a Rusinowa Parkban a pihenésé, ahol feldolgozhatja a nap élményeit. Egy tökéletes befejezés egy kávézóban teszi teljessé a wałbrzychi kalandot.",
         "ro": "Începeți ziua în piața vibrantă, înconjurat de arhitectură istorică. După o doză de cultură la Muzeul Porțelanului, o plimbare vă va duce la inima industrială a orașului, Mina Veche. După-amiaza este dedicată relaxării în Parcul Rusinowa, unde puteți procesa impresiile zilei. O încheiere perfectă la o cafenea completează experiența dumneavoastră în Wałbrzych.",
-        "en": "Start your day in the vibrant market square, surrounded by historic architecture. After a dose of culture at the Porcelain Museum, a walk takes you to the industrial heart of the city, the Old Mine. The afternoon is for relaxation in Rusinowa Park, where you can process the day's impressions. A perfect finish in a café completes your Wałbrzych experience."
+        "en": "Start your day in the vibrant market square, surrounded by historic architecture. After a dose of culture at the Porcelain Museum, a walk takes you to the industrial heart of the city, the Old Mine. The afternoon is for relaxation in Rusinowa Park, where you can process the day's impressions. A perfect finish in a café completes your Wałbrzych experience.",
+        "pl": "Rozpocznij dzień na tętniącym życiem rynku, otoczonym zabytkową architekturą. Po dawce kultury w Muzeum Porcelany spacer zaprowadzi cię do przemysłowego serca miasta, Starej Kopalni. Popołudnie przeznaczone jest na relaks w Parku Rusinowa, gdzie możesz przetworzyć wrażenia z dnia. Idealne zakończenie to kawiarnia, która dopełni doświadczenie Wałbrzycha."
       },
       "gastro_picks": {
         "de": [
@@ -317,6 +328,12 @@
           "Most central sights are easily accessible on foot.",
           "Check museum opening hours in advance.",
           "A walk to the Old Mine is a great way to see more of the city."
+        ],
+        "pl": [
+          "Noś wygodne buty, centrum miasta jest pagórkowate.",
+          "Większość centralnych atrakcji jest łatwo dostępna pieszo.",
+          "Sprawdź godziny otwarcia muzeów z wyprzedzeniem.",
+          "Spacer do Starej Kopalni to świetny sposób, by zobaczyć więcej miasta."
         ]
       },
       "variants": {
@@ -325,7 +342,8 @@
             "en": "Begin your rainy day under an umbrella at the Market Square, admiring the historic facades before sheltering in the Neo-Gothic Town Hall.\n\nEscape the midday showers at the extensive Porcelain Museum, followed by a cozy, warm lunch in a nearby traditional restaurant.\n\nSpend a dry afternoon exploring the vast indoor exhibitions of the Old Mine Center, discovering the region's industrial past.\n\nEnd the day with a quiet moment in the Guardian Angels Church and a brief, misty walk through Rusinowa Park.",
             "de": "Beginnen Sie Ihren Regentag unter einem Regenschirm am Marktplatz und bewundern Sie die historischen Fassaden, bevor Sie im neugotischen Rathaus Schutz suchen.\n\nEntfliehen Sie den Mittagsschauern im weitläufigen Porzellanmuseum, gefolgt von einem gemütlichen, warmen Mittagessen in einem nahegelegenen traditionellen Restaurant.\n\nVerbringen Sie einen trockenen Nachmittag mit den riesigen Innenausstellungen des Alten Bergwerks.\n\nBeenden Sie den Tag in der Schutzengelkirche und mit einem kurzen, nebligen Spaziergang durch den Rusinowa-Park.",
             "hu": "Kezdődjön az esős nap egy esernyő alatt a Piactéren, megcsodálva a történelmi homlokzatokat, mielőtt a neogótikus Városházán keresnél menedéket.\n\nA déli záporok elől menekülj a tágas Porcelánmúzeumba, majd fogyassz el egy meleg ebédet egy hagyományos étteremben.\n\nTölts el egy száraz délutánt az Öreg Bánya hatalmas beltéri kiállításain.\n\nA napot a Őrangyalok templomának csendjében és a Rusinowa park ködös sétányain zárd.",
-            "ro": "Începeți ziua ploioasă sub o umbrelă în Piața Centrală, admirând fațadele istorice, înainte de a vă adăposti în Primăria neogotică.\n\nScăpați de aversele de la prânz în vastul Muzeu al Porțelanului, urmat de un prânz cald într-un restaurant tradițional.\n\nPetreceți o după-amiază uscată explorând marile expoziții interioare ale Vechii Mine.\n\nÎncheiați ziua cu un moment de liniște în Biserica Sfinților Îngeri Păzitori și o scurtă plimbare prin Parcul Rusinowa cețos."
+            "ro": "Începeți ziua ploioasă sub o umbrelă în Piața Centrală, admirând fațadele istorice, înainte de a vă adăposti în Primăria neogotică.\n\nScăpați de aversele de la prânz în vastul Muzeu al Porțelanului, urmat de un prânz cald într-un restaurant tradițional.\n\nPetreceți o după-amiază uscată explorând marile expoziții interioare ale Vechii Mine.\n\nÎncheiați ziua cu un moment de liniște în Biserica Sfinților Îngeri Păzitori și o scurtă plimbare prin Parcul Rusinowa cețos.",
+            "pl": "Rozpocznij deszczowy dzień pod parasolem na Rynku, podziwiając zabytkowe fasady, zanim schronisz się w neogotyckim ratuszu.\n\nUcieknij przed popołudniowymi przelotnymi opadami w rozległym Muzeum Porcelany, a potem zjedz przytulny, ciepły obiad w pobliskiej tradycyjnej restauracji.\n\nSpędź suchsze popołudnie, zwiedzając rozległe wystawy wewnętrzne Starej Kopalni, poznając przemysłową przeszłość regionu.\n\nZakończ dzień chwilą ciszy w kościele Aniołów Stróżów i krótkim, mglistym spacerem przez Park Rusinowa."
           },
           "stops": [
             {
@@ -334,7 +352,8 @@
                 "en": "Use an umbrella; cobblestones are slippery.",
                 "de": "Regenschirm nutzen; Kopfsteinpflaster ist rutschig.",
                 "hu": "Használj esernyőt; a macskakövek csúsznak.",
-                "ro": "Folosiți o umbrelă; piatra cubică alunecă."
+                "ro": "Folosiți o umbrelă; piatra cubică alunecă.",
+                "pl": "Użyj parasola; bruk może być śliski."
               }
             },
             {
@@ -343,7 +362,8 @@
                 "en": "Admire from under the nearby arcades.",
                 "de": "Von den nahegelegenen Arkaden aus bewundern.",
                 "hu": "Csodáld meg a közeli árkádok alól.",
-                "ro": "Admirați de sub arcadele din apropiere."
+                "ro": "Admirați de sub arcadele din apropiere.",
+                "pl": "Podziwiaj pod pobliskimi arkadami."
               }
             },
             {
@@ -352,7 +372,8 @@
                 "en": "Great indoor escape; leave wet coats at the cloakroom.",
                 "de": "Guter Regenschutz; nasse Mäntel an der Garderobe lassen.",
                 "hu": "Kiváló beltéri menedék; hagyd a kabátod a ruhatárban.",
-                "ro": "Refugiu interior excelent; lăsați hainele ude la garderobă."
+                "ro": "Refugiu interior excelent; lăsați hainele ude la garderobă.",
+                "pl": "Świetna opcja na uniknięcie deszczu; zostaw mokre płaszcze w szatni."
               }
             },
             {
@@ -361,7 +382,8 @@
                 "en": "Try hot Zurek soup to warm up.",
                 "de": "Probieren Sie heiße Zurek-Suppe zum Aufwärmen.",
                 "hu": "Kóstold meg a forró Zurek levest, hogy felmelegedj.",
-                "ro": "Încercați supa caldă Zurek pentru a vă încălzi."
+                "ro": "Încercați supa caldă Zurek pentru a vă încălzi.",
+                "pl": "Spróbuj gorącego żurku, by się rozgrzać."
               }
             },
             {
@@ -370,7 +392,8 @@
                 "en": "Mostly covered, but wear waterproof shoes.",
                 "de": "Meist überdacht, aber wasserdichte Schuhe tragen.",
                 "hu": "Nagyrészt fedett, de viselj vízálló cipőt.",
-                "ro": "În mare parte acoperit, purtați încălțăminte impermeabilă."
+                "ro": "În mare parte acoperit, purtați încălțăminte impermeabilă.",
+                "pl": "W większości zadaszone, ale noś wodoodporne buty."
               }
             },
             {
@@ -379,7 +402,8 @@
                 "en": "A quiet, dry spot to take a quick break.",
                 "de": "Ein ruhiger, trockener Ort für eine Pause.",
                 "hu": "Csendes, száraz hely egy rövid pihenőre.",
-                "ro": "Un loc liniștit și uscat pentru o pauză scurtă."
+                "ro": "Un loc liniștit și uscat pentru o pauză scurtă.",
+                "pl": "Ciche, suche miejsce na krótką przerwę."
               }
             },
             {
@@ -388,7 +412,8 @@
                 "en": "Paths get muddy; stay on paved sections.",
                 "de": "Wege werden schlammig; auf gepflasterten Wegen bleiben.",
                 "hu": "Az ösvények sarasak lehetnek; maradj a burkolt részeken.",
-                "ro": "Cărările devin noroioase; rămâneți pe zonele pavate."
+                "ro": "Cărările devin noroioase; rămâneți pe zonele pavate.",
+                "pl": "Ścieżki robią się błotniste; pozostań na utwardzonych odcinkach."
               }
             }
           ],
@@ -416,6 +441,12 @@
               "Piatra cubică din centru devine alunecoasă când este udă.",
               "Vechea Mină are multe zone acoperite.",
               "Încălziți-vă cu o supă locală fierbinte la prânz."
+            ],
+            "pl": [
+              "Weź solidny parasol przeciwko wiatrowi.",
+              "Bruk w centrum robi się śliski po deszczu.",
+              "Stara Kopalnia ma duże wnętrza, gdzie można pozostać suchym.",
+              "Zjedz gorącą, lokalną zupę na lunch, by się rozgrzać."
             ]
           }
         },
@@ -424,7 +455,8 @@
             "en": "Bundle up for a crisp winter morning at the snowy Market Square and the striking Neo-Gothic Town Hall.\n\nWarm your hands at the Porcelain Museum, diving into local history, before enjoying a hearty, traditional Polish lunch to refuel.\n\nThe Old Mine Center is perfectly atmospheric on a winter afternoon, though be prepared for chilly drafts in the underground sections.\n\nAs the early evening sets in, admire the illuminated Guardian Angels Church and the peaceful, frost-covered trees of Rusinowa Park.",
             "de": "Packen Sie sich warm ein für einen frostigen Wintermorgen am verschneiten Marktplatz und dem markanten neugotischen Rathaus.\n\nWärmen Sie Ihre Hände im Porzellanmuseum auf, bevor Sie ein herzhaftes, traditionelles polnisches Mittagessen genießen.\n\nDas Alte Bergwerk ist an einem Winternachmittag besonders stimmungsvoll, achten Sie jedoch auf kühle Zugluft in den Tunneln.\n\nBewundern Sie am frühen Abend die beleuchtete Schutzengelkirche und die friedlichen, frostigen Bäume des Rusinowa-Parks.",
             "hu": "Öltözz melegen egy csípős téli reggelhez a havas Piactéren és a lenyűgöző neogótikus Városházánál.\n\nMelegítsd fel a kezeid a Porcelánmúzeumban, majd élvezz egy kiadós, hagyományos lengyel ebédet.\n\nAz Öreg Bánya téli délutánokon különösen hangulatos, bár a földalatti részeken hűvös huzatra kell számítani.\n\nKora este csodáld meg a kivilágított Őrangyalok templomát és a Rusinowa park békés, zúzmarás fáit.",
-            "ro": "Îmbrăcați-vă gros pentru o dimineață geroasă în Piața Centrală înzăpezită și impresionanta Primărie neogotică.\n\nÎncălziți-vă mâinile la Muzeul Porțelanului, apoi savurați un prânz polonez tradițional, foarte consistent.\n\nVechea Mină are o atmosferă deosebită într-o după-amiază de iarnă, deși secțiunile subterane pot fi reci.\n\nSeara devreme, admirați Biserica Sfinților Îngeri Păzitori iluminată și copacii înghețați din Parcul Rusinowa."
+            "ro": "Îmbrăcați-vă gros pentru o dimineață geroasă în Piața Centrală înzăpezită și impresionanta Primărie neogotică.\n\nÎncălziți-vă mâinile la Muzeul Porțelanului, apoi savurați un prânz polonez tradițional, foarte consistent.\n\nVechea Mină are o atmosferă deosebită într-o după-amiază de iarnă, deși secțiunile subterane pot fi reci.\n\nSeara devreme, admirați Biserica Sfinților Îngeri Păzitori iluminată și copacii înghețați din Parcul Rusinowa.",
+            "pl": "Ubierz się ciepło na rześkie zimowe poranki na zaśnieżonym Rynku i przy imponującym neogotyckim ratuszu.\n\nRozgrzej dłonie w Muzeum Porcelany, zgłębiając lokalną historię, po czym zjedz pożywny, tradycyjny polski obiad, by odzyskać siły.\n\nCentrum Stara Kopalnia ma wyjątkowy nastrój zimowym popołudniem, choć przygotuj się na chłodne podmuchy w podziemnych częściach.\n\nWczesnym wieczorem podziwiaj oświetlony kościół Aniołów Stróżów i spokojne, oszronione drzewa w Parku Rusinowa."
           },
           "stops": [
             {
@@ -433,7 +465,8 @@
                 "en": "Beautiful in snow; dress in warm layers.",
                 "de": "Wunderschön im Schnee; warm anziehen.",
                 "hu": "Gyönyörű a hóban; öltözz rétegesen.",
-                "ro": "Frumos în zăpadă; îmbrăcați-vă gros."
+                "ro": "Frumos în zăpadă; îmbrăcați-vă gros.",
+                "pl": "Pięknie w śniegu; ubierz się w ciepłe warstwy."
               }
             },
             {
@@ -442,7 +475,8 @@
                 "en": "Watch out for icy patches near the entrance.",
                 "de": "Achten Sie auf vereiste Stellen am Eingang.",
                 "hu": "Vigyázz a jeges foltokra a bejáratnál.",
-                "ro": "Atenție la porțiunile de gheață de la intrare."
+                "ro": "Atenție la porțiunile de gheață de la intrare.",
+                "pl": "Uważaj na oblodzone miejsca przy wejściu."
               }
             },
             {
@@ -451,7 +485,8 @@
                 "en": "Perfect heated spot to defrost your hands.",
                 "de": "Perfekter beheizter Ort zum Aufwärmen.",
                 "hu": "Tökéletes, fűtött hely a kezeid felmelegítésére.",
-                "ro": "Loc încălzit perfect pentru a vă dezgheța mâinile."
+                "ro": "Loc încălzit perfect pentru a vă dezgheța mâinile.",
+                "pl": "Idealne ogrzewane miejsce, by rozmrozić dłonie."
               }
             },
             {
@@ -460,7 +495,8 @@
                 "en": "Enjoy a hearty pierogi dish for winter energy.",
                 "de": "Genießen Sie herzhafte Piroggen für Winterenergie.",
                 "hu": "Egyél kiadós pierogit, ami energiát ad télen.",
-                "ro": "Savurați colțunași pierogi pentru energie."
+                "ro": "Savurați colțunași pierogi pentru energie.",
+                "pl": "Zjedz sycące pierogi dla zimowej energii."
               }
             },
             {
@@ -469,7 +505,8 @@
                 "en": "Underground tunnels can be drafty and cold.",
                 "de": "Unterirdische Tunnel können zugig und kalt sein.",
                 "hu": "A földalatti alagutak huzatosak és hidegek lehetnek.",
-                "ro": "Tunelurile subterane pot fi reci și cu curenți."
+                "ro": "Tunelurile subterane pot fi reci și cu curenți.",
+                "pl": "Podziemne tunelę mogą być przewiewne i zimne."
               }
             },
             {
@@ -478,7 +515,8 @@
                 "en": "Stunningly lit during the early winter evenings.",
                 "de": "An frühen Winterabenden wunderschön beleuchtet.",
                 "hu": "Kora téli estéken gyönyörűen ki van világítva.",
-                "ro": "Superb iluminată în serile de iarnă."
+                "ro": "Superb iluminată în serile de iarnă.",
+                "pl": "Pięknie oświetlony wczesnymi zimowymi wieczorami."
               }
             },
             {
@@ -487,7 +525,8 @@
                 "en": "Paths are slippery; wear boots with good grip.",
                 "de": "Wege sind rutschig; Schuhe mit gutem Profil tragen.",
                 "hu": "Az ösvények csúszósak; viselj jó tapadású csizmát.",
-                "ro": "Cărările sunt alunecoase; purtați cizme cu aderență."
+                "ro": "Cărările sunt alunecoase; purtați cizme cu aderență.",
+                "pl": "Ścieżki są śliskie; noś buty z dobrą przyczepnością."
               }
             }
           ],
@@ -515,6 +554,12 @@
               "Apusul este în jur de 16:00, începeți turul devreme.",
               "Cărările din Parcul Rusinowa pot fi foarte înghețate.",
               "Faceți pauze frecvente în cafenelele din jurul Pieței."
+            ],
+            "pl": [
+              "Ubierz się w ciepłe warstwy, bo temperatura często spada poniżej zera.",
+              "Zachód słońca około 16:00, więc zacznij wycieczkę pieszą wcześniej.",
+              "Ścieżki w Parku Rusinowa mogą być bardzo oblodzone.",
+              "Rób częste przerwy w ogrzewanych kawiarniach wokół Rynku."
             ]
           }
         }
@@ -533,7 +578,8 @@
             "de": "Start am Rynek",
             "hu": "Indulás a Piactérről",
             "ro": "Pornire din Piața Centrală",
-            "en": "Start at the Market Square"
+            "en": "Start at the Market Square",
+            "pl": "Zacznij od Rynku"
           },
           "coords": [
             16.2833,
@@ -549,7 +595,8 @@
             "de": "Mieten Sie ein Fahrrad in der Nähe oder bringen Sie Ihr eigenes mit.",
             "hu": "Béreljen kerékpárt a közelben, vagy hozza a sajátját.",
             "ro": "Închiriați o bicicletă din apropiere sau aduceți-vă propria.",
-            "en": "Rent a bike nearby or bring your own."
+            "en": "Rent a bike nearby or bring your own.",
+            "pl": "Wypożycz rower w pobliżu lub przywieź własny."
           }
         },
         {
@@ -557,7 +604,8 @@
             "de": "Alte Grube",
             "hu": "Stara Kopalnia (Régi Bánya)",
             "ro": "Stara Kopalnia (Mina Veche)",
-            "en": "Old Mine Science and Art Centre"
+            "en": "Old Mine Science and Art Centre",
+            "pl": "Centrum Nauki i Sztuki Stara Kopalnia"
           },
           "coords": [
             16.265,
@@ -573,7 +621,8 @@
             "de": "Ein faszinierender Einblick in die Bergbaugeschichte der Region.",
             "hu": "Lenyűgöző betekintés a régió bányásztörténetébe.",
             "ro": "O perspectivă fascinantă asupra istoriei miniere a regiunii.",
-            "en": "A fascinating insight into the region's mining history."
+            "en": "A fascinating insight into the region's mining history.",
+            "pl": "Fascynujący wgląd w górniczą historię regionu."
           }
         },
         {
@@ -581,7 +630,8 @@
             "de": "Mittagspause",
             "hu": "Ebédszünet",
             "ro": "Pauză de prânz",
-            "en": "Lunch Break"
+            "en": "Lunch Break",
+            "pl": "Przerwa na lunch"
           },
           "coords": [
             16.27,
@@ -597,7 +647,8 @@
             "de": "Stärken Sie sich in einem Restaurant in der Nähe der Alten Grube.",
             "hu": "Erősödjön meg egy étteremben a Régi Bánya közelében.",
             "ro": "Luați o gustare la un restaurant de lângă Mina Veche.",
-            "en": "Refuel at a restaurant near the Old Mine."
+            "en": "Refuel at a restaurant near the Old Mine.",
+            "pl": "Zregeneruj siły w restauracji w pobliżu Starej Kopalni."
           }
         },
         {
@@ -605,7 +656,8 @@
             "de": "Palmenhaus",
             "hu": "Palmiarnia (Pálmaház)",
             "ro": "Palmiarnia (Sera de Palimeri)",
-            "en": "Palm House"
+            "en": "Palm House",
+            "pl": "Palmiarnia"
           },
           "coords": [
             16.295,
@@ -621,7 +673,8 @@
             "de": "Eine exotische Oase mit Pflanzen aus aller Welt. Der Weg dorthin ist hügelig.",
             "hu": "Egzotikus oázis a világ minden tájáról származó növényekkel. Az út hegyes.",
             "ro": "O oază exotică cu plante din întreaga lume. Drumul până acolo este deluros.",
-            "en": "An exotic oasis with plants from all over the world. The ride there is hilly."
+            "en": "An exotic oasis with plants from all over the world. The ride there is hilly.",
+            "pl": "Egzotyczna oaza z roślinami z całego świata. Dojazd tam jest pagórkowaty."
           }
         },
         {
@@ -629,7 +682,8 @@
             "de": "Rückkehr zum Rynek und Ausklang",
             "hu": "Visszatérés a Piactérre és levezetés",
             "ro": "Întoarcere în Piață și relaxare",
-            "en": "Return to the Market Square and unwind"
+            "en": "Return to the Market Square and unwind",
+            "pl": "Powrót na Rynek i relaks"
           },
           "coords": [
             16.2833,
@@ -645,7 +699,8 @@
             "de": "Beenden Sie den Tag bei einem Kaffee oder Eis auf dem Marktplatz.",
             "hu": "Zárja a napot egy kávéval vagy fagyival a piactéren.",
             "ro": "Încheiați ziua cu o cafea sau o înghețată în piață.",
-            "en": "End the day with a coffee or ice cream in the market square."
+            "en": "End the day with a coffee or ice cream in the market square.",
+            "pl": "Zakończ dzień kawą lub lodami na rynku."
           }
         }
       ],
@@ -653,7 +708,8 @@
         "de": "Schwingen Sie sich aufs Rad für eine Tour, die Industrie- und Naturerbe verbindet. Vom Zentrum aus radeln Sie zur Alten Grube, um in die Bergbauvergangenheit einzutauchen. Nach dem Mittagessen führt eine anspruchsvollere Etappe zum exotischen Palmenhaus. Die Rückfahrt in die Altstadt bietet Zeit, die vielfältigen Eindrücke von Wałbrzych auf sich wirken zu lassen, bevor der Tag bei einem wohlverdienten Getränk ausklingt.",
         "hu": "Pattanjon kerékpárra egy olyan túrához, amely ötvözi az ipari és természeti örökséget. A központból tekerjen a Régi Bányához, hogy elmerüljön a bányászmúltban. Ebéd után egy nagyobb kihívást jelentő szakasz vezet az egzotikus Pálmaházhoz. A visszaút az óvárosba időt ad arra, hogy feldolgozza Wałbrzych sokszínű benyomásait, mielőtt a nap egy jól megérdemelt itallal zárul.",
         "ro": "Urcați-vă pe bicicletă pentru un tur care combină patrimoniul industrial și natural. Din centru, pedalați spre Mina Veche pentru a vă cufunda în trecutul minier. După prânz, o etapă mai provocatoare duce la exotica Seră de Palmieri. Călătoria de întoarcere în orașul vechi vă oferă timp să reflectați la impresiile diverse din Wałbrzych înainte de a încheia ziua cu o băutură binemeritată.",
-        "en": "Get on your bike for a tour that combines industrial and natural heritage. From the center, cycle to the Old Mine to delve into the mining past. After lunch, a more challenging stage leads to the exotic Palm House. The return trip to the old town gives you time to reflect on the diverse impressions of Wałbrzych before ending the day with a well-deserved drink."
+        "en": "Get on your bike for a tour that combines industrial and natural heritage. From the center, cycle to the Old Mine to delve into the mining past. After lunch, a more challenging stage leads to the exotic Palm House. The return trip to the old town gives you time to reflect on the diverse impressions of Wałbrzych before ending the day with a well-deserved drink.",
+        "pl": "Wsiądź na rower na trasę łączącą dziedzictwo przemysłowe i przyrodnicze. Z centrum pojedź do Starej Kopalni, by poznać górniczą przeszłość. Po lunchu bardziej wymagający odcinek prowadzi do egzotycznej Palmiarni. Powrót do starego miasta daje czas na przemyślenia o różnorodnych wrażeniach z Wałbrzycha, a dzień zakończysz zasłużonym napojem."
       },
       "tips": {
         "de": [
@@ -679,6 +735,12 @@
           "Be mindful of traffic, especially outside the center.",
           "Bring enough water, especially for the ride to the Palm House.",
           "Securely lock your bike at the sights."
+        ],
+        "pl": [
+          "Wałbrzych jest pagórkowaty; e-rower może być dobrym wyborem.",
+          "Uważaj na ruch drogowy, zwłaszcza poza centrum.",
+          "Weź wystarczającą ilość wody, zwłaszcza na trasę do Palmiarni.",
+          "Solidnie przypinaj rower przy atrakcjach."
         ]
       }
     },
@@ -695,7 +757,8 @@
             "de": "Cluster A: Schloss Fürstenstein",
             "hu": "A Klaszter: Książ kastély",
             "ro": "Cluster A: Castelul Książ",
-            "en": "Cluster A: Książ Castle"
+            "en": "Cluster A: Książ Castle",
+            "pl": "Klast A: Zamek Książ"
           },
           "coords": [
             16.3,
@@ -711,7 +774,8 @@
             "de": "Parken Sie auf dem Hauptparkplatz. Planen Sie viel Zeit für die Erkundung des Schlosses und der Terrassen ein.",
             "hu": "Parkoljon a fő parkolóban. Szánjon elegendő időt a kastély és a teraszok felfedezésére.",
             "ro": "Parcați în parcarea principală. Alocați mult timp pentru a explora castelul și terasele.",
-            "en": "Park in the main parking lot. Allow plenty of time to explore the castle and its terraces."
+            "en": "Park in the main parking lot. Allow plenty of time to explore the castle and its terraces.",
+            "pl": "Parkuj na głównym parkingu. Przeznacz dużo czasu na zwiedzanie zamku i tarasów."
           }
         },
         {
@@ -719,7 +783,8 @@
             "de": "Palmenhaus (Spaziergang vom Schloss)",
             "hu": "Palmiarnia (séta a kastélytól)",
             "ro": "Sera de Palmieri (plimbare de la castel)",
-            "en": "Palm House (walk from the castle)"
+            "en": "Palm House (walk from the castle)",
+            "pl": "Palmiarnia (spacer z zamku)"
           },
           "coords": [
             16.295,
@@ -735,7 +800,8 @@
             "de": "Ein schöner Spaziergang durch den Park verbindet die beiden Attraktionen.",
             "hu": "Egy szép séta a parkon keresztül köti össze a két látnivalót.",
             "ro": "O plimbare frumoasă prin parc leagă cele două atracții.",
-            "en": "A beautiful walk through the park connects the two attractions."
+            "en": "A beautiful walk through the park connects the two attractions.",
+            "pl": "Piękny spacer przez park łączy obie atrakcje."
           }
         },
         {
@@ -743,7 +809,8 @@
             "de": "Cluster B: Alte Grube & Mittagessen",
             "hu": "B Klaszter: Régi Bánya és ebéd",
             "ro": "Cluster B: Mina Veche și prânz",
-            "en": "Cluster B: Old Mine & Lunch"
+            "en": "Cluster B: Old Mine & Lunch",
+            "pl": "Klast B: Stara Kopalnia i lunch"
           },
           "coords": [
             16.265,
@@ -759,7 +826,8 @@
             "de": "Parken Sie am ZCW Stara Kopalnia. Es gibt auch ein Restaurant vor Ort.",
             "hu": "Parkoljon a Stara Kopalnia Tudományos és Művészeti Központnál. A helyszínen étterem is található.",
             "ro": "Parcați la Centrul de Știință și Artă Stara Kopalnia. Există și un restaurant la fața locului.",
-            "en": "Park at the Stara Kopalnia Science and Art Centre. There is also a restaurant on site."
+            "en": "Park at the Stara Kopalnia Science and Art Centre. There is also a restaurant on site.",
+            "pl": "Parkuj przy Centrum Nauki i Sztuki Stara Kopalnia. Na miejscu jest też restauracja."
           }
         },
         {
@@ -767,7 +835,8 @@
             "de": "Cluster C: Stadtzentrum Wałbrzych",
             "hu": "C Klaszter: Wałbrzych központja",
             "ro": "Cluster C: Centrul orașului Wałbrzych",
-            "en": "Cluster C: Wałbrzych City Center"
+            "en": "Cluster C: Wałbrzych City Center",
+            "pl": "Klast C: Centrum Wałbrzycha"
           },
           "coords": [
             16.2831,
@@ -783,7 +852,8 @@
             "de": "Finden Sie einen Parkplatz und erkunden Sie den Rynek zu Fuß.",
             "hu": "Keressen egy parkolóhelyet, és fedezze fel a Piacteret gyalog.",
             "ro": "Găsiți un loc de parcare și explorați Piața Centrală pe jos.",
-            "en": "Find a parking spot and explore the Market Square on foot."
+            "en": "Find a parking spot and explore the Market Square on foot.",
+            "pl": "Znajdź miejsce parkingowe i zwiedzaj Rynek pieszo."
           }
         },
         {
@@ -791,7 +861,8 @@
             "de": "Porzellanmuseum",
             "hu": "Porcelánmúzeum",
             "ro": "Muzeul Porțelanului",
-            "en": "Porcelain Museum"
+            "en": "Porcelain Museum",
+            "pl": "Muzeum Porcelany"
           },
           "coords": [
             16.2815,
@@ -807,7 +878,8 @@
             "de": "Ein kurzer Spaziergang vom Marktplatz entfernt.",
             "hu": "Rövid séta a Piactérről.",
             "ro": "La o scurtă plimbare de Piața Centrală.",
-            "en": "Just a short walk from the Market Square."
+            "en": "Just a short walk from the Market Square.",
+            "pl": "Tylko krótki spacer od Rynku."
           }
         },
         {
@@ -815,7 +887,8 @@
             "de": "Aussichtspunkt auf dem Chełmiec",
             "hu": "Kilátópont a Chełmiec-hegyen",
             "ro": "Punct de belvedere pe Muntele Chełmiec",
-            "en": "Viewpoint on Chełmiec Mountain"
+            "en": "Viewpoint on Chełmiec Mountain",
+            "pl": "Punkt widokowy na Chełmcu"
           },
           "coords": [
             16.23,
@@ -831,7 +904,8 @@
             "de": "Fahren Sie zum Sonnenuntergang hinauf für eine spektakuläre Aussicht.",
             "hu": "Menjen fel napnyugtakor a látványos kilátásért.",
             "ro": "Urcați la apus pentru o priveliște spectaculoasă.",
-            "en": "Drive up for sunset for a spectacular view."
+            "en": "Drive up for sunset for a spectacular view.",
+            "pl": "Wjedź samochodem o zachodzie słońca dla spektakularnego widoku."
           }
         }
       ],
@@ -839,7 +913,8 @@
         "de": "Ihr Autotag beginnt majestätisch beim Schloss Fürstenstein und dem nahegelegenen Palmenhaus. Nach diesem adligen Vormittag fahren Sie zum industriellen Kern der Region, der Alten Grube, wo Sie auch zu Mittag essen. Am Nachmittag erkunden Sie das historische Zentrum von Wałbrzych zu Fuß, vom Marktplatz bis zum Porzellanmuseum. Zum Abschluss des Tages bietet eine Fahrt zum Chełmiec-Berg einen unvergesslichen Panoramablick über die Landschaft.",
         "hu": "Autós napja fenségesen kezdődik a Książ kastélynál és a közeli Pálmaháznál. A nemesi délelőtt után a régió ipari központjába, a Régi Bányába hajt, ahol ebédelhet is. Délután gyalogosan fedezi fel Wałbrzych történelmi központját, a Piactértől a Porcelánmúzeumig. A nap zárásaként a Chełmiec-hegyre való autózás felejthetetlen panorámát nyújt a tájra.",
         "ro": "Ziua dumneavoastră cu mașina începe maiestuos la Castelul Książ și la Sera de Palmieri din apropiere. După această dimineață nobilă, veți conduce spre inima industrială a regiunii, Mina Veche, unde veți lua și prânzul. După-amiaza, explorați centrul istoric al orașului Wałbrzych pe jos, de la Piața Centrală la Muzeul Porțelanului. Pentru a încheia ziua, o plimbare cu mașina până la Muntele Chełmiec oferă o panoramă de neuitat asupra peisajului.",
-        "en": "Your car day begins majestically at Książ Castle and the nearby Palm House. After this noble morning, you'll drive to the region's industrial core, the Old Mine, where you'll also have lunch. In the afternoon, explore the historic center of Wałbrzych on foot, from the Market Square to the Porcelain Museum. To end the day, a drive up Chełmiec Mountain offers an unforgettable panoramic view of the landscape."
+        "en": "Your car day begins majestically at Książ Castle and the nearby Palm House. After this noble morning, you'll drive to the region's industrial core, the Old Mine, where you'll also have lunch. In the afternoon, explore the historic center of Wałbrzych on foot, from the Market Square to the Porcelain Museum. To end the day, a drive up Chełmiec Mountain offers an unforgettable panoramic view of the landscape.",
+        "pl": "Twój dzień samochodowy zaczyna się majestatycznie przy Zamku Książ i pobliskiej Palmiarni. Po szlachetnym poranku pojedziesz do przemysłowego serca regionu, Starej Kopalni, gdzie zjesz też obiad. Po południu zwiedzisz historyczne centrum Wałbrzycha pieszo, od Rynku po Muzeum Porcelany. Na koniec dnia wjazd na Chełmiec zapewni niezapomniany panoramiczny widok na okolicę."
       },
       "tips": {
         "de": [
@@ -865,6 +940,12 @@
           "Parking is usually paid near the main attractions.",
           "Allow enough time for driving between the clusters.",
           "The roads can be narrow and winding, especially towards Chełmiec."
+        ],
+        "pl": [
+          "Kup bilety łączone na Zamek Książ i Palmiarnię, aby oszczędzić.",
+          "Parking przy głównych atrakcjach jest zwykle płatny.",
+          "Zarezerwuj wystarczająco dużo czasu na przejazdy między klastrami.",
+          "Drogi mogą być wąskie i kręte, szczególnie w kierunku Chełmca."
         ]
       },
       "variants": {
@@ -873,7 +954,8 @@
             "en": "Start your driving tour at Książ Castle, where you can explore its magnificent interiors away from the rain, followed by the tropical warmth of the Palm House.\n\nDrive to the city center, parking safely to dash into a local restaurant for a warm and comforting midday meal.\n\nSpend your afternoon traversing the vast, mostly covered spaces of the Old Mine Center, staying dry while uncovering history.\n\nDrive up to Chełmiec and the Monumental Cross, braving the mist, and finish with a relaxing dinner at the indoor Aqua Zdrój complex.",
             "de": "Beginnen Sie Ihre Fahrt am Schloss Książ, wo Sie die prächtigen Innenräume regengeschützt erkunden können, gefolgt von der tropischen Wärme des Palmenhauses.\n\nFahren Sie ins Stadtzentrum und parken Sie sicher, um in ein lokales Restaurant für ein warmes Mittagessen zu huschen.\n\nVerbringen Sie den Nachmittag in den weitgehend überdachten Räumen des Alten Bergwerks.\n\nFahren Sie bei Nebel zum Chełmiec und dem monumentalen Kreuz und beenden Sie den Tag mit einem entspannten Abendessen im Aqua Zdrój.",
             "hu": "Kezdd az autós túrát a Książ kastélynál, ahol az eső elől védve fedezheted fel a belső tereket, majd élvezd a Pálmaház trópusi melegét.\n\nVezess a belvárosba, parkolj le, és ugorj be egy helyi étterembe egy melegítő ebédre.\n\nA délutánt az Öreg Bánya nagyrészt fedett részein töltheted, szárazon maradva.\n\nVezess fel a Chełmiec-hez és a Monumentális kereszthez a ködben, majd zárd a napot egy vacsorával az Aqua Zdrój komplexumban.",
-            "ro": "Începeți turul cu mașina la Castelul Książ, unde puteți explora interioarele sale feriți de ploaie, urmat de căldura tropicală din Casa Palmierilor.\n\nConduceți în centrul orașului și parcați pentru un prânz cald într-un restaurant local.\n\nPetreceți după-amiaza în spațiile acoperite ale Vechii Mine, rămânând uscat.\n\nConduceți spre Chełmiec și Crucea Monumentală prin ceață, și încheiați cu o cină relaxantă la complexul interior Aqua Zdrój."
+            "ro": "Începeți turul cu mașina la Castelul Książ, unde puteți explora interioarele sale feriți de ploaie, urmat de căldura tropicală din Casa Palmierilor.\n\nConduceți în centrul orașului și parcați pentru un prânz cald într-un restaurant local.\n\nPetreceți după-amiaza în spațiile acoperite ale Vechii Mine, rămânând uscat.\n\nConduceți spre Chełmiec și Crucea Monumentală prin ceață, și încheiați cu o cină relaxantă la complexul interior Aqua Zdrój.",
+            "pl": "Rozpocznij samochodową wycieczkę od Zamku Książ, gdzie możesz zwiedzać wspaniałe wnętrza z dala od deszczu, a potem poczuć tropikalne ciepło Palmiarni.\n\nZjedź do centrum miasta, zaparkuj bezpiecznie i wskocz do lokalnej restauracji na ciepły, pocieszający obiad.\n\nPopołudnie spędź, przemierzając rozległe, w większości zadaszone przestrzenie Starej Kopalni, pozostając suchym i odkrywając historię.\n\nWjedź na Chełmiec i pod Krzyż Milenijny, mierząc się z mgłą, i zakończ relaksującą kolacją w krytym kompleksie Aqua Zdrój."
           },
           "stops": [
             {
@@ -882,7 +964,8 @@
                 "en": "Focus on the grand indoor state rooms.",
                 "de": "Konzentrieren Sie sich auf die großen Innenräume.",
                 "hu": "Fókuszálj a hatalmas beltéri termekre.",
-                "ro": "Concentrați-vă pe marile săli interioare."
+                "ro": "Concentrați-vă pe marile săli interioare.",
+                "pl": "Skoncentruj się na wielkich, reprezentacyjnych salach państwowych."
               }
             },
             {
@@ -891,7 +974,8 @@
                 "en": "Humid and warm; a perfect rainy day escape.",
                 "de": "Feuchtwarm; eine perfekte Flucht an Regentagen.",
                 "hu": "Párás és meleg; tökéletes menedék esős napokon.",
-                "ro": "Umed și cald; o evadare perfectă pe timp de ploaie."
+                "ro": "Umed și cald; o evadare perfectă pe timp de ploaie.",
+                "pl": "Wilgotno i ciepło; idealne schronienie przed deszczem."
               }
             },
             {
@@ -900,7 +984,8 @@
                 "en": "Park nearby and use an umbrella for this brief stop.",
                 "de": "In der Nähe parken und Regenschirm für den Stopp nutzen.",
                 "hu": "Parkolj a közelben, és használj esernyőt.",
-                "ro": "Parcați aproape și folosiți o umbrelă aici."
+                "ro": "Parcați aproape și folosiți o umbrelă aici.",
+                "pl": "Zaparkuj w pobliżu i użyj parasola na krótki postój."
               }
             },
             {
@@ -909,7 +994,8 @@
                 "en": "Pick a place with nearby parking to stay dry.",
                 "de": "Wählen Sie ein Lokal mit nahen Parkplätzen.",
                 "hu": "Válassz olyan helyet, amihez közel lehet parkolni.",
-                "ro": "Alegeți un loc cu parcare în apropiere."
+                "ro": "Alegeți un loc cu parcare în apropiere.",
+                "pl": "Wybierz miejsce z pobliskim parkingiem, by pozostać suchym."
               }
             },
             {
@@ -918,7 +1004,8 @@
                 "en": "Enjoy the vast roofed exhibition spaces.",
                 "de": "Genießen Sie die großen überdachten Ausstellungsräume.",
                 "hu": "Élvezd a hatalmas, fedett kiállítótereket.",
-                "ro": "Bucurați-vă de vastele spații de expoziție acoperite."
+                "ro": "Bucurați-vă de vastele spații de expoziție acoperite.",
+                "pl": "Korzystaj z rozległych zadaszonych przestrzeni wystawowych."
               }
             },
             {
@@ -927,7 +1014,8 @@
                 "en": "Visibility may be low; drive carefully on wet roads.",
                 "de": "Sicht kann schlecht sein; bei Nässe vorsichtig fahren.",
                 "hu": "A látási viszonyok rosszak lehetnek; vezess óvatosan.",
-                "ro": "Vizibilitatea poate fi redusă; conduceți cu prudență."
+                "ro": "Vizibilitatea poate fi redusă; conduceți cu prudență.",
+                "pl": "Widoczność może być ograniczona; jedź ostrożnie po mokrych drogach."
               }
             },
             {
@@ -936,7 +1024,8 @@
                 "en": "Path from the car might be muddy.",
                 "de": "Der Weg vom Auto könnte schlammig sein.",
                 "hu": "Az autótól vezető út saras lehet.",
-                "ro": "Cărarea de la mașină poate fi noroioasă."
+                "ro": "Cărarea de la mașină poate fi noroioasă.",
+                "pl": "Ścieżka od samochodu może być błotnista."
               }
             },
             {
@@ -945,7 +1034,8 @@
                 "en": "Large indoor parking and a dry environment.",
                 "de": "Großer überdachter Parkplatz und trockene Umgebung.",
                 "hu": "Nagy fedett parkoló és száraz környezet.",
-                "ro": "Parcare mare acoperită și mediu uscat."
+                "ro": "Parcare mare acoperită și mediu uscat.",
+                "pl": "Duży parking kryty i suche wnętrze."
               }
             }
           ],
@@ -973,6 +1063,12 @@
               "Există parcare cu plată chiar lângă Castelul Książ.",
               "Casa Palmierilor este un refugiu perfect împotriva vremii.",
               "Conduceți cu mare prudență spre Chełmiec pe timp de ceață."
+            ],
+            "pl": [
+              "Drogi w wałbrzyskich wzgórzach mogą być śliskie, gdy są mokre.",
+              "Płatny parking znajduje się tuż przy Zamku Książ.",
+              "Wejdź do Palmiarni, aby całkowicie uciec od złej pogody.",
+              "Jedź bardzo ostrożnie na Chełmiec przy mglistych warunkach."
             ]
           }
         },
@@ -981,7 +1077,8 @@
             "en": "Experience the winter magic of Książ Castle, stunning against the snow, before warming up completely inside the humid, green Palm House.\n\nNavigate the wintery roads to the center for a quick look at the snowy Rynek and a hearty, hot lunch to refuel.\n\nThe Old Mine Center offers an evocative afternoon visit, perfectly suited for the short winter daylight hours.\n\nEnsure your car is winter-ready for the drive up to the Chełmiec Observation Tower, concluding with dinner at the warm Aqua Zdrój.",
             "de": "Erleben Sie den Winterzauber von Schloss Książ im Schnee, bevor Sie sich im feuchtwarmen, grünen Palmenhaus aufwärmen.\n\nFahren Sie über die winterlichen Straßen ins Zentrum für einen Blick auf den verschneiten Rynek und ein herzhaftes, warmes Mittagessen.\n\nDas Alte Bergwerk bietet einen stimmungsvollen Nachmittagsbesuch, ideal für die kurzen Wintertage.\n\nStellen Sie sicher, dass Ihr Auto winterfest ist für die Fahrt zum Chełmiec, und schließen Sie mit einem Abendessen im warmen Aqua Zdrój ab.",
             "hu": "Tapasztald meg a Książ kastély téli varázsát a hóban, mielőtt teljesen felmelegednél a párás, zöld Pálmaházban.\n\nNavigálj a téli utakon a központba, nézd meg a havas Piacteret, és egyél egy kiadós, forró ebédet.\n\nAz Öreg Bánya hangulatos délutáni programot kínál a rövid téli nappalokon.\n\nGondoskodj róla, hogy az autód felkészült a Chełmiec felé vezető havas útra, végül vacsorázz a meleg Aqua Zdrójban.",
-            "ro": "Experimentați magia iernii la Castelul Książ, uimitor în zăpadă, înainte de a vă încălzi complet în Casa Palmierilor.\n\nNavigați pe drumurile de iarnă către centru pentru o privire asupra Pieței înzăpezite și un prânz cald.\n\nVechea Mină oferă o vizită de după-amiază evocatoare, perfectă pentru zilele scurte de iarnă.\n\nAsigurați-vă că mașina este echipată de iarnă pentru drumul spre Chełmiec, și încheiați cu cina la Aqua Zdrój."
+            "ro": "Experimentați magia iernii la Castelul Książ, uimitor în zăpadă, înainte de a vă încălzi complet în Casa Palmierilor.\n\nNavigați pe drumurile de iarnă către centru pentru o privire asupra Pieței înzăpezite și un prânz cald.\n\nVechea Mină oferă o vizită de după-amiază evocatoare, perfectă pentru zilele scurte de iarnă.\n\nAsigurați-vă că mașina este echipată de iarnă pentru drumul spre Chełmiec, și încheiați cu cina la Aqua Zdrój.",
+            "pl": "Przeżyj zimową magię Zamku Książ, pięknie prezentującego się na śniegu, zanim całkowicie ogrzejesz się w wilgotnej, zielonej Palmiarni.\n\nPokonaj zimowe drogi do centrum, by szybko obejrzeć zaśnieżony Rynek i zjeść sycący, gorący obiad na doładowanie energii.\n\nStare Centrum Kopalni oferuje sugestywną popołudniową wizytę, idealną na krótkie zimowe godziny dzienne.\n\nUpewnij się, że twój samochód jest przygotowany na zimę przed dojazdem do wieży widokowej na Chełmcu, a dzień zakończ kolacją w ciepłym Aqua Zdrój."
           },
           "stops": [
             {
@@ -990,7 +1087,8 @@
                 "en": "Park carefully; pathways to the entrance can be icy.",
                 "de": "Vorsichtig parken; Wege zum Eingang können eisig sein.",
                 "hu": "Parkolj óvatosan; a bejárathoz vezető utak jegesek lehetnek.",
-                "ro": "Parcați cu grijă; cărările spre intrare pot fi înghețate."
+                "ro": "Parcați cu grijă; cărările spre intrare pot fi înghețate.",
+                "pl": "Parkuj ostrożnie; podejścia do wejścia mogą być oblodzone."
               }
             },
             {
@@ -999,7 +1097,8 @@
                 "en": "Great contrast to the snow; enjoy the tropical warmth.",
                 "de": "Toller Kontrast zum Schnee; tropische Wärme genießen.",
                 "hu": "Remek kontraszt a hóhoz; élvezd a trópusi meleget.",
-                "ro": "Contrast excelent cu zăpada; bucurați-vă de căldură."
+                "ro": "Contrast excelent cu zăpada; bucurați-vă de căldură.",
+                "pl": "Świetny kontrast do śniegu; rozkoszuj się tropikalnym ciepłem."
               }
             },
             {
@@ -1008,7 +1107,8 @@
                 "en": "Watch out for black ice on the cobblestones.",
                 "de": "Achten Sie auf Blitzeis auf dem Kopfsteinpflaster.",
                 "hu": "Vigyázz a lefagyott részekre a macskaköveken.",
-                "ro": "Atenție la polei pe piatra cubică."
+                "ro": "Atenție la polei pe piatra cubică.",
+                "pl": "Uważaj na gołoledź na bruku."
               }
             },
             {
@@ -1017,7 +1117,8 @@
                 "en": "Warm up with a hot local meal near your car.",
                 "de": "Wärmen Sie sich mit einer warmen lokalen Mahlzeit auf.",
                 "hu": "Melegedj fel egy forró helyi étellel az autód közelében.",
-                "ro": "Încălziți-vă cu o masă caldă locală lângă mașină."
+                "ro": "Încălziți-vă cu o masă caldă locală lângă mașină.",
+                "pl": "Rozgrzej się gorącym lokalnym daniem w pobliżu samochodu."
               }
             },
             {
@@ -1026,7 +1127,8 @@
                 "en": "Cold inside the mines; wear your winter coat.",
                 "de": "Kalt in den Minen; tragen Sie Ihren Wintermantel.",
                 "hu": "Hideg van a bányában; hagyd magadon a télikabátot.",
-                "ro": "Frig în interiorul minelor; purtați haina de iarnă."
+                "ro": "Frig în interiorul minelor; purtați haina de iarnă.",
+                "pl": "W kopalniach jest zimno; noś zimowy płaszcz."
               }
             },
             {
@@ -1035,7 +1137,8 @@
                 "en": "Ensure winter tires for the steep, snowy approach.",
                 "de": "Winterreifen für die steile, verschneite Anfahrt nötig.",
                 "hu": "Téli gumi kötelező a meredek, havas megközelítéshez.",
-                "ro": "Anvelope de iarnă pentru urcarea abruptă și înzăpezită."
+                "ro": "Anvelope de iarnă pentru urcarea abruptă și înzăpezită.",
+                "pl": "Zadbaj o opony zimowe na stromy, zaśnieżony dojazd."
               }
             },
             {
@@ -1044,7 +1147,8 @@
                 "en": "Snow makes this a magical, though chilly, photo spot.",
                 "de": "Schnee macht dies zu einem magischen, aber kühlen Fotomotiv.",
                 "hu": "A hó varázslatos, bár hűvös fotóhellyé teszi.",
-                "ro": "Zăpada face din acesta un loc magic pentru fotografii."
+                "ro": "Zăpada face din acesta un loc magic pentru fotografii.",
+                "pl": "Śnieg tworzy magiczne, choć chłodne miejsce do zdjęć."
               }
             },
             {
@@ -1053,7 +1157,8 @@
                 "en": "Relax after a cold driving day in this warm complex.",
                 "de": "Entspannen Sie nach einem kalten Fahrtag in diesem Komplex.",
                 "hu": "Pihenj meg a hideg autózás után ebben a meleg komplexumban.",
-                "ro": "Relaxați-vă după o zi rece de condus în acest complex cald."
+                "ro": "Relaxați-vă după o zi rece de condus în acest complex cald.",
+                "pl": "Zrelaksuj się po zimnym dniu za kierownicą w tym ciepłym kompleksie."
               }
             }
           ],
@@ -1081,6 +1186,12 @@
               "Drumul spre Chełmiec este adesea înzăpezit și necesită prudență.",
               "Castelul Książ este frumos iluminat în serile de iarnă.",
               "Curățați toată zăpada și gheața de pe mașină înainte de a conduce."
+            ],
+            "pl": [
+              "Opony zimowe są absolutnie niezbędne w pagórkowatym terenie wokół Wałbrzycha.",
+              "Droga na Chełmiec często bywa zaśnieżona i wymaga ostrożności.",
+              "Zamek Książ jest pięknie oświetlony podczas wczesnych zimowych wieczorów.",
+              "Usuń cały śnieg i lód z szyb samochodu przed jazdą."
             ]
           }
         }
@@ -1099,7 +1210,8 @@
             "de": "Cluster A: Stadtzentrum",
             "hu": "A Klaszter: Városközpont",
             "ro": "Cluster A: Centrul Orașului",
-            "en": "Cluster A: City Center"
+            "en": "Cluster A: City Center",
+            "pl": "Klaster A: Centrum miasta"
           },
           "coords": [
             16.2831,
@@ -1115,7 +1227,8 @@
             "de": "Nehmen Sie einen Bus zum Plac Grunwaldzki und beginnen Sie am Rynek.",
             "hu": "Menjen busszal a Plac Grunwaldzki térre, és kezdje a Piactéren.",
             "ro": "Luați un autobuz până la Plac Grunwaldzki și începeți din Piața Centrală.",
-            "en": "Take a bus to Plac Grunwaldzki and start at the Market Square."
+            "en": "Take a bus to Plac Grunwaldzki and start at the Market Square.",
+            "pl": "Wjedź autobusem na Plac Grunwaldzki i zacznij od Rynku."
           }
         },
         {
@@ -1123,7 +1236,8 @@
             "de": "Porzellanmuseum",
             "hu": "Porcelánmúzeum",
             "ro": "Muzeul Porțelanului",
-            "en": "Porcelain Museum"
+            "en": "Porcelain Museum",
+            "pl": "Muzeum Porcelany"
           },
           "coords": [
             16.2815,
@@ -1139,7 +1253,8 @@
             "de": "Ein Muss für Liebhaber von Kunsthandwerk, nur ein kurzer Spaziergang.",
             "hu": "A kézművesség szerelmeseinek kötelező, csak egy rövid séta.",
             "ro": "O vizită obligatorie pentru iubitorii de artizanat, la o scurtă plimbare.",
-            "en": "A must-see for craft lovers, just a short walk away."
+            "en": "A must-see for craft lovers, just a short walk away.",
+            "pl": "Obowiązkowe dla miłośników rzemiosła, w zasięgu krótkiego spaceru."
           }
         },
         {
@@ -1147,7 +1262,8 @@
             "de": "Cluster B: Alte Grube",
             "hu": "B Klaszter: Régi Bánya",
             "ro": "Cluster B: Mina Veche",
-            "en": "Cluster B: Old Mine"
+            "en": "Cluster B: Old Mine",
+            "pl": "Klaster B: Stara Kopalnia"
           },
           "coords": [
             16.265,
@@ -1163,7 +1279,8 @@
             "de": "Nehmen Sie einen Bus in Richtung Piaskowa Góra. Planen Sie Zeit für eine Führung und ein Mittagessen ein.",
             "hu": "Menjen busszal Piaskowa Góra irányába. Tervezzen időt egy vezetett túrára és ebédre.",
             "ro": "Luați un autobuz spre Piaskowa Góra. Planificați timp pentru un tur ghidat și prânz.",
-            "en": "Take a bus towards Piaskowa Góra. Plan time for a tour and lunch."
+            "en": "Take a bus towards Piaskowa Góra. Plan time for a tour and lunch.",
+            "pl": "Wjedź autobusem w stronę Piaskowej Góry. Zaplanuj czas na zwiedzanie i obiad."
           }
         },
         {
@@ -1171,7 +1288,8 @@
             "de": "Cluster C: Palmenhaus",
             "hu": "C Klaszter: Pálmaház",
             "ro": "Cluster C: Sera de Palmieri",
-            "en": "Cluster C: Palm House"
+            "en": "Cluster C: Palm House",
+            "pl": "Klaster C: Palmiarnia"
           },
           "coords": [
             16.295,
@@ -1187,7 +1305,8 @@
             "de": "Buslinie 8 fährt in die Nähe des Palmenhauses. Ein exotischer Abschluss des Tages.",
             "hu": "A 8-as busz a Pálmaház közelében áll meg. Egzotikus befejezése a napnak.",
             "ro": "Autobuzul linia 8 merge aproape de Sera de Palmieri. O încheiere exotică a zilei.",
-            "en": "Bus line 8 goes near the Palm House. An exotic end to the day."
+            "en": "Bus line 8 goes near the Palm House. An exotic end to the day.",
+            "pl": "Linia autobusowa 8 kursuje w pobliżu Palmiarni. Egzotyczne zakończenie dnia."
           }
         },
         {
@@ -1195,7 +1314,8 @@
             "de": "Abendessen im Zentrum",
             "hu": "Vacsora a központban",
             "ro": "Cină în centru",
-            "en": "Dinner in the Center"
+            "en": "Dinner in the Center",
+            "pl": "Kolacja w centrum"
           },
           "coords": [
             16.284,
@@ -1211,7 +1331,8 @@
             "de": "Fahren Sie zurück ins Zentrum, um den Tag bei einem leckeren Abendessen ausklingen zu lassen.",
             "hu": "Utazzon vissza a központba, hogy egy finom vacsorával zárja a napot.",
             "ro": "Întoarceți-vă în centru pentru a încheia ziua cu o cină delicioasă.",
-            "en": "Travel back to the center to end the day with a delicious dinner."
+            "en": "Travel back to the center to end the day with a delicious dinner.",
+            "pl": "Wróć do centrum, by zakończyć dzień pyszną kolacją."
           }
         }
       ],
@@ -1219,7 +1340,8 @@
         "de": "Mit den öffentlichen Verkehrsmitteln entdecken Sie Wałbrzychs Vielfalt. Der Morgen gehört dem historischen Zentrum mit seinem Marktplatz und dem Porzellanmuseum, alles bequem zu Fuß erreichbar. Ein Bus bringt Sie dann zum industriellen Wahrzeichen, der Alten Grube. Am Nachmittag wartet mit dem Palmenhaus eine exotische Welt auf Sie, ebenfalls per Bus erreichbar. Der Tag endet gemütlich bei einem Abendessen zurück im Stadtzentrum.",
         "hu": "Tömegközlekedéssel fedezze fel Wałbrzych sokszínűségét. A délelőtt a történelmi központé a Piactérrel és a Porcelánmúzeummal, melyek gyalogosan is kényelmesen elérhetők. Ezután egy busz viszi el az ipari jelképhez, a Régi Bányához. Délután egy egzotikus világ várja a Pálmaházban, amely szintén busszal közelíthető meg. A nap kényelmesen, egy vacsorával zárul a városközpontban.",
         "ro": "Descoperiți diversitatea orașului Wałbrzych cu transportul public. Dimineața este dedicată centrului istoric, cu Piața Centrală și Muzeul Porțelanului, ambele ușor accesibile pe jos. Un autobuz vă va duce apoi la reperul industrial, Mina Veche. După-amiaza, o lume exotică vă așteaptă la Sera de Palmieri, accesibilă tot cu autobuzul. Ziua se încheie confortabil cu o cină înapoi în centrul orașului.",
-        "en": "Discover Wałbrzych's diversity using public transport. The morning belongs to the historic center with its Market Square and Porcelain Museum, all easily reachable on foot. A bus then takes you to the industrial landmark, the Old Mine. In the afternoon, an exotic world awaits you at the Palm House, also accessible by bus. The day ends comfortably with dinner back in the city center."
+        "en": "Discover Wałbrzych's diversity using public transport. The morning belongs to the historic center with its Market Square and Porcelain Museum, all easily reachable on foot. A bus then takes you to the industrial landmark, the Old Mine. In the afternoon, an exotic world awaits you at the Palm House, also accessible by bus. The day ends comfortably with dinner back in the city center.",
+        "pl": "Odkryj różnorodność Wałbrzycha korzystając z transportu publicznego. Rano należy do historycznego centrum z Rynkiem i Muzeum Porcelany, wszystkie łatwo dostępne pieszo. Autobus zabierze cię potem do przemysłowego zabytku, Starej Kopalni. Po południu czeka na ciebie egzotyczny świat w Palmiarni, także dostępny komunikacją. Dzień kończy się wygodnie kolacją z powrotem w centrum miasta."
       },
       "tips": {
         "de": [
@@ -1245,6 +1367,12 @@
           "Use a public transport app to check routes and timetables in real time.",
           "Buses to Książ Castle and the Palm House run less frequently, so plan ahead.",
           "Note that some stops are on demand."
+        ],
+        "pl": [
+          "Kup bilet całodniowy na komunikację publiczną, aby zaoszczędzić.",
+          "Użyj aplikacji transportu publicznego, aby sprawdzać trasy i rozkłady w czasie rzeczywistym.",
+          "Autobusy do Zamku Książ i Palmiarni kursują rzadziej, więc planuj z wyprzedzeniem.",
+          "Zwróć uwagę, że niektóre przystanki są na żądanie."
         ]
       }
     }

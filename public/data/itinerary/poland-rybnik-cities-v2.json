@@ -21,7 +21,8 @@
             "de": "Marktplatz und Rathaus",
             "hu": "Piactér és Városháza",
             "ro": "Piața Centrală și Primăria",
-            "en": "Market Square and Town Hall"
+            "en": "Market Square and Town Hall",
+            "pl": "Rynek i Ratusz"
           },
           "coords": [
             18.5461,
@@ -37,7 +38,8 @@
             "de": "Beginnen Sie hier mit einem Kaffee und beobachten Sie das morgendliche Treiben.",
             "hu": "Kezdje a napot egy kávéval itt, és figyelje a reggeli nyüzsgést.",
             "ro": "Începeți ziua aici cu o cafea, privind agitația de dimineață.",
-            "en": "Start your day here with a coffee, watching the morning bustle."
+            "en": "Start your day here with a coffee, watching the morning bustle.",
+            "pl": "Rozpocznij dzień tutaj z kawą, obserwując poranne życie miasta."
           }
         },
         {
@@ -45,7 +47,8 @@
             "de": "Nepomuk-Statue",
             "hu": "Nepomuki Szent János szobra",
             "ro": "Statuia Sf. Ioan Nepomuk",
-            "en": "Statue of St. John of Nepomuk"
+            "en": "Statue of St. John of Nepomuk",
+            "pl": "Figura św. Jana Nepomucena"
           },
           "coords": [
             18.5465,
@@ -61,7 +64,8 @@
             "de": "Ein schönes Fotomotiv direkt am Rande des Platzes.",
             "hu": "Egy remek fotótéma közvetlenül a tér szélén.",
             "ro": "Un subiect fotografic frumos chiar la marginea pieței.",
-            "en": "A beautiful photo opportunity right on the edge of the square."
+            "en": "A beautiful photo opportunity right on the edge of the square.",
+            "pl": "Piękna okazja fotograficzna na skraju placu."
           }
         },
         {
@@ -69,7 +73,8 @@
             "de": "Piastenschloss",
             "hu": "Piast-kastély",
             "ro": "Castelul Piast",
-            "en": "Piast Castle"
+            "en": "Piast Castle",
+            "pl": "Zamek Piastowski"
           },
           "coords": [
             18.542,
@@ -85,7 +90,8 @@
             "de": "Heute Sitz des Bezirksgerichts, beeindruckende Architektur von außen.",
             "hu": "Ma a kerületi bíróság székhelye, kívülről lenyűgöző építészettel.",
             "ro": "Astăzi sediul tribunalului districtual, o arhitectură impresionantă din exterior.",
-            "en": "Today it's the seat of the district court, with impressive architecture from the outside."
+            "en": "Today it's the seat of the district court, with impressive architecture from the outside.",
+            "pl": "Dziś siedziba sądu rejonowego, z imponującą architekturą z zewnątrz."
           }
         },
         {
@@ -93,7 +99,8 @@
             "de": "Basilika St. Antonius",
             "hu": "Szent Antal-bazilika",
             "ro": "Bazilica Sf. Anton",
-            "en": "Basilica of St. Anthony"
+            "en": "Basilica of St. Anthony",
+            "pl": "Bazylika św. Antoniego"
           },
           "coords": [
             18.549,
@@ -109,7 +116,8 @@
             "de": "Besteigen Sie die Türme für eine fantastische Aussicht über die Stadt.",
             "hu": "Másszon fel a tornyokba a városra nyíló fantasztikus kilátásért.",
             "ro": "Urcați în turnuri pentru o priveliște fantastică asupra orașului.",
-            "en": "Climb the towers for a fantastic view over the city."
+            "en": "Climb the towers for a fantastic view over the city.",
+            "pl": "Wejdź na wieże dla fantastycznego widoku na miasto."
           }
         },
         {
@@ -117,7 +125,8 @@
             "de": "Mittagessen in der Altstadt",
             "hu": "Ebéd az Óvárosban",
             "ro": "Prânz în Orașul Vechi",
-            "en": "Lunch in the Old Town"
+            "en": "Lunch in the Old Town",
+            "pl": "Lunch na Starym Mieście"
           },
           "coords": [
             18.5475,
@@ -133,7 +142,8 @@
             "de": "Probieren Sie schlesische Klöße in einem der traditionellen Restaurants.",
             "hu": "Kóstolja meg a sziléziai gombócokat az egyik hagyományos étteremben.",
             "ro": "Încercați găluștele sileziene la unul dintre restaurantele tradiționale.",
-            "en": "Try Silesian dumplings in one of the traditional restaurants."
+            "en": "Try Silesian dumplings in one of the traditional restaurants.",
+            "pl": "Spróbuj śląskich klusek w jednej z tradycyjnych restauracji."
           }
         },
         {
@@ -141,7 +151,8 @@
             "de": "Juliusz-Krankenhauskomplex",
             "hu": "Juliusz Kórházkomplexum",
             "ro": "Complexul Spitalicesc Juliusz",
-            "en": "Juliusz Hospital Complex"
+            "en": "Juliusz Hospital Complex",
+            "pl": "Zespół szpitalny im. Juliusza"
           },
           "coords": [
             18.54,
@@ -157,7 +168,8 @@
             "de": "Ein architektonisch interessantes Ensemble aus rotem Backstein.",
             "hu": "Egy építészetileg érdekes vörös téglás épületegyüttes.",
             "ro": "Un complex arhitectural interesant din cărămidă roșie.",
-            "en": "An architecturally interesting ensemble of red brick."
+            "en": "An architecturally interesting ensemble of red brick.",
+            "pl": "Architektonicznie interesujący kompleks z czerwonej cegły."
           }
         },
         {
@@ -165,7 +177,8 @@
             "de": "Park an der Nacyna",
             "hu": "Park a Nacyna folyónál",
             "ro": "Parcul de pe râul Nacyna",
-            "en": "Park on the Nacyna River"
+            "en": "Park on the Nacyna River",
+            "pl": "Park nad Nacyną"
           },
           "coords": [
             18.555,
@@ -181,7 +194,8 @@
             "de": "Der perfekte Ort, um den Tag bei einem entspannten Spaziergang ausklingen zu lassen.",
             "hu": "A tökéletes hely a nap befejezéséhez egy pihentető sétával.",
             "ro": "Locul perfect pentru a încheia ziua cu o plimbare relaxantă.",
-            "en": "The perfect place to end the day with a relaxing stroll."
+            "en": "The perfect place to end the day with a relaxing stroll.",
+            "pl": "Idealne miejsce na zakończenie dnia spacerem."
           }
         }
       ],
@@ -189,7 +203,8 @@
         "de": "Beginnen Sie Ihren Tag auf dem pulsierenden Marktplatz von Rybnik, umgeben von historischer Architektur. Der Vormittag ist der Erkundung des Stadtzentrums gewidmet, vom Piastenschloss bis zur beeindruckenden Basilika. Nach einem herzhaften schlesischen Mittagessen führt Sie ein Spaziergang zu den architektonischen Juwelen außerhalb des unmittelbaren Zentrums. Der Nachmittag klingt entspannt im grünen Park am Fluss Nacyna aus, wo Sie die Eindrücke des Tages Revue passieren lassen können.",
         "hu": "Kezdje a napot Rybnik nyüzsgő piacterén, történelmi épületekkel körülvéve. A délelőtt a városközpont felfedezésével telik, a Piast-kastélytól a lenyűgöző bazilikáig. Egy kiadós sziléziai ebéd után egy séta elvezet a központtól kissé távolabb eső építészeti gyöngyszemekhez. A délután pihenéssel zárul a zöld Nacyna folyóparti parkban, ahol átgondolhatja a nap élményeit.",
         "ro": "Începeți ziua în vibranta Piață a Pieței din Rybnik, înconjurată de arhitectură istorică. Dimineața este dedicată explorării centrului orașului, de la Castelul Piast la impresionanta bazilică. După un prânz silezian consistent, o plimbare vă va duce la bijuteriile arhitecturale din afara centrului imediat. După-amiaza se încheie relaxant în parcul verde de pe râul Nacyna, unde puteți reflecta la impresiile zilei.",
-        "en": "Start your day in Rybnik's vibrant Market Square, surrounded by historic architecture. The morning is dedicated to exploring the city center, from the Piast Castle to the impressive basilica. After a hearty Silesian lunch, a walk will take you to the architectural gems just outside the immediate center. The afternoon concludes relaxing in the green park on the Nacyna River, where you can reflect on the day's impressions."
+        "en": "Start your day in Rybnik's vibrant Market Square, surrounded by historic architecture. The morning is dedicated to exploring the city center, from the Piast Castle to the impressive basilica. After a hearty Silesian lunch, a walk will take you to the architectural gems just outside the immediate center. The afternoon concludes relaxing in the green park on the Nacyna River, where you can reflect on the day's impressions.",
+        "pl": "Rozpocznij dzień na tętniącym życiem Rynku w Rybniku, otoczonym zabytkową architekturą. Rano zwiedzaj centrum — od Zamku Piastowskiego po imponującą bazylikę. Po sycącym, śląskim obiedzie spacer zaprowadzi cię do pereł architektury tuż poza centrum. Popołudnie zakończ relaksem w zielonym parku nad Nacyną, gdzie możesz podsumować wrażenia dnia."
       },
       "gastro_picks": {
         "de": [
@@ -381,6 +396,11 @@
           "Wear comfortable shoes as the entire center is easily walkable.",
           "Most sights in the center are close to each other.",
           "Allow enough time for the basilica, especially if you want to climb the towers."
+        ],
+        "pl": [
+          "Noś wygodne buty — całe centrum da się łatwo zwiedzać pieszo.",
+          "Większość atrakcji w centrum jest blisko siebie.",
+          "Przeznacz wystarczająco czasu na bazylikę, zwłaszcza jeśli chcesz wejść na wieże."
         ]
       },
       "variants": {
@@ -389,7 +409,8 @@
             "de": "Der Vormittag am Marktplatz lässt sich gut unter den Arkaden des Rathauses verbringen. Danach bietet das Piastenschloss trockenen Unterschlupf für die Geschichte der Stadt.\n\nMittags schützt die massive Architektur der St.-Antonius-Basilika vor den Schauern. In der Altstadt finden Sie zahlreiche Lokale für eine gemütliche, warme Pause.\n\nDer Nachmittag im Juliusz-Komplex zeigt beeindruckende Revitalisierung in Innenräumen. Der Regen verleiht den Backsteinfassaden einen tieferen, satten Farbton.\n\nAbends bietet der Park an der Nacyna befestigte Wege. Mit einem festen Schirm glänzen die Lichter der Stadt stimmungsvoll in den Pfützen auf dem Rückweg.",
             "hu": "A délelőttöt a főtéri városháza árkádjai alatt kezdjük, védve az esőtől. A Piast-kastély falai között szárazon merülhetünk el a helyi történelemben.\n\nDélben a monumentális Szent Antal-bazilika nyújt menedéket. Az óvárosi ebéd ideális alkalom, hogy kivárjuk a komolyabb záporok végét a melegben.\n\nDélután a Juliusz-kórház épületegyüttese belső tereivel hívogat. Az esőben a vörös téglás épületek színei még karakteresebbé válnak.\n\nEste a Nacyna-parti park aszfaltozott útjai jól járhatóak. Az eső utáni városi fények különleges hangulatot árasztanak a főtérre visszatérve.",
             "ro": "Dimineața în Piața Mare începe sub arcadele primăriei, feriți de ploaie. Castelul Piast oferă un adăpost uscat pentru explorarea istoriei locale.\n\nLa prânz, arhitectura masivă a Bazilicii Sf. Anton oferă protecție împotriva apei. Restaurantele din Centrul Vechi sunt perfecte pentru o pauză caldă.\n\nDupă-amiaza, complexul Juliusz impresionează prin interioarele sale renovate. Ploaia accentuează nuanțele de roșu ale fațadelor istorice din cărămidă.\n\nSeara, aleile pavate din parcul de pe râul Nacyna rămân accesibile. Cu o umbrelă bună, reflexiile luminilor orașului în apă creează un cadru pitoresc.",
-            "en": "Spend the morning at the Market Square, using the Town Hall arcades for cover. The Piast Castle then provides a dry haven to explore Rybnik's past.\n\nAt midday, the massive St. Anthony's Basilica offers protection from the rain. The Old Town's cafes are ideal for a cozy, warm lunch break.\n\nThe afternoon at the Juliusz complex showcases impressive indoor revitalization. The rain gives the historic brickwork a deeper, more vibrant tone.\n\nIn the evening, the Nacyna River park features paved paths suitable for a wet stroll. With a sturdy umbrella, the city lights reflect beautifully on the way back."
+            "en": "Spend the morning at the Market Square, using the Town Hall arcades for cover. The Piast Castle then provides a dry haven to explore Rybnik's past.\n\nAt midday, the massive St. Anthony's Basilica offers protection from the rain. The Old Town's cafes are ideal for a cozy, warm lunch break.\n\nThe afternoon at the Juliusz complex showcases impressive indoor revitalization. The rain gives the historic brickwork a deeper, more vibrant tone.\n\nIn the evening, the Nacyna River park features paved paths suitable for a wet stroll. With a sturdy umbrella, the city lights reflect beautifully on the way back.",
+            "pl": "Spędź poranek na Rynku, korzystając z arkad Ratusza jako schronienia. Zamek Piastowski stanowi następnie suche miejsce do poznania przeszłości Rybnika.\n\nW południe masywna Bazylika św. Antoniego zapewnia ochronę przed deszczem. Kawiarnie Starego Miasta są idealne na przytulny, ciepły lunch.\n\nPopołudnie w kompleksie Juliusza ukazuje imponujące przykłady rewitalizacji wnętrz. Deszcz wydobywa głębsze, bardziej nasycone barwy historycznej cegły.\n\nWieczorem park nad Nacyną ma utwardzone ścieżki odpowiednie na mokry spacer. Z solidną parasolką światła miasta pięknie odbijają się w drodze powrotnej."
           },
           "stops": [
             {
@@ -398,7 +419,8 @@
                 "de": "Nutzen Sie die Arkadengänge des Rathauses als trockenen Aussichtspunkt.",
                 "hu": "A városháza árkádos folyosói tökéletes kilátást nyújtanak az esőben is.",
                 "ro": "Folosiți arcadele primăriei ca punct de observație ferit de ploaie.",
-                "en": "Use the Town Hall arcades as a dry viewpoint over the square."
+                "en": "Use the Town Hall arcades as a dry viewpoint over the square.",
+                "pl": "Korzystaj z arkad Ratusza jako suchego punktu widokowego na Rynek."
               }
             },
             {
@@ -407,7 +429,8 @@
                 "de": "Kurzer Stopp; Nepomuk ist der Schutzpatron gegen Wassergefahren.",
                 "hu": "Csak egy gyors megálló; Nepomuki Szent János a vízi veszélyek védőszentje.",
                 "ro": "Oprire scurtă; Sf. Ioan Nepomuc este patronul împotriva inundațiilor.",
-                "en": "Quick stop; Nepomuk is the patron saint protecting against water hazards."
+                "en": "Quick stop; Nepomuk is the patron saint protecting against water hazards.",
+                "pl": "Krótki postój; Nepomuk jest patronem chroniącym przed zagrożeniami wodnymi."
               }
             },
             {
@@ -416,7 +439,8 @@
                 "de": "Die Innenausstellungen sind ideal, um heftigen Regen zu überbrücken.",
                 "hu": "A belső kiállítások ideálisak a hevesebb záporok átvészelésére.",
                 "ro": "Expozițiile interioare sunt ideale pentru a evita ploaia torențială.",
-                "en": "The indoor exhibits are perfect for bypassing heavy rain showers."
+                "en": "The indoor exhibits are perfect for bypassing heavy rain showers.",
+                "pl": "Wystawy wewnętrzne są idealne, by ominąć ulewy."
               }
             },
             {
@@ -425,7 +449,8 @@
                 "de": "Das weitläufige Innere bietet viel Platz und Schutz vor dem Wetter.",
                 "hu": "A tágas belső tér rengeteg helyet és védelmet nyújt az időjárás elől.",
                 "ro": "Interiorul vast oferă mult spațiu și adăpost împotriva vremii.",
-                "en": "The spacious interior provides plenty of room and shelter from the elements."
+                "en": "The spacious interior provides plenty of room and shelter from the elements.",
+                "pl": "Przestronne wnętrze daje dużo miejsca i ochronę przed żywiołami."
               }
             },
             {
@@ -434,7 +459,8 @@
                 "de": "Wählen Sie ein Restaurant mit Garderobe für nasse Mäntel.",
                 "hu": "Válasszon olyan éttermet, ahol van hely a vizes kabátoknak.",
                 "ro": "Alegeți un restaurant cu spațiu pentru hainele ude.",
-                "en": "Choose a restaurant with a cloakroom for wet coats."
+                "en": "Choose a restaurant with a cloakroom for wet coats.",
+                "pl": "Wybierz restaurację z szatnią na mokre płaszcze."
               }
             },
             {
@@ -443,7 +469,8 @@
                 "de": "Die Ausstellungen zur Medizingeschichte befinden sich komplett im Trockenen.",
                 "hu": "Az orvostörténeti kiállítások teljesen fedett helyen találhatók.",
                 "ro": "Expozițiile de istorie medicală sunt situate complet la interior.",
-                "en": "The medical history exhibitions are located entirely indoors."
+                "en": "The medical history exhibitions are located entirely indoors.",
+                "pl": "Wystawy historii medycyny znajdują się w całości wewnątrz budynków."
               }
             },
             {
@@ -452,7 +479,8 @@
                 "de": "Feste Schuhe sind ratsam, auch wenn die Hauptwege befestigt sind.",
                 "hu": "Vízálló cipő ajánlott, még ha a főutak burkoltak is.",
                 "ro": "Încălțămintea impermeabilă este recomandată, chiar dacă aleile sunt pavate.",
-                "en": "Waterproof shoes are advised, even though the main paths are paved."
+                "en": "Waterproof shoes are advised, even though the main paths are paved.",
+                "pl": "Polecane są wodoodporne buty, mimo że główne trasy są utwardzone."
               }
             }
           ],
@@ -484,6 +512,13 @@
               "Most Old Town cafes are equipped with umbrella stands for guests.",
               "Avoid unpaved grassy areas in Nacyna Park during persistent rain.",
               "The red brick architecture looks particularly striking in wet weather."
+            ],
+            "pl": [
+              "Arkady Rynku to najlepsze schronienie podczas nagłych ulewnych deszczów.",
+              "Bazylika i Zamek oferują rozbudowane możliwości aktywności w pomieszczeniach.",
+              "Większość kawiarni na Starym Rynku jest wyposażona w stojaki na parasole dla gości.",
+              "Unikaj nieutwardzonych trawiastych terenów w parku Nacyna podczas długotrwałych opadów.",
+              "Ceglana architektura wygląda szczególnie efektownie w wilgotnej pogodzie."
             ]
           }
         },
@@ -492,7 +527,8 @@
             "de": "Ein klarer Wintermorgen am Marktplatz beginnt mit dem Duft von Gebäck und Kaffee. Die Kälte wird durch die festliche Beleuchtung der historischen Fassaden gemildert.\n\nMittags bieten das Piastenschloss und die St.-Antonius-Basilika eine wohltemperierte Zeitreise. Die massiven Mauern halten den eisigen Wind der schlesischen Ebene ab.\n\nNachmittags leuchtet der Juliusz-Komplex in der frühen Dämmerung. Die Kombination aus rotem Backstein und weißem Schnee erzeugt eine besondere Ästhetik.\n\nAbends wirkt der Park an der Nacyna wie verzaubert, wenn die Lichter auf dem Eis glitzern. Der Rückweg zum Markt führt durch die beleuchtete, belebte Innenstadt.",
             "hu": "A friss téli reggel a főtéren sütemény és kávé illatával kezdődik. A hideget a történelmi homlokzatok ünnepi kivilágítása teszi barátságosabbá.\n\nDélben a Piast-kastély és a Szent Antal-bazilika falai között melegedhetünk fel. A vaskos falak kizárják a sziléziai síkság felől fújó metsző szelet.\n\nDélután a Juliusz-kórház épületei már a korai szürkületben pompáznak. A vörös tégla és a fehér hó kontrasztja különleges látványt nyújt.\n\nEste a Nacyna-parti parkban a fények megcsillannak a jégen vagy a havon. A főtérre való visszatérés a kivilágított, nyüzsgő belvároson át vezet.",
             "ro": "O dimineață geroasă de iarnă în Piața Mare începe cu miros de cafea și patiserie. Frigul este îndulcit de iluminatul festiv al fațadelor istorice.\n\nLa prânz, Castelul Piast și Bazilica Sf. Anton oferă un refugiu încălzit. Zidurile masive opresc vântul tăios care suflă dinspre câmpia Sileziei.\n\nDupă-amiaza, complexul Juliusz strălucește în amurgul timpuriu. Contrastul dintre cărămida roșie și zăpada albă creează o estetică aparte.\n\nSeara, parcul de pe râul Nacyna pare fermecat, cu lumini reflectate în gheață. Drumul de întoarcere spre centru trece prin zonele iluminate și animate.",
-            "en": "A crisp winter morning at the Market Square starts with the aroma of coffee and pastries. Festive lights soften the chill on the historic facades.\n\nAt midday, the Piast Castle and St. Anthony's Basilica offer warm interiors for exploration. Their thick walls block the biting winds of the Silesian plains.\n\nThe afternoon light hits the Juliusz complex beautifully during the early sunset. The contrast of red bricks and white snow is visually stunning.\n\nIn the evening, the Nacyna River park sparkles as lights twinkle on the ice or snow. The walk back to the center is magical through the illuminated streets."
+            "en": "A crisp winter morning at the Market Square starts with the aroma of coffee and pastries. Festive lights soften the chill on the historic facades.\n\nAt midday, the Piast Castle and St. Anthony's Basilica offer warm interiors for exploration. Their thick walls block the biting winds of the Silesian plains.\n\nThe afternoon light hits the Juliusz complex beautifully during the early sunset. The contrast of red bricks and white snow is visually stunning.\n\nIn the evening, the Nacyna River park sparkles as lights twinkle on the ice or snow. The walk back to the center is magical through the illuminated streets.",
+            "pl": "Rześkie zimowe poranki na Rynku zaczynają się zapachem kawy i ciastek. Świąteczne światła łagodzą chłód na zabytkowych elewacjach.\n\nW południe Zamek Piastów i Bazylika św. Antoniego oferują ciepłe wnętrza do zwiedzania. Ich grube mury zatrzymują przenikliwy wiatr śląskich równin.\n\nPo południu światło uderza w kompleks Juliusza pięknie podczas wczesnego zachodu słońca. Kontrast czerwonej cegły i białego śniegu robi oszałamiające wrażenie.\n\nWieczorem park nad rzeką Nacyną błyszczy, gdy światła migoczą na lodzie lub śniegu. Powrót do centrum przez oświetlone ulice jest magiczny."
           },
           "stops": [
             {
@@ -501,7 +537,8 @@
                 "de": "Wärmen Sie sich mit einem heißen Getränk in den Cafés am Markt auf.",
                 "hu": "Melegedjen fel egy forró itallal a főtéri kávézók egyikében.",
                 "ro": "Încălziți-vă cu o băutură caldă la cafenelele din piață.",
-                "en": "Warm up with a hot drink at one of the Market Square cafes."
+                "en": "Warm up with a hot drink at one of the Market Square cafes.",
+                "pl": "Rozgrzej się gorącym napojem w jednej z kawiarni na Rynku."
               }
             },
             {
@@ -510,7 +547,8 @@
                 "de": "Vorsicht bei Glätte auf dem Kopfsteinpflaster rund um die Statue.",
                 "hu": "Vigyázzon, a szobor körüli macskakövek csúszósak lehetnek.",
                 "ro": "Atenție la polei pe pavajul din jurul statuii.",
-                "en": "Be careful of ice on the cobblestones around the statue."
+                "en": "Be careful of ice on the cobblestones around the statue.",
+                "pl": "Uważaj na lód na kostce brukowej wokół pomnika."
               }
             },
             {
@@ -519,7 +557,8 @@
                 "de": "Nutzen Sie den Schlossbesuch als ausgiebige Aufwärmpause.",
                 "hu": "Használja ki a kastélylátogatást egy alapos bemelegedésre.",
                 "ro": "Folosiți vizita la castel ca o pauză prelungită de încălzire.",
-                "en": "Use the castle visit as an extended indoor warming break."
+                "en": "Use the castle visit as an extended indoor warming break.",
+                "pl": "Wykorzystaj wizytę w zamku jako dłuższą przerwę na ogrzanie się w pomieszczeniu."
               }
             },
             {
@@ -528,7 +567,8 @@
                 "de": "Die Basilika ist im Winter oft beeindruckend beleuchtet.",
                 "hu": "A bazilika télen gyakran lenyűgöző díszkivilágítást kap.",
                 "ro": "Bazilica are adesea un iluminat festiv impresionant iarna.",
-                "en": "The Basilica often features impressive festive lighting in winter."
+                "en": "The Basilica often features impressive festive lighting in winter.",
+                "pl": "Bazylika często ma imponujące świąteczne oświetlenie zimą."
               }
             },
             {
@@ -537,7 +577,8 @@
                 "de": "Probieren Sie eine deftige schlesische Suppe gegen die Kälte.",
                 "hu": "Kóstoljon meg egy tartalmas sziléziai levest a hideg ellen.",
                 "ro": "Încercați o supă sileziană consistentă împotriva frigului.",
-                "en": "Try a hearty Silesian soup to ward off the winter chill."
+                "en": "Try a hearty Silesian soup to ward off the winter chill.",
+                "pl": "Spróbuj treściwej śląskiej zupy, by odpędzić zimowy chłód."
               }
             },
             {
@@ -546,7 +587,8 @@
                 "de": "Das rote Backsteinensemble wirkt im Schnee besonders malerisch.",
                 "hu": "A vörös téglás épületegyüttes a hóban különösen festői.",
                 "ro": "Ansamblul de cărămidă roșie arată pitoresc în zăpadă.",
-                "en": "The red brick ensemble looks particularly picturesque in the snow."
+                "en": "The red brick ensemble looks particularly picturesque in the snow.",
+                "pl": "Ceglany zespół budynków wygląda szczególnie malowniczo na śniegu."
               }
             },
             {
@@ -555,7 +597,8 @@
                 "de": "Beachten Sie den frühen Sonnenuntergang gegen 16:00 Uhr.",
                 "hu": "Számoljon a korai, 16 óra körüli naplementével.",
                 "ro": "Țineți cont de apusul timpuriu, în jurul orei 16:00.",
-                "en": "Note the early sunset around 4:00 PM for park visibility."
+                "en": "Note the early sunset around 4:00 PM for park visibility.",
+                "pl": "Zwróć uwagę na wczesny zachód słońca około 16:00, wpływający na widoczność w parku."
               }
             }
           ],
@@ -587,6 +630,13 @@
               "The sun sets before 4:00 PM in the peak of winter.",
               "Old Town cobblestones can be very slippery during frost.",
               "Enjoy the festive Christmas decorations at the Market Square."
+            ],
+            "pl": [
+              "Noś warstwy termiczne; wiatr w Rybniku może być przenikliwy.",
+              "Kościoły i muzea to najlepsze miejsca na rozgrzanie się.",
+              "Słońce zachodzi przed 16:00 w środku zimy.",
+              "Kostka brukowa na Starym Mieście może być bardzo śliska podczas przymrozków.",
+              "Ciesz się świątecznymi dekoracjami bożonarodzeniowymi na Rynku."
             ]
           }
         }
@@ -605,7 +655,8 @@
             "de": "Marktplatz Rybnik",
             "hu": "Piactér Rybnik",
             "ro": "Piața Centrală Rybnik",
-            "en": "Rybnik Market Square"
+            "en": "Rybnik Market Square",
+            "pl": "Rynek w Rybniku"
           },
           "coords": [
             18.5461,
@@ -621,7 +672,8 @@
             "de": "Mieten Sie ein Fahrrad in der Nähe und starten Sie Ihre Tour.",
             "hu": "Béreljen kerékpárt a közelben, és kezdje meg a túrát.",
             "ro": "Închiriați o bicicletă din apropiere și începeți turul.",
-            "en": "Rent a bike nearby and start your tour."
+            "en": "Rent a bike nearby and start your tour.",
+            "pl": "Wypożycz rower w pobliżu i rozpocznij trasę."
           }
         },
         {
@@ -629,7 +681,8 @@
             "de": "Piastenschloss",
             "hu": "Piast-kastély",
             "ro": "Castelul Piast",
-            "en": "Piast Castle"
+            "en": "Piast Castle",
+            "pl": "Zamek Piastów"
           },
           "coords": [
             18.542,
@@ -645,7 +698,8 @@
             "de": "Stellen Sie Ihr Fahrrad ab und bewundern Sie die Fassade.",
             "hu": "Parkolja le a kerékpárt és csodálja meg a homlokzatot.",
             "ro": "Parcați bicicleta și admirați fațada.",
-            "en": "Park your bike and admire the facade."
+            "en": "Park your bike and admire the facade.",
+            "pl": "Zaparkuj rower i podziwiaj elewację."
           }
         },
         {
@@ -653,7 +707,8 @@
             "de": "Basilika St. Antonius",
             "hu": "Szent Antal-bazilika",
             "ro": "Bazilica Sf. Anton",
-            "en": "Basilica of St. Anthony"
+            "en": "Basilica of St. Anthony",
+            "pl": "Bazylika św. Antoniego"
           },
           "coords": [
             18.549,
@@ -669,7 +724,8 @@
             "de": "Ein Muss für jeden Besucher, planen Sie Zeit für den Innenraum ein.",
             "hu": "Minden látogató számára kötelező, szánjon időt a belső térre.",
             "ro": "O vizită obligatorie pentru fiecare vizitator, acordați timp pentru interior.",
-            "en": "A must-see for every visitor, allow time for the interior."
+            "en": "A must-see for every visitor, allow time for the interior.",
+            "pl": "Miejsce obowiązkowe dla każdego odwiedzającego, poświęć czas na wnętrze."
           }
         },
         {
@@ -677,7 +733,8 @@
             "de": "Juliusz-Krankenhauskomplex",
             "hu": "Juliusz Kórházkomplexum",
             "ro": "Complexul Spitalicesc Juliusz",
-            "en": "Juliusz Hospital Complex"
+            "en": "Juliusz Hospital Complex",
+            "pl": "Kompleks Szpitalny Juliusza"
           },
           "coords": [
             18.54,
@@ -693,7 +750,8 @@
             "de": "Machen Sie eine kurze Pause, um die beeindruckende Backsteinarchitektur zu fotografieren.",
             "hu": "Tartson egy rövid szünetet, hogy lefényképezze a lenyűgöző téglaépítészetet.",
             "ro": "Faceți o scurtă pauză pentru a fotografia arhitectura impresionantă din cărămidă.",
-            "en": "Take a short break to photograph the impressive brick architecture."
+            "en": "Take a short break to photograph the impressive brick architecture.",
+            "pl": "Zrób krótką przerwę, by sfotografować imponującą ceglaną architekturę."
           }
         },
         {
@@ -701,7 +759,8 @@
             "de": "Bergwerk Ignacy",
             "hu": "Ignacy bánya",
             "ro": "Mina Ignacy",
-            "en": "Ignacy Mine"
+            "en": "Ignacy Mine",
+            "pl": "Szyb Ignacy"
           },
           "coords": [
             18.508,
@@ -717,7 +776,8 @@
             "de": "Ein faszinierender Einblick in die industrielle Vergangenheit Schlesiens. Planen Sie hier auch Ihr Mittagessen.",
             "hu": "Lenyűgöző betekintés Szilézia ipari múltjába. Tervezze ide az ebédjét is.",
             "ro": "O perspectivă fascinantă asupra trecutului industrial al Sileziei. Planificați-vă și prânzul aici.",
-            "en": "A fascinating insight into Silesia's industrial past. Plan your lunch here as well."
+            "en": "A fascinating insight into Silesia's industrial past. Plan your lunch here as well.",
+            "pl": "Fascynujące spojrzenie na przemysłową przeszłość Śląska. Zaplanuj tu także obiad."
           }
         },
         {
@@ -725,7 +785,8 @@
             "de": "Park an der Nacyna",
             "hu": "Park a Nacyna folyónál",
             "ro": "Parcul de pe râul Nacyna",
-            "en": "Park on the Nacyna River"
+            "en": "Park on the Nacyna River",
+            "pl": "Park nad rzeką Nacyną"
           },
           "coords": [
             18.555,
@@ -741,7 +802,8 @@
             "de": "Fahren Sie entlang des Flusses und genießen Sie die Natur nach der Stadt- und Industrietour.",
             "hu": "Kerékpározzon a folyó mentén, és élvezze a természetet a városi és ipari túra után.",
             "ro": "Pedalați de-a lungul râului și bucurați-vă de natură după turul urban și industrial.",
-            "en": "Cycle along the river and enjoy nature after the city and industrial tour."
+            "en": "Cycle along the river and enjoy nature after the city and industrial tour.",
+            "pl": "Pedałuj wzdłuż rzeki i ciesz się przyrodą po zwiedzaniu miasta i obiektów przemysłowych."
           }
         },
         {
@@ -749,7 +811,8 @@
             "de": "Rückkehr zum Marktplatz",
             "hu": "Visszatérés a Piactérre",
             "ro": "Întoarcere la Piața Centrală",
-            "en": "Return to the Market Square"
+            "en": "Return to the Market Square",
+            "pl": "Powrót na Rynek"
           },
           "coords": [
             18.5461,
@@ -765,7 +828,8 @@
             "de": "Beenden Sie den Tag bei einem wohlverdienten Getränk in einem der Cafés.",
             "hu": "Zárja a napot egy jól megérdemelt itallal az egyik kávézóban.",
             "ro": "Încheiați ziua cu o băutură bine meritată la una dintre cafenele.",
-            "en": "End the day with a well-deserved drink at one of the cafes."
+            "en": "End the day with a well-deserved drink at one of the cafes.",
+            "pl": "Zakończ dzień zasłużonym napojem w jednej z kawiarni."
           }
         }
       ],
@@ -773,7 +837,8 @@
         "de": "Ihre Radtour durch Rybnik beginnt im Herzen der Stadt, am Marktplatz. Von dort aus erkunden Sie die historischen Sehenswürdigkeiten des Zentrums. Am späten Vormittag führt Sie die Route zum beeindruckenden Industriekomplex des Bergwerks Ignacy, ein Zeugnis der reichen Bergbaugeschichte der Region. Nach dieser industriellen Erkundung und einem Mittagessen dort, radeln Sie zurück in die Stadt, um den Nachmittag entspannt im Park am Fluss Nacyna zu verbringen.",
         "hu": "A rybniki kerékpártúra a város szívében, a piactéren kezdődik. Innen fedezi fel a központ történelmi látnivalóit. A késő délelőtt az útvonal az Ignacy bánya lenyűgöző ipari komplexumához vezet, amely a régió gazdag bányászati múltjának tanúja. Az ipari felfedezés és egy ottani ebéd után visszakerékpározik a városba, hogy a délutánt a Nacyna folyó melletti parkban töltse.",
         "ro": "Turul cu bicicleta prin Rybnik începe în inima orașului, în Piața Centrală. De acolo, veți explora obiectivele istorice din centru. Spre sfârșitul dimineții, traseul vă duce la impresionantul complex industrial al minei Ignacy, o mărturie a bogatei istorii miniere a regiunii. După această explorare industrială și un prânz acolo, veți pedala înapoi în oraș pentru a petrece după-amiaza relaxându-vă în parcul de pe râul Nacyna.",
-        "en": "Your bike tour through Rybnik starts in the heart of the city, at the Market Square. From there, you'll explore the historical sights of the center. In the late morning, the route takes you to the impressive industrial complex of the Ignacy Mine, a testament to the region's rich mining history. After this industrial exploration and lunch there, you'll cycle back into the city to spend the afternoon relaxing in the park on the Nacyna River."
+        "en": "Your bike tour through Rybnik starts in the heart of the city, at the Market Square. From there, you'll explore the historical sights of the center. In the late morning, the route takes you to the impressive industrial complex of the Ignacy Mine, a testament to the region's rich mining history. After this industrial exploration and lunch there, you'll cycle back into the city to spend the afternoon relaxing in the park on the Nacyna River.",
+        "pl": "Twoja wycieczka rowerowa po Rybniku zaczyna się w sercu miasta, na Rynku. Stamtąd odkryjesz zabytki centrum. W późnych godzinach porannych trasa prowadzi do imponującego kompleksu przemysłowego Szybu Ignacy, świadectwa bogatej górniczej historii regionu. Po tej przemysłowej eksploracji i obiedzie tam, wrócisz rowerem do miasta, by spędzić popołudnie relaksując się w parku nad rzeką Nacyną."
       },
       "gastro_picks": {
         "de": [
@@ -965,6 +1030,11 @@
           "Check your bike before setting off, especially before the longer stretch to the mine.",
           "Some Old Town streets are cobblestoned, ride carefully.",
           "Take enough water for the tour."
+        ],
+        "pl": [
+          "Sprawdź rower przed wyruszeniem, zwłaszcza przed dłuższym odcinkiem do szybu.",
+          "Niektóre ulice Starego Miasta są brukowane, jedź ostrożnie.",
+          "Weź wystarczająco dużo wody na trasę."
         ]
       },
       "variants": {
@@ -973,7 +1043,8 @@
             "de": "Ein regnerischer Start am Markt erfordert gute Ausrüstung. Die Fahrt zum Schloss ist kurz, sodass Sie schnell wieder ins Trockene gelangen können.\n\nMittags führt der Weg zur Basilika über nasse Straßen. Das Highlight ist die Zeche Ignacy, wo Sie ausgiebig Zeit unter Dach verbringen können.\n\nDer Nachmittag bietet die längste Fahrstrecke. Die industrielle Kulisse der Zeche wirkt bei grauem Himmel besonders authentisch und imposant.\n\nAbends geht es über den Nacyna-Park zurück. Die Radwege sind gut asphaltiert, aber Vorsicht in Kurven bei nasser Fahrbahn auf dem Weg zum Markt.",
             "hu": "A főtéri induláshoz esőben jó felszerelés kell. A kastélyig tartó út rövid, így hamar fedett helyre kerülhetünk az első szakasz után.\n\nDélben a bazilikához vezető vizes aszfalton óvatosan haladjunk. A nap fénypontja az Ignacy-akna, ahol hosszú időt tölthetünk tető alatt.\n\nDélután következik a leghosszabb tekerés. Az ipari táj a szürke égbolt alatt különösen hiteles és tekintélyt parancsoló.\n\nEste a Nacyna-parkon át vezet az út vissza. A kerékpárutak aszfaltozottak, de a vizes kanyarokban tartsunk nagyobb féktávot a főtérig.",
             "ro": "Un start ploios în piață necesită echipament bun. Drumul până la castel este scurt, deci veți ajunge rapid la adăpost după prima etapă.\n\nLa prânz, drumul spre bazilică necesită atenție pe asfaltul ud. Punctul forte este Mina Ignacy, unde puteți petrece mult timp la interior.\n\nDupă-amiaza implică cea mai lungă distanță de pedalat. Peisajul industrial sub cerul gri pare autentic și impunător.\n\nSeara, revenirea se face prin parcul Nacyna. Pistele sunt asfaltate, dar prudență maximă în curbe pe drumul spre Piața Mare.",
-            "en": "A rainy start at the Market Square demands good gear. The ride to the castle is short, ensuring you reach cover quickly after the first leg.\n\nAt midday, navigate wet streets to the Basilica. The highlight is the Ignacy Mine, offering a long, dry exploration of industrial history.\n\nThe afternoon involves the longest cycling stretch. The industrial backdrop feels especially authentic and imposing under grey skies.\n\nIn the evening, return via Nacyna Park. The bike paths are well-paved, but exercise caution on wet turns while heading back to the square."
+            "en": "A rainy start at the Market Square demands good gear. The ride to the castle is short, ensuring you reach cover quickly after the first leg.\n\nAt midday, navigate wet streets to the Basilica. The highlight is the Ignacy Mine, offering a long, dry exploration of industrial history.\n\nThe afternoon involves the longest cycling stretch. The industrial backdrop feels especially authentic and imposing under grey skies.\n\nIn the evening, return via Nacyna Park. The bike paths are well-paved, but exercise caution on wet turns while heading back to the square.",
+            "pl": "Deszczowy start na Rynku wymaga dobrego sprzętu. Jazda do zamku jest krótka, dzięki czemu szybko dotrzesz pod dach po pierwszym odcinku.\n\nW południe nawiguj po mokrych ulicach w stronę Bazyliki. Główną atrakcją jest Szyb Ignacy, oferujący długie, suche zwiedzanie przemysłowej historii.\n\nPo południu czeka najdłuższy odcinek rowerowy. Przemysłowe tło wydaje się szczególnie autentyczne i monumentalne pod szarym niebem.\n\nWieczorem wróć przez park Nacyna. Ścieżki rowerowe są dobrze utwardzone, ale zachowaj ostrożność na mokrych zakrętach w drodze powrotnej na rynek."
           },
           "stops": [
             {
@@ -982,7 +1053,8 @@
                 "de": "Prüfen Sie Ihre Bremsen vor dem Start auf nasser Fahrbahn.",
                 "hu": "Indulás előtt ellenőrizze a fékeket a vizes útfelület miatt.",
                 "ro": "Verificați frânele înainte de pornire pe carosabil ud.",
-                "en": "Check your brakes before starting on the wet road surface."
+                "en": "Check your brakes before starting on the wet road surface.",
+                "pl": "Sprawdź hamulce przed rozpoczęciem jazdy po mokrej nawierzchni."
               }
             },
             {
@@ -991,7 +1063,8 @@
                 "de": "Fahrradständer sind vorhanden; nutzen Sie die Zeit zum Trocknen.",
                 "hu": "Vannak kerékpártárolók; használja ki az időt a száradásra.",
                 "ro": "Există rastele de biciclete; profitați de timp pentru a vă usca.",
-                "en": "Bike racks are available; use the visit time to dry off."
+                "en": "Bike racks are available; use the visit time to dry off.",
+                "pl": "Są dostępne stojaki rowerowe; wykorzystaj czas wizyty na wysuszenie się."
               }
             },
             {
@@ -1000,7 +1073,8 @@
                 "de": "Vermeiden Sie das Befahren von Markierungen auf der Straße.",
                 "hu": "Kerülje az útburkolati jelekre való rácsúszást.",
                 "ro": "Evitați pedalarea pe marcajele rutiere umede.",
-                "en": "Avoid riding directly on wet road markings as they are slippery."
+                "en": "Avoid riding directly on wet road markings as they are slippery.",
+                "pl": "Unikaj jazdy bezpośrednio po mokrych oznaczeniach na jezdni, są śliskie."
               }
             },
             {
@@ -1009,7 +1083,8 @@
                 "de": "Stellen Sie das Rad unter Bäume oder Vorsprünge ab.",
                 "hu": "Parkoljon a fák vagy az ereszek védelmében.",
                 "ro": "Parcați bicicleta sub copaci sau sub streșini.",
-                "en": "Park your bike under the shelter of trees or eaves."
+                "en": "Park your bike under the shelter of trees or eaves.",
+                "pl": "Zaparkuj rower pod osłoną drzew lub podcieniami."
               }
             },
             {
@@ -1018,7 +1093,8 @@
                 "de": "Ein perfekter Ort für eine lange Pause vom Regen.",
                 "hu": "Tökéletes helyszín egy hosszú esőszünet tartására.",
                 "ro": "Locația perfectă pentru o pauză lungă de ploaie.",
-                "en": "A perfect location for a long break from the rain."
+                "en": "A perfect location for a long break from the rain.",
+                "pl": "Idealne miejsce na dłuższą przerwę od deszczu."
               }
             },
             {
@@ -1027,7 +1103,8 @@
                 "de": "Achten Sie auf Pfützen, die tiefe Schlaglöcher verbergen können.",
                 "hu": "Vigyázzon a tócsákkal, amik mély gödröket rejthetnek.",
                 "ro": "Atenție la bălțile care pot ascunde gropi adânci.",
-                "en": "Watch out for puddles that might hide deep potholes."
+                "en": "Watch out for puddles that might hide deep potholes.",
+                "pl": "Uważaj na kałuże, które mogą ukrywać głębokie dziury."
               }
             },
             {
@@ -1036,7 +1113,8 @@
                 "de": "Ein warmer Tee am Ziel ist jetzt genau das Richtige.",
                 "hu": "A célba éréskor egy forró tea lesz a legjobb jutalom.",
                 "ro": "Un ceai cald la destinație este exact ce aveți nevoie.",
-                "en": "A hot tea at the destination is the perfect reward."
+                "en": "A hot tea at the destination is the perfect reward.",
+                "pl": "Gorąca herbata na miejscu to doskonała nagroda."
               }
             }
           ],
@@ -1068,6 +1146,13 @@
               "Watch out for slippery fallen leaves on the Nacyna Park paths.",
               "Wear bright reflectors; visibility is significantly reduced in rain.",
               "Check your tire pressure for better grip on wet surfaces."
+            ],
+            "pl": [
+              "Błotniki są niezbędne w Rybniku przy takiej pogodzie.",
+              "Szyb Ignacy oferuje najlepsze dłuższe schronienie dla rowerzystów.",
+              "Uważaj na śliskie opadłe liście na ścieżkach parku Nacyna.",
+              "Noś jasne odblaski; widoczność znacznie spada w deszczu.",
+              "Sprawdź ciśnienie w oponach dla lepszej przyczepności na mokrej nawierzchni."
             ]
           }
         },
@@ -1076,7 +1161,8 @@
             "de": "Ein frostiger Start erfordert warme Handschuhe und Schichten. Die kurzen Etappen in der Innenstadt helfen, nicht auszukühlen.\n\nMittags wärmen die Besichtigungen von Schloss und Basilika Körper und Geist auf. Die trockene Winterluft macht das Treten anstrengender, aber erfrischend.\n\nNachmittags steht die Fahrt zur Zeche Ignacy an. Die industrielle Anlage sieht mit Reif überzogen spektakulär aus und bietet warme Ausstellungsräume.\n\nAbends führt die Tour durch den verschneiten Nacyna-Park. Mit guter Beleuchtung ist die Rückfahrt zum Marktplatz ein stimmungsvoller Abschluss des Tages.",
             "hu": "A fagyos induláshoz meleg kesztyű és réteges öltözet kell. A belvárosi rövid szakaszok segítenek, hogy ne hűljünk ki túlságosan.\n\nDélben a kastély és a bazilika látogatása felmelegíti a testet. A száraz téli levegőben a tekerés fárasztóbb, de frissítő élmény.\n\nDélután az Ignacy-akna felé vesszük az irányt. Az ipari műemlék zúzmarásan lenyűgöző látvány, a kiállítóterek pedig fűtöttek.\n\nEste a havas Nacyna-parkon át tekerünk. Jó világítással a főtérre való visszatérés hangulatos zárása a napnak.",
             "ro": "Un start înghețat necesită mănuși groase și straturi termice. Etapele scurte din centru ajută la menținerea căldurii corporale.\n\nLa prânz, vizitele la castel și bazilică vă vor încălzi. Aerul rece de iarnă face pedalatul mai solicitant, dar revigorant.\n\nDupă-amiaza urmează drumul spre Mina Ignacy. Instalațiile industriale acoperite de chiciură arată spectaculos și oferă spații calde.\n\nSeara, turul trece prin parcul Nacyna înzăpezit. Cu un sistem de iluminat bun, revenirea în piață este o încheiere atmosferică.",
-            "en": "A frosty start requires warm gloves and multiple layers. Short legs in the city center help you stay warm between stops.\n\nAt midday, visits to the Castle and Basilica provide much-needed warmth. The dry winter air makes cycling a bit tougher but very refreshing.\n\nThe afternoon ride to Ignacy Mine is a highlight. The industrial site looks spectacular covered in hoarfrost and offers heated exhibits.\n\nIn the evening, cycle through the snowy Nacyna Park. With proper lights, the ride back to the Market Square is a magical end to the trip."
+            "en": "A frosty start requires warm gloves and multiple layers. Short legs in the city center help you stay warm between stops.\n\nAt midday, visits to the Castle and Basilica provide much-needed warmth. The dry winter air makes cycling a bit tougher but very refreshing.\n\nThe afternoon ride to Ignacy Mine is a highlight. The industrial site looks spectacular covered in hoarfrost and offers heated exhibits.\n\nIn the evening, cycle through the snowy Nacyna Park. With proper lights, the ride back to the Market Square is a magical end to the trip.",
+            "pl": "Mroźny start wymaga ciepłych rękawic i wielu warstw. Krótsze odcinki w centrum pomagają utrzymać ciepło między postojami.\n\nW południe wizyty w Zamku i Bazylice zapewniają potrzebne rozgrzanie. Suchy zimowy powietrz sprawia, że jazda jest trudniejsza, ale bardzo orzeźwiająca.\n\nPopołudniowa trasa do Szybu Ignacy to atrakcja. Obiekt przemysłowy wygląda spektakularnie pokryty szronem i oferuje podgrzewane ekspozycje.\n\nWieczorem przejedź przez zaśnieżony park Nacyna. Przy odpowiednim oświetleniu powrót na Rynek to magiczne zakończenie wycieczki."
           },
           "stops": [
             {
@@ -1085,7 +1171,8 @@
                 "de": "Achten Sie auf vereiste Stellen beim Anfahren.",
                 "hu": "Induláskor ügyeljen az eljegesedett foltokra.",
                 "ro": "Atenție la porțiunile înghețate la pornire.",
-                "en": "Watch out for icy patches when starting your ride."
+                "en": "Watch out for icy patches when starting your ride.",
+                "pl": "Uważaj na oblodzone miejsca przy rozpoczęciu jazdy."
               }
             },
             {
@@ -1094,7 +1181,8 @@
                 "de": "Nutzen Sie den Innenhof zum windgeschützten Abstellen.",
                 "hu": "Használja a belső udvart a szélvédett parkoláshoz.",
                 "ro": "Folosiți curtea interioară pentru a parca ferit de vânt.",
-                "en": "Use the inner courtyard for wind-sheltered bike parking."
+                "en": "Use the inner courtyard for wind-sheltered bike parking.",
+                "pl": "Wykorzystaj wewnętrzny dziedziniec jako osłonięte miejsce do parkowania roweru."
               }
             },
             {
@@ -1103,7 +1191,8 @@
                 "de": "Stufen können bei Frost extrem rutschig sein.",
                 "hu": "A lépcsők fagyban rendkívül csúszósak lehetnek.",
                 "ro": "Treptele pot fi extrem de alunecoase iarna.",
-                "en": "Steps can be extremely slippery during freezing temperatures."
+                "en": "Steps can be extremely slippery during freezing temperatures.",
+                "pl": "Schody mogą być wyjątkowo śliskie przy ujemnych temperaturach."
               }
             },
             {
@@ -1112,7 +1201,8 @@
                 "de": "Kurze Aufwärmpause im Inneren ist sehr empfehlenswert.",
                 "hu": "Egy rövid benti melegedő szünet erősen ajánlott.",
                 "ro": "O scurtă pauză de încălzire la interior este recomandată.",
-                "en": "A short indoor warming break is highly recommended."
+                "en": "A short indoor warming break is highly recommended.",
+                "pl": "Krótka przerwa na ogrzanie się w pomieszczeniu jest wysoce zalecana."
               }
             },
             {
@@ -1121,7 +1211,8 @@
                 "de": "Planen Sie hier die längste Aufwärmzeit ein.",
                 "hu": "Itt tervezze be a leghosszabb melegedési időt.",
                 "ro": "Planificați aici cea mai lungă perioadă de încălzire.",
-                "en": "Plan your longest warming-up period here at the mine."
+                "en": "Plan your longest warming-up period here at the mine.",
+                "pl": "Zaplanuj tu najdłuższy okres rozgrzewki właśnie przy szybie."
               }
             },
             {
@@ -1130,7 +1221,8 @@
                 "de": "Vermeiden Sie das Ufer bei Glatteisgefahr.",
                 "hu": "Jegesedés veszélye esetén kerülje a közvetlen vízpartot.",
                 "ro": "Evitați malul apei dacă există risc de polei.",
-                "en": "Avoid the riverbank if there is a risk of black ice."
+                "en": "Avoid the riverbank if there is a risk of black ice.",
+                "pl": "Unikaj brzegu rzeki, jeśli istnieje ryzyko czarnego lodu."
               }
             },
             {
@@ -1139,7 +1231,8 @@
                 "de": "Licht an! Im Winter ist es bereits dämmrig.",
                 "hu": "Világítást fel! Télen ilyenkor már szürkület van.",
                 "ro": "Aprindeți luminile! Iarna este deja amurg la această oră.",
-                "en": "Lights on! It's already twilight during winter at this time."
+                "en": "Lights on! It's already twilight during winter at this time.",
+                "pl": "Światła włączone! To już półmrok o tej porze zimą."
               }
             }
           ],
@@ -1171,6 +1264,13 @@
               "The Basilica provides a grand and wind-sheltered stop.",
               "E-bike batteries drain significantly faster in cold weather.",
               "Look for cafes with fireplaces near the Market Square."
+            ],
+            "pl": [
+              "Dobrze nasmaruj łańcuch; sól drogowa może uszkodzić metal.",
+              "Noś wiatroszczelną maskę na twarz lub ciepły szalik podczas jazdy.",
+              "Bazylika jest wspaniałym i osłoniętym od wiatru przystankiem.",
+              "Baterie w e‑rowerach znacząco szybciej się rozładowują w zimnej pogodzie.",
+              "Szukaj kawiarni z kominkami w pobliżu Rynku."
             ]
           }
         }
@@ -1189,7 +1289,8 @@
             "de": "Parken und Start am Marktplatz",
             "hu": "Parkolás és indulás a Piactérnél",
             "ro": "Parcare și start la Piața Centrală",
-            "en": "Parking and Start at the Market Square"
+            "en": "Parking and Start at the Market Square",
+            "pl": "Parkowanie i start na Rynku"
           },
           "coords": [
             18.545,
@@ -1205,7 +1306,8 @@
             "de": "Suchen Sie einen Parkplatz in der Nähe des Zentrums. Der Tag beginnt zu Fuß.",
             "hu": "Keressen egy parkolót a központ közelében. A nap gyalog kezdődik.",
             "ro": "Găsiți o parcare lângă centru. Ziua începe pe jos.",
-            "en": "Find a parking spot near the center. The day starts on foot."
+            "en": "Find a parking spot near the center. The day starts on foot.",
+            "pl": "Znajdź miejsce parkingowe w pobliżu centrum. Dzień zaczyna się pieszo."
           }
         },
         {
@@ -1213,7 +1315,8 @@
             "de": "Marktplatz und Rathaus",
             "hu": "Piactér és Városháza",
             "ro": "Piața Centrală și Primăria",
-            "en": "Market Square and Town Hall"
+            "en": "Market Square and Town Hall",
+            "pl": "Rynek i Ratusz"
           },
           "coords": [
             18.5461,
@@ -1229,7 +1332,8 @@
             "de": "Erkunden Sie den zentralen Platz und das historische Rathaus.",
             "hu": "Fedezze fel a központi teret és a történelmi városházát.",
             "ro": "Explorați piața centrală și primăria istorică.",
-            "en": "Explore the central square and the historic town hall."
+            "en": "Explore the central square and the historic town hall.",
+            "pl": "Odkryj centralny plac i zabytkowy ratusz."
           }
         },
         {
@@ -1237,7 +1341,8 @@
             "de": "Basilika St. Antonius",
             "hu": "Szent Antal-bazilika",
             "ro": "Bazilica Sf. Anton",
-            "en": "Basilica of St. Anthony"
+            "en": "Basilica of St. Anthony",
+            "pl": "Bazylika św. Antoniego"
           },
           "coords": [
             18.549,
@@ -1253,7 +1358,8 @@
             "de": "Ein kurzer Spaziergang vom Marktplatz zur höchsten Kirche der Region.",
             "hu": "Rövid séta a piactérről a régió legmagasabb templomához.",
             "ro": "O scurtă plimbare din piață până la cea mai înaltă biserică din regiune.",
-            "en": "A short walk from the market square to the tallest church in the region."
+            "en": "A short walk from the market square to the tallest church in the region.",
+            "pl": "Krótki spacer z rynku do najwyższego kościoła w regionie."
           }
         },
         {
@@ -1261,7 +1367,8 @@
             "de": "Piastenschloss",
             "hu": "Piast-kastély",
             "ro": "Castelul Piast",
-            "en": "Piast Castle"
+            "en": "Piast Castle",
+            "pl": "Zamek Piastów"
           },
           "coords": [
             18.542,
@@ -1277,7 +1384,8 @@
             "de": "Gehen Sie zurück über den Platz und entdecken Sie das alte Schloss.",
             "hu": "Sétáljon vissza a téren, és fedezze fel a régi kastélyt.",
             "ro": "Traversați înapoi piața și descoperiți vechiul castel.",
-            "en": "Walk back across the square and discover the old castle."
+            "en": "Walk back across the square and discover the old castle.",
+            "pl": "Przejdź z powrotem przez rynek i odkryj stary zamek."
           }
         },
         {
@@ -1285,7 +1393,8 @@
             "de": "Fahrt zum Bergwerk Ignacy",
             "hu": "Utazás az Ignacy bányához",
             "ro": "Călătorie la Mina Ignacy",
-            "en": "Drive to Ignacy Mine"
+            "en": "Drive to Ignacy Mine",
+            "pl": "Dojazd do Szybu Ignacy"
           },
           "coords": [
             18.508,
@@ -1301,7 +1410,8 @@
             "de": "Nun geht es mit dem Auto zum Industrie-Highlight der Region. Parkplätze sind vorhanden.",
             "hu": "Most autóval induljon a régió ipari csúcspontjához. Parkolóhelyek rendelkezésre állnak.",
             "ro": "Acum mergeți cu mașina la atracția industrială a regiunii. Sunt disponibile locuri de parcare.",
-            "en": "Now it's time to drive to the region's industrial highlight. Parking is available."
+            "en": "Now it's time to drive to the region's industrial highlight. Parking is available.",
+            "pl": "Czas na dojazd do przemysłowego punktu kulminacyjnego regionu. Parking jest dostępny."
           }
         },
         {
@@ -1309,7 +1419,8 @@
             "de": "Fahrt zum Park an der Nacyna",
             "hu": "Utazás a Nacyna parkhoz",
             "ro": "Călătorie la Parcul Nacyna",
-            "en": "Drive to the Park on the Nacyna"
+            "en": "Drive to the Park on the Nacyna",
+            "pl": "Jazda do parku nad rzeką Nacyną"
           },
           "coords": [
             18.555,
@@ -1325,7 +1436,8 @@
             "de": "Nach der Industriekultur ist es Zeit für etwas Natur zur Entspannung.",
             "hu": "Az ipari kultúra után itt az ideje egy kis természetnek a pihenéshez.",
             "ro": "După cultura industrială, este timpul pentru puțină natură și relaxare.",
-            "en": "After the industrial culture, it's time for some nature and relaxation."
+            "en": "After the industrial culture, it's time for some nature and relaxation.",
+            "pl": "Po przemysłowej kulturze czas na naturę i relaks."
           }
         },
         {
@@ -1333,7 +1445,8 @@
             "de": "Spaziergang im Park und Ende",
             "hu": "Séta a parkban és a nap vége",
             "ro": "Plimbare în parc și încheierea zilei",
-            "en": "Stroll in the park and end of day"
+            "en": "Stroll in the park and end of day",
+            "pl": "Spacer po parku i zakończenie dnia"
           },
           "coords": [
             18.556,
@@ -1349,7 +1462,8 @@
             "de": "Genießen Sie einen letzten Spaziergang, bevor Sie Ihre Heim- oder Weiterreise antreten.",
             "hu": "Élvezze az utolsó sétát, mielőtt hazaindulna vagy továbbutazna.",
             "ro": "Bucurați-vă de o ultimă plimbare înainte de a vă întoarce acasă sau de a vă continua călătoria.",
-            "en": "Enjoy one last stroll before heading home or continuing your journey."
+            "en": "Enjoy one last stroll before heading home or continuing your journey.",
+            "pl": "Ciesz się ostatnim spacerem przed powrotem do domu lub kontynuacją podróży."
           }
         }
       ],
@@ -1357,7 +1471,8 @@
         "de": "Ihr Tag in Rybnik beginnt mit dem Parken im Stadtzentrum, gefolgt von einem Vormittagsspaziergang zu den wichtigsten Sehenswürdigkeiten wie dem Marktplatz und der Basilika. Gegen Mittag steigen Sie ins Auto und fahren zum Bergwerk Ignacy, einem beeindruckenden Industriedenkmal, wo Sie auch zu Mittag essen können. Der Nachmittag steht im Zeichen der Entspannung: Eine kurze Fahrt bringt Sie zum Park am Fluss Nacyna, dem perfekten Ort, um den Tag in Ruhe ausklingen zu lassen.",
         "hu": "A rybniki nap a belvárosi parkolással kezdődik, majd egy délelőtti sétával a főbb látnivalókhoz, mint a Piactér és a Bazilika. Dél körül autóba ül, és elhajt az Ignacy bányához, egy lenyűgöző ipari műemlékhez, ahol ebédelni is lehet. A délután a pihenésé: egy rövid autóút a Nacyna folyó melletti parkba vezet, amely tökéletes hely a nap nyugodt befejezéséhez.",
         "ro": "Ziua dvs. în Rybnik începe cu parcarea în centrul orașului, urmată de o plimbare de dimineață la principalele atracții, cum ar fi Piața Centrală și Bazilica. În jurul prânzului, urcați în mașină și conduceți la Mina Ignacy, un monument industrial impresionant unde puteți lua și prânzul. După-amiaza este dedicată relaxării: o scurtă călătorie cu mașina vă duce la parcul de pe râul Nacyna, locul perfect pentru a încheia ziua în liniște.",
-        "en": "Your day in Rybnik starts with parking in the city center, followed by a morning walk to the main attractions like the Market Square and the Basilica. Around noon, you'll get in the car and drive to the Ignacy Mine, an impressive industrial monument where you can also have lunch. The afternoon is for relaxation: a short drive takes you to the park on the Nacyna River, the perfect place to end the day peacefully."
+        "en": "Your day in Rybnik starts with parking in the city center, followed by a morning walk to the main attractions like the Market Square and the Basilica. Around noon, you'll get in the car and drive to the Ignacy Mine, an impressive industrial monument where you can also have lunch. The afternoon is for relaxation: a short drive takes you to the park on the Nacyna River, the perfect place to end the day peacefully.",
+        "pl": "Twój dzień w Rybniku zaczyna się od zaparkowania w centrum, po czym poranny spacer prowadzi do głównych atrakcji, takich jak Rynek i Bazylika. Około południa wsiądziesz do samochodu i pojedziesz do Szybu Ignacy, imponującego zabytku przemysłowego, gdzie możesz też zjeść obiad. Popołudnie przeznaczone jest na relaks: krótka przejażdżka zabierze cię do parku nad rzeką Nacyną, idealnego miejsca na spokojne zakończenie dnia."
       },
       "gastro_picks": {
         "de": [
@@ -1549,6 +1664,11 @@
           "Use the cluster-walking strategy: park once per zone and explore on foot.",
           "The drive to the Ignacy Mine is worthwhile, but plan enough time for the journey and the visit.",
           "Traffic and parking in the city center can be difficult during peak hours."
+        ],
+        "pl": [
+          "Stosuj strategię „parkowania strefowego”: zaparkuj raz w danej strefie i zwiedzaj pieszo.",
+          "Dojazd do Szybu Ignacy jest wart zachodu, ale zaplanuj wystarczająco czasu na podróż i zwiedzanie.",
+          "Ruch i parkowanie w centrum mogą być utrudnione w godzinach szczytu."
         ]
       },
       "variants": {
@@ -1557,7 +1677,8 @@
             "de": "Ein regnerischer Tag lässt sich in Rybnik am besten mit dem Auto bewältigen. Vom Parkplatz am Markt erreichen Sie die Arkaden fast trockenen Fußes.\n\nMittags bietet die Fahrt zur St.-Antonius-Basilika Komfort. Die Besichtigung des Schlosses lässt sich perfekt mit der Suche nach einem nahen Parkplatz verbinden.\n\nDer Nachmittag führt zur Zeche Ignacy. Die industrielle Anlage ist ein hervorragendes Schlechtwetterziel mit vielen überdachten Bereichen.\n\nAbends bietet eine kurze Fahrt zum Nacyna-Park die Möglichkeit, das Wetter aus dem Auto zu beobachten oder einen schnellen Spaziergang im Regen zu machen.",
             "hu": "Az esős napot Rybnikben autóval a legkényelmesebb abszolválni. A főtéri parkolótól szinte száraz lábbal érhetők el az árkádok.\n\nDélben a Szent Antal-bazilikához tartó út kényelmes. A kastélylátogatás után gyorsan visszaülhetünk a védett utastérbe.\n\nDélután az Ignacy-akna a célpont. Az ipari műemlék kiváló rosszidős program, sok fedett résszel és belső kiállítással.\n\nEste a Nacyna-parkhoz tett rövid autózás lehetőséget ad, hogy a kocsiból nézzük az esőt, vagy tegyünk egy gyors, frissítő sétát.",
             "ro": "O zi ploioasă în Rybnik este cel mai ușor de gestionat cu mașina. De la parcare, ajungeți aproape uscați sub arcadele din piață.\n\nLa prânz, drumul spre Bazilica Sf. Anton este confortabil. Vizita la castel poate fi urmată rapid de revenirea în mașina încălzită.\n\nDupă-amiaza conduceți spre Mina Ignacy. Instalația industrială este o destinație excelentă pentru vreme rea, având multe spații acoperite.\n\nSeara, o scurtă deplasare spre parcul Nacyna permite observarea peisajului din mașină sau o plimbare rapidă prin ploaie.",
-            "en": "A rainy day in Rybnik is most easily navigated by car. From the parking near the square, you can reach the arcades nearly dry.\n\nAt midday, the drive to St. Anthony's Basilica provides comfort. The visit to the castle is conveniently followed by a short dash back to the car.\n\nThe afternoon drive to Ignacy Mine is perfect. This industrial heritage site is a prime rainy-day destination with many indoor sections.\n\nIn the evening, a short trip to Nacyna Park allows you to enjoy the views from the car or take a quick, refreshing stroll in the rain."
+            "en": "A rainy day in Rybnik is most easily navigated by car. From the parking near the square, you can reach the arcades nearly dry.\n\nAt midday, the drive to St. Anthony's Basilica provides comfort. The visit to the castle is conveniently followed by a short dash back to the car.\n\nThe afternoon drive to Ignacy Mine is perfect. This industrial heritage site is a prime rainy-day destination with many indoor sections.\n\nIn the evening, a short trip to Nacyna Park allows you to enjoy the views from the car or take a quick, refreshing stroll in the rain.",
+            "pl": "Deszczowy dzień w Rybniku najłatwiej pokonać samochodem. Z parkingu przy rynku dojdziesz niemal suchą stopą do arkad.\n\nW południe dojazd do Bazyliki św. Antoniego zapewnia komfort. Wizyta w zamku jest wygodnie zakończona krótkim sprintem z powrotem do auta.\n\nPopołudniowy przejazd do Szybu Ignacy jest idealny. Ten zabytek przemysłowy to pierwszorzędne miejsce na deszczowy dzień z wieloma sekcjami wewnątrz.\n\nWieczorem krótka podróż do parku Nacyna pozwala cieszyć się widokami z samochodu lub odbyć szybki, orzeźwiający spacer w deszczu."
           },
           "stops": [
             {
@@ -1566,7 +1687,8 @@
                 "de": "Nutzen Sie Park-Apps, um das Bezahlen im Regen zu verkürzen.",
                 "hu": "Használjon parkoló alkalmazást, hogy ne kelljen az esőben automatázni.",
                 "ro": "Folosiți aplicații de parcare pentru a evita plata la tonomat pe ploaie.",
-                "en": "Use parking apps to avoid paying at machines in the rain."
+                "en": "Use parking apps to avoid paying at machines in the rain.",
+                "pl": "Korzystaj z aplikacji parkingowych, aby nie płacić przy parkomatach na deszczu."
               }
             },
             {
@@ -1575,7 +1697,8 @@
                 "de": "Das Rathaus bietet Schutz während des kurzen Fußwegs.",
                 "hu": "A városháza védelmet nyújt a rövid gyalogos szakasz alatt.",
                 "ro": "Primăria oferă adăpost în timpul scurtei deplasări pe jos.",
-                "en": "The Town Hall provides shelter during the short walking leg."
+                "en": "The Town Hall provides shelter during the short walking leg.",
+                "pl": "Ratusz zapewnia schronienie podczas krótkiego odcinka pieszo."
               }
             },
             {
@@ -1584,7 +1707,8 @@
                 "de": "Suchen Sie Parkplätze direkt vor dem Haupteingang.",
                 "hu": "Keressen parkolót közvetlenül a főbejárat előtt.",
                 "ro": "Căutați locuri de parcare chiar în fața intrării principale.",
-                "en": "Look for parking spots directly in front of the main entrance."
+                "en": "Look for parking spots directly in front of the main entrance.",
+                "pl": "Szukaj miejsc parkingowych bezpośrednio przed głównym wejściem."
               }
             },
             {
@@ -1593,7 +1717,8 @@
                 "de": "Der Parkplatz am Schloss ist oft weniger frequentiert.",
                 "hu": "A kastélynál lévő parkoló gyakran kevésbé zsúfolt.",
                 "ro": "Parcarea de la castel este adesea mai puțin aglomerată.",
-                "en": "The parking lot at the castle is often less crowded."
+                "en": "The parking lot at the castle is often less crowded.",
+                "pl": "Parking przy zamku jest często mniej zatłoczony."
               }
             },
             {
@@ -1602,7 +1727,8 @@
                 "de": "Vorsicht bei Aquaplaning auf den Ausfallstraßen.",
                 "hu": "Vigyázzon a vízenfutásra (aquaplaning) a kivezető utakon.",
                 "ro": "Atenție la acvaplanare pe drumurile de legătură.",
-                "en": "Watch out for aquaplaning on the main connecting roads."
+                "en": "Watch out for aquaplaning on the main connecting roads.",
+                "pl": "Uważaj na aquaplaning na głównych drogach łączących."
               }
             },
             {
@@ -1611,7 +1737,8 @@
                 "de": "Lassen Sie die Sitzheizung für den Rückweg laufen.",
                 "hu": "Kapcsolja be az ülésfűtést a visszaútra a komfortért.",
                 "ro": "Porniți încălzirea în scaune pentru drumul de întoarcere.",
-                "en": "Turn on your seat heaters for comfort on the return drive."
+                "en": "Turn on your seat heaters for comfort on the return drive.",
+                "pl": "Włącz podgrzewanie foteli dla komfortu podczas powrotnej jazdy."
               }
             },
             {
@@ -1620,7 +1747,8 @@
                 "de": "Der Blick aus dem Wagen auf den Fluss ist auch schön.",
                 "hu": "Az autóból is szép kilátás nyílik a folyóra esőben.",
                 "ro": "Vedere de la geam spre râu este frumoasă și pe ploaie.",
-                "en": "The view of the river from the car window is also lovely."
+                "en": "The view of the river from the car window is also lovely.",
+                "pl": "Widok na rzekę z okna samochodu też jest piękny."
               }
             }
           ],
@@ -1652,6 +1780,13 @@
               "Ignacy Mine has plenty of paved parking spaces available.",
               "Avoid low-lying road sections during very heavy downpours.",
               "Keep an umbrella in the door pocket for quick exits."
+            ],
+            "pl": [
+              "Sprawdź wycieraczki przed rozpoczęciem podróży.",
+              "Wielopoziomowy parking przy placu oferuje najdrierze dojście.",
+              "Kopalnia Ignacy ma dużo utwardzonych miejsc parkingowych.",
+              "Unikaj odcinków dróg położonych najniżej podczas bardzo silnych ulew.",
+              "Trzymaj parasol w bocznej kieszeni drzwi do szybkich wyjść."
             ]
           }
         },
@@ -1660,7 +1795,8 @@
             "de": "Ein Wintertag beginnt gemütlich im warmen Auto. Der Parkplatz am Markt ist zentral, sodass Sie schnell in die beheizten Cafés gelangen.\n\nMittags schützt der Wagen vor dem eisigen Wind zwischen Basilika und Schloss. Die verschneite Stadtansicht lässt sich entspannt während der Fahrt genießen.\n\nNachmittags geht es zur Zeche Ignacy. Das Industriedenkmal wirkt im Winterlicht besonders plastisch. Die Ausstellungsräume sind gut beheizt.\n\nAbends ist der Nacyna-Park das Ziel. Ein kurzer Spaziergang in der kalten Luft belebt, bevor man sich im Auto wieder aufwärmt und zum Marktplatz zurückkehrt.",
             "hu": "A téli nap kényelmesen, a fűtött autóban kezdődik. A főtéri parkoló központi, így hamar bejuthatunk a meleg kávézókba.\n\nDélben az autó megvéd a metsző széltől a bazilika és a kastély között. A havas város látványa vezetés közben is élvezhető.\n\nDélután az Ignacy-akna felé autózunk. Az ipari műemlék a téli fényekben különösen látványos. A kiállítóterek jól fűtöttek.\n\nEste a Nacyna-park a célpont. Egy rövid séta a friss, hideg levegőn felfrissít, mielőtt visszatérnénk a fűtött utastérbe.",
             "ro": "O zi de iarnă începe confortabil în mașina încălzită. Parcarea centrală permite accesul rapid la cafenelele primitoare.\n\nLa prânz, mașina vă protejează de vântul tăios între bazilică și castel. Peisajul urban înzăpezit poate fi admirat relaxat în timpul condusului.\n\nDupă-amiaza mergeți spre Mina Ignacy. Monumentul industrial arată plastic în lumina de iarnă. Spațiile de expoziție sunt bine încălzite.\n\nSeara, destinația este parcul Nacyna. O scurtă plimbare în aerul rece vă revigorează înainte de a vă reîncălzi în mașină.",
-            "en": "Start your winter day comfortably in a pre-heated car. The central parking makes it easy to reach the warm cafes at the square.\n\nAt midday, the car shields you from the biting wind between the Basilica and the Castle. Enjoy the snowy city views during the drive.\n\nThe afternoon trip to Ignacy Mine is a treat. The industrial site stands out in the winter light. Inside, the exhibits are well-heated.\n\nIn the evening, head to Nacyna Park. A short stroll in the crisp air is refreshing before you warm up in the car for the return trip."
+            "en": "Start your winter day comfortably in a pre-heated car. The central parking makes it easy to reach the warm cafes at the square.\n\nAt midday, the car shields you from the biting wind between the Basilica and the Castle. Enjoy the snowy city views during the drive.\n\nThe afternoon trip to Ignacy Mine is a treat. The industrial site stands out in the winter light. Inside, the exhibits are well-heated.\n\nIn the evening, head to Nacyna Park. A short stroll in the crisp air is refreshing before you warm up in the car for the return trip.",
+            "pl": "Rozpocznij zimowy dzień wygodnie w podgrzanym samochodzie. Centralny parking ułatwia dotarcie do ciepłych kawiarni przy rynku.\n\nW południe samochód chroni przed przenikliwym wiatrem między Bazyliką a Zamkiem. Podczas jazdy podziwiaj zaśnieżone widoki miasta.\n\nPopołudniowa wycieczka do Kopalni Ignacy to przyjemność. Obiekt przemysłowy wyróżnia się w zimowym świetle. Wewnątrz ekspozycje są dobrze ogrzane.\n\nWieczorem udaj się do Parku nad Nacyną. Krótki spacer w rześkim powietrzu orzeźwia przed rozgrzaniem się w samochodzie na powrót."
           },
           "stops": [
             {
@@ -1669,7 +1805,8 @@
                 "de": "Achten Sie auf Schneehaufen, die Parklücken verkleinern.",
                 "hu": "Ügyeljen a hórakásokra, amik leszűkíthetik a parkolóhelyeket.",
                 "ro": "Atenție la mormanele de zăpadă care pot micșora locurile de parcare.",
-                "en": "Watch out for snow piles that might shrink available parking spots."
+                "en": "Watch out for snow piles that might shrink available parking spots.",
+                "pl": "Uważaj na kopce śniegu, które mogą zmniejszać dostępne miejsca parkingowe."
               }
             },
             {
@@ -1678,7 +1815,8 @@
                 "de": "Vorsicht beim Aussteigen auf glatten Parkflächen.",
                 "hu": "Kiszálláskor vigyázzon a csúszós parkolófelületekre.",
                 "ro": "Atenție la coborârea din mașină pe suprafețe alunecoase.",
-                "en": "Be careful when exiting the car onto slippery parking surfaces."
+                "en": "Be careful when exiting the car onto slippery parking surfaces.",
+                "pl": "Uważaj przy wysiadaniu z samochodu na śliskich nawierzchniach parkingu."
               }
             },
             {
@@ -1687,7 +1825,8 @@
                 "de": "Die Heizung in der Basilika ist im Winter oft eingeschaltet.",
                 "hu": "A bazilikában télen gyakran működik a fűtés.",
                 "ro": "Încălzirea în bazilică este adesea pornită iarna.",
-                "en": "The heating in the Basilica is often active during winter services."
+                "en": "The heating in the Basilica is often active during winter services.",
+                "pl": "Ogrzewanie w Bazylice często jest włączone podczas zimowych nabożeństw."
               }
             },
             {
@@ -1696,7 +1835,8 @@
                 "de": "Nutzen Sie den Schlossbesuch, um die Scheiben abtauen zu lassen.",
                 "hu": "A kastélylátogatás ideje alatt hagyja leolvadni a szélvédőt.",
                 "ro": "Lăsați degivrarea să funcționeze în timpul vizitei la castel.",
-                "en": "Use the castle visit time to let your windows defrost fully."
+                "en": "Use the castle visit time to let your windows defrost fully.",
+                "pl": "Wykorzystaj czas wizyty w zamku, aby całkowicie odszyć szyby."
               }
             },
             {
@@ -1705,7 +1845,8 @@
                 "de": "Prüfen Sie das Wischwasser auf ausreichenden Frostschutz.",
                 "hu": "Ellenőrizze, hogy elég fagyálló-e a szélvédőmosó folyadék.",
                 "ro": "Verificați dacă lichidul de parbriz are suficient antigel.",
-                "en": "Check that your washer fluid has enough antifreeze protection."
+                "en": "Check that your washer fluid has enough antifreeze protection.",
+                "pl": "Sprawdź, czy płyn do spryskiwaczy ma wystarczającą ochronę przed zamarzaniem."
               }
             },
             {
@@ -1714,7 +1855,8 @@
                 "de": "Vorsicht vor gefrierender Nässe auf der Brücke über die Nacyna.",
                 "hu": "Vigyázzon a lefagyásokra a Nacyna feletti hidakon.",
                 "ro": "Atenție la polei pe podurile de peste râul Nacyna.",
-                "en": "Watch out for black ice on the bridges over the Nacyna."
+                "en": "Watch out for black ice on the bridges over the Nacyna.",
+                "pl": "Uważaj na gołoledź na mostach nad Nacyną."
               }
             },
             {
@@ -1723,7 +1865,8 @@
                 "de": "Der Parkplatz ist im Winter meist gut geräumt.",
                 "hu": "A parkolót télen általában jól takarítják a parknál.",
                 "ro": "Parcarea este de obicei bine deszăpezită iarna.",
-                "en": "The parking lot is usually well-cleared of snow in winter."
+                "en": "The parking lot is usually well-cleared of snow in winter.",
+                "pl": "Parking zazwyczaj jest dobrze odśnieżony zimą."
               }
             }
           ],
@@ -1755,6 +1898,13 @@
               "Covered parking structures offer protection from snowfall.",
               "Watch out for salt residue buildup on your headlights.",
               "Keep a warm blanket in the trunk for emergencies."
+            ],
+            "pl": [
+              "Opony zimowe są w Rybniku absolutnie konieczne, gdy pada śnieg.",
+              "Trzymaj w samochodzie skrobaczkę do lodu i miotłę do śniegu.",
+              "Zadaszone garaże chronią przed opadami śniegu.",
+              "Uważaj na osadzanie się soli na reflektorach.",
+              "Miej w bagażniku ciepły koc na wypadek awarii."
             ]
           }
         }
@@ -1773,7 +1923,8 @@
             "de": "Ankunft am Marktplatz",
             "hu": "Érkezés a Piactérre",
             "ro": "Sosire la Piața Centrală",
-            "en": "Arrival at the Market Square"
+            "en": "Arrival at the Market Square",
+            "pl": "Przyjazd na Rynek"
           },
           "coords": [
             18.5461,
@@ -1789,7 +1940,8 @@
             "de": "Nehmen Sie einen Bus zum zentralen Platz, um Ihre Tour zu beginnen.",
             "hu": "Menjen busszal a központi térre a túra megkezdéséhez.",
             "ro": "Luați un autobuz spre piața centrală pentru a începe turul.",
-            "en": "Take a bus to the central square to start your tour."
+            "en": "Take a bus to the central square to start your tour.",
+            "pl": "Jedź autobusem na rynek główny, aby rozpocząć zwiedzanie."
           }
         },
         {
@@ -1797,7 +1949,8 @@
             "de": "Basilika St. Antonius und Piastenschloss",
             "hu": "Szent Antal-bazilika és Piast-kastély",
             "ro": "Bazilica Sf. Anton și Castelul Piast",
-            "en": "Basilica of St. Anthony and Piast Castle"
+            "en": "Basilica of St. Anthony and Piast Castle",
+            "pl": "Bazylika św. Antoniego i Zamek Piastów"
           },
           "coords": [
             18.549,
@@ -1813,7 +1966,8 @@
             "de": "Diese beiden Hauptsehenswürdigkeiten liegen nahe beieinander und sind gut zu Fuß erreichbar.",
             "hu": "Ez a két fő látnivaló közel van egymáshoz és gyalog könnyen megközelíthető.",
             "ro": "Aceste două atracții principale sunt apropiate și ușor accesibile pe jos.",
-            "en": "These two main sights are close together and easily accessible on foot."
+            "en": "These two main sights are close together and easily accessible on foot.",
+            "pl": "Te dwa główne zabytki są blisko siebie i łatwo dostępne pieszo."
           }
         },
         {
@@ -1821,7 +1975,8 @@
             "de": "Fahrt zum Bergwerk Ignacy",
             "hu": "Buszozás az Ignacy bányához",
             "ro": "Călătorie cu autobuzul la Mina Ignacy",
-            "en": "Bus ride to Ignacy Mine"
+            "en": "Bus ride to Ignacy Mine",
+            "pl": "Przejazd autobusem do Kopalni Ignacy"
           },
           "coords": [
             18.508,
@@ -1837,7 +1992,8 @@
             "de": "Nehmen Sie einen Bus in Richtung Niewiadom. Inklusive Mittagessen vor Ort.",
             "hu": "Menjen busszal Niewiadom irányába. Ebédet is tartalmaz a helyszínen.",
             "ro": "Luați un autobuz spre Niewiadom. Include prânzul la fața locului.",
-            "en": "Take a bus towards Niewiadom. Includes lunch on site."
+            "en": "Take a bus towards Niewiadom. Includes lunch on site.",
+            "pl": "Jedź autobusem w kierunku Niewiadomia. W cenie obiad na miejscu."
           }
         },
         {
@@ -1845,7 +2001,8 @@
             "de": "Fahrt zum Park an der Nacyna",
             "hu": "Buszozás a Nacyna parkhoz",
             "ro": "Călătorie cu autobuzul la Parcul Nacyna",
-            "en": "Bus ride to the Park on the Nacyna"
+            "en": "Bus ride to the Park on the Nacyna",
+            "pl": "Przejazd autobusem do Parku nad Nacyną"
           },
           "coords": [
             18.555,
@@ -1861,7 +2018,8 @@
             "de": "Ein Buswechsel im Zentrum bringt Sie in die Nähe des Flussparks.",
             "hu": "Egy buszváltás a központban elviszi a folyóparti park közelébe.",
             "ro": "O schimbare de autobuz în centru vă va duce aproape de parcul de pe râu.",
-            "en": "A bus change in the center will get you close to the river park."
+            "en": "A bus change in the center will get you close to the river park.",
+            "pl": "Przesiadka w centrum dowiezie cię blisko parku nad rzeką."
           }
         },
         {
@@ -1869,7 +2027,8 @@
             "de": "Spaziergang am Fluss",
             "hu": "Séta a folyóparton",
             "ro": "Plimbare pe malul râului",
-            "en": "Stroll by the river"
+            "en": "Stroll by the river",
+            "pl": "Spacer nad rzeką"
           },
           "coords": [
             18.556,
@@ -1885,7 +2044,8 @@
             "de": "Genießen Sie die ruhige Atmosphäre, bevor Sie den Bus nach Hause nehmen.",
             "hu": "Élvezze a csendes légkört, mielőtt hazabuszozna.",
             "ro": "Bucurați-vă de atmosfera liniștită înainte de a lua autobuzul spre casă.",
-            "en": "Enjoy the quiet atmosphere before taking the bus home."
+            "en": "Enjoy the quiet atmosphere before taking the bus home.",
+            "pl": "Ciesz się ciszą przed powrotem autobusem do domu."
           }
         },
         {
@@ -1893,7 +2053,8 @@
             "de": "Rückfahrt vom Zentrum",
             "hu": "Visszaút a központból",
             "ro": "Întoarcere din centru",
-            "en": "Return journey from the center"
+            "en": "Return journey from the center",
+            "pl": "Powrót z centrum"
           },
           "coords": [
             18.5461,
@@ -1909,7 +2070,8 @@
             "de": "Der Tag endet, wo er begann, bereit für die Abfahrt.",
             "hu": "A nap ott ér véget, ahol elkezdődött, készen az indulásra.",
             "ro": "Ziua se încheie acolo unde a început, gata de plecare.",
-            "en": "The day ends where it began, ready for departure."
+            "en": "The day ends where it began, ready for departure.",
+            "pl": "Dzień kończy się tam, gdzie się zaczął, gotowy do wyjazdu."
           }
         }
       ],
@@ -1917,7 +2079,8 @@
         "de": "Mit den öffentlichen Verkehrsmitteln erkunden Sie Rybnik effizient. Der Tag beginnt mit einer Busfahrt zum Marktplatz, von wo aus Sie das historische Zentrum zu Fuß erkunden. Ein weiterer Bus bringt Sie zum faszinierenden Bergwerk Ignacy, einem Höhepunkt der Industriegeschichte. Nach einem ausgiebigen Besuch dort fahren Sie mit dem Bus zurück in Richtung Stadt, um den Nachmittag im entspannten Park an der Nacyna zu verbringen, bevor Sie Ihre Heimreise antreten.",
         "hu": "A tömegközlekedéssel hatékonyan fedezheti fel Rybniket. A nap buszozással kezdődik a Piactérre, ahonnan gyalogosan fedezi fel a történelmi központot. Egy másik busz elviszi a lenyűgöző Ignacy bányához, az ipartörténet egyik csúcspontjához. Egy alapos látogatás után busszal tér vissza a város felé, hogy a délutánt a Nacyna melletti pihentető parkban töltse, mielőtt hazaindulna.",
         "ro": "Explorați eficient Rybnik folosind transportul public. Ziua începe cu o călătorie cu autobuzul până la Piața Centrală, de unde explorați centrul istoric pe jos. Un alt autobuz vă duce la fascinanta Mină Ignacy, un punct culminant al istoriei industriale. După o vizită extinsă acolo, luați autobuzul înapoi spre oraș pentru a petrece după-amiaza în parcul relaxant de pe Nacyna înainte de a vă întoarce acasă.",
-        "en": "Explore Rybnik efficiently using public transport. The day begins with a bus ride to the Market Square, from where you explore the historic center on foot. Another bus takes you to the fascinating Ignacy Mine, a highlight of industrial history. After an extensive visit there, you'll take a bus back towards the city to spend the afternoon in the relaxing park on the Nacyna before heading home."
+        "en": "Explore Rybnik efficiently using public transport. The day begins with a bus ride to the Market Square, from where you explore the historic center on foot. Another bus takes you to the fascinating Ignacy Mine, a highlight of industrial history. After an extensive visit there, you'll take a bus back towards the city to spend the afternoon in the relaxing park on the Nacyna before heading home.",
+        "pl": "Zwiedzaj Rybnik efektywnie korzystając z transportu publicznego. Dzień zaczyna się od przejazdu autobusem na Rynek, skąd zwiedzasz zabytkowe centrum pieszo. Kolejny autobus zabierze cię do fascynującej Kopalni Ignacy, będącej atrakcją historii przemysłu. Po obszernej wizycie pojedziesz autobusem z powrotem w stronę miasta, aby spędzić popołudnie w relaksującym parku nad Nacyną przed powrotem do domu."
       },
       "gastro_picks": {
         "de": [
@@ -2109,6 +2272,11 @@
           "Buy a day ticket for public transport to save money.",
           "Check bus schedules in advance, especially for the trip to the mine.",
           "Have some small change ready for tickets if you need to buy them on the bus."
+        ],
+        "pl": [
+          "Kup bilet dzienny na komunikację, by oszczędzić.",
+          "Sprawdź rozkłady jazdy z wyprzedzeniem, zwłaszcza na trasie do kopalni.",
+          "Miej drobne na bilety, jeśli trzeba je kupić u kierowcy."
         ]
       },
       "variants": {
@@ -2117,7 +2285,8 @@
             "de": "Mit dem Bus durch Rybnik ist bei Regen eine kluge Wahl. Vom Markt aus erreichen Sie bequem die Basilika und das Schloss, ohne nass zu werden.\n\nMittags bringt Sie der Bus direkt zur Zeche Ignacy. Die Fahrt bietet einen trockenen Moment, um die Aussicht auf die Stadt zu genießen.\n\nDer Nachmittag in der Zeche ist ideal für Regentage. Das Museum bietet umfangreiche Innenbereiche und faszinierende Technikgeschichte.\n\nAbends führt der Weg zum Nacyna-Park. Die Haltestellen sind oft überdacht, was das Warten auf den Rückbus zum Marktplatz angenehm macht.",
             "hu": "Busszal közlekedni Rybnikben esős időben okos döntés. A főtérről kényelmesen elérhető a bazilika és a kastély anélkül, hogy eláznánk.\n\nDélben a buszjárat közvetlenül az Ignacy-aknához visz. Az út alatt szárazon csodálhatjuk meg a városi tájat.\n\nDélután az aknánál tett látogatás ideális esős időre. A múzeum tágas belső terekkel és izgalmas technikatörténettel vár.\n\nEste a Nacyna-park felé vesszük az irányt. A megállók többnyire fedettek, így kényelmesen várhatjuk a főtérre tartó buszt.",
             "ro": "Utilizarea autobuzului în Rybnik pe ploaie este o alegere înțeleaptă. Din centru, ajungeți ușor la bazilică și castel fără a vă uda.\n\nLa prânz, autobuzul vă duce direct la Mina Ignacy. Călătoria oferă un moment uscat pentru a admira panorama orașului.\n\nDupă-amiaza la mină este ideală pentru zile ploioase. Muzeul oferă spații interioare vaste și o istorie tehnică fascinantă.\n\nSeara, traseul duce spre parcul Nacyna. Stațiile sunt adesea acoperite, făcând așteptarea autobuzului de retur mai plăcută.",
-            "en": "Taking the bus through Rybnik is a smart move on a rainy day. From the square, you can easily reach the Basilica and Castle while staying dry.\n\nAt midday, the bus line takes you directly to Ignacy Mine. The ride offers a dry interval to enjoy the cityscape views.\n\nThe afternoon at the mine is perfect for wet weather. The museum features extensive indoor areas and fascinating technical history.\n\nIn the evening, head towards Nacyna Park. Most bus stops are covered, making the wait for your return to the Market Square comfortable."
+            "en": "Taking the bus through Rybnik is a smart move on a rainy day. From the square, you can easily reach the Basilica and Castle while staying dry.\n\nAt midday, the bus line takes you directly to Ignacy Mine. The ride offers a dry interval to enjoy the cityscape views.\n\nThe afternoon at the mine is perfect for wet weather. The museum features extensive indoor areas and fascinating technical history.\n\nIn the evening, head towards Nacyna Park. Most bus stops are covered, making the wait for your return to the Market Square comfortable.",
+            "pl": "Podróż autobusem po Rybniku to dobry wybór na deszczowy dzień. Z rynku łatwo dotrzesz do Bazyliki i Zamku, pozostając suchym.\n\nW południe linia autobusowa zabierze cię bezpośrednio do Kopalni Ignacy. Przejazd daje suchą przerwę na podziwianie panoramy miasta.\n\nPopołudnie w kopalni jest idealne na niepogodę. Muzeum ma rozległe przestrzenie wewnętrzne i fascynującą techniczną historię.\n\nWieczorem udaj się w stronę Parku nad Nacyną. Większość przystanków jest zadaszona, dzięki czemu oczekiwanie na powrót na Rynek jest wygodne."
           },
           "stops": [
             {
@@ -2126,7 +2295,8 @@
                 "de": "Die Haltestellen am Markt sind zentral und oft überdacht.",
                 "hu": "A főtéri megállók központiak és gyakran fedettek.",
                 "ro": "Stațiile din piață sunt centrale și adesea acoperite.",
-                "en": "The bus stops near the square are central and often sheltered."
+                "en": "The bus stops near the square are central and often sheltered.",
+                "pl": "Przystanki przy rynku są centralne i często zadaszone."
               }
             },
             {
@@ -2135,7 +2305,8 @@
                 "de": "Kurze Wege zwischen den Haltestellen minimieren den Regenkontakt.",
                 "hu": "A megállók közötti rövid távolság minimalizálja az esőben töltött időt.",
                 "ro": "Distanțele scurte între stații minimizează expunerea la ploaie.",
-                "en": "Short distances between stops minimize your time out in the rain."
+                "en": "Short distances between stops minimize your time out in the rain.",
+                "pl": "Krótki dystans między przystankami skraca czas spędzony na deszczu."
               }
             },
             {
@@ -2144,7 +2315,8 @@
                 "de": "Nutzen Sie die Zeit im Bus, um sich abzutrocknen.",
                 "hu": "Használja ki a buszon töltött időt a száradásra.",
                 "ro": "Folosiți timpul din autobuz pentru a vă usca.",
-                "en": "Use the time on the bus to dry off between visits."
+                "en": "Use the time on the bus to dry off between visits.",
+                "pl": "Wykorzystaj czas w autobusie, by osuszyć się między zwiedzaniem."
               }
             },
             {
@@ -2153,7 +2325,8 @@
                 "de": "Prüfen Sie die Fahrpläne digital, um Wartezeiten im Regen zu vermeiden.",
                 "hu": "Ellenőrizze a menetrendet mobilon, hogy ne kelljen az esőben várni.",
                 "ro": "Verificați orarul online pentru a nu aștepta în ploaie.",
-                "en": "Check schedules online to avoid long waits at stops in the rain."
+                "en": "Check schedules online to avoid long waits at stops in the rain.",
+                "pl": "Sprawdź rozkłady online, aby uniknąć długiego stania na deszczu."
               }
             },
             {
@@ -2162,7 +2335,8 @@
                 "de": "Die Wege am Fluss sind auch bei Nässe gut begehbar.",
                 "hu": "A folyóparti utak esőben is jól járhatók maradnak.",
                 "ro": "Aleile de pe malul râului sunt practicabile și pe ploaie.",
-                "en": "The riverside paths remain easily walkable even in wet weather."
+                "en": "The riverside paths remain easily walkable even in wet weather.",
+                "pl": "Nabrzeżne ścieżki pozostają zwykle łatwe do przejścia nawet w mokrych warunkach."
               }
             },
             {
@@ -2171,7 +2345,8 @@
                 "de": "Fahrkarten können bequem beim Fahrer oder am Automaten gekauft werden.",
                 "hu": "Jegyek kényelmesen vehetők a vezetőnél vagy az automatánál.",
                 "ro": "Biletele pot fi cumpărate de la șofer sau de la automate.",
-                "en": "Tickets can be conveniently bought from the driver or machines."
+                "en": "Tickets can be conveniently bought from the driver or machines.",
+                "pl": "Bilety można wygodnie kupić u kierowcy lub w automatach."
               }
             }
           ],
@@ -2203,6 +2378,13 @@
               "Use the 'jakdojade' app for real-time transit information.",
               "Buses might be a bit humid inside due to everyone's wet clothing.",
               "Coordinate bus trips with your longest indoor sightseeing stops."
+            ],
+            "pl": [
+              "Autobusy w Rybniku są czyste i świetnie chronią przed opadami.",
+              "Kopalnia Ignacy jest bardzo dobrze skomunikowana z siecią transportu publicznego.",
+              "Użyj aplikacji 'jakdojade' dla informacji o transporcie w czasie rzeczywistym.",
+              "W autobusie może być nieco wilgotno z powodu mokrego ubrania pasażerów.",
+              "Koordynuj przejazdy autobusem z najdłuższymi wewnętrznymi postojami."
             ]
           }
         },
@@ -2211,7 +2393,8 @@
             "de": "Winterliches Rybnik lässt sich wunderbar mit dem geheizten Bus erkunden. Der Tag beginnt am Markt, wo die Busse regelmäßig verkehren.\n\nMittags bietet der Transfer zwischen Basilika und Schloss eine willkommene Aufwärmpause. Die verschneite Stadt zieht am Fenster vorbei.\n\nNachmittags bringt Sie der Bus zur Zeche Ignacy. Die Fahrt dauert etwas länger, was Zeit gibt, sich für die Besichtigung des Industriedenkmals aufzuwärmen.\n\nAbends führt die Tour zum Nacyna-Park. Die Rückfahrt zum Marktplatz bietet einen Blick auf die beleuchtete Stadt und ein warmes Ende des Ausflugs.",
             "hu": "A téli Rybniket remekül felfedezhetjük a fűtött buszokkal. A nap a főtéren kezdődik, ahol a buszok sűrűn közlekednek.\n\nDélben a bazilika és a kastély közötti transzfer egy örömteli melegedő szünet. A havas város látványa elsuhan az ablak előtt.\n\nDélután a busz elvisz az Ignacy-aknához. Az út kicsit hosszabb, ami pont elég időt ad a bemelegedésre az ipari műemlék előtt.\n\nEste a Nacyna-park a cél. A főtérre való visszatéréskor megcsodálhatjuk a kivilágított várost a busz melegéből.",
             "ro": "Rybnikul hibernal poate fi explorat minunat cu autobuzele încălzite. Ziua începe în piață, unde frecvența curselor este bună.\n\nLa prânz, transferul între bazilică și castel oferă o pauză de încălzire binevenită. Orașul înzăpezit se vede frumos prin geam.\n\nDupă-amiaza, autobuzul vă duce la Mina Ignacy. Călătoria durează puțin mai mult, oferind timp pentru a vă încălzi înainte de vizită.\n\nSeara, turul ajunge la parcul Nacyna. Revenirea în piață oferă o vedere asupra orașului iluminat și un final cald al excursiei.",
-            "en": "Explore wintery Rybnik via heated buses for a comfortable journey. Start at the Market Square, a major hub for local transit lines.\n\nAt midday, the transfer between the Basilica and Castle acts as a perfect warming break. Watch the snowy city glide past the window.\n\nThe afternoon bus ride to Ignacy Mine is slightly longer, giving you plenty of time to warm up before the industrial tour.\n\nIn the evening, head to Nacyna Park. The return bus to the Market Square offers views of the city lights and a cozy end to your day."
+            "en": "Explore wintery Rybnik via heated buses for a comfortable journey. Start at the Market Square, a major hub for local transit lines.\n\nAt midday, the transfer between the Basilica and Castle acts as a perfect warming break. Watch the snowy city glide past the window.\n\nThe afternoon bus ride to Ignacy Mine is slightly longer, giving you plenty of time to warm up before the industrial tour.\n\nIn the evening, head to Nacyna Park. The return bus to the Market Square offers views of the city lights and a cozy end to your day.",
+            "pl": "Odkryj zimowy Rybnik dzięki ogrzewanym autobusom dla wygodnej podróży. Zacznij na Rynku, głównym węźle linii komunikacyjnych.\n\nW południe przejście między Bazyliką a Zamkiem stanowi idealną przerwę na ogrzanie. Patrz jak zaśnieżone miasto sunie za oknem.\n\nPopołudniowy przejazd autobusem do Kopalni Ignacy trwa trochę dłużej, dając dużo czasu na rozgrzanie się przed zwiedzaniem przemysłowym.\n\nWieczorem udaj się do Parku nad Nacyną. Powrotny autobus na Rynek oferuje widoki miejskich świateł i przytulne zakończenie dnia."
           },
           "stops": [
             {
@@ -2220,7 +2403,8 @@
                 "de": "Warten Sie in den Cafés, bis der Bus laut Fahrplan eintrifft.",
                 "hu": "Várjon a kávézókban, amíg a menetrend szerint érkezik a busz.",
                 "ro": "Așteptați în cafenele până când autobuzul sosește conform orarului.",
-                "en": "Wait inside nearby cafes until just before the bus is scheduled."
+                "en": "Wait inside nearby cafes until just before the bus is scheduled.",
+                "pl": "Poczekaj wewnątrz pobliskich kawiarni do chwili tuż przed odjazdem autobusu."
               }
             },
             {
@@ -2229,7 +2413,8 @@
                 "de": "Die Haltestellen sind im Winter gut von Schnee geräumt.",
                 "hu": "A megállókat télen általában jól takarítják a hótól.",
                 "ro": "Stațiile sunt de obicei bine deszăpezite iarna.",
-                "en": "Bus stops are usually well-cleared of snow during winter."
+                "en": "Bus stops are usually well-cleared of snow during winter.",
+                "pl": "Przystanki autobusowe zwykle są dobrze odśnieżone zimą."
               }
             },
             {
@@ -2238,7 +2423,8 @@
                 "de": "Genießen Sie die Heizung im Bus während der Fahrt.",
                 "hu": "Élvezze a busz fűtését az út során.",
                 "ro": "Bucurați-vă de încălzirea din autobuz în timpul călătoriei.",
-                "en": "Enjoy the bus heating system during the ride to the mine."
+                "en": "Enjoy the bus heating system during the ride to the mine.",
+                "pl": "Korzystaj z ogrzewania autobusów w drodze do kopalni."
               }
             },
             {
@@ -2247,7 +2433,8 @@
                 "de": "Abends sind die Busse oft weniger voll und sehr gemütlich.",
                 "hu": "Este a buszok gyakran kevésbé zsúfoltak és nagyon barátságosak.",
                 "ro": "Seara, autobuzele sunt adesea mai puțin aglomerate și primitoare.",
-                "en": "Buses are often less crowded and very cozy in the evening."
+                "en": "Buses are often less crowded and very cozy in the evening.",
+                "pl": "Autobusy wieczorem często są mniej zatłoczone i bardzo przytulne."
               }
             },
             {
@@ -2256,7 +2443,8 @@
                 "de": "Die Wege können bei Frost etwas rutschig sein; Vorsicht!",
                 "hu": "Az utak fagyban kicsit csúszósak lehetnek; vigyázzon!",
                 "ro": "Aleile pot fi puțin alunecoase în caz de îngheț; atenție!",
-                "en": "Paths might be a bit slippery during frost; be careful!"
+                "en": "Paths might be a bit slippery during frost; be careful!",
+                "pl": "Ścieżki mogą być śliskie przy mrozie; uważaj!"
               }
             },
             {
@@ -2265,7 +2453,8 @@
                 "de": "Der Hauptbahnhof ist auch ein guter Umstiegspunkt im Winter.",
                 "hu": "A főpályaudvar is jó átszállópont télen a meleg váróteremmel.",
                 "ro": "Gara principală este un punct bun de transfer iarna, având sală de așteptare.",
-                "en": "The main station is also a good transfer point with its warm waiting room."
+                "en": "The main station is also a good transfer point with its warm waiting room.",
+                "pl": "Dworzec główny to też dobry punkt przesiadkowy z ciepłą poczekalnią."
               }
             }
           ],
@@ -2297,6 +2486,13 @@
               "The Basilica looks especially grand in the winter sunlight.",
               "Keep your phone in an inner pocket so the battery lasts for tickets.",
               "Ignacy Mine provides a stunning winter backdrop for photos."
+            ],
+            "pl": [
+              "Autobusy często są najcieplejszym sposobem poruszania się po Rybniku zimą.",
+              "Bądź przygotowany na możliwe opóźnienia w komunikacji z powodu pogody.",
+              "Bazylika wygląda szczególnie okazałe w zimowym słońcu.",
+              "Trzymaj telefon w wewnętrznej kieszeni, by bateria wystarczyła na bilety.",
+              "Kopalnia Ignacy to wspaniałe zimowe tło do zdjęć."
             ]
           }
         }

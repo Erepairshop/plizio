@@ -21,7 +21,8 @@
             "de": "Rathaus und Marktplatz",
             "hu": "Városháza és piactér",
             "ro": "Primăria și Piața Centrală",
-            "en": "Town Hall and Market Square"
+            "en": "Town Hall and Market Square",
+            "pl": "Ratusz i Rynek"
           },
           "coords": [
             16.1775,
@@ -37,7 +38,8 @@
             "de": "Beginnen Sie Ihren Tag hier mit einem Kaffee und beobachten Sie das Stadtleben.",
             "hu": "Kezdje a napot egy kávéval, és figyelje a város ébredését.",
             "ro": "Începeți ziua aici cu o cafea, privind viața orașului.",
-            "en": "Start your day here with a coffee and watch the city life."
+            "en": "Start your day here with a coffee and watch the city life.",
+            "pl": "Zacznij dzień tutaj od kawy i obserwuj miejskie życie."
           }
         },
         {
@@ -45,7 +47,8 @@
             "de": "Henkerhaus",
             "hu": "Hóhér háza",
             "ro": "Casa Călăului",
-            "en": "Executioner's House"
+            "en": "Executioner's House",
+            "pl": "Dom kata"
           },
           "coords": [
             16.1791,
@@ -61,7 +64,8 @@
             "de": "Ein kleines, aber faszinierendes gotisches Gebäude. Perfekt für ein schnelles Foto.",
             "hu": "Egy apró, de lenyűgöző gótikus épület. Tökéletes egy gyors fotóhoz.",
             "ro": "O clădire gotică mică, dar fascinantă. Perfectă pentru o fotografie rapidă.",
-            "en": "A small but fascinating Gothic building. Perfect for a quick photo."
+            "en": "A small but fascinating Gothic building. Perfect for a quick photo.",
+            "pl": "Mały, lecz fascynujący gotycki budynek. Idealny na szybkie zdjęcie."
           }
         },
         {
@@ -69,7 +73,8 @@
             "de": "Kathedrale der Unbefleckten Empfängnis",
             "hu": "Szeplőtelen Fogantatás Katedrális",
             "ro": "Catedrala Neprihănitei Zămisliri",
-            "en": "Cathedral of the Immaculate Conception"
+            "en": "Cathedral of the Immaculate Conception",
+            "pl": "Katedra Niepokalanego Poczęcia"
           },
           "coords": [
             16.175,
@@ -85,7 +90,8 @@
             "de": "Nehmen Sie sich Zeit, um die beeindruckenden gotischen Gewölbe und die Orgel zu bewundern.",
             "hu": "Szánjon időt a lenyűgöző gótikus boltozatok és az orgona megcsodálására.",
             "ro": "Luați-vă timp pentru a admira bolțile gotice impresionante și orga.",
-            "en": "Take your time to admire the impressive Gothic vaults and the organ."
+            "en": "Take your time to admire the impressive Gothic vaults and the organ.",
+            "pl": "Poświęć czas na podziwianie imponujących gotyckich sklepień i organów."
           }
         },
         {
@@ -93,7 +99,8 @@
             "de": "Museum in Koszalin",
             "hu": "Koszalin Múzeum",
             "ro": "Muzeul din Koszalin",
-            "en": "Museum in Koszalin"
+            "en": "Museum in Koszalin",
+            "pl": "Muzeum w Koszalinie"
           },
           "coords": [
             16.1822,
@@ -109,7 +116,8 @@
             "de": "Konzentrieren Sie sich auf die Ausstellungen zur pommerschen Geschichte.",
             "hu": "Fókuszáljon a pomerániai történelemmel foglalkozó kiállításokra.",
             "ro": "Concentrați-vă pe expozițiile dedicate istoriei Pomeraniei.",
-            "en": "Focus on the exhibitions dedicated to Pomeranian history."
+            "en": "Focus on the exhibitions dedicated to Pomeranian history.",
+            "pl": "Skoncentruj się na wystawach poświęconych historii Pomorza."
           }
         },
         {
@@ -117,7 +125,8 @@
             "de": "Park der Pommerschen Herzöge",
             "hu": "Pomerániai Hercegek Parkja",
             "ro": "Parcul Ducilor Pomeranieni",
-            "en": "Pomeranian Dukes' Park"
+            "en": "Pomeranian Dukes' Park",
+            "pl": "Park Książąt Pomorskich"
           },
           "coords": [
             16.1755,
@@ -133,7 +142,8 @@
             "de": "Ein idealer Ort für ein Mittagspicknick oder einen entspannten Spaziergang.",
             "hu": "Ideális hely egy ebédpiknikhez vagy egy pihentető sétához.",
             "ro": "Un loc ideal pentru un picnic la prânz sau o plimbare relaxantă.",
-            "en": "An ideal spot for a lunch picnic or a relaxing stroll."
+            "en": "An ideal spot for a lunch picnic or a relaxing stroll.",
+            "pl": "Idealne miejsce na piknik obiadowy lub relaksujący spacer."
           }
         },
         {
@@ -141,7 +151,8 @@
             "de": "Amphitheater",
             "hu": "Amfiteátrum",
             "ro": "Amfiteatrul",
-            "en": "Amphitheater"
+            "en": "Amphitheater",
+            "pl": "Amfiteatr"
           },
           "coords": [
             16.1701,
@@ -157,7 +168,8 @@
             "de": "Prüfen Sie den Spielplan, vielleicht findet eine Veranstaltung statt. Die Architektur ist auch tagsüber beeindruckend.",
             "hu": "Nézze meg a programot, hátha van valamilyen esemény. Az épület nappal is lenyűgöző.",
             "ro": "Verificați programul, poate are loc un eveniment. Arhitectura este impresionantă și în timpul zilei.",
-            "en": "Check the schedule, there might be an event on. The architecture is impressive even during the day."
+            "en": "Check the schedule, there might be an event on. The architecture is impressive even during the day.",
+            "pl": "Sprawdź program – może odbywać się jakieś wydarzenie. Architektura imponuje nawet za dnia."
           }
         }
       ],
@@ -165,7 +177,8 @@
         "de": "Am Morgen erkunden Sie das historische Herz von Koszalin, vom Rathaus bis zur majestätischen Kathedrale. Spüren Sie die gotische Atmosphäre der alten Mauern. Am Mittag tauchen Sie im Stadtmuseum in die reiche Geschichte Pommerns ein, bevor Sie sich im Park der Pommerschen Herzöge für ein Picknick niederlassen. Der Nachmittag steht im Zeichen der Kultur mit einem Spaziergang zum beeindruckenden Amphitheater, einem modernen Wahrzeichen. Schließen Sie den Tag in einem der gemütlichen Restaurants im Stadtzentrum ab und genießen Sie die polnische Gastfreundschaft.",
         "hu": "Reggel fedezze fel Koszalin történelmi szívét a Városházától a fenséges Katedrálisig, és érezze a régi falak gótikus hangulatát. Délben merüljön el Pomeránia gazdag történelmében a városi múzeumban, mielőtt letelepedne egy piknikre a Pomerániai Hercegek Parkjában. A délután a kultúráé, egy sétával a lenyűgöző Amfiteátrumhoz, egy modern jelképhez. Zárja a napot a belváros egyik hangulatos éttermében, élvezve a lengyel vendégszeretetet.",
         "ro": "Dimineața, explorați inima istorică a orașului Koszalin, de la Primărie la maiestuoasa Catedrală, simțind atmosfera gotică a zidurilor vechi. La prânz, scufundați-vă în istoria bogată a Pomeraniei la muzeul orașului, înainte de a vă așeza pentru un picnic în Parcul Ducilor Pomeranieni. După-amiaza este dedicată culturii, cu o plimbare la impresionantul Amfiteatru, un reper modern. Încheiați ziua la unul dintre restaurantele primitoare din centrul orașului, bucurându-vă de ospitalitatea poloneză.",
-        "en": "In the morning, explore the historic heart of Koszalin, from the Town Hall to the majestic Cathedral, feeling the Gothic atmosphere of the old walls. At noon, delve into the rich history of Pomerania at the city museum before settling down for a picnic in the Pomeranian Dukes' Park. The afternoon is for culture, with a walk to the impressive Amphitheater, a modern landmark. End your day at one of the cozy restaurants in the city center, enjoying Polish hospitality."
+        "en": "In the morning, explore the historic heart of Koszalin, from the Town Hall to the majestic Cathedral, feeling the Gothic atmosphere of the old walls. At noon, delve into the rich history of Pomerania at the city museum before settling down for a picnic in the Pomeranian Dukes' Park. The afternoon is for culture, with a walk to the impressive Amphitheater, a modern landmark. End your day at one of the cozy restaurants in the city center, enjoying Polish hospitality.",
+        "pl": "Rano poznaj zabytkowe serce Koszalina, od Ratusza po majestatyczną Katedrę, czując gotycki klimat starych murów. W południe zgłębiaj bogatą historię Pomorza w muzeum miejskim, po czym rozłóż się na piknik w Parku Książąt Pomorskich. Popołudnie przeznacz na kulturę — spacer do imponującego Amfiteatru, nowoczesnego punktu orientacyjnego. Zakończ dzień w jednej z przytulnych restauracji w centrum, delektując się polską gościnnością."
       },
       "gastro_picks": {
         "de": [
@@ -361,6 +374,12 @@
           "Most central sights are within easy walking distance.",
           "Always have some cash (Złoty) handy for small purchases at the market or in smaller shops.",
           "A light raincoat is always a good idea as the weather can change quickly."
+        ],
+        "pl": [
+          "Noś wygodne buty — kostka brukowa na Starym Mieście bywa nierówna.",
+          "Większość centralnych atrakcji jest łatwo dostępna pieszo.",
+          "Miej przy sobie trochę gotówki (złote) na drobne zakupy na targu lub w mniejszych sklepach.",
+          "Lekki przeciwdeszczowy płaszcz to zawsze dobry pomysł, pogoda może szybko się zmieniać."
         ]
       },
       "variants": {
@@ -369,7 +388,8 @@
             "de": "Der Morgen beginnt am Marktplatz; halten Sie den Schirm bereit für den baltischen Nieselregen. Mittags bieten die Kathedrale und das Scharfrichterhaus trockenen Unterschlupf. Verbringen Sie den Nachmittag im Museum, um dem Regen zu entgehen. Den Tag beschließt ein Spaziergang durch den nebligen Park zu einem gemütlichen Restaurant im Zentrum.",
             "hu": "Reggel a Főtéren kezdünk, esernyővel a balti szitálás ellen. Délben a Székesegyház és a Katownia nyújt menedéket. A délutánt töltsük a Múzeum kiállításai között, elkerülve az esőt. A napot egy frissítő séta zárja a ködös parkon át, majd egy hangulatos belvárosi étteremben melegedhetünk fel.",
             "ro": "Dimineața începe în Piața Veche; pregătiți umbrela pentru burnița baltică. La prânz, Catedrala și Casa Călăului oferă refugiu uscat. Petreceți după-amiaza explorând muzeul pentru a evita ploaia densă. Încheiați ziua cu o plimbare prin parcul cețos spre un restaurant primitor din centru.",
-            "en": "Morning begins at the Market Square; keep your umbrella ready for the Baltic drizzle. Midday offers a dry refuge in the Cathedral and the Executioner's House. Spend a long afternoon exploring the Museum's collections to avoid the heaviest rain. Finish the day with a brisk walk through the misty park towards a cozy local restaurant in the city center."
+            "en": "Morning begins at the Market Square; keep your umbrella ready for the Baltic drizzle. Midday offers a dry refuge in the Cathedral and the Executioner's House. Spend a long afternoon exploring the Museum's collections to avoid the heaviest rain. Finish the day with a brisk walk through the misty park towards a cozy local restaurant in the city center.",
+            "pl": "Poranek zaczyna się na Rynku; miej parasol gotowy na bałtycki mżawkę. W południe schowaj się w suchym wnętrzu Katedry i Domu Kata. Długi wieczór spędź, zwiedzając kolekcje Muzeum, aby ominąć najsilniejszy deszcz. Zakończ dzień żywym spacerem przez mglisty park w stronę przytulnej lokalnej restauracji w centrum."
           },
           "stops": [
             {
@@ -378,7 +398,8 @@
                 "de": "Unter den Arkaden des Rathauses finden Sie Schutz vor plötzlichen Schauern.",
                 "hu": "A városháza árkádjai alatt menedéket találhatsz a hirtelen záporok elől.",
                 "ro": "Sub arcadele primăriei puteți găsi adăpost în cazul unei averse bruște.",
-                "en": "Find shelter under the Town Hall arcades if a sudden shower starts."
+                "en": "Find shelter under the Town Hall arcades if a sudden shower starts.",
+                "pl": "Schowaj się pod arkadami Ratusza, jeśli zacznie padać nagły deszcz."
               }
             },
             {
@@ -387,7 +408,8 @@
                 "de": "Die dicken Mauern der Katownia halten Sie während der Besichtigung trocken.",
                 "hu": "A Katownia vastag falai szárazon tartanak a látogatás során.",
                 "ro": "Zidurile groase ale Katowniei vă vor menține uscat în timpul vizitei.",
-                "en": "The thick walls of Katownia keep you perfectly dry during your visit."
+                "en": "The thick walls of Katownia keep you perfectly dry during your visit.",
+                "pl": "Grube mury Katowni zapewnią Ci sucho podczas zwiedzania."
               }
             },
             {
@@ -396,7 +418,8 @@
                 "de": "Bewundern Sie die gotische Architektur, während Sie dem Regen entfliehen.",
                 "hu": "Csodáld meg a gótikus építészetet, miközben elmenekülsz az eső elől.",
                 "ro": "Admirați arhitectura gotică în timp ce vă adăpostiți de ploaie.",
-                "en": "Admire the Gothic architecture while taking a break from the rain."
+                "en": "Admire the Gothic architecture while taking a break from the rain.",
+                "pl": "Podziwiaj gotycką architekturę, robiąc przerwę od deszczu."
               }
             },
             {
@@ -405,7 +428,8 @@
                 "de": "Der perfekte Ort, um viel Zeit im Trockenen zwischen Exponaten zu verbringen.",
                 "hu": "Tökéletes hely, hogy sok időt tölts szárazon a kiállítási tárgyak között.",
                 "ro": "Locul perfect pentru a petrece timp la adăpost printre exponate.",
-                "en": "The perfect place to spend significant time indoors among the exhibits."
+                "en": "The perfect place to spend significant time indoors among the exhibits.",
+                "pl": "Idealne miejsce na dłuższy czas spędzony w pomieszczeniach wśród eksponatów."
               }
             },
             {
@@ -414,7 +438,8 @@
                 "de": "Bleiben Sie auf den befestigten Wegen, um Matsch zu vermeiden.",
                 "hu": "Maradj a kövezett utakon, hogy elkerüld a sarat a parkban.",
                 "ro": "Rămâneți pe aleile pavate pentru a evita noroiul din parc.",
-                "en": "Stick to the paved paths to avoid mud while walking through the park."
+                "en": "Stick to the paved paths to avoid mud while walking through the park.",
+                "pl": "Trzymaj się utwardzonych ścieżek, aby uniknąć błota podczas spaceru po parku."
               }
             },
             {
@@ -423,7 +448,8 @@
                 "de": "Die dramatische Struktur bietet auch bei grauem Regenwetter tolle Fotomotive.",
                 "hu": "A drámai szerkezet szürke esős időben is nagyszerű fotótéma.",
                 "ro": "Structura dramatică oferă oportunități foto excelente chiar și pe ploaie.",
-                "en": "The dramatic structure offers great photo opportunities even in gray rain."
+                "en": "The dramatic structure offers great photo opportunities even in gray rain.",
+                "pl": "Dramatyczna bryła amfiteatru daje świetne możliwości fotograficzne nawet w deszczową pogodę."
               }
             }
           ],
@@ -451,6 +477,12 @@
               "Combine outdoor stops with longer breaks in cafes around the Market Square.",
               "A sturdy umbrella is essential due to the winds coming from the Baltic Sea.",
               "Use the Cathedral as a peaceful spot for a longer break during heavy rain."
+            ],
+            "pl": [
+              "Noś wodoodporne buty — bruk Starego Miasta może być śliski gdy jest mokry.",
+              "Łącz przystanki na zewnątrz z dłuższymi przerwami w kawiarniach przy Rynku.",
+              "Solidny parasol jest niezbędny ze względu na wiatry znad Morza Bałtyckiego.",
+              "Użyj Katedry jako spokojnego miejsca na dłuższą przerwę podczas ulewy."
             ]
           }
         },
@@ -459,7 +491,8 @@
             "de": "Koszalin im Winter glänzt mit kühler Seeluft und festlicher Beleuchtung am Rathaus. Mittags wärmen die Backsteinmauern der Katownia und die Kerzen in der Kathedrale Geist und Körper. Der Nachmittag gehört dem Museum, einem idealen Zufluchtsort vor dem Frost. Wenn es früh dunkel wird, leuchten die Lichter des Parks und laden zum Abschluss in ein warmes Gasthaus ein.",
             "hu": "Koszalin télen friss tengeri levegővel és ünnepi fényekkel vár a Városházánál. Délben a Katownia téglafala és a Székesegyház gyertyái melengetik a lelket. A délután a Múzeumé, amely tökéletes menedék a fagy elől. A korai sötétedéskor kigyúlnak a park fényei, majd egy meleg vendéglő várja a látogatót a nap végén.",
             "ro": "Koszalin iarna oferă aer marin proaspăt și lumini festive lângă Primărie. La prânz, zidurile de cărămidă ale Katowniei și lumânările din Catedrală încălzesc spiritul. După-amiaza aparține muzeului, un refugiu ideal împotriva gerului. Când se întunecă devreme, luminile parcului strălucesc, invitându-vă spre un han călduros.",
-            "en": "Winter in Koszalin brings crisp sea air and festive lights at the Town Hall. At midday, the brick walls of Katownia and the candles in the Cathedral warm the spirit. The afternoon is dedicated to the Museum, an ideal refuge from the frost. As darkness falls early, the park lights glow, leading you to a warm dinner in the city center."
+            "en": "Winter in Koszalin brings crisp sea air and festive lights at the Town Hall. At midday, the brick walls of Katownia and the candles in the Cathedral warm the spirit. The afternoon is dedicated to the Museum, an ideal refuge from the frost. As darkness falls early, the park lights glow, leading you to a warm dinner in the city center.",
+            "pl": "Zima w Koszalinie przynosi rześkie powietrze znad morza i świąteczne światła przy Ratuszu. W południe ciepło dają ceglane mury Katowni i świece w Katedrze. Popołudnie poświęcone jest Muzeum, idealnemu schronieniu przed mrozem. Gdy szybko zapada zmrok, światła w parku prowadzą do ciepłej kolacji w centrum."
           },
           "stops": [
             {
@@ -468,7 +501,8 @@
                 "de": "Genießen Sie die winterliche Beleuchtung auf dem Marktplatz nach Einbruch der Dunkelheit.",
                 "hu": "Élvezd a téli kivilágítást a Főtéren sötétedés után.",
                 "ro": "Bucurați-vă de iluminatul festive din Piață după lăsarea întunericului.",
-                "en": "Enjoy the festive winter lights in the Market Square after dusk."
+                "en": "Enjoy the festive winter lights in the Market Square after dusk.",
+                "pl": "Podziwiaj świąteczne iluminacje na Rynku po zmroku."
               }
             },
             {
@@ -477,7 +511,8 @@
                 "de": "Ein gemütlicher, kurzer Innenstopp, um der kalten Brise zu entkommen.",
                 "hu": "Hangulatos, rövid beltéri megálló, hogy elmenekülj a hideg szél elől.",
                 "ro": "O oprire scurtă și primitoare în interior pentru a scăpa de briza rece.",
-                "en": "A cozy, short indoor stop to escape the cold winter breeze."
+                "en": "A cozy, short indoor stop to escape the cold winter breeze.",
+                "pl": "Przytulny, krótki przystanek w środku, żeby uciec od zimnego wiatru."
               }
             },
             {
@@ -486,7 +521,8 @@
                 "de": "Die Ruhe und das gedämpfte Licht bieten eine andächtige Winteratmosphäre.",
                 "hu": "A nyugalom és a tompa fények meghitt téli hangulatot árasztanak.",
                 "ro": "Liniștea și lumina difuză oferă o atmosferă de iarnă contemplativă.",
-                "en": "The silence and dimmed lights offer a peaceful winter atmosphere."
+                "en": "The silence and dimmed lights offer a peaceful winter atmosphere.",
+                "pl": "Cisza i przytłumione światła tworzą spokojną zimową atmosferę."
               }
             },
             {
@@ -495,7 +531,8 @@
                 "de": "Nutzen Sie die beheizten Räume, um sich zwischen den Besichtigungen aufzuwärmen.",
                 "hu": "Használd a fűtött termeket a felmelegedésre a városnézés közben.",
                 "ro": "Folosiți sălile încălzite pentru a vă încălzi între vizite.",
-                "en": "Use the heated rooms to warm up between outdoor sightseeing segments."
+                "en": "Use the heated rooms to warm up between outdoor sightseeing segments.",
+                "pl": "Korzystaj z ogrzewanych pomieszczeń, by ogrzać się między zwiedzaniem na zewnątrz."
               }
             },
             {
@@ -504,7 +541,8 @@
                 "de": "Achten Sie auf gefrorene Stellen auf den Wegen entlang der Teiche.",
                 "hu": "Vigyázz a jeges szakaszokra a tavak menti sétányokon.",
                 "ro": "Atenție la porțiunile înghețate de pe aleile de lângă iazuri.",
-                "en": "Watch out for frozen patches on the paths along the ponds."
+                "en": "Watch out for frozen patches on the paths along the ponds.",
+                "pl": "Uważaj na zamarznięte plamy na ścieżkach przy stawach."
               }
             },
             {
@@ -513,7 +551,8 @@
                 "de": "Der Park ist im Winter ruhig; ideal für einen kurzen, klaren Fotostopp.",
                 "hu": "A park télen csendes; ideális egy rövid, tiszta fotómegállóra.",
                 "ro": "Parcul este liniștit iarna; ideal pentru o scurtă oprire foto clară.",
-                "en": "The park is quiet in winter; ideal for a short, crisp photo stop."
+                "en": "The park is quiet in winter; ideal for a short, crisp photo stop.",
+                "pl": "Park jest cichy zimą; idealny na krótki, rześki przystanek fotograficzny."
               }
             }
           ],
@@ -541,6 +580,12 @@
               "Sunset is around 15:45 in December; plan outdoor stops earlier in the day.",
               "Warm up with hot tea in the cafes along Zwycięstwa Street between stops.",
               "Cobblestones can be slippery when frozen; wear shoes with good grip."
+            ],
+            "pl": [
+              "Ubierz się na cebulkę — wiatr znad morza może być ostry i przenikliwy.",
+              "Zachód słońca jest około 15:45 w grudniu; planuj przystanki na zewnątrz wcześniej.",
+              "Rozgrzej się gorącą herbatą w kawiarniach przy ulicy Zwycięstwa między przystankami.",
+              "Kostka brukowa może być śliska po zamarznięciu; noś buty z dobrą przyczepnością."
             ]
           }
         }
@@ -559,7 +604,8 @@
             "de": "Rathaus",
             "hu": "Városháza",
             "ro": "Primăria",
-            "en": "Town Hall"
+            "en": "Town Hall",
+            "pl": "Ratusz"
           },
           "coords": [
             16.1775,
@@ -575,7 +621,8 @@
             "de": "Startpunkt Ihrer Radtour. Schließen Sie Ihr Rad sicher ab, bevor Sie den Platz erkunden.",
             "hu": "A biciklitúra kiindulópontja. Zárja le biztonságosan a kerékpárt, mielőtt felfedezné a teret.",
             "ro": "Punctul de plecare al turului cu bicicleta. Asigurați-vă bicicleta înainte de a explora piața.",
-            "en": "The starting point for your bike tour. Lock your bike securely before exploring the square."
+            "en": "The starting point for your bike tour. Lock your bike securely before exploring the square.",
+            "pl": "Punkt startowy Twojej wycieczki rowerowej. Zabezpiecz rower na stojaku przed zwiedzaniem rynku."
           }
         },
         {
@@ -583,7 +630,8 @@
             "de": "Kathedrale der Unbefleckten Empfängnis",
             "hu": "Szeplőtelen Fogantatás Katedrális",
             "ro": "Catedrala Neprihănitei Zămisliri",
-            "en": "Cathedral of the Immaculate Conception"
+            "en": "Cathedral of the Immaculate Conception",
+            "pl": "Katedra Niepokalanego Poczęcia"
           },
           "coords": [
             16.175,
@@ -599,7 +647,8 @@
             "de": "Bewundern Sie die gotische Architektur, bevor Sie Ihre Tour fortsetzen.",
             "hu": "Csodálja meg a gótikus építészetet, mielőtt folytatná útját.",
             "ro": "Admirați arhitectura gotică înainte de a continua turul.",
-            "en": "Admire the Gothic architecture before continuing your tour."
+            "en": "Admire the Gothic architecture before continuing your tour.",
+            "pl": "Podziwiaj gotycką architekturę przed kontynuacją trasy."
           }
         },
         {
@@ -607,7 +656,8 @@
             "de": "Park der Pommerschen Herzöge und Amphitheater",
             "hu": "Pomerániai Hercegek Parkja és Amfiteátrum",
             "ro": "Parcul Ducilor Pomeranieni și Amfiteatrul",
-            "en": "Pomeranian Dukes' Park and Amphitheater"
+            "en": "Pomeranian Dukes' Park and Amphitheater",
+            "pl": "Park Książąt Pomorskich i Amfiteatr"
           },
           "coords": [
             16.172,
@@ -623,7 +673,8 @@
             "de": "Fahren Sie durch den Park und machen Sie einen Halt am einzigartigen Amphitheater.",
             "hu": "Tekerjen át a parkon, és álljon meg az egyedi amfiteátrumnál.",
             "ro": "Plimbați-vă cu bicicleta prin parc și opriți-vă la amfiteatrul unic.",
-            "en": "Cycle through the park and make a stop at the unique amphitheater."
+            "en": "Cycle through the park and make a stop at the unique amphitheater.",
+            "pl": "Przejedź przez park i zatrzymaj się przy wyjątkowym amfiteatrze."
           }
         },
         {
@@ -631,7 +682,8 @@
             "de": "Mittagessen am Jamno-See",
             "hu": "Ebéd a Jamno-tónál",
             "ro": "Prânz la Lacul Jamno",
-            "en": "Lunch at Jamno Lake"
+            "en": "Lunch at Jamno Lake",
+            "pl": "Obiad nad Jeziorem Jamno"
           },
           "coords": [
             16.155,
@@ -647,7 +699,8 @@
             "de": "Genießen Sie die frische Luft und eine Mahlzeit mit Seeblick. Es gibt Radwege entlang des Sees.",
             "hu": "Élvezze a friss levegőt és egy tóparti ebédet. A tó mentén kerékpárutak is vannak.",
             "ro": "Bucurați-vă de aerul proaspăt și de o masă cu vedere la lac. Există piste de biciclete de-a lungul lacului.",
-            "en": "Enjoy the fresh air and a meal with a lake view. There are bike paths along the lake."
+            "en": "Enjoy the fresh air and a meal with a lake view. There are bike paths along the lake.",
+            "pl": "Ciesz się świeżym powietrzem i posiłkiem z widokiem na jezioro. Wokół jeziora są ścieżki rowerowe."
           }
         },
         {
@@ -655,7 +708,8 @@
             "de": "Museum in Koszalin",
             "hu": "Koszalin Múzeum",
             "ro": "Muzeul din Koszalin",
-            "en": "Museum in Koszalin"
+            "en": "Museum in Koszalin",
+            "pl": "Muzeum w Koszalinie"
           },
           "coords": [
             16.1822,
@@ -671,7 +725,8 @@
             "de": "Eine kulturelle Pause nach der Natur. Hier können Sie mehr über die Region erfahren.",
             "hu": "Kulturális szünet a természet után. Itt többet megtudhat a régióról.",
             "ro": "O pauză culturală după natură. Aici puteți afla mai multe despre regiune.",
-            "en": "A cultural break after being in nature. Learn more about the region here."
+            "en": "A cultural break after being in nature. Learn more about the region here.",
+            "pl": "Kulturalna przerwa po pobycie na łonie natury. Tu dowiesz się więcej o regionie."
           }
         },
         {
@@ -679,7 +734,8 @@
             "de": "Góra Chełmska (Chełmska-Hügel)",
             "hu": "Góra Chełmska (Chełmska-hegy)",
             "ro": "Góra Chełmska (Dealul Chełmska)",
-            "en": "Góra Chełmska (Chełmska Hill)"
+            "en": "Góra Chełmska (Chełmska Hill)",
+            "pl": "Góra Chełmska"
           },
           "coords": [
             16.23,
@@ -695,7 +751,8 @@
             "de": "Der Anstieg ist die Aussicht wert! Ein perfekter Ort, um den Tag ausklingen zu lassen.",
             "hu": "A kilátás megéri a fáradságot! Tökéletes hely a nap befejezéséhez.",
             "ro": "Urcușul merită priveliștea! Un loc perfect pentru a încheia ziua.",
-            "en": "The climb is worth the view! A perfect spot to end your day's exploration."
+            "en": "The climb is worth the view! A perfect spot to end your day's exploration.",
+            "pl": "Wspinaczka jest warta widoku! Doskonałe miejsce na zakończenie dnia eksploracji."
           }
         }
       ],
@@ -703,7 +760,8 @@
         "de": "Schwingen Sie sich am Morgen aufs Rad und erkunden Sie die zentralen Plätze und die Kathedrale von Koszalin. Am Mittag entfliehen Sie dem Stadtzentrum und radeln zum malerischen Jamno-See für ein erfrischendes Mittagessen am Wasser. Der Weg dorthin führt durch grüne Landschaften. Am Nachmittag kehren Sie für eine Dosis Kultur ins Stadtmuseum zurück. Schließen Sie Ihre Tour mit einem sportlichen Anstieg auf den Góra Chełmska ab, wo Sie mit einer fantastischen Aussicht über die Stadt und die Region belohnt werden.",
         "hu": "Reggel pattanjon biciklire, és fedezze fel Koszalin központi tereit és a katedrálist. Délben hagyja el a városközpontot, és tekerjen el a festői Jamno-tóhoz egy frissítő ebédre a vízparton. Az oda vezető út zöld tájakon át vezet. Délután térjen vissza egy adag kultúráért a városi múzeumba. Zárja a túrát egy sportos emelkedővel a Góra Chełmska-hegyre, ahol fantasztikus kilátás nyílik a városra és a régióra.",
         "ro": "Dimineața, urcați-vă pe bicicletă și explorați piețele centrale și catedrala din Koszalin. La prânz, evadați din centrul orașului și pedalați spre pitorescul Lac Jamno pentru un prânz revigorant pe malul apei. Drumul până acolo trece prin peisaje verzi. După-amiaza, reveniți la muzeul orașului pentru o doză de cultură. Încheiați turul cu o urcare sportivă pe Dealul Góra Chełmska, unde veți fi răsplătit cu o priveliște fantastică asupra orașului și a regiunii.",
-        "en": "In the morning, get on your bike and explore the central squares and cathedral of Koszalin. At noon, escape the city center and cycle to the picturesque Jamno Lake for a refreshing lunch by the water. The path there leads through green landscapes. In the afternoon, return to the city museum for a dose of culture. Conclude your tour with a sporty climb up Góra Chełmska, where you'll be rewarded with a fantastic view over the city and the region."
+        "en": "In the morning, get on your bike and explore the central squares and cathedral of Koszalin. At noon, escape the city center and cycle to the picturesque Jamno Lake for a refreshing lunch by the water. The path there leads through green landscapes. In the afternoon, return to the city museum for a dose of culture. Conclude your tour with a sporty climb up Góra Chełmska, where you'll be rewarded with a fantastic view over the city and the region.",
+        "pl": "Rano wskocz na rower i poznaj centralne place oraz katedrę Koszalina. W południe oddal się od centrum i przejedź nad malownicze Jezioro Jamno na orzeźwiający lunch nad wodą. Droga prowadzi przez zielone krajobrazy. Po południu wróć do miejskiego muzeum dla dawki kultury. Zakończ wycieczkę sportową wspinaczką na Górę Chełmską, skąd rozpościera się fantastyczny widok na miasto i okolice."
       },
       "gastro_picks": {
         "de": [
@@ -899,6 +957,12 @@
           "Use bike paths wherever available, especially along Jamno Lake.",
           "A good lock is essential when leaving your bike to visit sights.",
           "Bring a bottle of water and some snacks for the longer stretches."
+        ],
+        "pl": [
+          "Koszalin jest stosunkowo płaski, ale podejście na Górę Chełmską wymaga wysiłku.",
+          "Korzystaj ze ścieżek rowerowych tam, gdzie są dostępne, zwłaszcza wzdłuż Jeziora Jamno.",
+          "Dobre zabezpieczenie (zapięcie) jest niezbędne, gdy zostawiasz rower przy zwiedzaniu atrakcji.",
+          "Weź butelkę wody i jakieś przekąski na dłuższe odcinki."
         ]
       },
       "variants": {
@@ -907,7 +971,8 @@
             "de": "Ein Radtag im Regen erfordert gute Ausrüstung, bietet aber leere Wege zum Jamno-See. Nach dem Start im Zentrum führt die Route durch den nassen Park. Das Mittagessen am Seeufer ist ein windiges Erlebnis, gefolgt von einem trockenen Museumsbesuch. Der Tag endet mit einem sportlichen Aufstieg zum Gollenberg durch den nebligen Wald.",
             "hu": "Egy esős bringás nap jó felszerelést igényel, de cserébe üres utakat kínál a Jamno-tóhoz. A központból indulva vizes parkokon át vezet az út. A tavi ebéd szeles élmény, amit száraz múzeumi pihenő követ. A nap végén ködös erdei utakon tekerhetünk fel a Chełmska-hegyre.",
             "ro": "O zi de ciclism pe ploaie necesită echipament bun, dar oferă poteci libere spre lacul Jamno. După startul din centru, traseul trece prin parcul ud. Prânzul la lac este o experiență vântoasă, urmată de o vizită uscată la muzeu. Ziua se încheie cu o urcare sportivă pe dealul Chełmska.",
-            "en": "A rainy cycling day requires good gear but rewards you with empty paths to Lake Jamno. Starting from the center, the route leads through wet parks. Lunch by the lake is a windy experience, followed by a dry museum break. The day ends with a sporty climb up Chełmska Hill through the misty forest."
+            "en": "A rainy cycling day requires good gear but rewards you with empty paths to Lake Jamno. Starting from the center, the route leads through wet parks. Lunch by the lake is a windy experience, followed by a dry museum break. The day ends with a sporty climb up Chełmska Hill through the misty forest.",
+            "pl": "Deszczowy dzień na rowerze wymaga dobrej odzieży, ale nagrodzi Cię pustymi ścieżkami nad Jeziorem Jamno. Trasa ze śródmieścia prowadzi przez mokre parki. Lunch nad jeziorem bywa wietrzny, po czym czeka sucha przerwa w muzeum. Dzień kończy sportowa wspinaczka na Górę Chełmską przez mglisty las."
           },
           "stops": [
             {
@@ -916,7 +981,8 @@
                 "de": "Vorsicht beim Losfahren; das Pflaster auf dem Markt ist bei Nässe rutschig.",
                 "hu": "Vigyázz az indulásnál; a főtéri macskakő vizesen csúszik.",
                 "ro": "Atenție la plecare; pavajul din piață este alunecos când este ud.",
-                "en": "Be careful when starting; the market square pavement is slippery when wet."
+                "en": "Be careful when starting; the market square pavement is slippery when wet.",
+                "pl": "Uważaj przy starcie — bruk na Rynku jest śliski, gdy jest mokry."
               }
             },
             {
@@ -925,7 +991,8 @@
                 "de": "Nutzen Sie die Fahrradständer in der Nähe des Eingangs für einen kurzen Stopp.",
                 "hu": "Használd a bejárat közeli kerékpártámaszokat egy rövid pihenőhöz.",
                 "ro": "Folosiți suporturile de biciclete de lângă intrare pentru o scurtă pauză.",
-                "en": "Use the bike racks near the entrance for a quick indoor break."
+                "en": "Use the bike racks near the entrance for a quick indoor break.",
+                "pl": "Skorzystaj ze stojaków rowerowych przy wejściu na szybki przystanek w środku."
               }
             },
             {
@@ -934,7 +1001,8 @@
                 "de": "Fahren Sie vorsichtig auf den kurvigen Wegen durch den regnerischen Park.",
                 "hu": "Tekerj óvatosan a kanyargós utakon az esős parkban.",
                 "ro": "Pedalați cu atenție pe aleile virajate prin parcul plouat.",
-                "en": "Cycle carefully on the winding paths through the rainy park."
+                "en": "Cycle carefully on the winding paths through the rainy park.",
+                "pl": "Jedź ostrożnie po krętych ścieżkach przez deszczowy park."
               }
             },
             {
@@ -943,7 +1011,8 @@
                 "de": "Suchen Sie sich einen Platz in einem Restaurant mit Blick auf den regnerischen See.",
                 "hu": "Keress helyet egy étteremben, ahonnan rálátsz az esős tóra.",
                 "ro": "Căutați un loc într-un restaurant cu vedere spre lacul plouat.",
-                "en": "Find a spot in a restaurant with a view of the rainy lake."
+                "en": "Find a spot in a restaurant with a view of the rainy lake.",
+                "pl": "Znajdź stolik w restauracji z widokiem na deszczowe jezioro."
               }
             },
             {
@@ -952,7 +1021,8 @@
                 "de": "Stellen Sie Ihr Rad gesichert ab und genießen Sie die trockene Ausstellung.",
                 "hu": "Zárd le a biciklit, és élvezd a száraz kiállítást.",
                 "ro": "Parcați bicicleta în siguranță și bucurați-vă de expoziția uscată.",
-                "en": "Park your bike securely and enjoy the dry indoor exhibition."
+                "en": "Park your bike securely and enjoy the dry indoor exhibition.",
+                "pl": "Zabezpiecz rower i korzystaj z suchej, wewnętrznej ekspozycji."
               }
             },
             {
@@ -961,7 +1031,8 @@
                 "de": "Der Waldweg kann matschig sein; achten Sie auf Ihre Traktion beim Anstieg.",
                 "hu": "Az erdei út sáros lehet; figyelj a tapadásra az emelkedőn.",
                 "ro": "Drumul prin pădure poate fi noroios; atenție la tracțiune pe urcare.",
-                "en": "The forest path might be muddy; watch your traction on the climb."
+                "en": "The forest path might be muddy; watch your traction on the climb.",
+                "pl": "Leśna ścieżka może być błotnista; uważaj na trakcję podczas podjazdu."
               }
             }
           ],
@@ -989,6 +1060,12 @@
               "Wear high-visibility rain gear to be seen better by car drivers.",
               "Check your brakes before the wet descent from Chełmska Hill.",
               "Choose paved cycling paths to the lake to avoid deep mud."
+            ],
+            "pl": [
+              "Błotniki są niezbędne przy takiej pogodzie w Koszalinie.",
+              "Noś odblaskową wodoodporną odzież, by być lepiej widocznym dla kierowców.",
+              "Sprawdź hamulce przed mokrym zjazdem z Gór Chełmskiej.",
+              "Wybieraj utwardzone ścieżki rowerowe nad jeziorem, by uniknąć głębokiego błota."
             ]
           }
         },
@@ -997,7 +1074,8 @@
             "de": "Radfahren im Winter in Koszalin bedeutet frische Luft und leere Radwege. Der Morgen im Zentrum führt zur Kathedrale, bevor die Fahrt durch den frostigen Park fortgesetzt wird. Die Tour zum Jamno-See bietet weite, klare Ausblicke, erfordert aber warme Kleidung gegen den Wind. Der Tag endet mit einem fordernden Anstieg zum Gollenberg, wo der Wald im Winterlicht strahlt.",
             "hu": "A téli bringázás Koszalinban friss levegőt és üres utakat jelent. A központból a Székesegyház felé indulunk, majd a jeges parkon át tekerünk. A Jamno-tó felé vezető út tiszta kilátást ígér, de meleg ruha kell a szél ellen. A napot a Chełmska-hegy emelkedője zárja, ahol az erdő téli fényben tündököl.",
             "ro": "Ciclismul de iarnă în Koszalin înseamnă aer proaspăt și piste libere. Dimineața în centru duce la Catedrală, apoi prin parcul înghețat. Turul spre lacul Jamno oferă vederi clare, dar necesită haine groase contra vântului. Ziua se încheie cu urcarea solicitantă pe dealul Chełmska.",
-            "en": "Winter cycling in Koszalin means fresh air and empty bike paths. The morning in the center leads to the Cathedral before continuing through the frosty park. The trip to Lake Jamno offers wide, clear views but requires warm clothing against the wind. The day ends with a demanding climb to Chełmska Hill."
+            "en": "Winter cycling in Koszalin means fresh air and empty bike paths. The morning in the center leads to the Cathedral before continuing through the frosty park. The trip to Lake Jamno offers wide, clear views but requires warm clothing against the wind. The day ends with a demanding climb to Chełmska Hill.",
+            "pl": "Zimowe rowerowanie w Koszalinie to świeże powietrze i puste ścieżki. Poranek w centrum prowadzi do Katedry, a dalej przez mroźny park. Wyprawa nad Jezioro Jamno oferuje szerokie, czyste widoki, ale wymaga ciepłego ubioru przeciw wiatrowi. Dzień kończy wymagające podejście na Górę Chełmską."
           },
           "stops": [
             {
@@ -1006,7 +1084,8 @@
                 "de": "Starten Sie vorsichtig; achten Sie auf Raureif auf dem Marktplatzpflaster.",
                 "hu": "Indulj óvatosan; figyelj a zúzmarára a főtéri macskakövön.",
                 "ro": "Porniți cu atenție; atenție la chiciura de pe pavajul pieței.",
-                "en": "Start carefully; watch out for hoarfrost on the market square stones."
+                "en": "Start carefully; watch out for hoarfrost on the market square stones.",
+                "pl": "Startuj ostrożnie; uważaj na szron na kamieniach Rynku."
               }
             },
             {
@@ -1015,7 +1094,8 @@
                 "de": "Ein kurzer Stopp im Inneren hilft, die Finger aufzuwärmen.",
                 "hu": "Egy rövid benti megálló segít felmelegíteni az ujjaidat.",
                 "ro": "O scurtă oprire în interior ajută la încălzirea degetelor.",
-                "en": "A short stop inside will help warm up your fingers."
+                "en": "A short stop inside will help warm up your fingers.",
+                "pl": "Krótka przerwa w środku pomoże rozgrzać palce."
               }
             },
             {
@@ -1024,7 +1104,8 @@
                 "de": "Vorsicht vor Eis auf den Brücken über den Mühlbach.",
                 "hu": "Vigyázz a jégre a patak feletti hidakon.",
                 "ro": "Atenție la gheața de pe podurile peste pârâu.",
-                "en": "Watch out for ice on the bridges over the stream."
+                "en": "Watch out for ice on the bridges over the stream.",
+                "pl": "Uważaj na lód na mostkach nad potokiem."
               }
             },
             {
@@ -1033,7 +1114,8 @@
                 "de": "Genießen Sie ein heißes polnisches Gericht, um Energie für die Rückfahrt zu tanken.",
                 "hu": "Egyél egy forró lengyel ételt, hogy erőt gyűjts a visszaúthoz.",
                 "ro": "Savurați un fel de mâncare polonez fierbinte pentru energie.",
-                "en": "Enjoy a hot Polish dish to regain energy for the return ride."
+                "en": "Enjoy a hot Polish dish to regain energy for the return ride.",
+                "pl": "Zjedz gorące polskie danie, by odzyskać energię na drogę powrotną."
               }
             },
             {
@@ -1042,7 +1124,8 @@
                 "de": "Nutzen Sie den Museumsbesuch als ausgiebige Aufwärmpause.",
                 "hu": "Használd a múzeumlátogatást egy alapos felmelegedési szünetnek.",
                 "ro": "Folosiți vizita la muzeu ca o pauză lungă de încălzire.",
-                "en": "Use the museum visit as an extended warming break."
+                "en": "Use the museum visit as an extended warming break.",
+                "pl": "Wykorzystaj wizytę w muzeum jako dłuższą przerwę na rozgrzanie."
               }
             },
             {
@@ -1051,7 +1134,8 @@
                 "de": "Der Anstieg hält Sie warm, aber die Abfahrt wird sehr kalt; ziehen Sie sich an.",
                 "hu": "Az emelkedő melegen tart, de a lejtőn nagyon lehűlsz; öltözz fel.",
                 "ro": "Urcarea vă ține cald, dar coborârea va fi foarte rece; îmbrăcați-vă.",
-                "en": "The climb keeps you warm, but the descent will be very cold; layer up."
+                "en": "The climb keeps you warm, but the descent will be very cold; layer up.",
+                "pl": "Wspinaczka rozgrzewa, ale zjazd będzie bardzo zimny; ubierz się warstwowo."
               }
             }
           ],
@@ -1079,6 +1163,12 @@
               "E-bike batteries drain faster in the cold; check your charge level.",
               "Plan your tour to be back before sunset (around 16:00).",
               "Avoid sharp braking on potentially icy forest paths."
+            ],
+            "pl": [
+              "Noś wiatroszczelne rękawice i termiczną czapkę pod kask.",
+              "Baterie w e-bike'ach szybciej tracą energię w niskich temperaturach; sprawdź poziom naładowania.",
+              "Zaplanuj trasę tak, by wrócić przed zachodem słońca (około 16:00).",
+              "Unikaj gwałtownego hamowania na potencjalnie oblodzonych leśnych ścieżkach."
             ]
           }
         }
@@ -1097,7 +1187,8 @@
             "de": "Cluster Start: Parken am Góra Chełmska",
             "hu": "Klaszter kezdete: Parkolás a Góra Chełmska-hegynél",
             "ro": "Început cluster: Parcare la Góra Chełmska",
-            "en": "Cluster Start: Parking at Góra Chełmska"
+            "en": "Cluster Start: Parking at Góra Chełmska",
+            "pl": "Start skupiny: parking przy Górze Chełmskiej"
           },
           "coords": [
             16.23,
@@ -1113,7 +1204,8 @@
             "de": "Beginnen Sie mit einer tollen Aussicht über die Region. Der Parkplatz ist ein guter Ausgangspunkt.",
             "hu": "Kezdje a napot egy remek kilátással a régióra. A parkoló jó kiindulópont.",
             "ro": "Începeți cu o priveliște minunată asupra regiunii. Parcarea este un bun punct de plecare.",
-            "en": "Start with a great view over the region. The car park is a good starting point."
+            "en": "Start with a great view over the region. The car park is a good starting point.",
+            "pl": "Rozpocznij z pięknym widokiem na region. Parking to dobre miejsce startowe."
           }
         },
         {
@@ -1121,7 +1213,8 @@
             "de": "Aussichtsturm auf dem Góra Chełmska",
             "hu": "Kilátótorony a Góra Chełmska-hegyen",
             "ro": "Turnul de observație de pe Góra Chełmska",
-            "en": "Observation Tower on Góra Chełmska"
+            "en": "Observation Tower on Góra Chełmska",
+            "pl": "Wieża widokowa na Górze Chełmskiej"
           },
           "coords": [
             16.231,
@@ -1137,7 +1230,8 @@
             "de": "Ein kurzer Spaziergang vom Parkplatz zum Turm für eine noch bessere Panoramaaussicht.",
             "hu": "Egy rövid séta a parkolótól a toronyig a még jobb panorámáért.",
             "ro": "O scurtă plimbare de la parcare la turn pentru o panoramă și mai bună.",
-            "en": "A short walk from the car park to the tower for an even better panoramic view."
+            "en": "A short walk from the car park to the tower for an even better panoramic view.",
+            "pl": "Krótki spacer z parkingu do wieży po jeszcze lepszy panoramiczny widok."
           }
         },
         {
@@ -1145,7 +1239,8 @@
             "de": "Cluster Zentrum: Parken und Spaziergang zur Kathedrale",
             "hu": "Belvárosi klaszter: Parkolás és séta a Katedrálishoz",
             "ro": "Cluster centru: Parcare și plimbare la Catedrală",
-            "en": "City Center Cluster: Park and walk to the Cathedral"
+            "en": "City Center Cluster: Park and walk to the Cathedral",
+            "pl": "Klastr miejski: zaparkuj i przespaceruj się do Katedry"
           },
           "coords": [
             16.175,
@@ -1161,7 +1256,8 @@
             "de": "Parken Sie in der Nähe des Zentrums und beginnen Sie Ihren Stadtrundgang bei diesem gotischen Meisterwerk.",
             "hu": "Parkoljon a központ közelében, és kezdje városnéző sétáját ennél a gótikus remekműnél.",
             "ro": "Parcați lângă centru și începeți turul orașului la această capodoperă gotică.",
-            "en": "Park near the center and start your city walk at this Gothic masterpiece."
+            "en": "Park near the center and start your city walk at this Gothic masterpiece.",
+            "pl": "Zaplanuj parkowanie blisko centrum i rozpocznij spacer po tym gotyckim majstersztyku."
           }
         },
         {
@@ -1169,7 +1265,8 @@
             "de": "Rathaus und Marktplatz",
             "hu": "Városháza és piactér",
             "ro": "Primăria și Piața Centrală",
-            "en": "Town Hall and Market Square"
+            "en": "Town Hall and Market Square",
+            "pl": "Ratusz i Rynek"
           },
           "coords": [
             16.1775,
@@ -1185,7 +1282,8 @@
             "de": "Schlendern Sie zum Hauptplatz für das Mittagessen. Hier pulsiert das Leben der Stadt.",
             "hu": "Sétáljon át a főtérre ebédelni. Itt pulzál a város élete.",
             "ro": "Plimbați-vă până în piața principală pentru prânz. Aici pulsează viața orașului.",
-            "en": "Stroll to the main square for lunch. This is where the city's life pulsates."
+            "en": "Stroll to the main square for lunch. This is where the city's life pulsates.",
+            "pl": "Przejdź się do głównego placu na obiad. Tu tętni życie miasta."
           }
         },
         {
@@ -1193,7 +1291,8 @@
             "de": "Cluster See: Fahrt zum Jamno-See",
             "hu": "Tó klaszter: Utazás a Jamno-tóhoz",
             "ro": "Cluster Lac: Drumul spre Lacul Jamno",
-            "en": "Lake Cluster: Drive to Jamno Lake"
+            "en": "Lake Cluster: Drive to Jamno Lake",
+            "pl": "Klastr jeziorny: dojazd nad Jezioro Jamno"
           },
           "coords": [
             16.155,
@@ -1209,7 +1308,8 @@
             "de": "Verbringen Sie den Nachmittag am Wasser. Perfekt für einen langen Spaziergang oder einfach nur zum Entspannen.",
             "hu": "Töltse a délutánt a vízparton. Tökéletes egy hosszú sétához vagy csak pihenéshez.",
             "ro": "Petreceți după-amiaza pe malul apei. Perfect pentru o plimbare lungă sau doar pentru relaxare.",
-            "en": "Spend the afternoon by the water. Perfect for a long walk or just relaxing."
+            "en": "Spend the afternoon by the water. Perfect for a long walk or just relaxing.",
+            "pl": "Spędź popołudnie nad wodą. Idealne na długi spacer lub relaks."
           }
         },
         {
@@ -1217,7 +1317,8 @@
             "de": "Rückkehr ins Zentrum für das Abendessen",
             "hu": "Visszatérés a központba vacsorára",
             "ro": "Întoarcere în centru pentru cină",
-            "en": "Return to Center for Dinner"
+            "en": "Return to Center for Dinner",
+            "pl": "Powrót do centrum na kolację"
           },
           "coords": [
             16.178,
@@ -1233,7 +1334,8 @@
             "de": "Nach einem Tag voller Entdeckungen, genießen Sie ein wohlverdientes Abendessen in der Altstadt.",
             "hu": "Egy felfedezésekkel teli nap után élvezze a jól megérdemelt vacsorát az óvárosban.",
             "ro": "După o zi plină de descoperiri, bucurați-vă de o cină binemeritată în orașul vechi.",
-            "en": "After a day of discoveries, enjoy a well-deserved dinner in the old town."
+            "en": "After a day of discoveries, enjoy a well-deserved dinner in the old town.",
+            "pl": "Po dniu pełnym odkryć zasłużona kolacja w starym mieście."
           }
         }
       ],
@@ -1241,7 +1343,8 @@
         "de": "Ihr Tag beginnt mit einer Fahrt zum Góra Chełmska, um die Panoramaaussicht zu genießen. Am Vormittag fahren Sie ins Stadtzentrum, parken Ihr Auto und erkunden zu Fuß das gotische Herz von Koszalin, einschließlich der Kathedrale und des Marktplatzes, wo Sie zu Mittag essen. Der Nachmittag ist für einen Ausflug zum weitläufigen Jamno-See reserviert. Genießen Sie die Natur und die frische Luft bei einem Spaziergang am Ufer. Zum Abschluss des Tages kehren Sie ins Zentrum zurück, um in einem der traditionellen Restaurants zu Abend zu essen.",
         "hu": "A nap a Góra Chełmska-hegyre való autózással kezdődik, hogy élvezze a panorámát. Délelőtt a városközpontba hajt, leparkol, és gyalog fedezi fel Koszalin gótikus szívét, beleértve a katedrálist és a piacteret, ahol megebédel. A délután egy kirándulásra van fenntartva a tágas Jamno-tóhoz. Élvezze a természetet és a friss levegőt egy tóparti sétával. A nap végén térjen vissza a központba, hogy megvacsorázzon az egyik hagyományos étteremben.",
         "ro": "Ziua începe cu o călătorie cu mașina spre Góra Chełmska pentru a vă bucura de priveliștea panoramică. Dimineața, conduceți spre centrul orașului, parcați mașina și explorați pe jos inima gotică a Koszalinului, inclusiv catedrala și piața, unde veți lua prânzul. După-amiaza este rezervată unei excursii la vastul Lac Jamno. Bucurați-vă de natură și de aerul curat cu o plimbare pe mal. La sfârșitul zilei, reveniți în centru pentru a cina la unul dintre restaurantele tradiționale.",
-        "en": "Your day begins with a drive to Góra Chełmska to enjoy the panoramic view. In the morning, you'll drive to the city center, park your car, and explore Koszalin's Gothic heart on foot, including the cathedral and the market square where you'll have lunch. The afternoon is reserved for an excursion to the expansive Jamno Lake. Enjoy nature and the fresh air with a walk along the shore. At the end of the day, return to the center to have dinner at one of the traditional restaurants."
+        "en": "Your day begins with a drive to Góra Chełmska to enjoy the panoramic view. In the morning, you'll drive to the city center, park your car, and explore Koszalin's Gothic heart on foot, including the cathedral and the market square where you'll have lunch. The afternoon is reserved for an excursion to the expansive Jamno Lake. Enjoy nature and the fresh air with a walk along the shore. At the end of the day, return to the center to have dinner at one of the traditional restaurants.",
+        "pl": "Twój dzień zaczyna się od dojazdu na Górę Chełmską, by podziwiać panoramę. Rano pojedziesz do centrum, zaparkujesz i pieszo zwiedzisz gotyckie serce Koszalina, w tym katedrę i rynek, gdzie zjesz obiad. Popołudnie zarezerwowane jest na wyprawę nad rozległe Jezioro Jamno. Ciesz się naturą i świeżym powietrzem podczas spaceru brzegiem. Pod koniec dnia wróć do centrum na kolację w jednej z tradycyjnych restauracji."
       },
       "gastro_picks": {
         "de": [
@@ -1437,6 +1540,12 @@
           "A GPS is essential for navigating between the different clusters.",
           "Plan for extra time for traffic, especially during peak hours.",
           "The car gives you the flexibility to comfortably reach more distant places like Jamno Lake."
+        ],
+        "pl": [
+          "Sprawdź opłaty parkingowe w centrum; parkowanie na obrzeżach często jest tańsze.",
+          "GPS jest niezbędny do nawigacji między poszczególnymi klastrami.",
+          "Planuj dodatkowy czas na korki, zwłaszcza w godzinach szczytu.",
+          "Samochód daje elastyczność, by wygodnie dotrzeć do bardziej odległych miejsc, takich jak jezioro Jamno."
         ]
       },
       "variants": {
@@ -1445,7 +1554,8 @@
             "de": "An einem Regentag in Koszalin bietet das Auto den besten Komfort. Beginnen Sie am Gollenberg, wo der Wald im Regen mystisch wirkt. Das Stadtzentrum erreichen Sie trocken, um Kathedrale und Marktplatz zu besuchen. Eine Fahrt zum Jamno-See bietet dramatische Ausblicke auf das Wasser, bevor der Tag bei einem gemütlichen Abendessen im Stadtzentrum endet.",
             "hu": "Egy esős koszalini napon az autó nyújtja a legnagyobb kényelmet. Kezdj a Chełmska-hegyen, ahol az erdő misztikus az esőben. A központot szárazon érheted el a Székesegyházhoz. A Jamno-tóhoz vezető út drámai kilátást kínál a vízre, majd a nap egy kellemes belvárosi vacsorával zárul.",
             "ro": "Într-o zi ploioasă în Koszalin, mașina oferă cel mai bun confort. Începeți la dealul Chełmska, unde pădurea pare mistică. Ajungeți uscat în centru pentru a vizita Catedrala. O plimbare la lacul Jamno oferă vederi dramatice, înainte ca ziua să se încheie cu o cină în centru.",
-            "en": "On a rainy day in Koszalin, the car provides maximum comfort. Start at Chełmska Hill, where the forest feels mystical in the rain. Reach the city center dry to visit the Cathedral and Market Square. A drive to Lake Jamno offers dramatic water views before finishing with a cozy dinner."
+            "en": "On a rainy day in Koszalin, the car provides maximum comfort. Start at Chełmska Hill, where the forest feels mystical in the rain. Reach the city center dry to visit the Cathedral and Market Square. A drive to Lake Jamno offers dramatic water views before finishing with a cozy dinner.",
+            "pl": "W deszczowy dzień w Koszalinie samochód zapewnia maksymalny komfort. Zacznij na Wzgórzu Chełmskim, gdzie las w deszczu jest tajemniczy. Dojedź suchą drogą do centrum, by zwiedzić katedrę i Rynek. Przejazd nad jezioro Jamno oferuje dramatyczne widoki na wodę, a na koniec zjedz przytulną kolację."
           },
           "stops": [
             {
@@ -1454,7 +1564,8 @@
                 "de": "Der Parkplatz ist nah am Gipfel, so dass Sie nur kurz im Regen laufen müssen.",
                 "hu": "A parkoló közel van a csúcshoz, így csak keveset kell gyalogolni az esőben.",
                 "ro": "Parcarea este aproape de vârf, reducând mersul prin ploaie.",
-                "en": "The parking is close to the summit, minimizing your walk in the rain."
+                "en": "The parking is close to the summit, minimizing your walk in the rain.",
+                "pl": "Parking jest blisko szczytu, co minimalizuje spacer w deszczu."
               }
             },
             {
@@ -1463,7 +1574,8 @@
                 "de": "Von oben sieht man die Regenfronten über der Ostsee heranziehen.",
                 "hu": "Fentről láthatod a tenger felől érkező esőfelhőket.",
                 "ro": "De sus puteți vedea fronturile de ploaie venind dinspre Marea Baltică.",
-                "en": "From the top, you can see the rain fronts approaching from the Baltic Sea."
+                "en": "From the top, you can see the rain fronts approaching from the Baltic Sea.",
+                "pl": "Ze szczytu widać fronty deszczu nadciągające znad Morza Bałtyckiego."
               }
             },
             {
@@ -1472,7 +1584,8 @@
                 "de": "Nutzen Sie ein Parkhaus in der Nähe, um den Fußweg im Regen kurz zu halten.",
                 "hu": "Használj közeli parkolóházat, hogy rövid legyen a séta az esőben.",
                 "ro": "Folosiți o parcare apropiată pentru a scurta mersul prin ploaie.",
-                "en": "Use a nearby parking garage to keep your walk in the rain short."
+                "en": "Use a nearby parking garage to keep your walk in the rain short.",
+                "pl": "Skorzystaj z pobliskiego parkingu wielopoziomowego, by skrócić spacer w deszczu."
               }
             },
             {
@@ -1481,7 +1594,8 @@
                 "de": "Kurzer Fotostopp am Rathaus; genießen Sie den Anblick aus dem trockenen Auto.",
                 "hu": "Rövid fotómegálló; élvezd a látványt a száraz autóból.",
                 "ro": "Scurtă oprire foto; bucurați-vă de vedere din mașina uscată.",
-                "en": "Quick photo stop; enjoy the view from the dry comfort of your car."
+                "en": "Quick photo stop; enjoy the view from the dry comfort of your car.",
+                "pl": "Krótki postój na zdjęcie; podziwiaj widok z suchego wnętrza samochodu."
               }
             },
             {
@@ -1490,7 +1604,8 @@
                 "de": "Parken Sie direkt am Ufer, um den Blick auf den stürmischen See zu genießen.",
                 "hu": "Parkolj közvetlenül a parton, hogy élvezd a viharos tó látványát.",
                 "ro": "Parcați chiar pe mal pentru a vedea lacul învolburat.",
-                "en": "Park right by the shore to enjoy the view of the stormy lake."
+                "en": "Park right by the shore to enjoy the view of the stormy lake.",
+                "pl": "Zaparkuj tuż przy brzegu, by cieszyć się widokiem burzliwego jeziora."
               }
             },
             {
@@ -1499,7 +1614,8 @@
                 "de": "Wählen Sie ein Restaurant mit nahem Parkplatz für einen trockenen Abend.",
                 "hu": "Válassz éttermet közeli parkolóval a száraz este érdekében.",
                 "ro": "Alegeți un restaurant cu parcare aproape pentru o seară uscată.",
-                "en": "Choose a restaurant with nearby parking for a dry evening."
+                "en": "Choose a restaurant with nearby parking for a dry evening.",
+                "pl": "Wybierz restaurację z pobliskim parkingiem na suchy wieczór."
               }
             }
           ],
@@ -1527,6 +1643,12 @@
               "Use the driving time between stops to warm up inside the car.",
               "Avoid deep puddles on the roadside near Lake Jamno.",
               "A sturdy umbrella in the trunk is essential for the walks to/from the car."
+            ],
+            "pl": [
+              "Sprawdź wycieraczki — gwałtowne ulewy są częste przy wybrzeżu.",
+              "Wykorzystaj czas spędzony za kierownicą między przystankami, by się rozgrzać w samochodzie.",
+              "Unikaj głębokich kałuż przy poboczu w okolicach jeziora Jamno.",
+              "Solidna parasolka w bagażniku jest niezbędna na spacery do i od samochodu."
             ]
           }
         },
@@ -1535,7 +1657,8 @@
             "de": "Koszalin mit dem Auto im Winter ist die bequemste Art, die Highlights zu sehen. Starten Sie am frostigen Gollenberg mit Panoramablick über die Winterlandschaft. Im Stadtzentrum erwarten Sie festliche Lichter und die warme Kathedrale. Die Fahrt zum Jamno-See zeigt die weite, klare Winterstimmung an der Küste, bevor Sie den Tag in der beheizten Gemütlichkeit des Zentrums abschließen.",
             "hu": "A téli Koszalin felfedezése autóval a legkényelmesebb módja a látnivalók megtekintésének. Kezdj a fagyos Chełmska-hegyen, élvezve a téli táj panorámáját. A központban ünnepi fények és a meleg Székesegyház vár. A Jamno-tóhoz vezető út tiszta téli hangulatot áraszt, majd a napot a belváros melegében zárhatod.",
             "ro": "Explorarea orașului Koszalin cu mașina iarna este cea mai confortabilă metodă. Începeți la dealul Chełmska înghețat, cu o panoramă de iarnă. În centru vă așteaptă lumini festive și Catedrala primitoare. Drumul spre lacul Jamno arată atmosfera clară de iarnă, înainte de a încheia ziua în căldura centrului.",
-            "en": "Exploring Koszalin by car in winter is the most comfortable way to see the highlights. Start at the frosty Chełmska Hill with a panoramic winter view. In the center, festive lights and the warm Cathedral await. The drive to Lake Jamno shows the clear winter mood on the coast before finishing in the warm center."
+            "en": "Exploring Koszalin by car in winter is the most comfortable way to see the highlights. Start at the frosty Chełmska Hill with a panoramic winter view. In the center, festive lights and the warm Cathedral await. The drive to Lake Jamno shows the clear winter mood on the coast before finishing in the warm center.",
+            "pl": "Zwiedzanie Koszalina samochodem zimą to najwygodniejszy sposób na zobaczenie najważniejszych atrakcji. Zacznij od mroźnego Wzgórza Chełmskiego z panoramicznym zimowym widokiem. W centrum czekają świąteczne iluminacje i ciepła katedra. Przejazd nad jezioro Jamno ukaże chłodny nadmorski nastrój, a na koniec wróć do przytulnego centrum."
           },
           "stops": [
             {
@@ -1544,7 +1667,8 @@
                 "de": "Achten Sie auf Glätte auf der Auffahrt zum Bergparkplatz.",
                 "hu": "Vigyázz a csúszós szakaszokra a hegyi parkolóhoz vezető úton.",
                 "ro": "Atenție la porțiunile alunecoase pe drumul spre parcarea de pe deal.",
-                "en": "Watch out for slippery patches on the road to the hill parking."
+                "en": "Watch out for slippery patches on the road to the hill parking.",
+                "pl": "Uważaj na śliskie odcinki drogi prowadzącej do parkingu na wzgórzu."
               }
             },
             {
@@ -1553,7 +1677,8 @@
                 "de": "Bei klarer Winterluft reicht der Blick oft weit über die Ostsee hinaus.",
                 "hu": "A tiszta téli levegőben a kilátás gyakran messze túlnyúlik a tengeren.",
                 "ro": "În aerul clar de iarnă, vederea se întinde adesea mult peste mare.",
-                "en": "In the clear winter air, the view often extends far across the Baltic Sea."
+                "en": "In the clear winter air, the view often extends far across the Baltic Sea.",
+                "pl": "W czystym zimowym powietrzu widok często sięga daleko przez Morze Bałtyckie."
               }
             },
             {
@@ -1562,7 +1687,8 @@
                 "de": "Zentrale Parkplätze ermöglichen kurze Wege in die warme Kirche.",
                 "hu": "A központi parkolók rövid sétát tesznek lehetővé a meleg templomig.",
                 "ro": "Parcările centrale permit un drum scurt până în biserica încălzită.",
-                "en": "Central parking spots allow for a short walk to the warm church."
+                "en": "Central parking spots allow for a short walk to the warm church.",
+                "pl": "Centralne miejsca parkingowe pozwalają na krótki spacer do ciepłego kościoła."
               }
             },
             {
@@ -1571,7 +1697,8 @@
                 "de": "Die Winterbeleuchtung macht den Marktplatz am Nachmittag besonders sehenswert.",
                 "hu": "A téli kivilágítás délután teszi igazán látványossá a Főteret.",
                 "ro": "Iluminatul de iarnă face piața deosebit de frumoasă după-amiaza.",
-                "en": "The winter lighting makes the Market Square especially worth seeing in the afternoon."
+                "en": "The winter lighting makes the Market Square especially worth seeing in the afternoon.",
+                "pl": "Zimowe oświetlenie sprawia, że Rynek jest szczególnie wart zobaczenia po południu."
               }
             },
             {
@@ -1580,7 +1707,8 @@
                 "de": "Genießen Sie die weite, oft gefrorene Fläche des Sees vom warmen Auto aus.",
                 "hu": "Élvezd a tó hatalmas, gyakran befagyott felszínét a meleg autóból.",
                 "ro": "Admirați suprafața vastă, adesea înghețată, a lacului din mașină.",
-                "en": "Enjoy the vast, often frozen surface of the lake from your warm car."
+                "en": "Enjoy the vast, often frozen surface of the lake from your warm car.",
+                "pl": "Podziwiaj rozległą, często zamarzniętą taflę jeziora z ciepłego samochodu."
               }
             },
             {
@@ -1589,7 +1717,8 @@
                 "de": "Finden Sie einen Parkplatz direkt vor Ihrem gewählten Restaurant.",
                 "hu": "Keress parkolót közvetlenül a választott étterem előtt.",
                 "ro": "Găsiți un loc de parcare chiar în fața restaurantului ales.",
-                "en": "Try to find a parking spot right in front of your chosen restaurant."
+                "en": "Try to find a parking spot right in front of your chosen restaurant.",
+                "pl": "Spróbuj znaleźć miejsce parkingowe tuż przed wybraną restauracją."
               }
             }
           ],
@@ -1617,6 +1746,12 @@
               "Keep antifreeze windshield fluid and an ice scraper in your car.",
               "The hill road to Chełmska can be challenging during snowfall.",
               "Use the seat heating to warm up between short outdoor walks."
+            ],
+            "pl": [
+              "Opony zimowe są obowiązkowe z powodu nadmorskiego lodu w tym rejonie.",
+              "Miej w samochodzie płyn do spryskiwaczy odporny na mróz i skrobaczkę do lodu.",
+              "Droga na Wzgórze Chełmskie może być wymagająca podczas opadów śniegu.",
+              "Używaj podgrzewania siedzeń, by się rozgrzać między krótkimi spacerami na zewnątrz."
             ]
           }
         }
@@ -1635,7 +1770,8 @@
             "de": "Cluster Zentrum: Rathaus",
             "hu": "Belvárosi klaszter: Városháza",
             "ro": "Cluster Centru: Primăria",
-            "en": "Center Cluster: Town Hall"
+            "en": "Center Cluster: Town Hall",
+            "pl": "Klaster centrum: Ratusz"
           },
           "coords": [
             16.1775,
@@ -1651,7 +1787,8 @@
             "de": "Nehmen Sie einen Bus zum Hauptplatz, um Ihre Erkundung zu beginnen.",
             "hu": "Menjen busszal a főtérre, hogy elkezdje a felfedezést.",
             "ro": "Luați un autobuz spre piața principală pentru a începe explorarea.",
-            "en": "Take a bus to the main square to start your exploration."
+            "en": "Take a bus to the main square to start your exploration.",
+            "pl": "Do głównego rynku dojedź autobusem, by rozpocząć zwiedzanie."
           }
         },
         {
@@ -1659,7 +1796,8 @@
             "de": "Kathedrale der Unbefleckten Empfängnis",
             "hu": "Szeplőtelen Fogantatás Katedrális",
             "ro": "Catedrala Neprihănitei Zămisliri",
-            "en": "Cathedral of the Immaculate Conception"
+            "en": "Cathedral of the Immaculate Conception",
+            "pl": "Katedra Niepokalanego Poczęcia"
           },
           "coords": [
             16.175,
@@ -1675,7 +1813,8 @@
             "de": "Ein kurzer Spaziergang vom Rathausplatz. Die Kathedrale ist nicht zu übersehen.",
             "hu": "Egy rövid séta a Városház tértől. A katedrálist nem lehet eltéveszteni.",
             "ro": "O scurtă plimbare de la Piața Primăriei. Catedrala este de neratat.",
-            "en": "A short walk from the Town Hall square. The cathedral is unmissable."
+            "en": "A short walk from the Town Hall square. The cathedral is unmissable.",
+            "pl": "Krótki spacer od Rynku. Katedry nie sposób przegapić."
           }
         },
         {
@@ -1683,7 +1822,8 @@
             "de": "Cluster Park: Bus zum Park der Pommerschen Herzöge",
             "hu": "Park klaszter: Busszal a Pomerániai Hercegek Parkjába",
             "ro": "Cluster Parc: Autobuz spre Parcul Ducilor Pomeranieni",
-            "en": "Park Cluster: Bus to Pomeranian Dukes' Park"
+            "en": "Park Cluster: Bus to Pomeranian Dukes' Park",
+            "pl": "Klaster parkingowy: Autobus do Parku Książąt Pomorskich"
           },
           "coords": [
             16.1755,
@@ -1699,7 +1839,8 @@
             "de": "Nehmen Sie einen Bus vom Zentrum zum Park. Eine gute Gelegenheit für eine Mittagspause im Grünen.",
             "hu": "Menjen busszal a központból a parkba. Jó lehetőség egy ebédszünetre a zöldben.",
             "ro": "Luați un autobuz din centru spre parc. O bună oportunitate pentru o pauză de prânz în natură.",
-            "en": "Take a bus from the center to the park. A good opportunity for a lunch break in the green."
+            "en": "Take a bus from the center to the park. A good opportunity for a lunch break in the green.",
+            "pl": "Z centrum do parku dojedziesz autobusem. Dobra okazja na przerwę na lunch w zieleni."
           }
         },
         {
@@ -1707,7 +1848,8 @@
             "de": "Amphitheater",
             "hu": "Amfiteátrum",
             "ro": "Amfiteatrul",
-            "en": "Amphitheater"
+            "en": "Amphitheater",
+            "pl": "Amfiteatr"
           },
           "coords": [
             16.1701,
@@ -1723,7 +1865,8 @@
             "de": "Vom Park aus ist es nur ein kurzer Spaziergang zu diesem architektonischen Highlight.",
             "hu": "A parkból csak egy rövid séta ez az építészeti remekmű.",
             "ro": "Din parc, este doar o scurtă plimbare până la acest punct de atracție arhitectural.",
-            "en": "From the park, it's just a short walk to this architectural highlight."
+            "en": "From the park, it's just a short walk to this architectural highlight.",
+            "pl": "Z parku to tylko krótki spacer do tego architektonicznego punktu.</k0031>"
           }
         },
         {
@@ -1731,7 +1874,8 @@
             "de": "Cluster Museum: Bus zum Museum in Koszalin",
             "hu": "Múzeum klaszter: Busszal a Koszalin Múzeumba",
             "ro": "Cluster Muzeu: Autobuz spre Muzeul din Koszalin",
-            "en": "Museum Cluster: Bus to the Museum in Koszalin"
+            "en": "Museum Cluster: Bus to the Museum in Koszalin",
+            "pl": "Klaster muzeów: Autobus do Muzeum w Koszalinie"
           },
           "coords": [
             16.1822,
@@ -1747,7 +1891,8 @@
             "de": "Beenden Sie Ihren Tag mit einem tiefen Einblick in die lokale Geschichte und Kultur.",
             "hu": "Zárja a napot a helyi történelem és kultúra mélyebb megismerésével.",
             "ro": "Încheiați ziua cu o incursiune profundă în istoria și cultura locală.",
-            "en": "End your day with a deep dive into local history and culture."
+            "en": "End your day with a deep dive into local history and culture.",
+            "pl": "Zakończ dzień głębszym zanurzeniem w lokalnej historii i kulturze."
           }
         }
       ],
@@ -1755,7 +1900,8 @@
         "de": "Beginnen Sie Ihren Tag mit einer Busfahrt ins Herz von Koszalin. Erkunden Sie den zentralen Platz und die Kathedrale zu Fuß. Am Mittag bringt Sie ein weiterer Bus in den Norden der Stadt zum Park der Pommerschen Herzöge, wo Sie spazieren und das nahegelegene Amphitheater bewundern können. Der Nachmittag ist einem Besuch im Stadtmuseum gewidmet, das leicht mit dem Bus zu erreichen ist und einen Einblick in die pommersche Seele bietet. Ein Tag voller bequemer Fahrten und kurzer, angenehmer Spaziergänge.",
         "hu": "Kezdje a napot egy buszúttal Koszalin szívébe. Fedezze fel gyalog a központi teret és a katedrálist. Délben egy másik busz elviszi a város északi részébe, a Pomerániai Hercegek Parkjába, ahol sétálhat és megcsodálhatja a közeli amfiteátrumot. A délután a városi múzeum meglátogatásával telik, amely könnyen elérhető busszal, és betekintést nyújt a pomerániai lélekbe. Egy nap tele kényelmes utazásokkal és rövid, kellemes sétákkal.",
         "ro": "Începeți ziua cu o călătorie cu autobuzul în inima orașului Koszalin. Explorați piața centrală și catedrala pe jos. La prânz, un alt autobuz vă va duce în nordul orașului, la Parcul Ducilor Pomeranieni, unde vă puteți plimba și admira amfiteatrul din apropiere. După-amiaza este dedicată vizitării muzeului orașului, ușor accesibil cu autobuzul, care oferă o perspectivă asupra sufletului pomeranian. O zi plină de călătorii convenabile și plimbări scurte și plăcute.",
-        "en": "Start your day with a bus ride into the heart of Koszalin. Explore the central square and the cathedral on foot. At midday, another bus will take you to the north of the city to the Pomeranian Dukes' Park, where you can walk and admire the nearby amphitheater. The afternoon is dedicated to visiting the city museum, easily reachable by bus, which offers insight into the Pomeranian soul. A day of convenient rides and short, pleasant walks."
+        "en": "Start your day with a bus ride into the heart of Koszalin. Explore the central square and the cathedral on foot. At midday, another bus will take you to the north of the city to the Pomeranian Dukes' Park, where you can walk and admire the nearby amphitheater. The afternoon is dedicated to visiting the city museum, easily reachable by bus, which offers insight into the Pomeranian soul. A day of convenient rides and short, pleasant walks.",
+        "pl": "Rozpocznij dzień przejazdem autobusem do serca Koszalina. Na piechotę zwiedź centralny rynek i katedrę. W południe kolejny autobus zabierze cię na północ miasta do Parku Książąt Pomorskich, gdzie możesz pospacerować i podziwiać pobliski amfiteatr. Popołudnie poświęć na wizytę w miejskim muzeum, łatwo dostępnym autobusem, które daje wgląd w pomorską duszę. Dzień pełen wygodnych przejazdów i krótkich, przyjemnych spacerów."
       },
       "gastro_picks": {
         "de": [
@@ -1951,6 +2097,12 @@
           "Download a public transport app to track real-time schedules and routes.",
           "Be aware that buses might run less frequently on weekends and in the evening.",
           "Keep your ticket handy as inspections are common."
+        ],
+        "pl": [
+          "Kup bilet dobowy na transport publiczny — często to najtańsza opcja.",
+          "Pobierz aplikację transportu publicznego, by śledzić rozkłady i trasy w czasie rzeczywistym.",
+          "Pamiętaj, że autobusy mogą kursować rzadziej w weekendy i wieczorem.",
+          "Miej bilet pod ręką, bo kontrole są częste."
         ]
       },
       "variants": {
@@ -1959,7 +2111,8 @@
             "de": "Mit dem Bus durch das regnerische Koszalin zu fahren, ist eine trockene und praktische Wahl. Starten Sie im Zentrum am Rathaus und nutzen Sie die kurzen Verbindungen zur Kathedrale. Der Bus bringt Sie bequem zum Park und zum Amphitheater, bevor Sie den Nachmittag im Museum verbringen. Den Abend beschließen Sie nach einer kurzen Busfahrt bei einem warmen Essen im Stadtzentrum.",
             "hu": "Busszal közlekedni az esős Koszalinban száraz és praktikus választás. Kezdj a központban a Városházánál, és használd a rövid járatokat a Székesegyházhoz. A busz kényelmesen elvisz a parkhoz és az amfiteátrumhoz, mielőtt a délutánt a Múzeumban töltenéd. Az estét egy rövid buszozás után a belváros melegében zárhatod.",
             "ro": "Călătoria cu autobuzul prin Koszalinul plouat este o alegere practică și uscată. Începeți în centru la Primărie și folosiți conexiunile spre Catedrală. Autobuzul vă duce confortabil la parc și amfiteatru, înainte de a petrece după-amiaza la muzeu. Încheiați seara în centrul primitor.",
-            "en": "Taking the bus through rainy Koszalin is a dry and practical choice. Start at the Town Hall and use short connections to reach the Cathedral. The bus takes you comfortably to the park and amphitheater before spending the afternoon in the Museum. End the day with a warm meal in the center."
+            "en": "Taking the bus through rainy Koszalin is a dry and practical choice. Start at the Town Hall and use short connections to reach the Cathedral. The bus takes you comfortably to the park and amphitheater before spending the afternoon in the Museum. End the day with a warm meal in the center.",
+            "pl": "Jazda autobusem po deszczowym Koszalinie to suchy i praktyczny wybór. Zacznij przy Ratuszu i krótkimi przesiadkami dotrzyj do katedry. Autobus zabierze cię wygodnie do parku i amfiteatru, zanim spędzisz popołudnie w muzeum. Zakończ dzień ciepłym posiłkiem w centrum."
           },
           "stops": [
             {
@@ -1968,7 +2121,8 @@
                 "de": "Warten Sie in der überdachten Bushaltestelle auf Ihren Anschluss.",
                 "hu": "Várj a fedett buszmegállóban a csatlakozásra.",
                 "ro": "Așteptați în stația de autobuz acoperită pentru conexiune.",
-                "en": "Wait in the covered bus stop for your connection if it rains."
+                "en": "Wait in the covered bus stop for your connection if it rains.",
+                "pl": "Czekaj pod zadaszonym przystankiem na swoją przesiadkę, jeśli pada."
               }
             },
             {
@@ -1977,7 +2131,8 @@
                 "de": "Die Haltestelle liegt direkt nebenan, so dass Sie kaum nass werden.",
                 "hu": "A megálló közvetlenül mellette van, így alig leszel vizes.",
                 "ro": "Stația este chiar lângă, astfel încât abia dacă vă veți uda.",
-                "en": "The bus stop is right next to it, so you'll hardly get wet."
+                "en": "The bus stop is right next to it, so you'll hardly get wet.",
+                "pl": "Przystanek autobusowy jest tuż obok, więc prawie nie zmokniesz."
               }
             },
             {
@@ -1986,7 +2141,8 @@
                 "de": "Nutzen Sie den Bus, um die längeren Gehwege im nassen Park zu überspringen.",
                 "hu": "Használd a buszt, hogy kihagyd a hosszú gyaloglást a vizes parkban.",
                 "ro": "Folosiți autobuzul pentru a evita mersul lung prin parcul ud.",
-                "en": "Use the bus to skip longer walking distances in the wet park."
+                "en": "Use the bus to skip longer walking distances in the wet park.",
+                "pl": "Skorzystaj z autobusu, by ominąć dłuższe spacery po mokrym parku."
               }
             },
             {
@@ -1995,7 +2151,8 @@
                 "de": "Ein kurzer Blick genügt bei Regen; der nächste Bus kommt bald.",
                 "hu": "Esőben elég egy rövid pillantás; a következő busz hamarosan jön.",
                 "ro": "O scurtă privire e suficientă pe ploaie; următorul autobuz vine curând.",
-                "en": "A quick look is enough in the rain; the next bus will arrive shortly."
+                "en": "A quick look is enough in the rain; the next bus will arrive shortly.",
+                "pl": "Krótki rzut oka wystarczy w deszczu; następny autobus przyjedzie wkrótce."
               }
             },
             {
@@ -2004,7 +2161,8 @@
                 "de": "Der Bus hält fast direkt vor dem Museumseingang.",
                 "hu": "A busz szinte közvetlenül a múzeum bejárata előtt áll meg.",
                 "ro": "Autobuzul oprește aproape direct în fața intrării în muzeu.",
-                "en": "The bus stops almost directly in front of the museum entrance."
+                "en": "The bus stops almost directly in front of the museum entrance.",
+                "pl": "Autobus zatrzymuje się niemal bezpośrednio przed wejściem do muzeum."
               }
             }
           ],
@@ -2032,6 +2190,12 @@
               "A day ticket is worth it for flexible commuting between rain showers.",
               "In case of heavy rain, wait in shops near the bus stops.",
               "Keep your ticket ready to board the dry bus quickly."
+            ],
+            "pl": [
+              "Pobierz lokalną aplikację komunikacyjną dla odjazdów autobusów w czasie rzeczywistym.",
+              "Bilet dzienny opłaca się dla elastycznych przejazdów między ulewami.",
+              "W przypadku ulewy poczekaj w sklepach przy przystankach.",
+              "Miej bilet gotowy, by szybko wsiąść do suchego autobusu."
             ]
           }
         },
@@ -2040,7 +2204,8 @@
             "de": "Der Bus ist im Winter in Koszalin ein warmer Rückzugsort zwischen den Sehenswürdigkeiten. Starten Sie am Rathaus unter festlichen Lichtern und fahren Sie zur Kathedrale. Der beheizte Bus bringt Sie zum winterlichen Park und zum Amphitheater, bevor Sie sich im Museum aufwärmen. Beenden Sie den Tag bequem mit einer kurzen Fahrt zurück in das beleuchtete Stadtzentrum.",
             "hu": "A busz télen Koszalinban meleg menedéket nyújt a látnivalók között. Kezdj a Városházánál az ünnepi fények alatt, majd utazz a Székesegyházhoz. A fűtött busz elvisz a téli parkhoz és az amfiteátrumhoz, mielőtt a Múzeumban melegednél fel. Zárd a napot kényelmesen a kivilágított belvárosba való visszautazással.",
             "ro": "Autobuzul este iarna în Koszalin un refugiu călduros între obiective. Începeți la Primărie sub lumini festive și mergeți spre Catedrală. Autobuzul încălzit vă duce la parcul de iarnă și amfiteatru, înainte de a vă încălzi la muzeu. Încheiați ziua confortabil cu o călătorie spre centru.",
-            "en": "The bus in winter Koszalin is a warm retreat between sightseeing spots. Start at the Town Hall under festive lights and head to the Cathedral. The heated bus takes you to the winter park and amphitheater before warming up at the Museum. Finish the day comfortably with a trip back to the center."
+            "en": "The bus in winter Koszalin is a warm retreat between sightseeing spots. Start at the Town Hall under festive lights and head to the Cathedral. The heated bus takes you to the winter park and amphitheater before warming up at the Museum. Finish the day comfortably with a trip back to the center.",
+            "pl": "Autobus w zimowym Koszalinie to ciepła przystań między atrakcjami. Zacznij przy Ratuszu pod świątecznymi światłami i udaj się do katedry. Ogrzewany autobus zabierze cię do zimowego parku i amfiteatru, zanim rozgrzejesz się w muzeum. Zakończ dzień wygodnym powrotem do centrum."
           },
           "stops": [
             {
@@ -2049,7 +2214,8 @@
                 "de": "Die Haltestellen im Zentrum sind im Winter oft gut beleuchtet und sicher.",
                 "hu": "A központi megállók télen jól kivilágítottak és biztonságosak.",
                 "ro": "Stațiile din centru sunt adesea bine iluminate și sigure iarna.",
-                "en": "The central bus stops are often well-lit and safe during winter."
+                "en": "The central bus stops are often well-lit and safe during winter.",
+                "pl": "Centralne przystanki autobusowe są często dobrze oświetlone i bezpieczne zimą."
               }
             },
             {
@@ -2058,7 +2224,8 @@
                 "de": "Die kurze Wartezeit an der Haltestelle minimiert die Kältebelastung.",
                 "hu": "A rövid várakozási idő a megállóban minimalizálja a hideget.",
                 "ro": "Timpul scurt de așteptare în stație minimizează expunerea la frig.",
-                "en": "The short waiting time at the stop minimizes your exposure to the cold."
+                "en": "The short waiting time at the stop minimizes your exposure to the cold.",
+                "pl": "Krótki czas oczekiwania na przystanku minimalizuje narażenie na zimno."
               }
             },
             {
@@ -2067,7 +2234,8 @@
                 "de": "Genießen Sie den Blick auf die frostige Stadt aus dem warmen Bus.",
                 "hu": "Élvezd a kilátást a fagyos városra a meleg buszból.",
                 "ro": "Bucurați-vă de vederea orașului înghețat din autobuzul încălzit.",
-                "en": "Enjoy the view of the frosty city from the warmth of the bus."
+                "en": "Enjoy the view of the frosty city from the warmth of the bus.",
+                "pl": "Podziwiaj widok mroźnego miasta z ciepła autobusu."
               }
             },
             {
@@ -2076,7 +2244,8 @@
                 "de": "Nutzen Sie den Bus, um schnell vom kalten Park ins Museum zu kommen.",
                 "hu": "Használd a buszt, hogy gyorsan átérj a hideg parkból a múzeumba.",
                 "ro": "Folosiți autobuzul pentru a ajunge rapid din parcul rece la muzeu.",
-                "en": "Use the bus to get quickly from the cold park to the museum."
+                "en": "Use the bus to get quickly from the cold park to the museum.",
+                "pl": "Skorzystaj z autobusu, by szybko przejść z zimnego parku do muzeum."
               }
             },
             {
@@ -2085,7 +2254,8 @@
                 "de": "Die Haltestelle ist nah am Museum, ideal bei winterlichem Frost.",
                 "hu": "A megálló közel van a múzeumhoz, ideális téli fagyban.",
                 "ro": "Stația este aproape de muzeu, ideal în caz de ger de iarnă.",
-                "en": "The stop is close to the museum, ideal during winter frost."
+                "en": "The stop is close to the museum, ideal during winter frost.",
+                "pl": "Przystanek jest blisko muzeum, idealnie podczas zimowego mrozu."
               }
             }
           ],
@@ -2113,6 +2283,12 @@
               "Buses are generally well-heated; ideal for warming up your feet.",
               "Use the 'Jakdojade' app for the best route planning in winter.",
               "Wait at well-lit bus stops in the center after darkness falls."
+            ],
+            "pl": [
+              "Sprawdź rozkłady zimowe, bo mogą wystąpić opóźnienia związane z pogodą.",
+              "Autobusy są zwykle dobrze ogrzane; idealne do rozgrzania nóg.",
+              "Użyj aplikacji 'Jakdojade' do najlepszego planowania trasy zimą.",
+              "Po zmroku czekaj na dobrze oświetlonych przystankach w centrum."
             ]
           }
         }

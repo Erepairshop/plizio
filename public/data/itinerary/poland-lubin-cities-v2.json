@@ -21,7 +21,8 @@
             "de": "Rathaus und Marktplatz",
             "hu": "Városháza és Piactér",
             "ro": "Primăria și Piața Centrală",
-            "en": "Town Hall and Market Square"
+            "en": "Town Hall and Market Square",
+            "pl": "Ratusz i Rynek"
           },
           "coords": [
             16.2015,
@@ -37,7 +38,8 @@
             "de": "Beginnen Sie den Tag mit einem Kaffee in einem der Cafés am Platz.",
             "hu": "Indítsa a napot egy kávéval a tér egyik kávézójában!",
             "ro": "Începeți ziua cu o cafea la una dintre cafenelele din piață.",
-            "en": "Start your day with a coffee at one of the square's cafes."
+            "en": "Start your day with a coffee at one of the square's cafes.",
+            "pl": "Zacznij dzień od kawy w jednej z kawiarni na rynku."
           }
         },
         {
@@ -45,7 +47,8 @@
             "de": "Kirche Unserer Lieben Frau von Tschenstochau",
             "hu": "Częstochowai Miasszonyunk-templom",
             "ro": "Biserica Maicii Domnului din Częstochowa",
-            "en": "Church of Our Lady of Częstochowa"
+            "en": "Church of Our Lady of Częstochowa",
+            "pl": "Kościół Matki Boskiej Częstochowskiej"
           },
           "coords": [
             16.2038,
@@ -61,7 +64,8 @@
             "de": "Achten Sie auf die gotischen Details und die beeindruckenden Buntglasfenster.",
             "hu": "Figyelje meg a gótikus részleteket és a lenyűgöző ólomüveg ablakokat!",
             "ro": "Observați detaliile gotice și vitraliile impresionante.",
-            "en": "Pay attention to the Gothic details and the impressive stained-glass windows."
+            "en": "Pay attention to the Gothic details and the impressive stained-glass windows.",
+            "pl": "Zwróć uwagę na gotyckie detale i imponujące witraże."
           }
         },
         {
@@ -69,7 +73,8 @@
             "de": "Historisches Museum",
             "hu": "Történeti Múzeum",
             "ro": "Muzeul de Istorie",
-            "en": "Historical Museum"
+            "en": "Historical Museum",
+            "pl": "Muzeum Historyczne"
           },
           "coords": [
             16.205,
@@ -85,7 +90,8 @@
             "de": "Die Ausstellung zum Kupferbergbau ist ein Muss, um die Region zu verstehen.",
             "hu": "A rézbányászatról szóló kiállítás kötelező a régió megértéséhez.",
             "ro": "Expoziția despre mineritul de cupru este esențială pentru a înțelege regiunea.",
-            "en": "The copper mining exhibition is a must-see to understand the region."
+            "en": "The copper mining exhibition is a must-see to understand the region.",
+            "pl": "Wystawa o wydobyciu miedzi to punkt obowiązkowy, by zrozumieć region."
           }
         },
         {
@@ -93,7 +99,8 @@
             "de": "Glogauer Torturm",
             "hu": "Głogówi-kaputorony",
             "ro": "Turnul Porții Głogów",
-            "en": "Głogów Gate Tower"
+            "en": "Głogów Gate Tower",
+            "pl": "Wieża Bramy Głogowskiej"
           },
           "coords": [
             16.1975,
@@ -109,7 +116,8 @@
             "de": "Der Turm ist ein großartiger Fotospot und ein Überbleibsel der alten Stadtmauern.",
             "hu": "A torony remek fotóhelyszín és a régi városfalak maradványa.",
             "ro": "Turnul este un loc excelent pentru fotografii și o rămășiță a vechilor ziduri ale orașului.",
-            "en": "The tower is a great photo spot and a remnant of the old city walls."
+            "en": "The tower is a great photo spot and a remnant of the old city walls.",
+            "pl": "Wieża to świetne miejsce do zdjęć i pozostałość dawnych murów miejskich."
           }
         },
         {
@@ -117,7 +125,8 @@
             "de": "Denkmal für die Opfer von Lüben 1982",
             "hu": "Az 1982-es lübeni áldozatok emlékműve",
             "ro": "Monumentul Victimelor din Lubin 1982",
-            "en": "Monument to the Victims of Lubin 1982"
+            "en": "Monument to the Victims of Lubin 1982",
+            "pl": "Pomnik Ofiar Lubina 1982"
           },
           "coords": [
             16.208,
@@ -133,7 +142,8 @@
             "de": "Ein Moment der Besinnung an diesem wichtigen Ort der jüngeren polnischen Geschichte.",
             "hu": "Egy pillanatnyi elgondolkodás a lengyel közelmúlt e fontos helyszínén.",
             "ro": "Un moment de reflecție în acest loc important din istoria recentă a Poloniei.",
-            "en": "A moment of reflection at this important site of recent Polish history."
+            "en": "A moment of reflection at this important site of recent Polish history.",
+            "pl": "Chwila zadumy przy tym ważnym miejscu najnowszej historii Polski."
           }
         },
         {
@@ -141,7 +151,8 @@
             "de": "Park Wrocławski",
             "hu": "Wrocławski Park",
             "ro": "Parcul Wrocławski",
-            "en": "Wrocławski Park"
+            "en": "Wrocławski Park",
+            "pl": "Park Wrocławski"
           },
           "coords": [
             16.215,
@@ -157,7 +168,8 @@
             "de": "Ideal für einen entspannten Spaziergang zum Abschluss des Tages.",
             "hu": "Ideális egy pihentető sétához a nap végén.",
             "ro": "Ideal pentru o plimbare relaxantă la sfârșitul zilei.",
-            "en": "Ideal for a relaxing stroll to end the day."
+            "en": "Ideal for a relaxing stroll to end the day.",
+            "pl": "Idealny na relaksujący spacer na zakończenie dnia."
           }
         }
       ],
@@ -165,7 +177,8 @@
         "de": "Ihr Tag in Lüben beginnt am belebten Marktplatz, dem Herzen der Stadt. Von dort aus tauchen Sie in die sakrale Atmosphäre der gotischen Kirche ein. Der Vormittag ist der reichen Geschichte der Stadt im Historischen Museum gewidmet, das die Bedeutung des Kupferbergbaus beleuchtet. Nach dem Mittagessen erkunden Sie die Überreste der alten Stadtbefestigung am Glogauer Torturm. Der Nachmittag wird nachdenklicher mit einem Besuch des Denkmals, das an die tragischen Ereignisse von 1982 erinnert. Schließlich finden Sie Ruhe und Entspannung im weitläufigen Wrocławski-Park, wo Sie den Tag ausklingen lassen.",
         "hu": "A lübeni nap a város szívében, a nyüzsgő Piactéren kezdődik. Innen elmerülhet a gótikus templom szakrális hangulatában. A délelőtt a város gazdag történelmének szentelődik a Történeti Múzeumban, amely a rézbányászat fontosságát mutatja be. Ebéd után felfedezheti a régi városfalak maradványait a Głogówi-kaputoronynál. A délután elgondolkodtatóbbá válik az 1982-es tragikus eseményekre emlékeztető emlékmű meglátogatásával. Végül nyugalmat és kikapcsolódást talál a tágas Wrocławski Parkban, ahol a napot zárhatja.",
         "ro": "Ziua dumneavoastră în Lubin începe în Piața Centrală plină de viață, inima orașului. De acolo, vă scufundați în atmosfera sacră a bisericii gotice. Dimineața este dedicată istoriei bogate a orașului la Muzeul de Istorie, care evidențiază importanța mineritului de cupru. După prânz, explorați rămășițele vechilor fortificații la Turnul Porții Głogów. După-amiaza devine mai reflexivă cu o vizită la monumentul care comemorează evenimentele tragice din 1982. În cele din urmă, găsiți pace și relaxare în vastul Parc Wrocławski, unde puteți încheia ziua.",
-        "en": "Your day in Lubin begins at the bustling Market Square, the heart of the city. From there, you'll dive into the sacred atmosphere of the Gothic church. The morning is dedicated to the city's rich history at the Historical Museum, highlighting the importance of copper mining. After lunch, you'll explore the remnants of the old fortifications at the Głogów Gate Tower. The afternoon becomes more reflective with a visit to the monument commemorating the tragic events of 1982. Finally, you'll find peace and relaxation in the spacious Wrocławski Park to round off your day."
+        "en": "Your day in Lubin begins at the bustling Market Square, the heart of the city. From there, you'll dive into the sacred atmosphere of the Gothic church. The morning is dedicated to the city's rich history at the Historical Museum, highlighting the importance of copper mining. After lunch, you'll explore the remnants of the old fortifications at the Głogów Gate Tower. The afternoon becomes more reflective with a visit to the monument commemorating the tragic events of 1982. Finally, you'll find peace and relaxation in the spacious Wrocławski Park to round off your day.",
+        "pl": "Twój dzień w Lubinie zaczyna się na tętniącym życiem Rynku, sercu miasta. Stamtąd zanurzysz się w sakralnej atmosferze gotyckiego kościoła. Poranek poświęcony jest bogatej historii miasta w Muzeum Historycznym, podkreślając znaczenie górnictwa miedzi. Po obiedzie odkryjesz pozostałości dawnych fortyfikacji przy Baszcie Bramy Głogowskiej. Popołudnie stanie się bardziej refleksyjne podczas wizyty przy pomniku upamiętniającym tragiczne wydarzenia z 1982 roku. Na koniec dnia znajdziesz spokój i relaks w rozległym Parku Wrocławskim, by zamknąć dzień."
       },
       "gastro_picks": {
         "de": [
@@ -361,6 +374,12 @@
           "Most central attractions are easily within walking distance.",
           "Plan for a lunch break at one of the restaurants around the Market Square.",
           "Bring a reusable water bottle; there are public fountains."
+        ],
+        "pl": [
+          "Noś wygodne buty, bo bruk na starówce może być nierówny.",
+          "Większość centralnych atrakcji jest łatwo dostępna pieszo.",
+          "Zaplanuj przerwę na obiad w jednej z restauracji wokół Rynku.",
+          "Weź ze sobą bidon wielokrotnego użytku; są publiczne fontanny."
         ]
       },
       "variants": {
@@ -369,7 +388,8 @@
             "de": "Beginnen Sie Ihren Tag am regnerischen Marktplatz, wo die historischen Fassaden im nassen Glanz erstrahlen. Der Vormittag in der Kirche bietet Schutz vor dem Wetter, während der ausgedehnte Besuch im Historischen Museum die perfekte Flucht vor dem Regen darstellt. Nachmittags führt ein kurzer, erfrischender Spaziergang zum Denkmal und Park, bevor der Tag gemütlich in der Innenstadt ausklingt.",
             "hu": "Kezdje a napot a szemerkélő esőben a főtéren, ahol a városháza épülete menedéket nyújt. A délelőtti templomlátogatás után a Történeti Múzeum falai között töltheti a legtöbb időt, szárazon maradva. Délután egy gyors séta a Głogów-toronyhoz és az emlékhelyhez belefér két zápor között, majd a Wrocławski park friss, eső utáni illatával zárhatja a városnézést.",
             "ro": "Începeți ziua în piața centrală, unde pavajul umed reflectă arhitectura veche. Vizita la biserică oferă un scurt răgaz de la ploaie, iar Muzeul Istoric este destinația ideală pentru a petrece orele de amiază la adăpost. După-amiaza, o plimbare rapidă către Turnul Porții și monument, urmată de o vizită în parcul Wrocławski, vă va permite să descoperiți farmecul melancolic al orașului Lubin.",
-            "en": "Start your day at the rain-slicked Market Square, where the historic town hall stands tall against the grey sky. The morning church visit provides a dry sanctuary, followed by an extensive stay at the Historical Museum to escape the downpour. In the afternoon, take a brisk walk to the tower and monument, finishing with the fresh, post-rain atmosphere of Wrocławski Park."
+            "en": "Start your day at the rain-slicked Market Square, where the historic town hall stands tall against the grey sky. The morning church visit provides a dry sanctuary, followed by an extensive stay at the Historical Museum to escape the downpour. In the afternoon, take a brisk walk to the tower and monument, finishing with the fresh, post-rain atmosphere of Wrocławski Park.",
+            "pl": "Rozpocznij dzień na deszczowo wilgotnym Rynku, gdzie zabytkowy ratusz stoi dumnie na tle szarego nieba. Poranna wizyta w kościele daje suchą przystań, po czym długi pobyt w Muzeum Historycznym pozwala uciec przed ulewą. Po południu przespaceruj się szybko do baszty i pomnika, kończąc w świeżej, powyżej deszczu atmosferze Parku Wrocławskiego."
           },
           "stops": [
             {
@@ -378,7 +398,8 @@
                 "de": "Nutzen Sie die Arkaden des Rathauses als Regenschutz.",
                 "hu": "Használja a városháza árkádjait az eső elleni védekezéshez.",
                 "ro": "Folosiți arcadele primăriei pentru a vă adăposti de ploaie.",
-                "en": "Use the town hall's arcades as a shelter from the rain."
+                "en": "Use the town hall's arcades as a shelter from the rain.",
+                "pl": "Wykorzystaj arkady ratusza jako schronienie przed deszczem."
               }
             },
             {
@@ -387,7 +408,8 @@
                 "de": "Ein ruhiger Ort, um den stärksten Regen abzuwarten.",
                 "hu": "Csendes hely a legerősebb záporok kivárásához.",
                 "ro": "Un loc liniștit pentru a aștepta trecerea ploii abundente.",
-                "en": "A quiet place to wait out the heaviest rain."
+                "en": "A quiet place to wait out the heaviest rain.",
+                "pl": "Ciche miejsce, by przeczekać najsilniejszy deszcz."
               }
             },
             {
@@ -396,7 +418,8 @@
                 "de": "Ideales Ziel bei Regen; planen Sie hier viel Zeit ein.",
                 "hu": "Ideális célpont esőben; tervezzen ide bátran hosszú időt.",
                 "ro": "Destinația ideală pe ploaie; planificați mult timp aici.",
-                "en": "Ideal rainy day destination; feel free to stay longer here."
+                "en": "Ideal rainy day destination; feel free to stay longer here.",
+                "pl": "Idealne miejsce na deszczowy dzień; możesz tu zostać dłużej."
               }
             },
             {
@@ -405,7 +428,8 @@
                 "de": "Vorsicht auf den nassen Stufen in der Nähe des Turms.",
                 "hu": "Vigyázat, a torony körüli lépcsők esőben csúszósak lehetnek.",
                 "ro": "Atenție la treptele umede din apropierea turnului.",
-                "en": "Be careful on the wet steps near the tower."
+                "en": "Be careful on the wet steps near the tower.",
+                "pl": "Uważaj na mokre stopnie przy baszcie."
               }
             },
             {
@@ -414,7 +438,8 @@
                 "de": "Ein kurzer Stopp reicht bei diesem Wetter völlig aus.",
                 "hu": "Ebben az időben egy rövid megálló is elegendő itt.",
                 "ro": "O scurtă oprire este suficientă pe această vreme.",
-                "en": "A quick stop is sufficient at this location in the rain."
+                "en": "A quick stop is sufficient at this location in the rain.",
+                "pl": "Przy tej lokalizacji w deszczu wystarczy krótki postój."
               }
             },
             {
@@ -423,7 +448,8 @@
                 "de": "Die asphaltierten Wege sind auch bei Regen gut begehbar.",
                 "hu": "Az aszfaltozott utak esőben is jól járhatóak maradnak.",
                 "ro": "Aleile asfaltate sunt ușor de parcurs chiar și pe ploaie.",
-                "en": "The paved paths remain easily accessible even in the rain."
+                "en": "The paved paths remain easily accessible even in the rain.",
+                "pl": "Ulice z nawierzchnią brukowaną pozostają łatwo dostępne nawet w deszczu."
               }
             }
           ],
@@ -455,6 +481,13 @@
               "Watch your step on the Market Square cobblestones; they get slippery.",
               "There are many cafes near the market to dry off and warm up.",
               "Wear waterproof shoes for the park visit."
+            ],
+            "pl": [
+              "Weź solidny parasol, bo na otwartych przestrzeniach potrafi wiać.",
+              "Muzeum Historyczne to najlepsze miejsce na dłuższą przerwę podczas deszczu.",
+              "Uważaj na bruk na Rynku; robi się ślisko.",
+              "Wokół rynku jest wiele kawiarni, gdzie można się osuszyć i ogrzać.",
+              "Noś wodoodporne buty na wizytę w parku."
             ]
           }
         },
@@ -463,7 +496,8 @@
             "de": "Erleben Sie das winterliche Lubin bei kühler, klarer Luft. Der Vormittag am Marktplatz ist belebend, während die beheizte Kirche und das Museum wohlige Wärme spenden. Da es bereits gegen 16 Uhr dunkel wird, bietet der Nachmittagsspaziergang im Park eine besondere Atmosphäre mit winterlicher Beleuchtung, bevor Sie sich in ein gemütliches Restaurant zurückziehen.",
             "hu": "Fedezze fel a téli Lubint a friss, csípős levegőn. A főtér délelőtti hangulata után a fűtött templom és a múzeum kínál kellemes felmelegedést. Mivel 16 óra körül már sötétedik, a délutáni séta a parkban a téli fényekkel különleges élményt nyújt, mielőtt egy hangulatos étteremben zárná a napot.",
             "ro": "Descoperiți Lubinul iarna sub aerul rece și proaspăt. Piața centrală este revigorantă dimineața, în timp ce biserica încălzită și muzeul oferă confortul necesar. Deoarece se întunecă în jurul orei 16, plimbarea de după-amiază în parc are o atmosferă specială cu lumini de iarnă, înainte de a vă retrage la un restaurant primitor.",
-            "en": "Experience winter in Lubin with crisp, cold air. The morning at the Market Square is invigorating, while the heated church and museum provide much-needed warmth. As darkness falls around 4 PM, the afternoon park stroll offers a unique atmosphere with winter lighting, perfect before heading to a cozy dinner."
+            "en": "Experience winter in Lubin with crisp, cold air. The morning at the Market Square is invigorating, while the heated church and museum provide much-needed warmth. As darkness falls around 4 PM, the afternoon park stroll offers a unique atmosphere with winter lighting, perfect before heading to a cozy dinner.",
+            "pl": "Doświadcz zimy w Lubinie z rześkim, chłodnym powietrzem. Poranek na Rynku jest orzeźwiający, natomiast ogrzewany kościół i muzeum dają potrzebne ciepło. Gdy zapada zmrok około godz. 16:00, popołudniowy spacer po parku ma niepowtarzalny klimat dzięki oświetleniu zimowemu, idealny przed wyjściem na przytulny obiad."
           },
           "stops": [
             {
@@ -472,7 +506,8 @@
                 "de": "Genießen Sie die winterliche Dekoration auf dem Platz.",
                 "hu": "Élvezze a tér téli dekorációit és fényeit.",
                 "ro": "Bucurați-vă de decorațiunile de iarnă din piață.",
-                "en": "Enjoy the winter decorations and lights in the square."
+                "en": "Enjoy the winter decorations and lights in the square.",
+                "pl": "Podziwiaj zimowe dekoracje i iluminacje na Rynku."
               }
             },
             {
@@ -481,7 +516,8 @@
                 "de": "Ein warmer Ort für eine kurze Besinnungspause.",
                 "hu": "Meleg menedék egy rövid elcsendesedéshez.",
                 "ro": "Un loc cald pentru o scurtă pauză de meditație.",
-                "en": "A warm sanctuary for a brief moment of reflection."
+                "en": "A warm sanctuary for a brief moment of reflection.",
+                "pl": "Ciepła przystań na krótki moment refleksji."
               }
             },
             {
@@ -490,7 +526,8 @@
                 "de": "Perfekt, um der Kälte für zwei Stunden zu entfliehen.",
                 "hu": "Tökéletes hely, hogy két órára elmeneküljön a hideg elől.",
                 "ro": "Perfect pentru a scăpa de frig timp de două ore.",
-                "en": "Perfect for escaping the cold for a couple of hours."
+                "en": "Perfect for escaping the cold for a couple of hours.",
+                "pl": "Idealne miejsce, by uciec od zimna na kilka godzin."
               }
             },
             {
@@ -499,7 +536,8 @@
                 "de": "Im Winter wirkt der Backsteinbau besonders markant.",
                 "hu": "Télen a vörös téglafalak különösen látványosak.",
                 "ro": "Iarna, zidurile de cărămidă par și mai impunătoare.",
-                "en": "The brick walls look particularly striking in winter."
+                "en": "The brick walls look particularly striking in winter.",
+                "pl": "Ceglane mury wyglądają szczególnie efektownie zimą."
               }
             },
             {
@@ -508,7 +546,8 @@
                 "de": "Das Denkmal ist im Winter oft schneebedeckt.",
                 "hu": "Az emlékművet télen gyakran hó fedi, méltóságteljes látvány.",
                 "ro": "Monumentul este adesea acoperit de zăpadă iarna.",
-                "en": "The monument is often covered in snow during winter."
+                "en": "The monument is often covered in snow during winter.",
+                "pl": "Pomnik często jest pokryty śniegiem zimą."
               }
             },
             {
@@ -517,7 +556,8 @@
                 "de": "Besuchen Sie den Park vor 16 Uhr für das letzte Tageslicht.",
                 "hu": "Látogasson el a parkba 16 óra előtt az utolsó fényekért.",
                 "ro": "Vizitați parcul înainte de ora 16 pentru ultima lumină.",
-                "en": "Visit the park before 4 PM to catch the last daylight."
+                "en": "Visit the park before 4 PM to catch the last daylight.",
+                "pl": "Odwiedź park przed 16:00, by złapać ostatnie światło dzienne."
               }
             }
           ],
@@ -549,6 +589,13 @@
               "Watch out for icy patches on the sidewalks.",
               "Use museum visits as scheduled warming-up breaks.",
               "Hot drinks are available at several stalls in the market area."
+            ],
+            "pl": [
+              "Zaplanuj aktywności na zewnątrz przed wczesnym zachodem słońca około 16:00.",
+              "Ubierz się na cebulkę i nie zapomnij ciepłych rękawic.",
+              "Uważaj na oblodzenia na chodnikach.",
+              "Wykorzystaj wizyty w muzeach jako zaplanowane przerwy na ogrzanie się.",
+              "Gorące napoje są dostępne w kilku stoiskach na terenie rynku."
             ]
           }
         }
@@ -567,7 +614,8 @@
             "de": "Rathaus und Marktplatz",
             "hu": "Városháza és Piactér",
             "ro": "Primăria și Piața Centrală",
-            "en": "Town Hall and Market Square"
+            "en": "Town Hall and Market Square",
+            "pl": "Ratusz i Rynek"
           },
           "coords": [
             16.2015,
@@ -583,7 +631,8 @@
             "de": "Schließen Sie Ihr Fahrrad sicher ab, bevor Sie den Platz erkunden.",
             "hu": "Zárja le biztonságosan a kerékpárját, mielőtt felfedezné a teret.",
             "ro": "Asigurați-vă bicicleta înainte de a explora piața.",
-            "en": "Lock your bike securely before exploring the square."
+            "en": "Lock your bike securely before exploring the square.",
+            "pl": "Zabezpiecz dobrze rower przed zwiedzaniem Rynku."
           }
         },
         {
@@ -591,7 +640,8 @@
             "de": "Glogauer Torturm",
             "hu": "Głogówi-kaputorony",
             "ro": "Turnul Porții Głogów",
-            "en": "Głogów Gate Tower"
+            "en": "Głogów Gate Tower",
+            "pl": "Baszta Bramy Głogowskiej"
           },
           "coords": [
             16.1975,
@@ -607,7 +657,8 @@
             "de": "Eine kurze Fahrt vom Zentrum, um die alten Befestigungsanlagen zu sehen.",
             "hu": "Rövid biciklizés a központtól a régi erődítmények megtekintéséhez.",
             "ro": "O scurtă plimbare cu bicicleta din centru pentru a vedea vechile fortificații.",
-            "en": "A short bike ride from the center to see the old fortifications."
+            "en": "A short bike ride from the center to see the old fortifications.",
+            "pl": "Krótka przejażdżka rowerowa ze śródmieścia, by zobaczyć dawne fortyfikacje."
           }
         },
         {
@@ -615,7 +666,8 @@
             "de": "Kirche Unserer Lieben Frau von Tschenstochau",
             "hu": "Częstochowai Miasszonyunk-templom",
             "ro": "Biserica Maicii Domnului din Częstochowa",
-            "en": "Church of Our Lady of Częstochowa"
+            "en": "Church of Our Lady of Częstochowa",
+            "pl": "Kościół Matki Bożej Częstochowskiej"
           },
           "coords": [
             16.2038,
@@ -631,7 +683,8 @@
             "de": "Stellen Sie Ihr Fahrrad in der Nähe ab und treten Sie ein, um die Ruhe zu genießen.",
             "hu": "Parkolja le a kerékpárt a közelben, és lépjen be, hogy élvezze a csendet.",
             "ro": "Parcați bicicleta în apropiere și intrați pentru a vă bucura de liniște.",
-            "en": "Park your bike nearby and step inside to enjoy the tranquility."
+            "en": "Park your bike nearby and step inside to enjoy the tranquility.",
+            "pl": "Zaparkuj rower w pobliżu i wejdź, by poczuć spokój wnętrza."
           }
         },
         {
@@ -639,7 +692,8 @@
             "de": "Historisches Museum",
             "hu": "Történeti Múzeum",
             "ro": "Muzeul de Istorie",
-            "en": "Historical Museum"
+            "en": "Historical Museum",
+            "pl": "Muzeum Historyczne"
           },
           "coords": [
             16.205,
@@ -655,7 +709,8 @@
             "de": "Eine gute Gelegenheit, mehr über die lokale Identität zu erfahren.",
             "hu": "Jó alkalom, hogy többet megtudjon a helyi identitásról.",
             "ro": "O bună oportunitate de a învăța mai multe despre identitatea locală.",
-            "en": "A good opportunity to learn more about the local identity."
+            "en": "A good opportunity to learn more about the local identity.",
+            "pl": "Dobra okazja, by lepiej poznać lokalną tożsamość."
           }
         },
         {
@@ -663,7 +718,8 @@
             "de": "Cuprum Arena",
             "hu": "Cuprum Aréna",
             "ro": "Arena Cuprum",
-            "en": "Cuprum Arena"
+            "en": "Cuprum Arena",
+            "pl": "Cuprum Arena"
           },
           "coords": [
             16.185,
@@ -679,7 +735,8 @@
             "de": "Machen Sie eine Pause für einen Snack oder ein schnelles Shopping-Erlebnis.",
             "hu": "Tartson szünetet egy harapnivalóra vagy egy gyors vásárlási élményre.",
             "ro": "Luați o pauză pentru o gustare sau o sesiune rapidă de cumpărături.",
-            "en": "Take a break for a snack or a quick shopping experience."
+            "en": "Take a break for a snack or a quick shopping experience.",
+            "pl": "Zrób przerwę na przekąskę lub szybkie zakupy."
           }
         },
         {
@@ -687,7 +744,8 @@
             "de": "Denkmal für die Opfer von Lüben 1982",
             "hu": "Az 1982-es lübeni áldozatok emlékműve",
             "ro": "Monumentul Victimelor din Lubin 1982",
-            "en": "Monument to the Victims of Lubin 1982"
+            "en": "Monument to the Victims of Lubin 1982",
+            "pl": "Pomnik Ofiar Lubina 1982"
           },
           "coords": [
             16.208,
@@ -703,7 +761,8 @@
             "de": "Ein kurzer, aber wichtiger Stopp auf Ihrer Radtour.",
             "hu": "Rövid, de fontos megálló a kerékpártúrán.",
             "ro": "O oprire scurtă, dar importantă, în turul cu bicicleta.",
-            "en": "A short but important stop on your bike tour."
+            "en": "A short but important stop on your bike tour.",
+            "pl": "Krótki, lecz ważny postój na trasie rowerowej."
           }
         },
         {
@@ -711,7 +770,8 @@
             "de": "Park Wrocławski",
             "hu": "Wrocławski Park",
             "ro": "Parcul Wrocławski",
-            "en": "Wrocławski Park"
+            "en": "Wrocławski Park",
+            "pl": "Park Wrocławski"
           },
           "coords": [
             16.215,
@@ -727,7 +787,8 @@
             "de": "Perfekt für eine gemütliche Radrunde oder einfach zum Entspannen im Gras.",
             "hu": "Tökéletes egy kellemes kerékpárkörhöz vagy csak a fűben való pihenéshez.",
             "ro": "Perfect pentru o tură lejeră cu bicicleta sau pur și simplu pentru a vă relaxa pe iarbă.",
-            "en": "Perfect for a leisurely bike ride or just relaxing on the grass."
+            "en": "Perfect for a leisurely bike ride or just relaxing on the grass.",
+            "pl": "Idealny na spokojną przejażdżkę rowerową lub odpoczynek na trawie."
           }
         }
       ],
@@ -735,7 +796,8 @@
         "de": "Schwingen Sie sich auf den Sattel und beginnen Sie Ihre Tour am Rathaus. Von dort führt Sie eine kurze Fahrt zu den historischen Wehranlagen am Glogauer Torturm. Der Vormittag verbindet sakrale Kunst in der Tschenstochauer Kirche mit der tiefen Industriegeschichte im Historischen Museum. Zur Mittagszeit radeln Sie zur modernen Cuprum Arena für eine schnelle Pause. Der Nachmittag ist dem Gedenken gewidmet, mit einem Halt am Denkmal für die Opfer von 1982, bevor Sie Ihre Tour mit einer entspannten Fahrt durch den grünen Wrocławski-Park abschließen.",
         "hu": "Pattanjon nyeregbe, és kezdje a túrát a Városházánál! Onnan egy rövid tekerés vezet a Głogówi-kaputorony történelmi erődítményeihez. A délelőtt összeköti a Częstochowai templom szakrális művészetét a Történeti Múzeum mély ipartörténetével. Délidőben tekerjen el a modern Cuprum Arénához egy gyors pihenőre. A délután az emlékezésé, egy megállóval az 1982-es áldozatok emlékművénél, mielőtt a túrát egy pihentető tekeréssel zárná a zöld Wrocławski Parkban.",
         "ro": "Urcați-vă pe bicicletă și începeți turul la Primărie. De acolo, o scurtă plimbare vă va duce la fortificațiile istorice de la Turnul Porții Głogów. Dimineața combină arta sacră de la Biserica din Częstochowa cu istoria industrială profundă de la Muzeul de Istorie. La prânz, pedalați spre moderna Arenă Cuprum pentru o pauză rapidă. După-amiaza este dedicată comemorării, cu o oprire la monumentul victimelor din 1982, înainte de a încheia turul cu o plimbare relaxantă prin verdele Parc Wrocławski.",
-        "en": "Hop on your bike and start your tour at the Town Hall. From there, a short ride takes you to the historic fortifications at the Głogów Gate Tower. The morning combines sacred art at the Church of Częstochowa with the deep industrial history at the Historical Museum. At noon, you'll cycle to the modern Cuprum Arena for a quick break. The afternoon is dedicated to remembrance, with a stop at the monument to the 1982 victims, before finishing your tour with a relaxing ride through the green Wrocławski Park."
+        "en": "Hop on your bike and start your tour at the Town Hall. From there, a short ride takes you to the historic fortifications at the Głogów Gate Tower. The morning combines sacred art at the Church of Częstochowa with the deep industrial history at the Historical Museum. At noon, you'll cycle to the modern Cuprum Arena for a quick break. The afternoon is dedicated to remembrance, with a stop at the monument to the 1982 victims, before finishing your tour with a relaxing ride through the green Wrocławski Park.",
+        "pl": "Wskocz na rower i rozpocznij trasę przy Ratuszu. Stamtąd krótka przejażdżka prowadzi do historycznych fortyfikacji przy Baszcie Bramy Głogowskiej. Poranek łączy sztukę sakralną w Kościele Częstochowskim z głęboką historią przemysłową w Muzeum Historycznym. W południe przejedziesz do nowoczesnej Cuprum Areny na krótką przerwę. Popołudnie poświęcone jest pamięci — zatrzymasz się przy pomniku ofiar 1982 roku, zanim zakończysz trasę relaksującą przejażdżką przez zielony Park Wrocławski."
       },
       "gastro_picks": {
         "de": [
@@ -931,6 +993,12 @@
           "Bring a good bike lock.",
           "Use designated bike lanes where possible.",
           "A small bag or backpack is useful for water and snacks."
+        ],
+        "pl": [
+          "Sprawdź ciśnienie w oponach i hamulce przed startem.",
+          "Weź solidne zabezpieczenie do roweru.",
+          "Korzystaj z wyznaczonych ścieżek rowerowych, gdy to możliwe.",
+          "Mała torba lub plecak przyda się na wodę i przekąski."
         ]
       },
       "variants": {
@@ -939,7 +1007,8 @@
             "de": "Eine Radtour durch Lubin bei Regen erfordert die richtige Ausrüstung. Der Vormittag führt schnell durch die Altstadt zum Turm, während die längere Mittagspause im Museum den Regen vergessen lässt. Am Nachmittag bietet die Cuprum Arena eine trockene Abwechslung, bevor Sie die letzte Etappe durch den Park antreten, wo die befestigten Wege sicheres Fahren ermöglichen.",
             "hu": "Egy esős biciklitúra Lubinban megfelelő felszerelést igényel. Délelőtt gyorsan végigtekerhet az óvároson a toronyig, míg a múzeumi pihenő alatt elállhat az eső. Délután a Cuprum Arena kínál száraz kikapcsolódást, majd a park szilárd burkolatú útjain tekerhet tovább, ahol esőben is biztonságos a közlekedés.",
             "ro": "O tură cu bicicleta prin Lubin pe ploaie necesită echipament adecvat. Dimineața parcurgeți rapid centrul vechi până la turn, iar pauza de la muzeu vă ajută să evitați udarea excesivă. După-amiaza, Cuprum Arena oferă o alternativă uscată, înainte de ultima etapă prin parc pe aleile asfaltate.",
-            "en": "A rainy bike tour in Lubin requires the right gear. Speed through the Old Town to the tower in the morning, then hide from the rain during a long museum visit. In the afternoon, Cuprum Arena provides a dry diversion before the final leg through the park, where paved paths ensure a safe ride even in wet conditions."
+            "en": "A rainy bike tour in Lubin requires the right gear. Speed through the Old Town to the tower in the morning, then hide from the rain during a long museum visit. In the afternoon, Cuprum Arena provides a dry diversion before the final leg through the park, where paved paths ensure a safe ride even in wet conditions.",
+            "pl": "Deszczowa wycieczka rowerowa po Lubinie wymaga odpowiedniego wyposażenia. Przejedź szybko przez Stare Miasto do baszty rano, potem schowaj się przed deszczem podczas długiej wizyty w muzeum. Po południu Cuprum Arena zapewni suchą odskocznię przed ostatnim odcinkiem przez park, gdzie wybrukowane ścieżki gwarantują bezpieczną jazdę nawet w wilgotnych warunkach."
           },
           "stops": [
             {
@@ -948,7 +1017,8 @@
                 "de": "Vorsicht beim Bremsen auf nassem Kopfsteinpflaster.",
                 "hu": "Vigyázzon a fékezéssel a vizes macskakövön.",
                 "ro": "Atenție la frânare pe pavajul umed.",
-                "en": "Be careful when braking on wet cobblestones."
+                "en": "Be careful when braking on wet cobblestones.",
+                "pl": "Uważaj przy hamowaniu na mokrym bruku."
               }
             },
             {
@@ -957,7 +1027,8 @@
                 "de": "Kurzer Fotostopp, bevor es im Regen weitergeht.",
                 "hu": "Gyors fotómegálló, mielőtt továbbtekerne az esőben.",
                 "ro": "Scurt popas pentru poze înainte de a continua prin ploaie.",
-                "en": "Quick photo stop before continuing through the rain."
+                "en": "Quick photo stop before continuing through the rain.",
+                "pl": "Szybki postój na zdjęcie przed kontynuacją w deszczu."
               }
             },
             {
@@ -966,7 +1037,8 @@
                 "de": "Fahrradständer befinden sich meist im ungeschützten Bereich.",
                 "hu": "A kerékpártárolók többnyire fedetlen helyen vannak.",
                 "ro": "Suporturile de biciclete sunt în mare parte neacoperite.",
-                "en": "Bike racks are mostly in uncovered areas here."
+                "en": "Bike racks are mostly in uncovered areas here.",
+                "pl": "Stojaki rowerowe są tu w większości na zewnątrz, bez zadaszenia."
               }
             },
             {
@@ -975,7 +1047,8 @@
                 "de": "Gute Gelegenheit, nasse Kleidung im Foyer zu trocknen.",
                 "hu": "Jó alkalom a vizes ruhák szárítására a ruhatárnál.",
                 "ro": "O oportunitate bună de a lăsa hainele ude la garderobă.",
-                "en": "Good opportunity to let wet gear dry in the lobby area."
+                "en": "Good opportunity to let wet gear dry in the lobby area.",
+                "pl": "Dobra okazja, by pozwolić wilgotnym rzeczom wyschnąć w lobby."
               }
             },
             {
@@ -984,7 +1057,8 @@
                 "de": "Sichere, trockene Parkplätze im Untergeschoss nutzen.",
                 "hu": "Használja a biztonságos, száraz parkolót az alagsorban.",
                 "ro": "Folosiți parcarea sigură și uscată de la subsol.",
-                "en": "Use the secure, dry parking available in the basement."
+                "en": "Use the secure, dry parking available in the basement.",
+                "pl": "Skorzystaj z bezpiecznego, suchego parkingu dostępnego w piwnicy."
               }
             },
             {
@@ -993,7 +1067,8 @@
                 "de": "In der Nähe gibt es Unterstände bei plötzlichem Guss.",
                 "hu": "A közelben vannak beállók hirtelen felhőszakadás esetén.",
                 "ro": "Există adăposturi în apropiere în caz de aversă bruscă.",
-                "en": "There are shelters nearby in case of a sudden downpour."
+                "en": "There are shelters nearby in case of a sudden downpour.",
+                "pl": "W pobliżu są wiaty na wypadek nagłej ulewy."
               }
             },
             {
@@ -1002,7 +1077,8 @@
                 "de": "Halten Sie sich an die Hauptwege, um Matsch zu vermeiden.",
                 "hu": "Maradjon a főutakon, hogy elkerülje a sarat.",
                 "ro": "Rămâneți pe aleile principale pentru a evita noroiul.",
-                "en": "Stick to the main paved paths to avoid mud."
+                "en": "Stick to the main paved paths to avoid mud.",
+                "pl": "Trzymaj się głównych wybrukowanych ścieżek, by uniknąć błota."
               }
             }
           ],
@@ -1034,6 +1110,13 @@
               "Cuprum Arena offers the best covered bike parking options.",
               "Check your brakes thoroughly before starting the tour.",
               "Wear high-visibility rain gear for better safety."
+            ],
+            "pl": [
+              "Unikaj ostrych zakrętów na mokrych lub śliskich nawierzchniach.",
+              "Używaj błotników, by chronić się przed wodą rozbryzgową.",
+              "Cuprum Arena oferuje najlepsze zadaszone miejsca do parkowania rowerów.",
+              "Dokładnie sprawdź hamulce przed rozpoczęciem trasy.",
+              "Noś jaskrawe, wodoodporne ubranie dla lepszej widoczności."
             ]
           }
         },
@@ -1042,7 +1125,8 @@
             "de": "Lubin mit dem Rad im Winter ist erfrischend, aber Vorsicht vor Glätte ist geboten. Starten Sie spät, wenn die Sonne am höchsten steht. Die Route verbindet historische Orte mit Aufwärmpausen im Museum und im Einkaufszentrum. Beenden Sie die Tour frühzeitig im Park, bevor die Kälte nach Sonnenuntergang stark zunimmt und die Wege wieder gefrieren könnten.",
             "hu": "Lubin téli felfedezése biciklivel frissítő, de óvatosságot igényel a csúszós utak miatt. Kezdjen későbben, amikor a nap a legmagasabban jár. Az útvonal összeköti a történelmi pontokat a múzeumi és bevásárlóközponti melegedőkkel. A túrát fejezze be korán a parkban, mielőtt a naplemente utáni fagy megnehezítené a haladást.",
             "ro": "Explorarea Lubinului cu bicicleta iarna este revigorantă, dar atenție la gheață. Începeți mai târziu, când soarele este sus. Traseul combină locurile istorice cu pauze de încălzire la muzeu și centrul comercial. Terminați tura devreme în parc, înainte ca gerul de după apus să înghețe din nou aleile.",
-            "en": "Cycling through Lubin in winter is refreshing but requires caution due to icy patches. Start later in the morning when the sun is highest. The route connects historical sites with warming breaks at the museum and the mall. Finish your ride early at the park before post-sunset freezing makes the paths hazardous."
+            "en": "Cycling through Lubin in winter is refreshing but requires caution due to icy patches. Start later in the morning when the sun is highest. The route connects historical sites with warming breaks at the museum and the mall. Finish your ride early at the park before post-sunset freezing makes the paths hazardous.",
+            "pl": "Jazda rowerem po Lubinie zimą jest orzeźwiająca, lecz wymaga ostrożności ze względu na oblodzenia. Zacznij później rano, gdy słońce jest najwyżej. Trasa łączy miejsca historyczne z przerwami na rozgrzewkę w muzeum i centrum handlowym. Zakończ przejazd wcześnie w parku, zanim po zachodzie słońca mróz uczyni ścieżki niebezpiecznymi."
           },
           "stops": [
             {
@@ -1051,7 +1135,8 @@
                 "de": "Reifendruck leicht senken für besseren Grip auf Schnee.",
                 "hu": "Csökkentse kicsit a keréknyomást a jobb tapadásért.",
                 "ro": "Reduceți ușor presiunea în pneuri pentru aderență pe zăpadă.",
-                "en": "Lower tire pressure slightly for better grip on snow."
+                "en": "Lower tire pressure slightly for better grip on snow.",
+                "pl": "Nieco obniż ciśnienie w oponach dla lepszej przyczepności na śniegu."
               }
             },
             {
@@ -1060,7 +1145,8 @@
                 "de": "Kurze Pause, aber bleiben Sie in Bewegung gegen die Kälte.",
                 "hu": "Rövid pihenő, de maradjon mozgásban a hideg ellen.",
                 "ro": "Pauză scurtă, dar rămâneți în mișcare împotriva frigului.",
-                "en": "Short break, but keep moving to stay warm."
+                "en": "Short break, but keep moving to stay warm.",
+                "pl": "Krótka przerwa — ruszaj dalej, by pozostać rozgrzanym."
               }
             },
             {
@@ -1069,7 +1155,8 @@
                 "de": "Parken Sie nicht auf Eisflächen vor dem Eingang.",
                 "hu": "Ne parkoljon a bejárat előtti jeges szakaszokon.",
                 "ro": "Nu parcați pe zonele cu gheață din fața intrării.",
-                "en": "Do not park on icy patches in front of the entrance."
+                "en": "Do not park on icy patches in front of the entrance.",
+                "pl": "Nie parkuj na oblodzonych fragmentach przed wejściem."
               }
             },
             {
@@ -1078,7 +1165,8 @@
                 "de": "Perfekter Ort für eine lange Aufwärmpause zur Mittagszeit.",
                 "hu": "Tökéletes hely egy hosszú ebédidőbeli melegedéshez.",
                 "ro": "Locul perfect pentru o pauză lungă de încălzire la amiază.",
-                "en": "Perfect spot for a long mid-day warming break."
+                "en": "Perfect spot for a long mid-day warming break.",
+                "pl": "Idealne miejsce na długą, południową przerwę na rozgrzewkę."
               }
             },
             {
@@ -1087,7 +1175,8 @@
                 "de": "Hier können Sie in Ruhe die Handschuhe aufwärmen.",
                 "hu": "Itt nyugodtan átmelegítheti a kihűlt kesztyűket.",
                 "ro": "Aici vă puteți încălzi mănușile în liniște.",
-                "en": "A great place to warm up your cold gloves."
+                "en": "A great place to warm up your cold gloves.",
+                "pl": "Świetne miejsce, by ogrzać zmarznięte rękawice."
               }
             },
             {
@@ -1096,7 +1185,8 @@
                 "de": "Vorsicht vor gefrorenem Tau auf den Metallteilen.",
                 "hu": "Vigyázzon a fémrészeken képződött zúzmarával.",
                 "ro": "Atenție la chiciura formată pe elementele metalice.",
-                "en": "Watch out for frost on the metal parts near the monument."
+                "en": "Watch out for frost on the metal parts near the monument.",
+                "pl": "Uważaj na szron na metalowych elementach przy pomniku."
               }
             },
             {
@@ -1105,7 +1195,8 @@
                 "de": "Fahren Sie vorsichtig, da Wege nicht immer geräumt sind.",
                 "hu": "Hajtson óvatosan, az utak nincsenek mindig letakarítva.",
                 "ro": "Circulați cu atenție, aleile nu sunt mereu deszăpezite.",
-                "en": "Ride carefully as paths may not always be cleared of snow."
+                "en": "Ride carefully as paths may not always be cleared of snow.",
+                "pl": "Jedź ostrożnie — ścieżki mogą nie być odśnieżone."
               }
             }
           ],
@@ -1137,6 +1228,13 @@
               "Lights are essential even during the day in winter weather.",
               "Stay hydrated with warm drinks like tea during your ride.",
               "Plan shorter stages than you would in summer."
+            ],
+            "pl": [
+              "Używaj opon zimowych lub o głębszym bieżniku dla lepszej trakcji.",
+              "Utrzymuj łańcuch dobrze naoliwiony, by chronić go przed solą drogową.",
+              "Światła są niezbędne nawet w ciągu dnia w zimowej pogodzie.",
+              "Pij ciepłe napoje, np. herbatę, by utrzymać nawodnienie podczas jazdy.",
+              "Planuj krótsze etapy niż latem."
             ]
           }
         }
@@ -1155,7 +1253,8 @@
             "de": "Parkplatz am Zentrum (Cluster 1)",
             "hu": "Parkoló a központban (1. klaszter)",
             "ro": "Parcare în centru (Cluster 1)",
-            "en": "Parking near the Center (Cluster 1)"
+            "en": "Parking near the Center (Cluster 1)",
+            "pl": "Parkowanie w pobliżu Centrum (Klaster 1)"
           },
           "coords": [
             16.206,
@@ -1171,7 +1270,8 @@
             "de": "Parken Sie hier für den Vormittag. Es können Gebühren anfallen.",
             "hu": "Parkoljon itt a délelőttre. Díjak merülhetnek fel.",
             "ro": "Parcați aici pentru dimineață. Se pot aplica taxe.",
-            "en": "Park here for the morning. Fees may apply."
+            "en": "Park here for the morning. Fees may apply.",
+            "pl": "Zaparkuj tu na poranek. Mogą obowiązywać opłaty."
           }
         },
         {
@@ -1179,7 +1279,8 @@
             "de": "Rathaus und Marktplatz",
             "hu": "Városháza és Piactér",
             "ro": "Primăria și Piața Centrală",
-            "en": "Town Hall and Market Square"
+            "en": "Town Hall and Market Square",
+            "pl": "Ratusz i Rynek"
           },
           "coords": [
             16.2015,
@@ -1195,7 +1296,8 @@
             "de": "Ein kurzer Spaziergang vom Parkplatz zum Herzen der Altstadt.",
             "hu": "Rövid séta a parkolótól az óváros szívébe.",
             "ro": "O scurtă plimbare de la parcare până în inima orașului vechi.",
-            "en": "A short walk from the parking lot to the heart of the old town."
+            "en": "A short walk from the parking lot to the heart of the old town.",
+            "pl": "Krótki spacer z parkingu do serca starego miasta."
           }
         },
         {
@@ -1203,7 +1305,8 @@
             "de": "Kirche Unserer Lieben Frau von Tschenstochau",
             "hu": "Częstochowai Miasszonyunk-templom",
             "ro": "Biserica Maicii Domnului din Częstochowa",
-            "en": "Church of Our Lady of Częstochowa"
+            "en": "Church of Our Lady of Częstochowa",
+            "pl": "Kościół Matki Bożej Częstochowskiej"
           },
           "coords": [
             16.2038,
@@ -1219,7 +1322,8 @@
             "de": "Die Kirche liegt nur wenige Schritte vom Marktplatz entfernt.",
             "hu": "A templom csak néhány lépésre van a Piactértől.",
             "ro": "Biserica este la doar câțiva pași de Piața Centrală.",
-            "en": "The church is just a few steps from the Market Square."
+            "en": "The church is just a few steps from the Market Square.",
+            "pl": "Kościół znajduje się zaledwie kilka kroków od Rynku."
           }
         },
         {
@@ -1227,7 +1331,8 @@
             "de": "Historisches Museum",
             "hu": "Történeti Múzeum",
             "ro": "Muzeul de Istorie",
-            "en": "Historical Museum"
+            "en": "Historical Museum",
+            "pl": "Muzeum Historyczne"
           },
           "coords": [
             16.205,
@@ -1243,7 +1348,8 @@
             "de": "Beenden Sie den ersten Spaziergang mit einem tiefen Einblick in die Geschichte.",
             "hu": "Zárja az első sétát a történelem mélyebb megismerésével.",
             "ro": "Încheiați prima plimbare cu o incursiune profundă în istorie.",
-            "en": "End the first walking cluster with a deep dive into history."
+            "en": "End the first walking cluster with a deep dive into history.",
+            "pl": "Zakończ pierwszy, pieszy klaster głębokim zanurzeniem w historii."
           }
         },
         {
@@ -1251,7 +1357,8 @@
             "de": "Park Wrocławski (Cluster 2)",
             "hu": "Wrocławski Park (2. klaszter)",
             "ro": "Parcul Wrocławski (Cluster 2)",
-            "en": "Wrocławski Park (Cluster 2)"
+            "en": "Wrocławski Park (Cluster 2)",
+            "pl": "Park Wrocławski (Klaster 2)"
           },
           "coords": [
             16.215,
@@ -1267,7 +1374,8 @@
             "de": "Fahren Sie zum Park und suchen Sie sich einen Parkplatz in der Nähe für den Nachmittagsspaziergang.",
             "hu": "Vezessen a parkhoz, és keressen egy közeli parkolóhelyet a délutáni sétához.",
             "ro": "Conduceți spre parc și găsiți un loc de parcare în apropiere pentru plimbarea de după-amiază.",
-            "en": "Drive to the park and find a nearby spot for the afternoon stroll."
+            "en": "Drive to the park and find a nearby spot for the afternoon stroll.",
+            "pl": "Podjedź do parku i znajdź miejsce w pobliżu na popołudniowy spacer."
           }
         },
         {
@@ -1275,7 +1383,8 @@
             "de": "Denkmal für die Opfer von Lüben 1982",
             "hu": "Az 1982-es lübeni áldozatok emlékműve",
             "ro": "Monumentul Victimelor din Lubin 1982",
-            "en": "Monument to the Victims of Lubin 1982"
+            "en": "Monument to the Victims of Lubin 1982",
+            "pl": "Pomnik Ofiar Lubina 1982"
           },
           "coords": [
             16.208,
@@ -1291,7 +1400,8 @@
             "de": "Vom Park aus leicht zu Fuß erreichbar.",
             "hu": "A parkból könnyen megközelíthető gyalog.",
             "ro": "Ușor accesibil pe jos din parc.",
-            "en": "Easily reachable on foot from the park."
+            "en": "Easily reachable on foot from the park.",
+            "pl": "Łatwo dostępne pieszo z parku."
           }
         }
       ],
@@ -1299,7 +1409,8 @@
         "de": "Ihr Autotag beginnt bequem mit dem Parken im Zentrum. Der erste Cluster führt Sie zu Fuß durch das Herz von Lüben: vom Marktplatz zur Kirche und ins aufschlussreiche Historische Museum. Nach diesem historischen Vormittag steigen Sie wieder ins Auto. Am Nachmittag fahren Sie zum zweiten Cluster, dem grünen Wrocławski-Park. Hier parken Sie erneut und erkunden die weitläufige Anlage sowie das nahegelegene, zum Nachdenken anregende Denkmal von 1982. Dieser Tag kombiniert die Flexibilität des Autos mit intensiven Spaziergängen in den schönsten Gegenden der Stadt.",
         "hu": "Az autós napja kényelmesen kezdődik a központi parkolással. Az első klaszter gyalogosan vezeti végig Lüben szívén: a Piactértől a templomig és a tanulságos Történeti Múzeumig. A történelmi délelőtt után visszaül az autóba. Délután a második klaszterhez, a zöld Wrocławski Parkhoz hajt. Itt újra leparkol, és felfedezi a tágas parkot, valamint a közeli, elgondolkodtató 1982-es emlékművet. Ez a nap ötvözi az autó rugalmasságát a város legszebb részein tett intenzív sétákkal.",
         "ro": "Ziua cu mașina începe convenabil, parcând în centru. Primul cluster vă poartă pe jos prin inima Lubinului: de la Piața Centrală la biserică și la revelatorul Muzeu de Istorie. După această dimineață istorică, vă urcați din nou în mașină. După-amiaza, conduceți spre al doilea cluster, Parcul verde Wrocławski. Aici parcați din nou și explorați parcul vast și monumentul comemorativ din 1982, care îndeamnă la reflecție. Această zi combină flexibilitatea mașinii cu plimbări intense prin cele mai frumoase zone ale orașului.",
-        "en": "Your car day starts conveniently by parking in the center. The first cluster takes you on foot through the heart of Lubin: from the Market Square to the church and into the insightful Historical Museum. After this historical morning, you get back in the car. In the afternoon, you drive to the second cluster, the green Wrocławski Park. Here you park again and explore the spacious grounds and the nearby thought-provoking 1982 monument. This day combines the flexibility of the car with intensive walks in the city's most beautiful areas."
+        "en": "Your car day starts conveniently by parking in the center. The first cluster takes you on foot through the heart of Lubin: from the Market Square to the church and into the insightful Historical Museum. After this historical morning, you get back in the car. In the afternoon, you drive to the second cluster, the green Wrocławski Park. Here you park again and explore the spacious grounds and the nearby thought-provoking 1982 monument. This day combines the flexibility of the car with intensive walks in the city's most beautiful areas.",
+        "pl": "Twój dzień samochodem zaczyna się wygodnie od zaparkowania w centrum. Pierwszy klaster zaprowadzi Cię pieszo przez serce Lubina: z Rynku do kościoła i do wciągającego Muzeum Historycznego. Po tym historycznym poranku wracasz do samochodu. Po południu jedziesz do drugiego klastra, zielonego Parku Wrocławskiego. Tutaj ponownie parkujesz i zwiedzasz rozległe tereny oraz pobliski skłaniający do refleksji pomnik z 1982 roku. Ten dzień łączy elastyczność samochodu z intensywnymi spacerami po najpiękniejszych częściach miasta."
       },
       "gastro_picks": {
         "de": [
@@ -1495,6 +1606,12 @@
           "Do not leave valuables visible in the car.",
           "A GPS or navigation app is essential.",
           "Be aware of one-way streets and pedestrian zones in the old town."
+        ],
+        "pl": [
+          "Sprawdź z wyprzedzeniem opcje i opłaty za parking.",
+          "Nie zostawiaj cennych przedmiotów na widoku w samochodzie.",
+          "Niezbędny jest GPS lub aplikacja nawigacyjna.",
+          "Zwróć uwagę na jednokierunkowe ulice i strefy dla pieszych w starówce."
         ]
       },
       "variants": {
@@ -1503,7 +1620,8 @@
             "de": "Mit dem Auto erkunden Sie Lubin bei Regen besonders komfortabel. Parken Sie im Zentrum, um die historischen Sehenswürdigkeiten zu Fuß zu erreichen, während Sie zwischen den Stopps trocken bleiben. Der Besuch im Museum und später im Wrocławski Park lässt sich flexibel an Regenpausen anpassen, wobei das Auto als perfekter Rückzugsort dient.",
             "hu": "Autóval Lubin felfedezése esőben is kényelmes marad. Parkoljon a központban a történelmi látnivalók közelében, így a megállók között száraz marad. A múzeumi látogatás és a parki séta rugalmasan igazítható az esőhöz, az autó pedig tökéletes menedéket nyújt két zápor között.",
             "ro": "Explorarea Lubinului cu mașina pe ploaie este foarte confortabilă. Parcați în centru pentru a vedea obiectivele istorice, rămânând uscat între opriri. Vizita la muzeu și parcul Wrocławski pot fi adaptate flexibil în funcție de ploaie, mașina fiind refugiul ideal.",
-            "en": "Exploring Lubin by car in the rain is exceptionally comfortable. Park centrally to reach historical sites on foot while staying dry between stops. The museum visit and park stroll can be flexibly timed around the rain, with your car serving as a perfect sanctuary."
+            "en": "Exploring Lubin by car in the rain is exceptionally comfortable. Park centrally to reach historical sites on foot while staying dry between stops. The museum visit and park stroll can be flexibly timed around the rain, with your car serving as a perfect sanctuary.",
+            "pl": "Zwiedzanie Lubina samochodem w deszczu jest wyjątkowo wygodne. Parkuj centralnie, aby dojść pieszo do zabytków, pozostając suchym między przystankami. Wizyta w muzeum i spacer po parku mogą być elastycznie dostosowane do opadów, z samochodem jako idealnym schronieniem."
           },
           "stops": [
             {
@@ -1512,7 +1630,8 @@
                 "de": "Wählen Sie Parkplätze in der Nähe von Hauseingängen.",
                 "hu": "Válasszon kapualjakhoz közeli parkolóhelyet.",
                 "ro": "Alegeți locuri de parcare aproape de intrările clădirilor.",
-                "en": "Choose parking spots close to building entrances."
+                "en": "Choose parking spots close to building entrances.",
+                "pl": "Wybieraj miejsca parkingowe blisko wejść do budynków."
               }
             },
             {
@@ -1521,7 +1640,8 @@
                 "de": "Lassen Sie den Schirm im Auto, wenn Sie nur kurz schauen.",
                 "hu": "Hagyja az esernyőt a kocsiban, ha csak rövid nézelődést tervez.",
                 "ro": "Lăsați umbrela în mașină dacă faceți doar o scurtă vizită.",
-                "en": "Leave the umbrella in the car for very quick stops."
+                "en": "Leave the umbrella in the car for very quick stops.",
+                "pl": "Parasol zostaw w samochodzie na bardzo krótkie postoje."
               }
             },
             {
@@ -1530,7 +1650,8 @@
                 "de": "Der Eingang ist nur einen kurzen Sprint vom Parkplatz entfernt.",
                 "hu": "A bejárat csak egy rövid vágta a parkolótól.",
                 "ro": "Intrarea este la doar câțiva pași de parcare.",
-                "en": "The entrance is just a short dash from the parking area."
+                "en": "The entrance is just a short dash from the parking area.",
+                "pl": "Wejście jest zaledwie krótki sprint od miejsca parkingowego."
               }
             },
             {
@@ -1539,7 +1660,8 @@
                 "de": "Planen Sie hier die längste Zeit bei starkem Regen ein.",
                 "hu": "Erős eső esetén ide tervezze a legtöbb időt.",
                 "ro": "Planificați cel mai mult timp aici în caz de ploaie torențială.",
-                "en": "Schedule your longest stay here during heavy rain."
+                "en": "Schedule your longest stay here during heavy rain.",
+                "pl": "Zaplanuj tutaj najdłuższy postój podczas ulewy."
               }
             },
             {
@@ -1548,7 +1670,8 @@
                 "de": "Parken Sie direkt am Parkeingang für kurze Wege.",
                 "hu": "Parkoljon közvetlenül a bejáratnál a rövid séta érdekében.",
                 "ro": "Parcați chiar la intrarea în parc pentru o distanță minimă.",
-                "en": "Park right at the entrance to minimize walking in the rain."
+                "en": "Park right at the entrance to minimize walking in the rain.",
+                "pl": "Zaparkuj tuż przy wejściu, aby zminimalizować chodzenie w deszczu."
               }
             },
             {
@@ -1557,7 +1680,8 @@
                 "de": "Man kann das Denkmal auch gut vom Auto aus sehen.",
                 "hu": "Az emlékmű az autóból is jól látható.",
                 "ro": "Monumentul poate fi văzut bine și din mașină.",
-                "en": "The monument is clearly visible from the car if it pours."
+                "en": "The monument is clearly visible from the car if it pours.",
+                "pl": "Pomnik jest wyraźnie widoczny z samochodu, jeśli leje."
               }
             }
           ],
@@ -1589,6 +1713,13 @@
               "Use parking garages to stay dry when getting in and out.",
               "Keep a towel in the car to dry off after stops.",
               "Check your wiper blades before starting the trip."
+            ],
+            "pl": [
+              "Uważaj na głębokie kałuże przy przejściach dla pieszych.",
+              "Widoczność może być znacznie ograniczona podczas silnego miejskiego deszczu.",
+              "Korzystaj z garaży, aby pozostać suchym przy wsiadaniu i wysiadaniu.",
+              "Miej w samochodzie ręcznik, by osuszyć się po postojach.",
+              "Sprawdź wycieraczki przed rozpoczęciem podróży."
             ]
           }
         },
@@ -1597,7 +1728,8 @@
             "de": "Im Winter bietet das Auto die nötige Wärme zwischen den Sehenswürdigkeiten von Lubin. Genießen Sie die Fahrt durch die festlich beleuchtete Stadt. Das Historische Museum bietet eine kulturelle Pause in wohliger Temperatur, während Sie den Besuch im Park flexibel gestalten können, um die winterliche Landschaft im hellsten Tageslicht zu erleben.",
             "hu": "Télen az autó biztosítja a szükséges meleget Lubin látnivalói között. Élvezze az autózást a díszesen kivilágított városban. A Történeti Múzeum kulturális kikapcsolódást nyújt kellemes hőmérsékleten, míg a parki látogatást úgy időzítheti, hogy a téli tájat a legszebb nappali fényekben lássa.",
             "ro": "Iarna, mașina oferă căldura necesară între obiectivele din Lubin. Bucurați-vă de drumul prin orașul iluminat festiv. Muzeul de Istorie oferă o pauză culturală la o temperatură plăcută, în timp ce vizita în parc poate fi programată pentru a prinde lumina zilei.",
-            "en": "In winter, your car provides essential warmth between Lubin's attractions. Enjoy driving through the festively lit streets. The Historical Museum offers a cultural escape in cozy temperatures, while the park visit can be timed perfectly to enjoy the winter scenery in the best daylight."
+            "en": "In winter, your car provides essential warmth between Lubin's attractions. Enjoy driving through the festively lit streets. The Historical Museum offers a cultural escape in cozy temperatures, while the park visit can be timed perfectly to enjoy the winter scenery in the best daylight.",
+            "pl": "Zimą samochód zapewnia niezbędne ciepło między atrakcjami Lubina. Ciesz się przejazdem przez świątecznie oświetlone ulice. Muzeum Historyczne oferuje kulturalną ucieczkę w przytulnych temperaturach, a wizyta w parku może być idealnie zaplanowana, aby podziwiać zimowy krajobraz w najlepszym świetle dziennym."
           },
           "stops": [
             {
@@ -1606,7 +1738,8 @@
                 "de": "Vorsicht beim Aussteigen auf möglicherweise glatten Flächen.",
                 "hu": "Vigyázzon a kiszállásnál az esetlegesen jeges felületeken.",
                 "ro": "Atenție la coborâre pe suprafețele care pot fi înghețate.",
-                "en": "Be careful when exiting the car on potentially icy surfaces."
+                "en": "Be careful when exiting the car on potentially icy surfaces.",
+                "pl": "Uważaj przy wysiadaniu z samochodu na potencjalnie oblodzone nawierzchnie."
               }
             },
             {
@@ -1615,7 +1748,8 @@
                 "de": "Kurzer Spaziergang zu den Lichtern am Markt.",
                 "hu": "Rövid séta a piaci fényekhez és dekorációhoz.",
                 "ro": "O scurtă plimbare până la luminile din piață.",
-                "en": "A quick stroll to see the market lights and decor."
+                "en": "A quick stroll to see the market lights and decor.",
+                "pl": "Krótki spacer, by zobaczyć światełka i dekoracje na rynku."
               }
             },
             {
@@ -1624,7 +1758,8 @@
                 "de": "Parken Sie nah am Eingang, um die Kältezeit zu minimieren.",
                 "hu": "Parkoljon közel a bejárathoz a hideg elleni védekezésül.",
                 "ro": "Parcați aproape de intrare pentru a minimiza expunerea la frig.",
-                "en": "Park close to the entrance to minimize time in the cold."
+                "en": "Park close to the entrance to minimize time in the cold.",
+                "pl": "Parkuj blisko wejścia, aby skrócić czas spędzony na zimnie."
               }
             },
             {
@@ -1633,7 +1768,8 @@
                 "de": "Planen Sie Zeit zum Aufwärmen im Museumscafé ein.",
                 "hu": "Tervezzen időt a felmelegedésre a múzeumi kávézóban.",
                 "ro": "Planificați timp pentru încălzire la cafeneaua muzeului.",
-                "en": "Allow time to warm up at the museum café."
+                "en": "Allow time to warm up at the museum café.",
+                "pl": "Zarezerwuj czas na rozgrzanie się w kawiarni muzealnej."
               }
             },
             {
@@ -1642,7 +1778,8 @@
                 "de": "Der Parkplatz ist im Winter oft geräumt und gut nutzbar.",
                 "hu": "A parkoló télen is takarított és jól használható.",
                 "ro": "Parcarea este deszăpezită și ușor de utilizat iarna.",
-                "en": "The parking lot is usually cleared of snow and easy to use."
+                "en": "The parking lot is usually cleared of snow and easy to use.",
+                "pl": "Parking zwykle jest odśnieżany i łatwy w użytkowaniu."
               }
             },
             {
@@ -1651,7 +1788,8 @@
                 "de": "Ein würdevoller Anblick in der winterlichen Stille.",
                 "hu": "Méltóságteljes látvány a téli csendben.",
                 "ro": "O priveliște impresionantă în liniștea iernii.",
-                "en": "A dignified sight in the quiet of winter."
+                "en": "A dignified sight in the quiet of winter.",
+                "pl": "Dostojny widok w zimowej ciszy."
               }
             }
           ],
@@ -1683,6 +1821,13 @@
               "Avoid sudden steering movements on slippery roads.",
               "Don't leave the engine idling unnecessarily in the cold.",
               "Keep an ice scraper easily accessible in the car."
+            ],
+            "pl": [
+              "Upewnij się, że płyn do spryskiwaczy jest przystosowany do zimy.",
+              "Przeznacz dodatkowy czas na znalezienie miejsca parkingowego zimą.",
+              "Unikaj gwałtownych ruchów kierownicą na śliskiej nawierzchni.",
+              "Nie zostawiaj silnika niepotrzebnie włączonego na biegu jałowym w zimnie.",
+              "Miej łatwo dostępny skrobak do szyb w samochodzie."
             ]
           }
         }
@@ -1701,7 +1846,8 @@
             "de": "Zentrale Bushaltestelle (Cluster 1)",
             "hu": "Központi buszmegálló (1. klaszter)",
             "ro": "Stație centrală de autobuz (Cluster 1)",
-            "en": "Central Bus Stop (Cluster 1)"
+            "en": "Central Bus Stop (Cluster 1)",
+            "pl": "Przystanek Centralny (Klaster 1)"
           },
           "coords": [
             16.202,
@@ -1717,7 +1863,8 @@
             "de": "Beginnen Sie hier Ihren Tag. Kaufen Sie eine Tageskarte für Flexibilität.",
             "hu": "Itt kezdje a napot. Vásároljon napijegyet a rugalmasságért.",
             "ro": "Începeți ziua aici. Cumpărați un bilet de o zi pentru flexibilitate.",
-            "en": "Start your day here. Buy a day pass for flexibility."
+            "en": "Start your day here. Buy a day pass for flexibility.",
+            "pl": "Rozpocznij dzień tutaj. Kup bilet całodniowy dla większej elastyczności."
           }
         },
         {
@@ -1725,7 +1872,8 @@
             "de": "Rathaus und Marktplatz",
             "hu": "Városháza és Piactér",
             "ro": "Primăria și Piața Centrală",
-            "en": "Town Hall and Market Square"
+            "en": "Town Hall and Market Square",
+            "pl": "Ratusz i Rynek"
           },
           "coords": [
             16.2015,
@@ -1741,7 +1889,8 @@
             "de": "Der Platz liegt direkt an der Haltestelle.",
             "hu": "A tér közvetlenül a megálló mellett található.",
             "ro": "Piața se află chiar lângă stație.",
-            "en": "The square is located right next to the stop."
+            "en": "The square is located right next to the stop.",
+            "pl": "Rynek znajduje się tuż obok przystanku."
           }
         },
         {
@@ -1749,7 +1898,8 @@
             "de": "Historisches Museum",
             "hu": "Történeti Múzeum",
             "ro": "Muzeul de Istorie",
-            "en": "Historical Museum"
+            "en": "Historical Museum",
+            "pl": "Muzeum Historyczne"
           },
           "coords": [
             16.205,
@@ -1765,7 +1915,8 @@
             "de": "Ein kurzer Spaziergang durch die Altstadtgassen.",
             "hu": "Rövid séta az óváros utcáin.",
             "ro": "O scurtă plimbare pe străduțele orașului vechi.",
-            "en": "A short walk through the old town alleys."
+            "en": "A short walk through the old town alleys.",
+            "pl": "Krótki spacer przez uliczki starówki."
           }
         },
         {
@@ -1773,7 +1924,8 @@
             "de": "Haltestelle am Park (Cluster 2)",
             "hu": "Megálló a parknál (2. klaszter)",
             "ro": "Stația de lângă parc (Cluster 2)",
-            "en": "Bus Stop at the Park (Cluster 2)"
+            "en": "Bus Stop at the Park (Cluster 2)",
+            "pl": "Przystanek przy parku (Klaster 2)"
           },
           "coords": [
             16.213,
@@ -1789,7 +1941,8 @@
             "de": "Nehmen Sie einen Bus in Richtung Wrocławski-Park.",
             "hu": "Menjen busszal a Wrocławski Park irányába.",
             "ro": "Luați un autobuz spre Parcul Wrocławski.",
-            "en": "Take a bus towards Wrocławski Park."
+            "en": "Take a bus towards Wrocławski Park.",
+            "pl": "Wsiądź w autobus w kierunku Parku Wrocławskiego."
           }
         },
         {
@@ -1797,7 +1950,8 @@
             "de": "Park Wrocławski",
             "hu": "Wrocławski Park",
             "ro": "Parcul Wrocławski",
-            "en": "Wrocławski Park"
+            "en": "Wrocławski Park",
+            "pl": "Park Wrocławski"
           },
           "coords": [
             16.215,
@@ -1813,7 +1967,8 @@
             "de": "Entspannen Sie sich nach der Busfahrt im Grünen.",
             "hu": "Pihenjen a zöldben a buszozás után.",
             "ro": "Relaxați-vă în natură după călătoria cu autobuzul.",
-            "en": "Relax in the greenery after the bus ride."
+            "en": "Relax in the greenery after the bus ride.",
+            "pl": "Odpocznij w zieleni po przejażdżce autobusem."
           }
         },
         {
@@ -1821,7 +1976,8 @@
             "de": "Cuprum Arena (Cluster 3)",
             "hu": "Cuprum Aréna (3. klaszter)",
             "ro": "Arena Cuprum (Cluster 3)",
-            "en": "Cuprum Arena (Cluster 3)"
+            "en": "Cuprum Arena (Cluster 3)",
+            "pl": "Cuprum Arena (Klaster 3)"
           },
           "coords": [
             16.185,
@@ -1837,7 +1993,8 @@
             "de": "Eine weitere kurze Busfahrt bringt Sie zum modernen Einkaufszentrum.",
             "hu": "Egy újabb rövid buszút visz el a modern bevásárlóközpontba.",
             "ro": "O altă călătorie scurtă cu autobuzul vă duce la centrul comercial modern.",
-            "en": "Another short bus ride takes you to the modern shopping center."
+            "en": "Another short bus ride takes you to the modern shopping center.",
+            "pl": "Kolejna krótka przejażdżka autobusem zaprowadzi Cię do nowoczesnego centrum handlowego."
           }
         }
       ],
@@ -1845,7 +2002,8 @@
         "de": "Mit einer Tageskarte für den Bus erkunden Sie Lüben flexibel. Starten Sie im Zentrum und spazieren Sie vom Marktplatz zum Historischen Museum. Dieser erste Cluster lässt Sie tief in die Altstadt eintauchen. Anschließend bringt Sie ein Bus bequem zum zweiten Cluster, dem weitläufigen Wrocławski-Park, ideal für eine Mittagspause im Grünen. Eine weitere Busfahrt am Nachmittag führt Sie zum modernen Kontrastprogramm, der Cuprum Arena, wo Sie einkaufen oder eine kulturelle Veranstaltung besuchen können. Diese Tour nutzt den öffentlichen Nahverkehr, um verschiedene Facetten der Stadt mühelos zu verbinden.",
         "hu": "Egy buszos napijeggyel rugalmasan fedezheti fel Lübent. Kezdjen a központban, és sétáljon a Piactértől a Történeti Múzeumig. Ez az első klaszter lehetővé teszi, hogy mélyen elmerüljön az óvárosban. Ezután egy busz kényelmesen elviszi a második klaszterhez, a tágas Wrocławski Parkhoz, amely ideális egy zöldben eltöltött ebédszünethez. Egy újabb délutáni buszozás a modern kontrasztprogramhoz, a Cuprum Arénához vezet, ahol vásárolhat vagy kulturális eseményen vehet részt. Ez a túra a tömegközlekedést használja a város különböző arcainak könnyed összekapcsolására.",
         "ro": "Cu un bilet de o zi pentru autobuz, explorați Lubin în mod flexibil. Începeți în centru și plimbați-vă de la Piața Centrală la Muzeul de Istorie. Acest prim cluster vă permite să vă cufundați adânc în orașul vechi. Apoi, un autobuz vă duce confortabil la al doilea cluster, vastul Parc Wrocławski, ideal pentru o pauză de prânz în natură. O altă călătorie cu autobuzul după-amiaza vă duce la programul de contrast modern, Arena Cuprum, unde puteți face cumpărături sau participa la un eveniment cultural. Acest tur folosește transportul public pentru a conecta fără efort diferite fațete ale orașului.",
-        "en": "With a day pass for the bus, you can explore Lubin flexibly. Start in the center and walk from the Market Square to the Historical Museum. This first cluster lets you dive deep into the old town. Afterwards, a bus takes you comfortably to the second cluster, the spacious Wrocławski Park, ideal for a lunch break in the green. Another bus ride in the afternoon leads you to the modern contrast program, the Cuprum Arena, where you can shop or attend a cultural event. This tour uses public transport to effortlessly connect different facets of the city."
+        "en": "With a day pass for the bus, you can explore Lubin flexibly. Start in the center and walk from the Market Square to the Historical Museum. This first cluster lets you dive deep into the old town. Afterwards, a bus takes you comfortably to the second cluster, the spacious Wrocławski Park, ideal for a lunch break in the green. Another bus ride in the afternoon leads you to the modern contrast program, the Cuprum Arena, where you can shop or attend a cultural event. This tour uses public transport to effortlessly connect different facets of the city.",
+        "pl": "Z biletem całodniowym na autobus możesz elastycznie zwiedzać Lubin. Zacznij w centrum i przejdź z Rynku do Muzeum Historycznego. Ten pierwszy klaster pozwala zanurzyć się w starówce. Następnie autobus wygodnie zawiezie Cię do drugiego klastra, rozległego Parku Wrocławskiego, idealnego na przerwę na lunch w zieleni. Kolejna przejażdżka po południu zaprowadzi Cię do nowoczesnego kontrastu, Cuprum Areny, gdzie możesz zrobić zakupy lub wziąć udział w wydarzeniu kulturalnym. Ta trasa wykorzystuje transport publiczny, aby bez wysiłku łączyć różne oblicza miasta."
       },
       "gastro_picks": {
         "de": [
@@ -2041,6 +2199,12 @@
           "Download an offline schedule or use a transit app.",
           "Be aware of the last bus connection back to your accommodation.",
           "Buses can be crowded during peak hours, so plan accordingly."
+        ],
+        "pl": [
+          "Kup bilet całodniowy, by zaoszczędzić.",
+          "Pobierz rozkład offline lub użyj aplikacji komunikacyjnej.",
+          "Sprawdź ostatnie połączenia autobusowe powrotne do miejsca zakwaterowania.",
+          "Autobusy mogą być zatłoczone w godzinach szczytu, planuj to odpowiednio."
         ]
       },
       "variants": {
@@ -2049,7 +2213,8 @@
             "de": "Lubin mit Bus und Bahn bei Regen ist eine trockene Alternative. Die zentralen Haltestellen bringen Sie nah an den Marktplatz und die Kirche. Mittags bietet das Museum eine lange, wettergeschützte Pause. Den Nachmittag verbringen Sie in der Cuprum Arena, die ideal an den Nahverkehr angebunden ist und eine große Auswahl an wetterunabhängigen Aktivitäten bietet.",
             "hu": "Lubin felfedezése busszal esőben kiváló száraz alternatíva. A központi megállók közel viszik a főtérhez és a templomhoz. Délben a múzeum nyújt hosszú, védett kikapcsolódást. A délutánt töltse a Cuprum Arenában, amely remek tömegközlekedési kapcsolatokkal rendelkezik, és rengeteg beltéri programot kínál.",
             "ro": "Explorarea Lubinului cu transportul public pe ploaie este o alternativă uscată. Stațiile centrale vă lasă aproape de piață și biserică. La amiază, muzeul oferă un refugiu lung. După-amiaza, Cuprum Arena este destinația ideală, fiind bine conectată și oferind multe activități de interior.",
-            "en": "Using Lubin's public transport in the rain is a smart, dry alternative. Central stops drop you near the Market Square and the church. Mid-day, the museum provides a long, weather-protected break. Spend your afternoon at Cuprum Arena, which has excellent transit links and offers plenty of indoor activities."
+            "en": "Using Lubin's public transport in the rain is a smart, dry alternative. Central stops drop you near the Market Square and the church. Mid-day, the museum provides a long, weather-protected break. Spend your afternoon at Cuprum Arena, which has excellent transit links and offers plenty of indoor activities.",
+            "pl": "Korzystanie z komunikacji miejskiej w deszczu to mądra, sucha alternatywa. Centralne przystanki wysadzają Cię blisko Rynku i kościoła. W południe muzeum zapewnia długą, chronioną przed pogodą przerwę. Po południu spędź czas w Cuprum Arenie, która ma doskonałe połączenia i oferuje wiele aktywności w pomieszczeniach."
           },
           "stops": [
             {
@@ -2058,7 +2223,8 @@
                 "de": "Die Haltestelle ist überdacht; warten Sie hier den Guss ab.",
                 "hu": "A megálló fedett; várja meg itt, amíg eláll a zápor.",
                 "ro": "Stația este acoperită; așteptați aici trecerea ploii.",
-                "en": "The stop is covered; wait here for heavy rain to pass."
+                "en": "The stop is covered; wait here for heavy rain to pass.",
+                "pl": "Przystanek jest zadaszony; poczekaj tu, aż ulewa minie."
               }
             },
             {
@@ -2067,7 +2233,8 @@
                 "de": "Nur ein kurzer Fußweg von der Haltestelle entfernt.",
                 "hu": "Csak egy rövid séta a buszmegállótól.",
                 "ro": "La doar o scurtă plimbare de stația de autobuz.",
-                "en": "Just a short walk from the bus stop to the square."
+                "en": "Just a short walk from the bus stop to the square.",
+                "pl": "Zaledwie krótki spacer z przystanku na rynek."
               }
             },
             {
@@ -2076,7 +2243,8 @@
                 "de": "Nutzen Sie die Zeit im Museum, wenn es draußen schüttet.",
                 "hu": "Használja ki a múzeumi időt, ha kint szakad az eső.",
                 "ro": "Folosiți timpul la muzeu dacă afară plouă torențial.",
-                "en": "Maximize your time in the museum if it's pouring outside."
+                "en": "Maximize your time in the museum if it's pouring outside.",
+                "pl": "Wykorzystaj maksymalnie czas w muzeum, jeśli leje na zewnątrz."
               }
             },
             {
@@ -2085,7 +2253,8 @@
                 "de": "Vom Bus sind es nur wenige Meter bis zum Parkeingang.",
                 "hu": "A busztól csak pár méter a park bejárata.",
                 "ro": "De la autobuz sunt doar câțiva metri până la intrarea în parc.",
-                "en": "It's only a few meters from the bus to the park entrance."
+                "en": "It's only a few meters from the bus to the park entrance.",
+                "pl": "To tylko kilka metrów autobusem do wejścia do parku."
               }
             },
             {
@@ -2094,7 +2263,8 @@
                 "de": "Bei Regen sind weniger Besucher hier; genießen Sie die Ruhe.",
                 "hu": "Esőben kevesebb a látogató; élvezze a csendet.",
                 "ro": "Sunt mai puțini vizitatori pe ploaie; bucurați-vă de liniște.",
-                "en": "Fewer visitors in the rain means more peace for you."
+                "en": "Fewer visitors in the rain means more peace for you.",
+                "pl": "Mniej odwiedzających w deszczu oznacza więcej spokoju dla Ciebie."
               }
             },
             {
@@ -2103,7 +2273,8 @@
                 "de": "Perfekt angebunden und komplett wetterfest.",
                 "hu": "Tökéletes közlekedés és teljesen időjárásálló helyszín.",
                 "ro": "Conexiuni perfecte și locație complet protejată de vreme.",
-                "en": "Perfectly connected and a completely weatherproof venue."
+                "en": "Perfectly connected and a completely weatherproof venue.",
+                "pl": "Perfekcyjnie skomunikowane i całkowicie odporne na pogodę miejsce."
               }
             }
           ],
@@ -2135,6 +2306,13 @@
               "Keep your ticket ready to avoid searching for it in the rain.",
               "Buses may experience slight delays during heavy downpours.",
               "Cuprum Arena serves as a major hub for local bus lines."
+            ],
+            "pl": [
+              "Sprawdź rozkłady online, jeśli pogoda nagle się zmieni.",
+              "Na centralnych przystankach często znajdują się elektroniczne wyświetlacze z informacjami w czasie rzeczywistym.",
+              "Miej bilet pod ręką, by nie szukać go w deszczu.",
+              "Autobusy mogą się nieznacznie opóźniać podczas ulewnych deszczów.",
+              "Cuprum Arena jest ważnym węzłem dla lokalnych linii autobusowych."
             ]
           }
         },
@@ -2143,7 +2321,8 @@
             "de": "Dank des gut ausgebauten Busnetzes erreichen Sie die Highlights von Lubin auch im Winter bequem. Die kurzen Wege zwischen Haltestellen und Sehenswürdigkeiten wie dem Markt und der Kirche minimieren die Zeit in der Kälte. Nach einem ausgiebigen Museumsbesuch am Mittag bietet die Cuprum Arena am Nachmittag Wärme und Unterhaltung, bevor Sie die Tour entspannt beenden.",
             "hu": "A jól kiépített buszhálózatnak köszönhetően télen is kényelmesen elérheti Lubin nevezetességeit. A megállók és a látnivalók, mint a főtér és a templom közötti rövid távolság csökkenti a hidegben töltött időt. A déli múzeumlátogatás után a Cuprum Arena meleget és szórakozást nyújt délutánra.",
             "ro": "Datorită rețelei de autobuze bine puse la punct, puteți vizita Lubinul confortabil și iarna. Distanțele scurte între stații și obiective reduc timpul petrecut în frig. După o vizită prelungită la muzeu, Cuprum Arena oferă căldură și divertisment pentru restul după-amiezii.",
-            "en": "Lubin's well-developed bus network makes visiting its highlights easy and comfortable in winter. Short walks between stops and sites like the Market Square and the church minimize your exposure to the cold. After a long museum visit at noon, Cuprum Arena provides warmth and entertainment for the afternoon."
+            "en": "Lubin's well-developed bus network makes visiting its highlights easy and comfortable in winter. Short walks between stops and sites like the Market Square and the church minimize your exposure to the cold. After a long museum visit at noon, Cuprum Arena provides warmth and entertainment for the afternoon.",
+            "pl": "Dobrze rozbudowana sieć autobusowa Lubina ułatwia i uprzyjemnia zwiedzanie jego atrakcji zimą. Krótkie spacery między przystankami a miejscami takimi jak Rynek czy kościół minimalizują ekspozycję na zimno. Po długiej wizycie w muzeum w południe Cuprum Arena zapewnia ciepło i rozrywkę na popołudnie."
           },
           "stops": [
             {
@@ -2152,7 +2331,8 @@
                 "de": "Warten Sie im Inneren der umliegenden Geschäfte bei Kälte.",
                 "hu": "Nagy hidegben várjon a közeli üzletekben.",
                 "ro": "Așteptați în interiorul magazinelor din jur pe ger.",
-                "en": "Wait inside nearby shops if it's exceptionally cold."
+                "en": "Wait inside nearby shops if it's exceptionally cold.",
+                "pl": "Poczekaj wewnątrz pobliskich sklepów, jeśli jest wyjątkowo zimno."
               }
             },
             {
@@ -2161,7 +2341,8 @@
                 "de": "Die Wege zum Markt werden meist schnell geräumt.",
                 "hu": "A főtérhez vezető utakat általában hamar letakarítják.",
                 "ro": "Căile spre piață sunt de obicei curățate rapid.",
-                "en": "Paths leading to the square are usually cleared quickly."
+                "en": "Paths leading to the square are usually cleared quickly.",
+                "pl": "Ścieżki prowadzące do rynku są zwykle szybko odśnieżane."
               }
             },
             {
@@ -2170,7 +2351,8 @@
                 "de": "Hinterlegen Sie schwere Wintermäntel in der Garderobe.",
                 "hu": "Tegye le a nehéz télikabátot a ruhatárban.",
                 "ro": "Lăsați hainele groase de iarnă la garderobă.",
-                "en": "Leave your heavy winter coats at the cloakroom."
+                "en": "Leave your heavy winter coats at the cloakroom.",
+                "pl": "Zostaw ciężkie zimowe płaszcze w szatni."
               }
             },
             {
@@ -2179,7 +2361,8 @@
                 "de": "Nutzen Sie den Bus, um die Beine zwischen den Parks aufzuwärmen.",
                 "hu": "Használja a buszt a lábai felmelegítésére a parkok között.",
                 "ro": "Folosiți autobuzul pentru a vă încălzi între parcuri.",
-                "en": "Use the bus ride to warm up your legs between park areas."
+                "en": "Use the bus ride to warm up your legs between park areas.",
+                "pl": "Wykorzystaj przejazd autobusem, by rozruszać nogi między częściami parku."
               }
             },
             {
@@ -2188,7 +2371,8 @@
                 "de": "Im Winter sind die Tierskulpturen oft fotogen verschneit.",
                 "hu": "Télen az állatszobrok gyakran fotogén módon havasak.",
                 "ro": "Iarna, sculpturile de animale sunt adesea acoperite de zăpadă.",
-                "en": "The animal sculptures look very photogenic when snow-covered."
+                "en": "The animal sculptures look very photogenic when snow-covered.",
+                "pl": "Rzeźby zwierząt wyglądają bardzo fotogenicznie pokryte śniegiem."
               }
             },
             {
@@ -2197,7 +2381,8 @@
                 "de": "Ein idealer Ort, um die Zeit bis zum nächsten Bus zu verbringen.",
                 "hu": "Ideális hely a következő buszig tartó idő eltöltésére.",
                 "ro": "Un loc ideal pentru a aștepta următorul autobuz la căldură.",
-                "en": "An ideal place to spend time while waiting for the next bus."
+                "en": "An ideal place to spend time while waiting for the next bus.",
+                "pl": "Idealne miejsce na spędzenie czasu, czekając na następny autobus."
               }
             }
           ],
@@ -2229,6 +2414,13 @@
               "Wear non-slip footwear for walking to and from bus stops.",
               "Allow for some buffer time when making transit connections.",
               "Use local transit apps for real-time departure information."
+            ],
+            "pl": [
+              "Rozkłady autobusów mogą się nieco różnić z powodu zimowych warunków drogowych.",
+              "Autobusy zwykle utrzymywane są w komfortowej, ciepłej temperaturze.",
+              "Noś obuwie antypoślizgowe na dojściach do i z przystanków.",
+              "Przewiduj zapas czasu przy przesiadkach.",
+              "Używaj lokalnych aplikacji transportowych dla informacji o odjazdach w czasie rzeczywistym."
             ]
           }
         }

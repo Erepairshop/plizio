@@ -21,7 +21,8 @@
             "de": "Altstadtmarkt Tychy",
             "hu": "Tychy Óváros Főtere",
             "ro": "Piața Orașului Vechi din Tychy",
-            "en": "Tychy Old Town Market Square"
+            "en": "Tychy Old Town Market Square",
+            "pl": "Rynek Starego Miasta w Tychach"
           },
           "coords": [
             18.9925,
@@ -36,7 +37,8 @@
             "de": "Beginnen Sie Ihren Tag mit der Atmosphäre des lokalen Lebens.",
             "hu": "Kezdje a napot a helyi életérzés magába szívásával.",
             "ro": "Începeți ziua absorbind atmosfera vieții locale.",
-            "en": "Start your day soaking in the atmosphere of local life."
+            "en": "Start your day soaking in the atmosphere of local life.",
+            "pl": "Zacznij dzień, chłonąc atmosferę lokalnego życia."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Kirche St. Maria Magdalena",
             "hu": "Szent Mária Magdolna-templom",
             "ro": "Biserica Sf. Maria Magdalena",
-            "en": "St. Mary Magdalene Church"
+            "en": "St. Mary Magdalene Church",
+            "pl": "Kościół św. Marii Magdaleny"
           },
           "coords": [
             18.9945,
@@ -59,7 +62,8 @@
             "de": "Bewundern Sie die barocke Architektur und die ruhige Innenausstattung.",
             "hu": "Csodálja meg a barokk építészetet és a békés belső teret.",
             "ro": "Admirați arhitectura barocă și interiorul liniștit.",
-            "en": "Admire the Baroque architecture and the serene interior."
+            "en": "Admire the Baroque architecture and the serene interior.",
+            "pl": "Podziwiaj barokową architekturę i spokojne wnętrze."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Stadtmuseum Tychy",
             "hu": "Tychy Városi Múzeum",
             "ro": "Muzeul Municipal Tychy",
-            "en": "Tychy City Museum"
+            "en": "Tychy City Museum",
+            "pl": "Muzeum Miasta Tychy"
           },
           "coords": [
             18.9901,
@@ -82,7 +87,8 @@
             "de": "Tauchen Sie ein in die reiche Geschichte der Stadt, vom Mittelalter bis heute.",
             "hu": "Merüljön el a város gazdag történelmében a középkortól napjainkig.",
             "ro": "Cufundați-vă în istoria bogată a orașului, din Evul Mediu până în prezent.",
-            "en": "Dive into the rich history of the city, from medieval times to the present day."
+            "en": "Dive into the rich history of the city, from medieval times to the present day.",
+            "pl": "Zanurz się w bogatej historii miasta, od średniowiecza po czasy współczesne."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Städtische Kunstgalerie Obok",
             "hu": "Obok Városi Művészeti Galéria",
             "ro": "Galeria de Artă Municipală Obok",
-            "en": "Obok Municipal Art Gallery"
+            "en": "Obok Municipal Art Gallery",
+            "pl": "Galeria Obok"
           },
           "coords": [
             18.988,
@@ -105,7 +112,8 @@
             "de": "Entdecken Sie zeitgenössische polnische Kunst in einem intimen Rahmen.",
             "hu": "Fedezze fel a kortárs lengyel művészetet egy meghitt környezetben.",
             "ro": "Descoperiți arta poloneză contemporană într-un cadru intim.",
-            "en": "Discover contemporary Polish art in an intimate setting."
+            "en": "Discover contemporary Polish art in an intimate setting.",
+            "pl": "Odkryj współczesną sztukę polską w kameralnej przestrzeni."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Brauereimuseum Tyskie",
             "hu": "Tyskie Sörfőzde Múzeum",
             "ro": "Muzeul Fabricii de Bere Tyskie",
-            "en": "Tyskie Brewery Museum"
+            "en": "Tyskie Brewery Museum",
+            "pl": "Muzeum Browaru Tyskie"
           },
           "coords": [
             18.973,
@@ -128,7 +137,8 @@
             "de": "Buchen Sie die Tour im Voraus, um eine Verkostung des berühmten Bieres zu genießen.",
             "hu": "Foglaljon előre túrát, hogy megkóstolhassa a híres sört.",
             "ro": "Rezervați turul în avans pentru a vă bucura de o degustare a faimoasei beri.",
-            "en": "Book the tour in advance to enjoy a tasting of the famous beer."
+            "en": "Book the tour in advance to enjoy a tasting of the famous beer.",
+            "pl": "Zarezerwuj zwiedzanie wcześniej, by móc skorzystać z degustacji słynnego piwa."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Paprocany-See",
             "hu": "Paprocany-tó",
             "ro": "Lacul Paprocany",
-            "en": "Paprocany Lake"
+            "en": "Paprocany Lake",
+            "pl": "Jezioro Paprocany"
           },
           "coords": [
             18.9655,
@@ -151,7 +162,8 @@
             "de": "Ein perfekter Ort, um den Tag bei einem Spaziergang am Wasser ausklingen zu lassen.",
             "hu": "Tökéletes hely a nap lezárására egy tóparti sétával.",
             "ro": "Un loc perfect pentru a încheia ziua cu o plimbare pe malul apei.",
-            "en": "A perfect spot to end your day with a walk by the water."
+            "en": "A perfect spot to end your day with a walk by the water.",
+            "pl": "Idealne miejsce na zakończenie dnia spacerem nad wodą."
           }
         }
       ],
@@ -159,7 +171,8 @@
         "de": "Ihr Tag in Tychy beginnt auf dem historischen Altstadtmarkt, dem Herzen der Stadt. Am Vormittag erkunden Sie das sakrale Erbe in der St. Maria Magdalena Kirche, gefolgt von einer Reise in die Vergangenheit im Stadtmuseum. Der Nachmittag steht im Zeichen der Kultur und Industrie. Sie entdecken moderne Kunst in der Obok-Galerie und tauchen dann in die weltberühmte Brautradition im Tyskie-Museum ein, inklusive einer wohlverdienten Verkostung. Zum Abschluss des Tages entspannen Sie bei einem Spaziergang am malerischen Paprocany-See und genießen die friedliche Atmosphäre, während die Sonne untergeht.",
         "hu": "Tychy-i napja a történelmi Óváros Főterén, a város szívében kezdődik. Délelőtt a Szent Mária Magdolna-templomban fedezi fel a szakrális örökséget, majd a Városi Múzeumban utazik a múltba. A délután a kultúra és az ipar jegyében telik. Felfedezi a modern művészetet az Obok Galériában, majd elmerül a világhírű sörfőzési hagyományokban a Tyskie Múzeumban, egy jól megérdemelt kóstolóval egybekötve. A nap végén a festői Paprocany-tó partján sétálva pihenhet, és élvezheti a békés hangulatot, ahogy a nap lemegy.",
         "ro": "Ziua dumneavoastră în Tychy începe în Piața istorică a Orașului Vechi, inima orașului. Dimineața explorați moștenirea sacră la Biserica Sf. Maria Magdalena, urmată de o călătorie în trecut la Muzeul Municipal. După-amiaza este dedicată culturii și industriei. Descoperiți arta modernă la Galeria Obok, apoi pătrundeți în tradiția de renume mondial a berii la Muzeul Tyskie, inclusiv o degustare binemeritată. La finalul zilei, vă relaxați cu o plimbare pe malul pitorescului Lac Paprocany, bucurându-vă de atmosfera liniștită la apus.",
-        "en": "Your day in Tychy starts at the historic Old Town Market Square, the heart of the city. In the morning, you'll explore the sacred heritage at St. Mary Magdalene Church, followed by a journey into the past at the City Museum. The afternoon is dedicated to culture and industry. You'll discover modern art at the Obok Gallery, then delve into the world-famous brewing tradition at the Tyskie Museum, including a well-deserved tasting. To cap off the day, you'll relax with a walk along the picturesque Paprocany Lake, enjoying the peaceful atmosphere as the sun sets."
+        "en": "Your day in Tychy starts at the historic Old Town Market Square, the heart of the city. In the morning, you'll explore the sacred heritage at St. Mary Magdalene Church, followed by a journey into the past at the City Museum. The afternoon is dedicated to culture and industry. You'll discover modern art at the Obok Gallery, then delve into the world-famous brewing tradition at the Tyskie Museum, including a well-deserved tasting. To cap off the day, you'll relax with a walk along the picturesque Paprocany Lake, enjoying the peaceful atmosphere as the sun sets.",
+        "pl": "Twój dzień w Tychach zaczyna się na zabytkowym Rynku Starego Miasta, sercu miasta. Rano zwiedzisz sakralne dziedzictwo w Kościele św. Marii Magdaleny, a następnie poznasz przeszłość w Muzeum Miasta. Popołudnie poświęcone jest kulturze i przemyśle: odkryjesz współczesną sztukę w Galerii Obok, potem zanurzysz się w światową tradycję browarniczą w Muzeum Tyskim, w tym na zasłużonej degustacji. Dzień zakończysz relaksującym spacerem wokół malowniczego Jeziora Paprocany, ciesząc się spokojem o zachodzie słońca."
       },
       "gastro_picks": {
         "de": [
@@ -351,6 +364,11 @@
           "Wear comfortable shoes as you will be doing a lot of walking.",
           "Check museum opening times in advance, especially on Mondays.",
           "Bring a reusable water bottle to stay hydrated."
+        ],
+        "pl": [
+          "Noś wygodne buty, będziesz dużo chodzić.",
+          "Sprawdź godziny otwarcia muzeów z wyprzedzeniem, zwłaszcza w poniedziałki.",
+          "Weź ze sobą wielorazową butelkę na wodę, by pozostać nawodnionym."
         ]
       },
       "variants": {
@@ -359,7 +377,8 @@
             "de": "Beginnen Sie Ihren Tag am Marktplatz unter einem Regenschirm und bewundern Sie die Architektur. Die Kirche St. Maria Magdalena bietet einen trockenen Rückzugsort voller Geschichte. Mittags erkunden Sie die Ausstellungen im Stadtmuseum und in der Obok-Galerie. Den Nachmittag verbringen Sie gemütlich im Brauereimuseum. Am Abend genießen Sie die melancholische Stimmung am Paprocany-See.",
             "hu": "Kezdje a napot a Fő téren egy esernyő alatt, megcsodálva a környező épületeket. A Szent Mária Magdolna templom tökéletes fedett menedék a reggeli záporok elől. Délben a Városi Múzeum és az Obok Galéria kínál száraz kulturális élményeket. A délutánt töltse a Tyskie Sörfőzde épületében. Este a Paprocany-tó partján a vízen kopogó eső látványa zárja a napot.",
             "ro": "Începeți ziua în Piața Veche sub o umbrelă, admirând arhitectura locală. Biserica Sf. Maria Magdalena oferă un refugiu uscat și plin de istorie. La prânz, explorați muzeul orașului și galeria Obok, ferit de ploaie. Petreceți după-amiaza în interiorul muzeului berăriei Tyskie. Seara, bucurați-vă de atmosfera melancolică a lacului Paprocany de pe promenada acoperită.",
-            "en": "Start your day at the Market Square with an umbrella, admiring the historic surroundings. St. Mary Magdalene Church provides a dry and peaceful refuge. Spend your midday exploring the City Museum and Obok Gallery indoors. The Tyskie Brewery Museum offers a perfect indoor afternoon activity. End the day at Paprocany Lake, watching the rain dance on the water from the promenade."
+            "en": "Start your day at the Market Square with an umbrella, admiring the historic surroundings. St. Mary Magdalene Church provides a dry and peaceful refuge. Spend your midday exploring the City Museum and Obok Gallery indoors. The Tyskie Brewery Museum offers a perfect indoor afternoon activity. End the day at Paprocany Lake, watching the rain dance on the water from the promenade.",
+            "pl": "Rozpocznij dzień na Rynku z parasolem, podziwiając historyczne otoczenie. Kościół św. Marii Magdaleny zapewnia suche i spokojne schronienie. Południe spędź, zwiedzając Muzeum Miasta i Galerię Obok w pomieszczeniach. Muzeum Browaru Tyskie to idealna aktywność na deszczowe popołudnie. Zakończ dzień nad Jeziorem Paprocany, obserwując deszcz tańczący na wodzie z promenady."
           },
           "stops": [
             {
@@ -368,7 +387,8 @@
                 "de": "Nutzen Sie die Arkaden der umliegenden Gebäude als Regenschutz.",
                 "hu": "Használja a környékbeli épületek árkádjait eső elleni védelemként.",
                 "ro": "Folosiți arcadele clădirilor din jur pentru a vă proteja de ploaie.",
-                "en": "Use the arcades of surrounding buildings for rain protection."
+                "en": "Use the arcades of surrounding buildings for rain protection.",
+                "pl": "Wykorzystaj arkady otaczających budynków jako ochronę przed deszczem."
               }
             },
             {
@@ -377,7 +397,8 @@
                 "de": "Ein idealer Ort, um einen starken Regenschauer in Ruhe abzuwarten.",
                 "hu": "Ideális hely egy intenzív zápor nyugodt kivárásához.",
                 "ro": "Un loc ideal pentru a aștepta trecerea unei ploi torențiale în liniște.",
-                "en": "An ideal place to wait out a heavy downpour in peace."
+                "en": "An ideal place to wait out a heavy downpour in peace.",
+                "pl": "Idealne miejsce, by spokojnie przeczekać silny ulewny deszcz."
               }
             },
             {
@@ -386,7 +407,8 @@
                 "de": "Hinterlassen Sie nasse Mäntel in der Garderobe vor der Besichtigung.",
                 "hu": "A vizes kabátokat hagyja a ruhatárban a kiállítás megtekintése előtt.",
                 "ro": "Lăsați haina umedă la garderobă înainte de a vizita expoziția.",
-                "en": "Leave wet coats in the cloakroom before touring the exhibition."
+                "en": "Leave wet coats in the cloakroom before touring the exhibition.",
+                "pl": "Zostaw mokre płaszcze w szatni przed zwiedzaniem wystawy."
               }
             },
             {
@@ -395,7 +417,8 @@
                 "de": "Kompakte Galerie, perfekt für einen kurzen Zwischenstopp im Trockenen.",
                 "hu": "Kompakt galéria, tökéletes egy rövid, száraz megállóhoz.",
                 "ro": "Galerie compactă, perfectă pentru o scurtă oprire la adăpost.",
-                "en": "Compact gallery, perfect for a short dry stopover."
+                "en": "Compact gallery, perfect for a short dry stopover.",
+                "pl": "Kameralna galeria, doskonała na krótki suchy postój."
               }
             },
             {
@@ -404,7 +427,8 @@
                 "de": "Die gesamte Tour findet im Innenbereich statt, ideal bei Regen.",
                 "hu": "A teljes túra fedett területen zajlik, ideális esős időben.",
                 "ro": "Întregul tur are loc în interior, ideal pe timp de ploaie.",
-                "en": "The entire tour takes place indoors, ideal for rainy weather."
+                "en": "The entire tour takes place indoors, ideal for rainy weather.",
+                "pl": "Cała wycieczka odbywa się w pomieszczeniach, idealna na deszczową pogodę."
               }
             },
             {
@@ -413,7 +437,8 @@
                 "de": "Die hölzernen Stege können bei Nässe etwas rutschig sein.",
                 "hu": "A fa stégek nedvesen kissé csúszósak lehetnek.",
                 "ro": "Pontonul de lemn poate fi ușor alunecos când este ud.",
-                "en": "The wooden piers can be slightly slippery when wet."
+                "en": "The wooden piers can be slightly slippery when wet.",
+                "pl": "Drewniane pomosty mogą być nieco śliskie, gdy są mokre."
               }
             }
           ],
@@ -441,6 +466,12 @@
               "Group museum visits together to minimize time spent outdoors.",
               "The Brewery offers a lengthy indoor program for rainy afternoons.",
               "Use lakeside cafés as dry vantage points to enjoy the view."
+            ],
+            "pl": [
+              "Noś wodoodporne buty na spacer między Starym Miastem a Browarem.",
+              "Grupuj wizyty w muzeach, aby zminimalizować czas na zewnątrz.",
+              "Browar oferuje długi program wewnątrz na deszczowe popołudnia.",
+              "Wykorzystaj kawiarnie nad jeziorem jako suche punkty widokowe, by cieszyć się krajobrazem."
             ]
           }
         },
@@ -449,7 +480,8 @@
             "de": "Erleben Sie den winterlichen Charme des Marktplatzes am Morgen. In der beheizten Maria-Magdalena-Kirche finden Sie Wärme und Besinnung. Mittags bieten das Stadtmuseum und die Galerie kulturelle Wärme. Das Highlight ist die Brauerei Tyskie, wo die historische Atmosphäre im Winter besonders gemütlich wirkt. Ein kurzer Spaziergang am gefrorenen See beendet den Tag vor dem frühen Sonnenuntergang.",
             "hu": "Élje át a Fő tér téli báját a reggeli órákban. A fűtött Szent Mária Magdolna templomban melegre és nyugalomra lelhet. Délben a Városi Múzeum és a galéria nyújt menedéket a hideg elől. A nap fénypontja a Tyskie Sörfőzde, ahol a történelmi környezet télen különösen otthonos. A befagyott tóparti séta után korán beköszönt az este.",
             "ro": "Experimentați farmecul iernii în Piața Veche dimineața. Găsiți căldură și liniște în biserica încălzită Sf. Maria Magdalena. La prânz, muzeul orașului și galeria oferă un refugiu cultural călduros. Punctul culminant este berăria Tyskie, a cărei atmosferă istorică este foarte primitoare iarna. O scurtă plimbare pe malul lacului înghețat încheie ziua înainte de apusul timpuriu.",
-            "en": "Experience the winter charm of the Market Square in the morning. Find warmth and reflection inside the heated St. Mary Magdalene Church. At midday, the City Museum and gallery offer a cultural escape from the cold. The highlight is the Tyskie Brewery, where the historical atmosphere feels especially cozy in winter. A short walk by the frozen lake concludes the day before the early sunset."
+            "en": "Experience the winter charm of the Market Square in the morning. Find warmth and reflection inside the heated St. Mary Magdalene Church. At midday, the City Museum and gallery offer a cultural escape from the cold. The highlight is the Tyskie Brewery, where the historical atmosphere feels especially cozy in winter. A short walk by the frozen lake concludes the day before the early sunset.",
+            "pl": "Poczuj zimowy urok Rynku rano. Znajdź ciepło i wyciszenie w ogrzewanym kościele św. Marii Magdaleny. W południe Muzeum Miasta i galeria oferują kulturalne schronienie przed zimnem. Atrakcją jest Browar Tyskie, gdzie historyczna atmosfera jest wyjątkowo przytulna zimą. Krótki spacer wokół zamarzniętego jeziora kończy dzień przed wczesnym zmierzchem."
           },
           "stops": [
             {
@@ -458,7 +490,8 @@
                 "de": "Achten Sie auf Glatteis auf dem Kopfsteinpflaster des Platzes.",
                 "hu": "Vigyázzon a jegesedésre a tér macskaköves részein.",
                 "ro": "Atenție la porțiunile de gheață pe pavajul de piatră al pieței.",
-                "en": "Watch out for icy patches on the square's cobblestones."
+                "en": "Watch out for icy patches on the square's cobblestones.",
+                "pl": "Uważaj na oblodzone fragmenty na brukowanych kostkach rynku."
               }
             },
             {
@@ -467,7 +500,8 @@
                 "de": "Oft weihnachtlich geschmückt und angenehm temperiert.",
                 "hu": "Gyakran karácsonyi díszben pompázik és kellemesen temperált.",
                 "ro": "Adesea decorată de Crăciun și menținută la o temperatură plăcută.",
-                "en": "Often decorated for Christmas and kept at a comfortable temperature."
+                "en": "Often decorated for Christmas and kept at a comfortable temperature.",
+                "pl": "Często dekorowane na Boże Narodzenie i utrzymywane w komfortowej temperaturze."
               }
             },
             {
@@ -476,7 +510,8 @@
                 "de": "Nutzen Sie die Wärme der Innenräume für eine längere Pause.",
                 "hu": "Használja ki a belső terek melegét egy hosszabb pihenőre.",
                 "ro": "Profitați de căldura din interior pentru o pauză prelungită.",
-                "en": "Take advantage of the indoor warmth for an extended break."
+                "en": "Take advantage of the indoor warmth for an extended break.",
+                "pl": "Skorzystaj z wewnętrznego ciepła na dłuższą przerwę."
               }
             },
             {
@@ -485,7 +520,8 @@
                 "de": "Kleiner, gut beheizter Raum für Kunstliebhaber.",
                 "hu": "Kicsi, jól fűtött helyszín a művészet kedvelőinek.",
                 "ro": "Spațiu mic și bine încălzit pentru iubitorii de artă.",
-                "en": "Small, well-heated space for art enthusiasts."
+                "en": "Small, well-heated space for art enthusiasts.",
+                "pl": "Mała, dobrze ogrzana przestrzeń dla miłośników sztuki."
               }
             },
             {
@@ -494,7 +530,8 @@
                 "de": "Die Verkostung am Ende wärmt nach dem Rundgang gut auf.",
                 "hu": "A túra végi kóstoló jól felmelegít a látogatás után.",
                 "ro": "Degustarea de la final vă va încălzi după turul muzeului.",
-                "en": "The tasting at the end warms you up nicely after the tour."
+                "en": "The tasting at the end warms you up nicely after the tour.",
+                "pl": "Degustacja na koniec przyjemnie rozgrzewa po zwiedzaniu."
               }
             },
             {
@@ -503,7 +540,8 @@
                 "de": "Der Wind am See kann im Winter sehr schneidend sein.",
                 "hu": "A tónál fújó szél télen nagyon metsző lehet.",
                 "ro": "Vântul de la lac poate fi foarte tăios în timpul iernii.",
-                "en": "The wind at the lake can be very biting in winter."
+                "en": "The wind at the lake can be very biting in winter.",
+                "pl": "Wiatr nad jeziorem może być bardzo przenikliwy zimą."
               }
             }
           ],
@@ -531,6 +569,12 @@
               "Sunset is around 16:00, so plan your lake visit before dark.",
               "Lakeside paths can be difficult to navigate in deep snow.",
               "Warm up in local cafés between the different stops."
+            ],
+            "pl": [
+              "Ubieraj się warstwowo, ponieważ muzea są dobrze ogrzane w porównaniu z zewnątrz.",
+              "Zachód słońca jest około 16:00, więc zaplanuj wizytę nad jeziorem przed zmrokiem.",
+              "Ścieżki nad jeziorem mogą być trudne do pokonania przy głębokim śniegu.",
+              "Ogrzej się w lokalnych kawiarniach między kolejnymi przystankami."
             ]
           }
         }
@@ -549,7 +593,8 @@
             "de": "Altstadtmarkt Tychy",
             "hu": "Tychy Óváros Főtere",
             "ro": "Piața Orașului Vechi din Tychy",
-            "en": "Tychy Old Town Market Square"
+            "en": "Tychy Old Town Market Square",
+            "pl": "Rynek Starego Miasta w Tychach"
           },
           "coords": [
             18.9925,
@@ -564,7 +609,8 @@
             "de": "Starten Sie hier mit einem Kaffee, bevor Sie in die Pedale treten.",
             "hu": "Indítson egy kávéval, mielőtt nyeregbe pattan.",
             "ro": "Începeți cu o cafea aici înainte de a pedala.",
-            "en": "Start with a coffee here before you start pedaling."
+            "en": "Start with a coffee here before you start pedaling.",
+            "pl": "Zacznij od kawy tutaj, zanim ruszysz na rower."
           }
         },
         {
@@ -572,7 +618,8 @@
             "de": "Kirche St. Maria Magdalena",
             "hu": "Szent Mária Magdolna-templom",
             "ro": "Biserica Sf. Maria Magdalena",
-            "en": "St. Mary Magdalene Church"
+            "en": "St. Mary Magdalene Church",
+            "pl": "Kościół św. Marii Magdaleny"
           },
           "coords": [
             18.9945,
@@ -587,7 +634,8 @@
             "de": "Schließen Sie Ihr Fahrrad sicher ab, bevor Sie die Kirche betreten.",
             "hu": "Biztonságosan zárja le a kerékpárját, mielőtt belép a templomba.",
             "ro": "Încuiați-vă bicicleta în siguranță înainte de a intra în biserică.",
-            "en": "Lock your bike securely before entering the church."
+            "en": "Lock your bike securely before entering the church.",
+            "pl": "Zamknij rower na solidny zamek przed wejściem do kościoła."
           }
         },
         {
@@ -595,7 +643,8 @@
             "de": "Stadtmuseum Tychy",
             "hu": "Tychy Városi Múzeum",
             "ro": "Muzeul Municipal Tychy",
-            "en": "Tychy City Museum"
+            "en": "Tychy City Museum",
+            "pl": "Muzeum Miasta Tychy"
           },
           "coords": [
             18.9901,
@@ -610,7 +659,8 @@
             "de": "Eine gute Gelegenheit, um mehr über die Stadt zu erfahren.",
             "hu": "Jó alkalom többet megtudni a városról.",
             "ro": "O bună oportunitate de a învăța mai multe despre oraș.",
-            "en": "A good opportunity to learn more about the city."
+            "en": "A good opportunity to learn more about the city.",
+            "pl": "Dobra okazja, by dowiedzieć się więcej o mieście."
           }
         },
         {
@@ -618,7 +668,8 @@
             "de": "Brauereimuseum Tyskie",
             "hu": "Tyskie Sörfőzde Múzeum",
             "ro": "Muzeul Fabricii de Bere Tyskie",
-            "en": "Tyskie Brewery Museum"
+            "en": "Tyskie Brewery Museum",
+            "pl": "Muzeum Browaru Tyskie"
           },
           "coords": [
             18.973,
@@ -633,7 +684,8 @@
             "de": "Die Tour ist informativ, aber denken Sie daran: kein Radfahren nach der Bierprobe!",
             "hu": "Az idegenvezetés informatív, de ne feledje: sörkóstolás után nincs biciklizés!",
             "ro": "Turul este informativ, dar amintiți-vă: nu mergeți cu bicicleta după degustarea berii!",
-            "en": "The tour is informative, but remember: no cycling after the beer tasting!"
+            "en": "The tour is informative, but remember: no cycling after the beer tasting!",
+            "pl": "Wycieczka jest pouczająca, ale pamiętaj: po degustacji nie jeździ się na rowerze!"
           }
         },
         {
@@ -641,7 +693,8 @@
             "de": "Bärenpark",
             "hu": "Medvepark",
             "ro": "Parcul Urșilor",
-            "en": "Bear Park"
+            "en": "Bear Park",
+            "pl": "Park Niedźwiadków"
           },
           "coords": [
             18.958,
@@ -656,7 +709,8 @@
             "de": "Ein schöner Ort für eine kurze Pause im Grünen.",
             "hu": "Szép hely egy rövid pihenőre a zöldben.",
             "ro": "Un loc frumos pentru o scurtă pauză în natură.",
-            "en": "A nice place for a short break in the green."
+            "en": "A nice place for a short break in the green.",
+            "pl": "Miłe miejsce na krótką przerwę w zieleni."
           }
         },
         {
@@ -664,7 +718,8 @@
             "de": "Paprocany-See",
             "hu": "Paprocany-tó",
             "ro": "Lacul Paprocany",
-            "en": "Paprocany Lake"
+            "en": "Paprocany Lake",
+            "pl": "Jezioro Paprocany"
           },
           "coords": [
             18.9655,
@@ -679,7 +734,8 @@
             "de": "Radfahren Sie um den See herum für fantastische Ausblicke.",
             "hu": "Kerékpározzon körbe a tó körül a fantasztikus kilátásért.",
             "ro": "Mergeți cu bicicleta în jurul lacului pentru vederi fantastice.",
-            "en": "Cycle around the lake for fantastic views."
+            "en": "Cycle around the lake for fantastic views.",
+            "pl": "Objedź jezioro rowerem dla fantastycznych widoków."
           }
         },
         {
@@ -687,7 +743,8 @@
             "de": "Winterstadion",
             "hu": "Téli Stadion",
             "ro": "Stadionul de iarnă",
-            "en": "Winter Stadium"
+            "en": "Winter Stadium",
+            "pl": "Stadion Zimowy"
           },
           "coords": [
             18.998,
@@ -702,7 +759,8 @@
             "de": "Überprüfen Sie den Spielplan, vielleicht erwischen Sie ein Eishockeyspiel!",
             "hu": "Ellenőrizze a menetrendet, talán elcsíp egy jégkorongmeccset!",
             "ro": "Verificați programul, poate prindeți un meci de hochei!",
-            "en": "Check the schedule, you might catch an ice hockey game!"
+            "en": "Check the schedule, you might catch an ice hockey game!",
+            "pl": "Sprawdź grafik, możesz trafić na mecz hokejowy!"
           }
         }
       ],
@@ -710,7 +768,8 @@
         "de": "Schwingen Sie sich in den Sattel und beginnen Sie Ihre Tychy-Radtour auf dem Altstadtmarkt. Nach kurzen Stopps an der ehrwürdigen Kirche St. Maria Magdalena und dem Stadtmuseum führt Sie Ihre Route zum industriellen Herzstück der Stadt: dem Tyskie Brauereimuseum. Nach einer ausgiebigen Mittagspause und Tour (ohne Radfahren danach!), radeln Sie weiter ins Grüne. Der Nachmittag gehört der Natur: Zuerst eine Pause im ruhigen Bärenpark, gefolgt von einer entspannten Runde um den wunderschönen Paprocany-See. Zum Abschluss rollen Sie zum Winterstadion, einem Zentrum sportlicher Leidenschaft, um den aktiven Tag ausklingen zu lassen.",
         "hu": "Pattanjon nyeregbe, és kezdje Tychy-i kerékpártúráját az Óváros Főterén. A tiszteletreméltó Szent Mária Magdolna-templomnál és a Városi Múzeumnál tett rövid megállók után az útvonal a város ipari szívébe, a Tyskie Sörgyári Múzeumba vezet. Egy kiadós ebédszünet és túra után (utána nincs biciklizés!) tekerjen tovább a zöldbe. A délután a természeté: először egy pihenő a csendes Medveparkban, majd egy laza kör a gyönyörű Paprocany-tó körül. Végül a Téli Stadionhoz gurul, a sportos szenvedély központjához, hogy lezárja az aktív napot.",
         "ro": "Urcați în șa și începeți turul cu bicicleta prin Tychy din Piața Orașului Vechi. După opriri scurte la venerabila Biserică Sf. Maria Magdalena și la Muzeul Municipal, traseul vă duce la inima industrială a orașului: Muzeul Fabricii de Bere Tyskie. După o pauză de prânz consistentă și un tur (fără ciclism după aceea!), pedalați mai departe spre zonele verzi. După-amiaza este dedicată naturii: mai întâi o pauză în liniștitul Parc al Urșilor, urmată de o tură relaxantă în jurul frumosului Lac Paprocany. În final, vă îndreptați spre Stadionul de Iarnă, un centru al pasiunii sportive, pentru a încheia ziua activă.",
-        "en": "Get on your bike and start your Tychy cycling tour at the Old Town Market Square. After short stops at the venerable St. Mary Magdalene Church and the City Museum, your route takes you to the industrial heart of the city: the Tyskie Brewery Museum. After a hearty lunch break and tour (no cycling afterward!), pedal on to the green spaces. The afternoon belongs to nature: first a break in the quiet Bear Park, followed by a relaxed lap around the beautiful Paprocany Lake. Finally, you'll roll to the Winter Stadium, a center of sporting passion, to round off an active day."
+        "en": "Get on your bike and start your Tychy cycling tour at the Old Town Market Square. After short stops at the venerable St. Mary Magdalene Church and the City Museum, your route takes you to the industrial heart of the city: the Tyskie Brewery Museum. After a hearty lunch break and tour (no cycling afterward!), pedal on to the green spaces. The afternoon belongs to nature: first a break in the quiet Bear Park, followed by a relaxed lap around the beautiful Paprocany Lake. Finally, you'll roll to the Winter Stadium, a center of sporting passion, to round off an active day.",
+        "pl": "Wskocz na rower i rozpocznij wycieczkę po Tychach na Rynku Starego Miasta. Po krótkich postojach przy zabytkowym kościele św. Marii Magdaleny i Muzeum Miasta trasa prowadzi do przemysłowego serca miasta: Muzeum Browaru Tyskie. Po solidnym lunchu i zwiedzaniu (bez jazdy na rowerze po degustacji!) pedałuj dalej do terenów zielonych. Popołudnie należy do przyrody: najpierw przerwa w spokojnym Parku Niedźwiadków, potem relaksująca pętla wokół pięknego Jeziora Paprocany. Na koniec dojedziesz do Stadionu Zimowego, centrum sportowych emocji, by zwieńczyć aktywny dzień."
       },
       "gastro_picks": {
         "de": [
@@ -902,6 +961,11 @@
           "Bring a good bike lock.",
           "A map or GPS is useful for navigating between sights.",
           "Check the weather forecast before you set off."
+        ],
+        "pl": [
+          "Zabierz dobry zamek do roweru.",
+          "Mapa lub GPS przydają się przy nawigacji między atrakcjami.",
+          "Sprawdź prognozę pogody przed wyjazdem."
         ]
       },
       "variants": {
@@ -910,7 +974,8 @@
             "de": "Eine Radtour im Regen erfordert gute Kleidung, beginnt aber stimmungsvoll am Marktplatz. Besuchen Sie die Kirche und das Stadtmuseum für trockene Pausen. Die Fahrt zur Brauerei ist kurz, dort können Sie sich lange im Inneren aufhalten. Der Bärenpark und der See wirken bei Regen fast mystisch. Beenden Sie die Tour am Winterstadion, einem soliden Zielpunkt bei jedem Wetter.",
             "hu": "Az esős bringázás jó felszerelést igényel, de a Fő téren hangulatosan indul. A templom és a múzeum kiváló megállók a száraz pihenéshez. A sörfőzdéig tartó út rövid, ott hosszan elidőzhet bent. A Medve-park és a tó esőben szinte misztikus látványt nyújt. A túrát a Téli Stadionnál zárja, amely minden időben biztos pont.",
             "ro": "O plimbare cu bicicleta pe ploaie necesită echipament bun, dar începe atmosferic în Piața Veche. Vizitați biserica și muzeul pentru pauze uscate. Drumul către berărie este scurt, permițând o ședere lungă în interior. Parcul Ursului și lacul par aproape mistice pe ploaie. Încheiați turul la Stadionul de Iarnă, un punct final solid pe orice vreme.",
-            "en": "Cycling in the rain requires good gear but starts atmospherically at the Market Square. Visit the church and City Museum for dry breaks. The ride to the Brewery is short, allowing for a long indoor stay. Bear Park and the lake look almost mystical in the rain. Finish your tour at the Winter Stadium, a solid destination regardless of weather."
+            "en": "Cycling in the rain requires good gear but starts atmospherically at the Market Square. Visit the church and City Museum for dry breaks. The ride to the Brewery is short, allowing for a long indoor stay. Bear Park and the lake look almost mystical in the rain. Finish your tour at the Winter Stadium, a solid destination regardless of weather.",
+            "pl": "Jazda rowerem w deszczu wymaga dobrego wyposażenia, ale zaczyna się nastrojowo na Rynku. Odwiedź kościół i Muzeum Miasta dla suchych przerw. Dojazd do Browaru jest krótki, co pozwala na długi pobyt wewnątrz. Park Niedźwiadków i jezioro wyglądają niemal mitycznie w deszczu. Zakończ wycieczkę na Stadionie Zimowym, solidnym celu bez względu na pogodę."
           },
           "stops": [
             {
@@ -919,7 +984,8 @@
                 "de": "Vorsicht beim Bremsen auf nassem Kopfsteinpflaster.",
                 "hu": "Vigyázzon a fékezéssel a nedves macskakövön.",
                 "ro": "Atenție la frânare pe pavajul de piatră umed.",
-                "en": "Be careful when braking on wet cobblestones."
+                "en": "Be careful when braking on wet cobblestones.",
+                "pl": "Uważaj przy hamowaniu na mokrych kostkach brukowych."
               }
             },
             {
@@ -928,7 +994,8 @@
                 "de": "Stellen Sie Ihr Rad an einem geschützten Ort ab.",
                 "hu": "Helyezze a kerékpárt védettebb helyre a megálló alatt.",
                 "ro": "Parcați bicicleta într-un loc cât mai protejat.",
-                "en": "Park your bike in a sheltered spot if possible."
+                "en": "Park your bike in a sheltered spot if possible.",
+                "pl": "Jeśli to możliwe, zaparkuj rower w zadaszonym miejscu."
               }
             },
             {
@@ -937,7 +1004,8 @@
                 "de": "Gute Fahrradständer befinden sich in der Nähe des Eingangs.",
                 "hu": "Jó kerékpártárolók találhatók a bejárat közelében.",
                 "ro": "Rasteluri de biciclete bune se află lângă intrare.",
-                "en": "Good bike racks are located near the entrance."
+                "en": "Good bike racks are located near the entrance.",
+                "pl": "Dobre stojaki rowerowe znajdują się przy wejściu."
               }
             },
             {
@@ -946,7 +1014,8 @@
                 "de": "Nutzen Sie den langen Aufenthalt zum Trocknen Ihrer Kleidung.",
                 "hu": "Használja ki a hosszú tartózkodást a ruházat szárítására.",
                 "ro": "Profitați de vizita lungă pentru a vă usca echipamentul.",
-                "en": "Use the long stay to dry off your cycling gear."
+                "en": "Use the long stay to dry off your cycling gear.",
+                "pl": "Wykorzystaj dłuższy postój, by wysuszyć odzież rowerową."
               }
             },
             {
@@ -955,7 +1024,8 @@
                 "de": "Die Wege unter Bäumen bieten etwas natürlichen Schutz.",
                 "hu": "A fák alatti utak némi természetes védelmet nyújtanak.",
                 "ro": "Aleile de sub copaci oferă o protecție naturală parțială.",
-                "en": "Paths under the trees offer some natural rain cover."
+                "en": "Paths under the trees offer some natural rain cover.",
+                "pl": "Ścieżki pod drzewami oferują pewną naturalną osłonę przed deszczem."
               }
             },
             {
@@ -964,7 +1034,8 @@
                 "de": "Vorsicht vor Pfützen auf den Uferradwegen.",
                 "hu": "Vigyázzon a tóparti kerékpárutakon kialakuló tócsákra.",
                 "ro": "Atenție la bălțile de pe pistele de biciclete de lângă lac.",
-                "en": "Watch out for puddles on the lakeside cycling paths."
+                "en": "Watch out for puddles on the lakeside cycling paths.",
+                "pl": "Uważaj na kałuże na ścieżkach wokół jeziora."
               }
             },
             {
@@ -973,7 +1044,8 @@
                 "de": "Ein großartiger Ort, um die Tour im Trockenen zu beenden.",
                 "hu": "Nagyszerű hely a túra befejezéséhez fedett helyen.",
                 "ro": "Un loc excelent pentru a încheia turul la adăpost.",
-                "en": "A great place to finish the tour in a sheltered area."
+                "en": "A great place to finish the tour in a sheltered area.",
+                "pl": "Świetne miejsce na zakończenie wycieczki w zadaszonej strefie."
               }
             }
           ],
@@ -1001,6 +1073,12 @@
               "Wear bright, reflective rain gear for better visibility in traffic.",
               "Check your brakes before starting; they need more distance when wet.",
               "Take advantage of the many shelters along the cycling paths."
+            ],
+            "pl": [
+              "Błotniki są niezbędne do jazdy po deszczowych Tychach.",
+              "Noś jaskrawe, odblaskowe ubranie przeciwdeszczowe, aby być lepiej widocznym w ruchu.",
+              "Sprawdź hamulce przed wyjazdem; na mokrej nawierzchni potrzeba więcej drogi hamowania.",
+              "Skorzystaj z licznych wiat przystankowych wzdłuż ścieżek rowerowych."
             ]
           }
         },
@@ -1009,7 +1087,8 @@
             "de": "Winterliches Radfahren in Tychy ist erfrischend. Starten Sie warm eingepackt am Marktplatz. Die Kirche und das Museum bieten notwendige Aufwärmstopps. Die Brauerei ist das perfekte Ziel für die Mittagszeit, um die Kälte zu vergessen. Genießen Sie die klare Winterluft im Bärenpark und am See, bevor es dunkel wird. Das Winterstadion ist der passende Abschluss für einen sportlichen Tag.",
             "hu": "A téli bringázás Tychyben frissítő élmény. Induljon melegen felöltözve a Fő térről. A templom és a múzeum szükséges melegedő állomások. A sörfőzde tökéletes déli célpont, hogy elfelejtse a kinti hideget. Élvezze a tiszta téli levegőt a Medve-parkban és a tónál, mielőtt besötétedik. A Téli Stadion méltó zárása a sportos napnak.",
             "ro": "Ciclismul de iarnă în Tychy este o experiență revigorantă. Plecați bine îmbrăcat din Piața Veche. Biserica și muzeul oferă opriri necesare pentru încălzire. Berăria este destinația perfectă pentru prânz, pentru a uita de frig. Bucurați-vă de aerul curat de iarnă în Parcul Ursului și la lac înainte de întuneric. Stadionul de Iarnă este finalul potrivit pentru o zi sportivă.",
-            "en": "Winter cycling in Tychy is a refreshing experience. Start warmly dressed at the Market Square. The church and museum offer necessary warm-up stops. The Brewery is the perfect midday destination to forget the cold outside. Enjoy the crisp winter air in Bear Park and by the lake before it gets dark. The Winter Stadium is a fitting conclusion to a sporty day."
+            "en": "Winter cycling in Tychy is a refreshing experience. Start warmly dressed at the Market Square. The church and museum offer necessary warm-up stops. The Brewery is the perfect midday destination to forget the cold outside. Enjoy the crisp winter air in Bear Park and by the lake before it gets dark. The Winter Stadium is a fitting conclusion to a sporty day.",
+            "pl": "Zimowa jazda rowerem po Tychach to orzeźwiające przeżycie. Zacznij ciepło ubrany na Rynku. Kościół i muzeum zapewniają potrzebne przystanki na rozgrzewkę. Browar to idealne miejsce na popołudniowy posiłek, by zapomnieć o zimnie na zewnątrz. Delektuj się rześkim zimowym powietrzem w Parku Niedźwiadków i nad jeziorem, zanim zrobi się ciemno. Stadion Zimowy to odpowiednie zakończenie sportowego dnia."
           },
           "stops": [
             {
@@ -1018,7 +1097,8 @@
                 "de": "Vermeiden Sie schnelle Kurven auf möglicherweise gefrorenem Boden.",
                 "hu": "Kerülje a gyors kanyarodást az esetlegesen jeges talajon.",
                 "ro": "Evitați virajele strânse pe solul posibil înghețat.",
-                "en": "Avoid sharp turns on potentially frozen ground."
+                "en": "Avoid sharp turns on potentially frozen ground.",
+                "pl": "Unikaj ostrych skrętów na potencjalnie zamarzniętej nawierzchni."
               }
             },
             {
@@ -1027,7 +1107,8 @@
                 "de": "Kurze Pause zum Aufwärmen der Hände im Inneren.",
                 "hu": "Rövid szünet a kezek felmelegítésére odabent.",
                 "ro": "Scurtă pauză pentru a vă încălzi mâinile în interior.",
-                "en": "Short break to warm up your hands inside."
+                "en": "Short break to warm up your hands inside.",
+                "pl": "Krótka przerwa na rozgrzanie rąk wewnątrz."
               }
             },
             {
@@ -1036,7 +1117,8 @@
                 "de": "Sperren Sie Ihr Rad gut ab, Metallschlösser können sehr kalt sein.",
                 "hu": "Zárja le jól a bringát, a fém zárak nagyon hidegek lehetnek.",
                 "ro": "Asigurați bine bicicleta, antifurtul metalic poate fi foarte rece.",
-                "en": "Lock your bike well; metal locks can be very cold to handle."
+                "en": "Lock your bike well; metal locks can be very cold to handle.",
+                "pl": "Dobrze przypnij rower; metalowe zamki mogą być bardzo zimne w dotyku."
               }
             },
             {
@@ -1045,7 +1127,8 @@
                 "de": "Planen Sie hier die längste Aufwärmpause des Tages ein.",
                 "hu": "Itt tervezze a nap leghosszabb melegedő pihenőjét.",
                 "ro": "Planificați aici cea mai lungă pauză de încălzire a zilei.",
-                "en": "Plan your longest warm-up break of the day here."
+                "en": "Plan your longest warm-up break of the day here.",
+                "pl": "Zaplanuj tutaj najdłuższą przerwę na rozgrzewkę dnia."
               }
             },
             {
@@ -1054,7 +1137,8 @@
                 "de": "Die Wege können schneebedeckt oder matschig sein.",
                 "hu": "Az utak hóval borítottak vagy latyakosak lehetnek.",
                 "ro": "Aleile pot fi acoperite de zăpadă sau noroi.",
-                "en": "Paths may be snow-covered or slushy."
+                "en": "Paths may be snow-covered or slushy.",
+                "pl": "Ścieżki mogą być pokryte śniegiem lub błotem pośniegowym."
               }
             },
             {
@@ -1063,7 +1147,8 @@
                 "de": "Achten Sie auf den Windchill-Effekt beim Fahren am Ufer.",
                 "hu": "Ügyeljen a szélhűtés hatására a tóparti tekeréskor.",
                 "ro": "Atenție la efectul de răcire al vântului pe malul lacului.",
-                "en": "Watch out for the wind-chill effect when riding by the shore."
+                "en": "Watch out for the wind-chill effect when riding by the shore.",
+                "pl": "Uważaj na odczucie chłodu spowodowane wiatrem podczas jazdy wzdłuż brzegu."
               }
             },
             {
@@ -1072,7 +1157,8 @@
                 "de": "Vielleicht gibt es heute ein Eishockeyspiel zu sehen.",
                 "hu": "Talán épp elcsíphet egy jégkorongmérkőzést ma.",
                 "ro": "Poate puteți viziona un meci de hochei pe gheață astăzi.",
-                "en": "Maybe you can catch an ice hockey match today."
+                "en": "Maybe you can catch an ice hockey match today.",
+                "pl": "Może dziś uda się zobaczyć mecz hokeja na lodzie."
               }
             }
           ],
@@ -1100,6 +1186,12 @@
               "Reduce tire pressure slightly for better grip on snow or ice.",
               "E-bike batteries drain much faster in cold temperatures.",
               "Finish your ride before sunset, which is around 16:00."
+            ],
+            "pl": [
+              "Noś termiczne rękawice i odzież przeciwwiatrową.",
+              "Nieco obniż ciśnienie w oponach dla lepszej przyczepności na śniegu lub lodzie.",
+              "Baterie w e‑rowerach rozładowują się znacznie szybciej w niskich temperaturach.",
+              "Zakończ przejażdżkę przed zachodem słońca, który jest około godz. 16:00."
             ]
           }
         }
@@ -1118,7 +1210,8 @@
             "de": "Parkplatz Zentrum",
             "hu": "Parkoló a központban",
             "ro": "Parcare în centru",
-            "en": "City Center Parking"
+            "en": "City Center Parking",
+            "pl": "Parking w Centrum Miasta"
           },
           "coords": [
             18.991,
@@ -1134,7 +1227,8 @@
             "de": "Parken Sie hier für den Vormittag.",
             "hu": "Parkoljon itt a délelőttre.",
             "ro": "Parcați aici pentru dimineață.",
-            "en": "Park here for the morning."
+            "en": "Park here for the morning.",
+            "pl": "Zaparkuj tu na poranek."
           }
         },
         {
@@ -1142,7 +1236,8 @@
             "de": "Altstadtmarkt Tychy",
             "hu": "Tychy Óváros Főtere",
             "ro": "Piața Orașului Vechi din Tychy",
-            "en": "Tychy Old Town Market Square"
+            "en": "Tychy Old Town Market Square",
+            "pl": "Rynek Starego Miasta w Tychach"
           },
           "coords": [
             18.9925,
@@ -1158,7 +1253,8 @@
             "de": "Der erste Cluster-Stopp. Erkunden Sie die Umgebung zu Fuß.",
             "hu": "Az első séta-klaszter megálló. Fedezze fel a környéket gyalog.",
             "ro": "Prima oprire din cluster. Explorați zona pe jos.",
-            "en": "The first cluster stop. Explore the area on foot."
+            "en": "The first cluster stop. Explore the area on foot.",
+            "pl": "Pierwszy punkt klastra. Odkryj okolicę pieszo."
           }
         },
         {
@@ -1166,7 +1262,8 @@
             "de": "Kirche St. Maria Magdalena",
             "hu": "Szent Mária Magdolna-templom",
             "ro": "Biserica Sf. Maria Magdalena",
-            "en": "St. Mary Magdalene Church"
+            "en": "St. Mary Magdalene Church",
+            "pl": "Kościół św. Marii Magdaleny"
           },
           "coords": [
             18.9945,
@@ -1182,7 +1279,8 @@
             "de": "Nur ein kurzer Spaziergang vom Markt entfernt.",
             "hu": "Csak egy rövid séta a Főtértől.",
             "ro": "La doar o scurtă plimbare de piață.",
-            "en": "Just a short walk from the market square."
+            "en": "Just a short walk from the market square.",
+            "pl": "Zaledwie krótki spacer od rynku."
           }
         },
         {
@@ -1190,7 +1288,8 @@
             "de": "Brauereimuseum Tyskie",
             "hu": "Tyskie Sörfőzde Múzeum",
             "ro": "Muzeul Fabricii de Bere Tyskie",
-            "en": "Tyskie Brewery Museum"
+            "en": "Tyskie Brewery Museum",
+            "pl": "Muzeum Browaru Tyskie"
           },
           "coords": [
             18.973,
@@ -1206,7 +1305,8 @@
             "de": "Fahren Sie zum nächsten Cluster. Hier gibt es Parkplätze. Mittagessen in der Nähe möglich.",
             "hu": "Vezessen a következő klaszterhez. Itt van parkoló. Ebéd a közelben lehetséges.",
             "ro": "Conduceți la următorul cluster. Există parcare aici. Prânzul este posibil în apropiere.",
-            "en": "Drive to the next cluster. Parking is available here. Lunch is possible nearby."
+            "en": "Drive to the next cluster. Parking is available here. Lunch is possible nearby.",
+            "pl": "Przejazd do następnego klastra. Dostępny parking. Możliwość lunchu w pobliżu."
           }
         },
         {
@@ -1214,7 +1314,8 @@
             "de": "Paprocany-See",
             "hu": "Paprocany-tó",
             "ro": "Lacul Paprocany",
-            "en": "Paprocany Lake"
+            "en": "Paprocany Lake",
+            "pl": "Jezioro Paprocany"
           },
           "coords": [
             18.9655,
@@ -1230,7 +1331,8 @@
             "de": "Der letzte Stopp des Tages. Parken Sie und genießen Sie einen langen Spaziergang.",
             "hu": "A nap utolsó megállója. Parkoljon le és élvezzen egy hosszú sétát.",
             "ro": "Ultima oprire a zilei. Parcați și bucurați-vă de o plimbare lungă.",
-            "en": "The last stop of the day. Park and enjoy a long walk."
+            "en": "The last stop of the day. Park and enjoy a long walk.",
+            "pl": "Ostatni przystanek dnia. Zaparkuj i wybierz się na długi spacer."
           }
         },
         {
@@ -1238,7 +1340,8 @@
             "de": "Bärenpark",
             "hu": "Medvepark",
             "ro": "Parcul Urșilor",
-            "en": "Bear Park"
+            "en": "Bear Park",
+            "pl": "Park Niedźwiadków"
           },
           "coords": [
             18.958,
@@ -1254,7 +1357,8 @@
             "de": "Vom See aus leicht zu Fuß erreichbar, ein ruhiger Ort zum Entspannen.",
             "hu": "A tótól könnyen megközelíthető, csendes hely a pihenésre.",
             "ro": "Ușor de ajuns pe jos de la lac, un loc liniștit pentru relaxare.",
-            "en": "Easily accessible on foot from the lake, a quiet place to relax."
+            "en": "Easily accessible on foot from the lake, a quiet place to relax.",
+            "pl": "Łatwo dostępny pieszo od jeziora, ciche miejsce na odpoczynek."
           }
         }
       ],
@@ -1262,7 +1366,8 @@
         "de": "Ihr Autotag in Tychy ist auf maximale Bequemlichkeit ausgelegt. Parken Sie Ihr Auto im Zentrum und erkunden Sie den ersten Cluster zu Fuß: den belebten Altstadtmarkt und die beeindruckende St. Maria Magdalena Kirche. Zurück im Auto fahren Sie zum zweiten Cluster, dem Tyskie Brauereimuseum, wo Sie in die Braukunst eintauchen und zu Mittag essen. Der Nachmittag gehört der Natur. Eine kurze Fahrt bringt Sie zum Paprocany-See, Ihrem dritten Cluster. Hier parken Sie erneut und verbringen den Rest des Tages mit Spaziergängen am Wasser und einem Abstecher in den ruhigen Bärenpark, bevor Sie die Heimreise antreten.",
         "hu": "Tychy-i autós napja a maximális kényelemre van tervezve. Parkolja le autóját a központban, és fedezze fel gyalog az első klasztert: a nyüzsgő Óváros Főteret és a lenyűgöző Szent Mária Magdolna-templomot. Vissza az autóba, és irány a második klaszter, a Tyskie Sörfőzde Múzeum, ahol elmerülhet a sörfőzés művészetében és megebédelhet. A délután a természeté. Egy rövid autóút a Paprocany-tóhoz, a harmadik klaszterhez vezet. Itt újra parkol, és a nap hátralévő részét a vízparti sétákkal és a csendes Medveparkban tett kitérővel tölti, mielőtt hazaindulna.",
         "ro": "Ziua dumneavoastră cu mașina în Tychy este concepută pentru confort maxim. Parcați mașina în centru și explorați primul cluster pe jos: Piața plină de viață a Orașului Vechi și impresionanta Biserică Sf. Maria Magdalena. Înapoi în mașină, conduceți spre al doilea cluster, Muzeul Fabricii de Bere Tyskie, unde vă veți cufunda în arta berii și veți lua prânzul. După-amiaza este dedicată naturii. O scurtă călătorie cu mașina vă duce la Lacul Paprocany, al treilea cluster. Aici parcați din nou și petreceți restul zilei cu plimbări pe malul apei și o vizită în liniștitul Parc al Urșilor înainte de a vă întoarce acasă.",
-        "en": "Your car day in Tychy is designed for maximum convenience. Park your car in the center and explore the first cluster on foot: the bustling Old Town Market Square and the impressive St. Mary Magdalene Church. Back in the car, drive to the second cluster, the Tyskie Brewery Museum, where you'll immerse yourself in the art of brewing and have lunch. The afternoon is dedicated to nature. A short drive takes you to Paprocany Lake, your third cluster. Here you'll park again and spend the rest of the day with walks by the water and a visit to the quiet Bear Park before heading home."
+        "en": "Your car day in Tychy is designed for maximum convenience. Park your car in the center and explore the first cluster on foot: the bustling Old Town Market Square and the impressive St. Mary Magdalene Church. Back in the car, drive to the second cluster, the Tyskie Brewery Museum, where you'll immerse yourself in the art of brewing and have lunch. The afternoon is dedicated to nature. A short drive takes you to Paprocany Lake, your third cluster. Here you'll park again and spend the rest of the day with walks by the water and a visit to the quiet Bear Park before heading home.",
+        "pl": "Twój dzień samochodem po Tychach został zaprojektowany dla maksymalnej wygody. Zaparkuj auto w centrum i zwiedź pierwszy klaster pieszo: tętniący życiem Rynek Starego Miasta i imponujący kościół św. Marii Magdaleny. Następnie wsiądź do auta i jedź do drugiego klastra, Muzeum Browaru Tyskie, gdzie poznasz sztukę warzenia piwa i zjesz obiad. Popołudnie poświęcone jest przyrodzie. Krótki przejazd zabierze cię nad Jezioro Paprocany, trzeci klaster. Tutaj znów zaparkujesz i spędzisz resztę dnia spacerując nad wodą oraz odwiedzając spokojny Park Niedźwiadków, zanim wrócisz do domu."
       },
       "gastro_picks": {
         "de": [
@@ -1454,6 +1559,11 @@
           "Use a navigation app to find parking near the clusters.",
           "Be aware of parking fees and restrictions in the city center.",
           "Plan for extra time for traffic, especially in the late afternoon."
+        ],
+        "pl": [
+          "Użyj aplikacji nawigacyjnej, aby znaleźć parking w pobliżu klastrów.",
+          "Zwróć uwagę na opłaty i ograniczenia parkingowe w centrum.",
+          "Zaplanuj dodatkowy czas na korki, szczególnie późnym popołudniem."
         ]
       },
       "variants": {
@@ -1462,7 +1572,8 @@
             "de": "Mit dem Auto erkunden Sie Tychy auch bei Regen bequem. Parken Sie im Zentrum und machen Sie kurze Ausflüge zum Marktplatz und zur Kirche. Die Fahrt zur Brauerei Tyskie ist bei Regen besonders angenehm, da Sie direkt am Zielort parken können. Der See lässt sich wunderbar aus der warmen Kabine oder von einem nahen Parkplatz aus bewundern. Beenden Sie den Tag entspannt im Bärenpark.",
             "hu": "Autóval kényelmesen felfedezheti Tychyt esőben is. Parkoljon a központban, és tegyen rövid kiruccanásokat a Fő térre és a templomba. A sörfőzdéhez vezető út esőben is kellemes, mivel közvetlenül a célpontnál parkolhat. A tavat a meleg autóból vagy egy közeli parkolóból is megcsodálhatja. Zárja a napot pihentetően a Medve-parknál.",
             "ro": "Cu mașina puteți explora Tychy confortabil chiar și pe ploaie. Parcați în centru pentru vizite scurte la Piața Veche și biserică. Drumul către berăria Tyskie este plăcut, având parcare chiar la destinație. Lacul poate fi admirat din cabina caldă sau dintr-o parcare apropiată. Încheiați ziua relaxat la Parcul Ursului.",
-            "en": "By car, you can comfortably explore Tychy even in the rain. Park in the center for short trips to the Market Square and church. The drive to the Tyskie Brewery is very convenient, with parking available right at the destination. The lake can be admired from the warm car or a nearby parking spot. End your day in a relaxed manner at Bear Park."
+            "en": "By car, you can comfortably explore Tychy even in the rain. Park in the center for short trips to the Market Square and church. The drive to the Tyskie Brewery is very convenient, with parking available right at the destination. The lake can be admired from the warm car or a nearby parking spot. End your day in a relaxed manner at Bear Park.",
+            "pl": "Samochodem można wygodnie zwiedzać Tychy nawet w deszczu. Zaparkuj w centrum, by krótko dojść do Rynku i kościoła. Dojazd do Browaru Tyskie jest bardzo wygodny, z parkingiem przy miejscu. Jezioro można podziwiać z ciepłego auta lub z pobliskiego miejsca parkingowego. Zakończ dzień relaksem w Parku Niedźwiadków."
           },
           "stops": [
             {
@@ -1471,7 +1582,8 @@
                 "de": "Zentraler Startpunkt, oft mit überdachten Bereichen in der Nähe.",
                 "hu": "Központi indulópont, gyakran fedett részekkel a közelben.",
                 "ro": "Punct de plecare central, adesea cu zone acoperite în apropiere.",
-                "en": "Central starting point, often with covered areas nearby."
+                "en": "Central starting point, often with covered areas nearby.",
+                "pl": "Centralny punkt startowy, często z pobliskimi zadaszonymi miejscami."
               }
             },
             {
@@ -1480,7 +1592,8 @@
                 "de": "Parken Sie so nah wie möglich, um den Fußweg im Regen zu minimieren.",
                 "hu": "Parkoljon minél közelebb, hogy minimalizálja az esőben gyaloglást.",
                 "ro": "Parcați cât mai aproape pentru a minimiza mersul prin ploaie.",
-                "en": "Park as close as possible to minimize walking in the rain."
+                "en": "Park as close as possible to minimize walking in the rain.",
+                "pl": "Parkuj jak najbliżej, by zminimalizować chodzenie w deszczu."
               }
             },
             {
@@ -1489,7 +1602,8 @@
                 "de": "Parkplätze direkt vor der Kirche erleichtern den Zugang.",
                 "hu": "A templom előtti parkolóhelyek megkönnyítik a bejutást.",
                 "ro": "Locurile de parcare din fața bisericii facilitează accesul.",
-                "en": "Parking spots directly in front of the church make access easy."
+                "en": "Parking spots directly in front of the church make access easy.",
+                "pl": "Miejsca parkingowe bezpośrednio przed kościołem ułatwiają dostęp."
               }
             },
             {
@@ -1498,7 +1612,8 @@
                 "de": "Großer Gästeparkplatz vorhanden, ideal bei schlechtem Wetter.",
                 "hu": "Nagy vendégparkoló áll rendelkezésre, ideális rossz időben.",
                 "ro": "Parcare mare pentru vizitatori disponibilă, ideală pe vreme rea.",
-                "en": "Large visitor parking available, ideal for bad weather."
+                "en": "Large visitor parking available, ideal for bad weather.",
+                "pl": "Duży parking dla odwiedzających, idealny na złą pogodę."
               }
             },
             {
@@ -1507,7 +1622,8 @@
                 "de": "Genießen Sie den Blick auf den See aus dem trockenen Auto.",
                 "hu": "Élvezze a kilátást a tóra a száraz autóból.",
                 "ro": "Bucurați-vă de vederea spre lac din mașina uscată.",
-                "en": "Enjoy the view of the lake from the dry car."
+                "en": "Enjoy the view of the lake from the dry car.",
+                "pl": "Podziwiaj jezioro z suchego samochodu."
               }
             },
             {
@@ -1516,7 +1632,8 @@
                 "de": "Kurzer Spaziergang vom Parkplatz zum Denkmal möglich.",
                 "hu": "Rövid séta lehetséges a parkolótól az emlékműig.",
                 "ro": "Scurtă plimbare posibilă de la parcare până la monument.",
-                "en": "Short walk possible from the parking lot to the monument."
+                "en": "Short walk possible from the parking lot to the monument.",
+                "pl": "Krótki spacer z parkingu do pomnika jest możliwy."
               }
             }
           ],
@@ -1544,6 +1661,12 @@
               "Keep an umbrella in the car for the short walks to your destinations.",
               "Visibility can be reduced during heavy rain; drive carefully.",
               "Many sights have parking lots right at the entrance."
+            ],
+            "pl": [
+              "Korzystaj z wielopoziomowych parkingów w centrum dla ochrony przed deszczem.",
+              "Miej w samochodzie parasol na krótkie spacery do atrakcji.",
+              "Widoczność może być ograniczona podczas ulewy; prowadź ostrożnie.",
+              "Wiele atrakcji ma parkingi bezpośrednio przy wejściu."
             ]
           }
         },
@@ -1552,7 +1675,8 @@
             "de": "Eine winterliche Autotour durch Tychy ist gemütlich und warm. Starten Sie im Zentrum und genießen Sie die weihnachtliche Beleuchtung vom Auto aus. Die Kirche und die Brauerei sind perfekte Stopps, um die historische Pracht im Warmen zu erleben. Die Fahrt zum See bietet wunderschöne Winteransichten ohne Frostbeulen. Der Bärenpark am Nachmittag ist ein schöner Abschluss vor der Fahrt nach Hause.",
             "hu": "A téli autós túra Tychyben kényelmes és meleg. Induljon a központból, és élvezze a karácsonyi fényeket az autóból. A templom és a sörfőzde tökéletes megállók a történelmi szépség felfedezésére melegben. A tóhoz vezető út gyönyörű téli látványt nyújt fagyoskodás nélkül. A Medve-park délutáni látogatása szép zárás a hazaindulás előtt.",
             "ro": "Un tur cu mașina iarna prin Tychy este confortabil și călduros. Începeți în centru și admirați luminile de Crăciun din mașină. Biserica și berăria sunt opriri perfecte pentru a vedea splendoarea istorică la căldură. Drumul spre lac oferă vederi de iarnă superbe fără a îngheța. Vizitarea Parcului Ursului după-amiaza este o încheiere frumoasă.",
-            "en": "A winter car tour of Tychy is cozy and warm. Start in the center and enjoy the Christmas lights from your car. The church and Brewery are perfect stops to experience historical beauty in the warmth. The drive to the lake offers wonderful winter views without the freeze. Visiting Bear Park in the afternoon is a lovely conclusion before heading home."
+            "en": "A winter car tour of Tychy is cozy and warm. Start in the center and enjoy the Christmas lights from your car. The church and Brewery are perfect stops to experience historical beauty in the warmth. The drive to the lake offers wonderful winter views without the freeze. Visiting Bear Park in the afternoon is a lovely conclusion before heading home.",
+            "pl": "Zimowa wycieczka samochodowa po Tychach jest przytulna i ciepła. Zacznij w centrum i podziwiaj świąteczne iluminacje z auta. Kościół i Browar to idealne przystanki, by doświadczyć historycznego piękna w cieple. Dojazd nad jezioro oferuje wspaniałe zimowe widoki bez marznięcia. Wizyta w Parku Niedźwiadków po południu to piękne zakończenie przed powrotem do domu."
           },
           "stops": [
             {
@@ -1561,7 +1685,8 @@
                 "de": "Vorsicht vor glatten Stellen in den Ein- und Ausfahrten.",
                 "hu": "Vigyázzon a csúszós részekre a ki- és behajtóknál.",
                 "ro": "Atenție la porțiunile alunecoase la intrări și ieșiri.",
-                "en": "Watch out for slippery spots at entrances and exits."
+                "en": "Watch out for slippery spots at entrances and exits.",
+                "pl": "Uważaj na śliskie miejsca przy wejściach i wyjazdach."
               }
             },
             {
@@ -1570,7 +1695,8 @@
                 "de": "Der Platz ist oft festlich beleuchtet, toll vom Auto aus zu sehen.",
                 "hu": "A tér gyakran ünnepi díszben ég, remek látvány az autóból.",
                 "ro": "Piața este adesea iluminată festiv, se vede minunat din mașină.",
-                "en": "The square is often festively lit, great to see from the car."
+                "en": "The square is often festively lit, great to see from the car.",
+                "pl": "Plac często jest świątecznie oświetlony, warto zobaczyć to z auta."
               }
             },
             {
@@ -1579,7 +1705,8 @@
                 "de": "Kurzer Weg vom warmen Auto in die temperierte Kirche.",
                 "hu": "Rövid út a meleg autóból a temperált templomba.",
                 "ro": "Drum scurt de la mașina caldă la biserica încălzită.",
-                "en": "Short walk from the warm car into the tempered church."
+                "en": "Short walk from the warm car into the tempered church.",
+                "pl": "Krótki spacer z ciepłego samochodu do przytulnego wnętrza kościoła."
               }
             },
             {
@@ -1588,7 +1715,8 @@
                 "de": "Der Parkplatz wird im Winter meist gut geräumt.",
                 "hu": "A parkolót télen általában jól takarítják.",
                 "ro": "Parcarea este de obicei bine curățată iarna.",
-                "en": "The parking lot is usually well-cleared in winter."
+                "en": "The parking lot is usually well-cleared in winter.",
+                "pl": "Parking zazwyczaj jest dobrze odśnieżony zimą."
               }
             },
             {
@@ -1597,7 +1725,8 @@
                 "de": "Bester Blick auf den gefrorenen See bei eingeschalteter Heizung.",
                 "hu": "A legjobb kilátás a befagyott tóra bekapcsolt fűtés mellett.",
                 "ro": "Cea mai bună vedere spre lacul înghețat cu căldura pornită.",
-                "en": "Best view of the frozen lake with the heater on."
+                "en": "Best view of the frozen lake with the heater on.",
+                "pl": "Najlepszy widok na zamarznięte jezioro mając włączone ogrzewanie."
               }
             },
             {
@@ -1606,7 +1735,8 @@
                 "de": "Parken Sie nah am Denkmal für ein schnelles Foto im Schnee.",
                 "hu": "Parkoljon közel az emlékműhöz egy gyors havas fotóért.",
                 "ro": "Parcați aproape de monument pentru o poză rapidă în zăpadă.",
-                "en": "Park near the monument for a quick photo in the snow."
+                "en": "Park near the monument for a quick photo in the snow.",
+                "pl": "Zaparkuj przy pomniku, by zrobić szybkie zdjęcie na śniegu."
               }
             }
           ],
@@ -1634,6 +1764,12 @@
               "Use heated seats for maximum comfort between destinations.",
               "Look for cleared parking spots to avoid getting stuck in snow.",
               "Allow extra time for parking if it is snowing."
+            ],
+            "pl": [
+              "Upewnij się, że samochód jest gotowy na zimę (płyn do chłodnicy, opony zimowe).",
+              "Korzystaj z podgrzewanych siedzeń dla maksymalnego komfortu między miejscami.",
+              "Szukaj wyczyszczonych miejsc parkingowych, by nie ugrzęznąć w śniegu.",
+              "Zaplanuj dodatkowy czas na parkowanie, jeśli pada śnieg."
             ]
           }
         }
@@ -1652,7 +1788,8 @@
             "de": "Haltestelle Zentrum",
             "hu": "Központi megálló",
             "ro": "Stația centrală",
-            "en": "Central Stop"
+            "en": "Central Stop",
+            "pl": "Przystanek Centralny"
           },
           "coords": [
             18.9915,
@@ -1668,7 +1805,8 @@
             "de": "Kaufen Sie eine Tageskarte für unbegrenzte Fahrten.",
             "hu": "Vásároljon napijegyet a korlátlan utazáshoz.",
             "ro": "Cumpărați un bilet de o zi pentru călătorii nelimitate.",
-            "en": "Buy a day ticket for unlimited travel."
+            "en": "Buy a day ticket for unlimited travel.",
+            "pl": "Kup bilet dzienny na nielimitowane przejazdy."
           }
         },
         {
@@ -1676,7 +1814,8 @@
             "de": "Altstadtmarkt Tychy",
             "hu": "Tychy Óváros Főtere",
             "ro": "Piața Orașului Vechi din Tychy",
-            "en": "Tychy Old Town Market Square"
+            "en": "Tychy Old Town Market Square",
+            "pl": "Rynek Starego Miasta w Tychach"
           },
           "coords": [
             18.9925,
@@ -1692,7 +1831,8 @@
             "de": "Starten Sie Ihren Rundgang durch das erste Cluster hier.",
             "hu": "Indítsa innen a sétát az első klaszteren keresztül.",
             "ro": "Începeți turul primului cluster de aici.",
-            "en": "Start your tour of the first cluster here."
+            "en": "Start your tour of the first cluster here.",
+            "pl": "Rozpocznij tu zwiedzanie pierwszego klastra."
           }
         },
         {
@@ -1700,7 +1840,8 @@
             "de": "Stadtmuseum Tychy",
             "hu": "Tychy Városi Múzeum",
             "ro": "Muzeul Municipal Tychy",
-            "en": "Tychy City Museum"
+            "en": "Tychy City Museum",
+            "pl": "Muzeum Miejskie w Tychach"
           },
           "coords": [
             18.9901,
@@ -1716,7 +1857,8 @@
             "de": "Ein kurzer Spaziergang vom Markt, um in die Geschichte einzutauchen.",
             "hu": "Egy rövid séta a piactól, hogy elmerüljön a történelemben.",
             "ro": "O scurtă plimbare de la piață pentru a vă cufunda în istorie.",
-            "en": "A short walk from the market to dive into history."
+            "en": "A short walk from the market to dive into history.",
+            "pl": "Krótki spacer z rynku, by zanurzyć się w historii."
           }
         },
         {
@@ -1724,7 +1866,8 @@
             "de": "Brauereimuseum Tyskie",
             "hu": "Tyskie Sörfőzde Múzeum",
             "ro": "Muzeul Fabricii de Bere Tyskie",
-            "en": "Tyskie Brewery Museum"
+            "en": "Tyskie Brewery Museum",
+            "pl": "Muzeum Browaru Tyskie"
           },
           "coords": [
             18.973,
@@ -1740,7 +1883,8 @@
             "de": "Nehmen Sie einen Bus zum zweiten Cluster. Planen Sie Zeit für die Wartezeit ein.",
             "hu": "Menjen busszal a második klaszterhez. Tervezzen időt a várakozásra.",
             "ro": "Luați un autobuz spre al doilea cluster. Planificați timp pentru așteptare.",
-            "en": "Take a bus to the second cluster. Plan time for waiting."
+            "en": "Take a bus to the second cluster. Plan time for waiting.",
+            "pl": "Do drugiego klastra dojedziesz autobusem. Zaplanuj czas na oczekiwanie."
           }
         },
         {
@@ -1748,7 +1892,8 @@
             "de": "Paprocany-See",
             "hu": "Paprocany-tó",
             "ro": "Lacul Paprocany",
-            "en": "Paprocany Lake"
+            "en": "Paprocany Lake",
+            "pl": "Jezioro Paprocany"
           },
           "coords": [
             18.9655,
@@ -1764,7 +1909,8 @@
             "de": "Eine weitere Busfahrt bringt Sie zum Natur-Cluster des Tages.",
             "hu": "Egy újabb buszozás elviszi Önt a nap természeti klaszteréhez.",
             "ro": "O altă călătorie cu autobuzul vă duce la clusterul natural al zilei.",
-            "en": "Another bus ride takes you to the day's nature cluster."
+            "en": "Another bus ride takes you to the day's nature cluster.",
+            "pl": "Kolejna podróż autobusem zaprowadzi cię do przyrodniczego klastra dnia."
           }
         },
         {
@@ -1772,7 +1918,8 @@
             "de": "Uferpromenade",
             "hu": "Tóparti sétány",
             "ro": "Promenada lacului",
-            "en": "Lakeside Promenade"
+            "en": "Lakeside Promenade",
+            "pl": "Promenada nad jeziorem"
           },
           "coords": [
             18.968,
@@ -1788,7 +1935,8 @@
             "de": "Spazieren Sie nach der Ankunft am See entlang des Ufers.",
             "hu": "A tóhoz érkezve sétáljon végig a parton.",
             "ro": "Plimbați-vă de-a lungul malului după ce ajungeți la lac.",
-            "en": "Stroll along the shore after arriving at the lake."
+            "en": "Stroll along the shore after arriving at the lake.",
+            "pl": "Przejdź się wzdłuż brzegu po dotarciu nad jezioro."
           }
         }
       ],
@@ -1796,7 +1944,8 @@
         "de": "Mit einer Tageskarte für den öffentlichen Nahverkehr erkunden Sie Tychy effizient. Der erste Bus bringt Sie ins Zentrum, wo Sie den Altstadtmarkt und das Stadtmuseum zu Fuß entdecken. Ein weiterer Bus bringt Sie zum zweiten Cluster, dem berühmten Tyskie Brauereimuseum, für eine Tour und ein Mittagessen. Der Nachmittag ist für die Natur reserviert. Die letzte Busfahrt des Tages führt Sie zum weitläufigen Paprocany-See. Dort angekommen, verbringen Sie den Rest des Tages mit einem entspannten Spaziergang entlang der Promenade, bevor Sie den Bus zurück ins Zentrum oder zu Ihrem Hotel nehmen.",
         "hu": "Egy napijeggyel hatékonyan fedezheti fel Tychyt. Az első busz a központba viszi, ahol gyalogosan fedezi fel az Óváros Főteret és a Városi Múzeumot. Egy másik busz elviszi a második klaszterhez, a híres Tyskie Sörgyári Múzeumba, egy túrára és ebédre. A délután a természeté. A nap utolsó buszútja a tágas Paprocany-tóhoz vezet. Odaérve a nap hátralévő részét egy pihentető sétával tölti a sétányon, mielőtt visszautazna a központba vagy a szállodájába.",
         "ro": "Cu un bilet de o zi, explorați Tychy eficient. Primul autobuz vă duce în centru, unde descoperiți pe jos Piața Orașului Vechi și Muzeul Municipal. Un alt autobuz vă duce la al doilea cluster, faimosul Muzeu al Fabricii de Bere Tyskie, pentru un tur și prânz. După-amiaza este rezervată naturii. Ultima călătorie cu autobuzul a zilei vă duce la vastul Lac Paprocany. Odată ajunși, petreceți restul zilei cu o plimbare relaxantă de-a lungul promenadei, înainte de a lua autobuzul înapoi în centru sau la hotel.",
-        "en": "Using a public transport day pass, you'll explore Tychy efficiently. The first bus takes you to the center, where you'll discover the Old Town Market Square and the City Museum on foot. Another bus takes you to the second cluster, the famous Tyskie Brewery Museum, for a tour and lunch. The afternoon is reserved for nature. The last bus ride of the day leads you to the expansive Paprocany Lake. Once there, you'll spend the rest of the day on a relaxing stroll along the promenade before taking the bus back to the center or your hotel."
+        "en": "Using a public transport day pass, you'll explore Tychy efficiently. The first bus takes you to the center, where you'll discover the Old Town Market Square and the City Museum on foot. Another bus takes you to the second cluster, the famous Tyskie Brewery Museum, for a tour and lunch. The afternoon is reserved for nature. The last bus ride of the day leads you to the expansive Paprocany Lake. Once there, you'll spend the rest of the day on a relaxing stroll along the promenade before taking the bus back to the center or your hotel.",
+        "pl": "Korzystając z biletu dziennego na transport publiczny, zwiedzisz Tychy efektywnie. Pierwszym autobusem dotrzesz do centrum, gdzie pieszo odkryjesz Rynek Starego Miasta i Muzeum Miejskie. Kolejny autobus zawiezie cię do drugiego klastra, słynnego Muzeum Browaru Tyskie, na zwiedzanie i obiad. Popołudnie przeznaczone jest na przyrodę. Ostatni kurs dnia zabierze cię nad rozległe Jezioro Paprocany. Na miejscu spędzisz resztę dnia spacerując odprężająco po promenadzie, zanim wrócisz autobusem do centrum lub hotelu."
       },
       "gastro_picks": {
         "de": [
@@ -1988,6 +2137,11 @@
           "Download the local public transport app for real-time schedules.",
           "Validate your ticket on every ride to avoid fines.",
           "Plan for buffer time for potential delays."
+        ],
+        "pl": [
+          "Pobierz lokalną aplikację transportu publicznego dla rozkładów w czasie rzeczywistym.",
+          "Skasuj bilet przy każdym przejeździe, by uniknąć kar.",
+          "Zaplanuj margines czasowy na ewentualne opóźnienia."
         ]
       },
       "variants": {
@@ -1996,7 +2150,8 @@
             "de": "Tychy verfügt über ein modernes Oberleitungsbussystem, das Sie auch bei Regen trocken ans Ziel bringt. Starten Sie an der zentralen Haltestelle und erkunden Sie den Marktplatz. Das Stadtmuseum und die Brauerei sind hervorragend an das Netz angebunden. Der See ist am späten Nachmittag ein schönes Ziel, mit Haltestellen direkt am Ufer. Genießen Sie die Fahrt durch die regnerische Stadt.",
             "hu": "Tychy modern trolibusz-hálózata esőben is szárazon juttatja el úticéljához. Kezdje a központi megállónál, és fedezze fel a Fő teret. A Városi Múzeum és a sörfőzde kiválóan megközelíthető tömegközlekedéssel. A tó késő délután remek célpont, a megállók közvetlenül a parton vannak. Élvezze az utazást az esős városon át.",
             "ro": "Sistemul modern de troleibuze din Tychy vă duce la destinație uscat chiar și pe ploaie. Începeți de la stația centrală și explorați Piața Veche. Muzeul orașului și berăria sunt bine conectate la rețea. Lacul este o destinație frumoasă după-amiaza târziu, cu stații chiar pe mal. Bucurați-vă de călătoria prin orașul ploios.",
-            "en": "Tychy's modern trolleybus system keeps you dry while traveling between sights in the rain. Start at the Central Stop and explore the Market Square. The City Museum and Brewery are excellently connected to the transit network. The lake is a great late afternoon destination, with stops right by the shore. Enjoy the ride through the rainy city."
+            "en": "Tychy's modern trolleybus system keeps you dry while traveling between sights in the rain. Start at the Central Stop and explore the Market Square. The City Museum and Brewery are excellently connected to the transit network. The lake is a great late afternoon destination, with stops right by the shore. Enjoy the ride through the rainy city.",
+            "pl": "Nowoczesny system trolejbusowy w Tychach pozwala pozostać suchym podczas podróży między atrakcjami w deszczu. Zacznij na Przystanku Centralnym i zwiedź Rynek. Muzeum Miejskie i Browar są doskonale skomunikowane. Jezioro to świetny cel późnym popołudniem, z przystankami tuż przy brzegu. Ciesz się przejazdem przez deszczowe miasto."
           },
           "stops": [
             {
@@ -2005,7 +2160,8 @@
                 "de": "Großer Unterstand vorhanden, ideal zum Warten bei Regen.",
                 "hu": "Nagy esőbeálló áll rendelkezésre a várakozáshoz.",
                 "ro": "Adăpost mare disponibil, ideal pentru așteptare pe ploaie.",
-                "en": "Large shelter available, ideal for waiting in the rain."
+                "en": "Large shelter available, ideal for waiting in the rain.",
+                "pl": "Duża wiata idealna do oczekiwania w deszczu."
               }
             },
             {
@@ -2014,7 +2170,8 @@
                 "de": "Die Haltestelle ist nur wenige Schritte vom Platz entfernt.",
                 "hu": "A megálló csak pár lépésre van a tértől.",
                 "ro": "Stația se află la doar câțiva pași de piață.",
-                "en": "The stop is only a few steps away from the square."
+                "en": "The stop is only a few steps away from the square.",
+                "pl": "Przystanek jest tylko kilka kroków od rynku."
               }
             },
             {
@@ -2023,7 +2180,8 @@
                 "de": "Mehrere Linien halten in direkter Nähe des Museums.",
                 "hu": "Számos járat megáll a múzeum közvetlen közelében.",
                 "ro": "Mai multe linii opresc în imediata apropiere a muzeului.",
-                "en": "Several lines stop in the immediate vicinity of the museum."
+                "en": "Several lines stop in the immediate vicinity of the museum.",
+                "pl": "Kilka linii zatrzymuje się w bezpośrednim sąsiedztwie muzeum."
               }
             },
             {
@@ -2032,7 +2190,8 @@
                 "de": "Bekannte Haltestelle direkt vor der historischen Brauerei.",
                 "hu": "Ismert megálló közvetlenül a történelmi sörfőzde előtt.",
                 "ro": "Stație cunoscută chiar în fața berăriei istorice.",
-                "en": "Well-known stop directly in front of the historic brewery."
+                "en": "Well-known stop directly in front of the historic brewery.",
+                "pl": "Znany przystanek bezpośrednio przed zabytkowym browarem."
               }
             },
             {
@@ -2041,7 +2200,8 @@
                 "de": "Die Haltestelle bietet einen guten Blick auf den See.",
                 "hu": "A megállóból jó kilátás nyílik a tóra.",
                 "ro": "Stația oferă o vedere bună asupra lacului.",
-                "en": "The stop provides a good view of the lake."
+                "en": "The stop provides a good view of the lake.",
+                "pl": "Przystanek oferuje dobry widok na jezioro."
               }
             },
             {
@@ -2050,7 +2210,8 @@
                 "de": "Nutzen Sie den Unterstand der Haltestelle bei plötzlichem Regen.",
                 "hu": "Használja a megálló esőbeállóját hirtelen zápor esetén.",
                 "ro": "Folosiți adăpostul stației în caz de ploaie bruscă.",
-                "en": "Use the stop's shelter in case of sudden rain."
+                "en": "Use the stop's shelter in case of sudden rain.",
+                "pl": "Skorzystaj z wiaty przystankowej w razie nagłego deszczu."
               }
             }
           ],
@@ -2078,6 +2239,12 @@
               "Download the transit app for real-time info during rainy weather.",
               "Most central stops are sheltered from the rain.",
               "A day ticket is worth it for the many short trips."
+            ],
+            "pl": [
+              "Korzystaj z tyskich trolejbusów, by suchą stopą zwiedzać miasto.",
+              "Pobierz aplikację komunikacyjną dla informacji w czasie rzeczywistym podczas deszczu.",
+              "Większość centralnych przystanków jest osłonięta przed deszczem.",
+              "Bilet dzienny się opłaca przy wielu krótkich przejazdach."
             ]
           }
         },
@@ -2086,7 +2253,8 @@
             "de": "Die beheizten Busse und Trolleybusse in Tychy sind im Winter ein Segen. Starten Sie Ihre Tour am zentralen Knotenpunkt und besuchen Sie die festliche Altstadt. Die Wege zwischen den Haltestellen und den Museen sind kurz, was das Frieren minimiert. Die Brauerei Tyskie ist im Winter ein gemütliches Highlight. Beenden Sie den Tag am winterlichen Seeufer, bevor Sie mit dem warmen Bus zurückfahren.",
             "hu": "A fűtött buszok és trolibuszok Tychyben áldásosak télen. Kezdje túráját a központi csomópontnál, és látogasson el az ünnepi Óvárosba. A megállók és a múzeumok közötti távolság kicsi, így kevesebbet kell fagyoskodni. A Tyskie Sörfőzde télen is hangulatos fénypont. Zárja a napot a téli tóparton, mielőtt felszállna a meleg buszra.",
             "ro": "Autobuzele și troleibuzele încălzite din Tychy sunt o binecuvântare iarna. Începeți turul la nodul central și vizitați orașul vechi festiv. Distanțele între stații și muzee sunt scurte, minimizând expunerea la frig. Berăria Tyskie este un punct culminant primitor iarna. Încheiați ziua pe malul lacului înainte de a vă întoarce cu autobuzul cald.",
-            "en": "The heated buses and trolleybuses in Tychy are a blessing in winter. Start your tour at the central hub and visit the festive Old Town. The distances between stops and museums are short, minimizing time spent in the cold. The Tyskie Brewery is a cozy highlight in winter. End the day at the wintry lakeside before catching a warm bus back."
+            "en": "The heated buses and trolleybuses in Tychy are a blessing in winter. Start your tour at the central hub and visit the festive Old Town. The distances between stops and museums are short, minimizing time spent in the cold. The Tyskie Brewery is a cozy highlight in winter. End the day at the wintry lakeside before catching a warm bus back.",
+            "pl": "Podgrzewane autobusy i trolejbusy w Tychach to zbawienie zimą. Rozpocznij wycieczkę w centralnym węźle i odwiedź świątecznie rozświetlony Rynek Starego Miasta. Odległości między przystankami i muzeami są krótkie, co minimalizuje czas spędzony na mrozie. Muzeum Browaru Tyskie to przytulny punkt programu zimą. Zakończ dzień nad lodowatym jeziorem, a potem złap ciepły autobus powrotny."
           },
           "stops": [
             {
@@ -2095,7 +2263,8 @@
                 "de": "Häufiger Takt der Linien reduziert die Wartezeit in der Kälte.",
                 "hu": "A sűrű járatkövetés csökkenti a hidegben várakozást.",
                 "ro": "Frecvența mare a liniilor reduce timpul de așteptare în frig.",
-                "en": "Frequent service reduces waiting time in the cold."
+                "en": "Frequent service reduces waiting time in the cold.",
+                "pl": "Częste kursy skracają czas oczekiwania na mrozie."
               }
             },
             {
@@ -2104,7 +2273,8 @@
                 "de": "Kurzer, gut beleuchteter Weg von der Haltestelle zum Platz.",
                 "hu": "Rövid, jól megvilágított út a megállótól a térig.",
                 "ro": "Drum scurt și bine iluminat de la stație până în piață.",
-                "en": "Short, well-lit walk from the stop to the square."
+                "en": "Short, well-lit walk from the stop to the square.",
+                "pl": "Krótki, dobrze oświetlony spacer z przystanku na rynek."
               }
             },
             {
@@ -2113,7 +2283,8 @@
                 "de": "Warten Sie im Museumseingang, bis der Bus laut App kommt.",
                 "hu": "Várjon a múzeum bejáratánál, amíg az app szerint jön a busz.",
                 "ro": "Așteptați în intrarea muzeului până când vine autobuzul conform aplicației.",
-                "en": "Wait inside the museum entrance until the bus is due according to the app."
+                "en": "Wait inside the museum entrance until the bus is due according to the app.",
+                "pl": "Poczekaj we wnętrzu wejścia do muzeum aż autobus przyjedzie zgodnie z aplikacją."
               }
             },
             {
@@ -2122,7 +2293,8 @@
                 "de": "Beliebte Haltestelle, die auch im Winter gut beleuchtet ist.",
                 "hu": "Népszerű megálló, amely télen is jól megvilágított.",
                 "ro": "Stație populară, bine iluminată chiar și iarna.",
-                "en": "Popular stop that is well-lit even in winter."
+                "en": "Popular stop that is well-lit even in winter.",
+                "pl": "Popularny przystanek, dobrze oświetlony nawet zimą."
               }
             },
             {
@@ -2131,7 +2303,8 @@
                 "de": "In der Nähe gibt es ein beheiztes Café zum Aufwärmen.",
                 "hu": "A közelben fűtött kávézó található a felmelegedéshez.",
                 "ro": "În apropiere există o cafenea încălzită pentru a vă încălzi.",
-                "en": "There is a heated café nearby to warm up."
+                "en": "There is a heated café nearby to warm up.",
+                "pl": "W pobliżu znajduje się ogrzewana kawiarnia, gdzie można się rozgrzać."
               }
             },
             {
@@ -2140,7 +2313,8 @@
                 "de": "Der Windschutz der Haltestelle ist im Winter sehr wichtig.",
                 "hu": "A megálló szélvédelme télen nagyon fontos.",
                 "ro": "Protecția împotriva vântului a stației este foarte importantă iarna.",
-                "en": "The stop's wind protection is very important in winter."
+                "en": "The stop's wind protection is very important in winter.",
+                "pl": "Ochrona przed wiatrem na przystanku jest bardzo ważna zimą."
               }
             }
           ],
@@ -2168,6 +2342,12 @@
               "Check winter schedules as there might be minor changes.",
               "Wear shoes with good grip for the walk to the transit stops.",
               "Use the 'jakdojade' app for easy navigation and connections."
+            ],
+            "pl": [
+              "Pojazdy są dobrze ogrzewane, idealne na szybkie rozgrzanie między przystankami.",
+              "Sprawdź zimowe rozkłady, mogą występować drobne zmiany.",
+              "Noś buty o dobrej przyczepności na spacer do przystanków.",
+              "Użyj aplikacji 'jakdojade' do wygodnej nawigacji i przesiadek."
             ]
           }
         }

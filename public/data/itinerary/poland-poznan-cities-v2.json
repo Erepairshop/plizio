@@ -21,7 +21,8 @@
             "de": "Alter Markt",
             "hu": "Régi Piactér (Stary Rynek)",
             "ro": "Piața Veche (Stary Rynek)",
-            "en": "Old Market Square (Stary Rynek)"
+            "en": "Old Market Square (Stary Rynek)",
+            "pl": "Stary Rynek (Stary Rynek)"
           },
           "coords": [
             16.9342,
@@ -36,7 +37,8 @@
             "de": "Achten Sie um 12:00 Uhr auf die kämpfenden Ziegenböcke am Rathaus.",
             "hu": "Nézd meg a kecskék harcát a városházán délben!",
             "ro": "Urmăriți caprele care se luptă la primărie la ora 12:00.",
-            "en": "Watch for the fighting goats at the Town Hall at 12:00 PM."
+            "en": "Watch for the fighting goats at the Town Hall at 12:00 PM.",
+            "pl": "Uwaga na walczące koziołki przy Ratuszu o 12:00."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Posener Rathaus",
             "hu": "Poseni Városháza",
             "ro": "Primăria din Poznań",
-            "en": "Poznań Town Hall"
+            "en": "Poznań Town Hall",
+            "pl": "Ratusz w Poznaniu"
           },
           "coords": [
             16.9346,
@@ -59,7 +62,8 @@
             "de": "Das Innere beherbergt ein Museum über die Geschichte der Stadt.",
             "hu": "Bent a város történetét bemutató múzeum található.",
             "ro": "Interiorul găzduiește un muzeu despre istoria orașului.",
-            "en": "The interior houses a museum about the city's history."
+            "en": "The interior houses a museum about the city's history.",
+            "pl": "Wnętrze mieści muzeum o historii miasta."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Hörnchenmuseum",
             "hu": "Szarvacska Múzeum (Rogalowe Muzeum)",
             "ro": "Muzeul Croissantului (Rogalowe Muzeum)",
-            "en": "Croissant Museum (Rogalowe Muzeum)"
+            "en": "Croissant Museum (Rogalowe Muzeum)",
+            "pl": "Muzeum Rogala (Rogalowe Muzeum)"
           },
           "coords": [
             16.9338,
@@ -82,7 +87,8 @@
             "de": "Nehmen Sie an einem Workshop teil und backen Sie Ihr eigenes St.-Martin-Hörnchen.",
             "hu": "Vegyen részt egy workshopon és süsse meg a saját Szent Márton-kiflijét!",
             "ro": "Participați la un atelier și coaceți propriul croissant St. Martin.",
-            "en": "Join a workshop to bake your own St. Martin's croissant."
+            "en": "Join a workshop to bake your own St. Martin's croissant.",
+            "pl": "Weź udział w warsztatach i upiecz własnego rogala świętomarcińskiego."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Pfarrkirche St. Stanislaus",
             "hu": "Szent Szaniszló Plébániatemplom",
             "ro": "Biserica Parohială Sf. Stanislaus",
-            "en": "Parish Church of St. Stanislaus"
+            "en": "Parish Church of St. Stanislaus",
+            "pl": "Kościół parafialny św. Stanisława"
           },
           "coords": [
             16.9355,
@@ -105,7 +112,8 @@
             "de": "Besuchen Sie ein Orgelkonzert, um die prächtige Akustik zu erleben.",
             "hu": "Hallgasson meg egy orgonakoncertet, hogy megtapasztalja a csodálatos akusztikát.",
             "ro": "Asistați la un concert de orgă pentru a experimenta acustica magnifică.",
-            "en": "Attend an organ concert to experience the magnificent acoustics."
+            "en": "Attend an organ concert to experience the magnificent acoustics.",
+            "pl": "Wybierz się na koncert organowy, by doświadczyć wspaniałej akustyki."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Ostrów Tumski (Dominsel)",
             "hu": "Ostrów Tumski (Katedrális-sziget)",
             "ro": "Ostrów Tumski (Insula Catedralei)",
-            "en": "Ostrów Tumski (Cathedral Island)"
+            "en": "Ostrów Tumski (Cathedral Island)",
+            "pl": "Ostrów Tumski (Wyspa Katedralna)"
           },
           "coords": [
             16.946,
@@ -128,7 +137,8 @@
             "de": "Überqueren Sie die Bischof-Jordan-Brücke für eine malerische Aussicht.",
             "hu": "Menjen át a Jordán püspök hídon a festői kilátásért.",
             "ro": "Traversați Podul Episcopului Jordan pentru o priveliște pitorească.",
-            "en": "Cross the Bishop Jordan Bridge for a picturesque view."
+            "en": "Cross the Bishop Jordan Bridge for a picturesque view.",
+            "pl": "Przejdź Mostem Biskupa Jordana dla malowniczego widoku."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Erzkathedrale St. Peter und Paul",
             "hu": "Szent Péter és Pál Főszékesegyház",
             "ro": "Catedrala Sfinții Petru și Paul",
-            "en": "Archcathedral Basilica of St. Peter and St. Paul"
+            "en": "Archcathedral Basilica of St. Peter and St. Paul",
+            "pl": "Archikatedralna Bazylika św. Piotra i Pawła"
           },
           "coords": [
             16.947,
@@ -151,7 +162,8 @@
             "de": "Steigen Sie in die Krypta hinab, um die Überreste der ersten polnischen Herrscher zu sehen.",
             "hu": "Szálljon le a kriptába, hogy megnézze az első lengyel uralkodók maradványait.",
             "ro": "Coborâți în criptă pentru a vedea rămășițele primilor conducători polonezi.",
-            "en": "Descend into the crypt to see the remains of the first Polish rulers."
+            "en": "Descend into the crypt to see the remains of the first Polish rulers.",
+            "pl": "Zejdź do krypty, by zobaczyć szczątki pierwszych polskich władców."
           }
         },
         {
@@ -159,7 +171,8 @@
             "de": "Citadel-Park",
             "hu": "Citadella Park",
             "ro": "Parcul Cetății",
-            "en": "Citadel Park"
+            "en": "Citadel Park",
+            "pl": "Park Cytadela"
           },
           "coords": [
             16.93,
@@ -174,7 +187,8 @@
             "de": "Suchen Sie nach den „Unbekannten“ von Magdalena Abakanowicz, einer beeindruckenden Skulptureninstallation.",
             "hu": "Keresse meg Magdalena Abakanowicz „Ismeretlenek” című lenyűgöző szoborcsoportját.",
             "ro": "Căutați „Necunoscuții” de Magdalena Abakanowicz, o instalație sculpturală impresionantă.",
-            "en": "Look for the 'Unrecognized Ones' by Magdalena Abakanowicz, a stunning sculpture installation."
+            "en": "Look for the 'Unrecognized Ones' by Magdalena Abakanowicz, a stunning sculpture installation.",
+            "pl": "Szukaj „Niepoznanych” Magdaleny Abakanowicz — oszałamiającej instalacji rzeźbiarskiej."
           }
         }
       ],
@@ -182,7 +196,8 @@
         "de": "Beginnen Sie Ihren Tag auf dem pulsierenden Alten Markt, wo Sie die berühmten Ziegen des Rathauses sehen. Nach einem süßen Intermezzo im Hörnchenmuseum besuchen Sie die barocke Pracht der Pfarrkirche. Am Nachmittag schlendern Sie über die Dominsel, dem Geburtsort der polnischen Nation, und erkunden die beeindruckende Kathedrale. Schließen Sie Ihren Tag mit einem entspannenden Spaziergang durch den weitläufigen Citadel-Park ab, ein Ort voller Geschichte und Kunst.",
         "hu": "Kezdje a napot a nyüzsgő Régi Piactéren, ahol megnézheti a városháza híres kecskéit. Egy édes megálló után a Szarvacska Múzeumban, látogasson el a plébániatemplom barokk pompájához. Délután sétáljon át a Katedrális-szigetre, a lengyel nemzet szülőhelyére, és fedezze fel a lenyűgöző katedrálist. A napot egy pihentető sétával zárja a tágas Citadella Parkban, amely tele van történelemmel és művészettel.",
         "ro": "Începeți ziua în Piața Veche vibrantă, unde puteți vedea celebrele capre ale Primăriei. După un interludiu dulce la Muzeul Croissantului, vizitați splendoarea barocă a Bisericii Parohiale. După-amiaza, plimbați-vă pe Insula Catedralei, locul de naștere al națiunii poloneze, și explorați impresionanta catedrală. Încheiați ziua cu o plimbare relaxantă prin vastul Parc al Cetății, un loc plin de istorie și artă.",
-        "en": "Start your day in the vibrant Old Market Square, witnessing the famous Town Hall goats. After a sweet interlude at the Croissant Museum, visit the baroque splendor of the Parish Church. In the afternoon, stroll over to Cathedral Island, the birthplace of the Polish nation, and explore the impressive cathedral. Conclude your day with a relaxing walk through the expansive Citadel Park, a place steeped in history and art."
+        "en": "Start your day in the vibrant Old Market Square, witnessing the famous Town Hall goats. After a sweet interlude at the Croissant Museum, visit the baroque splendor of the Parish Church. In the afternoon, stroll over to Cathedral Island, the birthplace of the Polish nation, and explore the impressive cathedral. Conclude your day with a relaxing walk through the expansive Citadel Park, a place steeped in history and art.",
+        "pl": "Rozpocznij dzień na tętniącym życiem Starym Rynku, oglądając słynne koziołki z Ratusza. Po słodkiej przerwie w Muzeum Rogala odwiedź barokowy przepych kościoła parafialnego. Po południu przejdź na Wyspę Katedralną, kolebkę narodu polskiego, i zwiedź imponującą katedrę. Zakończ dzień relaksującym spacerem po rozległym Parku Cytadela, miejscu pełnym historii i sztuki."
       },
       "gastro_picks": {
         "de": [
@@ -378,6 +393,12 @@
           "Many museums are closed on Mondays, so plan accordingly.",
           "Always have some cash (Złoty) on hand for small purchases or tips.",
           "Take advantage of the free city maps available at tourist information centers."
+        ],
+        "pl": [
+          "Noś wygodne buty — bruk na Starym Mieście może być nierówny.",
+          "Wiele muzeów jest zamkniętych w poniedziałki, zaplanuj to wcześniej.",
+          "Zawsze miej przy sobie trochę gotówki (złote) na drobne zakupy lub napiwki.",
+          "Skorzystaj z darmowych map miasta dostępnych w punktach informacji turystycznej."
         ]
       },
       "variants": {
@@ -386,7 +407,8 @@
             "de": "Posen bei Regen hat einen melancholischen Charme. Der Alte Markt glänzt im nassen Kopfsteinpflaster, während die bunten Fassaden tiefere Farben annehmen. Der Vormittag konzentriert sich auf die überdachten Arkaden und das Rathaus.\n\nMittags bietet das Hörnchenmuseum den perfekten Zufluchtsort. Während es draußen prasselt, lernen Sie die Geheimnisse des St.-Martin-Gebäcks kennen und genießen die Wärme der Backstube.\n\nAm Nachmittag führt der Weg zur Dominsel. Die Überquerung der Brücke ist kurz, und die Kathedrale bietet einen majestätischen, trockenen Raum für Besinnung. Die Backsteingotik wirkt im grauen Licht besonders imposant.\n\nDer Abend im Zitadellenpark ist ruhig. Unter den dichten Bäumen findet man Schutz, bevor man den Tag in einem gemütlichen Restaurant in der Nähe ausklingen lässt.",
             "hu": "Poznań esőben is magával ragadó. Az Ópiac tér macskakövei tükrözik a színes házfalakat, a reggelt érdemes az árkádok alatt vagy a Városháza védelmében tölteni.\n\nDélben a Hörnchen (Kifli) Múzeum a legjobb menedék. Amíg kint esik, bent a Szent Márton-kifli készítésének titkaiba avatják be, miközben a friss sütemény illata és a meleg kemence feledteti az időjárást.\n\nDélután az Ostrów Tumski felé vesszük az irányt. A rövid séta a hídon át gyorsan megvan, a katedrális belső tere pedig tágas és száraz helyszín a történelmi kalandozáshoz.\n\nAz estét a Citadella parkban zárjuk. A sűrűbb lombok némi védelmet nyújtanak, a sétát pedig érdemes egy közeli, barátságos étteremben fejezni be.",
             "ro": "Poznań pe ploaie are un farmec melancolic. Piața Veche strălucește pe pavajul umed, iar fațadele colorate capătă nuanțe mai profunde. Dimineața se concentrează pe arcadele acoperite și Primărie.\n\nLa prânz, Muzeul Cornurilor oferă refugiul perfect. În timp ce afară plouă, învățați secretele patiseriei Sfântului Martin și vă bucurați de căldura brutăriei.\n\nDupă-amiaza, drumul duce spre Insula Catedralei. Traversarea podului este scurtă, iar catedrala oferă un spațiu maiestuos și uscat pentru reflecție. Goticul din cărămidă pare deosebit de impunător.\n\nSeara în Parcul Citadela este liniștită. Sub copacii deși găsiți protecție înainte de a încheia ziua într-un restaurant primitor din apropiere.",
-            "en": "Poznań in the rain has a melancholic charm. The Old Market Square glistens on the wet cobblestones, and the colorful facades take on deeper hues. The morning focuses on the covered arcades and the Town Hall.\n\nAt noon, the Croissant Museum provides the perfect shelter. While it pours outside, you learn the secrets of St. Martin's pastry and enjoy the warmth of the bakery.\n\nIn the afternoon, the path leads to Cathedral Island. The bridge crossing is short, and the cathedral offers a majestic, dry space for reflection. The brick Gothic looks particularly imposing in the grey light.\n\nThe evening in Citadel Park is quiet. The dense trees provide some shelter before ending the day in a cozy nearby restaurant."
+            "en": "Poznań in the rain has a melancholic charm. The Old Market Square glistens on the wet cobblestones, and the colorful facades take on deeper hues. The morning focuses on the covered arcades and the Town Hall.\n\nAt noon, the Croissant Museum provides the perfect shelter. While it pours outside, you learn the secrets of St. Martin's pastry and enjoy the warmth of the bakery.\n\nIn the afternoon, the path leads to Cathedral Island. The bridge crossing is short, and the cathedral offers a majestic, dry space for reflection. The brick Gothic looks particularly imposing in the grey light.\n\nThe evening in Citadel Park is quiet. The dense trees provide some shelter before ending the day in a cozy nearby restaurant.",
+            "pl": "Poznań w deszczu ma melancholijny urok. Stary Rynek błyszczy na mokrym bruku, a kolorowe elewacje nabierają głębszych barw. Rano skup się na zadaszonych arkadach i Ratuszu.\n\nW południe Muzeum Rogala zapewni doskonałe schronienie. Gdy na zewnątrz leje deszcz, poznasz tajniki rogala świętomarcińskiego i poczujesz ciepło piekarni.\n\nPo południu trasa prowadzi na Wyspę Katedralną. Przejście mostem jest krótkie, a katedra oferuje majestatyczną, suchą przestrzeń do refleksji. Ceglana gotycka budowla wygląda szczególnie imponująco w szarym świetle.\n\nWieczorem w Parku Cytadela panuje cisza. Gęste drzewa dają częściowe schronienie, a dzień warto zakończyć w przytulnej pobliskiej restauracji."
           },
           "stops": [
             {
@@ -395,7 +417,8 @@
                 "de": "Vorsicht auf dem glatten Kopfsteinpflaster; nutzen Sie die Arkadengänge.",
                 "hu": "Vigyázat, a vizes macskakő csúszik; használja az árkádos folyosókat.",
                 "ro": "Atenție pe pavajul umed; folosiți coridoarele cu arcade.",
-                "en": "Careful on the slippery cobblestones; use the arcaded walkways."
+                "en": "Careful on the slippery cobblestones; use the arcaded walkways.",
+                "pl": "Uważaj na śliskie kostki; korzystaj z arkad."
               }
             },
             {
@@ -404,7 +427,8 @@
                 "de": "Unter den Arkaden warten, um die Ziegenböcke um 12:00 Uhr trocken zu sehen.",
                 "hu": "Várjon az árkádok alatt, hogy szárazon láthassa a bakkecskéket délben.",
                 "ro": "Așteptați sub arcade pentru a vedea caprele la ora 12:00 fără să vă udați.",
-                "en": "Wait under the arches to watch the goats at 12:00 while staying dry."
+                "en": "Wait under the arches to watch the goats at 12:00 while staying dry.",
+                "pl": "Poczekaj pod arkadami, by oglądać koziołki o 12:00, zachowując suchość."
               }
             },
             {
@@ -413,7 +437,8 @@
                 "de": "Idealer Ort, um die Regenjacke zu trocknen und ein warmes Gebäck zu genießen.",
                 "hu": "Ideális hely az esőkabát megszárítására és egy meleg süti elfogyasztására.",
                 "ro": "Locul ideal pentru a vă usca pelerina și a savura o patiserie caldă.",
-                "en": "Ideal spot to dry your raincoat and enjoy a warm pastry."
+                "en": "Ideal spot to dry your raincoat and enjoy a warm pastry.",
+                "pl": "Idealne miejsce, by wysuszyć płaszcz przeciwdeszczowy i zjeść ciepłe ciastko."
               }
             },
             {
@@ -422,7 +447,8 @@
                 "de": "Eines der prächtigsten Barockinterieurs Polens bietet perfekten Schutz.",
                 "hu": "Lengyelország egyik legpompásabb barokk belső tere tökéletes menedék.",
                 "ro": "Unul dintre cele mai splendide interioare baroce din Polonia oferă adăpost perfect.",
-                "en": "One of Poland's most magnificent Baroque interiors offers perfect shelter."
+                "en": "One of Poland's most magnificent Baroque interiors offers perfect shelter.",
+                "pl": "Jedno z najbardziej wspaniałych barokowych wnętrz w Polsce zapewnia doskonałe schronienie."
               }
             },
             {
@@ -431,7 +457,8 @@
                 "de": "Nutzen Sie das interaktive 'Brama Poznania' Museum, falls der Regen stärker wird.",
                 "hu": "Használja az interaktív 'Brama Poznania' múzeumot, ha erősödik az eső.",
                 "ro": "Folosiți muzeul interactiv 'Brama Poznania' dacă ploaia se intensifică.",
-                "en": "Use the interactive 'Brama Poznania' museum if the rain gets heavier."
+                "en": "Use the interactive 'Brama Poznania' museum if the rain gets heavier.",
+                "pl": "Skorzystaj z interaktywnego muzeum 'Brama Poznania', jeśli deszcz się nasili."
               }
             },
             {
@@ -440,7 +467,8 @@
                 "de": "Die Krypten sind trocken und bieten faszinierende Einblicke in die Geschichte.",
                 "hu": "A kripták szárazak és lenyűgöző betekintést nyújtanak a történelembe.",
                 "ro": "Criptele sunt uscate și oferă perspective fascinante asupra istoriei.",
-                "en": "The crypts are dry and offer fascinating insights into history."
+                "en": "The crypts are dry and offer fascinating insights into history.",
+                "pl": "Krypty są suche i oferują fascynujący wgląd w historię."
               }
             },
             {
@@ -449,7 +477,8 @@
                 "de": "Die befestigten Wege sind auch bei Regen gut begehbar.",
                 "hu": "A kiépített utak esőben is jól járhatóak.",
                 "ro": "Aleile pavate sunt ușor de parcurs chiar și pe ploaie.",
-                "en": "The paved paths remain easily accessible even in the rain."
+                "en": "The paved paths remain easily accessible even in the rain.",
+                "pl": "Wybrukowane ścieżki pozostają łatwo dostępne nawet podczas deszczu."
               }
             }
           ],
@@ -481,6 +510,13 @@
               "Many cafes near the Jesuit church are very cozy during the rain.",
               "Utilize indoor passages near Paderewski Street.",
               "Trams are a great fallback if the downpour becomes too heavy."
+            ],
+            "pl": [
+              "Solidny parasol jest niezbędny ze względu na podmuchy wiatru na rynku.",
+              "Arkady na Starym Rynku zapewniają niemal ciągłe schronienie.",
+              "Wiele kawiarni przy kościele jezuitów jest bardzo przytulnych podczas deszczu.",
+              "Korzystaj z przejść krytych przy ulicy Paderewskiego.",
+              "Tramwaje to świetna alternatywa, jeśli ulewa stanie się zbyt silna."
             ]
           }
         },
@@ -489,7 +525,8 @@
             "de": "Ein winterlicher Spaziergang durch Posen ist erfrischend. Der Alte Markt ist oft festlich beleuchtet, und der Duft von gerösteten Mandeln liegt in der Luft. Der Morgen beginnt knackig kalt am Rathaus.\n\nMittags ist das Hörnchenmuseum die beste Wahl, um sich bei einer interaktiven Show aufzuwärmen. Das frisch gebackene St.-Martin-Hörnchen liefert die nötige Energie für den weiteren Weg.\n\nDer Nachmittag auf der Dominsel wirkt im Winterlicht fast magisch. Die gefrorene Warthe und die scharfen Silhouetten der Kathedrale bieten tolle Fotomotive. Die Kälte zieht schnell ein, also planen Sie Kaffeepausen ein.\n\nZum Abendessen geht es zum Zitadellenpark. Die Dämmerung setzt früh ein (gegen 16:00 Uhr), was den Skulpturen von Magdalena Abakanowicz eine mystische Atmosphäre verleiht.",
             "hu": "A téli Poznań frissítő élmény. Az Ópiac gyakran ünnepi fényekben úszik, a levegőben sült mandula illata száll. A reggel csípősen indul a Városházánál.\n\nDélben a Kiflimúzeum a legjobb hely a felmelegedésre egy interaktív bemutató során. A frissen sült Szent Márton-kifli megadja a kellő energiát a folytatáshoz.\n\nAz Ostrów Tumski délutáni fényekben szinte varázslatos. A befagyott Warta folyó és a katedrális éles sziluettje remek fotótéma. A hideg gyorsan átjárja az embert, érdemes kávészüneteket tervezni.\n\nEste a Citadella park következik. Korán sötétedik (16:00 körül), ami különleges, misztikus hangulatot ad Magdalena Abakanowicz szobrainak.",
             "ro": "O plimbare de iarnă prin Poznań este revigorantă. Piața Veche este adesea iluminată festiv, iar mirosul de migdale prăjite plutește în aer. Dimineața începe cu un frig pătrunzător la Primărie.\n\nLa prânz, Muzeul Cornurilor este cea mai bună alegere pentru a vă încălzi în timpul unui spectacol interactiv. Cornul Sfântului Martin proaspăt copt oferă energia necesară pentru drum.\n\nDupă-amiaza pe Insula Catedralei pare aproape magică în lumina iernii. Râul Warta înghețat și siluetele clare ale catedralei oferă motive foto excelente. Frigul se instalează repede, deci planificați pauze de cafea.\n\nSpre seară mergem în Parcul Citadela. Amurgul se lasă devreme (în jur de ora 16:00), ceea ce conferă sculpturilor Magdalenei Abakanowicz o atmosferă mistică.",
-            "en": "A winter walk through Poznań is refreshing. The Old Market is often festively lit, and the scent of roasted almonds fills the air. The morning starts crisp and cold by the Town Hall.\n\nAt noon, the Croissant Museum is the best place to warm up during an interactive show. The freshly baked St. Martin's croissant provides the necessary energy for the rest of the trip.\n\nIn the afternoon, Cathedral Island looks almost magical in the winter light. The frozen Warta river and the sharp silhouettes of the cathedral offer great photo opportunities. The cold sets in quickly, so plan for coffee breaks.\n\nIn the evening, head to Citadel Park. Twilight sets in early (around 4:00 PM), giving Magdalena Abakanowicz's sculptures a mystical atmosphere."
+            "en": "A winter walk through Poznań is refreshing. The Old Market is often festively lit, and the scent of roasted almonds fills the air. The morning starts crisp and cold by the Town Hall.\n\nAt noon, the Croissant Museum is the best place to warm up during an interactive show. The freshly baked St. Martin's croissant provides the necessary energy for the rest of the trip.\n\nIn the afternoon, Cathedral Island looks almost magical in the winter light. The frozen Warta river and the sharp silhouettes of the cathedral offer great photo opportunities. The cold sets in quickly, so plan for coffee breaks.\n\nIn the evening, head to Citadel Park. Twilight sets in early (around 4:00 PM), giving Magdalena Abakanowicz's sculptures a mystical atmosphere.",
+            "pl": "Zimowy spacer po Poznaniu orzeźwia. Stary Rynek często jest świątecznie oświetlony, a w powietrzu unosi się zapach prażonych migdałów. Poranek zaczyna się rześko i zimno przy Ratuszu.\n\nW południe Muzeum Rogala to najlepsze miejsce, by się rozgrzać podczas interaktywnego pokazu. Świeżo pieczony rogale świętomarcińskie dają energię na dalszą część wycieczki.\n\nPo południu Ostrów Tumski wygląda niemal magicznie w zimowym świetle. Zamarznięta Warta i ostre sylwetki katedry oferują świetne możliwości fotograficzne. Zimno szybko doskwiera, więc zaplanuj przerwy na kawę.\n\nWieczorem udaj się do Parku Cytadela. Zmierzch zapada wcześnie (około 16:00), nadając rzeźbom Magdaleny Abakanowicz mistyczną atmosferę."
           },
           "stops": [
             {
@@ -498,7 +535,8 @@
                 "de": "Genießen Sie den Weihnachtsmarkt (im Dezember) oder die festliche Beleuchtung.",
                 "hu": "Élvezze a karácsonyi vásárt (decemberben) vagy az ünnepi kivilágítást.",
                 "ro": "Bucurați-vă de târgul de Crăciun (în decembrie) sau de iluminatul festiv.",
-                "en": "Enjoy the Christmas market (in December) or the festive illuminations."
+                "en": "Enjoy the Christmas market (in December) or the festive illuminations.",
+                "pl": "Skorzystaj z jarmarku bożonarodzeniowego (w grudniu) lub świątecznych iluminacji."
               }
             },
             {
@@ -507,7 +545,8 @@
                 "de": "Die Ziegenböcke stoßen auch bei Minusgraden pünktlich um 12 Uhr zusammen.",
                 "hu": "A bakkecskék fagypont alatt is pontosan délben csapnak össze.",
                 "ro": "Caprele se ciocnesc fix la ora 12:00, chiar și la temperaturi negative.",
-                "en": "The goats clash promptly at noon, even in sub-zero temperatures."
+                "en": "The goats clash promptly at noon, even in sub-zero temperatures.",
+                "pl": "Koziołki zderzają się punktualnie w południe, nawet przy ujemnych temperaturach."
               }
             },
             {
@@ -516,7 +555,8 @@
                 "de": "Der wärmste und leckerste Stopp des Tages.",
                 "hu": "A nap legmelegebb és legfinomabb állomása.",
                 "ro": "Cea mai caldă și gustoasă oprire a zilei.",
-                "en": "The warmest and tastiest stop of the day."
+                "en": "The warmest and tastiest stop of the day.",
+                "pl": "Najcieplejszy i najsmaczniejszy przystanek dnia."
               }
             },
             {
@@ -525,7 +565,8 @@
                 "de": "Bewundern Sie die Krippe im Winter; die Kirche ist angenehm temperiert.",
                 "hu": "Csodálja meg a betlehemet télen; a templom kellemes hőmérsékletű.",
                 "ro": "Admirați ieslea de Crăciun iarna; biserica are o temperatură plăcută.",
-                "en": "Admire the nativity scene in winter; the church is pleasantly tempered."
+                "en": "Admire the nativity scene in winter; the church is pleasantly tempered.",
+                "pl": "Podziwiaj szopkę zimą; kościół ma przyjemną temperaturę."
               }
             },
             {
@@ -534,7 +575,8 @@
                 "de": "Warme Schuhe sind wichtig für den zugigen Weg über die Warta-Brücke.",
                 "hu": "A huzatos Warta-hídon való átkeléshez fontos a meleg lábbeli.",
                 "ro": "Încălțămintea călduroasă este importantă pentru drumul expus vântului peste podul Warta.",
-                "en": "Warm shoes are essential for the windy walk across the Warta bridge."
+                "en": "Warm shoes are essential for the windy walk across the Warta bridge.",
+                "pl": "Ciepłe buty są niezbędne na wietrzny spacer przez most na Warcie."
               }
             },
             {
@@ -543,7 +585,8 @@
                 "de": "Ein ruhiger Ort, um der Kälte für eine Weile zu entkommen.",
                 "hu": "Csendes hely, ahol egy időre elmenekülhet a hideg elől.",
                 "ro": "Un loc liniștit unde puteți scăpa de frig pentru o vreme.",
-                "en": "A quiet place to escape the cold for a while."
+                "en": "A quiet place to escape the cold for a while.",
+                "pl": "Ciche miejsce, by na chwilę uciec od zimna."
               }
             },
             {
@@ -552,7 +595,8 @@
                 "de": "Achten Sie auf vereiste Wege; der Park ist im Schnee wunderschön.",
                 "hu": "Ügyeljen a jeges utakra; a park gyönyörű a hóban.",
                 "ro": "Atenție la aleile înghețate; parcul este superb sub zăpadă.",
-                "en": "Watch out for icy paths; the park is beautiful in the snow."
+                "en": "Watch out for icy paths; the park is beautiful in the snow.",
+                "pl": "Uważaj na oblodzone ścieżki; park jest piękny na śniegu."
               }
             }
           ],
@@ -584,6 +628,13 @@
               "Look for 'Grzaniec' (mulled wine) at the market stalls.",
               "Sidewalks can be very slippery in the early morning.",
               "Woolen gloves are a must for the bridge crossings."
+            ],
+            "pl": [
+              "Ubieraj się warstwowo; wnętrza są dobrze ogrzewane.",
+              "Zachód słońca jest wcześnie, około 16:00.",
+              "Szukaj 'Grzańca' przy straganach na rynku.",
+              "Chodniki mogą być bardzo śliskie wczesnym rankiem.",
+              "Wełniane rękawice są konieczne przy przejściach mostowych."
             ]
           }
         }
@@ -602,7 +653,8 @@
             "de": "Alter Markt & Rathaus",
             "hu": "Régi Piactér és Városháza",
             "ro": "Piața Veche și Primăria",
-            "en": "Old Market Square & Town Hall"
+            "en": "Old Market Square & Town Hall",
+            "pl": "Stary Rynek & Ratusz"
           },
           "coords": [
             16.9342,
@@ -617,7 +669,8 @@
             "de": "Schließen Sie Ihr Fahrrad sicher ab, bevor Sie den Platz erkunden.",
             "hu": "Zárja le biztonságosan a kerékpárját, mielőtt felfedezné a teret.",
             "ro": "Încuiați-vă bicicleta în siguranță înainte de a explora piața.",
-            "en": "Lock your bike securely before exploring the square."
+            "en": "Lock your bike securely before exploring the square.",
+            "pl": "Zabezpiecz rower przed zwiedzaniem rynku."
           }
         },
         {
@@ -625,7 +678,8 @@
             "de": "Ostrów Tumski & Kathedrale",
             "hu": "Ostrów Tumski és Katedrális",
             "ro": "Ostrów Tumski și Catedrala",
-            "en": "Ostrów Tumski & Cathedral"
+            "en": "Ostrów Tumski & Cathedral",
+            "pl": "Ostrów Tumski & Katedra"
           },
           "coords": [
             16.946,
@@ -640,7 +694,8 @@
             "de": "Genießen Sie die ruhige Fahrt über die Brücke zur Insel.",
             "hu": "Élvezze a nyugodt tekerést a hídon át a szigetre.",
             "ro": "Bucurați-vă de plimbarea liniștită peste podul spre insulă.",
-            "en": "Enjoy the peaceful ride across the bridge to the island."
+            "en": "Enjoy the peaceful ride across the bridge to the island.",
+            "pl": "Ciesz się spokojną przejażdżką przez most na wyspę."
           }
         },
         {
@@ -648,7 +703,8 @@
             "de": "Malta-See",
             "hu": "Máltai-tó",
             "ro": "Lacul Malta",
-            "en": "Lake Malta"
+            "en": "Lake Malta",
+            "pl": "Jezioro Maltańskie"
           },
           "coords": [
             16.98,
@@ -663,7 +719,8 @@
             "de": "Radfahren Sie um den See herum oder probieren Sie die Sommerrodelbahn aus.",
             "hu": "Kerékpározzon a tó körül, vagy próbálja ki a nyári bobpályát.",
             "ro": "Mergeți cu bicicleta în jurul lacului sau încercați pista de tobogan de vară.",
-            "en": "Cycle around the lake or try the summer toboggan run."
+            "en": "Cycle around the lake or try the summer toboggan run.",
+            "pl": "Objedź jezioro rowerem lub spróbuj letniej zjeżdżalni grawitacyjnej."
           }
         },
         {
@@ -671,7 +728,8 @@
             "de": "Residenzschloss",
             "hu": "Császári kastély",
             "ro": "Castelul Imperial",
-            "en": "Imperial Castle"
+            "en": "Imperial Castle",
+            "pl": "Zamek Cesarski"
           },
           "coords": [
             16.914,
@@ -686,7 +744,8 @@
             "de": "Erkunden Sie die beeindruckenden Innenhöfe und den Park.",
             "hu": "Fedezze fel a lenyűgöző udvarokat és a parkot.",
             "ro": "Explorați curțile interioare impresionante și parcul.",
-            "en": "Explore the impressive courtyards and the park."
+            "en": "Explore the impressive courtyards and the park.",
+            "pl": "Odkryj imponujące dziedzińce i park."
           }
         },
         {
@@ -694,7 +753,8 @@
             "de": "Citadel-Park",
             "hu": "Citadella Park",
             "ro": "Parcul Cetății",
-            "en": "Citadel Park"
+            "en": "Citadel Park",
+            "pl": "Park Cytadela"
           },
           "coords": [
             16.93,
@@ -709,7 +769,8 @@
             "de": "Der Park ist riesig, das Fahrrad ist ideal, um die verschiedenen Denkmäler und Museen zu erreichen.",
             "hu": "A park hatalmas, a kerékpár ideális a különböző emlékművek és múzeumok eléréséhez.",
             "ro": "Parcul este imens, bicicleta este ideală pentru a ajunge la diversele monumente și muzee.",
-            "en": "The park is huge; a bike is perfect for reaching the various monuments and museums within."
+            "en": "The park is huge; a bike is perfect for reaching the various monuments and museums within.",
+            "pl": "Park jest ogromny; rower idealnie nadaje się do dotarcia do różnych pomników i muzeów."
           }
         },
         {
@@ -717,7 +778,8 @@
             "de": "Pfarrkirche St. Stanislaus",
             "hu": "Szent Szaniszló Plébániatemplom",
             "ro": "Biserica Parohială Sf. Stanislaus",
-            "en": "Parish Church of St. Stanislaus"
+            "en": "Parish Church of St. Stanislaus",
+            "pl": "Kościół parafialny św. Stanisława"
           },
           "coords": [
             16.9355,
@@ -732,7 +794,8 @@
             "de": "Bewundern Sie die reiche barocke Innenausstattung.",
             "hu": "Csodálja meg a gazdag barokk belső teret.",
             "ro": "Admirați interiorul baroc bogat.",
-            "en": "Marvel at the rich baroque interior."
+            "en": "Marvel at the rich baroque interior.",
+            "pl": "Zachwyć się bogatym barokowym wnętrzem."
           }
         },
         {
@@ -740,7 +803,8 @@
             "de": "Zurück zum Alten Markt",
             "hu": "Vissza a Régi Piactérre",
             "ro": "Înapoi în Piața Veche",
-            "en": "Return to Old Market Square"
+            "en": "Return to Old Market Square",
+            "pl": "Powrót na Stary Rynek"
           },
           "coords": [
             16.9342,
@@ -755,7 +819,8 @@
             "de": "Genießen Sie ein wohlverdientes Abendessen in einem der vielen Restaurants.",
             "hu": "Élvezze a jól megérdemelt vacsorát a sok étterem egyikében.",
             "ro": "Bucurați-vă de o cină binemeritată la unul dintre multele restaurante.",
-            "en": "Enjoy a well-deserved dinner at one of the many restaurants."
+            "en": "Enjoy a well-deserved dinner at one of the many restaurants.",
+            "pl": "Zasłużona kolacja w jednej z licznych restauracji."
           }
         }
       ],
@@ -763,7 +828,8 @@
         "de": "Starten Sie am Alten Markt, bevor Sie zur historischen Dominsel radeln. Der Vormittag steht im Zeichen der Natur am weitläufigen Malta-See, ideal für eine ausgedehnte Radtour. Nach dem Mittagessen erkunden Sie das imposante Residenzschloss. Am Nachmittag fahren Sie durch den geschichtsträchtigen Citadel-Park und beenden Ihre Tour mit der barocken Pracht der Pfarrkirche, bevor Sie zum Abendessen zum Alten Markt zurückkehren.",
         "hu": "Induljon a Régi Piactérről, majd tekerjen át a történelmi Katedrális-szigetre. A délelőtt a természeté a tágas Máltai-tónál, amely ideális egy hosszabb kerékpártúrához. Ebéd után fedezze fel a lenyűgöző Császári kastélyt. Délután áthalad a történelmi Citadella Parkon, és a túrát a plébániatemplom barokk pompájával zárja, mielőtt visszatérne a Régi Piactérre vacsorázni.",
         "ro": "Începeți din Piața Veche înainte de a merge cu bicicleta spre istorica Insulă a Catedralei. Dimineața este dedicată naturii la vastul Lac Malta, ideal pentru o plimbare lungă cu bicicleta. După prânz, explorați impunătorul Castel Imperial. După-amiaza, pedalați prin Parcul Cetății, încărcat de istorie, și încheiați turul cu splendoarea barocă a Bisericii Parohiale înainte de a vă întoarce în Piața Veche pentru cină.",
-        "en": "Start at the Old Market Square before cycling to the historic Cathedral Island. The morning is for nature at the expansive Lake Malta, perfect for a long bike ride. After lunch, explore the imposing Imperial Castle. In the afternoon, ride through the history-filled Citadel Park, and finish your tour with the baroque splendor of the Parish Church before returning to the Old Market Square for dinner."
+        "en": "Start at the Old Market Square before cycling to the historic Cathedral Island. The morning is for nature at the expansive Lake Malta, perfect for a long bike ride. After lunch, explore the imposing Imperial Castle. In the afternoon, ride through the history-filled Citadel Park, and finish your tour with the baroque splendor of the Parish Church before returning to the Old Market Square for dinner.",
+        "pl": "Rozpocznij przy Starym Rynku, potem ruszaj rowerem na historyczny Ostrów Tumski. Poranek poświęcony jest naturze nad rozległym Jeziorem Maltańskim, idealnym na długą przejażdżkę. Po obiedzie zwiedź monumentalny Zamek Cesarski. Po południu przejedź przez pełen historii Park Cytadela, a na koniec podziwiaj barokowy splendor kościoła parafialnego przed powrotem na Stary Rynek na kolację."
       },
       "gastro_picks": {
         "de": [
@@ -959,6 +1025,12 @@
           "Some areas in the Old Town are pedestrian-only, you may need to dismount.",
           "Check your tire pressure and brakes before setting off.",
           "A helmet is strongly recommended for your safety."
+        ],
+        "pl": [
+          "Korzystaj z dobrze rozwiniętej sieci ścieżek rowerowych, zwłaszcza wokół Jeziora Maltańskiego.",
+          "Niektóre obszary Starego Miasta są dla pieszych; możesz musieć zejść z roweru.",
+          "Sprawdź ciśnienie w oponach i hamulce przed wyruszeniem.",
+          "Kask jest zdecydowanie zalecany dla bezpieczeństwa."
         ]
       },
       "variants": {
@@ -967,7 +1039,8 @@
             "de": "Radfahren in Posen bei Regen erfordert gute Ausrüstung. Die Radwege sind gut ausgebaut, aber das Kopfsteinpflaster im Zentrum verlangt Vorsicht. Der Morgen startet am Alten Markt.\n\nMittags führt die Tour zum Maltasee. Die Fahrt ist erfrischend, und der See wirkt bei Regen dramatisch. Es gibt viele Unterstände entlang der Strecke.\n\nDer Nachmittag bringt Sie zum Kaiserschloss. Die trockenen Ausstellungsräume sind eine willkommene Abwechslung nach der Fahrt im Regen.\n\nDen Tag beenden Sie mit einer schnellen Fahrt durch den Zitadellenpark zurück zum Zentrum. Die asphaltierten Wege im Park leiten das Wasser gut ab.",
             "hu": "A kerékpározás Poznańban esőben jó felszerelést igényel. A kerékpárutak jól kiépítettek, de a központ macskakövei óvatosságot követelnek. A reggel az Ópiacon indul.\n\nDélben a túra a Máltai-tóhoz vezet. A tekerés frissítő, a tó pedig drámai látványt nyújt esőben. Az útvonal mentén sok a fedett pihenőhely.\n\nDélután a Császári Kastélyhoz érünk. A száraz kiállítótermek kellemes váltást jelentenek az esős tekerés után.\n\nA napot a Citadella parkon át való gyors visszatéréssel zárjuk a központba. A park aszfaltozott útjai jól elvezetik a vizet.",
             "ro": "Mersul pe bicicletă în Poznań pe ploaie necesită echipament bun. Pistele sunt bine amenajate, dar pavajul din centru cere prudență. Dimineața începe în Piața Veche.\n\nLa prânz, turul duce spre Lacul Malta. Plimbarea este revigorantă, iar lacul pare dramatic pe ploaie. Există multe adăposturi de-a lungul traseului.\n\nDupă-amiaza vă aduce la Castelul Imperial. Sălile de expoziție uscate sunt o schimbare binevenită după tura prin ploaie.\n\nÎncheiați ziua cu o tură rapidă prin Parcul Citadela înapoi spre centru. Aleile asfaltate din parc drenează bine apa.",
-            "en": "Cycling in Poznań in the rain requires good gear. Cycle paths are well-developed, but center cobblestones demand caution. The morning starts at the Old Market.\n\nAt noon, the tour leads to Lake Malta. The ride is refreshing, and the lake looks dramatic in the rain. There are many shelters along the route.\n\nIn the afternoon, you reach the Imperial Castle. The dry exhibition rooms are a welcome change after riding in the rain.\n\nEnd the day with a quick ride through Citadel Park back to the center. The paved paths in the park drain water well."
+            "en": "Cycling in Poznań in the rain requires good gear. Cycle paths are well-developed, but center cobblestones demand caution. The morning starts at the Old Market.\n\nAt noon, the tour leads to Lake Malta. The ride is refreshing, and the lake looks dramatic in the rain. There are many shelters along the route.\n\nIn the afternoon, you reach the Imperial Castle. The dry exhibition rooms are a welcome change after riding in the rain.\n\nEnd the day with a quick ride through Citadel Park back to the center. The paved paths in the park drain water well.",
+            "pl": "Jazda rowerem po deszczu w Poznaniu wymaga dobrego sprzętu. Ścieżki rowerowe są dobrze rozwinięte, ale bruk w centrum wymaga ostrożności. Poranek zaczyna się na Starym Rynku.\n\nW południe trasa prowadzi nad Jezioro Maltańskie. Przejazd orzeźwia, a jezioro wygląda dramatycznie podczas deszczu. Na trasie jest wiele miejsc do schronienia.\n\nPo południu dotrzesz do Zamku Cesarskiego. Suche sale wystawowe będą miłą odmianą po jeździe w deszczu.\n\nZakończ dzień krótkim przejazdem przez Park Cytadela z powrotem do centrum. Wybrukowane ścieżki w parku dobrze odprowadzają wodę."
           },
           "stops": [
             {
@@ -976,7 +1049,8 @@
                 "de": "Vorsicht beim Absteigen; nasses Kopfsteinpflaster ist sehr rutschig.",
                 "hu": "Vigyázat a leszálláskor; a vizes macskakő nagyon csúszik.",
                 "ro": "Atenție la coborâre; pavajul umed este foarte alunecos.",
-                "en": "Careful when dismounting; wet cobblestones are very slippery."
+                "en": "Careful when dismounting; wet cobblestones are very slippery.",
+                "pl": "Uważaj przy zsiadaniu; mokry bruk jest bardzo śliski."
               }
             },
             {
@@ -985,7 +1059,8 @@
                 "de": "Parken Sie Ihr Rad an den überdachten Ständern nahe des Doms.",
                 "hu": "Parkolja le a biciklit a dóm közeli fedett tárolóknál.",
                 "ro": "Parcați bicicleta la rastelele acoperite de lângă catedrală.",
-                "en": "Park your bike at the covered racks near the cathedral."
+                "en": "Park your bike at the covered racks near the cathedral.",
+                "pl": "Zaparkuj rower na zadaszonych stojakach przy katedrze."
               }
             },
             {
@@ -994,7 +1069,8 @@
                 "de": "Der Rundweg ist asphaltiert und bietet auch bei Nässe guten Grip.",
                 "hu": "A körút aszfaltozott, esőben is jó tapadást biztosít.",
                 "ro": "Traseul circular este asfaltat și oferă aderență bună chiar și pe ud.",
-                "en": "The circular path is paved and offers good grip even when wet."
+                "en": "The circular path is paved and offers good grip even when wet.",
+                "pl": "Ścieżka okrężna jest utwardzona i zapewnia dobrą przyczepność nawet na mokro."
               }
             },
             {
@@ -1003,7 +1079,8 @@
                 "de": "Nutzen Sie den überdachten Innenhof, um das Rad kurz abzustellen.",
                 "hu": "Használja a fedett belső udvart a bicikli rövid idejű tárolására.",
                 "ro": "Folosiți curtea interioară acoperită pentru a lăsa scurt bicicleta.",
-                "en": "Use the covered inner courtyard for short-term bike parking."
+                "en": "Use the covered inner courtyard for short-term bike parking.",
+                "pl": "Korzystaj z zadaszonego wewnętrznego dziedzińca do krótkiego parkowania roweru."
               }
             },
             {
@@ -1012,7 +1089,8 @@
                 "de": "Vermeiden Sie die Rasenflächen; bleiben Sie auf den Hauptwegen.",
                 "hu": "Kerülje a füves területeket; maradjon a főutakon.",
                 "ro": "Evitați zonele cu iarbă; rămâneți pe aleile principale.",
-                "en": "Avoid grassy areas; stick to the main paths."
+                "en": "Avoid grassy areas; stick to the main paths.",
+                "pl": "Unikaj trawników; trzymaj się głównych ścieżek."
               }
             },
             {
@@ -1021,7 +1099,8 @@
                 "de": "Ein kurzer Stopp im Trockenen, bevor es zurück zum Markt geht.",
                 "hu": "Egy rövid megálló szárazon, mielőtt visszatérne a piacra.",
                 "ro": "O scurtă oprire la adăpost înainte de a reveni în piață.",
-                "en": "A short dry stop before returning to the market."
+                "en": "A short dry stop before returning to the market.",
+                "pl": "Krótki suchy postój przed powrotem na rynek."
               }
             },
             {
@@ -1030,7 +1109,8 @@
                 "de": "Reinigen Sie Ihre Bremsen nach der Fahrt auf nassen Straßen.",
                 "hu": "Tisztítsa meg a fékeket a vizes utakon való tekerés után.",
                 "ro": "Curățați frânele după tura pe drumuri ude.",
-                "en": "Clean your brakes after riding on wet roads."
+                "en": "Clean your brakes after riding on wet roads.",
+                "pl": "Wyczyść hamulce po jeździe po mokrych drogach."
               }
             }
           ],
@@ -1062,6 +1142,13 @@
               "Use Nextbike stations with rain covers if available.",
               "Brake early on wet cobblestones.",
               "A waterproof phone mount is very helpful for navigation."
+            ],
+            "pl": [
+              "Błotniki są niezbędne przy poznańskich deszczach.",
+              "Unikaj białych oznaczeń drogowych; stają się niezwykle śliskie.",
+              "Korzystaj ze stacji Nextbike z daszkami, jeśli są dostępne.",
+              "Hamuj wcześniej na mokrym bruku.",
+              "Wodoszczelny uchwyt na telefon bardzo pomaga w nawigacji."
             ]
           }
         },
@@ -1070,7 +1157,8 @@
             "de": "Winterliches Radfahren in Posen ist etwas für Hartgesottene. Die Stadt hält die Hauptwege schnee- und eisfrei. Der Morgen beginnt am belebten Rathaus.\n\nMittags radeln Sie zum Maltasee. Bei klarem Winterwetter ist die Aussicht auf den See fantastisch, aber der Wind kann schneidend sein.\n\nDer Nachmittag am Kaiserschloss bietet die nötige Wärme. Das Radfahren zwischen den historischen Gebäuden ist im Winter ruhiger, da weniger Touristen unterwegs sind.\n\nZum Abschluss geht es durch den Zitadellenpark. Die verschneiten Bäume verwandeln den Park in ein Winterwunderland, solange es noch hell ist.",
             "hu": "A téli kerékpározás Poznańban a bátraknak való. A város tisztán tartja a főbb utakat. A reggel a nyüzsgő Városházánál indul.\n\nDélben a Máltai-tóhoz tekerünk. Tiszta téli időben a kilátás fantasztikus, de a szél metsző lehet.\n\nA Császári Kastély délutáni látogatása biztosítja a szükséges meleget. A történelmi épületek közötti tekerés télen nyugodtabb a kevesebb turista miatt.\n\nZárásként a Citadella park következik. A havas fák téli meseországgá változtatják a parkot, amíg még világos van.",
             "ro": "Mersul pe bicicletă iarna în Poznań este pentru cei rezistenți. Orașul menține pistele principale curate. Dimineața începe la Primăria animată.\n\nLa prânz pedalați spre Lacul Malta. Pe vreme senină de iarnă, priveliștea asupra lacului este fantastică, dar vântul poate fi tăios.\n\nDupă-amiaza la Castelul Imperial oferă căldura necesară. Mersul pe bicicletă între clădirile istorice este mai liniștit iarna, fiind mai puțini turiști.\n\nLa final, treceți prin Parcul Citadela. Copacii înzăpeziți transformă parcul într-un tărâm de basm cât timp este încă lumină.",
-            "en": "Winter cycling in Poznań is for the hardy. The city keeps main paths clear of snow and ice. The morning starts at the bustling Town Hall.\n\nAt noon, cycle to Lake Malta. In clear winter weather, the lake views are fantastic, but the wind can be biting.\n\nIn the afternoon, the Imperial Castle provides much-needed warmth. Cycling between historic buildings is quieter in winter with fewer tourists around.\n\nTo finish, head through Citadel Park. The snowy trees turn the park into a winter wonderland as long as it's still light."
+            "en": "Winter cycling in Poznań is for the hardy. The city keeps main paths clear of snow and ice. The morning starts at the bustling Town Hall.\n\nAt noon, cycle to Lake Malta. In clear winter weather, the lake views are fantastic, but the wind can be biting.\n\nIn the afternoon, the Imperial Castle provides much-needed warmth. Cycling between historic buildings is quieter in winter with fewer tourists around.\n\nTo finish, head through Citadel Park. The snowy trees turn the park into a winter wonderland as long as it's still light.",
+            "pl": "Zimowa jazda rowerem po Poznaniu jest dla wytrwałych. Miasto udrożnia główne ścieżki ze śniegu i lodu. Poranek zaczyna się przy tętniącym życiem Ratuszu.\n\nW południe pojedź nad Jezioro Maltańskie. Przy pogodnym zimowym dniu widoki nad jeziorem są fantastyczne, ale wiatr może być przenikliwy.\n\nPo południu Zamek Cesarski zapewnia potrzebne ciepło. Jazda między zabytkowymi budynkami jest spokojniejsza zimą przy mniejszej liczbie turystów.\n\nNa koniec przejedź przez Park Cytadela. Za dnia śnieżne drzewa przemieniają park w zimową krainę czarów."
           },
           "stops": [
             {
@@ -1079,7 +1167,8 @@
                 "de": "Achten Sie auf gefrorenes Wasser zwischen den Pflastersteinen.",
                 "hu": "Ügyeljen a kövek közötti megfagyott vízre.",
                 "ro": "Atenție la apa înghețată dintre pietrele de pavaj.",
-                "en": "Watch out for frozen patches between the cobblestones."
+                "en": "Watch out for frozen patches between the cobblestones.",
+                "pl": "Uważaj na oblodzone miejsca między kostkami brukowymi."
               }
             },
             {
@@ -1088,7 +1177,8 @@
                 "de": "Der Wind auf der Brücke kann die gefühlte Temperatur stark senken.",
                 "hu": "A hídon fújó szél jelentősen csökkentheti a hőérzetet.",
                 "ro": "Vântul de pe pod poate scădea considerabil temperatura resimțită.",
-                "en": "Wind on the bridge can significantly lower the perceived temperature."
+                "en": "Wind on the bridge can significantly lower the perceived temperature.",
+                "pl": "Wiatr na moście znacząco obniża odczuwalną temperaturę."
               }
             },
             {
@@ -1097,7 +1187,8 @@
                 "de": "Halten Sie Ausschau nach Eisseglern oder Schlittschuhläufern.",
                 "hu": "Figyelje a jégvitorlázókat vagy a korcsolyázókat a tavon.",
                 "ro": "Căutați navigatorii pe gheață sau patinatorii pe lac.",
-                "en": "Look out for ice sailors or ice skaters on the lake."
+                "en": "Look out for ice sailors or ice skaters on the lake.",
+                "pl": "Zwróć uwagę na żeglarzy lodowych lub łyżwiarzy na jeziorze."
               }
             },
             {
@@ -1106,7 +1197,8 @@
                 "de": "Ein guter Ort für eine warme Schokolade im Schloss-Café.",
                 "hu": "Remek hely egy forró csokoládéra a kastély kávézójában.",
                 "ro": "Un loc bun pentru o ciocolată caldă la cafeneaua castelului.",
-                "en": "A great spot for hot chocolate in the castle cafe."
+                "en": "A great spot for hot chocolate in the castle cafe.",
+                "pl": "Świetne miejsce na gorącą czekoladę w kawiarni zamkowej."
               }
             },
             {
@@ -1115,7 +1207,8 @@
                 "de": "Die Wege können bei Sonnenuntergang schnell überfrieren.",
                 "hu": "Az utak naplemente után gyorsan lefagyhatnak.",
                 "ro": "Aleile pot îngheța rapid după apusul soarelui.",
-                "en": "Paths can freeze over quickly after sunset."
+                "en": "Paths can freeze over quickly after sunset.",
+                "pl": "Ścieżki szybko zamarzają po zmroku."
               }
             },
             {
@@ -1124,7 +1217,8 @@
                 "de": "Wärmen Sie Ihre Hände kurz auf, bevor Sie das letzte Stück radeln.",
                 "hu": "Melegítse fel a kezét egy kicsit, mielőtt az utolsó szakaszt megtenné.",
                 "ro": "Încălziți-vă scurt mâinile înainte de ultima etapă a traseului.",
-                "en": "Warm your hands briefly before the final stretch."
+                "en": "Warm your hands briefly before the final stretch.",
+                "pl": "Na chwilę ogrzej dłonie przed ostatnim odcinkiem."
               }
             },
             {
@@ -1133,7 +1227,8 @@
                 "de": "Die Lichter des Marktes wirken bei Kälte besonders klar.",
                 "hu": "A piac fényei a hidegben különösen tisztának tűnnek.",
                 "ro": "Luminile pieței par deosebit de clare pe frig.",
-                "en": "The market lights look especially crisp in the cold."
+                "en": "The market lights look especially crisp in the cold.",
+                "pl": "Światła na rynku wyglądają szczególnie ostro na mrozie."
               }
             }
           ],
@@ -1165,6 +1260,13 @@
               "E-bike batteries drain faster in the cold.",
               "Use bright lights as it gets dark very early.",
               "A thermal mug with tea in your bottle holder works wonders."
+            ],
+            "pl": [
+              "Ciepłe rękawice i cienka czapka pod kask są obowiązkowe.",
+              "Nieznacznie obniż ciśnienie w oponach dla lepszej przyczepności na śniegu.",
+              "Akumulatory w e-bike'ach szybciej tracą pojemność na mrozie.",
+              "Używaj mocnych świateł, bo szybko robi się ciemno.",
+              "Termiczny kubek z herbatą w uchwycie na butelkę robi wielką różnicę."
             ]
           }
         }
@@ -1183,7 +1285,8 @@
             "de": "Cluster 1: Parken am Citadel-Park",
             "hu": "1. klaszter: Parkolás a Citadella Parknál",
             "ro": "Cluster 1: Parcare la Parcul Cetății",
-            "en": "Cluster 1: Park at Citadel Park"
+            "en": "Cluster 1: Park at Citadel Park",
+            "pl": "Klaster 1: Parkuj w Parku Cytadela"
           },
           "coords": [
             16.93,
@@ -1198,7 +1301,8 @@
             "de": "Beginnen Sie den Tag mit einem Spaziergang durch die Geschichte und Kunst des Parks.",
             "hu": "Kezdje a napot egy sétával a park történelmében és művészetében.",
             "ro": "Începeți ziua cu o plimbare prin istoria și arta parcului.",
-            "en": "Start the day with a walk through the park's history and art."
+            "en": "Start the day with a walk through the park's history and art.",
+            "pl": "Rozpocznij dzień spacerem przez historię i sztukę parku."
           }
         },
         {
@@ -1206,7 +1310,8 @@
             "de": "Residenzschloss",
             "hu": "Császári kastély",
             "ro": "Castelul Imperial",
-            "en": "Imperial Castle"
+            "en": "Imperial Castle",
+            "pl": "Zamek Cesarski"
           },
           "coords": [
             16.914,
@@ -1221,7 +1326,8 @@
             "de": "Fahren Sie zum Schloss und parken Sie in der Nähe. Ein kurzer Spaziergang vom Park.",
             "hu": "Vezessen a kastélyhoz és parkoljon a közelben. Rövid séta a parktól.",
             "ro": "Conduceți la castel și parcați în apropiere. O scurtă plimbare de la parc.",
-            "en": "Drive and park near the castle. A short walk from the park."
+            "en": "Drive and park near the castle. A short walk from the park.",
+            "pl": "Jadąc, zaparkuj blisko zamku. Krótki spacer z parku."
           }
         },
         {
@@ -1229,7 +1335,8 @@
             "de": "Cluster 2: Parken in der Nähe des Alten Marktes",
             "hu": "2. klaszter: Parkolás a Régi Piactér közelében",
             "ro": "Cluster 2: Parcare lângă Piața Veche",
-            "en": "Cluster 2: Park near Old Market Square"
+            "en": "Cluster 2: Park near Old Market Square",
+            "pl": "Klaster 2: Parkuj przy Starym Rynku"
           },
           "coords": [
             16.9342,
@@ -1244,7 +1351,8 @@
             "de": "Finden Sie einen Parkplatz und erkunden Sie das historische Zentrum zu Fuß.",
             "hu": "Keressen egy parkolóhelyet, és fedezze fel gyalog a történelmi központot.",
             "ro": "Găsiți un loc de parcare și explorați centrul istoric pe jos.",
-            "en": "Find a parking spot and explore the historic center on foot."
+            "en": "Find a parking spot and explore the historic center on foot.",
+            "pl": "Znaleźć miejsce parkingowe i zwiedzać zabytkowe centrum pieszo."
           }
         },
         {
@@ -1252,7 +1360,8 @@
             "de": "Posener Rathaus & Hörnchenmuseum",
             "hu": "Poseni Városháza és Szarvacska Múzeum",
             "ro": "Primăria și Muzeul Croissantului",
-            "en": "Town Hall & Croissant Museum"
+            "en": "Town Hall & Croissant Museum",
+            "pl": "Ratusz & Muzeum Rogala"
           },
           "coords": [
             16.934,
@@ -1267,7 +1376,8 @@
             "de": "Ein kurzer Spaziergang vom Parkplatz. Ideal für eine Mittagspause.",
             "hu": "Rövid séta a parkolótól. Ideális egy ebédszünetre.",
             "ro": "O scurtă plimbare de la parcare. Ideal pentru o pauză de prânz.",
-            "en": "A short walk from your parking spot. Perfect for a lunch break."
+            "en": "A short walk from your parking spot. Perfect for a lunch break.",
+            "pl": "Krótki spacer z miejsca parkingowego. Idealne na przerwę na lunch."
           }
         },
         {
@@ -1275,7 +1385,8 @@
             "de": "Pfarrkirche St. Stanislaus",
             "hu": "Szent Szaniszló Plébániatemplom",
             "ro": "Biserica Parohială Sf. Stanislaus",
-            "en": "Parish Church of St. Stanislaus"
+            "en": "Parish Church of St. Stanislaus",
+            "pl": "Kościół parafialny św. Stanisława"
           },
           "coords": [
             16.9355,
@@ -1290,7 +1401,8 @@
             "de": "Nur wenige Schritte vom Hauptplatz entfernt.",
             "hu": "Csak pár lépésre a főtértől.",
             "ro": "La doar câțiva pași de piața principală.",
-            "en": "Just a few steps away from the main square."
+            "en": "Just a few steps away from the main square.",
+            "pl": "Zaledwie kilka kroków od głównego rynku."
           }
         },
         {
@@ -1298,7 +1410,8 @@
             "de": "Cluster 3: Fahrt zur Dominsel",
             "hu": "3. klaszter: Utazás a Katedrális-szigetre",
             "ro": "Cluster 3: Deplasare spre Insula Catedralei",
-            "en": "Cluster 3: Drive to Cathedral Island"
+            "en": "Cluster 3: Drive to Cathedral Island",
+            "pl": "Klaster 3: Dojedź na Ostrów Tumski"
           },
           "coords": [
             16.946,
@@ -1313,7 +1426,8 @@
             "de": "Fahren Sie zur Insel und parken Sie. Erkunden Sie die Kathedrale und die Umgebung.",
             "hu": "Vezessen a szigetre és parkoljon. Fedezze fel a katedrálist és környékét.",
             "ro": "Conduceți spre insulă și parcați. Explorați catedrala și zona înconjurătoare.",
-            "en": "Drive to the island and park. Explore the cathedral and its surroundings."
+            "en": "Drive to the island and park. Explore the cathedral and its surroundings.",
+            "pl": "Dojedź na wyspę i zaparkuj. Zwiedź katedrę i okolice."
           }
         },
         {
@@ -1321,7 +1435,8 @@
             "de": "Malta-See",
             "hu": "Máltai-tó",
             "ro": "Lacul Malta",
-            "en": "Lake Malta"
+            "en": "Lake Malta",
+            "pl": "Jezioro Maltańskie"
           },
           "coords": [
             16.98,
@@ -1336,7 +1451,8 @@
             "de": "Beenden Sie den Tag mit einem entspannenden Spaziergang am See.",
             "hu": "Zárja a napot egy pihentető sétával a tónál.",
             "ro": "Încheiați ziua cu o plimbare relaxantă pe malul lacului.",
-            "en": "End your day with a relaxing walk by the lake."
+            "en": "End your day with a relaxing walk by the lake.",
+            "pl": "Zakończ dzień relaksującym spacerem nad jeziorem."
           }
         }
       ],
@@ -1344,7 +1460,8 @@
         "de": "Beginnen Sie Ihren Tag im historischen Citadel-Park und fahren Sie dann zum nahegelegenen Residenzschloss. Als Nächstes parken Sie im Herzen der Stadt, um den Alten Markt, das Rathaus und die prächtige Pfarrkirche zu Fuß zu erkunden. Am Nachmittag fahren Sie zur ruhigen Dominsel, dem Geburtsort Polens, und besichtigen die Kathedrale. Beenden Sie Ihren Ausflug am malerischen Malta-See, einem perfekten Ort, um den Abend ausklingen zu lassen.",
         "hu": "Kezdje a napot a történelmi Citadella Parkban, majd vezessen a közeli Császári kastélyhoz. Ezután parkoljon le a város szívében, hogy gyalog fedezze fel a Régi Piacteret, a Városházát és a pompás plébániatemplomot. Délután autózzon el a békés Katedrális-szigetre, Lengyelország szülőhelyére, hogy megnézze a katedrálist. A kirándulást a festői Máltai-tónál fejezze be, amely tökéletes hely az este lezárásához.",
         "ro": "Începeți ziua în istoricul Parc al Cetății, apoi conduceți la Castelul Imperial din apropiere. Apoi, parcați în inima orașului pentru a explora pe jos Piața Veche, Primăria și splendida Biserică Parohială. După-amiaza, conduceți spre liniștita Insulă a Catedralei, locul de naștere al Poloniei, pentru a vizita catedrala. Încheiați excursia la pitorescul Lac Malta, un loc perfect pentru a încheia seara.",
-        "en": "Start your day at the historic Citadel Park, then drive to the nearby Imperial Castle. Next, park in the heart of the city to explore the Old Market Square, Town Hall, and the splendid Parish Church on foot. In the afternoon, drive to the serene Cathedral Island, the birthplace of Poland, to see the cathedral. End your trip at the picturesque Lake Malta, a perfect spot to wrap up the evening."
+        "en": "Start your day at the historic Citadel Park, then drive to the nearby Imperial Castle. Next, park in the heart of the city to explore the Old Market Square, Town Hall, and the splendid Parish Church on foot. In the afternoon, drive to the serene Cathedral Island, the birthplace of Poland, to see the cathedral. End your trip at the picturesque Lake Malta, a perfect spot to wrap up the evening.",
+        "pl": "Rozpocznij dzień w historycznym Parku Cytadela, następnie dojedź do pobliskiego Zamku Cesarskiego. Potem zaparkuj w centrum miasta, by pieszo zwiedzić Stary Rynek, Ratusz i wspaniały kościół parafialny. Po południu dojedź na spokojny Ostrów Tumski, kolebkę Polski, by zobaczyć katedrę. Zakończ wycieczkę nad malowniczym Jeziorem Maltańskim — idealnym miejscem na podsumowanie wieczoru."
       },
       "gastro_picks": {
         "de": [
@@ -1540,6 +1657,12 @@
           "Be aware of the paid parking zones (Strefa Płatnego Parkowania) and pay at the meters.",
           "Traffic can be heavy during peak hours, so plan extra time for drives.",
           "A GPS is essential for navigating the city."
+        ],
+        "pl": [
+          "Parkowanie w centrum może być drogie. Jeśli to możliwe, korzystaj z Park and Ride.",
+          "Zwróć uwagę na strefy płatnego parkowania (Strefa Płatnego Parkowania) i płać przy parkomatach.",
+          "Ruch może być duży w godzinach szczytu, więc zaplanuj dodatkowy czas na przejazdy.",
+          "GPS jest niezbędny do poruszania się po mieście."
         ]
       },
       "variants": {
@@ -1548,7 +1671,8 @@
             "de": "Das Auto ist bei Posener Regen die komfortabelste Wahl. Sie erreichen alle Sehenswürdigkeiten trocken und sind flexibel bei Wetterumschwüngen. Der Morgen beginnt am Zitadellenpark.\n\nMittags parken Sie bequem in der Nähe des Alten Marktes für das Rathaus und das Hörnchenmuseum. Die Parkhäuser im Zentrum halten Ihr Auto trocken.\n\nAm Nachmittag fahren Sie zur Dominsel. Der Parkplatz direkt an der Kathedrale spart lange Wege durch den Regen.\n\nZum Abschluss genießen Sie die Fahrt zum Maltasee. Aus dem Auto heraus haben Sie einen tollen Blick auf das Wasser, ohne nass zu werden.",
             "hu": "Az autó a legkényelmesebb választás a poznańi esőben. Minden látnivalót szárazon érhet el, és rugalmas maradhat. A reggel a Citadella parknál indul.\n\nDélben kényelmesen parkolhat az Ópiac közelében a Városháza és a Kiflimúzeum látogatásához. A központi parkolóházak szárazon tartják az autót.\n\nDélután az Ostrów Tumskihoz hajtunk. A közvetlenül a katedrális melletti parkoló megkíméli a hosszú esős sétáktól.\n\nZárásként élvezze a Máltai-tóhoz vezető utat. Az autóból remek kilátás nyílik a vízre anélkül, hogy megázna.",
             "ro": "Mașina este cea mai confortabilă alegere pe ploaia din Poznań. Ajungeți uscat la toate atracțiile și sunteți flexibil. Dimineața începe la Parcul Citadela.\n\nLa prânz parcați comod lângă Piața Veche pentru Primărie și Muzeul Cornurilor. Parcările supraetajate din centru vă mențin mașina uscată.\n\nDupă-amiaza conduceți spre Insula Catedralei. Parcarea chiar lângă catedrală vă scutește de drumuri lungi prin ploaie.\n\nLa final, bucurați-vă de drumul spre Lacul Malta. Din mașină aveți o vedere excelentă asupra apei fără să vă udați.",
-            "en": "A car is the most comfortable choice in Poznań's rain. You reach all sights dry and stay flexible during weather shifts. The morning starts at Citadel Park.\n\nAt noon, park conveniently near the Old Market for the Town Hall and Croissant Museum. Central parking garages keep your car dry.\n\nIn the afternoon, drive to Cathedral Island. The parking lot directly by the cathedral saves long walks through the rain.\n\nTo finish, enjoy the drive to Lake Malta. You get a great view of the water from the car without getting wet."
+            "en": "A car is the most comfortable choice in Poznań's rain. You reach all sights dry and stay flexible during weather shifts. The morning starts at Citadel Park.\n\nAt noon, park conveniently near the Old Market for the Town Hall and Croissant Museum. Central parking garages keep your car dry.\n\nIn the afternoon, drive to Cathedral Island. The parking lot directly by the cathedral saves long walks through the rain.\n\nTo finish, enjoy the drive to Lake Malta. You get a great view of the water from the car without getting wet.",
+            "pl": "Samochód to najwygodniejszy wybór podczas deszczu w Poznaniu. Dzięki niemu zobaczysz wszystkie atrakcje suchy i pozostaniesz elastyczny przy zmianach pogody. Dzień zaczyna się w Parku Cytadela.\n\nW południe zaparkuj wygodnie przy Starym Rynku, by zwiedzić Ratusz i Muzeum Rogala. Centralne garaże chronią samochód przed deszczem.\n\nPo południu pojedź na Ostrów Tumski. Parking tuż przy katedrze oszczędzi długich spacerów w deszczu.\n\nNa koniec wybierz się samochodem nad Jezioro Maltańskie. Z auta masz świetny widok na wodę, nie przemokając."
           },
           "stops": [
             {
@@ -1557,7 +1681,8 @@
                 "de": "Nutzen Sie den befestigten Parkplatz am Eingang für kurze Wege.",
                 "hu": "Használja a bejáratnál lévő szilárd burkolatú parkolót a rövid séta érdekében.",
                 "ro": "Folosiți parcarea pavată de la intrare pentru distanțe scurte.",
-                "en": "Use the paved parking lot at the entrance for short walking distances."
+                "en": "Use the paved parking lot at the entrance for short walking distances.",
+                "pl": "Korzystaj z utwardzonego parkingu przy wejściu, by mieć krótki spacer."
               }
             },
             {
@@ -1566,7 +1691,8 @@
                 "de": "Das Parkhaus unter der Kaponiera ist nah und trocken.",
                 "hu": "A Kaponiera alatti parkolóház közel van és száraz.",
                 "ro": "Parcarea subterană de sub Kaponiera este aproape și uscată.",
-                "en": "The underground parking under Kaponiera is nearby and dry."
+                "en": "The underground parking under Kaponiera is nearby and dry.",
+                "pl": "Podziemny parking pod Kaponierą jest blisko i suchy."
               }
             },
             {
@@ -1575,7 +1701,8 @@
                 "de": "Parkhaus 'Plac Wolności' bietet einen schnellen, trockenen Zugang zum Markt.",
                 "hu": "A 'Plac Wolności' parkolóház gyors, száraz kijutást biztosít a piacra.",
                 "ro": "Parcarea 'Plac Wolności' oferă acces rapid și uscat spre piață.",
-                "en": "The 'Plac Wolności' parking garage offers quick, dry access to the market."
+                "en": "The 'Plac Wolności' parking garage offers quick, dry access to the market.",
+                "pl": "Garaż „Plac Wolności” oferuje szybki, suchy dostęp na rynek."
               }
             },
             {
@@ -1584,7 +1711,8 @@
                 "de": "Lassen Sie Ihre Regenschirme im Auto, wenn Sie nur kurz zum Museum huschen.",
                 "hu": "Hagyja az esernyőket az autóban, ha csak gyorsan beugrik a múzeumba.",
                 "ro": "Lăsați umbrelele în mașină dacă mergeți doar rapid la muzeu.",
-                "en": "Leave umbrellas in the car if you're just making a dash for the museum."
+                "en": "Leave umbrellas in the car if you're just making a dash for the museum.",
+                "pl": "Zostaw parasole w samochodzie, jeśli wchodzisz tylko na chwilę do muzeum."
               }
             },
             {
@@ -1593,7 +1721,8 @@
                 "de": "Kurzzeitparkplätze in der Gołębia-Straße sind oft frei bei Regen.",
                 "hu": "A Gołębia utcai rövid távú parkolók esőben gyakran szabadok.",
                 "ro": "Locurile de parcare pe termen scurt de pe strada Gołębia sunt adesea libere pe ploaie.",
-                "en": "Short-term parking on Gołębia Street is often available during rain."
+                "en": "Short-term parking on Gołębia Street is often available during rain.",
+                "pl": "Krótkoterminowe miejsca na ulicy Gołębiej często są dostępne podczas deszczu."
               }
             },
             {
@@ -1602,7 +1731,8 @@
                 "de": "Direkt vor der Kathedrale gibt es meist gute Parkmöglichkeiten.",
                 "hu": "Közvetlenül a katedrális előtt általában jó parkolási lehetőség van.",
                 "ro": "Există de obicei locuri bune de parcare chiar în fața catedralei.",
-                "en": "Good parking is usually available right in front of the cathedral."
+                "en": "Good parking is usually available right in front of the cathedral.",
+                "pl": "Dobre miejsca zwykle są tuż przed katedrą."
               }
             },
             {
@@ -1611,7 +1741,8 @@
                 "de": "Parken Sie am Einkaufszentrum 'Malta' für einen trockenen Blick auf den See.",
                 "hu": "Parkoljon a 'Malta' bevásárlóközpontnál a tóra nyíló száraz kilátásért.",
                 "ro": "Parcați la centrul comercial 'Malta' pentru o vedere uscată asupra lacului.",
-                "en": "Park at the 'Malta' shopping mall for a dry view of the lake."
+                "en": "Park at the 'Malta' shopping mall for a dry view of the lake.",
+                "pl": "Zaparkuj przy centrum handlowym „Malta”, by z suchego miejsca podziwiać jezioro."
               }
             }
           ],
@@ -1643,6 +1774,13 @@
               "Avoid rush hour (4 PM - 6 PM) during rain.",
               "Watch out for deep puddles in side streets.",
               "The central parking zone is often free on weekends."
+            ],
+            "pl": [
+              "Użyj aplikacji „moBILET” do opłat za parkowanie.",
+              "Garaże Plac Wolności i Kaponiera to najlepsze centralne opcje.",
+              "Unikaj godzin szczytu (16:00–18:00) podczas deszczu.",
+              "Uważaj na głębokie kałuże na bocznych ulicach.",
+              "Centralna strefa parkowania jest często bezpłatna w weekendy."
             ]
           }
         },
@@ -1651,7 +1789,8 @@
             "de": "Posen im Winter mit dem Auto zu erkunden ist warm und effizient. Die Straßen werden schnell geräumt, aber die Parkplatzsuche am Markt bleibt eine Herausforderung. Der Morgen beginnt am winterlichen Zitadellenpark.\n\nMittags ist das Auto der perfekte Ort, um zwischen den Besichtigungen die Heizung aufzudrehen. Das Kaiserschloss ist nur eine kurze Fahrt vom Zentrum entfernt.\n\nDer Nachmittag auf der Dominsel ist besonders stimmungsvoll. Das warme Auto wartet nach dem Besuch der zugigen Kathedrale auf Sie.\n\nDen Tag schließen Sie am Maltasee ab. Die beleuchtete Skipiste am Hang sorgt für echte Winterstimmung, auch wenn Sie nur zuschauen.",
             "hu": "A téli Poznań felfedezése autóval meleg és hatékony. Az utakat gyorsan takarítják, de a parkolóhely-keresés a piacnál kihívás marad. A reggel a téli Citadella parknál indul.\n\nDélben az autó tökéletes hely a fűtés feltekerésére a látnivalók között. A Császári Kastély csak egy rövid útra van a központtól.\n\nAz Ostrów Tumski délután különösen hangulatos. A meleg autó várja Önt a huzatos katedrális látogatása után.\n\nA napot a Máltai-tónál zárjuk. A kivilágított sípálya igazi téli hangulatot áraszt, még ha csak nézőként is van jelen.",
             "ro": "Explorarea orașului Poznań iarna cu mașina este caldă și eficientă. Drumurile sunt curățate rapid, dar găsirea unui loc de parcare la piață rămâne o provocare. Dimineața începe în Parcul Citadela înzăpezit.\n\nLa prânz, mașina este locul perfect pentru a da drumul la căldură între vizite. Castelul Imperial este la scurtă distanță de centru.\n\nDupă-amiaza pe Insula Catedralei este deosebit de atmosferică. Mașina caldă vă așteaptă după vizita la catedrala expusă vântului.\n\nÎncheiați ziua la Lacul Malta. Pârtia de schi iluminată de pe versant oferă o atmosferă autentică de iarnă, chiar dacă doar priviți.",
-            "en": "Exploring Poznań in winter by car is warm and efficient. Roads are cleared quickly, but finding parking near the market remains a challenge. The morning starts at snowy Citadel Park.\n\nAt noon, the car is the perfect place to crank up the heat between sights. The Imperial Castle is just a short drive from the center.\n\nIn the afternoon, Cathedral Island is especially atmospheric. The warm car awaits you after visiting the windy cathedral.\n\nEnd the day at Lake Malta. The illuminated ski slope on the hillside provides real winter vibes, even if you're just watching."
+            "en": "Exploring Poznań in winter by car is warm and efficient. Roads are cleared quickly, but finding parking near the market remains a challenge. The morning starts at snowy Citadel Park.\n\nAt noon, the car is the perfect place to crank up the heat between sights. The Imperial Castle is just a short drive from the center.\n\nIn the afternoon, Cathedral Island is especially atmospheric. The warm car awaits you after visiting the windy cathedral.\n\nEnd the day at Lake Malta. The illuminated ski slope on the hillside provides real winter vibes, even if you're just watching.",
+            "pl": "Zwiedzanie Poznania zimą samochodem jest ciepłe i efektywne. Drogi są szybko odśnieżane, ale znalezienie miejsca przy rynku nadal bywa trudne. Dzień zaczyna się przy śnieżnej Cytadeli.\n\nW południe samochód to idealne miejsce, by włączyć ogrzewanie między atrakcjami. Zamek Cesarski jest zaledwie krótki przejazd od centrum.\n\nPo południu Ostrów Tumski jest szczególnie klimatyczny. Po wizycie w wietrznej katedrze czeka ciepły samochód.\n\nDzień kończy się nad Jeziorem Maltańskim. Oświetlona skocznia narciarska na zboczu daje prawdziwie zimowy nastrój, nawet jeśli obserwujesz ją z auta."
           },
           "stops": [
             {
@@ -1660,7 +1799,8 @@
                 "de": "Vermeiden Sie das Parken unter schneebeladenen Bäumen.",
                 "hu": "Kerülje a parkolást a hótól roskadozó fák alatt.",
                 "ro": "Evitați parcarea sub copacii încărcați cu zăpadă.",
-                "en": "Avoid parking under snow-laden trees."
+                "en": "Avoid parking under snow-laden trees.",
+                "pl": "Unikaj parkowania pod drzewami obciążonymi śniegiem."
               }
             },
             {
@@ -1669,7 +1809,8 @@
                 "de": "In der Winterkälte ist der kurze Weg vom Auto ins Schloss ein Segen.",
                 "hu": "A téli hidegben áldás a rövid út az autótól a kastélyig.",
                 "ro": "În gerul iernii, drumul scurt de la mașină la castel este o binecuvântare.",
-                "en": "In the winter cold, the short walk from car to castle is a blessing."
+                "en": "In the winter cold, the short walk from car to castle is a blessing.",
+                "pl": "Krótkie przejście od auta do zamku w zimnym powietrzu to błogosławieństwo."
               }
             },
             {
@@ -1678,7 +1819,8 @@
                 "de": "Beheizte Parkhäuser verhindern das Einfrieren der Türschlösser.",
                 "hu": "A fűtött parkolóházak megakadályozzák az ajtózárak befagyását.",
                 "ro": "Parcările încălzite previn înghețarea încuietorilor.",
-                "en": "Heated parking garages prevent door locks from freezing."
+                "en": "Heated parking garages prevent door locks from freezing.",
+                "pl": "Podgrzewane garaże zapobiegają zamarzaniu zamków drzwi."
               }
             },
             {
@@ -1687,7 +1829,8 @@
                 "de": "Planen Sie Zeit für die Parkplatzsuche ein; im Winter ist viel los.",
                 "hu": "Számoljon időt a parkolóhely-keresésre; télen nagy a forgalom.",
                 "ro": "Alocați timp pentru găsirea unui loc de parcare; iarna este aglomerat.",
-                "en": "Allow extra time for finding parking; it's busy in winter."
+                "en": "Allow extra time for finding parking; it's busy in winter.",
+                "pl": "Zarezerwuj dodatkowy czas na znalezienie miejsca; zimą bywa tam tłoczno."
               }
             },
             {
@@ -1696,7 +1839,8 @@
                 "de": "Die schmalen Gassen können bei Frost tückisch glatt sein.",
                 "hu": "A szűk utcák fagyban csalóka módon csúszósak lehetnek.",
                 "ro": "Străduțele înguste pot fi înșelător de alunecoase pe ger.",
-                "en": "Narrow side streets can be treacherously slippery during frost."
+                "en": "Narrow side streets can be treacherously slippery during frost.",
+                "pl": "Wąskie boczne ulice mogą być zdradliwie śliskie przy przymrozkach."
               }
             },
             {
@@ -1705,7 +1849,8 @@
                 "de": "Der Parkplatz ist oft geräumt, aber Vorsicht beim Aussteigen.",
                 "hu": "A parkolót gyakran takarítják, de vigyázzon a kiszálláskor.",
                 "ro": "Parcarea este de obicei curățată, dar atenție la coborâre.",
-                "en": "The parking lot is usually cleared, but be careful when exiting."
+                "en": "The parking lot is usually cleared, but be careful when exiting.",
+                "pl": "Parking zwykle jest odśnieżony, ale uważaj przy wyjeździe."
               }
             },
             {
@@ -1714,7 +1859,8 @@
                 "de": "Genießen Sie die Aussicht bei laufender Heizung im Auto.",
                 "hu": "Élvezze a kilátást a járó fűtés mellett az autóban.",
                 "ro": "Bucurați-vă de priveliște cu căldura pornită în mașină.",
-                "en": "Enjoy the view with the heater running in the car."
+                "en": "Enjoy the view with the heater running in the car.",
+                "pl": "Rozkoszuj się widokiem z włączonym ogrzewaniem w samochodzie."
               }
             }
           ],
@@ -1746,6 +1892,13 @@
               "Watch out for icicles on historic buildings when parking.",
               "Keep an ice scraper handy for outdoor stops.",
               "Battery performance can drop in extreme cold."
+            ],
+            "pl": [
+              "Upewnij się, że masz opony zimowe i płyn przeciw zamarzaniu.",
+              "Garaże często są zatłoczone zimą; przyjedź wcześniej.",
+              "Uważaj na sopelki na zabytkowych budynkach podczas parkowania.",
+              "Miej przy sobie skrobaczkę do szyb na postoje na zewnątrz.",
+              "W skrajnych mrozach wydajność akumulatora może spaść."
             ]
           }
         }
@@ -1764,7 +1917,8 @@
             "de": "Cluster 1: Alter Markt & Umgebung",
             "hu": "1. klaszter: Régi Piactér és környéke",
             "ro": "Cluster 1: Piața Veche și împrejurimile",
-            "en": "Cluster 1: Old Market Square & Surroundings"
+            "en": "Cluster 1: Old Market Square & Surroundings",
+            "pl": "Klaster 1: Stary Rynek i okolice"
           },
           "coords": [
             16.9342,
@@ -1779,7 +1933,8 @@
             "de": "Nehmen Sie eine Straßenbahn zur Haltestelle 'Pl. Wielkopolski' und gehen Sie zum Markt.",
             "hu": "Menjen villamossal a 'Pl. Wielkopolski' megállóig, és sétáljon a piacra.",
             "ro": "Luați un tramvai până la stația 'Pl. Wielkopolski' și mergeți pe jos până la piață.",
-            "en": "Take a tram to the 'Pl. Wielkopolski' stop and walk to the market."
+            "en": "Take a tram to the 'Pl. Wielkopolski' stop and walk to the market.",
+            "pl": "Wjedź tramwajem na przystanek „Pl. Wielkopolski” i dojdziesz na rynek pieszo."
           }
         },
         {
@@ -1787,7 +1942,8 @@
             "de": "Rathaus & Pfarrkirche St. Stanislaus",
             "hu": "Városháza és Szent Szaniszló Plébániatemplom",
             "ro": "Primăria și Biserica Parohială Sf. Stanislaus",
-            "en": "Town Hall & St. Stanislaus Parish Church"
+            "en": "Town Hall & St. Stanislaus Parish Church",
+            "pl": "Ratusz i kościół parafialny św. Stanisława"
           },
           "coords": [
             16.935,
@@ -1802,7 +1958,8 @@
             "de": "Beide Sehenswürdigkeiten sind nur einen kurzen Spaziergang voneinander entfernt.",
             "hu": "Mindkét látnivaló csak egy rövid sétára van egymástól.",
             "ro": "Ambele atracții sunt la o scurtă plimbare una de cealaltă.",
-            "en": "Both landmarks are just a short walk from each other."
+            "en": "Both landmarks are just a short walk from each other.",
+            "pl": "Oba zabytki są niedaleko od siebie, w krótkim spacerze."
           }
         },
         {
@@ -1810,7 +1967,8 @@
             "de": "Cluster 2: Dominsel",
             "hu": "2. klaszter: Katedrális-sziget",
             "ro": "Cluster 2: Insula Catedralei",
-            "en": "Cluster 2: Cathedral Island"
+            "en": "Cluster 2: Cathedral Island",
+            "pl": "Klaster 2: Ostrów Tumski"
           },
           "coords": [
             16.946,
@@ -1825,7 +1983,8 @@
             "de": "Nehmen Sie eine Straßenbahn über den Fluss zur Haltestelle 'Katedra'.",
             "hu": "Menjen villamossal a folyón át a 'Katedra' megállóig.",
             "ro": "Luați un tramvai peste râu până la stația 'Katedra'.",
-            "en": "Take a tram across the river to the 'Katedra' stop."
+            "en": "Take a tram across the river to the 'Katedra' stop.",
+            "pl": "Przejedź tramwajem przez rzekę na przystanek „Katedra”."
           }
         },
         {
@@ -1833,7 +1992,8 @@
             "de": "Erzkathedrale St. Peter und Paul",
             "hu": "Szent Péter és Pál Főszékesegyház",
             "ro": "Catedrala Sfinții Petru și Paul",
-            "en": "Archcathedral Basilica of St. Peter and St. Paul"
+            "en": "Archcathedral Basilica of St. Peter and St. Paul",
+            "pl": "Archikatedralna Bazylika św. Piotra i św. Pawła"
           },
           "coords": [
             16.947,
@@ -1848,7 +2008,8 @@
             "de": "Direkt neben der Straßenbahnhaltestelle gelegen.",
             "hu": "Közvetlenül a villamosmegálló mellett található.",
             "ro": "Situată chiar lângă stația de tramvai.",
-            "en": "Located right next to the tram stop."
+            "en": "Located right next to the tram stop.",
+            "pl": "Położona tuż obok przystanku tramwajowego."
           }
         },
         {
@@ -1856,7 +2017,8 @@
             "de": "Cluster 3: Residenzschloss & Citadel-Park",
             "hu": "3. klaszter: Császári kastély és Citadella Park",
             "ro": "Cluster 3: Castelul Imperial și Parcul Cetății",
-            "en": "Cluster 3: Imperial Castle & Citadel Park"
+            "en": "Cluster 3: Imperial Castle & Citadel Park",
+            "pl": "Klaster 3: Zamek Cesarski i Park Cytadela"
           },
           "coords": [
             16.914,
@@ -1871,7 +2033,8 @@
             "de": "Nehmen Sie eine Straßenbahn zum 'Zamek' und erkunden Sie das Schloss.",
             "hu": "Menjen villamossal a 'Zamek' megállóig, és fedezze fel a kastélyt.",
             "ro": "Luați un tramvai până la 'Zamek' și explorați castelul.",
-            "en": "Take a tram to 'Zamek' stop and explore the castle."
+            "en": "Take a tram to 'Zamek' stop and explore the castle.",
+            "pl": "Wjedź tramwajem na przystanek „Zamek” i zwiedź zamek."
           }
         },
         {
@@ -1879,7 +2042,8 @@
             "de": "Spaziergang zum Citadel-Park",
             "hu": "Séta a Citadella Parkba",
             "ro": "Plimbare spre Parcul Cetății",
-            "en": "Walk to Citadel Park"
+            "en": "Walk to Citadel Park",
+            "pl": "Przejdź się do Parku Cytadela"
           },
           "coords": [
             16.93,
@@ -1894,7 +2058,8 @@
             "de": "Ein angenehmer Spaziergang vom Schloss zum Park, um den Tag ausklingen zu lassen.",
             "hu": "Kellemes séta a kastélytól a parkig, hogy lezárja a napot.",
             "ro": "O plimbare plăcută de la castel la parc pentru a încheia ziua.",
-            "en": "A pleasant walk from the castle to the park to end the day."
+            "en": "A pleasant walk from the castle to the park to end the day.",
+            "pl": "Przyjemny spacer z zamku do parku na zakończenie dnia."
           }
         }
       ],
@@ -1902,7 +2067,8 @@
         "de": "Nutzen Sie die effiziente Straßenbahn, um zum Alten Markt zu gelangen und die Highlights des Zentrums zu erkunden. Eine kurze Fahrt bringt Sie zur historischen Dominsel, wo Sie in die Anfänge Polens eintauchen. Am Nachmittag bringt Sie eine weitere Straßenbahn zum Kulturviertel rund um das Residenzschloss. Von dort aus ist es nur ein kurzer Spaziergang zum weitläufigen Citadel-Park, wo Sie den Tag in Ruhe ausklingen lassen können.",
         "hu": "Használja a hatékony villamost, hogy eljusson a Régi Piactérre és felfedezze a központ nevezetességeit. Egy rövid utazás elviszi a történelmi Katedrális-szigetre, ahol elmerülhet Lengyelország kezdeteiben. Délután egy másik villamossal eljuthat a Császári kastély körüli kulturális negyedbe. Onnan már csak egy rövid séta a tágas Citadella Park, ahol békében zárhatja a napot.",
         "ro": "Folosiți tramvaiul eficient pentru a ajunge în Piața Veche și a explora atracțiile centrului. O scurtă călătorie vă duce pe istorica Insulă a Catedralei, unde puteți pătrunde în începuturile Poloniei. După-amiaza, un alt tramvai vă duce în cartierul cultural din jurul Castelului Imperial. De acolo, este doar o scurtă plimbare până la vastul Parc al Cetății, unde puteți încheia ziua în liniște.",
-        "en": "Use the efficient tram system to get to the Old Market Square and explore the city center's highlights. A short ride takes you to the historic Cathedral Island, where you can delve into Poland's origins. In the afternoon, another tram ride brings you to the cultural district around the Imperial Castle. From there, it's a short walk to the expansive Citadel Park, where you can peacefully end your day."
+        "en": "Use the efficient tram system to get to the Old Market Square and explore the city center's highlights. A short ride takes you to the historic Cathedral Island, where you can delve into Poland's origins. In the afternoon, another tram ride brings you to the cultural district around the Imperial Castle. From there, it's a short walk to the expansive Citadel Park, where you can peacefully end your day.",
+        "pl": "Korzystaj z wydajnego systemu tramwajowego, by dotrzeć na Stary Rynek i zwiedzić najważniejsze miejsca w centrum. Krótka przejażdżka zabierze cię na historyczny Ostrów Tumski, gdzie możesz poznać początki Polski. Po południu kolejna podróż tramwajem prowadzi do dzielnicy kulturalnej wokół Zamku Cesarskiego. Stamtąd krótki spacer zaprowadzi cię do rozległego Parku Cytadela, gdzie możesz spokojnie zakończyć dzień."
       },
       "gastro_picks": {
         "de": [
@@ -2098,6 +2264,12 @@
           "Validate your ticket immediately after boarding a tram or bus.",
           "The 'jakdojade' app is very useful for planning public transport routes.",
           "Be aware that night bus lines have different routes than daytime services."
+        ],
+        "pl": [
+          "Kup bilet dobowy lub 24‑godzinny na nieograniczoną liczbę przejazdów.",
+          "Skasuj bilet od razu po wejściu do tramwaju lub autobusu.",
+          "Aplikacja „jakdojade” jest bardzo przydatna do planowania połączeń komunikacją miejską.",
+          "Pamiętaj, że nocne linie autobusowe mają inne trasy niż dzienne."
         ]
       },
       "variants": {
@@ -2106,7 +2278,8 @@
             "de": "Die Posener Straßenbahn ist der ideale Begleiter bei Regen. Die modernen Wagen sind warm und trocken, und das dichte Netz bringt Sie fast direkt vor jede Tür. Der Morgen startet am Alten Markt.\n\nMittags erreichen Sie die Dominsel bequem mit der Tram. Die Haltestellen sind oft überdacht, was das Warten angenehm macht.\n\nAm Nachmittag führt die Fahrt zum Kaiserschloss. Das Schloss liegt direkt an einem großen Verkehrsknotenpunkt, sodass Sie kaum im Regen laufen müssen.\n\nZum Abschluss geht es mit der Tram Richtung Zitadellenpark. Die Fahrt bietet einen trockenen Ausblick auf die Stadtteile außerhalb des Zentrums.",
             "hu": "A poznańi villamos ideális társ esőben. A modern kocsik melegek és szárazak, a sűrű hálózat pedig szinte minden ajtó elé elviszi. A reggel az Ópiacon indul.\n\nDélben kényelmesen elérheti az Ostrów Tumskit villamossal. A megállók gyakran fedettek, így a várakozás is kellemes.\n\nDélután a Császári Kastélyhoz utazunk. A kastély egy nagy közlekedési csomópontnál fekszik, így alig kell az esőben gyalogolnia.\n\nZárásként villamosozzunk a Citadella park felé. Az út során szárazon szemlélheti meg a központon kívüli városrészeket.",
             "ro": "Tramvaiul din Poznań este partenerul ideal pe ploaie. Vagoanele moderne sunt calde și uscate, iar rețeaua densă vă duce aproape în fața fiecărei uși. Dimineața începe în Piața Veche.\n\nLa prânz ajungeți comod pe Insula Catedralei cu tramvaiul. Stațiile sunt adesea acoperite, ceea ce face așteptarea plăcută.\n\nDupă-amiaza, drumul duce la Castelul Imperial. Castelul este situat lângă un nod mare de transport, deci nu va trebui să mergeți mult prin ploaie.\n\nLa final, mergeți cu tramvaiul spre Parcul Citadela. Călătoria oferă o vedere uscată asupra cartierelor din afara centrului.",
-            "en": "Poznań's tram system is the ideal companion in the rain. Modern cars are warm and dry, and the dense network drops you off almost right at the door. The morning starts at the Old Market.\n\nAt noon, reach Cathedral Island comfortably by tram. Stops are often covered, making the wait pleasant.\n\nIn the afternoon, head to the Imperial Castle. The castle is located at a major transit hub, so you barely have to walk in the rain.\n\nTo finish, take the tram towards Citadel Park. The ride offers a dry view of the districts outside the center."
+            "en": "Poznań's tram system is the ideal companion in the rain. Modern cars are warm and dry, and the dense network drops you off almost right at the door. The morning starts at the Old Market.\n\nAt noon, reach Cathedral Island comfortably by tram. Stops are often covered, making the wait pleasant.\n\nIn the afternoon, head to the Imperial Castle. The castle is located at a major transit hub, so you barely have to walk in the rain.\n\nTo finish, take the tram towards Citadel Park. The ride offers a dry view of the districts outside the center.",
+            "pl": "Tramwaje w Poznaniu są idealnym towarzyszem w deszczu. Nowoczesne wagony są ciepłe i suche, a gęsta sieć wysadza cię niemal pod samymi drzwiami. Dzień zaczyna się na Starym Rynku.\n\nW południe wygodnie dojedziesz tramwajem na Ostrów Tumski. Przystanki są często zadaszone, co uprzyjemnia oczekiwanie.\n\nPo południu udaj się do Zamku Cesarskiego. Zamek leży przy ważnym węźle komunikacyjnym, więc niemal nie musisz chodzić w deszczu.\n\nNa koniec pojedź tramwajem w stronę Parku Cytadela. Przejazd daje suchy widok na dzielnice poza centrum."
           },
           "stops": [
             {
@@ -2115,7 +2288,8 @@
                 "de": "Die Haltestellen 'Plac Wielkopolski' oder 'Wrocławska' sind nah und bieten Schutz.",
                 "hu": "A 'Plac Wielkopolski' vagy 'Wrocławska' megállók közel vannak és védelmet nyújtanak.",
                 "ro": "Stațiile 'Plac Wielkopolski' sau 'Wrocławska' sunt aproape și oferă adăpost.",
-                "en": "The 'Plac Wielkopolski' or 'Wrocławska' stops are nearby and offer shelter."
+                "en": "The 'Plac Wielkopolski' or 'Wrocławska' stops are nearby and offer shelter.",
+                "pl": "Przystanki „Plac Wielkopolski” lub „Wrocławska” są blisko i oferują schronienie."
               }
             },
             {
@@ -2124,7 +2298,8 @@
                 "de": "Kurze Wege zwischen den Sehenswürdigkeiten minimieren die Zeit im Regen.",
                 "hu": "A látnivalók közötti rövid utak minimalizálják az esőben töltött időt.",
                 "ro": "Distanțele scurte între atracții minimizează timpul petrecut în ploaie.",
-                "en": "Short distances between sights minimize time spent in the rain."
+                "en": "Short distances between sights minimize time spent in the rain.",
+                "pl": "Krótki dystans między atrakcjami minimalizuje czas spędzony w deszczu."
               }
             },
             {
@@ -2133,7 +2308,8 @@
                 "de": "Die Haltestelle 'Katedra' wird von vielen Linien bedient.",
                 "hu": "A 'Katedra' megállót számos vonal érinti.",
                 "ro": "Stația 'Katedra' este deservită de multe linii.",
-                "en": "The 'Katedra' stop is served by many lines."
+                "en": "The 'Katedra' stop is served by many lines.",
+                "pl": "Przystanek „Katedra” obsługiwany jest przez wiele linii."
               }
             },
             {
@@ -2142,7 +2318,8 @@
                 "de": "Ein 2-minütiger Sprint von der Tramhaltestelle zum Kircheneingang.",
                 "hu": "Egy 2 perces sprint a villamosmegállótól a templom bejáratáig.",
                 "ro": "Un sprint de 2 minute de la stația de tramvai până la intrarea în biserică.",
-                "en": "A 2-minute dash from the tram stop to the church entrance."
+                "en": "A 2-minute dash from the tram stop to the church entrance.",
+                "pl": "2‑minutowy sprint z przystanku do wejścia do kościoła."
               }
             },
             {
@@ -2151,7 +2328,8 @@
                 "de": "Haltestelle 'Zamek' liegt direkt gegenüber dem Haupteingang.",
                 "hu": "A 'Zamek' megálló közvetlenül a főbejárattal szemben van.",
                 "ro": "Stația 'Zamek' este situată chiar vizavi de intrarea principală.",
-                "en": "The 'Zamek' stop is located directly opposite the main entrance."
+                "en": "The 'Zamek' stop is located directly opposite the main entrance.",
+                "pl": "Przystanek „Zamek” znajduje się bezpośrednio naprzeciw głównego wejścia."
               }
             },
             {
@@ -2160,7 +2338,8 @@
                 "de": "Nutzen Sie den Bus ab 'Garbary', um näher an den Parkeingang zu kommen.",
                 "hu": "Használja a buszt a 'Garbary'-tól, hogy közelebb kerüljön a park bejáratához.",
                 "ro": "Folosiți autobuzul de la 'Garbary' pentru a ajunge mai aproape de intrarea în parc.",
-                "en": "Take the bus from 'Garbary' to get closer to the park entrance."
+                "en": "Take the bus from 'Garbary' to get closer to the park entrance.",
+                "pl": "Z przystanku „Garbary” dojedziesz bliżej wejścia do parku."
               }
             }
           ],
@@ -2192,6 +2371,13 @@
               "Seek shelter in the covered waiting booths.",
               "Avoid rush hour as trams can get very crowded.",
               "Use the 'Pestka' (fast tram) for longer distances."
+            ],
+            "pl": [
+              "Kup bilet 24‑godzinny przez aplikację „Jakdojade”.",
+              "Wyświetlacze w tramwaju podają wiarygodne informacje o przystankach.",
+              "Szukaj schronienia w zadaszonych wiatkach przystankowych.",
+              "Unikaj godzin szczytu, bo tramwaje mogą być bardzo zatłoczone.",
+              "Na dłuższe dystanse korzystaj z „Pestki” (szybkiego tramwaju)."
             ]
           }
         },
@@ -2200,7 +2386,8 @@
             "de": "Im Winter ist die Posener Tram eine warme Oase. Die Heizung in den Wagen funktioniert meist hervorragend, was sie zum perfekten Fortbewegungsmittel macht. Der Morgen beginnt am winterlichen Alten Markt.\n\nMittags bringt Sie die Tram schnell zur Dominsel. Das Warten im Freien ist kurz, da die Bahnen in hoher Frequenz fahren.\n\nDer Nachmittag am Kaiserschloss ist dank der direkten Tramverbindung entspannt. Sie steigen fast direkt vor dem imposanten Gebäude aus.\n\nZum Abschluss führt der Weg zum Zitadellenpark. Die Fahrt durch die winterliche Stadt bietet schöne Ausblicke auf die beleuchteten Straßenzüge, bevor Sie die frische Parkluft genießen.",
             "hu": "Télen a poznańi villamos egy meleg oázis. A kocsik fűtése általában kiváló, ami tökéletes közlekedési eszközzé teszi. A reggel a téli Ópiacon indul.\n\nDélben a villamos gyorsan elviszi az Ostrów Tumskihoz. A szabadban való várakozás rövid, mivel a járatok sűrűn követik egymást.\n\nA Császári Kastély délutáni látogatása a közvetlen villamoskapcsolatnak köszönhetően nyugodt. Szinte közvetlenül az impozáns épület előtt szállhat le.\n\nZárásként a Citadella park következik. A téli városon átvezető út szép kilátást nyújt a kivilágított utcákra, mielőtt élvezné a park friss levegőjét.",
             "ro": "Iarna, tramvaiul din Poznań este o oază de căldură. Încălzirea în vagoane funcționează de obicei excelent, făcându-l mijlocul de transport perfect. Dimineața începe în Piața Veche iernatică.\n\nLa prânz, tramvaiul vă duce rapid pe Insula Catedralei. Așteptarea afară este scurtă, deoarece vehiculele au o frecvență mare.\n\nDupă-amiaza la Castelul Imperial este relaxantă datorită conexiunii directe cu tramvaiul. Coborâți aproape direct în fața clădirii impunătoare.\n\nLa final, drumul duce spre Parcul Citadela. Călătoria prin orașul de iarnă oferă priveliști frumoase asupra străzilor iluminate înainte de a vă bucura de aerul proaspăt din parc.",
-            "en": "In winter, Poznań's tram is a warm oasis. The heating in the cars usually works excellently, making it the perfect mode of transport. The morning starts at the wintry Old Market.\n\nAt noon, the tram whisk you quickly to Cathedral Island. Waiting outside is brief as trams run frequently.\n\nIn the afternoon, the Imperial Castle visit is relaxed thanks to the direct tram connection. You get off almost right in front of the imposing building.\n\nTo finish, head to Citadel Park. The ride through the winter city offers beautiful views of the illuminated streets before you enjoy the fresh park air."
+            "en": "In winter, Poznań's tram is a warm oasis. The heating in the cars usually works excellently, making it the perfect mode of transport. The morning starts at the wintry Old Market.\n\nAt noon, the tram whisk you quickly to Cathedral Island. Waiting outside is brief as trams run frequently.\n\nIn the afternoon, the Imperial Castle visit is relaxed thanks to the direct tram connection. You get off almost right in front of the imposing building.\n\nTo finish, head to Citadel Park. The ride through the winter city offers beautiful views of the illuminated streets before you enjoy the fresh park air.",
+            "pl": "Zimą tramwaj w Poznaniu to ciepła oaza. Ogrzewanie w wagonach zazwyczaj działa doskonale, co czyni go idealnym środkiem transportu. Dzień zaczyna się na zimowym Starym Rynku.\n\nW południe tramwaj szybko zawiezie cię na Ostrów Tumski. Czekanie na zewnątrz jest krótkie, bo kursy są częste.\n\nPo południu wizyta na Zamku Cesarskim jest relaksująca dzięki bezpośredniemu połączeniu tramwajowemu. Wysiadasz niemal przed imponującym budynkiem.\n\nNa koniec udaj się do Parku Cytadela. Przejazd przez zimowe miasto oferuje piękne widoki oświetlonych ulic, zanim rozkoszujesz się świeżym powietrzem w parku."
           },
           "stops": [
             {
@@ -2209,7 +2396,8 @@
                 "de": "Beheizte Wartebereiche gibt es leider selten, aber die Taktung ist hoch.",
                 "hu": "Fűtött váróterem sajnos ritka, de a járatok gyakran követik egymást.",
                 "ro": "Zonele de așteptare încălzite sunt rare, dar frecvența tramvaielor este mare.",
-                "en": "Heated waiting areas are rare, but the frequency of service is high."
+                "en": "Heated waiting areas are rare, but the frequency of service is high.",
+                "pl": "Ogrzewane poczekalnie są rzadkie, ale kursy są częste."
               }
             },
             {
@@ -2218,7 +2406,8 @@
                 "de": "Nutzen Sie die kurzen Wege, um die Kältezeit im Freien zu minimieren.",
                 "hu": "Használja a rövid utakat a szabadban töltött hideg idő minimalizálására.",
                 "ro": "Folosiți distanțele scurte pentru a minimiza timpul petrecut în frig.",
-                "en": "Utilize the short distances to minimize time spent out in the cold."
+                "en": "Utilize the short distances to minimize time spent out in the cold.",
+                "pl": "Wykorzystaj krótkie odległości, by zminimalizować czas spędzony na chłodzie."
               }
             },
             {
@@ -2227,7 +2416,8 @@
                 "de": "Die Haltestelle 'Katedra' bietet einen tollen Blick auf die beleuchtete Dominsel.",
                 "hu": "A 'Katedra' megállóból remek kilátás nyílik a kivilágított dómra.",
                 "ro": "Stația 'Katedra' oferă o vedere excelentă asupra insulei iluminate.",
-                "en": "The 'Katedra' stop offers a great view of the illuminated Cathedral Island."
+                "en": "The 'Katedra' stop offers a great view of the illuminated Cathedral Island.",
+                "pl": "Przystanek „Katedra” oferuje świetny widok na oświetlony Ostrów Tumski."
               }
             },
             {
@@ -2236,7 +2426,8 @@
                 "de": "Die Tramhaltestelle ist nur einen Steinwurf vom warmen Dom entfernt.",
                 "hu": "A villamosmegálló csak egy ugrásra van a meleg dómtól.",
                 "ro": "Stația de tramvai este la doar o aruncătură de băț de catedrala caldă.",
-                "en": "The tram stop is just a stone's throw from the warm cathedral."
+                "en": "The tram stop is just a stone's throw from the warm cathedral.",
+                "pl": "Przystanek jest rzut kamieniem od ciepłej katedry."
               }
             },
             {
@@ -2245,7 +2436,8 @@
                 "de": "Steigen Sie an der Haltestelle 'Zamek' direkt in die Wärme des Schlosses um.",
                 "hu": "A 'Zamek' megállónál szálljon ki, és menjen egyből a kastély melegébe.",
                 "ro": "Coborâți la stația 'Zamek' și intrați direct în căldura castelului.",
-                "en": "Disembark at the 'Zamek' stop and head straight into the castle's warmth."
+                "en": "Disembark at the 'Zamek' stop and head straight into the castle's warmth.",
+                "pl": "Wysiądź na przystanku „Zamek” i idź prosto do ciepła zamku."
               }
             },
             {
@@ -2254,7 +2446,8 @@
                 "de": "Der Weg ab der Haltestelle ist bei Schnee geräumt.",
                 "hu": "A megállótól vezető utat hó esetén is takarítják.",
                 "ro": "Drumul de la stație este curățat în caz de zăpadă.",
-                "en": "The path from the stop is cleared even when it snows."
+                "en": "The path from the stop is cleared even when it snows.",
+                "pl": "Ścieżka z przystanku jest odśnieżana nawet przy opadach."
               }
             }
           ],
@@ -2286,6 +2479,13 @@
               "Watch your step at stops (ice hazard).",
               "Trams run on their regular schedule during winter.",
               "Warm clothing is vital for the walks between stops and destinations."
+            ],
+            "pl": [
+              "Poczekaj w pobliskich sklepach lub kawiarniach, jeśli tramwaj się opóźnia.",
+              "Bilety można łatwo kupić przez płatność zbliżeniową w pojeździe.",
+              "Uważaj na śliskie podłoże na przystankach (zagrożenie oblodzeniem).",
+              "Tramwaje kursują zgodnie z rozkładem również zimą.",
+              "Ciepłe ubranie jest niezbędne na spacery między przystankami i atrakcjami."
             ]
           }
         }

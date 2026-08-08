@@ -21,7 +21,8 @@
             "de": "Marktplatz (Rynek)",
             "hu": "Piactér (Rynek)",
             "ro": "Piața Centrală (Rynek)",
-            "en": "Market Square (Rynek)"
+            "en": "Market Square (Rynek)",
+            "pl": "Rynek (Market Square)"
           },
           "coords": [
             19.274,
@@ -37,7 +38,8 @@
             "de": "Beginnen Sie Ihren Tag hier mit einem Kaffee und beobachten Sie das Stadtleben.",
             "hu": "Kezdje a napot egy kávéval, és figyelje a város ébredését.",
             "ro": "Începeți ziua aici cu o cafea și priviți viața orașului.",
-            "en": "Start your day here with a coffee and watch the city life."
+            "en": "Start your day here with a coffee and watch the city life.",
+            "pl": "Zacznij dzień od kawy i obserwuj miejskie życie."
           }
         },
         {
@@ -45,7 +47,8 @@
             "de": "Denkmal der Bergleute",
             "hu": "Bányászok Emlékműve",
             "ro": "Monumentul Minerilor",
-            "en": "Monument of the Miners"
+            "en": "Monument of the Miners",
+            "pl": "Pomnik Górników"
           },
           "coords": [
             19.275,
@@ -61,7 +64,8 @@
             "de": "Ein wichtiges Symbol für die industrielle Geschichte der Stadt.",
             "hu": "A város ipari történelmének fontos szimbóluma.",
             "ro": "Un simbol important al istoriei industriale a orașului.",
-            "en": "An important symbol of the city's industrial history."
+            "en": "An important symbol of the city's industrial history.",
+            "pl": "Ważny symbol przemysłowej historii miasta."
           }
         },
         {
@@ -69,7 +73,8 @@
             "de": "Kollegiatkirche St. Adalbert",
             "hu": "Szent Adalbert társszékesegyház",
             "ro": "Biserica Colegială Sf. Adalbert",
-            "en": "Collegiate Church of St. Adalbert"
+            "en": "Collegiate Church of St. Adalbert",
+            "pl": "Kolegiata św. Wojciecha"
           },
           "coords": [
             19.2725,
@@ -85,7 +90,8 @@
             "de": "Bewundern Sie die Architektur und die ruhige Atmosphäre im Inneren.",
             "hu": "Csodálja meg az építészetet és a belső tér békés hangulatát.",
             "ro": "Admirați arhitectura și atmosfera liniștită din interior.",
-            "en": "Admire the architecture and the quiet atmosphere inside."
+            "en": "Admire the architecture and the quiet atmosphere inside.",
+            "pl": "Podziwiaj architekturę i panującą w środku ciszę."
           }
         },
         {
@@ -93,7 +99,8 @@
             "de": "Stadtmuseum Jaworzno",
             "hu": "Jaworznói Városi Múzeum",
             "ro": "Muzeul Municipal Jaworzno",
-            "en": "City Museum of Jaworzno"
+            "en": "City Museum of Jaworzno",
+            "pl": "Muzeum Miejskie w Jaworznie"
           },
           "coords": [
             19.276,
@@ -109,7 +116,8 @@
             "de": "Tauchen Sie tief in die lokale Geschichte und Kultur ein.",
             "hu": "Merüljön el a helyi történelemben és kultúrában.",
             "ro": "Aprofundați istoria și cultura locală.",
-            "en": "Take a deep dive into the local history and culture."
+            "en": "Take a deep dive into the local history and culture.",
+            "pl": "Zanurz się głęboko w lokalną historię i kulturę."
           }
         },
         {
@@ -117,7 +125,8 @@
             "de": "Park Gródek",
             "hu": "Gródek Park",
             "ro": "Parcul Gródek",
-            "en": "Park Gródek"
+            "en": "Park Gródek",
+            "pl": "Park Gródek"
           },
           "coords": [
             19.29,
@@ -133,7 +142,8 @@
             "de": "Bekannt als die 'polnischen Malediven', ein Muss für atemberaubende Ausblicke.",
             "hu": "A „lengyel Maldív-szigetekként” ismert hely, kihagyhatatlan a lélegzetelállító kilátásért.",
             "ro": "Cunoscut ca 'Maldivele poloneze', un loc de neratat pentru priveliști uimitoare.",
-            "en": "Known as the 'Polish Maldives,' a must-see for breathtaking views."
+            "en": "Known as the 'Polish Maldives,' a must-see for breathtaking views.",
+            "pl": "Znany jako „Polskie Malediwy”, obowiązkowy punkt ze spektakularnymi widokami."
           }
         },
         {
@@ -141,7 +151,8 @@
             "de": "Kulturzentrum Jaworzno",
             "hu": "Jaworznói Kulturális Központ",
             "ro": "Centrul Cultural Jaworzno",
-            "en": "Cultural Centre of Jaworzno"
+            "en": "Cultural Centre of Jaworzno",
+            "pl": "Centrum Kultury w Jaworznie"
           },
           "coords": [
             19.271,
@@ -157,7 +168,8 @@
             "de": "Prüfen Sie das Programm auf Abendveranstaltungen oder Konzerte.",
             "hu": "Nézze meg az esti előadások vagy koncertek programját.",
             "ro": "Verificați programul pentru evenimente de seară sau concerte.",
-            "en": "Check the schedule for any evening events or concerts."
+            "en": "Check the schedule for any evening events or concerts.",
+            "pl": "Sprawdź program wieczornych wydarzeń i koncertów."
           }
         }
       ],
@@ -165,7 +177,8 @@
         "de": "Ihr Spaziergang durch Jaworzno beginnt am lebhaften Marktplatz, dem Herzen der Stadt. Am Vormittag erkunden Sie die reiche Bergbaugeschichte am Denkmal und finden Ruhe in der Kollegiatkirche St. Adalbert. Nach dem Mittagessen, das Sie in einem lokalen Restaurant einnehmen, tauchen Sie im Stadtmuseum tief in die Vergangenheit ein. Der Nachmittag ist einem langen Spaziergang zum atemberaubenden Park Gródek gewidmet, der für seine türkisblauen Seen bekannt ist und einen perfekten Abschluss für Ihren Erkundungstag bildet.",
         "hu": "Sétája Jaworznóban a nyüzsgő Piactéren, a város szívében kezdődik. A délelőtt folyamán a Bányász Emlékműnél megismeri a gazdag bányászmúltat, majd a Szent Adalbert-templomban lel nyugalmat. Ebéd után, amelyet egy helyi étteremben fogyaszt el, a Városi Múzeumban mélyed el a múltban. A délután egy hosszú sétát tartogat a lélegzetelállító Gródek Parkhoz, amely türkizkék tavairól híres, tökéletes lezárása a felfedező napnak.",
         "ro": "Plimbarea dvs. prin Jaworzno începe în Piața Centrală vibrantă, inima orașului. În cursul dimineții, explorați bogata istorie minieră la monument și găsiți liniște la Biserica Colegială Sf. Adalbert. După prânz la un restaurant local, vă adânciți în trecut la Muzeul Municipal. După-amiaza este dedicată unei plimbări lungi către uimitorul Parc Gródek, renumit pentru lacurile sale turcoaz, oferind o încheiere perfectă pentru ziua de explorare.",
-        "en": "Your walking tour of Jaworzno begins at the vibrant Market Square, the city's heart. The morning is spent exploring the rich mining history at the monument and finding peace in the Collegiate Church of St. Adalbert. After lunch at a local restaurant, you'll delve deep into the past at the City Museum. The afternoon is dedicated to a long walk to the stunning Park Gródek, renowned for its turquoise lakes, providing a perfect end to your day of exploration."
+        "en": "Your walking tour of Jaworzno begins at the vibrant Market Square, the city's heart. The morning is spent exploring the rich mining history at the monument and finding peace in the Collegiate Church of St. Adalbert. After lunch at a local restaurant, you'll delve deep into the past at the City Museum. The afternoon is dedicated to a long walk to the stunning Park Gródek, renowned for its turquoise lakes, providing a perfect end to your day of exploration.",
+        "pl": "Twój spacer po Jaworznie zaczyna się na tętniącym życiem Rynku, sercu miasta. Rano poznasz bogatą historię górnictwa przy pomniku i znajdziesz spokój w kolegiacie św. Wojciecha. Po obiedzie w lokalnej restauracji zgłębisz przeszłość w Muzeum Miejskim. Popołudnie poświęcone jest długiemu spacerowi do Parku Gródek, słynącego z turkusowych jezior, co stanowi doskonałe zakończenie dnia zwiedzania."
       },
       "gastro_picks": {
         "de": [
@@ -361,6 +374,12 @@
           "Bring water and snacks, particularly for the longer afternoon walk.",
           "Check the museum's opening hours in advance.",
           "The late afternoon light at Park Gródek is fantastic for photos."
+        ],
+        "pl": [
+          "Noś wygodne buty — będziesz dużo chodzić, zwłaszcza do Parku Gródek.",
+          "Zabierz wodę i przekąski, szczególnie na dłuższy popołudniowy spacer.",
+          "Sprawdź z wyprzedzeniem godziny otwarcia muzeum.",
+          "Późne popołudniowe światło w Parku Gródek świetnie nadaje się do zdjęć."
         ]
       },
       "variants": {
@@ -369,7 +388,8 @@
             "de": "Beginnen Sie den Tag am regnerischen Marktplatz, wo die Arkaden Schutz bieten. Das Bergarbeiter-Denkmal wirkt im grauen Licht besonders eindrucksvoll. \n\nMittags finden Sie Zuflucht in der St.-Adalbert-Kirche und verbringen viel Zeit im Stadtmuseum, um dem Regen zu entkommen. \n\nNachmittags zeigt sich der Park Gródek von seiner mystischen Seite; die türkisfarbenen Teiche leuchten auch unter Wolken. \n\nDer Abend endet gemütlich am Kulturzentrum, nur einen kurzen Sprung von den Cafés am Ring entfernt.",
             "hu": "Kezdje a napot a bányászváros főterén, ahol az épületek ereszei alatt menedéket találhat az eső elől. A bányász-emlékmű ilyenkor még komorabbnak és tiszteletreméltóbbnak tűnik.\n\nDélben a Szent Adalbert-templom csendje és a Városi Múzeum gazdag tárlata nyújt száraz és meleg pihenőt.\n\nDélután a Park Gródek, a 'lengyel Maldív-szigetek' látványa esőben is lenyűgöző, a türkiz víz kontrasztot alkot a szürke éggel.\n\nAz este a Kulturális Központnál ér véget, ahonnan pár perc alatt elérhető egy fűtött belvárosi étterem.",
             "ro": "Începeți ziua în Piața Centrală, folosind arcadele clădirilor pentru a vă feri de ploaie. Monumentul Minerilor are o aură solemnă în lumina difuză a zilei ploioase.\n\nLa prânz, vizitați Biserica Sf. Adalbert și alocați mai mult timp Muzeului Orașului pentru a rămâne la adăpost.\n\nDupă-amiaza, explorați Park Gródek; lacurile turcoaz oferă un spectacol vizual deosebit chiar și sub stropii de ploaie.\n\nSeara se încheie la Centrul Cultural, o oprire scurtă înainte de a vă retrage într-o cafenea primitoare din centru.",
-            "en": "Start your day at the Market Square, using the shop awnings to dodge the rain. The Miners' Monument looks particularly striking in the somber, wet weather.\n\nAt midday, find spiritual and physical warmth in the St. Adalbert Church, then delve into local history at the City Museum.\n\nIn the afternoon, head to Park Gródek; the 'Polish Maldives' maintain their turquoise glow even under overcast rainy skies.\n\nFinish your walk at the Cultural Centre, perfectly positioned for a quick dash to a nearby cozy restaurant for dinner."
+            "en": "Start your day at the Market Square, using the shop awnings to dodge the rain. The Miners' Monument looks particularly striking in the somber, wet weather.\n\nAt midday, find spiritual and physical warmth in the St. Adalbert Church, then delve into local history at the City Museum.\n\nIn the afternoon, head to Park Gródek; the 'Polish Maldives' maintain their turquoise glow even under overcast rainy skies.\n\nFinish your walk at the Cultural Centre, perfectly positioned for a quick dash to a nearby cozy restaurant for dinner.",
+            "pl": "Rozpocznij dzień na Rynku, korzystając z daszków sklepów, by uniknąć deszczu. Pomnik Górników prezentuje się szczególnie imponująco w ponure, deszczowe dni.\n\nW południe znajdź duchowe i fizyczne ciepło w kościele św. Wojciecha, potem poznaj lokalną historię w Muzeum Miejskim.\n\nPo południu udaj się do Parku Gródek; „Polskie Malediwy” zachowują swój turkusowy blask nawet przy zachmurzeniu i deszczu.\n\nZakończ spacer w Centrum Kultury, skąd szybko dojdziesz do przytulnej restauracji na kolację."
           },
           "stops": [
             {
@@ -378,7 +398,8 @@
                 "de": "Nutzen Sie die Arkaden der umliegenden Gebäude als Regenschutz.",
                 "hu": "Használja a környékbeli épületek árkádjait az eső elleni védekezéshez.",
                 "ro": "Folosiți arcadele clădirilor din jur pentru a vă proteja de ploaie.",
-                "en": "Use the arcades of the surrounding buildings to stay dry."
+                "en": "Use the arcades of the surrounding buildings to stay dry.",
+                "pl": "Korzystaj z arkad otaczających budynki, by pozostać suchym."
               }
             },
             {
@@ -387,7 +408,8 @@
                 "de": "Ein schneller Fotostopp; der nasse Stein glänzt wunderschön.",
                 "hu": "Gyors fotómegálló; a vizes kőfelület sötéten csillog az esőben.",
                 "ro": "O oprire rapidă pentru fotografii; piatra umedă strălucește frumos.",
-                "en": "A quick photo stop; the wet stone glistens beautifully in the rain."
+                "en": "A quick photo stop; the wet stone glistens beautifully in the rain.",
+                "pl": "Krótki postój na zdjęcie — mokry kamień pięknie się błyszczy w deszczu."
               }
             },
             {
@@ -396,7 +418,8 @@
                 "de": "Ideal, um während eines Schauers zur Ruhe zu kommen.",
                 "hu": "Ideális helyszín egy nagyobb zápor idejére az elcsendesedéshez.",
                 "ro": "Locul perfect pentru a vă odihni în timpul unei averse.",
-                "en": "An ideal place to find peace and shelter during a heavy downpour."
+                "en": "An ideal place to find peace and shelter during a heavy downpour.",
+                "pl": "Idealne miejsce na znalezienie spokoju i schronienia podczas ulewy."
               }
             },
             {
@@ -405,7 +428,8 @@
                 "de": "Verlängern Sie Ihren Besuch, um die lokale Geschichte trocken zu erkunden.",
                 "hu": "Hosszabbítsa meg a látogatást, így szárazon ismerheti meg a helyi múltat.",
                 "ro": "Prelungiți vizita pentru a explora istoria locală la adăpost.",
-                "en": "Extend your visit here to stay dry while exploring local history."
+                "en": "Extend your visit here to stay dry while exploring local history.",
+                "pl": "Wydłuż wizytę tutaj, by pozostać suchym podczas zwiedzania historii lokalnej."
               }
             },
             {
@@ -414,7 +438,8 @@
                 "de": "Vorsicht auf den Holzstegen; diese können bei Nässe rutschig sein.",
                 "hu": "Vigyázat a fapallókon; esőben csúszóssá válhatnak a víz felett.",
                 "ro": "Atenție pe pasarelele de lemn; pot deveni alunecoase când sunt ude.",
-                "en": "Careful on the wooden walkways; they can be slippery when wet."
+                "en": "Careful on the wooden walkways; they can be slippery when wet.",
+                "pl": "Uważaj na drewniane kładki; mogą być śliskie po deszczu."
               }
             },
             {
@@ -423,7 +448,8 @@
                 "de": "Prüfen Sie das Foyer auf aktuelle Indoor-Ausstellungen.",
                 "hu": "Érdemes benézni az előtérbe az aktuális beltéri kiállításokért.",
                 "ro": "Verificați foierul pentru expoziții temporare de interior.",
-                "en": "Check the foyer for any temporary indoor exhibitions."
+                "en": "Check the foyer for any temporary indoor exhibitions.",
+                "pl": "Sprawdź w foyer, czy nie ma czasowych wystaw wewnętrznych."
               }
             }
           ],
@@ -451,6 +477,12 @@
               "The city museum is often closed on Mondays; check ahead.",
               "The market square has several cafes with covered outdoor seating.",
               "An umbrella is essential for the open areas in the park."
+            ],
+            "pl": [
+              "Noś wodoodporne obuwie na szlaki w Parku Gródek.",
+              "Muzeum miejskie często jest zamknięte w poniedziałki; sprawdź wcześniej.",
+              "Na Rynku znajduje się kilka kawiarni z zadaszonymi miejscami na zewnątrz.",
+              "Parasolka jest niezbędna na otwartych przestrzeniach w parku."
             ]
           }
         },
@@ -459,7 +491,8 @@
             "de": "Ein frostiger Morgen am Marktplatz von Jaworzno verspricht eine magische Atmosphäre unter dem Winterhimmel. Die Statue der Bergarbeiter steht stolz im kalten Wind.\n\nMittags wärmen Sie sich in der Collegiate-Kirche auf und tauchen danach tief in die Ausstellungen des Stadtmuseums ein.\n\nNachmittags erwartet Sie der Park Gródek als Winterwunderland; die gefrorenen Teiche bieten eine surreale Kulisse, bevor die Sonne gegen 16:00 Uhr untergeht.\n\nDen Abend lassen Sie am Kulturzentrum ausklingen, während die Stadtlichter die winterliche Kälte vertreiben.",
             "hu": "A fagyos reggel Jaworzno főterén különleges hangulatot áraszt a téli égbolt alatt. A bányászok szobra büszkén dacol a hideg széllel.\n\nDélben melegedjen fel a templom belső terében, majd töltse a leghidegebb órákat a Városi Múzeum falai között.\n\nDélután a Park Gródek téli mesevilággá változik; a befagyott vízfelületek szürreális látványt nyújtanak a korai, délután 4 órai naplemente előtt.\n\nAz este a Kulturális Központ környékén találja, ahol a városi fények barátságossá teszik a téli éjszakát.",
             "ro": "O dimineață geroasă în Piața Centrală din Jaworzno oferă o atmosferă magică sub cerul de iarnă. Statuia Minerilor stă mândră în vântul rece.\n\nLa prânz, încălziți-vă în interiorul bisericii, apoi petreceți orele cele mai reci explorând Muzeul Orașului.\n\nDupă-amiaza, Park Gródek se transformă într-un tărâm de basm; lacurile înghețate oferă un cadru ireal înainte de apusul de la ora 16:00.\n\nSeara se încheie la Centrul Cultural, în timp ce luminile orașului străpung întunericul iernii.",
-            "en": "A frosty morning at Jaworzno's Market Square offers a magical atmosphere under the winter sky. The Miners' statue stands proud against the cold breeze.\n\nAt midday, warm up inside the church's serene interior, then spend the coldest hours inside the City Museum.\n\nIn the afternoon, Park Gródek turns into a winter wonderland; the frozen ponds provide a surreal backdrop before the early 4 PM sunset.\n\nEnd your evening near the Cultural Centre, where the warm city lights contrast with the winter chill."
+            "en": "A frosty morning at Jaworzno's Market Square offers a magical atmosphere under the winter sky. The Miners' statue stands proud against the cold breeze.\n\nAt midday, warm up inside the church's serene interior, then spend the coldest hours inside the City Museum.\n\nIn the afternoon, Park Gródek turns into a winter wonderland; the frozen ponds provide a surreal backdrop before the early 4 PM sunset.\n\nEnd your evening near the Cultural Centre, where the warm city lights contrast with the winter chill.",
+            "pl": "Mroźny poranek na Rynku w Jaworznie oferuje magiczną atmosferę pod zimowym niebem. Pomnik Górników stoi dumnie przeciw zimnemu wietrzykowi.\n\nW południe ogrzej się wewnątrz kościoła, a najzimniejsze godziny spędź w Muzeum Miejskim.\n\nPo południu Park Gródek przemienia się w zimową krainę czarów; zamarznięte stawy tworzą surrealistyczne tło przed wczesnym zachodem słońca około godz. 16:00.\n\nZakończ wieczór w pobliżu Centrum Kultury, gdzie ciepłe miejskie światła kontrastują z zimnym powietrzem."
           },
           "stops": [
             {
@@ -468,7 +501,8 @@
                 "de": "Genießen Sie die winterliche Beleuchtung und den Raureif auf den Bäumen.",
                 "hu": "Élvezze a téli díszkivilágítást és a fákon megülő zúzmarát.",
                 "ro": "Bucurați-vă de iluminatul festiv și de chiciura de pe copaci.",
-                "en": "Enjoy the winter lights and the frost on the trees."
+                "en": "Enjoy the winter lights and the frost on the trees.",
+                "pl": "Rozkoszuj się zimowymi światłami i szronem na drzewach."
               }
             },
             {
@@ -477,7 +511,8 @@
                 "de": "Die Statue wirkt im Schnee besonders heroisch.",
                 "hu": "A szobor a hóesésben különösen hősies látványt nyújt.",
                 "ro": "Statuia arată deosebit de eroic în zăpadă.",
-                "en": "The statue looks particularly heroic when covered in snow."
+                "en": "The statue looks particularly heroic when covered in snow.",
+                "pl": "Pomnik wygląda szczególnie heroicznie, gdy jest pokryty śniegiem."
               }
             },
             {
@@ -486,7 +521,8 @@
                 "de": "Ein warmer Ort für eine kurze besinnliche Pause.",
                 "hu": "Meleg menedék egy rövid, elmélyült pihenőhöz.",
                 "ro": "Un loc călduros pentru o scurtă pauză de meditație.",
-                "en": "A warm place for a short, meditative break from the cold."
+                "en": "A warm place for a short, meditative break from the cold.",
+                "pl": "Ciepłe miejsce na krótką, medytacyjną przerwę od zimna."
               }
             },
             {
@@ -495,7 +531,8 @@
                 "de": "Perfekt, um die kälteste Zeit des Tages im Warmen zu verbringen.",
                 "hu": "Tökéletes helyszín a nap leghidegebb óráinak átvészeléséhez.",
                 "ro": "Perfect pentru a petrece cele mai reci ore ale zilei la căldură.",
-                "en": "The perfect spot to spend the coldest part of the day indoors."
+                "en": "The perfect spot to spend the coldest part of the day indoors.",
+                "pl": "Idealne miejsce, by spędzić najzimniejszą część dnia w pomieszczeniu."
               }
             },
             {
@@ -504,7 +541,8 @@
                 "de": "Achten Sie auf vereiste Stellen auf den Wegen; festes Schuhwerk nötig.",
                 "hu": "Vigyázzon a jeges szakaszokra; bordázott talpú bakancs ajánlott.",
                 "ro": "Atenție la porțiunile înghețate; este nevoie de încălțăminte solidă.",
-                "en": "Watch out for icy patches on the paths; sturdy boots are required."
+                "en": "Watch out for icy patches on the paths; sturdy boots are required.",
+                "pl": "Uważaj na oblodzone fragmenty na ścieżkach; potrzebne są solidne buty."
               }
             },
             {
@@ -513,7 +551,8 @@
                 "de": "Ein guter Treffpunkt, bevor es zurück in die warme Unterkunft geht.",
                 "hu": "Kiváló találkozópont, mielőtt visszatérne a fűtött szállásra.",
                 "ro": "Un punct de întâlnire excelent înainte de a reveni la căldură.",
-                "en": "A great meeting point before heading back to your warm accommodation."
+                "en": "A great meeting point before heading back to your warm accommodation.",
+                "pl": "Doskonały punkt spotkań przed powrotem do ciepłego noclegu."
               }
             }
           ],
@@ -541,6 +580,12 @@
               "Wear thermal clothing for the extended walk in Park Gródek.",
               "Many cafes on the square serve hot Polish honey wine in winter.",
               "Park trails may not be fully cleared of snow during winter."
+            ],
+            "pl": [
+              "Zachód słońca może nastąpić już około godz. 16:00 w miesiącach zimowych.",
+              "Noś odzież termiczną na dłuższy spacer po Parku Gródek.",
+              "Wiele kawiarni na rynku serwuje zimą grzane polskie wino miodowe.",
+              "Trasy w parku mogą nie być w pełni odśnieżone zimą."
             ]
           }
         }
@@ -559,7 +604,8 @@
             "de": "Marktplatz (Rynek)",
             "hu": "Piactér (Rynek)",
             "ro": "Piața Centrală (Rynek)",
-            "en": "Market Square (Rynek)"
+            "en": "Market Square (Rynek)",
+            "pl": "Rynek (Market Square)"
           },
           "coords": [
             19.274,
@@ -575,7 +621,8 @@
             "de": "Schließen Sie Ihr Fahrrad sicher ab und genießen Sie die Atmosphäre des Platzes.",
             "hu": "Zárja le biztonságosan a kerékpárját, és élvezze a tér hangulatát.",
             "ro": "Asigurați-vă bicicleta și bucurați-vă de atmosfera pieței.",
-            "en": "Lock your bike securely and enjoy the square's atmosphere."
+            "en": "Lock your bike securely and enjoy the square's atmosphere.",
+            "pl": "Zabezpiecz rower i rozkoszuj się atmosferą Rynku."
           }
         },
         {
@@ -583,7 +630,8 @@
             "de": "Kollegiatkirche St. Adalbert",
             "hu": "Szent Adalbert társszékesegyház",
             "ro": "Biserica Colegială Sf. Adalbert",
-            "en": "Collegiate Church of St. Adalbert"
+            "en": "Collegiate Church of St. Adalbert",
+            "pl": "Kolegiata św. Wojciecha"
           },
           "coords": [
             19.2725,
@@ -599,7 +647,8 @@
             "de": "Eine kurze Fahrt vom Marktplatz entfernt, perfekt für eine besinnliche Pause.",
             "hu": "Rövid biciklizésre a Piactértől, tökéletes egy elmélyült szünetre.",
             "ro": "La o scurtă plimbare cu bicicleta de Piața Centrală, perfect pentru o pauză contemplativă.",
-            "en": "A short ride from the market square, perfect for a contemplative pause."
+            "en": "A short ride from the market square, perfect for a contemplative pause.",
+            "pl": "Krótka przejażdżka z Rynku, idealna na chwilę zadumy."
           }
         },
         {
@@ -607,7 +656,8 @@
             "de": "Stadtmuseum Jaworzno",
             "hu": "Jaworznói Városi Múzeum",
             "ro": "Muzeul Municipal Jaworzno",
-            "en": "City Museum of Jaworzno"
+            "en": "City Museum of Jaworzno",
+            "pl": "Muzeum Miejskie w Jaworznie"
           },
           "coords": [
             19.276,
@@ -623,7 +673,8 @@
             "de": "Planen Sie genügend Zeit ein, das Fahrrad kann sicher in der Nähe abgestellt werden.",
             "hu": "Tervezzen elég időt, a kerékpárt biztonságosan le lehet tenni a közelben.",
             "ro": "Planificați suficient timp, bicicleta poate fi lăsată în siguranță în apropiere.",
-            "en": "Plan enough time; the bike can be parked securely nearby."
+            "en": "Plan enough time; the bike can be parked securely nearby.",
+            "pl": "Zaplanuj odpowiednio czas; rower można bezpiecznie zaparkować w pobliżu."
           }
         },
         {
@@ -631,7 +682,8 @@
             "de": "Geosfera Jaworzno",
             "hu": "Geosfera Jaworzno",
             "ro": "Geosfera Jaworzno",
-            "en": "Geosfera Jaworzno"
+            "en": "Geosfera Jaworzno",
+            "pl": "Geosfera Jaworzno"
           },
           "coords": [
             19.295,
@@ -647,7 +699,8 @@
             "de": "Ein interessanter botanischer Garten in einem ehemaligen Steinbruch.",
             "hu": "Érdekes botanikus kert egy egykori kőbányában.",
             "ro": "O grădină botanică interesantă într-o fostă carieră.",
-            "en": "An interesting botanical garden set in a former quarry."
+            "en": "An interesting botanical garden set in a former quarry.",
+            "pl": "Interesujący ogród botaniczny położony w dawnej kamieniołomie."
           }
         },
         {
@@ -655,7 +708,8 @@
             "de": "Park Gródek",
             "hu": "Gródek Park",
             "ro": "Parcul Gródek",
-            "en": "Park Gródek"
+            "en": "Park Gródek",
+            "pl": "Park Gródek"
           },
           "coords": [
             19.29,
@@ -671,7 +725,8 @@
             "de": "Verbringen Sie hier Ihre Mittagspause, die Aussicht ist es wert.",
             "hu": "Töltse itt az ebédszünetét, a kilátás megéri.",
             "ro": "Petreceți pauza de prânz aici, priveliștea merită.",
-            "en": "Spend your lunch break here; the views are worth it."
+            "en": "Spend your lunch break here; the views are worth it.",
+            "pl": "Spędź tu przerwę na lunch; widoki są tego warte."
           }
         },
         {
@@ -679,7 +734,8 @@
             "de": "Sosina See",
             "hu": "Sosina-tó",
             "ro": "Lacul Sosina",
-            "en": "Sosina Lake"
+            "en": "Sosina Lake",
+            "pl": "Jezioro Sosina"
           },
           "coords": [
             19.215,
@@ -695,7 +751,8 @@
             "de": "Eine längere, aber lohnende Fahrt. Perfekt zum Entspannen am Nachmittag.",
             "hu": "Hosszabb, de megéri az utat. Tökéletes a délutáni pihenéshez.",
             "ro": "O plimbare mai lungă, dar care merită. Perfect pentru relaxare după-amiaza.",
-            "en": "A longer but rewarding ride. Perfect for relaxing in the afternoon."
+            "en": "A longer but rewarding ride. Perfect for relaxing in the afternoon.",
+            "pl": "Dłuższa, lecz satysfakcjonująca trasa. Idealne miejsce na popołudniowy relaks."
           }
         },
         {
@@ -703,7 +760,8 @@
             "de": "Zurück zum Marktplatz",
             "hu": "Vissza a Piactérre",
             "ro": "Înapoi la Piața Centrală",
-            "en": "Return to Market Square"
+            "en": "Return to Market Square",
+            "pl": "Powrót na Rynek"
           },
           "coords": [
             19.274,
@@ -719,7 +777,8 @@
             "de": "Beenden Sie Ihre Radtour, wo sie begann, und genießen Sie ein wohlverdientes Abendessen.",
             "hu": "Fejezze be a kerékpártúrát ott, ahol elkezdte, és élvezze a jól megérdemelt vacsorát.",
             "ro": "Încheiați turul cu bicicleta acolo unde a început și bucurați-vă de o cină binemeritată.",
-            "en": "End your bike tour where it started and enjoy a well-deserved dinner."
+            "en": "End your bike tour where it started and enjoy a well-deserved dinner.",
+            "pl": "Zakończ wycieczkę rowerową tam, gdzie zaczęła się, i rozkoszuj się zasłużoną kolacją."
           }
         }
       ],
@@ -727,7 +786,8 @@
         "de": "Auf zwei Rädern beginnt Ihr Tag in Jaworzno auf dem zentralen Marktplatz. Von dort aus radeln Sie zu den kulturellen Höhepunkten der Stadt, der Kollegiatkirche und dem Museum. Am Mittag führt Sie Ihre Route aus der Stadt heraus zu den einzigartigen Landschaften der Geosfera und des Parks Gródek. Der Nachmittag ist für eine längere, erfrischende Fahrt zum Sosina-See reserviert, wo Sie sich entspannen können, bevor Sie zum Abschluss des Tages zurück ins Zentrum radeln.",
         "hu": "Két keréken a nap Jaworzno központi Piacterén kezdődik. Innen a város kulturális nevezetességeihez, a társszékesegyházhoz és a múzeumhoz kerekezik. Délben az útvonal kivezeti a városból a Geosfera és a Gródek Park egyedi tájaira. A délutánt egy hosszabb, frissítő tekerésnek szenteljük a Sosina-tóhoz, ahol pihenhet, mielőtt a nap lezárásaként visszatér a központba.",
         "ro": "Pe două roți, ziua dvs. în Jaworzno începe în Piața Centrală. De acolo, pedalați către punctele culturale de atracție ale orașului, Biserica Colegială și muzeul. La prânz, traseul vă duce în afara orașului, către peisajele unice ale Geosferei și Parcului Gródek. După-amiaza este rezervată unei plimbări mai lungi și revigorante la Lacul Sosina, unde vă puteți relaxa înainte de a reveni în centru pentru a încheia ziua.",
-        "en": "On two wheels, your day in Jaworzno starts at the central Market Square. From there, you'll cycle to the city's cultural highlights, the Collegiate Church and the museum. At midday, your route takes you out of the city to the unique landscapes of Geosfera and Park Gródek. The afternoon is reserved for a longer, refreshing ride to Sosina Lake, where you can relax before cycling back to the center to end the day."
+        "en": "On two wheels, your day in Jaworzno starts at the central Market Square. From there, you'll cycle to the city's cultural highlights, the Collegiate Church and the museum. At midday, your route takes you out of the city to the unique landscapes of Geosfera and Park Gródek. The afternoon is reserved for a longer, refreshing ride to Sosina Lake, where you can relax before cycling back to the center to end the day.",
+        "pl": "Na dwóch kółkach dzień w Jaworznie zaczyna się na centralnym Rynku. Stamtąd pojedziesz do kulturalnych punktów miasta: kolegiaty i muzeum. W południe trasa wyprowadzi cię poza miasto do wyjątkowych krajobrazów Geosfery i Parku Gródek. Popołudnie zarezerwowane jest na dłuższą, orzeźwiającą przejażdżkę nad Jezioro Sosina, gdzie możesz odpocząć przed powrotem do centrum i zakończeniem dnia."
       },
       "gastro_picks": {
         "de": [
@@ -923,6 +983,12 @@
           "Bring a reliable lock to secure your bike in the city.",
           "Check the weather forecast; some paths can be slippery after rain.",
           "Poland has some specific traffic rules for cyclists, briefly inform yourself about them."
+        ],
+        "pl": [
+          "Upewnij się, że rower jest w dobrym stanie, zwłaszcza na dłuższą trasę do jeziora.",
+          "Zabierz niezawodny zamek do zabezpieczenia roweru w mieście.",
+          "Sprawdź prognozę pogody; niektóre ścieżki mogą być śliskie po deszczu.",
+          "W Polsce obowiązują zasady ruchu dla rowerzystów — zapoznaj się z nimi krótko przed wyjazdem."
         ]
       },
       "variants": {
@@ -931,7 +997,8 @@
             "de": "Eine nasse Radtour durch Jaworzno erfordert gute Ausrüstung, bietet aber leere Wege. Start am Ring unter grauen Wolken.\n\nMittags kombinieren Sie Kultur und Schutz in der Kirche und dem Museum, während die Räder sicher geparkt sind.\n\nNachmittags führt die Route zur Geosfera und zum Park Gródek. Die Felsen leuchten im Regen besonders farbintensiv.\n\nDer Tag endet am See Sosina, wo die regnerische Stille eine ganz eigene Ruhe ausstrahlt, bevor es zurück zum Ring geht.",
             "hu": "Egy esős kerékpártúra Jaworznóban jó felszerelést igényel, de cserébe üres utakat kínál. Indulás a főtérről a szürke felhők alatt.\n\nDélben kombinálja a kultúrát a védelemmel a templomban és a múzeumban, amíg a biciklik biztonságban pihennek.\n\nDélután az út a Geosfera és a Park Gródek felé vezet. A sziklák színei esőben még élénkebbek.\n\nA nap a Sosina-tónál zárul, ahol az eső áztatta táj különleges nyugalmat áraszt, mielőtt visszakerekezne a főtérre.",
             "ro": "O tură cu bicicleta prin Jaworzno pe ploaie necesită echipament bun, dar oferă poteci libere. Start din piață sub nori gri.\n\nLa prânz, combinați cultura cu protecția în biserică și muzeu, în timp ce bicicletele sunt parcate în siguranță.\n\nDupă-amiaza, traseul duce la Geosfera și Park Gródek. Culorile stâncilor sunt mai intense pe timp de ploaie.\n\nZiua se încheie la Lacul Sosina, unde liniștea ploioasă oferă o atmosferă aparte, înainte de întoarcerea în centru.",
-            "en": "A wet bike ride through Jaworzno requires good gear but rewards you with empty paths. Start at the square under grey skies.\n\nAt midday, combine culture and shelter at the church and museum while your bikes are safely parked nearby.\n\nIn the afternoon, the route leads to Geosfera and Park Gródek. The rocks' colors appear more vivid in the rain.\n\nThe day ends at Sosina Lake, where the rainy silence emanates a unique peace before the final leg back to the center."
+            "en": "A wet bike ride through Jaworzno requires good gear but rewards you with empty paths. Start at the square under grey skies.\n\nAt midday, combine culture and shelter at the church and museum while your bikes are safely parked nearby.\n\nIn the afternoon, the route leads to Geosfera and Park Gródek. The rocks' colors appear more vivid in the rain.\n\nThe day ends at Sosina Lake, where the rainy silence emanates a unique peace before the final leg back to the center.",
+            "pl": "Mokry przejazd rowerem przez Jaworzno wymaga dobrego wyposażenia, ale nagradza pustymi ścieżkami. Rozpocznij na Rynku pod szarym niebem.\n\nW południe połącz kulturę i schronienie w kościele i muzeum, zostawiając rowery bezpiecznie zaparkowane w pobliżu.\n\nPo południu trasa prowadzi do Geosfery i Parku Gródek. Kolory skał wydają się bardziej nasycone pod deszczem.\n\nDzień kończy się nad Jeziorem Sosina, gdzie deszczowa cisza daje wyjątkowy spokój przed ostatnim odcinkiem z powrotem do centrum."
           },
           "stops": [
             {
@@ -940,7 +1007,8 @@
                 "de": "Prüfen Sie Ihre Bremsen; nasse Oberflächen verlangen längere Bremswege.",
                 "hu": "Ellenőrizze a fékeket; a vizes aszfalton hosszabb féktávval számoljon.",
                 "ro": "Verificați frânele; suprafețele umede necesită distanțe de frânare mai mari.",
-                "en": "Check your brakes; wet surfaces require longer braking distances."
+                "en": "Check your brakes; wet surfaces require longer braking distances.",
+                "pl": "Sprawdź hamulce; mokra nawierzchnia wydłuża drogę hamowania."
               }
             },
             {
@@ -949,7 +1017,8 @@
                 "de": "Nutzen Sie die Fahrradständer in der Nähe des Eingangs.",
                 "hu": "Használja a bejárat közeli kerékpártámaszokat.",
                 "ro": "Folosiți suporturile de biciclete de lângă intrare.",
-                "en": "Use the bike racks located near the entrance."
+                "en": "Use the bike racks located near the entrance.",
+                "pl": "Korzystaj z stojaków rowerowych przy wejściu."
               }
             },
             {
@@ -958,7 +1027,8 @@
                 "de": "Ein idealer Ort für eine längere Regenpause.",
                 "hu": "Ideális helyszín egy hosszabb esőszünet megtartásához.",
                 "ro": "Un loc ideal pentru o pauză mai lungă de ploaie.",
-                "en": "An ideal place for an extended break from the rain."
+                "en": "An ideal place for an extended break from the rain.",
+                "pl": "Idealne miejsce na dłuższą przerwę od deszczu."
               }
             },
             {
@@ -967,7 +1037,8 @@
                 "de": "Vorsicht auf den Schotterwegen; diese können bei Regen aufweichen.",
                 "hu": "Vigyázzon a murvás utakon; esőben felázhat a talaj.",
                 "ro": "Atenție pe drumurile cu pietriș; se pot înmuia din cauza ploii.",
-                "en": "Careful on the gravel paths; they can soften in the rain."
+                "en": "Careful on the gravel paths; they can soften in the rain.",
+                "pl": "Uważaj na żwirowe ścieżki; po deszczu mogą się rozmiękczać."
               }
             },
             {
@@ -976,7 +1047,8 @@
                 "de": "Schieben Sie das Rad auf den Holzstegen, um Rutschgefahr zu vermeiden.",
                 "hu": "A fapallókon tolja a kerékpárt a csúszásveszély miatt.",
                 "ro": "Împingeți bicicleta pe pasarelele de lemn pentru a evita alunecarea.",
-                "en": "Walk your bike on the wooden walkways to avoid slipping."
+                "en": "Walk your bike on the wooden walkways to avoid slipping.",
+                "pl": "Przepuszczaj rower na drewnianych kładkach, by uniknąć poślizgnięcia."
               }
             },
             {
@@ -985,7 +1057,8 @@
                 "de": "Die asphaltierte Umfahrung des Sees ist auch bei Regen gut befahrbar.",
                 "hu": "A tó körüli aszfaltozott út esőben is jól tekerhető.",
                 "ro": "Drumul asfaltat din jurul lacului este practicabil și pe ploaie.",
-                "en": "The paved loop around the lake remains rideable even in the rain."
+                "en": "The paved loop around the lake remains rideable even in the rain.",
+                "pl": "Asfaltowa pętla wokół jeziora pozostaje przejezdna nawet w deszczu."
               }
             },
             {
@@ -994,7 +1067,8 @@
                 "de": "Eine warme Mahlzeit ist die Belohnung für die tapfere Fahrt.",
                 "hu": "Egy meleg étel a jutalom a bátor esős tekerés után.",
                 "ro": "O masă caldă este recompensa pentru tura curajoasă pe ploaie.",
-                "en": "A warm meal is the reward for your brave rainy ride."
+                "en": "A warm meal is the reward for your brave rainy ride.",
+                "pl": "Ciepły posiłek to nagroda za odważną, deszczową przejażdżkę."
               }
             }
           ],
@@ -1022,6 +1096,12 @@
               "Watch out for puddles that might hide deep potholes.",
               "Lights are essential for visibility during rainy conditions.",
               "Use mudguards to protect yourself from road spray."
+            ],
+            "pl": [
+              "Noś komplet wodoodpornej kurtki i spodni.",
+              "Uważaj na kałuże, które mogą ukrywać głębokie dziury.",
+              "Oświetlenie jest niezbędne dla widoczności w deszczowych warunkach.",
+              "Używaj błotników, by chronić się przed wodnym chlupotem z drogi."
             ]
           }
         },
@@ -1030,7 +1110,8 @@
             "de": "Winterliches Radfahren in Jaworzno ist erfrischend. Start am kühlen Marktplatz, während der Frost auf dem Sattel glitzert.\n\nMittags bieten Kirche und Museum die nötige Wärme, um die Finger wieder beweglich zu machen.\n\nNachmittags geht es durch die klare Winterluft zur Geosfera und zum Park Gródek. Die tiefstehende Sonne sorgt für dramatische Schatten auf den Felsen.\n\nBevor die Dunkelheit einbricht, erreichen Sie den See Sosina und kehren dann zügig zum beleuchteten Stadtzentrum zurück.",
             "hu": "A téli kerékpározás Jaworznóban frissítő élmény. Indulás a hűvös főtérről, miközben a dér csillog a nyergen.\n\nDélben a templom és a múzeum nyújtja a szükséges meleget az átfagyott ujjak felmelegítéséhez.\n\nDélután a tiszta téli levegőben tekerjen el a Geosfera és a Park Gródek felé. Az alacsonyan járó nap drámai árnyékokat vet a sziklákra.\n\nMielőtt beállna a sötétség, érje el a Sosina-tavat, majd térjen vissza a kivilágított városközpontba.",
             "ro": "Ciclismul de iarnă în Jaworzno este revigorant. Start din piața răcoroasă, în timp ce bruma strălucește pe șa.\n\nLa prânz, biserica și muzeul oferă căldura necesară pentru a vă dezmorți degetele.\n\nDupă-amiaza, pedalați prin aerul curat de iarnă spre Geosfera și Park Gródek. Soarele jos creează umbre dramatice pe stânci.\n\nÎnainte de lăsarea întunericului, ajungeți la Lacul Sosina și reveniți rapid în centrul iluminat al orașului.",
-            "en": "Winter cycling in Jaworzno is a refreshing challenge. Start at the chilly square while frost glitters on your bike seat.\n\nAt midday, the church and museum provide the necessary warmth to get your fingers moving again.\n\nIn the afternoon, ride through the crisp winter air to Geosfera and Park Gródek. The low sun casts dramatic shadows across the limestone rocks.\n\nReach Sosina Lake before darkness falls, then make a swift return to the brightly lit city center."
+            "en": "Winter cycling in Jaworzno is a refreshing challenge. Start at the chilly square while frost glitters on your bike seat.\n\nAt midday, the church and museum provide the necessary warmth to get your fingers moving again.\n\nIn the afternoon, ride through the crisp winter air to Geosfera and Park Gródek. The low sun casts dramatic shadows across the limestone rocks.\n\nReach Sosina Lake before darkness falls, then make a swift return to the brightly lit city center.",
+            "pl": "Zimowa jazda rowerem po Jaworznie to orzeźwiające wyzwanie. Rozpocznij na mroźnym Rynku, gdy szron lśni na siodełku.\n\nW południe kościół i muzeum dadzą potrzebne ciepło, by rozgrzać zmarznięte palce.\n\nPo południu jedź przez rześkie zimowe powietrze do Geosfery i Parku Gródek. Niskie słońce rzuca dramatyczne cienie na wapienne skały.\n\nDotrzyj nad Jezioro Sosina przed zapadnięciem zmroku, a potem szybko wróć do jasno oświetlonego centrum."
           },
           "stops": [
             {
@@ -1039,7 +1120,8 @@
                 "de": "Vorsicht beim Losfahren auf möglicherweise glattem Kopfsteinpflaster.",
                 "hu": "Vigyázzon az indulásnál az esetlegesen csúszós macskakövön.",
                 "ro": "Atenție la plecare pe pavajul care poate fi alunecos.",
-                "en": "Be careful when starting off on potentially slippery cobblestones."
+                "en": "Be careful when starting off on potentially slippery cobblestones.",
+                "pl": "Uważaj przy ruszaniu na potencjalnie śliskich kostkach brukowych."
               }
             },
             {
@@ -1048,7 +1130,8 @@
                 "de": "Kurze Aufwärmpause in der Stille des Gotteshauses.",
                 "hu": "Rövid melegedő pihenő a templom csendjében.",
                 "ro": "O scurtă pauză de încălzire în liniștea bisericii.",
-                "en": "A brief warm-up break in the quiet of the church."
+                "en": "A brief warm-up break in the quiet of the church.",
+                "pl": "Krótka przerwa na rozgrzewkę w ciszy kościoła."
               }
             },
             {
@@ -1057,7 +1140,8 @@
                 "de": "Nutzen Sie die Garderobe für Ihre Winterausrüstung.",
                 "hu": "Használja a ruhatárat a vastag téli felszerelésnek.",
                 "ro": "Folosiți garderoba pentru echipamentul de iarnă.",
-                "en": "Use the cloakroom for your bulky winter riding gear."
+                "en": "Use the cloakroom for your bulky winter riding gear.",
+                "pl": "Skorzystaj z szatni na cięższy zimowy sprzęt rowerowy."
               }
             },
             {
@@ -1066,7 +1150,8 @@
                 "de": "Die Wege können bei Bodenfrost sehr hart und rutschig sein.",
                 "hu": "A talajfagy miatt az utak nagyon kemények és csúszósak lehetnek.",
                 "ro": "Drumurile pot fi foarte dure și alunecoase din cauza înghețului.",
-                "en": "Paths can be very hard and slippery due to ground frost."
+                "en": "Paths can be very hard and slippery due to ground frost.",
+                "pl": "Ścieżki mogą być twarde i śliskie z powodu zamarzniętej ziemi."
               }
             },
             {
@@ -1075,7 +1160,8 @@
                 "de": "Das Schieben des Rades schont die Kräfte bei Kälte.",
                 "hu": "A kerékpár tolása segít energiát spórolni a hidegben.",
                 "ro": "Împingerea bicicletei ajută la conservarea energiei pe frig.",
-                "en": "Walking your bike helps conserve energy in the cold."
+                "en": "Walking your bike helps conserve energy in the cold.",
+                "pl": "Prowadzenie roweru piechotą oszczędza energię w chłodzie."
               }
             },
             {
@@ -1084,7 +1170,8 @@
                 "de": "Genießen Sie die weite, klare Sicht über das Wasser.",
                 "hu": "Élvezze a tiszta, messzire nyúló kilátást a víz felett.",
                 "ro": "Bucurați-vă de vizibilitatea clară peste oglinda apei.",
-                "en": "Enjoy the wide, clear views over the winter waters."
+                "en": "Enjoy the wide, clear views over the winter waters.",
+                "pl": "Ciesz się szerokimi, czystymi widokami nad zimowymi wodami."
               }
             },
             {
@@ -1093,7 +1180,8 @@
                 "de": "Stellen Sie sicher, dass Ihre Beleuchtung für die Rückfahrt hell genug ist.",
                 "hu": "Győződjön meg róla, hogy a világítása elég erős a hazautúthoz.",
                 "ro": "Asigurați-vă că luminile sunt destul de puternice pentru retur.",
-                "en": "Ensure your lights are bright enough for the dark return trip."
+                "en": "Ensure your lights are bright enough for the dark return trip.",
+                "pl": "Upewnij się, że światła są wystarczająco jasne na ciemny powrót."
               }
             }
           ],
@@ -1121,6 +1209,12 @@
               "Check tire pressure; lower pressure provides better grip on snow.",
               "Avoid sudden braking on slippery or icy surfaces.",
               "E-bike batteries drain significantly faster in cold weather."
+            ],
+            "pl": [
+              "Noś warstwową odzież i wiatroodporne rękawice.",
+              "Sprawdź ciśnienie w oponach; niższe ciśnienie zapewnia lepszą przyczepność na śniegu.",
+              "Unikaj gwałtownego hamowania na śliskich lub oblodzonych nawierzchniach.",
+              "Baterie w e-rowerach rozładowują się znacznie szybciej w niskich temperaturach."
             ]
           }
         }
@@ -1139,7 +1233,8 @@
             "de": "Parkplatz am Marktplatz",
             "hu": "Parkoló a Piactérnél",
             "ro": "Parcare la Piața Centrală",
-            "en": "Parking near Market Square"
+            "en": "Parking near Market Square",
+            "pl": "Parkowanie przy Rynku"
           },
           "coords": [
             19.2755,
@@ -1155,7 +1250,8 @@
             "de": "Parken Sie hier für den Vormittag, das Zentrum ist leicht zu Fuß erreichbar.",
             "hu": "Parkoljon itt a délelőttre, a központ könnyen bejárható gyalog.",
             "ro": "Parcați aici pentru dimineață, centrul este ușor de explorat pe jos.",
-            "en": "Park here for the morning; the city center is easily walkable."
+            "en": "Park here for the morning; the city center is easily walkable.",
+            "pl": "Parkuj tu na poranek; centrum miasta da się łatwo zwiedzić pieszo."
           }
         },
         {
@@ -1163,7 +1259,8 @@
             "de": "Marktplatz & Denkmal der Bergleute",
             "hu": "Piactér és Bányászok Emlékműve",
             "ro": "Piața Centrală și Monumentul Minerilor",
-            "en": "Market Square & Miners' Monument"
+            "en": "Market Square & Miners' Monument",
+            "pl": "Rynek i Pomnik Górników"
           },
           "coords": [
             19.2745,
@@ -1179,7 +1276,8 @@
             "de": "Erkunden Sie den Platz und das nahe gelegene Denkmal zu Fuß.",
             "hu": "Fedezze fel a teret és a közeli emlékművet gyalog.",
             "ro": "Explorați piața și monumentul din apropiere pe jos.",
-            "en": "Explore the square and the nearby monument on foot."
+            "en": "Explore the square and the nearby monument on foot.",
+            "pl": "Zwiedź rynek i pobliski pomnik na piechotę."
           }
         },
         {
@@ -1187,7 +1285,8 @@
             "de": "Kollegiatkirche St. Adalbert",
             "hu": "Szent Adalbert társszékesegyház",
             "ro": "Biserica Colegială Sf. Adalbert",
-            "en": "Collegiate Church of St. Adalbert"
+            "en": "Collegiate Church of St. Adalbert",
+            "pl": "Kolegiata św. Wojciecha"
           },
           "coords": [
             19.2725,
@@ -1203,7 +1302,8 @@
             "de": "Ein kurzer Spaziergang vom Platz aus.",
             "hu": "Rövid séta a térről.",
             "ro": "O scurtă plimbare de la piață.",
-            "en": "A short walk from the square."
+            "en": "A short walk from the square.",
+            "pl": "Krótki spacer od rynku."
           }
         },
         {
@@ -1211,7 +1311,8 @@
             "de": "Park Gródek (Parkplatz)",
             "hu": "Gródek Park (Parkoló)",
             "ro": "Parcul Gródek (Parcare)",
-            "en": "Park Gródek (Parking)"
+            "en": "Park Gródek (Parking)",
+            "pl": "Park Gródek (Parking)"
           },
           "coords": [
             19.291,
@@ -1227,7 +1328,8 @@
             "de": "Fahren Sie zum nächsten Cluster. Von hier aus erkunden Sie den Park.",
             "hu": "Vezessen a következő csoporthoz. Innen fedezze fel a parkot.",
             "ro": "Conduceți la următorul cluster. De aici explorați parcul.",
-            "en": "Drive to the next cluster. You'll explore the park from here."
+            "en": "Drive to the next cluster. You'll explore the park from here.",
+            "pl": "Jedź do następnej grupy atrakcji. Stąd zwiedzisz park."
           }
         },
         {
@@ -1235,7 +1337,8 @@
             "de": "Erkundung des Parks Gródek & Geosfera",
             "hu": "Gródek Park és Geosfera felfedezése",
             "ro": "Explorarea Parcului Gródek & Geosfera",
-            "en": "Exploring Park Gródek & Geosfera"
+            "en": "Exploring Park Gródek & Geosfera",
+            "pl": "Zwiedzanie Parku Gródek i Geosfery"
           },
           "coords": [
             19.29,
@@ -1251,7 +1354,8 @@
             "de": "Nehmen Sie sich Zeit für die 'polnischen Malediven' und den botanischen Garten.",
             "hu": "Szánjon időt a „lengyel Maldív-szigetekre” és a botanikus kertre.",
             "ro": "Luați-vă timp pentru 'Maldivele poloneze' și grădina botanică.",
-            "en": "Take your time for the 'Polish Maldives' and the botanical garden."
+            "en": "Take your time for the 'Polish Maldives' and the botanical garden.",
+            "pl": "Poświęć czas „Polskim Malediwom” i ogrodowi botanicznemu."
           }
         },
         {
@@ -1259,7 +1363,8 @@
             "de": "Sosina See",
             "hu": "Sosina-tó",
             "ro": "Lacul Sosina",
-            "en": "Sosina Lake"
+            "en": "Sosina Lake",
+            "pl": "Jezioro Sosina"
           },
           "coords": [
             19.215,
@@ -1275,7 +1380,8 @@
             "de": "Die letzte Fahrt des Tages führt Sie zu diesem großen See zur Entspannung am Nachmittag.",
             "hu": "A nap utolsó útja ehhez a nagy tóhoz vezet a délutáni kikapcsolódásra.",
             "ro": "Ultima călătorie a zilei vă duce la acest lac mare pentru relaxare de după-amiază.",
-            "en": "The final drive of the day takes you to this large lake for afternoon relaxation."
+            "en": "The final drive of the day takes you to this large lake for afternoon relaxation.",
+            "pl": "Ostatni odcinek dnia zaprowadzi cię nad to duże jezioro na popołudniowy relaks."
           }
         }
       ],
@@ -1283,7 +1389,8 @@
         "de": "Ihr Tag mit dem Auto beginnt im Zentrum von Jaworzno, wo Sie parken und den historischen Kern zu Fuß erkunden. Am Vormittag spazieren Sie vom Marktplatz zur Kirche. Nach diesem städtischen Cluster fahren Sie zum Naturcluster Park Gródek und Geosfera, wo Sie die einzigartige Landschaft genießen und zu Mittag essen. Der letzte Teil Ihrer Reise führt Sie zum weitläufigen Sosina-See, einem perfekten Ort, um den Nachmittag entspannt ausklingen zu lassen, bevor Sie die Heimreise antreten.",
         "hu": "Autós napja Jaworzno központjában kezdődik, ahol leparkol, és gyalog fedezi fel a történelmi magot. Délelőtt a Piactérről a templomhoz sétál. E városi klaszter után a Gródek Park és a Geosfera természeti klaszteréhez hajt, ahol élvezi az egyedi tájat és megebédel. Útja utolsó szakasza a tágas Sosina-tóhoz vezet, amely tökéletes hely a délutáni pihenéshez, mielőtt hazaindulna.",
         "ro": "Ziua dvs. cu mașina începe în centrul orașului Jaworzno, unde parcați și explorați nucleul istoric pe jos. Dimineața vă plimbați de la Piața Centrală la biserică. După acest cluster urban, conduceți către clusterul natural format din Parcul Gródek și Geosfera, unde vă bucurați de peisajul unic și luați prânzul. Ultima parte a călătoriei vă duce la vastul Lac Sosina, un loc perfect pentru a încheia după-amiaza într-un mod relaxant înainte de a vă întoarce acasă.",
-        "en": "Your day by car starts in the center of Jaworzno, where you'll park and explore the historic core on foot. The morning involves walking from the Market Square to the church. After this urban cluster, you drive to the natural cluster of Park Gródek and Geosfera, enjoying the unique landscape and having lunch. The final leg of your journey takes you to the expansive Sosina Lake, a perfect spot to wind down the afternoon before heading home."
+        "en": "Your day by car starts in the center of Jaworzno, where you'll park and explore the historic core on foot. The morning involves walking from the Market Square to the church. After this urban cluster, you drive to the natural cluster of Park Gródek and Geosfera, enjoying the unique landscape and having lunch. The final leg of your journey takes you to the expansive Sosina Lake, a perfect spot to wind down the afternoon before heading home.",
+        "pl": "Twój dzień samochodem zaczyna się w centrum Jaworzna, gdzie zaparkujesz i pieszo poznasz zabytkowe centrum. Rano przejdziesz z Rynku do kościoła. Po tej miejskiej części pojedziesz do przyrodniczego zespołu Parku Gródek i Geosfery, podziwiając wyjątkowy krajobraz i jedząc obiad. Ostatni etap prowadzi nad rozległe Jezioro Sosina, idealne miejsce na wyciszenie popołudnia przed powrotem do domu."
       },
       "gastro_picks": {
         "de": [
@@ -1479,6 +1586,12 @@
           "A GPS is essential for navigating between the different sites.",
           "Plan for some buffer time for traffic, particularly in the late afternoon.",
           "Don't leave valuables visible in the car when parked."
+        ],
+        "pl": [
+          "Sprawdź wcześniej opcje i opłaty parkingowe, zwłaszcza w centrum.",
+          "GPS jest niezbędny do nawigacji między poszczególnymi miejscami.",
+          "Planuj dodatkowy zapas czasu na korki, szczególnie późnym popołudniem.",
+          "Nie zostawiaj wartościowych przedmiotów na widoku w samochodzie podczas parkowania."
         ]
       },
       "variants": {
@@ -1487,7 +1600,8 @@
             "de": "Mit dem Auto ist Jaworzno auch bei Regen komfortabel zu erkunden. Start am Parkplatz nahe dem Marktplatz.\n\nMittags besuchen Sie die Kirche und das Museum trockenen Fußes, während der Regen gegen die Scheiben prasselt.\n\nNachmittags fahren Sie bequem zum Park Gródek und zur Geosfera. Die Parkplätze sind nah an den Hauptattraktionen.\n\nDer Tag endet entspannt am See Sosina, wo Sie den Ausblick aus dem warmen Auto genießen können.",
             "hu": "Autóval Jaworzno esőben is kényelmesen felfedezhető. Indulás a főtér közeli parkolóból.\n\nDélben látogassa meg a templomot és a múzeumot száraz lábbal, miközben az eső kopog a szélvédőn.\n\nDélután autózzon el a Park Gródekhez és a Geosferához. A parkolók közel vannak a látnivalókhoz.\n\nA nap pihentetően zárul a Sosina-tónál, ahol akár az autó melegéből is élvezheti a kilátást.",
             "ro": "Cu mașina, Jaworzno este ușor de explorat chiar și pe ploaie. Start din parcarea de lângă piață.\n\nLa prânz, vizitați biserica și muzeul rămânând uscat, în timp ce ploaia bate în parbriz.\n\nDupă-amiaza, conduceți confortabil spre Park Gródek și Geosfera. Parcările sunt aproape de atracții.\n\nZiua se încheie relaxat la Lacul Sosina, unde puteți admira peisajul din confortul mașinii.",
-            "en": "By car, Jaworzno is easy to explore even during a downpour. Start at the parking lot near the main square.\n\nAt midday, visit the church and museum, staying dry while the rain drums on the windshield.\n\nIn the afternoon, drive comfortably to Park Gródek and Geosfera. Parking lots are located close to the main highlights.\n\nThe day ends peacefully at Sosina Lake, where you can enjoy the view from the warmth of your vehicle."
+            "en": "By car, Jaworzno is easy to explore even during a downpour. Start at the parking lot near the main square.\n\nAt midday, visit the church and museum, staying dry while the rain drums on the windshield.\n\nIn the afternoon, drive comfortably to Park Gródek and Geosfera. Parking lots are located close to the main highlights.\n\nThe day ends peacefully at Sosina Lake, where you can enjoy the view from the warmth of your vehicle.",
+            "pl": "Samochodem Jaworzno łatwo zwiedzić nawet podczas ulewy. Zacznij na parkingu przy głównym rynku.\n\nW południe odwiedź kościół i muzeum, pozostając suchym, gdy deszcz bębni o szybę.\n\nPo południu wygodnie pojedź do Parku Gródek i Geosfery. Parking znajduje się blisko głównych atrakcji.\n\nDzień zakończysz spokojnie nad Jeziorem Sosina, gdzie możesz podziwiać widok z ciepła samochodu."
           },
           "stops": [
             {
@@ -1496,7 +1610,8 @@
                 "de": "Suchen Sie einen Platz nahe dem Ausgang, um den Weg im Regen zu verkürzen.",
                 "hu": "Keressen helyet a kijárathoz közel, hogy rövidebb legyen az út az esőben.",
                 "ro": "Căutați un loc aproape de ieșire pentru a scurta drumul prin ploaie.",
-                "en": "Find a spot near the exit to minimize your time walking in the rain."
+                "en": "Find a spot near the exit to minimize your time walking in the rain.",
+                "pl": "Znajdź miejsce blisko wyjścia, by zminimalizować czas chodzenia w deszczu."
               }
             },
             {
@@ -1505,7 +1620,8 @@
                 "de": "Ein schneller Besuch für ein Foto; nutzen Sie den Regenschirm.",
                 "hu": "Gyors látogatás egy fotó erejéig; használjon esernyőt.",
                 "ro": "O vizită rapidă pentru o fotografie; folosiți umbrela.",
-                "en": "A quick visit for a photo; make sure to use an umbrella."
+                "en": "A quick visit for a photo; make sure to use an umbrella.",
+                "pl": "Szybka wizyta na zdjęcie; pamiętaj o parasolu."
               }
             },
             {
@@ -1514,7 +1630,8 @@
                 "de": "Parken Sie direkt an der Straße für minimalen Gehweg.",
                 "hu": "Parkoljon közvetlenül az utcán a minimális gyaloglásért.",
                 "ro": "Parcați direct pe stradă pentru a merge cât mai puțin pe jos.",
-                "en": "Park directly on the street to minimize walking distance."
+                "en": "Park directly on the street to minimize walking distance.",
+                "pl": "Parkuj bezpośrednio przy ulicy, by skrócić dystans do przejścia."
               }
             },
             {
@@ -1523,7 +1640,8 @@
                 "de": "Der Parkplatz kann bei starkem Regen matschig sein.",
                 "hu": "A parkoló erős esőben sárossá válhat.",
                 "ro": "Parcarea poate deveni noroioasă în caz de ploaie puternică.",
-                "en": "The parking area can become muddy during heavy rain."
+                "en": "The parking area can become muddy during heavy rain.",
+                "pl": "Teren parkingowy może stać się błotnisty podczas ulewy."
               }
             },
             {
@@ -1532,7 +1650,8 @@
                 "de": "Bleiben Sie auf den befestigten Wegen, um Schlamm zu vermeiden.",
                 "hu": "Maradjon a kiépített utakon a sár elkerülése érdekében.",
                 "ro": "Rămâneți pe potecile amenajate pentru a evita noroiul.",
-                "en": "Stick to the paved paths to avoid getting muddy."
+                "en": "Stick to the paved paths to avoid getting muddy.",
+                "pl": "Trzymaj się utwardzonych ścieżek, by nie ubrudzić się błotem."
               }
             },
             {
@@ -1541,7 +1660,8 @@
                 "de": "Es gibt Parkplätze mit direktem Seeblick.",
                 "hu": "Vannak parkolóhelyek közvetlen kilátással a tóra.",
                 "ro": "Există locuri de parcare cu vedere directă spre lac.",
-                "en": "There are parking spots with a direct view of the lake."
+                "en": "There are parking spots with a direct view of the lake.",
+                "pl": "Są miejsca parkingowe z bezpośrednim widokiem na jezioro."
               }
             }
           ],
@@ -1569,6 +1689,12 @@
               "Keep an umbrella ready in the door pocket.",
               "Use parking apps to speed up payment in the rain.",
               "Visibility can be limited in forested areas during heavy rain."
+            ],
+            "pl": [
+              "Uważaj na aquaplaning na drogach łączących.",
+              "Miej parasol w schowku przy drzwiach.",
+              "Użyj aplikacji parkingowych, by szybciej zapłacić w deszczu.",
+              "Widoczność może być ograniczona w zalesionych obszarach podczas intensywnego deszczu."
             ]
           }
         },
@@ -1577,7 +1703,8 @@
             "de": "Eine winterliche Autofahrt durch Jaworzno ist sicher und warm. Start am Parkplatz, während die Heizung das Auto enteist.\n\nMittags erkunden Sie den Marktplatz und die Museen, immer mit der Gewissheit einer warmen Rückkehr ins Fahrzeug.\n\nNachmittags führt die Fahrt zum Park Gródek. Die schneebedeckten Steinbrüche wirken aus der Ferne wie eine Polarlandschaft.\n\nDen Sonnenuntergang am See Sosina erleben Sie gemütlich, bevor Sie durch das beleuchtete Jaworzno zurückfahren.",
             "hu": "A téli autózás Jaworznóban biztonságos és meleg. Indulás a parkolóból, amíg a fűtés leolvasztja a jeget.\n\nDélben fedezze fel a főteret és a múzeumokat, tudva, hogy bármikor visszatérhet a meleg autóba.\n\nDélután autózzon a Park Gródekhez. A hóval borított kőfejtők távolról sarkvidéki tájnak tűnnek.\n\nA Sosina-tavi naplementét kényelemben élvezheti, mielőtt átvághatna a kivilágított városon.",
             "ro": "O plimbare cu mașina prin Jaworzno iarna este sigură și călduroasă. Start din parcare în timp ce căldura dezgheață geamurile.\n\nLa prânz, explorați piața și muzeele, având mereu siguranța unei reveniri la căldură în vehicul.\n\nDupă-amiaza, mergeți spre Park Gródek. Carierele acoperite de zăpadă par un peisaj polar de la distanță.\n\nAdmirați apusul la Lacul Sosina în confort, înainte de a conduce prin orașul iluminat festiv.",
-            "en": "A winter drive through Jaworzno is both safe and cozy. Start at the parking lot while the heater defrosts your car.\n\nAt midday, explore the square and museums, knowing you can always return to your warm vehicle.\n\nIn the afternoon, drive to Park Gródek. The snow-covered quarries look like a polar landscape from a distance.\n\nExperience the sunset at Sosina Lake in total comfort before driving back through the illuminated streets."
+            "en": "A winter drive through Jaworzno is both safe and cozy. Start at the parking lot while the heater defrosts your car.\n\nAt midday, explore the square and museums, knowing you can always return to your warm vehicle.\n\nIn the afternoon, drive to Park Gródek. The snow-covered quarries look like a polar landscape from a distance.\n\nExperience the sunset at Sosina Lake in total comfort before driving back through the illuminated streets.",
+            "pl": "Zimowa jazda przez Jaworzno jest zarówno bezpieczna, jak i przytulna. Zacznij na parkingu, gdy nagrzewnica rozmraża samochód.\n\nW południe zwiedź rynek i muzea, wiedząc, że zawsze możesz wrócić do ciepłego pojazdu.\n\nPo południu jedź do Parku Gródek. Zaśnieżone wyrobiska z daleka przypominają polarne krajobrazy.\n\nZachód słońca przeżyj nad Jeziorem Sosina w całkowitym komforcie, zanim wrócisz przez oświetlone ulice."
           },
           "stops": [
             {
@@ -1586,7 +1713,8 @@
                 "de": "Vorsicht vor Eisplatten auf dem Parkplatzgelände.",
                 "hu": "Vigyázzon a jégfoltokkal a parkoló területén.",
                 "ro": "Atenție la porțiunile de gheață din zona parcării.",
-                "en": "Watch out for icy patches in the parking area."
+                "en": "Watch out for icy patches in the parking area.",
+                "pl": "Uważaj na oblodzone miejsca na terenie parkingu."
               }
             },
             {
@@ -1595,7 +1723,8 @@
                 "de": "Die Statuen tragen oft 'Hüte' aus Schnee.",
                 "hu": "A szobrok télen gyakran kapnak hósapkát.",
                 "ro": "Statuile poartă adesea 'căciuli' de zăpadă.",
-                "en": "The statues often wear 'caps' of snow during winter."
+                "en": "The statues often wear 'caps' of snow during winter.",
+                "pl": "Posągi często mają zimowe „czapki” ze śniegu."
               }
             },
             {
@@ -1604,7 +1733,8 @@
                 "de": "Ein kurzer Fußweg vom Parkplatz zum warmen Kirchenschiff.",
                 "hu": "Rövid séta a parkolótól a fűtött templomhajóig.",
                 "ro": "O scurtă plimbare de la parcare la nava încălzită a bisericii.",
-                "en": "A short walk from your parking spot to the warm church nave."
+                "en": "A short walk from your parking spot to the warm church nave.",
+                "pl": "Krótki spacer z miejsca parkingowego do ciepłego wnętrza kościoła."
               }
             },
             {
@@ -1613,7 +1743,8 @@
                 "de": "Der Parkplatz wird bei Schnee nicht immer sofort geräumt.",
                 "hu": "A parkolót havazáskor nem mindig takarítják azonnal.",
                 "ro": "Parcarea nu este întotdeauna deszăpezită imediat.",
-                "en": "The parking lot may not be cleared of snow immediately."
+                "en": "The parking lot may not be cleared of snow immediately.",
+                "pl": "Parking może nie być od razu odśnieżony."
               }
             },
             {
@@ -1622,7 +1753,8 @@
                 "de": "Die Treppen zu den Aussichtspunkten können glatt sein.",
                 "hu": "A kilátókhoz vezető lépcsők csúszósak lehetnek.",
                 "ro": "Scările spre punctele de belvedere pot fi alunecoase.",
-                "en": "The stairs leading to the viewpoints can be slippery."
+                "en": "The stairs leading to the viewpoints can be slippery.",
+                "pl": "Schody prowadzące do punktów widokowych mogą być śliskie."
               }
             },
             {
@@ -1631,7 +1763,8 @@
                 "de": "Parken Sie so, dass Sie den Sonnenuntergang direkt sehen können.",
                 "hu": "Úgy parkoljon, hogy közvetlenül lássa a naplementét.",
                 "ro": "Parcați astfel încât să vedeți apusul direct din mașină.",
-                "en": "Park in a position where you can view the sunset directly."
+                "en": "Park in a position where you can view the sunset directly.",
+                "pl": "Zaparkuj tak, by móc obserwować zachód słońca bezpośrednio."
               }
             }
           ],
@@ -1659,6 +1792,12 @@
               "Keep an ice scraper and winter windshield fluid in the car.",
               "Main city roads are well-cleared, but side streets may not be.",
               "Allow extra time for parking due to snow banks."
+            ],
+            "pl": [
+              "Upewnij się, że masz założone opony zimowe.",
+              "Miej w samochodzie skrobaczkę do szyb i zimowy płyn do spryskiwaczy.",
+              "Główne miejskie drogi są dobrze odśnieżone, ale boczne ulice mogą nie być.",
+              "Zarezerwuj więcej czasu na parkowanie z powodu wałów śnieżnych."
             ]
           }
         }
@@ -1677,7 +1816,8 @@
             "de": "Ankunft am Marktplatz (Haltestelle: Jaworzno Centrum)",
             "hu": "Érkezés a Piactérre (Megálló: Jaworzno Centrum)",
             "ro": "Sosire la Piața Centrală (Stația: Jaworzno Centrum)",
-            "en": "Arrival at Market Square (Stop: Jaworzno Centrum)"
+            "en": "Arrival at Market Square (Stop: Jaworzno Centrum)",
+            "pl": "Przyjazd na Rynek (Przystanek: Jaworzno Centrum)"
           },
           "coords": [
             19.274,
@@ -1693,7 +1833,8 @@
             "de": "Der zentrale Knotenpunkt, von dem aus Sie Ihren Stadtrundgang beginnen.",
             "hu": "A központi csomópont, ahonnan a városnéző sétát kezdi.",
             "ro": "Nodul central de unde începeți turul pe jos al orașului.",
-            "en": "The central hub from which to start your city walk."
+            "en": "The central hub from which to start your city walk.",
+            "pl": "Centralny punkt, od którego zaczniesz spacer po mieście."
           }
         },
         {
@@ -1701,7 +1842,8 @@
             "de": "Kollegiatkirche & Stadtmuseum",
             "hu": "Társszékesegyház és Városi Múzeum",
             "ro": "Biserica Colegială și Muzeul Municipal",
-            "en": "Collegiate Church & City Museum"
+            "en": "Collegiate Church & City Museum",
+            "pl": "Kolegiata i Muzeum Miejskie"
           },
           "coords": [
             19.2743,
@@ -1717,7 +1859,8 @@
             "de": "Erkunden Sie diese beiden nahe gelegenen Sehenswürdigkeiten zu Fuß.",
             "hu": "Fedezze fel ezt a két közeli látnivalót gyalog.",
             "ro": "Explorați aceste două atracții apropiate pe jos.",
-            "en": "Explore these two nearby attractions on foot."
+            "en": "Explore these two nearby attractions on foot.",
+            "pl": "Zwiedź te dwie pobliskie atrakcje na piechotę."
           }
         },
         {
@@ -1725,7 +1868,8 @@
             "de": "Ankunft am Park Gródek (Haltestelle: Pieczyska Centrum Nurkowe)",
             "hu": "Érkezés a Gródek Parkhoz (Megálló: Pieczyska Centrum Nurkowe)",
             "ro": "Sosire la Parcul Gródek (Stația: Pieczyska Centrum Nurkowe)",
-            "en": "Arrival at Park Gródek (Stop: Pieczyska Centrum Nurkowe)"
+            "en": "Arrival at Park Gródek (Stop: Pieczyska Centrum Nurkowe)",
+            "pl": "Przyjazd do Parku Gródek (Przystanek: Pieczyska Centrum Nurkowe)"
           },
           "coords": [
             19.292,
@@ -1741,7 +1885,8 @@
             "de": "Nehmen Sie einen Bus zu diesem Naturjuwel. Planen Sie Zeit für einen Spaziergang ein.",
             "hu": "Vegyen buszt ehhez a természeti gyöngyszemhez. Tervezzen időt egy sétára.",
             "ro": "Luați un autobuz către această bijuterie naturală. Planificați timp pentru o plimbare.",
-            "en": "Take a bus to this natural gem. Plan for some walking time."
+            "en": "Take a bus to this natural gem. Plan for some walking time.",
+            "pl": "Dojedź autobusem do tego naturalnego skarbu. Zaplanuj trochę czasu na spacer."
           }
         },
         {
@@ -1749,7 +1894,8 @@
             "de": "Ankunft am Sosina See (Haltestelle: Sosina Plaża)",
             "hu": "Érkezés a Sosina-tóhoz (Megálló: Sosina Plaża)",
             "ro": "Sosire la Lacul Sosina (Stația: Sosina Plaża)",
-            "en": "Arrival at Sosina Lake (Stop: Sosina Plaża)"
+            "en": "Arrival at Sosina Lake (Stop: Sosina Plaża)",
+            "pl": "Przyjazd nad Jezioro Sosina (Przystanek: Sosina Plaża)"
           },
           "coords": [
             19.218,
@@ -1765,7 +1911,8 @@
             "de": "Ihr letzter Transit-Sprung für einen entspannten Nachmittag am Seeufer.",
             "hu": "Az utolsó buszos út egy pihentető délutánhoz a tóparton.",
             "ro": "Ultimul salt cu transportul public pentru o după-amiază relaxantă pe malul lacului.",
-            "en": "Your final transit hop for a relaxing afternoon by the lakeside."
+            "en": "Your final transit hop for a relaxing afternoon by the lakeside.",
+            "pl": "Ostatni przystanek komunikacji publicznej na relaksujące popołudnie nad jeziorem."
           }
         },
         {
@@ -1773,7 +1920,8 @@
             "de": "Rückkehr ins Zentrum",
             "hu": "Visszatérés a központba",
             "ro": "Întoarcere în centru",
-            "en": "Return to Center"
+            "en": "Return to Center",
+            "pl": "Powrót do centrum"
           },
           "coords": [
             19.274,
@@ -1789,7 +1937,8 @@
             "de": "Fahren Sie zurück ins Stadtzentrum für das Abendessen.",
             "hu": "Utazzon vissza a városközpontba vacsorázni.",
             "ro": "Întoarceți-vă în centrul orașului pentru cină.",
-            "en": "Head back to the city center for dinner."
+            "en": "Head back to the city center for dinner.",
+            "pl": "Wróć do centrum miasta na kolację."
           }
         }
       ],
@@ -1797,7 +1946,8 @@
         "de": "Mit öffentlichen Verkehrsmitteln navigieren Sie mühelos durch Jaworzno. Der Vormittag ist dem zentralen Cluster gewidmet, wo Sie vom Busbahnhof aus zu Fuß die Kirche und das Museum erreichen. Nach dem Mittagessen bringt Sie ein Bus zu den atemberaubenden 'polnischen Malediven' im Park Gródek. Der letzte Ausflug des Tages führt Sie mit dem Bus zum großen Sosina-See, wo Sie den Nachmittag verbringen, bevor Sie für den Abend ins Zentrum zurückkehren. Diese Route kombiniert städtische Erkundungen mit weitläufigen Naturerlebnissen.",
         "hu": "Tömegközlekedéssel könnyedén navigálhat Jaworznóban. A délelőtt a központi klaszternek van szentelve, ahol a buszpályaudvarról gyalogosan elérheti a templomot és a múzeumot. Ebéd után egy busz elviszi a lenyűgöző „lengyel Maldív-szigetekre” a Gródek Parkban. A nap utolsó kirándulása busszal a nagy Sosina-tóhoz vezet, ahol a délutánt tölti, mielőtt estére visszatér a központba. Ez az útvonal a városi felfedezést kiterjedt természeti élményekkel ötvözi.",
         "ro": "Folosind transportul public, navigați prin Jaworzno fără efort. Dimineața este dedicată clusterului central, unde ajungeți pe jos la biserică și muzeu de la autogară. După prânz, un autobuz vă duce la uimitoarele 'Maldive poloneze' din Parcul Gródek. Ultima excursie a zilei vă duce cu autobuzul la marele Lac Sosina, unde vă petreceți după-amiaza înainte de a vă întoarce în centru pentru seară. Acest traseu combină explorarea urbană cu experiențe extinse în natură.",
-        "en": "Using public transit, you'll navigate Jaworzno with ease. The morning is dedicated to the central cluster, walking from the bus hub to the church and museum. After lunch, a bus takes you to the stunning 'Polish Maldives' at Park Gródek. The final trip of the day is a bus ride to the large Sosina Lake, where you'll spend the afternoon before returning to the center for the evening. This route blends urban exploration with expansive natural escapes."
+        "en": "Using public transit, you'll navigate Jaworzno with ease. The morning is dedicated to the central cluster, walking from the bus hub to the church and museum. After lunch, a bus takes you to the stunning 'Polish Maldives' at Park Gródek. The final trip of the day is a bus ride to the large Sosina Lake, where you'll spend the afternoon before returning to the center for the evening. This route blends urban exploration with expansive natural escapes.",
+        "pl": "Korzystając z transportu publicznego, z łatwością przemierzysz Jaworzno. Rano poświęć czas centrum, idąc z węzła przesiadkowego do kościoła i muzeum. Po obiedzie autobus zawiezie cię do oszałamiających „Polskich Malediwów” w Parku Gródek. Ostatni przejazd dnia to autobus nad duże Jezioro Sosina, gdzie spędzisz popołudnie, zanim wrócisz do centrum na wieczór. Trasa łączy miejskie zwiedzanie z rozległymi ucieczkami na łono natury."
       },
       "gastro_picks": {
         "de": [
@@ -1993,6 +2143,12 @@
           "Download a local transit app or use online maps to plan routes.",
           "Be aware of bus schedules, especially for the last return trip from the lake.",
           "Keep some small change for tickets in case you need to buy from the driver."
+        ],
+        "pl": [
+          "Kup bilet dobowy na komunikację, by oszczędzić pieniądze.",
+          "Pobierz lokalną aplikację komunikacyjną lub użyj map online do planowania tras.",
+          "Sprawdź rozkłady autobusów, zwłaszcza ostatni powrotny kurs z jeziora.",
+          "Miej drobne na bilety, gdyby trzeba było kupić je u kierowcy."
         ]
       },
       "variants": {
@@ -2001,7 +2157,8 @@
             "de": "Die Nutzung des öffentlichen Nahverkehrs in Jaworzno ist bei Regen eine kluge Wahl. Start im Zentrum nahe dem Marktplatz.\n\nMittags erreichen Sie Museen und Kirchen bequem per Bus, ohne lange im Regen zu stehen.\n\nNachmittags bringt Sie die Linie zum Park Gródek. Ein kurzer Fußweg von der Haltestelle führt zur beeindruckenden Kulisse.\n\nDer Tag endet mit der Busfahrt zurück ins Zentrum, während Sie die regnerische Stadt aus dem Fenster beobachten.",
             "hu": "A tömegközlekedés Jaworznóban okos döntés esőben. Indulás a központból, a főtér mellől.\n\nDélben kényelmesen elérheti a múzeumokat és templomokat busszal, elkerülve az ázást.\n\nDélután a járat elviszi a Park Gródekhez. A megállótól csak rövid séta a lenyűgöző látvány.\n\nA nap a központba való visszautazással zárul, miközben az ablakból figyeli az esős várost.",
             "ro": "Folosirea transportului public în Jaworzno este o alegere înțeleaptă pe ploaie. Start din centru, de lângă piață.\n\nLa prânz, ajungeți confortabil la muzee și biserici cu autobuzul, evitând ploaia.\n\nDupă-amiaza, linia vă duce spre Park Gródek. O scurtă plimbare de la stație vă oferă o priveliște impresionantă.\n\nZiua se încheie cu drumul de întoarcere în centru, observând orașul ploios de la fereastră.",
-            "en": "Using public transit in Jaworzno is a smart move in the rain. Start in the center, near the main square.\n\nAt midday, reach museums and churches conveniently by bus, avoiding long exposures to the rain.\n\nIn the afternoon, the local line takes you to Park Gródek. It's just a short walk from the stop to the scenic views.\n\nFinish your day with a bus ride back to the center, watching the rainy city pass by the window."
+            "en": "Using public transit in Jaworzno is a smart move in the rain. Start in the center, near the main square.\n\nAt midday, reach museums and churches conveniently by bus, avoiding long exposures to the rain.\n\nIn the afternoon, the local line takes you to Park Gródek. It's just a short walk from the stop to the scenic views.\n\nFinish your day with a bus ride back to the center, watching the rainy city pass by the window.",
+            "pl": "Korzystanie z komunikacji publicznej w Jaworznie to dobry wybór w czasie deszczu. Zacznij w centrum, przy głównym rynku.\n\nW południe dotrzesz do muzeów i kościołów wygodnie autobusem, unikając długiego przebywania na deszczu.\n\nPo południu lokalna linia zawiezie cię do Parku Gródek. Ze przystanku to krótki spacer do punktów widokowych.\n\nDzień zakończysz przejazdem autobusem z powrotem do centrum, obserwując deszczowe miasto zza okna."
           },
           "stops": [
             {
@@ -2010,7 +2167,8 @@
                 "de": "Die Haltestelle ist überdacht; warten Sie dort auf den Anschluss.",
                 "hu": "A megálló fedett; várja ott a csatlakozást.",
                 "ro": "Stația este acoperită; așteptați acolo legătura.",
-                "en": "The stop is covered; wait there for your connection."
+                "en": "The stop is covered; wait there for your connection.",
+                "pl": "Przystanek jest zadaszony; zaczekaj tam na przesiadkę."
               }
             },
             {
@@ -2019,7 +2177,8 @@
                 "de": "Nutzen Sie die kurzen Wege zwischen den Gebäuden.",
                 "hu": "Használja ki az épületek közötti rövid távolságokat.",
                 "ro": "Folosiți distanțele scurte dintre clădiri.",
-                "en": "Take advantage of the short distances between the buildings."
+                "en": "Take advantage of the short distances between the buildings.",
+                "pl": "Wykorzystaj krótkie dystanse między budynkami."
               }
             },
             {
@@ -2028,7 +2187,8 @@
                 "de": "Halten Sie den Regenschirm bereit für den Weg zum Park.",
                 "hu": "Legyen kéznél az esernyő a parkhoz vezető úton.",
                 "ro": "Aveți umbrela pregătită pentru drumul spre parc.",
-                "en": "Keep your umbrella ready for the walk to the park."
+                "en": "Keep your umbrella ready for the walk to the park.",
+                "pl": "Miej parasol gotowy na spacer do parku."
               }
             },
             {
@@ -2037,7 +2197,8 @@
                 "de": "Prüfen Sie die Rückfahrzeiten, um langes Warten im Regen zu vermeiden.",
                 "hu": "Ellenőrizze a visszautat, hogy ne várjon sokat az esőben.",
                 "ro": "Verificați orele de retur pentru a nu aștepta mult în ploaie.",
-                "en": "Check return times to avoid waiting long in the rain."
+                "en": "Check return times to avoid waiting long in the rain.",
+                "pl": "Sprawdź godziny powrotu, by nie czekać długo w deszczu."
               }
             },
             {
@@ -2046,7 +2207,8 @@
                 "de": "Das Busterminal im Zentrum bietet viele Unterstellmöglichkeiten.",
                 "hu": "A központi buszpályaudvar sok fedett részt kínál.",
                 "ro": "Terminalul central de autobuze oferă multe locuri la adăpost.",
-                "en": "The central bus hub offers plenty of sheltered areas."
+                "en": "The central bus hub offers plenty of sheltered areas.",
+                "pl": "Centralny węzeł autobusowy oferuje dużo zadaszonych miejsc."
               }
             }
           ],
@@ -2074,6 +2236,12 @@
               "Use the 'jakdojade' app for real-time schedules.",
               "Tickets can be purchased contactlessly on board the bus.",
               "The buses are well-heated and provide excellent shelter."
+            ],
+            "pl": [
+              "Jaworzno ma jedną z nowocześniejszych flot autobusów elektrycznych w Polsce.",
+              "Użyj aplikacji 'jakdojade' do rzeczywistych rozkładów.",
+              "Bilety można kupić bezdotykowo u kierowcy.",
+              "Autobusy są dobrze ogrzewane i zapewniają doskonałe schronienie."
             ]
           }
         },
@@ -2082,7 +2250,8 @@
             "de": "Entdecken Sie Jaworzno im Winter stressfrei mit dem Bus. Start am winterlichen Marktplatz.\n\nMittags pendeln Sie zwischen den kulturellen Highlights im Stadtzentrum, immer angenehm warm in den modernen E-Bussen.\n\nNachmittags bringt Sie der Transit zum Park Gródek. Die frostige Landschaft wirkt durch das Busfenster besonders friedlich.\n\nNach dem frühen Sonnenuntergang kehren Sie sicher zum beleuchteten Zentrum zurück, während draußen die winterliche Kälte herrscht.",
             "hu": "Fedezze fel Jaworznót télen stresszmentesen busszal. Indulás a téli hangulatú főtérről.\n\nDélben ingázzon a városközpont kulturális látnivalói között a modern, fűtött elektromos buszokkal.\n\nDélután a járat elviszi a Park Gródekhez. A fagyos táj a busz ablakából nézve különösen békés.\n\nA korai naplemente után biztonságban térjen vissza a kivilágított központba, elkerülve a kinti hideget.",
             "ro": "Descoperiți Jaworzno iarna fără stres, folosind autobuzul. Start din piața cu atmosferă de iarnă.\n\nLa prânz, navetați între punctele culturale centrale în autobuzele electrice moderne și calde.\n\nDupă-amiaza, transportul public vă duce la Park Gródek. Peisajul înghețat pare foarte liniștit prin fereastra autobuzului.\n\nDupă apusul timpuriu, reveniți în siguranță în centrul iluminat, evitând gerul de afară.",
-            "en": "Discover Jaworzno in winter stress-free by bus. Start at the winter-themed Market Square.\n\nAt midday, commute between cultural highlights in the city center inside warm, modern electric buses.\n\nIn the afternoon, transit takes you to Park Gródek. The frosty landscape looks peaceful through the bus window.\n\nAfter the early sunset, return safely to the brightly lit center, avoiding the freezing temperatures outside."
+            "en": "Discover Jaworzno in winter stress-free by bus. Start at the winter-themed Market Square.\n\nAt midday, commute between cultural highlights in the city center inside warm, modern electric buses.\n\nIn the afternoon, transit takes you to Park Gródek. The frosty landscape looks peaceful through the bus window.\n\nAfter the early sunset, return safely to the brightly lit center, avoiding the freezing temperatures outside.",
+            "pl": "Odkryj Jaworzno zimą bez stresu autobusem. Zacznij na zimowo udekorowanym Rynku.\n\nW południe dojeżdżaj między atrakcjami kulturalnymi w centrum ciepłymi, nowoczesnymi autobusami elektrycznymi.\n\nPo południu dojedziesz do Parku Gródek. Mroźny krajobraz wygląda spokojnie przez okno autobusu.\n\nPo wcześniejszym zachodzie słońca wróć bezpiecznie do jasno oświetlonego centrum, unikając mroźnych temperatur na zewnątrz."
           },
           "stops": [
             {
@@ -2091,7 +2260,8 @@
                 "de": "Das Zentrum ist festlich beleuchtet; ideal für Abendfotos.",
                 "hu": "A központ ünnepi kivilágítást kap; ideális esti fotókhoz.",
                 "ro": "Centrul este iluminat festiv; ideal pentru fotografii de seară.",
-                "en": "The center is festively lit; perfect for evening photos."
+                "en": "The center is festively lit; perfect for evening photos.",
+                "pl": "Centrum jest świątecznie oświetlone; idealne do wieczornych zdjęć."
               }
             },
             {
@@ -2100,7 +2270,8 @@
                 "de": "Genießen Sie die Wärme in den Ausstellungsräumen.",
                 "hu": "Élvezze a meleget a kiállítótermekben.",
                 "ro": "Bucurați-vă de căldură în sălile de expoziție.",
-                "en": "Enjoy the warmth inside the exhibition rooms."
+                "en": "Enjoy the warmth inside the exhibition rooms.",
+                "pl": "Korzystaj z ciepła we wnętrzach wystaw."
               }
             },
             {
@@ -2109,7 +2280,8 @@
                 "de": "Achten Sie auf die rutschigen Stufen beim Aussteigen.",
                 "hu": "Vigyázzon a csúszós lépcsőkre a leszálláskor.",
                 "ro": "Atenție la treptele alunecoase la coborâre.",
-                "en": "Watch out for slippery steps when getting off the bus."
+                "en": "Watch out for slippery steps when getting off the bus.",
+                "pl": "Uważaj na śliskie stopnie przy wysiadaniu z autobusu."
               }
             },
             {
@@ -2118,7 +2290,8 @@
                 "de": "Warten Sie in der Haltestelle, um sich vor dem Wind zu schützen.",
                 "hu": "Várjon a megállóban, hogy védve legyen a széltől.",
                 "ro": "Așteptați în stație pentru a vă proteja de vânt.",
-                "en": "Wait inside the bus shelter to stay protected from the wind."
+                "en": "Wait inside the bus shelter to stay protected from the wind.",
+                "pl": "Poczekaj w wiacie przystankowej, by chronić się przed wiatrem."
               }
             },
             {
@@ -2127,7 +2300,8 @@
                 "de": "Die Busse fahren im Winter nach dem regulären Fahrplan.",
                 "hu": "A buszok télen is a rendes menetrend szerint közlekednek.",
                 "ro": "Autobuzele circulă conform orarului obișnuit și iarna.",
-                "en": "Buses run according to the regular schedule during winter."
+                "en": "Buses run according to the regular schedule during winter.",
+                "pl": "Autobusy kursują według regularnego rozkładu zimą."
               }
             }
           ],
@@ -2155,6 +2329,12 @@
               "Have your ticket ready to avoid fumbling in the cold.",
               "Bus stops often feature electronic displays with real-time data.",
               "Allow extra time for the walk from the stop to the lake."
+            ],
+            "pl": [
+              "Autobusy elektryczne są konsekwentnie dobrze ogrzewane zimą.",
+              "Miej przygotowany bilet, by nie grzebać w zimnie.",
+              "Przystanki często mają wyświetlacze elektroniczne z danymi w czasie rzeczywistym.",
+              "Przeznacz więcej czasu na spacer z przystanku nad jezioro."
             ]
           }
         }

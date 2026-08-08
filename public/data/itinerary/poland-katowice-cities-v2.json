@@ -21,7 +21,8 @@
             "de": "Mariacka-Straße",
             "hu": "Mariacka utca",
             "ro": "Strada Mariacka",
-            "en": "Mariacka Street"
+            "en": "Mariacka Street",
+            "pl": "Ulica Mariacka"
           },
           "coords": [
             19.0261,
@@ -36,7 +37,8 @@
             "de": "Beginnen Sie den Tag mit einem Kaffee in einem der vielen charmanten Cafés.",
             "hu": "Kezdje a napot egy kávéval az utca egyik hangulatos kávézójában.",
             "ro": "Începeți ziua cu o cafea la una dintre numeroasele cafenele fermecătoare.",
-            "en": "Start your day with a coffee at one of the many charming cafes."
+            "en": "Start your day with a coffee at one of the many charming cafes.",
+            "pl": "Rozpocznij dzień od kawy w jednym z licznych urokliwych lokali."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Kathedrale Christkönig",
             "hu": "Krisztus Király-székesegyház",
             "ro": "Catedrala Hristos Rege",
-            "en": "Cathedral of Christ the King"
+            "en": "Cathedral of Christ the King",
+            "pl": "Katedra Chrystusa Króla"
           },
           "coords": [
             19.0188,
@@ -59,7 +62,8 @@
             "de": "Achten Sie auf die beeindruckende Kuppel, eine der größten in Polen.",
             "hu": "Figyelje meg a lenyűgöző kupolát, amely az egyik legnagyobb Lengyelországban.",
             "ro": "Fiți atenți la cupola impresionantă, una dintre cele mai mari din Polonia.",
-            "en": "Pay attention to the impressive dome, one of the largest in Poland."
+            "en": "Pay attention to the impressive dome, one of the largest in Poland.",
+            "pl": "Zwróć uwagę na imponującą kopułę, jedną z największych w Polsce."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Goldstein-Palast",
             "hu": "Goldstein-palota",
             "ro": "Palatul Goldstein",
-            "en": "Goldstein Palace"
+            "en": "Goldstein Palace",
+            "pl": "Pałac Goldsteinów"
           },
           "coords": [
             19.0155,
@@ -82,7 +87,8 @@
             "de": "Obwohl nicht öffentlich zugänglich, ist die neorenaissance Fassade ein Foto wert.",
             "hu": "Bár belülről nem látogatható, a neoreneszánsz homlokzat megér egy fotót.",
             "ro": "Deși nu este deschis publicului, fațada neo-renascentistă merită o fotografie.",
-            "en": "Although not open to the public, the Neo-Renaissance facade is worth a photo."
+            "en": "Although not open to the public, the Neo-Renaissance facade is worth a photo.",
+            "pl": "Choć niedostępna dla zwiedzających, neorenesansowa fasada warta jest zdjęcia."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Denkmal der Schlesischen Aufständischen",
             "hu": "Sziléziai Felkelők Emlékműve",
             "ro": "Monumentul Insurgenților Silezieni",
-            "en": "Monument to the Silesian Insurgents"
+            "en": "Monument to the Silesian Insurgents",
+            "pl": "Pomnik Powstańców Śląskich"
           },
           "coords": [
             19.0285,
@@ -105,7 +112,8 @@
             "de": "Die drei Flügel symbolisieren die drei schlesischen Aufstände.",
             "hu": "A három szárny a három sziléziai felkelést szimbolizálja.",
             "ro": "Cele trei aripi simbolizează cele trei insurecții sileziene.",
-            "en": "The three wings symbolize the three Silesian Uprisings."
+            "en": "The three wings symbolize the three Silesian Uprisings.",
+            "pl": "Trzy skrzydła symbolizują trzy powstania śląskie."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Spodek",
             "hu": "Spodek",
             "ro": "Spodek",
-            "en": "Spodek"
+            "en": "Spodek",
+            "pl": "Spodek"
           },
           "coords": [
             19.029,
@@ -128,7 +137,8 @@
             "de": "Prüfen Sie den Veranstaltungskalender; vielleicht findet ein Konzert statt.",
             "hu": "Ellenőrizze az eseménynaptárt, hátha éppen van egy koncert.",
             "ro": "Verificați calendarul de evenimente; s-ar putea să aibă loc un concert.",
-            "en": "Check the event schedule; you might catch a concert."
+            "en": "Check the event schedule; you might catch a concert.",
+            "pl": "Sprawdź harmonogram wydarzeń; możesz trafić na koncert."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Schlesisches Museum",
             "hu": "Sziléziai Múzeum",
             "ro": "Muzeul Silezian",
-            "en": "Silesian Museum"
+            "en": "Silesian Museum",
+            "pl": "Muzeum Śląskie"
           },
           "coords": [
             19.0335,
@@ -151,7 +162,8 @@
             "de": "Ein Großteil des Museums befindet sich unter der Erde auf dem Gelände eines ehemaligen Bergwerks.",
             "hu": "A múzeum nagy része a föld alatt, egykori szénbánya területén található.",
             "ro": "O mare parte a muzeului este subterană, pe situl unei foste mine.",
-            "en": "Much of the museum is located underground on the site of a former coal mine."
+            "en": "Much of the museum is located underground on the site of a former coal mine.",
+            "pl": "Duża część muzeum znajduje się pod ziemią na terenie dawnej kopalni węgla."
           }
         }
       ],
@@ -159,7 +171,8 @@
         "de": "Ihr Rundgang beginnt auf der belebten Mariacka-Straße, dem Herzen des gesellschaftlichen Lebens von Kattowitz. Am Vormittag erkunden Sie die monumentale Christkönig-Kathedrale und bewundern die Architektur des Goldstein-Palastes. Der frühe Nachmittag führt Sie in die Kulturzone, wo das Denkmal der Schlesischen Aufständischen an die turbulente Geschichte der Region erinnert. Zum Abschluss tauchen Sie im unterirdischen Schlesischen Museum tief in die industrielle Vergangenheit und Kunst Schlesiens ein, direkt neben dem futuristischen Spodek.",
         "hu": "Sétája a nyüzsgő Mariacka utcán, Katowice társadalmi életének központjában kezdődik. A délelőtt folyamán felfedezi a monumentális Krisztus Király-székesegyházat és megcsodálja a Goldstein-palota építészetét. A kora délután a Kultúra Zónájába vezet, ahol a Sziléziai Felkelők Emlékműve a régió viharos történelmére emlékeztet. Végül a futurisztikus Spodek mellett, a földalatti Sziléziai Múzeumban mélyen elmerül Szilézia ipari múltjában és művészetében.",
         "ro": "Turul dumneavoastră pietonal începe pe vibranta stradă Mariacka, inima vieții sociale din Katowice. Dimineața explorați monumentala Catedrală Hristos Rege și admirați arhitectura Palatului Goldstein. După-amiaza devreme vă duce în Zona Culturală, unde Monumentul Insurgenților Silezieni comemorează istoria turbulentă a regiunii. Încheiați prin a vă cufunda în trecutul industrial și arta Sileziei la Muzeul Silezian subteran, chiar lângă futuristul Spodek.",
-        "en": "Your walking tour begins on the vibrant Mariacka Street, the heart of Katowice's social life. In the morning, you'll explore the monumental Cathedral of Christ the King and admire the architecture of the Goldstein Palace. The early afternoon takes you to the Culture Zone, where the Monument to the Silesian Insurgents commemorates the region's turbulent history. You'll finish by delving deep into Silesia's industrial past and art at the underground Silesian Museum, right next to the futuristic Spodek."
+        "en": "Your walking tour begins on the vibrant Mariacka Street, the heart of Katowice's social life. In the morning, you'll explore the monumental Cathedral of Christ the King and admire the architecture of the Goldstein Palace. The early afternoon takes you to the Culture Zone, where the Monument to the Silesian Insurgents commemorates the region's turbulent history. You'll finish by delving deep into Silesia's industrial past and art at the underground Silesian Museum, right next to the futuristic Spodek.",
+        "pl": "Twoja piesza wycieczka zaczyna się na tętniącej życiem ulicy Mariackiej, sercu życia towarzyskiego Katowic. Rano zwiedzisz monumentalną Katedrę Chrystusa Króla i podziwiasz architekturę Pałacu Goldsteinów. Wczesne popołudnie spędzisz w Strefie Kultury, gdzie Pomnik Powstańców Śląskich upamiętnia burzliwą historię regionu. Na koniec zanurzysz się w przemysłową przeszłość i sztukę Śląska w podziemnym Muzeum Śląskim, tuż obok futurystycznego Spodka."
       },
       "gastro_picks": {
         "de": [
@@ -355,6 +368,12 @@
           "Most museums are closed on Mondays, so plan accordingly.",
           "Look out for the 'murals', large-scale wall paintings that decorate the city.",
           "The public transport network is efficient in case your feet get tired."
+        ],
+        "pl": [
+          "Załóż wygodne buty — centrum miasta i Strefę Kultury najlepiej zwiedza się pieszo.",
+          "Większość muzeów jest zamknięta w poniedziałki, zaplanuj to wcześniej.",
+          "Zwróć uwagę na murale, wielkoformatowe malowidła zdobiące miasto.",
+          "Sieć transportu publicznego jest sprawna, gdybyś zmęczył się pieszo."
         ]
       },
       "variants": {
@@ -363,7 +382,8 @@
             "de": "Beginnen Sie den Tag in der Mariacka-Straße, wo Markisen Schutz vor dem Regen bieten. Besuchen Sie den Dom und den Goldstein-Palast, um trocken zu bleiben. Den Nachmittag verbringen Sie im Schlesischen Museum, das mit seinen unterirdischen Galerien das perfekte Refugium für Regentage ist. Der Weg zum Spodek ist kurz, halten Sie den Regenschirm bereit.",
             "hu": "Kezdje a napot a Mariacka utcán, ahol a kávézók előtetői védenek az esőtől. A katedrális és a Goldstein-palota kiváló belső program. A délutánt töltse a Sziléziai Múzeumban, amely földalatti kiállítótereivel a legjobb menedék esős időben. A Spodek és az emlékmű megtekintése rövid sétával, ernyő alatt is kényelmes.",
             "ro": "Începeți ziua pe strada Mariacka, unde copertinele cafenelelor oferă adăpost. Vizitați Catedrala și Palatul Goldstein pentru a rămâne la adăpost. Petreceți după-amiaza la Muzeul Silezian, care este refugiul perfect pentru zilele ploioase datorită galeriilor sale subterane. Drumul către Spodek este scurt, păstrați umbrela la îndemână.",
-            "en": "Start the day on Mariacka Street, where cafe awnings provide shelter from the rain. Visit the Cathedral and Goldstein Palace to stay dry indoors. Spend the afternoon at the Silesian Museum, which is the perfect rainy day refuge thanks to its underground galleries. The walk to Spodek is short; keep your umbrella ready."
+            "en": "Start the day on Mariacka Street, where cafe awnings provide shelter from the rain. Visit the Cathedral and Goldstein Palace to stay dry indoors. Spend the afternoon at the Silesian Museum, which is the perfect rainy day refuge thanks to its underground galleries. The walk to Spodek is short; keep your umbrella ready.",
+            "pl": "Rozpocznij dzień na ulicy Mariackiej, gdzie markizy kawiarni chronią przed deszczem. Odwiedź Katedrę i Pałac Goldsteinów, by schować się pod dachem. Popołudnie spędź w Muzeum Śląskim — idealnym schronieniu w deszczowy dzień dzięki podziemnym galeriom. Spacer do Spodka jest krótki; miej parasol pod ręką."
           },
           "stops": [
             {
@@ -372,7 +392,8 @@
                 "de": "Nutzen Sie die vielen Café-Eingänge als Regenschutz.",
                 "hu": "Használja a kávézók bejáratait és előtetőit menedékként.",
                 "ro": "Folosiți intrările numeroaselor cafenele ca adăpost.",
-                "en": "Use the many cafe entrances as temporary rain shelter."
+                "en": "Use the many cafe entrances as temporary rain shelter.",
+                "pl": "Wykorzystaj wiele wejść do kawiarni jako tymczasowe schronienie przed deszczem."
               }
             },
             {
@@ -381,7 +402,8 @@
                 "de": "Ein großartiger Ort, um einen heftigen Schauer trocken abzuwarten.",
                 "hu": "Kiváló hely egy hirtelen zápor száraz megvárásához.",
                 "ro": "Un loc excelent pentru a aștepta trecerea unei ploi torențiale.",
-                "en": "A great place to wait out a heavy downpour in the dry."
+                "en": "A great place to wait out a heavy downpour in the dry.",
+                "pl": "Świetne miejsce, by przeczekać ulewny deszcz w suchym wnętrzu."
               }
             },
             {
@@ -390,7 +412,8 @@
                 "de": "Bewundern Sie die Treppenhäuser, während es draußen regnet.",
                 "hu": "Csodálja meg a lépcsőházakat, amíg odakint esik.",
                 "ro": "Admirați scările interioare în timp ce afară plouă.",
-                "en": "Admire the interior staircases while it rains outside."
+                "en": "Admire the interior staircases while it rains outside.",
+                "pl": "Podziwiaj wewnętrzne klatki schodowe, gdy na zewnątrz pada."
               }
             },
             {
@@ -399,7 +422,8 @@
                 "de": "Nur ein kurzer Fotostopp unter dem Regenschirm.",
                 "hu": "Csak egy gyors fotómegálló az esernyő alatt.",
                 "ro": "Doar o scurtă oprire pentru poze sub umbrelă.",
-                "en": "Just a quick photo stop under your umbrella."
+                "en": "Just a quick photo stop under your umbrella.",
+                "pl": "Tylko krótki przystanek na zdjęcie pod parasolem."
               }
             },
             {
@@ -408,7 +432,8 @@
                 "de": "Die glänzende Fassade sieht im Regen besonders dramatisch aus.",
                 "hu": "A csillogó homlokzat esőben különösen látványos.",
                 "ro": "Fațada lucioasă arată spectaculos pe timp de ploaie.",
-                "en": "The shiny facade looks particularly dramatic in the rain."
+                "en": "The shiny facade looks particularly dramatic in the rain.",
+                "pl": "Błyszcząca elewacja wygląda szczególnie efektownie w deszczu."
               }
             },
             {
@@ -417,7 +442,8 @@
                 "de": "Das ultimative Ziel bei Regen; alles ist unterirdisch verbunden.",
                 "hu": "A végső cél esőben; minden részleg a föld alatt érhető el.",
                 "ro": "Destinația supremă pe ploaie; totul este conectat în subteran.",
-                "en": "The ultimate rainy day destination; everything is connected underground."
+                "en": "The ultimate rainy day destination; everything is connected underground.",
+                "pl": "Ostateczne miejsce na deszczowy dzień; wszystko jest połączone pod ziemią."
               }
             }
           ],
@@ -445,6 +471,12 @@
               "The Silesian Museum is almost entirely underground and dry.",
               "Buy a sturdy umbrella at Galeria Katowicka mall nearby.",
               "Mariacka Street has many covered terraces to hide from rain."
+            ],
+            "pl": [
+              "Noś wodoodporne buty na odcinki z brukiem.",
+              "Muzeum Śląskie jest niemal całkowicie pod ziemią i suche.",
+              "Kup solidny parasol w pobliskiej galerii Katowickiej.",
+              "Ulica Mariacka ma wiele zadaszonych tarasów, gdzie można ukryć się przed deszczem."
             ]
           }
         },
@@ -453,7 +485,8 @@
             "de": "Genießen Sie die klare Winterluft in der Mariacka-Straße mit einem heißen Getränk. Der Dom bietet Wärme während der Besichtigung. Nach dem Besuch des Goldstein-Palastes erreichen Sie den Spodek bei Einbruch der frühen Dunkelheit, wenn er beleuchtet ist. Das Schlesische Museum ist der ideale Ort, um die kalten Abendstunden in den beheizten unterirdischen Hallen zu verbringen.",
             "hu": "Élvezze a friss téli levegőt a Mariacka utcán egy forró itallal. A katedrális melegséget nyújt a látogatás alatt. A Goldstein-palota után az emlékművet és a Spodeket már a korai sötétedés fényeiben látja. A Sziléziai Múzeum fűtött földalatti terei tökéletesek a hideg esti órákban.",
             "ro": "Bucurați-vă de aerul proaspăt de iarnă pe strada Mariacka cu o băutură caldă. Catedrala oferă căldură în timpul vizitei. După Palatul Goldstein, veți vedea Spodek luminat în amurgul timpuriu. Muzeul Silezian este locul ideal pentru a petrece orele reci de seară în sălile subterane încălzite.",
-            "en": "Enjoy the crisp winter air on Mariacka Street with a hot drink. The Cathedral provides warmth during your visit. After the Goldstein Palace, you will reach Spodek just as the early darkness sets in and the lights come on. The Silesian Museum is the ideal place to spend the cold evening hours in heated underground halls."
+            "en": "Enjoy the crisp winter air on Mariacka Street with a hot drink. The Cathedral provides warmth during your visit. After the Goldstein Palace, you will reach Spodek just as the early darkness sets in and the lights come on. The Silesian Museum is the ideal place to spend the cold evening hours in heated underground halls.",
+            "pl": "Rozkoszuj się rześkim zimowym powietrzem na ulicy Mariackiej z gorącym napojem. Katedra zapewni ciepło podczas zwiedzania. Po Pałacu Goldsteinów dojdziesz do Spodka, gdy zapadnie wczesny zmrok i zapalą się światła. Muzeum Śląskie to idealne miejsce na spędzenie chłodnego wieczoru w ogrzewanych podziemnych salach."
           },
           "stops": [
             {
@@ -462,7 +495,8 @@
                 "de": "Holen Sie sich einen Tee zum Mitnehmen, um die Hände zu wärmen.",
                 "hu": "Vegyél egy teát elvitelre, hogy melegen tartsd a kezed.",
                 "ro": "Luați un ceai la pachet pentru a vă încălzi mâinile.",
-                "en": "Grab a tea to go to keep your hands warm while walking."
+                "en": "Grab a tea to go to keep your hands warm while walking.",
+                "pl": "Weź herbatę na wynos, by ogrzać ręce podczas spaceru."
               }
             },
             {
@@ -471,7 +505,8 @@
                 "de": "Nutzen Sie die Innenbesichtigung zum Aufwärmen.",
                 "hu": "Használja ki a belső látogatást a felmelegedéshez.",
                 "ro": "Profitați de vizita în interior pentru a vă încălzi.",
-                "en": "Take advantage of the interior visit to warm up."
+                "en": "Take advantage of the interior visit to warm up.",
+                "pl": "Wykorzystaj wizytę wewnątrz, by się rozgrzać."
               }
             },
             {
@@ -480,7 +515,8 @@
                 "de": "Drinnen ist es deutlich angenehmer als auf dem zugigen Vorplatz.",
                 "hu": "Odabent sokkal kellemesebb, mint a szeles előtéren.",
                 "ro": "În interior este mult mai plăcut decât în piața vântoasă.",
-                "en": "It is much warmer inside than in the windy square outside."
+                "en": "It is much warmer inside than in the windy square outside.",
+                "pl": "W środku jest znacznie cieplej niż na wietrznym placu na zewnątrz."
               }
             },
             {
@@ -489,7 +525,8 @@
                 "de": "Bei Schnee wirken die metallenen Flügel besonders imposant.",
                 "hu": "Hóban a fém szárnyak különösen lenyűgözőek.",
                 "ro": "Aripile metalice arată impunător în peisajul de iarnă.",
-                "en": "The metal wings look particularly imposing against the snow."
+                "en": "The metal wings look particularly imposing against the snow.",
+                "pl": "Metalowe skrzydła wyglądają szczególnie imponująco na tle śniegu."
               }
             },
             {
@@ -498,7 +535,8 @@
                 "de": "Im Winter ist die Eishalle im Inneren oft in Betrieb.",
                 "hu": "Télen a belső jégcsarnok gyakran üzemel.",
                 "ro": "Iarna, patinoarul din interior este adesea deschis.",
-                "en": "The ice rink inside is often active during the winter season."
+                "en": "The ice rink inside is often active during the winter season.",
+                "pl": "Lodowisko wewnątrz często działa w sezonie zimowym."
               }
             },
             {
@@ -507,7 +545,8 @@
                 "de": "Perfekt temperiert; lassen Sie die dicke Jacke an der Garderobe.",
                 "hu": "Kellemes hőmérséklet; hagyja a vastag kabátot a ruhatárban.",
                 "ro": "Temperatură plăcută; lăsați haina groasă la garderobă.",
-                "en": "Perfectly tempered; leave your heavy coat at the cloakroom."
+                "en": "Perfectly tempered; leave your heavy coat at the cloakroom.",
+                "pl": "Idealnie wyregulowane; zostaw ciężki płaszcz w szatni."
               }
             }
           ],
@@ -535,6 +574,12 @@
               "Wear thermal layers for the walk between the museum and city center.",
               "Watch out for icy patches in the museum square.",
               "A small Christmas market is often located near Mariacka Street."
+            ],
+            "pl": [
+              "Słońce zachodzi około 16:00 w grudniu.",
+              "Noś termiczne warstwy na spacer między muzeum a centrum miasta.",
+              "Uważaj na oblodzone miejsca na placu przed muzeum.",
+              "Niewielki jarmark bożonarodzeniowy często znajduje się w pobliżu ulicy Mariackiej."
             ]
           }
         }
@@ -553,7 +598,8 @@
             "de": "Nikiszowiec",
             "hu": "Nikiszowiec",
             "ro": "Nikiszowiec",
-            "en": "Nikiszowiec"
+            "en": "Nikiszowiec",
+            "pl": "Nikiszowiec"
           },
           "coords": [
             19.0701,
@@ -568,7 +614,8 @@
             "de": "Erkunden Sie die einzigartige Backsteinarchitektur dieses historischen Arbeiterviertels.",
             "hu": "Fedezze fel ennek a történelmi munkásnegyednek az egyedülálló téglanegyed-építészetét.",
             "ro": "Explorați arhitectura unică din cărămidă a acestui cartier muncitoresc istoric.",
-            "en": "Explore the unique brick architecture of this historic workers' district."
+            "en": "Explore the unique brick architecture of this historic workers' district.",
+            "pl": "Odkryj unikalną ceglano-techniczną architekturę tej zabytkowej dzielnicy robotniczej."
           }
         },
         {
@@ -576,7 +623,8 @@
             "de": "Schlesisches Museum",
             "hu": "Sziléziai Múzeum",
             "ro": "Muzeul Silezian",
-            "en": "Silesian Museum"
+            "en": "Silesian Museum",
+            "pl": "Muzeum Śląskie"
           },
           "coords": [
             19.0335,
@@ -591,7 +639,8 @@
             "de": "Planen Sie genügend Zeit für die unterirdischen Ausstellungen ein.",
             "hu": "Szánjon elegendő időt a föld alatti kiállításokra.",
             "ro": "Planificați suficient timp pentru expozițiile subterane.",
-            "en": "Plan enough time for the underground exhibitions."
+            "en": "Plan enough time for the underground exhibitions.",
+            "pl": "Zaplanuj wystarczająco czasu na podziemne ekspozycje."
           }
         },
         {
@@ -599,7 +648,8 @@
             "de": "Spodek",
             "hu": "Spodek",
             "ro": "Spodek",
-            "en": "Spodek"
+            "en": "Spodek",
+            "pl": "Spodek"
           },
           "coords": [
             19.029,
@@ -614,7 +664,8 @@
             "de": "Machen Sie ein Foto von dieser ikonischen 'fliegenden Untertasse'.",
             "hu": "Készítsen egy fotót erről az ikonikus 'repülő csészealjról'.",
             "ro": "Faceți o fotografie cu această 'farfurie zburătoare' emblematică.",
-            "en": "Take a photo of this iconic 'flying saucer'."
+            "en": "Take a photo of this iconic 'flying saucer'.",
+            "pl": "Zrób zdjęcie tego ikonicznego „latającego talerza”."
           }
         },
         {
@@ -622,7 +673,8 @@
             "de": "Mariacka-Straße",
             "hu": "Mariacka utca",
             "ro": "Strada Mariacka",
-            "en": "Mariacka Street"
+            "en": "Mariacka Street",
+            "pl": "Ulica Mariacka"
           },
           "coords": [
             19.0261,
@@ -637,7 +689,8 @@
             "de": "Perfekter Ort für eine Mittagspause in einem der vielen Restaurants.",
             "hu": "Tökéletes hely egy ebédszünetre az egyik étteremben.",
             "ro": "Locul perfect pentru o pauză de prânz la unul dintre numeroasele restaurante.",
-            "en": "The perfect spot for a lunch break at one of the many restaurants."
+            "en": "The perfect spot for a lunch break at one of the many restaurants.",
+            "pl": "Idealne miejsce na przerwę na lunch w jednej z wielu restauracji."
           }
         },
         {
@@ -645,7 +698,8 @@
             "de": "Kathedrale Christkönig",
             "hu": "Krisztus Király-székesegyház",
             "ro": "Catedrala Hristos Rege",
-            "en": "Cathedral of Christ the King"
+            "en": "Cathedral of Christ the King",
+            "pl": "Katedra Chrystusa Króla"
           },
           "coords": [
             19.0188,
@@ -660,7 +714,8 @@
             "de": "Bewundern Sie die Buntglasfenster und die ruhige Atmosphäre.",
             "hu": "Csodálja meg az ólomüveg ablakokat és a békés hangulatot.",
             "ro": "Admirați vitraliile și atmosfera liniștită.",
-            "en": "Admire the stained glass windows and the peaceful atmosphere."
+            "en": "Admire the stained glass windows and the peaceful atmosphere.",
+            "pl": "Podziwiaj witraże i spokojną atmosferę."
           }
         },
         {
@@ -668,7 +723,8 @@
             "de": "Fallschirmturm",
             "hu": "Ejtőernyős torony",
             "ro": "Turnul de parașutism",
-            "en": "Parachute Tower"
+            "en": "Parachute Tower",
+            "pl": "Wieża Spadochronowa"
           },
           "coords": [
             19.015,
@@ -683,7 +739,8 @@
             "de": "Eine Rekonstruktion eines historischen Turms, der an die Verteidigung von Kattowitz im Jahr 1939 erinnert.",
             "hu": "Egy történelmi torony rekonstrukciója, amely Katowice 1939-es védelmére emlékeztet.",
             "ro": "O reconstrucție a unui turn istoric care comemorează apărarea orașului Katowice în 1939.",
-            "en": "A reconstruction of a historic tower, commemorating the defense of Katowice in 1939."
+            "en": "A reconstruction of a historic tower, commemorating the defense of Katowice in 1939.",
+            "pl": "Rekonstrukcja historycznej wieży, upamiętniająca obronę Katowic w 1939 roku."
           }
         }
       ],
@@ -691,7 +748,8 @@
         "de": "Ihre Radtour beginnt mit einer Fahrt zum einzigartigen Arbeiterviertel Nikiszowiec. Nach der Erkundung der Backsteingebäude radeln Sie zurück ins Zentrum zur Kulturzone, um das Schlesische Museum und den Spodek zu besichtigen. Der Nachmittag ist für das pulsierende Herz der Stadt reserviert: die Mariacka-Straße für eine wohlverdiente Mittagspause und die beeindruckende Christkönig-Kathedrale. Die Tour endet am historischen Fallschirmturm im Kościuszko-Park, einem Ort der Besinnung.",
         "hu": "Kerékpártúrája az egyedülálló Nikiszowiec munkásnegyedbe vezet. A téglaházak felfedezése után visszateker a központba, a Kultúra Zónájába, hogy megnézze a Sziléziai Múzeumot és a Spodeket. A délután a város lüktető szívének van szentelve: a Mariacka utcának egy jól megérdemelt ebédszünetre és a lenyűgöző Krisztus Király-székesegyháznak. A túra a történelmi Ejtőernyős toronynál, az elmélkedés helyszínén, a Kościuszko Parkban ér véget.",
         "ro": "Turul cu bicicleta începe cu o plimbare către cartierul muncitoresc unic Nikiszowiec. După ce explorați clădirile din cărămidă, pedalați înapoi în centru, în Zona Culturală, pentru a vizita Muzeul Silezian și Spodek. După-amiaza este rezervată inimii vibrante a orașului: strada Mariacka pentru o pauză de prânz binemeritată și impresionanta Catedrală Hristos Rege. Turul se încheie la istoricul Turn de parașutism din Parcul Kościuszko, un loc de reflecție.",
-        "en": "Your bike tour starts with a ride to the unique workers' district of Nikiszowiec. After exploring the brick buildings, you'll cycle back to the center to the Culture Zone to visit the Silesian Museum and Spodek. The afternoon is reserved for the vibrant heart of the city: Mariacka Street for a well-deserved lunch break and the impressive Cathedral of Christ the King. The tour concludes at the historic Parachute Tower in Kościuszko Park, a place for reflection."
+        "en": "Your bike tour starts with a ride to the unique workers' district of Nikiszowiec. After exploring the brick buildings, you'll cycle back to the center to the Culture Zone to visit the Silesian Museum and Spodek. The afternoon is reserved for the vibrant heart of the city: Mariacka Street for a well-deserved lunch break and the impressive Cathedral of Christ the King. The tour concludes at the historic Parachute Tower in Kościuszko Park, a place for reflection.",
+        "pl": "Twoja wycieczka rowerowa zaczyna się przejazdem do unikalnej robotniczej dzielnicy Nikiszowiec. Po zwiedzeniu ceglanych zabudowań wrócisz rowerem do centrum, do Strefy Kultury, aby odwiedzić Muzeum Śląskie i Spodek. Popołudnie poświęcone jest tętniącemu życiem sercu miasta: ulicy Mariackiej na zasłużony lunch oraz imponującej Katedrze Chrystusa Króla. Wycieczka kończy się przy historycznej Wieży Spadochronowej w Parku Kościuszki — miejscu zadumy."
       },
       "gastro_picks": {
         "de": [
@@ -887,6 +945,12 @@
           "Some cycle paths follow old railway lines, offering a unique perspective.",
           "Be cautious in the city center as you often share the road with trams.",
           "Always lock your bike securely, especially near tourist attractions."
+        ],
+        "pl": [
+          "Korzystaj z miejskiego systemu wypożyczania rowerów 'City by bike'.",
+          "Niektóre ścieżki rowerowe prowadzą dawnymi torami kolejowymi, oferując wyjątkową perspektywę.",
+          "Bądź ostrożny w centrum, często dzielisz jezdnię z tramwajami.",
+          "Zawsze solidnie zamykaj rower, zwłaszcza przy atrakcjach turystycznych."
         ]
       },
       "variants": {
@@ -895,7 +959,8 @@
             "de": "Eine Radtour nach Nikiszowiec erfordert heute gute Regenkleidung. Die Ziegelhäuser glänzen im Nassen besonders schön. Nach der Fahrt wärmen Sie sich im Schlesischen Museum auf, während die Räder sicher stehen. Die Mariacka-Straße bietet am Nachmittag viele Möglichkeiten für eine trockene Pause, bevor Sie die Tour am Dom beenden.",
             "hu": "A Nikiszowiecbe tartó bringázáshoz ma jó esőfelszerelés kell. A téglaépületek csodásan csillognak a vizes időben. A tekerés után melegedjen fel a Sziléziai Múzeumban, amíg a gépek biztonságban pihennek. A Mariacka utca délután sok száraz pihenőhelyet kínál a túra befejezése előtt.",
             "ro": "O tură cu bicicleta spre Nikiszowiec necesită astăzi echipament bun de ploaie. Clădirile din cărămidă strălucesc frumos în umezeală. După drum, încălziți-vă la Muzeul Silezian în timp ce bicicletele stau în siguranță. Strada Mariacka oferă multe opțiuni pentru o pauză uscată înainte de final.",
-            "en": "A bike ride to Nikiszowiec requires good rain gear today. The brick buildings shine beautifully in the wet weather. After the ride, warm up in the Silesian Museum while the bikes are safely parked. Mariacka Street offers many spots for a dry break before finishing the tour at the Cathedral."
+            "en": "A bike ride to Nikiszowiec requires good rain gear today. The brick buildings shine beautifully in the wet weather. After the ride, warm up in the Silesian Museum while the bikes are safely parked. Mariacka Street offers many spots for a dry break before finishing the tour at the Cathedral.",
+            "pl": "Na dziś przejazd do Nikiszowca wymaga dobrego wyposażenia przeciwdeszczowego. Ceglane budynki pięknie błyszczą po deszczu. Po przejażdżce rozgrzej się w Muzeum Śląskim, gdzie rowery możesz bezpiecznie zaparkować. Ulica Mariacka oferuje wiele suchych miejsc na przerwę przed zakończeniem wycieczki przy Katedrze."
           },
           "stops": [
             {
@@ -904,7 +969,8 @@
                 "de": "Das Kopfsteinpflaster ist bei Nässe sehr rutschig.",
                 "hu": "A macskakő vizesen nagyon csúszós.",
                 "ro": "Pavajul de piatră este foarte alunecos pe ploaie.",
-                "en": "The cobblestones are very slippery when wet; ride carefully."
+                "en": "The cobblestones are very slippery when wet; ride carefully.",
+                "pl": "Bruk jest bardzo śliski, gdy jest mokry; jedź ostrożnie."
               }
             },
             {
@@ -913,7 +979,8 @@
                 "de": "Überdachte Fahrradständer befinden sich in der Nähe des Eingangs.",
                 "hu": "Fedett biciklitárolók találhatók a bejárat közelében.",
                 "ro": "Rasteluri acoperite pentru biciclete se află lângă intrare.",
-                "en": "Covered bike racks are located near the main entrance."
+                "en": "Covered bike racks are located near the main entrance.",
+                "pl": "Przy wejściu głównym znajdują się zadaszone stojaki na rowery."
               }
             },
             {
@@ -922,7 +989,8 @@
                 "de": "Kurzer Stopp; die Metallplatten können spritzen.",
                 "hu": "Gyors megálló; a fémlemezekről felcsapódhat a víz.",
                 "ro": "Oprire scurtă; apa poate sări de pe plăcile metalice.",
-                "en": "Short stop; water can splash off the metal panels."
+                "en": "Short stop; water can splash off the metal panels.",
+                "pl": "Krótki postój; woda może rozpryskiwać się z metalowych paneli."
               }
             },
             {
@@ -931,7 +999,8 @@
                 "de": "Schieben Sie das Rad in der Fußgängerzone wegen der Pfützen.",
                 "hu": "Tolja a bringát a sétálóövezetben a tócsák miatt.",
                 "ro": "Împingeți bicicleta în zona pietonală din cauza bălților.",
-                "en": "Push your bike in the pedestrian zone to avoid deep puddles."
+                "en": "Push your bike in the pedestrian zone to avoid deep puddles.",
+                "pl": "Prowadź rower w strefie pieszej, by uniknąć głębokich kałuż."
               }
             },
             {
@@ -940,7 +1009,8 @@
                 "de": "Parken Sie unter dem Vordach, falls möglich.",
                 "hu": "Parkoljon az előtető alatt, ha lehetséges.",
                 "ro": "Parcați sub copertină dacă este posibil.",
-                "en": "Park under the overhang if possible to keep the seat dry."
+                "en": "Park under the overhang if possible to keep the seat dry.",
+                "pl": "Zaparkuj pod zadaszeniem, jeśli to możliwe, aby siedzenie pozostało suche."
               }
             },
             {
@@ -949,7 +1019,8 @@
                 "de": "Der Weg durch den Park kann schlammig sein.",
                 "hu": "A parkon átvezető út sáros lehet.",
                 "ro": "Drumul prin parc poate fi noroios.",
-                "en": "The path through the park can be quite muddy."
+                "en": "The path through the park can be quite muddy.",
+                "pl": "Ścieżka przez park może być dość błotnista."
               }
             }
           ],
@@ -977,6 +1048,12 @@
               "Mudguards are essential for the trip to Nikiszowiec today.",
               "Use the museum's underground area to change out of wet gear.",
               "Choose well-lit paths for the return journey."
+            ],
+            "pl": [
+              "Unikaj torów tramwajowych w centrum, gdy pada deszcz.",
+              "Błotniki są niezbędne na trasie do Nikiszowca dzisiaj.",
+              "Wykorzystaj podziemia muzeum, by przebrać się z mokrego ekwipunku.",
+              "Wybieraj dobrze oświetlone trasy na powrót."
             ]
           }
         },
@@ -985,7 +1062,8 @@
             "de": "Starten Sie dick eingepackt nach Nikiszowiec; der Wind kann in den Gassen kalt sein. Das Schlesische Museum bietet die perfekte Aufwärmpause zur Mittagszeit. Bestaunen Sie den beleuchteten Spodek am Nachmittag. Die Tour endet am Dom und dem Fallschirmturm im Park, wo die Winterdämmerung eine besondere Atmosphäre schafft.",
             "hu": "Vastagon felöltözve induljon Nikiszowiecbe; a szél hideg lehet a szűk utcákban. A Sziléziai Múzeum tökéletes melegedőhely délidőben. Csodálja meg a kivilágított Spodeket délután. A túra a katedrálisnál és a parkbeli ejtőernyős toronynál ér véget a téli szürkületben.",
             "ro": "Porniți bine echipat spre Nikiszowiec; vântul poate fi tăios pe străduțe. Muzeul Silezian oferă pauza perfectă de încălzire la prânz. Admirați Spodek iluminat după-amiaza. Turul se încheie la Catedrală și Turnul de Parașutism în atmosfera amurgului de iarnă.",
-            "en": "Wrap up warm for the ride to Nikiszowiec; the wind can be biting in the narrow streets. The Silesian Museum provides the perfect warming break at midday. Admire the illuminated Spodek in the afternoon. The tour ends at the Cathedral and the Parachute Tower as the winter dusk sets in."
+            "en": "Wrap up warm for the ride to Nikiszowiec; the wind can be biting in the narrow streets. The Silesian Museum provides the perfect warming break at midday. Admire the illuminated Spodek in the afternoon. The tour ends at the Cathedral and the Parachute Tower as the winter dusk sets in.",
+            "pl": "Ciepło się ubierz na przejazd do Nikiszowca; wiatr może być dotkliwy w wąskich uliczkach. Muzeum Śląskie to idealna przerwa na rozgrzewkę w południe. Podziwiaj oświetlony Spodek po południu. Wycieczka kończy się przy Katedrze i Wieży Spadochronowej, gdy zapada zimowy zmierzch."
           },
           "stops": [
             {
@@ -994,7 +1072,8 @@
                 "de": "Vorsicht bei Schnee auf dem unebenen Pflaster.",
                 "hu": "Vigyázzon a hóval az egyenetlen köveken.",
                 "ro": "Atenție la zăpada depusă pe pavajul neregulat.",
-                "en": "Watch out for snow and ice on the uneven pavement."
+                "en": "Watch out for snow and ice on the uneven pavement.",
+                "pl": "Uważaj na śnieg i lód na nierównej nawierzchni."
               }
             },
             {
@@ -1003,7 +1082,8 @@
                 "de": "Fahrradständer können vereist sein.",
                 "hu": "A biciklitárolók jegesek lehetnek.",
                 "ro": "Rastelurile pot fi înghețate.",
-                "en": "Bike racks might be icy; handle with care."
+                "en": "Bike racks might be icy; handle with care.",
+                "pl": "Stojaki rowerowe mogą być oblodzone; obchodź się z nimi ostrożnie."
               }
             },
             {
@@ -1012,7 +1092,8 @@
                 "de": "Der offene Platz ist im Winter sehr windanfällig.",
                 "hu": "A nyitott tér télen nagyon szeles.",
                 "ro": "Piața deschisă este foarte expusă vântului iarna.",
-                "en": "The open square is very windy during winter."
+                "en": "The open square is very windy during winter.",
+                "pl": "Otwarty plac jest bardzo wietrzny zimą."
               }
             },
             {
@@ -1021,7 +1102,8 @@
                 "de": "Wärmen Sie sich mit einem heißen Kaffee auf.",
                 "hu": "Melegedjen fel egy forró kávéval.",
                 "ro": "Încălziți-vă cu o cafea fierbinte.",
-                "en": "Warm up with a hot coffee at one of the bars."
+                "en": "Warm up with a hot coffee at one of the bars.",
+                "pl": "Rozgrzej się gorącą kawą w jednym z barów."
               }
             },
             {
@@ -1030,7 +1112,8 @@
                 "de": "Stellen Sie das Rad sicher ab, der Boden kann glatt sein.",
                 "hu": "Biztonságosan támassza le a bringát, a föld csúszhat.",
                 "ro": "Asigurați bicicleta bine, solul poate fi alunecos.",
-                "en": "Park your bike securely; the ground may be slippery."
+                "en": "Park your bike securely; the ground may be slippery.",
+                "pl": "Zaparkuj rower pewnie; podłoże może być śliskie."
               }
             },
             {
@@ -1039,7 +1122,8 @@
                 "de": "Der Park ist bei Schnee wunderschön, aber schwer zu befahren.",
                 "hu": "A park csodás hóban, de nehéz tekerni benne.",
                 "ro": "Parcul este superb în zăpadă, dar greu de parcurs cu bicicleta.",
-                "en": "The park is beautiful in snow but harder to cycle through."
+                "en": "The park is beautiful in snow but harder to cycle through.",
+                "pl": "Park jest piękny w śniegu, ale trudniejszy do przejechania rowerem."
               }
             }
           ],
@@ -1067,6 +1151,12 @@
               "E-bike batteries drain faster in the cold.",
               "Stick to main roads as they are usually cleared of snow.",
               "Plan to finish your tour by 16:30 due to darkness."
+            ],
+            "pl": [
+              "Noś rękawice przeciwwiatrowe na przejażdżkę.",
+              "Baterie w rowerach elektrycznych szybciej się rozładowują w zimnie.",
+              "Trzymaj się głównych dróg, są zwykle odśnieżone.",
+              "Zaplanuj zakończenie trasy do 16:30 z powodu szybko zapadających ciemności."
             ]
           }
         }
@@ -1085,7 +1175,8 @@
             "de": "Nikiszowiec",
             "hu": "Nikiszowiec",
             "ro": "Nikiszowiec",
-            "en": "Nikiszowiec"
+            "en": "Nikiszowiec",
+            "pl": "Nikiszowiec"
           },
           "coords": [
             19.0701,
@@ -1101,7 +1192,8 @@
             "de": "Parken Sie Ihr Auto und erkunden Sie diesen faszinierenden Backsteinbezirk zu Fuß.",
             "hu": "Parkolja le az autót, és fedezze fel gyalog ezt a lenyűgöző téglanegyedet.",
             "ro": "Parcați mașina și explorați pe jos acest cartier fascinant din cărămidă.",
-            "en": "Park your car and explore this fascinating brick district on foot."
+            "en": "Park your car and explore this fascinating brick district on foot.",
+            "pl": "Zaparkuj samochód i zwiedź tę fascynującą ceglą dzielnicę pieszo."
           }
         },
         {
@@ -1109,7 +1201,8 @@
             "de": "Schlesisches Museum",
             "hu": "Sziléziai Múzeum",
             "ro": "Muzeul Silezian",
-            "en": "Silesian Museum"
+            "en": "Silesian Museum",
+            "pl": "Muzeum Śląskie"
           },
           "coords": [
             19.0335,
@@ -1125,7 +1218,8 @@
             "de": "Nutzen Sie die Tiefgarage des Museums. Von hier aus ist die Kulturzone leicht zu Fuß erreichbar.",
             "hu": "Használja a múzeum mélygarázsát. Innen a Kultúra Zóna gyalogosan könnyen elérhető.",
             "ro": "Folosiți parcarea subterană a muzeului. De aici, Zona Culturală este ușor accesibilă pe jos.",
-            "en": "Use the museum's underground parking. The Culture Zone is easily accessible on foot from here."
+            "en": "Use the museum's underground parking. The Culture Zone is easily accessible on foot from here.",
+            "pl": "Korzystaj z podziemnego parkingu muzeum. Strefa Kultury jest stąd łatwo dostępna pieszo."
           }
         },
         {
@@ -1133,7 +1227,8 @@
             "de": "Spodek",
             "hu": "Spodek",
             "ro": "Spodek",
-            "en": "Spodek"
+            "en": "Spodek",
+            "pl": "Spodek"
           },
           "coords": [
             19.029,
@@ -1149,7 +1244,8 @@
             "de": "Ein kurzer Spaziergang vom Museum entfernt, bewundern Sie die ikonische Architektur.",
             "hu": "Egy rövid séta a múzeumtól, csodálja meg az ikonikus építészetet.",
             "ro": "La o scurtă plimbare de muzeu, admirați arhitectura emblematică.",
-            "en": "A short walk from the museum, admire the iconic architecture."
+            "en": "A short walk from the museum, admire the iconic architecture.",
+            "pl": "Krótki spacer od muzeum — podziwiaj charakterystyczną architekturę."
           }
         },
         {
@@ -1157,7 +1253,8 @@
             "de": "Denkmal der Schlesischen Aufständischen",
             "hu": "Sziléziai Felkelők Emlékműve",
             "ro": "Monumentul Insurgenților Silezieni",
-            "en": "Monument to the Silesian Insurgents"
+            "en": "Monument to the Silesian Insurgents",
+            "pl": "Pomnik Powstańców Śląskich"
           },
           "coords": [
             19.0285,
@@ -1173,7 +1270,8 @@
             "de": "Dieses mächtige Denkmal befindet sich direkt neben dem Spodek.",
             "hu": "Ez a hatalmas emlékmű közvetlenül a Spodek mellett található.",
             "ro": "Acest monument impunător se află chiar lângă Spodek.",
-            "en": "This powerful monument is located right next to Spodek."
+            "en": "This powerful monument is located right next to Spodek.",
+            "pl": "Ten silny pomnik znajduje się tuż obok Spodka."
           }
         },
         {
@@ -1181,7 +1279,8 @@
             "de": "Mariacka-Straße",
             "hu": "Mariacka utca",
             "ro": "Strada Mariacka",
-            "en": "Mariacka Street"
+            "en": "Mariacka Street",
+            "pl": "Ulica Mariacka"
           },
           "coords": [
             19.0261,
@@ -1197,7 +1296,8 @@
             "de": "Parken Sie in einem der nahegelegenen Parkhäuser und genießen Sie die Fußgängerzone.",
             "hu": "Parkoljon egy közeli parkolóházban, és élvezze a sétálóutcát.",
             "ro": "Parcați într-una dintre parcările din apropiere și bucurați-vă de zona pietonală.",
-            "en": "Park in one of the nearby parking garages and enjoy the pedestrian zone."
+            "en": "Park in one of the nearby parking garages and enjoy the pedestrian zone.",
+            "pl": "Zaparkuj w jednym z pobliskich parkingów wielopoziomowych i korzystaj ze strefy pieszej."
           }
         },
         {
@@ -1205,7 +1305,8 @@
             "de": "Kathedrale Christkönig",
             "hu": "Krisztus Király-székesegyház",
             "ro": "Catedrala Hristos Rege",
-            "en": "Cathedral of Christ the King"
+            "en": "Cathedral of Christ the King",
+            "pl": "Katedra Chrystusa Króla"
           },
           "coords": [
             19.0188,
@@ -1221,7 +1322,8 @@
             "de": "Ein kurzer Spaziergang von der Mariacka-Straße, der sich für die Pracht des Innenraums lohnt.",
             "hu": "Egy rövid séta a Mariacka utcától, ami megéri a belső tér pompájáért.",
             "ro": "O scurtă plimbare de la strada Mariacka, care merită pentru splendoarea interiorului.",
-            "en": "A short walk from Mariacka Street, well worth it for the splendor of the interior."
+            "en": "A short walk from Mariacka Street, well worth it for the splendor of the interior.",
+            "pl": "Krótki spacer od ul. Mariackiej, zdecydowanie warto dla przepychu wnętrza."
           }
         }
       ],
@@ -1229,7 +1331,8 @@
         "de": "Ihr Tag beginnt mit einer Fahrt in den historischen Stadtteil Nikiszowiec. Nachdem Sie das Auto geparkt haben, erkunden Sie diesen einzigartigen Ort zu Fuß. Am späten Vormittag fahren Sie zur Kulturzone, parken am Schlesischen Museum und entdecken das Museum, den Spodek und das Aufständendenkmal als einen fußläufigen Cluster. Am Nachmittag fahren Sie ins Herz der Stadt, parken erneut und genießen die Atmosphäre der Mariacka-Straße und die Ruhe der nahegelegenen Christkönig-Kathedrale.",
         "hu": "A nap egy utazással kezdődik a történelmi Nikiszowiec negyedbe. Miután leparkolta az autót, gyalogosan fedezi fel ezt az egyedülálló helyet. A késő délelőtt folyamán a Kultúra Zónájába hajt, leparkol a Sziléziai Múzeumnál, és egy gyalogos klaszterként fedezi fel a múzeumot, a Spodeket és a Felkelők Emlékművét. Délután a város szívébe utazik, újra leparkol, és élvezi a Mariacka utca hangulatát és a közeli Krisztus Király-székesegyház csendjét.",
         "ro": "Ziua începe cu o călătorie cu mașina spre cartierul istoric Nikiszowiec. După ce parcați, explorați acest loc unic pe jos. Spre sfârșitul dimineții, conduceți spre Zona Culturală, parcați la Muzeul Silezian și explorați muzeul, Spodek și Monumentul Insurgenților ca un cluster pietonal. După-amiaza, vă deplasați în inima orașului, parcați din nou și vă bucurați de atmosfera străzii Mariacka și de liniștea Catedralei Hristos Rege din apropiere.",
-        "en": "Your day begins with a drive to the historic district of Nikiszowiec. After parking, you'll explore this unique place on foot. In the late morning, you drive to the Culture Zone, park at the Silesian Museum, and discover the museum, Spodek, and the Insurgents' Monument as a walking cluster. In the afternoon, you'll drive into the heart of the city, park again, and enjoy the atmosphere of Mariacka Street and the tranquility of the nearby Cathedral of Christ the King."
+        "en": "Your day begins with a drive to the historic district of Nikiszowiec. After parking, you'll explore this unique place on foot. In the late morning, you drive to the Culture Zone, park at the Silesian Museum, and discover the museum, Spodek, and the Insurgents' Monument as a walking cluster. In the afternoon, you'll drive into the heart of the city, park again, and enjoy the atmosphere of Mariacka Street and the tranquility of the nearby Cathedral of Christ the King.",
+        "pl": "Twój dzień zaczyna się przejazdem do zabytkowej dzielnicy Nikiszowiec. Po zaparkowaniu zwiedzisz to wyjątkowe miejsce pieszo. Pod koniec przedpołudnia jedziesz do Strefy Kultury, parkujesz przy Muzeum Śląskim i odkrywasz muzeum, Spodek oraz Pomnik Powstańców Śląskich jako spacerowy kompleks. Po południu jedziesz w serce miasta, znowu parkujesz i korzystasz z atmosfery ul. Mariackiej oraz spokoju pobliskiej Katedry Chrystusa Króla."
       },
       "gastro_picks": {
         "de": [
@@ -1425,6 +1528,12 @@
           "Plan your route to avoid morning and evening rush hour traffic.",
           "Be aware of 'Strefa ruchu' (low traffic zones), where pedestrians have priority.",
           "A GPS is essential as some road layouts can be complex."
+        ],
+        "pl": [
+          "Parkowanie w centrum miasta jest często płatne i ograniczone. Korzystaj z parkingów wielopoziomowych.",
+          "Zaplanuj trasę, aby unikać porannych i wieczornych godzin szczytu.",
+          "Uwaga na 'Strefę ruchu' (strefy uspokojonego ruchu), gdzie pierwszeństwo mają piesi.",
+          "GPS jest niezbędny, ponieważ układ dróg może być skomplikowany."
         ]
       },
       "variants": {
@@ -1433,7 +1542,8 @@
             "de": "Mit dem Auto erreichen Sie Nikiszowiec bequem und trocken. Das Schlesische Museum bietet eine große Tiefgarage, ideal für Regentage. Den Nachmittag verbringen Sie flexibel zwischen Spodek und Mariacka-Straße, wobei Sie das Auto in der Nähe parken können, um nasse Füße zu vermeiden. Den Abschluss bildet der Dom mit Parkmöglichkeiten direkt davor.",
             "hu": "Autóval kényelmesen és szárazon érheti el Nikiszowiecet. A Sziléziai Múzeum nagy mélygarázzsal rendelkezik, ami ideális esőben. A délutánt rugalmasan töltheti a Spodek és a Mariacka utca között, közel parkolva a bejáratokhoz. A túrát a katedrálisnál zárhatja, ahol közvetlen parkolási lehetőség van.",
             "ro": "Cu mașina ajungeți la Nikiszowiec confortabil și uscat. Muzeul Silezian are o parcare subterană mare, ideală pentru ploaie. Petreceți după-amiaza flexibil între Spodek și strada Mariacka, parcând aproape pentru a evita umezeala. Finalul este la Catedrală, unde există parcare chiar în față.",
-            "en": "By car, you can reach Nikiszowiec comfortably and dryly. The Silesian Museum has a large underground car park, ideal for rainy days. Spend the afternoon flexibly between Spodek and Mariacka Street, parking nearby to avoid getting wet. Finish at the Cathedral, with parking available right in front."
+            "en": "By car, you can reach Nikiszowiec comfortably and dryly. The Silesian Museum has a large underground car park, ideal for rainy days. Spend the afternoon flexibly between Spodek and Mariacka Street, parking nearby to avoid getting wet. Finish at the Cathedral, with parking available right in front.",
+            "pl": "Samochodem dotrzesz do Nikiszowca wygodnie i suchą stopą. Muzeum Śląskie ma duży podziemny parking, idealny na deszczowe dni. Po południu elastycznie przemieszczaj się między Spodkiem a ul. Mariacką, parkując w pobliżu, by nie zmoknąć. Zakończ przy Katedrze, gdzie parking dostępny jest tuż przed wejściem."
           },
           "stops": [
             {
@@ -1442,7 +1552,8 @@
                 "de": "Parken Sie am zentralen Platz, um kurze Wege zu haben.",
                 "hu": "Parkoljon a központi téren a rövid sétákért.",
                 "ro": "Parcați în piața centrală pentru a merge puțin pe jos.",
-                "en": "Park at the central square to minimize walking in rain."
+                "en": "Park at the central square to minimize walking in rain.",
+                "pl": "Zaparkuj na centralnym placu, aby zminimalizować chodzenie w deszczu."
               }
             },
             {
@@ -1451,7 +1562,8 @@
                 "de": "Nutzen Sie die Tiefgarage für einen komplett trockenen Zugang.",
                 "hu": "Használja a mélygarázst a teljesen száraz bejutáshoz.",
                 "ro": "Folosiți parcarea subterană pentru acces uscat.",
-                "en": "Use the underground parking for completely dry access."
+                "en": "Use the underground parking for completely dry access.",
+                "pl": "Korzystaj z parkingu podziemnego, by mieć całkowicie suchy dostęp."
               }
             },
             {
@@ -1460,7 +1572,8 @@
                 "de": "Das Parken direkt am Spodek ist bei Events eingeschränkt.",
                 "hu": "A Spodek melletti parkolás események idején korlátozott.",
                 "ro": "Parcarea lângă Spodek este limitată în timpul evenimentelor.",
-                "en": "Parking right next to Spodek is limited during events."
+                "en": "Parking right next to Spodek is limited during events.",
+                "pl": "Parkowanie tuż przy Spodku jest ograniczone podczas wydarzeń."
               }
             },
             {
@@ -1469,7 +1582,8 @@
                 "de": "Kurzer Halt; Parkplätze sind an der Al. Korfantego.",
                 "hu": "Gyors megálló; parkolók az Al. Korfantego mentén.",
                 "ro": "Oprire rapidă; parcări se găsesc pe Al. Korfantego.",
-                "en": "Quick stop; parking is available along Al. Korfantego."
+                "en": "Quick stop; parking is available along Al. Korfantego.",
+                "pl": "Krótki postój; parking dostępny wzdłuż Al. Korfantego."
               }
             },
             {
@@ -1478,7 +1592,8 @@
                 "de": "Parken Sie im Parkhaus der Galeria Katowicka.",
                 "hu": "Parkoljon a Galeria Katowicka parkolóházában.",
                 "ro": "Parcați în parcarea acoperită de la Galeria Katowicka.",
-                "en": "Park in the Galeria Katowicka indoor parking garage."
+                "en": "Park in the Galeria Katowicka indoor parking garage.",
+                "pl": "Zaparkuj w krytym parkingu Galerii Katowickiej."
               }
             },
             {
@@ -1487,7 +1602,8 @@
                 "de": "Parkplätze direkt an der Kuria Metropolitalna nutzen.",
                 "hu": "Használja a Kuria Metropolitalna melletti parkolót.",
                 "ro": "Folosiți locurile de parcare de lângă Kuria Metropolitalna.",
-                "en": "Use the parking spaces right by the Kuria Metropolitalna."
+                "en": "Use the parking spaces right by the Kuria Metropolitalna.",
+                "pl": "Korzystaj z miejsc parkingowych tuż przy Kurii Metropolitalnej."
               }
             }
           ],
@@ -1515,6 +1631,12 @@
               "The museum's underground parking is often full on weekends.",
               "Some streets in Nikiszowiec are very narrow.",
               "Use parking apps to avoid standing in the rain at machines."
+            ],
+            "pl": [
+              "Uważaj na aquaplaning na trasie DTŚ.",
+              "Podziemny parking muzeum często jest pełny w weekendy.",
+              "Niektóre ulice w Nikiszowcu są bardzo wąskie.",
+              "Używaj aplikacji parkingowych, by nie stać na deszczu przy parkomatach."
             ]
           }
         },
@@ -1523,7 +1645,8 @@
             "de": "Besuchen Sie das malerische Nikiszowiec im Auto; die Ziegelhäuser wirken im Schnee wie aus einem Märchen. Das Schlesische Museum bietet warme Tiefgaragenplätze. Am Nachmittag ist der beleuchtete Spodek ein Highlight, bevor Sie zur Mariacka-Straße weiterfahren. Die Tour endet gemütlich am Dom, während draußen der Winterwind weht.",
             "hu": "Látogassa meg a festői Nikiszowiecet autóval; a téglaépületek a hóban mesebeliek. A Sziléziai Múzeum fűtött mélygarázst kínál. Délután a kivilágított Spodek a fénypont, mielőtt a Mariacka utca felé indulna. A túra kényelmesen ér véget a katedrálisnál, miközben odakint fúj a téli szél.",
             "ro": "Vizitați pitorescul Nikiszowiec cu mașina; clădirile din cărămidă par de basm în zăpadă. Muzeul Silezian oferă parcare subterană protejată. După-amiaza, Spodek iluminat este punctul forte înainte de a merge spre Mariacka. Turul se încheie confortabil la Catedrală în timp ce afară suflă vântul.",
-            "en": "Visit picturesque Nikiszowiec by car; the brick buildings look like a fairytale in the snow. The Silesian Museum offers warm underground parking. In the afternoon, the illuminated Spodek is a highlight before heading to Mariacka Street. The tour ends comfortably at the Cathedral while the winter wind blows outside."
+            "en": "Visit picturesque Nikiszowiec by car; the brick buildings look like a fairytale in the snow. The Silesian Museum offers warm underground parking. In the afternoon, the illuminated Spodek is a highlight before heading to Mariacka Street. The tour ends comfortably at the Cathedral while the winter wind blows outside.",
+            "pl": "Odwiedź malowniczy Nikiszowiec samochodem; ceglane budynki wyglądają jak z bajki na śniegu. Muzeum Śląskie oferuje ciepły, podziemny parking. Po południu podświetlony Spodek to atrakcja przed udaniem się na ul. Mariacką. Wycieczkę wygodnie kończysz przy Katedrze, podczas gdy zimny wiatr wieje na zewnątrz."
           },
           "stops": [
             {
@@ -1532,7 +1655,8 @@
                 "de": "Die Nebenstraßen können vereist sein.",
                 "hu": "A mellékutcák jegesek lehetnek.",
                 "ro": "Străzile secundare pot fi înghețate.",
-                "en": "Side streets may be icy; stick to the main access roads."
+                "en": "Side streets may be icy; stick to the main access roads.",
+                "pl": "Boczne uliczki mogą być oblodzone; trzymaj się głównych dróg dojazdowych."
               }
             },
             {
@@ -1541,7 +1665,8 @@
                 "de": "Vermeiden Sie die oberirdischen Parkplätze bei Schneefall.",
                 "hu": "Hóesésben kerülje a felszíni parkolókat.",
                 "ro": "Evitați parcările de la suprafață în timpul ninsorii.",
-                "en": "Avoid surface parking lots during heavy snowfall."
+                "en": "Avoid surface parking lots during heavy snowfall.",
+                "pl": "Unikaj parkingów naziemnych podczas intensywnych opadów śniegu."
               }
             },
             {
@@ -1550,7 +1675,8 @@
                 "de": "Die Zufahrten sind meist gut geräumt.",
                 "hu": "A felhajtókat általában jól takarítják.",
                 "ro": "Căile de acces sunt de obicei bine curățate.",
-                "en": "Access roads are usually well-cleared of snow."
+                "en": "Access roads are usually well-cleared of snow.",
+                "pl": "Drogi dojazdowe zwykle są dobrze odśnieżone."
               }
             },
             {
@@ -1559,7 +1685,8 @@
                 "de": "Ein schneller Stopp; das Auto bleibt warm.",
                 "hu": "Gyors megálló; az autó meleg marad.",
                 "ro": "O oprire rapidă; mașina rămâne caldă.",
-                "en": "A quick photo stop; the car stays warm for your return."
+                "en": "A quick photo stop; the car stays warm for your return.",
+                "pl": "Krótki postój na zdjęcie; samochód pozostaje ciepły na powrót."
               }
             },
             {
@@ -1568,7 +1695,8 @@
                 "de": "Parkhäuser sind im Winter die beste Wahl.",
                 "hu": "Télen a parkolóházak a legjobb választások.",
                 "ro": "Parcările acoperite sunt cea mai bună alegere iarna.",
-                "en": "Indoor parking garages are the best choice in winter."
+                "en": "Indoor parking garages are the best choice in winter.",
+                "pl": "Kryte parkingi są najlepszym wyborem zimą."
               }
             },
             {
@@ -1577,7 +1705,8 @@
                 "de": "Achten Sie auf Fußgänger auf den glatten Gehwegen.",
                 "hu": "Vigyázzon a gyalogosokra a csúszós járdákon.",
                 "ro": "Atenție la pietoni pe trotuarele alunecoase.",
-                "en": "Watch out for pedestrians on the slippery sidewalks."
+                "en": "Watch out for pedestrians on the slippery sidewalks.",
+                "pl": "Uważaj na pieszych na śliskich chodnikach."
               }
             }
           ],
@@ -1605,6 +1734,12 @@
               "Keep a de-icer ready for your windshield.",
               "Finding parking downtown is often less stressful in winter.",
               "Allow extra time for driving between different districts."
+            ],
+            "pl": [
+              "Opony zimowe są obowiązkowe w Polsce w takich warunkach.",
+              "Miej pod ręką odmrażacz do szyb.",
+              "Znalezienie parkingu w centrum jest często mniej stresujące zimą.",
+              "Zarezerwuj dodatkowy czas na przejazdy między dzielnicami."
             ]
           }
         }
@@ -1623,7 +1758,8 @@
             "de": "Nikiszowiec",
             "hu": "Nikiszowiec",
             "ro": "Nikiszowiec",
-            "en": "Nikiszowiec"
+            "en": "Nikiszowiec",
+            "pl": "Nikiszowiec"
           },
           "coords": [
             19.0701,
@@ -1639,7 +1775,8 @@
             "de": "Nehmen Sie einen Bus vom Stadtzentrum; die Fahrt selbst ist schon ein kleines Erlebnis.",
             "hu": "Menjen busszal a városközpontból; már maga az utazás is egy kis élmény.",
             "ro": "Luați un autobuz din centrul orașului; călătoria în sine este o mică experiență.",
-            "en": "Take a bus from the city center; the ride itself is a small experience."
+            "en": "Take a bus from the city center; the ride itself is a small experience.",
+            "pl": "Jedź autobusem z centrum; sama przejażdżka jest małym przeżyciem."
           }
         },
         {
@@ -1647,7 +1784,8 @@
             "de": "Mariacka-Straße",
             "hu": "Mariacka utca",
             "ro": "Strada Mariacka",
-            "en": "Mariacka Street"
+            "en": "Mariacka Street",
+            "pl": "Ulica Mariacka"
           },
           "coords": [
             19.0261,
@@ -1663,7 +1801,8 @@
             "de": "Steigen Sie in der Nähe des Hauptbahnhofs aus und gehen Sie ein paar Minuten zu Fuß.",
             "hu": "Szálljon le a főpályaudvar közelében, és sétáljon néhány percet.",
             "ro": "Coborâți lângă gara principală și mergeți câteva minute pe jos.",
-            "en": "Get off near the main train station and walk for a few minutes."
+            "en": "Get off near the main train station and walk for a few minutes.",
+            "pl": "Wysiądź blisko dworca głównego i idź kilka minut pieszo."
           }
         },
         {
@@ -1671,7 +1810,8 @@
             "de": "Kathedrale Christkönig",
             "hu": "Krisztus Király-székesegyház",
             "ro": "Catedrala Hristos Rege",
-            "en": "Cathedral of Christ the King"
+            "en": "Cathedral of Christ the King",
+            "pl": "Katedra Chrystusa Króla"
           },
           "coords": [
             19.0188,
@@ -1687,7 +1827,8 @@
             "de": "Ein kurzer, angenehmer Spaziergang vom Trubel der Mariacka-Straße.",
             "hu": "Egy rövid, kellemes séta a Mariacka utca nyüzsgésétől.",
             "ro": "O scurtă plimbare plăcută de la agitația străzii Mariacka.",
-            "en": "A short, pleasant walk from the hustle and bustle of Mariacka Street."
+            "en": "A short, pleasant walk from the hustle and bustle of Mariacka Street.",
+            "pl": "Krótki, przyjemny spacer od zgiełku ul. Mariackiej."
           }
         },
         {
@@ -1695,7 +1836,8 @@
             "de": "Schlesisches Museum",
             "hu": "Sziléziai Múzeum",
             "ro": "Muzeul Silezian",
-            "en": "Silesian Museum"
+            "en": "Silesian Museum",
+            "pl": "Muzeum Śląskie"
           },
           "coords": [
             19.0335,
@@ -1711,7 +1853,8 @@
             "de": "Nehmen Sie eine Straßenbahn zur Haltestelle 'Katowice Rondo' und gehen Sie zum Museum.",
             "hu": "Menjen villamossal a 'Katowice Rondo' megállóig, és sétáljon el a múzeumig.",
             "ro": "Luați un tramvai până la stația 'Katowice Rondo' și mergeți pe jos până la muzeu.",
-            "en": "Take a tram to the 'Katowice Rondo' stop and walk to the museum."
+            "en": "Take a tram to the 'Katowice Rondo' stop and walk to the museum.",
+            "pl": "Wsiądź w tramwaj do przystanku 'Katowice Rondo' i idź do muzeum."
           }
         },
         {
@@ -1719,7 +1862,8 @@
             "de": "Spodek",
             "hu": "Spodek",
             "ro": "Spodek",
-            "en": "Spodek"
+            "en": "Spodek",
+            "pl": "Spodek"
           },
           "coords": [
             19.029,
@@ -1735,7 +1879,8 @@
             "de": "Auf dem Weg zurück zur Straßenbahnhaltestelle kommen Sie direkt am Spodek vorbei.",
             "hu": "A villamosmegálló felé vezető úton közvetlenül a Spodek mellett halad el.",
             "ro": "În drum spre stația de tramvai, veți trece chiar pe lângă Spodek.",
-            "en": "On your way back to the tram stop, you'll pass right by Spodek."
+            "en": "On your way back to the tram stop, you'll pass right by Spodek.",
+            "pl": "W drodze powrotnej do przystanku tramwajowego przejdziesz tuż obok Spodka."
           }
         },
         {
@@ -1743,7 +1888,8 @@
             "de": "Denkmal der Schlesischen Aufständischen",
             "hu": "Sziléziai Felkelők Emlékműve",
             "ro": "Monumentul Insurgenților Silezieni",
-            "en": "Monument to the Silesian Insurgents"
+            "en": "Monument to the Silesian Insurgents",
+            "pl": "Pomnik Powstańców Śląskich"
           },
           "coords": [
             19.0285,
@@ -1759,7 +1905,8 @@
             "de": "Das Denkmal befindet sich im selben Komplex wie Spodek und das Museum.",
             "hu": "Az emlékmű ugyanabban a komplexumban található, mint a Spodek és a múzeum.",
             "ro": "Monumentul este situat în același complex cu Spodek și muzeul.",
-            "en": "The monument is located in the same complex as Spodek and the museum."
+            "en": "The monument is located in the same complex as Spodek and the museum.",
+            "pl": "Pomnik znajduje się w tym samym kompleksie co Spodek i muzeum."
           }
         }
       ],
@@ -1767,7 +1914,8 @@
         "de": "Ihre Tour beginnt mit einer Busfahrt in das historische Viertel Nikiszowiec. Nach der Erkundung kehren Sie mit dem Bus ins Stadtzentrum zurück, um die Mariacka-Straße und die nahe gelegene Kathedrale zu Fuß zu erkunden. Am Nachmittag bringt Sie eine Straßenbahn zur Kulturzone. Hier besichtigen Sie das Schlesische Museum, den Spodek und das Denkmal der Schlesischen Aufständischen, die alle in einem fußläufigen Bereich liegen, bevor Sie Ihre Rückreise antreten.",
         "hu": "Túrája egy buszúttal kezdődik a történelmi Nikiszowiec negyedbe. A felfedezés után busszal tér vissza a városközpontba, hogy gyalogosan fedezze fel a Mariacka utcát és a közeli székesegyházat. Délután villamossal jut el a Kultúra Zónájába. Itt megtekintheti a Sziléziai Múzeumot, a Spodeket és a Sziléziai Felkelők Emlékművét, melyek mind gyalogosan elérhetők, mielőtt visszaindulna.",
         "ro": "Turul începe cu o călătorie cu autobuzul spre cartierul istoric Nikiszowiec. După explorare, vă întoarceți cu autobuzul în centrul orașului pentru a explora pe jos strada Mariacka și catedrala din apropiere. După-amiaza, un tramvai vă duce în Zona Culturală. Aici vizitați Muzeul Silezian, Spodek și Monumentul Insurgenților Silezieni, toate situate într-o zonă pietonală, înainte de a vă întoarce.",
-        "en": "Your tour starts with a bus ride to the historic Nikiszowiec district. After exploring, you'll return by bus to the city center to explore Mariacka Street and the nearby cathedral on foot. In the afternoon, a tram takes you to the Culture Zone. Here you'll visit the Silesian Museum, Spodek, and the Monument to the Silesian Insurgents, all within a walkable area, before heading back."
+        "en": "Your tour starts with a bus ride to the historic Nikiszowiec district. After exploring, you'll return by bus to the city center to explore Mariacka Street and the nearby cathedral on foot. In the afternoon, a tram takes you to the Culture Zone. Here you'll visit the Silesian Museum, Spodek, and the Monument to the Silesian Insurgents, all within a walkable area, before heading back.",
+        "pl": "Twoja wycieczka zaczyna się przejazdem autobusem do zabytkowej dzielnicy Nikiszowiec. Po zwiedzaniu wrócisz autobusem do centrum, aby pieszo odkrywać ul. Mariacką i pobliską katedrę. Po południu tramwaj zabierze Cię do Strefy Kultury. Tam odwiedzisz Muzeum Śląskie, Spodek i Pomnik Powstańców Śląskich, wszystkie w zasięgu spaceru, zanim wrócisz."
       },
       "gastro_picks": {
         "de": [
@@ -1963,6 +2111,12 @@
           "Use apps like Jakdojade to plan your route in real-time.",
           "Trams are often faster than buses as they have their own lanes.",
           "Validate your ticket immediately upon boarding to avoid a fine."
+        ],
+        "pl": [
+          "Kup bilet dobowy na komunikację miejską (ZTM), aby zaoszczędzić.",
+          "Korzystaj z aplikacji takich jak Jakdojade, by planować trasę na żywo.",
+          "Tramwaje są często szybsze niż autobusy, ponieważ mają własne pasy.",
+          "Skasuj bilet natychmiast po wejściu, by uniknąć mandatu."
         ]
       },
       "variants": {
@@ -1971,7 +2125,8 @@
             "de": "Nutzen Sie das dichte Busnetz nach Nikiszowiec, um dem Regen zu entgehen. Mittags bietet die Mariacka-Straße viele überdachte Plätze. Der Nachmittag gehört dem Schlesischen Museum, das ideal per Tram erreichbar ist. Den Tag schließen Sie am beleuchteten Spodek und dem Dom ab, wobei die Wartezeiten an den Haltestellen kurz sind.",
             "hu": "Használja a sűrű buszhálózatot Nikiszowiec felé, hogy elkerülje az esőt. Délben a Mariacka utca sok fedett helyet kínál. A délután a Sziléziai Múzeumé, amely villamossal remekül elérhető. A napot a kivilágított Spodeknél és a katedrálisnál zárhatja, rövid várakozási időkkel a megállókban.",
             "ro": "Folosiți rețeaua densă de autobuze spre Nikiszowiec pentru a evita ploaia. La prânz, strada Mariacka oferă multe locuri acoperite. După-amiaza aparține Muzeului Silezian, accesibil ușor cu tramvaiul. Încheiați ziua la Spodek și Catedrală, timpii de așteptare în stații fiind mici.",
-            "en": "Use the dense bus network to Nikiszowiec to avoid the rain. At midday, Mariacka Street offers many covered spots. The afternoon belongs to the Silesian Museum, easily accessible by tram. Finish the day at the illuminated Spodek and the Cathedral, with short waiting times at the transit stops."
+            "en": "Use the dense bus network to Nikiszowiec to avoid the rain. At midday, Mariacka Street offers many covered spots. The afternoon belongs to the Silesian Museum, easily accessible by tram. Finish the day at the illuminated Spodek and the Cathedral, with short waiting times at the transit stops.",
+            "pl": "Wykorzystaj gęstą sieć autobusową do Nikiszowca, by uniknąć deszczu. W południe ul. Mariacka oferuje wiele zadaszonych miejsc. Popołudnie przeznacz na Muzeum Śląskie, łatwo dostępne tramwajem. Zakończ dzień przy podświetlonym Spodku i Katedrze, z krótkimi czasami oczekiwania na przystankach."
           },
           "stops": [
             {
@@ -1980,7 +2135,8 @@
                 "de": "Die Bushaltestelle liegt direkt am Eingang des Viertels.",
                 "hu": "A buszmegálló közvetlenül a negyed bejáratánál van.",
                 "ro": "Stația de autobuz este chiar la intrarea în cartier.",
-                "en": "The bus stop is located right at the entrance of the district."
+                "en": "The bus stop is located right at the entrance of the district.",
+                "pl": "Przystanek autobusowy znajduje się tuż przy wejściu do dzielnicy."
               }
             },
             {
@@ -1989,7 +2145,8 @@
                 "de": "Vom Bahnhof Katowice sind es nur 5 Minuten Fußweg.",
                 "hu": "A katowicei vasútállomástól csak 5 perc séta.",
                 "ro": "Sunt doar 5 minute de mers de la gara Katowice.",
-                "en": "It is only a 5-minute walk from the Katowice main station."
+                "en": "It is only a 5-minute walk from the Katowice main station.",
+                "pl": "To zaledwie 5 minut pieszo od dworca głównego w Katowicach."
               }
             },
             {
@@ -1998,7 +2155,8 @@
                 "de": "Nutzen Sie die Bushaltestellen in der ul. Powstańców.",
                 "hu": "Használja az ul. Powstańców buszmegállóit.",
                 "ro": "Folosiți stațiile de autobuz de pe ul. Powstańców.",
-                "en": "Use the bus stops located on ul. Powstańców."
+                "en": "Use the bus stops located on ul. Powstańców.",
+                "pl": "Korzystaj z przystanków autobusowych na ul. Powstańców."
               }
             },
             {
@@ -2007,7 +2165,8 @@
                 "de": "Die Tramhaltestelle 'Muzeum Śląskie' ist direkt am Gelände.",
                 "hu": "A 'Muzeum Śląskie' villamosmegálló közvetlenül a helyszínnél van.",
                 "ro": "Stația de tramvai 'Muzeum Śląskie' este chiar lângă complex.",
-                "en": "The 'Muzeum Śląskie' tram stop is right next to the site."
+                "en": "The 'Muzeum Śląskie' tram stop is right next to the site.",
+                "pl": "Przystanek 'Muzeum Śląskie' tramwaju jest tuż obok obiektu."
               }
             },
             {
@@ -2016,7 +2175,8 @@
                 "de": "Der Knotenpunkt 'Rondo' bietet viele Umsteigemöglichkeiten.",
                 "hu": "A 'Rondo' csomópont rengeteg átszállási lehetőséget kínál.",
                 "ro": "Nodul 'Rondo' oferă multe opțiuni de transfer.",
-                "en": "The 'Rondo' transit hub offers many transfer options."
+                "en": "The 'Rondo' transit hub offers many transfer options.",
+                "pl": "Węzeł przesiadkowy 'Rondo' oferuje wiele opcji przesiadek."
               }
             },
             {
@@ -2025,7 +2185,8 @@
                 "de": "Haltestellen sind durch Unterführungen trocken erreichbar.",
                 "hu": "A megállók aluljárókon át szárazon elérhetőek.",
                 "ro": "Stațiile sunt accesibile prin pasaje subterane uscate.",
-                "en": "Stops are accessible via dry underground passages."
+                "en": "Stops are accessible via dry underground passages.",
+                "pl": "Przystanki są dostępne przez suche przejścia podziemne."
               }
             }
           ],
@@ -2053,6 +2214,12 @@
               "A ZTM day pass covers both buses and trams.",
               "Major stops like 'Rondo' have large covered shelters.",
               "Trams are often more reliable than buses during heavy rain."
+            ],
+            "pl": [
+              "Użyj aplikacji 'Jakdojade' do sprawdzania odjazdów na żywo.",
+              "Bilet dobowy ZTM obejmuje zarówno autobusy, jak i tramwaje.",
+              "Główne przystanki, jak 'Rondo', mają duże zadaszone wiaty.",
+              "Tramwaje są często bardziej niezawodne niż autobusy podczas ulewy."
             ]
           }
         },
@@ -2061,7 +2228,8 @@
             "de": "Die warmen Busse bringen Sie schnell ins winterliche Nikiszowiec. Das Schlesische Museum ist die ideale Station für den Nachmittag, da es komplett beheizt ist. Genießen Sie den Anblick des beleuchteten Spodek von der warmen Tram aus, bevor Sie den Tag am Dom abschließen. Die kurzen Wege zwischen Haltestellen und Sehenswürdigkeiten minimieren die Kälteexposition.",
             "hu": "A fűtött buszok gyorsan elrepítik a téli Nikiszowiecbe. A Sziléziai Múzeum ideális délutáni célpont, mivel teljesen fűtött. Élvezze a kivilágított Spodek látványát a meleg villamosból, mielőtt a katedrálishoz érne. A megállók és a látnivalók közötti rövid távolságok miatt nem kell sokat a hidegben lenni.",
             "ro": "Autobuzele încălzite vă duc rapid în Nikiszowiec iarna. Muzeul Silezian este stația ideală pentru după-amiază, fiind complet încălzit. Admirați Spodek iluminat din tramvaiul călduros înainte de a merge la Catedrală. Distanțele mici între stații și obiective reduc timpul petrecut în frig.",
-            "en": "Warm buses take you quickly to wintry Nikiszowiec. The Silesian Museum is an ideal afternoon stop as it is fully heated. Enjoy the view of the illuminated Spodek from a warm tram before finishing at the Cathedral. Short distances between stops and sights minimize exposure to the cold."
+            "en": "Warm buses take you quickly to wintry Nikiszowiec. The Silesian Museum is an ideal afternoon stop as it is fully heated. Enjoy the view of the illuminated Spodek from a warm tram before finishing at the Cathedral. Short distances between stops and sights minimize exposure to the cold.",
+            "pl": "Ciepłe autobusy szybko zabiorą Cię do zimowego Nikiszowca. Muzeum Śląskie to idealny postój popołudniowy, bo jest w pełni ogrzewane. Z przyjemnością zobaczysz podświetlony Spodek z ciepłego tramwaju, zanim zakończysz przy Katedrze. Krótkie dystanse między przystankami i atrakcjami minimalizują narażenie na zimno."
           },
           "stops": [
             {
@@ -2070,7 +2238,8 @@
                 "de": "Warten Sie im kleinen Postamt, wenn der Bus Verspätung hat.",
                 "hu": "Várjon a kis postahivatalban, ha késik a busz.",
                 "ro": "Așteptați în micul oficiu poștal dacă autobuzul întârzie.",
-                "en": "Wait in the small post office if the bus is delayed."
+                "en": "Wait in the small post office if the bus is delayed.",
+                "pl": "Poczekaj w małym urzędzie pocztowym, jeśli autobus się opóźnia."
               }
             },
             {
@@ -2079,7 +2248,8 @@
                 "de": "Die Cafés sind im Winter sehr gemütlich beleuchtet.",
                 "hu": "A kávézók télen nagyon hangulatosan világítanak.",
                 "ro": "Cafenelele sunt luminate foarte primitor iarna.",
-                "en": "The cafes are very cozily lit during the winter months."
+                "en": "The cafes are very cozily lit during the winter months.",
+                "pl": "Kawiarnie są bardzo przytulnie oświetlone w miesiącach zimowych."
               }
             },
             {
@@ -2088,7 +2258,8 @@
                 "de": "Nahegelegene Trams bringen Sie schnell zurück ins Zentrum.",
                 "hu": "A közeli villamosok gyorsan visszavisznek a központba.",
                 "ro": "Tramvaiele din apropiere vă duc rapid înapoi în centru.",
-                "en": "Nearby trams will quickly take you back to the city center."
+                "en": "Nearby trams will quickly take you back to the city center.",
+                "pl": "Okoliczne tramwaje szybko zawiozą Cię z powrotem do centrum miasta."
               }
             },
             {
@@ -2097,7 +2268,8 @@
                 "de": "Der Eingangsbereich ist ein guter Ort zum Aufwärmen.",
                 "hu": "A bejárati rész jó hely a felmelegedéshez.",
                 "ro": "Zona de la intrare este un loc bun pentru încălzire.",
-                "en": "The entrance area is a good place to warm up before exploring."
+                "en": "The entrance area is a good place to warm up before exploring.",
+                "pl": "Strefa wejściowa to dobre miejsce, by się ogrzać przed zwiedzaniem."
               }
             },
             {
@@ -2106,7 +2278,8 @@
                 "de": "Die Unterführung zum Rondo schützt vor kaltem Wind.",
                 "hu": "A Rondo aluljárója véd a hideg szél ellen.",
                 "ro": "Pasajul spre Rondo protejează de vântul rece.",
-                "en": "The passage to Rondo protects against the biting winter wind."
+                "en": "The passage to Rondo protects against the biting winter wind.",
+                "pl": "Przejście do Ronda chroni przed przenikliwym zimowym wiatrem."
               }
             },
             {
@@ -2115,7 +2288,8 @@
                 "de": "Direkt an der Tramhaltestelle gelegen.",
                 "hu": "Közvetlenül a villamosmegállónál található.",
                 "ro": "Situat chiar lângă stația de tramvai.",
-                "en": "Located directly by the tram stop for easy access."
+                "en": "Located directly by the tram stop for easy access.",
+                "pl": "Położone bezpośrednio przy przystanku tramwajowym dla łatwego dojścia."
               }
             }
           ],
@@ -2143,6 +2317,12 @@
               "Trams are generally more punctual than car traffic in winter.",
               "Wear non-slip shoes for the transit stops.",
               "Validate your ticket immediately after boarding."
+            ],
+            "pl": [
+              "Autobusy mogą się opóźniać podczas intensywnych opadów śniegu.",
+              "Tramwaje są na ogół bardziej punktualne niż ruch samochodowy zimą.",
+              "Noś obuwie z podeszwą antypoślizgową na przystanki.",
+              "Skasuj bilet natychmiast po wejściu do pojazdu."
             ]
           }
         }

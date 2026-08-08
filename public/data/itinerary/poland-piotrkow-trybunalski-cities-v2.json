@@ -21,7 +21,8 @@
             "de": "Altstadt (Marktplatz)",
             "hu": "Óváros (Piactér)",
             "ro": "Centrul vechi (Piața Centrală)",
-            "en": "Old Town (Market Square)"
+            "en": "Old Town (Market Square)",
+            "pl": "Stare Miasto (Rynek)"
           },
           "coords": [
             19.7001,
@@ -36,7 +37,8 @@
             "de": "Bewundern Sie die bunten Kaufmannshäuser und spüren Sie die Geschichte.",
             "hu": "Csodálja meg a színes kereskedőházakat és érezze a történelem hangulatát.",
             "ro": "Admirați casele negustorilor colorate și simțiți istoria locului.",
-            "en": "Admire the colorful merchant houses and feel the history of the place."
+            "en": "Admire the colorful merchant houses and feel the history of the place.",
+            "pl": "Podziwiaj kolorowe kamienice i poczuj historię miejsca."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Jakobsbasilika",
             "hu": "Szent Jakab-bazilika",
             "ro": "Bazilica Sf. Iacob",
-            "en": "St. James' Basilica"
+            "en": "St. James' Basilica",
+            "pl": "Bazylika św. Jakuba"
           },
           "coords": [
             19.7025,
@@ -59,7 +62,8 @@
             "de": "Suchen Sie nach den gotischen Fresken im Inneren, die biblische Szenen darstellen.",
             "hu": "Keresse meg a gótikus freskókat a belsejében, amelyek bibliai jeleneteket ábrázolnak.",
             "ro": "Căutați frescele gotice din interior, care înfățișează scene biblice.",
-            "en": "Look for the Gothic frescoes inside depicting biblical scenes."
+            "en": "Look for the Gothic frescoes inside depicting biblical scenes.",
+            "pl": "Szukaj gotyckich fresków wewnątrz przedstawiających sceny biblijne."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Königsschloss und Stadtgeschichte-Museum",
             "hu": "Királyi palota és Várostörténeti Múzeum",
             "ro": "Castelul Regal și Muzeul de Istorie a Orașului",
-            "en": "Royal Castle and City History Museum"
+            "en": "Royal Castle and City History Museum",
+            "pl": "Zamek Królewski i Muzeum Historii Miasta"
           },
           "coords": [
             19.6978,
@@ -82,7 +87,8 @@
             "de": "Der Sigismundturm bietet eine tolle Aussicht auf die Altstadt. Der Eintritt ist es wert.",
             "hu": "A Zsigmond-toronyból nagyszerű kilátás nyílik az óvárosra. Megéri a belépőt.",
             "ro": "Turnul lui Sigismund oferă o priveliște minunată asupra centrului vechi. Intrarea merită.",
-            "en": "The Sigismund Tower offers a great view of the Old Town. The entrance fee is worth it."
+            "en": "The Sigismund Tower offers a great view of the Old Town. The entrance fee is worth it.",
+            "pl": "Wieża Zygmuntowska oferuje świetny widok na Stare Miasto. Opłata za wejście jest warta swojej ceny."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Große Synagoge",
             "hu": "Nagy Zsinagóga",
             "ro": "Marea Sinagogă",
-            "en": "Great Synagogue"
+            "en": "Great Synagogue",
+            "pl": "Wielka Synagoga"
           },
           "coords": [
             19.6955,
@@ -105,7 +112,8 @@
             "de": "Das Gebäude beherbergt heute eine Bibliothek, aber die Fassade ist beeindruckend.",
             "hu": "Az épület ma könyvtárnak ad otthont, de a homlokzata lenyűgöző.",
             "ro": "Clădirea găzduiește acum o bibliotecă, dar fațada este impresionantă.",
-            "en": "The building now houses a library, but the facade is impressive."
+            "en": "The building now houses a library, but the facade is impressive.",
+            "pl": "Budynek mieści teraz bibliotekę, ale fasada robi wrażenie."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Jesuitenkloster",
             "hu": "Jezsuita kolostor",
             "ro": "Mănăstirea Iezuită",
-            "en": "Jesuit Monastery"
+            "en": "Jesuit Monastery",
+            "pl": "Klasztor Jezuitów"
           },
           "coords": [
             19.7041,
@@ -128,7 +137,8 @@
             "de": "Achten Sie auf die barocken Details der Kirche Unserer Lieben Frau.",
             "hu": "Figyelje meg a Miasszonyunk-templom barokk részleteit.",
             "ro": "Observați detaliile baroce ale Bisericii Maicii Domnului.",
-            "en": "Pay attention to the baroque details of the Church of Our Lady."
+            "en": "Pay attention to the baroque details of the Church of Our Lady.",
+            "pl": "Zwróć uwagę na barokowe detale Kościoła Matki Boskiej."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Bernardinerkloster",
             "hu": "Bernardin kolostor",
             "ro": "Mănăstirea Bernardină",
-            "en": "Bernardine Monastery"
+            "en": "Bernardine Monastery",
+            "pl": "Klasztor Bernardynów"
           },
           "coords": [
             19.6899,
@@ -151,7 +162,8 @@
             "de": "Ein Ort der Ruhe am Rande des historischen Zentrums.",
             "hu": "A nyugalom szigete a történelmi központ szélén.",
             "ro": "Un loc de liniște la marginea centrului istoric.",
-            "en": "A place of peace on the edge of the historic center."
+            "en": "A place of peace on the edge of the historic center.",
+            "pl": "Miejsce spokoju na skraju zabytkowego centrum."
           }
         }
       ],
@@ -159,7 +171,8 @@
         "de": "Ihr Tag in Piotrków Trybunalski beginnt auf dem historischen Marktplatz, umgeben von farbenfrohen Häusern. Von dort aus führt Sie ein kurzer Spaziergang zur gotischen Jakobsbasilika. Am Mittag erkunden Sie das Königsschloss, das heute ein faszinierendes Museum beherbergt und einen tiefen Einblick in die polnische Geschichte bietet. Der Nachmittag ist der ruhigeren Seite der Stadt gewidmet. Sie besuchen die Große Synagoge, ein Zeugnis der multikulturellen Vergangenheit, und schlendern zum Jesuiten- und Bernardinerkloster. Der Tag endet mit einem Spaziergang durch die abendlichen Gassen, erfüllt von den Eindrücken einer Stadt, in der an jeder Ecke Geschichte geschrieben wurde.",
         "hu": "A nap Piotrków Trybunalskiban a történelmi piactéren kezdődik, színes házakkal körülvéve. Innen egy rövid séta vezet a gótikus Szent Jakab-bazilikához. Délben a királyi várat fedezi fel, amely ma egy lenyűgöző múzeumnak ad otthont, mély betekintést nyújtva Lengyelország történelmébe. A délután a város csendesebb oldalának van szentelve. Meglátogatja a Nagy Zsinagógát, a multikulturális múlt tanúját, majd elsétál a jezsuita és a bernardin kolostorokhoz. A nap egy esti sétával zárul az utcákon, tele egy olyan város benyomásaival, ahol minden sarkon történelmet írtak.",
         "ro": "Ziua dvs. în Piotrków Trybunalski începe în piața istorică, înconjurată de case colorate. De acolo, o scurtă plimbare vă duce la Bazilica gotică Sf. Iacob. La prânz, explorați Castelul Regal, care găzduiește acum un muzeu fascinant, oferind o perspectivă profundă asupra istoriei Poloniei. După-amiaza este dedicată laturii mai liniștite a orașului. Vizitați Marea Sinagogă, o mărturie a trecutului multicultural, și vă plimbați spre mănăstirile iezuită și bernardină. Ziua se încheie cu o plimbare pe străduțele luminate de seară, plini de impresiile unui oraș unde istoria a fost scrisă la fiecare colț.",
-        "en": "Your day in Piotrków Trybunalski begins in the historic market square, surrounded by colorful houses. From there, a short walk takes you to the Gothic St. James' Basilica. At noon, you'll explore the Royal Castle, now housing a fascinating museum, offering deep insights into Polish history. The afternoon is dedicated to the quieter side of the city. You'll visit the Great Synagogue, a testament to the multicultural past, and stroll to the Jesuit and Bernardine monasteries. The day concludes with an evening walk through the streets, filled with the impressions of a city where history was written on every corner."
+        "en": "Your day in Piotrków Trybunalski begins in the historic market square, surrounded by colorful houses. From there, a short walk takes you to the Gothic St. James' Basilica. At noon, you'll explore the Royal Castle, now housing a fascinating museum, offering deep insights into Polish history. The afternoon is dedicated to the quieter side of the city. You'll visit the Great Synagogue, a testament to the multicultural past, and stroll to the Jesuit and Bernardine monasteries. The day concludes with an evening walk through the streets, filled with the impressions of a city where history was written on every corner.",
+        "pl": "Twój dzień w Piotrkowie Trybunalskim zaczyna się na zabytkowym rynku, otoczonym kolorowymi kamienicami. Stamtąd krótki spacer prowadzi do gotyckiej Bazyliki św. Jakuba. W południe zwiedzisz Zamek Królewski, dziś mieszczący fascynujące muzeum, oferujące wnikliwy obraz polskiej historii. Popołudnie poświęcone jest spokojniejszej stronie miasta. Odwiedzisz Wielką Synagogę, świadectwo wielokulturowej przeszłości, i przejdziesz się do klasztorów jezuitów i bernardynów. Dzień kończy się wieczornym spacerem po ulicach, pełen wrażeń miasta, gdzie historia pisana jest na każdym rogu."
       },
       "gastro_picks": {
         "de": [
@@ -335,6 +348,12 @@
           "Most attractions in the center are easily accessible on foot.",
           "Take time for lunch in one of the traditional restaurants.",
           "Check the opening hours of the museums in advance."
+        ],
+        "pl": [
+          "Noś wygodne buty, brukowane ulice na Starym Mieście mogą być nierówne.",
+          "Większość atrakcji w centrum jest łatwo dostępna pieszo.",
+          "Zarezerwuj czas na obiad w jednej z tradycyjnych restauracji.",
+          "Sprawdź godziny otwarcia muzeów wcześniej."
         ]
       },
       "variants": {
@@ -343,7 +362,8 @@
             "de": "Beginnen Sie am Marktplatz, wo die historischen Fassaden bei Regen besonders kontrastreich wirken. Der Vormittag gehört der St. Jakobus-Basilika, die trockenen Unterschlupf bietet.\n\nMittags besuchen Sie das Schlossmuseum, ideal um dem Regen für längere Zeit zu entkommen. Die Exponate erzählen die Geschichte der Stadt.\n\nNachmittags führt der Weg zur Großen Synagoge und zum Jesuitenkloster. Kurze Sprints zwischen den Gebäuden halten Sie trocken.\n\nDer Tag endet beim Bernhardinerkloster. Die reflektierenden Pfützen auf dem Kopfsteinpflaster bieten großartige Fotomotive.",
             "hu": "Kezdje a napot a Főtér patinás épületei között, az árkádok alatt védve az esőtől. A Szent Jakab-bazilika csendes és száraz menedéket nyújt a délelőtti záporban.\n\nDélben a Királyi Kastély múzeuma a legjobb választás, ahol órákat tölthet el fedett helyen, megismerve a város történelmét.\n\nDélután látogasson el a Nagy Zsinagógához és a jezsuita kolostorhoz. Az épületek közötti távolság rövid, esernyővel könnyen bejárható.\n\nA napot a bernátosok kolostoránál zárja. Az esti fények megcsillannak a vizes macskaköveken, különleges hangulatot árasztva.",
             "ro": "Începeți ziua în Piața Veche, folosind arcadele clădirilor istorice pentru a vă proteja de ploaie. Basilica Sf. Iacob este un refugiu perfect și uscat.\n\nLa prânz, Muzeul Castelului Regal oferă o experiență interioară prelungită, ferindu-vă de intemperii în timp ce explorați istoria locală.\n\nDupă-amiaza vizitați Marea Sinagogă și Mănăstirea Iezuită. Distanțele scurte dintre obiective fac plimbarea gestionabilă chiar și cu umbrelă.\n\nSeara se încheie la Mănăstirea Bernardină. Reflexiile luminilor în pavajul umed creează un decor melancolic și autentic.",
-            "en": "Start at the Market Square, utilizing the historic overhangs to stay dry. St. James' Basilica provides a peaceful, indoor retreat for the morning.\n\nAt noon, the Royal Castle Museum is the perfect spot to escape the rain for a few hours while diving into local history.\n\nIn the afternoon, head to the Great Synagogue and the Jesuit Monastery. The short walks between these sites are easy to manage with an umbrella.\n\nConclude your day at the Bernardine Monastery. The wet cobblestones reflect the evening lights, creating a unique atmosphere for photography."
+            "en": "Start at the Market Square, utilizing the historic overhangs to stay dry. St. James' Basilica provides a peaceful, indoor retreat for the morning.\n\nAt noon, the Royal Castle Museum is the perfect spot to escape the rain for a few hours while diving into local history.\n\nIn the afternoon, head to the Great Synagogue and the Jesuit Monastery. The short walks between these sites are easy to manage with an umbrella.\n\nConclude your day at the Bernardine Monastery. The wet cobblestones reflect the evening lights, creating a unique atmosphere for photography.",
+            "pl": "Zacznij na Rynku, korzystając z zabytkowych arkad, by pozostać suchym. Bazylika św. Jakuba to spokojne, kryte miejsce na poranek.\n\nW południe Muzeum Zamku Królewskiego to idealne miejsce, by przez kilka godzin uciec przed deszczem i zanurzyć się w lokalnej historii.\n\nPo południu udaj się do Wielkiej Synagogi i klasztoru jezuitów. Krótkie spacery między tymi miejscami łatwo pokonać z parasolem.\n\nZakończ dzień przy klasztorze bernardynów. Mokry bruk odbija wieczorne światła, tworząc wyjątkową atmosferę do zdjęć."
           },
           "stops": [
             {
@@ -352,7 +372,8 @@
                 "de": "Nutzen Sie die Hauseingänge und Arkaden als Regenschutz.",
                 "hu": "Használja a kapualjakat és az épületek kiugróit eső ellen.",
                 "ro": "Folosiți intrările clădirilor și arcadele pentru a rămâne uscat.",
-                "en": "Use the building entrances and arcades as rain shelter."
+                "en": "Use the building entrances and arcades as rain shelter.",
+                "pl": "Wykorzystaj wejścia do budynków i arkady jako schronienie przed deszczem."
               }
             },
             {
@@ -361,7 +382,8 @@
                 "de": "Die dicken Mauern halten die Feuchtigkeit draußen.",
                 "hu": "A vastag falak kívül tartják a nyirkos időt.",
                 "ro": "Zidurile groase țin umezeala afară.",
-                "en": "The thick walls keep the dampness outside."
+                "en": "The thick walls keep the dampness outside.",
+                "pl": "Grube mury trzymają wilgoć na zewnątrz."
               }
             },
             {
@@ -370,7 +392,8 @@
                 "de": "Planen Sie hier die längste Pause ein, wenn es stark regnet.",
                 "hu": "Ide tervezze a leghosszabb tartózkodást erős eső esetén.",
                 "ro": "Planificați cea mai lungă ședere aici dacă plouă tare.",
-                "en": "Plan your longest stay here if it rains heavily."
+                "en": "Plan your longest stay here if it rains heavily.",
+                "pl": "Planuj najdłuższy pobyt tutaj, jeśli mocno pada."
               }
             },
             {
@@ -379,7 +402,8 @@
                 "de": "Der Innenraum bietet faszinierende Details im trockenen Ambiente.",
                 "hu": "A belső tér lenyűgöző részleteket rejt száraz környezetben.",
                 "ro": "Interiorul oferă detalii fascinante într-un ambient uscat.",
-                "en": "The interior offers fascinating details in a dry setting."
+                "en": "The interior offers fascinating details in a dry setting.",
+                "pl": "Wnętrze oferuje fascynujące detale w suchym otoczeniu."
               }
             },
             {
@@ -388,7 +412,8 @@
                 "de": "Ein kurzer Sprint vom Parkplatz oder der Synagoge reicht.",
                 "hu": "Egy rövid futás a zsinagógától és már bent is van.",
                 "ro": "Un sprint scurt de la sinagogă este suficient.",
-                "en": "A short sprint from the synagogue is enough."
+                "en": "A short sprint from the synagogue is enough.",
+                "pl": "Krótki bieg od synagogi wystarczy."
               }
             },
             {
@@ -397,7 +422,8 @@
                 "de": "Genießen Sie die Ruhe in der Kirche, während es draußen regnet.",
                 "hu": "Élvezze a templom csendjét, miközben kint esik.",
                 "ro": "Bucurați-vă de liniștea bisericii în timp ce plouă afară.",
-                "en": "Enjoy the silence of the church while it rains outside."
+                "en": "Enjoy the silence of the church while it rains outside.",
+                "pl": "Ciesz się ciszą w kościele, gdy na zewnątrz pada deszcz."
               }
             }
           ],
@@ -425,6 +451,12 @@
               "A compact umbrella is more practical in the narrow streets.",
               "Market square cafes offer cozy spots by the window.",
               "Museums have cloakrooms for wet coats."
+            ],
+            "pl": [
+              "Noś wodoodporne buty ze względu na śliskie kostki brukowe.",
+              "Poręczny mały parasol jest praktyczniejszy na wąskich uliczkach.",
+              "Kawiarnie na Rynku oferują przytulne miejsca przy oknie.",
+              "Muzea mają szatnie na mokre płaszcze."
             ]
           }
         },
@@ -433,7 +465,8 @@
             "de": "Ein winterlicher Spaziergang durch Piotrków beginnt am frostigen Marktplatz. Die kühle Luft macht den Besuch der Basilika zu einem erfrischenden Erlebnis.\n\nMittags wärmen Sie sich im Schlossmuseum auf. Die dicken Steinmauern schützen vor dem Wind, und die Ausstellungen sind gut beheizt.\n\nNachmittags, wenn die Dämmerung früh einsetzt, leuchtet die Synagoge besonders stimmungsvoll. Die kurzen Wege zwischen den Klöstern sind bei Kälte ideal.\n\nDen Abend beschließen Sie bei den Klöstern. Die winterliche Beleuchtung der historischen Fassaden wirkt unter dem Sternenhimmel fast magisch.",
             "hu": "A téli séta a dérlepte Főtéren indul. A friss, hideg levegő után a Szent Jakab-bazilika belső tere áhítatos és hűvös nyugalmat áraszt.\n\nDélben melegedjen fel a Királyi Kastély múzeumában. A fűtött termek között barangolva elfelejtheti a kinti fagyot.\n\nDélután a korai sötétedés miatt a Nagy Zsinagóga fényei hamar felgyúlnak, különleges keretet adva a városnézésnek.\n\nA napot a kolostoroknál zárja. A téli díszkivilágítás a történelmi falakon igazi karácsonyi hangulatot idéz, még az ünnepek után is.",
             "ro": "O plimbare de iarnă începe în Piața Veche înghețată. Aerul rece face ca vizita la Basilica Sf. Iacob să fie o experiență revigorantă.\n\nLa prânz, încălziți-vă în Muzeul Castelului Regal. Sălile încălzite sunt un refugiu excelent împotriva vântului tăios de iarnă.\n\nDupă-amiaza, pe măsură ce se înserează devreme, Marea Sinagogă capătă o aură misterioasă sub lumina felinarelor.\n\nÎncheiați ziua la mănăstiri. Fațadele istorice iluminate festiv arată spectaculos în contrast cu cerul întunecat de iarnă.",
-            "en": "A winter stroll through Piotrków begins at the frosty Market Square. The crisp air makes the visit to St. James' Basilica a refreshing experience.\n\nAt noon, warm up in the Royal Castle Museum. The heated halls provide a welcome escape from the biting winter wind.\n\nIn the afternoon, as dusk sets in early, the Great Synagogue glows beautifully under the streetlights.\n\nFinish your day at the monasteries. The festive winter lighting on the historic facades looks magical against the dark evening sky."
+            "en": "A winter stroll through Piotrków begins at the frosty Market Square. The crisp air makes the visit to St. James' Basilica a refreshing experience.\n\nAt noon, warm up in the Royal Castle Museum. The heated halls provide a welcome escape from the biting winter wind.\n\nIn the afternoon, as dusk sets in early, the Great Synagogue glows beautifully under the streetlights.\n\nFinish your day at the monasteries. The festive winter lighting on the historic facades looks magical against the dark evening sky.",
+            "pl": "Zimowy spacer po Piotrkowie zaczyna się na mroźnym Rynku. Rześkie powietrze sprawia, że wizyta w Bazylice św. Jakuba jest odświeżającym przeżyciem.\n\nW południe rozgrzej się w Muzeum Zamku Królewskiego. Ogrzewane sale to miła ucieczka przed przenikliwym zimowym wiatrem.\n\nPo południu, gdy szybko zapada zmrok, Wielka Synagoga pięknie świeci pod ulicznymi latarniami.\n\nZakończ dzień przy klasztorach. Świąteczne zimowe oświetlenie na zabytkowych fasadach wygląda magicznie na tle ciemnego wieczornego nieba."
           },
           "stops": [
             {
@@ -442,7 +475,8 @@
                 "de": "Vorsicht vor glatten Stellen auf dem alten Pflaster.",
                 "hu": "Vigyázzon a jeges foltokra a régi kövezeten.",
                 "ro": "Atenție la porțiunile înghețate de pe pavaj.",
-                "en": "Watch out for icy spots on the old pavement."
+                "en": "Watch out for icy spots on the old pavement.",
+                "pl": "Uważaj na oblodzone fragmenty starej nawierzchni."
               }
             },
             {
@@ -451,7 +485,8 @@
                 "de": "Behalten Sie den Mantel an, Kirchen sind im Winter oft kühl.",
                 "hu": "Tartsa magán a kabátot, a templomok télen hűvösek.",
                 "ro": "Păstrați haina pe dvs., bisericile sunt reci iarna.",
-                "en": "Keep your coat on, churches are chilly in winter."
+                "en": "Keep your coat on, churches are chilly in winter.",
+                "pl": "Trzymaj płaszcz na sobie, kościoły są zimne zimą."
               }
             },
             {
@@ -460,7 +495,8 @@
                 "de": "Bester Ort, um die Hände an den Heizkörpern zu wärmen.",
                 "hu": "A legjobb hely, hogy felmelegedjen a fűtött termekben.",
                 "ro": "Cel mai bun loc pentru a vă încălzi în sălile primitoare.",
-                "en": "Best place to warm up in the heated exhibition rooms."
+                "en": "Best place to warm up in the heated exhibition rooms.",
+                "pl": "Najlepsze miejsce na rozgrzanie się to ogrzewane sale wystawowe."
               }
             },
             {
@@ -469,7 +505,8 @@
                 "de": "Die Beleuchtung im Inneren wirkt im Winter besonders warm.",
                 "hu": "A belső világítás télen különösen barátságosnak hat.",
                 "ro": "Lumina interioară pare deosebit de caldă pe timpul iernii.",
-                "en": "The interior lighting feels especially warm in winter."
+                "en": "The interior lighting feels especially warm in winter.",
+                "pl": "Wnętrzne oświetlenie wydaje się szczególnie ciepłe zimą."
               }
             },
             {
@@ -478,7 +515,8 @@
                 "de": "Kurze Wege zwischen den Sehenswürdigkeiten sparen Energie.",
                 "hu": "A látnivalók közötti rövid távok segítenek megőrizni a hőt.",
                 "ro": "Distanțele scurte între obiective ajută la păstrarea căldurii.",
-                "en": "Short distances between sights help conserve body heat."
+                "en": "Short distances between sights help conserve body heat.",
+                "pl": "Krótkie odległości między atrakcjami pomagają oszczędzać ciepło ciała."
               }
             },
             {
@@ -487,7 +525,8 @@
                 "de": "Ein heißer Tee danach in der Nähe ist sehr zu empfehlen.",
                 "hu": "Egy forró tea a közeli kávézóban kötelező a látogatás után.",
                 "ro": "Un ceai fierbinte în apropiere este recomandat după vizită.",
-                "en": "A hot tea nearby is highly recommended after the visit."
+                "en": "A hot tea nearby is highly recommended after the visit.",
+                "pl": "Po zwiedzaniu zdecydowanie polecam gorącą herbatę w pobliżu."
               }
             }
           ],
@@ -515,6 +554,12 @@
               "The sun sets around 4:00 PM, plan your photos earlier.",
               "Good gloves are essential for outdoor sightseeing.",
               "Watch out for snow removal vehicles in the narrow streets."
+            ],
+            "pl": [
+              "Ubieraj się na cebulkę przy przejściu między chłodem a ciepłem.",
+              "Słońce zachodzi około 16:00, zaplanuj zdjęcia wcześniej.",
+              "Dobre rękawice są niezbędne do zwiedzania na zewnątrz.",
+              "Uważaj na pojazdy odśnieżające na wąskich ulicach."
             ]
           }
         }
@@ -533,7 +578,8 @@
             "de": "Altstadt (Marktplatz)",
             "hu": "Óváros (Piactér)",
             "ro": "Centrul vechi (Piața Centrală)",
-            "en": "Old Town (Market Square)"
+            "en": "Old Town (Market Square)",
+            "pl": "Stare Miasto (Rynek)"
           },
           "coords": [
             19.7001,
@@ -548,7 +594,8 @@
             "de": "Schließen Sie Ihr Fahrrad sicher ab und erkunden Sie den Platz zu Fuß.",
             "hu": "Zárja le biztonságosan a kerékpárját, és fedezze fel a teret gyalog.",
             "ro": "Asigurați-vă bicicleta și explorați piața pe jos.",
-            "en": "Lock your bike securely and explore the square on foot."
+            "en": "Lock your bike securely and explore the square on foot.",
+            "pl": "Zabezpiecz rower solidnie i zwiedzaj rynek pieszo."
           }
         },
         {
@@ -556,7 +603,8 @@
             "de": "Königsschloss",
             "hu": "Királyi palota",
             "ro": "Castelul Regal",
-            "en": "Royal Castle"
+            "en": "Royal Castle",
+            "pl": "Zamek Królewski"
           },
           "coords": [
             19.6978,
@@ -571,7 +619,8 @@
             "de": "Das Museum im Schloss ist umfangreich, planen Sie genügend Zeit ein.",
             "hu": "A várban található múzeum kiterjedt, tervezzen elegendő időt.",
             "ro": "Muzeul din castel este extins, planificați suficient timp.",
-            "en": "The museum in the castle is extensive, so plan enough time."
+            "en": "The museum in the castle is extensive, so plan enough time.",
+            "pl": "Muzeum w zamku jest obszerne, zaplanuj wystarczająco dużo czasu."
           }
         },
         {
@@ -579,7 +628,8 @@
             "de": "Jakobsbasilika",
             "hu": "Szent Jakab-bazilika",
             "ro": "Bazilica Sf. Iacob",
-            "en": "St. James' Basilica"
+            "en": "St. James' Basilica",
+            "pl": "Bazylika św. Jakuba"
           },
           "coords": [
             19.7025,
@@ -594,7 +644,8 @@
             "de": "Ein schönes Beispiel gotischer Architektur, perfekt für eine kurze Pause.",
             "hu": "A gótikus építészet szép példája, tökéletes egy rövid pihenőre.",
             "ro": "Un exemplu frumos de arhitectură gotică, perfect pentru o scurtă pauză.",
-            "en": "A beautiful example of Gothic architecture, perfect for a short break."
+            "en": "A beautiful example of Gothic architecture, perfect for a short break.",
+            "pl": "Piękny przykład gotyku, idealny na krótką przerwę."
           }
         },
         {
@@ -602,7 +653,8 @@
             "de": "Bernardinerkloster",
             "hu": "Bernardin kolostor",
             "ro": "Mănăstirea Bernardină",
-            "en": "Bernardine Monastery"
+            "en": "Bernardine Monastery",
+            "pl": "Klasztor Bernardynów"
           },
           "coords": [
             19.6899,
@@ -617,7 +669,8 @@
             "de": "Etwas außerhalb des Zentrums, aber die Radtour dorthin ist angenehm.",
             "hu": "Kicsit a központon kívül, de a kerékpártúra oda kellemes.",
             "ro": "Puțin în afara centrului, dar plimbarea cu bicicleta până acolo este plăcută.",
-            "en": "A bit outside the center, but the bike ride there is pleasant."
+            "en": "A bit outside the center, but the bike ride there is pleasant.",
+            "pl": "Trochę poza centrum, ale przejażdżka rowerowa tam jest przyjemna."
           }
         },
         {
@@ -625,7 +678,8 @@
             "de": "Große Synagoge",
             "hu": "Nagy Zsinagóga",
             "ro": "Marea Sinagogă",
-            "en": "Great Synagogue"
+            "en": "Great Synagogue",
+            "pl": "Wielka Synagoga"
           },
           "coords": [
             19.6955,
@@ -640,7 +694,8 @@
             "de": "Die Architektur ist beeindruckend, auch wenn man nur von außen schaut.",
             "hu": "Az építészet lenyűgöző, még akkor is, ha csak kívülről nézi meg az ember.",
             "ro": "Arhitectura este impresionantă, chiar dacă o priviți doar din exterior.",
-            "en": "The architecture is impressive, even if you only look from the outside."
+            "en": "The architecture is impressive, even if you only look from the outside.",
+            "pl": "Architektura robi wrażenie, nawet jeśli oglądasz ją tylko z zewnątrz."
           }
         },
         {
@@ -648,7 +703,8 @@
             "de": "Denkmal des 25. Infanterieregiments",
             "hu": "A 25. gyalogezred emlékműve",
             "ro": "Monumentul Regimentului 25 Infanterie",
-            "en": "Monument to the 25th Infantry Regiment"
+            "en": "Monument to the 25th Infantry Regiment",
+            "pl": "Pomnik 25. Pułku Piechoty"
           },
           "coords": [
             19.715,
@@ -663,7 +719,8 @@
             "de": "Ein Moment des Innehaltens und der Reflexion über die lokale Geschichte.",
             "hu": "A megállás és a helyi történelemről való elmélkedés pillanata.",
             "ro": "Un moment de reculegere și reflecție asupra istoriei locale.",
-            "en": "A moment of pause and reflection on local history."
+            "en": "A moment of pause and reflection on local history.",
+            "pl": "Chwila zadumy i refleksji nad lokalną historią."
           }
         },
         {
@@ -671,7 +728,8 @@
             "de": "Jesuitenkloster",
             "hu": "Jezsuita kolostor",
             "ro": "Mănăstirea Iezuită",
-            "en": "Jesuit Monastery"
+            "en": "Jesuit Monastery",
+            "pl": "Klasztor Jezuitów"
           },
           "coords": [
             19.7041,
@@ -686,7 +744,8 @@
             "de": "Der letzte Halt des Tages, um die barocke Pracht zu bewundern.",
             "hu": "A nap utolsó állomása a barokk pompa megcsodálására.",
             "ro": "Ultima oprire a zilei pentru a admira splendoarea barocă.",
-            "en": "The last stop of the day to admire the baroque splendor."
+            "en": "The last stop of the day to admire the baroque splendor.",
+            "pl": "Ostatni przystanek dnia, by podziwiać barokowy splendor."
           }
         }
       ],
@@ -694,7 +753,8 @@
         "de": "Mit dem Fahrrad erkunden Sie Piotrków Trybunalski flexibel. Starten Sie am Marktplatz, bevor Sie zum Königsschloss radeln, wo Sie in die Geschichte eintauchen. Die Route führt Sie weiter zur gotischen Jakobsbasilika. Am Mittag machen Sie eine längere Tour zum ruhigen Bernardinerkloster, eine willkommene Abwechslung. Nach einer Mittagspause geht es weiter zur beeindruckenden Großen Synagoge und dann zu einem Moment des Gedenkens am Denkmal des 25. Infanterieregiments. Der Tag endet am Jesuitenkloster, bevor Sie gemütlich durch die Stadt zurückradeln.",
         "hu": "Kerékpárral rugalmasan fedezheti fel Piotrków Trybunalskit. Induljon a piactérről, mielőtt a királyi várhoz teker, ahol elmerülhet a történelemben. Az útvonal tovább vezet a gótikus Szent Jakab-bazilikához. Délben egy hosszabb túrát tesz a csendes Bernardin kolostorhoz, ami kellemes kikapcsolódást nyújt. Egy ebédszünet után továbbmegy a lenyűgöző Nagy Zsinagógához, majd egy megemlékezés pillanatára a 25. gyalogezred emlékművénél. A nap a jezsuita kolostornál ér véget, mielőtt kényelmesen visszateker a városba.",
         "ro": "Cu bicicleta, explorați Piotrków Trybunalski în mod flexibil. Începeți din Piața Centrală înainte de a pedala spre Castelul Regal, unde vă veți cufunda în istorie. Traseul vă duce mai departe la Bazilica gotică Sf. Iacob. La prânz, faceți un tur mai lung la liniștita Mănăstire Bernardină, o schimbare binevenită. După o pauză de prânz, continuați spre impresionanta Mare Sinagogă și apoi la un moment de reculegere la Monumentul Regimentului 25 Infanterie. Ziua se termină la Mănăstirea Iezuită înainte de a pedala agale înapoi prin oraș.",
-        "en": "Explore Piotrków Trybunalski flexibly by bike. Start at the Market Square before cycling to the Royal Castle to immerse yourself in history. The route continues to the Gothic St. James' Basilica. At noon, take a longer tour to the peaceful Bernardine Monastery, a welcome change of pace. After a lunch break, continue to the impressive Great Synagogue and then for a moment of remembrance at the Monument to the 25th Infantry Regiment. The day ends at the Jesuit Monastery before a leisurely ride back through the city."
+        "en": "Explore Piotrków Trybunalski flexibly by bike. Start at the Market Square before cycling to the Royal Castle to immerse yourself in history. The route continues to the Gothic St. James' Basilica. At noon, take a longer tour to the peaceful Bernardine Monastery, a welcome change of pace. After a lunch break, continue to the impressive Great Synagogue and then for a moment of remembrance at the Monument to the 25th Infantry Regiment. The day ends at the Jesuit Monastery before a leisurely ride back through the city.",
+        "pl": "Zwiedzaj Piotrków Trybunalski elastycznie na rowerze. Zacznij na Rynku, potem pojedź do Zamku Królewskiego, by zanurzyć się w historii. Trasa prowadzi dalej do gotyckiej Bazyliki św. Jakuba. W południe wybierz dłuższą wycieczkę do spokojnego klasztoru Bernardynów, miła zmiana tempa. Po przerwie na lunch kontynuuj do imponującej Wielkiej Synagogi, a potem na chwilę zadumy przy Pomniku 25. Pułku Piechoty. Dzień kończy się przy klasztorze Jezuitów przed spokojnym powrotem przez miasto."
       },
       "gastro_picks": {
         "de": [
@@ -838,6 +898,12 @@
           "Pay attention to traffic, especially outside the historic center.",
           "Some streets are cobbled, ride carefully.",
           "Bring a bottle of water with you."
+        ],
+        "pl": [
+          "Zawsze przypinaj rower do stałego obiektu.",
+          "Zwracaj uwagę na ruch drogowy, zwłaszcza poza historycznym centrum.",
+          "Niektóre ulice są brukowane, jedź ostrożnie.",
+          "Zabierz ze sobą butelkę wody."
         ]
       },
       "variants": {
@@ -846,7 +912,8 @@
             "de": "Radfahren im Regen erfordert Vorsicht am Marktplatz. Die Tour zum Schloss ist kurz, sodass man schnell wieder ins Trockene kommt.\n\nMittags radeln Sie zügig zur Basilika und zum Bernhardinerkloster. Die Straßen sind weniger belebt, was das Vorankommen erleichtert.\n\nNachmittags geht es zur Synagoge und zum Infanteriedenkmal. Regenjacken sind hier ein Muss, um die Fahrt zu genießen.\n\nDie Tour endet am Jesuitenkloster. Ein schneller Ritt durch die Altstadt schließt den nassen, aber dynamischen Tag ab.",
             "hu": "Az esős biciklizés óvatosságot igényel a Főtéren. A kastélyhoz vezető út rövid, így hamar fedett helyre érhet.\n\nDélben tekerjen át a bazilikához és a bernátosokhoz. Az utcák ilyenkor üresebbek, gyorsabban haladhat a látnivalók között.\n\nDélután látogassa meg a zsinagógát és a 25. gyalogezred emlékművét. A vízálló öltözet elengedhetetlen a kényelemhez.\n\nA túra a jezsuita kolostornál ér véget. Egy gyors tekerés az óvároson át lezárja ezt a vizes, de sportos napot.",
             "ro": "Ciclismul pe ploaie necesită atenție în Piața Veche. Drumul spre castel este scurt, permițându-vă să ajungeți rapid la adăpost.\n\nLa prânz, pedalați spre basilică și mănăstirea bernardină. Străzile sunt mai libere, facilitând deplasarea între obiective.\n\nDupă-amiaza vizitați sinagoga și monumentul infanteriei. Hainele de ploaie sunt obligatorii pentru a vă bucura de traseu.\n\nTurul se încheie la mănăstirea iezuită. O cursă rapidă prin centrul vechi finalizează această zi umedă, dar dinamică.",
-            "en": "Cycling in the rain requires caution at the Market Square. The trip to the castle is short, so you can reach shelter quickly.\n\nAt noon, pedal briskly to the basilica and the Bernardine monastery. The streets are less crowded, making it easier to move between sites.\n\nIn the afternoon, visit the synagogue and the infantry monument. Waterproof gear is a must to enjoy the ride.\n\nThe tour ends at the Jesuit monastery. A quick ride through the Old Town concludes this wet but dynamic day."
+            "en": "Cycling in the rain requires caution at the Market Square. The trip to the castle is short, so you can reach shelter quickly.\n\nAt noon, pedal briskly to the basilica and the Bernardine monastery. The streets are less crowded, making it easier to move between sites.\n\nIn the afternoon, visit the synagogue and the infantry monument. Waterproof gear is a must to enjoy the ride.\n\nThe tour ends at the Jesuit monastery. A quick ride through the Old Town concludes this wet but dynamic day.",
+            "pl": "Jazda rowerem w deszczu wymaga ostrożności przy Rynku. Podróż do zamku jest krótka, więc szybko znajdziesz schronienie.\n\nW południe pedałuj energicznie do bazyliki i klasztoru bernardynów. Ulice są mniej zatłoczone, co ułatwia poruszanie się między atrakcjami.\n\nPo południu odwiedź synagogę i pomnik piechoty. Wodoodporne ubranie to konieczność, by cieszyć się przejażdżką.\n\nTrasa kończy się przy klasztorze jezuitów. Szybka przejażdżka przez Stare Miasto zamyka ten mokry, lecz dynamiczny dzień."
           },
           "stops": [
             {
@@ -855,7 +922,8 @@
                 "de": "Vorsicht, nasses Kopfsteinpflaster ist für Reifen sehr rutschig.",
                 "hu": "Vigyázat, a vizes macskakő nagyon csúszik a gumiknak.",
                 "ro": "Atenție, pavajul umed este foarte alunecos pentru cauciucuri.",
-                "en": "Caution, wet cobblestones are very slippery for tires."
+                "en": "Caution, wet cobblestones are very slippery for tires.",
+                "pl": "Uwaga, mokre kostki brukowe są bardzo śliskie dla opon."
               }
             },
             {
@@ -864,7 +932,8 @@
                 "de": "Stellen Sie das Rad unter einem Vordach am Eingang ab.",
                 "hu": "Támassza le a biciklit az emeleti bejárat alatti védett részen.",
                 "ro": "Parcați bicicleta sub o copertină la intrare.",
-                "en": "Park your bike under an overhang at the entrance."
+                "en": "Park your bike under an overhang at the entrance.",
+                "pl": "Zaparkuj rower pod zadaszeniem przy wejściu."
               }
             },
             {
@@ -873,7 +942,8 @@
                 "de": "Nutzen Sie den Halt für eine kurze Trocknungspause.",
                 "hu": "Használja ki a megállót egy rövid száradásra.",
                 "ro": "Folosiți oprirea pentru o scurtă pauză de uscare.",
-                "en": "Use the stop for a short drying break."
+                "en": "Use the stop for a short drying break.",
+                "pl": "Skorzystaj z postoju na krótką przerwę suszącą."
               }
             },
             {
@@ -882,7 +952,8 @@
                 "de": "Achten Sie auf Pfützen in den Kurven.",
                 "hu": "Ügyeljen a tócsákra a kanyarokban.",
                 "ro": "Fiți atenți la bălți în curbe.",
-                "en": "Watch out for puddles in the turns."
+                "en": "Watch out for puddles in the turns.",
+                "pl": "Uważaj na kałuże w zakrętach."
               }
             },
             {
@@ -891,7 +962,8 @@
                 "de": "Fahrradständer sind oft ungeschützt, Kette gut ölen.",
                 "hu": "A tárolók gyakran fedetlenek, olajozza meg jól a láncot.",
                 "ro": "Suporturile sunt deseori neprotejate, ungeți bine lanțul.",
-                "en": "Bike racks are often exposed, oil your chain well."
+                "en": "Bike racks are often exposed, oil your chain well.",
+                "pl": "Stojaki rowerowe często są odsłonięte, dobrze nasmaruj łańcuch."
               }
             },
             {
@@ -900,7 +972,8 @@
                 "de": "Ein kurzes Foto im Regen und schnell weiter.",
                 "hu": "Csak egy gyors fotó az esőben, és tekerjen is tovább.",
                 "ro": "Doar o poză rapidă în ploaie și pedalați mai departe.",
-                "en": "Just a quick photo in the rain and move on."
+                "en": "Just a quick photo in the rain and move on.",
+                "pl": "Tylko szybkie zdjęcie w deszczu i jedź dalej."
               }
             },
             {
@@ -909,7 +982,8 @@
                 "de": "Suchen Sie nach der Tour ein warmes Lokal zum Aufwärmen.",
                 "hu": "A túra után keressen egy meleg helyet a felengedéshez.",
                 "ro": "După tur, căutați un local cald pentru a vă dezmorți.",
-                "en": "After the tour, find a warm place to thaw out."
+                "en": "After the tour, find a warm place to thaw out.",
+                "pl": "Po wycieczce znajdź ciepłe miejsce, by się ogrzać."
               }
             }
           ],
@@ -937,6 +1011,12 @@
               "Mudguards are indispensable in this weather.",
               "Avoid sudden turns on road markings.",
               "Waterproof panniers will protect your gear."
+            ],
+            "pl": [
+              "Sprawdź hamulce, droga hamowania jest dłuższa w deszczu.",
+              "Błotniki są niezbędne w taką pogodę.",
+              "Unikaj gwałtownych skrętów na oznakowaniach drogowych.",
+              "Wodoodporne sakwy ochronią twoje rzeczy."
             ]
           }
         },
@@ -945,7 +1025,8 @@
             "de": "Winter-Biking in Piotrków beginnt mit einer frostigen Runde um den Markt. Die kalte Luft belebt, während man zum Schloss fährt.\n\nMittags führt die Route zur Basilika und zum Bernhardinerkloster. Achten Sie auf festgefahrenen Schnee in den Nebenstraßen.\n\nNachmittags erreichen Sie die Synagoge und das Denkmal. Die tiefstehende Wintersonne wirft lange Schatten auf die Radwege.\n\nDie Tour endet am Jesuitenkloster. Die kalte Abendluft sorgt für eine schnelle Rückfahrt zum Aufwärmen.",
             "hu": "A téli bringázás egy fagyos körrel indul a piacon. A hideg levegő frissítő, miközben a kastély felé teker.\n\nDélben az út a bazilikához és a bernátosokhoz vezet. Ügyeljen a letaposott hóra a mellékutcákban.\n\nDélután érje el a zsinagógát és az emlékművet. Az alacsonyan járó téli nap hosszú árnyékokat vet a bicikliutakra.\n\nA túra a jezsuita kolostornál zárul. A fagyos esti levegő gyors hazatekerésre ösztönöz egy forró ital reményében.",
             "ro": "Ciclismul de iarnă începe cu o tură înghețată în jurul pieței. Aerul rece revigorează în timp ce pedalați spre castel.\n\nLa prânz, traseul duce la basilică și mănăstire. Atenție la zăpada bătătorită de pe străzile secundare.\n\nDupă-amiaza ajungeți la sinagogă și monument. Soarele jos de iarnă aruncă umbre lungi pe pistele de biciclete.\n\nTurul se încheie la mănăstirea iezuită. Aerul rece de seară vă va face să pedalați rapid spre un loc cald.",
-            "en": "Winter biking starts with a frosty loop around the market. The cold air is invigorating as you ride towards the castle.\n\nAt noon, the route leads to the basilica and the monastery. Watch out for packed snow in the side streets.\n\nIn the afternoon, reach the synagogue and the monument. The low winter sun casts long shadows across the bike paths.\n\nThe tour ends at the Jesuit monastery. The freezing evening air will push you to ride fast towards a warm spot."
+            "en": "Winter biking starts with a frosty loop around the market. The cold air is invigorating as you ride towards the castle.\n\nAt noon, the route leads to the basilica and the monastery. Watch out for packed snow in the side streets.\n\nIn the afternoon, reach the synagogue and the monument. The low winter sun casts long shadows across the bike paths.\n\nThe tour ends at the Jesuit monastery. The freezing evening air will push you to ride fast towards a warm spot.",
+            "pl": "Zimowa jazda rowerem zaczyna się od mroźnej pętli wokół rynku. Chłodne powietrze pobudza, gdy jedziesz w stronę zamku.\n\nW południe trasa prowadzi do bazyliki i klasztoru. Uważaj na ubity śnieg na bocznych uliczkach.\n\nPo południu dotrzesz do synagogi i pomnika. Niskie zimowe słońce rzuca długie cienie na ścieżki rowerowe.\n\nWycieczka kończy się przy klasztorze jezuitów. Mróz wieczorny zmotywuje cię do szybszej jazdy w kierunku ciepłego miejsca."
           },
           "stops": [
             {
@@ -954,7 +1035,8 @@
                 "de": "Vorsicht vor Eis unter dem Neuschnee.",
                 "hu": "Vigyázzon a hó alatti jégrétegre.",
                 "ro": "Atenție la gheața ascunsă sub zăpada proaspătă.",
-                "en": "Watch out for ice hidden under fresh snow."
+                "en": "Watch out for ice hidden under fresh snow.",
+                "pl": "Uważaj na lód ukryty pod świeżym śniegiem."
               }
             },
             {
@@ -963,7 +1045,8 @@
                 "de": "Schütteln Sie den Schnee vom Sattel, bevor Sie parken.",
                 "hu": "Rázza le a havat a nyeregről parkolás előtt.",
                 "ro": "Scuturați zăpada de pe șa înainte de parcare.",
-                "en": "Shake the snow off the saddle before parking."
+                "en": "Shake the snow off the saddle before parking.",
+                "pl": "Strząśnij śnieg z siodełka przed zaparkowaniem."
               }
             },
             {
@@ -972,7 +1055,8 @@
                 "de": "Metall-Fahrradständer können sehr kalt und rutschig sein.",
                 "hu": "A fém tárolók nagyon hidegek és csúszósak lehetnek.",
                 "ro": "Suporturile de metal pot fi foarte reci și alunecoase.",
-                "en": "Metal bike racks can be very cold and slippery."
+                "en": "Metal bike racks can be very cold and slippery.",
+                "pl": "Metalowe stojaki rowerowe mogą być bardzo zimne i śliskie."
               }
             },
             {
@@ -981,7 +1065,8 @@
                 "de": "Treten Sie gleichmäßig, um auf Glätte nicht wegzurutschen.",
                 "hu": "Tekerjen egyenletesen, hogy ne csússzon meg a jégen.",
                 "ro": "Pedalați constant pentru a nu aluneca pe gheață.",
-                "en": "Pedal steadily to avoid slipping on icy patches."
+                "en": "Pedal steadily to avoid slipping on icy patches.",
+                "pl": "Pedałuj równo, by uniknąć poślizgu na oblodzonych fragmentach."
               }
             },
             {
@@ -990,7 +1075,8 @@
                 "de": "Die Dämmerung macht Reflektoren am Rad lebenswichtig.",
                 "hu": "A szürkületben a prizmák és lámpák életmentőek.",
                 "ro": "Amurgul face ca reflectoarele să fie vitale.",
-                "en": "Dusk makes reflectors and lights vital for safety."
+                "en": "Dusk makes reflectors and lights vital for safety.",
+                "pl": "Zmrok sprawia, że odblaski i światła są niezbędne dla bezpieczeństwa."
               }
             },
             {
@@ -999,7 +1085,8 @@
                 "de": "Ein kurzer Stopp reicht bei den frostigen Temperaturen.",
                 "hu": "Egy rövid megálló elég ebben a fagyos időben.",
                 "ro": "O oprire scurtă este suficientă la aceste temperaturi.",
-                "en": "A short stop is enough in these freezing temperatures."
+                "en": "A short stop is enough in these freezing temperatures.",
+                "pl": "Krótki postój wystarczy w tych mroźnych temperaturach."
               }
             },
             {
@@ -1008,7 +1095,8 @@
                 "de": "Gefrorene Schlösser können mit Enteiser geöffnet werden.",
                 "hu": "A befagyott lakatokat jégoldóval nyithatja ki.",
                 "ro": "Lacătele înghețate pot fi deschise cu degivrant.",
-                "en": "Frozen locks can be opened with a de-icer spray."
+                "en": "Frozen locks can be opened with a de-icer spray.",
+                "pl": "Zamrożone zamki otworzysz sprejem do odmrażania."
               }
             }
           ],
@@ -1036,6 +1124,12 @@
               "Thermal gloves and warm socks are mandatory.",
               "Clean road salt off your bike after the ride.",
               "Cold temperatures reduce battery life on e-bikes."
+            ],
+            "pl": [
+              "Nieco obniż ciśnienie w oponach dla lepszej przyczepności na śniegu.",
+              "Rękawice termiczne i ciepłe skarpety są obowiązkowe.",
+              "Po jeździe oczyść rower z soli drogowej.",
+              "Niskie temperatury skracają żywotność baterii w rowerach elektrycznych."
             ]
           }
         }
@@ -1054,7 +1148,8 @@
             "de": "Parkplatz nahe Altstadt",
             "hu": "Parkoló az Óváros közelében",
             "ro": "Parcare lângă Centrul Vechi",
-            "en": "Parking near Old Town"
+            "en": "Parking near Old Town",
+            "pl": "Parkowanie przy Starym Mieście"
           },
           "coords": [
             19.698,
@@ -1069,7 +1164,8 @@
             "de": "Parken Sie hier für den Vormittag. Das historische Zentrum ist zu Fuß erreichbar.",
             "hu": "Parkoljon itt a délelőttre. A történelmi központ gyalogosan is elérhető.",
             "ro": "Parcați aici pentru dimineață. Centrul istoric este accesibil pe jos.",
-            "en": "Park here for the morning. The historic center is within walking distance."
+            "en": "Park here for the morning. The historic center is within walking distance.",
+            "pl": "Zaparkuj tu na poranek. Historyczne centrum jest w zasięgu spaceru."
           }
         },
         {
@@ -1077,7 +1173,8 @@
             "de": "Altstadt & Jakobsbasilika",
             "hu": "Óváros és Szent Jakab-bazilika",
             "ro": "Centrul Vechi și Bazilica Sf. Iacob",
-            "en": "Old Town & St. James' Basilica"
+            "en": "Old Town & St. James' Basilica",
+            "pl": "Stare Miasto i Bazylika św. Jakuba"
           },
           "coords": [
             19.7001,
@@ -1092,7 +1189,8 @@
             "de": "Erkunden Sie den Platz und die beeindruckende Kirche in einem Spaziergang.",
             "hu": "Fedezze fel a teret és a lenyűgöző templomot egy séta során.",
             "ro": "Explorați piața și biserica impresionantă într-o singură plimbare.",
-            "en": "Explore the square and the impressive church in one walk."
+            "en": "Explore the square and the impressive church in one walk.",
+            "pl": "Zwiedź rynek i imponujący kościół podczas jednego spaceru."
           }
         },
         {
@@ -1100,7 +1198,8 @@
             "de": "Königsschloss und Museum",
             "hu": "Királyi palota és Múzeum",
             "ro": "Castelul Regal și Muzeul",
-            "en": "Royal Castle and Museum"
+            "en": "Royal Castle and Museum",
+            "pl": "Zamek Królewski i Muzeum"
           },
           "coords": [
             19.6978,
@@ -1115,7 +1214,8 @@
             "de": "Ein kurzer Spaziergang vom Marktplatz. Planen Sie viel Zeit für das Museum ein.",
             "hu": "Rövid séta a piactérről. Tervezzen sok időt a múzeumra.",
             "ro": "O scurtă plimbare de la Piața Centrală. Planificați mult timp pentru muzeu.",
-            "en": "A short walk from the Market Square. Plan plenty of time for the museum."
+            "en": "A short walk from the Market Square. Plan plenty of time for the museum.",
+            "pl": "Krótki spacer z Rynku. Zarezerwuj dużo czasu na muzeum."
           }
         },
         {
@@ -1123,7 +1223,8 @@
             "de": "Bernardinerkloster & Große Synagoge",
             "hu": "Bernardin kolostor és Nagy Zsinagóga",
             "ro": "Mănăstirea Bernardină și Marea Sinagogă",
-            "en": "Bernardine Monastery & Great Synagogue"
+            "en": "Bernardine Monastery & Great Synagogue",
+            "pl": "Klasztor Bernardynów i Wielka Synagoga"
           },
           "coords": [
             19.6899,
@@ -1138,7 +1239,8 @@
             "de": "Fahren Sie zu diesem Cluster und erkunden Sie die beiden Sehenswürdigkeiten zu Fuß.",
             "hu": "Vezessen ehhez a csoporthoz, és fedezze fel a két látnivalót gyalog.",
             "ro": "Conduceți la acest grup de obiective și explorați cele două atracții pe jos.",
-            "en": "Drive to this cluster and explore both sights on foot."
+            "en": "Drive to this cluster and explore both sights on foot.",
+            "pl": "Podjedź tu i zwiedź obie atrakcje pieszo."
           }
         },
         {
@@ -1146,7 +1248,8 @@
             "de": "Denkmal des 25. Infanterieregiments",
             "hu": "A 25. gyalogezred emlékműve",
             "ro": "Monumentul Regimentului 25 Infanterie",
-            "en": "Monument to the 25th Infantry Regiment"
+            "en": "Monument to the 25th Infantry Regiment",
+            "pl": "Pomnik 25. Pułku Piechoty"
           },
           "coords": [
             19.715,
@@ -1161,7 +1264,8 @@
             "de": "Ein kurzer Halt mit dem Auto, um dieses wichtige lokale Denkmal zu sehen.",
             "hu": "Rövid megálló autóval, hogy megnézze ezt a fontos helyi emlékművet.",
             "ro": "O oprire scurtă cu mașina pentru a vedea acest important monument local.",
-            "en": "A short stop by car to see this important local monument."
+            "en": "A short stop by car to see this important local monument.",
+            "pl": "Krótki postój samochodem, by zobaczyć ten ważny lokalny pomnik."
           }
         },
         {
@@ -1169,7 +1273,8 @@
             "de": "Jesuitenkloster",
             "hu": "Jezsuita kolostor",
             "ro": "Mănăstirea Iezuită",
-            "en": "Jesuit Monastery"
+            "en": "Jesuit Monastery",
+            "pl": "Klasztor Jezuitów"
           },
           "coords": [
             19.7041,
@@ -1184,7 +1289,8 @@
             "de": "Parken Sie in der Nähe und beenden Sie den Tag mit diesem barocken Juwel.",
             "hu": "Parkoljon a közelben, és fejezze be a napot ezzel a barokk gyöngyszemmel.",
             "ro": "Parcați în apropiere și încheiați ziua cu această bijuterie barocă.",
-            "en": "Park nearby and end the day with this baroque jewel."
+            "en": "Park nearby and end the day with this baroque jewel.",
+            "pl": "Zaparkuj w pobliżu i zakończ dzień przy tym barokowym klejnocie."
           }
         }
       ],
@@ -1192,7 +1298,8 @@
         "de": "Mit dem Auto erkunden Sie Piotrków Trybunalski effizient. Parken Sie morgens nahe der Altstadt und entdecken Sie das historische Herz zu Fuß: den Marktplatz, die Jakobsbasilika und das Königsschloss. Nach dem Mittagessen fahren Sie zum nächsten Cluster, dem Bernardinerkloster und der Großen Synagoge, die Sie ebenfalls zu Fuß erkunden. Am Nachmittag machen Sie einen kurzen Autostopp am Denkmal des 25. Infanterieregiments. Den Abschluss bildet ein Besuch im Jesuitenkloster, bevor Sie den Tag bei einem Abendessen ausklingen lassen.",
         "hu": "Autóval hatékonyan fedezheti fel Piotrków Trybunalskit. Reggel parkoljon az óváros közelében, és fedezze fel gyalog a történelmi központot: a piacteret, a Szent Jakab-bazilikát és a királyi várat. Ebéd után vezessen a következő csoporthoz, a Bernardin kolostorhoz és a Nagy Zsinagógához, amelyeket szintén gyalogosan fedezhet fel. Délután tegyen egy rövid autós megállót a 25. gyalogezred emlékművénél. A napot a jezsuita kolostor meglátogatásával zárja, mielőtt egy vacsorával fejezi be a napot.",
         "ro": "Cu mașina, explorați Piotrków Trybunalski eficient. Parcați dimineața lângă Centrul Vechi și descoperiți inima istorică pe jos: Piața Centrală, Bazilica Sf. Iacob și Castelul Regal. După prânz, conduceți la următorul grup de obiective, Mănăstirea Bernardină și Marea Sinagogă, pe care le explorați tot pe jos. După-amiaza, faceți o scurtă oprire cu mașina la Monumentul Regimentului 25 Infanterie. Ziua se încheie cu o vizită la Mănăstirea Iezuită, înainte de a încheia ziua cu o cină.",
-        "en": "Explore Piotrków Trybunalski efficiently by car. Park near the Old Town in the morning and discover the historic heart on foot: the Market Square, St. James' Basilica, and the Royal Castle. After lunch, drive to the next cluster, the Bernardine Monastery and the Great Synagogue, which you will also explore on foot. In the afternoon, make a short car stop at the Monument to the 25th Infantry Regiment. The day concludes with a visit to the Jesuit Monastery before ending the day with dinner."
+        "en": "Explore Piotrków Trybunalski efficiently by car. Park near the Old Town in the morning and discover the historic heart on foot: the Market Square, St. James' Basilica, and the Royal Castle. After lunch, drive to the next cluster, the Bernardine Monastery and the Great Synagogue, which you will also explore on foot. In the afternoon, make a short car stop at the Monument to the 25th Infantry Regiment. The day concludes with a visit to the Jesuit Monastery before ending the day with dinner.",
+        "pl": "Zwiedzaj Piotrków Trybunalski sprawnie samochodem. Rano zaparkuj blisko Starego Miasta i odkrywaj historyczne serce pieszo: Rynek, Bazylikę św. Jakuba i Zamek Królewski. Po lunchu podjedź do kolejnego skupiska atrakcji — klasztoru Bernardynów i Wielkiej Synagogi, które też zwiedzisz pieszo. Po południu zrób krótki postój samochodem przy Pomniku 25. Pułku Piechoty. Dzień kończy wizyta w klasztorze jezuitów przed kolacją."
       },
       "gastro_picks": {
         "de": [
@@ -1300,6 +1407,12 @@
           "Parking in the center can be difficult, so plan accordingly.",
           "Be aware of one-way streets in the Old Town.",
           "The cluster-walking method saves time and parking fees."
+        ],
+        "pl": [
+          "Szukaj wyznaczonych miejsc parkingowych (płatny parking).",
+          "Parkowanie w centrum może być trudne, zaplanuj to wcześniej.",
+          "Zwróć uwagę na ulice jednokierunkowe w Starym Mieście.",
+          "Metoda zwiedzania „klastrowego” oszczędza czas i opłaty parkingowe."
         ]
       },
       "variants": {
@@ -1308,7 +1421,8 @@
             "de": "Mit dem Auto erkunden Sie Piotrków komfortabel trotz Regen. Das Parken nahe der Altstadt ermöglicht einen trockenen Start.\n\nMittags steuern Sie das Schlossmuseum an. Parkplätze direkt am Gebäude minimieren die Zeit im Freien.\n\nNachmittags geht es zum Bernhardinerkloster und zur Synagoge. Die Fahrt bietet eine Pause von der Nässe.\n\nDer Tag endet am Jesuitenkloster. Die Scheibenwischer sorgen für klare Sicht auf die beleuchteten Denkmäler der Stadt.",
             "hu": "Autóval az eső ellenére is kényelmesen felfedezheti a várost. Az óváros közeli parkoló száraz indulást biztosít.\n\nDélben irány a Királyi Kastély. A közvetlen közelben lévő parkolóhelyek lerövidítik az esőben töltött időt.\n\nDélután látogassa meg a kolostorokat és a zsinagógát. Az autó meleg és száraz menedéket nyújt a helyszínek között.\n\nA nap a jezsuita kolostornál zárul. Az ablaktörlők mögül is jól látszanak a város kivilágított műemlékei.",
             "ro": "Cu mașina, explorați orașul confortabil în ciuda ploii. Parcarea de lângă centrul vechi vă asigură un start uscat.\n\nLa prânz, conduceți spre Castelul Regal. Locurile de parcare din apropiere reduc timpul petrecut în ploaie.\n\nDupă-amiaza vizitați mănăstirile și sinagoga. Mașina oferă un refugiu cald între obiectivele turistice.\n\nZiua se încheie la mănăstirea iezuită. Ștergătoarele vă oferă o vedere clară asupra monumentelor iluminate.",
-            "en": "By car, you can explore Piotrków comfortably despite the rain. Parking near the Old Town ensures a dry start to your tour.\n\nAt noon, head to the Royal Castle. Parking spots right by the building minimize your time out in the rain.\n\nIn the afternoon, visit the monasteries and the synagogue. The car provides a warm and dry shelter between stops.\n\nThe day concludes at the Jesuit monastery. Your wipers will provide a clear view of the city's illuminated monuments."
+            "en": "By car, you can explore Piotrków comfortably despite the rain. Parking near the Old Town ensures a dry start to your tour.\n\nAt noon, head to the Royal Castle. Parking spots right by the building minimize your time out in the rain.\n\nIn the afternoon, visit the monasteries and the synagogue. The car provides a warm and dry shelter between stops.\n\nThe day concludes at the Jesuit monastery. Your wipers will provide a clear view of the city's illuminated monuments.",
+            "pl": "Samochodem zwiedzisz Piotrków wygodnie mimo deszczu. Parkowanie przy Starym Mieście zapewnia suchy start wycieczki.\n\nW południe udaj się do Zamku Królewskiego. Miejsca parkingowe tuż przy budynku minimalizują czas na deszczu.\n\nPo południu odwiedź klasztory i synagogę. Samochód daje ciepłe i suche schronienie między przystankami.\n\nDzień kończy się przy klasztorze jezuitów. Twoje wycieraczki zapewnią klarowny widok na oświetlone zabytki miasta."
           },
           "stops": [
             {
@@ -1317,7 +1431,8 @@
                 "de": "Suchen Sie Plätze mit festem Untergrund, um Schlamm zu vermeiden.",
                 "hu": "Keressen szilárd burkolatú helyet a sár elkerülésére.",
                 "ro": "Căutați locuri cu suprafață solidă pentru a evita noroiul.",
-                "en": "Look for paved parking spots to avoid mud."
+                "en": "Look for paved parking spots to avoid mud.",
+                "pl": "Szukaj utwardzonych miejsc parkingowych, by uniknąć błota."
               }
             },
             {
@@ -1326,7 +1441,8 @@
                 "de": "Kurzer Fußweg vom Parkplatz, Schirm griffbereit halten.",
                 "hu": "Rövid séta a parkolótól, tartsa készenlétben az ernyőt.",
                 "ro": "Drum scurt de la parcare, țineți umbrela la îndemână.",
-                "en": "Short walk from the parking, keep your umbrella ready."
+                "en": "Short walk from the parking, keep your umbrella ready.",
+                "pl": "Krótki spacer z parkingu, miej parasol pod ręką."
               }
             },
             {
@@ -1335,7 +1451,8 @@
                 "de": "Parken Sie direkt am Eingangstor für minimalen Regen-Kontakt.",
                 "hu": "Parkoljon közvetlenül a kapunál a minimális ázás érdekében.",
                 "ro": "Parcați chiar lângă poartă pentru a nu vă uda.",
-                "en": "Park right by the gate for minimum rain exposure."
+                "en": "Park right by the gate for minimum rain exposure.",
+                "pl": "Parkuj tuż przy bramie, by ograniczyć ekspozycję na deszcz."
               }
             },
             {
@@ -1344,7 +1461,8 @@
                 "de": "Die Straßen hier sind eng, achten Sie auf Fußgänger mit Schirmen.",
                 "hu": "Szűk utcák, ügyeljen az esernyős gyalogosokra.",
                 "ro": "Străzi înguste, atenție la pietonii cu umbrele.",
-                "en": "Narrow streets, watch out for pedestrians with umbrellas."
+                "en": "Narrow streets, watch out for pedestrians with umbrellas.",
+                "pl": "Wąskie uliczki — uważaj na pieszych z parasolami."
               }
             },
             {
@@ -1353,7 +1471,8 @@
                 "de": "Vom Auto aus gut sichtbar, falls es zu stark regnet.",
                 "hu": "Az autóból is jól látható, ha túl erősen esne.",
                 "ro": "Vizibil bine din mașină dacă plouă prea tare.",
-                "en": "Well visible from the car if the rain is too heavy."
+                "en": "Well visible from the car if the rain is too heavy.",
+                "pl": "Dobrze widoczne z samochodu, jeśli deszcz będzie zbyt silny."
               }
             },
             {
@@ -1362,7 +1481,8 @@
                 "de": "Beleuchtung wirkt durch die regennassen Scheiben besonders hell.",
                 "hu": "A vizes szélvédőn át a fények különösen ragyogóak.",
                 "ro": "Luminile par deosebit de strălucitoare prin parbrizul umed.",
-                "en": "Lights look especially bright through the wet windshield."
+                "en": "Lights look especially bright through the wet windshield.",
+                "pl": "Światła wyglądają szczególnie jasno przez mokrą szybę."
               }
             }
           ],
@@ -1390,6 +1510,12 @@
               "Use parking apps to avoid standing at meters in the rain.",
               "Keep a cloth handy for defogging the windows.",
               "Check the condition of your wipers before you start."
+            ],
+            "pl": [
+              "Uważaj na aquaplaning na głównych dojazdach.",
+              "Korzystaj z aplikacji parkingowych, by unikać stania przy parkometrach w deszczu.",
+              "Miej pod ręką ściereczkę do odparowywania szyb.",
+              "Sprawdź stan wycieraczek przed wyjazdem."
             ]
           }
         },
@@ -1398,7 +1524,8 @@
             "de": "Eine winterliche Autofahrt durch Piotrków bietet Wärme und Panorama. Der Start erfolgt am Parkplatz nahe der frostigen Altstadt.\n\nMittags besuchen Sie das Schloss und die Basilika. Die Sitzheizung macht die kurzen Fahrten zwischen den Monumenten angenehm.\n\nNachmittags steuern Sie das Denkmal und die Synagoge an. Die verschneiten Straßen verleihen der Stadt einen besonderen Charme.\n\nDer Tag endet am Jesuitenkloster. Die Scheinwerfer beleuchten die glitzernden Eiskristalle an den historischen Mauern.",
             "hu": "A téli autózás melegséget és panorámát kínál Piotrkówban. A túra a fagyos óváros melletti parkolóból indul.\n\nDélben látogassa meg a kastélyt és a bazilikát. Az ülésfűtés kellemessé teszi a rövid utakat a műemlékek között.\n\nDélután vegye az irányt az emlékmű és a zsinagóga felé. A havas utcák különleges bájt kölcsönöznek a városnak.\n\nA nap a jezsuita kolostornál ér véget. A fényszórók megvilágítják a történelmi falakon szikrázó jégkristályokat.",
             "ro": "O călătorie de iarnă cu mașina oferă căldură și o panoramă superbă. Startul este în parcarea de lângă centrul vechi înghețat.\n\nLa prânz vizitați castelul și basilica. Încălzirea în scaune face deplasările scurte foarte plăcute.\n\nDupă-amiaza conduceți spre monument și sinagogă. Străzile înzăpezite conferă orașului un farmek deosebit.\n\nZiua se încheie la mănăstirea iezuită. Farurile luminează cristalele de gheață sclipitoare de pe zidurile vechi.",
-            "en": "A winter drive through Piotrków offers warmth and panoramic views. Start your tour at the parking lot near the frosty Old Town.\n\nAt noon, visit the castle and the basilica. Heated seats make the short drives between monuments very pleasant.\n\nIn the afternoon, head to the monument and the synagogue. The snow-covered streets give the city a special charm.\n\nThe day concludes at the Jesuit monastery. Your headlights will illuminate the sparkling ice crystals on the historic walls."
+            "en": "A winter drive through Piotrków offers warmth and panoramic views. Start your tour at the parking lot near the frosty Old Town.\n\nAt noon, visit the castle and the basilica. Heated seats make the short drives between monuments very pleasant.\n\nIn the afternoon, head to the monument and the synagogue. The snow-covered streets give the city a special charm.\n\nThe day concludes at the Jesuit monastery. Your headlights will illuminate the sparkling ice crystals on the historic walls.",
+            "pl": "Zimowa przejażdżka po Piotrkowie oferuje ciepło i panoramiczne widoki. Zacznij od parkingu przy mroźnym Starym Mieście.\n\nW południe odwiedź zamek i bazylikę. Podgrzewane siedzenia uprzyjemniają krótkie przejazdy między zabytkami.\n\nPo południu kieruj się do pomnika i synagogi. Ulice pokryte śniegiem nadają miastu szczególny urok.\n\nDzień kończy się przy klasztorze jezuitów. Reflektory rozświetlą skrzące się lodowe kryształki na zabytkowych ścianach."
           },
           "stops": [
             {
@@ -1407,7 +1534,8 @@
                 "de": "Vorsicht beim Einparken, Schneehaufen können Hindernisse verdecken.",
                 "hu": "Vigyázzon parkoláskor, a hóbuckák akadályokat rejthetnek.",
                 "ro": "Atenție la parcare, mormanele de zăpadă pot ascunde obstacole.",
-                "en": "Be careful when parking, snowdrifts can hide obstacles."
+                "en": "Be careful when parking, snowdrifts can hide obstacles.",
+                "pl": "Uważaj przy parkowaniu, zaspy śnieżne mogą ukrywać przeszkody."
               }
             },
             {
@@ -1416,7 +1544,8 @@
                 "de": "Die Straßen werden geräumt, aber Nebenstraßen können glatt sein.",
                 "hu": "A főbb utakat takarítják, de a mellékutcák jegesek lehetnek.",
                 "ro": "Străzile principale sunt curățate, dar cele secundare pot fi alunecoase.",
-                "en": "Main streets are cleared, but side streets might be icy."
+                "en": "Main streets are cleared, but side streets might be icy.",
+                "pl": "Ulice główne są odśnieżone, boczne mogą być oblodzone."
               }
             },
             {
@@ -1425,7 +1554,8 @@
                 "de": "Befreien Sie das Autodach von Schnee, bevor Sie losfahren.",
                 "hu": "Takarítsa le a havat a kocsi tetejéről indulás előtt.",
                 "ro": "Curățați zăpada de pe plafonul mașinii înainte de plecare.",
-                "en": "Clear the snow off your car's roof before driving."
+                "en": "Clear the snow off your car's roof before driving.",
+                "pl": "Oczyść dach samochodu ze śniegu przed jazdą."
               }
             },
             {
@@ -1434,7 +1564,8 @@
                 "de": "Achten Sie auf Eiszapfen an den historischen Gebäuden.",
                 "hu": "Figyeljen a jégcsapokra a történelmi épületeken.",
                 "ro": "Atenție la țurțurii de pe clădirile istorice.",
-                "en": "Watch out for icicles on the historic buildings."
+                "en": "Watch out for icicles on the historic buildings.",
+                "pl": "Uważaj na sople lodu na zabytkowych budynkach."
               }
             },
             {
@@ -1443,7 +1574,8 @@
                 "de": "Die Parkmöglichkeiten hier könnten durch Schnee eingeschränkt sein.",
                 "hu": "A parkolás itt korlátozott lehet a hó miatt.",
                 "ro": "Parcarea ar putea fi limitată aici din cauza zăpezii.",
-                "en": "Parking options here might be restricted due to snow."
+                "en": "Parking options here might be restricted due to snow.",
+                "pl": "Opcje parkowania mogą być ograniczone z powodu śniegu."
               }
             },
             {
@@ -1452,7 +1584,8 @@
                 "de": "Die Scheinwerfer sorgen für eine stimmungsvolle Ankunft.",
                 "hu": "A fényszórók hangulatos megérkezést biztosítanak.",
                 "ro": "Farurile asigură o sosire plină de atmosferă.",
-                "en": "The headlights provide an atmospheric arrival."
+                "en": "The headlights provide an atmospheric arrival.",
+                "pl": "Reflektory tworzą nastrojowe przybycie."
               }
             }
           ],
@@ -1480,6 +1613,12 @@
               "Keep an ice scraper and a snow brush in the car.",
               "Winter tires are absolutely necessary in this region.",
               "Avoid sudden braking on snow-covered roads."
+            ],
+            "pl": [
+              "Sprawdź płyn do spryskiwaczy pod kątem przeciwzamarzania.",
+              "Miej w samochodzie skrobaczkę do szyb i szczotkę do śniegu.",
+              "Opony zimowe są tu absolutnie konieczne.",
+              "Unikaj gwałtownego hamowania na ośnieżonych drogach."
             ]
           }
         }
@@ -1498,7 +1637,8 @@
             "de": "Ankunft am Trybunalski-Markt",
             "hu": "Érkezés a Trybunalski piacra",
             "ro": "Sosire în Piața Trybunalski",
-            "en": "Arrival at Trybunalski Market"
+            "en": "Arrival at Trybunalski Market",
+            "pl": "Przyjazd na Rynek Trybunalski"
           },
           "coords": [
             19.7001,
@@ -1513,7 +1653,8 @@
             "de": "Beginnen Sie hier nach der Ankunft mit dem Bus. Der Platz ist der erste Cluster.",
             "hu": "A busszal való érkezés után itt kezdje. A tér az első látnivaló-csoport.",
             "ro": "Începeți de aici după sosirea cu autobuzul. Piața este primul grup de atracții.",
-            "en": "Start here after arriving by bus. The square is the first cluster."
+            "en": "Start here after arriving by bus. The square is the first cluster.",
+            "pl": "Zacznij tutaj po przyjeździe autobusem. Plac to pierwsze skupisko."
           }
         },
         {
@@ -1521,7 +1662,8 @@
             "de": "Altstadt, Jakobsbasilika & Königsschloss",
             "hu": "Óváros, Szent Jakab-bazilika és Királyi palota",
             "ro": "Centrul Vechi, Bazilica Sf. Iacob & Castelul Regal",
-            "en": "Old Town, St. James' Basilica & Royal Castle"
+            "en": "Old Town, St. James' Basilica & Royal Castle",
+            "pl": "Stare Miasto, Bazylika św. Jakuba i Zamek Królewski"
           },
           "coords": [
             19.6995,
@@ -1536,7 +1678,8 @@
             "de": "Erkunden Sie diesen gesamten historischen Kern zu Fuß. Alles ist nah beieinander.",
             "hu": "Fedezze fel ezt az egész történelmi magot gyalog. Minden közel van egymáshoz.",
             "ro": "Explorați întregul nucleu istoric pe jos. Totul este aproape.",
-            "en": "Explore this entire historic core on foot. Everything is close together."
+            "en": "Explore this entire historic core on foot. Everything is close together.",
+            "pl": "Zwiedź cały ten zabytkowy rejon pieszo. Wszystko jest blisko."
           }
         },
         {
@@ -1544,7 +1687,8 @@
             "de": "Bernardinerkloster",
             "hu": "Bernardin kolostor",
             "ro": "Mănăstirea Bernardină",
-            "en": "Bernardine Monastery"
+            "en": "Bernardine Monastery",
+            "pl": "Klasztor Bernardynów"
           },
           "coords": [
             19.6899,
@@ -1559,7 +1703,8 @@
             "de": "Nehmen Sie einen Bus zu diesem ruhigeren Teil der Stadt.",
             "hu": "Menjen busszal a város e csendesebb részébe.",
             "ro": "Luați un autobuz spre această parte mai liniștită a orașului.",
-            "en": "Take a bus to this quieter part of the city."
+            "en": "Take a bus to this quieter part of the city.",
+            "pl": "Wsiądź w autobus do tej spokojniejszej części miasta."
           }
         },
         {
@@ -1567,7 +1712,8 @@
             "de": "Große Synagoge",
             "hu": "Nagy Zsinagóga",
             "ro": "Marea Sinagogă",
-            "en": "Great Synagogue"
+            "en": "Great Synagogue",
+            "pl": "Wielka Synagoga"
           },
           "coords": [
             19.6955,
@@ -1582,7 +1728,8 @@
             "de": "Ein kurzer Spaziergang vom Kloster aus, um die Architektur zu bewundern.",
             "hu": "Rövid séta a kolostortól, hogy megcsodálja az építészetet.",
             "ro": "O scurtă plimbare de la mănăstire pentru a admira arhitectura.",
-            "en": "A short walk from the monastery to admire the architecture."
+            "en": "A short walk from the monastery to admire the architecture.",
+            "pl": "Krótki spacer z klasztoru, by podziwiać architekturę."
           }
         },
         {
@@ -1590,7 +1737,8 @@
             "de": "Jesuitenkloster",
             "hu": "Jezsuita kolostor",
             "ro": "Mănăstirea Iezuită",
-            "en": "Jesuit Monastery"
+            "en": "Jesuit Monastery",
+            "pl": "Klasztor Jezuitów"
           },
           "coords": [
             19.7041,
@@ -1605,7 +1753,8 @@
             "de": "Nehmen Sie einen Bus zurück ins Zentrum, um den Tag hier abzuschließen.",
             "hu": "Menjen busszal vissza a központba, hogy itt fejezze be a napot.",
             "ro": "Luați un autobuz înapoi în centru pentru a încheia ziua aici.",
-            "en": "Take a bus back to the center to end the day here."
+            "en": "Take a bus back to the center to end the day here.",
+            "pl": "Wróć autobusem do centrum, aby zakończyć tu dzień."
           }
         }
       ],
@@ -1613,7 +1762,8 @@
         "de": "Mit öffentlichen Verkehrsmitteln erleben Sie Piotrków Trybunalski wie ein Einheimischer. Starten Sie im Herzen der Stadt, dem Marktplatz, und erkunden Sie den ersten Cluster – Basilika und Schloss – zu Fuß. Nach dem Mittagessen bringt Sie ein Bus zum zweiten Cluster: dem Bernardinerkloster. Von dort aus ist es ein kurzer Spaziergang zur Großen Synagoge. Ein weiterer Bus bringt Sie zurück ins Zentrum, um den Tag am Jesuitenkloster ausklingen zu lassen, bevor Sie die Atmosphäre der Stadt bei einem Abendessen genießen.",
         "hu": "Tömegközlekedéssel úgy élheti át Piotrków Trybunalskit, mint egy helyi. Kezdje a város szívében, a piactéren, és fedezze fel gyalog az első látnivaló-csoportot – a bazilikát és a várat. Ebéd után egy busz elviszi a második csoporthoz: a Bernardin kolostorhoz. Onnan rövid séta a Nagy Zsinagóga. Egy másik busz visszaviszi a központba, hogy a napot a jezsuita kolostornál zárja, mielőtt egy vacsora mellett élvezi a város hangulatát.",
         "ro": "Cu transportul public, veți experimenta Piotrków Trybunalski ca un localnic. Începeți în inima orașului, Piața Centrală, și explorați primul grup de atracții – bazilica și castelul – pe jos. După prânz, un autobuz vă duce la al doilea grup: Mănăstirea Bernardină. De acolo, este o scurtă plimbare până la Marea Sinagogă. Un alt autobuz vă duce înapoi în centru pentru a încheia ziua la Mănăstirea Iezuită, înainte de a vă bucura de atmosfera orașului la cină.",
-        "en": "Experience Piotrków Trybunalski like a local using public transport. Start in the heart of the city, the Market Square, and explore the first cluster – basilica and castle – on foot. After lunch, a bus takes you to the second cluster: the Bernardine Monastery. From there, it's a short walk to the Great Synagogue. Another bus takes you back to the center to end the day at the Jesuit Monastery before enjoying the city's atmosphere over dinner."
+        "en": "Experience Piotrków Trybunalski like a local using public transport. Start in the heart of the city, the Market Square, and explore the first cluster – basilica and castle – on foot. After lunch, a bus takes you to the second cluster: the Bernardine Monastery. From there, it's a short walk to the Great Synagogue. Another bus takes you back to the center to end the day at the Jesuit Monastery before enjoying the city's atmosphere over dinner.",
+        "pl": "Poznaj Piotrków Trybunalski jak miejscowy, korzystając z komunikacji miejskiej. Zacznij w sercu miasta, na Rynku, i pieszo zwiedź pierwszy cluster – bazylikę i zamek. Po obiedzie autobus zabierze cię do drugiego clusteru: klasztoru Bernardynów. Stamtąd krótki spacer do Wielkiej Synagogi. Kolejny autobus odwiezie cię do centrum, by zakończyć dzień przy klasztorze Jezuitów, a potem delektować się atmosferą miasta podczas kolacji."
       },
       "gastro_picks": {
         "de": [
@@ -1721,6 +1871,12 @@
           "Bus timetables can be found online or at the stops.",
           "Have some small change ready for tickets.",
           "Validate your ticket when you get on the bus."
+        ],
+        "pl": [
+          "Kup bilet dzienny na autobus, jeśli planujesz kilka przejazdów.",
+          "Rozkłady jazdy autobusów znajdziesz online lub na przystankach.",
+          "Miej drobne przygotowane na bilety.",
+          "Skasuj bilet przy wsiadaniu do autobusu."
         ]
       },
       "variants": {
@@ -1729,7 +1885,8 @@
             "de": "Mit dem Bus durch das verregnete Piotrków zu fahren, spart Kraft und hält trocken. Start ist am Marktplatz-Knotenpunkt.\n\nMittags erreichen Sie bequem das Schloss und die Basilika. Die Busse bieten einen geschützten Raum für die Fahrt zwischen den Stationen.\n\nNachmittags geht es weiter zum Bernhardinerkloster und zur Synagoge. Die kurzen Wartezeiten an den Haltestellen sind verkraftbar.\n\nDer Tag endet am Jesuitenkloster. Die Fahrt im beheizten Bus bietet einen gemütlichen Abschluss des nassen Tages.",
             "hu": "Busszal utazni az esős Piotrkówban erőt spórol és szárazon tart. A túra a főtéri csomóponttól indul.\n\nDélben kényelmesen elérheti a kastélyt és a bazilikát. A buszok védett helyet biztosítanak a megállók között.\n\nDélután folytassa útját a bernátosokhoz és a zsinagógához. A várakozási idő a megállókban ilyenkor elviselhető.\n\nA nap a jezsuita kolostornál zárul. A fűtött buszozás kellemes lezárása ennek a vizes napnak.",
             "ro": "Călătoria cu autobuzul prin Piotrków ploios economisește energie și vă menține uscat. Startul este în nodul de transport din piață.\n\nLa prânz ajungeți ușor la castel și basilică. Autobuzele oferă un spațiu protejat între stații.\n\nDupă-amiaza continuați spre mănăstirea bernardină și sinagogă. Timpii scurți de așteptare în stații sunt gestionabili.\n\nZiua se încheie la mănăstirea iezuită. Călătoria cu autobuzul încălzit oferă o finalizare confortabilă a zilei.",
-            "en": "Taking the bus through rainy Piotrków saves energy and keeps you dry. Start your tour at the Market Square transit hub.\n\nAt noon, you can easily reach the castle and the basilica. The buses provide a sheltered space for travel between stops.\n\nIn the afternoon, continue to the Bernardine monastery and the synagogue. Waiting times at the stops are manageable.\n\nThe day ends at the Jesuit monastery. A ride in a heated bus offers a cozy conclusion to a wet day."
+            "en": "Taking the bus through rainy Piotrków saves energy and keeps you dry. Start your tour at the Market Square transit hub.\n\nAt noon, you can easily reach the castle and the basilica. The buses provide a sheltered space for travel between stops.\n\nIn the afternoon, continue to the Bernardine monastery and the synagogue. Waiting times at the stops are manageable.\n\nThe day ends at the Jesuit monastery. A ride in a heated bus offers a cozy conclusion to a wet day.",
+            "pl": "Podróż autobusem po deszczowym Piotrkowie oszczędza energię i chroni przed zamoknięciem. Rozpocznij wycieczkę w węźle przesiadkowym na Rynku.\n\nW południe łatwo dotrzesz do zamku i bazyliki. Autobusy zapewniają osłonięte miejsce podczas przejazdów między przystankami.\n\nPo południu kontynuuj do klasztoru Bernardynów i synagogi. Czas oczekiwania na przystankach jest dość krótki.\n\nDzień kończy się przy klasztorze Jezuitów. Przejazd ogrzewanym autobusem to przytulne zwieńczenie mokrego dnia."
           },
           "stops": [
             {
@@ -1738,7 +1895,8 @@
                 "de": "Zentraler Umsteigepunkt mit vielen überdachten Haltestellen.",
                 "hu": "Központi csomópont sok fedett megállóval.",
                 "ro": "Nod central cu multe stații acoperite.",
-                "en": "Central hub with many sheltered bus stops."
+                "en": "Central hub with many sheltered bus stops.",
+                "pl": "Centralny węzeł z wieloma zadaszonymi przystankami."
               }
             },
             {
@@ -1747,7 +1905,8 @@
                 "de": "Alles ist in Laufweite, halten Sie den Schirm bereit.",
                 "hu": "Minden sétatávolságra van, tartsa készen az ernyőt.",
                 "ro": "Totul este la mică distanță, aveți umbrela pregătită.",
-                "en": "Everything is within walking distance, have your umbrella ready."
+                "en": "Everything is within walking distance, have your umbrella ready.",
+                "pl": "Wszystko w zasięgu spaceru, miej przy sobie parasol."
               }
             },
             {
@@ -1756,7 +1915,8 @@
                 "de": "Die Haltestelle ist nah am Eingang, wenig Zeit im Regen.",
                 "hu": "A megálló közel van a bejárathoz, kevés időt tölt az esőben.",
                 "ro": "Stația este aproape de intrare, puțin timp petrecut în ploaie.",
-                "en": "The stop is close to the entrance, minimizing rain exposure."
+                "en": "The stop is close to the entrance, minimizing rain exposure.",
+                "pl": "Przystanek blisko wejścia, minimalizuje ekspozycję na deszcz."
               }
             },
             {
@@ -1765,7 +1925,8 @@
                 "de": "Nutzen Sie Bus-Apps für Echtzeit-Informationen.",
                 "hu": "Használjon buszos appot a valós idejű menetrendhez.",
                 "ro": "Folosiți aplicații de transport pentru info în timp real.",
-                "en": "Use transit apps for real-time bus information."
+                "en": "Use transit apps for real-time bus information.",
+                "pl": "Używaj aplikacji komunikacyjnych do informacji o kursach w czasie rzeczywistym."
               }
             },
             {
@@ -1774,7 +1935,8 @@
                 "de": "Letzte Station vor der Rückfahrt zum Hotel oder Bahnhof.",
                 "hu": "Utolsó állomás a szállás vagy a vasútállomás felé.",
                 "ro": "Ultima stație înainte de întoarcerea la hotel sau gară.",
-                "en": "Final stop before returning to your hotel or the station."
+                "en": "Final stop before returning to your hotel or the station.",
+                "pl": "Ostatni przystanek przed powrotem do hotelu lub na dworzec."
               }
             }
           ],
@@ -1802,6 +1964,12 @@
               "Wear non-slip shoes for boarding and alighting.",
               "Buses can be crowded in the rain, hold on tight.",
               "Avoid stops without shelters during strong winds."
+            ],
+            "pl": [
+              "Kup bilety wcześniej przez aplikację, by nie stać przy kioskach.",
+              "Noś buty z dobrą przyczepnością przy wsiadaniu i wysiadaniu.",
+              "W deszczu autobusy mogą być zatłoczone, trzymaj się mocno.",
+              "Unikaj przystanków bez zadaszeń podczas silnego wiatru."
             ]
           }
         },
@@ -1810,7 +1978,8 @@
             "de": "Winterlicher Nahverkehr in Piotrków ist die wärmste Option. Der Start erfolgt am belebten Marktplatz-Knotenpunkt.\n\nMittags erreichen Sie das Schlossmuseum und die Basilika. Die kurzen Fahrten bieten eine Pause vom eisigen Wind.\n\nNachmittags geht es zum Bernhardinerkloster und zur Synagoge. Achten Sie auf die Fahrpläne, da Kälte zu Verzögerungen führen kann.\n\nDer Tag endet am Jesuitenkloster. Die Rückfahrt im warmen Bus lässt Sie die winterliche Stadt entspannt an sich vorbeiziehen sehen.",
             "hu": "A téli tömegközlekedés a legmelegebb opció Piotrkówban. A túra a nyüzsgő főtéri csomóponttól indul.\n\nDélben érje el a kastélyt és a bazilikát. A rövid buszutak pihenőt adnak a jeges szélben.\n\nDélután látogassa meg a bernátosokat és a zsinagógát. Figyelje a menetrendet, a hideg okozhat némi késést.\n\nA nap a jezsuita kolostornál zárul. A meleg buszon ülve nézheti a téli várost az ablakból.",
             "ro": "Transportul public de iarnă este cea mai călduroasă opțiune în Piotrków. Startul este în nodul aglomerat din piață.\n\nLa prânz ajungeți la muzeul castelului și basilică. Călătoriile scurte oferă un răgaz de la vântul înghețat.\n\nDupă-amiaza vizitați mănăstirea bernardină și sinagoga. Verificați orarul, deoarece frigul poate cauza întârzieri.\n\nZiua se încheie la mănăstirea iezuită. Întoarcerea cu autobuzul cald vă permite să admirați orașul de iarnă relaxat.",
-            "en": "Winter transit in Piotrków is the warmest way to see the city. Start your tour at the bustling Market Square hub.\n\nAt noon, reach the castle museum and the basilica. The short bus rides provide a break from the icy wind.\n\nIn the afternoon, visit the Bernardine monastery and the synagogue. Check the schedules as cold weather might cause delays.\n\nThe day ends at the Jesuit monastery. The ride back in a warm bus lets you relax and watch the winter city pass by."
+            "en": "Winter transit in Piotrków is the warmest way to see the city. Start your tour at the bustling Market Square hub.\n\nAt noon, reach the castle museum and the basilica. The short bus rides provide a break from the icy wind.\n\nIn the afternoon, visit the Bernardine monastery and the synagogue. Check the schedules as cold weather might cause delays.\n\nThe day ends at the Jesuit monastery. The ride back in a warm bus lets you relax and watch the winter city pass by.",
+            "pl": "Zima w Piotrkowie to najcieplejszy sposób na zwiedzanie miasta. Zacznij wycieczkę w ruchliwym węźle na Rynku.\n\nW południe odwiedź muzeum zamkowe i bazylikę. Krótkie przejazdy autobusem dają przerwę od lodowatego wiatru.\n\nPo południu zwiedź klasztor Bernardynów i synagogę. Sprawdź rozkłady, bo zła pogoda może powodować opóźnienia.\n\nDzień kończy się przy klasztorze Jezuitów. Powrót ciepłym autobusem pozwoli zrelaksować się i obserwować zimowe miasto za oknem."
           },
           "stops": [
             {
@@ -1819,7 +1988,8 @@
                 "de": "Die Haltestellenanzeigen informieren über aktuelle Wartezeiten.",
                 "hu": "A kijelzők tájékoztatnak az aktuális várakozási időről.",
                 "ro": "Panourile din stații informează despre timpii de așteptare.",
-                "en": "The station displays inform you about current waiting times."
+                "en": "The station displays inform you about current waiting times.",
+                "pl": "Tablice na stacji informują o aktualnym czasie oczekiwania."
               }
             },
             {
@@ -1828,7 +1998,8 @@
                 "de": "Vorsicht beim Aussteigen auf glatten Gehwegen.",
                 "hu": "Vigyázzon a leszálláskor a csúszós járdákon.",
                 "ro": "Atenție la coborâre pe trotuarele alunecoase.",
-                "en": "Be careful when getting off on slippery sidewalks."
+                "en": "Be careful when getting off on slippery sidewalks.",
+                "pl": "Uważaj przy wysiadaniu na śliskich chodnikach."
               }
             },
             {
@@ -1837,7 +2008,8 @@
                 "de": "Die Wartehalle bietet Schutz vor dem kalten Wind.",
                 "hu": "A váróterem védelmet nyújt a hideg szél ellen.",
                 "ro": "Sala de așteptare oferă protecție împotriva vântului rece.",
-                "en": "The waiting area provides shelter from the cold wind."
+                "en": "The waiting area provides shelter from the cold wind.",
+                "pl": "Poczekalnia chroni przed zimnym wiatrem."
               }
             },
             {
@@ -1846,7 +2018,8 @@
                 "de": "In der Dämmerung sind die Haltestellen gut beleuchtet.",
                 "hu": "Szürkületben a megállók jól meg vannak világítva.",
                 "ro": "Stațiile sunt bine iluminate pe timp de seară.",
-                "en": "Bus stops are well-lit during the early winter dusk."
+                "en": "Bus stops are well-lit during the early winter dusk.",
+                "pl": "Przystanki są dobrze oświetlone podczas wczesnego zimowego zmroku."
               }
             },
             {
@@ -1855,7 +2028,8 @@
                 "de": "Letzter Stopp, bevor es zurück in die Wärme geht.",
                 "hu": "Utolsó állomás, mielőtt visszatérne a melegbe.",
                 "ro": "Ultima stație înainte de a vă întoarce la căldură.",
-                "en": "Final stop before heading back to the warmth."
+                "en": "Final stop before heading back to the warmth.",
+                "pl": "Ostatni przystanek przed powrotem do ciepła."
               }
             }
           ],
@@ -1883,6 +2057,12 @@
               "Keep your ticket ready so you don't expose your hands for long.",
               "Use the bus heating to thaw out your limbs.",
               "During rush hour, buses are often very warm and crowded."
+            ],
+            "pl": [
+              "Autobusy mogą się nieco spóźniać zimą, zaplanuj dodatkowy czas.",
+              "Miej przygotowany bilet, by nie wystawiać dłoni na mróz.",
+              "Korzystaj z ogrzewania w autobusie, by rozgrzać kończyny.",
+              "W godzinach szczytu autobusy bywają bardzo ciepłe i zatłoczone."
             ]
           }
         }

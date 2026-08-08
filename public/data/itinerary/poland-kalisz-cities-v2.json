@@ -21,7 +21,8 @@
             "de": "Rathaus und Marktplatz",
             "hu": "Városháza és Fő tér",
             "ro": "Primăria și Piața Centrală",
-            "en": "Town Hall and Main Market Square"
+            "en": "Town Hall and Main Market Square",
+            "pl": "Ratusz i Główny Rynek"
           },
           "coords": [
             18.092,
@@ -36,7 +37,8 @@
             "de": "Besteigen Sie den Rathausturm für eine großartige Aussicht auf die Altstadt.",
             "hu": "Másszon fel a városháza tornyába a csodálatos kilátásért az óvárosra.",
             "ro": "Urcați în turnul primăriei pentru o priveliște superbă asupra orașului vechi.",
-            "en": "Climb the town hall tower for a great view of the old town."
+            "en": "Climb the town hall tower for a great view of the old town.",
+            "pl": "Wejdź na wieżę ratuszową, by zobaczyć świetny widok starego miasta."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Kathedrale St. Nikolaus",
             "hu": "Szent Miklós-katedrális",
             "ro": "Catedrala Sfântul Nicolae",
-            "en": "St. Nicholas Cathedral"
+            "en": "St. Nicholas Cathedral",
+            "pl": "Katedra św. Mikołaja"
           },
           "coords": [
             18.087,
@@ -59,7 +62,8 @@
             "de": "Achten Sie auf die gotischen Gewölbe und die beeindruckende Orgel im Inneren.",
             "hu": "Figyelje meg a gótikus boltozatokat és a lenyűgöző orgonát.",
             "ro": "Observați bolțile gotice și orga impresionantă din interior.",
-            "en": "Look for the Gothic vaults and the impressive organ inside."
+            "en": "Look for the Gothic vaults and the impressive organ inside.",
+            "pl": "Szukaj gotyckich sklepień i imponujących organów w środku."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Steinerne Brücke",
             "hu": "Kőhíd",
             "ro": "Podul de Piatră",
-            "en": "Stone Bridge"
+            "en": "Stone Bridge",
+            "pl": "Kamienny Most"
           },
           "coords": [
             18.084,
@@ -82,7 +87,8 @@
             "de": "Ein perfekter Ort für Fotos, der die Altstadt mit dem Theaterviertel verbindet.",
             "hu": "Tökéletes fotóhelyszín, amely összeköti az óvárost a színházi negyeddel.",
             "ro": "Un loc perfect pentru fotografii, ce leagă orașul vechi de cartierul teatrelor.",
-            "en": "A perfect spot for photos, connecting the Old Town to the theatre district."
+            "en": "A perfect spot for photos, connecting the Old Town to the theatre district.",
+            "pl": "Idealne miejsce na zdjęcia, łączące Stare Miasto z dzielnicą teatru."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Bogusławski-Theater",
             "hu": "Bogusławski Színház",
             "ro": "Teatrul Bogusławski",
-            "en": "Bogusławski Theatre"
+            "en": "Bogusławski Theatre",
+            "pl": "Teatr Bogusławskiego"
           },
           "coords": [
             18.082,
@@ -105,7 +112,8 @@
             "de": "Prüfen Sie den Spielplan für Abendvorstellungen – es lohnt sich oft.",
             "hu": "Nézze meg az esti előadások műsorát – gyakran megéri.",
             "ro": "Verificați programul pentru spectacole de seară – adesea merită.",
-            "en": "Check the schedule for evening performances – it's often worth it."
+            "en": "Check the schedule for evening performances – it's often worth it.",
+            "pl": "Sprawdź repertuar wieczornych przedstawień – często warto."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Basilika St. Joseph",
             "hu": "Szent József-bazilika",
             "ro": "Bazilica Sfântul Iosif",
-            "en": "St. Joseph's Basilica"
+            "en": "St. Joseph's Basilica",
+            "pl": "Bazylika św. Józefa"
           },
           "coords": [
             18.08,
@@ -128,7 +137,8 @@
             "de": "Ein wichtiges Pilgerziel. Beachten Sie die Votivgaben rund um das Gnadenbild.",
             "hu": "Fontos zarándokhely. Figyelje meg a kegykép körüli fogadalmi ajándékokat.",
             "ro": "Un important centru de pelerinaj. Observați ofrandele votive din jurul icoanei miraculoase.",
-            "en": "An important pilgrimage site. Note the votive offerings around the miraculous painting."
+            "en": "An important pilgrimage site. Note the votive offerings around the miraculous painting.",
+            "pl": "Ważne miejsce pielgrzymkowe. Zwróć uwagę na wota wokół cudownego obrazu."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Stadtpark",
             "hu": "Városi Park",
             "ro": "Parcul Municipal",
-            "en": "City Park"
+            "en": "City Park",
+            "pl": "Park Miejski"
           },
           "coords": [
             18.08,
@@ -151,7 +162,8 @@
             "de": "Ideal für eine Mittagspause. Mieten Sie ein Tretboot auf dem Fluss Prosna.",
             "hu": "Ideális egy ebédszünetre. Béreljen vízibiciklit a Prosna folyón.",
             "ro": "Ideal pentru o pauză de prânz. Închiriați o hidrobicicletă pe râul Prosna.",
-            "en": "Ideal for a lunch break. Rent a paddle boat on the Prosna river."
+            "en": "Ideal for a lunch break. Rent a paddle boat on the Prosna river.",
+            "pl": "Idealne na przerwę na lunch. Wypożycz łódkę wiosłową na rzece Prośnie."
           }
         },
         {
@@ -159,7 +171,8 @@
             "de": "Stanislaus-Kirche",
             "hu": "Szent Szaniszló-templom",
             "ro": "Biserica Sfântul Stanislav",
-            "en": "St. Stanislaus' Church"
+            "en": "St. Stanislaus' Church",
+            "pl": "Kościół św. Stanisława"
           },
           "coords": [
             18.095,
@@ -174,7 +187,8 @@
             "de": "Eine friedliche Franziskanerkirche, etwas abseits der Haupttouristenpfade.",
             "hu": "Egy békés ferences templom, kissé távolabb a fő turistaútvonalaktól.",
             "ro": "O biserică franciscană liniștită, puțin retrasă de rutele turistice principale.",
-            "en": "A peaceful Franciscan church, slightly off the main tourist path."
+            "en": "A peaceful Franciscan church, slightly off the main tourist path.",
+            "pl": "Spokojny kościół franciszkański, nieco z dala od głównego szlaku turystycznego."
           }
         }
       ],
@@ -182,7 +196,8 @@
         "de": "Beginnen Sie Ihren Tag im Herzen von Kalisz, am historischen Marktplatz. Der Vormittag ist der Erkundung der gotischen Kathedrale und einem Spaziergang über die berühmte Steinerne Brücke gewidmet, die Ihnen einen Einblick in die mittelalterliche Seele der Stadt gibt. Der Nachmittag bietet eine Mischung aus Kultur im Bogusławski-Theater und spiritueller Einkehr in der Basilika St. Joseph, einem landesweit bekannten Wallfahrtsort. Lassen Sie den Tag mit einem ausgedehnten, entspannenden Spaziergang durch den üppigen Stadtpark ausklingen, wo Sie am Ufer des Flusses Prosna neue Energie tanken können.",
         "hu": "Kezdje a napot Kalisz szívében, a történelmi Fő téren. A délelőtt a gótikus katedrális felfedezésével és egy sétával telik a híres Kőhídon, amely bepillantást enged a város középkori lelkébe. A délután a kultúra és a spiritualitás keverékét kínálja a Bogusławski Színházban és az országosan ismert zarándokhelyen, a Szent József-bazilikában. A napot egy hosszú, pihentető sétával zárja a buja Városi Parkban, ahol feltöltődhet a Prosna folyó partján.",
         "ro": "Începeți ziua în inima orașului Kalisz, în Piața Centrală istorică. Dimineața este dedicată explorării catedralei gotice și unei plimbări peste faimosul Pod de Piatră, oferindu-vă o perspectivă asupra sufletului medieval al orașului. După-amiaza oferă un amestec de cultură la Teatrul Bogusławski și reculegere spirituală la Bazilica Sfântul Iosif, un important loc de pelerinaj național. Încheiați ziua cu o plimbare lungă și relaxantă prin Parcul Municipal luxuriant, unde vă puteți reîncărca bateriile pe malul râului Prosna.",
-        "en": "Start your day in the heart of Kalisz at the historic Main Market Square. The morning is dedicated to exploring the Gothic cathedral and taking a stroll across the famous Stone Bridge, giving you a glimpse into the city's medieval soul. The afternoon offers a mix of culture at the Bogusławski Theatre and spiritual reflection at St. Joseph's Basilica, a nationally renowned pilgrimage site. Conclude your day with a long, relaxing walk through the lush City Park, where you can recharge by the banks of the Prosna river."
+        "en": "Start your day in the heart of Kalisz at the historic Main Market Square. The morning is dedicated to exploring the Gothic cathedral and taking a stroll across the famous Stone Bridge, giving you a glimpse into the city's medieval soul. The afternoon offers a mix of culture at the Bogusławski Theatre and spiritual reflection at St. Joseph's Basilica, a nationally renowned pilgrimage site. Conclude your day with a long, relaxing walk through the lush City Park, where you can recharge by the banks of the Prosna river.",
+        "pl": "Rozpocznij dzień w sercu Kalisza, na historycznym Rynku Głównym. Poranek poświęcony jest zwiedzaniu gotyckiej katedry i spacerowi po słynnym Kamiennym Moście, które ukazują średniowieczną duszę miasta. Popołudnie to mieszanka kultury w Teatrze im. Bogusławskiego i refleksji duchowej w Bazylice św. Józefa, ogólnokrajowym miejscu pielgrzymkowym. Zakończ dzień długim, relaksującym spacerem po bujnym Parku Miejskim, gdzie możesz naładować siły nad brzegiem Prosny."
       },
       "gastro_picks": {
         "de": [
@@ -378,6 +393,12 @@
           "Most central sights are easily within walking distance.",
           "Keep a camera ready for the picturesque alleys and architecture.",
           "Plan for a longer break in the City Park, especially on a sunny day."
+        ],
+        "pl": [
+          "Noś wygodne buty – bruk na starym mieście bywa nierówny.",
+          "Większość centralnych zabytków jest łatwo dostępna pieszo.",
+          "Miej zawsze gotowy aparat na malownicze zaułki i architekturę.",
+          "Zarezerwuj dłuższą przerwę w Parku Miejskim, zwłaszcza przy słonecznej pogodzie."
         ]
       },
       "variants": {
@@ -386,7 +407,8 @@
             "de": "Der Regen am Morgen verleiht dem Alten Markt von Kalisch eine melancholische Note. Unter Schirmen erkunden wir das Rathaus.\n\nZur Mittagszeit finden wir Zuflucht in der St.-Nikolaus-Kathedrale, wo das Prasseln des Regens an den Fenstern die Stille betont.\n\nEin kurzer, nasser Spaziergang führt uns über die Steinbrücke zum Bogusławski-Theater und weiter zur warmen St.-Josephs-Basilika.\n\nDer Tag endet im Stadtpark, wo die nassen Blätter glänzen, gefolgt von einem ruhigen Besuch in der St.-Stanislaus-Kirche.",
             "hu": "A reggeli eső melankolikus hangulatot áraszt Kalisz főterén. Esernyők alatt csodáljuk meg a városházát és a környéket.\n\nDélben a Szent Miklós-székesegyház nyújt menedéket, ahol az ablakokon kopogó eső csak fokozza a belső tér nyugalmát.\n\nEgy rövid, ázós séta után a Kőhídon át érjük el a színházat, majd a Szent József-bazilika meleg belső terében száradunk meg.\n\nA napot a Városligetben zárjuk, ahol a vizes ösvények csillognak, végül a Szent Szaniszló-templom csendjében pihenünk meg.",
             "ro": "Ploaia de dimineață oferă o notă melancolică Pieței Vechi din Kalisz. Explorăm primăria adăpostiți sub umbrele.\n\nLa prânz, găsim refugiu în Catedrala Sf. Nicolae, unde sunetul picăturilor pe geamuri subliniază liniștea interioară.\n\nO scurtă plimbare umedă ne duce peste Podul de Piatră spre Teatru și apoi spre interiorul cald al Bazilicii Sf. Iosif.\n\nZiua se încheie în Parcul Orașului, unde aleile umede strălucesc, urmată de o vizită liniștită la Biserica Sf. Stanislau.",
-            "en": "The morning rain gives Kalisz's Main Market Square a melancholic touch. We explore the Town Hall area under our umbrellas.\n\nAt noon, we find sanctuary in St. Nicholas Cathedral, where the pitter-patter on the glass enhances the silent atmosphere.\n\nA brief, wet walk takes us across the Stone Bridge to the theater and then to the dry warmth of St. Joseph's Basilica.\n\nThe day ends in the City Park, where wet leaves glisten, followed by a peaceful visit to the historic St. Stanislaus' Church."
+            "en": "The morning rain gives Kalisz's Main Market Square a melancholic touch. We explore the Town Hall area under our umbrellas.\n\nAt noon, we find sanctuary in St. Nicholas Cathedral, where the pitter-patter on the glass enhances the silent atmosphere.\n\nA brief, wet walk takes us across the Stone Bridge to the theater and then to the dry warmth of St. Joseph's Basilica.\n\nThe day ends in the City Park, where wet leaves glisten, followed by a peaceful visit to the historic St. Stanislaus' Church.",
+            "pl": "Poranny deszcz dodaje Rynkowi Głównemu w Kaliszu melancholijnego nastroju. Zwiedzamy okolice ratusza pod parasolami.\n\nW południe szukamy schronienia w katedrze św. Mikołaja, gdzie stukanie kropli o szyby potęguje ciszę.\n\nKrótki, mokry spacer prowadzi nas przez Kamienny Most do teatru, a potem do suchego ciepła Bazyliki św. Józefa.\n\nDzień kończy się w Parku Miejskim, gdzie mokre liście lśnią, a potem odwiedzamy spokojny Kościół św. Stanisława."
           },
           "stops": [
             {
@@ -395,7 +417,8 @@
                 "de": "Suchen Sie Schutz unter den Arkaden des Rathauses.",
                 "hu": "Használja a városháza árkádjait az eső elől.",
                 "ro": "Adăpostiți-vă sub arcadele primăriei dacă plouă tare.",
-                "en": "Take shelter under the Town Hall arcades during heavy rain."
+                "en": "Take shelter under the Town Hall arcades during heavy rain.",
+                "pl": "Szukaj schronienia pod arkadami Ratusza podczas ulew."
               }
             },
             {
@@ -404,7 +427,8 @@
                 "de": "Ein perfekter Ort, um eine längere Regenpause einzulegen.",
                 "hu": "Tökéletes helyszín egy hosszabb esőszünet tartására.",
                 "ro": "Un loc perfect pentru a aștepta trecerea unei averse.",
-                "en": "A perfect place to take a long break from the rain."
+                "en": "A perfect place to take a long break from the rain.",
+                "pl": "Idealne miejsce na dłuższą przerwę od deszczu."
               }
             },
             {
@@ -413,7 +437,8 @@
                 "de": "Vorsicht, das historische Pflaster kann bei Nässe rutschig sein.",
                 "hu": "Vigyázat, a történelmi macskakő nedvesen csúszós lehet.",
                 "ro": "Atenție, pavajul istoric poate fi alunecos pe ploaie.",
-                "en": "Caution, the historic pavement can be slippery when wet."
+                "en": "Caution, the historic pavement can be slippery when wet.",
+                "pl": "Uwaga, historyczna nawierzchnia może być śliska po deszczu."
               }
             },
             {
@@ -422,7 +447,8 @@
                 "de": "Bewundern Sie die Fassade vom Vordach aus.",
                 "hu": "A bejárat előtti tető alatt is megcsodálhatja a homlokzatot.",
                 "ro": "Admirați fațada stând sub streșina intrării principale.",
-                "en": "Admire the facade while standing under the entrance canopy."
+                "en": "Admire the facade while standing under the entrance canopy.",
+                "pl": "Podziwiaj fasadę, stojąc pod zadaszeniem przy wejściu."
               }
             },
             {
@@ -431,7 +457,8 @@
                 "de": "Nutzen Sie den Vorraum, um Ihren Regenschirm auszuschütteln.",
                 "hu": "Használja az előteret az esernyő lerázására.",
                 "ro": "Folosiți vestibulul pentru a scutura umbrela.",
-                "en": "Use the vestibule to shake off your umbrella before entering."
+                "en": "Use the vestibule to shake off your umbrella before entering.",
+                "pl": "Skorzystaj z przedsionka, by otrzepać parasol przed wejściem."
               }
             },
             {
@@ -440,7 +467,8 @@
                 "de": "Die asphaltierten Wege sind besser begehbar als die Rasenflächen.",
                 "hu": "Az aszfaltozott utak ilyenkor járhatóbbak, mint a fű.",
                 "ro": "Aleile asfaltate sunt mai sigure decât zonele cu iarbă.",
-                "en": "Paved paths are better to walk on than grassy areas now."
+                "en": "Paved paths are better to walk on than grassy areas now.",
+                "pl": "Obecnie lepiej chodzić po utwardzonych ścieżkach niż po trawnikach."
               }
             },
             {
@@ -449,7 +477,8 @@
                 "de": "Ein ruhiger Ausklang des nassen Tages im trockenen Kirchenschiff.",
                 "hu": "Csendes lezárása az esős napnak a száraz hajóban.",
                 "ro": "O încheiere liniștită a zilei în nava uscată a bisericii.",
-                "en": "A quiet end to the rainy day inside the dry nave."
+                "en": "A quiet end to the rainy day inside the dry nave.",
+                "pl": "Ciche zakończenie deszczowego dnia wewnątrz suchego nawy."
               }
             }
           ],
@@ -477,6 +506,12 @@
               "Cafes around the square are great for warming up.",
               "Waterproof shoes are a must for the City Park paths.",
               "Churches provide reliable shelter during sudden downpours."
+            ],
+            "pl": [
+              "Zalecany solidny parasol ze względu na wiatr nad rzeką.",
+              "Kawiarnie wokół rynku są świetne, by się rozgrzać.",
+              "Wodoodporne buty są niezbędne na ścieżkach Parku Miejskiego.",
+              "Kościoły zapewniają niezawodne schronienie podczas nagłych ulewnych deszczy."
             ]
           }
         },
@@ -485,7 +520,8 @@
             "de": "Kalisch im Wintermorgen wirkt wie aus einer Chronik. Der Frost auf dem Alten Markt knirscht unter unseren Stiefeln.\n\nMittags suchen wir die Kathedrale auf, deren massive Mauern eine andächtige Kälte und feierliche Stille ausstrahlen.\n\nAm Nachmittag überqueren wir die vereiste Prosna auf der Steinbrücke und eilen zur Basilika, um uns im Gebet aufzuwärmen.\n\nSobald die Dämmerung um 16:00 Uhr einsetzt, leuchtet der Stadtpark im fahlen Licht. Wir beenden den Tag in der St.-Stanislaus-Kirche.",
             "hu": "A téli reggelen Kalisz olyan, mint egy régi krónika. A fagy ropog a csizmánk alatt a városháza előtti téren.\n\nDélben a székesegyházba húzódunk, ahol a vastag falak ünnepi csendet és méltóságteljes hideget árasztanak.\n\nDélután a befagyott Prosna felett kelünk át a Kőhídon, majd a bazilika felé vesszük az irányt, hogy egy kicsit felmelegedjünk.\n\nA korai, délután négy órai sötétedéskor a Városliget fényei gyúlnak ki. Utolsó állomásunk a Szent Szaniszló-templom.",
             "ro": "Dimineața de iarnă în Kalisz pare desprinsă dintr-o cronică veche. Gerul scrâșnește sub ghete în Piața Veche.\n\nLa prânz vizităm catedrala, ale cărei ziduri masive emană o liniște solemnă și un frig plin de pioșenie.\n\nDupă-amiaza traversăm Prosna înghețată pe Podul de Piatră și ne grăbim spre bazilică pentru a ne încălzi puțin.\n\nOdată cu lăsarea serii la ora 16:00, parcul luminează discret. Încheiem ziua la Biserica Sf. Stanislau.",
-            "en": "Winter morning in Kalisz feels like an old chronicle. Frost crunches under our boots in the Market Square.\n\nAt noon, we visit the cathedral, its massive walls holding a solemn chill and a dignified silence.\n\nIn the afternoon, we cross the frozen Prosna via the Stone Bridge and head to the Basilica for a moment of warmth.\n\nAs dusk falls early at 4 PM, the City Park glows in the winter light. We end the day at St. Stanislaus' Church."
+            "en": "Winter morning in Kalisz feels like an old chronicle. Frost crunches under our boots in the Market Square.\n\nAt noon, we visit the cathedral, its massive walls holding a solemn chill and a dignified silence.\n\nIn the afternoon, we cross the frozen Prosna via the Stone Bridge and head to the Basilica for a moment of warmth.\n\nAs dusk falls early at 4 PM, the City Park glows in the winter light. We end the day at St. Stanislaus' Church.",
+            "pl": "Zimowy poranek w Kaliszu przypomina starą kronikę. Szelest mrozu pod butami na Rynku Głównym.\n\nW południe odwiedzamy katedrę, której masywne mury trzymają uroczysty chłód i dostojną ciszę.\n\nPopołudniu idziemy przez zamarzniętą Prosnę po Kamiennym Moście i zmierzamy do Bazyliki na chwilę ciepła.\n\nPo zapadnięciu zmierzchu około 16:00 Park Miejski jaśnieje zimowym światłem. Kończymy dzień przy Kościele św. Stanisława."
           },
           "stops": [
             {
@@ -494,7 +530,8 @@
                 "de": "Achten Sie auf Glatteis auf dem weiten Platz.",
                 "hu": "Vigyázzon a jégre a hatalmas nyitott téren.",
                 "ro": "Atenție la porțiunile înghețate din piața largă.",
-                "en": "Watch out for black ice on the wide open square."
+                "en": "Watch out for black ice on the wide open square.",
+                "pl": "Uważaj na gołoledź na otwartym placu."
               }
             },
             {
@@ -503,7 +540,8 @@
                 "de": "Im Inneren ist es oft kälter als draußen; behalten Sie den Mantel an.",
                 "hu": "Bent gyakran hidegebb van, mint kint; ne vegye le a kabátját.",
                 "ro": "În interior e adesea mai frig; nu vă scoateți haina.",
-                "en": "It's often colder inside; keep your coat on during the visit."
+                "en": "It's often colder inside; keep your coat on during the visit.",
+                "pl": "Wnętrza bywają często zimniejsze; zachowaj płaszcz podczas wizyty."
               }
             },
             {
@@ -512,7 +550,8 @@
                 "de": "Der Wind pfeift hier im Winter besonders eisig.",
                 "hu": "A szél télen itt különösen jegesen fúj a folyó felett.",
                 "ro": "Vântul suflă foarte tăios peste râu în timpul iernii.",
-                "en": "The winter wind bites especially hard over the river here."
+                "en": "The winter wind bites especially hard over the river here.",
+                "pl": "Zimny wiatr szczególnie daje się we znaki nad rzeką."
               }
             },
             {
@@ -521,7 +560,8 @@
                 "de": "Die Beleuchtung am späten Nachmittag ist sehr fotogen.",
                 "hu": "A késő délutáni kivilágítás nagyon fotogén télen.",
                 "ro": "Iluminatul de după-amiază târzie este foarte fotogenic.",
-                "en": "The late afternoon lighting is very photogenic in winter."
+                "en": "The late afternoon lighting is very photogenic in winter.",
+                "pl": "Późno popołudniowe światło jest bardzo fotogeniczne zimą."
               }
             },
             {
@@ -530,7 +570,8 @@
                 "de": "Ein guter Ort, um den eisigen Wind für eine Weile zu vergessen.",
                 "hu": "Jó helyszín, hogy egy időre elfelejtse a jeges szelet.",
                 "ro": "Un loc bun pentru a uita de vântul înghețat de afară.",
-                "en": "A good spot to escape the freezing wind for a while."
+                "en": "A good spot to escape the freezing wind for a while.",
+                "pl": "Dobre miejsce, by na chwilę uciec przed mroźnym wiatrem."
               }
             },
             {
@@ -539,7 +580,8 @@
                 "de": "Spaziergänge nur bei Tageslicht empfohlen; Wege können glatt sein.",
                 "hu": "A séta csak világosban ajánlott; az utak csúszhatnak.",
                 "ro": "Plimbarea e recomandată doar pe lumină; aleile pot fi alunecoase.",
-                "en": "Walking is recommended only during daylight; paths may be icy."
+                "en": "Walking is recommended only during daylight; paths may be icy.",
+                "pl": "Spacer zalecany tylko w świetle dnia; ścieżki mogą być oblodzone."
               }
             },
             {
@@ -548,7 +590,8 @@
                 "de": "Die warme Abendbeleuchtung schafft eine behagliche Atmosphäre.",
                 "hu": "A meleg esti fények barátságos hangulatot árasztanak.",
                 "ro": "Luminile calde de seară creează o atmosferă primitoare.",
-                "en": "Warm evening lights create a cozy atmosphere inside."
+                "en": "Warm evening lights create a cozy atmosphere inside.",
+                "pl": "Ciepłe wieczorne światła tworzą przytulną atmosferę we wnętrzu."
               }
             }
           ],
@@ -576,6 +619,12 @@
               "The sun sets early, around 4:00 PM.",
               "Cobblestones can be extremely slippery in freezing weather.",
               "Wear thermal socks as church floors are very cold."
+            ],
+            "pl": [
+              "Wielowarstwowe, ciepłe ubranie jest obowiązkowe na polskie zimy.",
+              "Słońce zachodzi wcześnie, około 16:00.",
+              "Bruk może być wyjątkowo śliski w mroźnej pogodzie.",
+              "Noś termiczne skarpety, podłogi w kościołach są bardzo zimne."
             ]
           }
         }
@@ -594,7 +643,8 @@
             "de": "Rathaus und Marktplatz",
             "hu": "Városháza és Fő tér",
             "ro": "Primăria și Piața Centrală",
-            "en": "Town Hall and Main Market Square"
+            "en": "Town Hall and Main Market Square",
+            "pl": "Ratusz i Rynek Główny"
           },
           "coords": [
             18.092,
@@ -609,7 +659,8 @@
             "de": "Schließen Sie Ihr Fahrrad sicher ab, bevor Sie den Turm besteigen.",
             "hu": "Zárja le biztonságosan a kerékpárját, mielőtt felmegy a toronyba.",
             "ro": "Asigurați-vă bicicleta înainte de a urca în turn.",
-            "en": "Lock your bike securely before climbing the tower."
+            "en": "Lock your bike securely before climbing the tower.",
+            "pl": "Zabezpiecz rower przed wejściem na wieżę."
           }
         },
         {
@@ -617,7 +668,8 @@
             "de": "Kathedrale St. Nikolaus",
             "hu": "Szent Miklós-katedrális",
             "ro": "Catedrala Sfântul Nicolae",
-            "en": "St. Nicholas Cathedral"
+            "en": "St. Nicholas Cathedral",
+            "pl": "Katedra św. Mikołaja"
           },
           "coords": [
             18.087,
@@ -632,7 +684,8 @@
             "de": "Genießen Sie die kurze Fahrt durch die historischen Gassen zur Kathedrale.",
             "hu": "Élvezze a rövid utat a történelmi sikátorokon keresztül a katedrálishoz.",
             "ro": "Bucurați-vă de scurta plimbare pe străduțele istorice până la catedrală.",
-            "en": "Enjoy the short ride through the historic alleys to the cathedral."
+            "en": "Enjoy the short ride through the historic alleys to the cathedral.",
+            "pl": "Ciesz się krótką przejażdżką przez historyczne uliczki do katedry."
           }
         },
         {
@@ -640,7 +693,8 @@
             "de": "Steinerne Brücke",
             "hu": "Kőhíd",
             "ro": "Podul de Piatră",
-            "en": "Stone Bridge"
+            "en": "Stone Bridge",
+            "pl": "Kamienny Most"
           },
           "coords": [
             18.084,
@@ -655,7 +709,8 @@
             "de": "Schieben Sie Ihr Fahrrad über die Brücke, um die Aussicht in Ruhe zu genießen.",
             "hu": "Tolja át a kerékpárt a hídon, hogy nyugodtan élvezhesse a kilátást.",
             "ro": "Traversați podul pe lângă bicicletă pentru a admira priveliștea în liniște.",
-            "en": "Walk your bike across the bridge to enjoy the view at a leisurely pace."
+            "en": "Walk your bike across the bridge to enjoy the view at a leisurely pace.",
+            "pl": "Przeprowadź rower przez most, by spokojnie podziwiać widok."
           }
         },
         {
@@ -663,7 +718,8 @@
             "de": "Bogusławski-Theater",
             "hu": "Bogusławski Színház",
             "ro": "Teatrul Bogusławski",
-            "en": "Bogusławski Theatre"
+            "en": "Bogusławski Theatre",
+            "pl": "Teatr im. Bogusławskiego"
           },
           "coords": [
             18.082,
@@ -678,7 +734,8 @@
             "de": "Bewundern Sie die Architektur von außen; das Gebäude ist sehr fotogen.",
             "hu": "Csodálja meg az építészetet kívülről; az épület nagyon fotogén.",
             "ro": "Admirați arhitectura din exterior; clădirea este foarte fotogenică.",
-            "en": "Admire the architecture from the outside; the building is very photogenic."
+            "en": "Admire the architecture from the outside; the building is very photogenic.",
+            "pl": "Podziwiaj architekturę z zewnątrz; budynek jest bardzo fotogeniczny."
           }
         },
         {
@@ -686,7 +743,8 @@
             "de": "Stadtpark",
             "hu": "Városi Park",
             "ro": "Parcul Municipal",
-            "en": "City Park"
+            "en": "City Park",
+            "pl": "Park Miejski"
           },
           "coords": [
             18.08,
@@ -701,7 +759,8 @@
             "de": "Perfekt für eine erste Pause. Fahren Sie entlang der Wege am Flussufer.",
             "hu": "Tökéletes egy első pihenőre. Kerékpározzon a folyóparti utakon.",
             "ro": "Perfect pentru o primă pauză. Plimbați-vă cu bicicleta pe aleile de pe malul râului.",
-            "en": "Perfect for a first break. Ride along the riverside paths."
+            "en": "Perfect for a first break. Ride along the riverside paths.",
+            "pl": "Idealny na pierwszą przerwę. Jedź wzdłuż nadbrzeżnych ścieżek."
           }
         },
         {
@@ -709,7 +768,8 @@
             "de": "Archäologisches Reservat Zawodzie",
             "hu": "Zawodzie Régészeti Rezervátum",
             "ro": "Rezervația Arheologică Zawodzie",
-            "en": "Zawodzie Archaeological Reserve"
+            "en": "Zawodzie Archaeological Reserve",
+            "pl": "Rezerwat archeologiczny Zawodzie"
           },
           "coords": [
             18.065,
@@ -724,7 +784,8 @@
             "de": "Eine faszinierende Reise in die Vergangenheit. Hier erfahren Sie, wie Kalisz begann.",
             "hu": "Lenyűgöző utazás a múltba. Itt megtudhatja, hogyan kezdődött Kalisz története.",
             "ro": "O călătorie fascinantă în trecut. Aici veți afla cum a luat naștere Kalisz.",
-            "en": "A fascinating journey into the past. This is where you learn how Kalisz began."
+            "en": "A fascinating journey into the past. This is where you learn how Kalisz began.",
+            "pl": "Fascynująca podróż w przeszłość. Tutaj poznasz, jak narodził się Kalisz."
           }
         },
         {
@@ -732,7 +793,8 @@
             "de": "Basilika St. Joseph",
             "hu": "Szent József-bazilika",
             "ro": "Bazilica Sfântul Iosif",
-            "en": "St. Joseph's Basilica"
+            "en": "St. Joseph's Basilica",
+            "pl": "Bazylika św. Józefa"
           },
           "coords": [
             18.08,
@@ -747,7 +809,8 @@
             "de": "Nehmen Sie sich Zeit für die Besichtigung des Schatzes und der unterirdischen Kapelle.",
             "hu": "Szánjon időt a kincstár és a földalatti kápolna megtekintésére.",
             "ro": "Luați-vă timp pentru a vizita tezaurul și capela subterană.",
-            "en": "Take time to visit the treasury and the underground chapel."
+            "en": "Take time to visit the treasury and the underground chapel.",
+            "pl": "Znajdź czas na zwiedzanie skarbca i podziemnej kaplicy."
           }
         },
         {
@@ -755,7 +818,8 @@
             "de": "Stanislaus-Kirche",
             "hu": "Szent Szaniszló-templom",
             "ro": "Biserica Sfântul Stanislav",
-            "en": "St. Stanislaus' Church"
+            "en": "St. Stanislaus' Church",
+            "pl": "Kościół św. Stanisława"
           },
           "coords": [
             18.095,
@@ -770,7 +834,8 @@
             "de": "Der letzte Halt des Tages, ein Ort der Ruhe und Besinnung.",
             "hu": "A nap utolsó állomása, a béke és az elmélkedés helye.",
             "ro": "Ultima oprire a zilei, un loc de pace și reflecție.",
-            "en": "The last stop of the day, a place of peace and reflection."
+            "en": "The last stop of the day, a place of peace and reflection.",
+            "pl": "Ostatni przystanek dnia, miejsce ciszy i refleksji."
           }
         }
       ],
@@ -778,7 +843,8 @@
         "de": "Schwingen Sie sich auf den Sattel und beginnen Sie Ihre Tour auf dem belebten Marktplatz von Kalisz. Der Vormittag führt Sie zu den heiligen Hallen der Nikolaus-Kathedrale und über die Steinerne Brücke, bevor Sie eine entspannte Fahrt durch den Stadtpark genießen. Am Nachmittag radeln Sie etwas weiter hinaus zum Archäologischen Reservat Zawodzie, um in die Ursprünge der Stadt einzutauchen. Der Rückweg führt Sie zur berühmten Basilika St. Joseph und endet bei der friedlichen Stanislaus-Kirche.",
         "hu": "Pattanjon nyeregbe, és kezdje a túrát Kalisz nyüzsgő Fő terén. A délelőtt a Szent Miklós-katedrális szent csarnokaiba és a Kőhídon át vezet, mielőtt egy pihentető tekerést tenne a Városi Parkban. Délután kicsit messzebbre, a Zawodzie Régészeti Rezervátumhoz biciklizik, hogy elmerüljön a város eredetében. A visszaút a híres Szent József-bazilikához vezet, és a békés Szent Szaniszló-templomnál ér véget.",
         "ro": "Urcați-vă pe bicicletă și începeți turul în Piața Centrală plină de viață din Kalisz. Dimineața vă va purta prin sălile sfinte ale Catedralei Sf. Nicolae și peste Podul de Piatră, înainte de a vă bucura de o plimbare relaxantă prin Parcul Municipal. După-amiaza, pedalați puțin mai departe, la Rezervația Arheologică Zawodzie, pentru a pătrunde în originile orașului. Drumul de întoarcere vă va duce la renumita Bazilică Sf. Iosif și se va încheia la liniștita Biserică Sf. Stanislav.",
-        "en": "Hop on your bike and start your tour in the bustling Main Market Square of Kalisz. The morning will take you to the sacred halls of St. Nicholas Cathedral and across the Stone Bridge before enjoying a relaxing ride through the City Park. In the afternoon, you'll cycle a bit further out to the Zawodzie Archaeological Reserve to delve into the city's origins. The way back will lead you to the famous St. Joseph's Basilica, finishing at the peaceful St. Stanislaus' Church."
+        "en": "Hop on your bike and start your tour in the bustling Main Market Square of Kalisz. The morning will take you to the sacred halls of St. Nicholas Cathedral and across the Stone Bridge before enjoying a relaxing ride through the City Park. In the afternoon, you'll cycle a bit further out to the Zawodzie Archaeological Reserve to delve into the city's origins. The way back will lead you to the famous St. Joseph's Basilica, finishing at the peaceful St. Stanislaus' Church.",
+        "pl": "Wsiądź na rower i rozpocznij trasę na tętniącym życiem Rynku Głównym Kalisza. Rano odwiedzisz sakralne wnętrza katedry św. Mikołaja i przejedziesz przez Kamienny Most, po czym zrelaksujesz się jazdą przez Park Miejski. Po południu przejedziesz nieco dalej do rezerwatu archeologicznego Zawodzie, by zgłębić początki miasta. Powrót zaprowadzi cię do słynnej Bazyliki św. Józefa, a zakończenie będzie w spokojnym Kościele św. Stanisława."
       },
       "gastro_picks": {
         "de": [
@@ -974,6 +1040,12 @@
           "Be mindful of pedestrians in the narrow alleys of the old town.",
           "A light lock is recommended for securing the bike at stops.",
           "Bring water and a small snack for the longer ride to Zawodzie."
+        ],
+        "pl": [
+          "Korzystaj z dróg rowerowych, zwłaszcza wzdłuż rzeki.",
+          "Uważaj na pieszych w wąskich zaułkach starego miasta.",
+          "Zalecany lekki zamek do zabezpieczenia roweru podczas postojów.",
+          "Weź wodę i małą przekąskę na dłuższą trasę do Zawodzia."
         ]
       },
       "variants": {
@@ -982,7 +1054,8 @@
             "de": "Radfahren im Regen erfordert in Kalisch Konzentration. Der Start am Markt ist nass, aber die Architektur glänzt.\n\nMittags suchen wir Schutz in der Kathedrale und am Bogusławski-Theater, während die Reifen auf dem Asphalt zischen.\n\nNachmittags radeln wir vorsichtig nach Zawodzie. Das archäologische Reservat ist schlammig, aber sehr atmosphärisch.\n\nDer Tag endet mit einer Fahrt zur Basilika und St. Stanislaus, wobei das Licht der Stadt in den Pfützen reflektiert.",
             "hu": "Az esős bringázás koncentrációt igényel Kaliszban. A főtér vizes, de az épületek homlokzata ilyenkor is szép.\n\nDélben a székesegyháznál és a színháznál pihenünk meg, miközben a gumik sziszegnek a vizes aszfalton.\n\nDélután óvatosan tekerünk ki Zawodzie felé. A régészeti park saras, de különleges hangulatú az esőben.\n\nA napot a bazilikánál zárjuk, a város fényei tükröződnek a tócsákban az utolsó kilométereken.",
             "ro": "Ciclismul pe ploaie necesită concentrare în Kalisz. Pornirea din piață e udă, dar arhitectura strălucește.\n\nLa prânz ne adăpostim lângă catedrală și teatru, în timp ce cauciucurile șuieră pe asfaltul umed.\n\nDupă-amiaza pedalăm cu grijă spre Zawodzie. Rezervația arheologică e noroioasă, dar plină de atmosferă.\n\nZiua se încheie cu o tură spre bazilică, luminile orașului reflectându-se în bălți pe drumul de întoarcere.",
-            "en": "Cycling in the rain requires focus in Kalisz. The start at the square is wet, but the architecture looks fresh.\n\nAt noon, we rest near the cathedral and theater while the tires hiss on the damp pavement.\n\nIn the afternoon, we pedal carefully to Zawodzie. The archaeological reserve is muddy but very atmospheric.\n\nThe day ends with a ride to the Basilica, with city lights reflecting in the puddles on the final stretch."
+            "en": "Cycling in the rain requires focus in Kalisz. The start at the square is wet, but the architecture looks fresh.\n\nAt noon, we rest near the cathedral and theater while the tires hiss on the damp pavement.\n\nIn the afternoon, we pedal carefully to Zawodzie. The archaeological reserve is muddy but very atmospheric.\n\nThe day ends with a ride to the Basilica, with city lights reflecting in the puddles on the final stretch.",
+            "pl": "Jazda na rowerze w deszczu wymaga koncentracji w Kaliszu. Start na rynku jest mokry, ale architektura wygląda świeżo.\n\nW południe odpoczywamy przy katedrze i teatrze, opony syczą na wilgotnej nawierzchni.\n\nPo południu ostrożnie pedałujemy do Zawodzia. Rezerwat archeologiczny jest błotnisty, ale wyjątkowo nastrojowy.\n\nDzień kończy się przejazdem do Bazyliki, a miejskie światła odbijają się w kałużach na ostatnim odcinku."
           },
           "stops": [
             {
@@ -991,7 +1064,8 @@
                 "de": "Vorsicht beim Anfahren auf dem nassen Marktplatz.",
                 "hu": "Vigyázzon az indulásnál a vizes köveken.",
                 "ro": "Atenție la plecarea de pe loc pe pavajul ud.",
-                "en": "Be careful when starting off on the wet square surface."
+                "en": "Be careful when starting off on the wet square surface.",
+                "pl": "Uważaj przy ruszaniu na mokrej nawierzchni rynku."
               }
             },
             {
@@ -1000,7 +1074,8 @@
                 "de": "Sicherer Abstellplatz für Räder in der Nähe suchen.",
                 "hu": "Keressen biztonságos, fedett helyet a bringának a közelben.",
                 "ro": "Căutați un loc de parcare mai ferit pentru bicicletă.",
-                "en": "Look for a sheltered spot to park your bike nearby."
+                "en": "Look for a sheltered spot to park your bike nearby.",
+                "pl": "Znajdź pobliskie, zadaszone miejsce do zaparkowania roweru."
               }
             },
             {
@@ -1009,7 +1084,8 @@
                 "de": "Extrem rutschig; fahren Sie langsam oder schieben Sie.",
                 "hu": "Rendkívül csúszós; hajtson lassan vagy tolja a bringát.",
                 "ro": "Extrem de alunecos; mergeți încet sau pe lângă bicicletă.",
-                "en": "Extremely slippery; ride very slowly or push the bike."
+                "en": "Extremely slippery; ride very slowly or push the bike.",
+                "pl": "Bardzo ślisko; jedź bardzo wolno lub prowadź rower."
               }
             },
             {
@@ -1018,7 +1094,8 @@
                 "de": "Kurze Pause unter dem Vordach möglich.",
                 "hu": "Rövid pihenő a bejárati tető alatt lehetséges.",
                 "ro": "Scurtă pauză sub streșina teatrului.",
-                "en": "A short break under the theater canopy is possible."
+                "en": "A short break under the theater canopy is possible.",
+                "pl": "Krótki postój pod daszkiem teatru jest możliwy."
               }
             },
             {
@@ -1027,7 +1104,8 @@
                 "de": "Vorsicht vor tiefen Pfützen auf den Parkwegen.",
                 "hu": "Vigyázzon a mély tócsákra a parki utakon.",
                 "ro": "Atenție la bălțile adânci de pe aleile parcului.",
-                "en": "Watch out for deep puddles on the park paths."
+                "en": "Watch out for deep puddles on the park paths.",
+                "pl": "Uważaj na głębokie kałuże na ścieżkach parkowych."
               }
             },
             {
@@ -1036,7 +1114,8 @@
                 "de": "Die unbefestigten Wege sind schlammig; festes Schuhwerk!",
                 "hu": "A föutak sarasak; viseljen strapabíró cipőt!",
                 "ro": "Drumurile neasfaltate sunt noroioase; purtați bocanci!",
-                "en": "Unpaved paths are muddy; wear sturdy footwear!"
+                "en": "Unpaved paths are muddy; wear sturdy footwear!",
+                "pl": "Niesutwardzone ścieżki są błotniste; noś solidne obuwie!"
               }
             },
             {
@@ -1045,7 +1124,8 @@
                 "de": "Wärmen Sie sich im Inneren auf, bevor es weitergeht.",
                 "hu": "Melegedjen fel bent, mielőtt tovább indulna.",
                 "ro": "Încălziți-vă în interior înainte de a continua drumul.",
-                "en": "Warm up inside the church before heading back."
+                "en": "Warm up inside the church before heading back.",
+                "pl": "Rozgrzej się w kościele przed powrotem."
               }
             },
             {
@@ -1054,7 +1134,8 @@
                 "de": "Letzter Stopp vor der Rückgabe des Rads.",
                 "hu": "Utolsó megálló a kerékpár leadása előtt.",
                 "ro": "Ultima oprire înainte de a returna bicicleta.",
-                "en": "Final stop before returning the bike in the center."
+                "en": "Final stop before returning the bike in the center.",
+                "pl": "Ostatni przystanek przed zwróceniem roweru w centrum."
               }
             }
           ],
@@ -1082,6 +1163,12 @@
               "Check your brakes on the wet surface before starting.",
               "Mudguards are a must-have in Kalisz in this weather.",
               "Avoid sharp turns on wet cobblestone surfaces."
+            ],
+            "pl": [
+              "Peleryna przeciwdeszczowa praktyczniejsza niż parasol podczas jazdy.",
+              "Sprawdź hamulce na mokrej nawierzchni przed ruszeniem.",
+              "Błotniki są niezbędne w takich warunkach w Kaliszu.",
+              "Unikaj ostrych skrętów na mokrym bruku."
             ]
           }
         },
@@ -1090,7 +1177,8 @@
             "de": "Radfahren im frostigen Kalisch ist belebend. Der Markt am Morgen glänzt weiß unter dem dünnen Eis.\n\nMittags machen wir Halt an der Kathedrale und dem Theater, wobei der Fahrtwind die Wangen brennen lässt.\n\nNachmittags geht es nach Zawodzie. Die schneebedeckten Holzhütten des Reservats bieten einen malerischen Anblick.\n\nZum Abend hin radeln wir zurück zur Basilika. Das Licht der Straßenlaternen spiegelt sich im Schnee auf dem Weg.",
             "hu": "Frissítő élmény a fagyos Kaliszban tekerni. A főtér reggel fehéren csillog a vékony jégréteg alatt.\n\nDélben a székesegyháznál és a színháznál állunk meg, a menetszél alaposan megcsípi az arcunkat.\n\nDélután Zawodzie felé vesszük az irányt. A régészeti park hófödte faházai festői látványt nyújtanak.\n\nEste a bazilika felé tekerünk vissza. Az utcai lámpák fénye megcsillan a hóban az út mentén.",
             "ro": "Ciclismul în Kalisz înghețat este revigorant. Piața strălucește alb dimineața sub un strat subțire de gheață.\n\nLa prânz oprim la catedrală și teatru, vântul tăios făcându-ne obrajii să ardă de frig.\n\nDupă-amiaza mergem spre Zawodzie. Căsuțele de lemn înzăpezite ale rezervației oferă o priveliște pitorească.\n\nSpre seară pedalăm înapoi spre bazilică. Lumina felinarelor se reflectă în zăpada de pe marginea drumului.",
-            "en": "Cycling in frosty Kalisz is invigorating. The morning market square glitters white under a thin layer of ice.\n\nAt noon, we stop at the cathedral and theater, the cold wind biting into our cheeks as we ride.\n\nIn the afternoon, we head to Zawodzie. The snow-covered wooden huts of the reserve offer a picturesque sight.\n\nTowards evening, we cycle back to the Basilica. The streetlights reflect off the snow along the way."
+            "en": "Cycling in frosty Kalisz is invigorating. The morning market square glitters white under a thin layer of ice.\n\nAt noon, we stop at the cathedral and theater, the cold wind biting into our cheeks as we ride.\n\nIn the afternoon, we head to Zawodzie. The snow-covered wooden huts of the reserve offer a picturesque sight.\n\nTowards evening, we cycle back to the Basilica. The streetlights reflect off the snow along the way.",
+            "pl": "Jazda na rowerze w mroźnym Kaliszu orzeźwia. Poranny rynek lśnił biało pod cienką skorupą lodu.\n\nW południe zatrzymujemy się przy katedrze i teatrze, a zimny wiatr szczypie w policzki.\n\nPopołudniu zmierzamy do Zawodzia. Ośnieżone, drewniane chaty rezerwatu tworzą malowniczy obraz.\n\nPod wieczór wracamy rowerem do Bazyliki. Latarnie odbijają się w śniegu na trasie."
           },
           "stops": [
             {
@@ -1099,7 +1187,8 @@
                 "de": "Vorsicht vor rutschigen Stellen beim Losfahren.",
                 "hu": "Vigyázzon a csúszós foltokra induláskor.",
                 "ro": "Atenție la porțiunile alunecoase la plecare.",
-                "en": "Watch out for slippery patches when starting your ride."
+                "en": "Watch out for slippery patches when starting your ride.",
+                "pl": "Uważaj na śliskie miejsca przy ruszaniu."
               }
             },
             {
@@ -1108,7 +1197,8 @@
                 "de": "Kurzer Stopp zum Aufwärmen der Hände empfohlen.",
                 "hu": "Javasolt egy rövid megálló a kezek felmelegítésére.",
                 "ro": "Se recomandă o scurtă oprire pentru încălzirea mâinilor.",
-                "en": "A short stop to warm up your hands is recommended."
+                "en": "A short stop to warm up your hands is recommended.",
+                "pl": "Krótki postój na rozgrzanie dłoni jest wskazany."
               }
             },
             {
@@ -1117,7 +1207,8 @@
                 "de": "Brücken frieren zuerst ein; fahren Sie extrem vorsichtig.",
                 "hu": "A hidak fagynak le először; hajtson rendkívül óvatosan.",
                 "ro": "Podurile îngheață primele; circulați cu mare atenție.",
-                "en": "Bridges freeze first; ride with extreme caution here."
+                "en": "Bridges freeze first; ride with extreme caution here.",
+                "pl": "Mosty zamarzają jako pierwsze; jedź tu ze szczególną ostrożnością."
               }
             },
             {
@@ -1126,7 +1217,8 @@
                 "de": "Genießen Sie den Anblick, bevor es wieder in den Wind geht.",
                 "hu": "Élvezze a látványt, mielőtt újra a szélbe hajtana.",
                 "ro": "Admirați clădirea înainte de a reveni în vânt.",
-                "en": "Enjoy the view before heading back into the cold wind."
+                "en": "Enjoy the view before heading back into the cold wind.",
+                "pl": "Podziwiaj widok, zanim wrócisz w zimny wiatr."
               }
             },
             {
@@ -1135,7 +1227,8 @@
                 "de": "Achten Sie auf gefrorene Pfützen unter dem Neuschnee.",
                 "hu": "Vigyázzon a hó alatti befagyott tócsákra.",
                 "ro": "Atenție la bălțile înghețate de sub zăpadă.",
-                "en": "Watch out for frozen puddles hidden under light snow."
+                "en": "Watch out for frozen puddles hidden under light snow.",
+                "pl": "Uważaj na zamarznięte kałuże ukryte pod cienką warstwą śniegu."
               }
             },
             {
@@ -1144,7 +1237,8 @@
                 "de": "Kalt und windig; die Besichtigung kurz halten.",
                 "hu": "Hideg és szeles hely; fogja rövidre a látogatást.",
                 "ro": "Loc rece și vântos; scurtați durata vizitei.",
-                "en": "Cold and windy spot; keep your visit relatively brief."
+                "en": "Cold and windy spot; keep your visit relatively brief.",
+                "pl": "Miejsce zimne i wietrzne; zachowaj krótszą wizytę."
               }
             },
             {
@@ -1153,7 +1247,8 @@
                 "de": "Schließen Sie das Rad gut ab, das Schloss kann einfrieren.",
                 "hu": "Zárja le jól a bringát, a zár befagyhat.",
                 "ro": "Asigurați bicicleta bine; încuietoarea poate îngheța.",
-                "en": "Lock your bike securely; the lock mechanism might freeze."
+                "en": "Lock your bike securely; the lock mechanism might freeze.",
+                "pl": "Zabezpiecz rower solidnym zamkiem; mechanizm może zamarzać."
               }
             },
             {
@@ -1162,7 +1257,8 @@
                 "de": "Ende der Tour; Zeit für einen heißen Tee.",
                 "hu": "A túra vége; ideje egy forró teának.",
                 "ro": "Sfârșitul turului; e timpul pentru un ceai fierbinte.",
-                "en": "End of the tour; time for a hot tea in the center."
+                "en": "End of the tour; time for a hot tea in the center.",
+                "pl": "Koniec trasy; czas na gorącą herbatę w centrum."
               }
             }
           ],
@@ -1190,6 +1286,12 @@
               "Check tire pressure; lower pressure gives better winter grip.",
               "Lights are necessary from 3:30 PM due to early dusk.",
               "Watch out for road salt, as it can corrode bike parts."
+            ],
+            "pl": [
+              "Noś wiatroodporne rękawice do jazdy przez mosty.",
+              "Sprawdź ciśnienie w oponach; niższe ciśnienie daje lepszą przyczepność zimą.",
+              "Światła są konieczne od 15:30 z powodu szybkiego zmierzchu.",
+              "Uważaj na sól drogową, bo może korodować części roweru."
             ]
           }
         }
@@ -1208,7 +1310,8 @@
             "de": "Cluster 1: Rathaus",
             "hu": "1. Klaszter: Városháza",
             "ro": "Cluster 1: Primăria",
-            "en": "Cluster 1: Town Hall"
+            "en": "Cluster 1: Town Hall",
+            "pl": "Klastr 1: Ratusz"
           },
           "coords": [
             18.092,
@@ -1224,7 +1327,8 @@
             "de": "Parken Sie in einem der Parkhäuser in der Nähe des Zentrums. Dies ist der Ausgangspunkt für Ihren Stadtrundgang.",
             "hu": "Parkoljon a központ közeli parkolóházak egyikében. Ez a gyalogtúra kiindulópontja.",
             "ro": "Parcați într-una din parcările din apropierea centrului. Acesta este punctul de plecare pentru turul pietonal.",
-            "en": "Park in one of the garages near the center. This is the starting point for your walking tour."
+            "en": "Park in one of the garages near the center. This is the starting point for your walking tour.",
+            "pl": "Zaparkuj w jednej z garaży blisko centrum. To punkt startu twojej pieszej trasy."
           }
         },
         {
@@ -1232,7 +1336,8 @@
             "de": "Kathedrale St. Nikolaus",
             "hu": "Szent Miklós-katedrális",
             "ro": "Catedrala Sfântul Nicolae",
-            "en": "St. Nicholas Cathedral"
+            "en": "St. Nicholas Cathedral",
+            "pl": "Katedra św. Mikołaja"
           },
           "coords": [
             18.087,
@@ -1248,7 +1353,8 @@
             "de": "Ein kurzer Spaziergang vom Rathausplatz durch charmante Gassen.",
             "hu": "Rövid séta a Városháza tértől a bájos sikátorokon keresztül.",
             "ro": "O scurtă plimbare de la Piața Primăriei pe alei fermecătoare.",
-            "en": "A short walk from the Town Hall square through charming alleys."
+            "en": "A short walk from the Town Hall square through charming alleys.",
+            "pl": "Krótki spacer z Rynku przez urokliwe uliczki."
           }
         },
         {
@@ -1256,7 +1362,8 @@
             "de": "Steinerne Brücke",
             "hu": "Kőhíd",
             "ro": "Podul de Piatră",
-            "en": "Stone Bridge"
+            "en": "Stone Bridge",
+            "pl": "Kamienny Most"
           },
           "coords": [
             18.084,
@@ -1272,7 +1379,8 @@
             "de": "Genießen Sie den Blick auf den Fluss Prosna, bevor Sie zum Auto zurückkehren.",
             "hu": "Élvezze a Prosna folyóra nyíló kilátást, mielőtt visszatérne az autóhoz.",
             "ro": "Admirați vederea râului Prosna înainte de a vă întoarce la mașină.",
-            "en": "Enjoy the view of the Prosna river before heading back to the car."
+            "en": "Enjoy the view of the Prosna river before heading back to the car.",
+            "pl": "Podziwiaj widok na rzekę Prosnę, zanim wrócisz do samochodu."
           }
         },
         {
@@ -1280,7 +1388,8 @@
             "de": "Cluster 2: Basilika St. Joseph",
             "hu": "2. Klaszter: Szent József-bazilika",
             "ro": "Cluster 2: Bazilica Sfântul Iosif",
-            "en": "Cluster 2: St. Joseph's Basilica"
+            "en": "Cluster 2: St. Joseph's Basilica",
+            "pl": "Klastrowy punkt 2: Bazylika św. Józefa"
           },
           "coords": [
             18.08,
@@ -1296,7 +1405,8 @@
             "de": "Fahren Sie zum nächsten Cluster. Es gibt normalerweise Parkplätze in der Nähe der Basilika.",
             "hu": "Vezessen a következő klaszterhez. Általában van parkoló a bazilika közelében.",
             "ro": "Conduceți spre următorul cluster. De obicei, există locuri de parcare în apropierea bazilicii.",
-            "en": "Drive to the next cluster. There are usually parking spots available near the basilica."
+            "en": "Drive to the next cluster. There are usually parking spots available near the basilica.",
+            "pl": "Jadąc do następnego klastra. Zwykle przy bazylice są dostępne miejsca parkingowe."
           }
         },
         {
@@ -1304,7 +1414,8 @@
             "de": "Bogusławski-Theater",
             "hu": "Bogusławski Színház",
             "ro": "Teatrul Bogusławski",
-            "en": "Bogusławski Theatre"
+            "en": "Bogusławski Theatre",
+            "pl": "Teatr im. Bogusławskiego"
           },
           "coords": [
             18.082,
@@ -1320,7 +1431,8 @@
             "de": "Ein angenehmer Spaziergang von der Basilika über den Fluss.",
             "hu": "Kellemes séta a bazilikától a folyón át.",
             "ro": "O plimbare plăcută de la bazilică peste râu.",
-            "en": "A pleasant walk from the basilica across the river."
+            "en": "A pleasant walk from the basilica across the river.",
+            "pl": "Przyjemny spacer z bazyliki przez rzekę."
           }
         },
         {
@@ -1328,7 +1440,8 @@
             "de": "Stadtpark",
             "hu": "Városi Park",
             "ro": "Parcul Municipal",
-            "en": "City Park"
+            "en": "City Park",
+            "pl": "Park Miejski"
           },
           "coords": [
             18.08,
@@ -1344,7 +1457,8 @@
             "de": "Der Park liegt direkt neben dem Theater und ist ideal für eine Mittagspause.",
             "hu": "A park közvetlenül a színház mellett található, ideális egy ebédszünethez.",
             "ro": "Parcul este chiar lângă teatru, ideal pentru o pauză de prânz.",
-            "en": "The park is right next to the theatre, ideal for a lunch break."
+            "en": "The park is right next to the theatre, ideal for a lunch break.",
+            "pl": "Park jest tuż obok teatru, idealny na przerwę na lunch."
           }
         },
         {
@@ -1352,7 +1466,8 @@
             "de": "Cluster 3: Archäologisches Reservat Zawodzie",
             "hu": "3. Klaszter: Zawodzie Régészeti Rezervátum",
             "ro": "Cluster 3: Rezervația Arheologică Zawodzie",
-            "en": "Cluster 3: Zawodzie Archaeological Reserve"
+            "en": "Cluster 3: Zawodzie Archaeological Reserve",
+            "pl": "Klastrowy punkt 3: Rezerwat Archeologiczny Zawodzie"
           },
           "coords": [
             18.065,
@@ -1368,7 +1483,8 @@
             "de": "Die letzte Fahrt des Tages führt Sie zu den Ursprüngen der Stadt. Es gibt einen eigenen Parkplatz.",
             "hu": "A nap utolsó autós útja a város eredetéhez vezet. Saját parkolóval rendelkezik.",
             "ro": "Ultimul drum cu mașina al zilei vă duce la originile orașului. Există o parcare dedicată.",
-            "en": "The last drive of the day takes you to the city's origins. There is a dedicated parking lot."
+            "en": "The last drive of the day takes you to the city's origins. There is a dedicated parking lot.",
+            "pl": "Ostatni przejazd dnia zaprowadzi cię do początków miasta. Jest specjalny parking."
           }
         }
       ],
@@ -1376,7 +1492,8 @@
         "de": "Parken Sie Ihr Auto im Zentrum und erkunden Sie den ersten Cluster zu Fuß: den Marktplatz, die Kathedrale und die Steinerne Brücke. Am Vormittag fahren Sie zum zweiten Cluster, um die beeindruckende Basilika St. Joseph zu besichtigen und anschließend einen Spaziergang zum Theater und in den Stadtpark für eine Mittagspause zu unternehmen. Der Nachmittag ist für eine kurze Fahrt zum Archäologischen Reservat Zawodzie reserviert, wo Sie in die faszinierende Geschichte der frühmittelalterlichen Siedlung eintauchen können, bevor Sie den Tag beenden.",
         "hu": "Parkolja le az autót a központban, és fedezze fel gyalog az első klasztert: a Fő teret, a katedrálist és a Kőhidat. Délelőtt vezessen át a második klaszterhez, hogy meglátogassa a lenyűgöző Szent József-bazilikát, majd sétáljon el a színházhoz és a Városi Parkba egy ebédszünetre. A délután egy rövid autózásra van fenntartva a Zawodzie Régészeti Rezervátumhoz, ahol elmerülhet a kora középkori település lenyűgöző történelmében, mielőtt befejezné a napot.",
         "ro": "Parcați mașina în centru și explorați primul cluster pe jos: Piața Centrală, catedrala și Podul de Piatră. La amiază, conduceți spre al doilea cluster pentru a vizita impresionanta Bazilică Sf. Iosif, urmată de o plimbare la teatru și în Parcul Municipal pentru o pauză de prânz. După-amiaza este rezervată unei scurte călătorii cu mașina la Rezervația Arheologică Zawodzie, unde vă puteți cufunda în istoria fascinantă a așezării medievale timpurii înainte de a încheia ziua.",
-        "en": "Park your car in the center and explore the first cluster on foot: the Market Square, the cathedral, and the Stone Bridge. Mid-morning, drive to the second cluster to visit the impressive St. Joseph's Basilica, followed by a walk to the theatre and into the City Park for a lunch break. The afternoon is reserved for a short drive to the Zawodzie Archaeological Reserve, where you can immerse yourself in the fascinating history of the early medieval settlement before ending your day."
+        "en": "Park your car in the center and explore the first cluster on foot: the Market Square, the cathedral, and the Stone Bridge. Mid-morning, drive to the second cluster to visit the impressive St. Joseph's Basilica, followed by a walk to the theatre and into the City Park for a lunch break. The afternoon is reserved for a short drive to the Zawodzie Archaeological Reserve, where you can immerse yourself in the fascinating history of the early medieval settlement before ending your day.",
+        "pl": "Zaparkuj w centrum i pieszo zwiedź pierwszy klaster: Rynek, katedrę i Kamienny Most. W połowie przedpołudnia jedź do drugiego klastra, by odwiedzić imponującą Bazylikę św. Józefa, potem przespaceruj się do teatru i do Parku Miejskiego na przerwę obiadową. Popołudnie zarezerwowane jest na krótki przejazd do Rezerwatu Archeologicznego Zawodzie, gdzie możesz zanurzyć się w fascynującej historii wczesnośredniowiecznego osadnictwa, zanim zakończysz dzień."
       },
       "gastro_picks": {
         "de": [
@@ -1572,6 +1689,12 @@
           "Traffic can be heavy during peak hours, so plan accordingly.",
           "A GPS is essential for navigating between clusters.",
           "Use the car to visit slightly more distant but worthwhile places like the Zawodzie Reserve."
+        ],
+        "pl": [
+          "Sprawdź z wyprzedzeniem opłaty parkingowe; niektóre miejsca mają limity czasowe.",
+          "Ruch może być duży w godzinach szczytu, więc zaplanuj trasę odpowiednio.",
+          "GPS jest niezbędny do nawigacji między klastrami.",
+          "Użyj samochodu, by odwiedzić nieco dalsze, lecz warte zobaczenia miejsca, jak Rezerwat Zawodzie."
         ]
       },
       "variants": {
@@ -1580,7 +1703,8 @@
             "de": "Mit dem Auto ist Kalisch im Regen komfortabel zu erkunden. Wir parken nahe am Rathaus für einen kurzen Rundgang.\n\nMittags steuern wir die Kathedrale an. Die Scheibenwischer halten den Blick auf die gotische Pracht frei.\n\nNachmittags führt die Fahrt zur Steinbrücke und Basilika. Wir genießen die Wärme im Wagen zwischen den Stopps.\n\nZum Abschluss geht es nach Zawodzie. Trotz des Regens ist die Anlage vom Parkplatz aus gut erreichbar und sehenswert.",
             "hu": "Autóval kényelmesen felfedezhető Kalisz az esőben is. A városháza közelében parkolunk egy rövid körre.\n\nDélben a székesegyházhoz hajtunk. Az ablaktörlők mögül is lenyűgöző a gótikus épület látványa.\n\nDélután a Kőhíd és a bazilika következik. Élvezzük az autó melegét a megállók közötti rövid utakon.\n\nA napot Zawodzie-ban zárjuk. Az eső ellenére a parkoló közel van, így könnyen bejárható a terület.",
             "ro": "Cu mașina, Kalisz este confortabil de explorat chiar și pe ploaie. Parcăm aproape de primărie pentru un tur scurt.\n\nLa prânz ne îndreptăm spre catedrală. Ștergătoarele ne permit să admirăm fațada gotică în condiții bune.\n\nDupă-amiaza drumul ne duce la Podul de Piatră și bazilică. Savurăm căldura din mașină între opriri.\n\nÎn final, mergem la Zawodzie. În ciuda ploii, situl este accesibil rapid din parcare și merită vizitat.",
-            "en": "Exploring Kalisz by car is comfortable during the rain. We park near the Town Hall for a quick walk around.\n\nAt noon, we drive to the cathedral. The wipers keep our view of the Gothic splendor clear between the raindrops.\n\nIn the afternoon, the route takes us to the Stone Bridge and Basilica. We enjoy the cabin warmth between stops.\n\nFinally, we head to Zawodzie. Despite the rain, the site is easily accessible from the parking lot and worth seeing."
+            "en": "Exploring Kalisz by car is comfortable during the rain. We park near the Town Hall for a quick walk around.\n\nAt noon, we drive to the cathedral. The wipers keep our view of the Gothic splendor clear between the raindrops.\n\nIn the afternoon, the route takes us to the Stone Bridge and Basilica. We enjoy the cabin warmth between stops.\n\nFinally, we head to Zawodzie. Despite the rain, the site is easily accessible from the parking lot and worth seeing.",
+            "pl": "Zwiedzanie Kalisza samochodem jest wygodne podczas deszczu. Parkujemy przy Ratuszu na szybki spacer po okolicy.\n\nW południe jedziemy do katedry. Wyposażenie wycieraczek utrzymuje widok na gotyckie piękno między kroplami deszczu.\n\nPo południu trasa prowadzi nas do Kamiennego Mostu i Bazyliki. Korzystamy z ciepła w kabinie między przystankami.\n\nNa koniec jedziemy do Zawodzia. Pomimo deszczu miejsce jest łatwo dostępne z parkingu i warte zobaczenia."
           },
           "stops": [
             {
@@ -1589,7 +1713,8 @@
                 "de": "Parken Sie in der Nähe der Markthalle, um trocken zu bleiben.",
                 "hu": "Parkoljon a vásárcsarnok közelében, hogy száraz maradjon.",
                 "ro": "Parcați lângă hala comercială pentru a rămâne uscați.",
-                "en": "Park near the market hall to minimize walking in the rain."
+                "en": "Park near the market hall to minimize walking in the rain.",
+                "pl": "Parkuj przy hali targowej, by zminimalizować spacer w deszczu."
               }
             },
             {
@@ -1598,7 +1723,8 @@
                 "de": "Nutzen Sie den Parkstreifen direkt vor der Kirche.",
                 "hu": "Használja a közvetlenül a templom előtti parkolósávot.",
                 "ro": "Folosiți locurile de parcare direct din fața bisericii.",
-                "en": "Use the parking strip directly in front of the church."
+                "en": "Use the parking strip directly in front of the church.",
+                "pl": "Skorzystaj z pasa parkingowego bezpośrednio przed kościołem."
               }
             },
             {
@@ -1607,7 +1733,8 @@
                 "de": "Kurzer Fotostopp; Parken am Straßenrand kurzzeitig möglich.",
                 "hu": "Gyors fotómegálló; a rövid idejű parkolás megoldható.",
                 "ro": "Scurt popas foto; parcarea pe marginea drumului e posibilă.",
-                "en": "Quick photo stop; curbside parking is briefly possible."
+                "en": "Quick photo stop; curbside parking is briefly possible.",
+                "pl": "Szybki postój na zdjęcie; chwilowe postoju przy krawężniku jest możliwe."
               }
             },
             {
@@ -1616,7 +1743,8 @@
                 "de": "Großer Parkplatz vorhanden; ideal bei starkem Regen.",
                 "hu": "Nagy parkoló áll rendelkezésre; ideális szakadó esőben.",
                 "ro": "Parcare mare disponibilă; ideală în caz de ploaie torențială.",
-                "en": "Large parking area available; ideal for heavy rain."
+                "en": "Large parking area available; ideal for heavy rain.",
+                "pl": "Duży parking dostępny; idealny przy silnym deszczu."
               }
             },
             {
@@ -1625,7 +1753,8 @@
                 "de": "Vorsicht vor tiefen Pfützen bei der Parkplatzsuche.",
                 "hu": "Vigyázzon a mély tócsákra parkolóhely keresése közben.",
                 "ro": "Atenție la bălțile adânci când căutați loc de parcare.",
-                "en": "Watch out for deep puddles when looking for parking."
+                "en": "Watch out for deep puddles when looking for parking.",
+                "pl": "Uważaj na głębokie kałuże podczas poszukiwania miejsca parkingowego."
               }
             },
             {
@@ -1634,7 +1763,8 @@
                 "de": "Parken Sie am Haupteingang für den kürzesten Weg.",
                 "hu": "A főbejáratnál parkoljon a legrövidebb sétához.",
                 "ro": "Parcați la intrarea principală pentru cel mai scurt traseu.",
-                "en": "Park at the main entrance for the shortest walk."
+                "en": "Park at the main entrance for the shortest walk.",
+                "pl": "Zaparkuj przy głównym wejściu, by mieć najkrótszy spacer."
               }
             },
             {
@@ -1643,7 +1773,8 @@
                 "de": "Der Parkplatz kann bei Dauerregen schlammig sein.",
                 "hu": "A parkoló tartós esőben saras lehet.",
                 "ro": "Parcarea poate fi noroioasă în caz de ploaie continuă.",
-                "en": "The parking area can get muddy during persistent rain."
+                "en": "The parking area can get muddy during persistent rain.",
+                "pl": "Parking może być błotnisty podczas długotrwałego deszczu."
               }
             }
           ],
@@ -1671,6 +1802,12 @@
               "Keep windows defogged for the best view of the city.",
               "Some narrow central streets can be slippery when wet.",
               "Use parking apps to avoid paying at machines in the rain."
+            ],
+            "pl": [
+              "Uważaj na pieszych z parasolami; widoczność jest ograniczona.",
+              "Odparowuj szyby, by mieć najlepszy widok na miasto.",
+              "Niektóre wąskie ulice w centrum bywają śliskie po zmoczeniu.",
+              "Użyj aplikacji parkingowych, by nie płacić przy automatach w deszczu."
             ]
           }
         },
@@ -1679,7 +1816,8 @@
             "de": "Eine winterliche Autofahrt durch Kalisch ist sicher und warm. Am Morgen glitzert der Raureif auf dem Markt.\n\nMittags steuern wir die Kathedrale an. Die Heizung sorgt für Wohlbefinden, während wir die historische Route abfahren.\n\nNachmittags geht es zur Basilika und zum Theater. Der Kontrast zwischen der Kälte draußen und der Wärme im Auto ist herrlich.\n\nDen Tag beenden wir in Zawodzie. Das archäologische Reservat im Schnee wirkt wie aus einem Märchen, bevor wir den Rückweg antreten.",
             "hu": "A téli autózás Kaliszban biztonságos és meleg. Reggel a zúzmara csillog a városháza előtti téren.\n\nDélben a székesegyházhoz hajtunk. A fűtés kellemes meleget ad, miközben bejárjuk a történelmi útvonalat.\n\nDélután a bazilika és a színház következik. Remek kontraszt a kinti hideg és a benti meleg között.\n\nA napot Zawodzie-ban zárjuk. A hófödte régészeti park olyan, mint egy mese, mielőtt visszaindulnánk.",
             "ro": "O tură cu mașina prin Kalisz de iarnă este sigură și caldă. Dimineața, promoroaca sclipește în piață.\n\nLa prânz mergem spre catedrală. Căldura din interior ne oferă confort în timp ce parcurgem traseul istoric.\n\nDupă-amiaza vizităm bazilica și teatrul. Contrastul dintre frigul de afară și căldura din mașină e minunat.\n\nÎncheiem ziua la Zawodzie. Rezervația arheologică sub zăpadă pare desprinsă din povești înainte de plecare.",
-            "en": "A winter drive through Kalisz is both safe and warm. In the morning, hoarfrost glitters on the Market Square.\n\nAt noon, we drive to the cathedral. The car heater keeps us cozy as we follow the historic route.\n\nIn the afternoon, we visit the Basilica and the theater. The contrast between the cold outside and the warm cabin is great.\n\nWe finish the day at Zawodzie. The snow-covered archaeological reserve looks like a fairytale before we head back."
+            "en": "A winter drive through Kalisz is both safe and warm. In the morning, hoarfrost glitters on the Market Square.\n\nAt noon, we drive to the cathedral. The car heater keeps us cozy as we follow the historic route.\n\nIn the afternoon, we visit the Basilica and the theater. The contrast between the cold outside and the warm cabin is great.\n\nWe finish the day at Zawodzie. The snow-covered archaeological reserve looks like a fairytale before we head back.",
+            "pl": "Zimowa jazda po Kaliszu jest zarówno bezpieczna, jak i przyjemna. Rankiem szadź błyszczy na Rynku.\n\nW południe jedziemy do katedry. Ogrzewanie w samochodzie utrzymuje nas w cieple, gdy podążamy historyczną trasą.\n\nPo południu odwiedzamy Bazylikę i teatr. Kontrast między zimnem na zewnątrz a ciepłem w kabinie jest przyjemny.\n\nKończymy dzień w Zawodziu. Zaśnieżony rezerwat archeologiczny wygląda jak z bajki, zanim wrócimy."
           },
           "stops": [
             {
@@ -1688,7 +1826,8 @@
                 "de": "Parkplätze werden im Winter oft schlecht geräumt.",
                 "hu": "A parkolókat télen gyakran rosszul takarítják.",
                 "ro": "Parcările sunt adesea prost deszăpezite iarna.",
-                "en": "Parking spots are often poorly cleared of snow in winter."
+                "en": "Parking spots are often poorly cleared of snow in winter.",
+                "pl": "Miejsca parkingowe często są słabo odśnieżone zimą."
               }
             },
             {
@@ -1697,7 +1836,8 @@
                 "de": "Achten Sie beim Aussteigen auf Eis auf dem Bürgersteig.",
                 "hu": "Vigyázzon a jégre a járdán kiszálláskor.",
                 "ro": "Atenție la gheața de pe trotuar când coborâți din mașină.",
-                "en": "Watch out for ice on the sidewalk when exiting the car."
+                "en": "Watch out for ice on the sidewalk when exiting the car.",
+                "pl": "Uważaj na lód na chodniku przy wysiadaniu z auta."
               }
             },
             {
@@ -1706,7 +1846,8 @@
                 "de": "Die Brücke kann extrem glatt sein; langsam fahren.",
                 "hu": "A híd rendkívül csúszós lehet; hajtson lassan.",
                 "ro": "Podul poate fi extrem de alunecos; conduceți încet.",
-                "en": "The bridge surface can be extremely icy; drive slowly."
+                "en": "The bridge surface can be extremely icy; drive slowly.",
+                "pl": "Powierzchnia mostu może być wyjątkowo oblodzona; jedź powoli."
               }
             },
             {
@@ -1715,7 +1856,8 @@
                 "de": "Der Parkplatz ist meist gut geräumt und sicher.",
                 "hu": "A parkolót általában jól takarítják és biztonságos.",
                 "ro": "Parcarea este de obicei bine deszăpezită și sigură.",
-                "en": "The parking area is usually well-cleared and safe."
+                "en": "The parking area is usually well-cleared and safe.",
+                "pl": "Obszar parkingowy zwykle jest dobrze odśnieżony i bezpieczny."
               }
             },
             {
@@ -1724,7 +1866,8 @@
                 "de": "Gute Beleuchtung am Parkplatz am späten Nachmittag.",
                 "hu": "Jó a világítás a parkolónál késő délután.",
                 "ro": "Parcarea e bine iluminată după-amiaza târziu.",
-                "en": "Good lighting in the parking area in the late afternoon."
+                "en": "Good lighting in the parking area in the late afternoon.",
+                "pl": "Dobre oświetlenie na parkingu późnym popołudniem."
               }
             },
             {
@@ -1733,7 +1876,8 @@
                 "de": "Parken Sie nicht unter schneebedeckten Bäumen.",
                 "hu": "Ne parkoljon hótól roskadozó fák alá.",
                 "ro": "Nu parcați sub copaci încărcați cu zăpadă.",
-                "en": "Avoid parking under trees heavily laden with snow."
+                "en": "Avoid parking under trees heavily laden with snow.",
+                "pl": "Unikaj parkowania pod drzewami ciężko obciążonymi śniegiem."
               }
             },
             {
@@ -1742,7 +1886,8 @@
                 "de": "Winterreifen sind für die Zufahrt unerlässlich.",
                 "hu": "A téli gumi elengedhetetlen a behajtáshoz.",
                 "ro": "Anvelopele de iarnă sunt obligatorii pentru acces.",
-                "en": "Winter tires are essential for the access road here."
+                "en": "Winter tires are essential for the access road here.",
+                "pl": "Opony zimowe są niezbędne na drodze dojazdowej tutaj."
               }
             }
           ],
@@ -1770,6 +1915,12 @@
               "Top up your antifreeze windshield washer fluid in time.",
               "Watch out for snowplows in the narrow central streets.",
               "Dusk falls early; double-check your car's lighting."
+            ],
+            "pl": [
+              "Upewnij się, że opony zimowe są w dobrym stanie, by zapewnić przyczepność.",
+              "Uzupełnij płyn do spryskiwaczy z przeciwzamarzającym środkiem na czas.",
+              "Uważaj na pługi śnieżne na wąskich uliczkach centrum.",
+              "Zmrok zapada wcześnie; sprawdź oświetlenie samochodu."
             ]
           }
         }
@@ -1788,7 +1939,8 @@
             "de": "Cluster 1: Rathaus",
             "hu": "1. Klaszter: Városháza",
             "ro": "Cluster 1: Primăria",
-            "en": "Cluster 1: Town Hall"
+            "en": "Cluster 1: Town Hall",
+            "pl": "Klastrowy punkt 1: Ratusz"
           },
           "coords": [
             18.092,
@@ -1804,7 +1956,8 @@
             "de": "Nehmen Sie einen Bus zum Hauptplatz (Rynek). Dies ist Ihr erster Cluster.",
             "hu": "Menjen busszal a Fő térre (Rynek). Ez az első klaszter.",
             "ro": "Luați un autobuz până în Piața Principală (Rynek). Acesta este primul dvs. cluster.",
-            "en": "Take a bus to the Main Square (Rynek). This is your first cluster."
+            "en": "Take a bus to the Main Square (Rynek). This is your first cluster.",
+            "pl": "Jedź autobusem na Rynek Główny (Rynek). To twój pierwszy klaster."
           }
         },
         {
@@ -1812,7 +1965,8 @@
             "de": "Kathedrale St. Nikolaus",
             "hu": "Szent Miklós-katedrális",
             "ro": "Catedrala Sfântul Nicolae",
-            "en": "St. Nicholas Cathedral"
+            "en": "St. Nicholas Cathedral",
+            "pl": "Katedra św. Mikołaja"
           },
           "coords": [
             18.087,
@@ -1828,7 +1982,8 @@
             "de": "Ein kurzer Spaziergang vom Rathaus durch die Altstadt.",
             "hu": "Rövid séta a Városházától az óvároson keresztül.",
             "ro": "O scurtă plimbare de la primărie prin orașul vechi.",
-            "en": "A short walk from the town hall through the old town."
+            "en": "A short walk from the town hall through the old town.",
+            "pl": "Krótki spacer z ratusza przez starówkę."
           }
         },
         {
@@ -1836,7 +1991,8 @@
             "de": "Stanislaus-Kirche",
             "hu": "Szent Szaniszló-templom",
             "ro": "Biserica Sfântul Stanislav",
-            "en": "St. Stanislaus' Church"
+            "en": "St. Stanislaus' Church",
+            "pl": "Kościół św. Stanisława"
           },
           "coords": [
             18.095,
@@ -1852,7 +2008,8 @@
             "de": "Die letzte Station in diesem Cluster, bevor Sie den Bus nehmen.",
             "hu": "Az utolsó állomás ebben a klaszterben, mielőtt buszra szállna.",
             "ro": "Ultima oprire din acest cluster înainte de a lua autobuzul.",
-            "en": "The last stop in this cluster before you take the bus."
+            "en": "The last stop in this cluster before you take the bus.",
+            "pl": "Ostatni przystanek w tym klastrze przed wsiadaniem do autobusu."
           }
         },
         {
@@ -1860,7 +2017,8 @@
             "de": "Cluster 2: Basilika St. Joseph",
             "hu": "2. Klaszter: Szent József-bazilika",
             "ro": "Cluster 2: Bazilica Sfântul Iosif",
-            "en": "Cluster 2: St. Joseph's Basilica"
+            "en": "Cluster 2: St. Joseph's Basilica",
+            "pl": "Klastrowy punkt 2: Bazylika św. Józefa"
           },
           "coords": [
             18.08,
@@ -1876,7 +2034,8 @@
             "de": "Nehmen Sie einen Bus, der in die Nähe des Heiligtums St. Joseph fährt.",
             "hu": "Menjen busszal a Szent József-szentély közelébe.",
             "ro": "Luați un autobuz care merge în apropierea Sanctuarului Sf. Iosif.",
-            "en": "Take a bus that goes near St. Joseph's Sanctuary."
+            "en": "Take a bus that goes near St. Joseph's Sanctuary.",
+            "pl": "Wsiądź do autobusu, który podjeżdża w okolice Sanktuarium św. Józefa."
           }
         },
         {
@@ -1884,7 +2043,8 @@
             "de": "Stadtpark",
             "hu": "Városi Park",
             "ro": "Parcul Municipal",
-            "en": "City Park"
+            "en": "City Park",
+            "pl": "Park Miejski"
           },
           "coords": [
             18.08,
@@ -1900,7 +2060,8 @@
             "de": "Vom Heiligtum aus ist es ein schöner Spaziergang zum Park für eine längere Pause.",
             "hu": "A szentélytől kellemes séta vezet a parkba egy hosszabb pihenőre.",
             "ro": "De la sanctuar, este o plimbare plăcută până la parc pentru o pauză mai lungă.",
-            "en": "From the sanctuary, it's a nice walk to the park for a long break."
+            "en": "From the sanctuary, it's a nice walk to the park for a long break.",
+            "pl": "Od sanktuarium to przyjemny spacer do parku na dłuższą przerwę."
           }
         },
         {
@@ -1908,7 +2069,8 @@
             "de": "Cluster 3: Archäologisches Reservat Zawodzie",
             "hu": "3. Klaszter: Zawodzie Régészeti Rezervátum",
             "ro": "Cluster 3: Rezervația Arheologică Zawodzie",
-            "en": "Cluster 3: Zawodzie Archaeological Reserve"
+            "en": "Cluster 3: Zawodzie Archaeological Reserve",
+            "pl": "Klastrowy punkt 3: Rezerwat Archeologiczny Zawodzie"
           },
           "coords": [
             18.065,
@@ -1924,7 +2086,8 @@
             "de": "Für diesen letzten Halt müssen Sie möglicherweise eine andere Buslinie nehmen. Überprüfen Sie die Route im Voraus.",
             "hu": "Ehhez az utolsó megállóhoz lehet, hogy másik buszjáratra kell szállnia. Ellenőrizze az útvonalat előre.",
             "ro": "Pentru această ultimă oprire, s-ar putea să fie nevoie să luați o altă linie de autobuz. Verificați ruta în avans.",
-            "en": "You might need to take a different bus line for this final stop. Check the route beforehand."
+            "en": "You might need to take a different bus line for this final stop. Check the route beforehand.",
+            "pl": "Może być konieczne przesiadanie się na inną linię autobusową na ten ostatni przystanek. Sprawdź trasę wcześniej."
           }
         },
         {
@@ -1932,7 +2095,8 @@
             "de": "Rückkehr ins Zentrum",
             "hu": "Vissza a központba",
             "ro": "Întoarcere în centru",
-            "en": "Return to Center"
+            "en": "Return to Center",
+            "pl": "Powrót do Centrum"
           },
           "coords": [
             18.0911,
@@ -1948,7 +2112,8 @@
             "de": "Nehmen Sie den Bus zurück ins Stadtzentrum, um den Tag ausklingen zu lassen.",
             "hu": "Menjen busszal vissza a városközpontba, hogy lezárja a napot.",
             "ro": "Luați autobuzul înapoi în centrul orașului pentru a încheia ziua.",
-            "en": "Take the bus back to the city center to wrap up your day."
+            "en": "Take the bus back to the city center to wrap up your day.",
+            "pl": "Wróć autobusem do centrum miasta, aby zakończyć dzień."
           }
         }
       ],
@@ -1956,7 +2121,8 @@
         "de": "Nutzen Sie das öffentliche Verkehrsnetz von Kalisz. Beginnen Sie mit einer Busfahrt zum Marktplatz und erkunden Sie die Altstadt zu Fuß. Ein weiterer Bus bringt Sie am späten Vormittag in die Nähe der Basilika St. Joseph, von wo aus Sie gemütlich zum Stadtpark für eine ausgiebige Mittagspause schlendern können. Der Nachmittag ist einem Ausflug mit dem Bus zum Archäologischen Reservat Zawodzie gewidmet, der Ihnen tiefe Einblicke in die Anfänge Polens gewährt, bevor Sie ins Zentrum zurückkehren.",
         "hu": "Használja ki Kalisz tömegközlekedési hálózatát. Kezdje egy buszúttal a Fő térre, és fedezze fel gyalog az óvárost. Késő délelőtt egy másik busz elviszi a Szent József-bazilika közelébe, ahonnan kényelmesen átsétálhat a Városi Parkba egy kiadós ebédszünetre. A délután egy buszos kirándulásról szól a Zawodzie Régészeti Rezervátumba, amely mély betekintést nyújt Lengyelország kezdeteibe, mielőtt visszatérne a központba.",
         "ro": "Folosiți rețeaua de transport public din Kalisz. Începeți cu o călătorie cu autobuzul până la Piața Centrală și explorați orașul vechi pe jos. Un alt autobuz vă va duce spre sfârșitul dimineții în apropierea Bazilicii Sf. Iosif, de unde puteți face o plimbare lejeră până în Parcul Municipal pentru o pauză de prânz consistentă. După-amiaza este dedicată unei excursii cu autobuzul la Rezervația Arheologică Zawodzie, oferindu-vă o perspectivă profundă asupra începuturilor Poloniei, înainte de a vă întoarce în centru.",
-        "en": "Make use of Kalisz's public transport network. Start with a bus ride to the Market Square and explore the old town on foot. Another bus will take you near St. Joseph's Basilica in the late morning, from where you can take a leisurely stroll to the City Park for a long lunch break. The afternoon is dedicated to a bus trip to the Zawodzie Archaeological Reserve, giving you deep insights into Poland's beginnings before you return to the center."
+        "en": "Make use of Kalisz's public transport network. Start with a bus ride to the Market Square and explore the old town on foot. Another bus will take you near St. Joseph's Basilica in the late morning, from where you can take a leisurely stroll to the City Park for a long lunch break. The afternoon is dedicated to a bus trip to the Zawodzie Archaeological Reserve, giving you deep insights into Poland's beginnings before you return to the center.",
+        "pl": "Skorzystaj z sieci transportu publicznego Kalisza. Zacznij od przejazdu autobusem na Rynek i zwiedzaj starówkę pieszo. Kolejny autobus zawiezie cię w okolice Bazyliki św. Józefa późnym przedpołudniem, skąd możesz spacerem dojść do Parku Miejskiego na długą przerwę obiadową. Popołudnie przeznaczone jest na przejazd autobusem do Rezerwatu Archeologicznego Zawodzie, co da ci pogłębione spojrzenie na początki Polski, zanim wrócisz do centrum."
       },
       "gastro_picks": {
         "de": [
@@ -2152,6 +2318,12 @@
           "Download a public transport app to track routes and schedules in real-time.",
           "Pay attention to the final destinations, especially when heading to Zawodzie.",
           "Keep an eye on your belongings at busy stops and on crowded buses."
+        ],
+        "pl": [
+          "Kup bilet całodniowy na autobus — zazwyczaj to najtańsza opcja.",
+          "Pobierz aplikację transportu publicznego, by śledzić trasy i rozkłady w czasie rzeczywistym.",
+          "Zwróć uwagę na końcowe destynacje, zwłaszcza udając się do Zawodzia.",
+          "Pilnuj swoich rzeczy na zatłoczonych przystankach i w zatłoczonych autobusach."
         ]
       },
       "variants": {
@@ -2160,7 +2332,8 @@
             "de": "Die Busse in Kalisch sind eine trockene Alternative im Regen. Wir starten am Markt und nutzen die Linien zum Zentrum.\n\nMittags erreichen wir die Kathedrale und St. Stanislaus. Die Wartezeiten an den überdachten Haltestellen sind kurz.\n\nNachmittags bringt uns der Bus zur Basilika und weiter Richtung Zawodzie. Wir beobachten den Regen durch das Busfenster.\n\nDer Tag endet mit einer entspannten Rückfahrt ins Stadtzentrum, während die Stadtlichter im nassen Asphalt glitzern.",
             "hu": "Kalisz buszai száraz alternatívát kínálnak az esőben. A főtérről indulva használjuk a központi járatokat.\n\nDélben érjük el a székesegyházat és a Szent Szaniszló-templomot. A fedett megállókban nem ázunk meg.\n\nDélután busszal megyünk a bazilikához, majd Zawodzie felé. Az ablakból figyeljük az esőáztatta várost.\n\nA nap egy nyugodt buszozással ér véget a központ felé, miközben a fények csillognak a vizes aszfalton.",
             "ro": "Autobuzele din Kalisz sunt o alternativă uscată pe timp de ploaie. Pornim din piață și folosim liniile centrale.\n\nLa prânz ajungem la catedrală și la Biserica Sf. Stanislau. Timpul de așteptare în stațiile acoperite e scurt.\n\nDupă-amiaza autobuzul ne duce la bazilică și apoi spre Zawodzie. Admirăm orașul ud prin geamul vehiculului.\n\nZiua se încheie cu o întoarcere relaxată spre centru, în timp ce luminile orașului sclipesc pe asfaltul ud.",
-            "en": "Kalisz buses offer a dry alternative during the rain. We start at the square and use the central lines to get around.\n\nAt noon, we reach the cathedral and St. Stanislaus' Church. Waiting times at sheltered stops are brief.\n\nIn the afternoon, the bus takes us to the Basilica and onwards to Zawodzie. We watch the rain from the bus window.\n\nThe day ends with a relaxed ride back to the city center as the lights glisten on the wet pavement."
+            "en": "Kalisz buses offer a dry alternative during the rain. We start at the square and use the central lines to get around.\n\nAt noon, we reach the cathedral and St. Stanislaus' Church. Waiting times at sheltered stops are brief.\n\nIn the afternoon, the bus takes us to the Basilica and onwards to Zawodzie. We watch the rain from the bus window.\n\nThe day ends with a relaxed ride back to the city center as the lights glisten on the wet pavement.",
+            "pl": "Autobusy Kalisza oferują suchą alternatywę podczas deszczu. Zaczynamy na Rynku i korzystamy z linii centralnych, by się przemieszczać.\n\nW południe docieramy do katedry i kościoła św. Stanisława. Czas oczekiwania na zadaszonych przystankach jest krótki.\n\nPo południu autobus zabiera nas do Bazyliki, a potem do Zawodzia. Obserwujemy deszcz przez szybę autobusu.\n\nDzień kończy się spokojnym powrotem do centrum, gdy światła migoczą na mokrym bruku."
           },
           "stops": [
             {
@@ -2169,7 +2342,8 @@
                 "de": "Zentrale Umsteigestelle mit vielen Unterständen.",
                 "hu": "Központi átszállóhely sok fedett várakozóval.",
                 "ro": "Punct central de transfer cu multe adăposturi.",
-                "en": "Central transfer point with plenty of sheltered areas."
+                "en": "Central transfer point with plenty of sheltered areas.",
+                "pl": "Centralny punkt przesiadkowy z wieloma zadaszonymi miejscami."
               }
             },
             {
@@ -2178,7 +2352,8 @@
                 "de": "Haltestelle liegt sehr nah am Eingang.",
                 "hu": "A megálló nagyon közel van a bejárathoz.",
                 "ro": "Stația de autobuz este foarte aproape de intrare.",
-                "en": "The bus stop is located very close to the entrance."
+                "en": "The bus stop is located very close to the entrance.",
+                "pl": "Przystanek znajduje się bardzo blisko wejścia."
               }
             },
             {
@@ -2187,7 +2362,8 @@
                 "de": "Kurzer Weg von der Bushaltestelle, wenig Regenrisiko.",
                 "hu": "Rövid séta a megállótól, kevés esély az ázásra.",
                 "ro": "Drum scurt de la stație, risc minim de a vă uda.",
-                "en": "Short walk from the stop, minimal risk of getting wet."
+                "en": "Short walk from the stop, minimal risk of getting wet.",
+                "pl": "Krótki spacer od przystanku, minimalne ryzyko zmoknięcia."
               }
             },
             {
@@ -2196,7 +2372,8 @@
                 "de": "Große überdachte Haltestelle in der Nähe.",
                 "hu": "Nagy fedett megálló található a közelben.",
                 "ro": "Stație mare acoperită disponibilă în apropiere.",
-                "en": "There is a large sheltered bus stop nearby."
+                "en": "There is a large sheltered bus stop nearby.",
+                "pl": "W pobliżu jest duży zadaszony przystanek autobusowy."
               }
             },
             {
@@ -2205,7 +2382,8 @@
                 "de": "Bei starkem Regen die Busfahrt durch den Park genießen.",
                 "hu": "Szakadó esőben élvezze a buszos utazást a park mellett.",
                 "ro": "Pe ploaie torențială, admirați parcul din autobuz.",
-                "en": "In heavy rain, enjoy the view of the park from the bus."
+                "en": "In heavy rain, enjoy the view of the park from the bus.",
+                "pl": "W czasie ulewy podziwiaj widok parku z autobusu."
               }
             },
             {
@@ -2214,7 +2392,8 @@
                 "de": "Prüfen Sie die Rückfahrzeiten bei Regen vorab.",
                 "hu": "Esőben érdemes előre megnézni a visszautat.",
                 "ro": "Verificați orarul de întoarcere din timp pe ploaie.",
-                "en": "Check return bus times in advance when it's raining."
+                "en": "Check return bus times in advance when it's raining.",
+                "pl": "Sprawdź godziny powrotu autobusu zawczasu, gdy pada."
               }
             },
             {
@@ -2223,7 +2402,8 @@
                 "de": "Bequeme Rückfahrt zum Ausgangspunkt im Trockenen.",
                 "hu": "Kényelmes és száraz visszautazás a kiindulópontra.",
                 "ro": "Întoarcere confortabilă și uscată la punctul de plecare.",
-                "en": "Comfortable and dry ride back to the starting point."
+                "en": "Comfortable and dry ride back to the starting point.",
+                "pl": "Komfortowy i suchy przejazd z powrotem do punktu wyjścia."
               }
             }
           ],
@@ -2251,6 +2431,12 @@
               "Have small change or a card ready for the ticket machine.",
               "Buses can be crowded in the rain; allow extra travel time.",
               "The stops at the Market Square offer the best rain protection."
+            ],
+            "pl": [
+              "Użyj aplikacji KLA do odjazdów autobusów w czasie rzeczywistym.",
+              "Miej drobne lub kartę przygotowane do biletu w automacie.",
+              "Autobusy mogą być zatłoczone w czasie deszczu; zaplanuj dodatkowy czas podróży.",
+              "Przystanki na Rynku oferują najlepszą ochronę przed deszczem."
             ]
           }
         },
@@ -2259,7 +2445,8 @@
             "de": "Dank der beheizten Busse ist Kalisch im Winter gut zu erleben. Wir starten die Tour am frostigen Alten Markt.\n\nMittags besuchen wir die Kathedrale und die Kirchen im Zentrum. Der Wechsel zwischen Kälte und warmen Bussen ist angenehm.\n\nAm Nachmittag fahren wir nach Zawodzie. Die schneebedeckte Landschaft zieht am Busfenster vorbei, während wir im Warmen sitzen.\n\nDie Rückfahrt zum Zentrum am Abend bietet einen Blick auf die festlich beleuchteten Straßen der ältesten Stadt Polens.",
             "hu": "A fűtött buszoknak köszönhetően a téli Kalisz is élvezhető. A fagyos főtérről indulunk útnak.\n\nDélben a székesegyházat és a belvárosi templomokat látogatjuk meg. A kinti hideg után jól esik a busz melege.\n\nDélután Zawodzie felé vesszük az irányt. A hófödte táj elsuhan az ablak mellett, miközben mi melegben ülünk.\n\nAz esti visszautat a központba a legidősebb lengyel város díszkivilágítása teszi hangulatossá.",
             "ro": "Datorită autobuzelor încălzite, Kalisz poate fi vizitat ușor iarna. Începem turul din Piața Veche înghețată.\n\nLa prânz vizităm catedrala și bisericile centrale. Trecerea de la ger la căldura din autobuz e plăcută.\n\nDupă-amiaza mergem spre Zawodzie. Peisajul înzăpezit trece prin fața ferestrei în timp ce stăm la căldură.\n\nÎntoarcerea spre centru seara ne oferă o priveliște asupra străzilor iluminate festiv ale celui mai vechi oraș polonez.",
-            "en": "Thanks to heated buses, winter in Kalisz is easy to experience. We start our tour at the frosty Market Square.\n\nAt noon, we visit the cathedral and central churches. The switch from the cold air to warm buses is pleasant.\n\nIn the afternoon, we head towards Zawodzie. The snowy landscape drifts past the window while we sit in the warmth.\n\nThe evening ride back to the center offers a view of the festively lit streets of Poland's oldest city."
+            "en": "Thanks to heated buses, winter in Kalisz is easy to experience. We start our tour at the frosty Market Square.\n\nAt noon, we visit the cathedral and central churches. The switch from the cold air to warm buses is pleasant.\n\nIn the afternoon, we head towards Zawodzie. The snowy landscape drifts past the window while we sit in the warmth.\n\nThe evening ride back to the center offers a view of the festively lit streets of Poland's oldest city.",
+            "pl": "Dzięki ogrzewanym autobusom zimą Kalisz jest łatwy do zwiedzania. Zaczynamy trasę na oszroniałym Rynku.\n\nW południe odwiedzamy katedrę i centralne kościoły. Przesiadka z mroźnego powietrza do ciepłych autobusów jest przyjemna.\n\nPo południu kierujemy się w stronę Zawodzia. Zaśnieżony krajobraz przesuwa się za oknem, a my siedzimy w cieple.\n\nWieczorny powrót do centrum ukazuje świątecznie oświetlone ulice najstarszego miasta Polski."
           },
           "stops": [
             {
@@ -2268,7 +2455,8 @@
                 "de": "Haltestellen können im Winter glatt sein; Vorsicht!",
                 "hu": "A megállók télen csúszósak lehetnek; vigyázzon!",
                 "ro": "Stațiile pot fi alunecoase iarna; atenție sporită!",
-                "en": "Bus stops can be slippery in winter; watch your step!"
+                "en": "Bus stops can be slippery in winter; watch your step!",
+                "pl": "Przystanki autobusowe mogą być śliskie zimą; uważaj kroki!"
               }
             },
             {
@@ -2277,7 +2465,8 @@
                 "de": "Kurze Wartezeit im Freien dank dichtem Takt.",
                 "hu": "Rövid várakozás a szabadban a sűrű járatoknak hála.",
                 "ro": "Așteptare scurtă în aer liber datorită frecvenței mari.",
-                "en": "Short outdoor wait time thanks to frequent bus service."
+                "en": "Short outdoor wait time thanks to frequent bus service.",
+                "pl": "Krótki czas oczekiwania na świeżym powietrzu dzięki częstym kursom."
               }
             },
             {
@@ -2286,7 +2475,8 @@
                 "de": "Wärmen Sie sich im Bus auf dem Weg hierher auf.",
                 "hu": "Melegedjen fel a buszon az idevezető úton.",
                 "ro": "Încălziți-vă în autobuz în drum spre acest obiectiv.",
-                "en": "Warm up on the bus while traveling to this stop."
+                "en": "Warm up on the bus while traveling to this stop.",
+                "pl": "Ogrzej się w autobusie podczas podróży na ten przystanek."
               }
             },
             {
@@ -2295,7 +2485,8 @@
                 "de": "Der Bus hält fast direkt vor dem Kircheneingang.",
                 "hu": "A busz szinte közvetlenül a templom előtt áll meg.",
                 "ro": "Autobuzul oprește aproape direct în fața bisericii.",
-                "en": "The bus stops almost directly in front of the church entrance."
+                "en": "The bus stops almost directly in front of the church entrance.",
+                "pl": "Autobus zatrzymuje się niemal bezpośrednio przed wejściem do kościoła."
               }
             },
             {
@@ -2304,7 +2495,8 @@
                 "de": "Vom Bus aus hat man einen tollen Blick auf den Winterpark.",
                 "hu": "A buszból remek kilátás nyílik a téli parkra.",
                 "ro": "Din autobuz aveți o vedere excelentă asupra parcului iarna.",
-                "en": "The bus provides a great view of the snow-covered park."
+                "en": "The bus provides a great view of the snow-covered park.",
+                "pl": "Autobus zapewnia świetny widok na zaśnieżony park."
               }
             },
             {
@@ -2313,7 +2505,8 @@
                 "de": "Achten Sie auf den speziellen Winterfahrplan.",
                 "hu": "Figyelje a speciális téli menetrendet.",
                 "ro": "Verificați orarul special de iarnă pentru această linie.",
-                "en": "Check for any specific winter schedule adjustments."
+                "en": "Check for any specific winter schedule adjustments.",
+                "pl": "Sprawdź ewentualne zimowe korekty rozkładu jazdy."
               }
             },
             {
@@ -2322,7 +2515,8 @@
                 "de": "Genießen Sie die beleuchtete Stadt bei der Rückfahrt.",
                 "hu": "Élvezze a kivilágított várost a visszaút során.",
                 "ro": "Admirați orașul iluminat în timpul drumului de întoarcere.",
-                "en": "Enjoy the city lights during your ride back to the center."
+                "en": "Enjoy the city lights during your ride back to the center.",
+                "pl": "Podziwiaj miejskie światła podczas powrotu do centrum."
               }
             }
           ],
@@ -2350,6 +2544,12 @@
               "Heavy snowfall may cause minor delays in the schedule.",
               "Heating on KLA buses is usually very effective.",
               "Plan your return before 4:30 PM if you want to catch the daylight."
+            ],
+            "pl": [
+              "Autobusy to najcieplejszy sposób poruszania się po mieście zimą.",
+              "Intensywne opady śniegu mogą powodować drobne opóźnienia w rozkładzie.",
+              "Ogrzewanie w autobusach KLA zwykle działa bardzo skutecznie.",
+              "Zaplanuj powrót przed 16:30, jeśli chcesz zdążyć za dnia."
             ]
           }
         }

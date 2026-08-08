@@ -21,7 +21,8 @@
             "de": "Altes Rathaus und Marktplatz",
             "hu": "Régi Városháza és Piactér",
             "ro": "Primăria Veche și Piața Centrală",
-            "en": "Old Town Hall and Market Square"
+            "en": "Old Town Hall and Market Square",
+            "pl": "Ratusz Staromiejski i Rynek"
           },
           "coords": [
             16.1618,
@@ -37,7 +38,8 @@
             "de": "Bewundern Sie die barocke Fassade und die Neptunstatue.",
             "hu": "Csodálja meg a barokk homlokzatot és a Neptun-szobrot.",
             "ro": "Admirați fațada barocă și statuia lui Neptun.",
-            "en": "Admire the Baroque facade and the Neptune statue."
+            "en": "Admire the Baroque facade and the Neptune statue.",
+            "pl": "Podziwiaj barokową fasadę i posąg Neptuna."
           }
         },
         {
@@ -45,7 +47,8 @@
             "de": "Kathedrale St. Peter und Paul",
             "hu": "Szent Péter és Pál Katedrális",
             "ro": "Catedrala Sfinții Petru și Pavel",
-            "en": "Cathedral of Saints Peter and Paul"
+            "en": "Cathedral of Saints Peter and Paul",
+            "pl": "Katedra Świętych Piotra i Pawła"
           },
           "coords": [
             16.1645,
@@ -61,7 +64,8 @@
             "de": "Suchen Sie nach dem gotischen Portal und den beeindruckenden Glasfenstern.",
             "hu": "Keresse meg a gótikus kapuzatot és a lenyűgöző ólomüveg ablakokat.",
             "ro": "Căutați portalul gotic și vitraliile impresionante.",
-            "en": "Look for the Gothic portal and the impressive stained-glass windows."
+            "en": "Look for the Gothic portal and the impressive stained-glass windows.",
+            "pl": "Szukaj gotyckiego portalu i imponujących witraży."
           }
         },
         {
@@ -69,7 +73,8 @@
             "de": "Piastenschloss",
             "hu": "Piast-kastély",
             "ro": "Castelul Piast",
-            "en": "Piast Castle"
+            "en": "Piast Castle",
+            "pl": "Zamek Piastów"
           },
           "coords": [
             16.158,
@@ -85,7 +90,8 @@
             "de": "Besteigen Sie die Türme für eine großartige Aussicht auf die Stadt.",
             "hu": "Másszon fel a tornyokba a városra nyíló nagyszerű kilátásért.",
             "ro": "Urcați în turnuri pentru o priveliște minunată asupra orașului.",
-            "en": "Climb the towers for a great view of the city."
+            "en": "Climb the towers for a great view of the city.",
+            "pl": "Wejdź na wieże, by podziwiać wspaniały widok na miasto."
           }
         },
         {
@@ -93,7 +99,8 @@
             "de": "Kirche St. Johannes der Täufer",
             "hu": "Keresztelő Szent János-templom",
             "ro": "Biserica Sf. Ioan Botezătorul",
-            "en": "Church of St. John the Baptist"
+            "en": "Church of St. John the Baptist",
+            "pl": "Kościół św. Jana Chrzciciela"
           },
           "coords": [
             16.1595,
@@ -109,7 +116,8 @@
             "de": "Eine wunderschöne Barockkirche mit einem beeindruckenden Inneren.",
             "hu": "Egy gyönyörű barokk templom, lenyűgöző belső térrel.",
             "ro": "O frumoasă biserică barocă cu un interior impresionant.",
-            "en": "A beautiful Baroque church with an impressive interior."
+            "en": "A beautiful Baroque church with an impressive interior.",
+            "pl": "Piękny barokowy kościół z imponującym wnętrzem."
           }
         },
         {
@@ -117,7 +125,8 @@
             "de": "Kupfermuseum",
             "hu": "Rézmúzeum",
             "ro": "Muzeul Cuprului",
-            "en": "Museum of Copper"
+            "en": "Museum of Copper",
+            "pl": "Muzeum Miedzi"
           },
           "coords": [
             16.165,
@@ -133,7 +142,8 @@
             "de": "Erfahren Sie alles über die Geschichte des Kupferbergbaus in der Region.",
             "hu": "Tudjon meg mindent a régió rézbányászatának történetéről.",
             "ro": "Aflați totul despre istoria mineritului de cupru din regiune.",
-            "en": "Learn all about the history of copper mining in the region."
+            "en": "Learn all about the history of copper mining in the region.",
+            "pl": "Poznaj historię wydobycia miedzi w regionie."
           }
         },
         {
@@ -141,7 +151,8 @@
             "de": "Ritterakademie",
             "hu": "Lovagi Akadémia",
             "ro": "Academia Cavalerilor",
-            "en": "Knight's Academy"
+            "en": "Knight's Academy",
+            "pl": "Akademia Rycerska"
           },
           "coords": [
             16.156,
@@ -157,7 +168,8 @@
             "de": "Ein prächtiges Beispiel barocker Architektur, das heute als Kulturzentrum dient.",
             "hu": "A barokk építészet csodálatos példája, ma kulturális központ.",
             "ro": "Un exemplu magnific de arhitectură barocă, acum centru cultural.",
-            "en": "A magnificent example of Baroque architecture, now a cultural center."
+            "en": "A magnificent example of Baroque architecture, now a cultural center.",
+            "pl": "Wspaniały przykład architektury barokowej, dziś centrum kultury."
           }
         },
         {
@@ -165,7 +177,8 @@
             "de": "Stadtpark",
             "hu": "Városi Park",
             "ro": "Parcul Municipal",
-            "en": "City Park"
+            "en": "City Park",
+            "pl": "Park Miejski"
           },
           "coords": [
             16.17,
@@ -181,7 +194,8 @@
             "de": "Der perfekte Ort für einen entspannten Spaziergang am Ende des Tages.",
             "hu": "Tökéletes hely egy pihentető sétához a nap végén.",
             "ro": "Locul perfect pentru o plimbare relaxantă la sfârșitul zilei.",
-            "en": "The perfect place for a relaxing walk at the end of the day."
+            "en": "The perfect place for a relaxing walk at the end of the day.",
+            "pl": "Idealne miejsce na relaksujący spacer na zakończenie dnia."
           }
         }
       ],
@@ -189,7 +203,8 @@
         "de": "Beginnen Sie Ihren Tag auf dem historischen Marktplatz von Liegnitz, umgeben von farbenfrohen Gebäuden. Der Vormittag führt Sie zu den heiligen Hallen der Kathedrale und der Johanneskirche und taucht Sie in die reiche Geschichte des Piastenschlosses ein. Nach einem Mittagessen mit regionalen Spezialitäten erkunden Sie im Kupfermuseum das industrielle Erbe der Stadt und bewundern die barocke Pracht der Ritterakademie. Schließen Sie Ihren Tag mit einem friedlichen Spaziergang durch den grünen Stadtpark ab und lassen Sie die Eindrücke der schlesischen Kultur auf sich wirken.",
         "hu": "Kezdje a napot Liegnitz történelmi piacterén, színes épületekkel körülvéve. A délelőtt a katedrális és a Szent János-templom szent csarnokaiba vezet, majd elmerülhet a Piast-kastély gazdag történelmében. Egy helyi specialitásokból álló ebéd után fedezze fel a város ipari örökségét a Rézmúzeumban, és csodálja meg a Lovagi Akadémia barokk pompáját. Zárja a napot egy békés sétával a zöld Városi Parkban, magába szívva a sziléziai kultúra benyomásait.",
         "ro": "Începeți ziua în piața istorică din Legnica, înconjurat de clădiri colorate. Dimineața vă poartă spre sălile sfinte ale Catedralei și Bisericii Sf. Ioan, urmată de o imersiune în istoria bogată a Castelului Piast. După un prânz cu specialități locale, explorați moștenirea industrială a orașului la Muzeul Cuprului și admirați splendoarea barocă a Academiei Cavalerilor. Încheiați ziua cu o plimbare liniștită prin Parcul Municipal, absorbind impresiile culturii sileziene.",
-        "en": "Start your day in the historic market square of Legnica, surrounded by colorful buildings. The morning takes you to the sacred halls of the Cathedral and St. John's Church, followed by an immersion in the rich history of Piast Castle. After a lunch of local specialties, explore the city's industrial heritage at the Museum of Copper and admire the Baroque splendor of the Knight's Academy. Conclude your day with a peaceful stroll through the green City Park, soaking in the impressions of Silesian culture."
+        "en": "Start your day in the historic market square of Legnica, surrounded by colorful buildings. The morning takes you to the sacred halls of the Cathedral and St. John's Church, followed by an immersion in the rich history of Piast Castle. After a lunch of local specialties, explore the city's industrial heritage at the Museum of Copper and admire the Baroque splendor of the Knight's Academy. Conclude your day with a peaceful stroll through the green City Park, soaking in the impressions of Silesian culture.",
+        "pl": "Rozpocznij dzień na zabytkowym rynku w Legnicy, otoczonym kolorowymi kamienicami. Rano odwiedź świątynne wnętrza katedry i kościoła św. Jana, potem zanurz się w bogatej historii Zamku Piastów. Po obiedzie ze specjałami regionalnymi odkryj przemysłowe dziedzictwo miasta w Muzeum Miedzi i podziwiaj barokowy przepych Akademii Rycerskiej. Zakończ dzień spokojnym spacerem po zielonym Parku Miejskim, chłonąc wrażenia śląskiej kultury."
       },
       "gastro_picks": {
         "de": [
@@ -385,6 +400,12 @@
           "Most central sights are easily within walking distance.",
           "Keep an eye out for the many dwarf statues hidden around the city.",
           "Some museums have free admission on specific days."
+        ],
+        "pl": [
+          "Noś wygodne buty, bo bruk w starej części miasta może być nierówny.",
+          "Większość centralnych atrakcji jest łatwo dostępna pieszo.",
+          "Zwróć uwagę na wiele krasnali ukrytych po mieście.",
+          "Niektóre muzea mają darmowe wstępy w określone dni."
         ]
       },
       "variants": {
@@ -393,7 +414,8 @@
             "de": "Vormittag: Wir starten am Ring unter den Arkaden des Alten Rathauses. Die Kathedrale bietet danach einen prächtigen, trockenen Zufluchtsort. Mittags: Der Weg zum Piastenschloss ist kurz; die dicken Mauern schützen vor dem Guss. Nachmittag: Das Kupfermuseum ist ideal, um viele Stunden im Trockenen zu verbringen. Abend: Ein kurzer, atmosphärischer Spaziergang durch den nassen Stadtpark beendet den Tag.",
             "hu": "Reggel: A Főtér árkádjai alatt kezdünk, védve az esőtől. A katedrális fenséges belső tere tökéletes menedék. Délben: A Piast-vár vastag falai között folytatjuk a felfedezést. Délután: A Rézmúzeum kiállításai ideálisak a hosszabb esős órákra. Este: Egy rövid, hangulatos séta a vizes Városi Parkban, ahol az óriási fák lombjai némi védelmet nyújtanak a szemerkélő esőben.",
             "ro": "Dimineața: Începem în Piața Pieței, folosind arcadele vechii primării pentru adăpost. Catedrala este un refugiu uscat și impunător. Prânz: Castelul Piast oferă protecție între zidurile sale istorice. După-amiaza: Muzeul Cuprului este destinația perfectă pentru a evita ploaia prelungită. Seara: O scurtă plimbare atmosferică prin Parcul Orașului, unde reflexiile luminii în bălți creează un decor aparte.",
-            "en": "Morning: Start at the Market Square, utilizing the town hall arcades for shelter. The Cathedral provides a dry, majestic sanctuary. Noon: Explore the Piast Castle; its thick walls offer respite from the downpour. Afternoon: The Museum of Copper is the perfect indoor highlight for rainy hours. Evening: A brief, atmospheric stroll through the wet City Park wraps up the day under the heavy tree canopy."
+            "en": "Morning: Start at the Market Square, utilizing the town hall arcades for shelter. The Cathedral provides a dry, majestic sanctuary. Noon: Explore the Piast Castle; its thick walls offer respite from the downpour. Afternoon: The Museum of Copper is the perfect indoor highlight for rainy hours. Evening: A brief, atmospheric stroll through the wet City Park wraps up the day under the heavy tree canopy.",
+            "pl": "Poranek: Zacznij na Rynku, korzystając z arkad ratusza jako schronienia. Katedra zapewnia suche, pełne majestatu wnętrze. Południe: Zwiedź Zamek Piastów; jego grube mury są schronieniem przed ulewą. Popołudnie: Muzeum Miedzi to idealny punkt wewnątrz na deszczowe godziny. Wieczór: Krótki, nastrojowy spacer mokrym Parkiem Miejskim zamyka dzień pod gęstą koroną drzew."
           },
           "stops": [
             {
@@ -402,7 +424,8 @@
                 "de": "Nutzen Sie die Arkadengänge rund um den Platz als Regenschutz.",
                 "hu": "Használja a tér körüli árkádokat esővédőként a bámészkodáshoz.",
                 "ro": "Folosiți arcadele din jurul pieței pentru a rămâne uscați.",
-                "en": "Use the arcade passages around the square to stay dry while sightseeing."
+                "en": "Use the arcade passages around the square to stay dry while sightseeing.",
+                "pl": "Korzystaj z arkadowych przejść wokół rynku, by pozostać suchym podczas zwiedzania."
               }
             },
             {
@@ -411,7 +434,8 @@
                 "de": "Die massiven Backsteinmauern halten das Innere bei Regen angenehm trocken.",
                 "hu": "A masszív téglafalak szárazon tartják a belsőt az intenzív esőben is.",
                 "ro": "Zidurile masive de cărămidă păstrează interiorul perfect uscat.",
-                "en": "The massive brick walls keep the interior perfectly dry during heavy rain."
+                "en": "The massive brick walls keep the interior perfectly dry during heavy rain.",
+                "pl": "Masylowate ceglane mury utrzymują wnętrze całkowicie suchym podczas ulewy."
               }
             },
             {
@@ -420,7 +444,8 @@
                 "de": "Besuchen Sie zuerst die Innenhöfe und dann die überdachten Ausstellungen.",
                 "hu": "Előbb az udvarokat nézze meg, majd vonuljon be a fedett kiállításokra.",
                 "ro": "Vizitați întâi curțile, apoi retrageți-vă în expozițiile interioare.",
-                "en": "Visit the courtyards first, then retreat into the indoor exhibitions."
+                "en": "Visit the courtyards first, then retreat into the indoor exhibitions.",
+                "pl": "Najpierw zwiedź dziedzińce, potem schowaj się w ekspozycjach wewnętrznych."
               }
             },
             {
@@ -429,7 +454,8 @@
                 "de": "Bewundern Sie das Piasten-Mausoleum in aller Ruhe im Trockenen.",
                 "hu": "Csodálja meg a Piast-mauzóleumot nyugodt, száraz környezetben.",
                 "ro": "Admirați Mausoleul Piast în liniște, feriți de intemperii.",
-                "en": "Admire the Piast Mausoleum in peace, completely sheltered from the rain."
+                "en": "Admire the Piast Mausoleum in peace, completely sheltered from the rain.",
+                "pl": "Podziwiaj Mauzoleum Piastów w spokoju, całkowicie osłonięte od deszczu."
               }
             },
             {
@@ -438,7 +464,8 @@
                 "de": "Hervorragender Ort, um eine längere Regenpause kulturell zu nutzen.",
                 "hu": "Kiváló hely egy hosszabb esőnap kulturális eltöltésére.",
                 "ro": "Loc excelent pentru a petrece cultural o pauză lungă de ploaie.",
-                "en": "Excellent spot to spend a long rainy period immersed in culture."
+                "en": "Excellent spot to spend a long rainy period immersed in culture.",
+                "pl": "Doskonałe miejsce, by spędzić długi deszczowy czas zanurzony w kulturze."
               }
             },
             {
@@ -447,7 +474,8 @@
                 "de": "Das prächtige Barockgebäude bietet weitläufige, trockene Innenräume.",
                 "hu": "A pompás barokk épület tágas, száraz belső tereket kínál.",
                 "ro": "Clădirea barocă superbă oferă spații interioare ample și uscate.",
-                "en": "The grand baroque building offers spacious, dry interior halls."
+                "en": "The grand baroque building offers spacious, dry interior halls.",
+                "pl": "Wielka barokowa budowla oferuje przestronne, suche wnętrza."
               }
             },
             {
@@ -456,7 +484,8 @@
                 "de": "Suchen Sie Schutz unter den dichten, alten Baumkronen am Hauptweg.",
                 "hu": "Keressen menedéket a főút menti sűrű, öreg faágak alatt.",
                 "ro": "Căutați adăpost sub coroanele dese ale copacilor bătrâni de pe alee.",
-                "en": "Seek shelter under the thick, old tree canopies along the main path."
+                "en": "Seek shelter under the thick, old tree canopies along the main path.",
+                "pl": "Szukaj schronienia pod grubymi, starymi koronami drzew wzdłuż głównej alei."
               }
             }
           ],
@@ -488,6 +517,13 @@
               "The Museum of Copper has spacious cloakrooms for wet coats and umbrellas.",
               "Allocate more time for church interiors to wait out passing showers.",
               "A sturdy windproof umbrella is advised due to open spaces near the castle."
+            ],
+            "pl": [
+              "Noś wodoodporne obuwie, bo bruk starówki staje się śliski po deszczu.",
+              "Arkady Rynku to najlepsze miejsca na suchą przerwę na kawę.",
+              "Muzeum Miedzi ma przestronne szatnie na mokre płaszcze i parasole.",
+              "Przeznacz więcej czasu na wnętrza kościołów, by przeczekać przelotne ulewy.",
+              "Zalecana jest solidna wiatrówka i parasol odporny na wiatr ze względu na otwarte przestrzenie przy zamku."
             ]
           }
         },
@@ -496,7 +532,8 @@
             "de": "Vormittag: Die frostige Luft am Ring macht den Kaffee in den warmen Cafés besonders gemütlich. Die Kathedrale empfängt uns mit besinnlicher Stille. Mittags: Das Piastenschloss wirkt im Winterlicht besonders wehrhaft. Danach wärmen wir uns in der Johanniskirche auf. Nachmittag: Die geheizten Säle des Kupfermuseums sind eine Wohltat. Abend: Der Stadtpark im Dämmerlicht bei kühler Luft bildet den Abschluss, bevor die Sonne früh untergeht.",
             "hu": "Reggel: A fagyos levegő a Főtéren különösen jólesővé teszi a forró kávét a helyi kávézókban. A katedrális csendes melege hívogató. Délben: A Piast-vár a téli fényekben monumentális képet mutat. A Keresztelő Szent János-templom belső tere segít felmelegedni. Délután: A Rézmúzeum fűtött termei igazi felüdülést jelentenek a hideg után. Este: A Városi Park alkonyati fényei zárják a napot a korai sötétedés előtt.",
             "ro": "Dimineața: Aerul înghețat din Piața Pieței face cafeaua din localurile calde și mai plăcută. Catedrala ne întâmpină cu o liniște primitoare. Prânz: Castelul Piast arată impunător în lumina iernii. Ne încălzim apoi în Biserica Sf. Ioan Botezătorul. După-amiaza: Sălile încălzite ale Muzeului Cuprului sunt o binecuvântare. Seara: Parcul Orașului în amurg, sub aerul rece, încheie ziua înainte de apusul timpuriu.",
-            "en": "Morning: The frosty air at the Market Square makes a hot coffee in a cozy cafe essential. The Cathedral offers a peaceful, warm refuge. Noon: Piast Castle looks particularly defiant in the winter light. Warm up inside St. John's Church. Afternoon: The heated halls of the Museum of Copper are a welcome relief from the cold. Evening: The City Park in the twilight air concludes the day as the sun sets early."
+            "en": "Morning: The frosty air at the Market Square makes a hot coffee in a cozy cafe essential. The Cathedral offers a peaceful, warm refuge. Noon: Piast Castle looks particularly defiant in the winter light. Warm up inside St. John's Church. Afternoon: The heated halls of the Museum of Copper are a welcome relief from the cold. Evening: The City Park in the twilight air concludes the day as the sun sets early.",
+            "pl": "Poranek: Mroźne powietrze na Rynku sprawia, że gorąca kawa w przytulnej kawiarni jest niezbędna. Katedra oferuje spokojne, ciepłe schronienie. Południe: Zamek Piastowski wygląda szczególnie dumnie w zimowym świetle. Rozgrzej się wewnątrz kościoła św. Jana. Popołudnie: Ogrzewane sale Muzeum Miedzi to miła ulga od chłodu. Wieczór: Park Miejski w zmierzchu kończy dzień, gdy słońce zachodzi wcześnie."
           },
           "stops": [
             {
@@ -505,7 +542,8 @@
                 "de": "Genießen Sie ein Heißgetränk in einem der Cafés mit Blick auf das Rathaus.",
                 "hu": "Igyon egy forró italt a Városházára néző kávézók egyikében.",
                 "ro": "Savurați o băutură caldă la o cafenea cu vedere spre primărie.",
-                "en": "Enjoy a hot drink in one of the cafes overlooking the old town hall."
+                "en": "Enjoy a hot drink in one of the cafes overlooking the old town hall.",
+                "pl": "Zaprzyjaźnij się z gorącym napojem w jednej z kawiarni z widokiem na starą ratuszową kamienicę."
               }
             },
             {
@@ -514,7 +552,8 @@
                 "de": "Nutzen Sie die Kirchenbesichtigung, um sich zwischendurch aufzuwärmen.",
                 "hu": "Használja ki a templomlátogatást egy kis köztes felmelegedésre.",
                 "ro": "Profități de vizitarea bisericii pentru a vă încălzi puțin.",
-                "en": "Use the church visit to warm up between outdoor segments."
+                "en": "Use the church visit to warm up between outdoor segments.",
+                "pl": "Wykorzystaj wizytę w kościele, by się rozgrzać między odcinkami na zewnątrz."
               }
             },
             {
@@ -523,7 +562,8 @@
                 "de": "Vorsicht auf den Treppen im Außenbereich, sie können bei Frost glatt sein.",
                 "hu": "Vigyázzon a kültéri lépcsőkön, fagy esetén csúszósak lehetnek.",
                 "ro": "Atenție la scările exterioare, pot fi alunecoase în caz de îngheț.",
-                "en": "Be careful on the outdoor stairs; they can be slippery in freezing weather."
+                "en": "Be careful on the outdoor stairs; they can be slippery in freezing weather.",
+                "pl": "Uważaj na zewnętrzne schody; mogą być śliskie przy mrozie."
               }
             },
             {
@@ -532,7 +572,8 @@
                 "de": "Das Mausoleum ist im Winter oft ruhiger und sehr besinnlich.",
                 "hu": "A mauzóleum télen gyakran csendesebb és meghittebb.",
                 "ro": "Mausoleul este adesea mai liniștit și contemplativ iarna.",
-                "en": "The mausoleum is often quieter and very contemplative in winter."
+                "en": "The mausoleum is often quieter and very contemplative in winter.",
+                "pl": "Mauzoleum zimą bywa cichsze i bardziej refleksyjne."
               }
             },
             {
@@ -541,7 +582,8 @@
                 "de": "Planen Sie hier den längsten Aufenthalt zur wärmsten Tageszeit ein.",
                 "hu": "Ide tervezze a leghosszabb tartózkodást a nap legmelegebb szakaszában.",
                 "ro": "Planificați aici cea mai lungă ședere în perioada cea mai caldă a zilei.",
-                "en": "Plan your longest stay here during the coldest part of the day."
+                "en": "Plan your longest stay here during the coldest part of the day.",
+                "pl": "Najdłuższy postój zaplanuj na najzimniejszą porę dnia."
               }
             },
             {
@@ -550,7 +592,8 @@
                 "de": "Die barocke Pracht lässt sich in den beheizten Sälen gut bewundern.",
                 "hu": "A barokk pompát kiválóan megcsodálhatja a fűtött termekben.",
                 "ro": "Splendoarea barocă poate fi admirată confortabil în sălile încălzite.",
-                "en": "The baroque splendor can be admired comfortably in the heated halls."
+                "en": "The baroque splendor can be admired comfortably in the heated halls.",
+                "pl": "Barokowe przepych można komfortowo podziwiać w ogrzewanych salach."
               }
             },
             {
@@ -559,7 +602,8 @@
                 "de": "Besuchen Sie den Park vor 16 Uhr, um das restliche Tageslicht zu nutzen.",
                 "hu": "Délután 4 előtt látogasson el ide, hogy kihasználja a maradék fényt.",
                 "ro": "Vizitați parcul înainte de ora 16 pentru a profita de lumina zilei.",
-                "en": "Visit the park before 4 PM to make the most of the remaining daylight."
+                "en": "Visit the park before 4 PM to make the most of the remaining daylight.",
+                "pl": "Odwiedź park przed 16:00, by w pełni wykorzystać pozostałe światło dzienne."
               }
             }
           ],
@@ -591,6 +635,13 @@
               "Many cafes in the square offer seasonal Polish winter specialties.",
               "Watch out for icy patches near the castle and along the river banks.",
               "Museum interiors are well-heated, so dressing in layers is recommended."
+            ],
+            "pl": [
+              "Noś termo wkładki w butach na długie spacery po brukowanych uliczkach.",
+              "Słońce zachodzi w Legnicy około 16:10 w grudniu.",
+              "Wiele kawiarni na rynku oferuje sezonowe polskie zimowe specjały.",
+              "Uważaj na oblodzenia w pobliżu zamku i wzdłuż brzegów rzeki.",
+              "Wnętrza muzeów są dobrze ogrzewane, dlatego warto ubierać się na cebulkę."
             ]
           }
         }
@@ -609,7 +660,8 @@
             "de": "Altes Rathaus und Marktplatz",
             "hu": "Régi Városháza és Piactér",
             "ro": "Primăria Veche și Piața Centrală",
-            "en": "Old Town Hall and Market Square"
+            "en": "Old Town Hall and Market Square",
+            "pl": "Stary Ratusz i Rynek"
           },
           "coords": [
             16.1618,
@@ -625,7 +677,8 @@
             "de": "Schließen Sie Ihr Fahrrad an und genießen Sie einen Kaffee in einem der Cafés.",
             "hu": "Zárja le a kerékpárt és élvezzen egy kávét az egyik kávézóban.",
             "ro": "Legați-vă bicicleta și savurați o cafea la una dintre cafenele.",
-            "en": "Lock up your bike and enjoy a coffee at one of the cafes."
+            "en": "Lock up your bike and enjoy a coffee at one of the cafes.",
+            "pl": "Zabezpiecz rower i wypij kawę w jednej z kawiarni."
           }
         },
         {
@@ -633,7 +686,8 @@
             "de": "Kathedrale St. Peter und Paul",
             "hu": "Szent Péter és Pál Katedrális",
             "ro": "Catedrala Sfinții Petru și Pavel",
-            "en": "Cathedral of Saints Peter and Paul"
+            "en": "Cathedral of Saints Peter and Paul",
+            "pl": "Katedra Świętych Apostołów Piotra i Pawła"
           },
           "coords": [
             16.1645,
@@ -649,7 +703,8 @@
             "de": "Ein kurzer, aber eindrucksvoller Besuch ist ein Muss.",
             "hu": "Egy rövid, de lenyűgöző látogatás kötelező.",
             "ro": "O vizită scurtă, dar impresionantă este obligatorie.",
-            "en": "A short but impressive visit is a must."
+            "en": "A short but impressive visit is a must.",
+            "pl": "Krótka, ale imponująca wizyta to konieczność."
           }
         },
         {
@@ -657,7 +712,8 @@
             "de": "Piastenschloss & Haynauer Torturm",
             "hu": "Piast-kastély és Chojnów-torony",
             "ro": "Castelul Piast & Turnul Chojnów",
-            "en": "Piast Castle & Chojnów Tower"
+            "en": "Piast Castle & Chojnów Tower",
+            "pl": "Zamek Piastowski i Wieża Chojnów"
           },
           "coords": [
             16.158,
@@ -673,7 +729,8 @@
             "de": "Kombinieren Sie den Schlossbesuch mit einem Blick vom nahegelegenen Turm.",
             "hu": "Kombinálja a kastélylátogatást a közeli toronyból nyíló kilátással.",
             "ro": "Combinați vizita la castel cu o priveliște din turnul din apropiere.",
-            "en": "Combine the castle visit with a view from the nearby tower."
+            "en": "Combine the castle visit with a view from the nearby tower.",
+            "pl": "Połącz wizytę w zamku z widokiem z pobliskiej wieży."
           }
         },
         {
@@ -681,7 +738,8 @@
             "de": "Ritterakademie",
             "hu": "Lovagi Akadémia",
             "ro": "Academia Cavalerilor",
-            "en": "Knight's Academy"
+            "en": "Knight's Academy",
+            "pl": "Akademia Rycerska"
           },
           "coords": [
             16.156,
@@ -697,7 +755,8 @@
             "de": "Machen Sie ein Foto von der beeindruckenden Fassade.",
             "hu": "Készítsen egy fotót a lenyűgöző homlokzatról.",
             "ro": "Faceți o fotografie a fațadei impresionante.",
-            "en": "Take a photo of the impressive facade."
+            "en": "Take a photo of the impressive facade.",
+            "pl": "Zrób zdjęcie imponującej fasady."
           }
         },
         {
@@ -705,7 +764,8 @@
             "de": "Kupfermuseum",
             "hu": "Rézmúzeum",
             "ro": "Muzeul Cuprului",
-            "en": "Museum of Copper"
+            "en": "Museum of Copper",
+            "pl": "Muzeum Miedzi"
           },
           "coords": [
             16.165,
@@ -721,7 +781,8 @@
             "de": "Ein Muss, um die lokale Identität zu verstehen.",
             "hu": "Kötelező a helyi identitás megértéséhez.",
             "ro": "O vizită obligatorie pentru a înțelege identitatea locală.",
-            "en": "A must-visit to understand the local identity."
+            "en": "A must-visit to understand the local identity.",
+            "pl": "Warto odwiedzić, by zrozumieć lokalną tożsamość."
           }
         },
         {
@@ -729,7 +790,8 @@
             "de": "Kirche St. Johannes der Täufer",
             "hu": "Keresztelő Szent János-templom",
             "ro": "Biserica Sf. Ioan Botezătorul",
-            "en": "Church of St. John the Baptist"
+            "en": "Church of St. John the Baptist",
+            "pl": "Kościół św. Jana Chrzciciela"
           },
           "coords": [
             16.1595,
@@ -745,7 +807,8 @@
             "de": "Halten Sie inne und bewundern Sie die Ruhe dieses barocken Juwels.",
             "hu": "Álljon meg és csodálja meg e barokk ékszer csendjét.",
             "ro": "Opriți-vă și admirați liniștea acestei bijuterii baroce.",
-            "en": "Pause and admire the tranquility of this baroque gem."
+            "en": "Pause and admire the tranquility of this baroque gem.",
+            "pl": "Zatrzymaj się i podziwiaj spokój tej barokowej perełki."
           }
         },
         {
@@ -753,7 +816,8 @@
             "de": "Stadtpark",
             "hu": "Városi Park",
             "ro": "Parcul Municipal",
-            "en": "City Park"
+            "en": "City Park",
+            "pl": "Park Miejski"
           },
           "coords": [
             16.17,
@@ -769,7 +833,8 @@
             "de": "Fahren Sie auf den Wegen und genießen Sie die Natur.",
             "hu": "Kerékpározzon az ösvényeken és élvezze a természetet.",
             "ro": "Plimbați-vă cu bicicleta pe alei și bucurați-vă de natură.",
-            "en": "Cycle through the paths and enjoy the nature."
+            "en": "Cycle through the paths and enjoy the nature.",
+            "pl": "Przejedź ścieżkami i ciesz się przyrodą."
           }
         }
       ],
@@ -777,7 +842,8 @@
         "de": "Schwingen Sie sich auf Ihr Fahrrad und beginnen Sie Ihre Tour auf dem Marktplatz von Liegnitz. Eine kurze Fahrt bringt Sie zu den beeindruckenden Kirchen der Stadt und zum historischen Piastenschloss. Am Mittag, nach dem Genuss der barocken Ritterakademie, radeln Sie zum Kupfermuseum, um in die lokale Geschichte einzutauchen. Der Nachmittag ist für eine entspannte Fahrt zum Stadtpark reserviert, wo Sie die grünen Wege erkunden und den Tag ausklingen lassen können.",
         "hu": "Pattanjon kerékpárra, és kezdje a túrát Liegnitz piacterén. Egy rövid tekerés elvezeti a város lenyűgöző templomaihoz és a történelmi Piast-kastélyhoz. Délben, miután megcsodálta a barokk Lovagi Akadémiát, tekerjen el a Rézmúzeumba, hogy elmerüljön a helyi történelemben. A délután egy pihentető kerékpártúrára van fenntartva a Városi Parkba, ahol felfedezheti a zöld ösvényeket és lezárhatja a napot.",
         "ro": "Urcați-vă pe bicicletă și începeți turul în Piața din Legnica. O scurtă plimbare vă va duce la bisericile impresionante ale orașului și la Castelul istoric Piast. La prânz, după ce ați admirat Academia Cavalerilor în stil baroc, pedalați spre Muzeul Cuprului pentru a vă cufunda în istoria locală. După-amiaza este rezervată unei plimbări relaxante cu bicicleta în Parcul Municipal, unde puteți explora aleile verzi și încheia ziua.",
-        "en": "Hop on your bike and start your tour in the Market Square of Legnica. A short ride will take you to the city's impressive churches and the historic Piast Castle. At midday, after enjoying the baroque Knight's Academy, cycle to the Museum of Copper to delve into local history. The afternoon is reserved for a relaxing bike ride to the City Park, where you can explore the green paths and wind down your day."
+        "en": "Hop on your bike and start your tour in the Market Square of Legnica. A short ride will take you to the city's impressive churches and the historic Piast Castle. At midday, after enjoying the baroque Knight's Academy, cycle to the Museum of Copper to delve into local history. The afternoon is reserved for a relaxing bike ride to the City Park, where you can explore the green paths and wind down your day.",
+        "pl": "Wskocz na rower i rozpocznij wycieczkę na Rynku w Legnicy. Krótka przejażdżka zaprowadzi cię do imponujących kościołów miasta i historycznego Zamku Piastowskiego. W południe, po zwiedzaniu barokowej Akademii Rycerskiej, przejedź do Muzeum Miedzi, by zgłębić lokalną historię. Popołudnie zarezerwowane jest na relaksującą przejażdżkę rowerową do Parku Miejskiego, gdzie możesz odkrywać zielone ścieżki i zakończyć dzień."
       },
       "gastro_picks": {
         "de": [
@@ -973,6 +1039,12 @@
           "Use bike racks near the main attractions.",
           "Pay attention to designated bike lanes, especially outside the center.",
           "A bike bell is useful in city traffic."
+        ],
+        "pl": [
+          "Legnica jest stosunkowo płaska, co czyni ją idealną do jazdy na rowerze.",
+          "Korzystaj ze stojaków rowerowych przy głównych atrakcjach.",
+          "Zwracaj uwagę na wyznaczone ścieżki rowerowe, zwłaszcza poza centrum.",
+          "Dzwonek rowerowy przydaje się w ruchu miejskim."
         ]
       },
       "variants": {
@@ -981,7 +1053,8 @@
             "de": "Vormittag: Zügige Fahrt zwischen den historischen Highlights. Das Kopfsteinpflaster am Ring erfordert volle Konzentration. Mittags: Das Piastenschloss bietet einen schnellen Unterstand. Danach geht es im Regenschutz weiter zur Ritterakademie. Nachmittag: Eine längere Pause im Kupfermuseum lässt die Kleidung trocknen. Abend: Eine erfrischende, wenn auch nasse Runde durch den Stadtpark auf befestigten Wegen.",
             "hu": "Reggel: Gyors tekerés a történelmi helyszínek között. Az óvárosi macskakő teljes koncentrációt igényel az esőben. Délben: A Piast-vár gyors menedéket nyújt a záporok elől. Folytatás esővédőben a Lovagakadémia felé. Délután: Hosszabb szünet a Rézmúzeumban, ahol az öltözetünk is megszáradhat. Este: Egy frissítő, bár vizes kör a Városi Park aszfaltozott útjain.",
             "ro": "Dimineața: Deplasare rapidă între reperele istorice. Pavajul din piață necesită concentrare maximă pe ploaie. Prânz: Castelul Piast oferă un adăpost rapid. Continuăm protejați spre Academia Cavalerilor. După-amiaza: O pauză lungă la Muzeul Cuprului permite uscarea echipamentului. Seara: O tură revigorantă, deși udă, prin Parcul Orașului pe potecile asfaltate.",
-            "en": "Morning: Swift riding between historical highlights. The cobblestones in the square require full focus in the rain. Noon: Piast Castle offers a quick shelter from showers. Continue with rain gear towards the Knight's Academy. Afternoon: A long break at the Museum of Copper allows your gear to dry. Evening: A refreshing, if wet, loop through the City Park on paved paths."
+            "en": "Morning: Swift riding between historical highlights. The cobblestones in the square require full focus in the rain. Noon: Piast Castle offers a quick shelter from showers. Continue with rain gear towards the Knight's Academy. Afternoon: A long break at the Museum of Copper allows your gear to dry. Evening: A refreshing, if wet, loop through the City Park on paved paths.",
+            "pl": "Poranek: Szybka jazda między historycznymi highlights. Bruk na rynku wymaga pełnej uwagi w deszczu. Południe: Zamek Piastowski oferuje szybkie schronienie przed przelotnymi deszczami. Kontynuuj z odzieżą przeciwdeszczową w stronę Akademii Rycerskiej. Popołudnie: Długi postój w Muzeum Miedzi pozwoli twojemu sprzętowi wyschnąć. Wieczór: Orzeźwiająca, choć mokra pętla przez Park Miejski po utwardzonych ścieżkach."
           },
           "stops": [
             {
@@ -990,7 +1063,8 @@
                 "de": "Vorsicht beim Bremsen auf dem nassen Pflaster rund um das Rathaus.",
                 "hu": "Vigyázzon a fékezéssel a Városháza körüli vizes köveken.",
                 "ro": "Atenție la frânare pe pavajul ud din jurul primăriei.",
-                "en": "Be extra careful when braking on the wet pavement around the town hall."
+                "en": "Be extra careful when braking on the wet pavement around the town hall.",
+                "pl": "Bądź wyjątkowo ostrożny przy hamowaniu na mokrej nawierzchni wokół ratusza."
               }
             },
             {
@@ -999,7 +1073,8 @@
                 "de": "Sicherer Fahrradständer direkt am Eingang unter dem Dachvorsprung.",
                 "hu": "Biztonságos biciklitároló közvetlenül a bejáratnál az eresz alatt.",
                 "ro": "Suport de biciclete sigur chiar la intrare, sub streașină.",
-                "en": "Secure bike rack directly at the entrance under the roof overhang."
+                "en": "Secure bike rack directly at the entrance under the roof overhang.",
+                "pl": "Zabezpiecz rower przy stojaku bezpośrednio przy wejściu pod zadaszeniem."
               }
             },
             {
@@ -1008,7 +1083,8 @@
                 "de": "Die Auffahrt zum Schloss kann bei Regen rutschig sein.",
                 "hu": "A vár felé vezető feljáró esőben csúszós lehet.",
                 "ro": "Rampa spre castel poate fi alunecoasă pe timp de ploaie.",
-                "en": "The driveway up to the castle can be slippery during rainfall."
+                "en": "The driveway up to the castle can be slippery during rainfall.",
+                "pl": "Zjazd prowadzący do zamku może być śliski podczas opadów."
               }
             },
             {
@@ -1017,7 +1093,8 @@
                 "de": "Parken Sie Ihr Rad im Innenhof, der teilweise windgeschützt ist.",
                 "hu": "Parkoljon a belső udvarban, amely részben szélvédett.",
                 "ro": "Parcați bicicleta în curtea interioară, parțial ferită de vânt.",
-                "en": "Park your bike in the inner courtyard, which is partially wind-sheltered."
+                "en": "Park your bike in the inner courtyard, which is partially wind-sheltered.",
+                "pl": "Zaparkuj rower na wewnętrznym dziedzińcu, który jest częściowo osłonięty od wiatru."
               }
             },
             {
@@ -1026,7 +1103,8 @@
                 "de": "Nutzen Sie den Museumsbesuch als Trockenpause für Ihre Ausrüstung.",
                 "hu": "Használja a múzeumlátogatást felszerelése megszárítására.",
                 "ro": "Folosiți vizita la muzeu ca pauză de uscare pentru echipament.",
-                "en": "Use the museum visit as a drying break for your cycling gear."
+                "en": "Use the museum visit as a drying break for your cycling gear.",
+                "pl": "Wykorzystaj wizytę w muzeum jako przerwę na osuszenie sprzętu rowerowego."
               }
             },
             {
@@ -1035,7 +1113,8 @@
                 "de": "Guter Unterstand für das Rad nahe dem Kircheneingang.",
                 "hu": "Jó fedett hely a biciklinek a templombejárat közelében.",
                 "ro": "Adăpost bun pentru bicicletă lângă intrarea în biserică.",
-                "en": "Good shelter for your bike near the church entrance."
+                "en": "Good shelter for your bike near the church entrance.",
+                "pl": "Dobre schronienie dla roweru znajduje się przy wejściu do kościoła."
               }
             },
             {
@@ -1044,7 +1123,8 @@
                 "de": "Bleiben Sie auf den asphaltierten Hauptwegen, um Matsch zu vermeiden.",
                 "hu": "Maradjon az aszfaltozott főutakon a sár elkerülése érdekében.",
                 "ro": "Rămâneți pe aleile principale asfaltate pentru a evita noroiul.",
-                "en": "Stay on the paved main paths to avoid mud and puddles."
+                "en": "Stay on the paved main paths to avoid mud and puddles.",
+                "pl": "Pozostań na utwardzonych głównych ścieżkach, by uniknąć błota i kałuż."
               }
             }
           ],
@@ -1076,6 +1156,13 @@
               "Check your brake pads before heading into the old town area.",
               "The City Park has many paved paths that remain rideable in the rain.",
               "Secure your panniers or bags with waterproof covers."
+            ],
+            "pl": [
+              "Unikaj torów tramwajowych w centrum miasta, gdy ziemia jest mokra.",
+              "Pełna peleryna przeciwdeszczowa jest zalecana ze względu na wietrzne warunki w Dolnym Śląsku.",
+              "Sprawdź klocki hamulcowe przed wjazdem do starego miasta.",
+              "Park Miejski ma wiele utwardzonych ścieżek, które pozostają przejezdne w deszczu.",
+              "Zabezpiecz sakwy lub torby pokrowcami wodoodpornymi."
             ]
           }
         },
@@ -1084,7 +1171,8 @@
             "de": "Vormittag: Eine sportliche Fahrt durch das frostige Legnica. Die klare Luft am Ring ist belebend. Mittags: Nach dem Schlossbesuch wärmen wir uns in den historischen Kirchen auf. Nachmittag: Das Kupfermuseum bietet die nötige Wärme für eine lange Pause. Abend: Eine schnelle Runde durch den winterlichen Stadtpark, bevor die Kälte nach Sonnenuntergang anzieht.",
             "hu": "Reggel: Sportos tekerés a fagyos Legnicán keresztül. A tiszta levegő a Főtéren élénkítő. Délben: A várnézés után a történelmi templomokban melegszünk fel. Délután: A Rézmúzeum biztosítja a szükséges hőt egy hosszabb pihenőhöz. Este: Egy gyors kör a téli Városi Parkban, mielőtt a naplemente utáni hideg beköszönt.",
             "ro": "Dimineața: O cursă sportivă prin Legnica înghețată. Aerul curat din piață este revigorant. Prânz: După vizitarea castelului, ne încălzim în bisericile istorice. După-amiaza: Muzeul Cuprului oferă căldura necesară pentru o pauză lungă. Seara: O tură rapidă prin parcul de iarnă, înainte ca gerul să se intensifice după apus.",
-            "en": "Morning: A sporty ride through frosty Legnica. The crisp air at the Market Square is invigorating. Noon: After visiting the castle, warm up inside the historical churches. Afternoon: The Museum of Copper provides much-needed warmth for a long break. Evening: A quick loop through the wintery City Park before the post-sunset cold sets in."
+            "en": "Morning: A sporty ride through frosty Legnica. The crisp air at the Market Square is invigorating. Noon: After visiting the castle, warm up inside the historical churches. Afternoon: The Museum of Copper provides much-needed warmth for a long break. Evening: A quick loop through the wintery City Park before the post-sunset cold sets in.",
+            "pl": "Poranek: Sportowa przejażdżka przez mroźną Legnicę. Rześkie powietrze na Rynku dodaje energii. Południe: Po zwiedzaniu zamku rozgrzej się w historycznych kościołach. Popołudnie: Muzeum Miedzi zapewnia potrzebne ciepło podczas długiego postoju. Wieczór: Krótka pętla przez zimowy Park Miejski przed nadejściem chłodu po zachodzie słońca."
           },
           "stops": [
             {
@@ -1093,7 +1181,8 @@
                 "de": "Achten Sie auf gefrorene Pfützen zwischen den Pflastersteinen.",
                 "hu": "Figyeljen a macskakövek közötti fagyott tócsákra.",
                 "ro": "Atenție la bălțile înghețate dintre pietrele de pavaj.",
-                "en": "Watch out for frozen puddles between the cobblestones."
+                "en": "Watch out for frozen puddles between the cobblestones.",
+                "pl": "Uważaj na zamarznięte kałuże między kostkami brukowymi."
               }
             },
             {
@@ -1102,7 +1191,8 @@
                 "de": "Kurze Aufwärmpause im Vorraum der Kathedrale einlegen.",
                 "hu": "Tartson egy rövid melegedő szünetet a katedrális előterében.",
                 "ro": "Faceți o scurtă pauză de încălzire în vestibulul catedralei.",
-                "en": "Take a short warm-up break in the cathedral's vestibule."
+                "en": "Take a short warm-up break in the cathedral's vestibule.",
+                "pl": "Zrób krótką rozgrzewkę w przedsionku katedry."
               }
             },
             {
@@ -1111,7 +1201,8 @@
                 "de": "Halten Sie die Fahrtzeit im Freien kurz, nutzen Sie die Innenhöfe.",
                 "hu": "Tartsa röviden a kinti tartózkodást, használja a belső tereket.",
                 "ro": "Limitați timpul petrecut afară, folosiți spațiile interioare.",
-                "en": "Keep outdoor time short and prioritize the indoor exhibits."
+                "en": "Keep outdoor time short and prioritize the indoor exhibits.",
+                "pl": "Skróć czas na zewnątrz i priorytetowo traktuj wystawy wewnętrzne."
               }
             },
             {
@@ -1120,7 +1211,8 @@
                 "de": "Fahrrad im geschützten Innenhof abstellen, um Sattelfrost zu vermeiden.",
                 "hu": "Védett udvaron parkoljon, hogy elkerülje a nyereg lefagyását.",
                 "ro": "Parcați în curtea protejată pentru a evita înghețarea șeii.",
-                "en": "Park in the sheltered courtyard to prevent seat frost."
+                "en": "Park in the sheltered courtyard to prevent seat frost.",
+                "pl": "Parkuj na osłoniętym dziedzińcu, by uniknąć szronienia siodełka."
               }
             },
             {
@@ -1129,7 +1221,8 @@
                 "de": "Idealer Ort für eine lange Pause in geheizten Räumen.",
                 "hu": "Ideális hely egy hosszú pihenőre a fűtött termekben.",
                 "ro": "Loc ideal pentru o pauză lungă în săli încălzite.",
-                "en": "Ideal spot for a long break in heated rooms."
+                "en": "Ideal spot for a long break in heated rooms.",
+                "pl": "Idealne miejsce na dłuższą przerwę w ogrzewanych pomieszczeniach."
               }
             },
             {
@@ -1138,7 +1231,8 @@
                 "de": "Wärmen Sie Ihre Hände in der Kirche auf, bevor es weitergeht.",
                 "hu": "Melegítse fel a kezeit a templomban a továbbindulás előtt.",
                 "ro": "Încălziți-vă mâinile în biserică înainte de a continua drumul.",
-                "en": "Warm your hands inside the church before continuing your ride."
+                "en": "Warm your hands inside the church before continuing your ride.",
+                "pl": "Rozgrzej dłonie w kościele przed kontynuacją przejażdżki."
               }
             },
             {
@@ -1147,7 +1241,8 @@
                 "de": "Vermeiden Sie schattige Wege, dort kann es dauerhaft glatt sein.",
                 "hu": "Kerülje az árnyékos utakat, ott tartósan jeges maradhat a talaj.",
                 "ro": "Evitați aleile umbrite, pot rămâne înghețate toată ziua.",
-                "en": "Avoid shaded paths as they can remain icy throughout the day."
+                "en": "Avoid shaded paths as they can remain icy throughout the day.",
+                "pl": "Unikaj zacienionych ścieżek, ponieważ mogą pozostawać oblodzone przez cały dzień."
               }
             }
           ],
@@ -1179,6 +1274,13 @@
               "The sun sets early; ensure your bike lights are fully charged.",
               "A thermos of hot tea usually fits perfectly in a water bottle cage.",
               "Avoid riding near fountains or water features in the park during frost."
+            ],
+            "pl": [
+              "Noś wiatroodporne rękawice, gdyż wiatr chłodzi bardzo zimą.",
+              "Sprawdź ciśnienie w oponach; często spada w niskich temperaturach.",
+              "Słońce zachodzi wcześnie; upewnij się, że światła rowerowe są w pełni naładowane.",
+              "Termos z gorącą herbatą zwykle pasuje idealnie do uchwytu na bidon.",
+              "Unikaj jazdy w pobliżu fontann lub elementów wodnych w parku podczas przymrozków."
             ]
           }
         }
@@ -1197,7 +1299,8 @@
             "de": "Parkplatz Altstadt (Cluster A)",
             "hu": "Parkoló, Óváros (A csoport)",
             "ro": "Parcare Centrul Vechi (Cluster A)",
-            "en": "Old Town Car Park (Cluster A)"
+            "en": "Old Town Car Park (Cluster A)",
+            "pl": "Stary Miejski Parking (Klast A)"
           },
           "coords": [
             16.166,
@@ -1213,7 +1316,8 @@
             "de": "Parken Sie hier für den Vormittag. Das Zentrum ist zu Fuß erreichbar.",
             "hu": "Parkoljon itt a délelőttre. A központ gyalogosan elérhető.",
             "ro": "Parcați aici pentru dimineață. Centrul este accesibil pe jos.",
-            "en": "Park here for the morning. The center is accessible on foot."
+            "en": "Park here for the morning. The center is accessible on foot.",
+            "pl": "Zaparkuj tutaj rano. Centrum jest dostępne pieszo."
           }
         },
         {
@@ -1221,7 +1325,8 @@
             "de": "Altes Rathaus und Kathedrale",
             "hu": "Régi Városháza és Katedrális",
             "ro": "Primăria Veche și Catedrala",
-            "en": "Old Town Hall and Cathedral"
+            "en": "Old Town Hall and Cathedral",
+            "pl": "Stary Ratusz i Katedra"
           },
           "coords": [
             16.1625,
@@ -1237,7 +1342,8 @@
             "de": "Erkunden Sie den Marktplatz und die nahe gelegene Kathedrale zu Fuß.",
             "hu": "Fedezze fel gyalog a Piacteret és a közeli Katedrálist.",
             "ro": "Explorați Piața și Catedrala din apropiere pe jos.",
-            "en": "Explore the Market Square and the nearby Cathedral on foot."
+            "en": "Explore the Market Square and the nearby Cathedral on foot.",
+            "pl": "Zwiedź Rynek i pobliską Katedrę pieszo."
           }
         },
         {
@@ -1245,7 +1351,8 @@
             "de": "Kupfermuseum",
             "hu": "Rézmúzeum",
             "ro": "Muzeul Cuprului",
-            "en": "Museum of Copper"
+            "en": "Museum of Copper",
+            "pl": "Muzeum Miedzi"
           },
           "coords": [
             16.165,
@@ -1261,7 +1368,8 @@
             "de": "Vom Marktplatz aus ein kurzer Spaziergang.",
             "hu": "A Piactérről egy rövid séta.",
             "ro": "O scurtă plimbare de la Piață.",
-            "en": "A short walk from the Market Square."
+            "en": "A short walk from the Market Square.",
+            "pl": "Krótki spacer od Rynku."
           }
         },
         {
@@ -1269,7 +1377,8 @@
             "de": "Parkplatz Piastenschloss (Cluster B)",
             "hu": "Parkoló, Piast-kastély (B csoport)",
             "ro": "Parcare Castelul Piast (Cluster B)",
-            "en": "Piast Castle Car Park (Cluster B)"
+            "en": "Piast Castle Car Park (Cluster B)",
+            "pl": "Parking Zamku Piastowskiego (Klast B)"
           },
           "coords": [
             16.157,
@@ -1285,7 +1394,8 @@
             "de": "Fahren Sie zum Schlossbereich und parken Sie neu für den Nachmittag.",
             "hu": "Vezessen a kastély területére és parkoljon le a délutánra.",
             "ro": "Conduceți spre zona castelului și parcați din nou pentru după-amiază.",
-            "en": "Drive to the castle area and park again for the afternoon."
+            "en": "Drive to the castle area and park again for the afternoon.",
+            "pl": "Dojedź samochodem do okolic zamku i zaparkuj ponownie na popołudnie."
           }
         },
         {
@@ -1293,7 +1403,8 @@
             "de": "Piastenschloss und Ritterakademie",
             "hu": "Piast-kastély és Lovagi Akadémia",
             "ro": "Castelul Piast și Academia Cavalerilor",
-            "en": "Piast Castle and Knight's Academy"
+            "en": "Piast Castle and Knight's Academy",
+            "pl": "Zamek Piastowski i Akademia Rycerska"
           },
           "coords": [
             16.1575,
@@ -1309,7 +1420,8 @@
             "de": "Diese beiden prächtigen Gebäude liegen nebeneinander.",
             "hu": "Ez a két csodálatos épület egymás mellett található.",
             "ro": "Aceste două clădiri magnifice sunt situate una lângă alta.",
-            "en": "These two magnificent buildings are located next to each other."
+            "en": "These two magnificent buildings are located next to each other.",
+            "pl": "Te dwa wspaniałe budynki znajdują się obok siebie."
           }
         },
         {
@@ -1317,7 +1429,8 @@
             "de": "Stadtpark",
             "hu": "Városi Park",
             "ro": "Parcul Municipal",
-            "en": "City Park"
+            "en": "City Park",
+            "pl": "Park Miejski"
           },
           "coords": [
             16.17,
@@ -1333,7 +1446,8 @@
             "de": "Fahren Sie zum Park, um den Tag entspannt ausklingen zu lassen.",
             "hu": "Vezessen a parkba, hogy pihentetően zárja a napot.",
             "ro": "Conduceți spre parc pentru a încheia ziua într-un mod relaxant.",
-            "en": "Drive to the park to end the day in a relaxed way."
+            "en": "Drive to the park to end the day in a relaxed way.",
+            "pl": "Dojedź do parku, by zakończyć dzień w spokojnej atmosferze."
           }
         }
       ],
@@ -1341,7 +1455,8 @@
         "de": "Starten Sie Ihren Tag, indem Sie Ihr Auto in der Nähe der Altstadt parken. Erkunden Sie zu Fuß den Marktplatz, die Kathedrale und das Kupfermuseum. Am Mittag fahren Sie zum Schloss-Cluster, wo Sie das imposante Piastenschloss und die elegante Ritterakademie entdecken. Der Nachmittag endet mit einer kurzen Fahrt zum Stadtpark, einem idealen Ort, um sich nach einem Tag voller Entdeckungen zu entspannen und die Natur zu genießen.",
         "hu": "Kezdje a napot azzal, hogy leparkolja autóját az óváros közelében. Fedezze fel gyalog a piacteret, a katedrálist és a Rézmúzeumot. Délben vezessen át a kastély-negyedbe, ahol felfedezheti a lenyűgöző Piast-kastélyt és az elegáns Lovagi Akadémiát. A nap egy rövid autóúttal zárul a Városi Parkba, amely ideális hely a pihenésre és a természet élvezetére egy felfedezésekkel teli nap után.",
         "ro": "Începeți ziua parcând mașina lângă centrul vechi. Explorați pe jos Piața, Catedrala și Muzeul Cuprului. La prânz, conduceți spre zona castelului, unde veți descoperi impunătorul Castel Piast și eleganta Academie a Cavalerilor. Ziua se încheie cu o scurtă călătorie cu mașina spre Parcul Municipal, un loc ideal pentru a vă relaxa și a vă bucura de natură după o zi plină de descoperiri.",
-        "en": "Start your day by parking your car near the Old Town. Explore the Market Square, the Cathedral, and the Museum of Copper on foot. At noon, drive to the castle cluster, where you'll discover the imposing Piast Castle and the elegant Knight's Academy. The day concludes with a short drive to the City Park, an ideal place to relax and enjoy nature after a day full of discoveries."
+        "en": "Start your day by parking your car near the Old Town. Explore the Market Square, the Cathedral, and the Museum of Copper on foot. At noon, drive to the castle cluster, where you'll discover the imposing Piast Castle and the elegant Knight's Academy. The day concludes with a short drive to the City Park, an ideal place to relax and enjoy nature after a day full of discoveries.",
+        "pl": "Rozpocznij dzień, parkując samochód w pobliżu Starego Miasta. Zwiedź Rynek, Katedrę i Muzeum Miedzi pieszo. W południe dojedź do klastra zamkowego, gdzie odkryjesz imponujący Zamek Piastowski i elegancką Akademię Rycerską. Dzień zakończ krótki dojazdem do Parku Miejskiego — idealnego miejsca na relaks i obcowanie z przyrodą po dniu pełnym odkryć."
       },
       "gastro_picks": {
         "de": [
@@ -1501,6 +1616,12 @@
           "All-day car parks are often cheaper than hourly parking.",
           "Plan your drives between clusters outside of peak hours.",
           "A GPS is essential for navigating the city."
+        ],
+        "pl": [
+          "Zwracaj uwagę na strefy parkingowe i opłaty w centrum miasta.",
+          "Całodniowe parkingi często są tańsze niż płatne godzinowo.",
+          "Planuj przejazdy między klastrami poza godzinami szczytu.",
+          "GPS jest niezbędny do nawigacji po mieście."
         ]
       },
       "variants": {
@@ -1509,7 +1630,8 @@
             "de": "Vormittag: Bequeme Anfahrt zum Altstadt-Parkplatz. Kurze Wege führen zum Rathaus und zur Kathedrale. Mittags: Das Kupfermuseum bietet eine ideale trockene Station. Danach kurzer Transfer zum Parkplatz am Schloss. Nachmittag: Ausgiebige Besichtigung der Ritterakademie und des Schlosses. Abend: Kurze Fahrt zum Stadtpark für einen Blick ins Grüne aus dem trockenen Wagen oder einen kurzen Spaziergang.",
             "hu": "Reggel: Kényelmes érkezés az óvárosi parkolóba. Rövid séta a Városházához és a katedrálishoz. Délben: A Rézmúzeum tökéletes száraz állomás az eső elől. Ezután rövid autózás a vár melletti parkolóba. Délután: A Lovagakadémia és a vár alapos bejárása. Este: Rövid út a Városi Parkhoz, egy gyors zöld pillantás az autóból, vagy egy rövid séta a fák alatt.",
             "ro": "Dimineața: Sosire confortabilă la parcarea din centrul vechi. Drumuri scurte spre primărie și catedrală. Prânz: Muzeul Cuprului este o stație ideală împotriva ploii. Urmează un transfer scurt la parcarea castelului. După-amiaza: Vizitarea detaliată a Academiei Cavalerilor și a castelului. Seara: Scurtă deplasare la parc pentru o privire spre verdeață din mașină sau o plimbare scurtă.",
-            "en": "Morning: Comfortable arrival at the Old Town car park. Short walks lead to the Town Hall and Cathedral. Noon: The Museum of Copper is an ideal dry stop during the rain. Followed by a quick transfer to the Castle car park. Afternoon: Detailed exploration of the Knight's Academy and the Castle. Evening: Short drive to the City Park for a quick look at the greenery from your dry car or a brief stroll."
+            "en": "Morning: Comfortable arrival at the Old Town car park. Short walks lead to the Town Hall and Cathedral. Noon: The Museum of Copper is an ideal dry stop during the rain. Followed by a quick transfer to the Castle car park. Afternoon: Detailed exploration of the Knight's Academy and the Castle. Evening: Short drive to the City Park for a quick look at the greenery from your dry car or a brief stroll.",
+            "pl": "Poranek: Komfortowy przyjazd na parking Starego Miasta. Krótkie spacery prowadzą do Ratusza i Katedry. Południe: Muzeum Miedzi to idealne suche miejsce podczas deszczu. Następnie szybki transfer na parking przy Zamku. Popołudnie: Szczegółowe zwiedzanie Akademii Rycerskiej i Zamku. Wieczór: Krótki dojazd do Parku Miejskiego, by z samochodu obejrzeć zieleń lub na krótki spacer."
           },
           "stops": [
             {
@@ -1518,7 +1640,8 @@
                 "de": "Bleiben Sie bei starkem Schauer kurz im Wagen, bis es nachlässt.",
                 "hu": "Erős zápor esetén várjon kicsit az autóban, amíg alábbhagy.",
                 "ro": "Așteptați puțin în mașină în caz de aversă puternică.",
-                "en": "Stay in the car briefly during heavy downpours until it eases up."
+                "en": "Stay in the car briefly during heavy downpours until it eases up.",
+                "pl": "Pozostań chwilę w samochodzie podczas intensywnych ulew, aż opad osłabnie."
               }
             },
             {
@@ -1527,7 +1650,8 @@
                 "de": "Zentraler Standort, alle Highlights sind in 2-3 Gehminuten erreichbar.",
                 "hu": "Központi hely, minden látnivaló 2-3 perc sétára van.",
                 "ro": "Locație centrală, toate atracțiile sunt la 2-3 minute de mers.",
-                "en": "Central location; all highlights are within a 2-3 minute walk."
+                "en": "Central location; all highlights are within a 2-3 minute walk.",
+                "pl": "Centralna lokalizacja; wszystkie atrakcje w zasięgu 2–3 minut spacerem."
               }
             },
             {
@@ -1536,7 +1660,8 @@
                 "de": "Parken Sie direkt davor, um den Regenweg minimal zu halten.",
                 "hu": "Parkoljon közvetlenül előtte, hogy minimális legyen az ázás.",
                 "ro": "Parcați chiar în față pentru a minimiza drumul prin ploaie.",
-                "en": "Park directly in front to keep the walk in the rain minimal."
+                "en": "Park directly in front to keep the walk in the rain minimal.",
+                "pl": "Zaparkuj bezpośrednio przed wejściem, by skrócić spacer w deszczu."
               }
             },
             {
@@ -1545,7 +1670,8 @@
                 "de": "Bequemer Parkplatz direkt am Schlosskomplex.",
                 "hu": "Kényelmes parkoló közvetlenül a várkomplexum mellett.",
                 "ro": "Parcare convenabilă chiar lângă complexul castelului.",
-                "en": "Convenient parking located directly next to the castle complex."
+                "en": "Convenient parking located directly next to the castle complex.",
+                "pl": "Dogodny parking bezpośrednio obok kompleksu zamkowego."
               }
             },
             {
@@ -1554,7 +1680,8 @@
                 "de": "Nutzen Sie die kurzen Wege zwischen den Gebäuden.",
                 "hu": "Használja ki az épületek közötti rövid távolságokat.",
                 "ro": "Profitați de distanțele scurte dintre clădiri.",
-                "en": "Take advantage of the short walking distances between the buildings."
+                "en": "Take advantage of the short walking distances between the buildings.",
+                "pl": "Wykorzystaj krótkie odległości między budynkami."
               }
             },
             {
@@ -1563,7 +1690,8 @@
                 "de": "Parken Sie am Rande des Parks für einen schnellen Rückzug bei Regen.",
                 "hu": "Parkoljon a park szélén a gyors visszavonulás érdekében.",
                 "ro": "Parcați la marginea parcului pentru o retragere rapidă în caz de ploaie.",
-                "en": "Park at the edge of the park for a quick retreat if it rains."
+                "en": "Park at the edge of the park for a quick retreat if it rains.",
+                "pl": "Zaparkuj na skraju parku, by mieć szybkie schronienie w razie deszczu."
               }
             }
           ],
@@ -1595,6 +1723,13 @@
               "Visibility may be limited in narrow streets during heavy rainfall.",
               "The underground car park of the nearby mall is a good dry alternative.",
               "Check parking apps for contactless payment from inside your car."
+            ],
+            "pl": [
+              "Korzystaj z klastrów parkingowych, by zminimalizować odległości do pokonania w deszczu.",
+              "Unikaj zostawiania mokrych parasoli na siedzeniach; używaj mat podłogowych.",
+              "Widoczność może być ograniczona w wąskich uliczkach podczas intensywnych opadów.",
+              "Podziemny parking w pobliskim centrum handlowym to dobra sucha alternatywa.",
+              "Sprawdź aplikacje parkingowe w celu bezdotykowej płatności z wnętrza samochodu."
             ]
           }
         },
@@ -1603,7 +1738,8 @@
             "de": "Vormittag: Entspannte Fahrt durch das winterliche Legnica zum ersten Parkplatz. Die Altstadt liegt im Frostschleier. Mittags: Nach dem Aufwärmen im Kupfermuseum geht es zum Schloss-Cluster. Nachmittag: Besichtigung der Ritterakademie und des Schlosses bei kühlem Winterlicht. Abend: Kurze Fahrt zum Stadtpark, um die beleuchteten Bäume in der Dämmerung zu sehen, bevor es zurückgeht.",
             "hu": "Reggel: Pihentető autózás a téli Legnicán át az első parkolóig. Az óváros fagyos ködben úszik. Délben: A Rézmúzeumban történő felmelegedés után irány a vár-parkoló. Délután: A Lovagakadémia és a vár megtekintése hűvös téli fényekben. Este: Rövid út a Városi Parkhoz, a kivilágított fák megtekintése az alkonyatban a hazaindulás előtt.",
             "ro": "Dimineața: Deplasare relaxată prin Legnica de iarnă până la prima parcare. Centrul vechi e acoperit de brumă. Prânz: După încălzirea la Muzeul Cuprului, mergem spre parcarea castelului. După-amiaza: Vizitarea academiei și a castelului în lumina rece a iernii. Seara: Scurtă deplasare spre parc pentru a vedea copacii luminați în amurg.",
-            "en": "Morning: Relaxing drive through wintery Legnica to the first car park. The old town is veiled in frost. Noon: After warming up at the Museum of Copper, head to the Castle cluster. Afternoon: Sightseeing at the Knight's Academy and the Castle in cool winter light. Evening: Short drive to the City Park to see the illuminated trees at twilight before heading back."
+            "en": "Morning: Relaxing drive through wintery Legnica to the first car park. The old town is veiled in frost. Noon: After warming up at the Museum of Copper, head to the Castle cluster. Afternoon: Sightseeing at the Knight's Academy and the Castle in cool winter light. Evening: Short drive to the City Park to see the illuminated trees at twilight before heading back.",
+            "pl": "Rano: Relaksująca przejażdżka zimową Legnicą do pierwszego parkingu. Stare miasto spowite szronem. Południe: Po rozgrzaniu się w Muzeum Miedzi udaj się do zespołu zamkowego. Popołudnie: Zwiedzanie Akademii Rycerskiej i Zamku w chłodnym zimowym świetle. Wieczór: Krótka przejażdżka do Parku Miejskiego, by o zmierzchu zobaczyć oświetlone drzewa przed powrotem."
           },
           "stops": [
             {
@@ -1612,7 +1748,8 @@
                 "de": "Planen Sie Zeit zum Enteisen der Scheiben ein.",
                 "hu": "Számoljon extra idővel a szélvédő jégtelenítésére.",
                 "ro": "Alocați timp pentru dezghețarea parbrizului.",
-                "en": "Allow extra time for defrosting the windshield if parked outdoors."
+                "en": "Allow extra time for defrosting the windshield if parked outdoors.",
+                "pl": "Zarezerwuj dodatkowy czas na odmrożenie szyby, jeśli parkujesz na zewnątrz."
               }
             },
             {
@@ -1621,7 +1758,8 @@
                 "de": "Die Cafés rund um das Rathaus sind im Winter sehr einladend.",
                 "hu": "A Városháza körüli kávézók télen nagyon hívogatóak.",
                 "ro": "Cafenelele din jurul primăriei sunt foarte primitoare iarna.",
-                "en": "The cafes around the town hall are very inviting during winter."
+                "en": "The cafes around the town hall are very inviting during winter.",
+                "pl": "Kawiarnie wokół ratusza są bardzo zachęcające zimą."
               }
             },
             {
@@ -1630,7 +1768,8 @@
                 "de": "Lassen Sie schwere Wintermäntel im Auto, wenn Sie direkt davor parken.",
                 "hu": "A nehéz télikabátokat az autóban is hagyhatja, ha közvetlen előtte parkol.",
                 "ro": "Puteți lăsa haina groasă în mașină dacă parcați chiar în față.",
-                "en": "Leave heavy winter coats in the car if you find a spot directly in front."
+                "en": "Leave heavy winter coats in the car if you find a spot directly in front.",
+                "pl": "Zostaw ciężkie zimowe płaszcze w samochodzie, jeśli znajdziesz miejsce bezpośrednio z przodu."
               }
             },
             {
@@ -1639,7 +1778,8 @@
                 "de": "Gut geräumter Parkplatz in unmittelbarer Nähe zum Schlosstor.",
                 "hu": "Jól letakarított parkoló közvetlenül a várkapu mellett.",
                 "ro": "Parcare bine deszăpezită în imediata apropiere a porții castelului.",
-                "en": "Well-cleared parking lot in immediate proximity to the castle gate."
+                "en": "Well-cleared parking lot in immediate proximity to the castle gate.",
+                "pl": "Dobrze uprzątnięty parking w bezpośrednim sąsiedztwie bramy zamkowej."
               }
             },
             {
@@ -1648,7 +1788,8 @@
                 "de": "Die Innenräume sind im Winter der Hauptanziehungspunkt.",
                 "hu": "Télen a belső terek jelentik a fő vonzerőt.",
                 "ro": "Interioarele reprezintă principala atracție pe timp de iarnă.",
-                "en": "The indoor exhibits are the main highlight during winter visits."
+                "en": "The indoor exhibits are the main highlight during winter visits.",
+                "pl": "Wystawy wewnątrz są główną atrakcją podczas zimowych wizyt."
               }
             },
             {
@@ -1657,7 +1798,8 @@
                 "de": "Der Parkplatz bietet einen schönen Blick auf den gefrorenen Teich.",
                 "hu": "A parkolóból szép kilátás nyílik a befagyott tóra.",
                 "ro": "Parcarea oferă o vedere frumoasă spre lacul înghețat.",
-                "en": "The parking area offers a nice view of the frozen pond."
+                "en": "The parking area offers a nice view of the frozen pond.",
+                "pl": "Z parkingu rozciąga się ładny widok na zamarznięty staw."
               }
             }
           ],
@@ -1689,6 +1831,13 @@
               "Use seat heaters for the short drives between parking clusters.",
               "The sun sets around 4:10 PM; try to park near streetlights.",
               "Keep an ice scraper and brush handy in case of sudden snowfall."
+            ],
+            "pl": [
+              "Uważaj na oblodzone odcinki na brukowanych uliczkach starego miasta.",
+              "Pojemność akumulatora może się zmniejszyć podczas silnych mrozów.",
+              "Używaj podgrzewanych siedzeń na krótkich przejazdach między parkingami.",
+              "Słońce zachodzi około 16:10; postaraj się zaparkować przy latarniach ulicznych.",
+              "Miej pod ręką skrobaczkę do szyb i szczotkę na wypadek nagłego opadu śniegu."
             ]
           }
         }
@@ -1707,7 +1856,8 @@
             "de": "Haltestelle Altstadt (Cluster A)",
             "hu": "Megálló, Óváros (A csoport)",
             "ro": "Stația Centrul Vechi (Cluster A)",
-            "en": "Old Town Stop (Cluster A)"
+            "en": "Old Town Stop (Cluster A)",
+            "pl": "Przystanek Stare Miasto (Klaster A)"
           },
           "coords": [
             16.1655,
@@ -1723,7 +1873,8 @@
             "de": "Beginnen Sie hier. Kaufen Sie eine Tageskarte für den öffentlichen Nahverkehr.",
             "hu": "Kezdje itt. Vásároljon napijegyet a tömegközlekedéshez.",
             "ro": "Începeți aici. Cumpărați un bilet de o zi pentru transportul public.",
-            "en": "Start here. Buy a day pass for public transport."
+            "en": "Start here. Buy a day pass for public transport.",
+            "pl": "Rozpocznij tutaj. Kup bilet dzienny na komunikację miejską."
           }
         },
         {
@@ -1731,7 +1882,8 @@
             "de": "Altes Rathaus und Kathedrale",
             "hu": "Régi Városháza és Katedrális",
             "ro": "Primăria Veche și Catedrala",
-            "en": "Old Town Hall and Cathedral"
+            "en": "Old Town Hall and Cathedral",
+            "pl": "Ratusz i Katedra Starego Miasta"
           },
           "coords": [
             16.1625,
@@ -1747,7 +1899,8 @@
             "de": "Ein kurzer Spaziergang von der Bushaltestelle.",
             "hu": "Rövid séta a buszmegállótól.",
             "ro": "O scurtă plimbare de la stația de autobuz.",
-            "en": "A short walk from the bus stop."
+            "en": "A short walk from the bus stop.",
+            "pl": "Krótki spacer od przystanku autobusowego."
           }
         },
         {
@@ -1755,7 +1908,8 @@
             "de": "Kupfermuseum",
             "hu": "Rézmúzeum",
             "ro": "Muzeul Cuprului",
-            "en": "Museum of Copper"
+            "en": "Museum of Copper",
+            "pl": "Muzeum Miedzi"
           },
           "coords": [
             16.165,
@@ -1771,7 +1925,8 @@
             "de": "Entdecken Sie die Kupfergeschichte, bevor Sie den Bus zum nächsten Cluster nehmen.",
             "hu": "Fedezze fel a réz történetét, mielőtt busszal a következő klaszterhez utazna.",
             "ro": "Descoperiți istoria cuprului înainte de a lua autobuzul spre următorul cluster.",
-            "en": "Discover the copper history before taking the bus to the next cluster."
+            "en": "Discover the copper history before taking the bus to the next cluster.",
+            "pl": "Poznaj historię miedzi przed wsiadaniem do autobusu do następnego klastra."
           }
         },
         {
@@ -1779,7 +1934,8 @@
             "de": "Haltestelle Piastenschloss (Cluster B)",
             "hu": "Megálló, Piast-kastély (B csoport)",
             "ro": "Stația Castelul Piast (Cluster B)",
-            "en": "Piast Castle Stop (Cluster B)"
+            "en": "Piast Castle Stop (Cluster B)",
+            "pl": "Przystanek Zamek Piastów (Klaster B)"
           },
           "coords": [
             16.157,
@@ -1795,7 +1951,8 @@
             "de": "Steigen Sie hier aus, um das Schloss und die Akademie zu erkunden.",
             "hu": "Szálljon le itt a kastély és az akadémia felfedezéséhez.",
             "ro": "Coborâți aici pentru a explora castelul și academia.",
-            "en": "Get off here to explore the castle and academy."
+            "en": "Get off here to explore the castle and academy.",
+            "pl": "Wysiądź tutaj, aby zwiedzić zamek i akademię."
           }
         },
         {
@@ -1803,7 +1960,8 @@
             "de": "Piastenschloss und Ritterakademie",
             "hu": "Piast-kastély és Lovagi Akadémia",
             "ro": "Castelul Piast și Academia Cavalerilor",
-            "en": "Piast Castle and Knight's Academy"
+            "en": "Piast Castle and Knight's Academy",
+            "pl": "Zamek Piastów i Akademia Rycerska"
           },
           "coords": [
             16.1575,
@@ -1819,7 +1977,8 @@
             "de": "Nehmen Sie sich Zeit für diese beiden benachbarten Sehenswürdigkeiten.",
             "hu": "Szánjon időt erre a két szomszédos látnivalóra.",
             "ro": "Luați-vă timp pentru aceste două atracții învecinate.",
-            "en": "Take your time for these two neighboring sights."
+            "en": "Take your time for these two neighboring sights.",
+            "pl": "Poświęć czas na te dwa sąsiednie obiekty."
           }
         },
         {
@@ -1827,7 +1986,8 @@
             "de": "Stadtpark",
             "hu": "Városi Park",
             "ro": "Parcul Municipal",
-            "en": "City Park"
+            "en": "City Park",
+            "pl": "Park Miejski"
           },
           "coords": [
             16.17,
@@ -1843,7 +2003,8 @@
             "de": "Eine letzte Busfahrt bringt Sie in die grüne Lunge der Stadt.",
             "hu": "Egy utolsó buszút a város zöld tüdejébe visz.",
             "ro": "O ultimă călătorie cu autobuzul vă va duce la plămânul verde al orașului.",
-            "en": "A final bus ride takes you to the city's green lung."
+            "en": "A final bus ride takes you to the city's green lung.",
+            "pl": "Ostatni przejazd autobusem zabierze cię do zielonych płuc miasta."
           }
         }
       ],
@@ -1851,7 +2012,8 @@
         "de": "Mit einer Tageskarte für den Nahverkehr beginnt Ihre Reise im Herzen der Altstadt. Nach einem Spaziergang um den Marktplatz und die Kathedrale nehmen Sie den Bus zum Schloss-Cluster. Hier verbringen Sie den Mittag damit, das Piastenschloss und die Ritterakademie zu bewundern. Am späten Nachmittag bringt Sie ein weiterer Bus in den Stadtpark, wo Sie den Tag in ruhiger, grüner Umgebung ausklingen lassen können.",
         "hu": "Egy tömegközlekedési napijeggyel a kezében kezdődik az utazás az óváros szívében. A piactér és a katedrális körüli séta után busszal utazik a kastély-klaszterhez. Itt tölti a délt a Piast-kastély és a Lovagi Akadémia csodálatával. Késő délután egy másik busz viszi a Városi Parkba, ahol egy csendes, zöld környezetben fejezheti be a napot.",
         "ro": "Cu un bilet de o zi pentru transportul public, călătoria dvs. începe în inima centrului vechi. După o plimbare în jurul pieței și a catedralei, luați autobuzul spre clusterul castelului. Aici vă veți petrece amiaza admirând Castelul Piast și Academia Cavalerilor. Spre seară, un alt autobuz vă va duce la Parcul Municipal, unde puteți încheia ziua într-un mediu liniștit și verde.",
-        "en": "With a public transport day pass, your journey begins in the heart of the Old Town. After a walk around the Market Square and the Cathedral, you take a bus to the castle cluster. Here you'll spend midday admiring Piast Castle and the Knight's Academy. In the late afternoon, another bus will take you to the City Park, where you can end the day in a quiet, green setting."
+        "en": "With a public transport day pass, your journey begins in the heart of the Old Town. After a walk around the Market Square and the Cathedral, you take a bus to the castle cluster. Here you'll spend midday admiring Piast Castle and the Knight's Academy. In the late afternoon, another bus will take you to the City Park, where you can end the day in a quiet, green setting.",
+        "pl": "Z biletem dziennym na komunikację miejską twoja podróż zaczyna się w sercu Starego Miasta. Po spacerze po Rynku i katedrze wsiądziesz do autobusu do zespołu zamkowego. Tutaj spędzisz południe, podziwiając Zamek Piastów i Akademię Rycerską. Pod koniec popołudnia kolejny autobus zawiezie cię do Parku Miejskiego, gdzie możesz zakończyć dzień w cichej, zielonej scenerii."
       },
       "gastro_picks": {
         "de": [
@@ -1995,6 +2157,12 @@
           "A day pass is the most cost-effective option for multiple trips.",
           "Validate your ticket upon boarding to avoid fines.",
           "Be aware that buses may run less frequently in the evening and on weekends."
+        ],
+        "pl": [
+          "Pobierz aplikację transportu publicznego, by sprawdzać trasy i rozkłady.",
+          "Bilet dzienny to najbardziej opłacalna opcja przy wielokrotnych przejazdach.",
+          "Skasuj bilet przy wsiadaniu, aby uniknąć mandatów.",
+          "Pamiętaj, że autobusy mogą kursować rzadziej wieczorem i w weekendy."
         ]
       },
       "variants": {
@@ -2003,7 +2171,8 @@
             "de": "Vormittag: Ankunft an der Haltestelle Altstadt. Ein kurzer Sprint unter Schirmen führt zum Rathaus. Mittags: Das Kupfermuseum bietet Schutz und Kultur. Danach kurzer Transfer zum Schloss-Cluster. Nachmittag: Besichtigung der Ritterakademie und des Piastenschlosses. Abend: Kurze Busfahrt zum Stadtpark, wo wir die Atmosphäre trotz Regen genießen, bevor es zur Endstation geht.",
             "hu": "Reggel: Érkezés az óvárosi megállóba. Rövid futás esernyővel a Városházáig. Délben: A Rézmúzeum védelmet és kultúrát nyújt. Ezután rövid átszállás a vár-megállóhoz. Délután: A Lovagakadémia és a Piast-vár megtekintése. Este: Rövid buszozás a Városi Parkhoz, ahol az eső ellenére élvezzük a hangulatot a végállomás felé menet.",
             "ro": "Dimineața: Sosire la stația din centrul vechi. Un scurt sprint sub umbrele spre primărie. Prânz: Muzeul Cuprului oferă adăpost și cultură. Urmează un transfer scurt spre castel. După-amiaza: Vizitarea Academiei Cavalerilor și a Castelului Piast. Seara: Scurtă călătorie cu autobuzul spre parcul orașului, bucurându-ne de atmosferă în ciuda ploii.",
-            "en": "Morning: Arrival at the Old Town stop. A short sprint under umbrellas leads to the Town Hall. Noon: The Museum of Copper offers shelter and culture. Followed by a quick transit transfer to the Castle area. Afternoon: Sightseeing at the Knight's Academy and Piast Castle. Evening: Short bus ride to the City Park, enjoying the atmosphere despite the rain before heading to the final stop."
+            "en": "Morning: Arrival at the Old Town stop. A short sprint under umbrellas leads to the Town Hall. Noon: The Museum of Copper offers shelter and culture. Followed by a quick transit transfer to the Castle area. Afternoon: Sightseeing at the Knight's Academy and Piast Castle. Evening: Short bus ride to the City Park, enjoying the atmosphere despite the rain before heading to the final stop.",
+            "pl": "Rano: Przyjazd na przystanek Stare Miasto. Krótki sprint pod parasolami prowadzi do ratusza. Południe: Muzeum Miedzi oferuje schronienie i kulturę. Następnie szybka przesiadka do rejonu zamku. Popołudnie: Zwiedzanie Akademii Rycerskiej i Zamku Piastów. Wieczór: Krótka przejażdżka autobusem do Parku Miejskiego, gdzie mimo deszczu można poczuć atmosferę przed dotarciem na przystanek końcowy."
           },
           "stops": [
             {
@@ -2012,7 +2181,8 @@
                 "de": "Überdachte Haltestelle vorhanden, ideal zum Warten auf den Anschluss.",
                 "hu": "Fedett megálló, ideális a csatlakozásra való várakozáshoz.",
                 "ro": "Stație acoperită, ideală pentru a aștepta legătura.",
-                "en": "Covered transit stop available, ideal for waiting out heavy rain."
+                "en": "Covered transit stop available, ideal for waiting out heavy rain.",
+                "pl": "Dostępny zadaszony przystanek, idealny do przeczekania ulewy."
               }
             },
             {
@@ -2021,7 +2191,8 @@
                 "de": "Nutzen Sie den Kircheneingang als Unterstand bei plötzlichem Guss.",
                 "hu": "Használja a templombejáratot menedékként hirtelen zápor esetén.",
                 "ro": "Folosiți intrarea bisericii ca adăpost în caz de aversă bruscă.",
-                "en": "Use the church entrance as a shelter during sudden downpours."
+                "en": "Use the church entrance as a shelter during sudden downpours.",
+                "pl": "Użyj wejścia do kościoła jako schronienia podczas nagłych ulew."
               }
             },
             {
@@ -2030,7 +2201,8 @@
                 "de": "Die Haltestelle befindet sich fast unmittelbar vor dem Museum.",
                 "hu": "A megálló szinte közvetlenül a múzeum előtt található.",
                 "ro": "Stația se află aproape direct în fața muzeului.",
-                "en": "The transit stop is located almost directly in front of the museum."
+                "en": "The transit stop is located almost directly in front of the museum.",
+                "pl": "Przystanek znajduje się niemal bezpośrednio przed muzeum."
               }
             },
             {
@@ -2039,7 +2211,8 @@
                 "de": "Nur 150 Meter Fußweg zum Schlosseingang, meist gepflastert.",
                 "hu": "Csak 150 méter séta a várbejáratig, végig kövezett úton.",
                 "ro": "Doar 150 de metri de mers până la castel, drum pavat.",
-                "en": "Only a 150-meter walk to the castle entrance, mostly paved."
+                "en": "Only a 150-meter walk to the castle entrance, mostly paved.",
+                "pl": "Tylko 150 metrów spaceru do wejścia na zamek, głównie po utwardzonej powierzchni."
               }
             },
             {
@@ -2048,7 +2221,8 @@
                 "de": "Bei Regen ist die Ritterakademie ein weitläufiger Rückzugsort.",
                 "hu": "Esőben a Lovagakadémia tágas menedéket jelent.",
                 "ro": "Academia Cavalerilor este un refugiu spațios pe timp de ploaie.",
-                "en": "The Knight's Academy serves as a spacious retreat during rain."
+                "en": "The Knight's Academy serves as a spacious retreat during rain.",
+                "pl": "Akademia Rycerska służy jako przestronne schronienie podczas deszczu."
               }
             },
             {
@@ -2057,7 +2231,8 @@
                 "de": "Wählen Sie die Haltestelle am Palmhaus für einen trockenen Blick.",
                 "hu": "Válassza a Pálmaház közeli megállót a száraz nézelődéshez.",
                 "ro": "Alegeți stația de lângă sere pentru o vedere ferită de ploaie.",
-                "en": "Choose the stop near the Palm House for a dry view of the park."
+                "en": "Choose the stop near the Palm House for a dry view of the park.",
+                "pl": "Wybierz przystanek przy Palmiarni, by z sucha oglądać park."
               }
             }
           ],
@@ -2089,6 +2264,13 @@
               "Not all stops in the old town area are covered.",
               "Wear a hood instead of an umbrella in the windy castle area.",
               "Keep some change or a card ready for the ticket machines."
+            ],
+            "pl": [
+              "Korzystaj z aplikacji komunikacji miejskiej Legnica, by uzyskać informacje w czasie rzeczywistym podczas opóźnień spowodowanych deszczem.",
+              "Bilety zwykle można kupić bezdotykowo wewnątrz autobusu.",
+              "Nie wszystkie przystanki w rejonie starego miasta są zadaszone.",
+              "W wietrznej okolicy zamku noś kaptur zamiast parasola.",
+              "Miej grosz lub kartę gotowe do obsługi biletomatów."
             ]
           }
         },
@@ -2097,7 +2279,8 @@
             "de": "Vormittag: Ankunft im frostigen Legnica. Kurzer Fußweg durch die belebende Winterluft zum Rathaus. Mittags: Nach dem Aufwärmen im Kupfermuseum nehmen wir den Bus zum Schloss-Viertel. Nachmittag: Besichtigung der Ritterakademie und des Piastenschlosses. Abend: Kurze Fahrt zum Stadtpark, um die winterliche Stille im Dämmerlicht zu erleben, bevor der Bus zur Rückreise kommt.",
             "hu": "Reggel: Érkezés a fagyos Legnicára. Rövid séta az élénkítő téli levegőben a Városházáig. Délben: A Rézmúzeumban való felmelegedés után busszal megyünk a várnegyedbe. Délután: A Lovagakadémia és a Piast-vár megtekintése. Este: Rövid út a Városi Parkhoz, a téli csend átélése az alkonyatban a busz érkezése előtt.",
             "ro": "Dimineața: Sosire în Legnica înghețată. Scurtă plimbare în aerul revigorant spre primărie. Prânz: După încălzirea la Muzeul Cuprului, luăm autobuzul spre zona castelului. După-amiaza: Vizitarea academiei și a castelului. Seara: Scurtă deplasare spre parc pentru a simți liniștea iernii în amurg înainte de întoarcere.",
-            "en": "Morning: Arrival in frosty Legnica. Short walk through the bracing winter air to the Town Hall. Noon: After warming up at the Museum of Copper, take the bus to the Castle district. Afternoon: Sightseeing at the Knight's Academy and Piast Castle. Evening: Short trip to the City Park to experience the winter silence in the twilight before the bus arrives."
+            "en": "Morning: Arrival in frosty Legnica. Short walk through the bracing winter air to the Town Hall. Noon: After warming up at the Museum of Copper, take the bus to the Castle district. Afternoon: Sightseeing at the Knight's Academy and Piast Castle. Evening: Short trip to the City Park to experience the winter silence in the twilight before the bus arrives.",
+            "pl": "Rano: Przyjazd do mroźnej Legnicy. Krótki spacer rześkim zimowym powietrzem do ratusza. Południe: Po rozgrzaniu się w Muzeum Miedzi wsiądź do autobusu do dzielnicy zamkowej. Popołudnie: Zwiedzanie Akademii Rycerskiej i Zamku Piastów. Wieczór: Krótka wyprawa do Parku Miejskiego, by doświadczyć zimowej ciszy o zmierzchu przed powrotem autobusem."
           },
           "stops": [
             {
@@ -2106,7 +2289,8 @@
                 "de": "Die Wartehäuschen bieten Schutz vor dem eisigen Wind.",
                 "hu": "A váróhelyek védelmet nyújtanak a jeges szél ellen.",
                 "ro": "Adăposturile din stație oferă protecție împotriva vântului tăios.",
-                "en": "The transit shelters provide protection from the biting winter wind."
+                "en": "The transit shelters provide protection from the biting winter wind.",
+                "pl": "Wiaty przystankowe chronią przed przenikliwym zimnym wiatrem."
               }
             },
             {
@@ -2115,7 +2299,8 @@
                 "de": "In der Nähe gibt es viele warme Orte für eine Pause.",
                 "hu": "A közelben számos meleg hely van egy rövid pihenőre.",
                 "ro": "În apropiere se află multe locuri calde pentru o pauză.",
-                "en": "There are many warm places nearby for a quick break."
+                "en": "There are many warm places nearby for a quick break.",
+                "pl": "W pobliżu jest wiele ciepłych miejsc na krótki odpoczynek."
               }
             },
             {
@@ -2124,7 +2309,8 @@
                 "de": "Ein idealer Ort, um sich zwischen zwei Busfahrten aufzuwärmen.",
                 "hu": "Ideális hely a felmelegedésre két buszút között.",
                 "ro": "Un loc ideal pentru încălzire între două călătorii cu autobuzul.",
-                "en": "An ideal place to warm up between two transit rides."
+                "en": "An ideal place to warm up between two transit rides.",
+                "pl": "Idealne miejsce na rozgrzanie się między dwoma przejazdami komunikacją."
               }
             },
             {
@@ -2133,7 +2319,8 @@
                 "de": "Achten Sie auf Glätte an der Bordsteinkante beim Aussteigen.",
                 "hu": "Vigyázzon a csúszós útpadkára a leszálláskor.",
                 "ro": "Atenție la bordura alunecoasă la coborârea din autobuz.",
-                "en": "Watch out for slippery curbs when stepping off the bus."
+                "en": "Watch out for slippery curbs when stepping off the bus.",
+                "pl": "Uważaj na śliskie krawężniki przy wysiadaniu z autobusu."
               }
             },
             {
@@ -2142,7 +2329,8 @@
                 "de": "Die Besichtigung der Innenräume spart Energie bei Kälte.",
                 "hu": "A belső terek megtekintése energiát spórol a hidegben.",
                 "ro": "Vizitarea interioarelor economisește energie pe ger.",
-                "en": "Focusing on indoor exhibits saves energy in the cold weather."
+                "en": "Focusing on indoor exhibits saves energy in the cold weather.",
+                "pl": "Skupienie się na wystawach wewnętrznych oszczędza energię w zimnej pogodzie."
               }
             },
             {
@@ -2151,7 +2339,8 @@
                 "de": "Warten Sie auf den Rückbus in der beleuchteten Haltestelle am Parkrand.",
                 "hu": "Várja a visszajáratot a park szélén található kivilágított megállóban.",
                 "ro": "Așteptați autobuzul de întoarcere în stația luminată de la marginea parcului.",
-                "en": "Wait for the return bus at the illuminated stop at the park's edge."
+                "en": "Wait for the return bus at the illuminated stop at the park's edge.",
+                "pl": "Czekaj na powrotny autobus przy oświetlonym przystanku na skraju parku."
               }
             }
           ],
@@ -2183,6 +2372,13 @@
               "The sun sets as early as 4:10 PM; plan your itinerary accordingly.",
               "Wear warm socks; standing at stops can quickly chill your feet.",
               "Kiosks near major stops often sell hot beverages to go."
+            ],
+            "pl": [
+              "Autobusy w Legnicy zwykle są bardzo dobrze ogrzane zimą.",
+              "Rozkłady mogą nieznacznie się zmieniać podczas intensywnych opadów śniegu.",
+              "Słońce zachodzi już około 16:10; planuj trasę odpowiednio.",
+              "Noś ciepłe skarpety; stanie na przystankach szybko chłodzi stopy.",
+              "Kioski przy głównych przystankach często sprzedają gorące napoje na wynos."
             ]
           }
         }

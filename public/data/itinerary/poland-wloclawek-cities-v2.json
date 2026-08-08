@@ -21,7 +21,8 @@
             "de": "Freiheitsplatz",
             "hu": "Szabadság tér",
             "ro": "Piața Libertății",
-            "en": "Freedom Square"
+            "en": "Freedom Square",
+            "pl": "Plac Wolności"
           },
           "coords": [
             19.067,
@@ -37,7 +38,8 @@
             "de": "Beginnen Sie Ihren Tag hier mit einem Kaffee in einem der örtlichen Cafés.",
             "hu": "Kezdje a napot egy kávéval a helyi kávézók egyikében.",
             "ro": "Începeți ziua aici cu o cafea la una dintre cafenelele locale.",
-            "en": "Start your day here with a coffee from one of the local cafes."
+            "en": "Start your day here with a coffee from one of the local cafes.",
+            "pl": "Zacznij dzień tutaj od kawy w jednej z lokalnych kawiarni."
           }
         },
         {
@@ -45,7 +47,8 @@
             "de": "Kathedralbasilika Mariä Himmelfahrt",
             "hu": "Nagyboldogasszony-székesegyház",
             "ro": "Catedrala Adormirea Maicii Domnului",
-            "en": "Cathedral Basilica of the Assumption"
+            "en": "Cathedral Basilica of the Assumption",
+            "pl": "Bazylika katedralna Wniebowzięcia"
           },
           "coords": [
             19.064,
@@ -61,7 +64,8 @@
             "de": "Bewundern Sie die gotische Architektur und die beeindruckenden Glasfenster.",
             "hu": "Csodálja meg a gótikus építészetet és a lenyűgöző ólomüveg ablakokat.",
             "ro": "Admirați arhitectura gotică și vitraliile impresionante.",
-            "en": "Admire the Gothic architecture and the impressive stained-glass windows."
+            "en": "Admire the Gothic architecture and the impressive stained-glass windows.",
+            "pl": "Podziwiaj gotycką architekturę i imponujące witraże."
           }
         },
         {
@@ -69,7 +73,8 @@
             "de": "Kirche St. Vitalis",
             "hu": "Szent Vitalis-templom",
             "ro": "Biserica Sfântul Vitalis",
-            "en": "Church of St. Vitalis"
+            "en": "Church of St. Vitalis",
+            "pl": "Kościół św. Witalisa"
           },
           "coords": [
             19.062,
@@ -85,7 +90,8 @@
             "de": "Das älteste erhaltene Gebäude der Stadt, ein Juwel der romanischen Architektur.",
             "hu": "A város legrégebbi fennmaradt épülete, a román kori építészet gyöngyszeme.",
             "ro": "Cea mai veche clădire supraviețuitoare din oraș, o bijuterie a arhitecturii romanice.",
-            "en": "The oldest surviving building in the city, a gem of Romanesque architecture."
+            "en": "The oldest surviving building in the city, a gem of Romanesque architecture.",
+            "pl": "Najstarszy zachowany budynek w mieście, perła architektury romańskiej."
           }
         },
         {
@@ -93,7 +99,8 @@
             "de": "Museum des Kujawen- und Dobriner Landes",
             "hu": "Kujávia és Dobrzyń Földjének Múzeuma",
             "ro": "Muzeul ținutului Kujawy și Dobrzyń",
-            "en": "Museum of the Kujawy and Dobrzyń Land"
+            "en": "Museum of the Kujawy and Dobrzyń Land",
+            "pl": "Muzeum Ziemi Kujawskiej i Dobrzyńskiej"
           },
           "coords": [
             19.07,
@@ -109,7 +116,8 @@
             "de": "Planen Sie hier Zeit für das Mittagessen ein, um die lokale Geschichte vollständig zu erleben.",
             "hu": "Tervezzen itt egy ebédszünetet, hogy teljesen elmerüljön a helyi történelemben.",
             "ro": "Planificați timp pentru prânz aici pentru a absorbi pe deplin istoria locală.",
-            "en": "Plan for lunch time around here to fully absorb the local history."
+            "en": "Plan for lunch time around here to fully absorb the local history.",
+            "pl": "Zaplanuj obiad w tych okolicach, by w pełni przyswoić lokalną historię."
           }
         },
         {
@@ -117,7 +125,8 @@
             "de": "Fayence-Museum",
             "hu": "Fajansz Múzeum",
             "ro": "Muzeul de Faianță",
-            "en": "Faience Museum"
+            "en": "Faience Museum",
+            "pl": "Muzeum Fajansu"
           },
           "coords": [
             19.072,
@@ -133,7 +142,8 @@
             "de": "Einzigartige Sammlung lokaler Keramik. Ein Muss für Kunstliebhaber.",
             "hu": "Egyedülálló helyi kerámiagyűjtemény. A művészetkedvelőknek kötelező.",
             "ro": "Colecție unică de ceramică locală. O vizită obligatorie pentru iubitorii de artă.",
-            "en": "Unique collection of local ceramics. A must-visit for art lovers."
+            "en": "Unique collection of local ceramics. A must-visit for art lovers.",
+            "pl": "Unikatowa kolekcja miejscowej ceramiki. Obowiązkowe dla miłośników sztuki."
           }
         },
         {
@@ -141,7 +151,8 @@
             "de": "Diözesanmuseum",
             "hu": "Egyházmegyei Múzeum",
             "ro": "Muzeul Diecezan",
-            "en": "Diocesan Museum"
+            "en": "Diocesan Museum",
+            "pl": "Muzeum Diecezjalne"
           },
           "coords": [
             19.065,
@@ -157,7 +168,8 @@
             "de": "Entdecken Sie die religiöse Kunst und die Schätze, die in der Nähe der Kathedrale aufbewahrt werden.",
             "hu": "Fedezze fel a székesegyház közelében őrzött egyházi művészetet és kincseket.",
             "ro": "Descoperiți arta religioasă și comorile păstrate lângă catedrală.",
-            "en": "Discover the religious art and treasures kept near the cathedral."
+            "en": "Discover the religious art and treasures kept near the cathedral.",
+            "pl": "Odkryj sztukę religijną i skarby przechowywane przy katedrze."
           }
         },
         {
@@ -165,7 +177,8 @@
             "de": "Sienkiewicz-Park",
             "hu": "Sienkiewicz Park",
             "ro": "Parcul Sienkiewicz",
-            "en": "Sienkiewicz Park"
+            "en": "Sienkiewicz Park",
+            "pl": "Park Sienkiewicza"
           },
           "coords": [
             19.068,
@@ -181,7 +194,8 @@
             "de": "Ein perfekter Ort, um den Tag bei einem entspannten Spaziergang ausklingen zu lassen.",
             "hu": "Tökéletes hely a nap lezárására egy pihentető sétával.",
             "ro": "Un loc perfect pentru a încheia ziua cu o plimbare relaxantă.",
-            "en": "A perfect spot to end your day with a relaxing stroll."
+            "en": "A perfect spot to end your day with a relaxing stroll.",
+            "pl": "Idealne miejsce na zakończenie dnia relaksującym spacerem."
           }
         }
       ],
@@ -189,7 +203,8 @@
         "de": "Ihr Tag in Leslau beginnt am belebten Freiheitsplatz. Von dort aus tauchen Sie in die sakrale Geschichte der Stadt ein, indem Sie die majestätische Kathedrale und die alte St.-Vitalis-Kirche besuchen. Am Nachmittag erkunden Sie die reiche Kultur von Kujawien in drei verschiedenen Museen, die sich auf Regionalgeschichte, exquisite Fayence und religiöse Kunst spezialisieren. Beenden Sie Ihren Tag mit einem erholsamen Spaziergang im grünen Sienkiewicz-Park.",
         "hu": "A wloclaweki nap a nyüzsgő Szabadság téren kezdődik. Innen elmerülhet a város szakrális történelmében a fenséges székesegyház és az ősi Szent Vitalis-templom meglátogatásával. Délután fedezze fel Kujávia gazdag kultúráját három különböző múzeumban, melyek a helytörténetre, a különleges fajanszra és az egyházi művészetre szakosodtak. A napot egy pihentető sétával zárja a zöldellő Sienkiewicz Parkban.",
         "ro": "Ziua dvs. în Włocławek începe în Piața Libertății. De acolo, vă veți scufunda în istoria sacră a orașului vizitând catedrala maiestuoasă și vechea Biserică Sf. Vitalis. După-amiaza, explorați cultura bogată a regiunii Kujawy în trei muzee diferite, specializate în istorie regională, faianță rafinată și artă religioasă. Încheiați ziua cu o plimbare relaxantă în Parcul Sienkiewicz.",
-        "en": "Your day in Włocławek begins at the bustling Freedom Square. From there, delve into the city's sacred history by visiting the majestic Cathedral and the ancient Church of St. Vitalis. The afternoon is for exploring the rich culture of Kuyavia in three distinct museums, specializing in regional history, exquisite faience, and religious art. Conclude your day with a relaxing stroll in the verdant Sienkiewicz Park."
+        "en": "Your day in Włocławek begins at the bustling Freedom Square. From there, delve into the city's sacred history by visiting the majestic Cathedral and the ancient Church of St. Vitalis. The afternoon is for exploring the rich culture of Kuyavia in three distinct museums, specializing in regional history, exquisite faience, and religious art. Conclude your day with a relaxing stroll in the verdant Sienkiewicz Park.",
+        "pl": "Twój dzień we Włocławku zaczyna się na tętniącym Placu Wolności. Stąd zagłęb się w sakralną historię miasta, odwiedzając okazałą katedrę i starożytny Kościół św. Witalisa. Popołudnie poświęć na poznawanie bogatej kultury Kujaw w trzech różnych muzeach: historii regionalnej, wyśmienitego fajansu i sztuki religijnej. Zakończ dzień relaksującym spacerem po zielonym Parku Sienkiewicza."
       },
       "gastro_picks": {
         "de": [
@@ -385,6 +400,12 @@
           "Check museum opening times in advance as they can vary.",
           "Most places in the city center are within easy walking distance.",
           "Carry a reusable water bottle to stay hydrated."
+        ],
+        "pl": [
+          "Noś wygodne buty — czeka cię dużo chodzenia.",
+          "Sprawdź wcześniej godziny otwarcia muzeów, mogą się różnić.",
+          "Większość miejsc w centrum jest na łatwy spacer.",
+          "Noś ze sobą wielorazową butelkę na wodę, by pozostać nawodnionym."
         ]
       },
       "variants": {
@@ -393,7 +414,8 @@
             "de": "Der Spaziergang beginnt am Plac Wolności. Danach bieten die St. Vitalis Kirche und die Kathedrale Schutz vor dem Regen. Mittags erkunden Sie das Kujawy-Museum im trockenen Speichergebäude. Nach einem gemütlichen Mittagessen am Flussufer endet der Tag mit einem atmosphärischen Spaziergang durch den nassen Sienkiewicz-Park.",
             "hu": "A séta a Szabadság téren indul, majd a Szent Vitális-templom és a Katedrális nyújt menedéket az eső elől. A déli órákat a Kujáviai Múzeum száraz épületében töltheti. Egy hangulatos, folyóparti ebéd után a vizes, de csendes Sienkiewicz parkban ér véget a nap.",
             "ro": "Plimbarea începe în Piața Libertății, după care biserica Sf. Vitalis și Catedrala oferă un adăpost perfect. La prânz, explorați Muzeul Kujawy la adăpost de ploaie. După un prânz confortabil pe malul râului, ziua se încheie cu o plimbare plină de atmosferă în parcul umed Sienkiewicz.",
-            "en": "Start at Freedom Square, then find shelter from the rain in St. Vitalis Church and the Cathedral. Spend the midday exploring the Kujawy Museum indoors. After a cozy lunch by the Vistula, finish with an atmospheric, wet stroll through Sienkiewicz Park."
+            "en": "Start at Freedom Square, then find shelter from the rain in St. Vitalis Church and the Cathedral. Spend the midday exploring the Kujawy Museum indoors. After a cozy lunch by the Vistula, finish with an atmospheric, wet stroll through Sienkiewicz Park.",
+            "pl": "Zacznij na Placu Wolności, następnie schowaj się przed deszczem w Kościele św. Witalisa i katedrze. W południe zwiedź Muzeum Kujaw pod dachem. Po przytulnym obiedzie nad Wisłą zakończ atmosferycznym, mokrym spacerem przez Park Sienkiewicza."
           },
           "stops": [
             {
@@ -402,7 +424,8 @@
                 "de": "Nehmen Sie einen Regenschirm für diesen offenen Platz mit.",
                 "hu": "Legyen kéznél esernyő ezen a nyitott téren.",
                 "ro": "Aveți la îndemână o umbrelă pentru această piață deschisă.",
-                "en": "Keep an umbrella handy for this open square."
+                "en": "Keep an umbrella handy for this open square.",
+                "pl": "Miej pod ręką parasol na ten otwarty plac."
               }
             },
             {
@@ -411,7 +434,8 @@
                 "de": "Ein ruhiger Ort, um dem Regen für eine Weile zu entfliehen.",
                 "hu": "Csendes hely, ahol egy időre menedéket találhat a zápor elől.",
                 "ro": "Un loc liniștit pentru a scăpa de ploaie pentru o vreme.",
-                "en": "A quiet place to escape the rain for a while."
+                "en": "A quiet place to escape the rain for a while.",
+                "pl": "Ciche miejsce, by na chwilę uciec przed deszczem."
               }
             },
             {
@@ -420,7 +444,8 @@
                 "de": "Der geräumige Innenraum ist ideal für längere Regenschauer.",
                 "hu": "A tágas belső tér ideális a hosszabb esőzések átvészelésére.",
                 "ro": "Interiorul spațios este ideal pentru averse prelungite.",
-                "en": "The spacious interior is ideal for passing longer showers."
+                "en": "The spacious interior is ideal for passing longer showers.",
+                "pl": "Przestronne wnętrze idealne na przetrwanie dłuższych opadów."
               }
             },
             {
@@ -429,7 +454,8 @@
                 "de": "Perfekte Indoor-Aktivität für regnerische Nachmittage.",
                 "hu": "Tökéletes beltéri program esős délutánokra.",
                 "ro": "Activitate de interior perfectă pentru după-amiezi ploioase.",
-                "en": "Perfect indoor activity for rainy afternoons."
+                "en": "Perfect indoor activity for rainy afternoons.",
+                "pl": "Idealna aktywność w pomieszczeniu na deszczowe popołudnia."
               }
             },
             {
@@ -438,7 +464,8 @@
                 "de": "Wählen Sie ein Restaurant mit überdachter Terrasse.",
                 "hu": "Válasszon fedett terasszal vagy nagy ablakokkal rendelkező éttermet.",
                 "ro": "Alegeți un restaurant cu terasă acoperită.",
-                "en": "Choose a restaurant with a covered terrace or large windows."
+                "en": "Choose a restaurant with a covered terrace or large windows.",
+                "pl": "Wybierz restaurację z zadaszonym tarasem lub dużymi oknami."
               }
             },
             {
@@ -447,7 +474,8 @@
                 "de": "Vorsicht auf nassen Wegen durch herabgefallenes Laub.",
                 "hu": "Vigyázzon a nedves, csúszós ösvényeken.",
                 "ro": "Atenție la potecile umede din cauza frunzelor căzute.",
-                "en": "Watch out for slippery paths covered in wet leaves."
+                "en": "Watch out for slippery paths covered in wet leaves.",
+                "pl": "Uważaj na śliskie ścieżki pokryte mokrymi liśćmi."
               }
             }
           ],
@@ -475,6 +503,12 @@
               "The museums provide great opportunities to wait out heavy showers.",
               "The riverside can often be windy during rainy weather.",
               "Use the churches as quick, dry stops along your route."
+            ],
+            "pl": [
+              "Wodoodporne buty są niezbędne w brukowanym centrum miasta.",
+              "Muzea to świetne miejsca, by przeczekać intensywne ulewy.",
+              "Nadbrzeże często jest wietrzne podczas deszczowej pogody.",
+              "Wykorzystaj kościoły jako szybkie, suche przystanki w trasie."
             ]
           }
         },
@@ -483,7 +517,8 @@
             "de": "Ein kühler Wintermorgen am Plac Wolności. Danach können Sie sich in den historischen Kirchen aufwärmen. Mittags bietet der alte Speicher eine beheizte Zuflucht. Genießen Sie ein warmes polnisches Mittagessen an der eisigen Weichsel und beenden Sie den Tag mit einem zügigen Spaziergang durch den schneebedeckten Park.",
             "hu": "Hűvös téli reggel a Szabadság téren, majd felmelegedhet a történelmi templomokban. A déli órákban a fűtött Kujáviai Múzeum nyújt menedéket. Fogyasszon el egy meleg ebédet a jeges Visztula partján, majd zárja a napot egy frissítő sétával a hóborította parkban.",
             "ro": "O dimineață răcoroasă de iarnă în Piața Libertății, apoi vă puteți încălzi în bisericile istorice. La prânz, Muzeul Kujawy oferă un refugiu încălzit. Bucurați-vă de un prânz cald polonez lângă Vistula înghețată și încheiați ziua cu o plimbare revigorantă prin parcul înzăpezit.",
-            "en": "A crisp winter morning at Freedom Square, then warm up inside the historic churches. At midday, the Granary offers a heated retreat. Enjoy a warm Polish lunch by the icy Vistula, and end the day with a brisk walk through the snow-dusted park."
+            "en": "A crisp winter morning at Freedom Square, then warm up inside the historic churches. At midday, the Granary offers a heated retreat. Enjoy a warm Polish lunch by the icy Vistula, and end the day with a brisk walk through the snow-dusted park.",
+            "pl": "Chłodne zimowe rano na Placu Wolności, potem rozgrzej się wewnątrz zabytkowych kościołów. W południe Spichrz oferuje ogrzewane schronienie. Zjedz ciepły polski obiad nad lodowatą Wisłą i zakończ dzień żwawym spacerem przez park oprószony śniegiem."
           },
           "stops": [
             {
@@ -492,7 +527,8 @@
                 "de": "Der Platz kann im Winter eisig sein, gehen Sie vorsichtig.",
                 "hu": "A tér télen jeges lehet, közlekedjen óvatosan.",
                 "ro": "Piața poate fi înghețată iarna, pășiți cu grijă.",
-                "en": "The square can be icy in winter, walk carefully."
+                "en": "The square can be icy in winter, walk carefully.",
+                "pl": "Na placu zimą może być ślisko, chodź ostrożnie."
               }
             },
             {
@@ -501,7 +537,8 @@
                 "de": "Ein guter Ort, um sich kurz aufzuwärmen.",
                 "hu": "Kiváló hely egy rövid felmelegedésre a hidegben.",
                 "ro": "Un loc bun pentru a vă încălzi scurt.",
-                "en": "A good place to briefly warm up from the cold."
+                "en": "A good place to briefly warm up from the cold.",
+                "pl": "Dobre miejsce, by na krótko rozgrzać się z zimna."
               }
             },
             {
@@ -510,7 +547,8 @@
                 "de": "Die dicken Mauern halten die Kälte oft draußen.",
                 "hu": "A vastag falak jól tartják a belső hőt télen.",
                 "ro": "Pereții groși țin adesea frigul afară.",
-                "en": "The thick walls often keep the bitter cold out."
+                "en": "The thick walls often keep the bitter cold out.",
+                "pl": "Grube mury często chronią przed przenikliwym chłodem."
               }
             },
             {
@@ -519,7 +557,8 @@
                 "de": "Eine gemütliche und gut beheizte Attraktion.",
                 "hu": "Kellemes és jól fűtött kulturális látnivaló.",
                 "ro": "O atracție confortabilă și bine încălzită.",
-                "en": "A cozy and well-heated cultural attraction."
+                "en": "A cozy and well-heated cultural attraction.",
+                "pl": "Przytulna i dobrze ogrzana atrakcja kulturalna."
               }
             },
             {
@@ -528,7 +567,8 @@
                 "de": "Suchen Sie ein Lokal mit heißen polnischen Suppen.",
                 "hu": "Keressen egy helyet, ahol forró lengyel leveseket kínálnak.",
                 "ro": "Căutați un loc cu supe calde poloneze.",
-                "en": "Look for a spot serving hot, traditional Polish soups."
+                "en": "Look for a spot serving hot, traditional Polish soups.",
+                "pl": "Szukaj miejsca serwującego gorące, tradycyjne polskie zupy."
               }
             },
             {
@@ -537,7 +577,8 @@
                 "de": "Im Winter wird es hier früh dunkel.",
                 "hu": "Télen itt hamar sötétedik, érdemes időben érkezni.",
                 "ro": "Se întunecă devreme aici iarna.",
-                "en": "It gets dark early here in winter, plan accordingly."
+                "en": "It gets dark early here in winter, plan accordingly.",
+                "pl": "Zimą szybko robi się tu ciemno, planuj odpowiednio."
               }
             }
           ],
@@ -565,6 +606,12 @@
               "The sun sets early, and the park gets dark quickly in the afternoon.",
               "Watch out for icy patches on the pavements in the center.",
               "Hot chocolate or tea are ideal for warming up along the way."
+            ],
+            "pl": [
+              "Ubierz się ciepło, szczególnie przy rzece, gdzie wieje lodowaty wiatr.",
+              "Słońce zachodzi wcześnie, a park szybko robi się ciemny po południu.",
+              "Uważaj na oblodzone fragmenty chodników w centrum.",
+              "Gorąca czekolada lub herbata są idealne na rozgrzanie w trakcie wędrówki."
             ]
           }
         }
@@ -583,7 +630,8 @@
             "de": "Freiheitsplatz",
             "hu": "Szabadság tér",
             "ro": "Piața Libertății",
-            "en": "Freedom Square"
+            "en": "Freedom Square",
+            "pl": "Plac Wolności"
           },
           "coords": [
             19.067,
@@ -599,7 +647,8 @@
             "de": "Ideal zum Starten, leihen Sie sich in der Nähe ein Fahrrad.",
             "hu": "Ideális kiindulópont, béreljen a közelben kerékpárt.",
             "ro": "Ideal pentru a începe, închiriați o bicicletă din apropiere.",
-            "en": "Great place to start, rent a bike nearby."
+            "en": "Great place to start, rent a bike nearby.",
+            "pl": "Świetne miejsce na start, wypożycz rower w pobliżu."
           }
         },
         {
@@ -607,7 +656,8 @@
             "de": "Kathedralbasilika Mariä Himmelfahrt",
             "hu": "Nagyboldogasszony-székesegyház",
             "ro": "Catedrala Adormirea Maicii Domnului",
-            "en": "Cathedral Basilica of the Assumption"
+            "en": "Cathedral Basilica of the Assumption",
+            "pl": "Bazylika Katedralna Wniebowzięcia Najświętszej Maryi Panny"
           },
           "coords": [
             19.064,
@@ -623,7 +673,8 @@
             "de": "Schließen Sie Ihr Fahrrad sicher ab, bevor Sie eintreten.",
             "hu": "Zárja le biztonságosan a kerékpárt, mielőtt belép.",
             "ro": "Asigurați-vă bicicleta înainte de a intra.",
-            "en": "Lock your bike securely before entering."
+            "en": "Lock your bike securely before entering.",
+            "pl": "Zabezpiecz rower solidnym zamkiem przed wejściem."
           }
         },
         {
@@ -631,7 +682,8 @@
             "de": "Museum des Kujawen- und Dobriner Landes",
             "hu": "Kujávia és Dobrzyń Földjének Múzeuma",
             "ro": "Muzeul ținutului Kujawy și Dobrzyń",
-            "en": "Museum of the Kujawy and Dobrzyń Land"
+            "en": "Museum of the Kujawy and Dobrzyń Land",
+            "pl": "Muzeum Kujaw i Ziemi Dobrzyńskiej"
           },
           "coords": [
             19.07,
@@ -647,7 +699,8 @@
             "de": "Ein guter Ort für eine längere Pause und um mehr über die Region zu erfahren.",
             "hu": "Jó hely egy hosszabb pihenőre és a régió megismerésére.",
             "ro": "Un loc bun pentru o pauză mai lungă și pentru a învăța despre regiune.",
-            "en": "A good place for a longer break and to learn about the region."
+            "en": "A good place for a longer break and to learn about the region.",
+            "pl": "Dobre miejsce na dłuższą przerwę i poznanie regionu."
           }
         },
         {
@@ -655,7 +708,8 @@
             "de": "Sienkiewicz-Park",
             "hu": "Sienkiewicz Park",
             "ro": "Parcul Sienkiewicz",
-            "en": "Sienkiewicz Park"
+            "en": "Sienkiewicz Park",
+            "pl": "Park Sienkiewicza"
           },
           "coords": [
             19.068,
@@ -671,7 +725,8 @@
             "de": "Genießen Sie eine gemütliche Fahrt durch den Park.",
             "hu": "Élvezze a kellemes kerékpározást a parkon keresztül.",
             "ro": "Bucurați-vă de o plimbare lejeră cu bicicleta prin parc.",
-            "en": "Enjoy a leisurely ride through the park."
+            "en": "Enjoy a leisurely ride through the park.",
+            "pl": "Rozkoszuj się spokojną przejażdżką przez park."
           }
         },
         {
@@ -679,7 +734,8 @@
             "de": "Weichsel-Staudamm",
             "hu": "Visztula-gát",
             "ro": "Barajul de pe Vistula",
-            "en": "Vistula River Dam"
+            "en": "Vistula River Dam",
+            "pl": "Jaz"
           },
           "coords": [
             19.035,
@@ -695,7 +751,8 @@
             "de": "Eine beeindruckende Ingenieurleistung mit toller Aussicht auf den Fluss.",
             "hu": "Lenyűgöző mérnöki alkotás, nagyszerű kilátással a folyóra.",
             "ro": "O realizare inginerească impresionantă cu vederi minunate asupra râului.",
-            "en": "An impressive feat of engineering with great views of the river."
+            "en": "An impressive feat of engineering with great views of the river.",
+            "pl": "Imponujące dzieło inżynierii z wspaniałymi widokami na rzekę."
           }
         },
         {
@@ -703,7 +760,8 @@
             "de": "Fayence-Museum",
             "hu": "Fajansz Múzeum",
             "ro": "Muzeul de Faianță",
-            "en": "Faience Museum"
+            "en": "Faience Museum",
+            "pl": "Muzeum Fajansu"
           },
           "coords": [
             19.072,
@@ -719,7 +777,8 @@
             "de": "Beenden Sie Ihre Tour mit einem Besuch dieser einzigartigen Kunstsammlung.",
             "hu": "Zárja a túrát ennek az egyedi művészeti gyűjteménynek a meglátogatásával.",
             "ro": "Încheiați-vă turul cu o vizită la această colecție de artă unică.",
-            "en": "End your tour with a visit to this unique art collection."
+            "en": "End your tour with a visit to this unique art collection.",
+            "pl": "Zakończ wycieczkę wizytą w tej wyjątkowej kolekcji sztuki."
           }
         }
       ],
@@ -727,7 +786,8 @@
         "de": "Schwingen Sie sich in Leslau aufs Rad und starten Sie am Freiheitsplatz. Die Route führt Sie schnell zu den historischen Kirchen der Stadt. Nach einem Vormittag voller Geschichte radeln Sie zum Sienkiewicz-Park für eine Mittagspause im Grünen. Gestärkt geht es weiter zum beeindruckenden Weichsel-Staudamm, einem Highlight für Technik- und Naturfreunde. Den Abschluss Ihrer Radtour bildet das berühmte Fayence-Museum, wo Sie die lokale Handwerkskunst bewundern können.",
         "hu": "Pattanjon kerékpárra Włocławekben, és induljon a Szabadság térről. Az útvonal gyorsan elvezeti a város történelmi templomaihoz. A történelemmel teli délelőtt után tekerjen el a Sienkiewicz Parkba egy zöldben eltöltött ebédszünetre. Megerősödve folytassa útját a lenyűgöző Visztula-gáthoz, amely a technika és a természet szerelmeseinek is fénypontot jelent. A kerékpártúrát a híres Fajansz Múzeum zárja, ahol megcsodálhatja a helyi kézművességet.",
         "ro": "Urcați-vă pe bicicletă în Włocławek și porniți din Piața Libertății. Traseul vă duce rapid la bisericile istorice ale orașului. După o dimineață plină de istorie, pedalați spre Parcul Sienkiewicz pentru o pauză de prânz în natură. Revigorat, continuați spre impresionantul baraj de pe Vistula, un punct de atracție pentru pasionații de tehnologie și natură. Turul cu bicicleta se încheie la faimosul Muzeu de Faianță, unde puteți admira măiestria locală.",
-        "en": "Hop on a bike in Włocławek and start from Freedom Square. The route quickly takes you to the city's historic churches. After a morning of history, you'll cycle to Sienkiewicz Park for a lunch break amidst greenery. Refreshed, continue to the impressive Vistula River Dam, a highlight for technology and nature enthusiasts. Your cycling tour concludes at the famous Faience Museum, where you can admire local craftsmanship."
+        "en": "Hop on a bike in Włocławek and start from Freedom Square. The route quickly takes you to the city's historic churches. After a morning of history, you'll cycle to Sienkiewicz Park for a lunch break amidst greenery. Refreshed, continue to the impressive Vistula River Dam, a highlight for technology and nature enthusiasts. Your cycling tour concludes at the famous Faience Museum, where you can admire local craftsmanship.",
+        "pl": "Wskocz na rower we Włocławku i zacznij od Placu Wolności. Trasa szybko prowadzi do zabytkowych kościołów miasta. Po poranku pełnym historii pojedziesz do Parku Sienkiewicza na przerwę obiadową pośród zieleni. Po odpoczynku kontynuuj do imponującego jazu na Wiśle, atrakcję dla miłośników techniki i przyrody. Twoja wycieczka rowerowa kończy się w słynnym Muzeum Fajansu, gdzie możesz podziwiać miejscowe rzemiosło."
       },
       "gastro_picks": {
         "de": [
@@ -923,6 +983,12 @@
           "Wear a helmet and follow traffic rules.",
           "Plan your route in advance but be flexible.",
           "Bring snacks and water for the journey."
+        ],
+        "pl": [
+          "Wypożycz rower z koszykiem na rzeczy.",
+          "Noś kask i przestrzegaj przepisów ruchu drogowego.",
+          "Zaplanuj trasę z wyprzedzeniem, ale bądź elastyczny.",
+          "Zabierz przekąski i wodę na podróż."
         ]
       }
     },
@@ -939,7 +1005,8 @@
             "de": "Cluster Altstadt: Parken & Erkunden",
             "hu": "Óvárosi klaszter: Parkolás és felfedezés",
             "ro": "Cluster Centrul Vechi: Parcare și explorare",
-            "en": "Old Town Cluster: Park & Explore"
+            "en": "Old Town Cluster: Park & Explore",
+            "pl": "Zespół Starego Miasta: parkowanie i zwiedzanie"
           },
           "coords": [
             19.066,
@@ -955,7 +1022,8 @@
             "de": "Finden Sie einen Parkplatz in der Nähe des Plac Wolności für den Vormittag.",
             "hu": "Keressen egy parkolót a Plac Wolności közelében a délelőttre.",
             "ro": "Găsiți o parcare lângă Piața Wolności pentru dimineață.",
-            "en": "Find a parking spot near Plac Wolności for the morning."
+            "en": "Find a parking spot near Plac Wolności for the morning.",
+            "pl": "Znajdź miejsce parkingowe w pobliżu Placu Wolności na poranek."
           }
         },
         {
@@ -963,7 +1031,8 @@
             "de": "Kathedralbasilika Mariä Himmelfahrt",
             "hu": "Nagyboldogasszony-székesegyház",
             "ro": "Catedrala Adormirea Maicii Domnului",
-            "en": "Cathedral Basilica of the Assumption"
+            "en": "Cathedral Basilica of the Assumption",
+            "pl": "Bazylika Katedralna Wniebowzięcia Najświętszej Maryi Panny"
           },
           "coords": [
             19.064,
@@ -979,7 +1048,8 @@
             "de": "Ein kurzer Spaziergang vom Platz aus.",
             "hu": "Egy rövid séta a térről.",
             "ro": "O scurtă plimbare din piață.",
-            "en": "A short walk from the square."
+            "en": "A short walk from the square.",
+            "pl": "Krótki spacer od placu."
           }
         },
         {
@@ -987,7 +1057,8 @@
             "de": "Kirche St. Vitalis",
             "hu": "Szent Vitalis-templom",
             "ro": "Biserica Sfântul Vitalis",
-            "en": "Church of St. Vitalis"
+            "en": "Church of St. Vitalis",
+            "pl": "Kościół św. Witalisa"
           },
           "coords": [
             19.062,
@@ -1003,7 +1074,8 @@
             "de": "Setzen Sie Ihre historische Erkundung zu Fuß fort.",
             "hu": "Folytassa a történelmi felfedezést gyalog.",
             "ro": "Continuați explorarea istorică pe jos.",
-            "en": "Continue your historical exploration on foot."
+            "en": "Continue your historical exploration on foot.",
+            "pl": "Kontynuuj historyczne zwiedzanie pieszo."
           }
         },
         {
@@ -1011,7 +1083,8 @@
             "de": "Cluster Museen: Mittagessen & Kultur",
             "hu": "Múzeumi klaszter: Ebéd és kultúra",
             "ro": "Cluster Muzee: Prânz și cultură",
-            "en": "Museums Cluster: Lunch & Culture"
+            "en": "Museums Cluster: Lunch & Culture",
+            "pl": "Zespół Muzeów: obiad i kultura"
           },
           "coords": [
             19.071,
@@ -1027,7 +1100,8 @@
             "de": "Fahren Sie zum Museumsviertel und parken Sie für den Nachmittag.",
             "hu": "Vezessen a múzeumi negyedbe, és parkoljon le délutánra.",
             "ro": "Conduceți în cartierul muzeelor și parcați pentru după-amiază.",
-            "en": "Drive to the museum district and park for the afternoon."
+            "en": "Drive to the museum district and park for the afternoon.",
+            "pl": "Podjedź do dzielnicy muzeów i zaparkuj na popołudnie."
           }
         },
         {
@@ -1035,7 +1109,8 @@
             "de": "Fayence-Museum",
             "hu": "Fajansz Múzeum",
             "ro": "Muzeul de Faianță",
-            "en": "Faience Museum"
+            "en": "Faience Museum",
+            "pl": "Muzeum Fajansu"
           },
           "coords": [
             19.072,
@@ -1051,7 +1126,8 @@
             "de": "Direkt nebenan und ein Muss.",
             "hu": "Közvetlenül a szomszédban, és kihagyhatatlan.",
             "ro": "Chiar alături și o vizită obligatorie.",
-            "en": "Right next door and a must-see."
+            "en": "Right next door and a must-see.",
+            "pl": "Tuż obok i konieczny punkt programu."
           }
         },
         {
@@ -1059,7 +1135,8 @@
             "de": "Weichsel-Staudamm",
             "hu": "Visztula-gát",
             "ro": "Barajul de pe Vistula",
-            "en": "Vistula River Dam"
+            "en": "Vistula River Dam",
+            "pl": "Jaz"
           },
           "coords": [
             19.035,
@@ -1075,7 +1152,8 @@
             "de": "Eine kurze Fahrt zu diesem beeindruckenden Bauwerk.",
             "hu": "Egy rövid autóút ehhez a lenyűgöző építményhez.",
             "ro": "O scurtă călătorie cu mașina până la această structură impresionantă.",
-            "en": "A short drive to this impressive structure."
+            "en": "A short drive to this impressive structure.",
+            "pl": "Krótki dojazd do tej imponującej konstrukcji."
           }
         },
         {
@@ -1083,7 +1161,8 @@
             "de": "Sienkiewicz-Park",
             "hu": "Sienkiewicz Park",
             "ro": "Parcul Sienkiewicz",
-            "en": "Sienkiewicz Park"
+            "en": "Sienkiewicz Park",
+            "pl": "Park Sienkiewicza"
           },
           "coords": [
             19.068,
@@ -1099,7 +1178,8 @@
             "de": "Fahren Sie zum Park für einen entspannten Abschluss des Tages.",
             "hu": "Vezessen a parkba egy pihentető napzáráshoz.",
             "ro": "Conduceți la parc pentru o încheiere relaxantă a zilei.",
-            "en": "Drive to the park for a relaxing end to the day."
+            "en": "Drive to the park for a relaxing end to the day.",
+            "pl": "Podjedź do parku na relaksujące zakończenie dnia."
           }
         }
       ],
@@ -1107,7 +1187,8 @@
         "de": "Mit dem Auto erkunden Sie Leslau effizient in Clustern. Parken Sie morgens in der Altstadt, um den Freiheitsplatz und die historischen Kirchen zu Fuß zu entdecken. Mittags fahren Sie zum Museumsviertel, wo Sie nach dem Mittagessen die kulturellen Schätze der Stadt erkunden. Am späten Nachmittag bringt Sie eine kurze Fahrt zum beeindruckenden Weichsel-Staudamm, bevor Sie den Tag entspannt im Sienkiewicz-Park ausklingen lassen.",
         "hu": "Autóval hatékonyan, klaszterekben fedezheti fel Włocławeket. Reggel parkoljon le az óvárosban, hogy gyalog fedezze fel a Szabadság teret és a történelmi templomokat. Ebédidőben vezessen át a múzeumi negyedbe, ahol ebéd után felfedezheti a város kulturális kincseit. Késő délután egy rövid autóút elviszi a lenyűgöző Visztula-gáthoz, mielőtt a napot pihenéssel zárná a Sienkiewicz Parkban.",
         "ro": "Cu mașina, explorați Włocławek eficient, în clustere. Parcați dimineața în Centrul Vechi pentru a descoperi pe jos Piața Libertății și bisericile istorice. La prânz, conduceți spre cartierul muzeelor, unde după masă puteți explora comorile culturale ale orașului. Spre sfârșitul după-amiezii, o scurtă călătorie cu mașina vă duce la impresionantul baraj de pe Vistula, înainte de a încheia ziua relaxându-vă în Parcul Sienkiewicz.",
-        "en": "With a car, you can explore Włocławek efficiently in clusters. Park in the Old Town in the morning to discover Freedom Square and the historic churches on foot. At noon, drive to the museum district, where you can explore the city's cultural treasures after lunch. In the late afternoon, a short drive takes you to the impressive Vistula River Dam, before you end the day relaxing in Sienkiewicz Park."
+        "en": "With a car, you can explore Włocławek efficiently in clusters. Park in the Old Town in the morning to discover Freedom Square and the historic churches on foot. At noon, drive to the museum district, where you can explore the city's cultural treasures after lunch. In the late afternoon, a short drive takes you to the impressive Vistula River Dam, before you end the day relaxing in Sienkiewicz Park.",
+        "pl": "Samochodem możesz efektywnie zwiedzać Włocławek w klastrach. Zaparkuj rano w Starym Mieście, by pieszo odkryć Plac Wolności i zabytkowe kościoły. W południe podjedź do dzielnicy muzeów, gdzie po obiedzie poznasz miejskie skarby kultury. Pod koniec dnia krótki przejazd zaprowadzi cię do imponującego jazu na Wiśle, po czym odpoczniesz w Parku Sienkiewicza."
       },
       "gastro_picks": {
         "de": [
@@ -1303,6 +1384,12 @@
           "A GPS is essential for navigating between clusters.",
           "Be mindful of speed limits, especially in residential areas.",
           "Do not leave valuables visible in the car."
+        ],
+        "pl": [
+          "Sprawdź z wyprzedzeniem opcje i opłaty parkingowe.",
+          "GPS jest niezbędny do nawigacji między klastrami.",
+          "Uważaj na ograniczenia prędkości, szczególnie w strefach mieszkalnych.",
+          "Nie zostawiaj wartościowych rzeczy na widoku w samochodzie."
         ]
       },
       "variants": {
@@ -1311,7 +1398,8 @@
             "de": "Fahren Sie morgens bequem zur Kathedrale und zum Diözesanmuseum. Nach einem kurzen Sprint über den Kopernikus-Platz erwartet Sie ein warmes Mittagessen. Nachmittags fahren Sie zum Staudamm, wo der Regen eine dramatische Kulisse schafft, und besuchen das Fayence-Museum, bevor Sie einen Blick auf den See werfen.",
             "hu": "Reggel kényelmesen elvezethet a Katedrálishoz és a Múzeumhoz. A Kopernikusz téren való gyors átkelés után meleg ebéd várja az Óvárosban. Délután az esőben drámai arcát mutató gáthoz hajt, majd a Fajansz Múzeumba látogat, végül az autóból veti rá tekintetét a tóra.",
             "ro": "Conduceți dimineața confortabil spre Catedrală și Muzeul Diecezan. După un scurt sprint prin Piața Copernic, vă așteaptă un prânz cald. După-amiaza, conduceți la baraj, unde ploaia creează un peisaj dramatic, apoi vizitați Muzeul Faianței, înainte de o privire asupra lacului.",
-            "en": "Drive comfortably to the Cathedral and Museum in the morning. After a quick dash across Copernicus Square, enjoy a warm lunch. In the afternoon, drive to the Dam for a dramatic rainy landscape, visit the Faience Museum indoors, and end with a quick view of the lake."
+            "en": "Drive comfortably to the Cathedral and Museum in the morning. After a quick dash across Copernicus Square, enjoy a warm lunch. In the afternoon, drive to the Dam for a dramatic rainy landscape, visit the Faience Museum indoors, and end with a quick view of the lake.",
+            "pl": "Jedź komfortowo do Katedry i Muzeum rano. Po szybkim przeskoku przez Plac Kopernika, zjedz rozgrzewający obiad. Po południu podjedź do Jazu, by podziwiać dramatyczny, deszczowy krajobraz, odwiedź Muzeum Fajansu w budynku i zakończ krótkim widokiem na jezioro."
           },
           "stops": [
             {
@@ -1320,7 +1408,8 @@
                 "de": "Parken Sie in der Nähe, um nicht nass zu werden.",
                 "hu": "Parkoljon a közelben, hogy elkerülje az esőt.",
                 "ro": "Parcați în apropiere pentru a nu vă uda.",
-                "en": "Park nearby to avoid getting wet in the rain."
+                "en": "Park nearby to avoid getting wet in the rain.",
+                "pl": "Zaparkuj w pobliżu, by nie zmoknąć w deszczu."
               }
             },
             {
@@ -1329,7 +1418,8 @@
                 "de": "Ein trockenes Erlebnis mit faszinierenden Kunstwerken.",
                 "hu": "Száraz program lenyűgöző egyházi műalkotásokkal.",
                 "ro": "O experiență uscată cu opere de artă fascinante.",
-                "en": "A dry experience with fascinating religious art."
+                "en": "A dry experience with fascinating religious art.",
+                "pl": "Suche doświadczenie z fascynującą sztuką sakralną."
               }
             },
             {
@@ -1338,7 +1428,8 @@
                 "de": "Ein kurzer, regnerischer Fotostopp reicht hier aus.",
                 "hu": "Esőben elég egy gyors fotószünet a téren.",
                 "ro": "O scurtă oprire foto ploioasă este suficientă aici.",
-                "en": "A short, rainy photo stop is enough here."
+                "en": "A short, rainy photo stop is enough here.",
+                "pl": "Krótki, deszczowy postój na zdjęcia wystarczy tutaj."
               }
             },
             {
@@ -1347,7 +1438,8 @@
                 "de": "Restaurants mit eigenen Parkplätzen sind ideal.",
                 "hu": "A saját parkolóval rendelkező éttermek a legjobbak.",
                 "ro": "Restaurantele cu parcare proprie sunt ideale.",
-                "en": "Restaurants with their own parking are ideal."
+                "en": "Restaurants with their own parking are ideal.",
+                "pl": "Restauracje z własnym parkingiem są idealne."
               }
             },
             {
@@ -1356,7 +1448,8 @@
                 "de": "Aus dem Auto bietet sich oft ein sicherer Blick.",
                 "hu": "Az autóból is nagyszerű és biztonságos a kilátás.",
                 "ro": "Din mașină aveți adesea o vedere sigură.",
-                "en": "A safe view can often be enjoyed from the car."
+                "en": "A safe view can often be enjoyed from the car.",
+                "pl": "Bezpieczny widok często można podziwiać z samochodu."
               }
             },
             {
@@ -1365,7 +1458,8 @@
                 "de": "Ein bunter und trockener Nachmittagsausflug.",
                 "hu": "Színes és fedett délutáni programlehetőség.",
                 "ro": "O excursie de după-amiază colorată și uscată.",
-                "en": "A colorful and dry afternoon excursion."
+                "en": "A colorful and dry afternoon excursion.",
+                "pl": "Kolorowe i suche popołudniowe wyjście."
               }
             },
             {
@@ -1374,7 +1468,8 @@
                 "de": "Bewundern Sie die nassen Bäume von den Parkplätzen aus.",
                 "hu": "A vizes fák látványát a parkolóból is élvezheti.",
                 "ro": "Admirați copacii umezi din parcări.",
-                "en": "Admire the wet trees from the parking areas."
+                "en": "Admire the wet trees from the parking areas.",
+                "pl": "Podziwiaj mokre drzewa z miejsc parkingowych."
               }
             },
             {
@@ -1383,7 +1478,8 @@
                 "de": "Der Regen verleiht dem See eine mystische Stimmung.",
                 "hu": "Az eső misztikus hangulatot kölcsönöz a tónak.",
                 "ro": "Ploaia conferă lacului o atmosferă mistică.",
-                "en": "The rain gives the lake a mystical atmosphere."
+                "en": "The rain gives the lake a mystical atmosphere.",
+                "pl": "Deszcz nadaje jezioru mistyczną atmosferę."
               }
             }
           ],
@@ -1411,6 +1507,12 @@
               "Look for covered parking garages near the city center.",
               "A towel in the car is useful for wet clothing.",
               "The museums are perfect indoor alternatives during downpours."
+            ],
+            "pl": [
+              "Jedź bardzo ostrożnie po mostach podczas ulewy.",
+              "Szukaj zadaszonych parkingów w pobliżu centrum.",
+              "Ręcznik w samochodzie przydaje się na mokre ubrania.",
+              "Muzea to idealne alternatywy w pomieszczeniach podczas ulew."
             ]
           }
         },
@@ -1419,7 +1521,8 @@
             "de": "Beginnen Sie den kalten Tag mit einer Fahrt zur Kathedrale. Nach der Besichtigung der warmen Museen und einem herzhaften Mittagessen in der Altstadt, fahren Sie zum winterlichen Staudamm. Besuchen Sie das Fayence-Museum, bevor Sie den zugefrorenen See in der frühen Abenddämmerung bewundern.",
             "hu": "A hideg napot a Katedrális felkeresésével indítja. A fűtött múzeumok és az óvárosi laktató ebéd után a téliesített gáthoz vezet az útja. Látogassa meg a Fajansz Múzeumot, mielőtt a kora esti szürkületben megcsodálná a befagyott tavat.",
             "ro": "Începeți ziua rece cu o plimbare spre Catedrală. După vizitarea muzeelor calde și un prânz consistent în Centrul Vechi, conduceți spre barajul pe timp de iarnă. Vizitați Muzeul Faianței înainte de a admira lacul înghețat în amurgul timpuriu.",
-            "en": "Start the cold day with a drive to the Cathedral. After touring the warm museums and a hearty Old Town lunch, drive out to the wintery dam. Visit the Faience Museum before admiring the frozen lake in the early evening twilight."
+            "en": "Start the cold day with a drive to the Cathedral. After touring the warm museums and a hearty Old Town lunch, drive out to the wintery dam. Visit the Faience Museum before admiring the frozen lake in the early evening twilight.",
+            "pl": "Rozpocznij chłodny dzień przejazdem do Katedry. Po zwiedzaniu ciepłych muzeów i obfitym obiedzie na Starym Mieście podjedź do zimowego jazu. Odwiedź Muzeum Fajansu, zanim podziwisz zamarznięte jezioro w wieczornym półmroku."
           },
           "stops": [
             {
@@ -1428,7 +1531,8 @@
                 "de": "Die Heizung im Auto vorwärmen für die Rückkehr.",
                 "hu": "Fűtse fel az autót, mielőtt visszatér a hidegből.",
                 "ro": "Preîncălziți mașina pentru întoarcere.",
-                "en": "Preheat the car for when you return from the cold."
+                "en": "Preheat the car for when you return from the cold.",
+                "pl": "Podgrzej samochód przed powrotem z mrozu."
               }
             },
             {
@@ -1437,7 +1541,8 @@
                 "de": "Guter Ort, um dem kalten Wind zu entgehen.",
                 "hu": "Remek hely, ahol elmenekülhet a fagyos szél elől.",
                 "ro": "Un loc bun pentru a scăpa de vântul rece.",
-                "en": "Good place to escape the freezing wind."
+                "en": "Good place to escape the freezing wind.",
+                "pl": "Dobre miejsce, by uciec przed przenikliwym wiatrem."
               }
             },
             {
@@ -1446,7 +1551,8 @@
                 "de": "Achten Sie auf vereiste Stellen auf dem Platz.",
                 "hu": "Figyeljen a jeges foltokra a téren.",
                 "ro": "Atenție la zonele înghețate de pe piață.",
-                "en": "Watch out for icy spots on the square."
+                "en": "Watch out for icy spots on the square.",
+                "pl": "Uważaj na oblodzone miejsca na placu."
               }
             },
             {
@@ -1455,7 +1561,8 @@
                 "de": "Wählen Sie ein Restaurant mit warmen Getränken.",
                 "hu": "Válasszon éttermet, ahol forró italokat is kínálnak.",
                 "ro": "Alegeți un restaurant cu băuturi calde.",
-                "en": "Choose a restaurant offering warm drinks."
+                "en": "Choose a restaurant offering warm drinks.",
+                "pl": "Wybierz restaurację oferującą gorące napoje."
               }
             },
             {
@@ -1464,7 +1571,8 @@
                 "de": "Die Straßen zum Staudamm können glatt sein.",
                 "hu": "A gáthoz vezető utak csúszósak lehetnek.",
                 "ro": "Drumurile spre baraj pot fi alunecoase.",
-                "en": "The roads leading to the dam can be slippery."
+                "en": "The roads leading to the dam can be slippery.",
+                "pl": "Drogi prowadzące do jazu mogą być śliskie."
               }
             },
             {
@@ -1473,7 +1581,8 @@
                 "de": "Ein farbenfroher Kontrast zum grauen Winter.",
                 "hu": "Színes kontraszt a szürke téli napokon.",
                 "ro": "Un contrast colorat cu iarna gri.",
-                "en": "A colorful contrast to the gray winter."
+                "en": "A colorful contrast to the gray winter.",
+                "pl": "Kolorowy kontrast wobec szarej zimy."
               }
             },
             {
@@ -1482,7 +1591,8 @@
                 "de": "Der Park wirkt im Schnee besonders friedlich.",
                 "hu": "A park hóban különösen békés arcát mutatja.",
                 "ro": "Parcul pare deosebit de liniștit în zăpadă.",
-                "en": "The park looks especially peaceful in the snow."
+                "en": "The park looks especially peaceful in the snow.",
+                "pl": "Park wygląda szczególnie spokojnie w śniegu."
               }
             },
             {
@@ -1491,7 +1601,8 @@
                 "de": "Genießen Sie den Blick auf das Eis aus dem warmen Auto.",
                 "hu": "Élvezze a jeges tó látványát a meleg autóból.",
                 "ro": "Bucurați-vă de vederea gheții din mașina caldă.",
-                "en": "Enjoy the view of the ice from the warm car."
+                "en": "Enjoy the view of the ice from the warm car.",
+                "pl": "Podziwiaj widok lodu z ciepłego samochodu."
               }
             }
           ],
@@ -1519,6 +1630,12 @@
               "Darkness falls early, so plan the drive to the dam in good time.",
               "Parking lots can be snowy, so park with caution.",
               "Keep a thermos of hot tea in the car for warmth."
+            ],
+            "pl": [
+              "Opony zimowe są niezbędne w tym regionie.",
+              "Zmrok zapada wcześnie, więc zaplanuj dojazd do jazu odpowiednio wcześniej.",
+              "Parkingi mogą być zaśnieżone, parkuj ostrożnie.",
+              "Trzymaj termos z gorącą herbatą w samochodzie dla rozgrzewki."
             ]
           }
         }
@@ -1537,7 +1654,8 @@
             "de": "Distrikt Altstadt: Ankunft",
             "hu": "Óvárosi negyed: Érkezés",
             "ro": "Districtul Centrul Vechi: Sosire",
-            "en": "Old Town District: Arrival"
+            "en": "Old Town District: Arrival",
+            "pl": "Dzielnica Starego Miasta: przyjazd"
           },
           "coords": [
             19.067,
@@ -1553,7 +1671,8 @@
             "de": "Nehmen Sie einen Bus zum Plac Wolności, um Ihre Erkundung zu beginnen.",
             "hu": "Menjen busszal a Plac Wolności-ra a felfedezés megkezdéséhez.",
             "ro": "Luați un autobuz spre Piața Wolności pentru a începe explorarea.",
-            "en": "Take a bus to Plac Wolności to start your exploration."
+            "en": "Take a bus to Plac Wolności to start your exploration.",
+            "pl": "Dojedź autobusem na Plac Wolności, by rozpocząć zwiedzanie."
           }
         },
         {
@@ -1561,7 +1680,8 @@
             "de": "Kathedralbasilika Mariä Himmelfahrt",
             "hu": "Nagyboldogasszony-székesegyház",
             "ro": "Catedrala Adormirea Maicii Domnului",
-            "en": "Cathedral Basilica of the Assumption"
+            "en": "Cathedral Basilica of the Assumption",
+            "pl": "Bazylika Katedralna Wniebowzięcia Najświętszej Maryi Panny"
           },
           "coords": [
             19.064,
@@ -1577,7 +1697,8 @@
             "de": "Nur einen kurzen Spaziergang vom zentralen Platz entfernt.",
             "hu": "Csak egy rövid sétára a központi tértől.",
             "ro": "La doar o scurtă plimbare de piața centrală.",
-            "en": "Just a short walk from the central square."
+            "en": "Just a short walk from the central square.",
+            "pl": "Zaledwie krótki spacer od centralnego placu."
           }
         },
         {
@@ -1585,7 +1706,8 @@
             "de": "Distrikt Museen: Kultur & Mittagessen",
             "hu": "Múzeumi negyed: Kultúra és ebéd",
             "ro": "Districtul Muzeelor: Cultură și prânz",
-            "en": "Museum District: Culture & Lunch"
+            "en": "Museum District: Culture & Lunch",
+            "pl": "Dzielnica Muzeów: kultura i obiad"
           },
           "coords": [
             19.071,
@@ -1601,7 +1723,8 @@
             "de": "Eine kurze Busfahrt bringt Sie zu den wichtigsten Museen der Stadt.",
             "hu": "Egy rövid buszút elviszi a város főbb múzeumaihoz.",
             "ro": "O scurtă călătorie cu autobuzul vă duce la principalele muzee ale orașului.",
-            "en": "A short bus ride will take you to the city's main museums."
+            "en": "A short bus ride will take you to the city's main museums.",
+            "pl": "Krótka przejażdżka autobusem zabierze cię do głównych miejskich muzeów."
           }
         },
         {
@@ -1609,7 +1732,8 @@
             "de": "Fayence-Museum",
             "hu": "Fajansz Múzeum",
             "ro": "Muzeul de Faianță",
-            "en": "Faience Museum"
+            "en": "Faience Museum",
+            "pl": "Muzeum Fajansu"
           },
           "coords": [
             19.072,
@@ -1625,7 +1749,8 @@
             "de": "Gehen Sie zu Fuß vom Regionalmuseum aus.",
             "hu": "Sétáljon át a regionális múzeumból.",
             "ro": "Mergeți pe jos de la muzeul regional.",
-            "en": "Walk over from the regional museum."
+            "en": "Walk over from the regional museum.",
+            "pl": "Przejdź pieszo z muzeum regionalnego."
           }
         },
         {
@@ -1633,7 +1758,8 @@
             "de": "Weichsel-Staudamm",
             "hu": "Visztula-gát",
             "ro": "Barajul de pe Vistula",
-            "en": "Vistula River Dam"
+            "en": "Vistula River Dam",
+            "pl": "Zapora na Wiśle"
           },
           "coords": [
             19.035,
@@ -1649,7 +1775,8 @@
             "de": "Nehmen Sie einen Bus in Richtung Westen, um dieses technische Wunderwerk zu sehen.",
             "hu": "Menjen busszal nyugat felé, hogy megnézze ezt a mérnöki csodát.",
             "ro": "Luați un autobuz spre vest pentru a vedea această minune inginerească.",
-            "en": "Take a westbound bus to see this engineering marvel."
+            "en": "Take a westbound bus to see this engineering marvel.",
+            "pl": "Wsiądź do autobusu w kierunku zachodnim, by zobaczyć to inżynieryjne dzieło."
           }
         },
         {
@@ -1657,7 +1784,8 @@
             "de": "Sienkiewicz-Park",
             "hu": "Sienkiewicz Park",
             "ro": "Parcul Sienkiewicz",
-            "en": "Sienkiewicz Park"
+            "en": "Sienkiewicz Park",
+            "pl": "Park Sienkiewicza"
           },
           "coords": [
             19.068,
@@ -1673,7 +1801,8 @@
             "de": "Ein letzter Bus bringt Sie zurück ins Zentrum für einen entspannten Spaziergang.",
             "hu": "Egy utolsó busz visszaviszi a központba egy pihentető sétára.",
             "ro": "Un ultim autobuz vă va duce înapoi în centru pentru o plimbare relaxantă.",
-            "en": "A final bus will take you back towards the center for a relaxing walk."
+            "en": "A final bus will take you back towards the center for a relaxing walk.",
+            "pl": "Ostatni autobus zawiezie cię z powrotem w stronę centrum na relaksujący spacer."
           }
         }
       ],
@@ -1681,7 +1810,8 @@
         "de": "Erkunden Sie Leslau bequem mit öffentlichen Verkehrsmitteln. Beginnen Sie in der historischen Altstadt und entdecken Sie die Kirchen zu Fuß. Eine kurze Busfahrt bringt Sie zum Museumsviertel für ein Mittagessen und eine Dosis Kultur. Am Nachmittag fahren Sie mit dem Bus zum beeindruckenden Weichsel-Staudamm. Schließlich kehren Sie ins Zentrum zurück, um den Tag im friedlichen Sienkiewicz-Park ausklingen zu lassen.",
         "hu": "Fedezze fel Włocławeket kényelmesen a tömegközlekedéssel. Kezdje a történelmi óvárosban, és fedezze fel gyalog a templomokat. Egy rövid buszút elviszi a múzeumi negyedbe egy ebédre és egy adag kultúrára. Délután busszal utazzon a lenyűgöző Visztula-gáthoz. Végül térjen vissza a központba, hogy a napot a békés Sienkiewicz Parkban zárja.",
         "ro": "Explorați Włocławek convenabil cu transportul public. Începeți în centrul istoric și descoperiți bisericile pe jos. O scurtă călătorie cu autobuzul vă va duce în cartierul muzeelor pentru prânz și o doză de cultură. După-amiaza, luați un autobuz spre impresionantul baraj de pe Vistula. În cele din urmă, întoarceți-vă în centru pentru a încheia ziua în liniștitul Parc Sienkiewicz.",
-        "en": "Explore Włocławek conveniently using public transport. Start in the historic Old Town, discovering the churches on foot. A short bus ride takes you to the museum district for lunch and a dose of culture. In the afternoon, take a bus to the impressive Vistula River Dam. Finally, return to the center to wind down your day in the peaceful Sienkiewicz Park."
+        "en": "Explore Włocławek conveniently using public transport. Start in the historic Old Town, discovering the churches on foot. A short bus ride takes you to the museum district for lunch and a dose of culture. In the afternoon, take a bus to the impressive Vistula River Dam. Finally, return to the center to wind down your day in the peaceful Sienkiewicz Park.",
+        "pl": "Zwiedzaj Włocławek wygodnie komunikacją publiczną. Zacznij w zabytkowym Starym Mieście, odkrywając kościoły pieszo. Krótka przejażdżka autobusem zabierze cię do dzielnicy muzealnej na lunch i dawkę kultury. Po południu pojedź autobusem do imponującej Zapory na Wiśle. Na koniec wróć do centrum, by wyciszyć dzień w spokojnym Parku Sienkiewicza."
       },
       "gastro_picks": {
         "de": [
@@ -1877,6 +2007,12 @@
           "Download a public transport app for real-time schedules.",
           "Keep small change handy for tickets if buying from the driver.",
           "Validate your ticket upon boarding to avoid a fine."
+        ],
+        "pl": [
+          "Kup bilet całodniowy na nielimitowane przejazdy.",
+          "Pobierz aplikację komunikacji publicznej, by mieć rozkłady w czasie rzeczywistym.",
+          "Miej drobne przy sobie na bilety, jeśli kupujesz je u kierowcy.",
+          "Skasuj bilet przy wsiadaniu, żeby uniknąć mandatu."
         ]
       }
     }

@@ -21,7 +21,8 @@
             "de": "Marktplatz",
             "hu": "Piactér",
             "ro": "Piața Centrală",
-            "en": "Market Square"
+            "en": "Market Square",
+            "pl": "Rynek"
           },
           "coords": [
             22.0041,
@@ -37,7 +38,8 @@
             "de": "Starten Sie den Tag mit einem Kaffee in einem der vielen Cafés rund um den Platz.",
             "hu": "Kezdje a napot egy kávéval a tér körüli számos kávézó egyikében!",
             "ro": "Începeți ziua cu o cafea la una dintre multele cafenele din jurul pieței.",
-            "en": "Start your day with a coffee at one of the many cafes surrounding the square."
+            "en": "Start your day with a coffee at one of the many cafes surrounding the square.",
+            "pl": "Zacznij dzień od kawy w jednej z licznych kawiarni otaczających rynek."
           }
         },
         {
@@ -45,7 +47,8 @@
             "de": "Rathaus",
             "hu": "Városháza",
             "ro": "Primăria",
-            "en": "Town Hall"
+            "en": "Town Hall",
+            "pl": "Ratusz"
           },
           "coords": [
             22.0038,
@@ -61,7 +64,8 @@
             "de": "Bewundern Sie die Architektur und halten Sie nach dem Trompeter Ausschau, der stündlich spielt.",
             "hu": "Csodálja meg az építészetet, és figyelje a trombitást, aki minden órában játszik!",
             "ro": "Admirați arhitectura și fiți atenți la trompetistul care cântă la fiecare oră.",
-            "en": "Admire the architecture and look out for the trumpeter who plays every hour."
+            "en": "Admire the architecture and look out for the trumpeter who plays every hour.",
+            "pl": "Podziwiaj architekturę i posłuchaj trębacza, który gra co godzinę."
           }
         },
         {
@@ -69,7 +73,8 @@
             "de": "Unterirdische Touristenroute",
             "hu": "Földalatti Turistaútvonal",
             "ro": "Traseul Turistic Subteran",
-            "en": "Underground Tourist Route"
+            "en": "Underground Tourist Route",
+            "pl": "Trasa Turystyczna Podziemna"
           },
           "coords": [
             22.0045,
@@ -85,7 +90,8 @@
             "de": "Tragen Sie bequeme Schuhe; die Gänge können uneben sein.",
             "hu": "Viseljen kényelmes cipőt, a járatok egyenetlenek lehetnek!",
             "ro": "Purtați încălțăminte confortabilă; coridoarele pot fi denivelate.",
-            "en": "Wear comfortable shoes; the passages can be uneven."
+            "en": "Wear comfortable shoes; the passages can be uneven.",
+            "pl": "Noś wygodne buty; przejścia mogą być nierówne."
           }
         },
         {
@@ -93,7 +99,8 @@
             "de": "Pfarrkirche St. Stanislaus",
             "hu": "Szt. Stanislaus plébániatemplom",
             "ro": "Biserica parohială Sf. Stanislaus",
-            "en": "Parish Church of St. Stanislaus"
+            "en": "Parish Church of St. Stanislaus",
+            "pl": "Kościół Parafialny św. Stanisława"
           },
           "coords": [
             22.008,
@@ -109,7 +116,8 @@
             "de": "Besuchen Sie das Innere, um die beeindruckenden Barockaltäre zu sehen.",
             "hu": "Nézze meg a belsejét, hogy megcsodálhassa a lenyűgöző barokk oltárokat!",
             "ro": "Vizitați interiorul pentru a vedea altarele baroce impresionante.",
-            "en": "Visit the interior to see the impressive baroque altars."
+            "en": "Visit the interior to see the impressive baroque altars.",
+            "pl": "Odwiedź wnętrze, by zobaczyć imponujące barokowe ołtarze."
           }
         },
         {
@@ -117,7 +125,8 @@
             "de": "Schloss Rzeszów",
             "hu": "Rzeszówi vár",
             "ro": "Castelul Rzeszów",
-            "en": "Rzeszów Castle"
+            "en": "Rzeszów Castle",
+            "pl": "Zamek Rzeszów"
           },
           "coords": [
             22.005,
@@ -133,7 +142,8 @@
             "de": "Das Schloss beherbergt heute ein Gericht, aber der Innenhof ist oft zugänglich.",
             "hu": "A kastély ma bíróságnak ad otthont, de az udvara gyakran látogatható.",
             "ro": "Castelul găzduiește acum o instanță, dar curtea este adesea accesibilă.",
-            "en": "The castle now houses a court, but its courtyard is often accessible."
+            "en": "The castle now houses a court, but its courtyard is often accessible.",
+            "pl": "Zamek mieści obecnie sąd, ale jego dziedziniec bywa dostępny."
           }
         },
         {
@@ -141,7 +151,8 @@
             "de": "Sommerpalast der Lubomirskis",
             "hu": "Lubomirski Nyári Palota",
             "ro": "Palatul de vară Lubomirski",
-            "en": "Lubomirski Summer Palace"
+            "en": "Lubomirski Summer Palace",
+            "pl": "Letni pałac Lubomirskich"
           },
           "coords": [
             22.006,
@@ -157,7 +168,8 @@
             "de": "Ein schöner Ort für einen kurzen Spaziergang im umliegenden Park.",
             "hu": "Szép hely egy rövid sétára a környező parkban.",
             "ro": "Un loc frumos pentru o scurtă plimbare în parcul înconjurător.",
-            "en": "A beautiful spot for a short walk in the surrounding park."
+            "en": "A beautiful spot for a short walk in the surrounding park.",
+            "pl": "Piękne miejsce na krótki spacer po otaczającym parku."
           }
         },
         {
@@ -165,7 +177,8 @@
             "de": "Denkmal der Revolutionären Tat",
             "hu": "A Forradalmi Tett Emlékműve",
             "ro": "Monumentul Faptei Revoluționare",
-            "en": "Monument to the Revolutionary Act"
+            "en": "Monument to the Revolutionary Act",
+            "pl": "Pomnik Czynu Rewolucyjnego"
           },
           "coords": [
             21.9995,
@@ -181,7 +194,8 @@
             "de": "Ein kontroverses, aber ikonisches Wahrzeichen der Stadt aus der kommunistischen Ära.",
             "hu": "A város egy ellentmondásos, de ikonikus, kommunista korszakbeli jelképe.",
             "ro": "Un reper controversat, dar iconic, al orașului din epoca comunistă.",
-            "en": "A controversial but iconic city landmark from the communist era."
+            "en": "A controversial but iconic city landmark from the communist era.",
+            "pl": "Kontrowersyjny, lecz ikoniczny miejski punkt z epoki komunizmu."
           }
         },
         {
@@ -189,7 +203,8 @@
             "de": "Wanda-Siemaszkowa-Theater",
             "hu": "Wanda Siemaszkowa Színház",
             "ro": "Teatrul Wanda Siemaszkowa",
-            "en": "Wanda Siemaszkowa Theatre"
+            "en": "Wanda Siemaszkowa Theatre",
+            "pl": "Teatr im. Wandy Siemaszkowej"
           },
           "coords": [
             22.0001,
@@ -205,7 +220,8 @@
             "de": "Überprüfen Sie den Spielplan, vielleicht läuft eine interessante Vorstellung.",
             "hu": "Ellenőrizze a műsort, talán éppen egy érdekes előadás megy.",
             "ro": "Verificați programul, s-ar putea să ruleze un spectacol interesant.",
-            "en": "Check the schedule, you might catch an interesting performance."
+            "en": "Check the schedule, you might catch an interesting performance.",
+            "pl": "Sprawdź repertuar — możesz trafić na ciekawy spektakl."
           }
         }
       ],
@@ -213,7 +229,8 @@
         "de": "Ihr Tag in Rzeszów beginnt auf dem belebten Marktplatz, dem Herzen der Altstadt. Am Vormittag tauchen Sie in die Geschichte ein, indem Sie die geheimnisvollen Gänge der Unterirdischen Route erkunden. Gegen Mittag führt Sie Ihr Weg zum Schloss Rzeszów und dem benachbarten Sommerpalast, Zeugen der aristokratischen Vergangenheit der Stadt. Der Nachmittag ist moderneren, aber ebenso bedeutenden Wahrzeichen gewidmet, wie dem Denkmal der Revolutionären Tat. Der Abend klingt perfekt bei einem herzhaften polnischen Abendessen aus, bei dem Sie die lokalen Pierogi probieren.",
         "hu": "Rzeszówi napja a nyüzsgő Piactéren, az óváros szívében kezdődik. Délelőtt a Földalatti Útvonal titokzatos folyosóinak felfedezésével merül el a történelemben. Dél körül útja a Rzeszówi várhoz és a szomszédos nyári palotához vezet, a város arisztokrata múltjának tanúihoz. A délután modernebb, de nem kevésbé jelentős látnivalóknak van szentelve, mint például a Forradalmi Tett Emlékműve. Az este tökéletesen zárul egy kiadós lengyel vacsorával, ahol megkóstolhatja a helyi pierogit.",
         "ro": "Ziua dvs. în Rzeszów începe în Piața plină de viață, inima orașului vechi. Dimineața vă scufundați în istorie explorând coridoarele misterioase ale Traseului Subteran. În jurul prânzului, drumul vă duce la Castelul Rzeszów și la palatul de vară adiacent, martori ai trecutului aristocratic al orașului. După-amiaza este dedicată unor repere mai moderne, dar la fel de semnificative, precum Monumentul Faptei Revoluționare. Seara se încheie perfect cu o cină poloneză copioasă, degustând pierogi locali.",
-        "en": "Your day in Rzeszów begins in the bustling Market Square, the heart of the old town. In the morning, you'll dive into history by exploring the mysterious corridors of the Underground Route. Around noon, your path leads you to Rzeszów Castle and the adjacent summer palace, witnesses to the city's aristocratic past. The afternoon is dedicated to more modern but equally significant landmarks, such as the Monument to the Revolutionary Act. The evening concludes perfectly with a hearty Polish dinner, sampling the local pierogi."
+        "en": "Your day in Rzeszów begins in the bustling Market Square, the heart of the old town. In the morning, you'll dive into history by exploring the mysterious corridors of the Underground Route. Around noon, your path leads you to Rzeszów Castle and the adjacent summer palace, witnesses to the city's aristocratic past. The afternoon is dedicated to more modern but equally significant landmarks, such as the Monument to the Revolutionary Act. The evening concludes perfectly with a hearty Polish dinner, sampling the local pierogi.",
+        "pl": "Twój dzień w Rzeszowie zaczyna się na tętniącym życiem Rynku, sercu starówki. Rano zanurzysz się w historię, eksplorując tajemnicze korytarze Trasy Podziemnej. W południe odwiedzisz Zamek w Rzeszowie i przyległy letni pałac, świadków arystokratycznej przeszłości miasta. Popołudnie poświęcone jest bardziej współczesnym, lecz równie ważnym miejscom, takim jak Pomnik Czynu Rewolucyjnego. Wieczór idealnie zamyka obfita polska kolacja z lokalnymi pierogami."
       },
       "gastro_picks": {
         "de": [
@@ -409,6 +426,12 @@
           "Wear comfortable shoes as some streets are cobblestoned.",
           "Many restaurants offer affordable 'Zestaw Obiadowy' (lunch sets) at noon.",
           "Look out for the many small sculptures scattered throughout the city."
+        ],
+        "pl": [
+          "Stare miasto jest zwarte i najlepiej zwiedzać je pieszo.",
+          "Noś wygodne buty, bo niektóre ulice są brukowane.",
+          "Wiele restauracji oferuje w południe przystępne cenowo 'Zestawy Obiadowe'.",
+          "Uważaj na liczne drobne rzeźby rozsiane po mieście."
         ]
       },
       "variants": {
@@ -417,7 +440,8 @@
             "de": "Morgen: Der Marktplatz glänzt im Regen; die Arkaden des Rathauses bieten ersten Schutz. Mittag: Die unterirdische Tour ist die perfekte Flucht ins Trockene, während es draußen gießt. Nachmittag: Ein kurzer, nasser Spaziergang zum Schloss, gefolgt vom Sommerpalais. Abend: Gemütlicher Ausklang nahe dem Theater, wo die Lichter der Stadt in den Pfützen tanzen.",
             "hu": "Reggel: A főtér macskakövei csillognak az esőben, a Városháza árkádjai alatt kezdjük a napot. Délben: A föld alatti túra tökéletes menedék, itt garantáltan száraz marad mindenki. Délután: Gyors séta az esernyők alatt a várig és a Monumentumig. Este: A színház környéki meleg kávézókban pihenünk meg, figyelve az ablakon kopogó esőt.",
             "ro": "Dimineața: Piața Centrală strălucește sub ploaie; arcadele primăriei oferă un prim adăpost. La prânz: Traseul subteran este evadarea perfectă la uscat în timp ce afară plouă torențial. După-amiaza: O scurtă plimbare umedă spre Castel și Palatul de vară. Seara: Un final confortabil lângă teatru, unde luminile orașului dansează în bălți.",
-            "en": "Morning: The Market Square glistens in the rain; the Town Hall's arches provide early shelter. Midday: The Underground Route is the perfect dry escape while it pours outside. Afternoon: A brisk, wet walk to the Castle followed by the Summer Palace. Evening: A cozy conclusion near the theatre, watching the city lights reflect in the puddles."
+            "en": "Morning: The Market Square glistens in the rain; the Town Hall's arches provide early shelter. Midday: The Underground Route is the perfect dry escape while it pours outside. Afternoon: A brisk, wet walk to the Castle followed by the Summer Palace. Evening: A cozy conclusion near the theatre, watching the city lights reflect in the puddles.",
+            "pl": "Rano: Rynek lśni w deszczu; arkady ratusza zapewniają wczesne schronienie. W południe: Trasa Podziemna to idealna sucha ucieczka, gdy leje. Popołudnie: Żwawy, mokry spacer do Zamku, a potem do Pałacu Letniego. Wieczór: Przytulne zakończenie w pobliżu teatru, gdy miejskie światła odbijają się w kałużach."
           },
           "stops": [
             {
@@ -426,7 +450,8 @@
                 "de": "Nutzen Sie die Arkaden.",
                 "hu": "Használja az árkádokat.",
                 "ro": "Folosiți arcadele.",
-                "en": "Use the arcades for shelter."
+                "en": "Use the arcades for shelter.",
+                "pl": "Korzystaj z arkad jako schronienia."
               }
             },
             {
@@ -435,7 +460,8 @@
                 "de": "Kaffee im Keller genießen.",
                 "hu": "Kávézzon a pincében.",
                 "ro": "Savurați o cafea la subsol.",
-                "en": "Enjoy coffee in the cellar."
+                "en": "Enjoy coffee in the cellar.",
+                "pl": "Rozkoszuj się kawą w piwnicy."
               }
             },
             {
@@ -444,7 +470,8 @@
                 "de": "Bestes Regenversteck.",
                 "hu": "Legjobb búvóhely esőben.",
                 "ro": "Cel mai bun adăpost.",
-                "en": "Best rainy day hideout."
+                "en": "Best rainy day hideout.",
+                "pl": "Najlepsze kryjówka na deszczowy dzień."
               }
             },
             {
@@ -453,7 +480,8 @@
                 "de": "Kurze Pause im Trockenen.",
                 "hu": "Rövid száraz pihenő.",
                 "ro": "Scurtă pauză la uscat.",
-                "en": "Brief dry break inside."
+                "en": "Brief dry break inside.",
+                "pl": "Krótka sucha przerwa w środku."
               }
             },
             {
@@ -462,7 +490,8 @@
                 "de": "Vorsicht, rutschige Wege.",
                 "hu": "Vigyázat, csúszós utak.",
                 "ro": "Atenție la potecile ude.",
-                "en": "Careful, slippery paths."
+                "en": "Careful, slippery paths.",
+                "pl": "Uwaga, śliskie ścieżki."
               }
             },
             {
@@ -471,7 +500,8 @@
                 "de": "Blick von den Bäumen.",
                 "hu": "Kilátás a fák alól.",
                 "ro": "Vedere de sub copaci.",
-                "en": "View from under the trees."
+                "en": "View from under the trees.",
+                "pl": "Widok spod drzew."
               }
             },
             {
@@ -480,7 +510,8 @@
                 "de": "Schnelles Foto im Regen.",
                 "hu": "Gyors fotó az esőben.",
                 "ro": "Poză rapidă prin ploaie.",
-                "en": "Quick photo in the rain."
+                "en": "Quick photo in the rain.",
+                "pl": "Szybkie zdjęcie w deszczu."
               }
             },
             {
@@ -489,7 +520,8 @@
                 "de": "Säulengang nutzen.",
                 "hu": "Használja az oszlopsort.",
                 "ro": "Folosiți porticul.",
-                "en": "Utilize the portico."
+                "en": "Utilize the portico.",
+                "pl": "Skorzystaj z podcieni."
               }
             }
           ],
@@ -521,6 +553,13 @@
               "Use the cafes around Rynek as strategic dry stops.",
               "A sturdy umbrella is essential near the windy castle area.",
               "The Town Hall arcades are perfect for rain-free photos."
+            ],
+            "pl": [
+              "Noś wodoodporne buty na brukowane ulice.",
+              "Trasa Podziemna trzyma sucho przez 100 minut.",
+              "Wykorzystaj kawiarnie wokół Rynku jako strategiczne suche przystanki.",
+              "Solidny parasol jest niezbędny w wietrznej okolicy zamku.",
+              "Arkady Ratusza są idealne na zdjęcia bez deszczu."
             ]
           }
         },
@@ -529,7 +568,8 @@
             "de": "Morgen: Frostiger Start am Marktplatz, wo der Duft von heißem Tee in der Luft liegt. Mittag: Die Untergrundroute ist mit konstanten 12 Grad angenehm warm im Vergleich zum Frost draußen. Nachmittag: Das Schloss wirkt im Winterlicht majestätisch, während die Dämmerung früh einsetzt. Abend: Ein warmer Platz im Theaterviertel beendet den kalten Tag.",
             "hu": "Reggel: Dermesztő kezdés a főtéren, a forró tea gőze száll a hideg levegőben. Délben: A föld alatti folyosók 12 fokos állandó hőmérséklete felüdülés a kinti fagy után. Délután: A vár és a palota méltóságteljes a téli fényekben, a nap korán nyugszik. Este: A színház melletti meleg étteremben engedünk fel a nap végén.",
             "ro": "Dimineața: Start geros în Piața Centrală, unde aburul ceaiului cald plutește în aer. La prânz: Traseul subteran, cu cele 12 grade constante, este cald față de gerul de afară. După-amiaza: Castelul pare maiestuos în lumina iernii, în timp ce amurgul vine devreme. Seara: Un loc călduros lângă teatru încheie ziua friguroasă.",
-            "en": "Morning: A frosty start at the Market Square, with the scent of hot tea in the crisp air. Midday: The Underground Route's constant 12 degrees feels warm compared to the freeze outside. Afternoon: The Castle looks majestic in winter light as dusk arrives early. Evening: Finding a warm spot in the theatre district to thaw out after a cold day."
+            "en": "Morning: A frosty start at the Market Square, with the scent of hot tea in the crisp air. Midday: The Underground Route's constant 12 degrees feels warm compared to the freeze outside. Afternoon: The Castle looks majestic in winter light as dusk arrives early. Evening: Finding a warm spot in the theatre district to thaw out after a cold day.",
+            "pl": "Poranek: Mroźny początek na Rynku, z zapachem gorącej herbaty w rześkim powietrzu. Południe: Stałe 12°C w Trasie Podziemnej wydaje się ciepłe w porównaniu z mrozem na zewnątrz. Popołudnie: Zamek prezentuje się majestatycznie w zimowym świetle, gdy zmrok nadchodzi wcześnie. Wieczór: Szukanie ciepłego miejsca w dzielnicy teatralnej, by się ogrzać po zimnym dniu."
           },
           "stops": [
             {
@@ -538,7 +578,8 @@
                 "de": "Heißgetränk kaufen.",
                 "hu": "Vegyél forró italt.",
                 "ro": "Luați o băutură caldă.",
-                "en": "Buy a hot drink here."
+                "en": "Buy a hot drink here.",
+                "pl": "Kup tu gorący napój."
               }
             },
             {
@@ -547,7 +588,8 @@
                 "de": "Innenarchitektur bewundern.",
                 "hu": "Csodáld meg belülről.",
                 "ro": "Admirați interiorul.",
-                "en": "Admire the interior."
+                "en": "Admire the interior.",
+                "pl": "Podziwiaj wnętrze."
               }
             },
             {
@@ -556,7 +598,8 @@
                 "de": "Aufwärmen bei 12 Grad.",
                 "hu": "Melegedj fel (12 fok).",
                 "ro": "Încălziți-vă la 12 grade.",
-                "en": "Warm up at 12°C inside."
+                "en": "Warm up at 12°C inside.",
+                "pl": "Rozgrzej się przy 12°C wewnątrz."
               }
             },
             {
@@ -565,7 +608,8 @@
                 "de": "Stille und Wärme.",
                 "hu": "Csend és melegség.",
                 "ro": "Liniște și căldură.",
-                "en": "Quiet and warmth."
+                "en": "Quiet and warmth.",
+                "pl": "Spokój i ciepło."
               }
             },
             {
@@ -574,7 +618,8 @@
                 "de": "Früher Sonnenuntergang.",
                 "hu": "Korai naplemente.",
                 "ro": "Apus de soare timpuriu.",
-                "en": "Early sunset views."
+                "en": "Early sunset views.",
+                "pl": "Wczesne widoki zachodu słońca."
               }
             },
             {
@@ -583,7 +628,8 @@
                 "de": "Schnee auf den Statuen.",
                 "hu": "Hó a szobrokon.",
                 "ro": "Zăpadă pe statui.",
-                "en": "Snow on the statues."
+                "en": "Snow on the statues.",
+                "pl": "Śnieg na rzeźbach."
               }
             },
             {
@@ -592,7 +638,8 @@
                 "de": "Windig, Mütze auf!",
                 "hu": "Szeles, sapka kell!",
                 "ro": "Vânt rece, puneți căciula.",
-                "en": "Windy, wear a hat!"
+                "en": "Windy, wear a hat!",
+                "pl": "Wietrznie, załóż czapkę!"
               }
             },
             {
@@ -601,7 +648,8 @@
                 "de": "Warmer Ausklang.",
                 "hu": "Meleg befejezés.",
                 "ro": "Final călduros.",
-                "en": "Warm indoor ending."
+                "en": "Warm indoor ending.",
+                "pl": "Ciepłe zakończenie wewnątrz."
               }
             }
           ],
@@ -633,6 +681,13 @@
               "Sunset occurs as early as 4:00 PM in December.",
               "Look for 'Grzaniec' (mulled wine) at the Market Square.",
               "Gloves are essential for taking photos at the Castle."
+            ],
+            "pl": [
+              "Ubierz się na cebulkę; wiatr przy Pomniku jest przenikliwy.",
+              "Trasa Podziemna jest cieplejsza niż powierzchnia zimą.",
+              "Zachód słońca może wystąpić już o 16:00 w grudniu.",
+              "Szukaj „Grzańca” na Rynku.",
+              "Rękawiczki są niezbędne do robienia zdjęć przy Zamku."
             ]
           }
         }
@@ -651,7 +706,8 @@
             "de": "Marktplatz",
             "hu": "Piactér",
             "ro": "Piața Centrală",
-            "en": "Market Square"
+            "en": "Market Square",
+            "pl": "Rynek"
           },
           "coords": [
             22.0041,
@@ -667,7 +723,8 @@
             "de": "Schließen Sie Ihr Fahrrad sicher ab, bevor Sie den Platz erkunden.",
             "hu": "Zárja le biztonságosan a kerékpárját, mielőtt felfedezné a teret!",
             "ro": "Asigurați-vă bicicleta înainte de a explora piața.",
-            "en": "Lock your bike securely before exploring the square."
+            "en": "Lock your bike securely before exploring the square.",
+            "pl": "Zabezpiecz rower przed eksploracją rynku."
           }
         },
         {
@@ -675,7 +732,8 @@
             "de": "Rathaus",
             "hu": "Városháza",
             "ro": "Primăria",
-            "en": "Town Hall"
+            "en": "Town Hall",
+            "pl": "Ratusz"
           },
           "coords": [
             22.0038,
@@ -691,7 +749,8 @@
             "de": "Ein schneller Fotostopp, das Gebäude ist vom Platz aus perfekt sichtbar.",
             "hu": "Egy gyors fotómegálló, az épület tökéletesen látható a térről.",
             "ro": "O oprire rapidă pentru fotografii, clădirea este perfect vizibilă din piață.",
-            "en": "A quick photo stop, the building is perfectly visible from the square."
+            "en": "A quick photo stop, the building is perfectly visible from the square.",
+            "pl": "Szybki postój na zdjęcie, budynek jest doskonale widoczny z rynku."
           }
         },
         {
@@ -699,7 +758,8 @@
             "de": "Unterirdische Touristenroute",
             "hu": "Földalatti Turistaútvonal",
             "ro": "Traseul Turistic Subteran",
-            "en": "Underground Tourist Route"
+            "en": "Underground Tourist Route",
+            "pl": "Trasa Turystyczna Podziemna"
           },
           "coords": [
             22.0045,
@@ -715,7 +775,8 @@
             "de": "Sie müssen Ihr Fahrrad draußen lassen, aber es ist eine Reise in die Vergangenheit wert.",
             "hu": "A kerékpárt kint kell hagynia, de megéri az utazást a múltba.",
             "ro": "Va trebui să lăsați bicicleta afară, dar merită călătoria în trecut.",
-            "en": "You'll have to leave your bike outside, but it's worth the trip back in time."
+            "en": "You'll have to leave your bike outside, but it's worth the trip back in time.",
+            "pl": "Będziesz musiał zostawić rower na zewnątrz, ale wyprawa w czasie jest tego warta."
           }
         },
         {
@@ -723,7 +784,8 @@
             "de": "Wanda-Siemaszkowa-Theater",
             "hu": "Wanda Siemaszkowa Színház",
             "ro": "Teatrul Wanda Siemaszkowa",
-            "en": "Wanda Siemaszkowa Theatre"
+            "en": "Wanda Siemaszkowa Theatre",
+            "pl": "Teatr im. Wandy Siemaszkowej"
           },
           "coords": [
             22.0001,
@@ -739,7 +801,8 @@
             "de": "Das beeindruckende Gebäude liegt auf dem Weg zum Denkmal.",
             "hu": "Az impozáns épület az emlékmű felé vezető úton található.",
             "ro": "Clădirea impresionantă se află în drum spre monument.",
-            "en": "The impressive building is on the way to the monument."
+            "en": "The impressive building is on the way to the monument.",
+            "pl": "Imponujący budynek po drodze do pomnika."
           }
         },
         {
@@ -747,7 +810,8 @@
             "de": "Denkmal der Revolutionären Tat",
             "hu": "A Forradalmi Tett Emlékműve",
             "ro": "Monumentul Faptei Revoluționare",
-            "en": "Monument to the Revolutionary Act"
+            "en": "Monument to the Revolutionary Act",
+            "pl": "Pomnik Czynu Rewolucyjnego"
           },
           "coords": [
             21.9995,
@@ -763,7 +827,8 @@
             "de": "Ein Muss für Fotografen und Geschichtsinteressierte der Moderne.",
             "hu": "Kötelező darab fotósoknak és a modern történelem iránt érdeklődőknek.",
             "ro": "O vizită obligatorie pentru fotografi și pasionații de istorie modernă.",
-            "en": "A must-see for photographers and modern history enthusiasts."
+            "en": "A must-see for photographers and modern history enthusiasts.",
+            "pl": "Miejsce obowiązkowe dla fotografów i miłośników historii nowożytnej."
           }
         },
         {
@@ -771,7 +836,8 @@
             "de": "Schloss Rzeszów",
             "hu": "Rzeszówi vár",
             "ro": "Castelul Rzeszów",
-            "en": "Rzeszów Castle"
+            "en": "Rzeszów Castle",
+            "pl": "Zamek w Rzeszowie"
           },
           "coords": [
             22.005,
@@ -787,7 +853,8 @@
             "de": "Machen Sie eine Pause im Park rund um das Schloss.",
             "hu": "Tartson egy szünetet a kastély körüli parkban!",
             "ro": "Luați o pauză în parcul din jurul castelului.",
-            "en": "Take a break in the park surrounding the castle."
+            "en": "Take a break in the park surrounding the castle.",
+            "pl": "Zrób przerwę w parku otaczającym zamek."
           }
         },
         {
@@ -795,7 +862,8 @@
             "de": "Sommerpalast der Lubomirskis",
             "hu": "Lubomirski Nyári Palota",
             "ro": "Palatul de vară Lubomirski",
-            "en": "Lubomirski Summer Palace"
+            "en": "Lubomirski Summer Palace",
+            "pl": "Letni Pałac Lubomirskich"
           },
           "coords": [
             22.006,
@@ -811,7 +879,8 @@
             "de": "Ein eleganter Anblick, direkt neben dem Schloss gelegen.",
             "hu": "Elegáns látvány, közvetlenül a kastély mellett található.",
             "ro": "O priveliște elegantă, situată chiar lângă castel.",
-            "en": "An elegant sight, located right next to the castle."
+            "en": "An elegant sight, located right next to the castle.",
+            "pl": "Elegancki widok, tuż obok zamku."
           }
         },
         {
@@ -819,7 +888,8 @@
             "de": "Pfarrkirche St. Stanislaus",
             "hu": "Szt. Stanislaus plébániatemplom",
             "ro": "Biserica parohială Sf. Stanislaus",
-            "en": "Parish Church of St. Stanislaus"
+            "en": "Parish Church of St. Stanislaus",
+            "pl": "Kościół parafialny św. Stanisława"
           },
           "coords": [
             22.008,
@@ -835,7 +905,8 @@
             "de": "Der letzte Halt des Tages, bevor Sie für ein spätes Mittagessen in die Altstadt zurückkehren.",
             "hu": "A nap utolsó állomása, mielőtt visszatérne az óvárosba egy késői ebédre.",
             "ro": "Ultima oprire a zilei înainte de a vă întoarce în orașul vechi pentru un prânz târziu.",
-            "en": "The last stop of the day before heading back to the old town for a late lunch."
+            "en": "The last stop of the day before heading back to the old town for a late lunch.",
+            "pl": "Ostatni przystanek dnia przed powrotem na starówkę na późny obiad."
           }
         }
       ],
@@ -843,7 +914,8 @@
         "de": "Mit dem Fahrrad beginnt Ihr Tag in Rzeszów auf dem historischen Marktplatz. Von dort aus radeln Sie zu den wichtigsten Sehenswürdigkeiten der Innenstadt. Am Vormittag steht eine faszinierende Tour durch die Unterirdische Route auf dem Programm. Gegen Mittag führt Sie Ihre Route zum modernen Denkmal der Revolutionären Tat und dann weiter zum imposanten Schlosskomplex. Der Nachmittag bietet Zeit, die barocke Pracht der Pfarrkirche zu bewundern, bevor Sie den Tag bei einem entspannten Abendessen ausklingen lassen.",
         "hu": "Kerékpáros napja Rzeszówban a történelmi Piactéren kezdődik, ahonnan a belváros fő látnivalóihoz teker. A délelőtt programja egy lenyűgöző túra a Földalatti Útvonalon. Dél körül az útvonal a modern Forradalmi Tett Emlékművéhez, majd tovább az impozáns várkomplexumhoz vezet. A délután időt kínál a plébániatemplom barokk pompájának megcsodálására, mielőtt egy pihentető vacsorával zárná a napot.",
         "ro": "Ziua dvs. pe bicicletă în Rzeszów începe în piața istorică, de unde pedalați spre principalele atracții din centrul orașului. Dimineața include un tur fascinant al Traseului Subteran. În jurul prânzului, traseul vă duce la modernul Monument al Faptei Revoluționare și apoi la complexul impunător al castelului. După-amiaza oferă timp pentru a admira splendoarea barocă a bisericii parohiale înainte de a încheia ziua cu o cină relaxantă.",
-        "en": "Your cycling day in Rzeszów starts at the historic Market Square, from where you'll pedal to the main city center attractions. The morning includes a fascinating tour of the Underground Route. Around noon, your route takes you to the modern Monument to the Revolutionary Act and then on to the imposing castle complex. The afternoon provides time to admire the baroque splendor of the parish church before you end the day with a relaxing dinner."
+        "en": "Your cycling day in Rzeszów starts at the historic Market Square, from where you'll pedal to the main city center attractions. The morning includes a fascinating tour of the Underground Route. Around noon, your route takes you to the modern Monument to the Revolutionary Act and then on to the imposing castle complex. The afternoon provides time to admire the baroque splendor of the parish church before you end the day with a relaxing dinner.",
+        "pl": "Twój dzień rowerowy w Rzeszowie zaczyna się na zabytkowym Rynku, skąd pojedziesz do głównych atrakcji centrum. Rano czeka fascynująca wycieczka Trasą Podziemną. Około południa trasa prowadzi do nowoczesnego Pomnika Czynu Rewolucyjnego, a następnie do rozległego zespołu zamkowego. Popołudnie to czas na podziwianie barokowego przepychu kościoła parafialnego, po czym dzień zakończysz relaksującą kolacją."
       },
       "gastro_picks": {
         "de": [
@@ -1039,6 +1111,12 @@
           "Use bike racks near attractions.",
           "Be cautious in squares and pedestrian areas; you might need to dismount.",
           "Some smaller streets may have cobblestones, which makes riding more difficult."
+        ],
+        "pl": [
+          "Rzeszów jest stosunkowo przyjazny rowerom, zwłaszcza wzdłuż rzeki Wisłok.",
+          "Korzystaj ze stojaków rowerowych przy atrakcjach.",
+          "Uważaj na place i strefy piesze; może być konieczne zejście z roweru.",
+          "Niektóre mniejsze ulice mają kostkę brukową, co utrudnia jazdę."
         ]
       },
       "variants": {
@@ -1047,7 +1125,8 @@
             "de": "Morgen: Vorsichtige Fahrt über den nassen Rynek, Schutz unter dem Rathausturm suchen. Mittag: Das Rad sicher parken und die Zeit in der trockenen Untergrundroute verbringen. Nachmittag: Schnelle Fahrt durch die Pfützen zum Schloss und dem monumentalen Denkmal. Abend: Durchnässt, aber zufrieden das Rad am Theater abstellen.",
             "hu": "Reggel: Óvatos tekerés a vizes főtéren, a Városháza tornya alatt pihenünk meg. Délben: A biciklit biztonságba helyezzük, amíg a föld alatti járatokban bujkálunk az eső elől. Délután: Gyors suhanás a tócsák között a vár és a palota érintésével. Este: Ázottan, de élményekkel teli zárjuk a napot a színháznál.",
             "ro": "Dimineața: Plimbare prudentă prin piața umedă, adăpost sub turnul primăriei. La prânz: Parcați bicicleta în siguranță și petreceți timp în traseul subteran uscat. După-amiaza: Pedalare rapidă prin bălți spre castel și monumentul impunător. Seara: Ud, dar mulțumit, lăsați bicicleta lângă teatru.",
-            "en": "Morning: Cautious ride across the wet Rynek, seeking cover under the Town Hall tower. Midday: Park the bike securely and spend time in the dry Underground Route. Afternoon: Fast pedaling through puddles toward the Castle and the massive Monument. Evening: Soaked but satisfied, ending the ride near the theatre district."
+            "en": "Morning: Cautious ride across the wet Rynek, seeking cover under the Town Hall tower. Midday: Park the bike securely and spend time in the dry Underground Route. Afternoon: Fast pedaling through puddles toward the Castle and the massive Monument. Evening: Soaked but satisfied, ending the ride near the theatre district.",
+            "pl": "Poranek: Ostrożna jazda po mokrym Rynku, szukając schronienia pod wieżą ratusza. Południe: Zaparkuj rower i spędź czas w suchej Trasie Podziemnej. Popołudnie: Szybkie pedałowanie przez kałuże w stronę Zamku i masywnego Pomnika. Wieczór: Przemoczony, ale zadowolony, koniec przejażdżki w pobliżu dzielnicy teatralnej."
           },
           "stops": [
             {
@@ -1056,7 +1135,8 @@
                 "de": "Rutschiges Pflaster!",
                 "hu": "Csúszós macskakő!",
                 "ro": "Pavaj alunecos!",
-                "en": "Slippery stones!"
+                "en": "Slippery stones!",
+                "pl": "Śliskie kamienie!"
               }
             },
             {
@@ -1065,7 +1145,8 @@
                 "de": "Überdachter Halt.",
                 "hu": "Fedett megálló.",
                 "ro": "Oprire acoperită.",
-                "en": "Covered stop."
+                "en": "Covered stop.",
+                "pl": "Zadaszony postój."
               }
             },
             {
@@ -1074,7 +1155,8 @@
                 "de": "Rad gut abschließen.",
                 "hu": "Zárd le jól a gépet.",
                 "ro": "Încuiați bine bicicleta.",
-                "en": "Lock bike securely."
+                "en": "Lock bike securely.",
+                "pl": "Zabezpiecz rower na zamku."
               }
             },
             {
@@ -1083,7 +1165,8 @@
                 "de": "Endstation im Regen.",
                 "hu": "Végállomás az esőben.",
                 "ro": "Final în ploaie.",
-                "en": "Finish in the rain."
+                "en": "Finish in the rain.",
+                "pl": "Zakończenie w deszczu."
               }
             },
             {
@@ -1092,7 +1175,8 @@
                 "de": "Pfützengefahr.",
                 "hu": "Tócsaveszély.",
                 "ro": "Atenție la bălți.",
-                "en": "Puddle alert."
+                "en": "Puddle alert.",
+                "pl": "Uwaga na kałuże."
               }
             },
             {
@@ -1101,7 +1185,8 @@
                 "de": "Steile, nasse Kurven.",
                 "hu": "Meredek, vizes kanyar.",
                 "ro": "Curbe ude și pante.",
-                "en": "Steep, wet turns."
+                "en": "Steep, wet turns.",
+                "pl": "Strome, mokre zakręty."
               }
             },
             {
@@ -1110,7 +1195,8 @@
                 "de": "Kurzer Fotostopp.",
                 "hu": "Gyors fotómegálló.",
                 "ro": "Oprire foto scurtă.",
-                "en": "Short photo stop."
+                "en": "Short photo stop.",
+                "pl": "Krótki postój na zdjęcie."
               }
             },
             {
@@ -1119,7 +1205,8 @@
                 "de": "Schutz im Portal.",
                 "hu": "Menedék a kapunál.",
                 "ro": "Adăpost la portal.",
-                "en": "Shelter at portal."
+                "en": "Shelter at portal.",
+                "pl": "Schronienie przy portalu."
               }
             }
           ],
@@ -1151,6 +1238,13 @@
               "The Underground Route gives a long respite from the rain.",
               "Avoid deep puddles as they may hide potholes.",
               "Use a saddle cover to keep your seat dry while parked."
+            ],
+            "pl": [
+              "Hamuj wcześniej na mokrej kostce Rynku.",
+              "Noś odzież przeciwdeszczową o dużej widoczności dla bezpieczeństwa w szarym świetle.",
+              "Trasa Podziemna daje długą odskocznię od deszczu.",
+              "Unikaj głębokich kałuż, mogą kryć dziury.",
+              "Użyj pokrowca na siodełko, by utrzymać je w suchości podczas postoju."
             ]
           }
         },
@@ -1159,7 +1253,8 @@
             "de": "Morgen: Knackige Kälte auf dem Rad, der Rynek liegt unter einer dünnen Eisschicht. Mittag: Die Untergrundroute ist die Rettung vor den abgefrorenen Fingern. Nachmittag: Fahrt durch den Schlosspark, wo die Äste schwer vom Reif hängen. Abend: Ein schnelles Ende der Tour, bevor die Temperaturen bei Einbruch der Dunkelheit stürzen.",
             "hu": "Reggel: Csípős hideg a bringán, a főteret vékony jégréteg borítja. Délben: A föld alatti járatok megmentenek az elfagyott ujjaktól. Délután: Tekerés a várparkban, ahol az ágak zúzmarásan csüngenek. Este: Gyors befejezés, mielőtt a sötétséggel együtt a hőmérséklet is zuhanni kezdene.",
             "ro": "Dimineața: Frig pătrunzător pe bicicletă, piața e sub un strat subțire de gheață. La prânz: Traseul subteran este salvarea pentru degetele înghețate. După-amiaza: Plimbare prin parcul castelului, unde ramurile sunt pline de chiciură. Seara: Final rapid înainte ca temperaturile să scadă brusc la lăsarea întuneriku.",
-            "en": "Morning: Crisp cold on the bike, the Rynek covered in a thin layer of frost. Midday: The Underground Route is a lifesaver for frozen fingers. Afternoon: Riding through the castle park where branches hang heavy with rime. Evening: A quick finish to the tour before temperatures plunge at nightfall."
+            "en": "Morning: Crisp cold on the bike, the Rynek covered in a thin layer of frost. Midday: The Underground Route is a lifesaver for frozen fingers. Afternoon: Riding through the castle park where branches hang heavy with rime. Evening: A quick finish to the tour before temperatures plunge at nightfall.",
+            "pl": "Poranek: Chłód na rowerze, Rynek pokryty cienką warstwą szronu. Południe: Trasa Podziemna to ratunek dla zmarzniętych palców. Popołudnie: Jazda przez zamek i park, gdzie gałęzie wiszą oblepione szadzią. Wieczór: Szybkie zakończenie trasy przed spadkiem temperatury po zmroku."
           },
           "stops": [
             {
@@ -1168,7 +1263,8 @@
                 "de": "Eisgefahr in Ecken.",
                 "hu": "Jegesedés a sarkokban.",
                 "ro": "Gheață la colțuri.",
-                "en": "Watch for black ice."
+                "en": "Watch for black ice.",
+                "pl": "Uważaj na gołoledź."
               }
             },
             {
@@ -1177,7 +1273,8 @@
                 "de": "Kurz Hände wärmen.",
                 "hu": "Melegítsd fel a kezed.",
                 "ro": "Încălziți mâinile.",
-                "en": "Briefly warm hands."
+                "en": "Briefly warm hands.",
+                "pl": "Krótko ogrzej dłonie."
               }
             },
             {
@@ -1186,7 +1283,8 @@
                 "de": "12°C genießen.",
                 "hu": "Élvezd a 12 fokot.",
                 "ro": "Bucurați-vă de 12°C.",
-                "en": "Enjoy the 12°C."
+                "en": "Enjoy the 12°C.",
+                "pl": "Rozkoszuj się 12°C."
               }
             },
             {
@@ -1195,7 +1293,8 @@
                 "de": "Schnell ins Warme.",
                 "hu": "Irány a meleg.",
                 "ro": "Fuga la căldură.",
-                "en": "Dash inside for heat."
+                "en": "Dash inside for heat.",
+                "pl": "Wpadnij szybko do środka po ciepło."
               }
             },
             {
@@ -1204,7 +1303,8 @@
                 "de": "Eisiger Gegenwind.",
                 "hu": "Jeges szembe-szél.",
                 "ro": "Vânt înghețat.",
-                "en": "Icy headwind."
+                "en": "Icy headwind.",
+                "pl": "Lodowaty przeciwny wiatr."
               }
             },
             {
@@ -1213,7 +1313,8 @@
                 "de": "Vorsicht bei Abfahrt.",
                 "hu": "Óvatosan a lejtőn.",
                 "ro": "Atenție la coborâre.",
-                "en": "Careful on descents."
+                "en": "Careful on descents.",
+                "pl": "Uważaj na zjazdach."
               }
             },
             {
@@ -1222,7 +1323,8 @@
                 "de": "Schneemotive.",
                 "hu": "Havas témák.",
                 "ro": "Motive de iarnă.",
-                "en": "Snowy photo ops."
+                "en": "Snowy photo ops.",
+                "pl": "Zimowe okazje fotograficzne ze śniegiem."
               }
             },
             {
@@ -1231,7 +1333,8 @@
                 "de": "Ruhiger Halt.",
                 "hu": "Csendes megálló.",
                 "ro": "Oprire liniștită.",
-                "en": "Quiet winter stop."
+                "en": "Quiet winter stop.",
+                "pl": "Ciche zimowe miejsce na postój."
               }
             }
           ],
@@ -1263,6 +1366,13 @@
               "Watch out for road salt; it corrodes bike chains quickly.",
               "Aim to finish by 4 PM as the chill intensifies after dark.",
               "Keep your lights on even during the day in winter fog."
+            ],
+            "pl": [
+              "Użyj opon zimowych lub obniż ciśnienie w oponach dla przyczepności.",
+              "Rękawice termiczne i windstoppy to absolutna konieczność.",
+              "Uważaj na sól drogową; szybko koroduje łańcuchy rowerowe.",
+              "Postaraj się skończyć do 16:00, bo chłód nasila się po zmroku.",
+              "Trzymaj włączone światła nawet w ciągu dnia przy zimnej mgle."
             ]
           }
         }
@@ -1281,7 +1391,8 @@
             "de": "Parkplatz Altstadt (Cluster A)",
             "hu": "Parkoló Óváros (A Klaszter)",
             "ro": "Parcare Centrul Vechi (Cluster A)",
-            "en": "Old Town Parking (Cluster A)"
+            "en": "Old Town Parking (Cluster A)",
+            "pl": "Parking Starówki (Klastr A)"
           },
           "coords": [
             22.007,
@@ -1297,7 +1408,8 @@
             "de": "Parken Sie hier und erkunden Sie den ersten Teil der Stadt zu Fuß.",
             "hu": "Parkoljon itt, és fedezze fel a város első részét gyalog.",
             "ro": "Parcați aici și explorați prima parte a orașului pe jos.",
-            "en": "Park here and explore the first part of the city on foot."
+            "en": "Park here and explore the first part of the city on foot.",
+            "pl": "Zaparkuj tu i zwiedź pierwszą część miasta pieszo."
           }
         },
         {
@@ -1305,7 +1417,8 @@
             "de": "Marktplatz",
             "hu": "Piactér",
             "ro": "Piața Centrală",
-            "en": "Market Square"
+            "en": "Market Square",
+            "pl": "Rynek"
           },
           "coords": [
             22.0041,
@@ -1321,7 +1434,8 @@
             "de": "Genießen Sie die Atmosphäre, bevor Sie in die unterirdischen Gänge eintauchen.",
             "hu": "Élvezze a hangulatot, mielőtt lemerülne a földalatti járatokba.",
             "ro": "Bucurați-vă de atmosferă înainte de a vă aventura în pasajele subterane.",
-            "en": "Enjoy the atmosphere before venturing into the underground passages."
+            "en": "Enjoy the atmosphere before venturing into the underground passages.",
+            "pl": "Ciesz się atmosferą zanim wejdziesz do podziemnych przejść."
           }
         },
         {
@@ -1329,7 +1443,8 @@
             "de": "Unterirdische Touristenroute",
             "hu": "Földalatti Turistaútvonal",
             "ro": "Traseul Turistic Subteran",
-            "en": "Underground Tourist Route"
+            "en": "Underground Tourist Route",
+            "pl": "Trasa Turystyczna Podziemna"
           },
           "coords": [
             22.0045,
@@ -1345,7 +1460,8 @@
             "de": "Eine kühle Pause an einem heißen Tag und eine faszinierende Geschichtsstunde.",
             "hu": "Hűsítő szünet egy forró napon és egy lenyűgöző történelemóra.",
             "ro": "O pauză răcoroasă într-o zi fierbinte și o lecție fascinantă de istorie.",
-            "en": "A cool break on a hot day and a fascinating history lesson."
+            "en": "A cool break on a hot day and a fascinating history lesson.",
+            "pl": "Chłodny przystanek w gorący dzień i fascynująca lekcja historii."
           }
         },
         {
@@ -1353,7 +1469,8 @@
             "de": "Pfarrkirche St. Stanislaus",
             "hu": "Szt. Stanislaus plébániatemplom",
             "ro": "Biserica parohială Sf. Stanislaus",
-            "en": "Parish Church of St. Stanislaus"
+            "en": "Parish Church of St. Stanislaus",
+            "pl": "Kościół parafialny św. Stanisława"
           },
           "coords": [
             22.008,
@@ -1369,7 +1486,8 @@
             "de": "Bewundern Sie die reiche Innenausstattung auf dem Weg zurück zum Auto.",
             "hu": "Csodálja meg a gazdag belső teret a visszaúton az autóhoz!",
             "ro": "Admirați interiorul bogat în drumul de întoarcere la mașină.",
-            "en": "Admire the rich interior on your way back to the car."
+            "en": "Admire the rich interior on your way back to the car.",
+            "pl": "Podziwiaj bogate wnętrze w drodze powrotnej do samochodu."
           }
         },
         {
@@ -1377,7 +1495,8 @@
             "de": "Parkplatz Schloss (Cluster B)",
             "hu": "Parkoló Vár (B Klaszter)",
             "ro": "Parcare Castel (Cluster B)",
-            "en": "Castle Parking (Cluster B)"
+            "en": "Castle Parking (Cluster B)",
+            "pl": "Parking Zamkowy (Klastr B)"
           },
           "coords": [
             22.0055,
@@ -1393,7 +1512,8 @@
             "de": "Der nächste Halt für den Schloss- und Palastkomplex.",
             "hu": "A következő megálló a vár- és palotakomplexumhoz.",
             "ro": "Următoarea oprire pentru complexul castelului și palatului.",
-            "en": "The next stop for the castle and palace complex."
+            "en": "The next stop for the castle and palace complex.",
+            "pl": "Następny postój przy zespole zamkowo-pałacowym."
           }
         },
         {
@@ -1401,7 +1521,8 @@
             "de": "Schloss Rzeszów",
             "hu": "Rzeszówi vár",
             "ro": "Castelul Rzeszów",
-            "en": "Rzeszów Castle"
+            "en": "Rzeszów Castle",
+            "pl": "Zamek w Rzeszowie"
           },
           "coords": [
             22.005,
@@ -1417,7 +1538,8 @@
             "de": "Ideal für die Mittagszeit, um im Park zu entspannen oder zu Mittag zu essen.",
             "hu": "Ideális ebédidőben, hogy pihenjen a parkban vagy ebédeljen.",
             "ro": "Ideal pentru prânz, pentru a vă relaxa în parc sau a lua masa.",
-            "en": "Ideal for lunchtime to relax in the park or have lunch."
+            "en": "Ideal for lunchtime to relax in the park or have lunch.",
+            "pl": "Idealne miejsce na porę lunchu, by odpocząć w parku lub zjeść obiad."
           }
         },
         {
@@ -1425,7 +1547,8 @@
             "de": "Denkmal der Revolutionären Tat (Cluster C)",
             "hu": "A Forradalmi Tett Emlékműve (C Klaszter)",
             "ro": "Monumentul Faptei Revoluționare (Cluster C)",
-            "en": "Monument to the Revolutionary Act (Cluster C)"
+            "en": "Monument to the Revolutionary Act (Cluster C)",
+            "pl": "Pomnik Czynu Rewolucyjnego (Grupa C)"
           },
           "coords": [
             21.9995,
@@ -1441,7 +1564,8 @@
             "de": "Parken Sie in der Nähe. Von hier aus ist auch das Theater zu Fuß erreichbar. Ein guter Ort für ein spätes Mittagessen.",
             "hu": "Parkoljon a közelben. Innen a színház is gyalogosan elérhető. Jó hely egy késői ebédhez.",
             "ro": "Parcați în apropiere. De aici, teatrul este de asemenea accesibil pe jos. Un loc bun pentru un prânz târziu.",
-            "en": "Park nearby. The theatre is also within walking distance from here. A good spot for a late lunch."
+            "en": "Park nearby. The theatre is also within walking distance from here. A good spot for a late lunch.",
+            "pl": "Park w pobliżu. Teatr również w zasięgu spaceru. Dobre miejsce na późny lunch."
           }
         }
       ],
@@ -1449,7 +1573,8 @@
         "de": "Ihr Autotag in Rzeszów ist auf Effizienz ausgelegt. Sie parken zunächst in der Nähe des Marktplatzes, um die Altstadt mit ihrer unterirdischen Welt zu Fuß zu erkunden. Gegen Mittag fahren Sie zum Schlosskomplex, einem perfekten Ort für eine ausgedehnte Mittagspause. Am Nachmittag bringt Sie eine kurze Fahrt zu den modernen Wahrzeichen der Stadt, dem Denkmal der Revolutionären Tat und dem nahegelegenen Theater. Dieser Ansatz minimiert die Parkplatzsuche und maximiert Ihr Erlebnis.",
         "hu": "Az autós napja Rzeszówban a hatékonyságra összpontosít. Először a Piactér közelében parkol, hogy gyalog fedezze fel az óvárost és annak földalatti világát. Dél körül a várkomplexumhoz hajt, amely tökéletes hely egy hosszabb ebédszünethez. Délután egy rövid autózással eljut a város modern jelképeihez, a Forradalmi Tett Emlékművéhez és a közeli színházhoz. Ez a megközelítés minimalizálja a parkolóhely-keresést és maximalizálja az élményt.",
         "ro": "Ziua dvs. cu mașina în Rzeszów este concepută pentru eficiență. Mai întâi parcați lângă Piața Centrală pentru a explora pe jos orașul vechi și lumea sa subterană. La prânz, conduceți spre complexul castelului, un loc perfect pentru o pauză de masă prelungită. După-amiaza, o scurtă călătorie cu mașina vă duce la reperele moderne ale orașului, Monumentul Faptei Revoluționare și teatrul din apropiere. Această abordare minimizează căutarea parcării și maximizează experiența dvs.",
-        "en": "Your car day in Rzeszów is designed for efficiency. You first park near the Market Square to explore the old town and its underground world on foot. Around noon, you drive to the castle complex, a perfect spot for an extended lunch break. In the afternoon, a short drive takes you to the city's modern landmarks, the Monument to the Revolutionary Act and the nearby theatre. This approach minimizes parking searches and maximizes your experience."
+        "en": "Your car day in Rzeszów is designed for efficiency. You first park near the Market Square to explore the old town and its underground world on foot. Around noon, you drive to the castle complex, a perfect spot for an extended lunch break. In the afternoon, a short drive takes you to the city's modern landmarks, the Monument to the Revolutionary Act and the nearby theatre. This approach minimizes parking searches and maximizes your experience.",
+        "pl": "Twój dzień samochodem po Rzeszowie zaplanowano pod kątem efektywności. Najpierw parkujesz w pobliżu Rynku, by pieszo zwiedzić starówkę i jej podziemny świat. W południe jedziesz do zespołu zamkowego, idealnego miejsca na dłuższą przerwę obiadową. Po południu krótka przejażdżka zabierze cię do nowoczesnych punktów miasta, Pomnika Czynu Rewolucyjnego i pobliskiego teatru. Takie podejście minimalizuje poszukiwania parkingu i maksymalizuje doświadczanie miasta."
       },
       "gastro_picks": {
         "de": [
@@ -1645,6 +1770,12 @@
           "Finding parking in the direct center can be difficult at lunchtime; plan your arrival accordingly.",
           "Pay attention to the paid parking zones (Strefa Płatnego Parkowania) and pay the required fees.",
           "The cluster strategy saves time and nerves when looking for parking."
+        ],
+        "pl": [
+          "Korzystaj ze strzeżonych parkingów lub parkingów wielopoziomowych dla większego bezpieczeństwa.",
+          "Znalezienie miejsca parkingowego w samym centrum może być trudne w porze lunchu; zaplanuj przyjazd odpowiednio.",
+          "Zwracaj uwagę na strefy płatnego parkowania (Strefa Płatnego Parkowania) i uiszczaj wymagane opłaty.",
+          "Strategia grupowania miejsc oszczędza czas i nerwy przy szukaniu parkingu."
         ]
       },
       "variants": {
@@ -1653,7 +1784,8 @@
             "de": "Morgen: Fahrt durch den Regen zum Altstadtparkplatz. Ein kurzer Sprint zum Rynek genügt. Mittag: Während die Scheiben beschlagen, erkunden Sie entspannt den Untergrund. Nachmittag: Bequemer Wechsel zum Schlossparkplatz, ohne nass zu werden. Abend: Ein kurzer Weg vom Auto zum Monument und dann ins Warme.",
             "hu": "Reggel: Autózás az esőben az óvárosi parkolóig, egy rövid sprint a főtérig. Délben: Míg az ablakok párásodnak, te a föld alatti járatokban kalandozol. Délután: Kényelmes átállás a vár melletti parkolóba, megúszva az ázást. Este: Csak pár lépés a kocsitól a Monumentum, aztán irány a vacsora.",
             "ro": "Dimineața: Conducere prin ploaie spre parcarea din centrul vechi. Un sprint scurt spre piață. La prânz: În timp ce geamurile se aburesc, explorați relaxat subteranul. După-amiaza: Schimbare confortabilă spre parcarea castelului, fără a vă uda. Seara: Drum scurt de la mașină la monument și apoi la căldură.",
-            "en": "Morning: Driving through the rain to the Old Town parking; a short dash to Rynek is all it takes. Midday: While windows fog up, you’ll be exploring the dry Underground Route. Afternoon: A comfortable drive to the Castle parking, avoiding the wet. Evening: A quick step from the car to the Monument, then off to dinner."
+            "en": "Morning: Driving through the rain to the Old Town parking; a short dash to Rynek is all it takes. Midday: While windows fog up, you’ll be exploring the dry Underground Route. Afternoon: A comfortable drive to the Castle parking, avoiding the wet. Evening: A quick step from the car to the Monument, then off to dinner.",
+            "pl": "Rano: Jazda przez deszcz do parkingu przy Starym Mieście; krótki bieg na Rynek i jesteś na miejscu. W południe: Gdy szyby parują, zwiedzisz suchą Trasę Podziemną. Po południu: Komfortowa przejażdżka do parkingu przy Zamku, omijając wilgoć. Wieczorem: Szybki krok od auta do Pomnika, potem kolacja."
           },
           "stops": [
             {
@@ -1662,7 +1794,8 @@
                 "de": "Nah am Ausgang parken.",
                 "hu": "Parkolj a kijárathoz.",
                 "ro": "Parcați lângă ieșire.",
-                "en": "Park near the exit."
+                "en": "Park near the exit.",
+                "pl": "Parkuj blisko wyjścia."
               }
             },
             {
@@ -1671,7 +1804,8 @@
                 "de": "Regenschirm im Auto.",
                 "hu": "Esernyő a kocsiban.",
                 "ro": "Umbrela în mașină.",
-                "en": "Keep umbrella in car."
+                "en": "Keep umbrella in car.",
+                "pl": "Trzymaj parasol w samochodzie."
               }
             },
             {
@@ -1680,7 +1814,8 @@
                 "de": "Lange Trockenphase.",
                 "hu": "Hosszú száraz etap.",
                 "ro": "Etapă lungă uscată.",
-                "en": "Long dry period."
+                "en": "Long dry period.",
+                "pl": "Długi okres suchej pogody."
               }
             },
             {
@@ -1689,7 +1824,8 @@
                 "de": "Kurzer Fußweg.",
                 "hu": "Rövid gyalogút.",
                 "ro": "Drum scurt pe jos.",
-                "en": "Short walk from car."
+                "en": "Short walk from car.",
+                "pl": "Krótki spacer od samochodu."
               }
             },
             {
@@ -1698,7 +1834,8 @@
                 "de": "Gute Sicht prüfen.",
                 "hu": "Ellenőrizd a látást.",
                 "ro": "Verificați vizibilitatea.",
-                "en": "Check visibility."
+                "en": "Check visibility.",
+                "pl": "Sprawdź widoczność."
               }
             },
             {
@@ -1707,7 +1844,8 @@
                 "de": "Direkte Zufahrt.",
                 "hu": "Közvetlen behajtás.",
                 "ro": "Acces direct.",
-                "en": "Direct access."
+                "en": "Direct access.",
+                "pl": "Bezpośredni dostęp."
               }
             },
             {
@@ -1716,7 +1854,8 @@
                 "de": "Im Auto warten.",
                 "hu": "Várj a kocsiban.",
                 "ro": "Așteptați în mașină.",
-                "en": "Wait in car if pouring."
+                "en": "Wait in car if pouring.",
+                "pl": "Pozostań w samochodzie, jeśli leje."
               }
             }
           ],
@@ -1748,6 +1887,13 @@
               "Keep wet umbrellas in the trunk to avoid fogging windows.",
               "Parking fees can be paid via mobile apps for convenience.",
               "Avoid deep puddles in parking lots to prevent hydroplaning."
+            ],
+            "pl": [
+              "Korzystaj z grup parkingowych, by minimalizować chodzenie w ulewie.",
+              "Sprawdź wycieraczki przed rozpoczęciem zwiedzania miasta.",
+              "Mokre parasole trzymaj w bagażniku, aby nie zaparowały szyby.",
+              "Opłaty parkingowe można wygodnie wnosić przez aplikacje mobilne.",
+              "Unikaj głębokich kałuż na parkingach, aby zapobiec aquaplaningowi."
             ]
           }
         },
@@ -1756,7 +1902,8 @@
             "de": "Morgen: Das Auto vorheizen, bevor es zum frostigen Rynek geht. Mittag: Ein warmer Stopp im Auto zwischen der Untergrundroute und der Kirche. Nachmittag: Kurze Fahrten von Parkplatz zu Parkplatz schützen vor dem eisigen Wind am Schloss. Abend: Sicherer Rückzug ins beheizte Fahrzeug nach einem kalten Tag.",
             "hu": "Reggel: Melegítsd elő az autót a fagyos főtér előtt. Délben: Egy meleg pihenő a kocsiban a föld alatti túra és a templom között. Délután: Rövid utak parkolótól parkolóig, védve a vár környéki jeges széltől. Este: Biztonságos visszavonulás a fűtött utastérbe a hideg nap után.",
             "ro": "Dimineața: Preîncălziți mașina înainte de a pleca spre piața geroasă. La prânz: O pauză caldă în mașină între traseul subteran și biserică. După-amiaza: Drumuri scurte între parcări, protejați de vântul înghețat de la castel. Seara: Retragere sigură în vehiculul încălzit după o zi rece.",
-            "en": "Morning: Preheat the car before heading to the frosty Rynek. Midday: A warm break in the car between the Underground Route and the church. Afternoon: Short drives from lot to lot protect you from the icy wind near the Castle. Evening: A safe retreat into the heated vehicle after a freezing day."
+            "en": "Morning: Preheat the car before heading to the frosty Rynek. Midday: A warm break in the car between the Underground Route and the church. Afternoon: Short drives from lot to lot protect you from the icy wind near the Castle. Evening: A safe retreat into the heated vehicle after a freezing day.",
+            "pl": "Rano: Rozgrzej samochód przed wyjazdem na mroźny Rynek. W południe: Ciepła przerwa w samochodzie między Trasą Podziemną a kościołem. Po południu: Krótkie przejazdy z parkingu na parking chronią przed lodowatym wiatrem przy Zamku. Wieczorem: Bezpieczne schronienie w ogrzewanym aucie po mroźnym dniu."
           },
           "stops": [
             {
@@ -1765,7 +1912,8 @@
                 "de": "Scheiben enteisen.",
                 "hu": "Jégmentesíts.",
                 "ro": "Dezghețați geamurile.",
-                "en": "De-ice the windows."
+                "en": "De-ice the windows.",
+                "pl": "Odkurz szyby z lodu."
               }
             },
             {
@@ -1774,7 +1922,8 @@
                 "de": "Sitzheizung nutzen.",
                 "hu": "Ülésfűtés be!",
                 "ro": "Folosiți încălzirea.",
-                "en": "Use seat heating."
+                "en": "Use seat heating.",
+                "pl": "Użyj ogrzewania foteli."
               }
             },
             {
@@ -1783,7 +1932,8 @@
                 "de": "Entspannt aufwärmen.",
                 "hu": "Melegedj fel.",
                 "ro": "Încălzire relaxată.",
-                "en": "Relax and warm up."
+                "en": "Relax and warm up.",
+                "pl": "Odpocznij i rozgrzej się."
               }
             },
             {
@@ -1792,7 +1942,8 @@
                 "de": "Motor kurz laufen lassen.",
                 "hu": "Járasd a motort.",
                 "ro": "Lăsați motorul pornit.",
-                "en": "Keep engine warm."
+                "en": "Keep engine warm.",
+                "pl": "Utrzymuj ciepły silnik."
               }
             },
             {
@@ -1801,7 +1952,8 @@
                 "de": "Schnee am Reifen.",
                 "hu": "Hó a guminál.",
                 "ro": "Zăpadă pe roți.",
-                "en": "Snow near tires."
+                "en": "Snow near tires.",
+                "pl": "Śnieg przy oponach."
               }
             },
             {
@@ -1810,7 +1962,8 @@
                 "de": "Beheizte Anfahrt.",
                 "hu": "Fűtött érkezés.",
                 "ro": "Sosire cu căldură.",
-                "en": "Heated arrival."
+                "en": "Heated arrival.",
+                "pl": "Ogrzewane przybycie."
               }
             },
             {
@@ -1819,7 +1972,8 @@
                 "de": "Windgeschützt parken.",
                 "hu": "Szélvédett parkolás.",
                 "ro": "Parcare protejată.",
-                "en": "Park sheltered from wind."
+                "en": "Park sheltered from wind.",
+                "pl": "Parkuj osłonięty od wiatru."
               }
             }
           ],
@@ -1851,6 +2005,13 @@
               "Winter tires are essential in Poland during snowy periods.",
               "Frequent short drives in winter can drain your battery.",
               "Allow extra time for parking if snow removal is active."
+            ],
+            "pl": [
+              "Uważaj na gołoledź na otwartych parkingach.",
+              "Miej pod ręką odmrażacz w pojeździe.",
+              "Opony zimowe są niezbędne w Polsce podczas opadów śniegu.",
+              "Częste krótkie przejazdy zimą mogą rozładować akumulator.",
+              "Zarezerwuj dodatkowy czas na parkowanie, jeśli trwa odśnieżanie."
             ]
           }
         }
@@ -1869,7 +2030,8 @@
             "de": "Marktplatz (Cluster A)",
             "hu": "Piactér (A Klaszter)",
             "ro": "Piața Centrală (Cluster A)",
-            "en": "Market Square (Cluster A)"
+            "en": "Market Square (Cluster A)",
+            "pl": "Rynek (Grupa A)"
           },
           "coords": [
             22.0041,
@@ -1885,7 +2047,8 @@
             "de": "Starten Sie am zentralen Punkt, der von vielen Buslinien angefahren wird.",
             "hu": "Kezdje a központi ponton, amelyet számos buszjárat érint.",
             "ro": "Începeți din punctul central, deservit de multe linii de autobuz.",
-            "en": "Start at the central point, served by many bus lines."
+            "en": "Start at the central point, served by many bus lines.",
+            "pl": "Zacznij od punktu centralnego, obsługiwanego przez wiele linii autobusowych."
           }
         },
         {
@@ -1893,7 +2056,8 @@
             "de": "Rathaus",
             "hu": "Városháza",
             "ro": "Primăria",
-            "en": "Town Hall"
+            "en": "Town Hall",
+            "pl": "Ratusz"
           },
           "coords": [
             22.0038,
@@ -1909,7 +2073,8 @@
             "de": "Nur ein paar Schritte vom Hauptplatz entfernt.",
             "hu": "Csak néhány lépésre a főtértől.",
             "ro": "La doar câțiva pași de piața principală.",
-            "en": "Just a few steps from the main square."
+            "en": "Just a few steps from the main square.",
+            "pl": "Zaledwie kilka kroków od głównego placu."
           }
         },
         {
@@ -1917,7 +2082,8 @@
             "de": "Unterirdische Touristenroute",
             "hu": "Földalatti Turistaútvonal",
             "ro": "Traseul Turistic Subteran",
-            "en": "Underground Tourist Route"
+            "en": "Underground Tourist Route",
+            "pl": "Trasa Turystyczna Podziemna"
           },
           "coords": [
             22.0045,
@@ -1933,7 +2099,8 @@
             "de": "Der Eingang befindet sich direkt am Marktplatz.",
             "hu": "A bejárat közvetlenül a Piactéren található.",
             "ro": "Intrarea este situată chiar în Piața Centrală.",
-            "en": "The entrance is located right in the Market Square."
+            "en": "The entrance is located right in the Market Square.",
+            "pl": "Wejście znajduje się bezpośrednio na Rynku."
           }
         },
         {
@@ -1941,7 +2108,8 @@
             "de": "Schloss Rzeszów (Cluster B)",
             "hu": "Rzeszówi vár (B Klaszter)",
             "ro": "Castelul Rzeszów (Cluster B)",
-            "en": "Rzeszów Castle (Cluster B)"
+            "en": "Rzeszów Castle (Cluster B)",
+            "pl": "Zamek w Rzeszowie (Grupa B)"
           },
           "coords": [
             22.005,
@@ -1957,7 +2125,8 @@
             "de": "Nehmen Sie einen Bus in Richtung Süden. Steigen Sie in der Nähe des Schlosses aus.",
             "hu": "Menjen egy déli irányú busszal. Szálljon le a vár közelében!",
             "ro": "Luați un autobuz spre sud. Coborâți lângă castel.",
-            "en": "Take a bus heading south. Get off near the castle."
+            "en": "Take a bus heading south. Get off near the castle.",
+            "pl": "Wsiądź do autobusu jadącego na południe. Wysiądź przy zamku."
           }
         },
         {
@@ -1965,7 +2134,8 @@
             "de": "Sommerpalast der Lubomirskis",
             "hu": "Lubomirski Nyári Palota",
             "ro": "Palatul de vară Lubomirski",
-            "en": "Lubomirski Summer Palace"
+            "en": "Lubomirski Summer Palace",
+            "pl": "Letni Pałac Lubomirskich"
           },
           "coords": [
             22.006,
@@ -1981,7 +2151,8 @@
             "de": "Ein kurzer Spaziergang vom Schloss entfernt, perfekt für die Mittagszeit.",
             "hu": "Rövid sétára a vártól, tökéletes ebédidőben.",
             "ro": "La o scurtă plimbare de castel, perfect pentru ora prânzului.",
-            "en": "A short walk from the castle, perfect for lunchtime."
+            "en": "A short walk from the castle, perfect for lunchtime.",
+            "pl": "Krótki spacer od zamku, idealny na lunch."
           }
         },
         {
@@ -1989,7 +2160,8 @@
             "de": "Denkmal der Revolutionären Tat (Cluster C)",
             "hu": "A Forradalmi Tett Emlékműve (C Klaszter)",
             "ro": "Monumentul Faptei Revoluționare (Cluster C)",
-            "en": "Monument to the Revolutionary Act (Cluster C)"
+            "en": "Monument to the Revolutionary Act (Cluster C)",
+            "pl": "Pomnik Czynu Rewolucyjnego (Grupa C)"
           },
           "coords": [
             21.9995,
@@ -2005,7 +2177,8 @@
             "de": "Nehmen Sie einen Bus zurück Richtung Zentrum und steigen Sie am Kreisverkehr aus.",
             "hu": "Menjen egy busszal vissza a központ felé, és szálljon le a körforgalomnál!",
             "ro": "Luați un autobuz înapoi spre centru și coborâți la sensul giratoriu.",
-            "en": "Take a bus back towards the center and get off at the roundabout."
+            "en": "Take a bus back towards the center and get off at the roundabout.",
+            "pl": "Wróć autobusem w stronę centrum i wysiądź przy rondzie."
           }
         },
         {
@@ -2013,7 +2186,8 @@
             "de": "Pfarrkirche St. Stanislaus",
             "hu": "Szt. Stanislaus plébániatemplom",
             "ro": "Biserica parohială Sf. Stanislaus",
-            "en": "Parish Church of St. Stanislaus"
+            "en": "Parish Church of St. Stanislaus",
+            "pl": "Kościół parafialny św. Stanisława"
           },
           "coords": [
             22.008,
@@ -2029,7 +2203,8 @@
             "de": "Der letzte Halt ist nur einen kurzen Spaziergang entfernt, bevor Sie zurück zum Marktplatz gehen.",
             "hu": "Az utolsó megálló csak egy rövid sétára van, mielőtt visszamenne a Piactérre.",
             "ro": "Ultima oprire este la o scurtă plimbare înainte de a vă întoarce la Piața Centrală.",
-            "en": "The last stop is a short walk away before heading back to the Market Square."
+            "en": "The last stop is a short walk away before heading back to the Market Square.",
+            "pl": "Ostatni przystanek jest niedaleko, przed powrotem na Rynek."
           }
         }
       ],
@@ -2037,7 +2212,8 @@
         "de": "Mit öffentlichen Verkehrsmitteln erkunden Sie Rzeszów in Clustern. Sie beginnen im Herzen der Altstadt, die Sie zu Fuß durchqueren. Am Vormittag tauchen Sie in die unterirdische Geschichte ein. Ein Bus bringt Sie mittags zum Schlossviertel. Nach der Erkundung des Schlosses und des Palastes bringt Sie eine weitere Busfahrt zu den moderneren Sehenswürdigkeiten. Der Tag endet mit einem Spaziergang durch die belebten Straßen zurück zum Ausgangspunkt.",
         "hu": "Tömegközlekedéssel Rzeszówot klaszterekben fedezi fel. Az óváros szívében kezd, amelyet gyalog jár be. Délelőtt a földalatti történelembe merül el. Délben egy busz viszi a várnegyedbe. A vár és a palota felfedezése után egy másik buszút viszi a modernebb látnivalókhoz. A nap egy sétával zárul a nyüzsgő utcákon vissza a kiindulópontra.",
         "ro": "Cu transportul public, explorați Rzeszów în clustere. Începeți în inima orașului vechi, pe care o explorați pe jos. Dimineața vă scufundați în istoria subterană. La prânz, un autobuz vă duce în cartierul castelului. După explorarea castelului și a palatului, o altă călătorie cu autobuzul vă duce la atracțiile mai moderne. Ziua se încheie cu o plimbare pe străzile aglomerate înapoi la punctul de plecare.",
-        "en": "Using public transport, you'll explore Rzeszów in clusters. You start in the heart of the old town, which you explore on foot. In the morning, you delve into the underground history. A bus takes you to the castle district at noon. After exploring the castle and palace, another bus ride takes you to the more modern sights. The day ends with a walk through the bustling streets back to the starting point."
+        "en": "Using public transport, you'll explore Rzeszów in clusters. You start in the heart of the old town, which you explore on foot. In the morning, you delve into the underground history. A bus takes you to the castle district at noon. After exploring the castle and palace, another bus ride takes you to the more modern sights. The day ends with a walk through the bustling streets back to the starting point.",
+        "pl": "Korzystając z transportu publicznego, zwiedzisz Rzeszów w grupach. Zaczynasz w sercu starego miasta, które zwiedzisz pieszo. Rano zanurzysz się w podziemnej historii. Autobus zabierze cię w południe do dzielnicy zamkowej. Po zwiedzeniu zamku i pałacu kolejna przejażdżka autobusem zaprowadzi cię do nowocześniejszych atrakcji. Dzień kończy się spacerem gwarownymi ulicami z powrotem do punktu wyjścia."
       },
       "gastro_picks": {
         "de": [
@@ -2233,6 +2409,12 @@
           "The 'jakdojade' app is very useful for planning public transport routes.",
           "Buses can be crowded during peak hours, so plan for a little extra time.",
           "Check the schedules in advance, especially in the evening and on weekends."
+        ],
+        "pl": [
+          "Kup bilet dobowy na transport publiczny, aby zaoszczędzić.",
+          "Aplikacja 'jakdojade' jest bardzo przydatna do planowania połączeń transportu publicznego.",
+          "Autobusy mogą być zatłoczone w godzinach szczytu, więc zaplanuj nieco więcej czasu.",
+          "Sprawdź rozkłady z wyprzedzeniem, zwłaszcza wieczorem i w weekendy."
         ]
       },
       "variants": {
@@ -2241,7 +2423,8 @@
             "de": "Morgen: Ankunft am Rynek, die Buswartehäuschen bieten Schutz vor dem ersten Guss. Mittag: Die Untergrundroute ist das Highlight ohne Regenrisiko. Nachmittag: Kurze Fahrt mit dem Bus zum Schloss, um lange Wege im Regen zu vermeiden. Abend: Bequeme Rückfahrt mit dem Bus, während die Regentropfen gegen die Scheiben trommeln.",
             "hu": "Reggel: Érkezés a főtérre, a buszmegállók védenek az első záportól. Délben: A föld alatti túra a nap fénypontja, ahol nincs eső. Délután: Rövid buszozás a várig, hogy elkerüljük a hosszas ázást a szabadban. Este: Kényelmes hazautazás, miközben az esőcseppek dobolnak a busz ablakán.",
             "ro": "Dimineața: Sosire în Piața Centrală, stațiile de autobuz oferă protecție. La prânz: Traseul subteran este punctul culminant fără risc de ploaie. După-amiaza: Călătorie scurtă cu autobuzul spre castel pentru a evita ploaia. Seara: Întoarcere confortabilă cu autobuzul în timp ce ploaia bate în geam.",
-            "en": "Morning: Arrival at Rynek; the bus shelters offer protection from the first downpour. Midday: The Underground Route is the highlight, with zero rain risk. Afternoon: A short bus ride to the Castle to avoid long walks in the wet. Evening: A comfortable transit ride back while raindrops drum against the windows."
+            "en": "Morning: Arrival at Rynek; the bus shelters offer protection from the first downpour. Midday: The Underground Route is the highlight, with zero rain risk. Afternoon: A short bus ride to the Castle to avoid long walks in the wet. Evening: A comfortable transit ride back while raindrops drum against the windows.",
+            "pl": "Rano: Przyjazd na Rynek; wiaty przystankowe chronią przed pierwszym deszczem. W południe: Trasa Podziemna to główna atrakcja, bez ryzyka deszczu. Po południu: Krótka jazda autobusem do Zamku, aby uniknąć długich spacerów w mokrych warunkach. Wieczorem: Komfortowy przejazd powrotny, podczas gdy krople deszczu bębnią o szyby."
           },
           "stops": [
             {
@@ -2250,7 +2433,8 @@
                 "de": "Unterstand nutzen.",
                 "hu": "Használd a várót.",
                 "ro": "Folosiți stația.",
-                "en": "Use the shelter."
+                "en": "Use the shelter.",
+                "pl": "Skorzystaj z wiaty."
               }
             },
             {
@@ -2259,7 +2443,8 @@
                 "de": "Arkadennaher Halt.",
                 "hu": "Árkád közeli megálló.",
                 "ro": "Oprire lângă arcade.",
-                "en": "Stop near arcades."
+                "en": "Stop near arcades.",
+                "pl": "Wysiądź przy arkadach."
               }
             },
             {
@@ -2268,7 +2453,8 @@
                 "de": "Trockenes Erlebnis.",
                 "hu": "Száraz élmény.",
                 "ro": "Experiență uscată.",
-                "en": "Dry experience."
+                "en": "Dry experience.",
+                "pl": "Suche doświadczenie."
               }
             },
             {
@@ -2277,7 +2463,8 @@
                 "de": "Bus hält nah am Tor.",
                 "hu": "Busz a kapunál áll meg.",
                 "ro": "Autobuzul oprește aproape.",
-                "en": "Bus stops near gate."
+                "en": "Bus stops near gate.",
+                "pl": "Przystanki autobusowe przy bramie."
               }
             },
             {
@@ -2286,7 +2473,8 @@
                 "de": "Weg unter Bäumen.",
                 "hu": "Út a fák alatt.",
                 "ro": "Drum pe sub copaci.",
-                "en": "Walk under trees."
+                "en": "Walk under trees.",
+                "pl": "Spacer pod drzewami."
               }
             },
             {
@@ -2295,7 +2483,8 @@
                 "de": "Schneller Umstieg.",
                 "hu": "Gyors átszállás.",
                 "ro": "Transfer rapid.",
-                "en": "Quick transfer."
+                "en": "Quick transfer.",
+                "pl": "Szybkie przesiadki."
               }
             },
             {
@@ -2304,7 +2493,8 @@
                 "de": "Zentraler Busknoten.",
                 "hu": "Központi csomópont.",
                 "ro": "Nod central de bus.",
-                "en": "Central bus hub."
+                "en": "Central bus hub.",
+                "pl": "Centralny węzeł autobusowy."
               }
             }
           ],
@@ -2336,6 +2526,13 @@
               "Have your ticket ready to avoid fumbling in the rain.",
               "Bus shelters near the Rynek can get crowded during storms.",
               "Some bus lines connect major sights directly, reducing walking."
+            ],
+            "pl": [
+              "Użyj aplikacji 'Jakdojade' dla aktualizacji w czasie rzeczywistym podczas deszczu.",
+              "Autobusy w Rzeszowie są przeważnie nowoczesne i utrzymają cię w suchości.",
+              "Miej gotowy bilet, aby nie szukać go w deszczu.",
+              "Wiaty autobusowe przy Rynku mogą być zatłoczone podczas burz.",
+              "Niektóre linie autobusowe łączą główne atrakcje bezpośrednio, ograniczając chodzenie."
             ]
           }
         },
@@ -2344,7 +2541,8 @@
             "de": "Morgen: Im beheizten Bus zum frostigen Marktplatz fahren. Mittag: Ein warmer Kontrast zwischen der Untergrundroute und der kurzen Busfahrt. Nachmittag: Der Bus bringt Sie direkt zum Schloss, ohne durch den kalten Wind laufen zu müssen. Abend: Bequemer Abschluss im warmen Transit zurück zum Hotel.",
             "hu": "Reggel: Fűtött busszal érkezés a fagyos főtérre. Délben: Kellemes kontraszt a föld alatti túra és a buszozás között. Délután: A busz közvetlenül a várhoz visz, megkímélve a hideg széltől. Este: Kényelmes befejezés, meleg utastérben zötykölődve a hotelig.",
             "ro": "Dimineața: Călătorie cu autobuzul încălzit spre piața geroasă. La prânz: Contrast plăcut între traseul subteran și călătoria scurtă. După-amiaza: Autobuzul vă lasă direct la castel, evitând vântul rece. Seara: Final confortabil în tranzitul călduros spre hotel.",
-            "en": "Morning: Riding a heated bus to the frosty Market Square. Midday: A warm contrast between the Underground Route and a quick bus hop. Afternoon: The bus drops you near the Castle, saving you from the biting wind. Evening: A cozy finish, riding the warm transit back to your stay."
+            "en": "Morning: Riding a heated bus to the frosty Market Square. Midday: A warm contrast between the Underground Route and a quick bus hop. Afternoon: The bus drops you near the Castle, saving you from the biting wind. Evening: A cozy finish, riding the warm transit back to your stay.",
+            "pl": "Rano: Przejazd ogrzewanym autobusem na mroźny Rynek. W południe: Ciepły kontrast między Trasą Podziemną a szybką przesiadką. Po południu: Autobus wysadzi cię blisko Zamku, oszczędzając przed szczypiącym wiatrem. Wieczorem: Przyjemne zakończenie, powrót ogrzewanym transportem do miejsca zakwaterowania."
           },
           "stops": [
             {
@@ -2353,7 +2551,8 @@
                 "de": "Beheizte Busse.",
                 "hu": "Fűtött buszok.",
                 "ro": "Autobuze încălzite.",
-                "en": "Heated buses."
+                "en": "Heated buses.",
+                "pl": "Ogrzewane autobusy."
               }
             },
             {
@@ -2362,7 +2561,8 @@
                 "de": "Kurzer Kälteschock.",
                 "hu": "Rövid hidegsokk.",
                 "ro": "Șoc scurt de frig.",
-                "en": "Brief cold shock."
+                "en": "Brief cold shock.",
+                "pl": "Krótkie zimne zderzenie."
               }
             },
             {
@@ -2371,7 +2571,8 @@
                 "de": "Angenehme 12 Grad.",
                 "hu": "Kellemes 12 fok.",
                 "ro": "12 grade plăcute.",
-                "en": "Pleasant 12°C."
+                "en": "Pleasant 12°C.",
+                "pl": "Przyjemne 12°C."
               }
             },
             {
@@ -2380,7 +2581,8 @@
                 "de": "Windgeschützter Halt.",
                 "hu": "Szélvédett megálló.",
                 "ro": "Oprire protejată.",
-                "en": "Sheltered stop."
+                "en": "Sheltered stop.",
+                "pl": "Przystanek osłonięty."
               }
             },
             {
@@ -2389,7 +2591,8 @@
                 "de": "Winterfotos.",
                 "hu": "Téli fotók.",
                 "ro": "Poze de iarnă.",
-                "en": "Winter photos."
+                "en": "Winter photos.",
+                "pl": "Zdjęcia zimowe."
               }
             },
             {
@@ -2398,7 +2601,8 @@
                 "de": "Schnell zum Bus.",
                 "hu": "Irány a busz.",
                 "ro": "Fuga la autobuz.",
-                "en": "Quickly back to bus."
+                "en": "Quickly back to bus.",
+                "pl": "Szybki powrót na autobus."
               }
             },
             {
@@ -2407,7 +2611,8 @@
                 "de": "Warmer Knotenpunkt.",
                 "hu": "Meleg csomópont.",
                 "ro": "Nod călduros.",
-                "en": "Warm transit hub."
+                "en": "Warm transit hub.",
+                "pl": "Ciepły węzeł przesiadkowy."
               }
             }
           ],
@@ -2439,6 +2644,13 @@
               "Schedules may be delayed during heavy snowfall; use the app.",
               "Contactless card payment on board is the easiest way to buy tickets.",
               "Wear sturdy boots for the short walks from the bus stops."
+            ],
+            "pl": [
+              "Autobusy są dobrze ogrzewane zimą, idealne do rozgrzania między atrakcjami.",
+              "Czekaj wewnątrz pobliskich sklepów zamiast na krawężniku, żeby się ogrzać.",
+              "Rozkłady mogą być opóźnione podczas intensywnych opadów śniegu; korzystaj z aplikacji.",
+              "Płatność zbliżeniowa kartą w pojeździe to najprostszy sposób kupna biletu.",
+              "Noś solidne buty na krótkie spacery od przystanków autobusowych."
             ]
           }
         }

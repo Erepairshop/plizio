@@ -21,7 +21,8 @@
             "de": "Marktplatz (Rynek)",
             "hu": "Piactér (Rynek)",
             "ro": "Piața Centrală (Rynek)",
-            "en": "Market Square (Rynek)"
+            "en": "Market Square (Rynek)",
+            "pl": "Rynek (Rynek)"
           },
           "coords": [
             18.755,
@@ -37,7 +38,8 @@
             "de": "Beginnen Sie Ihren Tag hier mit einem Kaffee und beobachten Sie das Leben in der Altstadt.",
             "hu": "Kezdje a napot egy kávéval, és figyelje a város ébredését a főtér egyik kávézójából.",
             "ro": "Începeți ziua cu o cafea aici și priviți viața orașului vechi.",
-            "en": "Start your day here with a coffee and watch the life of the old town unfold."
+            "en": "Start your day here with a coffee and watch the life of the old town unfold.",
+            "pl": "Zacznij tu dzień od kawy i obserwuj życie starego miasta."
           }
         },
         {
@@ -45,7 +47,8 @@
             "de": "Basilika St. Nikolaus",
             "hu": "Szent Miklós-bazilika",
             "ro": "Bazilica Sf. Nicolae",
-            "en": "Basilica of St. Nicholas"
+            "en": "Basilica of St. Nicholas",
+            "pl": "Bazylika św. Mikołaja"
           },
           "coords": [
             18.756,
@@ -61,7 +64,8 @@
             "de": "Bewundern Sie die gotische Architektur und die ruhige Atmosphäre im Inneren.",
             "hu": "Csodálja meg a gótikus építészetet és a templom békés hangulatát.",
             "ro": "Admirați arhitectura gotică și atmosfera liniștită din interior.",
-            "en": "Admire the Gothic architecture and the peaceful atmosphere inside."
+            "en": "Admire the Gothic architecture and the peaceful atmosphere inside.",
+            "pl": "Podziwiaj gotycką architekturę i panującą w środku atmosferę spokoju."
           }
         },
         {
@@ -69,7 +73,8 @@
             "de": "Museum in Grudziądz",
             "hu": "Grudziądzi Múzeum",
             "ro": "Muzeul din Grudziądz",
-            "en": "Museum in Grudziądz"
+            "en": "Museum in Grudziądz",
+            "pl": "Muzeum w Grudziądzu"
           },
           "coords": [
             18.7545,
@@ -85,7 +90,8 @@
             "de": "Entdecken Sie die reiche Geschichte der Stadt und der Region.",
             "hu": "Fedezze fel a város és a régió gazdag történelmét bemutató kiállításokat.",
             "ro": "Descoperiți istoria bogată a orașului și a regiunii.",
-            "en": "Discover the rich history of the city and the region."
+            "en": "Discover the rich history of the city and the region.",
+            "pl": "Odkryj bogatą historię miasta i regionu."
           }
         },
         {
@@ -93,7 +99,8 @@
             "de": "Klimek-Turm",
             "hu": "Klimek-torony",
             "ro": "Turnul Klimek",
-            "en": "Klimek Tower"
+            "en": "Klimek Tower",
+            "pl": "Wieża Klimek"
           },
           "coords": [
             18.753,
@@ -109,7 +116,8 @@
             "de": "Steigen Sie hinauf für einen Panoramablick über die Stadt und die Weichsel.",
             "hu": "Másszon fel a panorámás kilátásért a városra és a Visztulára.",
             "ro": "Urcați pentru o vedere panoramică asupra orașului și a râului Vistula.",
-            "en": "Climb up for a panoramic view over the city and the Vistula River."
+            "en": "Climb up for a panoramic view over the city and the Vistula River.",
+            "pl": "Wejdź na górę dla panoramicznego widoku na miasto i Wisłę."
           }
         },
         {
@@ -117,7 +125,8 @@
             "de": "Speicher an der Weichsel",
             "hu": "Visztula-parti magtárak",
             "ro": "Grânarele de pe Vistula",
-            "en": "Granaries on the Vistula"
+            "en": "Granaries on the Vistula",
+            "pl": "Spichlerze nad Wisłą"
           },
           "coords": [
             18.75,
@@ -133,7 +142,8 @@
             "de": "Die einzigartige Silhouette dieser Gebäude ist das Wahrzeichen der Stadt.",
             "hu": "Ezeknek az épületeknek az egyedi sziluettje a város szimbóluma.",
             "ro": "Silueta unică a acestor clădiri este simbolul orașului.",
-            "en": "The unique silhouette of these buildings is the city's landmark."
+            "en": "The unique silhouette of these buildings is the city's landmark.",
+            "pl": "Unikalna sylwetka tych budynków jest symbolem miasta."
           }
         },
         {
@@ -141,7 +151,8 @@
             "de": "Wassertor",
             "hu": "Vízi kapu",
             "ro": "Poarta Apei",
-            "en": "Water Gate"
+            "en": "Water Gate",
+            "pl": "Wodna Brama"
           },
           "coords": [
             18.751,
@@ -157,7 +168,8 @@
             "de": "Ein malerisches Überbleibsel der alten Stadtbefestigung direkt am Fluss.",
             "hu": "Az egykori városfal festői maradványa közvetlenül a folyóparton.",
             "ro": "O rămășiță pitorească a vechilor fortificații ale orașului, chiar lângă râu.",
-            "en": "A picturesque remnant of the old city fortifications right by the river."
+            "en": "A picturesque remnant of the old city fortifications right by the river.",
+            "pl": "Malowniczy pozostałość dawnych miejskich fortyfikacji tuż przy rzece."
           }
         },
         {
@@ -165,7 +177,8 @@
             "de": "Weichselauen (Błonia Nadwiślańskie)",
             "hu": "Visztula-menti rét (Błonia Nadwiślańskie)",
             "ro": "Pajiștile Vistulei (Błonia Nadwiślańskie)",
-            "en": "Vistula Meadows (Błonia Nadwiślańskie)"
+            "en": "Vistula Meadows (Błonia Nadwiślańskie)",
+            "pl": "Łąki nad Wisłą (Błonia Nadwiślańskie)"
           },
           "coords": [
             18.745,
@@ -181,7 +194,8 @@
             "de": "Ein perfekter Ort für einen entspannten Spaziergang am Nachmittag.",
             "hu": "Tökéletes hely egy pihentető délutáni sétához a folyó mentén. Ebéd után ideális.",
             "ro": "Un loc perfect pentru o plimbare relaxantă de după-amiază. Ideal după prânz.",
-            "en": "A perfect place for a relaxing afternoon walk along the river. Ideal after lunch."
+            "en": "A perfect place for a relaxing afternoon walk along the river. Ideal after lunch.",
+            "pl": "Idealne miejsce na relaksujący popołudniowy spacer wzdłuż rzeki. Doskonałe po obiedzie."
           }
         }
       ],
@@ -189,7 +203,8 @@
         "de": "Beginnen Sie Ihren Tag auf dem historischen Marktplatz, umgeben von bunten Bürgerhäusern. Erkunden Sie die gotische Basilika und das Stadtmuseum, bevor Sie den Klimek-Turm für eine atemberaubende Aussicht besteigen. Am Nachmittag schlendern Sie entlang der berühmten Speicher an der Weichsel, passieren das Wassertor und entspannen schließlich auf den weitläufigen Weichselauen.",
         "hu": "Kezdje a napot a történelmi Piactéren, színes bérházakkal körülvéve. Fedezze fel a gótikus bazilikát és a városi múzeumot, mielőtt megmássza a Klimek-tornyot a lélegzetelállító kilátásért. Délután sétáljon végig a híres Visztula-parti magtárak mellett, haladjon el a Vízi kapunál, és végül pihenjen meg a tágas Visztula-menti réten.",
         "ro": "Începeți ziua în Piața istorică a orașului, înconjurată de case colorate. Explorați bazilica gotică și muzeul orașului înainte de a urca în Turnul Klimek pentru o priveliște uluitoare. După-amiaza, plimbați-vă pe lângă celebrele grânare de pe Vistula, treceți pe la Poarta Apei și relaxați-vă pe pajiștile întinse ale Vistulei.",
-        "en": "Start your day in the historic Market Square, surrounded by colorful townhouses. Explore the Gothic basilica and the city museum before climbing the Klimek Tower for a breathtaking view. In the afternoon, stroll along the famous granaries on the Vistula, pass the Water Gate, and finally relax on the expansive Vistula Meadows."
+        "en": "Start your day in the historic Market Square, surrounded by colorful townhouses. Explore the Gothic basilica and the city museum before climbing the Klimek Tower for a breathtaking view. In the afternoon, stroll along the famous granaries on the Vistula, pass the Water Gate, and finally relax on the expansive Vistula Meadows.",
+        "pl": "Rozpocznij dzień na zabytkowym Rynku, otoczonym kolorowymi kamienicami. Zwiedź gotycką bazylikę i muzeum miejskie, a potem wejdź na wieżę Klimek, by podziwiać zapierający dech widok. Po południu przespaceruj się sławnymi spichrzami nad Wisłą, mijając Wodną Bramę, a na koniec odpocznij na rozległych Łąkach nad Wisłą."
       },
       "gastro_picks": {
         "de": [
@@ -293,6 +308,11 @@
           "Wear comfortable shoes as the cobblestones in the Old Town can be uneven.",
           "Most attractions are within walking distance.",
           "Plan for lunch at a restaurant with a view of the Vistula River."
+        ],
+        "pl": [
+          "Noś wygodne buty — bruki na Starym Mieście mogą być nierówne.",
+          "Większość atrakcji znajduje się w odległości spaceru.",
+          "Zaplanuj obiad w restauracji z widokiem na Wisłę."
         ]
       },
       "variants": {
@@ -301,7 +321,8 @@
             "de": "Ein regnerischer Morgen beginnt am Marktplatz, wo sich die Giebelhäuser im nassen Pflaster spiegeln. Wir finden Schutz in der Basilika. Mittags bietet das Museum einen trockenen Rückzugsort voller Stadtgeschichte. Nachmittags wirken die massiven Backsteinspeicher an der Weichsel im grauen Regenlicht besonders dramatisch. Den Tag lassen wir gemütlich in einem Café in der Altstadt ausklingen.",
             "hu": "Esős reggel a főtéren, ahol a színes homlokzatok tükröződnek a vizes macskakövön. A bazilikában lelünk elsőként menedéket. Délben a múzeum vastag falai között merülünk el a város múltjában, védve az esőtől. Délután a Visztula menti magtárak monumentális tömbjei komor méltósággal festenek a szürkületben. Az este egy hangulatos óvárosi kávézó melegében ér véget.",
             "ro": "O dimineață ploioasă începe în Piața Veche, unde fațadele colorate se oglindesc în pavajul umed. Căutăm adăpost în bazilică. La prânz, muzeul oferă un refugiu uscat plin de istorie locală. După-amiaza, hambarele masive de cărămidă de pe Vistula arată dramatic sub cerul gri. Încheiem ziua confortabil într-o cafenea din centrul vechi.",
-            "en": "A rainy morning begins at the Market Square, with colorful facades reflecting in the wet cobblestones. We find shelter in the Basilica. At midday, the museum provides a dry retreat filled with city history. In the afternoon, the massive brick granaries on the Vistula look particularly dramatic in the gray light. The day ends cozily in an old town café."
+            "en": "A rainy morning begins at the Market Square, with colorful facades reflecting in the wet cobblestones. We find shelter in the Basilica. At midday, the museum provides a dry retreat filled with city history. In the afternoon, the massive brick granaries on the Vistula look particularly dramatic in the gray light. The day ends cozily in an old town café.",
+            "pl": "Deszczowe poranne rozpoczęcie na Rynku, z kolorowymi fasadami odbijającymi się w mokrych kostkach brukowych. Szukamy schronienia w Bazylice. W południe muzeum zapewnia suchy azyl wypełniony historią miasta. Po południu masywne ceglaste spichrze nad Wisłą wyglądają szczególnie dramatycznie w szarym świetle. Dzień kończy się przytulnie w kawiarni na starówce."
           },
           "stops": [
             {
@@ -310,7 +331,8 @@
                 "de": "Nutzen Sie die Arkaden der umliegenden Häuser als Regenschutz.",
                 "hu": "Használja a környező házak árkádjait eső elleni védelemként.",
                 "ro": "Folosiți arcadele caselor din jur pentru a vă proteja de ploaie.",
-                "en": "Use the arcades of the surrounding houses for rain protection."
+                "en": "Use the arcades of the surrounding houses for rain protection.",
+                "pl": "Korzystaj z arkad otaczających kamienice jako ochrony przed deszczem."
               }
             },
             {
@@ -319,7 +341,8 @@
                 "de": "Ein perfekter Ort, um einen heftigen Schauer im Trockenen abzuwarten.",
                 "hu": "Tökéletes hely egy heves zápor szárazon való megvárásához.",
                 "ro": "Un loc perfect pentru a aștepta trecerea unei averse la adăpost.",
-                "en": "A perfect place to wait out a heavy shower in the dry."
+                "en": "A perfect place to wait out a heavy shower in the dry.",
+                "pl": "Idealne miejsce, by przeczekać ulewny deszcz w suchym miejscu."
               }
             },
             {
@@ -328,7 +351,8 @@
                 "de": "Ideales Ziel für Regentage mit umfangreichen Ausstellungen.",
                 "hu": "Ideális célpont esős napokra a kiterjedt kiállításaival.",
                 "ro": "Destinație ideală pentru zilele ploioase datorită expozițiilor vaste.",
-                "en": "Ideal destination for rainy days with extensive exhibitions."
+                "en": "Ideal destination for rainy days with extensive exhibitions.",
+                "pl": "Idealne miejsce na deszczowe dni z obszernymi wystawami."
               }
             },
             {
@@ -337,7 +361,8 @@
                 "de": "Vorsicht, die Stufen zur Aussichtsplattform können bei Regen rutschig sein.",
                 "hu": "Vigyázat, a kilátóhoz vezető lépcsők esőben csúszósak lehetnek.",
                 "ro": "Atenție, treptele spre platforma de observare pot fi alunecoase.",
-                "en": "Careful, the steps to the viewing platform can be slippery in the rain."
+                "en": "Careful, the steps to the viewing platform can be slippery in the rain.",
+                "pl": "Uwaga, schody na platformę widokową mogą być śliskie w deszczu."
               }
             },
             {
@@ -346,7 +371,8 @@
                 "de": "Die Backsteinmauern bieten etwas Schutz vor Wind vom Fluss.",
                 "hu": "A téglafalak némi védelmet nyújtanak a folyó felől fújó szél ellen.",
                 "ro": "Zidurile de cărămidă oferă protecție împotriva vântului de pe râu.",
-                "en": "The brick walls offer some protection from the river wind."
+                "en": "The brick walls offer some protection from the river wind.",
+                "pl": "Ceglane ściany zapewniają częściową ochronę przed wiatrem znad rzeki."
               }
             },
             {
@@ -355,7 +381,8 @@
                 "de": "Ein kurzer, trockener Durchgang unter dem historischen Torbogen.",
                 "hu": "Rövid, száraz átjáró a történelmi boltív alatt.",
                 "ro": "O scurtă trecere uscată sub arcada porții istorice.",
-                "en": "A short, dry passage under the historic archway."
+                "en": "A short, dry passage under the historic archway.",
+                "pl": "Krótki, suchy przejazd pod zabytkową arkadą."
               }
             },
             {
@@ -364,7 +391,8 @@
                 "de": "Die Wege können matschig sein; festes, wasserdichtes Schuhwerk tragen.",
                 "hu": "Az utak sarasak lehetnek; viseljen zárt, vízálló lábbelit.",
                 "ro": "Potecile pot fi noroioase; purtați încălțăminte impermeabilă.",
-                "en": "Paths can be muddy; wear sturdy, waterproof footwear."
+                "en": "Paths can be muddy; wear sturdy, waterproof footwear.",
+                "pl": "Ścieżki mogą być błotniste; noś solidne, wodoodporne obuwie."
               }
             }
           ],
@@ -396,6 +424,13 @@
               "Schedule the museum visit for midday when rain intensity is often highest.",
               "Watch out for slippery cobblestones near the Water Gate.",
               "The granary district offers spectacular photo ops even in gray rainy weather."
+            ],
+            "pl": [
+              "Noś wodoodporną kurtkę, bo wiatr znad Wisły może odwrócić parasole.",
+              "Stara część miasta ma wiele kawiarni idealnych na krótkie przerwy przed deszczem.",
+              "Zaplanuj wizytę w muzeum na południe, gdy intensywność deszczu jest często największa.",
+              "Uważaj na śliskie kostki brukowe w pobliżu Wodnej Bramy.",
+              "Dzielnica spichrzów oferuje spektakularne możliwości fotograficzne nawet w szare, deszczowe dni."
             ]
           }
         },
@@ -404,7 +439,8 @@
             "de": "Ein frostiger Wintermorgen am Marktplatz, wo der Duft von heißem Tee in der Luft liegt. Wir wärmen uns in der Basilika auf. Mittags genießen wir die Stille im beheizten Museum. Der frühe Nachmittag gehört den Speichern, deren roter Backstein markant gegen den weißen Schnee kontrastiert. Nach dem Sonnenuntergang an der Weichsel kehren wir in die Wärme der Unterstadt zurück.",
             "hu": "Deres téli reggel a főtéren, ahol a forró tea illata lengi be a levegőt. A bazilikában melegszünk át először. Délben a fűtött múzeum csendes tárlatait élvezzük. Kora délután a magtárakat látogatjuk meg, melyek vörös téglái élesen ütnek el a fehér hótól. A Visztula-parti naplemente után gyorsan visszahúzódunk a belváros melegébe.",
             "ro": "O dimineață geroasă de iarnă în Piața Veche, cu miros de ceai fierbinte în aer. Ne încălzim în bazilică. La prânz, ne bucurăm de liniștea muzeului încălzit. După-amiaza devreme aparține hambarelor, ale căror cărămizi roșii contrastează cu zăpada albă. După apusul de pe Vistula, ne întoarcem la căldura orașului.",
-            "en": "A frosty winter morning at the Market Square, with the scent of hot tea in the air. We warm up in the Basilica. At midday, we enjoy the silence of the heated museum. Early afternoon is for the granaries, their red brick contrasting sharply against the white snow. After sunset by the Vistula, we return to the warmth of the town center."
+            "en": "A frosty winter morning at the Market Square, with the scent of hot tea in the air. We warm up in the Basilica. At midday, we enjoy the silence of the heated museum. Early afternoon is for the granaries, their red brick contrasting sharply against the white snow. After sunset by the Vistula, we return to the warmth of the town center.",
+            "pl": "Mroźne zimowe poranne na Rynku, z zapachem gorącej herbaty w powietrzu. Rozgrzewamy się w Bazylice. W południe korzystamy z ciszy ogrzewanego muzeum. Wczesne popołudnie przeznaczone na spichrze — ich czerwona cegła kontrastuje mocno z białym śniegiem. Po zachodzie słońca nad Wisłą wracamy do ciepła centrum miasta."
           },
           "stops": [
             {
@@ -413,7 +449,8 @@
                 "de": "Suchen Sie ein Café für ein warmes polnisches Frühstück.",
                 "hu": "Keressen egy kávézót egy meleg lengyel reggelihez.",
                 "ro": "Căutați o cafenea pentru un mic dejun polonez cald.",
-                "en": "Find a café for a warm Polish breakfast."
+                "en": "Find a café for a warm Polish breakfast.",
+                "pl": "Znajdź kawiarnię na ciepłe polskie śniadanie."
               }
             },
             {
@@ -422,7 +459,8 @@
                 "de": "Bewundern Sie die Innenausstattung, während Sie sich kurz aufwärmen.",
                 "hu": "Csodálja meg a belső teret, miközben kicsit felmelegszik.",
                 "ro": "Admirați interiorul în timp ce vă încălziți puțin.",
-                "en": "Admire the interior while warming up for a bit."
+                "en": "Admire the interior while warming up for a bit.",
+                "pl": "Podziwiaj wnętrze, rozgrzewając się przez chwilę."
               }
             },
             {
@@ -431,7 +469,8 @@
                 "de": "Perfekt für die kälteste Zeit des Tages; Garderobe vorhanden.",
                 "hu": "Tökéletes a nap leghidegebb óráira; ruhatár elérhető.",
                 "ro": "Perfect pentru cea mai rece perioadă a zilei; garderobă disponibilă.",
-                "en": "Perfect for the coldest time of the day; cloakroom available."
+                "en": "Perfect for the coldest time of the day; cloakroom available.",
+                "pl": "Idealne na najzimniejszą porę dnia; dostępna szatnia."
               }
             },
             {
@@ -440,7 +479,8 @@
                 "de": "Der Wind oben ist sehr kalt; Mütze und Handschuhe sind Pflicht.",
                 "hu": "A szél odafönt nagyon hideg; sapka és kesztyű kötelező.",
                 "ro": "Vântul sus este foarte rece; căciula și mănușile sunt obligatorii.",
-                "en": "The wind at the top is very cold; hat and gloves are mandatory."
+                "en": "The wind at the top is very cold; hat and gloves are mandatory.",
+                "pl": "Na górze wieje bardzo zimny wiatr; obowiązkowo czapka i rękawiczki."
               }
             },
             {
@@ -449,7 +489,8 @@
                 "de": "Blick auf Eisschollen auf der Weichsel vom Aussichtspunkt.",
                 "hu": "Nézze meg a Visztulán úszó jégtáblákat a kilátópontról.",
                 "ro": "Priviți sloiurile de gheață de pe Vistula de la punctul de belvedere.",
-                "en": "Watch for ice floes on the Vistula from the viewpoint."
+                "en": "Watch for ice floes on the Vistula from the viewpoint.",
+                "pl": "Uważaj na kra na Wiśle widoczną z punktu widokowego."
               }
             },
             {
@@ -458,7 +499,8 @@
                 "de": "Vorsicht vor herabhängenden Eiszapfen an den alten Mauern.",
                 "hu": "Vigyázzon a régi falakról lelógó jégcsapokra.",
                 "ro": "Atenție la țurțurii care atârnă de pe zidurile vechi.",
-                "en": "Watch out for icicles hanging from the old walls."
+                "en": "Watch out for icicles hanging from the old walls.",
+                "pl": "Uważaj na sople zwisające ze starych murów."
               }
             },
             {
@@ -467,7 +509,8 @@
                 "de": "Besuch vor 16:00 Uhr planen, da es im Winter früh dunkel wird.",
                 "hu": "Tervezze a látogatást 16:00 előtt, mert télen korán sötétedik.",
                 "ro": "Planificați vizita înainte de ora 16:00, deoarece se întunecă devreme.",
-                "en": "Plan the visit before 16:00, as it gets dark early in winter."
+                "en": "Plan the visit before 16:00, as it gets dark early in winter.",
+                "pl": "Zaplanuj wizytę przed 16:00, bo zimą szybko robi się ciemno."
               }
             }
           ],
@@ -499,6 +542,13 @@
               "Watch out for black ice on the steep paths leading to the Vistula.",
               "Try hot apple juice with spices in the old town.",
               "Visibility from Klimek Tower is exceptionally far in clear winter air."
+            ],
+            "pl": [
+              "Zachód słońca zimą jest już około 16:00.",
+              "Ubieraj się warstwowo; muzea są dobrze ogrzewane wewnątrz.",
+              "Uważaj na czarny lód na stromych ścieżkach prowadzących do Wisły.",
+              "Spróbuj gorącego soku jabłkowego z przyprawami na starówce.",
+              "Widoczność z wieży Klimek jest wyjątkowo daleka w przejrzystym zimowym powietrzu."
             ]
           }
         }
@@ -517,7 +567,8 @@
             "de": "Marktplatz (Rynek)",
             "hu": "Piactér (Rynek)",
             "ro": "Piața Centrală (Rynek)",
-            "en": "Market Square (Rynek)"
+            "en": "Market Square (Rynek)",
+            "pl": "Rynek (Market Square)"
           },
           "coords": [
             18.755,
@@ -533,7 +584,8 @@
             "de": "Schließen Sie Ihr Fahrrad an und erkunden Sie den Platz zu Fuß.",
             "hu": "Zárja le a kerékpárt, és fedezze fel a teret gyalog.",
             "ro": "Parcați bicicleta și explorați piața pe jos.",
-            "en": "Lock up your bike and explore the square on foot."
+            "en": "Lock up your bike and explore the square on foot.",
+            "pl": "Zamknij rower i zwiedzaj plac pieszo."
           }
         },
         {
@@ -541,7 +593,8 @@
             "de": "Speicher an der Weichsel",
             "hu": "Visztula-parti magtárak",
             "ro": "Grânarele de pe Vistula",
-            "en": "Granaries on the Vistula"
+            "en": "Granaries on the Vistula",
+            "pl": "Spichrze nad Wisłą"
           },
           "coords": [
             18.75,
@@ -557,7 +610,8 @@
             "de": "Eine tolle Fotomöglichkeit vom gegenüberliegenden Ufer.",
             "hu": "Nagyszerű fotózási lehetőség a szemközti partról.",
             "ro": "O oportunitate excelentă pentru fotografii de pe malul opus.",
-            "en": "A great photo opportunity from the opposite bank."
+            "en": "A great photo opportunity from the opposite bank.",
+            "pl": "Świetna okazja do zdjęć z przeciwległego brzegu."
           }
         },
         {
@@ -565,7 +619,8 @@
             "de": "Błonia Nadwiślańskie",
             "hu": "Visztula-menti rét",
             "ro": "Pajiștile Vistulei",
-            "en": "Vistula Meadows"
+            "en": "Vistula Meadows",
+            "pl": "Łąki nad Wisłą"
           },
           "coords": [
             18.745,
@@ -581,7 +636,8 @@
             "de": "Genießen Sie eine entspannte Fahrt entlang des Flusses.",
             "hu": "Élvezze a pihentető kerékpározást a folyó mentén.",
             "ro": "Bucurați-vă de o plimbare relaxantă cu bicicleta de-a lungul râului.",
-            "en": "Enjoy a relaxing bike ride along the river."
+            "en": "Enjoy a relaxing bike ride along the river.",
+            "pl": "Ciesz się relaksującą przejażdżką rowerową wzdłuż rzeki."
           }
         },
         {
@@ -589,7 +645,8 @@
             "de": "Zitadelle Grudziądz",
             "hu": "Grudziądzi Citadella",
             "ro": "Cetatea Grudziądz",
-            "en": "Grudziądz Citadel"
+            "en": "Grudziądz Citadel",
+            "pl": "Twierdza Grudziądz"
           },
           "coords": [
             18.758,
@@ -605,7 +662,8 @@
             "de": "Die Fahrt bergauf ist eine Herausforderung, aber die Festung ist es wert.",
             "hu": "Az út felfelé kihívást jelent, de az erőd megéri a fáradságot.",
             "ro": "Urcușul este o provocare, dar cetatea merită efortul.",
-            "en": "The uphill ride is a challenge, but the fortress is worth it."
+            "en": "The uphill ride is a challenge, but the fortress is worth it.",
+            "pl": "Jazda pod górę jest wyzwaniem, ale twierdza jest tego warta."
           }
         },
         {
@@ -613,7 +671,8 @@
             "de": "Klimek-Turm",
             "hu": "Klimek-torony",
             "ro": "Turnul Klimek",
-            "en": "Klimek Tower"
+            "en": "Klimek Tower",
+            "pl": "Wieża Klimek"
           },
           "coords": [
             18.753,
@@ -629,7 +688,8 @@
             "de": "Lohnender Stopp auf dem Rückweg ins Stadtzentrum.",
             "hu": "Érdemes megállni a városközpont felé vezető úton.",
             "ro": "O oprire care merită la întoarcerea spre centrul orașului.",
-            "en": "A worthwhile stop on your way back to the city center."
+            "en": "A worthwhile stop on your way back to the city center.",
+            "pl": "Warto zatrzymać się wracając do centrum miasta."
           }
         },
         {
@@ -637,7 +697,8 @@
             "de": "Basilika St. Nikolaus",
             "hu": "Szent Miklós-bazilika",
             "ro": "Bazilica Sf. Nicolae",
-            "en": "Basilica of St. Nicholas"
+            "en": "Basilica of St. Nicholas",
+            "pl": "Bazylika św. Mikołaja"
           },
           "coords": [
             18.756,
@@ -653,7 +714,8 @@
             "de": "Ein Ort der Ruhe nach der Radtour.",
             "hu": "A nyugalom helye a kerékpártúra után.",
             "ro": "Un loc de liniște după turul cu bicicleta.",
-            "en": "A place of tranquility after the bike ride."
+            "en": "A place of tranquility after the bike ride.",
+            "pl": "Miejsce wyciszenia po przejażdżce rowerowej."
           }
         },
         {
@@ -661,7 +723,8 @@
             "de": "Museum in Grudziądz",
             "hu": "Grudziądzi Múzeum",
             "ro": "Muzeul din Grudziądz",
-            "en": "Museum in Grudziądz"
+            "en": "Museum in Grudziądz",
+            "pl": "Muzeum w Grudziądzu"
           },
           "coords": [
             18.7545,
@@ -677,7 +740,8 @@
             "de": "Beenden Sie Ihre Tour mit einem tiefen Einblick in die lokale Geschichte.",
             "hu": "Zárja a túrát a helyi történelem alapos megismerésével.",
             "ro": "Încheiați turul cu o incursiune profundă în istoria locală.",
-            "en": "End your tour with a deep dive into local history."
+            "en": "End your tour with a deep dive into local history.",
+            "pl": "Zakończ trasę głębokim zanurzeniem w lokalnej historii."
           }
         }
       ],
@@ -685,7 +749,8 @@
         "de": "Starten Sie am Marktplatz und radeln Sie zu den beeindruckenden Speichern an der Weichsel. Genießen Sie eine Fahrt entlang der Weichselauen, bevor Sie die anspruchsvolle, aber lohnende Strecke zur Zitadelle in Angriff nehmen. Auf dem Rückweg ins Zentrum erklimmen Sie den Klimek-Turm, besuchen die Basilika und tauchen im Museum in die Geschichte ein.",
         "hu": "Induljon a Piactérről, és tekerjen el a lenyűgöző Visztula-parti magtárakhoz. Élvezze a folyó menti kerékpározást a réten, mielőtt nekivág a kihívást jelentő, de annál inkább megérő útnak a Citadellához. Visszafelé a központba mássza meg a Klimek-tornyot, látogasson el a bazilikába, és merüljön el a történelemben a múzeumban.",
         "ro": "Porniți din Piața Centrală și pedalați spre impresionantele grânare de pe Vistula. Bucurați-vă de o plimbare de-a lungul Pajiștilor Vistulei înainte de a aborda traseul provocator, dar plin de satisfacții, către Cetate. La întoarcerea spre centru, urcați în Turnul Klimek, vizitați bazilica și aprofundați istoria la muzeu.",
-        "en": "Start at the Market Square and cycle to the impressive granaries on the Vistula. Enjoy a ride along the Vistula Meadows before tackling the challenging but rewarding route to the Citadel. On the way back to the center, climb the Klimek Tower, visit the basilica, and delve into history at the museum."
+        "en": "Start at the Market Square and cycle to the impressive granaries on the Vistula. Enjoy a ride along the Vistula Meadows before tackling the challenging but rewarding route to the Citadel. On the way back to the center, climb the Klimek Tower, visit the basilica, and delve into history at the museum.",
+        "pl": "Rozpocznij na Rynku i pojedź do imponujących spichrzów nad Wisłą. Przejedź przez Łąki nad Wisłą, zanim zmierzysz na wymagającą, ale satysfakcjonującą trasę do Twierdzy. Wracając do centrum, wejdź na wieżę Klimek, odwiedź bazylikę i zgłębiaj historię w muzeum."
       },
       "gastro_picks": {
         "de": [
@@ -789,6 +854,11 @@
           "Check your tire pressure before you leave.",
           "Some paths can be hilly, especially to the Citadel.",
           "Use the bike paths along the Vistula River."
+        ],
+        "pl": [
+          "Sprawdź ciśnienie w oponach przed wyjazdem.",
+          "Niektóre ścieżki mogą być pagórkowate, szczególnie w kierunku Twierdzy.",
+          "Korzystaj ze ścieżek rowerowych wzdłuż Wisły."
         ]
       },
       "variants": {
@@ -797,7 +867,8 @@
             "de": "Eine nasse Radtour beginnt am Markt. Wir radeln vorsichtig zu den Speichern, deren Mauern Schutz bieten. Mittags führt die Tour entlang der Weichselwiesen, wo wir die frische Regenluft genießen. Ein Abstecher zur Zitadelle fordert unsere Ausdauer auf nassen Wegen. Am Nachmittag wärmen wir uns im Museum auf, während unsere Räder sicher draußen stehen.",
             "hu": "Vizes kerékpártúra indul a főtérről. Óvatosan tekerünk a magtárak felé, melyek falai némi oltalmat adnak. Délben a Visztula-menti réteken haladunk, élvezve a friss esőillatot. A Citadella felé vezető út próbára teszi kitartásunkat a vizes talajon. Délután a múzeumban melegszünk fel, amíg a kerékpárok kint pihennek.",
             "ro": "O tură umedă cu bicicleta începe din piață. Pedalăm cu atenție spre hambare, ale căror ziduri oferă protecție. La prânz, turul continuă pe pajiștile Vistulei, unde ne bucurăm de aerul proaspăt. O vizită la cetate ne testează rezistența pe drumuri ude. După-amiaza ne încălzim la muzeu în timp ce bicicletele stau afară.",
-            "en": "A wet bike tour starts at the market. We pedal carefully to the granaries, where the walls offer some shelter. At midday, the route follows the Vistula meadows, enjoying the fresh rainy air. A trip to the Citadel tests our endurance on wet paths. In the afternoon, we warm up in the museum while the bikes are safely parked outside."
+            "en": "A wet bike tour starts at the market. We pedal carefully to the granaries, where the walls offer some shelter. At midday, the route follows the Vistula meadows, enjoying the fresh rainy air. A trip to the Citadel tests our endurance on wet paths. In the afternoon, we warm up in the museum while the bikes are safely parked outside.",
+            "pl": "Mokra wycieczka rowerowa zaczyna się na rynku. Jedziemy ostrożnie do spichrzów, gdzie mury dają częściowe schronienie. W południe trasa wiedzie przez Łąki nad Wisłą, by cieszyć się świeżym, deszczowym powietrzem. Wyjazd do Twierdzy sprawdza naszą wytrzymałość na mokrych ścieżkach. Po południu rozgrzewamy się w muzeum, podczas gdy rowery są bezpiecznie zaparkowane na zewnątrz."
           },
           "stops": [
             {
@@ -806,7 +877,8 @@
                 "de": "Vorsicht auf dem nassen Kopfsteinpflaster beim Anfahren.",
                 "hu": "Vigyázzon a vizes macskakövön induláskor.",
                 "ro": "Atenție la pavajul umed când porniți de pe loc.",
-                "en": "Be careful on the wet cobblestones when starting off."
+                "en": "Be careful on the wet cobblestones when starting off.",
+                "pl": "Uważaj na mokre kostki brukowe przy ruszaniu."
               }
             },
             {
@@ -815,7 +887,8 @@
                 "de": "Kurzer Stopp unter den Dachvorsprüngen zum Verschnaufen.",
                 "hu": "Rövid megálló az ereszek alatt egy kis pihenőre.",
                 "ro": "Scurtă oprire sub streșini pentru o pauză.",
-                "en": "Short stop under the eaves for a quick breather."
+                "en": "Short stop under the eaves for a quick breather.",
+                "pl": "Krótki postój pod okapem na szybkie złapanie oddechu."
               }
             },
             {
@@ -824,7 +897,8 @@
                 "de": "Gepflasterte Wege nutzen, um tiefen Matsch zu vermeiden.",
                 "hu": "Használja a kövezett utakat a mély sár elkerülésére.",
                 "ro": "Folosiți potecile pavate pentru a evita noroiul adânc.",
-                "en": "Use paved paths to avoid deep mud."
+                "en": "Use paved paths to avoid deep mud.",
+                "pl": "Korzystaj z utwardzonych ścieżek, aby uniknąć głębokiego błota."
               }
             },
             {
@@ -833,7 +907,8 @@
                 "de": "Hügelige Auffahrt kann bei Regen rutschig und anstrengend sein.",
                 "hu": "A dombos feljáró esőben csúszós és fárasztó lehet.",
                 "ro": "Urcarea dealului poate fi alunecoasă și obositoare pe ploaie.",
-                "en": "The hilly climb can be slippery and tiring in the rain."
+                "en": "The hilly climb can be slippery and tiring in the rain.",
+                "pl": "Strome podjazdy mogą być śliskie i męczące w deszczu."
               }
             },
             {
@@ -842,7 +917,8 @@
                 "de": "Sichere Fahrradständer befinden sich am Fuß des Hügels.",
                 "hu": "Biztonságos kerékpártárolók a domb alján találhatók.",
                 "ro": "Suporturi sigure pentru biciclete se află la baza dealului.",
-                "en": "Secure bike racks are located at the base of the hill."
+                "en": "Secure bike racks are located at the base of the hill.",
+                "pl": "Przy podnóżu wzgórza znajdują się zabezpieczone stojaki rowerowe."
               }
             },
             {
@@ -851,7 +927,8 @@
                 "de": "In der Nähe gibt es überdachte Plätze zum Abstellen der Räder.",
                 "hu": "A közelben fedett helyek vannak a bringák tárolására.",
                 "ro": "În apropiere există locuri acoperite pentru parcarea bicicletelor.",
-                "en": "There are covered spots nearby to park the bikes."
+                "en": "There are covered spots nearby to park the bikes.",
+                "pl": "W pobliżu są zadaszone miejsca do zaparkowania rowerów."
               }
             },
             {
@@ -860,7 +937,8 @@
                 "de": "Perfekter Ort, um nasses Equipment im Eingangsbereich zu trocknen.",
                 "hu": "Tökéletes hely a vizes felszerelés szárítására a bejáratnál.",
                 "ro": "Loc perfect pentru a usca echipamentul umed la intrare.",
-                "en": "Perfect place to dry wet equipment in the entrance area."
+                "en": "Perfect place to dry wet equipment in the entrance area.",
+                "pl": "Idealne miejsce do suszenia mokrego sprzętu w przestrzeni wejściowej."
               }
             }
           ],
@@ -892,6 +970,13 @@
               "The climb to the Citadel is more technically demanding when wet.",
               "Use waterproof panniers for your valuables.",
               "The bike paths along the Vistula are mostly well-drained."
+            ],
+            "pl": [
+              "Unikaj nagłego hamowania na mokrym granitowym bruku.",
+              "Błotniki są niezbędne w taką pogodę w Grudziądzu.",
+              "Podjazd do Twierdzy jest bardziej wymagający technicznie, gdy jest mokro.",
+              "Używaj wodoodpornych sakw na wartościowe przedmioty.",
+              "Ścieżki rowerowe wzdłuż Wisły są w większości dobrze odwodnione."
             ]
           }
         },
@@ -900,7 +985,8 @@
             "de": "Ein frostiger Start am Markt. Der Fahrtwind an der Weichsel bei den Speichern ist eisig, aber die Sicht ist klar. Wir radeln durch die verschneiten Wiesen zur Zitadelle, wo die Winterstille beeindruckt. Zum Aufwärmen geht es am Nachmittag über den Klimek-Turm zur Basilika und schließlich ins Museum. Die kurzen Tage verlangen ein zügiges Tempo.",
             "hu": "Deres indulás a főtérről. A Visztula-parti menetszél a magtáraknál jeges, de a kilátás tiszta. A havas réteken át tekerünk a Citadellához, ahol lenyűgöző a téli csend. Melegedésképpen délután a Klimek-torony és a bazilika érintésével a múzeumba hajtunk. A rövid nappalok miatt pörgős tempót tartunk.",
             "ro": "Un început geros în piață. Vântul în timpul deplasării pe lângă hambare este înghețat, dar vizibilitatea e clară. Pedalăm prin pajiștile înzăpezite spre cetate, unde liniștea iernii este impresionantă. Pentru încălzire, mergem după-amiaza la turnul Klimek, apoi la bazilică și muzeu. Zilele scurte impun un ritm rapid.",
-            "en": "A frosty start at the market. The headwind by the Vistula at the granaries is icy, but the view is clear. We cycle through snowy meadows to the Citadel, where the winter silence is impressive. To warm up in the afternoon, we head via Klimek Tower to the Basilica and finally the Museum. Short days require a brisk pace."
+            "en": "A frosty start at the market. The headwind by the Vistula at the granaries is icy, but the view is clear. We cycle through snowy meadows to the Citadel, where the winter silence is impressive. To warm up in the afternoon, we head via Klimek Tower to the Basilica and finally the Museum. Short days require a brisk pace.",
+            "pl": "Mroźny start na rynku. Silny wiatr znad Wisły przy spichrzach jest lodowaty, ale widok jest klarowny. Przejeżdżamy przez zaśnieżone łąki do Twierdzy, gdzie zimowa cisza robi wrażenie. Popołudniu, by się rozgrzać, jedziemy przez Wieżę Klimek do Bazyliki, a na koniec do Muzeum. Krótkie dni wymagają żwawego tempa."
           },
           "stops": [
             {
@@ -909,7 +995,8 @@
                 "de": "Handschuhe beim Start nicht vergessen; die Metallgriffe sind eiskalt.",
                 "hu": "Ne feledje a kesztyűt; a fém kormány nagyon hideg.",
                 "ro": "Nu uitați mănușile; mânerele metalice sunt înghețate.",
-                "en": "Don't forget gloves; the metal handlebars are freezing."
+                "en": "Don't forget gloves; the metal handlebars are freezing.",
+                "pl": "Nie zapomnij rękawic — metalowe kierownice są lodowate."
               }
             },
             {
@@ -918,7 +1005,8 @@
                 "de": "Der Wind vom Fluss kann die gefühlte Temperatur stark senken.",
                 "hu": "A folyó felőli szél jelentősen csökkentheti a hőérzetet.",
                 "ro": "Vântul de pe râu poate scădea considerabil temperatura resimțită.",
-                "en": "The wind from the river can significantly lower the perceived temperature."
+                "en": "The wind from the river can significantly lower the perceived temperature.",
+                "pl": "Wiatr od rzeki znacznie obniża odczuwalną temperaturę."
               }
             },
             {
@@ -927,7 +1015,8 @@
                 "de": "Bei Schnee ist die Wegführung manchmal schwer zu erkennen.",
                 "hu": "Hóban az utak nyomvonala néha nehezen látható.",
                 "ro": "Pe zăpadă, traseul poate fi uneori greu de identificat.",
-                "en": "In snow, the path layout can sometimes be hard to see."
+                "en": "In snow, the path layout can sometimes be hard to see.",
+                "pl": "Pod śniegiem układ ścieżek czasem bywa trudno rozpoznawalny."
               }
             },
             {
@@ -936,7 +1025,8 @@
                 "de": "Das Gelände ist weitläufig und sehr exponiert; warm anziehen.",
                 "hu": "A terep tágas és nagyon nyitott; öltözzön nagyon melegen.",
                 "ro": "Terenul este vast și foarte expus; îmbrăcați-vă gros.",
-                "en": "The area is vast and very exposed; dress very warmly."
+                "en": "The area is vast and very exposed; dress very warmly.",
+                "pl": "Obszar jest rozległy i bardzo odsłonięty; ubierz się bardzo ciepło."
               }
             },
             {
@@ -945,7 +1035,8 @@
                 "de": "Vorsicht vor vereisten Stellen auf der Zufahrt zum Burgberg.",
                 "hu": "Vigyázzon a jeges szakaszokra a várhegyre vezető úton.",
                 "ro": "Atenție la porțiunile înghețate de pe drumul spre dealul castelului.",
-                "en": "Watch out for icy patches on the approach to the castle hill."
+                "en": "Watch out for icy patches on the approach to the castle hill.",
+                "pl": "Uważaj na oblodzone miejsca przy podejściu do wzgórza zamkowego."
               }
             },
             {
@@ -954,7 +1045,8 @@
                 "de": "Nutzen Sie die Kirchenpause, um die Finger wieder zu spüren.",
                 "hu": "Használja ki a templomi pihenőt, hogy újra érezze az ujjait.",
                 "ro": "Folosiți pauza la biserică pentru a vă dezmorți degetele.",
-                "en": "Use the church break to get the feeling back in your fingers."
+                "en": "Use the church break to get the feeling back in your fingers.",
+                "pl": "Wykorzystaj przerwę przy kościele, by odzyskać czucie w palcach."
               }
             },
             {
@@ -963,7 +1055,8 @@
                 "de": "Idealer Endpunkt, um sich vor der Heimfahrt komplett aufzuwärmen.",
                 "hu": "Ideális végpont a teljes felmelegedéshez a hazaindulás előtt.",
                 "ro": "Punct final ideal pentru a vă încălzi complet înainte de plecare.",
-                "en": "Ideal end point to fully warm up before heading home."
+                "en": "Ideal end point to fully warm up before heading home.",
+                "pl": "Idealne miejsce, by w pełni się rozgrzać przed powrotem do domu."
               }
             }
           ],
@@ -995,6 +1088,13 @@
               "Avoid riding through deep, uncleared snow on the meadows.",
               "Drink warm beverages periodically to maintain body temperature.",
               "Winter tires or lower tire pressure help on slippery surfaces."
+            ],
+            "pl": [
+              "Upewnij się, że światła roweru działają bez zarzutu.",
+              "Wiatr wzdłuż Wisły jest szczególnie przenikliwy zimą.",
+              "Unikaj jazdy przez głęboki, nieodśnieżony śnieg na łąkach.",
+              "Okresowo pij ciepłe napoje, by utrzymać temperaturę ciała.",
+              "Opony zimowe lub obniżone ciśnienie pomagają na śliskich nawierzchniach."
             ]
           }
         }
@@ -1013,7 +1113,8 @@
             "de": "Zitadelle Grudziądz",
             "hu": "Grudziądzi Citadella",
             "ro": "Cetatea Grudziądz",
-            "en": "Grudziądz Citadel"
+            "en": "Grudziądz Citadel",
+            "pl": "Twierdza Grudziądz"
           },
           "coords": [
             18.758,
@@ -1029,7 +1130,8 @@
             "de": "Parken Sie hier und nehmen Sie sich Zeit, das riesige Festungsgelände zu erkunden.",
             "hu": "Parkoljon le, és szánjon időt a hatalmas erődítmény területének felfedezésére.",
             "ro": "Parcați aici și acordați-vă timp pentru a explora vastul teren al cetății.",
-            "en": "Park here and take your time to explore the vast fortress grounds."
+            "en": "Park here and take your time to explore the vast fortress grounds.",
+            "pl": "Zaparkuj tutaj i poświęć czas na zwiedzanie rozległego terenu twierdzy."
           }
         },
         {
@@ -1037,7 +1139,8 @@
             "de": "Klimek-Turm",
             "hu": "Klimek-torony",
             "ro": "Turnul Klimek",
-            "en": "Klimek Tower"
+            "en": "Klimek Tower",
+            "pl": "Wieża Klimek"
           },
           "coords": [
             18.753,
@@ -1053,7 +1156,8 @@
             "de": "Vom Zitadellenhügel ein kurzer Spaziergang zum wiederaufgebauten Turm.",
             "hu": "A citadella dombjáról egy rövid séta a wiederaufgebauten toronyhoz.",
             "ro": "De pe dealul cetății, o scurtă plimbare până la turnul reconstruit.",
-            "en": "From the citadel hill, a short walk to the rebuilt tower."
+            "en": "From the citadel hill, a short walk to the rebuilt tower.",
+            "pl": "Ze wzgórza twierdzy krótki spacer do odbudowanej wieży."
           }
         },
         {
@@ -1061,7 +1165,8 @@
             "de": "Parkplatz Altstadt",
             "hu": "Óvárosi parkoló",
             "ro": "Parcare Centrul Vechi",
-            "en": "Old Town Parking"
+            "en": "Old Town Parking",
+            "pl": "Parking na Starym Mieście"
           },
           "coords": [
             18.758,
@@ -1077,7 +1182,8 @@
             "de": "Stellen Sie Ihr Auto hier für den Rest des Tages ab und erkunden Sie die Innenstadt zu Fuß.",
             "hu": "Hagyja itt az autóját a nap hátralévő részére, és fedezze fel a belvárost gyalog.",
             "ro": "Lăsați mașina aici pentru restul zilei și explorați centrul orașului pe jos.",
-            "en": "Leave your car here for the rest of the day and explore the city center on foot."
+            "en": "Leave your car here for the rest of the day and explore the city center on foot.",
+            "pl": "Zostaw samochód tutaj na resztę dnia i zwiedzaj centrum miasta pieszo."
           }
         },
         {
@@ -1085,7 +1191,8 @@
             "de": "Marktplatz (Rynek)",
             "hu": "Piactér (Rynek)",
             "ro": "Piața Centrală (Rynek)",
-            "en": "Market Square (Rynek)"
+            "en": "Market Square (Rynek)",
+            "pl": "Rynek (Market Square)"
           },
           "coords": [
             18.755,
@@ -1101,7 +1208,8 @@
             "de": "Der perfekte Ort, um einen Mittagsimbiss zu finden.",
             "hu": "Tökéletes hely egy ebédre.",
             "ro": "Locul perfect pentru a găsi o gustare de prânz.",
-            "en": "The perfect place to find a lunch snack."
+            "en": "The perfect place to find a lunch snack.",
+            "pl": "Idealne miejsce na przekąskę w porze lunchu."
           }
         },
         {
@@ -1109,7 +1217,8 @@
             "de": "Museum in Grudziądz",
             "hu": "Grudziądzi Múzeum",
             "ro": "Muzeul din Grudziądz",
-            "en": "Museum in Grudziądz"
+            "en": "Museum in Grudziądz",
+            "pl": "Muzeum w Grudziądzu"
           },
           "coords": [
             18.7545,
@@ -1125,7 +1234,8 @@
             "de": "Ein Muss für Geschichtsinteressierte, direkt neben dem Marktplatz.",
             "hu": "Történelem iránt érdeklődőknek kötelező, közvetlenül a főtér mellett.",
             "ro": "O necesitate pentru pasionații de istorie, chiar lângă piață.",
-            "en": "A must for history buffs, right next to the market square."
+            "en": "A must for history buffs, right next to the market square.",
+            "pl": "Pozycja obowiązkowa dla miłośników historii, tuż obok rynku."
           }
         },
         {
@@ -1133,7 +1243,8 @@
             "de": "Speicher an der Weichsel",
             "hu": "Visztula-parti magtárak",
             "ro": "Grânarele de pe Vistula",
-            "en": "Granaries on the Vistula"
+            "en": "Granaries on the Vistula",
+            "pl": "Spichlerze nad Wisłą"
           },
           "coords": [
             18.75,
@@ -1149,7 +1260,8 @@
             "de": "Machen Sie einen Spaziergang entlang des Flusses, um die berühmte Skyline zu bewundern.",
             "hu": "Sétáljon egyet a folyó mentén, hogy megcsodálja a híres városképet.",
             "ro": "Faceți o plimbare de-a lungul râului pentru a admira faimoasa panoramă.",
-            "en": "Take a walk along the river to admire the famous skyline."
+            "en": "Take a walk along the river to admire the famous skyline.",
+            "pl": "Przejdź się wzdłuż rzeki, by podziwiać słynną panoramę."
           }
         },
         {
@@ -1157,7 +1269,8 @@
             "de": "Weichselauen (Błonia Nadwiślańskie)",
             "hu": "Visztula-menti rét (Błonia Nadwiślańskie)",
             "ro": "Pajiștile Vistulei (Błonia Nadwiślańskie)",
-            "en": "Vistula Meadows (Błonia Nadwiślańskie)"
+            "en": "Vistula Meadows (Błonia Nadwiślańskie)",
+            "pl": "Błonia Nadwiślańskie (Vistula Meadows)"
           },
           "coords": [
             18.745,
@@ -1173,7 +1286,8 @@
             "de": "Fahren Sie zum Abschluss des Tages hierher, um sich zu entspannen und die Natur zu genießen.",
             "hu": "A nap végén vezessen ide, hogy pihenjen és élvezze a természetet.",
             "ro": "Conduceți aici la sfârșitul zilei pentru a vă relaxa și a vă bucura de natură.",
-            "en": "Drive here at the end of the day to relax and enjoy nature."
+            "en": "Drive here at the end of the day to relax and enjoy nature.",
+            "pl": "Przyjedź tu pod koniec dnia, by odpocząć i cieszyć się przyrodą."
           }
         }
       ],
@@ -1181,7 +1295,8 @@
         "de": "Beginnen Sie Ihren Tag mit dem Auto bei der imposanten Zitadelle (Cluster 1). Nach der Erkundung fahren Sie zu einem zentralen Parkplatz (Cluster 2) und entdecken den Marktplatz, das Museum und die berühmten Speicher zu Fuß. Für eine entspannte Auszeit am Nachmittag fahren Sie zu den weitläufigen Weichselauen (Cluster 3), ein perfekter Abschluss Ihres Besuchs.",
         "hu": "Kezdje a napot autóval a lenyűgöző Citadellánál (1. csoport). A felfedezés után hajtson egy központi parkolóba (2. csoport), és fedezze fel gyalog a Piacteret, a múzeumot és a híres magtárakat. Egy pihentető délutáni kikapcsolódáshoz hajtson a tágas Visztula-menti rétre (3. csoport), amely tökéletes lezárása a látogatásnak.",
         "ro": "Începeți ziua cu mașina la impunătoarea Cetate (Cluster 1). După explorare, conduceți la o parcare centrală (Cluster 2) și descoperiți Piața, muzeul și faimoasele grânare pe jos. Pentru o pauză relaxantă după-amiaza, conduceți la întinsele Pajiști ale Vistulei (Cluster 3), o încheiere perfectă a vizitei dumneavoastră.",
-        "en": "Start your day by car at the imposing Citadel (Cluster 1). After exploring, drive to a central parking lot (Cluster 2) and discover the Market Square, the museum, and the famous granaries on foot. For a relaxing afternoon break, drive to the expansive Vistula Meadows (Cluster 3), a perfect end to your visit."
+        "en": "Start your day by car at the imposing Citadel (Cluster 1). After exploring, drive to a central parking lot (Cluster 2) and discover the Market Square, the museum, and the famous granaries on foot. For a relaxing afternoon break, drive to the expansive Vistula Meadows (Cluster 3), a perfect end to your visit.",
+        "pl": "Rozpocznij dzień samochodem przy imponującej Cytadeli (Cluster 1). Po zwiedzaniu pojedź na centralny parking (Cluster 2) i odkryj Rynek, muzeum oraz słynne spichrze pieszo. Na relaksujące popołudnie pojedź na rozległe Błonia Nadwiślańskie (Cluster 3) — doskonałe zakończenie wizyty."
       },
       "gastro_picks": {
         "de": [
@@ -1285,6 +1400,11 @@
           "Parking in the city center can be difficult; use the designated parking lots.",
           "Plan enough time for the Citadel.",
           "Driving between clusters is more efficient than looking for parking at each individual attraction."
+        ],
+        "pl": [
+          "Parkowanie w centrum miasta bywa trudne; korzystaj z wyznaczonych parkingów.",
+          "Zaplanuj wystarczająco dużo czasu na Cytadelę.",
+          "Jazda autem między klastrami jest wydajniejsza niż szukanie miejsca przy każdej atrakcji."
         ]
       },
       "variants": {
@@ -1293,7 +1413,8 @@
             "de": "Ein bequemer Start bei Regen an der Zitadelle. Mit dem Auto erreichen wir den Klimek-Turm und parken nah an der Altstadt. Den nassen Vormittag verbringen wir trocken auf dem Marktplatz und im Museum. Nachmittags fahren wir zu den Speichern, wo wir die Aussicht genießen, ohne nass zu werden. Den Abschluss bildet eine Fahrt zu den Weichselwiesen im Schutz des Wagens.",
             "hu": "Kényelmes, esős kezdés a Citadellánál. Autóval könnyen elérjük a Klimek-tornyot, majd az óváros közelében parkolunk. A vizes délelőttöt szárazon töltjük a főtéren és a múzeumban. Délután a magtárakhoz hajtunk, élvezve a kilátást anélkül, hogy bőrig áznánk. A napot a Visztula-menti réteknél zárjuk az autó oltalmában.",
             "ro": "Un început confortabil pe ploaie la cetate. Cu mașina ajungem ușor la turnul Klimek și parcăm aproape de centrul vechi. Dimineața ploioasă o petrecem la uscat în piață și la muzeu. După-amiaza mergem la hambare, admirând priveliștea fără să ne udăm. Încheiem ziua cu o plimbare spre pajiștile Vistulei.",
-            "en": "A comfortable rainy start at the Citadel. By car, we easily reach Klimek Tower and park near the old town. We spend the wet morning dry at the Market Square and the museum. In the afternoon, we drive to the granaries, enjoying the view without getting soaked. The day ends with a drive to the Vistula meadows in the shelter of the car."
+            "en": "A comfortable rainy start at the Citadel. By car, we easily reach Klimek Tower and park near the old town. We spend the wet morning dry at the Market Square and the museum. In the afternoon, we drive to the granaries, enjoying the view without getting soaked. The day ends with a drive to the Vistula meadows in the shelter of the car.",
+            "pl": "Komfortowy, deszczowy początek na Cytadeli. Samochodem łatwo dojeżdżamy do Wieży Klimek i parkujemy blisko starego miasta. Mokre przedpołudnie spędzamy pod dachem na Rynku i w muzeum. Po południu jedziemy do spichrzów, podziwiając widok bez zamoknięcia. Dzień kończy się przejazdem na Błonia Nadwiślańskie, korzystając z ochrony samochodu."
           },
           "stops": [
             {
@@ -1302,7 +1423,8 @@
                 "de": "Parken Sie nah am Eingang, um den Weg im Regen zu verkürzen.",
                 "hu": "Parkoljon közel a bejárathoz, hogy lerövidítse az utat az esőben.",
                 "ro": "Parcați aproape de intrare pentru a scurta drumul prin ploaie.",
-                "en": "Park close to the entrance to shorten the walk in the rain."
+                "en": "Park close to the entrance to shorten the walk in the rain.",
+                "pl": "Parkuj blisko wejścia, by skrócić spacer w deszczu."
               }
             },
             {
@@ -1311,7 +1433,8 @@
                 "de": "Die Zufahrtsstraße kann bei starkem Regen Bäche bilden.",
                 "hu": "A bekötőúton heves esőzéskor vízátfolyások alakulhatnak ki.",
                 "ro": "Drumul de acces poate forma șuvoaie în timpul ploilor torențiale.",
-                "en": "The access road can form streams during heavy rain."
+                "en": "The access road can form streams during heavy rain.",
+                "pl": "Droga dojazdowa może tworzyć cieki wodne podczas ulewy."
               }
             },
             {
@@ -1320,7 +1443,8 @@
                 "de": "Suchen Sie einen Platz mit befestigtem Untergrund gegen Schlamm.",
                 "hu": "Keressen szilárd burkolatú helyet a sár elkerülése érdekében.",
                 "ro": "Căutați un loc cu suprafață pavată pentru a evita noroiul.",
-                "en": "Find a spot with paved ground to avoid mud."
+                "en": "Find a spot with paved ground to avoid mud.",
+                "pl": "Znajdź miejsce na utwardzonym podłożu, by uniknąć błota."
               }
             },
             {
@@ -1329,7 +1453,8 @@
                 "de": "Nur wenige Gehminuten vom Parkplatz im Schutz der Häuser.",
                 "hu": "Csak pár perc séta a parkolótól a házak oltalma alatt.",
                 "ro": "La doar câteva minute de mers de la parcare, sub protecția caselor.",
-                "en": "Just a few minutes' walk from the parking under the shelter of houses."
+                "en": "Just a few minutes' walk from the parking under the shelter of houses.",
+                "pl": "Zaledwie kilka minut pieszo od parkingu, pod osłoną kamienic."
               }
             },
             {
@@ -1338,7 +1463,8 @@
                 "de": "Perfekt, um das Auto während des Museumsbesuchs stehen zu lassen.",
                 "hu": "Tökéletes, ha a múzeumlátogatás alatt a parkolóban hagyja az autót.",
                 "ro": "Perfect pentru a lăsa mașina în parcare în timpul vizitei la muzeu.",
-                "en": "Perfect to leave the car in the parking during the museum visit."
+                "en": "Perfect to leave the car in the parking during the museum visit.",
+                "pl": "Idealne miejsce, by zostawić samochód na czas wizyty w muzeum."
               }
             },
             {
@@ -1347,7 +1473,8 @@
                 "de": "Einige Parkmöglichkeiten bieten einen direkten Blick auf die Speicher.",
                 "hu": "Néhány parkolóhelyről közvetlen kilátás nyílik a magtárakra.",
                 "ro": "Unele locuri de parcare oferă o vedere directă spre hambare.",
-                "en": "Some parking spots offer a direct view of the granaries."
+                "en": "Some parking spots offer a direct view of the granaries.",
+                "pl": "Z niektórych miejsc parkingowych rozciąga się bezpośredni widok na spichrze."
               }
             },
             {
@@ -1356,7 +1483,8 @@
                 "de": "Vom Parkplatz aus kann man den Fluss auch aus dem Auto beobachten.",
                 "hu": "A parkolóból az autóból is megfigyelhető a folyó.",
                 "ro": "De în parcare, râul poate fi observat direct din mașină.",
-                "en": "The river can be observed from the car in the parking area."
+                "en": "The river can be observed from the car in the parking area.",
+                "pl": "Rzekę można obserwować z samochodu na terenie parkingu."
               }
             }
           ],
@@ -1388,6 +1516,13 @@
               "Watch out for deep puddles on unpaved access roads to the Citadel.",
               "Keep your umbrella handy in the passenger compartment.",
               "Main roads in Grudziądz are well-traversable in the rain."
+            ],
+            "pl": [
+              "W czasie ulewy widoczność może być ograniczona przez Wisłę.",
+              "Korzystaj z parkingów przy dzielnicy spichrzów, by mieć krótkie dojścia piesze.",
+              "Uważaj na głębokie kałuże na nieutwardzonych dojazdach do Cytadeli.",
+              "Miej parasol pod ręką w kabinie pasażera.",
+              "Główne drogi w Grudziądzu są dobrze przejezdne podczas deszczu."
             ]
           }
         },
@@ -1396,7 +1531,8 @@
             "de": "Ein frostiger Start an der Zitadelle. Das Auto bietet Wärme zwischen den historischen Stationen wie dem Klimek-Turm. Nach dem Parken an der Altstadt erkunden wir den winterlichen Markt und das Museum. Die Speicherstadt im Schnee ist ein Highlight, bevor wir am späten Nachmittag zu den Weichselwiesen fahren. Die Sitzheizung ist nach den Fotostopps ein Segen.",
             "hu": "Deres kezdés a Citadellánál. Az autó meleget ad a történelmi állomások, például a Klimek-torony között. Az óvárosi parkolás után felfedezzük a téli főteret és a múzeumot. A havas magtárak látványa lenyűgöző, mielőtt késő délután a Visztula-partra hajtanánk. Az ülésfűtés igazi áldás a fotós megállók után.",
             "ro": "Un început geros la cetate. Mașina oferă căldură între stațiile istorice, cum ar fi turnul Klimek. După parcarea în centrul vechi, explorăm piața hibernală și muzeul. Hambarele înzăpezite sunt punctul culminant, înainte de a merge spre pajiștile Vistulei. Încălzirea în scaune este o binecuvântare după opririle foto.",
-            "en": "A frosty start at the Citadel. The car provides warmth between historic stops like Klimek Tower. After parking at the old town, we explore the winter market and the museum. The granary district in the snow is a highlight before driving to the Vistula meadows in the late afternoon. Seat heating is a blessing after photo stops."
+            "en": "A frosty start at the Citadel. The car provides warmth between historic stops like Klimek Tower. After parking at the old town, we explore the winter market and the museum. The granary district in the snow is a highlight before driving to the Vistula meadows in the late afternoon. Seat heating is a blessing after photo stops.",
+            "pl": "Mroźny początek na Cytadeli. Samochód daje ciepło między zabytkami, jak Wieża Klimek. Po zaparkowaniu w starej części miasta zwiedzamy jarmark zimowy i muzeum. Dzielnica spichrzów w śniegu to atrakcja, zanim pojedziemy na Błonia Nadwiślańskie późnym popołudniem. Podgrzewane fotele to błogosławieństwo po przystankach na zdjęcia."
           },
           "stops": [
             {
@@ -1405,7 +1541,8 @@
                 "de": "Heizung vor dem Verlassen des Wagens voll aufdrehen.",
                 "hu": "Tekerje fel a fűtést, mielőtt kiszállna az autóból.",
                 "ro": "Dați căldura la maximum înainte de a părăsi mașina.",
-                "en": "Turn up the heat before leaving the car."
+                "en": "Turn up the heat before leaving the car.",
+                "pl": "Włącz ogrzewanie przed odjazdem z auta."
               }
             },
             {
@@ -1414,7 +1551,8 @@
                 "de": "Die Auffahrt kann bei Glätte für Zweiradantrieb schwierig sein.",
                 "hu": "A feljáró csúszós úton nehéz lehet kétkerék-meghajtású autóknak.",
                 "ro": "Urcarea poate fi dificilă pentru mașinile cu tracțiune spate pe polei.",
-                "en": "The climb can be difficult for two-wheel drive cars on icy roads."
+                "en": "The climb can be difficult for two-wheel drive cars on icy roads.",
+                "pl": "Wspinaczka może być trudna dla aut z napędem na jedną oś na oblodzonych drogach."
               }
             },
             {
@@ -1423,7 +1561,8 @@
                 "de": "Achten Sie auf gefrorene Schneehaufen an den Parkplatzrändern.",
                 "hu": "Ügyeljen a fagyott hókupacokra a parkoló szélén.",
                 "ro": "Atenție la mormanele de zăpadă înghețată de la marginea parcării.",
-                "en": "Watch out for frozen snow piles at the edges of the parking lot."
+                "en": "Watch out for frozen snow piles at the edges of the parking lot.",
+                "pl": "Uważaj na zamarznięte hałdy śniegu przy krawędziach parkingu."
               }
             },
             {
@@ -1432,7 +1571,8 @@
                 "de": "Kurze Wege zwischen den beheizten Geschäften und Cafés.",
                 "hu": "Rövid távolságok a fűtött üzletek és kávézók között.",
                 "ro": "Distanțe scurte între magazinele și cafenelele încălzite.",
-                "en": "Short distances between heated shops and cafés."
+                "en": "Short distances between heated shops and cafés.",
+                "pl": "Krótkie odległości między ogrzanymi sklepami i kawiarniami."
               }
             },
             {
@@ -1441,7 +1581,8 @@
                 "de": "Guter Ort, um die Kälte für eine längere Zeit zu vergessen.",
                 "hu": "Jó hely, ahol hosszabb időre elfelejtheti a hideget.",
                 "ro": "Un loc bun pentru a uita de frig pentru o perioadă mai lungă.",
-                "en": "A good place to forget about the cold for a longer period."
+                "en": "A good place to forget about the cold for a longer period.",
+                "pl": "Dobre miejsce, by dłużej zapomnieć o chłodzie."
               }
             },
             {
@@ -1450,7 +1591,8 @@
                 "de": "Bester Fotopunkt ist oft direkt von der Straße aus erreichbar.",
                 "hu": "A legjobb fotópont gyakran közvetlenül az útról elérhető.",
                 "ro": "Cel mai bun punct foto este adesea accesibil direct din stradă.",
-                "en": "The best photo spot is often accessible directly from the road."
+                "en": "The best photo spot is often accessible directly from the road.",
+                "pl": "Najlepsze miejsce do zdjęć często jest dostępne bezpośrednio z drogi."
               }
             },
             {
@@ -1459,7 +1601,8 @@
                 "de": "Lassen Sie den Motor nicht unnötig im Stand laufen.",
                 "hu": "Ne járassa feleslegesen a motort álló helyzetben.",
                 "ro": "Nu lăsați motorul pornit inutil în staționare.",
-                "en": "Do not leave the engine idling unnecessarily while stationary."
+                "en": "Do not leave the engine idling unnecessarily while stationary.",
+                "pl": "Nie zostawiaj silnika na luzie bez potrzeby podczas postoju."
               }
             }
           ],
@@ -1491,6 +1634,13 @@
               "Clear snow thoroughly from the roof before driving off.",
               "Indoor parking garages protect windshields from freezing over.",
               "Keep in mind the shorter daylight hours for out-of-town trips."
+            ],
+            "pl": [
+              "Upewnij się, że płyn do spryskiwaczy jest odporny na mróz.",
+              "Strome drogi w dół nad Wisłę mogą być śliskie jak lód.",
+              "Dokładnie usuń śnieg z dachu przed odjazdem.",
+              "Hale garażowe chronią przed zamarzaniem szyb przedniej szyby.",
+              "Pamiętaj o krótszych godzinach dnia przy wyjazdach poza miasto."
             ]
           }
         }
@@ -1509,7 +1659,8 @@
             "de": "Zitadelle Grudziądz",
             "hu": "Grudziądzi Citadella",
             "ro": "Cetatea Grudziądz",
-            "en": "Grudziądz Citadel"
+            "en": "Grudziądz Citadel",
+            "pl": "Cytadela Grudziądzka"
           },
           "coords": [
             18.758,
@@ -1525,7 +1676,8 @@
             "de": "Nehmen Sie einen Bus vom Stadtzentrum hierher. Kaufen Sie eine Tageskarte.",
             "hu": "Menjen busszal a városközpontból. Érdemes napijegyet venni.",
             "ro": "Luați un autobuz din centrul orașului până aici. Cumpărați un bilet de o zi.",
-            "en": "Take a bus from the city center here. Buy a day ticket."
+            "en": "Take a bus from the city center here. Buy a day ticket.",
+            "pl": "Z centrum miasta jedź tu autobusem. Kup bilet całodniowy."
           }
         },
         {
@@ -1533,7 +1685,8 @@
             "de": "Klimek-Turm",
             "hu": "Klimek-torony",
             "ro": "Turnul Klimek",
-            "en": "Klimek Tower"
+            "en": "Klimek Tower",
+            "pl": "Wieża Klimek"
           },
           "coords": [
             18.753,
@@ -1549,7 +1702,8 @@
             "de": "Ein kurzer Spaziergang bergab von der Zitadelle.",
             "hu": "Rövid séta lefelé a Citadellától.",
             "ro": "O scurtă plimbare la vale de la Cetate.",
-            "en": "A short walk downhill from the Citadel."
+            "en": "A short walk downhill from the Citadel.",
+            "pl": "Krótki spacer w dół ze Cytadeli."
           }
         },
         {
@@ -1557,7 +1711,8 @@
             "de": "Marktplatz (Rynek)",
             "hu": "Piactér (Rynek)",
             "ro": "Piața Centrală (Rynek)",
-            "en": "Market Square (Rynek)"
+            "en": "Market Square (Rynek)",
+            "pl": "Rynek (Market Square)"
           },
           "coords": [
             18.755,
@@ -1573,7 +1728,8 @@
             "de": "Nehmen Sie den Bus zurück ins Herz der Altstadt.",
             "hu": "Menjen vissza busszal az óváros szívébe.",
             "ro": "Luați autobuzul înapoi în inima orașului vechi.",
-            "en": "Take the bus back to the heart of the old town."
+            "en": "Take the bus back to the heart of the old town.",
+            "pl": "Wróć autobusem do serca starego miasta."
           }
         },
         {
@@ -1581,7 +1737,8 @@
             "de": "Museum in Grudziądz",
             "hu": "Grudziądzi Múzeum",
             "ro": "Muzeul din Grudziądz",
-            "en": "Museum in Grudziądz"
+            "en": "Museum in Grudziądz",
+            "pl": "Muzeum w Grudziądzu"
           },
           "coords": [
             18.7545,
@@ -1597,7 +1754,8 @@
             "de": "Nur wenige Schritte vom Marktplatz entfernt.",
             "hu": "Csak néhány lépésre a Piactértől.",
             "ro": "La doar câțiva pași de Piața Centrală.",
-            "en": "Just a few steps from the Market Square."
+            "en": "Just a few steps from the Market Square.",
+            "pl": "Zaledwie kilka kroków od Rynku."
           }
         },
         {
@@ -1605,7 +1763,8 @@
             "de": "Speicher an der Weichsel",
             "hu": "Visztula-parti magtárak",
             "ro": "Grânarele de pe Vistula",
-            "en": "Granaries on the Vistula"
+            "en": "Granaries on the Vistula",
+            "pl": "Spichlerze nad Wisłą"
           },
           "coords": [
             18.75,
@@ -1621,7 +1780,8 @@
             "de": "Der Spaziergang zum Flussufer ist erfrischend.",
             "hu": "A séta a folyópartra frissítő.",
             "ro": "Plimbarea până la malul râului este revigorantă.",
-            "en": "The walk to the riverbank is refreshing."
+            "en": "The walk to the riverbank is refreshing.",
+            "pl": "Spacer nad brzeg rzeki jest orzeźwiający."
           }
         },
         {
@@ -1629,7 +1789,8 @@
             "de": "Błonia Nadwiślańskie",
             "hu": "Visztula-menti rét",
             "ro": "Pajiștile Vistulei",
-            "en": "Vistula Meadows"
+            "en": "Vistula Meadows",
+            "pl": "Błonia Nadwiślańskie"
           },
           "coords": [
             18.745,
@@ -1645,7 +1806,8 @@
             "de": "Beenden Sie den Tag mit einem Spaziergang entlang des Flusses.",
             "hu": "Zárja a napot egy sétával a folyó mentén.",
             "ro": "Încheiați ziua cu o plimbare de-a lungul râului.",
-            "en": "End the day with a walk along the river."
+            "en": "End the day with a walk along the river.",
+            "pl": "Zakończ dzień spacerem wzdłuż rzeki."
           }
         }
       ],
@@ -1653,7 +1815,8 @@
         "de": "Nutzen Sie den Bus, um zur weitläufigen Zitadelle zu gelangen (Cluster 1). Erkunden Sie das Gelände und spazieren Sie zum Klimek-Turm. Fahren Sie mit dem Bus zurück in die Altstadt (Cluster 2), wo Sie den Marktplatz, das Museum und die berühmten Speicher zu Fuß entdecken können. Der Tag endet mit einem entspannten Spaziergang zu den nahegelegenen Weichselauen.",
         "hu": "Használja a buszt, hogy eljusson a tágas Citadellához (1. csoport). Fedezze fel a területet és sétáljon el a Klimek-toronyhoz. Utazzon vissza busszal az Óvárosba (2. csoport), ahol gyalog fedezheti fel a Piacteret, a múzeumot és a híres magtárakat. A nap egy pihentető sétával zárul a közeli Visztula-menti réten.",
         "ro": "Folosiți autobuzul pentru a ajunge la întinsa Cetate (Cluster 1). Explorați zona și plimbați-vă până la Turnul Klimek. Luați autobuzul înapoi în Orașul Vechi (Cluster 2), unde puteți descoperi pe jos Piața, muzeul și faimoasele grânare. Ziua se încheie cu o plimbare relaxantă la Pajiștile Vistulei din apropiere.",
-        "en": "Use the bus to get to the expansive Citadel (Cluster 1). Explore the grounds and walk to the Klimek Tower. Take the bus back to the Old Town (Cluster 2), where you can discover the Market Square, the museum, and the famous granaries on foot. The day ends with a relaxing walk to the nearby Vistula Meadows."
+        "en": "Use the bus to get to the expansive Citadel (Cluster 1). Explore the grounds and walk to the Klimek Tower. Take the bus back to the Old Town (Cluster 2), where you can discover the Market Square, the museum, and the famous granaries on foot. The day ends with a relaxing walk to the nearby Vistula Meadows.",
+        "pl": "Skorzystaj z autobusu, aby dotrzeć na rozległą Cytadelę (Cluster 1). Zwiedź teren i dojdziesz pieszo do Wieży Klimek. Wracaj autobusem do Starego Miasta (Cluster 2), gdzie pieszo odkryjesz Rynek, muzeum i słynne spichrze. Dzień zakończ relaksującym spacerem do pobliskich Błoni Nadwiślańskich."
       },
       "gastro_picks": {
         "de": [
@@ -1757,6 +1920,11 @@
           "A day ticket for the bus is often the cheapest option.",
           "Check the bus schedule in advance.",
           "Most buses are modern and accessible."
+        ],
+        "pl": [
+          "Bilet całodniowy na autobus to często najtańsza opcja.",
+          "Sprawdź rozkład jazdy autobusów z wyprzedzeniem.",
+          "Większość autobusów jest nowoczesna i dostępna dla wszystkich."
         ]
       },
       "variants": {
@@ -1765,7 +1933,8 @@
             "de": "Mit dem Bus geht es trocken zur Zitadelle. Danach bringt uns der Nahverkehr zum Klimek-Turm. Den regnerischen Mittag verbringen wir im Schutz der Altstadtgassen und des Museums. Die Fahrt zu den Speichern erfolgt bequem per Tram oder Bus. Den Abschluss bildet ein Besuch der Weichselwiesen, wobei wir die Wartezeiten an überdachten Haltestellen verbringen.",
             "hu": "Busszal szárazon jutunk el a Citadellához. Ezután a tömegközlekedés a Klimek-toronyhoz repít minket. Az esős délutánt az óvárosi utcák és a múzeum oltalmában töltjük. A magtárakhoz kényelmesen, villamossal vagy busszal jutunk el. A napot a Visztula-parton zárjuk, a várakozási időt fedett megállókban töltve.",
             "ro": "Mergem cu autobuzul la cetate, protejați de ploaie. Apoi, transportul public ne duce la turnul Klimek. Petrecem prânzul ploios sub protecția străzilor vechi și a muzeului. Călătoria spre hambare se face confortabil cu tramvaiul sau autobuzul. Încheiem ziua la pajiștile Vistulei, așteptând în stații acoperite.",
-            "en": "By bus, we reach the Citadel dry. Then public transport takes us to Klimek Tower. We spend the rainy midday protected by the old town streets and the museum. The trip to the granaries is comfortable by tram or bus. The day ends at the Vistula meadows, spending waiting times at covered stops."
+            "en": "By bus, we reach the Citadel dry. Then public transport takes us to Klimek Tower. We spend the rainy midday protected by the old town streets and the museum. The trip to the granaries is comfortable by tram or bus. The day ends at the Vistula meadows, spending waiting times at covered stops.",
+            "pl": "Autobusem suchą stopą docieramy na Cytadelę. Potem transport publiczny zabiera nas do Wieży Klimek. Deszczowe południe spędzamy chronieni przez ulice starego miasta i muzeum. Do spichrzów dojedziemy wygodnie tramwajem lub autobusem. Dzień kończy się na Błoniach Nadwiślańskich, czas oczekiwania spędzając na zadaszonych przystankach."
           },
           "stops": [
             {
@@ -1774,7 +1943,8 @@
                 "de": "Haltestellen sind oft ein Stück vom Eingang entfernt; Schirm nutzen.",
                 "hu": "A megállók gyakran messzebb vannak a bejárattól; használjon ernyőt.",
                 "ro": "Stațiile sunt adesea la distanță de intrare; folosiți umbrela.",
-                "en": "Stops are often a distance from the entrance; use an umbrella."
+                "en": "Stops are often a distance from the entrance; use an umbrella.",
+                "pl": "Przystanki bywają oddalone od wejścia; miej parasol."
               }
             },
             {
@@ -1783,7 +1953,8 @@
                 "de": "Die Tramlinie 2 bietet eine gute Anbindung in die Nähe des Burgbergs.",
                 "hu": "A 2-es villamosvonal jó összeköttetést biztosít a Várhegy közelébe.",
                 "ro": "Linia 2 de tramvai oferă o conexiune bună în apropierea dealului.",
-                "en": "Tram line 2 offers a good connection near the castle hill."
+                "en": "Tram line 2 offers a good connection near the castle hill.",
+                "pl": "Tramwaj linii 2 oferuje dobre połączenie przy wzgórzu zamkowym."
               }
             },
             {
@@ -1792,7 +1963,8 @@
                 "de": "Zentraler Knotenpunkt mit vielen überdachten Wartebereichen.",
                 "hu": "Központi csomópont számos fedett várakozóhellyel.",
                 "ro": "Nod central cu multe zone de așteptare acoperite.",
-                "en": "Central hub with many covered waiting areas."
+                "en": "Central hub with many covered waiting areas.",
+                "pl": "Węzeł centralny z wieloma zadaszonymi wiatami."
               }
             },
             {
@@ -1801,7 +1973,8 @@
                 "de": "Bushaltestelle fast direkt vor dem Eingang.",
                 "hu": "Buszmegálló szinte közvetlenül a bejárat előtt.",
                 "ro": "Stație de autobuz aproape direct în fața intrării.",
-                "en": "Bus stop almost directly in front of the entrance."
+                "en": "Bus stop almost directly in front of the entrance.",
+                "pl": "Przystanek autobusowy niemal bezpośrednio przed wejściem."
               }
             },
             {
@@ -1810,7 +1983,8 @@
                 "de": "Tramstationen entlang der Weichsel bieten Schutz beim Warten.",
                 "hu": "A Visztula menti villamosmegállók védelmet nyújtanak várakozáskor.",
                 "ro": "Stațiile de tramvai de-a lungul Vistulei oferă protecție.",
-                "en": "Tram stations along the Vistula offer shelter while waiting."
+                "en": "Tram stations along the Vistula offer shelter while waiting.",
+                "pl": "Stacje tramwajowe wzdłuż Wisły oferują schronienie podczas oczekiwania."
               }
             },
             {
@@ -1819,7 +1993,8 @@
                 "de": "Prüfen Sie die Rückfahrzeiten vorab per App, um Regen zu meiden.",
                 "hu": "Ellenőrizze előre a menetrendet appon, hogy elkerülje az esőben várást.",
                 "ro": "Verificați orarul în avans pe aplicație pentru a evita ploaia.",
-                "en": "Check return times in advance via app to avoid waiting in rain."
+                "en": "Check return times in advance via app to avoid waiting in rain.",
+                "pl": "Sprawdź godziny powrotu wcześniej w aplikacji, by nie czekać na deszczu."
               }
             }
           ],
@@ -1851,6 +2026,13 @@
               "Have change or a card ready for the ticket machines.",
               "Covered stops are more common in the city center than on the outskirts.",
               "Keep your wet umbrella closed while inside the bus or tram."
+            ],
+            "pl": [
+              "Korzystaj z aplikacji Grudziądz dla rozkładów w czasie rzeczywistym podczas deszczu.",
+              "Linia tramwajowa w Grudziądzu jest jedną z najstarszych w Polsce.",
+              "Miej drobne lub kartę gotową do biletomatów.",
+              "Zadaszone przystanki są częstsze w centrum niż na obrzeżach.",
+              "Zamykaj mokry parasol w autobusie lub tramwaju."
             ]
           }
         },
@@ -1859,7 +2041,8 @@
             "de": "Aufgewärmt im Bus zur Zitadelle starten. Der Wintermorgen führt uns per Tram zurück in die Altstadt zum Klimek-Turm. Mittags ist das Museum ein willkommener beheizter Stopp. Zu den Speichern geht es mit der Straßenbahn, wobei wir die winterliche Stadt aus dem Fenster beobachten. Der Abend endet nach einem kurzen Besuch der Weichselwiesen an einer warmen Haltestelle.",
             "hu": "Fűtött buszon utazunk a Citadellához. A téli reggelen villamossal térünk vissza az óvárosba, a Klimek-toronyhoz. Délben a múzeum szívesen látott meleg állomás. A magtárakhoz villamossal megyünk, az ablakból figyelve a téli várost. Az este a Visztula-parti séta után egy meleg megállóban ér véget.",
             "ro": "Începem ziua la căldură în autobuzul spre cetate. Dimineața de iarnă ne duce cu tramvaiul înapoi în centrul vechi la turnul Klimek. La prânz, muzeul este o oprire încălzită binevenită. Mergem la hambare cu tramvaiul, privind orașul hibernal pe fereastră. Seara se încheie la o stație călduroasă.",
-            "en": "Starting warmed up on the bus to the Citadel. The winter morning takes us back to the old town via tram to Klimek Tower. At midday, the museum is a welcome heated stop. We head to the granaries by tram, watching the winter city from the window. The evening ends at a warm stop after a short visit to the Vistula meadows."
+            "en": "Starting warmed up on the bus to the Citadel. The winter morning takes us back to the old town via tram to Klimek Tower. At midday, the museum is a welcome heated stop. We head to the granaries by tram, watching the winter city from the window. The evening ends at a warm stop after a short visit to the Vistula meadows.",
+            "pl": "Rozpoczynamy rozgrzani autobusem na Cytadelę. Zimą wracamy tramwajem do starego miasta i do Wieży Klimek. W południe muzeum jest mile widzianym, ogrzanym przystankiem. Do spichrzów jedziemy tramwajem, oglądając zimowe miasto zza okna. Wieczór kończy się na ciepłym przystanku po krótkiej wizycie na Błoniach Nadwiślańskich."
           },
           "stops": [
             {
@@ -1868,7 +2051,8 @@
                 "de": "Busse fahren im Winter seltener; Fahrplan genau prüfen.",
                 "hu": "A buszok télen ritkábban járhatnak; ellenőrizze pontosan a menetrendet.",
                 "ro": "Autobuzele circulă mai rar iarna; verificați orarul cu atenție.",
-                "en": "Buses run less frequently in winter; check the schedule carefully."
+                "en": "Buses run less frequently in winter; check the schedule carefully.",
+                "pl": "Autobusy kursują rzadziej zimą; sprawdź rozkład dokładnie."
               }
             },
             {
@@ -1877,7 +2061,8 @@
                 "de": "Die Tramhaltestelle liegt unten am Berg; ein kurzer, steiler Aufstieg.",
                 "hu": "A villamosmegálló a domb alján van; rövid, meredek emelkedő.",
                 "ro": "Stația de tramvai este la baza dealului; o urcare scurtă și abruptă.",
-                "en": "The tram stop is at the base of the hill; a short, steep climb."
+                "en": "The tram stop is at the base of the hill; a short, steep climb.",
+                "pl": "Przystanek tramwajowy znajduje się u podnóża wzgórza; krótki, stromy podbieg."
               }
             },
             {
@@ -1886,7 +2071,8 @@
                 "de": "Idealer Ort zum Umsteigen und Aufwärmen in einem nahen Laden.",
                 "hu": "Ideális hely az átszállásra és melegedésre egy közeli boltban.",
                 "ro": "Loc ideal pentru transfer și încălzire într-un magazin apropiat.",
-                "en": "Ideal place for transferring and warming up in a nearby shop."
+                "en": "Ideal place for transferring and warming up in a nearby shop.",
+                "pl": "Idealne miejsce na przesiadkę i rozgrzanie się w pobliskim sklepie."
               }
             },
             {
@@ -1895,7 +2081,8 @@
                 "de": "Nutzen Sie die Zeit im Warmen, während Sie auf den nächsten Bus warten.",
                 "hu": "Használja ki az időt a melegben, amíg a következő buszra vár.",
                 "ro": "Folosiți timpul la căldură în timp ce așteptați următorul autobuz.",
-                "en": "Utilize the time in the warmth while waiting for the next bus."
+                "en": "Utilize the time in the warmth while waiting for the next bus.",
+                "pl": "Wykorzystaj czas w cieple, czekając na następny autobus."
               }
             },
             {
@@ -1904,7 +2091,8 @@
                 "de": "Die Tramfahrt bietet eine tolle Panorama-Aussicht auf die Speicher.",
                 "hu": "A villamosozás remek panorámát kínál a magtárakra.",
                 "ro": "Călătoria cu tramvaiul oferă o panoramă excelentă asupra hambarelor.",
-                "en": "The tram ride offers a great panoramic view of the granaries."
+                "en": "The tram ride offers a great panoramic view of the granaries.",
+                "pl": "Przejazd tramwajem oferuje świetny panoramiczny widok na spichrze."
               }
             },
             {
@@ -1913,7 +2101,8 @@
                 "de": "Vermeiden Sie langes Warten im Wind; nutzen Sie die App-Auskunft.",
                 "hu": "Kerülje a hosszú várakozást a szélben; használja az appos tájékoztatást.",
                 "ro": "Evitați așteptarea lungă în vânt; folosiți informațiile din aplicație.",
-                "en": "Avoid long waits in the wind; use the app for information."
+                "en": "Avoid long waits in the wind; use the app for information.",
+                "pl": "Unikaj długiego stania na wietrze; używaj aplikacji do informacji."
               }
             }
           ],
@@ -1945,6 +2134,13 @@
               "Ticket machines may react slower in extreme cold.",
               "Tram line 2 passes very close to the tourist highlights.",
               "From 16:30, the illuminated granaries look great from the tram window."
+            ],
+            "pl": [
+              "Pojazdy transportu publicznego w Grudziądzu są dobrze ogrzewane zimą.",
+              "Uważaj na oblodzone stopnie przy wsiadaniu i wysiadaniu.",
+              "Biletyomaty mogą działać wolniej w skrajnych mrozach.",
+              "Tramwaj linii 2 prowadzi bardzo blisko najważniejszych atrakcji turystycznych.",
+              "Od 16:30 oświetlone spichrze wyglądają świetnie za oknem tramwaju."
             ]
           }
         }

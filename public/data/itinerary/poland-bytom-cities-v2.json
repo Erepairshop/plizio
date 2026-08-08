@@ -21,7 +21,8 @@
             "de": "Marktplatz",
             "hu": "Piactér",
             "ro": "Piața Centrală",
-            "en": "Market Square"
+            "en": "Market Square",
+            "pl": "Rynek"
           },
           "coords": [
             18.9221,
@@ -37,7 +38,8 @@
             "de": "Beginnen Sie Ihren Tag hier, um die Atmosphäre der Stadt aufzusaugen.",
             "hu": "Kezdje itt a napot, hogy magába szívja a város hangulatát.",
             "ro": "Începeți ziua aici pentru a absorbi atmosfera orașului.",
-            "en": "Start your day here to soak up the city's atmosphere."
+            "en": "Start your day here to soak up the city's atmosphere.",
+            "pl": "Rozpocznij dzień tutaj, aby poczuć atmosferę miasta."
           }
         },
         {
@@ -45,7 +47,8 @@
             "de": "Marienkirche",
             "hu": "Mária-templom",
             "ro": "Biserica Sf. Maria",
-            "en": "St. Mary's Church"
+            "en": "St. Mary's Church",
+            "pl": "Kościół Mariacki"
           },
           "coords": [
             18.9235,
@@ -61,7 +64,8 @@
             "de": "Achten Sie auf die gotischen Gewölbe und die beeindruckenden Glasfenster.",
             "hu": "Figyelje meg a gótikus boltozatokat és a lenyűgöző ólomüveg ablakokat.",
             "ro": "Observați bolțile gotice și vitraliile impresionante.",
-            "en": "Notice the Gothic vaults and the impressive stained-glass windows."
+            "en": "Notice the Gothic vaults and the impressive stained-glass windows.",
+            "pl": "Zwróć uwagę na gotyckie sklepienia i imponujące witraże."
           }
         },
         {
@@ -69,7 +73,8 @@
             "de": "Oberschlesisches Museum",
             "hu": "Felső-Sziléziai Múzeum",
             "ro": "Muzeul Sileziei Superioare",
-            "en": "Upper Silesian Museum"
+            "en": "Upper Silesian Museum",
+            "pl": "Muzeum Górnośląskie"
           },
           "coords": [
             18.925,
@@ -85,7 +90,8 @@
             "de": "Planen Sie genügend Zeit für die ethnografische Sammlung ein.",
             "hu": "Szánjon elég időt a néprajzi gyűjteményre.",
             "ro": "Planificați suficient timp pentru colecția etnografică.",
-            "en": "Allow plenty of time for the ethnographic collection."
+            "en": "Allow plenty of time for the ethnographic collection.",
+            "pl": "Przeznacz wystarczająco dużo czasu na kolekcję etnograficzną."
           }
         },
         {
@@ -93,7 +99,8 @@
             "de": "Schlesische Oper",
             "hu": "Sziléziai Opera",
             "ro": "Opera Sileziană",
-            "en": "Silesian Opera"
+            "en": "Silesian Opera",
+            "pl": "Opera Śląska"
           },
           "coords": [
             18.919,
@@ -109,7 +116,8 @@
             "de": "Bewundern Sie die neoklassizistische Fassade, auch wenn Sie keine Vorstellung besuchen.",
             "hu": "Csodálja meg a neoklasszicista homlokzatot, még ha nem is megy előadásra.",
             "ro": "Admirați fațada neoclasică, chiar dacă nu mergeți la un spectacol.",
-            "en": "Admire the neoclassical facade even if you're not attending a show."
+            "en": "Admire the neoclassical facade even if you're not attending a show.",
+            "pl": "Podziwiaj neoklasycystyczną fasadę, nawet jeśli nie jesteś na spektaklu."
           }
         },
         {
@@ -117,7 +125,8 @@
             "de": "Kachel-Stadtpark",
             "hu": "Kachel városi park",
             "ro": "Parcul Kachel",
-            "en": "Kachel City Park"
+            "en": "Kachel City Park",
+            "pl": "Park Miejski Kachel"
           },
           "coords": [
             18.915,
@@ -133,7 +142,8 @@
             "de": "Ein idealer Ort für eine Mittagspause und um dem Stadtlärm zu entfliehen.",
             "hu": "Ideális hely egy ebédszünetre és a városi zaj elől való menekülésre.",
             "ro": "Un loc ideal pentru o pauză de prânz și pentru a scăpa de zgomotul orașului.",
-            "en": "An ideal spot for a lunch break and to escape the city noise."
+            "en": "An ideal spot for a lunch break and to escape the city noise.",
+            "pl": "Idealne miejsce na przerwę na lunch i ucieczkę od miejskiego zgiełku."
           }
         },
         {
@@ -141,7 +151,8 @@
             "de": "Dreifaltigkeitskirche",
             "hu": "Szentháromság-templom",
             "ro": "Biserica Sfânta Treime",
-            "en": "Holy Trinity Church"
+            "en": "Holy Trinity Church",
+            "pl": "Kościół Trójcy Świętej"
           },
           "coords": [
             18.927,
@@ -157,7 +168,8 @@
             "de": "Suchen Sie nach den einzigartigen Jugendstil-Elementen im Inneren.",
             "hu": "Keresse az egyedi szecessziós elemeket a belső térben.",
             "ro": "Căutați elementele unice Art Nouveau în interior.",
-            "en": "Look for the unique Art Nouveau elements inside."
+            "en": "Look for the unique Art Nouveau elements inside.",
+            "pl": "Szukaj unikalnych elementów secesyjnych wewnątrz."
           }
         }
       ],
@@ -165,7 +177,8 @@
         "de": "Beginnen Sie Ihren Spaziergang am pulsierenden Marktplatz und bewundern Sie die gotische Marienkirche. Am Mittag tauchen Sie im Oberschlesischen Museum in die reiche Geschichte der Region ein. Nachmittags entspannen Sie im grünen Kachel-Stadtpark, bevor Sie den Tag mit der architektonischen Schönheit der Dreifaltigkeitskirche und einem Blick auf die Oper ausklingen lassen. Ein Tag voller Kultur und Ruhe im Herzen von Bytom.",
         "hu": "Kezdje sétáját a nyüzsgő Piactéren, és csodálja meg a gótikus Mária-templomot. Délben merüljön el a régió gazdag történelmében a Felső-Sziléziai Múzeumban. Délután pihenjen a zöld Kachel városi parkban, mielőtt a napot a Szentháromság-templom építészeti szépségével és az Operaház látványával zárja. Egy nap tele kultúrával és nyugalommal Bytom szívében.",
         "ro": "Începeți plimbarea în vibranta Piață a Pieței și admirați Biserica gotică Sf. Maria. La prânz, scufundați-vă în istoria bogată a regiunii la Muzeul Sileziei Superioare. După-amiaza, relaxați-vă în Parcul verde Kachel, înainte de a încheia ziua cu frumusețea arhitecturală a Bisericii Sfânta Treime și o priveliște a Operei. O zi plină de cultură și liniște în inima orașului Bytom.",
-        "en": "Start your walk at the vibrant Market Square and admire the Gothic St. Mary's Church. At noon, delve into the region's rich history at the Upper Silesian Museum. In the afternoon, relax in the green Kachel City Park before ending the day with the architectural beauty of the Holy Trinity Church and a view of the Opera House. A day full of culture and tranquility in the heart of Bytom."
+        "en": "Start your walk at the vibrant Market Square and admire the Gothic St. Mary's Church. At noon, delve into the region's rich history at the Upper Silesian Museum. In the afternoon, relax in the green Kachel City Park before ending the day with the architectural beauty of the Holy Trinity Church and a view of the Opera House. A day full of culture and tranquility in the heart of Bytom.",
+        "pl": "Rozpocznij spacer na tętniącym życiem Rynku i podziwiaj gotycki Kościół Mariacki. W południe zanurz się w bogatej historii regionu w Muzeum Górnośląskim. Popołudniu odpocznij w zielonym Parku Miejskim Kachel, a dzień zakończ pięknem architektonicznym Kościoła Trójcy Świętej i widokiem na Operę. Dzień pełen kultury i spokoju w sercu Bytomia."
       },
       "gastro_picks": {
         "de": [
@@ -361,6 +374,12 @@
           "Most sights in the city center are easily reachable on foot.",
           "Check the museum's opening hours online in advance.",
           "Bring a reusable water bottle, especially on warm days."
+        ],
+        "pl": [
+          "Noś wygodne buty — bruk w starej części miasta może być nierówny.",
+          "Większość zabytków w centrum jest łatwo dostępna pieszo.",
+          "Sprawdź godziny otwarcia muzeów online wcześniej.",
+          "Zabierz butelkę wielokrotnego użytku, zwłaszcza w ciepłe dni."
         ]
       },
       "variants": {
@@ -369,7 +388,8 @@
             "de": "Beginnen Sie Ihren Tag am regnerischen Marktplatz, wo die nassen Steine den historischen Kern glänzen lassen. In der Marienkirche finden Sie trockenen Unterschlupf und stille Einkehr.\n\nMittags bietet das Oberschlesische Museum den perfekten Rückzugsort vor dem Regen; seine umfangreichen Sammlungen füllen Stunden aus. Die Schlesische Oper beeindruckt auch unter grauen Wolken.\n\nDer Kachel-Stadtpark wirkt im Regen fast mystisch, doch halten Sie sich unter den dichten Baumkronen auf. Zum Abschluss bietet die Dreifaltigkeitskirche einen warmen, trockenen Raum.\n\nAbends reflektieren die Pfützen die Lichter der Stadt, während Sie zurück zum Ausgangspunkt spazieren.",
             "hu": "Kezdje a napot az eső áztatta Főtéren, ahol a nedves kövek csillogása különleges hangulatot ad a városmagvának. A Mária-templom belső tere tökéletes menedéket nyújt a reggeli zápor elől.\n\nA délutánt töltse az Upper Silesian Múzeum hatalmas épületében, ahol a gazdag kiállítások között észrevétlenül telik el a csapadékos idő. Az Operaház neoklasszicista homlokzata esőben is impozáns.\n\nA Kachel parkban a sűrű lombok némi védelmet adnak, a tóparti köd pedig festői látványt nyújt. A Szent Háromság-templom csendje és száraz belső tere méltó zárása a napnak.\n\nEste a város fényei tükröződnek a járdákon, miközben egy hangulatos kávézó felé veszi az irányt.",
             "ro": "Începeți ziua în Piața Mare, unde ploaia scoate în evidență detaliile arhitecturale ale centrului vechi. Biserica Sf. Maria oferă un refugiu spiritual și uscat în timpul ploii de dimineață.\n\nLa prânz, Muzeul Sileziei Superioare este destinația ideală; interioarele sale spațioase vă permit să explorați cultura locală fără a vă uda. Opera Sileziană este o bijuterie chiar și sub cerul gri.\n\nParcul Kachel devine o oază de liniște sub sunetul ploii, iar potecile sale oferă un cadru melancolic. Încheiați traseul la Biserica Sfânta Treime, admirând vitraliile într-o atmosferă liniștită.\n\nSeara, reflexiile luminilor stradale în apă creează un cadru perfect pentru ultimele fotografii ale zilei.",
-            "en": "Start your day at the rainy Market Square, where the wet cobblestones reflect the town's history. Seek shelter in St. Mary's Church to admire its serene interior during the downpour.\n\nMidday is best spent inside the Upper Silesian Museum, where vast galleries keep you dry and engaged for hours. The Silesian Opera stands proud even against the rainy backdrop.\n\nKachel City Park offers a misty, atmospheric walk; the dense trees provide some natural cover from the drizzle. Conclude your tour at the Holy Trinity Church, a peaceful and warm sanctuary.\n\nIn the evening, enjoy the city lights dancing on the wet pavement as you head back to the center."
+            "en": "Start your day at the rainy Market Square, where the wet cobblestones reflect the town's history. Seek shelter in St. Mary's Church to admire its serene interior during the downpour.\n\nMidday is best spent inside the Upper Silesian Museum, where vast galleries keep you dry and engaged for hours. The Silesian Opera stands proud even against the rainy backdrop.\n\nKachel City Park offers a misty, atmospheric walk; the dense trees provide some natural cover from the drizzle. Conclude your tour at the Holy Trinity Church, a peaceful and warm sanctuary.\n\nIn the evening, enjoy the city lights dancing on the wet pavement as you head back to the center.",
+            "pl": "Rozpocznij dzień na deszczowym Rynku, gdzie mokry bruk odbija historię miasta. Schron się w Kościele Mariackim, by podczas ulewnego deszczu podziwiać jego spokojne wnętrze.\n\nW południe najlepiej spędzić czas w Muzeum Górnośląskim — obszerne galerie utrzymają cię w suchym i zajętym stanie przez wiele godzin. Opera Śląska dumnie prezentuje się nawet w deszczowej scenerii.\n\nPark Miejski Kachel oferuje mglisty, nastrojowy spacer; gęste drzewa dają częściową ochronę przed mżawką. Zakończ wycieczkę w Kościele Trójcy Świętej — to spokojne i ciepłe schronienie.\n\nWieczorem ciesz się tańczącymi na mokrym bruku światłami miasta podczas powrotu do centrum."
           },
           "stops": [
             {
@@ -378,7 +398,8 @@
                 "de": "Vorsicht auf dem glatten Kopfsteinpflaster.",
                 "hu": "Vigyázzon a csúszós macskaköveken.",
                 "ro": "Atenție la pavajul alunecos din piață.",
-                "en": "Watch your step on the slippery cobblestones."
+                "en": "Watch your step on the slippery cobblestones.",
+                "pl": "Uważaj na śliskie kamienne kostki brukowe."
               }
             },
             {
@@ -387,7 +408,8 @@
                 "de": "Idealer Ort, um einen Schauer abzuwarten.",
                 "hu": "Tökéletes hely egy zápor kivárására.",
                 "ro": "Loc perfect pentru a aștepta trecerea ploii.",
-                "en": "Perfect spot to wait out a heavy shower."
+                "en": "Perfect spot to wait out a heavy shower.",
+                "pl": "Idealne miejsce, by przeczekać obfity przelot."
               }
             },
             {
@@ -396,7 +418,8 @@
                 "de": "Große Garderobe für nasse Mäntel vorhanden.",
                 "hu": "Van ruhatár a vizes kabátoknak.",
                 "ro": "Garderobă disponibilă pentru haine umede.",
-                "en": "Cloakroom available for wet coats and umbrellas."
+                "en": "Cloakroom available for wet coats and umbrellas.",
+                "pl": "Szatnia dostępna na mokre płaszcze i parasole."
               }
             },
             {
@@ -405,7 +428,8 @@
                 "de": "Kurzer Fotostopp unter dem Vordach.",
                 "hu": "Gyors fotómegálló az előtető alatt.",
                 "ro": "Oprire rapidă pentru poze sub streașină.",
-                "en": "Quick photo stop under the entrance canopy."
+                "en": "Quick photo stop under the entrance canopy.",
+                "pl": "Szybkie miejsce na zdjęcie pod daszkiem wejściowym."
               }
             },
             {
@@ -414,7 +438,8 @@
                 "de": "Nutzen Sie die asphaltierten Hauptwege.",
                 "hu": "Használja az aszfaltozott főutakat.",
                 "ro": "Folosiți aleile principale asfaltate.",
-                "en": "Stick to the paved main paths to avoid mud."
+                "en": "Stick to the paved main paths to avoid mud.",
+                "pl": "Trzymaj się wybrukowanych głównych ścieżek, by uniknąć błota."
               }
             },
             {
@@ -423,7 +448,8 @@
                 "de": "Wärmen Sie sich im Inneren auf.",
                 "hu": "Melegedjen fel a templom belső terében.",
                 "ro": "Încălziți-vă în interiorul bisericii.",
-                "en": "Warm up and dry off inside the sanctuary."
+                "en": "Warm up and dry off inside the sanctuary.",
+                "pl": "Rozgrzej się i osusz w nawie kościoła."
               }
             }
           ],
@@ -455,6 +481,13 @@
               "Cozy cafes near the square are great for quick breaks.",
               "A wind-resistant umbrella is better than a light poncho.",
               "Stick to the main paved walkways in Kachel Park."
+            ],
+            "pl": [
+              "Noś wodoodporne obuwie na brukowane ulice.",
+              "Muzeum to najlepsza opcja długotrwałego schronienia.",
+              "Przytulne kawiarnie przy rynku świetnie nadają się na krótkie przerwy.",
+              "Parasol odporny na wiatr jest lepszy niż lekka peleryna.",
+              "Trzymaj się głównych, wybrukowanych alei w Parku Kachel."
             ]
           }
         },
@@ -463,7 +496,8 @@
             "de": "Der frostige Morgen am Marktplatz wird durch die festliche Beleuchtung und den Duft von Kaffee in den umliegenden Häusern versüßt. Die Marienkirche strahlt im Winter eine besondere Ruhe aus.\n\nAm Mittag flüchten Sie vor dem kalten Wind in das geheizte Oberschlesische Museum. Die Architektur der Schlesischen Oper wirkt vor dem klaren Winterhimmel besonders prägnant.\n\nIm Kachel-Stadtpark glitzert der Frost auf den Teichen, ein kurzer Spaziergang belebt die Sinne, bevor die frühe Dämmerung einsetzt. Die Dreifaltigkeitskirche ist ein warmer Ort für den späten Nachmittag.\n\nAbends taucht das warme Licht der Straßenlaternen Bytom in ein behagliches Ambiente, ideal für einen Abschluss im Stadtzentrum.",
             "hu": "A fagyos reggelen a Főtér épületei között megreked a hideg, de a kávézók fénye hívogató. A Mária-templom vastag falai között ilyenkor is áhítatos csend fogadja.\n\nDélidőben az Upper Silesian Múzeum fűtött kiállítóterei kínálnak menedéket a csípős szél elől. Az Operaház épülete a téli napsütésben mutatja legszebb arcát.\n\nA Kachel parkban a deres fák és a befagyott tavak látványa kárpótol a hidegért, de érdemes sétatempót tartani. A Szent Háromság-templom belső melege jól esik a séta végén.\n\nA korai sötétedésben a város fényei ünnepi hangulatot árasztanak, miközben visszatér a központba.",
             "ro": "Dimineața geroasă în Piața Mare este marcată de aerul curat și fațadele istorice înghețate. Biserica Sf. Maria este o oprire caldă și liniștită înainte de prânz.\n\nLa amiază, refugiul perfect este Muzeul Sileziei Superioare, unde puteți petrece ore bune în căldură. Opera Sileziană arată spectaculos în lumina rece a iernii.\n\nParcul Kachel oferă un peisaj de basm dacă este zăpadă, dar pregătiți-vă pentru un vânt tăios lângă lac. Încheiați ziua la Biserica Sfânta Treime, un loc primitor înainte de lăsarea serii.\n\nSeara vine devreme, iar luminile orașului transformă străzile într-un decor intim și plin de farmec.",
-            "en": "A frosty morning at the Market Square is best enjoyed with a quick walk followed by a warm drink nearby. St. Mary's Church offers a peaceful, wind-free start to your day.\n\nBy noon, escape the biting cold inside the well-heated Upper Silesian Museum. The Silesian Opera’s facade is particularly striking against a crisp, blue winter sky.\n\nKachel City Park is a winter wonderland when snow-covered, but be mindful of the early sunset around 4 PM. The Holy Trinity Church provides a warm sanctuary for the late afternoon.\n\nAs darkness falls early, the golden streetlights create a cozy atmosphere for your final stroll through Bytom."
+            "en": "A frosty morning at the Market Square is best enjoyed with a quick walk followed by a warm drink nearby. St. Mary's Church offers a peaceful, wind-free start to your day.\n\nBy noon, escape the biting cold inside the well-heated Upper Silesian Museum. The Silesian Opera’s facade is particularly striking against a crisp, blue winter sky.\n\nKachel City Park is a winter wonderland when snow-covered, but be mindful of the early sunset around 4 PM. The Holy Trinity Church provides a warm sanctuary for the late afternoon.\n\nAs darkness falls early, the golden streetlights create a cozy atmosphere for your final stroll through Bytom.",
+            "pl": "Mroźny poranek na Rynku najlepiej zacząć krótkim spacerem, po którym warto napić się czegoś ciepłego w pobliżu. Kościół Mariacki oferuje spokojny, osłonięty od wiatru start dnia.\n\nW południe uciekaj przed przenikliwym chłodem do dobrze ogrzanego Muzeum Górnośląskiego. Fasada Opery szczególnie efektownie prezentuje się na tle klarownego, zimowego nieba.\n\nPark Miejski Kachel to zimowa kraina czarów pod śniegiem, ale zwróć uwagę na wczesny zachód słońca około 16:00. Kościół Trójcy Świętej zapewni ciepłe schronienie późnym popołudniem.\n\nGdy zapadają wczesne zmierzchy, złote latarnie tworzą przytulny nastrój na ostatni spacer po Bytomiu."
           },
           "stops": [
             {
@@ -472,7 +506,8 @@
                 "de": "Holen Sie sich einen heißen Tee zum Mitnehmen.",
                 "hu": "Igyon egy forró teát a közeli büfében.",
                 "ro": "Luați un ceai cald de la o cafenea din apropiere.",
-                "en": "Grab a hot tea to go from a nearby cafe."
+                "en": "Grab a hot tea to go from a nearby cafe.",
+                "pl": "Weź na wynos gorącą herbatę z pobliskiej kawiarni."
               }
             },
             {
@@ -481,7 +516,8 @@
                 "de": "Schutz vor dem kalten Wind finden.",
                 "hu": "Menedék a metsző szél elől.",
                 "ro": "Refugiu împotriva vântului rece de iarnă.",
-                "en": "Great place to escape the biting winter wind."
+                "en": "Great place to escape the biting winter wind.",
+                "pl": "Świetne miejsce, by uciec od przenikliwego zimnego wiatru."
               }
             },
             {
@@ -490,7 +526,8 @@
                 "de": "Viel Zeit für die Innenräume einplanen.",
                 "hu": "Tervezzen hosszú időt a benti részre.",
                 "ro": "Alocați mult timp pentru expozițiile interioare.",
-                "en": "Plan to spend extra time in the warm galleries."
+                "en": "Plan to spend extra time in the warm galleries.",
+                "pl": "Planuj spędzić więcej czasu w ciepłych galeriach."
               }
             },
             {
@@ -499,7 +536,8 @@
                 "de": "Die Architektur leuchtet im Winterlicht.",
                 "hu": "Az épület csodás a téli fényben.",
                 "ro": "Arhitectura strălucește în lumina rece.",
-                "en": "The building looks stunning in crisp winter light."
+                "en": "The building looks stunning in crisp winter light.",
+                "pl": "Budynek wygląda oszałamiająco w rześkim zimowym świetle."
               }
             },
             {
@@ -508,7 +546,8 @@
                 "de": "Vorsicht bei vereisten Wegen am See.",
                 "hu": "Vigyázzon a jeges utakra a tónál.",
                 "ro": "Atenție la aleile înghețate de lângă lac.",
-                "en": "Be careful of icy patches near the water."
+                "en": "Be careful of icy patches near the water.",
+                "pl": "Uważaj na oblodzone miejsca przy wodzie."
               }
             },
             {
@@ -517,7 +556,8 @@
                 "de": "Besuch vor der frühen Schließung planen.",
                 "hu": "Tervezze a látogatást záróra előttre.",
                 "ro": "Vizitați înainte de lăsarea întunericului.",
-                "en": "Visit before the early winter sunset."
+                "en": "Visit before the early winter sunset.",
+                "pl": "Odwiedź przed wczesnym zimowym zachodem słońca."
               }
             }
           ],
@@ -549,6 +589,13 @@
               "The museum is well-heated and very comfortable.",
               "Cobblestones can be extremely icy and slippery.",
               "The illuminated square looks magical after dark."
+            ],
+            "pl": [
+              "Ciepłe rękawice są niezbędne na odcinkach parku.",
+              "Zachód słońca jest bardzo wczesny, często około 15:45–16:00.",
+              "Muzeum jest dobrze ogrzewane i bardzo komfortowe.",
+              "Kocie łby mogą być bardzo oblodzone i śliskie.",
+              "Oświetlony rynek wygląda magicznie po zmroku."
             ]
           }
         }
@@ -567,7 +614,8 @@
             "de": "Marktplatz",
             "hu": "Piactér",
             "ro": "Piața Centrală",
-            "en": "Market Square"
+            "en": "Market Square",
+            "pl": "Rynek"
           },
           "coords": [
             18.9221,
@@ -583,7 +631,8 @@
             "de": "Schließen Sie Ihr Fahrrad sicher ab und erkunden Sie den Platz zu Fuß.",
             "hu": "Zárja le biztonságosan a kerékpárját, és fedezze fel a teret gyalog.",
             "ro": "Asigurați-vă bicicleta și explorați piața pe jos.",
-            "en": "Lock your bike securely and explore the square on foot."
+            "en": "Lock your bike securely and explore the square on foot.",
+            "pl": "Zabezpiecz rower i zwiedzaj plac pieszo."
           }
         },
         {
@@ -591,7 +640,8 @@
             "de": "Schlesische Oper",
             "hu": "Sziléziai Opera",
             "ro": "Opera Sileziană",
-            "en": "Silesian Opera"
+            "en": "Silesian Opera",
+            "pl": "Opera Śląska"
           },
           "coords": [
             18.919,
@@ -607,7 +657,8 @@
             "de": "Ein schneller Fotostopp, um die Architektur zu bewundern.",
             "hu": "Egy gyors fotómegálló az építészet megcsodálására.",
             "ro": "O oprire rapidă pentru fotografii pentru a admira arhitectura.",
-            "en": "A quick photo stop to admire the architecture."
+            "en": "A quick photo stop to admire the architecture.",
+            "pl": "Krótki postój na zdjęcie, by podziwiać architekturę."
           }
         },
         {
@@ -615,7 +666,8 @@
             "de": "Wasserturm",
             "hu": "Víztorony",
             "ro": "Turnul de Apă",
-            "en": "Water Tower"
+            "en": "Water Tower",
+            "pl": "Wieża Wodna"
           },
           "coords": [
             18.905,
@@ -631,7 +683,8 @@
             "de": "Ein beeindruckendes Beispiel für Industriearchitektur. Tolle Fotomotive!",
             "hu": "Az ipari építészet lenyűgöző példája. Remek fotótéma!",
             "ro": "Un exemplu impresionant de arhitectură industrială. Oportunități foto grozave!",
-            "en": "An impressive example of industrial architecture. Great photo opportunities!"
+            "en": "An impressive example of industrial architecture. Great photo opportunities!",
+            "pl": "Imponujący przykład architektury przemysłowej. Świetne możliwości fotograficzne!"
           }
         },
         {
@@ -639,7 +692,8 @@
             "de": "Fazaniec-Park",
             "hu": "Fazaniec Park",
             "ro": "Parcul Fazaniec",
-            "en": "Fazaniec Park"
+            "en": "Fazaniec Park",
+            "pl": "Park Fazaniec"
           },
           "coords": [
             18.89,
@@ -655,7 +709,8 @@
             "de": "Machen Sie eine Pause und genießen Sie die Natur. Perfekt für ein Picknick.",
             "hu": "Tartson szünetet és élvezze a természetet. Tökéletes egy piknikhez.",
             "ro": "Faceți o pauză și bucurați-vă de natură. Perfect pentru un picnic.",
-            "en": "Take a break and enjoy nature. Perfect for a picnic."
+            "en": "Take a break and enjoy nature. Perfect for a picnic.",
+            "pl": "Zrób przerwę i ciesz się przyrodą. Idealne miejsce na piknik."
           }
         },
         {
@@ -663,7 +718,8 @@
             "de": "Oberschlesisches Museum",
             "hu": "Felső-Sziléziai Múzeum",
             "ro": "Muzeul Sileziei Superioare",
-            "en": "Upper Silesian Museum"
+            "en": "Upper Silesian Museum",
+            "pl": "Muzeum Górnośląskie"
           },
           "coords": [
             18.925,
@@ -679,7 +735,8 @@
             "de": "Schließen Sie Ihr Rad an und tauchen Sie in die Kultur ein. Eine großartige Mittagsaktivität.",
             "hu": "Zárja le a kerékpárt és merüljön el a kultúrában. Nagyszerű déli program.",
             "ro": "Legați-vă bicicleta și scufundați-vă în cultură. O activitate grozavă de prânz.",
-            "en": "Lock up your bike and dive into the culture. A great midday activity."
+            "en": "Lock up your bike and dive into the culture. A great midday activity.",
+            "pl": "Zabezpiecz rower i zanurz się w kulturze. Świetna aktywność na południe."
           }
         },
         {
@@ -687,7 +744,8 @@
             "de": "Kachel-Stadtpark",
             "hu": "Kachel városi park",
             "ro": "Parcul Kachel",
-            "en": "Kachel City Park"
+            "en": "Kachel City Park",
+            "pl": "Park Miejski Kachel"
           },
           "coords": [
             18.915,
@@ -703,7 +761,8 @@
             "de": "Beenden Sie Ihre Radtour mit einer entspannten Runde durch diesen zentralen Park.",
             "hu": "Fejezze be a kerékpártúrát egy pihentető körrel ebben a központi parkban.",
             "ro": "Încheiați-vă turul cu bicicleta cu o plimbare relaxantă prin acest parc central.",
-            "en": "End your bike tour with a relaxing lap around this central park."
+            "en": "End your bike tour with a relaxing lap around this central park.",
+            "pl": "Zakończ wycieczkę rowerową relaksującą rundą po tym centralnym parku."
           }
         }
       ],
@@ -711,7 +770,8 @@
         "de": "Schwingen Sie sich aufs Rad für eine Tour, die urbane Entdeckungen und Natur verbindet. Vom Marktplatz radeln Sie zum industriellen Charme des Wasserturms. Mittags erwartet Sie die grüne Oase des Fazaniec-Parks für eine ausgedehnte Pause. Am Nachmittag geht es zurück ins Zentrum zum Oberschlesischen Museum, bevor Sie den Tag im Kachel-Stadtpark ausklingen lassen. Eine perfekte Mischung aus Kultur, Geschichte und Bewegung.",
         "hu": "Pattanjon kerékpárra egy olyan túrára, amely ötvözi a városi felfedezést és a természetet. A Piactérről tekerjen el a Víztorony ipari bájáig. Délben a Fazaniec Park zöld oázisa várja egy hosszabb pihenőre. Délután térjen vissza a központba a Felső-Sziléziai Múzeumba, mielőtt a napot a Kachel városi parkban zárja. A kultúra, a történelem és a mozgás tökéletes keveréke.",
         "ro": "Urcați-vă pe bicicletă pentru un tur care combină explorarea urbană și natura. De la Piața Pieței, pedalați spre farmecul industrial al Turnului de Apă. La prânz, oaza verde a Parcului Fazaniec vă așteaptă pentru o pauză extinsă. După-amiaza, întoarceți-vă în centru la Muzeul Sileziei Superioare înainte de a încheia ziua în Parcul Kachel. Un amestec perfect de cultură, istorie și exercițiu.",
-        "en": "Get on your bike for a tour that combines urban exploration and nature. From the Market Square, cycle to the industrial charm of the Water Tower. At noon, the green oasis of Fazaniec Park awaits you for an extended break. In the afternoon, head back to the center to the Upper Silesian Museum before ending the day in Kachel City Park. A perfect mix of culture, history, and exercise."
+        "en": "Get on your bike for a tour that combines urban exploration and nature. From the Market Square, cycle to the industrial charm of the Water Tower. At noon, the green oasis of Fazaniec Park awaits you for an extended break. In the afternoon, head back to the center to the Upper Silesian Museum before ending the day in Kachel City Park. A perfect mix of culture, history, and exercise.",
+        "pl": "Wsiądź na rower na trasę łączącą miejskie odkrywanie i przyrodę. Z Rynku pedałuj w stronę przemysłowego uroku Wieży Wodnej. W południe zielona oaza Parku Fazaniec zaprasza na dłuższy odpoczynek. Po południu wróć do centrum do Muzeum Górnośląskiego, a dzień zakończ w Parku Miejskim Kachel. Idealne połączenie kultury, historii i ruchu."
       },
       "gastro_picks": {
         "de": [
@@ -907,6 +967,12 @@
           "Use bike lanes wherever possible.",
           "A helmet is highly recommended.",
           "Bring a good lock to secure your bike at the stops."
+        ],
+        "pl": [
+          "Sprawdź stan roweru przed wyruszeniem.",
+          "Korzystaj z ścieżek rowerowych gdzie to możliwe.",
+          "Kask jest wysoce zalecany.",
+          "Weź dobry zamek, by zabezpieczyć rower podczas postojów."
         ]
       },
       "variants": {
@@ -915,7 +981,8 @@
             "de": "Starten Sie vorsichtig am Marktplatz; nasse Reifen auf Kopfsteinpflaster erfordern Aufmerksamkeit. Die Oper passieren Sie auf dem Weg zum Wasserturm im Nieselregen.\n\nDer Aufstieg zum Wasserturm ist bei kühlem Regen erfrischend, aber die Sicht könnte eingeschränkt sein. Im Fazaniec-Park bieten die Bäume etwas Schutz, doch die Wege sind weich.\n\nDas Oberschlesische Museum ist der rettende Hafen, um die Kleidung zu trocknen und Kultur zu genießen. Der Kachel-Park ist die letzte Etappe durch den herbstlichen Regen.\n\nBeenden Sie die Tour mit einer heißen Schokolade im Stadtzentrum, um die Glieder wieder aufzuwärmen.",
             "hu": "Induljon óvatosan a Főtérről; a nedves macskakövön a gumik könnyen megcsúszhatnak. Az Operaház mellett elhaladva tekerjen a Víztorony felé a szemerkélő esőben.\n\nA Víztoronyhoz vezető út frissítő a hűvös időben, de a kilátás ködös lehet. A Fazaniec park fái között némi védelmet talál, de az utak felázhatnak.\n\nAz Upper Silesian Múzeum a legjobb hely a megállásra, hogy megszárítkozzon és feltöltődjön. A Kachel parkon átvezető utolsó szakasz esőben is hangulatos.\n\nA túrát a belvárosban fejezze be, ahol egy forró ital mellett kipihenheti a tekerést.",
             "ro": "Porniți cu atenție din Piața Mare; anvelopele ude pe piatră cubică necesită prudență. Treceți pe lângă Operă în drum spre Turnul de Apă prin ploaia fină.\n\nUrcarea spre Turnul de Apă este revigorantă pe ploaie, deși vizibilitatea poate fi redusă. În Parcul Fazaniec, arborii oferă adăpost, dar potecile pot fi noroioase.\n\nMuzeul Sileziei Superioare este refugiul perfect pentru a vă usca echipamentul și a explora. Parcul Kachel reprezintă ultima etapă a traseului prin decorul ploios.\n\nÎncheiați tura în centrul orașului cu o băutură caldă pentru a vă recupera după efort.",
-            "en": "Start carefully from the Market Square; wet tires on cobblestones require extra focus. Pass the Opera as you head towards the Water Tower in the drizzle.\n\nThe ride to the Water Tower is refreshing in the rain, though views might be misty. In Fazaniec Park, the trees offer some shelter, but paths can be soft.\n\nThe Upper Silesian Museum is a lifesaver for drying off and enjoying local culture. Kachel Park is the final atmospheric stretch through the autumn rain.\n\nEnd your ride in the city center with a hot chocolate to warm up your muscles."
+            "en": "Start carefully from the Market Square; wet tires on cobblestones require extra focus. Pass the Opera as you head towards the Water Tower in the drizzle.\n\nThe ride to the Water Tower is refreshing in the rain, though views might be misty. In Fazaniec Park, the trees offer some shelter, but paths can be soft.\n\nThe Upper Silesian Museum is a lifesaver for drying off and enjoying local culture. Kachel Park is the final atmospheric stretch through the autumn rain.\n\nEnd your ride in the city center with a hot chocolate to warm up your muscles.",
+            "pl": "Wyjeżdżaj ostrożnie z Rynku; mokre opony na kocich łbach wymagają większej uwagi. Przejedź obok Opery w stronę Wieży Wodnej w mżawce.\n\nJazda do Wieży Wodnej jest orzeźwiająca w deszczu, choć widoki mogą być mgielne. W Parku Fazaniec drzewa dają trochę schronienia, ale ścieżki mogą być miękkie.\n\nMuzeum Górnośląskie to wybawienie na osuszenie się i obcowanie z lokalną kulturą. Park Kachel to ostatni nastrojowy odcinek przez jesienny deszcz.\n\nZakończ przejażdżkę w centrum miasta gorącą czekoladą, by rozgrzać mięśnie."
           },
           "stops": [
             {
@@ -924,7 +991,8 @@
                 "de": "Extrem glatt beim Anfahren und Bremsen.",
                 "hu": "Nagyon csúszós induláskor és fékezéskor.",
                 "ro": "Extrem de alunecos la pornire și frânare.",
-                "en": "Extremely slippery when starting or braking."
+                "en": "Extremely slippery when starting or braking.",
+                "pl": "Bardzo ślisko przy ruszaniu i hamowaniu."
               }
             },
             {
@@ -933,7 +1001,8 @@
                 "de": "Kurzer Halt unter dem Dachvorsprung.",
                 "hu": "Rövid pihenő a tető alatt.",
                 "ro": "Scurtă oprire sub streașina clădirii.",
-                "en": "Short stop under the building's overhang."
+                "en": "Short stop under the building's overhang.",
+                "pl": "Krótki postój pod daszkiem budynku."
               }
             },
             {
@@ -942,7 +1011,8 @@
                 "de": "Vorsicht auf dem metallischen Untergrund.",
                 "hu": "Vigyázzon a fémes felületeken.",
                 "ro": "Atenție la suprafețele metalice ude.",
-                "en": "Be careful on wet metal surfaces nearby."
+                "en": "Be careful on wet metal surfaces nearby.",
+                "pl": "Uważaj na mokre metalowe powierzchnie w pobliżu."
               }
             },
             {
@@ -951,7 +1021,8 @@
                 "de": "Vermeiden Sie unbefestigte Waldwege.",
                 "hu": "Kerülje a rögzítetlen erdei utakat.",
                 "ro": "Evitați potecile neamenajate din pădure.",
-                "en": "Avoid unpaved forest paths to stay clean."
+                "en": "Avoid unpaved forest paths to stay clean.",
+                "pl": "Unikaj nieutwardzonych leśnych ścieżek, by pozostać czystym."
               }
             },
             {
@@ -960,7 +1031,8 @@
                 "de": "Sichere Fahrradständer in der Nähe.",
                 "hu": "Biztonságos biciklitárolók a közelben.",
                 "ro": "Rafturi de biciclete sigure în apropiere.",
-                "en": "Secure bike racks available near the entrance."
+                "en": "Secure bike racks available near the entrance.",
+                "pl": "Przy wejściu są dostępne stojaki do zabezpieczenia rowerów."
               }
             },
             {
@@ -969,7 +1041,8 @@
                 "de": "Schutzbleche sind heute sehr wichtig.",
                 "hu": "A sárvédő ma elengedhetetlen.",
                 "ro": "Apărătorile de noroi sunt esențiale azi.",
-                "en": "Mudguards are essential on these wet paths."
+                "en": "Mudguards are essential on these wet paths.",
+                "pl": "Błotniki są niezbędne na tych mokrych ścieżkach."
               }
             }
           ],
@@ -1001,6 +1074,13 @@
               "Park paths might be muddy after heavy rainfall.",
               "Use the museum stop for a long drying-off break.",
               "Keep your bike lights on even during daytime rain."
+            ],
+            "pl": [
+              "Pełna wodoodporna odzież jest bardzo zalecana.",
+              "Unikaj gwałtownego hamowania na mokrych kocich łbach.",
+              "Ścieżki w parku mogą być błotniste po intensywnych opadach.",
+              "Wykorzystaj postój w muzeum na długie osuszenie się.",
+              "Trzymaj włączone światła rowerowe nawet podczas deszczu w ciągu dnia."
             ]
           }
         },
@@ -1009,7 +1089,8 @@
             "de": "Ein knackig kalter Start am Marktplatz erfordert gute Handschuhe und Motivation. Die Luft ist klar, während Sie an der Oper vorbei Richtung Wasserturm radeln.\n\nDer Wasserturm steht imposant in der Winterlandschaft, doch die Wege können vereist sein. Im Fazaniec-Park genießen Sie die Ruhe des winterlichen Waldes.\n\nDas Oberschlesische Museum ist der perfekte Ort, um die gefrorenen Finger aufzutauen. Im Kachel-Park radeln Sie durch die winterliche Szenerie, bevor es dunkel wird.\n\nBeenden Sie die Tour zeitig, da die Kälte nach Sonnenuntergang schnell zunimmt.",
             "hu": "A csípős hidegben a Főtérről indulva hamar felpezsdül a vére, de a jó kesztyű kötelező. Az Operaház mellett elhaladva a Víztorony felé vegye az irányt.\n\nA Víztorony környékén vigyázzon a lefagyott szakaszokra. A Fazaniec park télen csendes és varázslatos, de az utak keményre fagytak.\n\nAz Upper Silesian Múzeumban tartson egy hosszabb melegedő szünetet. A Kachel parkban a téli délután fényei kísérik utolsó kilométerein.\n\nIgyekezzen befejezni a túrát sötétedés előtt, mert a hőmérséklet gyorsan esik.",
             "ro": "Un început de zi geroasă în Piața Mare necesită mănuși bune și determinare. Aerul este tăios în timp ce pedalați pe lângă Operă spre Turnul de Apă.\n\nTurnul de Apă arată impunător în peisajul de iarnă, dar atenție la gheață. În Parcul Fazaniec, vă puteți bucura de liniștea pădurii înghețate.\n\nMuzeul Sileziei Superioare este locul ideal pentru a vă dezmorți degetele înghețate. În Parcul Kachel, pedalați prin decorul hibernal înainte de apus.\n\nÎncheiați tura devreme, deoarece frigul devine mult mai intens după ora 16:00.",
-            "en": "A crisp, cold start at the Market Square requires good gloves and determination. The air is sharp as you cycle past the Opera towards the Water Tower.\n\nThe Water Tower stands imposing in the winter landscape, but watch for black ice. In Fazaniec Park, enjoy the silence of the frozen forest paths.\n\nThe Upper Silesian Museum is the perfect place to thaw out your frozen fingers. In Kachel Park, cycle through the winter scenery before the early dusk sets in.\n\nFinish your ride early, as the temperature drops significantly after sunset."
+            "en": "A crisp, cold start at the Market Square requires good gloves and determination. The air is sharp as you cycle past the Opera towards the Water Tower.\n\nThe Water Tower stands imposing in the winter landscape, but watch for black ice. In Fazaniec Park, enjoy the silence of the frozen forest paths.\n\nThe Upper Silesian Museum is the perfect place to thaw out your frozen fingers. In Kachel Park, cycle through the winter scenery before the early dusk sets in.\n\nFinish your ride early, as the temperature drops significantly after sunset.",
+            "pl": "Rześki, zimny start na Rynku wymaga dobrych rękawic i determinacji. Powietrze jest ostre, gdy jedziesz obok Opery w stronę Wieży Wodnej.\n\nWieża Wodna stoi imponująco w zimowym krajobrazie, ale uważaj na czarny lód. W Parku Fazaniec rozkoszuj się ciszą zamarzniętych leśnych ścieżek.\n\nMuzeum Górnośląskie to idealne miejsce na ogrzanie zmarzniętych palców. W Parku Kachel przejedź przez zimową scenerię, zanim zapadnie wczesny zmrok.\n\nZakończ przejażdżkę wcześniej, ponieważ temperatura znacząco spada po zachodzie słońca."
           },
           "stops": [
             {
@@ -1018,7 +1099,8 @@
                 "de": "Vorsicht vor überfrierender Nässe.",
                 "hu": "Vigyázzon a láthatatlan jégfoltokra.",
                 "ro": "Atenție la poleiul de pe piatra cubică.",
-                "en": "Watch out for black ice on the cobbles."
+                "en": "Watch out for black ice on the cobbles.",
+                "pl": "Uważaj na czarny lód na kocich łbach."
               }
             },
             {
@@ -1027,7 +1109,8 @@
                 "de": "Kurze Fahrpause, um Hände zu wärmen.",
                 "hu": "Rövid megálló a kezek melegítésére.",
                 "ro": "Scurtă pauză pentru a vă încălzi mâinile.",
-                "en": "Brief pause to warm your hands."
+                "en": "Brief pause to warm your hands.",
+                "pl": "Krótka pauza na ogrzanie rąk."
               }
             },
             {
@@ -1036,7 +1119,8 @@
                 "de": "Exponierte Lage, oft sehr windig.",
                 "hu": "Nyitott terület, gyakran nagyon szeles.",
                 "ro": "Zonă expusă, adesea foarte vântoasă.",
-                "en": "Exposed location, often very windy here."
+                "en": "Exposed location, often very windy here.",
+                "pl": "Miejsce odsłonięte, często bardzo wietrzne."
               }
             },
             {
@@ -1045,7 +1129,8 @@
                 "de": "Gefrorener Boden ist hart und uneben.",
                 "hu": "A fagyott talaj kemény és egyenetlen.",
                 "ro": "Solul înghețat este dur și denivelat.",
-                "en": "Frozen ground is hard and uneven for tires."
+                "en": "Frozen ground is hard and uneven for tires.",
+                "pl": "Zamarznięte podłoże jest twarde i nierówne dla opon."
               }
             },
             {
@@ -1054,7 +1139,8 @@
                 "de": "Lange Aufwärmpause einplanen.",
                 "hu": "Tervezzen hosszú melegedő szünetet.",
                 "ro": "Alocați timp pentru o pauză lungă la căldură.",
-                "en": "Plan for a long warming-off break inside."
+                "en": "Plan for a long warming-off break inside.",
+                "pl": "Zaplanuj długą przerwę na ogrzanie w środku."
               }
             },
             {
@@ -1063,7 +1149,8 @@
                 "de": "Wintersonne genießen, Wege im Schatten meiden.",
                 "hu": "Élvezze a napsütést, kerülje az árnyékot.",
                 "ro": "Bucurați-vă de soare, evitați zonele umbrite.",
-                "en": "Enjoy the sun, avoid shaded icy paths."
+                "en": "Enjoy the sun, avoid shaded icy paths.",
+                "pl": "Korzystaj ze słońca, unikaj zacienionych oblodzonych ścieżek."
               }
             }
           ],
@@ -1095,6 +1182,13 @@
               "Be aware that sunset is before 4 PM.",
               "Road salt can be corrosive to your bike chain.",
               "A hot drink during the museum stop is vital."
+            ],
+            "pl": [
+              "Ubierz się warstwowo z wiatroszczelną warstwą zewnętrzną.",
+              "Sprawdź ciśnienie w oponach dla lepszej przyczepności na twardym podłożu.",
+              "Pamiętaj, że zachód słońca jest przed 16:00.",
+              "Sól drogowa może być korozyjna dla łańcucha roweru.",
+              "Gorący napój podczas postoju w muzeum jest niezbędny."
             ]
           }
         }
@@ -1113,7 +1207,8 @@
             "de": "Parkplatz am Fazaniec-Park",
             "hu": "Parkoló a Fazaniec Parknál",
             "ro": "Parcare la Parcul Fazaniec",
-            "en": "Parking at Fazaniec Park"
+            "en": "Parking at Fazaniec Park",
+            "pl": "Parking w Parku Fazaniec"
           },
           "coords": [
             18.892,
@@ -1129,7 +1224,8 @@
             "de": "Parken Sie hier und beginnen Sie Ihren Tag mit einem Spaziergang.",
             "hu": "Parkoljon le itt, és kezdje a napot egy sétával.",
             "ro": "Parcați aici și începeți ziua cu o plimbare.",
-            "en": "Park here and start your day with a walk."
+            "en": "Park here and start your day with a walk.",
+            "pl": "Zaparkuj tutaj i rozpocznij dzień spacerem."
           }
         },
         {
@@ -1137,7 +1233,8 @@
             "de": "Fazaniec-Park",
             "hu": "Fazaniec Park",
             "ro": "Parcul Fazaniec",
-            "en": "Fazaniec Park"
+            "en": "Fazaniec Park",
+            "pl": "Park Fazaniec"
           },
           "coords": [
             18.89,
@@ -1153,7 +1250,8 @@
             "de": "Genießen Sie die Morgenruhe in diesem weitläufigen Park.",
             "hu": "Élvezze a reggeli csendet ebben a tágas parkban.",
             "ro": "Bucurați-vă de liniștea dimineții în acest parc întins.",
-            "en": "Enjoy the morning quiet in this spacious park."
+            "en": "Enjoy the morning quiet in this spacious park.",
+            "pl": "Ciesz się poranną ciszą w tym przestronnym parku."
           }
         },
         {
@@ -1161,7 +1259,8 @@
             "de": "Wasserturm",
             "hu": "Víztorony",
             "ro": "Turnul de Apă",
-            "en": "Water Tower"
+            "en": "Water Tower",
+            "pl": "Wieża Wodna"
           },
           "coords": [
             18.905,
@@ -1177,7 +1276,8 @@
             "de": "Ein kurzer Spaziergang vom Park zu diesem industriellen Wahrzeichen.",
             "hu": "Egy rövid séta a parktól ehhez az ipari műemlékhez.",
             "ro": "O scurtă plimbare de la parc la acest monument industrial.",
-            "en": "A short walk from the park to this industrial landmark."
+            "en": "A short walk from the park to this industrial landmark.",
+            "pl": "Krótki spacer z parku do tego przemysłowego punktu orientacyjnego."
           }
         },
         {
@@ -1185,7 +1285,8 @@
             "de": "Parkhaus am Marktplatz",
             "hu": "Parkolóház a Piactérnél",
             "ro": "Parcare lângă Piața Centrală",
-            "en": "Parking near Market Square"
+            "en": "Parking near Market Square",
+            "pl": "Parking przy Rynku"
           },
           "coords": [
             18.921,
@@ -1201,7 +1302,8 @@
             "de": "Parken Sie hier für den Rest des Tages und erkunden Sie das Zentrum zu Fuß.",
             "hu": "Parkoljon le itt a nap hátralévő részére, és fedezze fel a központot gyalog.",
             "ro": "Parcați aici pentru restul zilei și explorați centrul pe jos.",
-            "en": "Park here for the rest of the day and explore the center on foot."
+            "en": "Park here for the rest of the day and explore the center on foot.",
+            "pl": "Zaparkuj tutaj na cały dzień i zwiedzaj centrum pieszo."
           }
         },
         {
@@ -1209,7 +1311,8 @@
             "de": "Marktplatz & Mittagessen",
             "hu": "Piactér és ebéd",
             "ro": "Piața Centrală & Prânz",
-            "en": "Market Square & Lunch"
+            "en": "Market Square & Lunch",
+            "pl": "Rynek i obiad"
           },
           "coords": [
             18.9221,
@@ -1225,7 +1328,8 @@
             "de": "Finden Sie ein Restaurant am Platz und genießen Sie die schlesische Küche.",
             "hu": "Keressen egy éttermet a téren, és élvezze a sziléziai konyhát.",
             "ro": "Găsiți un restaurant în piață și bucurați-vă de bucătăria sileziană.",
-            "en": "Find a restaurant on the square and enjoy Silesian cuisine."
+            "en": "Find a restaurant on the square and enjoy Silesian cuisine.",
+            "pl": "Znajdź restaurację na rynku i delektuj się kuchnią śląską."
           }
         },
         {
@@ -1233,7 +1337,8 @@
             "de": "Oberschlesisches Museum",
             "hu": "Felső-Sziléziai Múzeum",
             "ro": "Muzeul Sileziei Superioare",
-            "en": "Upper Silesian Museum"
+            "en": "Upper Silesian Museum",
+            "pl": "Muzeum Górnośląskie"
           },
           "coords": [
             18.925,
@@ -1249,7 +1354,8 @@
             "de": "Das Museum ist nur einen kurzen Spaziergang vom Marktplatz entfernt.",
             "hu": "A múzeum csak egy rövid sétára van a Piactértől.",
             "ro": "Muzeul este la o scurtă plimbare de Piața Centrală.",
-            "en": "The museum is just a short walk from the Market Square."
+            "en": "The museum is just a short walk from the Market Square.",
+            "pl": "Muzeum jest zaledwie krótki spacer od Rynku."
           }
         },
         {
@@ -1257,7 +1363,8 @@
             "de": "Marienkirche",
             "hu": "Mária-templom",
             "ro": "Biserica Sf. Maria",
-            "en": "St. Mary's Church"
+            "en": "St. Mary's Church",
+            "pl": "Bazylika Mariacka"
           },
           "coords": [
             18.9235,
@@ -1273,7 +1380,8 @@
             "de": "Beenden Sie Ihre Erkundung des Zentrums mit diesem gotischen Meisterwerk.",
             "hu": "Fejezze be a központ felfedezését ezzel a gótikus remekművel.",
             "ro": "Încheiați explorarea centrului cu această capodoperă gotică.",
-            "en": "End your exploration of the center with this Gothic masterpiece."
+            "en": "End your exploration of the center with this Gothic masterpiece.",
+            "pl": "Zakończ zwiedzanie centrum tą gotycką perłą."
           }
         }
       ],
@@ -1281,7 +1389,8 @@
         "de": "Nutzen Sie die Flexibilität des Autos, um Bytom umfassend zu erleben. Beginnen Sie den Tag im ruhigen Fazaniec-Park und am beeindruckenden Wasserturm. Fahren Sie dann ins Zentrum, parken Sie Ihr Auto und widmen Sie den Nachmittag dem historischen Herzen der Stadt: Genießen Sie ein Mittagessen am Marktplatz, erkunden Sie das Oberschlesische Museum und lassen Sie die gotische Pracht der Marienkirche auf sich wirken. Ein Tag, der Natur, Industrieerbe und Stadtkultur perfekt verbindet.",
         "hu": "Használja ki az autó nyújtotta rugalmasságot Bytom átfogó megismeréséhez. Kezdje a napot a csendes Fazaniec Parkban és a lenyűgöző Víztoronynál. Ezután hajtson be a központba, parkolja le az autót, és szentelje a délutánt a város történelmi szívének: ebédeljen a Piactéren, fedezze fel a Felső-Sziléziai Múzeumot, és hagyja, hogy a Mária-templom gótikus pompája hasson Önre. Egy nap, amely tökéletesen ötvözi a természetet, az ipari örökséget és a városi kultúrát.",
         "ro": "Folosiți flexibilitatea mașinii pentru a experimenta Bytom în mod cuprinzător. Începeți ziua în liniștitul Parc Fazaniec și la impresionantul Turn de Apă. Apoi, conduceți spre centru, parcați mașina și dedicați după-amiaza inimii istorice a orașului: savurați prânzul în Piața Centrală, explorați Muzeul Sileziei Superioare și lăsați-vă impresionați de splendoarea gotică a Bisericii Sf. Maria. O zi care combină perfect natura, patrimoniul industrial și cultura urbană.",
-        "en": "Use the flexibility of the car to experience Bytom comprehensively. Start the day in the quiet Fazaniec Park and at the impressive Water Tower. Then drive to the center, park your car, and dedicate the afternoon to the historical heart of the city: enjoy lunch at the Market Square, explore the Upper Silesian Museum, and let the Gothic splendor of St. Mary's Church sink in. A day that perfectly combines nature, industrial heritage, and urban culture."
+        "en": "Use the flexibility of the car to experience Bytom comprehensively. Start the day in the quiet Fazaniec Park and at the impressive Water Tower. Then drive to the center, park your car, and dedicate the afternoon to the historical heart of the city: enjoy lunch at the Market Square, explore the Upper Silesian Museum, and let the Gothic splendor of St. Mary's Church sink in. A day that perfectly combines nature, industrial heritage, and urban culture.",
+        "pl": "Wykorzystaj elastyczność samochodu, by kompleksowo poznać Bytom. Rozpocznij dzień w cichym Parku Fazaniec i przy imponującej Wieży Wodnej. Następnie dojedź do centrum, zaparkuj samochód i poświęć popołudnie historycznemu sercu miasta: zjedz obiad na Rynku, odwiedź Muzeum Górnośląskie i daj się oczarować gotyckiemu splendory Bazyliki Mariackiej. Dzień idealnie łączy przyrodę, dziedzictwo przemysłowe i kulturę miejską."
       },
       "gastro_picks": {
         "de": [
@@ -1477,6 +1586,12 @@
           "A navigation system is helpful for getting around the city.",
           "Be aware of low-emission zones in the city center.",
           "Do not leave valuables visible in the car."
+        ],
+        "pl": [
+          "Dowiedz się wcześniej o opcjach parkowania i opłatach.",
+          "System nawigacji pomaga w poruszaniu się po mieście.",
+          "Uważaj na strefy niskoemisyjne w centrum miasta.",
+          "Nie zostawiaj wartościowych przedmiotów na widoku w samochodzie."
         ]
       },
       "variants": {
@@ -1485,7 +1600,8 @@
             "de": "Beginnen Sie bequem am Fazaniec-Park, wo Sie im Auto den stärksten Regen abwarten können. Der kurze Weg zum Wasserturm ist auch bei nassem Wetter unkompliziert.\n\nIn der Nähe des Marktplatzes parken Sie zentral und trocken. Der Weg zum Mittagessen ist kurz, sodass Sie kaum nass werden.\n\nDas Oberschlesische Museum ist das Haupthighlight des Nachmittags und bietet perfekten Schutz vor den Elementen. Die Marienkirche ist nur einen kurzen Sprint entfernt.\n\nBeenden Sie den Tag entspannt, während der Regen gegen die Windschutzscheibe trommelt.",
             "hu": "Kezdje kényelmesen a Fazaniec parknál, ahol az autóban várhatja meg a nagyobb záporok végét. A Víztoronyhoz vezető rövid szakasz esőben is könnyen teljesíthető.\n\nA Főtér közelében keressen központi parkolót, így csak pár lépés a száraz étterem. A városnézés ezen része esernyővel is kényelmes.\n\nAz Upper Silesian Múzeum a délutáni program gerince, ahol garantáltan szárazon marad. A Mária-templomhoz csak egy rövid séta választja el.\n\nZárja a napot nyugodtan, miközben az autó ablakán kopogó esőt hallgatja.",
             "ro": "Începeți confortabil la Parcul Fazaniec, unde puteți aștepta în mașină trecerea ploii. Drumul scurt spre Turnul de Apă este facil chiar și pe vreme umedă.\n\nParcați central lângă Piața Mare pentru a rămâne cât mai uscat. Accesul spre restaurantele de prânz este rapid și comod.\n\nMuzeul Sileziei Superioare este punctul forte al după-amiezii, oferind protecție totală. Biserica Sf. Maria se află la doar câțiva pași distanță.\n\nÎncheiați ziua relaxat, ascultând ploaia care bate în parbriz în drum spre casă.",
-            "en": "Start comfortably at Fazaniec Park, where you can wait out heavy showers in your car. The short drive to the Water Tower is easy even in wet weather.\n\nPark centrally near the Market Square to stay dry. The walk to lunch is short, minimizing your exposure to the rain.\n\nThe Upper Silesian Museum is the afternoon's highlight, providing perfect shelter from the elements. St. Mary's Church is just a quick dash away.\n\nEnd your day in a relaxed mood, watching the rain on the windshield as you drive back."
+            "en": "Start comfortably at Fazaniec Park, where you can wait out heavy showers in your car. The short drive to the Water Tower is easy even in wet weather.\n\nPark centrally near the Market Square to stay dry. The walk to lunch is short, minimizing your exposure to the rain.\n\nThe Upper Silesian Museum is the afternoon's highlight, providing perfect shelter from the elements. St. Mary's Church is just a quick dash away.\n\nEnd your day in a relaxed mood, watching the rain on the windshield as you drive back.",
+            "pl": "Rozpocznij wygodnie w Parku Fazaniec, czekając w samochodzie aż przejdą silne opady. Krótka przejażdżka do Wieży Wodnej jest łatwa nawet w mokrych warunkach.\n\nZaparkuj centralnie przy Rynku, by pozostać suchym. Spacer do obiadu jest krótki, co minimalizuje ekspozycję na deszcz.\n\nPopołudnie w Muzeum Górnośląskim to główna atrakcja, zapewniająca schronienie przed żywiołami. Bazylika Mariacka jest tuż za rogiem.\n\nZakończ dzień w odprężonym nastroju, obserwując deszcz na przedniej szybie podczas powrotu."
           },
           "stops": [
             {
@@ -1494,7 +1610,8 @@
                 "de": "Warten Sie im Auto, bis der Regen nachlässt.",
                 "hu": "Várjon az autóban, amíg alábbhagy az eső.",
                 "ro": "Așteptați în mașină până se domolește ploaia.",
-                "en": "Wait in the car until the heaviest rain passes."
+                "en": "Wait in the car until the heaviest rain passes.",
+                "pl": "Poczekaj w samochodzie, aż najsilniejszy deszcz minie."
               }
             },
             {
@@ -1503,7 +1620,8 @@
                 "de": "Kurzer Spaziergang mit großem Schirm.",
                 "hu": "Rövid séta egy nagy esernyővel.",
                 "ro": "Plimbare scurtă cu o umbrelă mare.",
-                "en": "Take a short walk with a large umbrella."
+                "en": "Take a short walk with a large umbrella.",
+                "pl": "Przejdź krótko z dużym parasolem."
               }
             },
             {
@@ -1512,7 +1630,8 @@
                 "de": "Parkplatz direkt davor nutzen.",
                 "hu": "Használja a közvetlenül előtte lévő parkolót.",
                 "ro": "Folosiți parcarea chiar din fața turnului.",
-                "en": "Use the parking lot right in front of it."
+                "en": "Use the parking lot right in front of it.",
+                "pl": "Skorzystaj z parkingu tuż przed nim."
               }
             },
             {
@@ -1521,7 +1640,8 @@
                 "de": "Überdachtes Parkhaus in der Nähe suchen.",
                 "hu": "Keressen fedett parkolóházat a közelben.",
                 "ro": "Căutați o parcare acoperită în apropiere.",
-                "en": "Look for a covered parking garage nearby."
+                "en": "Look for a covered parking garage nearby.",
+                "pl": "Szukaj zadaszonego parkingu w pobliżu."
               }
             },
             {
@@ -1530,7 +1650,8 @@
                 "de": "Restaurant mit direktem Zugang wählen.",
                 "hu": "Válasszon közvetlen bejáratú éttermet.",
                 "ro": "Alegeți un restaurant cu acces facil.",
-                "en": "Choose a restaurant with an easy entrance."
+                "en": "Choose a restaurant with an easy entrance.",
+                "pl": "Wybierz restaurację z łatwym wejściem."
               }
             },
             {
@@ -1539,7 +1660,8 @@
                 "de": "Idealer Ort für regnerische Nachmittage.",
                 "hu": "Ideális hely esős délutánokra.",
                 "ro": "Loc ideal pentru după-amiezi ploioase.",
-                "en": "Ideal location for rainy afternoons."
+                "en": "Ideal location for rainy afternoons.",
+                "pl": "Idealne miejsce na deszczowe popołudnia."
               }
             },
             {
@@ -1548,7 +1670,8 @@
                 "de": "Kurzer Weg vom Parkplatz zur Kirche.",
                 "hu": "Rövid út a parkolótól a templomig.",
                 "ro": "Drum scurt de la parcare la biserică.",
-                "en": "Short walk from the parking area to the church."
+                "en": "Short walk from the parking area to the church.",
+                "pl": "Krótki spacer z miejsca parkingowego do kościoła."
               }
             }
           ],
@@ -1580,6 +1703,13 @@
               "Watch out for deep puddles in side streets.",
               "The museum is the ultimate indoor backup plan.",
               "Ensure your wipers are in good condition."
+            ],
+            "pl": [
+              "Parkuj jak najbliżej wejść.",
+              "Miej pod ręką parasole dla wszystkich pasażerów.",
+              "Uważaj na głębokie kałuże w bocznych uliczkach.",
+              "Muzeum to ostateczny plan awaryjny pod dachem.",
+              "Upewnij się, że wycieraczki są w dobrym stanie."
             ]
           }
         },
@@ -1588,7 +1718,8 @@
             "de": "Starten Sie warm im Auto am Fazaniec-Park und genießen Sie die frostige Natur von innen. Die Fahrt zum Wasserturm führt durch das winterliche Bytom.\n\nEin Parkplatz nahe dem Markt ermöglicht einen kurzen Besuch der winterlichen Altstadt ohne langes Frieren. Ein warmes Mittagessen ist jetzt genau das Richtige.\n\nDer Nachmittag im Oberschlesischen Museum ist eine willkommene Aufwärmphase. Die Marienkirche wirkt in der frühen Dämmerung besonders friedlich.\n\nBeenden Sie die Tour, bevor die Straßen bei sinkenden Temperaturen glatt werden.",
             "hu": "Kezdje a napot a fűtött autóban a Fazaniec parknál, csodálja a deres tájat az ablakból. A Víztoronyhoz vezető út a téli Bytomon át vezet.\n\nA Főtér közeli parkoló lehetővé teszi a gyors városnézést anélkül, hogy átfagyna. Egy forró ebéd után jobban esik a folytatás.\n\nA délutáni múzeumlátogatás tökéletes alkalom a felmelegedésre. A Mária-templom a korai szürkületben válik igazán hangulatossá.\n\nFejezze be a napot, mielőtt az utak a fagy hatására csúszóssá válnának.",
             "ro": "Începeți ziua în căldura mașinii la Parcul Fazaniec, admirând natura înghețată prin geam. Drumul spre Turnul de Apă traversează orașul hibernal.\n\nO parcare lângă Piața Mare vă permite să vizitați centrul vechi fără a sta prea mult în frig. Un prânz cald este obligatoriu acum.\n\nDupă-amiaza la Muzeul Sileziei Superioare este o pauză de încălzire binevenită. Biserica Sf. Maria arată superb în amurgul timpuriu.\n\nÎncheiați traseul înainte ca drumurile să devină alunecoase din cauza înghețului de seară.",
-            "en": "Start warm in your car at Fazaniec Park, enjoying the frosty nature from inside. The drive to the Water Tower takes you through wintery Bytom.\n\nA parking spot near the square allows for a quick visit to the old town without freezing. A warm lunch is exactly what you need now.\n\nThe afternoon at the Upper Silesian Museum is a welcome warm-up phase. St. Mary's Church looks especially peaceful in the early winter dusk.\n\nFinish your tour before the roads get icy as temperatures drop in the evening."
+            "en": "Start warm in your car at Fazaniec Park, enjoying the frosty nature from inside. The drive to the Water Tower takes you through wintery Bytom.\n\nA parking spot near the square allows for a quick visit to the old town without freezing. A warm lunch is exactly what you need now.\n\nThe afternoon at the Upper Silesian Museum is a welcome warm-up phase. St. Mary's Church looks especially peaceful in the early winter dusk.\n\nFinish your tour before the roads get icy as temperatures drop in the evening.",
+            "pl": "Rozpocznij ciepło w samochodzie w Parku Fazaniec, podziwiając mroźną przyrodę ze środka. Przejazd do Wieży Wodnej prowadzi przez zimowy Bytom.\n\nMiejsce parkingowe przy Rynku pozwala na szybkie zwiedzanie starego miasta bez marznięcia. Ciepły obiad to dokładnie to, czego teraz potrzebujesz.\n\nPopołudnie w Muzeum Górnośląskim to mile widziana rozgrzewka. Bazylika Mariacka wygląda szczególnie spokojnie w wczesnym zimowym zmierzchu.\n\nZakończ trasę przed pojawieniem się oblodzeń na drogach, bo temperatury spadają wieczorem."
           },
           "stops": [
             {
@@ -1597,7 +1728,8 @@
                 "de": "Lassen Sie den Motor kurz warmlaufen.",
                 "hu": "Hagyja az autót kicsit bemelegedni.",
                 "ro": "Lăsați motorul să se încălzească puțin.",
-                "en": "Let the car warm up for a few minutes."
+                "en": "Let the car warm up for a few minutes.",
+                "pl": "Pozwól samochodowi się kilka minut rozgrzać."
               }
             },
             {
@@ -1606,7 +1738,8 @@
                 "de": "Zügiger Spaziergang in der Winterluft.",
                 "hu": "Frissítő séta a téli levegőn.",
                 "ro": "Plimbare rapidă în aerul rece de iarnă.",
-                "en": "Quick, brisk walk in the crisp winter air."
+                "en": "Quick, brisk walk in the crisp winter air.",
+                "pl": "Krótki, żwawy spacer w rześkim zimowym powietrzu."
               }
             },
             {
@@ -1615,7 +1748,8 @@
                 "de": "Heizung im Auto auf dem Weg hochdrehen.",
                 "hu": "Tekerje fel a fűtést az úton.",
                 "ro": "Măriți căldura în mașină pe durata drumului.",
-                "en": "Turn up the car heater on the way."
+                "en": "Turn up the car heater on the way.",
+                "pl": "Włącz mocniej ogrzewanie w samochodzie w drodze."
               }
             },
             {
@@ -1624,7 +1758,8 @@
                 "de": "Vorsicht vor vereisten Parkplatzmarkierungen.",
                 "hu": "Vigyázzon a jeges parkolóhelyekre.",
                 "ro": "Atenție la marcajele de parcare înghețate.",
-                "en": "Watch for ice on parking spot markings."
+                "en": "Watch for ice on parking spot markings.",
+                "pl": "Uważaj na lód na oznaczeniach miejsc parkingowych."
               }
             },
             {
@@ -1633,7 +1768,8 @@
                 "de": "Heiße Suppe zur Stärkung genießen.",
                 "hu": "Egyen egy forró levest ebédre.",
                 "ro": "Savurați o supă caldă la prânz.",
-                "en": "Enjoy a hot soup to boost your energy."
+                "en": "Enjoy a hot soup to boost your energy.",
+                "pl": "Zjedz gorącą zupę, by dodać sobie energii."
               }
             },
             {
@@ -1642,7 +1778,8 @@
                 "de": "Bester Ort gegen die Nachmittagskälte.",
                 "hu": "Legjobb hely a délutáni hideg ellen.",
                 "ro": "Cel mai bun loc împotriva frigului de afară.",
-                "en": "Best place to hide from the afternoon chill."
+                "en": "Best place to hide from the afternoon chill.",
+                "pl": "Najlepsze miejsce, by ukryć się przed popołudniowym chłodem."
               }
             },
             {
@@ -1651,7 +1788,8 @@
                 "de": "Die Beleuchtung in der Dämmerung bewundern.",
                 "hu": "Csodálja meg a fényeket a szürkületben.",
                 "ro": "Admirați iluminatul la lăsarea serii.",
-                "en": "Admire the lighting in the early twilight."
+                "en": "Admire the lighting in the early twilight.",
+                "pl": "Podziwiaj oświetlenie wczesnym zmierzchem."
               }
             }
           ],
@@ -1683,6 +1821,13 @@
               "Parking near the square is usually easier in winter.",
               "The museum is a great place to warm up thoroughly.",
               "Be ready for total darkness starting at 4 PM."
+            ],
+            "pl": [
+              "Upewnij się, że masz płyn do spryskiwaczy z antyzamarzaczem.",
+              "Uważaj na gołoledź na drogach w pobliżu lasu.",
+              "Parkowanie przy rynku jest zwykle łatwiejsze zimą.",
+              "Muzeum to doskonałe miejsce, by się porządnie ogrzać.",
+              "Przygotuj się na całkowitą ciemność od godz. 16:00."
             ]
           }
         }
@@ -1701,7 +1846,8 @@
             "de": "Ankunft am Busbahnhof",
             "hu": "Érkezés a buszpályaudvarra",
             "ro": "Sosire la autogară",
-            "en": "Arrival at the bus station"
+            "en": "Arrival at the bus station",
+            "pl": "Przyjazd na dworzec autobusowy"
           },
           "coords": [
             18.918,
@@ -1717,7 +1863,8 @@
             "de": "Kaufen Sie eine Tageskarte für den öffentlichen Nahverkehr.",
             "hu": "Vásároljon napijegyet a tömegközlekedéshez.",
             "ro": "Cumpărați un bilet de o zi pentru transportul public.",
-            "en": "Buy a day pass for public transport."
+            "en": "Buy a day pass for public transport.",
+            "pl": "Kup bilet dobowy na komunikację miejską."
           }
         },
         {
@@ -1725,7 +1872,8 @@
             "de": "Schlesische Oper",
             "hu": "Sziléziai Opera",
             "ro": "Opera Sileziană",
-            "en": "Silesian Opera"
+            "en": "Silesian Opera",
+            "pl": "Opera Śląska"
           },
           "coords": [
             18.919,
@@ -1741,7 +1889,8 @@
             "de": "Ein kurzer Spaziergang vom Busbahnhof, um den Tag zu beginnen.",
             "hu": "Rövid séta a buszpályaudvartól a nap kezdéséhez.",
             "ro": "O scurtă plimbare de la autogară pentru a începe ziua.",
-            "en": "A short walk from the bus station to start the day."
+            "en": "A short walk from the bus station to start the day.",
+            "pl": "Krótki spacer z dworca autobusowego, by zacząć dzień."
           }
         },
         {
@@ -1749,7 +1898,8 @@
             "de": "Marktplatz",
             "hu": "Piactér",
             "ro": "Piața Centrală",
-            "en": "Market Square"
+            "en": "Market Square",
+            "pl": "Rynek"
           },
           "coords": [
             18.9221,
@@ -1765,7 +1915,8 @@
             "de": "Das Herz der Stadt, nur wenige Gehminuten entfernt.",
             "hu": "A város szíve, csak pár perc sétára.",
             "ro": "Inima orașului, la doar câteva minute de mers pe jos.",
-            "en": "The heart of the city, just a few minutes' walk away."
+            "en": "The heart of the city, just a few minutes' walk away.",
+            "pl": "Serce miasta, zaledwie kilka minut spacerem."
           }
         },
         {
@@ -1773,7 +1924,8 @@
             "de": "Oberschlesisches Museum",
             "hu": "Felső-Sziléziai Múzeum",
             "ro": "Muzeul Sileziei Superioare",
-            "en": "Upper Silesian Museum"
+            "en": "Upper Silesian Museum",
+            "pl": "Muzeum Górnego Śląska"
           },
           "coords": [
             18.925,
@@ -1789,7 +1941,8 @@
             "de": "Vertiefen Sie sich in die Geschichte, bevor Sie weiterziehen.",
             "hu": "Mélyedjen el a történelemben, mielőtt továbbhalad.",
             "ro": "Aprofundați istoria înainte de a merge mai departe.",
-            "en": "Delve into history before moving on."
+            "en": "Delve into history before moving on.",
+            "pl": "Zanurz się w historii, zanim ruszysz dalej."
           }
         },
         {
@@ -1797,7 +1950,8 @@
             "de": "Fahrt zum Kachel-Stadtpark",
             "hu": "Utazás a Kachel parkba",
             "ro": "Călătorie spre Parcul Kachel",
-            "en": "Trip to Kachel City Park"
+            "en": "Trip to Kachel City Park",
+            "pl": "Wycieczka do Parku Miejskiego Kachel"
           },
           "coords": [
             18.915,
@@ -1813,7 +1967,8 @@
             "de": "Nehmen Sie eine Straßenbahn oder einen Bus für eine kurze Fahrt zur Entspannung.",
             "hu": "Menjen villamossal vagy busszal egy rövid útra a pihenésért.",
             "ro": "Luați un tramvai sau un autobuz pentru o călătorie scurtă de relaxare.",
-            "en": "Take a tram or bus for a short ride to relax."
+            "en": "Take a tram or bus for a short ride to relax.",
+            "pl": "Wsiądź w tramwaj lub autobus na krótką przejażdżkę dla relaksu."
           }
         },
         {
@@ -1821,7 +1976,8 @@
             "de": "Dreifaltigkeitskirche",
             "hu": "Szentháromság-templom",
             "ro": "Biserica Sfânta Treime",
-            "en": "Holy Trinity Church"
+            "en": "Holy Trinity Church",
+            "pl": "Kościół Trójcy Świętej"
           },
           "coords": [
             18.927,
@@ -1837,7 +1993,8 @@
             "de": "Eine weitere kurze Fahrt bringt Sie zu diesem architektonischen Juwel.",
             "hu": "Egy újabb rövid utazás elviszi Önt ehhez az építészeti gyöngyszemhez.",
             "ro": "O altă călătorie scurtă vă duce la această bijuterie arhitecturală.",
-            "en": "Another short ride takes you to this architectural gem."
+            "en": "Another short ride takes you to this architectural gem.",
+            "pl": "Kolejna krótka przejażdżka zaprowadzi cię do tej perełki architektury."
           }
         }
       ],
@@ -1845,7 +2002,8 @@
         "de": "Entdecken Sie Bytom bequem mit öffentlichen Verkehrsmitteln. Beginnen Sie im Stadtzentrum mit einem Cluster aus Oper, Marktplatz und dem Oberschlesischen Museum, alles bequem zu Fuß erreichbar. Am Nachmittag bringt Sie eine kurze Straßenbahnfahrt in den ruhigen Kachel-Stadtpark für eine grüne Auszeit. Eine weitere Fahrt führt Sie zur prächtigen Dreifaltigkeitskirche, die einen perfekten kulturellen Abschluss Ihres Tages bietet. Effizient, entspannt und voller Entdeckungen.",
         "hu": "Fedezze fel Bytomot kényelmesen tömegközlekedéssel. Kezdje a városközpontban az Opera, a Piactér és a Felső-Sziléziai Múzeum együttesével, melyek mind könnyen megközelíthetők gyalog. Délután egy rövid villamosút elviszi a csendes Kachel városi parkba egy zöld pihenőre. Egy másik utazás a csodálatos Szentháromság-templomhoz vezet, amely tökéletes kulturális lezárása a napnak. Hatékony, pihentető és tele felfedezésekkel.",
         "ro": "Descoperiți Bytom convenabil cu transportul public. Începeți în centrul orașului cu un grup de atracții format din Operă, Piața Centrală și Muzeul Sileziei Superioare, toate accesibile pe jos. După-amiaza, o scurtă călătorie cu tramvaiul vă va duce în liniștitul Parc Kachel pentru o pauză verde. O altă călătorie vă va conduce la magnifica Biserică Sfânta Treime, oferind o încheiere culturală perfectă a zilei. Eficient, relaxant și plin de descoperiri.",
-        "en": "Discover Bytom conveniently by public transport. Start in the city center with a cluster of the Opera, Market Square, and the Upper Silesian Museum, all easily accessible on foot. In the afternoon, a short tram ride will take you to the quiet Kachel City Park for a green break. Another ride leads you to the magnificent Holy Trinity Church, providing a perfect cultural conclusion to your day. Efficient, relaxed, and full of discoveries."
+        "en": "Discover Bytom conveniently by public transport. Start in the city center with a cluster of the Opera, Market Square, and the Upper Silesian Museum, all easily accessible on foot. In the afternoon, a short tram ride will take you to the quiet Kachel City Park for a green break. Another ride leads you to the magnificent Holy Trinity Church, providing a perfect cultural conclusion to your day. Efficient, relaxed, and full of discoveries.",
+        "pl": "Odkryj Bytom wygodnie korzystając z komunikacji miejskiej. Zacznij w centrum, gdzie skupiają się Opera, Rynek i Muzeum Górnego Śląska — wszystko w zasięgu spaceru. Po południu krótka przejażdżka tramwajem zaprowadzi cię do spokojnego Parku Miejskiego Kachel na zieloną przerwę. Kolejna przejażdżka prowadzi do wspaniałego Kościoła Trójcy Świętej, co stanowi idealne kulturalne zakończenie dnia. Efektywnie, spokojnie i pełno odkryć."
       },
       "gastro_picks": {
         "de": [
@@ -2041,6 +2199,12 @@
           "Download a public transport app for real-time schedules and routes.",
           "Validate your ticket upon boarding to avoid fines.",
           "Be aware of peak hours when buses and trams can be very crowded."
+        ],
+        "pl": [
+          "Bilet dobowy jest zwykle najtańszą opcją przy wielu przejazdach.",
+          "Pobierz aplikację komunikacji miejskiej, by mieć rozkłady i trasy w czasie rzeczywistym.",
+          "Skasuj bilet przy wsiadaniu, by uniknąć mandatów.",
+          "Weź pod uwagę godziny szczytu, gdy autobusy i tramwaje mogą być bardzo zatłoczone."
         ]
       },
       "variants": {
@@ -2049,7 +2213,8 @@
             "de": "Nach der Ankunft am Busbahnhof nutzen Sie die kurzen Wege zur Schlesischen Oper. Ein Schirm ist für die Übergänge zwischen den Haltestellen unverzichtbar.\n\nDer Marktplatz liegt nur eine kurze Fahrt entfernt, wo Sie im Regen den historischen Charme genießen. Das Oberschlesische Museum bietet stundenlangen Schutz.\n\nDie Fahrt zum Kachel-Park erfolgt im trockenen Bus; die Natur im Regen hat ihren eigenen Reiz. Die Dreifaltigkeitskirche ist ein ruhiger Ort vor der Rückreise.\n\nAm Abend bringt Sie der Nahverkehr sicher und trocken zurück zu Ihrem Ausgangspunkt.",
             "hu": "A buszpályaudvarra érkezve használja ki a közeli Sziléziai Opera közelségét. Az esernyő kötelező a megállók közötti rövid sétákhoz.\n\nA Főtér csak egy rövid utazás, ahol az eső ellenére is érezhető a történelem. Az Upper Silesian Múzeum órákig tartó védelmet nyújt.\n\nA Kachel parkba tartó buszút alatt pihenhet, a park esőben is különleges látvány. A Szent Háromság-templom csendes menedék a nap végén.\n\nEste a tömegközlekedés biztonságosan és szárazon viszi vissza a kiindulópontra.",
             "ro": "După sosirea la autogară, profitați de proximitatea Operei Sileziene. O umbrelă este indispensabilă pentru segmentele de mers pe jos între stații.\n\nPiața Mare este la o scurtă călătorie distanță, păstrându-și farmecul și pe ploaie. Muzeul Sileziei Superioare vă oferă adăpost pentru câteva ore.\n\nCălătoria spre Parcul Kachel se face cu autobuzul, ferit de ploaie. Încheiați la Biserica Sfânta Treime, un spațiu liniștit înainte de plecare.\n\nSeara, transportul public vă readuce în siguranță și la uscat spre destinația finală.",
-            "en": "Upon arrival at the bus station, take advantage of the short walk to the Silesian Opera. An umbrella is vital for the transitions between transit stops.\n\nThe Market Square is just a quick ride away, retaining its charm even in the rain. The Upper Silesian Museum offers hours of indoor protection.\n\nThe trip to Kachel Park is done in the dry comfort of a bus; the park has a unique appeal in the rain. Holy Trinity Church is a quiet haven before your return.\n\nIn the evening, public transport takes you back safely and dry to your starting point."
+            "en": "Upon arrival at the bus station, take advantage of the short walk to the Silesian Opera. An umbrella is vital for the transitions between transit stops.\n\nThe Market Square is just a quick ride away, retaining its charm even in the rain. The Upper Silesian Museum offers hours of indoor protection.\n\nThe trip to Kachel Park is done in the dry comfort of a bus; the park has a unique appeal in the rain. Holy Trinity Church is a quiet haven before your return.\n\nIn the evening, public transport takes you back safely and dry to your starting point.",
+            "pl": "Po przyjeździe na dworzec autobusowy skorzystaj z krótkiego spaceru do Opery Śląskiej. Parasol jest niezbędny podczas przejść między przystankami.\n\nRynek znajduje się w zasięgu krótkiej przejażdżki i zachowuje swój urok nawet w deszczu. Muzeum Górnego Śląska oferuje godziny schronienia pod dachem.\n\nPodróż do Parku Kachel odbywa się w suchym komforcie autobusu; park ma niepowtarzalny urok w deszczu. Kościół Trójcy Świętej to spokojne schronienie przed powrotem.\n\nWieczorem komunikacja miejska bezpiecznie i suchą drogą odwiezie cię z powrotem do punktu wyjścia."
           },
           "stops": [
             {
@@ -2058,7 +2223,8 @@
                 "de": "Unterstand am Bahnhof nutzen.",
                 "hu": "Használja a pályaudvar fedett részeit.",
                 "ro": "Folosiți zonele acoperite din autogară.",
-                "en": "Stay under the station's roof while waiting."
+                "en": "Stay under the station's roof while waiting.",
+                "pl": "Czekaj pod dachem stacji."
               }
             },
             {
@@ -2067,7 +2233,8 @@
                 "de": "Nur wenige Schritte von der Haltestelle.",
                 "hu": "Csak pár lépés a megállótól.",
                 "ro": "La doar câțiva pași de stația de transport.",
-                "en": "Just a few steps from the transit stop."
+                "en": "Just a few steps from the transit stop.",
+                "pl": "Zaledwie kilka kroków od przystanku."
               }
             },
             {
@@ -2076,7 +2243,8 @@
                 "de": "Zentraler Knotenpunkt vieler Linien.",
                 "hu": "Számos járat központi csomópontja.",
                 "ro": "Nod central pentru multe linii de transport.",
-                "en": "Central hub for many local transit lines."
+                "en": "Central hub for many local transit lines.",
+                "pl": "Centralny węzeł wielu lokalnych linii komunikacyjnych."
               }
             },
             {
@@ -2085,7 +2253,8 @@
                 "de": "Direkt vor dem Eingang gibt es eine Haltestelle.",
                 "hu": "Közvetlenül a bejáratnál van megálló.",
                 "ro": "Există o stație chiar în fața intrării.",
-                "en": "There is a transit stop right by the entrance."
+                "en": "There is a transit stop right by the entrance.",
+                "pl": "Przy wejściu znajduje się przystanek komunikacji miejskiej."
               }
             },
             {
@@ -2094,7 +2263,8 @@
                 "de": "Im Bus trocken die Aussicht genießen.",
                 "hu": "A buszon szárazon élvezheti a kilátást.",
                 "ro": "Bucurați-vă de vedere din autobuz, la uscat.",
-                "en": "Enjoy the view from the dry bus interior."
+                "en": "Enjoy the view from the dry bus interior.",
+                "pl": "Ciesz się widokiem z suchego wnętrza autobusu."
               }
             },
             {
@@ -2103,7 +2273,8 @@
                 "de": "Kurzer Sprint zur nächsten Haltestelle.",
                 "hu": "Gyors séta a következő megállóig.",
                 "ro": "Scurtă alergare spre următoarea stație.",
-                "en": "A quick dash to the nearest bus stop."
+                "en": "A quick dash to the nearest bus stop.",
+                "pl": "Szybki sprint do najbliższego przystanku autobusowego."
               }
             }
           ],
@@ -2135,6 +2306,13 @@
               "A day pass is very cost-effective in bad weather.",
               "Make the most of your time inside the museum.",
               "Watch out for splashing water near the bus stops."
+            ],
+            "pl": [
+              "Aplikacja 'Jakdojade' pomaga w aktualizacjach w czasie rzeczywistym.",
+              "Większość przystanków jest zadaszona i zapewnia dobrą osłonę.",
+              "Bilet dobowy jest bardzo opłacalny w złej pogodzie.",
+              "Wykorzystaj czas w muzeum jak najlepiej.",
+              "Uważaj na chlapzącą wodę w pobliżu przystanków autobusowych."
             ]
           }
         },
@@ -2143,7 +2321,8 @@
             "de": "Ein frostiger Start am Busbahnhof führt Sie direkt zur Schlesischen Oper. Die geheizten Fahrzeuge sind im Winter ein Segen für den Weg durch Bytom.\n\nDer Marktplatz wirkt im Winterlicht besonders edel, auch wenn die Kälte beißend ist. Das Oberschlesische Museum ist der ideale Ort für den Mittag.\n\nDie Fahrt zum Kachel-Park bietet Zeit zum Aufwärmen, während draußen die winterliche Stadt vorbeizieht. Die Dreifaltigkeitskirche ist ein stiller, frostfreier Ort.\n\nAm Abend leuchten die Lichter der Stadt, während Sie mit dem Bus gemütlich zurück zum Bahnhof fahren.",
             "hu": "A buszpályaudvarról indulva egyből a Sziléziai Operához érkezik. A fűtött járművek télen igazi áldást jelentenek a városi közlekedésben.\n\nA Főtér téli fényben tündököl, még ha a hideg csípős is. Az Upper Silesian Múzeum az ideális helyszín a déli órákra.\n\nA Kachel park felé tartó buszon felmelegedhet, miközben figyeli a téli tájat. A Szent Háromság-templom csendes és fagymentes megálló.\n\nEste a város fényei kísérik utazását, miközben kényelmesen visszatér a pályaudvarra.",
             "ro": "Un început de zi geroasă la autogară vă duce direct spre Opera Sileziană. Vehiculele încălzite sunt o binecuvântare iarna prin Bytom.\n\nPiața Mare arată nobil în lumina rece, chiar dacă gerul este pătrunzător. Muzeul Sileziei Superioare este locul ideal pentru prânz.\n\nCălătoria spre Parcul Kachel oferă timp pentru încălzire, în timp ce peisajul urban trece prin dreptul geamului. Biserica Sfânta Treime este un loc liniștit.\n\nSeara, luminile orașului strălucesc în timp ce vă întoarceți confortabil cu autobuzul la gară.",
-            "en": "A frosty start at the bus station leads you straight to the Silesian Opera. Heated public transport is a blessing for getting around Bytom in winter.\n\nThe Market Square looks noble in the winter light, even if the cold is biting. The Upper Silesian Museum is the ideal place for your midday break.\n\nThe trip to Kachel Park provides time to warm up as the wintry city passes by outside. The Holy Trinity Church is a quiet, frost-free sanctuary.\n\nIn the evening, the city lights glow as you take a cozy bus ride back to the station."
+            "en": "A frosty start at the bus station leads you straight to the Silesian Opera. Heated public transport is a blessing for getting around Bytom in winter.\n\nThe Market Square looks noble in the winter light, even if the cold is biting. The Upper Silesian Museum is the ideal place for your midday break.\n\nThe trip to Kachel Park provides time to warm up as the wintry city passes by outside. The Holy Trinity Church is a quiet, frost-free sanctuary.\n\nIn the evening, the city lights glow as you take a cozy bus ride back to the station.",
+            "pl": "Mroźny początek na dworcu autobusowym prowadzi prosto do Opery Śląskiej. Ogrzewana komunikacja publiczna to błogosławieństwo przy poruszaniu się po Bytomiu zimą.\n\nRynek wygląda dostojnie w zimowym świetle, nawet jeśli zimno daje się we znaki. Muzeum Górnego Śląska to idealne miejsce na przerwę w środku dnia.\n\nPodróż do Parku Kachel daje czas na rozgrzanie się, gdy za oknem mija zimowe miasto. Kościół Trójcy Świętej to ciche, wolne od mrozu sanktuarium.\n\nWieczorem światła miasta migoczą podczas przytulnej przejażdżki autobusem powrotną drogą na dworzec."
           },
           "stops": [
             {
@@ -2152,7 +2331,8 @@
                 "de": "Warten Sie in der geheizten Wartehalle.",
                 "hu": "Várjon a fűtött váróteremben.",
                 "ro": "Așteptați în sala de așteptare încălzită.",
-                "en": "Wait in the heated station waiting room."
+                "en": "Wait in the heated station waiting room.",
+                "pl": "Poczekaj w ogrzewanym holu poczekalni dworca."
               }
             },
             {
@@ -2161,7 +2341,8 @@
                 "de": "Die Architektur bei klarem Frost bewundern.",
                 "hu": "Csodálja meg az épületet a tiszta fagyban.",
                 "ro": "Admirați arhitectura în aerul rece și clar.",
-                "en": "Admire the architecture in the crisp frost."
+                "en": "Admire the architecture in the crisp frost.",
+                "pl": "Podziwiaj architekturę w rześkim mrozie."
               }
             },
             {
@@ -2170,7 +2351,8 @@
                 "de": "Zentrale Umsteigemöglichkeit mit kurzen Wegen.",
                 "hu": "Központi átszállási pont rövid sétákkal.",
                 "ro": "Punct central de transfer cu distanțe scurte.",
-                "en": "Central transfer point with minimal walking."
+                "en": "Central transfer point with minimal walking.",
+                "pl": "Centralny punkt przesiadkowy z minimalnym dystansem do przejścia."
               }
             },
             {
@@ -2179,7 +2361,8 @@
                 "de": "Perfekt zum Aufwärmen zwischen den Fahrten.",
                 "hu": "Tökéletes a felmelegedésre az utak között.",
                 "ro": "Perfect pentru încălzire între călătorii.",
-                "en": "Perfect for warming up between bus rides."
+                "en": "Perfect for warming up between bus rides.",
+                "pl": "Idealne miejsce na rozgrzanie się między kursami autobusów."
               }
             },
             {
@@ -2188,7 +2371,8 @@
                 "de": "Achten Sie auf die Winterfahrpläne.",
                 "hu": "Figyeljen a téli menetrendekre.",
                 "ro": "Verificați orarul de iarnă al transportului.",
-                "en": "Be aware of potential winter schedule changes."
+                "en": "Be aware of potential winter schedule changes.",
+                "pl": "Bądź świadomy możliwych zimowych zmian w rozkładach."
               }
             },
             {
@@ -2197,7 +2381,8 @@
                 "de": "Die Stille in der Wärme genießen.",
                 "hu": "Élvezze a csendet a melegben.",
                 "ro": "Bucurați-vă de liniște la căldură.",
-                "en": "Enjoy the quiet inside the warm church."
+                "en": "Enjoy the quiet inside the warm church.",
+                "pl": "Ciesz się ciszą wewnątrz ciepłego kościoła."
               }
             }
           ],
@@ -2229,6 +2414,13 @@
               "Be ready for darkness as early as 4 PM.",
               "Use the Jakdojade app for real-time updates.",
               "The museum is the best place to hide from the cold."
+            ],
+            "pl": [
+              "Pojazdy są zwykle dobrze ogrzewane i komfortowe.",
+              "Uważaj na oblodzone nawierzchnie na przystankach.",
+              "Przygotuj się na zapadanie zmroku już od godz. 16:00.",
+              "Korzystaj z aplikacji Jakdojade do aktualizacji w czasie rzeczywistym.",
+              "Muzeum to najlepsze miejsce, by ukryć się przed chłodem."
             ]
           }
         }

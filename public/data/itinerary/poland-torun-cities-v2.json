@@ -21,7 +21,8 @@
             "de": "Altstädtischer Markt",
             "hu": "Óvárosi piactér",
             "ro": "Piața Orașului Vechi",
-            "en": "Old Town Market Square"
+            "en": "Old Town Market Square",
+            "pl": "Stary Rynek"
           },
           "coords": [
             18.6042,
@@ -37,7 +38,8 @@
             "de": "Bewundern Sie das Rathaus und das Kopernikus-Denkmal.",
             "hu": "Csodálja meg a Városházát és a Kopernikusz-emlékművet.",
             "ro": "Admirați Primăria și monumentul lui Copernic.",
-            "en": "Admire the Town Hall and the Copernicus Monument."
+            "en": "Admire the Town Hall and the Copernicus Monument.",
+            "pl": "Podziwiaj Ratusz i Pomnik Kopernika."
           }
         },
         {
@@ -45,7 +47,8 @@
             "de": "Altes Rathaus",
             "hu": "Régi Városháza",
             "ro": "Primăria Veche",
-            "en": "Old Town Hall"
+            "en": "Old Town Hall",
+            "pl": "Stary Ratusz"
           },
           "coords": [
             18.6044,
@@ -61,7 +64,8 @@
             "de": "Steigen Sie auf den Turm für eine großartige Aussicht auf die Stadt.",
             "hu": "Másszon fel a toronyba a nagyszerű városi panorámáért.",
             "ro": "Urcați în turn pentru o priveliște minunată asupra orașului.",
-            "en": "Climb the tower for a great view of the city."
+            "en": "Climb the tower for a great view of the city.",
+            "pl": "Wejdź na wieżę, by podziwiać świetny widok na miasto."
           }
         },
         {
@@ -69,7 +73,8 @@
             "de": "Kopernikus-Haus",
             "hu": "Kopernikusz-ház",
             "ro": "Casa lui Copernic",
-            "en": "Copernicus House"
+            "en": "Copernicus House",
+            "pl": "Dom Kopernika"
           },
           "coords": [
             18.6015,
@@ -85,7 +90,8 @@
             "de": "Erfahren Sie mehr über das Leben des berühmten Astronomen.",
             "hu": "Tudjon meg többet a híres csillagász életéről.",
             "ro": "Aflați despre viața faimosului astronom.",
-            "en": "Learn about the life of the famous astronomer."
+            "en": "Learn about the life of the famous astronomer.",
+            "pl": "Poznaj życie słynnego astronoma."
           }
         },
         {
@@ -93,7 +99,8 @@
             "de": "Dom St. Johannes",
             "hu": "Szent János-székesegyház",
             "ro": "Catedrala Sf. Ioan Botezătorul",
-            "en": "Cathedral of St. Johns"
+            "en": "Cathedral of St. Johns",
+            "pl": "Katedra św. Jana"
           },
           "coords": [
             18.6022,
@@ -109,7 +116,8 @@
             "de": "Hören Sie die Tuba Dei, eine der größten mittelalterlichen Glocken Polens.",
             "hu": "Hallgassa meg a Tuba Dei-t, Lengyelország egyik legnagyobb középkori harangját.",
             "ro": "Ascultați Tuba Dei, unul dintre cele mai mari clopote medievale din Polonia.",
-            "en": "Listen for the Tuba Dei, one of Poland's largest medieval bells."
+            "en": "Listen for the Tuba Dei, one of Poland's largest medieval bells.",
+            "pl": "Posłuchaj Tuby Dei, jednego z największych średniowiecznych dzwonów w Polsce."
           }
         },
         {
@@ -117,7 +125,8 @@
             "de": "Schiefer Turm",
             "hu": "Ferde torony",
             "ro": "Turnul Înclinat",
-            "en": "Leaning Tower"
+            "en": "Leaning Tower",
+            "pl": "Krzywa Wieża"
           },
           "coords": [
             18.5995,
@@ -133,7 +142,8 @@
             "de": "Machen Sie das klassische Foto, auf dem Sie den Turm stützen.",
             "hu": "Készítse el a klasszikus fotót, ahogy megtámasztja a tornyot.",
             "ro": "Faceți fotografia clasică în care sprijiniți turnul.",
-            "en": "Take the classic photo where you're holding up the tower."
+            "en": "Take the classic photo where you're holding up the tower.",
+            "pl": "Zrób klasyczne zdjęcie, udając, że podtrzymujesz wieżę."
           }
         },
         {
@@ -141,7 +151,8 @@
             "de": "Ruinen der Ordensburg",
             "hu": "Lovagrendi vár romjai",
             "ro": "Ruinele castelului teutonic",
-            "en": "Ruins of the Teutonic Castle"
+            "en": "Ruins of the Teutonic Castle",
+            "pl": "Ruiny zamku krzyżackiego"
           },
           "coords": [
             18.6083,
@@ -157,7 +168,8 @@
             "de": "Erkunden Sie die unterirdischen Teile der ersten Ordensburg in diesem Gebiet.",
             "hu": "Fedezze fel a terület első lovagrendi várának földalatti részeit.",
             "ro": "Explorați părțile subterane ale primului castel teutonic din zonă.",
-            "en": "Explore the underground sections of the first Teutonic castle in the area."
+            "en": "Explore the underground sections of the first Teutonic castle in the area.",
+            "pl": "Odkryj podziemne części pierwszego krzyżackiego zamku w okolicy."
           }
         },
         {
@@ -165,7 +177,8 @@
             "de": "Lebkuchenmuseum",
             "hu": "Mézeskalács Múzeum",
             "ro": "Muzeul de Turtă Dulce",
-            "en": "Gingerbread Museum"
+            "en": "Gingerbread Museum",
+            "pl": "Muzeum Piernika"
           },
           "coords": [
             18.6061,
@@ -181,7 +194,8 @@
             "de": "Nehmen Sie an einem Workshop teil und backen Sie Ihren eigenen Lebkuchen!",
             "hu": "Vegyen részt egy workshopon, és süsse meg a saját mézeskalácsát!",
             "ro": "Participați la un atelier și coaceți-vă propria turtă dulce!",
-            "en": "Join a workshop and bake your own gingerbread!"
+            "en": "Join a workshop and bake your own gingerbread!",
+            "pl": "Weź udział w warsztatach i upiecz własnego piernika!"
           }
         }
       ],
@@ -189,7 +203,8 @@
         "de": "Beginnen Sie Ihren Tag im Herzen von Thorn, dem Altstädter Markt. Nach der Besichtigung des Rathauses und des Kopernikus-Hauses führt Sie ein Spaziergang zum Dom und zum Schiefen Turm, ideal für Fotos. Am Nachmittag tauchen Sie in die Geschichte der Ordensburg ein, bevor Sie den süßen Duft des Lebkuchenmuseums genießen. Ein perfekter Abschluss für einen Tag voller Entdeckungen.",
         "hu": "Kezdje a napot Toruń szívében, az Óvárosi piactéren. A Városháza és a Kopernikusz-ház megtekintése után egy séta elvezet a székesegyházhoz és a Ferde toronyhoz, amely ideális fotózáshoz. Délután merüljön el a lovagrendi vár történelmében, mielőtt élvezné a Mézeskalács Múzeum édes illatát. Tökéletes befejezése egy felfedezésekkel teli napnak.",
         "ro": "Începeți ziua în inima orașului Toruń, Piața Orașului Vechi. După ce vizitați Primăria și Casa lui Copernic, o plimbare vă va duce la Catedrală și la Turnul Înclinat, perfect pentru fotografii. După-amiaza, pătrundeți în istoria Castelului Teutonic înainte de a vă bucura de parfumul dulce al Muzeului de Turtă Dulce. Un final perfect pentru o zi plină de descoperiri.",
-        "en": "Start your day in the heart of Toruń, the Old Town Market Square. After visiting the Town Hall and Copernicus's House, a walk will take you to the Cathedral and the Leaning Tower, perfect for photos. In the afternoon, delve into the history of the Teutonic Castle before enjoying the sweet scent of the Gingerbread Museum. A perfect end to a day of discovery."
+        "en": "Start your day in the heart of Toruń, the Old Town Market Square. After visiting the Town Hall and Copernicus's House, a walk will take you to the Cathedral and the Leaning Tower, perfect for photos. In the afternoon, delve into the history of the Teutonic Castle before enjoying the sweet scent of the Gingerbread Museum. A perfect end to a day of discovery.",
+        "pl": "Rozpocznij dzień w sercu Torunia, na Rynku Starego Miasta. Po odwiedzeniu Ratusza i Domu Kopernika spacer zaprowadzi cię do Katedry i Krzywej Wieży, idealnych do zdjęć. Po południu zgłębiaj historię Zamku Krzyżackiego, a potem ciesz się słodkim aromatem Muzeum Piernika. Idealne zakończenie dnia odkryć."
       },
       "gastro_picks": {
         "de": [
@@ -341,6 +356,10 @@
         "en": [
           "Wear comfortable shoes as the Old Town has cobblestone streets.",
           "Most attractions are within walking distance, so plan to spend the entire day in the historic center."
+        ],
+        "pl": [
+          "Noś wygodne buty, bo Stare Miasto ma brukowane ulice.",
+          "Większość atrakcji jest w zasięgu spaceru, więc zaplanuj cały dzień w centrum historycznym."
         ]
       },
       "variants": {
@@ -349,7 +368,8 @@
             "de": "Beginnen Sie Ihren Tag am regnerischen Marktplatz, wo die Backsteingotik im nassen Glanz erstrahlt. Das Rathaus bietet perfekten Schutz für die Mittagsstunden. Am Nachmittag tauchen Sie in die Museen ein, um dem Guss zu entkommen. Den Abend lassen Sie bei warmem Lebkuchen in einem der gemütlichen Kellerlokale ausklingen, während draußen der Regen auf das Kopfsteinpflaster peitscht.",
             "hu": "Kezdje a napot az esőáztatta főtéren, ahol a gótikus téglák mélyvörös színe még intenzívebbé válik. A Városháza belső terei menedéket nyújtanak a déli záporok elől. Délután fedett múzeumokban kalandozhat Kopernikusz nyomában. Az estét töltse egy hangulatos, ódon pincében, ahol a mézeskalács illata és a meleg tea feledteti a kinti borongós időt.",
             "ro": "Începeți ziua în Piața Veche, unde cărămida gotică capătă nuanțe profunde sub ploaie. Primăria oferă un refugiu excelent pentru orele prânzului. După-amiaza este dedicată muzeelor interioare, evitând rafalele de vânt. Seara, retrageți-vă într-o cafenea istorică de la subsol pentru a degusta turtă dulce caldă, ascultând picăturile de ploaie pe pavajul medieval.",
-            "en": "Start your day at the rain-slicked Market Square, where the Gothic brickwork glows with deep hues. The Town Hall provides perfect shelter during the midday showers. Spend your afternoon exploring indoor museums to stay dry. End the evening in a cozy cellar restaurant with warm gingerbread, watching the rain dance on the ancient cobblestones from a safe, dry distance."
+            "en": "Start your day at the rain-slicked Market Square, where the Gothic brickwork glows with deep hues. The Town Hall provides perfect shelter during the midday showers. Spend your afternoon exploring indoor museums to stay dry. End the evening in a cozy cellar restaurant with warm gingerbread, watching the rain dance on the ancient cobblestones from a safe, dry distance.",
+            "pl": "Rozpocznij dzień na deszczowośliskim Rynku, gdzie gotyk z cegły błyszczy głębokimi odcieniami. Ratusz zapewnia doskonałe schronienie podczas popołudniowych ulew. Popołudnie spędź w muzeach, by pozostać suchym. Zakończ wieczór w przytulnej piwnicznej restauracji z ciepłym piernikiem, obserwując deszcz tańczący na starych brukach z bezpiecznej, suchej odległości."
           },
           "stops": [
             {
@@ -358,7 +378,8 @@
                 "de": "Nutzen Sie die Arkaden der umliegenden Häuser als Unterstand.",
                 "hu": "Használja a környező épületek boltíveit esernyő helyett.",
                 "ro": "Folosiți arcadele clădirilor din jur pentru a vă adăposti.",
-                "en": "Use the arcades of the surrounding buildings as temporary shelter."
+                "en": "Use the arcades of the surrounding buildings as temporary shelter.",
+                "pl": "Wykorzystaj arkady otaczających budynków jako tymczasowe schronienie."
               }
             },
             {
@@ -367,7 +388,8 @@
                 "de": "Idealer Zeitpunkt für eine ausführliche Innenbesichtigung.",
                 "hu": "Tökéletes időpont a belső terek alapos felfedezéséhez.",
                 "ro": "Moment ideal pentru o vizită detaliată în interior.",
-                "en": "Perfect time for an extensive indoor tour of the galleries."
+                "en": "Perfect time for an extensive indoor tour of the galleries.",
+                "pl": "Idealny czas na rozległą, wewnętrzną trasę po galeriach."
               }
             },
             {
@@ -376,7 +398,8 @@
                 "de": "Trockener Rückzugsort mit faszinierender Geschichte.",
                 "hu": "Száraz menedék lenyűgöző csillagászati történetekkel.",
                 "ro": "Refugiu uscat cu o istorie fascinantă a astronomiei.",
-                "en": "A dry retreat filled with fascinating astronomical history."
+                "en": "A dry retreat filled with fascinating astronomical history.",
+                "pl": "Suche schronienie wypełnione fascynującą historią astronomii."
               }
             },
             {
@@ -385,7 +408,8 @@
                 "de": "Die massive Akustik des Regens an den Fenstern genießen.",
                 "hu": "Élvezze az ablakokon kopogó eső különleges akusztikáját.",
                 "ro": "Bucurați-vă de acustica ploii care bate în vitralii.",
-                "en": "Enjoy the unique acoustics of rain pattering on the stained glass."
+                "en": "Enjoy the unique acoustics of rain pattering on the stained glass.",
+                "pl": "Ciesz się wyjątkową akustyką deszczu stukającego o witraże."
               }
             },
             {
@@ -394,7 +418,8 @@
                 "de": "Kurzer Stopp; die Westseite bietet etwas Regenschutz.",
                 "hu": "Rövid megálló; a nyugati oldal némi védelmet nyújt.",
                 "ro": "Oprire scurtă; partea de vest oferă puțină protecție.",
-                "en": "Short stop; the western side offers some wind protection."
+                "en": "Short stop; the western side offers some wind protection.",
+                "pl": "Krótki postój; zachodnia strona oferuje pewną ochronę przed wiatrem."
               }
             },
             {
@@ -403,7 +428,8 @@
                 "de": "Vorsicht auf den rutschigen, nassen Backsteinen.",
                 "hu": "Vigyázat, a vizes téglafalak és lépcsők csúszósak lehetnek.",
                 "ro": "Atenție la cărămizile și treptele umede, pot fi alunecoase.",
-                "en": "Be careful on the slippery, wet bricks and uneven stairs."
+                "en": "Be careful on the slippery, wet bricks and uneven stairs.",
+                "pl": "Uważaj na śliskie, mokre cegły i nierówne schody."
               }
             },
             {
@@ -412,7 +438,8 @@
                 "de": "Duftendes Interieur lässt das schlechte Wetter vergessen.",
                 "hu": "Az illatos belső tér hamar feledteti a kinti esőt.",
                 "ro": "Interiorul parfumat vă va face să uitați de vremea rea.",
-                "en": "The fragrant interior will make you forget the rain outside."
+                "en": "The fragrant interior will make you forget the rain outside.",
+                "pl": "Zapach wnętrza sprawi, że zapomnisz o deszczu na zewnątrz."
               }
             }
           ],
@@ -440,6 +467,12 @@
               "Take advantage of the many cozy cellar cafes for dry breaks.",
               "Museums are popular on rainy days; consider booking in advance.",
               "A sturdy umbrella is essential due to wind gusts from the Vistula."
+            ],
+            "pl": [
+              "Toruńskie brukowce stają się bardzo śliskie po deszczu.",
+              "Skorzystaj z licznych przytulnych kawiarni w piwnicach na suche przerwy.",
+              "Muzea są popularne w deszczowe dni; rozważ rezerwację z wyprzedzeniem.",
+              "Solidny parasol jest niezbędny z powodu podmuchów wiatru znad Wisły."
             ]
           }
         },
@@ -448,7 +481,8 @@
             "de": "Erleben Sie Thorn im winterlichen Weiß, wenn der Frost die gotischen Spitzen verziert. Der Vormittag am Marktplatz ist belebend kalt. Mittags wärmen Sie sich in den Kirchen und Museen auf. Da die Sonne bereits gegen 16 Uhr untergeht, erstrahlt die Altstadt früh im festlichen Lichterglanz. Der Abend gehört der warmen Küche und dem berühmten Glühwein mit Lebkuchengewürz.",
             "hu": "Fedezze fel Toruńt téli díszben, amikor a dér megül a gótikus tornyokon. A délelőtti séta a főtéren frissítően hideg. Délben keressen melegséget a templomok falai között vagy a múzeumokban. Mivel a nap már 16 óra körül lemegy, az óváros korán ünnepi fényekbe öltözik. Az estét töltse egy forró ital és a híres fűszeres mézeskalács társaságában.",
             "ro": "Experimentați Toruń în straie de iarnă, când gerul decorează turnurile gotice. Dimineața în Piața Veche este revigorant de rece. La prânz, încălziți-vă în biserici sau muzee. Deoarece soarele apune în jurul orei 16:00, orașul vechi strălucește devreme în lumini festive. Seara este dedicată preparatelor calde și faimosului vin fiert cu arome de turtă dulce.",
-            "en": "Experience Toruń in winter white, with frost decorating the Gothic spires. The morning at the Market Square is bracingly cold. Warm up midday inside the cathedrals and museums. Since the sun sets around 4 PM, the Old Town lights up early with festive decorations. Spend the evening enjoying hearty Polish cuisine and famous mulled wine with gingerbread spices."
+            "en": "Experience Toruń in winter white, with frost decorating the Gothic spires. The morning at the Market Square is bracingly cold. Warm up midday inside the cathedrals and museums. Since the sun sets around 4 PM, the Old Town lights up early with festive decorations. Spend the evening enjoying hearty Polish cuisine and famous mulled wine with gingerbread spices.",
+            "pl": "Przeżyj Toruń w zimowej bieli, z szronem zdobiącym gotyckie iglice. Rano Rynek jest przenikliwie zimny. W południe rozgrzej się w katedrach i muzeach. Ponieważ słońce zachodzi około 16:00, Stare Miasto wcześnie rozświetla się dekoracjami. Wieczór spędź, kosztując sycących polskich potraw i słynnego grzanego wina z przyprawami piernikowymi."
           },
           "stops": [
             {
@@ -457,7 +491,8 @@
                 "de": "Warme Kleidung ist Pflicht für den zugigen Platz.",
                 "hu": "Réteges öltözködés kötelező a huzatos főtéren.",
                 "ro": "Îmbrăcămintea groasă este obligatorie în piața deschisă.",
-                "en": "Layered clothing is essential for this wind-swept square."
+                "en": "Layered clothing is essential for this wind-swept square.",
+                "pl": "Ubiór na cebulkę jest niezbędny na tym wietrznym rynku."
               }
             },
             {
@@ -466,7 +501,8 @@
                 "de": "Besuchen Sie den Turm nur bei eisfreien Stufen.",
                 "hu": "Csak jégmentes lépcsők esetén menjen fel a toronyba.",
                 "ro": "Urcați în turn doar dacă treptele nu sunt înghețate.",
-                "en": "Only climb the tower if the stairs are free of ice."
+                "en": "Only climb the tower if the stairs are free of ice.",
+                "pl": "Wchodź na wieżę tylko wtedy, gdy schody są wolne od lodu."
               }
             },
             {
@@ -475,7 +511,8 @@
                 "de": "Ein perfekt beheizter Ort für eine längere Pause.",
                 "hu": "Tökéletesen fűtött helyszín egy hosszabb pihenőhöz.",
                 "ro": "Un loc bine încălzit, perfect pentru o pauză lungă.",
-                "en": "A perfectly heated location for a longer educational break."
+                "en": "A perfectly heated location for a longer educational break.",
+                "pl": "Idealnie ogrzane miejsce na dłuższą przerwę edukacyjną."
               }
             },
             {
@@ -484,7 +521,8 @@
                 "de": "In der massiven Kirche ist es oft kälter als draußen.",
                 "hu": "A hatalmas templomban gyakran hidegebb van, mint kint.",
                 "ro": "În interiorul masiv poate fi mai rece decât afară.",
-                "en": "It can be colder inside the massive cathedral than outside."
+                "en": "It can be colder inside the massive cathedral than outside.",
+                "pl": "W katedrze może być zimniej niż na zewnątrz."
               }
             },
             {
@@ -493,7 +531,8 @@
                 "de": "Der Boden kann hier extrem glatt gefroren sein.",
                 "hu": "A talaj itt rendkívül jeges és csúszós lehet.",
                 "ro": "Solul din jurul turnului poate fi extrem de înghețat.",
-                "en": "The ground around the tower can be extremely icy."
+                "en": "The ground around the tower can be extremely icy.",
+                "pl": "Teren wokół wieży może być bardzo oblodzony."
               }
             },
             {
@@ -502,7 +541,8 @@
                 "de": "Die Außenanlage ist im Winter oft schneebedeckt.",
                 "hu": "A romok télen gyakran hófödte, romantikus látványt nyújtanak.",
                 "ro": "Ruinele exterioare sunt adesea acoperite de zăpadă.",
-                "en": "The outdoor ruins are often beautifully snow-covered."
+                "en": "The outdoor ruins are often beautifully snow-covered.",
+                "pl": "Zewnętrzne ruiny często są pięknie pokryte śniegiem."
               }
             },
             {
@@ -511,7 +551,8 @@
                 "de": "Der Backofen sorgt für eine wohlige Wärme im Haus.",
                 "hu": "A sütőkemencék melege jól esik a téli napon.",
                 "ro": "Căldura cuptoarelor este foarte plăcută iarna.",
-                "en": "The heat from the baking ovens is very welcome in winter."
+                "en": "The heat from the baking ovens is very welcome in winter.",
+                "pl": "Ciepło z pieców do pieczenia jest bardzo mile widziane zimą."
               }
             }
           ],
@@ -539,6 +580,12 @@
               "Wear shoes with good grip due to frequent black ice.",
               "Hot tea with ginger is a local favorite in winter cafes.",
               "Visit the illuminated Vistula embankment at twilight."
+            ],
+            "pl": [
+              "Słońce zachodzi już o 15:45 w grudniu.",
+              "Noś buty z dobrą przyczepnością z powodu częstego gołoledzi.",
+              "Gorąca herbata z imbirem to zimowy lokalny przysmak.",
+              "Odwiedź oświetloną bulwar Wisły o zmierzchu."
             ]
           }
         }
@@ -557,7 +604,8 @@
             "de": "Ruinen der Ordensburg",
             "hu": "Lovagrendi vár romjai",
             "ro": "Ruinele castelului teutonic",
-            "en": "Ruins of the Teutonic Castle"
+            "en": "Ruins of the Teutonic Castle",
+            "pl": "Ruiny zamku krzyżackiego"
           },
           "coords": [
             18.6083,
@@ -573,7 +621,8 @@
             "de": "Schließen Sie Ihr Fahrrad in der Nähe ab und erkunden Sie die Ruinen zu Fuß.",
             "hu": "Zárja le a kerékpárját a közelben, és fedezze fel a romokat gyalog.",
             "ro": "Încuietoarea bicicletei în apropiere și explorați ruinele pe jos.",
-            "en": "Lock your bike nearby and explore the ruins on foot."
+            "en": "Lock your bike nearby and explore the ruins on foot.",
+            "pl": "Zamknij rower w pobliżu i zwiedź ruiny pieszo."
           }
         },
         {
@@ -581,7 +630,8 @@
             "de": "Lebkuchenmuseum",
             "hu": "Mézeskalács Múzeum",
             "ro": "Muzeul de Turtă Dulce",
-            "en": "Gingerbread Museum"
+            "en": "Gingerbread Museum",
+            "pl": "Muzeum Piernika"
           },
           "coords": [
             18.6061,
@@ -597,7 +647,8 @@
             "de": "Ein interaktives Erlebnis, perfekt für eine Pause vom Radfahren.",
             "hu": "Interaktív élmény, tökéletes pihenő a biciklizés után.",
             "ro": "O experiență interactivă, perfectă pentru o pauză de la ciclism.",
-            "en": "An interactive experience, perfect for a break from cycling."
+            "en": "An interactive experience, perfect for a break from cycling.",
+            "pl": "Interaktywne doświadczenie, idealne na przerwę od jazdy na rowerze."
           }
         },
         {
@@ -605,7 +656,8 @@
             "de": "Altstädtischer Markt & Rathaus",
             "hu": "Óvárosi piactér és Városháza",
             "ro": "Piața Orașului Vechi și Primăria",
-            "en": "Old Town Market Square & Town Hall"
+            "en": "Old Town Market Square & Town Hall",
+            "pl": "Rynek Starego Miasta i Ratusz"
           },
           "coords": [
             18.6042,
@@ -621,7 +673,8 @@
             "de": "Stellen Sie Ihr Fahrrad ab und schlendern Sie über den belebten Platz.",
             "hu": "Parkolja le a kerékpárját, és sétáljon körbe a nyüzsgő téren.",
             "ro": "Parcați-vă bicicleta și plimbați-vă prin piața plină de viață.",
-            "en": "Park your bike and stroll through the bustling square."
+            "en": "Park your bike and stroll through the bustling square.",
+            "pl": "Zaparkuj rower i przejdź się po tętniącym życiem rynku."
           }
         },
         {
@@ -629,7 +682,8 @@
             "de": "Dom & Kopernikus-Haus",
             "hu": "Székesegyház és Kopernikusz-ház",
             "ro": "Catedrala și Casa lui Copernic",
-            "en": "Cathedral & Copernicus House"
+            "en": "Cathedral & Copernicus House",
+            "pl": "Katedra i Dom Kopernika"
           },
           "coords": [
             18.6018,
@@ -645,7 +699,8 @@
             "de": "Besuchen Sie diese beiden nahe gelegenen Sehenswürdigkeiten zusammen.",
             "hu": "Látogassa meg ezt a két közeli látnivalót együtt.",
             "ro": "Vizitați aceste două atracții apropiate împreună.",
-            "en": "Visit these two nearby attractions together."
+            "en": "Visit these two nearby attractions together.",
+            "pl": "Odwiedź te dwie pobliskie atrakcje razem."
           }
         },
         {
@@ -653,7 +708,8 @@
             "de": "Schiefer Turm",
             "hu": "Ferde torony",
             "ro": "Turnul Înclinat",
-            "en": "Leaning Tower"
+            "en": "Leaning Tower",
+            "pl": "Krzywa Wieża"
           },
           "coords": [
             18.5995,
@@ -669,7 +725,8 @@
             "de": "Ein kurzer Stopp für ein lustiges Foto auf Ihrer Radtour.",
             "hu": "Egy gyors megálló egy vicces fotóhoz a biciklitúra során.",
             "ro": "O oprire rapidă pentru o fotografie amuzantă în turul cu bicicleta.",
-            "en": "A quick stop for a fun photo on your bike tour."
+            "en": "A quick stop for a fun photo on your bike tour.",
+            "pl": "Krótki postój na zabawne zdjęcie podczas wycieczki rowerowej."
           }
         },
         {
@@ -677,7 +734,8 @@
             "de": "Fahrt am Weichselufer",
             "hu": "Kerékpározás a Visztula partján",
             "ro": "Plimbare pe malul Vistulei",
-            "en": "Vistula Riverbank Ride"
+            "en": "Vistula Riverbank Ride",
+            "pl": "Przejażdżka nabrzeżem Wisły"
           },
           "coords": [
             18.597,
@@ -693,7 +751,8 @@
             "de": "Genießen Sie eine entspannte Fahrt mit malerischem Blick auf die Altstadt.",
             "hu": "Élvezze a pihentető kerékpározást az óváros festői látványával.",
             "ro": "Bucurați-vă de o plimbare relaxantă cu vederi pitorești ale Orașului Vechi.",
-            "en": "Enjoy a relaxing ride with scenic views of the Old Town."
+            "en": "Enjoy a relaxing ride with scenic views of the Old Town.",
+            "pl": "Ciesz się relaksującą przejażdżką z widokiem na Starówkę."
           }
         }
       ],
@@ -701,7 +760,8 @@
         "de": "Starten Sie Ihre Radtour bei den Ordensburg-Ruinen und fahren Sie dann zum Lebkuchenmuseum. Von dort aus radeln Sie ins Zentrum zum Altstädter Markt. Nach dem Mittagessen erkunden Sie den Dom und das Kopernikus-Haus. Beenden Sie den Tag mit einer malerischen Fahrt entlang der Weichsel und genießen Sie die Aussicht.",
         "hu": "Kezdje a biciklitúrát a lovagrendi vár romjainál, majd tekerjen el a Mézeskalács Múzeumhoz. Onnan irány a központ, az Óvárosi piactér. Ebéd után fedezze fel a székesegyházat és a Kopernikusz-házat. A napot egy festői Visztula-parti tekeréssel zárja, élvezve a kilátást.",
         "ro": "Începeți turul cu bicicleta la ruinele Castelului Teutonic, apoi pedalați spre Muzeul de Turtă Dulce. De acolo, mergeți în centru, în Piața Orașului Vechi. După prânz, explorați Catedrala și Casa lui Copernic. Încheiați ziua cu o plimbare pitorească de-a lungul râului Vistula, bucurându-vă de priveliști.",
-        "en": "Start your bike tour at the Teutonic Castle ruins, then cycle to the Gingerbread Museum. From there, head to the center at the Old Town Market Square. After lunch, explore the Cathedral and Copernicus House. End the day with a scenic ride along the Vistula River, enjoying the views."
+        "en": "Start your bike tour at the Teutonic Castle ruins, then cycle to the Gingerbread Museum. From there, head to the center at the Old Town Market Square. After lunch, explore the Cathedral and Copernicus House. End the day with a scenic ride along the Vistula River, enjoying the views.",
+        "pl": "Rozpocznij wycieczkę rowerową przy ruinach zamku krzyżackiego, potem pojedź do Muzeum Piernika. Stamtąd udaj się do centrum na Rynek Staromiejski. Po lunchu zwiedź katedrę i Dom Kopernika. Zakończ dzień malowniczą przejażdżką wzdłuż Wisły, podziwiając widoki."
       },
       "gastro_picks": {
         "de": [
@@ -857,6 +917,11 @@
           "Toruń is relatively flat and bike-friendly.",
           "Watch out for pedestrians in the narrow streets of the Old Town.",
           "Use the cycle paths along the Vistula river."
+        ],
+        "pl": [
+          "Toruń jest stosunkowo płaski i przyjazny rowerzystom.",
+          "Uważaj na pieszych w wąskich uliczkach Starówki.",
+          "Korzystaj ze ścieżek rowerowych wzdłuż Wisły."
         ]
       },
       "variants": {
@@ -865,7 +930,8 @@
             "de": "Eine Radtour durch Thorn bei Regen erfordert gute Ausrüstung, bietet aber leere Wege. Starten Sie an den Burgruinen und nutzen Sie die Museen für längere Stopps. Die Uferpromenade ist windanfällig, aber stimmungsvoll. Denken Sie an wasserfeste Kleidung, um die gotische Architektur ohne Eile zu genießen, bevor Sie sich abends im Trockenen aufwärmen.",
             "hu": "Az esős toruńi biciklizés jó felszerelést igényel, de cserébe üres utakat kínál. Kezdjen a várromoknál, és használja a múzeumokat hosszabb pihenőkre. A vízparti szakasz szeles lehet, de látványos. Viseljen vízhatlan ruhát, hogy nyugodtan csodálhassa a gótikát, mielőtt este behúzódna egy meleg étterembe.",
             "ro": "O tură cu bicicleta prin Toruń pe ploaie necesită echipament bun, dar oferă drumuri libere. Începeți la ruinele castelului și folosiți muzeele pentru pauze lungi. Faleza este expusă vântului, dar foarte pitorească. Purtați haine impermeabile pentru a admira arhitectura gotică înainte de a vă încălzi seara la interior.",
-            "en": "Cycling through Toruń in the rain requires good gear but rewards you with empty paths. Start at the castle ruins and use museum visits as long breaks. The riverfront ride is windy but atmospheric. Ensure you have waterproof clothing to enjoy the Gothic architecture at your own pace before drying off in a cozy spot for dinner."
+            "en": "Cycling through Toruń in the rain requires good gear but rewards you with empty paths. Start at the castle ruins and use museum visits as long breaks. The riverfront ride is windy but atmospheric. Ensure you have waterproof clothing to enjoy the Gothic architecture at your own pace before drying off in a cozy spot for dinner.",
+            "pl": "Jazda rowerem po Toruniu w deszczu wymaga dobrego wyposażenia, ale nagradza pustymi trasami. Zacznij przy ruinach zamku i traktuj wizyty w muzeach jako dłuższe przerwy. Przejażdżka bulwarem jest wietrzna, ale nastrojowa. Zadbaj o wodoododne ubranie, aby móc spokojnie podziwiać gotycką architekturę, a potem wysuszyć się przy przytulnej kolacji."
           },
           "stops": [
             {
@@ -874,7 +940,8 @@
                 "de": "Vorsicht beim Schieben des Rades auf nassem Kopfstein.",
                 "hu": "Vigyázat a bicikli tolásakor a vizes macskakövön.",
                 "ro": "Atenție când împingeți bicicleta pe pavajul ud.",
-                "en": "Be careful when pushing your bike on wet cobblestones."
+                "en": "Be careful when pushing your bike on wet cobblestones.",
+                "pl": "Bądź ostrożny, popychając rower po mokrych brukach."
               }
             },
             {
@@ -883,7 +950,8 @@
                 "de": "Fahrradständer direkt vor dem Eingang vorhanden.",
                 "hu": "Biciklitároló közvetlenül a bejárat előtt található.",
                 "ro": "Suporturi de biciclete disponibile chiar la intrare.",
-                "en": "Bicycle racks are available right in front of the entrance."
+                "en": "Bicycle racks are available right in front of the entrance.",
+                "pl": "Stojaki rowerowe znajdują się tuż przed wejściem."
               }
             },
             {
@@ -892,7 +960,8 @@
                 "de": "Das Rad unter den Arkaden kurzzeitig parken.",
                 "hu": "Rövid időre a boltívek alatt is leparkolhatja a gépet.",
                 "ro": "Puteți parca bicicleta sub arcade pentru scurt timp.",
-                "en": "You can park your bike under the arcades for a short stay."
+                "en": "You can park your bike under the arcades for a short stay.",
+                "pl": "Możesz zostawić rower pod arkadami na krótki postój."
               }
             },
             {
@@ -901,7 +970,8 @@
                 "de": "Planen Sie hier die längste Trockenpause ein.",
                 "hu": "Itt tervezze a leghosszabb száraz pihenőt.",
                 "ro": "Planificați aici cea mai lungă pauză la uscat.",
-                "en": "Plan your longest dry break here at these indoor sites."
+                "en": "Plan your longest dry break here at these indoor sites.",
+                "pl": "Zaplanuj najdłuższą suchą przerwę w tych obiektach wewnętrznych."
               }
             },
             {
@@ -910,7 +980,8 @@
                 "de": "Die schräge Wand bietet minimalen Regenschutz.",
                 "hu": "A ferde fal minimális védelmet nyújt az eső ellen.",
                 "ro": "Zidul înclinat oferă protecție minimă împotriva ploii.",
-                "en": "The leaning wall provides some minimal rain shelter."
+                "en": "The leaning wall provides some minimal rain shelter.",
+                "pl": "Pochylona ściana zapewnia minimalne schronienie przed deszczem."
               }
             },
             {
@@ -919,7 +990,8 @@
                 "de": "Starker Seitenwind bei Regen; festen Halt bewahren.",
                 "hu": "Erős oldalszél esőben; tartsa erősen a kormányt.",
                 "ro": "Vânt lateral puternic pe ploaie; țineți bine ghidonul.",
-                "en": "Strong side winds during rain; keep a firm grip."
+                "en": "Strong side winds during rain; keep a firm grip.",
+                "pl": "Silne boczne wiatry podczas deszczu; trzymaj mocno kierownicę."
               }
             }
           ],
@@ -947,6 +1019,12 @@
               "Use mudguards to prevent splashes on your clothes.",
               "Many local hotels offer secure indoor bike storage.",
               "Waterproof panniers will keep your gingerbread dry."
+            ],
+            "pl": [
+              "Hamuj wcześniej i delikatnie na mokrych brukach.",
+              "Używaj błotników, by uniknąć pryskającej błota na ubrania.",
+              "Wiele lokalnych hoteli oferuje bezpieczne, wewnętrzne przechowywanie rowerów.",
+              "Wodoodporne sakwy ochronią twój piernik przed zamoknięciem."
             ]
           }
         },
@@ -955,7 +1033,8 @@
             "de": "Ein Winter-Ride durch Thorn ist erfrischend und bietet klare Sicht auf die Backsteingotik. Starten Sie warm eingepackt an der Burg. Das Lebkuchenmuseum ist ein idealer Wärmestopp. Die Fahrt entlang der Weichsel kann bei Frost sehr windig sein, bietet aber tolle Fotomotive der vereisten Flussufer. Beenden Sie die Tour frühzeitig, bevor die Glätte bei Dunkelheit zunimmt.",
             "hu": "A téli toruńi biciklizés frissítő és tiszta rálátást nyújt a gótikus falakra. Kezdjen alaposan beöltözve a várnál. A mézeskalács múzeum kiváló hely a felmelegedésre. A Visztula-parti tekerés fagyban szeles lehet, de a jeges folyó látványa kárpótolja. Fejezze be a túrát korán, mielőtt a sötétben lefagynának az utak.",
             "ro": "O tură de iarnă prin Toruń este revigorantă și oferă vederi clare asupra goticului. Începeți bine înfofoliți la castel. Muzeul turtei dulci este un loc ideal de încălzire. Plimbarea pe malul Vistulei poate fi vântoasă, dar oferă cadre foto superbe cu râul înghețat. Încheiați traseul devreme, înainte ca poleiul să devină periculos.",
-            "en": "A winter bike ride through Toruń is refreshing and offers clear views of the Gothic brickwork. Start warmly dressed at the castle. The gingerbread museum is an ideal warming station. The ride along the Vistula can be very windy in frost, but offers great photo ops of the icy riverbanks. Finish early before the temperature drops and surfaces freeze over."
+            "en": "A winter bike ride through Toruń is refreshing and offers clear views of the Gothic brickwork. Start warmly dressed at the castle. The gingerbread museum is an ideal warming station. The ride along the Vistula can be very windy in frost, but offers great photo ops of the icy riverbanks. Finish early before the temperature drops and surfaces freeze over.",
+            "pl": "Zimowa przejażdżka rowerowa po Toruniu jest orzeźwiająca i daje wyraźne widoki gotyckich murów. Zacznij ciepło ubrany przy zamku. Muzeum Piernika to idealne miejsce na rozgrzewkę. Przejażdżka wzdłuż Wisły może być bardzo wietrzna przy mrozie, ale oferuje świetne możliwości fotograficzne z lodowymi brzegami rzeki. Zakończ wcześnie, zanim temperatura spadnie i nawierzchnie zamarzną."
           },
           "stops": [
             {
@@ -964,7 +1043,8 @@
                 "de": "Vorsicht vor gefrorenen Pfützen zwischen den Mauern.",
                 "hu": "Vigyázat a falak közötti fagyott tócsákkal.",
                 "ro": "Atenție la bălțile înghețate dintre zidurile vechi.",
-                "en": "Watch out for frozen puddles between the ruins."
+                "en": "Watch out for frozen puddles between the ruins.",
+                "pl": "Uważaj na zamarznięte kałuże między ruinami."
               }
             },
             {
@@ -973,7 +1053,8 @@
                 "de": "Ein heißer Tee nach der Fahrt wirkt Wunder.",
                 "hu": "Egy forró tea a tekerés után csodákat tesz.",
                 "ro": "Un ceai fierbinte după plimbare face minuni.",
-                "en": "A hot tea here after your ride will work wonders."
+                "en": "A hot tea here after your ride will work wonders.",
+                "pl": "Gorąca herbata tutaj po jeździe zdziała cuda."
               }
             },
             {
@@ -982,7 +1063,8 @@
                 "de": "Beachten Sie die festliche Winterbeleuchtung am Abend.",
                 "hu": "Csodálja meg az ünnepi fényeket a téren sötétedés után.",
                 "ro": "Admirați luminile festive din piață după lăsarea serii.",
-                "en": "Admire the festive winter lighting in the square at dusk."
+                "en": "Admire the festive winter lighting in the square at dusk.",
+                "pl": "Podziwiaj świąteczne oświetlenie na rynku o zmierzchu."
               }
             },
             {
@@ -991,7 +1073,8 @@
                 "de": "Lassen Sie die Handschuhe beim Fotografieren an.",
                 "hu": "Fotózás közben se vegye le a kesztyűjét.",
                 "ro": "Nu vă scoateți mănușile când faceți fotografii.",
-                "en": "Keep your gloves on while taking photos of the facade."
+                "en": "Keep your gloves on while taking photos of the facade.",
+                "pl": "Zachowaj rękawice podczas robienia zdjęć fasady."
               }
             },
             {
@@ -1000,7 +1083,8 @@
                 "de": "Glatteisgefahr auf dem abschüssigen Gelände.",
                 "hu": "Fagyveszély a lejtős területen a toronynál.",
                 "ro": "Pericol de polei pe terenul înclinat de lângă turn.",
-                "en": "Risk of black ice on the sloping ground near the tower."
+                "en": "Risk of black ice on the sloping ground near the tower.",
+                "pl": "Ryzyko gołoledzi na pochyłym terenie w pobliżu wieży."
               }
             },
             {
@@ -1009,7 +1093,8 @@
                 "de": "Gesichtsschutz gegen den beißenden Frostwind nötig.",
                 "hu": "Arcvédő ajánlott a metsző téli szél ellen.",
                 "ro": "Protecția feței este necesară împotriva vântului rece.",
-                "en": "Face protection is needed against the biting winter wind."
+                "en": "Face protection is needed against the biting winter wind.",
+                "pl": "Ochrona twarzy potrzebna przeciw przenikliwemu zimowemu wiatrowi."
               }
             }
           ],
@@ -1037,6 +1122,12 @@
               "Lube your chain more often due to road salt.",
               "The sun sets before 4 PM, so have working bike lights.",
               "Wear thermal base layers under your cycling gear."
+            ],
+            "pl": [
+              "Sprawdź ciśnienie w oponach; nieco niższe ciśnienie zapewnia lepszą przyczepność.",
+              "Częściej smaruj łańcuch z powodu soli drogowej.",
+              "Słońce zachodzi przed 16:00, więc miej sprawne oświetlenie roweru.",
+              "Noś termoaktywne bieliznę pod ubraniem kolarskim."
             ]
           }
         }
@@ -1055,7 +1146,8 @@
             "de": "Cluster Altstadt (Parkplatz)",
             "hu": "Óváros Klaszter (Parkoló)",
             "ro": "Cluster Centrul Vechi (Parcare)",
-            "en": "Old Town Cluster (Parking)"
+            "en": "Old Town Cluster (Parking)",
+            "pl": "Klastry Starówki (Parking)"
           },
           "coords": [
             18.611,
@@ -1071,7 +1163,8 @@
             "de": "Parken Sie hier für den Tag, um das historische Zentrum zu erkunden.",
             "hu": "Parkoljon le itt a napra, hogy felfedezze a történelmi központot.",
             "ro": "Parcați aici pentru o zi pentru a explora centrul istoric.",
-            "en": "Park here for the day to explore the historic center."
+            "en": "Park here for the day to explore the historic center.",
+            "pl": "Zaparkuj tutaj na cały dzień, aby zwiedzić historyczne centrum."
           }
         },
         {
@@ -1079,7 +1172,8 @@
             "de": "Altstädtischer Markt & Rathaus",
             "hu": "Óvárosi piactér és Városháza",
             "ro": "Piața Orașului Vechi și Primăria",
-            "en": "Old Town Market Square & Town Hall"
+            "en": "Old Town Market Square & Town Hall",
+            "pl": "Rynek Staromiejski i Ratusz"
           },
           "coords": [
             18.6042,
@@ -1095,7 +1189,8 @@
             "de": "Der Ausgangspunkt für Ihre Erkundung zu Fuß.",
             "hu": "A gyalogos felfedezőút kiindulópontja.",
             "ro": "Punctul de plecare pentru explorarea pe jos.",
-            "en": "The starting point for your walking exploration."
+            "en": "The starting point for your walking exploration.",
+            "pl": "Punkt startowy twojego spaceru."
           }
         },
         {
@@ -1103,7 +1198,8 @@
             "de": "Lebkuchenmuseum",
             "hu": "Mézeskalács Múzeum",
             "ro": "Muzeul de Turtă Dulce",
-            "en": "Gingerbread Museum"
+            "en": "Gingerbread Museum",
+            "pl": "Muzeum Piernika"
           },
           "coords": [
             18.6061,
@@ -1119,7 +1215,8 @@
             "de": "Ein kurzer Spaziergang vom Marktplatz entfernt.",
             "hu": "Egy rövid séta a piactértől.",
             "ro": "La o scurtă plimbare de piață.",
-            "en": "A short walk from the market square."
+            "en": "A short walk from the market square.",
+            "pl": "Krótki spacer od Rynku."
           }
         },
         {
@@ -1127,7 +1224,8 @@
             "de": "Ruinen der Ordensburg",
             "hu": "Lovagrendi vár romjai",
             "ro": "Ruinele castelului teutonic",
-            "en": "Ruins of the Teutonic Castle"
+            "en": "Ruins of the Teutonic Castle",
+            "pl": "Ruiny zamku krzyżackiego"
           },
           "coords": [
             18.6083,
@@ -1143,7 +1241,8 @@
             "de": "Entdecken Sie die Geschichte, bevor Sie zum Mittagessen zurückkehren.",
             "hu": "Fedezze fel a történelmet, mielőtt visszatérne ebédelni.",
             "ro": "Descoperiți istoria înainte de a vă întoarce la prânz.",
-            "en": "Discover the history before heading back for lunch."
+            "en": "Discover the history before heading back for lunch.",
+            "pl": "Poznaj historię przed powrotem na lunch."
           }
         },
         {
@@ -1151,7 +1250,8 @@
             "de": "Cluster Weichselufer (Parkplatz)",
             "hu": "Visztula-parti Klaszter (Parkoló)",
             "ro": "Cluster malul Vistulei (Parcare)",
-            "en": "Vistula Riverside Cluster (Parking)"
+            "en": "Vistula Riverside Cluster (Parking)",
+            "pl": "Klastry nadbrzeżne Wisły (Parking)"
           },
           "coords": [
             18.598,
@@ -1167,7 +1267,8 @@
             "de": "Fahren Sie zu einem neuen Parkplatz für eine andere Perspektive.",
             "hu": "Vezessen át egy új parkolóba egy másfajta perspektíváért.",
             "ro": "Conduceți spre o nouă parcare pentru o perspectivă diferită.",
-            "en": "Drive to a new parking spot for a different perspective."
+            "en": "Drive to a new parking spot for a different perspective.",
+            "pl": "Podjedź do innego miejsca parkingowego, by uzyskać inną perspektywę."
           }
         },
         {
@@ -1175,7 +1276,8 @@
             "de": "Schiefer Turm & Dom",
             "hu": "Ferde torony és Székesegyház",
             "ro": "Turnul Înclinat și Catedrala",
-            "en": "Leaning Tower & Cathedral"
+            "en": "Leaning Tower & Cathedral",
+            "pl": "Krzywa Wieża i Katedra"
           },
           "coords": [
             18.6005,
@@ -1191,7 +1293,8 @@
             "de": "Kombinieren Sie diese beiden Ikonen und das nahegelegene Kopernikus-Haus.",
             "hu": "Kombinálja ezt a két ikont és a közeli Kopernikusz-házat.",
             "ro": "Combinați aceste două icoane și Casa lui Copernic din apropiere.",
-            "en": "Combine these two icons and the nearby Copernicus House."
+            "en": "Combine these two icons and the nearby Copernicus House.",
+            "pl": "Połącz te dwie ikony z pobliskim Domem Kopernika."
           }
         }
       ],
@@ -1199,7 +1302,8 @@
         "de": "Parken Sie Ihr Auto in der Nähe des Zentrums und beginnen Sie Ihren Tag zu Fuß am Altstädter Markt. Erkunden Sie den ersten Cluster mit dem Lebkuchenmuseum und den Burgruinen. Am Nachmittag fahren Sie zu einem anderen Parkplatz am Flussufer. Von dort aus besuchen Sie den zweiten Cluster mit dem Schiefen Turm, dem Dom und dem Kopernikus-Haus.",
         "hu": "Parkolja le autóját a központ közelében, és kezdje a napot gyalog az Óvárosi piactéren. Fedezze fel az első klasztert, benne a Mézeskalács Múzeummal és a várromokkal. Délután vezessen át egy másik, folyóparti parkolóba. Onnan látogassa meg a második klasztert, a Ferde toronnyal, a székesegyházzal és a Kopernikusz-házzal.",
         "ro": "Parcați mașina lângă centru și începeți ziua pe jos în Piața Orașului Vechi. Explorați primul cluster, inclusiv Muzeul de Turtă Dulce și ruinele castelului. După-amiaza, conduceți spre o altă parcare de pe malul râului. De acolo, vizitați al doilea cluster, cu Turnul Înclinat, Catedrala și Casa lui Copernic.",
-        "en": "Park your car near the center and start your day on foot in the Old Town Market Square. Explore the first cluster including the Gingerbread Museum and the castle ruins. In the afternoon, drive to another parking area by the riverside. From there, visit the second cluster featuring the Leaning Tower, the Cathedral, and Copernicus's House."
+        "en": "Park your car near the center and start your day on foot in the Old Town Market Square. Explore the first cluster including the Gingerbread Museum and the castle ruins. In the afternoon, drive to another parking area by the riverside. From there, visit the second cluster featuring the Leaning Tower, the Cathedral, and Copernicus's House.",
+        "pl": "Zaparkuj samochód blisko centrum i rozpocznij dzień pieszo na Rynku Staromiejskim. Zwiedź pierwszy klaster obejmujący Muzeum Piernika i ruiny zamku. Po południu przejedź do innego miejsca parkingowego nad rzeką. Stamtąd odwiedź drugi klaster z Krzywą Wieżą, katedrą i Domem Kopernika."
       },
       "gastro_picks": {
         "de": [
@@ -1351,6 +1455,10 @@
         "en": [
           "Parking near the Old Town can be paid.",
           "The cluster strategy saves time on finding parking and lets you explore more on foot."
+        ],
+        "pl": [
+          "Parkowanie przy Starówce może być płatne.",
+          "Strategia z klastrami oszczędza czas na szukanie miejsca i pozwala więcej zwiedzać pieszo."
         ]
       },
       "variants": {
@@ -1359,7 +1467,8 @@
             "de": "Mit dem Auto erkunden Sie Thorn bei Regen bequem und trocken. Parken Sie am Rand der Altstadt und nutzen Sie die kurzen Wege zwischen den Sehenswürdigkeiten. Das Lebkuchenmuseum und das Kopernikushaus bieten perfekte Indoor-Ziele. Mittags können Sie zu entlegeneren Aussichtspunkten fahren, während der Regen gegen die Scheiben trommelt, bevor Sie den Abend in der beleuchteten Innenstadt ausklingen lassen.",
             "hu": "Autóval kényelmesen és szárazon fedezheti fel Toruńt esőben is. Parkoljon az óváros szélén, és használja ki a látnivalók közötti rövid távolságokat. A mézeskalács múzeum és a Kopernikusz-ház tökéletes beltéri célpontok. Délután tegyen egy kört a távolabbi kilátópontokhoz, miközben az eső a szélvédőn kopog, majd fejezze be a napot a kivilágított belvárosban.",
             "ro": "Cu mașina, puteți explora Toruń confortabil și uscat chiar și pe ploaie. Parcați la marginea orașului vechi și profitați de distanțele scurte dintre obiective. Muzeul turtei dulci și Casa lui Copernic sunt destinații interioare perfecte. După-amiaza puteți conduce spre puncte de belvedere mai îndepărtate, înainte de a încheia seara în centrul luminat.",
-            "en": "Exploring Toruń by car in the rain is comfortable and keeps you dry. Park on the edge of the Old Town and enjoy short walks between the major sites. The gingerbread museum and Copernicus House are ideal indoor destinations. In the afternoon, drive to more distant viewpoints while the rain drums on the roof, finishing your day in the beautifully lit city center."
+            "en": "Exploring Toruń by car in the rain is comfortable and keeps you dry. Park on the edge of the Old Town and enjoy short walks between the major sites. The gingerbread museum and Copernicus House are ideal indoor destinations. In the afternoon, drive to more distant viewpoints while the rain drums on the roof, finishing your day in the beautifully lit city center.",
+            "pl": "Zwiedzanie Torunia samochodem w deszczu jest wygodne i pozwala pozostać suchym. Zaparkuj na obrzeżach Starówki i korzystaj z krótkich spacerów między głównymi atrakcjami. Muzeum Piernika i Dom Kopernika to idealne atrakcje wewnętrzne. Po południu przejedź do bardziej odległych punktów widokowych, podczas gdy deszcz bębni o dach, kończąc dzień w pięknie oświetlonym centrum miasta."
           },
           "stops": [
             {
@@ -1368,7 +1477,8 @@
                 "de": "Überdachte Parkhäuser in der Nähe vorziehen.",
                 "hu": "Részesítse előnyben a közeli fedett parkolóházakat.",
                 "ro": "Preferați parcările acoperite din apropiere.",
-                "en": "Prefer covered multi-story parking lots nearby."
+                "en": "Prefer covered multi-story parking lots nearby.",
+                "pl": "Wolisz pobliskie zadaszone parkingi piętrowe."
               }
             },
             {
@@ -1377,7 +1487,8 @@
                 "de": "Kurzer Sprint vom Auto zum Rathaus-Eingang.",
                 "hu": "Gyors sprint az autótól a Városháza bejáratáig.",
                 "ro": "Sprint scurt de la mașină până la intrarea Primăriei.",
-                "en": "Short dash from your parking spot to the Town Hall entrance."
+                "en": "Short dash from your parking spot to the Town Hall entrance.",
+                "pl": "Krótki bieg z miejsca parkingowego do wejścia do Ratusza."
               }
             },
             {
@@ -1386,7 +1497,8 @@
                 "de": "Ideal, um den heftigsten Regenschauer abzuwarten.",
                 "hu": "Ideális helyszín a hevesebb záporok kivárására.",
                 "ro": "Loc ideal pentru a aștepta trecerea ploilor torențiale.",
-                "en": "Ideal place to wait out the heaviest rain showers."
+                "en": "Ideal place to wait out the heaviest rain showers.",
+                "pl": "Idealne miejsce, by przeczekać najsilniejsze ulewy."
               }
             },
             {
@@ -1395,7 +1507,8 @@
                 "de": "Vom Parkplatz aus sind es nur wenige Gehminuten.",
                 "hu": "A parkolótól csak pár perc séta a bejárat.",
                 "ro": "Sunt doar câteva minute de mers pe jos de la parcare.",
-                "en": "Only a few minutes' walk from the nearby parking area."
+                "en": "Only a few minutes' walk from the nearby parking area.",
+                "pl": "Tylko kilka minut spacerem z pobliskiego parkingu."
               }
             },
             {
@@ -1404,7 +1517,8 @@
                 "de": "Blick auf den Fluss direkt aus dem Auto genießen.",
                 "hu": "Élvezze a folyóra nyíló kilátást közvetlenül az autóból.",
                 "ro": "Bucurați-vă de vederea la râu direct din mașină.",
-                "en": "Enjoy the river view directly from the comfort of your car."
+                "en": "Enjoy the river view directly from the comfort of your car.",
+                "pl": "Ciesz się widokiem na rzekę prosto z komfortu samochodu."
               }
             },
             {
@@ -1413,7 +1527,8 @@
                 "de": "Regenschirm für den Weg zwischen den Gebäuden einpacken.",
                 "hu": "Készítsen esernyőt az épületek közötti rövid szakaszra.",
                 "ro": "Pregătiți umbrela pentru drumul dintre clădiri.",
-                "en": "Have an umbrella ready for the short walk between buildings."
+                "en": "Have an umbrella ready for the short walk between buildings.",
+                "pl": "Miej parasol gotowy na krótki spacer między budynkami."
               }
             }
           ],
@@ -1441,6 +1556,12 @@
               "Use parking apps to pay from the dryness of your car.",
               "Visibility might be reduced during heavy rain showers.",
               "Allow extra time for finding a parking spot close to the center."
+            ],
+            "pl": [
+              "Uważaj w wąskich zaułkach; bruk jest śliski, gdy mokry.",
+              "Korzystaj z aplikacji parkingowych, by opłacić z suchości samochodu.",
+              "Widoczność może być ograniczona podczas intensywnych opadów.",
+              "Zarezerwuj dodatkowy czas na znalezienie miejsca parkingowego blisko centrum."
             ]
           }
         },
@@ -1449,7 +1570,8 @@
             "de": "Torn im Auto bei Frost bietet eine warme Basis für Ihre Stadterkundung. Starten Sie am Marktplatz und nutzen Sie die beheizten Museen. Die Fahrt entlang der Weichsel zeigt die beeindruckende Skyline im Winterlicht. Da es früh dunkel wird, können Sie die Lichter der Stadt bequem bei einer Panoramafahrt genießen, bevor Sie den Abend bei deftiger polnischer Küche ausklingen lassen.",
             "hu": "Toruń felfedezése autóval a fagyban meleg bázist nyújt a városnézéshez. Kezdjen a főtéren, majd látogassa meg a fűtött múzeumokat. A Visztula menti vezetés során megcsodálhatja a téli fényekben úszó sziluettet. Mivel korán sötétedik, egy panorámaúton élvezheti a város fényeit, mielőtt beülne egy laktató lengyel vacsorára.",
             "ro": "Explorarea orașului Toruń cu mașina pe ger oferă o bază caldă pentru vizite. Începeți în Piața Veche și vizitați muzeele bine încălzite. Drumul de-a lungul Vistulei dezvăluie silueta orașului în lumina iernii. Deoarece se întunecă devreme, puteți admira luminile orașului dintr-o tură panoramică, înainte de o cină poloneză consistentă.",
-            "en": "Exploring Toruń by car in sub-zero temperatures provides a warm home base for your city tour. Start at the Market Square and take advantage of heated museums. A drive along the Vistula shows the impressive skyline in crisp winter light. Since it gets dark early, enjoy a panoramic evening drive to see the city lights before settling in for a hearty Polish dinner."
+            "en": "Exploring Toruń by car in sub-zero temperatures provides a warm home base for your city tour. Start at the Market Square and take advantage of heated museums. A drive along the Vistula shows the impressive skyline in crisp winter light. Since it gets dark early, enjoy a panoramic evening drive to see the city lights before settling in for a hearty Polish dinner.",
+            "pl": "Zwiedzanie Torunia samochodem w temperaturach poniżej zera zapewnia ciepłą bazę podczas wycieczki po mieście. Zacznij na Rynku i korzystaj z ogrzewanych muzeów. Przejazd wzdłuż Wisły ukazuje imponującą panoramę w przejrzystym zimowym świetle. Ponieważ szybko robi się ciemno, zrób wieczorną panoramiczną przejażdżkę, by zobaczyć miejskie światła przed sytym polskim obiadem."
           },
           "stops": [
             {
@@ -1458,7 +1580,8 @@
                 "de": "Achten Sie auf geräumte und gestreute Parkflächen.",
                 "hu": "Keressen letakarított és sózott parkolóhelyeket.",
                 "ro": "Căutați locuri de parcare curățate de zăpadă și sare.",
-                "en": "Look for cleared and salted parking spaces to avoid ice."
+                "en": "Look for cleared and salted parking spaces to avoid ice.",
+                "pl": "Szukaj odśnieżonych i posypanych piaskiem miejsc parkingowych, by uniknąć lodu."
               }
             },
             {
@@ -1467,7 +1590,8 @@
                 "de": "Das Auto vorheizen, während Sie das Rathaus besuchen.",
                 "hu": "Fűtse fel az autót, amíg a Városházát látogatja.",
                 "ro": "Preîncălziți mașina în timp ce vizitați Primăria.",
-                "en": "Pre-warm the car while you visit the Town Hall interior."
+                "en": "Pre-warm the car while you visit the Town Hall interior.",
+                "pl": "Podgrzej samochód przed wizytą w Ratuszu."
               }
             },
             {
@@ -1476,7 +1600,8 @@
                 "de": "Idealer Ort, um sich zwischen den Fahrten aufzuwärmen.",
                 "hu": "Ideális helyszín a két út közötti felmelegedésre.",
                 "ro": "Loc ideal pentru a vă încălzi între două etape de condus.",
-                "en": "Ideal place to warm up between different parts of the trip."
+                "en": "Ideal place to warm up between different parts of the trip.",
+                "pl": "Idealne miejsce na rozgrzewkę między częściami wycieczki."
               }
             },
             {
@@ -1485,7 +1610,8 @@
                 "de": "Vorsicht beim Einparken auf schneebedeckten Markierungen.",
                 "hu": "Vigyázzon a parkolásnál a hóval fedett jelzésekre.",
                 "ro": "Atenție la parcare pe marcajele acoperite de zăpadă.",
-                "en": "Be careful when parking over snow-covered road markings."
+                "en": "Be careful when parking over snow-covered road markings.",
+                "pl": "Uważaj, parkując na oznakowaniach drogowych przykrytych śniegiem."
               }
             },
             {
@@ -1494,7 +1620,8 @@
                 "de": "Perfekter Stop für Fotos der vereisten Weichsel.",
                 "hu": "Tökéletes megálló a jeges Visztuláról készült fotókhoz.",
                 "ro": "Oprire perfectă pentru fotografii cu Vistula înghețată.",
-                "en": "Perfect stop for photos of the frozen Vistula river."
+                "en": "Perfect stop for photos of the frozen Vistula river.",
+                "pl": "Perfekcyjne miejsce na zdjęcia z zamarzniętą Wisłą."
               }
             },
             {
@@ -1503,7 +1630,8 @@
                 "de": "Die Heizung auf dem Weg zum nächsten Ziel genießen.",
                 "hu": "Élvezze a fűtést a következő úticél felé menet.",
                 "ro": "Bucurați-vă de căldură în drum spre următoarea destinație.",
-                "en": "Enjoy the car heater on the way to your next destination."
+                "en": "Enjoy the car heater on the way to your next destination.",
+                "pl": "Korzystaj z ogrzewania w samochodzie w drodze do następnego celu."
               }
             }
           ],
@@ -1531,6 +1659,12 @@
               "Beware of black ice on the bridges over the Vistula.",
               "Use indoor parking lots to keep your car free of snow and ice.",
               "The sun sets as early as 3:45 PM in December."
+            ],
+            "pl": [
+              "Skrobaczki do szyb i płyn przeciwzamrożeniowy są niezbędne zimą.",
+              "Uważaj na gołoledź na mostach nad Wisłą.",
+              "Korzystaj z parkingów krytych, by samochód nie pokrył się śniegiem i lodem.",
+              "Słońce zachodzi już około 15:45 w grudniu."
             ]
           }
         }
@@ -1549,7 +1683,8 @@
             "de": "Ankunft Haltestelle Plac Teatralny",
             "hu": "Érkezés a Plac Teatralny megállóba",
             "ro": "Sosire la stația Plac Teatralny",
-            "en": "Arrival at Plac Teatralny stop"
+            "en": "Arrival at Plac Teatralny stop",
+            "pl": "Przyjazd na przystanek Plac Teatralny"
           },
           "coords": [
             18.608,
@@ -1565,7 +1700,8 @@
             "de": "Ein wichtiger Knotenpunkt für Busse und Straßenbahnen, idealer Startpunkt.",
             "hu": "Fontos busz- és villamos-csomópont, ideális kiindulópont.",
             "ro": "Un nod important pentru autobuze și tramvaie, punct de plecare ideal.",
-            "en": "A major bus and tram hub, ideal starting point."
+            "en": "A major bus and tram hub, ideal starting point.",
+            "pl": "Główny węzeł autobusowy i tramwajowy, idealny punkt startowy."
           }
         },
         {
@@ -1573,7 +1709,8 @@
             "de": "Lebkuchenmuseum",
             "hu": "Mézeskalács Múzeum",
             "ro": "Muzeul de Turtă Dulce",
-            "en": "Gingerbread Museum"
+            "en": "Gingerbread Museum",
+            "pl": "Muzeum Piernika"
           },
           "coords": [
             18.6061,
@@ -1589,7 +1726,8 @@
             "de": "Beginnen Sie mit einer süßen, interaktiven Erfahrung.",
             "hu": "Kezdje egy édes, interaktív élménnyel.",
             "ro": "Începeți cu o experiență dulce și interactivă.",
-            "en": "Start with a sweet, interactive experience."
+            "en": "Start with a sweet, interactive experience.",
+            "pl": "Zacznij od słodkiego, interaktywnego doświadczenia."
           }
         },
         {
@@ -1597,7 +1735,8 @@
             "de": "Altstädtischer Markt & Rathaus",
             "hu": "Óvárosi piactér és Városháza",
             "ro": "Piața Orașului Vechi și Primăria",
-            "en": "Old Town Market Square & Town Hall"
+            "en": "Old Town Market Square & Town Hall",
+            "pl": "Rynek Staromiejski i Ratusz"
           },
           "coords": [
             18.6042,
@@ -1613,7 +1752,8 @@
             "de": "Das pulsierende Herz der Stadt, nur wenige Schritte entfernt.",
             "hu": "A város lüktető szíve, csak néhány lépésre.",
             "ro": "Inima vibrantă a orașului, la doar câțiva pași distanță.",
-            "en": "The vibrant heart of the city, just a few steps away."
+            "en": "The vibrant heart of the city, just a few steps away.",
+            "pl": "Tętniące serce miasta, zaledwie kilka kroków dalej."
           }
         },
         {
@@ -1621,7 +1761,8 @@
             "de": "Fahrt zur Haltestelle Aleja Solidarności",
             "hu": "Utazás az Aleja Solidarności megállóhoz",
             "ro": "Călătorie la stația Aleja Solidarności",
-            "en": "Trip to Aleja Solidarności stop"
+            "en": "Trip to Aleja Solidarności stop",
+            "pl": "Przejazd do przystanku Aleja Solidarności"
           },
           "coords": [
             18.601,
@@ -1637,7 +1778,8 @@
             "de": "Nehmen Sie eine Straßenbahn für ein paar Haltestellen, um den südlichen Teil zu erreichen.",
             "hu": "Menjen villamossal néhány megállót a déli rész eléréséhez.",
             "ro": "Luați un tramvai pentru câteva stații pentru a ajunge în partea de sud.",
-            "en": "Take a tram for a few stops to reach the southern part."
+            "en": "Take a tram for a few stops to reach the southern part.",
+            "pl": "Wsiądź do tramwaju na kilka przystanków, by dostać się na południową część."
           }
         },
         {
@@ -1645,7 +1787,8 @@
             "de": "Dom & Kopernikus-Haus",
             "hu": "Székesegyház és Kopernikusz-ház",
             "ro": "Catedrala și Casa lui Copernic",
-            "en": "Cathedral & Copernicus House"
+            "en": "Cathedral & Copernicus House",
+            "pl": "Katedra i Dom Kopernika"
           },
           "coords": [
             18.6018,
@@ -1661,7 +1804,8 @@
             "de": "Erkunden Sie dieses historische Duo nach einer kurzen Fahrt.",
             "hu": "Fedezze fel ezt a történelmi duót egy rövid utazás után.",
             "ro": "Explorați acest duo istoric după o scurtă călătorie.",
-            "en": "Explore this historic duo after a short ride."
+            "en": "Explore this historic duo after a short ride.",
+            "pl": "Odkryj ten zabytkowy duet po krótkiej przejażdżce."
           }
         },
         {
@@ -1669,7 +1813,8 @@
             "de": "Planetarium",
             "hu": "Planetárium",
             "ro": "Planetariu",
-            "en": "Planetarium"
+            "en": "Planetarium",
+            "pl": "Planetarium"
           },
           "coords": [
             18.6055,
@@ -1685,7 +1830,8 @@
             "de": "Ein Muss in der Stadt von Kopernikus, buchen Sie die Vorstellung im Voraus.",
             "hu": "Kötelező látnivaló Kopernikusz városában, foglalja le előre az előadást.",
             "ro": "O vizită obligatorie în orașul lui Copernic, rezervați spectacolul în avans.",
-            "en": "A must-see in the city of Copernicus, book the show in advance."
+            "en": "A must-see in the city of Copernicus, book the show in advance.",
+            "pl": "Miejsce obowiązkowe w mieście Kopernika, zarezerwuj seans z wyprzedzeniem."
           }
         }
       ],
@@ -1693,7 +1839,8 @@
         "de": "Ihr Tag beginnt an der Haltestelle Plac Teatralny. Von hier aus gehen Sie zum Lebkuchenmuseum und zum Altstädter Markt. Nach dem Mittagessen nehmen Sie eine kurze Straßenbahnfahrt zum südlichen Teil der Altstadt. Dort erkunden Sie den Dom, das Kopernikus-Haus und beenden Ihren Tag mit einer Reise zu den Sternen im Planetarium.",
         "hu": "A nap a Plac Teatralny megállónál kezdődik. Innen sétáljon el a Mézeskalács Múzeumhoz és az Óvárosi piactérre. Ebéd után egy rövid villamosúttal juthat el az óváros déli részébe. Ott fedezze fel a székesegyházat, a Kopernikusz-házat, és zárja a napot egy csillagászati utazással a Planetáriumban.",
         "ro": "Ziua începe la stația Plac Teatralny. De aici, mergeți pe jos la Muzeul de Turtă Dulce și la Piața Orașului Vechi. După prânz, luați un tramvai pe o distanță scurtă până în partea de sud a Orașului Vechi. Acolo, explorați Catedrala, Casa lui Copernic și încheiați ziua cu o călătorie spre stele la Planetariu.",
-        "en": "Your day starts at the Plac Teatralny stop. From here, walk to the Gingerbread Museum and the Old Town Market Square. After lunch, take a short tram ride to the southern part of the Old Town. There, explore the Cathedral, Copernicus House, and end your day with a journey to the stars at the Planetarium."
+        "en": "Your day starts at the Plac Teatralny stop. From here, walk to the Gingerbread Museum and the Old Town Market Square. After lunch, take a short tram ride to the southern part of the Old Town. There, explore the Cathedral, Copernicus House, and end your day with a journey to the stars at the Planetarium.",
+        "pl": "Twój dzień zaczyna się na przystanku Plac Teatralny. Stąd idź do Muzeum Piernika i Rynku Staromiejskiego. Po lunchu pojedź krótkim tramwajem na południową część Starówki. Tam zwiedź katedrę, Dom Kopernika, a dzień zakończ podróżą do gwiazd w Planetarium."
       },
       "gastro_picks": {
         "de": [
@@ -1849,6 +1996,11 @@
           "Buy a day pass for public transport for unlimited travel.",
           "Always validate your ticket when you board a tram or bus.",
           "The 'jakdojade' app is very useful for planning routes."
+        ],
+        "pl": [
+          "Kup bilet dobowy na transport publiczny dla nieograniczonych przejazdów.",
+          "Zawsze skasuj bilet przy wsiadaniu do tramwaju lub autobusu.",
+          "Aplikacja jakdojade jest bardzo przydatna do planowania tras."
         ]
       },
       "variants": {
@@ -1857,7 +2009,8 @@
             "de": "Nutzen Sie Thorns Nahverkehr, um bei Regen trocken von A nach B zu kommen. Starten Sie an der Haltestelle Plac Teatralny und tauchen Sie in die Museen der Altstadt ein. Die Straßenbahnen bieten eine gemütliche Perspektive auf die regnerischen Gassen. Nachmittags ist das Planetarium ein perfektes Ziel unter festem Dach, bevor Sie abends bequem mit der Tram zum Abendessen fahren.",
             "hu": "Használja Toruń tömegközlekedését, hogy esőben is szárazon jusson el a látnivalókhoz. Kezdjen a Plac Teatralny megállónál, és merüljön el az óváros múzeumaiban. A villamosok kényelmes betekintést nyújtanak az esős utcákba. Délután a Planetárium tökéletes fedett célpont, este pedig villamossal könnyen elérheti a kiválasztott éttermet.",
             "ro": "Folosiți transportul public din Toruń pentru a ajunge uscat la destinație pe ploaie. Începeți la stația Plac Teatralny și vizitați muzeele din centrul vechi. Tramvaiele oferă o perspectivă relaxată asupra străzilor plouate. După-amiaza, Planetariul este o destinație perfectă sub acoperiș, înainte de a merge cu tramvaiul la cină.",
-            "en": "Use Toruń's public transit to travel between sites while staying dry. Start at the Plac Teatralny stop and head straight into the Old Town museums. Trams offer a cozy way to see the rain-slicked streets. In the afternoon, the Planetarium is a perfect indoor escape, and you can easily take a tram to your dinner spot in the evening."
+            "en": "Use Toruń's public transit to travel between sites while staying dry. Start at the Plac Teatralny stop and head straight into the Old Town museums. Trams offer a cozy way to see the rain-slicked streets. In the afternoon, the Planetarium is a perfect indoor escape, and you can easily take a tram to your dinner spot in the evening.",
+            "pl": "Korzystaj z komunikacji miejskiej Torunia, by podróżować między atrakcjami i pozostać suchym. Zacznij na przystanku Plac Teatralny i udaj się prosto do muzeów na Starówce. Tramwaje to przytulny sposób, by zobaczyć deszczowo wilgotne ulice. Po południu Planetarium to doskonała ucieczka pod dachem, a tramwajem łatwo dojedziesz później na kolację."
           },
           "stops": [
             {
@@ -1866,7 +2019,8 @@
                 "de": "Haltestelle mit Unterstand direkt am Altstadtrand.",
                 "hu": "Fedett megálló közvetlenül az óváros szélén.",
                 "ro": "Stație cu adăpost chiar la marginea centrului vechi.",
-                "en": "Covered stop located right on the edge of the Old Town."
+                "en": "Covered stop located right on the edge of the Old Town.",
+                "pl": "Zadaszony przystanek tuż przy krawędzi Starówki."
               }
             },
             {
@@ -1875,7 +2029,8 @@
                 "de": "Nur ein kurzer Fußweg von der Straßenbahn entfernt.",
                 "hu": "Csak egy rövid séta a villamosmegállótól.",
                 "ro": "Doar o scurtă plimbare de la stația de tramvai.",
-                "en": "Only a very short walk from the nearest tram stop."
+                "en": "Only a very short walk from the nearest tram stop.",
+                "pl": "Tylko bardzo krótki spacer od najbliższego przystanku tramwajowego."
               }
             },
             {
@@ -1884,7 +2039,8 @@
                 "de": "Zentraler Punkt, gut zu Fuß von der Tram erreichbar.",
                 "hu": "Központi pont, gyalog is könnyen elérhető a villamostól.",
                 "ro": "Punct central, ușor accesibil pe jos de la tramvai.",
-                "en": "Central point, easily reachable on foot from the tram line."
+                "en": "Central point, easily reachable on foot from the tram line.",
+                "pl": "Centralne miejsce, łatwo dostępne pieszo z linii tramwajowej."
               }
             },
             {
@@ -1893,7 +2049,8 @@
                 "de": "Nutzen Sie die Wartezeit unter dem Haltestellendach.",
                 "hu": "Várja meg a csatlakozást a megálló fedele alatt.",
                 "ro": "Așteptați conexiunea sub acoperișul stației.",
-                "en": "Wait for your connection under the safety of the station roof."
+                "en": "Wait for your connection under the safety of the station roof.",
+                "pl": "Czekaj na połączenie pod osłoną dworcowego dachu."
               }
             },
             {
@@ -1902,7 +2059,8 @@
                 "de": "Kombinieren Sie diese Stopps für weniger Zeit im Regen.",
                 "hu": "Kombinálja ezeket a megállókat, hogy keveset ázzon.",
                 "ro": "Combinați aceste opriri pentru a sta cât mai puțin în ploaie.",
-                "en": "Combine these indoor stops to minimize time in the rain."
+                "en": "Combine these indoor stops to minimize time in the rain.",
+                "pl": "Łącz te kryte przystanki, aby zminimalizować czas spędzony na deszczu."
               }
             },
             {
@@ -1911,7 +2069,8 @@
                 "de": "Das ultimative Ziel für einen verregneten Nachmittag.",
                 "hu": "A végső célpont egy esős délutánra.",
                 "ro": "Destinația supremă pentru o după-amiază ploioasă.",
-                "en": "The ultimate destination for a rainy afternoon."
+                "en": "The ultimate destination for a rainy afternoon.",
+                "pl": "Idealne miejsce na deszczowe popołudnie."
               }
             }
           ],
@@ -1939,6 +2098,12 @@
               "Trams run frequently and are generally on time.",
               "Keep your umbrella handy for the short walks from the stops.",
               "Most Old Town transit stops provide good rain shelter."
+            ],
+            "pl": [
+              "Kup bilety przez aplikację mobilną, by unikać biletomatów na deszczu.",
+              "Tramwaje kursują często i zazwyczaj są punktualne.",
+              "Miej pod ręką parasol na krótkie spacery od przystanków.",
+              "Większość przystanków w Starym Mieście zapewnia dobrą ochronę przed deszczem."
             ]
           }
         },
@@ -1947,7 +2112,8 @@
             "de": "Der ÖPNV in Thorn ist im Winter Ihr bester Freund gegen den Frost. Starten Sie an der Haltestelle Plac Teatralny und wärmen Sie sich in der Tram auf dem Weg zu den Museen auf. Die Fahrten bieten einen Blick auf die schneebedeckten Türme der Stadt. Das Planetarium am Nachmittag ist ein gemütlich beheizter Ort. Da es früh dunkel wird, bringen Sie die beleuchteten Bahnen sicher durch die winterliche Nacht.",
             "hu": "Toruń tömegközlekedése télen a legjobb barátja a fagy ellen. Kezdjen a Plac Teatralny megállónál, és melegedjen fel a villamoson a múzeumok felé menet. Az út során gyönyörködhet a hófödte tornyokban. A Planetárium délután kellemesen fűtött menedéket nyújt. Mivel korán sötétedik, a kivilágított szerelvények biztonságosan szállítják a téli éjszakában.",
             "ro": "Transportul public din Toruń este cel mai bun aliat împotriva gerului iarna. Începeți la stația Plac Teatralny și încălziți-vă în tramvai spre muzee. Călătoria oferă vederi spre turnurile înzăpezite ale orașului. Planetariul este un refugiu încălzit perfect pentru după-amiază. Deoarece se întunecă devreme, tramvaiele luminate vă poartă în siguranță prin noaptea de iarnă.",
-            "en": "Public transit in Toruń is your best ally against the winter frost. Start at the Plac Teatralny stop and warm up inside the tram while heading to the museums. The rides offer views of the snow-covered Gothic towers. The Planetarium is a cozy, heated spot for the afternoon. As it gets dark early, the illuminated trams provide a safe and warm way to navigate the winter night."
+            "en": "Public transit in Toruń is your best ally against the winter frost. Start at the Plac Teatralny stop and warm up inside the tram while heading to the museums. The rides offer views of the snow-covered Gothic towers. The Planetarium is a cozy, heated spot for the afternoon. As it gets dark early, the illuminated trams provide a safe and warm way to navigate the winter night.",
+            "pl": "Transport publiczny w Toruniu to najlepszy sprzymierzeniec przeciw zimowemu mrozowi. Zacznij na przystanku Plac Teatralny i ogrzej się w tramwaju w drodze do muzeów. Przejazdy oferują widoki na ośnieżone gotyckie wieże. Planetarium to przytulne, ogrzewane miejsce na popołudnie. Ponieważ szybko robi się ciemno, oświetlone tramwaje stanowią bezpieczny i ciepły sposób poruszania się po zimowej nocy."
           },
           "stops": [
             {
@@ -1956,7 +2122,8 @@
                 "de": "Die digitalen Anzeigen zeigen die Ankunft in Echtzeit.",
                 "hu": "A digitális kijelzők mutatják a pontos érkezési időt.",
                 "ro": "Panourile digitale indică timpul real de sosire.",
-                "en": "Digital displays show real-time arrival info to minimize waiting."
+                "en": "Digital displays show real-time arrival info to minimize waiting.",
+                "pl": "Cyfrowe tablice pokazują informacje o przyjazdach w czasie rzeczywistym, aby skrócić oczekiwanie."
               }
             },
             {
@@ -1965,7 +2132,8 @@
                 "de": "Kurzer Weg minimiert die Zeit in der eisigen Kälte.",
                 "hu": "A rövid séta minimalizálja a fagyban töltött időt.",
                 "ro": "Drumul scurt minimizează timpul petrecut în ger.",
-                "en": "The short walk minimizes time spent in the biting cold."
+                "en": "The short walk minimizes time spent in the biting cold.",
+                "pl": "Krótki spacer ogranicza czas spędzony w przenikliwym chłodzie."
               }
             },
             {
@@ -1974,7 +2142,8 @@
                 "de": "Nutzen Sie das Rathaus als großen Wärmespeicher.",
                 "hu": "Használja a Városházát hatalmas 'hőtárolóként'.",
                 "ro": "Folosiți clădirea Primăriei ca refugiu termic.",
-                "en": "Use the massive Town Hall building as a thermal refuge."
+                "en": "Use the massive Town Hall building as a thermal refuge.",
+                "pl": "Wykorzystaj potężny Ratusz jako termiczne schronienie."
               }
             },
             {
@@ -1983,7 +2152,8 @@
                 "de": "Die Bahnen sind im Winter meist gut beheizt.",
                 "hu": "A szerelvények télen általában jól fűtöttek.",
                 "ro": "Mijloacele de transport sunt de obicei bine încălzite.",
-                "en": "Trams and buses are generally well-heated in winter."
+                "en": "Trams and buses are generally well-heated in winter.",
+                "pl": "Tramwaje i autobusy są na ogół dobrze ogrzane zimą."
               }
             },
             {
@@ -1992,7 +2162,8 @@
                 "de": "Perfekt temperierte Innenräume zum Aufwärmen.",
                 "hu": "Kellemesen temperált belső terek a felmelegedéshez.",
                 "ro": "Interioare cu temperatură plăcută pentru încălzire.",
-                "en": "Perfectly tempered interiors for a mid-day warm-up."
+                "en": "Perfectly tempered interiors for a mid-day warm-up.",
+                "pl": "Wnętrza o idealnej temperaturze na popołudniowe rozgrzanie."
               }
             },
             {
@@ -2001,7 +2172,8 @@
                 "de": "Warmer Abschluss der Tour vor dem frühen Abend.",
                 "hu": "Meleg zárása a túrának a korai sötétedés előtt.",
                 "ro": "Încheiere caldă a turului înainte de lăsarea serii.",
-                "en": "A warm conclusion to your tour before the early sunset."
+                "en": "A warm conclusion to your tour before the early sunset.",
+                "pl": "Ciepłe zakończenie wycieczki przed wczesnym zmierzchem."
               }
             }
           ],
@@ -2029,6 +2201,12 @@
               "Tickets are valid for both buses and trams in the city.",
               "Wait in the sheltered areas of major transit hubs.",
               "The sun sets as early as 3:45 PM in December."
+            ],
+            "pl": [
+              "Uwzględnij drobne opóźnienia podczas intensywnych opadów śniegu.",
+              "Bilety są ważne zarówno w autobusach, jak i tramwajach w mieście.",
+              "Czekaj w zadaszonych częściach głównych węzłów komunikacyjnych.",
+              "Słońce zachodzi już około 15:45 w grudniu."
             ]
           }
         }

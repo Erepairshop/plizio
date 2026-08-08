@@ -21,7 +21,8 @@
             "de": "Rathaus (Stary Rynek)",
             "hu": "Városháza (Óvárosi Piactér)",
             "ro": "Primăria (Piața Veche)",
-            "en": "Town Hall (Old Market Square)"
+            "en": "Town Hall (Old Market Square)",
+            "pl": "Ratusz (Stary Rynek)"
           },
           "coords": [
             19.706,
@@ -37,7 +38,8 @@
             "de": "Beobachten Sie um 12:00 Uhr die mechanische Figurenszene am Turm.",
             "hu": "Nézze meg a torony mechanikus figuráinak jelenetét délben 12-kor.",
             "ro": "La ora 12:00, urmăriți scena mecanică cu figurine din turn.",
-            "en": "At 12:00 PM, watch the mechanical figure scene on the tower."
+            "en": "At 12:00 PM, watch the mechanical figure scene on the tower.",
+            "pl": "O 12:00 obejrzyj mechaniczną scenę na wieży."
           }
         },
         {
@@ -45,7 +47,8 @@
             "de": "Masowisches Museum",
             "hu": "Mazóviai Múzeum",
             "ro": "Muzeul Mazovian",
-            "en": "Mazovian Museum"
+            "en": "Mazovian Museum",
+            "pl": "Muzeum Mazowieckie"
           },
           "coords": [
             19.708,
@@ -61,7 +64,8 @@
             "de": "Die Jugendstil-Ausstellung ist eine der besten in Polen.",
             "hu": "A szecessziós kiállítás az egyik legjobb Lengyelországban.",
             "ro": "Expoziția Art Nouveau este una dintre cele mai bune din Polonia.",
-            "en": "The Art Nouveau exhibition is one of the best in Poland."
+            "en": "The Art Nouveau exhibition is one of the best in Poland.",
+            "pl": "Ekspozycja secesji to jedna z najlepszych w Polsce."
           }
         },
         {
@@ -69,7 +73,8 @@
             "de": "Kathedrale von Płock",
             "hu": "Płocki Katedrális",
             "ro": "Catedrala din Płock",
-            "en": "Płock Cathedral"
+            "en": "Płock Cathedral",
+            "pl": "Katedra w Płocku"
           },
           "coords": [
             19.7068,
@@ -85,7 +90,8 @@
             "de": "Suchen Sie nach der Nachbildung der berühmten romanischen Bronzetüren.",
             "hu": "Keresse meg a híres román kori bronzkapu másolatát.",
             "ro": "Căutați replica faimoaselor uși de bronz romanice.",
-            "en": "Look for the replica of the famous Romanesque bronze doors."
+            "en": "Look for the replica of the famous Romanesque bronze doors.",
+            "pl": "Szukaj repliki słynnych romańskich drzwi brązowych."
           }
         },
         {
@@ -93,7 +99,8 @@
             "de": "Tumski-Hügel (Wzgórze Tumskie)",
             "hu": "Tumski-domb",
             "ro": "Dealul Tumskie",
-            "en": "Tumskie Hill (Wzgórze Tumskie)"
+            "en": "Tumskie Hill (Wzgórze Tumskie)",
+            "pl": "Wzgórze Tumskie"
           },
           "coords": [
             19.706,
@@ -109,7 +116,8 @@
             "de": "Der beste Ort für einen Panoramablick auf die Weichsel. Ideal für ein Mittagspicknick.",
             "hu": "A legjobb hely a Visztula panorámájának megcsodálására. Ideális egy ebédpiknikhez.",
             "ro": "Cel mai bun loc pentru o vedere panoramică a râului Vistula. Ideal pentru un picnic la prânz.",
-            "en": "The best spot for a panoramic view of the Vistula River. Ideal for a lunch picnic."
+            "en": "The best spot for a panoramic view of the Vistula River. Ideal for a lunch picnic.",
+            "pl": "Najlepsze miejsce na panoramiczny widok na Wisłę. Idealne na piknik przy lunchu."
           }
         },
         {
@@ -117,7 +125,8 @@
             "de": "Diözesanmuseum",
             "hu": "Egyházmegyei Múzeum",
             "ro": "Muzeul Diecezan",
-            "en": "Diocesan Museum"
+            "en": "Diocesan Museum",
+            "pl": "Muzeum Diecezjalne"
           },
           "coords": [
             19.705,
@@ -133,7 +142,8 @@
             "de": "Ein verstecktes Juwel mit beeindruckender sakraler Kunst und historischen Artefakten.",
             "hu": "Rejtett kincs, lenyűgöző szakrális művészettel és történelmi tárgyakkal.",
             "ro": "O bijuterie ascunsă cu artă sacră impresionantă și artefacte istorice.",
-            "en": "A hidden gem with impressive sacral art and historical artifacts."
+            "en": "A hidden gem with impressive sacral art and historical artifacts.",
+            "pl": "Ukryty skarb z imponującą sztuką sakralną i zabytkami."
           }
         },
         {
@@ -141,7 +151,8 @@
             "de": "Boulevards an der Weichsel",
             "hu": "Visztula parti sétányok",
             "ro": "Bulevardele de pe Vistula",
-            "en": "Vistula River Boulevards"
+            "en": "Vistula River Boulevards",
+            "pl": "Bulwary nad Wisłą"
           },
           "coords": [
             19.698,
@@ -157,7 +168,8 @@
             "de": "Mieten Sie ein Tretboot oder entspannen Sie einfach in einem der Cafés am Flussufer.",
             "hu": "Béreljen vízibiciklit, vagy csak pihenjen a folyóparti kávézók egyikében.",
             "ro": "Închiriați o hidrobicicletă sau pur și simplu relaxați-vă la una dintre cafenelele de pe malul râului.",
-            "en": "Rent a paddle boat or just relax at one of the riverside cafes."
+            "en": "Rent a paddle boat or just relax at one of the riverside cafes.",
+            "pl": "Wypożycz rowerek wodny albo po prostu odpocznij w jednej z kawiarni nad rzeką."
           }
         }
       ],
@@ -165,7 +177,8 @@
         "de": "Ihr Tag in Płock beginnt am historischen Alten Markt, dem Herzen der Stadt. Am Vormittag erkunden Sie das nahegelegene Masowische Museum mit seiner berühmten Jugendstilsammlung. Nach dem Mittagessen steigen Sie zum Tumski-Hügel hinauf, wo die majestätische Kathedrale thront. Der Nachmittag ist einem Spaziergang entlang der malerischen Weichselboulevards gewidmet, wo Sie die entspannte Atmosphäre genießen können, bevor Sie den Abend in einem lokalen Restaurant ausklingen lassen.",
         "hu": "A płocki nap a történelmi Óvárosi Piactéren, a város szívében kezdődik. Délelőtt fedezze fel a közeli Mazóviai Múzeumot híres szecessziós gyűjteményével. Ebéd után másszon fel a Tumski-dombra, ahol a fenséges katedrális áll. A délutánt a festői Visztula-parti sétányokon való sétával tölti, élvezve a nyugodt légkört, mielőtt egy helyi étteremben zárja az estét.",
         "ro": "Ziua dvs. în Płock începe în Piața Veche istorică, inima orașului. Dimineața, explorați Muzeul Mazovian din apropiere, cu faimoasa sa colecție Art Nouveau. După prânz, urcați pe Dealul Tumskie, unde se află catedrala maiestuoasă. După-amiaza este dedicată unei plimbări pe bulevardele pitorești de pe Vistula, bucurându-vă de atmosfera relaxată înainte de a încheia seara la un restaurant local.",
-        "en": "Your day in Płock begins at the historic Old Market Square, the city's heart. In the morning, explore the nearby Mazovian Museum with its famous Art Nouveau collection. After lunch, ascend Tumskie Hill, where the majestic cathedral stands. The afternoon is for a stroll along the scenic Vistula Boulevards, enjoying the relaxed atmosphere before finishing the evening at a local restaurant."
+        "en": "Your day in Płock begins at the historic Old Market Square, the city's heart. In the morning, explore the nearby Mazovian Museum with its famous Art Nouveau collection. After lunch, ascend Tumskie Hill, where the majestic cathedral stands. The afternoon is for a stroll along the scenic Vistula Boulevards, enjoying the relaxed atmosphere before finishing the evening at a local restaurant.",
+        "pl": "Twój dzień w Płocku zaczyna się na historycznym Starym Rynku, sercu miasta. Rano zwiedź pobliskie Muzeum Mazowieckie z jego słynną kolekcją secesji. Po obiedzie wejdź na Wzgórze Tumskie, gdzie stoi majestatyczna katedra. Po południu spaceruj malowniczymi bulwarami nad Wisłą, korzystając z relaksującej atmosfery, a wieczór zakończ w lokalnej restauracji."
       },
       "gastro_picks": {
         "de": [
@@ -357,6 +370,11 @@
           "Wear comfortable shoes as the cobblestones in the Old Town can be uneven.",
           "Most attractions are within walking distance, so plan for a full day of it.",
           "Check the opening hours for museums as they are often closed on Mondays."
+        ],
+        "pl": [
+          "Noś wygodne buty, bo bruk w Starym Mieście bywa nierówny.",
+          "Większość atrakcji jest w odległości spaceru, zaplanuj pełen dzień.",
+          "Sprawdź godziny otwarcia muzeów, często zamknięte są w poniedziałki."
         ]
       },
       "variants": {
@@ -365,7 +383,8 @@
             "de": "Beginnen Sie am regnerischen Alten Markt mit einem Schirm und flüchten Sie in die Kathedrale. Mittags bieten das Diözesan- und das Jugendstilmuseum trockene Zuflucht. Nachmittags wärmt ein lokales Mittagessen, bevor Sie den nebligen Weichselblick genießen. Der Abend endet an der beleuchteten Brücke.",
             "hu": "Kezdje a reggelt a régi piactéren egy esernyővel, majd húzódjon be a katedrálisba. Délben a múzeumok nyújtanak száraz menedéket a kultúra kedvelőinek. Délután egy meleg ebéd várja az óvárosban, ahonnan párás kilátás nyílik a Visztulára. Az estét a kivilágított hídnál zárhatja.",
             "ro": "Începeți dimineața în Piața Veche cu o umbrelă, apoi refugiați-vă în catedrală. La prânz, muzeele oferă un adăpost uscat excelent. După-amiaza, savurați un prânz cald și o vedere cețoasă asupra râului Vistula. Seara se încheie la podul iluminat.",
-            "en": "Start at the rainy Old Town Market with an umbrella, then seek shelter in the Cathedral. Midday is perfect for exploring the dry and warm museums. In the afternoon, enjoy a cozy lunch and misty views of the Vistula. The evening concludes at the glowing Solidarity Bridge."
+            "en": "Start at the rainy Old Town Market with an umbrella, then seek shelter in the Cathedral. Midday is perfect for exploring the dry and warm museums. In the afternoon, enjoy a cozy lunch and misty views of the Vistula. The evening concludes at the glowing Solidarity Bridge.",
+            "pl": "Zacznij na deszczowym Starym Rynku z parasolem, potem schronienie znajdziesz w Katedrze. W południe idealnie odwiedzić ciepłe muzea. Po południu rozkoszuj się przytulnym lunchem i mglistymi widokami Wisły. Wieczór kończy się przy rozświetlonym Moście Solidarności."
           },
           "stops": [
             {
@@ -374,7 +393,8 @@
                 "de": "Vorsicht auf nassen Pflastersteinen.",
                 "hu": "Vigyázzon a csúszós macskaköveken.",
                 "ro": "Atenție la pietrele cubice alunecoase.",
-                "en": "Careful on the wet cobblestones."
+                "en": "Careful on the wet cobblestones.",
+                "pl": "Uważaj na mokry bruk."
               }
             },
             {
@@ -383,7 +403,8 @@
                 "de": "Perfekter Zufluchtsort vor dem Regen.",
                 "hu": "Tökéletes menedék a heves esőzés elől.",
                 "ro": "Un refugiu perfect de ploaie.",
-                "en": "A perfect shelter from the heavy rain."
+                "en": "A perfect shelter from the heavy rain.",
+                "pl": "Idealne schronienie przed ulewnym deszczem."
               }
             },
             {
@@ -392,7 +413,8 @@
                 "de": "Garderobe für nasse Jacken vorhanden.",
                 "hu": "Van ruhatár a vizes kabátoknak.",
                 "ro": "Există garderobă pentru hainele ude.",
-                "en": "Cloakroom available for wet jackets."
+                "en": "Cloakroom available for wet jackets.",
+                "pl": "Szatnia dostępna na mokre kurtki."
               }
             },
             {
@@ -401,7 +423,8 @@
                 "de": "Genießen Sie die Kunst im Trockenen.",
                 "hu": "Élvezze a művészetet szárazon.",
                 "ro": "Bucurați-vă de artă la adăpost.",
-                "en": "Enjoy the beautiful art while staying dry."
+                "en": "Enjoy the beautiful art while staying dry.",
+                "pl": "Podziwiaj piękne dzieła przy jednoczesnym suchości."
               }
             },
             {
@@ -410,7 +433,8 @@
                 "de": "Wärmen Sie sich mit einer polnischen Suppe auf.",
                 "hu": "Melegedjen fel egy forró lengyel levessel.",
                 "ro": "Încălziți-vă cu o supă tradițională poloneză.",
-                "en": "Warm up with a hot traditional Polish soup."
+                "en": "Warm up with a hot traditional Polish soup.",
+                "pl": "Rozgrzej się gorącą tradycyjną polską zupą."
               }
             },
             {
@@ -419,7 +443,8 @@
                 "de": "Bei Regen oft windig, Mütze aufsetzen.",
                 "hu": "Esőben gyakran szeles, vigyen sapkát.",
                 "ro": "Deseori vântos pe ploaie, purtați o căciulă.",
-                "en": "Often windy during rain, wear a hat."
+                "en": "Often windy during rain, wear a hat.",
+                "pl": "Często wieje podczas deszczu, noś czapkę."
               }
             },
             {
@@ -428,7 +453,8 @@
                 "de": "Schöne Spiegelungen auf dem nassen Asphalt.",
                 "hu": "Szép tükröződések a vizes aszfalton.",
                 "ro": "Reflexii frumoase pe asfaltul umed.",
-                "en": "Beautiful reflections on the wet asphalt."
+                "en": "Beautiful reflections on the wet asphalt.",
+                "pl": "Piękne refleksy na mokrym asfalcie."
               }
             }
           ],
@@ -456,6 +482,12 @@
               "The cobblestones in the Old Town get very slippery when wet.",
               "Use the museums for longer stays during heavy showers.",
               "Many cafes offer warming drinks, perfect for cozy breaks."
+            ],
+            "pl": [
+              "Weź solidny parasol, wiatr przy Wiśle potrafi być silny.",
+              "Bruk w Starym Mieście staje się bardzo śliski po deszczu.",
+              "W muzeach spędź więcej czasu podczas ulewy.",
+              "Wiele kawiarni oferuje rozgrzewające napoje, idealne na przerwę."
             ]
           }
         },
@@ -464,7 +496,8 @@
             "de": "Ein frostiger Morgen beginnt am Alten Markt und führt in die wärmende Kathedrale. Mittags bieten die Museen eine kulturelle und warme Zuflucht. Nachmittags genießen Sie ein herzhaftes Essen und den Blick auf die verschneite Weichsel. Der Abend bricht früh herein und beleuchtet die Brücke.",
             "hu": "A fagyos reggel a Piactéren indul, majd a meleg katedrálisban folytatódik. Délben a múzeumok nyújtanak kulturális és meleg menedéket. Délután egy kiadós ebéd után élvezze a havas Visztula látványát. Az este korán érkezik, kivilágítva a hidat.",
             "ro": "O dimineață geroasă începe în Piața Veche și duce spre catedrala caldă. La prânz, muzeele oferă un refugiu cultural. După-amiaza, savurați o masă copioasă și priveliștea Vistulei înzăpezite. Seara vine devreme, luminând frumos podul.",
-            "en": "A frosty morning starts at the Market Square and leads into the warming Cathedral. Midday, the museums offer a cultural and warm refuge. In the afternoon, enjoy a hearty meal and views of the snow-covered Vistula. Evening falls early, beautifully illuminating the bridge."
+            "en": "A frosty morning starts at the Market Square and leads into the warming Cathedral. Midday, the museums offer a cultural and warm refuge. In the afternoon, enjoy a hearty meal and views of the snow-covered Vistula. Evening falls early, beautifully illuminating the bridge.",
+            "pl": "Mroźny poranek zaczyna się na Rynku i prowadzi do rozgrzewającej Katedry. W południe muzea stanowią kulturalne, ciepłe schronienie. Po południu zjedz pożywny posiłek i podziwiaj zaśnieżoną Wisłę. Zmrok zapada wcześnie, pięknie oświetlając most."
           },
           "stops": [
             {
@@ -473,7 +506,8 @@
                 "de": "Kleiden Sie sich warm für den frostigen Wind.",
                 "hu": "Öltözzön melegen a fagyos szél ellen.",
                 "ro": "Îmbrăcați-vă gros pentru vântul geros.",
-                "en": "Dress warmly against the frosty wind."
+                "en": "Dress warmly against the frosty wind.",
+                "pl": "Ubierz się ciepło przeciw mroźnemu wiatrowi."
               }
             },
             {
@@ -482,7 +516,8 @@
                 "de": "Nutzen Sie die Heizung im Inneren.",
                 "hu": "Melegedjen fel a fűtött belső térben.",
                 "ro": "Încălziți-vă în interiorul încălzit.",
-                "en": "Warm up in the heated interior."
+                "en": "Warm up in the heated interior.",
+                "pl": "Rozgrzej się wewnątrz w ogrzewanym wnętrzu."
               }
             },
             {
@@ -491,7 +526,8 @@
                 "de": "Ideal, um sich richtig aufzuwärmen.",
                 "hu": "Ideális hely az alapos felmelegedéshez.",
                 "ro": "Loc ideal pentru a vă încălzi bine.",
-                "en": "An ideal place to thoroughly warm up."
+                "en": "An ideal place to thoroughly warm up.",
+                "pl": "Idealne miejsce, by porządnie się ogrzać."
               }
             },
             {
@@ -500,7 +536,8 @@
                 "de": "Schöne Kunst im gemütlich Warmen.",
                 "hu": "Gyönyörű művészet barátságos melegben.",
                 "ro": "Artă frumoasă la căldură.",
-                "en": "Beautiful art in a cozy, warm environment."
+                "en": "Beautiful art in a cozy, warm environment.",
+                "pl": "Piękna sztuka w przytulnym, ciepłym otoczeniu."
               }
             },
             {
@@ -509,7 +546,8 @@
                 "de": "Ein heißes polnisches Gericht tut jetzt gut.",
                 "hu": "Egy forró lengyel étel most nagyon jól esik.",
                 "ro": "O mâncare fierbinte pică bine acum.",
-                "en": "A hot Polish dish is perfect right now."
+                "en": "A hot Polish dish is perfect right now.",
+                "pl": "Gorące polskie danie będzie teraz idealne."
               }
             },
             {
@@ -518,7 +556,8 @@
                 "de": "Der Wind vom Fluss ist eisig.",
                 "hu": "A folyó felől fújó szél jéghideg.",
                 "ro": "Vântul de pe râu este extrem de rece.",
-                "en": "The wind off the river is freezing."
+                "en": "The wind off the river is freezing.",
+                "pl": "Wiatr znad rzeki jest przenikliwie zimny."
               }
             },
             {
@@ -527,7 +566,8 @@
                 "de": "Tolles Fotomotiv im frühen Sonnenuntergang.",
                 "hu": "Remek fotótéma a korai naplementében.",
                 "ro": "Oportunitate foto la apusul timpuriu.",
-                "en": "Great photo spot during the early sunset."
+                "en": "Great photo spot during the early sunset.",
+                "pl": "Świetne miejsce do zdjęć przy wczesnym zachodzie słońca."
               }
             }
           ],
@@ -555,6 +595,12 @@
               "In winter, the sun sets around 3:30 PM, so plan daylight activities early.",
               "The wind from the Vistula can significantly lower the feels-like temperature.",
               "Paths near the river can become icy and slippery."
+            ],
+            "pl": [
+              "Ubieraj się na cebulkę, by łatwo dopasować się do ogrzewania w pomieszczeniach.",
+              "Zimą słońce zachodzi około 15:30, więc planuj aktywności w ciągu dnia wcześniej.",
+              "Wiatr znad Wisły znacznie obniża odczuwalną temperaturę.",
+              "Ścieżki przy rzece mogą stać się oblodzone i śliskie."
             ]
           }
         }
@@ -573,7 +619,8 @@
             "de": "Rathaus (Stary Rynek)",
             "hu": "Városháza (Óvárosi Piactér)",
             "ro": "Primăria (Piața Veche)",
-            "en": "Town Hall (Old Market Square)"
+            "en": "Town Hall (Old Market Square)",
+            "pl": "Ratusz (Stary Rynek)"
           },
           "coords": [
             19.706,
@@ -589,7 +636,8 @@
             "de": "Perfekter Ausgangspunkt, um die Atmosphäre der Stadt aufzusaugen.",
             "hu": "Tökéletes kiindulópont a város hangulatának magába szívásához.",
             "ro": "Punct de plecare perfect pentru a absorbi atmosfera orașului.",
-            "en": "Perfect starting point to soak up the city's atmosphere."
+            "en": "Perfect starting point to soak up the city's atmosphere.",
+            "pl": "Idealny punkt startowy, by poczuć atmosferę miasta."
           }
         },
         {
@@ -597,7 +645,8 @@
             "de": "Kathedrale und Tumski-Hügel",
             "hu": "Katedrális és Tumski-domb",
             "ro": "Catedrala și Dealul Tumskie",
-            "en": "Cathedral and Tumskie Hill"
+            "en": "Cathedral and Tumskie Hill",
+            "pl": "Katedra i Wzgórze Tumskie"
           },
           "coords": [
             19.7068,
@@ -613,7 +662,8 @@
             "de": "Schließen Sie Ihr Fahrrad unten am Hügel ab und erkunden Sie den Komplex zu Fuß.",
             "hu": "Zárja le a kerékpárját a domb alján, és fedezze fel a komplexumot gyalog.",
             "ro": "Lăsați bicicleta la baza dealului și explorați complexul pe jos.",
-            "en": "Lock your bike at the bottom of the hill and explore the complex on foot."
+            "en": "Lock your bike at the bottom of the hill and explore the complex on foot.",
+            "pl": "Zamknij rower u podnóża wzgórza i zwiedź kompleks pieszo."
           }
         },
         {
@@ -621,7 +671,8 @@
             "de": "Masowisches Museum",
             "hu": "Mazóviai Múzeum",
             "ro": "Muzeul Mazovian",
-            "en": "Mazovian Museum"
+            "en": "Mazovian Museum",
+            "pl": "Muzeum Mazowieckie"
           },
           "coords": [
             19.708,
@@ -637,7 +688,8 @@
             "de": "Planen Sie genügend Zeit für die beeindruckende Jugendstil-Abteilung ein.",
             "hu": "Szánjon elegendő időt a lenyűgöző szecessziós részlegre.",
             "ro": "Planificați suficient timp pentru impresionanta secțiune Art Nouveau.",
-            "en": "Plan enough time for the impressive Art Nouveau section."
+            "en": "Plan enough time for the impressive Art Nouveau section.",
+            "pl": "Zarezerwuj wystarczająco dużo czasu na imponującą sekcję secesji."
           }
         },
         {
@@ -645,7 +697,8 @@
             "de": "Sanktuarium der Barmherzigkeit Gottes",
             "hu": "Isteni Irgalmasság Szentélye",
             "ro": "Sanctuarul Milostivirii Divine",
-            "en": "Sanctuary of Divine Mercy"
+            "en": "Sanctuary of Divine Mercy",
+            "pl": "Sanktuarium Miłosierdzia Bożego"
           },
           "coords": [
             19.715,
@@ -661,7 +714,8 @@
             "de": "Ein moderner Wallfahrtsort mit einer friedlichen und kontemplativen Atmosphäre.",
             "hu": "Modern zarándokhely, békés és elmélkedő légkörrel.",
             "ro": "Un loc modern de pelerinaj cu o atmosferă pașnică și contemplativă.",
-            "en": "A modern pilgrimage site with a peaceful and contemplative atmosphere."
+            "en": "A modern pilgrimage site with a peaceful and contemplative atmosphere.",
+            "pl": "Nowoczesne miejsce pielgrzymkowe o spokojnej, kontemplacyjnej atmosferze."
           }
         },
         {
@@ -669,7 +723,8 @@
             "de": "Mittagessen am Fluss",
             "hu": "Ebéd a folyónál",
             "ro": "Prânz pe malul râului",
-            "en": "Lunch by the River"
+            "en": "Lunch by the River",
+            "pl": "Lunch nad rzeką"
           },
           "coords": [
             19.699,
@@ -685,7 +740,8 @@
             "de": "Wählen Sie ein Restaurant entlang der Boulevards für eine entspannte Mahlzeit.",
             "hu": "Válasszon egy éttermet a sétány mentén egy pihentető étkezéshez.",
             "ro": "Alegeți un restaurant de-a lungul bulevardelor pentru o masă relaxantă.",
-            "en": "Choose a restaurant along the boulevards for a relaxing meal."
+            "en": "Choose a restaurant along the boulevards for a relaxing meal.",
+            "pl": "Wybierz restaurację przy bulwarach na relaksujący posiłek."
           }
         },
         {
@@ -693,7 +749,8 @@
             "de": "Boulevards an der Weichsel",
             "hu": "Visztula parti sétányok",
             "ro": "Bulevardele de pe Vistula",
-            "en": "Vistula River Boulevards"
+            "en": "Vistula River Boulevards",
+            "pl": "Bulwary nad Wisłą"
           },
           "coords": [
             19.69,
@@ -709,7 +766,8 @@
             "de": "Radfahren Sie den gesamten Pier und die Promenade für die beste Aussicht.",
             "hu": "Biciklizze végig a mólót és a sétányt a legjobb kilátásért.",
             "ro": "Parcurgeți cu bicicleta întregul ponton și promenada pentru cele mai bune priveliști.",
-            "en": "Cycle the length of the pier and promenade for the best views."
+            "en": "Cycle the length of the pier and promenade for the best views.",
+            "pl": "Przejedź wzdłuż molo i promenady, by podziwiać najlepsze widoki."
           }
         },
         {
@@ -717,7 +775,8 @@
             "de": "Solidarność-Brücke",
             "hu": "Szolidaritás híd",
             "ro": "Podul Solidarității",
-            "en": "Solidarity Bridge"
+            "en": "Solidarity Bridge",
+            "pl": "Most Solidarności"
           },
           "coords": [
             19.665,
@@ -733,7 +792,8 @@
             "de": "Eine beeindruckende Schrägseilbrücke, die bei Sonnenuntergang spektakulär ist.",
             "hu": "Lenyűgöző ferdekábeles híd, amely naplementekor látványos.",
             "ro": "Un pod hobanat impresionant, spectaculos la apus.",
-            "en": "An impressive cable-stayed bridge, spectacular at sunset."
+            "en": "An impressive cable-stayed bridge, spectacular at sunset.",
+            "pl": "Imponujący most wantowy, widowiskowy o zachodzie słońca."
           }
         }
       ],
@@ -741,7 +801,8 @@
         "de": "Mit dem Fahrrad beginnen Sie am Alten Markt, bevor Sie zum historischen Tumski-Hügel radeln. Am Vormittag tauchen Sie im Masowischen Museum in die Kunst ein. Nach dem Besuch des modernen Heiligtums der Barmherzigkeit Gottes genießen Sie ein Mittagessen am Fluss. Der Nachmittag ist einer entspannten Fahrt entlang der Weichsel gewidmet, die an der beeindruckenden Solidarność-Brücke endet, um den Sonnenuntergang über dem Wasser zu beobachten.",
         "hu": "Kerékpárral az Óvárosi Piactérről indul, mielőtt a történelmi Tumski-dombhoz teker. Délelőtt merüljön el a művészetben a Mazóviai Múzeumban. Az Isteni Irgalmasság modern szentélyének meglátogatása után ebédeljen a folyóparton. A délutánt egy pihentető biciklizésnek szenteli a Visztula mentén, amely a lenyűgöző Szolidaritás hídnál ér véget, hogy megnézze a naplementét a víz felett.",
         "ro": "Pe bicicletă, începeți din Piața Veche înainte de a pedala spre istoricul Deal Tumskie. Dimineața, scufundați-vă în artă la Muzeul Mazovian. După ce vizitați sanctuarul modern al Milostivirii Divine, bucurați-vă de prânz pe malul râului. După-amiaza este dedicată unei plimbări relaxante pe Vistula, încheindu-se la impresionantul Pod al Solidarității pentru a privi apusul peste apă.",
-        "en": "On a bike, you'll start at the Old Market Square before cycling to the historic Tumskie Hill. In the morning, immerse yourself in art at the Mazovian Museum. After visiting the modern Sanctuary of Divine Mercy, enjoy lunch by the river. The afternoon is for a relaxing ride along the Vistula, ending at the impressive Solidarity Bridge to watch the sunset over the water."
+        "en": "On a bike, you'll start at the Old Market Square before cycling to the historic Tumskie Hill. In the morning, immerse yourself in art at the Mazovian Museum. After visiting the modern Sanctuary of Divine Mercy, enjoy lunch by the river. The afternoon is for a relaxing ride along the Vistula, ending at the impressive Solidarity Bridge to watch the sunset over the water.",
+        "pl": "Na rowerze zaczniesz na Starym Rynku, potem pojedziesz na historyczne Wzgórze Tumskie. Rano zanurz się w sztuce w Muzeum Mazowieckim. Po wizycie w nowoczesnym Sanktuarium Miłosierdzia Bożego zjedz obiad nad rzeką. Popołudnie przeznaczone jest na relaksującą przejażdżkę wzdłuż Wisły, kończąc przy imponującym Moście Solidarności, by oglądać zachód słońca nad wodą."
       },
       "gastro_picks": {
         "de": [
@@ -933,6 +994,11 @@
           "Płock is relatively flat, but some inclines like to Tumskie Hill require a bit of effort.",
           "Use the bike paths along the Vistula for a safe and scenic ride.",
           "Wear a helmet and always lock your bike securely."
+        ],
+        "pl": [
+          "Płock jest stosunkowo płaski, ale niektóre wzniesienia, jak Wzgórze Tumskie, wymagają trochę wysiłku.",
+          "Korzystaj ze ścieżek rowerowych wzdłuż Wisły dla bezpiecznej i malowniczej trasy.",
+          "Noś kask i zawsze solidnie zakładaj zamek do roweru."
         ]
       }
     },
@@ -949,7 +1015,8 @@
             "de": "Cluster 1: Tumski-Hügel & Altstadt",
             "hu": "1. csoport: Tumski-domb és Óváros",
             "ro": "Cluster 1: Dealul Tumskie și Centrul Vechi",
-            "en": "Cluster 1: Tumskie Hill & Old Town"
+            "en": "Cluster 1: Tumskie Hill & Old Town",
+            "pl": "Klaster 1: Wzgórze Tumskie i Stare Miasto"
           },
           "coords": [
             19.7068,
@@ -965,7 +1032,8 @@
             "de": "Parken Sie in der Nähe des Hügels und beginnen Sie mit der Kathedrale.",
             "hu": "Parkoljon a domb közelében, és kezdje a Katedrálissal.",
             "ro": "Parcați lângă deal și începeți cu catedrala.",
-            "en": "Park near the hill and start with the cathedral."
+            "en": "Park near the hill and start with the cathedral.",
+            "pl": "Zaparkuj przy wzgórzu i zacznij od katedry."
           }
         },
         {
@@ -973,7 +1041,8 @@
             "de": "Rathaus (Stary Rynek)",
             "hu": "Városháza (Óvárosi Piactér)",
             "ro": "Primăria (Piața Veche)",
-            "en": "Town Hall (Old Market Square)"
+            "en": "Town Hall (Old Market Square)",
+            "pl": "Ratusz (Stary Rynek)"
           },
           "coords": [
             19.706,
@@ -989,7 +1058,8 @@
             "de": "Ein kurzer Spaziergang vom Hügel hinunter ins Herz der Altstadt.",
             "hu": "Rövid séta a dombról le az Óváros szívébe.",
             "ro": "O scurtă plimbare de la deal în inima Centrului Vechi.",
-            "en": "A short walk down from the hill into the heart of the Old Town."
+            "en": "A short walk down from the hill into the heart of the Old Town.",
+            "pl": "Krótki spacer w dół ze wzgórza do serca Starego Miasta."
           }
         },
         {
@@ -997,7 +1067,8 @@
             "de": "Masowisches Museum",
             "hu": "Mazóviai Múzeum",
             "ro": "Muzeul Mazovian",
-            "en": "Mazovian Museum"
+            "en": "Mazovian Museum",
+            "pl": "Muzeum Mazowieckie"
           },
           "coords": [
             19.708,
@@ -1013,7 +1084,8 @@
             "de": "Ein Muss für Liebhaber des Jugendstils, nur wenige Schritte vom Marktplatz entfernt.",
             "hu": "A szecesszió szerelmeseinek kötelező, csak pár lépésre a piactértől.",
             "ro": "O necesitate pentru iubitorii de Art Nouveau, la doar câțiva pași de piață.",
-            "en": "A must-see for Art Nouveau lovers, just steps from the market square."
+            "en": "A must-see for Art Nouveau lovers, just steps from the market square.",
+            "pl": "Obowiązkowe miejsce dla miłośników secesji, zaledwie kilka kroków od rynku."
           }
         },
         {
@@ -1021,7 +1093,8 @@
             "de": "Cluster 2: Boulevards an der Weichsel",
             "hu": "2. csoport: Visztula parti sétányok",
             "ro": "Cluster 2: Bulevardele de pe Vistula",
-            "en": "Cluster 2: Vistula River Boulevards"
+            "en": "Cluster 2: Vistula River Boulevards",
+            "pl": "Klaster 2: Bulwary nad Wisłą"
           },
           "coords": [
             19.698,
@@ -1037,7 +1110,8 @@
             "de": "Fahren Sie zum Pier und finden Sie einen Parkplatz. Zeit für das Mittagessen am Fluss.",
             "hu": "Vezessen a mólóhoz és keressen parkolóhelyet. Ideje ebédelni a folyónál.",
             "ro": "Conduceți spre ponton și găsiți un loc de parcare. Timp pentru prânz pe malul râului.",
-            "en": "Drive to the pier area and find parking. Time for lunch by the river."
+            "en": "Drive to the pier area and find parking. Time for lunch by the river.",
+            "pl": "Dojedź do rejonu pomostu i znajdź parking. Czas na obiad nad rzeką."
           }
         },
         {
@@ -1045,7 +1119,8 @@
             "de": "Cluster 3: Heiligtum & Brücke",
             "hu": "3. csoport: Szentély és Híd",
             "ro": "Cluster 3: Sanctuar și Pod",
-            "en": "Cluster 3: Sanctuary & Bridge"
+            "en": "Cluster 3: Sanctuary & Bridge",
+            "pl": "Klaster 3: Sanktuarium i Most"
           },
           "coords": [
             19.715,
@@ -1061,7 +1136,8 @@
             "de": "Fahren Sie zum modernen Heiligtum der Barmherzigkeit Gottes.",
             "hu": "Vezessen az Isteni Irgalmasság modern szentélyéhez.",
             "ro": "Conduceți spre sanctuarul modern al Milostivirii Divine.",
-            "en": "Drive to the modern Sanctuary of Divine Mercy."
+            "en": "Drive to the modern Sanctuary of Divine Mercy.",
+            "pl": "Dojedź do nowoczesnego Sanktuarium Miłosierdzia Bożego."
           }
         },
         {
@@ -1069,7 +1145,8 @@
             "de": "Solidarność-Brücke Aussichtspunkt",
             "hu": "Szolidaritás híd kilátó",
             "ro": "Punct de belvedere Podul Solidarității",
-            "en": "Solidarity Bridge Viewpoint"
+            "en": "Solidarity Bridge Viewpoint",
+            "pl": "Punkt widokowy przy Moście Solidarności"
           },
           "coords": [
             19.665,
@@ -1085,7 +1162,8 @@
             "de": "Der letzte Halt des Tages für einen atemberaubenden Blick auf die Brücke und die Skyline.",
             "hu": "A nap utolsó állomása a hídra és a városra nyíló lélegzetelállító kilátásért.",
             "ro": "Ultima oprire a zilei pentru o priveliște uluitoare asupra podului și a liniei orizontului.",
-            "en": "The final stop of the day for a stunning view of the bridge and skyline."
+            "en": "The final stop of the day for a stunning view of the bridge and skyline.",
+            "pl": "Ostatni punkt dnia z oszałamiającym widokiem na most i panoramę miasta."
           }
         }
       ],
@@ -1093,7 +1171,8 @@
         "de": "Ihr Autotag in Płock ist in Cluster aufgeteilt. Sie beginnen am Tumski-Hügel, parken und erkunden die Kathedrale und die Altstadt zu Fuß. Nach dem Mittagessen fahren Sie zu den Weichselboulevards für einen entspannten Nachmittag am Wasser. Zum Abschluss fahren Sie zum Heiligtum der Barmherzigkeit Gottes und dann zum Aussichtspunkt der Solidarność-Brücke, um einen letzten Panoramablick auf die Stadt zu genießen.",
         "hu": "Az autós nap Płockban csoportokra van osztva. A Tumski-dombnál kezd, leparkol, és gyalog fedezi fel a katedrálist és az óvárost. Ebéd után a Visztula-parti sétányokhoz hajt egy pihentető délutánra a vízparton. Végül az Isteni Irgalmasság Szentélyéhez, majd a Szolidaritás híd kilátójához megy, hogy egy utolsó panorámaképet készítsen a városról.",
         "ro": "Ziua dvs. cu mașina în Płock este împărțită în clustere. Începeți pe Dealul Tumskie, parcați și explorați catedrala și centrul vechi pe jos. După prânz, conduceți spre bulevardele Vistulei pentru o după-amiază relaxantă la malul apei. În cele din urmă, conduceți spre Sanctuarul Milostivirii Divine și apoi spre punctul de belvedere al Podului Solidarității pentru o ultimă vedere panoramică a orașului.",
-        "en": "Your car day in Płock is divided into clusters. You'll start at Tumskie Hill, parking and exploring the cathedral and Old Town on foot. After lunch, you drive to the Vistula Boulevards for a relaxing afternoon by the water. Finally, you'll drive to the Sanctuary of Divine Mercy and then the Solidarity Bridge viewpoint for a final panoramic look at the city."
+        "en": "Your car day in Płock is divided into clusters. You'll start at Tumskie Hill, parking and exploring the cathedral and Old Town on foot. After lunch, you drive to the Vistula Boulevards for a relaxing afternoon by the water. Finally, you'll drive to the Sanctuary of Divine Mercy and then the Solidarity Bridge viewpoint for a final panoramic look at the city.",
+        "pl": "Twój dzień samochodem w Płocku podzielony jest na klastry. Zaczniesz na Wzgórzu Tumskim, zaparkujesz i zwiedzisz katedrę oraz Stare Miasto na piechotę. Po obiedzie pojedziesz na Bulwary nad Wisłą na relaksujące popołudnie nad wodą. Na koniec dojedziesz do Sanktuarium Miłosierdzia Bożego, a potem na punkt widokowy przy Moście Solidarności, by zobaczyć panoramę miasta."
       },
       "gastro_picks": {
         "de": [
@@ -1249,6 +1328,11 @@
           "Parking downtown can be challenging, especially in high season. Use designated parking lots.",
           "Be mindful of speed limits and parking regulations.",
           "A GPS is essential for navigating between the different clusters."
+        ],
+        "pl": [
+          "Parkowanie w centrum może być utrudnione, zwłaszcza w sezonie. Korzystaj z wyznaczonych parkingów.",
+          "Zwracaj uwagę na ograniczenia prędkości i przepisy dotyczące parkowania.",
+          "GPS jest niezbędny do nawigacji między poszczególnymi klastrami."
         ]
       },
       "variants": {
@@ -1257,7 +1341,8 @@
             "de": "Fahren Sie trocken zum Sanktuarium, bevor Sie das Rathaus und die Basilika besichtigen. Mittags geht es kurz zum nebligen Aussichtspunkt und dann zu einem gemütlichen Essen. Nachmittags parken Sie nahe der historischen Speicher. Der Zoo-Besuch wird mit Schirm absolviert, bevor die Fahrt an der Brücke endet.",
             "hu": "Vezessen szárazon a Szentélyhez, majd látogassa meg a Városházát és a Bazilikát. Délben tegyen egy rövid kitérőt a párás kilátóhoz, utána következik egy kellemes ebéd. Délután parkoljon a Magtárak közelében. Az állatkertet esernyővel járja be, majd a hídnál ér véget az út.",
             "ro": "Conduceți la adăpost spre Sanctuar, apoi vizitați Primăria și Bazilica. La prânz, o oprire scurtă la punctul de belvedere cețos, urmată de un prânz cald. După-amiaza, parcați aproape de Hambare. Vizitați zoo cu umbrela, apoi încheiați la pod.",
-            "en": "Drive dryly to the Sanctuary before visiting the Town Hall and Basilica. Midday includes a short stop at the misty viewpoint and a cozy lunch. In the afternoon, park near the historic Granaries. The zoo visit requires an umbrella, concluding the day at the bridge."
+            "en": "Drive dryly to the Sanctuary before visiting the Town Hall and Basilica. Midday includes a short stop at the misty viewpoint and a cozy lunch. In the afternoon, park near the historic Granaries. The zoo visit requires an umbrella, concluding the day at the bridge.",
+            "pl": "Jedź najpierw suchą trasą do Sanktuarium, zanim odwiedzisz Ratusz i Bazylikę. W południe krótki postój przy mglistym punkcie widokowym i przytulny obiad. Po południu zaparkuj przy zabytkowych Spichrzach. Wizyta w zoo wymaga parasola, a dzień kończy się przy moście."
           },
           "stops": [
             {
@@ -1266,7 +1351,8 @@
                 "de": "Parkplatz direkt vor der Tür.",
                 "hu": "Parkoló közvetlenül az ajtó előtt.",
                 "ro": "Parcare chiar în fața ușii.",
-                "en": "Parking available right in front."
+                "en": "Parking available right in front.",
+                "pl": "Parking dostępny tuż przed wejściem."
               }
             },
             {
@@ -1275,7 +1361,8 @@
                 "de": "Kurzer Laufweg durch den Regen.",
                 "hu": "Rövid séta az esőben.",
                 "ro": "Scurtă plimbare prin ploaie.",
-                "en": "Short walk through the rain."
+                "en": "Short walk through the rain.",
+                "pl": "Krótki spacer w deszczu."
               }
             },
             {
@@ -1284,7 +1371,8 @@
                 "de": "Tolle Atmosphäre im Nebel.",
                 "hu": "Remek hangulat a ködben.",
                 "ro": "Atmosferă grozavă în ceață.",
-                "en": "Great atmosphere in the mist."
+                "en": "Great atmosphere in the mist.",
+                "pl": "Świetna atmosfera we mgle."
               }
             },
             {
@@ -1293,7 +1381,8 @@
                 "de": "Vorsicht, rutschiger Untergrund.",
                 "hu": "Vigyázat, csúszós talaj.",
                 "ro": "Atenție, suprafață alunecoasă.",
-                "en": "Careful, slippery surface."
+                "en": "Careful, slippery surface.",
+                "pl": "Uwaga, śliska nawierzchnia."
               }
             },
             {
@@ -1302,7 +1391,8 @@
                 "de": "Nutzen Sie Parkhäuser in der Nähe.",
                 "hu": "Használja a közeli parkolóházakat.",
                 "ro": "Folosiți parcările acoperite din apropiere.",
-                "en": "Use nearby parking garages."
+                "en": "Use nearby parking garages.",
+                "pl": "Korzystaj z pobliskich parkingów wielopoziomowych."
               }
             },
             {
@@ -1311,7 +1401,8 @@
                 "de": "Parken Sie möglichst nah am Eingang.",
                 "hu": "Parkoljon a bejárathoz a lehető legközelebb.",
                 "ro": "Parcați cât mai aproape de intrare.",
-                "en": "Park as close to the entrance as possible."
+                "en": "Park as close to the entrance as possible.",
+                "pl": "Parkuj jak najbliżej wejścia."
               }
             },
             {
@@ -1320,7 +1411,8 @@
                 "de": "Regencape für die Außenbereiche nötig.",
                 "hu": "Esőkabát szükséges a kinti részekhez.",
                 "ro": "Pelerină de ploaie necesară afară.",
-                "en": "Raincoat needed for outdoor areas."
+                "en": "Raincoat needed for outdoor areas.",
+                "pl": "Płaszcz przeciwdeszczowy przyda się na przestrzeniach zewnętrznych."
               }
             },
             {
@@ -1329,7 +1421,8 @@
                 "de": "Schöne Lichteffekte auf regennassen Scheiben.",
                 "hu": "Szép fényeffektek az esős ablakokon.",
                 "ro": "Efecte frumoase de lumini pe geamurile ude.",
-                "en": "Beautiful light effects on wet windows."
+                "en": "Beautiful light effects on wet windows.",
+                "pl": "Piękne efekty świetlne na mokrych oknach."
               }
             }
           ],
@@ -1357,6 +1450,12 @@
               "Drive carefully on wet cobblestones in the city center.",
               "Leave wet umbrellas in the trunk to keep the interior dry.",
               "The car heater is excellent for warming up between stops."
+            ],
+            "pl": [
+              "Korzystaj z parkingów podziemnych lub zadaszonych, gdzie to możliwe.",
+              "Jedź ostrożnie po mokrych brukach w centrum miasta.",
+              "Zostaw mokre parasole w bagażniku, by utrzymać suchy wnętrze auta.",
+              "Nagrzewnica w samochodzie świetnie rozgrzewa między postojami."
             ]
           }
         },
@@ -1365,7 +1464,8 @@
             "de": "Starten Sie die Winterfahrt am Sanktuarium und besuchen Sie das verschneite Rathaus und die Basilika. Mittags bietet der Aussichtspunkt einen klaren, eisigen Blick. Nach einem warmen Mittagessen in der Neustadt erkunden Sie die Speicher. Der Zoo ist ruhig, bevor die Tour am winterlich beleuchteten Brückenbauwerk endet.",
             "hu": "Kezdje a téli utazást a Szentélynél, majd látogassa meg a havas Városházát és a Bazilikát. Délben a kilátó tiszta, jeges panorámát nyújt. Az újvárosi meleg ebéd után fedezze fel a Magtárakat. Az állatkert csendes, mielőtt a túra a téli fényekben úszó hídnál véget ér.",
             "ro": "Începeți traseul de iarnă la Sanctuar și vizitați Primăria și Bazilica înzăpezite. La prânz, punctul de belvedere oferă o vedere clară și înghețată. După un prânz cald, explorați Hambarele. Zoo este liniștită, iar turul se încheie la podul iluminat.",
-            "en": "Start the winter drive at the Sanctuary and visit the snow-covered Town Hall and Basilica. Midday, the viewpoint offers a clear, icy vista. After a warm lunch in the New Town, explore the Granaries. The zoo is quiet before the tour ends at the winter-lit bridge."
+            "en": "Start the winter drive at the Sanctuary and visit the snow-covered Town Hall and Basilica. Midday, the viewpoint offers a clear, icy vista. After a warm lunch in the New Town, explore the Granaries. The zoo is quiet before the tour ends at the winter-lit bridge.",
+            "pl": "Zimowa trasa samochodowa zaczyna się w Sanktuarium; odwiedź ośnieżony Ratusz i Bazylikę. W południe punkt widokowy oferuje klarowną, lodowatą panoramę. Po ciepłym obiedzie w Nowym Mieście zwiedź Spichrze. Zoo jest ciche, a dzień kończy się przy moście o zimowym oświetleniu."
           },
           "stops": [
             {
@@ -1374,7 +1474,8 @@
                 "de": "Eisige Wege zum Eingang.",
                 "hu": "Jeges utak a bejáratig.",
                 "ro": "Alei înghețate spre intrare.",
-                "en": "Icy paths to the entrance."
+                "en": "Icy paths to the entrance.",
+                "pl": "Oblodzone ścieżki prowadzące do wejścia."
               }
             },
             {
@@ -1383,7 +1484,8 @@
                 "de": "Schöner Anblick mit Schnee.",
                 "hu": "Gyönyörű látvány hóban.",
                 "ro": "Priveliște frumoasă cu zăpadă.",
-                "en": "Beautiful sight with snow."
+                "en": "Beautiful sight with snow.",
+                "pl": "Piękny widok ze śniegiem."
               }
             },
             {
@@ -1392,7 +1494,8 @@
                 "de": "Glatteis-Gefahr auf dem Hügel.",
                 "hu": "Csúszásveszély a dombon.",
                 "ro": "Pericol de alunecare pe deal.",
-                "en": "Risk of slippery ice on the hill."
+                "en": "Risk of slippery ice on the hill.",
+                "pl": "Ryzyko śliskiego lodu na wzgórzu."
               }
             },
             {
@@ -1401,7 +1504,8 @@
                 "de": "Klarer, kalter Wind, bleiben Sie im Auto.",
                 "hu": "Tiszta, hideg szél, maradjon az autóban.",
                 "ro": "Vânt rece și clar, stați în mașină.",
-                "en": "Clear, cold wind, consider staying in the car."
+                "en": "Clear, cold wind, consider staying in the car.",
+                "pl": "Przenikliwy, zimny wiatr — rozważ pozostanie w samochodzie."
               }
             },
             {
@@ -1410,7 +1514,8 @@
                 "de": "Parkplätze müssen evtl. freigekratzt werden.",
                 "hu": "Lehet, hogy le kell kaparni a havat a parkolóról.",
                 "ro": "Parcarea poate necesita curățarea zăpezii.",
-                "en": "Parking spots might need snow scraping."
+                "en": "Parking spots might need snow scraping.",
+                "pl": "Miejsca parkingowe mogą wymagać odśnieżania i skrobania szyb."
               }
             },
             {
@@ -1419,7 +1524,8 @@
                 "de": "Ruhig und stimmungsvoll im Winter.",
                 "hu": "Csendes és hangulatos télen.",
                 "ro": "Liniștit și atmosferic iarna.",
-                "en": "Quiet and atmospheric in winter."
+                "en": "Quiet and atmospheric in winter.",
+                "pl": "Cicho i nastrojowo zimą."
               }
             },
             {
@@ -1428,7 +1534,8 @@
                 "de": "Viele Tiere sind in den warmen Innengehegen.",
                 "hu": "Sok állat a meleg belső kifutókban van.",
                 "ro": "Multe animale sunt în adăposturile interioare încălzite.",
-                "en": "Many animals are in warm indoor enclosures."
+                "en": "Many animals are in warm indoor enclosures.",
+                "pl": "Wiele zwierząt przebywa w ciepłych, wewnętrznych wybiegach."
               }
             },
             {
@@ -1437,7 +1544,8 @@
                 "de": "Perfekt für ein Foto bei früh einsetzender Dunkelheit.",
                 "hu": "Tökéletes fotó a korai sötétedésben.",
                 "ro": "Perfect pentru o fotografie la lăsarea timpurie a întunericului.",
-                "en": "Perfect for a photo as darkness falls early."
+                "en": "Perfect for a photo as darkness falls early.",
+                "pl": "Idealne do zdjęć, gdy szybko zapada zmrok."
               }
             }
           ],
@@ -1465,6 +1573,12 @@
               "Check if the roads leading down to the riverbank are cleared of snow.",
               "Keep an ice scraper handy if you park for extended periods.",
               "Use the heated seats to warm up quickly between short outdoor visits."
+            ],
+            "pl": [
+              "Opony zimowe są niezbędne, szczególnie na pagórkowatych odcinkach miasta.",
+              "Sprawdź, czy drogi prowadzące w dół do nabrzeża są odśnieżone.",
+              "Miej pod ręką skrobaczkę do szyb, jeśli parkujesz na dłużej.",
+              "Korzystaj z podgrzewanych foteli, by szybko się ogrzać między krótkimi wizytami na zewnątrz."
             ]
           }
         }
@@ -1483,7 +1597,8 @@
             "de": "Cluster 1: Altstadt & Museum",
             "hu": "1. csoport: Óváros és Múzeum",
             "ro": "Cluster 1: Centrul Vechi și Muzeu",
-            "en": "Cluster 1: Old Town & Museum"
+            "en": "Cluster 1: Old Town & Museum",
+            "pl": "Klaster 1: Stare Miasto i Muzeum"
           },
           "coords": [
             19.706,
@@ -1499,7 +1614,8 @@
             "de": "Nehmen Sie einen Bus zum 'Stary Rynek' und beginnen Sie Ihren Tag im Herzen von Płock.",
             "hu": "Menjen busszal a 'Stary Rynek'-re, és kezdje a napot Płock szívében.",
             "ro": "Luați un autobuz spre 'Stary Rynek' și începeți ziua în inima orașului Płock.",
-            "en": "Take a bus to 'Stary Rynek' and start your day in the heart of Płock."
+            "en": "Take a bus to 'Stary Rynek' and start your day in the heart of Płock.",
+            "pl": "Wybierz autobus do 'Stary Rynek' i zacznij dzień w sercu Płocka."
           }
         },
         {
@@ -1507,7 +1623,8 @@
             "de": "Masowisches Museum",
             "hu": "Mazóviai Múzeum",
             "ro": "Muzeul Mazovian",
-            "en": "Mazovian Museum"
+            "en": "Mazovian Museum",
+            "pl": "Muzeum Mazowieckie"
           },
           "coords": [
             19.708,
@@ -1523,7 +1640,8 @@
             "de": "Vom Platz aus leicht zu Fuß erreichbar.",
             "hu": "Könnyen megközelíthető gyalog a térről.",
             "ro": "Ușor accesibil pe jos din piață.",
-            "en": "Easily walkable from the square."
+            "en": "Easily walkable from the square.",
+            "pl": "Łatwy spacer z rynku."
           }
         },
         {
@@ -1531,7 +1649,8 @@
             "de": "Cluster 2: Tumski-Hügel",
             "hu": "2. csoport: Tumski-domb",
             "ro": "Cluster 2: Dealul Tumskie",
-            "en": "Cluster 2: Tumskie Hill"
+            "en": "Cluster 2: Tumskie Hill",
+            "pl": "Klaster 2: Wzgórze Tumskie"
           },
           "coords": [
             19.7068,
@@ -1547,7 +1666,8 @@
             "de": "Eine kurze Busfahrt bringt Sie in die Nähe des Hügels für die Kathedrale und die Aussicht.",
             "hu": "Egy rövid buszúttal a domb közelébe juthat a katedrálishoz és a kilátáshoz.",
             "ro": "O scurtă călătorie cu autobuzul vă va aduce aproape de deal pentru catedrală și priveliști.",
-            "en": "A short bus ride will get you near the hill for the cathedral and the views."
+            "en": "A short bus ride will get you near the hill for the cathedral and the views.",
+            "pl": "Krótka przejażdżka autobusem dowiezie cię w pobliże wzgórza, skąd zobaczysz katedrę i widoki."
           }
         },
         {
@@ -1555,7 +1675,8 @@
             "de": "Diözesanmuseum",
             "hu": "Egyházmegyei Múzeum",
             "ro": "Muzeul Diecezan",
-            "en": "Diocesan Museum"
+            "en": "Diocesan Museum",
+            "pl": "Muzeum Diecezjalne"
           },
           "coords": [
             19.705,
@@ -1571,7 +1692,8 @@
             "de": "Direkt neben der Kathedrale gelegen, ein einfacher Spaziergang.",
             "hu": "Közvetlenül a katedrális mellett található, könnyű séta.",
             "ro": "Situat chiar lângă catedrală, o plimbare ușoară.",
-            "en": "Located right next to the cathedral, an easy walk."
+            "en": "Located right next to the cathedral, an easy walk.",
+            "pl": "Znajduje się tuż obok katedry, spacer bez wysiłku."
           }
         },
         {
@@ -1579,7 +1701,8 @@
             "de": "Cluster 3: Boulevards an der Weichsel",
             "hu": "3. csoport: Visztula parti sétányok",
             "ro": "Cluster 3: Bulevardele de pe Vistula",
-            "en": "Cluster 3: Vistula River Boulevards"
+            "en": "Cluster 3: Vistula River Boulevards",
+            "pl": "Klaster 3: Bulwary nad Wisłą"
           },
           "coords": [
             19.698,
@@ -1595,7 +1718,8 @@
             "de": "Nehmen Sie einen Bus zum Pier für einen entspannten Nachmittag am Fluss.",
             "hu": "Menjen busszal a mólóhoz egy pihentető délutánra a folyóparton.",
             "ro": "Luați un autobuz spre ponton pentru o după-amiază relaxantă pe malul râului.",
-            "en": "Take a bus down to the pier for a relaxed afternoon by the river."
+            "en": "Take a bus down to the pier for a relaxed afternoon by the river.",
+            "pl": "Zjedź autobusem nad pomost na relaksujące popołudnie przy rzece."
           }
         }
       ],
@@ -1603,7 +1727,8 @@
         "de": "Mit öffentlichen Verkehrsmitteln erkunden Sie Płock in Clustern. Beginnen Sie im Herzen der Altstadt, die Sie mit dem Bus erreichen. Gehen Sie zum Masowischen Museum. Nehmen Sie dann einen weiteren Bus zum Tumski-Hügel, um die Kathedrale zu bewundern. Der letzte Bus bringt Sie zu den Weichselboulevards, wo Sie den Rest des Nachmittags mit Blick auf den Fluss verbringen und die lokale Atmosphäre genießen.",
         "hu": "Tömegközlekedéssel Płockot csoportokban fedezheti fel. Kezdje az óváros szívében, ahová busszal jut el. Sétáljon el a Mazóviai Múzeumhoz. Ezután egy másik busszal menjen fel a Tumski-dombra a katedrális megcsodálásához. Az utolsó busz a Visztula-parti sétányokhoz viszi, ahol a délután hátralévő részét a folyóra néző kilátással töltheti, élvezve a helyi hangulatot.",
         "ro": "Folosind transportul public, explorați Płock în clustere. Începeți în inima Centrului Vechi, ajungând cu autobuzul. Plimbați-vă până la Muzeul Mazovian. Apoi, luați un alt autobuz spre Dealul Tumskie pentru a admira catedrala. Autobuzul final vă va duce la bulevardele Vistulei, unde vă veți petrece restul după-amiezii cu vedere la râu, bucurându-vă de atmosfera locală.",
-        "en": "Using public transit, you'll explore Płock in clusters. Start in the heart of the Old Town, arriving by bus. Walk to the Mazovian Museum. Then, take another bus to Tumskie Hill to admire the cathedral. The final bus will take you to the Vistula Boulevards, where you'll spend the rest of the afternoon overlooking the river, enjoying the local vibe."
+        "en": "Using public transit, you'll explore Płock in clusters. Start in the heart of the Old Town, arriving by bus. Walk to the Mazovian Museum. Then, take another bus to Tumskie Hill to admire the cathedral. The final bus will take you to the Vistula Boulevards, where you'll spend the rest of the afternoon overlooking the river, enjoying the local vibe.",
+        "pl": "Korzystając z komunikacji publicznej, zwiedzisz Płock w klastrach. Zacznij w sercu Starego Miasta, przyjedź autobusem. Pójdź pieszo do Muzeum Mazowieckiego. Następnie pojedź innym autobusem na Wzgórze Tumskie, by podziwiać katedrę. Ostatni kurs autobusu zawiezie cię na Bulwary nad Wisłą, gdzie spędzisz resztę popołudnia nad rzeką, ciesząc się lokalnym klimatem."
       },
       "gastro_picks": {
         "de": [
@@ -1759,6 +1884,11 @@
           "Buy a day pass for unlimited travel.",
           "Download a public transport app to track real-time schedules and routes.",
           "Be aware that buses can be crowded during peak hours."
+        ],
+        "pl": [
+          "Kup bilet całodniowy na nielimitowane przejazdy.",
+          "Pobierz aplikację komunikacji miejskiej, by śledzić rozkłady i trasy w czasie rzeczywistym.",
+          "Pamiętaj, że autobusy mogą być zatłoczone w godzinach szczytu."
         ]
       }
     }

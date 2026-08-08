@@ -21,7 +21,8 @@
             "de": "Marktplatz (Rynek)",
             "hu": "Főtér (Rynek)",
             "ro": "Piața Centrală (Rynek)",
-            "en": "Market Square (Rynek)"
+            "en": "Market Square (Rynek)",
+            "pl": "Rynek (Market Square)"
           },
           "coords": [
             19.138,
@@ -36,7 +37,8 @@
             "de": "Beginnen Sie Ihren Tag mit einem Kaffee in einem der Cafés am Platz.",
             "hu": "Kezdje a napot egy kávéval a tér egyik kávézójában!",
             "ro": "Începeți ziua cu o cafea la una dintre cafenelele din piață.",
-            "en": "Start your day with a coffee at one of the square's cafés."
+            "en": "Start your day with a coffee at one of the square's cafés.",
+            "pl": "Zacznij dzień od kawy w jednej z kawiarni na placu."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Rathaus von Mysłowice",
             "hu": "Mysłowicei Városháza",
             "ro": "Primăria din Mysłowice",
-            "en": "Mysłowice Town Hall"
+            "en": "Mysłowice Town Hall",
+            "pl": "Ratusz w Mysłowicach"
           },
           "coords": [
             19.1375,
@@ -59,7 +62,8 @@
             "de": "Achten Sie auf die architektonischen Details des historischen Gebäudes.",
             "hu": "Figyelje meg a történelmi épület építészeti részleteit!",
             "ro": "Observați detaliile arhitecturale ale clădirii istorice.",
-            "en": "Pay attention to the architectural details of the historic building."
+            "en": "Pay attention to the architectural details of the historic building.",
+            "pl": "Zwróć uwagę na detale architektoniczne historycznego budynku."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Herz-Jesu-Kirche",
             "hu": "Jézus Szíve-templom",
             "ro": "Biserica Preasfânta Inimă a lui Iisus",
-            "en": "Sacred Heart Church"
+            "en": "Sacred Heart Church",
+            "pl": "Kościół Najświętszego Serca"
           },
           "coords": [
             19.141,
@@ -82,7 +87,8 @@
             "de": "Besuchen Sie das Innere, um die beeindruckenden Buntglasfenster zu sehen.",
             "hu": "Látogasson be, hogy megcsodálja a lenyűgöző ólomüveg ablakokat.",
             "ro": "Intrați înăuntru pentru a vedea vitraliile impresionante.",
-            "en": "Visit the interior to see the impressive stained glass windows."
+            "en": "Visit the interior to see the impressive stained glass windows.",
+            "pl": "Odwiedź wnętrze, by zobaczyć imponujące witraże."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Kirche Mariä Heimsuchung",
             "hu": "Sarlós Boldogasszony-templom",
             "ro": "Biserica Vizita Fecioarei Maria",
-            "en": "Church of the Visitation of the Blessed Virgin Mary"
+            "en": "Church of the Visitation of the Blessed Virgin Mary",
+            "pl": "Kościół Nawiedzenia Najświętszej Maryi Panny"
           },
           "coords": [
             19.135,
@@ -105,7 +112,8 @@
             "de": "Dies ist eine der ältesten Kirchen der Stadt, spüren Sie die Geschichte.",
             "hu": "Ez a város egyik legrégebbi temploma, érezze a történelem szellemét.",
             "ro": "Aceasta este una dintre cele mai vechi biserici din oraș, simțiți istoria.",
-            "en": "This is one of the oldest churches in the city, feel the history."
+            "en": "This is one of the oldest churches in the city, feel the history.",
+            "pl": "To jeden z najstarszych kościołów w mieście, poczuj historię."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Stadtmuseum Mysłowice",
             "hu": "Mysłowicei Városi Múzeum",
             "ro": "Muzeul Orașului Mysłowice",
-            "en": "Mysłowice City Museum"
+            "en": "Mysłowice City Museum",
+            "pl": "Muzeum Mysłowic"
           },
           "coords": [
             19.132,
@@ -128,7 +137,8 @@
             "de": "Planen Sie nach dem Museumsbesuch eine Mittagspause ein.",
             "hu": "A múzeumlátogatás után tervezzen be egy ebédszünetet.",
             "ro": "Planificați o pauză de prânz după vizitarea muzeului.",
-            "en": "Plan for a lunch break after visiting the museum."
+            "en": "Plan for a lunch break after visiting the museum.",
+            "pl": "Zaplanuj przerwę na lunch po zwiedzaniu muzeum."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Park Zamkowy",
             "hu": "Kastélypark (Park Zamkowy)",
             "ro": "Parcul Castelului (Park Zamkowy)",
-            "en": "Castle Park (Park Zamkowy)"
+            "en": "Castle Park (Park Zamkowy)",
+            "pl": "Park Zamkowy (Castle Park)"
           },
           "coords": [
             19.13,
@@ -151,7 +162,8 @@
             "de": "Perfekt für einen entspannten Spaziergang am Nachmittag.",
             "hu": "Tökéletes hely egy pihentető délutáni sétához.",
             "ro": "Perfect pentru o plimbare relaxantă de după-amiază.",
-            "en": "Perfect for a relaxing afternoon stroll."
+            "en": "Perfect for a relaxing afternoon stroll.",
+            "pl": "Idealny na relaksujący popołudniowy spacer."
           }
         },
         {
@@ -159,7 +171,8 @@
             "de": "Dreikaisereck",
             "hu": "Három Császár Sarok",
             "ro": "Colțul celor Trei Împărați",
-            "en": "Three Emperors' Corner"
+            "en": "Three Emperors' Corner",
+            "pl": "Trójkąt Trzech Cesarzy"
           },
           "coords": [
             19.175,
@@ -174,7 +187,8 @@
             "de": "Ein historischer Ort, an dem drei Reiche aufeinandertrafen. Großartig für Fotos.",
             "hu": "Egy történelmi hely, ahol három birodalom találkozott. Nagyszerű fotóhelyszín.",
             "ro": "Un loc istoric unde se întâlneau trei imperii. Excelent pentru fotografii.",
-            "en": "A historic spot where three empires met. Great for photos."
+            "en": "A historic spot where three empires met. Great for photos.",
+            "pl": "Historyczne miejsce, gdzie spotykały się trzy imperia. Świetne do zdjęć."
           }
         }
       ],
@@ -182,7 +196,8 @@
         "de": "Ihr Tag in Mysłowice beginnt am lebhaften Marktplatz und führt Sie durch das historische Herz der Stadt. Sie erkunden architektonische Juwelen und heilige Stätten. Am Nachmittag tauchen Sie in die lokale Geschichte im Stadtmuseum ein, bevor Sie im Park Zamkowy entspannen. Der Tag endet am geschichtsträchtigen Dreikaisereck, einem Ort von großer europäischer Bedeutung.",
         "hu": "A mysłowice-i nap a nyüzsgő Főtéren kezdődik, és a város történelmi szívén vezet keresztül. Építészeti gyöngyszemeket és szent helyeket fedez fel. Délután elmerül a helyi történelemben a Városi Múzeumban, majd a Kastélyparkban pihen. A nap a történelmi Három Császár Saroknál ér véget, amely nagy európai jelentőséggel bír.",
         "ro": "Ziua dvs. în Mysłowice începe în Piața Centrală plină de viață și vă poartă prin inima istorică a orașului. Explorați bijuterii arhitecturale și locuri sacre. După-amiaza, vă scufundați în istoria locală la Muzeul Orașului înainte de a vă relaxa în Parcul Castelului. Ziua se încheie la istoricul Colț al celor Trei Împărați, un loc de mare importanță europeană.",
-        "en": "Your day in Mysłowice begins at the lively Market Square and takes you through the historical heart of the city. You'll explore architectural gems and sacred sites. In the afternoon, immerse yourself in local history at the City Museum before relaxing in Castle Park. The day concludes at the historic Three Emperors' Corner, a place of great European significance."
+        "en": "Your day in Mysłowice begins at the lively Market Square and takes you through the historical heart of the city. You'll explore architectural gems and sacred sites. In the afternoon, immerse yourself in local history at the City Museum before relaxing in Castle Park. The day concludes at the historic Three Emperors' Corner, a place of great European significance.",
+        "pl": "Twój dzień w Mysłowicach zaczyna się na tętniącym życiem Rynku i prowadzi przez historyczne serce miasta. Odkryjesz architektoniczne perełki i miejsca sakralne. Po południu zanurzysz się w lokalnej historii w Miejskim Muzeum, a potem odpoczniesz w Parku Zamkowym. Dzień kończy się przy historycznym Trójkącie Trzech Cesarzy, miejscu o dużym europejskim znaczeniu."
       },
       "gastro_picks": {
         "de": [
@@ -338,6 +353,11 @@
           "Wear comfortable shoes as you will be doing a lot of walking.",
           "Keep a bottle of water handy, especially in the summer.",
           "Check the opening hours of the museums in advance."
+        ],
+        "pl": [
+          "Noś wygodne buty, ponieważ będziesz dużo chodzić.",
+          "Miej pod ręką butelkę wody, szczególnie latem.",
+          "Sprawdź wcześniej godziny otwarcia muzeów."
         ]
       },
       "variants": {
@@ -346,7 +366,8 @@
             "de": "Morgen am Rynek unter Arkaden. Mittags bieten die neugotischen Kirchen guten Schutz vor Güssen. Nachmittags verbringen Sie viel Zeit im Stadtmuseum, um trocken zu bleiben. Abends kurzer Gang zum Dreikaisereck, Schirm ist bei der Flussmündung Pflicht.",
             "hu": "Reggel a főtéri szemerkélésben az épületek ereszei adnak óvást. Délben a monumentális templomok belső terei nyújtanak menedéket. Délután a Városi Múzeum kiállításai között vészelheti át a nagyobb esőt. Este a folyótorkolatnál szeles, csapadékos időre készüljön.",
             "ro": "Dimineața în Piața Veche, folosind porțiunile acoperite. La prânz, bisericile neogotice oferă un refugiu uscat și liniștit. După-amiaza este dedicată Muzeului Orașului pentru a evita ploaia. Seara la colțul celor trei imperii necesită o umbrelă rezistentă la vânt.",
-            "en": "Morning at the Market Square requires an umbrella. Midday is best spent inside the historic churches to escape the showers. The afternoon is perfect for a long visit to the City Museum. Evening at the river confluence is exposed, so wear waterproof gear."
+            "en": "Morning at the Market Square requires an umbrella. Midday is best spent inside the historic churches to escape the showers. The afternoon is perfect for a long visit to the City Museum. Evening at the river confluence is exposed, so wear waterproof gear.",
+            "pl": "Rano na Rynku przyda się parasol. W południe najlepiej schronić się w zabytkowych kościołach, żeby uciec przed ulewami. Popołudnie to idealny czas na długą wizytę w Miejskim Muzeum. Wieczorem u zbiegu rzek jest odsłonięte, więc załóż odzież wodoodporną."
           },
           "stops": [
             {
@@ -355,7 +376,8 @@
                 "de": "Nutzen Sie die Gebäudeeingänge als Schutz vor Regenschauern.",
                 "hu": "Használja a házak beugróit menedékként az eső elől.",
                 "ro": "Folosiți intrările clădirilor pentru a vă adăposti de ploaie.",
-                "en": "Use the building entrances as shelter from sudden rain."
+                "en": "Use the building entrances as shelter from sudden rain.",
+                "pl": "Wykorzystaj wejścia do budynków jako schronienie przed nagłym deszczem."
               }
             },
             {
@@ -364,7 +386,8 @@
                 "de": "Die Fassade lässt sich gut unter dem Schirm betrachten.",
                 "hu": "Az épület homlokzata esernyő alól is jól fotózható.",
                 "ro": "Fațada poate fi admirată chiar și de sub umbrelă.",
-                "en": "The facade can be easily admired even under an umbrella."
+                "en": "The facade can be easily admired even under an umbrella.",
+                "pl": "Fasada może być łatwo podziwiana nawet pod parasolem."
               }
             },
             {
@@ -373,7 +396,8 @@
                 "de": "Idealer Ort für eine längere, trockene Besichtigungspause.",
                 "hu": "Ideális helyszín egy hosszabb, száraz pihenőhöz.",
                 "ro": "Loc ideal pentru o pauză de vizitare uscată și lungă.",
-                "en": "Ideal place for a longer, dry sightseeing break."
+                "en": "Ideal place for a longer, dry sightseeing break.",
+                "pl": "Idealne miejsce na dłuższą, suchą przerwę w zwiedzaniu."
               }
             },
             {
@@ -382,7 +406,8 @@
                 "de": "Ein weiterer ruhiger Rückzugsort vor dem nassen Wetter.",
                 "hu": "Újabb nyugodt menedékhely a nedves időjárás elől.",
                 "ro": "Un alt refugiu liniștit împotriva vremii umede.",
-                "en": "Another quiet sanctuary from the wet weather."
+                "en": "Another quiet sanctuary from the wet weather.",
+                "pl": "Kolejne ciche sanktuarium przed deszczową pogodą."
               }
             },
             {
@@ -391,7 +416,8 @@
                 "de": "Perfekt für die regenreichste Zeit des Nachmittags.",
                 "hu": "Tökéletes program a délutáni esősebb órákra.",
                 "ro": "Perfect pentru orele mai ploioase ale după-amiezii.",
-                "en": "Perfect for the rainier hours of the afternoon."
+                "en": "Perfect for the rainier hours of the afternoon.",
+                "pl": "Świetne na deszczowe godziny popołudnia."
               }
             },
             {
@@ -400,7 +426,8 @@
                 "de": "Vorsicht auf den asphaltierten Wegen, sie können rutschig sein.",
                 "hu": "Vigyázzon az aszfaltozott utakon, csúszósak lehetnek.",
                 "ro": "Atenție pe aleile asfaltate, pot fi alunecoase.",
-                "en": "Watch out on the paved paths; they can be slippery."
+                "en": "Watch out on the paved paths; they can be slippery.",
+                "pl": "Uważaj na brukowane ścieżki; mogą być śliskie."
               }
             },
             {
@@ -409,7 +436,8 @@
                 "de": "Windexponiert; ein stabiler Schirm ist hier unverzichtbar.",
                 "hu": "Szeles terület; egy stabil esernyő itt nélkülözhetetlen.",
                 "ro": "Expus la vânt; o umbrelă stabilă este indispensabilă aici.",
-                "en": "Exposed to wind; a sturdy umbrella is essential here."
+                "en": "Exposed to wind; a sturdy umbrella is essential here.",
+                "pl": "Miejsce odsłonięte na wiatr; tu niezbędna jest solidna parasolka."
               }
             }
           ],
@@ -441,6 +469,13 @@
               "Wear waterproof shoes for the walk to the Three Emperors' Corner.",
               "Cafes near the Market Square are great for warming up.",
               "Allow extra time for walking between stops during heavy rain."
+            ],
+            "pl": [
+              "Bruk w starym mieście może stać się śliski po deszczu.",
+              "Kościoły są najlepszym darmowym schronieniem w centrum miasta.",
+              "Na spacer do Trójkąta Trzech Cesarzy noś wodoodporne buty.",
+              "Kawiarnie przy Rynku są świetne na rozgrzanie się.",
+              "Zarezerwuj więcej czasu na dojścia między przystankami podczas ulew."
             ]
           }
         },
@@ -449,7 +484,8 @@
             "de": "Frostiger Morgen am Rynek. Mittags wärmen Sie sich in den Kirchen auf. Der Nachmittag im Museum ist die beste Flucht vor dem frühen Frost. Gegen 16:30 Uhr wird es dunkel, das Dreikaisereck wirkt im fahlen Winterlicht besonders melancholisch.",
             "hu": "Fagyos reggel a főtéren. Délben a templomok vastag falai között kereshet enyhülést a hideg szél elől. A délutáni múzeumlátogatás a legjobb módja a fagy elkerülésének. Sötétedés után a folyótorkolat vidéke különleges hangulatot áraszt.",
             "ro": "Dimineață geroasă în Piața Veche. La prânz, interiorul bisericilor oferă un răgaz de la vântul rece. Muzeul este refugiul ideal pentru după-amiază. Întunericul cade devreme, oferind colțului imperiilor o atmosferă melancolică sub lumina iernii.",
-            "en": "Frosty morning at the Market Square. Midday, the churches provide a break from the cold wind. The museum is the best refuge for the afternoon. Darkness falls by 4:30 PM, giving the river confluence a stark, wintry atmosphere."
+            "en": "Frosty morning at the Market Square. Midday, the churches provide a break from the cold wind. The museum is the best refuge for the afternoon. Darkness falls by 4:30 PM, giving the river confluence a stark, wintry atmosphere.",
+            "pl": "Mroźny poranek na Rynku. W południe kościoły dają wytchnienie od zimnego wiatru. Muzeum to najlepsze schronienie na popołudnie. Zmrok zapada o 16:30, nadając zlewowi rzek surową, zimową atmosferę."
           },
           "stops": [
             {
@@ -458,7 +494,8 @@
                 "de": "Achten Sie auf vereiste Stellen auf dem Kopfsteinpflaster.",
                 "hu": "Ügyeljen a jeges foltokra a macskaköves burkolaton.",
                 "ro": "Atenție la porțiunile înghețate de pe pavaj.",
-                "en": "Watch out for icy patches on the cobblestone pavement."
+                "en": "Watch out for icy patches on the cobblestone pavement.",
+                "pl": "Uważaj na oblodzenia na brukowanej nawierzchni."
               }
             },
             {
@@ -467,7 +504,8 @@
                 "de": "Kurzer Fotostopp, um nicht zu sehr auszukühlen.",
                 "hu": "Rövid fotómegálló, hogy ne hűljön ki túlságosan.",
                 "ro": "Oprire scurtă pentru poze pentru a evita frigul excesiv.",
-                "en": "Quick photo stop to avoid getting too cold."
+                "en": "Quick photo stop to avoid getting too cold.",
+                "pl": "Krótki postój na zdjęcie, aby nie zmarznąć zbytnio."
               }
             },
             {
@@ -476,7 +514,8 @@
                 "de": "Nutzen Sie die Stille im Inneren zum Aufwärmen.",
                 "hu": "Használja ki a benti csendet és a szélvédett helyet.",
                 "ro": "Profită de liniștea din interior pentru a te încălzi.",
-                "en": "Take advantage of the interior quiet to warm up."
+                "en": "Take advantage of the interior quiet to warm up.",
+                "pl": "Wykorzystaj ciszę wnętrz, by się rozgrzać."
               }
             },
             {
@@ -485,7 +524,8 @@
                 "de": "Ein warmer Ort für eine kurze spirituelle Pause.",
                 "hu": "Meleg helyszín egy rövid spirituális pihenőhöz.",
                 "ro": "Un loc cald pentru o scurtă pauză spirituală.",
-                "en": "A warm location for a brief spiritual break."
+                "en": "A warm location for a brief spiritual break.",
+                "pl": "Ciepłe miejsce na krótką przerwę duchową."
               }
             },
             {
@@ -494,7 +534,8 @@
                 "de": "Genießen Sie die geheizten Ausstellungsräume ausgiebig.",
                 "hu": "Élvezze ki alaposan a fűtött kiállítótermeket.",
                 "ro": "Bucurați-vă din plin de sălile de expoziție încălzite.",
-                "en": "Enjoy the heated exhibition rooms thoroughly."
+                "en": "Enjoy the heated exhibition rooms thoroughly.",
+                "pl": "Dokładnie korzystaj z ogrzewanych sal wystawowych."
               }
             },
             {
@@ -503,7 +544,8 @@
                 "de": "Tragen Sie warme Schuhe; der Boden ist oft gefroren.",
                 "hu": "Viseljen meleg lábbelit; a talaj gyakran fagyott.",
                 "ro": "Purtați încălțăminte călduroasă; solul este adesea înghețat.",
-                "en": "Wear warm footwear; the ground is often frozen."
+                "en": "Wear warm footwear; the ground is often frozen.",
+                "pl": "Noś ciepłe obuwie; podłoże często jest zamarznięte."
               }
             },
             {
@@ -512,7 +554,8 @@
                 "de": "Sehr windig am Wasser; dicke Jacke und Mütze nötig.",
                 "hu": "Nagyon szeles a vízpart; vastag kabát és sapka kell.",
                 "ro": "Foarte vântos lângă apă; necesită haină groasă și căciulă.",
-                "en": "Very windy by the water; thick coat and hat are required."
+                "en": "Very windy by the water; thick coat and hat are required.",
+                "pl": "Nad wodą jest bardzo wietrznie; potrzebny jest gruby płaszcz i czapka."
               }
             }
           ],
@@ -544,6 +587,13 @@
               "Museums might be closed on Mondays; check opening times.",
               "Have a hot tea in the cafes located around the Market Square.",
               "Dress in layers to handle both outdoor cold and indoor heating."
+            ],
+            "pl": [
+              "Zimą słońce w Polsce zachodzi już o 16:00.",
+              "Ścieżki wzdłuż rzeki Przemszy mogą być bardzo oblodzone.",
+              "Muzea mogą być zamknięte w poniedziałki; sprawdź godziny otwarcia.",
+              "Wypij gorącą herbatę w kawiarniach wokół Rynku.",
+              "Ubierz się na cebulkę, by radzić sobie zarówno z zimnem na zewnątrz, jak i ogrzewaniem w środku."
             ]
           }
         }
@@ -562,7 +612,8 @@
             "de": "Dreikaisereck",
             "hu": "Három Császár Sarok",
             "ro": "Colțul celor Trei Împărați",
-            "en": "Three Emperors' Corner"
+            "en": "Three Emperors' Corner",
+            "pl": "Trójkąt Trzech Cesarzy"
           },
           "coords": [
             19.175,
@@ -577,7 +628,8 @@
             "de": "Ein guter Startpunkt, um die historische Bedeutung der Region zu verstehen.",
             "hu": "Jó kiindulópont a régió történelmi jelentőségének megértéséhez.",
             "ro": "Un bun punct de plecare pentru a înțelege importanța istorică a regiunii.",
-            "en": "A great starting point to understand the historical significance of the region."
+            "en": "A great starting point to understand the historical significance of the region.",
+            "pl": "Świetny punkt wyjścia, by zrozumieć historyczne znaczenie regionu."
           }
         },
         {
@@ -585,7 +637,8 @@
             "de": "Park Zamkowy",
             "hu": "Kastélypark (Park Zamkowy)",
             "ro": "Parcul Castelului (Park Zamkowy)",
-            "en": "Castle Park (Park Zamkowy)"
+            "en": "Castle Park (Park Zamkowy)",
+            "pl": "Park Zamkowy (Castle Park)"
           },
           "coords": [
             19.13,
@@ -600,7 +653,8 @@
             "de": "Machen Sie eine kurze Pause und genießen Sie die grüne Oase.",
             "hu": "Tartson egy rövid szünetet és élvezze a zöld oázist.",
             "ro": "Faceți o scurtă pauză și bucurați-vă de oaza de verdeață.",
-            "en": "Take a short break and enjoy the green oasis."
+            "en": "Take a short break and enjoy the green oasis.",
+            "pl": "Zrób krótką przerwę i ciesz się zieloną oazą."
           }
         },
         {
@@ -608,7 +662,8 @@
             "de": "Marktplatz (Rynek)",
             "hu": "Főtér (Rynek)",
             "ro": "Piața Centrală (Rynek)",
-            "en": "Market Square (Rynek)"
+            "en": "Market Square (Rynek)",
+            "pl": "Rynek (Market Square)"
           },
           "coords": [
             19.138,
@@ -623,7 +678,8 @@
             "de": "Stellen Sie Ihr Fahrrad ab und erkunden Sie den zentralen Platz.",
             "hu": "Tegye le a biciklit és fedezze fel a központi teret.",
             "ro": "Parcați bicicleta și explorați piața centrală.",
-            "en": "Park your bike and explore the central square."
+            "en": "Park your bike and explore the central square.",
+            "pl": "Zaparkuj rower i zwiedź centralny plac."
           }
         },
         {
@@ -631,7 +687,8 @@
             "de": "Herz-Jesu-Kirche",
             "hu": "Jézus Szíve-templom",
             "ro": "Biserica Preasfânta Inimă a lui Iisus",
-            "en": "Sacred Heart Church"
+            "en": "Sacred Heart Church",
+            "pl": "Kościół Najświętszego Serca"
           },
           "coords": [
             19.141,
@@ -646,7 +703,8 @@
             "de": "Ein kurzer Halt, um die neugotische Architektur zu bewundern.",
             "hu": "Egy rövid megálló a neogótikus építészet megcsodálására.",
             "ro": "O scurtă oprire pentru a admira arhitectura neogotică.",
-            "en": "A quick stop to admire the neo-Gothic architecture."
+            "en": "A quick stop to admire the neo-Gothic architecture.",
+            "pl": "Szybki postój, by podziwiać neogotycką architekturę."
           }
         },
         {
@@ -654,7 +712,8 @@
             "de": "Zentrales Feuerwehrmuseum",
             "hu": "Központi Tűzoltómúzeum",
             "ro": "Muzeul Central al Pompierilor",
-            "en": "Central Museum of Firefighting"
+            "en": "Central Museum of Firefighting",
+            "pl": "Centralne Muzeum Pożarnictwa"
           },
           "coords": [
             19.145,
@@ -669,7 +728,8 @@
             "de": "Ein faszinierendes Museum, nicht nur für Technikbegeisterte. Mittagessen danach.",
             "hu": "Lenyűgöző múzeum, nem csak a technika rajongóinak. Utána ebédeljen.",
             "ro": "Un muzeu fascinant, nu numai pentru pasionații de tehnologie. Luați prânzul după.",
-            "en": "A fascinating museum, not just for technology enthusiasts. Have lunch afterwards."
+            "en": "A fascinating museum, not just for technology enthusiasts. Have lunch afterwards.",
+            "pl": "Fascynujące muzeum, nie tylko dla miłośników techniki. Zjedz potem lunch."
           }
         },
         {
@@ -677,7 +737,8 @@
             "de": "Stadtmuseum Mysłowice",
             "hu": "Mysłowicei Városi Múzeum",
             "ro": "Muzeul Orașului Mysłowice",
-            "en": "Mysłowice City Museum"
+            "en": "Mysłowice City Museum",
+            "pl": "Muzeum Mysłowic"
           },
           "coords": [
             19.132,
@@ -692,7 +753,8 @@
             "de": "Ergänzen Sie Ihr Wissen über die Stadtgeschichte.",
             "hu": "Egészítse ki tudását a város történelméről.",
             "ro": "Completați-vă cunoștințele despre istoria orașului.",
-            "en": "Complement your knowledge of the city's history."
+            "en": "Complement your knowledge of the city's history.",
+            "pl": "Uzupełnij swoją wiedzę o historii miasta."
           }
         },
         {
@@ -700,7 +762,8 @@
             "de": "Kirche Mariä Heimsuchung",
             "hu": "Sarlós Boldogasszony-templom",
             "ro": "Biserica Vizita Fecioarei Maria",
-            "en": "Church of the Visitation"
+            "en": "Church of the Visitation",
+            "pl": "Kościół Nawiedzenia"
           },
           "coords": [
             19.135,
@@ -715,7 +778,8 @@
             "de": "Ein schöner, ruhiger Abschluss Ihrer Radtour.",
             "hu": "Egy szép, csendes befejezése a kerékpártúrának.",
             "ro": "Un final frumos și liniștit pentru turul cu bicicleta.",
-            "en": "A beautiful, quiet end to your bike tour."
+            "en": "A beautiful, quiet end to your bike tour.",
+            "pl": "Piękne, ciche zakończenie wycieczki rowerowej."
           }
         }
       ],
@@ -723,7 +787,8 @@
         "de": "Ihre Radtour startet am historischen Dreikaisereck und führt Sie durch den grünen Park Zamkowy ins Stadtzentrum. Am Marktplatz steigen Sie ab, um die zentrale Kirche zu besichtigen. Am Nachmittag erwarten Sie zwei spannende Museen, die Ihnen die technische und städtische Geschichte näherbringen, bevor Sie den Tag bei einer der ältesten Kirchen der Stadt ausklingen lassen.",
         "hu": "A kerékpártúra a történelmi Három Császár Saroktól indul, és a zöld Kastélyparkon keresztül vezet a városközpontba. A Főtéren leszáll, hogy megnézze a központi templomot. Délután két izgalmas múzeum várja, amelyek bemutatják a technikai és városi történelmet, mielőtt a napot a város egyik legrégebbi templománál fejezi be.",
         "ro": "Turul cu bicicleta începe de la istoricul Colț al celor Trei Împărați și vă duce prin Parcul verde al Castelului până în centrul orașului. În Piața Centrală coborâți pentru a vizita biserica centrală. După-amiaza vă așteaptă două muzee interesante care vă prezintă istoria tehnică și urbană, înainte de a încheia ziua la una dintre cele mai vechi biserici din oraș.",
-        "en": "Your bike tour starts at the historic Three Emperors' Corner and takes you through the green Castle Park to the city center. At the Market Square, you'll dismount to visit the central church. In the afternoon, two exciting museums await, introducing you to the technical and urban history, before you end the day at one of the city's oldest churches."
+        "en": "Your bike tour starts at the historic Three Emperors' Corner and takes you through the green Castle Park to the city center. At the Market Square, you'll dismount to visit the central church. In the afternoon, two exciting museums await, introducing you to the technical and urban history, before you end the day at one of the city's oldest churches.",
+        "pl": "Twoja wycieczka rowerowa zaczyna się przy historycznym Trójkącie Trzech Cesarzy i prowadzi przez zielony Park Zamkowy do centrum miasta. Na Rynku zsiądziesz z roweru, by odwiedzić centralny kościół. Po południu czekają dwa ciekawe muzea, przybliżające historię techniczną i miejską, a dzień kończy się przy jednym z najstarszych kościołów w mieście."
       },
       "gastro_picks": {
         "de": [
@@ -863,6 +928,11 @@
           "Always lock your bike securely when you park it.",
           "Be mindful of traffic, especially in the city center.",
           "A helmet is strongly recommended."
+        ],
+        "pl": [
+          "Zawsze solidnie przypinaj rower podczas postoju.",
+          "Zwracaj uwagę na ruch drogowy, szczególnie w centrum.",
+          "Kask jest zdecydowanie zalecany."
         ]
       },
       "variants": {
@@ -871,7 +941,8 @@
             "de": "Regnerische Fahrt zum Dreikaisereck, Vorsicht auf Waldwegen. Mittagsstopp im Park unter Bäumen. Die Museen bieten am Nachmittag den nötigen trockenen Unterschlupf. Abends Abschluss an der Kirche der Heimsuchung, bei nassen Straßen vorsichtig bremsen.",
             "hu": "Esős tekerés a Három Császár Sarkához, óvatosan az erdei utakon. Délben a park fái alatt találhat némi védelmet. A múzeumok délután biztosítják a szükséges száraz pihenőt. Este a vizitációs templomnál zárjon, vizes úton lassítson korábban.",
             "ro": "Călătorie ploioasă spre colțul imperiilor, atenție pe drumurile de pământ. La prânz, copacii din parc oferă o protecție limitată. Muzeele asigură adăpostul uscat necesar după-amiaza. Seara la biserică, frânați cu prudență pe carosabilul umed.",
-            "en": "Rainy ride to the Three Emperors' Corner; be careful on forest paths. Midday, the park trees offer some cover. Museums provide the necessary dry respite in the afternoon. Finish at the Church of the Visitation; brake early on wet roads."
+            "en": "Rainy ride to the Three Emperors' Corner; be careful on forest paths. Midday, the park trees offer some cover. Museums provide the necessary dry respite in the afternoon. Finish at the Church of the Visitation; brake early on wet roads.",
+            "pl": "Jazda w deszczu do Trójkąta Trzech Cesarzy; uważaj na leśne ścieżki. W południe drzewa w parku dają częściowe schronienie. Muzea zapewniają niezbędny suchy odpoczynek po południu. Zakończ przy Kościele Nawiedzenia; hamuj wcześniej na mokrej nawierzchni."
           },
           "stops": [
             {
@@ -880,7 +951,8 @@
                 "de": "Unbefestigte Wege können bei Regen schlammig sein.",
                 "hu": "A burkolatlan utak esőben sarasak lehetnek.",
                 "ro": "Drumurile neasfaltate pot fi noroioase pe ploaie.",
-                "en": "Unpaved paths can be muddy during rain."
+                "en": "Unpaved paths can be muddy during rain.",
+                "pl": "Niejazdne ścieżki mogą być błotniste podczas deszczu."
               }
             },
             {
@@ -889,7 +961,8 @@
                 "de": "Meiden Sie bei Gewitter die Nähe von hohen Bäumen.",
                 "hu": "Vihar esetén kerülje a magas fák közelségét.",
                 "ro": "Evitați apropierea de copaci înalți în caz de furtună.",
-                "en": "Avoid proximity to tall trees during a thunderstorm."
+                "en": "Avoid proximity to tall trees during a thunderstorm.",
+                "pl": "Unikaj przebywania blisko wysokich drzew podczas burzy."
               }
             },
             {
@@ -898,7 +971,8 @@
                 "de": "Vorsicht beim Befahren von nassem Kopfsteinpflaster.",
                 "hu": "Vigyázzon a vizes macskakövön való kerékpározáskor.",
                 "ro": "Atenție la mersul pe bicicletă pe pavajul ud.",
-                "en": "Be careful when cycling on wet cobblestones."
+                "en": "Be careful when cycling on wet cobblestones.",
+                "pl": "Uważaj, jeżdżąc po mokrych kostkach brukowych."
               }
             },
             {
@@ -907,7 +981,8 @@
                 "de": "Stellen Sie das Rad an einem regengeschützten Ort ab.",
                 "hu": "Parkolja le a kerékpárt esővédett helyen.",
                 "ro": "Parcați bicicleta într-un loc ferit de ploaie.",
-                "en": "Park your bike in a spot sheltered from the rain."
+                "en": "Park your bike in a spot sheltered from the rain.",
+                "pl": "Zaparkuj rower w miejscu osłoniętym przed deszczem."
               }
             },
             {
@@ -916,7 +991,8 @@
                 "de": "Langer Aufenthalt möglich, um Kleidung zu trocknen.",
                 "hu": "Hosszabb időt is eltölthet itt, amíg ruhái száradnak.",
                 "ro": "Puteți petrece mai mult timp aici pentru a vă usca hainele.",
-                "en": "Spend extra time here while your clothes dry out."
+                "en": "Spend extra time here while your clothes dry out.",
+                "pl": "Spędź tu więcej czasu, aż ubrania wyschną."
               }
             },
             {
@@ -925,7 +1001,8 @@
                 "de": "Sicherer Parkplatz für das Rad in der Nähe suchen.",
                 "hu": "Keressen biztonságos kerékpárparkolót a közelben.",
                 "ro": "Căutați o parcare sigură pentru biciclete în apropiere.",
-                "en": "Look for a secure bike parking spot nearby."
+                "en": "Look for a secure bike parking spot nearby.",
+                "pl": "Szukaj w pobliżu bezpiecznego miejsca do parkowania roweru."
               }
             },
             {
@@ -934,7 +1011,8 @@
                 "de": "Vorsicht bei Pfützen in der Nähe des Eingangs.",
                 "hu": "Ügyeljen a tócsákra a bejárat közelében.",
                 "ro": "Atenție la bălțile din apropierea intrării.",
-                "en": "Watch out for puddles near the entrance."
+                "en": "Watch out for puddles near the entrance.",
+                "pl": "Uważaj na kałuże przy wejściu."
               }
             }
           ],
@@ -966,6 +1044,13 @@
               "Avoid road markings as they become very slippery when wet.",
               "Wear a high-visibility rain jacket for safety.",
               "Clean your bike chain from mud after the trip."
+            ],
+            "pl": [
+              "Używaj błotników, by chronić się przed bryzgającą wodą.",
+              "Lekko zmniejsz ciśnienie w oponach dla lepszej przyczepności na mokrej nawierzchni.",
+              "Unikaj oznaczeń drogowych — na mokro są bardzo śliskie.",
+              "Noś jaskrawą, przeciwdeszczową kurtkę dla bezpieczeństwa.",
+              "Wyczyść łańcuch roweru z błota po wycieczce."
             ]
           }
         },
@@ -974,7 +1059,8 @@
             "de": "Kalte Brise am Dreikaisereck, warme Handschuhe sind Pflicht. Mittags kurze Fahrt durch den frostigen Park. Die Museen sind wichtige Aufwärmstationen am Nachmittag. Beenden Sie die Tour vor Einbruch der Dunkelheit, da die Sicht auf glatten Wegen stark abnimmt.",
             "hu": "Hideg szél a folyótorkolatnál, meleg kesztyű kötelező. Délben rövid tekerés a deres parkon át. A múzeumok fontos melegedőpontok a délutáni órákban. Fejezze be a túrát sötétedés előtt a csúszós utakon való biztonság érdekében.",
             "ro": "Briză rece la colțul imperiilor, mănușile groase sunt obligatorii. La prânz, o scurtă plimbare prin parcul înghețat. Muzeele sunt puncte importante de încălzire după-amiaza. Încheiați turul înainte de lăsarea întunericului pentru siguranță.",
-            "en": "Cold breeze at the river confluence; warm gloves are a must. Midday features a brisk ride through the frosty park. Museums are vital warming stations in the afternoon. Finish your tour before sunset due to visibility on icy paths."
+            "en": "Cold breeze at the river confluence; warm gloves are a must. Midday features a brisk ride through the frosty park. Museums are vital warming stations in the afternoon. Finish your tour before sunset due to visibility on icy paths.",
+            "pl": "Zimny wiatr przy zbiegu rzek; ciepłe rękawice są koniecznością. W południe dynamiczna jazda przez przymrożony park. Muzea to ważne miejsca do rozgrzania się po południu. Zakończ trasę przed zachodem słońca z powodu widoczności na oblodzonych ścieżkach."
           },
           "stops": [
             {
@@ -983,7 +1069,8 @@
                 "de": "Der Wind vom Fluss Przemsza kühlt extrem schnell aus.",
                 "hu": "A Przemsza-folyó felőli szél rendkívül gyorsan lehűt.",
                 "ro": "Vântul de pe râul Przemsza vă poate îngheța rapid.",
-                "en": "The wind from the Przemsza river chills you very quickly."
+                "en": "The wind from the Przemsza river chills you very quickly.",
+                "pl": "Wiatr znad rzeki Przemszy bardzo szybko wychładza."
               }
             },
             {
@@ -992,7 +1079,8 @@
                 "de": "Achten Sie auf gefrorenes Laub auf den Waldwegen.",
                 "hu": "Ügyeljen a fagyott levelekre az erdei utakon.",
                 "ro": "Atenție la frunzele înghețate de pe poteci.",
-                "en": "Watch out for frozen leaves on the forest paths."
+                "en": "Watch out for frozen leaves on the forest paths.",
+                "pl": "Uważaj na zamarznięte liście na leśnych ścieżkach."
               }
             },
             {
@@ -1001,7 +1089,8 @@
                 "de": "Das Pflaster kann unter einer dünnen Eisschicht liegen.",
                 "hu": "A macskakövet vékony jégréteg boríthatja.",
                 "ro": "Pavajul poate fi acoperit de un strat subțire de gheață.",
-                "en": "The cobblestones may be covered by a thin layer of ice."
+                "en": "The cobblestones may be covered by a thin layer of ice.",
+                "pl": "Kostka brukowa może być pokryta cienką warstwą lodu."
               }
             },
             {
@@ -1010,7 +1099,8 @@
                 "de": "Sperren Sie das Rad sicher ab, bevor Sie hineingehen.",
                 "hu": "Zárja le biztonságosan a kerékpárt, mielőtt bemenne.",
                 "ro": "Încuiați bine bicicleta înainte de a intra.",
-                "en": "Lock your bike securely before heading inside."
+                "en": "Lock your bike securely before heading inside.",
+                "pl": "Zamknij rower na solidny zamek przed wejściem do środka."
               }
             },
             {
@@ -1019,7 +1109,8 @@
                 "de": "Große Hallen bieten Schutz vor dem eisigen Nordwind.",
                 "hu": "A nagy csarnokok védelmet nyújtanak a jeges északi széltől.",
                 "ro": "Halele mari oferă protecție împotriva vântului înghețat.",
-                "en": "The large halls provide shelter from the icy north wind."
+                "en": "The large halls provide shelter from the icy north wind.",
+                "pl": "Wielkie hale chronią przed lodowatym północnym wiatrem."
               }
             },
             {
@@ -1028,7 +1119,8 @@
                 "de": "Guter Ort, um die Glieder wieder aufzuwärmen.",
                 "hu": "Jó helyszín a végtagok átmelegítésére.",
                 "ro": "Loc bun pentru a vă reîncălzi membrele amorțite.",
-                "en": "A good place to warm up your limbs."
+                "en": "A good place to warm up your limbs.",
+                "pl": "Dobre miejsce, by rozgrzać kończyny."
               }
             },
             {
@@ -1037,7 +1129,8 @@
                 "de": "Vorsicht beim Absteigen auf möglicherweise glattem Boden.",
                 "hu": "Vigyázzon a leszálláskor az esetlegesen csúszós talajon.",
                 "ro": "Atenție la coborârea de pe bicicletă pe solul alunecos.",
-                "en": "Be careful when dismounting on potentially slippery ground."
+                "en": "Be careful when dismounting on potentially slippery ground.",
+                "pl": "Uważaj przy zsiadaniu na potencjalnie śliskim podłożu."
               }
             }
           ],
@@ -1069,6 +1162,13 @@
               "Avoid sudden steering movements on slippery surfaces.",
               "Bringing a hot drink in a thermos is highly recommended.",
               "E-bike batteries drain significantly faster in cold weather."
+            ],
+            "pl": [
+              "Upewnij się, że światła rowerowe działają perfekcyjnie o zmierzchu.",
+              "Noś odzież przeciwwiatrową, zwłaszcza przy stawach.",
+              "Unikaj gwałtownych ruchów kierownicą na śliskiej nawierzchni.",
+              "Zdecydowanie polecane zabranie gorącego napoju w termosie.",
+              "Baterie w rowerach elektrycznych rozładowują się znacznie szybciej w zimnie."
             ]
           }
         }
@@ -1087,7 +1187,8 @@
             "de": "Dreikaisereck",
             "hu": "Három Császár Sarok",
             "ro": "Colțul celor Trei Împărați",
-            "en": "Three Emperors' Corner"
+            "en": "Three Emperors' Corner",
+            "pl": "Róg Trzech Cesarzy"
           },
           "coords": [
             19.175,
@@ -1103,7 +1204,8 @@
             "de": "Starten Sie am Rande der Stadt. Es gibt gute Parkmöglichkeiten in der Nähe.",
             "hu": "Kezdje a város szélén. A közelben jó parkolási lehetőségek vannak.",
             "ro": "Începeți de la marginea orașului. Există o parcare bună în apropiere.",
-            "en": "Start on the outskirts of the city. There is good parking nearby."
+            "en": "Start on the outskirts of the city. There is good parking nearby.",
+            "pl": "Zacznij na obrzeżach miasta. W pobliżu jest dobre miejsce do parkowania."
           }
         },
         {
@@ -1111,7 +1213,8 @@
             "de": "Parkplatz Zentrum",
             "hu": "Parkoló a központban",
             "ro": "Parcare în centru",
-            "en": "City Center Parking"
+            "en": "City Center Parking",
+            "pl": "Parking w centrum miasta"
           },
           "coords": [
             19.139,
@@ -1127,7 +1230,8 @@
             "de": "Parken Sie hier für den Rest des Vormittags und erkunden Sie das Zentrum zu Fuß.",
             "hu": "Parkoljon le itt a délelőtt hátralévő részére, és fedezze fel a központot gyalog.",
             "ro": "Parcați aici pentru restul dimineții și explorați centrul pe jos.",
-            "en": "Park here for the rest of the morning and explore the center on foot."
+            "en": "Park here for the rest of the morning and explore the center on foot.",
+            "pl": "Zaparkuj tu na resztę poranka i zwiedzaj centrum pieszo."
           }
         },
         {
@@ -1135,7 +1239,8 @@
             "de": "Marktplatz & Rathaus",
             "hu": "Főtér és Városháza",
             "ro": "Piața Centrală și Primăria",
-            "en": "Market Square & Town Hall"
+            "en": "Market Square & Town Hall",
+            "pl": "Rynek i ratusz"
           },
           "coords": [
             19.138,
@@ -1151,7 +1256,8 @@
             "de": "Spazieren Sie über den Platz und bewundern Sie das Rathaus.",
             "hu": "Sétáljon át a téren és csodálja meg a Városházát.",
             "ro": "Plimbați-vă prin piață și admirați Primăria.",
-            "en": "Stroll across the square and admire the Town Hall."
+            "en": "Stroll across the square and admire the Town Hall.",
+            "pl": "Przejdź przez rynek i podziwiaj ratusz."
           }
         },
         {
@@ -1159,7 +1265,8 @@
             "de": "Herz-Jesu-Kirche",
             "hu": "Jézus Szíve-templom",
             "ro": "Biserica Preasfânta Inimă a lui Iisus",
-            "en": "Sacred Heart Church"
+            "en": "Sacred Heart Church",
+            "pl": "Kościół Najświętszego Serca"
           },
           "coords": [
             19.141,
@@ -1175,7 +1282,8 @@
             "de": "Ein kurzer Spaziergang vom Marktplatz zu dieser beeindruckenden Kirche.",
             "hu": "Egy rövid séta a Főtértől ehhez a lenyűgöző templomhoz.",
             "ro": "O scurtă plimbare de la Piața Centrală la această biserică impresionantă.",
-            "en": "A short walk from the Market Square to this impressive church."
+            "en": "A short walk from the Market Square to this impressive church.",
+            "pl": "Krótki spacer z Rynku do tego imponującego kościoła."
           }
         },
         {
@@ -1183,7 +1291,8 @@
             "de": "Zentrales Feuerwehrmuseum",
             "hu": "Központi Tűzoltómúzeum",
             "ro": "Muzeul Central al Pompierilor",
-            "en": "Central Museum of Firefighting"
+            "en": "Central Museum of Firefighting",
+            "pl": "Centralne Muzeum Pożarnictwa"
           },
           "coords": [
             19.145,
@@ -1199,7 +1308,8 @@
             "de": "Fahren Sie zum Museum, es hat einen eigenen Parkplatz. Planen Sie Zeit für das Mittagessen ein.",
             "hu": "Vezessen a múzeumhoz, saját parkolója van. Tervezzen időt az ebédre.",
             "ro": "Conduceți la muzeu, are parcare proprie. Planificați timp pentru prânz.",
-            "en": "Drive to the museum, it has its own parking lot. Plan time for lunch."
+            "en": "Drive to the museum, it has its own parking lot. Plan time for lunch.",
+            "pl": "Przyjedź samochodem — muzeum ma własny parking. Zaplanuj czas na lunch."
           }
         },
         {
@@ -1207,7 +1317,8 @@
             "de": "Park Zamkowy",
             "hu": "Kastélypark (Park Zamkowy)",
             "ro": "Parcul Castelului (Park Zamkowy)",
-            "en": "Castle Park (Park Zamkowy)"
+            "en": "Castle Park (Park Zamkowy)",
+            "pl": "Park Zamkowy (Park Zamkowy)"
           },
           "coords": [
             19.13,
@@ -1223,7 +1334,8 @@
             "de": "Lassen Sie das Auto stehen und beenden Sie den Tag mit einem entspannten Spaziergang im Park.",
             "hu": "Hagyja az autót, és fejezze be a napot egy pihentető sétával a parkban.",
             "ro": "Lăsați mașina și încheiați ziua cu o plimbare relaxantă în parc.",
-            "en": "Leave the car and end the day with a relaxing walk in the park."
+            "en": "Leave the car and end the day with a relaxing walk in the park.",
+            "pl": "Zostaw samochód i zakończ dzień relaksującym spacerem po parku."
           }
         }
       ],
@@ -1231,7 +1343,8 @@
         "de": "Ihre Autotour beginnt am historischen Dreikaisereck. Von dort fahren Sie ins Zentrum von Mysłowice, parken Ihr Auto und erkunden den Marktplatz und die Herz-Jesu-Kirche zu Fuß. Dies bildet Ihren ersten 'Walking Cluster'. Am Nachmittag fahren Sie zum faszinierenden Feuerwehrmuseum für den zweiten Stopp. Den Tag lassen Sie dann entspannt im nahegelegenen Park Zamkowy ausklingen, Ihrem letzten 'Walking Cluster'.",
         "hu": "Az autós túra a történelmi Három Császár Saroknál kezdődik. Onnan Mysłowice központjába hajt, leparkolja az autót, és gyalog fedezi fel a Főteret és a Jézus Szíve-templomot. Ez alkotja az első „sétáló klasztert”. Délután a lenyűgöző Tűzoltómúzeumhoz hajt a második megállóhoz. A napot a közeli Kastélyparkban tett pihentető sétával zárja, amely az utolsó „sétáló klaszter”.",
         "ro": "Turul cu mașina începe de la istoricul Colț al celor Trei Împărați. De acolo, conduceți spre centrul orașului Mysłowice, parcați mașina și explorați pe jos Piața Centrală și Biserica Preasfânta Inimă a lui Iisus. Acesta formează primul dvs. 'cluster de mers pe jos'. După-amiaza, conduceți la fascinantul Muzeu al Pompierilor pentru a doua oprire. Încheiați ziua relaxându-vă în Parcul Castelului din apropiere, ultimul dvs. 'cluster de mers pe jos'.",
-        "en": "Your car tour begins at the historic Three Emperors' Corner. From there, you drive to the center of Mysłowice, park your car, and explore the Market Square and the Sacred Heart Church on foot. This forms your first 'walking cluster'. In the afternoon, you drive to the fascinating Firefighting Museum for the second stop. You then end the day relaxing in the nearby Castle Park, your final 'walking cluster'."
+        "en": "Your car tour begins at the historic Three Emperors' Corner. From there, you drive to the center of Mysłowice, park your car, and explore the Market Square and the Sacred Heart Church on foot. This forms your first 'walking cluster'. In the afternoon, you drive to the fascinating Firefighting Museum for the second stop. You then end the day relaxing in the nearby Castle Park, your final 'walking cluster'.",
+        "pl": "Twoja wycieczka samochodowa zaczyna się przy historycznym Rogu Trzech Cesarzy. Stamtąd jedziesz do centrum Mysłowic, parkujesz i zwiedzasz Rynek oraz Kościół Najświętszego Serca pieszo. To tworzy pierwszy „klaster pieszy”. Po południu jedziesz do fascynującego Muzeum Pożarnictwa jako drugi przystanek. Kończysz dzień odpoczynkiem w pobliskim Parku Zamkowym, ostatnim „klastrze pieszym”."
       },
       "gastro_picks": {
         "de": [
@@ -1371,6 +1484,11 @@
           "Use a navigation app to find parking near the clusters.",
           "Be aware of parking fees in the city center.",
           "Plan for extra time for traffic during peak hours."
+        ],
+        "pl": [
+          "Użyj aplikacji nawigacyjnej, aby znaleźć parkingi w pobliżu klastrów.",
+          "Pamiętaj o opłatach za parkowanie w centrum miasta.",
+          "Zaplanuj dodatkowy czas na korki w godzinach szczytu."
         ]
       },
       "variants": {
@@ -1379,7 +1497,8 @@
             "de": "Bequeme Anfahrt zum Dreikaisereck trotz Regen. Parken Sie mittags zentral, um die Altstadt und Kirchen schnell zu erreichen. Der Nachmittag im Feuerwehrmuseum ist ein Highlight im Trockenen. Abends entspannte Rückfahrt durch den regnerischen Park Zamkowy.",
             "hu": "Kényelmes autózás a folyótorkolathoz az eső ellenére. Délben parkoljon a központban, hogy gyorsan elérje a templomokat. A Tűzoltó Múzeum délutáni látogatása kiváló fedett program. Este nyugodt autózás a városon át.",
             "ro": "Acces auto facil spre colțul imperiilor în ciuda ploii. La prânz, parcați central pentru a vizita rapid bisericile. Muzeul Pompierilor este un punct de atracție uscat după-amiaza. Seara, o plimbare relaxantă cu mașina prin oraș.",
-            "en": "Comfortable drive to the river confluence despite the rain. Park centrally at midday to reach the churches quickly. The Firefighting Museum is a dry highlight for the afternoon. Enjoy a relaxed evening drive through the city."
+            "en": "Comfortable drive to the river confluence despite the rain. Park centrally at midday to reach the churches quickly. The Firefighting Museum is a dry highlight for the afternoon. Enjoy a relaxed evening drive through the city.",
+            "pl": "Komfortowa jazda do zbiegu rzek mimo deszczu. W południe zaparkuj centralnie, by szybko dostać się do kościołów. Muzeum Pożarnictwa to suchy punkt programu na popołudnie. Ciesz się spokojną wieczorną przejażdżką przez miasto."
           },
           "stops": [
             {
@@ -1388,7 +1507,8 @@
                 "de": "Parken Sie nah am Aussichtspunkt, um trocken zu bleiben.",
                 "hu": "Parkoljon közel a kilátóponthoz, hogy száraz maradjon.",
                 "ro": "Parcați aproape de punctul de observație pentru a rămâne uscat.",
-                "en": "Park close to the viewpoint to stay dry."
+                "en": "Park close to the viewpoint to stay dry.",
+                "pl": "Zaparkuj blisko punktu widokowego, żeby pozostać suchym."
               }
             },
             {
@@ -1397,7 +1517,8 @@
                 "de": "Zentraler Startpunkt für den kurzen Gang zum Rynek.",
                 "hu": "Központi kiindulópont a főtéri rövid sétához.",
                 "ro": "Punct central de plecare pentru scurta plimbare spre piață.",
-                "en": "Central starting point for the short walk to the square."
+                "en": "Central starting point for the short walk to the square.",
+                "pl": "Centralny punkt startowy do krótkiego spaceru na rynek."
               }
             },
             {
@@ -1406,7 +1527,8 @@
                 "de": "Schneller Zugang zu den umliegenden Gebäuden.",
                 "hu": "Gyors hozzáférés a környező épületekhez.",
                 "ro": "Acces rapid la clădirile din jur.",
-                "en": "Quick access to the surrounding buildings."
+                "en": "Quick access to the surrounding buildings.",
+                "pl": "Szybki dostęp do otaczających budynków."
               }
             },
             {
@@ -1415,7 +1537,8 @@
                 "de": "Nahegelegene Parkplätze ermöglichen einen trockenen Besuch.",
                 "hu": "A közeli parkolóhelyek lehetővé teszik a száraz látogatást.",
                 "ro": "Locurile de parcare din apropiere permit o vizită uscată.",
-                "en": "Nearby parking spots allow for a dry visit."
+                "en": "Nearby parking spots allow for a dry visit.",
+                "pl": "Okoliczne miejsca parkingowe umożliwiają suchą wizytę."
               }
             },
             {
@@ -1424,7 +1547,8 @@
                 "de": "Großer Parkplatz direkt vor dem Museumseingang.",
                 "hu": "Nagy parkoló közvetlenül a múzeum bejárata előtt.",
                 "ro": "Parcare mare chiar în fața intrării muzeului.",
-                "en": "Large parking lot directly in front of the museum entrance."
+                "en": "Large parking lot directly in front of the museum entrance.",
+                "pl": "Duży parking bezpośrednio przed wejściem do muzeum."
               }
             },
             {
@@ -1433,7 +1557,8 @@
                 "de": "Genießen Sie den Blick auf den Park aus dem warmen Auto.",
                 "hu": "Élvezze a park látványát a meleg autóból.",
                 "ro": "Bucurați-vă de vederea parcului din mașina caldă.",
-                "en": "Enjoy the view of the park from the warm car."
+                "en": "Enjoy the view of the park from the warm car.",
+                "pl": "Podziwiaj widok na park z ciepłego samochodu."
               }
             }
           ],
@@ -1465,6 +1590,13 @@
               "Utilize parking spots closest to the museum entrances.",
               "Keep a safe distance from pedestrians near puddles.",
               "Visibility can be significantly reduced during heavy rain."
+            ],
+            "pl": [
+              "Sprawdź wycieraczki przed rozpoczęciem wycieczki.",
+              "Uważaj na aquaplaning na głównych drogach.",
+              "Korzystaj z miejsc parkingowych najbliżej wejść do muzeów.",
+              "Zachowaj bezpieczną odległość od pieszych przy kałużach.",
+              "Widoczność może być znacznie ograniczona podczas ulewy."
             ]
           }
         },
@@ -1473,7 +1605,8 @@
             "de": "Vorsichtige Fahrt zum frostigen Dreikaisereck am Morgen. Mittags parken Sie in der beheizten Nähe des Zentrums. Das Feuerwehrmuseum bietet am Nachmittag eine angenehm warme Umgebung. Beenden Sie die Tour früh, bevor Glatteis die Straßen von Mysłowice gefährlich macht.",
             "hu": "Óvatos autózás a fagyos folyótorkolathoz reggel. Délben parkoljon a központ fűtött közelében. A Tűzoltó Múzeum délután kellemesen meleg környezetet biztosít. Fejezze be korán a túrát, mielőtt a jegesedés veszélyessé tenné az utakat.",
             "ro": "Conducere prudentă spre colțul imperiilor înghețat. La prânz, parcați aproape de centrul încălzit. Muzeul Pompierilor oferă un mediu cald după-amiaza. Încheiați turul devreme, înainte ca poleiul să devină periculos.",
-            "en": "Cautious drive to the frosty river confluence. Park near the heated city center at midday. The Firefighting Museum provides a pleasantly warm environment in the afternoon. End your tour early before ice makes the roads dangerous."
+            "en": "Cautious drive to the frosty river confluence. Park near the heated city center at midday. The Firefighting Museum provides a pleasantly warm environment in the afternoon. End your tour early before ice makes the roads dangerous.",
+            "pl": "Ostrożna jazda do przymrożonego zbiegu rzek. W południe parkuj blisko ogrzanego centrum. Muzeum Pożarnictwa zapewnia przyjemnie ciepłe warunki po południu. Zakończ wycieczkę wcześnie, zanim lód uczyni drogi niebezpiecznymi."
           },
           "stops": [
             {
@@ -1482,7 +1615,8 @@
                 "de": "Die Zufahrtsstraßen können am Morgen glatt sein.",
                 "hu": "A bekötőutak reggelente jegesek lehetnek.",
                 "ro": "Drumurile de acces pot fi alunecoase dimineața.",
-                "en": "Access roads can be slippery in the morning."
+                "en": "Access roads can be slippery in the morning.",
+                "pl": "Drogi dojazdowe mogą być śliskie rano."
               }
             },
             {
@@ -1491,7 +1625,8 @@
                 "de": "Suchen Sie einen Platz, der schneefrei ist.",
                 "hu": "Keressen hómentes parkolóhelyet.",
                 "ro": "Căutați un loc de parcare fără zăpadă.",
-                "en": "Look for a parking spot that is free of snow."
+                "en": "Look for a parking spot that is free of snow.",
+                "pl": "Szukaj miejsca parkingowego wolnego od śniegu."
               }
             },
             {
@@ -1500,7 +1635,8 @@
                 "de": "Vorsicht beim Aussteigen auf glattem Kopfsteinpflaster.",
                 "hu": "Vigyázzon a kiszálláskor a csúszós macskakövön.",
                 "ro": "Atenție la coborârea din mașină pe pavajul alunecos.",
-                "en": "Be careful when getting out of the car on slippery stones."
+                "en": "Be careful when getting out of the car on slippery stones.",
+                "pl": "Uważaj, wysiadając z samochodu na śliskich kamieniach."
               }
             },
             {
@@ -1509,7 +1645,8 @@
                 "de": "Lassen Sie den Motor nicht unnötig im Stand laufen.",
                 "hu": "Ne járassa feleslegesen a motort álló helyzetben.",
                 "ro": "Nu lăsați motorul pornit inutil în staționare.",
-                "en": "Do not leave the engine idling unnecessarily."
+                "en": "Do not leave the engine idling unnecessarily.",
+                "pl": "Nie zostawiaj silnika na biegu jałowym bez potrzeby."
               }
             },
             {
@@ -1518,7 +1655,8 @@
                 "de": "Nutzen Sie den Museumsbesuch als Aufwärmpause.",
                 "hu": "Használja ki a múzeumlátogatást melegedő pihenőként.",
                 "ro": "Folosiți vizita la muzeu ca o pauză de încălzire.",
-                "en": "Use the museum visit as a warming break."
+                "en": "Use the museum visit as a warming break.",
+                "pl": "Wykorzystaj wizytę w muzeum jako przerwę na rozgrzanie się."
               }
             },
             {
@@ -1527,7 +1665,8 @@
                 "de": "Fahren Sie langsam auf den parknahen Nebenstraßen.",
                 "hu": "Hajtson lassan a park melletti mellékutcákban.",
                 "ro": "Conduceți încet pe străzile secundare de lângă parc.",
-                "en": "Drive slowly on the side roads near the park."
+                "en": "Drive slowly on the side roads near the park.",
+                "pl": "Jedź powoli bocznymi drogami w pobliżu parku."
               }
             }
           ],
@@ -1559,6 +1698,13 @@
               "Expect much longer braking distances on icy roads.",
               "Check tire pressure as it drops in cold temperatures.",
               "Avoid parking under trees heavily laden with snow."
+            ],
+            "pl": [
+              "Upewnij się, że masz płyn do spryskiwaczy z odmrażaczem.",
+              "Miej w samochodzie skrobaczkę do lodu i szczotkę do śniegu.",
+              "Spodziewaj się znacznie dłuższej drogi hamowania na oblodzonych drogach.",
+              "Sprawdź ciśnienie w oponach, bo spada w niskich temperaturach.",
+              "Unikaj parkowania pod drzewami obciążonymi śniegiem."
             ]
           }
         }
@@ -1577,7 +1723,8 @@
             "de": "Ankunft am Busbahnhof Mysłowice",
             "hu": "Érkezés a Mysłowice buszpályaudvarra",
             "ro": "Sosire la autogara Mysłowice",
-            "en": "Arrival at Mysłowice Bus Station"
+            "en": "Arrival at Mysłowice Bus Station",
+            "pl": "Przyjazd na Dworzec Autobusowy Mysłowice"
           },
           "coords": [
             19.14,
@@ -1593,7 +1740,8 @@
             "de": "Kaufen Sie eine Tageskarte für den öffentlichen Nahverkehr.",
             "hu": "Vásároljon napijegyet a tömegközlekedéshez.",
             "ro": "Cumpărați un bilet de o zi pentru transportul public.",
-            "en": "Buy a day pass for public transport."
+            "en": "Buy a day pass for public transport.",
+            "pl": "Kup bilet całodobowy na komunikację miejską."
           }
         },
         {
@@ -1601,7 +1749,8 @@
             "de": "Marktplatz & Rathaus",
             "hu": "Főtér és Városháza",
             "ro": "Piața Centrală și Primăria",
-            "en": "Market Square & Town Hall"
+            "en": "Market Square & Town Hall",
+            "pl": "Rynek i ratusz"
           },
           "coords": [
             19.138,
@@ -1617,7 +1766,8 @@
             "de": "Beginnen Sie Ihren Rundgang im Herzen der Stadt.",
             "hu": "Kezdje a sétát a város szívében.",
             "ro": "Începeți turul pietonal în inima orașului.",
-            "en": "Start your walking tour in the heart of the city."
+            "en": "Start your walking tour in the heart of the city.",
+            "pl": "Rozpocznij pieszą wycieczkę w sercu miasta."
           }
         },
         {
@@ -1625,7 +1775,8 @@
             "de": "Stadtmuseum Mysłowice",
             "hu": "Mysłowicei Városi Múzeum",
             "ro": "Muzeul Orașului Mysłowice",
-            "en": "Mysłowice City Museum"
+            "en": "Mysłowice City Museum",
+            "pl": "Muzeum Miejskie Mysłowice"
           },
           "coords": [
             19.132,
@@ -1641,7 +1792,8 @@
             "de": "Ein kurzer Spaziergang vom Platz zum Museum.",
             "hu": "Rövid séta a tértől a múzeumig.",
             "ro": "O scurtă plimbare de la piață la muzeu.",
-            "en": "A short walk from the square to the museum."
+            "en": "A short walk from the square to the museum.",
+            "pl": "Krótki spacer z rynku do muzeum."
           }
         },
         {
@@ -1649,7 +1801,8 @@
             "de": "Dreikaisereck",
             "hu": "Három Császár Sarok",
             "ro": "Colțul celor Trei Împărați",
-            "en": "Three Emperors' Corner"
+            "en": "Three Emperors' Corner",
+            "pl": "Róg Trzech Cesarzy"
           },
           "coords": [
             19.175,
@@ -1665,7 +1818,8 @@
             "de": "Nehmen Sie einen Bus zu diesem historischen Ort. Planen Sie hier Ihr Mittagessen.",
             "hu": "Menjen busszal ehhez a történelmi helyhez. Tervezze ide az ebédjét.",
             "ro": "Luați un autobuz până la acest loc istoric. Planificați-vă prânzul aici.",
-            "en": "Take a bus to this historic site. Plan your lunch here."
+            "en": "Take a bus to this historic site. Plan your lunch here.",
+            "pl": "Dojedź autobusem do tego historycznego miejsca. Zaplanuj tu lunch."
           }
         },
         {
@@ -1673,7 +1827,8 @@
             "de": "Zentrales Feuerwehrmuseum",
             "hu": "Központi Tűzoltómúzeum",
             "ro": "Muzeul Central al Pompierilor",
-            "en": "Central Museum of Firefighting"
+            "en": "Central Museum of Firefighting",
+            "pl": "Centralne Muzeum Pożarnictwa"
           },
           "coords": [
             19.145,
@@ -1689,7 +1844,8 @@
             "de": "Eine weitere Busfahrt bringt Sie zu diesem einzigartigen Museum.",
             "hu": "Egy újabb buszozás elviszi Önt ehhez az egyedülálló múzeumhoz.",
             "ro": "O altă călătorie cu autobuzul vă va duce la acest muzeu unic.",
-            "en": "Another bus ride will take you to this unique museum."
+            "en": "Another bus ride will take you to this unique museum.",
+            "pl": "Kolejna przejażdżka autobusem zawiedzie cię do tego wyjątkowego muzeum."
           }
         },
         {
@@ -1697,7 +1853,8 @@
             "de": "Park Zamkowy",
             "hu": "Kastélypark (Park Zamkowy)",
             "ro": "Parcul Castelului (Park Zamkowy)",
-            "en": "Castle Park (Park Zamkowy)"
+            "en": "Castle Park (Park Zamkowy)",
+            "pl": "Park Zamkowy (Park Zamkowy)"
           },
           "coords": [
             19.13,
@@ -1713,7 +1870,8 @@
             "de": "Vom Museum aus können Sie zum Park spazieren und den Tag ausklingen lassen.",
             "hu": "A múzeumtól átsétálhat a parkba, és lezárhatja a napot.",
             "ro": "De la muzeu puteți merge pe jos până la parc pentru a încheia ziua.",
-            "en": "You can walk from the museum to the park to end the day."
+            "en": "You can walk from the museum to the park to end the day.",
+            "pl": "Możesz dojść pieszo z muzeum do parku, by zakończyć dzień."
           }
         }
       ],
@@ -1721,7 +1879,8 @@
         "de": "Mit einer Tageskarte starten Sie Ihren Tag im Zentrum von Mysłowice und erkunden den ersten Cluster mit Marktplatz und Stadtmuseum zu Fuß. Anschließend bringt Sie ein Bus zum historischen Dreikaisereck, Ihrem zweiten Halt. Eine weitere Busfahrt führt Sie am Nachmittag zum faszinierenden Feuerwehrmuseum. Ihren Tag beenden Sie mit einem entspannenden Spaziergang zum Park Zamkowy, der vom Museum aus zu Fuß erreichbar ist.",
         "hu": "Napijeggyel kezdi a napot Mysłowice központjában, és gyalog fedezi fel az első klasztert, a Főteret és a Városi Múzeumot. Ezután egy busz elviszi a történelmi Három Császár Sarokhoz, a második megállóhoz. Délután egy újabb buszjárattal jut el a lenyűgöző Tűzoltómúzeumba. A napot egy pihentető sétával zárja a Kastélyparkban, amely a múzeumtól gyalogosan is elérhető.",
         "ro": "Cu un bilet de o zi, începeți ziua în centrul orașului Mysłowice și explorați pe jos primul cluster, incluzând Piața Centrală și Muzeul Orașului. Apoi, un autobuz vă duce la istoricul Colț al celor Trei Împărați, a doua dvs. oprire. O altă călătorie cu autobuzul vă duce după-amiaza la fascinantul Muzeu al Pompierilor. Încheiați ziua cu o plimbare relaxantă la Parcul Castelului, accesibil pe jos de la muzeu.",
-        "en": "With a day pass, you start your day in the center of Mysłowice, exploring the first cluster with the Market Square and City Museum on foot. A bus then takes you to the historic Three Emperors' Corner, your second stop. Another bus ride in the afternoon leads you to the fascinating Firefighting Museum. You end your day with a relaxing walk to Castle Park, which is within walking distance from the museum."
+        "en": "With a day pass, you start your day in the center of Mysłowice, exploring the first cluster with the Market Square and City Museum on foot. A bus then takes you to the historic Three Emperors' Corner, your second stop. Another bus ride in the afternoon leads you to the fascinating Firefighting Museum. You end your day with a relaxing walk to Castle Park, which is within walking distance from the museum.",
+        "pl": "Z biletem całodobowym zaczynasz dzień w centrum Mysłowic, zwiedzając pierwszy klaster z Rynkiem i Muzeum Miejskim pieszo. Potem autobus zabierze cię do historycznego Rogu Trzech Cesarzy, drugiego przystanku. Kolejna przejażdżka autobusem po południu zawiedzie cię do fascynującego Muzeum Pożarnictwa. Dzień kończysz relaksującym spacerem do Parku Zamkowego, który jest w zasięgu krótkiego spaceru od muzeum."
       },
       "gastro_picks": {
         "de": [
@@ -1877,6 +2036,11 @@
           "Download a timetable app to check bus times.",
           "Have small change ready for tickets if you buy them on the bus.",
           "Be aware of the final destinations to avoid going in the wrong direction."
+        ],
+        "pl": [
+          "Pobierz aplikację z rozkładem jazdy, aby sprawdzić godziny kursowania autobusów.",
+          "Miej przygotowane drobne na bilety, jeśli kupujesz je w autobusie.",
+          "Zwróć uwagę na końcowe przystanki, by nie jechać w złym kierunku."
         ]
       },
       "variants": {
@@ -1885,7 +2049,8 @@
             "de": "Trockener Start am Busbahnhof. Mittags kurze Wege zwischen den Haltestellen und den Museen. Das Stadtmuseum und das Feuerwehrmuseum bieten perfekten Schutz. Abends Rückfahrt mit dem Bus, nutzen Sie die überdachten Wartebereiche an den Stationen.",
             "hu": "Száraz indulás a buszállomásról. Délben rövid távok a megállók és a múzeumok között. A Városi Múzeum és a Tűzoltó Múzeum tökéletes menedéket nyújt. Este buszos visszautazás, használja a megállók fedett várakozóhelyeit.",
             "ro": "Pornire uscată de la autogară. La prânz, distanțe scurte între stații și muzee. Muzeul Orașului și cel al Pompierilor oferă protecție perfectă. Seara, întoarcere cu autobuzul, folosind zonele de așteptare acoperite.",
-            "en": "Dry start at the bus station. Midday features short walks between stops and museums. The City and Firefighting museums provide perfect shelter. Evening return by bus; use the covered waiting areas at the stations."
+            "en": "Dry start at the bus station. Midday features short walks between stops and museums. The City and Firefighting museums provide perfect shelter. Evening return by bus; use the covered waiting areas at the stations.",
+            "pl": "Suchy początek na dworcu autobusowym. W południe krótkie spacery między przystankami i muzeami. Muzea miejskie i pożarnictwa stanowią idealne schronienie. Powrót wieczorem autobusem; korzystaj z zadaszonych przystanków."
           },
           "stops": [
             {
@@ -1894,7 +2059,8 @@
                 "de": "Überdachte Bahnsteige bieten Schutz beim Umsteigen.",
                 "hu": "A fedett peronok védelmet nyújtanak átszálláskor.",
                 "ro": "Peroanele acoperite oferă protecție la transfer.",
-                "en": "Covered platforms provide shelter during transfers."
+                "en": "Covered platforms provide shelter during transfers.",
+                "pl": "Zadaszone perony zapewniają schronienie podczas przesiadek."
               }
             },
             {
@@ -1903,7 +2069,8 @@
                 "de": "Die Haltestellen liegen nah an den historischen Gebäuden.",
                 "hu": "A megállók közel vannak a történelmi épületekhez.",
                 "ro": "Stațiile sunt aproape de clădirile istorice.",
-                "en": "The stops are located close to the historic buildings."
+                "en": "The stops are located close to the historic buildings.",
+                "pl": "Przystanki znajdują się blisko zabytkowych budowli."
               }
             },
             {
@@ -1912,7 +2079,8 @@
                 "de": "Kurzer Fußweg von der Bushaltestelle zum Eingang.",
                 "hu": "Rövid gyalogút a buszmegállótól a bejáratig.",
                 "ro": "Scurtă plimbare de la stația de autobuz până la intrare.",
-                "en": "Short walk from the bus stop to the entrance."
+                "en": "Short walk from the bus stop to the entrance.",
+                "pl": "Krótki spacer z przystanku autobusowego do wejścia."
               }
             },
             {
@@ -1921,7 +2089,8 @@
                 "de": "Prüfen Sie die Taktung der Busse bei Regen genau.",
                 "hu": "Esőben ellenőrizze pontosan a buszok követési idejét.",
                 "ro": "Verificați frecvența autobuzelor în caz de ploaie.",
-                "en": "Check the bus frequency carefully during rain."
+                "en": "Check the bus frequency carefully during rain.",
+                "pl": "Sprawdź częstotliwość kursowania autobusów w czasie deszczu."
               }
             },
             {
@@ -1930,7 +2099,8 @@
                 "de": "Idealer Ort, um die regenreichste Zeit zu verbringen.",
                 "hu": "Ideális helyszín a legesősebb időszak eltöltésére.",
                 "ro": "Loc ideal pentru a petrece perioada cea mai ploioasă.",
-                "en": "Ideal location to spend the rainiest period."
+                "en": "Ideal location to spend the rainiest period.",
+                "pl": "Idealne miejsce, by przetrwać najsilniejsze opady."
               }
             },
             {
@@ -1939,7 +2109,8 @@
                 "de": "Warten Sie im Bus auf die Station, die dem Park am nächsten ist.",
                 "hu": "Várja meg a buszon a parkhoz legközelebbi megállót.",
                 "ro": "Așteptați în autobuz stația cea mai apropiată de parc.",
-                "en": "Wait on the bus for the stop closest to the park."
+                "en": "Wait on the bus for the stop closest to the park.",
+                "pl": "Czekaj w autobusie na przystanek najbliżej parku."
               }
             }
           ],
@@ -1971,6 +2142,13 @@
               "Buses can get quite humid inside during rainy weather.",
               "Larger stations often have small kiosks for shelter.",
               "Expect slight delays in city traffic during heavy downpours."
+            ],
+            "pl": [
+              "Użyj aplikacji 'Jakdojade' dla informacji o transporcie w czasie rzeczywistym.",
+              "Miej bilet pod ręką, żeby nie szukać go na deszczu.",
+              "W autobusach w deszczowe dni może być dość wilgotno.",
+              "Większe stacje często mają małe kioski zapewniające schronienie.",
+              "Spodziewaj się niewielkich opóźnień w ruchu miejskim podczas obfitych opadów."
             ]
           }
         },
@@ -1979,7 +2157,8 @@
             "de": "Warmer Start im Busbahnhof. Mittags nutzen Sie die beheizten Busse für den Weg zwischen den Kirchen. Die Museen am Nachmittag sind perfekte Aufwärmoasen. Abends Rückfahrt im geheizten Fahrzeug, achten Sie auf die rutschigen Stufen beim Ein- und Aussteigen.",
             "hu": "Meleg indulás a buszállomásról. Délben használja a fűtött buszokat a templomok közötti közlekedéshez. A délutáni múzeumlátogatás tökéletes melegedőpont. Este fűtött járművel utazhat vissza, ügyeljen a csúszós lépcsőkre.",
             "ro": "Pornire caldă de la autogară. La prânz, folosiți autobuzele încălzite între biserici. Muzeele de după-amiază sunt oaze perfecte de căldură. Seara, întoarcere într-un vehicul încălzit; atenție la treptele alunecoase.",
-            "en": "Warm start at the bus station. Midday, use the heated buses to travel between churches. Afternoon museum visits are perfect warming oases. Return in a heated vehicle in the evening; watch out for slippery steps."
+            "en": "Warm start at the bus station. Midday, use the heated buses to travel between churches. Afternoon museum visits are perfect warming oases. Return in a heated vehicle in the evening; watch out for slippery steps.",
+            "pl": "Ciepły początek na dworcu. W południe korzystaj z ogrzewanych autobusów, żeby przemieszczać się między kościołami. Popołudniowe wizyty w muzeach to świetne miejsca na rozgrzanie. Wracaj wieczorem ogrzewanym pojazdem; uważaj na śliskie schody."
           },
           "stops": [
             {
@@ -1988,7 +2167,8 @@
                 "de": "Der Wartesaal im Bahnhof bietet Schutz vor Frost.",
                 "hu": "Az állomás váróterme védelmet nyújt a fagy ellen.",
                 "ro": "Sala de așteptare din gară oferă protecție contra gerului.",
-                "en": "The station waiting room provides shelter from the frost."
+                "en": "The station waiting room provides shelter from the frost.",
+                "pl": "Poczekalnia na stacji daje schronienie przed przymrozkiem."
               }
             },
             {
@@ -1997,7 +2177,8 @@
                 "de": "Kurze Wege begrenzen die Zeit in der Kälte.",
                 "hu": "A rövid távolságok korlátozzák a hidegben töltött időt.",
                 "ro": "Distanțele scurte limitează timpul petrecut în frig.",
-                "en": "Short distances limit the time spent in the cold."
+                "en": "Short distances limit the time spent in the cold.",
+                "pl": "Krótkie odległości ograniczają czas spędzony na zimnie."
               }
             },
             {
@@ -2006,7 +2187,8 @@
                 "de": "Hinterlegen Sie schwere Wintermäntel an der Garderobe.",
                 "hu": "A nehéz télikabátokat hagyja a ruhatárban.",
                 "ro": "Lăsați hainele groase de iarnă la garderobă.",
-                "en": "Leave heavy winter coats at the cloakroom."
+                "en": "Leave heavy winter coats at the cloakroom.",
+                "pl": "Zostaw ciężkie zimowe płaszcze w szatni."
               }
             },
             {
@@ -2015,7 +2197,8 @@
                 "de": "Prüfen Sie den Winterfahrplan; manche Linien fahren seltener.",
                 "hu": "Ellenőrizze a téli menetrendet; egyes járatok ritkábbak.",
                 "ro": "Verificați mersul trenurilor de iarnă; unele rute sunt mai rare.",
-                "en": "Check the winter schedule; some lines may run less frequently."
+                "en": "Check the winter schedule; some lines may run less frequently.",
+                "pl": "Sprawdź zimowy rozkład; niektóre linie mogą kursować rzadziej."
               }
             },
             {
@@ -2024,7 +2207,8 @@
                 "de": "Genießen Sie die Wärme, bevor es zurück zur Haltestelle geht.",
                 "hu": "Élvezze a meleget, mielőtt visszatérne a megállóba.",
                 "ro": "Bucurați-vă de căldură înainte de a reveni în stație.",
-                "en": "Enjoy the warmth before heading back to the bus stop."
+                "en": "Enjoy the warmth before heading back to the bus stop.",
+                "pl": "Skorzystaj z ciepła zanim wrócisz na przystanek autobusowy."
               }
             },
             {
@@ -2033,7 +2217,8 @@
                 "de": "Warten Sie in einem Café, falls der Bus Verspätung hat.",
                 "hu": "Várjon egy kávézóban, ha késik a busz.",
                 "ro": "Așteptați într-o cafenea dacă autobuzul întârzie.",
-                "en": "Wait in a cafe if the bus happens to be delayed."
+                "en": "Wait in a cafe if the bus happens to be delayed.",
+                "pl": "Poczekaj w kawiarni, jeśli autobus się spóźnia."
               }
             }
           ],
@@ -2065,6 +2250,13 @@
               "Stops without shelters can be very draughty and cold.",
               "Heavy snowfall may cause traffic congestion and delays.",
               "Use waiting times to grab a quick warm snack nearby."
+            ],
+            "pl": [
+              "Autobusy zimą bywają silnie ogrzewane; ubieraj się na cebulkę.",
+              "Uważaj na błoto pośniegowe na stopniach autobusu, żeby nie poślizgnąć się.",
+              "Przystanki bez wiatrochronów mogą być bardzo przewiewne i zimne.",
+              "Obfite opady śniegu mogą powodować korki i opóźnienia.",
+              "Wykorzystaj czas oczekiwania na szybki, ciepły posiłek w pobliżu."
             ]
           }
         }
