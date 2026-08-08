@@ -301,7 +301,8 @@
         "de": "Wo liegt Sofia?",
         "hu": "Hol található Szófia?",
         "ro": "Unde se află Sofia?",
-        "en": "Where is Sofia?"
+        "en": "Where is Sofia?",
+        "bg": "Waar is Sofia?"
       },
       "targetPoiId": "city-sofia"
     },
@@ -312,7 +313,8 @@
         "de": "Finde Plowdiw auf der Karte.",
         "hu": "Keresd meg Plovdivot a térképen.",
         "ro": "Găsește Plovdiv pe hartă.",
-        "en": "Find Plovdiv on the map."
+        "en": "Find Plovdiv on the map.",
+        "bg": "Vind Plovdiv op de kaart."
       },
       "targetPoiId": "city-plovdiv"
     },
@@ -323,7 +325,8 @@
         "de": "Finde das Rila-Kloster.",
         "hu": "Keresd meg a Rilai kolostort.",
         "ro": "Găsește Mănăstirea Rila.",
-        "en": "Find Rila Monastery."
+        "en": "Find Rila Monastery.",
+        "bg": "Vind het Rila-klooster."
       },
       "targetPoiId": "cult-rila-monastery"
     },
@@ -334,7 +337,8 @@
         "de": "Wo liegt die Altstadt von Nessebar?",
         "hu": "Hol található Neszebár óvárosa?",
         "ro": "Unde se află orașul vechi Nessebar?",
-        "en": "Where is Nessebar Old Town?"
+        "en": "Where is Nessebar Old Town?",
+        "bg": "Waar ligt Nessebar-oude stad?"
       },
       "targetPoiId": "cult-nessebar"
     },
@@ -345,7 +349,8 @@
         "de": "Finde die Sieben Rila-Seen.",
         "hu": "Keresd meg a Hét Rilai-tavat.",
         "ro": "Găsește Cele Șapte Lacuri Rila.",
-        "en": "Find the Seven Rila Lakes."
+        "en": "Find the Seven Rila Lakes.",
+        "bg": "Vind de Zeven Rila-meren."
       },
       "targetPoiId": "nat-seven-rila"
     },
@@ -356,7 +361,8 @@
         "de": "Wo liegt Weliko Tarnowo?",
         "hu": "Hol található Veliko Tarnovo?",
         "ro": "Unde se află Veliko Târnovo?",
-        "en": "Where is Veliko Tarnovo?"
+        "en": "Where is Veliko Tarnovo?",
+        "bg": "Waar ligt Veliko Tarnovo?"
       },
       "targetPoiId": "city-veliko-tarnovo"
     },
@@ -367,7 +373,8 @@
         "de": "Welcher Ort liegt nicht an der Schwarzmeerküste?",
         "hu": "Melyik hely nem a Fekete-tenger partján található?",
         "ro": "Care loc nu se află pe litoralul Mării Negre?",
-        "en": "Which place is not on the Black Sea coast?"
+        "en": "Which place is not on the Black Sea coast?",
+        "bg": "Welke plaats ligt niet aan de Zwarte Zeekust?"
       },
       "poiIds": [
         "city-varna",
@@ -384,7 +391,8 @@
         "de": "Welcher Ort gehört nicht zu Bulgariens Berglandschaften?",
         "hu": "Melyik hely nem Bulgária hegyvidékeihez tartozik?",
         "ro": "Care loc nu aparține zonelor montane ale Bulgariei?",
-        "en": "Which place does not belong to Bulgaria's mountain landscapes?"
+        "en": "Which place does not belong to Bulgaria's mountain landscapes?",
+        "bg": "Welke plaats behoort niet tot de berglandschappen van Bulgarije?"
       },
       "poiIds": [
         "nat-rila",
@@ -401,7 +409,8 @@
         "de": "Klicke die Städte von West nach Ost an.",
         "hu": "Kattints a városokra nyugatról keletre.",
         "ro": "Apasă orașele de la vest la est.",
-        "en": "Click the cities from west to east."
+        "en": "Click the cities from west to east.",
+        "bg": "Klik de steden van west naar oost."
       },
       "poiIds": [
         "city-sofia",
@@ -421,7 +430,8 @@
         "de": "Klicke die Orte von Nord nach Süd an.",
         "hu": "Kattints a helyekre északról délre.",
         "ro": "Apasă locurile de la nord la sud.",
-        "en": "Click the places from north to south."
+        "en": "Click the places from north to south.",
+        "bg": "Klik de plaatsen van noord naar zuid."
       },
       "poiIds": [
         "bulgaria-pleven-cities-v2",
@@ -591,7 +601,8 @@
         "de": "Wo liegt Athen?",
         "hu": "Hol található Athén?",
         "ro": "Unde se află Atena?",
-        "en": "Where is Athens?"
+        "en": "Where is Athens?",
+        "gr": "Waar is Athene?"
       },
       "targetPoiId": "city-athens"
     },
@@ -602,7 +613,8 @@
         "de": "Finde Thessaloniki auf der Karte.",
         "hu": "Keresd meg Thesszalonikit a térképen.",
         "ro": "Găsește Salonic pe hartă.",
-        "en": "Find Thessaloniki on the map."
+        "en": "Find Thessaloniki on the map.",
+        "gr": "Vind Thessaloniki op de kaart."
       },
       "targetPoiId": "city-thessaloniki"
     },
@@ -613,7 +625,8 @@
         "de": "Finde die Meteora-Klöster.",
         "hu": "Keresd meg a Metéora-kolostorokat.",
         "ro": "Găsește mănăstirile Meteora.",
-        "en": "Find the Meteora monasteries."
+        "en": "Find the Meteora monasteries.",
+        "gr": "Vind de Meteora-kloosters."
       },
       "targetPoiId": "greece-meteora-history-v2"
     },
@@ -624,7 +637,8 @@
         "de": "Wo liegt das antike Orakel von Delphi?",
         "hu": "Hol található az ókori delphoi jósda?",
         "ro": "Unde se află oracolul antic din Delphi?",
-        "en": "Where is the ancient Oracle of Delphi?"
+        "en": "Where is the ancient Oracle of Delphi?",
+        "gr": "Waar ligt het oude orakel van Delphi?"
       },
       "targetPoiId": "greece-delphi-history-v2"
     },
@@ -635,7 +649,8 @@
         "de": "Finde das antike Olympia.",
         "hu": "Keresd meg az ókori Olümpiát.",
         "ro": "Găsește Olympia antică.",
-        "en": "Find ancient Olympia."
+        "en": "Find ancient Olympia.",
+        "gr": "Vind het oude Olympia."
       },
       "targetPoiId": "greece-olympia-history-v2"
     },
@@ -646,7 +661,8 @@
         "de": "Wo liegt die Stadt Rhodos?",
         "hu": "Hol található Rodosz városa?",
         "ro": "Unde se află orașul Rodos?",
-        "en": "Where is Rhodes Town?"
+        "en": "Where is Rhodes Town?",
+        "gr": "Waar ligt Rhodos-stad?"
       },
       "targetPoiId": "greece-rhodes-cities-v2"
     },
@@ -657,7 +673,8 @@
         "de": "Welche Stadt liegt nicht auf einer griechischen Insel?",
         "hu": "Melyik város nem egy görög szigeten található?",
         "ro": "Care oraș nu se află pe o insulă grecească?",
-        "en": "Which city is not on a Greek island?"
+        "en": "Which city is not on a Greek island?",
+        "gr": "Welke stad ligt niet op een Grieks eiland?"
       },
       "poiIds": [
         "greece-heraklion-cities-v2",
@@ -674,7 +691,8 @@
         "de": "Welcher Ort ist hier kein antikes Heiligtum oder Denkmal?",
         "hu": "Melyik hely nem ókori szentély vagy műemlék?",
         "ro": "Care loc nu este aici un sanctuar sau monument antic?",
-        "en": "Which place is not an ancient sanctuary or monument?"
+        "en": "Which place is not an ancient sanctuary or monument?",
+        "gr": "Welke plaats is geen oud heiligdom of monument?"
       },
       "poiIds": [
         "greece-delphi-history-v2",
@@ -691,7 +709,8 @@
         "de": "Klicke die Städte von Nord nach Süd an.",
         "hu": "Kattints a városokra északról délre.",
         "ro": "Apasă orașele de la nord la sud.",
-        "en": "Click the cities from north to south."
+        "en": "Click the cities from north to south.",
+        "gr": "Klik de steden van noord naar zuid."
       },
       "poiIds": [
         "city-thessaloniki",
@@ -711,7 +730,8 @@
         "de": "Klicke die Orte von West nach Ost an.",
         "hu": "Kattints a helyekre nyugatról keletre.",
         "ro": "Apasă locurile de la vest la est.",
-        "en": "Click the places from west to east."
+        "en": "Click the places from west to east.",
+        "gr": "Klik de plaatsen van west naar oost."
       },
       "poiIds": [
         "greece-corfu-town-cities-v2",

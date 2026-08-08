@@ -7,7 +7,8 @@
         "de": "Finde Trenčín an der Waag im Nordwesten der Slowakei.",
         "hu": "Keresd meg Trencsént a Vág mentén, Szlovákia északnyugati részén.",
         "ro": "Găsește Trenčín pe râul Váh, în nord-vestul Slovaciei.",
-        "en": "Find Trenčín on the Váh River in northwestern Slovakia."
+        "en": "Find Trenčín on the Váh River in northwestern Slovakia.",
+        "sk": "Vind Trenčín aan de rivier de Váh in het noordwesten van Slowakije."
       },
       "targetPoiId": "slovakia-trencin-cities-v2"
     },
@@ -18,7 +19,8 @@
         "de": "Wo liegt Komárno an der Donau direkt an der ungarischen Grenze?",
         "hu": "Hol található Komárom a Dunánál, közvetlenül a magyar határon?",
         "ro": "Unde se află Komárno pe Dunăre, chiar la granița cu Ungaria?",
-        "en": "Where is Komárno on the Danube right on the Hungarian border?"
+        "en": "Where is Komárno on the Danube right on the Hungarian border?",
+        "sk": "Waar ligt Komárno aan de Donau direct op de Hongaarse grens?"
       },
       "targetPoiId": "slovakia-komarno-cities-v2"
     },
@@ -29,7 +31,8 @@
         "de": "Finde Bardejov im Nordosten der Slowakei nahe Polen.",
         "hu": "Keresd meg Bártfát Szlovákia északkeleti részén, Lengyelország közelében.",
         "ro": "Găsește Bardejov în nord-estul Slovaciei, aproape de Polonia.",
-        "en": "Find Bardejov in northeastern Slovakia near Poland."
+        "en": "Find Bardejov in northeastern Slovakia near Poland.",
+        "sk": "Vind Bardejov in het noordoosten van Slowakije nabij Polen."
       },
       "targetPoiId": "slovakia-bardejov-cities-v2"
     },
@@ -40,7 +43,8 @@
         "de": "Klicke auf Levoča in der historischen Zips.",
         "hu": "Kattints Lőcsére a történelmi Szepességben.",
         "ro": "Apasă pe Levoča din regiunea istorică Spiš.",
-        "en": "Click on Levoča in the historic Spiš region."
+        "en": "Click on Levoča in the historic Spiš region.",
+        "sk": "Klik op Levoča in de historische regio Spiš."
       },
       "targetPoiId": "slovakia-levoca-cities-v2"
     },
@@ -51,7 +55,8 @@
         "de": "Finde Devín westlich von Bratislava am Zusammenfluss von Donau und March.",
         "hu": "Keresd meg Dévényt Pozsonytól nyugatra, a Duna és a Morva találkozásánál.",
         "ro": "Găsește Devín la vest de Bratislava, la confluența Dunării cu Morava.",
-        "en": "Find Devín west of Bratislava at the confluence of the Danube and Morava."
+        "en": "Find Devín west of Bratislava at the confluence of the Danube and Morava.",
+        "sk": "Vind Devín ten westen van Bratislava bij de samenloop van Donau en Morava."
       },
       "targetPoiId": "slovakia-devin-cities-v2"
     },
@@ -62,7 +67,8 @@
         "de": "Klicke auf den Prešovský kraj im Nordosten des Landes.",
         "hu": "Kattints az Eperjesi kerületre az ország északkeleti részén.",
         "ro": "Apasă pe regiunea Prešov din nord-estul țării.",
-        "en": "Click the Prešov Region in the northeast of the country."
+        "en": "Click the Prešov Region in the northeast of the country.",
+        "sk": "Klik de regio Prešov in het noordoosten van het land."
       },
       "targetRegionId": "SK-PV"
     },
@@ -73,7 +79,8 @@
         "de": "Finde den Trnavský kraj zwischen Bratislava und dem mittleren Westen der Slowakei.",
         "hu": "Keresd meg a Nagyszombati kerületet Pozsony mellett, Nyugat-Szlovákiában.",
         "ro": "Găsește regiunea Trnava, lângă Bratislava, în vestul Slovaciei.",
-        "en": "Find the Trnava Region next to Bratislava in western Slovakia."
+        "en": "Find the Trnava Region next to Bratislava in western Slovakia.",
+        "sk": "Vind de regio Trnava naast Bratislava in het westen van Slowakije."
       },
       "targetRegionId": "SK-TA"
     },
@@ -84,7 +91,8 @@
         "de": "Wo liegt der Trenčiansky kraj an der Grenze zu Tschechien?",
         "hu": "Hol található a Trencséni kerület a cseh határ mentén?",
         "ro": "Unde se află regiunea Trenčín, la granița cu Cehia?",
-        "en": "Where is the Trenčín Region on the border with Czechia?"
+        "en": "Where is the Trenčín Region on the border with Czechia?",
+        "sk": "Waar ligt de regio Trenčín aan de grens met Tsjechië?"
       },
       "targetRegionId": "SK-TC"
     },
@@ -95,7 +103,8 @@
         "de": "Klicke auf den Banskobystrický kraj im Zentrum und Süden der Slowakei.",
         "hu": "Kattints a Besztercebányai kerületre Szlovákia középső és déli részén.",
         "ro": "Apasă pe regiunea Banská Bystrica din centrul și sudul Slovaciei.",
-        "en": "Click the Banská Bystrica Region in central and southern Slovakia."
+        "en": "Click the Banská Bystrica Region in central and southern Slovakia.",
+        "sk": "Klik de regio Banská Bystrica in centraal en zuidelijk Slowakije."
       },
       "targetRegionId": "SK-BC"
     },
@@ -106,7 +115,8 @@
         "de": "Finde den Nitriansky kraj südlich der Mitte des Landes.",
         "hu": "Keresd meg a Nyitrai kerületet az ország középső részétől délre.",
         "ro": "Găsește regiunea Nitra, la sud de partea centrală a țării.",
-        "en": "Find the Nitra Region south of the country's center."
+        "en": "Find the Nitra Region south of the country's center.",
+        "sk": "Vind de regio Nitra ten zuiden van het midden van het land."
       },
       "targetRegionId": "SK-NI"
     },
@@ -117,7 +127,8 @@
         "de": "Welche dieser Städte liegt nicht im Trnavský kraj?",
         "hu": "Melyik város nem a Nagyszombati kerületben található?",
         "ro": "Care dintre aceste orașe nu se află în regiunea Trnava?",
-        "en": "Which of these cities is not in the Trnava Region?"
+        "en": "Which of these cities is not in the Trnava Region?",
+        "sk": "Welke van deze steden ligt niet in de regio Trnava?"
       },
       "poiIds": [
         "slovakia-trnava-cities-v2",
@@ -135,7 +146,8 @@
         "de": "Welche dieser Städte gehört nicht zum Nitriansky kraj?",
         "hu": "Melyik város nem a Nyitrai kerülethez tartozik?",
         "ro": "Care dintre aceste orașe nu aparține regiunii Nitra?",
-        "en": "Which of these cities is not part of the Nitra Region?"
+        "en": "Which of these cities is not part of the Nitra Region?",
+        "sk": "Welke van deze steden hoort niet bij de regio Nitra?"
       },
       "poiIds": [
         "slovakia-komarno-cities-v2",
@@ -153,7 +165,8 @@
         "de": "Welche dieser Städte liegt nicht im Prešovský kraj?",
         "hu": "Melyik város nem az Eperjesi kerületben fekszik?",
         "ro": "Care dintre aceste orașe nu se află în regiunea Prešov?",
-        "en": "Which of these cities is not in the Prešov Region?"
+        "en": "Which of these cities is not in the Prešov Region?",
+        "sk": "Welke van deze steden ligt niet in de regio Prešov?"
       },
       "poiIds": [
         "slovakia-presov-cities-v2",
@@ -171,7 +184,8 @@
         "de": "Welche dieser Städte liegt nicht im Košický kraj?",
         "hu": "Melyik város nem a Kassai kerületben található?",
         "ro": "Care dintre aceste orașe nu se află în regiunea Košice?",
-        "en": "Which of these cities is not in the Košice Region?"
+        "en": "Which of these cities is not in the Košice Region?",
+        "sk": "Welke van deze steden ligt niet in de regio Košice?"
       },
       "poiIds": [
         "slovakia-kosice-cities-v2",
@@ -189,7 +203,8 @@
         "de": "Welche dieser Orte liegt nicht an der Donau oder direkt an einem Donauarm?",
         "hu": "Melyik hely nem a Dunán vagy közvetlenül egy dunai ág mellett fekszik?",
         "ro": "Care dintre aceste locuri nu se află pe Dunăre sau direct lângă un braț al Dunării?",
-        "en": "Which of these places is not on the Danube or directly beside a Danube branch?"
+        "en": "Which of these places is not on the Danube or directly beside a Danube branch?",
+        "sk": "Welke van deze plaatsen ligt niet aan de Donau of direct naast een Donauvertakking?"
       },
       "poiIds": [
         "slovakia-bratislava-cities-v2",
@@ -207,7 +222,8 @@
         "de": "Klicke diese Orte von West nach Ost an: Devín, Bratislava, Trnava, Nitra.",
         "hu": "Kattints ezekre a helyekre nyugatról keletre: Dévény, Pozsony, Nagyszombat, Nyitra.",
         "ro": "Apasă aceste locuri de la vest la est: Devín, Bratislava, Trnava, Nitra.",
-        "en": "Click these places from west to east: Devín, Bratislava, Trnava, Nitra."
+        "en": "Click these places from west to east: Devín, Bratislava, Trnava, Nitra.",
+        "sk": "Klik deze plaatsen van west naar oost: Devín, Bratislava, Trnava, Nitra."
       },
       "poiIds": [
         "slovakia-devin-cities-v2",
@@ -229,7 +245,8 @@
         "de": "Klicke die Orte von Süd nach Nord an: Komárno, Nitra, Trenčín, Čadca.",
         "hu": "Kattints a helyekre délről északra: Komárom, Nyitra, Trencsén, Csadca.",
         "ro": "Apasă locurile de la sud la nord: Komárno, Nitra, Trenčín, Čadca.",
-        "en": "Click the places from south to north: Komárno, Nitra, Trenčín, Čadca."
+        "en": "Click the places from south to north: Komárno, Nitra, Trenčín, Čadca.",
+        "sk": "Klik de plaatsen van zuid naar noord: Komárno, Nitra, Trenčín, Čadca."
       },
       "poiIds": [
         "slovakia-komarno-cities-v2",
@@ -251,7 +268,8 @@
         "de": "Klicke die Städte von West nach Ost an: Skalica, Piešťany, Zvolen, Košice.",
         "hu": "Kattints a városokra nyugatról keletre: Szakolca, Pöstyén, Zólyom, Kassa.",
         "ro": "Apasă orașele de la vest la est: Skalica, Piešťany, Zvolen, Košice.",
-        "en": "Click the cities from west to east: Skalica, Piešťany, Zvolen, Košice."
+        "en": "Click the cities from west to east: Skalica, Piešťany, Zvolen, Košice.",
+        "sk": "Klik de steden van west naar oost: Skalica, Piešťany, Zvolen, Košice."
       },
       "poiIds": [
         "slovakia-skalica-cities-v2",
@@ -273,7 +291,8 @@
         "de": "Klicke diese Orte von Nord nach Süd an: Bardejov, Levoča, Rožňava, Lučenec.",
         "hu": "Kattints ezekre a helyekre északról délre: Bártfa, Lőcse, Rozsnyó, Losonc.",
         "ro": "Apasă aceste locuri de la nord la sud: Bardejov, Levoča, Rožňava, Lučenec.",
-        "en": "Click these places from north to south: Bardejov, Levoča, Rožňava, Lučenec."
+        "en": "Click these places from north to south: Bardejov, Levoča, Rožňava, Lučenec.",
+        "sk": "Klik deze plaatsen van noord naar zuid: Bardejov, Levoča, Rožňava, Lučenec."
       },
       "poiIds": [
         "slovakia-bardejov-cities-v2",
@@ -295,7 +314,8 @@
         "de": "Klicke diese Orte von West nach Ost an: Ružomberok, Liptovský Mikuláš, Spišská Nová Ves, Prešov.",
         "hu": "Kattints ezekre a helyekre nyugatról keletre: Rózsahegy, Liptószentmiklós, Igló, Eperjes.",
         "ro": "Apasă aceste locuri de la vest la est: Ružomberok, Liptovský Mikuláš, Spišská Nová Ves, Prešov.",
-        "en": "Click these places from west to east: Ružomberok, Liptovský Mikuláš, Spišská Nová Ves, Prešov."
+        "en": "Click these places from west to east: Ružomberok, Liptovský Mikuláš, Spišská Nová Ves, Prešov.",
+        "sk": "Klik deze plaatsen van west naar oost: Ružomberok, Liptovský Mikuláš, Spišská Nová Ves, Prešov."
       },
       "poiIds": [
         "slovakia-ruzomberok-cities-v2",

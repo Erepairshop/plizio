@@ -103,8 +103,18 @@
         "ro": "Apasă orașele de la vest la est.",
         "en": "Click the cities from west to east."
       },
-      "poiIds": ["AT-Bregenz", "AT-Innsbruck", "austria-salzburg-cities-v2", "AT-Graz"],
-      "orderedPoiIds": ["AT-Bregenz", "AT-Innsbruck", "austria-salzburg-cities-v2", "AT-Graz"]
+      "poiIds": [
+        "AT-Bregenz",
+        "AT-Innsbruck",
+        "austria-salzburg-cities-v2",
+        "AT-Graz"
+      ],
+      "orderedPoiIds": [
+        "AT-Bregenz",
+        "AT-Innsbruck",
+        "austria-salzburg-cities-v2",
+        "AT-Graz"
+      ]
     },
     {
       "id": "at-order-north-south",
@@ -115,8 +125,18 @@
         "ro": "Apasă Linz, Salzburg, Graz și Klagenfurt de la nord la sud.",
         "en": "Click Linz, Salzburg, Graz and Klagenfurt from north to south."
       },
-      "poiIds": ["AT-Linz", "austria-salzburg-cities-v2", "AT-Graz", "AT-Klagenfurt"],
-      "orderedPoiIds": ["AT-Linz", "austria-salzburg-cities-v2", "AT-Graz", "AT-Klagenfurt"]
+      "poiIds": [
+        "AT-Linz",
+        "austria-salzburg-cities-v2",
+        "AT-Graz",
+        "AT-Klagenfurt"
+      ],
+      "orderedPoiIds": [
+        "AT-Linz",
+        "austria-salzburg-cities-v2",
+        "AT-Graz",
+        "AT-Klagenfurt"
+      ]
     }
   ],
   "be": [
@@ -224,8 +244,18 @@
         "ro": "Apasă orașele de la vest la est.",
         "en": "Click the cities from west to east."
       },
-      "poiIds": ["belgium-bruges-cities-v2", "belgium-ghent-cities-v2", "city-brussels", "belgium-liege-cities-v2"],
-      "orderedPoiIds": ["belgium-bruges-cities-v2", "belgium-ghent-cities-v2", "city-brussels", "belgium-liege-cities-v2"]
+      "poiIds": [
+        "belgium-bruges-cities-v2",
+        "belgium-ghent-cities-v2",
+        "city-brussels",
+        "belgium-liege-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "belgium-bruges-cities-v2",
+        "belgium-ghent-cities-v2",
+        "city-brussels",
+        "belgium-liege-cities-v2"
+      ]
     },
     {
       "id": "be-order-north-south",
@@ -236,8 +266,18 @@
         "ro": "Apasă Anvers, Bruxelles, Namur și Charleroi de la nord la sud.",
         "en": "Click Antwerp, Brussels, Namur and Charleroi from north to south."
       },
-      "poiIds": ["belgium-antwerp-cities-v2", "city-brussels", "belgium-namur-cities-v2", "belgium-charleroi-cities-v2"],
-      "orderedPoiIds": ["belgium-antwerp-cities-v2", "city-brussels", "belgium-namur-cities-v2", "belgium-charleroi-cities-v2"]
+      "poiIds": [
+        "belgium-antwerp-cities-v2",
+        "city-brussels",
+        "belgium-namur-cities-v2",
+        "belgium-charleroi-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "belgium-antwerp-cities-v2",
+        "city-brussels",
+        "belgium-namur-cities-v2",
+        "belgium-charleroi-cities-v2"
+      ]
     }
   ],
   "nl": [
@@ -248,7 +288,8 @@
         "de": "Finde Rotterdam auf der Karte.",
         "hu": "Keresd meg Rotterdamot a térképen.",
         "ro": "Găsește Rotterdam pe hartă.",
-        "en": "Find Rotterdam on the map."
+        "en": "Find Rotterdam on the map.",
+        "nl": "Vind Rotterdam op de kaart."
       },
       "targetPoiId": "NL-CT-ROT"
     },
@@ -259,7 +300,8 @@
         "de": "Wo liegt Utrecht?",
         "hu": "Hol található Utrecht?",
         "ro": "Unde se află Utrecht?",
-        "en": "Where is Utrecht?"
+        "en": "Where is Utrecht?",
+        "nl": "Waar ligt Utrecht?"
       },
       "targetPoiId": "netherlands-utrecht-cities-v2"
     },
@@ -270,7 +312,8 @@
         "de": "Klicke auf Groningen im Norden.",
         "hu": "Kattints az északi Groningenre.",
         "ro": "Apasă pe Groningen, în nord.",
-        "en": "Click Groningen in the north."
+        "en": "Click Groningen in the north.",
+        "nl": "Klik Groningen in het noorden."
       },
       "targetPoiId": "netherlands-groningen-cities-v2"
     },
@@ -281,7 +324,8 @@
         "de": "Finde Maastricht im Süden der Niederlande.",
         "hu": "Keresd meg Maastrichtot Hollandia déli részén.",
         "ro": "Găsește Maastricht în sudul Țărilor de Jos.",
-        "en": "Find Maastricht in the south of the Netherlands."
+        "en": "Find Maastricht in the south of the Netherlands.",
+        "nl": "Vind Maastricht in het zuiden van Nederland."
       },
       "targetPoiId": "NL-CT-MAA"
     },
@@ -292,7 +336,8 @@
         "de": "Klicke auf die Provinz Friesland.",
         "hu": "Kattints Frízföld tartományra.",
         "ro": "Apasă pe provincia Frizia.",
-        "en": "Click the province of Friesland."
+        "en": "Click the province of Friesland.",
+        "nl": "Klik de provincie Friesland."
       },
       "targetRegionId": "NL-FR"
     },
@@ -303,7 +348,8 @@
         "de": "Wo liegt die Provinz Zeeland?",
         "hu": "Hol található Zeeland tartomány?",
         "ro": "Unde se află provincia Zeeland?",
-        "en": "Where is the province of Zeeland?"
+        "en": "Where is the province of Zeeland?",
+        "nl": "Waar ligt de provincie Zeeland?"
       },
       "targetRegionId": "NL-ZE"
     },
@@ -314,7 +360,8 @@
         "de": "Finde die Provinz Limburg.",
         "hu": "Keresd meg Limburg tartományt.",
         "ro": "Găsește provincia Limburg.",
-        "en": "Find the province of Limburg."
+        "en": "Find the province of Limburg.",
+        "nl": "Vind de provincie Limburg."
       },
       "targetRegionId": "NL-LI"
     },
@@ -325,9 +372,15 @@
         "de": "Welche dieser Städte liegt nicht in der Provinz Limburg?",
         "hu": "Melyik város nem Limburg tartományban található?",
         "ro": "Care dintre aceste orașe nu se află în provincia Limburg?",
-        "en": "Which of these cities is not in the province of Limburg?"
+        "en": "Which of these cities is not in the province of Limburg?",
+        "nl": "Welke van deze steden ligt niet in de provincie Limburg?"
       },
-      "poiIds": ["NL-CT-MAA", "netherlands-venlo-cities-v2", "netherlands-roermond-cities-v2", "NL-CT-EIN"],
+      "poiIds": [
+        "NL-CT-MAA",
+        "netherlands-venlo-cities-v2",
+        "netherlands-roermond-cities-v2",
+        "NL-CT-EIN"
+      ],
       "targetPoiId": "NL-CT-EIN"
     },
     {
@@ -337,10 +390,21 @@
         "de": "Klicke die Städte von Nord nach Süd an.",
         "hu": "Kattints a városokra északról délre haladva.",
         "ro": "Apasă orașele de la nord la sud.",
-        "en": "Click the cities from north to south."
+        "en": "Click the cities from north to south.",
+        "nl": "Klik de steden van noord naar zuid."
       },
-      "poiIds": ["netherlands-groningen-cities-v2", "netherlands-utrecht-cities-v2", "NL-CT-EIN", "NL-CT-MAA"],
-      "orderedPoiIds": ["netherlands-groningen-cities-v2", "netherlands-utrecht-cities-v2", "NL-CT-EIN", "NL-CT-MAA"]
+      "poiIds": [
+        "netherlands-groningen-cities-v2",
+        "netherlands-utrecht-cities-v2",
+        "NL-CT-EIN",
+        "NL-CT-MAA"
+      ],
+      "orderedPoiIds": [
+        "netherlands-groningen-cities-v2",
+        "netherlands-utrecht-cities-v2",
+        "NL-CT-EIN",
+        "NL-CT-MAA"
+      ]
     },
     {
       "id": "nl-order-west-east",
@@ -349,10 +413,21 @@
         "de": "Klicke Middelburg, Rotterdam, Arnhem und Groningen von West nach Ost an.",
         "hu": "Kattints Middelburgra, Rotterdamra, Arnhemre és Groningenre nyugatról keletre.",
         "ro": "Apasă Middelburg, Rotterdam, Arnhem și Groningen de la vest la est.",
-        "en": "Click Middelburg, Rotterdam, Arnhem and Groningen from west to east."
+        "en": "Click Middelburg, Rotterdam, Arnhem and Groningen from west to east.",
+        "nl": "Klik Middelburg, Rotterdam, Arnhem en Groningen van west naar oost."
       },
-      "poiIds": ["netherlands-middelburg-cities-v2", "NL-CT-ROT", "nl-arnhem", "netherlands-groningen-cities-v2"],
-      "orderedPoiIds": ["netherlands-middelburg-cities-v2", "NL-CT-ROT", "nl-arnhem", "netherlands-groningen-cities-v2"]
+      "poiIds": [
+        "netherlands-middelburg-cities-v2",
+        "NL-CT-ROT",
+        "nl-arnhem",
+        "netherlands-groningen-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "netherlands-middelburg-cities-v2",
+        "NL-CT-ROT",
+        "nl-arnhem",
+        "netherlands-groningen-cities-v2"
+      ]
     }
   ],
   "lu": [
@@ -482,8 +557,16 @@
         "ro": "Apasă Differdange, Luxemburg și Echternach de la vest la est.",
         "en": "Click Differdange, Luxembourg and Echternach from west to east."
       },
-      "poiIds": ["luxembourg-differdange-cities-v2", "lu-luxembourg-city", "luxembourg-echternach-cities-v2"],
-      "orderedPoiIds": ["luxembourg-differdange-cities-v2", "lu-luxembourg-city", "luxembourg-echternach-cities-v2"]
+      "poiIds": [
+        "luxembourg-differdange-cities-v2",
+        "lu-luxembourg-city",
+        "luxembourg-echternach-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "luxembourg-differdange-cities-v2",
+        "lu-luxembourg-city",
+        "luxembourg-echternach-cities-v2"
+      ]
     }
   ],
   "fr": [
@@ -573,7 +656,13 @@
         "ro": "Care dintre aceste orașe nu se află pe coasta Mediteranei?",
         "en": "Which of these cities is not on the Mediterranean coast?"
       },
-      "poiIds": ["marseille", "city-montpellier-extra", "nice", "france-ajaccio-cities-v2", "bordeaux"],
+      "poiIds": [
+        "marseille",
+        "city-montpellier-extra",
+        "nice",
+        "france-ajaccio-cities-v2",
+        "bordeaux"
+      ],
       "targetPoiId": "bordeaux"
     },
     {
@@ -585,8 +674,16 @@
         "ro": "Apasă Bordeaux, Lyon și Strasbourg de la vest la est.",
         "en": "Click Bordeaux, Lyon and Strasbourg from west to east."
       },
-      "poiIds": ["bordeaux", "lyon", "strasbourg"],
-      "orderedPoiIds": ["bordeaux", "lyon", "strasbourg"]
+      "poiIds": [
+        "bordeaux",
+        "lyon",
+        "strasbourg"
+      ],
+      "orderedPoiIds": [
+        "bordeaux",
+        "lyon",
+        "strasbourg"
+      ]
     },
     {
       "id": "fr-order-north-south",
@@ -597,8 +694,18 @@
         "ro": "Apasă Lille, Lyon, Marsilia și Ajaccio de la nord la sud.",
         "en": "Click Lille, Lyon, Marseille and Ajaccio from north to south."
       },
-      "poiIds": ["lille", "lyon", "marseille", "france-ajaccio-cities-v2"],
-      "orderedPoiIds": ["lille", "lyon", "marseille", "france-ajaccio-cities-v2"]
+      "poiIds": [
+        "lille",
+        "lyon",
+        "marseille",
+        "france-ajaccio-cities-v2"
+      ],
+      "orderedPoiIds": [
+        "lille",
+        "lyon",
+        "marseille",
+        "france-ajaccio-cities-v2"
+      ]
     }
   ]
 }

@@ -8,7 +8,8 @@
         "de": "Finde die Bojana-Kirche am Fuß des Witoscha-Gebirges.",
         "hu": "Keresd meg a Vitosa lábánál álló bojánai templomot.",
         "ro": "Găsește Biserica Boyana de la poalele muntelui Vitoșa.",
-        "en": "Find Boyana Church at the foot of Vitosha."
+        "en": "Find Boyana Church at the foot of Vitosha.",
+        "bg": "Vind de Boyana-kerk aan de voet van Vitosha."
       }
     },
     {
@@ -19,7 +20,8 @@
         "de": "Finde die Festung Zarewez in Weliko Tarnowo.",
         "hu": "Keresd meg a careveci erődöt Veliko Tarnovóban.",
         "ro": "Găsește Cetatea Țareveț din Veliko Târnovo.",
-        "en": "Find Tsarevets Fortress in Veliko Tarnovo."
+        "en": "Find Tsarevets Fortress in Veliko Tarnovo.",
+        "bg": "Vind het fort Tsarevets in Veliko Tarnovo."
       }
     },
     {
@@ -30,7 +32,8 @@
         "de": "Wo liegt die Festung Baba Vida an der Donau?",
         "hu": "Hol található a Duna menti Baba Vida erőd?",
         "ro": "Unde se află Cetatea Baba Vida de pe Dunăre?",
-        "en": "Where is Baba Vida Fortress on the Danube?"
+        "en": "Where is Baba Vida Fortress on the Danube?",
+        "bg": "Waar ligt het fort Baba Vida aan de Donau?"
       }
     },
     {
@@ -41,7 +44,8 @@
         "de": "Finde den Felsenrelief Madara-Reiter.",
         "hu": "Keresd meg a madarai lovas szikladomborművét.",
         "ro": "Găsește basorelieful Călărețul de la Madara.",
-        "en": "Find the Madara Rider rock relief."
+        "en": "Find the Madara Rider rock relief.",
+        "bg": "Vind de Madara-ruiter rotsreliëf."
       }
     },
     {
@@ -52,7 +56,8 @@
         "de": "Finde die antike Felsenstadt Perperikon.",
         "hu": "Keresd meg Perperikon ősi sziklavárosát.",
         "ro": "Găsește vechiul oraș rupestru Perperikon.",
-        "en": "Find the ancient rock city of Perperikon."
+        "en": "Find the ancient rock city of Perperikon.",
+        "bg": "Vind de oude rotsstad Perperikon."
       }
     },
     {
@@ -63,7 +68,8 @@
         "de": "Finde den Srebarna-See nahe der Donau.",
         "hu": "Keresd meg a Duna közelében fekvő Srebarna-tavat.",
         "ro": "Găsește Lacul Srebarna de lângă Dunăre.",
-        "en": "Find Srebarna Lake near the Danube."
+        "en": "Find Srebarna Lake near the Danube.",
+        "bg": "Vind het Srebarna-meer nabij de Donau."
       }
     },
     {
@@ -74,7 +80,8 @@
         "de": "Klicke auf die Region Varna an der Nordküste des Schwarzen Meeres.",
         "hu": "Kattints a Fekete-tenger északi partján fekvő Várna régióra.",
         "ro": "Apasă pe regiunea Varna de pe coasta nordică a Mării Negre.",
-        "en": "Click the Varna region on the northern Black Sea coast."
+        "en": "Click the Varna region on the northern Black Sea coast.",
+        "bg": "Klik de regio Varna aan de noordelijke Zwarte Zeekust."
       }
     },
     {
@@ -85,7 +92,8 @@
         "de": "Finde die Region Blagoewgrad im Südwesten Bulgariens.",
         "hu": "Keresd meg Bulgária délnyugati részén Blagoevgrad régióját.",
         "ro": "Găsește regiunea Blagoevgrad din sud-vestul Bulgariei.",
-        "en": "Find the Blagoevgrad region in southwestern Bulgaria."
+        "en": "Find the Blagoevgrad region in southwestern Bulgaria.",
+        "bg": "Vind de regio Blagoevgrad in het zuidwesten van Bulgarije."
       }
     },
     {
@@ -96,7 +104,8 @@
         "de": "Klicke auf die Region Widin am nordwestlichen Donauufer.",
         "hu": "Kattints az északnyugati Duna-parton fekvő Vidin régióra.",
         "ro": "Apasă pe regiunea Vidin de pe malul dunărean din nord-vest.",
-        "en": "Click the Vidin region on the northwestern Danube."
+        "en": "Click the Vidin region on the northwestern Danube.",
+        "bg": "Klik de regio Vidin aan de noordwestelijke Donau."
       }
     },
     {
@@ -107,7 +116,8 @@
         "de": "Finde die Region Smoljan tief im Rhodopengebirge.",
         "hu": "Keresd meg a Rodopok mélyén fekvő Szmoljan régiót.",
         "ro": "Găsește regiunea Smolian din inima Munților Rodopi.",
-        "en": "Find the Smolyan region deep in the Rhodope Mountains."
+        "en": "Find the Smolyan region deep in the Rhodope Mountains.",
+        "bg": "Vind de regio Smoljan diep in het Rodopegebergte."
       }
     },
     {
@@ -124,7 +134,8 @@
         "de": "Welche Stadt liegt nicht an der Donau?",
         "hu": "Melyik város nem a Duna mentén fekszik?",
         "ro": "Care oraș nu se află pe Dunăre?",
-        "en": "Which city is not on the Danube?"
+        "en": "Which city is not on the Danube?",
+        "bg": "Welke stad ligt niet aan de Donau?"
       }
     },
     {
@@ -141,7 +152,8 @@
         "de": "Welcher Ort liegt nicht an der Schwarzmeerküste?",
         "hu": "Melyik hely nem a Fekete-tenger partján található?",
         "ro": "Care loc nu se află pe litoralul Mării Negre?",
-        "en": "Which place is not on the Black Sea coast?"
+        "en": "Which place is not on the Black Sea coast?",
+        "bg": "Welke plaats ligt niet aan de Zwarte Zeekust?"
       }
     },
     {
@@ -158,7 +170,8 @@
         "de": "Welcher Ort gehört nicht zum südlichen Rhodopenraum?",
         "hu": "Melyik hely nem a déli rodopéi térséghez tartozik?",
         "ro": "Care loc nu aparține zonei sudice a Rodopilor?",
-        "en": "Which place does not belong to the southern Rhodope area?"
+        "en": "Which place does not belong to the southern Rhodope area?",
+        "bg": "Welke plaats behoort niet tot het zuidelijke Rhodopengebied?"
       }
     },
     {
@@ -175,7 +188,8 @@
         "de": "Welcher Ort ist keine Festung oder befestigte Burganlage?",
         "hu": "Melyik hely nem erőd vagy megerősített vár?",
         "ro": "Care loc nu este o cetate sau o fortificație?",
-        "en": "Which place is not a fortress or fortified site?"
+        "en": "Which place is not a fortress or fortified site?",
+        "bg": "Welke plaats is geen fort of versterkte locatie?"
       }
     },
     {
@@ -197,7 +211,8 @@
         "de": "Klicke die Städte von West nach Ost an.",
         "hu": "Kattints a városokra nyugatról keletre.",
         "ro": "Apasă orașele de la vest la est.",
-        "en": "Click the cities from west to east."
+        "en": "Click the cities from west to east.",
+        "bg": "Klik de steden van west naar oost."
       }
     },
     {
@@ -221,7 +236,8 @@
         "de": "Klicke diese Küstenorte von Nord nach Süd an.",
         "hu": "Kattints ezekre a tengerparti helyekre északról délre.",
         "ro": "Apasă aceste locuri de pe coastă de la nord la sud.",
-        "en": "Click these coastal places from north to south."
+        "en": "Click these coastal places from north to south.",
+        "bg": "Klik deze kustplaatsen van noord naar zuid."
       }
     },
     {
@@ -243,7 +259,8 @@
         "de": "Klicke die Orte im Osten Bulgariens von Nord nach Süd an.",
         "hu": "Kattints a kelet-bulgáriai helyekre északról délre.",
         "ro": "Apasă locurile din estul Bulgariei de la nord la sud.",
-        "en": "Click the places in eastern Bulgaria from north to south."
+        "en": "Click the places in eastern Bulgaria from north to south.",
+        "bg": "Klik de plaatsen in oostelijk Bulgarije van noord naar zuid."
       }
     },
     {
@@ -265,7 +282,8 @@
         "de": "Klicke diese Bergorte von West nach Ost an.",
         "hu": "Kattints ezekre a hegyi helyekre nyugatról keletre.",
         "ro": "Apasă aceste locuri montane de la vest la est.",
-        "en": "Click these mountain places from west to east."
+        "en": "Click these mountain places from west to east.",
+        "bg": "Klik deze bergplaatsen van west naar oost."
       }
     },
     {
@@ -285,7 +303,8 @@
         "de": "Klicke die Gipfel von Nord nach Süd an.",
         "hu": "Kattints a csúcsokra északról délre.",
         "ro": "Apasă vârfurile de la nord la sud.",
-        "en": "Click the peaks from north to south."
+        "en": "Click the peaks from north to south.",
+        "bg": "Klik de bergtoppen van noord naar zuid."
       }
     },
     {
@@ -307,7 +326,8 @@
         "de": "Klicke die historischen Orte von West nach Ost an.",
         "hu": "Kattints a történelmi helyekre nyugatról keletre.",
         "ro": "Apasă locurile istorice de la vest la est.",
-        "en": "Click the historic places from west to east."
+        "en": "Click the historic places from west to east.",
+        "bg": "Klik de historische plaatsen van west naar oost."
       }
     }
   ]

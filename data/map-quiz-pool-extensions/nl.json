@@ -7,7 +7,8 @@
         "de": "Finde Amsterdam, die Hauptstadt der Niederlande.",
         "hu": "Keresd meg Amszterdamot, Hollandia fovarosat.",
         "ro": "Gaseste Amsterdam, capitala Tarilor de Jos.",
-        "en": "Find Amsterdam, the capital of the Netherlands."
+        "en": "Find Amsterdam, the capital of the Netherlands.",
+        "nl": "Vind Amsterdam, de hoofdstad van Nederland."
       },
       "targetPoiId": "NL-CT-AMS"
     },
@@ -18,7 +19,8 @@
         "de": "Wo liegt Den Haag an der Nordseekueste?",
         "hu": "Hol talalhato Haga az Eszaki-tenger partjan?",
         "ro": "Unde se afla Haga pe coasta Marii Nordului?",
-        "en": "Where is The Hague on the North Sea coast?"
+        "en": "Where is The Hague on the North Sea coast?",
+        "nl": "Waar ligt Den Haag aan de Noordzeekust?"
       },
       "targetPoiId": "NL-CT-HAA"
     },
@@ -29,7 +31,8 @@
         "de": "Klicke auf Leeuwarden, die Hauptstadt von Friesland.",
         "hu": "Kattints Leeuwardenre, Friesland fovarosara.",
         "ro": "Apasa pe Leeuwarden, capitala Friziei.",
-        "en": "Click Leeuwarden, the capital of Friesland."
+        "en": "Click Leeuwarden, the capital of Friesland.",
+        "nl": "Klik Leeuwarden, de hoofdstad van Friesland."
       },
       "targetPoiId": "netherlands-leeuwarden-cities-v2"
     },
@@ -40,7 +43,8 @@
         "de": "Finde Eindhoven im Sueden der Niederlande.",
         "hu": "Keresd meg Eindhovent Hollandia deli reszen.",
         "ro": "Gaseste Eindhoven in sudul Tarilor de Jos.",
-        "en": "Find Eindhoven in the south of the Netherlands."
+        "en": "Find Eindhoven in the south of the Netherlands.",
+        "nl": "Vind Eindhoven in het zuiden van Nederland."
       },
       "targetPoiId": "NL-CT-EIN"
     },
@@ -51,7 +55,8 @@
         "de": "Wo liegt Arnhem in Gelderland?",
         "hu": "Hol talalhato Arnhem Gelderland tartomanyban?",
         "ro": "Unde se afla Arnhem in Gelderland?",
-        "en": "Where is Arnhem in Gelderland?"
+        "en": "Where is Arnhem in Gelderland?",
+        "nl": "Waar ligt Arnhem in Gelderland?"
       },
       "targetPoiId": "nl-arnhem"
     },
@@ -62,7 +67,8 @@
         "de": "Finde den Domturm in Utrecht.",
         "hu": "Keresd meg az utrechti Dom tornyot.",
         "ro": "Gaseste Turnul Dom din Utrecht.",
-        "en": "Find the Dom Tower in Utrecht."
+        "en": "Find the Dom Tower in Utrecht.",
+        "nl": "Vind de Domtoren in Utrecht."
       },
       "targetPoiId": "netherlands-dom-tower-utrecht-landmarks-v2"
     },
@@ -73,7 +79,8 @@
         "de": "Klicke auf Paleis Het Loo bei Apeldoorn.",
         "hu": "Kattints a Paleis Het Loora Apeldoorn mellett.",
         "ro": "Apasa pe Palatul Het Loo de langa Apeldoorn.",
-        "en": "Click Paleis Het Loo near Apeldoorn."
+        "en": "Click Paleis Het Loo near Apeldoorn.",
+        "nl": "Klik Paleis Het Loo nabij Apeldoorn."
       },
       "targetPoiId": "netherlands-het-loo-palace-apeldoorn-landmarks-v2"
     },
@@ -84,7 +91,8 @@
         "de": "Finde die Markthal in Rotterdam.",
         "hu": "Keresd meg a rotterdami Markthalt.",
         "ro": "Gaseste Markthal din Rotterdam.",
-        "en": "Find the Markthal in Rotterdam."
+        "en": "Find the Markthal in Rotterdam.",
+        "nl": "Vind de Markthal in Rotterdam."
       },
       "targetPoiId": "netherlands-markthal-rotterdam-landmarks-v2"
     },
@@ -95,7 +103,8 @@
         "de": "Klicke auf die Provinz Flevoland.",
         "hu": "Kattints Flevoland tartomanyra.",
         "ro": "Apasa pe provincia Flevoland.",
-        "en": "Click the province of Flevoland."
+        "en": "Click the province of Flevoland.",
+        "nl": "Klik de provincie Flevoland."
       },
       "targetRegionId": "NL-FL"
     },
@@ -106,7 +115,8 @@
         "de": "Wo liegt die Provinz Nordholland?",
         "hu": "Hol talalhato Eszak-Holland tartomany?",
         "ro": "Unde se afla provincia Olanda de Nord?",
-        "en": "Where is the province of North Holland?"
+        "en": "Where is the province of North Holland?",
+        "nl": "Waar ligt de provincie Noord-Holland?"
       },
       "targetRegionId": "NL-NH"
     },
@@ -117,7 +127,8 @@
         "de": "Finde die Provinz Suedholland.",
         "hu": "Keresd meg Del-Holland tartomanyt.",
         "ro": "Gaseste provincia Olanda de Sud.",
-        "en": "Find the province of South Holland."
+        "en": "Find the province of South Holland.",
+        "nl": "Vind de provincie Zuid-Holland."
       },
       "targetRegionId": "NL-ZH"
     },
@@ -128,7 +139,8 @@
         "de": "Klicke auf die Provinz Overijssel im Osten des Landes.",
         "hu": "Kattints az orszag keleti reszen levo Overijssel tartomanyra.",
         "ro": "Apasa pe provincia Overijssel din estul tarii.",
-        "en": "Click the province of Overijssel in the east of the country."
+        "en": "Click the province of Overijssel in the east of the country.",
+        "nl": "Klik de provincie Overijssel in het oosten van het land."
       },
       "targetRegionId": "NL-OV"
     },
@@ -139,7 +151,8 @@
         "de": "Wo liegt die Provinz Nordbrabant?",
         "hu": "Hol talalhato Eszak-Brabant tartomany?",
         "ro": "Unde se afla provincia Brabantul de Nord?",
-        "en": "Where is the province of North Brabant?"
+        "en": "Where is the province of North Brabant?",
+        "nl": "Waar ligt de provincie Noord-Brabant?"
       },
       "targetRegionId": "NL-NB"
     },
@@ -150,7 +163,8 @@
         "de": "Welche dieser Staedte liegt in Nordholland und nicht in Suedholland?",
         "hu": "E varosok kozul melyik fekszik Eszak-Hollandban, es nem Del-Hollandban?",
         "ro": "Care dintre aceste orase se afla in Olanda de Nord, nu in Olanda de Sud?",
-        "en": "Which of these cities is in North Holland rather than South Holland?"
+        "en": "Which of these cities is in North Holland rather than South Holland?",
+        "nl": "Welke van deze steden ligt in Noord-Holland in plaats van Zuid-Holland?"
       },
       "poiIds": [
         "NL-CT-AMS",
@@ -167,7 +181,8 @@
         "de": "Welche dieser Staedte liegt nicht in Gelderland?",
         "hu": "Melyik varos nem Gelderland tartomanyban talalhato?",
         "ro": "Care dintre aceste orase nu se afla in Gelderland?",
-        "en": "Which of these cities is not in Gelderland?"
+        "en": "Which of these cities is not in Gelderland?",
+        "nl": "Welke van deze steden ligt niet in Gelderland?"
       },
       "poiIds": [
         "nl-arnhem",
@@ -184,7 +199,8 @@
         "de": "Welcher dieser Orte ist ein Wahrzeichen in Utrecht und keine Stadt?",
         "hu": "E helyek kozul melyik egy utrechti nevezetesseg, es nem varos?",
         "ro": "Care dintre aceste locuri este un reper din Utrecht si nu un oras?",
-        "en": "Which of these places is a landmark in Utrecht rather than a city?"
+        "en": "Which of these places is a landmark in Utrecht rather than a city?",
+        "nl": "Welke van deze plaatsen is een bezienswaardigheid in Utrecht in plaats van een stad?"
       },
       "poiIds": [
         "netherlands-dom-tower-utrecht-landmarks-v2",
@@ -201,7 +217,8 @@
         "de": "Welcher dieser Haefen liegt in Friesland und nicht in Nordholland oder Zeeland?",
         "hu": "E kikotok kozul melyik fekszik Frieslandban, es nem Eszak-Hollandban vagy Zeelandban?",
         "ro": "Care dintre aceste porturi se afla in Frizia, nu in Olanda de Nord sau Zeeland?",
-        "en": "Which of these ports is in Friesland rather than North Holland or Zeeland?"
+        "en": "Which of these ports is in Friesland rather than North Holland or Zeeland?",
+        "nl": "Welke van deze havens ligt in Friesland in plaats van Noord-Holland of Zeeland?"
       },
       "poiIds": [
         "netherlands-port-harlingen-economic-v2",
@@ -218,7 +235,8 @@
         "de": "Klicke Alkmaar, Amsterdam, Utrecht, Apeldoorn und Enschede von West nach Ost an.",
         "hu": "Kattints Alkmaarra, Amszterdamra, Utrechtre, Apeldoornra es Enschedera nyugatrol keletre.",
         "ro": "Apasa pe Alkmaar, Amsterdam, Utrecht, Apeldoorn si Enschede de la vest la est.",
-        "en": "Click Alkmaar, Amsterdam, Utrecht, Apeldoorn, and Enschede from west to east."
+        "en": "Click Alkmaar, Amsterdam, Utrecht, Apeldoorn, and Enschede from west to east.",
+        "nl": "Klik Alkmaar, Amsterdam, Utrecht, Apeldoorn en Enschede van west naar oost."
       },
       "poiIds": [
         "nl-alkmaar",
@@ -242,7 +260,8 @@
         "de": "Klicke Leeuwarden, Zwolle, Arnhem, Eindhoven und Maastricht von Nord nach Sued an.",
         "hu": "Kattints Leeuwardenre, Zwolle-ra, Arnhemre, Eindhovenre es Maastrichtre eszakrol delre.",
         "ro": "Apasa pe Leeuwarden, Zwolle, Arnhem, Eindhoven si Maastricht de la nord la sud.",
-        "en": "Click Leeuwarden, Zwolle, Arnhem, Eindhoven, and Maastricht from north to south."
+        "en": "Click Leeuwarden, Zwolle, Arnhem, Eindhoven, and Maastricht from north to south.",
+        "nl": "Klik Leeuwarden, Zwolle, Arnhem, Eindhoven en Maastricht van noord naar zuid."
       },
       "poiIds": [
         "netherlands-leeuwarden-cities-v2",
@@ -266,7 +285,8 @@
         "de": "Klicke Terneuzen, Vlissingen, Den Haag, Haarlem und Den Helder von Sued nach Nord an.",
         "hu": "Kattints Terneuzenre, Vlissingenre, Hagara, Haarlemre es Den Helderre delrol eszakra.",
         "ro": "Apasa pe Terneuzen, Vlissingen, Haga, Haarlem si Den Helder de la sud la nord.",
-        "en": "Click Terneuzen, Vlissingen, The Hague, Haarlem, and Den Helder from south to north."
+        "en": "Click Terneuzen, Vlissingen, The Hague, Haarlem, and Den Helder from south to north.",
+        "nl": "Klik Terneuzen, Vlissingen, Den Haag, Haarlem en Den Helder van zuid naar noord."
       },
       "poiIds": [
         "netherlands-terneuzen-cities-v2",

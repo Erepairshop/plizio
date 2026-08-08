@@ -8,7 +8,8 @@
         "de": "Finde den Dom zu Uppsala nördlich von Stockholm.",
         "hu": "Keresd meg az uppsalai székesegyházat Stockholmtól északra.",
         "ro": "Găsește Catedrala din Uppsala la nord de Stockholm.",
-        "en": "Find Uppsala Cathedral north of Stockholm."
+        "en": "Find Uppsala Cathedral north of Stockholm.",
+        "se": "Vind de kathedraal van Uppsala ten noorden van Stockholm."
       }
     },
     {
@@ -19,7 +20,8 @@
         "de": "Klicke auf die Öresundbrücke zwischen Malmö und Dänemark.",
         "hu": "Kattints az Öresund hídra Malmö és Dánia között.",
         "ro": "Apasă pe Podul Öresund dintre Malmö și Danemarca.",
-        "en": "Click the Öresund Bridge between Malmö and Denmark."
+        "en": "Click the Öresund Bridge between Malmö and Denmark.",
+        "se": "Klik de Öresundbrug tussen Malmö en Denemarken."
       }
     },
     {
@@ -30,7 +32,8 @@
         "de": "Finde den Abisko-Nationalpark im hohen Nordwesten Schwedens.",
         "hu": "Keresd meg az Abisko Nemzeti Parkot Svédország távoli északnyugati részén.",
         "ro": "Găsește Parcul Național Abisko în extremul nord-vest al Suediei.",
-        "en": "Find Abisko National Park in far northwestern Sweden."
+        "en": "Find Abisko National Park in far northwestern Sweden.",
+        "se": "Vind Nationaal Park Abisko in het uiterste noordwesten van Zweden."
       }
     },
     {
@@ -41,7 +44,8 @@
         "de": "Finde das Schloss Kalmar an der Ostseeküste im Südosten.",
         "hu": "Keresd meg a kalmari várat a délkeleti Balti-tenger partján.",
         "ro": "Găsește Castelul Kalmar pe coasta baltică din sud-est.",
-        "en": "Find Kalmar Castle on the Baltic coast in the southeast."
+        "en": "Find Kalmar Castle on the Baltic coast in the southeast.",
+        "se": "Vind Kalmar Slot aan de Baltische kust in het zuidoosten."
       }
     },
     {
@@ -52,7 +56,8 @@
         "de": "Klicke auf das Icehotel in Jukkasjärvi bei Kiruna.",
         "hu": "Kattints a jukkasjärvi Icehotelre Kiruna közelében.",
         "ro": "Apasă pe Icehotel din Jukkasjärvi, lângă Kiruna.",
-        "en": "Click the Icehotel in Jukkasjärvi near Kiruna."
+        "en": "Click the Icehotel in Jukkasjärvi near Kiruna.",
+        "se": "Klik het Icehotel in Jukkasjärvi nabij Kiruna."
       }
     },
     {
@@ -63,7 +68,8 @@
         "de": "Klicke auf Västra Götaland an der schwedischen Westküste.",
         "hu": "Kattints Västra Götaland megyére Svédország nyugati partján.",
         "ro": "Apasă pe Västra Götaland de pe coasta de vest a Suediei.",
-        "en": "Click Västra Götaland on Sweden's west coast."
+        "en": "Click Västra Götaland on Sweden's west coast.",
+        "se": "Klik Västra Götaland aan de westkust van Zweden."
       }
     },
     {
@@ -74,7 +80,8 @@
         "de": "Finde die Inselregion Gotland in der Ostsee.",
         "hu": "Keresd meg Gotland szigetmegyét a Balti-tengerben.",
         "ro": "Găsește regiunea insulară Gotland din Marea Baltică.",
-        "en": "Find the island region of Gotland in the Baltic Sea."
+        "en": "Find the island region of Gotland in the Baltic Sea.",
+        "se": "Vind het eilandengebied Gotland in de Oostzee."
       }
     },
     {
@@ -85,7 +92,8 @@
         "de": "Klicke auf Uppsala län nördlich von Stockholm.",
         "hu": "Kattints Uppsala megyére Stockholmtól északra.",
         "ro": "Apasă pe comitatul Uppsala la nord de Stockholm.",
-        "en": "Click Uppsala County north of Stockholm."
+        "en": "Click Uppsala County north of Stockholm.",
+        "se": "Klik Uppsala län ten noorden van Stockholm."
       }
     },
     {
@@ -96,7 +104,8 @@
         "de": "Finde Jämtland im mittleren Westen an der Grenze zu Norwegen.",
         "hu": "Keresd meg Jämtlandot a középső nyugati részen, a norvég határnál.",
         "ro": "Găsește Jämtland în vestul central, la granița cu Norvegia.",
-        "en": "Find Jämtland in the central west on the Norwegian border."
+        "en": "Find Jämtland in the central west on the Norwegian border.",
+        "se": "Vind Jämtland in het centrale westen aan de Noorse grens."
       }
     },
     {
@@ -107,7 +116,8 @@
         "de": "Klicke auf Kalmar län an der Südostküste gegenüber von Öland.",
         "hu": "Kattints Kalmar megyére a délkeleti parton, Ölanddal szemben.",
         "ro": "Apasă pe comitatul Kalmar de pe coasta sud-estică, vizavi de Öland.",
-        "en": "Click Kalmar County on the southeast coast opposite Öland."
+        "en": "Click Kalmar County on the southeast coast opposite Öland.",
+        "se": "Klik Kalmar län aan de zuidoostkust tegenover Öland."
       }
     },
     {
@@ -124,7 +134,8 @@
         "de": "Welche dieser Städte liegt an der Westküste?",
         "hu": "Melyik város fekszik a nyugati parton?",
         "ro": "Care dintre aceste orașe se află pe coasta de vest?",
-        "en": "Which of these cities lies on the west coast?"
+        "en": "Which of these cities lies on the west coast?",
+        "se": "Welke van deze steden ligt aan de westkust?"
       }
     },
     {
@@ -141,7 +152,8 @@
         "de": "Welcher dieser Orte liegt auf der Insel Öland?",
         "hu": "E helyek közül melyik található Öland szigetén?",
         "ro": "Care dintre aceste locuri se află pe insula Öland?",
-        "en": "Which of these places is on the island of Öland?"
+        "en": "Which of these places is on the island of Öland?",
+        "se": "Welke van deze plaatsen ligt op het eiland Öland?"
       }
     },
     {
@@ -158,7 +170,8 @@
         "de": "Welche dieser Städte liegt in Stockholms län?",
         "hu": "Melyik város található Stockholm megyében?",
         "ro": "Care dintre aceste orașe se află în comitatul Stockholm?",
-        "en": "Which of these towns is in Stockholm County?"
+        "en": "Which of these towns is in Stockholm County?",
+        "se": "Welke van deze steden hoort bij Stockholms län?"
       }
     },
     {
@@ -175,7 +188,8 @@
         "de": "Welcher dieser Orte liegt nördlich des Polarkreises?",
         "hu": "E helyek közül melyik fekszik az északi sarkkörtől északra?",
         "ro": "Care dintre aceste locuri se află la nord de Cercul Polar?",
-        "en": "Which of these places lies north of the Arctic Circle?"
+        "en": "Which of these places lies north of the Arctic Circle?",
+        "se": "Welke van deze plaatsen ligt ten noorden van de poolcirkel?"
       }
     },
     {
@@ -192,7 +206,8 @@
         "de": "Welcher dieser Orte liegt im äußersten Norden Schwedens bei Kiruna?",
         "hu": "E helyek közül melyik fekszik Svédország legészakibb részén, Kiruna közelében?",
         "ro": "Care dintre aceste locuri se află în extremul nord al Suediei, lângă Kiruna?",
-        "en": "Which of these places lies in far northern Sweden near Kiruna?"
+        "en": "Which of these places lies in far northern Sweden near Kiruna?",
+        "se": "Welke van deze plaatsen ligt in het uiterste noorden van Zweden in de buurt van Kiruna?"
       }
     },
     {
@@ -212,7 +227,8 @@
         "de": "Klicke Helsingborg, Malmö und Ystad von Westen nach Osten an.",
         "hu": "Kattints Helsingborgra, Malmöre és Ystadra nyugatról keletre.",
         "ro": "Apasă pe Helsingborg, Malmö și Ystad de la vest la est.",
-        "en": "Click Helsingborg, Malmö and Ystad from west to east."
+        "en": "Click Helsingborg, Malmö and Ystad from west to east.",
+        "se": "Klik Helsingborg, Malmö en Ystad van west naar oost."
       }
     },
     {
@@ -234,7 +250,8 @@
         "de": "Klicke Luleå, Sundsvall, Stockholm und Kalmar von Norden nach Süden an.",
         "hu": "Kattints Luleåra, Sundsvallra, Stockholmra és Kalmarra északról délre.",
         "ro": "Apasă pe Luleå, Sundsvall, Stockholm și Kalmar de la nord la sud.",
-        "en": "Click Luleå, Sundsvall, Stockholm and Kalmar from north to south."
+        "en": "Click Luleå, Sundsvall, Stockholm and Kalmar from north to south.",
+        "se": "Klik Luleå, Sundsvall, Stockholm en Kalmar van noord naar zuid."
       }
     },
     {
@@ -254,7 +271,8 @@
         "de": "Klicke Jönköping, Örebro und Stockholm von Westen nach Osten an.",
         "hu": "Kattints Jönköpingre, Örebróra és Stockholmra nyugatról keletre.",
         "ro": "Apasă pe Jönköping, Örebro și Stockholm de la vest la est.",
-        "en": "Click Jönköping, Örebro and Stockholm from west to east."
+        "en": "Click Jönköping, Örebro and Stockholm from west to east.",
+        "se": "Klik Jönköping, Örebro en Stockholm van west naar oost."
       }
     },
     {
@@ -274,7 +292,8 @@
         "de": "Klicke Abisko, Kiruna und Luleå von Westen nach Osten an.",
         "hu": "Kattints Abiskóra, Kirunára és Luleåra nyugatról keletre.",
         "ro": "Apasă pe Abisko, Kiruna și Luleå de la vest la est.",
-        "en": "Click Abisko, Kiruna and Luleå from west to east."
+        "en": "Click Abisko, Kiruna and Luleå from west to east.",
+        "se": "Klik Abisko, Kiruna en Luleå van west naar oost."
       }
     },
     {
@@ -294,7 +313,8 @@
         "de": "Klicke das Stockholmer Rathaus, den Stockholmer Palast und Skansen von Westen nach Osten an.",
         "hu": "Kattints a stockholmi városházára, a stockholmi palotára és a Skansenre nyugatról keletre.",
         "ro": "Apasă pe Primăria din Stockholm, Palatul din Stockholm și Skansen de la vest la est.",
-        "en": "Click Stockholm City Hall, Stockholm Palace and Skansen from west to east."
+        "en": "Click Stockholm City Hall, Stockholm Palace and Skansen from west to east.",
+        "se": "Klik Stadshuset, Koninklijk Paleis en Skansen in Stockholm van west naar oost."
       }
     }
   ]

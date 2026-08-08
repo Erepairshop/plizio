@@ -7,7 +7,8 @@
         "de": "Finde Korfu-Stadt auf der Karte.",
         "hu": "Keresd meg Korfu városát a térképen.",
         "ro": "Găsește orașul Corfu pe hartă.",
-        "en": "Find Corfu Town on the map."
+        "en": "Find Corfu Town on the map.",
+        "gr": "Vind Korfoe-Stad op de kaart."
       },
       "targetPoiId": "greece-corfu-town-cities-v2"
     },
@@ -18,7 +19,8 @@
         "de": "Wo liegt Patras, der große Hafen im Westen?",
         "hu": "Hol található Pátra, a nagy nyugati kikötő?",
         "ro": "Unde se află Patras, marele port din vest?",
-        "en": "Where is Patras, the major western port?"
+        "en": "Where is Patras, the major western port?",
+        "gr": "Waar ligt Patras, de grote westelijke haven?"
       },
       "targetPoiId": "greece-patras-cities-v2"
     },
@@ -29,7 +31,8 @@
         "de": "Finde Ioannina am Pamvotida-See.",
         "hu": "Keresd meg Joáninát a Pamvótisz-tó mellett.",
         "ro": "Găsește Ioannina de lângă lacul Pamvotis.",
-        "en": "Find Ioannina by Lake Pamvotis."
+        "en": "Find Ioannina by Lake Pamvotis.",
+        "gr": "Vind Ioannina bij het Meer Pamvotis."
       },
       "targetPoiId": "greece-ioannina-cities-v2"
     },
@@ -40,7 +43,8 @@
         "de": "Finde den Palast von Knossos auf Kreta.",
         "hu": "Keresd meg a knósszoszi palotát Krétán.",
         "ro": "Găsește Palatul din Knossos din Creta.",
-        "en": "Find the Palace of Knossos on Crete."
+        "en": "Find the Palace of Knossos on Crete.",
+        "gr": "Vind het paleis van Knossos op Kreta."
       },
       "targetPoiId": "greece-knossos-history-v2"
     },
@@ -51,7 +55,8 @@
         "de": "Wo liegt das Theater von Epidaurus?",
         "hu": "Hol található az epidauroszi színház?",
         "ro": "Unde se află Teatrul din Epidaur?",
-        "en": "Where is the Theater of Epidaurus?"
+        "en": "Where is the Theater of Epidaurus?",
+        "gr": "Waar ligt het Theater van Epidaurus?"
       },
       "targetPoiId": "greece-epidaurus-theater-history-v2"
     },
@@ -62,7 +67,8 @@
         "de": "Finde den Nationalpark Olymp.",
         "hu": "Keresd meg az Olümposz Nemzeti Parkot.",
         "ro": "Găsește Parcul Național Olimp.",
-        "en": "Find Mount Olympus National Park."
+        "en": "Find Mount Olympus National Park.",
+        "gr": "Vind Nationaal Park Olympusberg."
       },
       "targetPoiId": "greece-mount-olympus-national-park-life-v2"
     },
@@ -73,7 +79,8 @@
         "de": "Finde die Samaria-Schlucht im Westen Kretas.",
         "hu": "Keresd meg a Szamária-szurdokot Nyugat-Krétán.",
         "ro": "Găsește defileul Samaria din vestul Cretei.",
-        "en": "Find Samaria Gorge in western Crete."
+        "en": "Find Samaria Gorge in western Crete.",
+        "gr": "Vind de Samariakloof in het westen van Kreta."
       },
       "targetPoiId": "greece-samaria-gorge-national-park-life-v2"
     },
@@ -84,7 +91,8 @@
         "de": "Klicke auf Attika mit Athen und Piräus.",
         "hu": "Kattints Attikára, ahol Athén és Pireusz található.",
         "ro": "Apasă pe Attica, unde se află Atena și Pireu.",
-        "en": "Click Attica, home to Athens and Piraeus."
+        "en": "Click Attica, home to Athens and Piraeus.",
+        "gr": "Klik Attica, thuisbasis van Athene en Piraeus."
       },
       "targetRegionId": "GR-A1"
     },
@@ -95,7 +103,8 @@
         "de": "Finde die Region Peloponnes im Süden des Festlands.",
         "hu": "Keresd meg a Peloponnészosz régiót a szárazföld déli részén.",
         "ro": "Găsește regiunea Peloponez din sudul Greciei continentale.",
-        "en": "Find the Peloponnese region in southern mainland Greece."
+        "en": "Find the Peloponnese region in southern mainland Greece.",
+        "gr": "Vind de Peloponnesos-regio in het zuiden van het vasteland van Griekenland."
       },
       "targetRegionId": "GR-J"
     },
@@ -106,7 +115,8 @@
         "de": "Klicke auf die Ionischen Inseln westlich des Festlands.",
         "hu": "Kattints a szárazföldtől nyugatra fekvő Jón-szigetekre.",
         "ro": "Apasă pe Insulele Ionice aflate la vest de continent.",
-        "en": "Click the Ionian Islands west of the mainland."
+        "en": "Click the Ionian Islands west of the mainland.",
+        "gr": "Klik de Ionische Eilanden ten westen van het vasteland."
       },
       "targetRegionId": "GR-F"
     },
@@ -117,7 +127,8 @@
         "de": "Finde die Nördliche Ägäis mit Inseln wie Lesbos und Chios.",
         "hu": "Keresd meg az Észak-Égei-szigetek régióját, például Leszbosszal és Khiosszal.",
         "ro": "Găsește regiunea Egeea de Nord, cu insule precum Lesbos și Chios.",
-        "en": "Find the North Aegean region with islands such as Lesbos and Chios."
+        "en": "Find the North Aegean region with islands such as Lesbos and Chios.",
+        "gr": "Vind Noord-Aegeïsche regio met eilanden zoals Lesbos en Chios."
       },
       "targetRegionId": "GR-K"
     },
@@ -128,7 +139,8 @@
         "de": "Welcher Ort liegt nicht auf Kreta?",
         "hu": "Melyik hely nem Krétán található?",
         "ro": "Care loc nu se află în Creta?",
-        "en": "Which place is not on Crete?"
+        "en": "Which place is not on Crete?",
+        "gr": "Welke plaats ligt niet op Kreta?"
       },
       "poiIds": [
         "greece-chania-cities-v2",
@@ -145,7 +157,8 @@
         "de": "Welcher Ort liegt nicht an der Ägäis?",
         "hu": "Melyik hely nem az Égei-tenger partján fekszik?",
         "ro": "Care loc nu se află la Marea Egee?",
-        "en": "Which place is not on the Aegean Sea?"
+        "en": "Which place is not on the Aegean Sea?",
+        "gr": "Welke plaats ligt niet aan de Egeïsche Zee?"
       },
       "poiIds": [
         "greece-kavala-cities-v2",
@@ -162,7 +175,8 @@
         "de": "Welche Stadt liegt auf einer Insel statt auf dem Festland?",
         "hu": "Melyik város fekszik szigeten, nem pedig a szárazföldön?",
         "ro": "Care oraș se află pe o insulă, nu pe continent?",
-        "en": "Which city is on an island rather than the mainland?"
+        "en": "Which city is on an island rather than the mainland?",
+        "gr": "Welke stad ligt op een eiland in plaats van op het vasteland?"
       },
       "poiIds": [
         "greece-patras-cities-v2",
@@ -179,7 +193,8 @@
         "de": "Welche Stadt liegt in Thrakien und nicht in Makedonien?",
         "hu": "Melyik város Trákiában fekszik, és nem Macedóniában?",
         "ro": "Care oraș se află în Tracia, nu în Macedonia?",
-        "en": "Which city is in Thrace rather than Macedonia?"
+        "en": "Which city is in Thrace rather than Macedonia?",
+        "gr": "Welke stad ligt in Thracië in plaats van Macedonië?"
       },
       "poiIds": [
         "city-thessaloniki",
@@ -196,7 +211,8 @@
         "de": "Klicke die Orte von West nach Ost an: Ioannina, Larissa, Kavala, Alexandroupoli.",
         "hu": "Kattints a helyekre nyugatról keletre: Joánina, Lárisza, Kavála, Alexandroupoli.",
         "ro": "Apasă locurile de la vest la est: Ioannina, Larissa, Kavala, Alexandroupoli.",
-        "en": "Click the places from west to east: Ioannina, Larissa, Kavala, Alexandroupoli."
+        "en": "Click the places from west to east: Ioannina, Larissa, Kavala, Alexandroupoli.",
+        "gr": "Klik de plaatsen van west naar oost: Ioannina, Larissa, Kavala, Alexandroupoli."
       },
       "poiIds": [
         "greece-ioannina-cities-v2",
@@ -218,7 +234,8 @@
         "de": "Klicke die Orte von Nord nach Süd an: Kavala, Volos, Patras, Kalamata.",
         "hu": "Kattints a helyekre északról délre: Kavála, Vólosz, Pátra, Kalamata.",
         "ro": "Apasă locurile de la nord la sud: Kavala, Volos, Patras, Kalamata.",
-        "en": "Click the places from north to south: Kavala, Volos, Patras, Kalamata."
+        "en": "Click the places from north to south: Kavala, Volos, Patras, Kalamata.",
+        "gr": "Klik de plaatsen van noord naar zuid: Kavala, Volos, Patras, Kalamata."
       },
       "poiIds": [
         "greece-kavala-cities-v2",
@@ -240,7 +257,8 @@
         "de": "Klicke diese peloponnesischen Orte von West nach Ost an: Kalamata, Sparta, Nafplio, Epidaurus.",
         "hu": "Kattints ezekre a peloponnészoszi helyekre nyugatról keletre: Kalamata, Spárta, Nafplio, Epidaurosz.",
         "ro": "Apasă aceste locuri din Peloponez de la vest la est: Kalamata, Sparta, Nafplio, Epidaur.",
-        "en": "Click these Peloponnese places from west to east: Kalamata, Sparta, Nafplio, Epidaurus."
+        "en": "Click these Peloponnese places from west to east: Kalamata, Sparta, Nafplio, Epidaurus.",
+        "gr": "Klik deze Peloponnesos-plaatsen van west naar oost: Kalamata, Sparta, Nafplio, Epidaurus."
       },
       "poiIds": [
         "greece-kalamata-cities-v2",
@@ -262,7 +280,8 @@
         "de": "Klicke die Inselorte von Nord nach Süd an: Mytilene, Mykonos, Oia.",
         "hu": "Kattints a szigetvárosokra északról délre: Mütléni, Mükonosz, Oia.",
         "ro": "Apasă localitățile insulare de la nord la sud: Mytilene, Mykonos, Oia.",
-        "en": "Click the island places from north to south: Mytilene, Mykonos, Oia."
+        "en": "Click the island places from north to south: Mytilene, Mykonos, Oia.",
+        "gr": "Klik de eilandeilanden van noord naar zuid: Mytilene, Mykonos, Oia."
       },
       "poiIds": [
         "city-mytilene-extra",
@@ -282,7 +301,8 @@
         "de": "Klicke die Inselorte von West nach Ost an: Korfu-Stadt, Mykonos, Samos.",
         "hu": "Kattints a szigetvárosokra nyugatról keletre: Korfu városa, Mükonosz, Számosz.",
         "ro": "Apasă localitățile insulare de la vest la est: orașul Corfu, Mykonos, Samos.",
-        "en": "Click the island places from west to east: Corfu Town, Mykonos, Samos."
+        "en": "Click the island places from west to east: Corfu Town, Mykonos, Samos.",
+        "gr": "Klik de eilandeilanden van west naar oost: Korfoe-Stad, Mykonos, Samos."
       },
       "poiIds": [
         "greece-corfu-town-cities-v2",

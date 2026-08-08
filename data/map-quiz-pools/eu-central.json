@@ -146,7 +146,8 @@
         "de": "Wo liegt Prag? Klicke auf die Hauptstadt.",
         "hu": "Hol található Prága? Kattints a fővárosra.",
         "ro": "Unde se află Praga? Apasă pe capitală.",
-        "en": "Where is Prague? Click the capital."
+        "en": "Where is Prague? Click the capital.",
+        "cz": "Waar is Praag? Klik de hoofdstad."
       },
       "targetPoiId": "czechrepublic-prague-cities-v2"
     },
@@ -157,7 +158,8 @@
         "de": "Finde Brünn, das Zentrum Südmährens.",
         "hu": "Keresd meg Brnót, Dél-Morvaország központját.",
         "ro": "Găsește Brno, centrul Moraviei de Sud.",
-        "en": "Find Brno, the centre of South Moravia."
+        "en": "Find Brno, the centre of South Moravia.",
+        "cz": "Vind Brno, het centrum van Zuid-Moravië."
       },
       "targetPoiId": "czechrepublic-brno-cities-v2"
     },
@@ -168,7 +170,8 @@
         "de": "Finde Ostrava im Nordosten Tschechiens.",
         "hu": "Keresd meg Ostravát Csehország északkeleti részén.",
         "ro": "Găsește Ostrava în nord-estul Cehiei.",
-        "en": "Find Ostrava in northeastern Czechia."
+        "en": "Find Ostrava in northeastern Czechia.",
+        "cz": "Vind Ostrava in het noordoosten van Tsjechië."
       },
       "targetPoiId": "czechrepublic-ostrava-cities-v2"
     },
@@ -179,7 +182,8 @@
         "de": "Wo liegt Pilsen im Westen Tschechiens?",
         "hu": "Hol található Plzeň Csehország nyugati részén?",
         "ro": "Unde se află Plzeň în vestul Cehiei?",
-        "en": "Where is Plzeň in western Czechia?"
+        "en": "Where is Plzeň in western Czechia?",
+        "cz": "Waar ligt Plzeň in het westen van Tsjechië?"
       },
       "targetPoiId": "czechrepublic-plzen-cities-v2"
     },
@@ -190,7 +194,8 @@
         "de": "Klicke auf die Hauptstadtregion Prag.",
         "hu": "Kattints Prága fővárosi régiójára.",
         "ro": "Apasă pe regiunea capitalei Praga.",
-        "en": "Click the Prague capital region."
+        "en": "Click the Prague capital region.",
+        "cz": "Klik de hoofdstadregio Praag."
       },
       "targetRegionId": "CZ-PR"
     },
@@ -201,7 +206,8 @@
         "de": "Finde die Region Südmähren mit Brünn.",
         "hu": "Keresd meg a Brnót is magában foglaló Dél-morvaországi kerületet.",
         "ro": "Găsește regiunea Moravia de Sud, care include Brno.",
-        "en": "Find the South Moravian Region, which includes Brno."
+        "en": "Find the South Moravian Region, which includes Brno.",
+        "cz": "Vind de Zuid-Moravische regio, waar Brno deel van uitmaakt."
       },
       "targetRegionId": "CZ-JM"
     },
@@ -212,7 +218,8 @@
         "de": "Wo liegt die Mährisch-Schlesische Region mit Ostrava?",
         "hu": "Hol található az Ostravát is magában foglaló Morva-sziléziai kerület?",
         "ro": "Unde se află regiunea Moravia-Silezia, care include Ostrava?",
-        "en": "Where is the Moravian-Silesian Region, which includes Ostrava?"
+        "en": "Where is the Moravian-Silesian Region, which includes Ostrava?",
+        "cz": "Waar ligt de Moravië-Silezische regio, waar Ostrava deel van uitmaakt?"
       },
       "targetRegionId": "CZ-MO"
     },
@@ -223,7 +230,8 @@
         "de": "Welche dieser Städte liegt nicht in der Region Südmähren?",
         "hu": "Melyik város nem a Dél-morvaországi kerületben található?",
         "ro": "Care dintre aceste orașe nu se află în regiunea Moravia de Sud?",
-        "en": "Which of these cities is not in the South Moravian Region?"
+        "en": "Which of these cities is not in the South Moravian Region?",
+        "cz": "Welke van deze steden ligt niet in de Zuid-Moravische regio?"
       },
       "poiIds": [
         "czechrepublic-brno-cities-v2",
@@ -240,7 +248,8 @@
         "de": "Klicke die Städte von West nach Ost an: Pilsen, Prag, Brünn, Ostrava.",
         "hu": "Kattints a városokra nyugatról keletre: Plzeň, Prága, Brno, Ostrava.",
         "ro": "Apasă orașele de la vest la est: Plzeň, Praga, Brno, Ostrava.",
-        "en": "Click the cities from west to east: Plzeň, Prague, Brno, Ostrava."
+        "en": "Click the cities from west to east: Plzeň, Prague, Brno, Ostrava.",
+        "cz": "Klik de steden van west naar oost: Plzeň, Praag, Brno, Ostrava."
       },
       "poiIds": [
         "czechrepublic-plzen-cities-v2",
@@ -262,7 +271,8 @@
         "de": "Klicke diese Städte von Nord nach Süd an: Reichenberg, Prag, Budweis.",
         "hu": "Kattints ezekre a városokra északról délre: Liberec, Prága, České Budějovice.",
         "ro": "Apasă aceste orașe de la nord la sud: Liberec, Praga, České Budějovice.",
-        "en": "Click these cities from north to south: Liberec, Prague, České Budějovice."
+        "en": "Click these cities from north to south: Liberec, Prague, České Budějovice.",
+        "cz": "Klik deze steden van noord naar zuid: Liberec, Praag, České Budějovice."
       },
       "poiIds": [
         "czechrepublic-liberec-cities-v2",
@@ -284,7 +294,8 @@
         "de": "Wo liegt Bratislava? Klicke auf die Hauptstadt.",
         "hu": "Hol található Pozsony? Kattints a fővárosra.",
         "ro": "Unde se află Bratislava? Apasă pe capitală.",
-        "en": "Where is Bratislava? Click the capital."
+        "en": "Where is Bratislava? Click the capital.",
+        "sk": "Waar is Bratislava? Klik de hoofdstad."
       },
       "targetPoiId": "slovakia-bratislava-cities-v2"
     },
@@ -295,7 +306,8 @@
         "de": "Finde Košice im Osten der Slowakei.",
         "hu": "Keresd meg Kassát Szlovákia keleti részén.",
         "ro": "Găsește Košice în estul Slovaciei.",
-        "en": "Find Košice in eastern Slovakia."
+        "en": "Find Košice in eastern Slovakia.",
+        "sk": "Vind Košice in het oosten van Slowakije."
       },
       "targetPoiId": "slovakia-kosice-cities-v2"
     },
@@ -306,7 +318,8 @@
         "de": "Wo liegt Prešov, nördlich von Košice?",
         "hu": "Hol található a Kassától északra fekvő Eperjes?",
         "ro": "Unde se află Prešov, la nord de Košice?",
-        "en": "Where is Prešov, north of Košice?"
+        "en": "Where is Prešov, north of Košice?",
+        "sk": "Waar ligt Prešov, ten noorden van Košice?"
       },
       "targetPoiId": "slovakia-presov-cities-v2"
     },
@@ -317,7 +330,8 @@
         "de": "Finde Nitra im Westen der Slowakei.",
         "hu": "Keresd meg Nyitrát Szlovákia nyugati részén.",
         "ro": "Găsește Nitra în vestul Slovaciei.",
-        "en": "Find Nitra in western Slovakia."
+        "en": "Find Nitra in western Slovakia.",
+        "sk": "Vind Nitra in het westen van Slowakije."
       },
       "targetPoiId": "slovakia-nitra-cities-v2"
     },
@@ -328,7 +342,8 @@
         "de": "Klicke auf den Bratislavský kraj im äußersten Westen.",
         "hu": "Kattints a legnyugatibb Pozsonyi kerületre.",
         "ro": "Apasă pe regiunea Bratislava din extremitatea vestică.",
-        "en": "Click the Bratislava Region in the far west."
+        "en": "Click the Bratislava Region in the far west.",
+        "sk": "Klik de regio Bratislava in het uiterste westen."
       },
       "targetRegionId": "SK-BL"
     },
@@ -339,7 +354,8 @@
         "de": "Finde den Košický kraj im Südosten.",
         "hu": "Keresd meg a délkeleti Kassai kerületet.",
         "ro": "Găsește regiunea Košice din sud-est.",
-        "en": "Find the Košice Region in the southeast."
+        "en": "Find the Košice Region in the southeast.",
+        "sk": "Vind de regio Košice in het zuidoosten."
       },
       "targetRegionId": "SK-KI"
     },
@@ -350,7 +366,8 @@
         "de": "Wo liegt der Žilinský kraj im Norden der Slowakei?",
         "hu": "Hol található a Zsolnai kerület Szlovákia északi részén?",
         "ro": "Unde se află regiunea Žilina în nordul Slovaciei?",
-        "en": "Where is the Žilina Region in northern Slovakia?"
+        "en": "Where is the Žilina Region in northern Slovakia?",
+        "sk": "Waar ligt de regio Žilina in het noorden van Slowakije?"
       },
       "targetRegionId": "SK-ZI"
     },
@@ -361,7 +378,8 @@
         "de": "Welche dieser Städte liegt nicht in der Ostslowakei?",
         "hu": "Melyik város nem Kelet-Szlovákiában található?",
         "ro": "Care dintre aceste orașe nu se află în estul Slovaciei?",
-        "en": "Which of these cities is not in eastern Slovakia?"
+        "en": "Which of these cities is not in eastern Slovakia?",
+        "sk": "Welke van deze steden ligt niet in oostelijk Slowakije?"
       },
       "poiIds": [
         "slovakia-kosice-cities-v2",
@@ -378,7 +396,8 @@
         "de": "Klicke die Städte von West nach Ost an: Bratislava, Nitra, Zvolen, Košice.",
         "hu": "Kattints a városokra nyugatról keletre: Pozsony, Nyitra, Zólyom, Kassa.",
         "ro": "Apasă orașele de la vest la est: Bratislava, Nitra, Zvolen, Košice.",
-        "en": "Click the cities from west to east: Bratislava, Nitra, Zvolen, Košice."
+        "en": "Click the cities from west to east: Bratislava, Nitra, Zvolen, Košice.",
+        "sk": "Klik de steden van west naar oost: Bratislava, Nitra, Zvolen, Košice."
       },
       "poiIds": [
         "slovakia-bratislava-cities-v2",
@@ -400,7 +419,8 @@
         "de": "Klicke diese Städte von Nord nach Süd an: Bardejov, Prešov, Košice.",
         "hu": "Kattints ezekre a városokra északról délre: Bártfa, Eperjes, Kassa.",
         "ro": "Apasă aceste orașe de la nord la sud: Bardejov, Prešov, Košice.",
-        "en": "Click these cities from north to south: Bardejov, Prešov, Košice."
+        "en": "Click these cities from north to south: Bardejov, Prešov, Košice.",
+        "sk": "Klik deze steden van noord naar zuid: Bardejov, Prešov, Košice."
       },
       "poiIds": [
         "slovakia-bardejov-cities-v2",
