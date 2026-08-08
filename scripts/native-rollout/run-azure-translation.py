@@ -19,7 +19,10 @@ Return only one JSON object with this schema: {{"translations":{{"input_key":"tr
 Every input key must occur exactly once; no extra key is allowed. Do not add facts, commentary or markdown.
 Preserve URLs, dates, numbers, units and proper nouns in their established target-language or local form. Keep concise
 source strings concise. Preserve every placeholder such as {{place}}, {{country}} or {{name}} exactly, including
-its braces and spelling. Use correct punctuation and UTF-8 characters for the target language."""
+its braces and spelling. Never invent a placeholder the source does not contain: a caption like "Greetings from"
+is followed by the place name in the layout, not by a substitution, so if the target language cannot leave that
+slot open (Turkish needs a case suffix on the noun, for example) write a natural standalone phrase such as a bare
+"Greetings" instead of introducing {{place}}. Use correct punctuation and UTF-8 characters for the target language."""
 
 SIGHT_DESCRIPTION_INSTRUCTIONS = """Create one concise travel-guide sentence for every supplied sight.
 Each input value is JSON with place, sight, optional category and targetLanguage. Use ONLY facts literally present
