@@ -88,7 +88,11 @@ jobs:
             exit 0
           fi
           git commit -m "feat(i18n): add $LANG_NAME POI interface copy"
-          git push
+          # --autostash: the persistent runner checkout carries unstaged out/
+          # deletions from the post-job cleanup hook. The rebase itself matters
+          # because more than one agent pushes to this branch.
+          git pull --rebase --autostash origin ${GITHUB_REF_NAME}
+          git push origin HEAD:${GITHUB_REF_NAME}
 
       - uses: actions/upload-artifact@v4
         if: always()
