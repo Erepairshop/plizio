@@ -3868,10 +3868,11 @@ function renderHtml(poi: POI, lang: Lang): string | null {
   }).join("");
 
   return `<!DOCTYPE html>
-<html lang="${lang}">
+<html lang="${lang}"${lang === "it" || lang === "nl" ? ' translate="no"' : ""}>
 <head>
 <meta charset="UTF-8"/>
 <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+${lang === "it" || lang === "nl" ? '<meta name="google" content="notranslate"/>' : ""}
 <title>${escapeHtml(title)}</title>
 <meta name="description" content="${escapeHtml(metaDesc)}"/>
 ${richness.isEmpty ? `<meta name="robots" content="noindex,follow"/>` : ""}
@@ -4518,10 +4519,11 @@ function renderSightHtml(host: POI, data: any, lang: Lang): string {
     : "";
 
   return `<!DOCTYPE html>
-<html lang="${lang}">
+<html lang="${lang}"${lang === "it" || lang === "nl" ? ' translate="no"' : ""}>
 <head>
 <meta charset="UTF-8"/>
 <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+${lang === "it" || lang === "nl" ? '<meta name="google" content="notranslate"/>' : ""}
 <title>${escapeHtml(title)}</title>
 <meta name="description" content="${escapeHtml(metaDesc)}"/>
 ${sightDescEmpty ? `<meta name="robots" content="noindex,follow"/>` : ""}
