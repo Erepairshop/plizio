@@ -158,7 +158,7 @@ async function main() {
   // parent chain. If the sitemap claims a page the generator does not write,
   // that is a 404 — so any language added here needs the matching entry in
   // NATIVE_LANGS in scripts/generate-poi-html.mts.
-  const NATIVE_LANGS = ["it", "pt", "fr", "tr", "hr"] as const;
+  const NATIVE_LANGS = ["it", "pt", "fr", "tr", "hr", "pl"] as const;
   const NATIVE_SIDECARS = new Map<string, Map<string, Record<string, unknown>>>();
   for (const lang of NATIVE_LANGS) {
     const entries = new Map<string, Record<string, unknown>>();
@@ -186,11 +186,17 @@ async function main() {
     // that is their established behaviour. Adding fr/tr/hr/es here would rewrite
     // the slugs of pages that already rank, so those languages get the flag only
     // and keep their existing URL; the native name still renders on the page.
+    // `pl` joins it/pt rather than fr/tr/hr because Polish pages did not exist
+    // before this rollout: there is no ranking URL to protect, and without the
+    // native name the slug falls back to the German exonym (/pl/polska/pl/warschau/
+    // instead of .../warszawa/). Deciding it later would cost a 301 per page.
     const nativeItName = typeof sidecarFor("it", p.id)?.name === "string" ? (sidecarFor("it", p.id)!.name as string) : undefined;
     const nativePtName = typeof sidecarFor("pt", p.id)?.name === "string" ? (sidecarFor("pt", p.id)!.name as string) : undefined;
+    const nativePlName = typeof sidecarFor("pl", p.id)?.name === "string" ? (sidecarFor("pl", p.id)!.name as string) : undefined;
     const nativeNames = {
       ...(nativeItName ? { it: nativeItName } : {}),
       ...(nativePtName ? { pt: nativePtName } : {}),
+      ...(nativePlName ? { pl: nativePlName } : {}),
     };
     return {
       id: p.id,

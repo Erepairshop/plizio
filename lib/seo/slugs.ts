@@ -26,7 +26,7 @@ export const ALL_LANGS: Lang[] = ["de", "hu", "ro", "en", "fr", "tr", "hr", "it"
 //   - OR the POI has a real ≥700-char descriptionAdvanced in that lang
 //     (frLong / trLong, computed at build-seo-index time).
 // Short pages stay out so Google doesn't soft-404 them.
-export function extraLangsFor(poi: { parent?: string; frLong?: boolean; trLong?: boolean; hrLong?: boolean; itLong?: boolean; esLong?: boolean; ptLong?: boolean }): Lang[] {
+export function extraLangsFor(poi: { parent?: string; frLong?: boolean; trLong?: boolean; hrLong?: boolean; itLong?: boolean; esLong?: boolean; ptLong?: boolean; plLong?: boolean }): Lang[] {
   const extras: Lang[] = [];
   // FONTOS: fr CSAK France POI-kra, tr CSAK DE POI-kra. A generate-poi-html.mts
   // is csak ezekre keszit oldalt — ha a sitemap a frLong/trLong alapjan szelesebb
@@ -35,6 +35,11 @@ export function extraLangsFor(poi: { parent?: string; frLong?: boolean; trLong?:
   // bovites opcio), de a sitemap+generator egysegesen orszag-alapu.
   if (poi.parent?.startsWith("FR")) extras.push("fr");
   if (poi.parent?.startsWith("DE")) extras.push("tr");
+  // pl = native Polish, country-gated exactly like fr/tr. Every Polish POI sits
+  // under a `PL` or `PL-DS` parent (verified: 659 POIs, no other country uses a
+  // PL* parent), so no plLong branch — a content-based gate is what produced the
+  // ~18k 404s described above.
+  if (poi.parent?.startsWith("PL")) extras.push("pl");
   // hr = native Croatian, only for HR POIs that have hr-native content (hrLong flag,
   // set in build-seo-index from poi-hr-native.json).
   if (poi.hrLong) extras.push("hr");
@@ -138,7 +143,9 @@ export const COUNTRY_SLUGS: Record<string, Partial<Record<Lang, string>> & { de:
   luxembourg:     { de: "luxemburg", hu: "luxemburg", ro: "luxemburg", en: "luxembourg" },
   "united-kingdom": { de: "vereinigtes-koenigreich", hu: "egyesult-kiralysag", ro: "regatul-unit", en: "united-kingdom" },
   ireland:        { de: "irland", hu: "irorszag", ro: "irlanda", en: "ireland" },
-  poland:         { de: "polen", hu: "lengyelorszag", ro: "polonia", en: "poland" },
+  // `pl: "polska"` follows the germany/tr precedent above: a country-native
+  // language gets the country's own name, not the English fallback.
+  poland:         { de: "polen", hu: "lengyelorszag", ro: "polonia", en: "poland", pl: "polska" },
   "czech-republic": { de: "tschechien", hu: "csehorszag", ro: "cehia", en: "czech-republic" },
   slovakia:       { de: "slowakei", hu: "szlovakia", ro: "slovacia", en: "slovakia" },
   slovenia:       { de: "slowenien", hu: "szlovenia", ro: "slovenia", en: "slovenia" },
@@ -824,7 +831,9 @@ function _warnUnknownParent(id: string) {
 
 export function countrySlugFor(lang: Lang, countryId: string = "germany") {
   // Fallback: fr → en, tr → de (Turkish DE pages use German state names where TR slug missing), hr → en.
-  const fallback: Lang = lang === "fr" ? "en" : lang === "tr" ? "de" : lang === "hr" || lang === "it" || lang === "es" || lang === "pt" ? "en" : lang;
+  // Without an entry here a native language falls all the way through to
+  // COUNTRY_SLUGS.germany.en below, i.e. /pl/germany/ for a Polish POI.
+  const fallback: Lang = lang === "fr" ? "en" : lang === "tr" ? "de" : lang === "hr" || lang === "it" || lang === "es" || lang === "pt" || lang === "pl" ? "en" : lang;
   const effLang: Lang = (COUNTRY_SLUGS[countryId]?.[lang] ? lang : fallback);
   return COUNTRY_SLUGS[countryId]?.[effLang] ?? COUNTRY_SLUGS.germany[effLang] ?? COUNTRY_SLUGS.germany.en;
 }
@@ -845,7 +854,9 @@ export function stateSlugFor(stateId: string, lang: Lang) {
   // HU legacy id (pl "fejer") -> ugyanaz
   if (HU_LEGACY_IDS.has(stateId)) return stateId;
   // Fallback: fr → en (FR-* states already natively French), tr → de (DE-* states use German slug), hr → en.
-  const fallback: Lang = lang === "fr" ? "en" : lang === "tr" ? "de" : lang === "hr" || lang === "it" || lang === "es" || lang === "pt" ? "en" : lang;
+  // pl → en so the Polish pages reuse the existing /en/poland/pl/ state slugs
+  // rather than inventing new ones under a language that has no STATE_SLUGS.
+  const fallback: Lang = lang === "fr" ? "en" : lang === "tr" ? "de" : lang === "hr" || lang === "it" || lang === "es" || lang === "pt" || lang === "pl" ? "en" : lang;
   const effLang: Lang = STATE_SLUGS[stateId]?.[lang] ? lang : fallback;
   return STATE_SLUGS[stateId]?.[effLang] ?? slugify(REGION_BY_ID.get(stateId)?.name?.[effLang] || REGION_BY_ID.get(stateId)?.name?.de || stateId);
 }

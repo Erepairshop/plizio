@@ -548,7 +548,7 @@ try {
 } catch {}
 // Build a global id→POI lookup for cross-referencing (e.g. sight name internal links).
 const allById = new Map<string, POI>(pois.filter(p => p?.id).map(p => [p.id, p]));
-type Lang = "de" | "hu" | "ro" | "en" | "fr" | "tr" | "hr" | "it" | "es" | "pt";
+type Lang = "de" | "hu" | "ro" | "en" | "fr" | "tr" | "hr" | "it" | "es" | "pt" | "pl";
 
 // Native language → the country whose POIs may carry it. Single source of truth
 // for the sidecar merges below; keep in sync with extraLangsFor() in lib/seo/slugs
@@ -561,6 +561,7 @@ const NATIVE_LANGS = [
   ["fr", "france"],
   ["tr", "germany"],
   ["hr", "croatia"],
+  ["pl", "poland"],
 ] as const satisfies ReadonlyArray<readonly [Lang, string]>;
 
 // hr = native Croatian: merge the poi-hr-native.json sidecar INTO each POI's
@@ -4288,7 +4289,7 @@ async function main() {
   const URL_INDEX_OUT: Record<string, Record<string, string>> = {};
 
   for (const poi of target) {
-    // FR POIs get an additional `fr` page; DE → `tr`; HR (hr-native) → `hr`.
+    // FR POIs get an additional `fr` page; DE → `tr`; HR (hr-native) → `hr`; PL → `pl`.
     const extraPoi = slugs.extraLangsFor(poi as any) as Lang[];
     const poiLangs: Lang[] = [...SUPPORTED_LANGS, ...extraPoi];
     for (const lang of poiLangs) {

@@ -11,7 +11,7 @@ on:
         description: "Native language key"
         type: choice
         required: true
-        options: [fr, tr, hr]
+        options: [fr, tr, hr, pl]
       mode:
         description: "Which completed queue to apply"
         type: choice
