@@ -4406,13 +4406,13 @@ function renderSightHtml(host: POI, data: any, lang: Lang): string {
   const sightUrl = `${SITE_URL}${sightRelUrl}`;
   // Per-lang sight URL alternates (use buildPoiPath for each lang)
   const sightAlternates: Record<string, string> = Object.fromEntries(
-    SUPPORTED_LANGS.map((l) => [l, `${SITE_URL}${buildPoiPath(l, host).replace(/\/$/, "")}/sight/${data.slug}/`])
+    [...SUPPORTED_LANGS, ...slugs.extraLangsFor(host as any) as Lang[]].map((l) => [l, `${SITE_URL}${buildPoiPath(l, host).replace(/\/$/, "")}/sight/${data.slug}/`])
   );
   const hreflangLinks = Object.entries(sightAlternates)
     .map(([l, href]) => `<link rel="alternate" hreflang="${l}" href="${href}"/>`)
     .join("\n  ");
   // Lang switcher (4 langs only, no fr/tr for now)
-  const langSwitcher = SUPPORTED_LANGS.map((l) => {
+  const langSwitcher = [...SUPPORTED_LANGS, ...slugs.extraLangsFor(host as any) as Lang[]].map((l) => {
     const cls = l === lang ? ' class="active"' : "";
     const href = sightAlternates[l];
     return `<a href="${href}"${cls}>${l.toUpperCase()}</a>`;

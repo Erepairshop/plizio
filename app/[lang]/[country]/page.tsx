@@ -44,6 +44,7 @@ export function generateStaticParams() {
     { lang: "it", country: countrySlugFor("it", "italy") },
     { lang: "es", country: countrySlugFor("es", "spain") },
     { lang: "pt", country: countrySlugFor("pt", "portugal") },
+    { lang: "nl", country: countrySlugFor("nl", "netherlands") },
   ]);
 }
 
@@ -120,6 +121,7 @@ export default async function CountryPage({
     it: { kicker: "Mappa interattiva", cta: `Esplora ${countryCopy.name}`, sub: "Luoghi, città, mappa e ricerca", world: "Mappa del mondo", open: "Apri la mappa" },
     es: { kicker: "Mapa interactivo", cta: `Explora ${countryCopy.name}`, sub: "Lugares, ciudades, mapa y búsqueda", world: "Mapa del mundo", open: "Abrir mapa" },
     pt: { kicker: "Mapa interativo", cta: `Explorar ${countryCopy.name}`, sub: "Locais, cidades, mapa e pesquisa", world: "Mapa do mundo", open: "Abrir mapa" },
+    nl: { kicker: "Interactieve kaart", cta: `${countryCopy.name} ontdekken`, sub: "Bezienswaardigheden, steden, kaart en zoeken", world: "Wereldkaart bekijken", open: "Kaart openen" },
   } as const);
   // Native-lang landing pages exist beyond the 4 core langs, so fall back instead
   // of indexing into undefined (prerender crashed on /pt/portugal this way).

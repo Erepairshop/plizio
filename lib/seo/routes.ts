@@ -239,6 +239,21 @@ export const SEO_COPY = {
     landmarks: "Locais de interesse",
     capital: "Capital",
   },
+  nl: {
+    home: "Startpagina",
+    related: "Gerelateerde plaatsen",
+    facts: "Feiten",
+    geography: "Geografische gegevens",
+    openMap: "Openen in OpenStreetMap",
+    backToMap: "Op de kaart bekijken",
+    more: "Meer informatie",
+    states: "Regio's",
+    cities: "Steden",
+    nature: "Natuur",
+    history: "Geschiedenis",
+    landmarks: "Bezienswaardigheden",
+    capital: "Hoofdstad",
+  },
 } as const;
 
 export function isLang(value: string): value is Lang {
@@ -254,17 +269,23 @@ export function absoluteUrl(path: string) {
 }
 
 export function getCountryAlternates(countryId: string = "germany") {
-  const langs: Lang[] = countryId === "italy"
-    ? [...SUPPORTED_LANGS, "it"]
-    : countryId === "spain" ? [...SUPPORTED_LANGS, "es"] : SUPPORTED_LANGS;
+  const native: Partial<Record<string, Lang>> = {
+    italy: "it", spain: "es", portugal: "pt", netherlands: "nl",
+  };
+  const langs: Lang[] = native[countryId]
+    ? [...SUPPORTED_LANGS, native[countryId] as Lang]
+    : SUPPORTED_LANGS;
   return Object.fromEntries(langs.map((lang) => [lang, absoluteUrl(buildCountryPath(lang, countryId))]));
 }
 
 export function getStateAlternates(stateId: string) {
   const countryId = getCountryId(stateId);
-  const langs: Lang[] = countryId === "italy"
-    ? [...SUPPORTED_LANGS, "it"]
-    : countryId === "spain" ? [...SUPPORTED_LANGS, "es"] : SUPPORTED_LANGS;
+  const native: Partial<Record<string, Lang>> = {
+    italy: "it", spain: "es", portugal: "pt", netherlands: "nl",
+  };
+  const langs: Lang[] = native[countryId]
+    ? [...SUPPORTED_LANGS, native[countryId] as Lang]
+    : SUPPORTED_LANGS;
   return Object.fromEntries(langs.map((lang) => [lang, absoluteUrl(buildStatePath(lang, stateId))]));
 }
 
