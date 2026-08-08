@@ -142,7 +142,7 @@ export default async function PoiPage({
 
   const { poi, region } = match;
   const countryId = getCountryId(region.id);
-  const copy = SEO_COPY[resolved.lang as Lang];
+  const copy = SEO_COPY[resolved.lang as keyof typeof SEO_COPY] ?? SEO_COPY.en;
   const countryCopy = getCountryCopy(countryId, resolved.lang as Lang);
   const related = getRelatedPois(poi);
   const grouped = getRelatedPoisGrouped(poi, 12);

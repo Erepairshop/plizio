@@ -114,7 +114,7 @@ export default async function StatePage({
   const countryId = getCountryId(region.id);
   if (country !== countrySlugFor(lang, countryId)) notFound();
 
-  const copy = SEO_COPY[lang];
+  const copy = SEO_COPY[lang as keyof typeof SEO_COPY] ?? SEO_COPY.en;
   const countryCopy = getCountryCopy(countryId, lang);
   const groups = groupPoisForState(region.id);
   const subregions = (bundeslandSubregions as any)[region.id];

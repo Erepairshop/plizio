@@ -88,7 +88,7 @@ export default async function CountryPage({
   );
   if (!countryId) notFound();
 
-  const copy = SEO_COPY[lang];
+  const copy = SEO_COPY[lang as keyof typeof SEO_COPY] ?? SEO_COPY.en;
   const countryCopy = getCountryCopy(countryId, lang);
   const alternates = getCountryAlternates(countryId);
 
