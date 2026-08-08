@@ -253,6 +253,18 @@ try {
 // native set for that language and falls back to FAQS. Populated by the
 // poi-hr-native.json merge and the i18n sidecar merge below.
 const NATIVE_FAQS: Partial<Record<Lang, Record<string, FAQItem[]>>> = {};
+// Curated factual additions for native pages where the source fact is useful in
+// FAQ form but is not present in the shared FAQ shard.
+const NATIVE_EXTRA_FAQS: Partial<Record<Lang, Record<string, FAQItem[]>>> = {
+  nl: {
+    "netherlands-heilo-cities-v2": [
+      {
+        q: { nl: "Sinds wanneer is Heiloo een belangrijke bedevaartplaats?" },
+        a: { nl: "Heiloo is sinds de 15e eeuw een belangrijke bedevaartplaats, vooral door het heiligdom Onze Lieve Vrouw ter Nood." },
+      },
+    ],
+  },
+};
 
 // Climate sidecar — 12-month normals (mean/max temp, precip mm) per 0.5° grid
 // cell (NASA POWER climatology). SSR "best time to visit" block; non-duplicate,
@@ -3328,7 +3340,10 @@ function renderHtml(poi: POI, lang: Lang): string | null {
     }
   };
   // 1) sharded FAQS (primary, LLM-authored) — same source renderFAQ used.
-  const _shardFaqs = NATIVE_FAQS[lang]?.[poi.id] ?? FAQS[poi.id];
+  const _shardFaqs = [
+    ...(NATIVE_FAQS[lang]?.[poi.id] ?? FAQS[poi.id] ?? []),
+    ...(NATIVE_EXTRA_FAQS[lang]?.[poi.id] ?? []),
+  ];
   if (Array.isArray(_shardFaqs)) for (const it of _shardFaqs) _pushFaq(pickFaqStr(it.q, lang), pickFaqStr(it.a, lang));
   // 2) inline poi.faq (legacy/embedded).
   if (Array.isArray(poi.faq)) {
