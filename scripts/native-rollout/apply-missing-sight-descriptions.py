@@ -36,6 +36,8 @@ def main() -> int:
     translations = {key: translations[key] for key in expected}
 
     output = {}
+    if args.output.exists():
+        output = json.loads(args.output.read_text(encoding="utf-8"))
     skipped = 0
     for key, target in manifest["targets"].items():
         value = translations[key].strip()
