@@ -337,7 +337,7 @@ const REGION_BY_ID = new Map<string, POI>((regions as POI[]).map((r) => [r.id, r
 const FAQ_HEAD: Record<string, string> = {
   de: "Häufige Fragen", hu: "Gyakori kérdések", ro: "Întrebări frecvente",
   en: "Frequently asked questions", fr: "Questions fréquentes", tr: "Sıkça sorulan sorular",
-  hr: "Često postavljana pitanja", it: "Domande frequenti", es: "Preguntas frecuentes",
+  hr: "Često postavljana pitanja", it: "Domande frequenti", es: "Preguntas frecuentes", nl: "Veelgestelde vragen",
 };
 const FAQ_CHEV = `<svg class="plz-faq-chev" viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M6 9l6 6 6-6"/></svg>`;
 function pickFaqStr(o: Record<string, unknown> | undefined, lang: Lang): string {
@@ -354,7 +354,7 @@ function renderFAQ(poi: POI, lang: Lang): string {
   const heading: Record<string, string> = {
     de: "Häufige Fragen", hu: "Gyakori kérdések", ro: "Întrebări frecvente",
     en: "Frequently asked questions", fr: "Questions fréquentes", tr: "Sıkça sorulan sorular",
-    hr: "Često postavljana pitanja", it: "Domande frequenti", es: "Preguntas frecuentes",
+    hr: "Često postavljana pitanja", it: "Domande frequenti", es: "Preguntas frecuentes", nl: "Veelgestelde vragen",
   };
   const head = heading[lang] || heading.en!;
   const accordion = items.map((it, i) => {
@@ -1002,6 +1002,7 @@ const AUTO_FAQ: Record<string, {
   hr: { whereQ: (n) => `${n}: gdje se nalazi?`, whereA: (n, l) => `${n} se nalazi u ${l}.`, whatQ: (n) => `${n}: što vidjeti?`, whatA: (l) => `Među znamenitostima su ${l}.`, whenQ: (n) => `${n}: kada je najbolje posjetiti?`, whenA: (b) => `Najugodnije je razdoblje ${b}.`, whyQ: (n) => `${n}: zašto posjetiti?` },
   it: { whereQ: (n) => `${n}: dove si trova?`, whereA: (n, l) => `${n} si trova in ${l}.`, whatQ: (n) => `${n}: cosa vedere?`, whatA: (l) => `Tra le attrazioni principali ci sono ${l}.`, whenQ: (n) => `${n}: qual è il periodo migliore?`, whenA: (b) => `Il periodo più piacevole per una visita è ${b}.`, whyQ: (n) => `${n}: perché vale la pena visitarlo?` },
   es: { whereQ: (n) => `${n}: ¿dónde está?`, whereA: (n, l) => `${n} se encuentra en ${l}.`, whatQ: (n) => `${n}: ¿qué se puede ver?`, whatA: (l) => `Entre los lugares destacados se encuentran ${l}.`, whenQ: (n) => `${n}: ¿cuál es la mejor época para visitarlo?`, whenA: (b) => `La época más agradable para visitarlo es ${b}.`, whyQ: (n) => `${n}: ¿por qué merece una visita?` },
+  nl: { whereQ: (n) => `${n}: waar ligt het?`, whereA: (n, l) => `${n} ligt in ${l}.`, whatQ: (n) => `${n}: wat is er te zien?`, whatA: (l) => `De belangrijkste bezienswaardigheden zijn ${l}.`, whenQ: (n) => `${n}: wanneer is de beste reistijd?`, whenA: (b) => `De aangenaamste periode voor een bezoek is ${b}.`, whyQ: (n) => `${n}: waarom is het een bezoek waard?` },
 };
 
 function buildAutoFaq(
