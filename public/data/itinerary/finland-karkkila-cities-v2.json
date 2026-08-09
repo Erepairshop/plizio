@@ -21,7 +21,8 @@
             "de": "Fagerkulla Wohngebiet",
             "hu": "Fagerkulla lakónegyed",
             "ro": "Cartierul rezidențial Fagerkulla",
-            "en": "Fagerkulla Residential Area"
+            "en": "Fagerkulla Residential Area",
+            "fi": "Fagerkullan asuinalue"
           },
           "coords": [
             24.213,
@@ -36,7 +37,8 @@
             "de": "Achten Sie auf die einzigartige Holzarchitektur, die für diese Region typisch ist.",
             "hu": "Figyelje meg az egyedi, erre a régióra jellemző faépítészetet.",
             "ro": "Observați arhitectura unică din lemn, tipică acestei regiuni.",
-            "en": "Look for the unique wooden architecture typical of this region."
+            "en": "Look for the unique wooden architecture typical of this region.",
+            "fi": "Etsi alueen tyypillistä puuarkkitehtuuria."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Bremer Herrenhaus",
             "hu": "Bremer-udvarház",
             "ro": "Conacul Bremer",
-            "en": "Bremer Mansion"
+            "en": "Bremer Mansion",
+            "fi": "Bremerin kartano"
           },
           "coords": [
             24.209,
@@ -59,7 +62,8 @@
             "de": "Das Herrenhaus ist oft nur von außen zu besichtigen, aber der umliegende Garten ist wunderschön.",
             "hu": "A kúria gyakran csak kívülről látogatható, de a környező kert gyönyörű.",
             "ro": "Conacul poate fi vizitat adesea doar din exterior, dar grădina înconjurătoare este frumoasă.",
-            "en": "The mansion is often only viewable from the outside, but the surrounding garden is beautiful."
+            "en": "The mansion is often only viewable from the outside, but the surrounding garden is beautiful.",
+            "fi": "Kartanoa voi usein katsella vain ulkoa, mutta ympäröivä puutarha on kaunis."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Hochofen Högfors",
             "hu": "Högforsi nagyolvasztó",
             "ro": "Furnalul Högfors",
-            "en": "Högfors Blast Furnace"
+            "en": "Högfors Blast Furnace",
+            "fi": "Högforsin masuuni"
           },
           "coords": [
             24.205,
@@ -82,7 +87,8 @@
             "de": "Ein beeindruckendes Denkmal der finnischen Industriegeschichte. Nehmen Sie sich Zeit für die Infotafeln.",
             "hu": "A finn ipartörténet lenyűgöző emlékműve. Szánjon időt az információs táblákra.",
             "ro": "Un monument impresionant al istoriei industriale finlandeze. Acordați-vă timp pentru panourile informative.",
-            "en": "An impressive monument to Finnish industrial history. Take time to read the info boards."
+            "en": "An impressive monument to Finnish industrial history. Take time to read the info boards.",
+            "fi": "Vaikuttava muistomerkki suomalaiselle teollisuushistorialle. Ota aikaa lukea infotaulut."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Gießereimuseum",
             "hu": "Öntödei Múzeum",
             "ro": "Muzeul Turnătoriei",
-            "en": "Foundry Museum"
+            "en": "Foundry Museum",
+            "fi": "Valimomuseo"
           },
           "coords": [
             24.206,
@@ -105,7 +112,8 @@
             "de": "Das Museum befindet sich direkt neben dem Hochofen und bietet einen tieferen Einblick in die Arbeit der Gießerei.",
             "hu": "A múzeum közvetlenül a nagyolvasztó mellett található, és mélyebb betekintést nyújt az öntöde munkájába.",
             "ro": "Muzeul este situat chiar lângă furnal și oferă o perspectivă mai profundă asupra muncii din turnătorie.",
-            "en": "The museum is right next to the blast furnace and offers a deeper insight into the foundry's work."
+            "en": "The museum is right next to the blast furnace and offers a deeper insight into the foundry's work.",
+            "fi": "Museo sijaitsee aivan masuunin vieressä ja tarjoaa syvällisemmän katsauksen valimon työhön."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Kirche von Karkkila",
             "hu": "Karkkilai templom",
             "ro": "Biserica din Karkkila",
-            "en": "Church of Karkkila"
+            "en": "Church of Karkkila",
+            "fi": "Karkkilan kirkko"
           },
           "coords": [
             24.215,
@@ -128,7 +137,8 @@
             "de": "Eine schlichte, aber schöne moderne Kirche. Genießen Sie die friedliche Atmosphäre im Inneren.",
             "hu": "Egyszerű, de gyönyörű modern templom. Élvezze a békés légkört bent.",
             "ro": "O biserică modernă simplă, dar frumoasă. Bucurați-vă de atmosfera liniștită din interior.",
-            "en": "A simple but beautiful modern church. Enjoy the peaceful atmosphere inside."
+            "en": "A simple but beautiful modern church. Enjoy the peaceful atmosphere inside.",
+            "fi": "Yksinkertainen mutta kaunis moderni kirkko. Nauti rauhallisesta tunnelmasta sisällä."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Ala-Emäkoski Stromschnellen",
             "hu": "Ala-Emäkoski zuhatag",
             "ro": "Cascadele Ala-Emäkoski",
-            "en": "Ala-Emäkoski Rapids"
+            "en": "Ala-Emäkoski Rapids",
+            "fi": "Ala-Emäkosken koski"
           },
           "coords": [
             24.202,
@@ -151,7 +162,8 @@
             "de": "Ein großartiger Ort zum Entspannen. Bringen Sie ein Picknick mit und genießen Sie das Rauschen des Wassers.",
             "hu": "Nagyszerű hely a pihenésre. Hozzon magával piknikkosarat, és élvezze a víz csobogását.",
             "ro": "Un loc minunat pentru relaxare. Aduceți un picnic și bucurați-vă de sunetul apei.",
-            "en": "A great place to relax. Bring a picnic and enjoy the sound of the rushing water."
+            "en": "A great place to relax. Bring a picnic and enjoy the sound of the rushing water.",
+            "fi": "Loistava paikka rentoutua. Ota eväät mukaan ja nauti kuohuvan veden äänistä."
           }
         }
       ],
@@ -159,7 +171,8 @@
         "de": "Beginnen Sie Ihren Tag im charmanten Holzhausviertel Fagerkulla und spazieren Sie zum historischen Bremer Herrenhaus. Das industrielle Herz von Karkkila erwartet Sie am Nachmittag. Der massive Hochofen und das Gießereimuseum erzählen die Geschichte des Ortes. Besichtigen Sie die schlichte Eleganz der Kirche von Karkkila, bevor Sie am Ufer der tosenden Ala-Emäkoski-Stromschnellen entspannen. Der perfekte Abschluss eines Tages voller Entdeckungen.",
         "hu": "Kezdje a napot a bájos Fagerkulla faházas negyedében, majd sétáljon át a történelmi Bremer-udvarházhoz. Délután Karkkila ipari szíve várja. A hatalmas nagyolvasztó és az Öntödei Múzeum a város történetét meséli el. Tekintse meg a karkkilai templom egyszerű eleganciáját, mielőtt a zubogó Ala-Emäkoski zuhatag partján pihenne. Tökéletes lezárása egy felfedezésekkel teli napnak.",
         "ro": "Începeți ziua în fermecătorul cartier cu case de lemn Fagerkulla și plimbați-vă până la istoricul Conac Bremer. Inima industrială a orașului Karkkila vă așteaptă după-amiaza. Furnalul masiv și Muzeul Turnătoriei spun povestea locului. Vizitați eleganța simplă a Bisericii din Karkkila înainte de a vă relaxa pe malurile cascadelor zgomotoase Ala-Emäkoski. Finalul perfect pentru o zi plină de descoperiri.",
-        "en": "Start your day in the charming Fagerkulla wooden house district and stroll to the historic Bremer Mansion. The industrial heart of Karkkila awaits in the afternoon. The massive blast furnace and the Foundry Museum tell the story of the town. Visit the simple elegance of the Church of Karkkila before relaxing on the banks of the roaring Ala-Emäkoski rapids. The perfect end to a day of discovery."
+        "en": "Start your day in the charming Fagerkulla wooden house district and stroll to the historic Bremer Mansion. The industrial heart of Karkkila awaits in the afternoon. The massive blast furnace and the Foundry Museum tell the story of the town. Visit the simple elegance of the Church of Karkkila before relaxing on the banks of the roaring Ala-Emäkoski rapids. The perfect end to a day of discovery.",
+        "fi": "Aloita päivä viehättävässä Fagerkullan puutaloalueessa ja kävele historialliselle Bremerin kartanolle. Karkkilan teollinen sydän odottaa iltapäivällä. Massiivinen masuuni ja Valimomuseo kertovat kaupungin tarinan. Käy Karkkilan kirkon yksinkertaisessa eleganssissa ennen rentoutumista Ala-Emäkosken pauhaavien koskien rannalla. Täydellinen päätös löytöretkien päivälle."
       },
       "gastro_picks": {
         "de": [
@@ -299,6 +312,11 @@
           "Wear comfortable shoes as you will be walking a lot on uneven terrain.",
           "Some museums have limited opening hours, check them in advance.",
           "The weather in Finland can change quickly, pack a raincoat."
+        ],
+        "fi": [
+          "Pue mukavat kengät, sillä kävelet paljon epätasaisessa maastossa.",
+          "Joillakin museoilla on rajoitetut aukioloajat; tarkista ne etukäteen.",
+          "Sää voi muuttua nopeasti Suomessa, pakkaa sadetakki."
         ]
       },
       "variants": {
@@ -307,7 +325,8 @@
             "de": "Beginnen Sie den Tag in Fagerkulla, wo die roten Holzhäuser im Regen besonders kräftig leuchten. Das Bremer Herrenhaus bietet einen eleganten Anblick unter grauem Himmel. Mittags tauchen Sie in die industrielle Welt des Högfors-Hochofens und des Gießereimuseums ein, die ideale Zufluchtsorte vor dem Nass bieten. Am Nachmittag bewundern Sie die kraftvollen Ala-Emäkoski-Stromschnellen.",
             "hu": "Kezdje a napot Fagerkulla vörös faházai között, amelyek esőben még élénkebb színt öltenek. A Bremer-kúria elegáns látványt nyújt a szürke égbolt alatt is. Délben húzódjon be a Högfors nagyolvasztó és az Öntödei Múzeum falai közé, amelyek tökéletes menedéket nyújtanak. Délután nézze meg az Ala-Emäkoski zúgókat, ahol az esővíz felduzzasztja a folyót, majd pihenjen meg egy helyi kávézóban.",
             "ro": "Începeți ziua în Fagerkulla, unde casele roșii de lemn strălucesc intens sub ploaie. Conacul Bremer oferă o priveliște elegantă chiar și sub cerul gri. La prânz, vizitați furnalul Högfors și Muzeul Turnătoriei, locuri ideale pentru a scăpa de umezeală. După-amiaza, admirați forța cascadelor Ala-Emäkoski, care devin și mai impresionante pe vreme ploioasă.",
-            "en": "Start the day in Fagerkulla, where red wooden houses look even more vibrant in the rain. The Bremer Mansion offers an elegant sight under grey skies. At noon, dive into the industrial world of the Högfors blast furnace and Foundry Museum, perfect shelters from the wet. In the afternoon, admire the powerful Ala-Emäkoski rapids, where the rain adds to the river's volume."
+            "en": "Start the day in Fagerkulla, where red wooden houses look even more vibrant in the rain. The Bremer Mansion offers an elegant sight under grey skies. At noon, dive into the industrial world of the Högfors blast furnace and Foundry Museum, perfect shelters from the wet. In the afternoon, admire the powerful Ala-Emäkoski rapids, where the rain adds to the river's volume.",
+            "fi": "Aloita päivä Fagerkullassa, jossa punaiset puutalot näyttävät sateella entistä eloisammilta. Bremerin kartano tarjoaa elegantin näkymän harmaiden taivaiden alla. Keski­päivällä sukella Högforsin masuunin ja Valimomuseon teolliseen maailmaan, jotka ovat erinomaisia suojapaikkoja sateelta. Iltapäivällä ihaile voimakkaita Ala-Emäkosken koskia, joissa sade lisää joen virtaamaa."
           },
           "stops": [
             {
@@ -316,7 +335,8 @@
                 "de": "Schutz unter Dachvorsprüngen suchen.",
                 "hu": "Használja az ereszaljakat menedékként.",
                 "ro": "Căutați adăpost sub streșini.",
-                "en": "Seek shelter under the eaves of old houses."
+                "en": "Seek shelter under the eaves of old houses.",
+                "fi": "Etsi suojaa vanhojen talojen räystäiden alta."
               }
             },
             {
@@ -325,7 +345,8 @@
                 "de": "Der Gartenweg kann schlammig sein.",
                 "hu": "A kerti ösvény sáros lehet.",
                 "ro": "Poteca din grădină poate fi noroioasă.",
-                "en": "The garden path might be muddy."
+                "en": "The garden path might be muddy.",
+                "fi": "Puutarhapolku saattaa olla mutainen."
               }
             },
             {
@@ -334,7 +355,8 @@
                 "de": "Trockener Rückzugsort mit viel Geschichte.",
                 "hu": "Száraz menedék gazdag történelemmel.",
                 "ro": "Refugiu uscat cu multă istorie.",
-                "en": "Dry retreat with plenty of history."
+                "en": "Dry retreat with plenty of history.",
+                "fi": "Kuiva lepopaikka täynnä historiaa."
               }
             },
             {
@@ -343,7 +365,8 @@
                 "de": "Ideal für eine lange Regenpause.",
                 "hu": "Ideális egy hosszú esőszünetre.",
                 "ro": "Ideal pentru o pauză lungă de ploaie.",
-                "en": "Ideal for a long break from the rain."
+                "en": "Ideal for a long break from the rain.",
+                "fi": "Ihanteellinen pitkäksi tauoksi sateelta."
               }
             },
             {
@@ -352,7 +375,8 @@
                 "de": "Ein ruhiger Ort zum Aufwärmen.",
                 "hu": "Csendes hely a felmelegedéshez.",
                 "ro": "Un loc liniștit pentru a te încălzi.",
-                "en": "A quiet place to warm up."
+                "en": "A quiet place to warm up.",
+                "fi": "Hiljainen paikka lämmitellä."
               }
             },
             {
@@ -361,7 +385,8 @@
                 "de": "Vorsicht auf den nassen Stegen.",
                 "hu": "Vigyázat a nedves pallókon.",
                 "ro": "Atenție la podețele umede.",
-                "en": "Careful on the wet wooden walkways."
+                "en": "Careful on the wet wooden walkways.",
+                "fi": "Varo märkiä puisia kävelyteitä."
               }
             }
           ],
@@ -389,6 +414,12 @@
               "The Foundry Museum is the best spot to stay dry.",
               "Central cafes provide cozy shelters during downpours.",
               "Beware of slippery leaves on the walkways."
+            ],
+            "fi": [
+              "Vedenpitävät kengät ja sadetakki ovat välttämätön varustus.",
+              "Valimomuseo on paras paikka pysyä kuivana.",
+              "Keskustan kahvilat tarjoavat kodikkaita suojapaikkoja rankkasateella.",
+              "Varo liukkaita lehtiä kävelyteillä."
             ]
           }
         },
@@ -397,7 +428,8 @@
             "de": "Karkkila im Winter ist eine stille Industriestadt unter einer Schneedecke. Fagerkulla wirkt wie ein Weihnachtsdorf. Mittags wärmen Sie sich im Gießereimuseum auf, während draußen der Frost klirrt. Die Kirche von Karkkila bietet einen friedlichen Rückzugsort in der Kälte. Den Abschluss bilden die Ala-Emäkoski-Stromschnellen, deren eisfreies Wasser magisch im Dämmerlicht dampft.",
             "hu": "Karkkila télen egy csendes iparváros a hólepel alatt. Fagerkulla ilyenkor olyan, mint egy karácsonyi falu. Délben melegedjen fel az Öntödei Múzeumban, miközben kint repkednek a mínuszok. A karkkilai templom békés menedék a hidegben. A napot az Ala-Emäkoski zúgók zárják, ahol a be nem fagyott víz varázslatosan gőzölög a korai szürkületben.",
             "ro": "Karkkila iarna este un oraș industrial liniștit sub mantia de zăpadă. Fagerkulla arată ca un sat de Crăciun. La prânz, încălziți-vă în Muzeul Turnătoriei în timp ce afară este ger. Biserica din Karkkila oferă un refugiu pașnic. Ziua se încheie la cascadele Ala-Emäkoski, unde apa neînghețată aburește magic în amurgul timpuriu.",
-            "en": "Karkkila in winter is a quiet industrial town under a blanket of snow. Fagerkulla looks like a Christmas village. At noon, warm up in the Foundry Museum while the frost bites outside. The Church of Karkkila offers a peaceful sanctuary. The day ends at the Ala-Emäkoski rapids, where the unfrozen water steams magically in the early twilight."
+            "en": "Karkkila in winter is a quiet industrial town under a blanket of snow. Fagerkulla looks like a Christmas village. At noon, warm up in the Foundry Museum while the frost bites outside. The Church of Karkkila offers a peaceful sanctuary. The day ends at the Ala-Emäkoski rapids, where the unfrozen water steams magically in the early twilight.",
+            "fi": "Karkkila talvella on hiljainen teollisuuskaupunki lumipeitteen alla. Fagerkulla näyttää joulukylältä. Keskipäivällä lämmittele Valimomuseossa, kun pakkanen puristaa ulkona. Karkkilan kirkko tarjoaa rauhallisen turvapaikan. Päivä päättyy Ala-Emäkosken koskille, missä jäätymätön vesi höyryää taianomaisesti hämärässä."
           },
           "stops": [
             {
@@ -406,7 +438,8 @@
                 "de": "Warm anziehen, die Häuser sind nur von außen zu sehen.",
                 "hu": "Öltözzön rétegesen, a házak csak kívülről nézhetők.",
                 "ro": "Îmbrăcați-vă bine, casele pot fi văzute doar din exterior.",
-                "en": "Dress warmly; the houses are only viewable from outside."
+                "en": "Dress warmly; the houses are only viewable from outside.",
+                "fi": "Pukeudu lämpimästi; taloja voi katsella vain ulkopuolelta."
               }
             },
             {
@@ -415,7 +448,8 @@
                 "de": "Wunderschön bei Sonnenuntergang gegen 15:00 Uhr.",
                 "hu": "Gyönyörű naplementekor, délután 3 körül.",
                 "ro": "Superb la apus, în jur de ora 15:00.",
-                "en": "Beautiful at sunset, around 3 PM."
+                "en": "Beautiful at sunset, around 3 PM.",
+                "fi": "Kaunis auringonlaskun aikaan, noin klo 15."
               }
             },
             {
@@ -424,7 +458,8 @@
                 "de": "Historisches Gemäuer schützt vor dem Wind.",
                 "hu": "A történelmi falak védenek a széltől.",
                 "ro": "Zidurile istorice protejează împotriva vântului.",
-                "en": "Historical walls protect against the wind."
+                "en": "Historical walls protect against the wind.",
+                "fi": "Historialliset muurit suojaavat tuulelta."
               }
             },
             {
@@ -433,7 +468,8 @@
                 "de": "Perfekt geheizt für eine Aufwärmpause.",
                 "hu": "Tökéletesen fűtött hely a felmelegedéshez.",
                 "ro": "Încălzit perfect pentru o pauză de dezghețare.",
-                "en": "Perfectly heated for a warming break."
+                "en": "Perfectly heated for a warming break.",
+                "fi": "Täydellisesti lämmitetty lämmittelytauolle."
               }
             },
             {
@@ -442,7 +478,8 @@
                 "de": "Kerzenlicht sorgt für Wärme und Atmosphäre.",
                 "hu": "A gyertyafény melegséget és hangulatot áraszt.",
                 "ro": "Lumina lumânărilor oferă căldură și atmosferă.",
-                "en": "Candlelight provides warmth and atmosphere."
+                "en": "Candlelight provides warmth and atmosphere.",
+                "fi": "Kynttilänvalo tuo lämpöä ja tunnelmaa."
               }
             },
             {
@@ -451,7 +488,8 @@
                 "de": "Achtung, Glatteisgefahr auf den Wegen!",
                 "hu": "Vigyázat, jegesedés várható az utakon!",
                 "ro": "Atenție, pericol de polei pe poteci!",
-                "en": "Caution: ice hazard on the paths!"
+                "en": "Caution: ice hazard on the paths!",
+                "fi": "Varoitus: jääriski poluilla!"
               }
             }
           ],
@@ -479,6 +517,12 @@
               "Wear thermal base layers and wool socks.",
               "The Högfors area is extremely photogenic in the snow.",
               "Plan regular stops in heated indoor spaces."
+            ],
+            "fi": [
+              "Aurinko laskee talvella noin klo 15–16.",
+              "Käytä lämpimiä aluskerrastoja ja villasukkia.",
+              "Högforsin alue on erittäin valokuvauksellinen lumessa.",
+              "Suunnittele säännöllisiä taukoja lämmitetyissä sisätiloissa."
             ]
           }
         }
@@ -497,7 +541,8 @@
             "de": "Hochofen Högfors & Gießereimuseum",
             "hu": "Högforsi nagyolvasztó és Öntödei Múzeum",
             "ro": "Furnalul Högfors și Muzeul Turnătoriei",
-            "en": "Högfors Blast Furnace & Foundry Museum"
+            "en": "Högfors Blast Furnace & Foundry Museum",
+            "fi": "Högforsin masuunin ja valimon museo"
           },
           "coords": [
             24.205,
@@ -512,7 +557,8 @@
             "de": "Parken Sie Ihr Fahrrad und erkunden Sie das gesamte Industriegebiet zu Fuß.",
             "hu": "Parkolja le a kerékpárt, és fedezze fel gyalog az egész ipari területet.",
             "ro": "Parcați bicicleta și explorați întreaga zonă industrială pe jos.",
-            "en": "Park your bike and explore the entire industrial area on foot."
+            "en": "Park your bike and explore the entire industrial area on foot.",
+            "fi": "Pysäköi pyöräsi ja tutustu koko teollisuusalueeseen jalkaisin."
           }
         },
         {
@@ -520,7 +566,8 @@
             "de": "Ala-Emäkoski Stromschnellen",
             "hu": "Ala-Emäkoski zuhatag",
             "ro": "Cascadele Ala-Emäkoski",
-            "en": "Ala-Emäkoski Rapids"
+            "en": "Ala-Emäkoski Rapids",
+            "fi": "Ala-Emäkosken kosket"
           },
           "coords": [
             24.202,
@@ -535,7 +582,8 @@
             "de": "Ein kurzer, einfacher Radweg führt vom Industriegebiet hierher.",
             "hu": "Egy rövid, könnyű kerékpárút vezet ide az ipari területről.",
             "ro": "O pistă de biciclete scurtă și ușoară duce aici din zona industrială.",
-            "en": "A short, easy bike path leads here from the industrial area."
+            "en": "A short, easy bike path leads here from the industrial area.",
+            "fi": "Lyhyt, helppo pyörätie johtaa tänne teollisuusalueelta."
           }
         },
         {
@@ -543,7 +591,8 @@
             "de": "Tehtaanpuisto Park",
             "hu": "Tehtaanpuisto Park",
             "ro": "Parcul Tehtaanpuisto",
-            "en": "Tehtaanpuisto Park"
+            "en": "Tehtaanpuisto Park",
+            "fi": "Tehtaanpuisto"
           },
           "coords": [
             24.21,
@@ -558,7 +607,8 @@
             "de": "Ein schöner Ort für eine kurze Pause, bevor Sie ins Stadtzentrum radeln.",
             "hu": "Szép hely egy rövid szünetre, mielőtt a városközpontba biciklizne.",
             "ro": "Un loc frumos pentru o scurtă pauză înainte de a merge cu bicicleta în centrul orașului.",
-            "en": "A nice spot for a short break before cycling to the town center."
+            "en": "A nice spot for a short break before cycling to the town center.",
+            "fi": "Mukava paikka lyhyelle tauolle ennen pyöräilyä keskustaan."
           }
         },
         {
@@ -566,7 +616,8 @@
             "de": "Fagerkulla Wohngebiet",
             "hu": "Fagerkulla lakónegyed",
             "ro": "Cartierul rezidențial Fagerkulla",
-            "en": "Fagerkulla Residential Area"
+            "en": "Fagerkulla Residential Area",
+            "fi": "Fagerkullan asuinalue"
           },
           "coords": [
             24.213,
@@ -581,7 +632,8 @@
             "de": "Radeln Sie langsam durch die Straßen, um die Details der Holzhäuser zu bewundern.",
             "hu": "Lassan biciklizzen végig az utcákon, hogy megcsodálhassa a faházak részleteit.",
             "ro": "Mergeți încet cu bicicleta pe străzi pentru a admira detaliile caselor din lemn.",
-            "en": "Cycle slowly through the streets to admire the details of the wooden houses."
+            "en": "Cycle slowly through the streets to admire the details of the wooden houses.",
+            "fi": "Pyöräile hitaasti kaduilla ihaillen puutalojen yksityiskohtia."
           }
         },
         {
@@ -589,7 +641,8 @@
             "de": "Kirche von Karkkila",
             "hu": "Karkkilai templom",
             "ro": "Biserica din Karkkila",
-            "en": "Church of Karkkila"
+            "en": "Church of Karkkila",
+            "fi": "Karkkilan kirkko"
           },
           "coords": [
             24.215,
@@ -604,7 +657,8 @@
             "de": "Es gibt Fahrradständer direkt vor der Kirche.",
             "hu": "A templom előtt kerékpártárolók találhatók.",
             "ro": "Există suporturi pentru biciclete chiar în fața bisericii.",
-            "en": "There are bike racks right in front of the church."
+            "en": "There are bike racks right in front of the church.",
+            "fi": "Kirkon edessä on pyörätelineet."
           }
         },
         {
@@ -612,7 +666,8 @@
             "de": "Pyhäjärvi See",
             "hu": "Pyhäjärvi-tó",
             "ro": "Lacul Pyhäjärvi",
-            "en": "Pyhäjärvi Lake"
+            "en": "Pyhäjärvi Lake",
+            "fi": "Pyhäjärvi"
           },
           "coords": [
             24.255,
@@ -627,7 +682,8 @@
             "de": "Der Radweg zum See ist malerisch. Es gibt einen Strand, an dem Sie sich an einem warmen Tag abkühlen können.",
             "hu": "A tóhoz vezető kerékpárút festői. Van egy strand, ahol egy meleg napon lehűlhet.",
             "ro": "Pista de biciclete spre lac este pitorească. Există o plajă unde vă puteți răcori într-o zi caldă.",
-            "en": "The bike path to the lake is scenic. There's a beach where you can cool off on a warm day."
+            "en": "The bike path to the lake is scenic. There's a beach where you can cool off on a warm day.",
+            "fi": "Pyörätie järvelle on maisemallinen. Rannalla on uimaranta, jossa voi viilentyä lämpimänä päivänä."
           }
         },
         {
@@ -635,7 +691,8 @@
             "de": "Zurück zum Stadtzentrum",
             "hu": "Vissza a városközpontba",
             "ro": "Înapoi în centrul orașului",
-            "en": "Return to Town Center"
+            "en": "Return to Town Center",
+            "fi": "Palaa keskustaan"
           },
           "coords": [
             24.2111,
@@ -650,7 +707,8 @@
             "de": "Beenden Sie Ihre Tour mit einem späten Mittagessen oder einem Kaffee in einem der Cafés im Zentrum.",
             "hu": "Zárja a túrát egy késői ebéddel vagy egy kávéval a központ egyik kávézójában.",
             "ro": "Încheiați-vă turul cu un prânz târziu sau o cafea la una dintre cafenelele din centru.",
-            "en": "End your tour with a late lunch or a coffee at one of the cafés in the center."
+            "en": "End your tour with a late lunch or a coffee at one of the cafés in the center.",
+            "fi": "Päätä kierros myöhäiseen lounaan tai kahvin äärellä yhdessä keskustan kahviloista."
           }
         }
       ],
@@ -658,7 +716,8 @@
         "de": "Erkunden Sie Karkkila mit dem Fahrrad, beginnend im Industriegebiet Högfors. Nach einem Einblick in die Geschichte radeln Sie zu den Ala-Emäkoski-Stromschnellen. Eine kurze Pause im Tehtaanpuisto-Park bereitet Sie auf das charmante Fagerkulla-Viertel vor. Nach dem Besuch der Kirche führt eine längere, malerische Fahrt zum Pyhäjärvi-See, ideal für eine ausgedehnte Pause. Kehren Sie ins Zentrum zurück, um den Tag bei einem wohlverdienten Essen ausklingen zu lassen.",
         "hu": "Fedezze fel Karkkilát kerékpárral, kezdve a Högfors ipari negyedben. A történelembe való betekintés után tekerjen az Ala-Emäkoski zuhataghoz. A Tehtaanpuisto parkban tartott rövid szünet felkészíti a bájos Fagerkulla negyedre. A templom meglátogatása után egy hosszabb, festői út vezet a Pyhäjärvi-tóhoz, amely ideális egy hosszabb pihenőre. Térjen vissza a központba, hogy egy jól megérdemelt étkezéssel zárja a napot.",
         "ro": "Explorați Karkkila pe bicicletă, începând din zona industrială Högfors. După o incursiune în istorie, pedalați spre cascadele Ala-Emäkoski. O scurtă pauză în parcul Tehtaanpuisto vă pregătește pentru fermecătorul cartier Fagerkulla. După vizitarea bisericii, o plimbare mai lungă și pitorească duce la lacul Pyhäjärvi, ideal pentru o pauză extinsă. Întoarceți-vă în centru pentru a încheia ziua cu o masă binemeritată.",
-        "en": "Explore Karkkila by bike, starting in the Högfors industrial area. After a glimpse into history, cycle to the Ala-Emäkoski rapids. A short break in Tehtaanpuisto Park prepares you for the charming Fagerkulla district. After visiting the church, a longer, scenic ride leads to Lake Pyhäjärvi, ideal for an extended break. Return to the center to end the day with a well-deserved meal."
+        "en": "Explore Karkkila by bike, starting in the Högfors industrial area. After a glimpse into history, cycle to the Ala-Emäkoski rapids. A short break in Tehtaanpuisto Park prepares you for the charming Fagerkulla district. After visiting the church, a longer, scenic ride leads to Lake Pyhäjärvi, ideal for an extended break. Return to the center to end the day with a well-deserved meal.",
+        "fi": "Tutustu Karkkilaan pyörällä aloittaen Högforsin teollisuusalueelta. Historiallisen kurkistuksen jälkeen pyöräile Ala-Emäkoskelle. Lyhyt tauko Tehtaanpuistossa valmistaa charmikkaaseen Fagerkullan kaupunginosaan. Kirkon jälkeen pidempi, maisemallinen pyöräily johtaa Pyhäjärvelle, joka sopii pidemmälle tauolle. Palaa keskustaan ja päätä päivä ansaitulla ateriolla."
       },
       "gastro_picks": {
         "de": [
@@ -798,6 +857,11 @@
           "Bring a bike lock.",
           "The paths to the lake can be unpaved, a mountain or trekking bike is advantageous.",
           "Remember to bring water and snacks."
+        ],
+        "fi": [
+          "Ota pyörälukko mukaan.",
+          "Reitit järvelle voivat olla päällystämättömiä; maasto- tai trekking-pyörä on eduksi.",
+          "Muista ottaa vettä ja naposteltavaa."
         ]
       },
       "variants": {
@@ -806,7 +870,8 @@
             "de": "Eine Radtour durch Karkkila bei Regen erfordert die richtige Ausrüstung. Starten Sie beim geschützten Gießereimuseum. Die Fahrt zu den Ala-Emäkoski-Stromschnellen ist kurz, aber erfrischend. Nachmittags radeln Sie zum Pyhäjärvi-See, wo der Regen auf die Wasseroberfläche trommelt. Die Tour endet gemütlich im Stadtzentrum bei einer heißen Mahlzeit.",
             "hu": "Egy esős kerékpártúra Karkkilában megfelelő felszerelést igényel. Kezdjen a fedett Öntödei Múzeumnál. Az út az Ala-Emäkoski zúgókhoz rövid, de frissítő. Délután tekerjen el a Pyhäjärvi-tóhoz, ahol az eső kopog a vízen. A túra kényelmesen, a városközpontban zárul egy forró étel mellett.",
             "ro": "O tură cu bicicleta prin Karkkila pe ploaie necesită echipament adecvat. Începeți la Muzeul Turnătoriei, care oferă adăpost. Drumul spre cascadele Ala-Emäkoski este scurt, dar revigorant. După-amiaza, pedalați spre lacul Pyhäjärvi. Turul se încheie relaxant în centrul orașului cu o masă caldă.",
-            "en": "A rainy bike tour in Karkkila requires the right gear. Start at the sheltered Foundry Museum. The ride to Ala-Emäkoski is short but refreshing. In the afternoon, cycle to Lake Pyhäjärvi, where rain drums on the water. The tour ends comfortably in the town center with a hot meal."
+            "en": "A rainy bike tour in Karkkila requires the right gear. Start at the sheltered Foundry Museum. The ride to Ala-Emäkoski is short but refreshing. In the afternoon, cycle to Lake Pyhäjärvi, where rain drums on the water. The tour ends comfortably in the town center with a hot meal.",
+            "fi": "Sadekelpoinen pyöräretki Karkkilassa vaatii oikeat varusteet. Aloita suojaisasta Valimomuseosta. Matka Ala-Emäkoskelle on lyhyt mutta virkistävä. Iltapäivällä pyöräile Pyhäjärvelle, missä sade rummuttaa veden pinnalla. Kierros päättyy mukavasti keskustaan kuuman aterian äärelle."
           },
           "stops": [
             {
@@ -815,7 +880,8 @@
                 "de": "Fahrradständer unter dem Vordach nutzen.",
                 "hu": "Használja az előtető alatti biciklitárolót.",
                 "ro": "Folosiți suportul de biciclete de sub copertină.",
-                "en": "Use the bike racks under the canopy."
+                "en": "Use the bike racks under the canopy.",
+                "fi": "Käytä katoksen alla olevia pyörätelineitä."
               }
             },
             {
@@ -824,7 +890,8 @@
                 "de": "Vorsicht beim Bremsen auf nassem Asphalt.",
                 "hu": "Vigyázzon a fékezéssel a vizes aszfalton.",
                 "ro": "Atenție la frânare pe asfaltul umed.",
-                "en": "Be careful when braking on wet asphalt."
+                "en": "Be careful when braking on wet asphalt.",
+                "fi": "Ole varovainen jarruttaessa märällä asfaltilla."
               }
             },
             {
@@ -833,7 +900,8 @@
                 "de": "Unter Bäumen kurzzeitig Schutz suchen.",
                 "hu": "A fák alatt rövid ideig menedéket talál.",
                 "ro": "Căutați adăpost temporar sub copaci.",
-                "en": "Seek temporary shelter under the trees."
+                "en": "Seek temporary shelter under the trees.",
+                "fi": "Etsi väliaikaista suojaa puiden alta."
               }
             },
             {
@@ -842,7 +910,8 @@
                 "de": "Kopfsteinpflaster ist bei Regen sehr rutschig.",
                 "hu": "A macskakő esőben nagyon csúszik.",
                 "ro": "Pavelele sunt foarte alunecoase pe ploaie.",
-                "en": "Cobblestones are very slippery when wet."
+                "en": "Cobblestones are very slippery when wet.",
+                "fi": "Mukulakivet ovat hyvin liukkaita märkinä."
               }
             },
             {
@@ -851,7 +920,8 @@
                 "de": "Sicherer Abstellplatz für Fahrräder vorhanden.",
                 "hu": "Biztonságos biciklitároló áll rendelkezésre.",
                 "ro": "Există parcare sigură pentru biciclete.",
-                "en": "Safe bike parking available here."
+                "en": "Safe bike parking available here.",
+                "fi": "Turvallinen pyöräpysäköinti saatavilla täällä."
               }
             },
             {
@@ -860,7 +930,8 @@
                 "de": "Windfeste Kleidung am Seeufer nötig.",
                 "hu": "Szélálló ruházat szükséges a tóparton.",
                 "ro": "Haine rezistente la vânt pe malul lacului.",
-                "en": "Windproof clothing needed by the lake."
+                "en": "Windproof clothing needed by the lake.",
+                "fi": "Tuulenpitävät vaatteet tarpeen järven rannalla."
               }
             },
             {
@@ -869,7 +940,8 @@
                 "de": "Belohnen Sie sich mit einem warmen Kaffee.",
                 "hu": "Jutalmazza meg magát egy forró kávéval.",
                 "ro": "Recompensează-te cu o cafea caldă.",
-                "en": "Reward yourself with a hot coffee."
+                "en": "Reward yourself with a hot coffee.",
+                "fi": "Palkitse itsesi kuumalla kahvilla."
               }
             }
           ],
@@ -897,6 +969,12 @@
               "Avoid fast turns on wet cobblestones.",
               "Wear a hi-vis raincoat for better visibility.",
               "A waterproof saddle cover saves a lot of trouble."
+            ],
+            "fi": [
+              "Lokasuojat ovat ehdottomat tässä kelissä.",
+              "Vältä nopeita käännöksiä märillä mukulakivillä.",
+              "Käytä näkyvää sadetakkia paremman havaittavuuden vuoksi.",
+              "Vedenpitävä satulansuoja säästää paljon vaivaa."
             ]
           }
         },
@@ -905,7 +983,8 @@
             "de": "Winterradeln in Karkkila ist für die Hartgesottenen. Der Vormittag gehört der Industriegeschichte im Högfors-Museum. Die Fahrt durch den verschneiten Tehtaanpuisto-Park ist märchenhaft. Nachmittags geht es zum Pyhäjärvi-See, der oft zugefroren ist und eine endlose weiße Weite bietet. Die Rückkehr ins Stadtzentrum ist der Höhepunkt, um die kalten Glieder aufzuwärmen.",
             "hu": "A téli biciklizés Karkkilában a legelszántabbaknak való. A délelőtt az ipari történelemé a Högfors Múzeumban. A tekerés a havas Tehtaanpuisto parkon keresztül mesébe illő. Délután a Pyhäjärvi-tóhoz vezet az út, amely gyakran befagy és végtelen fehérséget kínál. A városközpontba való visszatérés a nap fénypontja a felmelegedéshez.",
             "ro": "Ciclismul de iarnă în Karkkila este pentru cei rezistenți. Dimineața aparține istoriei industriale la Muzeul Högfors. Drumul prin parcul înzăpezit Tehtaanpuisto este de basm. După-amiaza mergeți spre lacul Pyhäjärvi, adesea înghețat. Întoarcerea în centrul orașului este momentul perfect pentru a vă încălzi.",
-            "en": "Winter cycling in Karkkila is for the hardy. The morning belongs to industrial history at the Högfors Museum. The ride through the snowy Tehtaanpuisto Park is fairytale-like. In the afternoon, head to Lake Pyhäjärvi, often frozen into an endless white plain. Returning to the town center is the highlight to warm up cold limbs."
+            "en": "Winter cycling in Karkkila is for the hardy. The morning belongs to industrial history at the Högfors Museum. The ride through the snowy Tehtaanpuisto Park is fairytale-like. In the afternoon, head to Lake Pyhäjärvi, often frozen into an endless white plain. Returning to the town center is the highlight to warm up cold limbs.",
+            "fi": "Talvipyöräily Karkkilassa on sitkeille. Aamu kuuluu teollisuushistorialle Högforsin museossa. Ajelu lumisessa Tehtaanpuistossa on satumainen. Iltapäivällä suuntaa Pyhäjärvelle, joka usein on jäässä loputtomana valkoisena kenttänä. Paluu keskustaan on kohokohta, jossa saa lämmittää kylmiä raajoja."
           },
           "stops": [
             {
@@ -914,7 +993,8 @@
                 "de": "Bremsen Sie vorsichtig auf festgefahrenem Schnee.",
                 "hu": "Fékezzen óvatosan a letaposott havon.",
                 "ro": "Frânați cu grijă pe zăpada bătătorită.",
-                "en": "Brake cautiously on hard-packed snow."
+                "en": "Brake cautiously on hard-packed snow.",
+                "fi": "Jarruta varovasti kovaksi pakautuneessa lumessa."
               }
             },
             {
@@ -923,7 +1003,8 @@
                 "de": "Der Sprühnebel kann auf dem Rad gefrieren.",
                 "hu": "A felfröccsenő víz ráfagyhat a biciklire.",
                 "ro": "Vaporii de apă pot îngheța pe bicicletă.",
-                "en": "The mist from the rapids can freeze on your bike."
+                "en": "The mist from the rapids can freeze on your bike.",
+                "fi": "Koskien usva voi jäätyä pyörääsi."
               }
             },
             {
@@ -932,7 +1013,8 @@
                 "de": "Achtung vor versteckten Wurzeln unter dem Schnee.",
                 "hu": "Vigyázzon a hó alatti rejtett gyökerekre.",
                 "ro": "Atenție la rădăcinile ascunse sub zăpadă.",
-                "en": "Watch out for hidden roots under the snow."
+                "en": "Watch out for hidden roots under the snow.",
+                "fi": "Varo lumen alle piiloutuneita juuria."
               }
             },
             {
@@ -941,7 +1023,8 @@
                 "de": "Schöne Weihnachtsbeleuchtung an den Holzhäusern.",
                 "hu": "Szép karácsonyi díszkivilágítás a faházakon.",
                 "ro": "Iluminație de Crăciun superbă la casele de lemn.",
-                "en": "Beautiful Christmas lights on the wooden houses."
+                "en": "Beautiful Christmas lights on the wooden houses.",
+                "fi": "Kauniit jouluvalot puutaloissa."
               }
             },
             {
@@ -950,7 +1033,8 @@
                 "de": "Kurze Pause im warmen Vorraum möglich.",
                 "hu": "Rövid pihenő a meleg előtérben lehetséges.",
                 "ro": "Pauză scurtă posibilă în vestibulul cald.",
-                "en": "Short break possible in the warm vestibule."
+                "en": "Short break possible in the warm vestibule.",
+                "fi": "Lyhyt tauko mahdollinen lämpimässä eteisessä."
               }
             },
             {
@@ -959,7 +1043,8 @@
                 "de": "Extremer Windchill am offenen See.",
                 "hu": "Extrém szélhideg a nyílt tóparton.",
                 "ro": "Senzație de frig extrem pe malul deschis al lacului.",
-                "en": "Extreme wind chill by the open lake."
+                "en": "Extreme wind chill by the open lake.",
+                "fi": "Äärimmäinen tuulen kylmyys avoimella järvellä."
               }
             },
             {
@@ -968,7 +1053,8 @@
                 "de": "Parken Sie Ihr Rad an einem schneefreien Platz.",
                 "hu": "Parkoljon hómentes helyen.",
                 "ro": "Parcați bicicleta într-un loc fără zăpadă.",
-                "en": "Park your bike in a snow-free spot."
+                "en": "Park your bike in a snow-free spot.",
+                "fi": "Pysäköi pyörä lumettomaan paikkaan."
               }
             }
           ],
@@ -996,6 +1082,12 @@
               "Lights are vital starting from 3 PM.",
               "Wear ski gloves against the cold wind while riding.",
               "Battery lights drain faster in the cold; bring spares."
+            ],
+            "fi": [
+              "Nastarenkaat suositeltavia Suomen talvireiteillä.",
+              "Valot ovat välttämättömät alkaen klo 15.",
+              "Käytä hiihtohanskoja kylmää tuulta vastaan ajaessa.",
+              "Paristovalot kuluttavat virtaa nopeammin kylmässä; ota varaparistoja."
             ]
           }
         }
@@ -1014,7 +1106,8 @@
             "de": "Cluster 1: Pyhäjärvi See",
             "hu": "1. klaszter: Pyhäjärvi-tó",
             "ro": "Cluster 1: Lacul Pyhäjärvi",
-            "en": "Cluster 1: Pyhäjärvi Lake"
+            "en": "Cluster 1: Pyhäjärvi Lake",
+            "fi": "Klusteri 1: Pyhäjärvi"
           },
           "coords": [
             24.255,
@@ -1030,7 +1123,8 @@
             "de": "Beginnen Sie den Tag in der Natur. Parken Sie am Strand und machen Sie einen Spaziergang am Ufer.",
             "hu": "Kezdje a napot a természetben. Parkoljon a strandnál és tegyen egy sétát a parton.",
             "ro": "Începeți ziua în natură. Parcați la plajă și faceți o plimbare pe mal.",
-            "en": "Start the day in nature. Park at the beach and take a walk along the shore."
+            "en": "Start the day in nature. Park at the beach and take a walk along the shore.",
+            "fi": "Aloita päivä luonnossa. Pysäköi rannalle ja kävele pitkin rantaa."
           }
         },
         {
@@ -1038,7 +1132,8 @@
             "de": "Cluster 2: Högfors Industriegebiet",
             "hu": "2. klaszter: Högfors ipari terület",
             "ro": "Cluster 2: Zona Industrială Högfors",
-            "en": "Cluster 2: Högfors Industrial Area"
+            "en": "Cluster 2: Högfors Industrial Area",
+            "fi": "Klusteri 2: Högforsin teollisuusalue"
           },
           "coords": [
             24.205,
@@ -1054,7 +1149,8 @@
             "de": "Parken Sie hier und erkunden Sie die nächsten drei Stationen zu Fuß.",
             "hu": "Parkoljon itt, és fedezze fel a következő három megállót gyalog.",
             "ro": "Parcați aici și explorați următoarele trei opriri pe jos.",
-            "en": "Park here and explore the next three stops on foot."
+            "en": "Park here and explore the next three stops on foot.",
+            "fi": "Pysäköi täällä ja tutustu seuraaviin kolmeen kohteeseen jalkaisin."
           }
         },
         {
@@ -1062,7 +1158,8 @@
             "de": "Hochofen Högfors",
             "hu": "Högforsi nagyolvasztó",
             "ro": "Furnalul Högfors",
-            "en": "Högfors Blast Furnace"
+            "en": "Högfors Blast Furnace",
+            "fi": "Högforsin masuuni"
           },
           "coords": [
             24.205,
@@ -1078,7 +1175,8 @@
             "de": "Das Herzstück des Industrieerbes von Karkkila.",
             "hu": "Karkkila ipari örökségének szíve.",
             "ro": "Inima patrimoniului industrial din Karkkila.",
-            "en": "The heart of Karkkila's industrial heritage."
+            "en": "The heart of Karkkila's industrial heritage.",
+            "fi": "Karkkilan teollisuusperinnön sydän."
           }
         },
         {
@@ -1086,7 +1184,8 @@
             "de": "Gießereimuseum",
             "hu": "Öntödei Múzeum",
             "ro": "Muzeul Turnătoriei",
-            "en": "Foundry Museum"
+            "en": "Foundry Museum",
+            "fi": "Valimomuseo"
           },
           "coords": [
             24.206,
@@ -1102,7 +1201,8 @@
             "de": "Direkt neben dem Hochofen gelegen, für ein umfassendes Erlebnis.",
             "hu": "Közvetlenül a nagyolvasztó mellett található a teljes élmény érdekében.",
             "ro": "Situat chiar lângă furnal pentru o experiență completă.",
-            "en": "Located right next to the blast furnace for a comprehensive experience."
+            "en": "Located right next to the blast furnace for a comprehensive experience.",
+            "fi": "Sijaitsee aivan masuunin vieressä, tarjoten kattavan kokemuksen."
           }
         },
         {
@@ -1110,7 +1210,8 @@
             "de": "Ala-Emäkoski Stromschnellen",
             "hu": "Ala-Emäkoski zuhatag",
             "ro": "Cascadele Ala-Emäkoski",
-            "en": "Ala-Emäkoski Rapids"
+            "en": "Ala-Emäkoski Rapids",
+            "fi": "Ala-Emäkosken kosket"
           },
           "coords": [
             24.202,
@@ -1126,7 +1227,8 @@
             "de": "Ein kurzer Spaziergang vom Museum entfernt, um die Kraft der Natur zu spüren.",
             "hu": "Rövid séta a múzeumtól, hogy érezze a természet erejét.",
             "ro": "La o scurtă plimbare de muzeu pentru a simți puterea naturii.",
-            "en": "A short walk from the museum to feel the power of nature."
+            "en": "A short walk from the museum to feel the power of nature.",
+            "fi": "Lyhyt kävelymatka museolta luonnonvoimien tuntemiseen."
           }
         },
         {
@@ -1134,7 +1236,8 @@
             "de": "Cluster 3: Stadtzentrum",
             "hu": "3. klaszter: Városközpont",
             "ro": "Cluster 3: Centrul orașului",
-            "en": "Cluster 3: Town Center"
+            "en": "Cluster 3: Town Center",
+            "fi": "Klusteri 3: Keskusta"
           },
           "coords": [
             24.214,
@@ -1150,7 +1253,8 @@
             "de": "Parken Sie im Zentrum, essen Sie zu Mittag und erkunden Sie die Kirche und Fagerkulla.",
             "hu": "Parkoljon a központban, ebédeljen, majd fedezze fel a templomot és Fagerkullát.",
             "ro": "Parcați în centru, luați prânzul și explorați biserica și Fagerkulla.",
-            "en": "Park in the center, have lunch, and explore the church and Fagerkulla."
+            "en": "Park in the center, have lunch, and explore the church and Fagerkulla.",
+            "fi": "Pysäköi keskustaan, syö lounasta ja tutustu kirkkoon sekä Fagerkullaan."
           }
         }
       ],
@@ -1158,7 +1262,8 @@
         "de": "Mit dem Auto haben Sie die Freiheit, den Tag am ruhigen Pyhäjärvi-See zu beginnen. Nach einem erfrischenden Spaziergang fahren Sie zum Industriegebiet Högfors. Parken Sie Ihr Auto und erkunden Sie den Hochofen, das Gießereimuseum und die nahegelegenen Ala-Emäkoski-Stromschnellen zu Fuß. Am Nachmittag fahren Sie ins Zentrum von Karkkila, wo Sie zu Mittag essen und die charmanten Holzhäuser von Fagerkulla und die moderne Kirche der Stadt besichtigen können.",
         "hu": "Az autó szabadságot ad, hogy a napot a csendes Pyhäjärvi-tónál kezdje. Egy frissítő séta után vezessen a Högfors ipari negyedbe. Parkolja le az autót, és fedezze fel gyalog a nagyolvasztót, az Öntödei Múzeumot és a közeli Ala-Emäkoski zuhatagot. Délután irány Karkkila központja, ahol megebédelhet, és felfedezheti Fagerkulla bájos faházait és a város modern templomát.",
         "ro": "Cu mașina, aveți libertatea de a începe ziua la liniștitul lac Pyhäjärvi. După o plimbare revigorantă, conduceți spre zona industrială Högfors. Parcați mașina și explorați pe jos furnalul, Muzeul Turnătoriei și cascadele Ala-Emäkoski din apropiere. După-amiaza, mergeți în centrul orașului Karkkila pentru prânz și pentru a explora fermecătoarele case de lemn din Fagerkulla și biserica modernă a orașului.",
-        "en": "With a car, you have the freedom to start the day at the tranquil Pyhäjärvi Lake. After a refreshing walk, drive to the Högfors industrial area. Park your car and explore the blast furnace, Foundry Museum, and the nearby Ala-Emäkoski rapids on foot. In the afternoon, head to the center of Karkkila for lunch and to explore the charming wooden houses of Fagerkulla and the town's modern church."
+        "en": "With a car, you have the freedom to start the day at the tranquil Pyhäjärvi Lake. After a refreshing walk, drive to the Högfors industrial area. Park your car and explore the blast furnace, Foundry Museum, and the nearby Ala-Emäkoski rapids on foot. In the afternoon, head to the center of Karkkila for lunch and to explore the charming wooden houses of Fagerkulla and the town's modern church.",
+        "fi": "Autolla voit aloittaa päivän rauhallisella Pyhäjärvellä. Virkistävän kävelyn jälkeen aja Högforsin teollisuusalueelle. Pysäköi auto ja tutustu masuuniin, Valimomuseoon ja lähistön Ala-Emäkosken koskiin jalkaisin. Iltapäivällä suuntaa Karkkilan keskustaan lounaalle ja tutustu Fagerkullan puutaloihin sekä kaupungin moderniin kirkkoon."
       },
       "gastro_picks": {
         "de": [
@@ -1298,6 +1403,11 @@
           "Check parking options and restrictions in advance.",
           "The car allows you to explore more distant natural areas as well.",
           "Combine car rides with short walks for the best experience."
+        ],
+        "fi": [
+          "Tarkista pysäköintivaihtoehdot ja rajoitukset etukäteen.",
+          "Autolla pääset myös kauempana oleviin luontokohteisiin.",
+          "Yhdistä automatkat lyhyisiin kävelyihin parhaan kokemuksen saamiseksi."
         ]
       },
       "variants": {
@@ -1306,7 +1416,8 @@
             "de": "Mit dem Auto erkunden Sie Karkkila bequem und trocken. Beginnen Sie am Pyhäjärvi-See, wo Sie die Aussicht aus dem warmen Fahrzeug genießen können. Das Högfors-Industriegebiet bietet Parkplätze direkt bei den Museen, sodass Sie kaum nass werden. Nach dem Besuch der Ala-Emäkoski-Stromschnellen bietet das Stadtzentrum zahlreiche gastronomische Möglichkeiten für einen gemütlichen Abschluss.",
             "hu": "Autóval kényelmesen és szárazon fedezheti fel Karkkilát. Kezdjen a Pyhäjärvi-tónál, ahol a kilátást a meleg járműből is élvezheti. A Högfors ipari negyed parkolói közvetlenül a múzeumok mellett vannak. Az Ala-Emäkoski zúgók megtekintése után a városközpont számos gasztronómiai lehetőséget kínál a nap zárásához.",
             "ro": "Cu mașina, explorați Karkkila confortabil și uscat. Începeți la lacul Pyhäjärvi, unde puteți admira vederea din vehiculul cald. Zona industrială Högfors are parcări chiar lângă muzee. După vizitarea cascadelor Ala-Emäkoski, centrul orașului oferă numeroase opțiuni gastronomice pentru un final plăcut.",
-            "en": "By car, you explore Karkkila comfortably and dry. Start at Lake Pyhäjärvi, where you can enjoy the view from your warm vehicle. The Högfors industrial area has parking right next to the museums. After visiting the Ala-Emäkoski rapids, the town center offers plenty of dining options for a cozy finish."
+            "en": "By car, you explore Karkkila comfortably and dry. Start at Lake Pyhäjärvi, where you can enjoy the view from your warm vehicle. The Högfors industrial area has parking right next to the museums. After visiting the Ala-Emäkoski rapids, the town center offers plenty of dining options for a cozy finish.",
+            "fi": "Autolla tutustut Karkkilaan mukavasti ja kuivana. Aloita Pyhäjärveltä, josta voit nauttia näkymästä lämpimästä autosta. Högforsin teollisuusalueella on pysäköinti lähellä museoita. Ala-Emäkosken koskien jälkeen keskustasta löytyy runsaasti ruokapaikkoja kodikkaaseen päätökseen."
           },
           "stops": [
             {
@@ -1315,7 +1426,8 @@
                 "de": "Parken Sie nah am Ufer für die beste Sicht.",
                 "hu": "Parkoljon közel a parthoz a legjobb kilátásért.",
                 "ro": "Parcați aproape de mal pentru cea mai bună vedere.",
-                "en": "Park close to the shore for the best view."
+                "en": "Park close to the shore for the best view.",
+                "fi": "Pysäköi lähelle rantaa parhaan näkymän saamiseksi."
               }
             },
             {
@@ -1324,7 +1436,8 @@
                 "de": "Kurze Wege zwischen Parkplatz und Museum.",
                 "hu": "Rövid séta a parkoló és a múzeum között.",
                 "ro": "Distanță scurtă între parcare și muzeu.",
-                "en": "Short walk between the parking lot and the museum."
+                "en": "Short walk between the parking lot and the museum.",
+                "fi": "Lyhyt kävelymatka pysäköintialueelta museolle."
               }
             },
             {
@@ -1333,7 +1446,8 @@
                 "de": "Regenschirm für den kurzen Weg mitnehmen.",
                 "hu": "Vigyen esernyőt a rövid sétához.",
                 "ro": "Luați umbrela pentru drumul scurt.",
-                "en": "Take an umbrella for the short walk."
+                "en": "Take an umbrella for the short walk.",
+                "fi": "Ota sateenvarjo mukaan lyhyelle kävelylle."
               }
             },
             {
@@ -1342,7 +1456,8 @@
                 "de": "Perfekter Ort bei Starkregen.",
                 "hu": "Tökéletes hely heves esőzés idején.",
                 "ro": "Locul perfect în timpul ploilor torențiale.",
-                "en": "Perfect spot during heavy rain."
+                "en": "Perfect spot during heavy rain.",
+                "fi": "Täydellinen paikka rankkasateella."
               }
             },
             {
@@ -1351,7 +1466,8 @@
                 "de": "Vorsicht beim Aussteigen auf nassen Flächen.",
                 "hu": "Vigyázzon a kiszálláskor a nedves felületen.",
                 "ro": "Atenție la coborâre pe suprafețele umede.",
-                "en": "Be careful when getting out on wet surfaces."
+                "en": "Be careful when getting out on wet surfaces.",
+                "fi": "Varo liukkaita pintoja autoa poistuttaessa."
               }
             },
             {
@@ -1360,7 +1476,8 @@
                 "de": "Zentraler Parkplatz nah an den Cafés.",
                 "hu": "Központi parkoló a kávézók közelében.",
                 "ro": "Parcare centrală aproape de cafenele.",
-                "en": "Central parking near the cafes."
+                "en": "Central parking near the cafes.",
+                "fi": "Keskustan pysäköinti lähellä kahviloita."
               }
             }
           ],
@@ -1388,6 +1505,12 @@
               "Roads around the lake can be slippery in the rain.",
               "Use parking spots with direct access to covered areas.",
               "Keep windows slightly cracked to prevent fogging."
+            ],
+            "fi": [
+              "Tarkista tuulilasien pyyhkijät ennen matkan aloittamista.",
+              "Tiet järven ympärillä voivat olla liukkaita sateella.",
+              "Käytä pysäköintipaikkoja, joista on suora pääsy katettuihin alueisiin.",
+              "Pidä ikkunat hieman raollaan huurteen estämiseksi."
             ]
           }
         },
@@ -1396,7 +1519,8 @@
             "de": "Im Winter ist das Auto in Finnland der sicherste Weg, um mobil zu bleiben. Beginnen Sie am tief verschneiten Pyhäjärvi-See, einer weißen Pracht. Im Högfors-Gebiet sind die Wege geräumt, sodass Sie bequem zu den industriellen Highlights gelangen. Nachmittags besuchen Sie die Ala-Emäkoski-Stromschnellen, bevor Sie zum Aufwärmen in das beleuchtete Stadtzentrum fahren, wo finnische Gemütlichkeit wartet.",
             "hu": "Télen az autó a legbiztonságosabb módja a közlekedésnek Finnországban. Kezdjen a mély hóval borított Pyhäjärvi-tónál, amely ilyenkor fehér pompában tündököl. A Högfors negyedben az utak takarítottak. Délután látogassa meg az Ala-Emäkoski zúgókat, majd irány a kivilágított városközpont, ahol finn vendégszeretet várja.",
             "ro": "Iarna, mașina este cea mai sigură cale de a rămâne mobil în Finlanda. Începeți la lacul Pyhäjärvi înzăpezit. În zona Högfors, drumurile sunt curățate. După-amiaza vizitați cascadele Ala-Emäkoski, înainte de a merge în centrul luminat al orașului pentru a vă încălzi.",
-            "en": "In winter, a car is the safest way to stay mobile in Finland. Start at the snow-covered Lake Pyhäjärvi, a white wonderland. In the Högfors area, paths are cleared for easy access to industrial highlights. In the afternoon, visit the Ala-Emäkoski rapids before heading to the lit-up town center for some Finnish coziness."
+            "en": "In winter, a car is the safest way to stay mobile in Finland. Start at the snow-covered Lake Pyhäjärvi, a white wonderland. In the Högfors area, paths are cleared for easy access to industrial highlights. In the afternoon, visit the Ala-Emäkoski rapids before heading to the lit-up town center for some Finnish coziness.",
+            "fi": "Talvella auto on turvallisin tapa liikkua Suomessa. Aloita lumisesta Pyhäjärvestä, valkoisesta ihmeestä. Högforsin alueella reitit ovat aurattuja helpottaen pääsyä teollisuusnähtävyyksiin. Iltapäivällä vieraile Ala-Emäkosken koskilla ennen siirtymistä valoisaan keskustaan nauttimaan suomalaista kodikkuutta."
           },
           "stops": [
             {
@@ -1405,7 +1529,8 @@
                 "de": "Nur auf geräumten Flächen parken.",
                 "hu": "Csak takarított területen parkoljon.",
                 "ro": "Parcați doar în zonele deszăpezite.",
-                "en": "Park only on cleared surfaces."
+                "en": "Park only on cleared surfaces.",
+                "fi": "Pysäköi vain auratuilla pinnoilla."
               }
             },
             {
@@ -1414,7 +1539,8 @@
                 "de": "Motor nicht zu lange im Stand laufen lassen.",
                 "hu": "Ne járassa hosszan a motort álló helyzetben.",
                 "ro": "Nu lăsați motorul pornit prea mult în staționare.",
-                "en": "Avoid idling the engine for too long."
+                "en": "Avoid idling the engine for too long.",
+                "fi": "Vältä moottorin pitkää joutokäyntiä."
               }
             },
             {
@@ -1423,7 +1549,8 @@
                 "de": "Vorsicht vor Schneeverwehungen am Parkplatz.",
                 "hu": "Vigyázzon a hófúvásokkal a parkolóban.",
                 "ro": "Atenție la troienele de zăpadă din parcare.",
-                "en": "Watch out for snowdrifts in the parking lot."
+                "en": "Watch out for snowdrifts in the parking lot.",
+                "fi": "Varo parkkipaikan kinoksia."
               }
             },
             {
@@ -1432,7 +1559,8 @@
                 "de": "Nutzen Sie den Museumsbesuch zum Aufwärmen.",
                 "hu": "Használja a múzeumlátogatást melegedésre.",
                 "ro": "Folosiți vizita la muzeu pentru a vă încălzi.",
-                "en": "Use the museum visit to warm up."
+                "en": "Use the museum visit to warm up.",
+                "fi": "Käytä museovierailua lämpiämiseen."
               }
             },
             {
@@ -1441,7 +1569,8 @@
                 "de": "Der Parkplatz kann glatt sein.",
                 "hu": "A parkoló jeges, csúszós lehet.",
                 "ro": "Parcarea poate fi alunecoasă.",
-                "en": "The parking area might be icy."
+                "en": "The parking area might be icy.",
+                "fi": "Pysäköintialue saattaa olla liukas."
               }
             },
             {
@@ -1450,7 +1579,8 @@
                 "de": "Parkplätze mit Motorvorwärmung suchen.",
                 "hu": "Keressen motor-előmelegítős parkolóhelyet.",
                 "ro": "Căutați locuri de parcare cu preîncălzire.",
-                "en": "Look for parking spots with engine preheaters."
+                "en": "Look for parking spots with engine preheaters.",
+                "fi": "Etsi pysäköintipaikkoja, joissa on moottorinlämmitin."
               }
             }
           ],
@@ -1478,6 +1608,12 @@
               "An ice scraper and a small snow brush are mandatory.",
               "A battery check before the tour is wise in extreme cold.",
               "Drive carefully, especially on unplowed side roads."
+            ],
+            "fi": [
+              "Talvirenkaat ovat laissa vaadittu Suomessa.",
+              "Jääraappa ja pieni lumiharja ovat pakolliset.",
+              "Akun tarkastus ennen kierrosta on järkevää ankarassa pakkasessa.",
+              "Aja varovasti, erityisesti auraamattomilla sivuteillä."
             ]
           }
         }
@@ -1496,7 +1632,8 @@
             "de": "Cluster 1: Stadtzentrum",
             "hu": "1. klaszter: Városközpont",
             "ro": "Cluster 1: Centrul orașului",
-            "en": "Cluster 1: Town Center"
+            "en": "Cluster 1: Town Center",
+            "fi": "Klusteri 1: Keskusta"
           },
           "coords": [
             24.214,
@@ -1512,7 +1649,8 @@
             "de": "Beginnen Sie an der zentralen Bushaltestelle und erkunden Sie die nächsten Stationen zu Fuß.",
             "hu": "Kezdje a központi buszmegállónál, és fedezze fel gyalog a következő megállókat.",
             "ro": "Începeți de la stația centrală de autobuz și explorați următoarele opriri pe jos.",
-            "en": "Start at the central bus stop and explore the next stops on foot."
+            "en": "Start at the central bus stop and explore the next stops on foot.",
+            "fi": "Aloita keskuksen linja-autoasemalta ja tutustu seuraaviin pysäkkeihin kävellen."
           }
         },
         {
@@ -1520,7 +1658,8 @@
             "de": "Kirche von Karkkila",
             "hu": "Karkkilai templom",
             "ro": "Biserica din Karkkila",
-            "en": "Church of Karkkila"
+            "en": "Church of Karkkila",
+            "fi": "Karkkilan kirkko"
           },
           "coords": [
             24.215,
@@ -1536,7 +1675,8 @@
             "de": "Nur einen kurzen Spaziergang von der Bushaltestelle entfernt.",
             "hu": "Csak egy rövid sétára a buszmegállótól.",
             "ro": "La doar o scurtă plimbare de stația de autobuz.",
-            "en": "Just a short walk from the bus stop."
+            "en": "Just a short walk from the bus stop.",
+            "fi": "Vain lyhyt kävelymatka linja-autoasemalta."
           }
         },
         {
@@ -1544,7 +1684,8 @@
             "de": "Fagerkulla Wohngebiet",
             "hu": "Fagerkulla lakónegyed",
             "ro": "Cartierul rezidențial Fagerkulla",
-            "en": "Fagerkulla Residential Area"
+            "en": "Fagerkulla Residential Area",
+            "fi": "Fagerkullan asuinalue"
           },
           "coords": [
             24.213,
@@ -1560,7 +1701,8 @@
             "de": "Schlendern Sie durch die malerischen Straßen.",
             "hu": "Sétáljon végig a festői utcákon.",
             "ro": "Plimbați-vă pe străzile pitorești.",
-            "en": "Stroll through the picturesque streets."
+            "en": "Stroll through the picturesque streets.",
+            "fi": "Kävele pitkin viehättäviä katuja."
           }
         },
         {
@@ -1568,7 +1710,8 @@
             "de": "Cluster 2: Högfors Industriegebiet",
             "hu": "2. klaszter: Högfors ipari terület",
             "ro": "Cluster 2: Zona Industrială Högfors",
-            "en": "Cluster 2: Högfors Industrial Area"
+            "en": "Cluster 2: Högfors Industrial Area",
+            "fi": "Klusteri 2: Högforsin teollisuusalue"
           },
           "coords": [
             24.204,
@@ -1584,7 +1727,8 @@
             "de": "Nehmen Sie den Bus zum Industriegebiet. Die nächsten Stationen sind zu Fuß erreichbar.",
             "hu": "Menjen busszal az ipari negyedbe. A következő megállók gyalogosan elérhetők.",
             "ro": "Luați autobuzul spre zona industrială. Următoarele opriri sunt la distanță de mers pe jos.",
-            "en": "Take the bus to the industrial area. The next stops are within walking distance."
+            "en": "Take the bus to the industrial area. The next stops are within walking distance.",
+            "fi": "Ota bussi teollisuusalueelle. Seuraavat pysäkit ovat kävelyetäisyydellä."
           }
         },
         {
@@ -1592,7 +1736,8 @@
             "de": "Hochofen Högfors & Gießereimuseum",
             "hu": "Högforsi nagyolvasztó és Öntödei Múzeum",
             "ro": "Furnalul Högfors și Muzeul Turnătoriei",
-            "en": "Högfors Blast Furnace & Foundry Museum"
+            "en": "Högfors Blast Furnace & Foundry Museum",
+            "fi": "Högforsin masuunin ja valimon museo"
           },
           "coords": [
             24.205,
@@ -1608,7 +1753,8 @@
             "de": "Planen Sie genügend Zeit ein, um beide Attraktionen vollständig zu erkunden.",
             "hu": "Szánjon elegendő időt mindkét látnivaló teljes felfedezésére.",
             "ro": "Planificați suficient timp pentru a explora pe deplin ambele atracții.",
-            "en": "Allow enough time to fully explore both attractions."
+            "en": "Allow enough time to fully explore both attractions.",
+            "fi": "Varaa riittävästi aikaa molempien kohteiden perusteelliseen tutkimiseen."
           }
         },
         {
@@ -1616,7 +1762,8 @@
             "de": "Ala-Emäkoski Stromschnellen & Mittagessen",
             "hu": "Ala-Emäkoski zuhatag és ebéd",
             "ro": "Cascadele Ala-Emäkoski și prânz",
-            "en": "Ala-Emäkoski Rapids & Lunch"
+            "en": "Ala-Emäkoski Rapids & Lunch",
+            "fi": "Ala-Emäkosken kosket & lounas"
           },
           "coords": [
             24.202,
@@ -1632,7 +1779,8 @@
             "de": "Machen Sie einen Spaziergang zu den Stromschnellen und essen Sie danach im nahegelegenen Restaurant zu Mittag.",
             "hu": "Sétáljon el a zuhataghoz, majd ebédeljen a közeli étteremben.",
             "ro": "Faceți o plimbare până la cascade și apoi luați prânzul la restaurantul din apropiere.",
-            "en": "Take a walk to the rapids and then have lunch at the nearby restaurant."
+            "en": "Take a walk to the rapids and then have lunch at the nearby restaurant.",
+            "fi": "Kävele koskille ja nauti sitten lounas läheisessä ravintolassa."
           }
         }
       ],
@@ -1640,7 +1788,8 @@
         "de": "Nutzen Sie die öffentlichen Verkehrsmittel, um Karkkila zu entdecken. Beginnen Sie im Zentrum mit einem Spaziergang zur Kirche und durch das Fagerkulla-Viertel. Anschließend bringt Sie ein Bus zum beeindruckenden Industriegebiet Högfors. Hier können Sie den Hochofen und das Museum erkunden, bevor Sie einen entspannten Spaziergang zu den Ala-Emäkoski-Stromschnellen machen, wo Sie den Nachmittag mit einem Mittagessen ausklingen lassen.",
         "hu": "Használja a tömegközlekedést Karkkila felfedezéséhez. Kezdje a központban egy sétával a templomhoz és a Fagerkulla negyeden keresztül. Ezután egy busz elviszi a lenyűgöző Högfors ipari negyedbe. Itt felfedezheti a nagyolvasztót és a múzeumot, mielőtt egy pihentető sétát tenne az Ala-Emäkoski zuhataghoz, ahol egy ebéddel zárhatja a délutánt.",
         "ro": "Folosiți transportul public pentru a descoperi Karkkila. Începeți în centru cu o plimbare la biserică și prin cartierul Fagerkulla. Apoi, un autobuz vă va duce în impresionanta zonă industrială Högfors. Aici puteți explora furnalul și muzeul înainte de a face o plimbare relaxantă la cascadele Ala-Emäkoski, unde puteți încheia după-amiaza cu un prânz.",
-        "en": "Use public transport to discover Karkkila. Start in the center with a walk to the church and through the Fagerkulla district. Then, a bus will take you to the impressive Högfors industrial area. Here you can explore the blast furnace and museum before taking a relaxing walk to the Ala-Emäkoski rapids, where you can end the afternoon with lunch."
+        "en": "Use public transport to discover Karkkila. Start in the center with a walk to the church and through the Fagerkulla district. Then, a bus will take you to the impressive Högfors industrial area. Here you can explore the blast furnace and museum before taking a relaxing walk to the Ala-Emäkoski rapids, where you can end the afternoon with lunch.",
+        "fi": "Hyödynnä joukkoliikennettä Karkkilan tutkimiseen. Aloita keskustasta kävelyllä kirkolle ja Fagerkullan läpi. Sitten bussi vie vaikuttavalle Högforsin teollisuusalueelle. Täällä voit tutkia masuunin ja museon ennen rentouttavaa kävelyä Ala-Emäkosken koskille, jossa voit päättää iltapäivän lounaaseen."
       },
       "gastro_picks": {
         "de": [
@@ -1780,6 +1929,11 @@
           "Buy a day ticket for the bus if you plan multiple trips.",
           "Check the bus schedule, as buses may not run very frequently.",
           "Be prepared to walk between stops within the clusters."
+        ],
+        "fi": [
+          "Osta päivälippu bussille, jos suunnittelet useita matkoja.",
+          "Tarkista bussien aikataulu, sillä vuorot eivät välttämättä kulje kovin usein.",
+          "Valmistaudu kävelemään pysäkkien välillä klustereissa."
         ]
       },
       "variants": {
@@ -1788,7 +1942,8 @@
             "de": "Nutzen Sie den öffentlichen Nahverkehr, um Karkkila trotz Regen zu entdecken. Die Busse bringen Sie ins Zentrum, von wo aus die Kirche und Fagerkulla gut erreichbar sind. Mittags bringt Sie der Transit zum Högfors-Gebiet, wo die Museen trockene Bildung bieten. Den Abschluss bildet ein spätes Mittagessen bei den Ala-Emäkoski-Stromschnellen, bevor Sie bequem mit dem Bus zurückfahren.",
             "hu": "Használja a tömegközlekedést Karkkila felfedezéséhez esőben is. A buszok a központba visznek, ahonnan a templom és Fagerkulla könnyen elérhető. Délben utazzon a Högfors negyedbe, ahol a múzeumok száraz menedéket nyújtanak. A napot egy kései ebéd zárja az Ala-Emäkoski zúgóknál, majd kényelmes buszút vezet vissza.",
             "ro": "Folosiți transportul public pentru a descoperi Karkkila în ciuda ploii. Autobuzele vă duc în centru, de unde biserica și Fagerkulla sunt ușor accesibile. La prânz, mergeți spre zona Högfors pentru muzee. Ziua se încheie cu un prânz târziu lângă cascade, urmat de o întoarcere relaxantă cu autobuzul.",
-            "en": "Use public transit to discover Karkkila despite the rain. Buses take you to the center, from where the church and Fagerkulla are easily reachable. At noon, transit takes you to the Högfors area, where museums offer dry education. The day ends with a late lunch by the rapids before a comfortable bus ride back."
+            "en": "Use public transit to discover Karkkila despite the rain. Buses take you to the center, from where the church and Fagerkulla are easily reachable. At noon, transit takes you to the Högfors area, where museums offer dry education. The day ends with a late lunch by the rapids before a comfortable bus ride back.",
+            "fi": "Käytä joukkoliikennettä tutkiaksesi Karkkilan sateesta huolimatta. Bussit vievät sinut keskustaan, josta kirkko ja Fagerkulla ovat helposti saavutettavissa. Kello 12 bussi kuljettaa sinut Högforsin alueelle, jossa museot tarjoavat kuivaa oppimista. Päivä päättyy myöhäiselle lounaalle koskien äärellä ennen mukavaa bussimatkaa takaisin."
           },
           "stops": [
             {
@@ -1797,7 +1952,8 @@
                 "de": "Warten Sie im Unterstand der Bushaltestelle.",
                 "hu": "Várjon a buszmegálló fedett várójában.",
                 "ro": "Așteptați în adăpostul stației de autobuz.",
-                "en": "Wait in the shelter of the bus stop."
+                "en": "Wait in the shelter of the bus stop.",
+                "fi": "Odota bussipysäkin suojassa."
               }
             },
             {
@@ -1806,7 +1962,8 @@
                 "de": "Kurzer Fußweg vom Bus, Schirm bereit halten.",
                 "hu": "Rövid séta a busztól, tartsa készenlétben az ernyőt.",
                 "ro": "Drum scurt de la autobuz, țineți umbrela pregătită.",
-                "en": "Short walk from the bus; keep your umbrella ready."
+                "en": "Short walk from the bus; keep your umbrella ready.",
+                "fi": "Lyhyt kävelymatka bussilta; pidä sateenvarjo valmiina."
               }
             },
             {
@@ -1815,7 +1972,8 @@
                 "de": "Busfrequenz bei Regen prüfen.",
                 "hu": "Ellenőrizze a buszjáratok sűrűségét esőben.",
                 "ro": "Verificați frecvența autobuzelor pe ploaie.",
-                "en": "Check bus frequency during rain."
+                "en": "Check bus frequency during rain.",
+                "fi": "Tarkista bussien tiheys sateella."
               }
             },
             {
@@ -1824,7 +1982,8 @@
                 "de": "Haltestelle direkt am Museumseingang.",
                 "hu": "Megálló közvetlenül a múzeum bejáratánál.",
                 "ro": "Stație chiar la intrarea în muzeu.",
-                "en": "Stop is right at the museum entrance."
+                "en": "Stop is right at the museum entrance.",
+                "fi": "Pysäkki on suoraan museon sisäänkäynnin kohdalla."
               }
             },
             {
@@ -1833,7 +1992,8 @@
                 "de": "Trocknen Sie Kleidung in der Garderobe.",
                 "hu": "Szárítsa meg ruháit a ruhatárban.",
                 "ro": "Uscați-vă hainele la garderobă.",
-                "en": "Dry your clothes in the cloakroom."
+                "en": "Dry your clothes in the cloakroom.",
+                "fi": "Kuivaa vaatteet naulakossa/vaatesäilytyksessä."
               }
             },
             {
@@ -1842,7 +2002,8 @@
                 "de": "Restaurant ist ein perfekter Regenschutz.",
                 "hu": "Az étterem tökéletes védelem az eső elől.",
                 "ro": "Restaurantul este o protecție perfectă contra ploii.",
-                "en": "The restaurant is a perfect shelter from the rain."
+                "en": "The restaurant is a perfect shelter from the rain.",
+                "fi": "Ravintola on täydellinen suoja sateelta."
               }
             }
           ],
@@ -1870,6 +2031,12 @@
               "Have change or a ticket ready.",
               "Bus stops often provide limited shelter from rain.",
               "Plan for extra time as traffic can be slower in the rain."
+            ],
+            "fi": [
+              "Käytä sovellusta reaaliaikaisten bussien lähtöjen seuraamiseen.",
+              "Pidä vaihtoraha tai lippu valmiina.",
+              "Linja-autopysäkit tarjoavat usein vain rajallisen suojan sateelta.",
+              "Suunnittele ylimääräistä aikaa, sillä liikenne voi olla hitaampaa sateella."
             ]
           }
         },
@@ -1878,7 +2045,8 @@
             "de": "Winterreisen mit dem Bus sind in Karkkila entspannt und warm. Starten Sie im winterlichen Stadtzentrum. Der Transit bringt Sie zuverlässig zum Högfors-Viertel, wo Sie die Industriekultur ohne Parkplatzsuche genießen können. Nachmittags besuchen Sie die Ala-Emäkoski-Stromschnellen, die im Schnee besonders friedlich wirken. Ein warmes Mittagessen rundet die Tour ab, bevor der Bus Sie zurückbringt.",
             "hu": "A téli buszos utazás Karkkilában pihentető és meleg. Kezdjen a télies városközpontban. A tömegközlekedés megbízhatóan viszi a Högfors negyedbe, ahol parkolási gondok nélkül élvezheti az ipari kultúrát. Délután látogassa meg az Ala-Emäkoski zúgókat, amelyek békések a hóban. Egy meleg ebéd zárja a túrát, mielőtt a busz visszaviszi.",
             "ro": "Călătoria cu autobuzul iarna în Karkkila este relaxantă. Începeți în centrul orașului. Transportul vă duce sigur în cartierul Högfors, unde vă bucurați de cultura industrială fără grija parcării. După-amiaza vizitați cascadele Ala-Emäkoski, superbe în zăpadă. Un prânz cald completează turul înainte de întoarcere.",
-            "en": "Winter travel by bus in Karkkila is relaxing and warm. Start in the wintry town center. Transit reliably takes you to the Högfors district, where you can enjoy industrial culture without parking worries. In the afternoon, visit the Ala-Emäkoski rapids, peaceful in the snow. A warm lunch completes the tour before the bus takes you back."
+            "en": "Winter travel by bus in Karkkila is relaxing and warm. Start in the wintry town center. Transit reliably takes you to the Högfors district, where you can enjoy industrial culture without parking worries. In the afternoon, visit the Ala-Emäkoski rapids, peaceful in the snow. A warm lunch completes the tour before the bus takes you back.",
+            "fi": "Talvinen bussimatkailu Karkkilassa on rentouttavaa ja lämmintä. Aloita keskuksen talvisesta ilmapiiristä. Joukkoliikenne vie luotettavasti Högforsin alueelle, missä voit nauttia teollisuuskulttuurista ilman pysäköintihuolia. Iltapäivällä vieraile Ala-Emäkosken koskilla, jotka ovat rauhalliset lumessa. Lämmin lounas täydentää kiertoajelun ennen bussin paluuta."
           },
           "stops": [
             {
@@ -1887,7 +2055,8 @@
                 "de": "Beheizte Wartezimmer in größeren Stationen nutzen.",
                 "hu": "Használja a fűtött várótermeket a nagyobb állomásokon.",
                 "ro": "Folosiți sălile de așteptare încălzite în stațiile mari.",
-                "en": "Use heated waiting rooms in larger stations."
+                "en": "Use heated waiting rooms in larger stations.",
+                "fi": "Käytä isompien asemien lämmitettyjä odotustiloja."
               }
             },
             {
@@ -1896,7 +2065,8 @@
                 "de": "Achtung beim Ein- und Aussteigen auf Eis.",
                 "hu": "Vigyázzon a fel- és leszálláskor a jégre.",
                 "ro": "Atenție la urcare și coborâre pe gheață.",
-                "en": "Careful when getting on or off on icy ground."
+                "en": "Careful when getting on or off on icy ground.",
+                "fi": "Ole varovainen noustessa tai poistuessa liukkaalta alustalta."
               }
             },
             {
@@ -1905,7 +2075,8 @@
                 "de": "Kurze Fahrzeiten minimieren die Kälteexposition.",
                 "hu": "A rövid utazási idő csökkenti a hidegben töltött időt.",
                 "ro": "Timpul scurt de călătorie minimizează expunerea la frig.",
-                "en": "Short travel times minimize cold exposure."
+                "en": "Short travel times minimize cold exposure.",
+                "fi": "Lyhyet matkustukset minimoivat kylmäaltistuksen."
               }
             },
             {
@@ -1914,7 +2085,8 @@
                 "de": "Busse sind im Winter gut beheizt.",
                 "hu": "A buszok télen jól fűtöttek.",
                 "ro": "Autobuzele sunt bine încălzite iarna.",
-                "en": "Buses are well-heated in winter."
+                "en": "Buses are well-heated in winter.",
+                "fi": "Bussit ovat hyvin lämmitettyjä talvella."
               }
             },
             {
@@ -1923,7 +2095,8 @@
                 "de": "Nutzen Sie den Transit für den Weg zur Wärme.",
                 "hu": "Használja a tömegközlekedést a melegbe jutáshoz.",
                 "ro": "Folosiți transportul pentru a ajunge la căldură.",
-                "en": "Use transit to get to the warmth."
+                "en": "Use transit to get to the warmth.",
+                "fi": "Käytä joukkoliikennettä päästäksesi lämpöön."
               }
             },
             {
@@ -1932,7 +2105,8 @@
                 "de": "Prüfen Sie den Fahrplan für die Rückfahrt genau.",
                 "hu": "Pontosan ellenőrizze a visszautat a menetrendben.",
                 "ro": "Verificați bine orarul pentru întoarcere.",
-                "en": "Double-check the return schedule carefully."
+                "en": "Double-check the return schedule carefully.",
+                "fi": "Tarkista paluuaikataulu huolellisesti."
               }
             }
           ],
@@ -1960,6 +2134,12 @@
               "Wear warm shoes as bus stops can be drafty.",
               "Darkness sets in early; wear reflectors on your clothing.",
               "It's warm on the bus; wear layers for easy removal."
+            ],
+            "fi": [
+              "Bussit Suomessa yleensä kulkevat aikataulussa jopa kovassa lumessa.",
+              "Pue lämpimät kengät, sillä pysäkit voivat olla vetoisia.",
+              "Pimeä laskeutuu aikaisin; käytä heijastimia vaatteissa.",
+              "Busseissa on lämmin; pidä päälläsi kerroksia, joita on helppo riisua."
             ]
           }
         }

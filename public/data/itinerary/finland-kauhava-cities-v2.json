@@ -21,7 +21,8 @@
             "de": "Denkmal des Messermachers",
             "hu": "A Késkészítő Emlékműve",
             "ro": "Monumentul Cuțitarului",
-            "en": "Monument of the Knifemaker"
+            "en": "Monument of the Knifemaker",
+            "fi": "Veistäperinteen muistomerkki"
           },
           "coords": [
             23.056,
@@ -36,7 +37,8 @@
             "de": "Das perfekte Foto, um Ihren Tag in der „Stadt der Messer“ zu beginnen.",
             "hu": "Tökéletes fotóhely a „kések városában” töltött nap indításához.",
             "ro": "Fotografia perfectă pentru a începe ziua în „orașul cuțitelor”.",
-            "en": "The perfect photo to start your day in the 'city of knives'."
+            "en": "The perfect photo to start your day in the 'city of knives'.",
+            "fi": "Täydellinen kuva päivän aloitukseen veitsen kaupungissa."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Finnisches Messermuseum",
             "hu": "Finn Késmúzeum",
             "ro": "Muzeul Finlandez al Cuțitelor",
-            "en": "Finnish Knife Museum"
+            "en": "Finnish Knife Museum",
+            "fi": "Suomalainen veitsimuseo"
           },
           "coords": [
             23.0545,
@@ -59,7 +62,8 @@
             "de": "Bewundern Sie die Handwerkskunst der traditionellen Puukko-Messer.",
             "hu": "Csodálja meg a hagyományos Puukko kések kézműves kidolgozását.",
             "ro": "Admirați măiestria cuțitelor tradiționale Puukko.",
-            "en": "Admire the craftsmanship of the traditional Puukko knives."
+            "en": "Admire the craftsmanship of the traditional Puukko knives.",
+            "fi": "Ihaile perinteisten puukkojen käsityötaitoa."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Kirche von Kauhava",
             "hu": "Kauhava temploma",
             "ro": "Biserica din Kauhava",
-            "en": "Church of Kauhava"
+            "en": "Church of Kauhava",
+            "fi": "Kauhavann kirkko"
           },
           "coords": [
             23.058,
@@ -82,7 +87,8 @@
             "de": "Beachten Sie die neugotische Architektur, die für die Region einzigartig ist.",
             "hu": "Figyelje meg a régióra jellemző neogótikus építészetet.",
             "ro": "Observați arhitectura neogotică, unică pentru regiune.",
-            "en": "Note the Neo-Gothic architecture, unique for the region."
+            "en": "Note the Neo-Gothic architecture, unique for the region.",
+            "fi": "Huomioi uusgoottilainen arkkitehtuuri, alueelle harvinainen."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Mittagessen in einem lokalen Restaurant",
             "hu": "Ebéd egy helyi étteremben",
             "ro": "Prânz la un restaurant local",
-            "en": "Lunch at a local restaurant"
+            "en": "Lunch at a local restaurant",
+            "fi": "Lounas paikallisessa ravintolassa"
           },
           "coords": [
             23.057,
@@ -105,7 +112,8 @@
             "de": "Probieren Sie eine herzhafte Lachssuppe, um sich für den Rest des Tages zu stärken.",
             "hu": "Kóstoljon meg egy kiadós lazaclevest, hogy energiát gyűjtsön a nap hátralévő részére.",
             "ro": "Încercați o supă copioasă de somon pentru a vă energiza pentru restul zilei.",
-            "en": "Try a hearty salmon soup to energize for the rest of the day."
+            "en": "Try a hearty salmon soup to energize for the rest of the day.",
+            "fi": "Kokeile täyteläistä lohikeittoa saadaksesi energiaa päivän muihin aktiviteetteihin."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Jylhänkoski Stromschnellen",
             "hu": "Jylhänkoski-zúgó",
             "ro": "Cascadele Jylhänkoski",
-            "en": "Jylhänkoski Rapids"
+            "en": "Jylhänkoski Rapids",
+            "fi": "Jylhänkosken kosket"
           },
           "coords": [
             23.03,
@@ -128,7 +137,8 @@
             "de": "Ein schöner Spaziergang entlang des Flusses, um die Natur zu genießen.",
             "hu": "Egy kellemes séta a folyó mentén a természet élvezetéért.",
             "ro": "O plimbare frumoasă de-a lungul râului pentru a vă bucura de natură.",
-            "en": "A beautiful walk along the river to enjoy the nature."
+            "en": "A beautiful walk along the river to enjoy the nature.",
+            "fi": "Kaunis kävely jokirantaa pitkin luonnosta nauttien."
           }
         }
       ],
@@ -136,7 +146,8 @@
         "de": "Beginnen Sie Ihren Tag im Herzen von Kauhava, der Stadt der Messer. Am Morgen erkunden Sie das Denkmal und das Museum, die dem berühmten Puukko gewidmet sind. Nach dem Mittagessen mit lokalen Spezialitäten führt Sie ein längerer Spaziergang zu den malerischen Stromschnellen von Jylhänkoski. Der Nachmittag ist der ruhigen Schönheit der finnischen Natur gewidmet. Schließen Sie den Tag mit einem Gefühl der Ruhe und einem tieferen Verständnis für das lokale Handwerk ab.",
         "hu": "Kezdje a napot Kauhava szívében, a kések városában. A délelőttöt a híres Puukko késnek szentelt emlékmű és múzeum felfedezésével tölti. Egy helyi specialitásokat felvonultató ebéd után egy hosszabb séta vezet a festői Jylhänkoski-zúgóhoz. A délutánt a finn természet csendes szépségének szenteli. Zárja a napot a nyugalom érzésével és a helyi kézművesség mélyebb megértésével.",
         "ro": "Începeți ziua în inima orașului Kauhava, orașul cuțitelor. Dimineața este dedicată explorării monumentului și muzeului dedicate faimosului Puukko. După un prânz cu specialități locale, o plimbare mai lungă vă va duce la pitoreștile cascade Jylhänkoski. După-amiaza este dedicată frumuseții liniștite a naturii finlandeze. Încheiați ziua cu un sentiment de pace și o înțelegere mai profundă a meșteșugului local.",
-        "en": "Start your day in the heart of Kauhava, the city of knives. The morning is for exploring the monument and museum dedicated to the famous Puukko. After a lunch of local specialities, a longer walk will take you to the scenic Jylhänkoski rapids. The afternoon is dedicated to the quiet beauty of Finnish nature. End the day with a sense of peace and a deeper appreciation for the local craft."
+        "en": "Start your day in the heart of Kauhava, the city of knives. The morning is for exploring the monument and museum dedicated to the famous Puukko. After a lunch of local specialities, a longer walk will take you to the scenic Jylhänkoski rapids. The afternoon is dedicated to the quiet beauty of Finnish nature. End the day with a sense of peace and a deeper appreciation for the local craft.",
+        "fi": "Aloita päivä Kauhavan sydämestä, veitsen kaupungista. Aamu on omistettu monumentin ja museon tutkimiselle, jotka kunnioittavat kuuluisia puukkoja. Lounaan jälkeen pidempi kävely vie sinut maisemallisiin Jylhänkosken koskiin. Iltapäivä on omistettu suomalaisen luonnon hiljaiselle kauneudelle. Päätä päivä raukeaan tunteeseen ja syvempään arvostukseen paikallisesta käsityöstä."
       },
       "gastro_picks": {
         "de": [
@@ -332,6 +343,12 @@
           "Bring a reusable water bottle.",
           "Check the opening hours of the Knife Museum in advance.",
           "A light rain jacket is always a good idea in Finland, even on sunny days."
+        ],
+        "fi": [
+          "Pue mukavat kävelykengät, erityisesti kävelyä varten koskille.",
+          "Ota mukaan uudelleentäytettävä vesipullo.",
+          "Tarkista Veitsimuseon aukioloajat etukäteen.",
+          "Kevyt sadetakki on aina hyvä idea Suomessa, jopa aurinkoisena päivänä."
         ]
       },
       "variants": {
@@ -340,7 +357,8 @@
             "de": "Beginnen Sie Ihren Tag mit einem Schirm am Messermacher-Denkmal. Das nahegelegene Messermuseum bietet den perfekten trockenen Zufluchtsort, um die lokale Handwerkskunst zu bewundern. Nach einem gemütlichen Mittagessen im Stadtzentrum besuchen Sie die Kirche von Kauhava. Den Abschluss bildet ein kurzer, erfrischender Gang zu den Jylhänkoski-Stromschnellen, die im Regen besonders mystisch wirken.",
             "hu": "Kezdje a napot esernyővel a Késkészítő emlékművénél. A szomszédos Késmúzeum tökéletes száraz menedéket nyújt a helyi kézművesség felfedezéséhez. Egy hangulatos városközponti ebéd után látogasson el a templomba. A napot a Jylhänkoski-zúgóknál zárhatja, amelyek az esőben különösen misztikus és erőteljes arcukat mutatják.",
             "ro": "Începeți ziua cu o umbrelă la Monumentul Făuritorului de Cuțite. Muzeul Cuțitelor de alături oferă refugiul uscat perfect pentru a admira meșteșugul local. După un prânz cald în centru, vizitați biserica din Kauhava. Încheiați cu o scurtă plimbare revigorantă la pragurile Jylhänkoski, care par deosebit de mistice și sălbatice pe timp de ploaie.",
-            "en": "Start your day with an umbrella at the Knifemaker's Monument. The nearby Knife Museum provides the perfect dry sanctuary to admire local craftsmanship. After a cozy lunch in the center, visit the Kauhava Church. End with a short, refreshing walk to the Jylhänkoski Rapids, which look particularly mystical and powerful in the rain."
+            "en": "Start your day with an umbrella at the Knifemaker's Monument. The nearby Knife Museum provides the perfect dry sanctuary to admire local craftsmanship. After a cozy lunch in the center, visit the Kauhava Church. End with a short, refreshing walk to the Jylhänkoski Rapids, which look particularly mystical and powerful in the rain.",
+            "fi": "Aloita päivä sateenvarjon kanssa Veistäjän muistomerkillä. Lähistöllä oleva Veitsimuseo tarjoaa täydellisen kuivan suojan paikallisen käsityön ihailuun. Kodikkaan lounaan jälkeen vieraile Kauhavan kirkossa. Päätä päivä lyhyeen, virkistävään kävelyyn Jylhänkosken koskille, jotka näyttävät erityisen mystisiltä ja voimakkailta sateella."
           },
           "stops": [
             {
@@ -349,7 +367,8 @@
                 "de": "Ein schneller Fotostopp; halten Sie den Schirm fest, hier kann es windig sein.",
                 "hu": "Gyors fotómegálló; tartsa erősen az esernyőt, mert itt szeles lehet az idő.",
                 "ro": "O oprire rapidă pentru poze; țineți bine umbrela, deoarece poate fi vântos aici.",
-                "en": "A quick photo stop; hold your umbrella firmly as it can be windy here."
+                "en": "A quick photo stop; hold your umbrella firmly as it can be windy here.",
+                "fi": "Nopea valokuvaustauko; pidä sateenvarjo tiukasti, sillä täällä voi olla tuulista."
               }
             },
             {
@@ -358,7 +377,8 @@
                 "de": "Idealer Ort, um den Regenschauer abzuwarten und Souvenirs zu kaufen.",
                 "hu": "Ideális hely a zápor kivárására és szuvenírek vásárlására.",
                 "ro": "Locul ideal pentru a aștepta trecerea ploii și pentru a cumpăra suveniruri.",
-                "en": "Ideal place to wait out the rain shower and buy local souvenirs."
+                "en": "Ideal place to wait out the rain shower and buy local souvenirs.",
+                "fi": "Ihanteellinen paikka odottaa sateen lakkaamista ja ostaa paikallisia matkamuistoja."
               }
             },
             {
@@ -367,7 +387,8 @@
                 "de": "Die Ruhe im Inneren ist perfekt, um dem Prasseln des Regens zu lauschen.",
                 "hu": "A belső csend tökéletes az eső kopogásának hallgatásához.",
                 "ro": "Liniștea din interior este perfectă pentru a asculta ropotul ploii.",
-                "en": "The silence inside is perfect for listening to the pitter-patter of the rain."
+                "en": "The silence inside is perfect for listening to the pitter-patter of the rain.",
+                "fi": "Sisällä vallitseva hiljaisuus sopii sateen ropinan kuuntelemiseen."
               }
             },
             {
@@ -376,7 +397,8 @@
                 "de": "Genießen Sie eine warme karelische Pirogge, um sich aufzuwärmen.",
                 "hu": "Élvezzen egy meleg karéliai pitét, hogy átmelegedjen.",
                 "ro": "Savurați o plăcintă kareliană caldă pentru a vă încălzi.",
-                "en": "Enjoy a warm Karelian pasty to warm yourself up."
+                "en": "Enjoy a warm Karelian pasty to warm yourself up.",
+                "fi": "Nauti lämmin karjalanpiirakka lämmittääksesi itseäsi."
               }
             },
             {
@@ -385,7 +407,8 @@
                 "de": "Die Wege können rutschig sein; tragen Sie Schuhe mit gutem Profil.",
                 "hu": "Az ösvények csúszósak lehetnek; viseljen jó tapadású cipőt.",
                 "ro": "Potecile pot fi alunecoase; purtați încălțăminte cu aderență bună.",
-                "en": "The paths can be slippery; wear shoes with good grip."
+                "en": "The paths can be slippery; wear shoes with good grip.",
+                "fi": "Polut voivat olla liukkaita; käytä pitävät kengät."
               }
             }
           ],
@@ -413,6 +436,12 @@
               "Utilize the indoor spaces of the Knife Museum for longer breaks.",
               "The Jylhänkoski area is very photogenic in the rain, but protect your gear.",
               "Building entrances in the center offer brief protection from strong gusts."
+            ],
+            "fi": [
+              "Pue laadukas sadetakki, sillä tuuli usein puhaltaa sadetta vinosti.",
+              "Hyödynnä Veitsimuseon sisätiloja pidemmille tauoille.",
+              "Jylhänkosken alue on erittäin valokuvauksellinen sateella, mutta suojaa varusteesi.",
+              "Keskustan rakennusten sisäänkäynnit tarjoavat lyhytaikaista suojaa kovilta puuskalta."
             ]
           }
         },
@@ -421,7 +450,8 @@
             "de": "Erleben Sie ein verschneites Kauhava. Das Denkmal glänzt unter einer Eisschicht, bevor Sie sich im Messermuseum aufwärmen. Mittags bietet die Kirche eine friedliche, warme Atmosphäre. Der Nachmittag führt zu den gefrorenen Jylhänkoski-Stromschnellen, wo das Eis bizarre Formen bildet. Da es früh dunkel wird, endet der Spaziergang im warmen Schein der Straßenlaternen des Zentrums.",
             "hu": "Tapasztalja meg a havas Kauhavát. Az emlékmű jégréteg alatt csillog, mielőtt felmelegedne a Késmúzeumban. Délben a templom békés, meleg légkört kínál. Délután a befagyott Jylhänkoski-zúgókhoz vezet az út, ahol a jég bizarr alakzatokat formáz. Mivel korán sötétedik, a séta a központ utcai lámpáinak meleg fényében ér véget.",
             "ro": "Experimentați Kauhava înzăpezită. Monumentul strălucește sub un strat de gheață înainte de a vă încălzi în Muzeul Cuțitelor. La prânz, biserica oferă o atmosferă caldă și liniștită. După-amiaza vă duce la pragurile înghețate Jylhänkoski, unde gheața formează figuri bizare. Deoarece se întunecă devreme, plimbarea se încheie în lumina caldă a felinarelor din centru.",
-            "en": "Experience a snowy Kauhava. The monument glistens under a layer of ice before you warm up in the Knife Museum. At noon, the church offers a peaceful, warm atmosphere. The afternoon leads to the frozen Jylhänkoski Rapids, where ice forms bizarre shapes. Since it gets dark early, the walk ends in the warm glow of the center's streetlights."
+            "en": "Experience a snowy Kauhava. The monument glistens under a layer of ice before you warm up in the Knife Museum. At noon, the church offers a peaceful, warm atmosphere. The afternoon leads to the frozen Jylhänkoski Rapids, where ice forms bizarre shapes. Since it gets dark early, the walk ends in the warm glow of the center's streetlights.",
+            "fi": "Koe luminen Kauhava. Monumentti kimaltelee jäisen kerroksen alla ennen kuin lämmität itsesi Veitsimuseossa. Kello 12 kirkko tarjoaa rauhallisen, lämpimän ilmapiirin. Iltapäivä suuntautuu jäätyneille Jylhänkosken koskille, joissa jää muodostaa kummallisia muotoja. Koska pimeä laskeutuu varhain, kävely päättyy keskustan lämpimään katuvaloihin."
           },
           "stops": [
             {
@@ -430,7 +460,8 @@
                 "de": "Vorsicht vor Glatteis rund um den Sockel des Denkmals.",
                 "hu": "Vigyázzon a jegesedésre az emlékmű talpazata körül.",
                 "ro": "Atenție la polei în jurul soclului monumentului.",
-                "en": "Watch out for black ice around the base of the monument."
+                "en": "Watch out for black ice around the base of the monument.",
+                "fi": "Varo mustaa jäätä muistomerkin juurella."
               }
             },
             {
@@ -439,7 +470,8 @@
                 "de": "Ein perfekter Ort, um die Kälte für eine Weile zu vergessen.",
                 "hu": "Tökéletes hely, hogy egy időre elfelejtse a kinti hideget.",
                 "ro": "Un loc perfect pentru a uita de frigul de afară pentru o vreme.",
-                "en": "A perfect place to forget the cold outside for a while."
+                "en": "A perfect place to forget the cold outside for a while.",
+                "fi": "Täydellinen paikka unohtaa ulkona oleva kylmyys hetkeksi."
               }
             },
             {
@@ -448,7 +480,8 @@
                 "de": "Die Heizung im Inneren ist im finnischen Winter ein Segen.",
                 "hu": "A belső fűtés valóságos áldás a finn télben.",
                 "ro": "Încălzirea din interior este o binecuvântare în iarna finlandeză.",
-                "en": "The indoor heating is a blessing during the Finnish winter."
+                "en": "The indoor heating is a blessing during the Finnish winter.",
+                "fi": "Sisälämmitys on siunaus suomalaisessa talvessa."
               }
             },
             {
@@ -457,7 +490,8 @@
                 "de": "Bestellen Sie eine heiße Suppe, um die Körpertemperatur zu halten.",
                 "hu": "Rendeljen egy forró levest a testhőmérséklet fenntartásához.",
                 "ro": "Comandați o supă fierbinte pentru a vă menține temperatura corpului.",
-                "en": "Order a hot soup to maintain your body temperature."
+                "en": "Order a hot soup to maintain your body temperature.",
+                "fi": "Tilaa kuuma keitto ylläpitääksesi kehon lämpötilaa."
               }
             },
             {
@@ -466,7 +500,8 @@
                 "de": "Das Ufer ist extrem rutschig; bleiben Sie auf den markierten Wegen.",
                 "hu": "A part rendkívül csúszós; maradjon a kijelölt ösvényeken.",
                 "ro": "Malul este extrem de alunecos; rămâneți pe potecile marcate.",
-                "en": "The riverbank is extremely slippery; stay on the marked paths."
+                "en": "The riverbank is extremely slippery; stay on the marked paths.",
+                "fi": "Joenranta on erittäin liukas; pysy merkittyillä poluilla."
               }
             }
           ],
@@ -494,6 +529,12 @@
               "Layered clothing is mandatory in sub-zero temperatures.",
               "Reflectors on clothing are important as dusk sets in quickly.",
               "Hand warmers in your pockets make the stay at the rapids more pleasant."
+            ],
+            "fi": [
+              "Auringonlasku on jo noin klo 15:00; suunnittele ulkoilun päättäminen aikaisin.",
+              "Kerrospukeutuminen on pakollinen pakkasella.",
+              "Heijastimet vaatteissa ovat tärkeitä, kun hämärä laskeutuu nopeasti.",
+              "Käsinlämmittimet taskuissa tekevät oleskelusta koskien äärellä miellyttävämpää."
             ]
           }
         }
@@ -512,7 +553,8 @@
             "de": "Denkmal des Messermachers",
             "hu": "A Késkészítő Emlékműve",
             "ro": "Monumentul Cuțitarului",
-            "en": "Monument of the Knifemaker"
+            "en": "Monument of the Knifemaker",
+            "fi": "Veistäperinteen muistomerkki"
           },
           "coords": [
             23.056,
@@ -527,7 +569,8 @@
             "de": "Ein schneller Stopp, um die lokale Identität zu ehren, bevor Sie in die Pedale treten.",
             "hu": "Egy gyors megálló a helyi identitás tiszteletére, mielőtt nyeregbe pattan.",
             "ro": "O oprire rapidă pentru a onora identitatea locală înainte de a începe să pedalați.",
-            "en": "A quick stop to honor the local identity before you start pedaling."
+            "en": "A quick stop to honor the local identity before you start pedaling.",
+            "fi": "Nopea pysähdys kunnianosoituksena paikalliselle identiteetille ennen kuin alat polkea."
           }
         },
         {
@@ -535,7 +578,8 @@
             "de": "Finnisches Messermuseum",
             "hu": "Finn Késmúzeum",
             "ro": "Muzeul Finlandez al Cuțitelor",
-            "en": "Finnish Knife Museum"
+            "en": "Finnish Knife Museum",
+            "fi": "Suomen Puukkomuseo"
           },
           "coords": [
             23.0545,
@@ -550,7 +594,8 @@
             "de": "Parken Sie Ihr Fahrrad draußen und tauchen Sie ein in die Geschichte des Puukko.",
             "hu": "Parkolja le a biciklit kint, és merüljön el a Puukko történetében.",
             "ro": "Parcați bicicleta afară și scufundați-vă în istoria Puukko.",
-            "en": "Park your bike outside and dive into the history of the Puukko."
+            "en": "Park your bike outside and dive into the history of the Puukko.",
+            "fi": "Parkkaa pyöräsi ulos ja sukelta puukon historiaan."
           }
         },
         {
@@ -558,7 +603,8 @@
             "de": "Kirche von Kauhava",
             "hu": "Kauhava temploma",
             "ro": "Biserica din Kauhava",
-            "en": "Church of Kauhava"
+            "en": "Church of Kauhava",
+            "fi": "Kauhavan kirkko"
           },
           "coords": [
             23.058,
@@ -573,7 +619,8 @@
             "de": "Die Holzkirche ist ein schöner Kontrast zur umliegenden Landschaft.",
             "hu": "A fatemplom gyönyörű kontrasztot alkot a környező tájjal.",
             "ro": "Biserica din lemn contrastează frumos cu peisajul înconjurător.",
-            "en": "The wooden church is a beautiful contrast to the surrounding landscape."
+            "en": "The wooden church is a beautiful contrast to the surrounding landscape.",
+            "fi": "Puukirkko tarjoaa kauniin kontrastin ympäröivälle maisemalle."
           }
         },
         {
@@ -581,7 +628,8 @@
             "de": "Jugendvereinshaus von Kauhava",
             "hu": "Kauhavai Ifjúsági Egyesület Háza",
             "ro": "Casa Asociației de Tineret din Kauhava",
-            "en": "Youth Association House of Kauhava"
+            "en": "Youth Association House of Kauhava",
+            "fi": "Kauhavan Nuorisoseurantalo"
           },
           "coords": [
             23.065,
@@ -596,7 +644,8 @@
             "de": "Schauen Sie, ob lokale Veranstaltungen stattfinden – ein Zentrum der Gemeinschaft.",
             "hu": "Nézze meg, hátha tartanak valamilyen helyi eseményt – ez a közösség központja.",
             "ro": "Verificați dacă au loc evenimente locale – un centru al comunității.",
-            "en": "Check if there are any local events happening – a hub of the community."
+            "en": "Check if there are any local events happening – a hub of the community.",
+            "fi": "Tarkista, onko paikallisia tapahtumia – yhteisön kohtaamispaikka."
           }
         },
         {
@@ -604,7 +653,8 @@
             "de": "Fahrt zu den Jylhänkoski Stromschnellen",
             "hu": "Kerékpárút a Jylhänkoski-zúgóhoz",
             "ro": "Plimbare cu bicicleta la Cascadele Jylhänkoski",
-            "en": "Ride to Jylhänkoski Rapids"
+            "en": "Ride to Jylhänkoski Rapids",
+            "fi": "Pyöräile Jylhänkosken koskille"
           },
           "coords": [
             23.03,
@@ -619,7 +669,8 @@
             "de": "Genießen Sie ein Picknick am Flussufer. Die Radtour dorthin ist erfrischend.",
             "hu": "Piknikezzen a folyóparton. A bicikliút odáig felüdítő.",
             "ro": "Bucurați-vă de un picnic pe malul râului. Plimbarea cu bicicleta până acolo este revigorantă.",
-            "en": "Enjoy a picnic by the riverbank. The bike ride there is refreshing."
+            "en": "Enjoy a picnic by the riverbank. The bike ride there is refreshing.",
+            "fi": "Nauti piknikistä rantatörmällä. Pyöräily sinne virkistää."
           }
         },
         {
@@ -627,7 +678,8 @@
             "de": "Rückfahrt ins Zentrum & Kaffee",
             "hu": "Vissza a központba és egy kávé",
             "ro": "Înapoi în centru și o cafea",
-            "en": "Ride back to center & Coffee"
+            "en": "Ride back to center & Coffee",
+            "fi": "Pyöräile takaisin keskustaan & kahville"
           },
           "coords": [
             23.057,
@@ -642,7 +694,8 @@
             "de": "Belohnen Sie sich mit einem Kaffee und einem Stück Pullapitko (süßes Brot).",
             "hu": "Jutalmazza meg magát egy kávéval és egy szelet Pullapitkóval (édes kenyér).",
             "ro": "Recompensați-vă cu o cafea și o bucată de Pullapitko (pâine dulce).",
-            "en": "Reward yourself with a coffee and a piece of Pullapitko (sweet bread)."
+            "en": "Reward yourself with a coffee and a piece of Pullapitko (sweet bread).",
+            "fi": "Palkitse itsesi kahvilla ja palalla pullapitkoa."
           }
         }
       ],
@@ -650,7 +703,8 @@
         "de": "Schwingen Sie sich auf Ihr Fahrrad für einen aktiven Tag in Kauhava. Der Morgen beginnt mit Kultur: dem Messermacher-Denkmal und dem Museum. Sie radeln weiter zur historischen Kirche und dem lebendigen Jugendzentrum. Am Mittag führt Sie eine längere, malerische Fahrt zu den Jylhänkoski-Stromschnellen, ideal für eine Mittagspause in der Natur. Der Nachmittag bringt Sie zurück ins Stadtzentrum für eine wohlverdiente Kaffeepause. Es ist ein Tag, der Kultur, Natur und leichte körperliche Betätigung perfekt kombiniert.",
         "hu": "Pattanjon biciklire egy aktív kauhavai napért. A reggel kultúrával indul: a késkészítő emlékművel és a múzeummal. Tovább teker a történelmi templomhoz és az élénk ifjúsági házhoz. Délben egy hosszabb, festői út vezet a Jylhänkoski-zúgóhoz, amely ideális egy ebédszünethez a természetben. Délután visszatér a városközpontba egy jól megérdemelt kávészünetre. Ez a nap tökéletesen ötvözi a kultúrát, a természetet és a könnyed testmozgást.",
         "ro": "Urcați-vă pe bicicletă pentru o zi activă în Kauhava. Dimineața începe cu cultură: monumentul cuțitarului și muzeul. Pedalați mai departe spre biserica istorică și vibranta casă de tineret. La prânz, o plimbare mai lungă și pitorească vă duce la cascadele Jylhänkoski, ideale pentru o pauză de masă în natură. După-amiaza vă aduce înapoi în centrul orașului pentru o pauză de cafea binemeritată. Este o zi care combină perfect cultura, natura și exercițiile fizice ușoare.",
-        "en": "Hop on your bike for an active day in Kauhava. The morning starts with culture: the knifemaker monument and the museum. You'll pedal onward to the historic church and the vibrant youth association house. At midday, a longer, scenic ride takes you to the Jylhänkoski rapids, ideal for a lunch break in nature. The afternoon brings you back to the town center for a well-deserved coffee break. It's a day that perfectly combines culture, nature, and light exercise."
+        "en": "Hop on your bike for an active day in Kauhava. The morning starts with culture: the knifemaker monument and the museum. You'll pedal onward to the historic church and the vibrant youth association house. At midday, a longer, scenic ride takes you to the Jylhänkoski rapids, ideal for a lunch break in nature. The afternoon brings you back to the town center for a well-deserved coffee break. It's a day that perfectly combines culture, nature, and light exercise.",
+        "fi": "Hyppää pyörän selkään aktiivista päivää varten Kauhavalla. Aamu alkaa kulttuurilla: puukkosepän muistomerkki ja museo. Poljet eteenpäin historiallisen kirkon ja elävän nuorisoseurantalon luo. Keskipäivällä pidempi, maisemallinen reitti vie Jylhänkosken koskille, joka sopii loistavasti lounastauolle luonnossa. Iltapäivällä palaat kaupunkikeskustaan ansaitulle kahvitauolle. Päivä yhdistää täydellisesti kulttuuria, luontoa ja kevyttä liikuntaa."
       },
       "gastro_picks": {
         "de": [
@@ -846,6 +900,12 @@
           "Bring a helmet and a bike lock.",
           "Plan for extra time for impromptu stops to enjoy the scenery.",
           "A cycling map of the area can be useful, but is not essential."
+        ],
+        "fi": [
+          "Tarkista pyöräsi ennen lähtöä, erityisesti jarrut ja renkaat.",
+          "Ota mukaan kypärä ja lukko pyörälle.",
+          "Varaa ylimääräistä aikaa spontaaniin pysähtelyyn maisemien ihailua varten.",
+          "Alueen pyöräilykartta voi olla hyödyllinen, mutta ei välttämätön."
         ]
       },
       "variants": {
@@ -854,7 +914,8 @@
             "de": "Eine nasse, aber erfrischende Tour durch Kauhava. Starten Sie beim Denkmal und suchen Sie Schutz im Museum. Die Fahrt zur Kirche bietet eine schnelle Abkühlung durch den Regen. Das Jugendheim und die Fahrt zu den Stromschnellen erfordern Vorsicht auf nassen Straßen. Zum Abschluss belohnen Sie sich mit einem heißen Kaffee im Stadtzentrum, während Ihre Ausrüstung trocknet.",
             "hu": "Vizes, de frissítő túra Kauhavában. Kezdje az emlékműnél, majd keressen menedéket a múzeumban. A templomhoz vezető út gyors felfrissülést hoz az esőben. Az ifjúsági ház és a zúgók felé vezető szakasz óvatosságot igényel a nedves utakon. Végül jutalmazza meg magát egy forró kávéval a központban, amíg a felszerelése szárad.",
             "ro": "O tură umedă, dar revigorantă prin Kauhava. Începeți la monument, apoi căutați adăpost în muzeu. Drumul spre biserică oferă o răcorire rapidă prin ploaie. Casa Asociației de Tineret și drumul spre praguri necesită prudență pe drumurile ude. La final, răsplătiți-vă cu o cafea fierbinte în centru în timp ce echipamentul se usucă.",
-            "en": "A wet but refreshing tour through Kauhava. Start at the monument, then seek shelter in the museum. The ride to the church offers a quick cooling down in the rain. The Youth Association House and the ride to the rapids require caution on wet roads. Finally, reward yourself with a hot coffee in the center while your gear dries."
+            "en": "A wet but refreshing tour through Kauhava. Start at the monument, then seek shelter in the museum. The ride to the church offers a quick cooling down in the rain. The Youth Association House and the ride to the rapids require caution on wet roads. Finally, reward yourself with a hot coffee in the center while your gear dries.",
+            "fi": "Kostea mutta virkistävä kierros Kauhavalla. Aloita muistomerkiltä ja hae suojaa museosta. Matka kirkolle tarjoaa nopean viilennyksen sateessa. Nuorisoseurantalo ja reitti koskille vaativat varovaisuutta märillä teillä. Lopuksi palkitse itsesi kuumalla kahvilla keskustassa pyöräilyvarusteiden kuivuessa."
           },
           "stops": [
             {
@@ -863,7 +924,8 @@
                 "de": "Achten Sie auf Pfützen rund um den Stopppunkt.",
                 "hu": "Ügyeljen a tócsákra a megállóhely körül.",
                 "ro": "Atenție la bălțile din jurul punctului de oprire.",
-                "en": "Watch out for puddles around the stopping point."
+                "en": "Watch out for puddles around the stopping point.",
+                "fi": "Varo lammikoita pysähdyspaikan ympärillä."
               }
             },
             {
@@ -872,7 +934,8 @@
                 "de": "Fahrradständer sind oft unüberdacht; nutzen Sie eine Sattelabdeckung.",
                 "hu": "A kerékpártárolók gyakran fedetlenek; használjon nyeregvédőt.",
                 "ro": "Suporturile de biciclete sunt adesea neacoperite; folosiți o protecție pentru șa.",
-                "en": "Bike racks are often uncovered; use a saddle cover."
+                "en": "Bike racks are often uncovered; use a saddle cover.",
+                "fi": "Pyörätelineet ovat usein kattemattomia; käytä satulansuojusta."
               }
             },
             {
@@ -881,7 +944,8 @@
                 "de": "Kurze Pause im Trockenen, bevor es weitergeht.",
                 "hu": "Rövid szünet a szárazon, mielőtt továbbindulna.",
                 "ro": "Scurtă pauză la adăpost înainte de a continua.",
-                "en": "Short break in the dry before continuing."
+                "en": "Short break in the dry before continuing.",
+                "fi": "Pidä lyhyt tauko kuivassa ennen jatkamista."
               }
             },
             {
@@ -890,7 +954,8 @@
                 "de": "Vorsicht beim Auf- und Absteigen auf nassem Asphalt.",
                 "hu": "Vigyázzon a fel- és leszállásnál a nedves aszfalton.",
                 "ro": "Atenție la urcare și coborâre pe asfaltul ud.",
-                "en": "Be careful when mounting and dismounting on wet asphalt."
+                "en": "Be careful when mounting and dismounting on wet asphalt.",
+                "fi": "Ole varovainen noustessa ja laskeutuessa märällä asfaltilla."
               }
             },
             {
@@ -899,7 +964,8 @@
                 "de": "Die unbefestigten Wege können schlammig sein.",
                 "hu": "A burkolatlan utak sárosak lehetnek.",
                 "ro": "Drumurile neasfaltate pot fi noroioase.",
-                "en": "The unpaved paths can be muddy."
+                "en": "The unpaved paths can be muddy.",
+                "fi": "Päällystämättömät polut voivat olla mutaisia."
               }
             },
             {
@@ -908,7 +974,8 @@
                 "de": "Ein heißes Getränk ist der beste Abschluss für eine Regentour.",
                 "hu": "Egy forró ital a legjobb lezárása egy esős túrának.",
                 "ro": "O băutură fierbinte este cel mai bun final pentru o tură pe ploaie.",
-                "en": "A hot drink is the best end to a rainy tour."
+                "en": "A hot drink is the best end to a rainy tour.",
+                "fi": "Kuumaa juomaa on paras päätös sateiselle kierrokselle."
               }
             }
           ],
@@ -936,6 +1003,12 @@
               "Full rain gear including shoe covers is recommended.",
               "Protect your panniers with extra rain covers.",
               "Visibility is worse in the rain; turn on your lights even during the day."
+            ],
+            "fi": [
+              "Vältä äkillistä jarrutusta märillä mukulakivillä keskustassa.",
+              "Kokonaisvaltainen sadevarustus, mukaan lukien kenkäsuojat, suositeltava.",
+              "Suojaa laukut lisäsadetakkeilla.",
+              "Sateessa näkyvyys heikkenee; sytytä valot myös päivällä."
             ]
           }
         },
@@ -944,7 +1017,8 @@
             "de": "Eine echte finnische Winter-Herausforderung auf zwei Rädern. Die verschneite Landschaft von Kauhava glitzert, während Sie zwischen den warmen Museen und Kirchen pendeln. Die Fahrt zum Jugendheim und zu den Stromschnellen erfordert Geschick auf festgefahrenem Schnee. Das Licht der Dämmerung taucht die Jylhänkoski-Region in magisches Blau, bevor Sie sich im Café aufwärmen.",
             "hu": "Egy igazi finn téli kihívás két keréken. Kauhava havas tája csillog, miközben a meleg múzeumok és templomok között ingázik. Az ifjúsági házhoz és a zúgókhoz vezető út ügyességet igényel a letaposott havon. Az alkonyati fények varázslatos kékbe öltöztetik a Jylhänkoski környékét, mielőtt felmelegedne a kávézóban.",
             "ro": "O adevărată provocare de iarnă finlandeză pe două roți. Peisajul înzăpezit din Kauhava strălucește în timp ce faceți naveta între muzeele și bisericile calde. Drumul spre Casa Tineretului și spre praguri necesită îndemânare pe zăpada bătătorită. Lumina amurgului scaldă zona Jylhänkoski într-un albastru magic înainte de a vă încălzi la cafenea.",
-            "en": "A true Finnish winter challenge on two wheels. Kauhava's snowy landscape glistens as you commute between warm museums and churches. The ride to the Youth House and the rapids requires skill on packed snow. The twilight light bathes the Jylhänkoski region in magical blue before you warm up in the cafe."
+            "en": "A true Finnish winter challenge on two wheels. Kauhava's snowy landscape glistens as you commute between warm museums and churches. The ride to the Youth House and the rapids requires skill on packed snow. The twilight light bathes the Jylhänkoski region in magical blue before you warm up in the cafe.",
+            "fi": "Todellinen suomalainen talvihaaste kahdella pyörällä. Kauhavan luminen maisema kimaltelee, kun siirryt lämpimien museoiden ja kirkkojen välillä. Matka nuorisotalolle ja koskille vaatii taitoa tiiviissä lumessa. Hämärän valo kylvää Jylhänkosken seudun maagiseen siniseen ennen kuin lämmittelet kahvilassa."
           },
           "stops": [
             {
@@ -953,7 +1027,8 @@
                 "de": "Vorsicht beim Abstellen des Rades auf vereistem Untergrund.",
                 "hu": "Vigyázzon a kerékpár leállításakor a jeges talajon.",
                 "ro": "Atenție la parcarea bicicletei pe teren înghețat.",
-                "en": "Be careful when parking your bike on icy ground."
+                "en": "Be careful when parking your bike on icy ground.",
+                "fi": "Ole varovainen parkatessasi pyörää jäiselle maalle."
               }
             },
             {
@@ -962,7 +1037,8 @@
                 "de": "Schütteln Sie den Schnee von Ihrer Kleidung, bevor Sie eintreten.",
                 "hu": "Rázza le a havat a ruhájáról, mielőtt belépne.",
                 "ro": "Scuturați zăpada de pe haine înainte de a intra.",
-                "en": "Shake the snow off your clothes before entering."
+                "en": "Shake the snow off your clothes before entering.",
+                "fi": "Ravista lumi vaatteistasi ennen sisäänmenoa."
               }
             },
             {
@@ -971,7 +1047,8 @@
                 "de": "Ein ruhiger Ort, um die Hände aufzuwärmen.",
                 "hu": "Csendes hely a kezek felmelegítésére.",
                 "ro": "Un loc liniștit pentru a vă încălzi mâinile.",
-                "en": "A quiet place to warm up your hands."
+                "en": "A quiet place to warm up your hands.",
+                "fi": "Hiljainen paikka lämmittää käsiäsi."
               }
             },
             {
@@ -980,7 +1057,8 @@
                 "de": "Die Wege hier werden oft geräumt, können aber dennoch glatt sein.",
                 "hu": "Az utakat itt gyakran takarítják, de így is csúszósak lehetnek.",
                 "ro": "Drumurile de aici sunt deszăpezite des, dar pot fi totuși alunecoase.",
-                "en": "The paths here are often cleared, but can still be slippery."
+                "en": "The paths here are often cleared, but can still be slippery.",
+                "fi": "Polut ovat usein aurattuja, mutta voivat silti olla liukkaita."
               }
             },
             {
@@ -989,7 +1067,8 @@
                 "de": "Verwenden Sie Winterreifen oder Spikes für diesen Abschnitt.",
                 "hu": "Használjon téli gumit vagy tüskés gumit ehhez a szakaszhoz.",
                 "ro": "Folosiți anvelope de iarnă sau cu ținte pentru această secțiune.",
-                "en": "Use winter tires or studs for this section."
+                "en": "Use winter tires or studs for this section.",
+                "fi": "Käytä nastarenkaita tai nastoja tällä osuudella."
               }
             },
             {
@@ -998,7 +1077,8 @@
                 "de": "Genießen Sie die gemütliche Atmosphäre im Warmen.",
                 "hu": "Élvezze a meghitt hangulatot a melegben.",
                 "ro": "Bucurați-vă de atmosfera primitoare la căldură.",
-                "en": "Enjoy the cozy atmosphere in the warmth."
+                "en": "Enjoy the cozy atmosphere in the warmth.",
+                "fi": "Nauti kodikkaasta tunnelmasta sisällä lämmössä."
               }
             }
           ],
@@ -1026,6 +1106,12 @@
               "Wear windproof gloves and a hat under your helmet.",
               "Your e-bike battery (if applicable) drains faster in the cold.",
               "Stay on the cleared main paths to avoid deep snow."
+            ],
+            "fi": [
+              "Talvenkestävät ketjunvoiteluaineet ovat tärkeitä pakkasella.",
+              "Pue tuulenpitävät käsineet ja pipo kypärän alle.",
+              "Sähköpyörän akku (jos käytössä) tyhjenee kylmässä nopeammin.",
+              "Pysy auratuilla pääreiteillä välttääksesi syvää lunta."
             ]
           }
         }
@@ -1044,7 +1130,8 @@
             "de": "Kauhava Zentrum Cluster: Finnisches Messermuseum",
             "hu": "Kauhava Központ Klaszter: Finn Késmúzeum",
             "ro": "Cluster Centru Kauhava: Muzeul Finlandez al Cuțitelor",
-            "en": "Kauhava Center Cluster: Finnish Knife Museum"
+            "en": "Kauhava Center Cluster: Finnish Knife Museum",
+            "fi": "Kauhavan keskuksen ryhmä: Suomen Puukkomuseo"
           },
           "coords": [
             23.0545,
@@ -1060,7 +1147,8 @@
             "de": "Parken Sie hier und beginnen Sie Ihren Rundgang durch das Zentrum von Kauhava.",
             "hu": "Parkoljon itt, és kezdje meg a belvárosi sétát.",
             "ro": "Parcați aici și începeți turul pe jos al centrului orașului Kauhava.",
-            "en": "Park here and start your walking tour of Kauhava's center."
+            "en": "Park here and start your walking tour of Kauhava's center.",
+            "fi": "Parkkaa täällä ja aloita kävelykierros Kauhavan keskustassa."
           }
         },
         {
@@ -1068,7 +1156,8 @@
             "de": "Kauhava Zentrum Cluster: Denkmal des Messermachers",
             "hu": "Kauhava Központ Klaszter: A Késkészítő Emlékműve",
             "ro": "Cluster Centru Kauhava: Monumentul Cuțitarului",
-            "en": "Kauhava Center Cluster: Monument of the Knifemaker"
+            "en": "Kauhava Center Cluster: Monument of the Knifemaker",
+            "fi": "Kauhavan keskuksen ryhmä: Puukkosepän muistomerkki"
           },
           "coords": [
             23.056,
@@ -1084,7 +1173,8 @@
             "de": "Ein kurzer Spaziergang vom Museum, um die lokale Handwerkskunst zu würdigen.",
             "hu": "Rövid séta a múzeumtól a helyi kézművesség tiszteletére.",
             "ro": "O scurtă plimbare de la muzeu pentru a aprecia meșteșugul local.",
-            "en": "A short walk from the museum to appreciate the local craft."
+            "en": "A short walk from the museum to appreciate the local craft.",
+            "fi": "Lyhyt kävelymatka museolta arvostamaan paikallista käsityötä."
           }
         },
         {
@@ -1092,7 +1182,8 @@
             "de": "Kauhava Zentrum Cluster: Kirche von Kauhava",
             "hu": "Kauhava Központ Klaszter: Kauhava temploma",
             "ro": "Cluster Centru Kauhava: Biserica din Kauhava",
-            "en": "Kauhava Center Cluster: Church of Kauhava"
+            "en": "Kauhava Center Cluster: Church of Kauhava",
+            "fi": "Kauhavan keskuksen ryhmä: Kauhavan kirkko"
           },
           "coords": [
             23.058,
@@ -1108,7 +1199,8 @@
             "de": "Der letzte Halt in diesem Cluster, bewundern Sie die Holzarbeiten im Inneren.",
             "hu": "Az utolsó megálló ebben a klaszterben, csodálja meg a belső famunkákat.",
             "ro": "Ultima oprire în acest cluster, admirați tâmplăria interioară.",
-            "en": "The final stop in this cluster, admire the woodwork inside."
+            "en": "The final stop in this cluster, admire the woodwork inside.",
+            "fi": "Tämän ryhmän viimeinen pysäkki, ihaile puutöitä sisällä."
           }
         },
         {
@@ -1116,7 +1208,8 @@
             "de": "PowerPark Cluster: Ankunft und Mittagessen",
             "hu": "PowerPark Klaszter: Érkezés és ebéd",
             "ro": "Cluster PowerPark: Sosire și prânz",
-            "en": "PowerPark Cluster: Arrival and Lunch"
+            "en": "PowerPark Cluster: Arrival and Lunch",
+            "fi": "PowerPark-ryhmä: Saapuminen ja lounas"
           },
           "coords": [
             22.86,
@@ -1132,7 +1225,8 @@
             "de": "Finnlands bester Freizeitpark! Nehmen Sie sich Zeit für die Fahrgeschäfte und die Atmosphäre.",
             "hu": "Finnország legjobb vidámparkja! Szánjon időt a játékokra és a hangulatra.",
             "ro": "Cel mai bun parc de distracții din Finlanda! Acordați-vă timp pentru atracții și atmosferă.",
-            "en": "Finland's best amusement park! Take your time for the rides and atmosphere."
+            "en": "Finland's best amusement park! Take your time for the rides and atmosphere.",
+            "fi": "Suomen paras huvipuisto! Varaa aikaa laitteisiin ja tunnelmaan."
           }
         },
         {
@@ -1140,7 +1234,8 @@
             "de": "PowerPark Cluster: Kirche von Alahärmä",
             "hu": "PowerPark Klaszter: Alahärmä temploma",
             "ro": "Cluster PowerPark: Biserica din Alahärmä",
-            "en": "PowerPark Cluster: Church of Alahärmä"
+            "en": "PowerPark Cluster: Church of Alahärmä",
+            "fi": "PowerPark-ryhmä: Alahärmän kirkko"
           },
           "coords": [
             22.85,
@@ -1156,7 +1251,8 @@
             "de": "Ein kurzer Spaziergang vom Park für einen Moment der Ruhe und des Friedens.",
             "hu": "Rövid séta a parkból egy csendes, békés pillanatért.",
             "ro": "O scurtă plimbare de la parc pentru un moment de calm și pace.",
-            "en": "A short walk from the park for a moment of calm and peace."
+            "en": "A short walk from the park for a moment of calm and peace.",
+            "fi": "Lyhyt kävelymatka puistosta rauhalliseen hetkeen."
           }
         },
         {
@@ -1164,7 +1260,8 @@
             "de": "Kirche von Ylihärmä",
             "hu": "Ylihärmä temploma",
             "ro": "Biserica din Ylihärmä",
-            "en": "Church of Ylihärmä"
+            "en": "Church of Ylihärmä",
+            "fi": "Ylihärmän kirkko"
           },
           "coords": [
             22.79,
@@ -1180,7 +1277,8 @@
             "de": "Eine weitere wunderschöne Landkirche, die die Reise wert ist.",
             "hu": "Egy másik gyönyörű vidéki templom, amely megéri az utat.",
             "ro": "O altă biserică rurală frumoasă care merită călătoria.",
-            "en": "Another beautiful country church that's worth the drive."
+            "en": "Another beautiful country church that's worth the drive.",
+            "fi": "Toinen kaunis maalaiskirkko, joka kannattaa ajaa katsomaan."
           }
         },
         {
@@ -1188,7 +1286,8 @@
             "de": "Abendessen in Kauhava",
             "hu": "Vacsora Kauhavában",
             "ro": "Cină în Kauhava",
-            "en": "Dinner in Kauhava"
+            "en": "Dinner in Kauhava",
+            "fi": "Illallinen Kauhavalla"
           },
           "coords": [
             23.057,
@@ -1204,7 +1303,8 @@
             "de": "Lassen Sie den Tag bei einem herzhaften finnischen Abendessen ausklingen.",
             "hu": "Zárja a napot egy kiadós finn vacsorával.",
             "ro": "Încheiați ziua cu o cină finlandeză copioasă.",
-            "en": "End the day with a hearty Finnish dinner."
+            "en": "End the day with a hearty Finnish dinner.",
+            "fi": "Päätä päivä rehdillä suomalaisella illallisella."
           }
         }
       ],
@@ -1212,7 +1312,8 @@
         "de": "Mit dem Auto können Sie die Vielfalt von Kauhava und Umgebung entdecken. Am Morgen erkunden Sie das kulturelle Herz von Kauhava zu Fuß: Museum, Denkmal und Kirche. Danach fahren Sie zum PowerPark, dem größten Vergnügungspark Finnlands, wo Sie den größten Teil des Tages verbringen. Ein kurzer Spaziergang führt Sie zur beeindruckenden Kirche von Alahärmä. Am späten Nachmittag machen Sie einen Abstecher zur Kirche von Ylihärmä, bevor Sie für ein wohlverdientes Abendessen ins Zentrum von Kauhava zurückkehren. Dieser Tag ist eine Mischung aus Kultur, Adrenalin und ländlichem Charme.",
         "hu": "Az autó lehetővé teszi, hogy felfedezze Kauhava és környéke sokszínűségét. Délelőtt gyalogosan ismeri meg Kauhava kulturális szívét: múzeum, emlékmű és templom. Ezután Finnország legnagyobb vidámparkjába, a PowerParkba hajt, ahol a nap nagy részét tölti. Egy rövid séta elvezeti az impozáns Alahärmä-i templomhoz. Késő délután kitérőt tesz az Ylihärmä-i templomhoz, mielőtt visszatérne Kauhava központjába egy jól megérdemelt vacsorára. Ez a nap a kultúra, az adrenalin és a vidéki báj keveréke.",
         "ro": "Mașina vă permite să descoperiți diversitatea din Kauhava și împrejurimile sale. Dimineața, explorați pe jos inima culturală a orașului Kauhava: muzeu, monument și biserică. Apoi, conduceți la PowerPark, cel mai mare parc de distracții din Finlanda, unde veți petrece cea mai mare parte a zilei. O scurtă plimbare vă va duce la impresionanta biserică din Alahärmä. Spre sfârșitul după-amiezii, faceți un ocol la biserica din Ylihärmä înainte de a vă întoarce în centrul orașului Kauhava pentru o cină binemeritată. Această zi este un amestec de cultură, adrenalină și farmec rural.",
-        "en": "The car allows you to discover the diversity of Kauhava and its surroundings. In the morning, explore Kauhava's cultural heart on foot: museum, monument, and church. Then, you'll drive to PowerPark, Finland's largest amusement park, where you'll spend most of the day. A short walk will take you to the impressive church of Alahärmä. In the late afternoon, you'll make a detour to the church of Ylihärmä before returning to Kauhava's center for a well-deserved dinner. This day is a mix of culture, adrenaline, and rural charm."
+        "en": "The car allows you to discover the diversity of Kauhava and its surroundings. In the morning, explore Kauhava's cultural heart on foot: museum, monument, and church. Then, you'll drive to PowerPark, Finland's largest amusement park, where you'll spend most of the day. A short walk will take you to the impressive church of Alahärmä. In the late afternoon, you'll make a detour to the church of Ylihärmä before returning to Kauhava's center for a well-deserved dinner. This day is a mix of culture, adrenaline, and rural charm.",
+        "fi": "Auto mahdollistaa Kauhavan ja sen ympäristön monipuolisen tutkimisen. Aamulla tutustu Kauhavan kulttuuriseen sydämeen kävellen: museo, muistomerkki ja kirkko. Sitten ajat PowerParkiin, Suomen suurimpaan huvipuistoon, jossa vietät suurimman osan päivästä. Lyhyt kävely vie sinut Alahärmän vaikuttavalle kirkolle. Myöhäisiltapäivällä poikkeat Ylihärmän kirkolle ennen paluuta Kauhavan keskustaan ansaitulle illalliselle. Päivä on sekoitus kulttuuria, adrenaliinia ja maalaisromantiikkaa."
       },
       "gastro_picks": {
         "de": [
@@ -1424,6 +1525,12 @@
           "Be mindful of speed limits, which are strictly enforced in Finland.",
           "Park only in designated areas.",
           "A navigation app is essential to find your way between the different sites."
+        ],
+        "fi": [
+          "Tankenna ennen lähtöä, erityisesti jos aiot ajaa paljon maaseudulla.",
+          "Huomioi nopeusrajoitukset; Suomessa niitä valvotaan tarkasti.",
+          "Pysäköi vain merkityille paikoille.",
+          "Navigaattori tai karttasovellus on välttämätön eri kohteiden löytämiseen."
         ]
       },
       "variants": {
@@ -1432,7 +1539,8 @@
             "de": "Ein entspannter Tag mit dem Auto, ideal bei Regen. Besuchen Sie die Museen und Denkmäler im Zentrum, bevor Sie zum PowerPark fahren. Dort bieten die Indoor-Aktivitäten (wie Karting) perfekten Schutz vor dem Wetter. Nach dem Besuch der Kirchen in Alahärmä und Ylihärmä kehren Sie für ein gemütliches Abendessen nach Kauhava zurück, während der Regen gegen die Scheiben prasselt.",
             "hu": "Pihentető autós nap, ideális esőben. Látogassa meg a központi múzeumokat és emlékműveket, mielőtt a PowerParkba hajtana. Ott a beltéri tevékenységek (például gokart) tökéletes védelmet nyújtanak az időjárás elől. Az alahärmäi és ylihärmäi templomlátogatás után térjen vissza Kauhavába egy hangulatos vacsorára, miközben az eső az ablakon kopog.",
             "ro": "O zi relaxantă cu mașina, ideală pe ploaie. Vizitați muzeele și monumentele din centru înainte de a merge la PowerPark. Acolo, activitățile de interior (cum ar fi karting-ul) oferă protecție perfectă împotriva vremii. După vizitarea bisericilor din Alahärmä și Ylihärmä, reveniți în Kauhava pentru o cină plăcută în timp ce ploaia bate în geam.",
-            "en": "A relaxed day by car, ideal for rainy weather. Visit the central museums and monuments before driving to PowerPark. There, indoor activities (like karting) provide perfect protection from the weather. After visiting the churches in Alahärmä and Ylihärmä, return to Kauhava for a cozy dinner while the rain patters against the windows."
+            "en": "A relaxed day by car, ideal for rainy weather. Visit the central museums and monuments before driving to PowerPark. There, indoor activities (like karting) provide perfect protection from the weather. After visiting the churches in Alahärmä and Ylihärmä, return to Kauhava for a cozy dinner while the rain patters against the windows.",
+            "fi": "Rauhallinen päivä autolla, sopii sateiseen säähän. Vieraile keskuksen museoissa ja muistomerkeillä ennen ajoa PowerParkiin. Siellä sisäaktiviteetit (kuten karting) tarjoavat täydellisen suojan säältä. Kirkkojen Alahärmässä ja Ylihärmässä jälkeen palaat Kauhavalle kodikkaalle illalliselle sateen rummuttaessa ikkunoita."
           },
           "stops": [
             {
@@ -1441,7 +1549,8 @@
                 "de": "Parkplätze befinden sich direkt vor dem Eingang.",
                 "hu": "A parkolóhelyek közvetlenül a bejárat előtt találhatók.",
                 "ro": "Locurile de parcare sunt situate chiar în fața intrării.",
-                "en": "Parking spaces are located right in front of the entrance."
+                "en": "Parking spaces are located right in front of the entrance.",
+                "fi": "Pysäköintipaikat sijaitsevat aivan sisäänkäynnin edessä."
               }
             },
             {
@@ -1450,7 +1559,8 @@
                 "de": "Kurzer Ausstieg für ein Foto, das Auto bleibt warm.",
                 "hu": "Rövid kiszállás egy fotóra, az autó meleg marad.",
                 "ro": "Coborâre scurtă pentru o poză, mașina rămâne caldă.",
-                "en": "Short hop out for a photo, the car stays warm."
+                "en": "Short hop out for a photo, the car stays warm.",
+                "fi": "Pieni pysähdys valokuvan ottamiseksi, auto pysyy lämpimänä."
               }
             },
             {
@@ -1459,7 +1569,8 @@
                 "de": "Guter Stopp, um die Architektur im Trockenen zu bewundern.",
                 "hu": "Jó megálló az építészet megcsodálására száraz helyen.",
                 "ro": "O oprire bună pentru a admira arhitectura la adăpost.",
-                "en": "A good stop to admire the architecture in the dry."
+                "en": "A good stop to admire the architecture in the dry.",
+                "fi": "Hyvä paikka ihailla arkkitehtuuria kuivassa."
               }
             },
             {
@@ -1468,7 +1579,8 @@
                 "de": "Das Einkaufszentrum Roadman bietet viele Indoor-Optionen.",
                 "hu": "A Roadman bevásárlóközpont számos beltéri lehetőséget kínál.",
                 "ro": "Centrul comercial Roadman oferă multe opțiuni de interior.",
-                "en": "The Roadman shopping center offers many indoor options."
+                "en": "The Roadman shopping center offers many indoor options.",
+                "fi": "Roadman-ostoskeskus tarjoaa monta sisäistä vaihtoehtoa."
               }
             },
             {
@@ -1477,7 +1589,8 @@
                 "de": "Achten Sie auf Spritzwasser von vorbeifahrenden Fahrzeugen.",
                 "hu": "Ügyeljen az elhaladó járművek által felvert vízre.",
                 "ro": "Atenție la apa împroșcată de vehiculele care trec.",
-                "en": "Watch out for spray from passing vehicles."
+                "en": "Watch out for spray from passing vehicles.",
+                "fi": "Varo ohiajavien autojen aiheuttamaa roisketta."
               }
             },
             {
@@ -1486,7 +1599,8 @@
                 "de": "Ein schöner Abschluss der Kirchtour, auch bei grauem Himmel.",
                 "hu": "A templomtúra szép lezárása, szürke égbolt mellett is.",
                 "ro": "Un final frumos al turului bisericilor, chiar și sub cerul gri.",
-                "en": "A nice conclusion to the church tour, even under grey skies."
+                "en": "A nice conclusion to the church tour, even under grey skies.",
+                "fi": "Mukava päätös kirkkojen kierrokselle, vaikka taivas olisi harmaa."
               }
             },
             {
@@ -1495,7 +1609,8 @@
                 "de": "Parken Sie nah am Restaurant, um trocken zu bleiben.",
                 "hu": "Parkoljon közel az étteremhez, hogy száraz maradjon.",
                 "ro": "Parcați aproape de restaurant pentru a rămâne uscat.",
-                "en": "Park close to the restaurant to stay dry."
+                "en": "Park close to the restaurant to stay dry.",
+                "fi": "Pysäköi lähelle ravintolaa pysyäksesi kuivana."
               }
             }
           ],
@@ -1523,6 +1638,12 @@
               "Some road sections between towns may have aquaplaning risks during heavy rain.",
               "Use the parking garages or covered parking at PowerPark.",
               "Keep an umbrella in the car for the walk from the parking lot to the entrance."
+            ],
+            "fi": [
+              "Tarkista pyyhkijöiden kunto ennen ajoa.",
+              "Joillain tieosuuksilla kaupunkien välillä voi esiintyä vesiliirron riskiä rankkasateella.",
+              "Käytä PowerParkin parkkihalleja tai katettua pysäköintiä.",
+              "Pidä auton takana sateenvarjo käden ulottuvilla kävelyä varten parkkipaikalta sisäänkäynnille."
             ]
           }
         },
@@ -1531,7 +1652,8 @@
             "de": "Eine gemütliche Wintertour durch Südösterbotten. Genießen Sie die verschneite Landschaft durch die beheizte Windschutzscheibe. Nach der Kultur in Kauhava erwartet Sie der PowerPark, der im Winter oft magisch beleuchtet ist (Indoor-Karting ist ein Muss!). Die Kirchen von Alahärmä und Ylihärmä wirken im Schnee wie aus einem Märchen, bevor Sie den Tag bei einem herzhaften Abendessen ausklingen lassen.",
             "hu": "Hangulatos téli túra Dél-Pohjanmaán. Élvezze a havas tájat a fűtött szélvédő mögül. A kauhavai kultúra után várja a PowerPark, amely télen gyakran varázslatos kivilágítást kap (a beltéri gokart kötelező!). Alahärmä és Ylihärmä templomai a hóban mesébe illőek, mielőtt a napot egy bőséges vacsorával zárná.",
             "ro": "O tură de iarnă primitoare prin Ostrobotnia de Sud. Bucurați-vă de peisajul înzăpezit prin parbrizul încălzit. După cultura din Kauhava, vă așteaptă PowerPark, care iarna este adesea iluminat magic (karting-ul de interior este obligatoriu!). Bisericile din Alahärmä și Ylihärmä arată ca în povești sub zăpadă, înainte de a încheia ziua cu o cină copioasă.",
-            "en": "A cozy winter tour through South Ostrobothnia. Enjoy the snowy landscape through the heated windshield. After the culture in Kauhava, PowerPark awaits, which is often magically lit in winter (indoor karting is a must!). The churches of Alahärmä and Ylihärmä look like they're from a fairy tale in the snow before you end the day with a hearty dinner."
+            "en": "A cozy winter tour through South Ostrobothnia. Enjoy the snowy landscape through the heated windshield. After the culture in Kauhava, PowerPark awaits, which is often magically lit in winter (indoor karting is a must!). The churches of Alahärmä and Ylihärmä look like they're from a fairy tale in the snow before you end the day with a hearty dinner.",
+            "fi": "Kodikas talvikierros Etelä-Pohjanmaalla. Nauti lumisista maisemista lämmitetyn tuulilasinkin läpi. Kauhavan kulttuurin jälkeen PowerPark odottaa, usein talvella maagisesti valaistuna (sisäkarting on ehdoton!). Alahärmän ja Ylihärmän kirkot näyttävät lumessa satumaisilta ennen kuin päätät päivän rehellisellä illallisella."
           },
           "stops": [
             {
@@ -1540,7 +1662,8 @@
                 "de": "Befreien Sie das Autodach von Schnee, bevor Sie losfahren.",
                 "hu": "Indulás előtt takarítsa le a havat az autó tetejéről is.",
                 "ro": "Curățați zăpada de pe plafonul mașinii înainte de a pleca.",
-                "en": "Clear the snow off the car roof before driving."
+                "en": "Clear the snow off the car roof before driving.",
+                "fi": "Puhdista lumi auton katolta ennen ajoa."
               }
             },
             {
@@ -1549,7 +1672,8 @@
                 "de": "Vorsicht beim Einparken, Schneehaufen können Hindernisse verbergen.",
                 "hu": "Vigyázzon a parkolásnál, a hóbuckák akadályokat rejthetnek.",
                 "ro": "Atenție la parcare, mormanele de zăpadă pot ascunde obstacole.",
-                "en": "Be careful when parking; snowbanks can hide obstacles."
+                "en": "Be careful when parking; snowbanks can hide obstacles.",
+                "fi": "Ole varovainen pysäköidessä; lumivallit voivat peittää esteitä."
               }
             },
             {
@@ -1558,7 +1682,8 @@
                 "de": "Ein kurzer Stopp in der Wärme der Kirche tut gut.",
                 "hu": "Egy rövid megálló a templom melegében jól fog esni.",
                 "ro": "O scurtă oprire la căldura bisericii prinde bine.",
-                "en": "A short stop in the warmth of the church feels good."
+                "en": "A short stop in the warmth of the church feels good.",
+                "fi": "Lyhyt pysähdys kirkon lämmössä tekee hyvää."
               }
             },
             {
@@ -1567,7 +1692,8 @@
                 "de": "Im Winter sind die Fahrgeschäfte draußen geschlossen, Indoor-Spaß bleibt.",
                 "hu": "Télen a kültéri játékok zárva vannak, de a benti szórakozás marad.",
                 "ro": "Iarna, atracțiile exterioare sunt închise, dar distracția indoor continuă.",
-                "en": "In winter, outdoor rides are closed, but indoor fun remains."
+                "en": "In winter, outdoor rides are closed, but indoor fun remains.",
+                "fi": "Talvella ulkoajelut ovat suljettuja, mutta sisäaktiviteetit jatkuvat."
               }
             },
             {
@@ -1576,7 +1702,8 @@
                 "de": "Die Straßenbeleuchtung in der Nähe macht Fotos bei Dämmerung möglich.",
                 "hu": "A közeli utcai világítás lehetővé teszi a fotózást szürkületben is.",
                 "ro": "Iluminatul stradal din apropiere face posibile pozele la amurg.",
-                "en": "Nearby street lighting makes photos possible at dusk."
+                "en": "Nearby street lighting makes photos possible at dusk.",
+                "fi": "Läheinen katuvalaistus mahdollistaa valokuvauksen hämärässä."
               }
             },
             {
@@ -1585,7 +1712,8 @@
                 "de": "Die Auffahrt zur Kirche kann bei Glätte steil wirken.",
                 "hu": "A templomhoz vezető feljáró csúszós időben meredeknek tűnhet.",
                 "ro": "Urcarea spre biserică poate părea abruptă pe polei.",
-                "en": "The driveway to the church can seem steep when slippery."
+                "en": "The driveway to the church can seem steep when slippery.",
+                "fi": "Ajotie kirkolle voi tuntua jyrkältä liukkaalla kelillä."
               }
             },
             {
@@ -1594,7 +1722,8 @@
                 "de": "Lassen Sie den Motor nicht unnötig im Stand laufen.",
                 "hu": "Ne járassa feleslegesen a motort álló helyzetben.",
                 "ro": "Nu lăsați motorul să meargă inutil în staționare.",
-                "en": "Do not let the engine idle unnecessarily."
+                "en": "Do not let the engine idle unnecessarily.",
+                "fi": "Älä anna moottorin käydä tyhjäkäynnillä turhaan."
               }
             }
           ],
@@ -1622,6 +1751,12 @@
               "Refill with frost-proof windshield washer fluid.",
               "Driving time between clusters can increase significantly during snowfall.",
               "An ice scraper and a small brush should always be within reach."
+            ],
+            "fi": [
+              "Talvirenkaat ovat Suomessa lain mukaan pakolliset ja ehdottoman tarpeelliset.",
+              "Täytä tuulilasinpesuneste pakkasenkestävällä nesteellä.",
+              "Ajoajat klustereiden välillä voivat pidentyä merkittävästi lumisateessa.",
+              "Jääraappa ja pieni harja tulisi aina pitää helposti saatavilla."
             ]
           }
         }
@@ -1640,7 +1775,8 @@
             "de": "Kauhava Zentrum Cluster: Ankunft und Denkmal",
             "hu": "Kauhava Központ Klaszter: Érkezés és emlékmű",
             "ro": "Cluster Centru Kauhava: Sosire și Monument",
-            "en": "Kauhava Center Cluster: Arrival & Monument"
+            "en": "Kauhava Center Cluster: Arrival & Monument",
+            "fi": "Kauhavan keskuksen ryhmä: Saapuminen & muistomerkki"
           },
           "coords": [
             23.056,
@@ -1656,7 +1792,8 @@
             "de": "Steigen Sie an der zentralen Bushaltestelle aus und beginnen Sie Ihre Erkundung.",
             "hu": "Szálljon le a központi buszmegállónál, és kezdje meg a felfedezést.",
             "ro": "Coborâți la stația centrală de autobuz și începeți explorarea.",
-            "en": "Get off at the central bus stop and begin your exploration."
+            "en": "Get off at the central bus stop and begin your exploration.",
+            "fi": "Jää pois keskuslinja-autoasemalla ja aloita tutkiskelu."
           }
         },
         {
@@ -1664,7 +1801,8 @@
             "de": "Kauhava Zentrum Cluster: Finnisches Messermuseum",
             "hu": "Kauhava Központ Klaszter: Finn Késmúzeum",
             "ro": "Cluster Centru Kauhava: Muzeul Finlandez al Cuțitelor",
-            "en": "Kauhava Center Cluster: Finnish Knife Museum"
+            "en": "Kauhava Center Cluster: Finnish Knife Museum",
+            "fi": "Kauhavan keskuksen ryhmä: Suomen Puukkomuseo"
           },
           "coords": [
             23.0545,
@@ -1680,7 +1818,8 @@
             "de": "Ein Muss, um die lokale Geschichte zu verstehen.",
             "hu": "Kötelező program a helyi történelem megértéséhez.",
             "ro": "O vizită obligatorie pentru a înțelege istoria locală.",
-            "en": "A must-see to understand the local history."
+            "en": "A must-see to understand the local history.",
+            "fi": "Vierailun arvoinen, jotta ymmärrät paikallisen historian."
           }
         },
         {
@@ -1688,7 +1827,8 @@
             "de": "Kauhava Zentrum Cluster: Kirche von Kauhava",
             "hu": "Kauhava Központ Klaszter: Kauhava temploma",
             "ro": "Cluster Centru Kauhava: Biserica din Kauhava",
-            "en": "Kauhava Center Cluster: Church of Kauhava"
+            "en": "Kauhava Center Cluster: Church of Kauhava",
+            "fi": "Kauhavan keskuksen ryhmä: Kauhavan kirkko"
           },
           "coords": [
             23.058,
@@ -1704,7 +1844,8 @@
             "de": "Schließen Sie Ihren Rundgang durch das Zentrum mit dieser schönen Kirche ab.",
             "hu": "Zárja a központi sétát ezzel a gyönyörű templommal.",
             "ro": "Încheiați turul centrului cu această biserică frumoasă.",
-            "en": "Conclude your tour of the center with this beautiful church."
+            "en": "Conclude your tour of the center with this beautiful church.",
+            "fi": "Päätä kierroksesi keskustassa tähän kauniiseen kirkkoon."
           }
         },
         {
@@ -1712,7 +1853,8 @@
             "de": "PowerPark Vergnügungspark",
             "hu": "PowerPark vidámpark",
             "ro": "Parcul de distracții PowerPark",
-            "en": "PowerPark Amusement Park"
+            "en": "PowerPark Amusement Park",
+            "fi": "PowerPark-huvipuisto"
           },
           "coords": [
             22.86,
@@ -1728,7 +1870,8 @@
             "de": "Nehmen Sie den Bus nach Alahärmä. Der Park hat eine eigene Haltestelle. Verbringen Sie hier den Nachmittag.",
             "hu": "Vegye az Alahärmä felé tartó buszt. A parknak saját megállója van. Töltse itt a délutánt.",
             "ro": "Luați autobuzul spre Alahärmä. Parcul are propria stație. Petreceți după-amiaza aici.",
-            "en": "Take the bus to Alahärmä. The park has its own stop. Spend the afternoon here."
+            "en": "Take the bus to Alahärmä. The park has its own stop. Spend the afternoon here.",
+            "fi": "Ota bussi Alahärmään. Puistolla on oma pysäkki. Vietä iltapäivä täällä."
           }
         },
         {
@@ -1736,7 +1879,8 @@
             "de": "Rückfahrt ins Zentrum & Abendessen",
             "hu": "Vissza a központba és vacsora",
             "ro": "Întoarcere în centru și cină",
-            "en": "Return to Center & Dinner"
+            "en": "Return to Center & Dinner",
+            "fi": "Paluu keskustaan & Illallinen"
           },
           "coords": [
             23.057,
@@ -1752,7 +1896,8 @@
             "de": "Nach einem aufregenden Tag kehren Sie zum Abendessen nach Kauhava zurück.",
             "hu": "Egy izgalmas nap után térjen vissza Kauhavába vacsorázni.",
             "ro": "După o zi plină de emoții, întoarceți-vă în Kauhava pentru cină.",
-            "en": "After an exciting day, return to Kauhava for dinner."
+            "en": "After an exciting day, return to Kauhava for dinner.",
+            "fi": "Jännittävän päivän jälkeen palaa Kauhavaan illalliselle."
           }
         }
       ],
@@ -1760,7 +1905,8 @@
         "de": "Auch ohne Auto können Sie die Highlights von Kauhava erleben. Beginnen Sie Ihren Tag zu Fuß im Zentrum und erkunden Sie die Sehenswürdigkeiten rund um das Messererbe. Am Mittag bringt Sie ein lokaler Bus zum aufregenden PowerPark. Verbringen Sie einen langen Nachmittag mit den Attraktionen und der lebhaften Atmosphäre. Am Abend bringt Sie der Bus zurück ins Zentrum von Kauhava, wo Sie den Tag bei einem gemütlichen Abendessen ausklingen lassen können. Dieser Plan zeigt, wie man mit öffentlichen Verkehrsmitteln einen Tag voller Kultur und Spaß gestalten kann.",
         "hu": "Autó nélkül is megtapasztalhatja Kauhava legjavát. Kezdje a napot gyalog a központban, felfedezve a késkészítő örökség körüli látnivalókat. Délben egy helyi busz elviszi az izgalmas PowerParkba. Töltsön egy hosszú délutánt a látnivalókkal és az élénk hangulattal. Este a busz visszaviszi Kauhava központjába, ahol egy kellemes vacsorával zárhatja a napot. Ez a terv bemutatja, hogyan lehet a tömegközlekedést kihasználva egy kultúrával és szórakozással teli napot eltölteni.",
         "ro": "Chiar și fără mașină, puteți experimenta cele mai importante atracții din Kauhava. Începeți ziua pe jos în centru, explorând obiectivele turistice din jurul patrimoniului cuțitelor. La prânz, un autobuz local vă va duce la palpitantul PowerPark. Petreceți o după-amiază lungă bucurându-vă de atracții și de atmosfera vibrantă. Seara, autobuzul vă va aduce înapoi în centrul orașului Kauhava, unde puteți încheia ziua cu o cină relaxantă. Acest plan arată cum puteți folosi transportul public pentru o zi plină de cultură și distracție.",
-        "en": "Even without a car, you can experience the highlights of Kauhava. Start your day on foot in the center, exploring the sights around the knife-making heritage. At midday, a local bus will take you to the exciting PowerPark. Spend a long afternoon enjoying the rides and the vibrant atmosphere. In the evening, the bus will bring you back to the center of Kauhava, where you can end the day with a relaxing dinner. This plan shows how to use public transport for a day full of culture and fun."
+        "en": "Even without a car, you can experience the highlights of Kauhava. Start your day on foot in the center, exploring the sights around the knife-making heritage. At midday, a local bus will take you to the exciting PowerPark. Spend a long afternoon enjoying the rides and the vibrant atmosphere. In the evening, the bus will bring you back to the center of Kauhava, where you can end the day with a relaxing dinner. This plan shows how to use public transport for a day full of culture and fun.",
+        "fi": "Vaikka olisit ilman autoa, voit kokea Kauhavan kohokohdat. Aloita päivä keskustassa kävellen, tutustuen veitsivalmistusperinteeseen liittyviin nähtävyyksiin. Puolivälissä päivää paikallinen linja-auto vie sinut jännittävään PowerParkiin. Vietä pitkä iltapäivä nauttien laitteista ja vilkkaasta tunnelmasta. Illalla bussi tuo sinut takaisin Kauhavan keskustaan, jossa voit päättää päivän rentouttavaan illalliseen. Tämä suunnitelma näyttää, miten käyttää joukkoliikennettä kulttuuri- ja huvipitoiseen päivään."
       },
       "gastro_picks": {
         "de": [
@@ -1956,6 +2102,12 @@
           "Buy a day pass if it's cheaper than single tickets.",
           "Have small change ready for the bus driver in case card payment is not possible.",
           "Be mindful of the time for the last bus back to the center."
+        ],
+        "fi": [
+          "Tarkista bussien aikataulut etukäteen, sillä maaseutuliikenne voi olla harvaa.",
+          "Osta päivälippu, jos se on edullisempi kuin yksittäiset liput.",
+          "Pidä pieniä vaihtorahoja valmiina bussinkuljettajaa varten, jos korttimaksu ei ole mahdollinen.",
+          "Huomioi viimeisen bussin aika takaisin keskustaan."
         ]
       },
       "variants": {
@@ -1964,7 +2116,8 @@
             "de": "Nutzen Sie Bus und Bahn, um Kauhava bei Regen zu erkunden. Starten Sie im Zentrum und besuchen Sie das Messermuseum. Eine kurze Busfahrt bringt Sie zum PowerPark, wo Sie den Tag in den Indoor-Hallen verbringen können, geschützt vor dem finnischen Wetter. Zum Abschluss kehren Sie bequem mit dem Nahverkehr ins Zentrum zurück, um den Tag bei einem gemütlichen Abendessen zu beenden.",
             "hu": "Használja a buszt és a vonatot Kauhava felfedezéséhez esőben. Kezdjen a központban, és látogassa meg a Késmúzeumot. Egy rövid buszút elviszi a PowerParkba, ahol a napot a beltéri csarnokokban töltheti, védve a finn időjárástól. Végül kényelmesen térjen vissza a központba tömegközlekedéssel egy kellemes vacsorára.",
             "ro": "Folosiți autobuzul și trenul pentru a explora Kauhava pe ploaie. Începeți în centru și vizitați Muzeul Cuțitelor. O scurtă călătorie cu autobuzul vă duce la PowerPark, unde vă puteți petrece ziua în halele interioare, protejați de vremea finlandeză. La final, reveniți confortabil în centru cu transportul public pentru o cină plăcută.",
-            "en": "Use the bus and train to explore Kauhava in the rain. Start in the center and visit the Knife Museum. A short bus ride takes you to PowerPark, where you can spend the day in the indoor halls, protected from the Finnish weather. Finally, return comfortably to the center by public transit for a pleasant dinner."
+            "en": "Use the bus and train to explore Kauhava in the rain. Start in the center and visit the Knife Museum. A short bus ride takes you to PowerPark, where you can spend the day in the indoor halls, protected from the Finnish weather. Finally, return comfortably to the center by public transit for a pleasant dinner.",
+            "fi": "Käytä bussia ja junaa tutkiaksesi Kauhavaa sateella. Aloita keskustasta ja vieraile Veitsimuseossa. Lyhyt bussimatka vie sinut PowerParkiin, jossa voit viettää päivän sisähalleissa suojassa säiltä. Lopuksi palaa mukavasti keskukseen joukkoliikenteellä nauttiaksesi miellyttävästä illallisesta."
           },
           "stops": [
             {
@@ -1973,7 +2126,8 @@
                 "de": "Die Haltestellen im Zentrum bieten oft nur wenig Unterstand.",
                 "hu": "A központi megállók gyakran kevés védelmet nyújtanak az eső ellen.",
                 "ro": "Stațiile din centru oferă adesea puțin adăpost.",
-                "en": "Stops in the center often offer little shelter."
+                "en": "Stops in the center often offer little shelter.",
+                "fi": "Keskustassa olevat pysäkit tarjoavat usein vähän suojaa."
               }
             },
             {
@@ -1982,7 +2136,8 @@
                 "de": "Nur ein kurzer Fußweg von der Bushaltestelle.",
                 "hu": "Csak rövid séta a buszmegállótól.",
                 "ro": "La doar o scurtă plimbare de stația de autobuz.",
-                "en": "Just a short walk from the bus stop."
+                "en": "Just a short walk from the bus stop.",
+                "fi": "Vain lyhyt kävelymatka bussipysäkiltä."
               }
             },
             {
@@ -1991,7 +2146,8 @@
                 "de": "Prüfen Sie die Abfahrtszeiten für die Weiterfahrt zum PowerPark.",
                 "hu": "Ellenőrizze az indulási időket a PowerPark felé való továbbutazáshoz.",
                 "ro": "Verificați orele de plecare pentru continuarea drumului spre PowerPark.",
-                "en": "Check the departure times for continuing to PowerPark."
+                "en": "Check the departure times for continuing to PowerPark.",
+                "fi": "Tarkista jatkoyhteyksien lähtöajat PowerParkiin."
               }
             },
             {
@@ -2000,7 +2156,8 @@
                 "de": "Der Härmä-Bahnhof liegt in der Nähe des Parks.",
                 "hu": "A härmäi vasútállomás a park közelében található.",
                 "ro": "Gara Härmä se află în apropierea parcului.",
-                "en": "Härmä railway station is located near the park."
+                "en": "Härmä railway station is located near the park.",
+                "fi": "Härmän rautatieasema sijaitsee lähellä puistoa."
               }
             },
             {
@@ -2009,7 +2166,8 @@
                 "de": "Trocknen Sie sich ab, bevor Sie das Restaurant betreten.",
                 "hu": "Szárítkozzon meg, mielőtt belép az étterembe.",
                 "ro": "Ștergeți-vă de apă înainte de a intra în restaurant.",
-                "en": "Dry off before entering the restaurant."
+                "en": "Dry off before entering the restaurant.",
+                "fi": "Kuivaudu ennen ravintolaan menoa."
               }
             }
           ],
@@ -2037,6 +2195,12 @@
               "Trains (VR) are often more punctual and comfortable in bad weather.",
               "Keep your ticket dry (whether on your phone or paper).",
               "Plan buffer times as rain can slow down traffic."
+            ],
+            "fi": [
+              "Käytä Matkahuolto‑sovellusta reaaliaikaiseen bussitietoon.",
+              "Junat (VR) ovat usein täsmällisempiä ja mukavampia huonolla säällä.",
+              "Pidä lippusi kuivana (puhelimessa tai paperilla).",
+              "Suunnittele varoaikoja, sillä sade voi hidastaa liikennettä."
             ]
           }
         },
@@ -2045,7 +2209,8 @@
             "de": "Erkunden Sie das winterliche Kauhava entspannt mit Bus und Bahn. Die beheizten Fahrzeuge bieten eine willkommene Pause von der klirrenden Kälte draußen. Nach dem Besuch der kulturellen Highlights im Zentrum bringt Sie der Zug nach Härmä, direkt zum winterlichen PowerPark-Komplex. Genießen Sie die Aussicht auf die verschneiten Wälder während der Fahrt, bevor Sie zum Abendessen zurückkehren.",
             "hu": "Fedezze fel a téli Kauhavát kényelmesen, busszal és vonattal. A fűtött járművek kellemes pihenőt nyújtanak a kinti csípős hideg után. A központi kulturális látnivalók után a vonat Härmäbe repíti, egyenesen a téli PowerPark komplexumhoz. Élvezze a havas erdők látványát az út alatt, mielőtt visszatérne vacsorázni.",
             "ro": "Explorați Kauhava în iarnă relaxat, cu autobuzul și trenul. Vehiculele încălzite oferă o pauză binevenită de la gerul de afară. După vizitarea obiectivelor culturale din centru, trenul vă duce la Härmä, direct la complexul PowerPark de iarnă. Bucurați-vă de vederea pădurilor înzăpezite în timpul călătoriei, înainte de a reveni pentru cină.",
-            "en": "Explore wintery Kauhava in a relaxed way by bus and train. The heated vehicles offer a welcome break from the biting cold outside. After visiting the cultural highlights in the center, the train takes you to Härmä, right to the winter PowerPark complex. Enjoy the view of the snowy forests during the journey before returning for dinner."
+            "en": "Explore wintery Kauhava in a relaxed way by bus and train. The heated vehicles offer a welcome break from the biting cold outside. After visiting the cultural highlights in the center, the train takes you to Härmä, right to the winter PowerPark complex. Enjoy the view of the snowy forests during the journey before returning for dinner.",
+            "fi": "Tutustu talviseen Kauhavaan rennosti bussilla ja junalla. Lämmitetyt ajoneuvot tarjoavat tervetulleen tauon purevalta kylmyydeltä. Keskustan kulttuurikohteiden jälkeen juna vie sinut Härmään, suoraan talviseen PowerPark‑kompleksiin. Nauti lumisten metsien maisemista matkalla ennen paluuta illalliselle."
           },
           "stops": [
             {
@@ -2054,7 +2219,8 @@
                 "de": "Warten Sie in nahegelegenen Cafés, falls der Bus Verspätung hat.",
                 "hu": "Várjon a közeli kávézókban, ha késik a busz.",
                 "ro": "Așteptați în cafenelele din apropiere dacă autobuzul are întârziere.",
-                "en": "Wait in nearby cafes if the bus is delayed."
+                "en": "Wait in nearby cafes if the bus is delayed.",
+                "fi": "Odottele läheisissä kahviloissa, jos bussi myöhästyy."
               }
             },
             {
@@ -2063,7 +2229,8 @@
                 "de": "Achten Sie auf geräumte Gehwege zum Bahnhof/Busbahnhof.",
                 "hu": "Ügyeljen a takarított járdákra a vasútállomás/buszpályaudvar felé.",
                 "ro": "Căutați trotuarele deszăpezite spre gară/autogară.",
-                "en": "Look for cleared sidewalks to the train/bus station."
+                "en": "Look for cleared sidewalks to the train/bus station.",
+                "fi": "Etsi auratut jalkakäytävät rautatie- ja bussiasemalle."
               }
             },
             {
@@ -2072,7 +2239,8 @@
                 "de": "Die Zeitplanung ist im Winter aufgrund von Schneeräumung kritisch.",
                 "hu": "Az időzítés télen kritikus a hóeltakarítás miatt.",
                 "ro": "Planificarea timpului este critică iarna din cauza deszăpezirii.",
-                "en": "Timing is critical in winter due to snow removal."
+                "en": "Timing is critical in winter due to snow removal.",
+                "fi": "Ajoitus on kriittinen talvella lumenpoiston vuoksi."
               }
             },
             {
@@ -2081,7 +2249,8 @@
                 "de": "Der Bahnhof Härmä kann im Winter sehr zugig sein.",
                 "hu": "A härmäi vasútállomás télen nagyon huzatos lehet.",
                 "ro": "Gara Härmä poate fi foarte expusă vântului iarna.",
-                "en": "Härmä station can be very draughty in winter."
+                "en": "Härmä station can be very draughty in winter.",
+                "fi": "Härmän asema voi olla talvella hyvin vedoton."
               }
             },
             {
@@ -2090,7 +2259,8 @@
                 "de": "Wärmen Sie sich im Zug auf, bevor Sie zum Restaurant laufen.",
                 "hu": "Melegedjen fel a vonaton, mielőtt az étteremhez sétálna.",
                 "ro": "Încălziți-vă în tren înainte de a merge spre restaurant.",
-                "en": "Warm up on the train before walking to the restaurant."
+                "en": "Warm up on the train before walking to the restaurant.",
+                "fi": "Lämmittele junassa ennen kävelyä ravintolaan."
               }
             }
           ],
@@ -2118,6 +2288,12 @@
               "VR train stations often have heated waiting rooms.",
               "Wear warm winter footwear, as you cool down quickly while waiting at stops.",
               "Check for any winter-specific schedules."
+            ],
+            "fi": [
+              "Junat ovat yleensä luotettavampia kuin bussit runsaan lumisateen aikana.",
+              "VR:n asemilla on usein lämmitetyt odotustilat.",
+              "Käytä lämpimiä talvikenkiä, sillä viiletät nopeasti odottaessasi pysäkeillä.",
+              "Tarkista mahdolliset talvikaudelle tarkoitetut aikataulumuutokset."
             ]
           }
         }

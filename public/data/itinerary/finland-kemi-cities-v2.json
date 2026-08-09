@@ -21,7 +21,8 @@
             "de": "Kirche von Kemi",
             "hu": "Kemi temploma",
             "ro": "Biserica din Kemi",
-            "en": "Kemi Church"
+            "en": "Kemi Church",
+            "fi": "Kemi Church"
           },
           "coords": [
             24.565,
@@ -36,7 +37,8 @@
             "de": "Beachten Sie die neugotische Architektur und die friedliche Atmosphäre im Inneren.",
             "hu": "Figyelje meg a neogótikus építészetet és a békés belső atmoszférát.",
             "ro": "Observați arhitectura neogotică și atmosfera pașnică din interior.",
-            "en": "Note the neo-Gothic architecture and the peaceful atmosphere inside."
+            "en": "Note the neo-Gothic architecture and the peaceful atmosphere inside.",
+            "fi": "Huomioi uusgoottilainen arkkitehtuuri ja kirkon sisätilojen rauhallinen tunnelma."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Kulturzentrum Kemi",
             "hu": "Kemi Kulturális Központ",
             "ro": "Centrul Cultural Kemi",
-            "en": "Kemi Cultural Centre"
+            "en": "Kemi Cultural Centre",
+            "fi": "Kemi Cultural Centre"
           },
           "coords": [
             24.568,
@@ -59,7 +62,8 @@
             "de": "Prüfen Sie den Veranstaltungsplan für mögliche Konzerte oder Ausstellungen.",
             "hu": "Nézze meg az eseménynaptárat esetleges koncertekért vagy kiállításokért.",
             "ro": "Verificați programul evenimentelor pentru posibile concerte sau expoziții.",
-            "en": "Check the event schedule for any ongoing concerts or exhibitions."
+            "en": "Check the event schedule for any ongoing concerts or exhibitions.",
+            "fi": "Tarkista tapahtumakalenteri mahdollisten konserttien tai näyttelyiden varalta."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Innenhafen",
             "hu": "Belső kikötő",
             "ro": "Portul Interior",
-            "en": "Inner Harbour"
+            "en": "Inner Harbour",
+            "fi": "Inner Harbour"
           },
           "coords": [
             24.569,
@@ -82,7 +87,8 @@
             "de": "Ein schöner Ort für einen kurzen Spaziergang, um die Boote zu beobachten.",
             "hu": "Remek hely egy rövid sétára és a hajók megfigyelésére.",
             "ro": "Un loc frumos pentru o scurtă plimbare și pentru a privi bărcile.",
-            "en": "A lovely spot for a short walk to watch the boats."
+            "en": "A lovely spot for a short walk to watch the boats.",
+            "fi": "Suloinen paikka lyhyelle kävelylle veneiden katselua varten."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Edelsteinmuseum",
             "hu": "Drágakőmúzeum",
             "ro": "Muzeul de Pietre Prețioase",
-            "en": "Gemstone Museum"
+            "en": "Gemstone Museum",
+            "fi": "Akaattimuseo"
           },
           "coords": [
             24.563,
@@ -105,7 +112,8 @@
             "de": "Verpassen Sie nicht die Replik der Krone des Königs von Finnland.",
             "hu": "Ne hagyja ki a finn király koronájának másolatát.",
             "ro": "Nu ratați replica coroanei Regelui Finlandei.",
-            "en": "Don't miss the replica of the Crown of the King of Finland."
+            "en": "Don't miss the replica of the Crown of the King of Finland.",
+            "fi": "Älä jätä väliin Suomen kuninkaan kruunun kopiota."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Schneeschloss Kemi",
             "hu": "Kemi Hóvár",
             "ro": "Castelul de Zăpadă Kemi",
-            "en": "Kemi SnowCastle"
+            "en": "Kemi SnowCastle",
+            "fi": "Kemin LumiLinna"
           },
           "coords": [
             24.558,
@@ -128,7 +137,8 @@
             "de": "Auch im Sommer geöffnet, mit Ausstellungen über die Winterattraktion.",
             "hu": "Nyáron is nyitva, a téli attrakcióról szóló kiállításokkal.",
             "ro": "Deschis și vara, cu expoziții despre atracția de iarnă.",
-            "en": "Open even in summer, with exhibitions about the winter attraction."
+            "en": "Open even in summer, with exhibitions about the winter attraction.",
+            "fi": "Avoinna myös kesällä, näyttelyitä talvisesta nähtävyydestä."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Eisbrecher Sampo",
             "hu": "Sampo jégtörő",
             "ro": "Spărgătorul de gheață Sampo",
-            "en": "Icebreaker Sampo"
+            "en": "Icebreaker Sampo",
+            "fi": "Jäänmurtaja Sampo"
           },
           "coords": [
             24.557,
@@ -151,7 +162,8 @@
             "de": "Buchen Sie eine Kreuzfahrt im Winter, um das Eisbrechen in Aktion zu erleben.",
             "hu": "Télen foglaljon hajóutat, hogy működés közben láthassa a jégtörést.",
             "ro": "Rezervați o croazieră iarna pentru a experimenta spargerea gheții în acțiune.",
-            "en": "Book a cruise in winter to experience the icebreaking in action."
+            "en": "Book a cruise in winter to experience the icebreaking in action.",
+            "fi": "Varaa talvinen risteily kokeaaksesi jäänmurron toiminnassa."
           }
         },
         {
@@ -159,7 +171,8 @@
             "de": "Sauvosaari Sportpark",
             "hu": "Sauvosaari Sportpark",
             "ro": "Parcul Sportiv Sauvosaari",
-            "en": "Sauvosaari Sports Park"
+            "en": "Sauvosaari Sports Park",
+            "fi": "Sauvosaari urheilupuisto"
           },
           "coords": [
             24.575,
@@ -174,7 +187,8 @@
             "de": "Ein entspannender Abschluss des Tages, bei dem Sie den Einheimischen beim Sport zusehen können.",
             "hu": "Pihentető befejezése a napnak, miközben a helyieket sportolás közben nézi.",
             "ro": "O încheiere relaxantă a zilei, urmărind localnicii făcând sport.",
-            "en": "A relaxing end to the day, watching locals engage in sports."
+            "en": "A relaxing end to the day, watching locals engage in sports.",
+            "fi": "Rentouttava päivän päätös, kun katsot paikallisten liikuntaa."
           }
         }
       ],
@@ -182,7 +196,8 @@
         "de": "Ihr Tag in Kemi beginnt mit der gotischen Pracht der Kemi Kirche, gefolgt von einem kulturellen Einblick im Kulturzentrum. Mittags schlendern Sie durch den Innenhafen, bevor Sie in die funkelnde Welt des Edelsteinmuseums eintauchen. Der Nachmittag ist den maritimen Giganten gewidmet: dem ganzjährig geöffneten Schneeschloss und dem mächtigen Eisbrecher Sampo. Den Tag lassen Sie im Sauvosaari Sportpark ausklingen und beobachten das lokale Leben.",
         "hu": "A kemi nap a gótikus Kemi templom pompájával kezdődik, majd kulturális betekintést nyerhet a Kulturális Központban. Délben a belső kikötőben sétálgat, mielőtt elmerülne a Drágakőmúzeum csillogó világában. A délután a tengeri óriásoké: az egész évben nyitva tartó Hóváré és a hatalmas Sampo jégtörőé. A napot a Sauvosaari Sportparkban zárja, figyelve a helyi életet.",
         "ro": "Ziua dvs. în Kemi începe cu splendoarea gotică a Bisericii din Kemi, urmată de o incursiune culturală la Centrul Cultural. La prânz, vă plimbați prin Portul Interior înainte de a vă scufunda în lumea sclipitoare a Muzeului de Pietre Prețioase. După-amiaza este dedicată giganților maritimi: Castelul de Zăpadă deschis tot anul și puternicul spărgător de gheață Sampo. Încheiați ziua în Parcul Sportiv Sauvosaari, observând viața locală.",
-        "en": "Your day in Kemi starts with the Gothic splendor of Kemi Church, followed by a cultural dive at the Cultural Centre. At midday, you'll stroll through the Inner Harbour before delving into the sparkling world of the Gemstone Museum. The afternoon is dedicated to maritime giants: the year-round SnowCastle and the mighty Icebreaker Sampo. You'll wind down the day at Sauvosaari Sports Park, observing local life."
+        "en": "Your day in Kemi starts with the Gothic splendor of Kemi Church, followed by a cultural dive at the Cultural Centre. At midday, you'll stroll through the Inner Harbour before delving into the sparkling world of the Gemstone Museum. The afternoon is dedicated to maritime giants: the year-round SnowCastle and the mighty Icebreaker Sampo. You'll wind down the day at Sauvosaari Sports Park, observing local life.",
+        "fi": "Päiväsi Kemissä alkaa Kemin kirkon goottilaisesta loistosta, jatkuu kulttuurikeskuksen kautta. Keskipäivällä kävelet sisäsatamassa ennen kuin sukellat Akaattimuseon kimaltelevaan maailmaan. Iltapäivä on omistettu merijättiläisille: ympärivuotiselle LumiLinnalle ja mahtavalle jäänmurtaja Sampolle. Päivän päätät Sauvosaari urheilupuistossa seuraten paikallista elämää."
       },
       "gastro_picks": {
         "de": [
@@ -338,6 +353,11 @@
           "Wear comfortable shoes as you'll be walking for most of the day.",
           "Most attractions are close to each other, making this a very pleasant walk.",
           "Check the opening hours for the SnowCastle and Sampo as they can vary seasonally."
+        ],
+        "fi": [
+          "Pue mukavat kengät, sillä kävelet suurimman osan päivästä.",
+          "Useimmat nähtävyydet ovat lähellä toisiaan, mikä tekee tästä mukavan kävelyreitin.",
+          "Tarkista LumiLinnan ja Sammon aukioloajat, sillä ne voivat vaihdella sesongin mukaan."
         ]
       },
       "variants": {
@@ -346,7 +366,8 @@
             "de": "Morgens bietet die neugotische Kirche von Kemi und das angrenzende Kulturzentrum idealen Schutz vor dem nordischen Regen. Mittags führt der Weg zum Innenhafen, wo das Edelsteinmuseum als trockene Oase mit Europas größter Sammlung lockt. Nachmittags erkunden Sie das SnowCastle 365, das völlig wetterunabhängig ist. Den Abend lassen Sie bei einem erfrischenden Spaziergang im Sauvosaari Park ausklingen.",
             "hu": "Reggel a Kemi templom és a Kulturális Központ nyújt menedéket az eső elől. Délben a belső kikötő felé vesszük az irányt, ahol a Drágakőmúzeum fedett kiállítása vár. Délután az egész évben nyitva tartó, jégből épült SnowCastle 365 birodalmát fedezzük fel, amely teljesen védett az elemektől. Az estét egy frissítő esős séta zárja a Sauvosaari parkban, a Botteni-öböl partján.",
             "ro": "Dimineața, Biserica Kemi și Centrul Cultural oferă adăpost ideal împotriva ploii nordice. La prânz, drumul duce spre Portul Interior, unde Muzeul Pietrelor Prețioase vă așteaptă cu o colecție impresionantă în interior. După-amiaza este dedicată castelului SnowCastle 365, care este complet climatizat și protejat. Seara se încheie cu o plimbare revigorantă prin Parcul Sauvosaari, în ciuda vremii umede.",
-            "en": "In the morning, Kemi Church and the Cultural Centre provide perfect shelter from the Baltic rain. At noon, head to the Inner Harbour where the Gemstone Museum offers a dry oasis with Europe’s largest collection. Afternoon is spent inside SnowCastle 365, which is entirely weather-proof. The evening concludes with a refreshing walk through Sauvosaari Sports Park, enjoying the misty coastal atmosphere."
+            "en": "In the morning, Kemi Church and the Cultural Centre provide perfect shelter from the Baltic rain. At noon, head to the Inner Harbour where the Gemstone Museum offers a dry oasis with Europe’s largest collection. Afternoon is spent inside SnowCastle 365, which is entirely weather-proof. The evening concludes with a refreshing walk through Sauvosaari Sports Park, enjoying the misty coastal atmosphere.",
+            "fi": "Aamulla Kemin kirkko ja kulttuurikeskus tarjoavat täydellisen suojan Itämeren sateelta. Keskipäivällä suuntaa sisäsatamaan, jossa Akaattimuseo on kuiva keidas Euroopan suurimman kokoelman kera. Iltapäivä vietetään LumiLinna 365:n sisätiloissa, joka on täysin sääsuojattu. Ilta huipentuu virkistävään kävelyyn Sauvosaari urheilupuistossa, nauttien utuista rannikon tunnelmasta."
           },
           "stops": [
             {
@@ -355,7 +376,8 @@
                 "de": "Bewundern Sie die rote Backsteinarchitektur von innen, während es draußen regnet.",
                 "hu": "Csodálja meg a vörös téglás belsőt, amíg kint esik az eső.",
                 "ro": "Admirați arhitectura din cărămidă roșie la interior în timp ce plouă.",
-                "en": "Admire the red brick interior while staying dry from the rain."
+                "en": "Admire the red brick interior while staying dry from the rain.",
+                "fi": "Ihaile punatiilistä sisustusta pysyen kuivana sateelta."
               }
             },
             {
@@ -364,7 +386,8 @@
                 "de": "Die Bibliothek und Museen hier sind perfekte Rückzugsorte bei Schauern.",
                 "hu": "A könyvtár és a múzeumok tökéletes menedéket nyújtanak zápor idején.",
                 "ro": "Biblioteca și muzeele de aici sunt refugii perfecte în timpul ploii.",
-                "en": "The library and museums here are perfect retreats during showers."
+                "en": "The library and museums here are perfect retreats during showers.",
+                "fi": "Tämän kirjaston ja museoiden tilat ovat täydellisiä paikkoja sadetta pakoon."
               }
             },
             {
@@ -373,7 +396,8 @@
                 "de": "Nutzen Sie die überdachten Bereiche der Hafencafés für eine kurze Pause.",
                 "hu": "Használja a kikötői kávézók fedett teraszait egy rövid pihenőre.",
                 "ro": "Folosiți zonele acoperite ale cafenelelor din port pentru o scurtă pauză.",
-                "en": "Use the covered areas of harbor cafes for a quick break."
+                "en": "Use the covered areas of harbor cafes for a quick break.",
+                "fi": "Käytä satamakahviloiden katettuja alueita nopealle tauolle."
               }
             },
             {
@@ -382,7 +406,8 @@
                 "de": "Planen Sie hier mehr Zeit ein, um dem Regen komplett zu entkommen.",
                 "hu": "Töltsön itt több időt, hogy teljesen elkerülje az égi áldást.",
                 "ro": "Planificați mai mult timp aici pentru a scăpa complet de ploaie.",
-                "en": "Plan to spend extra time here to fully escape the rain."
+                "en": "Plan to spend extra time here to fully escape the rain.",
+                "fi": "Varaa täällä ylimääräistä aikaa paetakseen sateen täysin."
               }
             },
             {
@@ -391,7 +416,8 @@
                 "de": "Das ganzjährige SnowCastle 365 ist absolut regensicher und beheizt.",
                 "hu": "Az egész éves SnowCastle 365 teljesen esőbiztos és fűtött.",
                 "ro": "Castelul SnowCastle 365 este absolut protejat de ploaie și încălzit.",
-                "en": "The year-round SnowCastle 365 is absolutely rain-proof and heated."
+                "en": "The year-round SnowCastle 365 is absolutely rain-proof and heated.",
+                "fi": "Ympärivuotinen LumiLinna 365 on täysin säänkestävä ja lämmitetty."
               }
             },
             {
@@ -400,7 +426,8 @@
                 "de": "Besichtigen Sie die Maschinenräume im Bauch des Schiffes, wenn es stark regnet.",
                 "hu": "Erős esőben fedezze fel a hajó gyomrában található gépházakat.",
                 "ro": "Vizitați sălile mașinilor din interiorul navei dacă plouă torențial.",
-                "en": "Visit the engine rooms in the belly of the ship if it rains hard."
+                "en": "Visit the engine rooms in the belly of the ship if it rains hard.",
+                "fi": "Käy laivan konehuoneissa, jos sataa kovasti."
               }
             },
             {
@@ -409,7 +436,8 @@
                 "de": "Die asphaltierten Wege sind auch bei Nässe gut begehbar.",
                 "hu": "Az aszfaltozott utak esőben is jól járhatóak maradnak.",
                 "ro": "Potecile asfaltate sunt ușor de parcurs chiar și pe vreme umedă.",
-                "en": "The paved paths remain easily walkable even in wet conditions."
+                "en": "The paved paths remain easily walkable even in wet conditions.",
+                "fi": "Päällystetyt polut pysyvät helposti käveltävissä myös märissä olosuhteissa."
               }
             }
           ],
@@ -441,6 +469,13 @@
               "A sturdy umbrella is essential due to the sea breeze.",
               "Most harbor cafes have cozy indoor seating areas.",
               "Distances between museums are short, but keep rain gear ready."
+            ],
+            "fi": [
+              "Käytä vedenpitäviä vaelluskenkiä rannikkopoluille.",
+              "Akaattimuseo ja LumiLinna 365 ovat erinomaisia sisäpaikkoja sateen varalle.",
+              "Tukeva sateenvarjo on tarpeen merituulen vuoksi.",
+              "Useimmissa satamakahviloissa on viihtyisiä sisätiloja.",
+              "Museoiden etäisyydet ovat lyhyitä, mutta pidä sadevarusteet valmiina."
             ]
           }
         },
@@ -449,7 +484,8 @@
             "de": "Erleben Sie Kemi im magischen Winterlicht. Der Tag beginnt an der frostigen Kirche, gefolgt von der wohligen Wärme des Kulturzentrums. Zur Mittagszeit glitzert das Eis am Hafen, während Sie im Edelsteinmuseum aufwärmen. Nachmittags ist die blaue Stunde perfekt für das SnowCastle, dessen Eisskulpturen in der frühen Dämmerung leuchten. Der Abend endet unter dem weiten Polarhimmel im verschneiten Sauvosaari Park.",
             "hu": "Fedezze fel Kemit a varázslatos téli fényekben. A nap a zúzmarás templomnál kezdődik, majd a Kulturális Központ melegében folytatódik. Délben a befagyott kikötő látványa kísér minket a Drágakőmúzeumba, ahol átmelegedhetünk. Délután, a kék órában a SnowCastle jégszobrai különleges fényben tündökölnek. Az estét a Sauvosaari park hófödte ösvényein, a sarki fény reményében zárjuk.",
             "ro": "Experimentați Kemi în lumina magică a iernii. Ziua începe la biserica înghețată, urmată de căldura primitoare a Centrului Cultural. La prânz, gheața strălucește în port în timp ce vă încălziți la Muzeul Pietrelor Prețioase. După-amiaza, 'ora albastră' este perfectă pentru SnowCastle, ale cărui sculpturi de gheață strălucesc în amurgul timpuriu. Seara se încheie sub cerul polar în parcul înzăpezit Sauvosaari.",
-            "en": "Experience Kemi in the magical winter light. The day starts at the frosty church, followed by the cozy warmth of the Cultural Centre. At noon, the frozen harbor glitters as you warm up in the Gemstone Museum. In the afternoon, the 'blue hour' is perfect for visiting the SnowCastle, where ice sculptures glow in the early twilight. The evening ends under the vast polar sky in the snowy Sauvosaari Park."
+            "en": "Experience Kemi in the magical winter light. The day starts at the frosty church, followed by the cozy warmth of the Cultural Centre. At noon, the frozen harbor glitters as you warm up in the Gemstone Museum. In the afternoon, the 'blue hour' is perfect for visiting the SnowCastle, where ice sculptures glow in the early twilight. The evening ends under the vast polar sky in the snowy Sauvosaari Park.",
+            "fi": "Koe Kemi taianomaisessa talvivalossa. Päivä alkaa jääkylmän kirkon luota, jatkuu kulttuurikeskuksen lämpimässä tunnelmassa. Keskipäivällä jäätynyt satama kimaltelee, kun lämmittelet Akaattimuseossa. Iltapäivällä sininen hetki on täydellinen LumiLinnan vierailulle, jossa jääveistokset hohtavat hämärtyvässä valossa. Ilta päättyy laajan napataivaan alla lumiseen Sauvosaareen."
           },
           "stops": [
             {
@@ -458,7 +494,8 @@
                 "de": "Achten Sie auf die vereisten Stufen am Kircheneingang.",
                 "hu": "Vigyázzon a templom bejáratánál lévő jeges lépcsőkre.",
                 "ro": "Atenție la treptele înghețate de la intrarea în biserică.",
-                "en": "Watch out for icy steps at the church entrance."
+                "en": "Watch out for icy steps at the church entrance.",
+                "fi": "Varo kirkon sisäänkäynnin liukkaita portaita."
               }
             },
             {
@@ -467,7 +504,8 @@
                 "de": "Perfekt, um die Batterien der Kamera in der Wärme aufzuladen.",
                 "hu": "Tökéletes hely a fényképezőgép akksijának felmelegítésére.",
                 "ro": "Loc perfect pentru a reîncărca bateriile camerei la căldură.",
-                "en": "Perfect place to recharge your camera batteries in the warmth."
+                "en": "Perfect place to recharge your camera batteries in the warmth.",
+                "fi": "Täydellinen paikka ladata kameran akut lämpimässä."
               }
             },
             {
@@ -476,7 +514,8 @@
                 "de": "Genießen Sie den Blick auf die zugefrorene See von einem beheizten Café.",
                 "hu": "Élvezze a befagyott tenger látványát egy fűtött kávézóból.",
                 "ro": "Bucurați-vă de vederea mării înghețate dintr-o cafenea încălzită.",
-                "en": "Enjoy the view of the frozen sea from a heated cafe."
+                "en": "Enjoy the view of the frozen sea from a heated cafe.",
+                "fi": "Nauti näkymästä jäätyneelle merelle lämmitetystä kahvilasta."
               }
             },
             {
@@ -485,7 +524,8 @@
                 "de": "Lassen Sie Ihre Winterjacke an der Garderobe, um entspannt zu schauen.",
                 "hu": "Hagyja a vastag kabátot a ruhatárban a kényelmes nézelődéshez.",
                 "ro": "Lăsați haina de iarnă la garderobă pentru a vizita relaxat.",
-                "en": "Leave your heavy winter coat at the cloakroom for a relaxed visit."
+                "en": "Leave your heavy winter coat at the cloakroom for a relaxed visit.",
+                "fi": "Jätä raskas talvitakkisi narikkaan rentoa vierailua varten."
               }
             },
             {
@@ -494,7 +534,8 @@
                 "de": "Besuchen Sie die Eisbar für ein Heißgetränk aus Eisgläsern.",
                 "hu": "Látogasson el a jégbárba egy forró italra, amit jégpohárból ihat.",
                 "ro": "Vizitați barul de gheață pentru o băutură caldă servită în pahare de gheață.",
-                "en": "Visit the ice bar for a hot drink served in ice glasses."
+                "en": "Visit the ice bar for a hot drink served in ice glasses.",
+                "fi": "Käy jääbaarissa nauttimassa kuuma juoma jäälaseista tarjoiltuna."
               }
             },
             {
@@ -503,7 +544,8 @@
                 "de": "Buchen Sie eine Eis-Schwimm-Tour, falls verfügbar – ein einmaliges Erlebnis.",
                 "hu": "Ha elérhető, próbálja ki a jeges lebegést – életre szóló élmény.",
                 "ro": "Rezervați o sesiune de plutire în gheață, dacă este disponibilă.",
-                "en": "Book an ice-floating tour if available – a once-in-a-lifetime experience."
+                "en": "Book an ice-floating tour if available – a once-in-a-lifetime experience.",
+                "fi": "Varaa jää kellunta -retki, jos saatavilla – kerran elämässä koettava elämys."
               }
             },
             {
@@ -512,7 +554,8 @@
                 "de": "Die Beleuchtung hier macht Abendspaziergänge im Schnee sicher.",
                 "hu": "A park világítása biztonságossá teszi az esti havas sétákat.",
                 "ro": "Iluminatul de aici face plimbările de seară prin zăpadă sigure.",
-                "en": "The lighting here makes evening walks in the snow safe."
+                "en": "The lighting here makes evening walks in the snow safe.",
+                "fi": "Täällä oleva valaistus tekee iltakävelyistä lumessa turvallisia."
               }
             }
           ],
@@ -544,6 +587,13 @@
               "Shoe spikes are advisable on the often slippery pavements.",
               "Take every opportunity to warm up in museums or cafes.",
               "Keep an eye out for Northern Lights as soon as it gets dark."
+            ],
+            "fi": [
+              "Pue termosukka päälle ja käytä kerrospukeutumisen periaatetta.",
+              "Auringonlasku keskitalvella voi tapahtua jo klo 14:00.",
+              "Liukuesteet kengissä ovat suositeltavia usein liukkailla jalkakäytävillä.",
+              "Hyödynnä kaikki mahdollisuudet lämmitellä museoissa tai kahviloissa.",
+              "Pidä silmällä revontulia heti kun tulee pimeää."
             ]
           }
         }
@@ -562,7 +612,8 @@
             "de": "Kirche von Kemi",
             "hu": "Kemi temploma",
             "ro": "Biserica din Kemi",
-            "en": "Kemi Church"
+            "en": "Kemi Church",
+            "fi": "Kemin kirkko"
           },
           "coords": [
             24.565,
@@ -577,7 +628,8 @@
             "de": "Ein kurzer Stopp, um die beeindruckende neugotische Fassade zu bewundern.",
             "hu": "Egy rövid megálló, hogy megcsodálja a lenyűgöző neogótikus homlokzatot.",
             "ro": "O oprire scurtă pentru a admira impresionanta fațadă neogotică.",
-            "en": "A quick stop to admire the impressive neo-Gothic facade."
+            "en": "A quick stop to admire the impressive neo-Gothic facade.",
+            "fi": "Pika-pysähdys ihailemaan vaikuttavaa uusgoottilaista julkisivua."
           }
         },
         {
@@ -585,7 +637,8 @@
             "de": "Kulturzentrum Kemi",
             "hu": "Kemi Kulturális Központ",
             "ro": "Centrul Cultural Kemi",
-            "en": "Kemi Cultural Centre"
+            "en": "Kemi Cultural Centre",
+            "fi": "Kemin kulttuurikeskus"
           },
           "coords": [
             24.568,
@@ -600,7 +653,8 @@
             "de": "Stellen Sie Ihr Fahrrad ab und schauen Sie, ob eine Kunstausstellung stattfindet.",
             "hu": "Parkolja le a kerékpárját, és nézze meg, van-e művészeti kiállítás.",
             "ro": "Parcați bicicleta și vedeți dacă există vreo expoziție de artă.",
-            "en": "Park your bike and see if there's an art exhibition on."
+            "en": "Park your bike and see if there's an art exhibition on.",
+            "fi": "Parkkeeraa pyöräsi ja katso onko siellä taidenäyttely."
           }
         },
         {
@@ -608,7 +662,8 @@
             "de": "Sauvosaari Sportpark",
             "hu": "Sauvosaari Sportpark",
             "ro": "Parcul Sportiv Sauvosaari",
-            "en": "Sauvosaari Sports Park"
+            "en": "Sauvosaari Sports Park",
+            "fi": "Sauvosaari urheilupuisto"
           },
           "coords": [
             24.575,
@@ -623,7 +678,8 @@
             "de": "Eine angenehme Radtour durch den Park, um die grüne Lunge der Stadt zu sehen.",
             "hu": "Egy kellemes biciklitúra a parkon keresztül, hogy megnézze a város zöld tüdejét.",
             "ro": "O plimbare plăcută cu bicicleta prin parc pentru a vedea plămânul verde al orașului.",
-            "en": "A pleasant cycle through the park to see the city's green lung."
+            "en": "A pleasant cycle through the park to see the city's green lung.",
+            "fi": "Miellyttävä pyöräily puiston läpi nähdäksesi kaupungin vihreän sydämen."
           }
         },
         {
@@ -631,7 +687,8 @@
             "de": "Innenhafen",
             "hu": "Belső kikötő",
             "ro": "Portul Interior",
-            "en": "Inner Harbour"
+            "en": "Inner Harbour",
+            "fi": "Sisäsatama"
           },
           "coords": [
             24.569,
@@ -646,7 +703,8 @@
             "de": "Fahren Sie am Wasser entlang und genießen Sie die maritime Atmosphäre.",
             "hu": "Kerékpározzon a víz mentén, és élvezze a tengeri hangulatot.",
             "ro": "Pedalați pe malul apei și bucurați-vă de atmosfera maritimă.",
-            "en": "Cycle along the water and enjoy the maritime atmosphere."
+            "en": "Cycle along the water and enjoy the maritime atmosphere.",
+            "fi": "Pyöräile vedenvartta pitkin ja nauti merellisestä tunnelmasta."
           }
         },
         {
@@ -654,7 +712,8 @@
             "de": "Edelsteinmuseum",
             "hu": "Drágakőmúzeum",
             "ro": "Muzeul de Pietre Prețioase",
-            "en": "Gemstone Museum"
+            "en": "Gemstone Museum",
+            "fi": "Akaattimuseo"
           },
           "coords": [
             24.563,
@@ -669,7 +728,8 @@
             "de": "Nehmen Sie sich Zeit für die beeindruckende Sammlung, eine gute Pause vom Radfahren.",
             "hu": "Szánjon időt a lenyűgöző gyűjteményre, jó szünet a biciklizésben.",
             "ro": "Acordați-vă timp pentru colecția impresionantă, o pauză bună de la pedalat.",
-            "en": "Take your time with the impressive collection, a good break from cycling."
+            "en": "Take your time with the impressive collection, a good break from cycling.",
+            "fi": "Käy rauhassa läpi vaikuttavaa kokoelmaa, hyvä tauko pyöräilystä."
           }
         },
         {
@@ -677,7 +737,8 @@
             "de": "Schneeschloss & Eisbrecher Sampo",
             "hu": "Hóvár és Sampo Jégtörő",
             "ro": "Castelul de Zăpadă și Spărgătorul Sampo",
-            "en": "SnowCastle & Icebreaker Sampo"
+            "en": "SnowCastle & Icebreaker Sampo",
+            "fi": "LumiLinna & jäänmurtaja Sampo"
           },
           "coords": [
             24.558,
@@ -692,7 +753,8 @@
             "de": "Kombinieren Sie diese beiden Attraktionen, da sie direkt nebeneinander liegen.",
             "hu": "Kombinálja ezt a két látnivalót, mivel közvetlenül egymás mellett vannak.",
             "ro": "Combinați aceste două atracții, deoarece sunt chiar una lângă alta.",
-            "en": "Combine these two attractions as they are right next to each other."
+            "en": "Combine these two attractions as they are right next to each other.",
+            "fi": "Yhdistä nämä kaksi nähtävyyttä, sillä ne ovat aivan vierekkäin."
           }
         },
         {
@@ -700,7 +762,8 @@
             "de": "Mansikkanokka Strand",
             "hu": "Mansikkanokka strand",
             "ro": "Plaja Mansikkanokka",
-            "en": "Mansikkanokka Beach"
+            "en": "Mansikkanokka Beach",
+            "fi": "Mansikkanokka ranta"
           },
           "coords": [
             24.545,
@@ -715,7 +778,8 @@
             "de": "Der perfekte Ort, um sich nach einer langen Radtour zu entspannen.",
             "hu": "Tökéletes hely a pihenésre egy hosszú kerékpártúra után.",
             "ro": "Locul perfect pentru a vă relaxa după o tură lungă cu bicicleta.",
-            "en": "The perfect place to relax after a long bike ride."
+            "en": "The perfect place to relax after a long bike ride.",
+            "fi": "Täydellinen paikka rentoutua pitkän pyörälenkin jälkeen."
           }
         },
         {
@@ -723,7 +787,8 @@
             "de": "Abendessen im Zentrum",
             "hu": "Vacsora a központban",
             "ro": "Cină în centru",
-            "en": "Dinner in the Center"
+            "en": "Dinner in the Center",
+            "fi": "Illallinen keskustassa"
           },
           "coords": [
             24.5667,
@@ -738,7 +803,8 @@
             "de": "Radeln Sie zurück ins Zentrum, um Ihren Tag mit einem wohlverdienten Essen ausklingen zu lassen.",
             "hu": "Tekerjen vissza a központba, hogy egy jól megérdemelt vacsorával zárja a napot.",
             "ro": "Pedalați înapoi în centru pentru a încheia ziua cu o masă binemeritată.",
-            "en": "Cycle back to the center to end your day with a well-deserved meal."
+            "en": "Cycle back to the center to end your day with a well-deserved meal.",
+            "fi": "Pyöräile takaisin keskustaan päättääksesi päivä ansaitulla ateriolla."
           }
         }
       ],
@@ -746,7 +812,8 @@
         "de": "Schwingen Sie sich auf den Sattel und beginnen Sie bei der Kemi Kirche. Radeln Sie weiter zum Kulturzentrum und durch den grünen Sauvosaari Park. Gegen Mittag erkunden Sie den Innenhafen, bevor Sie im Edelsteinmuseum eine Pause einlegen. Der Nachmittag führt Sie zu den maritimen Wahrzeichen am Meer, dem Schneeschloss und dem Sampo. Danach entspannen Sie am Strand von Mansikkanokka, bevor Sie für ein herzhaftes Abendessen ins Zentrum zurückkehren.",
         "hu": "Pattanjon nyeregbe, és kezdjen a Kemi templomnál. Tekerjen tovább a Kulturális Központba és a zöld Sauvosaari Parkon keresztül. Dél körül fedezze fel a belső kikötőt, mielőtt szünetet tartana a Drágakőmúzeumban. A délután a tengerparti nevezetességekhez, a Hóvárhoz és a Sampo-hoz vezet. Ezután pihenjen a Mansikkanokka strandon, mielőtt visszatérne a központba egy kiadós vacsorára.",
         "ro": "Urcați-vă pe bicicletă și începeți de la Biserica Kemi. Pedalați mai departe spre Centrul Cultural și prin Parcul verde Sauvosaari. În jurul prânzului, explorați Portul Interior înainte de a face o pauză la Muzeul de Pietre Prețioase. După-amiaza vă duce la reperele maritime, Castelul de Zăpadă și Sampo. Apoi relaxați-vă pe plaja Mansikkanokka înainte de a vă întoarce în centru pentru o cină copioasă.",
-        "en": "Hop on your bike and start at Kemi Church. Cycle on to the Cultural Centre and through the green Sauvosaari Park. Around noon, explore the Inner Harbour before taking a break at the Gemstone Museum. The afternoon takes you to the maritime landmarks by the sea, the SnowCastle and the Sampo. Afterwards, relax at Mansikkanokka Beach before heading back to the center for a hearty dinner."
+        "en": "Hop on your bike and start at Kemi Church. Cycle on to the Cultural Centre and through the green Sauvosaari Park. Around noon, explore the Inner Harbour before taking a break at the Gemstone Museum. The afternoon takes you to the maritime landmarks by the sea, the SnowCastle and the Sampo. Afterwards, relax at Mansikkanokka Beach before heading back to the center for a hearty dinner.",
+        "fi": "Hyppää pyöränselkään ja aloita Kemin kirkolta. Pyöräile kulttuurikeskukseen ja läpi vihreän Sauvosaari puiston. Keskipäivällä tutki sisäsatamaa ennen taukoa Akaattimuseossa. Iltapäivällä suuntaat merellisiin maamerkkeihin, LumiLinnalle ja Sampolle. Tämän jälkeen rentoudu Mansikkanokan rannalla ennen paluuta keskustaan illalliselle."
       },
       "gastro_picks": {
         "de": [
@@ -902,6 +969,11 @@
           "Rent a bike from the city center or bring your own.",
           "The paths are mostly flat, making for easy cycling.",
           "Wear a helmet and bring water, especially for the longer ride to the beach."
+        ],
+        "fi": [
+          "Vuokraa pyörä keskustasta tai tuo oma.",
+          "Reitit ovat enimmäkseen tasaisia, joten pyöräily on helppoa.",
+          "Käytä kypärää ja ota vettä mukaan, erityisesti pidemmälle rantareitille."
         ]
       },
       "variants": {
@@ -910,7 +982,8 @@
             "de": "Eine Radtour durch Kemi bei Regen erfordert gute Ausrüstung, bietet aber leere Wege. Starten Sie an der Kirche und nutzen Sie die kurzen Wege zum Kulturzentrum. Entlang der Küste zum Hafen spüren Sie die Meeresbrise; das Edelsteinmuseum ist der perfekte Stopp zum Trocknen. Nachmittags erreichen Sie das SnowCastle bequem per Rad. Den Tag beenden Sie mit einer kurzen Fahrt zum Abendessen im Stadtzentrum.",
             "hu": "Egy esős bringázás Kemi utcáin jó felszerelést igényel, de cserébe üres utakat kínál. Kezdjen a templomnál, majd tekerjen át a közeli Kulturális Központba. A part mentén a kikötő felé haladva érezni fogja a tengeri szelet; a Drágakőmúzeum ideális hely a megszáradáshoz. Délután a SnowCastle könnyen elérhető biciklivel. A napot egy rövid városközponti tekeréssel és vacsorával zárjuk.",
             "ro": "O plimbare cu bicicleta prin Kemi pe ploaie necesită echipament bun, dar oferă trasee libere. Începeți la biserică și folosiți distanțele scurte până la Centrul Cultural. De-a lungul coastei spre port veți simți briza mării; Muzeul Pietrelor Prețioase este popasul perfect pentru uscare. După-amiaza ajungeți rapid la SnowCastle. Încheiați ziua cu o scurtă cursă spre centrul orașului pentru cină.",
-            "en": "A bike tour through Kemi in the rain requires good gear but offers quiet paths. Start at the church and use the short distances to reach the Cultural Centre. Along the coast to the harbor, you'll feel the sea breeze; the Gemstone Museum is the perfect stop to dry off. In the afternoon, reach the SnowCastle easily by bike. End the day with a short ride to dinner in the city center."
+            "en": "A bike tour through Kemi in the rain requires good gear but offers quiet paths. Start at the church and use the short distances to reach the Cultural Centre. Along the coast to the harbor, you'll feel the sea breeze; the Gemstone Museum is the perfect stop to dry off. In the afternoon, reach the SnowCastle easily by bike. End the day with a short ride to dinner in the city center.",
+            "fi": "Pyöräretki Kemissä sateessa vaatii hyvää varustusta mutta tarjoaa rauhallisia reittejä. Aloita kirkolta ja hyödynnä lyhyitä etäisyyksiä päästäksesi kulttuurikeskukseen. Pitkin rannikkoa satamaan tunnet merituulen; Akaattimuseo on täydellinen paikka kuivata itsesi. Iltapäivällä pääset helposti pyörällä LumiLinnalle. Päivä päättyy lyhyeen ajoon illalliselle kaupungin keskustaan."
           },
           "stops": [
             {
@@ -919,7 +992,8 @@
                 "de": "Stellen Sie Ihr Rad unter Bäumen ab, um den Sattel trocken zu halten.",
                 "hu": "Parkoljon fa alá, hogy az ülést szárazon tartsa.",
                 "ro": "Parcați bicicleta sub copaci pentru a menține șaua uscată.",
-                "en": "Park your bike under trees to keep the saddle dry."
+                "en": "Park your bike under trees to keep the saddle dry.",
+                "fi": "Parkkeeraa pyörä puiden alle pitääksesi satulan kuivana."
               }
             },
             {
@@ -928,7 +1002,8 @@
                 "de": "Überdachte Fahrradständer befinden sich in der Nähe des Eingangs.",
                 "hu": "Fedett biciklitárolók találhatók a bejárat közelében.",
                 "ro": "Suporturile de biciclete acoperite se află lângă intrare.",
-                "en": "Covered bike racks are located near the entrance."
+                "en": "Covered bike racks are located near the entrance.",
+                "fi": "Katettuja polkupyörätelineitä on sisäänkäynnin lähellä."
               }
             },
             {
@@ -937,7 +1012,8 @@
                 "de": "Vorsicht bei nassen Kurven auf den Parkwegen.",
                 "hu": "Vigyázzon a vizes kanyarokban a parki utakon.",
                 "ro": "Atenție la curbele umede pe aleile parcului.",
-                "en": "Be careful on wet curves on the park paths."
+                "en": "Be careful on wet curves on the park paths.",
+                "fi": "Ole varovainen märissä mutkissa puistopolkuja pitkin."
               }
             },
             {
@@ -946,7 +1022,8 @@
                 "de": "Die Holzstege können bei Regen sehr rutschig sein.",
                 "hu": "A fapallók esőben nagyon csúszósak lehetnek.",
                 "ro": "Podețele de lemn pot fi foarte alunecoase pe ploaie.",
-                "en": "The wooden boardwalks can be very slippery in the rain."
+                "en": "The wooden boardwalks can be very slippery in the rain.",
+                "fi": "Puiset pitkospuut voivat olla hyvin liukkaita sateella."
               }
             },
             {
@@ -955,7 +1032,8 @@
                 "de": "Ideal, um die Regenjacke kurz abtropfen zu lassen.",
                 "hu": "Ideális hely az esőkabát rövid lecsöpögtetésére.",
                 "ro": "Loc ideal pentru a lăsa pelerina de ploaie să se scurgă puțin.",
-                "en": "Ideal spot to let your raincoat drip dry for a bit."
+                "en": "Ideal spot to let your raincoat drip dry for a bit.",
+                "fi": "Ihanteellinen paikka antaa sadeviitan tiputtaa hetken kuivumaan."
               }
             },
             {
@@ -964,7 +1042,8 @@
                 "de": "Nutzen Sie die Zeit drinnen, während das Rad draußen im Regen steht.",
                 "hu": "Használja ki a benti időt, amíg a gép kint ázik.",
                 "ro": "Profitați de timpul petrecut în interior în timp ce bicicleta stă în ploaie.",
-                "en": "Make the most of the indoor time while the bike is outside."
+                "en": "Make the most of the indoor time while the bike is outside.",
+                "fi": "Hyödynnä sisätilat samalla kun pyörä on ulkona."
               }
             },
             {
@@ -973,7 +1052,8 @@
                 "de": "Der Sandweg kann bei starkem Regen etwas weich werden.",
                 "hu": "A homokos út erős esőben kissé felázhat.",
                 "ro": "Drumul cu nisip poate deveni moale în caz de ploaie torențială.",
-                "en": "The sandy path can get a bit soft during heavy rain."
+                "en": "The sandy path can get a bit soft during heavy rain.",
+                "fi": "Hiekkatie voi pehmetä rankkasateella."
               }
             },
             {
@@ -982,7 +1062,8 @@
                 "de": "Viele Restaurants bieten Platz für nasse Ausrüstung an der Garderobe.",
                 "hu": "Sok étteremben van hely a vizes cuccoknak a ruhatárnál.",
                 "ro": "Multe restaurante oferă spațiu pentru echipamentul umed la garderobă.",
-                "en": "Many restaurants have space for wet gear at the cloakroom."
+                "en": "Many restaurants have space for wet gear at the cloakroom.",
+                "fi": "Monissa ravintoloissa on paikka märille varusteille narikassa."
               }
             }
           ],
@@ -1014,6 +1095,13 @@
               "Mudguards on your bike are indispensable in Kemi weather.",
               "Always wipe the saddle dry before continuing your ride.",
               "Bike lights are advisable even during the day when it's raining."
+            ],
+            "fi": [
+              "Täydellinen sadeasu ja suojakengän päällysteet ovat erittäin suositeltavia.",
+              "Vältä äkillistä jarrutusta maalatuilla tienpinnoilla.",
+              "Lokasuojat pyörässä ovat välttämättömät Kemin säässä.",
+              "Pyyhi satula aina kuivaksi ennen kuin jatkat ajoa.",
+              "Pyörävalot ovat suositeltavat myös päivällä sateella."
             ]
           }
         },
@@ -1022,7 +1110,8 @@
             "de": "Winter-Biking in Kemi ist ein echtes Abenteuer. Mit dicken Reifen geht es durch den Pulverschnee von der Kirche zum Kulturzentrum. Die Fahrt am zugefrorenen Hafen bietet spektakuläre Ausblicke, bevor Sie sich im Edelsteinmuseum aufwärmen. Nachmittags ist die Fahrt zum SnowCastle kurz, aber knackig kalt. Den Tag krönen Sie mit einer gemütlichen Fahrt durch das beleuchtete Zentrum zum Abendessen.",
             "hu": "A téli bringázás Kemiben igazi kaland. Vastag gumikkal vágjon át a porhavon a templomtól a Kulturális Központig. A befagyott kikötő melletti tekerés látványos, de hideg, így jól fog esni a Drágakőmúzeum melege. Délután a SnowCastle-hoz vezető út rövid, de csípős. A napot egy hangulatos, kivilágított belvárosi tekeréssel és vacsorával zárjuk.",
             "ro": "Ciclismul de iarnă în Kemi este o adevărată aventură. Cu anvelope late, treceți prin zăpadă de la biserică spre Centrul Cultural. Cursa pe lângă portul înghețat oferă priveliști spectaculoase înainte de a vă încălzi la Muzeul Pietrelor Prețioase. După-amiaza, drumul spre SnowCastle este scurt, dar foarte rece. Încheiați ziua cu o cursă plăcută prin centrul iluminat spre cină.",
-            "en": "Winter biking in Kemi is a true adventure. With fat tires, ride through the powder snow from the church to the Cultural Centre. Cycling by the frozen harbor offers spectacular views before warming up in the Gemstone Museum. In the afternoon, the ride to the SnowCastle is short but crisp. Crown the day with a cozy ride through the illuminated center to dinner."
+            "en": "Winter biking in Kemi is a true adventure. With fat tires, ride through the powder snow from the church to the Cultural Centre. Cycling by the frozen harbor offers spectacular views before warming up in the Gemstone Museum. In the afternoon, the ride to the SnowCastle is short but crisp. Crown the day with a cozy ride through the illuminated center to dinner.",
+            "fi": "Talvipyöräily Kemissä on todellinen seikkailu. Paksurenkaisella fatbikella ajele kirkolta kulttuurikeskukseen lumen läpi. Pyöräily jäätyneen sataman rantaa pitkin tarjoaa vaikuttavat näkymät ennen lämmittelyä Akaattimuseossa. Iltapäivällä matka LumiLinnalle on lyhyt mutta raikas. Päivä huipentuu tunnelmallisella ajolla valaistun keskustan läpi illalliselle."
           },
           "stops": [
             {
@@ -1031,7 +1120,8 @@
                 "de": "Prüfen Sie den Reifendruck – bei Schnee hilft etwas weniger Druck.",
                 "hu": "Ellenőrizze a guminyomást – hóban a kevesebb jobb tapadást ad.",
                 "ro": "Verificați presiunea anvelopelor – presiunea scăzută ajută în zăpadă.",
-                "en": "Check tire pressure – lower pressure helps with traction in snow."
+                "en": "Check tire pressure – lower pressure helps with traction in snow.",
+                "fi": "Tarkista rengaspaine – hieman alhaisempi paine parantaa pitoa lumessa."
               }
             },
             {
@@ -1040,7 +1130,8 @@
                 "de": "Stellen Sie sicher, dass Ihr Schloss bei Frost nicht einfriert.",
                 "hu": "Győződjön meg róla, hogy a zár nem fagy be a hidegben.",
                 "ro": "Asigurați-vă că antifurtul nu îngheață la temperaturi scăzute.",
-                "en": "Make sure your bike lock doesn't freeze in the cold."
+                "en": "Make sure your bike lock doesn't freeze in the cold.",
+                "fi": "Varmista, ettei pyörälukko jäädy kylmässä."
               }
             },
             {
@@ -1049,7 +1140,8 @@
                 "de": "Nutzen Sie die geräumten Hauptwege für leichteres Vorankommen.",
                 "hu": "Használja a letakarított főutakat a könnyebb haladásért.",
                 "ro": "Folosiți aleile principale deszăpezite pentru a înainta mai ușor.",
-                "en": "Use the cleared main paths for easier cycling."
+                "en": "Use the cleared main paths for easier cycling.",
+                "fi": "Käytä aurattuja pääreittejä helpompaan pyöräilyyn."
               }
             },
             {
@@ -1058,7 +1150,8 @@
                 "de": "Vorsicht vor Verwehungen auf den Radwegen am Wasser.",
                 "hu": "Vigyázzon a hófúvásokkal a vízparti kerékpárutakon.",
                 "ro": "Atenție la troienele de zăpadă pe pistele de biciclete de lângă apă.",
-                "en": "Watch out for snowdrifts on the bike paths near the water."
+                "en": "Watch out for snowdrifts on the bike paths near the water.",
+                "fi": "Varo kinoksia pyöräteillä veden äärellä."
               }
             },
             {
@@ -1067,7 +1160,8 @@
                 "de": "Gute Gelegenheit, um eingefrorene Finger wieder aufzuwärmen.",
                 "hu": "Jó alkalom az átfagyott ujjak felmelegítésére.",
                 "ro": "Oportunitate bună de a vă încălzi degetele înghețate.",
-                "en": "Good opportunity to warm up frozen fingers."
+                "en": "Good opportunity to warm up frozen fingers.",
+                "fi": "Hyvä mahdollisuus lämmittää jäätyneet sormet."
               }
             },
             {
@@ -1076,7 +1170,8 @@
                 "de": "Parken Sie das Rad sicher, bevor Sie die Eiswelten betreten.",
                 "hu": "Parkoljon le biztonságosan, mielőtt belépne a jégbirodalomba.",
                 "ro": "Parcați bicicleta în siguranță înainte de a intra în lumea gheții.",
-                "en": "Park your bike securely before entering the ice worlds."
+                "en": "Park your bike securely before entering the ice worlds.",
+                "fi": "Parkkeeraa pyörä turvallisesti ennen jäämaailmoihin menemistä."
               }
             },
             {
@@ -1085,7 +1180,8 @@
                 "de": "Ein Fatbike ist hier auf dem verschneiten Strandweg ideal.",
                 "hu": "A fatbike ideális választás a havas strandúton.",
                 "ro": "Un fatbike este ideal aici pe drumul înzăpezit de la plajă.",
-                "en": "A fatbike is ideal here on the snowy beach path."
+                "en": "A fatbike is ideal here on the snowy beach path.",
+                "fi": "Fatbike on ihanteellinen täällä lumisella rantapolulla."
               }
             },
             {
@@ -1094,7 +1190,8 @@
                 "de": "Das Radlicht ist bei der frühen Dunkelheit lebenswichtig.",
                 "hu": "A lámpa elengedhetetlen a korai sötétedés miatt.",
                 "ro": "Luminile bicicletei sunt vitale din cauza întunericului timpuriu.",
-                "en": "Bike lights are vital due to the early darkness."
+                "en": "Bike lights are vital due to the early darkness.",
+                "fi": "Pyörävalot ovat välttämättömät aikaisen pimeyden vuoksi."
               }
             }
           ],
@@ -1126,6 +1223,13 @@
               "The chain should be well-oiled to prevent corrosion from road salt.",
               "Allow extra time as pedaling through snow is more strenuous.",
               "E-bike batteries should be taken indoors during stops."
+            ],
+            "fi": [
+              "Fatbike nastarenkailla on paras valinta Kemin talveen.",
+              "Pue tuulenpitävät hanskat ja kasvosuoja.",
+              "Ketju tulee pitää hyvin öljyttynä korroosion estämiseksi tien suolasta.",
+              "Varaa enemmän aikaa, sillä polkeminen lumessa on raskaampaa.",
+              "Sähköpyörän akut tulisi tuoda sisätiloihin pysähdyksillä."
             ]
           }
         }
@@ -1144,7 +1248,8 @@
             "de": "Cluster 1: Stadtzentrum (Parken)",
             "hu": "1. klaszter: Városközpont (Parkolás)",
             "ro": "Cluster 1: Centrul Orașului (Parcare)",
-            "en": "Cluster 1: City Center (Parking)"
+            "en": "Cluster 1: City Center (Parking)",
+            "fi": "Klusteri 1: Keskusta (Pysäköinti)"
           },
           "coords": [
             24.5675,
@@ -1160,7 +1265,8 @@
             "de": "Parken Sie in der Nähe der Kirche und erkunden Sie den ersten Cluster zu Fuß.",
             "hu": "Parkoljon a templom közelében, és fedezze fel az első klasztert gyalog.",
             "ro": "Parcați lângă biserică și explorați primul cluster pe jos.",
-            "en": "Park near the church and explore the first cluster on foot."
+            "en": "Park near the church and explore the first cluster on foot.",
+            "fi": "Pysäköi lähellä kirkkoa ja tutustu ensimmäiseen klusteriin jalkaisin."
           }
         },
         {
@@ -1168,7 +1274,8 @@
             "de": "Kirche von Kemi",
             "hu": "Kemi temploma",
             "ro": "Biserica din Kemi",
-            "en": "Kemi Church"
+            "en": "Kemi Church",
+            "fi": "Kemin kirkko"
           },
           "coords": [
             24.565,
@@ -1184,7 +1291,8 @@
             "de": "Ein kurzer Spaziergang vom Parkplatz aus.",
             "hu": "Rövid séta a parkolótól.",
             "ro": "O scurtă plimbare de la parcare.",
-            "en": "A short walk from where you parked."
+            "en": "A short walk from where you parked.",
+            "fi": "Lyhyt kävelymatka pysäköintipaikalta."
           }
         },
         {
@@ -1192,7 +1300,8 @@
             "de": "Kulturzentrum & Edelsteinmuseum",
             "hu": "Kultúrközpont és Drágakőmúzeum",
             "ro": "Centrul Cultural & Muzeul de Pietre",
-            "en": "Cultural Centre & Gemstone Museum"
+            "en": "Cultural Centre & Gemstone Museum",
+            "fi": "Kulttuurikeskus & Jalokivimuseo"
           },
           "coords": [
             24.566,
@@ -1208,7 +1317,8 @@
             "de": "Diese beiden Attraktionen liegen nahe beieinander, perfekt für einen längeren Stopp.",
             "hu": "Ez a két látnivaló közel van egymáshoz, tökéletes egy hosszabb megállóhoz.",
             "ro": "Aceste două atracții sunt apropiate, perfecte pentru o oprire mai lungă.",
-            "en": "These two attractions are close together, perfect for one longer stop."
+            "en": "These two attractions are close together, perfect for one longer stop.",
+            "fi": "Nämä kaksi nähtävyyttä ovat lähellä toisiaan, täydellisiä yhteen pidempään pysähdykseen."
           }
         },
         {
@@ -1216,7 +1326,8 @@
             "de": "Cluster 2: Hafenbereich (Fahrt)",
             "hu": "2. klaszter: Kikötő (Autózás)",
             "ro": "Cluster 2: Zona Portuară (Condus)",
-            "en": "Cluster 2: Harbour Area (Drive)"
+            "en": "Cluster 2: Harbour Area (Drive)",
+            "fi": "Klusteri 2: Satama-alue (Ajo)"
           },
           "coords": [
             24.5585,
@@ -1232,7 +1343,8 @@
             "de": "Fahren Sie zum Hafen und parken Sie erneut. Zeit für das Mittagessen und maritime Erkundungen.",
             "hu": "Hajtson a kikötőbe és parkoljon le újra. Ebédidő és tengeri felfedezés.",
             "ro": "Conduceți spre port și parcați din nou. Timp pentru prânz și explorare maritimă.",
-            "en": "Drive to the harbour and park again. Time for lunch and maritime exploration."
+            "en": "Drive to the harbour and park again. Time for lunch and maritime exploration.",
+            "fi": "Aja satamaan ja pysäköi uudelleen. Aika lounaalle ja merelliselle tutkiskelulle."
           }
         },
         {
@@ -1240,7 +1352,8 @@
             "de": "Schneeschloss & Eisbrecher Sampo",
             "hu": "Hóvár és Sampo Jégtörő",
             "ro": "Castelul de Zăpadă și Spărgătorul Sampo",
-            "en": "SnowCastle & Icebreaker Sampo"
+            "en": "SnowCastle & Icebreaker Sampo",
+            "fi": "Lumilinna & Jäänmurtaja Sampo"
           },
           "coords": [
             24.5575,
@@ -1256,7 +1369,8 @@
             "de": "Nehmen Sie sich Zeit für beide Attraktionen und ein Mittagessen in einem der Restaurants am Meer.",
             "hu": "Szánjon időt mindkét látnivalóra és egy ebédre a tengerparti éttermek egyikében.",
             "ro": "Acordați-vă timp pentru ambele atracții și un prânz la unul dintre restaurantele de la malul mării.",
-            "en": "Take your time for both attractions and lunch at one of the seaside restaurants."
+            "en": "Take your time for both attractions and lunch at one of the seaside restaurants.",
+            "fi": "Varaa aikaa molempiin nähtävyyksiin ja lounaalle yhteen merenrantaravintoloista."
           }
         },
         {
@@ -1264,7 +1378,8 @@
             "de": "Cluster 3: Erholung (Fahrt)",
             "hu": "3. klaszter: Rekreáció (Autózás)",
             "ro": "Cluster 3: Recreere (Condus)",
-            "en": "Cluster 3: Recreation (Drive)"
+            "en": "Cluster 3: Recreation (Drive)",
+            "fi": "Klusteri 3: Virkistys (Ajo)"
           },
           "coords": [
             24.545,
@@ -1280,7 +1395,8 @@
             "de": "Eine kurze Fahrt zum Strand Mansikkanokka, um den Tag entspannt ausklingen zu lassen.",
             "hu": "Egy rövid út a Mansikkanokka strandra, hogy pihentetően zárja a napot.",
             "ro": "O scurtă călătorie cu mașina până la plaja Mansikkanokka pentru a încheia ziua într-un mod relaxant.",
-            "en": "A short drive to Mansikkanokka beach to end the day with some relaxation."
+            "en": "A short drive to Mansikkanokka beach to end the day with some relaxation.",
+            "fi": "Lyhyt ajomatka Mansikkanokan rannalle päivän päättämiseksi rentoutuen."
           }
         }
       ],
@@ -1288,7 +1404,8 @@
         "de": "Ihr Autotag in Kemi ist in Cluster unterteilt. Beginnen Sie im Zentrum, wo Sie parken und die Kirche, das Kulturzentrum und das Edelsteinmuseum zu Fuß erkunden. Mittags fahren Sie zum Hafenbereich für ein maritimes Erlebnis mit dem Schneeschloss und dem Eisbrecher Sampo, einschließlich einer Mittagspause. Den späten Nachmittag verbringen Sie mit einer kurzen Fahrt zum Strand von Mansikkanokka, wo Sie sich entspannen und die Meeresbrise genießen können, bevor Sie den Tag beenden.",
         "hu": "Az autós napja Kemiben klaszterekre van osztva. Kezdje a központban, ahol leparkol, és gyalog fedezi fel a templomot, a kulturális központot és a drágakőmúzeumot. Délben áthajt a kikötő területére egy tengeri élményért a Hóvárral és a Sampo jégtörővel, ebédszünettel együtt. A késő délutánt egy rövid autózással a Mansikkanokka strandon tölti, ahol pihenhet és élvezheti a tengeri szellőt a nap befejezése előtt.",
         "ro": "Ziua dvs. cu mașina în Kemi este împărțită în clustere. Începeți în centru, unde parcați și explorați pe jos biserica, centrul cultural și muzeul de pietre prețioase. La prânz, conduceți spre zona portuară pentru o experiență maritimă la Castelul de Zăpadă și spărgătorul Sampo, inclusiv o pauză de masă. După-amiaza târziu o petreceți cu o scurtă călătorie cu mașina la plaja Mansikkanokka pentru relaxare și pentru a vă bucura de briza mării înainte de a încheia ziua.",
-        "en": "Your car day in Kemi is divided into clusters. Start in the center, where you'll park and explore the church, cultural center, and gemstone museum on foot. At midday, you drive to the harbour area for a maritime experience at the SnowCastle and Icebreaker Sampo, including a lunch break. The late afternoon is spent with a short drive to Mansikkanokka beach for some relaxation and to enjoy the sea breeze before ending your day."
+        "en": "Your car day in Kemi is divided into clusters. Start in the center, where you'll park and explore the church, cultural center, and gemstone museum on foot. At midday, you drive to the harbour area for a maritime experience at the SnowCastle and Icebreaker Sampo, including a lunch break. The late afternoon is spent with a short drive to Mansikkanokka beach for some relaxation and to enjoy the sea breeze before ending your day.",
+        "fi": "Autopäiväsi Kemissä on jaettu klustereihin. Aloita keskustasta, jossa pysäköit ja tutkit kirkon, kulttuurikeskuksen ja jalokivimuseon jalkaisin. Keskipäivällä ajat satama-alueelle merellistä kokemusta varten Lumilinnaan ja jäänmurtaja Sampoon, sisältäen lounastauon. Myöhään iltapäivällä teet lyhyen ajon Mansikkanokan rannalle rentoutumaan ja nauttimaan merituulesta ennen päivän päättymistä."
       },
       "gastro_picks": {
         "de": [
@@ -1444,6 +1561,11 @@
           "Parking is generally easy in Kemi, but be mindful of any fees.",
           "The cluster strategy saves time and the hassle of finding parking multiple times.",
           "Allow plenty of time for the harbour area as there's a lot to see."
+        ],
+        "fi": [
+          "Pysäköinti on yleensä helppoa Kemissä, mutta huomioi mahdolliset maksut.",
+          "Klusteristrategia säästää aikaa ja vaivaa etsiessä pysäköintiä useita kertoja.",
+          "Varaa runsaasti aikaa satama-alueelle, sillä siellä on paljon nähtävää."
         ]
       },
       "variants": {
@@ -1452,7 +1574,8 @@
             "de": "Mit dem Auto ist Kemi auch bei starkem Regen komfortabel zu erkunden. Starten Sie im Zentrum und nutzen Sie die kurzen Wege zwischen Kirche und Kulturzentrum. Die Fahrt zum Hafen bietet bei Regen gute Sicht auf das Meer, während das Edelsteinmuseum trockene Unterhaltung bietet. Nachmittags parken Sie direkt am SnowCastle. Die Tour endet flexibel mit einer kurzen Fahrt zurück in die Stadt.",
             "hu": "Autóval Kemi még erős esőben is kényelmesen bejárható. Kezdjen a központban, ahol a templom és a Kulturális Központ közelében könnyű parkolni. A kikötő felé autózva élvezheti a tengeri kilátást, miközben a Drágakőmúzeumban fedett helyen nézelődhet. Délután közvetlenül a SnowCastle bejáratánál parkolhat. A túra rugalmasan, egy rövid városi visszauttal zárul.",
             "ro": "Cu mașina, Kemi este ușor de explorat chiar și pe ploaie torențială. Începeți în centru și profitați de parcările din apropierea bisericii și a Centrului Cultural. Drumul spre port oferă o vedere bună spre mare în timp ce sunteți la adăpost. După-amiaza, parcați direct la SnowCastle pentru a evita ploaia. Turul se încheie flexibil cu o scurtă cursă înapoi în oraș.",
-            "en": "By car, Kemi is comfortable to explore even during heavy rain. Start in the center, utilizing parking near the church and Cultural Centre. The drive to the harbor provides good sea views while staying dry, with the Gemstone Museum offering indoor entertainment. In the afternoon, park right at the SnowCastle entrance. The tour ends flexibly with a quick drive back into town."
+            "en": "By car, Kemi is comfortable to explore even during heavy rain. Start in the center, utilizing parking near the church and Cultural Centre. The drive to the harbor provides good sea views while staying dry, with the Gemstone Museum offering indoor entertainment. In the afternoon, park right at the SnowCastle entrance. The tour ends flexibly with a quick drive back into town.",
+            "fi": "Autolla Kemi on mukava tutkittava jopa rankkasateella. Aloita keskustasta hyödyntäen pysäköintiä kirkon ja kulttuurikeskuksen lähellä. Ajomatka satamaan tarjoaa hyvät merinäköalat samalla kun pysyt kuivana, ja Jalokivimuseo tarjoaa sisätiloissa viihdettä. Iltapäivällä pysäköi suoraan Lumilinnan sisäänkäynnin lähelle. Kierros päättyy joustavasti nopealla ajolla takaisin kaupunkiin."
           },
           "stops": [
             {
@@ -1461,7 +1584,8 @@
                 "de": "Zentraler Parkplatz, idealer Ausgangspunkt für die Innenstadt-Museen.",
                 "hu": "Központi parkoló, ideális kiindulópont a belvárosi múzeumokhoz.",
                 "ro": "Parcare centrală, punct de plecare ideal pentru muzeele din centru.",
-                "en": "Central parking, ideal starting point for city center museums."
+                "en": "Central parking, ideal starting point for city center museums.",
+                "fi": "Keskuspysäköinti, ihanteellinen lähtökohta keskustan museoille."
               }
             },
             {
@@ -1470,7 +1594,8 @@
                 "de": "Kurzer Fußweg vom Parkplatz zum Kircheneingang bei Regen.",
                 "hu": "Rövid séta a parkolótól a templom bejáratáig esőben.",
                 "ro": "Scurtă plimbare de la parcare la intrarea în biserică pe ploaie.",
-                "en": "Short walk from the parking to the church entrance in the rain."
+                "en": "Short walk from the parking to the church entrance in the rain.",
+                "fi": "Lyhyt kävely pysäköinniltä kirkon sisäänkäynnille sateella."
               }
             },
             {
@@ -1479,7 +1604,8 @@
                 "de": "Parken Sie so nah wie möglich am Eingang, um trocken zu bleiben.",
                 "hu": "Parkoljon a lehető legközelebb a bejárathoz, hogy száraz maradjon.",
                 "ro": "Parcați cât mai aproape de intrare pentru a rămâne uscat.",
-                "en": "Park as close to the entrance as possible to stay dry."
+                "en": "Park as close to the entrance as possible to stay dry.",
+                "fi": "Pysäköi mahdollisimman lähelle sisäänkäyntiä pysyäksesi kuivana."
               }
             },
             {
@@ -1488,7 +1614,8 @@
                 "de": "Genießen Sie die Küstenfahrt mit Scheibenwischern auf höchster Stufe.",
                 "hu": "Élvezze a tengerparti autózást a legmagasabb fokozatra kapcsolt ablaktörlővel.",
                 "ro": "Bucurați-vă de drumul de coastă cu ștergătoarele la maximum.",
-                "en": "Enjoy the coastal drive with wipers on high if needed."
+                "en": "Enjoy the coastal drive with wipers on high if needed.",
+                "fi": "Nauti rannikkoajelusta pyyhkimiä korkealla tarvittaessa."
               }
             },
             {
@@ -1497,7 +1624,8 @@
                 "de": "Großer, befestigter Parkplatz direkt vor dem Experience 365 Gebäude.",
                 "hu": "Nagy, aszfaltozott parkoló közvetlenül az Experience 365 épülete előtt.",
                 "ro": "Parcare mare asfaltată chiar în fața clădirii Experience 365.",
-                "en": "Large paved parking lot directly in front of the Experience 365 building."
+                "en": "Large paved parking lot directly in front of the Experience 365 building.",
+                "fi": "Suuri asfaltoitu pysäköintialue suoraan Experience 365 -rakennuksen edessä."
               }
             },
             {
@@ -1506,7 +1634,8 @@
                 "de": "Bleiben Sie bei starkem Regen im Auto und genießen Sie den Meerblick.",
                 "hu": "Erős esőben maradjon az autóban és élvezze a kilátást a tengerre.",
                 "ro": "Rămâneți în mașină dacă plouă tare și admirați vederea la mare.",
-                "en": "Stay in the car and enjoy the sea view if the rain is heavy."
+                "en": "Stay in the car and enjoy the sea view if the rain is heavy.",
+                "fi": "Pysy autossa ja nauti merinäköalasta, jos sade on voimakasta."
               }
             }
           ],
@@ -1538,6 +1667,13 @@
               "Keep the air conditioning on to prevent windows from fogging up.",
               "Use the car as a base to change wet clothes between stops.",
               "Harbor parking fees can usually be paid conveniently via app."
+            ],
+            "fi": [
+              "Varo vesiliirtoa rannikkoteillä.",
+              "Pysäköinti Kemissä pysyy helppona myös sateisella säällä.",
+              "Pidä ilmastointi päällä ikkunoiden huurustumisen estämiseksi.",
+              "Käytä autoa tukikohtana vaihtaaksesi märät vaatteet pysähdysten välillä.",
+              "Sataman pysäköintimaksut voi yleensä maksaa kätevästi sovelluksella."
             ]
           }
         },
@@ -1546,7 +1682,8 @@
             "de": "Im Winter ist das Auto das sicherste Mittel gegen die arktische Kälte in Kemi. Beginnen Sie die Tour im beheizten Wagen an der Kirche. Die Fahrt zum Hafen führt durch eine weiße Winterlandschaft, wobei das Edelsteinmuseum als warme Station dient. Nachmittags erreichen Sie das SnowCastle, dessen Parkplatz oft schneebedeckt ist. Der Abend endet komfortabel mit der Fahrt zu einem gemütlichen Restaurant im Zentrum.",
             "hu": "Télen az autó a legbiztosabb védelmet nyújtja az arkktikus hideg ellen Kemiben. Kezdje a túrát fűtött kocsival a templomnál. A kikötő felé vezető út hófödte tájakon visz keresztül, a Drágakőmúzeum pedig remek fűtött megálló. Délután könnyen elérheti a SnowCastle-t, ahol a parkoló sokszor havas. A napot egy kényelmes belvárosi autózással és vacsorával zárjuk.",
             "ro": "Iarna, mașina este cel mai sigur mijloc împotriva gerului arctic din Kemi. Începeți turul în mașina încălzită la biserică. Drumul spre port trece printr-un peisaj alb de iarnă, Muzeul Pietrelor Prețioase fiind o stație caldă. După-amiaza ajungeți la SnowCastle, unde parcarea este adesea înzăpezită. Seara se încheie confortabil cu o cursă spre un restaurant primitor din centru.",
-            "en": "In winter, the car is the safest defense against the Arctic cold in Kemi. Start the tour in a warm car at the church. The drive to the harbor goes through a white winter wonderland, with the Gemstone Museum serving as a warm station. In the afternoon, reach the SnowCastle, where the parking lot is often snow-covered. The evening ends comfortably with a drive to a cozy restaurant in the center."
+            "en": "In winter, the car is the safest defense against the Arctic cold in Kemi. Start the tour in a warm car at the church. The drive to the harbor goes through a white winter wonderland, with the Gemstone Museum serving as a warm station. In the afternoon, reach the SnowCastle, where the parking lot is often snow-covered. The evening ends comfortably with a drive to a cozy restaurant in the center.",
+            "fi": "Talvella auto on paras suoja arktista kylmää vastaan Kemissä. Aloita kierros lämpimästä autosta kirkolla. Ajomatka satamaan kulkee valkoisen talven läpi, ja Jalokivimuseo toimii lämpimänä asemana. Iltapäivällä saavutat Lumilinnan, jonka pysäköintialue on usein lumen peitossa. Ilta päättyy mukavasti ajamalla viihtyisään keskustaravintolaan."
           },
           "stops": [
             {
@@ -1555,7 +1692,8 @@
                 "de": "Parkplätze werden regelmäßig geräumt, aber Vorsicht vor Glätte.",
                 "hu": "A parkolókat rendszeresen takarítják, de vigyázzon a csúszós felületekre.",
                 "ro": "Parcările sunt deszăpezite regulat, dar atenție la gheață.",
-                "en": "Parking lots are cleared regularly, but watch out for ice."
+                "en": "Parking lots are cleared regularly, but watch out for ice.",
+                "fi": "Pysäköintialueet aurataan säännöllisesti, mutta varo jäätä."
               }
             },
             {
@@ -1564,7 +1702,8 @@
                 "de": "Lassen Sie den Motor nicht unnötig laufen, nutzen Sie Standheizung.",
                 "hu": "Ne járassa feleslegesen a motort, használja az állófűtést.",
                 "ro": "Nu lăsați motorul pornit inutil, folosiți încălzirea auxiliară.",
-                "en": "Don't leave the engine idling unnecessarily; use a block heater if available."
+                "en": "Don't leave the engine idling unnecessarily; use a block heater if available.",
+                "fi": "Älä jätä moottoria tarpeettomasti käyntiin; käytä lohkolämmitintä, jos saatavilla."
               }
             },
             {
@@ -1573,7 +1712,8 @@
                 "de": "Ein warmer Innenraum erwartet Sie nach dem kurzen Sprint vom Auto.",
                 "hu": "Meleg belső tér várja az autótól való rövid sprint után.",
                 "ro": "Un interior cald vă așteaptă după un scurt sprint de la mașină.",
-                "en": "A warm interior awaits you after a short sprint from the car."
+                "en": "A warm interior awaits you after a short sprint from the car.",
+                "fi": "Lämmin sisätila odottaa lyhyen sprintin jälkeen autolta."
               }
             },
             {
@@ -1582,7 +1722,8 @@
                 "de": "Vorsicht vor Rentieren oder Wild auf den verschneiten Küstenstraßen.",
                 "hu": "Vigyázzon a rénszarvasokra vagy vadakra a havas part menti utakon.",
                 "ro": "Atenție la reni sau animale sălbatice pe drumurile de coastă înzăpezite.",
-                "en": "Watch out for reindeer or wildlife on snowy coastal roads."
+                "en": "Watch out for reindeer or wildlife on snowy coastal roads.",
+                "fi": "Varo poroja tai villieläimiä lumisilla rannikkoteillä."
               }
             },
             {
@@ -1591,7 +1732,8 @@
                 "de": "Das Auto kühlt hier am windigen Hafen sehr schnell aus.",
                 "hu": "Az autó a szeles kikötőben nagyon hamar lehűl.",
                 "ro": "Mașina se răcește foarte repede aici, în portul vântos.",
-                "en": "The car cools down very quickly here in the windy harbor."
+                "en": "The car cools down very quickly here in the windy harbor.",
+                "fi": "Auto jäähtyy täällä hyvin nopeasti tuulisessa satamassa."
               }
             },
             {
@@ -1600,7 +1742,8 @@
                 "de": "Halten Sie für Fotos kurz an, aber bleiben Sie auf befestigten Wegen.",
                 "hu": "Fotózáshoz álljon meg röviden, de maradjon a letakarított utakon.",
                 "ro": "Opriți scurt pentru fotografii, dar rămâneți pe drumurile curățate.",
-                "en": "Stop briefly for photos, but stay on the cleared paths."
+                "en": "Stop briefly for photos, but stay on the cleared paths.",
+                "fi": "Pysähdy lyhyesti valokuviin, mutta pysy auranpeittämillä poluilla."
               }
             }
           ],
@@ -1632,6 +1775,13 @@
               "Keep an ice scraper and a small snow shovel in the car.",
               "Roads can be extremely slippery (black ice); drive carefully.",
               "Account for limited daylight hours when planning your route."
+            ],
+            "fi": [
+              "Talvirenkaat ovat lain mukaan pakolliset Suomessa.",
+              "Käytä moottorin lohkolämmittimen kaapelia pidemmillä pysähdyksillä.",
+              "Pidä jääraappa ja pieni lumilapio autossa.",
+              "Tiet voivat olla erittäin liukkaita (mustaa jäätä); aja varovaisesti.",
+              "Ota huomioon rajoitettu päivänvalon määrä suunnitellessasi reittiäsi."
             ]
           }
         }
@@ -1650,7 +1800,8 @@
             "de": "Cluster 1: Stadtzentrum (Ankunft)",
             "hu": "1. klaszter: Városközpont (Érkezés)",
             "ro": "Cluster 1: Centrul Orașului (Sosire)",
-            "en": "Cluster 1: City Center (Arrival)"
+            "en": "Cluster 1: City Center (Arrival)",
+            "fi": "Klusteri 1: Keskusta (Saapuminen)"
           },
           "coords": [
             24.567,
@@ -1666,7 +1817,8 @@
             "de": "Starten Sie an einer zentralen Bushaltestelle.",
             "hu": "Induljon egy központi buszmegállóból.",
             "ro": "Începeți de la o stație de autobuz centrală.",
-            "en": "Start at a central bus stop."
+            "en": "Start at a central bus stop.",
+            "fi": "Aloita keskuslinja-autoasemalta."
           }
         },
         {
@@ -1674,7 +1826,8 @@
             "de": "Kirche von Kemi & Kulturzentrum",
             "hu": "Kemi templom és Kultúrközpont",
             "ro": "Biserica Kemi și Centrul Cultural",
-            "en": "Kemi Church & Cultural Centre"
+            "en": "Kemi Church & Cultural Centre",
+            "fi": "Kemin kirkko & Kulttuurikeskus"
           },
           "coords": [
             24.5665,
@@ -1690,7 +1843,8 @@
             "de": "Diese beiden Sehenswürdigkeiten können leicht zu Fuß vom Bus aus erreicht werden.",
             "hu": "Ez a két látnivaló könnyen elérhető gyalog a buszmegállótól.",
             "ro": "Aceste două atracții pot fi ușor accesate pe jos de la stația de autobuz.",
-            "en": "These two sights are an easy walk from the bus stop."
+            "en": "These two sights are an easy walk from the bus stop.",
+            "fi": "Nämä kaksi nähtävyyttä ovat helppo kävelymatka linja-autoasemalta."
           }
         },
         {
@@ -1698,7 +1852,8 @@
             "de": "Edelsteinmuseum",
             "hu": "Drágakőmúzeum",
             "ro": "Muzeul de Pietre Prețioase",
-            "en": "Gemstone Museum"
+            "en": "Gemstone Museum",
+            "fi": "Jalokivimuseo"
           },
           "coords": [
             24.563,
@@ -1714,7 +1869,8 @@
             "de": "Ein kurzer Spaziergang durch das Zentrum führt Sie zu den funkelnden Schätzen.",
             "hu": "Egy rövid séta a központon keresztül elvezeti a csillogó kincsekhez.",
             "ro": "O scurtă plimbare prin centru vă duce la comorile sclipitoare.",
-            "en": "A short walk through the center brings you to the sparkling treasures."
+            "en": "A short walk through the center brings you to the sparkling treasures.",
+            "fi": "Lyhyt kävely keskustan läpi tuo sinut kimaltavien aarteiden luo."
           }
         },
         {
@@ -1722,7 +1878,8 @@
             "de": "Cluster 2: Hafenbereich (Busfahrt)",
             "hu": "2. klaszter: Kikötő (Buszozás)",
             "ro": "Cluster 2: Zona Portuară (Călătorie cu autobuzul)",
-            "en": "Cluster 2: Harbour Area (Bus Ride)"
+            "en": "Cluster 2: Harbour Area (Bus Ride)",
+            "fi": "Klusteri 2: Satama-alue (Bussimatka)"
           },
           "coords": [
             24.5585,
@@ -1738,7 +1895,8 @@
             "de": "Nehmen Sie einen Bus zum Hafen für den nächsten Teil Ihres Abenteuers.",
             "hu": "Vegyen egy buszt a kikötőbe a kaland következő részéhez.",
             "ro": "Luați un autobuz spre port pentru următoarea parte a aventurii.",
-            "en": "Take a bus to the harbour for the next part of your adventure."
+            "en": "Take a bus to the harbour for the next part of your adventure.",
+            "fi": "Ota bussi satamaan seuraavaa osuutta varten."
           }
         },
         {
@@ -1746,7 +1904,8 @@
             "de": "Schneeschloss & Eisbrecher Sampo",
             "hu": "Hóvár és Sampo Jégtörő",
             "ro": "Castelul de Zăpadă și Spărgătorul Sampo",
-            "en": "SnowCastle & Icebreaker Sampo"
+            "en": "SnowCastle & Icebreaker Sampo",
+            "fi": "Lumilinna & Jäänmurtaja Sampo"
           },
           "coords": [
             24.5575,
@@ -1762,7 +1921,8 @@
             "de": "Verbringen Sie den ganzen Nachmittag hier, inklusive Mittagessen und Erkundung beider Attraktionen.",
             "hu": "Töltse itt az egész délutánt, beleértve az ebédet és mindkét látnivaló felfedezését.",
             "ro": "Petreceți întreaga după-amiază aici, incluzând prânzul și explorarea ambelor atracții.",
-            "en": "Spend the whole afternoon here, including lunch and exploring both attractions."
+            "en": "Spend the whole afternoon here, including lunch and exploring both attractions.",
+            "fi": "Vietä koko iltapäivä täällä, mukaan lukien lounas ja molempien nähtävyyksien tutkiminen."
           }
         }
       ],
@@ -1770,7 +1930,8 @@
         "de": "Mit den öffentlichen Verkehrsmitteln beginnt Ihr Tag im Herzen von Kemi, wo Sie die Kirche, das Kulturzentrum und das Edelsteinmuseum zu Fuß erkunden. Gegen Mittag bringt Sie ein Bus bequem zum Hafen. Dort verbringen Sie einen langen, entspannten Nachmittag mit der Erkundung des Schneeschlosses und des Eisbrechers Sampo und genießen ein Mittagessen am Meer. Am späten Nachmittag nehmen Sie einfach einen Bus zurück ins Zentrum.",
         "hu": "Tömegközlekedéssel a napja Kemi szívében kezdődik, ahol gyalog fedezi fel a templomot, a kulturális központot és a drágakőmúzeumot. Dél körül egy busz kényelmesen elviszi a kikötőbe. Ott egy hosszú, pihentető délutánt tölt a Hóvár és a Sampo jégtörő felfedezésével, és élvezi az ebédet a tengerparton. Késő délután egyszerűen busszal tér vissza a központba.",
         "ro": "Folosind transportul public, ziua dvs. începe în inima orașului Kemi, explorând pe jos biserica, centrul cultural și muzeul de pietre prețioase. În jurul prânzului, un autobuz vă duce confortabil în port. Acolo veți petrece o după-amiază lungă și relaxantă explorând Castelul de Zăpadă și spărgătorul Sampo, savurând prânzul pe malul mării. La sfârșitul după-amiezii, luați pur și simplu un autobuz înapoi în centru.",
-        "en": "Using public transit, your day starts in the heart of Kemi, exploring the church, cultural center, and gemstone museum on foot. Around noon, a bus takes you comfortably to the harbour. There, you'll spend a long, relaxed afternoon exploring the SnowCastle and Icebreaker Sampo, enjoying lunch by the sea. In the late afternoon, you simply take a bus back to the center."
+        "en": "Using public transit, your day starts in the heart of Kemi, exploring the church, cultural center, and gemstone museum on foot. Around noon, a bus takes you comfortably to the harbour. There, you'll spend a long, relaxed afternoon exploring the SnowCastle and Icebreaker Sampo, enjoying lunch by the sea. In the late afternoon, you simply take a bus back to the center.",
+        "fi": "Julkisilla kulkuvälineillä päiväsi alkaa Kemin sydämessä, jossa tutkit kirkon, kulttuurikeskuksen ja jalokivimuseon jalkaisin. Puolilta päivin bussi vie sinut mukavasti satamaan. Siellä vietät pitkän, rauhallisen iltapäivän Lumilinnan ja jäänmurtaja Sampon tutkimiseen ja nautit lounaan meren äärellä. Myöhään iltapäivällä otat bussin takaisin keskustaan."
       },
       "gastro_picks": {
         "de": [
@@ -1926,6 +2087,11 @@
           "Buy a day pass for the bus to save money.",
           "Check the bus schedule in advance, especially for the return trip from the harbour.",
           "Buses are an efficient way to cover the slightly longer distances to the main attractions."
+        ],
+        "fi": [
+          "Osta päivälippu bussille säästääksesi rahaa.",
+          "Tarkista bussin aikataulu etukäteen, erityisesti paluuta varten satamasta.",
+          "Bussit ovat tehokas tapa kattaa hieman pidemmät etäisyydet pääkohteisiin."
         ]
       },
       "variants": {
@@ -1934,7 +2100,8 @@
             "de": "Mit den lokalen Bussen erkunden Sie Kemi bei Regen ganz entspannt. Starten Sie im Zentrum und besuchen Sie die nahegelegene Kirche. Kurze Busfahrten bringen Sie trocken zum Kulturzentrum und zum Edelsteinmuseum am Hafen. Nachmittags ist die Verbindung zum SnowCastle ideal, um dem Wetter zu entfliehen. Die Tour endet mit einer komfortablen Busfahrt zurück zu Ihrem Ausgangspunkt.",
             "hu": "A helyi buszokkal kényelmesen bejárhatja Kemit esős időben is. Kezdjen a központban, ahol a templom sétatávolságra van. Rövid buszutak visznek szárazon a Kulturális Központhoz és a kikötői Drágakőmúzeumhoz. Délután a SnowCastle felé tartó járatok segítenek elkerülni az esőt. A túra egy kényelmes buszos visszautazással zárul a kiindulópontra.",
             "ro": "Cu autobuzele locale, puteți explora Kemi pe ploaie fără stres. Începeți în centru și vizitați biserica din apropiere. Cursele scurte de autobuz vă duc la Centrul Cultural și la Muzeul Pietrelor Prețioase din port. După-amiaza, conexiunea spre SnowCastle este ideală pentru a scăpa de vremea rea. Turul se încheie cu o cursă confortabilă înapoi spre punctul de plecare.",
-            "en": "Using local buses, you can explore Kemi in the rain without any stress. Start in the center and visit the nearby church. Short bus rides will take you dryly to the Cultural Centre and the Gemstone Museum at the harbor. In the afternoon, the connection to SnowCastle is ideal for escaping the weather. The tour ends with a comfortable bus ride back to your starting point."
+            "en": "Using local buses, you can explore Kemi in the rain without any stress. Start in the center and visit the nearby church. Short bus rides will take you dryly to the Cultural Centre and the Gemstone Museum at the harbor. In the afternoon, the connection to SnowCastle is ideal for escaping the weather. The tour ends with a comfortable bus ride back to your starting point.",
+            "fi": "Käyttäen julkista liikennettä, voit tutkia Kemiä sateessa ilman stressiä. Aloita keskustasta ja käy läheisellä kirkolla. Lyhyet bussimatkat vievät sinut kuivana kulttuurikeskukseen ja Jalokivimuseolle satama-alueella. Iltapäivällä yhteys Lumilinnaan on ihanteellinen säältä suojautumiseen. Kierros päättyy mukavaan bussimatkaan takaisin lähtöpisteeseesi."
           },
           "stops": [
             {
@@ -1943,7 +2110,8 @@
                 "de": "Zentraler Busknotenpunkt mit überdachten Wartebereichen.",
                 "hu": "Központi buszcsomópont fedett várakozókkal.",
                 "ro": "Nod central de transport cu zone de așteptare acoperite.",
-                "en": "Central bus hub with sheltered waiting areas."
+                "en": "Central bus hub with sheltered waiting areas.",
+                "fi": "Keskusliikenteen solmukohta katetuilla odotusalueilla."
               }
             },
             {
@@ -1952,7 +2120,8 @@
                 "de": "Beide Ziele sind nur einen kurzen Sprint von der Bushaltestelle entfernt.",
                 "hu": "Mindkét célpont csak egy rövid sprintre van a buszmegállótól.",
                 "ro": "Ambele destinații sunt la o scurtă fugă de stația de autobuz.",
-                "en": "Both destinations are just a short sprint from the bus stop."
+                "en": "Both destinations are just a short sprint from the bus stop.",
+                "fi": "Molemmat kohteet ovat vain lyhyen juoksun päässä bussipysäkiltä."
               }
             },
             {
@@ -1961,7 +2130,8 @@
                 "de": "Prüfen Sie die Abfahrtszeiten online, um Wartezeiten im Regen zu minimieren.",
                 "hu": "Ellenőrizze a menetrendet online, hogy keveset várjon az esőben.",
                 "ro": "Verificați programul online pentru a minimiza așteptarea în ploaie.",
-                "en": "Check departure times online to minimize waiting in the rain."
+                "en": "Check departure times online to minimize waiting in the rain.",
+                "fi": "Tarkista lähtöajat verkossa minimoidaksesi odottelun sateessa."
               }
             },
             {
@@ -1970,7 +2140,8 @@
                 "de": "Genießen Sie die trockene Fahrt, während es draußen stürmt.",
                 "hu": "Élvezze a száraz utazást, amíg kint tombol a szél.",
                 "ro": "Bucurați-vă de călătoria uscată în timp ce afară este furtună.",
-                "en": "Enjoy the dry ride while it's stormy outside."
+                "en": "Enjoy the dry ride while it's stormy outside.",
+                "fi": "Nauti kuivasta kyydistä myrskyn ulkopuolella."
               }
             },
             {
@@ -1979,7 +2150,8 @@
                 "de": "Die Haltestelle ist nah am SnowCastle 365 Eingang.",
                 "hu": "A megálló közel van a SnowCastle 365 bejáratához.",
                 "ro": "Stația este aproape de intrarea SnowCastle 365.",
-                "en": "The stop is close to the SnowCastle 365 entrance."
+                "en": "The stop is close to the SnowCastle 365 entrance.",
+                "fi": "Pysäkki on lähellä SnowCastle 365 -sisäänkäyntiä."
               }
             }
           ],
@@ -2011,6 +2183,13 @@
               "Look for sheltered bus stops while waiting.",
               "Use real-time bus tracking on your smartphone.",
               "A small umbrella is useful for the walk to the bus stop."
+            ],
+            "fi": [
+              "Osta liput etukäteen sovelluksella välttääksesi kömpelyyden sateessa.",
+              "Kemin bussit ovat täsmällisiä ja hyvin lämpimöitä.",
+              "Etsi katettuja bussipysäkkejä odottaessasi.",
+              "Käytä reaaliaikaista bussinseurantaa älypuhelimellasi.",
+              "Pieni sateenvarjo on hyödyllinen kävelylle bussipysäkille."
             ]
           }
         },
@@ -2019,7 +2198,8 @@
             "de": "Der öffentliche Nahverkehr ist im Winter eine warme Verbindung zwischen den Sehenswürdigkeiten Kemis. Starten Sie im verschneiten Zentrum. Warme Busse bringen Sie bequem zum Kulturzentrum und zum Hafenbereich. Mittags wärmen Sie im Edelsteinmuseum auf, bevor der Bus Sie zum SnowCastle bringt, wo das Eis im Winterlicht glänzt. Die Tour endet mit einer gemütlichen Fahrt zurück ins Herz der Stadt.",
             "hu": "A tömegközlekedés télen meleg összeköttetést biztosít Kemi látnivalói között. Kezdjen a havas központban. A fűtött buszok kényelmesen viszik el a Kulturális Központhoz és a kikötőhöz. Délben melegedjen át a Drágakőmúzeumban, majd buszozzon a SnowCastle-hoz, ahol a jég csillog a téli fényben. A túra egy hangulatos visszautazással zárul a város szívébe.",
             "ro": "Transportul public este o legătură caldă între atracțiile din Kemi pe timp de iarnă. Începeți în centrul înzăpezit. Autobuzele încălzite vă duc confortabil la Centrul Cultural și în zona portului. La prânz, încălziți-vă la Muzeul Pietrelor Prețioase înainte de a lua autobuzul spre SnowCastle. Turul se încheie cu o călătorie plăcută înapoi în inima orașului.",
-            "en": "Public transport serves as a warm link between Kemi's sights in winter. Start in the snowy center. Heated buses take you comfortably to the Cultural Centre and the harbor area. At noon, warm up in the Gemstone Museum before taking the bus to the SnowCastle, where the ice glitters in the winter light. The tour ends with a cozy ride back to the heart of the city."
+            "en": "Public transport serves as a warm link between Kemi's sights in winter. Start in the snowy center. Heated buses take you comfortably to the Cultural Centre and the harbor area. At noon, warm up in the Gemstone Museum before taking the bus to the SnowCastle, where the ice glitters in the winter light. The tour ends with a cozy ride back to the heart of the city.",
+            "fi": "Julkinen liikenne toimii lämpimänä linkkinä Kemin nähtävyyksien välillä talvella. Aloita lumisesta keskustasta. Lämmitetyt bussit vievät sinut mukavasti kulttuurikeskukseen ja satama-alueelle. Keskipäivällä lämmitä itsesi Jalokivimuseossa ennen bussin ottamista Lumilinnaan, jossa jää kimaltelee talven valossa. Kierros päättyy viihtyisään ajomatkaan takaisin kaupungin sydämeen."
           },
           "stops": [
             {
@@ -2028,7 +2208,8 @@
                 "de": "Vorsicht vor Schneehaufen beim Aussteigen aus dem Bus.",
                 "hu": "Vigyázzon a hóbuckákra a buszról való leszálláskor.",
                 "ro": "Atenție la mormanele de zăpadă la coborârea din autobuz.",
-                "en": "Watch out for snow piles when getting off the bus."
+                "en": "Watch out for snow piles when getting off the bus.",
+                "fi": "Varo lumikasojen muodostumista bussista poistuessa."
               }
             },
             {
@@ -2037,7 +2218,8 @@
                 "de": "Die Busse fahren hier im Winter zuverlässig nach Plan.",
                 "hu": "A buszok télen is megbízhatóan közlekednek itt.",
                 "ro": "Autobuzele circulă fiabil conform programului chiar și iarna.",
-                "en": "Buses run reliably according to schedule here even in winter."
+                "en": "Buses run reliably according to schedule here even in winter.",
+                "fi": "Bussit kulkevat täällä luotettavasti aikataulun mukaan jopa talvella."
               }
             },
             {
@@ -2046,7 +2228,8 @@
                 "de": "Warten Sie drinnen im Museumsshop, bis der Bus fällig ist.",
                 "hu": "Várjon bent a múzeumi boltban, amíg a busz érkezik.",
                 "ro": "Așteptați în magazinul muzeului până când trebuie să vină autobuzul.",
-                "en": "Wait inside the museum shop until the bus is due."
+                "en": "Wait inside the museum shop until the bus is due.",
+                "fi": "Odota museokaupassa bussin lähtöä."
               }
             },
             {
@@ -2055,7 +2238,8 @@
                 "de": "Ein schöner Blick auf die Winterlandschaft vom Fensterplatz.",
                 "hu": "Szép kilátás a téli tájra az ablak melletti ülésről.",
                 "ro": "O vedere frumoasă a peisajului de iarnă de la fereastră.",
-                "en": "Great views of the winter landscape from the window seat."
+                "en": "Great views of the winter landscape from the window seat.",
+                "fi": "Loistavat näkymät talvimaisemaan ikkunapaikalta."
               }
             },
             {
@@ -2064,7 +2248,8 @@
                 "de": "Die Haltestelle kann im Winter etwas verschneit sein.",
                 "hu": "A megálló télen kissé havas lehet, figyeljen a lába elé.",
                 "ro": "Stația poate fi înzăpezită iarna, atenție la pași.",
-                "en": "The bus stop might be snowy in winter; watch your step."
+                "en": "The bus stop might be snowy in winter; watch your step.",
+                "fi": "Bussipysäkki saattaa olla lumen peitossa talvella; katso askeltasi."
               }
             }
           ],
@@ -2096,6 +2281,13 @@
               "Wear reflectors so the bus driver can see you in the dark.",
               "Bus frequency might be reduced on winter weekends.",
               "Keep the transit app ready on your phone."
+            ],
+            "fi": [
+              "Suomalaiset bussit ovat erittäin luotettavia, jopa voimakkaassa lumisateessa.",
+              "Käytä bussin lämmitystä lämmetäksesi pysähdysten välillä.",
+              "Käytä heijastimia, jotta bussikuski näkee sinut pimeässä.",
+              "Bussien vuoroväli saattaa olla harvempaa talviviikonloppuisin.",
+              "Pidä liikkumissovellus valmiina puhelimessasi."
             ]
           }
         }

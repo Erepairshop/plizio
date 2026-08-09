@@ -21,7 +21,8 @@
             "de": "Rathaus von Kokkola",
             "hu": "Kokkolai Városháza",
             "ro": "Primăria din Kokkola",
-            "en": "Kokkola Town Hall"
+            "en": "Kokkola Town Hall",
+            "fi": "Kokkolan raatihuone"
           },
           "coords": [
             23.1322,
@@ -37,7 +38,8 @@
             "de": "Bewundern Sie die nationale romantische Architektur und die zentrale Lage.",
             "hu": "Csodálja meg a nemzeti romantikus építészetet és a központi elhelyezkedést.",
             "ro": "Admirați arhitectura romantică națională și locația sa centrală.",
-            "en": "Admire the National Romantic architecture and its central location."
+            "en": "Admire the National Romantic architecture and its central location.",
+            "fi": "Ihaile kansallisromanttista arkkitehtuuria ja sen keskeistä sijaintia."
           }
         },
         {
@@ -45,7 +47,8 @@
             "de": "Neristan (Altstadt)",
             "hu": "Neristan (Óváros)",
             "ro": "Neristan (Orașul vechi)",
-            "en": "Neristan (Old Town)"
+            "en": "Neristan (Old Town)",
+            "fi": "Neristan (Vanha kaupunki)"
           },
           "coords": [
             23.1305,
@@ -61,7 +64,8 @@
             "de": "Verlieren Sie sich in den engen Gassen mit bunten Holzhäusern.",
             "hu": "Vesszen el a szűk utcácskákban a színes faházak között.",
             "ro": "Pierdeți-vă pe străduțele înguste cu case de lemn colorate.",
-            "en": "Get lost in the narrow streets with colourful wooden houses."
+            "en": "Get lost in the narrow streets with colourful wooden houses.",
+            "fi": "Eksy kapeilla kaduilla, joissa värikkäitä puutaloja."
           }
         },
         {
@@ -69,7 +73,8 @@
             "de": "K.H. Renlund Museum",
             "hu": "K.H. Renlund Múzeum",
             "ro": "Muzeul K.H. Renlund",
-            "en": "K.H. Renlund Museum"
+            "en": "K.H. Renlund Museum",
+            "fi": "K.H. Renlundin museo"
           },
           "coords": [
             23.1298,
@@ -85,7 +90,8 @@
             "de": "Das Museum ist in mehreren Gebäuden in Neristan verteilt. Verpassen Sie nicht das Kieppi Naturhistorische Museum.",
             "hu": "A múzeum több épületben található Neristanban. Ne hagyja ki a Kieppi Természettudományi Múzeumot.",
             "ro": "Muzeul este împărțit în mai multe clădiri din Neristan. Nu ratați Muzeul de Istorie Naturală Kieppi.",
-            "en": "The museum is spread across several buildings in Neristan. Don't miss the Kieppi Natural History Museum."
+            "en": "The museum is spread across several buildings in Neristan. Don't miss the Kieppi Natural History Museum.",
+            "fi": "Museo levittäytyy useaan rakennukseen Neristanissa. Älä jätä väliin Kieppi-luonnontieteellistä museota."
           }
         },
         {
@@ -93,7 +99,8 @@
             "de": "Englischer Park",
             "hu": "Angol Park",
             "ro": "Parcul Englez",
-            "en": "English Park"
+            "en": "English Park",
+            "fi": "Englanninpuisto"
           },
           "coords": [
             23.1355,
@@ -109,7 +116,8 @@
             "de": "Ein schöner Ort für ein Picknick oder einfach nur zum Entspannen am Wasser.",
             "hu": "Szép hely egy piknikhez vagy csak pihenni a vízparton.",
             "ro": "Un loc frumos pentru un picnic sau doar pentru a vă relaxa lângă apă.",
-            "en": "A lovely spot for a picnic or just to relax by the water."
+            "en": "A lovely spot for a picnic or just to relax by the water.",
+            "fi": "Ihana paikka piknikille tai rentoutumiselle veden äärellä."
           }
         },
         {
@@ -117,7 +125,8 @@
             "de": "Kirche von Kaarlela",
             "hu": "Kaarlela-i templom",
             "ro": "Biserica din Kaarlela",
-            "en": "Kaarlela Church"
+            "en": "Kaarlela Church",
+            "fi": "Kaarlela kirkko"
           },
           "coords": [
             23.133,
@@ -133,7 +142,8 @@
             "de": "Eine der ältesten Steinkirchen in Mittelfinnland mit mittelalterlichem Ursprung.",
             "hu": "Közép-Finnország egyik legrégebbi kőtemploma, középkori gyökerekkel.",
             "ro": "Una dintre cele mai vechi biserici de piatră din Ostrobotnia Centrală, cu origini medievale.",
-            "en": "One of the oldest stone churches in Central Ostrobothnia, with medieval origins."
+            "en": "One of the oldest stone churches in Central Ostrobothnia, with medieval origins.",
+            "fi": "Yksi Keski-Pohjanmaan vanhimmista kivikirkoista, keskiaikaisin juurin."
           }
         },
         {
@@ -141,7 +151,8 @@
             "de": "Mustakari",
             "hu": "Mustakari",
             "ro": "Mustakari",
-            "en": "Mustakari"
+            "en": "Mustakari",
+            "fi": "Mustakari"
           },
           "coords": [
             23.109,
@@ -157,7 +168,8 @@
             "de": "Genießen Sie die Meeresbrise und den Blick auf den Archipel vom Yachthafen aus.",
             "hu": "Élvezze a tengeri szellőt és a szigetvilág látványát a kikötőből.",
             "ro": "Bucurați-vă de briza mării și de vederea arhipelagului din portul de agrement.",
-            "en": "Enjoy the sea breeze and the view of the archipelago from the marina."
+            "en": "Enjoy the sea breeze and the view of the archipelago from the marina.",
+            "fi": "Nauti merituulesta ja saaristonäkymästä satamasta."
           }
         }
       ],
@@ -165,7 +177,8 @@
         "de": "Ihr Tag in Kokkola beginnt am architektonisch reizvollen Rathaus, bevor Sie in die charmanten Holzhausgassen von Neristan eintauchen. Nach einem tiefen Einblick in die lokale Geschichte im K.H. Renlund Museum, das sich über mehrere Gebäude erstreckt, ist es Zeit für eine Mittagspause. Am Nachmittag schlendern Sie durch den Englischen Park und besuchen die historische Kirche von Kaarlela, eine der ältesten der Region. Der Tag endet am Meer in Mustakari, wo Sie die frische Meeresbrise und die Aussicht auf den Schärengarten genießen, bevor Sie den Abend ausklingen lassen.",
         "hu": "A kokkolai nap a lenyűgöző építészeti stílusú Városházánál kezdődik, mielőtt elmerülne Neristan bájos, faházakkal szegélyezett utcáin. Miután a több épületben elhelyezkedő K.H. Renlund Múzeumban mélyrehatóan megismerte a helyi történelmet, ideje ebédelni. Délután sétáljon át az Angol Parkon, és látogasson el a történelmi Kaarlela-i templomhoz, a régió egyik legrégebbi templomához. A nap a tengerparton, Mustakariban ér véget, ahol élvezheti a friss tengeri szellőt és a szigetvilágra nyíló kilátást, mielőtt lezárná az estét.",
         "ro": "Ziua dvs. în Kokkola începe la Primăria cu arhitectură impresionantă, înainte de a vă cufunda în străduțele fermecătoare cu case de lemn din Neristan. După o incursiune profundă în istoria locală la Muzeul K.H. Renlund, care se întinde pe mai multe clădiri, este timpul pentru o pauză de prânz. După-amiaza, vă plimbați prin Parcul Englez și vizitați biserica istorică din Kaarlela, una dintre cele mai vechi din regiune. Ziua se încheie la malul mării, în Mustakari, unde vă bucurați de briza proaspătă și de vederea arhipelagului înainte de a încheia seara.",
-        "en": "Your day in Kokkola begins at the architecturally pleasing Town Hall before you dive into the charming wooden house streets of Neristan. After a deep dive into local history at the K.H. Renlund Museum, which is spread across several buildings, it's time for a lunch break. In the afternoon, you'll stroll through the English Park and visit the historic Kaarlela Church, one of the oldest in the region. The day concludes by the sea at Mustakari, enjoying the fresh sea breeze and the archipelago view before winding down for the evening."
+        "en": "Your day in Kokkola begins at the architecturally pleasing Town Hall before you dive into the charming wooden house streets of Neristan. After a deep dive into local history at the K.H. Renlund Museum, which is spread across several buildings, it's time for a lunch break. In the afternoon, you'll stroll through the English Park and visit the historic Kaarlela Church, one of the oldest in the region. The day concludes by the sea at Mustakari, enjoying the fresh sea breeze and the archipelago view before winding down for the evening.",
+        "fi": "Päiväsi Kokkolassa alkaa arkkitehtonisesti kauniilta raatihuoneelta ennen kuin sukellet vaaleiden puutalojen kapeisiin kadunvarsikortteleihin Neristanissa. Paikallishistorian syväluotaus K.H. Renlundin museossa, joka sijaitsee useassa rakennuksessa, vie sinut lounastauolle. Iltapäivällä kävelet Englanninpuiston läpi ja vierailet historiallisessa Kaarlela kirkossa, joka on yksi alueen vanhimmista. Päivä päättyy meren äärelle Mustakariin, nauttien raikkaasta merituulesta ja saaristonäkymästä ennen iltaa."
       },
       "gastro_picks": {
         "de": [
@@ -325,6 +338,12 @@
           "Most attractions in the city center are within easy walking distance.",
           "Allow plenty of time for the K.H. Renlund Museum as it consists of several parts.",
           "Check the opening hours for the church as they can vary."
+        ],
+        "fi": [
+          "Pue mukavat kengät, sillä Neristanin mukulakivet voivat olla epätasaisia.",
+          "Suurin osa nähtävyyksistä keskusta-alueella on helposti kävelyetäisyyden päässä.",
+          "Varaa riittävästi aikaa K.H. Renlundin museolle, sillä se koostuu useammasta osasta.",
+          "Tarkista kirkon aukioloajat, sillä ne voivat vaihdella."
         ]
       },
       "variants": {
@@ -333,7 +352,8 @@
             "de": "Beginnen Sie Ihren Tag am Rathaus von Kokkola, wo das klassizistische Gebäude auch im Regen Eleganz ausstrahlt. Mittags bietet das K.H. Renlund Museum perfekten Schutz und tiefe Einblicke in die Kunstgeschichte der Region. Nachmittags führen die engen Gassen von Neristan an bunten Holzhäusern vorbei, die bei feuchtem Wetter besonders kräftig leuchten. Den Abend lassen Sie gemütlich in einem der Cafés nahe Mustakari ausklingen, während der Regen auf die Ostsee peitscht.",
             "hu": "Kezdje a napot a városháza klasszicista épületénél, amely esőben is méltóságteljes. Délben a K.H. Renlund Múzeum nyújt menedéket és gazdag művészeti élményeket a város szívében. Délután Neristan ódon faházai között sétálva a nedves macskakövek és az élénk színek különleges hangulatot árasztanak. Az estét Mustakari környékén, egy meleg itallal a kézben zárhatja, figyelve a tenger feletti esőfelhőket.",
             "ro": "Începeți ziua la Primăria din Kokkola, a cărei arhitectură clasicistă rămâne impunătoare chiar și sub ploaie. La prânz, Muzeul K.H. Renlund oferă un refugiu cultural ideal și o incursiune în istoria artei locale. După-amiaza, străzile din Neristan capătă un farmec aparte, culorile caselor de lemn fiind accentuate de umezeală. Seara se încheie relaxant lângă Mustakari, ascultând ropotele ploii peste apele înghețate ale Golfului Botnic.",
-            "en": "Start your day at Kokkola Town Hall, where the neoclassical facade stands proud even under grey skies. At noon, the K.H. Renlund Museum provides a perfect indoor escape filled with regional art and history. Afternoon walks through Neristan reveal vibrant wooden houses that seem even more colorful in the rain. End your evening near Mustakari, enjoying the dramatic maritime atmosphere as the rain meets the Baltic Sea."
+            "en": "Start your day at Kokkola Town Hall, where the neoclassical facade stands proud even under grey skies. At noon, the K.H. Renlund Museum provides a perfect indoor escape filled with regional art and history. Afternoon walks through Neristan reveal vibrant wooden houses that seem even more colorful in the rain. End your evening near Mustakari, enjoying the dramatic maritime atmosphere as the rain meets the Baltic Sea.",
+            "fi": "Aloita päiväsi Kokkolan raatihuoneelta, jonka uusklassinen julkisivu seisoo ylpeänä jopa harmailla säillä. Keskipäivällä K.H. Renlundin museo tarjoaa täydellisen sisäturvapaikan alueelliselle taiteelle ja historialle. Iltapäiväkävelyt Neristanissa paljastavat värikkäitä puutaloja, jotka näyttävät sateessa entistä elo­isammilta. Päivä päättyy Mustakariin meren äärelle, nauttien dramaattisesta merellisestä tunnelmasta sateen kohtaessa Pohjanlahden."
           },
           "stops": [
             {
@@ -342,7 +362,8 @@
                 "de": "Suchen Sie Schutz unter den breiten Arkaden des Haupteingangs.",
                 "hu": "Használja a főbejárat széles árkádjait az eső elleni védekezéshez.",
                 "ro": "Adăpostiți-vă sub arcadele largi de la intrarea principală.",
-                "en": "Seek shelter under the wide arcades of the main entrance."
+                "en": "Seek shelter under the wide arcades of the main entrance.",
+                "fi": "Etsi suojaa pääsisäänkäynnin leveiden kaarikaarekkeiden alta."
               }
             },
             {
@@ -351,7 +372,8 @@
                 "de": "Vorsicht auf dem Kopfsteinpflaster, es kann bei Nässe rutschig sein.",
                 "hu": "Vigyázzon a macskaköveken, nedvesen rendkívül csúszósak lehetnek.",
                 "ro": "Atenție pe piatra cubică, poate fi foarte alunecoasă când este udă.",
-                "en": "Watch your step on the cobblestones; they can be slippery when wet."
+                "en": "Watch your step on the cobblestones; they can be slippery when wet.",
+                "fi": "Katso askeltasi mukulakivillä; ne voivat olla liukkaita kastuessaan."
               }
             },
             {
@@ -360,7 +382,8 @@
                 "de": "Nutzen Sie die Garderobe, um Ihre nassen Regensachen zu trocknen.",
                 "hu": "Használja a ruhatárat a vizes esőkabátok és esernyők tárolására.",
                 "ro": "Folosiți garderoba pentru a vă lăsa hainele de ploaie la uscat.",
-                "en": "Use the cloakroom to dry your wet rain gear while exploring."
+                "en": "Use the cloakroom to dry your wet rain gear while exploring.",
+                "fi": "Käytä naulakkoa tai narikkaa kuivataksesi märän sadevaatetuksen kiertäessäsi."
               }
             },
             {
@@ -369,7 +392,8 @@
                 "de": "Die dichten Bäume bieten einen natürlichen Schirm bei leichtem Niesel.",
                 "hu": "A sűrű lombozatú fák természetes ernyőként szolgálnak szemerkélő esőben.",
                 "ro": "Copacii deși oferă o umbrelă naturală în caz de burniță.",
-                "en": "Dense trees provide a natural canopy during light drizzle."
+                "en": "Dense trees provide a natural canopy during light drizzle.",
+                "fi": "Tiheä puusto tarjoaa luonnollisen katoksen kevyessä tihkusateessa."
               }
             },
             {
@@ -378,7 +402,8 @@
                 "de": "Ein ruhiger, trockener Ort für Besinnung während eines Schauers.",
                 "hu": "Csendes és száraz hely az elmélyüléshez egy nagyobb zápor idején.",
                 "ro": "Un loc liniștit și uscat pentru reflecție în timpul unei averse.",
-                "en": "A quiet and dry sanctuary for reflection during a heavy downpour."
+                "en": "A quiet and dry sanctuary for reflection during a heavy downpour.",
+                "fi": "Hiljainen ja kuiva pakopaikka pohdiskeluun rankkasateen aikana."
               }
             },
             {
@@ -387,7 +412,8 @@
                 "de": "Das Restaurant bietet einen tollen Blick auf den Regen über dem Meer.",
                 "hu": "Az étterem ablakából lenyűgöző a kilátás a tengeri viharra.",
                 "ro": "Restaurantul oferă o priveliște excelentă asupra ploii deasupra mării.",
-                "en": "The restaurant offers a great view of the rain over the sea."
+                "en": "The restaurant offers a great view of the rain over the sea.",
+                "fi": "Ravintolasta on upea näköala sateeseen meren yllä."
               }
             }
           ],
@@ -419,6 +445,13 @@
               "Most museums are closed on Mondays, so double-check the schedule.",
               "Schedule coffee breaks to warm up and dry off between stops.",
               "Distances are short, but rain can make the walk feel longer."
+            ],
+            "fi": [
+              "Pue vedenpitävät jalkineet lätäköiden varalta Neristanin alueella.",
+              "Tuulenpitävä sateenvarjo on välttämätön rannikon puuskien takia.",
+              "Useimmat museot ovat suljettuina maanantaisin, joten tarkista aikataulu etukäteen.",
+              "Aikatauluta kahvitaukoja lämmitelläksesi ja kuivautuaksesi pysäkkien välillä.",
+              "Etäisyydet ovat lyhyitä, mutta sade voi tehdä kävelystä raskaamman tuntuisen."
             ]
           }
         },
@@ -427,7 +460,8 @@
             "de": "Erleben Sie das winterliche Kokkola, beginnend am hell beleuchteten Rathaus in der Morgendämmerung. Mittags bieten die historischen Ausstellungen im Renlund Museum wohlige Wärme und Kultur. Der Nachmittag gehört dem verschneiten Neristan, wo die Holzhäuser wie in einer Weihnachtskarte wirken. Da die Sonne früh untergeht, beenden Sie den Tag frühzeitig bei Kaarlela oder Mustakari, um das blaue Licht der Polarnacht über dem Eis zu genießen.",
             "hu": "Fedezze fel a téli Kokkolát, kezdve a kivilágított városházánál a reggeli szürkületben. Délben a Renlund Múzeum kiállításai nyújtanak menedéket a csípős hideg elől. Délután a havas Neristan faházai között sétálva igazi mesevilágban érezheti magát. Mivel korán sötétedik, az estét a Kaarlela templom környékén vagy a befagyott tengerpartnál zárja, élvezve a kék órát.",
             "ro": "Experimentați Kokkola în haine de iarnă, începând de la Primărie în lumina albastră a dimineții. La prânz, expozițiile Muzeului Renlund oferă căldură și o perspectivă asupra artei finlandeze. După-amiaza, cartierul Neristan acoperit de zăpadă arată ca o felicitare de Crăciun. Deoarece soarele apune devreme, încheiați vizita la Kaarlela sau Mustakari pentru a admira gheața golfului sub cerul înstelat.",
-            "en": "Experience winter in Kokkola, starting at the brightly lit Town Hall during the polar twilight. At noon, the Renlund Museum's galleries offer cozy warmth and local culture. Spend the afternoon in snowy Neristan, where wooden houses resemble a Christmas card scene. As the sun sets early, finish your day at Kaarlela or Mustakari to witness the magical blue light over the frozen sea."
+            "en": "Experience winter in Kokkola, starting at the brightly lit Town Hall during the polar twilight. At noon, the Renlund Museum's galleries offer cozy warmth and local culture. Spend the afternoon in snowy Neristan, where wooden houses resemble a Christmas card scene. As the sun sets early, finish your day at Kaarlela or Mustakari to witness the magical blue light over the frozen sea.",
+            "fi": "Koe talvi Kokkolassa aloittaen kirkkaasti valaistulta raatihuoneelta napapiirin hämärässä. Keskipäivällä Renlundin museon galleriat tarjoavat kodikasta lämpöä ja paikallista kulttuuria. Vietä iltapäivä lumisessa Neristanissa, jossa puutalot muistuttavat joulukorttikuvaa. Kun aurinko laskee aikaisin, päätä päivä Kaarlelassa tai Mustakarissa ihaillen taianomaista sinistä valoa jäätyneen meren yllä."
           },
           "stops": [
             {
@@ -436,7 +470,8 @@
                 "de": "Bewundern Sie die Weihnachtsbeleuchtung am Platz vor dem Gebäude.",
                 "hu": "Csodálja meg az ünnepi kivilágítást a városháza előtti téren.",
                 "ro": "Admirați luminile de Crăciun din piața din fața clădirii.",
-                "en": "Admire the festive holiday lights in the square in front of the building."
+                "en": "Admire the festive holiday lights in the square in front of the building.",
+                "fi": "Ihaile juhlavalaistusta aukion edessä olevan rakennuksen ympärillä."
               }
             },
             {
@@ -445,7 +480,8 @@
                 "de": "Achten Sie auf Eiszapfen an den Dächern der alten Holzhäuser.",
                 "hu": "Ügyeljen a tetőkről lelógó jégcsapokra a régi faházaknál.",
                 "ro": "Atenție la țurțurii de gheață de pe acoperișurile caselor vechi.",
-                "en": "Watch out for icicles hanging from the roofs of the old wooden houses."
+                "en": "Watch out for icicles hanging from the roofs of the old wooden houses.",
+                "fi": "Varo katolta roikkuvia jääpuikkoja vanhojen puutalojen reunoilla."
               }
             },
             {
@@ -454,7 +490,8 @@
                 "de": "Ein idealer Ort, um sich bei einem heißen Kakao aufzuwärmen.",
                 "hu": "Ideális helyszín egy forró csoki melletti melegedéshez.",
                 "ro": "Un loc ideal pentru a vă încălzi cu o ciocolată caldă.",
-                "en": "An ideal spot to warm up with a hot cocoa during your tour."
+                "en": "An ideal spot to warm up with a hot cocoa during your tour.",
+                "fi": "Ihana paikka lämpiämään kaakaolla kierroksesi aikana."
               }
             },
             {
@@ -463,7 +500,8 @@
                 "de": "Genießen Sie die Stille des verschneiten Parks am Nachmittag.",
                 "hu": "Élvezze a havas park csendjét a kora délutáni órákban.",
                 "ro": "Bucurați-vă de liniștea parcului înzăpezit după-amiaza.",
-                "en": "Enjoy the absolute silence of the snow-covered park in the afternoon."
+                "en": "Enjoy the absolute silence of the snow-covered park in the afternoon.",
+                "fi": "Nauti täydellisestä hiljaisuudesta lumipeitteisessä puistossa iltapäivällä."
               }
             },
             {
@@ -472,7 +510,8 @@
                 "de": "Die Kirche ist oft stimmungsvoll für Winterkonzerte beleuchtet.",
                 "hu": "A templom gyakran hangulatos téli koncertek helyszíne ilyenkor.",
                 "ro": "Biserica este adesea iluminată festiv pentru concerte de iarnă.",
-                "en": "The church is often atmospherically lit for winter concerts."
+                "en": "The church is often atmospherically lit for winter concerts.",
+                "fi": "Kirkko on usein tunnelmallisesti valaistu talvikonsertteja varten."
               }
             },
             {
@@ -481,7 +520,8 @@
                 "de": "Wandern Sie vorsichtig auf dem markierten Weg auf dem Meereis.",
                 "hu": "Sétáljon óvatosan a tenger jegén a kijelölt útvonalakon.",
                 "ro": "Plimbați-vă cu atenție pe gheața mării pe traseele marcate.",
-                "en": "Walk carefully on the sea ice following the marked winter trails."
+                "en": "Walk carefully on the sea ice following the marked winter trails.",
+                "fi": "Kävele varovasti jäätyneen meren päällä merkittyjä talvireittejä noudattaen."
               }
             }
           ],
@@ -513,6 +553,13 @@
               "Use safety reflectors on your clothing for visibility in the dark.",
               "Shoe spikes are highly recommended for the icy sidewalks.",
               "Public buildings might close slightly earlier during the winter season."
+            ],
+            "fi": [
+              "Pukeudu lämpimiin alushousuihin ja useisiin kerroksiin; tulee hyvin kylmä.",
+              "Aurinko laskee joulukuun puolivälissä jo noin klo 14.30.",
+              "Käytä heijastimia vaatteissasi näkyvyyden parantamiseksi pimeässä.",
+              "Kenkäkiilat ovat erittäin suositeltavat liukkailla jalkakäytävillä.",
+              "Julkiset rakennukset saattavat sulkeutua hieman aikaisemmin talvikaudella."
             ]
           }
         }
@@ -531,7 +578,8 @@
             "de": "Neristan (Altstadt)",
             "hu": "Neristan (Óváros)",
             "ro": "Neristan (Orașul vechi)",
-            "en": "Neristan (Old Town)"
+            "en": "Neristan (Old Town)",
+            "fi": "Neristan (Vanha kaupunki)"
           },
           "coords": [
             23.1305,
@@ -547,7 +595,8 @@
             "de": "Stellen Sie Ihr Fahrrad ab und erkunden Sie die engen Gassen zu Fuß.",
             "hu": "Tegye le a biciklit, és fedezze fel gyalog a szűk utcákat.",
             "ro": "Parcați bicicleta și explorați străduțele înguste pe jos.",
-            "en": "Park your bike and explore the narrow alleys on foot."
+            "en": "Park your bike and explore the narrow alleys on foot.",
+            "fi": "Pysäköi pyöräsi ja tutustu kapeisiin kujiiin jalan."
           }
         },
         {
@@ -555,7 +604,8 @@
             "de": "K.H. Renlund Museum",
             "hu": "K.H. Renlund Múzeum",
             "ro": "Muzeul K.H. Renlund",
-            "en": "K.H. Renlund Museum"
+            "en": "K.H. Renlund Museum",
+            "fi": "K.H. Renlundin museo"
           },
           "coords": [
             23.1298,
@@ -571,7 +621,8 @@
             "de": "Das Viertel ist ein Freilichtmuseum, aber die Ausstellungen im Inneren sind es wert.",
             "hu": "Az egész negyed egy szabadtéri múzeum, de a belső kiállítások is megérik.",
             "ro": "Cartierul este un muzeu în aer liber, dar expozițiile din interior merită vizitate.",
-            "en": "The quarter is an open-air museum, but the exhibitions inside are worth it."
+            "en": "The quarter is an open-air museum, but the exhibitions inside are worth it.",
+            "fi": "Kortteli toimii ulkoilmamuseona, mutta sisällä olevat näyttelyt ovat vaivan arvoisia."
           }
         },
         {
@@ -579,7 +630,8 @@
             "de": "Englischer Park",
             "hu": "Angol Park",
             "ro": "Parcul Englez",
-            "en": "English Park"
+            "en": "English Park",
+            "fi": "Englanninpuisto"
           },
           "coords": [
             23.1355,
@@ -595,7 +647,8 @@
             "de": "Ein perfekter Ort für eine Mittagspause. Es gibt Radwege entlang des Wassers.",
             "hu": "Tökéletes hely egy ebédszünetre. A víz mentén kerékpárutak is vannak.",
             "ro": "Un loc perfect pentru o pauză de prânz. Există piste de biciclete de-a lungul apei.",
-            "en": "A perfect spot for a lunch break. There are bike paths along the water."
+            "en": "A perfect spot for a lunch break. There are bike paths along the water.",
+            "fi": "Täydellinen paikka lounastauolle. Veden varrella on pyöräteitä."
           }
         },
         {
@@ -603,7 +656,8 @@
             "de": "Halkokari Denkmal",
             "hu": "Halkokari emlékmű",
             "ro": "Monumentul Halkokari",
-            "en": "Halkokari Monument"
+            "en": "Halkokari Monument",
+            "fi": "Halkokarin muistomerkki"
           },
           "coords": [
             23.088,
@@ -619,7 +673,8 @@
             "de": "Erinnert an eine Seeschlacht. Ein schöner Abstecher entlang der Küste.",
             "hu": "Egy tengeri csatára emlékeztet. Szép kitérő a part mentén.",
             "ro": "Comemorează o bătălie navală. Un ocol frumos de-a lungul coastei.",
-            "en": "Commemorates a naval battle. A nice detour along the coast."
+            "en": "Commemorates a naval battle. A nice detour along the coast.",
+            "fi": "Muistuttaa meritaistelusta. Mukava poikkeama rannikolla."
           }
         },
         {
@@ -627,7 +682,8 @@
             "de": "Mustakari",
             "hu": "Mustakari",
             "ro": "Mustakari",
-            "en": "Mustakari"
+            "en": "Mustakari",
+            "fi": "Mustakari"
           },
           "coords": [
             23.109,
@@ -643,7 +699,8 @@
             "de": "Hier legen die Boote nach Tankar ab. Ein lebhafter Ort im Sommer.",
             "hu": "Innen indulnak a hajók Tankar felé. Nyáron nyüzsgő hely.",
             "ro": "Bărcile spre Tankar pleacă de aici. Un loc plin de viață în timpul verii.",
-            "en": "Boats to Tankar leave from here. A lively spot in the summer."
+            "en": "Boats to Tankar leave from here. A lively spot in the summer.",
+            "fi": "Veneet Tankariin lähtevät täältä. Kesällä eläväinen paikka."
           }
         },
         {
@@ -651,7 +708,8 @@
             "de": "Kirche von Kaarlela",
             "hu": "Kaarlela-i templom",
             "ro": "Biserica din Kaarlela",
-            "en": "Kaarlela Church"
+            "en": "Kaarlela Church",
+            "fi": "Kaarlela kirkko"
           },
           "coords": [
             23.133,
@@ -667,7 +725,8 @@
             "de": "Die Radtour zur Kirche führt Sie aus dem Stadtzentrum heraus in eine ruhigere Gegend.",
             "hu": "A templomhoz vezető kerékpárút kivisz a városközpontból egy csendesebb környékre.",
             "ro": "Plimbarea cu bicicleta până la biserică vă scoate din centrul orașului într-o zonă mai liniștită.",
-            "en": "The bike ride to the church takes you out of the city center into a quieter area."
+            "en": "The bike ride to the church takes you out of the city center into a quieter area.",
+            "fi": "Pyöräretki kirkolle vie sinut keskustasta rauhallisemmalle alueelle."
           }
         }
       ],
@@ -675,7 +734,8 @@
         "de": "Beginnen Sie Ihren Radtag im Herzen von Kokkola, der Altstadt Neristan. Nachdem Sie die Atmosphäre und das K.H. Renlund Museum genossen haben, radeln Sie zum Englischen Park für eine wohlverdiente Mittagspause. Am Nachmittag führt Sie eine malerische Küstenroute zum Halkokari Denkmal und zum belebten Hafen von Mustakari. Die letzte Etappe führt Sie landeinwärts zur historischen Kirche von Kaarlela, bevor Sie den Tag beenden. Diese Tour kombiniert städtisches Flair mit wunderschöner Küstenlandschaft.",
         "hu": "Kezdje a kerékpáros napot Kokkola szívében, Neristan óvárosában. Miután élvezte a hangulatot és a K.H. Renlund Múzeumot, tekerjen el az Angol Parkba egy jól megérdemelt ebédszünetre. Délután egy festői tengerparti útvonal vezet a Halkokari emlékműhöz és a nyüzsgő Mustakari kikötőbe. Az utolsó szakasz a szárazföld belseje felé, a történelmi Kaarlela-i templomhoz vezet, mielőtt befejezné a napot. Ez a túra ötvözi a városi hangulatot a gyönyörű tengerparti tájjal.",
         "ro": "Începeți-vă ziua pe bicicletă în inima orașului Kokkola, în Orașul Vechi Neristan. După ce v-ați bucurat de atmosferă și de Muzeul K.H. Renlund, pedalați spre Parcul Englez pentru o pauză de prânz binemeritată. După-amiaza, un traseu pitoresc de coastă vă duce la Monumentul Halkokari și la portul plin de viață Mustakari. Ultima etapă vă duce în interiorul uscatului, la biserica istorică din Kaarlela, înainte de a încheia ziua. Acest tur combină farmecul urban cu peisajul frumos de coastă.",
-        "en": "Start your cycling day in the heart of Kokkola, the Old Town of Neristan. After soaking up the atmosphere and the K.H. Renlund Museum, pedal to the English Park for a well-deserved lunch break. In the afternoon, a scenic coastal route takes you to the Halkokari Monument and the bustling Mustakari harbour. The final leg leads you inland to the historic Kaarlela Church before you call it a day. This tour combines urban flair with beautiful coastal scenery."
+        "en": "Start your cycling day in the heart of Kokkola, the Old Town of Neristan. After soaking up the atmosphere and the K.H. Renlund Museum, pedal to the English Park for a well-deserved lunch break. In the afternoon, a scenic coastal route takes you to the Halkokari Monument and the bustling Mustakari harbour. The final leg leads you inland to the historic Kaarlela Church before you call it a day. This tour combines urban flair with beautiful coastal scenery.",
+        "fi": "Aloita pyöräpäiväsi Kokkolan sydämestä, Neristanin Vanhasta kaupungista. Tunnelmasta ja K.H. Renlundin museosta nauttimisen jälkeen polje Englanninpuistoon ansaitulle lounastauolle. Iltapäivällä kaunis rantareitti vie sinut Halkokarin muistomerkille ja vilkkaalle Mustakarin satamalle. Viimeinen osuus vie sisämaahan kohti historiallista Kaarlela kirkkoa ennen päivän päättymistä. Kierros yhdistää kaupunkivivahteen kauniiseen rannikon maisemaan."
       },
       "gastro_picks": {
         "de": [
@@ -835,6 +895,12 @@
           "Pay attention to the designated bike paths, especially along the coast.",
           "Always lock your bike securely when parking it to visit attractions.",
           "Bring a water bottle and snacks for the journey."
+        ],
+        "fi": [
+          "Kokkola on suhteellisen tasainen, mikä tekee siitä ihanteellisen pyöräilyyn.",
+          "Kiinnitä huomiota merkityille pyöräteille, erityisesti rannikolla.",
+          "Lukitse pyöräsi aina huolellisesti pysäköidessäsi nähtävyyksiä varten.",
+          "Ota vesipullo ja välipaloja mukaan matkaa varten."
         ]
       },
       "variants": {
@@ -843,7 +909,8 @@
             "de": "Eine Radtour durch Kokkola im Regen erfordert die richtige Ausrüstung, belohnt aber mit leeren Wegen. Starten Sie in Neristan, wo der nasse Asphalt die bunten Fassaden spiegelt. Mittags bietet das Renlund Museum eine trockene Pause voller Kunst. Am Nachmittag führt die Fahrt zum Halkokari-Monument und weiter nach Mustakari, wo der Wind die salzige Gischt über den Radweg trägt. Ein echtes nordisches Erlebnis für Unerschrockene.",
             "hu": "Egy esős bringázás Kokkolában megfelelő öltözettel igazi kaland a néptelen utakon. Kezdjen Neristanban, ahol a vizes aszfalt tükrözi a színes házfalakat. Délben a Renlund Múzeum kínál száraz pihenőt. Délután tekerjen ki a Halkokari emlékműhöz és Mustakarihoz, ahol a szél sós permetet hord a tenger felől. Igazi északi élmény a legelszántabbaknak.",
             "ro": "O tură cu bicicleta prin Kokkola pe ploaie necesită echipament adecvat, dar oferă trasee libere. Începeți în Neristan, unde asfaltul umed reflectă fațadele colorate. La prânz, Muzeul Renlund oferă o pauză uscată plină de artă. După-amiaza, pedalați spre Monumentul Halkokari și Mustakari, unde vântul aduce mirosul sărat al mării direct pe pistă. O experiență nordică autentică.",
-            "en": "Cycling through Kokkola in the rain rewards the bold with empty paths and fresh air. Start in Neristan, watching the wet streets reflect the historic wooden houses. Midday offers a dry refuge at the Renlund Museum. In the afternoon, ride to the Halkokari Monument and Mustakari, where coastal winds blow sea spray across the bike paths. A true Nordic experience for hardy cyclists."
+            "en": "Cycling through Kokkola in the rain rewards the bold with empty paths and fresh air. Start in Neristan, watching the wet streets reflect the historic wooden houses. Midday offers a dry refuge at the Renlund Museum. In the afternoon, ride to the Halkokari Monument and Mustakari, where coastal winds blow sea spray across the bike paths. A true Nordic experience for hardy cyclists.",
+            "fi": "Pyöräily Kokkolaassa sateella palkitsee rohkeat tyhjillä poluilla ja raikkaalla ilmalla. Aloita Neristasta ja katso, kuinka märät kadut heijastavat historiallisia puutaloja. Keskipäivällä voi hakeutua kuivaan suojaan Renlundin museossa. Iltapäivällä pyöräile Halkokarin muistomerkille ja Mustakariin, missä rannikon tuulet suihkuttavat merivettä pyöräteille. Todellinen pohjoinen elämys kovemmille pyöräilijöille."
           },
           "stops": [
             {
@@ -852,7 +919,8 @@
                 "de": "Fahren Sie langsam; die Holzschwellen können extrem rutschig sein.",
                 "hu": "Hajtson lassan; a fa szegélyek rendkívül csúszósak lehetnek.",
                 "ro": "Pedalați încet; pragurile de lemn pot fi extrem de alunecoase.",
-                "en": "Ride slowly; wooden elements and curbs can be extremely slippery."
+                "en": "Ride slowly; wooden elements and curbs can be extremely slippery.",
+                "fi": "Aja hitaasti; puupinnat ja reunakivet voivat olla erittäin liukkaita."
               }
             },
             {
@@ -861,7 +929,8 @@
                 "de": "Überdachte Fahrradständer befinden sich meist in der Nähe.",
                 "hu": "Fedett kerékpártárolók általában találhatók a közelben.",
                 "ro": "Rastelurile acoperite pentru biciclete sunt situate în apropiere.",
-                "en": "Covered bike racks are usually available nearby for protection."
+                "en": "Covered bike racks are usually available nearby for protection.",
+                "fi": "Katoselliset pyörätelineet löytyvät yleensä läheltä suojaa varten."
               }
             },
             {
@@ -870,7 +939,8 @@
                 "de": "Vermeiden Sie schlammige unbefestigte Wege im Park.",
                 "hu": "Kerülje a sáros, burkolatlan utakat a park területén.",
                 "ro": "Evitați potecile neasfaltate care pot deveni noroioase.",
-                "en": "Avoid unpaved paths that may become muddy and difficult."
+                "en": "Avoid unpaved paths that may become muddy and difficult.",
+                "fi": "Vältä päällystämättömiä polkuja, jotka voivat muuttua liejuksi ja vaikeakulkuisiksi."
               }
             },
             {
@@ -879,7 +949,8 @@
                 "de": "Starker Seitenwind ist an diesem exponierten Punkt möglich.",
                 "hu": "Erős oldalszélre kell számítani ezen a nyitott partszakaszon.",
                 "ro": "Vânturile laterale puternice sunt probabile în acest punct expus.",
-                "en": "Strong crosswinds are likely at this exposed coastal location."
+                "en": "Strong crosswinds are likely at this exposed coastal location.",
+                "fi": "Voimakkaita sivutuulia on todennäköisesti tässä avoimessa rannikko‑paikassa."
               }
             },
             {
@@ -888,7 +959,8 @@
                 "de": "Prüfen Sie Ihre Bremsen vor der Abfahrt zum Hafen.",
                 "hu": "Ellenőrizze a fékeit, mielőtt leereszkedik a kikötőhöz.",
                 "ro": "Verificați frânele înainte de a coborî spre zona portului.",
-                "en": "Check your brakes before heading down towards the harbor area."
+                "en": "Check your brakes before heading down towards the harbor area.",
+                "fi": "Tarkista jarrut ennen alamäkeä satama‑alueelle."
               }
             },
             {
@@ -897,7 +969,8 @@
                 "de": "Nutzen Sie den Kirchhof für eine kurze, geschützte Rast.",
                 "hu": "Használja a templomkert védettebb részeit egy rövid pihenőre.",
                 "ro": "Folosiți curtea bisericii pentru un popas scurt și protejat.",
-                "en": "Use the church grounds for a short, sheltered break from the rain."
+                "en": "Use the church grounds for a short, sheltered break from the rain.",
+                "fi": "Käytä kirkon aluetta lyhyeen, sateelta suojattuun lepohetkeen."
               }
             }
           ],
@@ -929,6 +1002,13 @@
               "Mudguards are essential to stay dry on wet coastal roads.",
               "Always wipe your saddle dry after every stop you make.",
               "Use bike lights even during the day for better visibility."
+            ],
+            "fi": [
+              "Täydellinen sadevarustus, mukaan lukien kenkäsuojat, on erittäin suositeltava.",
+              "Vältä äkillistä jarrutusta märillä tiemerkinnöillä.",
+              "Lokasuojat ovat välttämättömät pysyäksesi kuivana märillä rannikon teillä.",
+              "Pyyhi satula aina kuivaksi jokaisen pysähdyksen jälkeen.",
+              "Käytä pyörän valoja myös päivällä paremman näkyvyyden vuoksi."
             ]
           }
         },
@@ -937,7 +1017,8 @@
             "de": "Winter-Biking in Kokkola ist dank exzellentem Winterdienst möglich. Starten Sie vorsichtig in Neristan, wo der Schnee die historischen Gassen dämpft. Mittags bietet das Renlund Museum eine kulturelle Aufwärmpause. Nachmittags führt die Tour durch den English Park zum Halkokari-Monument, während die tiefstehende Sonne lange Schatten wirft. Den Abschluss bildet die Kaarlela-Kirche, die im Winterlicht besonders feierlich wirkt.",
             "hu": "A téli bringázás Kokkolában a kiváló hóeltakarításnak köszönhetően lehetséges. Kezdjen óvatosan Neristanban, ahol a hó tompítja a történelmi utcák zaját. Délben a Renlund Múzeumban melegedhet fel. Délután az English Parkon át tekerjen az emlékműhöz, miközben az alacsonyan járó nap hosszú árnyékokat vet. A túrát a Kaarlela templom zárja, amely ilyenkor ünnepi fényben úszik.",
             "ro": "Ciclismul de iarnă în Kokkola este posibil datorită deszăpezirii excelente. Începeți cu atenție în Neristan, unde zăpada amortizează sunetele pe străzile vechi. La prânz, faceți o pauză de încălzire la Muzeul Renlund. După-amiaza, traversați English Park spre Monumentul Halkokari sub lumina aurie a soarelui de iarnă. Finalizați la Biserica Kaarlela, impunătoare în peisajul alb.",
-            "en": "Winter cycling in Kokkola is a local specialty thanks to great snow removal. Start carefully in Neristan, where snow muffles the sounds of the old town. Warm up at noon inside the Renlund Museum. In the afternoon, ride through English Park to the Halkokari Monument as the low sun casts long shadows over the landscape. End your ride at Kaarlela Church, standing tall in the winter frost."
+            "en": "Winter cycling in Kokkola is a local specialty thanks to great snow removal. Start carefully in Neristan, where snow muffles the sounds of the old town. Warm up at noon inside the Renlund Museum. In the afternoon, ride through English Park to the Halkokari Monument as the low sun casts long shadows over the landscape. End your ride at Kaarlela Church, standing tall in the winter frost.",
+            "fi": "Talvipyöräily Kokkolassa on paikallinen erikoisuus hyvän aurauskaluston ansiosta. Aloita varovasti Neristasta, jossa lumi vaimentaa vanhan kaupungin äänet. Lämmittele keskellä päivää Renlundin museossa. Iltapäivällä aja Englantilaisen puiston kautta Halkokarin muistomerkille, kun matala aurinko heittää pitkiä varjoja maisemaan. Päätä ajosi Kaarlelaan, joka seisoo korkeana talven huurteessa."
           },
           "stops": [
             {
@@ -946,7 +1027,8 @@
                 "de": "Achten Sie auf verborgene Eisplatten unter dem Neuschnee.",
                 "hu": "Vigyázzon a friss hó alatt megbújó jégfoltokra az utcákon.",
                 "ro": "Atenție la plăcile de gheață ascunse sub zăpada proaspătă.",
-                "en": "Be cautious of hidden ice patches underneath the fresh snow."
+                "en": "Be cautious of hidden ice patches underneath the fresh snow.",
+                "fi": "Ole varovainen piilevien liukkaiden jäälaikkujen kanssa tuoreen lumen alla."
               }
             },
             {
@@ -955,7 +1037,8 @@
                 "de": "Ketten Sie Ihr Rad so an, dass es den Winterdienst nicht stört.",
                 "hu": "Úgy zárja le a biciklit, hogy ne zavarja a hókotrók munkáját.",
                 "ro": "Parcați bicicleta astfel încât să nu încurce deszăpezirea.",
-                "en": "Lock your bike where it won't obstruct snow removal equipment."
+                "en": "Lock your bike where it won't obstruct snow removal equipment.",
+                "fi": "Lukitse pyöräsi paikkaan, joka ei estä aurauskalustoa."
               }
             },
             {
@@ -964,7 +1047,8 @@
                 "de": "Die Hauptwege sind meist geräumt, Nebenwege können tief sein.",
                 "hu": "A főutak takarítottak, a mellékutakon mély lehet a hó.",
                 "ro": "Aleeile principale sunt curățate, dar cele secundare pot fi grele.",
-                "en": "Main paths are usually plowed, but side paths can have deep snow."
+                "en": "Main paths are usually plowed, but side paths can have deep snow.",
+                "fi": "Pääreitit ovat yleensä aurattuja, mutta sivureiteillä voi olla syvää lunta."
               }
             },
             {
@@ -973,7 +1057,8 @@
                 "de": "Extremer Windchill-Faktor am Meer; tragen Sie eine Maske.",
                 "hu": "Rendkívüli hidegérzet a tengerparton; viseljen arcmaszkot.",
                 "ro": "Factor de răcire extrem la malul mării; purtați o mască.",
-                "en": "Extreme wind chill at the shore; consider wearing a face mask."
+                "en": "Extreme wind chill at the shore; consider wearing a face mask.",
+                "fi": "Rannikon äärioloissa tuulen viileys voi olla kova; harkitse kasvomaskeja."
               }
             },
             {
@@ -982,7 +1067,8 @@
                 "de": "Der Hafenbereich kann im Winter sehr einsam und windig sein.",
                 "hu": "A kikötő környéke télen nagyon néptelen és szeles lehet.",
                 "ro": "Zona portului poate fi foarte pustie și vântoasă iarna.",
-                "en": "The harbor area can be very desolate and windy in winter."
+                "en": "The harbor area can be very desolate and windy in winter.",
+                "fi": "Satama‑alue voi olla talvella hyvin autio ja tuulinen."
               }
             },
             {
@@ -991,7 +1077,8 @@
                 "de": "Nutzen Sie den beleuchteten Weg für die Rückfahrt ins Zentrum.",
                 "hu": "Használja a kivilágított kerékpárutat a központba való visszatéréshez.",
                 "ro": "Folosiți pista iluminată pentru întoarcerea spre centru.",
-                "en": "Follow the illuminated bike path for a safe return to the center."
+                "en": "Follow the illuminated bike path for a safe return to the center.",
+                "fi": "Seuraa valaistua pyörätietä turvallista paluuta keskusta kohti varten."
               }
             }
           ],
@@ -1023,6 +1110,13 @@
               "Wear heavy gloves, as hands freeze quickly on the handlebars.",
               "Battery-powered lights drain faster in the cold; bring spares.",
               "Ride defensively and avoid sharp turns on snowy or icy patches."
+            ],
+            "fi": [
+              "Nastarenkaat ovat välttämättömät turvalliseen pyöräilyyn jäällä.",
+              "Pidä ketju hyvin voideltuna suolavahinkojen ehkäisemiseksi.",
+              "Käytä paksuja hanskoja, sillä kädet jäätyvät nopeasti ohjaustangolla.",
+              "Paristokäyttöiset valot kuluttavat akun nopeammin kylmässä; ota varaparistot.",
+              "Aja puolustavasti ja vältä teräviä käännöksiä lumisilla tai jäisillä kohdilla."
             ]
           }
         }
@@ -1041,7 +1135,8 @@
             "de": "Leuchtturm Tankar",
             "hu": "Tankar világítótorony",
             "ro": "Farul Tankar",
-            "en": "Tankar Lighthouse"
+            "en": "Tankar Lighthouse",
+            "fi": "Tankar majakka"
           },
           "coords": [
             22.851,
@@ -1057,7 +1152,8 @@
             "de": "Fahren Sie zum Hafen Mustakari und nehmen Sie ein Fährboot. Prüfen Sie den Fahrplan im Voraus!",
             "hu": "Vezessen a Mustakari kikötőbe, és szálljon kompra. Előre ellenőrizze a menetrendet!",
             "ro": "Conduceți până la portul Mustakari și luați un feribot. Verificați programul în avans!",
-            "en": "Drive to Mustakari harbour and take a ferry boat. Check the schedule in advance!"
+            "en": "Drive to Mustakari harbour and take a ferry boat. Check the schedule in advance!",
+            "fi": "Aja Mustakarin satamaan ja ota sieltä lautta. Tarkista aikataulu etukäteen!"
           }
         },
         {
@@ -1065,7 +1161,8 @@
             "de": "Halkokari Denkmal",
             "hu": "Halkokari emlékmű",
             "ro": "Monumentul Halkokari",
-            "en": "Halkokari Monument"
+            "en": "Halkokari Monument",
+            "fi": "Halkokarin muistomerkki"
           },
           "coords": [
             23.088,
@@ -1081,7 +1178,8 @@
             "de": "Nach der Rückkehr von Tankar ein kurzer Halt, um an die Seeschlacht zu erinnern.",
             "hu": "Miután visszatért Tankarból, egy rövid megálló a tengeri csatára emlékezve.",
             "ro": "După întoarcerea de la Tankar, o scurtă oprire pentru a comemora bătălia navală.",
-            "en": "After returning from Tankar, a quick stop to commemorate the naval battle."
+            "en": "After returning from Tankar, a quick stop to commemorate the naval battle.",
+            "fi": "Palattuasi Tankarista, nopea pysähdys meritaistelun muistoksi."
           }
         },
         {
@@ -1089,7 +1187,8 @@
             "de": "Parkplatz Neristan",
             "hu": "Parkoló Neristan",
             "ro": "Parcare Neristan",
-            "en": "Neristan Parking"
+            "en": "Neristan Parking",
+            "fi": "Neristan P‑alue"
           },
           "coords": [
             23.128,
@@ -1105,7 +1204,8 @@
             "de": "Parken Sie hier, um den Rest des Tages die Altstadt zu Fuß zu erkunden.",
             "hu": "Parkoljon le itt, és a nap hátralévő részében fedezze fel gyalog az óvárost.",
             "ro": "Parcați aici pentru a explora orașul vechi pe jos pentru restul zilei.",
-            "en": "Park here to explore the old town on foot for the rest of the day."
+            "en": "Park here to explore the old town on foot for the rest of the day.",
+            "fi": "Pysäköi täällä tutkiaksesi vanhaa kaupunkia jalan loppupäivän."
           }
         },
         {
@@ -1113,7 +1213,8 @@
             "de": "Neristan (Altstadt)",
             "hu": "Neristan (Óváros)",
             "ro": "Neristan (Orașul vechi)",
-            "en": "Neristan (Old Town)"
+            "en": "Neristan (Old Town)",
+            "fi": "Neristan (Vanha kaupunki)"
           },
           "coords": [
             23.1305,
@@ -1129,7 +1230,8 @@
             "de": "Genießen Sie einen späten Mittagssnack in einem der charmanten Cafés.",
             "hu": "Fogyasszon el egy késői ebédet az egyik hangulatos kávézóban.",
             "ro": "Bucurați-vă de o gustare târzie la una dintre cafenelele fermecătoare.",
-            "en": "Enjoy a late lunch snack in one of the charming cafés."
+            "en": "Enjoy a late lunch snack in one of the charming cafés.",
+            "fi": "Nauti myöhäisestä lounassnäkistä yhdessä viehättävistä kahviloista."
           }
         },
         {
@@ -1137,7 +1239,8 @@
             "de": "K.H. Renlund Museum",
             "hu": "K.H. Renlund Múzeum",
             "ro": "Muzeul K.H. Renlund",
-            "en": "K.H. Renlund Museum"
+            "en": "K.H. Renlund Museum",
+            "fi": "K.H. Renlundin museo"
           },
           "coords": [
             23.1298,
@@ -1153,7 +1256,8 @@
             "de": "Konzentrieren Sie sich auf die Hauptausstellung im Roos-Haus.",
             "hu": "Koncentráljon a Roos-házban található fő kiállításra.",
             "ro": "Concentrați-vă pe expoziția principală din Casa Roos.",
-            "en": "Focus on the main exhibition in the Roos House."
+            "en": "Focus on the main exhibition in the Roos House.",
+            "fi": "Keskity päänäyttelyyn Roosin talossa."
           }
         },
         {
@@ -1161,7 +1265,8 @@
             "de": "Rathaus von Kokkola",
             "hu": "Kokkolai Városháza",
             "ro": "Primăria din Kokkola",
-            "en": "Kokkola Town Hall"
+            "en": "Kokkola Town Hall",
+            "fi": "Kokkolan raatihuone"
           },
           "coords": [
             23.1322,
@@ -1177,7 +1282,8 @@
             "de": "Ein schöner Abschluss des Stadtrundgangs, bevor Sie zum Auto zurückkehren.",
             "hu": "Szép befejezése a városnézésnek, mielőtt visszatérne az autóhoz.",
             "ro": "O încheiere frumoasă a turului orașului înainte de a vă întoarce la mașină.",
-            "en": "A nice end to the city walk before heading back to the car."
+            "en": "A nice end to the city walk before heading back to the car.",
+            "fi": "Mukava päätös kaupunkikävelylle ennen paluuta autolle."
           }
         },
         {
@@ -1185,7 +1291,8 @@
             "de": "Kirche von Kaarlela",
             "hu": "Kaarlela-i templom",
             "ro": "Biserica din Kaarlela",
-            "en": "Kaarlela Church"
+            "en": "Kaarlela Church",
+            "fi": "Kaarlela kirkko"
           },
           "coords": [
             23.133,
@@ -1201,7 +1308,8 @@
             "de": "Ein kurzer abendlicher Besuch dieser stimmungsvollen mittelalterlichen Kirche.",
             "hu": "Rövid esti látogatás ebben a hangulatos középkori templomban.",
             "ro": "O scurtă vizită de seară la această biserică medievală plină de atmosferă.",
-            "en": "A short evening visit to this atmospheric medieval church."
+            "en": "A short evening visit to this atmospheric medieval church.",
+            "fi": "Lyhyt iltakäynti tähän tunnelmalliseen keskiaikaiseen kirkkoon."
           }
         }
       ],
@@ -1209,7 +1317,8 @@
         "de": "Ihr Autotag beginnt mit einem Abenteuer: Sie fahren zum Hafen und nehmen ein Boot zur Insel Tankar, um den berühmten Leuchtturm zu besuchen. Nach Ihrer Rückkehr am frühen Nachmittag machen Sie einen kurzen Halt am Halkokari Denkmal. Dann parken Sie Ihr Auto in der Nähe von Neristan, um den Rest des Tages das historische Herz von Kokkola zu Fuß zu erkunden. Sie schlendern durch die Holzhausgassen, besuchen das K.H. Renlund Museum und bewundern das Rathaus. Ein kurzer abendlicher Abstecher zur mittelalterlichen Kirche von Kaarlela rundet Ihren erlebnisreichen Tag ab.",
         "hu": "Az autós nap egy kalanddal kezdődik: a kikötőbe hajt, és hajóval megy a Tankar-szigetre, hogy meglátogassa a híres világítótornyot. Kora délutáni visszaérkezése után rövid megállót tesz a Halkokari emlékműnél. Ezután leparkolja az autót Neristan közelében, hogy a nap hátralévő részében gyalog fedezze fel Kokkola történelmi szívét. Sétáljon a faházas utcákon, látogasson el a K.H. Renlund Múzeumba, és csodálja meg a Városházát. Egy rövid esti kitérő a középkori Kaarlela-i templomhoz teszi teljessé az eseménydús napot.",
         "ro": "Ziua cu mașina începe cu o aventură: conduceți spre port și luați o barcă spre insula Tankar pentru a vizita faimosul far. După întoarcerea dvs. la începutul după-amiezii, faceți o scurtă oprire la Monumentul Halkokari. Apoi, parcați mașina lângă Neristan pentru a explora inima istorică a Kokkolei pe jos pentru restul zilei. Vă plimbați pe aleile cu case de lemn, vizitați Muzeul K.H. Renlund și admirați Primăria. O scurtă ocolire de seară la biserica medievală din Kaarlela completează ziua plină de evenimente.",
-        "en": "Your car day starts with an adventure: driving to the harbour and taking a boat to Tankar island to visit the famous lighthouse. After returning in the early afternoon, you'll make a quick stop at the Halkokari Monument. Then, park your car near Neristan to explore the historic heart of Kokkola on foot for the rest of the day. You'll wander through the wooden house alleys, visit the K.H. Renlund Museum, and admire the Town Hall. A short evening detour to the medieval Kaarlela Church completes your eventful day."
+        "en": "Your car day starts with an adventure: driving to the harbour and taking a boat to Tankar island to visit the famous lighthouse. After returning in the early afternoon, you'll make a quick stop at the Halkokari Monument. Then, park your car near Neristan to explore the historic heart of Kokkola on foot for the rest of the day. You'll wander through the wooden house alleys, visit the K.H. Renlund Museum, and admire the Town Hall. A short evening detour to the medieval Kaarlela Church completes your eventful day.",
+        "fi": "Autopäiväsi alkaa seikkailulla: ajo satamaan ja vene Tankariin vieraillaksesi kuuluisalla majakalla. Palattuasi varhain iltapäivällä teet nopean pysähdyksen Halkokarin muistomerkillä. Sitten pysäköit lähelle Neristania tutkiaksesi Kokkolan historiallista sydäntä jalan loppupäivän. Kiertelet puutalojen kujilla, vierailet K.H. Renlundin museossa ja ihailet raatihuonetta. Lyhyt iltapoikkeama keskiaikaiseen Kaarlelaan täydentää tapahtumarikkaan päivän."
       },
       "gastro_picks": {
         "de": [
@@ -1369,6 +1478,12 @@
           "Book ferry tickets to Tankar in advance, especially during peak season.",
           "Parking near Neristan can be challenging in summer. Be patient.",
           "Combine car and boat for a comprehensive experience of the Kokkola coast."
+        ],
+        "fi": [
+          "Matka Tankariin riippuu säästä. Tarkista olosuhteet ja lautan liikenne.",
+          "Varaa lautaliput Tankariin etukäteen, erityisesti sesonkiaikana.",
+          "Pysäköinti Neristanin lähellä voi olla haasteellinen kesällä. Ole kärsivällinen.",
+          "Yhdistä auto ja vene kattavaan kokemukseen Kokkolan rannikolla."
         ]
       },
       "variants": {
@@ -1377,7 +1492,8 @@
             "de": "Mit dem Auto erkunden Sie Kokkola und Umgebung auch bei starkem Regen komfortabel. Beginnen Sie mit der Fahrt zum Leuchtturm Tankar (Fährüberfahrt wetterabhängig) oder genießen Sie die Küstenstraße. Mittags parken Sie nahe Neristan für einen kurzen Spaziergang im Schutze Ihres Regenschirms. Der Nachmittag gehört dem Renlund Museum, bevor Sie den Tag am Rathaus im Stadtzentrum abschließen, wo Parkplätze direkt vor der Tür das Aussteigen erleichtern.",
             "hu": "Autóval kényelmesen felfedezheti Kokkolát és környékét még heves esőzéskor is. Kezdje a Tankar világítótoronyhoz vezető úttal (a komp időjárásfüggő), vagy élvezze a parti utat. Délben parkoljon Neristan közelében egy rövid esernyős sétához. A délután a Renlund Múzeumé, mielőtt a napot a városházánál zárná, ahol a közvetlen közeli parkolók megkönnyítik a kiszállást.",
             "ro": "Cu mașina, puteți explora Kokkola și împrejurimile confortabil chiar și pe ploaie torențială. Începeți cu drumul spre farul Tankar (feribotul depinde de vreme) sau admirați coasta din mers. La prânz, parcați lângă Neristan pentru o scurtă plimbare cu umbrela. După-amiaza aparține Muzeului Renlund, finalizând ziua la Primărie, unde parcările din apropiere sunt foarte utile.",
-            "en": "A car tour allows you to explore Kokkola comfortably despite the rain. Start by checking the ferry schedule for Tankar Lighthouse or drive along the scenic coast. At noon, find parking near Neristan for a brief stroll under your umbrella. Spend the afternoon at the Renlund Museum and finish at the Town Hall, where convenient parking makes visiting easy in any weather."
+            "en": "A car tour allows you to explore Kokkola comfortably despite the rain. Start by checking the ferry schedule for Tankar Lighthouse or drive along the scenic coast. At noon, find parking near Neristan for a brief stroll under your umbrella. Spend the afternoon at the Renlund Museum and finish at the Town Hall, where convenient parking makes visiting easy in any weather.",
+            "fi": "Autokierros sallii tutkia Kokkolaa mukavasti sateesta huolimatta. Aloita tarkistamalla Tankarin majakan lautta‑aikataulu tai aja pitkin maisematietä. Keskipäivällä etsi pysäköinti Neristanin lähelle lyhyttä kävelyä sateenvarjon alla varten. Vietä iltapäivä Renlundin museossa ja päätä raatihuoneelle, jossa kätevä pysäköinti tekee vierailusta helpon säästä riippumatta."
           },
           "stops": [
             {
@@ -1386,7 +1502,8 @@
                 "de": "Prüfen Sie, ob die Fähre bei starkem Wind und Regen operiert.",
                 "hu": "Ellenőrizze, hogy a komp közlekedik-e erős szélben és esőben.",
                 "ro": "Verificați dacă feribotul circulă în condiții de vânt și ploaie.",
-                "en": "Check if the ferry is operating during heavy rain and wind."
+                "en": "Check if the ferry is operating during heavy rain and wind.",
+                "fi": "Tarkista, toimiiko lautta kovassa sade‑ ja tuulissa."
               }
             },
             {
@@ -1395,7 +1512,8 @@
                 "de": "Genießen Sie den Blick auf das Denkmal direkt aus dem Auto.",
                 "hu": "Élvezze az emlékmű látványát közvetlenül az autóból.",
                 "ro": "Admirați monumentul direct din confortul mașinii.",
-                "en": "Enjoy the view of the monument directly from your car."
+                "en": "Enjoy the view of the monument directly from your car.",
+                "fi": "Nauti näkymästä muistomerkille suoraan autosta."
               }
             },
             {
@@ -1404,7 +1522,8 @@
                 "de": "Suchen Sie einen Platz nahe dem Eingang, um trocken zu bleiben.",
                 "hu": "Keressen helyet a bejárathoz közel, hogy száraz maradjon.",
                 "ro": "Căutați un loc aproape de intrare pentru a rămâne uscat.",
-                "en": "Look for a spot near the entrance to stay dry when exiting."
+                "en": "Look for a spot near the entrance to stay dry when exiting.",
+                "fi": "Etsi paikka lähellä sisäänkäyntiä pysyäksesi kuivana autosta poistuessa."
               }
             },
             {
@@ -1413,7 +1532,8 @@
                 "de": "Kurze Wege zwischen den historischen Häusern minimieren die Nässe.",
                 "hu": "A rövid távolságok a házak között csökkentik az elázás esélyét.",
                 "ro": "Distanțele scurte între casele vechi reduc expunerea la ploaie.",
-                "en": "Short distances between historic houses help minimize getting wet."
+                "en": "Short distances between historic houses help minimize getting wet.",
+                "fi": "Lyhyet etäisyydet historiallisten talojen välillä vähentävät kastumista."
               }
             },
             {
@@ -1422,7 +1542,8 @@
                 "de": "Parken Sie im nahegelegenen Parkhaus für maximalen Komfort.",
                 "hu": "Parkoljon a közeli parkolóházban a maximális kényelem érdekében.",
                 "ro": "Parcați în garajul din apropiere pentru confort maxim.",
-                "en": "Use a nearby parking garage for maximum convenience and shelter."
+                "en": "Use a nearby parking garage for maximum convenience and shelter.",
+                "fi": "Käytä lähistöllä olevaa pysäköintihallia maksimaaliseen mukavuuteen ja suojaan."
               }
             },
             {
@@ -1431,7 +1552,8 @@
                 "de": "Es gibt Kurzzeitparkplätze direkt vor dem Haupteingang.",
                 "hu": "Közvetlenül a főbejárat előtt találhatók rövidtávú parkolók.",
                 "ro": "Există locuri de parcare pe termen scurt chiar în fața intrării.",
-                "en": "There are short-term parking spots right in front of the entrance."
+                "en": "There are short-term parking spots right in front of the entrance.",
+                "fi": "Lyhytaikaiseen pysäköintiin on paikkoja aivan sisäänkäynnin edessä."
               }
             },
             {
@@ -1440,7 +1562,8 @@
                 "de": "Der große Parkplatz ist auch bei Regen gut befestigt.",
                 "hu": "A nagy parkoló esőben is jól használható és szilárd burkolatú.",
                 "ro": "Parcarea mare este bine amenajată chiar și în condiții de ploaie.",
-                "en": "The large parking lot is well-paved and easy to use in the rain."
+                "en": "The large parking lot is well-paved and easy to use in the rain.",
+                "fi": "Suuri parkkialue on hyvin asfaltoitu ja helppokäyttöinen sateella."
               }
             }
           ],
@@ -1472,6 +1595,13 @@
               "An umbrella in the car is essential for short hops to sites.",
               "Confirm the Tankar ferry schedule by phone before driving out.",
               "Parking fees in the center can be easily paid via mobile apps."
+            ],
+            "fi": [
+              "Varo vesiliirtoa märillä rannikon teillä.",
+              "Pidä ajovalot päällä heikossa näkyvyydessä.",
+              "Sateenvarjo autossa on välttämätön lyhyisiin siirtymiin kohteisiin.",
+              "Vahvista Tankarin lautta‑aikataulu puhelimitse ennen ajoa.",
+              "Pysäköintimaksut keskustassa voi maksaa helposti mobiilisovelluksilla."
             ]
           }
         },
@@ -1480,7 +1610,8 @@
             "de": "Eine Wintertour mit dem Auto zeigt Ihnen das vereiste Kokkola ohne Frieren. Starten Sie mit einer Fahrt entlang der schneebedeckten Küste. Mittags besuchen Sie das Renlund Museum, das nur einen kurzen, kalten Sprint vom Parkplatz entfernt ist. Nachmittags erkunden Sie Neristan, wo die beleuchteten Fenster der Holzhäuser Wärme ausstrahlen. Schließen Sie den Tag an der Kaarlela-Kirche ab, die in der frühen Dunkelheit wunderschön angestrahlt wird.",
             "hu": "Egy téli autós túra fagyoskodás nélkül mutatja be Kokkola jeges arcát. Kezdje a havas tengerparti utakon. Délben látogasson el a Renlund Múzeumba, amely csak egy rövid, hideg sprintre van a parkolótól. Délután fedezze fel Neristant, ahol a kivilágított ablakok melegséget árasztanak a hidegben. Zárja a napot a Kaarlela templomnál, amely a korai sötétségben gyönyörű díszkivilágítást kap.",
             "ro": "Un tur auto de iarnă vă arată Kokkola înghețată fără a suferi de frig. Începeți cu o plimbare de-a lungul coastei înzăpezite. La prânz, vizitați Muzeul Renlund, aflat la doar un scurt sprint de parcare. După-amiaza, explorați Neristan, unde ferestrele luminate ale caselor vechi emană căldură. Încheiați ziua la Biserica Kaarlela, superb iluminată în întunericul serii timpurii.",
-            "en": "A winter car tour reveals Kokkola's icy beauty while keeping you warm. Start with a scenic drive along the snow-dusted coast. At noon, visit the Renlund Museum, just a short, brisk walk from your car. In the afternoon, drive through Neristan to see the warm lights glowing from historic windows. End your journey at Kaarlela Church, which looks spectacular under spotlights in the early dark."
+            "en": "A winter car tour reveals Kokkola's icy beauty while keeping you warm. Start with a scenic drive along the snow-dusted coast. At noon, visit the Renlund Museum, just a short, brisk walk from your car. In the afternoon, drive through Neristan to see the warm lights glowing from historic windows. End your journey at Kaarlela Church, which looks spectacular under spotlights in the early dark.",
+            "fi": "Talviautoretki paljastaa Kokkolan jäisen kauneuden samalla kun pysyt lämpimänä. Aloita maisemallisella ajolla lumipeitteisen rannan vartta pitkin. Keskipäivällä vieraile Renlundin museossa, jolta on lyhyt, reipas kävely autoltasi. Iltapäivällä aja Neristanin läpi nähdäksesi historiallisten ikkunoiden lämpimän valon. Päätä matkasi Kaarlelaan, joka näyttää upealta valokeilojen alla hämärässä."
           },
           "stops": [
             {
@@ -1489,7 +1620,8 @@
                 "de": "Fähren fahren im Winter seltener; prüfen Sie den Winterfahrplan.",
                 "hu": "A kompok télen ritkábban járnak; ellenőrizze a téli menetrendet.",
                 "ro": "Feriboturile circulă rar iarna; verificați orarul special.",
-                "en": "Ferries run less frequently in winter; check the seasonal schedule."
+                "en": "Ferries run less frequently in winter; check the seasonal schedule.",
+                "fi": "Lautat kulkevat harvemmin talvella; tarkista kausi­aikataulu."
               }
             },
             {
@@ -1498,7 +1630,8 @@
                 "de": "Vorsicht beim Einparken auf ungeräumten Schneeflächen.",
                 "hu": "Legyen óvatos a parkolásnál a le nem takarított havas részeken.",
                 "ro": "Atenție la parcare pe suprafețele unde zăpada nu a fost curățată.",
-                "en": "Be cautious when parking on unplowed or snow-covered areas."
+                "en": "Be cautious when parking on unplowed or snow-covered areas.",
+                "fi": "Ole varovainen pysäköidessäsi auraamattomille tai lumipeitteisille alueille."
               }
             },
             {
@@ -1507,7 +1640,8 @@
                 "de": "Nutzen Sie Parkplätze, die bereits vom Schnee befreit wurden.",
                 "hu": "Használja a hótól már megtisztított parkolóhelyeket.",
                 "ro": "Folosiți locurile de parcare care au fost deja deszăpezite.",
-                "en": "Try to use parking spots that have already been cleared of snow."
+                "en": "Try to use parking spots that have already been cleared of snow.",
+                "fi": "Yritä käyttää pysäköintipaikkoja, jotka on jo aurattu lumesta."
               }
             },
             {
@@ -1516,7 +1650,8 @@
                 "de": "Die Straßen sind eng; parken Sie am Rand, um den Räumdienst nicht zu blockieren.",
                 "hu": "Az utcák szűkek; ne blokkolja a hókotrókat a parkolással.",
                 "ro": "Străzile sunt înguste; nu blocați utilajele de deszăpezire.",
-                "en": "Streets are narrow; don't block snow plows with your parking."
+                "en": "Streets are narrow; don't block snow plows with your parking.",
+                "fi": "Kadut ovat kapeita; älä estä avoimia auraajia pysäköinnilläsi."
               }
             },
             {
@@ -1525,7 +1660,8 @@
                 "de": "Motorvorwärmung ist an vielen Parkplätzen in Kokkola möglich.",
                 "hu": "Sok parkolóban elérhető motor-előmelegítési lehetőség.",
                 "ro": "Preîncălzirea motorului este posibilă în multe parcări locale.",
-                "en": "Engine pre-heating outlets are available at many local parking lots."
+                "en": "Engine pre-heating outlets are available at many local parking lots.",
+                "fi": "Moottorin esilämmitysrasioita on tarjolla monissa paikallisissa parkkipaikoissa."
               }
             },
             {
@@ -1534,7 +1670,8 @@
                 "de": "Die Zufahrt zum Rathausplatz wird prioritär geräumt.",
                 "hu": "A városháza környéki utakat elsőbbséggel takarítják.",
                 "ro": "Accesul spre piața primăriei este curățat cu prioritate.",
-                "en": "Access to the Town Hall square is prioritized for snow removal."
+                "en": "Access to the Town Hall square is prioritized for snow removal.",
+                "fi": "Käynti raatihuoneen torilla on talviauran vedenpitävän puhdistuksen prioriteetti."
               }
             },
             {
@@ -1543,7 +1680,8 @@
                 "de": "Ein schöner Ort, um das Auto für ein paar Fotos im Schnee zu verlassen.",
                 "hu": "Kiváló helyszín, hogy kiszálljon pár havas fotó erejéig.",
                 "ro": "Un loc excelent pentru a coborî și a face câteva fotografii în zăpadă.",
-                "en": "A great spot to step out for a few quick photos in the snow."
+                "en": "A great spot to step out for a few quick photos in the snow.",
+                "fi": "Hyvä paikka pysähtyä ottamaan nopeita valokuvia lumessa."
               }
             }
           ],
@@ -1575,6 +1713,13 @@
               "Avoid using the parking brake overnight as it may freeze shut.",
               "Keep your fuel tank at least half full for safety in cold weather.",
               "Watch out for reindeer or wildlife on roads outside the city."
+            ],
+            "fi": [
+              "Talvirenkaat ovat Suomessa laillisesti pakolliset tänä sesonkina.",
+              "Jäätelänraappaaja ja lumiharja ovat välttämättömät varusteet autossa.",
+              "Vältä käsijarrun käyttöä yön yli, sillä se voi jäätyä kiinni.",
+              "Pidä polttoainetankki vähintään puolillaan turvallisuussyistä kylmässä.",
+              "Varo poroja ja muuta riistaa teillä kaupungin ulkopuolella."
             ]
           }
         }
@@ -1593,7 +1738,8 @@
             "de": "Zentraler Busbahnhof",
             "hu": "Központi buszpályaudvar",
             "ro": "Autogara Centrală",
-            "en": "Central Bus Station"
+            "en": "Central Bus Station",
+            "fi": "Keskuslinja‑asema"
           },
           "coords": [
             23.136,
@@ -1609,7 +1755,8 @@
             "de": "Kaufen Sie eine Tageskarte für bequemes Reisen.",
             "hu": "Vásároljon napijegyet a kényelmes utazáshoz.",
             "ro": "Cumpărați un bilet de o zi pentru o călătorie convenabilă.",
-            "en": "Purchase a day ticket for convenient travel."
+            "en": "Purchase a day ticket for convenient travel.",
+            "fi": "Osta päivälippu kätevään matkustukseen."
           }
         },
         {
@@ -1617,7 +1764,8 @@
             "de": "Kirche von Kaarlela",
             "hu": "Kaarlela-i templom",
             "ro": "Biserica din Kaarlela",
-            "en": "Kaarlela Church"
+            "en": "Kaarlela Church",
+            "fi": "Kaarlela kirkko"
           },
           "coords": [
             23.133,
@@ -1633,7 +1781,8 @@
             "de": "Der erste Halt führt Sie etwas außerhalb des Zentrums zu diesem historischen Juwel.",
             "hu": "Az első megálló egy kicsit a központon kívülre visz ehhez a történelmi gyöngyszemhez.",
             "ro": "Prima oprire vă duce puțin în afara centrului, la această bijuterie istorică.",
-            "en": "The first stop takes you slightly outside the center to this historic gem."
+            "en": "The first stop takes you slightly outside the center to this historic gem.",
+            "fi": "Ensimmäinen pysähdys vie sinut hieman keskustan ulkopuolelle tähän historialliseen helmeen."
           }
         },
         {
@@ -1641,7 +1790,8 @@
             "de": "Rathausplatz (Zentrum)",
             "hu": "Városház tér (Központ)",
             "ro": "Piața Primăriei (Centru)",
-            "en": "Town Hall Square (Center)"
+            "en": "Town Hall Square (Center)",
+            "fi": "Raatihuoneen tori (Keskusta)"
           },
           "coords": [
             23.1322,
@@ -1657,7 +1807,8 @@
             "de": "Steigen Sie hier aus, um den zentralen Cluster zu Fuß zu erkunden.",
             "hu": "Szálljon le itt, hogy gyalog fedezze fel a központi részt.",
             "ro": "Coborâți aici pentru a explora grupul central pe jos.",
-            "en": "Get off here to explore the central cluster on foot."
+            "en": "Get off here to explore the central cluster on foot.",
+            "fi": "Pysy tässä pois noustaksesi ja tutkiaksesi keskustan keskustaa jalan."
           }
         },
         {
@@ -1665,7 +1816,8 @@
             "de": "Neristan (Altstadt)",
             "hu": "Neristan (Óváros)",
             "ro": "Neristan (Orașul vechi)",
-            "en": "Neristan (Old Town)"
+            "en": "Neristan (Old Town)",
+            "fi": "Neristan (Vanha kaupunki)"
           },
           "coords": [
             23.1305,
@@ -1681,7 +1833,8 @@
             "de": "Nehmen Sie sich Zeit zum Mittagessen und zum Erkunden der Geschäfte.",
             "hu": "Szánjon időt az ebédre és a boltok felfedezésére.",
             "ro": "Luați-vă timp pentru prânz și pentru a explora magazinele.",
-            "en": "Take your time for lunch and exploring the shops."
+            "en": "Take your time for lunch and exploring the shops.",
+            "fi": "Varaa aikaa lounaalle ja putiikkien tutkimiselle."
           }
         },
         {
@@ -1689,7 +1842,8 @@
             "de": "K.H. Renlund Museum",
             "hu": "K.H. Renlund Múzeum",
             "ro": "Muzeul K.H. Renlund",
-            "en": "K.H. Renlund Museum"
+            "en": "K.H. Renlund Museum",
+            "fi": "K.H. Renlundin museo"
           },
           "coords": [
             23.1298,
@@ -1705,7 +1859,8 @@
             "de": "Leicht zu Fuß von den Restaurants in Neristan zu erreichen.",
             "hu": "Könnyen megközelíthető gyalog a neristani éttermektől.",
             "ro": "Ușor de ajuns pe jos de la restaurantele din Neristan.",
-            "en": "An easy walk from the lunch spots in Neristan."
+            "en": "An easy walk from the lunch spots in Neristan.",
+            "fi": "Helppo kävelymatka lounaspaikkojen läheisyydestä Neristanissa."
           }
         },
         {
@@ -1713,7 +1868,8 @@
             "de": "Mustakari",
             "hu": "Mustakari",
             "ro": "Mustakari",
-            "en": "Mustakari"
+            "en": "Mustakari",
+            "fi": "Mustakari"
           },
           "coords": [
             23.109,
@@ -1729,7 +1885,8 @@
             "de": "Nehmen Sie einen Bus vom Zentrum zum Hafen, um den Nachmittag am Meer zu verbringen.",
             "hu": "Menjen busszal a központból a kikötőbe, hogy a délutánt a tengernél töltse.",
             "ro": "Luați un autobuz din centru spre port pentru a petrece după-amiaza la mare.",
-            "en": "Take a bus from the center to the harbour to spend the afternoon by the sea."
+            "en": "Take a bus from the center to the harbour to spend the afternoon by the sea.",
+            "fi": "Ota bussi keskustasta satamaan ja vietä iltapäivä meren äärellä."
           }
         }
       ],
@@ -1737,7 +1894,8 @@
         "de": "Ihr Tag mit öffentlichen Verkehrsmitteln beginnt mit dem Kauf einer Tageskarte. Die erste Fahrt führt Sie zur historischen Kirche von Kaarlela am Rande der Stadt. Danach kehren Sie ins Zentrum zurück, um den Hauptcluster von Kokkola zu Fuß zu erkunden. Sie verbringen den Großteil des Tages damit, durch Neristan zu schlendern, zu Mittag zu essen und das K.H. Renlund Museum zu besuchen. Am späten Nachmittag nehmen Sie einen weiteren Bus, der Sie zum Hafen von Mustakari bringt, wo Sie den Tag mit Blick auf das Meer und die Schären ausklingen lassen.",
         "hu": "A tömegközlekedéssel töltött nap egy napijegy megvásárlásával kezdődik. Az első út a város szélén található történelmi Kaarlela-i templomhoz vezet. Ezután visszatér a központba, hogy gyalog fedezze fel Kokkola központi részét. A nap nagy részét Neristanban sétálva, ebédelve és a K.H. Renlund Múzeumot látogatva tölti. Késő délután egy másik buszra száll, amely elviszi a Mustakari kikötőbe, ahol a tengerre és a szigetvilágra nyíló kilátással zárja a napot.",
         "ro": "Ziua dvs. cu transportul public începe cu achiziționarea unui bilet de o zi. Prima călătorie vă duce la biserica istorică din Kaarlela, la marginea orașului. După aceea, vă întoarceți în centru pentru a explora pe jos grupul principal din Kokkola. Petreceți cea mai mare parte a zilei plimbându-vă prin Neristan, luând prânzul și vizitând Muzeul K.H. Renlund. Spre seară, luați un alt autobuz care vă duce în portul Mustakari, unde încheiați ziua cu o priveliște asupra mării și a arhipelagului.",
-        "en": "Your day on public transport begins with purchasing a day pass. The first ride takes you to the historic Kaarlela Church on the edge of town. Afterwards, you return to the center to explore Kokkola's main cluster on foot. You'll spend the bulk of the day wandering through Neristan, having lunch, and visiting the K.H. Renlund Museum. In the late afternoon, you'll catch another bus to Mustakari harbour, where you'll end the day with views of the sea and the archipelago."
+        "en": "Your day on public transport begins with purchasing a day pass. The first ride takes you to the historic Kaarlela Church on the edge of town. Afterwards, you return to the center to explore Kokkola's main cluster on foot. You'll spend the bulk of the day wandering through Neristan, having lunch, and visiting the K.H. Renlund Museum. In the late afternoon, you'll catch another bus to Mustakari harbour, where you'll end the day with views of the sea and the archipelago.",
+        "fi": "Päiväsi julkisilla alkaa ostamalla päivälippu. Ensimmäinen matka vie sinut historialliseen Kaarlelaan kaupungin reunalle. Tämän jälkeen palaat keskustaan tutkiaksesi Kokkolan pääaluetta jalan. Vietät suurimman osan päivästä kierrellen Neristanissa, syöden lounasta ja vieraillen K.H. Renlundin museossa. Myöhään iltapäivällä otat toisen bussin Mustakarin satamaan, jossa päätät päivän merinäköaloihin ja saariston katseluun."
       },
       "gastro_picks": {
         "de": [
@@ -1897,6 +2055,12 @@
           "Buses may not run as frequently, especially in the evenings and on weekends. Plan ahead.",
           "A day ticket is usually cheaper than buying multiple single tickets.",
           "Wave at the bus driver to let them know you want to get on at the stop."
+        ],
+        "fi": [
+          "Lataa paikallinen bussien aikataulusovellus tai ota kuva pysäkkien aikataulusta.",
+          "Bussit eivät välttämättä kulje yhtä usein, erityisesti iltaisin ja viikonloppuisin. Suunnittele etukäteen.",
+          "Päivälippu on yleensä edullisempi kuin useiden kertalippujen ostaminen.",
+          "Vilkuttele linja-autonkuljettajalle, jotta hän tietää pysähtyä ottamaan sinut kyytiin."
         ]
       },
       "variants": {
@@ -1905,7 +2069,8 @@
             "de": "Nutzen Sie das Bussystem von Kokkola, um trocken von A nach B zu kommen. Starten Sie am zentralen Busbahnhof und fahren Sie direkt zur Kaarlela-Kirche. Mittags bringen Sie die Linien zurück ins Zentrum zum Rathausplatz, von wo aus das Renlund Museum nur einen Katzensprung entfernt ist. Den Nachmittag verbringen Sie im historischen Neristan, bevor Sie den Abendbus Richtung Mustakari nehmen, um die stürmische See aus der Wärme zu beobachten.",
             "hu": "Használja Kokkola buszhálózatát, hogy szárazon jusson el a látnivalókhoz. Kezdjen a központi buszállomáson, és utazzon a Kaarlela templomhoz. Délben a járatok visszaviszik a központba, ahonnan a Renlund Múzeum csak egy rövid séta. A délutánt Neristan történelmi negyedében töltheti, majd esti busszal látogasson el Mustakarihoz, a viharos tenger látványáért.",
             "ro": "Folosiți rețeaua de autobuze din Kokkola pentru a călători fără a vă uda. Începeți de la autogara centrală spre Biserica Kaarlela. La prânz, liniile vă readuc în centru, lângă Muzeul Renlund. După-amiaza puteți explora Neristan, iar seara puteți lua un autobuz spre Mustakari pentru a vedea marea agitată din confortul unui spațiu închis.",
-            "en": "Utilize Kokkola's bus network to travel between sites while staying dry. Start at the Central Bus Station and head straight to Kaarlela Church. Midday buses will take you back to the center near the Renlund Museum. Spend your afternoon in the historic Neristan district and catch an evening bus to Mustakari to witness the stormy Baltic Sea from a warm vantage point."
+            "en": "Utilize Kokkola's bus network to travel between sites while staying dry. Start at the Central Bus Station and head straight to Kaarlela Church. Midday buses will take you back to the center near the Renlund Museum. Spend your afternoon in the historic Neristan district and catch an evening bus to Mustakari to witness the stormy Baltic Sea from a warm vantage point.",
+            "fi": "Hyödynnä Kokkolan bussiverkostoa liikkumiseen kohteiden välillä pitäen olosi kuivana. Aloita linja-autoasemalta ja suuntaa suoraan Kaarlelan kirkolle. Iltapäivän bussit vievät sinut takaisin keskustaan lähelle Renlundin museota. Vietä iltapäiväsi historiallisessa Neristanin korttelissa ja ota iltabussi Mustakarille nähdäksesi myrskyisän Itämeren lämpimästä näköalapaikasta."
           },
           "stops": [
             {
@@ -1914,7 +2079,8 @@
                 "de": "Warten Sie im beheizten Wartebereich des Bahnhofs.",
                 "hu": "Várjon a buszállomás fűtött várótermében.",
                 "ro": "Așteptați în zona de așteptare încălzită a autogării.",
-                "en": "Wait inside the station's heated waiting area to stay dry."
+                "en": "Wait inside the station's heated waiting area to stay dry.",
+                "fi": "Odota asemalla lämpimässä odotustilassa pysyäksesi kuivana."
               }
             },
             {
@@ -1923,7 +2089,8 @@
                 "de": "Die Bushaltestelle liegt direkt am Eingang zum Kirchhof.",
                 "hu": "A buszmegálló közvetlenül a templomkert bejáratánál található.",
                 "ro": "Stația de autobuz este chiar la intrarea în curtea bisericii.",
-                "en": "The bus stop is located right at the entrance to the churchyard."
+                "en": "The bus stop is located right at the entrance to the churchyard.",
+                "fi": "Bussipysäkki sijaitsee aivan kirkon pihalle johtavan sisäänkäynnin kohdalla."
               }
             },
             {
@@ -1932,7 +2099,8 @@
                 "de": "Zentrale Umsteigestelle mit vielen Cafés in der Nähe.",
                 "hu": "Központi átszállópont, ahol sok kávézó található a közelben.",
                 "ro": "Punct central de transfer cu multe cafenele în apropiere.",
-                "en": "Central transfer point with many cafes nearby for a quick break."
+                "en": "Central transfer point with many cafes nearby for a quick break.",
+                "fi": "Keskeinen vaihtopaikka, jossa on monta kahvilaa pikaiselle tauolle."
               }
             },
             {
@@ -1941,7 +2109,8 @@
                 "de": "Die Haltestellen sind gut über das Viertel verteilt.",
                 "hu": "A megállók jól elszórtan találhatók a negyed területén.",
                 "ro": "Stațiile sunt bine distribuite în zona cartierului vechi.",
-                "en": "Bus stops are well-distributed throughout the historic district."
+                "en": "Bus stops are well-distributed throughout the historic district.",
+                "fi": "Bussipysäkit ovat hyvin sijoitettuja historiallisella alueella."
               }
             },
             {
@@ -1950,7 +2119,8 @@
                 "de": "Nutzen Sie die App, um die genaue Ankunftszeit im Regen zu prüfen.",
                 "hu": "Használja az applikációt a pontos érkezés ellenőrzéséhez az esőben.",
                 "ro": "Folosiți aplicația pentru a verifica ora exactă de sosire.",
-                "en": "Check the local transit app for real-time arrivals during rain."
+                "en": "Check the local transit app for real-time arrivals during rain.",
+                "fi": "Tarkista paikallisesta joukkoliikennesovelluksesta reaaliaikaiset saapumiset sateella."
               }
             },
             {
@@ -1959,7 +2129,8 @@
                 "de": "Prüfen Sie die Rückfahrzeiten, da Busse hier seltener fahren.",
                 "hu": "Ellenőrizze a visszautat, mert ide ritkábban járnak a buszok.",
                 "ro": "Verificați orele de retur, autobuzele circulă mai rar aici.",
-                "en": "Confirm return times, as buses serve this area less frequently."
+                "en": "Confirm return times, as buses serve this area less frequently.",
+                "fi": "Varmista paluuaikataulut, sillä bussit liikennöivät tällä alueella harvemmin."
               }
             }
           ],
@@ -1991,6 +2162,13 @@
               "Bus shelters provide decent protection from the wind and rain.",
               "Have your ticket ready when boarding to avoid delays.",
               "Fewer buses run on weekends, so plan your trips carefully."
+            ],
+            "fi": [
+              "Osta päiväpassi virallisesta mobiilisovelluksesta.",
+              "Kokkolan bussit ovat erittäin täsmällisiä; saavu pysäkille ajoissa.",
+              "Bussikatokset suojaavat hyvin tuulelta ja sateelta.",
+              "Pidä lippu valmiina noustessasi kyytiin välttääksesi viiveitä.",
+              "Viikonloppuisin busseja on vähemmän, joten suunnittele matkasi huolellisesti."
             ]
           }
         },
@@ -1999,7 +2177,8 @@
             "de": "Der öffentliche Nahverkehr ist die wärmste Art, Kokkola im Winter zu erleben. Starten Sie am beheizten Busbahnhof und fahren Sie zur verschneiten Kaarlela-Kirche. Mittags kehren Sie ins Stadtzentrum zurück, wo das Renlund Museum wohlige Wärme bietet. Den Nachmittag verbringen Sie im malerischen Neristan, bevor Sie mit dem Bus zurück zum Zentrum fahren, um dort die gemütliche Atmosphäre der winterlich beleuchteten Straßen zu genießen.",
             "hu": "A tömegközlekedés a legmelegebb módja a téli Kokkola felfedezésének. Kezdjen a fűtött buszállomáson, majd utazzon a havas Kaarlela templomhoz. Délben térjen vissza a belvárosba, ahol a Renlund Múzeum kínál menedéket a hideg elől. Délután sétáljon a festői Neristanban, majd busszal térjen vissza a központba, élvezve a kivilágított utcák hangulatát.",
             "ro": "Transportul public este cea mai călduroasă metodă de a vedea Kokkola iarna. Începeți la autogara încălzită spre Biserica Kaarlela înzăpezită. La prânz, reveniți în centru pentru a vă încălzi în Muzeul Renlund. După-amiaza, vizitați cartierul Neristan, apoi luați autobuzul înapoi spre centru pentru a admira decorațiunile de iarnă ale orașului.",
-            "en": "Public transit is the warmest way to see Kokkola in the winter. Start at the heated Central Bus Station and take a bus to the snowy Kaarlela Church. Return to the city center at noon to warm up inside the Renlund Museum. Spend your afternoon in picturesque Neristan before taking a bus back to the center to enjoy the cozy, lit-up winter streets."
+            "en": "Public transit is the warmest way to see Kokkola in the winter. Start at the heated Central Bus Station and take a bus to the snowy Kaarlela Church. Return to the city center at noon to warm up inside the Renlund Museum. Spend your afternoon in picturesque Neristan before taking a bus back to the center to enjoy the cozy, lit-up winter streets.",
+            "fi": "Joukkoliikenne on lämpimin tapa nähdä Kokkola talvella. Aloita lämmitetyltä pääbussiasemalta ja ota bussi lumiseen Kaarlelan kirkkoon. Palaa keskustaankeskipäivällä lämmitelläksesi Renlundin museossa. Vietä iltapäiväsi kuvauksellisessa Neristanissa ennen kuin otat bussin takaisin keskustaan nauttimaan tunnelmallisista, valaistuista talvikaduista."
           },
           "stops": [
             {
@@ -2008,7 +2187,8 @@
                 "de": "Ein guter Treffpunkt, um sich vor der Fahrt aufzuwärmen.",
                 "hu": "Kiváló találkozópont a melegedéshez az utazás előtt.",
                 "ro": "Un loc bun de întâlnire pentru a vă încălzi înainte de drum.",
-                "en": "A great meeting point to warm up before your journey begins."
+                "en": "A great meeting point to warm up before your journey begins.",
+                "fi": "Loistava kohta lämmitellä ennen matkan alkua."
               }
             },
             {
@@ -2017,7 +2197,8 @@
                 "de": "Achten Sie auf Schneehaufen an der Haltestelle beim Aussteigen.",
                 "hu": "Ügyeljen a hóbuckákra a megállóban kiszálláskor.",
                 "ro": "Atenție la mormanele de zăpadă din stație la coborâre.",
-                "en": "Watch out for snow piles at the bus stop when disembarking."
+                "en": "Watch out for snow piles at the bus stop when disembarking.",
+                "fi": "Varo lumivalleja bussipysäkillä poistuessasi kyydistä."
               }
             },
             {
@@ -2026,7 +2207,8 @@
                 "de": "Die Fahrpläne hängen in beleuchteten Vitrinen aus.",
                 "hu": "A menetrendek kivilágított vitrinekben vannak kifüggesztve.",
                 "ro": "Orarele sunt afișate în vitrine iluminate pentru vizibilitate.",
-                "en": "Bus schedules are displayed in lit cases for easy reading at night."
+                "en": "Bus schedules are displayed in lit cases for easy reading at night.",
+                "fi": "Bussien aikataulut näkyvät valaistuissa koteloissa, joten ne ovat helposti luettavissa yöllä."
               }
             },
             {
@@ -2035,7 +2217,8 @@
                 "de": "Die Wege von der Haltestelle ins Viertel werden meist schnell geräumt.",
                 "hu": "A megállótól a negyedbe vezető utakat általában gyorsan takarítják.",
                 "ro": "Aleeile de la stație spre cartier sunt curățate rapid de obicei.",
-                "en": "Paths from the stop to the district are usually cleared quickly."
+                "en": "Paths from the stop to the district are usually cleared quickly.",
+                "fi": "Reitit pysäkiltä kortteliin on yleensä aurattu nopeasti."
               }
             },
             {
@@ -2044,7 +2227,8 @@
                 "de": "Die Bushaltestelle ist nur wenige Meter vom Museum entfernt.",
                 "hu": "A buszmegálló mindössze pár méterre található a múzeumtól.",
                 "ro": "Stația de autobuz este la doar câțiva metri de muzeu.",
-                "en": "The bus stop is located just a few meters from the museum entrance."
+                "en": "The bus stop is located just a few meters from the museum entrance.",
+                "fi": "Bussipysäkki sijaitsee vain muutaman metrin päässä museon sisäänkäynnistä."
               }
             },
             {
@@ -2053,7 +2237,8 @@
                 "de": "Im Winter kann der Busverkehr hierher eingeschränkt sein.",
                 "hu": "Télen a buszközlekedés ide korlátozottabb lehet.",
                 "ro": "Transportul cu autobuzul poate fi limitat aici pe timpul iernii.",
-                "en": "Bus service to this coastal area may be limited during winter."
+                "en": "Bus service to this coastal area may be limited during winter.",
+                "fi": "Bussiliikenne tälle rannikkoalueelle voi olla rajoitettua talvella."
               }
             }
           ],
@@ -2085,6 +2270,13 @@
               "Be prepared for minor delays during exceptionally heavy snowfall.",
               "Wear reflectors; otherwise, drivers may struggle to see you in the dark.",
               "In Finland, you must signal the driver by raising your arm to stop the bus."
+            ],
+            "fi": [
+              "Käytä mobiilisovellusta välttääksesi liian pitkää odottamista pakkasessa.",
+              "Bussit ovat hyvin lämmitettyjä, joten saatat haluta napittaa takkisi auki sisällä.",
+              "Ole valmis pieniin viiveisiin poikkeuksellisen voimakkaan lumisateen aikana.",
+              "Käytä heijastimia; muuten kuljettajat voivat vaikeasti nähdä sinut pimeässä.",
+              "Suomessa sinun tulee viittoa kuljettajalle nostamalla käsi pysäyttääksesi bussin."
             ]
           }
         }

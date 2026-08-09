@@ -21,7 +21,8 @@
             "de": "Denkmal von Pajarin Poika",
             "hu": "Pajarin Poika emlékmű",
             "ro": "Monumentul Pajarin Poika",
-            "en": "Pajarin Poika Monument"
+            "en": "Pajarin Poika Monument",
+            "fi": "Pajarin Poika -muistomerkki"
           },
           "coords": [
             30.134,
@@ -36,7 +37,8 @@
             "de": "Ein kurzer Fotostopp, um dem lokalen Helden die Ehre zu erweisen.",
             "hu": "Egy gyors fotómegálló a helyi hős tiszteletére.",
             "ro": "O scurtă oprire pentru fotografii pentru a onora eroul local.",
-            "en": "A quick photo stop to pay respects to the local hero."
+            "en": "A quick photo stop to pay respects to the local hero.",
+            "fi": "Nopea valokuvauspaikka kunnioittaa paikallista sankaria."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Kirche von Kitee",
             "hu": "Kiteei kőtemplom",
             "ro": "Biserica din Kitee",
-            "en": "Kitee Church"
+            "en": "Kitee Church",
+            "fi": "Kiteen kirkko"
           },
           "coords": [
             30.138,
@@ -59,7 +62,8 @@
             "de": "Bewundern Sie die beeindruckende Steinarchitektur von Carl Ludvig Engel.",
             "hu": "Csodálja meg Carl Ludvig Engel lenyűgöző kőépítészetét.",
             "ro": "Admirați arhitectura impresionantă în piatră, opera lui Carl Ludvig Engel.",
-            "en": "Admire the impressive stone architecture by Carl Ludvig Engel."
+            "en": "Admire the impressive stone architecture by Carl Ludvig Engel.",
+            "fi": "Ihaile Carl Ludvig Engelin vaikuttavaa kivirakennusta."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Heimatmuseum Kitee",
             "hu": "Kiteei Helytörténeti Múzeum",
             "ro": "Muzeul de Istorie Locală Kitee",
-            "en": "Kitee Local History Museum"
+            "en": "Kitee Local History Museum",
+            "fi": "Kiteen kotiseutumuseo"
           },
           "coords": [
             30.1395,
@@ -82,7 +87,8 @@
             "de": "Erfahren Sie mehr über das traditionelle Leben in der Region Karelien.",
             "hu": "Ismerje meg a hagyományos karéliai életet.",
             "ro": "Aflați despre viața tradițională din regiunea Karelia.",
-            "en": "Learn about the traditional life in the Karelia region."
+            "en": "Learn about the traditional life in the Karelia region.",
+            "fi": "Tutustu perinteiseen elämään Karjalan alueella."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Nightwish-Ausstellung",
             "hu": "Nightwish Központ és Kiállítás",
             "ro": "Expoziția Nightwish",
-            "en": "Nightwish Exhibition"
+            "en": "Nightwish Exhibition",
+            "fi": "Nightwish-näyttely"
           },
           "coords": [
             30.141,
@@ -105,7 +112,8 @@
             "de": "Ein Muss für Fans der Band! Hier finden Sie Original-Requisiten und Goldene Schallplatten.",
             "hu": "Kötelező a zenekar rajongóinak! Eredeti kellékeket és aranylemezeket találhat itt.",
             "ro": "O vizită obligatorie pentru fanii trupei! Veți găsi recuzită originală și discuri de aur.",
-            "en": "A must-visit for fans of the band! You'll find original props and gold records."
+            "en": "A must-visit for fans of the band! You'll find original props and gold records.",
+            "fi": "Pakollinen vierailu bändin faneille! Löydät alkuperäisiä rekvisiittoja ja kultalevyjä."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Mittagessen im Zentrum",
             "hu": "Ebédszünet a központban",
             "ro": "Pauză de prânz în centru",
-            "en": "Lunch Break in the Center"
+            "en": "Lunch Break in the Center",
+            "fi": "Lounastauko keskustassa"
           },
           "coords": [
             30.139,
@@ -128,7 +137,8 @@
             "de": "Probieren Sie karelische Piroggen in einem der örtlichen Restaurants.",
             "hu": "Kóstolja meg a karéliai pirogot az egyik helyi étteremben.",
             "ro": "Încercați plăcintele kareliene la unul dintre restaurantele locale.",
-            "en": "Try some Karelian pasties at one of the local restaurants."
+            "en": "Try some Karelian pasties at one of the local restaurants.",
+            "fi": "Kokeile karjalanpiirakoita yhdessä paikallisravintoloista."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Spaziergang am Pyhäjärvi See",
             "hu": "Séta a Pyhäjärvi-tó partján",
             "ro": "Plimbare pe malul lacului Pyhäjärvi",
-            "en": "Walk by Lake Pyhäjärvi"
+            "en": "Walk by Lake Pyhäjärvi",
+            "fi": "Kävely Pyhäjärven rannalla"
           },
           "coords": [
             30.08,
@@ -151,7 +162,8 @@
             "de": "Genießen Sie die ruhige Atmosphäre und die schöne Aussicht auf den See.",
             "hu": "Élvezze a csendes légkört és a tóra nyíló gyönyörű kilátást.",
             "ro": "Bucurați-vă de atmosfera liniștită și de priveliștea frumoasă a lacului.",
-            "en": "Enjoy the quiet atmosphere and the beautiful view of the lake."
+            "en": "Enjoy the quiet atmosphere and the beautiful view of the lake.",
+            "fi": "Nauti rauhallisesta tunnelmasta ja järven kauniista näkymästä."
           }
         }
       ],
@@ -159,7 +171,8 @@
         "de": "Beginnen Sie Ihren Tag in Kitee mit einem Spaziergang durch das historische Zentrum, bei dem Sie das Denkmal für Pajarin Poika und die prächtige Steinkirche bewundern. Am Vormittag tauchen Sie in die lokale Kultur ein, besuchen das Heimatmuseum und die weltberühmte Nightwish-Ausstellung. Nach einem herzhaften karelischen Mittagessen führt Sie ein längerer Spaziergang am Nachmittag an die ruhigen Ufer des Pyhäjärvi-Sees. Schließen Sie den Tag mit der friedlichen Aussicht auf das Wasser ab und nehmen Sie die entspannte finnische Atmosphäre in sich auf.",
         "hu": "Kezdje a napot Kitee történelmi központjában egy sétával, megcsodálva a Pajarin Poika emlékművet és a csodálatos kőtemplomot. A délelőtt folyamán merüljön el a helyi kultúrában a Helytörténeti Múzeumban és a világhírű Nightwish kiállításon. Egy kiadós karéliai ebéd után délután egy hosszabb séta vezet a Pyhäjärvi-tó csendes partjához. Zárja a napot a víz békés látványával, magába szívva a nyugodt finn légkört.",
         "ro": "Începeți ziua în Kitee cu o plimbare prin centrul istoric, admirând monumentul Pajarin Poika și magnifica biserică de piatră. Dimineața, scufundați-vă în cultura locală la Muzeul de Istorie Locală și la faimoasa expoziție Nightwish. După un prânz karelian consistent, o plimbare mai lungă după-amiaza vă va duce pe malurile liniștite ale lacului Pyhäjärvi. Încheiați ziua cu priveliștea pașnică a apei, absorbind atmosfera finlandeză relaxată.",
-        "en": "Start your day in Kitee with a walk through the historic center, admiring the Pajarin Poika monument and the magnificent stone church. In the morning, immerse yourself in local culture at the Local History Museum and the world-famous Nightwish exhibition. After a hearty Karelian lunch, a longer afternoon walk will take you to the quiet shores of Lake Pyhäjärvi. End your day with the peaceful view of the water, absorbing the relaxed Finnish atmosphere."
+        "en": "Start your day in Kitee with a walk through the historic center, admiring the Pajarin Poika monument and the magnificent stone church. In the morning, immerse yourself in local culture at the Local History Museum and the world-famous Nightwish exhibition. After a hearty Karelian lunch, a longer afternoon walk will take you to the quiet shores of Lake Pyhäjärvi. End your day with the peaceful view of the water, absorbing the relaxed Finnish atmosphere.",
+        "fi": "Aloita päiväsi Kiteellä kävelemällä historiallisen keskustan läpi, ihaillen Pajarin Poika -muistomerkkiä ja upeaa kivikirkkoa. Aamulla uppoudu paikalliseen kulttuuriin kotiseutumuseossa ja maailmankuulussa Nightwish-näyttelyssä. Rehdeän karjalaisen lounaan jälkeen pidempi iltapäiväkävely vie sinut Pyhäjärven hiljaisille rannoille. Päivä päättyy rauhalliseen vesinäköalaan ja rentoon suomalaiseen tunnelmaan."
       },
       "gastro_picks": {
         "de": [
@@ -315,6 +328,11 @@
           "Wear comfortable shoes as the walk to the lake is a bit long.",
           "Check the opening hours for the museums, especially outside the main season.",
           "An umbrella or a light rain jacket is always a good idea in Finland."
+        ],
+        "fi": [
+          "Pue mukavat kengät, sillä kävely järvelle on hieman pitkä.",
+          "Tarkista museoiden aukioloajat, erityisesti sesongin ulkopuolella.",
+          "Sateenvarjo tai kevyt sadetakki on aina hyvä idea Suomessa."
         ]
       },
       "variants": {
@@ -323,7 +341,8 @@
             "de": "Beginnen Sie Ihren Tag trotz Regen am Pajarin Poika Denkmal, bevor Sie in der Kitee-Kirche Schutz suchen. Mittags tauchen Sie im Heimatmuseum und der faszinierenden Nightwish-Ausstellung tief in die lokale Kultur ein, während es draußen trommelt. Am Nachmittag genießen Sie ein warmes Mittagessen im Zentrum. Den Tag lassen Sie mit einem stimmungsvollen, aber nassen Spaziergang am Ufer des Pyhäjärvi-Sees aus, wo die Wolken tief über dem Wasser hängen.",
             "hu": "A reggelt kezdje esernyővel a Pajarin Poika emlékműnél, majd meneküljön az eső elől a Kitee templom csendjébe. Délben a helytörténeti múzeum és a Nightwish kiállítás kínál száraz és tartalmas programot a városközpontban. Ebédeljen meg kényelmesen egy meleg helyen. A délutánt a Pyhäjärvi-tó partján zárja, ahol az eső áztatta táj különleges, melankolikus arcát mutatja a szürke égbolt alatt.",
             "ro": "Începeți dimineața cu o umbrelă la Monumentul Pajarin Poika, apoi adăpostiți-vă de ploaie în biserica din Kitee. La prânz, explorați istoria locală și expoziția Nightwish, rămânând la adăpost în timp ce afară plouă. Savurați un prânz cald în centru pentru a vă reîncărca. Încheiați ziua cu o plimbare atmosferică pe malul lacului Pyhäjärvi, unde ceața și ploaia creează un peisaj nordic dramatic.",
-            "en": "Start your morning with an umbrella at the Pajarin Poika monument before seeking shelter in the peaceful Kitee Church. At noon, dive into local history and the world-famous Nightwish exhibition, staying dry indoors. Enjoy a warm lunch in the city center to dry off. Conclude your day with an atmospheric walk by Lake Pyhäjärvi, where the rain adds a moody, authentic Finnish touch to the landscape."
+            "en": "Start your morning with an umbrella at the Pajarin Poika monument before seeking shelter in the peaceful Kitee Church. At noon, dive into local history and the world-famous Nightwish exhibition, staying dry indoors. Enjoy a warm lunch in the city center to dry off. Conclude your day with an atmospheric walk by Lake Pyhäjärvi, where the rain adds a moody, authentic Finnish touch to the landscape.",
+            "fi": "Aloita aamusi Pajarin Poika -muistomerkillä sateenvarjon kanssa ennen kuin hakeudut suojaan rauhalliseen Kiteen kirkkoon. Keskipäivällä sukella sisätiloihin kotiseutumuseoon ja maailmankuuluun Nightwish-näyttelyyn pysyäksesi kuivana. Nauti lämpimästä lounaasta keskustassa kuivattuaksesi. Päätä päiväsi tunnelmallisella kävelyllä Pyhäjärven rannalla, jossa sade tuo maisemaan autenttisen ja haikean suomalaisen sävyn."
           },
           "stops": [
             {
@@ -332,7 +351,8 @@
                 "de": "Vorsicht auf dem rutschigen Kopfsteinpflaster rund um das Denkmal.",
                 "hu": "Vigyázzon a csúszós macskakövekre az emlékmű körül.",
                 "ro": "Atenție la pavajul alunecos din jurul monumentului.",
-                "en": "Watch out for slippery cobblestones around the monument."
+                "en": "Watch out for slippery cobblestones around the monument.",
+                "fi": "Varo liukkaita mukulakiviä muistomerkin ympärillä."
               }
             },
             {
@@ -341,7 +361,8 @@
                 "de": "Ein idealer Ort, um den Regenschirm kurz zu trocknen und Stille zu genießen.",
                 "hu": "Ideális hely az esernyő megszárítására és a csend élvezetére.",
                 "ro": "Un loc ideal pentru a usca umbrela și a vă bucura de liniște.",
-                "en": "A perfect place to dry your umbrella and enjoy the silence."
+                "en": "A perfect place to dry your umbrella and enjoy the silence.",
+                "fi": "Täydellinen paikka kuivata sateenvarjo ja nauttia hiljaisuudesta."
               }
             },
             {
@@ -350,7 +371,8 @@
                 "de": "Nutzen Sie die Garderobe, um nasse Mäntel vor dem Rundgang abzulegen.",
                 "hu": "Használja a ruhatárat a vizes kabátok letételéhez a körút előtt.",
                 "ro": "Folosiți garderoba pentru a lăsa haina udă înainte de vizită.",
-                "en": "Use the cloakroom to leave your wet coat before the tour."
+                "en": "Use the cloakroom to leave your wet coat before the tour.",
+                "fi": "Jätä märkä takki naulakkoon ennen kierrosta."
               }
             },
             {
@@ -359,7 +381,8 @@
                 "de": "Verweilen Sie länger bei den interaktiven Musikstationen, während es draußen regnet.",
                 "hu": "Időzzön többet az interaktív zenei állomásoknál, amíg kint esik.",
                 "ro": "Zăboviți mai mult la stațiile muzicale în timp ce afară plouă.",
-                "en": "Stay longer at the interactive music stations while it rains outside."
+                "en": "Stay longer at the interactive music stations while it rains outside.",
+                "fi": "Viivy pidempään interaktiivisilla musiikkiasemilla sateen ropistessa ulkona."
               }
             },
             {
@@ -368,7 +391,8 @@
                 "de": "Wählen Sie einen Platz am Fenster, um den Regen bei einer heißen Suppe zu beobachten.",
                 "hu": "Válasszon ablak melletti asztalt, és figyelje az esőt egy forró leves mellett.",
                 "ro": "Alegeți o masă la fereastră și priviți ploaia cu o supă caldă.",
-                "en": "Pick a window seat and watch the rain over a bowl of hot soup."
+                "en": "Pick a window seat and watch the rain over a bowl of hot soup.",
+                "fi": "Valitse ikkunapaikka ja katso sadetta kupposen kuuman keiton äärellä."
               }
             },
             {
@@ -377,7 +401,8 @@
                 "de": "Wasserdichte Schuhe sind für die unbefestigten Wege am Seeufer unerlässlich.",
                 "hu": "Vízálló cipő elengedhetetlen a tóparti kiépítetlen utakhoz.",
                 "ro": "Încălțămintea impermeabilă este esențială pentru potecile de pe mal.",
-                "en": "Waterproof shoes are essential for the unpaved paths by the shore."
+                "en": "Waterproof shoes are essential for the unpaved paths by the shore.",
+                "fi": "Vedenpitävät kengät ovat välttämättömät rannikon päällystämättömillä poluilla."
               }
             }
           ],
@@ -405,6 +430,12 @@
               "The museums in the center are close to each other, minimizing time spent in the rain.",
               "Check cafe opening hours for strategic indoor breaks.",
               "Utilize the bright church interior for photos if natural light is poor outside."
+            ],
+            "fi": [
+              "Pue laadukas sadetakki, sillä järveltä tuleva tuuli voi tehdä sateenvarjosta hyödyttömän.",
+              "Keskustan museot ovat lähellä toisiaan, joten aikaa vietetään mahdollisimman vähän ulkona sateessa.",
+              "Tarkista kahvilojen aukioloajat strategisia sisätilataukoja varten.",
+              "Hyödynnä kirkon valoisa sisätila valokuvia varten, jos luonnonvalo ulkona on heikko."
             ]
           }
         },
@@ -413,7 +444,8 @@
             "de": "Erleben Sie das verschneite Kitee am Morgen am Pajarin Poika Denkmal und wärmen Sie sich anschließend in der Kirche auf. Mittags bieten das Heimatmuseum und die Nightwish-Ausstellung eine willkommene Flucht vor dem Frost. Ein deftiges finnisches Mittagessen stärkt Sie für den Nachmittag. Bevor die frühe Dunkelheit einbricht, genießen Sie die magische Blaue Stunde bei einem kurzen Spaziergang am zugefrorenen Pyhäjärvi-See.",
             "hu": "Kezdje a fagyos reggelt a Pajarin Poika emlékműnél, majd melegedjen fel a templom belső terében. Délben a helytörténeti múzeum és a Nightwish kiállítás nyújt menedéket a csípős hideg elől. Egy kiadós finn ebéd után irány a szabadba: a korai naplemente előtt csodálja meg a befagyott Pyhäjärvi-tó látványát a varázslatos kék órában.",
             "ro": "Explorați Kitee sub zăpadă, începând cu monumentul Pajarin Poika, apoi încălziți-vă în biserică. La prânz, muzeul și expoziția Nightwish sunt refugiul perfect împotriva gerului finlandez. După un prânz consistent, profitați de puținele ore de lumină pentru o plimbare pe malul înghețat al lacului Pyhäjärvi, admirând apusul timpuriu.",
-            "en": "Experience snowy Kitee starting at the Pajarin Poika monument, then warm up inside the heated church. At noon, the local museum and Nightwish exhibition offer a cozy escape from the Finnish frost. After a hearty lunch, head out to catch the early sunset and the magical blue hour by the frozen expanse of Lake Pyhäjärvi before darkness falls."
+            "en": "Experience snowy Kitee starting at the Pajarin Poika monument, then warm up inside the heated church. At noon, the local museum and Nightwish exhibition offer a cozy escape from the Finnish frost. After a hearty lunch, head out to catch the early sunset and the magical blue hour by the frozen expanse of Lake Pyhäjärvi before darkness falls.",
+            "fi": "Koe luminen Kitee aloittaen Pajarin Poika -muistomerkiltä ja lämmittyen kirkon sisällä. Keskipäivällä kotiseutumuseo ja Nightwish-näyttely tarjoavat kodikkaan paon Suomen pakkaselta. Rehävän lounaan jälkeen suuntaa ihastelemaan aikaisen auringonlaskun ja taianomaisen sinisen tunnin näkymiä jäätyneen Pyhäjärven yllä ennen kuin pimeys laskeutuu."
           },
           "stops": [
             {
@@ -422,7 +454,8 @@
                 "de": "Achten Sie auf vereiste Stellen auf dem Weg zum Denkmal.",
                 "hu": "Ügyeljen a jeges foltokra az emlékműhöz vezető úton.",
                 "ro": "Atenție la porțiunile înghețate de pe drumul spre monument.",
-                "en": "Watch out for icy patches on the path to the monument."
+                "en": "Watch out for icy patches on the path to the monument.",
+                "fi": "Varo liukkaita kohtia polulla muistomerkille."
               }
             },
             {
@@ -431,7 +464,8 @@
                 "de": "Genießen Sie die wohlige Wärme im Inneren nach der kalten Morgenluft.",
                 "hu": "Élvezze a benti kellemes meleget a hideg reggeli levegő után.",
                 "ro": "Bucurați-vă de căldura din interior după aerul rece al dimineții.",
-                "en": "Enjoy the cozy warmth inside after the cold morning air."
+                "en": "Enjoy the cozy warmth inside after the cold morning air.",
+                "fi": "Nauti kodikkaasta lämmöstä sisällä kylmän aamuilman jälkeen."
               }
             },
             {
@@ -440,7 +474,8 @@
                 "de": "Die historischen Exponate wirken in der winterlichen Stille besonders authentisch.",
                 "hu": "A történelmi tárgyak a téli csendben különösen autentikusnak hatnak.",
                 "ro": "Exponatele istorice par deosebit de autentice în liniștea iernii.",
-                "en": "The historical exhibits feel especially authentic in the winter silence."
+                "en": "The historical exhibits feel especially authentic in the winter silence.",
+                "fi": "Historialliset näyttelyt tuntuvat erityisen autenttisilta talven hiljaisuudessa."
               }
             },
             {
@@ -449,7 +484,8 @@
                 "de": "Ein perfekter Ort, um sich für 1-2 Stunden im Warmen zu verlieren.",
                 "hu": "Tökéletes hely, hogy 1-2 órára elvesszen a melegben.",
                 "ro": "Un loc perfect pentru a petrece 1-2 ore la căldură.",
-                "en": "A perfect place to lose yourself in the warmth for 1-2 hours."
+                "en": "A perfect place to lose yourself in the warmth for 1-2 hours.",
+                "fi": "Täydellinen paikka unohtua lämpöön 1–2 tunniksi."
               }
             },
             {
@@ -458,7 +494,8 @@
                 "de": "Probieren Sie karelische Piirakka und heißen Beerensaft zum Aufwärmen.",
                 "hu": "Kóstolja meg a karjalai pitét és a forró bogyós gyümölcslevet.",
                 "ro": "Încercați plăcintele kareliene și sucul cald de fructe de pădure.",
-                "en": "Try Karelian pies and hot berry juice to warm up."
+                "en": "Try Karelian pies and hot berry juice to warm up.",
+                "fi": "Kokeile karjalanpiirakoita ja kuumaa marjamehua lämpenemiseen."
               }
             },
             {
@@ -467,7 +504,8 @@
                 "de": "Die Sonne geht im Winter oft schon vor 15:00 Uhr unter, planen Sie rechtzeitig.",
                 "hu": "A nap télen gyakran már 15:00 előtt lemegy, tervezzen időben.",
                 "ro": "Soarele apune adesea înainte de ora 15:00 iarna, planificați din timp.",
-                "en": "The sun often sets before 3:00 PM in winter, plan your visit accordingly."
+                "en": "The sun often sets before 3:00 PM in winter, plan your visit accordingly.",
+                "fi": "Aurinko laskee talvella usein ennen klo 15.00, ajoita vierailusi sen mukaan."
               }
             }
           ],
@@ -495,6 +533,12 @@
               "Buy hand warmers at a local shop for the walk by the lake.",
               "Paths are cleared, but winter boots with good grip are essential.",
               "Make the most of the short daylight hours (10:00–14:00) for outdoor photos."
+            ],
+            "fi": [
+              "Pue merinovillat ja kerrospukeutuminen, sillä lämpötila voi pudota selvästi pakkasen puolelle.",
+              "Osta paikallisesta kaupasta käsipolttimet järvellä kävelyä varten.",
+              "Polut on aurattu, mutta talvinilkkurit hyvällä pidolla ovat välttämättömät.",
+              "Hyödynnä lyhyet valoajat (10:00–14:00) ulkoilukuvaukseen."
             ]
           }
         }
@@ -513,7 +557,8 @@
             "de": "Kirche von Kitee & Heimatmuseum",
             "hu": "Kiteei templom és Helytörténeti Múzeum",
             "ro": "Biserica și Muzeul Local din Kitee",
-            "en": "Kitee Church & Local Museum"
+            "en": "Kitee Church & Local Museum",
+            "fi": "Kiteen kirkko & kotiseutumuseo"
           },
           "coords": [
             30.138,
@@ -528,7 +573,8 @@
             "de": "Beginnen Sie Ihren Tag mit einer Dosis Geschichte und Kultur an diesem kombinierten Ort.",
             "hu": "Kezdje a napot egy adag történelemmel és kultúrával ezen a kombinált helyszínen.",
             "ro": "Începeți ziua cu o doză de istorie și cultură în această locație combinată.",
-            "en": "Start your day with a dose of history and culture at this combined spot."
+            "en": "Start your day with a dose of history and culture at this combined spot.",
+            "fi": "Aloita päiväsi annoksella historiaa ja kulttuuria tässä yhdistetyssä kohteessa."
           }
         },
         {
@@ -536,7 +582,8 @@
             "de": "Nightwish-Ausstellung",
             "hu": "Nightwish Központ",
             "ro": "Centrul Nightwish",
-            "en": "Nightwish Center"
+            "en": "Nightwish Center",
+            "fi": "Nightwish-keskus"
           },
           "coords": [
             30.141,
@@ -551,7 +598,8 @@
             "de": "Schließen Sie Ihr Fahrrad gut ab und tauchen Sie ein in die Welt des Symphonic Metal.",
             "hu": "Zárja le biztonságosan a kerékpárját, és merüljön el a szimfonikus metál világában.",
             "ro": "Legați-vă bine bicicleta și scufundați-vă în lumea metalului simfonic.",
-            "en": "Lock your bike securely and dive into the world of symphonic metal."
+            "en": "Lock your bike securely and dive into the world of symphonic metal.",
+            "fi": "Lukitse pyöräsi turvallisesti ja sukelta symfonisen metallin maailmaan."
           }
         },
         {
@@ -559,7 +607,8 @@
             "de": "Radfahrt zum Pyhäjärvi See",
             "hu": "Kerékpártúra a Pyhäjärvi-tóhoz",
             "ro": "Tură cu bicicleta la Lacul Pyhäjärvi",
-            "en": "Bike Ride to Lake Pyhäjärvi"
+            "en": "Bike Ride to Lake Pyhäjärvi",
+            "fi": "Pyöräretki Pyhäjärvelle"
           },
           "coords": [
             30.08,
@@ -574,7 +623,8 @@
             "de": "Eine erfrischende Fahrt. Machen Sie ein Picknick am Ufer.",
             "hu": "Egy frissítő túra. Piknikezzen a tóparton.",
             "ro": "O plimbare revigorantă. Faceți un picnic pe mal.",
-            "en": "A refreshing ride. Have a picnic by the shore."
+            "en": "A refreshing ride. Have a picnic by the shore.",
+            "fi": "Raikas ajelu. Pidä piknik rannalla."
           }
         },
         {
@@ -582,7 +632,8 @@
             "de": "Historische Mühle Puhos",
             "hu": "Történelmi Puhos malom",
             "ro": "Moara istorică din Puhos",
-            "en": "Historic Mill of Puhos"
+            "en": "Historic Mill of Puhos",
+            "fi": "Puhoksen historiallinen mylly"
           },
           "coords": [
             30.22,
@@ -597,7 +648,8 @@
             "de": "Erfahren Sie mehr über die Anfänge des finnischen Dampfschiffbaus.",
             "hu": "Ismerje meg a finn gőzhajógyártás kezdeteit.",
             "ro": "Aflați despre începuturile construcției de vapoare cu aburi în Finlanda.",
-            "en": "Learn about the dawn of Finnish steamship building."
+            "en": "Learn about the dawn of Finnish steamship building.",
+            "fi": "Tutustu suomalaisen höyrylaivanrakennuksen alkuvaiheisiin."
           }
         },
         {
@@ -605,7 +657,8 @@
             "de": "Kitee Zoo",
             "hu": "Kiteei Állatkert",
             "ro": "Grădina Zoologică Kitee",
-            "en": "Kitee Zoo"
+            "en": "Kitee Zoo",
+            "fi": "Kiteen eläinpuisto"
           },
           "coords": [
             30.06,
@@ -620,7 +673,8 @@
             "de": "Beobachten Sie einheimische finnische Tiere in einer naturnahen Umgebung.",
             "hu": "Figyelje meg a finn őshonos állatokat természetes környezetükben.",
             "ro": "Observați animalele native finlandeze într-un mediu natural.",
-            "en": "Observe native Finnish animals in a naturalistic setting."
+            "en": "Observe native Finnish animals in a naturalistic setting.",
+            "fi": "Tarkkaile kotimaisia suomalaisia eläimiä luonnonmukaisissa olosuhteissa."
           }
         },
         {
@@ -628,7 +682,8 @@
             "de": "Rückfahrt ins Zentrum",
             "hu": "Vissza a központba",
             "ro": "Întoarcere în centru",
-            "en": "Ride back to the center"
+            "en": "Ride back to the center",
+            "fi": "Pyöräile takaisin keskustaan"
           },
           "coords": [
             30.1333,
@@ -643,7 +698,8 @@
             "de": "Beenden Sie den Tag mit einem wohlverdienten Abendessen.",
             "hu": "Zárja a napot egy jól megérdemelt vacsorával.",
             "ro": "Încheiați ziua cu o cină binemeritată.",
-            "en": "End the day with a well-deserved dinner."
+            "en": "End the day with a well-deserved dinner.",
+            "fi": "Päätä päivä ansaittuun illalliseen."
           }
         }
       ],
@@ -651,7 +707,8 @@
         "de": "Starten Sie Ihre Radtour in Kitee im kulturellen Herzen der Stadt, bei der Kirche und dem Heimatmuseum. Eine kurze Fahrt bringt Sie zur Nightwish-Ausstellung, ein Highlight für Musikfans. Am Mittag genießen Sie eine malerische Fahrt zum Pyhäjärvi-See für eine ausgedehnte Pause in der Natur. Am Nachmittag entdecken Sie Industriegeschichte an der Mühle von Puhos und besuchen anschließend die einheimischen Tiere im Kitee Zoo. Die Tour endet mit der Rückfahrt ins Zentrum, wo ein leckeres Abendessen auf Sie wartet.",
         "hu": "Kezdje kerékpártúráját Kitee kulturális szívében, a templomnál és a helytörténeti múzeumnál. Egy rövid tekerés elviszi a Nightwish kiállításhoz, amely a zenerajongók fénypontja. Délben élvezze a festői utat a Pyhäjärvi-tóhoz egy hosszabb pihenőre a természetben. Délután fedezze fel az ipartörténetet a puhosi malomnál, majd látogassa meg a kiteei állatkert őshonos állatait. A túra a központba való visszatéréssel zárul, ahol finom vacsora várja.",
         "ro": "Începeți turul cu bicicleta în inima culturală a orașului Kitee, la biserică și muzeul local. O scurtă plimbare vă duce la expoziția Nightwish, un punct culminant pentru fanii muzicii. La prânz, bucurați-vă de o plimbare pitorească până la lacul Pyhäjärvi pentru o pauză prelungită în natură. După-amiaza, descoperiți istoria industrială la moara din Puhos, apoi vizitați animalele native la Grădina Zoologică Kitee. Turul se încheie cu întoarcerea în centru, unde vă așteaptă o cină delicioasă.",
-        "en": "Start your bike tour in Kitee's cultural heart, at the church and local museum. A short ride takes you to the Nightwish exhibition, a highlight for music fans. At midday, enjoy a scenic ride to Lake Pyhäjärvi for an extended break in nature. In the afternoon, discover industrial history at the Puhos mill, then visit the native animals at Kitee Zoo. The tour concludes by returning to the center, where a delicious dinner awaits."
+        "en": "Start your bike tour in Kitee's cultural heart, at the church and local museum. A short ride takes you to the Nightwish exhibition, a highlight for music fans. At midday, enjoy a scenic ride to Lake Pyhäjärvi for an extended break in nature. In the afternoon, discover industrial history at the Puhos mill, then visit the native animals at Kitee Zoo. The tour concludes by returning to the center, where a delicious dinner awaits.",
+        "fi": "Aloita pyöräretki Kiteen kulttuurisydämestä, kirkolta ja paikallismuseolta. Lyhyt ajomatka vie Nightwish-näyttelyyn, joka on musiikin ystäville kohokohta. Keskipäivällä nauti maisemarikkaasta pyörälenkistä Pyhäjärven rannalle pidemmälle luonnon tauolle. Iltapäivällä tutustu teollisuushistoriaan Puhoksen myllyllä ja käy kotieläimiä esittelevässä eläinpuistossa. Kierros päättyy paluuseen keskustaan, jossa odottaa herkullinen illallinen."
       },
       "gastro_picks": {
         "de": [
@@ -795,6 +852,12 @@
           "Bring plenty of water and snacks for the longer rides.",
           "A helmet is highly recommended.",
           "Check the weather forecast before you set off."
+        ],
+        "fi": [
+          "Vuokraa pyörä, jossa on hyvät vaihteet, sillä mäkiä voi olla.",
+          "Ota riittävästi vettä ja eväitä pidemmille osuuksille.",
+          "Kypärä on erittäin suositeltava.",
+          "Tarkista säätiedotus ennen lähtöä."
         ]
       },
       "variants": {
@@ -803,7 +866,8 @@
             "de": "Radeln Sie am Morgen zügig zur Kirche und zum Museum, um den Regenschauern zu entkommen. Mittags bietet das Nightwish Center eine ausgiebige trockene Pause. Die Fahrt zum Pyhäjärvi-See ist nass, aber erfrischend. Besuchen Sie die historische Mühle von Puhos und den Zoo, wobei Sie auf den Waldwegen vorsichtig fahren sollten. Den Tag beenden Sie im Zentrum bei einer warmen Mahlzeit, um wieder trocken zu werden.",
             "hu": "Tekerjen tempósan a templomhoz és a múzeumhoz, hogy elkerülje a reggeli záport. Délben a Nightwish Center kínál hosszú, száraz pihenőt. A Pyhäjärvi-tóhoz vezető út vizes lesz, de frissítő. Látogasson el a puhosi malomhoz és az állatkertbe, óvatosan közlekedve az erdei utakon. A napot a központban zárja egy forró étellel, hogy teljesen megszáradjon.",
             "ro": "Pedalați rapid spre biserică și muzeu dimineața pentru a evita aversele. La prânz, Centrul Nightwish oferă o pauză lungă și uscată. Drumul spre lacul Pyhäjärvi va fi umed, dar revigorant. Vizitați moara din Puhos și grădina zoologică, conducând cu grijă pe potecile de pădure. Încheiați ziua în centru cu o masă caldă pentru a vă usca complet.",
-            "en": "Cycle briskly to the church and museum in the morning to escape the rain showers. At noon, the Nightwish Center provides a long, dry break. The ride to Lake Pyhäjärvi will be wet but refreshing. Visit the Puhos mill and the zoo, taking care on the forest paths. End your day back in the center with a hot meal to dry off and warm up."
+            "en": "Cycle briskly to the church and museum in the morning to escape the rain showers. At noon, the Nightwish Center provides a long, dry break. The ride to Lake Pyhäjärvi will be wet but refreshing. Visit the Puhos mill and the zoo, taking care on the forest paths. End your day back in the center with a hot meal to dry off and warm up.",
+            "fi": "Pyöräile aamulla ripeästi kirkolle ja museolle välttääksesi sadekuuroja. Päivällä Nightwish-keskus tarjoaa pitkän, kuivan tauon. Matka Pyhäjärvelle voi olla märkä mutta virkistävä. Vieraile Puhoksen myllyllä ja eläinpuistossa ja ole varovainen metsäpoluilla. Päätä päiväsi takaisin keskustassa kuuman aterian ääressä kuivautuaksesi ja lämmetäksesi."
           },
           "stops": [
             {
@@ -812,7 +876,8 @@
                 "de": "Parken Sie Ihr Rad nah am Eingang unter einem Vordach, falls möglich.",
                 "hu": "Parkoljon a bejárat közelében egy előtető alatt, ha lehetséges.",
                 "ro": "Parcați bicicleta lângă intrare sub un acoperiș, dacă este posibil.",
-                "en": "Park your bike near the entrance under a canopy if possible."
+                "en": "Park your bike near the entrance under a canopy if possible.",
+                "fi": "Pysäköi pyörä sisäänkäynnin lähelle katoksen alle, jos mahdollista."
               }
             },
             {
@@ -821,7 +886,8 @@
                 "de": "Ein guter Ort, um die Regenbekleidung kurz auszuschütteln.",
                 "hu": "Jó hely az esőruházat rövid lerázására.",
                 "ro": "Un loc bun pentru a scutura rapid echipamentul de ploaie.",
-                "en": "A good place to briefly shake off your rain gear."
+                "en": "A good place to briefly shake off your rain gear.",
+                "fi": "Hyvä paikka nopeasti riisua sadetakki."
               }
             },
             {
@@ -830,7 +896,8 @@
                 "de": "Vorsicht vor Aquaplaning auf den asphaltierten Radwegen.",
                 "hu": "Vigyázzon a felvizesedett aszfaltra a kerékpárutakon.",
                 "ro": "Atenție la acvaplanare pe pistele de biciclete asfaltate.",
-                "en": "Watch out for aquaplaning on paved bicycle paths."
+                "en": "Watch out for aquaplaning on paved bicycle paths.",
+                "fi": "Varo vesiliirtoa päällystetyillä pyöräteillä."
               }
             },
             {
@@ -839,7 +906,8 @@
                 "de": "Das alte Holz kann bei Nässe sehr rutschig sein.",
                 "hu": "A régi fa szerkezetek vizesen nagyon csúszósak lehetnek.",
                 "ro": "Lemnul vechi poate fi foarte alunecos când este ud.",
-                "en": "The old wood can be very slippery when wet."
+                "en": "The old wood can be very slippery when wet.",
+                "fi": "Vanha puu voi olla hyvin liukas märänä."
               }
             },
             {
@@ -848,7 +916,8 @@
                 "de": "Viele Tiergehege bieten überdachte Beobachtungspunkte.",
                 "hu": "Sok kifutónál van fedett megfigyelőpont.",
                 "ro": "Multe țarcuri oferü puncte de observație acoperite.",
-                "en": "Many animal enclosures offer covered observation points."
+                "en": "Many animal enclosures offer covered observation points.",
+                "fi": "Monissa eläinten aitauksissa on katettuja havaintopaikkoja."
               }
             },
             {
@@ -857,7 +926,8 @@
                 "de": "Nutzen Sie Schutzbleche, um Schlammspritzer zu vermeiden.",
                 "hu": "Használjon sárvédőt, hogy elkerülje a sárfelverődést.",
                 "ro": "Folosiți apărători de noroi pentru a evita stropirea.",
-                "en": "Use mudguards to avoid getting splashed with mud."
+                "en": "Use mudguards to avoid getting splashed with mud.",
+                "fi": "Käytä lokasuojia välttääksesi mutatahroja."
               }
             }
           ],
@@ -885,6 +955,12 @@
               "Check your brakes, as stopping distance is longer on wet roads.",
               "Take plastic bags to keep your saddle and luggage dry.",
               "Avoid forest paths during heavy rain and stick to asphalt roads."
+            ],
+            "fi": [
+              "Sadesuoja (poncho) on käytännöllisempi kuin sateenvarjo pyöräillessä.",
+              "Tarkista jarrut, sillä pysähtymismatka on pidempi märillä teillä.",
+              "Ota mukaan muovipusseja satulan ja tavaroiden suojaamiseksi.",
+              "Vältä metsäpolkuja rankkasateella ja pysy asfaltoiduilla teillä."
             ]
           }
         },
@@ -893,7 +969,8 @@
             "de": "Starten Sie vorsichtig auf verschneiten Wegen zu Kirche und Museum. Mittags wärmen Sie sich im Nightwish Center auf, bevor Sie die winterliche Fahrt zum Pyhäjärvi-See antreten. Die verschneite Landschaft bei der Mühle von Puhos und im Zoo ist atemberaubend, erfordert aber gute Kondition. Den Tag beenden Sie bei Einbruch der Dunkelheit im Zentrum mit einem heißen Getränk, um die Lebensgeister zu wecken.",
             "hu": "Kezdje óvatosan a napot a havas utakon a templom és a múzeum felé. Délben melegedjen fel a Nightwish Centerben, mielőtt belevágna a téli kerekezésbe a Pyhäjärvi-tóhoz. A puhosi malom és az állatkert havas tája lenyűgöző, de jó állóképességet igényel. A napot sötétedéskor zárja a központban egy forró itallal, hogy visszanyerje energiáját.",
             "ro": "Începeți ziua cu prudență pe drumurile înzăpezite spre biserică și muzeu. La prânz, încălziți-vă la Centrul Nightwish înainte de tura de iarnă spre lacul Pyhäjärvi. Peisajul înzăpezit de la moara din Puhos și de la zoo este superb, dar necesită condiție fizică. Încheiați ziua la lăsarea întunericului în centru cu o băutură fierbinte.",
-            "en": "Start carefully on snowy paths toward the church and museum. At noon, warm up at the Nightwish Center before embarking on a winter ride to Lake Pyhäjärvi. The snowy landscape at the Puhos mill and the zoo is breathtaking but requires good physical fitness. End your day at dusk in the center with a hot drink to recharge your energy."
+            "en": "Start carefully on snowy paths toward the church and museum. At noon, warm up at the Nightwish Center before embarking on a winter ride to Lake Pyhäjärvi. The snowy landscape at the Puhos mill and the zoo is breathtaking but requires good physical fitness. End your day at dusk in the center with a hot drink to recharge your energy.",
+            "fi": "Lähde varovasti lumisilla poluilla kohti kirkkoa ja museota. Päivällä lämmittele Nightwish-keskuksessa ennen talvista pyörämatkaa Pyhäjärvelle. Puhoksen myllyn ja eläinpuiston luminen maisema on henkeäsalpaava mutta vaatii hyvää kuntoa. Päätä päiväsi hämärässä keskustassa kuuman juoman äärellä saadaksesi uutta energiaa."
           },
           "stops": [
             {
@@ -902,7 +979,8 @@
                 "de": "Klopfen Sie den Schnee von Ihren Schuhen, bevor Sie eintreten.",
                 "hu": "Rázza le a havat a cipőjéről, mielőtt belépne.",
                 "ro": "Scuturați zăpada de pe încălțăminte înainte de a intra.",
-                "en": "Shake the snow off your shoes before entering."
+                "en": "Shake the snow off your shoes before entering.",
+                "fi": "Täristä lumi pois kengistä ennen sisäänmenoa."
               }
             },
             {
@@ -911,7 +989,8 @@
                 "de": "Nutzen Sie die Zeit, um Ihre eingefrorenen Finger aufzuwärmen.",
                 "hu": "Használja ki az időt az átfagyott ujjai felmelegítésére.",
                 "ro": "Folosiți timpul pentru a vă încălzi degetele înghețate.",
-                "en": "Use the time to warm up your frozen fingers."
+                "en": "Use the time to warm up your frozen fingers.",
+                "fi": "Käytä aikaa jäätyneiden sormien lämmittelyyn."
               }
             },
             {
@@ -920,7 +999,8 @@
                 "de": "Fahren Sie in den Fahrrinnen der Autos, dort ist der Schnee oft fester.",
                 "hu": "Haladjon az autók keréknyomában, ott gyakran tömörödött a hó.",
                 "ro": "Pedalați pe urmele mașinilor, unde zăpada este mai bătătorită.",
-                "en": "Ride in the tire tracks of cars, where the snow is often firmer."
+                "en": "Ride in the tire tracks of cars, where the snow is often firmer.",
+                "fi": "Aja autojen rengasjäljissä, missä lumi on usein kovempaa."
               }
             },
             {
@@ -929,7 +1009,8 @@
                 "de": "Die gefrorenen Stromschnellen sind ein fantastisches Fotomotiv.",
                 "hu": "A befagyott zúgók fantasztikus fotótémát szolgáltatnak.",
                 "ro": "Vâltorile înghețate sunt un subiect fantastic pentru fotografii.",
-                "en": "The frozen rapids are a fantastic subject for photos."
+                "en": "The frozen rapids are a fantastic subject for photos.",
+                "fi": "Jäätyneet kosket ovat upea kuvauskohde."
               }
             },
             {
@@ -938,7 +1019,8 @@
                 "de": "Besuchen Sie die Luchse und Vielfraße, die im Winter besonders aktiv sind.",
                 "hu": "Látogassa meg a hiúzokat és rozsomákokat, télen nagyon aktívak.",
                 "ro": "Vizitați râșii și glutonii, sunt foarte activi iarna.",
-                "en": "Visit the lynxes and wolverines; they are very active in winter."
+                "en": "Visit the lynxes and wolverines; they are very active in winter.",
+                "fi": "Vieraile ilvesten ja ahmojen luona; ne ovat talvella hyvin aktiivisia."
               }
             },
             {
@@ -947,7 +1029,8 @@
                 "de": "Stellen Sie sicher, dass Ihre Lichter bei der frühen Dunkelheit funktionieren.",
                 "hu": "Győződjön meg róla, hogy a lámpái működnek a korai sötétedésben.",
                 "ro": "Asigurați-vă că luminile funcționează pentru întunericul timpuriu.",
-                "en": "Make sure your lights are working for the early darkness."
+                "en": "Make sure your lights are working for the early darkness.",
+                "fi": "Varmista, että valot toimivat varhaista pimeää varten."
               }
             }
           ],
@@ -975,6 +1058,12 @@
               "Avoid sudden braking on icy surfaces.",
               "Wear a windproof mask or a scarf over your face.",
               "Your e-bike battery will drain significantly faster in the cold."
+            ],
+            "fi": [
+              "Nastarenkaat ovat lähes välttämättömät pyöräilyssä suomalaisessa talvessa.",
+              "Vältä äkillistä jarrutusta jäisillä pinnoilla.",
+              "Pue tuulenpitävä naamio tai huivi kasvojen suojaksi.",
+              "Sähköpyörän akku tyhjenee selvästi nopeammin kylmässä."
             ]
           }
         }
@@ -993,7 +1082,8 @@
             "de": "Cluster 1: Kitee Zoo",
             "hu": "1. klaszter: Kiteei Állatkert",
             "ro": "Cluster 1: Grădina Zoologică Kitee",
-            "en": "Cluster 1: Kitee Zoo"
+            "en": "Cluster 1: Kitee Zoo",
+            "fi": "Klusteri 1: Kiteen eläinpuisto"
           },
           "coords": [
             30.06,
@@ -1009,7 +1099,8 @@
             "de": "Starten Sie den Tag mit den Tieren. Der Parkplatz ist direkt am Eingang.",
             "hu": "Kezdje a napot az állatokkal. A parkoló közvetlenül a bejáratnál található.",
             "ro": "Începeți ziua cu animalele. Parcarea este chiar la intrare.",
-            "en": "Start the day with the animals. Parking is right at the entrance."
+            "en": "Start the day with the animals. Parking is right at the entrance.",
+            "fi": "Aloita päivä eläinten parissa. Pysäköinti on aivan sisäänkäynnin luona."
           }
         },
         {
@@ -1017,7 +1108,8 @@
             "de": "Cluster 2: Historisches Zentrum (Parken)",
             "hu": "2. klaszter: Történelmi központ (parkolás)",
             "ro": "Cluster 2: Centru Istoric (Parcare)",
-            "en": "Cluster 2: Historic Center (Parking)"
+            "en": "Cluster 2: Historic Center (Parking)",
+            "fi": "Klusteri 2: Historiallinen keskusta (pysäköinti)"
           },
           "coords": [
             30.137,
@@ -1033,7 +1125,8 @@
             "de": "Parken Sie hier und erkunden Sie die nächsten Sehenswürdigkeiten zu Fuß.",
             "hu": "Parkoljon itt, és fedezze fel a következő látnivalókat gyalog.",
             "ro": "Parcați aici și explorați următoarele atracții pe jos.",
-            "en": "Park here and explore the next few sights on foot."
+            "en": "Park here and explore the next few sights on foot.",
+            "fi": "Pysäköi täällä ja tutki seuraavat nähtävyydet kävellen."
           }
         },
         {
@@ -1041,7 +1134,8 @@
             "de": "Kirche von Kitee",
             "hu": "Kiteei kőtemplom",
             "ro": "Biserica din Kitee",
-            "en": "Kitee Church"
+            "en": "Kitee Church",
+            "fi": "Kiteen kirkko"
           },
           "coords": [
             30.138,
@@ -1057,7 +1151,8 @@
             "de": "Ein kurzer Spaziergang vom Parkplatz zur beeindruckenden Steinkirche.",
             "hu": "Egy rövid séta a parkolótól a lenyűgöző kőtemplomig.",
             "ro": "O scurtă plimbare de la parcare la impresionanta biserică de piatră.",
-            "en": "A short walk from the parking spot to the impressive stone church."
+            "en": "A short walk from the parking spot to the impressive stone church.",
+            "fi": "Lyhyt kävely pysäköintipaikalta vaikuttavalle kivikirkolle."
           }
         },
         {
@@ -1065,7 +1160,8 @@
             "de": "Heimatmuseum & Nightwish-Ausstellung",
             "hu": "Helytörténeti Múzeum és Nightwish Kiállítás",
             "ro": "Muzeul Local și Expoziția Nightwish",
-            "en": "Local Museum & Nightwish Exhibition"
+            "en": "Local Museum & Nightwish Exhibition",
+            "fi": "Paikallismuseo & Nightwish-näyttely"
           },
           "coords": [
             30.14,
@@ -1081,7 +1177,8 @@
             "de": "Planen Sie genügend Zeit ein, um beide Attraktionen am selben Ort zu genießen.",
             "hu": "Szánjon elég időt mindkét látnivaló élvezetére ugyanazon a helyen.",
             "ro": "Planificați-vă suficient timp pentru a vă bucura de ambele atracții în aceeași locație.",
-            "en": "Plan enough time to enjoy both attractions in the same location."
+            "en": "Plan enough time to enjoy both attractions in the same location.",
+            "fi": "Varaa riittävästi aikaa molempien samassa paikassa olevien nähtävyyksien nauttimiseen."
           }
         },
         {
@@ -1089,7 +1186,8 @@
             "de": "Mittagessen",
             "hu": "Ebéd",
             "ro": "Prânz",
-            "en": "Lunch"
+            "en": "Lunch",
+            "fi": "Lounas"
           },
           "coords": [
             30.139,
@@ -1105,7 +1203,8 @@
             "de": "Mehrere Restaurants sind vom zentralen Parkplatz aus leicht zu Fuß erreichbar.",
             "hu": "Számos étterem könnyen megközelíthető gyalog a központi parkolóból.",
             "ro": "Mai multe restaurante sunt la mică distanță de mers pe jos de parcarea centrală.",
-            "en": "Several restaurants are within easy walking distance of the central parking area."
+            "en": "Several restaurants are within easy walking distance of the central parking area.",
+            "fi": "Useita ravintoloita on kätevästi kävelyetäisyydellä keskustan pysäköintialueelta."
           }
         },
         {
@@ -1113,7 +1212,8 @@
             "de": "Cluster 3: Historische Mühle Puhos",
             "hu": "3. klaszter: Történelmi Puhos malom",
             "ro": "Cluster 3: Moara istorică din Puhos",
-            "en": "Cluster 3: Historic Mill of Puhos"
+            "en": "Cluster 3: Historic Mill of Puhos",
+            "fi": "Klusteri 3: Puhoksen historiallinen mylly"
           },
           "coords": [
             30.22,
@@ -1129,7 +1229,8 @@
             "de": "Eine kurze Fahrt zu einem wichtigen Ort der finnischen Industriegeschichte.",
             "hu": "Egy rövid autóút a finn ipartörténet egyik fontos helyszínére.",
             "ro": "O scurtă călătorie cu mașina către un loc important din istoria industrială a Finlandei.",
-            "en": "A short drive to an important site in Finnish industrial history."
+            "en": "A short drive to an important site in Finnish industrial history.",
+            "fi": "Lyhyt ajomatka merkittävälle kohteelle suomalaisessa teollisuushistoriassa."
           }
         },
         {
@@ -1137,7 +1238,8 @@
             "de": "Fahrt zum Pyhäjärvi See",
             "hu": "Utazás a Pyhäjärvi-tóhoz",
             "ro": "Călătorie la Lacul Pyhäjärvi",
-            "en": "Drive to Lake Pyhäjärvi"
+            "en": "Drive to Lake Pyhäjärvi",
+            "fi": "Aja Pyhäjärvelle"
           },
           "coords": [
             30.08,
@@ -1153,7 +1255,8 @@
             "de": "Beenden Sie den Tag mit einem entspannenden Halt am See, bevor Sie nach Hause fahren.",
             "hu": "Zárja a napot egy pihentető megállóval a tónál, mielőtt hazaindul.",
             "ro": "Încheiați ziua cu o oprire relaxantă la lac înainte de a vă întoarce acasă.",
-            "en": "End the day with a relaxing stop at the lake before heading home."
+            "en": "End the day with a relaxing stop at the lake before heading home.",
+            "fi": "Päätä päivä rentouttavalla pysähdyksellä järvellä ennen kotiinlähtöä."
           }
         }
       ],
@@ -1161,7 +1264,8 @@
         "de": "Ihr Autotag in Kitee beginnt im Norden im Kitee Zoo, wo Sie den Vormittag mit der Beobachtung finnischer Wildtiere verbringen. Danach fahren Sie ins Zentrum von Kitee, parken Ihr Auto und erkunden den historischen Kern zu Fuß. Besichtigen Sie die Steinkirche und tauchen Sie im Heimatmuseum und in der Nightwish-Ausstellung tief in die lokale Kultur ein. Nach dem Mittagessen im Zentrum führt Sie eine kurze Autofahrt zur historischen Mühle von Puhos. Der Tag endet mit einer Fahrt zum malerischen Pyhäjärvi-See, wo Sie die friedliche Atmosphäre genießen können, bevor Sie Ihre Reise fortsetzen.",
         "hu": "Autós napja Kiteeben északon, a kiteei állatkertben kezdődik, ahol a délelőttöt a finn vadvilág megfigyelésével tölti. Ezután Kitee központjába hajt, leparkolja az autót, és gyalog fedezi fel a történelmi magot. Látogasson el a kőtemplomhoz, és merüljön el a helyi kultúrában a helytörténeti múzeumban és a Nightwish kiállításon. A központban elköltött ebéd után egy rövid autóút vezet a történelmi puhosi malomhoz. A nap egy festői autózással zárul a Pyhäjärvi-tóhoz, ahol élvezheti a békés hangulatot, mielőtt folytatná útját.",
         "ro": "Ziua dumneavoastră cu mașina în Kitee începe în nord, la Grădina Zoologică Kitee, unde petreceți dimineața observând fauna finlandeză. Apoi, conduceți spre centrul orașului Kitee, parcați mașina și explorați nucleul istoric pe jos. Vizitați biserica de piatră și aprofundați cultura locală la muzeul local și la expoziția Nightwish. După prânz în centru, o scurtă călătorie cu mașina vă duce la moara istorică din Puhos. Ziua se încheie cu o plimbare pitorească cu mașina până la lacul Pyhäjärvi, unde vă puteți bucura de atmosfera pașnică înainte de a vă continua călătoria.",
-        "en": "Your car day in Kitee starts up north at the Kitee Zoo, spending the morning observing Finnish wildlife. Afterwards, you'll drive to the center of Kitee, park your car, and explore the historic core on foot. Visit the stone church and take a deep dive into local culture at the local museum and Nightwish exhibition. After lunch in the center, a short drive takes you to the historic Puhos Mill. The day concludes with a scenic drive to Lake Pyhäjärvi, where you can enjoy the peaceful atmosphere before continuing your journey."
+        "en": "Your car day in Kitee starts up north at the Kitee Zoo, spending the morning observing Finnish wildlife. Afterwards, you'll drive to the center of Kitee, park your car, and explore the historic core on foot. Visit the stone church and take a deep dive into local culture at the local museum and Nightwish exhibition. After lunch in the center, a short drive takes you to the historic Puhos Mill. The day concludes with a scenic drive to Lake Pyhäjärvi, where you can enjoy the peaceful atmosphere before continuing your journey.",
+        "fi": "Autopäiväsi Kiteellä alkaa pohjoisesta Kiteen eläinpuistosta, jossa vietät aamun suomalaista luonnoneläimistöä tarkkaillen. Sen jälkeen ajat keskustaan, pysäköit ja tutkit historiallisen ytimen jalkaisin. Käy kivikirkossa ja sukella paikalliseen kulttuuriin paikallismuseossa ja Nightwish-näyttelyssä. Lounaan jälkeen lyhyt ajomatka vie Puhoksen historialliselle myllylle. Päivä päättyy maisemalliseen ajomatkaan Pyhäjärvelle, jossa voit nauttia rauhallisesta tunnelmasta ennen matkan jatkamista."
       },
       "gastro_picks": {
         "de": [
@@ -1321,6 +1425,12 @@
           "Parking fees may apply in the town center.",
           "Roads are generally in good condition, but drive carefully on smaller country roads.",
           "Fill up your gas tank before exploring more rural areas."
+        ],
+        "fi": [
+          "Käytä kartta- tai navigointisovellusta klustereiden välillä liikkumiseen.",
+          "Pysäköintimaksuja saatetaan periä keskustassa.",
+          "Tiet ovat yleensä hyväkuntoisia, mutta aja varovasti pienemmillä maanteillä.",
+          "Täytä tankki ennen siirtymistä maaseudulle."
         ]
       },
       "variants": {
@@ -1329,7 +1439,8 @@
             "de": "Starten Sie trocken im Kitee Zoo, wo Sie Tiere auch bei Regen beobachten können. Danach fahren Sie ins Zentrum, parken nah an der Kirche und dem Museum. Mittags verbringen Sie viel Zeit in der Nightwish-Ausstellung, während draußen der Regen prasselt. Nach einem gemütlichen Mittagessen fahren Sie zur Mühle von Puhos und genießen den Blick auf den Pyhäjärvi-See bequem vom Auto aus.",
             "hu": "Kezdje a napot szárazon a Kitee állatkertben, ahol esőben is láthatók az állatok. Ezután irány a központ, parkoljon közel a templomhoz és a múzeumhoz. Délben töltsön több időt a Nightwish kiállításon, miközben kint kopog az eső. Egy kellemes ebéd után hajtson el a puhosi malomhoz, a Pyhäjärvi-tó látványát pedig élvezze kényelmesen az autóból.",
             "ro": "Începeți ziua la adăpost în Grădina Zoologică Kitee, unde animalele pot fi văzute și pe ploaie. Apoi conduceți spre centru și parcați aproape de biserică și muzeu. La prânz, petreceți timp la expoziția Nightwish în timp ce afară plouă torențial. După un prânz relaxat, mergeți la moara din Puhos și admirați lacul Pyhäjärvi direct din mașină.",
-            "en": "Start your day dry at Kitee Zoo, where many enclosures offer shelter. Then drive to the center and park close to the church and museum. Spend your midday at the Nightwish exhibition while the rain pours outside. After a cozy lunch, drive to the Puhos mill and enjoy the views of Lake Pyhäjärvi comfortably from your car."
+            "en": "Start your day dry at Kitee Zoo, where many enclosures offer shelter. Then drive to the center and park close to the church and museum. Spend your midday at the Nightwish exhibition while the rain pours outside. After a cozy lunch, drive to the Puhos mill and enjoy the views of Lake Pyhäjärvi comfortably from your car.",
+            "fi": "Aloita päiväsi kuivana Kiteen eläinpuistossa, jossa monissa aitauksissa on suojaa. Aja sitten keskustaan ja pysäköi lähelle kirkkoa ja museota. Vietä keskipäivä Nightwish-näyttelyssä sateen ropistessa ulkona. Tunnelmallisen lounaan jälkeen aja Puhoksen myllylle ja nauti Pyhäjärven maisemista mukavasti autosta käsin."
           },
           "stops": [
             {
@@ -1338,7 +1449,8 @@
                 "de": "Parken Sie auf dem befestigten Platz, um Matsch zu vermeiden.",
                 "hu": "Parkoljon a szilárd burkolatú helyen, hogy elkerülje a sarat.",
                 "ro": "Parcați pe locul pavat pentru a evita noroiul.",
-                "en": "Park on the paved area to avoid mud."
+                "en": "Park on the paved area to avoid mud.",
+                "fi": "Pysäköi päällystetylle alueelle välttääksesi mutaa."
               }
             },
             {
@@ -1347,7 +1459,8 @@
                 "de": "Nutzen Sie Parkplätze mit direktem Zugang zu den Gehwegen.",
                 "hu": "Használjon közvetlen járdakapcsolattal rendelkező parkolókat.",
                 "ro": "Folosiți parcările cu acces direct la trotuar.",
-                "en": "Use parking spots with direct access to the sidewalks."
+                "en": "Use parking spots with direct access to the sidewalks.",
+                "fi": "Käytä pysäköintipaikkoja, joista on suora kulku jalkakäytäville."
               }
             },
             {
@@ -1356,7 +1469,8 @@
                 "de": "Ein kurzer Sprint vom Auto zum Eingang hält Sie trocken.",
                 "hu": "Egy rövid sprint az autótól a bejáratig, és száraz marad.",
                 "ro": "Un sprint scurt de la mașină la intrare vă va menține uscat.",
-                "en": "A short sprint from the car to the entrance keeps you dry."
+                "en": "A short sprint from the car to the entrance keeps you dry.",
+                "fi": "Lyhyt juoksu autolta sisään pitää sinut kuivana."
               }
             },
             {
@@ -1365,7 +1479,8 @@
                 "de": "Lassen Sie nasse Schirme im Auto, wenn der Weg kurz ist.",
                 "hu": "Hagyja a vizes ernyőket az autóban, ha rövid az út.",
                 "ro": "Lăsați umbrelele ude în mașină dacă distanța este mică.",
-                "en": "Leave wet umbrellas in the car if the walk is short."
+                "en": "Leave wet umbrellas in the car if the walk is short.",
+                "fi": "Jätä märät sateenvarjot autoon, jos kävely on lyhyt."
               }
             },
             {
@@ -1374,7 +1489,8 @@
                 "de": "Suchen Sie Restaurants mit eigenem Parkplatz direkt davor.",
                 "hu": "Keressen éttermet saját, közvetlen parkolóval.",
                 "ro": "Căutați restaurante cu parcare proprie chiar în față.",
-                "en": "Look for restaurants with their own parking right in front."
+                "en": "Look for restaurants with their own parking right in front.",
+                "fi": "Etsi ravintoloita, joissa on oma pysäköinti suoraan edessä."
               }
             },
             {
@@ -1383,7 +1499,8 @@
                 "de": "Genießen Sie den Anblick der Mühle aus dem trockenen Fahrzeug.",
                 "hu": "Élvezze a malom látványát a száraz gépjárműből.",
                 "ro": "Admirați moara din interiorul vehiculului uscat.",
-                "en": "Enjoy the view of the mill from inside your dry vehicle."
+                "en": "Enjoy the view of the mill from inside your dry vehicle.",
+                "fi": "Nauti myllyn näkymästä kuivassa autossasi."
               }
             },
             {
@@ -1392,7 +1509,8 @@
                 "de": "Nutzen Sie die Aussichtspunkte direkt an der Straße.",
                 "hu": "Használja a közvetlenül az út menti kilátópontokat.",
                 "ro": "Folosiți punctele de observație de lângă drum.",
-                "en": "Use the viewpoints located directly by the road."
+                "en": "Use the viewpoints located directly by the road.",
+                "fi": "Käytä varikkopaikkoja, jotka sijaitsevat suoraan tien vieressä."
               }
             }
           ],
@@ -1420,6 +1538,12 @@
               "Watch out for deep puddles on secondary roads.",
               "Keep your headlights on during the day (mandatory in Finland).",
               "Bring a towel to dry off wet clothes inside the car."
+            ],
+            "fi": [
+              "Kytke ilmastointi estääksesi tuulilasin huurtumisen.",
+              "Varo syviä lätäköitä sivuteillä.",
+              "Pidä ajovalot päällä päivällä (pakollista Suomessa).",
+              "Ota mukana pyyhe kosteiden vaatteiden kuivaamista varten autossa."
             ]
           }
         },
@@ -1428,7 +1552,8 @@
             "de": "Geniessen Sie die Fahrt durch das Winterwunderland zum Zoo. Im Zentrum parken Sie bequem für den Besuch der Kirche und der Museen, die einen warmen Zufluchtsort bieten. Mittags stärken Sie sich bei lokaler Küche, bevor Sie zur verschneiten Mühle von Puhos fahren. Den Tag krönen Sie mit einer Fahrt entlang des zugefrorenen Pyhäjärvi-Sees, während die Sonne den Schnee in Pastellfarben taucht.",
             "hu": "Élvezze az utazást a téli meseországon át az állatkertig. A központban kényelmesen parkolhat a templom és a múzeumok közelében, amelyek meleg menedéket nyújtanak. Ebédeljen meg a helyi éttermek egyikében, majd hajtson a havas puhosi malomhoz. A napot a befagyott Pyhäjärvi-tó menti autózással zárja, ahogy a naplemente pasztell színekbe öltözteti a tájat.",
             "ro": "Bucurați-vă de drumul prin peisajul de basm spre grădina zoologică. În centru, parcați comod pentru a vizita biserica și muzeele care oferă un refugiu cald. Luați prânzul la un restaurant local, apoi conduceți spre moara înzăpezită din Puhos. Încheiați ziua cu o plimbare cu mașina pe malul lacului înghețat Pyhäjärvi la apus.",
-            "en": "Enjoy the drive through a winter wonderland to the zoo. In the center, park conveniently to visit the church and museums, which offer a warm sanctuary. Have lunch at a local spot before driving to the snowy Puhos mill. Crown your day with a drive along frozen Lake Pyhäjärvi as the setting sun paints the snow in pastel hues."
+            "en": "Enjoy the drive through a winter wonderland to the zoo. In the center, park conveniently to visit the church and museums, which offer a warm sanctuary. Have lunch at a local spot before driving to the snowy Puhos mill. Crown your day with a drive along frozen Lake Pyhäjärvi as the setting sun paints the snow in pastel hues.",
+            "fi": "Nauti ajomatkasta talvisessa satumaassa eläinpuistoon. Keskustassa pysäköi kätevästi kirkon ja museoiden vieressä, jotka tarjoavat lämpimän suojan. Syö lounas paikallisessa ravintolassa ennen ajoa lumiseen Puhoksen myllyyn. Päätä päiväsi ajamalla pitkin jäätynyttä Pyhäjärveä auringonlaskun maalatessa lumen pastellisävyihin."
           },
           "stops": [
             {
@@ -1437,7 +1562,8 @@
                 "de": "Prüfen Sie, ob der Parkplatz geräumt ist, bevor Sie einfahren.",
                 "hu": "Ellenőrizze, hogy a parkoló le van-e takarítva, mielőtt behajtana.",
                 "ro": "Verificați dacă parcarea este deszăpezită înainte de a intra.",
-                "en": "Check if the parking lot is cleared before driving in."
+                "en": "Check if the parking lot is cleared before driving in.",
+                "fi": "Tarkista, onko pysäköintialue aurattu ennen kuin ajat sisään."
               }
             },
             {
@@ -1446,7 +1572,8 @@
                 "de": "Vorsicht beim Aussteigen auf glattem Untergrund.",
                 "hu": "Vigyázzon a kiszálláskor a csúszós talajon.",
                 "ro": "Atenție la coborârea din mașină pe suprafețe alunecoase.",
-                "en": "Be careful when stepping out on slippery ground."
+                "en": "Be careful when stepping out on slippery ground.",
+                "fi": "Ole varovainen astuessasi liukkaalle alustalle."
               }
             },
             {
@@ -1455,7 +1582,8 @@
                 "de": "Die Heizung in der Kirche ist im Winter sehr angenehm.",
                 "hu": "A templom fűtése télen nagyon kellemes.",
                 "ro": "Încălzirea din biserică este foarte plăcută iarna.",
-                "en": "The heating in the church is very pleasant in winter."
+                "en": "The heating in the church is very pleasant in winter.",
+                "fi": "Kirkon lämmitys on erittäin miellyttävä talvella."
               }
             },
             {
@@ -1464,7 +1592,8 @@
                 "de": "Lassen Sie dicke Jacken im Auto, um die Museen leichtfüßig zu erkunden.",
                 "hu": "Hagyja a vastag kabátokat az autóban a könnyed múzeumlátogatáshoz.",
                 "ro": "Lăsați jachetele groase în mașină pentru a vizita muzeele mai ușor.",
-                "en": "Leave heavy jackets in the car to explore the museums comfortably."
+                "en": "Leave heavy jackets in the car to explore the museums comfortably.",
+                "fi": "Jätä raskaat takit autoon nauttiaksesi museoista mukavammin."
               }
             },
             {
@@ -1473,7 +1602,8 @@
                 "de": "Parken Sie nicht unter Dächern mit großen Schneelasten (Dachlawinen).",
                 "hu": "Ne parkoljon nagy hóval borított tetők alá (tetőlavina veszély).",
                 "ro": "Nu parcați sub acoperișuri cu multă zăpadă (pericol de avalanșă).",
-                "en": "Don't park under roofs with heavy snow (danger of roof avalanches)."
+                "en": "Don't park under roofs with heavy snow (danger of roof avalanches).",
+                "fi": "Älä pysäköi katosten alle, joissa on paljon lunta (katon lumivyöryn vaara)."
               }
             },
             {
@@ -1482,7 +1612,8 @@
                 "de": "Die Straßen nach Puhos können bei Neuschnee herausfordernd sein.",
                 "hu": "A Puhosba vezető utak friss hóban kihívást jelenthetnek.",
                 "ro": "Drumurile spre Puhos pot fi dificile în caz de ninsoare proaspătă.",
-                "en": "The roads to Puhos can be challenging with fresh snow."
+                "en": "The roads to Puhos can be challenging with fresh snow.",
+                "fi": "Tiet Puhokseen voivat olla haastavia tuoreessa lumessa."
               }
             },
             {
@@ -1491,7 +1622,8 @@
                 "de": "Stellen Sie sicher, dass Ihr Tank für die Kälte ausreichend gefüllt ist.",
                 "hu": "Győződjön meg róla, hogy az üzemanyagszint elég a hidegben.",
                 "ro": "Asigurați-vă că aveți suficient combustibil pentru frig.",
-                "en": "Make sure you have enough fuel for the cold weather."
+                "en": "Make sure you have enough fuel for the cold weather.",
+                "fi": "Varmista, että sinulla on riittävästi polttoainetta kylmää säätä varten."
               }
             }
           ],
@@ -1519,6 +1651,12 @@
               "Keep an ice scraper and a snow shovel in your trunk.",
               "Avoid sudden steering maneuvers on snowy roads.",
               "Plan more time for travel as speeds are lower in winter."
+            ],
+            "fi": [
+              "Talvirenkaat ovat lain mukaan pakolliset ja välttämättömät jäälle.",
+              "Pidä takakontissasi jäätäraappa ja lumilapio.",
+              "Vältä äkillisiä ohjausliikkeitä lumisilla teillä.",
+              "Suunnittele enemmän aikaa matkoihin, sillä nopeudet ovat talvella hitaampia."
             ]
           }
         }
@@ -1537,7 +1675,8 @@
             "de": "Cluster 1: Zentrum (Ankunft Bus)",
             "hu": "1. klaszter: Központ (busz érkezés)",
             "ro": "Cluster 1: Centru (Sosire autobuz)",
-            "en": "Cluster 1: Center (Bus Arrival)"
+            "en": "Cluster 1: Center (Bus Arrival)",
+            "fi": "Klusteri 1: Keskusta (bussin saapuminen)"
           },
           "coords": [
             30.141,
@@ -1553,7 +1692,8 @@
             "de": "Beginnen Sie Ihre Tour an der zentralen Bushaltestelle.",
             "hu": "Kezdje a túrát a központi buszmegállóból.",
             "ro": "Începeți turul de la stația centrală de autobuz.",
-            "en": "Start your tour from the central bus station."
+            "en": "Start your tour from the central bus station.",
+            "fi": "Aloita kierros keskuslinja-autoasemalta."
           }
         },
         {
@@ -1561,7 +1701,8 @@
             "de": "Kirche, Heimatmuseum & Nightwish-Ausstellung",
             "hu": "Templom, Helytörténeti Múzeum és Nightwish Kiállítás",
             "ro": "Biserica, Muzeul Local și Expoziția Nightwish",
-            "en": "Church, Local Museum & Nightwish Exhibition"
+            "en": "Church, Local Museum & Nightwish Exhibition",
+            "fi": "Kirkko, paikallismuseo & Nightwish-näyttely"
           },
           "coords": [
             30.139,
@@ -1577,7 +1718,8 @@
             "de": "Diese drei Hauptattraktionen liegen alle nahe beieinander.",
             "hu": "Ez a három fő látnivaló mind közel van egymáshoz.",
             "ro": "Aceste trei atracții principale sunt toate apropiate una de cealaltă.",
-            "en": "These three main attractions are all located close to each other."
+            "en": "These three main attractions are all located close to each other.",
+            "fi": "Nämä kolme päätähdettä sijaitsevat kaikki lähellä toisiaan."
           }
         },
         {
@@ -1585,7 +1727,8 @@
             "de": "Mittagessen",
             "hu": "Ebéd",
             "ro": "Prânz",
-            "en": "Lunch"
+            "en": "Lunch",
+            "fi": "Lounas"
           },
           "coords": [
             30.139,
@@ -1601,7 +1744,8 @@
             "de": "Genießen Sie eine Mahlzeit, bevor Sie den Bus zum nächsten Ziel nehmen.",
             "hu": "Fogyasszon el egy ételt, mielőtt busszal indulna a következő úti célhoz.",
             "ro": "Bucurați-vă de o masă înainte de a lua autobuzul spre următoarea destinație.",
-            "en": "Enjoy a meal before taking the bus to the next destination."
+            "en": "Enjoy a meal before taking the bus to the next destination.",
+            "fi": "Nauti ateria ennen bussin ottamista seuraavaan kohteeseen."
           }
         },
         {
@@ -1609,7 +1753,8 @@
             "de": "Cluster 2: Busfahrt zum Kitee Zoo",
             "hu": "2. klaszter: Buszozás a Kiteei Állatkertbe",
             "ro": "Cluster 2: Călătorie cu autobuzul la Grădina Zoologică Kitee",
-            "en": "Cluster 2: Bus ride to Kitee Zoo"
+            "en": "Cluster 2: Bus ride to Kitee Zoo",
+            "fi": "Klusteri 2: Bussimatka Kiteen eläinpuistoon"
           },
           "coords": [
             30.06,
@@ -1625,7 +1770,8 @@
             "de": "Nehmen Sie den lokalen Bus zum Zoo. Prüfen Sie den Fahrplan im Voraus.",
             "hu": "Menjen helyi busszal az állatkertbe. Előzetesen ellenőrizze a menetrendet.",
             "ro": "Luați autobuzul local spre grădina zoologică. Verificați orarul în avans.",
-            "en": "Take the local bus to the zoo. Check the schedule in advance."
+            "en": "Take the local bus to the zoo. Check the schedule in advance.",
+            "fi": "Ota paikallisbussi eläinpuistoon. Tarkista aikataulu etukäteen."
           }
         },
         {
@@ -1633,7 +1779,8 @@
             "de": "Cluster 3: Busfahrt zum Pyhäjärvi See",
             "hu": "3. klaszter: Buszozás a Pyhäjärvi-tóhoz",
             "ro": "Cluster 3: Călătorie cu autobuzul la Lacul Pyhäjärvi",
-            "en": "Cluster 3: Bus ride to Lake Pyhäjärvi"
+            "en": "Cluster 3: Bus ride to Lake Pyhäjärvi",
+            "fi": "Kolmio 3: Bussimatka Pyhäjärvelle"
           },
           "coords": [
             30.08,
@@ -1649,7 +1796,8 @@
             "de": "Einige Buslinien halten in der Nähe des Sees. Perfekt für einen abendlichen Spaziergang.",
             "hu": "Néhány buszjárat megáll a tó közelében. Tökéletes egy esti sétához.",
             "ro": "Unele rute de autobuz opresc lângă lac. Perfect pentru o plimbare de seară.",
-            "en": "Some bus routes stop near the lake. Perfect for an evening stroll."
+            "en": "Some bus routes stop near the lake. Perfect for an evening stroll.",
+            "fi": "Joillakin bussireiteillä pysähdytään lähellä järveä. Erinomainen iltakävelyä varten."
           }
         }
       ],
@@ -1657,7 +1805,8 @@
         "de": "Ihre Tour mit öffentlichen Verkehrsmitteln beginnt im Zentrum von Kitee, wo Sie die wichtigsten kulturellen Sehenswürdigkeiten zu Fuß erkunden: die Kirche, das Heimatmuseum und die Nightwish-Ausstellung. Nach dem Mittagessen im Zentrum bringt Sie ein lokaler Bus in den Norden zum Kitee Zoo. Verbringen Sie den Nachmittag damit, die finnischen Tiere zu beobachten. Später am Nachmittag bringt Sie eine weitere Busfahrt zu den malerischen Ufern des Pyhäjärvi-Sees, ein perfekter Ort, um den Tag in Ruhe ausklingen zu lassen, bevor Sie den Bus zurück nehmen.",
         "hu": "Tömegközlekedési túrája Kitee központjában kezdődik, ahol gyalogosan fedezi fel a főbb kulturális látnivalókat: a templomot, a helytörténeti múzeumot és a Nightwish kiállítást. A központban elköltött ebéd után egy helyi busz viszi északra a kiteei állatkertbe. Töltse a délutánt a finn állatok megfigyelésével. Később délután egy másik buszozás elviszi a Pyhäjärvi-tó festői partjára, amely tökéletes hely a nap békés lezárására, mielőtt visszaindulna a busszal.",
         "ro": "Turul dumneavoastră cu transportul public începe în centrul orașului Kitee, unde explorați pe jos principalele atracții culturale: biserica, muzeul local și expoziția Nightwish. După prânz în centru, un autobuz local vă duce spre nord, la Grădina Zoologică Kitee. Petreceți după-amiaza observând animalele finlandeze. Mai târziu, o altă călătorie cu autobuzul vă duce pe malurile pitorești ale lacului Pyhäjärvi, un loc perfect pentru a încheia ziua în pace înainte de a lua autobuzul înapoi.",
-        "en": "Your public transport tour starts in the center of Kitee, exploring the main cultural sights on foot: the church, the local museum, and the Nightwish exhibition. After lunch in the center, a local bus takes you north to Kitee Zoo. Spend the afternoon observing the Finnish animals. Later in the afternoon, another bus ride takes you to the scenic shores of Lake Pyhäjärvi, a perfect spot to end the day peacefully before taking the bus back."
+        "en": "Your public transport tour starts in the center of Kitee, exploring the main cultural sights on foot: the church, the local museum, and the Nightwish exhibition. After lunch in the center, a local bus takes you north to Kitee Zoo. Spend the afternoon observing the Finnish animals. Later in the afternoon, another bus ride takes you to the scenic shores of Lake Pyhäjärvi, a perfect spot to end the day peacefully before taking the bus back.",
+        "fi": "Julkisen liikenteen kiertueesi alkaa Kiteen keskustasta, jossa tutustut kävellen pääkulttuurikohteisiin: kirkkoon, paikallismuseoon ja Nightwish-näyttelyyn. Keskustassa lounaan jälkeen paikallisbus­si vie sinut pohjoiseen Kitee-eläinpuistoon. Vietä iltapäivä tarkkaillen suomalaisia eläimiä. Myöhemmin iltapäivällä bussi vie sinut Pyhäjärven maisemiin, täydellinen paikka päättää päivä rauhallisesti ennen paluumatkaa."
       },
       "gastro_picks": {
         "de": [
@@ -1765,6 +1914,12 @@
           "Buy a day pass if available to save money.",
           "Buses might not run very frequently in the countryside, so plan your time carefully.",
           "Be at the bus stop on time."
+        ],
+        "fi": [
+          "Lataa paikallinen bussien aikataulusovellus tai ota kuva pysäkin aikataulusta.",
+          "Osta päivämatkalippu, jos sellainen on saatavilla, säästääksesi rahaa.",
+          "Maaseudulla bussit eivät välttämättä kulje usein, joten suunnittele aikataulusi huolellisesti.",
+          "Ole bussipysäkillä ajoissa."
         ]
       },
       "variants": {
@@ -1773,7 +1928,8 @@
             "de": "Nutzen Sie den Bus am Morgen ins Zentrum und besuchen Sie die Museen, um trocken zu bleiben. Mittags ist das Nightwish Center der ideale Ort für einen langen Aufenthalt im Warmen. Nach dem Mittagessen bringt Sie der Bus zum Zoo und später zum Pyhäjärvi-See. Planen Sie Ihre Umstiege so, dass Sie möglichst kurz im Regen warten müssen.",
             "hu": "Használja a reggeli buszt a központba, és látogassa meg a múzeumokat, hogy száraz maradjon. Délben a Nightwish Center ideális hely a hosszú, meleg tartózkodáshoz. Ebéd után buszozzon az állatkerthez, majd a Pyhäjärvi-tóhoz. Úgy tervezze az átszállásokat, hogy a lehető legkevesebbet kelljen az esőben várakoznia.",
             "ro": "Luați autobuzul spre centru dimineața și vizitați muzeele pentru a rămâne uscat. La prânz, Centrul Nightwish este locul ideal pentru o ședere lungă la căldură. După prânz, autobuzul vă duce la zoo și apoi la lacul Pyhäjärvi. Planificați legăturile astfel încât să așteptați cât mai puțin în ploaie.",
-            "en": "Take the morning bus to the center and visit the museums to stay dry. At noon, the Nightwish Center is the ideal spot for a long, warm stay. After lunch, hop on a bus to the zoo and later to Lake Pyhäjärvi. Plan your connections to minimize waiting time in the rain."
+            "en": "Take the morning bus to the center and visit the museums to stay dry. At noon, the Nightwish Center is the ideal spot for a long, warm stay. After lunch, hop on a bus to the zoo and later to Lake Pyhäjärvi. Plan your connections to minimize waiting time in the rain.",
+            "fi": "Ota aamun bussi keskustaan ja käy museoissa pysyäksesi kuivana. Keskipäivällä Nightwish-keskus on ihanteellinen lämmin taukopaikka. Lounaan jälkeen hyppää bussiin eläinpuistoon ja myöhemmin Pyhäjärvelle. Suunnittele yhteyksiäsi minimoidaksesi odotusajan sateessa."
           },
           "stops": [
             {
@@ -1782,7 +1938,8 @@
                 "de": "Suchen Sie das nächste Wartehäuschen direkt nach der Ankunft.",
                 "hu": "Keresse a legközelebbi várótermet közvetlenül érkezés után.",
                 "ro": "Căutați cel mai apropiat adăpost imediat după sosire.",
-                "en": "Look for the nearest bus shelter right after arrival."
+                "en": "Look for the nearest bus shelter right after arrival.",
+                "fi": "Etsi lähin bussikatoksen heti saapumisen jälkeen."
               }
             },
             {
@@ -1791,7 +1948,8 @@
                 "de": "Diese Ziele liegen alle in Gehentfernung zur Bushaltestelle.",
                 "hu": "Ezek a célpontok mind sétatávolságra vannak a buszmegállótól.",
                 "ro": "Toate aceste obiective sunt la mică distanță de stația de autobuz.",
-                "en": "These destinations are all within walking distance of the bus stop."
+                "en": "These destinations are all within walking distance of the bus stop.",
+                "fi": "Nämä kohteet ovat kaikki kävelyetäisyydellä bussipysäkiltä."
               }
             },
             {
@@ -1800,7 +1958,8 @@
                 "de": "Wählen Sie einen Ort in Sichtweite der Bushaltestelle.",
                 "hu": "Válasszon olyan helyet, amely rálát a buszmegállóra.",
                 "ro": "Alegeți un loc cu vedere la stația de autobuz.",
-                "en": "Pick a spot with a view of the bus stop."
+                "en": "Pick a spot with a view of the bus stop.",
+                "fi": "Valitse paikka, josta on näkymä bussipysäkille."
               }
             },
             {
@@ -1809,7 +1968,8 @@
                 "de": "Nutzen Sie die Fahrtzeit, um Ihre Kleidung etwas zu trocknen.",
                 "hu": "Használja az utazási időt a ruházat szárítására.",
                 "ro": "Folosiți timpul de călătorie pentru a vă usca puțin hainele.",
-                "en": "Use the travel time to dry off your clothes a bit."
+                "en": "Use the travel time to dry off your clothes a bit.",
+                "fi": "Käytä matkustus­aikaa vaatteiden kuivattamiseen hieman."
               }
             },
             {
@@ -1818,7 +1978,8 @@
                 "de": "Prüfen Sie den Fahrplan für die Rückfahrt genau, da Busse seltener fahren.",
                 "hu": "Ellenőrizze pontosan a visszautat, mert ritkábban járnak a buszok.",
                 "ro": "Verificați bine orarul de întoarcere, autobuzele sunt mai rare.",
-                "en": "Check the return schedule carefully, as buses are less frequent."
+                "en": "Check the return schedule carefully, as buses are less frequent.",
+                "fi": "Tarkista paluuaikataulu huolellisesti, sillä bussit ovat harvemmassa."
               }
             }
           ],
@@ -1846,6 +2007,12 @@
               "Finnish buses are often very warm, so dress in layers.",
               "Have your ticket ready to avoid delays when boarding.",
               "A small, sturdy folding umbrella is ideal for short walks."
+            ],
+            "fi": [
+              "Käytä reaaliaikaista sovellusta välttääksesi ulkona odottamisen sateessa.",
+              "Suomen bussit ovat usein erittäin lämpimiä, joten pukeudu kerroksittain.",
+              "Pidä lippu valmiina välttyäksesi viiveiltä noustessa kyytiin.",
+              "Pieni, tukeva taittovarjo on ihanteellinen lyhyille kävelyille."
             ]
           }
         },
@@ -1854,7 +2021,8 @@
             "de": "Starten Sie am Morgen mit dem Bus ins Zentrum. Die Fahrt durch die verschneite Landschaft ist sicher und warm. Verbringen Sie den Mittag in den Museen und wärmen Sie sich auf. Nach einem herzhaften Essen bringt Sie der Transit zum Zoo und zum Pyhäjärvi-See. Achten Sie auf die frühen Rückfahrten, da die Dunkelheit im Winter in Kitee sehr schnell einbricht.",
             "hu": "Kezdje a reggelt busszal a központ felé. Az utazás a havas tájon át biztonságos és meleg. Töltse a délutánt a múzeumokban, és melegedjen fel. Egy kiadós ebéd után irány az állatkert és a Pyhäjärvi-tó busszal. Figyeljen a korai visszaindulásra, mert a sötétség télen nagyon hamar leszáll Kitee-ben.",
             "ro": "Începeți dimineața cu autobuzul spre centru. Călătoria prin peisajul înzăpezit este sigură și caldă. Petreceți amiaza în muzee pentru a vă încălzi. După o masă consistentă, transportul public vă duce la zoo și la lacul Pyhäjärvi. Atenție la orele de întoarcere, deoarece întunericul se lasă foarte repede iarna în Kitee.",
-            "en": "Start your morning by taking the bus to the center. The ride through the snowy landscape is safe and warm. Spend your midday in the museums to thaw out. After a hearty meal, transit will take you to the zoo and Lake Pyhäjärvi. Watch the return schedules closely, as darkness falls very early in Kitee during winter."
+            "en": "Start your morning by taking the bus to the center. The ride through the snowy landscape is safe and warm. Spend your midday in the museums to thaw out. After a hearty meal, transit will take you to the zoo and Lake Pyhäjärvi. Watch the return schedules closely, as darkness falls very early in Kitee during winter.",
+            "fi": "Aloita aamusi bussilla keskustaan. Matka lumiseen maisemaan on turvallinen ja lämmin. Vietä keskipäivä museoissa toipuaksesi kylmästä. Rehdekkään aterian jälkeen siirtyminen vie sinut eläinpuistoon ja Pyhäjärvelle. Seuraa paluuaikatauluja tarkasti, sillä Kiteellä pimeä laskeutuu talvella hyvin aikaisin."
           },
           "stops": [
             {
@@ -1863,7 +2031,8 @@
                 "de": "Warten Sie im Inneren des Bahnhofsgebäudes, falls vorhanden.",
                 "hu": "Várjon az állomásépület belsejében, ha lehetséges.",
                 "ro": "Așteptați în interiorul clădirii gării, dacă este disponibilă.",
-                "en": "Wait inside the station building if available."
+                "en": "Wait inside the station building if available.",
+                "fi": "Odota sisätiloissa asemarakennuksessa, jos sellainen on käytössä."
               }
             },
             {
@@ -1872,7 +2041,8 @@
                 "de": "Die Wege zwischen den Museen werden im Winter gut geräumt.",
                 "hu": "A múzeumok közötti utakat télen jól takarítják.",
                 "ro": "Drumurile dintre muzee sunt bine deszăpezite iarna.",
-                "en": "The paths between the museums are well-cleared in winter."
+                "en": "The paths between the museums are well-cleared in winter.",
+                "fi": "Museoiden väliset polut pidetään hyvin aurattuina talvella."
               }
             },
             {
@@ -1881,7 +2051,8 @@
                 "de": "Ein heißer Kaffee während des Wartens auf den Bus wirkt Wunder.",
                 "hu": "Egy forró kávé a buszra várva csodákra képes.",
                 "ro": "O cafea fierbinte în timp ce așteptați autobuzul face minuni.",
-                "en": "A hot coffee while waiting for the bus works wonders."
+                "en": "A hot coffee while waiting for the bus works wonders.",
+                "fi": "Kuuma kahvi odotellessa tekee ihmeitä."
               }
             },
             {
@@ -1890,7 +2061,8 @@
                 "de": "Genießen Sie den Panoramablick auf die verschneiten Wälder.",
                 "hu": "Élvezze a panorámát a havas erdőkre az ablakból.",
                 "ro": "Bucurați-vă de panorama pădurilor înzăpezite de la fereastră.",
-                "en": "Enjoy the panoramic view of the snowy forests from the window."
+                "en": "Enjoy the panoramic view of the snowy forests from the window.",
+                "fi": "Nauti ikkuna­paikalta näkymästä lumisiin metsiin."
               }
             },
             {
@@ -1899,7 +2071,8 @@
                 "de": "Kommen Sie 5 Minuten früher zur Haltestelle, falls der Bus früher ist.",
                 "hu": "Érkezzen 5 perccel korábban a megállóba, ha a busz sietne.",
                 "ro": "Ajungeți cu 5 minute mai devreme în stație în caz că vine autobuzul.",
-                "en": "Arrive at the stop 5 minutes early in case the bus is ahead of schedule."
+                "en": "Arrive at the stop 5 minutes early in case the bus is ahead of schedule.",
+                "fi": "Saavu pysäkille 5 minuuttia etuajassa siltä varalta, että bussi on aikataulua edellä."
               }
             }
           ],
@@ -1927,6 +2100,12 @@
               "Buses may have slight delays during extreme snowfall.",
               "Bus stops outside the center are often unlit.",
               "Wear warm socks, as waiting at the stop can chill your feet."
+            ],
+            "fi": [
+              "Käytä heijastimia vaatteissasi (pakollista Suomessa talvella).",
+              "Bussit saattavat viivästyä runsaassa lumisateessa.",
+              "Kaupunkikeskuksen ulkopuoliset pysäkit ovat usein pimeitä.",
+              "Pue lämpimät sukat, sillä pysäkillä odottaminen voi viilentää jalkoja."
             ]
           }
         }

@@ -21,7 +21,8 @@
             "de": "Aalto-Zentrum",
             "hu": "Aalto Központ",
             "ro": "Centrul Aalto",
-            "en": "Aalto Centre"
+            "en": "Aalto Centre",
+            "fi": "Aalto-keskus"
           },
           "coords": [
             22.8403,
@@ -36,7 +37,8 @@
             "de": "Das Herz von Seinäjoki. Nehmen Sie sich Zeit, die einzigartige Architektur von Alvar Aalto zu bewundern.",
             "hu": "Seinäjoki szíve. Szánjon időt Alvar Aalto egyedi építészetének megcsodálására.",
             "ro": "Inima orașului Seinäjoki. Acordați-vă timp pentru a admira arhitectura unică a lui Alvar Aalto.",
-            "en": "The heart of Seinäjoki. Take your time to admire the unique architecture by Alvar Aalto."
+            "en": "The heart of Seinäjoki. Take your time to admire the unique architecture by Alvar Aalto.",
+            "fi": "Seinäjoen sydän. Vietä aikaa ihaillen Alvar Aallon ainutlaatuista arkkitehtuuria."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Lakeuden Risti Kirche",
             "hu": "Lakeuden Risti templom",
             "ro": "Biserica Lakeuden Risti",
-            "en": "Lakeuden Risti Church"
+            "en": "Lakeuden Risti Church",
+            "fi": "Lakeuden risti -kirkko"
           },
           "coords": [
             22.841,
@@ -59,7 +62,8 @@
             "de": "Steigen Sie auf den Turm für eine fantastische Aussicht über die flache Landschaft von Ostbottnien.",
             "hu": "Menjen fel a toronyba a fantasztikus kilátásért a lapos Ostrobothniai tájra.",
             "ro": "Urcați în turn pentru o priveliște fantastică asupra peisajului plat din Ostrobothnia.",
-            "en": "Climb the tower for a fantastic view over the flat Ostrobothnian landscape."
+            "en": "Climb the tower for a fantastic view over the flat Ostrobothnian landscape.",
+            "fi": "Kiipu torniin erinomaisen näkymän saamiseksi laakealle Pohjanmaan maisemalle."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Stadttheater Seinäjoki",
             "hu": "Seinäjoki Városi Színház",
             "ro": "Teatrul Municipal Seinäjoki",
-            "en": "Seinäjoki City Theatre"
+            "en": "Seinäjoki City Theatre",
+            "fi": "Seinäjoen kaupunginteatteri"
           },
           "coords": [
             22.8395,
@@ -82,7 +87,8 @@
             "de": "Auch wenn Sie keine Vorstellung besuchen, ist das Gebäude selbst ein Meisterwerk Aaltos.",
             "hu": "Még ha nem is néz meg egy előadást, maga az épület Aalto mesterműve.",
             "ro": "Chiar dacă nu participați la un spectacol, clădirea în sine este o capodoperă a lui Aalto.",
-            "en": "Even if you don't catch a show, the building itself is a masterpiece by Aalto."
+            "en": "Even if you don't catch a show, the building itself is a masterpiece by Aalto.",
+            "fi": "Vaikka et näkisi esitystä, rakennus itsessään on Aallon mestariteos."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Suojeluskunta- ja lottamuseo",
             "hu": "Civil Gárda és Lotta Svärd Múzeum",
             "ro": "Muzeul Gărzii Civile și Lotta Svärd",
-            "en": "Civil Guard and Lotta Svärd Museum"
+            "en": "Civil Guard and Lotta Svärd Museum",
+            "fi": "Suojeluskunnan ja lotta Svärdin museo"
           },
           "coords": [
             22.845,
@@ -105,7 +112,8 @@
             "de": "Ein tiefer Einblick in die lokale Geschichte und die Rolle der Bürgerorganisationen in Finnland.",
             "hu": "Mély betekintés a helyi történelembe és a polgári szervezetek szerepébe Finnországban.",
             "ro": "O incursiune profundă în istoria locală și rolul organizațiilor civile în Finlanda.",
-            "en": "A deep dive into local history and the role of civic organizations in Finland."
+            "en": "A deep dive into local history and the role of civic organizations in Finland.",
+            "fi": "Syväsukellus paikalliseen historiaan ja kansalaisjärjestöjen rooliin Suomessa."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Mittagessen in der Innenstadt",
             "hu": "Ebéd a belvárosban",
             "ro": "Prânz în centrul orașului",
-            "en": "Lunch in the city center"
+            "en": "Lunch in the city center",
+            "fi": "Lounas kaupungin keskustassa"
           },
           "coords": [
             22.842,
@@ -128,7 +137,8 @@
             "de": "Probieren Sie ein lokales Restaurant für ein authentisches finnisches Mittagessen.",
             "hu": "Próbáljon ki egy helyi éttermet egy autentikus finn ebédhez.",
             "ro": "Încercați un restaurant local pentru un prânz finlandez autentic.",
-            "en": "Try a local restaurant for an authentic Finnish lunch experience."
+            "en": "Try a local restaurant for an authentic Finnish lunch experience.",
+            "fi": "Kokeile paikallista ravintolaa aitoon suomalaiseen lounaskokemukseen."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Mallaskosken Brauerei",
             "hu": "Mallaskoski Sörfőzde",
             "ro": "Berăria Mallaskoski",
-            "en": "Mallaskoski Brewery"
+            "en": "Mallaskoski Brewery",
+            "fi": "Mallaskoski Panimo"
           },
           "coords": [
             22.83,
@@ -151,7 +162,8 @@
             "de": "Der perfekte Abschluss des Tages. Genießen Sie ein Craft-Bier am Flussufer.",
             "hu": "A nap tökéletes befejezése. Élvezzen egy kézműves sört a folyóparton.",
             "ro": "Finalul perfect al zilei. Savurați o bere artizanală pe malul râului.",
-            "en": "The perfect end to the day. Enjoy a craft beer by the riverside."
+            "en": "The perfect end to the day. Enjoy a craft beer by the riverside.",
+            "fi": "Täydellinen päätös päivälle. Nauti käsityöläisolut joenrannalla."
           }
         }
       ],
@@ -159,7 +171,8 @@
         "de": "Beginnen Sie Ihren Tag im Herzen der finnischen Moderne, dem Aalto-Zentrum, wo Architektur und Kultur verschmelzen. Der Morgen ist dem Genie von Alvar Aalto gewidmet, mit einem Besuch der ikonischen Lakeuden Risti Kirche. Mittags tauchen Sie in die finnische Geschichte im Suojeluskunta- ja lottamuseo ein, nach einem kurzen Halt am Stadttheater. Am Nachmittag spazieren Sie zum Flussufer, um die entspannte Atmosphäre und ein lokal gebrautes Bier in der Mallaskosken Brauerei zu genießen. Der Abend klingt bei einem gemütlichen Spaziergang entlang des Flusses aus, der die architektonischen Eindrücke des Tages widerspiegelt.",
         "hu": "Kezdje a napot a finn modernizmus szívében, az Aalto Központban, ahol az építészet és a kultúra találkozik. A délelőttöt Alvar Aalto zsenijének szenteljük, meglátogatva az ikonikus Lakeuden Risti templomot. Délben merüljön el a finn történelemben a Suojeluskunta- ja lottamuseo-ban, egy rövid megálló után a városi színháznál. Délután sétáljon le a folyóparthoz, hogy élvezze a laza hangulatot és egy helyi sört a Mallaskoski Sörfőzdében. Az estét egy kellemes folyóparti sétával zárjuk, amely visszatükrözi a nap építészeti benyomásait.",
         "ro": "Începeți ziua în inima modernismului finlandez, Centrul Aalto, unde arhitectura și cultura se contopesc. Dimineața este dedicată geniului lui Alvar Aalto, cu o vizită la iconica Biserică Lakeuden Risti. La prânz, pătrundeți în istoria finlandeză la Muzeul Gărzii Civile și Lotta Svärd, după o scurtă oprire la Teatrul Municipal. După-amiaza, plimbați-vă pe malul râului pentru a vă bucura de atmosfera relaxată și de o bere locală la Berăria Mallaskoski. Seara se încheie cu o plimbare plăcută de-a lungul râului, reflectând impresiile arhitecturale ale zilei.",
-        "en": "Start your day in the heart of Finnish modernism, the Aalto Centre, where architecture and culture merge. The morning is dedicated to the genius of Alvar Aalto, with a visit to the iconic Lakeuden Risti Church. At noon, delve into Finnish history at the Civil Guard and Lotta Svärd Museum, after a brief stop at the City Theatre. In the afternoon, stroll down to the riverbank to enjoy the relaxed atmosphere and a locally brewed beer at Mallaskoski Brewery. The evening concludes with a pleasant walk along the river, reflecting on the day's architectural impressions."
+        "en": "Start your day in the heart of Finnish modernism, the Aalto Centre, where architecture and culture merge. The morning is dedicated to the genius of Alvar Aalto, with a visit to the iconic Lakeuden Risti Church. At noon, delve into Finnish history at the Civil Guard and Lotta Svärd Museum, after a brief stop at the City Theatre. In the afternoon, stroll down to the riverbank to enjoy the relaxed atmosphere and a locally brewed beer at Mallaskoski Brewery. The evening concludes with a pleasant walk along the river, reflecting on the day's architectural impressions.",
+        "fi": "Aloita päiväsi suomalaisen modernismin sydämessä, Aalto-keskuksessa, jossa arkkitehtuuri ja kulttuuri yhdistyvät. Aamu on omistettu Alvar Aallon neroudelle ja vierailulle ikonisessa Lakeuden Ristin kirkossa. Keskipäivällä sukeltaudut Suomen historiaan paikallisessa Suojeluskunta- ja Lotta Svärd -museossa, pienen pysähdyksen jälkeen kaupunginteatterilla. Iltapäivällä kävele joenrantaan nauttimaan rennosta tunnelmasta ja paikallisesti valmistetusta oluesta Mallaskoski Panimolla. Ilta päättyy miellyttävään kävelyyn joenvartta pitkin pohtien päivän arkkitehtonisia elämyksiä."
       },
       "gastro_picks": {
         "de": [
@@ -351,6 +364,11 @@
           "All the main sights in the center are easily within walking distance.",
           "Wear comfortable shoes as you'll be on your feet a lot.",
           "The Aalto Centre is a complex of several buildings – plan enough time to see them all."
+        ],
+        "fi": [
+          "Kaikki keskuksen tärkeimmät nähtävyydet ovat helposti kävelyetäisyydellä.",
+          "Pue mukavat kengät, sillä olet paljon jalkeilla.",
+          "Aalto-keskus on useiden rakennusten kokonaisuus – varaa tarpeeksi aikaa nähdäksesi ne kaikki."
         ]
       },
       "variants": {
@@ -359,7 +377,8 @@
             "de": "Morgens erkunden Sie das Aalto-Zentrum, wo die Architektur auch bei grauem Himmel glänzt. Mittags bietet die Kirche Lakeuden Risti trockenen Unterschlupf für Besinnung. Nachmittags tauchen Sie im Civil Guard Museum tief in die Geschichte ein, während es draußen regnet. Den Tag lassen Sie gemütlich in der Mallaskoski-Brauerei ausklingen, wo das Prasseln des Regens die Atmosphäre unterstreicht.",
             "hu": "Reggel az Aalto-központ belső tereiben gyönyörködhet az eső elől menekülve. Délben a Lakeuden Risti-templom monumentális csendje nyújt menedéket. Délután a Polgárőrség Múzeuma kiváló beltéri program a záporok idejére. Az estét a Mallaskoski Sörfőzdében zárja, ahol a folyóparti esős táj látványa egy sör mellett a legélvezetesebb.",
             "ro": "Dimineața explorați Centrul Aalto, unde interioarele vă feresc de ploaie. La prânz, Biserica Lakeuden Risti oferă un refugiu liniștit și uscat. După-amiaza este dedicată Muzeului Gărzii Civile, perfect pentru a evita vremea umedă. Seara se încheie la Berăria Mallaskoski, un loc cald și primitor unde puteți asculta ploaia de pe malul râului.",
-            "en": "Morning starts at the Aalto Centre, where indoor architecture keeps you dry. At noon, find shelter in the serene Lakeuden Risti Church. Spend your afternoon at the Civil Guard Museum, a perfect rainy-day escape into history. Wrap up the day at Mallaskoski Brewery, enjoying the cozy atmosphere and the view of the rain over the river."
+            "en": "Morning starts at the Aalto Centre, where indoor architecture keeps you dry. At noon, find shelter in the serene Lakeuden Risti Church. Spend your afternoon at the Civil Guard Museum, a perfect rainy-day escape into history. Wrap up the day at Mallaskoski Brewery, enjoying the cozy atmosphere and the view of the rain over the river.",
+            "fi": "Aamu alkaa Aalto-keskuksesta, jossa sisätilojen arkkitehtuuri pitää sinut kuivana. Keskipäivällä löydät suojan rauhallisesta Lakeuden Ristin kirkosta. Vietä iltapäiväsi Suojeluskuntamuseossa, joka on täydellinen sadepäivän historian keidas. Päivä päätetään Mallaskoski Panimolla nauttien kodikkaasta tunnelmasta ja sateenäkymästä joelle."
           },
           "stops": [
             {
@@ -368,7 +387,8 @@
                 "de": "Nutzen Sie die unterirdischen Gänge zwischen den Gebäuden.",
                 "hu": "Használja az épületek közötti fedett átjárókat.",
                 "ro": "Folosiți pasajele acoperite între clădiri.",
-                "en": "Utilize the covered walkways between the buildings."
+                "en": "Utilize the covered walkways between the buildings.",
+                "fi": "Hyödynnä rakennusten välisiä katettuja kulkuja."
               }
             },
             {
@@ -377,7 +397,8 @@
                 "de": "Der Turmaufstieg ist bei starkem Regen oft gesperrt.",
                 "hu": "Erős esőben a torony kilátója zárva tarthat.",
                 "ro": "Accesul în turn poate fi închis pe ploaie torențială.",
-                "en": "The tower climb might be closed during heavy rain."
+                "en": "The tower climb might be closed during heavy rain.",
+                "fi": "Torniin kiipeäminen voi olla suljettu voimakkaan sateen aikana."
               }
             },
             {
@@ -386,7 +407,8 @@
                 "de": "Das Foyer bietet einen trockenen Blick auf das Design.",
                 "hu": "Az előcsarnokból szárazon is megcsodálható a design.",
                 "ro": "Foaierul oferă o perspectivă uscată asupra designului.",
-                "en": "The foyer offers a dry view of the unique design."
+                "en": "The foyer offers a dry view of the unique design.",
+                "fi": "Aula tarjoaa kuivan näkymän ainutlaatuiseen muotoiluun."
               }
             },
             {
@@ -395,7 +417,8 @@
                 "de": "Idealer Ort, um die regenreichste Zeit zu überbrücken.",
                 "hu": "Ideális hely az esős órák átvészelésére.",
                 "ro": "Locul ideal pentru a petrece orele ploioase.",
-                "en": "An ideal place to wait out the rainiest hours."
+                "en": "An ideal place to wait out the rainiest hours.",
+                "fi": "Ihanteellinen paikka odottaa sateen rankimpia hetkiä."
               }
             },
             {
@@ -404,7 +427,8 @@
                 "de": "Wählen Sie ein Restaurant mit Garderobe für nasse Mäntel.",
                 "hu": "Válasszon helyet, ahol van ruhatár a vizes kabátoknak.",
                 "ro": "Alegeți un restaurant cu garderobă pentru haine ude.",
-                "en": "Choose a spot with a cloakroom for wet coats."
+                "en": "Choose a spot with a cloakroom for wet coats.",
+                "fi": "Valitse paikka, jossa on naulakko märille takeille."
               }
             },
             {
@@ -413,7 +437,8 @@
                 "de": "Der Weg am Fluss kann bei Regen rutschig sein.",
                 "hu": "A folyóparti ösvény esőben csúszós lehet.",
                 "ro": "Poteca de pe malul râului poate fi alunecoasă.",
-                "en": "The riverside path can be slippery when wet."
+                "en": "The riverside path can be slippery when wet.",
+                "fi": "Joenrantapolku voi olla liukas märällä kelillä."
               }
             }
           ],
@@ -441,6 +466,12 @@
               "City paths are mostly paved, but puddles form quickly.",
               "Aalto's public buildings are perfect for 'indoor sightseeing'.",
               "Wear waterproof shoes for the walk to the brewery."
+            ],
+            "fi": [
+              "Tukeva sateenvarjo on välttämätön pohjalaisessa tuulessa.",
+              "Kaupunkipolut ovat pääosin asfaltoituja, mutta lätäkköjä muodostuu nopeasti.",
+              "Aallon julkiset rakennukset sopivat erinomaisesti sisäkierroksiin.",
+              "Pue vedenpitävät kengät panimolle kävelyä varten."
             ]
           }
         },
@@ -449,7 +480,8 @@
             "de": "Der Winter verwandelt das Aalto-Zentrum in eine weiße Märchenlandschaft; die Architektur strahlt im Schnee. Mittags bietet die Kirche einen warmen Rückzugsort, bevor es bereits dämmert. Nachmittags wärmen Sie sich im Museum auf und bestaunen die frostige Stadt. Der Abend endet bei Kerzenschein und lokalem Bier in der Brauerei, während der Schnee draußen leise fällt.",
             "hu": "A tél fehér mesevilággá változtatja az Aalto-központot; az épületek vakítóan fénylenek a hóban. Délben a templom nyújt meleg menedéket a korai sötétedés előtt. Délután a múzeumban melegedhet fel a fagyos városnézés után. Az este gyertyafény és helyi sör mellett telik a sörfőzdében, miközben kint csendben hull a hó.",
             "ro": "Iarna transformă Centrul Aalto într-un peisaj de basm, cu arhitectura strălucind în zăpadă. La prânz, biserica oferă un refugiu cald înainte de lăsarea serii timpurii. După-amiaza vă încălziți la muzeu admirând orașul înghețat. Seara se încheie la lumina lumânărilor cu o bere locală la berărie, în timp ce ninge liniștit.",
-            "en": "Winter turns the Aalto Centre into a white wonderland; the architecture glows against the snow. At noon, the church provides a warm refuge before the early dusk sets in. Spend your afternoon warming up in the museum after a frosty walk. The evening ends with candlelight and local craft beer at the brewery as snow falls outside."
+            "en": "Winter turns the Aalto Centre into a white wonderland; the architecture glows against the snow. At noon, the church provides a warm refuge before the early dusk sets in. Spend your afternoon warming up in the museum after a frosty walk. The evening ends with candlelight and local craft beer at the brewery as snow falls outside.",
+            "fi": "Talvi muuttaa Aalto-keskuksen valkoiseksi ihmemaa; arkkitehtuuri hohtaa lumen vasten. Keskipäivällä kirkko tarjoaa lämpimän turvapaikan ennen varhaisen hämärän saapumista. Vietä iltapäivä museossa lämpöä etsien pakkasmaiseman jälkeen. Ilta päättyy kynttilänvaloon ja paikalliseen käsityöläisolueen panimolla lumen leijaillessa ulkona."
           },
           "stops": [
             {
@@ -458,7 +490,8 @@
                 "de": "Die weißen Fassaden sind im Winterschnee besonders fotogen.",
                 "hu": "A fehér homlokzatok téli hóban a legszebb fotótémák.",
                 "ro": "Fațadele albe sunt superbe pentru fotografii în zăpadă.",
-                "en": "The white facades are extremely photogenic in the snow."
+                "en": "The white facades are extremely photogenic in the snow.",
+                "fi": "Valkoiset julkisivut ovat erittäin valokuvaukselliset lumessa."
               }
             },
             {
@@ -467,7 +500,8 @@
                 "de": "Achten Sie auf Eiszapfen und glatte Stufen am Eingang.",
                 "hu": "Vigyázzon a jégcsapokra és a csúszós lépcsőkre a bejáratnál.",
                 "ro": "Atenție la țurțuri și treptele alunecoase de la intrare.",
-                "en": "Watch out for icicles and slippery steps at the entrance."
+                "en": "Watch out for icicles and slippery steps at the entrance.",
+                "fi": "Varo jääpuikkoja ja liukkaita portaita sisäänkäynnillä."
               }
             },
             {
@@ -476,7 +510,8 @@
                 "de": "Im Winter ist die Beleuchtung des Gebäudes ab 15 Uhr magisch.",
                 "hu": "Télen az épület díszkivilágítása már 15 órától mesés.",
                 "ro": "Iarna, iluminatul clădirii este magic încă de la ora 15.",
-                "en": "In winter, the building's lighting is magical from 3 PM."
+                "en": "In winter, the building's lighting is magical from 3 PM.",
+                "fi": "Talvella rakennuksen valaistus on taianomainen klo 15 alkaen."
               }
             },
             {
@@ -485,7 +520,8 @@
                 "de": "Genießen Sie die Wärme der historischen Innenräume.",
                 "hu": "Élvezze a történelmi belső terek melengető nyugalmát.",
                 "ro": "Bucurați-vă de căldura interioarelor istorice.",
-                "en": "Enjoy the warmth of the historic wooden interiors."
+                "en": "Enjoy the warmth of the historic wooden interiors.",
+                "fi": "Nauti historiallisten puisten sisätilojen lämmöstä."
               }
             },
             {
@@ -494,7 +530,8 @@
                 "de": "Suchen Sie ein Lokal mit heißer finnischer Suppe.",
                 "hu": "Keressen egy helyet, ahol forró finn levest szolgálnak fel.",
                 "ro": "Căutați un local care servește supă finlandeză fierbinte.",
-                "en": "Look for a spot serving hot Finnish soup."
+                "en": "Look for a spot serving hot Finnish soup.",
+                "fi": "Etsi paikka, joka tarjoilee lämmintä suomalaista keittoa."
               }
             },
             {
@@ -503,7 +540,8 @@
                 "de": "Der gefrorene Fluss bietet eine tolle Winterkulisse.",
                 "hu": "A befagyott folyó látványa csodás téli hátteret ad.",
                 "ro": "Râul înghețat oferă un decor de iarnă superb.",
-                "en": "The frozen river provides a stunning winter backdrop."
+                "en": "The frozen river provides a stunning winter backdrop.",
+                "fi": "Jäätynyt joki tarjoaa upean talvisen taustan."
               }
             }
           ],
@@ -531,6 +569,12 @@
               "Wear shoes with good grip as sidewalks can be very icy.",
               "Layering is key for switching between freezing air and heated interiors.",
               "Distances are short, but wind can make the cold feel much sharper."
+            ],
+            "fi": [
+              "Joulukuussa aurinko laskee jo klo 14.30.",
+              "Käytä kenkiä, joilla on hyvä pito, koska jalkakäytävät voivat olla hyvin jäisiä.",
+              "Kerrostaminen on avainasemassa vaihtuvan pakkasilman ja lämpimien sisätilojen välillä.",
+              "Etäisyydet ovat lyhyitä, mutta tuuli voi saada kylmyyden tuntumaan paljon purevammalta."
             ]
           }
         }
@@ -549,7 +593,8 @@
             "de": "Aalto-Zentrum",
             "hu": "Aalto Központ",
             "ro": "Centrul Aalto",
-            "en": "Aalto Centre"
+            "en": "Aalto Centre",
+            "fi": "Aalto-keskus"
           },
           "coords": [
             22.8403,
@@ -564,7 +609,8 @@
             "de": "Starten Sie Ihre Radtour mit einem architektonischen Highlight.",
             "hu": "Kezdje a kerékpártúrát egy építészeti fényponttal.",
             "ro": "Începeți turul cu bicicleta cu un punct de atracție arhitectural.",
-            "en": "Start your bike tour with an architectural highlight."
+            "en": "Start your bike tour with an architectural highlight.",
+            "fi": "Aloita pyöräretkesi arkkitehtonisella kohokohdalla."
           }
         },
         {
@@ -572,7 +618,8 @@
             "de": "Lakeuden Risti Kirche",
             "hu": "Lakeuden Risti templom",
             "ro": "Biserica Lakeuden Risti",
-            "en": "Lakeuden Risti Church"
+            "en": "Lakeuden Risti Church",
+            "fi": "Lakeuden Ristin kirkko"
           },
           "coords": [
             22.841,
@@ -587,7 +634,8 @@
             "de": "Schließen Sie Ihr Fahrrad an und genießen Sie die Aussicht vom Turm.",
             "hu": "Zárja le a biciklit, és élvezze a kilátást a toronyból.",
             "ro": "Legați-vă bicicleta și bucurați-vă de priveliștea din turn.",
-            "en": "Lock up your bike and enjoy the view from the tower."
+            "en": "Lock up your bike and enjoy the view from the tower.",
+            "fi": "Lukitse pyöräsi ja nauti näköalasta tornista."
           }
         },
         {
@@ -595,7 +643,8 @@
             "de": "Törnävän kartano",
             "hu": "Törnävä udvarház",
             "ro": "Conacul Törnävä",
-            "en": "Törnävä Manor"
+            "en": "Törnävä Manor",
+            "fi": "Törnävän kartano"
           },
           "coords": [
             22.835,
@@ -610,7 +659,8 @@
             "de": "Eine angenehme Radtour führt Sie zu diesem historischen Herrenhaus und dem umliegenden Park.",
             "hu": "Egy kellemes kerékpártúra vezet ehhez a történelmi udvarházhoz és a környező parkhoz.",
             "ro": "O plimbare plăcută cu bicicleta vă duce la acest conac istoric și la parcul înconjurător.",
-            "en": "A pleasant bike ride takes you to this historic manor and its surrounding park."
+            "en": "A pleasant bike ride takes you to this historic manor and its surrounding park.",
+            "fi": "Mukava pyöräilyretki vie sinut tähän historialliseen kartanoon ja sen ympäröivään puistoon."
           }
         },
         {
@@ -618,7 +668,8 @@
             "de": "Regionalmuseum Süd-Ostbottnien",
             "hu": "Dél-Ostrobothniai Regionális Múzeum",
             "ro": "Muzeul Regional Ostrobothnia de Sud",
-            "en": "South Ostrobothnia Regional Museum"
+            "en": "South Ostrobothnia Regional Museum",
+            "fi": "Etelä-Pohjanmaan maakuntamuseo"
           },
           "coords": [
             22.8345,
@@ -633,7 +684,8 @@
             "de": "Das Museum liegt direkt neben dem Herrenhaus, also lassen Sie Ihr Fahrrad einfach stehen.",
             "hu": "A múzeum közvetlenül az udvarház mellett található, így csak hagyja ott a kerékpárját.",
             "ro": "Muzeul este chiar lângă conac, așa că lăsați-vă bicicleta acolo.",
-            "en": "The museum is right next to the manor, so just leave your bike."
+            "en": "The museum is right next to the manor, so just leave your bike.",
+            "fi": "Museo on aivan kartanon vieressä, jätä siis pyöräsi siihen."
           }
         },
         {
@@ -641,7 +693,8 @@
             "de": "Mittagessen in Törnävä",
             "hu": "Ebéd Törnävä-ban",
             "ro": "Prânz în Törnävä",
-            "en": "Lunch in Törnävä"
+            "en": "Lunch in Törnävä",
+            "fi": "Lounas Törnävällä"
           },
           "coords": [
             22.836,
@@ -656,7 +709,8 @@
             "de": "Genießen Sie eine Mahlzeit im Restaurant des Herrenhauses für eine historische Atmosphäre.",
             "hu": "Fogyasszon el egy ebédet az udvarház éttermében a történelmi hangulatért.",
             "ro": "Bucurați-vă de o masă la restaurantul conacului pentru o atmosferă istorică.",
-            "en": "Enjoy a meal at the manor's restaurant for a historic atmosphere."
+            "en": "Enjoy a meal at the manor's restaurant for a historic atmosphere.",
+            "fi": "Nauti ateria kartanon ravintolassa historiallisessa tunnelmassa."
           }
         },
         {
@@ -664,7 +718,8 @@
             "de": "Mallaskosken Brauerei",
             "hu": "Mallaskoski Sörfőzde",
             "ro": "Berăria Mallaskoski",
-            "en": "Mallaskoski Brewery"
+            "en": "Mallaskoski Brewery",
+            "fi": "Mallaskoski Panimo"
           },
           "coords": [
             22.83,
@@ -679,7 +734,8 @@
             "de": "Radeln Sie am Fluss entlang zurück ins Zentrum und belohnen Sie sich mit einem kalten Bier.",
             "hu": "Tekerjen vissza a folyó mentén a központba, és jutalmazza meg magát egy hideg sörrel.",
             "ro": "Pedalați înapoi spre centru de-a lungul râului și recompensați-vă cu o bere rece.",
-            "en": "Cycle back to the center along the river and reward yourself with a cold beer."
+            "en": "Cycle back to the center along the river and reward yourself with a cold beer.",
+            "fi": "Pyöräile takaisin keskustaan joen vartta pitkin ja palkitse itsesi kylmällä oluella."
           }
         }
       ],
@@ -687,7 +743,8 @@
         "de": "Schwingen Sie sich aufs Rad für eine Tour, die Architektur und Natur verbindet. Der Morgen beginnt im Aalto-Zentrum, bevor eine malerische Fahrt Sie zum historischen Törnävä-Anwesen führt. Verbringen Sie den Mittag damit, das Herrenhaus und das benachbarte Freilichtmuseum zu erkunden. Radeln Sie am Nachmittag entlang des Flusses zurück in die Stadt und machen Sie Halt bei der Mallaskosken Brauerei für eine wohlverdiente Erfrischung. Der Tag endet mit einer entspannten Radtour durch das abendliche Seinäjoki.",
         "hu": "Pattanjon kerékpárra egy olyan túrához, amely ötvözi az építészetet és a természetet. A reggel az Aalto Központban kezdődik, mielőtt egy festői út elvezetné a történelmi Törnävä birtokra. Töltse a délt az udvarház és a szomszédos skanzen felfedezésével. Délután tekerjen vissza a városba a folyó mentén, és álljon meg a Mallaskoski Sörfőzdénél egy jól megérdemelt frissítőre. A nap egy laza esti kerékpártúrával zárul Seinäjokiban.",
         "ro": "Urcați pe bicicletă pentru un tur care combină arhitectura și natura. Dimineața începe la Centrul Aalto, înainte ca o plimbare pitorească să vă ducă la domeniul istoric Törnävä. Petreceți prânzul explorând conacul și muzeul în aer liber adiacent. După-amiaza, pedalați înapoi în oraș de-a lungul râului, oprindu-vă la Berăria Mallaskoski pentru o răcorire binemeritată. Ziua se încheie cu o plimbare relaxantă cu bicicleta prin Seinäjoki seara.",
-        "en": "Get on your bike for a tour that combines architecture and nature. The morning starts at the Aalto Centre before a scenic ride takes you to the historic Törnävä estate. Spend midday exploring the manor and the adjacent open-air museum. In the afternoon, cycle back into town along the river, stopping at Mallaskoski Brewery for a well-deserved refreshment. The day concludes with a relaxed evening bike ride through Seinäjoki."
+        "en": "Get on your bike for a tour that combines architecture and nature. The morning starts at the Aalto Centre before a scenic ride takes you to the historic Törnävä estate. Spend midday exploring the manor and the adjacent open-air museum. In the afternoon, cycle back into town along the river, stopping at Mallaskoski Brewery for a well-deserved refreshment. The day concludes with a relaxed evening bike ride through Seinäjoki.",
+        "fi": "Nouse pyörän selkään kierrokselle, joka yhdistää arkkitehtuurin ja luonnon. Aamu alkaa Aalto-keskuksesta, jonka jälkeen maisemallinen reitti vie sinut historialliseen Törnävän kartanoon. Vietä päivä keskipäivällä kartanoa ja sen ulkoilmamuseota tutkien. Iltapäivällä pyöräile takaisin kaupunkiin joen vartta pitkin ja poikkea Mallaskoski Panimolla ansaitulle virkistäytymiselle. Päivä päättyy leppoisaan iltapyöräilyyn Seinäjoella."
       },
       "gastro_picks": {
         "de": [
@@ -879,6 +936,11 @@
           "Seinäjoki is very flat, making it ideal for cycling.",
           "There are many bike paths connecting the center to the outskirts.",
           "Remember to lock your bike when you leave it."
+        ],
+        "fi": [
+          "Seinäjoki on erittäin tasainen, mikä tekee siitä ihanteellisen pyöräilyyn.",
+          "Keskustan ja esikaupunkialueiden välillä on paljon pyöräteitä.",
+          "Muista lukita pyöräsi, kun jätät sen."
         ]
       },
       "variants": {
@@ -887,7 +949,8 @@
             "de": "Trotz Regen starten Sie am Aalto-Zentrum, wo das Design auch im Nassen beeindruckt. Die Fahrt nach Törnävä führt durch aufgefrischte Natur. Mittags besuchen Sie das Regionalmuseum, um den Schauern zu entkommen. Den Rückweg treten Sie entlang des Flusses an, um schließlich in der Brauerei Mallaskoski bei einem Bier zu trocknen.",
             "hu": "Az eső ellenére az Aalto-központnál indul a nap, ahol a vizes kövezet csak kiemeli a designt. Törnävä felé friss, esőáztatta természeten át vezet az út. Délben a regionális múzeumban lelhet menedékre a záporok elől. A visszaút a folyó mentén vezet a Mallaskoski sörfőzdébe, ahol végül teljesen megszáradhat.",
             "ro": "Porniți de la Centrul Aalto în ciuda ploii, designul fiind impresionant și pe umed. Drumul spre Törnävä trece prin natură reîmprospătată. La prânz, vizitați muzeul regional pentru a scăpa de averse. Reveniți pe malul râului pentru a vă usca la Berăria Mallaskoski cu o bere în mână.",
-            "en": "Start at the Aalto Centre despite the rain, where the wet surfaces highlight the architecture. The ride to Törnävä takes you through refreshed, lush nature. At noon, head into the regional museum to escape the showers. Ride back along the river to dry off at Mallaskoski Brewery with a local pint."
+            "en": "Start at the Aalto Centre despite the rain, where the wet surfaces highlight the architecture. The ride to Törnävä takes you through refreshed, lush nature. At noon, head into the regional museum to escape the showers. Ride back along the river to dry off at Mallaskoski Brewery with a local pint.",
+            "fi": "Aloita Aalto-keskuksesta vaikka sataisi; märät pinnat korostavat arkkitehtuuria. Matka Törnävään kulkee virkistyneen, vehreän luonnon läpi. Keskipäivällä suuntaa maakuntamuseoon suojautuaksesi kuuroilta. Pyöräile takaisin joen vartta pitkin ja kuivaa itsesi Mallaskoski Panimolla paikallisen tuopin äärellä."
           },
           "stops": [
             {
@@ -896,7 +959,8 @@
                 "de": "Vorsicht auf dem glatten Marmor der Außenanlagen.",
                 "hu": "Vigyázzon a kültéri márványburkolatokon, csúsznak.",
                 "ro": "Atenție pe marmura exterioară, poate fi alunecoasă.",
-                "en": "Be careful on the exterior marble; it gets slippery."
+                "en": "Be careful on the exterior marble; it gets slippery.",
+                "fi": "Ole varovainen ulkoisen marmorin kanssa; se on liukas."
               }
             },
             {
@@ -905,7 +969,8 @@
                 "de": "Überdachte Fahrradständer befinden sich in der Nähe.",
                 "hu": "Fedett kerékpártárolók találhatók a közelben.",
                 "ro": "Suporturile acoperite pentru biciclete sunt în apropiere.",
-                "en": "Covered bike racks are available nearby."
+                "en": "Covered bike racks are available nearby.",
+                "fi": "Lähistöllä on katettuja pyörätelineitä."
               }
             },
             {
@@ -914,7 +979,8 @@
                 "de": "Die Parkwege können bei Regen etwas matschig sein.",
                 "hu": "A park ösvényei esőben kissé sarasak lehetnek.",
                 "ro": "Aleile parcului pot fi puțin noroioase pe ploaie.",
-                "en": "The park paths can get a bit muddy in the rain."
+                "en": "The park paths can get a bit muddy in the rain.",
+                "fi": "Puistopolut saattavat muuttua mutaisiksi sateella."
               }
             },
             {
@@ -923,7 +989,8 @@
                 "de": "Nutzen Sie die Schließfächer für nasse Regenbekleidung.",
                 "hu": "Használja az értékmegőrzőket a vizes esőkabátoknak.",
                 "ro": "Folosiți dulapurile pentru echipamentul de ploaie ud.",
-                "en": "Use the lockers for your wet rain gear."
+                "en": "Use the lockers for your wet rain gear.",
+                "fi": "Käytä lokerikkoja märän sadevarusteesi säilytykseen."
               }
             },
             {
@@ -932,7 +999,8 @@
                 "de": "Prüfen Sie, ob es einen geschützten Platz für das Rad gibt.",
                 "hu": "Ellenőrizze, van-e védett hely a biciklinek.",
                 "ro": "Verificați dacă există un loc ferit pentru bicicletă.",
-                "en": "Check if there is a sheltered spot for your bike."
+                "en": "Check if there is a sheltered spot for your bike.",
+                "fi": "Tarkista, onko pyörällesi katettua säilytystilaa."
               }
             },
             {
@@ -941,7 +1009,8 @@
                 "de": "Heißer Tee ist hier eine gute Alternative zum Bier.",
                 "hu": "A forró tea jó alternatíva a sör mellé esőben.",
                 "ro": "Ceaiul fierbinte este o alternativă bună pe ploaie.",
-                "en": "Hot tea is a great alternative to beer on a rainy day."
+                "en": "Hot tea is a great alternative to beer on a rainy day.",
+                "fi": "Kuuma tee on erinomainen vaihtoehto oluelle sateisena päivänä."
               }
             }
           ],
@@ -969,6 +1038,12 @@
               "Avoid sharp turns on wet asphalt or cobblestones.",
               "Waterproof panniers will keep your belongings dry during museum visits.",
               "A rain poncho often provides better coverage than a jacket while cycling."
+            ],
+            "fi": [
+              "Lokasuojat ovat välttämättömät pyöräilyssä tällaisessa säässä.",
+              "Vältä jyrkkiä käännöksiä märällä asfaltilla tai mukulakivikaduilla.",
+              "Vedenpitävät satulalaukut pitävät tavarasi kuivina museovierailun ajan.",
+              "Saderiisu antaa usein paremman suojan kuin takki pyöräillessä."
             ]
           }
         },
@@ -977,7 +1052,8 @@
             "de": "Eine Winterradtour durch Seinäjoki ist erfrischend; das Aalto-Zentrum glitzert im Frost. Die Fahrt nach Törnävä durch den tiefen Schnee ist ein echtes finnisches Erlebnis. Mittags bietet das Regionalmuseum wohlige Wärme. Der Rückweg in der blauen Stunde führt Sie zur Brauerei, wo Sie sich am Kamin mit einem kräftigen Stout belohnen.",
             "hu": "A téli kerékpározás Seinäjokiban igazi frissítő élmény; az Aalto-központ csillog a fagyban. A hóval borított út Törnävä felé hamisítatlan finn kaland. Délben a regionális múzeum nyújt melengető pihenőt. A 'kék órában' megtett visszaút a sörfőzdébe vezet, ahol a kandalló mellett egy sötét sörrel jutalmazhatja magát.",
             "ro": "O tură cu bicicleta prin Seinäjoki iarna este revigorantă; Centrul Aalto strălucește în ger. Drumul spre Törnävä prin zăpadă este o experiență finlandeză autentică. La prânz, muzeul regional oferă o pauză caldă. Revenirea în 'ora albastră' vă duce la berărie, unde vă puteți răsplăti lângă șemineu.",
-            "en": "Winter cycling in Seinäjoki is a refreshing thrill; the Aalto Centre sparkles in the frost. The ride to Törnävä through snow-covered paths is an authentic Finnish adventure. At noon, the regional museum offers a welcoming warm break. The return ride in the 'blue hour' leads to the brewery for a rewarding stout by the fire."
+            "en": "Winter cycling in Seinäjoki is a refreshing thrill; the Aalto Centre sparkles in the frost. The ride to Törnävä through snow-covered paths is an authentic Finnish adventure. At noon, the regional museum offers a welcoming warm break. The return ride in the 'blue hour' leads to the brewery for a rewarding stout by the fire.",
+            "fi": "Talvipyöräily Seinäjoella on virkistävä elämys; Aalto-keskus kimaltelee pakkasessa. Matka Törnävään lumipeitteisten polkujen kautta on aito suomalainen seikkailu. Keskipäivällä maakuntamuseo tarjoaa lämpimän tauon. Paluumatka siniseksi muuttuvassa hämärässä johtaa panimolle, jossa palkitset itsesi tummalla oluella ja tulen lämmössä."
           },
           "stops": [
             {
@@ -986,7 +1062,8 @@
                 "de": "Vorsicht vor gefrorenen Stellen auf den Plätzen.",
                 "hu": "Vigyázzon a tereken lévő jeges foltokra.",
                 "ro": "Atenție la porțiunile înghețate din piețe.",
-                "en": "Watch out for icy patches in the open squares."
+                "en": "Watch out for icy patches in the open squares.",
+                "fi": "Varo jäisiä kohtia avoimilla aukioilla."
               }
             },
             {
@@ -995,7 +1072,8 @@
                 "de": "Schließen Sie Ihr Rad an einem gut geräumten Platz ab.",
                 "hu": "Lakatolja a biciklit jól letakarított helyre.",
                 "ro": "Legați bicicleta într-un loc bine curățat de zăpadă.",
-                "en": "Lock your bike in a well-cleared spot."
+                "en": "Lock your bike in a well-cleared spot.",
+                "fi": "Lukitse pyöräsi hyvin aurattuun paikkaan."
               }
             },
             {
@@ -1004,7 +1082,8 @@
                 "de": "Die Parkwege sind oft mit Splitt gestreut; vorsichtig fahren.",
                 "hu": "A park útjait gyakran felszórják zúzott kővel; óvatosan tekerjen.",
                 "ro": "Aleile parcului sunt presărate cu pietriș; pedalați cu grijă.",
-                "en": "Park paths are often gritted; cycle carefully."
+                "en": "Park paths are often gritted; cycle carefully.",
+                "fi": "Puistopolut ovat usein hiekoitettuja; pyöräile varovasti."
               }
             },
             {
@@ -1013,7 +1092,8 @@
                 "de": "Fragen Sie nach einem warmen Platz für Ihre Trinkflasche.",
                 "hu": "Kérjen meleg helyet a kulacsának, hogy ne fagyjon be.",
                 "ro": "Căutați un loc cald pentru sticla de apă să nu înghețe.",
-                "en": "Keep your water bottle in a warm place to prevent freezing."
+                "en": "Keep your water bottle in a warm place to prevent freezing.",
+                "fi": "Pidä juomapullosi lämpimässä paikassa, jotta se ei jäädy."
               }
             },
             {
@@ -1022,7 +1102,8 @@
                 "de": "Heiße Getränke sind jetzt wichtiger als Kalorien.",
                 "hu": "A forró italok most fontosabbak, mint a kalóriák.",
                 "ro": "Băuturile fierbinți sunt prioritare acum.",
-                "en": "Hot drinks are more important than calories right now."
+                "en": "Hot drinks are more important than calories right now.",
+                "fi": "Kuumat juomat ovat nyt tärkeämpiä kuin kalorit."
               }
             },
             {
@@ -1031,7 +1112,8 @@
                 "de": "Parken Sie das Rad nah am Eingang für einen schnellen Abgang.",
                 "hu": "Parkoljon a bejárathoz közel a gyors távozás érdekében.",
                 "ro": "Parcați bicicleta aproape de intrare pentru o plecare rapidă.",
-                "en": "Park your bike close to the entrance for a quick exit."
+                "en": "Park your bike close to the entrance for a quick exit.",
+                "fi": "Pysäköi pyörä lähelle sisäänkäyntiä nopeaa lähtöä varten."
               }
             }
           ],
@@ -1059,6 +1141,12 @@
               "Keep your chain well-oiled to resist road salt and slush.",
               "Lights are absolutely vital from 3 PM onwards.",
               "Wear windproof gloves to prevent frostbite during the ride."
+            ],
+            "fi": [
+              "Nastarenkaat ovat lähes välttämättömät suomalaisessa talvipyöräilyssä.",
+              "Pidä ketju hyvin öljyttynä kestämään tien suolaa ja loskaa.",
+              "Valot ovat täysin välttämättömät klo 15 jälkeen.",
+              "Pue tuulenpitävät hanskat estämään paleltumia ajon aikana."
             ]
           }
         }
@@ -1077,7 +1165,8 @@
             "de": "Cluster A: Aalto-Zentrum",
             "hu": "A Klaszter: Aalto Központ",
             "ro": "Cluster A: Centrul Aalto",
-            "en": "Cluster A: Aalto Centre"
+            "en": "Cluster A: Aalto Centre",
+            "fi": "Klusteri A: Aalto-keskus"
           },
           "coords": [
             22.8403,
@@ -1093,7 +1182,8 @@
             "de": "Parken Sie hier. Das gesamte Zentrum ist ein Fußgängercluster.",
             "hu": "Parkoljon itt. Az egész központ egy gyalogos klaszter.",
             "ro": "Parcați aici. Întregul centru este un cluster pietonal.",
-            "en": "Park your car here. The entire centre is a walking cluster."
+            "en": "Park your car here. The entire centre is a walking cluster.",
+            "fi": "Pysäköi autosi tänne. Koko keskus on kävelyalueiden muodostama klusteri."
           }
         },
         {
@@ -1101,7 +1191,8 @@
             "de": "Lakeuden Risti Kirche",
             "hu": "Lakeuden Risti templom",
             "ro": "Biserica Lakeuden Risti",
-            "en": "Lakeuden Risti Church"
+            "en": "Lakeuden Risti Church",
+            "fi": "Lakeuden Ristin kirkko"
           },
           "coords": [
             22.841,
@@ -1117,7 +1208,8 @@
             "de": "Ein kurzer Spaziergang vom Hauptgebäude des Aalto-Zentrums.",
             "hu": "Rövid séta az Aalto Központ főépületétől.",
             "ro": "O scurtă plimbare de la clădirea principală a Centrului Aalto.",
-            "en": "A short walk from the main Aalto Centre building."
+            "en": "A short walk from the main Aalto Centre building.",
+            "fi": "Lyhyt kävelymatka pääaallon keskusrakennukselta."
           }
         },
         {
@@ -1125,7 +1217,8 @@
             "de": "Stadttheater Seinäjoki",
             "hu": "Seinäjoki Városi Színház",
             "ro": "Teatrul Municipal Seinäjoki",
-            "en": "Seinäjoki City Theatre"
+            "en": "Seinäjoki City Theatre",
+            "fi": "Seinäjoen kaupunginteatteri"
           },
           "coords": [
             22.8395,
@@ -1141,7 +1234,8 @@
             "de": "Auf der anderen Seite des Platzes gelegen, leicht zu Fuß erreichbar.",
             "hu": "A tér másik oldalán található, könnyen megközelíthető gyalog.",
             "ro": "Situat de cealaltă parte a pieței, ușor accesibil pe jos.",
-            "en": "Located on the other side of the square, an easy walk."
+            "en": "Located on the other side of the square, an easy walk.",
+            "fi": "Sijaitsee aukion toisella puolella, helppo kävellä."
           }
         },
         {
@@ -1149,7 +1243,8 @@
             "de": "Cluster B: Törnävän kartano",
             "hu": "B Klaszter: Törnävä udvarház",
             "ro": "Cluster B: Conacul Törnävä",
-            "en": "Cluster B: Törnävä Manor"
+            "en": "Cluster B: Törnävä Manor",
+            "fi": "Klusteri B: Törnävän kartano"
           },
           "coords": [
             22.835,
@@ -1165,7 +1260,8 @@
             "de": "Fahren Sie zum Törnävä-Gebiet und parken Sie. Dieser Bereich ist der zweite Wandercluster.",
             "hu": "Vezessen a Törnävä területre és parkoljon. Ez a terület a második gyalogos klaszter.",
             "ro": "Conduceți spre zona Törnävä și parcați. Această zonă este al doilea cluster de mers pe jos.",
-            "en": "Drive to the Törnävä area and park. This area is the second walking cluster."
+            "en": "Drive to the Törnävä area and park. This area is the second walking cluster.",
+            "fi": "Aja Törnävän alueelle ja pysäköi. Tämä alue on toinen kävelyklusteri."
           }
         },
         {
@@ -1173,7 +1269,8 @@
             "de": "Regionalmuseum Süd-Ostbottnien",
             "hu": "Dél-Ostrobothniai Regionális Múzeum",
             "ro": "Muzeul Regional Ostrobothnia de Sud",
-            "en": "South Ostrobothnia Regional Museum"
+            "en": "South Ostrobothnia Regional Museum",
+            "fi": "Etelä-Pohjanmaan maakuntamuseo"
           },
           "coords": [
             22.8345,
@@ -1189,7 +1286,8 @@
             "de": "Erkunden Sie die Geschichte der Region, nur wenige Schritte vom Herrenhaus entfernt.",
             "hu": "Fedezze fel a régió történelmét, csak néhány lépésre az udvarháztól.",
             "ro": "Explorați istoria regiunii, la doar câțiva pași de conac.",
-            "en": "Explore the region's history, just a few steps from the manor."
+            "en": "Explore the region's history, just a few steps from the manor.",
+            "fi": "Tutustu alueen historiaan, vain muutaman askeleen päässä kartanosta."
           }
         },
         {
@@ -1197,7 +1295,8 @@
             "de": "Cluster C: Ideapark Seinäjoki",
             "hu": "C Klaszter: Ideapark Seinäjoki",
             "ro": "Cluster C: Ideapark Seinäjoki",
-            "en": "Cluster C: Ideapark Seinäjoki"
+            "en": "Cluster C: Ideapark Seinäjoki",
+            "fi": "Klusteri C: Ideapark Seinäjoki"
           },
           "coords": [
             22.79,
@@ -1213,7 +1312,8 @@
             "de": "Eine kurze Fahrt zu diesem großen Einkaufszentrum für etwas Shopping am Nachmittag.",
             "hu": "Rövid autóút ehhez a nagy bevásárlóközponthoz egy délutáni vásárláshoz.",
             "ro": "O scurtă călătorie cu mașina până la acest mare centru comercial pentru cumpărături de după-amiază.",
-            "en": "A short drive to this large shopping center for some afternoon shopping."
+            "en": "A short drive to this large shopping center for some afternoon shopping.",
+            "fi": "Lyhyt ajomatka tähän suureen ostoskeskukseen iltapäivän ostoksia varten."
           }
         },
         {
@@ -1221,7 +1321,8 @@
             "de": "Abendessen in der Mallaskosken Brauerei",
             "hu": "Vacsora a Mallaskoski Sörfőzdében",
             "ro": "Cină la Berăria Mallaskoski",
-            "en": "Dinner at Mallaskoski Brewery"
+            "en": "Dinner at Mallaskoski Brewery",
+            "fi": "Illallinen Mallaskoski Panimolla"
           },
           "coords": [
             22.83,
@@ -1237,7 +1338,8 @@
             "de": "Fahren Sie zurück ins Zentrum und beenden Sie den Tag mit einem herzhaften Essen und Craft-Bier.",
             "hu": "Vezessen vissza a központba, és fejezze be a napot egy kiadós étellel és kézműves sörrel.",
             "ro": "Conduceți înapoi în centru și încheiați ziua cu o masă copioasă și o bere artizanală.",
-            "en": "Drive back towards the center and end the day with a hearty meal and craft beer."
+            "en": "Drive back towards the center and end the day with a hearty meal and craft beer.",
+            "fi": "Aja takaisin kohti keskustaa ja päätä päivä täyttävään ateriaan ja käsityöläisolueen."
           }
         }
       ],
@@ -1245,7 +1347,8 @@
         "de": "Nutzen Sie Ihr Auto, um Seinäjoki in Clustern zu erkunden. Der Morgen ist dem architektonischen Herzen der Stadt gewidmet: Parken Sie und erkunden Sie das Aalto-Zentrum zu Fuß. Nach dem Eintauchen in die Moderne fahren Sie zum Törnävä-Anwesen, Ihrem zweiten Cluster. Verbringen Sie den Mittag damit, das Herrenhaus und das Museum zu erkunden. Am Nachmittag fahren Sie zum Ideapark für eine Einkaufstherapie, bevor Sie den Tag in der Mallaskosken Brauerei mit einem leckeren Abendessen ausklingen lassen.",
         "hu": "Használja autóját Seinäjoki klaszterekben való felfedezéséhez. A délelőtt a város építészeti szívének van szentelve: parkoljon le, és fedezze fel gyalog az Aalto Központot. A modernizmusba való belemerülés után vezessen a Törnävä birtokra, a második klaszterhez. Töltse a délt az udvarház és a múzeum felfedezésével. Délután irány az Ideapark egy kis vásárlási terápiáért, mielőtt a napot a Mallaskoski Sörfőzdében egy finom vacsorával zárná.",
         "ro": "Folosiți mașina pentru a explora Seinäjoki în clustere. Dimineața este dedicată inimii arhitecturale a orașului: parcați și explorați Centrul Aalto pe jos. După imersiunea în modernism, conduceți spre domeniul Törnävä, al doilea cluster. Petreceți prânzul explorând conacul și muzeul. După-amiaza, mergeți la Ideapark pentru terapie prin cumpărături, înainte de a încheia ziua cu o cină delicioasă la Berăria Mallaskoski.",
-        "en": "Use your car to explore Seinäjoki in clusters. The morning is dedicated to the architectural heart of the city: park and explore the Aalto Centre on foot. After immersing in modernism, drive to the Törnävä estate, your second cluster. Spend midday exploring the manor and museum. In the afternoon, head to Ideapark for some retail therapy before concluding the day with a delicious dinner at Mallaskoski Brewery."
+        "en": "Use your car to explore Seinäjoki in clusters. The morning is dedicated to the architectural heart of the city: park and explore the Aalto Centre on foot. After immersing in modernism, drive to the Törnävä estate, your second cluster. Spend midday exploring the manor and museum. In the afternoon, head to Ideapark for some retail therapy before concluding the day with a delicious dinner at Mallaskoski Brewery.",
+        "fi": "Käytä autoa tutkiessasi Seinäjokea klustereittain. Aamu on omistettu kaupungin arkkitehtoniselle sydämelle: pysäköi ja tutki Aalto-keskusta kävellen. Modernismin kokemisen jälkeen aja Törnävän kartanoalueelle, joka on toinen klusterisi. Vietä keskipaivä kartanoa ja museota tutkien. Iltapäivällä suuntaa Ideaparkiin ostoshetkeksi ennen päivän päätöstä herkullisella illallisella Mallaskoski Panimolla."
       },
       "gastro_picks": {
         "de": [
@@ -1437,6 +1540,11 @@
           "Parking in the city center may have a fee, but it's often free outside the immediate center.",
           "The cluster-walking method saves time on parking and lets you explore more.",
           "Check the opening hours, especially for the Regional Museum, which may have seasonal hours."
+        ],
+        "fi": [
+          "Pysäköinti keskustassa saattaa olla maksullista, mutta usein sen ulkopuolella ilmainen.",
+          "Klusterikävely säästää aikaa pysäköinnissä ja antaa mahdollisuuden nähdä enemmän.",
+          "Tarkista aukioloajat, erityisesti maakuntamuseolla, joka saattaa noudattaa kausiluonteisia aikoja."
         ]
       },
       "variants": {
@@ -1445,7 +1553,8 @@
             "de": "Genießen Sie die Fahrt zwischen den architektonischen Highlights im trockenen Auto. Das Aalto-Zentrum und die Kirche lassen sich bequem erreichen. Mittags führt die Fahrt nach Törnävä, wo das Museum eine Zeitreise ermöglicht. Den späten Nachmittag verbringen Sie im Ideapark Seinäjoki, dem ultimativen Regenschutz, bevor Sie zum Abendessen in die Brauerei fahren.",
             "hu": "Élvezze az autózást az építészeti remekművek között, szárazon. Az Aalto-központ és a templom kényelmesen elérhető. Délben Törnävä felé visz az út, ahol a múzeum kínál beltéri kikapcsolódást. A késő délutánt töltse az Ideapark bevásárlóközpontban, ami a legjobb védelem az eső ellen, majd zárja a napot a sörfőzdében.",
             "ro": "Bucurați-vă de drumul între punctele arhitecturale de interes, la adăpost în mașină. Centrul Aalto și biserica sunt ușor accesibile. La prânz, conduceți spre Törnävä pentru o vizită la muzeu. Petreceți după-amiaza târzie la Ideapark Seinäjoki, refugiul suprem contra ploii, înainte de cină.",
-            "en": "Enjoy the drive between architectural highlights from the comfort of your dry car. The Aalto Centre and church are easily accessible. At noon, drive to Törnävä for an indoor journey through history. Spend your late afternoon at Ideapark Seinäjoki, the ultimate rainy-day sanctuary, before heading to the brewery for dinner."
+            "en": "Enjoy the drive between architectural highlights from the comfort of your dry car. The Aalto Centre and church are easily accessible. At noon, drive to Törnävä for an indoor journey through history. Spend your late afternoon at Ideapark Seinäjoki, the ultimate rainy-day sanctuary, before heading to the brewery for dinner.",
+            "fi": "Nauti ajomatkasta arkkitehtonisten kohokohtien välillä pysyen kuivan auton mukavuudessa. Aalto-keskukseen ja kirkolle pääsee helposti. Kello 12 ajo Törnävään tarjoaa sisäisen matkan historian läpi. Vietä myöhäinen iltapäiväsi Ideapark Seinäjoella, täydellisessä sateenpäivän turvassa, ennen kuin suuntaat panimolle illalliselle."
           },
           "stops": [
             {
@@ -1454,7 +1563,8 @@
                 "de": "Parkplätze direkt am Verwaltungszentrum nutzen.",
                 "hu": "Használja a közigazgatási központ melletti parkolókat.",
                 "ro": "Folosiți parcările de lângă centrul administrativ.",
-                "en": "Use the parking lots right next to the administrative centre."
+                "en": "Use the parking lots right next to the administrative centre.",
+                "fi": "Käytä pysäköintialueita aivan hallintokeskuksen vieressä."
               }
             },
             {
@@ -1463,7 +1573,8 @@
                 "de": "Kurzer Sprint vom Parkplatz zum Kircheneingang.",
                 "hu": "Rövid futás a parkolótól a templom bejáratáig.",
                 "ro": "Scurt sprint din parcare până la intrarea în biserică.",
-                "en": "A quick dash from the parking lot to the church entrance."
+                "en": "A quick dash from the parking lot to the church entrance.",
+                "fi": "Pikainen juoksu pysäköintialueelta kirkon sisäänkäynnille."
               }
             },
             {
@@ -1472,7 +1583,8 @@
                 "de": "Parken Sie im Parkhaus, um komplett trocken zu bleiben.",
                 "hu": "Parkoljon a mélygarázsban, hogy teljesen száraz maradjon.",
                 "ro": "Parcați în garajul subteran pentru a rămâne uscat.",
-                "en": "Park in the parking garage to stay completely dry."
+                "en": "Park in the parking garage to stay completely dry.",
+                "fi": "Pysäköi pysäköintihalliin pysyäksesi täysin kuivana."
               }
             },
             {
@@ -1481,7 +1593,8 @@
                 "de": "Der Parkplatz ist nah am Haupthaus.",
                 "hu": "A parkoló közel van a főépülethez.",
                 "ro": "Parcarea este situată aproape de clădirea principală.",
-                "en": "The parking lot is close to the main manor house."
+                "en": "The parking lot is close to the main manor house.",
+                "fi": "Pysäköintialue on lähellä pääravintolaa."
               }
             },
             {
@@ -1490,7 +1603,8 @@
                 "de": "Das Museum hat einen eigenen Besucherparkplatz.",
                 "hu": "A múzeumnak saját látogatói parkolója van.",
                 "ro": "Muzeul are o parcare dedicată vizitatorilor.",
-                "en": "The museum has its own dedicated visitor parking."
+                "en": "The museum has its own dedicated visitor parking.",
+                "fi": "Museolla on oma vieraspysäköintinsä."
               }
             },
             {
@@ -1499,7 +1613,8 @@
                 "de": "Riesiges kostenloses Parkplatzangebot unter Dach.",
                 "hu": "Hatalmas ingyenes fedett parkolási lehetőség.",
                 "ro": "Parcare gratuită imensă și acoperită.",
-                "en": "Huge free covered parking area available."
+                "en": "Huge free covered parking area available.",
+                "fi": "Suuri ilmainen katettu pysäköintialue saatavilla."
               }
             },
             {
@@ -1508,7 +1623,8 @@
                 "de": "Ausreichend Parkplätze vor dem Restaurant vorhanden.",
                 "hu": "Elegendő parkolóhely áll rendelkezésre az étterem előtt.",
                 "ro": "Locuri de parcare suficiente în fața restaurantului.",
-                "en": "Ample parking space available in front of the restaurant."
+                "en": "Ample parking space available in front of the restaurant.",
+                "fi": "Reilusti pysäköintitilaa ravintolan edessä."
               }
             }
           ],
@@ -1536,6 +1652,12 @@
               "Parking apps work flawlessly in Seinäjoki.",
               "Ideapark is the best place for shopping with dry feet.",
               "Keep your windows clean for optimal visibility during rain."
+            ],
+            "fi": [
+              "Varo vesiliirtoa päätien osuuksilla.",
+              "Pysäköinti­appi toimii moitteettomasti Seinäjoella.",
+              "Ideapark on paras paikka ostoksille kuivin jaloin.",
+              "Pidä ikkunat puhtaina parhaan näkyvyyden vuoksi sateella."
             ]
           }
         },
@@ -1544,7 +1666,8 @@
             "de": "Erleben Sie Seinäjoki im Winter sicher vom beheizten Auto aus. Das Aalto-Zentrum bietet eine frostige, weiße Kulisse. Nach dem Besuch der Kirche fahren Sie durch verschneite Wälder nach Törnävä. Der Nachmittag im Ideapark bietet Kontrast zum Winterwetter mit Wärme und Licht. Der Tag endet mit einem gemütlichen Abendessen in der Brauerei, während Ihr Auto sicher im Schnee parkt.",
             "hu": "Ismerje meg Seinäjokit télen a fűtött autó biztonságából. Az Aalto-központ fagyos, fehér díszletet kínál. A templomlátogatás után havas erdőkön át vezet az út Törnäväba. A délután az Ideaparkban kontrasztot ad a téli időjárásnak a melegével és fényeivel. A nap barátságos vacsorával zárul a sörfőzdében.",
             "ro": "Explorați Seinäjoki iarna în siguranță dintr-o mașină încălzită. Centrul Aalto oferă un decor înghețat și alb. După biserică, conduceți prin păduri înzăpezite spre Törnävä. După-amiaza la Ideapark oferă un contrast cald față de gerul de afară. Ziua se încheie cu o cină primitoare la berărie.",
-            "en": "Experience Seinäjoki in winter safely from a heated car. The Aalto Centre offers a frosty, white backdrop for your morning. After the church, drive through snowy forests to Törnävä. An afternoon at Ideapark provides a warm, bright contrast to the winter weather. End the day with a cozy dinner at the brewery while your car rests in the snow."
+            "en": "Experience Seinäjoki in winter safely from a heated car. The Aalto Centre offers a frosty, white backdrop for your morning. After the church, drive through snowy forests to Törnävä. An afternoon at Ideapark provides a warm, bright contrast to the winter weather. End the day with a cozy dinner at the brewery while your car rests in the snow.",
+            "fi": "Koe Seinäjoki talvella turvallisesti lämmitetystä autosta. Aalto-keskus tarjoaa kuuraisten, valkoisten maisemien aamuhetken. Kirkon jälkeen aja lumisten metsien läpi Törnävään. Iltapäivä Ideaparkissa tarjoaa lämpimän, valoisan kontrastin talvisäähän. Päätä päivä kodikkaaseen illalliseen panimolla samalla kun autosi lepää lumessa."
           },
           "stops": [
             {
@@ -1553,7 +1676,8 @@
                 "de": "Vorsicht beim Einparken auf ungeräumten Flächen.",
                 "hu": "Vigyázzon a parkolással a le nem takarított felületeken.",
                 "ro": "Atenție la parcare pe suprafețele necurățate.",
-                "en": "Be careful when parking on unplowed areas."
+                "en": "Be careful when parking on unplowed areas.",
+                "fi": "Ole varovainen pysäköidessäsi auraamattomille alueille."
               }
             },
             {
@@ -1562,7 +1686,8 @@
                 "de": "Der Motor sollte warm bleiben, wenn Sie kurz stoppen.",
                 "hu": "A motor maradjon meleg a rövid megálló alatt.",
                 "ro": "Mențineți motorul cald în timpul opririi scurte.",
-                "en": "Keep the engine warm during the short stop."
+                "en": "Keep the engine warm during the short stop.",
+                "fi": "Pidä moottori lämpimänä lyhyen pysähdyksen ajan."
               }
             },
             {
@@ -1571,7 +1696,8 @@
                 "de": "Warme Tiefgaragen sind im Winter Gold wert.",
                 "hu": "A meleg mélygarázsok télen aranyat érnek.",
                 "ro": "Garajele subterane încălzite sunt prețioase iarna.",
-                "en": "Heated underground garages are worth their weight in gold."
+                "en": "Heated underground garages are worth their weight in gold.",
+                "fi": "Lämmitetyt maanalaiset pysäköintihallit ovat kullan arvoisia."
               }
             },
             {
@@ -1580,7 +1706,8 @@
                 "de": "Die Zufahrt kann bei Neuschnee tückisch sein.",
                 "hu": "A behajtó friss hóban trükkös lehet.",
                 "ro": "Accesul poate fi dificil pe zăpadă proaspătă.",
-                "en": "Access roads can be tricky after fresh snowfall."
+                "en": "Access roads can be tricky after fresh snowfall.",
+                "fi": "Ajoyhteydet voivat olla hankalia tuoreiden lumisateiden jälkeen."
               }
             },
             {
@@ -1589,7 +1716,8 @@
                 "de": "Parkplatzbeleuchtung ist hier am Nachmittag wichtig.",
                 "hu": "A parkoló világítása itt fontos délután.",
                 "ro": "Iluminatul parcării este important aici după-amiaza.",
-                "en": "Parking lot lighting is essential here in the afternoon."
+                "en": "Parking lot lighting is essential here in the afternoon.",
+                "fi": "Pysäköintialueen valaistus on tärkeä täällä iltapäivisin."
               }
             },
             {
@@ -1598,7 +1726,8 @@
                 "de": "Nutzen Sie die Zeit zum Enteisen Ihres Autos.",
                 "hu": "Használja ki az időt az autó leolvasztására.",
                 "ro": "Folosiți timpul pentru a degivra mașina.",
-                "en": "Use the time to defrost your car if needed."
+                "en": "Use the time to defrost your car if needed.",
+                "fi": "Käytä aika sulata autosi tarvittaessa."
               }
             },
             {
@@ -1607,7 +1736,8 @@
                 "de": "Genießen Sie den Blick auf das Auto im Schnee vom Fenster aus.",
                 "hu": "Élvezze az ablakból a havas autóra nyíló kilátást.",
                 "ro": "Admirați de la geam peisajul cu mașina în zăpadă.",
-                "en": "Enjoy the view of your car in the snow from the window."
+                "en": "Enjoy the view of your car in the snow from the window.",
+                "fi": "Nauti näkymästä autostasi lumessa ikkunasta käsin."
               }
             }
           ],
@@ -1635,6 +1765,12 @@
               "Always carry a snow shovel and an ice scraper in the car.",
               "Main roads are plowed quickly, but side streets take longer.",
               "Do not underestimate the danger of wildlife crossing at dusk."
+            ],
+            "fi": [
+              "Talvirenkaat ovat Suomessa lain mukaan pakolliset.",
+              "Kanna aina autossa lumilapiota ja jääraappaamoa.",
+              "Päätiet auraavat nopeasti, mutta sivukadut vievät pidempään.",
+              "Älä aliarvioi eläinten ylitysriskin vaaraa hämärässä."
             ]
           }
         }
@@ -1653,7 +1789,8 @@
             "de": "Cluster A: Aalto-Zentrum",
             "hu": "A Klaszter: Aalto Központ",
             "ro": "Cluster A: Centrul Aalto",
-            "en": "Cluster A: Aalto Centre"
+            "en": "Cluster A: Aalto Centre",
+            "fi": "Klusteri A: Aalto-keskus"
           },
           "coords": [
             22.8403,
@@ -1669,7 +1806,8 @@
             "de": "Das Zentrum ist der Hauptknotenpunkt für Busse. Beginnen Sie Ihren Tag hier.",
             "hu": "A központ a buszok fő csomópontja. Kezdje itt a napot.",
             "ro": "Centrul este nodul principal pentru autobuze. Începeți ziua aici.",
-            "en": "The centre is the main hub for buses. Start your day here."
+            "en": "The centre is the main hub for buses. Start your day here.",
+            "fi": "Keskus on bussien pääsolmukohta. Aloita päiväsi täällä."
           }
         },
         {
@@ -1677,7 +1815,8 @@
             "de": "Lakeuden Risti Kirche",
             "hu": "Lakeuden Risti templom",
             "ro": "Biserica Lakeuden Risti",
-            "en": "Lakeuden Risti Church"
+            "en": "Lakeuden Risti Church",
+            "fi": "Lakeuden Ristin kirkko"
           },
           "coords": [
             22.841,
@@ -1693,7 +1832,8 @@
             "de": "Ein einfacher Spaziergang durch den Aalto Park.",
             "hu": "Könnyű séta az Aalto parkon keresztül.",
             "ro": "O plimbare ușoară prin Parcul Aalto.",
-            "en": "An easy walk across the Aalto park."
+            "en": "An easy walk across the Aalto park.",
+            "fi": "Helppo kävely Aalto-puiston yli."
           }
         },
         {
@@ -1701,7 +1841,8 @@
             "de": "Suojeluskunta- ja lottamuseo",
             "hu": "Civil Gárda és Lotta Svärd Múzeum",
             "ro": "Muzeul Gărzii Civile și Lotta Svärd",
-            "en": "Civil Guard and Lotta Svärd Museum"
+            "en": "Civil Guard and Lotta Svärd Museum",
+            "fi": "Suojeluskuntamuseo ja Lotta Svärd -museo"
           },
           "coords": [
             22.845,
@@ -1717,7 +1858,8 @@
             "de": "Am Rande des zentralen Clusters gelegen, immer noch bequem zu Fuß erreichbar.",
             "hu": "A központi klaszter szélén található, még mindig kényelmesen megközelíthető gyalog.",
             "ro": "Situat la marginea clusterului central, încă ușor accesibil pe jos.",
-            "en": "Located on the edge of the central cluster, still an easy walk."
+            "en": "Located on the edge of the central cluster, still an easy walk.",
+            "fi": "Sijaitsee keskusklusterin reunalla, mutta silti helppo kävellen."
           }
         },
         {
@@ -1725,7 +1867,8 @@
             "de": "Cluster B: Törnävän kartano & Museum",
             "hu": "B Klaszter: Törnävä udvarház és múzeum",
             "ro": "Cluster B: Conacul și Muzeul Törnävä",
-            "en": "Cluster B: Törnävä Manor & Museum"
+            "en": "Cluster B: Törnävä Manor & Museum",
+            "fi": "Klusteri B: Törnävän kartano ja museo"
           },
           "coords": [
             22.835,
@@ -1741,7 +1884,8 @@
             "de": "Nehmen Sie einen lokalen Bus vom Zentrum nach Törnävä. Die Fahrt dauert etwa 15 Minuten.",
             "hu": "Menjen helyi busszal a központból Törnävä-ba. Az út kb. 15 percig tart.",
             "ro": "Luați un autobuz local din centru spre Törnävä. Călătoria durează aproximativ 15 minute.",
-            "en": "Take a local bus from the center to Törnävä. The ride takes about 15 minutes."
+            "en": "Take a local bus from the center to Törnävä. The ride takes about 15 minutes.",
+            "fi": "Ota paikallisbussi keskustasta Törnävään. Matka kestää noin 15 minuuttia."
           }
         },
         {
@@ -1749,7 +1893,8 @@
             "de": "Spätes Mittagessen in Törnävä",
             "hu": "Késői ebéd Törnävä-ban",
             "ro": "Prânz târziu în Törnävä",
-            "en": "Late Lunch in Törnävä"
+            "en": "Late Lunch in Törnävä",
+            "fi": "Myöhäinen lounas Törnävällä"
           },
           "coords": [
             22.836,
@@ -1765,7 +1910,8 @@
             "de": "Stärken Sie sich nach der Museumsbesichtigung in einem der nahegelegenen Cafés.",
             "hu": "Erősítse meg magát a múzeumlátogatás után a közeli kávézók egyikében.",
             "ro": "Revigorați-vă după vizita la muzeu la una dintre cafenelele din apropiere.",
-            "en": "Refuel after the museum visit at one of the nearby cafes."
+            "en": "Refuel after the museum visit at one of the nearby cafes.",
+            "fi": "Täytä energiavarastot museovierailun jälkeen yhdellä lähialueen kahviloista."
           }
         },
         {
@@ -1773,7 +1919,8 @@
             "de": "Mallaskosken Brauerei",
             "hu": "Mallaskoski Sörfőzde",
             "ro": "Berăria Mallaskoski",
-            "en": "Mallaskoski Brewery"
+            "en": "Mallaskoski Brewery",
+            "fi": "Mallaskosken panimo"
           },
           "coords": [
             22.83,
@@ -1789,7 +1936,8 @@
             "de": "Nehmen Sie den Bus zurück ins Zentrum und gehen Sie das kurze Stück zum Fluss.",
             "hu": "Menjen busszal vissza a központba, és sétáljon egy rövid szakaszt a folyóig.",
             "ro": "Luați autobuzul înapoi în centru și mergeți pe jos distanța scurtă până la râu.",
-            "en": "Take the bus back to the center and walk the short distance to the river."
+            "en": "Take the bus back to the center and walk the short distance to the river.",
+            "fi": "Ota bussi takaisin keskustaan ja kävele lyhyt matka joelle."
           }
         }
       ],
@@ -1797,7 +1945,8 @@
         "de": "Entdecken Sie Seinäjoki mit den öffentlichen Verkehrsmitteln, die Sie mühelos zwischen den Kulturclustern transportieren. Beginnen Sie im zentralen Aalto-Zentrum, das zu Fuß erkundet wird. Ein kurzer Spaziergang führt Sie durch die architektonischen Wunder und in die lokale Geschichte. Mittags bringt Sie ein Bus zum historischen Törnävä-Gebiet. Verbringen Sie den Nachmittag damit, das Freilichtmuseum und das Herrenhaus zu erkunden. Am späten Nachmittag fahren Sie mit dem Bus zurück, um den Tag mit einem erfrischenden Bier am Flussufer in der Mallaskosken Brauerei abzuschließen.",
         "hu": "Fedezze fel Seinäjokit a tömegközlekedéssel, amely könnyedén szállítja a kulturális klaszterek között. Kezdje a központi Aalto Központban, amelyet gyalog fedezhet fel. Egy rövid séta elvezeti az építészeti csodákhoz és a helyi történelembe. Délben egy busz elviszi a történelmi Törnävä területére. Töltse a délutánt a skanzen és az udvarház felfedezésével. Késő délután busszal térjen vissza, hogy a napot egy frissítő sörrel zárja a folyóparton a Mallaskoski Sörfőzdében.",
         "ro": "Descoperiți Seinäjoki cu transportul public, care vă transportă fără efort între clusterele culturale. Începeți în Centrul Aalto central, explorat pe jos. O scurtă plimbare vă duce prin minunile arhitecturale și în istoria locală. La prânz, un autobuz vă duce în zona istorică Törnävä. Petreceți după-amiaza explorând muzeul în aer liber și conacul. Spre seară, luați autobuzul înapoi pentru a încheia ziua cu o bere răcoritoare pe malul râului la Berăria Mallaskoski.",
-        "en": "Discover Seinäjoki using public transport, which effortlessly moves you between cultural clusters. Start at the central Aalto Centre, explored on foot. A short walk takes you through architectural wonders and into local history. At noon, a bus takes you to the historic Törnävä area. Spend the afternoon exploring the open-air museum and manor. In the late afternoon, bus back to conclude the day with a refreshing riverside beer at Mallaskoski Brewery."
+        "en": "Discover Seinäjoki using public transport, which effortlessly moves you between cultural clusters. Start at the central Aalto Centre, explored on foot. A short walk takes you through architectural wonders and into local history. At noon, a bus takes you to the historic Törnävä area. Spend the afternoon exploring the open-air museum and manor. In the late afternoon, bus back to conclude the day with a refreshing riverside beer at Mallaskoski Brewery.",
+        "fi": "Tutustu Seinäjoelle julkisilla kulkuvälineillä, jotka siirtävät sinut vaivattomasti kulttuuriklustereiden välillä. Aloita keskeiseltä Aalto-keskukselta, jota tutkitaan jalan. Lyhyt kävely vie sinut arkkitehtonisten ihmeiden läpi ja paikalliseen historiaan. Kello 12 bussi vie sinut historialliseen Törnävän alueeseen. Vietä iltapäivä ulkomuseossa ja kartanossa. Myöhään iltapäivällä palaa bussilla ja päätä päivä virkistävään jokirannan olueen Mallaskosken panimossa."
       },
       "gastro_picks": {
         "de": [
@@ -1989,6 +2138,11 @@
           "Buy a day ticket for the bus to save money.",
           "Bus schedules are available at the stops and online.",
           "Most buses are modern and accessible."
+        ],
+        "fi": [
+          "Osta päivälippu bussille säästääksesi rahaa.",
+          "Bussiaikataulut löytyvät pysäkeiltä ja verkosta.",
+          "Suurin osa busseista on moderneja ja esteettömiä."
         ]
       },
       "variants": {
@@ -1997,7 +2151,8 @@
             "de": "Nutzen Sie das effiziente Bussystem von Seinäjoki, um trocken zwischen den Sehenswürdigkeiten zu pendeln. Start am Aalto-Zentrum, dann mit dem Bus zur Kirche. Mittags bringt Sie der Bus bequem nach Törnävä. Den Nachmittag verbringen Sie in den Museen, geschützt vor dem Regen, bevor Sie für den Abend zurück in Richtung Brauerei fahren.",
             "hu": "Használja Seinäjoki hatékony buszhálózatát, hogy szárazon utazhasson a látnivalók között. Kezdjen az Aalto-központban, majd busszal menjen a templomhoz. Délben a busz kényelmesen elviszi Törnäväba. A délutánt töltse a múzeumokban, védve az esőtől, majd induljon vissza a sörfőzde irányába.",
             "ro": "Folosiți rețeaua eficientă de autobuze din Seinäjoki pentru a călători uscat între atracții. Începeți la Centrul Aalto, apoi luați autobuzul spre biserică. La prânz, transportul public vă duce confortabil la Törnävä. Petreceți după-amiaza în muzee, feriți de ploaie, înainte de a reveni spre berărie.",
-            "en": "Utilize Seinäjoki's efficient bus network to travel dry between sights. Start at the Aalto Centre, then catch a bus to the church. At noon, transit takes you comfortably to Törnävä. Spend your afternoon in the museums, protected from the rain, before heading back toward the brewery for the evening."
+            "en": "Utilize Seinäjoki's efficient bus network to travel dry between sights. Start at the Aalto Centre, then catch a bus to the church. At noon, transit takes you comfortably to Törnävä. Spend your afternoon in the museums, protected from the rain, before heading back toward the brewery for the evening.",
+            "fi": "Hyödynnä Seinäjoen tehokasta bussiverkostoa matkustaaksesi kuivana nähtävyyksien välillä. Aloita Aalto-keskukselta, napaa bussi kirkolle. Kello 12 kuljetus vie sinut mukavasti Törnävään. Vietä iltapäivä museoissa suojassa sateelta ennen paluuta panimon suuntaan illaksi."
           },
           "stops": [
             {
@@ -2006,7 +2161,8 @@
                 "de": "Die Bushaltestellen haben meist gute Unterstände.",
                 "hu": "A buszmegállók többnyire jól fedettek.",
                 "ro": "Stațiile de autobuz sunt majoritatea acoperite.",
-                "en": "Most bus stops have good weather shelters."
+                "en": "Most bus stops have good weather shelters.",
+                "fi": "Useimmilla bussipysäkeillä on hyvät sääsuojat."
               }
             },
             {
@@ -2015,7 +2171,8 @@
                 "de": "Haltstelle direkt vor der Kirche nutzen.",
                 "hu": "Használja a közvetlenül a templom előtti megállót.",
                 "ro": "Folosiți stația chiar din fața bisericii.",
-                "en": "Use the bus stop located directly in front of the church."
+                "en": "Use the bus stop located directly in front of the church.",
+                "fi": "Käytä pysäkkiä, joka sijaitsee suoraan kirkon edessä."
               }
             },
             {
@@ -2024,7 +2181,8 @@
                 "de": "Nur ein kurzer Fußweg von der Bushaltestelle.",
                 "hu": "Csak rövid séta a legközelebbi megállótól.",
                 "ro": "Doar o scurtă plimbare de la cea mai apropiată stație.",
-                "en": "Just a short walk from the nearest bus stop."
+                "en": "Just a short walk from the nearest bus stop.",
+                "fi": "Vain lyhyt kävelymatka lähimmältä bussipysäkiltä."
               }
             },
             {
@@ -2033,7 +2191,8 @@
                 "de": "Prüfen Sie die Rückfahrzeiten im Voraus online.",
                 "hu": "Ellenőrizze előre online a visszaindulási időpontokat.",
                 "ro": "Verificați din timp orele de retur online.",
-                "en": "Check the return bus times online in advance."
+                "en": "Check the return bus times online in advance.",
+                "fi": "Tarkista paluubussin ajat etukäteen netistä."
               }
             },
             {
@@ -2042,7 +2201,8 @@
                 "de": "Ein warmes Getränk verkürzt die Wartezeit auf den Bus.",
                 "hu": "Egy meleg ital lerövidíti a buszra való várakozást.",
                 "ro": "O băutură caldă face așteptarea autobuzului mai scurtă.",
-                "en": "A warm drink makes waiting for the bus feel shorter."
+                "en": "A warm drink makes waiting for the bus feel shorter.",
+                "fi": "Lämmin juoma saa bussin odotuksen tuntumaan lyhyemmältä."
               }
             },
             {
@@ -2051,7 +2211,8 @@
                 "de": "Die letzte Strecke ist ein kleiner Spaziergang im Regen.",
                 "hu": "Az utolsó szakasz egy kis séta az esőben.",
                 "ro": "Ultima porțiune este o scurtă plimbare prin ploaie.",
-                "en": "The final stretch involves a short walk in the rain."
+                "en": "The final stretch involves a short walk in the rain.",
+                "fi": "Viimeinen osuus vaatii lyhyen kävelyn sateessa."
               }
             }
           ],
@@ -2079,6 +2240,12 @@
               "Contactless card payment is standard on Finnish buses.",
               "Use wait times to take photos of the atmospheric rainy city.",
               "Some bus routes run less frequently on weekends."
+            ],
+            "fi": [
+              "'Komia Liikenne' -appi tarjoaa reaaliaikaiset bussitiedot.",
+              "Kontaktiton korttimaksu on yleinen suomalaisissa busseissa.",
+              "Käytä odotusaikaa ottaaksesi tunnelmallisia kuvia sateisesta kaupungista.",
+              "Joillakin bussireiteillä on harvempi vuoroväli viikonloppuisin."
             ]
           }
         },
@@ -2087,7 +2254,8 @@
             "de": "Genießen Sie die gemütliche Fahrt in den beheizten Bussen durch das winterliche Seinäjoki. Start im frostigen Aalto-Zentrum, bevor Sie zum Regionalmuseum nach Törnävä fahren. Der Nachmittag gehört der Geschichte und der winterlichen Stille. Den Tag lassen Sie in der Brauerei ausklingen, die Sie mit dem Transit und einem kurzen, erfrischenden Fußmarsch durch den Schnee erreichen.",
             "hu": "Élvezze a barátságos utazást a fűtött buszokon a téli Seinäjokiban. Kezdjen a fagyos Aalto-központban, mielőtt Törnäväba utazna a regionális múzeumba. A délután a történelemé és a téli nyugalomé. A napot a sörfőzdében zárja, amelyet tömegközlekedéssel és egy rövid, frissítő havas sétával érhet el.",
             "ro": "Bucurați-vă de călătoria plăcută în autobuzele încălzite prin Seinäjoki iarna. Începeți în Centrul Aalto înghețat, apoi mergeți spre Törnävä la muzeul regional. După-amiaza este dedicată istoriei și liniștii iernii. Încheiați ziua la berărie, accesibilă cu transportul public și o scurtă plimbare prin zăpadă.",
-            "en": "Enjoy a cozy ride on heated buses through wintry Seinäjoki. Start at the frosty Aalto Centre before taking the bus to Törnävä for the regional museum. Spend your afternoon immersed in history and winter silence. Wrap up the day at the brewery, reachable by transit followed by a short, refreshing walk through the snow."
+            "en": "Enjoy a cozy ride on heated buses through wintry Seinäjoki. Start at the frosty Aalto Centre before taking the bus to Törnävä for the regional museum. Spend your afternoon immersed in history and winter silence. Wrap up the day at the brewery, reachable by transit followed by a short, refreshing walk through the snow.",
+            "fi": "Nauti kodikkaasta matkasta lämmitetyissä busseissa talvisessa Seinäjoessa. Aloita kuuraisesta Aalto-keskuksesta ennen bussimatkaa Törnävään alueen museoon. Vietä iltapäivä uppoutuen historiaan ja talviseen hiljaisuuteen. Päätä päivä panimossa, jonne pääsee julkisilla ja lyhyellä, virkistävällä kävelyllä lumen läpi."
           },
           "stops": [
             {
@@ -2096,7 +2264,8 @@
                 "de": "Warten Sie im Inneren der Bibliothek auf den Bus.",
                 "hu": "Várjon a könyvtár épületében a buszra.",
                 "ro": "Așteptați autobuzul în interiorul bibliotecii.",
-                "en": "Wait for the bus inside the library lobby."
+                "en": "Wait for the bus inside the library lobby.",
+                "fi": "Ota bussin odotuskirjoihin sisään kirjaston aulassa."
               }
             },
             {
@@ -2105,7 +2274,8 @@
                 "de": "Die Stufen zur Kirche können vereist sein.",
                 "hu": "A templomhoz vezető lépcsők jegesek lehetnek.",
                 "ro": "Treptele către biserică pot fi înghețate.",
-                "en": "The steps leading to the church can be icy."
+                "en": "The steps leading to the church can be icy.",
+                "fi": "Kirkolle johtavat portaat voivat olla liukkaita."
               }
             },
             {
@@ -2114,7 +2284,8 @@
                 "de": "Genießen Sie die Wärme der hölzernen Ausstellungsräume.",
                 "hu": "Élvezze a fából készült kiállítótermek melegét.",
                 "ro": "Bucurați-vă de căldura sălilor de expoziție din lemn.",
-                "en": "Enjoy the warmth of the wooden exhibition halls."
+                "en": "Enjoy the warmth of the wooden exhibition halls.",
+                "fi": "Nauti puisten näyttelyhalliensa lämmöstä."
               }
             },
             {
@@ -2123,7 +2294,8 @@
                 "de": "Im Winter ist der Park besonders ruhig und leer.",
                 "hu": "Télen a park különösen csendes és néptelen.",
                 "ro": "Iarna, parcul este extrem de liniștit și pustiu.",
-                "en": "In winter, the park is exceptionally quiet and peaceful."
+                "en": "In winter, the park is exceptionally quiet and peaceful.",
+                "fi": "Talvella puisto on poikkeuksellisen hiljainen ja rauhallinen."
               }
             },
             {
@@ -2132,7 +2304,8 @@
                 "de": "Planen Sie die Rückfahrt vor Einbruch der Dunkelheit.",
                 "hu": "Tervezze meg a visszautat még sötétedés előtt.",
                 "ro": "Planificați drumul de întoarcere înainte de lăsarea serii.",
-                "en": "Plan your return trip before total darkness sets in."
+                "en": "Plan your return trip before total darkness sets in.",
+                "fi": "Suunnittele paluumatka ennen kuin täydellinen pimeys laskeutuu."
               }
             },
             {
@@ -2141,7 +2314,8 @@
                 "de": "Der Fußweg von der Haltestelle ist bei Schnee anstrengender.",
                 "hu": "A megállótól való séta hóban fárasztóbb lehet.",
                 "ro": "Plimbarea de la stație este mai solicitantă prin zăpadă.",
-                "en": "The walk from the stop is more tiring in deep snow."
+                "en": "The walk from the stop is more tiring in deep snow.",
+                "fi": "Kävely pysäkiltä on raskaampaa syvässä lumessa."
               }
             }
           ],
@@ -2169,6 +2343,12 @@
               "In-bus displays make it easy to follow the stops.",
               "Finnish buses are very well heated during winter.",
               "Wear reflectors on your clothing to be seen in the dark."
+            ],
+            "fi": [
+              "Bussit saattavat myöhästyä hieman voimakkaassa lumisateessa.",
+              "Sisäiset näyttötaulut helpottavat pysäkkien seuraamista.",
+              "Suomalaiset bussit ovat talvella erittäin hyvin lämmitettyjä.",
+              "Käytä heijastimia vaatteissasi näkyäksesi pimeässä."
             ]
           }
         }

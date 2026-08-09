@@ -21,7 +21,8 @@
             "de": "Spionagemuseum",
             "hu": "Kémmúzeum",
             "ro": "Muzeul Spionajului",
-            "en": "Spy Museum"
+            "en": "Spy Museum",
+            "fi": "Vakoilumuseo"
           },
           "coords": [
             23.761019,
@@ -36,7 +37,8 @@
             "de": "Entdecken Sie internationale Spionagegeheimnisse in diesem faszinierenden Museum, in dem interaktive Ausstellungen die Geschichte lebendig werden lassen, also probieren Sie den Lügendetektortest frühzeitig aus.",
             "hu": "Fedezze fel a nemzetközi kémkedés titkait ebben a lenyűgöző múzeumban, ahol az interaktív kiállítások életre keltik a történelmet, ezért mindenképpen próbálja ki a hazugságvizsgálót.",
             "ro": "Descoperiți secretele spionajului internațional în acest muzeu fascinant, unde expozițiile interactive dau viață istoriei, așa că asigurați-vă că încercați detectorul de minciuni.",
-            "en": "Uncover international espionage secrets in this fascinating museum, where engaging interactive displays make history come alive, so be sure to try the lie detector test early."
+            "en": "Uncover international espionage secrets in this fascinating museum, where engaging interactive displays make history come alive, so be sure to try the lie detector test early.",
+            "fi": "Paljasta kansainvälisen vakoilun salaisuuksia tässä kiehtovassa museossa, jossa mukaansatempaavat interaktiiviset näyttelyt herättävät historian eloon — kokeile erityisesti valehdentunnistustestiä heti aluksi."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Mediamuseo Rupriikki",
             "hu": "Mediamuseo Rupriikki",
             "ro": "Mediamuseo Rupriikki",
-            "en": "Mediamuseo Rupriikki"
+            "en": "Mediamuseo Rupriikki",
+            "fi": "Mediamuseo Rupriikki"
           },
           "coords": [
             23.760416,
@@ -59,7 +62,8 @@
             "de": "Erkunden Sie die Entwicklung der Kommunikationstechnologien, die die modernen Medien geprägt haben, und denken Sie daran, einen Audioguide für tiefere technische Einblicke mitzunehmen.",
             "hu": "Fedezze fel a modern médiát formáló kommunikációs technológiák fejlődését egy nosztalgikus utazás során, és ne felejtsen el audioguide-ot kérni a mélyebb technikai betekintésekhez.",
             "ro": "Explorați evoluția tehnologiilor de comunicare care au modelat mass-media modernă, oferind o călătorie nostalgică și nu uitați să luați un ghid audio pentru informații tehnice aprofundate.",
-            "en": "Explore the evolution of communication technologies that shaped modern media, offering a nostalgic journey, and remember to pick up an audio guide for deeper technical insights."
+            "en": "Explore the evolution of communication technologies that shaped modern media, offering a nostalgic journey, and remember to pick up an audio guide for deeper technical insights.",
+            "fi": "Tutki viestintäteknologioiden kehitystä, joka muovasi nykymedian; nostalginen matka, ja muista napata ääniohje syvempää teknistä tietoa varten."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Mältinrannan talviuintipaikka",
             "hu": "Mältinrannan talviuintipaikka",
             "ro": "Mältinrannan talviuintipaikka",
-            "en": "Mältinrannan talviuintipaikka"
+            "en": "Mältinrannan talviuintipaikka",
+            "fi": "Mältinrannan talviuintipaikka"
           },
           "coords": [
             23.756155,
@@ -82,7 +87,8 @@
             "de": "Erleben Sie die authentische finnische Kultur an diesem berühmten Winterschwimmplatz mit revitalisierenden Saunen, aber bringen Sie Ihr eigenes Handtuch und Sandalen mit.",
             "hu": "Tapasztalja meg az autentikus finn kultúrát ezen a híres téli úszóhelyen, amely revitalizáló szaunákkal rendelkezik, de hozzon saját törölközőt és szandált a maximális kényelem érdekében.",
             "ro": "Experimentați cultura finlandeză autentică la acest loc renumit de înot de iarnă cu saune revitalizante, dar aduceți propriul prosop și sandale pentru o experiență mai confortabilă.",
-            "en": "Witness the authentic Finnish culture at this renowned winter swimming spot with revitalizing saunas, but bring your own towel and sandals as rentals can be scarce during peak hours."
+            "en": "Witness the authentic Finnish culture at this renowned winter swimming spot with revitalizing saunas, but bring your own towel and sandals as rentals can be scarce during peak hours.",
+            "fi": "Todista aitoa suomalaista kulttuuria tässä tunnetussa talviuintipaikassa virkistävine saunoineen — tuo oma pyyhe ja sandaalit, sillä vuokraus voi olla niukkaa huippuaikoina."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Milavida Museum",
             "hu": "Milavida Múzeum",
             "ro": "Muzeul Milavida",
-            "en": "Milavida Museum"
+            "en": "Milavida Museum",
+            "fi": "Milavida-museo"
           },
           "coords": [
             23.752486,
@@ -105,7 +112,8 @@
             "de": "Bewundern Sie den opulenten Lebensstil der Familie Nottbeck in diesem atemberaubenden Palast aus dem 19. Jahrhundert und machen Sie unbedingt Fotos von den eleganten Gartenterrassen.",
             "hu": "Csodálja meg a Nottbeck család fényűző életmódját ebben a lenyűgöző 19. századi palotában, és mindenképpen készítsen fotókat a városra néző elegáns kerti teraszokról.",
             "ro": "Admirați stilul de viață opulent al familiei Nottbeck în acest palat uimitor din secolul al XIX-lea și asigurați-vă că faceți fotografii de pe terasele elegante ale grădinii.",
-            "en": "Admire the opulent lifestyle of the Nottbeck family within this stunning 19th-century palace, and make sure to capture photos from the elegant garden terraces overlooking the city."
+            "en": "Admire the opulent lifestyle of the Nottbeck family within this stunning 19th-century palace, and make sure to capture photos from the elegant garden terraces overlooking the city.",
+            "fi": "Ihaile Nottbeckin perheen ylellistä elämäntapaa tässä upeassa 1800-luvun palatsissa ja ota kuvia kauniilta puutarhaterasseilta, joista on näköala kaupunkiin."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Särkänniemi Aquarium",
             "hu": "Särkänniemi Akvárium",
             "ro": "Acvariul Särkänniemi",
-            "en": "Särkänniemi Aquarium"
+            "en": "Särkänniemi Aquarium",
+            "fi": "Särkänniemen akvaario"
           },
           "coords": [
             23.742617,
@@ -128,7 +137,8 @@
             "de": "Tauchen Sie in diesem faszinierenden Aquarium in das globale Wasserleben ein und überprüfen Sie den Fütterungsplan am Eingang, um die aktivsten Momente der Tiere zu erleben.",
             "hu": "Merüljön el a globális vízi életben ebben a lenyűgöző akváriumban, amely a tengeri védelmet tanítja, és ellenőrizze az etetési ütemtervet a bejáratnál a legjobb élmény érdekében.",
             "ro": "Scufundați-vă în viața acvatică globală la acest acvariu captivant și verificați programul de hrănire la intrare pentru a surprinde cele mai active momente ale vietăților marine.",
-            "en": "Dive into global aquatic life at this engaging aquarium that educates visitors on marine conservation, and check the feeding schedule at the entrance to catch the most active moments."
+            "en": "Dive into global aquatic life at this engaging aquarium that educates visitors on marine conservation, and check the feeding schedule at the entrance to catch the most active moments.",
+            "fi": "Sukella maailman vesielämään tässä opettavaisen kiehtovassa akvaariossa ja tarkista ruokinta-aikataulu sisäänkäynniltä, jotta näet vilkkaimmat hetket."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Särkänniemi",
             "hu": "Särkänniemi",
             "ro": "Särkänniemi",
-            "en": "Särkänniemi"
+            "en": "Särkänniemi",
+            "fi": "Särkänniemi"
           },
           "coords": [
             23.744347,
@@ -151,7 +162,8 @@
             "de": "Genießen Sie aufregende Fahrgeschäfte in diesem legendären Vergnügungspark, der die Unterhaltungsszene von Tampere prägt, und kaufen Sie vorab online eine Tageskarte.",
             "hu": "Élvezze az izgalmas túrákat és a gyönyörű tóra nyíló kilátást ebben az ikonikus vidámparkban, és vásároljon napijegyet online előre, hogy elkerülje a hosszú sorban állást.",
             "ro": "Bucurați-vă de atracții palpitante în acest parc de distracții emblematic care definește scena de divertisment din Tampere și cumpărați un abonament de o zi online.",
-            "en": "Enjoy thrilling rides and beautiful lake views at this iconic amusement park that defines Tampere's entertainment scene, and purchase a day pass online beforehand to skip the queues."
+            "en": "Enjoy thrilling rides and beautiful lake views at this iconic amusement park that defines Tampere's entertainment scene, and purchase a day pass online beforehand to skip the queues.",
+            "fi": "Nauti hurjista laitteista ja kauniista järvimaisemista tässä ikonissa huvipuistossa, joka määrittää Tampereen viihdetarjontaa — osta päivän lippu etukäteen verkosta vältäksesi jonot."
           }
         }
       ],
@@ -159,7 +171,8 @@
         "de": "Ihr Morgen beginnt im Zentrum der Spionage- und Mediengeschichte von Tampere. Der Mittag bringt eine Erfrischung am See und einen Spaziergang durch den luxuriösen Milavida-Palast. Der Nachmittag widmet sich den Wundern des lokalen Aquariums. Ihr Abend endet mit aufregenden Vergnügungspark-Erlebnissen an den Ufern des wunderschönen Sees.",
         "hu": "A reggel Tampere kémkedési és médiatörténetének szívében kezdődik. A dél megnyugtató tavi frissülést és a pazar Milavida palota felfedezését hozza el. A délután a helyi akvárium vízi csodáinak mélyére kalauzolja Önt. Az estét a naplemente által megvilágított tó melletti vidámpark izgalmai zárják.",
         "ro": "Dimineața dvs. începe în inima istoriei spionajului și a presei din Tampere. Amiaza aduce un pivot cultural cu o baie răcoroasă în lac și o plimbare prin somptuosul palat Milavida. După-amiaza vă poartă în adâncurile descoperirilor acvatice la acvariul local. Seara se încheie cu emoțiile parcului de distracții lângă lacul scăldat de apus.",
-        "en": "Your morning begins in the heart of Tampere's espionage and media history. Midday brings a cultural pivot with a refreshing lakeside dip and a stroll through the lavish Milavida palace. The afternoon dives into the deep with aquatic discoveries at the local aquarium. Your evening concludes with vibrant amusement park thrills by the sunset-lit lake."
+        "en": "Your morning begins in the heart of Tampere's espionage and media history. Midday brings a cultural pivot with a refreshing lakeside dip and a stroll through the lavish Milavida palace. The afternoon dives into the deep with aquatic discoveries at the local aquarium. Your evening concludes with vibrant amusement park thrills by the sunset-lit lake.",
+        "fi": "Aamusi alkaa Tampereen vakoilu- ja mediatapahtumien ytimessä. Keskipäivällä kulttuuri vaihtuu raikastavaan järvilaiturilla uimaan ja kävelyyn Milavida-palatsin läpi. Iltapäivä sukeltaa syvyyksiin akvaariossa. Illan päätät vilkkaassa huvipuistossa auringonlaskun valaiseman järven äärellä."
       },
       "variants": {
         "rainy": {
@@ -167,7 +180,8 @@
             "de": "Der Morgen beginnt im Schutz geschichtsträchtiger Mauern, wo Regen keine Rolle spielt. Mittags führen kurze Wege zwischen den Museen durch das graue Tampere, ein Schirm ist hier Pflicht. Am Nachmittag bieten die eleganten Säle Zuflucht vor den Schauern. Der Abend klingt bei den Unterwasserwelten aus, wo man das prasselnde Wetter draußen völlig vergisst.",
             "hu": "A reggel a titkok világában indul, ahol a falak védenek az esőtől. Délben a média története vár fedett helyen, így a szemerkélő eső sem akadály a rövid séták alatt. Délután a Milavida elegáns termei nyújtanak menedéket a szürke égbolt elől. Estére a Särkänniemi belső látnivalói tökéletesek, a vízparti szél és a csapadék ellen pedig egy jó esőkabát és vízálló cipő elengedhetetlen.",
             "ro": "Dimineața începe la adăpostul zidurilor pline de istorie, unde ploaia nu contează. La prânz, scurtele plimbări între muzee necesită o umbrelă solidă pentru a explora confortabil. După-amiaza, sălile elegante oferă refugiu împotriva averselor reci. Seara se încheie printre lumile subacvatice, unde uiți complet de vremea de afară în timp ce admiri expozițiile interioare.",
-            "en": "The morning starts protected by historic walls where the rain doesn't matter. At noon, short walks between museums require a sturdy umbrella to stay dry while exploring. In the afternoon, elegant halls provide sanctuary from the gray skies and sudden showers. The evening ends within indoor attractions where you can completely forget the drizzly weather outside."
+            "en": "The morning starts protected by historic walls where the rain doesn't matter. At noon, short walks between museums require a sturdy umbrella to stay dry while exploring. In the afternoon, elegant halls provide sanctuary from the gray skies and sudden showers. The evening ends within indoor attractions where you can completely forget the drizzly weather outside.",
+            "fi": "Aamu alkaa suojattuna historiallisten seinien sisällä, joissa sade ei haittaa. Keskipäivällä lyhyet kävelyt museoiden välillä vaativat tukevan sateenvarjon pysyäksesi kuivana tutkiessasi. Iltapäivällä hienot salit tarjoavat suojan harmaalta taivaalta ja äkillisiltä kuuroilta. Ilta päättyy sisätiloihin, joissa voit täysin unohtaa ulkona ropisevan sään."
           },
           "stops": [
             {
@@ -175,13 +189,15 @@
                 "de": "Spionagemuseum",
                 "hu": "Kémmúzeum",
                 "ro": "Muzeul Spionajului",
-                "en": "Spy Museum"
+                "en": "Spy Museum",
+                "fi": "Vakoilumuseo"
               },
               "tip_5lang": {
                 "de": "Tauchen Sie ein in die Welt der Geheimnisse, während es draußen regnet; nutzen Sie die Garderobe, um Ihre nassen Sachen sicher und trocken zu verstauen.",
                 "hu": "Merüljön el a titkok világában, miközben kint esik; használja a ruhatárat, hogy nedves kabátját és esernyőjét biztonságban és szárazon tudhassa a látogatás alatt.",
                 "ro": "Explorați lumea secretă în timp ce afară plouă; folosiți garderoba pentru a vă lăsa hainele ude și umbrela într-un loc sigur și uscat pe durata vizitei.",
-                "en": "Dive into the world of secrets while it rains outside; use the cloakroom to store your wet gear and umbrella safely and keep your tour comfortable."
+                "en": "Dive into the world of secrets while it rains outside; use the cloakroom to store your wet gear and umbrella safely and keep your tour comfortable.",
+                "fi": "Sukella salaisuuksien maailmaan sateen ropistessa ulkona; käytä narikkapalvelua säilyttääksesi märät varusteet ja sateenvarjon turvallisesti ja pitääksesi kierroksesi mukavana."
               }
             },
             {
@@ -189,13 +205,15 @@
                 "de": "Mediamuseo Rupriikki",
                 "hu": "Mediamuseo Rupriikki",
                 "ro": "Mediamuseo Rupriikki",
-                "en": "Mediamuseo Rupriikki"
+                "en": "Mediamuseo Rupriikki",
+                "fi": "Mediamuseo Rupriikki"
               },
               "tip_5lang": {
                 "de": "Ein perfekter Zufluchtsort bei Schauern, um die Geschichte der Kommunikation zu erkunden; achten Sie auf die rutschigen Stufen am Eingang bei Nässe.",
                 "hu": "Tökéletes menedék a záporok elől a kommunikáció történetének felfedezéséhez; ügyeljen a bejáratnál a vizes aszfalton való esetleges csúszásveszélyre.",
                 "ro": "Un refugiu perfect împotriva ploii pentru a explora istoria comunicării; atenție la treptele de la intrare care pot deveni alunecoase când sunt ude.",
-                "en": "A perfect sanctuary from showers to explore the history of communication; watch out for slippery surfaces at the entrance when arriving from the rain."
+                "en": "A perfect sanctuary from showers to explore the history of communication; watch out for slippery surfaces at the entrance when arriving from the rain.",
+                "fi": "Täydellinen suoja kuuroilta tutkia viestinnän historiaa; varo sisäänkäynnin liukkaita kohtia saapumisesta sateelta."
               }
             },
             {
@@ -203,13 +221,15 @@
                 "de": "Mältinrannan talviuintipaikka",
                 "hu": "Mältinrannan talviuintipaikka",
                 "ro": "Mältinrannan talviuintipaikka",
-                "en": "Mältinrannan talviuintipaikka"
+                "en": "Mältinrannan talviuintipaikka",
+                "fi": "Mältinrannan talviuintipaikka"
               },
               "tip_5lang": {
                 "de": "Beobachten Sie die Mutigen im Regen oder wagen Sie selbst den Sprung; feste, wasserdichte Schuhe sind für den Weg zum Ufer bei Matsch unerlässlich.",
                 "hu": "Figyelje meg a bátor úszókat az esőben, vagy merüljön el ön is; a sáros part menti úton a vízálló, csúszásmentes talpú cipő viselése nagyon fontos.",
                 "ro": "Observați înotătorii curajoși prin ploaie sau încercați chiar voi; încălțămintea impermeabilă cu talpă aderentă este esențială pe malul noroios al lacului.",
-                "en": "Watch the brave swimmers in the rain or take the plunge yourself; waterproof shoes with good grip are essential for the muddy path to the shore."
+                "en": "Watch the brave swimmers in the rain or take the plunge yourself; waterproof shoes with good grip are essential for the muddy path to the shore.",
+                "fi": "Katso rohkeita uimareita sateessa tai pulahtaa itse; vedenpitävät kengät, joissa on hyvä pito, ovat välttämättömät mutaiselle polulle rantaan."
               }
             },
             {
@@ -217,13 +237,15 @@
                 "de": "Milavida Museum",
                 "hu": "Milavida Múzeum",
                 "ro": "Muzeul Milavida",
-                "en": "Milavida Museum"
+                "en": "Milavida Museum",
+                "fi": "Milavida-museo"
               },
               "tip_5lang": {
                 "de": "Genießen Sie die prachtvolle Innenausstattung als eleganten Regenschutz; das hauseigene Café ist ideal, um das Ende eines Schauers gemütlich abzuwarten.",
                 "hu": "Élvezze a pompás belső tereket elegáns esővédőként; a múzeum kávézója tökéletes helyszín ahhoz, hogy egy meleg ital mellett várja meg a zápor végét.",
                 "ro": "Bucurați-vă de interioarele splendide ca protecție elegantă împotriva ploii; cafeneaua muzeului este ideală pentru a aștepta trecerea unei averse trecătoare.",
-                "en": "Enjoy the magnificent interiors as an elegant rain shield; the museum café is the perfect spot to wait out a heavy downpour with a warm drink."
+                "en": "Enjoy the magnificent interiors as an elegant rain shield; the museum café is the perfect spot to wait out a heavy downpour with a warm drink.",
+                "fi": "Nauti upeista sisätiloista tyylikkäänä sateensuojana; museokahvila on täydellinen paikka odottaa rankkasateen ohi kuumaa juomaa nauttien."
               }
             },
             {
@@ -231,13 +253,15 @@
                 "de": "Särkänniemi Aquarium",
                 "hu": "Särkänniemi Akvárium",
                 "ro": "Acvariul Särkänniemi",
-                "en": "Särkänniemi Aquarium"
+                "en": "Särkänniemi Aquarium",
+                "fi": "Särkänniemen akvaario"
               },
               "tip_5lang": {
                 "de": "Dieses komplett überdachte Ziel lässt Sie den Regen vergessen; ideal, um trocken die faszinierende Unterwasserwelt Finnlands und der Tropen zu bewundern.",
                 "hu": "Ez a teljesen fedett helyszín elfeledteti önnel a kinti esőt; ideális pont a finn és trópusi vizek élővilágának szárazon történő megcsodálásához.",
                 "ro": "Această locație complet acoperită vă va face să uitați de ploaie; este locul ideal pentru a admira fauna acvatică în timp ce rămâneți perfect uscați.",
-                "en": "This completely indoor attraction makes you forget the rain outside; it is ideal for admiring aquatic life while staying perfectly dry and warm."
+                "en": "This completely indoor attraction makes you forget the rain outside; it is ideal for admiring aquatic life while staying perfectly dry and warm.",
+                "fi": "Tämä täysin sisätiloissa sijaitseva nähtävyys saa sinut unohtamaan ulkona sataavan sateen; se on ihanteellinen ihailemaan vesielämää pysyen täysin kuivana ja lämpimänä."
               }
             },
             {
@@ -245,13 +269,15 @@
                 "de": "Särkänniemi",
                 "hu": "Särkänniemi",
                 "ro": "Särkänniemi",
-                "en": "Särkänniemi"
+                "en": "Särkänniemi",
+                "fi": "Särkänniemi"
               },
               "tip_5lang": {
                 "de": "Konzentrieren Sie sich auf die Indoor-Attraktionen wie das Planetarium; ein windfester Regenschutz ist wegen der exponierten Lage am See unbedingt nötig.",
                 "hu": "Fókuszáljon a fedett látnivalókra, például a planetáriumra; a tóparti szél miatt egy szélálló esőkabát sokkal többet ér itt, mint egy esernyő.",
                 "ro": "Concentrați-vă pe atracțiile interioare, cum ar fi planetariul; o pelerină de ploaie rezistentă la vânt este necesară din cauza locației expuse de pe mal.",
-                "en": "Focus on the indoor attractions like the planetarium; a windproof raincoat is much more effective than an umbrella in this exposed lakeside area."
+                "en": "Focus on the indoor attractions like the planetarium; a windproof raincoat is much more effective than an umbrella in this exposed lakeside area.",
+                "fi": "Keskity sisätilojen nähtävyyksiin kuten planetaarioon; tuulenpitävä sadetakki on tässä järvenrantaisessa avoimessa paikassa paljon tehokkaampi kuin sateenvarjo."
               }
             }
           ]
@@ -261,7 +287,8 @@
             "de": "Der frostige Morgen beginnt im wohlig warmen Spionagemuseum. Mittags glitzert der Schnee zwischen den Museumsbesuchen, während die Sonne bereits tief steht. Da es gegen 17:00 Uhr dunkel wird, verschieben sich die Highlights am Nachmittag in beleuchtete Innenräume. Der Abend endet in der magischen Winteratmosphäre am Seeufer, wo warme Kleidung entscheidend ist.",
             "hu": "A fagyos reggelen a Kémmúzeum melege fogad, ideális kezdés a hidegben. Délben a múzeumi negyed belső terei tartanak melegen, miközben kint száll a hó. Délután a Milavida pompája és a téli fények ellensúlyozzák a korai, 17 óra körüli sötétedést. Az este már lámpafényben ér a vízpartnál, ahol a jeges szél ellen réteges öltözködés szükséges.",
             "ro": "Dimineața geroasă începe în căldura muzeului, un start ideal pe timp de iarnă. La prânz, zăpada strălucește între vizitele la muzee, în timp ce soarele stă jos. Deoarece se întunecă în jur de ora 17:00, activitățile se mută în spații interioare luminate. Seara se încheie în atmosfera magică de iarnă de pe malul lacului, unde hainele groase sunt vitale.",
-            "en": "The frosty morning begins in the cozy warmth of the museum, an ideal start in the cold. At noon, snow glistens between museum visits while the sun stays low. Since it gets dark around 17:00, afternoon highlights shift to illuminated indoor spaces. The evening ends in a magical winter atmosphere by the lake where thermal layers are crucial."
+            "en": "The frosty morning begins in the cozy warmth of the museum, an ideal start in the cold. At noon, snow glistens between museum visits while the sun stays low. Since it gets dark around 17:00, afternoon highlights shift to illuminated indoor spaces. The evening ends in a magical winter atmosphere by the lake where thermal layers are crucial.",
+            "fi": "Kirkas talviaamu alkaa museon kodikkaassa lämmössä, erinomainen alku kylmään päivään. Keskipäivällä lumi kimaltelee museokäyntien välissä, kun aurinko pysyy matalana. Koska pimeä laskee noin klo 17:00, iltapäivän kohokohdat siirtyvät valaistuihin sisätiloihin. Ilta päättyy taianomaiseen talvitunnelmaan järven rannalla, jossa lämpimät kerrokset ovat ratkaisevan tärkeitä."
           },
           "stops": [
             {
@@ -269,13 +296,15 @@
                 "de": "Spionagemuseum",
                 "hu": "Kémmúzeum",
                 "ro": "Muzeul Spionajului",
-                "en": "Spy Museum"
+                "en": "Spy Museum",
+                "fi": "Vakoilumuseo"
               },
               "tip_5lang": {
                 "de": "Genießen Sie die gemütliche Wärme drinnen, während draußen der Frost klirrt; wärmen Sie Ihre Hände auf, bevor Sie das nächste Ziel zu Fuß ansteuern.",
                 "hu": "Élvezze a benti kellemes meleget, miközben kint röpködnek a mínuszok; melegedjen át alaposan, mielőtt gyalog elindulna a következő állomáshoz.",
                 "ro": "Bucurați-vă de căldura primitoare din interior în timp ce afară este ger; încălziți-vă bine înainte de a porni pe jos spre următoarea destinație.",
-                "en": "Enjoy the welcoming indoor warmth while the frost bites outside; warm up thoroughly before heading out on foot to your next destination."
+                "en": "Enjoy the welcoming indoor warmth while the frost bites outside; warm up thoroughly before heading out on foot to your next destination.",
+                "fi": "Nauti sisätilojen tervetulleesta lämmöstä samalla kun pakkanen puree ulkona; lämmittele huolellisesti ennen kuin lähdet jalkaisin seuraavaan kohteeseesi."
               }
             },
             {
@@ -283,13 +312,15 @@
                 "de": "Mediamuseo Rupriikki",
                 "hu": "Mediamuseo Rupriikki",
                 "ro": "Mediamuseo Rupriikki",
-                "en": "Mediamuseo Rupriikki"
+                "en": "Mediamuseo Rupriikki",
+                "fi": "Mediamuseo Rupriikki"
               },
               "tip_5lang": {
                 "de": "Erforschen Sie die Medienwelt im Warmen; der kurze Spaziergang hierher führt über oft vereiste Wege, achten Sie also auf trittsicheres Schuhwerk.",
                 "hu": "Fedezze fel a média világát a fűtött termekben; az idevezető rövid séta során figyeljen a jeges szakaszokra, viseljen jó tapadású téli bakancsot.",
                 "ro": "Explorați lumea media în săli încălzite; scurta plimbare până aici poate fi pe porțiuni înghețate, deci purtați ghete de iarnă cu talpă aderentă.",
-                "en": "Explore the media world in heated comfort; the short walk here often involves icy patches, so wear winter boots with excellent traction."
+                "en": "Explore the media world in heated comfort; the short walk here often involves icy patches, so wear winter boots with excellent traction.",
+                "fi": "Tutki mediamaailmaa lämpimässä sisätilassa; lyhyt kävelymatka tänne sisältää usein liukkaita kohtia, joten käytä talvikenkiä, joissa on erinomainen pito."
               }
             },
             {
@@ -297,13 +328,15 @@
                 "de": "Mältinrannan talviuintipaikka",
                 "hu": "Mältinrannan talviuintipaikka",
                 "ro": "Mältinrannan talviuintipaikka",
-                "en": "Mältinrannan talviuintipaikka"
+                "en": "Mältinrannan talviuintipaikka",
+                "fi": "Mältinrannan talviuintipaikka"
               },
               "tip_5lang": {
                 "de": "Das ultimative finnische Wintererlebnis; bringen Sie eine Mütze und ein großes Handtuch mit, um nach dem Eisbad nicht zu schnell auszukühlen.",
                 "hu": "Az igazi finn téli élmény; vigyen magával sapkát és egy nagy törölközőt, hogy a jeges csobbanás után azonnal megvédje magát a metsző hidegtől.",
                 "ro": "Experiența supremă a iernii finlandeze; aduceți o căciulă și un prosop mare pentru a vă proteja imediat după baia în apa înghețată a lacului.",
-                "en": "The ultimate Finnish winter experience; bring a warm hat and a large towel to protect yourself from the freezing air immediately after the ice dip."
+                "en": "The ultimate Finnish winter experience; bring a warm hat and a large towel to protect yourself from the freezing air immediately after the ice dip.",
+                "fi": "Täydellinen suomalainen talvikokemus; tuo lämmin pipo ja iso pyyhe suojautuaksesi jääkylmältä ilmastolta heti avannon jälkeen."
               }
             },
             {
@@ -311,13 +344,15 @@
                 "de": "Milavida Museum",
                 "hu": "Milavida Múzeum",
                 "ro": "Muzeul Milavida",
-                "en": "Milavida Museum"
+                "en": "Milavida Museum",
+                "fi": "Milavida Museum"
               },
               "tip_5lang": {
                 "de": "Die prunkvollen Säle bieten Schutz vor dem Winterwind; besuchen Sie das Museum früh, um den Park noch bei Tageslicht im Schnee zu erleben.",
                 "hu": "A pompás belső terek védelmet nyújtanak a jeges szél ellen; látogasson ide korán, hogy a parkot még nappali fényben, hófödte pompájában láthassa.",
                 "ro": "Sălile splendide oferă protecție împotriva vântului înghețat; vizitați muzeul devreme pentru a vedea parcul înzăpezit încă pe lumina zilei.",
-                "en": "The grand interiors provide shelter from the biting winter wind; visit early to see the surrounding park covered in snow while there is still daylight."
+                "en": "The grand interiors provide shelter from the biting winter wind; visit early to see the surrounding park covered in snow while there is still daylight.",
+                "fi": "Suuret sisätilat tarjoavat suojan purevalta talvituulelta; vieraile ajoissa nähdäksesi ympäröivän puiston lumen peitossa vielä päivänvalossa."
               }
             },
             {
@@ -325,13 +360,15 @@
                 "de": "Särkänniemi Aquarium",
                 "hu": "Särkänniemi Akvárium",
                 "ro": "Acvariul Särkänniemi",
-                "en": "Särkänniemi Aquarium"
+                "en": "Särkänniemi Aquarium",
+                "fi": "Särkänniemi Aquarium"
               },
               "tip_5lang": {
                 "de": "Ein idealer Ort, wenn es um 17 Uhr dunkel wird; die beleuchteten Aquarien schaffen eine magische Atmosphäre fernab der winterlichen Kälte draußen.",
                 "hu": "Ideális helyszín, amikor 17 órakor besötétedik; a kivilágított akváriumok varázslatos hangulatot árasztanak, távol a kinti téli sötétségtől és hidegtől.",
                 "ro": "Locul ideal când se întunecă la ora 17:00; acvariile iluminate creează o atmosferă magică, departe de întunericul și frigul iernii de afară.",
-                "en": "An ideal spot for when it gets dark at 17:00; the illuminated tanks create a magical atmosphere far from the winter darkness and cold outside."
+                "en": "An ideal spot for when it gets dark at 17:00; the illuminated tanks create a magical atmosphere far from the winter darkness and cold outside.",
+                "fi": "Ihanteellinen paikka, kun pimeä laskee klo 17:00; valaistut akvaariot luovat taianomaisen tunnelman kaukana ulkoisen talvipimeyden ja kylmyyden keskeltä."
               }
             },
             {
@@ -339,13 +376,15 @@
                 "de": "Särkänniemi",
                 "hu": "Särkänniemi",
                 "ro": "Särkänniemi",
-                "en": "Särkänniemi"
+                "en": "Särkänniemi",
+                "fi": "Särkänniemi"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie die winterliche Beleuchtung des Parks; ziehen Sie sich nach dem Zwiebelprinzip an, da der Wind vom See die Kälte deutlich verstärkt.",
                 "hu": "Csodálja meg a park téli díszkivilágítását; öltözzön rétegesen, mert a tóról érkező szél jelentősen felerősíti a hidegérzetet az esti órákban.",
                 "ro": "Admirați iluminatul festiv de iarnă al parcului; îmbrăcați-vă în straturi deoarece vântul de pe lac intensifică senzația de frig după lăsarea serii.",
-                "en": "Admire the park's festive winter lighting; dress in multiple layers as the wind from the lake significantly increases the chill factor after dark."
+                "en": "Admire the park's festive winter lighting; dress in multiple layers as the wind from the lake significantly increases the chill factor after dark.",
+                "fi": "Ihaile puiston juhlavalaistusta talvella; pukeudu useisiin kerroksiin, sillä järven suunnasta tuleva tuuli lisää huomattavasti kylmyyden tuntua pimeän tultua."
               }
             }
           ]
@@ -365,7 +404,8 @@
             "de": "Emil Aaltonen Museum",
             "hu": "Emil Aaltonen Múzeum",
             "ro": "Muzeul Emil Aaltonen",
-            "en": "Emil Aaltonen Museum"
+            "en": "Emil Aaltonen Museum",
+            "fi": "Emil Aaltonen Museum"
           },
           "coords": [
             23.74554,
@@ -380,7 +420,8 @@
             "de": "Erfahren Sie mehr über das bemerkenswerte Leben des Industriellen Emil Aaltonen in seinem wunderschön erhaltenen Zuhause, wo Sie sich Zeit nehmen sollten, seine Kunstsammlung zu betrachten.",
             "hu": "Ismerje meg Emil Aaltonen gyáriparos figyelemre méltó életét gyönyörűen megőrzött otthonában, ahol feltétlenül szánjon időt a lenyűgöző személyes művészeti gyűjteményének megtekintésére.",
             "ro": "Aflați despre viața remarcabilă a industriașului Emil Aaltonen în casa sa frumos conservată, unde ar trebui să vă luați timp pentru a inspecta impresionanta sa colecție de artă.",
-            "en": "Learn about the remarkable life of industrialist Emil Aaltonen in his beautifully preserved home, where you should take time to closely inspect his impressive personal art collection."
+            "en": "Learn about the remarkable life of industrialist Emil Aaltonen in his beautifully preserved home, where you should take time to closely inspect his impressive personal art collection.",
+            "fi": "Tutustu teollisuusyrittäjä Emil Aaltosen merkittävään elämään hänen kauniisti säilyneessä kodissaan; varaudu käyttämään aikaa hänen vaikuttavan taidekokoelmansa tarkempaan tarkasteluun."
           }
         },
         {
@@ -388,7 +429,8 @@
             "de": "Nootti. Museum der finnisch-russischen Beziehungen",
             "hu": "Nootti. A Finn-Orosz Kapcsolatok Múzeuma",
             "ro": "Nootti. Muzeul Relațiilor Finno-Ruse",
-            "en": "Nootti. Museum of Finnish-Russian Relations"
+            "en": "Nootti. Museum of Finnish-Russian Relations",
+            "fi": "Nootti. Suomen ja Venäjän suhteiden museo"
           },
           "coords": [
             23.751802,
@@ -403,7 +445,8 @@
             "de": "Entdecken Sie die komplexe diplomatische Geschichte zwischen Finnland und Russland anhand kuratierter Exponate und fragen Sie das sachkundige Personal nach den Artefakten des Kalten Krieges.",
             "hu": "Fedezze fel Finnország és Oroszország összetett diplomáciai történetét, és kérdezze meg a hozzáértő személyzetet a kiállított, kevésbé ismert hidegháborús műtárgyakról.",
             "ro": "Descoperiți istoria diplomatică complexă dintre Finlanda și Rusia prin expoziții organizate și întrebați personalul informat despre artefactele mai puțin cunoscute din Războiul Rece.",
-            "en": "Discover the complex diplomatic history between Finland and Russia through curated exhibits, and ask the knowledgeable staff about the lesser-known Cold War artifacts on display."
+            "en": "Discover the complex diplomatic history between Finland and Russia through curated exhibits, and ask the knowledgeable staff about the lesser-known Cold War artifacts on display.",
+            "fi": "Tutki Suomen ja Venäjän monisyistä diplomaattista historiaa kuratoitujen näyttelyiden kautta ja kysy tietävältä henkilökunnalta vähemmän tunnetuista kylmän sodan esineistä, joita on esillä."
           }
         },
         {
@@ -411,7 +454,8 @@
             "de": "Spionagemuseum",
             "hu": "Kémmúzeum",
             "ro": "Muzeul Spionajului",
-            "en": "Spy Museum"
+            "en": "Spy Museum",
+            "fi": "Vakoilumuseo"
           },
           "coords": [
             23.761019,
@@ -426,7 +470,8 @@
             "de": "Entdecken Sie internationale Spionagegeheimnisse in diesem faszinierenden Museum, in dem interaktive Ausstellungen die Geschichte lebendig werden lassen, also probieren Sie den Lügendetektortest frühzeitig aus.",
             "hu": "Fedezze fel a nemzetközi kémkedés titkait ebben a lenyűgöző múzeumban, ahol az interaktív kiállítások életre keltik a történelmet, ezért mindenképpen próbálja ki a hazugságvizsgálót.",
             "ro": "Descoperiți secretele spionajului internațional în acest muzeu fascinant, unde expozițiile interactive dau viață istoriei, așa că asigurați-vă că încercați detectorul de minciuni.",
-            "en": "Uncover international espionage secrets in this fascinating museum, where engaging interactive displays make history come alive, so be sure to try the lie detector test early."
+            "en": "Uncover international espionage secrets in this fascinating museum, where engaging interactive displays make history come alive, so be sure to try the lie detector test early.",
+            "fi": "Paljasta kansainvälisen vakoilun salaisuudet tässä kiehtovassa museossa, jossa mukaansatempaavat interaktiiviset näyttelyt herättävät historian eloon — kokeile ehdottomasti vale-testaajaa heti alussa."
           }
         },
         {
@@ -434,7 +479,8 @@
             "de": "Milavida Museum",
             "hu": "Milavida Múzeum",
             "ro": "Muzeul Milavida",
-            "en": "Milavida Museum"
+            "en": "Milavida Museum",
+            "fi": "Milavida Museum"
           },
           "coords": [
             23.752486,
@@ -449,7 +495,8 @@
             "de": "Bewundern Sie den opulenten Lebensstil der Familie Nottbeck in diesem atemberaubenden Palast aus dem 19. Jahrhundert und machen Sie unbedingt Fotos von den eleganten Gartenterrassen.",
             "hu": "Csodálja meg a Nottbeck család fényűző életmódját ebben a lenyűgöző 19. századi palotában, és mindenképpen készítsen fotókat a városra néző elegáns kerti teraszokról.",
             "ro": "Admirați stilul de viață opulent al familiei Nottbeck în acest palat uimitor din secolul al XIX-lea și asigurați-vă că faceți fotografii de pe terasele elegante ale grădinii.",
-            "en": "Admire the opulent lifestyle of the Nottbeck family within this stunning 19th-century palace, and make sure to capture photos from the elegant garden terraces overlooking the city."
+            "en": "Admire the opulent lifestyle of the Nottbeck family within this stunning 19th-century palace, and make sure to capture photos from the elegant garden terraces overlooking the city.",
+            "fi": "Ihaile Nottbeckin perheen ylellistä elämäntapaa tässä upeassa 1800-luvun palatsissa ja ota kuvia elegansseista puutarhaterasseista, joilta on kaupunkinäkymät."
           }
         },
         {
@@ -457,7 +504,8 @@
             "de": "Särkänniemi",
             "hu": "Särkänniemi",
             "ro": "Särkänniemi",
-            "en": "Särkänniemi"
+            "en": "Särkänniemi",
+            "fi": "Särkänniemi"
           },
           "coords": [
             23.744347,
@@ -472,7 +520,8 @@
             "de": "Genießen Sie aufregende Fahrgeschäfte in diesem legendären Vergnügungspark, der die Unterhaltungsszene von Tampere prägt, und kaufen Sie vorab online eine Tageskarte.",
             "hu": "Élvezze az izgalmas túrákat és a gyönyörű tóra nyíló kilátást ebben az ikonikus vidámparkban, és vásároljon napijegyet online előre, hogy elkerülje a hosszú sorban állást.",
             "ro": "Bucurați-vă de atracții palpitante în acest parc de distracții emblematic care definește scena de divertisment din Tampere și cumpărați un abonament de o zi online.",
-            "en": "Enjoy thrilling rides and beautiful lake views at this iconic amusement park that defines Tampere's entertainment scene, and purchase a day pass online beforehand to skip the queues."
+            "en": "Enjoy thrilling rides and beautiful lake views at this iconic amusement park that defines Tampere's entertainment scene, and purchase a day pass online beforehand to skip the queues.",
+            "fi": "Nauti jännittävistä laitteista ja kauniista järvinäköaloista tässä ikonissa huvipuistossa, joka määrittelee Tampereen viihdetarjonnan; osta päivälippu verkosta etukäteen jonojen välttämiseksi."
           }
         },
         {
@@ -480,7 +529,8 @@
             "de": "Siilinkarin Majakka",
             "hu": "Siilinkarin Majakka",
             "ro": "Siilinkarin Majakka",
-            "en": "Siilinkarin Majakka"
+            "en": "Siilinkarin Majakka",
+            "fi": "Siilinkarin Majakka"
           },
           "coords": [
             23.753917,
@@ -495,7 +545,8 @@
             "de": "Machen Sie einen Spaziergang zu diesem ikonischen Leuchtturm, der einen weiten Blick auf den See Näsijärvi bietet, aber kleiden Sie sich winddicht, da die Brise ziemlich kühl sein kann.",
             "hu": "Tegyen egy sétát ehhez az ikonikus világítótoronyhoz, ahonnan lenyűgöző kilátás nyílik a Näsijärvi-tóra, de öltözzön szélálló rétegekbe, mivel a nyílt vízi szellő meglehetősen hűvös lehet.",
             "ro": "Faceți o plimbare până la acest far emblematic care oferă vederi panoramice ale lacului Näsijärvi, dar îmbrăcați-vă în straturi rezistente la vânt, deoarece briza poate fi destul de rece.",
-            "en": "Take a walk or boat ride to this iconic lighthouse offering sweeping views of Lake Näsijärvi, but dress in windproof layers as the open water breezes can be quite chilling."
+            "en": "Take a walk or boat ride to this iconic lighthouse offering sweeping views of Lake Näsijärvi, but dress in windproof layers as the open water breezes can be quite chilling.",
+            "fi": "Kävele tai veneile tälle ikoniselle majakalle, josta on avarat näkymät Näsijärvelle; pukeudu tuulenpitäviin kerroksiin, sillä avoveden tuulet voivat olla melko purevia."
           }
         }
       ],
@@ -503,7 +554,8 @@
         "de": "Morgenfahrten führen Sie durch die Geschichte der Industriepioniere und faszinierende diplomatische Ausstellungen. Mittags radeln Sie in die geheime Welt der Spionage und zu königlichen Palästen. Der Nachmittag ist der lebhaften Atmosphäre des Vergnügungsparks gewidmet. Ihr Abend klingt mit einer malerischen Fahrt zum ruhigen Leuchtturm aus.",
         "hu": "A reggeli kerékpározás az ipari úttörők történelmén és mélyreható diplomáciai kiállításokon vezet keresztül. A déli tekerés a kémkedés titkos világába és egy királyi palotába visz. A délutánt a helyi vidámpark élénk hangulatának szenteljük. Az este egy festői kerékpározással zárul a csendes világítótoronyhoz.",
         "ro": "Plimbările de dimineață vă poartă prin istoria pionierilor industriali și expoziții diplomatice profunde. Pedalarea de la prânz vă duce în lumea secretă a spionajului și pe terenurile palatelor regale. După-amiaza este dedicată atmosferei animate din parcul de distracții. Seara se încheie cu o plimbare pitorească spre apele liniștite ale farului.",
-        "en": "Morning rides lead you through industrial pioneer history and profound diplomatic exhibits. Midday pedaling takes you into the secretive world of espionage and regal palace grounds. The afternoon is dedicated to the lively atmosphere of the local amusement park. Your evening winds down with a scenic ride out to the tranquil lighthouse waters."
+        "en": "Morning rides lead you through industrial pioneer history and profound diplomatic exhibits. Midday pedaling takes you into the secretive world of espionage and regal palace grounds. The afternoon is dedicated to the lively atmosphere of the local amusement park. Your evening winds down with a scenic ride out to the tranquil lighthouse waters.",
+        "fi": "Aamun ajelut vievät sinut teollisuuspioneerien historian ja syvällisten diplomaattisten näyttelyiden läpi. Keskipäivän pyöräily johdattaa sinut vakoilun salaperäiseen maailmaan ja kuninkaallisen palatsin maille. Iltapäivä on omistettu paikallisen huvipuiston eloisalle tunnelmalle. Ilta päättyy maisemalliseen ajeluun rauhallisille majakan vesille."
       },
       "variants": {
         "rainy": {
@@ -511,7 +563,8 @@
             "de": "Trotz Regen ist Tampere gut mit dem Rad befahrbar, sofern man auf Pfützen achtet. Der Vormittag verbringt man meist drinnen in Museen, was trockene Pausen ermöglicht. Mittags und nachmittags sind die Wege kurz, aber wasserfeste Kleidung ist unerlässlich. Der Abend am See bietet trotz Nässe eine besondere Stimmung, wenn man den Schlamm auf den Wegen meidet.",
             "hu": "Az eső ellenére Tampere kerékpárral is jól járható, ha figyelünk a tócsákra. A délelőtt nagy részét múzeumokban töltjük, ami száraz pihenőket jelent. Délben és délután az utak rövidek, de a vízálló öltözet nélkülözhetetlen. A tóparti este a csapadék ellenére is különleges hangulatot áraszt, ha elkerüljük a sárosabb szakaszokat az utunk során.",
             "ro": "În ciuda ploii, Tampere este accesibil cu bicicleta dacă sunteți atenți la bălți. Dimineața este petrecută în mare parte în muzee, oferind pauze uscate. La prânz și după-amiaza traseele sunt scurte, dar echipamentul impermeabil este esențial. Seara la malul lacului oferă o atmosferă specială în ciuda umezelii, dacă evitați zonele noroioase.",
-            "en": "Despite the rain, Tampere is bikeable if you watch out for deep puddles. Most of the morning is spent indoors in museums, providing dry breaks. At noon and in the afternoon, the routes are short but waterproof gear is indispensable. The evening by the lake offers a special mood despite the rain, provided you avoid the muddier sections of the path."
+            "en": "Despite the rain, Tampere is bikeable if you watch out for deep puddles. Most of the morning is spent indoors in museums, providing dry breaks. At noon and in the afternoon, the routes are short but waterproof gear is indispensable. The evening by the lake offers a special mood despite the rain, provided you avoid the muddier sections of the path.",
+            "fi": "Sateesta huolimatta Tampereella voi pyöräillä, jos varot syviä lammikoita. Suurin osa aamusta kuluu sisätiloissa museoissa, tarjoten kuivia taukopaikkoja. Keskipäivällä ja iltapäivällä reitit ovat lyhyitä, mutta vedenpitävä varustus on välttämätön. Ilta järven rannalla tarjoaa erityisen tunnelman sateesta huolimatta, kunhan vältät polun mutaisimmat osuudet."
           },
           "stops": [
             {
@@ -519,13 +572,15 @@
                 "de": "Emil Aaltonen Museum",
                 "hu": "Emil Aaltonen Múzeum",
                 "ro": "Muzeul Emil Aaltonen",
-                "en": "Emil Aaltonen Museum"
+                "en": "Emil Aaltonen Museum",
+                "fi": "Emil Aaltonen Museum"
               },
               "tip_5lang": {
                 "de": "Ein kultureller Start im Trockenen; nutzen Sie den überdachten Bereich in der Nähe, um Ihr Fahrrad vor dem schlimmsten Regen zu schützen.",
                 "hu": "Kulturális kezdés szárazon; keressen egy fedett részt a közelben, hogy megvédje kerékpárját és a nyerget a szakadó esőtől a látogatás alatt.",
                 "ro": "Un start cultural la adăpost; căutați o zonă acoperită în apropiere pentru a vă proteja bicicleta și șaua de ploaie pe durata vizitei.",
-                "en": "A cultural start in the dry; look for a covered area nearby to protect your bike and seat from the rain while you explore the museum."
+                "en": "A cultural start in the dry; look for a covered area nearby to protect your bike and seat from the rain while you explore the museum.",
+                "fi": "Kulttuurinen aloitus kuivana; etsi läheltä katettua aluetta suojataksesi pyörääsi ja satulaasi sateelta museon aikana."
               }
             },
             {
@@ -533,13 +588,15 @@
                 "de": "Nootti. Museum der finnisch-russischen Beziehungen",
                 "hu": "Nootti. A Finn-Orosz Kapcsolatok Múzeuma",
                 "ro": "Nootti. Muzeul Relațiilor Finno-Ruse",
-                "en": "Nootti. Museum of Finnish-Russian Relations"
+                "en": "Nootti. Museum of Finnish-Russian Relations",
+                "fi": "Nootti. Suomen ja Venäjän suhteiden museo"
               },
               "tip_5lang": {
                 "de": "Erkunden Sie die Geschichte drinnen; achten Sie bei der Anfahrt auf nasse Blätter oder Markierungen auf der Straße, die rutschig sein können.",
                 "hu": "Fedezze fel a történelmet bent; az ideúton ügyeljen a vizes levelekre vagy útburkolati jelekre, amelyek kerékpárral nagyon csúszósak lehetnek.",
                 "ro": "Explorați istoria în interior; pe drum, fiți atenți la frunzele ude sau marcajele rutiere care pot fi foarte alunecoase pentru bicicletă.",
-                "en": "Explore history indoors; on your way here, watch out for wet leaves or road markings which can be very slippery when cycling in the rain."
+                "en": "Explore history indoors; on your way here, watch out for wet leaves or road markings which can be very slippery when cycling in the rain.",
+                "fi": "Tutki historiaa sisätiloissa; matkalla tänne varo märkiä lehtiä tai ajoraitamerkintöjä, jotka voivat olla erittäin liukkaita sateessa pyöräillessä."
               }
             },
             {
@@ -547,13 +604,15 @@
                 "de": "Spionagemuseum",
                 "hu": "Kémmúzeum",
                 "ro": "Muzeul Spionajului",
-                "en": "Spy Museum"
+                "en": "Spy Museum",
+                "fi": "Vakoilumuseo"
               },
               "tip_5lang": {
                 "de": "Perfekter Ort, um sich aufzuwärmen und abzutrocknen; prüfen Sie Ihre Bremsen nach der Fahrt im Regen, bevor Sie die Tour fortsetzen.",
                 "hu": "Tökéletes hely a bemelegedésre és a száradásra; az esőben való tekerés után ellenőrizze a fékeket, mielőtt folytatná a városi túrát.",
                 "ro": "Locul perfect pentru a vă încălzi și usca; după drumul prin ploaie, verificați frânele înainte de a continua traseul prin oraș.",
-                "en": "Perfect place to warm up and dry off; after riding in the rain, check your brakes briefly before continuing your urban cycling tour."
+                "en": "Perfect place to warm up and dry off; after riding in the rain, check your brakes briefly before continuing your urban cycling tour.",
+                "fi": "Täydellinen paikka lämmitellä ja kuivata varusteet; sateessa ajon jälkeen tarkista jarrusi lyhyesti ennen kaupunkipyöräilykierroksen jatkamista."
               }
             },
             {
@@ -561,13 +620,15 @@
                 "de": "Milavida Museum",
                 "hu": "Milavida Múzeum",
                 "ro": "Muzeul Milavida",
-                "en": "Milavida Museum"
+                "en": "Milavida Museum",
+                "fi": "Milavida Museum"
               },
               "tip_5lang": {
                 "de": "Genießen Sie den Luxus im Inneren; stellen Sie sicher, dass Ihre Fahrradtaschen wasserdicht sind, um Ersatzkleidung trocken zu halten.",
                 "hu": "Élvezze a benti luxust; győződjön meg róla, hogy a kerékpáros táskái teljesen vízállóak, így a váltóruha száraz marad a következő megállóig.",
                 "ro": "Bucurați-vă de luxul din interior; asigurați-vă că gențile de bicicletă sunt impermeabile pentru a păstra hainele de schimb uscate.",
-                "en": "Enjoy the luxury inside; ensure your bike panniers or bags are fully waterproof to keep any spare clothing dry for the rest of the day."
+                "en": "Enjoy the luxury inside; ensure your bike panniers or bags are fully waterproof to keep any spare clothing dry for the rest of the day.",
+                "fi": "Nauti ylellisyydestä sisällä; varmista, että pyörälaukkusi tai kassisi ovat täysin vedenpitäviä, jotta vaihtovaatteet pysyvät kuivina loppupäivän."
               }
             },
             {
@@ -575,13 +636,15 @@
                 "de": "Särkänniemi",
                 "hu": "Särkänniemi",
                 "ro": "Särkänniemi",
-                "en": "Särkänniemi"
+                "en": "Särkänniemi",
+                "fi": "Särkänniemi"
               },
               "tip_5lang": {
                 "de": "Die Wege im Park können bei Regen tückisch sein; fahren Sie vorsichtig und nutzen Sie die Indoor-Angebote, um dem Guss zu entkommen.",
                 "hu": "A parkon belüli utak esőben csalókák lehetnek; tekerjen óvatosan, és használja a fedett attrakciókat, hogy elmeneküljön az égi áldás elől.",
                 "ro": "Aleile din parc pot fi înșelătoare pe ploaie; pedalați cu atenție și folosiți atracțiile interioare pentru a scăpa de precipitații.",
-                "en": "The paths within the park can be tricky in the rain; cycle carefully and take advantage of indoor attractions to escape the downpour."
+                "en": "The paths within the park can be tricky in the rain; cycle carefully and take advantage of indoor attractions to escape the downpour.",
+                "fi": "Puiston polut voivat olla hankalia sateella; pyöräile varovasti ja hyödynnä sisätilojen nähtävyyksiä paetakseen rankkasadetta."
               }
             },
             {
@@ -589,13 +652,15 @@
                 "de": "Siilinkarin Majakka",
                 "hu": "Siilinkarin Majakka",
                 "ro": "Siilinkarin Majakka",
-                "en": "Siilinkarin Majakka"
+                "en": "Siilinkarin Majakka",
+                "fi": "Siilinkarin Majakka"
               },
               "tip_5lang": {
                 "de": "Ein dramatischer Ausblick bei Regen; ein guter Südwester oder eine Kapuze ist hier wegen des starken Windes auf dem Damm obligatorisch.",
                 "hu": "Drámai kilátás esőben is; a gáton tapasztalható erős szél és csapadék miatt egy jó kapucni vagy viharkabát viselése itt kötelező.",
                 "ro": "O vedere dramatică chiar și pe ploaie; o glugă bună sau o pelerină rezistentă este obligatorie aici din cauza vântului puternic de pe dig.",
-                "en": "A dramatic view even in the rain; a good hood or a sturdy storm jacket is mandatory here due to the strong winds on the exposed causeway."
+                "en": "A dramatic view even in the rain; a good hood or a sturdy storm jacket is mandatory here due to the strong winds on the exposed causeway.",
+                "fi": "Dramaattinen näkymä jopa sateessa; hyvä huppu tai tukeva sadetakki on pakollinen täällä voimakkaiden tuulten vuoksi avoimella penkereellä."
               }
             }
           ]
@@ -605,7 +670,8 @@
             "de": "Winterradeln in Tampere ist mit Spikereifen ein Erlebnis. Der Morgen führt durch verschneite Parks zu warmen Museen. Mittags sorgt die Bewegung für Wärme, aber bei -10°C sind gute Handschuhe Pflicht. Da es um 17 Uhr dunkel wird, leuchten die Lichter der Stadt den Weg. Der Abend am zugefrorenen See erfordert dickste Schichten gegen den eisigen Wind.",
             "hu": "A téli kerékpározás Tampereben különleges élmény, szöges gumikkal ajánlott. A reggel hófödte parkokon át vezet a meleg múzeumokig. Délben a mozgás hőt termel, de -10 fok alatt a jó kesztyű kötelező. Mivel 17 órakor sötétedik, a város fényei mutatják az utat. A befagyott tóparti este pedig a legvastagabb rétegeket követeli a jeges szél ellen.",
             "ro": "Ciclismul de iarnă în Tampere este o experiență unică, recomandată cu anvelope cu ținte. Dimineața trece prin parcuri înzăpezite spre muzee calde. La prânz, mișcarea vă menține calzi, dar sub -10 grade mănușile bune sunt vitale. Se întunecă la ora 17:00, deci luminile orașului vă vor ghida. Seara pe malul înghețat necesită haine foarte groase.",
-            "en": "Winter cycling in Tampere is a unique experience, best done with studded tires. The morning leads through snowy parks to warm museums. At noon, the movement keeps you warm, but below -10°C, high-quality gloves are a must. Since it gets dark at 17:00, city lights will guide your way. The evening by the frozen lake demands the thickest layers against the icy wind."
+            "en": "Winter cycling in Tampere is a unique experience, best done with studded tires. The morning leads through snowy parks to warm museums. At noon, the movement keeps you warm, but below -10°C, high-quality gloves are a must. Since it gets dark at 17:00, city lights will guide your way. The evening by the frozen lake demands the thickest layers against the icy wind.",
+            "fi": "Talvipyöräily Tampereella on ainutlaatuinen kokemus, joka kannattaa tehdä nastarenkailla. Aamu kulkee lumisten puistojen halki lämmitettäviin museoihin. Keskipäivällä liike pitää lämpimänä, mutta alle -10 °C tuntuu sormissa, joten laadukkaat hanskat ovat välttämättömät. Koska pimeä laskee klo 17:00, kaupungin valot opastavat matkaa. Ilta jäätyneen järven rannalla vaatii paksuimmat kerrokset suojautuaksesi viimalta."
           },
           "stops": [
             {
@@ -613,13 +679,15 @@
                 "de": "Emil Aaltonen Museum",
                 "hu": "Emil Aaltonen Múzeum",
                 "ro": "Muzeul Emil Aaltonen",
-                "en": "Emil Aaltonen Museum"
+                "en": "Emil Aaltonen Museum",
+                "fi": "Emil Aaltonen Museum"
               },
               "tip_5lang": {
                 "de": "Wärmen Sie sich nach der ersten Fahrt im Inneren auf; stellen Sie sicher, dass Ihr Schloss bei extremen Minustemperaturen nicht einfriert.",
                 "hu": "Melegedjen fel bent az első tekerés után; ügyeljen rá, hogy a kerékpárzár ne fagyjon be a kinti extrém hidegben a látogatás ideje alatt.",
                 "ro": "Încălziți-vă în interior după prima cursă; aveți grijă ca antifurtul bicicletei să nu înghețe din cauza temperaturilor extrem de scăzute de afară.",
-                "en": "Warm up inside after your first ride; make sure your bike lock doesn't freeze up in the extreme cold while you are visiting the museum."
+                "en": "Warm up inside after your first ride; make sure your bike lock doesn't freeze up in the extreme cold while you are visiting the museum.",
+                "fi": "Lämmittele sisällä ensimmäisen ajon jälkeen; varmista, ettei lukko jäädy äärimmäisessä kylmyydessä käydessäsi museossa."
               }
             },
             {
@@ -627,13 +695,15 @@
                 "de": "Nootti. Museum der finnisch-russischen Beziehungen",
                 "hu": "Nootti. A Finn-Orosz Kapcsolatok Múzeuma",
                 "ro": "Nootti. Muzeul Relațiilor Finno-Ruse",
-                "en": "Nootti. Museum of Finnish-Russian Relations"
+                "en": "Nootti. Museum of Finnish-Russian Relations",
+                "fi": "Nootti. Suomen ja Venäjän suhteiden museo"
               },
               "tip_5lang": {
                 "de": "Ein geschichtsträchtiger Halt im Warmen; achten Sie auf den Batteriestand Ihres E-Bikes oder Lichts, da Kälte die Kapazität stark reduziert.",
                 "hu": "Történelmi megálló a fűtött falak között; figyeljen az e-bike akkumulátorára vagy a lámpákra, mert a hideg jelentősen csökkenti a kapacitást.",
                 "ro": "O oprire istorică între ziduri încălzite; atenție la bateria bicicletei electrice sau la lumini, deoarece gerul reduce drastic autonomia acestora.",
-                "en": "A historic stop within heated walls; keep an eye on your e-bike battery or lights as the cold significantly reduces their capacity and runtime."
+                "en": "A historic stop within heated walls; keep an eye on your e-bike battery or lights as the cold significantly reduces their capacity and runtime.",
+                "fi": "Historiallinen pysähdys lämpimissä tiloissa; seuraa sähköpyöräsi akkua ja valoja, sillä kylmyys vähentää niiden kapasiteettia ja käyttöikää merkittävästi."
               }
             },
             {
@@ -641,13 +711,15 @@
                 "de": "Spionagemuseum",
                 "hu": "Kémmúzeum",
                 "ro": "Muzeul Spionajului",
-                "en": "Spy Museum"
+                "en": "Spy Museum",
+                "fi": "Vakoilumuseo"
               },
               "tip_5lang": {
                 "de": "Idealer Ort, um die Glieder wieder zu lockern; nutzen Sie die Zeit drinnen, um Ihre Kleidung von eventuellem Schneematsch zu befreien.",
                 "hu": "Ideális hely a megfáradt végtagok átmozgatására; használja ki a benti időt, hogy letisztítsa a ruházatáról az esetlegesen rátapadt havat.",
                 "ro": "Locul ideal pentru a vă dezmorți membrele; profitați de timpul petrecut în interior pentru a vă curăța hainele de eventuala zăpadă depusă.",
-                "en": "An ideal place to loosen up your chilled limbs; use your time inside to clear any clinging snow or slush from your winter cycling gear."
+                "en": "An ideal place to loosen up your chilled limbs; use your time inside to clear any clinging snow or slush from your winter cycling gear.",
+                "fi": "Ihanteellinen paikka rentouttaa jäykät jäsenet; hyödynnä sisälläoloajasta puhdistaaksesi kiinnittyneen lumen tai sohjon talvipyörävarusteistasi."
               }
             },
             {
@@ -655,13 +727,15 @@
                 "de": "Milavida Museum",
                 "hu": "Milavida Múzeum",
                 "ro": "Muzeul Milavida",
-                "en": "Milavida Museum"
+                "en": "Milavida Museum",
+                "fi": "Milavida Museum"
               },
               "tip_5lang": {
                 "de": "Pracht im Warmen genießen; der Weg den Hügel hinauf kann bei Eis rutschig sein, fahren Sie bergauf und bergab besonders vorsichtig.",
                 "hu": "Élvezze a pompát a melegben; a dombra vezető út jeges lehet, ezért a felfelé és lefelé haladásnál is legyen különösen óvatos a kerékpárral.",
                 "ro": "Bucurați-vă de splendoare la căldură; drumul spre deal poate fi înghețat, deci fiți extrem de precauți atât la urcare, cât și la coborâre.",
-                "en": "Enjoy the splendor in warmth; the path up the hill can be icy, so be extra cautious both when climbing and descending with your bike."
+                "en": "Enjoy the splendor in warmth; the path up the hill can be icy, so be extra cautious both when climbing and descending with your bike.",
+                "fi": "Nauti loistosta lämpimässä; polku ylös kukkulalle voi olla jäinen, ole erityisen varovainen sekä noustessa että laskiessa pyörän kanssa."
               }
             },
             {
@@ -669,13 +743,15 @@
                 "de": "Särkänniemi",
                 "hu": "Särkänniemi",
                 "ro": "Särkänniemi",
-                "en": "Särkänniemi"
+                "en": "Särkänniemi",
+                "fi": "Särkänniemi"
               },
               "tip_5lang": {
                 "de": "Die Winterbeleuchtung ist ein Highlight; stellen Sie sicher, dass Ihre Fahrradlichter hell genug sind, da es bereits ab 16:30 Uhr dämmert.",
                 "hu": "A téli díszkivilágítás lenyűgöző; győződjön meg róla, hogy a kerékpár lámpái elég erősek, mivel 16:30 után már jelentősen szürkül az idő.",
                 "ro": "Iluminatul de iarnă este impresionant; asigurați-vă că luminile bicicletei sunt puternice, deoarece se înserează rapid după ora 16:30.",
-                "en": "The winter lighting is impressive; ensure your bike lights are bright and fully charged as it starts to get dark rapidly after 16:30."
+                "en": "The winter lighting is impressive; ensure your bike lights are bright and fully charged as it starts to get dark rapidly after 16:30.",
+                "fi": "Talvivalaistus on vaikuttava; varmista pyörävalojesi olevan kirkkaat ja täysin ladatut, sillä pimeneminen alkaa nopeasti klo 16:30 jälkeen."
               }
             },
             {
@@ -683,13 +759,15 @@
                 "de": "Siilinkarin Majakka",
                 "hu": "Siilinkarin Majakka",
                 "ro": "Siilinkarin Majakka",
-                "en": "Siilinkarin Majakka"
+                "en": "Siilinkarin Majakka",
+                "fi": "Siilinkarin Majakka"
               },
               "tip_5lang": {
                 "de": "Ein frostiges Finale am See; bei sicherem Eisstand kann man oft direkt auf dem See radeln, aber folgen Sie unbedingt den markierten Pfaden.",
                 "hu": "Fagyos finálé a tónál; ha elég vastag a jég, gyakran közvetlenül a tavon is lehet tekerni, de mindenképpen csak a kijelölt utakat kövesse.",
                 "ro": "Un final înghețat la lac; dacă gheața este sigură, se poate pedala adesea direct pe lac, dar urmați strict doar traseele marcate și verificate.",
-                "en": "A frosty finale by the lake; if the ice is thick enough, you can often cycle directly on the lake, but strictly follow only the marked paths."
+                "en": "A frosty finale by the lake; if the ice is thick enough, you can often cycle directly on the lake, but strictly follow only the marked paths.",
+                "fi": "Kirkas lopetus järven äärellä; jos jää on tarpeeksi paksu, voit usein pyöräillä suoraan järven jäällä, mutta noudata ehdottomasti vain merkattuja reittejä."
               }
             }
           ]
@@ -709,7 +787,8 @@
             "de": "Emil Aaltonen Museum",
             "hu": "Emil Aaltonen Múzeum",
             "ro": "Muzeul Emil Aaltonen",
-            "en": "Emil Aaltonen Museum"
+            "en": "Emil Aaltonen Museum",
+            "fi": "Emil Aaltonen Museum"
           },
           "coords": [
             23.74554,
@@ -724,7 +803,8 @@
             "de": "Erfahren Sie mehr über das bemerkenswerte Leben des Industriellen Emil Aaltonen in seinem wunderschön erhaltenen Zuhause, wo Sie sich Zeit nehmen sollten, seine Kunstsammlung zu betrachten.",
             "hu": "Ismerje meg Emil Aaltonen gyáriparos figyelemre méltó életét gyönyörűen megőrzött otthonában, ahol feltétlenül szánjon időt a lenyűgöző személyes művészeti gyűjteményének megtekintésére.",
             "ro": "Aflați despre viața remarcabilă a industriașului Emil Aaltonen în casa sa frumos conservată, unde ar trebui să vă luați timp pentru a inspecta impresionanta sa colecție de artă.",
-            "en": "Learn about the remarkable life of industrialist Emil Aaltonen in his beautifully preserved home, where you should take time to closely inspect his impressive personal art collection."
+            "en": "Learn about the remarkable life of industrialist Emil Aaltonen in his beautifully preserved home, where you should take time to closely inspect his impressive personal art collection.",
+            "fi": "Tutustu teollisuusyrittäjä Emil Aaltosen merkittävään elämään hänen kauniisti säilyneessä kodissaan; varaa aikaa hänen vaikuttavan taidekokoelmansa tarkempaan tarkasteluun."
           }
         },
         {
@@ -732,7 +812,8 @@
             "de": "Spionagemuseum",
             "hu": "Kémmúzeum",
             "ro": "Muzeul Spionajului",
-            "en": "Spy Museum"
+            "en": "Spy Museum",
+            "fi": "Vakoilumuseo"
           },
           "coords": [
             23.761019,
@@ -747,7 +828,8 @@
             "de": "Entdecken Sie internationale Spionagegeheimnisse in diesem faszinierenden Museum, in dem interaktive Ausstellungen die Geschichte lebendig werden lassen, also probieren Sie den Lügendetektortest frühzeitig aus.",
             "hu": "Fedezze fel a nemzetközi kémkedés titkait ebben a lenyűgöző múzeumban, ahol az interaktív kiállítások életre keltik a történelmet, ezért mindenképpen próbálja ki a hazugságvizsgálót.",
             "ro": "Descoperiți secretele spionajului internațional în acest muzeu fascinant, unde expozițiile interactive dau viață istoriei, așa că asigurați-vă că încercați detectorul de minciuni.",
-            "en": "Uncover international espionage secrets in this fascinating museum, where engaging interactive displays make history come alive, so be sure to try the lie detector test early."
+            "en": "Uncover international espionage secrets in this fascinating museum, where engaging interactive displays make history come alive, so be sure to try the lie detector test early.",
+            "fi": "Paljasta kansainvälisen vakoilun salaisuudet tässä kiehtovassa museossa, jossa mukaansatempaavat interaktiiviset näyttelyt herättävät historian eloon — kokeile ehdottomasti vale-testaajaa heti alussa."
           }
         },
         {
@@ -755,7 +837,8 @@
             "de": "Milavida Museum",
             "hu": "Milavida Múzeum",
             "ro": "Muzeul Milavida",
-            "en": "Milavida Museum"
+            "en": "Milavida Museum",
+            "fi": "Milavida Museum"
           },
           "coords": [
             23.752486,
@@ -770,7 +853,8 @@
             "de": "Bewundern Sie den opulenten Lebensstil der Familie Nottbeck in diesem atemberaubenden Palast aus dem 19. Jahrhundert und machen Sie unbedingt Fotos von den eleganten Gartenterrassen.",
             "hu": "Csodálja meg a Nottbeck család fényűző életmódját ebben a lenyűgöző 19. századi palotában, és mindenképpen készítsen fotókat a városra néző elegáns kerti teraszokról.",
             "ro": "Admirați stilul de viață opulent al familiei Nottbeck în acest palat uimitor din secolul al XIX-lea și asigurați-vă că faceți fotografii de pe terasele elegante ale grădinii.",
-            "en": "Admire the opulent lifestyle of the Nottbeck family within this stunning 19th-century palace, and make sure to capture photos from the elegant garden terraces overlooking the city."
+            "en": "Admire the opulent lifestyle of the Nottbeck family within this stunning 19th-century palace, and make sure to capture photos from the elegant garden terraces overlooking the city.",
+            "fi": "Ihaile Nottbeckin perheen ylellistä elämäntapaa tässä upeassa 1800-luvun palatsissa ja ota kuvia elegansseista puutarhaterasseista, joilta on kaupunkinäkymät."
           }
         },
         {
@@ -778,7 +862,8 @@
             "de": "Särkänniemi",
             "hu": "Särkänniemi",
             "ro": "Särkänniemi",
-            "en": "Särkänniemi"
+            "en": "Särkänniemi",
+            "fi": "Särkänniemi"
           },
           "coords": [
             23.744347,
@@ -793,7 +878,8 @@
             "de": "Genießen Sie aufregende Fahrgeschäfte in diesem legendären Vergnügungspark, der die Unterhaltungsszene von Tampere prägt, und kaufen Sie vorab online eine Tageskarte.",
             "hu": "Élvezze az izgalmas túrákat és a gyönyörű tóra nyíló kilátást ebben az ikonikus vidámparkban, és vásároljon napijegyet online előre, hogy elkerülje a hosszú sorban állást.",
             "ro": "Bucurați-vă de atracții palpitante în acest parc de distracții emblematic care definește scena de divertisment din Tampere și cumpărați un abonament de o zi online.",
-            "en": "Enjoy thrilling rides and beautiful lake views at this iconic amusement park that defines Tampere's entertainment scene, and purchase a day pass online beforehand to skip the queues."
+            "en": "Enjoy thrilling rides and beautiful lake views at this iconic amusement park that defines Tampere's entertainment scene, and purchase a day pass online beforehand to skip the queues.",
+            "fi": "Nauti jännittävistä laitteista ja kauniista järvinäköaloista tässä ikonissa huvipuistossa, joka määrittelee Tampereen viihdetarjonnan; osta päivälippu verkosta etukäteen jonojen välttämiseksi."
           }
         },
         {
@@ -801,7 +887,8 @@
             "de": "Poolbereich und Day Spa im Tampereen Kehräämö",
             "hu": "Medence és nappali fürdő a Tampereen Kehräämöben",
             "ro": "Zonă de piscină și spa la Tampereen Kehräämö",
-            "en": "Pool area and day spa at Tampereen Kehräämö"
+            "en": "Pool area and day spa at Tampereen Kehräämö",
+            "fi": "Allasalue ja päiväspa Tampereen Kehräämöllä"
           },
           "coords": [
             23.774028,
@@ -816,7 +903,8 @@
             "de": "Entspannen Sie in diesen luxuriösen historischen Spa-Einrichtungen, die industrielles Erbe mit moderner Entspannung verbinden, und buchen Sie Ihre Massagesitzungen mindestens eine Woche im Voraus.",
             "hu": "Pihenjen ezekben a luxus történelmi gyógyfürdő-létesítményekben, amelyek ötvözik az ipari örökséget a modern kikapcsolódással, és foglaljon masszázst legalább egy héttel előre.",
             "ro": "Relaxați-vă în aceste facilități istorice de lux care îmbină moștenirea industrială cu relaxarea modernă și rezervați-vă ședințele de masaj cu cel puțin o săptămână înainte.",
-            "en": "Unwind in these luxurious historical spa facilities that blend industrial heritage with modern relaxation, and book your massage sessions at least a week in advance to guarantee a spot."
+            "en": "Unwind in these luxurious historical spa facilities that blend industrial heritage with modern relaxation, and book your massage sessions at least a week in advance to guarantee a spot.",
+            "fi": "Rentoudu näissä ylellisissä historiallisissa kylpylätiloissa, jotka yhdistävät teollisen perinnön ja modernin rentoutumisen; varaa hieronta vähintään viikko etukäteen paikan varmistamiseksi."
           }
         },
         {
@@ -824,7 +912,8 @@
             "de": "Kaupinojan uimaranta",
             "hu": "Kaupinojan uimaranta",
             "ro": "Kaupinojan uimaranta",
-            "en": "Kaupinojan uimaranta"
+            "en": "Kaupinojan uimaranta",
+            "fi": "Kaupinojan uimaranta"
           },
           "coords": [
             23.802735,
@@ -839,7 +928,8 @@
             "de": "Erholen Sie sich, indem Sie nach einem heißen traditionellen Saunagang in den erfrischenden See tauchen, und achten Sie darauf, die lokale Ruhe-Etikette auf den Holzstegen zu respektieren.",
             "hu": "Frissüljön fel a tóba merülve egy forró hagyományos szaunázás után, és ügyeljen arra, hogy tiszteletben tartsa a helyi csendes etikettet a fapados stégeken való hűsölés közben.",
             "ro": "Întineriți-vă scufundându-vă în lacul răcoros după o sesiune de saună tradițională fierbinte și asigurați-vă că respectați eticheta liniștită locală în timp ce vă relaxați pe docurile de lemn.",
-            "en": "Rejuvenate by diving into the refreshing lake after a hot traditional sauna session, and make sure to respect the local quiet etiquette while cooling down on the wooden docks."
+            "en": "Rejuvenate by diving into the refreshing lake after a hot traditional sauna session, and make sure to respect the local quiet etiquette while cooling down on the wooden docks.",
+            "fi": "Virkistäydy hyppäämällä virkistävään järviveteen kuuman perinteisen saunan jälkeen ja kunnioita paikallista hiljaisuusetikettiä viilentyessäsi laiturilla."
           }
         }
       ],
@@ -847,7 +937,8 @@
         "de": "Ihre Fahrt beginnt mit einem Einblick in das Erbe lokaler Industrieller und spannenden Spionagegeschichten. Mittags besuchen Sie ein elegantes Palastanwesen und den legendären Vergnügungspark. Der Nachmittag geht in pure Entspannung in einem historischen Day Spa über. Ihr Abend endet wunderschön mit einem Bad bei Sonnenuntergang am örtlichen Strand.",
         "hu": "Utazása a helyi gyárosok örökségének és izgalmas kémtörténeteknek a felfedezésével kezdődik. A dél egy elegáns palotabirtokra és az ikonikus vidámpark nyüzsgő energiájához vezet. A délután tiszta pihenésbe megy át egy történelmi gyógyfürdőben. Az este egy gyönyörű naplemente úszással ér véget a szeretett helyi strandon.",
         "ro": "Călătoria dvs. cu mașina începe cu o incursiune în moștenirea industrială locală și povești palpitante de spionaj. Amiaza vă aduce la o proprietate elegantă și la energia parcului de distracții. După-amiaza trece la o relaxare pură la un spa istoric. Seara se încheie minunat cu o baie la apusul soarelui pe plaja locală iubită.",
-        "en": "Your drive begins with a dive into local industrialist legacy and thrilling espionage tales. Midday brings you to an elegant palace estate and the vibrant energy of the iconic amusement park. The afternoon transitions to pure relaxation at a historic industrial day spa. Your evening wraps up beautifully with a sunset swim at the beloved local beach."
+        "en": "Your drive begins with a dive into local industrialist legacy and thrilling espionage tales. Midday brings you to an elegant palace estate and the vibrant energy of the iconic amusement park. The afternoon transitions to pure relaxation at a historic industrial day spa. Your evening wraps up beautifully with a sunset swim at the beloved local beach.",
+        "fi": "Ajo alkaa sukelluksella paikallisen teollisuusyrittäjän perintöön ja jännittäviin vakoilutarinoihin. Keskipäivällä saavut ylelliseen palatsimaisemaan ja ikonisen huvipuiston energiaan. Iltapäivä siirtyy puhtaaseen rentoutumiseen historiallisessa teollisuus-tyylisessä päiväspassa. Ilta huipentuu auringonlaskuuintiin rakastetulla paikallisella rannalla."
       },
       "variants": {
         "rainy": {
@@ -855,7 +946,8 @@
             "de": "Mit dem Auto ist Tampere bei Regen am komfortabelsten zu erkunden. Der Vormittag führt ohne Nässe von Museum zu Museum. Mittags und nachmittags parken Sie meist nah an den Eingängen, was lange Wege im Guss erspart. Der Abend in den Spa-Welten ist der ideale Abschluss, um das prasselnde Wetter draußen ganz entspannt bei wohliger Wärme zu genießen.",
             "hu": "Autóval a legkényelmesebb felfedezni Tampere-t esős időben. A délelőtt során szárazon juthatunk el egyik múzeumból a másikba. Délben és délután a legtöbb helyen közel parkolhatunk a bejárathoz, megkímélve magunkat a szakadó esőtől. Az este a gyógyfürdőben a tökéletes befejezés, ahol a benti melegben pihenve hallgathatjuk a kinti eső kopogását.",
             "ro": "Cu mașina, explorarea orașului Tampere pe ploaie este extrem de confortabilă. Dimineața vă permite să ajungeți uscați de la un muzeu la altul. La prânz și după-amiaza puteți parca aproape de intrări, evitând ploaia torențială. Seara la spa este finalul perfect, unde vă puteți relaxa la căldură în timp ce auziți ploaia bătând în geamuri.",
-            "en": "By car, exploring Tampere in rainy weather is most comfortable. The morning allows you to travel dry from one museum to another. At noon and in the afternoon, you can park close to the entrances, sparing yourself from the heavy rain. The evening at the spa is the perfect conclusion, relaxing in the warmth while listening to the rain outside."
+            "en": "By car, exploring Tampere in rainy weather is most comfortable. The morning allows you to travel dry from one museum to another. At noon and in the afternoon, you can park close to the entrances, sparing yourself from the heavy rain. The evening at the spa is the perfect conclusion, relaxing in the warmth while listening to the rain outside.",
+            "fi": "Autolla Tampereen tutkiminen sateisella säällä on mukavinta. Aamu antaa mahdollisuuden matkustaa kuivin välein museosta toiseen. Keskipäivällä ja iltapäivällä voit pysäköidä lähelle sisäänkäyntejä, välttäen runsasta sadetta. Iltapäivän kylpylä on täydellinen päätös: rentoudu lämmössä kuunnellen sadetta ulkona."
           },
           "stops": [
             {
@@ -863,13 +955,15 @@
                 "de": "Emil Aaltonen Museum",
                 "hu": "Emil Aaltonen Múzeum",
                 "ro": "Muzeul Emil Aaltonen",
-                "en": "Emil Aaltonen Museum"
+                "en": "Emil Aaltonen Museum",
+                "fi": "Emil Aaltonen Museum"
               },
               "tip_5lang": {
                 "de": "Kultureller Start ohne nasse Kleidung; suchen Sie nach Parkplätzen mit festem Untergrund, um beim Aussteigen nicht in Pfützen zu treten.",
                 "hu": "Kulturális kezdés nedves ruhák nélkül; keressen szilárd burkolatú parkolót a közelben, hogy kiszálláskor elkerülje a mélyebb tócsákat.",
                 "ro": "Start cultural fără haine ude; căutați locuri de parcare cu pavaj solid pentru a evita bălțile adânci atunci când coborâți din mașină.",
-                "en": "A cultural start without wet clothes; look for paved parking spots nearby to avoid stepping into deep puddles when exiting your vehicle."
+                "en": "A cultural start without wet clothes; look for paved parking spots nearby to avoid stepping into deep puddles when exiting your vehicle.",
+                "fi": "Kulttuurinen aloitus ilman märkää vaatetusta; etsi päällystettyjä pysäköintipaikkoja läheltä välttyäksesi astumasta syviin lammikoihin autosta poistuessa."
               }
             },
             {
@@ -877,13 +971,15 @@
                 "de": "Spionagemuseum",
                 "hu": "Kémmúzeum",
                 "ro": "Muzeul Spionajului",
-                "en": "Spy Museum"
+                "en": "Spy Museum",
+                "fi": "Vakoilumuseo"
               },
               "tip_5lang": {
                 "de": "Ein spannender Aufenthalt im Trockenen; nutzen Sie die Parkgaragen in der Nähe, um ganz ohne Schirm direkt ins Museum gelangen zu können.",
                 "hu": "Izgalmas program fedett helyen; használja a közeli parkolóházakat, így esernyő nélkül, teljesen szárazon juthat be közvetlenül a múzeumba.",
                 "ro": "O vizită palpitantă la adăpost; folosiți parcările etajate din apropiere pentru a intra în muzeu fără umbrelă, rămânând complet uscați.",
-                "en": "An exciting indoor program; use nearby parking garages to enter the museum without needing an umbrella, staying completely dry throughout."
+                "en": "An exciting indoor program; use nearby parking garages to enter the museum without needing an umbrella, staying completely dry throughout.",
+                "fi": "Jännittävä sisäohjelma; käytä lähellä olevia pysäköintitalleja päästäksesi museoon ilman sateenvarjoa ja pysyäksesi täysin kuivana."
               }
             },
             {
@@ -891,13 +987,15 @@
                 "de": "Milavida Museum",
                 "hu": "Milavida Múzeum",
                 "ro": "Muzeul Milavida",
-                "en": "Milavida Museum"
+                "en": "Milavida Museum",
+                "fi": "Milavida Museum"
               },
               "tip_5lang": {
                 "de": "Eleganz im Inneren genießen; parken Sie am Fuße des Hügels und nutzen Sie den kurzen, aber befestigten Weg zum Museum, um Matsch zu meiden.",
                 "hu": "Élvezze az eleganciát bent; parkoljon a domb lábánál, és használja a rövid, szilárd burkolatú utat a múzeumig, hogy elkerülje a sárfelverődést.",
                 "ro": "Bucurați-vă de eleganța din interior; parcați la baza dealului și folosiți drumul scurt pavat spre muzeu pentru a evita zonele cu noroi.",
-                "en": "Enjoy the elegance inside; park at the base of the hill and take the short, paved path to the museum to avoid getting mud on your shoes."
+                "en": "Enjoy the elegance inside; park at the base of the hill and take the short, paved path to the museum to avoid getting mud on your shoes.",
+                "fi": "Nauti sisätilojen eleganssista; pysäköi kukkulankynnykselle ja kävele lyhyt päällystetty polku museolle välttääksesi mudan kengissäsi."
               }
             },
             {
@@ -905,13 +1003,15 @@
                 "de": "Särkänniemi",
                 "hu": "Särkänniemi",
                 "ro": "Särkänniemi",
-                "en": "Särkänniemi"
+                "en": "Särkänniemi",
+                "fi": "Särkänniemi"
               },
               "tip_5lang": {
                 "de": "Der große Parkplatz ist nah an den Indoor-Hallen; ein kurzer Sprint reicht oft, um trocken zu den Ausstellungen oder dem Planetarium zu kommen.",
                 "hu": "A nagy parkoló közel van a fedett csarnokokhoz; egy rövid sprint is elég, hogy szárazon jusson el a kiállításokhoz vagy a planetáriumhoz.",
                 "ro": "Parcarea mare este aproape de pavilioanele interioare; o scurtă fugă este suficientă pentru a ajunge uscați la expoziții sau la planetariu.",
-                "en": "The large parking lot is close to the indoor halls; a short dash is often enough to reach the exhibitions or planetarium while staying dry."
+                "en": "The large parking lot is close to the indoor halls; a short dash is often enough to reach the exhibitions or planetarium while staying dry.",
+                "fi": "Suuri pysäköintialue on lähellä sisähallia; lyhyt juoksu riittää usein näyttelyihin tai planetaarioon pääsemiseksi pysyen kuivana."
               }
             },
             {
@@ -919,13 +1019,15 @@
                 "de": "Poolbereich und Day Spa im Tampereen Kehräämö",
                 "hu": "Medence és nappali fürdő a Tampereen Kehräämöben",
                 "ro": "Zonă de piscină și spa la Tampereen Kehräämö",
-                "en": "Pool area and day spa at Tampereen Kehräämö"
+                "en": "Pool area and day spa at Tampereen Kehräämö",
+                "fi": "Allasalue ja päiväspa Tampereen Kehräämöllä"
               },
               "tip_5lang": {
                 "de": "Der ultimative Regenschutz; genießen Sie das warme Wasser und die Saunen, während der Regen gegen die hohen Fenster der alten Fabrik peitscht.",
                 "hu": "A végső menedék az eső elől; élvezze a meleg vizet és a szaunákat, miközben az eső az öreg gyárépület hatalmas ablakain kopog kívülről.",
                 "ro": "Refugiul suprem împotriva ploii; bucurați-vă de apa caldă și saune în timp ce ploaia bate în ferestrele înalte ale vechii fabrici din exterior.",
-                "en": "The ultimate rain sanctuary; enjoy the warm water and saunas while the rain beats against the old factory's high windows from the outside."
+                "en": "The ultimate rain sanctuary; enjoy the warm water and saunas while the rain beats against the old factory's high windows from the outside.",
+                "fi": "Täydellinen sadepakopaikka; nauti lämpimästä vedestä ja saunoista samalla kun sade rummuttaa vanhan tehtaan korkeita ikkunoita ulkopuolella."
               }
             },
             {
@@ -933,13 +1035,15 @@
                 "de": "Kaupinojan uimaranta",
                 "hu": "Kaupinojan uimaranta",
                 "ro": "Kaupinojan uimaranta",
-                "en": "Kaupinojan uimaranta"
+                "en": "Kaupinojan uimaranta",
+                "fi": "Kaupinojan uimaranta"
               },
               "tip_5lang": {
                 "de": "Erleben Sie die finnische Sauna bei Regen; der kurze Weg vom Auto zur Sauna ist bei Nässe mit rutschfesten Badeschuhen am sichersten.",
                 "hu": "Tapasztalja meg a finn szaunázást esőben; az autótól a szaunáig tartó rövid utat érdemes csúszásmentes papucsban megtenni a vizes talajon.",
                 "ro": "Experimentați sauna finlandeză pe ploaie; scurta distanță de la mașină la saună se parcurge cel mai bine cu papuci antiderapanți pe solul umed.",
-                "en": "Experience a Finnish sauna in the rain; the short path from your car to the sauna is safest with non-slip slippers on the wet ground."
+                "en": "Experience a Finnish sauna in the rain; the short path from your car to the sauna is safest with non-slip slippers on the wet ground.",
+                "fi": "Koe suomalainen sauna sateessa; lyhyt tie autoltasi saunalle on turvallisinta liukumattomilla tossuilla märällä maalla."
               }
             }
           ]
@@ -949,7 +1053,8 @@
             "de": "Das Auto bietet die perfekte Wärmeinsel zwischen den winterlichen Highlights von Tampere. Der Morgen startet entspannt mit geheizten Sitzen auf dem Weg zu den Museen. Mittags genießen Sie die verschneite Landschaft durch das Panoramafenster. Da es um 17 Uhr dunkel wird, sind die beleuchteten Straßen ein sicherer Wegweiser. Der Abend am See endet mit einer heißen Sauna als Kontrast zum Frost.",
             "hu": "Az autó tökéletes fűtött szigetet biztosít Tampere téli látnivalói között. A reggel kényelmesen, fűtött ülésekkel indul a múzeumok felé. Délben a hófödte tájat az ablak biztonságából csodálhatjuk. Mivel 17 órakor sötétedik, a kivilágított utak biztos útmutatást adnak. Az este a tónál egy forró szaunával zárul, ami tökéletes kontraszt a kinti fagyhoz.",
             "ro": "Mașina oferă o insulă de căldură perfectă între atracțiile de iarnă din Tampere. Dimineața începe relaxat, cu scaune încălzite, în drum spre muzee. La prânz, admirați peisajul înzăpezit din confortul mașinii. Se întunecă la ora 17:00, deci străzile luminate vă vor ghida în siguranță. Seara la lac se încheie cu o saună fierbinte, contrastul ideal pentru ger.",
-            "en": "The car provides a perfect heated island between Tampere's winter highlights. The morning starts comfortably with heated seats on the way to the museums. At noon, admire the snowy landscape from the safety of your vehicle. Since it gets dark at 17:00, illuminated roads offer safe guidance. The evening by the lake ends with a hot sauna, the ideal contrast to the frost."
+            "en": "The car provides a perfect heated island between Tampere's winter highlights. The morning starts comfortably with heated seats on the way to the museums. At noon, admire the snowy landscape from the safety of your vehicle. Since it gets dark at 17:00, illuminated roads offer safe guidance. The evening by the lake ends with a hot sauna, the ideal contrast to the frost.",
+            "fi": "Auto tarjoaa täydellisen lämmitetyn saarekkeen Tampereen talvisten kohokohtien keskellä. Aamu alkaa mukavasti lämmitetyillä istuimilla matkalla museoihin. Keskipäivällä ihastele lumista maisemaa ajoneuvon suojasta. Koska pimeä laskee klo 17:00, valaistut tiet tarjoavat turvallisen reitin. Ilta järven rannalla päättyy kuumaan saunaan, ihanteellinen vastakohta pakkaselle."
           },
           "stops": [
             {
@@ -957,13 +1062,15 @@
                 "de": "Emil Aaltonen Museum",
                 "hu": "Emil Aaltonen Múzeum",
                 "ro": "Muzeul Emil Aaltonen",
-                "en": "Emil Aaltonen Museum"
+                "en": "Emil Aaltonen Museum",
+                "fi": "Emil Aaltonen Museum"
               },
               "tip_5lang": {
                 "de": "Kultureller Start im Warmen; achten Sie beim Parken auf Schneehaufen, die Parkplätze verengen oder den Zugang zum Gehweg erschweren können.",
                 "hu": "Kulturális kezdés a melegben; parkoláskor ügyeljen a hókupacokra, amelyek leszűkíthetik a helyet vagy nehezíthetik a járdára való kijutást.",
                 "ro": "Start cultural la căldură; la parcare, fiți atenți la mormanele de zăpadă care pot îngusta spațiul sau pot îngreuna accesul spre trotuar.",
-                "en": "A cultural start in warmth; when parking, watch out for snow piles that might narrow the space or make it difficult to reach the sidewalk."
+                "en": "A cultural start in warmth; when parking, watch out for snow piles that might narrow the space or make it difficult to reach the sidewalk.",
+                "fi": "Kulttuurinen aloitus lämpimässä; pysäköidessäsi varo lumipenkkoja, jotka voivat kaventaa tilaa tai vaikeuttaa jalkakäytävälle pääsyä."
               }
             },
             {
@@ -971,13 +1078,15 @@
                 "de": "Spionagemuseum",
                 "hu": "Kémmúzeum",
                 "ro": "Muzeul Spionajului",
-                "en": "Spy Museum"
+                "en": "Spy Museum",
+                "fi": "Vakoilumuseo"
               },
               "tip_5lang": {
                 "de": "Ein spannender Vormittag drinnen; nutzen Sie eine Park-App, um die Parkzeit bequem im Warmen zu verlängern, ohne zum Auto zurückkehren zu müssen.",
                 "hu": "Izgalmas délelőtt bent; használjon parkolóalkalmazást, hogy a melegben maradva hosszabbíthassa meg a parkolást anélkül, hogy ki kellene mennie az autóhoz.",
                 "ro": "O dimineață palpitantă la interior; folosiți o aplicație de parcare pentru a prelungi timpul din căldură, fără a fi nevoie să reveniți la mașină.",
-                "en": "An exciting morning indoors; use a parking app to extend your stay while staying warm inside, without needing to walk back to your car."
+                "en": "An exciting morning indoors; use a parking app to extend your stay while staying warm inside, without needing to walk back to your car.",
+                "fi": "Jännittävä aamupäivä sisätiloissa; käytä pysäköintisovellusta pidentääksesi pysäköintiäsi ja pysyksesi lämpimänä sisällä ilman, että sinun tarvitsee kävellä takaisin autolle."
               }
             },
             {
@@ -985,13 +1094,15 @@
                 "de": "Milavida Museum",
                 "hu": "Milavida Múzeum",
                 "ro": "Muzeul Milavida",
-                "en": "Milavida Museum"
+                "en": "Milavida Museum",
+                "fi": "Milavida-museo"
               },
               "tip_5lang": {
                 "de": "Pracht im Warmen genießen; der Weg zum Museum kann glatt sein, stellen Sie sicher, dass Ihr Auto für den Winter mit Winterreifen gut gerüstet ist.",
                 "hu": "Élvezze a pompát bent; a múzeumhoz vezető út csúszós lehet, győződjön meg róla, hogy autója téli gumikkal megfelelően fel van készítve a jeges utakra.",
                 "ro": "Bucurați-vă de splendoare la interior; drumul spre muzeu poate fi alunecos, asigurați-vă că mașina este echipată corespunzător cu anvelope de iarnă.",
-                "en": "Enjoy the grandeur indoors; the road to the museum can be icy, so ensure your car is properly equipped with winter tires for safe driving."
+                "en": "Enjoy the grandeur indoors; the road to the museum can be icy, so ensure your car is properly equipped with winter tires for safe driving.",
+                "fi": "Nauti sisätilojen suuruudesta; tie museolle voi olla liukas, joten varmista, että autossasi on talvirenkaat turvallista ajamista varten."
               }
             },
             {
@@ -999,13 +1110,15 @@
                 "de": "Särkänniemi",
                 "hu": "Särkänniemi",
                 "ro": "Särkänniemi",
-                "en": "Särkänniemi"
+                "en": "Särkänniemi",
+                "fi": "Särkänniemi"
               },
               "tip_5lang": {
                 "de": "Winterbeleuchtung ab 16:30 Uhr; nutzen Sie die Parkplätze nah am Aquarium, um die Belastung durch den eisigen Wind vom See zu minimieren.",
                 "hu": "Téli fények 16:30-tól; parkoljon az akváriumhoz közeli helyeken, hogy minimalizálja a tóról érkező jeges szélnek való kitettséget a séta alatt.",
                 "ro": "Lumini de iarnă după 16:30; parcați aproape de acvariu pentru a minimiza expunerea la vântul înghețat de pe lac în timpul scurtelor deplasări.",
-                "en": "Winter lights from 16:30; park as close to the aquarium as possible to minimize your exposure to the biting lakeside wind during short walks."
+                "en": "Winter lights from 16:30; park as close to the aquarium as possible to minimize your exposure to the biting lakeside wind during short walks.",
+                "fi": "Talvivalot klo 16.30 alkaen; pysäköi mahdollisimman lähelle akvaariota minimoidaksesi altistuksen järvenpurevalle tuulelle lyhyillä kävelyillä."
               }
             },
             {
@@ -1013,13 +1126,15 @@
                 "de": "Poolbereich und Day Spa im Tampereen Kehräämö",
                 "hu": "Medence és nappali fürdő a Tampereen Kehräämöben",
                 "ro": "Zonă de piscină és spa la Tampereen Kehräämö",
-                "en": "Pool area and day spa at Tampereen Kehräämö"
+                "en": "Pool area and day spa at Tampereen Kehräämö",
+                "fi": "Allasosasto ja päiväspa Tampereen Kehräämöllä"
               },
               "tip_5lang": {
                 "de": "Wellness pur bei Frost; parken Sie idealerweise in der Tiefgarage, damit Ihr Auto nicht auskühlt, während Sie drinnen die Wärme genießen.",
                 "hu": "Igazi wellness a fagyban; ha teheti, parkoljon a mélygarázsban, így az autója nem hűl le teljesen, amíg ön bent élvezi a szaunák melegét.",
                 "ro": "Wellness pur pe timp de ger; dacă este posibil, parcați în garajul subteran pentru ca mașina să nu înghețe în timp ce vă bucurați de căldură.",
-                "en": "Pure wellness in the frost; if possible, park in the underground garage so your car stays warmer while you enjoy the saunas inside."
+                "en": "Pure wellness in the frost; if possible, park in the underground garage so your car stays warmer while you enjoy the saunas inside.",
+                "fi": "Puhtia hyvinvointiin pakkasessa; jos mahdollista, pysäköi maanalainen pysäköintihalliin, jotta autosi pysyy lämpimämpänä saunomisesi ajan."
               }
             },
             {
@@ -1027,13 +1142,15 @@
                 "de": "Kaupinojan uimaranta",
                 "hu": "Kaupinojan uimaranta",
                 "ro": "Kaupinojan uimaranta",
-                "en": "Kaupinojan uimaranta"
+                "en": "Kaupinojan uimaranta",
+                "fi": "Kaupinojan uimaranta"
               },
               "tip_5lang": {
                 "de": "Das Highlight des finnischen Winters; wärmen Sie Ihr Auto vor der Abfahrt gut vor, damit der Heimweg nach der Sauna ebenso gemütlich bleibt.",
                 "hu": "A finn tél fénypontja; indulás előtt fűtse fel az autót, hogy a szaunázás utáni hazaút is ugyanolyan kellemes és meleg maradjon.",
                 "ro": "Punctul culminant al iernii finlandeze; încălziți bine mașina înainte de plecare, pentru ca drumul spre casă după saună să rămână la fel de plăcut.",
-                "en": "The highlight of the Finnish winter; pre-heat your car before leaving so the drive home after the sauna remains just as cozy and warm."
+                "en": "The highlight of the Finnish winter; pre-heat your car before leaving so the drive home after the sauna remains just as cozy and warm.",
+                "fi": "Suomalaisen talven kohokohta; esilämmitä autosi ennen lähtöä, jotta ajomatka kotiin saunan jälkeen pysyy yhtä viihtyisänä ja lämpimänä."
               }
             }
           ]

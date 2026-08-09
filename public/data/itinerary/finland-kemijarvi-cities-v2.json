@@ -21,7 +21,8 @@
             "de": "Kulturzentrum Kemijärvi",
             "hu": "Kemijärvi Kulturális Központ",
             "ro": "Centrul Cultural Kemijärvi",
-            "en": "Kemijärvi Cultural Centre"
+            "en": "Kemijärvi Cultural Centre",
+            "fi": "Kemijärven kulttuurikeskus"
           },
           "coords": [
             27.4315,
@@ -36,7 +37,8 @@
             "de": "Prüfen Sie den Veranstaltungsplan, oft gibt es lokale Kunstausstellungen.",
             "hu": "Nézze meg a programfüzetet, gyakran vannak helyi művészeti kiállítások.",
             "ro": "Verificați programul de evenimente, adesea există expoziții de artă locală.",
-            "en": "Check the event schedule; there are often local art exhibitions."
+            "en": "Check the event schedule; there are often local art exhibitions.",
+            "fi": "Tarkista tapahtumaohjelma; paikallisia taidenäyttelyitä on usein."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Holzskulpturengalerie",
             "hu": "Faszobor Galéria",
             "ro": "Galeria de Sculpturi în Lemn",
-            "en": "Wood Sculpture Gallery"
+            "en": "Wood Sculpture Gallery",
+            "fi": "Puupatsaiden galleria"
           },
           "coords": [
             27.4295,
@@ -59,7 +62,8 @@
             "de": "Ein Muss für Liebhaber der Holzkunst, die die lappländische Tradition widerspiegelt.",
             "hu": "A fafaragás szerelmeseinek kötelező, a lappföldi hagyományokat tükrözi.",
             "ro": "O vizită obligatorie pentru iubitorii de artă în lemn ce reflectă tradiția laponă.",
-            "en": "A must-see for wood art lovers, reflecting Lappish tradition."
+            "en": "A must-see for wood art lovers, reflecting Lappish tradition.",
+            "fi": "Pakollinen nähtävyys puutaiteen ystäville, heijastelee lappilaista perinnettä."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Kirche von Kemijärvi",
             "hu": "Kemijärvi temploma",
             "ro": "Biserica din Kemijärvi",
-            "en": "Kemijärvi Church"
+            "en": "Kemijärvi Church",
+            "fi": "Kemijärven kirkko"
           },
           "coords": [
             27.427,
@@ -82,7 +87,8 @@
             "de": "Bewundern Sie die schlichte, aber elegante moderne finnische Kirchenarchitektur.",
             "hu": "Csodálja meg az egyszerű, mégis elegáns modern finn egyházi építészetet.",
             "ro": "Admirați arhitectura bisericească finlandeză modernă, simplă dar elegantă.",
-            "en": "Admire the simple yet elegant modern Finnish church architecture."
+            "en": "Admire the simple yet elegant modern Finnish church architecture.",
+            "fi": "Ihaile yksinkertaista mutta eleganttia modernia suomalaista kirkkoarkkitehtuuria."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Motorschlitten-Museum",
             "hu": "Hómobil Múzeum",
             "ro": "Muzeul Snowmobile-urilor",
-            "en": "Snowmobile Museum"
+            "en": "Snowmobile Museum",
+            "fi": "Moottorikelkkamuseo"
           },
           "coords": [
             27.433,
@@ -105,7 +112,8 @@
             "de": "Faszinierende Einblicke in die Geschichte des wichtigsten Transportmittels im Winter.",
             "hu": "Lenyűgöző betekintés a legfontosabb téli közlekedési eszköz történetébe.",
             "ro": "O perspectivă fascinantă asupra istoriei celui mai important mijloc de transport pe timp de iarnă.",
-            "en": "Fascinating insights into the history of the most important means of winter transport."
+            "en": "Fascinating insights into the history of the most important means of winter transport.",
+            "fi": "Kiehtovia näkemyksiä talviliikenteen tärkeimmän välineen historiasta."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Pöyliöjärvi See",
             "hu": "Pöyliöjärvi-tó",
             "ro": "Lacul Pöyliöjärvi",
-            "en": "Lake Pöyliöjärvi"
+            "en": "Lake Pöyliöjärvi",
+            "fi": "Pöyliöjärvi"
           },
           "coords": [
             27.452,
@@ -128,7 +137,8 @@
             "de": "Ein perfekter Ort für eine Pause und um die ruhige arktische Natur zu genießen.",
             "hu": "Tökéletes hely egy kis szünetre és a csendes sarkvidéki természet élvezetére.",
             "ro": "Un loc perfect pentru o pauză și pentru a vă bucura de natura arctică liniștită.",
-            "en": "A perfect spot for a break and to enjoy the serene arctic nature."
+            "en": "A perfect spot for a break and to enjoy the serene arctic nature.",
+            "fi": "Täydellinen taukopaikka nauttia rauhallisesta arktisesta luonnosta."
           }
         }
       ],
@@ -136,7 +146,8 @@
         "de": "Ihr Tag in Kemijärvi beginnt mit einem Eintauchen in die lokale Kultur im Kulturzentrum und der Holzskulpturengalerie. Am Vormittag erkunden Sie das spirituelle Herz der Stadt in der modernen Kirche und entdecken im Motorschlitten-Museum die Bedeutung des Winters. Der Nachmittag ist für einen entspannenden Spaziergang am malerischen Pöyliöjärvi-See reserviert. Am Abend lassen Sie die Eindrücke bei einem herzhaften lappländischen Abendessen in einem lokalen Restaurant ausklingen.",
         "hu": "A kemijärvi-i nap a helyi kultúrában való elmerüléssel kezdődik a Kulturális Központban és a Faszobor Galériában. Délelőtt a modern templomban fedezi fel a város spirituális szívét, majd a Hómobil Múzeumban megismeri a tél fontosságát. A délután egy pihentető sétáé a festői Pöyliöjärvi-tónál. Este egy kiadós lappi vacsorával zárja a napot egy helyi étteremben.",
         "ro": "Ziua dvs. în Kemijärvi începe cu o imersiune în cultura locală la Centrul Cultural și Galeria de Sculpturi în Lemn. Dimineața explorați inima spirituală a orașului la biserica modernă și descoperiți importanța iernii la Muzeul Snowmobile-urilor. După-amiaza este rezervată unei plimbări relaxante pe malul pitorescului lac Pöyliöjärvi. Seara, vă bucurați de impresii la o cină consistentă laponă într-un restaurant local.",
-        "en": "Your day in Kemijärvi begins with an immersion in local culture at the Cultural Centre and the Wood Sculpture Gallery. In the morning, you'll explore the spiritual heart of the city at the modern church and discover the importance of winter at the Snowmobile Museum. The afternoon is reserved for a relaxing walk by the picturesque Lake Pöyliöjärvi. In the evening, reflect on your experiences over a hearty Lappish dinner at a local restaurant."
+        "en": "Your day in Kemijärvi begins with an immersion in local culture at the Cultural Centre and the Wood Sculpture Gallery. In the morning, you'll explore the spiritual heart of the city at the modern church and discover the importance of winter at the Snowmobile Museum. The afternoon is reserved for a relaxing walk by the picturesque Lake Pöyliöjärvi. In the evening, reflect on your experiences over a hearty Lappish dinner at a local restaurant.",
+        "fi": "Päiväsi Kemijärvellä alkaa paikallisen kulttuurin parissa Kulttuurikeskuksessa ja Puuveistosgalleriassa. Aamulla tutustut kaupungin henkiseen sydämeen modernissa kirkossa ja opit talven merkityksestä Moottorikelkkamuseossa. Iltapäivä on varattu rentouttavalle kävelylle kuvankauniin Pöyliöjärven rannalla. Illalla voit muistella kokemuksiasi reilun lappilaisen illallisen äärellä paikallisessa ravintolassa."
       },
       "gastro_picks": {
         "de": [
@@ -332,6 +343,12 @@
           "A reusable water bottle is useful.",
           "The weather can change quickly, so pack a light rain jacket.",
           "Check the opening hours of the museums in advance, especially outside of the main season."
+        ],
+        "fi": [
+          "Pue mukavat kengät, sillä olet jalkeilla koko päivän.",
+          "Uudelleenkäytettävä vesipullo on hyödyllinen.",
+          "Sää voi muuttua nopeasti, ota mukaan kevyt sadetakki.",
+          "Tarkista museoiden aukioloajat etukäteen, erityisesti sesongin ulkopuolella."
         ]
       },
       "variants": {
@@ -340,7 +357,8 @@
             "de": "Morgens bietet das Kulturzentrum einen trockenen Start. Mittags erkunden Sie die Holzschnitzgalerie und die Kirche, nur kurze Wege im Regen. Der Nachmittag im Schneemobil-Museum ist ideal, um drinnen zu bleiben. Den Tag lassen Sie am Pöyliöjärvi-See ausklingen, wo die neblige Atmosphäre eine ganz eigene Ruhe ausstrahlt.",
             "hu": "A reggelt a Kulturális Központ fedett falai között kezdjük. Délben a fafaragó galéria és a templom kínál menedéket a szemerkélő eső elől. Délután a hómobil múzeum tökéletes beltéri program. Az estét a Pöyliöjärvi-tó partján zárjuk, ahol az eső áztatta táj különleges, melankolikus arcát mutatja a látogatónak.",
             "ro": "Dimineața începe la Centrul Cultural, ferit de ploaie. La prânz, vizităm galeria de sculptură și biserica, profitând de distanțele scurte. După-amiaza la Muzeul de Motosante este ideală pentru a rămâne la adăpost. Seara se încheie pe malul lacului Pöyliöjärvi, unde ceața și ploaia creează o atmosferă nordică autentică.",
-            "en": "Start your morning inside the Cultural Centre to stay dry. At noon, the wood sculpture gallery and the church provide brief indoor escapes. The afternoon is best spent at the Snowmobile Museum, a perfect indoor highlight. End the day at Lake Pöyliöjärvi, where the rainy mist adds a unique, serene atmosphere to the Lappish landscape."
+            "en": "Start your morning inside the Cultural Centre to stay dry. At noon, the wood sculpture gallery and the church provide brief indoor escapes. The afternoon is best spent at the Snowmobile Museum, a perfect indoor highlight. End the day at Lake Pöyliöjärvi, where the rainy mist adds a unique, serene atmosphere to the Lappish landscape.",
+            "fi": "Aloita aamusi Kulttuurikeskuksessa pysyäksesi kuivana. Päivällä puuveistosgalleria ja kirkko tarjoavat lyhyitä sisätilapaikkoja. Iltapäivä on parasta viettää Moottorikelkkamuseossa, joka on täydellinen sisäaktiviteetti. Päivä päättyy Pöyliöjärvelle, jossa sateinen usva tuo lappilaiseen maisemaan ainutlaatuisen, rauhoittavan tunnelman."
           },
           "stops": [
             {
@@ -349,7 +367,8 @@
                 "de": "Perfekter Ort für regnerische Morgenstunden.",
                 "hu": "Kiváló helyszín egy esős reggel kezdéséhez.",
                 "ro": "Locul perfect pentru a începe o dimineață ploioasă.",
-                "en": "The perfect place to start a rainy morning."
+                "en": "The perfect place to start a rainy morning.",
+                "fi": "Täydellinen paikka aloittaa sateinen aamu."
               }
             },
             {
@@ -358,7 +377,8 @@
                 "de": "Genießen Sie die Holzkunst im Trockenen.",
                 "hu": "Csodálja meg a fafaragásokat fedett helyen.",
                 "ro": "Bucurați-vă de arta lemnului la adăpost.",
-                "en": "Enjoy the wood art while staying dry indoors."
+                "en": "Enjoy the wood art while staying dry indoors.",
+                "fi": "Nauti puutaiteesta pysyen kuivana sisätiloissa."
               }
             },
             {
@@ -367,7 +387,8 @@
                 "de": "Ein ruhiger Rückzugsort vor dem Regen.",
                 "hu": "Csendes menedék az eső elől.",
                 "ro": "Un refugiu liniștit departe de ploaie.",
-                "en": "A quiet retreat from the rain."
+                "en": "A quiet retreat from the rain.",
+                "fi": "Hiljainen pakopaikka sateelta."
               }
             },
             {
@@ -376,7 +397,8 @@
                 "de": "Große Indoor-Ausstellung, ideal bei Schlechtwetter.",
                 "hu": "Nagy beltéri kiállítás, ideális rossz időben.",
                 "ro": "Expoziție interioară mare, ideală pe vreme rea.",
-                "en": "Large indoor exhibition, ideal for bad weather."
+                "en": "Large indoor exhibition, ideal for bad weather.",
+                "fi": "Suuri sisänäyttely, ihanteellinen huonolle säälle."
               }
             },
             {
@@ -385,7 +407,8 @@
                 "de": "Vorsicht, die Uferwege können rutschig sein.",
                 "hu": "Vigyázat, a tóparti ösvények csúszósak lehetnek.",
                 "ro": "Atenție, potecile de pe mal pot fi alunecoase.",
-                "en": "Careful, the lakeside paths can be slippery."
+                "en": "Careful, the lakeside paths can be slippery.",
+                "fi": "Varo, rantapolut voivat olla liukkaita."
               }
             }
           ],
@@ -413,6 +436,12 @@
               "Wear waterproof hiking boots for the lakeside paths.",
               "Take advantage of central cafes for warming breaks.",
               "Plan more time for museums to wait out the heavier rain."
+            ],
+            "fi": [
+              "Tukeva sateenvarjo on välttämätön tuulen takia järven rannalla.",
+              "Pue vedenpitävät vaelluskengät rantapoluille.",
+              "Hyödynnä keskustan kahviloita lämmittäville tauoille.",
+              "Varaa museoihin enemmän aikaa odottaaksesi kovempaa sadetta."
             ]
           }
         },
@@ -421,7 +450,8 @@
             "de": "Erleben Sie den arktischen Morgen im Kulturzentrum. Mittags funkeln die Holzskulpturen im Schnee, gefolgt von der besinnlichen Atmosphäre in der Kirche. Der Nachmittag im Schneemobil-Museum passt perfekt zur Jahreszeit. Abends bietet der gefrorene Pöyliöjärvi-See bei klarem Himmel die Chance auf Polarlichter über der verschneiten Stadt.",
             "hu": "Kezdje a sarkvidéki reggelt a Kulturális Központ melegében. Délben a fafaragások a hóban csillognak, majd a templom meghitt csendje várja. A délutáni hómobil múzeumi látogatás igazi téli hangulatot áraszt. Este a befagyott Pöyliöjärvi-tó felett, tiszta időben, akár a sarki fényt is megpillanthatja a város felett.",
             "ro": "Experimentați dimineața arctică la Centrul Cultural. La prânz, sculpturile în lemn strălucesc în zăpadă, urmate de atmosfera liniștită a bisericii. După-amiaza la Muzeul de Motosante se potrivește perfect cu sezonul. Seara, lacul înghețat Pöyliöjärvi oferă șansa de a vedea aurora boreală sub cerul senin.",
-            "en": "Experience the Arctic morning warmth at the Cultural Centre. At noon, the wood sculptures sparkle in the snow, followed by the serene church atmosphere. The afternoon at the Snowmobile Museum is a highlight of the season. In the evening, the frozen Lake Pöyliöjärvi offers a chance to see the Northern Lights under a clear sky."
+            "en": "Experience the Arctic morning warmth at the Cultural Centre. At noon, the wood sculptures sparkle in the snow, followed by the serene church atmosphere. The afternoon at the Snowmobile Museum is a highlight of the season. In the evening, the frozen Lake Pöyliöjärvi offers a chance to see the Northern Lights under a clear sky.",
+            "fi": "Koe arktinen aamolämpö Kulttuurikeskuksessa. Päivällä puuveistokset kimmeltävät lumessa ja kirkko tarjoaa rauhallisen tunnelman. Iltapäivä Moottorikelkkamuseossa on sesongin kohokohta. Illalla jäätynyt Pöyliöjärvi tarjoaa mahdollisuuden nähdä revontulia kirkkaan taivaan alla."
           },
           "stops": [
             {
@@ -430,7 +460,8 @@
                 "de": "Wärmen Sie sich auf, bevor der Stadtrundgang beginnt.",
                 "hu": "Melegedjen át, mielőtt elkezdi a városi sétát.",
                 "ro": "Încălziți-vă înainte de a începe turul orașului.",
-                "en": "Warm up here before starting your city walk."
+                "en": "Warm up here before starting your city walk.",
+                "fi": "Lämpene täällä ennen kaupunkikävelyn aloittamista."
               }
             },
             {
@@ -439,7 +470,8 @@
                 "de": "Die Skulpturen wirken im Winterschnee magisch.",
                 "hu": "A szobrok mágikusak a téli hótakaróban.",
                 "ro": "Sculpturile par magice în zăpada de iarnă.",
-                "en": "The sculptures look magical in the winter snow."
+                "en": "The sculptures look magical in the winter snow.",
+                "fi": "Veistokset näyttävät taianomaisilta talvisessa lumessa."
               }
             },
             {
@@ -448,7 +480,8 @@
                 "de": "Ein stimmungsvoll beleuchteter Ort im Winter.",
                 "hu": "Hangulatosan kivilágított helyszín télen.",
                 "ro": "Un loc luminat feeric în timpul iernii.",
-                "en": "An atmospherically lit place during winter."
+                "en": "An atmospherically lit place during winter.",
+                "fi": "Tunnelmallisesti valaistu paikka talvella."
               }
             },
             {
@@ -457,7 +490,8 @@
                 "de": "Die beste Zeit für dieses Museum ist der Winter.",
                 "hu": "A legjobb időszak a múzeum látogatására a tél.",
                 "ro": "Cea mai bună perioadă pentru acest muzeu este iarna.",
-                "en": "Winter is the prime time to visit this museum."
+                "en": "Winter is the prime time to visit this museum.",
+                "fi": "Talvi on parasta aikaa vierailla tässä museossa."
               }
             },
             {
@@ -466,7 +500,8 @@
                 "de": "Betreten Sie das Eis nur auf markierten Wegen.",
                 "hu": "Csak a kijelölt utakon menjen rá a jégre.",
                 "ro": "Intrați pe gheață doar pe traseele marcate.",
-                "en": "Only step onto the ice on marked paths."
+                "en": "Only step onto the ice on marked paths.",
+                "fi": "Astukaa jäälle vain merkityille kulkureiteille."
               }
             }
           ],
@@ -494,6 +529,12 @@
               "Multi-layered thermal clothing is mandatory in sub-zero temps.",
               "Watch out for black ice on the sidewalks.",
               "Keep your camera ready for potential Northern Lights."
+            ],
+            "fi": [
+              "Käytä heijastimia, sillä pimeä saapuu jo noin klo 15:00.",
+              "Monikerrospukeutuminen on pakollinen kun lämpötila laskee nollan alle.",
+              "Varo mustaa jäätä jalkakäytävillä.",
+              "Pidä kamera valmiina mahdollisia revontulia varten."
             ]
           }
         }
@@ -512,7 +553,8 @@
             "de": "Pöyliöjärvi See",
             "hu": "Pöyliöjärvi-tó",
             "ro": "Lacul Pöyliöjärvi",
-            "en": "Lake Pöyliöjärvi"
+            "en": "Lake Pöyliöjärvi",
+            "fi": "Pöyliöjärvi"
           },
           "coords": [
             27.452,
@@ -527,7 +569,8 @@
             "de": "Beginnen Sie den Tag mit einer erfrischenden Runde um den See.",
             "hu": "Kezdje a napot egy frissítő körrel a tó körül.",
             "ro": "Începeți ziua cu o tură revigorantă în jurul lacului.",
-            "en": "Start the day with a refreshing loop around the lake."
+            "en": "Start the day with a refreshing loop around the lake.",
+            "fi": "Aloita päivä virkistävällä kierroksella järvellä."
           }
         },
         {
@@ -535,7 +578,8 @@
             "de": "Motorschlitten-Museum",
             "hu": "Hómobil Múzeum",
             "ro": "Muzeul Snowmobile-urilor",
-            "en": "Snowmobile Museum"
+            "en": "Snowmobile Museum",
+            "fi": "Moottorikelkkamuseo"
           },
           "coords": [
             27.433,
@@ -550,7 +594,8 @@
             "de": "Stellen Sie Ihr Fahrrad ab und tauchen Sie ein in die arktische Transportgeschichte.",
             "hu": "Tegye le a biciklit, és merüljön el a sarkvidéki közlekedés történetében.",
             "ro": "Parcați bicicleta și scufundați-vă în istoria transportului arctic.",
-            "en": "Park your bike and dive into the history of Arctic transportation."
+            "en": "Park your bike and dive into the history of Arctic transportation.",
+            "fi": "Pysäköi pyöräsi ja sukelta arktisen liikkumisen historiaan."
           }
         },
         {
@@ -558,7 +603,8 @@
             "de": "Kulturzentrum Kemijärvi",
             "hu": "Kemijärvi Kulturális Központ",
             "ro": "Centrul Cultural Kemijärvi",
-            "en": "Kemijärvi Cultural Centre"
+            "en": "Kemijärvi Cultural Centre",
+            "fi": "Kemijärven kulttuurikeskus"
           },
           "coords": [
             27.4315,
@@ -573,7 +619,8 @@
             "de": "Ein kurzer Stopp, um die lokale Kunstszene zu erleben.",
             "hu": "Egy rövid megálló, hogy megtapasztalja a helyi művészeti életet.",
             "ro": "O oprire scurtă pentru a experimenta scena artistică locală.",
-            "en": "A short stop to experience the local art scene."
+            "en": "A short stop to experience the local art scene.",
+            "fi": "Lyhyt pysähdys paikallisen taidekentän kokemiseen."
           }
         },
         {
@@ -581,7 +628,8 @@
             "de": "Kirche von Kemijärvi",
             "hu": "Kemijärvi temploma",
             "ro": "Biserica din Kemijärvi",
-            "en": "Kemijärvi Church"
+            "en": "Kemijärvi Church",
+            "fi": "Kemijärven kirkko"
           },
           "coords": [
             27.427,
@@ -596,7 +644,8 @@
             "de": "Die Architektur ist einen Besuch wert, auch wenn Sie nicht religiös sind.",
             "hu": "Az építészet akkor is megér egy látogatást, ha nem vallásos.",
             "ro": "Arhitectura merită o vizită chiar dacă nu sunteți religios.",
-            "en": "The architecture is worth a visit even if you are not religious."
+            "en": "The architecture is worth a visit even if you are not religious.",
+            "fi": "Arkkitehtuuri on vierailun arvoinen vaikka et olisi uskonnollinen."
           }
         },
         {
@@ -604,7 +653,8 @@
             "de": "Ufer des Kemijärvi Sees",
             "hu": "Kemijärvi-tó partja",
             "ro": "Malul Lacului Kemijärvi",
-            "en": "Shores of Lake Kemijärvi"
+            "en": "Shores of Lake Kemijärvi",
+            "fi": "Kemijärven rannat"
           },
           "coords": [
             27.41,
@@ -619,7 +669,8 @@
             "de": "Genießen Sie die Weite des größten Sees in Lappland.",
             "hu": "Élvezze Lappföld legnagyobb tavának tágasságát.",
             "ro": "Bucurați-vă de vastitatea celui mai mare lac din Laponia.",
-            "en": "Enjoy the vastness of the largest lake in Lapland."
+            "en": "Enjoy the vastness of the largest lake in Lapland.",
+            "fi": "Nauti Lapin suurimman järven avaruudesta."
           }
         },
         {
@@ -627,7 +678,8 @@
             "de": "Suomutunturi",
             "hu": "Suomutunturi",
             "ro": "Suomutunturi",
-            "en": "Suomutunturi"
+            "en": "Suomutunturi",
+            "fi": "Suomutunturi"
           },
           "coords": [
             27.31,
@@ -642,7 +694,8 @@
             "de": "Obwohl es weiter entfernt ist, ist die Aussicht vom Gipfel die Radtour wert.",
             "hu": "Bár távolabb van, a csúcsról nyíló kilátás megéri a biciklizést.",
             "ro": "Deși este mai departe, priveliștea de pe vârf merită călătoria cu bicicleta.",
-            "en": "Although it's further away, the view from the top is worth the bike ride."
+            "en": "Although it's further away, the view from the top is worth the bike ride.",
+            "fi": "Vaikka se on kauempana, huippunäkymä kannattaa pyöräilymatkan."
           }
         }
       ],
@@ -650,7 +703,8 @@
         "de": "Ihre Radtour beginnt am Pöyliöjärvi-See, bevor Sie ins Zentrum radeln, um das Motorschlitten-Museum und das Kulturzentrum zu besuchen. Nach einem Blick auf die Kirche am Vormittag radeln Sie am Ufer des riesigen Kemijärvi-Sees entlang. Der Nachmittag ist einer anspruchsvolleren, aber lohnenden Fahrt zum Suomutunturi-Fjell gewidmet, wo Sie mit einer atemberaubenden Aussicht belohnt werden. Ein perfekter Abschluss für einen aktiven Tag in der Natur.",
         "hu": "Kerékpártúrája a Pöyliöjärvi-tónál kezdődik, mielőtt a központba tekerne a Hómobil Múzeum és a Kulturális Központ meglátogatásához. Miután délelőtt vetett egy pillantást a templomra, a hatalmas Kemijärvi-tó partján halad tovább. A délután egy nagyobb kihívást jelentő, de annál kifizetődőbb úté a Suomutunturi hegyre, ahol lélegzetelállító kilátásban lesz része. Tökéletes befejezése egy aktív napnak a természetben.",
         "ro": "Turul cu bicicleta începe la Lacul Pöyliöjärvi înainte de a pedala spre centru pentru a vizita Muzeul Snowmobile-urilor și Centrul Cultural. După o privire la biserică dimineața, pedalați de-a lungul malului imensului Lac Kemijärvi. După-amiaza este dedicată unei plimbări mai solicitante, dar plină de satisfacții, spre dealul Suomutunturi, unde veți fi răsplătit cu priveliști uimitoare. Un final perfect pentru o zi activă în natură.",
-        "en": "Your bike tour starts at Lake Pöyliöjärvi before cycling into the center to visit the Snowmobile Museum and Cultural Centre. After a look at the church in the morning, you cycle along the shore of the huge Lake Kemijärvi. The afternoon is dedicated to a more challenging but rewarding ride to Suomutunturi fell, where you'll be rewarded with breathtaking views. A perfect end to an active day in nature."
+        "en": "Your bike tour starts at Lake Pöyliöjärvi before cycling into the center to visit the Snowmobile Museum and Cultural Centre. After a look at the church in the morning, you cycle along the shore of the huge Lake Kemijärvi. The afternoon is dedicated to a more challenging but rewarding ride to Suomutunturi fell, where you'll be rewarded with breathtaking views. A perfect end to an active day in nature.",
+        "fi": "Pyöräretkesi alkaa Pöyliöjärveltä ennen kuin pyöräilet keskustaan vierailemaan Moottorikelkkamuseossa ja Kulttuurikeskuksessa. Aamulla kurkkaus kirkkoon, sitten pyöräily Kemijärven suuren järven rantaa pitkin. Iltapäivä on omistettu haastavammalle mutta palkitsevalle ajoreitille Suomutunturiin, josta avautuvat upeat maisemat. Täydellinen päätös aktiiviselle päivälle luonnossa."
       },
       "gastro_picks": {
         "de": [
@@ -846,6 +900,12 @@
           "A helmet is highly recommended.",
           "Bring enough water and snacks for the longer ride.",
           "Be aware that some paths may be unpaved."
+        ],
+        "fi": [
+          "Tarkista pyöräsi ennen lähtöä, erityisesti jarrut ja renkaat.",
+          "Kypärän käyttö on suositeltavaa.",
+          "Ota riittävästi vettä ja välipaloja pidemmälle ajolle.",
+          "Huomioi, että jotkut polut voivat olla päällystämättömiä."
         ]
       },
       "variants": {
@@ -854,7 +914,8 @@
             "de": "Starten Sie am Seeufer, solange der Regen leicht ist. Mittags bietet das Schneemobil-Museum eine willkommene Pause im Trockenen. Nachmittags erkunden Sie das Zentrum und die Kirche per Rad. Die Fahrt nach Suomutunturi führt durch dichte Wälder, die im Regen mystisch wirken, erfordert aber gute Regenbekleidung und Vorsicht auf nassen Waldwegen.",
             "hu": "Kezdje a tóparton, amíg csak szemerkél az eső. Délben a hómobil múzeum kínál száraz pihenőt. Délután kerékpárral fedezzük fel a központot és a templomot. A Suomutunturi felé vezető út sűrű erdőkön át vezet, amelyek esőben misztikusak, de vízálló ruházatot és óvatosságot igényelnek a vizes utakon.",
             "ro": "Începeți pe malul lacului cât timp ploaia este ușoară. La prânz, Muzeul de Motosante oferă o pauză binemeritată la uscat. După-amiaza explorăm centrul și biserica pe bicicletă. Drumul spre Suomutunturi trece prin păduri dese care par mistice pe ploaie, dar necesită echipament impermeabil.",
-            "en": "Start by the lakeshore while the rain is light. At noon, the Snowmobile Museum provides a welcome dry break. In the afternoon, explore the center and the church by bike. The ride to Suomutunturi goes through dense forests that look mystical in the rain, but requires good rain gear and caution on wet forest paths."
+            "en": "Start by the lakeshore while the rain is light. At noon, the Snowmobile Museum provides a welcome dry break. In the afternoon, explore the center and the church by bike. The ride to Suomutunturi goes through dense forests that look mystical in the rain, but requires good rain gear and caution on wet forest paths.",
+            "fi": "Aloita rantareitiltä kun sade on kevyttä. Päivällä Moottorikelkkamuseo tarjoaa tervetulleen kuivan tauon. Iltapäivällä tutki keskustaa ja kirkkoa pyörällä. Matka Suomutunturiin kulkee tiheiden metsien läpi, jotka näyttävät myyttisiltä sateella, mutta vaativat hyvää sadevarustusta ja varovaisuutta märillä metsäpoluilla."
           },
           "stops": [
             {
@@ -863,7 +924,8 @@
                 "de": "Vorsicht bei nassen Holzwegen am Ufer.",
                 "hu": "Vigyázzon a vizes faösvényeken a parton.",
                 "ro": "Atenție la podețele de lemn ude de pe mal.",
-                "en": "Be careful on wet wooden paths along the shore."
+                "en": "Be careful on wet wooden paths along the shore.",
+                "fi": "Ole varovainen märillä puisilla rantapoluilla."
               }
             },
             {
@@ -872,7 +934,8 @@
                 "de": "Sicherer Fahrradständer vorhanden.",
                 "hu": "Biztonságos kerékpártároló áll rendelkezésre.",
                 "ro": "Suport de biciclete securizat disponibil.",
-                "en": "Secure bike parking available here."
+                "en": "Secure bike parking available here.",
+                "fi": "Täällä on suojattu pyöränparkki."
               }
             },
             {
@@ -881,7 +944,8 @@
                 "de": "Nutzen Sie den überdachten Eingangsbereich.",
                 "hu": "Használja a fedett bejárati részt.",
                 "ro": "Folosiți zona de intrare acoperită.",
-                "en": "Utilize the covered entrance area."
+                "en": "Utilize the covered entrance area.",
+                "fi": "Hyödynnä katettua sisäänkäyntiä."
               }
             },
             {
@@ -890,7 +954,8 @@
                 "de": "Kurzer Stopp, um den Regen abzuwarten.",
                 "hu": "Rövid megálló az eső elől.",
                 "ro": "Scurt popas pentru a evita ploaia.",
-                "en": "Short stop to wait out the rain."
+                "en": "Short stop to wait out the rain.",
+                "fi": "Lyhyt pysähdys odottaa sateen laantumista."
               }
             },
             {
@@ -899,7 +964,8 @@
                 "de": "Die Wege können matschig sein.",
                 "hu": "Az utak sárosak lehetnek.",
                 "ro": "Drumurile pot fi noroioase.",
-                "en": "The paths can be muddy."
+                "en": "The paths can be muddy.",
+                "fi": "Polut voivat olla liejuisia."
               }
             },
             {
@@ -908,7 +974,8 @@
                 "de": "Vorsicht auf der Abfahrt bei Nässe.",
                 "hu": "Vigyázzon a lejtőkön nedves időben.",
                 "ro": "Atenție la coborâre pe carosabil umed.",
-                "en": "Caution on descents when wet."
+                "en": "Caution on descents when wet.",
+                "fi": "Varovaisuutta alamäissä märällä kelillä."
               }
             }
           ],
@@ -936,6 +1003,12 @@
               "Avoid sudden braking on wet leaves.",
               "Wear a full rain suit including jacket and trousers.",
               "Wipe your saddle dry at every stop."
+            ],
+            "fi": [
+              "Lianpoistojat eli lokasuojat pyörässä ovat välttämättömät tässä säässä.",
+              "Vältä äkillistä jarrutusta märillä lehdillä.",
+              "Pue kokopitkä sadetakki ja -housut.",
+              "Pyyhi satula kuivaksi jokaisella pysähdyksellä."
             ]
           }
         },
@@ -944,7 +1017,8 @@
             "de": "Ein Wintermärchen auf zwei Rädern. Starten Sie am gefrorenen See mit Spikereifen. Mittags bietet das Museum Wärme und Geschichte. Nachmittags radeln Sie durch das verschneite Kemijärvi zur beleuchteten Kirche. Die Tour nach Suomutunturi ist anspruchsvoll, belohnt aber mit fantastischen Winterlandschaften. Ein Fatbike ist für diese Bedingungen die ideale Wahl.",
             "hu": "Téli mese két keréken. Kezdje a befagyott tónál szöges gumikkal. Délben a múzeum meleget és történelmet kínál. Délután tekerjen át a havas Kemijärvin a kivilágított templomig. A Suomutunturi túra nehéz, de fantasztikus téli tájjal jutalmaz. Egy fatbike ideális választás ezekre a körülményekre.",
             "ro": "O poveste de iarnă pe două roți. Începeți pe lacul înghețat cu anvelope cu ținte. La prânz, muzeul oferă căldură și istorie. După-amiaza pedalați prin Kemijärvi înzăpezit spre biserica luminată. Turul spre Suomutunturi este solicitant, dar oferă peisaje de iarnă superbe. Un fatbike este alegerea ideală.",
-            "en": "A winter fairytale on two wheels. Start on the frozen lake with studded tires. At noon, the museum offers warmth and history. In the afternoon, cycle through snowy Kemijärvi to the lit church. The Suomutunturi tour is challenging but rewards you with fantastic winter scenery. A fatbike is the ideal choice for these conditions."
+            "en": "A winter fairytale on two wheels. Start on the frozen lake with studded tires. At noon, the museum offers warmth and history. In the afternoon, cycle through snowy Kemijärvi to the lit church. The Suomutunturi tour is challenging but rewards you with fantastic winter scenery. A fatbike is the ideal choice for these conditions.",
+            "fi": "Talvinen satumaisema kahdella pyörällä. Aloita jäätyneeltä järveltä nastarenkailla. Päivällä museo tarjoaa lämpöä ja historiaa. Iltapäivällä polje lumisen Kemijärven halki valaistulle kirkolle. Suomutunturi-retki on vaativa mutta palkitsee fantastisilla talvimaisemilla. Fatbike on ihanteellinen valinta näihin oloihin."
           },
           "stops": [
             {
@@ -953,7 +1027,8 @@
                 "de": "Fahren Sie nur auf festgetretenem Schnee.",
                 "hu": "Csak a letaposott havon közlekedjen.",
                 "ro": "Circulați doar pe zăpada bătătorită.",
-                "en": "Ride only on packed snow."
+                "en": "Ride only on packed snow.",
+                "fi": "Aja vain pakatun lumen päällä."
               }
             },
             {
@@ -962,7 +1037,8 @@
                 "de": "Stellen Sie sicher, dass das Schloss nicht einfriert.",
                 "hu": "Ügyeljen rá, hogy a lakat ne fagyjon be.",
                 "ro": "Asigurați-vă că nu îngheață antifurtul.",
-                "en": "Make sure your bike lock doesn't freeze."
+                "en": "Make sure your bike lock doesn't freeze.",
+                "fi": "Varmista, ettei pyörän lukko jäädy."
               }
             },
             {
@@ -971,7 +1047,8 @@
                 "de": "Ein guter Ort, um die Finger aufzuwärmen.",
                 "hu": "Jó hely az ujjak felmelegítésére.",
                 "ro": "Un loc bun pentru a vă încălzi degetele.",
-                "en": "A good spot to warm up your fingers."
+                "en": "A good spot to warm up your fingers.",
+                "fi": "Hyvä paikka lämmittää sormia."
               }
             },
             {
@@ -980,7 +1057,8 @@
                 "de": "Vorsicht vor Schneeverwehungen am Eingang.",
                 "hu": "Vigyázzon a hóátfúvásokkal a bejáratnál.",
                 "ro": "Atenție la troienele de zăpadă de la intrare.",
-                "en": "Watch out for snowdrifts at the entrance."
+                "en": "Watch out for snowdrifts at the entrance.",
+                "fi": "Varo kinoksia sisäänkäynnillä."
               }
             },
             {
@@ -989,7 +1067,8 @@
                 "de": "Wunderschön, aber sehr windig und kalt.",
                 "hu": "Gyönyörű, de nagyon szeles és hideg.",
                 "ro": "Frumos, dar foarte vântos și frig.",
-                "en": "Beautiful, but very windy and cold."
+                "en": "Beautiful, but very windy and cold.",
+                "fi": "Kaunis, mutta hyvin tuulinen ja kylmä."
               }
             },
             {
@@ -998,7 +1077,8 @@
                 "de": "Ziel für Hartgesottene; warm anziehen!",
                 "hu": "Kitartóknak ajánlott; öltözzön melegen!",
                 "ro": "Destinație pentru cei rezistenți; haine groase!",
-                "en": "Destination for the hardy; dress warmly!"
+                "en": "Destination for the hardy; dress warmly!",
+                "fi": "Kohde sitkeille; pukeudu lämpimästi!"
               }
             }
           ],
@@ -1026,6 +1106,12 @@
               "Keep the chain well-oiled against road salt.",
               "Wear heated gloves for longer rides.",
               "Plan to return before darkness sets in (around 2:30 PM)."
+            ],
+            "fi": [
+              "Käytä nastarenkaita tai fatbikea paremman pidon vuoksi.",
+              "Pidä ketju hyvin öljyttynä tiesuolaa vastaan.",
+              "Käytä lämmitettäviä hanskoja pidemmillä matkoilla.",
+              "Suunnittele paluu ennen pimeää (noin klo 14:30)."
             ]
           }
         }
@@ -1044,7 +1130,8 @@
             "de": "Parkplatz im Zentrum",
             "hu": "Parkoló a központban",
             "ro": "Parcare în centru",
-            "en": "Parking in the Center"
+            "en": "Parking in the Center",
+            "fi": "Pysäköinti keskustassa"
           },
           "coords": [
             27.428,
@@ -1059,7 +1146,8 @@
             "de": "Parken Sie hier und erkunden Sie den ersten Cluster zu Fuß.",
             "hu": "Parkoljon itt, és fedezze fel az első látnivaló-csoportot gyalog.",
             "ro": "Parcați aici și explorați primul grup de atracții pe jos.",
-            "en": "Park here and explore the first cluster on foot."
+            "en": "Park here and explore the first cluster on foot.",
+            "fi": "Pysäköi täällä ja tutustu ensimmäiseen kohteeseen jalkaisin."
           }
         },
         {
@@ -1067,7 +1155,8 @@
             "de": "Holzskulpturengalerie",
             "hu": "Faszobor Galéria",
             "ro": "Galeria de Sculpturi în Lemn",
-            "en": "Wood Sculpture Gallery"
+            "en": "Wood Sculpture Gallery",
+            "fi": "Puuveistosgalleria"
           },
           "coords": [
             27.4295,
@@ -1083,7 +1172,8 @@
             "de": "Beginnen Sie Ihren Rundgang mit einem Einblick in die lokale Handwerkskunst.",
             "hu": "Kezdje a sétát a helyi kézművesség megismerésével.",
             "ro": "Începeți turul pietonal cu o incursiune în meșteșugurile locale.",
-            "en": "Start your walking tour with an insight into local craftsmanship."
+            "en": "Start your walking tour with an insight into local craftsmanship.",
+            "fi": "Aloita kävelykierros tutustumalla paikalliseen käsityöhön."
           }
         },
         {
@@ -1091,7 +1181,8 @@
             "de": "Kirche von Kemijärvi",
             "hu": "Kemijärvi temploma",
             "ro": "Biserica din Kemijärvi",
-            "en": "Kemijärvi Church"
+            "en": "Kemijärvi Church",
+            "fi": "Kemijärven kirkko"
           },
           "coords": [
             27.427,
@@ -1107,7 +1198,8 @@
             "de": "Ein kurzer Spaziergang führt Sie zu diesem architektonischen Wahrzeichen.",
             "hu": "Egy rövid séta elvezeti ehhez az építészeti nevezetességhez.",
             "ro": "O scurtă plimbare vă duce la acest reper arhitectural.",
-            "en": "A short walk takes you to this architectural landmark."
+            "en": "A short walk takes you to this architectural landmark.",
+            "fi": "Lyhyt kävely vie sinut tälle arkkitehtuurin maamerkille."
           }
         },
         {
@@ -1115,7 +1207,8 @@
             "de": "Kotavaara Aussichtsturm",
             "hu": "Kotavaara kilátótorony",
             "ro": "Turnul de observație Kotavaara",
-            "en": "Kotavaara Observation Tower"
+            "en": "Kotavaara Observation Tower",
+            "fi": "Kotavaaran näkötorni"
           },
           "coords": [
             27.58,
@@ -1131,7 +1224,8 @@
             "de": "Fahren Sie zum Turm für einen atemberaubenden 360-Grad-Blick auf die Landschaft.",
             "hu": "Vezessen a toronyhoz, ahonnan lélegzetelállító 360 fokos kilátás nyílik a tájra.",
             "ro": "Conduceți la turn pentru o priveliște uluitoare de 360 de grade a peisajului.",
-            "en": "Drive to the tower for a stunning 360-degree view of the landscape."
+            "en": "Drive to the tower for a stunning 360-degree view of the landscape.",
+            "fi": "Aja tornille upeaa 360 asteen näkymää varten."
           }
         },
         {
@@ -1139,7 +1233,8 @@
             "de": "Suomutunturi",
             "hu": "Suomutunturi",
             "ro": "Suomutunturi",
-            "en": "Suomutunturi"
+            "en": "Suomutunturi",
+            "fi": "Suomutunturi"
           },
           "coords": [
             27.31,
@@ -1155,7 +1250,8 @@
             "de": "Verbringen Sie den Nachmittag in diesem beliebten Erholungsgebiet. Zeit für Mittagessen und eine kurze Wanderung.",
             "hu": "Töltse a délutánt ebben a népszerű üdülőövezetben. Ebédidő és egy rövid túra.",
             "ro": "Petreceți după-amiaza în această zonă populară de agrement. Timp pentru prânz și o scurtă drumeție.",
-            "en": "Spend the afternoon at this popular recreational area. Time for lunch and a short hike."
+            "en": "Spend the afternoon at this popular recreational area. Time for lunch and a short hike.",
+            "fi": "Vietä iltapäivä tällä suositulla ulkoilualueella. Aika lounaalle ja lyhyelle vaellukselle."
           }
         },
         {
@@ -1163,7 +1259,8 @@
             "de": "Kemijärvi See",
             "hu": "Kemijärvi-tó",
             "ro": "Lacul Kemijärvi",
-            "en": "Lake Kemijärvi"
+            "en": "Lake Kemijärvi",
+            "fi": "Kemijärvi"
           },
           "coords": [
             27.41,
@@ -1179,7 +1276,8 @@
             "de": "Beenden Sie den Tag mit einem Spaziergang am Ufer, nachdem Sie am Suomutunturi geparkt haben.",
             "hu": "Zárja a napot egy tóparti sétával, miután leparkolt a Suomutunturinál.",
             "ro": "Încheiați ziua cu o plimbare pe malul lacului după ce ați parcat la Suomutunturi.",
-            "en": "End the day with a lakeside stroll after parking near Suomutunturi."
+            "en": "End the day with a lakeside stroll after parking near Suomutunturi.",
+            "fi": "Päätä päivä järvenrannalla kävelyllä parkkipaikalta Suomutunturille palattuasi."
           }
         }
       ],
@@ -1187,7 +1285,8 @@
         "de": "Beginnen Sie Ihren Autotag, indem Sie im Zentrum von Kemijärvi parken. Erkunden Sie den ersten Cluster zu Fuß: die Holzskulpturengalerie und die Kirche. Am späten Vormittag fahren Sie zum Kotavaara-Aussichtsturm für eine spektakuläre Aussicht. Der Nachmittag gehört dem Suomutunturi-Fjell, wo Sie zu Mittag essen und die Natur genießen können. Zum Abschluss des Tages kehren Sie zurück in die Nähe der Stadt für einen ruhigen Spaziergang am Ufer des großen Kemijärvi-Sees.",
         "hu": "Kezdje az autós napot egy parkolással Kemijärvi központjában. Fedezze fel az első látnivalócsoportot gyalog: a Faszobor Galériát és a templomot. Késő délelőtt vezessen a Kotavaara kilátótoronyhoz a látványos kilátásért. A délután a Suomutunturi hegyé, ahol megebédelhet és élvezheti a természetet. A nap végén térjen vissza a város közelébe egy csendes sétára a nagy Kemijärvi-tó partján.",
         "ro": "Începeți ziua cu mașina parcând în centrul orașului Kemijärvi. Explorați primul grup de atracții pe jos: Galeria de Sculpturi în Lemn și biserica. Spre sfârșitul dimineții, conduceți la Turnul de Observație Kotavaara pentru o priveliște spectaculoasă. După-amiaza este dedicată dealului Suomutunturi, unde puteți lua prânzul și vă puteți bucura de natură. Încheiați ziua revenind lângă oraș pentru o plimbare liniștită pe malul marelui lac Kemijärvi.",
-        "en": "Start your car day by parking in the center of Kemijärvi. Explore the first cluster on foot: the Wood Sculpture Gallery and the church. In the late morning, drive to the Kotavaara Observation Tower for a spectacular view. The afternoon belongs to Suomutunturi fell, where you can have lunch and enjoy nature. End the day by returning near the town for a quiet walk along the shore of the large Lake Kemijärvi."
+        "en": "Start your car day by parking in the center of Kemijärvi. Explore the first cluster on foot: the Wood Sculpture Gallery and the church. In the late morning, drive to the Kotavaara Observation Tower for a spectacular view. The afternoon belongs to Suomutunturi fell, where you can have lunch and enjoy nature. End the day by returning near the town for a quiet walk along the shore of the large Lake Kemijärvi.",
+        "fi": "Aloita autolla ajopäiväsi pysäköimällä Kemijärven keskustaan. Tutki ensimmäinen alue kävellen: Puuveistosgalleria ja kirkko. Myöhään aamulla aja Kotavaaran näkötorniin upeiden näköalojen vuoksi. Iltapäivä kuuluu Suomutunturille, jossa voit lounaalla ja nauttia luonnosta. Päivä päättyy paluuun kaupungin lähelle rauhalliselle kävelylle suuren Kemijärven rannalle."
       },
       "gastro_picks": {
         "de": [
@@ -1383,6 +1482,12 @@
           "Fill up your car, as gas stations can be scarce in rural areas.",
           "Plan for extra time for unforeseen photo stops.",
           "A GPS or an offline map is essential."
+        ],
+        "fi": [
+          "Tarkista pysäköintivaihtoehdot ja maksut etukäteen.",
+          "Täytä polttoaine ennen matkaa, sillä huoltoasemia voi olla harvassa maaseudulla.",
+          "Varaa ylimääräistä aikaa yllättäville valokuvapysäkeille.",
+          "GPS tai offline-kartta on välttämätön."
         ]
       },
       "variants": {
@@ -1391,7 +1496,8 @@
             "de": "Das Auto ist heute Ihr bester Freund. Nach dem Parken im Zentrum besuchen Sie die Galerie und die Kirche fast trocken. Die Fahrt zum Kotavaara-Turm bietet trotz Regen weite Ausblicke über die wolkenverhangenen Wälder. Den Nachmittag verbringen Sie im Skigebiet Suomutunturi und beenden den Tag entspannt am Ufer des Kemijärvi-Sees im Schutz Ihres Fahrzeugs.",
             "hu": "Ma az autó a legjobb barátja. A központi parkolás után szinte szárazon látogathatja meg a galériát és a templomot. A Kotavaara-toronyhoz vezető út esőben is szép kilátást nyújt a felhős erdőkre. A délutánt a Suomutunturi síközpontban töltheti, majd a napot a Kemijärvi-tó partján, az autó védelmében zárhatja.",
             "ro": "Mașina este cel mai bun prieten astăzi. După parcare, vizitați galeria și biserica aproape uscat. Drumul spre turnul Kotavaara oferă priveliști vaste peste pădurile acoperite de nori. După-amiaza o petreceți la Suomutunturi și încheiați ziua relaxat pe malul lacului Kemijärvi, protejat de vehicul.",
-            "en": "The car is your best friend today. After parking centrally, you can visit the gallery and church almost dry. The drive to Kotavaara tower offers vast views of cloud-covered forests despite the rain. Spend the afternoon at Suomutunturi resort and end the day relaxed by Lake Kemijärvi, protected inside your vehicle."
+            "en": "The car is your best friend today. After parking centrally, you can visit the gallery and church almost dry. The drive to Kotavaara tower offers vast views of cloud-covered forests despite the rain. Spend the afternoon at Suomutunturi resort and end the day relaxed by Lake Kemijärvi, protected inside your vehicle.",
+            "fi": "Auto on tänään paras ystäväsi. Keskustaan pysäköitynä voit käydä galleriassa ja kirkossa lähes kuivana. Ajo Kotavaaralle tarjoaa laajat näkymät pilvien peittämien metsien yli sateesta huolimatta. Vietä iltapäivä Suomutunturin alueella ja pääta päivä rentoutuen Kemijärven rannalla suojassa autossasi."
           },
           "stops": [
             {
@@ -1400,7 +1506,8 @@
                 "de": "Zentraler Ausgangspunkt, nah an allen Indoor-Zielen.",
                 "hu": "Központi kiindulópont, közel a beltéri célokhoz.",
                 "ro": "Punct central de plecare, aproape de obiectivele interioare.",
-                "en": "Central starting point, close to all indoor stops."
+                "en": "Central starting point, close to all indoor stops.",
+                "fi": "Keskuslähtöpiste, lähellä kaikkia sisäkohteita."
               }
             },
             {
@@ -1409,7 +1516,8 @@
                 "de": "Kurzer Fußweg vom Parkplatz.",
                 "hu": "Rövid séta a parkolótól.",
                 "ro": "Scurtă plimbare de la parcare.",
-                "en": "Short walk from the parking lot."
+                "en": "Short walk from the parking lot.",
+                "fi": "Lyhyt kävelymatka pysäköintialueelta."
               }
             },
             {
@@ -1418,7 +1526,8 @@
                 "de": "Parkplätze direkt vor dem Eingang.",
                 "hu": "Parkolóhelyek közvetlenül a bejáratnál.",
                 "ro": "Locuri de parcare chiar în fața intrării.",
-                "en": "Parking spaces right in front of the entrance."
+                "en": "Parking spaces right in front of the entrance.",
+                "fi": "Pysäköintipaikkoja juuri sisäänkäynnin edessä."
               }
             },
             {
@@ -1427,7 +1536,8 @@
                 "de": "Die Auffahrt kann bei Starkregen rutschig sein.",
                 "hu": "Az emelkedő heves esőben csúszós lehet.",
                 "ro": "Urcarea poate fi alunecoasă pe ploaie torențială.",
-                "en": "The climb can be slippery in heavy rain."
+                "en": "The climb can be slippery in heavy rain.",
+                "fi": "Nousu voi olla liukas rankkasateella."
               }
             },
             {
@@ -1436,7 +1546,8 @@
                 "de": "Ideal für eine Kaffeepause im Trockenen.",
                 "hu": "Ideális egy száraz kávészünethez.",
                 "ro": "Ideal pentru o pauză de cafea la adăpost.",
-                "en": "Ideal for a dry coffee break."
+                "en": "Ideal for a dry coffee break.",
+                "fi": "Ihanteellinen kuivalle kahvitauolle."
               }
             },
             {
@@ -1445,7 +1556,8 @@
                 "de": "Genießen Sie die Aussicht aus dem warmen Auto.",
                 "hu": "Élvezze a kilátást a meleg autóból.",
                 "ro": "Bucurați-vă de priveliște din mașina caldă.",
-                "en": "Enjoy the view from the warm car."
+                "en": "Enjoy the view from the warm car.",
+                "fi": "Nauti näkymästä lämpimästä autosta."
               }
             }
           ],
@@ -1473,6 +1585,12 @@
               "Ensure your windshield wipers are working perfectly.",
               "Use seat heaters to warm up quickly after short stops.",
               "Avoid unpaved forest roads that might become soft."
+            ],
+            "fi": [
+              "Varo poroja; ne seisovat usein tiellä sateella.",
+              "Varmista, että pyyhkimet toimivat täydellisesti.",
+              "Käytä istuinsäätöjen lämmitystä lämpenemiseen lyhyiden pysähdysten jälkeen.",
+              "Vältä päällystämättömiä metsäautoteitä, jotka saattavat pehmetä."
             ]
           }
         },
@@ -1481,7 +1599,8 @@
             "de": "Ein komfortables Winterabenteuer. Morgens parken Sie im verschneiten Zentrum. Die Fahrt zum Kotavaara-Turm ist bei Schnee eine Herausforderung, aber die Aussicht auf die weiße Wildnis ist unbezahlbar. Nachmittags erreichen Sie das Skigebiet Suomutunturi, ein Paradies für Wintersportler. Den Tag beschließen Sie am Kemijärvi-See, wo Sie im Auto auf das Polarlicht warten können.",
             "hu": "Kényelmes téli kaland. Reggel parkoljon a havas központban. A Kotavaara-toronyhoz vezető út hóban kihívás, de a fehér vadon látványa megfizethetetlen. Délután érje el Suomutunturi síközpontját, a télisportok paradicsomát. A napot a Kemijärvi-tónál zárja, ahol az autóban várakozhat a sarki fényre.",
             "ro": "O aventură confortabilă de iarnă. Dimineața parcați în centrul înzăpezit. Drumul spre Kotavaara este o provocare pe zăpadă, dar priveliștea este neprețuită. După-amiaza ajungeți la Suomutunturi, un paradis pentru sporturile de iarnă. Încheiați ziua la lacul Kemijärvi, așteptând aurora boreală din mașină.",
-            "en": "A comfortable winter adventure. In the morning, park in the snowy center. The drive to Kotavaara tower is a challenge in the snow, but the view of the white wilderness is priceless. In the afternoon, reach the Suomutunturi ski resort, a winter sports paradise. End the day at Lake Kemijärvi, waiting for the aurora from your car."
+            "en": "A comfortable winter adventure. In the morning, park in the snowy center. The drive to Kotavaara tower is a challenge in the snow, but the view of the white wilderness is priceless. In the afternoon, reach the Suomutunturi ski resort, a winter sports paradise. End the day at Lake Kemijärvi, waiting for the aurora from your car.",
+            "fi": "Mukava talviretki. Aamulla pysäköi lumiseen keskustaan. Ajo Kotavaaran torniin on haastavaa lumessa, mutta valkoisen erämaan näköala on korvaamaton. Iltapäivällä saavut Suomutunturin hiihtokeskukseen, talviurheilijoiden paratiisiin. Päätä päivä Kemijärven rannalle ja odota revontulia autosta käsin."
           },
           "stops": [
             {
@@ -1490,7 +1609,8 @@
                 "de": "Parkplatz oft schneebedeckt; Vorsicht beim Rangieren.",
                 "hu": "A parkoló gyakran havas; vigyázzon a manőverezésnél.",
                 "ro": "Parcare adesea înzăpezită; atenție la manevre.",
-                "en": "Parking lot often snowy; be careful when maneuvering."
+                "en": "Parking lot often snowy; be careful when maneuvering.",
+                "fi": "Pysäköintialue usein luminen; varo manööveröintiä."
               }
             },
             {
@@ -1499,7 +1619,8 @@
                 "de": "Lassen Sie den Motor nicht unnötig laufen.",
                 "hu": "Ne járassa feleslegesen a motort.",
                 "ro": "Nu lăsați motorul pornit inutil.",
-                "en": "Don't leave the engine idling unnecessarily."
+                "en": "Don't leave the engine idling unnecessarily.",
+                "fi": "Älä anna moottorin käydä tyhjäkäynnillä turhaan."
               }
             },
             {
@@ -1508,7 +1629,8 @@
                 "de": "Wunderschön beleuchtet während der Polarnacht.",
                 "hu": "Gyönyörű kivilágítás a sarkvidéki éjszakában.",
                 "ro": "Iluminat superb în timpul nopții polare.",
-                "en": "Beautifully lit during the polar night."
+                "en": "Beautifully lit during the polar night.",
+                "fi": "Kauniisti valaistu kaamoksen aikaan."
               }
             },
             {
@@ -1517,7 +1639,8 @@
                 "de": "Allradantrieb für die Auffahrt empfohlen.",
                 "hu": "Összkerékhajtás ajánlott az emelkedőhöz.",
                 "ro": "Tracțiune integrală recomandată pentru urcare.",
-                "en": "Four-wheel drive recommended for the climb."
+                "en": "Four-wheel drive recommended for the climb.",
+                "fi": "Nelivetosuositus nousua varten."
               }
             },
             {
@@ -1526,7 +1649,8 @@
                 "de": "Parken Sie nah am Skilift oder Restaurant.",
                 "hu": "Parkoljon a sílift vagy az étterem közelében.",
                 "ro": "Parcați aproape de teleski sau restaurant.",
-                "en": "Park close to the ski lift or restaurant."
+                "en": "Park close to the ski lift or restaurant.",
+                "fi": "Pysäköi lähelle hiihtohissiä tai ravintolaa."
               }
             },
             {
@@ -1535,7 +1659,8 @@
                 "de": "Perfekter Ort für 'Aurora-Hunting' im Auto.",
                 "hu": "Tökéletes hely sarki fény vadászathoz az autóból.",
                 "ro": "Locul perfect pentru vânătoarea de aurore din mașină.",
-                "en": "Perfect spot for 'Aurora hunting' from the car."
+                "en": "Perfect spot for 'Aurora hunting' from the car.",
+                "fi": "Täydellinen paikka revontulien bongaamiseen autosta käsin."
               }
             }
           ],
@@ -1563,6 +1688,12 @@
               "Check the antifreeze level in your windshield wash.",
               "Keep a snow shovel and tow rope in the car.",
               "Use engine pre-heaters if available at the parking spot."
+            ],
+            "fi": [
+              "Talvirenkaat nastoin ovat Lapissa välttämättömät.",
+              "Tarkista tuulilasin pesun pakkasnesteen taso.",
+              "Pidä autossa lumikaira ja hinausköysi.",
+              "Käytä moottorin lohkolämmitystä, jos se on saatavilla pysäköintipaikalla."
             ]
           }
         }
@@ -1581,7 +1712,8 @@
             "de": "Zentraler Busbahnhof",
             "hu": "Központi buszpályaudvar",
             "ro": "Autogara Centrală",
-            "en": "Central Bus Station"
+            "en": "Central Bus Station",
+            "fi": "Keskuslinja-autoasema"
           },
           "coords": [
             27.435,
@@ -1596,7 +1728,8 @@
             "de": "Beginnen Sie hier Ihre Erkundung mit den öffentlichen Verkehrsmitteln.",
             "hu": "Kezdje innen a felfedezést a tömegközlekedéssel.",
             "ro": "Începeți explorarea de aici folosind transportul public.",
-            "en": "Start your exploration here using public transport."
+            "en": "Start your exploration here using public transport.",
+            "fi": "Aloita tutkimusretkesi julkisilla kulkuvälineillä tästä."
           }
         },
         {
@@ -1604,7 +1737,8 @@
             "de": "Motorschlitten-Museum",
             "hu": "Hómobil Múzeum",
             "ro": "Muzeul Snowmobile-urilor",
-            "en": "Snowmobile Museum"
+            "en": "Snowmobile Museum",
+            "fi": "Lumisafarikoneiden museo"
           },
           "coords": [
             27.433,
@@ -1620,7 +1754,8 @@
             "de": "Nur ein kurzer Spaziergang von der Bushaltestelle entfernt.",
             "hu": "Csak egy rövid séta a buszmegállótól.",
             "ro": "La doar o scurtă plimbare de stația de autobuz.",
-            "en": "Just a short walk from the bus stop."
+            "en": "Just a short walk from the bus stop.",
+            "fi": "Vain lyhyt kävelymatka bussipysäkiltä."
           }
         },
         {
@@ -1628,7 +1763,8 @@
             "de": "Kirche von Kemijärvi",
             "hu": "Kemijärvi temploma",
             "ro": "Biserica din Kemijärvi",
-            "en": "Kemijärvi Church"
+            "en": "Kemijärvi Church",
+            "fi": "Kemijärven kirkko"
           },
           "coords": [
             27.427,
@@ -1644,7 +1780,8 @@
             "de": "Spazieren Sie durch das Stadtzentrum zu diesem markanten Gebäude.",
             "hu": "Sétáljon át a városközponton ehhez a jellegzetes épülethez.",
             "ro": "Plimbați-vă prin centrul orașului până la această clădire remarcabilă.",
-            "en": "Stroll through the town center to this striking building."
+            "en": "Stroll through the town center to this striking building.",
+            "fi": "Kävele keskustan läpi tähän vaikuttavaan rakennukseen."
           }
         },
         {
@@ -1652,7 +1789,8 @@
             "de": "Pöyliöjärvi See",
             "hu": "Pöyliöjärvi-tó",
             "ro": "Lacul Pöyliöjärvi",
-            "en": "Lake Pöyliöjärvi"
+            "en": "Lake Pöyliöjärvi",
+            "fi": "Pöyliöjärvi"
           },
           "coords": [
             27.452,
@@ -1668,7 +1806,8 @@
             "de": "Nehmen Sie einen lokalen Bus zum See für die Mittagspause und Entspannung.",
             "hu": "Menjen helyi busszal a tóhoz ebédelni és pihenni.",
             "ro": "Luați un autobuz local până la lac pentru o pauză de prânz și relaxare.",
-            "en": "Take a local bus to the lake for your lunch break and relaxation."
+            "en": "Take a local bus to the lake for your lunch break and relaxation.",
+            "fi": "Ota paikallisbus­si järvelle lounaalle ja rentoutumaan."
           }
         },
         {
@@ -1676,7 +1815,8 @@
             "de": "Kulturzentrum Kemijärvi",
             "hu": "Kemijärvi Kulturális Központ",
             "ro": "Centrul Cultural Kemijärvi",
-            "en": "Kemijärvi Cultural Centre"
+            "en": "Kemijärvi Cultural Centre",
+            "fi": "Kemijärven kulttuurikeskus"
           },
           "coords": [
             27.4315,
@@ -1692,7 +1832,8 @@
             "de": "Fahren Sie zurück ins Zentrum und beenden Sie den Tag mit Kunst und Kultur.",
             "hu": "Utazzon vissza a központba, és fejezze be a napot művészettel és kultúrával.",
             "ro": "Călătoriți înapoi în centru și încheiați ziua cu artă și cultură.",
-            "en": "Travel back to the center and end your day with art and culture."
+            "en": "Travel back to the center and end your day with art and culture.",
+            "fi": "Palaa keskustaan ja päätä päivä taiteen ja kulttuurin parissa."
           }
         }
       ],
@@ -1700,7 +1841,8 @@
         "de": "Ihre Tour mit öffentlichen Verkehrsmitteln startet im Zentrum. Ein Spaziergang führt Sie zum Motorschlitten-Museum und zur Kirche. Am Mittag nehmen Sie den Bus zum Pöyliöjärvi-See, einem perfekten Ort für ein Picknick und eine Pause in der Natur. Am Nachmittag fahren Sie mit dem Bus zurück ins Herz der Stadt, um das Kulturzentrum zu erkunden. Der Abend bietet die Gelegenheit, lokale Spezialitäten zu probieren, bevor Sie den Bus zurück nehmen.",
         "hu": "A tömegközlekedési túra a központból indul. Egy séta elvezeti a Hómobil Múzeumhoz és a templomhoz. Délben busszal megy a Pöyliöjärvi-tóhoz, amely tökéletes hely egy piknikre és a természetben való pihenésre. Délután busszal tér vissza a város szívébe, hogy felfedezze a Kulturális Központot. Az este lehetőséget nyújt a helyi specialitások megkóstolására, mielőtt visszaindulna a busszal.",
         "ro": "Turul dvs. cu transportul public începe în centru. O plimbare vă duce la Muzeul Snowmobile-urilor și la biserică. La prânz, luați autobuzul spre Lacul Pöyliöjärvi, un loc perfect pentru un picnic și o pauză în natură. După-amiaza, luați autobuzul înapoi în inima orașului pentru a explora Centrul Cultural. Seara oferă ocazia de a gusta specialități locale înainte de a lua autobuzul înapoi.",
-        "en": "Your public transport tour starts in the center. A walk takes you to the Snowmobile Museum and the church. At noon, you take the bus to Lake Pöyliöjärvi, a perfect spot for a picnic and a break in nature. In the afternoon, you bus back to the heart of the city to explore the Cultural Centre. The evening offers an opportunity to taste local specialties before taking the bus back."
+        "en": "Your public transport tour starts in the center. A walk takes you to the Snowmobile Museum and the church. At noon, you take the bus to Lake Pöyliöjärvi, a perfect spot for a picnic and a break in nature. In the afternoon, you bus back to the heart of the city to explore the Cultural Centre. The evening offers an opportunity to taste local specialties before taking the bus back.",
+        "fi": "Julkisen liikenteen kierroksesi alkaa keskustasta. Kävely vie sinut Lumimoottorimuseolle ja kirkolle. Keskipäivällä otat bussin Pöyliöjärvelle, joka on täydellinen paikka piknikille ja luonnonrauhalle. Iltapäivällä palaat bussilla kaupungin sydämeen tutustumaan kulttuurikeskukseen. Illalla on tilaisuus maistella paikallisia erikoisuuksia ennen paluubussia."
       },
       "gastro_picks": {
         "de": [
@@ -1896,6 +2038,12 @@
           "Check the bus schedule in advance, as services may not be frequent.",
           "Be at the bus stop on time, especially in rural areas.",
           "Some buses may only accept cash."
+        ],
+        "fi": [
+          "Osta päivälippu rajattomaan matkustukseen.",
+          "Tarkista bussien aikataulu etukäteen, sillä vuorot eivät välttämättä ole tiheitä.",
+          "Ole pysäkillä ajoissa, varsinkin maaseudulla.",
+          "Jotkut bussit saattavat hyväksyä vain käteistä."
         ]
       },
       "variants": {
@@ -1904,7 +2052,8 @@
             "de": "Der Bus bietet heute einen trockenen Transport zwischen den Highlights. Starten Sie am Busbahnhof und fahren Sie zum Schneemobil-Museum. Mittags bringt Sie der Bus zur Kirche im Stadtzentrum. Den Nachmittag verbringen Sie am Pöyliöjärvi-See, wobei Sie die kurzen Wege zwischen Haltestelle und Ufer nutzen. Den Abschluss bildet das Kulturzentrum, bevor Sie zurückfahren.",
             "hu": "A busz ma száraz közlekedést biztosít a látnivalók között. Kezdje az állomáson, és utazzon a hómobil múzeumhoz. Délben a busz a belvárosi templomhoz viszi. A délutánt a Pöyliöjärvi-tónál töltjük, kihasználva a megálló és a part közötti rövid utat. Végül a Kulturális Központot látogatjuk meg, mielőtt visszatérnénk.",
             "ro": "Autobuzul oferă astăzi un transport uscat între obiective. Începeți la autogară și mergeți la Muzeul de Motosante. La prânz, autobuzul vă duce la biserica din centru. După-amiaza o petreceți la lacul Pöyliöjärvi, folosind distanțele scurte de la stație. Finalizați la Centrul Cultural înainte de plecare.",
-            "en": "The bus offers dry transport between highlights today. Start at the station and ride to the Snowmobile Museum. At noon, take the bus to the central church. Spend the afternoon at Lake Pöyliöjärvi, using the short walks between stops and the shore. Finish at the Cultural Centre before heading back."
+            "en": "The bus offers dry transport between highlights today. Start at the station and ride to the Snowmobile Museum. At noon, take the bus to the central church. Spend the afternoon at Lake Pöyliöjärvi, using the short walks between stops and the shore. Finish at the Cultural Centre before heading back.",
+            "fi": "Bussi tarjoaa tänään kuivan kuljetuksen kohteiden välillä. Aloita asemalta ja matkusta Lumimoottorimuseolle. Keskipäivällä ota bussi keskustan kirkolle. Vietä iltapäivä Pöyliöjärvellä, hyödyntäen lyhyitä kävelyitä pysäkkien ja rannan välillä. Lopeta kulttuurikeskukseen ennen paluuta."
           },
           "stops": [
             {
@@ -1913,7 +2062,8 @@
                 "de": "Überdachter Wartebereich verfügbar.",
                 "hu": "Fedett várakozóhely áll rendelkezésre.",
                 "ro": "Zonă de așteptare acoperită disponibilă.",
-                "en": "Covered waiting area available."
+                "en": "Covered waiting area available.",
+                "fi": "Katettu odotusalue saatavilla."
               }
             },
             {
@@ -1922,7 +2072,8 @@
                 "de": "Kurzer, ungeschützter Weg von der Haltestelle.",
                 "hu": "Rövid, nem fedett út a megállótól.",
                 "ro": "Drum scurt, neacoperit de la stație.",
-                "en": "Short, unsheltered walk from the stop."
+                "en": "Short, unsheltered walk from the stop.",
+                "fi": "Lyhyt, suojaamaton kävely pysäkiltä."
               }
             },
             {
@@ -1931,7 +2082,8 @@
                 "de": "Haltestelle fast direkt vor der Tür.",
                 "hu": "A megálló szinte közvetlenül az ajtó előtt van.",
                 "ro": "Stație aproape direct în fața ușii.",
-                "en": "The stop is almost right in front of the door."
+                "en": "The stop is almost right in front of the door.",
+                "fi": "Pysäkki on lähes suoraan oven edessä."
               }
             },
             {
@@ -1940,7 +2092,8 @@
                 "de": "Prüfen Sie die Rückfahrzeiten bei Regen.",
                 "hu": "Ellenőrizze a visszautat esős időben.",
                 "ro": "Verificați orele de retur pe ploaie.",
-                "en": "Check return times during rainy weather."
+                "en": "Check return times during rainy weather.",
+                "fi": "Tarkista paluuaikataulut sateisella säällä."
               }
             },
             {
@@ -1949,7 +2102,8 @@
                 "de": "Idealer Ort, um auf den nächsten Bus zu warten.",
                 "hu": "Ideális hely a következő busz megvárására.",
                 "ro": "Loc ideal pentru a aștepta următorul autobuz.",
-                "en": "Ideal place to wait for the next bus."
+                "en": "Ideal place to wait for the next bus.",
+                "fi": "Ihanteellinen paikka odottaa seuraavaa bussia."
               }
             }
           ],
@@ -1977,6 +2131,12 @@
               "Wear a hood while waiting at windy bus stops.",
               "Buses can feel humid when many passengers have wet clothes.",
               "Keep change or a card ready for the bus ticket."
+            ],
+            "fi": [
+              "Pidä aikataulusovellus valmiina reaaliaikaista tietoa varten.",
+              "Käytä huppua tuulisilla pysäkeillä odottaessa.",
+              "Busseissa voi olla kosteaa, kun monet matkustajat ovat märissä vaatteissa.",
+              "Pidä vaihtorahat tai kortti valmiina bussilippua varten."
             ]
           }
         },
@@ -1985,7 +2145,8 @@
             "de": "Winterkomfort im öffentlichen Nahverkehr. Vom warmen Busbahnhof geht es zum Schneemobil-Museum. Mittags bringt Sie der beheizte Bus ins Herz der Stadt zur Kirche. Den Nachmittag verbringen Sie am winterlichen Pöyliöjärvi-See, bevor Sie sich im Kulturzentrum aufwärmen. Die kurzen Wege zwischen den Haltestellen minimieren die Zeit in der klirrenden Kälte.",
             "hu": "Téli kényelem a tömegközlekedésben. A meleg állomásról induljon a hómobil múzeumba. Délben a fűtött busz a város szívébe, a templomhoz viszi. A délutánt a téli Pöyliöjärvi-tónál töltjük, majd a Kulturális Központban melegedünk fel. A megállók közötti rövid távolságok minimalizálják a metsző hidegben töltött időt.",
             "ro": "Confort de iarnă în transportul public. De la autogara călduroasă mergeți la Muzeul de Motosante. La prânz, autobuzul încălzit vă duce în inima orașului. După-amiaza o petreceți la lacul înghețat Pöyliöjärvi, apoi vă încălziți la Centrul Cultural. Distanțele scurte dintre stații reduc timpul petrecut în ger.",
-            "en": "Winter comfort in public transit. From the warm bus station, head to the Snowmobile Museum. At noon, the heated bus takes you to the heart of the city and the church. Spend the afternoon at the wintry Lake Pöyliöjärvi before warming up at the Cultural Centre. Short walks between stops minimize your time in the biting cold."
+            "en": "Winter comfort in public transit. From the warm bus station, head to the Snowmobile Museum. At noon, the heated bus takes you to the heart of the city and the church. Spend the afternoon at the wintry Lake Pöyliöjärvi before warming up at the Cultural Centre. Short walks between stops minimize your time in the biting cold.",
+            "fi": "Talvinen mukavuus julkisissa. Lämpimästä linja-autoasemasta suuntaa Lumimoottorimuseolle. Keskipäivällä lämmitetty bussi vie sinut kaupungin sydämeen ja kirkolle. Vietä iltapäivä talvisella Pöyliöjärvellä ennen lämpiämistä kulttuurikeskuksessa. Lyhyet kävelyt pysäkkien välillä minimoivat aikaa purevassa kylmyydessä."
           },
           "stops": [
             {
@@ -1994,7 +2155,8 @@
                 "de": "Ein beheizter Warteraum ist vorhanden.",
                 "hu": "Fűtött váróterem áll rendelkezésre.",
                 "ro": "Sală de așteptare încălzită disponibilă.",
-                "en": "A heated waiting room is available."
+                "en": "A heated waiting room is available.",
+                "fi": "Lämmitetty odotushuone käytössä."
               }
             },
             {
@@ -2003,7 +2165,8 @@
                 "de": "Vorsicht vor Schneehaufen an der Haltestelle.",
                 "hu": "Vigyázzon a hókupacokkal a megállónál.",
                 "ro": "Atenție la mormanele de zăpadă din stație.",
-                "en": "Watch out for snow piles at the stop."
+                "en": "Watch out for snow piles at the stop.",
+                "fi": "Varo lumipenkkoja pysäkillä."
               }
             },
             {
@@ -2012,7 +2175,8 @@
                 "de": "Der Weg ist meist gut geräumt.",
                 "hu": "Az utat általában jól letakarítják.",
                 "ro": "Drumul este de obicei bine deszăpezit.",
-                "en": "The path is usually well-cleared of snow."
+                "en": "The path is usually well-cleared of snow.",
+                "fi": "Polku on yleensä hyvin aurattu lumesta."
               }
             },
             {
@@ -2021,7 +2185,8 @@
                 "de": "Bei extremer Kälte fährt der Bus seltener.",
                 "hu": "Extrém hidegben a busz ritkábban járhat.",
                 "ro": "Pe ger extrem, autobuzul poate circula mai rar.",
-                "en": "Buses may run less frequently in extreme cold."
+                "en": "Buses may run less frequently in extreme cold.",
+                "fi": "Bussit saattavat kulkea harvemmin erittäin kylmällä säällä."
               }
             },
             {
@@ -2030,7 +2195,8 @@
                 "de": "Warmer Rückzugsort am späten Nachmittag.",
                 "hu": "Meleg menedék késő délután.",
                 "ro": "Refugiu călduros la sfârșitul după-amiezii.",
-                "en": "Warm retreat in the late afternoon."
+                "en": "Warm retreat in the late afternoon.",
+                "fi": "Lämmin pakopaikka myöhään iltapäivällä."
               }
             }
           ],
@@ -2058,6 +2224,12 @@
               "Keep moving at the bus stop to stay warm.",
               "Take advantage of the bus's warmth for short rests.",
               "Wear sturdy winter boots with good tread."
+            ],
+            "fi": [
+              "Suunnittele lisäaikaa säästä johtuvia viivästyksiä varten.",
+              "Pysy liikkeessä pysäkillä pysyäksesi lämpimänä.",
+              "Hyödynnä bussin lämpöä lyhyisiin lepohetkiin.",
+              "Käytä tukevia talvikenkiä, joissa on hyvä pito."
             ]
           }
         }

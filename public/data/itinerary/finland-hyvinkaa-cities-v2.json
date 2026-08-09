@@ -32,7 +32,8 @@
             "de": "Erkunden Sie das historische Gelände der alten Wollfabrik, heute ein Kulturzentrum.",
             "hu": "Fedezze fel a régi gyapjúgyár történelmi épületegyüttesét, amely ma kulturális központ.",
             "ro": "Explorați clădirile istorice ale fostei fabrici de lână, acum un centru cultural.",
-            "en": "Explore the historic grounds of the old wool factory, now a cultural center."
+            "en": "Explore the historic grounds of the old wool factory, now a cultural center.",
+            "fi": "Tutustu vanhan villatehtaan historialliseen alueeseen, nykyiseen kulttuurikeskukseen."
           }
         },
         {
@@ -51,7 +52,8 @@
             "de": "Bewundern Sie finnische Kunstwerke in diesen modernen Ausstellungsräumen.",
             "hu": "Csodálja meg a finn műalkotásokat ezekben a modern kiállítótermekben.",
             "ro": "Admirați opere de artă finlandeze în aceste săli de expoziție moderne.",
-            "en": "Admire Finnish artworks in these modern exhibition spaces."
+            "en": "Admire Finnish artworks in these modern exhibition spaces.",
+            "fi": "Ihaile suomalaisia taideteoksia näissä moderneissa näyttelytiloissa."
           }
         },
         {
@@ -70,7 +72,8 @@
             "de": "Die pyramidenförmige Architektur ist einzigartig und ein beliebtes Fotomotiv.",
             "hu": "A piramis alakú építészet egyedülálló, és népszerű fotótéma a városban.",
             "ro": "Arhitectura în formă de piramidă este unică și un subiect foto popular.",
-            "en": "The pyramid-shaped architecture is unique and a popular photo subject."
+            "en": "The pyramid-shaped architecture is unique and a popular photo subject.",
+            "fi": "Kartionmuotoinen arkkitehtuuri on ainutlaatuinen ja suosittu valokuvan kohde."
           }
         },
         {
@@ -89,7 +92,8 @@
             "de": "Sehen Sie die kaiserlichen Züge des russischen Zaren in den originalen Schuppen.",
             "hu": "Tekintse meg az orosz cárok egykori császári vonatait az eredeti csarnokokban.",
             "ro": "Vedeți trenurile imperiale ale țarului rus în depourile originale.",
-            "en": "See the imperial trains of the Russian Tsar in the original sheds."
+            "en": "See the imperial trains of the Russian Tsar in the original sheds.",
+            "fi": "Näe Venäjän keisarin imperiaalijunat alkuperäisissä halleissaan."
           }
         },
         {
@@ -108,7 +112,8 @@
             "de": "Ein schöner Abschluss des Spaziergangs im kulturellen Herzen der Stadt.",
             "hu": "Kellemes befejezése a sétának a város kulturális központjában.",
             "ro": "Un final plăcut al plimbării în inima culturală a orașului.",
-            "en": "A nice end to the walk in the cultural heart of the city."
+            "en": "A nice end to the walk in the cultural heart of the city.",
+            "fi": "Mukava päätös kävelylle kaupungin kulttuurisydämessä."
           }
         }
       ],
@@ -116,7 +121,8 @@
         "de": "Der Tag beginnt im industriellen Herzen von Hyvinkää auf dem Gelände der Villatehdas. Nach einem kurzen Spaziergang besuchen wir das Kunstmuseum. Mittags steht die markante, pyramidenförmige Kirche auf dem Programm. Der Nachmittag ist dem faszinierenden Eisenbahnmuseum gewidmet, bevor wir zum Promenadi-sali zurückkehren.",
         "hu": "A nap Hyvinkää ipari szívében, a történelmi Villatehdas területén indul. Egy rövid séta után a művészeti múzeumot fedezzük fel. Délben a lenyűgöző, piramis alakú templom következik. A délutánt a lenyűgöző vasútmúzeumnak szenteljük, majd visszatérünk a Promenadi-sali központjához.",
         "ro": "Ziua începe în inima industrială din Hyvinkää, la Villatehdas. După o scurtă plimbare, vizităm muzeul de artă. La prânz admirăm biserica impresionantă în formă de piramidă. După-amiaza este dedicată fascinantului muzeu feroviar, înainte de a ne întoarce la Promenadi-sali.",
-        "en": "The day begins in the industrial heart of Hyvinkää at the Villatehdas site. After a short walk, we visit the art museum. At midday, the striking pyramid-shaped church is on the agenda. The afternoon is dedicated to the fascinating railway museum before returning to the Promenadi-sali."
+        "en": "The day begins in the industrial heart of Hyvinkää at the Villatehdas site. After a short walk, we visit the art museum. At midday, the striking pyramid-shaped church is on the agenda. The afternoon is dedicated to the fascinating railway museum before returning to the Promenadi-sali.",
+        "fi": "Päivä alkaa Hyvinkään teollisella sydämellä Villatehtaan alueelta. Lyhyen kävelyn jälkeen vierailemme taidemuseossa. Keskipäivällä ohjelmassa on vaikuttava kartionmuotoinen kirkko. Iltapäivä on omistettu kiehtovalle rautatiemuseolle ennen paluuta Promenadi-salille."
       },
       "gastro_picks": {
         "de": [
@@ -292,6 +298,12 @@
           "Wear comfortable shoes for the cobblestones around the museum.",
           "In winter, the sidewalks can be slippery, spikes are recommended.",
           "Many cafes in the center offer reasonably priced lunch menus."
+        ],
+        "fi": [
+          "Keskustan etäisyydet ovat hyvin lyhyitä ja kävelyystävällisiä.",
+          "Käytä mukavia kenkiä museon ympärillä oleville mukulakiville.",
+          "Talvella jalkakäytävät voivat olla liukkaita, nastakengät suositellaan.",
+          "Monissa keskustan kahviloissa on edullisia lounasmenuja."
         ]
       },
       "variants": {
@@ -300,7 +312,8 @@
             "de": "Der Morgen beginnt im Villatehdas, wo die alten Backsteinmauern Schutz vor dem finnischen Regen bieten. Ein kurzer, schirmbewehrter Spaziergang führt zum Kunstmuseum, ideal für graue Stunden.\r\nMittags suchen wir die moderne Pyramidenkirche auf, deren Architektur auch bei wolkenverhangenem Himmel beeindruckt, bevor es zum Eisenbahnmuseum geht.\r\nNachmittags erkunden wir die Lokomotiven in den Hallen des Eisenbahnmuseums, weitgehend trocken und geschützt vor den Schauern.\r\nDer Abend klingt in der Promenadi-Halle aus, einem kulturellen Zentrum, das gemütliche Zuflucht vor dem nassen Wetter bietet.",
             "hu": "A reggel a Villatehdas falai között indul, ahol a régi gyárépületek menedéket nyújtanak az eső elől. Egy rövid esernyős séta vezet a Művészeti Múzeumba, amely tökéletes a szürke órákra.\r\nDélben a modern, piramis alakú templomot keressük fel, melynek látványa borús időben is lenyűgöző, majd a Vasúttörténeti Múzeum felé vesszük az irányt.\r\nDélután a vasúti csarnokokban nézzük meg a régi mozdonyokat, ahol fedett helyen maradhatunk az eső elől.\r\nAz estét a Promenadi-csarnokban zárjuk, amely kulturális központként meleg és száraz búvóhelyet kínál a város szívében.",
             "ro": "Dimineața începe la Villatehdas, unde zidurile vechi de cărămidă oferă adăpost împotriva ploii finlandeze. O scurtă plimbare cu umbrela duce la Muzeul de Artă, ideal pentru orele cenușii.\r\nLa prânz vizităm biserica modernă în formă de piramidă, a cărei arhitectură impresionează chiar și sub cerul noros, înainte de a merge la Muzeul Căilor Ferate.\r\nDupă-amiaza explorăm locomotivele în halele muzeului feroviar, rămânând în mare parte uscați și protejați de averse.\r\nSeara se încheie la Promenadi-sali, un centru cultural care oferă un refugiu confortabil împotriva vremii umede.",
-            "en": "The morning starts at Villatehdas, where the old brick walls provide shelter from the Finnish rain. A short, umbrella-covered walk leads to the Art Museum, perfect for gray hours.\r\nAt noon, we visit the modern pyramid church, whose architecture impresses even under overcast skies, before heading to the Railway Museum.\r\nIn the afternoon, we explore the locomotives in the railway museum's halls, staying largely dry and protected from the showers.\r\nThe evening winds down at Promenadi-sali, a cultural center providing a cozy refuge from the wet weather."
+            "en": "The morning starts at Villatehdas, where the old brick walls provide shelter from the Finnish rain. A short, umbrella-covered walk leads to the Art Museum, perfect for gray hours.\r\nAt noon, we visit the modern pyramid church, whose architecture impresses even under overcast skies, before heading to the Railway Museum.\r\nIn the afternoon, we explore the locomotives in the railway museum's halls, staying largely dry and protected from the showers.\r\nThe evening winds down at Promenadi-sali, a cultural center providing a cozy refuge from the wet weather.",
+            "fi": "Aamu alkaa Villatehtaalta, jossa vanhat tiiliseinät suojaavat suomalaiselta sateelta. Lyhyt, sateenvarjoin suojattu kävely johdattaa Taidemuseolle, joka sopii harmaisiin hetkiin.\r\nKeskipäivällä vierailemme modernissa pyramidikirkossa, jonka arkkitehtuuri tekee vaikutuksen myös pilvisellä säällä, ennen kuin suuntaamme Rautatiemuseoon.\r\nIltapäivällä tutkimme vetureita rautatiemuseon halleissa, pysyen pääosin kuivina ja suojassa sadekuuroilta.\r\nIlta päättyy Promenadi-saliin, kulttuurikeskukseen, joka tarjoaa kodikkaan turvapaikan kostealta säätä vastaan."
           },
           "stops": [
             {
@@ -309,7 +322,8 @@
                 "de": "Nutzen Sie die überdachten Passagen zwischen den Fabrikgebäuden.",
                 "hu": "Használja a gyárépületek közötti fedett átjárókat.",
                 "ro": "Folosiți pasajele acoperite dintre clădirile fabricii.",
-                "en": "Use the covered passages between the factory buildings."
+                "en": "Use the covered passages between the factory buildings.",
+                "fi": "Hyödynnä tehdasrakennusten välisiä katettuja käytäviä."
               }
             },
             {
@@ -318,7 +332,8 @@
                 "de": "Garderobe im Eingangsbereich nutzen, um nasse Mäntel abzugeben.",
                 "hu": "Használja a bejáratnál lévő ruhatárat a vizes kabátoknak.",
                 "ro": "Folosiți garderoba de la intrare pentru a lăsa hainele ude.",
-                "en": "Use the cloakroom at the entrance to leave wet coats."
+                "en": "Use the cloakroom at the entrance to leave wet coats.",
+                "fi": "Jätä märät takit narikkaan sisäänkäynnin luona."
               }
             },
             {
@@ -327,7 +342,8 @@
                 "de": "Das steile Dach leitet Regenwasser spektakulär ab.",
                 "hu": "A meredek tető látványosan vezeti el az esővizet.",
                 "ro": "Acoperișul abrupt drenează apa de ploaie în mod spectaculos.",
-                "en": "The steep roof drains rainwater spectacularly."
+                "en": "The steep roof drains rainwater spectacularly.",
+                "fi": "Jyrkkä kattomuoto ohjaa sadeveden näyttävästi pois."
               }
             },
             {
@@ -336,7 +352,8 @@
                 "de": "Konzentrieren Sie sich auf die Ausstellungsstücke in den runden Lokschuppen.",
                 "hu": "Összpontosítson a kerek fűtőházban található kiállítási tárgyakra.",
                 "ro": "Concentrați-vă pe exponatele din depourile circulare de locomotive.",
-                "en": "Focus on the exhibits inside the round engine sheds."
+                "en": "Focus on the exhibits inside the round engine sheds.",
+                "fi": "Keskity näyttelyihin pyöreissä veturihalleissa."
               }
             },
             {
@@ -345,7 +362,8 @@
                 "de": "Perfekter Ort für einen heißen Kaffee während es draußen stürmt.",
                 "hu": "Tökéletes hely egy forró kávéra, miközben odakint esik.",
                 "ro": "Locul perfect pentru o cafea fierbinte în timp ce afară plouă.",
-                "en": "Perfect place for a hot coffee while it's storming outside."
+                "en": "Perfect place for a hot coffee while it's storming outside.",
+                "fi": "Täydellinen paikka kuumalle kahville ukkoskelin aikana."
               }
             }
           ],
@@ -373,6 +391,12 @@
               "The museums are close to each other, ideal for 'museum-hopping' when wet.",
               "Use the underpass at the station to cross the tracks dryly.",
               "The church offers a quiet, dry retreat for meditation."
+            ],
+            "fi": [
+              "Hyvinkään keskusta on kompakti, mutta vedenpitävät kengät ovat sateella pakolliset.",
+              "Museot ovat lähellä toisiaan, ihanteellista museoiden kiertelyyn märällä säällä.",
+              "Käytä aseman alikulkuvaa rataa ylittäessäsi pysyäksesi kuivana.",
+              "Kirkko tarjoaa hiljaisen, kuivan paikan meditaatioon."
             ]
           }
         },
@@ -381,7 +405,8 @@
             "de": "Ein frostiger Morgen beginnt am Villatehdas, wo der Schnee auf dem roten Backstein leuchtet. Die Kälte beißt, doch die Innenräume sind gut beheizt.\r\nMittags bestaunen wir das Kunstmuseum, bevor wir zur Kirche wandern, die wie ein Eisberg aus der verschneiten Landschaft ragt.\r\nNachmittags ist das Eisenbahnmuseum ein Muss; die alten Züge im Schnee bieten eine magische Kulisse vor dem frühen Sonnenuntergang.\r\nDer Abend endet in der warmen Promenadi-Halle, während draußen die finnische Winternacht einsetzt.",
             "hu": "Fagyos reggel indul a Villatehdasnál, ahol a hó fehéren csillog a vörös téglákon. A hideg csípős, de a belső terek jól fűtöttek.\r\nDélben a Művészeti Múzeumot csodáljuk meg, majd a templomhoz sétálunk, amely jéghegyként emelkedik ki a havas tájból.\r\nDélután a Vasúttörténeti Múzeum kihagyhatatlan; a havas vonatok mágikus látványt nyújtanak a korai naplemente előtt.\r\nAz este a meleg Promenadi-csarnokban ér véget, miközben odakint leszáll a finn téli éjszaka.",
             "ro": "O dimineață geroasă începe la Villatehdas, unde zăpada strălucește pe cărămida roșie. Frigul este tăios, dar interioarele sunt bine încălzite.\r\nLa prânz admirăm Muzeul de Artă înainte de a merge spre biserică, ce se ridică ca un iceberg din peisajul înzăpezit.\r\nDupă-amiaza, Muzeul Căilor Ferate este obligatoriu; trenurile vechi în zăpadă oferă un cadru magic înainte de apusul timpuriu.\r\nSeara se încheie în căldura de la Promenadi-sali, în timp ce afară se așterne noaptea arctică finlandeză.",
-            "en": "A frosty morning begins at Villatehdas, where snow glows against the red brick. The cold is biting, but the interiors are well-heated.\r\nAt noon, we admire the Art Museum before walking to the church, which rises like an iceberg from the snowy landscape.\r\nIn the afternoon, the Railway Museum is a must; old trains in the snow provide a magical backdrop before the early sunset.\r\nThe evening ends in the warm Promenadi-sali as the Finnish winter night sets in outside."
+            "en": "A frosty morning begins at Villatehdas, where snow glows against the red brick. The cold is biting, but the interiors are well-heated.\r\nAt noon, we admire the Art Museum before walking to the church, which rises like an iceberg from the snowy landscape.\r\nIn the afternoon, the Railway Museum is a must; old trains in the snow provide a magical backdrop before the early sunset.\r\nThe evening ends in the warm Promenadi-sali as the Finnish winter night sets in outside.",
+            "fi": "Pakkaneninen aamu alkaa Villatehtaalla, jossa lumi hehkuu punaisia tiiliä vasten. Kylmä puree, mutta sisätilat ovat hyvin lämmitetyt.\r\nKeskipäivällä ihailemme Taidemuseota ennen kävelyä kirkolle, joka nousee kuin jäävuori lumisessa maisemassa.\r\nIltapäivällä Rautatiemuseo on pakollinen käyntikohde; vanhat junat lumessa tarjoavat satumaisen taustan ennen aikaisia auringonlaskuja.\r\nIlta päättyy lämpimään Promenadi-saliin, kun suomalainen talviyö laskeutuu ulos."
           },
           "stops": [
             {
@@ -390,7 +415,8 @@
                 "de": "Vorsicht vor Eiszapfen an den alten Fabrikdächern.",
                 "hu": "Vigyázzon az ereszekről lelógó jégcsapokra.",
                 "ro": "Atenție la țurțurii de pe acoperișurile vechii fabrici.",
-                "en": "Watch out for icicles on the old factory roofs."
+                "en": "Watch out for icicles on the old factory roofs.",
+                "fi": "Varo jääpuikkoja vanhojen tehdaskattojen reunoilla."
               }
             },
             {
@@ -399,7 +425,8 @@
                 "de": "Genießen Sie den Blick auf den verschneiten Kirchplatz aus den Fenstern.",
                 "hu": "Élvezze a kilátást a havas templomkertre az ablakokból.",
                 "ro": "Bucurați-vă de vederea spre piața bisericii înzăpezită de la ferestre.",
-                "en": "Enjoy the view of the snowy church square from the windows."
+                "en": "Enjoy the view of the snowy church square from the windows.",
+                "fi": "Nauti näkymästä lumiselle kirkkotorille ikkunoista."
               }
             },
             {
@@ -408,7 +435,8 @@
                 "de": "Die weiße Architektur verschmilzt fast mit dem Schnee.",
                 "hu": "A fehér épület szinte teljesen beleolvad a hóba.",
                 "ro": "Arhitectura albă se confundă aproape complet cu zăpada.",
-                "en": "The white architecture almost merges with the snow."
+                "en": "The white architecture almost merges with the snow.",
+                "fi": "Valkoinen arkkitehtuuri lähes sulautuu lumeen."
               }
             },
             {
@@ -417,7 +445,8 @@
                 "de": "Tragen Sie warme Stiefel, um zwischen den Museumshallen im Schnee zu gehen.",
                 "hu": "Viseljen meleg csizmát a múzeumi csarnokok közötti havas sétához.",
                 "ro": "Purtați cizme călduroase pentru a merge prin zăpadă între halele muzeului.",
-                "en": "Wear warm boots for walking in the snow between museum halls."
+                "en": "Wear warm boots for walking in the snow between museum halls.",
+                "fi": "Pue lämpimät saappaat kävelyä varten lumessa museoiden välillä."
               }
             },
             {
@@ -426,7 +455,8 @@
                 "de": "Ein idealer Ort, um sich vor dem Heimweg aufzuwärmen.",
                 "hu": "Ideális hely a felmelegedésre a hazaút előtt.",
                 "ro": "Un loc ideal pentru a vă încălzi înainte de drumul spre casă.",
-                "en": "An ideal place to warm up before heading home."
+                "en": "An ideal place to warm up before heading home.",
+                "fi": "Ihanteellinen paikka lämmitellä ennen kotiin lähtöä."
               }
             }
           ],
@@ -454,6 +484,12 @@
               "Sidewalks can be very slippery; watch out for ice.",
               "Layering clothes is important for switching between the cold outside and heated interiors.",
               "Museums often close earlier, check winter opening hours."
+            ],
+            "fi": [
+              "Aurinko laskee talvella jo kello 15.00.",
+              "Jalkakäytävät voivat olla erittäin liukkaita; varo jäätä.",
+              "Kerrospukeutuminen on tärkeää siirtymisiin kylmän ulkoilman ja lämmitettyjen sisätilojen välillä.",
+              "Museot sulkeutuvat usein aiemmin; tarkista talven aukioloajat."
             ]
           }
         }
@@ -483,7 +519,8 @@
             "de": "Starten Sie den Tag mit der besten Aussicht auf dieses architektonische Meisterwerk.",
             "hu": "Kezdje a napot ennek az építészeti remekműnek a megtekintésével.",
             "ro": "Începeți ziua cu cea mai bună priveliște a acestei capodopere arhitecturale.",
-            "en": "Start the day with the best view of this architectural masterpiece."
+            "en": "Start the day with the best view of this architectural masterpiece.",
+            "fi": "Aloita päivä parhaasta näkymästä tähän arkkitehtoniseen mestariteokseen."
           }
         },
         {
@@ -502,7 +539,8 @@
             "de": "Fahrradparkplätze sind direkt vor dem Haupteingang reichlich vorhanden.",
             "hu": "Kerékpártárolók bőségesen rendelkezésre állnak közvetlenül a főbejárat előtt.",
             "ro": "Există locuri de parcare pentru biciclete chiar în fața intrării principale.",
-            "en": "Bicycle parking is plentiful right in front of the main entrance."
+            "en": "Bicycle parking is plentiful right in front of the main entrance.",
+            "fi": "Polkupyörien pysäköintiä löytyy runsaasti suoraan pääsisäänkäynnin edestä."
           }
         },
         {
@@ -521,7 +559,8 @@
             "de": "Ein großartiger Ort für eine Mittagspause in industriellem Ambiente.",
             "hu": "Kiváló hely egy ebédszünethez ipari környezetben.",
             "ro": "Un loc excelent pentru o pauză de prânz într-o ambianță industrială.",
-            "en": "A great place for a lunch break in an industrial setting."
+            "en": "A great place for a lunch break in an industrial setting.",
+            "fi": "Erinomainen paikka lounastauolle teollisessa ympäristössä."
           }
         },
         {
@@ -540,7 +579,8 @@
             "de": "Lassen Sie das Rad stehen, es ist nur ein Katzensprung von der Villatehdas.",
             "hu": "Hagyja itt a kerékpárt, csak egy kőhajításnyira van a Villatehdastól.",
             "ro": "Lăsați bicicleta aici, este la doar o aruncătură de băț de Villatehdas.",
-            "en": "Leave the bike here, it's just a stone's throw from Villatehdas."
+            "en": "Leave the bike here, it's just a stone's throw from Villatehdas.",
+            "fi": "Jätä pyörä tänne, se on kivenheiton päässä Villatehtaalta."
           }
         },
         {
@@ -559,7 +599,8 @@
             "de": "Radfahren auf den befestigten Wegen dieses Parks ist ein echtes Naturerlebnis.",
             "hu": "A park kiépített ösvényein kerékpározni igazi természeti élmény.",
             "ro": "Mersul pe bicicletă pe potecile pavate ale acestui parc este o adevărată experiență.",
-            "en": "Cycling on the paved paths of this park is a real nature experience."
+            "en": "Cycling on the paved paths of this park is a real nature experience.",
+            "fi": "Pyöräily tämän puiston asfaltoiduilla reiteillä on aidosti luontokokemus."
           }
         }
       ],
@@ -567,7 +608,8 @@
         "de": "Wir starten sportlich an der modernen Kirche und radeln zum historischen Eisenbahnmuseum am Stadtrand. Mittags kehren wir ins Zentrum zur Villatehdas zurück, um Industriegeschichte und Kunst zu genießen. Am Nachmittag führt uns eine schöne Radstrecke in den Sveitsi-Naturpark, wo die finnische Natur wartet.",
         "hu": "Sportosan indulunk a modern templomtól, majd a város szélén lévő történelmi vasútmúzeumhoz tekerünk. Délben visszatérünk a központba, a Villatehdas területére, hogy élvezzük az ipartörténetet és a művészetet. Délután egy szép kerékpárút vezet a Sveitsi Natúrparkba, ahol a finn természet vár ránk.",
         "ro": "Începem sportiv la biserica modernă și pedalăm până la muzeul feroviar istoric de la periferie. La prânz ne întoarcem în centru la Villatehdas pentru a ne bucura de istoria industrială și artă. După-amiaza, un traseu frumos de biciclete ne duce în Parcul Natural Sveitsi, unde ne așteaptă natura.",
-        "en": "We start sportily at the modern church and cycle to the historic railway museum on the outskirts. At midday, we return to the center to Villatehdas to enjoy industrial history and art. In the afternoon, a beautiful cycling route takes us to the Sveitsi Nature Park, where Finnish nature awaits."
+        "en": "We start sportily at the modern church and cycle to the historic railway museum on the outskirts. At midday, we return to the center to Villatehdas to enjoy industrial history and art. In the afternoon, a beautiful cycling route takes us to the Sveitsi Nature Park, where Finnish nature awaits.",
+        "fi": "Aloitamme urheilullisesti modernilta kirkolta ja pyöräilemme historialliselle rautatiemuseolle laitamille. Keskipäivällä palaamme keskustaan Villatehtaalle nauttimaan teollisuushistoriasta ja taiteesta. Iltapäivällä kaunis pyöräilyreitti vie meidät Sveitsin luontopuistoon, missä suomalainen luonto odottaa."
       },
       "gastro_picks": {
         "de": [
@@ -727,6 +769,12 @@
           "The route to Sveitsi Park goes slightly uphill.",
           "Always lock your bike securely at the station.",
           "Don't forget your water bottle, especially in the summer sun."
+        ],
+        "fi": [
+          "Hyvinkäällä on hyvä pyörätieverkosto, myös lähialueille.",
+          "Reitti Sveitsiin nousee hieman ylämäkeen.",
+          "Lukitse aina pyöräsi huolellisesti asemalla.",
+          "Älä unohda juomapulloa, erityisesti kesäauringossa."
         ]
       },
       "variants": {
@@ -735,7 +783,8 @@
             "de": "Trotz Regen starten wir mit dem Rad an der Kirche. Die Straßen sind leerer, aber glatter. Das Eisenbahnmuseum bietet die erste große Pause im Trockenen.\r\nMittags radeln wir durch die Pfützen zum Villatehdas-Viertel, wo die industrielle Atmosphäre bei Regen besonders markant wirkt.\r\nNachmittags besuchen wir das Kunstmuseum, bevor wir den Tag im Sveitsi-Naturpark beenden, wo das Blätterdach des Waldes leichten Schutz bietet.\r\nDer Abend endet mit einer erfrischten, wenn auch nassen Rückfahrt zum Stadtzentrum.",
             "hu": "Az eső ellenére kerékpárral indulunk a templomtól. Az utak üresebbek, de csúszósabbak. A Vasúttörténeti Múzeum kínálja az első hosszabb száraz pihenőt.\r\nDélben a tócsákon át kerekezünk a Villatehdas negyedbe, ahol az ipari hangulat esőben különösen markáns.\r\nDélután a Művészeti Múzeumba látogatunk, majd a napot a Sveitsi natúrparkban zárjuk, ahol az erdő lombkoronája némi védelmet nyújt.\r\nAz este egy frissítő, bár vizes visszaúttal zárul a városközpontba.",
             "ro": "În ciuda ploii, pornim cu bicicleta de la biserică. Străzile sunt mai goale, dar mai alunecoase. Muzeul Căilor Ferate oferă prima pauză lungă la adăpost.\r\nLa prânz pedalăm prin bălți spre cartierul Villatehdas, unde atmosfera industrială pare deosebit de marcantă pe ploaie.\r\nDupă-amiaza vizităm Muzeul de Artă înainte de a încheia ziua în Parcul Natural Sveitsi, unde coronamentul pădurii oferă o ușoară protecție.\r\nSeara se încheie cu o întoarcere revigorantă, deși udă, spre centrul orașului.",
-            "en": "Despite the rain, we start by bike at the church. The streets are emptier but more slippery. The Railway Museum offers the first long break in the dry.\r\nAt noon, we cycle through puddles to the Villatehdas district, where the industrial atmosphere is particularly striking in the rain.\r\nIn the afternoon, we visit the Art Museum before ending the day in Sveitsi Nature Park, where the forest canopy offers some protection.\r\nThe evening ends with a refreshing, albeit wet, ride back to the city center."
+            "en": "Despite the rain, we start by bike at the church. The streets are emptier but more slippery. The Railway Museum offers the first long break in the dry.\r\nAt noon, we cycle through puddles to the Villatehdas district, where the industrial atmosphere is particularly striking in the rain.\r\nIn the afternoon, we visit the Art Museum before ending the day in Sveitsi Nature Park, where the forest canopy offers some protection.\r\nThe evening ends with a refreshing, albeit wet, ride back to the city center.",
+            "fi": "Sateesta huolimatta aloitamme pyöräillen kirkolta. Kadut ovat tyhjempiä mutta liukkaampia. Rautatiemuseo tarjoaa ensimmäisen pitkän tauon kuivassa.\r\nKeskipäivällä pyöräilemme lätäköiden läpi Villatehtaan alueelle, missä teollinen ilmaisu korostuu sateessa.\r\nIltapäivällä vierailemme Taidemuseossa ennen päivän päättymistä Sveitsin luontopuistossa, jossa metsän latvusto tarjoaa jonkin verran suojaa.\r\nIlta päättyy virkistävään, vaikkakin märkään, paluupyöräilyyn keskustaan."
           },
           "stops": [
             {
@@ -744,7 +793,8 @@
                 "de": "Nutzen Sie den überdachten Eingangsbereich zum Parken der Räder.",
                 "hu": "Használja a fedett bejáratot a kerékpárok leparkolásához.",
                 "ro": "Folosiți zona de intrare acoperită pentru a parca bicicletele.",
-                "en": "Use the covered entrance area to park the bikes."
+                "en": "Use the covered entrance area to park the bikes.",
+                "fi": "Käytä katettua sisäänkäyntiä pyörien pysäköintiin."
               }
             },
             {
@@ -753,7 +803,8 @@
                 "de": "Vermeiden Sie das Fahren auf nassen Schienen im Außenbereich.",
                 "hu": "Kerülje a nedves síneken való tekerést a kültéri területen.",
                 "ro": "Evitați mersul pe șinele ude în zona exterioară.",
-                "en": "Avoid riding on wet rails in the outdoor area."
+                "en": "Avoid riding on wet rails in the outdoor area.",
+                "fi": "Vältä pyöräilyä märillä kiskoilla ulkoalueella."
               }
             },
             {
@@ -762,7 +813,8 @@
                 "de": "Kopfsteinpflaster kann bei Nässe sehr rutschig sein.",
                 "hu": "A macskaköves út esőben nagyon csúszós lehet.",
                 "ro": "Pavajul cu piatră cubică poate fi foarte alunecos pe ploaie.",
-                "en": "Cobblestones can be very slippery when wet."
+                "en": "Cobblestones can be very slippery when wet.",
+                "fi": "Kivikivet voivat olla erittäin liukkaita märkinä."
               }
             },
             {
@@ -771,7 +823,8 @@
                 "de": "Fahrradständer befinden sich direkt vor dem Eingang.",
                 "hu": "A kerékpártárolók közvetlenül a bejárat előtt találhatók.",
                 "ro": "Suporturile de biciclete se află chiar în fața intrării.",
-                "en": "Bike racks are located right in front of the entrance."
+                "en": "Bike racks are located right in front of the entrance.",
+                "fi": "Pyörätelineet sijaitsevat aivan sisäänkäynnin edessä."
               }
             },
             {
@@ -780,7 +833,8 @@
                 "de": "Achten Sie auf Schlamm auf den unbefestigten Waldwegen.",
                 "hu": "Ügyeljen a sárra a ki nem épített erdei utakon.",
                 "ro": "Atenție la noroi pe potecile neasfaltate din pădure.",
-                "en": "Watch out for mud on the unpaved forest paths."
+                "en": "Watch out for mud on the unpaved forest paths.",
+                "fi": "Varo mutaa soraamattomilla metsäteillä."
               }
             }
           ],
@@ -808,6 +862,12 @@
               "Avoid sharp braking on wet road markings.",
               "Sveitsi Park has paved paths that are safer in the rain.",
               "Bike lights are advisable even during the day in gloomy rainy weather."
+            ],
+            "fi": [
+              "Hyvät lokasuojat ovat välttämättömät sateella Hyvinkäällä.",
+              "Vältä jyrkkää jarrutusta märillä ajoraitamerkinnöillä.",
+              "Sveitsin poluilla on asfaltoidut reitit, jotka ovat turvallisempia sateella.",
+              "Pyörävalot ovat suositeltavia myös päivällä synkässä sadeilmassa."
             ]
           }
         },
@@ -816,7 +876,8 @@
             "de": "Winter-Biking in Finnland ist ein Erlebnis. Mit Spikereifen starten wir an der Kirche und radeln durch den knirschenden Schnee zum Eisenbahnmuseum.\r\nMittags erreichen wir den Villatehdas-Komplex; die Fahrt durch die klare, kalte Luft weckt alle Geister.\r\nNachmittags wärmen wir uns im Kunstmuseum auf, bevor wir die verschneiten Wege des Sveitsi-Naturparks erkunden.\r\nDer Abend endet früh mit der Dämmerung, die die Stadt in ein blaues Licht taucht, während wir zum Startpunkt zurückkehren.",
             "hu": "A téli kerékpározás Finnországban igazi élmény. Szöges gumikkal indulunk a templomtól, és a ropogós havon át tekerünk a Vasúttörténeti Múzeumhoz.\r\nDélben érjük el a Villatehdas komplexumot; a friss, hideg levegőn való tekerés teljesen felfrissít.\r\nDélután a Művészeti Múzeumban melegszünk fel, majd a Sveitsi natúrpark havas ösvényeit fedezzük fel.\r\nAz este korán érkezik a szürkülettel, amely kék fénybe vonja a várost, miközben visszatérünk a kiindulópontra.",
             "ro": "Ciclismul de iarnă în Finlanda este o experiență deosebită. Cu anvelope cu ținte, pornim de la biserică și pedalăm prin zăpada scârțâitoare spre Muzeul Căilor Ferate.\r\nLa prânz ajungem la complexul Villatehdas; plimbarea prin aerul rece și curat trezește toate simțurile.\r\nDupă-amiaza ne încălzim în Muzeul de Artă înainte de a explora potecile înzăpezite din Parcul Natural Sveitsi.\r\nSeara se încheie devreme cu amurgul care scaldă orașul într-o lumină albastră, în timp ce ne întoarcem la punctul de plecare.",
-            "en": "Winter biking in Finland is an experience. With studded tires, we start at the church and cycle through the crunching snow to the Railway Museum.\r\nAt noon, we reach the Villatehdas complex; the ride through the crisp, cold air awakens all spirits.\r\nIn the afternoon, we warm up in the Art Museum before exploring the snowy paths of Sveitsi Nature Park.\r\nThe evening ends early with the twilight bathing the city in blue light as we return to the starting point."
+            "en": "Winter biking in Finland is an experience. With studded tires, we start at the church and cycle through the crunching snow to the Railway Museum.\r\nAt noon, we reach the Villatehdas complex; the ride through the crisp, cold air awakens all spirits.\r\nIn the afternoon, we warm up in the Art Museum before exploring the snowy paths of Sveitsi Nature Park.\r\nThe evening ends early with the twilight bathing the city in blue light as we return to the starting point.",
+            "fi": "Talvipyöräily Suomessa on elämys. Nastarenkailla aloitamme kirkolta ja poljemme narskuvan lumen läpi Rautatiemuseolle.\r\nKeskipäivällä saavutamme Villatehtaan kokonaisuuden; ajelu kirpeässä, kylmässä ilmassa herättää mielen.\r\nIltapäivällä lämmittelemme Taidemuseossa ennen Sveitsin lumisten polkujen tutkimista.\r\nIlta päättyy varhain siniseen hämärään, kun palaamme lähtöpisteeseen."
           },
           "stops": [
             {
@@ -825,7 +886,8 @@
                 "de": "Vorsicht vor Schneehaufen auf den Parkplätzen.",
                 "hu": "Vigyázzon a parkolókban felhalmozott hókupacokra.",
                 "ro": "Atenție la mormanele de zăpadă din parcări.",
-                "en": "Watch out for snow piles in the parking lots."
+                "en": "Watch out for snow piles in the parking lots.",
+                "fi": "Varo lumivallien muodostumista parkkipaikoilla."
               }
             },
             {
@@ -834,7 +896,8 @@
                 "de": "Die Wege zwischen den Gebäuden sind meist geräumt, aber eisig.",
                 "hu": "Az épületek közötti utak többnyire le vannak takarítva, de jegesek.",
                 "ro": "Drumurile dintre clădiri sunt de obicei curățate, dar înghețate.",
-                "en": "The paths between buildings are mostly cleared but icy."
+                "en": "The paths between buildings are mostly cleared but icy.",
+                "fi": "Rakennusten väliset polut on pääosin aurattu mutta liukkaita."
               }
             },
             {
@@ -843,7 +906,8 @@
                 "de": "Schnee kann die Orientierung auf dem großen Gelände erschweren.",
                 "hu": "A hó megnehezítheti a tájékozódást a nagy területen.",
                 "ro": "Zăpada poate îngreuna orientarea pe terenul vast.",
-                "en": "Snow can make orientation difficult on the large grounds."
+                "en": "Snow can make orientation difficult on the large grounds.",
+                "fi": "Lumi voi vaikeuttaa suuntaa suurilla alueilla."
               }
             },
             {
@@ -852,7 +916,8 @@
                 "de": "Nutzen Sie den kurzen Stopp zum Aufwärmen der Finger.",
                 "hu": "Használja ki a rövid megállót az ujjai felmelegítésére.",
                 "ro": "Folosiți oprirea scurtă pentru a vă încălzi degetele.",
-                "en": "Use the short stop to warm up your fingers."
+                "en": "Use the short stop to warm up your fingers.",
+                "fi": "Pidä lyhyt pysähdys lämmittääksesi sormesi."
               }
             },
             {
@@ -861,7 +926,8 @@
                 "de": "Achten Sie auf Langlaufloipen; Radfahren ist dort untersagt.",
                 "hu": "Ügyeljen a sífutó utakra; ott tilos kerékpározni.",
                 "ro": "Atenție la pistele de schi fond; ciclismul este interzis acolo.",
-                "en": "Watch out for cross-country ski tracks; cycling is prohibited there."
+                "en": "Watch out for cross-country ski tracks; cycling is prohibited there.",
+                "fi": "Varo hiihtouria; maastopyöräily on niillä kielletty."
               }
             }
           ],
@@ -889,6 +955,12 @@
               "Battery lights drain faster in the cold; bring spares.",
               "Warm, windproof gloves and face protection are essential.",
               "Twilight sets in early, good lighting is vital."
+            ],
+            "fi": [
+              "Nastarengas on erittäin suositeltava jäisillä pyöräteillä.",
+              "Paristokäyttöiset valot kuluttavat virtaa nopeammin kylmässä; ota vara-akut.",
+              "Lämpimät, tuulenpitävät hanskat ja kasvosuoja ovat välttämättömiä.",
+              "Hämärä laskeutuu aikaisin, hyvä valaistus on tärkeää."
             ]
           }
         }
@@ -918,7 +990,8 @@
             "de": "Parken Sie hier zentral und erkunden Sie das Areal zu Fuß.",
             "hu": "Parkoljon le itt a központban, és fedezze fel a környéket gyalogosan.",
             "ro": "Parcați aici central și explorați zona pe jos.",
-            "en": "Park here centrally and explore the area on foot."
+            "en": "Park here centrally and explore the area on foot.",
+            "fi": "Pysäköi tänne keskeisesti ja tutustu alueeseen jalkaisin."
           }
         },
         {
@@ -937,7 +1010,8 @@
             "de": "Das Museum ist fußläufig vom Fabrikgelände aus zu erreichen.",
             "hu": "A múzeum sétatávolságra van a gyárterülettől.",
             "ro": "Muzeul se află la distanță de mers pe jos de fosta fabrică.",
-            "en": "The museum is within walking distance from the factory grounds."
+            "en": "The museum is within walking distance from the factory grounds.",
+            "fi": "Museo on kävelyetäisyydellä tehdasalueelta."
           }
         },
         {
@@ -956,7 +1030,8 @@
             "de": "Der Spaziergang zur Kirche bietet einen schönen Blick auf die Architektur.",
             "hu": "A templomhoz vezető séta során gyönyörű kilátás nyílik az építészetre.",
             "ro": "Plimbarea spre biserică oferă o vedere frumoasă asupra arhitecturii.",
-            "en": "The walk to the church offers a beautiful view of the architecture."
+            "en": "The walk to the church offers a beautiful view of the architecture.",
+            "fi": "Kävely kirkolle tarjoaa kauniin näkymän arkkitehtuuriin."
           }
         },
         {
@@ -975,7 +1050,8 @@
             "de": "Ausreichend kostenlose Parkplätze stehen für Museumsbesucher bereit.",
             "hu": "Bőséges ingyenes parkolóhely áll rendelkezésre a múzeum látogatói számára.",
             "ro": "Există o parcare gratuită generoasă pentru vizitatorii muzeului.",
-            "en": "Ample free parking is available for museum visitors."
+            "en": "Ample free parking is available for museum visitors.",
+            "fi": "Museovieraiden käytössä on runsaasti ilmaista pysäköintiä."
           }
         },
         {
@@ -994,7 +1070,8 @@
             "de": "Parken Sie am Hoteleingang für den besten Zugang zu den Wanderwegen.",
             "hu": "Parkoljon a szálloda bejáratánál, hogy a legkönnyebben elérje a túraútvonalakat.",
             "ro": "Parcați la intrarea hotelului pentru cel mai bun acces la traseele de drumeție.",
-            "en": "Park at the hotel entrance for the best access to the hiking trails."
+            "en": "Park at the hotel entrance for the best access to the hiking trails.",
+            "fi": "Pysäköi hotellin sisäänkäynnin kohdalle parhaiten pääsyä vaellusreiteille varten."
           }
         },
         {
@@ -1013,7 +1090,8 @@
             "de": "Eine kurze Autofahrt bringt Sie zu diesem idyllischen Outdoor-Paradies.",
             "hu": "Egy rövid autóút elviszi ebbe az idilli szabadtéri paradicsomba.",
             "ro": "O scurtă plimbare cu mașina vă duce la acest paradis idilic în aer liber.",
-            "en": "A short drive takes you to this idyllic outdoor paradise."
+            "en": "A short drive takes you to this idyllic outdoor paradise.",
+            "fi": "Lyhyt ajomatka vie sinut tähän idylliseen ulkoiluparatiisiin."
           }
         }
       ],
@@ -1021,7 +1099,8 @@
         "de": "Wir parken zentral an der Villatehdas und erkunden den ersten Kultur-Cluster inklusive Kunstmuseum und Kirche zu Fuß. Danach fahren wir das kurze Stück zum Eisenbahnmuseum. Am Nachmittag lockt die Natur: Zuerst der Sveitsi-Park, bevor uns eine kurze Fahrt ins Seengebiet Kytäjä-Usmi führt, wo wir den Tag ausklingen lassen.",
         "hu": "A Villatehdasnál parkolunk le a központban, és gyalogosan fedezzük fel az első kulturális klasztert, benne a művészeti múzeummal és a templommal. Ezután a közeli vasútmúzeumhoz hajtunk. Délután a természet csábít: először a Sveitsi park, majd egy rövid autózás után a Kytäjä-Usmi tóvidéken zárjuk a napot.",
         "ro": "Parcăm central la Villatehdas și explorăm pe jos primul cluster cultural, incluzând muzeul de artă și biserica. Apoi conducem scurt până la muzeul feroviar. După-amiaza natura ne cheamă: mai întâi Parcul Sveitsi, înainte ca o scurtă plimbare să ne ducă în regiunea lacurilor Kytäjä-Usmi, unde încheiem ziua.",
-        "en": "We park centrally at Villatehdas and explore the first cultural cluster including the art museum and church on foot. Then we drive the short distance to the railway museum. In the afternoon, nature beckons: first the Sveitsi Park, before a short drive takes us to the Kytäjä-Usmi lake area, where we end the day."
+        "en": "We park centrally at Villatehdas and explore the first cultural cluster including the art museum and church on foot. Then we drive the short distance to the railway museum. In the afternoon, nature beckons: first the Sveitsi Park, before a short drive takes us to the Kytäjä-Usmi lake area, where we end the day.",
+        "fi": "Pysäköimme keskelle Villatehtaalle ja tutkimme ensimmäisen kulttuuriklustereista jalkaisin, mukaan lukien taidemuseo ja kirkko. Sitten ajo lyhyen matkan päässä rautatiemuseolle. Iltapäivällä luonto kutsuu: ensin Sveitsin puisto, jonka jälkeen lyhyt ajomatka Kytäjä-Usmin järvialueelle, missä päätämme päivän."
       },
       "gastro_picks": {
         "de": [
@@ -1181,6 +1260,12 @@
           "The roads to Kytäjä-Usmi can be narrow and winding.",
           "Watch out for wildlife at dusk, especially moose.",
           "Parking at the museums is often free, but a parking disc may be mandatory."
+        ],
+        "fi": [
+          "Suomessa kaukovalot pitää käyttää ajoneuvon ajovalojen sijaan päivisinkin tarkoitetun matalavaloasetuksen mukaisesti.",
+          "Tiet Kytäjä-Usmiin voivat olla kapeita ja mutkaisia.",
+          "Varo eläimiä hämärässä, erityisesti hirviä.",
+          "Museoiden pysäköinti on usein ilmaista, mutta pysäköintikiekko voi olla pakollinen."
         ]
       },
       "variants": {
@@ -1189,7 +1274,8 @@
             "de": "Im bequemen Auto starten wir am Villatehdas, während der Regen gegen die Scheiben trommelt. Die Fahrt zum Kunstmuseum ist kurz und trocken.\r\nMittags besuchen wir die Kirche, deren Silhouette im Regen besonders dramatisch wirkt, bevor wir zum Eisenbahnmuseum weiterfahren.\r\nNachmittags führt uns die Route zum Sveitsi-Naturpark, wo wir vom Parkplatz aus einen kurzen Spaziergang im Wald wagen.\r\nDer Abend endet mit einer Fahrt ins ländliche Kytäjä-Usmi, wo die nebligen Felder im Regen eine mystische Atmosphäre ausstrahlen.",
             "hu": "Kényelmes autóval indulunk a Villatehdasnál, miközben az eső kopog a szélvédőn. Az út a Művészeti Múzeumhoz rövid és száraz.\r\nDélben a templomot keressük fel, melynek sziluettje esőben különösen drámai, majd továbbhajtunk a Vasúttörténeti Múzeumhoz.\r\nDélután az utunk a Sveitsi natúrparkba vezet, ahol a parkolóból egy rövid erdei sétára indulunk.\r\nAz este a vidéki Kytäjä-Usmi felé zárul, ahol a ködös mezők az esőben misztikus hangulatot árasztanak.",
             "ro": "Pornim cu mașina confortabilă de la Villatehdas, în timp ce ploaia bate în parbriz. Drumul către Muzeul de Artă este scurt și uscat.\r\nLa prânz vizităm biserica, a cărei siluetă pare deosebit de dramatică pe ploaie, înainte de a continua spre Muzeul Căilor Ferate.\r\nDupă-amiaza, traseul ne duce la Parcul Natural Sveitsi, unde ne aventurăm la o scurtă plimbare în pădure de la parcare.\r\nSeara se încheie cu un drum spre zona rurală Kytäjä-Usmi, unde câmpurile cețoase pe ploaie emană o atmosferă mistică.",
-            "en": "In a comfortable car, we start at Villatehdas while rain drums against the windows. The drive to the Art Museum is short and dry.\r\nAt noon, we visit the church, whose silhouette looks particularly dramatic in the rain, before driving on to the Railway Museum.\r\nIn the afternoon, the route takes us to Sveitsi Nature Park, where we venture a short walk in the forest from the parking lot.\r\nThe evening ends with a drive to rural Kytäjä-Usmi, where the misty fields in the rain radiate a mystical atmosphere."
+            "en": "In a comfortable car, we start at Villatehdas while rain drums against the windows. The drive to the Art Museum is short and dry.\r\nAt noon, we visit the church, whose silhouette looks particularly dramatic in the rain, before driving on to the Railway Museum.\r\nIn the afternoon, the route takes us to Sveitsi Nature Park, where we venture a short walk in the forest from the parking lot.\r\nThe evening ends with a drive to rural Kytäjä-Usmi, where the misty fields in the rain radiate a mystical atmosphere.",
+            "fi": "Mukavassa autossa aloitamme Villatehtaalta kun sade rummuttaa ikkunoita. Ajomatka Taidemuseolle on lyhyt ja kuiva.\r\nKeskipäivällä vierailemme kirkossa, jonka siluetti näyttää erityisen dramaattiselta sateessa, ennen ajoa Rautatiemuseolle.\r\nIltapäivällä reitti vie meidät Sveitsin luontopuistoon, jossa teemme pienen kävelyn metsästä parkkipaikalta.\r\nIlta päättyy ajeluun maaseudun Kytäjä-Usmiin, jossa usvaiset pellot sateessa luovat mystisen tunnelman."
           },
           "stops": [
             {
@@ -1198,7 +1284,8 @@
                 "de": "Kostenlose Parkplätze befinden sich direkt am Fabrikgelände.",
                 "hu": "Ingyenes parkolóhelyek találhatók közvetlenül a gyár területénél.",
                 "ro": "Parcare gratuită disponibilă chiar lângă zona fabricii.",
-                "en": "Free parking is available right by the factory area."
+                "en": "Free parking is available right by the factory area.",
+                "fi": "Ilmainen pysäköinti löytyy suoraan tehdasalueen vierestä."
               }
             },
             {
@@ -1207,7 +1294,8 @@
                 "de": "Parkhaus in der Nähe nutzen, um trocken ins Gebäude zu gelangen.",
                 "hu": "Használja a közeli parkolóházat, hogy szárazon jusson az épületbe.",
                 "ro": "Folosiți parcarea acoperită din apropiere pentru a ajunge uscat în clădire.",
-                "en": "Use a nearby parking garage to get to the building dryly."
+                "en": "Use a nearby parking garage to get to the building dryly.",
+                "fi": "Käytä lähistöllä olevaa parkkihallia päästäksesi rakennukseen kuivasti."
               }
             },
             {
@@ -1216,7 +1304,8 @@
                 "de": "Vom Parkplatz sind es nur wenige Schritte bis zum Eingang.",
                 "hu": "A parkolótól csak pár lépés a bejárat.",
                 "ro": "Sunt doar câțiva pași de la parcare până la intrare.",
-                "en": "It's just a few steps from the parking lot to the entrance."
+                "en": "It's just a few steps from the parking lot to the entrance.",
+                "fi": "Parkkipaikalta on vain muutama askel sisäänkäynnille."
               }
             },
             {
@@ -1225,7 +1314,8 @@
                 "de": "Großer Parkplatz vorhanden; ideal bei Regen.",
                 "hu": "Nagy parkoló áll rendelkezésre; ideális esőben.",
                 "ro": "Parcare mare disponibilă; ideală pe ploaie.",
-                "en": "Large parking lot available; ideal when it rains."
+                "en": "Large parking lot available; ideal when it rains.",
+                "fi": "Suuri pysäköintialue saatavilla; ihanteellinen sateella."
               }
             },
             {
@@ -1234,7 +1324,8 @@
                 "de": "Das Hotel Sveitsi bietet Parkmöglichkeiten direkt am Parkeingang.",
                 "hu": "A Hotel Sveitsi parkolási lehetőséget kínál közvetlenül a park bejáratánál.",
                 "ro": "Hotelul Sveitsi oferă locuri de parcare chiar la intrarea în parc.",
-                "en": "Hotel Sveitsi offers parking right at the park entrance."
+                "en": "Hotel Sveitsi offers parking right at the park entrance.",
+                "fi": "Hotel Sveitsi tarjoaa pysäköintiä suoraan puiston sisäänkäynnin luona."
               }
             },
             {
@@ -1243,7 +1334,8 @@
                 "de": "Fahren Sie vorsichtig auf den schmalen, kurvigen Landstraßen bei Nässe.",
                 "hu": "Vezessen óvatosan a szűk, kanyargós országutakon esőben.",
                 "ro": "Conduceți cu prudență pe drumurile rurale înguste și virajate pe ploaie.",
-                "en": "Drive carefully on narrow, winding country roads when wet."
+                "en": "Drive carefully on narrow, winding country roads when wet.",
+                "fi": "Aja varovaisesti kapeilla, mutkaisilla maanteillä märällä kelillä."
               }
             }
           ],
@@ -1271,6 +1363,12 @@
               "Parking in the center is usually easy even in the rain.",
               "Keep the window heater ready to prevent fogging.",
               "Kytäjä-Usmi is best reached by car, especially in bad weather."
+            ],
+            "fi": [
+              "Varo vesiliirtoa moottoritiellä E12 Hyvinkäälle ajettaessa.",
+              "Pysäköinti keskustassa on yleensä helppoa myös sateella.",
+              "Pidä ikkunanlämmitin valmiina huurteen estämiseksi.",
+              "Kytäjä-Usmiin pääsee parhaiten autolla, erityisesti huonolla säällä."
             ]
           }
         },
@@ -1279,7 +1377,8 @@
             "de": "Ein winterlicher Roadtrip beginnt am Villatehdas. Die Straßen sind gut geräumt, aber Vorsicht vor Glatteis ist geboten.\r\nMittags besuchen wir das Kunstmuseum und die markante Kirche, die im strahlenden Weiß der Winterlandschaft thront.\r\nNachmittags geht es zum Eisenbahnmuseum, wo die Züge wie aus einem Wintermärchen wirken, bevor wir zum Sveitsi-Naturpark fahren.\r\nDer Abend gipfelt in einer Fahrt durch die verschneiten Wälder von Kytäjä-Usmi, wo die Abgeschiedenheit im Winter besonders spürbar ist.",
             "hu": "Téli autós kirándulás indul a Villatehdasnál. Az utak jól tisztítottak, de a jegesedésre ügyelni kell.\r\nDélben a Művészeti Múzeumot és a jellegzetes templomot látogatjuk meg, amely fehéren trónol a téli tájban.\r\nDélután a Vasúttörténeti Múzeumba megyünk, ahol a vonatok mintha egy téli meséből léptek volna elő.\r\nAz este a Kytäjä-Usmi havas erdőin át vezető autózással zárul, ahol a téli elszigeteltség különösen érezhető.",
             "ro": "O excursie auto de iarnă începe la Villatehdas. Drumurile sunt bine curățate, dar atenția la polei este necesară.\r\nLa prânz vizităm Muzeul de Artă și biserica emblematică, ce tronează în albul strălucitor al peisajului hibernal.\r\nDupă-amiaza mergem la Muzeul Căilor Ferate, unde trenurile par desprinse dintr-un basm de iarnă, înainte de a merge spre Sveitsi.\r\nSeara culminează cu un drum prin pădurile înzăpezite din Kytäjä-Usmi, unde izolarea iernii este deosebit de resimțită.",
-            "en": "A winter road trip begins at Villatehdas. The roads are well-cleared, but caution against black ice is advised.\r\nAt noon, we visit the Art Museum and the striking church, reigning in the brilliant white of the winter landscape.\r\nIn the afternoon, we head to the Railway Museum, where the trains look like they're from a winter fairy tale, before driving to Sveitsi.\r\nThe evening culminates in a drive through the snowy forests of Kytäjä-Usmi, where winter's seclusion is particularly palpable."
+            "en": "A winter road trip begins at Villatehdas. The roads are well-cleared, but caution against black ice is advised.\r\nAt noon, we visit the Art Museum and the striking church, reigning in the brilliant white of the winter landscape.\r\nIn the afternoon, we head to the Railway Museum, where the trains look like they're from a winter fairy tale, before driving to Sveitsi.\r\nThe evening culminates in a drive through the snowy forests of Kytäjä-Usmi, where winter's seclusion is particularly palpable.",
+            "fi": "Talviajo alkaa Villatehtaalta. Tiet ovat hyvin aurattuja, mutta mustaan jäähän on syytä varautua.\r\nKeskipäivällä vierailemme Taidemuseossa ja vaikuttavassa kirkossa, jotka hallitsevat kirkkaassa talvimaisemassa.\r\nIltapäivällä suuntaamme Rautatiemuseoon, jossa junat näyttävät talviselta satumaalta, ennen ajoa Sveitsiin.\r\nIlta huipentuu ajeluun Kytäjä-Usmin lumisten metsien läpi, missä talven eristäytyneisyys tuntuu erityisen vahvasti."
           },
           "stops": [
             {
@@ -1288,7 +1387,8 @@
                 "de": "Achten Sie auf Schneewälle beim Einparken.",
                 "hu": "Ügyeljen a hófalakra parkoláskor.",
                 "ro": "Atenție la dâmburile de zăpadă când parcați.",
-                "en": "Watch out for snow banks when parking."
+                "en": "Watch out for snow banks when parking.",
+                "fi": "Varo lumivalleja pysäköidessäsi."
               }
             },
             {
@@ -1297,7 +1397,8 @@
                 "de": "Die Parkplätze in der Nähe werden schnell geräumt.",
                 "hu": "A közeli parkolókat gyorsan letakarítják.",
                 "ro": "Parcările din apropiere sunt curățate rapid.",
-                "en": "Nearby parking lots are cleared quickly."
+                "en": "Nearby parking lots are cleared quickly.",
+                "fi": "Lähipysäköintialueet aurataan nopeasti."
               }
             },
             {
@@ -1306,7 +1407,8 @@
                 "de": "Vorsicht vor herabfallendem Schnee von den Kirchendächern.",
                 "hu": "Vigyázzon a templomtetőről lezúduló hóra.",
                 "ro": "Atenție la zăpada care poate cădea de pe acoperișul bisericii.",
-                "en": "Beware of falling snow from the church roofs."
+                "en": "Beware of falling snow from the church roofs.",
+                "fi": "Varo putoavaa lunta kirkon katoilta."
               }
             },
             {
@@ -1315,7 +1417,8 @@
                 "de": "Der Parkplatz kann bei starkem Schneefall eng werden.",
                 "hu": "A parkoló szűkös lehet erős havazáskor.",
                 "ro": "Parcarea poate deveni strâmtă în caz de ninsoare abundentă.",
-                "en": "The parking lot can get tight during heavy snowfall."
+                "en": "The parking lot can get tight during heavy snowfall.",
+                "fi": "Pysäköintialue voi täyttyä voimakkaassa lumisateessa."
               }
             },
             {
@@ -1324,7 +1427,8 @@
                 "de": "Gute Winterreifen sind für die Steigung zum Sveitsi-Hügel nötig.",
                 "hu": "Jó téli gumi szükséges a Sveitsi-dombra való feljutáshoz.",
                 "ro": "Anvelopele de iarnă bune sunt necesare pentru panta spre dealul Sveitsi.",
-                "en": "Good winter tires are necessary for the climb to Sveitsi hill."
+                "en": "Good winter tires are necessary for the climb to Sveitsi hill.",
+                "fi": "Hyvät talvirenkaat ovat tarpeen nousua Sveitsin kukkulalle varten."
               }
             },
             {
@@ -1333,7 +1437,8 @@
                 "de": "Einige Forstwege sind im Winter eventuell nicht geräumt.",
                 "hu": "Néhány erdei út télen esetleg nincs letakarítva.",
                 "ro": "Unele drumuri forestiere s-ar putea să nu fie curățate iarna.",
-                "en": "Some forest roads may not be cleared in winter."
+                "en": "Some forest roads may not be cleared in winter.",
+                "fi": "Jotkin metsäautotiet eivät välttämättä ole aurattuja talvella."
               }
             }
           ],
@@ -1361,6 +1466,12 @@
               "Refill your windshield washer fluid with antifreeze.",
               "Avoid parking under trees due to the risk of falling branches from snow load.",
               "Plan more time for driving as visibility is poorer in the dark."
+            ],
+            "fi": [
+              "Talvirenkaat ovat laissa pakolliset ja tarpeelliset Suomessa.",
+              "Täytä tuulilasinpesunestetankki pakkasnesteellä.",
+              "Vältä pysäköintiä puiden alle, koska lumikuorma voi katkoa oksia.",
+              "Varaa enemmän aikaa ajamiseen, sillä näkyvyys on pimeällä heikompi."
             ]
           }
         }
@@ -1390,7 +1501,8 @@
             "de": "Vom Bahnhof aus schnell zu Fuß erreichbar.",
             "hu": "Az állomásról egy rövid sétával könnyen elérhető.",
             "ro": "Ușor accesibil pe jos de la gară.",
-            "en": "Easily accessible on foot from the station."
+            "en": "Easily accessible on foot from the station.",
+            "fi": "Helposti saavutettavissa jalkaisin asemalta."
           }
         },
         {
@@ -1409,7 +1521,8 @@
             "de": "Das Zentrum ist sehr fußgängerfreundlich, ideal für diesen Cluster.",
             "hu": "A központ nagyon gyalogosbarát, ideális ehhez a csoporthoz.",
             "ro": "Centrul este foarte prietenos cu pietonii, ideal pentru acest grup.",
-            "en": "The center is very pedestrian-friendly, ideal for this cluster."
+            "en": "The center is very pedestrian-friendly, ideal for this cluster.",
+            "fi": "Keskusta on hyvin kävelyystävällinen, ihanteellinen tälle alueelle."
           }
         },
         {
@@ -1428,7 +1541,8 @@
             "de": "Nur wenige Schritte von der Wollfabrik entfernt.",
             "hu": "Csak néhány lépésre a gyapjúgyártól.",
             "ro": "La doar câțiva pași de fabrica de lână.",
-            "en": "Just a few steps from the wool factory."
+            "en": "Just a few steps from the wool factory.",
+            "fi": "Vain muutaman askeleen päässä villatehtaalta."
           }
         },
         {
@@ -1447,7 +1561,8 @@
             "de": "Nehmen Sie den lokalen Bus vom Zentrum direkt zum Museum.",
             "hu": "Szálljon fel a helyi buszra a központban, amely egyenesen a múzeumhoz viszi.",
             "ro": "Luați autobuzul local din centru direct către muzeu.",
-            "en": "Take the local bus from the center straight to the museum."
+            "en": "Take the local bus from the center straight to the museum.",
+            "fi": "Ota paikallisbussi keskustasta suoraan museolle."
           }
         },
         {
@@ -1466,7 +1581,8 @@
             "de": "Eine kurze Busfahrt bringt Sie in die Natur.",
             "hu": "Egy rövid buszút kiviszi a természetbe.",
             "ro": "O scurtă călătorie cu autobuzul vă duce în natură.",
-            "en": "A short bus ride takes you out into nature."
+            "en": "A short bus ride takes you out into nature.",
+            "fi": "Lyhyt bussimatka vie luonnon keskelle."
           }
         }
       ],
@@ -1474,7 +1590,8 @@
         "de": "Wir beginnen den Tag zu Fuß im zentralen Cluster bei der Kirche und der historischen Villatehdas mit dem Kunstmuseum. Am Mittag nutzen wir den lokalen Nahverkehr, um bequem zum Eisenbahnmuseum zu gelangen. Eine weitere kurze Busfahrt bringt uns am Nachmittag in den Sveitsi-Naturpark für einen erholsamen Spaziergang im Grünen.",
         "hu": "A napot gyalogosan kezdjük a központi klaszterben, a templomnál és a történelmi Villatehdasnál, valamint a művészeti múzeumnál. Délben a helyi tömegközlekedést használjuk, hogy kényelmesen eljussunk a vasútmúzeumhoz. Délután egy újabb rövid buszút visz a Sveitsi Natúrparkba egy pihentető erdei sétára.",
         "ro": "Începem ziua pe jos în clusterul central la biserică și istorica Villatehdas, alături de muzeul de artă. La prânz folosim transportul local pentru a ajunge confortabil la muzeul feroviar. O altă scurtă călătorie cu autobuzul ne duce după-amiaza în Parcul Natural Sveitsi pentru o plimbare relaxantă în verdeață.",
-        "en": "We start the day on foot in the central cluster at the church and the historic Villatehdas, along with the art museum. At midday, we use local public transport to travel comfortably to the railway museum. Another short bus ride takes us to Sveitsi Nature Park in the afternoon for a relaxing walk in the greenery."
+        "en": "We start the day on foot in the central cluster at the church and the historic Villatehdas, along with the art museum. At midday, we use local public transport to travel comfortably to the railway museum. Another short bus ride takes us to Sveitsi Nature Park in the afternoon for a relaxing walk in the greenery.",
+        "fi": "Aloitamme päivän kävellen keskusta-alueella kirkolta ja historialliselta Villatehtaalta sekä taidemuseosta. Puolessa välissä päivää käytämme paikallisliikennettä mukavasti rautatiemuseelle. Vielä yksi lyhyt bussimatka vie iltapäivällä Sveitsin luontopuistoon rentouttavalle metsäkävelylle."
       },
       "gastro_picks": {
         "de": [
@@ -1634,6 +1751,12 @@
           "Buses in Hyvinkää run less frequently on weekends.",
           "Many attractions are so close together that you often won't need the bus.",
           "Day tickets are often cheaper if you plan more than 3 trips."
+        ],
+        "fi": [
+          "Lataa HSL-sovellus ajantasaisia aikatauluja ja lippuja varten.",
+          "Hyvinkään bussit liikennöivät harvemmin viikonloppuisin.",
+          "Monet nähtävyydet ovat niin lähellä toisiaan, että bussia ei usein tarvita.",
+          "Päiväliput ovat usein edullisempia, jos suunnittelet yli 3 matkaa."
         ]
       },
       "variants": {
@@ -1642,7 +1765,8 @@
             "de": "Mit dem Bus starten wir trocken an der Kirche. Die Fahrpläne sind verlässlich, und die Haltestellen bieten oft Schutz.\r\nMittags bringt uns der Transit zum Villatehdas, wo wir das historische Ambiente erkunden, ohne uns um das Parken im Regen zu sorgen.\r\nNachmittags besuchen wir das Kunstmuseum und das Eisenbahnmuseum, beide bequem per Bus erreichbar.\r\nDer Abend endet mit der Fahrt zum Sveitsi-Naturpark, wo wir die frische Waldluft nach dem Regen genießen.",
             "hu": "Busszal szárazon indulunk a templomtól. A menetrend megbízható, és a megállók gyakran fedettek.\r\nDélben a tömegközlekedés a Villatehdashoz visz minket, ahol a történelmi környezetet fedezzük fel, anélkül hogy a parkolás miatt aggódnánk az esőben.\r\nDélután a Művészeti Múzeumot és a Vasúttörténeti Múzeumot látogatjuk meg, mindkettő könnyen elérhető busszal.\r\nAz este a Sveitsi natúrparkba vezető úttal zárul, ahol élvezzük az eső utáni friss erdei levegőt.",
             "ro": "Pornim cu autobuzul de la biserică, stând la uscat. Orarele sunt de încredere, iar stațiile oferă adesea adăpost.\r\nLa prânz, transportul public ne duce la Villatehdas, unde explorăm ambianța istorică fără să ne facem griji pentru parcare pe ploaie.\r\nDupă-amiaza vizităm Muzeul de Artă și Muzeul Căilor Ferate, ambele accesibile convenabil cu autobuzul.\r\nSeara se încheie cu drumul spre Parcul Natural Sveitsi, unde ne bucurăm de aerul curat al pădurii după ploaie.",
-            "en": "We start dry by bus at the church. The schedules are reliable, and the stops often provide shelter.\r\nAt noon, transit takes us to Villatehdas, where we explore the historical ambience without worrying about parking in the rain.\r\nIn the afternoon, we visit the Art Museum and the Railway Museum, both conveniently accessible by bus.\r\nThe evening ends with a trip to Sveitsi Nature Park, where we enjoy the fresh forest air after the rain."
+            "en": "We start dry by bus at the church. The schedules are reliable, and the stops often provide shelter.\r\nAt noon, transit takes us to Villatehdas, where we explore the historical ambience without worrying about parking in the rain.\r\nIn the afternoon, we visit the Art Museum and the Railway Museum, both conveniently accessible by bus.\r\nThe evening ends with a trip to Sveitsi Nature Park, where we enjoy the fresh forest air after the rain.",
+            "fi": "Aloitamme kuivana bussilla kirkolta. Aikataulut ovat luotettavat ja pysäkit tarjoavat usein suojaa.\r\nKeskipäivällä matka vie Villatehtaalle, jossa tutkiskelemme historiallista tunnelmaa ilman huolta parkkipaikasta sateessa.\r\nIltapäivällä vierailemme Taidemuseossa ja Rautatiemuseossa, joihin molempiin pääsee kätevästi bussilla.\r\nIlta päättyy retkeen Sveitsin luontopuistoon, jossa nautimme sateen jälkeen raikkaasta metsäilmasta."
           },
           "stops": [
             {
@@ -1651,7 +1775,8 @@
                 "de": "Die Bushaltestelle befindet sich ganz in der Nähe der Kirche.",
                 "hu": "A buszmegálló egészen közel van a templomhoz.",
                 "ro": "Stația de autobuz este situată foarte aproape de biserică.",
-                "en": "The bus stop is located very close to the church."
+                "en": "The bus stop is located very close to the church.",
+                "fi": "Bussipysäkki sijaitsee aivan kirkon lähellä."
               }
             },
             {
@@ -1660,7 +1785,8 @@
                 "de": "Vom Bahnhof aus sind es nur wenige Minuten Fußweg zum Villatehdas.",
                 "hu": "Az állomástól csak pár perc séta a Villatehdas.",
                 "ro": "Sunt doar câteva minute de mers pe jos de la gară până la Villatehdas.",
-                "en": "It's just a few minutes' walk from the station to Villatehdas."
+                "en": "It's just a few minutes' walk from the station to Villatehdas.",
+                "fi": "Asemalta Villatehtaalle on vain muutaman minuutin kävely."
               }
             },
             {
@@ -1669,7 +1795,8 @@
                 "de": "Die Haltestellen im Zentrum sind meist überdacht.",
                 "hu": "A központban lévő megállók többnyire fedettek.",
                 "ro": "Stațiile din centru sunt de obicei acoperite.",
-                "en": "Stops in the center are mostly covered."
+                "en": "Stops in the center are mostly covered.",
+                "fi": "Keskustan pysäkit ovat suurelta osin katettuja."
               }
             },
             {
@@ -1678,7 +1805,8 @@
                 "de": "Prüfen Sie den Fußweg von der nächsten Bushaltestelle zum Museumseingang.",
                 "hu": "Ellenőrizze a gyalogutat a legközelebbi buszmegállótól a múzeum bejáratáig.",
                 "ro": "Verificați traseul pietonal de la cea mai apropiată stație de autobuz până la intrarea în muzeu.",
-                "en": "Check the walking route from the nearest bus stop to the museum entrance."
+                "en": "Check the walking route from the nearest bus stop to the museum entrance.",
+                "fi": "Tarkista kävelyreitti lähimmältä bussipysäkiltä museon sisäänkäynnille."
               }
             },
             {
@@ -1687,7 +1815,8 @@
                 "de": "Linienbusse fahren regelmäßig in Richtung Sveitsi.",
                 "hu": "A helyi buszok rendszeresen járnak Sveitsi irányába.",
                 "ro": "Autobuzele locale circulă regulat spre Sveitsi.",
-                "en": "Local buses run regularly towards Sveitsi."
+                "en": "Local buses run regularly towards Sveitsi.",
+                "fi": "Paikallisbussit ajavat säännöllisesti Sveitsin suuntaan."
               }
             }
           ],
@@ -1715,6 +1844,12 @@
               "Avoid waiting outside; use cafes near the stops.",
               "Trains from Helsinki to Hyvinkää are ideal for a dry arrival.",
               "Hyvinkää main station is a central hub for all destinations."
+            ],
+            "fi": [
+              "Paikallisliikennesovellus auttaa suunnittelussa sateella.",
+              "Vältä odottamista ulkona; käytä pysäkkien lähellä olevia kahviloita.",
+              "Junat Helsingistä Hyvinkäälle ovat hyvä vaihtoehto kuivalle saapumiselle.",
+              "Hyvinkään pääasema on keskeinen solmukohta kaikille kohteille."
             ]
           }
         },
@@ -1723,7 +1858,8 @@
             "de": "Im warmen Bus gleiten wir durch das verschneite Hyvinkää, startend an der Kirche. Die Fenster sind oft beschlagen, was die Fahrt gemütlich macht.\r\nMittags erreichen wir den Villatehdas-Komplex; der Transit ist die beste Wahl, um nicht im kalten Wind parken zu müssen.\r\nNachmittags besuchen wir das Kunstmuseum und das Eisenbahnmuseum, wobei wir die kurzen Wege zwischen Haltestelle und Museum genießen.\r\nDer Abend endet mit einer Busfahrt zum Sveitsi-Naturpark, wo wir die beleuchteten Loipen im Dunkeln bewundern.",
             "hu": "A meleg buszban ülve suhanunk át a havas Hyvinkää-n, a templomtól indulva. Az ablakok gyakran párásak, ami barátságossá teszi az utat.\r\nDélben érjük el a Villatehdas komplexumot; a tömegközlekedés a legjobb választás, hogy ne kelljen a hideg szélben parkolni.\r\nDélután a Művészeti Múzeumot és a Vasúttörténeti Múzeumot látogatjuk meg, élvezve a rövid sétákat a megállóktól.\r\nAz este a Sveitsi natúrparkba tartó buszozással zárul, ahol a kivilágított sípályákat csodáljuk a sötétben.",
             "ro": "În autobuzul călduros, alunecăm prin Hyvinkää înzăpezit, pornind de la biserică. Ferestrele sunt adesea aburite, ceea ce face călătoria primitoare.\r\nLa prânz ajungem la complexul Villatehdas; transportul public este cea mai bună alegere pentru a evita parcarea în vântul rece.\r\nDupă-amiaza vizităm Muzeul de Artă și Muzeul Căilor Ferate, bucurându-ne de drumurile scurte de la stații.\r\nSeara se încheie cu o călătorie spre Sveitsi, unde admirăm pârtiile iluminate în întuneric.",
-            "en": "In a warm bus, we glide through snowy Hyvinkää, starting at the church. The windows are often fogged, making the ride cozy.\r\nAt noon, we reach the Villatehdas complex; transit is the best choice to avoid parking in the cold wind.\r\nIn the afternoon, we visit the Art Museum and the Railway Museum, enjoying the short walks from the stops.\r\nThe evening ends with a bus ride to Sveitsi Nature Park, where we admire the lit ski tracks in the dark."
+            "en": "In a warm bus, we glide through snowy Hyvinkää, starting at the church. The windows are often fogged, making the ride cozy.\r\nAt noon, we reach the Villatehdas complex; transit is the best choice to avoid parking in the cold wind.\r\nIn the afternoon, we visit the Art Museum and the Railway Museum, enjoying the short walks from the stops.\r\nThe evening ends with a bus ride to Sveitsi Nature Park, where we admire the lit ski tracks in the dark.",
+            "fi": "Lämpimässä bussissa liu'umme lumisessa Hyvinkäässä, aloittaen kirkolta. Ikkunat huurtuvat usein, mikä tekee matkasta kodikkaan.\r\nKeskipäivällä saavutamme Villatehtaan; joukkoliikenne on paras valinta välttääksemme pysäköinnin kylmässä tuulessa.\r\nIltapäivällä vierailemme Taidemuseossa ja Rautatiemuseossa, nauttien lyhyistä kävelymatkoista pysäkeiltä.\r\nIlta päättyy bussimatkaan Sveitsin luontopuistoon, jossa ihailemme valaistuja hiihtolatuja pimeässä."
           },
           "stops": [
             {
@@ -1732,7 +1868,8 @@
                 "de": "Warten Sie im Vorraum der Kirche, bis der Bus kommt.",
                 "hu": "Várjon a templom előterében, amíg a busz megérkezik.",
                 "ro": "Așteptați în vestibulul bisericii până vine autobuzul.",
-                "en": "Wait in the church vestibule until the bus arrives."
+                "en": "Wait in the church vestibule until the bus arrives.",
+                "fi": "Odota kirkkosaliin tai eteiseen asti kunnes bussi saapuu."
               }
             },
             {
@@ -1741,7 +1878,8 @@
                 "de": "Der Bahnhof bietet einen warmen Wartesaal.",
                 "hu": "Az állomásnak meleg váróterme van.",
                 "ro": "Gara oferă o sală de așteptare încălzită.",
-                "en": "The station offers a warm waiting room."
+                "en": "The station offers a warm waiting room.",
+                "fi": "Asemalla on lämmin odotushuone."
               }
             },
             {
@@ -1750,7 +1888,8 @@
                 "de": "Die Haltestellen sind im Winter gut beleuchtet.",
                 "hu": "A megállók télen jól ki vannak világítva.",
                 "ro": "Stațiile sunt bine iluminate iarna.",
-                "en": "Stops are well-lit in winter."
+                "en": "Stops are well-lit in winter.",
+                "fi": "Pysäkit ovat hyvin valaistuja talvella."
               }
             },
             {
@@ -1759,7 +1898,8 @@
                 "de": "Achten Sie auf Glatteis an der Bushaltestelle.",
                 "hu": "Ügyeljen a jegesedésre a buszmegállóban.",
                 "ro": "Atenție la polei în stația de autobuz.",
-                "en": "Watch out for ice at the bus stop."
+                "en": "Watch out for ice at the bus stop.",
+                "fi": "Varo jäätä bussipysäkillä."
               }
             },
             {
@@ -1768,7 +1908,8 @@
                 "de": "Der Bus hält direkt am Fuße des Sveitsi-Hügels.",
                 "hu": "A busz közvetlenül a Sveitsi-domb lábánál áll meg.",
                 "ro": "Autobuzul oprește chiar la baza dealului Sveitsi.",
-                "en": "The bus stops right at the foot of Sveitsi hill."
+                "en": "The bus stops right at the foot of Sveitsi hill.",
+                "fi": "Bussi pysähtyy suoraan Sveitsin rinteen juurella."
               }
             }
           ],
@@ -1796,6 +1937,12 @@
               "Wear reflectors so you can be seen at stops in the dark.",
               "Trains to Helsinki are a good option for a warm return journey.",
               "Use real-time schedules to minimize waiting in the cold."
+            ],
+            "fi": [
+              "Bussit voivat viivästyä voimakkaassa lumisateessa.",
+              "Käytä heijastimia, jotta sinut näkee pysäkeillä pimeässä.",
+              "Junat Helsinkiin ovat hyvä vaihtoehto lämpimään kotiinpalaukseen.",
+              "Käytä reaaliaikaisia aikatauluja minimoidaksesi odottamisen kylmässä."
             ]
           }
         }

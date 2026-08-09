@@ -32,7 +32,8 @@
             "de": "Idealer Ort für einen morgendlichen Kaffee.",
             "hu": "Ideális helyszín egy reggeli kávéhoz.",
             "ro": "Locul ideal pentru o cafea de dimineață.",
-            "en": "Ideal spot for a morning coffee."
+            "en": "Ideal spot for a morning coffee.",
+            "fi": "Ihanteellinen paikka aamukahville."
           }
         },
         {
@@ -51,7 +52,8 @@
             "de": "Denkmal des berühmten finnischen Dichters.",
             "hu": "A híres finn költő emlékműve.",
             "ro": "Monumentul celebrului poet finlandez.",
-            "en": "Monument of the famous Finnish poet."
+            "en": "Monument of the famous Finnish poet.",
+            "fi": "Kuuluisa suomalaisen runoilijan muistomerkki."
           }
         },
         {
@@ -70,7 +72,8 @@
             "de": "Fokus auf regionale Kunst der Kainuu-Region.",
             "hu": "A Kainuu régió művészetére fókuszál.",
             "ro": "Se concentrează pe arta regională din Kainuu.",
-            "en": "Focuses on regional art of the Kainuu area."
+            "en": "Focuses on regional art of the Kainuu area.",
+            "fi": "Keskittyy Kainuun alueen taiteeseen."
           }
         },
         {
@@ -89,7 +92,8 @@
             "de": "Ausstellung zur Teerproduktion und Holzindustrie.",
             "hu": "Kátránytermelést és faipart bemutató tárlat.",
             "ro": "Expoziție despre producția de gudron și industria lemnului.",
-            "en": "Exhibition on tar production and the wood industry."
+            "en": "Exhibition on tar production and the wood industry.",
+            "fi": "Näyttely terva­tuotannosta ja puuteollisuudesta."
           }
         },
         {
@@ -108,7 +112,8 @@
             "de": "Ruinen der Burg aus dem 17. Jahrhundert auf der Insel.",
             "hu": "A 17. századi vár romjai a folyó szigetén.",
             "ro": "Ruinele castelului din secolul al XVII-lea de pe insulă.",
-            "en": "Ruins of the 17th-century castle on the island."
+            "en": "Ruins of the 17th-century castle on the island.",
+            "fi": "17. vuosisadan linnan rauniot saarella."
           }
         },
         {
@@ -127,7 +132,8 @@
             "de": "Beliebter Ort zum Spazieren entlang der Stromschnellen.",
             "hu": "Kedvelt sétálóhely a zúgók mentén.",
             "ro": "Loc popular pentru plimbări de-a lungul cascadelor.",
-            "en": "Popular spot for walking along the rapids."
+            "en": "Popular spot for walking along the rapids.",
+            "fi": "Suosittu paikka rantajokikävelyille."
           }
         }
       ],
@@ -135,7 +141,8 @@
         "de": "Der Tag beginnt zentral am Marktplatz von Kajaani, gefolgt von einem kurzen Stopp an der Eino-Leino-Statue. Am Vormittag tauchen wir im Kunstmuseum in die Kulturszene der Kainuu-Region ein. Nach dem Mittagessen erkunden wir im Kainuu Museum die Geschichte der Teerproduktion. Der Nachmittag gehört der historischen Burgruine Kajaani auf ihrer Insel. Den Ausklang bildet ein Spaziergang entlang des Kajaani-Flusses.",
         "hu": "A napot Kajaani központi piacán kezdjük, majd az Eino Leino szobor következik. Délelőtt a Művészeti Múzeumban a Kainuu régió alkotásaival ismerkedünk. Ebéd után a Kainuu Múzeum mutatja be a helyi kátrányipar történetét. Délután a folyó szigetén fekvő, 17. századi várromot fedezzük fel. A napot egy nyugodt séta zárja a Kajaani-folyó zúgói mentén.",
         "ro": "Ziua începe central în Piața Kajaani, urmată de o scurtă oprire la statuia lui Eino Leino. Dimineața explorăm arta regiunii Kainuu la Muzeul de Artă. După prânz, Muzeul Kainuu prezintă istoria producției de gudron. După-amiaza este dedicată ruinelor istorice ale Castelului Kajaani de pe insula sa. Finalul zilei aduce o plimbare relaxantă de-a lungul râului Kajaani.",
-        "en": "The day begins at the central Market Square, followed by a quick stop at the Eino Leino Statue. In the morning, we explore the Kainuu region's art scene at the Art Museum. After lunch, the Kainuu Museum offers insights into the local tar production history. The afternoon is dedicated to the historical Kajaani Castle ruins on their river island. The day concludes with a walk along the Kajaani River."
+        "en": "The day begins at the central Market Square, followed by a quick stop at the Eino Leino Statue. In the morning, we explore the Kainuu region's art scene at the Art Museum. After lunch, the Kainuu Museum offers insights into the local tar production history. The afternoon is dedicated to the historical Kajaani Castle ruins on their river island. The day concludes with a walk along the Kajaani River.",
+        "fi": "Päivä alkaa Kauppatorilta, josta on nopea pysähdys Eino Leinon patsaan luona. Aamulla tutustumme Kainuun taidekenttään taidemuseossa. Lounaan jälkeen Kainuun museo tarjoaa tietoa paikallisesta tervantuotannon historiasta. Iltapäivä on omistettu historiallisten Kajaanin linnanraunioiden saarella. Päivä päättyy kävelyyn Kajaaninjoen rannalla."
       },
       "gastro_picks": {
         "de": [
@@ -255,6 +262,11 @@
           "The city center is very easy to explore on foot.",
           "The castle ruins are freely accessible year-round.",
           "Warm clothing is recommended near the water even in summer."
+        ],
+        "fi": [
+          "Keskustaa on erittäin helppo tutkia jalan.",
+          "Linnan rauniot ovat vapaasti käytettävissä ympäri vuoden.",
+          "Veden läheisyydessä suositellaan lämpimiä vaatteita jopa kesällä."
         ]
       },
       "variants": {
@@ -263,7 +275,8 @@
             "de": "Morgens am Marktplatz sind die Stände unter Planen geschützt, ideal für einen schnellen Kaffee. Den Mittag verbringen wir trocken in den zwei großen Museen der Stadt. Am Nachmittag bietet die Burgruine trotz Regen eine düstere, nordische Atmosphäre, wobei die Steine rutschig sein können. Den Abend lassen wir am Flussufer ausklingen, wo das Regenplätschern auf dem Wasser eine ruhige Kulisse bildet.",
             "hu": "Reggel a piacon az árusok ponyvák alatt bújnak meg, gyors vizit után a Kunstmuseum kínál menedéket. Délben a Kainuu Museum tárlatain ismerhetjük meg a régió múltját esőtől védve. Délután a várromok kövei csúszósak, de a látvány ilyenkor is monumentális. Este a Kajaani-folyó partján az esőcseppek kopogása a vízen különleges, melankolikus hangulatot áraszt a város fényeiben.",
             "ro": "Dimineața în piață, tarabele sunt protejate de prelate, potrivite pentru o vizită rapidă. Prânzul este petrecut la adăpost în cele două muzee principale. După-amiaza, ruinele castelului oferă o atmosferă nordică dramatică, deși pietrele pot fi alunecoase. Seara se încheie pe malul râului Kajaani, unde sunetul ploii pe apă creează un fundal sonor relaxant în lumina felinarelor.",
-            "en": "Morning at the market square sees vendors under tarps; a quick coffee before heading to the art museum. Noon is spent exploring local history indoors at the Kainuu Museum. In the afternoon, the castle ruins take on a moody, Nordic character in the rain, though steps are slippery. The evening ends by the river, where the rhythm of rain on the water creates a serene atmosphere near the city center."
+            "en": "Morning at the market square sees vendors under tarps; a quick coffee before heading to the art museum. Noon is spent exploring local history indoors at the Kainuu Museum. In the afternoon, the castle ruins take on a moody, Nordic character in the rain, though steps are slippery. The evening ends by the river, where the rhythm of rain on the water creates a serene atmosphere near the city center.",
+            "fi": "Aamu Kauppatorilla on suojateltoissa myyjineen; nopea kahvi ennen taidemuseoon suuntaamista. Kello 12 vietetään paikallishistoriaa sisätiloissa Kainuun museossa. Iltapäivällä linnan rauniot saavat myrskyisän, pohjoismaisen tunnelman sateessa, vaikka portaat ovat liukkaat. Ilta päättyy joen varteen, missä sateen rytmi vedessä luo rauhoittavan tunnelman kaupungin keskustan läheisyydessä."
           },
           "stops": [
             {
@@ -272,7 +285,8 @@
                 "de": "Unter den Markisen der Cafés trocken bleiben.",
                 "hu": "A kávézók napellenzői alatt keressen menedéket.",
                 "ro": "Căutați adăpost sub copertinele cafenelelor.",
-                "en": "Find shelter under the cafe awnings."
+                "en": "Find shelter under the cafe awnings.",
+                "fi": "Etsi suojaa kahvila-aurinkokatojen alta."
               }
             },
             {
@@ -281,7 +295,8 @@
                 "de": "Ein kurzes Foto unter dem Regenschirm reicht.",
                 "hu": "Egy gyors fotó az esernyő alól is elég.",
                 "ro": "O fotografie rapidă sub umbrelă este suficientă.",
-                "en": "A quick photo from under your umbrella is enough."
+                "en": "A quick photo from under your umbrella is enough.",
+                "fi": "Nopea kuva sateenvarjon alta riittää."
               }
             },
             {
@@ -290,7 +305,8 @@
                 "de": "Perfekter Ort, um einen Regenschauer abzuwarten.",
                 "hu": "Tökéletes hely egy zápor átvészelésére.",
                 "ro": "Locul perfect pentru a aștepta trecerea ploii.",
-                "en": "Perfect place to wait out a rain shower."
+                "en": "Perfect place to wait out a rain shower.",
+                "fi": "Täydellinen paikka odottaa sadekuuroa ohi."
               }
             },
             {
@@ -299,7 +315,8 @@
                 "de": "Nutzen Sie die Garderobe für nasse Mäntel.",
                 "hu": "Használja a ruhatárat a vizes kabátoknak.",
                 "ro": "Folosiți garderoba pentru hainele ude.",
-                "en": "Use the cloakroom for your wet coats."
+                "en": "Use the cloakroom for your wet coats.",
+                "fi": "Käytä naulakkoa märille takeille."
               }
             },
             {
@@ -308,7 +325,8 @@
                 "de": "Vorsicht auf den nassen, glatten Steinstufen.",
                 "hu": "Vigyázat a nedves, csúszós kőlépcsőkön.",
                 "ro": "Atenție la treptele de piatră ude și alunecoase.",
-                "en": "Watch out on the wet, slippery stone steps."
+                "en": "Watch out on the wet, slippery stone steps.",
+                "fi": "Varo märkiä, liukkaita kivisiä portaita."
               }
             },
             {
@@ -317,7 +335,8 @@
                 "de": "Die Asphaltwege sind auch bei Regen gut begehbar.",
                 "hu": "Az aszfaltozott utak esőben is jól járhatóak.",
                 "ro": "Potecile asfaltate sunt ușor de parcurs și pe ploaie.",
-                "en": "Paved paths remain easily walkable in the rain."
+                "en": "Paved paths remain easily walkable in the rain.",
+                "fi": "Asfaltoidut polut pysyvät helposti käveltävissä sateessa."
               }
             }
           ],
@@ -349,6 +368,13 @@
               "Wear waterproof shoes as puddles often form around the castle ruins.",
               "Warm up with a hot berry juice at a local cafe like Valo.",
               "River paths can be slippery when wet; stick to the paved sections."
+            ],
+            "fi": [
+              "Tukeva sateenvarjo on välttämätön Oulujärven puhureiden takia.",
+              "Museot sijaitsevat lähellä toisiaan, mikä minimoi aikaa sateessa.",
+              "Käytä vedenpitäviä kenkiä, sillä lätäköitä muodostuu usein linnanraunioiden alueelle.",
+              "Lämmittele kuumalla marjamehulla paikallisessa kahvilassa, esimerkiksi Valossa.",
+              "Joenrannat voivat olla liukkaita märkinä; pysy asfaltoiduilla osioilla."
             ]
           }
         },
@@ -357,7 +383,8 @@
             "de": "Der Morgen am Marktplatz ist oft dunkel und frostig, beleuchtet von warmen Lichtern. Mittags bieten die Museen eine angenehme Zuflucht vor den Minustemperaturen. Am frühen Nachmittag nutzen wir das kurze Tageslicht für einen Besuch der schneebedeckten Burgruine, die wie ein Wintermärchen wirkt. Nach Sonnenuntergang gegen 15:00 Uhr spazieren wir am beleuchteten Flussufer entlang durch den knirschenden Schnee.",
             "hu": "A reggeli piacot sötét és fagyos hangulat jellemzi, meleg fényekkel megvilágítva. Délben a múzeumok nyújtanak menedéket a mínuszok elől, ahol kényelmesen nézelődhetünk. Kora délután használjuk ki a rövid nappali fényt a hófödte várromoknál, amely ilyenkor mesebeli látványt nyújt. Sötétedés után, ami már 15:00 körül bekövetkezik, a kivilágított folyóparti hóban sétálunk.",
             "ro": "Dimineața în piață este adesea întunecată și geroasă, luminată de felinare calde. La prânz, muzeele oferă un refugiu plăcut împotriva temperaturilor negative. Profităm de lumina scurtă a zilei pentru a vizita ruinele acoperite de zăpadă, care par desprinse din basme. După apusul soarelui în jurul orei 15:00, ne plimbăm pe malul râului iluminat prin zăpada care scârțâie sub picioare.",
-            "en": "Morning at the market is dark and frosty, illuminated by warm streetlights. By noon, the museums provide a cozy refuge from the sub-zero temperatures. In the early afternoon, we catch the fleeting daylight at the snow-covered castle ruins, looking like a winter fairytale. After sunset around 3 PM, we stroll along the illuminated riverbank through the crisp, crunching snow."
+            "en": "Morning at the market is dark and frosty, illuminated by warm streetlights. By noon, the museums provide a cozy refuge from the sub-zero temperatures. In the early afternoon, we catch the fleeting daylight at the snow-covered castle ruins, looking like a winter fairytale. After sunset around 3 PM, we stroll along the illuminated riverbank through the crisp, crunching snow.",
+            "fi": "Aamu torilla on pimeä ja huurteinen, valaistu lämpimillä katuvaloilla. Kello 12 museot tarjoavat kodikkaan suojan pakkaselta. Iltapäivällä nappaamme hetken valoa lumipeitteisillä linnanraunioilla, jotka näyttävät talviselta satumaalta. Auringonlaskun jälkeen noin klo 15 kuljemme valaistua jokirantaa pitkin rapsahtavassa, napakassa lumessa."
           },
           "stops": [
             {
@@ -366,7 +393,8 @@
                 "de": "Genießen Sie einen heißen Glögi am Stand.",
                 "hu": "Igyon egy forró Glögit az egyik árusnál.",
                 "ro": "Savurați un Glögi fierbinte la una dintre tarabe.",
-                "en": "Enjoy a hot Glögi at one of the market stalls."
+                "en": "Enjoy a hot Glögi at one of the market stalls.",
+                "fi": "Nauti kuumasta Glögistä yhdellä torikojuista."
               }
             },
             {
@@ -375,7 +403,8 @@
                 "de": "Die Statue trägt oft eine Mütze aus Schnee.",
                 "hu": "A szobor gyakran hósapkát visel télen.",
                 "ro": "Statuia poartă adesea o căciulă de zăpadă.",
-                "en": "The statue often sports a cap of fresh snow."
+                "en": "The statue often sports a cap of fresh snow.",
+                "fi": "Patsaalla on usein tuore lumimyssy."
               }
             },
             {
@@ -384,7 +413,8 @@
                 "de": "Tauauen Sie hier Ihre kalten Hände auf.",
                 "hu": "Itt felmelegítheti átfagyott kezeit.",
                 "ro": "Vă puteți încălzi mâinile înghețate aici.",
-                "en": "Warm up your frozen hands inside."
+                "en": "Warm up your frozen hands inside.",
+                "fi": "Lämmittele jäisiä käsiäsi sisällä."
               }
             },
             {
@@ -393,7 +423,8 @@
                 "de": "Drinnen ist es herrlich warm und ruhig.",
                 "hu": "Bent kellemesen meleg és csendes az idő.",
                 "ro": "În interior este cald și liniște.",
-                "en": "It is wonderfully warm and quiet inside."
+                "en": "It is wonderfully warm and quiet inside.",
+                "fi": "Sisällä on ihanan lämmin ja hiljaista."
               }
             },
             {
@@ -402,7 +433,8 @@
                 "de": "Wandern Sie vorsichtig durch den tiefen Schnee.",
                 "hu": "Óvatosan gázoljon át a mély hóban.",
                 "ro": "Mergeți cu atenție prin zăpada adâncă.",
-                "en": "Walk carefully through the deep snow."
+                "en": "Walk carefully through the deep snow.",
+                "fi": "Kävele varovasti syvässä lumessa."
               }
             },
             {
@@ -411,7 +443,8 @@
                 "de": "Das Wasser dampft oft bei extremer Kälte.",
                 "hu": "A víz gyakran gőzölög a nagy hidegben.",
                 "ro": "Apa aburește adesea la ger năpraznic.",
-                "en": "The water often steams during extreme cold."
+                "en": "The water often steams during extreme cold.",
+                "fi": "Vesi höyryää usein äärimmäisessä pakkasessa."
               }
             }
           ],
@@ -443,6 +476,13 @@
               "Wear safety reflectors as the afternoons are very dark.",
               "Watch out for icy patches hidden under fresh snow.",
               "The castle ruins are atmospherically lit after dark."
+            ],
+            "fi": [
+              "Pue kerroksittain; suomalaiset sisätilat pidetään erittäin lämpiminä.",
+              "Auringonlasku voi olla keskitalvella jo klo 14.30.",
+              "Käytä heijastimia, sillä iltapäivät ovat hyvin pimeitä.",
+              "Varo jäälaikkoja, jotka saattavat piileskellä tuoreen lumen alla.",
+              "Linnan rauniot on tunnelmallisesti valaistu pimeän tultua."
             ]
           }
         }
@@ -472,7 +512,8 @@
             "de": "Fahrradparkplätze am Rand des Platzes verfügbar.",
             "hu": "Kerékpártárolók a tér szélén találhatók.",
             "ro": "Parcare pentru biciclete la marginea pieței.",
-            "en": "Bike parking available at the edge of the square."
+            "en": "Bike parking available at the edge of the square.",
+            "fi": "Pyöräparkki saatavilla aukion reunalla."
           }
         },
         {
@@ -491,7 +532,8 @@
             "de": "Die Brücke bietet eine gute Sicht auf das Areal.",
             "hu": "A hídról remek kilátás nyílik a területre.",
             "ro": "Podul oferă o vedere excelentă asupra zonei.",
-            "en": "The bridge offers a good view of the area."
+            "en": "The bridge offers a good view of the area.",
+            "fi": "Silta tarjoaa hyvän näkymän alueelle."
           }
         },
         {
@@ -510,7 +552,8 @@
             "de": "Moderne Architektur und kulturelle Events.",
             "hu": "Modern építészet és kulturális események.",
             "ro": "Arhitectură modernă și evenimente culturale.",
-            "en": "Modern architecture and cultural events."
+            "en": "Modern architecture and cultural events.",
+            "fi": "Modernia arkkitehtuuria ja kulttuuritapahtumia."
           }
         },
         {
@@ -529,7 +572,8 @@
             "de": "Historische Holzkirche mit Deckenmalereien.",
             "hu": "Történelmi fatemplom mennyezetfestményekkel.",
             "ro": "Biserică istorică din lemn cu picturi pe tavan.",
-            "en": "Historical wooden church with ceiling paintings."
+            "en": "Historical wooden church with ceiling paintings.",
+            "fi": "Historiallinen puukirkko kattofreskoineen."
           }
         },
         {
@@ -548,7 +592,8 @@
             "de": "Rückkehr in die Stadt am malerischen Flussufer.",
             "hu": "Visszatérés a városba a festői folyóparton.",
             "ro": "Întoarcere în oraș de-a lungul râului pitoresc.",
-            "en": "Return to the city along the scenic riverbank."
+            "en": "Return to the city along the scenic riverbank.",
+            "fi": "Palaa kaupunkiin pitkin maisemallista joenrantaa."
           }
         }
       ],
@@ -556,7 +601,8 @@
         "de": "Nach einem Start am Marktplatz fahren wir zur Burgruine auf der Flussinsel. Von dort geht es kurz zum Kulturzentrum Kaukametsä. Das Highlight des Tages ist die 9 Kilometer lange, malerische Radtour zur historischen Holzkirche von Paltaniemi mit ihren beeindruckenden Wandmalereien. Der Rückweg führt uns entspannt entlang des Kajaani-Flusses in die Stadt zurück.",
         "hu": "A piactérről indulva a folyami szigeten fekvő várromhoz kerekezünk. Innen röviden a Kaukametsä kulturális központhoz gurulunk. A nap fénypontja a 9 kilométeres, festői bicikliút a történelmi paltaniemi fatemplomhoz, amelynek freskói lenyűgözőek. A visszaút a Kajaani-folyó békés partján vezet a városba.",
         "ro": "După pornirea din Piață, pedalăm spre ruinele castelului de pe insula râului. De acolo trecem pe la centrul cultural Kaukametsä. Atracția zilei este traseul pitoresc de 9 kilometri cu bicicleta către biserica istorică de lemn din Paltaniemi. Drumul de întoarcere ne poartă relaxant de-a lungul râului Kajaani înapoi în oraș.",
-        "en": "Starting at the Market Square, we cycle to the castle ruins on the river island. From there, we visit the Kaukametsä cultural center. The highlight of the day is the scenic 9-kilometer bike ride to the historical Paltaniemi wooden church with its impressive murals. The return trip takes us leisurely along the Kajaani River back into the city."
+        "en": "Starting at the Market Square, we cycle to the castle ruins on the river island. From there, we visit the Kaukametsä cultural center. The highlight of the day is the scenic 9-kilometer bike ride to the historical Paltaniemi wooden church with its impressive murals. The return trip takes us leisurely along the Kajaani River back into the city.",
+        "fi": "Aloitamme Kauppatorilta ja pyöräilemme linnanraunioille joensaaren saarelle. Sieltä vierailu Kaukametsän kulttuurikeskuksessa. Päivän kohokohta on maisemallinen 9 kilometrin pyörämatka historialliseen Paltaniemen puukirkkoon sen vaikuttavine freskoineen. Paluumatka tehdään rauhallisesti Kajaaninjoen vartta pitkin takaisin kaupunkiin."
       },
       "gastro_picks": {
         "de": [
@@ -660,6 +706,11 @@
           "The route to Paltaniemi requires good basic fitness.",
           "Bring enough water for the longer stretch.",
           "Bike paths in Finland are very well developed and safe."
+        ],
+        "fi": [
+          "Reitti Paltaniemeen vaatii hyvää peruskuntoa.",
+          "Ota riittävästi vettä pidemmälle etapille.",
+          "Pyörätiestö Suomessa on hyvin kehitetty ja turvallinen."
         ]
       },
       "variants": {
@@ -668,7 +719,8 @@
             "de": "Die Radtour startet am Marktplatz mit voller Regenmontur. Wir fahren zügig zur Burgruine, wo die Reifen auf nassem Asphalt guten Grip brauchen. Mittags erreichen wir das Kaukametsä Zentrum für eine trockene Pause. Die Fahrt zur Kirche von Paltaniemi ist bei Regen anstrengend, aber die Waldwege bieten etwas Schutz vor dem Wind. Zurück am Fluss genießen wir die frische, feuchte Waldluft.",
             "hu": "A biciklitúra teljes esőfelszerelésben indul a piacról. Gyorsan tekerünk a várromokhoz, ahol a nedves aszfalton fontos a jó tapadás. Délben a Kaukametsä központban tartunk egy száraz pihenőt. A paltaniemi templomhoz vezető út esőben küzdelmes, de az erdei utak némi védelmet nyújtanak a szél ellen. A folyóhoz érve élvezzük a friss, párás erdei levegőt.",
             "ro": "Turul cu bicicleta începe din piață cu echipament complet de ploaie. Pedalam rapid spre ruinele castelului, unde aderența pe asfaltul ud este crucială. La prânz ajungem la centrul Kaukametsä pentru o pauză uscată. Drumul spre biserica din Paltaniemi este solicitant pe ploaie, dar potecile prin pădure oferă protecție contra vântului. Revenind la râu, ne bucurăm de aerul proaspăt.",
-            "en": "The bike tour starts at the market in full rain gear. We cycle quickly to the castle ruins, requiring good tire grip on the wet asphalt. By noon, Kaukametsä Center provides a dry break. The ride to Paltaniemi Church is challenging in the rain, but forest paths offer some wind protection. Returning to the river, we enjoy the fresh, damp air of the Kainuu woods."
+            "en": "The bike tour starts at the market in full rain gear. We cycle quickly to the castle ruins, requiring good tire grip on the wet asphalt. By noon, Kaukametsä Center provides a dry break. The ride to Paltaniemi Church is challenging in the rain, but forest paths offer some wind protection. Returning to the river, we enjoy the fresh, damp air of the Kainuu woods.",
+            "fi": "Pyöräretki alkaa torilta koko sadevarustuksessa. Pyöräilemme nopeasti linnanraunioille; märällä asfaltilla tarvitaan hyvä pito. Kello 12 Kaukametsä tarjoaa kuivan tauon. Matka Paltaniemen kirkolle on haastava sateessa, mutta metsäpolut antavat suojaa tuulelta. Palatessa joen varrelle nautimme Kainuun metsien raikkaasta, kosteasta ilmasta."
           },
           "stops": [
             {
@@ -677,7 +729,8 @@
                 "de": "Prüfen Sie den Reifendruck für nassen Boden.",
                 "hu": "Ellenőrizze a guminyomást a vizes útra.",
                 "ro": "Verificați presiunea în pneuri pentru carosabil ud.",
-                "en": "Check tire pressure for wet surfaces."
+                "en": "Check tire pressure for wet surfaces.",
+                "fi": "Tarkista rengaspaine märille pinnoille."
               }
             },
             {
@@ -686,7 +739,8 @@
                 "de": "Vorsicht beim Abbremsen auf dem Kopfsteinpflaster.",
                 "hu": "Vigyázzon a fékezéssel a macskakövön.",
                 "ro": "Atenție la frânare pe pavajul de piatră.",
-                "en": "Be careful when braking on cobblestones."
+                "en": "Be careful when braking on cobblestones.",
+                "fi": "Ole varovainen jarruttaessa mukulakivillä."
               }
             },
             {
@@ -695,7 +749,8 @@
                 "de": "Fahrradständer sind meist im Trockenen.",
                 "hu": "A biciklitárolók többnyire fedettek.",
                 "ro": "Suporturile de biciclete sunt de obicei acoperite.",
-                "en": "Bike racks are mostly under cover here."
+                "en": "Bike racks are mostly under cover here.",
+                "fi": "Pyörätelineet ovat täällä pääosin katoksen alla."
               }
             },
             {
@@ -704,7 +759,8 @@
                 "de": "Die Auffahrt kann bei Nässe rutschig sein.",
                 "hu": "A felfelé vezető út nedvesen csúszós lehet.",
                 "ro": "Urcarea poate fi alunecoasă pe timp de ploaie.",
-                "en": "The uphill path can be slippery when wet."
+                "en": "The uphill path can be slippery when wet.",
+                "fi": "Nousu voi olla liukas märkänä."
               }
             },
             {
@@ -713,7 +769,8 @@
                 "de": "Schutzbleche sind hier absolut notwendig.",
                 "hu": "A sárvédő itt elengedhetetlen.",
                 "ro": "Apărătorile de noroi sunt absolut necesare.",
-                "en": "Mudguards are absolutely necessary here."
+                "en": "Mudguards are absolutely necessary here.",
+                "fi": "Lokasuojat ovat ehdottoman tarpeelliset täällä."
               }
             }
           ],
@@ -745,6 +802,13 @@
               "The route to Paltaniemi includes some unpaved sections.",
               "Wear cycling glasses to keep rain out of your eyes.",
               "Dry your saddle with a cloth after every stop."
+            ],
+            "fi": [
+              "Käytä vedenpitäviä laukkuja pitääksesi varusteet kuivina.",
+              "Vältä lätäköitä, sillä ne voivat peittää syviä kuoppia.",
+              "Reitillä Paltaniemeen on myös päällystämättömiä osuuksia.",
+              "Käytä pyöräilylaseja pitämään sade pois silmistäsi.",
+              "Kuivaa satula liinalla jokaisen pysähdyksen jälkeen."
             ]
           }
         },
@@ -753,7 +817,8 @@
             "de": "Winterbiken in Kajaani erfordert Spikereifen und Mut. Vom Marktplatz fahren wir durch den gepressten Schnee zur Burgruine. Die trockene Kälte ist bei Bewegung gut erträglich. Im Kaukametsä Zentrum wärmen wir uns kurz auf, bevor wir die weite Strecke nach Paltaniemi antreten, wo die verschneite Landschaft am Seeufer atemberaubend ist. Die Rückfahrt am Fluss erfolgt im Schein der Stirnlampen.",
             "hu": "A téli biciklizés Kajaaniban szöges gumit és bátorságot igényel. A piacról indulva a döngölt havon tekerünk a várromokhoz. A száraz hideg mozgás közben jól bírható. A Kaukametsä központban melegedünk, mielőtt elindulunk a távoli Paltaniemibe, ahol a havas tóparti táj lélegzetelállító. A visszaút a folyó mentén már fejlámpák fényénél történik.",
             "ro": "Ciclismul de iarnă în Kajaani necesită anvelope cu ținte și curaj. Din piață pedalăm pe zăpadă bătătorită spre ruinele castelului. Gerul uscat este suportabil în mișcare. La centrul Kaukametsä ne încălzim înainte de drumul lung spre Paltaniemi, unde peisajul înzăpezit de pe malul lacului este uimitor. Întoarcerea se face la lumina lanternelor frontale.",
-            "en": "Winter cycling in Kajaani demands studded tires and grit. From the market, we ride over packed snow to the castle ruins. The dry cold is manageable while moving. We warm up at Kaukametsä before the long stretch to Paltaniemi, where the snowy lakeside scenery is breathtaking. The return trip along the river is made under the glow of headlamps."
+            "en": "Winter cycling in Kajaani demands studded tires and grit. From the market, we ride over packed snow to the castle ruins. The dry cold is manageable while moving. We warm up at Kaukametsä before the long stretch to Paltaniemi, where the snowy lakeside scenery is breathtaking. The return trip along the river is made under the glow of headlamps.",
+            "fi": "Talvipyöräily Kajaanissa vaatii nastarenkaat ja hiekoituksen. Torilta ajamme pakatun lumen yli linnanraunioille. Kuiva pakkanen on liikkumisen aikana siedettävä. Lämmittelemme Kaukametsässä ennen pitkää pätkää Paltaniemeen, jossa järvenrantaiset maisemat lumipeitteessä ovat henkeäsalpaavat. Paluumatka joenvartta pitkin tehdään pyörävalojen loisteessa."
           },
           "stops": [
             {
@@ -762,7 +827,8 @@
                 "de": "Spikereifen sind hier lebenswichtig.",
                 "hu": "A szöges gumi itt életmentő lehet.",
                 "ro": "Anvelopele cu ținte sunt vitale aici.",
-                "en": "Studded tires are essential for safety."
+                "en": "Studded tires are essential for safety.",
+                "fi": "Nastarenkaat ovat turvallisuuden kannalta välttämättömät."
               }
             },
             {
@@ -771,7 +837,8 @@
                 "de": "Treten Sie vorsichtig in die Pedale auf Eis.",
                 "hu": "Óvatosan pedálozzon a jeges részeken.",
                 "ro": "Pedalați cu atenție pe porțiunile cu gheață.",
-                "en": "Pedal smoothly on icy patches."
+                "en": "Pedal smoothly on icy patches.",
+                "fi": "Pedaalitse tasaisesti jäisillä kohdilla."
               }
             },
             {
@@ -780,7 +847,8 @@
                 "de": "Lassen Sie die Bremsen nicht einfrieren.",
                 "hu": "Ne hagyja befagyni a fékeket.",
                 "ro": "Nu lăsați frânele să înghețe.",
-                "en": "Don't let your brakes freeze up."
+                "en": "Don't let your brakes freeze up.",
+                "fi": "Älä anna jarrujen jäätyä."
               }
             },
             {
@@ -789,7 +857,8 @@
                 "de": "Der Wind vom See ist extrem kalt.",
                 "hu": "A tó felől fújó szél rendkívül hideg.",
                 "ro": "Vântul de pe lac este extrem de rece.",
-                "en": "Wind chill from the lake is extreme."
+                "en": "Wind chill from the lake is extreme.",
+                "fi": "Järven aiheuttama viima kiristää tuntoa voimakkaasti."
               }
             },
             {
@@ -798,7 +867,8 @@
                 "de": "Nutzen Sie eine starke Fahrradlampe.",
                 "hu": "Használjon erős kerékpáros lámpát.",
                 "ro": "Folosiți o lumină de bicicletă puternică.",
-                "en": "Use a powerful front bike light."
+                "en": "Use a powerful front bike light.",
+                "fi": "Käytä tehokasta etuvaloa pyörässä."
               }
             }
           ],
@@ -830,6 +900,13 @@
               "E-bike batteries drain significantly faster in the cold.",
               "Keep cycling durations short to avoid frostbite risk.",
               "Main paths are usually cleared, but side routes stay icy."
+            ],
+            "fi": [
+              "Käytä talvikelpoista ketjuöljyä estääksesi ruostumista ja jumittumista.",
+              "Pue tuulenpitävät hanskat ja kasvonsuoja.",
+              "Sähköpyörän akut kuluvat huomattavasti nopeammin kylmässä.",
+              "Pidä pyöräilyajat lyhyinä paleltumisvaaran välttämiseksi.",
+              "Pääreitit aurataan yleensä, mutta sivureitit pysyvät jäisinä."
             ]
           }
         }
@@ -859,7 +936,8 @@
             "de": "Parken Sie hier, um das Zentrum zu Fuß zu erkunden.",
             "hu": "Parkoljon itt, hogy gyalog fedezze fel a központot.",
             "ro": "Parcați aici pentru a explora centrul pe jos.",
-            "en": "Park here to explore the center on foot."
+            "en": "Park here to explore the center on foot.",
+            "fi": "Pysäköi täällä tutkiaksesi keskustaa jalan."
           }
         },
         {
@@ -878,7 +956,8 @@
             "de": "Kurzer Fußweg vom Marktplatz.",
             "hu": "Rövid séta a piactértől.",
             "ro": "Scurtă plimbare de la Piață.",
-            "en": "Short walk from the Market Square."
+            "en": "Short walk from the Market Square.",
+            "fi": "Lyhyt kävelymatka Kauppatorilta."
           }
         },
         {
@@ -897,7 +976,8 @@
             "de": "Immer noch im Geh-Cluster des Zentrums.",
             "hu": "Még mindig a központ sétatávolságán belül.",
             "ro": "Încă în zona de plimbare a centrului.",
-            "en": "Still within the center's walking cluster."
+            "en": "Still within the center's walking cluster.",
+            "fi": "Vielä keskustan kävelyalueen läheisyydessä."
           }
         },
         {
@@ -916,7 +996,8 @@
             "de": "Kurze Fahrt nach Norden zur Holzkirche.",
             "hu": "Rövid autóút északra a fatemplomhoz.",
             "ro": "Scurtă plimbare cu mașina spre nord, la biserica de lemn.",
-            "en": "Short drive north to the wooden church."
+            "en": "Short drive north to the wooden church.",
+            "fi": "Lyhyt ajomatka pohjoiseen puukirkolle."
           }
         },
         {
@@ -935,7 +1016,8 @@
             "de": "Rückkehr ins Stadtgebiet. Parken vor Ort.",
             "hu": "Visszatérés a városba. Parkolás a helyszínen.",
             "ro": "Întoarcere în oraș. Parcare la fața locului.",
-            "en": "Return to the city area. Parking on site."
+            "en": "Return to the city area. Parking on site.",
+            "fi": "Palaa kaupunkialueelle. Pysäköinti paikan päällä."
           }
         },
         {
@@ -954,7 +1036,8 @@
             "de": "Zentraler Abschluss der Museums-Tour.",
             "hu": "A múzeumtúra központi zárása.",
             "ro": "Încheiere centrală a turului muzeelor.",
-            "en": "Central conclusion of the museum tour."
+            "en": "Central conclusion of the museum tour.",
+            "fi": "Museokierroksen päätös kohta."
           }
         }
       ],
@@ -962,7 +1045,8 @@
         "de": "Wir parken das Auto zentral am Marktplatz und bilden einen fußläufigen Cluster, um das Kainuu Museum und die nahegelegene Burgruine zu besuchen. Nach dem Mittagessen fahren wir 9 Kilometer in den Norden zur historischen Holzkirche von Paltaniemi. Anschließend kehren wir mit dem Auto ins Kaukametsä Zentrum zurück. Von dort aus schließen wir den Tag mit einem kurzen Fußweg zum Kunstmuseum ab.",
         "hu": "Az autót a központi piactéren hagyjuk, és gyalogos klasztert alkotva nézzük meg a Kainuu Múzeumot és a közeli várromot. Ebéd után 9 kilométert autózunk északra, a paltaniemi történelmi fatemplomhoz. Ezután visszatérünk a városba, a Kaukametsä kulturális központhoz. A napot egy rövid sétával zárjuk a Művészeti Múzeumnál.",
         "ro": "Parcăm mașina central la Piață și formăm un grup pietonal pentru a vizita Muzeul Kainuu și ruinele castelului. După prânz, conducem 9 kilometri spre nord, la biserica istorică de lemn din Paltaniemi. Apoi ne întoarcem cu mașina la centrul cultural Kaukametsä. De acolo, încheiem ziua cu o scurtă plimbare până la Muzeul de Artă.",
-        "en": "We park the car centrally at the Market Square and form a walking cluster to visit the Kainuu Museum and the nearby castle ruins. After lunch, we drive 9 kilometers north to the historical Paltaniemi wooden church. We then return to the city by car to the Kaukametsä Center. From there, we conclude the day with a short walk to the Art Museum."
+        "en": "We park the car centrally at the Market Square and form a walking cluster to visit the Kainuu Museum and the nearby castle ruins. After lunch, we drive 9 kilometers north to the historical Paltaniemi wooden church. We then return to the city by car to the Kaukametsä Center. From there, we conclude the day with a short walk to the Art Museum.",
+        "fi": "Pysäköimme auton keskusta-alueella Kauppatorilla ja muodostamme kävelyryhmän vieraillaksemme Kainuun museossa ja lähellä olevilla linnanraunioilla. Lounaan jälkeen ajamme 9 kilometriä pohjoiseen historialliselle Paltaniemen puukirkolle. Paluumme kaupunkiin tapahtuu autolla Kaukametsän keskukseen. Sieltä päätämme päivän lyhyellä kävelyllä taidemuseolle."
       },
       "gastro_picks": {
         "de": [
@@ -1066,6 +1150,11 @@
           "Leave the car in the center and walk short distances.",
           "Parking at the Market Square is often time-limited.",
           "Winter tires are legally required in the colder months."
+        ],
+        "fi": [
+          "Jätä auto keskukseen ja kävele lyhyitä matkoja.",
+          "Pysäköinti Kauppatorilla on usein aikarajoitettua.",
+          "Talvirenkaat ovat lain mukaan pakolliset kylminä kuukausina."
         ]
       },
       "variants": {
@@ -1074,7 +1163,8 @@
             "de": "Mit dem Auto ist Kajaani bei Regen am komfortabelsten. Wir parken nah am Marktplatz für einen schnellen Besuch. Mittags bietet das Kainuu Museum kostenlose Parkplätze und trockenen Zugang zur Geschichte. Nachmittags fahren wir entspannt zur Burgruine und weiter nach Paltaniemi, während die Scheibenwischer den Blick auf die finnische Seenplatte freihalten. Den Tag beenden wir beim Kunstmuseum im Stadtzentrum.",
             "hu": "Autóval a legkényelmesebb Kajaani esőben. A piachoz közel parkolunk egy gyors látogatás erejéig. Délben a Kainuu Múzeumnál ingyenes parkolás és száraz bejutás vár a történelembe. Délután kényelmesen autózunk a várromokhoz, majd tovább Paltaniemibe, miközben az ablaktörlők mögül figyeljük a finn tóvidéket. A napot a városközpontban, a Kunstmuseumnál zárjuk.",
             "ro": "Cu mașina, Kajaani este cel mai confortabil pe ploaie. Parcăm aproape de piață pentru o vizită scurtă. La prânz, Muzeul Kainuu oferă parcare gratuită și acces uscat la istorie. După-amiaza conducem relaxați spre ruinele castelului și Paltaniemi, în timp ce ștergătoarele curăță vederea spre peisajele lacustre. Încheiem ziua la Muzeul de Artă din centrul orașului.",
-            "en": "Car travel is the most comfortable way to see Kajaani in the rain. We park near the market for a quick stop. By noon, Kainuu Museum offers convenient parking and dry access to exhibits. In the afternoon, we drive to the castle ruins and on to Paltaniemi, watching the lake district through the rhythmic swipe of wipers. The day concludes at the Art Museum back in the city center."
+            "en": "Car travel is the most comfortable way to see Kajaani in the rain. We park near the market for a quick stop. By noon, Kainuu Museum offers convenient parking and dry access to exhibits. In the afternoon, we drive to the castle ruins and on to Paltaniemi, watching the lake district through the rhythmic swipe of wipers. The day concludes at the Art Museum back in the city center.",
+            "fi": "Autoilu on mukavin tapa nähdä Kajaani sateella. Pysäköimme torin läheisyydessä nopeaa pysähdystä varten. Kainuu-museolla on keskipäivällä kätevä pysäköinti ja kuiva pääsy näyttelyihin. Iltapäivällä ajamme linnanraunioille ja edelleen Paltaniemeen, seuraten järviseutua pyyhkijöiden rytmikkään liikkeen läpi. Päivä päättyy taidemuseolle takaisin keskustassa."
           },
           "stops": [
             {
@@ -1083,7 +1173,8 @@
                 "de": "Kurzzeitparkplätze direkt am Platz nutzen.",
                 "hu": "Használja a rövidtávú parkolókat a térnél.",
                 "ro": "Folosiți parcările pe termen scurt de lângă piață.",
-                "en": "Use short-term parking spaces right by the square."
+                "en": "Use short-term parking spaces right by the square.",
+                "fi": "Käytä torin vieressä olevia lyhytaikaisia pysäköintipaikkoja."
               }
             },
             {
@@ -1092,7 +1183,8 @@
                 "de": "Parken ist hinter dem Museumsgebäude möglich.",
                 "hu": "A parkolás a múzeumépület mögött lehetséges.",
                 "ro": "Parcarea este posibilă în spatele clădirii muzeului.",
-                "en": "Parking is available behind the museum building."
+                "en": "Parking is available behind the museum building.",
+                "fi": "Pysäköintiä on museorakennuksen takana."
               }
             },
             {
@@ -1101,7 +1193,8 @@
                 "de": "Parkplatz an der Brücke bietet kurzen Fußweg.",
                 "hu": "A hídnál lévő parkolótól rövid a séta.",
                 "ro": "Parcarea de lângă pod oferă un drum scurt pe jos.",
-                "en": "The parking lot by the bridge offers a short walk."
+                "en": "The parking lot by the bridge offers a short walk.",
+                "fi": "Sillan vieressä oleva parkkipaikka tarjoaa lyhyen kävelymatkan."
               }
             },
             {
@@ -1110,7 +1203,8 @@
                 "de": "Großer Parkplatz direkt vor dem Friedhof.",
                 "hu": "Nagy parkoló közvetlenül a temető előtt.",
                 "ro": "Parcare mare direct în fața cimitirului.",
-                "en": "Large parking area directly in front of the cemetery."
+                "en": "Large parking area directly in front of the cemetery.",
+                "fi": "Suuri pysäköintialue hautausmaan välittömässä edessä."
               }
             },
             {
@@ -1119,7 +1213,8 @@
                 "de": "Überdachter Eingangsbereich zum Aussteigen.",
                 "hu": "Fedett bejárati rész a kiszálláshoz.",
                 "ro": "Zonă de intrare acoperită pentru debarcare.",
-                "en": "Covered entrance area for dropping off passengers."
+                "en": "Covered entrance area for dropping off passengers.",
+                "fi": "Katosalue matkustajien jättöä varten."
               }
             },
             {
@@ -1128,7 +1223,8 @@
                 "de": "Parkhaus Kauppapaikka ist ganz in der Nähe.",
                 "hu": "A Kauppapaikka parkolóház a közelben van.",
                 "ro": "Parcarea Kauppapaikka este foarte aproape.",
-                "en": "Kauppapaikka parking garage is very close by."
+                "en": "Kauppapaikka parking garage is very close by.",
+                "fi": "Kauppapaikka-parkkihalli on aivan lähellä."
               }
             }
           ],
@@ -1160,6 +1256,13 @@
               "Parking fees can be paid via apps like EasyPark.",
               "Keep distance from trucks spraying large amounts of water.",
               "Use seat heaters to dry off after getting in from the rain."
+            ],
+            "fi": [
+              "Varo vesiliirtoa tiellä Paltaniemeen mentäessä.",
+              "Ajovalot on pidettävä päällä koko ajan Suomessa.",
+              "Pysäköintimaksut voi maksaa sovelluksilla kuten EasyPark.",
+              "Pidä etäisyyttä kuorma-autoihin, jotka suihkuttavat suuria vesimääriä.",
+              "Käytä istuinsäätöjä tai -lämmitystä kuivuaksesi sateesta sisään tullessa."
             ]
           }
         },
@@ -1168,7 +1271,8 @@
             "de": "Im beheizten Auto lässt sich der finnische Winter in Kajaani genießen. Nach dem morgendlichen Enteisen besuchen wir den Marktplatz. Das Kainuu Museum bietet mittags eine warme Zuflucht. Die Fahrt zur Burgruine und zur Kirche von Paltaniemi führt durch eine weiße Wunderwelt, die man aus dem warmen Cockpit bestaunt. Den Abend verbringen wir im Kaukametsä Zentrum und beenden den Tag im Kunstmuseum.",
             "hu": "A fűtött autóban élvezetes a finn tél Kajaaniban. A reggeli jégkaparás után ellátogatunk a piacra. A Kainuu Múzeum délben meleg menedéket nyújt. A várromokhoz és a paltaniemi templomhoz vezető út fehér csodaországon át visz, amit a meleg utastérből csodálhatunk meg. Az estét a Kaukametsä központban töltjük, majd a Kunstmuseumban zárjuk a napot.",
             "ro": "Iarna finlandeză în Kajaani poate fi savurată dintr-o mașină încălzită. După degivrarea de dimineață, vizităm piața. Muzeul Kainuu oferă un refugiu cald la prânz. Drumul spre ruinele castelului și biserica Paltaniemi trece printr-un tărâm alb de vis, admirat din confortul cabinei. Seara o petrecem la centrul Kaukametsä și încheiem la Muzeul de Artă.",
-            "en": "The Finnish winter in Kajaani is best enjoyed from a heated car. After the morning de-icing, we visit the market square. Kainuu Museum offers a warm escape by noon. The drive to the castle ruins and Paltaniemi Church takes us through a white wonderland, viewed from the cozy interior. We spend the evening at Kaukametsä Center and finish at the Art Museum."
+            "en": "The Finnish winter in Kajaani is best enjoyed from a heated car. After the morning de-icing, we visit the market square. Kainuu Museum offers a warm escape by noon. The drive to the castle ruins and Paltaniemi Church takes us through a white wonderland, viewed from the cozy interior. We spend the evening at Kaukametsä Center and finish at the Art Museum.",
+            "fi": "Suomalainen talvi Kajaanissa on parasta nauttia lämmittävästä autosta. Aamun jääsulan jälkeen vierailemme torilla. Kainuu-museo tarjoaa lämpimän pakopaikan keskipäivällä. Ajo linnanraunioille ja Paltaniemen kirkolle kulkee valkoisen talvimaailman läpi, joka näkyy mukavasta sisätilasta. Vietämme illan Kaukametsän keskuksessa ja päädymme taidemuseolle."
           },
           "stops": [
             {
@@ -1177,7 +1281,8 @@
                 "de": "Vorsicht beim Parken auf hohen Schneehaufen.",
                 "hu": "Vigyázzon a parkolásnál a magas hóbuckákra.",
                 "ro": "Atenție la parcare lângă mormanele de zăpadă.",
-                "en": "Watch out for high snowbanks when parking."
+                "en": "Watch out for high snowbanks when parking.",
+                "fi": "Varo korkeita lumikinoksia pysäköidessäsi."
               }
             },
             {
@@ -1186,7 +1291,8 @@
                 "de": "Motorvorwärmung (Lohkolämmitin) nutzen.",
                 "hu": "Használja a motor-előmelegítőt.",
                 "ro": "Folosiți preîncălzirea motorului.",
-                "en": "Use engine pre-heating if available."
+                "en": "Use engine pre-heating if available.",
+                "fi": "Käytä moottorin esilämmitystä, jos saatavilla."
               }
             },
             {
@@ -1195,7 +1301,8 @@
                 "de": "Der Parkplatz kann sehr glatt sein.",
                 "hu": "A parkoló nagyon jeges lehet.",
                 "ro": "Parcarea poate fi foarte alunecoasă.",
-                "en": "The parking lot can be very icy."
+                "en": "The parking lot can be very icy.",
+                "fi": "Pysäköintialue voi olla hyvin jäinen."
               }
             },
             {
@@ -1204,7 +1311,8 @@
                 "de": "Die Zufahrtsstraße wird oft erst spät geräumt.",
                 "hu": "A bekötőutat gyakran későn takarítják.",
                 "ro": "Drumul de acces este curățat adesea mai târziu.",
-                "en": "Access roads might be cleared later in the day."
+                "en": "Access roads might be cleared later in the day.",
+                "fi": "Suuntausreitit saatetaan aurata vasta myöhemmin päivällä."
               }
             },
             {
@@ -1213,7 +1321,8 @@
                 "de": "Schütteln Sie Schnee von den Schuhen ab.",
                 "hu": "Rázza le a havat a cipőjéről.",
                 "ro": "Scuturați zăpada de pe încălțăminte.",
-                "en": "Shake the snow off your boots before entering."
+                "en": "Shake the snow off your boots before entering.",
+                "fi": "Ravista lumi pois kengistäsi ennen sisäänmenoa."
               }
             },
             {
@@ -1222,7 +1331,8 @@
                 "de": "Parken Sie in der Nähe des Eingangs.",
                 "hu": "Parkoljon minél közelebb a bejárathoz.",
                 "ro": "Parcați cât mai aproape de intrare.",
-                "en": "Park as close to the entrance as possible."
+                "en": "Park as close to the entrance as possible.",
+                "fi": "Pysäköi mahdollisimman lähelle sisäänkäyntiä."
               }
             }
           ],
@@ -1254,6 +1364,13 @@
               "Watch out for reindeer crossing the road in winter.",
               "Refuel early; fuel consumption increases in extreme cold.",
               "Use the block heater (electrical plug) when parked."
+            ],
+            "fi": [
+              "Nastarenkaat ovat täällä tavanomaiset ja välttämättömät.",
+              "Pidä jääraappa ja lumiharja autossa käden ulottuvilla.",
+              "Varo porojen tai tunturipeurojen tienylityksiä talvella.",
+              "Tankkaa ajoissa; polttoaineen kulutus kasvaa äärimmäisessä kylmyydessä.",
+              "Käytä lohkolämmitintä (sähköpistoke) pysäköidessäsi."
             ]
           }
         }
@@ -1283,7 +1400,8 @@
             "de": "Zentraler Knotenpunkt für lokale Busse.",
             "hu": "A helyi buszok központi csomópontja.",
             "ro": "Nod central pentru autobuzele locale.",
-            "en": "Central hub for local buses."
+            "en": "Central hub for local buses.",
+            "fi": "Paikallisbussien keskeinen solmukohta."
           }
         },
         {
@@ -1302,7 +1420,8 @@
             "de": "Nur 300 Meter Fußweg vom Hauptplatz.",
             "hu": "Csak 300 méter séta a főtértől.",
             "ro": "La doar 300 de metri de mers pe jos de piața principală.",
-            "en": "Only a 300-meter walk from the main square."
+            "en": "Only a 300-meter walk from the main square.",
+            "fi": "Vain 300 metrin kävelymatka päätorilta."
           }
         },
         {
@@ -1321,7 +1440,8 @@
             "de": "Wir bleiben im Fußgänger-Cluster des Zentrums.",
             "hu": "A központ gyalogos klaszterében maradunk.",
             "ro": "Rămânem în grupul pietonal al centrului.",
-            "en": "We stay in the center's pedestrian cluster."
+            "en": "We stay in the center's pedestrian cluster.",
+            "fi": "Pysymme keskuksen kävelyalueella."
           }
         },
         {
@@ -1340,7 +1460,8 @@
             "de": "Busverbindung zum historischen Dorf nehmen.",
             "hu": "Busszal a történelmi faluba.",
             "ro": "Luați autobuzul spre satul istoric.",
-            "en": "Take the bus connection to the historical village."
+            "en": "Take the bus connection to the historical village.",
+            "fi": "Ota bussiyhteys historialliselle kylälle."
           }
         },
         {
@@ -1359,7 +1480,8 @@
             "de": "Mit dem Bus zurück ins Zentrum.",
             "hu": "Busszal vissza a központba.",
             "ro": "Întoarcere cu autobuzul în centru.",
-            "en": "Bus ride back to the center."
+            "en": "Bus ride back to the center.",
+            "fi": "Bussimatka takaisin keskustaan."
           }
         }
       ],
@@ -1367,7 +1489,8 @@
         "de": "Wir beginnen am Marktplatz, dem wichtigsten Busknotenpunkt. Von dort gehen wir zu Fuß im zentralen Cluster zum Kainuu Museum und zur Burgruine. Nach der Erkundung der Stadtmitte nutzen wir den Nahverkehr, um zur 9 Kilometer entfernten Kirche von Paltaniemi zu fahren. Den Abschluss des Tages bildet die Busfahrt zurück ins Zentrum zum Kunstmuseum.",
         "hu": "A piactéren kezdünk, amely a buszok fő csomópontja. Innen gyalogosan, a központi klaszterben látogatjuk meg a Kainuu Múzeumot és a várromot. A belváros után helyi járattal indulunk a 9 kilométerre fekvő paltaniemi fatemplomhoz. A napot a buszos visszatérés és a Művészeti Múzeum zárja.",
         "ro": "Începem în Piață, principalul nod de autobuz. De acolo mergem pe jos în clusterul central spre Muzeul Kainuu și ruinele castelului. După explorarea centrului, folosim transportul public pentru a merge la biserica din Paltaniemi, aflată la 9 kilometri. Ziua se încheie cu călătoria cu autobuzul înapoi în centru, la Muzeul de Artă.",
-        "en": "We start at the Market Square, the main bus hub. From there, we walk in the central cluster to the Kainuu Museum and the castle ruins. After exploring the city center, we use local transit to travel to the Paltaniemi church, 9 kilometers away. The day concludes with a bus ride back to the center to visit the Art Museum."
+        "en": "We start at the Market Square, the main bus hub. From there, we walk in the central cluster to the Kainuu Museum and the castle ruins. After exploring the city center, we use local transit to travel to the Paltaniemi church, 9 kilometers away. The day concludes with a bus ride back to the center to visit the Art Museum.",
+        "fi": "Aloitamme Kauppatorilta, joka on pääbussien solmukohta. Siitä kävelemme keskusta-alueella Kainuu-museoon ja linnanraunioille. Kaupungin keskustan tutkimisen jälkeen käytämme paikallisliikennettä päästäksemme 9 kilometrin päähän Paltaniemen kirkolle. Päivä päättyy bussimatkaan takaisin keskustaan taidemuseota varten."
       },
       "gastro_picks": {
         "de": [
@@ -1471,6 +1594,11 @@
           "Check the bus schedules to Paltaniemi in advance.",
           "Day passes for the bus are often worth it.",
           "The center itself is easy to navigate on foot."
+        ],
+        "fi": [
+          "Tarkista bussien aikataulut Paltaniemeen etukäteen.",
+          "Päiväliput bussille kannattaa usein ostaa.",
+          "Keskusta on helppo liikkua jalan."
         ]
       },
       "variants": {
@@ -1479,7 +1607,8 @@
             "de": "Der Stadtbus bringt uns trocken vom Marktplatz zum Kainuu Museum. Die Wartezeiten verbringen wir in den überdachten Haltestellen. Mittags fahren wir zur Burgruine, wobei der Bus fast bis zum Eingang hält. Der Ausflug zur Kirche von Paltaniemi erfordert Planung, bietet aber eine trockene Fahrt durch die nassen Wälder. Den Abend beenden wir im Kunstmuseum, das gut an das Liniennetz angebunden ist.",
             "hu": "A helyi busz szárazon visz minket a piactól a Kainuu Múzeumig. A várakozási időt fedett megállókban töltjük. Délben a várromokhoz utazunk, a busz szinte a bejáratnál tesz le. A paltaniemi templomhoz való kijutás tervezést igényel, de száraz utazást biztosít a vizes erdőkön át. A napot a jól megközelíthető Kunstmuseumban zárjuk.",
             "ro": "Autobuzul local ne duce la adăpost de la piață la Muzeul Kainuu. Timpul de așteptare este petrecut în stații acoperite. La prânz mergem spre ruinele castelului, autobuzul oprind aproape de intrare. Excursia la biserica Paltaniemi necesită planificare, dar oferă un drum uscat prin pădure. Încheiem ziua la Muzeul de Artă, bine conectat la rețeaua de transport.",
-            "en": "The city bus keeps us dry as we travel from the market to Kainuu Museum. Waiting times are spent in sheltered bus stops. By noon, we head to the castle ruins; the bus stops very close to the entrance. The trip to Paltaniemi Church requires checking the schedule but offers a dry ride through the rainy forests. The day ends at the Art Museum, easily accessible by transit."
+            "en": "The city bus keeps us dry as we travel from the market to Kainuu Museum. Waiting times are spent in sheltered bus stops. By noon, we head to the castle ruins; the bus stops very close to the entrance. The trip to Paltaniemi Church requires checking the schedule but offers a dry ride through the rainy forests. The day ends at the Art Museum, easily accessible by transit.",
+            "fi": "Kaupunkibussi pitää meidät kuivina matkalla torilta Kainuu-museoon. Odotusajat vietetään katoksellisilla bussipysäkeillä. Keski­päivällä suuntaamme linnanraunioille; bussi pysähtyy hyvin lähellä sisäänkäyntiä. Matka Paltaniemen kirkolle vaatii aikataulun tarkistamista mutta tarjoaa kuivan kyydin sateisten metsien halki. Päivä päättyy taidemuseoon, jonne pääsee helposti julkisilla."
           },
           "stops": [
             {
@@ -1488,7 +1617,8 @@
                 "de": "Zentraler Knotenpunkt für alle Buslinien.",
                 "hu": "Minden buszjárat központi csomópontja.",
                 "ro": "Nod central pentru toate liniile de autobuz.",
-                "en": "Central hub for all local bus lines."
+                "en": "Central hub for all local bus lines.",
+                "fi": "Keskeinen solmukohta kaikille paikallisille bussilinjoille."
               }
             },
             {
@@ -1497,7 +1627,8 @@
                 "de": "Haltestelle 'Brahenkatu' ist direkt davor.",
                 "hu": "A 'Brahenkatu' megálló közvetlenül előtte van.",
                 "ro": "Stația 'Brahenkatu' este chiar în față.",
-                "en": "Bus stop 'Brahenkatu' is right in front."
+                "en": "Bus stop 'Brahenkatu' is right in front.",
+                "fi": "Bussipysäkki 'Brahenkatu' on aivan edessä."
               }
             },
             {
@@ -1506,7 +1637,8 @@
                 "de": "Kurzer Sprint von der Haltestelle zum Tor.",
                 "hu": "Rövid sprint a megállótól a kapuig.",
                 "ro": "Sprint scurt de la stație până la poartă.",
-                "en": "Short dash from the stop to the gate."
+                "en": "Short dash from the stop to the gate.",
+                "fi": "Lyhyt juoksu pysäkiltä portille."
               }
             },
             {
@@ -1515,7 +1647,8 @@
                 "de": "Prüfen Sie den Rückfahrplan genau.",
                 "hu": "Pontosan ellenőrizze a visszautat.",
                 "ro": "Verificați cu atenție orarul de întoarcere.",
-                "en": "Check the return schedule carefully."
+                "en": "Check the return schedule carefully.",
+                "fi": "Tarkista paluuaikataulu huolellisesti."
               }
             },
             {
@@ -1524,7 +1657,8 @@
                 "de": "Vom Busbahnhof nur 5 Minuten zu Fuß.",
                 "hu": "A buszpályaudvartól csak 5 perc séta.",
                 "ro": "Doar 5 minute de mers de la autogară.",
-                "en": "Only a 5-minute walk from the bus station."
+                "en": "Only a 5-minute walk from the bus station.",
+                "fi": "Vain viiden minuutin kävely bussiasemalta."
               }
             }
           ],
@@ -1556,6 +1690,13 @@
               "Sheltered stops are more common in the city center.",
               "Buses in Finland are remarkably punctual even in rain.",
               "Signal the driver clearly to ensure the bus stops for you."
+            ],
+            "fi": [
+              "Käytä paikallista liikennesovellusta reaaliaikaiseen seurantaan.",
+              "Pidä kortti tai pikkurahat valmiina maksua varten.",
+              "Keskustassa on yleisemmin katoksellisia pysäkkejä.",
+              "Bussit Suomessa ovat hämmästyttävän täsmällisiä jopa sateella.",
+              "Varmista kuljettajalle selkeä kädenmerkki, jotta bussi pysähtyy."
             ]
           }
         },
@@ -1564,7 +1705,8 @@
             "de": "Die warmen Busse in Kajaani sind im Winter ein Segen. Vom Marktplatz fahren wir gemütlich zum Kainuu Museum. Trotz Schnee verkehren die Busse zuverlässig. Mittags besuchen wir die Burgruine, wobei wir die Wartezeit im Busbahnhof verbringen. Die Fahrt nach Paltaniemi ist landschaftlich reizvoll, wenn die tiefstehende Sonne den Schnee glitzern lässt. Den Tag schließen wir im Kunstmuseum ab.",
             "hu": "A fűtött buszok Kajaaniban áldást jelentenek télen. A piacról kényelmesen utazunk a Kainuu Múzeumhoz. A hó ellenére a buszok megbízhatóan közlekednek. Délben a várromokhoz megyünk, a várakozási időt a buszpályaudvaron töltjük. A paltaniemi út látványos, amikor az alacsonyan járó nap megcsillan a havon. A napot a Kunstmuseumban zárjuk.",
             "ro": "Autobuzele calde din Kajaani sunt o binecuvântare iarna. Din piață mergem confortabil spre Muzeul Kainuu. În ciuda zăpezii, autobuzele circulă fiabil. La prânz vizităm ruinele, petrecând timpul de așteptare în autogară. Drumul spre Paltaniemi este pitoresc când soarele jos face zăpada să strălucească. Încheiem ziua la Muzeul de Artă.",
-            "en": "Heated buses in Kajaani are a blessing in winter. From the market, we travel in comfort to Kainuu Museum. Despite the snow, transit remains reliable. By noon, we head to the ruins, using the bus station as a warm waiting area. The ride to Paltaniemi is scenic with the low winter sun sparkling on the snow. We wrap up our day at the Art Museum."
+            "en": "Heated buses in Kajaani are a blessing in winter. From the market, we travel in comfort to Kainuu Museum. Despite the snow, transit remains reliable. By noon, we head to the ruins, using the bus station as a warm waiting area. The ride to Paltaniemi is scenic with the low winter sun sparkling on the snow. We wrap up our day at the Art Museum.",
+            "fi": "Lämmitetyt bussit Kajaanissa ovat pelastus talvella. Torilta matkustamme mukavasti Kainuu-museoon. Lumesta huolimatta joukkoliikenne on luotettavaa. Keski­päivällä suuntaamme raunioille ja käytämme bussiasemaa lämpimänä odotuspaikkana. Matka Paltaniemeen on maisemallinen, kun alhainen talvinen aurinko kimaltelee lumessa. Päivämme päätämme taidemuseossa."
           },
           "stops": [
             {
@@ -1573,7 +1715,8 @@
                 "de": "Der Busbahnhof bietet einen beheizten Warteraum.",
                 "hu": "A buszpályaudvarnak fűtött váróterme van.",
                 "ro": "Autogara are o sală de așteptare încălzită.",
-                "en": "The bus station has a heated waiting room."
+                "en": "The bus station has a heated waiting room.",
+                "fi": "Bussiasemalla on lämmitetty odotushuone."
               }
             },
             {
@@ -1582,7 +1725,8 @@
                 "de": "Der Bus hält direkt vor der Tür.",
                 "hu": "A busz közvetlenül az ajtó előtt áll meg.",
                 "ro": "Autobuzul oprește chiar în fața ușii.",
-                "en": "The bus stops right in front of the door."
+                "en": "The bus stops right in front of the door.",
+                "fi": "Bussi pysähtyy aivan oven eteen."
               }
             },
             {
@@ -1591,7 +1735,8 @@
                 "de": "Vorsicht vor Schneehaufen an der Haltestelle.",
                 "hu": "Vigyázzon a hóbuckákra a megállónál.",
                 "ro": "Atenție la mormanele de zăpadă din stație.",
-                "en": "Watch out for snow piles at the bus stop."
+                "en": "Watch out for snow piles at the bus stop.",
+                "fi": "Varo lumivalleja bussipysäkillä."
               }
             },
             {
@@ -1600,7 +1745,8 @@
                 "de": "Der Busverkehr ist im Winter seltener.",
                 "hu": "Télen ritkábban járnak ide a buszok.",
                 "ro": "Autobuzele circulă mai rar aici pe timp de iarnă.",
-                "en": "Bus service here is less frequent in winter."
+                "en": "Bus service here is less frequent in winter.",
+                "fi": "Bussivuorot ovat harvempia talvella."
               }
             },
             {
@@ -1609,7 +1755,8 @@
                 "de": "Warme Kleidung für den kurzen Fußweg nötig.",
                 "hu": "Meleg ruha kell a rövid sétához.",
                 "ro": "Haine groase necesare pentru drumul scurt pe jos.",
-                "en": "Warm clothing needed for the short walk."
+                "en": "Warm clothing needed for the short walk.",
+                "fi": "Lämmin pukeutuminen tarvitaan lyhyelle kävelylle."
               }
             }
           ],
@@ -1641,6 +1788,13 @@
               "Schedules may change during Finnish school holidays.",
               "Buses are kept very warm; layers are recommended.",
               "Heavy snowfall may cause minor delays in transit times."
+            ],
+            "fi": [
+              "Syvässä pakkasessa bussit ovat usein ainoa liikkumistapa.",
+              "Käytä heijastimia odottaessasi tien reunassa.",
+              "Aikataulut saattavat muuttua koulujen loma-aikoina.",
+              "Busseissa pidetään hyvin lämmintä; kerrospukeutuminen suositeltavaa.",
+              "Runsas lumisade saattaa aiheuttaa pieniä viiveitä liikenteessä."
             ]
           }
         }
