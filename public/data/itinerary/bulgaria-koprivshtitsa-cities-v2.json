@@ -39,7 +39,7 @@
             "hu": "Csodálja meg a gazdag belső díszítést, amely a korábbi tulajdonosok gazdagságát tükrözi.",
             "ro": "Admirați decorațiunile interioare bogate, care reflectă prosperitatea foștilor proprietari.",
             "en": "Admire the rich interior decorations reflecting the prosperity of its former owners.",
-            "bg": "Възхитете се на богатите вътрешни украси, отразяващи благосъстоянието на бившите й собственици."
+            "bg": "Възхитете се на богатите вътрешни декорации, отразяващи благосъстоянието на бившите й собственици."
           }
         },
         {
@@ -117,7 +117,7 @@
             "hu": "Ismerje meg a befolyásos Karavelov családot és szerepüket a bolgár történelemben.",
             "ro": "Aflați despre influenta familie Karavelov și rolul lor în istoria Bulgariei.",
             "en": "Learn about the influential Karavelov family and their role in Bulgarian history.",
-            "bg": "Научете за влиятелната фамилия Каравелови и тяхната роля в българската история."
+            "bg": "Научете за влиятелното семейство Каравелови и тяхната роля в българската история."
           }
         },
         {
@@ -195,7 +195,7 @@
             "hu": "Georgi Benkovszki forradalmi vezetőnek szentelték. Történelemkedvelőknek kötelező.",
             "ro": "Dedicată liderului revoluționar Georgi Benkovski. O vizită obligatorie pentru pasionații de istorie.",
             "en": "Dedicated to the revolutionary leader Georgi Benkovski. A must-visit for history buffs.",
-            "bg": "Посветена на революционния водач Георги Бенковски. Задължително място за любителите на историята."
+            "bg": "Посветена на революционния водач Георги Бенковски. Задължителна за любителите на историята."
           }
         },
         {
@@ -204,7 +204,7 @@
             "hu": "Az első puskalövés hídja",
             "ro": "Podul Primului Foc",
             "en": "First Shot Bridge",
-            "bg": "Мостът „Първа пушка“"
+            "bg": "Мостът на първата пушка"
           },
           "coords": [
             24.0825,
@@ -221,7 +221,7 @@
             "hu": "Szimbolikus hely, ahol az áprilisi felkelés elkezdődött. Tökéletes egy emlékképhez.",
             "ro": "Un loc simbolic unde a început Răscoala din Aprilie. Perfect pentru o fotografie comemorativă.",
             "en": "A symbolic spot where the April Uprising began. Perfect for a commemorative photo.",
-            "bg": "Символично място, където започва Априлското въстание. Перфектно за паметна снимка."
+            "bg": "Символично място, където започва Априлското въстание. Перфектно за възпоменателна снимка."
           }
         }
       ],
@@ -230,7 +230,7 @@
         "hu": "Kezdje a napot egy utazással a bolgár újjászületés korába, felfedezve Koprivstica csodálatos házait. Délelőtt látogassa meg a gazdagon díszített rezidenciákat, mint az Oszlekov- és Ljutov-házat. Ebéd után egy hagyományos mehanában az útja a Mária Mennybemenetele templomhoz és a híres forradalmárok házaihoz vezet. A délutánt a város forradalmi történelmének megismerésével tölti, amely az Első Puskalövés szimbolikus hídjánál zárul.",
         "ro": "Începeți ziua cu o călătorie în Renașterea Bulgară, explorând casele magnifice din Koprivștița. Dimineața, vizitați reședințele decorate artistic, cum ar fi Casa Oslekov și Casa Lyutov. După prânzul la o mehana tradițională, drumul vă duce la Biserica Adormirea Maicii Domnului și casele unor revoluționari faimoși. După-amiaza este dedicată scufundării în istoria revoluționară a orașului, culminând la simbolic Podul Primului Foc.",
         "en": "Start your day with a journey into the Bulgarian Revival era by exploring the magnificent houses of Koprivshtitsa. In the morning, visit the intricately decorated residences like the Oslekov and Lyutov Houses. After lunch at a traditional mehana, your path leads to the Church of the Assumption and the homes of famous revolutionaries. The afternoon is for immersing yourself in the town's revolutionary history, ending at the symbolic First Shot Bridge.",
-        "bg": "Започнете деня си с пътуване във Възрожденската епоха, разглеждайки великолепните къщи на Копривщица. Сутринта посетете богато украсени домове като къщите на Ослеков и Люотов. След обяд в традиционна механа продължете към църквата „Успение Богородично“ и домовете на известни революционери. Следобедът отделете за потапяне в революционната история на града, като завършите на символичния Мост „Първа пушка“."
+        "bg": "Започнете деня с пътуване в епохата на българското възраждане, разглеждайки великолепните къщи на Копривщица. Сутринта посетете богато декорираните домове като къщите Ослеков и Люотов. След обяд в традиционна механа, пътят ви води към църквата Успение и домовете на известни революционери. Следобедът е за потапяне в революционната история на града, като завършите на символичния Мост на първата пушка."
       },
       "gastro_picks": {
         "de": [
@@ -428,10 +428,10 @@
           "Take your time and soak in the unique atmosphere; don't rush from one site to another."
         ],
         "bg": [
-          "Носете удобни обувки — уличките са павирани с калдъръм.",
-          "Закупете комбиниран билет за посещение на няколко къщи-музей, за да спестите пари.",
-          "Проверете работното време предварително — някои къщи могат да имат сезонно разписание.",
-          "Отделете си време и се насладете на уникалната атмосфера; не бързайте от една забележителност към друга."
+          "Носете удобни обувки, тъй като улиците на града са павирани.",
+          "Купете комбиниран билет за посещение на няколко къщи-музеи, за да спестите пари.",
+          "Проверете работното време предварително, тъй като някои къщи могат да имат сезонно разписание.",
+          "Не бързайте — отделете време и усетете уникалната атмосфера; не препускайте от един обект към друг."
         ]
       },
       "variants": {
@@ -441,7 +441,7 @@
             "hu": "Reggel az Oslekov- és Lyutov-házak belső tereiben bújhat el az eső elől, megcsodálva a festett falakat. Ebédre keressen egy barátságos mehanát a központban. Délután a Karavelov- és Debelyanov-múzeumok kiállításai nyújtanak tartalmas fedett programot. Az estét egy esernyős séta zárja a történelmi Első Lövés hídjánál, ahol a patak zúgása még intenzívebb.",
             "ro": "Dimineața este dedicată vizitării caselor Oslekov și Lyutov, oferind un adăpost excelent împotriva ploii. La prânz, savurați mâncăruri tradiționale într-o mehana călduroasă. După-amiaza continuă cu interioarele fascinante ale caselor Karavelov și Debelyanov. Seara se încheie cu o scurtă plimbare sub umbrelă până la Podul Primului Glonț, ascultând susurul apei.",
             "en": "Morning starts with the Oslekov and Lyutov houses, providing great indoor shelter from the rain. For lunch, head to a local mehana to dry off and enjoy hearty Bulgarian soup. Spend the afternoon exploring the historical exhibits inside the Karavelov and Debelyanov houses. The day ends with a quick, atmospheric walk to the First Shot Bridge under your umbrella.",
-            "bg": "Сутринта започнете с къщите на Ослеков и Люотов, които предоставят добро вътрешно убежище от дъжда. За обяд отидете в местна механа да се подсушите и да се насладите на сърдечна българска супа. Прекарвайте следобеда в разглеждане на историческите експонати в къщите на Каравелов и Дебелянов. Денят завършва с бърза, атмосферична разходка до Мост „Първа пушка“ под чадъра ви."
+            "bg": "Сутринта започва с къщите Ослеков и Люотов, които предлагат добро закрито убежище от дъжда. За обяд отидете в местна механа да се подсушите и да се насладите на питателна българска супа. Прекарайте следобеда в разглеждане на историческите изложби в къщите Каравелов и Дебелянов. Денят завършва с бърза, атмосфeрна разходка до Моста на първата пушка под чадъра ви."
           },
           "stops": [
             {
@@ -451,7 +451,7 @@
                 "hu": "Használja a fedett bejáratot az esernyők lerázásához.",
                 "ro": "Folosiți intrarea acoperită pentru a vă scutura umbrelele.",
                 "en": "Use the covered entrance area to shake off your umbrellas.",
-                "bg": "Използвайте покритото входно пространство, за да оттръскате чадърите си."
+                "bg": "Използвайте покритото входно пространство, за да оттрепете чадърите си."
               }
             },
             {
@@ -461,7 +461,7 @@
                 "hu": "A pompás mennyezeti festmények feledtetik a szürke időt.",
                 "ro": "Picturile murale superbe vă vor face să uitați de cerul gri.",
                 "en": "The magnificent ceiling paintings will make you forget the gray sky.",
-                "bg": "Величествените таванни живописи ще ви накарат да забравите за сивото небе."
+                "bg": "Великолепните таванни рисунки ще ви накарат да забравите за сивото небе."
               }
             },
             {
@@ -471,7 +471,7 @@
                 "hu": "A benti csend esőben még meghittebb hangulatot áraszt.",
                 "ro": "Liniștea din interior este deosebit de relaxantă pe ploaie.",
                 "en": "The silence inside is particularly contemplative during the rain.",
-                "bg": "Тишината вътре е особено съзерцателна по време на дъжд."
+                "bg": "Вътрешната тишина е особено умиротворяваща по време на дъжд."
               }
             },
             {
@@ -481,7 +481,7 @@
                 "hu": "Vigyázzon a nedves fa lépcsőfokokon az udvaron.",
                 "ro": "Atenție la treptele de lemn umede din curte.",
                 "en": "Be careful on the wet wooden steps in the courtyard.",
-                "bg": "Внимавайте на мокрите дървени стъпала в двора."
+                "bg": "Бъдете внимателни на мокрите дървени стъпала във вътрешния двор."
               }
             },
             {
@@ -511,7 +511,7 @@
                 "hu": "A házhoz vezető emelkedő nedves időben csúszós lehet.",
                 "ro": "Urcarea spre casă poate fi alunecoasă pe timp de ploaie.",
                 "en": "The climb to the house can be slippery in wet weather.",
-                "bg": "Изкачването до къщата може да бъде хлъзгаво при мокро време."
+                "bg": "Изкачването към къщата може да бъде хлъзгаво при мокро време."
               }
             },
             {
@@ -521,7 +521,7 @@
                 "hu": "A híd környéki macskakő esőben rendkívül csúszós.",
                 "ro": "Pavajul de lângă pod este foarte alunecos pe ploaie.",
                 "en": "The cobblestones near the bridge are very slick when wet.",
-                "bg": "Калдъръмът близо до моста става много хлъзгав, когато е мокър."
+                "bg": "Паятите близо до моста са много хлъзгави при намокряне."
               }
             }
           ],
@@ -555,9 +555,9 @@
               "Watch out for deep puddles between the uneven stones."
             ],
             "bg": [
-              "Носете водоустойчива обувка за хлъзгавите калдъръмени улици.",
-              "Повечето музейни къщи са на няколко минути пеша една от друга.",
-              "При силен дъжд местните таверни осигуряват отлична защита.",
+              "Носете водоустойчива обувка за хлъзгавите павирани улици.",
+              "Повечето музени къщи са на няколко минути пеша една от друга.",
+              "При силен дъжд местните кръчми осигуряват отлично укритие.",
               "Поради планински ветрове силно се препоръчва здрав чадър.",
               "Внимавайте за дълбоки локви между неравните камъни."
             ]
@@ -569,7 +569,7 @@
             "hu": "A télies Koprivstica fagyos, de gyönyörű látványt nyújt a reggeli órákban. Délben melegedjen fel egy forró bolgár teával valamelyik fűtött vendéglőben. Mivel korán sötétedik, a domboldali múzeumokat kora délután látogassa meg. Az estét töltse egy kandalló mellett a központban, miközben odakint csendesen hull a hó a régi háztetőkre.",
             "ro": "O dimineață de iarnă în Koprivshtitsa oferă peisaje înghețate superbe asupra arhitecturii vechi. La prânz, încălziți-vă cu un ceai bulgăresc fierbinte într-o pensiune încălzită. Deoarece soarele apune devreme, vizitați casele de pe deal la începutul după-amiezii. Seara se petrece la gura semineului într-o mehana, admirând ninsoarea.",
             "en": "A winter morning in Koprivshtitsa starts with frosty, scenic views of the old architecture. At noon, warm up with hot Bulgarian tea in a heated inn. Since the sun sets early, make sure to visit the uphill museum houses by early afternoon. Spend the evening by a fireplace in a local mehana while snow covers the historic alleys outside.",
-            "bg": "Зимното утро в Копривщица започва с мразовити, живописни гледки към старата архитектура. В средата на деня стоплете се с горещ български чай в отоплена кръчма. Тъй като слънцето залязва рано, уверете се, че посещавате нагорнище музейните къщи до ранния следобед. Прекарайте вечерта до огнище в местна механа, докато снегът покрива историческите улички навън."
+            "bg": "Зимен сутрин в Копривщица започва с мразовити, живописни гледки към старинната архитектура. На обяд се стоплете с горещ български чай в отопляема кръчма. Тъй като слънцето залязва рано, уверете се, че посещавате музейните къщи нагоре по хълма до ранния следобед. Прекарайте вечерта край огнище в местна механа, докато сняг покрива историческите улички навън."
           },
           "stops": [
             {
@@ -579,7 +579,7 @@
                 "hu": "Vigyázzon a jegesedésre a ház verandáján.",
                 "ro": "Atenție la gheața de pe veranda casei.",
                 "en": "Watch out for ice on the house's veranda.",
-                "bg": "Внимавайте за лед по веранта на къщата."
+                "bg": "Внимавайте за лед по веранната на къщата."
               }
             },
             {
@@ -589,7 +589,7 @@
                 "hu": "Odabent jóval melegebb van, mint a kinti utcákon.",
                 "ro": "În interior este mult mai cald decât pe străzile de afară.",
                 "en": "It is much warmer inside than in the outdoor alleys.",
-                "bg": "Вътре е значително по-топло, отколкото по външните улички."
+                "bg": "Вътре е значително по-топло отколкото в откритите улички."
               }
             },
             {
@@ -599,7 +599,7 @@
                 "hu": "Ügyeljen a templom rövidített téli nyitvatartására.",
                 "ro": "Respectați programul de iarnă redus al bisericii.",
                 "en": "Note the shortened winter opening hours of the church.",
-                "bg": "Обърнете внимание на съкратеното зимно работно време на църквата."
+                "bg": "Имайте предвид съкратеното зимно работно време на църквата."
               }
             },
             {
@@ -609,7 +609,7 @@
                 "hu": "Az udvar télen festői havas látványt nyújt.",
                 "ro": "Curtea oferă un decor de iarnă pitoresc când ninge.",
                 "en": "The courtyard offers a picturesque snowy backdrop in winter.",
-                "bg": "Дворът предлага живописен снежен фон през зимата."
+                "bg": "Вътрешният двор предлага живописен снежен фон през зимата."
               }
             },
             {
@@ -619,7 +619,7 @@
                 "hu": "Különösen hangulatos alkonyatkor, a hóban.",
                 "ro": "Deosebit de atmosferic la amurg în zăpadă.",
                 "en": "Particularly atmospheric at dusk in the snow.",
-                "bg": "Особено атмосферично по здрач в снега."
+                "bg": "Особено атмосферично при здрач в снега."
               }
             },
             {
@@ -629,7 +629,7 @@
                 "hu": "Viseljen meleg zoknit, a fapadlók hidegek lehetnek.",
                 "ro": "Purtați șosete groase, podelele de lemn pot fi reci.",
                 "en": "Wear warm socks, as wooden floors can be cold.",
-                "bg": "Носете топли чорапи — дървените подове могат да са студени."
+                "bg": "Носете топли чорапи, тъй като дървените подове могат да бъдат студени."
               }
             },
             {
@@ -639,7 +639,7 @@
                 "hu": "A meredek út télen gyakran jeges és csúszós.",
                 "ro": "Drumul abrupt este adesea înghețat iarna.",
                 "en": "The steep path is often icy and slippery in winter.",
-                "bg": "Стръмната пътека често е заледена и хлъзгава през зимата."
+                "bg": "Стръмният път често е заледен и хлъзгав през зимата."
               }
             },
             {
@@ -683,11 +683,11 @@
               "Enjoy some 'Grejana Rakija' to warm up in the evening."
             ],
             "bg": [
-              "Многослойното обличане и шапка са задължителни заради планинския въздух.",
-              "Слънцето изчезва зад планините още около 16:30.",
-              "Внимавайте за висулки от лед, висящи от старите покриви.",
-              "Някои малки магазини могат да бъдат затворени през зимния сезон.",
-              "Насладете се на чаша „Грeяна ракија“, за да се стоплите вечерта."
+              "Носете многослойни дрехи и шапка поради планинския въздух.",
+              "Слънцето изчезва зад планините още в 16:30.",
+              "Внимавайте за висулки от лед по старите покриви.",
+              "Някои малки магазинчета може да са затворени през зимния сезон.",
+              "Почерпете се с „Грeяна ракя“, за да се стоплите вечерта."
             ]
           }
         }
@@ -724,7 +724,7 @@
             "hu": "Kezdje a legmagasabb ponton, hogy élvezze a kilátást, mielőtt leereszkedik.",
             "ro": "Începeți de la cel mai înalt punct pentru a vă bucura de priveliște înainte de a coborî.",
             "en": "Start at the highest point to enjoy the view before cycling down.",
-            "bg": "Започнете от най-високата точка, за да се насладите на гледката преди да спуснете надолу с колело."
+            "bg": "Започнете от най-високата точка, за да се насладите на гледката преди да се спуснете с колело."
           }
         },
         {
@@ -776,7 +776,7 @@
             "hu": "Csodálja meg a gazdag belső díszítést, amely a korábbi tulajdonosok gazdagságát tükrözi.",
             "ro": "Admirați decorațiunile interioare bogate, care reflectă prosperitatea foștilor proprietari.",
             "en": "Admire the rich interior decorations reflecting the prosperity of its former owners.",
-            "bg": "Възхитете се на богатите вътрешни украси, отразяващи благосъстоянието на бившите собственици."
+            "bg": "Възхитете се на богатите интериорни декорации, отразяващи благосъстоянието на бившите й собственици."
           }
         },
         {
@@ -802,7 +802,7 @@
             "hu": "Keresse a gyönyörűen festett kék verandát és az ovális mennyezeteket.",
             "ro": "Observați veranda albastră pictată frumos și tavanele ovale unice.",
             "en": "Look for the beautifully painted blue veranda and its unique oval ceilings.",
-            "bg": "Обърнете внимание на красиво боядисаната синя веранда и уникалните овални тавани."
+            "bg": "Потърсете красиво изрисуваната синя веранда и уникалните овални тавани."
           }
         },
         {
@@ -811,7 +811,7 @@
             "hu": "Mária Mennybemenetele templom",
             "ro": "Biserica Adormirea Maicii Domnului",
             "en": "Church of the Assumption",
-            "bg": "Църква „Успение Богородично“"
+            "bg": "Църква „Успение“"
           },
           "coords": [
             24.0833,
@@ -828,7 +828,7 @@
             "hu": "Egy csendes, békés hely. Figyelje meg a felbecsülhetetlen értékű ikonokat és a szerény építészetet.",
             "ro": "Un loc de liniște. Observați icoanele de neprețuit și arhitectura sa modestă.",
             "en": "A place of tranquility. Note the priceless icons and its humble architecture.",
-            "bg": "Място на спокойствие. Обърнете внимание на безценните икони и скромната ѝ архитектура."
+            "bg": "Място на спокойствие. Обърнете внимание на безценните икони и скромната й архитектура."
           }
         },
         {
@@ -854,7 +854,7 @@
             "hu": "Dimcso Debeljanov költő otthona. Érezze a hely költői hangulatát.",
             "ro": "Casa poetului Dimcho Debelyanov. Simțiți atmosfera poetică a acestui loc.",
             "en": "The home of poet Dimcho Debelyanov. Feel the poetic atmosphere of the place.",
-            "bg": "Домът на поета Димчо Дебелянов. Почувствайте поетичната атмосфера на мястото."
+            "bg": "Домът на поета Димчо Дебелянов. Усетете поетичната атмосфера на мястото."
           }
         },
         {
@@ -889,7 +889,7 @@
             "hu": "Az első puskalövés hídja",
             "ro": "Podul Primului Foc",
             "en": "First Shot Bridge",
-            "bg": "Мостът „Първа пушка“"
+            "bg": "Мостът на първата пушка"
           },
           "coords": [
             24.0825,
@@ -915,7 +915,7 @@
         "hu": "Fedezze fel Koprivsticát két keréken. Kezdje a napot a dombokon, a Benkovszki-háznál, majd guruljon lefelé, hogy felfedezze a város építészeti gyöngyszemeit. Délelőtt látogassa meg a Kableskov- és Oszlekov-házat. Egy gyors ebéd után irány a város szíve, a templom, valamint a költők és gondolkodók házai. A délután egy laza tekerést kínál a folyó mentén, amely a történelmi Első Puskalövés hídjánál ér véget, teljes képet adva a városról.",
         "ro": "Explorați Koprivștița pe două roți. Începeți ziua de pe dealurile de la Casa Benkovski, apoi coborâți pentru a descoperi bijuteriile arhitecturale ale orașului. Dimineața, vizitați Casa Kableshkov și Casa Oslekov. După un prânz rapid, îndreptați-vă spre inima orașului, la biserică și la casele poeților și gânditorilor. După-amiaza oferă o plimbare relaxantă de-a lungul râului, terminându-se la istoricul Pod al Primului Foc, oferindu-vă o imagine completă a orașului.",
         "en": "Explore Koprivshtitsa on two wheels. Start your day on the hills at the Benkovski House, then roll downhill to discover the town's architectural gems. In the morning, visit the Kableshkov and Oslekov Houses. After a quick lunch, head to the heart of the town, visiting the church and the homes of poets and thinkers. The afternoon offers a relaxed ride along the river, ending at the historic First Shot Bridge, giving you a comprehensive view of the town.",
-        "bg": "Разгледайте Копривщица на две колела. Започнете деня си по хълмовете при къщата на Бенковски, след което се спуснете надолу, за да откриете архитектурните чудеса на града. Сутринта посетете къщите на Каблешков и Ослеков. След бърз обяд се насочете към сърцето на града — църквата и домовете на поети и мислители. Следобедът предлага спокойна разходка покрай реката, завършваща на историческия Мост „Първа пушка“, което ви дава пълна представа за града."
+        "bg": "Разгледайте Копривщица на две колела. Започнете деня по хълмовете при къщата „Бенковски“, след това спуснете се надолу, за да откриете архитектурните съкровища на града. Сутринта посетете къщите „Каблешков“ и „Ослеков“. След бърз обяд се насочете към сърцето на града, посещавайки църквата и домовете на поети и мислители. Следобедът предлага разходка с колело покрай реката, като завършите при историческия Мост на първата пушка, което ви дава пълна представа за града."
       },
       "gastro_picks": {
         "de": [
@@ -1113,10 +1113,10 @@
           "Allow for extra time for walking your bike up steeper sections."
         ],
         "bg": [
-          "Внимавайте на калдъръма — може да е предизвикателство за велосипеди.",
-          "Заключвайте велосипеда си на обозначените стойки, докато разглеждате къщите.",
-          "Планински велосипед е по-подходящ от шосейния заради терена.",
-          "Оставете допълнително време да водите велосипед при по-стръмни участъци."
+          "Бъдете внимателни на паветата, които могат да бъдат предизвикателни за велосипеди.",
+          "Заключвайте велосипеда си на предназначените стойки, докато разглеждате къщите.",
+          "Планински велосипед е по-подходящ от шосеен заради терена.",
+          "Отделете допълнително време за бутане на колелото по по-стръмните участъци."
         ]
       },
       "variants": {
@@ -1126,7 +1126,7 @@
             "hu": "Az esős bringázás óvatosságot igényel Koprivstica csúszós macskakövein. Kezdje fent a Benkovszki-háznál, és óvatosan ereszkedjen lefelé. Délben tartson pihenőt egy étteremben, hogy megszárítsa a ruháit. Délután a völgyben lévő múzeumok között tekerjen, majd a túrát az Első Lövés hídjánál zárja.",
             "ro": "O plimbare cu bicicleta pe ploaie necesită prudență pe pavajul alunecos. Începeți sus la Casa Benkovski și coborâți cu grijă. La prânz, o pauză la o mehana este ideală pentru a vă usca hainele. După-amiaza pedalați între muzeele din vale și încheiați turul la Podul Primului Glonț.",
             "en": "Cycling in the rain requires caution on the slippery cobblestones of Koprivshtitsa. Start high at Benkovski House and descend carefully. At noon, a break in a mehana is ideal for drying your gear. In the afternoon, cycle between the museums in the valley and finish at the First Shot Bridge.",
-            "bg": "Карането в дъжд изисква внимание заради хлъзгавия калдъръм в Копривщица. Започнете високо при къщата на Бенковски и се спускайте внимателно. В средата на деня почивка в механа е идеална за подсушаване на екипировката. Следобед карайте между музеите в долината и завършете на Мост „Първа пушка“."
+            "bg": "Карането в дъжд изисква внимание заради хлъзгавите павета в Копривщица. Започнете от високата точка при къщата „Бенковски“ и се спускайте внимателно. На обяд пауза в механа е идеална за подсушаване на екипировката. Следобед карайте между музеите в долината и завършете при Моста на първата пушка."
           },
           "stops": [
             {
@@ -1136,7 +1136,7 @@
                 "hu": "Ellenőrizze a fékeit a nedves köveken való ereszkedés előtt.",
                 "ro": "Verificați frânele înainte de coborârea pe pietre umede.",
                 "en": "Check your brakes before descending on wet stones.",
-                "bg": "Проверете спирачките си преди спускане по мокрите камъни."
+                "bg": "Проверете спирачките преди спускане по мокри камъни."
               }
             },
             {
@@ -1146,7 +1146,7 @@
                 "hu": "Parkolja le a biciklit az eresz alatt.",
                 "ro": "Parcați bicicleta sub streașină.",
                 "en": "Park your bike under the roof overhang.",
-                "bg": "Паркирайте велосипеда си под навеса."
+                "bg": "Паркирайте колелото под стрехата."
               }
             },
             {
@@ -1156,7 +1156,7 @@
                 "hu": "Rövid séta a biciklitárolótól a bejáratig.",
                 "ro": "Planificați o scurtă plimbare de la rastel la intrare.",
                 "en": "Plan a short walk from the bike rack to the entrance.",
-                "bg": "Планирайте кратка разходка от стойката за велосипеди до входа."
+                "bg": "Планирайте кратка разходка от стойката до входа."
               }
             },
             {
@@ -1166,7 +1166,7 @@
                 "hu": "Itt a macskakő különösen egyenetlen és csúszós.",
                 "ro": "Pavajul aici este deosebit de denivelat și alunecos.",
                 "en": "The cobblestones here are particularly uneven and slick.",
-                "bg": "Калдъръмът тук е особено неравен и хлъзгав."
+                "bg": "Паветата тук са особено неравни и хлъзгави."
               }
             },
             {
@@ -1176,7 +1176,7 @@
                 "hu": "Kerülje a hirtelen fékezést a templomtéren.",
                 "ro": "Evitați frânarea bruscă în fața pieței bisericii.",
                 "en": "Avoid sudden braking in front of the church square.",
-                "bg": "Избягвайте внезапно спиране пред църковния площад."
+                "bg": "Избягвайте рязко спиране пред църковния площад."
               }
             },
             {
@@ -1186,7 +1186,7 @@
                 "hu": "Stabilan állítsa le a biciklit a puha, nedves talajon.",
                 "ro": "Parcați bicicleta stabil pe solul moale și umed.",
                 "en": "Park your bike securely on the soft, wet ground.",
-                "bg": "Заключете велосипеда си сигурно на мека, влажна земя."
+                "bg": "Паркирайте сигурно колелото на меката, мокра настилка."
               }
             },
             {
@@ -1196,7 +1196,7 @@
                 "hu": "A sárvédő elengedhetetlen ilyen időben.",
                 "ro": "Apărătorile de noroi sunt indispensabile pe acest timp.",
                 "en": "Mudguards are indispensable in this weather.",
-                "bg": "Калниците (крилата) са незаменими при това време."
+                "bg": "Калниците са незаменими в това време."
               }
             },
             {
@@ -1241,9 +1241,9 @@
             ],
             "bg": [
               "Намалете леко налягането в гумите за по-добро сцепление.",
-              "Избягвайте метални оттоци в ъглите.",
-              "Носете ярка водоотблъскваща яке с висока видимост.",
-              "Карайте по-бавно на калдъръмените улици.",
+              "Избягвайте металните улеи за отводняване в завоите.",
+              "Носете яркоотразителна водоустойчива якета.",
+              "Карайте по-бавно на павираните улици.",
               "Подсушете веригата след карането, за да предотвратите ръжда."
             ]
           }
@@ -1254,7 +1254,7 @@
             "hu": "A téli bringázás Koprivsticában csak letakarított utakon javasolt. A reggel friss levegőt és havas háztetőket ígér. Délben tartsanak hosszú pihenőt a felmelegedéshez. Délután óvatosan tekerjenek át a szűk utcákon, mielőtt leszáll az éj. Este, a bringák leadása után, irány egy hangulatos taverna.",
             "ro": "Ciclismul de iarnă în Koprivshtitsa este recomandat doar pe drumurile curățate. Dimineața oferă aer curat și acoperișuri înzăpezite. La prânz, este necesară o pauză lungă pentru încălzire. După-amiaza pedalați cu grijă pe străzile înguste înainte de lăsarea întunericului.",
             "en": "Winter cycling in Koprivshtitsa is only advisable on cleared paths. The morning offers crisp air and snowy rooftops. At noon, a long break to warm up is essential. In the afternoon, cycle carefully through the narrow alleys before it gets dark. Spend the evening in a cozy tavern after returning the bikes.",
-            "bg": "Зимното колоездене в Копривщица е препоръчително само по разчистени пътеки. Сутринта въздухът е свеж и покривите са заснежени. В средата на деня е задължителна дълга пауза за затопляне. Следобед карайте внимателно през тесните улички преди да стане тъмно. Прекарайте вечерта в уютна механа след връщане на велосипедите."
+            "bg": "Зимното каране в Копривщица е препоръчително само по почистени пътеки. Сутринта предлага свеж въздух и заснежени покриви. На обяд е задължителна дълга пауза за отгряване. Следобед карайте внимателно по тесните улички, преди да се стъмни. Прекарайте вечерта в уютна кръчма след връщане на велосипедите."
           },
           "stops": [
             {
@@ -1264,7 +1264,7 @@
                 "hu": "Vigyázzon a latyakra a meredek úton.",
                 "ro": "Atenție la lapoviță pe drumul abrupt.",
                 "en": "Watch out for slush on the steep path.",
-                "bg": "Внимавайте за коловоз и размекнат сняг по стръмната пътека."
+                "bg": "Внимавайте за слъз на стръмния път."
               }
             },
             {
@@ -1274,7 +1274,7 @@
                 "hu": "Használjon kesztyűt a hideg kormányfogantyúkhoz.",
                 "ro": "Folosiți mănuși pentru a ține mânerele reci.",
                 "en": "Use gloves to handle the cold handlebars.",
-                "bg": "Използвайте ръкавици за работа с студените кормилни дръжки."
+                "bg": "Използвайте ръкавици за работа с ледени кормилни дръжки."
               }
             },
             {
@@ -1284,7 +1284,7 @@
                 "hu": "A biciklizár befagyhat a nagy hidegben.",
                 "ro": "Antifurtul se poate bloca din cauza gerului.",
                 "en": "The bike lock can freeze in extreme cold.",
-                "bg": "Катинарът за велосипеда може да замръзне при екстремен студ."
+                "bg": "Катинарът може да замръзне при екстремен студ."
               }
             },
             {
@@ -1294,7 +1294,7 @@
                 "hu": "Kerülje a letaposott havat az úttesten.",
                 "ro": "Evitați zăpada bătătorită de pe carosabil.",
                 "en": "Avoid packed snow on the roadway.",
-                "bg": "Избягвайте утъпкан сняг по пътното платно."
+                "bg": "Избягвайте уплътнен сняг по пътното платно."
               }
             },
             {
@@ -1314,7 +1314,7 @@
                 "hu": "Alacsonyan jár a nap, használja a világítást.",
                 "ro": "Soarele este jos; folosiți luminile bicicletei.",
                 "en": "The sun is low; make sure to use your lights.",
-                "bg": "Слънцето е ниско; уверете се, че използвате светлини."
+                "bg": "Слънцето е ниско; уверете се, че използвате осветление."
               }
             },
             {
@@ -1324,7 +1324,7 @@
                 "hu": "Rövidítse le a túrát extrém hideg esetén.",
                 "ro": "Scurtați turul în caz de frig extrem.",
                 "en": "Shorten the tour in case of extreme cold.",
-                "bg": "Съкратете тура при екстремен студ."
+                "bg": "Съкратете обиколката при екстремен студ."
               }
             },
             {
@@ -1334,7 +1334,7 @@
                 "hu": "Fejezze be a tekerést, mielőtt teljesen odafagy.",
                 "ro": "Încheiați tura înainte să înghețe complet.",
                 "en": "Finish the ride before everything freezes over.",
-                "bg": "Завършете карането преди всичко да замръзне."
+                "bg": "Приключете карането преди всичко да замръзне."
               }
             }
           ],
@@ -1369,9 +1369,9 @@
             ],
             "bg": [
               "Карайте само през светлата част на деня.",
-              "Носете термобельо и ветрозащитно облекло.",
-              "Избягвайте каране на велосипед в прясна снежна покривка.",
-              "Дръжте батериите на фенерите и телефона топли.",
+              "Носете термо бельо и вятроустойчиви дрехи.",
+              "Избягвайте каране на велосипед върху прясно паднал сняг.",
+              "Дръжте батериите на фаровете и телефона си топли.",
               "Носете термос с топла напитка."
             ]
           }
@@ -1409,7 +1409,7 @@
             "hu": "Parkoljon itt, és fedezze fel a történelmi központot gyalog, hogy elkerülje a forgalmat és a szűk utcákat.",
             "ro": "Parcați aici și explorați centrul istoric pe jos pentru a evita traficul și străzile înguste.",
             "en": "Park here and explore the historic center on foot to avoid traffic and narrow streets.",
-            "bg": "Паркирайте тук и разгледайте историческия център пеша, за да избегнете трафик и тесни улици."
+            "bg": "Паркирайте тук и разгледайте историческия център пеша, за да избегнете трафик и тесни улички."
           }
         },
         {
@@ -1418,7 +1418,7 @@
             "hu": "Benkovszki-ház",
             "ro": "Casa Benkovski",
             "en": "Benkovski House",
-            "bg": "Къща Бенковски"
+            "bg": "Къща „Бенковски”"
           },
           "coords": [
             24.0888,
@@ -1444,7 +1444,7 @@
             "hu": "Kableskov-ház",
             "ro": "Casa Kableshkov",
             "en": "Kableshkov House",
-            "bg": "Къща Каблешков"
+            "bg": "Къща „Каблешков”"
           },
           "coords": [
             24.0865,
@@ -1461,7 +1461,7 @@
             "hu": "Rövid séta lefelé a Benkovszki-háztól.",
             "ro": "O scurtă plimbare la vale de la Casa Benkovski.",
             "en": "A short walk downhill from the Benkovski House.",
-            "bg": "Кратка разходка надолу по хълма от къщата на Бенковски."
+            "bg": "Къс разходка надолу по хълма от къщата на Бенковски."
           }
         },
         {
@@ -1470,7 +1470,7 @@
             "hu": "Oszlekov-ház és Ljutov-ház",
             "ro": "Casa Oslekov & Casa Lyutov",
             "en": "Oslekov & Lyutov Houses",
-            "bg": "Къщи Ослеков и Лютов"
+            "bg": "Къщи „Ослеков” и „Лютов”"
           },
           "coords": [
             24.0843,
@@ -1487,7 +1487,7 @@
             "hu": "Ez a két csodálatos ház közel van egymáshoz, tervezzen elég időt mindkettőre.",
             "ro": "Aceste două case magnifice sunt aproape una de alta, planificați suficient timp pentru ambele.",
             "en": "These two magnificent houses are close to each other, plan enough time for both.",
-            "bg": "Тези две великолепни къщи са близо една до друга; предвидете достатъчно време и за двете."
+            "bg": "Тези две величествени къщи са близо една до друга, планирайте достатъчно време за двете."
           }
         },
         {
@@ -1496,7 +1496,7 @@
             "hu": "Mária Mennybemenetele templom",
             "ro": "Biserica Adormirea Maicii Domnului",
             "en": "Church of the Assumption",
-            "bg": "Църква Успение Богородично"
+            "bg": "Църква „Успение Богородично”"
           },
           "coords": [
             24.0833,
@@ -1513,7 +1513,7 @@
             "hu": "Jó hely egy kis pihenésre és elmélkedésre ebéd után.",
             "ro": "Un loc bun pentru o pauză și reflecție după prânz.",
             "en": "A good place for a pause and reflection after lunch.",
-            "bg": "Добро място за почивка и размишление след обяд."
+            "bg": "Добро място за почивка и размисъл след обяд."
           }
         },
         {
@@ -1522,7 +1522,7 @@
             "hu": "Debeljanov-ház és Karavelov-ház",
             "ro": "Casa Debelyanov & Casa Karavelov",
             "en": "Debelyanov & Karavelov Houses",
-            "bg": "Къщи Дебелянов и Каравелов"
+            "bg": "Къщи „Дебелянов” и „Каравелов”"
           },
           "coords": [
             24.082,
@@ -1539,7 +1539,7 @@
             "hu": "Fedezze fel a költő és a politikusok házait, akik formálták Bulgária sorsát.",
             "ro": "Explorați casele poetului și ale politicienilor care au modelat destinul Bulgariei.",
             "en": "Explore the homes of the poet and the politicians who shaped Bulgaria's destiny.",
-            "bg": "Разгледайте домовете на поета и на политиците, оформили съдбата на България."
+            "bg": "Разгледайте домовете на поета и на политиците, които оформят съдбата на България."
           }
         },
         {
@@ -1565,7 +1565,7 @@
             "hu": "Fejezze be a sétát ezen a történelmi helyen, mielőtt visszatér az autójához.",
             "ro": "Încheiați turul pe jos la acest loc istoric înainte de a vă întoarce la mașină.",
             "en": "End your walking tour at this historic spot before heading back to your car.",
-            "bg": "Завършете пешеходната си разходка на това историческо място преди да се върнете към колата."
+            "bg": "Завършете пешеходната си обиколка на това историческо място преди да се върнете към колата."
           }
         }
       ],
@@ -1574,7 +1574,7 @@
         "hu": "Érkezzen autóval, és tapasztalja meg Koprivstica varázsát gyalog. Miután leparkolt a történelmi központ szélén, kezdődik a séta. A délelőtt a hegyoldalban található házaknak, mint a Benkovszki- és Kableskov-háznak van szentelve. Ebéd után felfedezi a város központi részét, beleértve a csodálatos Oszlekov- és Ljutov-házat. A délután a délebbre fekvő látnivalókhoz vezet, és az Első Puskalövés hídjánál ér véget, tökéletes lezárásaként a történelmi sétának.",
         "ro": "Ajungeți cu mașina și experimentați magia orașului Koprivștița pe jos. După ce parcați la marginea centrului istoric, începe plimbarea. Dimineața este dedicată caselor de pe versant, cum ar fi Casa Benkovski și Casa Kableshkov. După prânz, explorați partea centrală a orașului, inclusiv magnificile Case Oslekov și Lyutov. După-amiaza vă poartă spre obiectivele sudice, culminând la Podul Primului Foc, o încheiere perfectă a plimbării dumneavoastră istorice.",
         "en": "Arrive by car and experience the magic of Koprivshtitsa on foot. After parking at the edge of the historic center, your walking tour begins. The morning is dedicated to the hillside houses like the Benkovski and Kableshkov Houses. After lunch, you'll explore the central part of town, including the magnificent Oslekov and Lyutov Houses. The afternoon takes you to the southern sights, culminating at the First Shot Bridge, a perfect end to your historical stroll.",
-        "bg": "Пристигнете с кола и изпитайте магията на Копривщица пеша. След паркиране на ръба на историческия център започва вашата пешеходна обиколка. Сутринта е посветена на къщите по баирите като Бенковски и Каблешков. След обяд ще разгледате централната част на града, включително великолепните къщи Ослеков и Лютов. Следобедът ви води към южните забележителности, кулминирайки при Мост „Първа пушка” — перфектен завършек на историческата ви разходка."
+        "bg": "Доверете се на колата за пристигане и усетете магията на Копривщица пеша. След паркиране на края на историческия център започва вашата пешеходна обиколка. Сутринта е посветена на хълмистите къщи като къщите на Бенковски и Каблешков. След обяд ще разгледате централната част на града, включително великолепните къщи Ослеков и Лютов. Следобедът ви отвежда към южните забележителности, като кулминацията е на Мост „Първа пушка” — перфектен финал на историческата ви разходка."
       },
       "gastro_picks": {
         "de": [
@@ -1772,9 +1772,9 @@
           "Plan a full day to explore the town without rushing."
         ],
         "bg": [
-          "Повечето забележителности са на пешеходно разстояние; колата е необходима само за пристигане и тръгване.",
-          "Паркирайте на обозначените паркинги в периферията на града.",
-          "Шофирането в историческия център не се препоръчва и е частично ограничено.",
+          "Повечето забележителности са на пешеходно разстояние; колата е нужна само за пристигане и заминаване.",
+          "Паркирайте в обозначените паркинги в периферията на града.",
+          "Шофиране в историческия център не е препоръчително и е частично ограничено.",
           "Планирайте цял ден, за да разгледате града без бързане."
         ]
       },
@@ -1785,7 +1785,7 @@
             "hu": "Autóval kényelmesen elérheti Koprivstica szélét. Parkolás után egy rövid, esős séta vezet az első múzeumokhoz. Délben akár vissza is ugorhat az autóhoz esernyőt cserélni. Délután a központi házcsoportokat fedezze fel. Mivel az utcák szűkek, a legjobb, ha az autó a főparkolóban marad.",
             "ro": "Cu mașina ajungeți confortabil la marginea localității Koprivshtitsa. După parcare, o scurtă plimbare pe ploaie vă duce la primele muzee. La prânz puteți reveni scurt la mașină. După-amiaza explorați grupurile centrale de case. Deoarece străzile sunt înguste, mașina rămâne cel mai bine în parcarea principală.",
             "en": "By car, you can easily reach the outskirts of Koprivshtitsa. After parking, a short, rainy walk leads to the first museums. At noon, you can quickly return to the car to swap umbrellas. In the afternoon, explore the central house clusters. As the alleys are narrow, it's best to leave the car at the main parking lot.",
-            "bg": "С кола лесно достигате до периферията на Копривщица. След паркиране кратка, дъждовна разходка води до първите музеи. По обяд можете бързо да се върнете до колата, за да смените чадърите. Следобед разгледайте централните групи къщи. Тъй като алеите са тесни, най-добре е да оставите колата на основния паркинг."
+            "bg": "С кола лесно достигате до периферията на Копривщица. След паркиране ви очаква кратка, влаженa разходка до първите музеи. По обяд можете бързо да се върнете до колата, за да смените чадърите. Следобед разгледайте централните групи къщи. Тъй като уличките са тесни, най-добре оставете колата на основния паркинг."
           },
           "stops": [
             {
@@ -1795,7 +1795,7 @@
                 "hu": "Keressen helyet a szilárd burkolatú út mellett.",
                 "ro": "Căutați un loc lângă drumul pavat.",
                 "en": "Look for a spot near the paved path.",
-                "bg": "Търсете място близо до асфалтираната пътека."
+                "bg": "Потърсете място близо до асфалтирания път."
               }
             },
             {
@@ -1805,7 +1805,7 @@
                 "hu": "Ne hagyjon értéktárgyat látható helyen az autóban.",
                 "ro": "Nu lăsați obiecte de valoare la vedere în mașină.",
                 "en": "Do not leave valuables visible in the car.",
-                "bg": "Не оставяйте ценности видими в колата."
+                "bg": "Не оставяйте ценности на видно място в автомобила."
               }
             },
             {
@@ -1825,7 +1825,7 @@
                 "hu": "Két múzeum egymás mellett – ideális esőben.",
                 "ro": "Două muzee unul lângă altul – ideal pe ploaie.",
                 "en": "Two museums right next to each other – ideal in rain.",
-                "bg": "Два музея непосредствено един до друг – идеално при дъжд."
+                "bg": "Два музея един до друг – идеално при дъжд."
               }
             },
             {
@@ -1835,7 +1835,7 @@
                 "hu": "Figyeljen a mélyebb tócsákra a bekötőúton.",
                 "ro": "Atenție la bălțile adânci de pe drumul de acces.",
                 "en": "Watch out for deep puddles on the access road.",
-                "bg": "Внимавайте за дълбоки локви по достъпния път."
+                "bg": "Внимавайте за дълбоки локви по пътеката за достъп."
               }
             },
             {
@@ -1855,7 +1855,7 @@
                 "hu": "Az utolsó megálló, mielőtt élvezné a fűtést az autóban.",
                 "ro": "O ultimă oprire înainte de a vă bucura de căldura din mașină.",
                 "en": "One last stop before enjoying the car's heater.",
-                "bg": "Още една последна спирка преди да се насладите на отоплението в колата."
+                "bg": "Последна спирка преди да се насладите на отоплението в колата."
               }
             }
           ],
@@ -1889,11 +1889,11 @@
               "Park only in official, paved areas."
             ],
             "bg": [
-              "Избягвайте каране по тесните вътрешни улички по време на дъжд.",
-              "Главният път в долината е лесно достъпен.",
-              "Дръжте одеяло подръка в колата.",
+              "Избягвайте да влизате с кола в тесните вътрешни улички по време на дъжд.",
+              "Главният път във владето е лесно достъпен.",
+              "Дръжте одеяло под ръка в колата.",
               "Проверете състоянието на чистачките на предното стъкло.",
-              "Паркирайте само в официални, асфалтирани зони."
+              "Паркирайте само в официални, асфалтирани места."
             ]
           }
         },
@@ -1903,7 +1903,7 @@
             "hu": "Télen az autóút Koprivsticába gyakran egy fehér mesevilágon át vezet. A város széli parkolót általában takarítják. Délben az autóban is felmelegedhet két helyszín között. Mivel korán sötétedik, a világos órákat a múzeumoknak tartogassa. Este az autó biztonságos és meleg hazautat biztosít.",
             "ro": "Iarna, drumul cu mașina spre Koprivshtitsa este adesea o călătorie printr-un decor de basm alb. Parcarea de la marginea localității este de obicei deszăpezită. La prânz vă puteți încălzi în mașină. Deoarece se întunecă devreme, rezervați orele cu lumină pentru muzee.",
             "en": "In winter, the car journey to Koprivshtitsa is often a trip through a white wonderland. The parking lot at the edge of town is usually cleared of snow. At noon, warm up in the car while moving between sectors. Since it gets dark early, save the daylight hours for the museums.",
-            "bg": "През зимата пътуването с кола до Копривщица често е през бяло вълшебство. Паркингът на ръба на града обикновено е почистен от сняг. По обяд се стоплете в колата, докато се придвижвате между секторите. Тъй като вечерта настъпва рано, запазете дневната светлина за музеите."
+            "bg": "През зимата пътуването до Копривщица често е преминаване през бяла приказка. Паркингът на края на града обикновено се почиства от сняг. По обяд се затоплете в колата, докато се премествате между сектори. Тъй като става тъмно рано, запазете дневните часове за музеите."
           },
           "stops": [
             {
@@ -1923,7 +1923,7 @@
                 "hu": "Rázza le a havat a cipőjéről beszállás előtt.",
                 "ro": "Scuturați zăpada de pe încălțăminte înainte de a urca.",
                 "en": "Shake the snow off your shoes before getting in.",
-                "bg": "Оттърсете снега от обувките си преди да влезете в колата."
+                "bg": "Оттупайте снега от обувките преди да се качите в колата."
               }
             },
             {
@@ -1943,7 +1943,7 @@
                 "hu": "Rendszeresen ellenőrizze az útviszonyokat a faluban.",
                 "ro": "Verificați regulat starea drumurilor din localitate.",
                 "en": "Regularly check the road conditions in town.",
-                "bg": "Редовно проверявайте пътната обстановка в града."
+                "bg": "Проверявайте редовно състоянието на пътищата в града."
               }
             },
             {
@@ -1953,7 +1953,7 @@
                 "hu": "Ne járassa feleslegesen a motort álló helyzetben.",
                 "ro": "Nu lăsați motorul pornit inutil staționând.",
                 "en": "Do not leave the engine idling unnecessarily.",
-                "bg": "Не оставяйте двигателя да работи на място без необходимост."
+                "bg": "Не оставяйте двигателя да работи напразно на празен ход."
               }
             },
             {
@@ -1963,7 +1963,7 @@
                 "hu": "A látogatás alatt az első szélvédő bepárásodhat.",
                 "ro": "Parbrizul se poate aburi în timpul vizitei.",
                 "en": "The windshield may fog up during your visit.",
-                "bg": "Предното стъкло може да се запоти по време на посещението ви."
+                "bg": "Предното стъкло може да се замъгли по време на посещението ви."
               }
             },
             {
@@ -1973,7 +1973,7 @@
                 "hu": "Indítsa be időben az autót a jégtelenítéshez.",
                 "ro": "Porniți mașina din timp pentru dezghețare.",
                 "en": "Start the car in time for de-icing.",
-                "bg": "Запалете колата навреме за разледяване на лед и сняг по стъклата."
+                "bg": "Запалете колата навреме за размразяване."
               }
             }
           ],
@@ -2007,11 +2007,11 @@
               "Drive carefully due to wildlife crossings at dusk."
             ],
             "bg": [
-              "Зимни гуми и вериги в багажника са препоръчителни.",
+              "Препоръчителни са зимни гуми и вериги в багажника.",
               "Избягвайте стръмни странични пътища при заледяване.",
               "Дръжте резервоара поне наполовина пълен за спешни случаи.",
-              "Използвайте размразител за ключалките на вратите.",
-              "Шофирайте внимателно заради дивеча близо до здрач."
+              "Използвайте спрей за размразяване на ключалките на вратите.",
+              "Шофирайте внимателно заради пресичащи дивеч участъци по здрач."
             ]
           }
         }
@@ -2048,7 +2048,7 @@
             "hu": "Kezdje innen a túrát. A legtöbb látnivaló gyalogosan elérhető.",
             "ro": "Începeți turul de aici. Majoritatea atracțiilor sunt accesibile pe jos.",
             "en": "Start your tour from here. Most sights are within walking distance.",
-            "bg": "Започнете обиколката си оттук. Повечето забележителности са на пешеходно разстояние."
+            "bg": "Започнете тура си оттук. Повечето забележителности са на пешеходно разстояние."
           }
         },
         {
@@ -2057,7 +2057,7 @@
             "hu": "Oszlekov-ház",
             "ro": "Casa Oslekov",
             "en": "Oslekov House",
-            "bg": "Къща Ослеков"
+            "bg": "Къща „Ослеков”"
           },
           "coords": [
             24.0841,
@@ -2074,7 +2074,7 @@
             "hu": "Csodálja meg a gazdag belső díszítést, amely a korábbi tulajdonosok gazdagságát tükrözi.",
             "ro": "Admirați decorațiunile interioare bogate, care reflectă prosperitatea foștilor proprietari.",
             "en": "Admire the rich interior decorations reflecting the prosperity of its former owners.",
-            "bg": "Възхитете се на богато украсения интериор, отразяващ благосъстоянието на бившите й собственици."
+            "bg": "Възхитете се на богатата вътрешна декорация, отразяваща благосъстоянието на бившите й стопани."
           }
         },
         {
@@ -2083,7 +2083,7 @@
             "hu": "Ljutov-ház",
             "ro": "Casa Lyutov",
             "en": "Lyutov House",
-            "bg": "Къща Лютов"
+            "bg": "Къща „Лютов”"
           },
           "coords": [
             24.0845,
@@ -2100,7 +2100,7 @@
             "hu": "Keresse a gyönyörűen festett kék verandát és az ovális mennyezeteket.",
             "ro": "Observați veranda albastră pictată frumos și tavanele ovale unice.",
             "en": "Look for the beautifully painted blue veranda and its unique oval ceilings.",
-            "bg": "Търсете красиво боядисаната синя веранда и уникалните овални тавани."
+            "bg": "Потърсете красиво боядисаната синя веранда и уникалните овални тавани."
           }
         },
         {
@@ -2109,7 +2109,7 @@
             "hu": "Mária Mennybemenetele templom",
             "ro": "Biserica Adormirea Maicii Domnului",
             "en": "Church of the Assumption",
-            "bg": "Църква Успение Богородично"
+            "bg": "Църква „Успение Богородично”"
           },
           "coords": [
             24.0833,
@@ -2135,7 +2135,7 @@
             "hu": "Karavelov-ház",
             "ro": "Casa Karavelov",
             "en": "Karavelov House",
-            "bg": "Къща Каравелов"
+            "bg": "Къща „Каравелов”"
           },
           "coords": [
             24.0811,
@@ -2161,7 +2161,7 @@
             "hu": "Debeljanov-ház",
             "ro": "Casa Debelyanov",
             "en": "Debelyanov House",
-            "bg": "Къща Дебелянов"
+            "bg": "Къща „Дебелянов”"
           },
           "coords": [
             24.0829,
@@ -2187,7 +2187,7 @@
             "hu": "Kableskov-ház",
             "ro": "Casa Kableshkov",
             "en": "Kableshkov House",
-            "bg": "Къща Каблешков"
+            "bg": "Къща „Каблешков”"
           },
           "coords": [
             24.0865,
@@ -2230,7 +2230,7 @@
             "hu": "Szimbolikus hely, ahol az áprilisi felkelés elkezdődött. Tökéletes egy emlékképhez.",
             "ro": "Un loc simbolic unde a început Răscoala din Aprilie. Perfect pentru o fotografie comemorativă.",
             "en": "A symbolic spot where the April Uprising began. Perfect for a commemorative photo.",
-            "bg": "Символично място, където започва Априлското въстание. Перфектно за паметна снимка."
+            "bg": "Символично място, където започва Априлското въстание. Перфектно за възпоменателна снимка."
           }
         }
       ],
@@ -2239,7 +2239,7 @@
         "hu": "Miután busszal megérkezik Koprivsticába, a város élő múzeumként terül el Ön előtt. Az egész város a séta klasztere. Kezdje a csodálatos házakkal, mint az Oszlekov- és Ljutov-ház. Egy hagyományos ebéd után merüljön el mélyebben a történelemben, látogassa meg a templomot és a nemzeti hősök házait. Fejezze be a napot az Első Puskalövés hídjánál, mielőtt kényelmesen visszasétál a buszpályaudvarra.",
         "ro": "După sosirea cu autobuzul în Koprivștița, orașul se desfășoară în fața dumneavoastră ca un muzeu viu. Întregul oraș este clusterul dumneavoastră de plimbare. Începeți cu casele magnifice precum Casa Oslekov și Casa Lyutov. După un prânz tradițional, adânciți-vă în istorie vizitând biserica și casele eroilor naționali. Încheiați ziua la Podul Primului Foc înainte de a vă plimba agale înapoi la autogară.",
         "en": "Upon arriving by bus in Koprivshtitsa, the town unfolds before you like a living museum. The entire town is your walking cluster. Start with the magnificent houses like the Oslekov and Lyutov House. After a traditional lunch, delve deeper into history by visiting the church and the homes of national heroes. End your day at the First Shot Bridge before taking a leisurely stroll back to the bus station.",
-        "bg": "След пристигане с автобус в Копривщица градът се разкрива пред вас като жив музей. Целият град е ваша пешеходна зона. Започнете с великолепните къщи като Ослеков и Лютов. След традиционен обяд се потопете по-дълбоко в историята, посещавайки църквата и домовете на националните герои. Завършете деня си при Мост „Първа пушка” преди спокойно да се върнете към автогарата."
+        "bg": "При пристигане с автобус в Копривщица градът се разкрива пред вас като жив музей. Целият град е ваша пешеходна група. Започнете с величествените къщи като Ослеков и Лютов. След традиционен обяд се потопете по-дълбоко в историята, като посетите църквата и домовете на националните герои. Завършете деня на Мост „Първа пушка” преди да се върнете спокойно към автогарата."
       },
       "gastro_picks": {
         "de": [
@@ -2438,9 +2438,9 @@
         ],
         "bg": [
           "Проверете разписанията на автобусите до и от София или Пловдив предварително.",
-          "Градът е достатъчно малък за пълно разглеждане пеша; не е необходим местен транспорт.",
-          "Купете комбиниран билет, за да спестите от входни такси за музеи.",
-          "Оставете си достатъчно време да се върнете на автогарата за отпътуване."
+          "Градът е достатъчно малък, за да се разгледа изцяло пеша; не е нужна местна транспортна услуга.",
+          "Купете комбиниран билет, за да спестите от входните такси за музеите.",
+          "Оставете достатъчно време, за да се върнете до автогарата за заминаване."
         ]
       },
       "variants": {
@@ -2450,7 +2450,7 @@
             "hu": "Esőben a buszpályaudvar a kiindulópont. A megállók és a múzeumok közötti rövid szakaszokon próbáljon száraz maradni. Délben egy főút melletti étterem nyújt menedéket. Délután a központi múzeumokat látogassa meg, mielőtt visszaszállna a buszra. Az eső csillogóvá és még történelmibbé teszi a régi utcákat.",
             "ro": "Pe ploaie, sosirea la autogară este punctul de start. Scurte sprinturi între stații și muzee vă vor menține uscați. La prânz, o mehana lângă ruta principală oferă adăpost. După-amiaza vizitați muzeele din centru înainte de a lua autobuzul înapoi.",
             "en": "In the rain, arriving at the Koprivshtitsa bus station is the starting point. Short sprints between stops and museums will keep you dry. At noon, a tavern near the main route provides shelter. In the afternoon, visit the central museums before catching the bus back.",
-            "bg": "При дъжд пристигането на автогара Копривщица е отправна точка. Кратки спринтове между спирките и музеите ще ви задържат сухи. По обяд механа край основния маршрут предлага подслон. Следобед посетете централните музеи преди да хванете автобуса обратно."
+            "bg": "При дъжд пристигането на автогарата Копривщица е отправна точка. Кратки спринтове между спирките и музеите ще ви запазят сухи. По обяд механа близо до основния маршрут предлага подслон. Следобед посетете централните музеи преди да хванете автобуса обратно."
           },
           "stops": [
             {
@@ -2470,7 +2470,7 @@
                 "hu": "Ellenőrizze a visszaindulást, amikor a múzeumhoz ér.",
                 "ro": "Verificați orele de retur la sosirea la muzeu.",
                 "en": "Check return times upon arrival at the museum.",
-                "bg": "Проверете времената за връщане при пристигане в музея."
+                "bg": "Проверете часовете за връщане при пристигане в музея."
               }
             },
             {
@@ -2480,7 +2480,7 @@
                 "hu": "Használja a buszt a nagyobb esős szakaszok áthidalására.",
                 "ro": "Folosiți autobuzul pentru a evita zonele cu ploaie mare.",
                 "en": "Use the bus to bridge larger rainy sections.",
-                "bg": "Използвайте автобуса за преодоляване на по-големи дъждовни разстояния."
+                "bg": "Използвайте автобуса, за да преодолеете по-дълги дъждовни отсечки."
               }
             },
             {
@@ -2500,7 +2500,7 @@
                 "hu": "Kérjen információt az eső miatti esetleges késésekről.",
                 "ro": "Cereți informații despre eventualele întârzieri pe ploaie.",
                 "en": "Ask for information about potential rain delays.",
-                "bg": "Поискайте информация за възможни закъснения заради дъжд."
+                "bg": "Поискайте информация за възможни закъснения заради дъжда."
               }
             },
             {
@@ -2510,7 +2510,7 @@
                 "hu": "Húzódjon fedél alá, ha nem jön pontosan a busz.",
                 "ro": "Adăpostiți-vă dacă autobuzul nu vine la timp.",
                 "en": "Take shelter if the bus is not on time.",
-                "bg": "Потърсете подслон, ако автобусът закъснее."
+                "bg": "Потърсете подслон, ако автобусът закъснява."
               }
             },
             {
@@ -2520,7 +2520,7 @@
                 "hu": "Számoljon ráhagyással a megállóhoz vezető úton.",
                 "ro": "Planificați timp suplimentar pentru drumul spre stație.",
                 "en": "Allow extra time for the walk to the stop.",
-                "bg": "Отделете допълнително време за разходката до спирката."
+                "bg": "Отделете допълнително време за пешия преход до спирката."
               }
             },
             {
@@ -2530,7 +2530,7 @@
                 "hu": "Az utolsó szakasz a buszpályaudvarig rövid.",
                 "ro": "Ultima etapă până la autogară este scurtă.",
                 "en": "The last stretch to the bus station is short.",
-                "bg": "Последният откъс до автогарата е кратък."
+                "bg": "Последният участък до автогарата е кратък."
               }
             }
           ],
@@ -2564,11 +2564,11 @@
               "Wear clothing that dries quickly."
             ],
             "bg": [
-              "Билети за автобус често могат да се закупят от шофьора.",
+              "Билетите за автобус често могат да се купят от шофьора.",
               "Честотата на автобусите може да варира при лошо време.",
-              "Дръжте дребни пари подръка за билети.",
+              "Дръжте дребни пари под ръка за билети.",
               "Използвайте автобусните навеси за защита от дъжд.",
-              "Носете дрехи, които съхнат бързо."
+              "Носете дрехи, които изсъхват бързо."
             ]
           }
         },
@@ -2578,7 +2578,7 @@
             "hu": "Érkezés a havas Koprivsticába távolsági busszal. A váróterem jó hely a tájékozódáshoz. Délben egy közeli étteremben melegedjen fel. Délután a hófödte múzeumokat járja végig. Mivel az utolsó busz korán indulhat, figyeljen az időre. A téli varázs felejthetetlenné teszi a hegyi utazást.",
             "ro": "Sosirea în Koprivshtitsa înzăpezită cu autobuzul interurban. Sala de așteptare este un loc bun pentru orientare. La prânz, încălziți-vă la un restaurant din apropiere. După-amiaza explorați muzeele acoperite de zăpadă. Atenție la ora ultimului autobuz.",
             "en": "Arrival in a snowy Koprivshtitsa by long-distance bus. The waiting room is a good spot to get oriented. At noon, warm up in a restaurant near the stop. In the afternoon, explore the snow-covered museums. As the last bus often leaves early, keep a close eye on the time.",
-            "bg": "При пристигане в заснежена Копривщица с междуградски автобус. Салонът/чакащата зала е добро място за ориентация. По обяд се стоплете в ресторант близо до спирката. Следобед разгледайте заснежените музеи. Тъй като последният автобус често тръгва рано, следете стриктно времето."
+            "bg": "При пристигане в заснежена Копривщица с далекобойния автобус, чакалнята е добро място за ориентация. По обяд се стоплете в ресторант близо до спирката. Следобед разгледайте заснежените музеи. Тъй като последният автобус често тръгва рано, следете стриктно часа."
           },
           "stops": [
             {
@@ -2598,7 +2598,7 @@
                 "hu": "A múzeumhoz vezető utat télen általában takarítják.",
                 "ro": "Drumul spre muzeu este de obicei deszăpezit iarna.",
                 "en": "The path to the museum is usually cleared in winter.",
-                "bg": "Пътят до музея обикновено се почиства през зимата."
+                "bg": "Пътят до музея обикновено се почиствa през зимата."
               }
             },
             {
@@ -2608,7 +2608,7 @@
                 "hu": "Viseljen csúszásmentes talpú cipőt a buszhoz menet.",
                 "ro": "Purtați încălțăminte antiderapantă spre autobuz.",
                 "en": "Wear non-slip shoes for the walk to the bus.",
-                "bg": "Носете обувки против хлъзгане за разходката до автобуса."
+                "bg": "Носете обувки с добро сцепление за разходката до автобуса."
               }
             },
             {
@@ -2618,7 +2618,7 @@
                 "hu": "Melegedjen fel röviden a templom előterében.",
                 "ro": "Încălziți-vă scurt în pridvorul bisericii.",
                 "en": "Warm up briefly in the church's vestibule.",
-                "bg": "Разгрейте се накратко във вестибюла на църквата."
+                "bg": "Загрейте за кратко във вестибюла на църквата."
               }
             },
             {
@@ -2638,7 +2638,7 @@
                 "hu": "Kapaszkodjon erősen a buszon, ha csúszós az út.",
                 "ro": "Țineți-vă bine în autobuz dacă drumul este alunecos.",
                 "en": "Hold on tight in the bus if the road is slippery.",
-                "bg": "Дръжте се здраво в автобуса, ако пътят е заледен."
+                "bg": "Дръжте се здраво в автобуса, ако пътят е хлъзгав."
               }
             },
             {
@@ -2648,7 +2648,7 @@
                 "hu": "A gyalogút az állomásig télen tovább tarthat.",
                 "ro": "Drumul pe jos spre gară poate dura mai mult.",
                 "en": "The walk to the station may take longer in winter.",
-                "bg": "Разходката до гарата може да отнеме по-дълго през зимата."
+                "bg": "Разходката до гарата може да отнеме повече през зимата."
               }
             },
             {
@@ -2658,7 +2658,7 @@
                 "hu": "Utolsó ellenőrzés az indulás előtt a telefonján.",
                 "ro": "Ultima verificare a orei de plecare pe telefon.",
                 "en": "Final check of the departure time on your phone.",
-                "bg": "Последна проверка на часа на тръгване на телефона ви."
+                "bg": "Проверка на крайното време на заминаване в телефона ви."
               }
             }
           ],
@@ -2692,10 +2692,10 @@
               "Buses are usually well-heated during winter."
             ],
             "bg": [
-              "Проверете разписанието онлайн ден по-рано.",
-              "Очаквайте забавяния при силен снеговалеж.",
-              "Носете топли зимни обувки с добро сцепление.",
-              "Гореща напитка в термос е идеална за време на чакане.",
+              "Проверете разписанието онлайн на ден преди това.",
+              "Очаквайте закъснения при силен снеговалеж.",
+              "Носете топли зимни ботуши с добро протекторно ходило.",
+              "Топла напитка в термос е идеална за времето на изчакване.",
               "Автобусите обикновено са добре отоплени през зимата."
             ]
           }

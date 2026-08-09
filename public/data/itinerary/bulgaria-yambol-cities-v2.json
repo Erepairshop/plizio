@@ -48,7 +48,7 @@
             "hu": "Szent Miklós-templom",
             "ro": "Biserica Sfântul Nicolae",
             "en": "St. Nicholas Church",
-            "bg": "Църква „Св. Николай“"
+            "bg": "Свети Никола"
           },
           "coords": [
             26.507,
@@ -117,7 +117,7 @@
             "hu": "Fogyasszon el egy kávét a színházi kávézóban, még ha nem is megy előadásra.",
             "ro": "Savurați o cafea la cafeneaua teatrului, chiar dacă nu vizionați un spectacol.",
             "en": "Enjoy a coffee at the theatre café, even if you're not seeing a show.",
-            "bg": "Насладете се на кафе в театралното кафене, дори ако не гледате представление."
+            "bg": "Насладете се на кафе в театралното кафене, дори да не гледате представление."
           }
         },
         {
@@ -143,7 +143,7 @@
             "hu": "Tökéletes egy ebédszünetre vagy egy pihentető sétára a Tundzsa folyó mentén.",
             "ro": "Perfect pentru o pauză de prânz sau o plimbare relaxantă pe malul râului Tundzha.",
             "en": "Perfect for a lunch break or a relaxing stroll along the Tundzha River.",
-            "bg": "Перфектен за обедна почивка или релаксираща разходка покрай река Тунджа."
+            "bg": "Перфектен за обедна почивка или релаксираща разходка по река Тунджа."
           }
         },
         {
@@ -169,7 +169,7 @@
             "hu": "A legjobb hely a város panorámájának megcsodálására naplementekor.",
             "ro": "Cel mai bun loc pentru o vedere panoramică a orașului la apus.",
             "en": "The best spot for a panoramic view of the city at sunset.",
-            "bg": "Най-добрата точка за панорамна гледка към града при залез слънце."
+            "bg": "Най-добрата точка за панорамна гледка към града при залез."
           }
         }
       ],
@@ -178,7 +178,7 @@
         "hu": "Kezdje a napot Jambol oszmán történelmének szívében, a Beszisztennél. A Szent Miklós-templom vallási művészetének felfedezése után merüljön el a múltban a Történeti Múzeumban. A délután kulturális szünetet kínál a színházi negyedben, majd egy hosszú pihenést a zöld Városi Parkban. A napot a Borovec-hegy megmászása koronázza meg, ahonnan megcsodálhatja a naplementét a város felett.",
         "ro": "Începeți ziua în inima istoriei otomane din Yambol, la Bezisten. După ce explorați arta religioasă la Biserica Sf. Nicolae, adânciți-vă în trecut la Muzeul de Istorie. După-amiaza oferă o pauză culturală în cartierul teatrelor, urmată de o perioadă extinsă de relaxare în Parcul verde al orașului. Încheiați perfect ziua urcând pe Dealul Borovets pentru a admira apusul peste oraș.",
         "en": "Start your day in the heart of Yambol's Ottoman history at the Bezisten. After exploring the religious art at St. Nicholas Church, delve deep into the past at the Historical Museum. The afternoon offers a cultural break in the theatre district, followed by an extended period of relaxation in the green City Park. The perfect end to the day is a climb up Borovets Hill to watch the sunset over the city.",
-        "bg": "Започнете деня си в сърцето на османската история на Ямбол в Безистена. След разглеждане на църковното изкуство в „Св. Никола“, потопете се в миналото в Историческия музей. Следобедът предлага културна пауза в театралния квартал, последвана от продължителен отдих в зеления Градски парк. Перфектният завършек на деня е изкачване до хълм Боровец, за да наблюдавате залеза над града."
+        "bg": "Започнете деня в сърцето на ямболската османска история в Безистена. След разглеждане на религиозното изкуство в църквата „Свети Никола“ се потопете в миналото в Историческия музей. Следобедът предлага културна почивка в театралния квартал, последвана от продължителна релаксация в зелените алеи на Градския парк. Перфектният край на деня е изкачване на Хълм Боровец, за да гледате залеза над града."
       },
       "gastro_picks": {
         "de": [
@@ -340,10 +340,10 @@
           "Plan your lunch break in the City Park for a relaxing atmosphere."
         ],
         "bg": [
-          "Носете удобни обувки, тъй като калдъръмът в стария град може да е неравен.",
-          "Вземете вода със себе си, особено за изкачването до хълм Боровец.",
-          "Повечето централни забележителности са на лесно разстояние пеша.",
-          "Планирайте обедната си почивка в Градския парк за отпускаща атмосфера."
+          "Носете удобни обувки, тъй като калдъръмените улици в стария град могат да са неравни.",
+          "Вземете си вода, особено за изкачването до Хълм Боровец.",
+          "Повечето централни забележителности са на лесно пешеходно разстояние.",
+          "Планирайте обедната си почивка в Градския парк за по-спокойна обстановка."
         ]
       },
       "variants": {
@@ -353,7 +353,7 @@
             "hu": "Kezdje az esős napot a fedett Bezisztenben, ahol a történelem visszhangja elűzi a nyirkos időt. Délben a Szent Miklós-templom és a Történeti Múzeum kínál száraz menedéket és kulturális élményeket. Délután a színház épülete nyújt inspirációt, majd a városi park következik, amely esőben is melankolikus szépséget áraszt. A napot a Borovets-domb zárja, ahonnan a párás város látképe különleges hangulatot ad.",
             "ro": "Începeți ziua ploioasă în adăpostul oferit de Bezisten, unde ecoul istoriei alungă umezeala de afară. La prânz, Biserica Sf. Nicolae și Muzeul de Istorie oferă refugii uscate și pline de cultură. După-amiaza, teatrul aduce un plus de inspirație, în timp ce parcul orașului capătă o frumusețe melancolică sub ploaie. Finalul zilei aparține dealului Borovets, de unde orașul se vede fascinant chiar și prin ceață.",
             "en": "Start your rainy day in the sheltered Bezisten, where the echoes of history keep the dampness at bay. At noon, St. Nicholas Church and the Historical Museum offer dry havens filled with Bulgarian heritage. In the afternoon, the theater provides a cultural escape before a quick walk through the misty city park. End the day at Borovets Hill, where the rain-slicked panorama offers a unique mood.",
-            "bg": "Започнете дъждовния ден в закрития Безистен, където ехото на историята държи влажността настрана. По обед „Св. Никола“ и Историческият музей предлагат сухи убежища, пълни с българско наследство. Следобедът театърът предоставя културно оттегляне преди бърза разходка през мъгливия градски парк. Завършете деня на хълм Боровец, където дъждовно овлажнената панорама предлага уникално настроение."
+            "bg": "Започнете дъждовния ден в закрития Безистен, където ехото на историята държи влагата настрани. По обяд църквата „Свети Никола“ и Историческият музей предлагат сухи убежища, пълни с българско наследство. Следобедят театърът дава културно отдихване преди бърза разходка през мъгливия градски парк. Завършете деня на Хълм Боровец, където дъждовно омаслената панорама предлага уникално настроение."
           },
           "stops": [
             {
@@ -363,7 +363,7 @@
                 "hu": "Tökéletes hely az első záporok száraz átvészelésére.",
                 "ro": "Locul perfect pentru a scăpa de prima rafală de ploaie.",
                 "en": "Perfect place to stay dry while enjoying the architecture.",
-                "bg": "Перфектно място да останете сухи, докато се наслаждавате на архитектурата."
+                "bg": "Перфектно място да останете сухи и да се насладите на архитектурата."
               }
             },
             {
@@ -373,7 +373,7 @@
                 "hu": "Csodálja meg az ikonokat, miközben kint kopog az eső.",
                 "ro": "Admirați icoanele în timp ce afară plouă torențial.",
                 "en": "Admire the icons while listening to the rain outside.",
-                "bg": "Възхищавайте се на иконите, докато слушате дъжда навън."
+                "bg": "Възхищавайте се на иконите, докато слушате дъжда отвън."
               }
             },
             {
@@ -393,7 +393,7 @@
                 "hu": "Kulturális megálló távol a vizes járdáktól.",
                 "ro": "O oprire culturală departe de trotuarele ude.",
                 "en": "A cultural stop far away from the wet pavements.",
-                "bg": "Културна спирка далеч от мокрите тротоари."
+                "bg": "Културна спирка далеч от влажните тротоари."
               }
             },
             {
@@ -403,7 +403,7 @@
                 "hu": "Az aszfaltozott utak esőben is jól járhatóak.",
                 "ro": "Aleile asfaltate sunt ușor de parcurs chiar și pe ploaie.",
                 "en": "Paved paths remain accessible even during light rain.",
-                "bg": "Павираните пътеки остават проходими дори при слаб дъжд."
+                "bg": "Асфалтираните алеи остават достъпни дори при слаб дъжд."
               }
             },
             {
@@ -413,7 +413,7 @@
                 "hu": "Vigyázat, a kövek nedvesen csúszósak lehetnek.",
                 "ro": "Atenție, pietrele pot fi alunecoase când sunt ude.",
                 "en": "Be careful, the stones can be slippery when wet.",
-                "bg": "Бъдете внимателни, камъните могат да се хлъзгат докато са мокри."
+                "bg": "Бъдете внимателни, камъните могат да са хлъзгави при намокряне."
               }
             }
           ],
@@ -443,10 +443,10 @@
               "Waterproof shoes are essential for the park walk."
             ],
             "bg": [
-              "Използвайте пасажите на Безистена като естествени заслони от дъжда.",
-              "Препоръчва се здрав чадър заради вятъра на хълма.",
-              "Планирайте по-дълги посещения в музеите по време на силни валежи.",
-              "Водоустойчиви обувки са от съществено значение за разходката в парка."
+              "Използвайте проходите на Безистена като естествени убежища от дъжда.",
+              "Препоръчителен е здрав чадър за вятъра на хълма.",
+              "Планирайте по-дълги посещения в музеите при силни валежи.",
+              "Водонепроницаеми обувки са задължителни за разходката в парка."
             ]
           }
         },
@@ -456,7 +456,7 @@
             "hu": "Reggel a Beziszten várja téli bájjal és a hideg elől nyújtott menedékkel. A templomlátogatás után a múzeum gazdag gyűjteménye melengeti fel a látogatót. A délután a színházé, majd egy frissítő séta következik a deres városi parkban. A nap fénypontja a Borovets-domb, ahol a korai téli naplementét csodálhatja meg Jambol háztetői felett.",
             "ro": "Dimineața, Bezisten vă întâmpină cu farmec hibernal și protecție împotriva frigului. După vizitarea bisericii, istoria bogată din muzeu vă va încălzi spiritul. După-amiaza este dedicată teatrului, urmată de o plimbare revigorantă prin parcul înghețat. Punctul culminant este dealul Borovets, unde veți vedea apusul timpuriu de iarnă peste acoperișurile din Iambol.",
             "en": "In the morning, the Bezisten offers a cozy refuge from the Balkan winter chill. After the church, the museum’s extensive collection provides a warm place to linger. The afternoon focus is the theater, followed by a crisp walk through the frosty city park. The highlight is Borovets Hill, perfectly timed for the early winter sunset over Yambol's snowy rooftops.",
-            "bg": "Сутрин Безистенът предлага уютно убежище от балканския зимен студ. След църквата, обширната колекция на музея осигурява топло място за задържане. Следобедът е посветен на театъра, последван от свежа разходка през измръзналия градски парк. Акцентът е хълм Боровец, идеално таймван за ранния зимен залез над заснежените покриви на Ямбол."
+            "bg": "Сутрин Безистенът предлага уютно убежище от балканския зимен студ. След църквата колекцията на музея предоставя топло място за отлагане. Следобед фокусът е върху театъра, последван от свежа разходка през измръзналия градски парк. Кулминацията е Хълм Боровец, перфектно време за ранния зимен залез над заснежените покриви на Ямбол."
           },
           "stops": [
             {
@@ -466,7 +466,7 @@
                 "hu": "Élvezze az építészetet a vastag falak nyújtotta védelemben.",
                 "ro": "Bucurați-vă de arhitectură la adăpostul zidurilor groase.",
                 "en": "Enjoy the historic architecture protected from the frost.",
-                "bg": "Насладете се на историческата архитектура, защитена от студa."
+                "bg": "Насладете се на историческата архитектура, защитена от измръзването."
               }
             },
             {
@@ -486,7 +486,7 @@
                 "hu": "Ideális hely a séták közötti felmelegedéshez.",
                 "ro": "Locul ideal pentru a vă încălzi între plimbări.",
                 "en": "Ideal place to warm up between outdoor segments.",
-                "bg": "Идеално място да се затоплите между откритите сегменти."
+                "bg": "Идеално място да се затоплите между откритите участъци."
               }
             },
             {
@@ -516,7 +516,7 @@
                 "hu": "Érjen ide 16:30-ra, hogy lássa a téli naplementét.",
                 "ro": "Ajungeți aici până la ora 16:30 pentru a vedea apusul.",
                 "en": "Arrive by 4:30 PM to catch the winter sunset.",
-                "bg": "Пристигнете до 16:30 ч., за да хванете зимния залез."
+                "bg": "Пристигнете до 16:30, за да хванете зимния залез."
               }
             }
           ],
@@ -546,10 +546,10 @@
               "Watch your step on cobbles as they can be icy."
             ],
             "bg": [
-              "Носете термални пластове срещу пронизващия зимен вятър.",
-              "Зимният залез настъпва рано, около 17:00 ч.",
-              "Музеите са най-добрите места да избягате от ледената въздух.",
-              "Внимавайте къде стъпвате на калдъръма, тъй като може да е заледен."
+              "Носете термални слоеве срещу пронизващия зимен вятър.",
+              "Зимният залез е рано, около 17:00 ч.",
+              "Музеите са най-добрите места да избягате от леденото време.",
+              "Внимавайте къде стъпвате по калдъръма, тъй като може да е заледено."
             ]
           }
         }
@@ -586,7 +586,7 @@
             "hu": "Kezdje a napot egy könnyű kerékpártúrával a folyó mentén.",
             "ro": "Începeți ziua cu o plimbare ușoară cu bicicleta de-a lungul râului.",
             "en": "Start the day with a gentle bike ride along the river.",
-            "bg": "Започнете деня с леко каране на велосипед покрай реката."
+            "bg": "Започнете деня с леко каране на велосипед по реката."
           }
         },
         {
@@ -612,7 +612,7 @@
             "hu": "A kilátás megéri a mászást. Jó állóképességi teszt reggelre.",
             "ro": "Urcușul merită priveliștea. Un test bun pentru rezistența de dimineață.",
             "en": "The climb is worth the view. A good test for your morning stamina.",
-            "bg": "Изкачването си заслужава гледката. Добър тест за сутрешната ви издръжливост."
+            "bg": "Изкачването си заслужава заради гледката. Добър тест за сутрешната ви издръжливост."
           }
         },
         {
@@ -638,7 +638,7 @@
             "hu": "Parkolja le a kerékpárt a közelben, és fedezze fel a piacot gyalog.",
             "ro": "Parcați bicicleta în apropiere și explorați piața pe jos.",
             "en": "Park your bike nearby and explore the market on foot.",
-            "bg": "Паркирайте велосипеда си наблизо и разгледайте пазара пеша."
+            "bg": "Заключете велосипеда си наблизо и разгледайте пазара пеша."
           }
         },
         {
@@ -647,7 +647,7 @@
             "hu": "Szent György-templom",
             "ro": "Biserica Sfântul Gheorghe",
             "en": "St. George Church",
-            "bg": "Църква „Св. Георги“"
+            "bg": "Църква „Свети Георги“"
           },
           "coords": [
             26.508,
@@ -664,7 +664,7 @@
             "hu": "A bolgár nemzeti újjászületés építészetének szép példája.",
             "ro": "Un exemplu frumos de arhitectură renascentistă bulgară.",
             "en": "A fine example of Bulgarian National Revival architecture.",
-            "bg": "Отличен пример за българска възрожденска архитектура."
+            "bg": "Прекрасен пример за архитектурата от българското Възраждане."
           }
         },
         {
@@ -690,7 +690,7 @@
             "hu": "Tervezze ide az ebédszünetet, és merüljön el a történelemben.",
             "ro": "Planificați-vă pauza de prânz aici și scufundați-vă în istorie.",
             "en": "Plan your lunch break around here and dive into history.",
-            "bg": "Планирайте обедната си почивка тук и потопете се в историята."
+            "bg": "Планирайте обедната си почивка тук и се потопете в историята."
           }
         },
         {
@@ -716,7 +716,7 @@
             "hu": "Megéri a kerékpártúrát. Ez Bulgária egyik legfontosabb ókori lelőhelye.",
             "ro": "Plimbarea cu bicicleta merită. Acesta este unul dintre cele mai importante situri antice din Bulgaria.",
             "en": "The bike ride is worth it. This is one of Bulgaria's most important ancient sites.",
-            "bg": "Велоразходката си струва. Това е един от най-значимите древни обекти в България."
+            "bg": "Карането с колело си заслужава. Това е един от най-важните древни обекти в България."
           }
         },
         {
@@ -742,7 +742,7 @@
             "hu": "Ideje egy jól megérdemelt vacsorának egy hosszú kerékpáros nap után.",
             "ro": "Timpul pentru o cină binemeritată după o zi lungă de ciclism.",
             "en": "Time for a well-deserved dinner after a long day of cycling.",
-            "bg": "Време за заслужена вечеря след дълъг ден на колело."
+            "bg": "Време за заслужена вечеря след дълъг ден на колоездене."
           }
         }
       ],
@@ -751,7 +751,7 @@
         "hu": "A kerékpártúra egy pihentető tekeréssel kezdődik a Városi Parkon keresztül, majd egy reggeli emelkedővel a Borovec-hegyre a nagyszerű kilátásért. Ezután a történelmi központba gurul, hogy felfedezze a Besziszten-t és a Szent György-templomot. Egy kiadós ebédszünet és a múzeumban szerzett mély történelmi betekintés után a nap fő szakasza a lenyűgöző Kabile Régészeti Rezervátumhoz vezet. A központba való visszatekerés zárja a sportos és kulturális napot.",
         "ro": "Turul cu bicicleta începe cu o plimbare relaxantă prin Parcul Orașului și o urcare matinală pe Dealul Borovets pentru o priveliște minunată. Apoi, vă îndreptați spre centrul istoric pentru a explora Bezistenul și Biserica Sf. Gheorghe. După o pauză de prânz consistentă și o incursiune profundă în istorie la muzeu, etapa principală a zilei vă duce la impresionanta Rezervație Arheologică Kabile. Drumul înapoi spre centru încheie o zi sportivă și culturală.",
         "en": "Your bike tour starts with a relaxing ride through the City Park and a morning climb up Borovets Hill for a great view. You'll then roll into the historic center to explore the Bezisten and St. George Church. After a hearty lunch break and a deep dive into history at the museum, the day's main leg takes you to the impressive Kabile Archaeological Reserve. The ride back to the center completes a sporty and cultural day.",
-        "bg": "Вашата велообиколка започва с релаксиращо каране през Градския парк и сутрешно изкачване до хълм Боровец за отлична гледка. След това ще влезете в историческия център, за да разгледате Безистена и църква „Св. Георги“. След обилна обедна почивка и задълбочено разглеждане в музея, основният участък от деня ви отвежда до впечатляващия археологически резерват Кабиле. Връщането към центъра завършва един спортен и културен ден."
+        "bg": "Велосипедната ви обиколка започва с релаксиращо каране през Градския парк и сутрешно изкачване на Хълм Боровец за страхотна гледка. След това ще влезете в историческия център, за да разгледате Безистена и църквата „Свети Георги“. След засищащ обяд и потапяне в историята в музея, основният етап на деня ви отвежда до внушителния Археологически резерват Кабиле. Връщането към центъра завършва спортно-културния ден."
       },
       "gastro_picks": {
         "de": [
@@ -913,8 +913,8 @@
           "Take enough water and snacks for the tour to Kabile."
         ],
         "bg": [
-          "Проверете велосипеда си преди тръгване, особено преди по-дългото каране до Кабиле.",
-          "Катинарът е от съществено значение, за да заключите велосипеда си по време на посещенията.",
+          "Проверете велосипеда преди тръгване, особено преди по-дългото каране до Кабиле.",
+          "Катинар е задължителен, за да заключите колелото си докато разглеждате забележителностите.",
           "Пътищата извън центъра могат да са неравни, карайте внимателно.",
           "Вземете достатъчно вода и закуски за обиколката до Кабиле."
         ]
@@ -926,7 +926,7 @@
             "hu": "Induljon óvatosan a városi parkból, ahol a nedves levelek figyelmet igényelnek. A Borovets-domb esőben misztikus látványt nyújt, majd száraz pihenők következnek a Bezisztenben és a Szent György-templomban. A Történeti Múzeum tökéletes hely egy zápor átvészelésére, mielőtt elindulna Kabile régészeti lelőhelye felé, ahol a történelem a szabad ég alatt várja.",
             "ro": "Porniți cu atenție din parcul orașului, unde frunzele ude necesită prudență. Dealul Borovets oferă un decor mistic sub ploaie, urmat de pauze uscate în Bezisten și Biserica Sf. Gheorghe. Muzeul de Istorie este locul perfect pentru a aștepta trecerea unei averse înainte de a porni spre Rezervația Kabile, unde istoria vă așteaptă sub cerul liber.",
             "en": "Start cautiously in the city park, where wet leaves require focus. Borovets Hill offers a mystic backdrop in the rain, followed by dry breaks at the Bezisten and St. George Church. The Historical Museum is the perfect sanctuary to wait out a downpour before cycling to the Kabile Archaeological Reserve, where ancient history lies under the open sky.",
-            "bg": "Започнете внимателно в градския парк, където мокрите листа изискват концентрация. Хълм Боровец предлага мистична сцена под дъжда, последвана от сухи паузи в Безистена и църква „Св. Георги“. Историческият музей е перфектното убежище, за да изчакате силен порой, преди да продължите към археологическия резерват Кабиле, където древната история лежи на открито."
+            "bg": "Започнете внимателно в Градския парк, където мокрите листа изискват концентрация. Хълм Боровец предлага мистична сцена в дъжда, последвана от сухи почивки в Безистена и църква „Свети Георги“. Историческият музей е перфектното убежище да изчакате проливен дъжд преди карането до Археологическия резерват Кабиле, където древната история лежи на открито."
           },
           "stops": [
             {
@@ -936,7 +936,7 @@
                 "hu": "Vigyázat a kanyarokban a nedves aszfalton.",
                 "ro": "Atenție la viraje pe asfaltul ud.",
                 "en": "Take care when cornering on wet asphalt.",
-                "bg": "Бъдете внимателни при завои върху мокър асфалт."
+                "bg": "Внимавайте при завои на мокър асфалт."
               }
             },
             {
@@ -946,7 +946,7 @@
                 "hu": "Ellenőrizze a fékeit az esős lejtő előtt.",
                 "ro": "Verificați frânele înainte de coborârea pe ploaie.",
                 "en": "Check your brakes before the descent in the rain.",
-                "bg": "Проверете спирачките си преди спускане в дъжда."
+                "bg": "Проверете спирачките си преди спускане под дъжда."
               }
             },
             {
@@ -956,7 +956,7 @@
                 "hu": "Kerékpártárolók a közelben találhatók.",
                 "ro": "Suporturi de biciclete disponibile în apropiere.",
                 "en": "Bike racks are available nearby.",
-                "bg": "Налични са стойки за велосипеди наблизо."
+                "bg": "Има стойки за велосипеди на близо."
               }
             },
             {
@@ -976,7 +976,7 @@
                 "hu": "Biztonságos tárolóhely a kerékpárnak a látogatás alatt.",
                 "ro": "Loc sigur de parcare pentru bicicletă în timpul vizitei.",
                 "en": "Safe spot to park your bike during the visit.",
-                "bg": "Безопасно място да паркирате велосипеда си по време на посещението."
+                "bg": "Безопасно място да заключите колелото си по време на посещението."
               }
             },
             {
@@ -1027,7 +1027,7 @@
             ],
             "bg": [
               "Носете пълно водоустойчиво колоездачно облекло.",
-              "Калници са задължителни при такова време.",
+              "Калниците са задължителни при това време.",
               "Избягвайте локвите; може да крият дълбоки дупки.",
               "Дръжте фаровете включени дори през деня."
             ]
@@ -1039,7 +1039,7 @@
             "hu": "A deres városi parkban tett kezdés felpezsdíti az érzékeket, majd egy rövid út következik a Borovets-dombra. A Beziszten üdvözlendő melegedőt kínál, akárcsak a templomok és a Történeti Múzeum. A hosszabb út Kabile felé alapos felkészülést igényel a téli hidegre, de tiszta kilátást nyújt a romokra. A napot a hangulatos városközpontba való visszatérés zárja.",
             "ro": "Un început înghețat în parcul orașului vă revigorează, urmat de o scurtă tură până pe dealul Borovets. Bezisten oferă o pauză binemeritată pentru încălzire, la fel ca bisericile și Muzeul de Istorie. Drumul mai lung spre Kabile necesită pregătire pentru frigul iernii, dar oferă o vizibilitate clară asupra ruinelor. Finalul aparține revenirii în centrul primitor.",
             "en": "A frosty start in the city park awakens the senses, followed by a short ride to Borovets Hill. The Bezisten provides a welcome warming break, as do the local churches and the Historical Museum. The longer ride to Kabile demands preparation for the winter chill but rewards you with clear views of the ruins. The day ends with a return to the cozy city center.",
-            "bg": "Мразовито начало в градския парк събужда сетивата, последвано от кратко каране до хълма Боровец. Безистенът предлага приятна почивка за затопляне, също както и местните църкви и Историческият музей. По-дългото каране до Кабиле изисква подготовка за зимния студ, но ви възнаграждава с ясни гледки към руините. Денят завършва с връщане в уютния градски център."
+            "bg": "Мразовито начало в градския парк събужда сетивата, последвано от кратко каране до хълма Боровец. Безистенът дава желана възможност за затопляне, както и местните църкви и Историческият музей. По-дългото каране до Кабиле изисква подготовка за зимния студ, но ви възнаграждава с ясни гледки към руините. Денят завършва с връщане в уютния градски център."
           },
           "stops": [
             {
@@ -1049,7 +1049,7 @@
                 "hu": "Vigyázat a zúzmarás, csúszós utakkal.",
                 "ro": "Atenție la porțiunile cu polei pe alei.",
                 "en": "Watch out for frost on the paths.",
-                "bg": "Внимавайте за измръзване по пътеките."
+                "bg": "Внимавайте за слана по пътеките."
               }
             },
             {
@@ -1059,7 +1059,7 @@
                 "hu": "Mínuszokban a meleg kesztyű kötelező.",
                 "ro": "La temperaturi sub zero grade, mănușile groase sunt obligatorii.",
                 "en": "In freezing temperatures, warm gloves are a must.",
-                "bg": "При отрицателни температури топлите ръкавици са задължителни."
+                "bg": "При под нулата е задължително да носите топли ръкавици."
               }
             },
             {
@@ -1079,7 +1079,7 @@
                 "hu": "Csodálja meg a fafaragásokat a melegben.",
                 "ro": "Admirați sculpturile în lemn la căldură.",
                 "en": "Admire the woodcarvings in the warmth.",
-                "bg": "Похвалете дърворезбите на топло."
+                "bg": "Възхищавайте се на дърворезбите във вътрешността, където е топло."
               }
             },
             {
@@ -1099,7 +1099,7 @@
                 "hu": "Vigyen magával meleg italt termoszhallban.",
                 "ro": "Luați cu voi băuturi calde în termos.",
                 "en": "Take warm drinks in a thermos for the site visit.",
-                "bg": "Носете топли напитки в термос за посещението на мястото."
+                "bg": "Носете топли напитки в термос за посетването на обекта."
               }
             },
             {
@@ -1109,7 +1109,7 @@
                 "hu": "Jutalmazza meg magát egy meleg étellel.",
                 "ro": "Răsplătiți-vă cu o masă caldă.",
                 "en": "Reward yourself with a warm meal in the center.",
-                "bg": "Наградете се с топло ястие в центъра."
+                "bg": "Наградете се с топла храна в центъра."
               }
             }
           ],
@@ -1139,10 +1139,10 @@
               "Shorten the route if the cold becomes too intense."
             ],
             "bg": [
-              "Обличайте се на слоеве за по-добра изолация.",
-              "Ветровото усещане значително понижава възприеманата температура.",
-              "Внимавайте за заледени локви/черен лед.",
-              "Съкращавайте маршрута, ако студът стане твърде силен."
+              "Облечете се на слоеве за по-добра изолация.",
+              "Вятърният студ значително понижава усещаната температура.",
+              "Внимавайте за замръзнали локви/черен лед.",
+              "Скъсете маршрута, ако студът стане прекалено интензивен."
             ]
           }
         }
@@ -1188,7 +1188,7 @@
             "hu": "Parkolás a városközpontban (A-klaszter)",
             "ro": "Parcare în centrul orașului (Cluster A)",
             "en": "Parking in the City Center (Cluster A)",
-            "bg": "Паркинг в градския център (Клъстер A)"
+            "bg": "Паркиране в Градския център (Клъстър A)"
           },
           "coords": [
             26.503,
@@ -1205,7 +1205,7 @@
             "hu": "Keressen egy parkolót a múzeum közelében, a többit pedig fedezze fel gyalog.",
             "ro": "Găsiți o parcare lângă muzeu și explorați restul pe jos.",
             "en": "Find a parking spot near the museum and explore the rest on foot.",
-            "bg": "Намерете място за паркиране близо до музея и разгледайте останалото пеша."
+            "bg": "Намерете място за паркиране до музея и разгледайте останалото пеша."
           }
         },
         {
@@ -1231,7 +1231,7 @@
             "hu": "Kösse össze a múzeumlátogatást egy ebédszünettel egy közeli étteremben.",
             "ro": "Combinați vizita la muzeu cu o pauză de prânz la un restaurant din apropiere.",
             "en": "Combine the museum visit with a lunch break at a nearby restaurant.",
-            "bg": "Съчетавайте посещението на музея с обедна почивка в близкия ресторант."
+            "bg": "Съчетайте посещението на музея с обяд в близък ресторант."
           }
         },
         {
@@ -1257,7 +1257,7 @@
             "hu": "Rövid séta a múzeumtól. A város központi találkozóhelye.",
             "ro": "O scurtă plimbare de la muzeu. Punctul central de întâlnire al orașului.",
             "en": "A short walk from the museum. The city's central meeting point.",
-            "bg": "Кратка разходка от музея. Централното място за срещи в града."
+            "bg": "Кратка разходка от музея. Централно място за срещи в града."
           }
         },
         {
@@ -1266,7 +1266,7 @@
             "hu": "Szent György-templom",
             "ro": "Biserica Sfântul Gheorghe",
             "en": "St. George Church",
-            "bg": "Църква „Свети Георги“"
+            "bg": "Църква „Св. Георги“"
           },
           "coords": [
             26.508,
@@ -1283,7 +1283,7 @@
             "hu": "Az utolsó megálló a városközpontban, mielőtt egy másik kilátóponthoz hajtana.",
             "ro": "Ultima oprire în centrul orașului înainte de a conduce spre un alt punct de belvedere.",
             "en": "The last stop in the city center before driving to another viewpoint.",
-            "bg": "Последната спирка в градския център преди да потеглите към друга панорамна точка."
+            "bg": "Последната спирка в центъра преди шофиране към друга панорамна точка."
           }
         },
         {
@@ -1292,7 +1292,7 @@
             "hu": "Borovec-hegy (B-klaszter)",
             "ro": "Dealul Borovets (Cluster B)",
             "en": "Borovets Hill (Cluster B)",
-            "bg": "Хълм Боровец (Клъстер B)"
+            "bg": "Хълм Боровец (Клъстър B)"
           },
           "coords": [
             26.48,
@@ -1309,7 +1309,7 @@
             "hu": "Hajtson ide a legjobb késő délutáni panorámáért. Parkolóhelyek rendelkezésre állnak.",
             "ro": "Conduceți aici pentru cea mai bună vedere panoramică la sfârșitul după-amiezii. Parcarea este disponibilă.",
             "en": "Drive here for the best late afternoon panoramic view. Parking is available.",
-            "bg": "Карайте тук за най-добрата късноследобедна панорамна гледка. Има паркинг."
+            "bg": "Карайте до тук за най-добрата късноследобедна панорамна гледка. Има паркинг."
           }
         }
       ],
@@ -1318,7 +1318,7 @@
         "hu": "A nap a legtávolabbi utazással kezdődik a lenyűgöző Kabile Régészeti Rezervátumhoz. Egy intenzív délelőtt után hajtson be Jambol központjába, parkolja le az autót, és fedezze fel gyalog az első városi klasztert: a Történeti Múzeumot, a Besziszten-t és a Szent György-templomot. E történelmi séta után üljön autóba egy rövid útra a Borovec-hegyre, a nap második klaszteréhez, hogy a délutánt egy lélegzetelállító panorámával zárja.",
         "ro": "Ziua începe cu cea mai lungă călătorie spre impresionanta Rezervație Arheologică Kabile. După o dimineață intensă, conduceți spre centrul Yambolului, parcați mașina și explorați primul cluster urban pe jos: Muzeul de Istorie, Bezistenul și Biserica Sf. Gheorghe. După această plimbare istorică, luați mașina pentru o scurtă călătorie spre Dealul Borovets, al doilea cluster al zilei, pentru a încheia după-amiaza cu o priveliște panoramică uluitoare.",
         "en": "Your day starts with the longest drive to the impressive Kabile Archaeological Reserve. After an intense morning, you drive to the center of Yambol, park your car, and explore the first city cluster on foot: the Historical Museum, the Bezisten, and St. George Church. After this historical walk, you take the car for a short drive to Borovets Hill, the day's second cluster, to end the afternoon with a breathtaking panoramic view.",
-        "bg": "Денят ви започва с най-дългото пътуване до впечатляващия Археологически резерват Кабиле. След интензивното утро се връщате в центъра на Ямбол, паркирате автомобила и разглеждате първия градски клъстер пеша: Историческия музей, Безистена и църквата „Свети Георги“. След тази историческа разходка взимате колата за кратко пътуване до хълм Боровец, втория клъстер за деня, за да завършите следобеда с дихателна панорамна гледка."
+        "bg": "Денят ви започва с най-дългото шофиране до впечатляващия археологически резерват Кабиле. След интензивната сутрин се връщате в центъра на Ямбол, паркирате и разглеждате първия градски клъстър пеш: Историческият музей, Безистенът и църквата „Св. Георги“. След тази историческа разходка взимате колата за кратко шофиране до хълм Боровец, вторият клъстър за деня, за да завършите следобеда с впечатляваща панорамна гледка."
       },
       "gastro_picks": {
         "de": [
@@ -1480,10 +1480,10 @@
           "Kabile is best reached by car and is an absolute must-see in the region."
         ],
         "bg": [
-          "Използвайте навигационно приложение, за да намерите най-добрите маршрути и паркоместа.",
-          "Паркирането в центъра може да бъде предизвикателство в работни дни. Оставете време за намиране на място.",
-          "Подходът с клъстери пести време и грижи. Паркирайте веднъж и ходете пеша.",
-          "Кабиле е най-добре достъпно с кола и е задължителна забележителност в региона."
+          "Използвайте навигационно приложение, за да откриете най-добрите маршрути и паркоместа.",
+          "Паркирането в центъра може да бъде предизвикателство в делнични дни. Оставете време за намиране на място.",
+          "Подходът с клъстъри пести време и грижи. Паркирайте веднъж и ходете пеша.",
+          "Кабиле е най-добре достъпно с кола и е абсолютно задължителна спирка в региона."
         ]
       },
       "variants": {
@@ -1493,7 +1493,7 @@
             "hu": "Kezdje a napot kényelmesen Kabilében, ahol az autó száraz menedékként szolgál a romok között. Délben parkoljon a központban, és élvezzen egy kellemes ebédet a Történeti Múzeum mellett. A Beziszten és a Szent György-templom esőben is könnyen megközelíthető. A napot a Borovets-dombra tett autózás zárja, ahol a kilátást a kocsiból is élvezheti.",
             "ro": "Începeți ziua confortabil la Kabile, mașina fiind un refugiu uscat între vizitarea ruinelor. La prânz, parcați central și savurați o masă caldă lângă Muzeul de Istorie. Bezisten și Biserica Sf. Gheorghe sunt ușor de vizitat în ciuda ploii. Finalul aparține dealului Borovets, unde puteți admira vederea protejați în mașină.",
             "en": "Start your day comfortably at Kabile, using the car as a dry base between exploring the ruins. At noon, park in the center for a cozy lunch near the Historical Museum. The Bezisten and St. George Church are easily reachable despite the rain. End the day with a drive to Borovets Hill, where you can enjoy the panoramic views from the shelter of your vehicle.",
-            "bg": "Започнете деня си удобно в Кабиле, използвайки колата като суха база между разглежданията на руините. По обяд паркирайте в центъра за уютен обяд близо до Историческия музей. Безистенът и църквата „Свети Георги“ са лесно достъпни въпреки дъжда. Завършете деня с каране до хълм Боровец, където можете да се насладите на панорамните гледки от убежището на вашия автомобил."
+            "bg": "Започнете деня си удобно в Кабиле, използвайки колата като суха база между разглежданията на руините. На обяд паркирайте в центъра за уютен обяд близо до Историческия музей. Безистенът и църквата „Св. Георги“ са лесно достижими въпреки дъжда. Завършете деня с шофиране до хълм Боровец, където можете да се насладите на панорамата, защитени от автомобила си."
           },
           "stops": [
             {
@@ -1503,7 +1503,7 @@
                 "hu": "Parkoljon közel a bejárathoz, hogy elkerülje az ázást.",
                 "ro": "Parcați aproape de intrare pentru a evita ploaia.",
                 "en": "Park close to the entrance to minimize time in the rain.",
-                "bg": "Паркирайте близо до входа, за да минимизирате времето под дъжда."
+                "bg": "Паркирайте близо до входа, за да минимизирате времето в дъжда."
               }
             },
             {
@@ -1513,7 +1513,7 @@
                 "hu": "Keressen fedett parkolót, ha lehetséges.",
                 "ro": "Căutați parcare acoperită, dacă este disponibilă.",
                 "en": "Look for covered parking spots if available.",
-                "bg": "Потърсете покрити паркоместа, ако има такива."
+                "bg": "Потърсете покрити паркоместа, ако има налични."
               }
             },
             {
@@ -1523,7 +1523,7 @@
                 "hu": "A szárazon töltött hosszú idő ma ideális.",
                 "ro": "Un popas lung la adăpost este ideal astăzi.",
                 "en": "A long indoor break is perfect for a rainy day.",
-                "bg": "Дълга закрита почивка е перфектна за дъждовен ден."
+                "bg": "Дълга вътрешна почивка е идеална за дъждовен ден."
               }
             },
             {
@@ -1583,10 +1583,10 @@
               "Watch out for aquaplaning on the road to Kabile."
             ],
             "bg": [
-              "Проверете чистачките преди да тръгнете.",
-              "Отделете допълнително време за намиране на паркинг в центъра.",
-              "Дръжте си чадър в колата.",
-              "Внимавайте за аквапланинг по пътя към Кабиле."
+              "Проверете чистачките преди тръгване.",
+              "Оставете допълнително време за намиране на паркомясто в центъра.",
+              "Дръжте чадър под ръка в колата.",
+              "Внимавайте за аквапланинг на пътя към Кабиле."
             ]
           }
         },
@@ -1596,7 +1596,7 @@
             "hu": "Reggel a téli tájon át vezet az út Kabilébe, ahol a romok deres csillogással várják. Visszatérve a városközpontba, a Történeti Múzeum kínál meleget és kultúrát. A Beziszten és a templom rövid látogatása után a Borovets-domb következik. Ott a fűtött autóban élvezheti a téli naplementét, mielőtt a sötétség elborítja a kivilágított Jambolt.",
             "ro": "Dimineața, drumul prin peisajul de iarnă vă duce la Kabile, unde ruinele sclipesc sub ger. Revenind în centrul orașului, Muzeul de Istorie oferă căldură și cultură. După o scurtă vizită la Bezisten și biserică, mergeți la dealul Borovets. Acolo, în mașina încălzită, admirați apusul de iarnă înainte ca întunericul să cuprindă Iambolul luminat.",
             "en": "In the morning, drive through the winter landscape to Kabile, where the ruins glisten with frost. Back in the city center, the Historical Museum offers warmth and Bulgarian heritage. After a short visit to the Bezisten and the church, head to Borovets Hill. There, from your heated car, enjoy the winter sunset before darkness blankets the illuminated city.",
-            "bg": "Сутринта карайте през зимния пейзаж до Кабиле, където руините блещукат от измръзване. Връщайки се в градския център, Историческият музей предлага топлина и българско наследство. След кратко посещение на Безистена и църквата, насочете се към хълм Боровец. Там, от отопляемата си кола, се насладете на зимния залез преди тъмнината да покрие осветения град."
+            "bg": "През утрото карайте през зимния пейзаж към Кабиле, където руините блестят със слана. Връщайки се в центъра, Историческият музей предлага топлина и българско наследство. След кратко посещение на Безистена и църквата, отправете се към хълм Боровец. Там, от отопляемата си кола, се насладете на зимния залез преди тъмнината да покрие осветения град."
           },
           "stops": [
             {
@@ -1606,7 +1606,7 @@
                 "hu": "Fűtse fel jól az autót a visszaútra.",
                 "ro": "Preîncălziți bine mașina pentru drumul de întoarcere.",
                 "en": "Pre-heat the car well before the return trip.",
-                "bg": "Загрейте добре колата преди връщане."
+                "bg": "Предварително загрейте добре колата преди връщане."
               }
             },
             {
@@ -1636,7 +1636,7 @@
                 "hu": "A rövid gyalogút minimalizálja a hideget.",
                 "ro": "Timpul scurt de mers minimizează expunerea la frig.",
                 "en": "Short walking time minimizes exposure to the cold.",
-                "bg": "Краткото време за ходене намалява излагането на студа."
+                "bg": "Краткото време на пешеходие намалява излагането на студ."
               }
             },
             {
@@ -1646,7 +1646,7 @@
                 "hu": "Hagyja menni a fűtést a rövid úton.",
                 "ro": "Lăsați căldura pornită pe drumul scurt.",
                 "en": "Keep the car heater on during the short drives.",
-                "bg": "Дръжте парното включено по време на кратките преходи с кола."
+                "bg": "Дръжте отоплението в колата включено по време на кратките пътувания."
               }
             },
             {
@@ -1656,7 +1656,7 @@
                 "hu": "Legjobb hely a naplementéhez fagyoskodás nélkül.",
                 "ro": "Cel mai bun loc pentru apus fără a îngheța.",
                 "en": "Best spot for the sunset without freezing.",
-                "bg": "Най-доброто място за залеза без да замръзнете."
+                "bg": "Най-доброто място за залез без да замръзнете."
               }
             }
           ],
@@ -1687,8 +1687,8 @@
             ],
             "bg": [
               "Зимните гуми са задължителни по закон в България.",
-              "Носете стъргалка за лед и препарат против замръзване в колата.",
-              "Внимавайте за сутрешна мъгла по откритите пътища.",
+              "Носете стъргалка за лед и размразител в колата.",
+              "Внимавайте за утринна мъгла по откритите пътища.",
               "Проверете акумулатора, тъй като студът го влияе."
             ]
           }
@@ -1709,7 +1709,7 @@
             "hu": "Utazás a Kabile Régészeti Rezervátumhoz (A-klaszter)",
             "ro": "Călătorie la Rezervația Arheologică Kabile (Cluster A)",
             "en": "Trip to Kabile Archaeological Reserve (Cluster A)",
-            "bg": "Екскурзия до Археологически резерват Кабиле (Клъстер A)"
+            "bg": "Екскурзия до Археологически резерват Кабиле (Клъстър A)"
           },
           "coords": [
             26.58,
@@ -1726,7 +1726,7 @@
             "hu": "Menjen busszal a központi buszpályaudvarról. Tervezzen bőséges utazási időt.",
             "ro": "Luați un autobuz de la autogara centrală. Planificați-vă timpul de călătorie cu generozitate.",
             "en": "Take a bus from the central bus station. Plan your travel time generously.",
-            "bg": "Вземете автобус от централната автогара. Планирайте пътуването си с достатъчно време."
+            "bg": "Вземете автобус от централната автогара. Планирайте времето за пътуване щедро."
           }
         },
         {
@@ -1735,7 +1735,7 @@
             "hu": "Vissza a városközpontba (B-klaszter)",
             "ro": "Întoarcere în centrul orașului (Cluster B)",
             "en": "Return to City Center (Cluster B)",
-            "bg": "Връщане в градския център (Клъстер B)"
+            "bg": "Връщане в Градския център (Клъстър B)"
           },
           "coords": [
             26.505,
@@ -1778,7 +1778,7 @@
             "hu": "A színház környéke számos lehetőséget kínál egy gyors ebédre.",
             "ro": "Zona din jurul teatrului oferă multe opțiuni pentru un prânz rapid.",
             "en": "The area around the theatre offers many options for a quick lunch.",
-            "bg": "Районът около театъра предлага много възможности за бърз обяд."
+            "bg": "В района около театъра има много възможности за бърз обяд."
           }
         },
         {
@@ -1804,7 +1804,7 @@
             "hu": "Rövid séta a színháztól, hogy mélyebbre merüljön a helyi történelemben.",
             "ro": "O scurtă plimbare de la teatru pentru a aprofunda istoria locală.",
             "en": "A short walk from the theatre to delve deeper into local history.",
-            "bg": "Кратка разходка от театъра, за да се потопите по-дълбоко в местната история."
+            "bg": "Кратка разходка от театъра, за да надникнете по-дълбоко в местната история."
           }
         },
         {
@@ -1813,7 +1813,7 @@
             "hu": "Besziszten és Városi Park",
             "ro": "Bezisten și Parcul Orașului",
             "en": "Bezisten and City Park",
-            "bg": "Безистен и Градска градина"
+            "bg": "Безистен и Градски парк"
           },
           "coords": [
             26.5,
@@ -1830,7 +1830,7 @@
             "hu": "Zárja a napot egy sétával a Besziszten-től a pihentető Városi Parkig.",
             "ro": "Încheiați ziua cu o plimbare de la Bezisten la relaxantul Parc al Orașului.",
             "en": "End the day with a walk from the Bezisten to the relaxing City Park.",
-            "bg": "Завършете деня с разходка от Безистена до релаксиращата Градска градина."
+            "bg": "Завършете деня с разходка от Безистена до успокояващия Градски парк."
           }
         }
       ],
@@ -1839,7 +1839,7 @@
         "hu": "Ez a terv a hosszabb távolságokra a tömegközlekedést használja. A délelőttöt teljes egészében a lenyűgöző Kabile Régészeti Rezervátumnak szenteljük, amelyet busszal érhet el. A központba való visszatérés után felfedezheti a gyalogosbarát klasztert, amely a színházból, múzeumból, Beszisztenből és a Városi Parkból áll. Ez a séta gazdag kulturális, történelmi és pihentető keverékkel tölti ki a délutánt, mielőtt buszra szállna hazafelé.",
         "ro": "Acest plan folosește transportul public pentru distanțe mai lungi. Dimineața este dedicată în întregime impresionantei Rezervații Arheologice Kabile, la care ajungeți cu autobuzul. După întoarcerea în centru, explorați clusterul pietonal format din teatru, muzeu, Bezisten și Parcul Orașului. Această plimbare umple după-amiaza cu un amestec bogat de cultură, istorie și relaxare, înainte de a lua autobuzul spre casă.",
         "en": "This plan utilizes public transport for the longer distances. The morning is entirely dedicated to the impressive Kabile Archaeological Reserve, which you reach by bus. After returning to the center, you'll explore the pedestrian-friendly cluster of the theatre, museum, Bezisten, and City Park. This walk fills the afternoon with a rich mix of culture, history, and relaxation before you take the bus home.",
-        "bg": "Този план използва обществения транспорт за по-дългите разстояния. Утринта е изцяло посветена на впечатляващия Археологически резерват Кабиле, до който стигате с автобус. След връщането в центъра ще разгледате пешеходния клъстер театър, музей, Безистен и Градска градина. Тази разходка запълва следобеда с богат микс от култура, история и релакс преди да се върнете с автобус."
+        "bg": "Този план използва обществения транспорт за по-дългите разстояния. Сутринта е изцяло посветена на впечатляващия археологически резерват Кабиле, до който стигате с автобус. След връщането в центъра ще разгледате пешеходния клъстър театър–музей–Безистен–Градски парк. Тази разходка запълва следобеда с богат микс от култура, история и релакс, преди да се върнете с автобус."
       },
       "gastro_picks": {
         "de": [
@@ -2001,10 +2001,10 @@
           "Combine bus rides with walking to make the most of your day."
         ],
         "bg": [
-          "Проверете разписанията на автобусите до Кабиле предварително, тъй като може да не са чести.",
-          "Купете билети предварително или имайте дребни пари готови за шофьора.",
-          "Дневна карта може да е по-евтина, ако планирате да правите множество пътувания.",
-          "Съчетавайте автобусите с ходене, за да извлечете максимума от деня си."
+          "Проверете разписанието на автобусите за Кабиле предварително, тъй като може да не са чести.",
+          "Купете билети предварително или имайте дребни пари за шофьора.",
+          "Дневна карта може да е по-евтина, ако планирате да пътувате повече пъти.",
+          "Комбинирайте пътувания с автобус и ходене пеша, за да оползотворите деня."
         ]
       },
       "variants": {
@@ -2014,7 +2014,7 @@
             "hu": "Kezdje a napot busszal Kabilébe, ahol az időjárás sötétebbre festi az antik köveket. A központba való visszatérés után a Nevena Kokanova színház nyújt menedéket és kultúrát. A Történeti Múzeum ideális helyszín az esős délutánokra. A napot a Bezisztenben és a városi parkban zárhatja, ahol a megállók közötti rövid távok minimalizálják az ázást.",
             "ro": "Începeți ziua cu autobuzul spre Kabile, unde vremea colorează pietrele antice în nuanțe mai închise. După revenirea în centru, teatrul Nevena Kokanova oferă adăpost și cultură. Muzeul de Istorie este un loc ideal pentru după-amiezi ploioase. Încheiați ziua la Bezisten și în parcul orașului, distanțele scurte între stații reducând expunerea la ploaie.",
             "en": "Start your day by bus to Kabile, where the weather gives the ancient stones a moody hue. Upon returning to the center, the Nevena Kokanova Theater offers shelter and local culture. The Historical Museum is perfect for rainy afternoons. Conclude your day at the Bezisten and the city park, where short walks between transit stops keep you relatively dry.",
-            "bg": "Започнете деня си с автобус до Кабиле, където времето придава на древните камъни мрачен нюанс. Връщайки се в центъра, театър „Невена Коканова“ предлага подслон и местна култура. Историческият музей е идеален за дъждовни следобеди. Завършете деня в Безистена и градската градина, където кратките разходки между спирките ви държат относително сухи."
+            "bg": "Започнете деня с автобус до Кабиле, където времето придава на старите камъни мрачен оттенък. При връщане в центъра театър „Невена Коканова“ предлага подслон и местна култура. Историческият музей е идеален за дъждовни следобеди. Завършете деня в Безистена и градския парк, където кратките разстояния между спирките ви държат относително сухи."
           },
           "stops": [
             {
@@ -2034,7 +2034,7 @@
                 "hu": "A megállók gyakran csak korlátozott esővédelmet nyújtanak.",
                 "ro": "Stațiile oferă adesea protecție limitată contra ploii.",
                 "en": "Bus stops often provide limited rain shelter.",
-                "bg": "Автобусните спирки често предлагат ограничен подслон от дъжда."
+                "bg": "Автогарите често предлагат ограничен навес от дъжда."
               }
             },
             {
@@ -2044,7 +2044,7 @@
                 "hu": "Nagyon központi helyen, rövid út a megállóig.",
                 "ro": "Locație centrală, drum scurt până la stație.",
                 "en": "Very central location, short walk to the stop.",
-                "bg": "Много централно разположен, кратка разходка до спирката."
+                "bg": "Много централно местоположение, кратка разходка до спирката."
               }
             },
             {
@@ -2054,7 +2054,7 @@
                 "hu": "Kulturális horgonypont a városközpontban.",
                 "ro": "Un punct de ancorare cultural în centrul orașului.",
                 "en": "A cultural anchor point in the city center.",
-                "bg": "Културен опорен пункт в градския център."
+                "bg": "Културна опорна точка в центъра на града."
               }
             },
             {
@@ -2064,7 +2064,7 @@
                 "hu": "Használja a Bezisztent időjárásálló átjáróként.",
                 "ro": "Folosiți Bezisten ca pasaj protejat de vreme.",
                 "en": "Use the Bezisten as a weather-proof passage.",
-                "bg": "Използвайте Безистена като защитен проход от лошо време."
+                "bg": "Използвайте Безистена като защитен от времето проход."
               }
             }
           ],
@@ -2094,10 +2094,10 @@
               "Wear waterproof outer layers for walks to/from stops."
             ],
             "bg": [
-              "Свалете местно приложение за транспорт, ако е налично.",
-              "Дръжте дребни пари готови за билетите в автобуса.",
-              "Автобусите може да закъсняват при силен дъжд.",
-              "Носете водоустойчиви външни дрехи за разходки до/от спирките."
+              "Свалете локално приложение за градския транспорт, ако е налично.",
+              "Дръжте дребни пари под ръка за билети в автобуса.",
+              "Автобусите могат да имат закъснения при силен дъжд.",
+              "Носете водоустойчиво външно облекло за разходки до/от спирките."
             ]
           }
         },
@@ -2107,7 +2107,7 @@
             "hu": "Téli buszos kirándulás indítja a napot Kabilébe, ahol a hideg levegő különösen tisztává teszi az antik romok látványát. A városközpontban való felmelegedés után a Nevena Kokanova színház kínál kulturális élményt. A Történeti Múzeum délután ismét felmelegíti a látogatót. A nap a Bezisztenben és a deres parkban zárul, mielőtt kényelmesen hazatérne.",
             "ro": "O excursie de iarnă cu autobuzul spre Kabile începe ziua, aerul rece făcând ruinele antice să pară foarte clare. După reîncălzirea în centru, teatrul Nevena Kokanova oferă un moment cultural. Muzeul de Istorie vă va încălzi din nou după-amiaza. Ziua se încheie la Bezisten și în parcul înghețat, înainte de drumul confortabil spre casă.",
             "en": "A winter bus excursion to Kabile starts the day, where the crisp air makes the ancient ruins appear strikingly clear. After warming up back in the center, the Nevena Kokanova Theater provides a cultural highlight. The Historical Museum offers a cozy retreat in the afternoon. End your day at the Bezisten and the frosty city park before a comfortable transit ride back.",
-            "bg": "Зимна автобусна екскурзия до Кабиле започва деня, където свежият въздух прави древните руини изключително ясни. След като се затоплите обратно в центъра, театър „Невена Коканова“ предлага културен акцент. Историческият музей осигурява уютен следобед. Завършете деня в Безистена и измръзналата градска градина преди удобното връщане с транспорт."
+            "bg": "Зимна автобусна екскурзия до Кабиле започва деня, където свежият въздух прави древните руини изключително ясни. След затопляне в центъра, театър „Невена Коканова“ дава културен акцент. Историческият музей предлага уютно отдихване през следобеда. Завършете деня в Безистена и покрития със слана градски парк преди удобното пътуване с транспорт обратно."
           },
           "stops": [
             {
@@ -2127,7 +2127,7 @@
                 "hu": "Használja ki a várakozási időt egy forró italra.",
                 "ro": "Folosiți timpul de așteptare pentru o băutură caldă.",
                 "en": "Use the waiting time to grab a hot drink to-go.",
-                "bg": "Използвайте времето за чакане, за да си вземете гореща напитка за отнасяне."
+                "bg": "Използвайте времето на чакане, за да си вземете гореща напитка за изпът."
               }
             },
             {
@@ -2157,7 +2157,7 @@
                 "hu": "A park naplementekor különösen hangulatos.",
                 "ro": "Parcul este foarte atmosferic la apus.",
                 "en": "The park is very atmospheric at sunset.",
-                "bg": "Паркът е много атмосферичен при залез."
+                "bg": "Паркът е много атмосферен при залез."
               }
             }
           ],
@@ -2187,7 +2187,7 @@
               "Wear warm, insulated shoes for waiting at stops."
             ],
             "bg": [
-              "При възможност изчакайте автобуса в близките кафенета.",
+              "Ако е възможно, почакайте автобуса в близките кафенета.",
               "Автобусите обикновено са добре отоплени през зимата.",
               "Имайте предвид празничните разписания, които могат да се различават.",
               "Носете топли, изолирани обувки за чакане на спирките."

@@ -22,7 +22,7 @@
             "hu": "Óratorony",
             "ro": "Turnul cu Ceas",
             "en": "Clock Tower",
-            "bg": "Часовникова кула"
+            "bg": "Часовникова Кула"
           },
           "coords": [
             42.2658,
@@ -39,7 +39,7 @@
             "hu": "A város jelképe és egy remek első fotómegálló.",
             "ro": "Emblema orașului și o primă oprire excelentă pentru fotografii.",
             "en": "The city's landmark and a great first photo stop.",
-            "bg": "Знаковата страница на града и страхотно място за първа снимка."
+            "bg": "Знакова забележителност на града и чудесно място за първа снимка."
           }
         },
         {
@@ -48,7 +48,7 @@
             "hu": "Dupnicai Történeti Múzeum",
             "ro": "Muzeul de Istorie Dupnița",
             "en": "Historical Museum Dupnitsa",
-            "bg": "Исторически музей Дупница"
+            "bg": "Исторически Музей Дупница"
           },
           "coords": [
             42.2665,
@@ -74,7 +74,7 @@
             "hu": "Városi Művészeti Galéria",
             "ro": "Galeria de Artă Municipală",
             "en": "Municipal Art Gallery",
-            "bg": "Общинска художествена галерия"
+            "bg": "Общинска Художествена Галерия"
           },
           "coords": [
             42.2671,
@@ -91,7 +91,7 @@
             "hu": "Csodálja meg a helyi és bolgár nemzeti művészek alkotásait.",
             "ro": "Admirați lucrări ale artiștilor bulgari locali și naționali.",
             "en": "Admire works by local and national Bulgarian artists.",
-            "bg": "Полюбувайте се на творби от местни и национални български художници."
+            "bg": "Възхищавайте се на творби от местни и национални български артисти."
           }
         },
         {
@@ -117,7 +117,7 @@
             "hu": "A nyugalom szigete, lenyűgöző ikonokkal és freskókkal.",
             "ro": "Un loc de liniște cu icoane și fresce impresionante.",
             "en": "A place of peace with impressive icons and frescoes.",
-            "bg": "Място на спокойствие с впечатляващи икони и стенописи."
+            "bg": "Място на мир с впечатляващи икони и фрески."
           }
         },
         {
@@ -126,7 +126,7 @@
             "hu": "Az elesettek emlékműve",
             "ro": "Monumentul celor Căzuți",
             "en": "Monument to the Fallen",
-            "bg": "Паметник на загиналите"
+            "bg": "Паметник на Загиналите"
           },
           "coords": [
             42.269,
@@ -143,7 +143,7 @@
             "hu": "Egy pillanatnyi megállás a város történelmére emlékezve.",
             "ro": "Un moment de reculegere pentru a comemora istoria orașului.",
             "en": "A moment of pause to commemorate the city's history.",
-            "bg": "Момент на пауза за почит към историята на града."
+            "bg": "Момент на преклонение в памет на историята на града."
           }
         },
         {
@@ -152,7 +152,7 @@
             "hu": "Rila Park",
             "ro": "Parcul Rila",
             "en": "Rila Park",
-            "bg": "Рилски парк"
+            "bg": "Рилски Парк"
           },
           "coords": [
             42.263,
@@ -204,7 +204,7 @@
         "hu": "Kezdje a napot az Óratoronynál, Dupnica szívében. Délelőtt merüljön el a helyi történelemben és művészetben a múzeumban és a galériában. A Szent György-templomban tett spirituális kitérő után ideje egy hagyományos bolgár ebédnek. A délutánt a természetnek szenteljük: egy hosszú séta a Rila Parkban, amely a csendes Bisztrica folyónál ér véget, tökéletesen lezárja a napot.",
         "ro": "Începeți ziua la Turnul cu Ceas, inima Dupniței. Dimineața, scufundați-vă în istoria și arta locală la muzeu și galerie. După un moment spiritual la Biserica Sf. Gheorghe, este timpul pentru un prânz tradițional bulgăresc. După-amiaza este dedicată naturii: o plimbare lungă prin Parcul Rila, care se încheie la râul liniștit Bistrița, încheie perfect ziua.",
         "en": "Start your day at the Clock Tower, the heart of Dupnitsa. In the morning, immerse yourself in local history and art at the museum and gallery. After a spiritual moment at the St. George Church, it's time for a traditional Bulgarian lunch. The afternoon is dedicated to nature: a long walk through Rila Park, ending at the quiet Bistritsa River, perfectly rounds off the day.",
-        "bg": "Започнете деня си от Часовниковата кула — сърцето на Дупница. Сутринта потопете се в местната история и изкуство в музея и галерията. След духовен момент в църквата „Св. Георги“ е време за традиционен български обяд. Следобедът е посветен на природата: дълга разходка през Рилския парк, завършваща на тихата река Бистрица, която перфектно допълва деня."
+        "bg": "Започнете деня при Часовниковата кула, сърцето на Дупница. Сутринта се потопете в местната история и изкуство в музея и галерията. След духовен момент в църквата „Св. Георги“, време е за традиционен български обяд. Следобедът е посветен на природата: дълга разходка през Рилския парк, завършваща на тихата река Бистрица, която перфектно допълва деня."
       },
       "gastro_picks": {
         "de": [
@@ -402,10 +402,10 @@
           "The best photo opportunities are in the early morning or late afternoon."
         ],
         "bg": [
-          "Носете удобни обувки, тъй като по-голямата част от разглеждането е пеша.",
-          "Вземете многократна бутилка за вода.",
-          "Планирайте време за спокойна обедна почивка в традиционна механа.",
-          "Най-добрите фотомоменти са рано сутрин или късно следобед."
+          "Носете удобни обувки, тъй като разглеждането е предимно пеша.",
+          "Вземете си многократна бутилка за вода.",
+          "Планирайте време за бавен обяд в традиционна механа.",
+          "Най-добрите фото възможности са рано сутрин или късен следобед."
         ]
       },
       "variants": {
@@ -415,7 +415,7 @@
             "hu": "Reggel az óratoronynál és a múzeumban kezdünk, elkerülve az első záporokat. Délben a galéria és a Szent György-templom nyújt fedett menedéket a városnézéshez. Délután egy rövid esernyős séta következik a Rila-parkban, ahol a vizes levegő frissítő. Az estet a Bistritsa-hídnál zárjuk, figyelve a megáradt folyó zúgását a sötétedő szürkületben.",
             "ro": "Dimineața vizităm Turnul cu Ceas și muzeul pentru a ne adăposti de ploaie. La prânz, galeria și biserica Sf. Gheorghe oferă refugii culturale uscate. După-amiaza facem o scurtă plimbare cu umbrela prin Parcul Rila, bucurându-ne de aerul curat. Seara se încheie la podul peste Bistrița, unde sunetul râului umflat de ploaie este impresionant.",
             "en": "Morning starts at the Clock Tower and museum to stay dry during the rain. At noon, the gallery and St. George Church provide perfect indoor cultural stops. Afternoon involves a short umbrella walk in Rila Park, where the wet foliage smells fresh. The evening ends at the Bistritsa bridge, listening to the powerful rush of the rain-fed river.",
-            "bg": "Сутринта започва при Часовниковата кула и музея, за да останете сухи по време на дъжд. На обяд галерията и църквата „Св. Георги“ предоставят идеални закрити културни спирки. Следобедът включва кратка разходка с чадър в Рилския парк, където мократа растителност ухае свежо. Вечерта приключва на моста над Бистрица, слушайки мощния шум на реката, подхранвана от дъжда."
+            "bg": "Сутринта започва при Часовниковата кула и музея, за да останете сухи при дъжд. На обяд галерията и църквата „Св. Георги“ предлагат идеални закрити културни спирки. Следобедът включва кратка разходка с чадър в Рилския парк, където мократа растителност ухае свежо. Вечерта завършва на моста над Бистрица, слушайки мощния тътен на реката, пълна от дъжда."
           },
           "stops": [
             {
@@ -425,7 +425,7 @@
                 "hu": "Rövid megálló az eresz alatti védett részen.",
                 "ro": "Oprire scurtă sub streașina turnului.",
                 "en": "Quick stop under the roof overhang.",
-                "bg": "Бърза спирка под стрехата."
+                "bg": "Бързо спиране под козирка."
               }
             },
             {
@@ -475,7 +475,7 @@
                 "hu": "Használja az aszfaltozott utakat a sár ellen.",
                 "ro": "Folosiți aleile asfaltate pentru a evita noroiul.",
                 "en": "Stick to the paved paths to avoid mud.",
-                "bg": "Дръжте се по павираните пътеки, за да избегнете кал."
+                "bg": "Дръжте се по павираните пътеки, за да избегнете калта."
               }
             },
             {
@@ -485,7 +485,7 @@
                 "hu": "A korlát nedves és hideg lehet.",
                 "ro": "Balustrada poate fi udă și rece.",
                 "en": "The railing can be wet and cold.",
-                "bg": "Парапетът може да е влажен и студен."
+                "bg": "Парапетът може да е мокър и студен."
               }
             }
           ],
@@ -516,9 +516,9 @@
             ],
             "bg": [
               "Носете водоустойчиви обувки за пътеките в парка.",
-              "Здрава чадър е необходим за ветровити участъци.",
+              "Здрав чадър е нужен за ветровитите участъци.",
               "Музеите служат като отлични места за затопляне.",
-              "Внимавайте за локви в стария център."
+              "Внимавайте за локви в старата градска част."
             ]
           }
         },
@@ -528,7 +528,7 @@
             "hu": "A téli reggel frissen indul az óratoronynál, majd a Történeti Múzeum melegében folytatódik. Délben a galéria és az ünnepi díszbe öltözött Szent György-templom vár minket. A délutáni séta a Rila-parkban tiszta téli levegőt kínál a korai naplemente előtt. A napot a Bistritsa-hídnál zárjuk, miközben a város fényei megcsillannak a havon.",
             "ro": "Dimineața de iarnă începe răcoros la Turnul cu Ceas, urmată de căldura Muzeului de Istorie. La prânz vizităm galeria de artă și biserica Sf. Gheorghe, frumos luminată. După-amiaza în Parcul Rila oferă aer curat de iarnă înainte de apusul timpuriu. Încheiem ziua la podul peste Bistrița, admirând luminile orașului reflectate în zăpadă.",
             "en": "The winter morning starts crisp at the Clock Tower, followed by the warmth of the History Museum. At noon, we visit the art gallery and the festively lit St. George Church. An afternoon stroll in Rila Park offers fresh winter air before the early sunset. We finish the day at the Bistritsa bridge as city lights sparkle in the snow.",
-            "bg": "Зимното утро започва студено при Часовниковата кула, последвано от топлината на Историческия музей. На обяд посещаваме художествената галерия и празнично осветената църква „Св. Георги“. Следобедната разходка в Рилския парк предлага свеж зимен въздух преди ранния залез. Завършваме деня на моста над Бистрица, докато уличните светлини искрят в снега."
+            "bg": "Зимното утро започва свежо при Часовниковата кула, последвано от топлината на Историческия музей. На обяд посещаваме художествената галерия и празнично осветената църква „Св. Георги“. Следобедната разходка в Рилския парк предлага свеж зимен въздух преди ранния залез. Завършваме деня на моста над Бистрица, докато уличните лампи искрят в снега."
           },
           "stops": [
             {
@@ -538,7 +538,7 @@
                 "hu": "Rövid fotómegálló a hidegben.",
                 "ro": "Scurtă oprire pentru poze în frig.",
                 "en": "Quick photo stop in the cold.",
-                "bg": "Кратка фото спирка на студено."
+                "bg": "Кратка снимка в студа."
               }
             },
             {
@@ -558,7 +558,7 @@
                 "hu": "Jól fűtött termek a pihenéshez.",
                 "ro": "Săli bine încălzite pentru relaxare.",
                 "en": "Well-heated rooms for recovery.",
-                "bg": "Добре отоплени помещения за възстановяване."
+                "bg": "Добре отоплени стаи за възстановяване."
               }
             },
             {
@@ -578,7 +578,7 @@
                 "hu": "Gyakran szeles, készítse elő a kesztyűt.",
                 "ro": "Deseori vântos, pregătiți mănușile.",
                 "en": "Often windy, keep your gloves ready.",
-                "bg": "Често ветровито, дръжте ръкавиците подръка."
+                "bg": "Често е ветровито, дръжте ръкавиците под ръка."
               }
             },
             {
@@ -588,7 +588,7 @@
                 "hu": "Csak a letakarított főutakon sétáljon.",
                 "ro": "Plimbați-vă doar pe aleile principale deszăpezite.",
                 "en": "Walk only on the cleared main paths.",
-                "bg": "Ходете само по отъпканите основни пътеки."
+                "bg": "Разхождайте се само по почистените основни пътеки."
               }
             },
             {
@@ -598,7 +598,7 @@
                 "hu": "Vigyázzon a jegesedésre a pallókon.",
                 "ro": "Atenție la poleiul de pe scânduri.",
                 "en": "Watch out for black ice on the planks.",
-                "bg": "Внимавайте за черен лед на дъските."
+                "bg": "Внимавайте за черен лед върху дъските."
               }
             }
           ],
@@ -629,9 +629,9 @@
             ],
             "bg": [
               "Залезът е рано, около 16:30 ч.",
-              "Силно се препоръчва обличане на слоеве.",
+              "Препоръчително е да носите на слоеве дрехи.",
               "Музеите са отлични за затопляне.",
-              "Носете обувки с добро сцепление върху сняг."
+              "Носете обувки с добро сцепление на сняг."
             ]
           }
         }
@@ -694,7 +694,7 @@
             "hu": "Mély betekintés a helyi kultúrába, jó egy hosszabb pihenőre.",
             "ro": "O incursiune profundă în cultura locală, bună pentru o pauză mai lungă.",
             "en": "A deep dive into the local culture, good for a longer break.",
-            "bg": "Дълбоко потапяне в местната култура, подходящо за по-дълга почивка."
+            "bg": "Задълбочено запознаване с местната култура, подходящо за по-дълга почивка."
           }
         },
         {
@@ -703,7 +703,7 @@
             "hu": "Szent György-templom",
             "ro": "Biserica Sfântul Gheorghe",
             "en": "Church of Saint George",
-            "bg": "Църква „Св. Георги“"
+            "bg": "Църква „Свети Георги”"
           },
           "coords": [
             42.265,
@@ -746,7 +746,7 @@
             "hu": "Parkolja le a kerékpárt és élvezze a bolgár művészetet.",
             "ro": "Parcați bicicleta și bucurați-vă de arta bulgară.",
             "en": "Park your bike and enjoy Bulgarian art.",
-            "bg": "Паркирайте колелото и се насладете на българско изкуство."
+            "bg": "Паркирайте колелото и се насладете на българското изкуство."
           }
         },
         {
@@ -798,7 +798,7 @@
             "hu": "Biciklizzen át a parkon, vagy tartson itt egy hosszabb ebédszünetet.",
             "ro": "Pedalați prin parc sau luați o pauză de prânz mai lungă aici.",
             "en": "Cycle through the park or take a longer lunch break here.",
-            "bg": "Карайте през парка или направете по-дълъг обяд тук."
+            "bg": "Карай през парка или си направи по-дълга обедна почивка тук."
           }
         },
         {
@@ -824,7 +824,7 @@
             "hu": "Szép hely a táj élvezetére, mielőtt továbbhaladna.",
             "ro": "Un loc frumos pentru a vă bucura de peisaj înainte de a merge mai departe.",
             "en": "A beautiful spot to enjoy the scenery before moving on.",
-            "bg": "Красиво място за да се насладите на гледката преди да продължите."
+            "bg": "Красиво място за да се насладите на пейзажа преди да продължите."
           }
         },
         {
@@ -859,7 +859,7 @@
         "hu": "Pattanjon kerékpárra, és induljon a dupnicai Óratoronytól. A délelőtti túra a város történelmi és kulturális szívén vezet keresztül, a múzeumtól a templomig és a galériáig. Az emlékműnél tartott rövid megemlékezés után tekerjen el a tágas Rila Parkba egy piknikre vagy egy gyors ebédre. A délután a Bisztrica folyón át egy lenyűgöző ház-múzeumhoz vezet, mielőtt befejezné a napot.",
         "ro": "Urcați-vă pe bicicletă și porniți de la Turnul cu Ceas din Dupnița. Turul de dimineață vă poartă prin inima istorică și culturală a orașului, de la muzeu la biserică și galerie. După o scurtă pauză comemorativă la monument, pedalați spre vastul Parc Rila pentru un picnic sau un prânz rapid. După-amiaza vă duce peste râul Bistrița la o casă-muzeu fascinantă înainte de a încheia ziua.",
         "en": "Get on your bike and start at the Clock Tower of Dupnitsa. The morning tour takes you through the historical and cultural heart of the city, from the museum to the church and gallery. After a short commemorative break at the monument, cycle to the spacious Rila Park for a picnic or a quick lunch. The afternoon takes you across the Bistritsa River to a fascinating house-museum before ending the day.",
-        "bg": "Седнете на велосипеда и започнете от Часовниковата кула в Дупница. Сутринната обиколка ви води през историческото и културно сърце на града — от музея до църквата и галерията. След кратка възпоменателна пауза при паметника, карайте до просторния Рилски парк за пикник или бърз обяд. Следобедът преминава през река Бистрица до впечатляваща къща-музей, преди да приключи денят."
+        "bg": "Седнете на колелото и започнете от Часовниковата кула на Дупница. Сутрешната обиколка минава през историческото и културното сърце на града — от музея до църквата и галерията. След кратка възпоменателна почивка при паметника, карайте до обширния Рилски парк за пикник или бърз обяд. Следобедът ви води през река Бистрица до интересна къща-музей, преди да приключи денят."
       },
       "gastro_picks": {
         "de": [
@@ -1037,10 +1037,10 @@
           "Some roads can be bumpy, ride with care."
         ],
         "bg": [
-          "Проверете колелото преди да тръгнете.",
-          "Носете каска, особено в градския трафик.",
-          "Вземете катинар, за да обезопасите колелото по спирките.",
-          "Някои пътища могат да са неравни, карайте внимателно."
+          "Проверете колелото преди тръгване.",
+          "Носете каска, особено в градски трафик.",
+          "Вземете катинар, за да заключите колелото на спирките.",
+          "Някои пътища могат да бъдат неравни, карайте внимателно."
         ]
       },
       "variants": {
@@ -1050,7 +1050,7 @@
             "hu": "Esős kerékpártúra Dupnicában, gyors szakaszokkal a látnivalók között. Délelőtt a múzeumokat használjuk pihenőpontként. Délben a központon keresztül tekerünk a galériáig. Délután óvatosan biciklizünk a Rila-parkban, majd a Stanke Dimitrov emlékháznál fejezzük be a napot, ahol fedett helyen parkolhatunk.",
             "ro": "Tur cu bicicleta pe ploaie în Dupnița, cu opriri rapide între atracții. Dimineața folosim muzeele ca puncte de control. La prânz pedalăm prin centru spre galerie. După-amiaza mergem cu grijă prin Parcul Rila și terminăm la casa memorială Stanke Dimitrov, unde putem lăsa bicicleta la adăpost.",
             "en": "Rainy bike tour through Dupnitsa with quick transfers between sights. In the morning, we use museums as safe havens. At noon, we cycle through the center to the gallery. Afternoon involves cautious riding through Rila Park, ending at the Stanke Dimitrov House-Museum, where we can park the bike in the dry.",
-            "bg": "Дъждовна велообиколка из Дупница с бързи придвижвания между забележителностите. Сутрин използваме музеи като убежища. По обяд караме през центъра до галерията. Следобедът включва предпазливо каране през Рилски парк и завършва в Къща-музей „Станке Димитров“, където можем да паркираме колелото на сухо."
+            "bg": "Дъждовна велообиколка из Дупница с бързи прехвърляния между забележителностите. Сутрин използваме музеите като безопасни убежища. В обедните часове караме през центъра към галерията. Следобед се движим внимателно през Рилски парк и завършваме в Къща-музей Станке Димитров, където можем да оставим колелото в сухо."
           },
           "stops": [
             {
@@ -1060,7 +1060,7 @@
                 "hu": "Vigyázzon a leszállásnál a vizes macskakövön.",
                 "ro": "Atenție la coborâre pe pavajul umed.",
                 "en": "Be careful when dismounting on wet cobblestones.",
-                "bg": "Бъдете внимателни при слизане върху мокри калдъръми."
+                "bg": "Бъдете внимателни при слизане по мокри паважни настилки."
               }
             },
             {
@@ -1080,7 +1080,7 @@
                 "hu": "Csendes megálló az esőkabát megigazításához.",
                 "ro": "Oprire liniștită pentru a aranja pelerina de ploaie.",
                 "en": "Quiet stop to adjust your raincoat.",
-                "bg": "Тихо място за корекция на дъждобрана."
+                "bg": "Тиха спирка за корекция на дъждобрана."
               }
             },
             {
@@ -1090,7 +1090,7 @@
                 "hu": "Tervezzen hosszabb pihenőt, amíg az eső alábbhagy.",
                 "ro": "Planificați o pauză mai lungă până stă ploaia.",
                 "en": "Plan a longer break until the rain eases off.",
-                "bg": "Планирайте по-дълга почивка, докато дъждът утихне."
+                "bg": "Планирайте по-дълга почивка, докато дъждът отслабне."
               }
             },
             {
@@ -1100,7 +1100,7 @@
                 "hu": "Szeles pont, fogja erősen a kormányt.",
                 "ro": "Punct expus vântului, țineți bine ghidonul.",
                 "en": "Windy spot, keep a firm grip on the handlebars.",
-                "bg": "Ветровито място, дръжте здраво кормилото."
+                "bg": "Ветровито място, дръж здраво кормилото."
               }
             },
             {
@@ -1160,10 +1160,10 @@
               "Check your brakes before starting the tour."
             ],
             "bg": [
-              "Калници са задължителни при това време.",
-              "Избягвайте пътната маркировка — става хлъзгава.",
-              "Носете ярък дъждобран със светоотразители.",
-              "Проверете спирачките преди да започнете обиколката."
+              "Калниците са неизбежни в такова време.",
+              "Избягвайте пътните маркировки, стават хлъзгави.",
+              "Носете ярък водоустойчив дъждобран.",
+              "Проверете спирачките преди започване на обиколката."
             ]
           }
         },
@@ -1173,7 +1173,7 @@
             "hu": "A téli kerékpározás Dupnicában meleg ruházatot és óvatosságot igényel. Reggel az óratoronytól a múzeumhoz tekerünk. Délben a templomot és a galériát érintjük a felmelegedés érdekében. Délután a túra a havas Rila-parkon át vezet. A cél a Stanke Dimitrov múzeum, ahol történelmi környezetben zárjuk a napot, mielőtt beállna az esti fagy.",
             "ro": "Ciclismul de iarnă în Dupnița necesită haine groase și prudență. Dimineața mergem de la turn spre muzeu. La prânz vizităm biserica și galeria pentru a ne încălzi. După-amiaza traseul trece prin Parcul Rila înzăpezit. Destinația este muzeul Stanke Dimitrov, unde încheiem ziua într-o atmosferă istorică înainte de ger.",
             "en": "Winter cycling in Dupnitsa requires warm gear and extra care. In the morning, we ride from the Clock Tower to the museum. At noon, we visit the church and gallery to warm up. Afternoon leads through the snowy Rila Park. The finish is at the Stanke Dimitrov Museum, ending the day in a historic atmosphere before the evening freeze.",
-            "bg": "Зимно колоездене в Дупница изисква топла екипировка и допълнителна грижа. Сутринта караме от Часовниковата кула до музея. По обяд посещаваме църквата и галерията, за да се стоплим. Следобед преминаваме през заснежения Рилски парк. Финалът е в Къща-музей „Станке Димитров“, завършвайки деня в историческа атмосфера преди вечерното заледяване."
+            "bg": "Зимно колоездене в Дупница изисква топло екипиране и допълнително внимание. Сутрин караме от Часовниковата кула до музея. В обедните часове посещаваме църквата и галерията, за да се затоплим. Следобедът води през заснежения Рилски парк. Финалът е в Къща-музей Станке Димитров, където денят завършва в историческа атмосфера преди вечерното студено захлаждане."
           },
           "stops": [
             {
@@ -1193,7 +1193,7 @@
                 "hu": "Rövid melegedő pihenő a bejáratnál.",
                 "ro": "Scurtă pauză de încălzire la intrare.",
                 "en": "Short warming break at the entrance.",
-                "bg": "Кратка затопляща пауза на входа."
+                "bg": "Кратка почивка за затопляне на входа."
               }
             },
             {
@@ -1203,7 +1203,7 @@
                 "hu": "A pedálok csúszósak lehetnek a hótól.",
                 "ro": "Pedalele pot fi alunecoase din cauza zăpezii.",
                 "en": "Pedals can be slippery due to snow.",
-                "bg": "Педалите могат да бъдат хлъзгави заради снега."
+                "bg": "Педалите могат да са хлъзгави заради снега."
               }
             },
             {
@@ -1223,7 +1223,7 @@
                 "hu": "Tartsa röviden a menetidőt nagy hidegben.",
                 "ro": "Limitați timpul de pedalat în ger.",
                 "en": "Keep riding time short in extreme cold.",
-                "bg": "Поддържайте кратко време на каране при екстремен студ."
+                "bg": "Съкращавайте времето на каране при екстремен студ."
               }
             },
             {
@@ -1243,7 +1243,7 @@
                 "hu": "A hidak gyorsabban lehűlnek és fagyhatnak.",
                 "ro": "Podurile se răcesc mai repede și îngheață primele.",
                 "en": "Bridges cool down faster and freeze earlier.",
-                "bg": "Мостовете се охлаждат по-бързо и заледяват по-рано."
+                "bg": "Мостовете се охлаждат по-бързо и замръзват по-рано."
               }
             },
             {
@@ -1253,7 +1253,7 @@
                 "hu": "Fejezze be a túrát sötétedés előtt.",
                 "ro": "Finalizați turul înainte de lăsarea întunericului.",
                 "en": "Finish the tour before darkness falls.",
-                "bg": "Приключете обиколката преди да падне тъмнината."
+                "bg": "Приключете обиколката преди да падне тъмнина."
               }
             }
           ],
@@ -1283,10 +1283,10 @@
               "Avoid sudden steering movements."
             ],
             "bg": [
-              "Носете ветроупорни ръкавици.",
-              "Налягането в гумите трябва да е леко по-ниско за по-добро сцепление.",
-              "Осветлението е от решаващо значение при сиво зимно време.",
-              "Избягвайте внезапни движения на кормилото."
+              "Носете ветроустойчиви ръкавици.",
+              "Налягането в гумите да е малко по-ниско за по-добро сцепление.",
+              "Осветлението е от решаващо значение при мрачно зимно време.",
+              "Избягвайте внезапни завъртания на кормилото."
             ]
           }
         }
@@ -1323,7 +1323,7 @@
             "hu": "Parkoljon itt, hogy gyalog fedezze fel az első látnivaló-csoportot.",
             "ro": "Parcați aici pentru a explora primul grup de obiective pe jos.",
             "en": "Park here to explore the first cluster on foot.",
-            "bg": "Паркирайте тук, за да разгледате първата група пеша."
+            "bg": "Паркирайте тук, за да разгледате първия клъстер пеша."
           }
         },
         {
@@ -1349,7 +1349,7 @@
             "hu": "Kezdje a túrát egy mély betekintéssel a történelembe.",
             "ro": "Începeți turul cu o incursiune profundă în istorie.",
             "en": "Start your tour with a deep dive into history.",
-            "bg": "Започнете турнето си с дълбоко потапяне в историята."
+            "bg": "Започнете обиколката си с дълбоко потапяне в историята."
           }
         },
         {
@@ -1375,7 +1375,7 @@
             "hu": "Egy rövid séta a múzeumtól a város jelképéig.",
             "ro": "O scurtă plimbare de la muzeu la emblema orașului.",
             "en": "A short walk from the museum to the city's landmark.",
-            "bg": "Кратка разходка от музея до емблематичния символ на града."
+            "bg": "Кратка разходка от музея до символа на града."
           }
         },
         {
@@ -1401,7 +1401,7 @@
             "hu": "Az utolsó megálló a városközpontban, mielőtt tovább indul.",
             "ro": "Ultima oprire în centrul orașului înainte de a merge mai departe.",
             "en": "The last stop in the city center before moving on.",
-            "bg": "Последна спирка в центъра преди да продължите нататък."
+            "bg": "Последната спирка в центъра преди да продължите нататък."
           }
         },
         {
@@ -1427,7 +1427,7 @@
             "hu": "Ideje a második látnivaló-csoporthoz hajtani és újra leparkolni.",
             "ro": "Timpul să conduceți la al doilea grup și să parcați mașina din nou.",
             "en": "Time to drive to the second cluster and park the car again.",
-            "bg": "Време е да отидете към втората група и отново да паркирате колата."
+            "bg": "Време е да карате до втория клъстер и отново да паркирате колата."
           }
         },
         {
@@ -1453,7 +1453,7 @@
             "hu": "Tegyen egy hosszú sétát és ebédeljen a park egyik éttermében.",
             "ro": "Faceți o plimbare lungă și luați prânzul la unul dintre restaurantele din parc.",
             "en": "Take a long walk and have lunch at one of the park's restaurants.",
-            "bg": "Разходете се дълго и обядвайте в някой от ресторантите в парка."
+            "bg": "Разходете се дълго и обядвайте в един от ресторантите в парка."
           }
         },
         {
@@ -1479,7 +1479,7 @@
             "hu": "Egy utolsó rövid autós kitérő ehhez a történelmi házhoz.",
             "ro": "Un ultim scurt ocol cu mașina la această casă istorică.",
             "en": "A final short drive to this historic house.",
-            "bg": "Последно кратко пътуване с кола до тази историческа къща."
+            "bg": "Кратко последно шофиране до тази историческа къща."
           }
         }
       ],
@@ -1488,7 +1488,7 @@
         "hu": "Az autós nap Dupnicában két részre oszlik. Kezdje a parkolással a városközpontban, hogy gyalog fedezze fel a történelmi múzeumot, az óratornyot és a művészeti galériát. Délelőtt testközelből élheti át a városi kultúrát. Miután visszatért az autóhoz, hajtson a Rila Parkba. Itt megebédelhet és egy hosszú sétát tehet. Egy utolsó rövid autós út a Sztanke Dimitrov Ház-Múzeumhoz vezet, amely tökéletes lezárása a helyi történelem megismerésének.",
         "ro": "Ziua cu mașina în Dupnița este împărțită în două grupuri. Începeți prin a parca în centrul orașului pentru a explora pe jos muzeul de istorie, turnul cu ceas și galeria de artă. Dimineața veți experimenta cultura urbană de aproape. După ce vă întoarceți la mașină, conduceți spre Parcul Rila. Aici puteți lua prânzul și vă puteți bucura de o plimbare lungă. O ultimă scurtă călătorie cu mașina vă duce la Casa-Muzeu Stanke Dimitrov, o încheiere perfectă pentru a aprecia istoria locală.",
         "en": "Your car day in Dupnitsa is divided into two clusters. Start by parking in the city center to explore the historical museum, clock tower, and art gallery on foot. In the morning, you'll experience urban culture up close. After returning to the car, drive to Rila Park. Here you can have lunch and enjoy a long walk. A final short car trip takes you to the Stanke Dimitrov House-Museum, a perfect conclusion to appreciate local history.",
-        "bg": "Вашият ден с кола в Дупница е разделен на две групи. Започнете, като паркирате в центъра, за да разгледате Историческия музей, часовниковата кула и художествената галерия пеша. Сутринта ще усетите градската култура отблизо. След връщане към колата, шофирайте до Рилски парк. Там можете да обядвате и да се насладите на дълга разходка. Последното кратко пътуване с кола ви отвежда до Къща-музей „Станке Димитров“ — перфектен завършек за запознаване с местната история."
+        "bg": "Вашият ден с кола в Дупница е разделен на два клъстера. Започнете, като паркирате в центъра, за да разгледате Историческия музей, Часовниковата кула и художествената галерия пеша. Сутринта ще почувствате градската култура отблизо. След връщане при колата, карайте до Рилски парк. Там можете да обядвате и да се насладите на дълга разходка. Кратко последно пътуване с колата ви води до Къща-музей Станке Димитров — перфектен завършек за оценяване на местната история."
       },
       "gastro_picks": {
         "de": [
@@ -1650,8 +1650,8 @@
           "Plan for extra time for traffic, especially in the afternoon."
         ],
         "bg": [
-          "Проверете опциите за паркиране и таксите предварително.",
-          "GPS е полезен за навигация между групите.",
+          "Проверете възможностите за паркиране и таксите предварително.",
+          "GPS е полезен за ориентиране между клъстерите.",
           "Не оставяйте ценности в колата.",
           "Планирайте допълнително време за трафик, особено следобед."
         ]
@@ -1663,7 +1663,7 @@
             "hu": "Az autós túra esőben kínálja a legnagyobb kényelmet. Közvetlenül a Történeti Múzeumnál parkolunk, majd megnézzük az óratoronyt. Délben a galériához megyünk, az autó megvéd minket az esőtől. Délután a Rila-park kilátásait élvezzük a parkolóból vagy esernyővel. A nap kellemesen zárul a Stanke Dimitrov múzeumnál, anélkül, hogy eláznánk.",
             "ro": "Turul cu mașina pe ploaie oferă cel mai mare confort. Parcăm direct la Muzeul de Istorie și vizităm Turnul cu Ceas. La prânz mergem la galerie, mașina ținându-ne la uscat. După-amiaza admirăm Parcul Rila din parcare sau sub umbrelă. Ziua se încheie plăcut la muzeul Stanke Dimitrov, fără să ne udăm.",
             "en": "The car tour in rain provides maximum comfort. We park right by the History Museum and then visit the Clock Tower. At noon, we head to the gallery, staying dry in the vehicle. In the afternoon, we enjoy Rila Park views from the parking lot or under an umbrella. The day ends nicely at the Stanke Dimitrov Museum without getting soaked.",
-            "bg": "Край на автомобилната обиколка при дъжд осигурява максимален комфорт. Паркираме до Историческия музей и после посещаваме Часовниковата кула. По обяд се отправяме към галерията, оставайки сухи в автомобила. Следобедът се наслаждаваме на гледките към Рилския парк от паркинга или под чадър. Денят завършва приятно в Къща-музей „Станке Димитров“ без да се намокрите."
+            "bg": "Колото пътуване с автомобил при дъжд предоставя максимален комфорт. Паркираме точно до Историческия музей и след това посещаваме Часовниковата кула. В обедните часове се отправяме към галерията, като оставаме сухи в автомобила. Следобед се наслаждаваме на гледките към Рилския парк от паркинга или под чадър. Денят завършва приятно в Къща-музей Станке Димитров, без да се намокрим."
           },
           "stops": [
             {
@@ -1673,7 +1673,7 @@
                 "hu": "Rövid út a bejáratig, legyen kéznél esernyő.",
                 "ro": "Drum scurt până la intrare, pregătiți umbrela.",
                 "en": "Short walk to the entrance, have umbrella ready.",
-                "bg": "Кратка разходка до входа — имайте готов чадър."
+                "bg": "Кратка разходка до входа, дръжте чадър под ръка."
               }
             },
             {
@@ -1683,7 +1683,7 @@
                 "hu": "Ideális hely egy hosszú esőszünethez.",
                 "ro": "Loc ideal pentru o pauză lungă de ploaie.",
                 "en": "Ideal place for a long rain break.",
-                "bg": "Идеално място за дълга пауза при дъжд."
+                "bg": "Идеално място за дълга почивка от дъжда."
               }
             },
             {
@@ -1693,7 +1693,7 @@
                 "hu": "Parkoljon le rövid időre az út szélén egy fotóért.",
                 "ro": "Parcați scurt pe marginea drumului pentru o poză.",
                 "en": "Park briefly at the roadside for a photo.",
-                "bg": "Паркирайте кратко край пътя за снимка."
+                "bg": "Паркирайте за кратко на пътното платно за снимка."
               }
             },
             {
@@ -1703,7 +1703,7 @@
                 "hu": "Használja a közeli parkolóhelyeket.",
                 "ro": "Folosiți locurile de parcare din apropiere.",
                 "en": "Use parking spaces located nearby.",
-                "bg": "Използвайте паркоместа, намиращи се наблизо."
+                "bg": "Използвайте паркоместата разположени наблизо."
               }
             },
             {
@@ -1713,7 +1713,7 @@
                 "hu": "Vigyázzon a mély tócsákra a parkolóban.",
                 "ro": "Atenție la bălțile adânci din parcare.",
                 "en": "Watch out for deep puddles in the lot.",
-                "bg": "Внимавайте за дълбоки локви на паркинга."
+                "bg": "Внимавайте за дълбоки локви в паркинга."
               }
             },
             {
@@ -1723,7 +1723,7 @@
                 "hu": "Élvezze a zöldet a járműből.",
                 "ro": "Bucurați-vă de verdeață din mașină.",
                 "en": "Enjoy the greenery from inside the vehicle.",
-                "bg": "Насладете се на зеленината от вътрешността на автомобила."
+                "bg": "Насладете се на зеленина от вътрешността на автомобила."
               }
             },
             {
@@ -1733,7 +1733,7 @@
                 "hu": "A kulturális kirándulás száraz befejezése.",
                 "ro": "Final uscat al excursiei culturale.",
                 "en": "Dry conclusion to the cultural trip.",
-                "bg": "Сух завършек на културното пътуване."
+                "bg": "Сух завършек на културната разходка."
               }
             }
           ],
@@ -1763,10 +1763,10 @@
               "Watch out for aquaplaning on main roads."
             ],
             "bg": [
-              "Проверете чистачките на предното стъкло.",
+              "Проверете си чистачките на предното стъкло.",
               "Отделете повече време за градския трафик.",
-              "Дръжте чадър готов в колата.",
-              "Внимавайте за аквапланинг по главните пътища."
+              "Дръжте чадър под ръка в колата.",
+              "Внимавайте за аквапланинг по основните пътища."
             ]
           }
         },
@@ -1776,7 +1776,7 @@
             "hu": "A téli autós túra megvéd a dupnicai hidegtől. A múzeum parkolójánál kezdünk, majd megnézzük az óratoronyt. Délben a fűtött galériát látogatjuk meg. A délután a Rila-parkba vezet, ahol az autó kényelméből csodálhatjuk a havas tájat. A befejezés a Stanke Dimitrov múzeum, mielőtt feltekernénk a fűtést a hazaúthoz.",
             "ro": "Turul cu mașina iarna protejează de gerul din Dupnița. Începem la parcarea muzeului și vizităm Turnul cu Ceas. La prânz vizităm galeria de artă încălzită. După-amiaza ne duce la Parcul Rila, unde admirăm peisajul înzăpezit din confortul mașinii. Încheiem la muzeul Stanke Dimitrov înainte de a porni căldura pentru drumul spre casă.",
             "en": "The winter car tour protects from the cold in Dupnitsa. We start at the museum parking lot and see the Clock Tower. At noon, we visit the heated art gallery. Afternoon takes us to Rila Park, where we admire the snowy landscape from the comfort of the car. We finish at the Stanke Dimitrov Museum before turning up the heat for the drive home.",
-            "bg": "Зимната автомобилна обиколка предпазва от студа в Дупница. Започваме от паркинга на музея и виждаме Часовниковата кула. По обяд посещаваме отоплената художествена галерия. Следобедът ни отвежда до Рилски парк, където се възхищаваме на заснежения пейзаж в уюта на колата. Завършваме в Къща-музей „Станке Димитров“ преди да включим отоплението за връщане у дома."
+            "bg": "Зимното пътуване с кола ви предпазва от студа в Дупница. Започваме от паркинга на музея и виждаме Часовниковата кула. В обедните часове посещаваме отоплената художествена галерия. Следобедните маршрути ни водят до Рилския парк, където от уюта на колата се наслаждаваме на заснежения пейзаж. Приключваме в Къща-музей Станке Димитров, преди да вдигнем температурата за пътуването към дома."
           },
           "stops": [
             {
@@ -1786,7 +1786,7 @@
                 "hu": "Vigyázzon a hóra a parkolóban.",
                 "ro": "Atenție la zăpada din parcare.",
                 "en": "Watch out for snow in the parking lot.",
-                "bg": "Внимавайте за сняг на паркинга."
+                "bg": "Внимавайте за сняг в паркинга."
               }
             },
             {
@@ -1796,7 +1796,7 @@
                 "hu": "Tökéletes hely a felmelegedéshez.",
                 "ro": "Loc perfect pentru încălzire.",
                 "en": "Perfect place for warming up.",
-                "bg": "Перфектно място за стопляне."
+                "bg": "Перфектно място за затопляне."
               }
             },
             {
@@ -1806,7 +1806,7 @@
                 "hu": "Az ablakok gyorsan bepárásodhatnak.",
                 "ro": "Geamurile se pot aburi rapid.",
                 "en": "Windows can fog up quickly.",
-                "bg": "Прозорците могат да се замъглят бързо."
+                "bg": "Стъклата на колата могат бързо да се запотят."
               }
             },
             {
@@ -1826,7 +1826,7 @@
                 "hu": "Csak a letakarított részeket használja parkolásra.",
                 "ro": "Folosiți doar zonele deszăpezite pentru parcare.",
                 "en": "Use only cleared areas for parking.",
-                "bg": "Паркирайте само на почистени площи."
+                "bg": "Паркирайте само на разчистени пространства."
               }
             },
             {
@@ -1836,7 +1836,7 @@
                 "hu": "Szép fotótémák közvetlenül az autóból.",
                 "ro": "Subiecte frumoase de poze direct din mașină.",
                 "en": "Beautiful photo opportunities right from the car.",
-                "bg": "Красиви фото възможности направо от колата."
+                "bg": "Красиви възможности за снимки направо от колата."
               }
             },
             {
@@ -1876,10 +1876,10 @@
               "Keep an ice scraper handy."
             ],
             "bg": [
-              "Зимни гуми са задължителни в България.",
+              "Зимните гуми са задължителни в България.",
               "Проверете антифриза в течността за чистачки.",
-              "Шофирайте внимателно по страничните пътища.",
-              "Дръжте стъргалка за лед подръка."
+              "Шофирайте внимателно по второстепенни пътища.",
+              "Дръжте скрежорез под ръка."
             ]
           }
         }
@@ -1968,7 +1968,7 @@
             "hu": "Sétáljon el az Óratoronyhoz, és élvezze a városközpont hangulatát.",
             "ro": "Plimbați-vă până la Turnul cu Ceas și bucurați-vă de atmosfera din centrul orașului.",
             "en": "Stroll to the Clock Tower and enjoy the city center atmosphere.",
-            "bg": "Разходете се до Часовниковата кула и се насладете на атмосферата в центъра."
+            "bg": "Разходете се до Часовниковата кула и се насладете на атмосферата в центъра на града."
           }
         },
         {
@@ -2046,7 +2046,7 @@
             "hu": "Festői séta a parktól a hídig a nap lezárásaként.",
             "ro": "O plimbare pitorească de la parc la pod pentru a încheia ziua.",
             "en": "A scenic walk from the park to the bridge to end the day.",
-            "bg": "Живописна разходка от парка до моста, за да завършите деня."
+            "bg": "Живописна разходка от парка до моста за финал на деня."
           }
         }
       ],
@@ -2055,7 +2055,7 @@
         "hu": "A tömegközlekedéssel két részletben fedezi fel Dupnicát. A reggel a városközpontban kezdődik, ahol a művészeti galériát, az óratornyot és az emlékművet kényelmesen, gyalog érheti el. Élvezze a városi hangulatot, mielőtt buszra szállna. A délután a Rila Parké. Egy buszozás után itt pihenhet, ebédelhet, és a nap végén tehet egy sétát a festői Bisztrica-hídhoz.",
         "ro": "Folosind transportul public, explorați Dupnița în două părți. Dimineața începe în centrul orașului, unde puteți ajunge cu ușurință pe jos la galeria de artă, turnul cu ceas și monument. Bucurați-vă de atmosfera urbană înainte de a lua un autobuz. După-amiaza este dedicată Parcului Rila. După o călătorie cu autobuzul, vă puteți relaxa aici, puteți lua prânzul și, la final, puteți face o plimbare până la pitorescul pod Bistrița.",
         "en": "Using public transport, you'll explore Dupnitsa in two parts. The morning starts in the city center, where you can easily reach the art gallery, clock tower, and monument on foot. Enjoy the urban atmosphere before taking a bus. The afternoon belongs to Rila Park. After a bus ride, you can relax here, have lunch, and finally take a walk to the picturesque Bistritsa bridge.",
-        "bg": "С обществен транспорт ще разгледате Дупница на две части. Сутринта започва в центъра, където лесно можете пеша да достигнете галерията, часовниковата кула и паметника. Насладете се на градската атмосфера преди да хванете автобус. Следобедът е за Рилския парк. След пътуване с автобус можете да се отпуснете там, да обядвате и накрая да се разходите до живописния мост над Бистрица."
+        "bg": "С обществен транспорт ще разгледате Дупница на две части. Сутринта започва в центъра, където галерията, часовниковата кула и паметникът са лесно достъпни пеша. Насладете се на градската атмосфера преди да хванете автобус. Следобедът принадлежи на Рилския парк. След пътуване с автобус можете да се отпуснете там, да обядвате и накрая да се разходите до живописния мост над Бистрица."
       },
       "gastro_picks": {
         "de": [
@@ -2217,10 +2217,10 @@
           "Ask locals for the right bus line, they are often helpful."
         ],
         "bg": [
-          "Купете дневна карта за неограничени пътувания.",
+          "Купете дневен билет за неограничени пътувания.",
           "Проверете разписанието на автобусите предварително, особено за последното връщане.",
-          "Дръжте дребни пари за билети, ако купувате от будка.",
-          "Попитайте местните за правилния автобус — често са полезни."
+          "Носете дребни пари за билети, ако купувате от будка.",
+          "Питайте местните за правилната автобусна линия, често са отзивчиви."
         ]
       },
       "variants": {
@@ -2230,7 +2230,7 @@
             "hu": "Busszal fedezzük fel Dupnicát esőbiztos módon. A központi megállótól gyorsan elérjük a galériát. Az óratoronyt és az emlékművet a záporok között látogatjuk meg. Délben a Rila-park nyújt frissülést, miközben a Bistritsa-hídnál érezzük a víz erejét. A buszok száraz pihenőt kínálnak a városon keresztüli utazás során.",
             "ro": "Explorăm Dupnița cu autobuzul, protejați de ploaie. Din stația centrală ajungem rapid la galerie. Vizităm turnul și monumentul între reprizele de ploaie. La prânz, Parcul Rila oferă prospețime, în timp ce la podul peste Bistrița simțim forța apei. Autobuzele oferă pauze uscate în timpul călătoriei prin oraș.",
             "en": "We explore Dupnitsa by bus in a rain-proof way. From the central stop, we quickly reach the gallery. We visit the tower and monument between showers. At noon, Rila Park offers freshness, while at the Bistritsa bridge, we feel the power of the water. Buses provide dry breaks during the journey through town.",
-            "bg": "Разглеждаме Дупница с автобус защитено от дъжд. От централната спирка бързо стигаме до галерията. Посещаваме кулата и паметника между преваляванията. По обяд Рилският парк предлага свежест, а на моста над Бистрица усещаме силата на водата. Автобусите осигуряват сухи паузи по време на пътуването из града."
+            "bg": "Разглеждаме Дупница с автобус, защитени от дъжда. От централната спирка бързо достигаме галерията. Посещаваме кулата и паметника между преваляванията. По обяд Рилският парк предлага свежест, а на моста над Бистрица усещаме силата на водата. Автобусите осигуряват сухи паузи по време на обиколката из града."
           },
           "stops": [
             {
@@ -2250,7 +2250,7 @@
                 "hu": "Rövid séta a megállótól.",
                 "ro": "Scurtă plimbare de la stație.",
                 "en": "Short walk from the bus stop.",
-                "bg": "Кратка разходка от спирката."
+                "bg": "Кратка разходка от автогарата."
               }
             },
             {
@@ -2260,7 +2260,7 @@
                 "hu": "Készítse elő az esernyőt leszálláskor.",
                 "ro": "Pregătiți umbrela la coborâre.",
                 "en": "Have your umbrella ready when getting off.",
-                "bg": "Дръжте чадъра си готов при слизане."
+                "bg": "Дръжте чадъра готов при слизане."
               }
             },
             {
@@ -2280,7 +2280,7 @@
                 "hu": "A buszok rendszeresen járnak vissza a központba.",
                 "ro": "Autobuzele circulă regulat spre centru.",
                 "en": "Buses run regularly back to the center.",
-                "bg": "Автобусите редовно пътуват обратно към центъра."
+                "bg": "Автобусите редовно връщат към центъра."
               }
             },
             {
@@ -2290,7 +2290,7 @@
                 "hu": "A megálló közelében a gyors átszálláshoz.",
                 "ro": "Lângă stație pentru un transfer rapid.",
                 "en": "Near the stop for a quick transfer.",
-                "bg": "Близо до спирката за бързо прекачване."
+                "bg": "Близо до спирката за бърза връзка."
               }
             }
           ],
@@ -2320,10 +2320,10 @@
               "Buses might be more crowded during rain."
             ],
             "bg": [
-              "Свалете местното приложение за градския транспорт.",
-              "Подгответе дребни пари за билети.",
-              "Избягвайте да чакате на открито.",
-              "Автобусите могат да бъдат по-претъпкани при дъжд."
+              "Свалете местното приложение за транспорт.",
+              "Имайте готови дребни за билети.",
+              "Избягвайте чакане на открито.",
+              "Автобусите може да са по-претъпкани при дъжд."
             ]
           }
         },
@@ -2333,7 +2333,7 @@
             "hu": "A téli tömegközlekedési túra a legmelegebb opció saját autó nélkül. A központi buszmegállótól indulunk, és a galéria felé vesszük az irányt. Délben élvezzük a téli hangulatot a Rila-parkban, mielőtt a buszon újra felmelegednénk. A túra a Bistritsa-hídnál zárul, ahonnan kényelmesen visszatérhetünk a fűtött szállásra.",
             "ro": "Turul cu transportul public iarna este cea mai caldă opțiune fără mașină proprie. Pornim de la stația centrală spre punctele culturale precum galeria. La prânz admirăm atmosfera de iarnă în Parcul Rila înainte de a ne încălzi în autobuz. Turul se încheie la podul peste Bistrița, de unde ne întoarcem spre cazarea încălzită.",
             "en": "The winter transit tour is the warmest option without a private car. We start at the central bus stop and head to cultural highlights like the gallery. At noon, we enjoy the winter vibe in Rila Park before warming up on the bus again. The tour ends at the Bistritsa bridge, from where we easily return to heated accommodation.",
-            "bg": "Зимен тур с градския транспорт е най-топлата опция без личен автомобил. Започваме от централната автогара и се отправяме към културни забележителности като галерията. По обяд се наслаждаваме на зимната атмосфера в Рилския парк, преди отново да се стоплим в автобуса. Турът завършва на моста над Бистрица, откъдето лесно се връщаме в отоплено настаняване."
+            "bg": "Зимната обиколка с обществен транспорт е най-топлият вариант без собствен автомобил. Започваме на централната автогара и се насочваме към културни забележителности като галерията. По обяд се насладете на зимната атмосфера в Рилския парк, преди пак да се стоплите в автобуса. Турът завършва на моста над Бистрица, от където лесно се връщате до отоплено място за нощувка."
           },
           "stops": [
             {
@@ -2353,7 +2353,7 @@
                 "hu": "Tökéletes hely a hideg elől való menekülésre.",
                 "ro": "Loc perfect pentru a scăpa de frig.",
                 "en": "Perfect place to escape the cold.",
-                "bg": "Перфектно място за бягство от студа."
+                "bg": "Перфектно място да избягате от студа."
               }
             },
             {
@@ -2373,7 +2373,7 @@
                 "hu": "Gyors látogatás a következő busz előtt.",
                 "ro": "Vizită rapidă înainte de următorul autobuz.",
                 "en": "Quick visit before the next bus arrives.",
-                "bg": "Бързо посещение преди да пристигне следващият автобус."
+                "bg": "Бързо посещение преди пристигане на следващия автобус."
               }
             },
             {
@@ -2383,7 +2383,7 @@
                 "hu": "Meleg ruházat a szabadban tartózkodáshoz.",
                 "ro": "Haine groase pentru timpul petrecut afară.",
                 "en": "Warm clothing for the time spent outdoors.",
-                "bg": "Топли дрехи за времето на открито."
+                "bg": "Топло облекло за времето навън."
               }
             },
             {
@@ -2393,7 +2393,7 @@
                 "hu": "Utolsó megálló a meleg buszos hazaút előtt.",
                 "ro": "Ultima oprire înainte de drumul spre casă cu autobuzul.",
                 "en": "Last stop before heading home in a warm bus.",
-                "bg": "Последна спирка преди да се приберете в топъл автобус."
+                "bg": "Последна спирка преди да се отправите към топъл автобус за вкъщи."
               }
             }
           ],
@@ -2423,10 +2423,10 @@
               "Wear non-slip shoes for transfers."
             ],
             "bg": [
-              "Автобусите може да закъснеят при снеговалеж.",
-              "Разписанията често се коригират през зимата.",
-              "Използвайте времето в пътуване, за да се стоплите.",
-              "Носете обувки с добро сцепление при прекачвания."
+              "Автобусите могат да се забавят по време на снеговалеж.",
+              "Разписанията често се нагласят през зимата.",
+              "Използвайте времето за пътуване, за да се стоплите.",
+              "Носете обувки против хлъзгане за прекачванията."
             ]
           }
         }
