@@ -21,7 +21,8 @@
             "de": "Uhrturm von Rasgrad",
             "hu": "Razgradi óratorony",
             "ro": "Turnul cu ceas din Razgrad",
-            "en": "Clock Tower of Razgrad"
+            "en": "Clock Tower of Razgrad",
+            "bg": "Часовниковата кула в Разград"
           },
           "coords": [
             26.5255,
@@ -39,7 +40,8 @@
             "de": "Ibrahim-Pascha-Moschee",
             "hu": "Ibrahim pasa mecset",
             "ro": "Moscheea Ibrahim Pașa",
-            "en": "Ibrahim Pasha Mosque"
+            "en": "Ibrahim Pasha Mosque",
+            "bg": "Джамия Ибрахим паша"
           },
           "coords": [
             26.5248,
@@ -57,7 +59,8 @@
             "de": "Historisches Museum",
             "hu": "Történeti Múzeum",
             "ro": "Muzeul de Istorie",
-            "en": "Historical Museum"
+            "en": "Historical Museum",
+            "bg": "Исторически музей"
           },
           "coords": [
             26.527,
@@ -75,7 +78,8 @@
             "de": "Kunstgalerie Ilija Petrow",
             "hu": "Ilija Petrov Képtár",
             "ro": "Galeria de Artă Iliya Petrov",
-            "en": "Art Gallery Iliya Petrov"
+            "en": "Art Gallery Iliya Petrov",
+            "bg": "Художествена галерия 'Илия Петров'"
           },
           "coords": [
             26.528,
@@ -93,7 +97,8 @@
             "de": "Archäologisches Reservat Abritus",
             "hu": "Abritus Régészeti Rezervátum",
             "ro": "Rezervația arheologică Abritus",
-            "en": "Archaeological Reserve Abritus"
+            "en": "Archaeological Reserve Abritus",
+            "bg": "Археологически резерват 'Абритус'"
           },
           "coords": [
             26.545,
@@ -111,7 +116,8 @@
             "de": "Kirche St. Nikolaus",
             "hu": "Szent Miklós-templom",
             "ro": "Biserica Sfântul Nicolae",
-            "en": "Church of St. Nicholas"
+            "en": "Church of St. Nicholas",
+            "bg": "Църква 'Св. Николай'"
           },
           "coords": [
             26.529,
@@ -129,7 +135,8 @@
         "de": "Ihr Tag in Rasgrad beginnt im historischen Herzen mit dem Uhrturm und der beeindruckenden Ibrahim-Pascha-Moschee. Am Vormittag tauchen Sie im Historischen Museum und der Kunstgalerie in die reiche Kultur der Region ein. Nach einem Spaziergang zum weitläufigen Archäologischen Reservat Abritus verbringen Sie den Nachmittag damit, die antiken römischen Ruinen zu erkunden. Der Abend klingt bei einem Besuch der orthodoxen St.-Nikolaus-Kirche aus, bevor Sie die lokale Küche genießen.",
         "hu": "A nap Razgrad történelmi szívében kezdődik az óratoronynál és a lenyűgöző Ibrahim pasa mecsetnél. Délelőtt a Történeti Múzeumban és a Képtárban merül el a régió gazdag kultúrájában. Egy séta után a tágas Abritus Régészeti Rezervátumhoz, a délutánt az ókori római romok felfedezésével tölti. Az estét a Szent Miklós ortodox templom meglátogatásával zárja, mielőtt megkóstolná a helyi konyhát.",
         "ro": "Ziua dvs. în Razgrad începe în inima istorică cu Turnul cu Ceas și impresionanta Moschee Ibrahim Pașa. Dimineața vă scufundați în cultura bogată a regiunii la Muzeul de Istorie și Galeria de Artă. După o plimbare spre vasta Rezervație Arheologică Abritus, petreceți după-amiaza explorând ruinele romane antice. Seara se încheie cu o vizită la Biserica Ortodoxă Sfântul Nicolae înainte de a savura bucătăria locală.",
-        "en": "Your day in Razgrad begins in the historic heart with the Clock Tower and the impressive Ibrahim Pasha Mosque. In the morning, you'll delve into the region's rich culture at the Historical Museum and Art Gallery. After a walk to the expansive Abritus Archaeological Reserve, you'll spend the afternoon exploring the ancient Roman ruins. The evening concludes with a visit to the St. Nicholas Orthodox Church before you enjoy the local cuisine."
+        "en": "Your day in Razgrad begins in the historic heart with the Clock Tower and the impressive Ibrahim Pasha Mosque. In the morning, you'll delve into the region's rich culture at the Historical Museum and Art Gallery. After a walk to the expansive Abritus Archaeological Reserve, you'll spend the afternoon exploring the ancient Roman ruins. The evening concludes with a visit to the St. Nicholas Orthodox Church before you enjoy the local cuisine.",
+        "bg": "Денят ви в Разград започва в историческото ядро с Часовниковата кула и впечатляващата Джамия Ибрахим паша. Сутринта ще се потопите в богатата култура на региона в Историческия музей и Художествената галерия. След разходка до обширния археологически резерват Абритус, следобед ще прекарате в разглеждане на древните римски руини. Вечерта завършва с посещение на православната църква 'Св. Николай', преди да се насладите на местната кухня."
       },
       "gastro_picks": {
         "de": [
@@ -325,6 +332,12 @@
           "Most sights in the city center are close to each other.",
           "Allow plenty of time for the Abritus Reserve, it's larger than it looks.",
           "Check the opening hours of the museums, especially outside of the main season."
+        ],
+        "bg": [
+          "Носете удобни обувки, защото ще вървите много.",
+          "Повечето забележителности в центъра са близо една до друга.",
+          "Отделете достатъчно време за резерват Абритус, по-голям е, отколкото изглежда.",
+          "Проверете работното време на музеите, особено извън основния сезон."
         ]
       },
       "variants": {
@@ -333,7 +346,8 @@
             "de": "Der Morgen beginnt am Uhrturm, wo der Regen die Steine glänzen lässt. In der nahen Ibrahim-Pascha-Moschee finden wir ersten Schutz. Mittags ziehen wir uns in das Historische Museum zurück, um trocken zu bleiben. Nachmittags führt der Weg nach Abritus; die Ruinen wirken im Nebel mystisch, erfordern aber Vorsicht. Der Tag endet ruhig an der St.-Nikolaus-Kirche, bevor es ins Warme geht.",
             "hu": "Az esős reggel az óratoronynál indul, de a közeli mecset gyors menedéket nyújt. Délben a helytörténeti múzeum tárlatai között maradunk szárazon. Délután Abritus romjai következnek, ahol a ködös idő különleges hangulatot áraszt a romok felett. A napot a Szent Miklós-templom csendjében zárjuk, majd keressünk egy hangulatos helyi éttermet a belvárosban.",
             "ro": "Dimineața începe la Turnul cu Ceas, unde ploaia face pietrele să strălucească. În apropiere, Moscheea Ibrahim Pașa oferă un prim adăpost. La prânz, ne retragem la Muzeul de Istorie pentru a rămâne uscați. După-amiaza mergem la Abritus; ruinele par mistice în ceață, dar necesită prudență pe drum. Ziua se încheie liniștit la Biserica Sf. Nicolae, înainte de a căuta un loc călduros.",
-            "en": "The morning starts at the Clock Tower, where rain makes the stones glisten. Nearby, the Ibrahim Pasha Mosque offers early shelter. At noon, we retreat to the Historical Museum to stay dry while exploring. In the afternoon, we head to Abritus; the ruins look mystical in the mist but require careful footing. The day ends peacefully at St. Nicholas Church before finding a cozy indoor spot."
+            "en": "The morning starts at the Clock Tower, where rain makes the stones glisten. Nearby, the Ibrahim Pasha Mosque offers early shelter. At noon, we retreat to the Historical Museum to stay dry while exploring. In the afternoon, we head to Abritus; the ruins look mystical in the mist but require careful footing. The day ends peacefully at St. Nicholas Church before finding a cozy indoor spot.",
+            "bg": "Сутринта започва при Часовниковата кула, където дъждът кара камъните да блестят. Наблизо Джамия Ибрахим паша предлага ранно убежище. В обедните часове се оттегляме в Историческия музей, за да останем сухи и да разгледаме. Следобед се отправяме към Абритус; руините изглеждат мистично в мъглата, но изискват внимателна стъпка. Денят завършва спокойно в църквата 'Св. Николай', преди да намерим уютно вътрешно място."
           },
           "stops": [
             {
@@ -342,7 +356,8 @@
                 "de": "Kurzes Foto unter dem Schirm, dann schnell weiter.",
                 "hu": "Gyors fotó az esernyő alól, majd irány a fedett rész.",
                 "ro": "O poză rapidă sub umbrelă, apoi continuați drumul.",
-                "en": "A quick photo under the umbrella, then move on quickly."
+                "en": "A quick photo under the umbrella, then move on quickly.",
+                "bg": "Бърза снимка под чадъра и после продължете бързо."
               }
             },
             {
@@ -351,7 +366,8 @@
                 "de": "Bewundern Sie die Details der Fassade vom Portal aus.",
                 "hu": "Csodáld meg a homlokzat részleteit a bejárat alól.",
                 "ro": "Admirați detaliile fațadei de la adăpostul porții.",
-                "en": "Admire the facade details from the shelter of the portal."
+                "en": "Admire the facade details from the shelter of the portal.",
+                "bg": "Възхищавайте се на фасадните детайли от приюта на портала."
               }
             },
             {
@@ -360,7 +376,8 @@
                 "de": "Der ideale Ort, um einen starken Schauer abzuwarten.",
                 "hu": "Ideális helyszín egy nagyobb zápor átvészelésére.",
                 "ro": "Locul ideal pentru a aștepta trecerea unei averse.",
-                "en": "The ideal spot to wait out a heavy rain shower."
+                "en": "The ideal spot to wait out a heavy rain shower.",
+                "bg": "Идеалното място да изчакате силния дъжд."
               }
             },
             {
@@ -369,7 +386,8 @@
                 "de": "Genießen Sie die Kunst, während es draußen regnet.",
                 "hu": "Élvezd a művészetet, miközben kint esik az eső.",
                 "ro": "Bucurați-vă de artă în timp ce afară plouă.",
-                "en": "Enjoy the art while it rains outside."
+                "en": "Enjoy the art while it rains outside.",
+                "bg": "Насладете се на изкуството, докато навън вали."
               }
             },
             {
@@ -378,7 +396,8 @@
                 "de": "Vorsicht auf den rutschigen antiken Steinpflastern.",
                 "hu": "Vigyázz a csúszós antik kőburkolatokon.",
                 "ro": "Atenție la pavajele antice din piatră, sunt alunecoase.",
-                "en": "Be careful on the slippery ancient stone pavements."
+                "en": "Be careful on the slippery ancient stone pavements.",
+                "bg": "Внимавайте по хлъзгавите древни каменни настилки."
               }
             },
             {
@@ -387,7 +406,8 @@
                 "de": "Ein ruhiger, trockener Abschluss für den Rundgang.",
                 "hu": "Csendes, száraz lezárása a városi sétának.",
                 "ro": "Un final de tur liniștit și uscat în interior.",
-                "en": "A peaceful, dry conclusion to your city walk."
+                "en": "A peaceful, dry conclusion to your city walk.",
+                "bg": "Спокоен, сух завършек на вашата градска разходка."
               }
             }
           ],
@@ -415,6 +435,12 @@
               "Central museums are close to each other, ideal for rainy days.",
               "A compact umbrella is more practical in Razgrad's wind.",
               "Use the cafes near the museum for dry rest breaks."
+            ],
+            "bg": [
+              "Носете водоустойчиви обувки за разходката до резерват Абритус.",
+              "Централните музеи са близо един до друг — идеални за дъждовни дни.",
+              "Компактен чадър е по-практичен при вятъра в Разград.",
+              "Използвайте кафенетата около музея за сухи почивки."
             ]
           }
         },
@@ -423,7 +449,8 @@
             "de": "Ein frostiger Morgen am Uhrturm leitet den Tag ein. Die klare Winterluft lässt die Moschee majestätisch wirken. Mittags wärmen wir uns im Historischen Museum auf und bewundern die Schätze. Der Nachmittag in Abritus ist kurz, da die Sonne früh sinkt; der Reif auf den Steinen bietet tolle Motive. Der Tag endet bei einsetzender Dunkelheit an der stimmungsvoll beleuchteten Kirche.",
             "hu": "Deres reggel fogad az óratoronynál, a hideg levegőben élesen kirajzolódik a mecset sziluettje. Délben a helytörténeti múzeum fűtött termeiben melegszünk fel a kiállítások közt. Délután Abritus romjai következnek, ahol a korai naplemente különleges fényeket fest a kövekre. A nap végén a kivilágított Szent Miklós-templom látványa melengeti meg a szívünket a hideg szélben.",
             "ro": "O dimineață geroasă la Turnul cu Ceas dă startul zilei. Aerul clar de iarnă face moscheea să pară maiestuoasă. La prânz ne încălzim în sălile Muzeului de Istorie, admirând comorile. După-amiaza la Abritus este scurtă, soarele apunând devreme; chiciura pe pietre oferă cadre foto superbe. Ziua se încheie la lăsarea întunericului, lângă biserica iluminată feeric.",
-            "en": "A frosty morning at the Clock Tower starts the day. The crisp winter air makes the mosque look majestic against the sky. At noon, we warm up inside the Historical Museum while admiring its treasures. Afternoon at Abritus is short as the sun sets early, but the frost on the ruins is beautiful. The day ends as darkness falls near the atmospherically lit church."
+            "en": "A frosty morning at the Clock Tower starts the day. The crisp winter air makes the mosque look majestic against the sky. At noon, we warm up inside the Historical Museum while admiring its treasures. Afternoon at Abritus is short as the sun sets early, but the frost on the ruins is beautiful. The day ends as darkness falls near the atmospherically lit church.",
+            "bg": "Мразовито утро при Часовниковата кула започва деня. Хрупкавият зимен въздух прави джамията величествена на фона на небето. На обяд се топлим вътре в Историческия музей, докато се възхищаваме на съкровищата му. Следобедът в Абритус е кратък, тъй като слънцето залязва рано, но скрежът върху руините е красив. Денят завършва с настъпването на тъмнината край атмосферно осветената църква."
           },
           "stops": [
             {
@@ -432,7 +459,8 @@
                 "de": "Genießen Sie den Anblick in der klaren Morgenluft.",
                 "hu": "Élvezd a látványt a friss, tiszta reggeli levegőben.",
                 "ro": "Bucurați-vă de priveliște în aerul clar al dimineții.",
-                "en": "Enjoy the sight in the clear morning air."
+                "en": "Enjoy the sight in the clear morning air.",
+                "bg": "Насладете се на гледката в чистия сутрешен въздух."
               }
             },
             {
@@ -441,7 +469,8 @@
                 "de": "Ein kurzes Innehalten vor der beeindruckenden Fassade.",
                 "hu": "Egy rövid megálló a lenyűgöző homlokzat előtt.",
                 "ro": "O scurtă oprire în fața fațadei impresionante.",
-                "en": "A short pause in front of the impressive facade."
+                "en": "A short pause in front of the impressive facade.",
+                "bg": "Кратка пауза пред внушителната фасада."
               }
             },
             {
@@ -450,7 +479,8 @@
                 "de": "Nutzen Sie den Museumsbesuch zum Aufwärmen.",
                 "hu": "Használd ki a múzeumi látogatást a felmelegedésre.",
                 "ro": "Folosiți vizita la muzeu pentru a vă încălzi.",
-                "en": "Use the museum visit to warm up properly."
+                "en": "Use the museum visit to warm up properly.",
+                "bg": "Използвайте посещението на музея, за да се стоплите добре."
               }
             },
             {
@@ -459,7 +489,8 @@
                 "de": "Warme Innenräume laden zum Verweilen bei Kunst ein.",
                 "hu": "A fűtött belső terek hívogatnak a művészet mellé.",
                 "ro": "Spațiile interioare calde vă invită la artă.",
-                "en": "Warm interiors invite you to linger over art."
+                "en": "Warm interiors invite you to linger over art.",
+                "bg": "Топлите интериори ви канят да останете по-дълго пред изкуството."
               }
             },
             {
@@ -468,7 +499,8 @@
                 "de": "Besuchen Sie die Außenanlagen vor 16 Uhr (Licht).",
                 "hu": "Látogasd meg a romokat 16 óra előtt a fények miatt.",
                 "ro": "Vizitați ruinele înainte de ora 16 pentru lumină.",
-                "en": "Visit the outdoor ruins before 4 PM for the light."
+                "en": "Visit the outdoor ruins before 4 PM for the light.",
+                "bg": "Посетете откритите руини преди 16:00 заради светлината."
               }
             },
             {
@@ -477,7 +509,8 @@
                 "de": "Ein stimmungsvoller Ort in der winterlichen Dämmerung.",
                 "hu": "Hangulatos helyszín a téli szürkületben.",
                 "ro": "Un loc plin de atmosferă în amurgul de iarnă.",
-                "en": "An atmospheric spot in the winter twilight."
+                "en": "An atmospheric spot in the winter twilight.",
+                "bg": "Атмосферно място в зимния полумрак."
               }
             }
           ],
@@ -505,6 +538,12 @@
               "The sun sets as early as 4:30 PM in December.",
               "Plan more time inside the heated museum halls.",
               "There are great spots for hot tea near the Clock Tower."
+            ],
+            "bg": [
+              "Топлото облекло е задължително за разходката до Абритус.",
+              "Слънцето залязва още в 16:30 през декември.",
+              "Планирайте повече време вътре в отоплените музейни зали.",
+              "Има страхотни места за горещ чай близо до Часовниковата кула."
             ]
           }
         }
@@ -523,7 +562,8 @@
             "de": "Uhrturm von Rasgrad",
             "hu": "Razgradi óratorony",
             "ro": "Turnul cu ceas din Razgrad",
-            "en": "Clock Tower of Razgrad"
+            "en": "Clock Tower of Razgrad",
+            "bg": "Часовникова кула — Разград"
           },
           "coords": [
             26.5255,
@@ -541,7 +581,8 @@
             "de": "Ibrahim-Pascha-Moschee",
             "hu": "Ibrahim pasa mecset",
             "ro": "Moscheea Ibrahim Pașa",
-            "en": "Ibrahim Pasha Mosque"
+            "en": "Ibrahim Pasha Mosque",
+            "bg": "Джамия Ибрахим паша"
           },
           "coords": [
             26.5248,
@@ -559,7 +600,8 @@
             "de": "Historisches Museum",
             "hu": "Történeti Múzeum",
             "ro": "Muzeul de Istorie",
-            "en": "Historical Museum"
+            "en": "Historical Museum",
+            "bg": "Исторически музей"
           },
           "coords": [
             26.527,
@@ -577,7 +619,8 @@
             "de": "Archäologisches Reservat Abritus",
             "hu": "Abritus Régészeti Rezervátum",
             "ro": "Rezervația arheologică Abritus",
-            "en": "Archaeological Reserve Abritus"
+            "en": "Archaeological Reserve Abritus",
+            "bg": "Археологически резерват Абритус"
           },
           "coords": [
             26.545,
@@ -595,7 +638,8 @@
             "de": "Interaktives Museum Abritus",
             "hu": "Abritus Interaktív Múzeum",
             "ro": "Muzeul Interactiv Abritus",
-            "en": "Interactive Museum Abritus"
+            "en": "Interactive Museum Abritus",
+            "bg": "Интерактивен музей Абритус"
           },
           "coords": [
             26.546,
@@ -613,7 +657,8 @@
             "de": "Pchelina-Waldpark",
             "hu": "Pchelina erdőpark",
             "ro": "Parcul Pădure Pchelina",
-            "en": "Pchelina Forest Park"
+            "en": "Pchelina Forest Park",
+            "bg": "Горски парк „Пчелина”"
           },
           "coords": [
             26.51,
@@ -631,7 +676,8 @@
             "de": "Kunstgalerie Ilija Petrow",
             "hu": "Ilija Petrov Képtár",
             "ro": "Galeria de Artă Iliya Petrov",
-            "en": "Art Gallery Iliya Petrov"
+            "en": "Art Gallery Iliya Petrov",
+            "bg": "Художествена галерия „Илия Петров”"
           },
           "coords": [
             26.528,
@@ -649,7 +695,8 @@
         "de": "Starten Sie Ihre Radtour am Uhrturm, dem Wahrzeichen von Rasgrad. Eine kurze Fahrt führt Sie zur Moschee und dem Historischen Museum. Am Vormittag radeln Sie zum Highlight des Tages, dem Archäologischen Reservat Abritus und seinem modernen interaktiven Museum, wo Sie in die römische Vergangenheit eintauchen. Am Nachmittag suchen Sie Erholung im Pchelina-Waldpark, ein idealer Ort für eine Pause im Grünen. Der Tag endet mit einem kulturellen Abschluss in der Kunstgalerie Ilija Petrow im Stadtzentrum.",
         "hu": "Kezdje a kerékpártúrát a razgradi óratoronynál, a város jelképénél. Egy rövid tekerés elvezeti a mecsethez és a Történeti Múzeumhoz. Délelőtt a nap fénypontjához, az Abritus Régészeti Rezervátumhoz és modern interaktív múzeumához biciklizik, ahol elmerülhet a római múltban. Délután a Pchelina erdőparkban keres felüdülést, amely ideális hely egy zöld pihenőre. A nap a belvárosi Ilija Petrov Képtárban kulturális programmal zárul.",
         "ro": "Începeți turul pe bicicletă la Turnul cu Ceas, simbolul orașului Razgrad. O scurtă plimbare vă duce la moschee și la Muzeul de Istorie. Dimineața, pedalați spre punctul culminant al zilei, Rezervația Arheologică Abritus și muzeul său interactiv modern, unde vă veți cufunda în trecutul roman. După-amiaza, căutați relaxare în Parcul Pădure Pchelina, un loc ideal pentru o pauză în natură. Ziua se încheie cu o notă culturală la Galeria de Artă Iliya Petrov din centrul orașului.",
-        "en": "Start your bike tour at the Clock Tower, Razgrad's landmark. A short ride takes you to the mosque and the Historical Museum. In the morning, you'll cycle to the day's highlight, the Abritus Archaeological Reserve and its modern interactive museum, where you'll immerse yourself in the Roman past. In the afternoon, seek relaxation in the Pchelina Forest Park, an ideal place for a green break. The day ends with a cultural finish at the Iliya Petrov Art Gallery in the city center."
+        "en": "Start your bike tour at the Clock Tower, Razgrad's landmark. A short ride takes you to the mosque and the Historical Museum. In the morning, you'll cycle to the day's highlight, the Abritus Archaeological Reserve and its modern interactive museum, where you'll immerse yourself in the Roman past. In the afternoon, seek relaxation in the Pchelina Forest Park, an ideal place for a green break. The day ends with a cultural finish at the Iliya Petrov Art Gallery in the city center.",
+        "bg": "Започнете велосипедната обиколка от Часовниковата кула — ориентирът на Разград. Кратко каране ви отвежда до джамията и Историческия музей. Сутрин ще се придвижите до акцента на деня — Археологическия резерват Абритус и неговия модерен интерактивен музей, където ще се потопите в римското минало. Следобед потърсете релакс в Горски парк Пчелина — идеално място за зелен отдих. Денят завършва с културен финал в Художествена галерия „Илия Петров” в центъра на града."
       },
       "gastro_picks": {
         "de": [
@@ -845,6 +892,12 @@
           "Always lock your bike securely, especially in busy places.",
           "Bring a water bottle and snacks for the longer stretches.",
           "Some paths in Pchelina Park are unpaved, so be prepared."
+        ],
+        "bg": [
+          "Разград е относително равнинен, но има някои наклони при изхода от града.",
+          "Винаги заключвайте велосипеда си сигурно, особено на натоварени места.",
+          "Вземете бутилка вода и снаксове за по-дългите отсечки.",
+          "Някои пътеки в парк Пчелина са неасфалтирани, така че бъдете подготвени."
         ]
       },
       "variants": {
@@ -853,7 +906,8 @@
             "de": "Trotz Regen starten wir am Uhrturm. Die Fahrt zur Moschee ist kurz, doch für den Weg zum Abritus-Reservat sind Schutzbleche ein Muss. Mittags erkunden wir die interaktiven Museen im Trockenen. Nachmittags geht es durch den Pchelina-Park, wo die Wege etwas schlammig sein können. Der Tag endet kulturell in der Kunstgalerie, während wir die nasse Ausrüstung trocknen.",
             "hu": "Az eső ellenére az óratoronynál kezdünk. A mecsetig rövid az út, de az Abritus felé már jól jön a sárvédő. Délben az interaktív múzeumban maradunk szárazon. Délután a Pchelina-park ösvényein tekerünk, ahol a sár miatt óvatosság kell. A napot a művészeti galériában zárjuk, miközben a felszerelésünk is megszárad egy kicsit.",
             "ro": "În ciuda ploii, pornim de la Turnul cu Ceas. Drumul spre moschee e scurt, dar spre Abritus apărătorile sunt obligatorii. La prânz, explorăm muzeele interactive la adăpost. După-amiaza pedalăm prin parcul Pchelina, unde potecile pot fi noroioase. Ziua se încheie cultural la galeria de artă, în timp ce echipamentul ud se mai usucă.",
-            "en": "Despite the rain, we start at the Clock Tower. The ride to the mosque is short, but mudguards are essential for Abritus. At noon, we explore the interactive museums while staying dry. In the afternoon, we cycle through Pchelina Park, where paths might be muddy. The day ends at the art gallery, allowing us and our gear to dry off a bit."
+            "en": "Despite the rain, we start at the Clock Tower. The ride to the mosque is short, but mudguards are essential for Abritus. At noon, we explore the interactive museums while staying dry. In the afternoon, we cycle through Pchelina Park, where paths might be muddy. The day ends at the art gallery, allowing us and our gear to dry off a bit.",
+            "bg": "Въпреки дъжда, започваме при Часовниковата кула. Карането до джамията е кратко, но калниците са задължителни за Абритус. На обяд разглеждаме интерактивните музеи, като оставаме сухи. Следобед караме през парк Пчелина, където пътеките може да са кални. Денят завършва в галерията, което позволява на нас и екипировката ни да изсъхнем малко."
           },
           "stops": [
             {
@@ -862,7 +916,8 @@
                 "de": "Vorsicht auf dem nassen Kopfsteinpflaster beim Start.",
                 "hu": "Vigyázz a vizes macskakövön az induláskor.",
                 "ro": "Atenție la pavajul umed la plecare.",
-                "en": "Watch out for wet cobblestones at the start."
+                "en": "Watch out for wet cobblestones at the start.",
+                "bg": "Внимавайте за влажни паважни камъни в началото."
               }
             },
             {
@@ -871,7 +926,8 @@
                 "de": "Kurzer Halt; das Fahrrad unter einem Vordach parken.",
                 "hu": "Rövid megálló; parkolj a bringával egy eresz alá.",
                 "ro": "Oprire scurtă; parcați bicicleta sub o streașină.",
-                "en": "Short stop; park your bike under an overhang."
+                "en": "Short stop; park your bike under an overhang.",
+                "bg": "Кратка спирка; паркирайте велосипеда под козирка."
               }
             },
             {
@@ -880,7 +936,8 @@
                 "de": "Sicherer Abstellplatz für nasse Räder suchen.",
                 "hu": "Keress biztonságos, védett helyet a vizes gépnek.",
                 "ro": "Căutați un loc sigur și ferit pentru bicicletă.",
-                "en": "Look for a safe, sheltered spot for your wet bike."
+                "en": "Look for a safe, sheltered spot for your wet bike.",
+                "bg": "Потърсете безопасно, закрито място за мокрия си велосипед."
               }
             },
             {
@@ -889,7 +946,8 @@
                 "de": "Schutzbleche sind auf der Zufahrt sehr hilfreich.",
                 "hu": "A sárvédő nagyon hasznos lesz a bevezető úton.",
                 "ro": "Apărătorile de noroi vor fi foarte utile pe acces.",
-                "en": "Mudguards will be very helpful on the access road."
+                "en": "Mudguards will be very helpful on the access road.",
+                "bg": "Калниците ще са много полезни на пътя за достъп."
               }
             },
             {
@@ -898,7 +956,8 @@
                 "de": "Perfekt, um die Kleidung kurz auszuschütteln.",
                 "hu": "Tökéletes hely, hogy lerázd a vizet a ruhádról.",
                 "ro": "Locul perfect pentru a scutura apa de pe haine.",
-                "en": "Perfect place to shake off the water from your gear."
+                "en": "Perfect place to shake off the water from your gear.",
+                "bg": "Перфектно място да оттърсите водата от екипировката си."
               }
             },
             {
@@ -907,7 +966,8 @@
                 "de": "Achtung, die Waldwege können rutschig sein.",
                 "hu": "Figyelem, az erdei utak csúszósak lehetnek.",
                 "ro": "Atenție, potecile din pădure pot fi alunecoase.",
-                "en": "Warning: forest paths can be quite slippery."
+                "en": "Warning: forest paths can be quite slippery.",
+                "bg": "Внимание: горските пътеки могат да бъдат доста хлъзгави."
               }
             },
             {
@@ -916,7 +976,8 @@
                 "de": "Ein trockener Ort für den kulturellen Abschluss.",
                 "hu": "Száraz helyszín a kulturális levezetéshez.",
                 "ro": "Un loc uscat pentru finalul cultural al zilei.",
-                "en": "A dry venue for the cultural end of the day."
+                "en": "A dry venue for the cultural end of the day.",
+                "bg": "Сухо място за културния край на деня."
               }
             }
           ],
@@ -944,6 +1005,12 @@
               "Avoid sudden braking on road markings in the rain.",
               "The museums provide good opportunities for longer breaks.",
               "A cycling rain poncho offers better protection than an umbrella."
+            ],
+            "bg": [
+              "Използвайте водоустойчиви багажни чанти, за да защитите ценностите си.",
+              "Избягвайте внезапно спиране върху пътните маркировки при дъжд.",
+              "Музеите предоставят добри възможности за по-дълги почивки.",
+              "Велосипедно дъждобранче предлага по-добра защита от чадър."
             ]
           }
         },
@@ -952,7 +1019,8 @@
             "de": "Frische Morgenluft beim Start am Uhrturm. Die Fahrt zum Abritus-Reservat hält uns warm, doch der Winterwind ist spürbar. Mittags nutzen wir die Museen als Aufwärmstationen. Die Tour durch den Pchelina-Wald zeigt eine stille, frostige Seite der Region. Da es früh dunkel wird, beenden wir den Tag zeitig in der Kunstgalerie und genießen die Wärme im Stadtinneren.",
             "hu": "Friss reggeli levegőben indulunk az óratoronytól. Az Abritus felé vezető tekerés melegen tart, de a téli szél azért csípős. Délben a múzeumokat használjuk melegedőállomásnak. A Pchelina-erdőn át vezető út a régió csendes, deres arcát mutatja. Mivel korán sötétedik, a napot időben zárjuk a galériában, majd a belváros melegét élvezzük.",
             "ro": "Aer curat de dimineață la plecarea de la Turnul cu Ceas. Pedalarea spre Abritus ne menține calzi, dar vântul de iarnă se simte. La prânz folosim muzeele ca stații de încălzire. Turul prin pădurea Pchelina ne arată o față liniștită și înghețată a regiunii. Deoarece se întunecă devreme, încheiem ziua la galeria de artă și ne bucurăm de căldura orașului.",
-            "en": "Crisp morning air as we start at the Clock Tower. Cycling to Abritus keeps us warm, but the winter wind is noticeable. At noon, we use the museums as warming stations. The ride through Pchelina forest shows a quiet, frosty side of the region. Since it gets dark early, we end the day promptly at the art gallery and enjoy the warmth of the city center."
+            "en": "Crisp morning air as we start at the Clock Tower. Cycling to Abritus keeps us warm, but the winter wind is noticeable. At noon, we use the museums as warming stations. The ride through Pchelina forest shows a quiet, frosty side of the region. Since it gets dark early, we end the day promptly at the art gallery and enjoy the warmth of the city center.",
+            "bg": "Свежият сутрешен въздух ни води от Часовниковата кула. Карането до Абритус ни държи топли, но зимният вятър е осезаем. На обяд използваме музеите като станции за затопляне. През Пчелина гора виждаме тихата, скрежирана страна на региона. Тъй като се стъмва рано, приключваме деня своевременно в галерията и се наслаждаваме на топлината в центъра на града."
           },
           "stops": [
             {
@@ -961,7 +1029,8 @@
                 "de": "Zügiger Start, um in Bewegung zu bleiben.",
                 "hu": "Gyors indulás, hogy mozgásban maradj és ne fázz.",
                 "ro": "Pornire rapidă pentru a rămâne în mișcare.",
-                "en": "Quick start to keep moving and stay warm."
+                "en": "Quick start to keep moving and stay warm.",
+                "bg": "Бърз старт, за да продължаваме да се движим и да се топлим."
               }
             },
             {
@@ -970,7 +1039,8 @@
                 "de": "Ein kurzer Fotostopp reicht bei der Kälte aus.",
                 "hu": "Egy rövid fotómegálló elég ebben a hidegben.",
                 "ro": "O scurtă oprire foto este suficientă pe frig.",
-                "en": "A short photo stop is enough in this cold."
+                "en": "A short photo stop is enough in this cold.",
+                "bg": "Кратка фото-пауза е достатъчна в този студ."
               }
             },
             {
@@ -979,7 +1049,8 @@
                 "de": "Genießen Sie die Wärme zwischen den Exponaten.",
                 "hu": "Élvezd a meleget a kiállítási tárgyak között.",
                 "ro": "Bucurați-vă de căldură printre exponate.",
-                "en": "Enjoy the warmth among the exhibits."
+                "en": "Enjoy the warmth among the exhibits.",
+                "bg": "Насладете се на топлината сред експонатите."
               }
             },
             {
@@ -988,7 +1059,8 @@
                 "de": "Vorsicht bei gefrorenen Stellen auf dem Weg.",
                 "hu": "Vigyázz a jeges szakaszokra az úton.",
                 "ro": "Atenție la porțiunile înghețate de pe drum.",
-                "en": "Watch out for frozen patches on the road."
+                "en": "Watch out for frozen patches on the road.",
+                "bg": "Внимавайте за заледени участъци на пътя."
               }
             },
             {
@@ -997,7 +1069,8 @@
                 "de": "Ideale Pause, um die Finger aufzuwärmen.",
                 "hu": "Ideális szünet az ujjaid felmelegítésére.",
                 "ro": "Pauză ideală pentru a vă încălzi degetele.",
-                "en": "Ideal break to warm up your fingers."
+                "en": "Ideal break to warm up your fingers.",
+                "bg": "Идеална пауза да затоплите пръстите си."
               }
             },
             {
@@ -1006,7 +1079,8 @@
                 "de": "Achtung bei Laub und Frost auf den Wegen.",
                 "hu": "Vigyázz a falevelekre és a dérre az utakon.",
                 "ro": "Atenție la frunziș și brumă pe poteci.",
-                "en": "Be careful of leaves and frost on the paths."
+                "en": "Be careful of leaves and frost on the paths.",
+                "bg": "Внимавайте за листа и скреж по пътеките."
               }
             },
             {
@@ -1015,7 +1089,8 @@
                 "de": "Ein warmer Abschluss der winterlichen Radtour.",
                 "hu": "A téli biciklitúra meleg levezetése.",
                 "ro": "Un final călduros pentru turul cu bicicleta.",
-                "en": "A warm conclusion to your winter bike ride."
+                "en": "A warm conclusion to your winter bike ride.",
+                "bg": "Топъл завършек на вашата зимна велоразходка."
               }
             }
           ],
@@ -1043,6 +1118,12 @@
               "Check tire pressure; cold temperatures can lower it.",
               "Daylight often fades before 5:00 PM in winter.",
               "Carry a thermos with hot tea for the ride."
+            ],
+            "bg": [
+              "Носете ветрозащитни ръкавици и топла шапка.",
+              "Проверете налягането в гумите; студът може да го понижи.",
+              "През зимата дневната светлина често свети до преди 17:00.",
+              "Носете термос с горещ чай за карането."
             ]
           }
         }
@@ -1061,7 +1142,8 @@
             "de": "Archäologisches Reservat Abritus",
             "hu": "Abritus Régészeti Rezervátum",
             "ro": "Rezervația arheologică Abritus",
-            "en": "Archaeological Reserve Abritus"
+            "en": "Archaeological Reserve Abritus",
+            "bg": "Археологически резерват Абритус"
           },
           "coords": [
             26.545,
@@ -1079,7 +1161,8 @@
             "de": "Interaktives Museum Abritus",
             "hu": "Abritus Interaktív Múzeum",
             "ro": "Muzeul Interactiv Abritus",
-            "en": "Interactive Museum Abritus"
+            "en": "Interactive Museum Abritus",
+            "bg": "Интерактивен музей Абритус"
           },
           "coords": [
             26.546,
@@ -1097,7 +1180,8 @@
             "de": "Pchelina-Waldpark",
             "hu": "Pchelina erdőpark",
             "ro": "Parcul Pădure Pchelina",
-            "en": "Pchelina Forest Park"
+            "en": "Pchelina Forest Park",
+            "bg": "Горски парк „Пчелина”"
           },
           "coords": [
             26.51,
@@ -1115,7 +1199,8 @@
             "de": "Uhrturm von Rasgrad",
             "hu": "Razgradi óratorony",
             "ro": "Turnul cu ceas din Razgrad",
-            "en": "Clock Tower of Razgrad"
+            "en": "Clock Tower of Razgrad",
+            "bg": "Часовникова кула — Разград"
           },
           "coords": [
             26.5255,
@@ -1133,7 +1218,8 @@
             "de": "Ibrahim-Pascha-Moschee",
             "hu": "Ibrahim pasa mecset",
             "ro": "Moscheea Ibrahim Pașa",
-            "en": "Ibrahim Pasha Mosque"
+            "en": "Ibrahim Pasha Mosque",
+            "bg": "Джамия Ибрахим паша"
           },
           "coords": [
             26.5248,
@@ -1151,7 +1237,8 @@
             "de": "Historisches Museum",
             "hu": "Történeti Múzeum",
             "ro": "Muzeul de Istorie",
-            "en": "Historical Museum"
+            "en": "Historical Museum",
+            "bg": "Исторически музей"
           },
           "coords": [
             26.527,
@@ -1169,7 +1256,8 @@
             "de": "Kunstgalerie Ilija Petrow",
             "hu": "Ilija Petrov Képtár",
             "ro": "Galeria de Artă Iliya Petrov",
-            "en": "Art Gallery Iliya Petrov"
+            "en": "Art Gallery Iliya Petrov",
+            "bg": "Художествена галерия „Илия Петров”"
           },
           "coords": [
             26.528,
@@ -1187,7 +1275,8 @@
         "de": "Ihr Autotag beginnt im Archäologischen Reservat Abritus, wo Sie den Vormittag verbringen. Parken Sie hier und erkunden Sie die Ruinen und das nahegelegene Interaktive Museum zu Fuß. Zur Mittagszeit fahren Sie in den Pchelina-Waldpark für eine entspannte Pause in der Natur. Am Nachmittag fahren Sie ins Stadtzentrum. Parken Sie Ihr Auto und erkunden Sie den historischen Kern – den Uhrturm, die Moschee, das Historische Museum und die Kunstgalerie – bequem zu Fuß.",
         "hu": "Autós napja az Abritus Régészeti Rezervátumban kezdődik, ahol a délelőttöt tölti. Parkoljon le itt, és fedezze fel gyalog a romokat és a közeli Interaktív Múzeumot. Délben autózzon el a Pchelina erdőparkba egy pihentető szünetre a természetben. Délután irány a városközpont. Parkolja le az autóját, és fedezze fel gyalog a történelmi magot – az Óratornyot, a mecsetet, a Történeti Múzeumot és a Képtárat.",
         "ro": "Ziua cu mașina începe la Rezervația Arheologică Abritus, unde vă petreceți dimineața. Parcați aici și explorați ruinele și Muzeul Interactiv din apropiere pe jos. La prânz, conduceți spre Parcul Pădure Pchelina pentru o pauză relaxantă în natură. După-amiaza, mergeți în centrul orașului. Parcați mașina și explorați nucleul istoric – Turnul cu Ceas, moscheea, Muzeul de Istorie și Galeria de Artă – confortabil pe jos.",
-        "en": "Your day by car begins at the Abritus Archaeological Reserve, where you'll spend the morning. Park here and explore the ruins and the nearby Interactive Museum on foot. At noon, drive to the Pchelina Forest Park for a relaxing break in nature. In the afternoon, head to the city center. Park your car and explore the historic core – the Clock Tower, the mosque, the Historical Museum, and the Art Gallery – comfortably on foot."
+        "en": "Your day by car begins at the Abritus Archaeological Reserve, where you'll spend the morning. Park here and explore the ruins and the nearby Interactive Museum on foot. At noon, drive to the Pchelina Forest Park for a relaxing break in nature. In the afternoon, head to the city center. Park your car and explore the historic core – the Clock Tower, the mosque, the Historical Museum, and the Art Gallery – comfortably on foot.",
+        "bg": "Вашият ден с кола започва в Археологически резерват Абритус, където ще прекарате сутринта. Паркирайте тук и разгледайте руините и близкия Интерактивен музей пеша. На обяд шофирайте до Горски парк Пчелина за релакс сред природата. Следобед се отправете към центъра на града. Паркирайте колата и разгледайте историческото ядро – Часовниковата кула, джамията, Историческия музей и Художествената галерия – удобно пеша."
       },
       "gastro_picks": {
         "de": [
@@ -1383,6 +1472,12 @@
           "The roads in and around Razgrad are generally in good condition.",
           "Combine your visit with a trip to the surrounding rural area.",
           "A GPS is helpful for finding the sights outside the center."
+        ],
+        "bg": [
+          "Паркирането в центъра може да е трудно. Търсете обозначени паркинги.",
+          "Пътищата в и около Разград са генерално в добро състояние.",
+          "Съчетавайте посещението си с разходка из околните селски райони.",
+          "GPS е полезен за намиране на забележителностите извън центъра."
         ]
       },
       "variants": {
@@ -1391,7 +1486,8 @@
             "de": "Ein bequemer Start am Abritus-Reservat trotz Regen. Das interaktive Museum hält uns trocken, bevor wir zum Pchelina-Park fahren, um die Aussicht aus dem Auto zu genießen. Mittags geht es zurück ins Zentrum zum Uhrturm. Die kurzen Wege zwischen Moschee und Historischem Museum minimieren die Zeit im Regen. Den Tag lassen wir entspannt in der Kunstgalerie ausklingen.",
             "hu": "Kényelmes kezdés az Abritus rezervátumnál az eső ellenére. Az interaktív múzeum szárazon tart, mielőtt a Pchelina-parkba autóznánk a kilátásért. Délben visszaérünk a központba az óratoronyhoz. A mecset és a helytörténeti múzeum közelsége miatt alig kell esőben lennünk. A napot pihentetően zárjuk a művészeti galéria falai között.",
             "ro": "Un început confortabil la rezervația Abritus în ciuda ploii. Muzeul interactiv ne ține uscați înainte de a merge la parcul Pchelina pentru priveliște. La prânz ne întoarcem în centru la Turnul cu Ceas. Distanțele scurte între moschee și muzeu reduc timpul petrecut în ploaie. Încheiem ziua relaxat la galeria de artă.",
-            "en": "A comfortable start at Abritus despite the rain. The interactive museum keeps us dry before we drive to Pchelina Park for the views. At noon, we return to the center to see the Clock Tower. The short distances between the mosque and the Historical Museum minimize time spent in the rain. We end the day relaxing at the art gallery."
+            "en": "A comfortable start at Abritus despite the rain. The interactive museum keeps us dry before we drive to Pchelina Park for the views. At noon, we return to the center to see the Clock Tower. The short distances between the mosque and the Historical Museum minimize time spent in the rain. We end the day relaxing at the art gallery.",
+            "bg": "Удобен старт в Абритус въпреки дъжда. Интерактивният музей ни държи сухи, преди да шофираме до парк Пчелина за гледките. На обяд се връщаме в центъра, за да видим Часовниковата кула. Кратките разстояния между джамията и Историческия музей намаляват времето, прекарано в дъжда. Завършваме деня, отпускайки се в галерията."
           },
           "stops": [
             {
@@ -1400,7 +1496,8 @@
                 "de": "Parken Sie nah am Eingang, um trocken zu bleiben.",
                 "hu": "Parkolj közel a bejárathoz, hogy száraz maradj.",
                 "ro": "Parcați aproape de intrare pentru a rămâne uscați.",
-                "en": "Park close to the entrance to stay dry."
+                "en": "Park close to the entrance to stay dry.",
+                "bg": "Паркирайте близо до входа, за да останете сухи."
               }
             },
             {
@@ -1409,7 +1506,8 @@
                 "de": "Perfekt für Regentage; alles findet drinnen statt.",
                 "hu": "Tökéletes esős napra; minden bent zajlik.",
                 "ro": "Perfect pentru zile ploioase; totul e în interior.",
-                "en": "Perfect for rainy days; everything is indoors."
+                "en": "Perfect for rainy days; everything is indoors.",
+                "bg": "Перфектно за дъждовни дни; всичко е на закрито."
               }
             },
             {
@@ -1418,7 +1516,8 @@
                 "de": "Genießen Sie die Waldatmosphäre vom Parkplatz aus.",
                 "hu": "Élvezd az erdei hangulatot a parkolóból.",
                 "ro": "Bucurați-vă de atmosfera pădurii din parcare.",
-                "en": "Enjoy the forest atmosphere from the parking area."
+                "en": "Enjoy the forest atmosphere from the parking area.",
+                "bg": "Насладете се на горската атмосфера от зоната за паркиране."
               }
             },
             {
@@ -1427,7 +1526,8 @@
                 "de": "Ein schneller Stopp für ein Foto ist auch im Regen drin.",
                 "hu": "Egy gyors fotómegálló esőben is belefér.",
                 "ro": "O oprire rapidă pentru o poză merge și pe ploaie.",
-                "en": "A quick stop for a photo is doable even in the rain."
+                "en": "A quick stop for a photo is doable even in the rain.",
+                "bg": "Бърза спирка за снимка е възможна дори при дъжд."
               }
             },
             {
@@ -1436,7 +1536,8 @@
                 "de": "Nutzen Sie den kurzen Weg vom Parkplatz.",
                 "hu": "Használd ki a rövid utat a parkolótól.",
                 "ro": "Profitați de drumul scurt de la parcare.",
-                "en": "Take advantage of the short walk from the parking."
+                "en": "Take advantage of the short walk from the parking.",
+                "bg": "Възползвайте се от кратката разходка от паркинга."
               }
             },
             {
@@ -1445,7 +1546,8 @@
                 "de": "Guter Ort für eine längere Pause im Trockenen.",
                 "hu": "Jó helyszín egy hosszabb beltéri pihenőre.",
                 "ro": "Loc bun pentru o pauză lungă la adăpost.",
-                "en": "Good spot for a long indoor break."
+                "en": "Good spot for a long indoor break.",
+                "bg": "Добро място за дълга почивка на закрито."
               }
             },
             {
@@ -1454,7 +1556,8 @@
                 "de": "Parkplätze sind in der Nähe vorhanden.",
                 "hu": "Parkolóhelyek elérhetőek a közelben.",
                 "ro": "Locuri de parcare sunt disponibile în apropiere.",
-                "en": "Parking spaces are available nearby."
+                "en": "Parking spaces are available nearby.",
+                "bg": "Паркоместа са налични наблизо."
               }
             }
           ],
@@ -1482,6 +1585,12 @@
               "Visibility might be limited in Pchelina Park during heavy rain.",
               "Use central parking lots close to the attractions.",
               "An umbrella in the car is worth its weight in gold for short walks."
+            ],
+            "bg": [
+              "Внимавайте за локви около паркинг зоните.",
+              "В парка Пчелина видимостта може да е ограничена при силен дъжд.",
+              "Използвайте централните паркинги близо до атракциите.",
+              "Чадър в колата си струва злато за кратките разходки."
             ]
           }
         },
@@ -1490,7 +1599,8 @@
             "de": "Ein warmer Start im Auto beim Abritus-Reservat. Wir besichtigen die Museen, bevor wir zur verschneiten Pchelina-Waldlandschaft fahren. Mittags geht es zurück ins Zentrum zum Uhrturm, wo die Wintersonne tief steht. Die kurzen Wege zwischen den Sehenswürdigkeiten sind ideal für die kalte Jahreszeit. Den Tag beenden wir in der Kunstgalerie, bevor wir die Heizung im Auto wieder genießen.",
             "hu": "Meleg kezdés az autóban az Abritus rezervátumnál. Megnézzük a múzeumokat, majd a havas Pchelina-erdő felé vesszük az irányt. Délben visszaérünk a központba az óratoronyhoz, ahol a téli nap alacsonyan jár. A látnivalók közötti rövid utak ideálisak a hideg évszakban. A napot a galériában zárjuk, mielőtt újra élveznénk az autó fűtését.",
             "ro": "Un început călduros în mașină la rezervația Abritus. Vizităm muzeele înainte de a merge spre peisajul înzăpezit din pădurea Pchelina. La prânz revenim în centru la Turnul cu Ceas, unde soarele de iarnă stă jos pe cer. Distanțele scurte între obiective sunt ideale pentru sezonul rece. Încheiem ziua la galeria de artă înainte de a reveni la căldura mașinii.",
-            "en": "A warm start in the car at the Abritus reserve. We visit the museums before driving to the snowy Pchelina forest landscape. At noon, we return to the center to see the Clock Tower under the low winter sun. Short walks between sights are ideal for the cold season. We end the day at the art gallery before enjoying the car's heater again."
+            "en": "A warm start in the car at the Abritus reserve. We visit the museums before driving to the snowy Pchelina forest landscape. At noon, we return to the center to see the Clock Tower under the low winter sun. Short walks between sights are ideal for the cold season. We end the day at the art gallery before enjoying the car's heater again.",
+            "bg": "Топъл старт в колата при резерват Абритус. Посещаваме музеите преди да шофираме към снежния пейзаж на Пчелина. На обяд се връщаме в центъра, за да видим Часовниковата кула под ниското зимно слънце. Кратките разходки между забележителностите са идеални за студения сезон. Завършваме деня в галерията преди отново да се насладим на печката в колата."
           },
           "stops": [
             {
@@ -1499,7 +1609,8 @@
                 "de": "Achten Sie auf vereiste Stellen auf dem Parkplatz.",
                 "hu": "Ügyelj a jeges szakaszokra a parkolóban.",
                 "ro": "Atenție la porțiunile înghețate din parcare.",
-                "en": "Watch out for icy patches in the parking lot."
+                "en": "Watch out for icy patches in the parking lot.",
+                "bg": "Внимавайте за заледени участъци на паркинга."
               }
             },
             {
@@ -1508,7 +1619,8 @@
                 "de": "Ein gut beheizter Ort für die erste Pause.",
                 "hu": "Jól fűtött helyszín az első pihenőhöz.",
                 "ro": "Un loc bine încălzit pentru prima pauză.",
-                "en": "A well-heated spot for your first break."
+                "en": "A well-heated spot for your first break.",
+                "bg": "Добре отоплено място за първата ви почивка."
               }
             },
             {
@@ -1517,7 +1629,8 @@
                 "de": "Die Auffahrt kann bei Schnee rutschig sein.",
                 "hu": "A felvezető út havas időben csúszós lehet.",
                 "ro": "Drumul de acces poate fi alunecos pe zăpadă.",
-                "en": "The access road can be slippery in snowy conditions."
+                "en": "The access road can be slippery in snowy conditions.",
+                "bg": "Пътят за достъп може да бъде хлъзгав при снежни условия."
               }
             },
             {
@@ -1526,7 +1639,8 @@
                 "de": "Kurzer Stopp; Motor nicht unnötig laufen lassen.",
                 "hu": "Rövid megálló; ne járasd feleslegesen a motort.",
                 "ro": "Oprire scurtă; nu lăsați motorul pornit inutil.",
-                "en": "Short stop; don't leave the engine idling unnecessarily."
+                "en": "Short stop; don't leave the engine idling unnecessarily.",
+                "bg": "Кратка спирка; не оставяйте двигателя да работи на празен ход ненужно."
               }
             },
             {
@@ -1535,7 +1649,8 @@
                 "de": "Die Wintersonne beleuchtet die Moschee morgens schön.",
                 "hu": "A téli nap reggelente szépen világítja meg a mecsetet.",
                 "ro": "Soarele de iarnă luminează frumos moscheea dimineața.",
-                "en": "The winter sun lights up the mosque beautifully in the morning."
+                "en": "The winter sun lights up the mosque beautifully in the morning.",
+                "bg": "Зимното слънце красиво осветява джамията сутрин."
               }
             },
             {
@@ -1544,7 +1659,8 @@
                 "de": "Wärmen Sie sich gründlich auf, bevor es weitergeht.",
                 "hu": "Melegedj fel alaposan, mielőtt továbbindulsz.",
                 "ro": "Încălziți-vă bine înainte de a merge mai departe.",
-                "en": "Warm up thoroughly before moving on."
+                "en": "Warm up thoroughly before moving on.",
+                "bg": "Затоплете се добре преди да продължите."
               }
             },
             {
@@ -1553,7 +1669,8 @@
                 "de": "Angenehmer Abschluss vor der Heimfahrt im Warmen.",
                 "hu": "Kellemes lezárás a melegben a hazaút előtt.",
                 "ro": "Un final plăcut la căldură înainte de drumul spre casă.",
-                "en": "A pleasant end in the warmth before the drive home."
+                "en": "A pleasant end in the warmth before the drive home.",
+                "bg": "Приятен край на деня в топлина преди пътуването към вкъщи."
               }
             }
           ],
@@ -1581,6 +1698,12 @@
               "Use anti-freeze for your windshield washer fluid.",
               "Central parking lots are usually cleared of snow in winter.",
               "Seat heating makes short trips much more comfortable."
+            ],
+            "bg": [
+              "Проверете пътните условия към Пчелина преди тръгване.",
+              "Използвайте антифриз за течността на чистачките на предното стъкло.",
+              "Централните паркинги обикновено се почистват от сняг през зимата.",
+              "Подгряването на седалките прави късите пътувания много по-комфортни."
             ]
           }
         }
@@ -1599,7 +1722,8 @@
             "de": "Uhrturm von Rasgrad",
             "hu": "Razgradi óratorony",
             "ro": "Turnul cu ceas din Razgrad",
-            "en": "Clock Tower of Razgrad"
+            "en": "Clock Tower of Razgrad",
+            "bg": "Часовниковата кула в Разград"
           },
           "coords": [
             26.5255,
@@ -1617,7 +1741,8 @@
             "de": "Ibrahim-Pascha-Moschee",
             "hu": "Ibrahim pasa mecset",
             "ro": "Moscheea Ibrahim Pașa",
-            "en": "Ibrahim Pasha Mosque"
+            "en": "Ibrahim Pasha Mosque",
+            "bg": "Ибрахим паша джамия"
           },
           "coords": [
             26.5248,
@@ -1635,7 +1760,8 @@
             "de": "Historisches Museum",
             "hu": "Történeti Múzeum",
             "ro": "Muzeul de Istorie",
-            "en": "Historical Museum"
+            "en": "Historical Museum",
+            "bg": "Исторически музей"
           },
           "coords": [
             26.527,
@@ -1653,7 +1779,8 @@
             "de": "Archäologisches Reservat Abritus",
             "hu": "Abritus Régészeti Rezervátum",
             "ro": "Rezervația arheologică Abritus",
-            "en": "Archaeological Reserve Abritus"
+            "en": "Archaeological Reserve Abritus",
+            "bg": "Археологически резерват Абритус"
           },
           "coords": [
             26.545,
@@ -1671,7 +1798,8 @@
             "de": "Interaktives Museum Abritus",
             "hu": "Abritus Interaktív Múzeum",
             "ro": "Muzeul Interactiv Abritus",
-            "en": "Interactive Museum Abritus"
+            "en": "Interactive Museum Abritus",
+            "bg": "Интерактивен музей „Абритус”"
           },
           "coords": [
             26.546,
@@ -1689,7 +1817,8 @@
             "de": "Pchelina-Waldpark",
             "hu": "Pchelina erdőpark",
             "ro": "Parcul Pădure Pchelina",
-            "en": "Pchelina Forest Park"
+            "en": "Pchelina Forest Park",
+            "bg": "Горски парк Пчелина"
           },
           "coords": [
             26.51,
@@ -1707,7 +1836,8 @@
         "de": "Beginnen Sie Ihren Tag im Zentrum von Rasgrad, das Sie mit dem Bus erreichen. Erkunden Sie den ersten Cluster von Sehenswürdigkeiten – Uhrturm, Moschee und Historisches Museum – zu Fuß. Am späten Vormittag nehmen Sie einen Bus zum zweiten Cluster, dem Archäologischen Reservat Abritus. Verbringen Sie hier Zeit mit der Erkundung der Ruinen und des interaktiven Museums. Am Nachmittag bringt Sie eine weitere Busfahrt zum Pchelina-Waldpark, wo Sie den Tag in einer entspannten, grünen Umgebung ausklingen lassen.",
         "hu": "Kezdje a napot Razgrad központjában, ahová busszal juthat el. Fedezze fel gyalog az első látnivalócsoportot – az Óratornyot, a mecsetet és a Történeti Múzeumot. Késő délelőtt szálljon buszra a második csoporthoz, az Abritus Régészeti Rezervátumhoz. Töltsön itt időt a romok és az interaktív múzeum felfedezésével. Délután egy újabb buszozás elviszi a Pchelina erdőparkba, ahol egy pihentető, zöld környezetben zárhatja a napot.",
         "ro": "Începeți ziua în centrul orașului Razgrad, accesibil cu autobuzul. Explorați pe jos primul grup de atracții – Turnul cu Ceas, moscheea și Muzeul de Istorie. Spre sfârșitul dimineții, luați un autobuz către al doilea grup, Rezervația Arheologică Abritus. Petreceți timp aici explorând ruinele și muzeul interactiv. După-amiaza, o altă călătorie cu autobuzul vă va duce la Parcul Pădure Pchelina, unde puteți încheia ziua într-un cadru verde și relaxant.",
-        "en": "Start your day in the center of Razgrad, accessible by bus. Explore the first cluster of sights – the Clock Tower, the mosque, and the Historical Museum – on foot. In the late morning, take a bus to the second cluster, the Abritus Archaeological Reserve. Spend time here exploring the ruins and the interactive museum. In the afternoon, another bus ride will take you to Pchelina Forest Park, where you can end the day in a relaxing green setting."
+        "en": "Start your day in the center of Razgrad, accessible by bus. Explore the first cluster of sights – the Clock Tower, the mosque, and the Historical Museum – on foot. In the late morning, take a bus to the second cluster, the Abritus Archaeological Reserve. Spend time here exploring the ruins and the interactive museum. In the afternoon, another bus ride will take you to Pchelina Forest Park, where you can end the day in a relaxing green setting.",
+        "bg": "Започнете деня си в центъра на Разград, достъпен с автобус. Разгледайте първия клъстер от забележителности – Часовниковата кула, джамията и Историческия музей – пеша. Късно сутринта хванете автобус към втория клъстер, археологическия резерват Абритус. Прекарайте време в разглеждане на руините и интерактивния музей. Следобед друг автобус ще ви отведе до Горски парк Пчелина, където можете да приключите деня в релаксираща зелена обстановка."
       },
       "gastro_picks": {
         "de": [
@@ -1903,6 +2033,12 @@
           "Buy tickets at a kiosk or directly from the driver (have small change ready).",
           "Be aware that bus frequencies may be lower in the evenings and on weekends.",
           "Plan for extra time for waiting at the stops."
+        ],
+        "bg": [
+          "Информирайте се предварително за автобусните маршрути и разписания.",
+          "Купувайте билети на будка или директно от шофьора (имайте дребни пари).",
+          "Имайте предвид, че честотата на автобусите може да е по-ниска вечер и в почивните дни.",
+          "Планирайте допълнително време за изчакване на спирките."
         ]
       },
       "variants": {
@@ -1911,7 +2047,8 @@
             "de": "Der Tag mit dem Bus beginnt am Uhrturm. Die Haltestellen bieten Schutz vor dem Regen, während wir zur Moschee und zum Historischen Museum fahren. Mittags bringt uns der Transit zum Abritus-Reservat, wo das interaktive Museum der beste Ort bei Nässe ist. Nachmittags besuchen wir den Pchelina-Park, sofern der Regen nachlässt, bevor wir mit dem Bus zurück ins Zentrum kehren.",
             "hu": "A buszos nap az óratoronynál indul. A megállók menedéket nyújtanak az eső elől, miközben a mecsethez és a múzeumhoz utazunk. Délben a tömegközlekedés elvisz az Abritus rezervátumhoz, ahol az interaktív múzeum a legjobb választás esőben. Délután ellátogatunk a Pchelina-parkba, ha az eső csendesedik, majd busszal térünk vissza a városközpontba.",
             "ro": "Ziua cu autobuzul începe la Turnul cu Ceas. Stațiile oferă adăpost de ploaie în timp ce mergem spre moschee și muzeu. La prânz, transportul ne duce la rezervația Abritus, unde muzeul interactiv este cea mai bună opțiune pe vreme umedă. După-amiaza vizităm parcul Pchelina dacă ploaia se mai domolește, apoi revenim cu autobuzul în centru.",
-            "en": "The bus day starts at the Clock Tower. Stops provide shelter from the rain as we travel to the mosque and museum. At noon, transit takes us to the Abritus reserve, where the interactive museum is the best choice in wet weather. In the afternoon, we visit Pchelina Park if the rain lets up, then return to the city center by bus."
+            "en": "The bus day starts at the Clock Tower. Stops provide shelter from the rain as we travel to the mosque and museum. At noon, transit takes us to the Abritus reserve, where the interactive museum is the best choice in wet weather. In the afternoon, we visit Pchelina Park if the rain lets up, then return to the city center by bus.",
+            "bg": "Автобусният ден започва на Часовниковата кула. На спирките има укритие от дъжда, докато пътуваме към джамията и музея. На обяд пътуваме до резервата Абритус, където интерактивният музей е най-добрият избор при мокро време. Следобед посещаваме Пчелина, ако дъждът утихне, след което се връщаме в центъра с автобус."
           },
           "stops": [
             {
@@ -1920,7 +2057,8 @@
                 "de": "Nutzen Sie die Wartehäuschen an den Bushaltestellen.",
                 "hu": "Használd a buszmegállók váróhelyiségeit.",
                 "ro": "Folosiți adăposturile din stațiile de autobuz.",
-                "en": "Use the shelters at the bus stops."
+                "en": "Use the shelters at the bus stops.",
+                "bg": "Използвайте укритията на автобусните спирки."
               }
             },
             {
@@ -1929,7 +2067,8 @@
                 "de": "Kurze Fahrt vom Zentrum; Haltestelle ist nah.",
                 "hu": "Rövid út a központból, a megálló közel van.",
                 "ro": "Drum scurt din centru, stația este aproape.",
-                "en": "Short ride from the center; the stop is nearby."
+                "en": "Short ride from the center; the stop is nearby.",
+                "bg": "Кратко пътуване от центъра; спирката е наблизо."
               }
             },
             {
@@ -1938,7 +2077,8 @@
                 "de": "Idealer Ort, um die Zeit bis zum nächsten Bus zu nutzen.",
                 "hu": "Ideális hely a következő buszig hátralévő időre.",
                 "ro": "Loc ideal pentru a aștepta următorul autobuz.",
-                "en": "Ideal place to spend time until the next bus."
+                "en": "Ideal place to spend time until the next bus.",
+                "bg": "Идеално място да прекарате време до следващия автобус."
               }
             },
             {
@@ -1947,7 +2087,8 @@
                 "de": "Der Bus hält in bequemer Laufnähe zum Eingang.",
                 "hu": "A busz kényelmes sétatávolságra áll meg a bejárattól.",
                 "ro": "Autobuzul oprește la o distanță mică de mers de intrare.",
-                "en": "The bus stops within comfortable walking distance of the entrance."
+                "en": "The bus stops within comfortable walking distance of the entrance.",
+                "bg": "Автобусът спира на удобно пешеходно разстояние от входа."
               }
             },
             {
@@ -1956,7 +2097,8 @@
                 "de": "Ein warmes, trockenes Ziel für Transitnutzer.",
                 "hu": "Meleg, száraz célpont a tömegközlekedőknek.",
                 "ro": "O destinație caldă și uscată pentru călători.",
-                "en": "A warm, dry destination for transit users."
+                "en": "A warm, dry destination for transit users.",
+                "bg": "Топла, суха дестинация за пътуващите с транспорт."
               }
             },
             {
@@ -1965,7 +2107,8 @@
                 "de": "Prüfen Sie die Rückfahrzeiten bei Regen genau.",
                 "hu": "Ellenőrizd pontosan a visszautat esőben.",
                 "ro": "Verificați bine orele de retur pe ploaie.",
-                "en": "Check the return schedule carefully in the rain."
+                "en": "Check the return schedule carefully in the rain.",
+                "bg": "Проверете внимателно разписанието за връщане при дъжд."
               }
             }
           ],
@@ -1993,6 +2136,12 @@
               "Buses are often more crowded in the rain; allow extra time.",
               "Use the mobile app for real-time departure info.",
               "Major stops often have kiosks for buying rain protection."
+            ],
+            "bg": [
+              "Имайте дребни пари или предварително платен билет готови.",
+              "Автобусите често са по-претъпкани при дъжд; предвидете допълнително време.",
+              "Използвайте мобилното приложение за информация за тръгвания в реално време.",
+              "На големите спирки често има будки за закупуване на защита от дъжд."
             ]
           }
         },
@@ -2001,7 +2150,8 @@
             "de": "Ein kalter Start am Uhrturm, wo wir auf den Bus warten. Die Fahrt bietet einen Blick auf das winterliche Razgrad. Mittags erkunden wir das Historische Museum und wärmen uns auf, bevor es zum Abritus-Reservat geht. Die Winterlandschaft dort ist beeindruckend, aber wir achten auf den Fahrplan für die Rückfahrt im Hellen. Den Tag beenden wir mit einer Busfahrt zurück ins gemütliche Stadtzentrum.",
             "hu": "Hideg reggel az óratoronynál, miközben a buszra várunk. Az utazás alatt láthatjuk a téli Razgradot. Délben felfedezzük a helytörténeti múzeumot és felmelegszünk, mielőtt az Abritus rezervátumhoz mennénk. A téli táj ott lenyűgöző, de figyelünk a menetrendre, hogy még világosban visszaérjünk. A napot egy buszúttal zárjuk vissza a barátságos belvárosba.",
             "ro": "O dimineață rece la Turnul cu Ceas în timp ce așteptăm autobuzul. Călătoria oferă o vedere asupra orașului Razgrad iarna. La prânz explorăm muzeul de istorie și ne încălzim înainte de a merge la rezervația Abritus. Peisajul de iarnă de acolo este impresionant, dar urmărim programul pentru a reveni pe lumină. Încheiem ziua cu un drum spre centrul primitor.",
-            "en": "A cold morning at the Clock Tower as we wait for the bus. The ride offers a view of winter in Razgrad. At noon, we explore the Historical Museum and warm up before heading to the Abritus reserve. The winter landscape there is impressive, but we keep an eye on the schedule to return while it's still light. The day ends with a bus ride back to the cozy city center."
+            "en": "A cold morning at the Clock Tower as we wait for the bus. The ride offers a view of winter in Razgrad. At noon, we explore the Historical Museum and warm up before heading to the Abritus reserve. The winter landscape there is impressive, but we keep an eye on the schedule to return while it's still light. The day ends with a bus ride back to the cozy city center.",
+            "bg": "Студено утро при Часовниковата кула, докато чакаме автобуса. Пътуването предлага гледка към зимния Разград. По обяд разглеждаме Историческия музей и се затопляме преди да тръгнем към резервата Абритус. Зимният пейзаж там е впечатляващ, но следим разписанието, за да се върнем докато е още светло. Денят завършва с автобус обратно към уютния централен град."
           },
           "stops": [
             {
@@ -2010,7 +2160,8 @@
                 "de": "Warten Sie lieber in einem nahen Café auf den Bus.",
                 "hu": "Inkább egy közeli kávézóban várj a buszra.",
                 "ro": "Mai bine așteptați autobuzul într-o cafenea apropiată.",
-                "en": "Better wait for the bus in a nearby cafe."
+                "en": "Better wait for the bus in a nearby cafe.",
+                "bg": "По-добре изчакайте автобуса в близко кафе."
               }
             },
             {
@@ -2019,7 +2170,8 @@
                 "de": "Ein kurzer Blick aus dem Busfenster lohnt sich.",
                 "hu": "Érdemes egy rövid pillantást vetni a busz ablakából.",
                 "ro": "Merită o privire scurtă de pe fereastra autobuzului.",
-                "en": "A quick look from the bus window is worthwhile."
+                "en": "A quick look from the bus window is worthwhile.",
+                "bg": "Кратък поглед през автобуса струва усилието."
               }
             },
             {
@@ -2028,7 +2180,8 @@
                 "de": "Der perfekte Ort, um sich zwischen den Fahrten aufzuwärmen.",
                 "hu": "Tökéletes hely felmelegedni két utazás között.",
                 "ro": "Locul perfect pentru a vă încălzi între călătorii.",
-                "en": "The perfect place to warm up between rides."
+                "en": "The perfect place to warm up between rides.",
+                "bg": "Перфектно място да се стоплите между пътуванията."
               }
             },
             {
@@ -2037,7 +2190,8 @@
                 "de": "Planen Sie den Besuch passend zu den Buszeiten.",
                 "hu": "Tervezd a látogatást a buszmenetrendhez igazítva.",
                 "ro": "Planificați vizita în funcție de orele autobuzului.",
-                "en": "Plan your visit to match the bus schedule."
+                "en": "Plan your visit to match the bus schedule.",
+                "bg": "Планирайте посещението си спрямо автобусното разписание."
               }
             },
             {
@@ -2046,7 +2200,8 @@
                 "de": "Warmer Rückzugsort vor der Rückfahrt ins Zentrum.",
                 "hu": "Meleg búvóhely a városba való visszaindulás előtt.",
                 "ro": "Refugiu călduros înainte de întoarcerea în centru.",
-                "en": "Warm retreat before heading back to the center."
+                "en": "Warm retreat before heading back to the center.",
+                "bg": "Топла отдих преди връщане в центъра."
               }
             },
             {
@@ -2055,7 +2210,8 @@
                 "de": "Beachten Sie die selteneren Fahrten im Winter.",
                 "hu": "Vedd figyelembe a ritkább téli járatokat.",
                 "ro": "Țineți cont de cursele mai rare pe timp de iarnă.",
-                "en": "Be aware of the less frequent bus service in winter."
+                "en": "Be aware of the less frequent bus service in winter.",
+                "bg": "Имайте предвид по-рядкото автобусно обслужване през зимата."
               }
             }
           ],
@@ -2083,6 +2239,12 @@
               "Buses are well-heated in winter.",
               "Check for modified winter schedules.",
               "Twilight starts early, plan your return trip in time."
+            ],
+            "bg": [
+              "Носете топли обувки; спирките могат да бъдат проветриви.",
+              "Автобусите са добре отоплени през зимата.",
+              "Проверете за променени зимни разписания.",
+              "Сenките започват рано, планирайте връщането си навреме."
             ]
           }
         }

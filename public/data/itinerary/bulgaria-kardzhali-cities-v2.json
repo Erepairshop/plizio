@@ -21,7 +21,8 @@
             "de": "Stadtpark",
             "hu": "Városi park",
             "ro": "Parcul orașului",
-            "en": "City Park"
+            "en": "City Park",
+            "bg": "Градски парк"
           },
           "coords": [
             25.3715,
@@ -37,7 +38,8 @@
             "de": "Beginnen Sie den Tag mit einem entspannten Spaziergang entlang der Arda.",
             "hu": "Kezdje a napot egy pihentető sétával az Arda folyó partján.",
             "ro": "Începeți ziua cu o plimbare relaxantă de-a lungul râului Arda.",
-            "en": "Start your day with a relaxing stroll along the Arda River."
+            "en": "Start your day with a relaxing stroll along the Arda River.",
+            "bg": "Започнете деня с релаксираща разходка покрай река Арда."
           }
         },
         {
@@ -45,7 +47,8 @@
             "de": "Kunstgalerie 'Stanka Dimitrova'",
             "hu": "'Sztanka Dimitrova' Művészeti Galéria",
             "ro": "Galeria de Artă 'Stanka Dimitrova'",
-            "en": "Art Gallery 'Stanka Dimitrova'"
+            "en": "Art Gallery 'Stanka Dimitrova'",
+            "bg": "Художествена галерия „Станка Димитрова“"
           },
           "coords": [
             25.3742,
@@ -61,7 +64,8 @@
             "de": "Konzentrieren Sie sich auf die Werke lokaler Künstler aus den Rhodopen.",
             "hu": "Fókuszáljon a rodopei helyi művészek alkotásaira.",
             "ro": "Concentrați-vă pe lucrările artiștilor locali din Munții Rodopi.",
-            "en": "Focus on the works of local artists from the Rhodope Mountains."
+            "en": "Focus on the works of local artists from the Rhodope Mountains.",
+            "bg": "Фокусирайте се върху творбите на местни художници от Родопите."
           }
         },
         {
@@ -69,7 +73,8 @@
             "de": "Regionales Historisches Museum",
             "hu": "Regionális Történeti Múzeum",
             "ro": "Muzeul Regional de Istorie",
-            "en": "Regional Historical Museum"
+            "en": "Regional Historical Museum",
+            "bg": "Регионален исторически музей"
           },
           "coords": [
             25.3791,
@@ -85,7 +90,8 @@
             "de": "Verpassen Sie nicht die archäologischen Funde aus Perperikon.",
             "hu": "Ne hagyja ki a perperikoni régészeti leleteket.",
             "ro": "Nu ratați descoperirile arheologice de la Perperikon.",
-            "en": "Don't miss the archaeological finds from Perperikon."
+            "en": "Don't miss the archaeological finds from Perperikon.",
+            "bg": "Не пропускайте археологическите находки от Перперикон."
           }
         },
         {
@@ -93,7 +99,8 @@
             "de": "Kirche St. Johannes der Täufer",
             "hu": "Keresztelő Szent János templom",
             "ro": "Biserica Sfântul Ioan Botezătorul",
-            "en": "Church of Saint John the Baptist"
+            "en": "Church of Saint John the Baptist",
+            "bg": "Църква „Св. Йоан Кръстител“"
           },
           "coords": [
             25.3855,
@@ -109,7 +116,8 @@
             "de": "Bewundern Sie die mittelalterliche Architektur, eine der ältesten Kirchen der Region.",
             "hu": "Csodálja meg a középkori építészetet, a régió egyik legrégebbi templomát.",
             "ro": "Admirați arhitectura medievală, una dintre cele mai vechi biserici din regiune.",
-            "en": "Admire the medieval architecture, one of the oldest churches in the region."
+            "en": "Admire the medieval architecture, one of the oldest churches in the region.",
+            "bg": "Възхищавайте се на средновековната архитектура, една от най-старите църкви в региона."
           }
         },
         {
@@ -117,7 +125,8 @@
             "de": "Mittagessen im Stadtzentrum",
             "hu": "Ebéd a városközpontban",
             "ro": "Prânz în centrul orașului",
-            "en": "Lunch in the city center"
+            "en": "Lunch in the city center",
+            "bg": "Обяд в центъра на града"
           },
           "coords": [
             25.376,
@@ -133,7 +142,8 @@
             "de": "Probieren Sie 'Patatnik', einen traditionellen Kartoffelauflauf aus den Rhodopen.",
             "hu": "Kóstolja meg a 'Patatnik'-ot, egy hagyományos rodopei burgonyás ételt.",
             "ro": "Încercați 'Patatnik', o plăcintâ tradițională cu cartofi din Rodopi.",
-            "en": "Try 'Patatnik', a traditional Rhodopean potato bake."
+            "en": "Try 'Patatnik', a traditional Rhodopean potato bake.",
+            "bg": "Опитайте „Пататник“, традиционно родопско ястие с картофи."
           }
         }
       ],
@@ -141,7 +151,8 @@
         "de": "Ihr Tag in Kardschali beginnt mit einem ruhigen Morgenspaziergang im Stadtpark, bevor Sie in die lokale Kultur in der Kunstgalerie eintauchen. Am Mittag erkunden Sie die reiche Geschichte der Region im beeindruckenden Historischen Museum, das in einem prächtigen Gebäude untergebracht ist. Der Nachmittag ist der spirituellen Einkehr in der mittelalterlichen Kirche St. Johannes gewidmet, einem architektonischen Juwel. Zum Abschluss genießen Sie die authentische rhodopische Küche in einem traditionellen Restaurant im Herzen der Stadt.",
         "hu": "Kardzsali napja egy csendes reggeli sétával kezdődik a Városi parkban, mielőtt elmerülne a helyi kultúrában a Művészeti Galériában. Délben a régió gazdag történelmét fedezi fel a lenyűgöző Történeti Múzeumban, amely egy csodálatos épületben kapott helyet. A délután a spirituális elmélyülésé a középkori Keresztelő Szent János templomban, egy építészeti gyöngyszemben. A napot egy autentikus rodopei konyhát kínáló, hagyományos étteremben zárja a város szívében.",
         "ro": "Ziua dvs. în Kardzhali începe cu o plimbare liniștită de dimineață în Parcul Orașului, înainte de a vă cufunda în cultura locală la Galeria de Artă. La amiază, explorați istoria bogată a regiunii la impresionantul Muzeu de Istorie, găzduit într-o clădire magnifică. După-amiaza este dedicată reflecției spirituale la biserica medievală Sf. Ioan, o bijuterie arhitecturală. Încheiați ziua savurând bucătăria autentică din Rodopi la un restaurant tradițional din inima orașului.",
-        "en": "Your day in Kardzhali begins with a quiet morning stroll in the City Park before immersing yourself in local culture at the Art Gallery. At midday, you'll explore the region's rich history at the impressive Historical Museum, housed in a magnificent building. The afternoon is for spiritual reflection at the medieval Church of St. John, an architectural gem. You'll conclude your day by savoring authentic Rhodopean cuisine at a traditional restaurant in the heart of the city."
+        "en": "Your day in Kardzhali begins with a quiet morning stroll in the City Park before immersing yourself in local culture at the Art Gallery. At midday, you'll explore the region's rich history at the impressive Historical Museum, housed in a magnificent building. The afternoon is for spiritual reflection at the medieval Church of St. John, an architectural gem. You'll conclude your day by savoring authentic Rhodopean cuisine at a traditional restaurant in the heart of the city.",
+        "bg": "Денят ви в Кърджали започва с тиха сутрешна разходка в Градския парк, преди да потопите се в местната култура в Художествената галерия. В средата на деня ще изследвате богатата история на региона в впечатляващия Исторически музей, разположен в величествена сграда. Следобедът е за духовно уединение в средновековната Църква „Св. Йоан“, архитектурно бижу. Завършвате деня, опитвайки автентична родопска кухня в традиционен ресторант в сърцето на града."
       },
       "gastro_picks": {
         "de": [
@@ -297,6 +308,11 @@
           "Wear comfortable shoes as the city center can be hilly.",
           "Most sights are within walking distance, but carry water, especially in summer.",
           "Plan enough time for the Historical Museum; it's larger than it appears."
+        ],
+        "bg": [
+          "Носете удобни обувки, тъй като центърът на града може да е хълмист.",
+          "Повечето забележителности са на пешеходно разстояние, но носете вода, особено през лятото.",
+          "Отделете достатъчно време за Историческия музей; по-голям е, отколкото изглежда."
         ]
       },
       "variants": {
@@ -305,7 +321,8 @@
             "de": "Beginnen Sie den Tag im Stadtpark, wo die Bäume ersten Schutz bieten. Vormittags und mittags tauchen Sie in die Kunstgalerie und das Historische Museum ab, um dem Regen zu entgehen. Ein kurzer Spaziergang zur Johanneskirche führt Sie schließlich ins warme Stadtzentrum zum Mittagessen, wo Sie den Tag gemütlich ausklingen lassen können.",
             "hu": "Kezdje a napot a Városligetben, ahol a fák némi fedezéket nyújtanak. A délelőttöt és a délutánt töltse az Art Galériában és a Történeti Múzeumban, így elkerülheti a nagyobb zuhékat. Egy rövid esernyős séta a Keresztelő Szent János-templomhoz vezet, majd a belvárosban egy bőséges meleg ebéd zárja a programot.",
             "ro": "Începeți ziua în Parcul Orașului, folosind aleile umbrite de copaci. Dimineața și prânzul sunt dedicate Galeriei de Artă și Muzeului de Istorie, refugii perfecte împotriva ploii. O scurtă plimbare cu umbrela spre Biserica Sf. Ioan Botezătorul vă conduce spre centrul orașului pentru un prânz cald într-o atmosferă primitoare.",
-            "en": "Start your day in the City Park, where the tree canopy offers light cover. Spend your late morning and midday exploring the Art Gallery and Historical Museum to stay dry. A brief rainy walk to the Church of Saint John the Baptist leads you to a cozy lunch in the city center to finish your tour comfortably."
+            "en": "Start your day in the City Park, where the tree canopy offers light cover. Spend your late morning and midday exploring the Art Gallery and Historical Museum to stay dry. A brief rainy walk to the Church of Saint John the Baptist leads you to a cozy lunch in the city center to finish your tour comfortably.",
+            "bg": "Започнете деня си в Градския парк, където дървесният полог предлага лека защита. Прекарайте късната сутрин и обяда разглеждайки Галерията и Историческия музей, за да останете на закрито при дъжд. Кратка мокра разходка до Църквата „Св. Йоан Кръстител“ ви отвежда до уютен обяд в центъра, с което комфортно завършвате тура си."
           },
           "stops": [
             {
@@ -314,7 +331,8 @@
                 "de": "Nutzen Sie die dichten Baumkronen als natürlichen Regenschutz.",
                 "hu": "Használja a sűrű lombkoronát természetes esővédőként.",
                 "ro": "Folosiți coronamentul dens al copacilor ca adăpost natural.",
-                "en": "Use the dense tree canopy as natural protection from the rain."
+                "en": "Use the dense tree canopy as natural protection from the rain.",
+                "bg": "Използвайте гъстия дървесен полог като естествена защита от дъжда."
               }
             },
             {
@@ -323,7 +341,8 @@
                 "de": "Perfekter Ort, um die stärksten Regenschauer trocken zu überstehen.",
                 "hu": "Tökéletes hely a legerősebb záporok száraz átvészeléséhez.",
                 "ro": "Locul perfect pentru a aștepta trecerea ploii în siguranță.",
-                "en": "The perfect place to stay dry during heavy downpours."
+                "en": "The perfect place to stay dry during heavy downpours.",
+                "bg": "Перфектното място да останете сухи по време на силни порои."
               }
             },
             {
@@ -332,7 +351,8 @@
                 "de": "Das weitläufige Innere bietet stundenlangen Schutz vor Nässe.",
                 "hu": "A tágas belső terek órákon át védelmet nyújtanak az eső elől.",
                 "ro": "Interiorul vast oferă adăpost pentru câteva ore bune.",
-                "en": "The spacious interior provides hours of shelter from the wet weather."
+                "en": "The spacious interior provides hours of shelter from the wet weather.",
+                "bg": "Просторният интериор осигурява часове подслон от мокрото време."
               }
             },
             {
@@ -341,7 +361,8 @@
                 "de": "Kurze Innenbesichtigung einplanen, während es draußen regnet.",
                 "hu": "Tervezzen belső látogatást, amíg odakint esik az eső.",
                 "ro": "Planificați o vizită în interior cât timp plouă afară.",
-                "en": "Plan an indoor visit while it's raining outside."
+                "en": "Plan an indoor visit while it's raining outside.",
+                "bg": "Планирайте посещение на закрито, докато навън вали."
               }
             },
             {
@@ -350,7 +371,8 @@
                 "de": "Wählen Sie ein Restaurant mit Garderobe für nasse Mäntel.",
                 "hu": "Válasszon olyan éttermet, ahol van ruhatár a vizes kabátoknak.",
                 "ro": "Alegeți un restaurant cu garderobă pentru hainele umede.",
-                "en": "Choose a restaurant with a cloakroom for wet coats."
+                "en": "Choose a restaurant with a cloakroom for wet coats.",
+                "bg": "Изберете ресторант с гардероб за мокри палта."
               }
             }
           ],
@@ -378,6 +400,12 @@
               "Wear waterproof shoes for the walking sections between museums.",
               "Kardzhali museums are often closed on Mondays.",
               "A compact umbrella is more practical than a large one in windy city areas."
+            ],
+            "bg": [
+              "Пътеките в градския парк могат да станат хлъзгави при мокро време.",
+              "Носете водоустойчиви обувки за участъците между музеите.",
+              "Музеите в Кърджали често са затворени в понеделник.",
+              "Компактният чадър е по-практичен от големия в ветровити градски райони."
             ]
           }
         },
@@ -386,7 +414,8 @@
             "de": "Ein frischer Wintermorgen beginnt im Stadtpark. Danach wärmen Sie sich in der Kunstgalerie und im Regionalmuseum auf. Die Kirche des Heiligen Johannes bietet einen Moment der Stille, bevor Sie die beleuchtete Innenstadt erreichen. Ein herzhaftes bulgarisches Mittagessen ist der perfekte Abschluss, bevor die frühe Dämmerung gegen 17:00 Uhr einsetzt.",
             "hu": "Friss téli reggel indul a parkban. Ezután melegedjen fel az Art Galériában és a Regionális Múzeumban. A Keresztelő Szent János-templom csendes menedéket nyújt, mielőtt elérné a kivilágított belvárost. Egy kiadós bolgár ebéd tökéletes befejezés, mielőtt 17:00 körül leszállna a korai sötétség.",
             "ro": "O dimineață răcoroasă de iarnă începe în parc. Ulterior, încălziți-vă în Galeria de Artă și la Muzeul Regional. Biserica Sf. Ioan oferă un moment de liniște înainte de a ajunge în centrul iluminat. Un prânz bulgăresc consistent este finalul perfect înainte ca amurgul să se lase în jurul orei 17:00.",
-            "en": "A crisp winter morning starts in the park. Later, warm up inside the Art Gallery and the Regional Museum. The Church of Saint John offers a quiet sanctuary before you reach the lit-up city center. A hearty Bulgarian lunch is the perfect conclusion before the early sunset arrives around 17:00."
+            "en": "A crisp winter morning starts in the park. Later, warm up inside the Art Gallery and the Regional Museum. The Church of Saint John offers a quiet sanctuary before you reach the lit-up city center. A hearty Bulgarian lunch is the perfect conclusion before the early sunset arrives around 17:00.",
+            "bg": "Свежо зимно утро започва в парка. По-късно се стопляте в Художествената галерия и Регионалния музей. Църквата „Св. Йоан“ предлага тихо убежище преди да стигнете до осветения център на града. Обилният български обяд е перфектният завършек преди ранния залез около 17:00."
           },
           "stops": [
             {
@@ -395,7 +424,8 @@
                 "de": "Genießen Sie die klare Winterluft bei einem kurzen Spaziergang.",
                 "hu": "Élvezze a friss téli levegőt egy rövid séta közben.",
                 "ro": "Bucurați-vă de aerul curat de iarnă în timpul unei scurte plimbări.",
-                "en": "Enjoy the crisp winter air during a brisk walk."
+                "en": "Enjoy the crisp winter air during a brisk walk.",
+                "bg": "Насладете се на свежия зимен въздух по време на бодра разходка."
               }
             },
             {
@@ -404,7 +434,8 @@
                 "de": "Die beheizten Räume laden zum längeren Verweilen ein.",
                 "hu": "A fűtött termek hosszabb nézelődésre csábítanak.",
                 "ro": "Sălile încălzite sunt perfecte pentru o vizită prelungită.",
-                "en": "The heated rooms are perfect for a long, warm visit."
+                "en": "The heated rooms are perfect for a long, warm visit.",
+                "bg": "Отоплените зали са идеални за дълго и топло посещение."
               }
             },
             {
@@ -413,7 +444,8 @@
                 "de": "Nutzen Sie die Mittagsstunden für die Erkundung der Innenräume.",
                 "hu": "Használja ki a déli órákat a belső terek felfedezésére.",
                 "ro": "Folosiți orele amiezii pentru a explora interiorul muzeului.",
-                "en": "Take advantage of the midday hours to explore the indoor exhibits."
+                "en": "Take advantage of the midday hours to explore the indoor exhibits.",
+                "bg": "Възползвайте се от обедните часове за разглеждане на закритите експозиции."
               }
             },
             {
@@ -422,7 +454,8 @@
                 "de": "Ein ruhiger Ort, um sich vor dem Abendessen aufzuwärmen.",
                 "hu": "Csendes hely, ahol felmelegedhet a vacsora előtt.",
                 "ro": "Un loc liniștit unde vă puteți încălzi înainte de masă.",
-                "en": "A peaceful place to warm up before heading to lunch."
+                "en": "A peaceful place to warm up before heading to lunch.",
+                "bg": "Спокойно място за стопляне преди да отидете на обяд."
               }
             },
             {
@@ -431,7 +464,8 @@
                 "de": "Probieren Sie lokale Winterspezialitäten wie 'Kavarma'.",
                 "hu": "Kóstolja meg a helyi téli különlegességeket, mint a Kavarma.",
                 "ro": "Încercați specialitățile locale de iarnă, cum ar fi Kavarma.",
-                "en": "Try local winter specialties like 'Kavarma'."
+                "en": "Try local winter specialties like 'Kavarma'.",
+                "bg": "Опитайте местни зимни специалитети като „Каварма“."
               }
             }
           ],
@@ -459,6 +493,12 @@
               "The sun sets as early as 16:45 during the winter months.",
               "Watch out for icy patches on the sidewalks.",
               "Museums often have shorter opening hours in winter."
+            ],
+            "bg": [
+              "Носете термо слоеве, тъй като вятърът от реката може да е пронизващ.",
+              "Слънцето залязва още в 16:45 през зимните месеци.",
+              "Внимавайте за ледени петна по тротоарите.",
+              "Музеите често работят с по-кратко работно време през зимата."
             ]
           }
         }
@@ -477,7 +517,8 @@
             "de": "Regionales Historisches Museum",
             "hu": "Regionális Történeti Múzeum",
             "ro": "Muzeul Regional de Istorie",
-            "en": "Regional Historical Museum"
+            "en": "Regional Historical Museum",
+            "bg": "Регионален исторически музей"
           },
           "coords": [
             25.3791,
@@ -493,7 +534,8 @@
             "de": "Parken Sie Ihr Fahrrad sicher, bevor Sie die umfangreichen Ausstellungen erkunden.",
             "hu": "Zárja le biztonságosan a kerékpárját, mielőtt felfedezné a kiterjedt kiállításokat.",
             "ro": "Parcați-vă bicicleta în siguranță înainte de a explora expozițiile vaste.",
-            "en": "Park your bike securely before exploring the extensive exhibits."
+            "en": "Park your bike securely before exploring the extensive exhibits.",
+            "bg": "Заключете сигурно колелото си преди да разгледате обширните експозиции."
           }
         },
         {
@@ -501,7 +543,8 @@
             "de": "Kirche St. Johannes der Täufer",
             "hu": "Keresztelő Szent János templom",
             "ro": "Biserica Sfântul Ioan Botezătorul",
-            "en": "Church of Saint John the Baptist"
+            "en": "Church of Saint John the Baptist",
+            "bg": "Църква „Св. Йоан Кръстител“"
           },
           "coords": [
             25.3855,
@@ -517,7 +560,8 @@
             "de": "Eine kurze Radtour vom Museum entfernt, genießen Sie die Ruhe dieses historischen Ortes.",
             "hu": "Egy rövid biciklizésre a múzeumtól, élvezze e történelmi hely csendjét.",
             "ro": "La o scurtă plimbare cu bicicleta de muzeu, bucurați-vă de liniștea acestui loc istoric.",
-            "en": "A short bike ride from the museum, enjoy the tranquility of this historic site."
+            "en": "A short bike ride from the museum, enjoy the tranquility of this historic site.",
+            "bg": "Кратко каране с колело от музея, насладете се на спокойствието на този исторически обект."
           }
         },
         {
@@ -525,7 +569,8 @@
             "de": "Fahrt zum Kardschali-Stausee",
             "hu": "Kerékpározás a Kardzsali-víztározóhoz",
             "ro": "Plimbare cu bicicleta la Lacul Kardzhali",
-            "en": "Ride to the Kardzhali Reservoir"
+            "en": "Ride to the Kardzhali Reservoir",
+            "bg": "Карай до язовира „Кърджали“"
           },
           "coords": [
             25.405,
@@ -541,7 +586,8 @@
             "de": "Genießen Sie die malerische Route und die Aussicht auf das Wasser. Ideal für ein Picknick.",
             "hu": "Élvezze a festői útvonalat és a vízre nyíló kilátást. Ideális egy piknikhez.",
             "ro": "Bucurați-vă de traseul pitoresc și de vederea spre apă. Ideal pentru un picnic.",
-            "en": "Enjoy the scenic route and the views of the water. Great for a picnic lunch."
+            "en": "Enjoy the scenic route and the views of the water. Great for a picnic lunch.",
+            "bg": "Насладете се на живописния маршрут и гледките към водата. Отлично място за пикник на обяд."
           }
         },
         {
@@ -549,7 +595,8 @@
             "de": "Kunstgalerie 'Stanka Dimitrova'",
             "hu": "'Sztanka Dimitrova' Művészeti Galéria",
             "ro": "Galeria de Artă 'Stanka Dimitrova'",
-            "en": "Art Gallery 'Stanka Dimitrova'"
+            "en": "Art Gallery 'Stanka Dimitrova'",
+            "bg": "Художествена галерия „Станка Димитрова“"
           },
           "coords": [
             25.3742,
@@ -565,7 +612,8 @@
             "de": "Erkunden Sie nach der Rückkehr in die Stadt die bulgarische Kunst.",
             "hu": "Miután visszatért a városba, fedezze fel a bolgár művészetet.",
             "ro": "Explorați arta bulgară la întoarcerea în oraș.",
-            "en": "Explore Bulgarian art upon your return to the city."
+            "en": "Explore Bulgarian art upon your return to the city.",
+            "bg": "Разгледайте българското изкуство при връщането в града."
           }
         },
         {
@@ -573,7 +621,8 @@
             "de": "Entspannung im Stadtpark",
             "hu": "Pihenés a Városi parkban",
             "ro": "Relaxare în Parcul Orașului",
-            "en": "Relaxation in the City Park"
+            "en": "Relaxation in the City Park",
+            "bg": "Отдих в Градския парк"
           },
           "coords": [
             25.3715,
@@ -589,7 +638,8 @@
             "de": "Beenden Sie Ihre Radtour dort, wo der Tag für die Wanderer begann.",
             "hu": "Fejezze be a kerékpártúrát ott, ahol a gyalogosok napja kezdődött.",
             "ro": "Încheiați turul cu bicicleta acolo unde a început ziua pentru pietoni.",
-            "en": "End your bike tour where the walkers' day began."
+            "en": "End your bike tour where the walkers' day began.",
+            "bg": "Завършете велосипедната си обиколка там, където започна денят на пешеходците."
           }
         }
       ],
@@ -597,7 +647,8 @@
         "de": "Schwingen Sie sich auf Ihr Rad und beginnen Sie den Tag mit einem tiefen Einblick in die Geschichte im Regionalen Museum. Eine kurze Fahrt führt Sie zur ruhigen mittelalterlichen Kirche. Am Mittag unternehmen Sie eine landschaftlich reizvolle Radtour zum Kardschali-Stausee, perfekt für eine Pause am Wasser. Auf dem Rückweg tauchen Sie in der Kunstgalerie in die Kreativität der Region ein. Schließen Sie den Tag mit einer entspannten Fahrt durch den Stadtpark ab und genießen Sie die grüne Lunge der Stadt.",
         "hu": "Pattanjon kerékpárra, és kezdje a napot a történelem mélyére merülve a Regionális Múzeumban. Egy rövid tekerés elvezeti a csendes középkori templomhoz. Délben egy festői biciklitúrát tesz a Kardzsali-víztározóhoz, amely tökéletes egy vízparti pihenőhöz. Visszafelé elmerülhet a régió kreativitásában a Művészeti Galériában. A napot egy pihentető tekeréssel zárja a Városi parkon keresztül, élvezve a város zöld tüdejét.",
         "ro": "Urcați-vă pe bicicletă și începeți ziua cu o incursiune adâncă în istorie la Muzeul Regional. O scurtă pedalare vă duce la biserica medievală liniștită. La amiază, faceți o plimbare pitorească cu bicicleta la Lacul Kardzhali, perfectă pentru o pauză lângă apă. La întoarcere, cufundați-vă în creativitatea regiunii la Galeria de Artă. Încheiați ziua cu o plimbare relaxantă prin Parcul Orașului, bucurându-vă de plămânul verde al orașului.",
-        "en": "Hop on your bike and start the day with a deep dive into history at the Regional Museum. A short ride takes you to the tranquil medieval church. At midday, take a scenic cycle to the Kardzhali Reservoir, perfect for a break by the water. On your way back, immerse yourself in the region's creativity at the Art Gallery. End your day with a relaxing ride through the City Park, enjoying the city's green lung."
+        "en": "Hop on your bike and start the day with a deep dive into history at the Regional Museum. A short ride takes you to the tranquil medieval church. At midday, take a scenic cycle to the Kardzhali Reservoir, perfect for a break by the water. On your way back, immerse yourself in the region's creativity at the Art Gallery. End your day with a relaxing ride through the City Park, enjoying the city's green lung.",
+        "bg": "Скачайте на колелото и започнете деня с дълбоко потапяне в историята в Регионалния музей. Кратко каране ви отвежда до спокойната средновековна църква. В средата на деня направете живописно каране до язовира „Кърджали“, идеален за почивка край водата. По пътя обратно се потопете в регионалната креативност в Художествената галерия. Завършете деня с релаксиращо каране през Градския парк, наслаждавайки се на зеленото бяло на града."
       },
       "gastro_picks": {
         "de": [
@@ -753,6 +804,11 @@
           "Check the condition of the bike paths, especially outside the city center.",
           "A helmet is recommended, particularly for the ride to the reservoir.",
           "Securely lock your bike at all stops."
+        ],
+        "bg": [
+          "Проверете състоянието на велоалеите, особено извън центъра на града.",
+          "Препоръчва се каска, особено за карането до язовира.",
+          "Заключвайте здраво колелото си на всички спирки."
         ]
       },
       "variants": {
@@ -761,7 +817,8 @@
             "de": "Trotz Regen bietet die Radtour durch Kardschali Charme. Starten Sie im Museum und besuchen Sie die Kirche. Die Fahrt zum Stausee erfordert gute Regenbekleidung, belohnt aber mit mystischer Aussicht. Beenden Sie die Tour nach einem Stopp in der Galerie im Stadtpark, während die Tropfen auf das Laub prasseln.",
             "hu": "Az eső ellenére a kardszsali kerékpártúra különleges élmény. Kezdjen a múzeumban, majd nézze meg a templomot. A tározóhoz vezető út jó esőfelszerelést igényel, de misztikus látványt nyújt. A galéria után a városi parkban zárja a kört, hallgatva a leveleken kopogó esőt.",
             "ro": "În ciuda ploii, turul cu bicicleta prin Kardjali are farmecul său. Începeți la muzeu și vizitați biserica. Drumul spre baraj necesită echipament de ploaie, dar oferă peisaje mistice. Încheiați turul în parcul orașului, după o oprire la galerie, ascultând ploaia pe frunze.",
-            "en": "Despite the rain, cycling through Kardzhali has its own charm. Start at the museum and visit the church. The ride to the reservoir requires good waterproof gear but rewards you with mystical views. After the gallery, finish your loop in the city park as rain taps on the leaves."
+            "en": "Despite the rain, cycling through Kardzhali has its own charm. Start at the museum and visit the church. The ride to the reservoir requires good waterproof gear but rewards you with mystical views. After the gallery, finish your loop in the city park as rain taps on the leaves.",
+            "bg": "Въпреки дъжда, карането из Кърджали има своя чар. Започнете от музея и посетете църквата. Пътуването до язовира изисква добра водоустойчива екипировка, но ви възнаграждава с мистични гледки. След галерията завършете обиколката си в градския парк, докато дъждът потапя листата."
           },
           "stops": [
             {
@@ -770,7 +827,8 @@
                 "de": "Sicherer Fahrradabstellplatz direkt am Museumseingang.",
                 "hu": "Biztonságos kerékpártároló közvetlenül a múzeum bejáratánál.",
                 "ro": "Parcare sigură pentru biciclete chiar la intrarea în muzeu.",
-                "en": "Secure bike parking available right at the museum entrance."
+                "en": "Secure bike parking available right at the museum entrance.",
+                "bg": "Осигурен сигурен паркинг за велосипеди точно на входа на музея."
               }
             },
             {
@@ -779,7 +837,8 @@
                 "de": "Die kurzen Wege minimieren die Zeit im starken Regen.",
                 "hu": "A rövid távolságok minimalizálják az esőben töltött időt.",
                 "ro": "Distanțele scurte minimizează expunerea la ploaie.",
-                "en": "Short distances help minimize time spent in heavy rain."
+                "en": "Short distances help minimize time spent in heavy rain.",
+                "bg": "Късите разстояния помагат да се минимизира времето на престой под силния дъжд."
               }
             },
             {
@@ -788,7 +847,8 @@
                 "de": "Vorsicht auf dem Asphalt, der bei Nässe rutschig wird.",
                 "hu": "Vigyázzon az aszfalton, amely nedvesen csúszóssá válik.",
                 "ro": "Atenție pe asfalt, devine foarte alunecos când este ud.",
-                "en": "Be careful on the asphalt; it becomes slippery when wet."
+                "en": "Be careful on the asphalt; it becomes slippery when wet.",
+                "bg": "Внимавайте на асфалта; става хлъзгав, когато е мокър."
               }
             },
             {
@@ -797,7 +857,8 @@
                 "de": "Nutzen Sie den Stopp, um die Kleidung kurz zu trocknen.",
                 "hu": "Használja ki a megállót a ruházat rövid szárítására.",
                 "ro": "Folosiți această oprire pentru a vă usca puțin hainele.",
-                "en": "Use this stop to briefly dry off your gear."
+                "en": "Use this stop to briefly dry off your gear.",
+                "bg": "Използвайте това спиране, за да подсушите екипировката си за кратко."
               }
             },
             {
@@ -806,7 +867,8 @@
                 "de": "Unter den Pavillons findet man Schutz vor dem Schauer.",
                 "hu": "A pavilonok alatt menedéket találhat a zápor elől.",
                 "ro": "Găsiți adăpost sub pavilioane în caz de aversă.",
-                "en": "Find shelter under the pavilions during rain showers."
+                "en": "Find shelter under the pavilions during rain showers.",
+                "bg": "При дъжд се приютете под навесите."
               }
             }
           ],
@@ -834,6 +896,12 @@
               "Avoid puddles as they can hide deep potholes.",
               "Mudguards are essential in this type of weather.",
               "Wear a neon rain jacket for better visibility to drivers."
+            ],
+            "bg": [
+              "Проверете спирачките; те реагират по-бавно на мокро.",
+              "Избягвайте локвите — могат да прикриват дълбоки дупки.",
+              "Калниците са незаменими при такова време.",
+              "Носете неонова дъждобранка за по-добра видимост за шофьорите."
             ]
           }
         },
@@ -842,7 +910,8 @@
             "de": "Eine winterliche Radtour erfordert warme Handschuhe. Beginnen Sie im Museum und fahren Sie zur Johanneskirche. Die Route zum Stausee bietet klare Sicht auf die Staumauer. Nach der Kunstgalerie endet die Tour im Stadtpark, bevor die Kälte am späten Nachmittag intensiver wird.",
             "hu": "A téli kerékpártúrához meleg kesztyű szükséges. Kezdjen a múzeumban, majd tekerjen a Szent János-templomhoz. A tározóhoz vezető úton tiszta kilátás nyílik a gátra. A galéria után a parkban ér véget a túra, mielőtt a késő délutáni fagy beállna.",
             "ro": "Un tur cu bicicleta iarna necesită mănuși groase. Începeți la muzeu și pedalați spre biserică. Traseul spre baraj oferă o vedere clară asupra digului. După galerie, turul se încheie în parc înainte ca gerul de după-amiază să se intensifice.",
-            "en": "A winter bike tour requires warm gloves. Start at the museum and pedal to the Church of Saint John. The route to the reservoir offers clear views of the dam. After the art gallery, the tour ends in the park before the late afternoon chill sets in."
+            "en": "A winter bike tour requires warm gloves. Start at the museum and pedal to the Church of Saint John. The route to the reservoir offers clear views of the dam. After the art gallery, the tour ends in the park before the late afternoon chill sets in.",
+            "bg": "Зимен велотур изисква топли ръкавици. Започнете от музея и педалирайте до църквата „Свети Йоан“. Маршрутът към язовира предлага ясни гледки към стената. След художествената галерия турът завършва в парка преди да настъпи късното следобедно посърване."
           },
           "stops": [
             {
@@ -851,7 +920,8 @@
                 "de": "Starten Sie hier, um die erste Kälte im Inneren zu umgehen.",
                 "hu": "Kezdjen itt, hogy elkerülje az első reggeli fagyokat.",
                 "ro": "Începeți aici pentru a evita frigul de dimineață.",
-                "en": "Start here to avoid the initial morning chill indoors."
+                "en": "Start here to avoid the initial morning chill indoors.",
+                "bg": "Започнете тук, за да избегнете сутрешния студ на открито."
               }
             },
             {
@@ -860,7 +930,8 @@
                 "de": "Kurzer Stopp, um die Finger wieder aufzuwärmen.",
                 "hu": "Rövid megálló, hogy felmelegítse az ujjait.",
                 "ro": "Scurtă oprire pentru a vă reîncălzi degetele.",
-                "en": "A short stop to warm up your fingers."
+                "en": "A short stop to warm up your fingers.",
+                "bg": "Кратка спирка за затопляне на пръстите."
               }
             },
             {
@@ -869,7 +940,8 @@
                 "de": "Die kalte Brise am Wasser ist im Winter sehr erfrischend.",
                 "hu": "A vízparti hideg szellő télen nagyon frissítő.",
                 "ro": "Briza rece de lângă apă este foarte revigorantă iarna.",
-                "en": "The cold breeze by the water is very refreshing in winter."
+                "en": "The cold breeze by the water is very refreshing in winter.",
+                "bg": "Студеният ветрец край водата е много освежаващ през зимата."
               }
             },
             {
@@ -878,7 +950,8 @@
                 "de": "Ein idealer Zwischenstopp zum Aufwärmen am Nachmittag.",
                 "hu": "Ideális pihenőhely a délutáni felmelegedéshez.",
                 "ro": "O oprire ideală pentru a vă încălzi după-amiaza.",
-                "en": "An ideal pit stop to warm up in the afternoon."
+                "en": "An ideal pit stop to warm up in the afternoon.",
+                "bg": "Идеално място за стоп, за да се затоплите следобед."
               }
             },
             {
@@ -887,7 +960,8 @@
                 "de": "Beenden Sie die Fahrt, bevor die Sonne tief steht.",
                 "hu": "Fejezze be a túrát, mielőtt a nap túl alacsonyan járna.",
                 "ro": "Încheiați plimbarea înainte ca soarele să apună.",
-                "en": "Finish your ride before the sun gets too low."
+                "en": "Finish your ride before the sun gets too low.",
+                "bg": "Приключете карането преди слънцето да падне твърде ниско."
               }
             }
           ],
@@ -915,6 +989,12 @@
               "Ensure your bike lights are fully functional for the early dark.",
               "Paths near the reservoir can be icy.",
               "Avoid long stationary breaks to prevent getting too cold."
+            ],
+            "bg": [
+              "Многослойното обличане предпазва от студения вятър при каране.",
+              "Уверете се, че велосипедните светлини работят напълно за ранната тъмнина.",
+              "Пътеките около язовира могат да бъдат заледени.",
+              "Избягвайте дълги статични паузи, за да не изстинете прекалено."
             ]
           }
         }
@@ -933,7 +1013,8 @@
             "de": "Perperikon",
             "hu": "Perperikon",
             "ro": "Perperikon",
-            "en": "Perperikon"
+            "en": "Perperikon",
+            "bg": "Перперикон"
           },
           "coords": [
             25.467,
@@ -949,7 +1030,8 @@
             "de": "Tragen Sie festes Schuhwerk; das Gelände der antiken thrakischen Stadt ist weitläufig und uneben.",
             "hu": "Viseljen erős cipőt; az ókori trák város területe kiterjedt és egyenetlen.",
             "ro": "Purtați încălțăminte rezistentă; situl antic trac este vast și denivelat.",
-            "en": "Wear sturdy shoes; the terrain of the ancient Thracian city is vast and uneven."
+            "en": "Wear sturdy shoes; the terrain of the ancient Thracian city is vast and uneven.",
+            "bg": "Носете здрави обувки; теренът на древния тракийски град е обширен и неравен."
           }
         },
         {
@@ -957,7 +1039,8 @@
             "de": "Steinerne Pilze",
             "hu": "Kőgombák",
             "ro": "Ciupercile de Piatră",
-            "en": "The Stone Mushrooms"
+            "en": "The Stone Mushrooms",
+            "bg": "Камъшните гъби"
           },
           "coords": [
             25.438,
@@ -973,7 +1056,8 @@
             "de": "Ein kurzer Stopp für ein einzigartiges Fotomotiv. Am besten bei Morgen- oder Abendlicht.",
             "hu": "Egy gyors megálló egy egyedi fotó kedvéért. A legjobb reggeli vagy esti fényben.",
             "ro": "O oprire scurtă pentru o fotografie unică. Cel mai bun moment este la lumina dimineții sau a serii.",
-            "en": "A quick stop for a unique photo opportunity. Best in the morning or evening light."
+            "en": "A quick stop for a unique photo opportunity. Best in the morning or evening light.",
+            "bg": "Бърза спирка за уникална снимка. Най-добре на сутрешна или вечерна светлина."
           }
         },
         {
@@ -981,7 +1065,8 @@
             "de": "Steinerne Hochzeit",
             "hu": "Kőesküvő",
             "ro": "Nunta de Piatră",
-            "en": "The Stone Wedding"
+            "en": "The Stone Wedding",
+            "bg": "Камъната сватба"
           },
           "coords": [
             25.421,
@@ -997,7 +1082,8 @@
             "de": "Ein kurzer Spaziergang vom Parkplatz führt Sie zu diesen faszinierenden Felsformationen.",
             "hu": "Egy rövid séta a parkolóból vezet ezekhez a lenyűgöző sziklaalakzatokhoz.",
             "ro": "O scurtă plimbare de la parcare vă duce la aceste formațiuni stâncoase fascinante.",
-            "en": "A short walk from the parking area leads you to these fascinating rock formations."
+            "en": "A short walk from the parking area leads you to these fascinating rock formations.",
+            "bg": "Кратка разходка от паркинга ви отвежда до тези впечатляващи скални форми."
           }
         },
         {
@@ -1005,7 +1091,8 @@
             "de": "Mittagessen in Kardschali",
             "hu": "Ebéd Kardzsaliban",
             "ro": "Prânz în Kardzhali",
-            "en": "Lunch in Kardzhali"
+            "en": "Lunch in Kardzhali",
+            "bg": "Обяд в Кърджали"
           },
           "coords": [
             25.378,
@@ -1021,7 +1108,8 @@
             "de": "Parken Sie im Zentrum und genießen Sie eine wohlverdiente Pause mit lokaler Küche.",
             "hu": "Parkoljon le a központban, és élvezze a jól megérdemelt pihenőt a helyi konyhával.",
             "ro": "Parcați în centru și bucurați-vă de o pauză binemeritată cu bucătărie locală.",
-            "en": "Park in the center and enjoy a well-deserved break with local cuisine."
+            "en": "Park in the center and enjoy a well-deserved break with local cuisine.",
+            "bg": "Паркирайте в центъра и се насладете на заслужена почивка с местна кухня."
           }
         },
         {
@@ -1029,7 +1117,8 @@
             "de": "Regionales Historisches Museum (Cluster)",
             "hu": "Regionális Történeti Múzeum (Klaszter)",
             "ro": "Muzeul Regional de Istorie (Cluster)",
-            "en": "Regional Historical Museum (Cluster)"
+            "en": "Regional Historical Museum (Cluster)",
+            "bg": "Регионален исторически музей (Клъстер)"
           },
           "coords": [
             25.3791,
@@ -1045,7 +1134,8 @@
             "de": "Nach dem Mittagessen tauchen Sie zu Fuß in die Geschichte der Stadt ein.",
             "hu": "Ebéd után gyalogosan merüljön el a város történelmében.",
             "ro": "După prânz, scufundați-vă în istoria orașului pe jos.",
-            "en": "After lunch, dive into the city's history on foot."
+            "en": "After lunch, dive into the city's history on foot.",
+            "bg": "След обяд се потопете в историята на града пеша."
           }
         },
         {
@@ -1053,7 +1143,8 @@
             "de": "Blick auf den Kardschali-Stausee",
             "hu": "Kilátás a Kardzsali-víztározóra",
             "ro": "Vedere spre Lacul Kardzhali",
-            "en": "View of the Kardzhali Reservoir"
+            "en": "View of the Kardzhali Reservoir",
+            "bg": "Гледка към язовир Кърджали"
           },
           "coords": [
             25.39,
@@ -1069,7 +1160,8 @@
             "de": "Beenden Sie den Tag mit einem Panoramablick auf den Sonnenuntergang über dem Wasser.",
             "hu": "Zárja a napot egy panorámás kilátással a naplementére a víz felett.",
             "ro": "Încheiați ziua cu o vedere panoramică la apusul soarelui peste apă.",
-            "en": "End the day with a panoramic sunset view over the water."
+            "en": "End the day with a panoramic sunset view over the water.",
+            "bg": "Завършете деня с панорамна залезна гледка над водата."
           }
         }
       ],
@@ -1077,7 +1169,8 @@
         "de": "Ihr Tag beginnt mit einer Fahrt in die Vergangenheit nach Perperikon, der majestätischen thrakischen Stadt. Verbringen Sie den Morgen damit, die alten Ruinen zu erkunden. Gegen Mittag fahren Sie zu den Naturwundern der Steinernen Pilze und der Steinernen Hochzeit, einzigartigen Felsformationen, die von der Natur geformt wurden. Am Nachmittag kehren Sie nach Kardschali zurück, um im Zentrum zu Mittag zu essen und das reichhaltige Historische Museum zu besuchen. Der Tag endet mit einer kurzen Fahrt zu einem Aussichtspunkt, um den atemberaubenden Sonnenuntergang über dem Kardschali-Stausee zu erleben.",
         "hu": "A nap egy utazással kezdődik a múltba, Perperikonba, a fenséges trák városba. Töltse a délelőttöt az ősi romok felfedezésével. Dél körül autózzon el a Kőgombák és a Kőesküvő természeti csodáihoz, a természet által formált egyedi sziklaalakzatokhoz. Délután térjen vissza Kardzsaliba egy központi ebédre és a gazdag Történeti Múzeum meglátogatására. A nap egy rövid autózással zárul egy kilátóponthoz, hogy szemtanúja legyen a lélegzetelállító naplementének a Kardzsali-víztározó felett.",
         "ro": "Ziua dvs. începe cu o călătorie înapoi în timp la Perperikon, majestuosul oraș trac. Petreceți dimineața explorând ruinele antice. Spre amiază, conduceți spre minunile naturale ale Ciupercilor de Piatră și ale Nunții de Piatră, formațiuni stâncoase unice sculptate de natură. După-amiaza vă întoarceți în Kardzhali pentru prânz în centru și o vizită la bogatul Muzeu de Istorie. Ziua se încheie cu o scurtă călătorie cu mașina la un punct de belvedere pentru a asista la apusul uimitor peste Lacul Kardzhali.",
-        "en": "Your day starts with a drive back in time to Perperikon, the majestic Thracian city. Spend the morning exploring the ancient ruins. Around noon, drive to the natural wonders of the Stone Mushrooms and the Stone Wedding, unique rock formations sculpted by nature. In the afternoon, return to Kardzhali for lunch in the center and a visit to the rich Historical Museum. The day concludes with a short drive to a viewpoint to witness the stunning sunset over the Kardzhali Reservoir."
+        "en": "Your day starts with a drive back in time to Perperikon, the majestic Thracian city. Spend the morning exploring the ancient ruins. Around noon, drive to the natural wonders of the Stone Mushrooms and the Stone Wedding, unique rock formations sculpted by nature. In the afternoon, return to Kardzhali for lunch in the center and a visit to the rich Historical Museum. The day concludes with a short drive to a viewpoint to witness the stunning sunset over the Kardzhali Reservoir.",
+        "bg": "Денят ви започва с пътуване назад във времето до Перперикон, величествения тракийски град. Прекарайте сутринта в разглеждане на древните руини. Около обяд се отправете към природните чудеса Каменните гъби и Каменната сватба — уникални скални образувания, оформени от природата. Следобед се върнете в Кърджали за обяд в центъра и посещение на богатия Исторически музей. Денят завършва с кратко каране до панорамна гледка, откъдето да наблюдавате зашеметяващия залез над язовира Кърджали."
       },
       "gastro_picks": {
         "de": [
@@ -1237,6 +1330,12 @@
           "Parking is available near the natural sights but might be limited.",
           "Roads to the sights outside the city can be narrow; drive carefully.",
           "Combine the visits to the Stone Mushrooms and Stone Wedding as they are relatively close to each other."
+        ],
+        "bg": [
+          "Тръгнете рано, за да избегнете тълпите в Перперикон.",
+          "Паркиране има близо до природните забележителности, но може да е ограничено.",
+          "Пътищата към забележителностите извън града могат да са тесни; карайте внимателно.",
+          "Комбинирайте посещенията на Каменните гъби и Каменната сватба — относително близо са една до друга."
         ]
       },
       "variants": {
@@ -1245,7 +1344,8 @@
             "de": "Die Fahrt nach Perperikon ist bei Regen dramatisch. Die Felsen glänzen feucht, erfordern aber Vorsicht. Die Pilzfelsen und die Steinerne Hochzeit wirken im Regen noch mystischer. Nach einem warmen Mittagessen in Kardschali bietet das Regionalmuseum den perfekten trockenen Abschluss, bevor Sie den Blick auf den Stausee aus dem Auto genießen.",
             "hu": "Az út Perperikonba esőben drámai látványt nyújt. A sziklák nedvesen csillognak, de óvatosságot igényelnek. A Gombasziklák és a Kőmenyasszony esőben még misztikusabbak. Egy meleg kardszsali ebéd után a múzeum tökéletes száraz program, végül az autóból csodálhatja meg a tározót.",
             "ro": "Drumul spre Perperikon este dramatic pe ploaie. Stâncile lucesc umede, dar necesită atenție. Ciupercile de Piatră și Nunta de Piatră par și mai mistice. După un prânz cald în Kardjali, muzeul oferă finalul perfect, urmat de o priveliște spre baraj direct din mașină.",
-            "en": "The drive to Perperikon is dramatic in the rain. The rocks glisten when wet but require caution. The Stone Mushrooms and Stone Wedding look even more mystical. After a warm lunch in Kardzhali, the museum is the perfect dry indoor activity, ending with a reservoir view from your car."
+            "en": "The drive to Perperikon is dramatic in the rain. The rocks glisten when wet but require caution. The Stone Mushrooms and Stone Wedding look even more mystical. After a warm lunch in Kardzhali, the museum is the perfect dry indoor activity, ending with a reservoir view from your car.",
+            "bg": "Пътуването до Перперикон в дъжд е драматично. Скали блестят, когато са мокри, но изискват предпазливост. Каменните гъби и Каменната сватба изглеждат още по-мистични. След топъл обяд в Кърджали музеят е перфектната суха вътрешна активност, а денят завършва с гледка към язовира от колата ви."
           },
           "stops": [
             {
@@ -1254,7 +1354,8 @@
                 "de": "Tragen Sie Wanderschuhe mit gutem Profil auf den nassen Felsen.",
                 "hu": "Viseljen jó tapadású túrabakancsot a nedves sziklákon.",
                 "ro": "Purtați bocanci cu aderență bună pe stâncile umede.",
-                "en": "Wear hiking boots with good grip on the wet rocks."
+                "en": "Wear hiking boots with good grip on the wet rocks.",
+                "bg": "Носете туристически обувки с добро сцепление за мокрите скали."
               }
             },
             {
@@ -1263,7 +1364,8 @@
                 "de": "Kurzer Sprint vom Parkplatz zum Fotopunkt bei Regen.",
                 "hu": "Rövid futás a parkolótól a fotópontig esőben.",
                 "ro": "Scurtă fugă de la parcare la punctul de observație.",
-                "en": "Quick dash from the parking lot to the photo spot in the rain."
+                "en": "Quick dash from the parking lot to the photo spot in the rain.",
+                "bg": "Бързо спринтиране от паркинга до мястото за снимки под дъжда."
               }
             },
             {
@@ -1272,7 +1374,8 @@
                 "de": "Die Farben der Steine sind bei Nässe besonders kräftig.",
                 "hu": "A kövek színei nedvesen különösen intenzívek.",
                 "ro": "Culorile pietrei sunt mult mai intense când este ud.",
-                "en": "The stone colors are especially vivid when wet."
+                "en": "The stone colors are especially vivid when wet.",
+                "bg": "Каменните цветове са особено наситени, когато са мокри."
               }
             },
             {
@@ -1281,7 +1384,8 @@
                 "de": "Parken Sie nah am Eingang, um trocken ins Restaurant zu kommen.",
                 "hu": "Parkoljon közel a bejárathoz, hogy szárazon jusson be.",
                 "ro": "Parcați aproape de intrare pentru a rămâne uscat.",
-                "en": "Park close to the entrance to stay dry heading into lunch."
+                "en": "Park close to the entrance to stay dry heading into lunch.",
+                "bg": "Паркирайте близо до входа, за да останете сухи по пътя към обяда."
               }
             },
             {
@@ -1290,7 +1394,8 @@
                 "de": "Ein idealer Ort, um das Auto für eine längere Zeit zu parken.",
                 "hu": "Ideális hely az autó hosszabb idejű leállítására.",
                 "ro": "Loc ideal pentru a lăsa mașina pe o durată mai lungă.",
-                "en": "An ideal spot to park your car for an extended indoor visit."
+                "en": "An ideal spot to park your car for an extended indoor visit.",
+                "bg": "Идеално място за паркиране при по-дълго посещение на закрито."
               }
             },
             {
@@ -1299,7 +1404,8 @@
                 "de": "Genießen Sie das Panorama direkt aus dem trockenen Auto.",
                 "hu": "Élvezze a panorámát közvetlenül a száraz autóból.",
                 "ro": "Bucurați-vă de panoramă direct din mașina caldă.",
-                "en": "Enjoy the panoramic view directly from your dry car."
+                "en": "Enjoy the panoramic view directly from your dry car.",
+                "bg": "Насладете се на панорамата директно от сухата си кола."
               }
             }
           ],
@@ -1327,6 +1433,12 @@
               "Watch out for potential rockfalls on steep slopes.",
               "Keep a flashlight handy for dark, heavy rain showers.",
               "Use the windshield defroster to prevent fogging inside."
+            ],
+            "bg": [
+              "Селските пътища около Перперикон могат да са хлъзгави при дъжд.",
+              "Внимавайте за възможни падания на камъни по стръмните склонове.",
+              "Дръжте фенерче под ръка при тъмен, силен дъжд.",
+              "Използвайте дефрогера на предното стъкло, за да предотвратите замъгляване вътре."
             ]
           }
         },
@@ -1335,7 +1447,8 @@
             "de": "Wintersonne beleuchtet Perperikon. Die kalte Luft macht den Aufstieg erfrischend. Besuchen Sie die Pilzfelsen und die Steinerne Hochzeit, bevor Sie sich beim Mittagessen in Kardschali aufwärmen. Das Museum bietet Schutz vor der Kälte am Nachmittag. Den Tag krönt ein Blick auf den Stausee im sanften Licht der frühen Dämmerung.",
             "hu": "Téli napsütés világítja meg Perperikont. A hideg levegő frissítővé teszi a felfelé utat. Nézze meg a Gombasziklákat és a Kőmenyasszonyt, mielőtt felmelegedne a kardszsali ebéden. A múzeum védelmet nyújt a délutáni fagy elől. A napot a tározóra nyíló kilátás koronázza meg a korai alkonyatban.",
             "ro": "Soarele de iarnă luminează Perperikon. Aerul rece face urcușul revigorant. Vizitați Ciupercile de Piatră și Nunta de Piatră înainte de prânzul cald. Muzeul oferă adăpost împotriva frigului de după-amiază. Ziua se încheie cu o vedere spre baraj în lumina blândă a amurgului.",
-            "en": "Winter sun illuminates Perperikon. The cold air makes the ascent refreshing. Visit the Stone Mushrooms and Stone Wedding before warming up during lunch. The museum offers shelter from the afternoon chill. The day is crowned by a view of the reservoir in the soft light of early dusk."
+            "en": "Winter sun illuminates Perperikon. The cold air makes the ascent refreshing. Visit the Stone Mushrooms and Stone Wedding before warming up during lunch. The museum offers shelter from the afternoon chill. The day is crowned by a view of the reservoir in the soft light of early dusk.",
+            "bg": "Зимното слънце осветява Перперикон. Студеният въздух прави изкачването освежаващо. Посетете Каменните гъби и Каменната сватба преди да се стоплите по време на обяд. Музеят предлага убежище от следобедния студ. Денят е увенчан с гледка към язовира в меката светлина на ранния здрач."
           },
           "stops": [
             {
@@ -1344,7 +1457,8 @@
                 "de": "Vorsicht vor Glatteis auf den antiken Steinstufen.",
                 "hu": "Vigyázzon a jegesedésre az antik kőlépcsőkön.",
                 "ro": "Atenție la porțiunile înghețate de pe treptele antice.",
-                "en": "Watch out for black ice on the ancient stone steps."
+                "en": "Watch out for black ice on the ancient stone steps.",
+                "bg": "Внимавайте за черен лед по древните каменни стъпала."
               }
             },
             {
@@ -1353,7 +1467,8 @@
                 "de": "Die Felsen wirken im weißen Winterlicht besonders hell.",
                 "hu": "A sziklák a fehér téli fényben különösen világosnak tűnnek.",
                 "ro": "Stâncile par mult mai luminoase în lumina albă de iarnă.",
-                "en": "The rocks appear particularly bright in the white winter light."
+                "en": "The rocks appear particularly bright in the white winter light.",
+                "bg": "Скалите изглеждат особено ярки в бялата зимна светлина."
               }
             },
             {
@@ -1362,7 +1477,8 @@
                 "de": "Ein schneller Stopp, da der Wind hier ungeschützt weht.",
                 "hu": "Gyors megálló, mert itt a szél akadálytalanul fúj.",
                 "ro": "O oprire scurtă, deoarece vântul suflă puternic aici.",
-                "en": "A quick stop as the wind blows unobstructed here."
+                "en": "A quick stop as the wind blows unobstructed here.",
+                "bg": "Кратка спирка, тъй като тук вятърът духа необезпокоявано."
               }
             },
             {
@@ -1371,7 +1487,8 @@
                 "de": "Genießen Sie die gemütliche Wärme eines lokalen Gasthofs.",
                 "hu": "Élvezze egy helyi vendéglő barátságos melegét.",
                 "ro": "Bucurați-vă de căldura primitoare a unui local local.",
-                "en": "Enjoy the cozy warmth of a local tavern."
+                "en": "Enjoy the cozy warmth of a local tavern.",
+                "bg": "Насладете се на уютната топлина на местна механа."
               }
             },
             {
@@ -1380,7 +1497,8 @@
                 "de": "Die Exponate lassen sich am besten im Warmen studieren.",
                 "hu": "A kiállítási tárgyakat legjobb a melegben tanulmányozni.",
                 "ro": "Exponatele pot fi studiate cel mai bine la căldură.",
-                "en": "The exhibits are best studied in the warmth of the museum."
+                "en": "The exhibits are best studied in the warmth of the museum.",
+                "bg": "Експонатите са най-добре разгледани в топлината на музея."
               }
             },
             {
@@ -1389,7 +1507,8 @@
                 "de": "Kommen Sie vor 16:30 Uhr an, um das letzte Tageslicht zu nutzen.",
                 "hu": "Érkezzen 16:30 előtt, hogy lássa az utolsó fényeket.",
                 "ro": "Ajungeți înainte de 16:30 pentru a vedea ultimele raze.",
-                "en": "Arrive before 16:30 to catch the last of the daylight."
+                "en": "Arrive before 16:30 to catch the last of the daylight.",
+                "bg": "Пристигнете преди 16:30, за да уловите последната дневна светлина."
               }
             }
           ],
@@ -1417,6 +1536,12 @@
               "Anti-freeze windshield washer fluid is a must.",
               "Drive carefully through shaded forest sections.",
               "Mountain roads can become tricky during sudden snowfall."
+            ],
+            "bg": [
+              "Проверете налягането в гумите, когато температурите падат.",
+              "Антифриз в течността за чистачки е задължителен.",
+              "Карайте внимателно през засенчените горски участъци.",
+              "Планинските пътища могат да станат трудни при внезапен снеговалеж."
             ]
           }
         }
@@ -1435,7 +1560,8 @@
             "de": "Fahrt ins Stadtzentrum (Cluster A)",
             "hu": "Utazás a városközpontba (A klaszter)",
             "ro": "Călătorie spre centrul orașului (Cluster A)",
-            "en": "Trip to City Center (Cluster A)"
+            "en": "Trip to City Center (Cluster A)",
+            "bg": "Екскурзия до центъра на града (Клъстер A)"
           },
           "coords": [
             25.378,
@@ -1451,7 +1577,8 @@
             "de": "Nehmen Sie einen Bus zum zentralen Platz, um Ihren Erkundungstag zu beginnen.",
             "hu": "Menjen busszal a központi térre, hogy elkezdje a felfedező napot.",
             "ro": "Luați un autobuz până în piața centrală pentru a începe ziua de explorare.",
-            "en": "Take a bus to the central square to start your day of exploration."
+            "en": "Take a bus to the central square to start your day of exploration.",
+            "bg": "Хванете автобус до централния площад, за да започнете деня на разглеждане."
           }
         },
         {
@@ -1459,7 +1586,8 @@
             "de": "Regionales Historisches Museum",
             "hu": "Regionális Történeti Múzeum",
             "ro": "Muzeul Regional de Istorie",
-            "en": "Regional Historical Museum"
+            "en": "Regional Historical Museum",
+            "bg": "Регионален исторически музей"
           },
           "coords": [
             25.3791,
@@ -1475,7 +1603,8 @@
             "de": "Das Museum ist nur einen kurzen Spaziergang von der Bushaltestelle entfernt.",
             "hu": "A múzeum csak egy rövid sétára van a buszmegállótól.",
             "ro": "Muzeul este la o scurtă plimbare de stația de autobuz.",
-            "en": "The museum is a short walk from the bus stop."
+            "en": "The museum is a short walk from the bus stop.",
+            "bg": "Музеят е на кратка разходка от автобусната спирка."
           }
         },
         {
@@ -1483,7 +1612,8 @@
             "de": "Kunstgalerie 'Stanka Dimitrova'",
             "hu": "'Sztanka Dimitrova' Művészeti Galéria",
             "ro": "Galeria de Artă 'Stanka Dimitrova'",
-            "en": "Art Gallery 'Stanka Dimitrova'"
+            "en": "Art Gallery 'Stanka Dimitrova'",
+            "bg": "Художествена галерия „Станка Димитрова“"
           },
           "coords": [
             25.3742,
@@ -1499,7 +1629,8 @@
             "de": "Spazieren Sie durch das Stadtzentrum zur nächsten kulturellen Attraktion.",
             "hu": "Sétáljon át a városközponton a következő kulturális látnivalóhoz.",
             "ro": "Plimbați-vă prin centrul orașului până la următoarea atracție culturală.",
-            "en": "Stroll through the city center to the next cultural attraction."
+            "en": "Stroll through the city center to the next cultural attraction.",
+            "bg": "Разходете се из центъра към следващата културна забележителност."
           }
         },
         {
@@ -1507,7 +1638,8 @@
             "de": "Fahrt zum Kardschali-Stausee (Cluster B)",
             "hu": "Utazás a Kardzsali-víztározóhoz (B klaszter)",
             "ro": "Călătorie la Lacul Kardzhali (Cluster B)",
-            "en": "Trip to Kardzhali Reservoir (Cluster B)"
+            "en": "Trip to Kardzhali Reservoir (Cluster B)",
+            "bg": "Екскурзия до язовир Кърджали (Клъстер B)"
           },
           "coords": [
             25.395,
@@ -1523,7 +1655,8 @@
             "de": "Nehmen Sie einen lokalen Bus, der zum Stausee fährt. Genießen Sie die Aussicht und ein Mittagessen am Wasser.",
             "hu": "Menjen egy helyi busszal, amely a víztározóhoz megy. Élvezze a kilátást és egy ebédet a vízparton.",
             "ro": "Luați un autobuz local care merge spre lac. Bucurați-vă de priveliște și de un prânz lângă apă.",
-            "en": "Take a local bus heading towards the reservoir. Enjoy the views and have lunch by the water."
+            "en": "Take a local bus heading towards the reservoir. Enjoy the views and have lunch by the water.",
+            "bg": "Вземете местен автобус към язовира. Насладете се на гледките и обядвайте до водата."
           }
         },
         {
@@ -1531,7 +1664,8 @@
             "de": "Spaziergang im Stadtpark",
             "hu": "Séta a Városi parkban",
             "ro": "Plimbare în Parcul Orașului",
-            "en": "Walk in the City Park"
+            "en": "Walk in the City Park",
+            "bg": "Разходка в градския парк"
           },
           "coords": [
             25.3715,
@@ -1547,7 +1681,8 @@
             "de": "Nehmen Sie einen Bus zurück ins Zentrum und beenden Sie den Tag mit einem entspannenden Spaziergang.",
             "hu": "Menjen busszal vissza a központba, és fejezze be a napot egy pihentető sétával.",
             "ro": "Luați un autobuz înapoi în centru și încheiați ziua cu o plimbare relaxantă.",
-            "en": "Take a bus back to the center and finish the day with a relaxing walk."
+            "en": "Take a bus back to the center and finish the day with a relaxing walk.",
+            "bg": "Върнете се с автобус в центъра и завършете деня с релаксираща разходка."
           }
         }
       ],
@@ -1555,7 +1690,8 @@
         "de": "Ihr Tag beginnt mit einer Busfahrt ins Herz von Kardschali. Sie erkunden zu Fuß das historische Zentrum und besuchen das Museum und die Kunstgalerie. Gegen Mittag bringt Sie ein weiterer Bus zum malerischen Kardschali-Stausee, wo Sie die Natur genießen und zu Mittag essen können. Am Nachmittag fahren Sie mit dem Bus zurück in die Stadt, um den Tag mit einem gemütlichen Spaziergang durch den grünen Stadtpark ausklingen zu lassen, ein perfekter Abschluss für einen Tag voller Kultur und Natur.",
         "hu": "A nap egy buszúttal kezdődik Kardzsali szívébe. Gyalogosan fedezi fel a történelmi központot, meglátogatja a múzeumot és a művészeti galériát. Dél körül egy másik busz elviszi a festői Kardzsali-víztározóhoz, ahol élvezheti a természetet és megebédelhet. Délután busszal tér vissza a városba, hogy a napot egy kellemes sétával zárja a zöld Városi parkban, tökéletes befejezése egy kultúrával és természettel teli napnak.",
         "ro": "Ziua dvs. începe cu o călătorie cu autobuzul în inima orașului Kardzhali. Explorați pe jos centrul istoric, vizitând muzeul și galeria de artă. Spre prânz, un alt autobuz vă duce la pitorescul Lac Kardzhali, unde vă puteți bucura de natură și puteți lua prânzul. După-amiaza, vă întoarceți cu autobuzul în oraș pentru a încheia ziua cu o plimbare agale prin Parcul Orașului, o încheiere perfectă a unei zile pline de cultură și natură.",
-        "en": "Your day starts with a bus ride into the heart of Kardzhali. You'll explore the historic center on foot, visiting the museum and art gallery. Around noon, another bus takes you to the scenic Kardzhali Reservoir, where you can enjoy nature and have lunch. In the afternoon, you'll bus back to the city to end your day with a leisurely stroll through the verdant City Park, a perfect conclusion to a day of culture and nature."
+        "en": "Your day starts with a bus ride into the heart of Kardzhali. You'll explore the historic center on foot, visiting the museum and art gallery. Around noon, another bus takes you to the scenic Kardzhali Reservoir, where you can enjoy nature and have lunch. In the afternoon, you'll bus back to the city to end your day with a leisurely stroll through the verdant City Park, a perfect conclusion to a day of culture and nature.",
+        "bg": "Денят ви започва с автобусна обиколка до сърцето на Кърджали. Ще разгледате историческия център пеша, посещавайки музея и галерията. Около обяд друг автобус ще ви отведе до живописния язовир Кърджали, където можете да се насладите на природата и да обядвате. Следобед ще се върнете с автобус в града, за да завършите деня с приятна разходка в зеленината на Градския парк — перфектен завършек на ден, изпълнен с култура и природа."
       },
       "gastro_picks": {
         "de": [
@@ -1715,6 +1851,12 @@
           "Buy a day pass if available to save money.",
           "Be aware that buses do not go to natural sites like Perperikon.",
           "Keep small change handy for bus tickets."
+        ],
+        "bg": [
+          "Проверете разписанието на автобусите предварително, особено за последното връщане от язовира.",
+          "Купете дневна карта, ако е налична, за да спестите пари.",
+          "Имайте предвид, че автобусите не стигат до природни обекти като Перперикон.",
+          "Дръжте дребни пари под ръка за билетите в автобуса."
         ]
       },
       "variants": {
@@ -1723,7 +1865,8 @@
             "de": "Öffentliche Verkehrsmittel sind ideal bei Regen. Starten Sie im Zentrum und besuchen Sie das Museum und die Kunstgalerie, die beide gut erreichbar sind. Eine Busfahrt zum Stausee bietet eine trockene Möglichkeit, die Umgebung zu sehen. Beenden Sie den Tag im Stadtpark, wenn der Regen nachlässt, bevor Sie bequem zurückkehren.",
             "hu": "A tömegközlekedés ideális esős időben. Kezdjen a belvárosban, látogassa meg a múzeumot és a galériát, melyek könnyen elérhetőek. Egy buszút a tározóhoz száraz lehetőséget kínál a környék megtekintésére. Zárja a napot a parkban, ha alábbhagy az eső, majd térjen vissza kényelmesen.",
             "ro": "Transportul public este ideal pe ploaie. Începeți în centru și vizitați muzeul și galeria, ambele ușor accesibile. O călătorie cu autobuzul spre baraj vă oferă o variantă uscată de a vedea împrejurimile. Încheiați ziua în parcul orașului când ploaia se domolește.",
-            "en": "Public transport is ideal during rainy weather. Start in the center and visit the museum and art gallery, both easily accessible. A bus ride to the reservoir provides a dry way to see the area. Finish your day in the city park once the rain lets up, then return comfortably."
+            "en": "Public transport is ideal during rainy weather. Start in the center and visit the museum and art gallery, both easily accessible. A bus ride to the reservoir provides a dry way to see the area. Finish your day in the city park once the rain lets up, then return comfortably.",
+            "bg": "Публичният транспорт е идеален при дъжд. Започнете в центъра и посетете музея и галерията, и двете лесно достъпни. Автобус до язовира предоставя сух начин да разгледате района. Завършете деня в градския парк, когато дъждът отшуми, и се върнете удобно."
           },
           "stops": [
             {
@@ -1732,7 +1875,8 @@
                 "de": "Warten Sie in den überdachten Bushaltestellen auf den Anschluss.",
                 "hu": "Várjon a fedett buszmegállókban a csatlakozásra.",
                 "ro": "Așteptați în stațiile de autobuz acoperite.",
-                "en": "Wait in the covered bus stops for your connection."
+                "en": "Wait in the covered bus stops for your connection.",
+                "bg": "Чакайте в покритите автобусни спирки за връзките си."
               }
             },
             {
@@ -1741,7 +1885,8 @@
                 "de": "Nur ein kurzer Fußweg von der Bushaltestelle entfernt.",
                 "hu": "Csak egy rövid séta a legközelebbi buszmegállótól.",
                 "ro": "La doar o scurtă plimbare de stația de autobuz.",
-                "en": "Only a short walk from the nearest bus stop."
+                "en": "Only a short walk from the nearest bus stop.",
+                "bg": "Само кратка разходка от най-близката автобусна спирка."
               }
             },
             {
@@ -1750,7 +1895,8 @@
                 "de": "Zentrale Lage minimiert die Zeit im Freien.",
                 "hu": "A központi elhelyezkedés minimalizálja a kinti tartózkodást.",
                 "ro": "Locația centrală reduce timpul petrecut afară.",
-                "en": "The central location minimizes your time outdoors."
+                "en": "The central location minimizes your time outdoors.",
+                "bg": "Централното местоположение минимизира времето ви на открито."
               }
             },
             {
@@ -1759,7 +1905,8 @@
                 "de": "Genießen Sie die Aussicht aus dem Busfenster.",
                 "hu": "Élvezze a kilátást a busz ablakából.",
                 "ro": "Bucurați-vă de priveliște de la fereastra autobuzului.",
-                "en": "Enjoy the scenery from the dry comfort of the bus."
+                "en": "Enjoy the scenery from the dry comfort of the bus.",
+                "bg": "Насладете се на пейзажа от сухия комфорт на автобуса."
               }
             },
             {
@@ -1768,7 +1915,8 @@
                 "de": "Die Wege sind meist gut befestigt und nicht zu matschig.",
                 "hu": "Az utak jól burkoltak, így nem túl sárosak.",
                 "ro": "Aleile sunt bine pavate și nu sunt noroioase.",
-                "en": "The paths are mostly paved and don't get too muddy."
+                "en": "The paths are mostly paved and don't get too muddy.",
+                "bg": "Пътеките са предимно асфалтирани и не стават прекалено кални."
               }
             }
           ],
@@ -1796,6 +1944,12 @@
               "Have small change ready for buying tickets from the driver.",
               "Check schedules online as they may vary with the weather.",
               "Wear layers that aren't too warm for the heated buses."
+            ],
+            "bg": [
+              "Автобусите може да закъснеят леко по време на силен дъжд.",
+              "Дръжте дребни пари готови за купуване на билети от шофьора.",
+              "Проверявайте разписанията онлайн, тъй като могат да варират в зависимост от времето.",
+              "Носете многослойни дрехи, които не са твърде топли за отоплените автобуси."
             ]
           }
         },
@@ -1804,7 +1958,8 @@
             "de": "Wintertage in Kardschali lassen sich gut mit dem Bus planen. Starten Sie im Zentrum und wärmen Sie sich in den Museen auf. Die Fahrt zum Stausee bietet winterliche Panoramen ohne die Kälte draußen. Den Abschluss bildet ein Spaziergang im Stadtpark, bevor Sie den Abend in der warmen Innenstadt verbringen.",
             "hu": "A kardszsali téli napokat jól lehet busszal tervezni. Kezdjen a belvárosban, és melegedjen fel a múzeumokban. A tározóhoz vezető út téli panorámát kínál a kinti hideg nélkül. A napot egy parki séta zárja, mielőtt az estét a meleg belvárosban töltené.",
             "ro": "Zilele de iarnă în Kardjali sunt ușor de planificat cu autobuzul. Începeți în centru și încălziți-vă în muzee. Drumul spre baraj oferă panorame de iarnă fără frigul de afară. Ziua se încheie cu o plimbare în parc înainte de seara în centrul cald.",
-            "en": "Winter days in Kardzhali are easy to plan using the bus. Start in the center and warm up inside the museums. The trip to the reservoir offers winter panoramas without the outdoor chill. Conclude with a walk in the park before spending the evening in the warm city center."
+            "en": "Winter days in Kardzhali are easy to plan using the bus. Start in the center and warm up inside the museums. The trip to the reservoir offers winter panoramas without the outdoor chill. Conclude with a walk in the park before spending the evening in the warm city center.",
+            "bg": "Зимните дни в Кърджали са лесни за планиране с автобус. Започнете в центъра и се стоплете вътре в музеите. Пътуването до язовира предлага зимни панорами без външния студ. Завършете с разходка в парка, преди да прекарате вечерта в топлия градски център."
           },
           "stops": [
             {
@@ -1813,7 +1968,8 @@
                 "de": "Nutzen Sie die beheizten Busse als Aufwärmstation.",
                 "hu": "Használja a fűtött buszokat melegedőhelyként.",
                 "ro": "Folosiți autobuzele încălzite pentru a vă încălzi.",
-                "en": "Use the heated buses as a place to warm up."
+                "en": "Use the heated buses as a place to warm up.",
+                "bg": "Използвайте отоплените автобуси като място за затопляне."
               }
             },
             {
@@ -1822,7 +1978,8 @@
                 "de": "Ein Besuch im Winter ist wegen der geringen Besucherzahl ruhiger.",
                 "hu": "A téli látogatás a kevés látogató miatt nyugodtabb.",
                 "ro": "O vizită iarna este mai liniștită datorită numărului mic de turiști.",
-                "en": "A winter visit is quieter due to fewer tourists."
+                "en": "A winter visit is quieter due to fewer tourists.",
+                "bg": "Зимното посещение е по-спокойно поради по-малко туристи."
               }
             },
             {
@@ -1831,7 +1988,8 @@
                 "de": "Gemütlicher Stopp zwischen zwei Busverbindungen.",
                 "hu": "Hangulatos megálló két buszjárat között.",
                 "ro": "O oprire plăcută între două conexiuni de autobuz.",
-                "en": "A cozy stop between two bus connections."
+                "en": "A cozy stop between two bus connections.",
+                "bg": "Уютна спирка между две автобусни връзки."
               }
             },
             {
@@ -1840,7 +1998,8 @@
                 "de": "Achten Sie auf die verkürzten Fahrzeiten im Winter.",
                 "hu": "Ügyeljen a téli időszakban rövidített menetidőkre.",
                 "ro": "Atenție la orele de funcționare reduse pe timp de iarnă.",
-                "en": "Be aware of potentially reduced schedules in winter."
+                "en": "Be aware of potentially reduced schedules in winter.",
+                "bg": "Бъдете внимателни — зимните разписания може да са оскъдни."
               }
             },
             {
@@ -1849,7 +2008,8 @@
                 "de": "Kurzer Spaziergang, um das Tageslicht noch zu nutzen.",
                 "hu": "Rövid séta, hogy még kihasználja a nappali fényt.",
                 "ro": "Scurtă plimbare pentru a profita de lumina zilei.",
-                "en": "A brief walk to make the most of the remaining daylight."
+                "en": "A brief walk to make the most of the remaining daylight.",
+                "bg": "Кратка разходка, за да използвате максимално оставащата дневна светлина."
               }
             }
           ],
@@ -1877,6 +2037,12 @@
               "Avoid waiting too long at unsheltered bus stops.",
               "The last bus back from the reservoir is often earlier than expected.",
               "Keep a transit app handy for real-time schedule updates."
+            ],
+            "bg": [
+              "Зимните разписания могат да се различават значително от летните.",
+              "Не стойте твърде дълго на неподслонени автобусни спирки.",
+              "Последният автобус от язовира често тръгва по-рано, отколкото очаквате.",
+              "Дръжте приложението за превоз под ръка за актуални разписания в реално време."
             ]
           }
         }

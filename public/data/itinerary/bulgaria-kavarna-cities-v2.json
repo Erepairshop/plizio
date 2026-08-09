@@ -21,7 +21,8 @@
             "de": "Historisches Museum Kawarna",
             "hu": "Kavárnai Történeti Múzeum",
             "ro": "Muzeul de Istorie din Kavarna",
-            "en": "Kavarna Historical Museum"
+            "en": "Kavarna Historical Museum",
+            "bg": "Исторически музей — Каварна"
           },
           "coords": [
             28.3355,
@@ -36,7 +37,8 @@
             "de": "Konzentrieren Sie sich auf die antiken thrakischen und römischen Artefakte.",
             "hu": "Fókuszáljon az ókori trák és római leletekre.",
             "ro": "Concentrați-vă pe artefactele antice trace și romane.",
-            "en": "Focus on the ancient Thracian and Roman artifacts."
+            "en": "Focus on the ancient Thracian and Roman artifacts.",
+            "bg": "Фокус върху древните тракийски и римски находки."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Städtische Kunstgalerie",
             "hu": "Városi Művészeti Galéria",
             "ro": "Galeria de Artă Municipală",
-            "en": "City Art Gallery"
+            "en": "City Art Gallery",
+            "bg": "Градска художествена галерия"
           },
           "coords": [
             28.3365,
@@ -59,7 +62,8 @@
             "de": "Achten Sie auf Werke lokaler Künstler, die das Meer darstellen.",
             "hu": "Keresse a helyi művészek tengeri témájú alkotásait.",
             "ro": "Căutați lucrările artiștilor locali ce înfățișează marea.",
-            "en": "Look for works by local artists depicting the sea."
+            "en": "Look for works by local artists depicting the sea.",
+            "bg": "Търсете творби на местни художници, изобразяващи морето."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Kirche des Heiligen Georg",
             "hu": "Szent György-templom",
             "ro": "Biserica Sfântul Gheorghe",
-            "en": "Church of Saint George"
+            "en": "Church of Saint George",
+            "bg": "Църква „Свети Георги“"
           },
           "coords": [
             28.338,
@@ -82,7 +87,8 @@
             "de": "Bewundern Sie die Ikonenwand und die ruhige Atmosphäre.",
             "hu": "Csodálja meg az ikonosztázt és a csendes légkört.",
             "ro": "Admirați iconostasul și atmosfera liniștită.",
-            "en": "Admire the iconostasis and the quiet atmosphere."
+            "en": "Admire the iconostasis and the quiet atmosphere.",
+            "bg": "Възхищавайте се на иконостаса и спокойната атмосфера."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Mittagessen im Stadtzentrum",
             "hu": "Ebéd a városközpontban",
             "ro": "Prânz în centrul orașului",
-            "en": "Lunch in the City Center"
+            "en": "Lunch in the City Center",
+            "bg": "Обяд в центъра на града"
           },
           "coords": [
             28.337,
@@ -105,7 +112,8 @@
             "de": "Probieren Sie ein lokales Restaurant für frische Meeresfrüchte.",
             "hu": "Próbáljon ki egy helyi éttermet friss tengeri ételekkel.",
             "ro": "Încercați un restaurant local pentru fructe de mare proaspete.",
-            "en": "Try a local restaurant for some fresh seafood."
+            "en": "Try a local restaurant for some fresh seafood.",
+            "bg": "Опитайте местен ресторант за прясна морска храна."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Meeresgarten",
             "hu": "Tengeri Kert",
             "ro": "Grădina Mării",
-            "en": "Sea Garden"
+            "en": "Sea Garden",
+            "bg": "Морска градина"
           },
           "coords": [
             28.344,
@@ -128,7 +137,8 @@
             "de": "Ein perfekter Ort für einen entspannten Spaziergang mit Blick auf das Schwarze Meer.",
             "hu": "Tökéletes hely egy pihentető sétához a Fekete-tengerre néző kilátással.",
             "ro": "Un loc perfect pentru o plimbare relaxantă cu vedere la Marea Neagră.",
-            "en": "A perfect spot for a relaxing walk overlooking the Black Sea."
+            "en": "A perfect spot for a relaxing walk overlooking the Black Sea.",
+            "bg": "Перфектно място за релаксираща разходка с поглед към Черно море."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Zentralstrand von Kawarna",
             "hu": "Kavárna központi strandja",
             "ro": "Plaja Centrală din Kavarna",
-            "en": "Kavarna Central Beach"
+            "en": "Kavarna Central Beach",
+            "bg": "Централен плаж — Каварна"
           },
           "coords": [
             28.346,
@@ -151,7 +162,8 @@
             "de": "Entspannen Sie sich am Sandstrand oder nehmen Sie ein Bad im Meer.",
             "hu": "Pihenjen a homokos parton vagy ússzon egyet a tengerben.",
             "ro": "Relaxați-vă pe plaja cu nisip sau faceți o baie în mare.",
-            "en": "Relax on the sandy shore or take a dip in the sea."
+            "en": "Relax on the sandy shore or take a dip in the sea.",
+            "bg": "Отпуснете се на пясъчния бряг или се освежете в морето."
           }
         }
       ],
@@ -159,7 +171,8 @@
         "de": "Beginnen Sie Ihren Tag mit einem tiefen Einblick in die Geschichte im Historischen Museum, gefolgt von lokaler Kunst in der Städtischen Galerie. Nach dem spirituellen Besuch der Kirche des Heiligen Georg genießen Sie ein Mittagessen mit Meeresfrüchten. Der Nachmittag ist der Entspannung gewidmet, mit einem Spaziergang durch den Meeresgarten und Zeit am Zentralstrand. Beenden Sie den Tag, während die Sonne über dem Schwarzen Meer untergeht.",
         "hu": "Kezdje a napot a Történeti Múzeumban, majd merüljön el a helyi művészetben a Városi Galériában. A Szent György-templom meglátogatása után ebédeljen egy jót a tenger gyümölcseiből. A délutánt szentelje a pihenésnek a Tengeri Kertben és a központi strandon. Zárja a napot a Fekete-tenger feletti naplemente látványával.",
         "ro": "Începeți ziua cu o incursiune în istorie la Muzeul de Istorie, urmată de arta locală la Galeria Municipală. După o vizită spirituală la Biserica Sf. Gheorghe, savurați un prânz cu fructe de mare. După-amiaza este dedicată relaxării, cu o plimbare prin Grădina Mării și timp petrecut pe Plaja Centrală. Încheiați ziua admirând apusul peste Marea Neagră.",
-        "en": "Start your day with a deep dive into history at the Historical Museum, followed by local art at the City Gallery. After a spiritual visit to the Church of St. George, enjoy a seafood lunch. The afternoon is for relaxation, with a stroll through the Sea Garden and time at the Central Beach. End the day as the sun sets over the Black Sea."
+        "en": "Start your day with a deep dive into history at the Historical Museum, followed by local art at the City Gallery. After a spiritual visit to the Church of St. George, enjoy a seafood lunch. The afternoon is for relaxation, with a stroll through the Sea Garden and time at the Central Beach. End the day as the sun sets over the Black Sea.",
+        "bg": "Започнете деня с дълбоко потапяне в историята в Историческия музей, следвано от местно изкуство в Градската галерия. След духовно посещение в църквата „Свети Георги“ се насладете на обяд с морски дарове. Следобедът е за релакс — разходка из Морската градина и време на Централния плаж. Завършете деня, наблюдавайки залеза над Черно море."
       },
       "gastro_picks": {
         "de": [
@@ -355,6 +368,12 @@
           "Bring sunscreen and a hat, especially for the afternoon at the beach.",
           "Always keep a bottle of water with you.",
           "Most places in the city center are within easy walking distance."
+        ],
+        "bg": [
+          "Носете удобни обувки — ще вървите много.",
+          "Вземете слънцезащита и шапка, особено за следобеда на плажа.",
+          "Винаги носете бутилка вода със себе си.",
+          "Повечето места в центъра са на лесна пешеходна дистанция."
         ]
       },
       "variants": {
@@ -363,7 +382,8 @@
             "de": "Beginnen Sie den Tag im Trockenen im Historischen Museum von Kawarna. Mittags bieten die Kunstgalerie und die St.-Georgs-Kirche perfekten Schutz vor den Schauern. Am Nachmittag führt ein kurzer Spaziergang unter dem Regenschirm durch den Stadtgarten. Den Abend lassen Sie bei einem Blick auf die stürmische See am Strand gemütlich ausklingen.",
             "hu": "Kezdje a napot fedett helyen, a Történeti Múzeumban. Délben a Városi Képtár és a Szent György-templom nyújt menedéket a záporok elől. Délután egy rövid esernyős séta vár a tengerparti parkban. Az estét a hullámzó tenger látványával zárhatja a központi strandon, egy hangulatos étteremben.",
             "ro": "Începeți ziua la adăpost în Muzeul de Istorie din Kavarna. La prânz, Galeria de Artă și Biserica Sfântul Gheorghe oferă refugiul perfect împotriva ploii. După-amiaza, faceți o scurtă plimbare cu umbrela prin Grădina Mării. Încheiați seara admirând marea agitată de pe plaja centrală.",
-            "en": "Start your day indoors at the Kavarna Historical Museum. At noon, the City Art Gallery and the Church of Saint George provide perfect shelter from the showers. In the afternoon, take a short umbrella walk through the Sea Garden. End the evening enjoying the view of the stormy sea at the central beach."
+            "en": "Start your day indoors at the Kavarna Historical Museum. At noon, the City Art Gallery and the Church of Saint George provide perfect shelter from the showers. In the afternoon, take a short umbrella walk through the Sea Garden. End the evening enjoying the view of the stormy sea at the central beach.",
+            "bg": "Започнете деня на закрито в Историческия музей — Каварна. В средата на деня Градската галерия и църквата „Свети Георги“ са отлични убежища от превалявания. Следобед направете кратка разходка с чадър из Морската градина. Завършете вечерта, наслаждавайки се на гледката към бурното море от централния плаж."
           },
           "stops": [
             {
@@ -372,7 +392,8 @@
                 "de": "Perfekter Zufluchtsort bei Regen, nehmen Sie sich Zeit für die thrakischen Goldfunde.",
                 "hu": "Kiváló menedék esőben, nézze meg alaposan a trák aranyleleteket.",
                 "ro": "Refugiu perfect pe ploaie, admirați artefactele din aur tracice.",
-                "en": "Perfect rainy day shelter; take your time with the Thracian gold finds."
+                "en": "Perfect rainy day shelter; take your time with the Thracian gold finds.",
+                "bg": "Перфектно убежище в дъждовен ден; разгледайте спокойно тракийските златни находки."
               }
             },
             {
@@ -381,7 +402,8 @@
                 "de": "Genießen Sie die lokale Kunst, während es draußen regnet.",
                 "hu": "Élvezze a helyi művészetet, miközben odakint esik.",
                 "ro": "Bucurați-vă de arta locală în timp ce afară plouă.",
-                "en": "Enjoy local art while it rains outside."
+                "en": "Enjoy local art while it rains outside.",
+                "bg": "Насладете се на местното изкуство, докато вали навън."
               }
             },
             {
@@ -390,7 +412,8 @@
                 "de": "Ein ruhiger, trockener Ort mit beeindruckenden Ikonen.",
                 "hu": "Csendes, száraz helyszín lenyűgöző ikonokkal.",
                 "ro": "Un loc liniștit și uscat, cu icoane impresionante.",
-                "en": "A quiet, dry spot with impressive icons."
+                "en": "A quiet, dry spot with impressive icons.",
+                "bg": "Спокойно, сухо място с впечатляващи икони."
               }
             },
             {
@@ -399,7 +422,8 @@
                 "de": "Wählen Sie ein Restaurant mit überdachter Terrasse.",
                 "hu": "Válasszon fedett terasszal rendelkező éttermet.",
                 "ro": "Alegeți un restaurant cu terasă acoperită.",
-                "en": "Choose a restaurant with a covered terrace."
+                "en": "Choose a restaurant with a covered terrace.",
+                "bg": "Изберете ресторант с покрита тераса."
               }
             },
             {
@@ -408,7 +432,8 @@
                 "de": "Vorsicht, die Wege können bei Nässe rutschig sein.",
                 "hu": "Vigyázat, az utak nedvesen csúszósak lehetnek.",
                 "ro": "Atenție, potecile pot fi alunecoase pe ploaie.",
-                "en": "Caution, the paths can be slippery when wet."
+                "en": "Caution, the paths can be slippery when wet.",
+                "bg": "Внимание — пътеките могат да бъдат хлъзгави при мокро време."
               }
             },
             {
@@ -417,7 +442,8 @@
                 "de": "Beobachten Sie das Wetterspiel über dem Meer von einem Strandcafé aus.",
                 "hu": "Figyelje a tenger feletti viharfelhőket egy parti kávézóból.",
                 "ro": "Urmăriți spectacolul ploii peste mare dintr-o cafenea de pe plajă.",
-                "en": "Watch the weather play over the sea from a beach cafe."
+                "en": "Watch the weather play over the sea from a beach cafe.",
+                "bg": "Наблюдавайте как времето играе над морето от плажен кафе-салон."
               }
             }
           ],
@@ -445,6 +471,12 @@
               "The Historical Museum is the best place to wait out heavy downpours.",
               "Center cafes offer cozy indoor spaces for breaks.",
               "A sturdy umbrella is recommended due to the sea breezes."
+            ],
+            "bg": [
+              "Носете водоустойчиви обувки — пътеките към плажа могат да се вмътят в кал при дъжд.",
+              "Историческият музей е най-доброто място да изчакате силни порои.",
+              "Кафенетата в центъра предлагат уютни закрити пространства за почивка.",
+              "Препоръчителен здрав чадър заради морските ветрове."
             ]
           }
         },
@@ -453,7 +485,8 @@
             "de": "Erkunden Sie am Morgen die warmen Hallen des Museums. Mittags bieten die Galerie und die Kirche Schutz vor dem kalten Wind vom Meer. Ein kurzer Winterspaziergang durch den Meeresgarten führt Sie zur Küste. Da die Sonne früh untergeht, genießen Sie den Blick auf den einsamen Strand am späten Nachmittag.",
             "hu": "Reggel fedezze fel a múzeum fűtött termeit. Délben a képtár és a templom nyújt védelmet a metsző tengeri szél elől. Egy rövid téli séta a tengerparti parkon át a parthoz vezet. Mivel korán nyugszik a nap, már késő délután élvezze az elhagyatott strand látványát.",
             "ro": "Explorați dimineața sălile calde ale muzeului. La prânz, galeria și biserica oferă protecție împotriva vântului rece de mare. O scurtă plimbare de iarnă prin Grădina Mării vă duce spre coastă. Deoarece soarele apune devreme, bucurați-vă de plaja pustie spre sfârșitul după-amiezii.",
-            "en": "Explore the warm halls of the museum in the morning. At noon, the gallery and church offer protection from the cold sea wind. A short winter walk through the Sea Garden leads you to the coast. As the sun sets early, enjoy the view of the deserted beach in the late afternoon."
+            "en": "Explore the warm halls of the museum in the morning. At noon, the gallery and church offer protection from the cold sea wind. A short winter walk through the Sea Garden leads you to the coast. As the sun sets early, enjoy the view of the deserted beach in the late afternoon.",
+            "bg": "Разгледайте топлите зали на музея сутринта. В средата на деня галерията и църквата предлагат защита от студения морски вятър. Кратка зимна разходка през Морската градина ще ви отведе до брега. Тъй като слънцето залязва рано, насладете се на гледката към пустиия плаж към късния следобед."
           },
           "stops": [
             {
@@ -462,7 +495,8 @@
                 "de": "Ein gut beheizter Ort, um die antike Geschichte Kawarnas zu entdecken.",
                 "hu": "Jól fűtött helyszín Kawarna ókori történelmének felfedezéséhez.",
                 "ro": "Un loc bine încălzit pentru a descoperi istoria antică a orașului.",
-                "en": "A well-heated spot to discover the ancient history of Kavarna."
+                "en": "A well-heated spot to discover the ancient history of Kavarna.",
+                "bg": "Добре затоплено място, за да откриете древната история на Каварна."
               }
             },
             {
@@ -471,7 +505,8 @@
                 "de": "Genießen Sie die Ruhe der Ausstellung fernab der Kälte.",
                 "hu": "Élvezze a kiállítás nyugalmát, távol a hidegtől.",
                 "ro": "Bucurați-vă de liniștea expoziției, departe de frig.",
-                "en": "Enjoy the tranquility of the exhibition away from the cold."
+                "en": "Enjoy the tranquility of the exhibition away from the cold.",
+                "bg": "Насладете се на спокойствието на изложбата далече от студа."
               }
             },
             {
@@ -480,7 +515,8 @@
                 "de": "Beachten Sie die festliche Dekoration in den Wintermonaten.",
                 "hu": "Figyelje meg az ünnepi díszítést a téli hónapokban.",
                 "ro": "Observați decorațiunile festive în lunile de iarnă.",
-                "en": "Notice the festive decorations during the winter months."
+                "en": "Notice the festive decorations during the winter months.",
+                "bg": "Забележете празничните украси през зимните месеци."
               }
             },
             {
@@ -489,7 +525,8 @@
                 "de": "Probieren Sie eine heiße bulgarische Suppe (Kurban chorba).",
                 "hu": "Kóstoljon meg egy forró bolgár levest (Kurban csorba).",
                 "ro": "Încercați o supă bulgărească fierbinte (Kurban chorba).",
-                "en": "Try a hot Bulgarian soup (Kurban chorba)."
+                "en": "Try a hot Bulgarian soup (Kurban chorba).",
+                "bg": "Опитайте гореща българска супа (курбан чорба)."
               }
             },
             {
@@ -498,7 +535,8 @@
                 "de": "Dick anziehen, der Wind kann hier oben sehr schneidend sein.",
                 "hu": "Öltözzön fel melegen, a szél itt nagyon metsző lehet.",
                 "ro": "Îmbrăcați-vă bine, vântul poate fi tăios aici.",
-                "en": "Dress warmly, the wind can be very biting up here."
+                "en": "Dress warmly, the wind can be very biting up here.",
+                "bg": "Облечете се топло — вятърът тук може да е пронизващ."
               }
             },
             {
@@ -507,7 +545,8 @@
                 "de": "Ein einsamer Ort für Reflexionen vor dem frühen Sonnenuntergang.",
                 "hu": "Magányos hely az elmélyüléshez a korai naplemente előtt.",
                 "ro": "Un loc pustiu pentru reflecție înainte de apusul devreme.",
-                "en": "A lonely place for reflection before the early sunset."
+                "en": "A lonely place for reflection before the early sunset.",
+                "bg": "Самотно място за размисъл преди ранния залез."
               }
             }
           ],
@@ -535,6 +574,12 @@
               "Wear windproof clothing, especially for the walk to the beach.",
               "Some beach venues are closed in winter; stay in the center for dinner.",
               "Museums are the most reliable warm retreats."
+            ],
+            "bg": [
+              "Залезът е около 16:45; планирайте дейностите си съобразно това.",
+              "Носете ветрозащитно облекло, особено за разходката до плажа.",
+              "Някои плажни заведения са затворени през зимата; останете в центъра за вечеря.",
+              "Музеите са най-надеждните топли убежища."
             ]
           }
         }
@@ -553,7 +598,8 @@
             "de": "Start: Fahrradverleih",
             "hu": "Indulás: Kerékpárkölcsönző",
             "ro": "Start: Închiriere biciclete",
-            "en": "Start: Bike Rental"
+            "en": "Start: Bike Rental",
+            "bg": "Начало: Колоездене под наем"
           },
           "coords": [
             28.335,
@@ -568,7 +614,8 @@
             "de": "Überprüfen Sie die Bremsen und Reifen, bevor Sie losfahren.",
             "hu": "Indulás előtt ellenőrizze a fékeket és a gumikat.",
             "ro": "Verificați frânele și anvelopele înainte de a pleca.",
-            "en": "Check the brakes and tires before you set off."
+            "en": "Check the brakes and tires before you set off.",
+            "bg": "Проверете спирачките и гумите преди тръгване."
           }
         },
         {
@@ -576,7 +623,8 @@
             "de": "Festung Tschirakman",
             "hu": "Csirakman erőd",
             "ro": "Cetatea Chirakman",
-            "en": "Chirakman Fortress"
+            "en": "Chirakman Fortress",
+            "bg": "Крепост Чиракман"
           },
           "coords": [
             28.349,
@@ -591,7 +639,8 @@
             "de": "Der Aufstieg ist steil, aber die Aussicht von oben ist die Mühe wert.",
             "hu": "Az emelkedő meredek, de a fenti kilátás megéri a fáradságot.",
             "ro": "Urcușul este abrupt, dar priveliștea de sus merită efortul.",
-            "en": "The climb is steep, but the view from the top is worth the effort."
+            "en": "The climb is steep, but the view from the top is worth the effort.",
+            "bg": "Изкачването е стръмно, но гледката от върха си заслужава усилието."
           }
         },
         {
@@ -599,7 +648,8 @@
             "de": "Zentralstrand von Kawarna",
             "hu": "Kavárna központi strandja",
             "ro": "Plaja Centrală din Kavarna",
-            "en": "Kavarna Central Beach"
+            "en": "Kavarna Central Beach",
+            "bg": "Централен плаж — Каварна"
           },
           "coords": [
             28.346,
@@ -614,7 +664,8 @@
             "de": "Schließen Sie Ihr Fahrrad sicher ab, bevor Sie zum Strand gehen.",
             "hu": "Zárja le biztonságosan a kerékpárt, mielőtt a strandra megy.",
             "ro": "Asigurați-vă bicicleta înainte de a merge la plajă.",
-            "en": "Lock your bike securely before heading to the beach."
+            "en": "Lock your bike securely before heading to the beach.",
+            "bg": "Заключете колелото здраво, преди да отидете на плажа."
           }
         },
         {
@@ -622,7 +673,8 @@
             "de": "Mittagessen am Meer",
             "hu": "Ebéd a tengernél",
             "ro": "Prânz la malul mării",
-            "en": "Lunch by the Sea"
+            "en": "Lunch by the Sea",
+            "bg": "Обяд край морето"
           },
           "coords": [
             28.3475,
@@ -637,7 +689,8 @@
             "de": "Genießen Sie frische Miesmuscheln mit Blick auf die Wellen.",
             "hu": "Élvezze a friss fekete kagylót a hullámokra nézve.",
             "ro": "Savurați midii proaspete cu vedere la valuri.",
-            "en": "Enjoy fresh mussels with a view of the waves."
+            "en": "Enjoy fresh mussels with a view of the waves.",
+            "bg": "Насладете се на пресни миди с гледка към вълните."
           }
         },
         {
@@ -645,7 +698,8 @@
             "de": "Historisches Museum Kawarna",
             "hu": "Kavárnai Történeti Múzeum",
             "ro": "Muzeul de Istorie din Kavarna",
-            "en": "Kavarna Historical Museum"
+            "en": "Kavarna Historical Museum",
+            "bg": "Исторически музей — Каварна"
           },
           "coords": [
             28.3355,
@@ -660,7 +714,8 @@
             "de": "Eine willkommene Abkühlung und eine Dosis Kultur am Nachmittag.",
             "hu": "Kellemes hűsölés és egy adag kultúra délutánra.",
             "ro": "O pauză răcoroasă și o doză de cultură după-amiaza.",
-            "en": "A welcome cool-down and a dose of culture in the afternoon."
+            "en": "A welcome cool-down and a dose of culture in the afternoon.",
+            "bg": "Добро охлаждане и доза култура в следобедните часове."
           }
         },
         {
@@ -668,7 +723,8 @@
             "de": "Ethnographisches Museum",
             "hu": "Néprajzi Múzeum",
             "ro": "Muzeul Etnografic",
-            "en": "Ethnographic Museum"
+            "en": "Ethnographic Museum",
+            "bg": "Етнографски музей"
           },
           "coords": [
             28.3345,
@@ -683,7 +739,8 @@
             "de": "Entdecken Sie die lokalen Traditionen und das ländliche Leben der Region.",
             "hu": "Ismerje meg a régió helyi hagyományait és vidéki életét.",
             "ro": "Descoperiți tradițiile locale și viața rurală din regiune.",
-            "en": "Discover the local traditions and rural life of the region."
+            "en": "Discover the local traditions and rural life of the region.",
+            "bg": "Открийте местните традиции и селския живот в региона."
           }
         },
         {
@@ -691,7 +748,8 @@
             "de": "Rückgabe der Fahrräder",
             "hu": "Kerékpárok visszavitele",
             "ro": "Returnarea bicicletelor",
-            "en": "Bike Drop-off"
+            "en": "Bike Drop-off",
+            "bg": "Връщане на колелото"
           },
           "coords": [
             28.335,
@@ -706,7 +764,8 @@
             "de": "Beenden Sie den Tag mit einem wohlverdienten Eis in der Nähe.",
             "hu": "Zárja a napot egy jól megérdemelt fagyival a közelben.",
             "ro": "Încheiați ziua cu o înghețată binemeritată în apropiere.",
-            "en": "End the day with a well-deserved ice cream nearby."
+            "en": "End the day with a well-deserved ice cream nearby.",
+            "bg": "Завършете деня с добре заслужен сладолед наблизо."
           }
         }
       ],
@@ -714,7 +773,8 @@
         "de": "Ein aktiver Tag erwartet Sie! Nach dem Ausleihen Ihres Fahrrads erklimmen Sie die Festung Tschirakman für eine Panoramasicht. Kühlen Sie sich am Zentralstrand ab, bevor Sie ein Mittagessen am Meer genießen. Der Nachmittag ist der Kultur gewidmet, mit Besuchen im Historischen und Ethnographischen Museum. Geben Sie Ihr Fahrrad zurück und beenden Sie den Tag voller unvergesslicher Eindrücke.",
         "hu": "Aktív nap vár Önre! A kerékpárkölcsönzés után mássza meg a Csirakman erődöt a panorámáért. Hűsöljön a központi strandon, majd ebédeljen a tengerparton. A délutánt szentelje a kultúrának a Történeti és Néprajzi Múzeumban. Vigye vissza a biciklit, és zárja a napot tele felejthetetlen élményekkel.",
         "ro": "Vă așteaptă o zi activă! După ce închiriați bicicleta, urcați la Cetatea Chirakman pentru o vedere panoramică. Răcoriți-vă la Plaja Centrală înainte de a savura prânzul pe malul mării. După-amiaza este dedicată culturii, cu vizite la Muzeul de Istorie și cel Etnografic. Returnați bicicleta și încheiați ziua plină de impresii memorabile.",
-        "en": "An active day awaits! After renting your bike, climb Chirakman Fortress for a panoramic view. Cool off at the Central Beach before enjoying lunch by the sea. The afternoon is dedicated to culture with visits to the Historical and Ethnographic Museums. Return your bike and end the day full of memorable impressions."
+        "en": "An active day awaits! After renting your bike, climb Chirakman Fortress for a panoramic view. Cool off at the Central Beach before enjoying lunch by the sea. The afternoon is dedicated to culture with visits to the Historical and Ethnographic Museums. Return your bike and end the day full of memorable impressions.",
+        "bg": "Очаква ви активен ден! След наемане на колело се изкачете до крепост Чиракман за панорамна гледка. Охладете се на Централния плаж преди обяд край морето. Следобедът е за култура с посещения в Историческия и Етнографския музей. Върнете колелото и приключете деня с незабравими впечатления."
       },
       "gastro_picks": {
         "de": [
@@ -910,6 +970,12 @@
           "Wear a helmet and use lights if you're cycling in the evening.",
           "The coastal road offers scenic routes, but be careful with traffic.",
           "Bring plenty of water, especially on hot days."
+        ],
+        "bg": [
+          "Наемете колело с предавки за хълмовете.",
+          "Носете каска и използвайте светлини, ако карате вечер.",
+          "Крайбрежният път предлага живописни маршрути, но внимавайте за трафика.",
+          "Вземете достатъчно вода, особено в горещи дни."
         ]
       },
       "variants": {
@@ -918,7 +984,8 @@
             "de": "Starten Sie Ihre Tour am Fahrradverleih und rüsten Sie sich mit Regenponchos aus. Die Fahrt zur Festung Chirakman erfordert bei Nässe Vorsicht auf den steilen Wegen. Nach dem Mittagessen am Hafen bieten das Historische und das Ethnographische Museum im Zentrum trockene Kulturpausen, bevor Sie die Räder zurückgeben.",
             "hu": "Kezdje a túrát a kölcsönzőnél, és kérjen esővédőt. A Chirakman-erődhöz vezető út esőben óvatosságot igényel a meredek szakaszokon. A kikötői ebéd után a Történeti és az Néprajzi Múzeum kínál száraz kulturális pihenőt a központban, mielőtt leadná a bringákat.",
             "ro": "Începeți turul la centrul de închirieri și dotați-vă cu pelerine de ploaie. Drumul spre Cetatea Chirakman necesită prudență pe porțiunile abrupte când plouă. După prânzul în port, muzeele de istorie și etnografie oferă pauze culturale uscate înainte de a returna bicicletele.",
-            "en": "Start your tour at the rental shop and gear up with rain ponchos. The ride to Chirakman Fortress requires caution on steep sections when wet. After lunch at the harbor, the Historical and Ethnographic museums provide dry cultural breaks in the center before returning the bikes."
+            "en": "Start your tour at the rental shop and gear up with rain ponchos. The ride to Chirakman Fortress requires caution on steep sections when wet. After lunch at the harbor, the Historical and Ethnographic museums provide dry cultural breaks in the center before returning the bikes.",
+            "bg": "Започнете турнето от магазина за наеми и се оборудвайте с дъждобрани. Карането до крепостта Чиракман изисква внимание при мокри и стръмни участъци. След обяда в пристанището Историческият и Етнографският музеи осигуряват сухи културни почивки в центъра преди връщане на колелата."
           },
           "stops": [
             {
@@ -927,7 +994,8 @@
                 "de": "Fragen Sie nach Schutzblechen und einer wasserfesten Karte.",
                 "hu": "Kérjen sárvédőt és vízálló térképet.",
                 "ro": "Cereți apărători de noroi și o hartă impermeabilă.",
-                "en": "Ask for mudguards and a waterproof map."
+                "en": "Ask for mudguards and a waterproof map.",
+                "bg": "Поискайте калници и водоустойчива карта."
               }
             },
             {
@@ -936,7 +1004,8 @@
                 "de": "Vorsicht beim Aufstieg, die Kalksteinfelsen sind rutschig.",
                 "hu": "Vigyázat a felkapaszkodáskor, a mészkősziklák csúszósak.",
                 "ro": "Atenție la urcare, stâncile de calcar sunt alunecoase.",
-                "en": "Be careful during the ascent; the limestone rocks are slippery."
+                "en": "Be careful during the ascent; the limestone rocks are slippery.",
+                "bg": "Бъдете внимателни при изкачването — варовиковите скали са хлъзгави."
               }
             },
             {
@@ -945,7 +1014,8 @@
                 "de": "Kurzer Stopp unter einem Vordach, um die Brandung zu sehen.",
                 "hu": "Rövid megálló egy előtető alatt a hullámverés megtekintéséhez.",
                 "ro": "Scurtă oprire sub o copertină pentru a vedea valurile.",
-                "en": "Short stop under a canopy to watch the surf."
+                "en": "Short stop under a canopy to watch the surf.",
+                "bg": "Кратка спирка под навес, за да наблюдавате вълните."
               }
             },
             {
@@ -954,7 +1024,8 @@
                 "de": "Sichern Sie die Fahrräder an einem geschützten Ort.",
                 "hu": "Rögzítse a kerékpárokat védett helyen.",
                 "ro": "Asigurați bicicletele într-un loc protejat.",
-                "en": "Secure your bikes in a sheltered spot."
+                "en": "Secure your bikes in a sheltered spot.",
+                "bg": "Заключете колелата на защитено място."
               }
             },
             {
@@ -963,7 +1034,8 @@
                 "de": "Gute Gelegenheit, die Kleidung zu trocknen.",
                 "hu": "Jó alkalom a ruházat megszárítására.",
                 "ro": "Oportunitate bună de a vă usca hainele.",
-                "en": "Good opportunity to dry your clothes."
+                "en": "Good opportunity to dry your clothes.",
+                "bg": "Добра възможност да изсушите дрехите си."
               }
             },
             {
@@ -972,7 +1044,8 @@
                 "de": "Innenbesichtigung des alten Hauses, perfekt bei Schauern.",
                 "hu": "A régi ház belső megtekintése, tökéletes zápor idején.",
                 "ro": "Vizitați interiorul casei vechi, perfect pe timp de ploaie.",
-                "en": "Visit the interior of the old house, perfect during showers."
+                "en": "Visit the interior of the old house, perfect during showers.",
+                "bg": "Посетете интериора на старата къща — идеално по време на превалявания."
               }
             },
             {
@@ -981,7 +1054,8 @@
                 "de": "Geben Sie das nasse Equipment zügig zurück.",
                 "hu": "Adja le gyorsan a nedves felszerelést.",
                 "ro": "Returnați rapid echipamentul ud.",
-                "en": "Return the wet equipment promptly."
+                "en": "Return the wet equipment promptly.",
+                "bg": "Върнете мокрото оборудване незабавно."
               }
             }
           ],
@@ -1009,6 +1083,12 @@
               "Avoid sudden braking on the paved paths near the beach.",
               "The limestone paths at the fortress become extremely slippery when wet.",
               "Wear bright rain gear for better visibility in dull weather."
+            ],
+            "bg": [
+              "Уверете се, че използвате колела с калници.",
+              "Избягвайте рязко спиране по павираните пътеки край плажа.",
+              "Варовиковите пътеки на крепостта стават изключително хлъзгави при мокро време.",
+              "Носете ярки дъждобрани за по-добра видимост при мрачно време."
             ]
           }
         },
@@ -1017,7 +1097,8 @@
             "de": "Rüsten Sie sich warm aus für eine winterliche Radtour. Die kühle Brise an der Festung Chirakman wirkt belebend, erfordert aber gute Handschuhe. Nach einer Aufwärmpause beim Mittagessen am Meer erkunden Sie am Nachmittag die Museen im geschützten Stadtzentrum, bevor die Dämmerung einsetzt.",
             "hu": "Öltözzön fel melegen a téli biciklitúrához. A Chirakman-erődnél fújó hűvös szél frissítő, de jó kesztyűre lesz szüksége. A tengerparti ebéd közbeni melegedés után délután a védett belváros múzeumait fedezze fel, mielőtt beállna a szürkület.",
             "ro": "Echipati-vă bine pentru o tură de iarnă cu bicicleta. Briza rece de la Cetatea Chirakman este revigorantă, dar necesită mănuși bune. După o pauză de încălzire la prânz pe malul mării, explorați muzeele din centrul protejat înainte de lăsarea serii.",
-            "en": "Gear up warmly for a winter bike ride. The cool breeze at Chirakman Fortress is invigorating but requires good gloves. After a warming lunch break by the sea, explore the museums in the sheltered town center in the afternoon before dusk sets in."
+            "en": "Gear up warmly for a winter bike ride. The cool breeze at Chirakman Fortress is invigorating but requires good gloves. After a warming lunch break by the sea, explore the museums in the sheltered town center in the afternoon before dusk sets in.",
+            "bg": "Облечете се топло за зимно колоездене. Хладният полъх на Чиракман изисква добри ръкавици. След стоплящ обяд край морето разгледайте музеите в защитения център на града преди здрач."
           },
           "stops": [
             {
@@ -1026,7 +1107,8 @@
                 "de": "Überprüfen Sie den Reifendruck für kalte Temperaturen.",
                 "hu": "Ellenőrizze a guminyomást a hideg időre való tekintettel.",
                 "ro": "Verificați presiunea pneurilor pentru temperaturi scăzute.",
-                "en": "Check tire pressure for cold temperatures."
+                "en": "Check tire pressure for cold temperatures.",
+                "bg": "Проверете налягането в гумите за студено време."
               }
             },
             {
@@ -1035,7 +1117,8 @@
                 "de": "Exponierte Lage, der Windchill-Effekt ist hier sehr stark.",
                 "hu": "Kitetthelyszín, a szél hűtő hatása itt nagyon erős.",
                 "ro": "Locație expusă, efectul de răcire al vântului este puternic aici.",
-                "en": "Exposed location; the wind chill effect is very strong here."
+                "en": "Exposed location; the wind chill effect is very strong here.",
+                "bg": "Отворената локация усилва усещането за студ от вятъра."
               }
             },
             {
@@ -1044,7 +1127,8 @@
                 "de": "Gefrorene Gischt an den Felsen bietet seltene Fotomotive.",
                 "hu": "A sziklákon megfagyott tengeri permet ritka fotótémát kínál.",
                 "ro": "Stropii de mare înghețați pe stânci oferă ocazii rare de fotografiere.",
-                "en": "Frozen sea spray on the rocks offers rare photo opportunities."
+                "en": "Frozen sea spray on the rocks offers rare photo opportunities.",
+                "bg": "Замръзналата морска пяна по скалите предлага редки фотографски възможности."
               }
             },
             {
@@ -1053,7 +1137,8 @@
                 "de": "Ein heißer Tee ist jetzt genau das Richtige.",
                 "hu": "Egy forró tea most pont ideális lesz.",
                 "ro": "Un ceai fierbinte este exact ce trebuie acum.",
-                "en": "A hot tea is just the thing right now."
+                "en": "A hot tea is just the thing right now.",
+                "bg": "Чаена напитка ще ви топли в този момент."
               }
             },
             {
@@ -1062,7 +1147,8 @@
                 "de": "Tauen Sie beim Betrachten der Exponate langsam auf.",
                 "hu": "Melegedjen fel lassan a kiállítási tárgyak nézegetése közben.",
                 "ro": "Încălziți-vă încet în timp ce priviți exponatele.",
-                "en": "Thaw out slowly while viewing the exhibits."
+                "en": "Thaw out slowly while viewing the exhibits.",
+                "bg": "Отпуснете се и се отпуснете бавно, разглеждайки експонатите."
               }
             },
             {
@@ -1071,7 +1157,8 @@
                 "de": "Die dicken Mauern halten die Kälte gut draußen.",
                 "hu": "A vastag falak jól kint tartják a hideget.",
                 "ro": "Zidurile groase țin frigul la distanță.",
-                "en": "The thick walls keep the cold out well."
+                "en": "The thick walls keep the cold out well.",
+                "bg": "Дебелите стени добре задържат студа навън."
               }
             },
             {
@@ -1080,7 +1167,8 @@
                 "de": "Geben Sie das Rad vor 17 Uhr zurück, bevor es dunkel wird.",
                 "hu": "Adja le a bringát 17 óra előtt, mielőtt sötét lesz.",
                 "ro": "Returnați bicicleta înainte de ora 17, înainte de a se întuneca.",
-                "en": "Return the bike before 5 PM, before it gets dark."
+                "en": "Return the bike before 5 PM, before it gets dark.",
+                "bg": "Върнете колелото преди 17:00, преди да стъмни."
               }
             }
           ],
@@ -1108,6 +1196,12 @@
               "Plan more time for warming breaks in cafes.",
               "Bike paths can have frost/ice in shaded areas.",
               "Check the bike lights as visibility fades earlier in winter."
+            ],
+            "bg": [
+              "Добри ръкавици и вратник са задължителни за зимно каране.",
+              "Отделете повече време за затопляне в кафенета.",
+              "Велосипедните алеи могат да имат слани/лед в засенчените участъци.",
+              "Проверете велосипедните светлини, тъй като видимостта намалява по-рано през зимата."
             ]
           }
         }
@@ -1126,7 +1220,8 @@
             "de": "Cluster A: Historisches Museum Kawarna",
             "hu": "A csoport: Kavárnai Történeti Múzeum",
             "ro": "Cluster A: Muzeul de Istorie Kavarna",
-            "en": "Cluster A: Kavarna Historical Museum"
+            "en": "Cluster A: Kavarna Historical Museum",
+            "bg": "Клъстер A: Исторически музей – Каварна"
           },
           "coords": [
             28.3355,
@@ -1142,7 +1237,8 @@
             "de": "Parken Sie im Stadtzentrum und beginnen Sie hier Ihre Erkundungstour.",
             "hu": "Parkoljon a városközpontban, és innen kezdje a felfedezést.",
             "ro": "Parcați în centrul orașului și începeți explorarea de aici.",
-            "en": "Park in the city center and start your exploration here."
+            "en": "Park in the city center and start your exploration here.",
+            "bg": "Паркирайте в центъра на града и започнете обиколката си оттук."
           }
         },
         {
@@ -1150,7 +1246,8 @@
             "de": "Kirche des Heiligen Georg",
             "hu": "Szent György-templom",
             "ro": "Biserica Sfântul Gheorghe",
-            "en": "Church of Saint George"
+            "en": "Church of Saint George",
+            "bg": "Църква „Свети Георги”"
           },
           "coords": [
             28.338,
@@ -1166,7 +1263,8 @@
             "de": "Ein kurzer Spaziergang vom Museum entfernt, ein Ort der Ruhe.",
             "hu": "Rövid séta a múzeumtól, a nyugalom szigete.",
             "ro": "La o scurtă plimbare de muzeu, un loc de liniște.",
-            "en": "A short walk from the museum, a place of tranquility."
+            "en": "A short walk from the museum, a place of tranquility.",
+            "bg": "Кратка разходка от музея, място на спокойствие."
           }
         },
         {
@@ -1174,7 +1272,8 @@
             "de": "Cluster B: Festung Tschirakman",
             "hu": "B csoport: Csirakman erőd",
             "ro": "Cluster B: Cetatea Chirakman",
-            "en": "Cluster B: Chirakman Fortress"
+            "en": "Cluster B: Chirakman Fortress",
+            "bg": "Клъстер B: Форт Чиракман"
           },
           "coords": [
             28.349,
@@ -1190,7 +1289,8 @@
             "de": "Fahren Sie zum Parkplatz der Festung und genießen Sie die Aussicht.",
             "hu": "Hajtson fel az erőd parkolójába, és élvezze a kilátást.",
             "ro": "Conduceți până la parcarea cetății și bucurați-vă de priveliște.",
-            "en": "Drive up to the fortress parking lot and enjoy the view."
+            "en": "Drive up to the fortress parking lot and enjoy the view.",
+            "bg": "Карайте до паркинга на крепостта и се насладете на гледката."
           }
         },
         {
@@ -1198,7 +1298,8 @@
             "de": "Mittagessen in der Nähe der Festung",
             "hu": "Ebéd az erőd közelében",
             "ro": "Prânz lângă cetate",
-            "en": "Lunch near the fortress"
+            "en": "Lunch near the fortress",
+            "bg": "Обяд близо до крепостта"
           },
           "coords": [
             28.35,
@@ -1214,7 +1315,8 @@
             "de": "Es gibt Restaurants mit Panoramablick auf die Küste.",
             "hu": "Vannak éttermek panorámás kilátással a partra.",
             "ro": "Există restaurante cu vedere panoramică la coastă.",
-            "en": "There are restaurants with panoramic views of the coast."
+            "en": "There are restaurants with panoramic views of the coast.",
+            "bg": "Има ресторанти с панорамни гледки към крайбрежието."
           }
         },
         {
@@ -1222,7 +1324,8 @@
             "de": "Cluster C: Kap Kaliakra",
             "hu": "C csoport: Kaliakra-fok",
             "ro": "Cluster C: Capul Caliacra",
-            "en": "Cluster C: Cape Kaliakra"
+            "en": "Cluster C: Cape Kaliakra",
+            "bg": "Клъстер C: Нос Калиакра"
           },
           "coords": [
             28.462,
@@ -1238,7 +1341,8 @@
             "de": "Der Höhepunkt des Tages. Erkunden Sie die Ruinen und die dramatischen Klippen.",
             "hu": "A nap fénypontja. Fedezze fel a romokat és a drámai sziklákat.",
             "ro": "Punctul culminant al zilei. Explorați ruinele și stâncile dramatice.",
-            "en": "The highlight of the day. Explore the ruins and dramatic cliffs."
+            "en": "The highlight of the day. Explore the ruins and dramatic cliffs.",
+            "bg": "Акцентът на деня. Разгледайте руините и драматичните скали."
           }
         },
         {
@@ -1246,7 +1350,8 @@
             "de": "Sonnenuntergang am Kap",
             "hu": "Naplemente a fokon",
             "ro": "Apus la Cap",
-            "en": "Sunset at the Cape"
+            "en": "Sunset at the Cape",
+            "bg": "Слънчев залез на носа"
           },
           "coords": [
             28.465,
@@ -1262,7 +1367,8 @@
             "de": "Finden Sie einen Platz auf den Klippen, um das Spektakel zu beobachten.",
             "hu": "Keressen egy helyet a sziklákon, hogy megnézze a látványt.",
             "ro": "Găsiți un loc pe stânci pentru a urmări spectacolul.",
-            "en": "Find a spot on the cliffs to watch the spectacle."
+            "en": "Find a spot on the cliffs to watch the spectacle.",
+            "bg": "Намерете място по скалите, за да наблюдавате спектакъла."
           }
         },
         {
@@ -1270,7 +1376,8 @@
             "de": "Abendessen am Strand von Kawarna",
             "hu": "Vacsora Kavárna strandján",
             "ro": "Cină pe plaja din Kavarna",
-            "en": "Dinner at Kavarna Beach"
+            "en": "Dinner at Kavarna Beach",
+            "bg": "Вечеря на плажа в Каварна"
           },
           "coords": [
             28.346,
@@ -1286,7 +1393,8 @@
             "de": "Beenden Sie Ihren Tag mit einem entspannten Abendessen am Meer.",
             "hu": "Zárja a napot egy kellemes vacsorával a tengerparton.",
             "ro": "Încheiați ziua cu o cină relaxantă pe malul mării.",
-            "en": "End your day with a relaxing dinner by the sea."
+            "en": "End your day with a relaxing dinner by the sea.",
+            "bg": "Завършете деня с релаксираща вечеря до морето."
           }
         }
       ],
@@ -1294,7 +1402,8 @@
         "de": "Dieser Autoausflug kombiniert Kultur mit Naturwundern. Starten Sie im Zentrum von Kawarna und erkunden Sie das Museum und die Kirche zu Fuß. Fahren Sie dann zur Festung Tschirakman für eine atemberaubende Aussicht und Mittagessen. Der Nachmittag ist dem majestätischen Kap Kaliakra gewidmet, wo Sie Ruinen erkunden und den Sonnenuntergang beobachten. Beenden Sie den Tag mit einem Abendessen am Strand von Kawarna.",
         "hu": "Ez az autós kirándulás ötvözi a kultúrát a természeti csodákkal. Kezdjen Kavárna központjában, gyalogosan fedezze fel a múzeumot és a templomot. Ezután hajtson a Csirakman erődhöz a lélegzetelállító kilátásért és ebédért. A délután a fenséges Kaliakra-foké, ahol romokat fedezhet fel és naplementét nézhet. Zárja a napot vacsorával Kavárna strandján.",
         "ro": "Această excursie cu mașina combină cultura cu minunile naturale. Începeți în centrul Kavarna, explorând muzeul și biserica pe jos. Apoi, conduceți la Cetatea Chirakman pentru priveliști uimitoare și prânz. După-amiaza este dedicată maiestuosului Cap Caliacra, explorând ruine și urmărind apusul. Încheiați ziua cu cina pe plaja din Kavarna.",
-        "en": "This car trip combines culture with natural wonders. Start in Kavarna's center, exploring the museum and church on foot. Then, drive to Chirakman Fortress for stunning views and lunch. The afternoon is dedicated to the majestic Cape Kaliakra, exploring ruins and watching the sunset. End your day with dinner back at Kavarna beach."
+        "en": "This car trip combines culture with natural wonders. Start in Kavarna's center, exploring the museum and church on foot. Then, drive to Chirakman Fortress for stunning views and lunch. The afternoon is dedicated to the majestic Cape Kaliakra, exploring ruins and watching the sunset. End your day with dinner back at Kavarna beach.",
+        "bg": "Тази автомобилна обиколка съчетава култура и природни чудеса. Започнете в центъра на Каварна, разглеждайки музея и църквата пеша. След това карайте до крепостта Чиракман за впечатляващи гледки и обяд. Следобедът е посветен на величествения нос Калиакра — разглеждане на руините и наблюдение на залеза. Завършете деня с вечеря обратно на плажа в Каварна."
       },
       "gastro_picks": {
         "de": [
@@ -1490,6 +1599,12 @@
           "The roads can be narrow, so drive carefully.",
           "Bring a good camera for the spectacular views.",
           "There is an entrance fee for Cape Kaliakra and the fortress."
+        ],
+        "bg": [
+          "Уверете се, че имате достатъчно гориво за пътуването до нос Калиакра.",
+          "Пътищата могат да бъдат тесни, карайте внимателно.",
+          "Вземете добър фотоапарат за спектакуларните гледки.",
+          "Има входна такса за нос Калиакра и за крепостта."
         ]
       },
       "variants": {
@@ -1498,7 +1613,8 @@
             "de": "Nutzen Sie den Komfort des Autos, um die Sehenswürdigkeiten Kawarnas trocken zu erreichen. Während der Regen gegen die Scheiben prasselt, besuchen Sie das Museum und die Kirche im Zentrum. Die Fahrt zum Kap Kaliakra bietet dramatische Ausblicke auf die stürmische See, die man am besten vom geschützten Aussichtspunkt genießt.",
             "hu": "Használja ki az autó kényelmét, hogy szárazon érje el Kawarna látnivalóit. Miközben az eső veri a szélvédőt, látogassa meg a múzeumot és a templomot. A Kaliakra-fokhoz vezető út drámai kilátást nyújt a viharos tengerre, amit a legjobban egy védett kilátópontról élvezhet.",
             "ro": "Folosiți confortul mașinii pentru a ajunge la obiectivele din Kavarna fără a vă uda. În timp ce ploaia bate în parbriz, vizitați muzeul și biserica din centru. Drumul spre Capul Kaliakra oferă vederi dramatice asupra mării agitate, admirate cel mai bine din puncte protejate.",
-            "en": "Take advantage of the car's comfort to reach Kavarna's sights while staying dry. While rain pelts the windshield, visit the museum and church in the center. The drive to Cape Kaliakra offers dramatic views of the stormy sea, best enjoyed from a sheltered viewpoint."
+            "en": "Take advantage of the car's comfort to reach Kavarna's sights while staying dry. While rain pelts the windshield, visit the museum and church in the center. The drive to Cape Kaliakra offers dramatic views of the stormy sea, best enjoyed from a sheltered viewpoint.",
+            "bg": "Възползвайте се от удобството на колата, за да посетите забележителностите на Каварна и да останете сухи. Докато дъждът трещи по предното стъкло, разгледайте музея и църквата в центъра. Пътят до нос Калиакра предлага драматични гледки към бурното море, които са най-приятни от защитен изглед."
           },
           "stops": [
             {
@@ -1507,7 +1623,8 @@
                 "de": "Kostenlose Parkplätze direkt am Museum verfügbar.",
                 "hu": "Ingyenes parkolás közvetlenül a múzeumnál.",
                 "ro": "Parcare gratuită disponibilă direct la muzeu.",
-                "en": "Free parking available directly at the museum."
+                "en": "Free parking available directly at the museum.",
+                "bg": "Безплатен паркинг непосредствено до музея."
               }
             },
             {
@@ -1516,7 +1633,8 @@
                 "de": "Parken Sie nah am Eingang, um den Regen zu meiden.",
                 "hu": "Parkoljon közel a bejárathoz, hogy elkerülje az esőt.",
                 "ro": "Parcați aproape de intrare pentru a evita ploaia.",
-                "en": "Park close to the entrance to avoid the rain."
+                "en": "Park close to the entrance to avoid the rain.",
+                "bg": "Паркирайте близо до входа, за да избегнете дъжда."
               }
             },
             {
@@ -1525,7 +1643,8 @@
                 "de": "Die unbefestigten Parkflächen können schlammig sein.",
                 "hu": "A nem aszfaltozott parkolóhelyek sárgásak lehetnek.",
                 "ro": "Zonel de parcare neasfaltate pot fi noroioase.",
-                "en": "Unpaved parking areas can be muddy."
+                "en": "Unpaved parking areas can be muddy.",
+                "bg": "Насипните паркинги могат да бъдат кални."
               }
             },
             {
@@ -1534,7 +1653,8 @@
                 "de": "Gute Erreichbarkeit mit dem Auto auch bei starkem Regen.",
                 "hu": "Autóval erős esőben is könnyen megközelíthető.",
                 "ro": "Accesibilitate bună cu mașina chiar și pe ploaie torențială.",
-                "en": "Good accessibility by car even in heavy rain."
+                "en": "Good accessibility by car even in heavy rain.",
+                "bg": "Добра достъпност с кола дори при силен дъжд."
               }
             },
             {
@@ -1543,7 +1663,8 @@
                 "de": "Dramatische Brandung beobachten, aber Vorsicht bei Sturmböen.",
                 "hu": "Figyelje a drámai hullámverést, de vigyázzon a szélviharral.",
                 "ro": "Admirați valurile dramatice, dar atenție la rafalele de vânt.",
-                "en": "Watch the dramatic surf, but watch out for gale-force gusts."
+                "en": "Watch the dramatic surf, but watch out for gale-force gusts.",
+                "bg": "Наблюдавайте драматичния прибой, но внимавайте за силни бурни пориви."
               }
             },
             {
@@ -1552,7 +1673,8 @@
                 "de": "Bleiben Sie bei starkem Regen für den Ausblick im Auto.",
                 "hu": "Heves esőben élvezze a kilátást az autóból.",
                 "ro": "Rămâneți în mașină pentru priveliște dacă plouă torențial.",
-                "en": "Stay in the car for the view if it's raining heavily."
+                "en": "Stay in the car for the view if it's raining heavily.",
+                "bg": "Останете в колата, за да гледате, ако вали силно."
               }
             },
             {
@@ -1561,7 +1683,8 @@
                 "de": "Direkte Zufahrt bis zum Restaurant am Strand möglich.",
                 "hu": "Közvetlen lejutás autóval a tengerparti étteremig.",
                 "ro": "Acces direct cu mașina până la restaurantul de pe plajă.",
-                "en": "Direct access by car right down to the beach restaurant."
+                "en": "Direct access by car right down to the beach restaurant.",
+                "bg": "Директен достъп с кола чак до плажния ресторант."
               }
             }
           ],
@@ -1589,6 +1712,12 @@
               "Use parking spots right by the sights to keep walks in the rain short.",
               "The wind at the Cape can be very fierce during rain; hold the door when getting out.",
               "Visibility at the Cape can be limited by sea spray and low clouds."
+            ],
+            "bg": [
+              "Пътят до нос Калиакра е добре поддържан, но внимавайте за аквапланинг при силен дъжд.",
+              "Използвайте паркингите до забележителностите, за да намалите разходките под дъжда.",
+              "Вятърът на носа може да е много силен по време на дъжд; дръжте вратата при слизане.",
+              "Видимостта на носа може да бъде ограничена от морска вода и ниски облаци."
             ]
           }
         },
@@ -1597,7 +1726,8 @@
             "de": "Genießen Sie die winterliche Einsamkeit der Dobrudscha-Küste im beheizten Auto. Vormittags besuchen Sie die kulturellen Highlights im Zentrum. Die Fahrt zum Kap Kaliakra im Winterlicht ist spektakulär, auch wenn der Wind draußen eisig weht. Ein gemütliches Abendessen am Strand rundet den Tag ab.",
             "hu": "Élvezze a dobrudzsai partvidék téli magányát a fűtött autóban. Délelőtt látogassa meg a központ kulturális nevezetességeit. A Kaliakra-fokhoz vezető út a téli fényekben látványos, még ha odakint jeges is a szél. A napot egy hangulatos tengerparti vacsora zárja.",
             "ro": "Bucurați-vă de singurătatea hibernală a coastei Dobrogei în mașina încălzită. Dimineața, vizitați reperele culturale din centru. Drumul spre Capul Kaliakra în lumina de iarnă este spectaculos, chiar dacă vântul de afară este înghețat. O cină plăcută pe plajă încheie ziua.",
-            "en": "Enjoy the winter solitude of the Dobruja coast in a heated car. In the morning, visit the cultural highlights in the center. The drive to Cape Kaliakra in winter light is spectacular, even if the wind outside is icy. A cozy dinner at the beach rounds off the day."
+            "en": "Enjoy the winter solitude of the Dobruja coast in a heated car. In the morning, visit the cultural highlights in the center. The drive to Cape Kaliakra in winter light is spectacular, even if the wind outside is icy. A cozy dinner at the beach rounds off the day.",
+            "bg": "Насладете се на зимното уединение на добруджанското крайбрежие в загрята кола. Сутринта посетете културните акценти в центъра. Пътуването до нос Калиакра при зимна светлина е впечатляващо, въпреки че външният вятър е ледено студен. Уютна вечеря на плажа закръгля деня."
           },
           "stops": [
             {
@@ -1606,7 +1736,8 @@
                 "de": "Die Heizung im Museum sorgt für angenehme Temperaturen.",
                 "hu": "A múzeum fűtése kellemes hőmérsékletet biztosít.",
                 "ro": "Încălzirea din muzeu asigură o temperatură plăcută.",
-                "en": "The museum's heating ensures comfortable temperatures."
+                "en": "The museum's heating ensures comfortable temperatures.",
+                "bg": "Отоплението в музея осигурява комфортна температура."
               }
             },
             {
@@ -1615,7 +1746,8 @@
                 "de": "Kurzer Stopp, um die winterliche Stille der Kirche zu genießen.",
                 "hu": "Rövid megálló a templom téli csendjének élvezetéhez.",
                 "ro": "Scurtă oprire pentru a vă bucura de liniștea hibernală a bisericii.",
-                "en": "Short stop to enjoy the winter silence of the church."
+                "en": "Short stop to enjoy the winter silence of the church.",
+                "bg": "Кратка спирка, за да се насладите на зимната тишина в църквата."
               }
             },
             {
@@ -1624,7 +1756,8 @@
                 "de": "Atemberaubende Aussicht auf das stahlblaue Wintermeer.",
                 "hu": "Lélegzetelállító kilátás az acélkék téli tengerre.",
                 "ro": "Vedere uluitoare spre marea de iarnă albastru-oțel.",
-                "en": "Breathtaking view of the steel-blue winter sea."
+                "en": "Breathtaking view of the steel-blue winter sea.",
+                "bg": "Дъхът спираща гледка към стоманено-синьото зимно море."
               }
             },
             {
@@ -1633,7 +1766,8 @@
                 "de": "Winteröffnungszeiten beachten, vorher reservieren empfohlen.",
                 "hu": "Figyeljen a téli nyitvatartásra, érdemes előre foglalni.",
                 "ro": "Atenție la programul de iarnă, se recomandă rezervare.",
-                "en": "Note winter opening hours; reservation recommended."
+                "en": "Note winter opening hours; reservation recommended.",
+                "bg": "Обърнете внимание на зимните работни часове; препоръчва се резервация."
               }
             },
             {
@@ -1642,7 +1776,8 @@
                 "de": "Frostige Schönheit, das Kap wirkt im Winter fast mystisch.",
                 "hu": "Jeges szépség, a fok télen szinte misztikusnak tűnik.",
                 "ro": "Frumusețe înghețată, capul pare aproape mistic iarna.",
-                "en": "Frosty beauty; the Cape looks almost mystical in winter."
+                "en": "Frosty beauty; the Cape looks almost mystical in winter.",
+                "bg": "Снежна/кристална красота; носът изглежда почти мистичен през зимата."
               }
             },
             {
@@ -1651,7 +1786,8 @@
                 "de": "Frühzeitige Ankunft wichtig, da die Sonne gegen 16:45 Uhr sinkt.",
                 "hu": "Fontos a korai érkezés, a nap már 16:45 körül lemegy.",
                 "ro": "Sosirea devreme este importantă, soarele apune pe la 16:45.",
-                "en": "Early arrival is important as the sun sets around 4:45 PM."
+                "en": "Early arrival is important as the sun sets around 4:45 PM.",
+                "bg": "Ранният пристигане е важно, тъй като слънцето залязва около 16:45 часа."
               }
             },
             {
@@ -1660,7 +1796,8 @@
                 "de": "Prüfen Sie, welche Restaurants im Winter geöffnet haben.",
                 "hu": "Ellenőrizze, mely éttermek vannak nyitva télen.",
                 "ro": "Verificați care restaurante sunt deschise iarna.",
-                "en": "Check which restaurants are open in winter."
+                "en": "Check which restaurants are open in winter.",
+                "bg": "Проверете кои ресторанти работят през зимата."
               }
             }
           ],
@@ -1688,6 +1825,12 @@
               "Wind gusts at the Cape can be extremely cold in winter (wind chill).",
               "Some tourist facilities at the Cape might have limited access in winter.",
               "Refuel in time as fewer gas stations might be staffed in the area during winter."
+            ],
+            "bg": [
+              "Внимавайте за потенциални заледени участъци по пътя към нос Калиакра.",
+              "Поривите на вятъра на носа могат да бъдат изключително студени през зимата (ефект на охлаждане от вятъра).",
+              "Някои туристически съоръжения на носа могат да имат ограничен достъп през зимата.",
+              "Зареждайте навреме, тъй като по-малко бензиностанции може да са обслужвани в района през зимата."
             ]
           }
         }
@@ -1706,7 +1849,8 @@
             "de": "Cluster A: Historisches Museum Kawarna",
             "hu": "A csoport: Kavárnai Történeti Múzeum",
             "ro": "Cluster A: Muzeul de Istorie Kavarna",
-            "en": "Cluster A: Kavarna Historical Museum"
+            "en": "Cluster A: Kavarna Historical Museum",
+            "bg": "Клъстер A: Исторически музей – Каварна"
           },
           "coords": [
             28.3355,
@@ -1722,7 +1866,8 @@
             "de": "Beginnen Sie im Stadtzentrum, das vom Hauptbusbahnhof aus leicht zu erreichen ist.",
             "hu": "Kezdje a városközpontban, amely könnyen megközelíthető a fő buszpályaudvarról.",
             "ro": "Începeți din centrul orașului, ușor accesibil de la autogara principală.",
-            "en": "Start in the city center, easily reachable from the main bus station."
+            "en": "Start in the city center, easily reachable from the main bus station.",
+            "bg": "Започнете в центъра на града, лесно достъпен от главната автогара."
           }
         },
         {
@@ -1730,7 +1875,8 @@
             "de": "Ethnographisches Museum",
             "hu": "Néprajzi Múzeum",
             "ro": "Muzeul Etnografic",
-            "en": "Ethnographic Museum"
+            "en": "Ethnographic Museum",
+            "bg": "Етнографски музей"
           },
           "coords": [
             28.3345,
@@ -1746,7 +1892,8 @@
             "de": "Ein kurzer Spaziergang, um mehr über die lokale Kultur zu erfahren.",
             "hu": "Rövid séta, hogy többet tudjon meg a helyi kultúráról.",
             "ro": "O scurtă plimbare pentru a afla mai multe despre cultura locală.",
-            "en": "A short walk to learn more about the local culture."
+            "en": "A short walk to learn more about the local culture.",
+            "bg": "Кратка разходка, за да научите повече за местната култура."
           }
         },
         {
@@ -1754,7 +1901,8 @@
             "de": "Mittagessen im Stadtzentrum",
             "hu": "Ebéd a városközpontban",
             "ro": "Prânz în centrul orașului",
-            "en": "Lunch in the City Center"
+            "en": "Lunch in the City Center",
+            "bg": "Обяд в центъра на града"
           },
           "coords": [
             28.337,
@@ -1770,7 +1918,8 @@
             "de": "Stärken Sie sich, bevor Sie den Bus zum Strand nehmen.",
             "hu": "Erősítsen, mielőtt buszra szállna a strand felé.",
             "ro": "Luați o masă copioasă înainte de a lua autobuzul spre plajă.",
-            "en": "Fuel up before taking the bus to the beach area."
+            "en": "Fuel up before taking the bus to the beach area.",
+            "bg": "Напълнете резервоара преди да вземете автобуса към плажа."
           }
         },
         {
@@ -1778,7 +1927,8 @@
             "de": "Cluster B: Meeresgarten",
             "hu": "B csoport: Tengeri Kert",
             "ro": "Cluster B: Grădina Mării",
-            "en": "Cluster B: Sea Garden"
+            "en": "Cluster B: Sea Garden",
+            "bg": "Клъстер B: Морска градина"
           },
           "coords": [
             28.344,
@@ -1794,7 +1944,8 @@
             "de": "Nehmen Sie einen lokalen Bus zur Küste und steigen Sie hier aus.",
             "hu": "Menjen helyi busszal a partra, és itt szálljon le.",
             "ro": "Luați un autobuz local spre coastă și coborâți aici.",
-            "en": "Take a local bus to the coast and get off here."
+            "en": "Take a local bus to the coast and get off here.",
+            "bg": "Вземете местен автобус до крайбрежието и слезте тук."
           }
         },
         {
@@ -1802,7 +1953,8 @@
             "de": "Zentralstrand von Kawarna",
             "hu": "Kavárna központi strandja",
             "ro": "Plaja Centrală din Kavarna",
-            "en": "Kavarna Central Beach"
+            "en": "Kavarna Central Beach",
+            "bg": "Централен плаж – Каварна"
           },
           "coords": [
             28.346,
@@ -1818,7 +1970,8 @@
             "de": "Der Hauptstrand ist nur einen kurzen Spaziergang entfernt.",
             "hu": "A fő strand csak egy rövid sétára van.",
             "ro": "Plaja principală este la doar o scurtă plimbare.",
-            "en": "The main beach is just a short walk away."
+            "en": "The main beach is just a short walk away.",
+            "bg": "Главният плаж е само на кратка разходка."
           }
         },
         {
@@ -1826,7 +1979,8 @@
             "de": "Rückfahrt ins Zentrum",
             "hu": "Vissza a központba",
             "ro": "Întoarcere în centru",
-            "en": "Return to the Center"
+            "en": "Return to the Center",
+            "bg": "Връщане към центъра"
           },
           "coords": [
             28.335,
@@ -1842,7 +1996,8 @@
             "de": "Nehmen Sie den Bus zurück und lassen Sie den Tag ausklingen.",
             "hu": "Menjen busszal vissza, és zárja le a napot.",
             "ro": "Luați autobuzul înapoi și încheiați ziua.",
-            "en": "Take the bus back and wind down your day."
+            "en": "Take the bus back and wind down your day.",
+            "bg": "Вземете автобуса обратно и завършете деня си спокойно."
           }
         }
       ],
@@ -1850,7 +2005,8 @@
         "de": "Erkunden Sie Kawarna einfach mit öffentlichen Verkehrsmitteln. Verbringen Sie den Vormittag damit, die Museen im Stadtzentrum zu Fuß zu erkunden und genießen Sie ein lokales Mittagessen. Am Nachmittag bringt Sie ein Bus in die Küstenregion, wo Sie im Meeresgarten spazieren gehen und am Zentralstrand entspannen können. Eine bequeme Busfahrt bringt Sie am Ende des Tages zurück ins Zentrum.",
         "hu": "Fedezze fel Kavárnát könnyedén a tömegközlekedéssel. Töltse a délelőttöt a belvárosi múzeumok gyalogos felfedezésével és egy helyi ebéd elfogyasztásával. Délután egy busz elviszi a partvidékre, ahol sétálhat a Tengeri Kertben és pihenhet a központi strandon. A nap végén egy kényelmes buszút viszi vissza a központba.",
         "ro": "Explorați Kavarna cu ușurință folosind transportul public. Petreceți dimineața explorând pe jos muzeele din centrul orașului și savurând un prânz local. După-amiaza, un autobuz vă va duce în zona de coastă pentru o plimbare prin Grădina Mării și relaxare pe Plaja Centrală. O călătorie confortabilă cu autobuzul vă va aduce înapoi în centru la sfârșitul zilei.",
-        "en": "Explore Kavarna with ease using public transport. Spend the morning exploring the city center's museums on foot and enjoy a local lunch. In the afternoon, a bus will take you to the coastal area for a walk in the Sea Garden and relaxation on the Central Beach. A convenient bus ride brings you back to the center at the end of the day."
+        "en": "Explore Kavarna with ease using public transport. Spend the morning exploring the city center's museums on foot and enjoy a local lunch. In the afternoon, a bus will take you to the coastal area for a walk in the Sea Garden and relaxation on the Central Beach. A convenient bus ride brings you back to the center at the end of the day.",
+        "bg": "Разгледайте Каварна лесно с обществения транспорт. Прекарайте сутринта в разглеждане на музеите в центъра пеша и се насладете на местен обяд. Следобед автобус ще ви откара до крайбрежната зона за разходка в Морската градина и релакс на Централния плаж. Удобен автобус ви връща в центъра в края на деня."
       },
       "gastro_picks": {
         "de": [
@@ -2046,6 +2202,12 @@
           "Check the bus schedule in advance, especially for the last ride back.",
           "Buses can be crowded during the summer.",
           "Keep small change ready for tickets."
+        ],
+        "bg": [
+          "Купете дневен билет за неограничени пътувания.",
+          "Проверете разписанието на автобусите предварително, особено за последното връщане.",
+          "Автобусите могат да са претъпкани през лятото.",
+          "Дръжте дребни пари под ръка за билетите."
         ]
       },
       "variants": {
@@ -2054,7 +2216,8 @@
             "de": "Nutzen Sie lokale Minibusse, um zwischen dem Zentrum und der Küste zu pendeln. Die Museen im Stadtinneren sind ideale Ziele für verregnete Vormittage. Mittags finden Sie in der Nähe der Haltestellen im Zentrum gute Verpflegungsmöglichkeiten. Ein kurzer Abstecher zum stürmischen Strand ist auch bei Regen lohnenswert.",
             "hu": "Használja a helyi kisbuszokat a központ és a part közötti közlekedéshez. A belvárosi múzeumok ideális célpontok az esős délelőttökön. Délben a központi megállók közelében jó étkezési lehetőségeket talál. Egy rövid kitérő a viharos strandhoz esőben is megéri.",
             "ro": "Folosiți microbuzele locale pentru a naveta între centru și coastă. Muzeele din interiorul orașului sunt destinații ideale pentru diminețile ploioase. La prânz, veți găsi opțiuni bune de masă lângă stațiile din centru. O scurtă vizită la plaja agitată merită chiar și pe ploaie.",
-            "en": "Use local minibuses to commute between the center and the coast. The museums in the town center are ideal destinations for rainy mornings. At noon, you'll find good dining options near the central stops. A short detour to the stormy beach is worthwhile even in the rain."
+            "en": "Use local minibuses to commute between the center and the coast. The museums in the town center are ideal destinations for rainy mornings. At noon, you'll find good dining options near the central stops. A short detour to the stormy beach is worthwhile even in the rain.",
+            "bg": "Използвайте местните микробуси за придвижване между центъра и крайбрежието. Музеите в центъра са идеални за дъждовни сутрини. В обедните часове ще намерите добри заведения за хранене близо до централните спирки. Кратък отклон към бурния плаж си струва дори при дъжд."
           },
           "stops": [
             {
@@ -2063,7 +2226,8 @@
                 "de": "Zentrale Lage, gut von den Hauptbushaltestellen erreichbar.",
                 "hu": "Központi elhelyezkedés, könnyen elérhető a fő buszmegállóktól.",
                 "ro": "Locație centrală, ușor accesibilă de la stațiile principale de autobuz.",
-                "en": "Central location, easily accessible from the main bus stops."
+                "en": "Central location, easily accessible from the main bus stops.",
+                "bg": "Централно разположение, лесно достъпно от основните автобусни спирки."
               }
             },
             {
@@ -2072,7 +2236,8 @@
                 "de": "Nur ein kurzer Fußweg von der Bushaltestelle im Zentrum.",
                 "hu": "Csak rövid séta a központi buszmegállótól.",
                 "ro": "La doar o scurtă plimbare de stația de autobuz din centru.",
-                "en": "Just a short walk from the central bus stop."
+                "en": "Just a short walk from the central bus stop.",
+                "bg": "Само на кратка разходка от централната автобусна спирка."
               }
             },
             {
@@ -2081,7 +2246,8 @@
                 "de": "Viele Restaurants befinden sich direkt an der Transitroute.",
                 "hu": "Számos étterem közvetlenül a buszjáratok vonalán található.",
                 "ro": "Multe restaurante se află direct pe ruta de tranzit.",
-                "en": "Many restaurants are located directly on the transit route."
+                "en": "Many restaurants are located directly on the transit route.",
+                "bg": "Много ресторанти се намират директно по транзитния маршрут."
               }
             },
             {
@@ -2090,7 +2256,8 @@
                 "de": "Die Haltestelle liegt am oberen Ende des Parks.",
                 "hu": "A megálló a park felső végén található.",
                 "ro": "Stația se află la capătul superior al parcului.",
-                "en": "The stop is located at the upper end of the park."
+                "en": "The stop is located at the upper end of the park.",
+                "bg": "Спирката е разположена в горната част на парка."
               }
             },
             {
@@ -2099,7 +2266,8 @@
                 "de": "Planen Sie die Rückfahrt ein, Busse fahren seltener bei Regen.",
                 "hu": "Tervezze meg a visszautat, esőben ritkábban járhatnak a buszok.",
                 "ro": "Planificați întoarcerea, autobuzele pot circula mai rar pe ploaie.",
-                "en": "Plan your return; buses might run less frequently in the rain."
+                "en": "Plan your return; buses might run less frequently in the rain.",
+                "bg": "Планирайте връщането си; автобусите могат да се движат по-рядко при дъжд."
               }
             },
             {
@@ -2108,7 +2276,8 @@
                 "de": "Warten Sie im Unterstand der Haltestelle auf den Bus.",
                 "hu": "Várja a buszt a megálló fedett várójában.",
                 "ro": "Așteptați autobuzul în adăpostul stației.",
-                "en": "Wait for the bus in the station shelter."
+                "en": "Wait for the bus in the station shelter.",
+                "bg": "Изчакайте автобуса в навеса на спирката."
               }
             }
           ],
@@ -2136,6 +2305,12 @@
               "Check in advance for modified schedules during bad weather.",
               "Have small change ready for the ticket to avoid boarding delays.",
               "Central stops mostly offer a shelter against the rain."
+            ],
+            "bg": [
+              "Микробусите (маршрутки) движат между центъра и пристанищната зона.",
+              "Проверете предварително за променени разписания при лошо време.",
+              "Дръжте дребни пари готови за билет, за да избегнете закъснения при качване.",
+              "Централните спирки предлагат навеси срещу дъжда."
             ]
           }
         },
@@ -2144,7 +2319,8 @@
             "de": "Bewegen Sie sich effizient mit dem Transit zwischen den winterlichen Zielen. Die beheizten Busse sind eine willkommene Abwechslung zur kühlen Meeresluft. Nutzen Sie den Vormittag für Museumsbesuche und genießen Sie das Mittagessen im Zentrum, bevor Sie für einen kurzen Küstencheck zum Hafen hinunterfahren.",
             "hu": "Közlekedjen hatékonyan a tömegközlekedéssel a téli célpontok között. A fűtött buszok kellemes felüdülést nyújtanak a hűvös tengeri levegő után. Használja ki a délelőttöt múzeumlátogatásra, ebédeljen a központban, majd ugorjon le a kikötőhöz egy rövid parti nézelődésre.",
             "ro": "Deplasați-vă eficient cu transportul în comun între destinațiile de iarnă. Autobuzele încălzite sunt o schimbare binevenită față de aerul rece al mării. Folosiți dimineața pentru vizite la muzee și prânziți în centru înainte de a coborî în port pentru o scurtă plimbare.",
-            "en": "Move efficiently with transit between winter destinations. The heated buses are a welcome break from the cool sea air. Use the morning for museum visits and enjoy lunch in the center before heading down to the harbor for a short coastal check."
+            "en": "Move efficiently with transit between winter destinations. The heated buses are a welcome break from the cool sea air. Use the morning for museum visits and enjoy lunch in the center before heading down to the harbor for a short coastal check.",
+            "bg": "Движете се ефективно с транспорт между зимните дестинации. Отоплените автобуси са желана пауза от хладния морски въздух. Използвайте сутринта за посещения на музеи и се насладете на обяд в центъра преди да се отправите към пристанището за кратка крайбрежна проверка."
           },
           "stops": [
             {
@@ -2153,7 +2329,8 @@
                 "de": "Das Museum ist ein warmer Start in den Wintertag.",
                 "hu": "A múzeum meleg kezdése a téli napnak.",
                 "ro": "Muzeul este un început călduros pentru o zi de iarnă.",
-                "en": "The museum is a warm start to your winter day."
+                "en": "The museum is a warm start to your winter day.",
+                "bg": "Музеят е топло начало на вашия зимен ден."
               }
             },
             {
@@ -2162,7 +2339,8 @@
                 "de": "Wärmen Sie sich in den Ausstellungsräumen auf.",
                 "hu": "Melegedjen fel a kiállítótermekben.",
                 "ro": "Încălziți-vă în sălile de expoziție.",
-                "en": "Warm up in the exhibition rooms."
+                "en": "Warm up in the exhibition rooms.",
+                "bg": "Загрейте се в изложбените зали."
               }
             },
             {
@@ -2171,7 +2349,8 @@
                 "de": "Wählen Sie ein Lokal nah an der Haltestelle für minimale Kälteexposition.",
                 "hu": "Válasszon megállóhoz közeli helyet a minimális hidegnek való kitettségért.",
                 "ro": "Alegeți un local aproape de stație pentru expunere minimă la frig.",
-                "en": "Choose a place near the stop for minimal cold exposure."
+                "en": "Choose a place near the stop for minimal cold exposure.",
+                "bg": "Изберете място близо до спирката за минимално излагане на студ."
               }
             },
             {
@@ -2180,7 +2359,8 @@
                 "de": "Genießen Sie den Blick, während Sie an der Haltestelle warten.",
                 "hu": "Élvezze a kilátást, miközben a megállóban várakozik.",
                 "ro": "Bucurați-vă de priveliște în timp ce așteptați în stație.",
-                "en": "Enjoy the view while waiting at the stop."
+                "en": "Enjoy the view while waiting at the stop.",
+                "bg": "Насладете се на гледката, докато чакате на спирката."
               }
             },
             {
@@ -2189,7 +2369,8 @@
                 "de": "Die Busse fahren im Winter seltener zum Strand; Plan prüfen.",
                 "hu": "A buszok télen ritkábban járnak a strandra; ellenőrizze a menetrendet.",
                 "ro": "Autobuzele circulă mai rar spre plajă iarna; verificați orarul.",
-                "en": "Buses run less frequently to the beach in winter; check the schedule."
+                "en": "Buses run less frequently to the beach in winter; check the schedule.",
+                "bg": "Автобусите се движат по-рядко към плажа през зимата; проверете разписанието."
               }
             },
             {
@@ -2198,7 +2379,8 @@
                 "de": "Die letzte Fahrt im Hellen nutzen (vor 17 Uhr).",
                 "hu": "Használja ki az utolsó világos járatot (17 óra előtt).",
                 "ro": "Folosiți ultima cursă pe lumină (înainte de ora 17).",
-                "en": "Take the last daylight trip (before 5 PM)."
+                "en": "Take the last daylight trip (before 5 PM).",
+                "bg": "Направете последното дневно пътуване (преди 17:00 часа)."
               }
             }
           ],
@@ -2226,6 +2408,12 @@
               "Buses are usually well-heated and offer protection from the wind.",
               "Ask locals for current departure times as online info can be inaccurate.",
               "Plan your return from the beach well before dark."
+            ],
+            "bg": [
+              "Честотата на микробусите може да е по-ниска през зимата.",
+              "Автобусите обикновено са добре отоплени и предпазват от вятъра.",
+              "Попитайте местните за актуални часове на тръгване, тъй като онлайн информацията може да е неточна.",
+              "Планирайте връщането от плажа добре преди тъмно."
             ]
           }
         }

@@ -21,7 +21,8 @@
             "de": "Viertel Varosha",
             "hu": "Varosa negyed",
             "ro": "Cartierul Varosha",
-            "en": "Varosha Quarter"
+            "en": "Varosha Quarter",
+            "bg": "Квартал Вараша"
           },
           "coords": [
             24.7145,
@@ -37,7 +38,8 @@
             "de": "Verlieren Sie sich in den engen Gassen mit ihren einzigartigen Häusern aus der Wiedergeburtszeit.",
             "hu": "Vesszen el a szűk macskaköves utcácskákban a bolgár újjászületés korabeli házak között.",
             "ro": "Pierdeți-vă pe străduțele înguste cu case unice din perioada Renașterii Naționale.",
-            "en": "Get lost in the narrow cobblestone streets with their unique National Revival houses."
+            "en": "Get lost in the narrow cobblestone streets with their unique National Revival houses.",
+            "bg": "Потопете се в тесните калдъръмени улици с техните уникални къщи от Възраждането."
           }
         },
         {
@@ -45,7 +47,8 @@
             "de": "Wasil-Lewski-Denkmal",
             "hu": "Vaszil Levszki emlékmű",
             "ro": "Monumentul Vasil Levski",
-            "en": "Vasil Levski Monument"
+            "en": "Vasil Levski Monument",
+            "bg": "Паметник на Васил Левски"
           },
           "coords": [
             24.7168,
@@ -61,7 +64,8 @@
             "de": "Ein wichtiger Ort, der dem Nationalhelden Bulgariens gewidmet ist. Kurz innehalten.",
             "hu": "Bulgária nemzeti hősének szentelt fontos hely. Álljon meg egy pillanatra tisztelegni.",
             "ro": "Un loc important dedicat eroului național al Bulgariei. Opriți-vă pentru un moment de reculegere.",
-            "en": "An important spot dedicated to Bulgaria's national hero. Pause for a moment of respect."
+            "en": "An important spot dedicated to Bulgaria's national hero. Pause for a moment of respect.",
+            "bg": "Важно място, посветено на националния герой на България. Отдайте миг уважение."
           }
         },
         {
@@ -69,7 +73,8 @@
             "de": "Kirche St. Nedelja",
             "hu": "Szent Nedelja templom",
             "ro": "Biserica Sfânta Nedelya",
-            "en": "St. Nedelya Church"
+            "en": "St. Nedelya Church",
+            "bg": "Света Неделя"
           },
           "coords": [
             24.7138,
@@ -85,7 +90,8 @@
             "de": "Achten Sie auf die beeindruckenden Wandmalereien im Inneren dieser historischen Kirche.",
             "hu": "Figyelje meg a lenyűgöző falfestményeket ebben a történelmi templomban.",
             "ro": "Observați picturile murale impresionante din interiorul acestei biserici istorice.",
-            "en": "Pay attention to the impressive murals inside this historic church."
+            "en": "Pay attention to the impressive murals inside this historic church.",
+            "bg": "Обърнете внимание на впечатляващите стенописи вътре в тази историческа църква."
           }
         },
         {
@@ -93,7 +99,8 @@
             "de": "Gedeckte Brücke",
             "hu": "Fedett híd",
             "ro": "Podul Acoperit",
-            "en": "The Covered Bridge"
+            "en": "The Covered Bridge",
+            "bg": "Покритият мост"
           },
           "coords": [
             24.715,
@@ -109,7 +116,8 @@
             "de": "Stöbern Sie in den kleinen Läden auf der Brücke – ein einzigartiges Erlebnis.",
             "hu": "Böngésszen a hídon található kis üzletekben – egyedülálló élmény.",
             "ro": "Răsfoiți micile magazine de pe pod - o experiență unică.",
-            "en": "Browse the small shops located right on the bridge – a unique experience."
+            "en": "Browse the small shops located right on the bridge – a unique experience.",
+            "bg": "Разгледайте малките магазинчета, разположени направо върху моста – уникално преживяване."
           }
         },
         {
@@ -117,7 +125,8 @@
             "de": "Wasil-Lewski-Museum",
             "hu": "Vaszil Levszki Múzeum",
             "ro": "Muzeul Vasil Levski",
-            "en": "Vasil Levski Museum"
+            "en": "Vasil Levski Museum",
+            "bg": "Музей Васил Левски"
           },
           "coords": [
             24.7135,
@@ -133,7 +142,8 @@
             "de": "Planen Sie genügend Zeit ein, um mehr über das Leben des „Apostels der Freiheit“ zu erfahren.",
             "hu": "Szánjon elég időt arra, hogy többet megtudjon a „Szabadság Apostolának” életéről.",
             "ro": "Planificați suficient timp pentru a afla despre viața „Apostolului Libertății”.",
-            "en": "Plan enough time to learn about the life of the 'Apostle of Freedom'."
+            "en": "Plan enough time to learn about the life of the 'Apostle of Freedom'.",
+            "bg": "Планирайте достатъчно време, за да научите за живота на „Апостола на свободата“."
           }
         },
         {
@@ -141,7 +151,8 @@
             "de": "Festung Hisarja",
             "hu": "Hisarya erőd",
             "ro": "Cetatea Hisarya",
-            "en": "Hisarya Fortress"
+            "en": "Hisarya Fortress",
+            "bg": "Крепост Хисаря"
           },
           "coords": [
             24.7179,
@@ -157,7 +168,8 @@
             "de": "Tragen Sie festes Schuhwerk für den Aufstieg. Die Aussicht von oben ist die Mühe wert.",
             "hu": "Viseljen kényelmes cipőt a mászáshoz. A fentről nyíló kilátás megéri a fáradságot.",
             "ro": "Purtați încălțăminte rezistentă pentru urcare. Priveliștea de sus merită efortul.",
-            "en": "Wear sturdy shoes for the climb. The view from the top is worth the effort."
+            "en": "Wear sturdy shoes for the climb. The view from the top is worth the effort.",
+            "bg": "Носете здрави обувки за изкачването. Изгледът от върха си заслужава усилието."
           }
         },
         {
@@ -165,7 +177,8 @@
             "de": "Stratesh-Park",
             "hu": "Sztrates park",
             "ro": "Parcul Stratesh",
-            "en": "Stratesh Park"
+            "en": "Stratesh Park",
+            "bg": "Парк Стратеш"
           },
           "coords": [
             24.725,
@@ -181,7 +194,8 @@
             "de": "Der perfekte Ort für einen entspannten Spaziergang am späten Nachmittag.",
             "hu": "Tökéletes hely egy pihentető késő délutáni sétához.",
             "ro": "Locul perfect pentru o plimbare relaxantă la sfârșitul după-amiezii.",
-            "en": "The perfect spot for a relaxing late afternoon walk."
+            "en": "The perfect spot for a relaxing late afternoon walk.",
+            "bg": "Перфектното място за релаксираща разходка късния следобед."
           }
         }
       ],
@@ -189,7 +203,8 @@
         "de": "Beginnen Sie Ihren Tag im historischen Viertel Varosha, wo die Zeit stehen geblieben zu sein scheint. Nach einem Vormittag voller Geschichte im Wasil-Lewski-Museum und einem Spaziergang über die einzigartige Gedeckte Brücke steigen Sie zur Festung Hisarja auf. Der Nachmittag gehört der Entspannung im Stratesh-Park, bevor Sie den Tag bei einem traditionellen Abendessen ausklingen lassen.",
         "hu": "Kezdje a napot a történelmi Varosa negyedben, ahol mintha megállt volna az idő. A Vaszil Levszki Múzeumban töltött történelmi délelőtt és az egyedülálló Fedett hídon tett séta után másszon fel a Hisarya erődhöz. A délután a pihenésé a Sztrates parkban, mielőtt egy hagyományos vacsorával zárja a napot.",
         "ro": "Începeți ziua în cartierul istoric Varosha, unde timpul pare să fi stat în loc. După o dimineață plină de istorie la Muzeul Vasil Levski și o plimbare peste Podul Acoperit unic, urcați la Cetatea Hisarya. După-amiaza este dedicată relaxării în Parcul Stratesh înainte de a încheia ziua cu o cină tradițională.",
-        "en": "Start your day in the historic Varosha quarter, where time seems to stand still. After a morning of history at the Vasil Levski Museum and a walk across the unique Covered Bridge, climb up to the Hisarya Fortress. The afternoon is for relaxing in Stratesh Park before ending the day with a traditional dinner."
+        "en": "Start your day in the historic Varosha quarter, where time seems to stand still. After a morning of history at the Vasil Levski Museum and a walk across the unique Covered Bridge, climb up to the Hisarya Fortress. The afternoon is for relaxing in Stratesh Park before ending the day with a traditional dinner.",
+        "bg": "Започнете деня в историческия квартал Вараша, където времето сякаш е спряло. След сутрин изпълнена с история в музея на Васил Левски и разходка по уникалния Покрит мост, изкачете се до крепост Хисаря. Следобедът е за отдих в парк Стратеш, преди да завършите деня с традиционна вечеря."
       },
       "gastro_picks": {
         "de": [
@@ -349,6 +364,12 @@
           "Most sights are close to each other, making Lovech ideal for a walking tour.",
           "Bring water with you, especially for the climb to the fortress.",
           "Some smaller museums and shops may only accept cash."
+        ],
+        "bg": [
+          "Носете удобни обувки, тъй като калдъръмът в Вараша може да е неравен.",
+          "Повечето забележителности са близо една до друга, което прави Ловеч идеален за пешеходна обиколка.",
+          "Носете вода със себе си, особено за изкачването до крепостта.",
+          "Някои по-малки музеи и магазинчета могат да приемат само в брой."
         ]
       },
       "variants": {
@@ -357,7 +378,8 @@
             "de": "Der Morgen beginnt im historischen Viertel Varoscha, wo die schmalen Gassen bei Regen eine besondere Atmosphäre versprühen. Mittags bietet die überdachte Brücke von Kolju Fitscheto perfekten Schutz und gemütliche Läden. Nachmittags erkunden wir das Lewski-Museum und die Hisarja-Festung, wobei feste Schuhe auf dem nassen Pflaster wichtig sind. Der Tag endet ruhig im regnerischen Stratesch-Park.",
             "hu": "A reggelt a Varosa negyed esőáztatta macskakövein kezdjük, ahol a régi házak ereszei nyújtanak menedéket. Délben a Kolju Ficseto által épített fedett híd alatt pihenünk meg, ahol kézműves boltok várnak. Délután a Vaszil Levszki Múzeum belső terei után az erődöt látogatjuk meg esernyővel. Az este a Sztrates-park friss, párás levegőjében, a város fényeit nézve ér véget.",
             "ro": "Dimineața începe în cartierul istoric Varosha, unde străzile înguste capătă un farmec aparte sub ploaie. La prânz, Podul Acoperit oferă adăpost ideal și ocazia de a explora micile ateliere meșteșugărești. După-amiaza vizităm Muzeul Vasil Levski și Cetatea Hisarya, fiind atenți la pavajul ud de pe deal. Seara se încheie cu o plimbare revigorantă prin Parcul Stratesh, sub cerul plumburiu.",
-            "en": "The morning starts in the historic Varosha quarter, where rain adds a nostalgic touch to the old architecture. At noon, the unique Covered Bridge provides a dry sanctuary with its charming local shops. Afternoon is spent visiting the Vasil Levski Museum and the Hisarya Fortress, where umbrellas are a must on the hill. The day concludes with a peaceful walk in the misty Stratesh Park."
+            "en": "The morning starts in the historic Varosha quarter, where rain adds a nostalgic touch to the old architecture. At noon, the unique Covered Bridge provides a dry sanctuary with its charming local shops. Afternoon is spent visiting the Vasil Levski Museum and the Hisarya Fortress, where umbrellas are a must on the hill. The day concludes with a peaceful walk in the misty Stratesh Park.",
+            "bg": "Сутринта започва в историческия квартал Вараша, където дъждът придава носталгичен оттенък на старата архитектура. По обяд уникалният Покрит мост предлага сухо убежище с очарователните си местни магазинчета. Следобедът е за музея на Васил Левски и крепост Хисаря, където чадърите са задължителни на хълма. Денят завършва с мирна разходка в мъгливия парк Стратеш."
           },
           "stops": [
             {
@@ -366,7 +388,8 @@
                 "de": "Vorsicht auf dem nassen Kopfsteinpflaster; die Steine sind sehr rutschig.",
                 "hu": "Vigyázz a vizes macskaköveken, az oszmán kori utcák csúszósak lehetnek.",
                 "ro": "Atenție pe pavajul umed; străzile vechi pot deveni alunecoase.",
-                "en": "Watch your step on the wet cobblestones; the historic paths get slippery."
+                "en": "Watch your step on the wet cobblestones; the historic paths get slippery.",
+                "bg": "Внимавайте къде стъпвате върху мокрия калдъръм; историческите пътеки стават хлъзгави."
               }
             },
             {
@@ -375,7 +398,8 @@
                 "de": "Kurzer Stopp für ein Foto; der Platz ist völlig ungeschützt.",
                 "hu": "Gyors fotómegálló, a terület teljesen nyitott az esőre.",
                 "ro": "Oprire scurtă pentru poze; zona este complet expusă ploii.",
-                "en": "Quick photo stop; the monument area is fully exposed to rain."
+                "en": "Quick photo stop; the monument area is fully exposed to rain.",
+                "bg": "Бързо спиране за снимки; паметникът е напълно изложен на дъжда."
               }
             },
             {
@@ -384,7 +408,8 @@
                 "de": "Nutzen Sie die Stille im Inneren, um den stärksten Schauer abzuwarten.",
                 "hu": "Használd ki a belső csendet, hogy megvárd a zápor végét.",
                 "ro": "Folosiți liniștea din interior pentru a aștepta trecerea ploii.",
-                "en": "Enjoy the interior silence while waiting for a heavy shower to pass."
+                "en": "Enjoy the interior silence while waiting for a heavy shower to pass.",
+                "bg": "Насладете се на вътрешната тишина, докато чакате да премине силният дъжд."
               }
             },
             {
@@ -393,7 +418,8 @@
                 "de": "Der beste Ort bei Regen; besuchen Sie die Souvenirläden im Inneren.",
                 "hu": "A legjobb hely esőben; nézz be a hídon lévő kézműves boltokba.",
                 "ro": "Cel mai bun loc pe ploaie; vizitați magazinele de suveniruri din interior.",
-                "en": "The ultimate rainy day spot; explore the craft shops inside the bridge."
+                "en": "The ultimate rainy day spot; explore the craft shops inside the bridge.",
+                "bg": "Перфектното място за дъждовен ден; разгледайте занаятчийските магазинчета вътре в моста."
               }
             },
             {
@@ -402,7 +428,8 @@
                 "de": "Perfekt für eine ausgiebige Besichtigung im Trockenen.",
                 "hu": "Tökéletes választás egy hosszabb, fedett kulturális programhoz.",
                 "ro": "Ideal pentru o vizită culturală prelungită, ferită de umezeală.",
-                "en": "Perfect for an extended indoor visit to learn about Bulgarian history."
+                "en": "Perfect for an extended indoor visit to learn about Bulgarian history.",
+                "bg": "Идеално за по-дълго посещение на закрито, за да научите за българската история."
               }
             },
             {
@@ -411,7 +438,8 @@
                 "de": "Die Wege zur Festung sind steil; tragen Sie wasserfeste Wanderschuhe.",
                 "hu": "Az erődhöz vezető út meredek, viselj vízálló túrabakancsot.",
                 "ro": "Potecile spre cetate sunt abrupte; purtați încălțăminte impermeabilă.",
-                "en": "The paths to the fortress are steep; waterproof hiking shoes are recommended."
+                "en": "The paths to the fortress are steep; waterproof hiking shoes are recommended.",
+                "bg": "Пътеките към крепостта са стръмни; препоръчват се водоустойчиви туристически обувки."
               }
             },
             {
@@ -420,7 +448,8 @@
                 "de": "Die Bäume bieten etwas Schutz, aber ein Regenschirm ist notwendig.",
                 "hu": "A fák némi védelmet adnak, de az esernyő itt is elengedhetetlen.",
                 "ro": "Copacii oferă puțină protecție, dar umbrela rămâne necesară.",
-                "en": "Trees provide some cover, but an umbrella is still necessary for the views."
+                "en": "Trees provide some cover, but an umbrella is still necessary for the views.",
+                "bg": "Дърветата осигуряват някакво покритие, но чадърът все пак е необходим за гледките."
               }
             }
           ],
@@ -452,6 +481,13 @@
               "Check museum opening hours as many are closed on Mondays.",
               "The cafes on the bridge are great spots to relax and wait out the showers.",
               "Hisarya Fortress is very exposed; expect wind along with the rain."
+            ],
+            "bg": [
+              "Покритият мост е единственият по рода си на Балканите, идеален при дъжд.",
+              "Носете обувки с добро сцепление за хлъзгавите исторически улици на Вараша.",
+              "Проверете часовете за работа на музеите, тъй като много са затворени в понеделник.",
+              "Кафенетата на моста са отлични места за почивка и изчакване на поройте.",
+              "Крепост Хисаря е много открита; очаквайте вятър заедно с дъжда."
             ]
           }
         },
@@ -460,7 +496,8 @@
             "de": "Ein frostiger Morgen im verschneiten Varoscha-Viertel eröffnet den Tag. Die weißen Dächer der alten Häuser bieten eine malerische Kulisse. Mittags wärmen wir uns in den Museen und den beheizten Läden der überdachten Brücke auf. Der Nachstieg zur Hisarja-Festung belohnt mit einem klaren Blick über das winterliche Ossam-Tal. Vor dem frühen Sonnenuntergang genießen wir die Stille im Stratesch-Park.",
             "hu": "Zúzmarás reggel fogad a havas Varosa negyedben, ahol a régi házak fehér tetői mesebeli látványt nyújtanak. Délben a Levszki Múzeumban és a híd fűtött boltjaiban melegszünk fel. Délután a Hiszárja erőd falairól csodáljuk meg a jeges Oszam-folyó völgyét. A korai naplemente előtt még teszünk egy sétát a csendes, téli Sztrates-parkban.",
             "ro": "O dimineață geroasă în cartierul Varosha înzăpezit deschide ziua. Acoperișurile albe ale caselor vechi creează un decor de poveste. La prânz, ne încălzim în muzee și în magazinele de pe Podul Acoperit. După-amiaza, urcarea la Cetatea Hisarya oferă o panoramă clară asupra văii înghețate a râului Osam. Înainte de apusul devreme, savurăm liniștea parcului Stratesh.",
-            "en": "A frosty morning in the snowy Varosha quarter begins our winter journey. The white-capped roofs of old houses create a magical scene. At noon, we find warmth in the museums and the heated shops of the Covered Bridge. The afternoon climb to Hisarya Fortress offers crisp views over the frozen Osam valley. We enjoy the quiet of Stratesh Park before the early winter sunset."
+            "en": "A frosty morning in the snowy Varosha quarter begins our winter journey. The white-capped roofs of old houses create a magical scene. At noon, we find warmth in the museums and the heated shops of the Covered Bridge. The afternoon climb to Hisarya Fortress offers crisp views over the frozen Osam valley. We enjoy the quiet of Stratesh Park before the early winter sunset.",
+            "bg": "Мразовито утро във снежния квартал Вараша започва нашето зимно пътуване. Бели шапки на покривите на старите къщи създават вълшебна сцена. По обяд намираме топлина в музеи и отоплените магазинчета на Покрития мост. Следобедното изкачване до крепост Хисаря предлага кристални гледки над замръзналата долина на Осъм. Наслаждаваме се на тишината в парк Стратеш преди ранния зимен залез."
           },
           "stops": [
             {
@@ -469,7 +506,8 @@
                 "de": "Achten Sie auf Eiszapfen an den alten Traufen und glatte Stellen.",
                 "hu": "Vigyázz a jégcsapokra a régi ereszek alatt és a jeges szakaszokra.",
                 "ro": "Atenție la țurțurii de pe streșinile vechi și la porțiunile înghețate.",
-                "en": "Watch out for icicles on old eaves and slippery frozen patches."
+                "en": "Watch out for icicles on old eaves and slippery frozen patches.",
+                "bg": "Внимавайте за висулки от лед по старите стрехи и хлъзгави участъци от замръзнала настилка."
               }
             },
             {
@@ -478,7 +516,8 @@
                 "de": "Zügiger Stopp; auf der Anhöhe ist es im Winter oft sehr windig.",
                 "hu": "Gyors látogatás, a dombtetőn télen nagyon hideg szél fújhat.",
                 "ro": "Vizită rapidă; pe culme vântul poate fi foarte tăios iarna.",
-                "en": "Quick visit; the hilltop location is often very windy in winter."
+                "en": "Quick visit; the hilltop location is often very windy in winter.",
+                "bg": "Бързо посещение; разположението на върха на хълма често е много ветровито през зимата."
               }
             },
             {
@@ -487,7 +526,8 @@
                 "de": "Besuchen Sie den Innenraum für einen Moment der Ruhe und Wärme.",
                 "hu": "Térj be a templomba egy kis nyugalomért és relatív melegért.",
                 "ro": "Intrați în biserică pentru un moment de liniște și căldură relativă.",
-                "en": "Step inside the church for a moment of peace and relative warmth."
+                "en": "Step inside the church for a moment of peace and relative warmth.",
+                "bg": "Влезте в църквата за миг спокойствие и относителна топлина."
               }
             },
             {
@@ -496,7 +536,8 @@
                 "de": "Idealer Ort für einen heißen Tee in einem der Brückencafés.",
                 "hu": "Ideális hely egy forró teára a híd egyik hangulatos kávézójában.",
                 "ro": "Locul ideal pentru un ceai fierbinte la una dintre cafenelele de pe pod.",
-                "en": "Ideal spot for a hot tea in one of the cozy bridge cafes."
+                "en": "Ideal spot for a hot tea in one of the cozy bridge cafes.",
+                "bg": "Идеално място за горещ чай в едно от уютните кафенета на моста."
               }
             },
             {
@@ -505,7 +546,8 @@
                 "de": "Die Ausstellungen sind gut beheizt und bieten Schutz vor der Kälte.",
                 "hu": "A kiállítótermek fűtöttek, jó menedéket nyújtanak a kinti hideg elől.",
                 "ro": "Sălile de expoziție sunt încălzite, oferind refugiu împotriva gerului.",
-                "en": "The museum galleries are heated, providing a good escape from the cold."
+                "en": "The museum galleries are heated, providing a good escape from the cold.",
+                "bg": "Галериите на музея са отоплени и осигуряват добро убежище от студа."
               }
             },
             {
@@ -514,7 +556,8 @@
                 "de": "Die Treppen können vereist sein; nutzen Sie die Handläufe.",
                 "hu": "A lépcsők jegesek lehetnek, használd a korlátokat az erődnél.",
                 "ro": "Scările pot fi înghețate; folosiți balustradele la cetate.",
-                "en": "Stairs can be icy; use the handrails when climbing around the fortress."
+                "en": "Stairs can be icy; use the handrails when climbing around the fortress.",
+                "bg": "Стълбите може да са заледени; използвайте парапетите при изкачване в крепостта."
               }
             },
             {
@@ -523,7 +566,8 @@
                 "de": "Der Park schließt früh; genießen Sie den Blick bei Sonnenuntergang.",
                 "hu": "A park hamar sötétedik, élvezd a kilátást a korai naplementekor.",
                 "ro": "Parcul se întunecă repede; admirați vederea la apusul devreme.",
-                "en": "The park gets dark early; enjoy the panoramic views at sunset."
+                "en": "The park gets dark early; enjoy the panoramic views at sunset.",
+                "bg": "Паркът потъмнява рано; насладете се на панорамните гледки при залез."
               }
             }
           ],
@@ -555,6 +599,13 @@
               "Sunset occurs as early as 4:45 PM in December.",
               "Smaller paths to the fortress might not be cleared after heavy snow.",
               "Warm up with local winter dishes in the traditional Varosha taverns."
+            ],
+            "bg": [
+              "В Ловеч може да е много студено през януари; топлите термални пластове са силно препоръчителни.",
+              "Интериорът на Покрития мост ви защитава от пронизващите зимни ветрове.",
+              "Залезът настъпва още в 16:45 през декември.",
+              "По-малките пътеки към крепостта може да не са почистени след силен снеговалеж.",
+              "Загрейте се с местни зимни ястия в традиционните таверни във Вараша."
             ]
           }
         }
@@ -573,7 +624,8 @@
             "de": "Stratesh-Park",
             "hu": "Sztrates park",
             "ro": "Parcul Stratesh",
-            "en": "Stratesh Park"
+            "en": "Stratesh Park",
+            "bg": "Парк Стратеш"
           },
           "coords": [
             24.725,
@@ -589,7 +641,8 @@
             "de": "Beginnen Sie den Tag mit einer leichten Radtour durch den Park, um aufzuwachen.",
             "hu": "Kezdje a napot egy könnyű biciklizéssel a parkban, hogy felébredjen.",
             "ro": "Începeți ziua cu o plimbare ușoară cu bicicleta prin parc pentru a vă trezi.",
-            "en": "Start the day with a light bike ride through the park to wake up."
+            "en": "Start the day with a light bike ride through the park to wake up.",
+            "bg": "Започнете деня с лек велопоход през парка, за да се раздвижите."
           }
         },
         {
@@ -597,7 +650,8 @@
             "de": "Festung Hisarja",
             "hu": "Hisarya erőd",
             "ro": "Cetatea Hisarya",
-            "en": "Hisarya Fortress"
+            "en": "Hisarya Fortress",
+            "bg": "Крепост Хисаря"
           },
           "coords": [
             24.7179,
@@ -613,7 +667,8 @@
             "de": "Schließen Sie Ihr Fahrrad am Fuße des Hügels ab und gehen Sie den Rest zu Fuß. Der Weg ist steil.",
             "hu": "Zárja le a biciklit a hegy lábánál, és sétáljon fel. Az út meredek.",
             "ro": "Lăsați bicicleta la baza dealului și urcați pe jos. Calea este abruptă.",
-            "en": "Lock your bike at the bottom of the hill and walk the rest. The path is steep."
+            "en": "Lock your bike at the bottom of the hill and walk the rest. The path is steep.",
+            "bg": "Заключете велосипеда си в подножието на хълма и вървете пеша останалото. Пътят е стръмен."
           }
         },
         {
@@ -621,7 +676,8 @@
             "de": "Wasil-Lewski-Denkmal",
             "hu": "Vaszil Levszki emlékmű",
             "ro": "Monumentul Vasil Levski",
-            "en": "Vasil Levski Monument"
+            "en": "Vasil Levski Monument",
+            "bg": "Паметник на Васил Левски"
           },
           "coords": [
             24.7168,
@@ -637,7 +693,8 @@
             "de": "Das Denkmal befindet sich direkt auf dem Weg von der Festung in die Altstadt.",
             "hu": "Az emlékmű pont az erődből az óvárosba vezető úton található.",
             "ro": "Monumentul este chiar în drumul de la cetate spre orașul vechi.",
-            "en": "The monument is right on the way from the fortress to the old town."
+            "en": "The monument is right on the way from the fortress to the old town.",
+            "bg": "Паметникът е точно по пътя от крепостта към стария град."
           }
         },
         {
@@ -645,7 +702,8 @@
             "de": "Viertel Varosha",
             "hu": "Varosa negyed",
             "ro": "Cartierul Varosha",
-            "en": "Varosha Quarter"
+            "en": "Varosha Quarter",
+            "bg": "Квартал Вараша"
           },
           "coords": [
             24.7145,
@@ -661,7 +719,8 @@
             "de": "Schieben Sie Ihr Fahrrad durch die engen Gassen, um die Atmosphäre besser aufzunehmen.",
             "hu": "Tolja a biciklit a szűk utcákon, hogy jobban átérezze a hangulatot.",
             "ro": "Împingeți bicicleta pe străduțele înguste pentru a absorbi mai bine atmosfera.",
-            "en": "Push your bike through the narrow streets to better absorb the atmosphere."
+            "en": "Push your bike through the narrow streets to better absorb the atmosphere.",
+            "bg": "Придвижете велосипеда си пеша през тесните улици, за да усетите атмосферата по-добре."
           }
         },
         {
@@ -669,7 +728,8 @@
             "de": "Wasil-Lewski-Museum",
             "hu": "Vaszil Levszki Múzeum",
             "ro": "Muzeul Vasil Levski",
-            "en": "Vasil Levski Museum"
+            "en": "Vasil Levski Museum",
+            "bg": "Музей Васил Левски"
           },
           "coords": [
             24.7135,
@@ -685,7 +745,8 @@
             "de": "Ein guter Ort für eine längere Pause am Mittag, um der Hitze zu entkommen.",
             "hu": "Jó hely egy hosszabb déli pihenőre, hogy elkerülje a hőséget.",
             "ro": "Un loc bun pentru o pauză mai lungă la amiază pentru a scăpa de căldură.",
-            "en": "A good place for a longer break at noon to escape the heat."
+            "en": "A good place for a longer break at noon to escape the heat.",
+            "bg": "Добро място за по-дълга обедна почивка, за да се скриете от жегата."
           }
         },
         {
@@ -693,7 +754,8 @@
             "de": "Kirche St. Nedelja",
             "hu": "Szent Nedelja templom",
             "ro": "Biserica Sfânta Nedelya",
-            "en": "St. Nedelya Church"
+            "en": "St. Nedelya Church",
+            "bg": "Света Неделя"
           },
           "coords": [
             24.7138,
@@ -709,7 +771,8 @@
             "de": "Ein kurzer, aber lohnender Halt im Herzen von Varosha.",
             "hu": "Egy rövid, de megérő megálló Varosa szívében.",
             "ro": "O oprire scurtă, dar care merită, în inima Varoshei.",
-            "en": "A short but worthwhile stop in the heart of Varosha."
+            "en": "A short but worthwhile stop in the heart of Varosha.",
+            "bg": "Кратка, но полезна спирка в сърцето на Вараша."
           }
         },
         {
@@ -717,7 +780,8 @@
             "de": "Gedeckte Brücke",
             "hu": "Fedett híd",
             "ro": "Podul Acoperit",
-            "en": "The Covered Bridge"
+            "en": "The Covered Bridge",
+            "bg": "Покритият мост"
           },
           "coords": [
             24.715,
@@ -733,7 +797,8 @@
             "de": "Überqueren Sie die Brücke und genießen Sie die Aussicht von der anderen Seite des Flusses.",
             "hu": "Menjen át a hídon, és élvezze a kilátást a folyó másik oldaláról.",
             "ro": "Traversați podul și bucurați-vă de priveliștea de pe cealaltă parte a râului.",
-            "en": "Cross the bridge and enjoy the view from the other side of the river."
+            "en": "Cross the bridge and enjoy the view from the other side of the river.",
+            "bg": "Пресечете моста и се насладете на гледката от другата страна на реката."
           }
         }
       ],
@@ -741,7 +806,8 @@
         "de": "Starten Sie aktiv in den Tag mit einer Radtour durch den Stratesh-Park. Von dort aus geht es zur beeindruckenden Festung Hisarja. Den Rest des Tages verbringen Sie damit, das historische Herz von Lowetsch zu erkunden: das Varosha-Viertel, Museen und die berühmte Gedeckte Brücke. Eine Radtour entlang des Flusses rundet den Tag perfekt ab.",
         "hu": "Kezdje aktívan a napot egy biciklitúrával a Sztrates parkban. Onnan irány a lenyűgöző Hisarya erőd. A nap hátralévő részét Lovecs történelmi szívének felfedezésével tölti: a Varosa negyed, múzeumok és a híres Fedett híd. Egy folyóparti biciklizés tökéletesen lezárja a napot.",
         "ro": "Începeți ziua activ cu o plimbare cu bicicleta prin Parcul Stratesh. De acolo, mergeți la impresionanta Cetate Hisarya. Petreceți restul zilei explorând inima istorică a Lovechului: cartierul Varosha, muzeele și faimosul Pod Acoperit. O plimbare cu bicicleta de-a lungul râului încheie perfect ziua.",
-        "en": "Start the day actively with a bike ride through Stratesh Park. From there, head to the impressive Hisarya Fortress. Spend the rest of the day exploring the historical heart of Lovech: the Varosha quarter, museums, and the famous Covered Bridge. A bike ride along the river perfectly rounds off the day."
+        "en": "Start the day actively with a bike ride through Stratesh Park. From there, head to the impressive Hisarya Fortress. Spend the rest of the day exploring the historical heart of Lovech: the Varosha quarter, museums, and the famous Covered Bridge. A bike ride along the river perfectly rounds off the day.",
+        "bg": "Започнете деня активно с велопрогулка из парк Стратеш. Оттам се отправете към впечатляващата крепост Хисаря. Прекарайте останалата част от деня в изследване на историческото сърце на Ловеч: квартал Вараша, музеите и прочутия Покрит мост. Велопоход по реката перфектно завършва деня."
       },
       "gastro_picks": {
         "de": [
@@ -901,6 +967,12 @@
           "Some streets in the old town can be challenging for cyclists. Be careful.",
           "Always lock your bike when leaving it unattended.",
           "The hills can be demanding, but the descents are fun."
+        ],
+        "bg": [
+          "Проверете налягането в гумите преди тръгване.",
+          "Някои улици в стария град могат да бъдат предизвикателни за колоездачи. Бъдете внимателни.",
+          "Винаги заключвайте велосипеда си, когато го оставяте без надзор.",
+          "Хълмовете могат да бъдат изискващи, но спусканията са забавни."
         ]
       },
       "variants": {
@@ -909,7 +981,8 @@
             "de": "Wir starten die Radtour im Stratesch-Park, wo die nassen Blätter Vorsicht erfordern. Mittags erreichen wir die Hisarja-Festung und das Lewski-Denkmal, bevor wir in die Altstadt hinunterfahren. Im Varoscha-Viertel finden wir im Lewski-Museum Schutz. Der Nachmittag gehört der überdachten Brücke, wo wir die Räder sicher und trocken abstellen können.",
             "hu": "A bringatúrát a Sztrates-parkban kezdjük, ahol a vizes levelek miatt óvatosan kell kanyarodni. Délben érjük el az erődöt és a Levszki-emlékművet, majd legurulunk az óvárosba. A Varosa negyedben a múzeum nyújt fedett pihenőt. A délutánt a fedett híd környékén töltjük, ahol a biciklik is szárazon maradhatnak.",
             "ro": "Începem turul cu bicicleta în Parcul Stratesh, unde frunzele ude necesită prudență. La prânz ajungem la Cetatea Hisarya și Monumentul Levski, apoi coborâm în orașul vechi. În cartierul Varosha, muzeul oferă un popas ferit de ploaie. După-amiaza este dedicată Podului Acoperit, unde putem lăsa bicicletele la adăpost.",
-            "en": "We start the bike tour in Stratesh Park, where wet leaves require careful braking. By noon, we reach Hisarya Fortress and the Levski Monument before descending into the old town. In the Varosha quarter, the museum provides a dry break. The afternoon is spent near the Covered Bridge, where bikes can be parked safely out of the rain."
+            "en": "We start the bike tour in Stratesh Park, where wet leaves require careful braking. By noon, we reach Hisarya Fortress and the Levski Monument before descending into the old town. In the Varosha quarter, the museum provides a dry break. The afternoon is spent near the Covered Bridge, where bikes can be parked safely out of the rain.",
+            "bg": "Започваме велоразходката в парк Стратеш, където мокрите листа изискват внимателно спиране. По обяд достигаме крепост Хисаря и паметника на Левски преди да слезем към стария град. В квартал Вараша музейът осигурява суха почивка. Следобедът минава близо до Покрития мост, където велосипедите могат да се паркират на безопасно място, далеч от дъжда."
           },
           "stops": [
             {
@@ -918,7 +991,8 @@
                 "de": "Vorsicht in Kurven; nasses Laub auf den Wegen ist sehr rutschig.",
                 "hu": "Vigyázz a kanyarokban, a vizes avaron könnyen megcsúszik a kerék.",
                 "ro": "Atenție în curbe; frunzele ude de pe alei sunt foarte alunecoase.",
-                "en": "Be careful in turns; wet leaves on the paths are very slippery."
+                "en": "Be careful in turns; wet leaves on the paths are very slippery.",
+                "bg": "Бъдете внимателни в завоите; мокрите листа по пътеките са много хлъзгави."
               }
             },
             {
@@ -927,7 +1001,8 @@
                 "de": "Der Anstieg ist anstrengend; achten Sie auf glatte Steine am Tor.",
                 "hu": "A kaptató fárasztó, ügyelj a csúszós kövekre a kapunál.",
                 "ro": "Urcarea este solicitantă; atenție la pietrele lucioase de la poartă.",
-                "en": "The climb is strenuous; watch out for slick stones at the gateway."
+                "en": "The climb is strenuous; watch out for slick stones at the gateway.",
+                "bg": "Изкачването е изнурително; внимавайте за хлъзгави камъни при портата."
               }
             },
             {
@@ -936,7 +1011,8 @@
                 "de": "Vermeiden Sie schnelles Bremsen auf der gepflasterten Fläche.",
                 "hu": "Kerüld a hirtelen fékezést a kövezett emlékmű környékén.",
                 "ro": "Evitați frânarea bruscă pe suprafața pavată din jurul monumentului.",
-                "en": "Avoid sudden braking on the paved area around the monument."
+                "en": "Avoid sudden braking on the paved area around the monument.",
+                "bg": "Избягвайте рязко спиране по павираната зона около паметника."
               }
             },
             {
@@ -945,7 +1021,8 @@
                 "de": "Schieben Sie das Rad in den engsten, steilsten Gassen lieber.",
                 "hu": "A legszűkebb, meredek utcákban inkább told a kerékpárt.",
                 "ro": "În cele mai înguste și abrupte străzi, mai bine împingeți bicicleta.",
-                "en": "In the narrowest, steepest alleys, it is safer to push your bike."
+                "en": "In the narrowest, steepest alleys, it is safer to push your bike.",
+                "bg": "В най-тесните, най-стръмни улички е по-безопасно да бутате велосипеда си."
               }
             },
             {
@@ -954,7 +1031,8 @@
                 "de": "Nutzen Sie den überdachten Eingangsbereich zum Abstellen.",
                 "hu": "Használd a fedett bejárati részt a bicikli tárolására.",
                 "ro": "Folosiți zona de intrare acoperită pentru a lăsa bicicleta.",
-                "en": "Use the sheltered entrance area to park your bike while visiting."
+                "en": "Use the sheltered entrance area to park your bike while visiting.",
+                "bg": "Използвайте покрития вход, за да паркирате велосипеда си по време на посещение."
               }
             },
             {
@@ -963,7 +1041,8 @@
                 "de": "Kurze Pause unter den Vordächern der umliegenden Häuser.",
                 "hu": "Rövid pihenő a környező házak ereszei alatt.",
                 "ro": "Scurtă pauză sub streșinile caselor din jur.",
-                "en": "Take a short break under the eaves of the surrounding buildings."
+                "en": "Take a short break under the eaves of the surrounding buildings.",
+                "bg": "Вземете кратка почивка под стрехите на околните сгради."
               }
             },
             {
@@ -972,7 +1051,8 @@
                 "de": "Fahren auf der Brücke verboten; schieben Sie das Rad trocken hinüber.",
                 "hu": "A hídon tilos tekerni, told át a gépet a fedett folyosón.",
                 "ro": "Ciclismul pe pod este interzis; împingeți bicicleta prin tunel.",
-                "en": "Cycling on the bridge is prohibited; push your bike through the dry passage."
+                "en": "Cycling on the bridge is prohibited; push your bike through the dry passage.",
+                "bg": "Карането на мостa е забранено; бутайте велосипеда си през сухия проход."
               }
             }
           ],
@@ -1004,6 +1084,13 @@
               "Brake earlier and more gently on wet cobblestones.",
               "The Covered Bridge is a perfect spot to warm up and dry off.",
               "Check your tire pressure; slightly lower pressure provides better grip."
+            ],
+            "bg": [
+              "Носете пълно водоустойчиво облекло, тъй като спусканията бързо охлаждат.",
+              "Калниците са задължителни за калните пътеки в парка.",
+              "Спирайте по-рано и по-плавно на мокри павета.",
+              "Покритият мост е перфектно място да се стоплите и да изсъхнете.",
+              "Проверете налягането в гумите; леко по-ниско налягане дава по-добро сцепление."
             ]
           }
         },
@@ -1012,7 +1099,8 @@
             "de": "Eine winterliche Radtour durch Lowetsch erfordert warme Handschuhe. Wir starten im Stratesch-Park mit Blick auf die verschneite Stadt. Der Weg zur Hisarja-Festung hält den Kreislauf in Schwung. Mittags erreichen wir das Varoscha-Viertel und wärmen uns im Lewski-Museum auf. Den Abschluss bildet die Fahrt zur überdachten Brücke, wo wir das Rad schieben und die gemütliche Atmosphäre genießen.",
             "hu": "A téli kerékpártúra Lovecsben meleg kesztyűt igényel. A Sztrates-parkban kezdünk, ahonnan rálátni a havas városra. Az erőd felé vezető kaptató melegen tartja a testet. Délben elérjük a Varosa negyedet, és a Levszki Múzeumban engedünk fel a fagyból. A napot a fedett hídnál zárjuk, ahol a bringát tolva élvezzük a barátságos hangulatot.",
             "ro": "Un tur cu bicicleta pe timp de iarnă în Loveci necesită mănuși groase. Începem în Parcul Stratesh cu vedere spre orașul înzăpezit. Urcarea spre Cetatea Hisarya ne menține circulația activă. La prânz ajungem în cartierul Varosha și ne încălzim la Muzeul Levski. Încheiem ziua la Podul Acoperit, unde împingem bicicleta și ne bucurăm de atmosfera caldă.",
-            "en": "A winter bike tour through Lovech requires warm gloves. We start in Stratesh Park with views of the snow-covered city. The climb to Hisarya Fortress keeps the circulation going. By noon, we reach the Varosha quarter and warm up in the Levski Museum. We finish at the Covered Bridge, pushing the bike and enjoying the cozy interior atmosphere."
+            "en": "A winter bike tour through Lovech requires warm gloves. We start in Stratesh Park with views of the snow-covered city. The climb to Hisarya Fortress keeps the circulation going. By noon, we reach the Varosha quarter and warm up in the Levski Museum. We finish at the Covered Bridge, pushing the bike and enjoying the cozy interior atmosphere.",
+            "bg": "Зимен велотур през Ловеч изисква топли ръкавици. Започваме в парк Стратеш с гледки към заснежения град. Изкачването до крепостта Хисаря поддържа кръвообращението. По обяд достигаме квартал Варо̀ша и се стопляме в музей „Левски“. Завършваме на Покрития мост, бутайки колелото и наслаждавайки се на уютната вътрешна атмосфера."
           },
           "stops": [
             {
@@ -1021,7 +1109,8 @@
                 "de": "Vorsicht bei gefrorenem Tau auf den schattigen Waldwegen.",
                 "hu": "Vigyázz a lefagyott pára miatt az árnyékos erdei utakon.",
                 "ro": "Atenție la bruma înghețată de pe aleile umbrite din pădure.",
-                "en": "Watch out for frozen dew on the shaded forest paths."
+                "en": "Watch out for frozen dew on the shaded forest paths.",
+                "bg": "Внимавайте за замръзнала роса по засенчените горски пътеки."
               }
             },
             {
@@ -1030,7 +1119,8 @@
                 "de": "Der Boden kann gefroren sein; gehen Sie die letzten Meter zu Fuß.",
                 "hu": "A talaj fagyott lehet, az utolsó métereket tedd meg gyalog.",
                 "ro": "Solul poate fi înghețat; parcurgeți ultimii metri pe jos.",
-                "en": "The ground might be frozen; walk the final meters to the walls."
+                "en": "The ground might be frozen; walk the final meters to the walls.",
+                "bg": "Почвата може да е замръзнала; извървете последните метри до зидовете пеша."
               }
             },
             {
@@ -1039,7 +1129,8 @@
                 "de": "Starker Windchill-Effekt auf dem Hügel; halten Sie sich in Bewegung.",
                 "hu": "Erős szélhűtés a dombon, maradj mozgásban a fagy ellen.",
                 "ro": "Efect de răcire prin vânt pe deal; mențineți-vă în mișcare.",
-                "en": "Strong windchill effect on the hill; keep moving to stay warm."
+                "en": "Strong windchill effect on the hill; keep moving to stay warm.",
+                "bg": "Силен ефект на студения вятър на хълма; продължавайте да се движите, за да останете топли."
               }
             },
             {
@@ -1048,7 +1139,8 @@
                 "de": "Die Steine in den Gassen können spiegelglatt sein.",
                 "hu": "Az utcák kövei tükörsimára fagyhatnak, légy óvatos.",
                 "ro": "Pietrele de pe străduțe pot fi extrem de alunecoase.",
-                "en": "The stones in the narrow alleys can be ice-slicked."
+                "en": "The stones in the narrow alleys can be ice-slicked.",
+                "bg": "Каменните настилки в тесните улички могат да бъдат хлъзгави от лед."
               }
             },
             {
@@ -1057,7 +1149,8 @@
                 "de": "Perfekte Pause zum Auftauen der Finger und Zehen.",
                 "hu": "Tökéletes pihenőhely az ujjak és lábak felmelegítésére.",
                 "ro": "Popas perfect pentru dezghețarea degetelor și a picioarelor.",
-                "en": "A perfect break to thaw out your fingers and toes."
+                "en": "A perfect break to thaw out your fingers and toes.",
+                "bg": "Перфектна почивка да отпуснете и отпуснете пръстите на ръцете и краката."
               }
             },
             {
@@ -1066,7 +1159,8 @@
                 "de": "Kurzer Stopp; die kühle Kirche bietet wenig Wärme.",
                 "hu": "Csak rövid megálló, a templom belseje télen hűvös marad.",
                 "ro": "Oprire scurtă; interiorul bisericii rămâne destul de rece iarna.",
-                "en": "Short stop; the church interior stays quite chilly in winter."
+                "en": "Short stop; the church interior stays quite chilly in winter.",
+                "bg": "Кратка спирка; вътрешността на църквата остава доста студена през зимата."
               }
             },
             {
@@ -1075,7 +1169,8 @@
                 "de": "Besuchen Sie ein Café im Inneren für eine heiße Schokolade.",
                 "hu": "Térj be egy belső kávézóba egy forró csokoládéra.",
                 "ro": "Intrați la o cafenea din interior pentru o ciocolată caldă.",
-                "en": "Visit one of the cafes inside for a rewarding hot chocolate."
+                "en": "Visit one of the cafes inside for a rewarding hot chocolate.",
+                "bg": "Посетете едно от кафенетата вътре за заслужено горещо какао."
               }
             }
           ],
@@ -1107,6 +1202,13 @@
               "Winter tires or those with deep treads are recommended for snow.",
               "Keep your chain well-oiled against road salt and moisture.",
               "The Covered Bridge is the most wind-sheltered spot in the city."
+            ],
+            "bg": [
+              "Носете ветрозащитни дрехи, особено необходими за спусканията.",
+              "Избягвайте каране след залез (става тъмно около 17:00).",
+              "Препоръчват се зимни гуми или такива с дълбоки грайфери за сняг.",
+              "Дръжте веригата добре омаслена срещу пътната сол и влагата.",
+              "Покритият мост е най-защитеното от вятъра място в града."
             ]
           }
         }
@@ -1125,7 +1227,8 @@
             "de": "Dewetaschka-Höhle",
             "hu": "Devetaska-barlang",
             "ro": "Peștera Devetashka",
-            "en": "Devetashka Cave"
+            "en": "Devetashka Cave",
+            "bg": "Пещера Деветашка"
           },
           "coords": [
             24.88,
@@ -1141,7 +1244,8 @@
             "de": "Fahren Sie früh los, um die Menschenmassen zu vermeiden. Die Höhle ist morgens am beeindruckendsten.",
             "hu": "Induljon korán, hogy elkerülje a tömeget. A barlang reggel a leglenyűgözőbb.",
             "ro": "Plecați devreme pentru a evita aglomerația. Peștera este cea mai impresionantă dimineața.",
-            "en": "Leave early to avoid the crowds. The cave is most impressive in the morning."
+            "en": "Leave early to avoid the crowds. The cave is most impressive in the morning.",
+            "bg": "Тръгнете рано, за да избегнете тълпите. Пещерата е най-впечатляваща сутрин."
           }
         },
         {
@@ -1149,7 +1253,8 @@
             "de": "Viertel Varosha (Parken)",
             "hu": "Varosa negyed (Parkolás)",
             "ro": "Cartierul Varosha (Parcare)",
-            "en": "Varosha Quarter (Parking)"
+            "en": "Varosha Quarter (Parking)",
+            "bg": "Квартал Варо̀ша (Паркинг)"
           },
           "coords": [
             24.714,
@@ -1165,7 +1270,8 @@
             "de": "Parken Sie Ihr Auto am Rande des Viertels und erkunden Sie den Rest zu Fuß.",
             "hu": "Parkolja le az autót a negyed szélén, a többit pedig fedezze fel gyalog.",
             "ro": "Parcați mașina la marginea cartierului și explorați restul pe jos.",
-            "en": "Park your car on the edge of the quarter and explore the rest on foot."
+            "en": "Park your car on the edge of the quarter and explore the rest on foot.",
+            "bg": "Паркирайте на ръба на квартала и разгледайте останалото пеша."
           }
         },
         {
@@ -1173,7 +1279,8 @@
             "de": "Gedeckte Brücke",
             "hu": "Fedett híd",
             "ro": "Podul Acoperit",
-            "en": "The Covered Bridge"
+            "en": "The Covered Bridge",
+            "bg": "Покритият мост"
           },
           "coords": [
             24.715,
@@ -1189,7 +1296,8 @@
             "de": "Ein perfekter Ort für eine Mittagspause und den Kauf von Souvenirs.",
             "hu": "Tökéletes hely egy ebédszünetre és ajándéktárgyak vásárlására.",
             "ro": "Un loc perfect pentru o pauză de prânz și cumpărături de suveniruri.",
-            "en": "A perfect spot for a lunch break and souvenir shopping."
+            "en": "A perfect spot for a lunch break and souvenir shopping.",
+            "bg": "Перфектно място за обедна почивка и пазаруване на сувенири."
           }
         },
         {
@@ -1197,7 +1305,8 @@
             "de": "Wasil-Lewski-Museum",
             "hu": "Vaszil Levszki Múzeum",
             "ro": "Muzeul Vasil Levski",
-            "en": "Vasil Levski Museum"
+            "en": "Vasil Levski Museum",
+            "bg": "Музей „Васил Левски“"
           },
           "coords": [
             24.7135,
@@ -1213,7 +1322,8 @@
             "de": "Vom Varosha-Viertel aus leicht zu Fuß erreichbar.",
             "hu": "Könnyen megközelíthető gyalog a Varosa negyedből.",
             "ro": "Ușor accesibil pe jos din cartierul Varosha.",
-            "en": "Easily reachable on foot from the Varosha quarter."
+            "en": "Easily reachable on foot from the Varosha quarter.",
+            "bg": "Лесно достигаем пеша от квартал Варо̀ша."
           }
         },
         {
@@ -1221,7 +1331,8 @@
             "de": "Festung Hisarja (Parken)",
             "hu": "Hisarya erőd (Parkolás)",
             "ro": "Cetatea Hisarya (Parcare)",
-            "en": "Hisarya Fortress (Parking)"
+            "en": "Hisarya Fortress (Parking)",
+            "bg": "Крепост Хисаря (Паркинг)"
           },
           "coords": [
             24.717,
@@ -1237,7 +1348,8 @@
             "de": "Fahren Sie zum Parkplatz unterhalb der Festung und gehen Sie das letzte Stück.",
             "hu": "Hajtson az erőd alatti parkolóba, és tegye meg az utolsó szakaszt gyalog.",
             "ro": "Conduceți până la parcarea de sub cetate și parcurgeți ultima porțiune pe jos.",
-            "en": "Drive to the parking area below the fortress and walk the final stretch."
+            "en": "Drive to the parking area below the fortress and walk the final stretch.",
+            "bg": "Карайте до паркинга под крепостта и извървете последния участък пеша."
           }
         },
         {
@@ -1245,7 +1357,8 @@
             "de": "Stratesh-Park",
             "hu": "Sztrates park",
             "ro": "Parcul Stratesh",
-            "en": "Stratesh Park"
+            "en": "Stratesh Park",
+            "bg": "Парк Стратеш"
           },
           "coords": [
             24.725,
@@ -1261,7 +1374,8 @@
             "de": "Schließen Sie den Tag mit einem entspannten Spaziergang ab, bevor Sie die Stadt verlassen.",
             "hu": "Zárja a napot egy pihentető sétával, mielőtt elhagyja a várost.",
             "ro": "Încheiați ziua cu o plimbare relaxantă înainte de a părăsi orașul.",
-            "en": "End the day with a relaxing walk before you leave the city."
+            "en": "End the day with a relaxing walk before you leave the city.",
+            "bg": "Завършете деня с релаксираща разходка преди да напуснете града."
           }
         }
       ],
@@ -1269,7 +1383,8 @@
         "de": "Starten Sie Ihr Abenteuer mit einem Ausflug zur beeindruckenden Dewetaschka-Höhle. Nach diesem Naturwunder fahren Sie ins Herz von Lowetsch. Parken Sie im Varosha-Viertel und erkunden Sie die Gassen, die Gedeckte Brücke und Museen zu Fuß. Am Nachmittag fahren Sie zur Festung Hisarja für eine atemberaubende Aussicht und beenden den Tag im ruhigen Stratesh-Park.",
         "hu": "Kezdje a kalandot egy kirándulással a lenyűgöző Devetaska-barlanghoz. E természeti csoda után hajtson Lovecs szívébe. Parkoljon a Varosa negyedben, és fedezze fel gyalog az utcácskákat, a Fedett hidat és a múzeumokat. Délután hajtson fel a Hisarya erődhöz a lélegzetelállító kilátásért, és fejezze be a napot a békés Sztrates parkban.",
         "ro": "Începeți aventura cu o excursie la impresionanta Peșteră Devetashka. După această minune naturală, conduceți spre inima Lovechului. Parcați în cartierul Varosha și explorați pe jos aleile, Podul Acoperit și muzeele. După-amiaza, conduceți la Cetatea Hisarya pentru o priveliște uluitoare și încheiați ziua în liniștitul Parc Stratesh.",
-        "en": "Start your adventure with a trip to the impressive Devetashka Cave. After this natural wonder, drive to the heart of Lovech. Park in the Varosha quarter and explore the alleys, the Covered Bridge, and museums on foot. In the afternoon, drive to Hisarya Fortress for a breathtaking view and end the day in the peaceful Stratesh Park."
+        "en": "Start your adventure with a trip to the impressive Devetashka Cave. After this natural wonder, drive to the heart of Lovech. Park in the Varosha quarter and explore the alleys, the Covered Bridge, and museums on foot. In the afternoon, drive to Hisarya Fortress for a breathtaking view and end the day in the peaceful Stratesh Park.",
+        "bg": "Започнете приключението с посещение на впечатляващата пещера Деветашка. След това се отправете с кола към сърцето на Ловеч. Паркирайте в квартал Варо̀ша и разгледайте уличките, Покрития мост и музеите пеша. Следобед отидете до крепост Хисаря за спираща дъха гледка и завършете деня в спокойния парк Стратеш."
       },
       "gastro_picks": {
         "de": [
@@ -1429,6 +1544,12 @@
           "Parking near Varosha can be difficult, be patient.",
           "A GPS is highly recommended for the drive to the cave.",
           "Keep small change ready for parking fees."
+        ],
+        "bg": [
+          "Проверете работното време на пещерата Деветашка предварително.",
+          "Паркирането близо до Варо̀ша може да е трудно, бъдете търпеливи.",
+          "GPS е силно препоръчителен за пътуването до пещерата.",
+          "Дръжте дребни пари под ръка за таксите за паркиране."
         ]
       },
       "variants": {
@@ -1437,7 +1558,8 @@
             "de": "Wir starten mit der Devetashka-Höhle, die bei Regen einen spektakulären und trockenen Unterschlupf bietet. Danach fahren wir nach Lowetsch und parken nahe dem Varoscha-Viertel. Mittags erkunden wir die überdachte Brücke und das Lewski-Museum. Nachmittags geht es zur Hisarja-Festung, wo wir die Aussicht aus dem Auto oder unter dem Regenschirm genießen, bevor der Tag im Park endet.",
             "hu": "A napot a Devetaska-barlangnál kezdjük, amely esőben is lenyűgöző és száraz menedéket nyújt. Ezután Lovecsbe autózunk, és a Varosa negyednél parkolunk. Délben a fedett híd és a Levszki Múzeum következik. Délután a Hiszárja erőd panorámáját csodáljuk meg esernyő alól vagy az autóból, majd a parkban zárjuk a napot.",
             "ro": "Începem cu Peștera Devetashka, care oferă un adăpost spectaculos și uscat pe timp de ploaie. Apoi conducem spre Loveci și parcăm lângă cartierul Varosha. La prânz explorăm Podul Acoperit și Muzeul Levski. După-amiaza urcăm la Cetatea Hisarya pentru a admira panorama sub umbrelă, încheind ziua în Parcul Stratesh.",
-            "en": "We start the day at Devetashka Cave, which offers a spectacular and dry shelter during rain. Then we drive to Lovech and park near the Varosha quarter. At noon, we explore the Covered Bridge and the Levski Museum. In the afternoon, we head to Hisarya Fortress to enjoy the views from under an umbrella before finishing in Stratesh Park."
+            "en": "We start the day at Devetashka Cave, which offers a spectacular and dry shelter during rain. Then we drive to Lovech and park near the Varosha quarter. At noon, we explore the Covered Bridge and the Levski Museum. In the afternoon, we head to Hisarya Fortress to enjoy the views from under an umbrella before finishing in Stratesh Park.",
+            "bg": "Започваме деня в пещера Деветашка, която предлага впечатляващо и сухо убежище при дъжд. После караме до Ловеч и паркираме близо до квартал Варо̀ша. По обяд разглеждаме Покрития мост и музей „Левски“. Следобед се отправяме към крепост Хисаря, за да се насладим на гледките под чадър, преди да завършим в парк Стратеш."
           },
           "stops": [
             {
@@ -1446,7 +1568,8 @@
                 "de": "Perfekt bei Regen; die riesige Höhle ist im Inneren völlig trocken.",
                 "hu": "Tökéletes esőben; a hatalmas barlang belseje teljesen száraz marad.",
                 "ro": "Perfect pe ploaie; interiorul peșterii uriașe este complet uscat.",
-                "en": "Perfect for a rainy day; the massive cave interior stays dry."
+                "en": "Perfect for a rainy day; the massive cave interior stays dry.",
+                "bg": "Перфектно за дъждовен ден; масивната вътрешност на пещерата остава суха."
               }
             },
             {
@@ -1455,7 +1578,8 @@
                 "de": "Nutzen Sie offizielle Parkplätze; die Gassen sind für Autos gesperrt.",
                 "hu": "Használd a hivatalos parkolókat, az óváros utcái elzártak az autóktól.",
                 "ro": "Folosiți parcările oficiale; străduțele sunt închise traficului auto.",
-                "en": "Use official parking lots; the old town alleys are closed to cars."
+                "en": "Use official parking lots; the old town alleys are closed to cars.",
+                "bg": "Използвайте официалните паркинги; уличките на стария град са затворени за автомобили."
               }
             },
             {
@@ -1464,7 +1588,8 @@
                 "de": "Nur wenige Gehminuten vom Parkplatz entfernt und absolut trocken.",
                 "hu": "Csak pár perc séta a parkolótól, és garantáltan száraz maradtsz.",
                 "ro": "La doar câteva minute de mers pe jos de parcare și complet uscat.",
-                "en": "Just a short walk from the parking lot and completely dry inside."
+                "en": "Just a short walk from the parking lot and completely dry inside.",
+                "bg": "Само кратка разходка от паркинга и напълно сухо вътре."
               }
             },
             {
@@ -1473,7 +1598,8 @@
                 "de": "Guter Stopp, um einen schweren Regenschauer abzuwarten.",
                 "hu": "Kiváló helyszín egy nagyobb zápor átvészelésére.",
                 "ro": "Un loc bun pentru a aștepta trecerea unei averse puternice.",
-                "en": "A great location to wait out a heavy downpour."
+                "en": "A great location to wait out a heavy downpour.",
+                "bg": "Отлично място да изчакате силен порой."
               }
             },
             {
@@ -1482,7 +1608,8 @@
                 "de": "Parken Sie direkt am Eingang, um den Weg im Regen zu verkürzen.",
                 "hu": "Parkolj közvetlenül a bejáratnál, hogy lerövidítsd az esős utat.",
                 "ro": "Parcați chiar la intrare pentru a scurta drumul prin ploaie.",
-                "en": "Park right at the entrance to minimize walking in the rain."
+                "en": "Park right at the entrance to minimize walking in the rain.",
+                "bg": "Паркирайте точно на входа, за да сведете до минимум ходенето в дъжда."
               }
             },
             {
@@ -1491,7 +1618,8 @@
                 "de": "Genießen Sie den Blick auf die Stadt direkt vom Parkplatz aus.",
                 "hu": "Élvezd a városra nyíló kilátást közvetlenül a parkolóból.",
                 "ro": "Admirați vederea asupra orașului direct din parcare.",
-                "en": "Enjoy the panoramic city views directly from the parking area."
+                "en": "Enjoy the panoramic city views directly from the parking area.",
+                "bg": "Насладете се на панорамните градски гледки директно от паркинга."
               }
             }
           ],
@@ -1523,6 +1651,13 @@
               "Do not leave valuables visible inside the car.",
               "The Covered Bridge provides shelter for your entire walking tour.",
               "Check your wipers before driving through the hilly terrain."
+            ],
+            "bg": [
+              "Пътят към пещера Деветашка може да е хлъзгав при силен дъжд.",
+              "Паркирайте в центъра на града, за да достигнете повечето атракции лесно пеша.",
+              "Не оставяйте ценности видими вътре в автомобила.",
+              "Покритият мост осигурява подслон за целия ви пешеходен тур.",
+              "Проверете чистачките преди да карате по хълмистия терен."
             ]
           }
         },
@@ -1531,7 +1666,8 @@
             "de": "Die winterliche Fahrt beginnt an der Devetashka-Höhle, die auch bei Frost beeindruckt. Danach geht es nach Lowetsch, wo wir das Auto im verschneiten Zentrum abstellen. Mittags besuchen wir die überdachte Brücke für warme Souvenirs und das Lewski-Museum. Die Fahrt zur Hisarja-Festung bietet Panoramablicke auf die weiße Stadt, bevor wir den Tag im Stratesch-Park ausklingen lassen.",
             "hu": "A téli autózás a Devetaska-barlangnál indul, amely fagyban is monumentális. Ezután Lovecsbe hajtunk, és a havas központban parkolunk. Délben a fedett hidat látogatjuk meg meleg ajándékokért, majd a múzeumot keressük fel. Az autóval megközelíthető erőd panorámát kínál a fehér városra, a napot pedig a Sztrates-parkban zárjuk.",
             "ro": "Călătoria de iarnă începe la Peștera Devetashka, impresionantă chiar și pe ger. Urmează drumul spre Loveci, unde parcăm în centrul înzăpezit. La prânz vizităm Podul Acoperit pentru suveniruri și Muzeul Levski. Cetatea Hisarya oferă vederi panoramice asupra orașului alb, înainte de a încheia ziua în Parcul Stratesh.",
-            "en": "The winter drive starts at Devetashka Cave, which remains impressive even in freezing cold. Then we move to Lovech, parking in the snowy center. At noon, we visit the Covered Bridge for warm souvenirs and the Levski Museum. The drive to Hisarya Fortress offers panoramic views of the white city before finishing in Stratesh Park."
+            "en": "The winter drive starts at Devetashka Cave, which remains impressive even in freezing cold. Then we move to Lovech, parking in the snowy center. At noon, we visit the Covered Bridge for warm souvenirs and the Levski Museum. The drive to Hisarya Fortress offers panoramic views of the white city before finishing in Stratesh Park.",
+            "bg": "Зимното пътуване започва в пещера Деветашка, която остава впечатляваща дори при ледени температури. След това се преместваме в Ловеч, паркирайки в заснежения център. По обяд посещаваме Покрития мост за топли сувенири и музей „Левски“. Пътят до крепост Хисаря предлага панорамни гледки към белия град преди да завършим в парк Стратеш."
           },
           "stops": [
             {
@@ -1540,7 +1676,8 @@
                 "de": "Achten Sie auf Glatteis auf dem Pfad vom Parkplatz zur Höhle.",
                 "hu": "Vigyázz a jegesedésre a parkolótól a barlangig vezető ösvényen.",
                 "ro": "Atenție la polei pe poteca de la parcare până la peșteră.",
-                "en": "Watch out for black ice on the path from the parking lot to the cave."
+                "en": "Watch out for black ice on the path from the parking lot to the cave.",
+                "bg": "Внимавайте за черен лед по пътеката от паркинга до пещерата."
               }
             },
             {
@@ -1549,7 +1686,8 @@
                 "de": "Stellen Sie sicher, dass Ihr Fahrzeug winterfest ausgerüstet ist.",
                 "hu": "Győződj meg róla, hogy az autód fel van készítve a téli útviszonyokra.",
                 "ro": "Asigurați-vă că vehiculul este echipat corespunzător pentru iarnă.",
-                "en": "Ensure your vehicle is fully equipped for winter road conditions."
+                "en": "Ensure your vehicle is fully equipped for winter road conditions.",
+                "bg": "Уверете се, че превозното ви средство е напълно оборудвано за зимни условия по пътищата."
               }
             },
             {
@@ -1558,7 +1696,8 @@
                 "de": "Genießen Sie den beheizten Innenraum der Brückengeschäfte.",
                 "hu": "Élvezd a hídon található üzletek fűtött belső tereit.",
                 "ro": "Bucurați-vă de interiorul încălzit al magazinelor de pe pod.",
-                "en": "Enjoy the heated interiors of the shops located on the bridge."
+                "en": "Enjoy the heated interiors of the shops located on the bridge.",
+                "bg": "Насладете се на отоплените вътрешности на магазините, разположени на моста."
               }
             },
             {
@@ -1567,7 +1706,8 @@
                 "de": "Ein warmer Ort für eine längere Geschichtsstunde.",
                 "hu": "Meleg helyszín egy hosszabb történelmi merüléshez.",
                 "ro": "Un loc călduros pentru o lecție de istorie prelungită.",
-                "en": "A warm place for an extended history lesson."
+                "en": "A warm place for an extended history lesson.",
+                "bg": "Топло място за продължителен урок по история."
               }
             },
             {
@@ -1576,7 +1716,8 @@
                 "de": "Die Auffahrt zur Festung kann bei Schnee schwierig sein.",
                 "hu": "Az erődhöz vezető kaptató havas időben nehezen járható lehet.",
                 "ro": "Urcarea spre cetate poate fi dificilă în caz de ninsoare.",
-                "en": "The uphill drive to the fortress can be tricky in snowy conditions."
+                "en": "The uphill drive to the fortress can be tricky in snowy conditions.",
+                "bg": "Изкачването с автомобил до крепостта може да бъде трудно при снежни условия."
               }
             },
             {
@@ -1585,7 +1726,8 @@
                 "de": "Bleiben Sie auf den geräumten Hauptwegen des Parks.",
                 "hu": "Maradj a park takarított főútvonalain.",
                 "ro": "Rămâneți pe aleile principale curățate ale parcului.",
-                "en": "Stick to the cleared main paths of the park."
+                "en": "Stick to the cleared main paths of the park.",
+                "bg": "Придържайте се към изчистените основни пътеки в парка."
               }
             }
           ],
@@ -1617,6 +1759,13 @@
               "Battery performance can drop significantly in extreme cold.",
               "The Covered Bridge is the coziest stop of your day trip.",
               "Plan your return journey before the sun sets."
+            ],
+            "bg": [
+              "Зимните гуми са задължителни по закон в България.",
+              "Носете вериги за сняг, ако планирате да продължите към планината.",
+              "Показателите на батерията могат значително да спаднат при екстремен студ.",
+              "Покритият мост е най-уютната спирка от вашата еднодневна екскурзия.",
+              "Планирайте връщането си преди залез слънце."
             ]
           }
         }
@@ -1635,7 +1784,8 @@
             "de": "Zentraler Busbahnhof",
             "hu": "Központi buszpályaudvar",
             "ro": "Autogara Centrală",
-            "en": "Central Bus Station"
+            "en": "Central Bus Station",
+            "bg": "Централна автогара"
           },
           "coords": [
             24.71,
@@ -1651,7 +1801,8 @@
             "de": "Nehmen Sie einen Bus zum Varosha-Viertel. Kaufen Sie eine Tageskarte für Flexibilität.",
             "hu": "Vegyen buszt a Varosa negyedbe. Vegyen napijegyet a rugalmasság érdekében.",
             "ro": "Luați un autobuz spre cartierul Varosha. Cumpărați un bilet de o zi pentru flexibilitate.",
-            "en": "Take a bus to the Varosha quarter. Buy a day pass for flexibility."
+            "en": "Take a bus to the Varosha quarter. Buy a day pass for flexibility.",
+            "bg": "Вземете автобус до квартал Варо̀ша. Купете дневна карта за гъвкавост."
           }
         },
         {
@@ -1659,7 +1810,8 @@
             "de": "Viertel Varosha",
             "hu": "Varosa negyed",
             "ro": "Cartierul Varosha",
-            "en": "Varosha Quarter"
+            "en": "Varosha Quarter",
+            "bg": "Квартал Варо̀ша"
           },
           "coords": [
             24.7145,
@@ -1675,7 +1827,8 @@
             "de": "Die Bushaltestelle ist nur wenige Gehminuten vom Herzen des alten Viertels entfernt.",
             "hu": "A buszmegálló csak néhány perces sétára van az óváros szívétől.",
             "ro": "Stația de autobuz este la doar câteva minute de mers pe jos de inima cartierului vechi.",
-            "en": "The bus stop is just a few minutes' walk from the heart of the old quarter."
+            "en": "The bus stop is just a few minutes' walk from the heart of the old quarter.",
+            "bg": "Автобусната спирка е само на няколко минути пеша от сърцето на стария квартал."
           }
         },
         {
@@ -1683,7 +1836,8 @@
             "de": "Gedeckte Brücke",
             "hu": "Fedett híd",
             "ro": "Podul Acoperit",
-            "en": "The Covered Bridge"
+            "en": "The Covered Bridge",
+            "bg": "Покритият мост"
           },
           "coords": [
             24.715,
@@ -1699,7 +1853,8 @@
             "de": "Schlendern Sie von Varosha direkt zur Brücke.",
             "hu": "Sétáljon Varosából egyenesen a hídhoz.",
             "ro": "Plimbați-vă de la Varosha direct la pod.",
-            "en": "Stroll from Varosha directly to the bridge."
+            "en": "Stroll from Varosha directly to the bridge.",
+            "bg": "Разходете се от Варо̀ша директно до моста."
           }
         },
         {
@@ -1707,7 +1862,8 @@
             "de": "Wasil-Lewski-Museum",
             "hu": "Vaszil Levszki Múzeum",
             "ro": "Muzeul Vasil Levski",
-            "en": "Vasil Levski Museum"
+            "en": "Vasil Levski Museum",
+            "bg": "Музей „Васил Левски“"
           },
           "coords": [
             24.7135,
@@ -1723,7 +1879,8 @@
             "de": "Der perfekte Ort, um die Mittagszeit drinnen zu verbringen.",
             "hu": "Tökéletes hely a déli idő beltéri eltöltésére.",
             "ro": "Locul perfect pentru a petrece timpul de prânz în interior.",
-            "en": "The perfect place to spend the midday hours indoors."
+            "en": "The perfect place to spend the midday hours indoors.",
+            "bg": "Перфектното място да прекарате обедните часове на закрито."
           }
         },
         {
@@ -1731,7 +1888,8 @@
             "de": "Festung Hisarja",
             "hu": "Hisarya erőd",
             "ro": "Cetatea Hisarya",
-            "en": "Hisarya Fortress"
+            "en": "Hisarya Fortress",
+            "bg": "Крепост Хисаря"
           },
           "coords": [
             24.7179,
@@ -1747,7 +1905,8 @@
             "de": "Nehmen Sie einen Bus, der Sie näher an den Hügel bringt, um den Aufstieg zu verkürzen.",
             "hu": "Vegyen egy buszt, amely közelebb visz a hegyhez, hogy lerövidítse a mászást.",
             "ro": "Luați un autobuz care vă aduce mai aproape de deal pentru a scurta urcarea.",
-            "en": "Take a bus that brings you closer to the hill to shorten the climb."
+            "en": "Take a bus that brings you closer to the hill to shorten the climb.",
+            "bg": "Вземете автобус, който ви доближава до хълма, за да скъсите изкачването."
           }
         },
         {
@@ -1755,7 +1914,8 @@
             "de": "Stratesh-Park",
             "hu": "Sztrates park",
             "ro": "Parcul Stratesh",
-            "en": "Stratesh Park"
+            "en": "Stratesh Park",
+            "bg": "Парк Стратеш"
           },
           "coords": [
             24.725,
@@ -1771,7 +1931,8 @@
             "de": "Ein schöner Ort, um den Tag ausklingen zu lassen, bevor Sie den Bus zurück nehmen.",
             "hu": "Szép hely a nap befejezéséhez, mielőtt visszaindulna a busszal.",
             "ro": "Un loc frumos pentru a încheia ziua înainte de a lua autobuzul înapoi.",
-            "en": "A lovely place to wind down the day before taking the bus back."
+            "en": "A lovely place to wind down the day before taking the bus back.",
+            "bg": "Прекрасно място да приключите деня преди да вземете автобус обратно."
           }
         }
       ],
@@ -1779,7 +1940,8 @@
         "de": "Nutzen Sie das öffentliche Verkehrsnetz von Lowetsch, um die Stadt zu erkunden. Beginnen Sie im historischen Varosha-Viertel, das Sie bequem mit dem Bus erreichen. Nach der Erkundung der Gassen und der Gedeckten Brücke zu Fuß bringt Sie ein weiterer Bus zur Festung Hisarja. Beenden Sie Ihren Tag mit einem entspannten Spaziergang im Stratesh-Park, der ebenfalls gut an das Busnetz angebunden ist.",
         "hu": "Használja Lovecs tömegközlekedési hálózatát a város felfedezéséhez. Kezdje a történelmi Varosa negyedben, amely busszal könnyen megközelíthető. Miután gyalog felfedezte az utcácskákat és a Fedett hidat, egy másik busz elviszi a Hisarya erődhöz. Fejezze be a napot egy pihentető sétával a Sztrates parkban, amely szintén jó buszösszeköttetéssel rendelkezik.",
         "ro": "Folosiți rețeaua de transport public din Lovech pentru a explora orașul. Începeți în cartierul istoric Varosha, ușor accesibil cu autobuzul. După ce explorați pe jos aleile și Podul Acoperit, un alt autobuz vă va duce la Cetatea Hisarya. Încheiați ziua cu o plimbare relaxantă în Parcul Stratesh, de asemenea bine conectat la rețeaua de autobuze.",
-        "en": "Use Lovech's public transport network to explore the city. Start in the historic Varosha quarter, easily reached by bus. After exploring the alleys and the Covered Bridge on foot, another bus will take you to Hisarya Fortress. End your day with a relaxing walk in Stratesh Park, also well-connected by the bus network."
+        "en": "Use Lovech's public transport network to explore the city. Start in the historic Varosha quarter, easily reached by bus. After exploring the alleys and the Covered Bridge on foot, another bus will take you to Hisarya Fortress. End your day with a relaxing walk in Stratesh Park, also well-connected by the bus network.",
+        "bg": "Използвайте обществения транспорт на Ловеч, за да разгледате града. Започнете в историческия квартал Варо̀ша, лесно достъпен с автобус. След като разгледате уличките и Покрития мост пеша, друг автобус ще ви отведе до крепост Хисаря. Завършете деня с релаксираща разходка в парк Стратеш, също добре свързан с автобусната мрежа."
       },
       "gastro_picks": {
         "de": [
@@ -1939,6 +2101,12 @@
           "Have the exact fare ready or buy tickets in advance.",
           "Buses may not run very frequently, so plan your return trip.",
           "Be aware of the last bus of the day, especially from the outskirts."
+        ],
+        "bg": [
+          "Питайте местните за правилната автобусна линия; разписанията могат да бъдат объркващи.",
+          "Имайте точна тарифа готова или купете билетите предварително.",
+          "Автобусите може да не минават много често, така че планирайте връщането си.",
+          "Бъдете наясно с последния автобус за деня, особено от покрайнините."
         ]
       },
       "variants": {
@@ -1947,7 +2115,8 @@
             "de": "Wir starten am zentralen Busbahnhof und nehmen den Stadtbus Richtung Altstadt. Mittags erkunden wir das Varoscha-Viertel und suchen Schutz unter der überdachten Brücke. Das Lewski-Museum bietet einen trockenen Nachmittag, bevor wir zur Hisarja-Festung hinaufsteigen. Der Tag endet mit einer kurzen Busfahrt zum Stratesch-Park, wo wir die Aussicht im Regen genießen.",
             "hu": "A központi buszpályaudvaron kezdünk, majd helyi járattal indulunk az óváros felé. Délben a Varosa negyedet fedezzük fel, és a fedett híd alatt keresünk menedéket. A Levszki Múzeum száraz délutánt ígér, mielőtt felkapaszkodnánk az erődhöz. A napot egy rövid buszozás zárja a Sztrates-parkhoz, ahol az esőben is szép a kilátás.",
             "ro": "Începem la Autogara Centrală și luăm autobuzul local spre orașul vechi. La prânz explorăm cartierul Varosha și căutăm adăpost sub Podul Acoperit. Muzeul Levski oferă o după-amiază uscată înainte de a urca la Cetatea Hisarya. Ziua se încheie cu o scurtă călătorie cu autobuzul spre Parcul Stratesh.",
-            "en": "We start at the Central Bus Station and take a local bus towards the old town. At noon, we explore the Varosha quarter and seek shelter under the Covered Bridge. The Levski Museum offers a dry afternoon before we climb up to Hisarya Fortress. The day ends with a short bus ride to Stratesh Park for rainy panoramic views."
+            "en": "We start at the Central Bus Station and take a local bus towards the old town. At noon, we explore the Varosha quarter and seek shelter under the Covered Bridge. The Levski Museum offers a dry afternoon before we climb up to Hisarya Fortress. The day ends with a short bus ride to Stratesh Park for rainy panoramic views.",
+            "bg": "Започваме от Централната автогара и взимаме местен автобус към стария град. По обяд разглеждаме квартал Варо̀ша и търсим подслон под Покрития мост. Музей „Левски“ предлага сух следобед, преди да се изкачим до крепост Хисаря. Денят завършва с кратко пътуване с автобус до парк Стратеш за дъждовни панорамни гледки."
           },
           "stops": [
             {
@@ -1956,7 +2125,8 @@
                 "de": "Nutzen Sie den überdachten Wartebereich des Bahnhofs.",
                 "hu": "Használd az állomás fedett várótermét.",
                 "ro": "Folosiți sala de așteptare acoperită a gării.",
-                "en": "Make use of the station's sheltered waiting area."
+                "en": "Make use of the station's sheltered waiting area.",
+                "bg": "Възползвайте се от покритата чакалня на гарата."
               }
             },
             {
@@ -1965,7 +2135,8 @@
                 "de": "Die Bushaltestellen sind oft nicht überdacht; Regenschirm bereit halten.",
                 "hu": "A buszmegállók gyakran nem fedettek, legyen kéznél az esernyő.",
                 "ro": "Stațiile de autobuz nu sunt mereu acoperite; țineți umbrela la îndemână.",
-                "en": "Bus stops are often unsheltered; keep your umbrella ready."
+                "en": "Bus stops are often unsheltered; keep your umbrella ready.",
+                "bg": "Автобусните спирки често не са покрити; дръжте чадъра си под ръка."
               }
             },
             {
@@ -1974,7 +2145,8 @@
                 "de": "Ein idealer Ort, um auf den nächsten Bus im Trockenen zu warten.",
                 "hu": "Ideális hely a következő busz megvárására, garantáltan szárazon.",
                 "ro": "Locul ideal pentru a aștepta următorul autobuz ferit de ploaie.",
-                "en": "An ideal place to wait for your next bus while staying dry."
+                "en": "An ideal place to wait for your next bus while staying dry.",
+                "bg": "Идеално място да изчакате следващия си автобус, докато сте сухи."
               }
             },
             {
@@ -1983,7 +2155,8 @@
                 "de": "Nur ein kurzer Fußweg von der Bushaltestelle entfernt.",
                 "hu": "Csak pár perc séta a legközelebbi buszmegállótól.",
                 "ro": "La doar câteva minute de mers pe jos de cea mai apropiată stație.",
-                "en": "Only a short walk from the nearest bus stop."
+                "en": "Only a short walk from the nearest bus stop.",
+                "bg": "Само кратка разходка от най-близката автобусна спирка."
               }
             },
             {
@@ -1992,7 +2165,8 @@
                 "de": "Planen Sie den Fußweg zur Bushaltestelle im Regen zeitlich ein.",
                 "hu": "Számolj az esőben való gyaloglással a legközelebbi megállóig.",
                 "ro": "Calculați timpul de mers prin ploaie până la cea mai apropiată stație.",
-                "en": "Factor in the walk through the rain to the nearest bus stop."
+                "en": "Factor in the walk through the rain to the nearest bus stop.",
+                "bg": "Въведете в сметка разходката през дъжда до най-близката спирка."
               }
             },
             {
@@ -2001,7 +2175,8 @@
                 "de": "Prüfen Sie den Fahrplan für die Rückfahrt ins Zentrum.",
                 "hu": "Ellenőrizd a menetrendet a központba való visszajutáshoz.",
                 "ro": "Verificați orarul pentru întoarcerea spre centru.",
-                "en": "Check the bus schedule for your return to the city center."
+                "en": "Check the bus schedule for your return to the city center.",
+                "bg": "Проверете разписанието на автобусите за връщане към центъра на града."
               }
             }
           ],
@@ -2033,6 +2208,13 @@
               "The Covered Bridge links key transit points on foot while staying dry.",
               "Expect some weather-related delays in bus services.",
               "Most local bus lines operate until around 8:00 PM."
+            ],
+            "bg": [
+              "Свалете приложение за транспорт за разписанията на автобусите в Ловеч.",
+              "Дръжте дребни пари готови за купуване на билети от шофьора.",
+              "Покритият мост свързва ключови транзитни точки пеша, като същевременно осигурява сухо преминаване.",
+              "Очаквайте повреме забавяния в автобусните услуги поради времето.",
+              "Повечето местни автобусни линии работят до около 20:00 ч."
             ]
           }
         },
@@ -2041,7 +2223,8 @@
             "de": "Ein frostiger Start am Busbahnhof führt uns mit dem Stadtbus in das winterliche Lowetsch. Mittags wärmen wir uns in den Läden der überdachten Brücke und im Lewski-Museum auf. Der Nachstieg zur Hisarja-Festung bietet einen klaren Blick auf das verschneite Umland. Vor dem frühen Abend nehmen wir den Bus zum Stratesch-Park, um die Stille der weißen Natur zu erleben.",
             "hu": "Fagyos kezdés a buszpályaudvaron, majd helyi járattal megyünk be a téli Lovecsbe. Délben a fedett híd boltjaiban és a Levszki Múzeumban melegszünk fel. A Hiszárja erődhöz tett séta tiszta kilátást nyújt a havas környékre. Kora este busszal megyünk a Sztrates-parkhoz, hogy átéljük a fehérbe öltözött természet csendjét.",
             "ro": "Un început geros la autogară ne poartă cu autobuzul prin Loveciul hibernal. La prânz ne încălzim în magazinele de pe pod și la Muzeul Levski. Urcarea la Cetatea Hisarya oferă o perspectivă clară asupra împrejurimilor înzăpezite. Spre seară, luăm autobuzul spre Parcul Stratesh pentru a simți liniștea naturii albe.",
-            "en": "A frosty start at the bus station takes us via local bus into wintery Lovech. At noon, we warm up in the bridge shops and the Levski Museum. The walk to Hisarya Fortress rewards us with crisp views of the snowy landscape. In the early evening, we take the bus to Stratesh Park to experience the silence of the white nature."
+            "en": "A frosty start at the bus station takes us via local bus into wintery Lovech. At noon, we warm up in the bridge shops and the Levski Museum. The walk to Hisarya Fortress rewards us with crisp views of the snowy landscape. In the early evening, we take the bus to Stratesh Park to experience the silence of the white nature.",
+            "bg": "Студено начало на автогарата ни отвежда с локален автобус към зимния Ловеч. По обяд се сгреем в магазините на моста и в музея на Левски. Разходката до крепостта Хисаря ни възнаграждава с ясни гледки към заснежения пейзаж. В ранния вечерен час взимаме автобус до парк Стратеш, за да усетим тишината на белия свят."
           },
           "stops": [
             {
@@ -2050,7 +2233,8 @@
                 "de": "Warten Sie im beheizten Bereich auf Ihren Anschluss.",
                 "hu": "Várd a csatlakozást a fűtött váróteremben.",
                 "ro": "Așteptați legătura în zona încălzită a autogării.",
-                "en": "Wait for your connection in the heated area of the station."
+                "en": "Wait for your connection in the heated area of the station.",
+                "bg": "Изчакайте връзката си в отопляемата част на гарата."
               }
             },
             {
@@ -2059,7 +2243,8 @@
                 "de": "Achten Sie auf vereiste Stufen an den Bushaltestellen.",
                 "hu": "Ügyelj a jeges lépcsőkre a buszmegállók környékén.",
                 "ro": "Atenție la treptele înghețate din stațiile de autobuz.",
-                "en": "Watch out for icy steps around the bus stops."
+                "en": "Watch out for icy steps around the bus stops.",
+                "bg": "Внимавайте за заледени стъпала около автобусните спирки."
               }
             },
             {
@@ -2068,7 +2253,8 @@
                 "de": "Der wärmste Ort, um auf den Bus zu warten.",
                 "hu": "A legmelegebb hely a környéken a buszra való várakozáshoz.",
                 "ro": "Cel mai călduros loc din zonă pentru a aștepta autobuzul.",
-                "en": "The warmest spot in the area to wait for your next bus."
+                "en": "The warmest spot in the area to wait for your next bus.",
+                "bg": "Най-топлото място в района за изчакване на следващия автобус."
               }
             },
             {
@@ -2077,7 +2263,8 @@
                 "de": "Planen Sie die Besichtigung so, dass Sie im Warmen bleiben.",
                 "hu": "Úgy tervezd a látogatást, hogy a legtöbb időt bent töltsd a melegben.",
                 "ro": "Planificați vizita astfel încât să stați cât mai mult la căldură.",
-                "en": "Plan your visit to maximize time spent in the warm galleries."
+                "en": "Plan your visit to maximize time spent in the warm galleries.",
+                "bg": "Планирайте посещението си така, че да прекарате възможно най-малко време навън и повече в топлите галерии."
               }
             },
             {
@@ -2086,7 +2273,8 @@
                 "de": "Gehen Sie vorsichtig zurück zur Haltestelle; Wege können glatt sein.",
                 "hu": "Óvatosan menj vissza a megállóhoz, az utak jegesek lehetnek.",
                 "ro": "Mergeți cu grijă spre stație; drumurile pot fi poleite.",
-                "en": "Walk carefully back to the stop; paths can be slippery."
+                "en": "Walk carefully back to the stop; paths can be slippery.",
+                "bg": "Вървете внимателно обратно към спирката; пътеки могат да бъдат хлъзгави."
               }
             },
             {
@@ -2095,7 +2283,8 @@
                 "de": "Achten Sie auf den ausgedünnten Winterfahrplan am Abend.",
                 "hu": "Figyeld a ritkított téli menetrendet az esti órákban.",
                 "ro": "Verificați orarul de iarnă redus în orele serii.",
-                "en": "Be aware of the reduced winter bus schedule in the evenings."
+                "en": "Be aware of the reduced winter bus schedule in the evenings.",
+                "bg": "Имайте предвид орязаното зимно разписание на автобусите вечерта."
               }
             }
           ],
@@ -2127,6 +2316,13 @@
               "Wear warm footwear as waiting at bus stops can be very cold.",
               "Check for the last bus back to the station (often around 7:30 PM).",
               "Buses are usually moderately heated inside."
+            ],
+            "bg": [
+              "Автобусите могат да имат забавяния при силен снеговалеж.",
+              "Покритият мост е най-доброто място да се стоплите между автобусните линии.",
+              "Носете топла обувка, тъй като чакането на спирките може да бъде много студено.",
+              "Проверете за последния автобус обратно до гарата (често около 19:30 ч.).",
+              "Автобусите обикновено са умерено отоплени вътре."
             ]
           }
         }

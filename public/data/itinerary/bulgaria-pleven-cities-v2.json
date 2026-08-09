@@ -21,7 +21,8 @@
             "de": "Mausoleum St. Georg",
             "hu": "Szent György győztes mauzóleum-kápolna",
             "ro": "Mausoleul Sfântul Gheorghe Biruitorul",
-            "en": "St. George the Conqueror Mausoleum"
+            "en": "St. George the Conqueror Mausoleum",
+            "bg": "Мавзолей „Св. Георги Победоносец”"
           },
           "coords": [
             24.618,
@@ -37,7 +38,8 @@
             "de": "Bewundern Sie die beeindruckende Ikonostase und die feierliche Atmosphäre.",
             "hu": "Csodálja meg a lenyűgöző ikonosztázt és az ünnepélyes légkört.",
             "ro": "Admirați iconostasul impresionant și atmosfera solemnă.",
-            "en": "Admire the impressive iconostasis and the solemn atmosphere."
+            "en": "Admire the impressive iconostasis and the solemn atmosphere.",
+            "bg": "Възхитете се на внушителния иконостас и на тържествената атмосфера."
           }
         },
         {
@@ -45,7 +47,8 @@
             "de": "Wasserkaskade",
             "hu": "Vízilépcső",
             "ro": "Cascada de apă",
-            "en": "Water Cascade"
+            "en": "Water Cascade",
+            "bg": "Водна каскада"
           },
           "coords": [
             24.619,
@@ -61,7 +64,8 @@
             "de": "Ein beliebter Treffpunkt für Einheimische, besonders schön am Abend beleuchtet.",
             "hu": "A helyiek kedvelt találkozóhelye, este kivilágítva különösen szép.",
             "ro": "Un loc de întâlnire popular pentru localnici, deosebit de frumos iluminat seara.",
-            "en": "A popular meeting point for locals, especially beautiful when lit up in the evening."
+            "en": "A popular meeting point for locals, especially beautiful when lit up in the evening.",
+            "bg": "Популярен сборен пункт за местните, особено красива когато е осветена вечер."
           }
         },
         {
@@ -69,7 +73,8 @@
             "de": "Historisches Museum",
             "hu": "Regionális Történeti Múzeum",
             "ro": "Muzeul Regional de Istorie",
-            "en": "Regional Historical Museum"
+            "en": "Regional Historical Museum",
+            "bg": "Регионален исторически музей"
           },
           "coords": [
             24.622,
@@ -85,7 +90,8 @@
             "de": "Konzentrieren Sie sich auf die archäologischen Funde aus der römischen Zeit.",
             "hu": "Koncentráljon a római korból származó régészeti leletekre.",
             "ro": "Concentrați-vă pe descoperirile arheologice din perioada romană.",
-            "en": "Focus on the archaeological finds from the Roman era."
+            "en": "Focus on the archaeological finds from the Roman era.",
+            "bg": "Фокусирайте се върху археологическите находки от римската епоха."
           }
         },
         {
@@ -93,7 +99,8 @@
             "de": "Theater Ivan Radoev",
             "hu": "Ivan Radoev Drámai Színház",
             "ro": "Teatrul Dramatic Ivan Radoev",
-            "en": "Ivan Radoev Drama Theatre"
+            "en": "Ivan Radoev Drama Theatre",
+            "bg": "Драматичен театър „Иван Радоев”"
           },
           "coords": [
             24.621,
@@ -109,7 +116,8 @@
             "de": "Prüfen Sie den Spielplan, vielleicht gibt es eine interessante Abendvorstellung.",
             "hu": "Nézze meg a műsort, talán van egy érdekes esti előadás.",
             "ro": "Verificați programul, poate există un spectacol de seară interesant.",
-            "en": "Check the schedule, there might be an interesting evening performance."
+            "en": "Check the schedule, there might be an interesting evening performance.",
+            "bg": "Проверете програмата, може да има интересна вечерна постановка."
           }
         },
         {
@@ -117,7 +125,8 @@
             "de": "Panorama Pleven",
             "hu": "Pleveni panoráma 1877",
             "ro": "Panorama din Plevna 1877",
-            "en": "Pleven Panorama 1877"
+            "en": "Pleven Panorama 1877",
+            "bg": "Плевенска панорама 1877"
           },
           "coords": [
             24.606,
@@ -133,7 +142,8 @@
             "de": "Nehmen Sie an einer Führung teil, um die Details der Schlacht zu verstehen.",
             "hu": "Vegyen részt egy tárlatvezetésen, hogy megértse a csata részleteit.",
             "ro": "Participați la un tur ghidat pentru a înțelege detaliile bătăliei.",
-            "en": "Join a guided tour to understand the details of the battle."
+            "en": "Join a guided tour to understand the details of the battle.",
+            "bg": "Присъединете се към обиколка с гид, за да разберете детайлите на битката."
           }
         },
         {
@@ -141,7 +151,8 @@
             "de": "Skobelev-Park",
             "hu": "Szkobelev park",
             "ro": "Parcul Skobelev",
-            "en": "Skobelev Park"
+            "en": "Skobelev Park",
+            "bg": "Парк „Скобелев”"
           },
           "coords": [
             24.605,
@@ -157,7 +168,8 @@
             "de": "Der Park beherbergt Dutzende von Denkmälern und Massengräbern.",
             "hu": "A parkban több tucat emlékmű és tömegsír található.",
             "ro": "Parcul adăpostește zeci de monumente și morminte comune.",
-            "en": "The park houses dozens of monuments and mass graves."
+            "en": "The park houses dozens of monuments and mass graves.",
+            "bg": "В парка има десетки паметници и масови гробове."
           }
         },
         {
@@ -165,7 +177,8 @@
             "de": "Weinmuseum",
             "hu": "Bormúzeum",
             "ro": "Muzeul Vinului",
-            "en": "Wine Museum"
+            "en": "Wine Museum",
+            "bg": "Музей на виното"
           },
           "coords": [
             24.615,
@@ -181,7 +194,8 @@
             "de": "Buchen Sie eine Weinprobe, um die lokalen bulgarischen Weinsorten zu probieren.",
             "hu": "Foglaljon borkóstolót, hogy megkóstolhassa a helyi bolgár borfajtákat.",
             "ro": "Rezervați o degustare de vinuri pentru a încerca soiurile locale bulgare.",
-            "en": "Book a wine tasting session to sample the local Bulgarian varieties."
+            "en": "Book a wine tasting session to sample the local Bulgarian varieties.",
+            "bg": "Резервирайте дегустация, за да опитате местните български сортове."
           }
         }
       ],
@@ -189,7 +203,8 @@
         "de": "Ihr Tag in Plewen beginnt im Herzen der Stadt am St.-Georgs-Mausoleum, einem Ort der Besinnung. Nach einem kurzen Spaziergang erreichen Sie die Wasserkaskaden und das Historische Museum, wo Sie in die reiche Vergangenheit der Region eintauchen. Am Mittag führt Sie Ihr Weg zum beeindruckenden Plewen-Panorama, das die entscheidende Schlacht von 1877 darstellt. Der Nachmittag ist der Entspannung im Skobelev-Park gewidmet, bevor Sie den Tag mit einer Weinprobe im einzigartigen Weinmuseum im Kaylaka-Park ausklingen lassen. Ein Spaziergang voller Geschichte und Kultur.",
         "hu": "Pleveni napja a város szívében, a Szent György mauzóleumnál kezdődik, az elmélkedés helyszínén. Egy rövid séta után eléri a Vízilépcsőt és a Történeti Múzeumot, ahol elmerülhet a régió gazdag múltjában. Délben az útja a lenyűgöző Pleveni panorámához vezet, amely az 1877-es döntő csatát ábrázolja. A délután a Szkobelev parkban való pihenésé, mielőtt a napot egy borkóstolóval zárja a különleges Bormúzeumban a Kajlaka parkban. Egy séta tele történelemmel és kultúrával.",
         "ro": "Ziua dumneavoastră în Plevna începe în inima orașului, la Mausoleul Sf. Gheorghe, un loc de reculegere. După o scurtă plimbare, ajungeți la Cascadele de Apă și la Muzeul de Istorie, unde vă veți cufunda în trecutul bogat al regiunii. La prânz, drumul vă duce la impresionanta Panoramă din Plevna, care înfățișează bătălia decisivă din 1877. După-amiaza este dedicată relaxării în Parcul Skobelev, înainte de a încheia ziua cu o degustare de vinuri la Muzeul Vinului, unic în Parcul Kaylaka. O plimbare plină de istorie și cultură.",
-        "en": "Your day in Pleven begins in the heart of the city at the St. George Mausoleum, a place of reflection. After a short walk, you'll reach the Water Cascades and the Historical Museum, where you'll delve into the region's rich past. At midday, your path leads to the impressive Pleven Panorama, depicting the decisive battle of 1877. The afternoon is dedicated to relaxation in Skobelev Park before you end the day with a wine tasting at the unique Wine Museum in Kaylaka Park. A walk full of history and culture."
+        "en": "Your day in Pleven begins in the heart of the city at the St. George Mausoleum, a place of reflection. After a short walk, you'll reach the Water Cascades and the Historical Museum, where you'll delve into the region's rich past. At midday, your path leads to the impressive Pleven Panorama, depicting the decisive battle of 1877. The afternoon is dedicated to relaxation in Skobelev Park before you end the day with a wine tasting at the unique Wine Museum in Kaylaka Park. A walk full of history and culture.",
+        "bg": "Вашият ден в Плевен започва в сърцето на града при мавзолея „Св. Георги”, място за размисъл. След кратка разходка ще достигнете Водната каскада и Историческия музей, където ще навлезете в богатото минало на региона. На обяд пътят ви води до внушителната Плевенска панорама, изобразяваща решаващата битка от 1877 г. Следобедът е посветен на отдих в парк „Скобелев”, преди да завършите деня с дегустация в уникалния Музей на виното в парк „Кайлъка”. Разходка, пълна с история и култура."
       },
       "gastro_picks": {
         "de": [
@@ -349,6 +364,12 @@
           "Bring a reusable water bottle with you.",
           "Check the opening hours of the museums in advance.",
           "Some places may not accept card payments, so have some cash on hand."
+        ],
+        "bg": [
+          "Носете удобни обувки, тъй като ще има много ходене.",
+          "Вземете многократна бутилка за вода със себе си.",
+          "Проверете предварително работното време на музеите.",
+          "Някои места може да не приемат карти, затова носете малко кеш."
         ]
       },
       "variants": {
@@ -357,7 +378,8 @@
             "de": "Beginnen Sie den Tag im Schutz des Mausoleums, während der Regen auf den zentralen Platz prasselt. Die Wasserfall-Kaskaden wirken bei Regen melancholisch, aber die Flucht in das Regionalmuseum bietet stundenlange Trockenheit.\n\nMittags erreichen Sie das Panorama-Denkmal auf dem Hügel. Die gewaltige Anlage bietet den perfekten Unterschlupf und eine immersive Erfahrung, während es draußen stürmt.\n\nAm Nachmittag führt der Weg durch den Skobelev-Park zum Weinmuseum. Da sich dieses in einer natürlichen Höhle befindet, sind Sie hier absolut sicher vor jeglichem Niederschlag.\n\nDen Abend lassen Sie im Stadtzentrum ausklingen. Die beleuchteten nassen Straßen spiegeln die Lichter der Stadt wider, während Sie ein lokales Restaurant aufsuchen.",
             "hu": "Kezdje a napot a Mauzóleum fedett csarnokában, miközben az eső mossa a főteret. A Vízi kaszkád ilyenkor kevésbé látványos, de a Történeti Múzeum hatalmas épülete kiváló menedéket nyújt a délelőtti záporok elől.\n\nDélben irány a Pleveni Panoráma. A dombtetőn álló monumentális épület belsejében teljesen elfelejtheti a kinti rossz időt, miközben az 1877-es ostrom eseményeibe merül.\n\nDélután a Skobelev parkon keresztül juthat el a Bormúzeumba. Ez a helyszín tökéletes esőben, hiszen egy barlang belsejében található, ahol a csapadék egyáltalán nem zavarja a kóstolót.\n\nAz estét a belvárosban töltse, ahol a vizes aszfalton megcsillanó fények különleges hangulatot adnak a színház környékének.",
             "ro": "Începeți ziua în interiorul Mausoleului, protejați de ploaia care cade peste piața centrală. Cascadele de apă pot fi evitate rapid pentru a intra în incinta Muzeului Regional de Istorie.\n\nLa prânz, urcați spre Panorama Pleven. Această structură masivă este refugiul ideal împotriva vremii nefavorabile, oferind o perspectivă istorică impresionantă fără a vă expune stropilor.\n\nDupă-amiaza, traversați parcul Skobelev către Muzeul Vinului. Localizat într-o peșteră naturală, acesta este probabil cel mai sigur loc din oraș împotriva ploii, oferind o atmosferă caldă.\n\nSeara, bucurați-vă de reflexiile luminilor orașului în bălțile de pe trotuarele din centru, înainte de a vă retrage într-o tavernă locală.",
-            "en": "Start your morning inside the Mausoleum, shielding yourself from the rain hitting the central square. Skip the outdoor cascades quickly to spend more time in the dry halls of the Historical Museum.\n\nAt midday, head to the Pleven Panorama. This massive indoor attraction is the ultimate rainy-day sanctuary, where you can immerse yourself in history while staying completely dry.\n\nIn the afternoon, walk through Skobelev Park to the Wine Museum. Since it is carved into a natural cave, it provides perfect shelter and a unique subterranean atmosphere.\n\nFinish your evening in the city center. The wet pavements reflect the streetlights beautifully near the theater, creating a moody atmosphere for a Bulgarian dinner."
+            "en": "Start your morning inside the Mausoleum, shielding yourself from the rain hitting the central square. Skip the outdoor cascades quickly to spend more time in the dry halls of the Historical Museum.\n\nAt midday, head to the Pleven Panorama. This massive indoor attraction is the ultimate rainy-day sanctuary, where you can immerse yourself in history while staying completely dry.\n\nIn the afternoon, walk through Skobelev Park to the Wine Museum. Since it is carved into a natural cave, it provides perfect shelter and a unique subterranean atmosphere.\n\nFinish your evening in the city center. The wet pavements reflect the streetlights beautifully near the theater, creating a moody atmosphere for a Bulgarian dinner.",
+            "bg": "Започнете сутринта вътре в мавзолея, скривайки се от дъжда, който удря централния площад. Прескочете бързо външните каскади, за да прекарате повече време в сухите зали на Регионалния исторически музей.\n\nВ средата на деня се отправете към Плевенската панорама. Тази масивна вътрешна атракция е идеалното убежище при дъжд, където можете да потопите се в историята, оставайки напълно сухи.\n\nСледобед разходете се през парк „Скобелев” до Винарския музей. Тъй като е издялана в естествена пещера, тя осигурява перфектно убежище и уникална подземна атмосфера.\n\nЗавършете вечерта в центъра на града. Мокрите плочи отразяват уличните лампи красиво край театъра, създавайки настроение за българска вечеря."
           },
           "stops": [
             {
@@ -366,7 +388,8 @@
                 "de": "Ein trockener und ruhiger Ort für den Start bei Regen.",
                 "hu": "Fedett és csendes helyszín, ideális az eső elleni védekezésre.",
                 "ro": "Un loc uscat și liniștit pentru a începe vizita pe ploaie.",
-                "en": "A dry and quiet place to start your visit during the rain."
+                "en": "A dry and quiet place to start your visit during the rain.",
+                "bg": "Сухо и спокойно място за начало на посещението ви при дъжд."
               }
             },
             {
@@ -375,7 +398,8 @@
                 "de": "Bei Regen rutschig; betrachten Sie die Fontänen aus der Ferne.",
                 "hu": "Esőben csúszós lehet; nézze a szökőkutakat távolabbról.",
                 "ro": "Alunecos pe ploaie; observați fântânile de la distanță.",
-                "en": "Slippery when wet; view the fountains from a safe distance."
+                "en": "Slippery when wet; view the fountains from a safe distance.",
+                "bg": "Хлъзгаво при намокряне; гледайте фонтаните от безопасно разстояние."
               }
             },
             {
@@ -384,7 +408,8 @@
                 "de": "Perfekter Ort für 90 Minuten im Trockenen.",
                 "hu": "Tökéletes helyszín 90 percnyi száraz pihenőre.",
                 "ro": "Locul perfect pentru 90 de minute de adăpost.",
-                "en": "Perfect spot for 90 minutes of indoor exploration."
+                "en": "Perfect spot for 90 minutes of indoor exploration.",
+                "bg": "Перфектно място за 90 минути вътрешно разглеждане."
               }
             },
             {
@@ -393,7 +418,8 @@
                 "de": "Das Vordach bietet kurzzeitigen Schutz vor Schauern.",
                 "hu": "Az épület előtetője rövid menedéket nyújt a záporok elől.",
                 "ro": "Copertina clădirii oferă un scurt adăpost împotriva ploii.",
-                "en": "The building's canopy provides brief shelter from showers."
+                "en": "The building's canopy provides brief shelter from showers.",
+                "bg": "Козирката на сградата дава краткосрочно убежище от преваляванията."
               }
             },
             {
@@ -402,7 +428,8 @@
                 "de": "Hervorragende Indoor-Attraktion, ideal bei jedem Sturm.",
                 "hu": "Kiváló beltéri látnivaló, bármilyen vihar esetén ideális.",
                 "ro": "Atracție interioară excelentă, ideală pe orice furtună.",
-                "en": "Excellent indoor attraction, ideal during any storm."
+                "en": "Excellent indoor attraction, ideal during any storm.",
+                "bg": "Отлична вътрешна атракция, идеална по време на буря."
               }
             },
             {
@@ -411,7 +438,8 @@
                 "de": "Nutzen Sie die asphaltierten Wege, um Matsch zu vermeiden.",
                 "hu": "Használja az aszfaltozott utakat a sár elkerülése érdekében.",
                 "ro": "Folosiți aleile asfaltate pentru a evita noroiul.",
-                "en": "Stick to the paved paths to avoid mud in the park."
+                "en": "Stick to the paved paths to avoid mud in the park.",
+                "bg": "Дръжте се по настланите пътеки, за да избегнете кал в парка."
               }
             },
             {
@@ -420,7 +448,8 @@
                 "de": "In einer Höhle gelegen – der trockenste Ort in Plewen.",
                 "hu": "Barlangban található – Pleven legszárazabb pontja esőben.",
                 "ro": "Situat într-o peșteră – cel mai uscat loc din Plevna.",
-                "en": "Located in a cave – the driest spot in Pleven during rain."
+                "en": "Located in a cave – the driest spot in Pleven during rain.",
+                "bg": "Разположен в пещера – най-сухото място в Плевен при дъжд."
               }
             }
           ],
@@ -452,6 +481,13 @@
               "Take advantage of the many cafes around Freedom Square for breaks.",
               "The water cascades might be turned off during heavy rainfall.",
               "Taxis are affordable and a great backup for sudden downpours."
+            ],
+            "bg": [
+              "Носете водоустойчиви обувки, тъй като пешеходната зона може да задържа локви.",
+              "Панорамата и Винарският музей са най-добрите убежища при упорит дъжд.",
+              "Възползвайте се от многото кафенета около площад „Свобода” за почивки.",
+              "Водните каскади могат да бъдат изключени при силен дъжд.",
+              "Такситата са евтини и отличен вариант при внезапни порои."
             ]
           }
         },
@@ -460,7 +496,8 @@
             "de": "Ein frostiger Morgen beginnt am Mausoleum. Die kalte Winterluft ist klar, und der zentrale Platz wirkt im grauen Licht ruhig. Wärmen Sie sich schnell im Regionalmuseum auf.\n\nMittags erklimmen Sie den Hügel zum Panorama. Die Heizung im Inneren ist ein Segen nach dem windigen Aufstieg. Der Blick auf das verschneite Plewen vom Hügel aus ist beeindruckend.\n\nDer Nachmittag führt in den Skobelev-Park. Die kahlen Bäume lassen den Blick auf die Denkmäler frei. Im Weinmuseum herrscht in der Höhle eine konstante, angenehme Temperatur.\n\nZum Abendessen kehren Sie ins Zentrum zurück. Die Dämmerung setzt früh ein, und die festliche Beleuchtung verleiht der Stadt einen gemütlichen Charme, während Sie lokale Spezialitäten genießen.",
             "hu": "Fagyos reggel indul a Mauzóleumnál. A hideg téli levegő tiszta, a főtér ilyenkor sokkal csendesebb. A délelőttöt töltse a Történeti Múzeum fűtött termeiben.\n\nDélben másszon fel a Panorámához. A benti fűtés igazi áldás a szeles emelkedő után. A dombtetőről nyíló kilátás a havas Plevenre felejthetetlen élmény.\n\nDélután tegyen egy rövid sétát a Skobelev parkban, majd irány a Bormúzeum. A barlang mélyén télen is állandó és kellemes a hőmérséklet, távol a kinti fagyoktól.\n\nAz este korán köszönt be; a város fényei már délután ötkor ragyognak. Keressen egy hangulatos éttermet a belvárosban, ahol megkóstolhatja a meleg bolgár ételeket.",
             "ro": "O dimineață geroasă începe la Mausoleu. Aerul rece de iarnă este proaspăt, iar piața centrală pare mai vastă. Încălziți-vă rapid în sălile Muzeului Regional.\n\nLa prânz, urcați spre Panorama. Căldura din interior este binevenită după urcușul expus vântului. Vederea asupra orașului înzăpezit de pe deal este spectaculoasă.\n\nDupă-amiaza este dedicată parcului Skobelev și Muzeului Vinului. În peșteră, temperatura rămâne constantă și mult mai plăcută decât afară, oferind un refugiu termic.\n\nSeara se așterne devreme, iar luminile festive dau orașului un farmec aparte. Încheiați ziua cu o cină caldă într-un restaurant tradițional din centru.",
-            "en": "A frosty morning starts at the Mausoleum. The crisp winter air is refreshing, but the central square can be biting. Warm up early in the heated Regional Museum.\n\nAt midday, make your way up the hill to the Panorama. The indoor heating is a relief after the windy climb, and the view of snowy Pleven from the hill is stark and beautiful.\n\nSpend your afternoon in Skobelev Park and the Wine Museum. The cave maintains a constant, milder temperature, making it a perfect escape from the winter chill.\n\nEvening arrives early, with the city lights twinkling by 5 PM. Head back to the center for a cozy Bulgarian meal to end your winter journey."
+            "en": "A frosty morning starts at the Mausoleum. The crisp winter air is refreshing, but the central square can be biting. Warm up early in the heated Regional Museum.\n\nAt midday, make your way up the hill to the Panorama. The indoor heating is a relief after the windy climb, and the view of snowy Pleven from the hill is stark and beautiful.\n\nSpend your afternoon in Skobelev Park and the Wine Museum. The cave maintains a constant, milder temperature, making it a perfect escape from the winter chill.\n\nEvening arrives early, with the city lights twinkling by 5 PM. Head back to the center for a cozy Bulgarian meal to end your winter journey.",
+            "bg": "Мразовита сутрин започва в мавзолея. Свежият зимен въздух е ободряващ, но централният площад може да бъде пронизващ. Сгрейте се рано в отопления Регионален исторически музей.\n\nВ средата на деня се изкачете на хълма до Панорамата. Вътрешното отопление е облекчение след ветровития подем, а гледката към заснежения Плевен от хълма е сурова и красива.\n\nПрекарвайте следобеда в парк „Скобелев” и Винарския музей. Пещерата поддържа постоянна, по-мекина температура, което я прави идеално убежище от зимната студа.\n\nВечерта идва рано, с уличните светлини, които мигат около 17:00. Върнете се в центъра за уютна българска вечеря, за да завършите зимното си пътуване."
           },
           "stops": [
             {
@@ -469,7 +506,8 @@
                 "de": "Vorsicht vor vereisten Stufen am Eingang.",
                 "hu": "Vigyázat, a bejárati lépcsők jegesek lehetnek.",
                 "ro": "Atenție la treptele înghețate de la intrare.",
-                "en": "Watch out for icy steps at the entrance."
+                "en": "Watch out for icy steps at the entrance.",
+                "bg": "Внимавайте за заледени стъпала на входа."
               }
             },
             {
@@ -478,7 +516,8 @@
                 "de": "Im Winter meist abgeschaltet, aber die Steinmetzearbeit ist sichtbar.",
                 "hu": "Télen általában nem üzemel, de a szobrok így is láthatóak.",
                 "ro": "De obicei oprită iarna, dar sculpturile rămân vizibile.",
-                "en": "Usually turned off in winter, but the stonework is still visible."
+                "en": "Usually turned off in winter, but the stonework is still visible.",
+                "bg": "Обикновено изключени през зимата, но каменната работа е все още видима."
               }
             },
             {
@@ -487,7 +526,8 @@
                 "de": "Gut beheizt, ideal zum Aufwärmen der Füße.",
                 "hu": "Jól fűtött, ideális a lábak átmelegítésére.",
                 "ro": "Bine încălzit, ideal pentru a vă încălzi picioarele.",
-                "en": "Well-heated, ideal for warming up during the tour."
+                "en": "Well-heated, ideal for warming up during the tour.",
+                "bg": "Добре отоплена, идеална за затопляне по време на обиколката."
               }
             },
             {
@@ -496,7 +536,8 @@
                 "de": "Das beleuchtete Gebäude sieht im Winterschnee prächtig aus.",
                 "hu": "A kivilágított épület csodás látvány a téli hóesésben.",
                 "ro": "Clădirea iluminată arată superb în zăpada de iarnă.",
-                "en": "The illuminated building looks magnificent in the winter snow."
+                "en": "The illuminated building looks magnificent in the winter snow.",
+                "bg": "Осветената сграда изглежда великолепно в зимния сняг."
               }
             },
             {
@@ -505,7 +546,8 @@
                 "de": "Die Panorama-Halle ist angenehm warm temperiert.",
                 "hu": "A Panoráma-csarnok kellemesen meleg hőmérsékletű.",
                 "ro": "Sala Panoramei are o temperatură plăcută și caldă.",
-                "en": "The Panorama hall is kept at a comfortable warm temperature."
+                "en": "The Panorama hall is kept at a comfortable warm temperature.",
+                "bg": "Залата на Панорамата е поддържана на комфортна топла температура."
               }
             },
             {
@@ -514,7 +556,8 @@
                 "de": "Die Wege können bei Frost sehr glatt sein.",
                 "hu": "A gyalogutak fagy idején nagyon csúszósak lehetnek.",
                 "ro": "Aleile pot fi foarte alunecoase în caz de îngheț.",
-                "en": "Walking paths can be very slippery during frost."
+                "en": "Walking paths can be very slippery during frost.",
+                "bg": "Пътеките могат да бъдат много хлъзгави при слана."
               }
             },
             {
@@ -523,7 +566,8 @@
                 "de": "Die Höhlentemperatur ist im Winter wärmer als die Außenluft.",
                 "hu": "A barlang hőmérséklete télen melegebb a kinti levegőnél.",
                 "ro": "Temperatura din peșteră este mai ridicată decât cea de afară.",
-                "en": "The cave temperature is warmer than the outside air in winter."
+                "en": "The cave temperature is warmer than the outside air in winter.",
+                "bg": "Температурата в пещерата е по-топла от външния въздух през зимата."
               }
             }
           ],
@@ -555,6 +599,13 @@
               "Try 'Grejana Rakiya' (hot rakia) in local taverns to warm up.",
               "Public transit is often a warmer alternative to long winter walks.",
               "The Regional Museum is often closed on Mondays; check the schedule."
+            ],
+            "bg": [
+              "Залезът е около 16:45; планирайте външните посещения в парка за сутринта.",
+              "Носете ботуши с добро сцепление за хълмистите пътеки към Панорамата.",
+              "Опитайте „Грeяна ракия“ в местните механи, за да се стоплите.",
+              "Градският транспорт често е по-топла алтернатива на дългите зимни разходки.",
+              "Регионалният музей често е затворен в понеделник; проверете графика."
             ]
           }
         }
@@ -573,7 +624,8 @@
             "de": "Mausoleum St. Georg",
             "hu": "Szent György győztes mauzóleum-kápolna",
             "ro": "Mausoleul Sfântul Gheorghe Biruitorul",
-            "en": "St. George the Conqueror Mausoleum"
+            "en": "St. George the Conqueror Mausoleum",
+            "bg": "Мавзолей „Св. Георги Победоносец“"
           },
           "coords": [
             24.618,
@@ -589,7 +641,8 @@
             "de": "Schließen Sie Ihr Fahrrad sicher ab, bevor Sie das Mausoleum betreten.",
             "hu": "Zárja le biztonságosan a kerékpárját, mielőtt belép a mauzóleumba.",
             "ro": "Asigurați-vă bicicleta înainte de a intra în mausoleu.",
-            "en": "Securely lock your bike before entering the mausoleum."
+            "en": "Securely lock your bike before entering the mausoleum.",
+            "bg": "Заключете сигурно колелото си преди да влезете в мавзолея."
           }
         },
         {
@@ -597,7 +650,8 @@
             "de": "Historisches Museum",
             "hu": "Regionális Történeti Múzeum",
             "ro": "Muzeul Regional de Istorie",
-            "en": "Regional Historical Museum"
+            "en": "Regional Historical Museum",
+            "bg": "Регионален исторически музей"
           },
           "coords": [
             24.622,
@@ -613,7 +667,8 @@
             "de": "Fragen Sie nach einem sicheren Platz, um Ihr Fahrrad abzustellen.",
             "hu": "Kérdezzen egy biztonságos helyet a kerékpárja tárolására.",
             "ro": "Întrebați despre un loc sigur pentru a vă parca bicicleta.",
-            "en": "Ask for a safe place to park your bike."
+            "en": "Ask for a safe place to park your bike.",
+            "bg": "Попитайте за безопасно място за паркиране на колело."
           }
         },
         {
@@ -621,7 +676,8 @@
             "de": "Panorama Pleven",
             "hu": "Pleveni panoráma 1877",
             "ro": "Panorama din Plevna 1877",
-            "en": "Pleven Panorama 1877"
+            "en": "Pleven Panorama 1877",
+            "bg": "Плевенска панорама 1877"
           },
           "coords": [
             24.606,
@@ -637,7 +693,8 @@
             "de": "Die Auffahrt zum Panorama ist etwas steil, aber die Aussicht ist es wert.",
             "hu": "A panorámához vezető út kissé meredek, de a kilátás megéri.",
             "ro": "Urcușul spre Panoramă este puțin abrupt, dar priveliștea merită.",
-            "en": "The ride up to the Panorama is a bit steep, but the view is worth it."
+            "en": "The ride up to the Panorama is a bit steep, but the view is worth it.",
+            "bg": "Изкачването до Панорамата е малко стръмно, но гледката си заслужава."
           }
         },
         {
@@ -645,7 +702,8 @@
             "de": "Skobelev-Park",
             "hu": "Szkobelev park",
             "ro": "Parcul Skobelev",
-            "en": "Skobelev Park"
+            "en": "Skobelev Park",
+            "bg": "Парк „Скобелев“"
           },
           "coords": [
             24.605,
@@ -661,7 +719,8 @@
             "de": "Fahren Sie durch den Park und entdecken Sie die vielen Denkmäler.",
             "hu": "Kerékpározzon át a parkon, és fedezze fel a számos emlékművet.",
             "ro": "Plimbați-vă cu bicicleta prin parc și descoperiți numeroasele monumente.",
-            "en": "Cycle through the park and discover the many monuments."
+            "en": "Cycle through the park and discover the many monuments.",
+            "bg": "Карайте колело из парка и открийте множеството паметници."
           }
         },
         {
@@ -669,7 +728,8 @@
             "de": "Kaylaka-Park",
             "hu": "Kajlaka park",
             "ro": "Parcul Kaylaka",
-            "en": "Kaylaka Park"
+            "en": "Kaylaka Park",
+            "bg": "Парк „Кайлъка“"
           },
           "coords": [
             24.62,
@@ -685,7 +745,8 @@
             "de": "Ein riesiger Park mit vielen Wegen, ideal für eine ausgedehnte Radtour.",
             "hu": "Hatalmas park sok ösvénnyel, ideális egy hosszabb kerékpártúrához.",
             "ro": "Un parc imens cu multe poteci, ideal pentru o plimbare lungă cu bicicleta.",
-            "en": "A huge park with many paths, ideal for a long bike ride."
+            "en": "A huge park with many paths, ideal for a long bike ride.",
+            "bg": "Огромен парк с много пътеки, идеален за дълго каране с колело."
           }
         },
         {
@@ -693,7 +754,8 @@
             "de": "Weinmuseum",
             "hu": "Bormúzeum",
             "ro": "Muzeul Vinului",
-            "en": "Wine Museum"
+            "en": "Wine Museum",
+            "bg": "Винарски музей"
           },
           "coords": [
             24.615,
@@ -709,7 +771,8 @@
             "de": "Das Museum ist in einer Höhle. Denken Sie daran, dass Sie nach einer Weinprobe nicht mehr fahren sollten.",
             "hu": "A múzeum egy barlangban található. Ne feledje, borkóstoló után már ne üljön kerékpárra.",
             "ro": "Muzeul se află într-o peșteră. Nu uitați că nu ar trebui să mai mergeți cu bicicleta după o degustare de vin.",
-            "en": "The museum is in a cave. Remember you shouldn't ride after a wine tasting."
+            "en": "The museum is in a cave. Remember you shouldn't ride after a wine tasting.",
+            "bg": "Музеят е в пещера. Не шофирайте/не карайте след дегустация на вино."
           }
         }
       ],
@@ -717,7 +780,8 @@
         "de": "Schwingen Sie sich auf den Sattel und beginnen Sie Ihren Tag in Plewen am St.-Georgs-Mausoleum. Eine kurze Fahrt bringt Sie zum Historischen Museum. Am Vormittag erklimmen Sie den Hügel zum Plewen-Panorama, dem Höhepunkt der Stadtgeschichte. Nach der Mittagspause erkunden Sie den Skobelev-Park, bevor Sie eine längere Tour zum weitläufigen Kaylaka-Park unternehmen. Dort, tief in einer Höhle, beenden Sie Ihren aktiven Tag mit der Entdeckung bulgarischer Weine im Weinmuseum.",
         "hu": "Pattanjon nyeregbe, és kezdje pleveni napját a Szent György mauzóleumnál. Egy rövid tekerés után eljut a Történeti Múzeumba. Délelőtt megmássza a dombot a Pleveni panorámához, a város történelmének csúcspontjához. Ebédszünet után felfedezi a Szkobelev parkot, mielőtt egy hosszabb túrára indul a tágas Kajlaka parkba. Ott, egy barlang mélyén, aktív napját a bolgár borok felfedezésével zárja a Bormúzeumban.",
         "ro": "Urcați-vă în șa și începeți ziua în Plevna la Mausoleul Sf. Gheorghe. O scurtă plimbare cu bicicleta vă duce la Muzeul de Istorie. Dimineața, urcați dealul până la Panorama din Plevna, punctul culminant al istoriei orașului. După pauza de prânz, explorați Parcul Skobelev înainte de a face un tur mai lung în Parcul Kaylaka. Acolo, adânc într-o peșteră, vă încheiați ziua activă descoperind vinurile bulgărești la Muzeul Vinului.",
-        "en": "Get in the saddle and start your day in Pleven at the St. George Mausoleum. A short ride takes you to the Historical Museum. In the morning, you'll climb the hill to the Pleven Panorama, the pinnacle of the city's history. After a lunch break, explore Skobelev Park before taking a longer tour to the expansive Kaylaka Park. There, deep in a cave, you'll end your active day by discovering Bulgarian wines at the Wine Museum."
+        "en": "Get in the saddle and start your day in Pleven at the St. George Mausoleum. A short ride takes you to the Historical Museum. In the morning, you'll climb the hill to the Pleven Panorama, the pinnacle of the city's history. After a lunch break, explore Skobelev Park before taking a longer tour to the expansive Kaylaka Park. There, deep in a cave, you'll end your active day by discovering Bulgarian wines at the Wine Museum.",
+        "bg": "Седнете в седлото и започнете деня си в Плевен при Мавзолея „Св. Георги Победоносец“. Кратко каране ви отвежда до Регионалния исторически музей. Сутринта ще се изкачите на хълма до Плевенската панорама — връхът на градската история. След обяд разгледайте парк „Скобелев“, преди да направите по-дълго обиколка до обширния парк „Кайлъка“. Там, дълбоко в пещера, ще завършите активния си ден, откривайки българските вина във Винарския музей."
       },
       "gastro_picks": {
         "de": [
@@ -861,6 +925,12 @@
           "A helmet is strongly recommended.",
           "Bring a lock to secure your bike.",
           "Pleven has some hills, be prepared for inclines."
+        ],
+        "bg": [
+          "Проверете колелото си преди тръгване.",
+          "Каската е силно препоръчителна.",
+          "Вземете катинар за заключване на колелото.",
+          "В Плевен има някои хълмове, подгответе се за наклони."
         ]
       },
       "variants": {
@@ -869,7 +939,8 @@
             "de": "Eine nasse Fahrt beginnt am Mausoleum. Die glatten Pflastersteine im Zentrum erfordern volle Konzentration. Suchen Sie Schutz im Regionalmuseum und lassen Sie die Räder sicher im Eingangsbereich.\n\nMittags radeln Sie vorsichtig den Hügel hinauf zum Panorama. Der Weg ist steil und bei Regen rutschig. Die lange Pause im Inneren ist perfekt, um die Kleidung zu trocknen.\n\nDer Nachmittag führt in den Kaylaka-Park. Die asphaltierte Straße ist besser befahrbar als die Waldwege. Das Weinmuseum in der Höhle bietet ein trockenes Ziel nach der Fahrt.\n\nAbends radeln Sie zurück ins Zentrum. Achten Sie auf die spiegelnden Markierungen auf dem Asphalt und beenden Sie die Tour an einem gemütlichen Ort.",
             "hu": "Vizes tekerés indul a Mauzóleumnál. A belvárosi kövezet esőben csúszós, legyen óvatos a kanyarokban. Pihenjen meg a Történeti Múzeumban, ahol a kerékpárokat is biztonságban tudhatja.\n\nDélben óvatosan hajtson fel a Panorámához vezető emelkedőn. A meredek út esőben komolyabb kihívás, de a fenti hosszú tartózkodás alatt legalább megszáradhat.\n\nDélután a Kaylaka park felé vegye az irányt. Maradjon az aszfaltozott úton a sár elkerülése végett. A Bormúzeum barlangja kiváló végállomás, ahol garantáltan nem esik.\n\nEste tekerjen vissza a városba. Figyeljen az útburkolati jelekre, mert vizesen rendkívül csúszósak lehetnek.",
             "ro": "O cursă umedă începe la Mausoleu. Pavajul din centru necesită atenție sporită pe ploaie. Adăpostiți-vă la Muzeul Regional și lăsați bicicletele într-un loc sigur.\n\nLa prânz, pedalați cu prudență pe deal spre Panoramă. Drumul în pantă este solicitant și alunecos, dar pauza lungă din interior vă va permite să vă uscați echipamentul.\n\nDupă-amiaza, îndreptați-vă spre parcul Kaylaka. Drumul asfaltat este preferabil potecilor care devin noroioase. Muzeul Vinului din peșteră este destinația finală perfectă.\n\nSeara, reveniți în centru. Fiți atenți la marcajele rutiere reflectorizante care pot deveni capcane alunecoase pe ploaie.",
-            "en": "A wet ride starts at the Mausoleum. The central pavement requires full focus in the rain. Take a long break at the Regional Museum to stay dry.\n\nAt midday, cycle carefully up the hill to the Panorama. The climb is steep and can be slick; use the indoor visit to dry off your gear.\n\nIn the afternoon, head towards Kaylaka Park. Stick to the paved main road to avoid the muddy trails. The Wine Museum cave is a fantastic dry destination after your ride.\n\nRide back to the center in the evening. Watch out for painted road markings which become extremely slippery when wet."
+            "en": "A wet ride starts at the Mausoleum. The central pavement requires full focus in the rain. Take a long break at the Regional Museum to stay dry.\n\nAt midday, cycle carefully up the hill to the Panorama. The climb is steep and can be slick; use the indoor visit to dry off your gear.\n\nIn the afternoon, head towards Kaylaka Park. Stick to the paved main road to avoid the muddy trails. The Wine Museum cave is a fantastic dry destination after your ride.\n\nRide back to the center in the evening. Watch out for painted road markings which become extremely slippery when wet.",
+            "bg": "Мокрото каране започва при Мавзолея. Централната настилка изисква пълно внимание при дъжд. Направете дълга пауза в Регионалния музей, за да останете сухи.\n\nПо обяд карайте внимателно нагоре към Панорамата. Изкачването е стръмно и може да бъде хлъзгаво; използвайте вътрешното посещение, за да подсушите екипировката си.\n\nСледобед се отправете към парк „Кайлъка“. Придържайте се към асфалтирания основен път, за да избегнете калните пътеки. Пещерата на Винарския музей е фантастична суха дестинация след карането.\n\nВърнете се към центъра вечерта. Внимавайте за боядисаните пътни маркировки, които стават изключително хлъзгави при намокряне."
           },
           "stops": [
             {
@@ -878,7 +949,8 @@
                 "de": "Vermeiden Sie das Radfahren auf den weißen Marmorplatten bei Regen.",
                 "hu": "Esőben kerülje a kerékpározást a fehér márványlapokon.",
                 "ro": "Evitați pedalatul pe plăcile de marmură albă pe ploaie.",
-                "en": "Avoid cycling directly on the white marble tiles during rain."
+                "en": "Avoid cycling directly on the white marble tiles during rain.",
+                "bg": "Избягвайте да карате директно по белите мраморни плочи при дъжд."
               }
             },
             {
@@ -887,7 +959,8 @@
                 "de": "Fahrradständer sind im Hof vorhanden.",
                 "hu": "A belső udvarban találhatók kerékpártárolók.",
                 "ro": "Există rastele pentru biciclete în curte.",
-                "en": "Bike racks are available in the courtyard area."
+                "en": "Bike racks are available in the courtyard area.",
+                "bg": "Стойки за колела има в дворното пространство."
               }
             },
             {
@@ -896,7 +969,8 @@
                 "de": "Harte Fahrt bergauf; achten Sie auf Aquaplaning beim Abstieg.",
                 "hu": "Nehéz emelkedő; lefelé menet figyeljen a vízenfutásra.",
                 "ro": "Urcare grea; atenție la acvaplanare la coborâre.",
-                "en": "Tough climb; watch out for hydroplaning on the descent."
+                "en": "Tough climb; watch out for hydroplaning on the descent.",
+                "bg": "Тежко изкачване; внимавайте за аквапланинг при спускане."
               }
             },
             {
@@ -905,7 +979,8 @@
                 "de": "Die Kurven können durch nasses Laub gefährlich sein.",
                 "hu": "A kanyarok a vizes levelek miatt veszélyesek lehetnek.",
                 "ro": "Curbele pot fi periculoase din cauza frunzelor ude.",
-                "en": "The turns can be dangerous due to wet leaves."
+                "en": "The turns can be dangerous due to wet leaves.",
+                "bg": "Завоите могат да бъдат опасни поради мокри листа."
               }
             },
             {
@@ -914,7 +989,8 @@
                 "de": "Der Asphalt ist meist gut, aber Pfützen sammeln sich am Rand.",
                 "hu": "Az aszfalt jó, de a széleken megállhat a víz.",
                 "ro": "Asfaltul este bun, dar bălțile se adună pe margini.",
-                "en": "The asphalt is good, but puddles often collect on the edges."
+                "en": "The asphalt is good, but puddles often collect on the edges.",
+                "bg": "Асфалтът е добър, но локвите често се събират по ръбовете."
               }
             },
             {
@@ -923,7 +999,8 @@
                 "de": "Stellen Sie das Rad unter den Felsvorsprung am Eingang.",
                 "hu": "Támassza le a biciklit a bejárat melletti sziklaeresz alá.",
                 "ro": "Lăsați bicicleta sub streașina de stâncă de la intrare.",
-                "en": "Park your bike under the rock overhang near the entrance."
+                "en": "Park your bike under the rock overhang near the entrance.",
+                "bg": "Паркирайте колелото си под скалния навес близо до входа."
               }
             }
           ],
@@ -955,6 +1032,13 @@
               "The pedestrian zone is less crowded in the rain but much more slippery.",
               "Avoid the unpaved trails in Kaylaka Park during muddy conditions.",
               "Use bright lights, as visibility in Pleven is often poor during rain."
+            ],
+            "bg": [
+              "Носете пълен водоустойчив дъждобран и водоустойчиви панталони.",
+              "Проверете накладките на спирачките; спускането от Панорамата е стръмно и хлъзгаво.",
+              "Пешеходната зона е по-рядко натоварена при дъжд, но значително по-хлъзгава.",
+              "Избягвайте непавираните пътеки в парк „Кайлъка“ при кални условия.",
+              "Използвайте ярки светлини, тъй като видимостта в Плевен често е лоша при дъжд."
             ]
           }
         },
@@ -963,7 +1047,8 @@
             "de": "Ein frostiges Radabenteuer beginnt am Mausoleum. Die Luft brennt in den Lungen, aber die Straßen sind meist frei von Eis. Das Regionalmuseum bietet die erste Aufwärmpause.\n\nMittags erfordert die Auffahrt zum Panorama Ausdauer gegen den kalten Wind. Oben angekommen, belohnt Sie die Panorama-Halle mit wohliger Wärme, bevor es wieder in die Kälte geht.\n\nDer Nachmittag im Kaylaka-Park ist ruhig und friedlich. Der Frost auf den Felsen sieht magisch aus. Das Weinmuseum in der Höhle ist im Winter ein thermisches Highlight.\n\nDie Tour endet kurz nach Sonnenuntergang. Mit guter Beleuchtung radeln Sie zurück ins Stadtzentrum und wärmen sich in einer der Tavernen mit kräftigem bulgarischen Eintopf auf.",
             "hu": "Fagyos kerékpáros kaland indul a Mauzóleumnál. A hideg levegő csípős, de az utak többnyire jégmentesek. A Történeti Múzeum kiváló első állomás az átmelegedéshez.\n\nDélben a Panoráma felé tekerve meg kell küzdenie a hideg széllel. A csarnok melege igazi megváltás lesz a kaptató után, mielőtt újra a nyeregbe szállna.\n\nDélután a Kaylaka park csendes és békés; a sziklákon megülő zúzmara varázslatos látványt nyújt. A Bormúzeum barlangja télen is kellemes klímát biztosít.\n\nA túra nem sokkal naplemente után ér véget. Jó világítással tekerjen vissza a belvárosba, és keressen egy taverna-t, ahol forró bolgár egytálétellel melegedhet fel.",
             "ro": "O aventură pe bicicletă în ger începe la Mausoleu. Aerul rece este tăios, dar străzile sunt de obicei curățate. Muzeul Regional oferă prima ocazie de a vă încălzi.\n\nLa prânz, urcarea spre Panoramă necesită efort împotriva vântului rece. Odată ajunși, sala Panoramei vă va primi cu căldură înainte de a ieși din nou în frig.\n\nDupă-amiaza în parcul Kaylaka este liniștită; chiciura de pe stânci creează un peisaj magic. Muzeul Vinului din peșteră este un refugiu termic binevenit iarna.\n\nTurul se încheie imediat după apus. Cu lumini bune, pedalați înapoi în centru și încălziți-vă într-o tavernă cu o tocană bulgărească consistentă.",
-            "en": "A frosty cycling adventure starts at the Mausoleum. The air is biting, but the main roads are usually clear of ice. The Regional Museum provides your first warm-up stop.\n\nAt midday, the climb to the Panorama requires stamina against the cold wind. Inside, the heated hall is a blessing before you brave the outdoors again.\n\nAfternoon in Kaylaka Park is quiet and peaceful; the frost on the rocks looks magical. The Wine Museum cave is a thermal highlight in winter.\n\nFinish your ride shortly after sunset. With proper lighting, cycle back to the city center and warm up in a tavern with a hearty Bulgarian stew."
+            "en": "A frosty cycling adventure starts at the Mausoleum. The air is biting, but the main roads are usually clear of ice. The Regional Museum provides your first warm-up stop.\n\nAt midday, the climb to the Panorama requires stamina against the cold wind. Inside, the heated hall is a blessing before you brave the outdoors again.\n\nAfternoon in Kaylaka Park is quiet and peaceful; the frost on the rocks looks magical. The Wine Museum cave is a thermal highlight in winter.\n\nFinish your ride shortly after sunset. With proper lighting, cycle back to the city center and warm up in a tavern with a hearty Bulgarian stew.",
+            "bg": "Мразовито колоездачно приключение започва при Мавзолея. Въздухът е пронизващ, но основните пътища обикновено са чисти от лед. Регионалният музей осигурява първата ви топла спирка.\n\nПо обяд изкачването до Панорамата изисква постоянство срещу студения вятър. Вътре отопляемата зала е спасение, преди да се върнете навън.\n\nСледобедът в парк „Кайлъка“ е тих и спокоен; сланата по скалите изглежда магична. Пещерата на Винарския музей е топъл акцент през зимата.\n\nЗавършете карането кратко след залез. С подходящо осветление се върнете към центъра и се стоплете в механа с гъста българска яхния."
           },
           "stops": [
             {
@@ -972,7 +1057,8 @@
                 "de": "Achten Sie auf schwarzes Eis auf den Schattenseiten des Platzes.",
                 "hu": "Figyeljen a fekete jégre a tér árnyékosabb részein.",
                 "ro": "Atenție la gheața neagră în zonele umbrite ale pieței.",
-                "en": "Watch out for black ice on the shaded parts of the square."
+                "en": "Watch out for black ice on the shaded parts of the square.",
+                "bg": "Внимавайте за черен лед по засенчените части на площада."
               }
             },
             {
@@ -981,7 +1067,8 @@
                 "de": "Lassen Sie das Rad im Sichtbereich der Wachen im Hof.",
                 "hu": "Hagyja a biciklit az udvari őrök látóterében.",
                 "ro": "Lăsați bicicleta la vederea paznicilor din curte.",
-                "en": "Leave your bike within sight of the guards in the courtyard."
+                "en": "Leave your bike within sight of the guards in the courtyard.",
+                "bg": "Оставете колелото си в полезрението на охранителите във двора."
               }
             },
             {
@@ -990,7 +1077,8 @@
                 "de": "Kalte Abfahrt; ziehen Sie sich vor dem Verlassen warm an.",
                 "hu": "Hideg lejtő; öltözzön fel melegen, mielőtt elindulna lefelé.",
                 "ro": "Coborâre rece; îmbrăcați-vă bine înainte de a pleca de sus.",
-                "en": "Cold descent; bundle up before leaving the heated building."
+                "en": "Cold descent; bundle up before leaving the heated building.",
+                "bg": "Студено спускане; обличайте се топло преди да напуснете отопляемата сграда."
               }
             },
             {
@@ -999,7 +1087,8 @@
                 "de": "Reif kann die Kurven rutschig machen.",
                 "hu": "A zúzmara csúszóssá teheti a kanyarokat.",
                 "ro": "Chiciura poate face curbele alunecoase.",
-                "en": "Frost can make the turns quite slippery."
+                "en": "Frost can make the turns quite slippery.",
+                "bg": "Слоната може да направи завоите доста хлъзгави."
               }
             },
             {
@@ -1008,7 +1097,8 @@
                 "de": "Kürzere Tage – stellen Sie sicher, dass Ihre Lichter funktionieren.",
                 "hu": "Rövidebb nappalok – győződjön meg róla, hogy a lámpák működnek.",
                 "ro": "Zile scurte – asigurați-vă că luminile funcționează.",
-                "en": "Shorter days – ensure your lights are fully operational."
+                "en": "Shorter days – ensure your lights are fully operational.",
+                "bg": "Дните са по-къси – уверете се, че светлините ви работят напълно."
               }
             },
             {
@@ -1017,7 +1107,8 @@
                 "de": "Genießen Sie den Temperaturunterschied in der Höhle.",
                 "hu": "Élvezze a barlang és a kinti levegő közötti hőmérséklet-különbséget.",
                 "ro": "Bucurați-vă de diferența de temperatură din peșteră.",
-                "en": "Enjoy the stable and warmer temperature inside the cave."
+                "en": "Enjoy the stable and warmer temperature inside the cave.",
+                "bg": "Насладете се на стабилната и по-топла температура в пещерата."
               }
             }
           ],
@@ -1049,6 +1140,13 @@
               "The sun sets around 5 PM; make sure your reflectors are visible.",
               "Avoid shaded forest paths that may remain frozen longer.",
               "Stay hydrated with warm tea; dry winter air can lead to dehydration."
+            ],
+            "bg": [
+              "Носете слоеве дрехи и ветроупорни ръкавици.",
+              "Проверете налягането в гумите; студеният въздух често го намалява.",
+              "Слънцето залязва около 17:00; уверете се, че вашите отражатели са видими.",
+              "Избягвайте засенчените горски пътеки, които могат да останат заледени по-дълго.",
+              "Поддържайте хидратация с топъл чай; сухият зимен въздух може да доведе до обезводняване."
             ]
           }
         }
@@ -1067,7 +1165,8 @@
             "de": "Mausoleum St. Georg",
             "hu": "Szent György győztes mauzóleum-kápolna",
             "ro": "Mausoleul Sfântul Gheorghe Biruitorul",
-            "en": "St. George the Conqueror Mausoleum"
+            "en": "St. George the Conqueror Mausoleum",
+            "bg": "Мавзолей „Св. Георги Победоносец“"
           },
           "coords": [
             24.618,
@@ -1083,7 +1182,8 @@
             "de": "Parken Sie in der Nähe des Zentrums und beginnen Sie hier Ihren Rundgang.",
             "hu": "Parkoljon a központ közelében, és innen kezdje a sétát.",
             "ro": "Parcați în apropierea centrului și începeți turul de aici.",
-            "en": "Park near the center and start your walking tour here."
+            "en": "Park near the center and start your walking tour here.",
+            "bg": "Паркирайте близо до центъра и започнете оттук пешеходната си обиколка."
           }
         },
         {
@@ -1091,7 +1191,8 @@
             "de": "Wasserkaskade",
             "hu": "Vízilépcső",
             "ro": "Cascada de apă",
-            "en": "Water Cascade"
+            "en": "Water Cascade",
+            "bg": "Водна каскада"
           },
           "coords": [
             24.619,
@@ -1107,7 +1208,8 @@
             "de": "Ein kurzer Spaziergang vom Mausoleum aus.",
             "hu": "Rövid séta a mauzóleumtól.",
             "ro": "O scurtă plimbare de la mausoleu.",
-            "en": "A short walk from the mausoleum."
+            "en": "A short walk from the mausoleum.",
+            "bg": "Кратка разходка от мавзолея."
           }
         },
         {
@@ -1115,7 +1217,8 @@
             "de": "Historisches Museum",
             "hu": "Regionális Történeti Múzeum",
             "ro": "Muzeul Regional de Istorie",
-            "en": "Regional Historical Museum"
+            "en": "Regional Historical Museum",
+            "bg": "Регионален исторически музей"
           },
           "coords": [
             24.622,
@@ -1131,7 +1234,8 @@
             "de": "Das Museum befindet sich im selben Fußgängercluster wie das Mausoleum.",
             "hu": "A múzeum ugyanabban a sétálóklaszterben található, mint a mauzóleum.",
             "ro": "Muzeul este situat în același cluster pietonal ca și mausoleul.",
-            "en": "The museum is in the same walking cluster as the mausoleum."
+            "en": "The museum is in the same walking cluster as the mausoleum.",
+            "bg": "Музеят е в същия пешеходен клъстер като мавзолея."
           }
         },
         {
@@ -1139,7 +1243,8 @@
             "de": "Panorama Pleven",
             "hu": "Pleveni panoráma 1877",
             "ro": "Panorama din Plevna 1877",
-            "en": "Pleven Panorama 1877"
+            "en": "Pleven Panorama 1877",
+            "bg": "Плевенска панорама 1877"
           },
           "coords": [
             24.606,
@@ -1155,7 +1260,8 @@
             "de": "Fahren Sie zum Panorama und parken Sie dort. Es ist der Beginn des zweiten Clusters.",
             "hu": "Vezessen a panorámához és parkoljon le. Ez a második klaszter kezdete.",
             "ro": "Conduceți la Panoramă și parcați acolo. Este începutul celui de-al doilea cluster.",
-            "en": "Drive to the Panorama and park there. It's the start of the second cluster."
+            "en": "Drive to the Panorama and park there. It's the start of the second cluster.",
+            "bg": "Отидете с кола до Панорамата и паркирайте там. Това е началото на втория клъстер."
           }
         },
         {
@@ -1163,7 +1269,8 @@
             "de": "Skobelev-Park",
             "hu": "Szkobelev park",
             "ro": "Parcul Skobelev",
-            "en": "Skobelev Park"
+            "en": "Skobelev Park",
+            "bg": "Парк „Скобелев“"
           },
           "coords": [
             24.605,
@@ -1179,7 +1286,8 @@
             "de": "Direkt neben dem Panorama gelegen, ideal für einen Verdauungsspaziergang.",
             "hu": "Közvetlenül a panoráma mellett található, ideális egy emésztő sétához.",
             "ro": "Situat chiar lângă Panoramă, ideal pentru o plimbare digestivă.",
-            "en": "Located right next to the Panorama, ideal for a digestive walk."
+            "en": "Located right next to the Panorama, ideal for a digestive walk.",
+            "bg": "Разположен непосредствено до Панорамата, идеален за следобедна разходка."
           }
         },
         {
@@ -1187,7 +1295,8 @@
             "de": "Kaylaka-Park",
             "hu": "Kajlaka park",
             "ro": "Parcul Kaylaka",
-            "en": "Kaylaka Park"
+            "en": "Kaylaka Park",
+            "bg": "Парк „Кайлъка“"
           },
           "coords": [
             24.62,
@@ -1203,7 +1312,8 @@
             "de": "Fahren Sie zum Kaylaka-Park, einem großen Erholungsgebiet südlich der Stadt.",
             "hu": "Vezessen a Kajlaka parkba, egy nagy üdülőterületre a várostól délre.",
             "ro": "Conduceți spre Parcul Kaylaka, o zonă mare de agrement la sud de oraș.",
-            "en": "Drive to Kaylaka Park, a large recreational area south of the city."
+            "en": "Drive to Kaylaka Park, a large recreational area south of the city.",
+            "bg": "Отидете с кола до парк „Кайлъка“, голяма рекреационна зона южно от града."
           }
         },
         {
@@ -1211,7 +1321,8 @@
             "de": "Weinmuseum",
             "hu": "Bormúzeum",
             "ro": "Muzeul Vinului",
-            "en": "Wine Museum"
+            "en": "Wine Museum",
+            "bg": "Винарски музей"
           },
           "coords": [
             24.615,
@@ -1227,7 +1338,8 @@
             "de": "Das Museum befindet sich im Kaylaka-Park, ein kurzer Spaziergang vom Parkplatz.",
             "hu": "A múzeum a Kajlaka parkban található, rövid sétára a parkolótól.",
             "ro": "Muzeul este situat în Parcul Kaylaka, la o scurtă plimbare de parcare.",
-            "en": "The museum is located within Kaylaka Park, a short walk from the parking area."
+            "en": "The museum is located within Kaylaka Park, a short walk from the parking area.",
+            "bg": "Музеят се намира в парк „Кайлъка“, на кратка разходка от паркинга."
           }
         }
       ],
@@ -1235,7 +1347,8 @@
         "de": "Ihr Autotag in Plewen beginnt mit dem Parken im Stadtzentrum (Cluster 1), von wo aus Sie das Mausoleum, die Kaskaden und das Historische Museum zu Fuß erkunden. Am Vormittag fahren Sie zum zweiten Cluster auf dem Panorama-Hügel, wo das epische Gemälde und der Skobelev-Park auf Sie warten. Nach dem Mittagessen führt Sie eine letzte Fahrt in den Süden zum riesigen Kaylaka-Park (Cluster 3). Dort schlendern Sie zwischen Seen und Felsen zum einzigartigen Weinmuseum, um den Tag entspannt ausklingen zu lassen.",
         "hu": "Pleveni autós napja a belvárosban (1. klaszter) való parkolással kezdődik, ahonnan gyalogosan fedezi fel a mauzóleumot, a vízlépcsőt és a Történeti Múzeumot. Délelőtt a második klaszterhez, a Panoráma-dombhoz hajt, ahol az epikus festmény és a Szkobelev park várja. Ebéd után egy utolsó út délre, a hatalmas Kajlaka parkba (3. klaszter) vezet. Ott tavak és sziklák között sétál el a különleges Bormúzeumig, hogy lazán zárja a napot.",
         "ro": "Ziua dumneavoastră cu mașina în Plevna începe cu parcarea în centrul orașului (Cluster 1), de unde explorați pe jos Mausoleul, Cascadele și Muzeul de Istorie. Dimineața, conduceți spre al doilea cluster, pe dealul Panorama, unde vă așteaptă pictura epică și Parcul Skobelev. După prânz, un ultim drum vă duce spre sud, la imensul Parc Kaylaka (Cluster 3). Acolo, vă plimbați printre lacuri și stânci până la unicul Muzeu al Vinului pentru a încheia ziua într-un mod relaxat.",
-        "en": "Your car day in Pleven starts by parking in the city center (Cluster 1), from where you'll explore the Mausoleum, the Cascades, and the Historical Museum on foot. In the morning, you drive to the second cluster on Panorama Hill, where the epic painting and Skobelev Park await. After lunch, a final drive takes you south to the vast Kaylaka Park (Cluster 3). There, you'll stroll among lakes and rocks to the unique Wine Museum to end the day in a relaxed fashion."
+        "en": "Your car day in Pleven starts by parking in the city center (Cluster 1), from where you'll explore the Mausoleum, the Cascades, and the Historical Museum on foot. In the morning, you drive to the second cluster on Panorama Hill, where the epic painting and Skobelev Park await. After lunch, a final drive takes you south to the vast Kaylaka Park (Cluster 3). There, you'll stroll among lakes and rocks to the unique Wine Museum to end the day in a relaxed fashion.",
+        "bg": "Вашият автомобилен ден в Плевен започва с паркиране в центъра (Клъстер 1), от където ще разгледате Мавзолея, Каскадите и Регионалния исторически музей пеша. Сутринта ще шофирате до втория клъстер на Панорамния хълм, където ви очакват епичното платно и парк „Скобелев“. След обяд последно пътуване ви отвежда на юг до обширния парк „Кайлъка“ (Клъстер 3). Там ще се разходите сред езера и скали до уникалния Винарски музей, за да завършите деня спокойно."
       },
       "gastro_picks": {
         "de": [
@@ -1379,6 +1492,12 @@
           "Do not leave valuables visible in the car.",
           "The roads in Kaylaka Park can be narrow, drive carefully.",
           "A GPS is highly recommended for navigating between clusters."
+        ],
+        "bg": [
+          "Паркирането в центъра на града може да бъде трудно, търсете обозначени паркоместа.",
+          "Не оставяйте ценности видими в колата.",
+          "Пътят в парк Кайлъка може да бъде тесен, шофирайте внимателно.",
+          "GPS е силно препоръчителен за ориентиране между обектите."
         ]
       },
       "variants": {
@@ -1387,7 +1506,8 @@
             "de": "Ein entspannter Regentag beginnt mit der Fahrt zum Mausoleum. Parkplätze im Zentrum sind vorhanden, aber bei Regen begehrt. Das Regionalmuseum ist nur eine kurze Fahrt entfernt.\n\nMittags steuern Sie das Panorama an. Der große Parkplatz direkt davor macht den Besuch bei Regen sehr komfortabel. Genießen Sie die Ausstellung, während draußen der Wolkenbruch niedergeht.\n\nNachmittags führt die Route durch den Skobelev-Park zum Kaylaka-Park. Das Weinmuseum in der Höhle ist perfekt mit dem Auto erreichbar, und Sie bleiben bis zum Eingang trocken.\n\nAbends parken Sie im Zentrum für das Abendessen. Die beleuchteten nassen Straßen von Plewen bieten eine schöne Kulisse für die Rückfahrt zum Hotel.",
             "hu": "Kényelmes esős nap indul a Mauzóleumnál. A belvárosi parkolás ilyenkor népszerű, próbáljon korán érkezni. A Történeti Múzeum csak egy rövid autóút.\n\nDélben irány a Panoráma. A közvetlenül előtte található nagy parkoló esőben is kényelmessé teszi a látogatást. Élvezze a kiállítást, amíg odakint szakad az eső.\n\nDélután az út a Skobelev parkon át a Kaylaka parkba vezet. A Bormúzeum autóval is jól megközelíthető, így szinte szárazon juthat el a barlang bejáratáig.\n\nEste parkoljon le a belvárosban egy vacsorára. A kivilágított, vizes pleveni utcák látványa szép keretet ad a nap végének.",
             "ro": "O zi relaxată pe ploaie începe cu drumul spre Mausoleu. Parcarea în centru este solicitată când plouă, deci veniți devreme. Muzeul Regional este la doar câteva minute distanță.\n\nLa prânz, mergeți spre Panoramă. Parcarea mare chiar în fața intrării face vizita foarte confortabilă pe ploaie. Bucurați-vă de expoziție în timp ce afară plouă torențial.\n\nDupă-amiaza, traseul trece prin parcul Skobelev spre parcul Kaylaka. Muzeul Vinului este accesibil cu mașina, permițându-vă să rămâneți uscați până la intrarea în peșteră.\n\nSeara, parcați în centru pentru cină. Străzile iluminate și ude ale Plevnei oferă un decor plăcut pentru drumul de întoarcere.",
-            "en": "A relaxed rainy day starts with a drive to the Mausoleum. Central parking is available but popular during wet weather. The Regional Museum is just a short drive away.\n\nAt midday, head to the Panorama. The large parking lot right in front makes it very convenient during heavy rain. Enjoy the indoor exhibit while the storm rages outside.\n\nIn the afternoon, drive through Skobelev Park towards Kaylaka. The Wine Museum is easily accessible by car, allowing you to stay dry until you reach the cave entrance.\n\nFinish your evening by parking in the center for dinner. The illuminated wet streets of Pleven provide a beautiful backdrop for your drive back."
+            "en": "A relaxed rainy day starts with a drive to the Mausoleum. Central parking is available but popular during wet weather. The Regional Museum is just a short drive away.\n\nAt midday, head to the Panorama. The large parking lot right in front makes it very convenient during heavy rain. Enjoy the indoor exhibit while the storm rages outside.\n\nIn the afternoon, drive through Skobelev Park towards Kaylaka. The Wine Museum is easily accessible by car, allowing you to stay dry until you reach the cave entrance.\n\nFinish your evening by parking in the center for dinner. The illuminated wet streets of Pleven provide a beautiful backdrop for your drive back.",
+            "bg": "Релаксиращ дъждовен ден започва с каране до Мавзолея. Има централен паркинг, но е популярен при мокро време. Регионалният музей е само на кратко каране.\n\nВ средата на деня отидете до Панорамата. Големият паркинг точно пред нея прави посещението удобно при силен дъжд. Насладете се на вътрешната експозиция, докато бурята бушува навън.\n\nСледобед шофирайте през парк Скобелев към Кайлъка. Винен музей е лесно достъпен с кола, което ви позволява да останете сухи до самия вход на пещерата.\n\nЗавършете вечерта, като паркирате в центъра за вечеря. Осветените мокри улички на Плевен предлагат красива гледка по пътя обратно."
           },
           "stops": [
             {
@@ -1396,7 +1516,8 @@
                 "de": "Parken Sie auf den markierten Plätzen in der Nähe der Danail-Popov-Allee.",
                 "hu": "Parkoljon a kijelölt helyeken a Danail Popov sugárút közelében.",
                 "ro": "Parcați în locurile marcate din apropierea bulevardului Danail Popov.",
-                "en": "Park in designated spots near Danail Popov Boulevard."
+                "en": "Park in designated spots near Danail Popov Boulevard.",
+                "bg": "Паркирайте на обозначените места до бул. Данаил Попов."
               }
             },
             {
@@ -1405,7 +1526,8 @@
                 "de": "Parken Sie kurz am Rand für ein schnelles Foto bei Regen.",
                 "hu": "Parkoljon le rövid időre a szélén egy gyors fotó erejéig.",
                 "ro": "Parcați scurt pe margine pentru o fotografie rapidă pe ploaie.",
-                "en": "Park briefly nearby for a quick photo during a break in rain."
+                "en": "Park briefly nearby for a quick photo during a break in rain.",
+                "bg": "Паркирайте за кратко наблизо за бърза снимка при пауза в дъжда."
               }
             },
             {
@@ -1414,7 +1536,8 @@
                 "de": "Ausreichend Parkplätze an der Rückseite des Museums.",
                 "hu": "Elegendő parkolóhely található a múzeum hátsó részénél.",
                 "ro": "Locuri de parcare suficiente în spatele muzeului.",
-                "en": "Ample parking available at the rear of the museum building."
+                "en": "Ample parking available at the rear of the museum building.",
+                "bg": "Има достатъчно паркоместа отзад на сградата на музея."
               }
             },
             {
@@ -1423,7 +1546,8 @@
                 "de": "Großer, kostenloser Parkplatz direkt am Eingang.",
                 "hu": "Nagy, ingyenes parkoló közvetlenül a bejáratnál.",
                 "ro": "Parcare mare, gratuită, chiar la intrare.",
-                "en": "Large free parking lot right at the main entrance."
+                "en": "Large free parking lot right at the main entrance.",
+                "bg": "Голям безплатен паркинг непосредствено при главния вход."
               }
             },
             {
@@ -1432,7 +1556,8 @@
                 "de": "Bleiben Sie auf den befestigten Parkflächen bei Regen.",
                 "hu": "Esőben maradjon a szilárd burkolatú parkolóhelyeken.",
                 "ro": "Rămâneți în zonele de parcare pavate pe timp de ploaie.",
-                "en": "Stick to paved parking areas during rainy conditions."
+                "en": "Stick to paved parking areas during rainy conditions.",
+                "bg": "Придържайте се към асфалтирани паркоместа при дъждовни условия."
               }
             },
             {
@@ -1441,7 +1566,8 @@
                 "de": "Die Zufahrtsstraße ist eng; achten Sie auf entgegenkommende Autos.",
                 "hu": "A bekötőút szűk; figyeljen a szembejövő autókra.",
                 "ro": "Drumul de acces este îngust; atenție la traficul din sens opus.",
-                "en": "Access road is narrow; watch for oncoming traffic."
+                "en": "Access road is narrow; watch for oncoming traffic.",
+                "bg": "Пътят за достъп е тесен; внимавайте за насрещно движение."
               }
             },
             {
@@ -1450,7 +1576,8 @@
                 "de": "Parken Sie am Hotel Kaylaka und gehen Sie 2 Minuten zu Fuß.",
                 "hu": "Parkoljon a Kaylaka Hotelnél, majd sétáljon 2 percet.",
                 "ro": "Parcați la Hotel Kaylaka și mergeți 2 minute pe jos.",
-                "en": "Park near Hotel Kaylaka and walk 2 minutes to the cave."
+                "en": "Park near Hotel Kaylaka and walk 2 minutes to the cave.",
+                "bg": "Паркирайте до Хотел Кайлъка и пеша 2 минути до пещерата."
               }
             }
           ],
@@ -1482,6 +1609,13 @@
               "Visibility can be very low on the Panorama hill during fog.",
               "Keep your wipers in good condition; humidity is high in Pleven.",
               "Gas stations in Pleven often have decent cafes for quick breaks."
+            ],
+            "bg": [
+              "Използвайте приложение за паркиране за 'Зелената зона' в центъра.",
+              "Избягвайте паркиране под стари дървета при силен вятър и дъжд.",
+              "Видимостта на хълма Панорама може да бъде много слаба при мъгла.",
+              "Поддържайте чистачките в добро състояние; влажността в Плевен е висока.",
+              "Бензиностанциите в Плевен често имат прилични кафенета за бързи почивки."
             ]
           }
         },
@@ -1490,7 +1624,8 @@
             "de": "Ein kühler Wintermorgen beginnt mit der Fahrt zum frostigen Mausoleum. Dank der Sitzheizung ist die Stadtbesichtigung angenehm. Das Regionalmuseum ist gut beheizt und bietet Kultur im Warmen.\n\nMittags steigen Sie zum Panorama auf. Die Fahrt ist kurz, aber die Aussicht auf die verschneiten Dächer von Plewen vom warmen Auto aus ist herrlich. Im Inneren des Denkmals ist es gemütlich.\n\nDer Nachmittag im Kaylaka-Park zeigt die winterliche Natur von ihrer stillen Seite. Die Fahrt zum Weinmuseum ist unkompliziert. Die Höhle bietet Schutz vor dem kalten Winterwind.\n\nAbends fahren Sie zurück ins Zentrum. Die winterliche Beleuchtung der Stadt ist vom Auto aus wunderbar zu sehen, bevor Sie den Abend in einer warmen Mehana bei Kerzenschein ausklingen lassen.",
             "hu": "Hűvös téli reggel indul a fagyos Mauzóleumnál. Az ülésfűtésnek köszönhetően a városnézés kényelmes marad. A Történeti Múzeum jól fűtött, ideális a kulturális programhoz.\n\nDélben irány a Panoráma. Az út rövid, az ablakon keresztül pedig csodás látványt nyújtanak Pleven havas háztetői. Az emlékhely belseje kellemesen meleg.\n\nDélután a Kaylaka park a természet csendes, téli arcát mutatja. A Bormúzeumhoz vezető út egyszerű, a barlang pedig tökéletes menedék a hideg szél elől.\n\nEste hajtson vissza a belvárosba. A kivilágított téli város látványa az autóból is remek, mielőtt egy gyertyafényes, meleg mehanában zárná a napot.",
             "ro": "O dimineață răcoroasă de iarnă începe cu drumul spre Mausoleu. Grație încălzirii în scaune, vizita este plăcută. Muzeul Regional este bine încălzit și oferă cultură la adăpost.\n\nLa prânz, urcați la Panoramă. Drumul este scurt, iar vederea acoperișurilor înzăpezite din mașina caldă este superbă. Interiorul monumentului este primitor.\n\nDupă-amiaza în parcul Kaylaka dezvăluie natura în liniștea iernii. Drumul spre Muzeul Vinului este facil, iar peștera vă protejează de vântul tăios de iarnă.\n\nSeara, reveniți în centru. Iluminatul festiv al orașului se vede minunat din mașină înainte de a încheia ziua într-o 'mehana' caldă, la lumina lumânărilor.",
-            "en": "A crisp winter morning starts with a drive to the frosty Mausoleum. Enjoy the city sights from your warm vehicle. The Regional Museum is a great indoor stop with excellent heating.\n\nAt midday, drive up to the Panorama. The snowy rooftops of Pleven look beautiful from the hill, and the building's interior is comfortably warm.\n\nIn the afternoon, explore the quiet winter scenery of Kaylaka Park. The drive to the Wine Museum is straightforward, and the cave provides a nice break from the cold winds.\n\nReturn to the center in the evening. The festive city lights are a joy to see through the window before heading into a warm 'mehana' for a traditional dinner."
+            "en": "A crisp winter morning starts with a drive to the frosty Mausoleum. Enjoy the city sights from your warm vehicle. The Regional Museum is a great indoor stop with excellent heating.\n\nAt midday, drive up to the Panorama. The snowy rooftops of Pleven look beautiful from the hill, and the building's interior is comfortably warm.\n\nIn the afternoon, explore the quiet winter scenery of Kaylaka Park. The drive to the Wine Museum is straightforward, and the cave provides a nice break from the cold winds.\n\nReturn to the center in the evening. The festive city lights are a joy to see through the window before heading into a warm 'mehana' for a traditional dinner.",
+            "bg": "Свеж зимен сутрин започва с каране до измръзналия Мавзолей. Насладете се на градските гледки от топлия автомобил. Регионалният музей е отлична вътрешна спирка с отлично отопление.\n\nВ средата на деня се качете до Панорамата. Снежните покриви на Плевен изглеждат красиво от хълма, а интериорът на сградата е комфортно топъл.\n\nСледобед разгледайте спокойната зимна сцена в парк Кайлъка. Пътят до Винения музей е прост, а пещерата предлага хубава почивка от студения вятър.\n\nВърнете се в центъра към вечерта. Празничните градски светлини са удоволствие за гледане през прозореца преди да влезете в топла механа за традиционна вечеря."
           },
           "stops": [
             {
@@ -1499,7 +1634,8 @@
                 "de": "Achten Sie auf vereiste Stellen auf dem Parkplatz.",
                 "hu": "Figyeljen a jeges foltokra a parkolóban.",
                 "ro": "Atenție la porțiunile înghețate din parcare.",
-                "en": "Watch out for icy patches in the parking lot."
+                "en": "Watch out for icy patches in the parking lot.",
+                "bg": "Внимавайте за заледени петна на паркинга."
               }
             },
             {
@@ -1508,7 +1644,8 @@
                 "de": "Ein kurzer Halt; genießen Sie den Anblick der gefrorenen Steine.",
                 "hu": "Rövid megálló; csodálja meg a fagyos köveket.",
                 "ro": "O scurtă oprire; admirați pietrele înghețate.",
-                "en": "A brief stop; admire the frozen textures of the stonework."
+                "en": "A brief stop; admire the frozen textures of the stonework.",
+                "bg": "Кратка спирка; възхитете се на замръзналите текстури на каменната зидария."
               }
             },
             {
@@ -1517,7 +1654,8 @@
                 "de": "Der Parkplatz wird im Winter meist gut geräumt.",
                 "hu": "A parkolót télen általában jól takarítják.",
                 "ro": "Parcarea este de obicei bine deszăpezită iarna.",
-                "en": "The parking lot is usually well-cleared of snow in winter."
+                "en": "The parking lot is usually well-cleared of snow in winter.",
+                "bg": "Паркингът обикновено е добре почистен от сняг през зимата."
               }
             },
             {
@@ -1526,7 +1664,8 @@
                 "de": "Die Zufahrt zum Hügel kann bei Glätte anspruchsvoll sein.",
                 "hu": "A dombra vezető út csúszós időben nehézkes lehet.",
                 "ro": "Accesul pe deal poate fi dificil în caz de polei.",
-                "en": "The uphill access road can be challenging in icy conditions."
+                "en": "The uphill access road can be challenging in icy conditions.",
+                "bg": "Пътят нагоре може да бъде предизвикателен при заледяване."
               }
             },
             {
@@ -1535,7 +1674,8 @@
                 "de": "Parken Sie nicht auf unbefestigten Seitenstreifen (Matschgefahr).",
                 "hu": "Ne parkoljon a burkolatlan útpadkán (elakadásveszély).",
                 "ro": "Nu parcați pe acostamentul neamenajat (risc de noroi).",
-                "en": "Avoid parking on unpaved shoulders due to mud risk."
+                "en": "Avoid parking on unpaved shoulders due to mud risk.",
+                "bg": "Избягвайте паркиране на незасигнати от асфалт рамена заради риск от кал."
               }
             },
             {
@@ -1544,7 +1684,8 @@
                 "de": "Fahren Sie vorsichtig; im Tal ist es oft kälter und glatter.",
                 "hu": "Vezessen óvatosan; a völgyben gyakran hidegebb és csúszósabb az út.",
                 "ro": "Conduceți cu prudență; în vale este adesea mai rece și lunecos.",
-                "en": "Drive carefully; the valley is often colder and icier than the city."
+                "en": "Drive carefully; the valley is often colder and icier than the city.",
+                "bg": "Карайте внимателно; долината често е по-студена и заледена от града."
               }
             },
             {
@@ -1553,7 +1694,8 @@
                 "de": "Der kurze Fußweg vom Auto zur Höhle kann glatt sein.",
                 "hu": "Az autótól a barlangig tartó rövid séta csúszós lehet.",
                 "ro": "Scurta plimbare de la mașină la peșteră poate fi alunecoasă.",
-                "en": "The short walk from the car to the cave might be slippery."
+                "en": "The short walk from the car to the cave might be slippery.",
+                "bg": "Краткото разстояние пеша от колата до пещерата може да бъде хлъзгаво."
               }
             }
           ],
@@ -1585,6 +1727,13 @@
               "The hill road to the Panorama is cleared last during heavy snow.",
               "Watch for pedestrians walking on the road to avoid icy sidewalks.",
               "Check your battery; extreme cold can drain older units quickly."
+            ],
+            "bg": [
+              "Зимните гуми са задължителни по закон в България.",
+              "Дръжте стъргалка за лед под ръка; нощите в Плевен често са мразовити.",
+              "Пътят към Панорамата се почиства последен при обилен снеговалеж.",
+              "Внимавайте за пешеходци, които вървят по пътя заради заледени тротоари.",
+              "Проверете акумулатора; екстремният студ може бързо да изчерпи по-старите батерии."
             ]
           }
         }
@@ -1603,7 +1752,8 @@
             "de": "Mausoleum St. Georg",
             "hu": "Szent György győztes mauzóleum-kápolna",
             "ro": "Mausoleul Sfântul Gheorghe Biruitorul",
-            "en": "St. George the Conqueror Mausoleum"
+            "en": "St. George the Conqueror Mausoleum",
+            "bg": "Мавзолей „Св. Георги Победоносец“"
           },
           "coords": [
             24.618,
@@ -1619,7 +1769,8 @@
             "de": "Nehmen Sie einen Bus oder Trolleybus zum zentralen Platz (Vazrazhdane).",
             "hu": "Menjen busszal vagy trolibusszal a központi (Vazrazsdane) térre.",
             "ro": "Luați un autobuz sau troleibuz până în piața centrală (Vazrazhdane).",
-            "en": "Take a bus or trolleybus to the central (Vazrazhdane) square."
+            "en": "Take a bus or trolleybus to the central (Vazrazhdane) square.",
+            "bg": "Вземете автобус или тролейбус до централния (Възраждане) площад."
           }
         },
         {
@@ -1627,7 +1778,8 @@
             "de": "Wasserkaskade",
             "hu": "Vízilépcső",
             "ro": "Cascada de apă",
-            "en": "Water Cascade"
+            "en": "Water Cascade",
+            "bg": "Водопадът"
           },
           "coords": [
             24.619,
@@ -1643,7 +1795,8 @@
             "de": "Alles im zentralen Cluster ist leicht zu Fuß erreichbar.",
             "hu": "A központi klaszterben minden könnyen elérhető gyalog.",
             "ro": "Totul în clusterul central este ușor accesibil pe jos.",
-            "en": "Everything in the central cluster is easily reachable on foot."
+            "en": "Everything in the central cluster is easily reachable on foot.",
+            "bg": "Всичко в централния клъстър е лесно достъпно пеша."
           }
         },
         {
@@ -1651,7 +1804,8 @@
             "de": "Historisches Museum",
             "hu": "Regionális Történeti Múzeum",
             "ro": "Muzeul Regional de Istorie",
-            "en": "Regional Historical Museum"
+            "en": "Regional Historical Museum",
+            "bg": "Регионален исторически музей"
           },
           "coords": [
             24.622,
@@ -1667,7 +1821,8 @@
             "de": "Der letzte Halt im ersten Fußgängercluster, bevor es weitergeht.",
             "hu": "Az első sétálóklaszter utolsó állomása, mielőtt továbbmennénk.",
             "ro": "Ultima oprire din primul cluster pietonal înainte de a merge mai departe.",
-            "en": "The last stop in the first walking cluster before moving on."
+            "en": "The last stop in the first walking cluster before moving on.",
+            "bg": "Последната спирка в първия пешеходен клъстър преди да продължите."
           }
         },
         {
@@ -1675,7 +1830,8 @@
             "de": "Panorama Pleven",
             "hu": "Pleveni panoráma 1877",
             "ro": "Panorama din Plevna 1877",
-            "en": "Pleven Panorama 1877"
+            "en": "Pleven Panorama 1877",
+            "bg": "Плевенска Панорама 1877"
           },
           "coords": [
             24.606,
@@ -1691,7 +1847,8 @@
             "de": "Nehmen Sie einen Trolleybus in Richtung Skobelev Park, um zum zweiten Cluster zu gelangen.",
             "hu": "Menjen trolibusszal a Szkobelev park irányába, hogy eljusson a második klaszterbe.",
             "ro": "Luați un troleibuz spre Parcul Skobelev pentru a ajunge la al doilea cluster.",
-            "en": "Take a trolleybus towards Skobelev Park to get to the second cluster."
+            "en": "Take a trolleybus towards Skobelev Park to get to the second cluster.",
+            "bg": "Вземете тролейбус към парк Скобелев, за да стигнете до втория клъстър."
           }
         },
         {
@@ -1699,7 +1856,8 @@
             "de": "Skobelev-Park",
             "hu": "Szkobelev park",
             "ro": "Parcul Skobelev",
-            "en": "Skobelev Park"
+            "en": "Skobelev Park",
+            "bg": "Парк Скобелев"
           },
           "coords": [
             24.605,
@@ -1715,7 +1873,8 @@
             "de": "Der Park umgibt das Panorama und ist ein Ort der Geschichte und Ruhe.",
             "hu": "A park körülveszi a panorámát, és a történelem és a nyugalom helye.",
             "ro": "Parcul înconjoară Panorama și este un loc de istorie și liniște.",
-            "en": "The park surrounds the Panorama and is a place of history and tranquility."
+            "en": "The park surrounds the Panorama and is a place of history and tranquility.",
+            "bg": "Паркът обгражда Панорамата и е място с история и спокойствие."
           }
         },
         {
@@ -1723,7 +1882,8 @@
             "de": "Kaylaka-Park",
             "hu": "Kajlaka park",
             "ro": "Parcul Kaylaka",
-            "en": "Kaylaka Park"
+            "en": "Kaylaka Park",
+            "bg": "Парк Кайлъка"
           },
           "coords": [
             24.62,
@@ -1739,7 +1899,8 @@
             "de": "Nehmen Sie einen Bus in Richtung Süden, um dieses riesige Naturgebiet zu erreichen.",
             "hu": "Menjen busszal dél felé, hogy elérje ezt a hatalmas természeti területet.",
             "ro": "Luați un autobuz spre sud pentru a ajunge la această zonă naturală vastă.",
-            "en": "Take a bus heading south to reach this vast natural area."
+            "en": "Take a bus heading south to reach this vast natural area.",
+            "bg": "Вземете автобус на юг, за да достигнете тази обширна природна зона."
           }
         }
       ],
@@ -1747,7 +1908,8 @@
         "de": "Ihr Tag mit öffentlichen Verkehrsmitteln in Plewen beginnt im Stadtzentrum (Cluster 1), das Sie mit dem Bus erreichen und wo Sie die wichtigsten Sehenswürdigkeiten zu Fuß erkunden. Am Vormittag bringt Sie ein Trolleybus zum Panorama-Hügel (Cluster 2) für eine Dosis Geschichte und einen Spaziergang im Skobelev-Park. Der Nachmittag ist für eine längere Busfahrt zum weitläufigen Kaylaka-Park (Cluster 3) reserviert, einem perfekten Ort, um in die Natur einzutauchen und den Tag abseits des städtischen Trubels ausklingen zu lassen.",
         "hu": "Tömegközlekedéssel töltött pleveni napja a buszokkal elérhető városközpontban (1. klaszter) kezdődik, ahol gyalogosan fedezi fel a főbb látnivalókat. Délelőtt egy trolibusz viszi fel a Panoráma-dombra (2. klaszter), ahol egy adag történelem és egy séta vár a Szkobelev parkban. A délután egy hosszabb buszútra van fenntartva a tágas Kajlaka parkba (3. klaszter), amely tökéletes hely a természetben való elmerüléshez és a nap befejezéséhez a városi nyüzsgéstől távol.",
         "ro": "Ziua dumneavoastră cu transportul public în Plevna începe în centrul orașului (Cluster 1), accesibil cu autobuzul, unde explorați principalele atracții pe jos. Dimineața, un troleibuz vă duce pe Dealul Panorama (Cluster 2) pentru o doză de istorie și o plimbare în Parcul Skobelev. După-amiaza este rezervată pentru o călătorie mai lungă cu autobuzul până la vastul Parc Kaylaka (Cluster 3), un loc perfect pentru a vă cufunda în natură și a încheia ziua departe de agitația orașului.",
-        "en": "Your day using public transport in Pleven begins in the city center (Cluster 1), reachable by bus, where you'll explore the main sights on foot. In the morning, a trolleybus takes you to Panorama Hill (Cluster 2) for a dose of history and a walk in Skobelev Park. The afternoon is reserved for a longer bus ride to the expansive Kaylaka Park (Cluster 3), a perfect place to immerse yourself in nature and end the day away from the urban hustle."
+        "en": "Your day using public transport in Pleven begins in the city center (Cluster 1), reachable by bus, where you'll explore the main sights on foot. In the morning, a trolleybus takes you to Panorama Hill (Cluster 2) for a dose of history and a walk in Skobelev Park. The afternoon is reserved for a longer bus ride to the expansive Kaylaka Park (Cluster 3), a perfect place to immerse yourself in nature and end the day away from the urban hustle.",
+        "bg": "Денят ви с градски транспорт в Плевен започва в центъра (Клъстър 1), достъпен с автобус, където ще разгледате основните забележителности пеша. Сутринта тролейбус ви отвежда до хълма Панорама (Клъстър 2) за доза история и разходка в парк Скобелев. Следобедът е запазен за по-дълго пътуване с автобус до обширния парк Кайлъка (Клъстър 3), перфектно място да се потопите в природата и да завършите деня далеч от градския шум."
       },
       "gastro_picks": {
         "de": [
@@ -1855,6 +2017,12 @@
           "Schedules can be irregular, so allow for some buffer time.",
           "Ask locals for the correct bus line if you are unsure.",
           "Be aware that buses run less frequently in the evening."
+        ],
+        "bg": [
+          "Купете дневна карта за градския транспорт, ако планирате няколко пътувания.",
+          "Разписанията може да са непостоянни, предвидете допълнително време.",
+          "Питайте местните за точния автобусен номер, ако не сте сигурни.",
+          "Имайте предвид, че автобусите ходят по-рядко вечер."
         ]
       },
       "variants": {
@@ -1863,7 +2031,8 @@
             "de": "Ein regnerischer Tag startet im Zentrum. Die Trolleybusse von Plewen sind zuverlässig und bringen Sie trocken zum Mausoleum und zum Regionalmuseum.\n\nMittags nutzen Sie die Linie zum Panorama-Hügel. Die Haltestelle bietet Schutz, und der kurze Fußweg zum Eingang ist bei Regen machbar. Das Panorama ist der ideale Ort, um dem Wetter zu entfliehen.\n\nNachmittags bringt Sie der Trolleybus Richtung Kaylaka-Park. Steigen Sie nah am Weinmuseum aus, um den Aufenthalt im Regen zu minimieren. Die Höhle ist absolut trocken.\n\nAm Abend kehren Sie mit dem Bus ins Stadtzentrum zurück. Genießen Sie die Fahrt durch die nassen Straßen und steigen Sie direkt in der Nähe Ihres bevorzugten Restaurants aus.",
             "hu": "Esős nap indul a belvárosban. Pleven trolibuszai megbízhatóak, és szárazon juttatják el a Mauzóleumhoz és a Történeti Múzeumhoz.\n\nDélben használja a Panoráma-dombra induló járatot. A megállók fedettek, a rövid séta a bejáratig pedig elviselhető esőben is. A Panoráma tökéletes hely a menekülésre az időjárás elől.\n\nDélután trolival utazzon a Kaylaka park irányába. Szálljon le a Bormúzeumhoz legközelebbi megállónál. A barlang belsejében garantáltan száraz marad.\n\nEste busszal térjen vissza a városközpontba. Élvezze a kilátást a vizes utcákra a buszablakból, és szálljon le közvetlenül egy jó étterem közelében.",
             "ro": "O zi ploioasă începe în centru. Troleibuzele din Plevna sunt de încredere și vă duc la Mausoleu și Muzeul Regional fără a vă uda.\n\nLa prânz, folosiți linia care urcă spre dealul Panoramei. Stația oferă adăpost, iar scurta plimbare până la intrare este gestionabilă. Panorama este refugiul ideal.\n\nDupă-amiaza, luați troleibuzul spre parcul Kaylaka. Coborâți cât mai aproape de Muzeul Vinului pentru a minimiza expunerea la ploaie. Peștera este perfect uscată.\n\nSeara, reveniți cu autobuzul în centrul orașului. Admirați străzile ude prin geam și coborâți direct lângă restaurantul ales pentru cină.",
-            "en": "A rainy day starts in the center. Pleven's trolleybuses are reliable and will keep you dry on your way to the Mausoleum and Regional Museum.\n\nAt midday, take the line up to the Panorama hill. The stops are covered, and the short walk to the entrance is manageable in the rain. The Panorama is the perfect escape.\n\nIn the afternoon, hop on a trolleybus towards Kaylaka Park. Get off as close to the Wine Museum as possible to stay dry. The cave interior is completely weather-proof.\n\nReturn to the center by bus in the evening. Enjoy the view of the wet streets from the warmth of the bus and disembark right near your dinner spot."
+            "en": "A rainy day starts in the center. Pleven's trolleybuses are reliable and will keep you dry on your way to the Mausoleum and Regional Museum.\n\nAt midday, take the line up to the Panorama hill. The stops are covered, and the short walk to the entrance is manageable in the rain. The Panorama is the perfect escape.\n\nIn the afternoon, hop on a trolleybus towards Kaylaka Park. Get off as close to the Wine Museum as possible to stay dry. The cave interior is completely weather-proof.\n\nReturn to the center by bus in the evening. Enjoy the view of the wet streets from the warmth of the bus and disembark right near your dinner spot.",
+            "bg": "Дъждовен ден започва в центъра. Тролейбусите в Плевен са надеждни и ще ви запазят сухи до Мавзолея и Регионалния музей.\n\nВ средата на деня вземете линия до хълма Панорама. Автобусните спирки са покрити и краткото разстояние до входа е поносимо при дъжд. Панорамата е перфектното убежище.\n\nСледобед се качете на тролейбус към парк Кайлъка. Слезте възможно най-близо до Винения музей, за да останете сухи. Интериорът на пещерата е напълно непромокаем.\n\nВърнете се в центъра с автобус вечерта. Насладете се на гледката към мокрите улици от топлината на автобуса и слезте непосредствено до мястото за вечеря."
           },
           "stops": [
             {
@@ -1872,7 +2041,8 @@
                 "de": "Nutzen Sie die zentralen Trolleybus-Haltestellen am Freiheitsplatz.",
                 "hu": "Használja a Szabadság téri központi trolibuszmegállókat.",
                 "ro": "Utilizați stațiile centrale de troleibuz din Piața Libertății.",
-                "en": "Use the central trolleybus stops at Freedom Square."
+                "en": "Use the central trolleybus stops at Freedom Square.",
+                "bg": "Използвайте централните тролейбусни спирки на площад Свобода."
               }
             },
             {
@@ -1881,7 +2051,8 @@
                 "de": "Die Haltestelle 'Obshtina' ist nur wenige Schritte entfernt.",
                 "hu": "Az 'Obshtina' megálló mindössze pár lépésre található.",
                 "ro": "Stația 'Obștina' este la doar câțiva pași distanță.",
-                "en": "The 'Obshtina' stop is only a few steps away from the fountains."
+                "en": "The 'Obshtina' stop is only a few steps away from the fountains.",
+                "bg": "Спирката 'Община' е само на няколко крачки от фонтаните."
               }
             },
             {
@@ -1890,7 +2061,8 @@
                 "de": "Die Linien 1 und 7 halten direkt in der Nähe.",
                 "hu": "Az 1-es és 7-es trolik közvetlenül a közelben állnak meg.",
                 "ro": "Liniile 1 și 7 opresc chiar în apropiere.",
-                "en": "Trolleybus lines 1 and 7 stop right near the museum entrance."
+                "en": "Trolleybus lines 1 and 7 stop right near the museum entrance.",
+                "bg": "Тролейбусни линии 1 и 7 спират точно до входа на музея."
               }
             },
             {
@@ -1899,7 +2071,8 @@
                 "de": "Die Haltestelle liegt am Fuß des Hügels; kurzer, nasser Aufstieg.",
                 "hu": "A megálló a domb alján van; rövid, vizes séta felfelé.",
                 "ro": "Stația este la baza dealului; urcuș scurt și umed.",
-                "en": "The stop is at the hill's base; expect a short, wet climb."
+                "en": "The stop is at the hill's base; expect a short, wet climb.",
+                "bg": "Спирката е в подножието на хълма; очаквайте кратко, мокро изкачване."
               }
             },
             {
@@ -1908,7 +2081,8 @@
                 "de": "Unterstände an den Haltestellen schützen beim Warten.",
                 "hu": "A megállók várótermei védenek várakozás közben.",
                 "ro": "Refugiile din stații vă protejează în timp ce așteptați.",
-                "en": "Bus shelters provide good protection while waiting."
+                "en": "Bus shelters provide good protection while waiting.",
+                "bg": "Автобусните навеси осигуряват добра защита докато чакате."
               }
             },
             {
@@ -1917,7 +2091,8 @@
                 "de": "Endstation der Linie 1; idealer Startpunkt im Trockenen.",
                 "hu": "Az 1-es troli végállomása; ideális és fedett kiindulópont.",
                 "ro": "Capătul liniei 1; punct de plecare ideal și adăpostit.",
-                "en": "Terminus of line 1; a perfect sheltered starting point."
+                "en": "Terminus of line 1; a perfect sheltered starting point.",
+                "bg": "Терминус на линия 1; идеална приютена отправна точка."
               }
             }
           ],
@@ -1949,6 +2124,13 @@
               "Avoid peak hours to ensure you get a dry seat.",
               "Digital displays inside help with orientation during heavy rain.",
               "Line 1 connects almost all the major tourist attractions."
+            ],
+            "bg": [
+              "Купувайте билети в автобуса или на определените павилиони.",
+              "Тролейбусите минават често, на всеки 10–15 минути.",
+              "Избягвайте пиковите часове, за да си осигурите сухо място за сядане.",
+              "Цифровите табла в тях помагат за ориентация при силен дъжд.",
+              "Линия 1 свързва почти всички основни туристически атракции."
             ]
           }
         },
@@ -1957,7 +2139,8 @@
             "de": "Ein frostiger Morgen beginnt mit einer warmen Trolleybusfahrt ins Zentrum. Besuchen Sie das Mausoleum und wärmen Sie sich danach im Regionalmuseum auf, das gut an das Netz angebunden ist.\n\nMittags nehmen Sie die Linie zum Panorama. Die geheizten Busse sind eine Wohltat gegen den Winterwind. Der Blick auf das verschneite Plewen aus dem Busfenster ist malerisch.\n\nNachmittags geht es weiter zum Kaylaka-Park. Die Trolleybusse fahren regelmäßig bis zum Parkeingang. Das Weinmuseum in der Höhle bietet eine konstante, angenehme Temperatur im Frost.\n\nAm frühen Abend kehren Sie ins Zentrum zurück. Die festliche Beleuchtung der Stadt glänzt in der Winterdunkelheit, während Sie bequem zum Abendessen fahren.",
             "hu": "Fagyos reggel indul egy meleg trolibuszos utazással a belvárosba. Látogassa meg a Mauzóleumot, majd melegedjen fel a Történeti Múzeumban, amely könnyen elérhető járattal.\n\nDélben utazzon a Panorámához. A fűtött buszok igazi felüdülést jelentenek a téli szélben. A havas Pleven látványa a buszablakból festői.\n\nDélután folytassa útját a Kaylaka parkhoz. A trolik rendszeresen járnak a park bejáratáig. A Bormúzeum barlangja télen is kellemes klímát biztosít a kinti fagyok helyett.\n\nKora este térjen vissza a belvárosba. A város ünnepi fényei ragyognak a téli sötétségben, miközben kényelmesen utazik a vacsora helyszínére.",
             "ro": "O dimineață geroasă începe cu o călătorie caldă cu troleibuzul spre centru. Vizitați Mausoleul și apoi încălziți-vă în Muzeul Regional, bine conectat la rețea.\n\nLa prânz, luați linia spre Panoramă. Autobuzele încălzite sunt o binecuvântare împotriva vântului de iarnă. Vederea Plevnei înzăpezite prin fereastra troleibuzului este pitorească.\n\nDupă-amiaza, continuați spre parcul Kaylaka. Troleibuzele circulă regulat până la intrarea în parc. Muzeul Vinului din peșteră oferă o temperatură constantă și plăcută.\n\nSeara devreme, reveniți în centru. Luminile festive ale orașului strălucesc în întunericul iernii în timp ce călătoriți confortabil spre cină.",
-            "en": "A frosty morning begins with a warm trolleybus ride to the center. Visit the Mausoleum and then warm up in the Regional Museum, which is easily accessible by transit.\n\nAt midday, take the bus up to the Panorama. Heated trolleybuses provide a great relief from the winter wind. The snowy views of Pleven from the window are very scenic.\n\nIn the afternoon, head to Kaylaka Park. Trolleybuses run frequently to the park entrance. The Wine Museum cave offers a much milder temperature than the freezing outside air.\n\nEarly evening, return to the center. The festive city lights shine brightly in the winter darkness as you head comfortably toward your dinner destination."
+            "en": "A frosty morning begins with a warm trolleybus ride to the center. Visit the Mausoleum and then warm up in the Regional Museum, which is easily accessible by transit.\n\nAt midday, take the bus up to the Panorama. Heated trolleybuses provide a great relief from the winter wind. The snowy views of Pleven from the window are very scenic.\n\nIn the afternoon, head to Kaylaka Park. Trolleybuses run frequently to the park entrance. The Wine Museum cave offers a much milder temperature than the freezing outside air.\n\nEarly evening, return to the center. The festive city lights shine brightly in the winter darkness as you head comfortably toward your dinner destination.",
+            "bg": "Мразовита сутрин започва с топъл тролейбус до центъра. Посетете Мавзолея, след което се стоплете в Регионалния музей, който е лесно достъпен с обществен транспорт.\n\nВ средата на деня вземете автобус до Панорамата. Отоплените тролейбуси осигуряват облекчение от зимния вятър. Снежните гледки на Плевен през прозореца са много живописни.\n\nСледобед тръгнете към парк Кайлъка. Тролейбусите до входа на парка пътуват често. Пещерата на Винения музей предлага много по-умерена температура в сравнение със студа навън.\n\nРано вечерта се върнете в центъра. Празничните градски светлини ярко светят в зимната тъмнина, докато се насочвате удобно към мястото за вечеря."
           },
           "stops": [
             {
@@ -1966,7 +2149,8 @@
                 "de": "Zentrale Haltestellen sind oft schneefrei und gut beleuchtet.",
                 "hu": "A központi megállók általában hómentesek és jól kivilágítottak.",
                 "ro": "Stațiile centrale sunt de obicei curățate de zăpadă și bine luminate.",
-                "en": "Central stops are usually cleared of snow and well-lit."
+                "en": "Central stops are usually cleared of snow and well-lit.",
+                "bg": "Централните спирки обикновено са почистени от сняг и добре осветени."
               }
             },
             {
@@ -1975,7 +2159,8 @@
                 "de": "Vorsicht beim Aussteigen; die Gehwege am Rathaus können glatt sein.",
                 "hu": "Vigyázat leszálláskor; a városháza melletti járdák csúszósak lehetnek.",
                 "ro": "Atenție la coborâre; trotuarele de lângă primărie pot fi alunecoase.",
-                "en": "Careful when stepping off; sidewalks near the city hall can be icy."
+                "en": "Careful when stepping off; sidewalks near the city hall can be icy.",
+                "bg": "Внимавайте при слизане; тротоарите близо до общината могат да бъдат заледени."
               }
             },
             {
@@ -1984,7 +2169,8 @@
                 "de": "Kurzer Weg von der Haltestelle minimiert die Zeit in der Kälte.",
                 "hu": "A megállótól tartó rövid séta minimalizálja a hidegben töltött időt.",
                 "ro": "Distanța scurtă de la stație reduce timpul petrecut în frig.",
-                "en": "A short walk from the stop minimizes time spent in the cold."
+                "en": "A short walk from the stop minimizes time spent in the cold.",
+                "bg": "Кратката разходка от спирката минимизира времето на студа."
               }
             },
             {
@@ -1993,7 +2179,8 @@
                 "de": "Warten Sie im beheizten Vorraum auf den nächsten Bus zurück.",
                 "hu": "Várja a következő visszajáratot a Panoráma fűtött előterében.",
                 "ro": "Așteptați următorul autobuz în vestibulul încălzit al Panoramei.",
-                "en": "Wait for the returning bus inside the Panorama's heated foyer."
+                "en": "Wait for the returning bus inside the Panorama's heated foyer.",
+                "bg": "Чакайте връщащия се автобус във затопленото фоайе на Панорамата."
               }
             },
             {
@@ -2002,7 +2189,8 @@
                 "de": "Nutzen Sie die Haltestellen direkt am Parkeingang.",
                 "hu": "Használja közvetlenül a park bejáratánál lévő megállókat.",
                 "ro": "Folosiți stațiile situate direct la intrarea în parc.",
-                "en": "Use the stops located directly at the park entrance."
+                "en": "Use the stops located directly at the park entrance.",
+                "bg": "Използвайте спирките, разположени директно на входа на парка."
               }
             },
             {
@@ -2011,7 +2199,8 @@
                 "de": "Die Trolleybusse sind im Winter gut beheizt.",
                 "hu": "A trolibuszokat télen jól fűtik.",
                 "ro": "Troleibuzele sunt bine încălzite în timpul iernii.",
-                "en": "Trolleybuses are well-heated during the winter months."
+                "en": "Trolleybuses are well-heated during the winter months.",
+                "bg": "Тролейбусите са добре отоплени през зимните месеци."
               }
             }
           ],
@@ -2043,6 +2232,13 @@
               "Use the 'Pleven City Transport' app for real-time tracking.",
               "Pleven's trolleybuses are among the cleanest and warmest in Bulgaria.",
               "The last return trips from Kaylaka Park are around 9 PM; check the schedule."
+            ],
+            "bg": [
+              "Разписанията може да закъсняват леко при обилен снеговалеж.",
+              "Носете топла обувка; чакането на спирките може да е студено.",
+              "Използвайте приложението 'Pleven City Transport' за проследяване в реално време.",
+              "Тролейбусите в Плевен са сред най-чистите и най-топлите в България.",
+              "Последните връщащи се курсове от парк Кайлъка са около 21:00; проверете разписанието."
             ]
           }
         }

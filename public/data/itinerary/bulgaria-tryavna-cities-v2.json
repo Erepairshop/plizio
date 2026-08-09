@@ -21,7 +21,8 @@
             "de": "Katschaunska-Viertel",
             "hu": "Kachaunska negyed",
             "ro": "Cartierul Kachaunska",
-            "en": "Kachaunska Neighborhood"
+            "en": "Kachaunska Neighborhood",
+            "bg": "Качаунска квартал"
           },
           "coords": [
             25.4975,
@@ -37,7 +38,8 @@
             "de": "Beginnen Sie hier mit einem Kaffee, um die Atmosphäre der Wiedergeburtsarchitektur aufzusaugen.",
             "hu": "Kezdje a napot egy kávéval, és szívja magába a bolgár újjászületés építészetének hangulatát.",
             "ro": "Începeți ziua cu o cafea aici pentru a absorbi atmosfera arhitecturii Renașterii Bulgare.",
-            "en": "Start with a coffee here to soak in the atmosphere of the Bulgarian Revival architecture."
+            "en": "Start with a coffee here to soak in the atmosphere of the Bulgarian Revival architecture.",
+            "bg": "Започнете с кафе тук, за да усетите атмосферата на възрожденската българска архитектура."
           }
         },
         {
@@ -45,7 +47,8 @@
             "de": "Buckelbrücke",
             "hu": "Púpos híd",
             "ro": "Podul Cocoșat",
-            "en": "The Humpbacked Bridge"
+            "en": "The Humpbacked Bridge",
+            "bg": "Кривият мост"
           },
           "coords": [
             25.4988,
@@ -61,7 +64,8 @@
             "de": "Ein Wahrzeichen und perfekter Ort für Fotos über dem Fluss Trjawna.",
             "hu": "A város jelképe, tökéletes helyszín a Tryavna folyó feletti fotózáshoz.",
             "ro": "Un simbol al orașului și un loc perfect pentru fotografii peste râul Tryavna.",
-            "en": "A landmark of the town and a perfect spot for photos over the Tryavna river."
+            "en": "A landmark of the town and a perfect spot for photos over the Tryavna river.",
+            "bg": "Знакова забележителност на града и перфектно място за снимки над река Трявна."
           }
         },
         {
@@ -69,7 +73,8 @@
             "de": "Uhrturm",
             "hu": "Óratorony",
             "ro": "Turnul cu Ceas",
-            "en": "Clock Tower"
+            "en": "Clock Tower",
+            "bg": "Часовникова кула"
           },
           "coords": [
             25.4992,
@@ -85,7 +90,8 @@
             "de": "Das Wahrzeichen der Stadt aus dem Jahr 1814, sein Glockenschlag hallt stündlich wider.",
             "hu": "A város 1814-ben épült jelképe, harangjátéka óránként csendül fel.",
             "ro": "Emblema orașului din 1814, ceasul său bate la fiecare oră.",
-            "en": "The town's emblem from 1814, its chime echoes every hour."
+            "en": "The town's emblem from 1814, its chime echoes every hour.",
+            "bg": "Емблемата на града от 1814 г., нейните камбани отекват всяка година."
           }
         },
         {
@@ -93,7 +99,8 @@
             "de": "Kirche des Erzengels Michael",
             "hu": "Szent Mihály Arkangyal templom",
             "ro": "Biserica Sfântul Arhanghel Mihail",
-            "en": "Church of St. Archangel Michael"
+            "en": "Church of St. Archangel Michael",
+            "bg": "Църква „Св. Архангел Михаил“"
           },
           "coords": [
             25.498,
@@ -109,7 +116,8 @@
             "de": "Beachten Sie die holzgeschnitzte Ikonostase und die Wandmalereien im Inneren.",
             "hu": "Figyelje meg a templom belsejében található fafaragású ikonosztázt és falfestményeket.",
             "ro": "Observați iconostasul sculptat în lemn și picturile murale din interior.",
-            "en": "Take note of the wood-carved iconostasis and the murals inside."
+            "en": "Take note of the wood-carved iconostasis and the murals inside.",
+            "bg": "Обърнете внимание на дърворезбования иконостас и фреските вътре."
           }
         },
         {
@@ -117,7 +125,8 @@
             "de": "Alte Schule (Schola)",
             "hu": "Régi Iskola (Schola)",
             "ro": "Școala Veche (Schola)",
-            "en": "The Old School (Schola)"
+            "en": "The Old School (Schola)",
+            "bg": "Старото училище (Школа)"
           },
           "coords": [
             25.4972,
@@ -133,7 +142,8 @@
             "de": "Eines der ersten weltlichen Schulgebäude in Bulgarien, heute ein Museum.",
             "hu": "Bulgária egyik első világi iskolaépülete, ma múzeumként működik.",
             "ro": "Una dintre primele școli laice din Bulgaria, acum un muzeu.",
-            "en": "One of the first secular school buildings in Bulgaria, now a museum."
+            "en": "One of the first secular school buildings in Bulgaria, now a museum.",
+            "bg": "Една от първите светски училищни сгради в България, сега музей."
           }
         },
         {
@@ -141,7 +151,8 @@
             "de": "Daskalow-Haus",
             "hu": "Daskalov-ház",
             "ro": "Casa Daskalov",
-            "en": "Daskalov House"
+            "en": "Daskalov House",
+            "bg": "Къща Даскалов"
           },
           "coords": [
             25.4955,
@@ -157,7 +168,8 @@
             "de": "Berühmt für seine zwei geschnitzten Holzdecken, die das Ergebnis einer Wette zwischen zwei Meistern sind.",
             "hu": "Híres a két faragott famennyezetéről, amelyek egy mesterember-fogadás eredményei.",
             "ro": "Faimoasă pentru cele două tavane din lemn sculptat, rezultatul unui pariu între doi meșteri.",
-            "en": "Famous for its two carved wooden ceilings, the result of a bet between two master craftsmen."
+            "en": "Famous for its two carved wooden ceilings, the result of a bet between two master craftsmen.",
+            "bg": "Известна с двата си резбовани дървени тавана, резултат от състезание между двама майстори."
           }
         },
         {
@@ -165,7 +177,8 @@
             "de": "Museum der Ikonenmalerei",
             "hu": "Ikonfestészeti Múzeum",
             "ro": "Muzeul de Pictură a Icoanelor",
-            "en": "Museum of Icon Painting"
+            "en": "Museum of Icon Painting",
+            "bg": "Музей на иконописа"
           },
           "coords": [
             25.4965,
@@ -181,7 +194,8 @@
             "de": "Beherbergt eine reiche Sammlung von Werken der berühmten Trjawna-Malschule.",
             "hu": "A híres trjavnai festőiskola gazdag gyűjteményének ad otthont.",
             "ro": "Găzduiește o colecție bogată de lucrări ale renumitei școli de pictură din Tryavna.",
-            "en": "Houses a rich collection of works from the famous Tryavna School of painting."
+            "en": "Houses a rich collection of works from the famous Tryavna School of painting.",
+            "bg": "Съхранява богата колекция от творби от прочутата Трявненска школа на живописта."
           }
         },
         {
@@ -189,7 +203,8 @@
             "de": "Raikow-Haus",
             "hu": "Raykov-ház",
             "ro": "Casa Raykov",
-            "en": "Raykov House"
+            "en": "Raykov House",
+            "bg": "Къща Райков"
           },
           "coords": [
             25.494,
@@ -205,7 +220,8 @@
             "de": "Ein ethnographisches Museum, das das Leben eines wohlhabenden Händlers des 19. Jahrhunderts zeigt.",
             "hu": "Egy néprajzi múzeum, amely egy 19. századi gazdag kereskedő életét mutatja be.",
             "ro": "Un muzeu etnografic ce prezintă viața unui negustor bogat din secolul al XIX-lea.",
-            "en": "An ethnographic museum showcasing the life of a wealthy 19th-century merchant."
+            "en": "An ethnographic museum showcasing the life of a wealthy 19th-century merchant.",
+            "bg": "Етнографски музей, показващ живота на заможен търговец от XIX век."
           }
         }
       ],
@@ -213,7 +229,8 @@
         "de": "Ihr Tag in Trjawna beginnt im Herzen des historischen Zentrums, dem Katschaunska-Viertel. Der Vormittag ist der Erkundung der ikonischen Wahrzeichen gewidmet: Sie überqueren die Buckelbrücke, lauschen dem Uhrturm und bewundern die spirituelle Kunst in der Kirche des Erzengels Michael, bevor Sie in der Alten Schule in die Bildungsgeschichte eintauchen.\nAm Mittag machen Sie eine Pause für ein herzhaftes bulgarisches Essen. Danach setzen Sie Ihre Reise in die Vergangenheit im Daskalow-Haus fort, das für seine exquisiten Holzschnitzereien berühmt ist. Der Nachmittag ist der Kunst gewidmet, mit Besuchen im Museum für Ikonenmalerei und dem ethnographischen Display im Raikow-Haus.\nWenn der Nachmittag in den Abend übergeht, erleben Sie die meisterhafte Handwerkskunst, die diese Stadt definiert. Die kunstvollen Decken und historischen Artefakte erzählen Geschichten von einer vergangenen Ära und bieten einen tiefen Einblick in das kulturelle Erbe Bulgariens.\nBeenden Sie Ihren Tag mit einem gemütlichen Spaziergang entlang des Flusses und denken Sie über die reiche Geschichte und die beständige Schönheit von Trjawna nach. Der letzte Eindruck ist der einer Stadt, die in der Zeit stehen geblieben ist und ihre künstlerische Seele bewahrt hat.",
         "hu": "A nap Trjavnában a történelmi központ szívében, a Kachaunska negyedben kezdődik. A délelőttöt az ikonikus nevezetességek felfedezésének szenteli: átkel a Púpos hídon, hallgatja az Óratorony harangjátékát, és megcsodálja a Szent Mihály Arkangyal templom spirituális művészetét, mielőtt elmerülne az oktatás történetében a Régi Iskolában.\nDélben tartson szünetet egy kiadós bolgár ebédre. Utána folytassa időutazását a Daskalov-házban, amely híres a gyönyörű fafaragásairól. A délután a művészeté, látogatással az Ikonfestészeti Múzeumban és a Raykov-ház néprajzi kiállításán.\nAhogy a délután estébe fordul, tanúja lesz a várost meghatározó mesteri kézművességnek. A díszes mennyezetek és történelmi tárgyak egy letűnt korról mesélnek, mély betekintést nyújtva Bulgária kulturális örökségébe.\nZárja a napot egy kellemes sétával a folyó mentén, elmélkedve Trjavna gazdag történelmén és maradandó szépségén. Az utolsó benyomás egy olyan városé, amely megállt az időben, megőrizve művészi lelkét.",
         "ro": "Ziua dvs. în Tryavna începe în inima centrului istoric, cartierul Kachaunska. Dimineața este dedicată explorării reperelor iconice: traversați Podul Cocoșat, ascultați Turnul cu Ceas și admirați arta spirituală la Biserica Sf. Arhanghel Mihail, înainte de a vă cufunda în istoria educației la Școala Veche.\nLa prânz, faceți o pauză pentru o masă bulgărească copioasă. Apoi, continuați călătoria în timp la Casa Daskalov, renumită pentru sculpturile sale rafinate în lemn. După-amiaza este dedicată artei, cu vizite la Muzeul de Pictură a Icoanelor și la expoziția etnografică din Casa Raykov.\nPe măsură ce după-amiaza se transformă în seară, veți fi martorii măiestriei care definește acest oraș. Tavanele ornamentate și artefactele istorice spun povești dintr-o epocă apusă, oferind o perspectivă profundă asupra moștenirii culturale a Bulgariei.\nÎncheiați ziua cu o plimbare relaxantă de-a lungul râului, reflectând la istoria bogată și frumusețea durabilă a orașului Tryavna. Impresia finală este a unui oraș suspendat în timp, care își păstrează sufletul artistic.",
-        "en": "Your day in Tryavna begins in the heart of the historic center, the Kachaunska neighborhood. The morning is for exploring iconic landmarks: crossing the Humpbacked Bridge, listening to the Clock Tower, and admiring the spiritual art at the Church of St. Archangel Michael before delving into educational history at the Old School.\nAt midday, you'll break for a hearty Bulgarian lunch. Afterwards, continue your journey back in time at the Daskalov House, famous for its exquisite wood carvings. The afternoon is dedicated to art, with visits to the Museum of Icon Painting and the ethnographic display at the Raykov House.\nAs afternoon turns to evening, you witness the master craftsmanship that defines this town. The ornate ceilings and historical artifacts tell tales of a bygone era, offering a deep dive into Bulgaria's cultural heritage.\nConclude your day with a leisurely stroll along the river, reflecting on the rich history and enduring beauty of Tryavna. The lasting impression is of a town suspended in time, preserving its artistic soul."
+        "en": "Your day in Tryavna begins in the heart of the historic center, the Kachaunska neighborhood. The morning is for exploring iconic landmarks: crossing the Humpbacked Bridge, listening to the Clock Tower, and admiring the spiritual art at the Church of St. Archangel Michael before delving into educational history at the Old School.\nAt midday, you'll break for a hearty Bulgarian lunch. Afterwards, continue your journey back in time at the Daskalov House, famous for its exquisite wood carvings. The afternoon is dedicated to art, with visits to the Museum of Icon Painting and the ethnographic display at the Raykov House.\nAs afternoon turns to evening, you witness the master craftsmanship that defines this town. The ornate ceilings and historical artifacts tell tales of a bygone era, offering a deep dive into Bulgaria's cultural heritage.\nConclude your day with a leisurely stroll along the river, reflecting on the rich history and enduring beauty of Tryavna. The lasting impression is of a town suspended in time, preserving its artistic soul.",
+        "bg": "Денят ви в Трявна започва в сърцето на историческия център, в Качаунския квартал. Сутринта е за разглеждане на емблематични забележителности: преминаване по Кривия мост, слушане на Часовниковата кула и възхищение от духовните произведения в църквата „Св. Архангел Михаил“ преди да потънете в образователната история в Старото училище.\nНа обяд ще направите пауза за сърдечен български обяд. След това продължавате пътуването си назад във времето в Къща Даскалов, известна със своите изящни дърворезби. Следобедът е посветен на изкуството, с посещения в Музея на иконописта и етнографската експозиция в Къща Райков.\nКогато следобедът премине в вечер, ставате свидетели на майсторството, което определя този град. Орнаментните тавани и историческите артефакти разказват истории от отминала епоха, предлагащи задълбочено потапяне в културното наследство на България.\nЗавършете деня си с приятна разходка край реката, размишлявайки за богатата история и непреходната красота на Трявна. Оставящото впечатление е на град, замръзнал във времето, запазващ своя артистичен дух."
       },
       "gastro_picks": {
         "de": [
@@ -389,6 +406,12 @@
           "Most sights are located close to each other, making for a very pleasant walk.",
           "Take your time to admire the details in the Revival architecture.",
           "Ask about combined tickets at the museums if available."
+        ],
+        "bg": [
+          "Носете удобни обувки, тъй като ще ходите по паважни улици през целия ден.",
+          "Повечето забележителности са близо една до друга, което прави разходката много приятна.",
+          "Отделете време да възхитите детайлите във възрожденската архитектура.",
+          "Поискайте комбинирани билети в музеите, ако са налични."
         ]
       },
       "variants": {
@@ -397,7 +420,8 @@
             "de": "Ein regnerischer Tag in Trjawna betont den Charme der Nationalen Wiedergeburt. Morgens glänzen die Steine im Kachaunska-Viertel. Mittags bietet die Schola perfekten Schutz vor dem Guss. Nachmittags bewundern wir die Holzschnitzereien im Daskalov-Haus und die Ikonen im Trockenen. Abends lauschen wir dem Regen bei einem Glas Wein in einer gemütlichen Taverne.",
             "hu": "Az eső különleges nosztalgiát áraszt Trjavna ódon falai között. Reggel esernyővel járjuk a Kachaunska negyedet, délben pedig a Schola múzeumában keresünk menedéket. Délután a fafaragások és ikonok belső terei nyújtanak száraz élményt. Este a doboló eső mellett, egy meleg tavernabeli vacsorával zárjuk a napot a Balkán szívében.",
             "ro": "O zi ploioasă în Tryavna accentuează atmosfera de epocă. Dimineața, străzile din Kachaunska strălucesc sub umbrele. La prânz, Vechea Școală oferă un refugiu cultural ideal. După-amiaza explorăm tavanele sculptate din Casa Daskalov și muzeul de icoane. Seara se încheie într-o mehană călduroasă, ascultând ritmul ploii pe acoperișurile vechi.",
-            "en": "Rain adds a poetic touch to Tryavna's Revival architecture. Morning begins under umbrellas in the Kachaunska district. At noon, the Schola museum provides a perfect indoor retreat. Afternoon is dedicated to the wood-carved ceilings of Daskalov House and the Icon museum. Evening finishes with a cozy Bulgarian dinner while rain taps on the windows."
+            "en": "Rain adds a poetic touch to Tryavna's Revival architecture. Morning begins under umbrellas in the Kachaunska district. At noon, the Schola museum provides a perfect indoor retreat. Afternoon is dedicated to the wood-carved ceilings of Daskalov House and the Icon museum. Evening finishes with a cozy Bulgarian dinner while rain taps on the windows.",
+            "bg": "Дъждът добавя поетичен привкус към възрожденската архитектура на Трявна. Сутринта започва под чадърите в Качаунския район. На обяд музей Школа е идеално място за вътрешно укритие. Следобедът е посветен на дърворезбованите тавани в Къща Даскалов и Музея на иконописта. Вечерта завършва с уютна българска вечеря, докато дъждът ритмично почуква по прозорците."
           },
           "stops": [
             {
@@ -406,7 +430,8 @@
                 "de": "Die Kopfsteinpflaster sind bei Regen sehr rutschig; festes Schuhwerk ist nötig.",
                 "hu": "A macskakő esőben rendkívül csúszós; viseljen tapadós talpú cipőt.",
                 "ro": "Pavelele sunt alunecoase când plouă; purtați încălțăminte cu aderență bună.",
-                "en": "The cobblestones get very slippery when wet; wear shoes with good traction."
+                "en": "The cobblestones get very slippery when wet; wear shoes with good traction.",
+                "bg": "Паважа става много хлъзгав при намокряне; носете обувки с добро сцепление."
               }
             },
             {
@@ -415,7 +440,8 @@
                 "de": "Nutzen Sie das Geländer, da die Steinstufen bei Nässe glatt sein können.",
                 "hu": "Használja a korlátot, mert a kőlépcsők nedvesen nagyon csalókák.",
                 "ro": "Folosiți balustrada, deoarece treptele de piatră pot fi înșelătoare pe ploaie.",
-                "en": "Use the handrails as the stone steps can be treacherous in the rain."
+                "en": "Use the handrails as the stone steps can be treacherous in the rain.",
+                "bg": "Използвайте парапетите, тъй като каменните стъпала могат да бъдат опасни под дъжда."
               }
             },
             {
@@ -424,7 +450,8 @@
                 "de": "Stellen Sie sich unter die Vordächer der nahen Cafés für das beste Foto.",
                 "hu": "A közeli kávézók eresze alól készítheti a legjobb fotót szárazon.",
                 "ro": "Adăpostiți-vă sub streșinile cafenelelor pentru a fotografia turnul.",
-                "en": "Shelter under the eaves of nearby cafes for a dry photo of the tower."
+                "en": "Shelter under the eaves of nearby cafes for a dry photo of the tower.",
+                "bg": "Покрийте се под стрехите на близките кафенета за суха снимка на кулата."
               }
             },
             {
@@ -433,7 +460,8 @@
                 "de": "Ein ruhiger, trockener Ort, um die mittelalterlichen Fresken zu bewundern.",
                 "hu": "Csendes, száraz helyszín a középkori freskók alapos megtekintéséhez.",
                 "ro": "Un loc liniștit și uscat pentru a admira frescele medievale.",
-                "en": "A quiet, dry spot to appreciate the medieval frescoes in peace."
+                "en": "A quiet, dry spot to appreciate the medieval frescoes in peace.",
+                "bg": "Тихо, сухо място, за да се насладите на средновековните фрески на спокойствие."
               }
             },
             {
@@ -442,7 +470,8 @@
                 "de": "Planen Sie hier mehr Zeit ein, um starke Regenschauer abzuwarten.",
                 "hu": "Tervezzen ide hosszabb időt, hogy megvárja a nagyobb záporok elvonulását.",
                 "ro": "Alocați mai mult timp aici pentru a lăsa ploaia torențială să treacă.",
-                "en": "Spend extra time here to wait out any heavy passing rain showers."
+                "en": "Spend extra time here to wait out any heavy passing rain showers.",
+                "bg": "Проведете повече време тук, за да изчакате преминаващия силен дъжд."
               }
             },
             {
@@ -451,7 +480,8 @@
                 "de": "Die Holzdecken verströmen bei feuchtem Wetter ein wunderbares Aroma.",
                 "hu": "A faragott famennyezetek illata nedves időben még intenzívebb.",
                 "ro": "Mirosul tavanelor de lemn este mai intens și plăcut pe vreme umedă.",
-                "en": "The wooden ceilings exude a wonderful aroma during humid weather."
+                "en": "The wooden ceilings exude a wonderful aroma during humid weather.",
+                "bg": "Дървените тавани излъчват прекрасен аромат при влажно време."
               }
             },
             {
@@ -460,7 +490,8 @@
                 "de": "Perfektes Licht im Inneren, um die Details der Ikonen zu studieren.",
                 "hu": "Tökéletes benti program; az aranyozott ikonok ragyognak a félhomályban.",
                 "ro": "Activitate ideală de interior; icoanele aurite strălucesc în penumbră.",
-                "en": "Perfect indoor activity; the golden icons glow beautifully in the soft light."
+                "en": "Perfect indoor activity; the golden icons glow beautifully in the soft light.",
+                "bg": "Перфектна вътрешна дейност; златните икони блестят красиво в меката светлина."
               }
             },
             {
@@ -469,7 +500,8 @@
                 "de": "Die überdachte Terrasse bietet Schutz beim Betrachten der Fassade.",
                 "hu": "A fedett terasz védelmet nyújt a homlokzat és az udvar nézegetésekor.",
                 "ro": "Terasa acoperită oferă protecție în timp ce admirați fațada casei.",
-                "en": "The covered porch provides shelter while you observe the architecture."
+                "en": "The covered porch provides shelter while you observe the architecture.",
+                "bg": "Покритото крило осигурява укритие, докато наблюдавате архитектурата."
               }
             }
           ],
@@ -497,6 +529,12 @@
               "The stone bridge is a slip hazard; cross it with extreme caution.",
               "Use small art galleries as spontaneous shelters during heavy rain.",
               "Try a hot Shkembe Chorba (tripe soup) to warm up in local taverns."
+            ],
+            "bg": [
+              "Непромокаемо яке е по-добро от чадър в тясните улички.",
+              "Каменният мост е риск за подхлъзване; пресичайте го с крайна предпазливост.",
+              "Използвайте малки художествени галерии като спонтанни укрития при силен дъжд.",
+              "Опитайте топла шкембе чорба в местните механи, за да се стоплите."
             ]
           }
         },
@@ -505,7 +543,8 @@
             "de": "Trjawna im Winter ist wie eine Szene aus einem Märchen. Morgens knirscht der Frost unter den Schuhen im Kachaunska-Viertel. Mittags wärmen wir uns in den historischen Klassenzimmern der Schola auf. Der Nachmittag bringt das frühe Licht über die schneebedeckten Dächer, ideal für Ikonen-Fotos. Abends glühen die Lichter des Uhrturms in der kalten Bergluft.",
             "hu": "A téli Trjavna olyan, mintha egy mesekönyv elevenedne meg. Reggel a dér csillog a Kachaunska negyed falain, délben pedig a Schola fűtött termeiben melegszünk fel. A délutáni korai szürkületben a havas tetők és az ikonok aranya különleges fényt kap. Este a toronyóra harangját hallgatjuk a kristálytiszta balkáni hidegben.",
             "ro": "Tryavna iarna pare desprinsă dintr-un basm cu zăpadă. Dimineața, gerul strânge cartierul Kachaunska sub un cer senin. La prânz, ne încălzim în sălile istorice ale școlii vechi. După-amiaza aduce lumina aurie peste acoperișurile troienite, perfectă pentru vizitarea icoanelor. Seara, luminile turnului cu ceas strălucesc în aerul rece de munte.",
-            "en": "Winter in Tryavna feels like a living fairytale scene. Morning frost crunches underfoot in the Kachaunska neighborhood. At noon, we find warmth in the historic classrooms of the Schola. Afternoon brings early twilight over snow-covered roofs, highlighting the icons. Evening settles in with the Clock Tower's chimes echoing through the crisp mountain air."
+            "en": "Winter in Tryavna feels like a living fairytale scene. Morning frost crunches underfoot in the Kachaunska neighborhood. At noon, we find warmth in the historic classrooms of the Schola. Afternoon brings early twilight over snow-covered roofs, highlighting the icons. Evening settles in with the Clock Tower's chimes echoing through the crisp mountain air.",
+            "bg": "Зимата в Трявна е като жива приказна сцена. Сутрешната слана хруска под краката в Качаунския квартал. На обяд намираме топлина в историческите класни стаи на Школа. Следобед носи ранна здрач над покрити със сняг покриви, подчертавайки иконите. Вечерта се установява с камбанния звън на Часовниковата кула, който отеква през свежия планински въздух."
           },
           "stops": [
             {
@@ -514,7 +553,8 @@
                 "de": "Achten Sie auf vereiste Stellen zwischen den Pflastersteinen.",
                 "hu": "Ügyeljen a macskakövek közötti alattomos jegesedésekre.",
                 "ro": "Atenție la porțiunile înghețate dintre pietrele de pavaj.",
-                "en": "Watch out for icy patches hidden between the cobblestones."
+                "en": "Watch out for icy patches hidden between the cobblestones.",
+                "bg": "Внимавайте за заледени участъци, скрити между паважа."
               }
             },
             {
@@ -523,7 +563,8 @@
                 "de": "Vorsicht vor Glatteis auf dem Scheitelpunkt der Brücke.",
                 "hu": "Fokozott óvatosság: a híd teteje gyakran lefagy télen.",
                 "ro": "Atenție sporită: culmea podului îngheață adesea iarna.",
-                "en": "Extra caution: the top of the bridge often freezes in winter."
+                "en": "Extra caution: the top of the bridge often freezes in winter.",
+                "bg": "Допълнително внимание: върхът на моста често замръзва през зимата."
               }
             },
             {
@@ -532,7 +573,8 @@
                 "de": "Der Turm sieht bei Sonnenuntergang gegen 16:30 Uhr am schönsten aus.",
                 "hu": "A torony 16:30 körüli naplementekor a leglátványosabb a hóban.",
                 "ro": "Turnul arată spectaculos la apus, în jur de ora 16:30.",
-                "en": "The tower looks most spectacular at sunset around 4:30 PM."
+                "en": "The tower looks most spectacular at sunset around 4:30 PM.",
+                "bg": "Кулата изглежда най-впечатляващо на залез около 16:30 ч."
               }
             },
             {
@@ -541,7 +583,8 @@
                 "de": "Innen ist es oft kühler als draußen; behalten Sie den Mantel an.",
                 "hu": "Bent gyakran hidegebb van, mint kint; ne vegye le a kabátját.",
                 "ro": "Interiorul este adesea mai rece decât afară; păstrați haina pe dvs.",
-                "en": "The interior is often colder than outside; keep your coat on."
+                "en": "The interior is often colder than outside; keep your coat on.",
+                "bg": "Интериорът често е по-студен отколкото навън; дръжте връхната си дреха на себе си."
               }
             },
             {
@@ -550,7 +593,8 @@
                 "de": "Die Heizung in den Museumsräumen macht dies zum idealen Aufwärmstopp.",
                 "hu": "A múzeum fűtött termei miatt ez a legjobb hely a felmelegedéshez.",
                 "ro": "Sălile încălzite fac din acest muzeu locul ideal pentru popas.",
-                "en": "The heated museum rooms make this the ideal warming-up stop."
+                "en": "The heated museum rooms make this the ideal warming-up stop.",
+                "bg": "Отоплените музейни зали правят това идеална спирка за стопляне."
               }
             },
             {
@@ -559,7 +603,8 @@
                 "de": "Die 'Sonne' an der Decke wirkt im Winterlicht besonders warm.",
                 "hu": "A mennyezeti fafaragott 'nap' téli fényben különösen ragyogó.",
                 "ro": "Soarele sculptat de pe tavan pare mai luminos în lumina iernii.",
-                "en": "The wood-carved 'sun' on the ceiling looks radiant in winter light."
+                "en": "The wood-carved 'sun' on the ceiling looks radiant in winter light.",
+                "bg": "Дърворезбованият „слънце“ на тавана изглежда сияещ в зимната светлина."
               }
             },
             {
@@ -568,7 +613,8 @@
                 "de": "Besuchen Sie dies vor 16:00 Uhr, um das natürliche Licht zu nutzen.",
                 "hu": "Látogassa meg 16:00 előtt, hogy lássa az ikonokat természetes fénynél.",
                 "ro": "Vizitați înainte de ora 16:00 pentru a prinde lumina naturală.",
-                "en": "Visit before 4:00 PM to see the icons in the best natural light."
+                "en": "Visit before 4:00 PM to see the icons in the best natural light.",
+                "bg": "Посетете преди 16:00 ч., за да видите иконите в най-добрата естествена светлина."
               }
             },
             {
@@ -577,7 +623,8 @@
                 "de": "Der Garten ist im Schnee ein tolles Motiv für Winterfotos.",
                 "hu": "A hófödte udvar kiváló téma a hangulatos téli fotókhoz.",
                 "ro": "Curtea înzăpezită este un subiect excelent pentru fotografii de iarnă.",
-                "en": "The snow-covered yard is a great subject for winter photography."
+                "en": "The snow-covered yard is a great subject for winter photography.",
+                "bg": "Заснеженият двор е чудесен обект за зимна фотография."
               }
             }
           ],
@@ -605,6 +652,12 @@
               "The sun sets early behind the mountains; finish outdoor sights by 4 PM.",
               "Try the local herbal tea with honey in any cafe to warm up.",
               "Be careful of icicles that might hang from the old wooden eaves."
+            ],
+            "bg": [
+              "Носете ботуши с дебела подметка, тъй като каменните подове провеждат студено.",
+              "Слънцето залязва рано зад планините; приключете външните обекти до 16:00 ч.",
+              "Опитайте местен билков чай с мед в някое кафе, за да се стоплите.",
+              "Внимавайте за висулки от лед, които могат да висят от старите дървени стрехи."
             ]
           }
         }
@@ -623,7 +676,8 @@
             "de": "Katschaunska-Viertel",
             "hu": "Kachaunska negyed",
             "ro": "Cartierul Kachaunska",
-            "en": "Kachaunska Neighborhood"
+            "en": "Kachaunska Neighborhood",
+            "bg": "Качаунска квартал"
           },
           "coords": [
             25.4975,
@@ -639,7 +693,8 @@
             "de": "Schließen Sie Ihr Fahrrad ab und spazieren Sie durch die Gassen, um die Atmosphäre aufzusaugen.",
             "hu": "Zárja le a kerékpárját, és sétáljon végig a sikátorokon, hogy magába szívja a hangulatot.",
             "ro": "Încuiați-vă bicicleta și plimbați-vă pe alei pentru a absorbi atmosfera.",
-            "en": "Lock up your bike and stroll through the alleys to soak in the atmosphere."
+            "en": "Lock up your bike and stroll through the alleys to soak in the atmosphere.",
+            "bg": "Заключете колелото си и се разходете из уличките, за да усетите атмосферата."
           }
         },
         {
@@ -647,7 +702,8 @@
             "de": "Buckelbrücke",
             "hu": "Púpos híd",
             "ro": "Podul Cocoșat",
-            "en": "The Humpbacked Bridge"
+            "en": "The Humpbacked Bridge",
+            "bg": "Кривият мост"
           },
           "coords": [
             25.4988,
@@ -663,7 +719,8 @@
             "de": "Fahren Sie vorsichtig, die Brücke ist nur für Fußgänger, also schieben Sie Ihr Fahrrad hinüber.",
             "hu": "Óvatosan közlekedjen, a híd gyalogos, ezért tolja át rajta a kerékpárt.",
             "ro": "Mergeți cu grijă, podul este pietonal, așa că împingeți bicicleta peste el.",
-            "en": "Go carefully, the bridge is pedestrian-only, so walk your bike across."
+            "en": "Go carefully, the bridge is pedestrian-only, so walk your bike across.",
+            "bg": "Вървете внимателно, мостът е само за пешеходци, така че водете колелото си."
           }
         },
         {
@@ -671,7 +728,8 @@
             "de": "Uhrturm",
             "hu": "Óratorony",
             "ro": "Turnul cu Ceas",
-            "en": "Clock Tower"
+            "en": "Clock Tower",
+            "bg": "Часовникова кула"
           },
           "coords": [
             25.4992,
@@ -687,7 +745,8 @@
             "de": "Ein guter Ort, um Ihr Fahrrad kurz abzustellen und die zentrale Platzgegend zu erkunden.",
             "hu": "Jó hely a kerékpár rövid leparkolására és a központi tér felfedezésére.",
             "ro": "Un loc bun pentru a vă parca bicicleta pentru scurt timp și a explora zona pieței centrale.",
-            "en": "A good place to park your bike for a bit and explore the central square area."
+            "en": "A good place to park your bike for a bit and explore the central square area.",
+            "bg": "Добро място да заключите колелото за малко и да разгледате централния площад."
           }
         },
         {
@@ -695,7 +754,8 @@
             "de": "Kirche des Erzengels Michael",
             "hu": "Szent Mihály Arkangyal templom",
             "ro": "Biserica Sfântul Arhanghel Mihail",
-            "en": "Church of St. Archangel Michael"
+            "en": "Church of St. Archangel Michael",
+            "bg": "Църква „Св. Архангел Михаил“"
           },
           "coords": [
             25.498,
@@ -711,7 +771,8 @@
             "de": "Zeigen Sie Respekt, parken Sie Ihr Fahrrad draußen und betreten Sie die Kirche leise.",
             "hu": "Tanúsítson tiszteletet, parkolja le a kerékpárt kint, és csendben lépjen be a templomba.",
             "ro": "Arătați respect, parcați bicicleta afară și intrați în biserică în liniște.",
-            "en": "Show respect, park your bike outside and enter the church quietly."
+            "en": "Show respect, park your bike outside and enter the church quietly.",
+            "bg": "Покажете уважение, паркирайте колелото си навън и влезте в църквата тихо."
           }
         },
         {
@@ -719,7 +780,8 @@
             "de": "Alte Schule (Schola)",
             "hu": "Régi Iskola (Schola)",
             "ro": "Școala Veche (Schola)",
-            "en": "The Old School (Schola)"
+            "en": "The Old School (Schola)",
+            "bg": "Старото училище (Школа)"
           },
           "coords": [
             25.4972,
@@ -735,7 +797,8 @@
             "de": "Hier gibt es Fahrradständer. Nehmen Sie sich Zeit für dieses wichtige Museum.",
             "hu": "Vannak itt kerékpártárolók. Szánjon időt erre a fontos múzeumra.",
             "ro": "Există suporturi pentru biciclete aici. Luați-vă timp pentru acest muzeu important.",
-            "en": "There are bike racks available here. Take your time for this important museum."
+            "en": "There are bike racks available here. Take your time for this important museum.",
+            "bg": "Има стойки за велосипеди тук. Отделете време за този важен музей."
           }
         },
         {
@@ -743,7 +806,8 @@
             "de": "Daskalow-Haus",
             "hu": "Daskalov-ház",
             "ro": "Casa Daskalov",
-            "en": "Daskalov House"
+            "en": "Daskalov House",
+            "bg": "Къща Даскалов"
           },
           "coords": [
             25.4955,
@@ -759,7 +823,8 @@
             "de": "Die schmalen Gassen hier sind reizvoll, aber fahren Sie vorsichtig.",
             "hu": "A szűk sikátorok itt bájosak, de óvatosan közlekedjen.",
             "ro": "Străduțele înguste de aici sunt fermecătoare, dar mergeți cu atenție.",
-            "en": "The narrow alleys here are charming, but ride carefully."
+            "en": "The narrow alleys here are charming, but ride carefully.",
+            "bg": "Тесните улички тук са очарователни, но карайте внимателно."
           }
         },
         {
@@ -767,7 +832,8 @@
             "de": "Museum der Ikonenmalerei",
             "hu": "Ikonfestészeti Múzeum",
             "ro": "Muzeul de Pictură a Icoanelor",
-            "en": "Museum of Icon Painting"
+            "en": "Museum of Icon Painting",
+            "bg": "Музей на иконописта"
           },
           "coords": [
             25.4965,
@@ -783,7 +849,8 @@
             "de": "Ein Muss für Kunstliebhaber. Planen Sie genügend Zeit ein, um die Sammlung zu würdigen.",
             "hu": "A művészetkedvelők számára kötelező. Tervezzen elég időt a gyűjtemény megbecsülésére.",
             "ro": "O vizită obligatorie pentru iubitorii de artă. Planificați suficient timp pentru a aprecia colecția.",
-            "en": "A must-visit for art lovers. Plan enough time to appreciate the collection."
+            "en": "A must-visit for art lovers. Plan enough time to appreciate the collection.",
+            "bg": "Задължително за любителите на изкуството. Планирайте достатъчно време, за да оцените колекцията."
           }
         },
         {
@@ -791,7 +858,8 @@
             "de": "Raikow-Haus",
             "hu": "Raykov-ház",
             "ro": "Casa Raykov",
-            "en": "Raykov House"
+            "en": "Raykov House",
+            "bg": "Къща Райков"
           },
           "coords": [
             25.494,
@@ -807,7 +875,8 @@
             "de": "Der letzte Halt bietet einen tiefen Einblick in das bürgerliche Leben der Wiedergeburtszeit.",
             "hu": "Az utolsó megálló mély betekintést nyújt az újjászületés kori polgári életbe.",
             "ro": "Ultima oprire oferă o perspectivă profundă asupra vieții burgheze din perioada Renașterii.",
-            "en": "The final stop offers a deep dive into the bourgeois life of the Revival period."
+            "en": "The final stop offers a deep dive into the bourgeois life of the Revival period.",
+            "bg": "Последната спирка предлага задълбочено вглеждане в буржоазния живот от възрожденския период."
           }
         }
       ],
@@ -815,7 +884,8 @@
         "de": "Ihr Radtag in Trjawna beginnt im historischen Katschaunska-Viertel. Der Vormittag ist eine schnelle Tour zu den Wahrzeichen: Sie rollen zur Buckelbrücke, hören den Uhrturm und halten an der Kirche des Erzengels Michael inne. Die Alte Schule bietet eine längere Pause, um in die bulgarische Geschichte einzutauchen.\nDie Mittagszeit ist perfekt für ein schnelles, aber sättigendes bulgarisches Mittagessen in einer lokalen Mehana. Gestärkt fahren Sie zum Daskalow-Haus, um dessen unglaubliche Holzschnitzereien zu bewundern. Am Nachmittag widmen Sie sich der Kunst im Museum für Ikonenmalerei und dem Raikow-Haus.\nAm späten Nachmittag können Sie die Flexibilität Ihres Fahrrads nutzen, um versteckte Gassen und Handwerksläden zu entdecken. Die kompakte Größe von Trjawna macht das Radfahren einfach und effizient und ermöglicht es Ihnen, mehr in kürzerer Zeit zu sehen.\nBeenden Sie Ihren Tag, indem Sie am Flussufer entlangfahren und die ruhige Abendatmosphäre genießen. Trjawna mit dem Fahrrad zu erkunden, bietet eine einzigartige Mischung aus aktiver Entdeckung und kulturellem Eintauchen.",
         "hu": "A kerékpáros nap Trjavnában a történelmi Kachaunska negyedben kezdődik. A délelőtt egy gyors körút a nevezetességekhez: elgurul a Púpos hídhoz, meghallgatja az Óratornyot, és megáll a Szent Mihály Arkangyal templomnál. A Régi Iskola hosszabb pihenőt kínál a bolgár történelembe való elmélyüléshez.\nAz ebédidő tökéletes egy gyors, de laktató bolgár ebédre egy helyi mehanában. Megerősödve tekerjen a Daskalov-házhoz, hogy megcsodálja hihetetlen fafaragásait. Délután szentelje magát a művészetnek az Ikonfestészeti Múzeumban és a Raykov-házban.\nKéső délután használja ki a kerékpár rugalmasságát, hogy felfedezze a rejtett sikátorokat és kézműves boltokat. Trjavna kompakt mérete egyszerűvé és hatékonnyá teszi a kerékpározást, lehetővé téve, hogy többet lásson rövidebb idő alatt.\nZárja a napot a folyóparton való kerékpározással, élvezve a csendes esti hangulatot. Trjavna kerékpáros felfedezése az aktív felfedezés és a kulturális elmélyülés egyedülálló keverékét kínálja.",
         "ro": "Ziua dvs. pe bicicletă în Tryavna începe în cartierul istoric Kachaunska. Dimineața este un tur rapid al reperelor: pedalați până la Podul Cocoșat, ascultați Turnul cu Ceas și opriți-vă la Biserica Sf. Arhanghel Mihail. Școala Veche oferă o pauză mai lungă pentru a pătrunde în istoria bulgară.\nPrânzul este perfect pentru o masă bulgărească rapidă, dar sățioasă, la o mehana locală. Revigorat, mergeți la Casa Daskalov pentru a admira incredibilele sale sculpturi în lemn. După-amiaza este dedicată artei la Muzeul de Pictură a Icoanelor și la Casa Raykov.\nSpre sfârșitul după-amiezii, folosiți flexibilitatea bicicletei pentru a explora alei ascunse și magazine de artizanat. Dimensiunea compactă a orașului Tryavna face ciclismul ușor și eficient, permițându-vă să vedeți mai multe în mai puțin timp.\nÎncheiați ziua pedalând de-a lungul malului râului, bucurându-vă de atmosfera liniștită de seară. Explorarea orașului Tryavna pe bicicletă oferă un amestec unic de descoperire activă și imersiune culturală.",
-        "en": "Your cycling day in Tryavna starts in the historic Kachaunska neighborhood. The morning is a quick tour of landmarks: rolling to the Humpbacked Bridge, hearing the Clock Tower, and pausing at the Church of St. Archangel Michael. The Old School offers a longer break to dive into Bulgarian history.\nLunchtime is perfect for a quick but filling Bulgarian meal at a local mehana. Re-energized, you'll ride to the Daskalov House to admire its incredible woodcarvings. The afternoon is for art at the Museum of Icon Painting and the Raykov House.\nIn the late afternoon, use the flexibility of your bike to explore hidden alleys and craft shops. Tryavna's compact size makes biking easy and efficient, allowing you to see more in less time.\nEnd your day by riding along the riverbank, enjoying the quiet evening atmosphere. Exploring Tryavna by bike offers a unique blend of active discovery and cultural immersion."
+        "en": "Your cycling day in Tryavna starts in the historic Kachaunska neighborhood. The morning is a quick tour of landmarks: rolling to the Humpbacked Bridge, hearing the Clock Tower, and pausing at the Church of St. Archangel Michael. The Old School offers a longer break to dive into Bulgarian history.\nLunchtime is perfect for a quick but filling Bulgarian meal at a local mehana. Re-energized, you'll ride to the Daskalov House to admire its incredible woodcarvings. The afternoon is for art at the Museum of Icon Painting and the Raykov House.\nIn the late afternoon, use the flexibility of your bike to explore hidden alleys and craft shops. Tryavna's compact size makes biking easy and efficient, allowing you to see more in less time.\nEnd your day by riding along the riverbank, enjoying the quiet evening atmosphere. Exploring Tryavna by bike offers a unique blend of active discovery and cultural immersion.",
+        "bg": "Велоденят ви в Трявна започва в историческия Качаунски квартал. Сутринта е кратко разглеждане на забележителности: преминаване към Кривия мост, слушане на Часовниковата кула и спиране при църквата „Св. Архангел Михаил“. Старото училище предлага по-дълга пауза, за да потънете в българската история.\nВремето за обяд е перфектно за бърз, но засищащ български обяд в местна механа. След като си възстановите енергията, ще карате до Къща Даскалов, за да се възхитите на невероятните дърворезби. Следобедът е за изкуство в Музея на иконописта и Къща Райков.\nКъсно следобед използвайте гъвкавостта на велосипеда си, за да изследвате скрити улички и занаятчийски магазини. Компактният размер на Трявна прави карането лесно и ефективно, позволявайки ви да видите повече за по-малко време.\nЗавършете деня, като карате по речния бряг и се насладите на тихата вечерна атмосфера. Разглеждането на Трявна с велосипед предлага уникална комбинация от активно откриване и културно потапяне."
       },
       "gastro_picks": {
         "de": [
@@ -991,6 +1061,12 @@
           "The cobblestones can be bumpy, so ride slowly in the historic areas.",
           "Tryavna is small, so you can easily reach all the main sights by bike.",
           "Plan to lock up your bike and walk during museum visits."
+        ],
+        "bg": [
+          "Вземете добро заключване за велосипеда си.",
+          "Паважът може да бъде неравен, така че карайте бавно в историческите райони.",
+          "Трявна е малка, така че лесно можете да достигнете всички основни забележителности с велосипед.",
+          "Планирайте да заключите колелото и да ходите пеш при посещения в музеи."
         ]
       },
       "variants": {
@@ -999,7 +1075,8 @@
             "de": "Radfahren im Regen erfordert in Trjawna Vorsicht. Morgens erkunden wir das Kachaunska-Viertel auf nassen Reifen. Mittags parken wir trocken bei der Schola. Nachmittags radeln wir zwischen den historischen Häusern, wobei wir die glatten Kurven meiden. Abends belohnen wir uns für die Ausdauer mit einem herzhaften bulgarischen Mahl.",
             "hu": "Az esőben való biciklizés Trjavnában óvatosságot igényel. Reggel nedves gumiabroncsokon gurulunk át a Kachaunska negyeden, délben pedig a Schola mellett parkolunk le szárazon. Délután a történelmi házak között tekerünk, kerülve a csúszós kanyarokat. Este egy kiadós bolgár vacsorával jutalmazzuk meg magunkat.",
             "ro": "Ciclismul pe ploaie în Tryavna necesită prudență. Dimineața explorăm cartierul Kachaunska pe anvelope umede. La prânz parcăm în siguranță lângă școală. După-amiaza pedalăm printre casele istorice, evitând virajele strânse pe piatră udă. Seara ne recompensăm cu o masă bulgărească consistentă.",
-            "en": "Cycling in the rain requires focus in Tryavna. Morning starts on wet tires through the Kachaunska district. At noon, we park and dry off at the Schola. Afternoon involves riding between historic landmarks while avoiding slick corners. Evening is a reward for our endurance with a hearty Bulgarian feast."
+            "en": "Cycling in the rain requires focus in Tryavna. Morning starts on wet tires through the Kachaunska district. At noon, we park and dry off at the Schola. Afternoon involves riding between historic landmarks while avoiding slick corners. Evening is a reward for our endurance with a hearty Bulgarian feast.",
+            "bg": "Карането под дъжда изисква концентрация в Трявна. Сутринта започва с мокри гуми през Качаунския район. На обяд паркираме и се подсушаваме в Школа. Следобедът включва каране между историческите забележителности, като се избягват хлъзгави завои. Вечерта е възнаграждение с питателна българска трапеза."
           },
           "stops": [
             {
@@ -1008,7 +1085,8 @@
                 "de": "Reduzieren Sie den Reifendruck leicht für besseren Grip auf nassen Steinen.",
                 "hu": "Csökkentse kissé a guminyomást a jobb tapadásért a vizes köveken.",
                 "ro": "Reduceți ușor presiunea în pneuri pentru aderență pe piatra udă.",
-                "en": "Lower your tire pressure slightly for better grip on wet stones."
+                "en": "Lower your tire pressure slightly for better grip on wet stones.",
+                "bg": "Намалете леко въздура в гумите за по-добро сцепление на мокри камъни."
               }
             },
             {
@@ -1017,7 +1095,8 @@
                 "de": "Steigen Sie ab und schieben Sie; das Radfahren auf der Brücke ist bei Regen gefährlich.",
                 "hu": "Szálljon le és tolja; esőben a hídon tekerni veszélyes és tilos.",
                 "ro": "Coborâți și împingeți bicicleta; este periculos să pedalați pe pod pe ploaie.",
-                "en": "Dismount and walk your bike; cycling on the bridge is dangerous when wet."
+                "en": "Dismount and walk your bike; cycling on the bridge is dangerous when wet.",
+                "bg": "Слезте и водете колелото; карането на моста е опасно при мокро."
               }
             },
             {
@@ -1026,7 +1105,8 @@
                 "de": "Parken Sie unter einem Vordach, um den Sattel trocken zu halten.",
                 "hu": "Parkoljon egy eresz alá, hogy az ülése száraz maradjon.",
                 "ro": "Parcați sub o streașină pentru a păstra șaua uscată.",
-                "en": "Park under an overhang to keep your saddle dry while looking around."
+                "en": "Park under an overhang to keep your saddle dry while looking around.",
+                "bg": "Паркирайте под навес, за да запазите седалката си суха, докато разглеждате."
               }
             },
             {
@@ -1035,7 +1115,8 @@
                 "de": "Sichern Sie Ihr Rad an einem festen Punkt und nutzen Sie den Kircheneingang als Schutz.",
                 "hu": "Zárja le a biciklit, és használja a templombejáratot esővédőként.",
                 "ro": "Legat bicicleta și folosiți intrarea bisericii ca adăpost temporar.",
-                "en": "Lock your bike and use the church entrance as a temporary rain shelter."
+                "en": "Lock your bike and use the church entrance as a temporary rain shelter.",
+                "bg": "Заключете колелото си и използвайте входа на църквата като временно убежище от дъжда."
               }
             },
             {
@@ -1044,7 +1125,8 @@
                 "de": "Nutzen Sie den langen Stopp, um Ihre Kleidung etwas zu trocknen.",
                 "hu": "Használja ki a hosszú megállót a ruházata megszárítására.",
                 "ro": "Folosiți oprirea lungă pentru a vă usca puțin echipamentul.",
-                "en": "Use this long indoor stop to dry off your gear and clothing."
+                "en": "Use this long indoor stop to dry off your gear and clothing.",
+                "bg": "Използвайте тази продължителна вътрешна пауза, за да подсушите екипировката и дрехите си."
               }
             },
             {
@@ -1053,7 +1135,8 @@
                 "de": "Es gibt Fahrradständer in der Nähe; achten Sie auf glatte Blätter am Boden.",
                 "hu": "Vannak kerékpártárolók a közelben; ügyeljen a vizes levelekre a földön.",
                 "ro": "Există rastele în apropiere; atenție la frunzele umede de pe jos.",
-                "en": "Bike racks are nearby; watch out for slippery wet leaves on the ground."
+                "en": "Bike racks are nearby; watch out for slippery wet leaves on the ground.",
+                "bg": "Багажник за велосипеди е наблизо; внимавайте за хлъзгави мокри листа по земята."
               }
             },
             {
@@ -1062,7 +1145,8 @@
                 "de": "Wischen Sie Ihre Felgen ab, bevor Sie weiterfahren, für bessere Bremskraft.",
                 "hu": "Törölje le a felniket indulás előtt a jobb fékerő érdekében.",
                 "ro": "Ștergeți jantele înainte de plecare pentru o frânare mai eficientă.",
-                "en": "Wipe your rims before continuing for better braking performance."
+                "en": "Wipe your rims before continuing for better braking performance.",
+                "bg": "Изтрийте джантите преди да продължите за по-добро спиране."
               }
             },
             {
@@ -1071,7 +1155,8 @@
                 "de": "Der letzte Stopp bietet eine gute Gelegenheit, die Route zum Hotel zu prüfen.",
                 "hu": "Az utolsó megálló jó alkalom a szálláshoz vezető legrövidebb út ellenőrzésére.",
                 "ro": "Ultima oprire e un moment bun să verificați ruta cea mai scurtă spre hotel.",
-                "en": "The final stop is a good time to check the shortest route back to shelter."
+                "en": "The final stop is a good time to check the shortest route back to shelter.",
+                "bg": "Последната спирка е подходящ момент да проверите най-краткия път обратно до укритие."
               }
             }
           ],
@@ -1099,6 +1184,12 @@
               "Wear high-visibility rain gear as visibility decreases in the rain.",
               "Mudguards are essential in Tryavna to protect against backsplash.",
               "Bridges and tight turns in the old quarter are treacherous when wet."
+            ],
+            "bg": [
+              "Избягвайте рязко спиране по мокрите калдъръми, за да предотвратите подхлъзване.",
+              "Носете високоотразимо дъждобраново облекло, тъй като видимостта намалява при дъжд.",
+              "Калниците са задължителни в Трявна, за да предпазват от пръски.",
+              "Мостовете и тесните завои в стария квартал са опасни, когато са влажни."
             ]
           }
         },
@@ -1107,7 +1198,8 @@
             "de": "Winter-Biking in den Balkanküsten von Trjawna ist erfrischend. Morgens fahren wir vorsichtig durch den Frost im Kachaunska-Viertel. Mittags ist die Schola unsere Wärmestation. Der Nachmittag bietet klare Sicht auf die schneebedeckten Berge, bevor die Dunkelheit uns früh in die warme Mehana treibt, wo der Kamin bereits knistert.",
             "hu": "A téli kerékpározás a Balkán lábainál frissítő élmény. Reggel óvatosan vágunk át a Kachaunska negyed jeges utcáin, délben pedig a Schola fűtött termeiben engedünk fel. Délután tiszta rálátás nyílik a havas hegyekre, mielőtt a korai sötétség a kandalló mellé csábítana minket egy meleg tavernábba.",
             "ro": "Ciclismul de iarnă la poalele Balcanilor este revigorant. Dimineața pedalăm cu grijă prin gerul din Kachaunska. La prânz, școala veche devine stația noastră de încălzire. După-amiaza oferă vederi clare spre munții înzăpeziți, înainte ca întunericul să ne trimită devreme spre o mehană cu șemineu.",
-            "en": "Winter biking at the foot of the Balkans is refreshing but cold. Morning involves careful riding through frozen Kachaunska. At noon, the Schola serves as our warming station. Afternoon offers clear views of snow-capped mountains before early darkness leads us to a warm tavern with a crackling fireplace."
+            "en": "Winter biking at the foot of the Balkans is refreshing but cold. Morning involves careful riding through frozen Kachaunska. At noon, the Schola serves as our warming station. Afternoon offers clear views of snow-capped mountains before early darkness leads us to a warm tavern with a crackling fireplace.",
+            "bg": "Зимното каране с велосипед в подножието на Балкана е освежаващо, но студено. Сутринта включва внимателно каране през заскрежената Качаунска. На обяд Школата служи като нашата станция за затопляне. Следобед предлага ясни гледки към заснежените върхове преди ранната тъмнина да ни отведе в топла механа с пукащ огън."
           },
           "stops": [
             {
@@ -1116,7 +1208,8 @@
                 "de": "Achten Sie auf Raureif, der die Steine spiegelglatt machen kann.",
                 "hu": "Ügyeljen a dérre, amely tükörsimává teszi a köveket.",
                 "ro": "Atenție la chiciura care face pietrele extrem de alunecoase.",
-                "en": "Watch out for hoarfrost that can make stones slippery as glass."
+                "en": "Watch out for hoarfrost that can make stones slippery as glass.",
+                "bg": "Внимавайте за скреж, който може да направи камъните хлъзгави като стъкло."
               }
             },
             {
@@ -1125,7 +1218,8 @@
                 "de": "Schieben Sie das Rad; das Eis auf der Wölbung ist unvorhersehbar.",
                 "hu": "Tolja a biciklit; a híd ívén lévő jég kiszámíthatatlan.",
                 "ro": "Împingeți bicicleta; gheața de pe curbura podului este înșelătoare.",
-                "en": "Walk your bike; the ice on the bridge's curve is unpredictable."
+                "en": "Walk your bike; the ice on the bridge's curve is unpredictable.",
+                "bg": "Ходете с велосипеда до себе си; ледът на извивката на моста е непредсказуем."
               }
             },
             {
@@ -1134,7 +1228,8 @@
                 "de": "Vermeiden Sie langes Stehenbleiben, um nicht auszukühlen.",
                 "hu": "Ne álljon meg sokáig, hogy elkerülje a test kihűlését.",
                 "ro": "Nu staționați mult timp pentru a evita răcirea corpului.",
-                "en": "Avoid standing still for too long to keep your body temperature up."
+                "en": "Avoid standing still for too long to keep your body temperature up.",
+                "bg": "Избягвайте да стоите неподвижно твърде дълго, за да запазите телесната си температура."
               }
             },
             {
@@ -1143,7 +1238,8 @@
                 "de": "Nutzen Sie den Besuch für eine kurze Pause vom kalten Fahrtwind.",
                 "hu": "Használja ki a látogatást egy rövid pihenőre a hideg menetszéltől.",
                 "ro": "Folosiți vizita pentru o scurtă pauză de la vântul rece de rulare.",
-                "en": "Use the visit as a brief shield from the biting headwind."
+                "en": "Use the visit as a brief shield from the biting headwind.",
+                "bg": "Използвайте посещението като кратък щит от пронизващия фронтален вятър."
               }
             },
             {
@@ -1152,7 +1248,8 @@
                 "de": "Dies ist der wichtigste Stopp, um die Finger wieder beweglich zu machen.",
                 "hu": "Ez a legfontosabb megálló, hogy ujjai újra mozogni tudjanak.",
                 "ro": "Aceasta este cea mai importantă oprire pentru a vă dezmorți degetele.",
-                "en": "This is the most crucial stop to regain feeling in your fingers."
+                "en": "This is the most crucial stop to regain feeling in your fingers.",
+                "bg": "Това е най-важната спирка, за да си върнете чувствителността в пръстите."
               }
             },
             {
@@ -1161,7 +1258,8 @@
                 "de": "Prüfen Sie Ihre Bremsen; Gummi wird bei extremer Kälte härter.",
                 "hu": "Ellenőrizze a fékeket; a gumi megkeményedik a nagy hidegben.",
                 "ro": "Verificați frânele; cauciucul saboților se întărește la ger.",
-                "en": "Check your brakes; brake pads can harden in extreme cold."
+                "en": "Check your brakes; brake pads can harden in extreme cold.",
+                "bg": "Проверете спирачките; спирачните накладки могат да втвърдят при екстремен студ."
               }
             },
             {
@@ -1170,7 +1268,8 @@
                 "de": "Die Wärme im Museum schützt Ihre Akkus vor dem schnellen Entladen.",
                 "hu": "A múzeumi meleg védi az elektronikus eszközei akkumulátorát.",
                 "ro": "Căldura din muzeu protejează bateriile dispozitivelor electronice.",
-                "en": "The museum's warmth helps preserve your electronic device batteries."
+                "en": "The museum's warmth helps preserve your electronic device batteries.",
+                "bg": "Топлината в музея помага да се запазят батериите на електронните ви устройства."
               }
             },
             {
@@ -1179,7 +1278,8 @@
                 "de": "Schließen Sie die Tour vor 17:00 Uhr ab, da es dann stockfinster wird.",
                 "hu": "Fejezze be a túrát 17:00-ig, mert hirtelen sötétedik be.",
                 "ro": "Încheiați turul până la ora 17:00, deoarece se întunecă brusc.",
-                "en": "Finish the tour by 5 PM as it gets pitch dark very quickly."
+                "en": "Finish the tour by 5 PM as it gets pitch dark very quickly.",
+                "bg": "Приключете обиколката до 17:00, тъй като много бързо става плътна тъмнина."
               }
             }
           ],
@@ -1207,6 +1307,12 @@
               "Avoid shaded alleys where ice persists the longest throughout the day.",
               "Bike lights are mandatory as winter days are very short here.",
               "A hot herbal tea during the museum break works wonders against frost."
+            ],
+            "bg": [
+              "Носете термо ръкавици; със сковани пръсти е невъзможно да спирате.",
+              "Избягвайте засенчените улички, където ледът се задържа най-дълго през деня.",
+              "Светлините за велосипед са задължителни, тъй като зимните дни тук са много кратки.",
+              "Горещ билков чай по време на паузата в музея прави чудеса срещу зимник."
             ]
           }
         }
@@ -1225,7 +1331,8 @@
             "de": "Zentraler Parkplatz",
             "hu": "Központi Parkoló",
             "ro": "Parcare Centrală",
-            "en": "Central Parking"
+            "en": "Central Parking",
+            "bg": "Централен паркинг"
           },
           "coords": [
             25.495,
@@ -1241,7 +1348,8 @@
             "de": "Parken Sie hier Ihr Auto für den Tag. Das gesamte historische Zentrum ist ein Fußgängercluster.",
             "hu": "Parkolja le itt az autóját egész napra. Az egész történelmi központ egy gyalogos zóna.",
             "ro": "Parcați-vă mașina aici pentru întreaga zi. Întregul centru istoric este un cluster pietonal.",
-            "en": "Park your car here for the day. The entire historic center is one pedestrian cluster."
+            "en": "Park your car here for the day. The entire historic center is one pedestrian cluster.",
+            "bg": "Паркирайте колата си тук за деня. Целият исторически център е един пешеходен комплекс."
           }
         },
         {
@@ -1249,7 +1357,8 @@
             "de": "Katschaunska-Viertel & Buckelbrücke",
             "hu": "Kachaunska negyed és Púpos híd",
             "ro": "Cartierul Kachaunska & Podul Cocoșat",
-            "en": "Kachaunska Neighborhood & Humpbacked Bridge"
+            "en": "Kachaunska Neighborhood & Humpbacked Bridge",
+            "bg": "Качаунска махала и Кривият мост"
           },
           "coords": [
             25.4975,
@@ -1265,7 +1374,8 @@
             "de": "Beginnen Sie Ihren Rundgang hier, die beiden Sehenswürdigkeiten liegen direkt nebeneinander.",
             "hu": "Kezdje itt a gyalogtúrát, a két látnivaló közvetlenül egymás mellett található.",
             "ro": "Începeți turul pietonal de aici, cele două atracții sunt chiar una lângă alta.",
-            "en": "Start your walking tour here, the two sights are right next to each other."
+            "en": "Start your walking tour here, the two sights are right next to each other.",
+            "bg": "Започнете пешеходната обиколка тук, двете забележителности са една до друга."
           }
         },
         {
@@ -1273,7 +1383,8 @@
             "de": "Uhrturm & Kirche des Erzengels Michael",
             "hu": "Óratorony és Szent Mihály Arkangyal templom",
             "ro": "Turnul cu Ceas & Biserica Sf. Arhanghel Mihail",
-            "en": "Clock Tower & Church of St. Archangel Michael"
+            "en": "Clock Tower & Church of St. Archangel Michael",
+            "bg": "Часовникова кула и църква „Св. Архангел Михаил“"
           },
           "coords": [
             25.499,
@@ -1289,7 +1400,8 @@
             "de": "Diese beiden Wahrzeichen bilden das Herz des Platzes. Nehmen Sie sich Zeit für beide.",
             "hu": "Ez a két nevezetesség alkotja a tér szívét. Szánjon időt mindkettőre.",
             "ro": "Aceste două repere formează inima pieței. Luați-vă timp pentru ambele.",
-            "en": "These two landmarks form the heart of the square. Take time for both."
+            "en": "These two landmarks form the heart of the square. Take time for both.",
+            "bg": "Тези две забележителности формират сърцето на площада. Отделете време за и двете."
           }
         },
         {
@@ -1297,7 +1409,8 @@
             "de": "Alte Schule (Schola)",
             "hu": "Régi Iskola (Schola)",
             "ro": "Școala Veche (Schola)",
-            "en": "The Old School (Schola)"
+            "en": "The Old School (Schola)",
+            "bg": "Старата школа (Школа)"
           },
           "coords": [
             25.4972,
@@ -1313,7 +1426,8 @@
             "de": "Ein kurzer Spaziergang vom Platz entfernt, beherbergt dieses Museum einen wichtigen Teil der bulgarischen Geschichte.",
             "hu": "A tértől egy rövid sétára található múzeum a bolgár történelem egy fontos részét őrzi.",
             "ro": "La o scurtă plimbare de piață, acest muzeu deține o parte importantă a istoriei bulgare.",
-            "en": "A short walk from the square, this museum holds an important piece of Bulgarian history."
+            "en": "A short walk from the square, this museum holds an important piece of Bulgarian history.",
+            "bg": "На кратка разходка от площада, този музей съхранява важен фрагмент от българската история."
           }
         },
         {
@@ -1321,7 +1435,8 @@
             "de": "Daskalow-Haus",
             "hu": "Daskalov-ház",
             "ro": "Casa Daskalov",
-            "en": "Daskalov House"
+            "en": "Daskalov House",
+            "bg": "Къща Даскалов"
           },
           "coords": [
             25.4955,
@@ -1337,7 +1452,8 @@
             "de": "Nach dem Mittagessen spazieren Sie zu diesem Haus, um die berühmten Sonnen-Decken zu sehen.",
             "hu": "Ebéd után sétáljon el ehhez a házhoz, hogy megnézze a híres nap-mennyezeteket.",
             "ro": "După prânz, faceți o plimbare până la această casă pentru a vedea faimoasele tavane solare.",
-            "en": "After lunch, stroll over to this house to see the famous sun ceilings."
+            "en": "After lunch, stroll over to this house to see the famous sun ceilings.",
+            "bg": "След обяд се разходете до тази къща, за да видите прочутите слънчеви тавани."
           }
         },
         {
@@ -1345,7 +1461,8 @@
             "de": "Museum der Ikonenmalerei",
             "hu": "Ikonfestészeti Múzeum",
             "ro": "Muzeul de Pictură a Icoanelor",
-            "en": "Museum of Icon Painting"
+            "en": "Museum of Icon Painting",
+            "bg": "Музей на иконописната школа"
           },
           "coords": [
             25.4965,
@@ -1361,7 +1478,8 @@
             "de": "Bewundern Sie die Kunstfertigkeit der Trjawna-Malschule.",
             "hu": "Csodálja meg a trjavnai festőiskola művészetét.",
             "ro": "Admirați măiestria școlii de pictură din Tryavna.",
-            "en": "Admire the artistry of the Tryavna painting school."
+            "en": "Admire the artistry of the Tryavna painting school.",
+            "bg": "Възхитете се на майсторството на търновската/тряванската живописна школа."
           }
         },
         {
@@ -1369,7 +1487,8 @@
             "de": "Raikow-Haus",
             "hu": "Raykov-ház",
             "ro": "Casa Raykov",
-            "en": "Raykov House"
+            "en": "Raykov House",
+            "bg": "Къща Райкови"
           },
           "coords": [
             25.494,
@@ -1385,7 +1504,8 @@
             "de": "Ihr letzter Halt, bevor Sie zu Ihrem Auto zurückkehren. Ein Einblick in das Leben des 19. Jahrhunderts.",
             "hu": "Az utolsó megálló, mielőtt visszatérne az autójához. Betekintés a 19. századi életbe.",
             "ro": "Ultima oprire înainte de a vă întoarce la mașină. O incursiune în viața secolului al XIX-lea.",
-            "en": "Your final stop before heading back to your car. A glimpse into 19th-century life."
+            "en": "Your final stop before heading back to your car. A glimpse into 19th-century life.",
+            "bg": "Вашата последна спирка преди връщане към колата. Поглед към живота през XIX век."
           }
         }
       ],
@@ -1393,7 +1513,8 @@
         "de": "Sie kommen mit dem Auto in Trjawna an und parken zentral. Der ganze Tag ist ein einziger Spaziergang durch ein lebendiges Museum. Am Vormittag erkunden Sie das historische Herzstück: das Katschaunska-Viertel, die Buckelbrücke, den Uhrturm und die Kirche. Der Höhepunkt ist die Alte Schule, ein Zeugnis der bulgarischen Aufklärung.\nNach einem traditionellen Mittagessen in einer lokalen Mehana geht Ihr Spaziergang weiter. Der Nachmittag ist der berühmten Handwerkskunst von Trjawna gewidmet. Sie besuchen das Daskalow-Haus mit seinen legendären Holzdecken, das Museum für Ikonenmalerei und das Raikow-Haus, um in die Vergangenheit einzutauchen.\nAm späten Nachmittag haben Sie die Freiheit, durch die Handwerkerstraßen zu schlendern, ohne sich um das Parken kümmern zu müssen. Die Cluster-Walking-Philosophie glänzt hier und verwandelt die kleine Stadt in ein einziges, großes, begehbares Erlebnis.\nAm Ende des Tages kehren Sie zu Ihrem Auto zurück, erfüllt von der reichen Kunst und Geschichte, die Sie zu Fuß entdeckt haben. Trjawna mit dem Auto zu besuchen bedeutet Bequemlichkeit bei der Anreise und vollständiges Eintauchen vor Ort.",
         "hu": "Autóval érkezik Trjavnába, és központilag parkol. Az egész nap egyetlen séta egy élő múzeumon keresztül. Délelőtt felfedezi a történelmi központot: a Kachaunska negyedet, a Púpos hidat, az Óratornyot és a templomot. A csúcspont a Régi Iskola, a bolgár felvilágosodás tanúja.\nEgy helyi mehanában elköltött hagyományos ebéd után folytatódik a séta. A délután Trjavna híres kézművességének van szentelve. Meglátogatja a Daskalov-házat legendás famennyezeteivel, az Ikonfestészeti Múzeumot és a Raykov-házat, hogy elmerüljön a múltban.\nKéső délután szabadon sétálhat a kézműves utcákon anélkül, hogy a parkolás miatt kellene aggódnia. A „cluster-walking” filozófia itt ragyog, a kisvárost egyetlen, nagy, bejárható élménnyé változtatva.\nEste térjen vissza az autójához, tele a gyalogosan felfedezett gazdag művészettel és történelemmel. Trjavna autóval való meglátogatása kényelmes érkezést és teljes helyi elmélyülést jelent.",
         "ro": "Ajungeți cu mașina în Tryavna și parcați central. Întreaga zi este o singură plimbare printr-un muzeu viu. Dimineața explorați inima istorică: cartierul Kachaunska, Podul Cocoșat, Turnul cu Ceas și biserica. Punctul culminant este Școala Veche, o mărturie a iluminismului bulgar.\nDupă un prânz tradițional la o mehana locală, plimbarea dvs. continuă. După-amiaza este dedicată renumitului meșteșug din Tryavna. Vizitați Casa Daskalov cu tavanele sale legendare din lemn, Muzeul de Pictură a Icoanelor și Casa Raykov pentru o imersiune în trecut.\nSpre sfârșitul după-amiezii, aveți libertatea de a vă plimba pe străzile artizanilor fără a vă face griji cu privire la parcare. Filosofia de „mers pe jos în ciorchine” strălucește aici, transformând micul oraș într-o singură experiență pietonală extinsă.\nLa finalul zilei, vă întoarceți la mașină, plini de bogata artă și istorie pe care le-ați descoperit pe jos. Vizitarea orașului Tryavna cu mașina înseamnă confort la sosire și imersiune totală la fața locului.",
-        "en": "You arrive in Tryavna by car and park centrally. The entire day is a single walking tour through a living museum. In the morning, you explore the historic heart: Kachaunska neighborhood, the Humpbacked Bridge, the Clock Tower, and the church. The highlight is the Old School, a testament to the Bulgarian enlightenment.\nAfter a traditional lunch at a local mehana, your walk continues. The afternoon is dedicated to Tryavna's famed craftsmanship. You'll visit the Daskalov House with its legendary wooden ceilings, the Museum of Icon Painting, and the Raykov House for a deep dive into the past.\nIn the late afternoon, you have the freedom to wander the craft streets without worrying about parking. The cluster-walking philosophy shines here, turning the small town into one large, walkable experience.\nAt the end of the day, you return to your car, filled with the rich art and history you discovered on foot. Visiting Tryavna by car means convenience on arrival and total immersion on-site."
+        "en": "You arrive in Tryavna by car and park centrally. The entire day is a single walking tour through a living museum. In the morning, you explore the historic heart: Kachaunska neighborhood, the Humpbacked Bridge, the Clock Tower, and the church. The highlight is the Old School, a testament to the Bulgarian enlightenment.\nAfter a traditional lunch at a local mehana, your walk continues. The afternoon is dedicated to Tryavna's famed craftsmanship. You'll visit the Daskalov House with its legendary wooden ceilings, the Museum of Icon Painting, and the Raykov House for a deep dive into the past.\nIn the late afternoon, you have the freedom to wander the craft streets without worrying about parking. The cluster-walking philosophy shines here, turning the small town into one large, walkable experience.\nAt the end of the day, you return to your car, filled with the rich art and history you discovered on foot. Visiting Tryavna by car means convenience on arrival and total immersion on-site.",
+        "bg": "Пристигането ви в Трявна е с автомобил и паркирате централно. Целият ден е една пешеходна обиколка през жив музей. Сутринта разглеждате историческото сърце: Качаунска махала, Кривия мост, часовниковата кула и църквата. Акцентът е Старата школа, свидетелство за българското възраждане.\nСлед традиционен обяд в местна механа, разходката продължава. Следобедът е посветен на прочутите трявански занаяти. Ще посетите Къща Даскалов с легендарните дървени тавани, Музея на иконописната школа и Къща Райкови за по-дълбок поглед в миналото.\nКъсния следобед имате свобода да се разхождате по занаятчийските улички без да мислите за паркиране. Философията на „клъстерно“ пешеходство тук засиява, превръщайки малкия град в едно голямо, лесно проходно преживяване.\nВ края на деня се връщате при колата, изпълнени с богатството от изкуство и история, които открихте пеша. Посещението на Трявна с кола означава удобство при пристигане и пълно потапяне на място."
       },
       "gastro_picks": {
         "de": [
@@ -1569,6 +1690,12 @@
           "Tryavna is very pedestrian-friendly once you have parked.",
           "The streets are narrow, so driving in the center is not recommended.",
           "This makes for an ideal day trip if you are traveling in the Gabrovo region."
+        ],
+        "bg": [
+          "Намерете централно място за паркиране и оставете колата за останалата част от деня.",
+          "След като сте паркирали, Трявна е много удобна за пешеходци.",
+          "Уличките са тесни, затова шофиране в центъра не се препоръчва.",
+          "Това е идеална еднодневна екскурзия, ако пътувате в габровския регион."
         ]
       },
       "variants": {
@@ -1577,7 +1704,8 @@
             "de": "Regen in Trjawna lässt sich am besten mit dem Auto meistern. Morgens parken wir zentral und nutzen die kurzen Wege zum Kachaunska-Viertel. Mittags bietet das Auto einen trockenen Ort für Pausen zwischen Schola und den Museen. Der Nachmittag ist den Holzschnitzereien und Ikonen gewidmet, bevor wir abends bequem zum Restaurant fahren.",
             "hu": "Az eső Trjavnában autóval a legkényelmesebb. Reggel a központi parkolóban hagyjuk a kocsit, és rövid sétákat teszünk a Kachaunska negyedben. Délben az autó száraz menedék a múzeumlátogatások között. A délutánt a fafaragásoknak és ikonoknak szenteljük, este pedig kényelmesen gurulunk el a kiválasztott étteremig.",
             "ro": "Ploaia în Tryavna este mai ușor de gestionat cu mașina. Dimineața parcăm central și facem plimbări scurte în Kachaunska. La prânz, mașina oferă un refugiu uscat între vizitele la muzee. După-amiaza este dedicată sculpturilor în lemn și icoanelor, iar seara mergem confortabil spre restaurant.",
-            "en": "Rain in Tryavna is best managed by car. Morning starts with central parking followed by short walks to the Kachaunska district. At noon, the car provides a dry haven between museum visits. Afternoon is dedicated to woodcarvings and icons, and evening offers a comfortable drive to a local restaurant."
+            "en": "Rain in Tryavna is best managed by car. Morning starts with central parking followed by short walks to the Kachaunska district. At noon, the car provides a dry haven between museum visits. Afternoon is dedicated to woodcarvings and icons, and evening offers a comfortable drive to a local restaurant.",
+            "bg": "Дъждът в Трявна е най-лесно управляем с автомобил. Сутринта започва с централно паркиране и кратки разходки до Качаунска. На обяд колата дава сухо убежище между посещения на музеи. Следобедът е посветен на дърворезбата и иконите, а вечерта предлага комфортно шофиране до местен ресторант."
           },
           "stops": [
             {
@@ -1586,7 +1714,8 @@
                 "de": "Wählen Sie einen Platz nahe dem Ausgang, um Pfützen zu vermeiden.",
                 "hu": "Válasszon kijárathoz közeli helyet a tócsák elkerülése érdekében.",
                 "ro": "Alegeți un loc aproape de ieșire pentru a evita bălțile mari.",
-                "en": "Choose a spot near the exit to minimize walking through puddles."
+                "en": "Choose a spot near the exit to minimize walking through puddles.",
+                "bg": "Изберете място близо до изхода, за да сведете до минимум ходенето през локви."
               }
             },
             {
@@ -1595,7 +1724,8 @@
                 "de": "Kurzer Fußweg vom Parkplatz; ein Taschenschirm reicht aus.",
                 "hu": "Rövid séta a parkolótól; egy összecsukható esernyő is elég.",
                 "ro": "Plimbare scurtă de la parcare; o umbrelă de buzunar e suficientă.",
-                "en": "Short walk from the lot; a compact travel umbrella is sufficient."
+                "en": "Short walk from the lot; a compact travel umbrella is sufficient.",
+                "bg": "Кратка разходка от паркинга; компактен сгъваем чадър е достатъчен."
               }
             },
             {
@@ -1604,7 +1734,8 @@
                 "de": "Nutzen Sie den Kircheneingang als Sammelpunkt bei starkem Regen.",
                 "hu": "Használja a templom bejáratát gyülekezőpontként felhőszakadáskor.",
                 "ro": "Folosiți intrarea bisericii ca punct de întâlnire pe ploaie torențială.",
-                "en": "Use the church entrance as a meeting point during heavy downpours."
+                "en": "Use the church entrance as a meeting point during heavy downpours.",
+                "bg": "Използвайте входа на църквата като сборен пункт при силен порой."
               }
             },
             {
@@ -1613,7 +1744,8 @@
                 "de": "Parken Sie direkt davor, falls Plätze frei sind, um trocken zu bleiben.",
                 "hu": "Parkoljon közvetlenül előtte, ha van hely, hogy száraz maradjon.",
                 "ro": "Parcați chiar în față dacă sunt locuri libere pentru a rămâne uscați.",
-                "en": "Park directly in front if spots are available to stay dry."
+                "en": "Park directly in front if spots are available to stay dry.",
+                "bg": "Паркирайте директно пред входа, ако има места, за да останете сухи."
               }
             },
             {
@@ -1622,7 +1754,8 @@
                 "de": "Guter Stopp für ein langes Indoor-Erlebnis während eines Regengusses.",
                 "hu": "Kiváló helyszín egy hosszú benti programhoz zuhogó esőben.",
                 "ro": "Locație excelentă pentru o experiență lungă de interior pe ploaie.",
-                "en": "Great stop for a lengthy indoor experience during a rainstorm."
+                "en": "Great stop for a lengthy indoor experience during a rainstorm.",
+                "bg": "Отлична спирка за продължително преживяване на закрито по време на буря."
               }
             },
             {
@@ -1631,7 +1764,8 @@
                 "de": "Lassen Sie nasse Mäntel im Auto, um die Luftfeuchtigkeit im Museum zu senken.",
                 "hu": "Hagyja a vizes kabátokat a kocsiban a múzeumi páratartalom miatt.",
                 "ro": "Lăsați haina udă în mașină pentru a nu crește umiditatea în muzeu.",
-                "en": "Leave wet coats in the car to help maintain museum humidity levels."
+                "en": "Leave wet coats in the car to help maintain museum humidity levels.",
+                "bg": "Оставяйте мокри палта в колата, за да помогнете за поддържане на влажността в музеите."
               }
             },
             {
@@ -1640,7 +1774,8 @@
                 "de": "Kurze Fahrzeit zurück zum Zentrum; achten Sie auf Aquaplaning.",
                 "hu": "Rövid út vissza a központba; ügyeljen a vízenfutásra az úton.",
                 "ro": "Drum scurt înapoi spre centru; atenție la acvaplanare pe asfalt.",
-                "en": "Short drive back to center; watch out for aquaplaning on the roads."
+                "en": "Short drive back to center; watch out for aquaplaning on the roads.",
+                "bg": "Кратко шофиране обратно към центъра; внимавайте за аквапланинг по пътищата."
               }
             }
           ],
@@ -1668,6 +1803,12 @@
               "Keep a towel in the car to dry off before getting back in the seats.",
               "Some access roads to the old quarter are narrow and slick when wet.",
               "Schedule the indoor museums for the times when rain is heaviest."
+            ],
+            "bg": [
+              "Централните паркинги могат да станат кални при дъжд; паркирайте на чакъл ако е възможно.",
+              "Дръжте кърпа в колата, за да се подсушите преди да влезете в салона.",
+              "Някои достъпни пътища до стария квартал са тесни и хлъзгави при дъжд.",
+              "Насрочете закритите музеи за времето, когато дъждът е най-силен."
             ]
           }
         },
@@ -1676,7 +1817,8 @@
             "de": "Trjawna im Winter ist mit dem Auto sicher und warm. Morgens parken wir auf geräumten Flächen nahe dem Kachaunska-Viertel. Mittags nutzen wir die Sitzheizung auf dem Weg zur Schola. Der Nachmittag bietet Ausblicke auf das verschneite Balkangebirge durch das Autofenster, bevor wir abends im warmen Licht des Uhrturms parken.",
             "hu": "A téli Trjavna autóval biztonságos és meleg bázist nyújt. Reggel a letakarított parkolókban hagyjuk a kocsit a Kachaunska negyed mellett, délben pedig az ülésfűtést élvezzük a Schola felé menet. Délután az autóablakon keresztül csodáljuk a havas Balkánt, este pedig a toronyóra fényeiben parkolunk le.",
             "ro": "Tryavna iarna este sigură și călduroasă cu mașina. Dimineața parcăm în zonele curățate de zăpadă lângă Kachaunska. La prânz, profităm de încălzirea din mașină spre școala veche. După-amiaza admirăm munții înzăpeziți prin geam, iar seara parcăm în lumina caldă a turnului.",
-            "en": "Winter in Tryavna is cozy and secure by car. Morning involves parking in cleared areas near the Kachaunska district. At noon, enjoy the car's heater on the way to the Schola. Afternoon offers views of the snowy Balkan peaks through the windows, and evening finds us parked near the glowing Clock Tower."
+            "en": "Winter in Tryavna is cozy and secure by car. Morning involves parking in cleared areas near the Kachaunska district. At noon, enjoy the car's heater on the way to the Schola. Afternoon offers views of the snowy Balkan peaks through the windows, and evening finds us parked near the glowing Clock Tower.",
+            "bg": "Зимата в Трявна е уютна и сигурна с кола. Сутринта включва паркиране в почистени зони близо до Качаунска махала. На обяд се наслаждавате на парното на колата по пътя към Школата. Следобедът предлага гледки към заснежените върхове на Балкана през прозорците, а вечерта ни намира паркирали близо до светящата часовникова кула."
           },
           "stops": [
             {
@@ -1685,7 +1827,8 @@
                 "de": "Prüfen Sie, ob der Platz von Schnee geräumt ist, um nicht steckenzubleiben.",
                 "hu": "Ellenőrizze, hogy a hely le van-e takarítva, nehogy elakadjon a hóban.",
                 "ro": "Verificați dacă locul este deszăpezit pentru a nu rămâne blocați.",
-                "en": "Check if the spot is cleared of snow to avoid getting stuck."
+                "en": "Check if the spot is cleared of snow to avoid getting stuck.",
+                "bg": "Проверете дали мястото е разчистено от сняг, за да не заседнете."
               }
             },
             {
@@ -1694,7 +1837,8 @@
                 "de": "Lassen Sie den Motor kurz warmlaufen, bevor Sie zum nächsten Stopp fahren.",
                 "hu": "Hagyja kicsit járni a motort, mielőtt a következő állomásra hajtana.",
                 "ro": "Lăsați motorul să se încălzească puțin înainte de următoarea oprire.",
-                "en": "Let the engine warm up briefly before driving to the next stop."
+                "en": "Let the engine warm up briefly before driving to the next stop.",
+                "bg": "Оставете двигателя да загрее кратко преди да тръгнете към следващата спирка."
               }
             },
             {
@@ -1703,7 +1847,8 @@
                 "de": "Parken Sie vorsichtig; Schneehaufen können die Sicht auf Bordsteine behindern.",
                 "hu": "Parkoljon óvatosan; a hóbuckák elfedhetik a padkát.",
                 "ro": "Parcați cu atenție; mormanele de zăpadă pot ascunde bordurile.",
-                "en": "Park carefully; snow piles can hide curbs and low obstacles."
+                "en": "Park carefully; snow piles can hide curbs and low obstacles.",
+                "bg": "Паркирайте внимателно; снежни преспи могат да скрият бордюри и ниски препятствия."
               }
             },
             {
@@ -1712,7 +1857,8 @@
                 "de": "Ein kurzer Fahrweg, aber wichtig, um sich zwischen den Besichtigungen aufzuwärmen.",
                 "hu": "Rövid út, de fontos a felmelegedéshez a látnivalók között.",
                 "ro": "Drum scurt, dar important pentru a vă încălzi între vizite.",
-                "en": "Short drive, but essential for warming up between sights."
+                "en": "Short drive, but essential for warming up between sights.",
+                "bg": "Кратко шофиране, но важно за затопляне между забележителностите."
               }
             },
             {
@@ -1721,7 +1867,8 @@
                 "de": "Die Zufahrt kann bei Neuschnee rutschig sein; nutzen Sie niedrige Gänge.",
                 "hu": "Friss hóban az út csúszós lehet; használjon alacsony sebességfokozatot.",
                 "ro": "Drumul poate fi alunecos pe zăpadă proaspătă; folosiți trepte inferioare.",
-                "en": "The access road can be slick in fresh snow; use low gears."
+                "en": "The access road can be slick in fresh snow; use low gears.",
+                "bg": "Достъпният път може да бъде хлъзгав при прясна покривка; използвайте ниски предавки."
               }
             },
             {
@@ -1730,7 +1877,8 @@
                 "de": "Decken Sie die Windschutzscheibe ab, damit sie während des Besuchs nicht vereist.",
                 "hu": "Takarja le a szélvédőt, hogy ne fagyjon le a látogatás alatt.",
                 "ro": "Acoperiți parbrizul pentru a nu îngheța în timpul vizitei la muzeu.",
-                "en": "Cover your windshield so it doesn't ice up during your museum visit."
+                "en": "Cover your windshield so it doesn't ice up during your museum visit.",
+                "bg": "Покрийте предното стъкло, за да не замръзне по време на посещението в музея."
               }
             },
             {
@@ -1739,7 +1887,8 @@
                 "de": "Stellen Sie sicher, dass Ihre Scheinwerfer für die Rückfahrt sauber sind.",
                 "hu": "Győződjön meg róla, hogy a fényszórók tiszták a hazafelé úthoz.",
                 "ro": "Asigurați-vă că farurile sunt curate pentru drumul de întoarcere.",
-                "en": "Ensure your headlights are clear of snow for the drive back."
+                "en": "Ensure your headlights are clear of snow for the drive back.",
+                "bg": "Уверете се, че фаровете са почистени от сняг за връщане."
               }
             }
           ],
@@ -1767,6 +1916,12 @@
               "Carry an ice scraper and a small snow shovel in your trunk.",
               "Mountain roads around Tryavna can be tricky during sudden snowfall.",
               "Use your hotel's underground parking if available to avoid morning ice."
+            ],
+            "bg": [
+              "Зимните гуми са задължителни в този планински район от октомври до април.",
+              "Носете стъргалка за лед и малка лопата в багажника.",
+              "Планинските пътища около Трявна могат да бъдат измамни при внезапен снеговалеж.",
+              "Използвайте подземния паркинг на хотела, ако е наличен, за да избегнете сутрешния лед."
             ]
           }
         }
@@ -1785,7 +1940,8 @@
             "de": "Busbahnhof Trjawna",
             "hu": "Trjavna Buszállomás",
             "ro": "Autogara Tryavna",
-            "en": "Tryavna Bus Station"
+            "en": "Tryavna Bus Station",
+            "bg": "Автогара Трявна"
           },
           "coords": [
             25.501,
@@ -1801,7 +1957,8 @@
             "de": "Kommen Sie hier an. Das historische Zentrum ist nur einen kurzen Spaziergang entfernt.",
             "hu": "Érkezzen ide. A történelmi központ csak egy rövid sétára van.",
             "ro": "Sosiți aici. Centrul istoric se află la o scurtă plimbare.",
-            "en": "Arrive here. The historic center is just a short walk away."
+            "en": "Arrive here. The historic center is just a short walk away.",
+            "bg": "Пристигнете тук. Историческият център е само на кратка разходка."
           }
         },
         {
@@ -1809,7 +1966,8 @@
             "de": "Katschaunska-Viertel & Buckelbrücke",
             "hu": "Kachaunska negyed és Púpos híd",
             "ro": "Cartierul Kachaunska & Podul Cocoșat",
-            "en": "Kachaunska Neighborhood & Humpbacked Bridge"
+            "en": "Kachaunska Neighborhood & Humpbacked Bridge",
+            "bg": "Качаунска махала и Кривият мост"
           },
           "coords": [
             25.4975,
@@ -1825,7 +1983,8 @@
             "de": "Beginnen Sie Ihren Rundgang hier, die beiden Sehenswürdigkeiten liegen direkt nebeneinander.",
             "hu": "Kezdje itt a gyalogtúrát, a két látnivaló közvetlenül egymás mellett található.",
             "ro": "Începeți turul pietonal de aici, cele două atracții sunt chiar una lângă alta.",
-            "en": "Start your walking tour here, the two sights are right next to each other."
+            "en": "Start your walking tour here, the two sights are right next to each other.",
+            "bg": "Започнете пешеходната обиколка тук, двете забележителности са една до друга."
           }
         },
         {
@@ -1833,7 +1992,8 @@
             "de": "Uhrturm & Kirche des Erzengels Michael",
             "hu": "Óratorony és Szent Mihály Arkangyal templom",
             "ro": "Turnul cu Ceas & Biserica Sf. Arhanghel Mihail",
-            "en": "Clock Tower & Church of St. Archangel Michael"
+            "en": "Clock Tower & Church of St. Archangel Michael",
+            "bg": "Часовникова кула и църква „Св. Архангел Михаил“"
           },
           "coords": [
             25.499,
@@ -1849,7 +2009,8 @@
             "de": "Diese beiden Wahrzeichen bilden das Herz des Platzes. Nehmen Sie sich Zeit für beide.",
             "hu": "Ez a két nevezetesség alkotja a tér szívét. Szánjon időt mindkettőre.",
             "ro": "Aceste două repere formează inima pieței. Luați-vă timp pentru ambele.",
-            "en": "These two landmarks form the heart of the square. Take time for both."
+            "en": "These two landmarks form the heart of the square. Take time for both.",
+            "bg": "Тези две забележителности формират сърцето на площада. Отделете време за и двете."
           }
         },
         {
@@ -1857,7 +2018,8 @@
             "de": "Alte Schule (Schola)",
             "hu": "Régi Iskola (Schola)",
             "ro": "Școala Veche (Schola)",
-            "en": "The Old School (Schola)"
+            "en": "The Old School (Schola)",
+            "bg": "Старата школа (Школа)"
           },
           "coords": [
             25.4972,
@@ -1873,7 +2035,8 @@
             "de": "Ein kurzer Spaziergang vom Platz entfernt, beherbergt dieses Museum einen wichtigen Teil der bulgarischen Geschichte.",
             "hu": "A tértől egy rövid sétára található múzeum a bolgár történelem egy fontos részét őrzi.",
             "ro": "La o scurtă plimbare de piață, acest muzeu deține o parte importantă a istoriei bulgare.",
-            "en": "A short walk from the square, this museum holds an important piece of Bulgarian history."
+            "en": "A short walk from the square, this museum holds an important piece of Bulgarian history.",
+            "bg": "На кратка разходка от площада, този музей съхранява важен фрагмент от българската история."
           }
         },
         {
@@ -1881,7 +2044,8 @@
             "de": "Daskalow-Haus",
             "hu": "Daskalov-ház",
             "ro": "Casa Daskalov",
-            "en": "Daskalov House"
+            "en": "Daskalov House",
+            "bg": "Къща Даскалов"
           },
           "coords": [
             25.4955,
@@ -1897,7 +2061,8 @@
             "de": "Nach dem Mittagessen spazieren Sie zu diesem Haus, um die berühmten Sonnen-Decken zu sehen.",
             "hu": "Ebéd után sétáljon el ehhez a házhoz, hogy megnézze a híres nap-mennyezeteket.",
             "ro": "După prânz, faceți o plimbare până la această casă pentru a vedea faimoasele tavane solare.",
-            "en": "After lunch, stroll over to this house to see the famous sun ceilings."
+            "en": "After lunch, stroll over to this house to see the famous sun ceilings.",
+            "bg": "След обяд се разходете до тази къща, за да видите прочутите слънчеви тавани."
           }
         },
         {
@@ -1905,7 +2070,8 @@
             "de": "Museum der Ikonenmalerei",
             "hu": "Ikonfestészeti Múzeum",
             "ro": "Muzeul de Pictură a Icoanelor",
-            "en": "Museum of Icon Painting"
+            "en": "Museum of Icon Painting",
+            "bg": "Музей на иконописната школа"
           },
           "coords": [
             25.4965,
@@ -1921,7 +2087,8 @@
             "de": "Bewundern Sie die Kunstfertigkeit der Trjawna-Malschule.",
             "hu": "Csodálja meg a trjavnai festőiskola művészetét.",
             "ro": "Admirați măiestria școlii de pictură din Tryavna.",
-            "en": "Admire the artistry of the Tryavna painting school."
+            "en": "Admire the artistry of the Tryavna painting school.",
+            "bg": "Възхитете се на майсторството на търновската/тряванската живописна школа."
           }
         },
         {
@@ -1929,7 +2096,8 @@
             "de": "Raikow-Haus",
             "hu": "Raykov-ház",
             "ro": "Casa Raykov",
-            "en": "Raykov House"
+            "en": "Raykov House",
+            "bg": "Къща Райкови"
           },
           "coords": [
             25.494,
@@ -1945,7 +2113,8 @@
             "de": "Ihr letzter Halt, bevor Sie zum Busbahnhof zurückkehren. Ein Einblick in das Leben des 19. Jahrhunderts.",
             "hu": "Az utolsó megálló, mielőtt visszatérne a buszállomásra. Betekintés a 19. századi életbe.",
             "ro": "Ultima oprire înainte de a vă întoarce la autogară. O incursiune în viața secolului al XIX-lea.",
-            "en": "Your final stop before heading back to the bus station. A glimpse into 19th-century life."
+            "en": "Your final stop before heading back to the bus station. A glimpse into 19th-century life.",
+            "bg": "Вашата последна спирка преди връщане към автогарата. Поглед към живота през XIX век."
           }
         }
       ],
@@ -1953,7 +2122,8 @@
         "de": "Ihre Reise nach Trjawna beginnt mit der Ankunft am Busbahnhof. Von dort aus ist das gesamte historische Zentrum ein einziger, bequemer Fußgänger-Cluster. Am Vormittag spazieren Sie durch die Zeit, vorbei am Uhrturm, über die Buckelbrücke und in die heiligen Hallen der Kirche und der Alten Schule. Die Stadt entfaltet sich vor Ihnen wie ein offenes Geschichtsbuch.\nNach einem Mittagessen, das Sie mit lokalen Aromen stärkt, setzen Sie Ihre Erkundung fort. Der Nachmittag ist eine Hommage an die Kunstfertigkeit Trjawnas, mit Besuchen im Daskalow-Haus, dem Museum für Ikonenmalerei und dem Raikow-Haus. Jeder Ort enthüllt eine weitere Schicht des reichen kulturellen Gefüges der Stadt.\nDie Nutzung öffentlicher Verkehrsmittel für die Anreise nach Trjawna ermöglicht ein stressfreies Erlebnis. Sie müssen sich keine Gedanken über das Fahren oder Parken in den engen historischen Gassen machen. Der gesamte Fokus liegt auf dem Eintauchen in die Atmosphäre der bulgarischen Wiedergeburt.\nAm Ende des Tages kehren Sie zum Busbahnhof zurück, nachdem Sie einen Tag lang durch die Geschichte gewandert sind. Dieser Ansatz kombiniert die Effizienz des öffentlichen Nahverkehrs mit der intimen Freude, eine Stadt zu Fuß zu entdecken.",
         "hu": "Az utazás Trjavnába a buszállomásra való érkezéssel kezdődik. Onnan az egész történelmi központ egyetlen, kényelmes gyalogos zóna. Délelőtt végigsétál az időben, elhaladva az Óratorony mellett, át a Púpos hídon, és belépve a templom és a Régi Iskola szent csarnokaiba. A város úgy tárul fel előtted, mint egy nyitott történelemkönyv.\nMiután egy helyi ízekkel teli ebéd megerősítette, folytatja a felfedezést. A délután Trjavna művészetének tiszteletére telik, látogatással a Daskalov-házban, az Ikonfestészeti Múzeumban és a Raykov-házban. Minden helyszín egy újabb réteget fed fel a város gazdag kulturális szövetéből.\nA tömegközlekedés használata Trjavnába való utazáshoz stresszmentes élményt tesz lehetővé. Nem kell aggódnia a vezetés vagy a parkolás miatt a szűk történelmi sikátorokban. A teljes fókusz a bolgár újjászületés hangulatába való elmerülésen van.\nA nap végén visszatér a buszállomásra, miután egy egész napot a történelemben sétált. Ez a megközelítés ötvözi a tömegközlekedés hatékonyságát a város gyalogos felfedezésének meghitt örömével.",
         "ro": "Călătoria dvs. la Tryavna începe cu sosirea la autogară. De acolo, întregul centru istoric este un singur cluster pietonal convenabil. Dimineața vă plimbați prin timp, trecând pe lângă Turnul cu Ceas, peste Podul Cocoșat și în sălile sacre ale bisericii și Școlii Vechi. Orașul se desfășoară în fața dvs. ca o carte de istorie deschisă.\nDupă un prânz care vă încarcă cu arome locale, explorarea continuă. După-amiaza este un omagiu adus măiestriei din Tryavna, cu vizite la Casa Daskalov, Muzeul de Pictură a Icoanelor și Casa Raykov. Fiecare locație dezvăluie un alt strat din bogata tapiserie culturală a orașului.\nUtilizarea transportului public pentru a ajunge la Tryavna permite o experiență fără stres. Nu trebuie să vă faceți griji cu privire la condus sau parcare pe aleile istorice înguste. Întregul accent este pus pe imersiunea în atmosfera Renașterii Bulgare.\nLa sfârșitul zilei, vă întoarceți la autogară după o zi de plimbare prin istorie. Această abordare combină eficiența tranzitului cu bucuria intimă de a descoperi un oraș pe jos.",
-        "en": "Your journey to Tryavna begins by arriving at the bus station. From there, the entire historic center is one convenient pedestrian cluster. In the morning, you'll walk through time, past the Clock Tower, over the Humpbacked Bridge, and into the sacred halls of the church and the Old School. The town unfolds before you like an open history book.\nAfter a lunch that refuels you with local flavors, your exploration continues. The afternoon is a tribute to Tryavna's artistry, with visits to the Daskalov House, the Museum of Icon Painting, and the Raykov House. Each location reveals another layer of the town's rich cultural tapestry.\nUsing transit to get to Tryavna allows for a stress-free experience. You don't have to worry about driving or parking on the narrow historic alleys. The entire focus is on immersing yourself in the atmosphere of the Bulgarian Revival.\nAt the end of the day, you return to the bus station after a full day of wandering through history. This approach combines the efficiency of transit with the intimate joy of discovering a town on foot."
+        "en": "Your journey to Tryavna begins by arriving at the bus station. From there, the entire historic center is one convenient pedestrian cluster. In the morning, you'll walk through time, past the Clock Tower, over the Humpbacked Bridge, and into the sacred halls of the church and the Old School. The town unfolds before you like an open history book.\nAfter a lunch that refuels you with local flavors, your exploration continues. The afternoon is a tribute to Tryavna's artistry, with visits to the Daskalov House, the Museum of Icon Painting, and the Raykov House. Each location reveals another layer of the town's rich cultural tapestry.\nUsing transit to get to Tryavna allows for a stress-free experience. You don't have to worry about driving or parking on the narrow historic alleys. The entire focus is on immersing yourself in the atmosphere of the Bulgarian Revival.\nAt the end of the day, you return to the bus station after a full day of wandering through history. This approach combines the efficiency of transit with the intimate joy of discovering a town on foot.",
+        "bg": "Пътуването ви до Трявна започва с пристигане на автогарата. От там целият исторически център е удобен пешеходен комплекс. Сутринта ще вървите през времето, покрай часовниковата кула, над Кривия мост и в свещените зали на църквата и Старото училище. Градът се разгръща пред вас като отворена историческа книга.\nСлед обяд, който ви зарежда с местни вкусове, разглеждането продължава. Следобедът е отдаден на тряванското изкуство с посещения на Къща Даскалов, Музея на иконописната школа и Къща Райкови. Всяко място разкрива още един пласт от богатата културна палитра на града.\nПътуването с обществен транспорт до Трявна позволява безстресово преживяване. Не е нужно да мислите за шофиране или паркиране по тесните исторически улички. Целият фокус е върху потапянето в атмосферата на българското възраждане.\nВ края на деня се връщате на автогарата след пълен ден скитане из историята. Този подход съчетава ефективността на транспорта с интимната радост да откриваш град пеша."
       },
       "gastro_picks": {
         "de": [
@@ -2129,6 +2299,12 @@
           "The center is an easy walk from the bus station.",
           "This option is ideal for those traveling without a car.",
           "Once you are in the center, all sights are within walking distance."
+        ],
+        "bg": [
+          "Проверете разписанието на автобусите предварително, особено за връщане.",
+          "Центърът е на кратка и лесна разходка от автогарата.",
+          "Тази опция е идеална за пътуващите без автомобил.",
+          "След като сте в центъра, всички забележителности са на пешеходно разстояние."
         ]
       },
       "variants": {
@@ -2137,7 +2313,8 @@
             "de": "Öffentliche Verkehrsmittel in Trjawna sind bei Regen praktisch. Morgens kommen wir am Busbahnhof an und starten geschützt. Mittags nutzen wir die kurzen Wege zwischen den Museen und der Schola. Der Nachmittag bringt uns zu den Holzschnitzereien und Ikonen, wobei wir die Wartezeiten unter den Busdächern verbringen. Abends kehren wir trocken zum Bahnhof zurück.",
             "hu": "A tömegközlekedés Trjavnában praktikus választás esőben. Reggel a buszpályaudvaron kezdünk, majd fedett helyeken haladunk tovább. Délben a múzeumok és a Schola közötti rövid távokat tesszük meg. A délutáni fafaragások és ikonok után a buszmegállók eresze alatt várjuk a járatot, este pedig szárazon érünk vissza a szállásra.",
             "ro": "Transportul public în Tryavna este o soluție practică pe ploaie. Dimineața ajungem la autogară și începem vizita protejați. La prânz folosim rutele scurte între muzee și școală. După-amiaza vizităm icoanele și sculpturile, așteptând autobuzul sub adăpost. Seara ne întoarcem la gară fără a ne uda prea tare.",
-            "en": "Public transit in Tryavna is a practical choice during rain. Morning starts at the bus station with quick access to cover. At noon, we navigate between museums and the Schola. Afternoon features woodcarvings and icons, with wait times spent under bus shelters. Evening sees us returning to the station dry and satisfied."
+            "en": "Public transit in Tryavna is a practical choice during rain. Morning starts at the bus station with quick access to cover. At noon, we navigate between museums and the Schola. Afternoon features woodcarvings and icons, with wait times spent under bus shelters. Evening sees us returning to the station dry and satisfied.",
+            "bg": "Обществен транспорт в Трявна е практичен избор при дъжд. Сутринта започва от автогарата с бърз достъп до заслон. На обяд навигираме между музеи и Школата. Следобедът включва дърворезби и икони, а времето за чакане се прекарва под автогарни навеси. Вечерта се връщаме на станцията сухи и доволни."
           },
           "stops": [
             {
@@ -2146,7 +2323,8 @@
                 "de": "Warten Sie in der Halle, bis Ihr Bus zur Abfahrt bereitsteht.",
                 "hu": "Várjon az állomás épületében, amíg a busza be nem áll a peronhoz.",
                 "ro": "Așteptați în interiorul gării până când autobuzul e gata de plecare.",
-                "en": "Wait inside the station building until your bus is ready for boarding."
+                "en": "Wait inside the station building until your bus is ready for boarding.",
+                "bg": "Изчакайте в сградата на автогарата, докато автобусът е готов за качване."
               }
             },
             {
@@ -2155,7 +2333,8 @@
                 "de": "Vom nächsten Stopp ist es nur ein kurzer Sprung unter die Dächer der Altstadt.",
                 "hu": "A legközelebbi megállótól csak egy ugrás az óváros fedett eresze.",
                 "ro": "De la cea mai apropiată stație e doar un pas până la adăpostul caselor.",
-                "en": "From the nearest stop, it's just a short dash to the covered old town."
+                "en": "From the nearest stop, it's just a short dash to the covered old town.",
+                "bg": "От най-близката спирка е само кратко бягане до покрития стар град."
               }
             },
             {
@@ -2164,7 +2343,8 @@
                 "de": "Die Haltestelle ist nah; halten Sie Ihren Schirm für den kurzen Weg bereit.",
                 "hu": "A megálló közel van; tartsa készenlétben az esernyőjét a rövid útra.",
                 "ro": "Stația e aproape; pregătiți umbrela pentru drumul scurt până la turn.",
-                "en": "The stop is very close; keep your umbrella ready for the short walk."
+                "en": "The stop is very close; keep your umbrella ready for the short walk.",
+                "bg": "Спирката е много близо; дръжте чадъра готов за краткия преход."
               }
             },
             {
@@ -2173,7 +2353,8 @@
                 "de": "Die Museen liegen nah beieinander, was das Warten im Regen minimiert.",
                 "hu": "A múzeumok közel vannak egymáshoz, így keveset kell esőben várni.",
                 "ro": "Muzeele sunt grupate, minimizând timpul petrecut afară în ploaie.",
-                "en": "Museums are clustered together, minimizing time spent out in the rain."
+                "en": "Museums are clustered together, minimizing time spent out in the rain.",
+                "bg": "Музеите са групирани заедно, което намалява времето на открито под дъжда."
               }
             },
             {
@@ -2182,7 +2363,8 @@
                 "de": "Prüfen Sie den Fahrplan per App, um punktgenau zur Haltestelle zu gehen.",
                 "hu": "Ellenőrizze a menetrendet appon, hogy pontosan érkezzen a megállóba.",
                 "ro": "Verificați programul pe aplicație pentru a merge la stație la fix.",
-                "en": "Check the schedule via app to arrive at the stop just in time."
+                "en": "Check the schedule via app to arrive at the stop just in time.",
+                "bg": "Проверете разписанието през приложението, за да пристигнете на спирката точно навреме."
               }
             },
             {
@@ -2191,7 +2373,8 @@
                 "de": "Ein guter Ort, um die Zeit bis zum nächsten Bus sinnvoll im Trockenen zu nutzen.",
                 "hu": "Jó hely az idő hasznos eltöltésére a következő buszig, szárazon.",
                 "ro": "Un loc bun pentru a petrece timpul util până la următorul autobuz.",
-                "en": "A good place to spend time productively while waiting for the next bus."
+                "en": "A good place to spend time productively while waiting for the next bus.",
+                "bg": "Добро място да прекарате времето продуктивно, докато чакате следващия автобус."
               }
             },
             {
@@ -2200,7 +2383,8 @@
                 "de": "Die Rückfahrt zum Bahnhof bietet einen trockenen Ausklang der Tour.",
                 "hu": "A buszos visszautat az állomásra élvezheti a száraz ablak mögül.",
                 "ro": "Călătoria de întoarcere spre gară oferă un final de tur uscat.",
-                "en": "The bus ride back to the station offers a dry conclusion to your tour."
+                "en": "The bus ride back to the station offers a dry conclusion to your tour.",
+                "bg": "Пътуването с автобус обратно към гарата предлага сухо завършване на вашата обиколка."
               }
             }
           ],
@@ -2228,6 +2412,12 @@
               "Buses may experience slight delays during heavy rainstorms.",
               "Wear non-slip shoes in case you need to hurry to catch a bus.",
               "Use museum entrance halls as gathering points between transit legs."
+            ],
+            "bg": [
+              "Купете билетите си предварително на гарата или от шофьора.",
+              "Автобусите могат да имат леки закъснения по време на силни дъждове.",
+              "Носете нехлъзгащи обувки, в случай че трябва да побързате за автобуса.",
+              "Използвайте входните зали на музеите като точки за събиране между транспортните връзки."
             ]
           }
         },
@@ -2236,7 +2426,8 @@
             "de": "Trjawna mit Bus und Bahn im Winter ist ein gemütliches Abenteuer. Morgens kommen wir am beheizten Bahnhof an. Mittags nutzen wir die warmen Busse, um zwischen den historischen Stätten zu pendeln. Der Nachmittag zeigt uns das verschneite Panorama aus dem Busfenster, bevor wir abends pünktlich vor der Dunkelheit den Rückzug zum Bahnhof antreten.",
             "hu": "A téli Trjavna felfedezése busszal és vonattal kényelmes kaland. Reggel a fűtött állomásra érkezünk, délben pedig a meleg buszokkal ingázunk a történelmi helyszínek között. Délután a buszablakból csodáljuk a havas panorámát, este pedig még sötétedés előtt visszatérünk a pályaudvarra.",
             "ro": "Explorarea Tryavnei cu autobuzul iarna este o aventură confortabilă. Dimineața ajungem la gara încălzită. La prânz folosim autobuzele călduroase pentru a naviga între siturile istorice. După-amiaza admirăm panorama înzăpezită prin geam, iar seara ne întoarcem la gară înainte de lăsarea întunericului.",
-            "en": "Exploring Tryavna by bus and train in winter is a cozy adventure. Morning begins at the heated station. At noon, we use warm buses to commute between historic sites. Afternoon shows off the snowy panorama from the bus window before we make a timely return to the station as darkness falls early."
+            "en": "Exploring Tryavna by bus and train in winter is a cozy adventure. Morning begins at the heated station. At noon, we use warm buses to commute between historic sites. Afternoon shows off the snowy panorama from the bus window before we make a timely return to the station as darkness falls early.",
+            "bg": "Разходката из Трявна с автобус и влак през зимата е уютно приключение. Сутринта започва на отоплената гара. По обед използваме топли автобуси за придвижване между историческите обекти. Следобед снежната панорама се открива през прозореца на автобуса, преди да се върнем своевременно на гарата, когато навън потъмнее рано."
           },
           "stops": [
             {
@@ -2245,7 +2436,8 @@
                 "de": "Der Bahnhof ist beheizt; ein guter Ort, um den Tag warm zu beginnen.",
                 "hu": "Az állomásépület fűtött; jó hely a nap meleg indításához.",
                 "ro": "Clădirea gării este încălzită; un loc bun pentru a începe ziua.",
-                "en": "The station building is heated; a great place to start your day warm."
+                "en": "The station building is heated; a great place to start your day warm.",
+                "bg": "Сградата на гарата е отоплена; чудесно място да започнете деня топли."
               }
             },
             {
@@ -2254,7 +2446,8 @@
                 "de": "Die Bushaltestelle wird oft geräumt, aber Vorsicht vor Matsch beim Aussteigen.",
                 "hu": "A megállót takarítják, de vigyázzon a latyakra leszálláskor.",
                 "ro": "Stația este de obicei deszăpezită, dar atenție la fleșcăraie.",
-                "en": "The bus stop is usually cleared, but watch out for slush when exiting."
+                "en": "The bus stop is usually cleared, but watch out for slush when exiting.",
+                "bg": "Автобусната спирка обикновено е почистена, но внимавайте за киша при излизане."
               }
             },
             {
@@ -2263,7 +2456,8 @@
                 "de": "Warten Sie in der Nähe eines Geschäfts, um dem kalten Wind zu entgehen.",
                 "hu": "Várjon egy közeli bolt közelében, hogy elkerülje a jeges szelet.",
                 "ro": "Așteptați lângă un magazin pentru a evita vântul înghețat.",
-                "en": "Wait near a local shop to avoid the biting winter wind."
+                "en": "Wait near a local shop to avoid the biting winter wind.",
+                "bg": "Чакайте близо до местен магазин, за да избегнете пронизващия зимен вятър."
               }
             },
             {
@@ -2272,7 +2466,8 @@
                 "de": "Nutzen Sie das Museumsfoyer als Aufwärmstation vor der nächsten Fahrt.",
                 "hu": "Használja a múzeum előcsarnokát melegedőként a következő járat előtt.",
                 "ro": "Folosiți holul muzeului ca zonă de încălzire înaintea cursei următoare.",
-                "en": "Use the museum foyer as a warming station before your next ride."
+                "en": "Use the museum foyer as a warming station before your next ride.",
+                "bg": "Използвайте фоайето на музея като място за затопляне преди следващото пътуване."
               }
             },
             {
@@ -2281,7 +2476,8 @@
                 "de": "Die Fahrpläne können im Winter leicht abweichen; prüfen Sie Aushänge.",
                 "hu": "A menetrend télen kissé eltérhet; ellenőrizze a kihelyezett táblákat.",
                 "ro": "Orarele pot varia ușor iarna; verificați afișele din stații.",
-                "en": "Schedules might vary slightly in winter; check the posted timetables."
+                "en": "Schedules might vary slightly in winter; check the posted timetables.",
+                "bg": "Разписанията може да варират леко през зимата; проверете публикуваните графици."
               }
             },
             {
@@ -2290,7 +2486,8 @@
                 "de": "Ein kurzer Sprint zum Bus ist bei Kälte besser als langes Warten.",
                 "hu": "Egy rövid sprint a buszhoz jobb a hidegben, mint a hosszú várakozás.",
                 "ro": "Un sprint scurt spre autobuz este preferabil așteptării în frig.",
-                "en": "A short sprint to the bus is better than long waits in the cold."
+                "en": "A short sprint to the bus is better than long waits in the cold.",
+                "bg": "Кратко бягане до автобуса е по-добро от дългото чакане на студено."
               }
             },
             {
@@ -2299,7 +2496,8 @@
                 "de": "Stellen Sie sicher, dass Sie den letzten Bus vor 18:00 Uhr erwischen.",
                 "hu": "Győződjön meg róla, hogy eléri az utolsó buszt 18:00 előtt.",
                 "ro": "Asigurați-vă că prindeți ultimul autobuz înainte de ora 18:00.",
-                "en": "Make sure you catch the last convenient bus before 6:00 PM."
+                "en": "Make sure you catch the last convenient bus before 6:00 PM.",
+                "bg": "Уверете се, че хващате последния удобен автобус преди 18:00 ч."
               }
             }
           ],
@@ -2327,6 +2525,12 @@
               "Keep your gloves on while waiting at the outdoor bus stops.",
               "Heating in local buses is often set quite high; dress in layers.",
               "Allow extra time for connections if roads are icy or snow-covered."
+            ],
+            "bg": [
+              "Влаковете често са по-надеждни от автобусите при силен снеговалеж.",
+              "Дръжте ръкавиците на ръцете си, докато чакате на откритите автобусни спирки.",
+              "Отоплението в местните автобуси често е доста високо; обличайте се на пластове.",
+              "Оставете допълнително време за връзки, ако пътищата са заледени или покрити със сняг."
             ]
           }
         }

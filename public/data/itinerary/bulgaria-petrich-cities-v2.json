@@ -21,7 +21,8 @@
             "de": "Historisches Museum Petritsch",
             "hu": "Petrics Történeti Múzeum",
             "ro": "Muzeul de Istorie din Petrici",
-            "en": "Petrich Historical Museum"
+            "en": "Petrich Historical Museum",
+            "bg": "Исторически музей – Петрич"
           },
           "coords": [
             23.2085,
@@ -37,7 +38,8 @@
             "de": "Beginnen Sie hier, um einen Überblick über die reiche Geschichte der Region zu bekommen.",
             "hu": "Kezdje itt a napot, hogy átfogó képet kapjon a régió gazdag történelméről.",
             "ro": "Începeți aici pentru a obține o imagine de ansamblu asupra istoriei bogate a regiunii.",
-            "en": "Start here to get an overview of the region's rich history."
+            "en": "Start here to get an overview of the region's rich history.",
+            "bg": "Започнете тук, за да получите общ преглед на богатата история на региона."
           }
         },
         {
@@ -45,7 +47,8 @@
             "de": "Der Uhrturm von Petritsch",
             "hu": "A petricsi óratorony",
             "ro": "Turnul cu Ceas din Petrici",
-            "en": "The Clock Tower of Petrich"
+            "en": "The Clock Tower of Petrich",
+            "bg": "Часовниковата кула на Петрич"
           },
           "coords": [
             23.2095,
@@ -61,7 +64,8 @@
             "de": "Ein ikonisches Symbol der Stadt und ein großartiger Ort für Fotos im Stadtzentrum.",
             "hu": "A város ikonikus szimbóluma, remek fotóhelyszín a központban.",
             "ro": "Un simbol iconic al orașului și un loc excelent pentru fotografii în centrul orașului.",
-            "en": "An iconic symbol of the city and a great spot for photos in the town center."
+            "en": "An iconic symbol of the city and a great spot for photos in the town center.",
+            "bg": "Емблематичен символ на града и чудесно място за снимки в центъра."
           }
         },
         {
@@ -69,7 +73,8 @@
             "de": "Kirche des Heiligen Georg",
             "hu": "Szent György-templom",
             "ro": "Biserica Sfântul Gheorghe",
-            "en": "Church of Saint George"
+            "en": "Church of Saint George",
+            "bg": "Църква „Свети Георги”"
           },
           "coords": [
             23.2105,
@@ -85,7 +90,8 @@
             "de": "Bewundern Sie die traditionelle orthodoxe Architektur und die ruhige Atmosphäre.",
             "hu": "Csodálja meg a hagyományos ortodox építészetet és a békés légkört.",
             "ro": "Admirați arhitectura tradițională ortodoxă și atmosfera liniștită.",
-            "en": "Admire the traditional Orthodox architecture and the quiet atmosphere."
+            "en": "Admire the traditional Orthodox architecture and the quiet atmosphere.",
+            "bg": "Възхитете се на традиционната православна архитектура и спокойната атмосфера."
           }
         },
         {
@@ -93,7 +99,8 @@
             "de": "Denkmal für Anton Popow",
             "hu": "Anton Popov emlékmű",
             "ro": "Monumentul lui Anton Popov",
-            "en": "Monument to Anton Popov"
+            "en": "Monument to Anton Popov",
+            "bg": "Паметник на Антон Попов"
           },
           "coords": [
             23.2115,
@@ -109,7 +116,8 @@
             "de": "Ein Moment des Innehaltens, um einer lokalen historischen Figur zu gedenken.",
             "hu": "Egy pillanatnyi megállás, hogy megemlékezzen egy helyi történelmi személyiségről.",
             "ro": "Un moment de reculegere pentru a comemora o figură istorică locală.",
-            "en": "A moment of reflection to commemorate a local historical figure."
+            "en": "A moment of reflection to commemorate a local historical figure.",
+            "bg": "Момент за размисъл в памет на местна историческа личност."
           }
         },
         {
@@ -117,7 +125,8 @@
             "de": "Haus-Museum Baba Wanga",
             "hu": "Baba Vanga Ház-múzeum",
             "ro": "Casa-Muzeu Baba Vanga",
-            "en": "Baba Vanga House-Museum"
+            "en": "Baba Vanga House-Museum",
+            "bg": "Къща-музей „Ванга”"
           },
           "coords": [
             23.212,
@@ -133,7 +142,8 @@
             "de": "Tauchen Sie ein in das Leben und die Prophezeiungen der berühmten Seherin.",
             "hu": "Merüljön el a híres látnok életében és jövendöléseiben.",
             "ro": "Cufundați-vă în viața și profețiile faimoasei clarvăzătoare.",
-            "en": "Immerse yourself in the life and prophecies of the famous seer."
+            "en": "Immerse yourself in the life and prophecies of the famous seer.",
+            "bg": "Потопете се в живота и пророчествата на известната ясновидка."
           }
         },
         {
@@ -141,7 +151,8 @@
             "de": "Stadtpark Mlodost",
             "hu": "Mladost városi park",
             "ro": "Parcul Orășenesc Mladost",
-            "en": "Mladost City Park"
+            "en": "Mladost City Park",
+            "bg": "Градски парк „Младост”"
           },
           "coords": [
             23.218,
@@ -157,7 +168,8 @@
             "de": "Der perfekte Ort, um den Tag mit einem entspannten Spaziergang ausklingen zu lassen.",
             "hu": "Tökéletes hely a nap lezárására egy pihentető sétával.",
             "ro": "Locul perfect pentru a încheia ziua cu o plimbare relaxantă.",
-            "en": "The perfect place to end the day with a relaxing stroll."
+            "en": "The perfect place to end the day with a relaxing stroll.",
+            "bg": "Перфектното място да завършите деня с релаксираща разходка."
           }
         }
       ],
@@ -165,7 +177,8 @@
         "de": "Beginnen Sie Ihren Tag im Herzen von Petritsch, wo Geschichte an jeder Ecke spürbar ist. Nach einem Vormittag voller Kultur und spiritueller Einblicke widmen Sie den Nachmittag dem mystischen Erbe von Baba Wanga. Schließen Sie den Tag mit einem entspannten Spaziergang im Stadtpark ab und genießen Sie die friedliche Atmosphäre der Stadt.",
         "hu": "Kezdje a napot Petrics szívében, ahol a történelem minden sarkon érezhető. A kultúrával és spirituális betekintéssel teli délelőtt után szentelje a délutánt Baba Vanga misztikus örökségének. Zárja a napot egy pihentető sétával a városi parkban, élvezve a város békés hangulatát.",
         "ro": "Începeți ziua în inima orașului Petrici, unde istoria se simte la fiecare colț. După o dimineață plină de cultură și perspective spirituale, dedicați după-amiaza moștenirii mistice a Babei Vanga. Încheiați ziua cu o plimbare relaxantă în parcul orașului, bucurându-vă de atmosfera pașnică a orașului.",
-        "en": "Start your day in the heart of Petrich, where history is palpable at every corner. After a morning of culture and spiritual insights, dedicate the afternoon to the mystical legacy of Baba Vanga. Conclude your day with a relaxing stroll in the city park, soaking in the town's peaceful atmosphere."
+        "en": "Start your day in the heart of Petrich, where history is palpable at every corner. After a morning of culture and spiritual insights, dedicate the afternoon to the mystical legacy of Baba Vanga. Conclude your day with a relaxing stroll in the city park, soaking in the town's peaceful atmosphere.",
+        "bg": "Започнете деня в сърцето на Петрич, където историята се усеща на всяка крачка. След сутрин на култура и духовни прозрения посвещавайте следобеда на мистичното наследство на Ванга. Завършете деня с отпускаща разходка в градския парк, наслаждавайки се на спокойната атмосфера на града."
       },
       "gastro_picks": {
         "de": [
@@ -305,6 +318,11 @@
           "Wear comfortable shoes as the city center is compact and very walkable.",
           "Take your time to explore the small streets and hidden courtyards.",
           "Many cafes offer refreshing drinks for a break in between."
+        ],
+        "bg": [
+          "Носете удобни обувки — центърът е компактен и много подходящ за ходене пеша.",
+          "Отделете време да изследвате малките улички и скритите дворове.",
+          "Много кафенета предлагат освежаващи напитки за почивка между разглежданията."
         ]
       },
       "variants": {
@@ -313,7 +331,8 @@
             "de": "Starten Sie den Tag im Historischen Museum, um dem Regen zu entgehen. Mittags besuchen Sie den Uhrturm und die St.-Georgs-Kirche für kurze, trockene Aufenthalte. Am Nachmittag bietet das Baba-Wanga-Haus eine intime Atmosphäre unter prasselndem Regen. Den Abend lassen Sie im Mladost-Stadtpark ausklingen, wo die nassen Alleen im Laternenlicht glänzen.",
             "hu": "Kezdje a napot a Történeti Múzeumban, védve az esőtől. Délben az óratorony és a Szent György-templom kínál rövid menedéket a záporok között. Délután a Baba Vanga-ház meghitt hangulata várja a szemerkélő esőben. Az estét a Mladost városi parkban zárja, ahol a vizes utak csillognak az utcai lámpák fényében.",
             "ro": "Începeți ziua la Muzeul de Istorie pentru a evita ploaia. La prânz, vizitați Turnul cu Ceas și Biserica Sf. Gheorghe pentru scurte opriri uscate. După-amiaza, Casa Baba Vanga oferă o atmosferă intimă sub ploaia care cade. Încheiați seara în Parcul Mladost, unde aleile umede strălucesc sub lumina felinarelor.",
-            "en": "Start the day at the Historical Museum to escape the rain. At noon, visit the Clock Tower and St. George Church for short, dry intervals. In the afternoon, the Baba Vanga House offers an intimate atmosphere under the patter of rain. End the evening in Mladost City Park, where the wet paths glisten under the streetlights."
+            "en": "Start the day at the Historical Museum to escape the rain. At noon, visit the Clock Tower and St. George Church for short, dry intervals. In the afternoon, the Baba Vanga House offers an intimate atmosphere under the patter of rain. End the evening in Mladost City Park, where the wet paths glisten under the streetlights.",
+            "bg": "Започнете деня в Историческия музей, за да избягате от дъжда. По обед посетете Часовниковата кула и църквата „Свети Георги” за кратки сухи интервали. Следобед Къщата на Ванга предлага интимна атмосфера под капките. Завършете вечерта в Градски парк „Младост”, където мокрите алеи блясват под уличните лампи."
           },
           "stops": [
             {
@@ -322,7 +341,8 @@
                 "de": "Große Garderobe für nasse Mäntel und Schirme.",
                 "hu": "Tágas ruhatár a vizes kabátoknak és ernyőknek.",
                 "ro": "Garderobă spațioasă pentru haine ude și umbrele.",
-                "en": "Spacious cloakroom available for wet coats and umbrellas."
+                "en": "Spacious cloakroom available for wet coats and umbrellas.",
+                "bg": "Просторно гардеробче за мокри палта и чадъри."
               }
             },
             {
@@ -331,7 +351,8 @@
                 "de": "Der Boden kann bei Nässe rutschig sein, Vorsicht.",
                 "hu": "A kövezet vizesen csúszós lehet, óvatosan lépkedjen.",
                 "ro": "Podeaua poate fi alunecoasă când este umedă, atenție.",
-                "en": "The ground can be slippery when wet, watch your step."
+                "en": "The ground can be slippery when wet, watch your step.",
+                "bg": "Теренът може да бъде хлъзгав при влажно време, внимавайте къде стъпвате."
               }
             },
             {
@@ -340,7 +361,8 @@
                 "de": "Ein ruhiger Ort, um einen Regenschauer abzuwarten.",
                 "hu": "Csendes hely egy nagyobb zápor kivárására.",
                 "ro": "Un loc liniștit pentru a aștepta trecerea unei ploi.",
-                "en": "A quiet place to wait out a heavy rain shower."
+                "en": "A quiet place to wait out a heavy rain shower.",
+                "bg": "Тихо място, където да изчакате силен дъжд."
               }
             },
             {
@@ -349,7 +371,8 @@
                 "de": "Nur ein kurzer Stopp für ein schnelles Foto.",
                 "hu": "Csak egy rövid megálló egy gyors fotó erejéig.",
                 "ro": "Doar o scurtă oprire pentru o fotografie rapidă.",
-                "en": "Just a short stop for a quick photo."
+                "en": "Just a short stop for a quick photo.",
+                "bg": "Само кратка спирка за бърза снимка."
               }
             },
             {
@@ -358,7 +381,8 @@
                 "de": "Drinnen ist es gemütlich und trocken.",
                 "hu": "A belső terekben barátságos és száraz az idő.",
                 "ro": "În interior este confortabil și uscat.",
-                "en": "The interior is cozy and dry."
+                "en": "The interior is cozy and dry.",
+                "bg": "Интериорът е уютен и сух."
               }
             },
             {
@@ -367,7 +391,8 @@
                 "de": "Nutzen Sie die asphaltierten Wege statt der Wiesen.",
                 "hu": "Használja az aszfaltozott utakat a fű helyett.",
                 "ro": "Folosiți aleile asfaltate în locul ierbii.",
-                "en": "Stick to the paved paths instead of the grass."
+                "en": "Stick to the paved paths instead of the grass.",
+                "bg": "Дръжте се по павираните пътеки, а не по тревата."
               }
             }
           ],
@@ -399,6 +424,13 @@
               "A compact umbrella is ideal for short distances.",
               "Check museum hours, they might be closed on Mondays.",
               "The park paths are well-lit even in rainy weather."
+            ],
+            "bg": [
+              "Носете водоустойчиви обувки за калдъръмените улички.",
+              "Много кафенета около музея предлагат добър подслон.",
+              "Компактен чадър е идеален за къси разстояния.",
+              "Проверете работното време на музея — може да е затворен в понеделник.",
+              "Пътеките в парка са добре осветени дори при дъждовно време."
             ]
           }
         },
@@ -407,7 +439,8 @@
             "de": "Ein frischer Wintermorgen beginnt im beheizten Museum. Mittags locken die klaren Linien des Uhrturms und die Stille der Kirche. Nachmittags erfahren Sie Wärme und Mystik im Baba-Wanga-Haus. Da die Sonne gegen 17:00 Uhr untergeht, genießen Sie die blaue Stunde im Stadtpark, bevor Sie sich in ein warmes Restaurant zurückziehen.",
             "hu": "A friss téli reggel a fűtött múzeumban indul. Délben az óratorony tiszta vonalai és a templom csendje hívogat. Délután a Baba Vanga-ház misztikus melegében pihenhet. Mivel a nap 17:00 körül nyugszik, élvezze a kék órát a városi parkban, mielőtt beülne egy meleg étterembe.",
             "ro": "O dimineață răcoroasă de iarnă începe la muzeul încălzit. La prânz, liniile clare ale Turnului cu Ceas și liniștea bisericii vă atrag. După-amiaza, descoperiți căldura și misticismul Casei Baba Vanga. Deoarece soarele apune în jur de ora 17:00, bucurați-vă de ora albastră în parcul orașului.",
-            "en": "A crisp winter morning begins in the heated museum. At noon, the clear lines of the Clock Tower and the silence of the church beckon. In the afternoon, experience warmth and mysticism in the Baba Vanga House. As the sun sets around 5:00 PM, enjoy the blue hour in the city park before retreating to a warm restaurant."
+            "en": "A crisp winter morning begins in the heated museum. At noon, the clear lines of the Clock Tower and the silence of the church beckon. In the afternoon, experience warmth and mysticism in the Baba Vanga House. As the sun sets around 5:00 PM, enjoy the blue hour in the city park before retreating to a warm restaurant.",
+            "bg": "Свеж зимен сутрин започва в отопления музей. По обед ясните очертания на Часовниковата кула и тишината на църквата привличат. Следобед усетете топлина и мистицизъм в Къщата на Ванга. След залез около 17:00 ч. се насладете на синята светлина в градския парк преди да се оттеглите в топъл ресторант."
           },
           "stops": [
             {
@@ -416,7 +449,8 @@
                 "de": "Perfekt temperierte Ausstellungsräume.",
                 "hu": "Kellemesen fűtött kiállítótermek.",
                 "ro": "Săli de expoziție cu temperatură plăcută.",
-                "en": "Perfectly heated exhibition rooms."
+                "en": "Perfectly heated exhibition rooms.",
+                "bg": "Перфектно отоплени изложбени зали."
               }
             },
             {
@@ -425,7 +459,8 @@
                 "de": "Windanfälliger Ort, ziehen Sie sich warm an.",
                 "hu": "Szeles pont, öltözzön fel melegen.",
                 "ro": "Loc expus vântului, îmbrăcați-vă gros.",
-                "en": "Windy spot, dress warmly for the photo."
+                "en": "Windy spot, dress warmly for the photo.",
+                "bg": "Ветровито място — облечете се топло за снимката."
               }
             },
             {
@@ -434,7 +469,8 @@
                 "de": "Die Kerzen sorgen für eine warme Atmosphäre.",
                 "hu": "A gyertyák meleg és meghitt hangulatot árasztanak.",
                 "ro": "Lumânările creează o atmosferă caldă.",
-                "en": "Candles provide a warm and peaceful atmosphere."
+                "en": "Candles provide a warm and peaceful atmosphere.",
+                "bg": "Свещите създават топла и спокойна атмосфера."
               }
             },
             {
@@ -443,7 +479,8 @@
                 "de": "Im Winter oft von Reif bedeckt, sehr fotogen.",
                 "hu": "Télen gyakran dér borítja, nagyon fotogén.",
                 "ro": "Iarna este adesea acoperit de brumă, foarte fotogenic.",
-                "en": "Often covered in frost in winter, very photogenic."
+                "en": "Often covered in frost in winter, very photogenic.",
+                "bg": "Често покрито с роса или слана през зимата, много фотогенично."
               }
             },
             {
@@ -452,7 +489,8 @@
                 "de": "Ein kleiner, gut beheizter Rückzugsort.",
                 "hu": "Kicsi, jól fűtött és barátságos helyszín.",
                 "ro": "Un refugiu mic și bine încălzit.",
-                "en": "A small, well-heated and welcoming retreat."
+                "en": "A small, well-heated and welcoming retreat.",
+                "bg": "Малко, добре отоплено и приветливо укритие."
               }
             },
             {
@@ -461,7 +499,8 @@
                 "de": "Frühzeitiger Sonnenuntergang beachten (ca. 16:45).",
                 "hu": "Figyeljen a korai naplementére (kb. 16:45).",
                 "ro": "Atenție la apusul timpuriu (aprox. 16:45).",
-                "en": "Note the early sunset (around 4:45 PM)."
+                "en": "Note the early sunset (around 4:45 PM).",
+                "bg": "Обърнете внимание на ранния залез (около 16:45 ч.)."
               }
             }
           ],
@@ -493,6 +532,13 @@
               "The sun disappears early behind the mountains.",
               "Sidewalks can be icy in the mornings.",
               "Look for a restaurant with a fireplace for lunch."
+            ],
+            "bg": [
+              "Пийте горски български билков чай, за да се стоплите.",
+              "Препоръчва се наслояване на дрехи при чести преминавания между вътре и навън.",
+              "Слънцето изчезва рано зад планината.",
+              "Тротоарите могат да бъдат заледени сутринта.",
+              "Потърсете ресторант с камина за обяд."
             ]
           }
         }
@@ -511,7 +557,8 @@
             "de": "Stadtpark Mlodost",
             "hu": "Mladost városi park",
             "ro": "Parcul Orășenesc Mladost",
-            "en": "Mladost City Park"
+            "en": "Mladost City Park",
+            "bg": "Градски парк „Младост”"
           },
           "coords": [
             23.218,
@@ -527,7 +574,8 @@
             "de": "Ein sanfter Start in den Tag mit einer Runde durch den größten Park der Stadt.",
             "hu": "Kezdje a napot egy kellemes tekeréssel a város legnagyobb parkjában.",
             "ro": "Un început blând de zi cu o tură prin cel mai mare parc din oraș.",
-            "en": "A gentle start to the day with a ride through the city's largest park."
+            "en": "A gentle start to the day with a ride through the city's largest park.",
+            "bg": "Нежно начало на деня с разходка през най-големия парк в града."
           }
         },
         {
@@ -535,7 +583,8 @@
             "de": "Historisches Museum & Uhrturm",
             "hu": "Történeti Múzeum és Óratorony",
             "ro": "Muzeul de Istorie și Turnul cu Ceas",
-            "en": "Historical Museum & Clock Tower"
+            "en": "Historical Museum & Clock Tower",
+            "bg": "Исторически музей и Часовникова кула"
           },
           "coords": [
             23.209,
@@ -551,7 +600,8 @@
             "de": "Stellen Sie Ihr Fahrrad ab und erkunden Sie diese beiden nahe beieinander liegenden Sehenswürdigkeiten.",
             "hu": "Parkolja le a kerékpárt, és fedezze fel ezt a két, egymáshoz közeli látnivalót.",
             "ro": "Parcați bicicleta și explorați aceste două atracții apropiate.",
-            "en": "Park your bike and explore these two closely located attractions."
+            "en": "Park your bike and explore these two closely located attractions.",
+            "bg": "Паркирайте колелото и разгледайте тези две близко разположени забележителности."
           }
         },
         {
@@ -559,7 +609,8 @@
             "de": "Haus-Museum Baba Wanga",
             "hu": "Baba Vanga Ház-múzeum",
             "ro": "Casa-Muzeu Baba Vanga",
-            "en": "Baba Vanga House-Museum"
+            "en": "Baba Vanga House-Museum",
+            "bg": "Къща-музей „Ванга”"
           },
           "coords": [
             23.212,
@@ -575,7 +626,8 @@
             "de": "Eine kurze Fahrt zu einem der faszinierendsten Orte der Stadt.",
             "hu": "Egy rövid tekerés a város egyik leglenyűgözőbb helyére.",
             "ro": "O scurtă plimbare cu bicicleta până la unul dintre cele mai fascinante locuri din oraș.",
-            "en": "A short ride to one of the most fascinating spots in town."
+            "en": "A short ride to one of the most fascinating spots in town.",
+            "bg": "Кратко каране до едно от най-завладяващите места в града."
           }
         },
         {
@@ -583,7 +635,8 @@
             "de": "Belasiza-Aussichtspunkt",
             "hu": "Belasica-kilátó",
             "ro": "Punct de belvedere Belasița",
-            "en": "Belasitsa Viewpoint"
+            "en": "Belasitsa Viewpoint",
+            "bg": "Виетнаманска гледка (Беласица)"
           },
           "coords": [
             23.18,
@@ -599,7 +652,8 @@
             "de": "Die Steigung lohnt sich für den Panoramablick über das Tal.",
             "hu": "Megéri feltekerni az emelkedőn a völgyre nyíló panorámáért.",
             "ro": "Urcușul merită pentru vederea panoramică asupra văii.",
-            "en": "The climb is worth it for the panoramic view over the valley."
+            "en": "The climb is worth it for the panoramic view over the valley.",
+            "bg": "Катерещото се изкачване си заслужава за панорамната гледка над долината."
           }
         },
         {
@@ -607,7 +661,8 @@
             "de": "Samuils Festung",
             "hu": "Sámuel erődje",
             "ro": "Fortăreața lui Samuil",
-            "en": "Samuel's Fortress"
+            "en": "Samuel's Fortress",
+            "bg": "Крепостта на Самуил"
           },
           "coords": [
             23.1167,
@@ -623,7 +678,8 @@
             "de": "Eine längere Fahrt zu einem Ort von großer historischer Bedeutung. Ein krönender Abschluss.",
             "hu": "Egy hosszabb tekerés egy nagy történelmi jelentőségű helyszínre. Méltó befejezés.",
             "ro": "O plimbare mai lungă către un loc de mare importanță istorică. O încheiere grandioasă.",
-            "en": "A longer ride to a site of great historical importance. A crowning conclusion."
+            "en": "A longer ride to a site of great historical importance. A crowning conclusion.",
+            "bg": "По-дълго каране до място с голямо историческо значение. Върховен завършек."
           }
         }
       ],
@@ -631,7 +687,8 @@
         "de": "Erkunden Sie Petritsch und seine Umgebung auf zwei Rädern. Der Morgen ist dem grünen Herzen der Stadt und dem kulturellen Zentrum gewidmet. Am Nachmittag führt Sie die Tour aus der Stadt hinaus zu atemberaubenden Aussichtspunkten und tief in die bulgarische Geschichte bei der Festung von Samuil. Ein aktiver Tag, der Natur und Kultur perfekt verbindet.",
         "hu": "Fedezze fel Petricset és környékét két keréken. A délelőtt a város zöld szívének és kulturális központjának van szentelve. Délután a túra kivezet a városból, lélegzetelállító kilátókhoz és mélyen a bolgár történelembe, Sámuel erődjéhez. Egy aktív nap, amely tökéletesen ötvözi a természetet és a kultúrát.",
         "ro": "Explorați Petrici și împrejurimile sale pe două roți. Dimineața este dedicată inimii verzi a orașului și centrului cultural. După-amiaza, turul vă duce în afara orașului, la puncte de belvedere uluitoare și adânc în istoria bulgară, la fortăreața lui Samuil. O zi activă care combină perfect natura și cultura.",
-        "en": "Explore Petrich and its surroundings on two wheels. The morning is dedicated to the city's green heart and cultural center. In the afternoon, the tour takes you out of town to breathtaking viewpoints and deep into Bulgarian history at Samuel's Fortress. An active day that perfectly combines nature and culture."
+        "en": "Explore Petrich and its surroundings on two wheels. The morning is dedicated to the city's green heart and cultural center. In the afternoon, the tour takes you out of town to breathtaking viewpoints and deep into Bulgarian history at Samuel's Fortress. An active day that perfectly combines nature and culture.",
+        "bg": "Разгледайте Петрич и околностите му на два колела. Сутринта е посветена на зеленото сърце и културния център на града. Следобед турът ви извежда извън града към спиращи дъха панорами и навлиза дълбоко в българската история при Крепостта на Самуил. Активен ден, който перфектно комбинира природа и култура."
       },
       "gastro_picks": {
         "de": [
@@ -771,6 +828,11 @@
           "Check the condition of your bike before leaving, especially before the ride to the fortress.",
           "Bring enough water, the route to the viewpoint can be strenuous.",
           "Some roads outside the city may not be paved."
+        ],
+        "bg": [
+          "Проверете състоянието на колелото преди тръгване, особено преди карането към крепостта.",
+          "Носете достатъчно вода — маршрутът към панорамната гледка може да е изтощителен.",
+          "Някои пътища извън града може да не са асфалтирани."
         ]
       },
       "variants": {
@@ -779,7 +841,8 @@
             "de": "Ein Abenteuer auf zwei Rädern trotz Regen. Morgens bietet der Park Schutz unter dichten Bäumen, gefolgt von langen Museumsbesuchen. Mittags radeln Sie zum Vanga-Haus. Die Fahrt zum Belasitsa-Aussichtspunkt ist bei Nebel mystisch, und die Samuil-Festung wirkt im Regen besonders trutzig.",
             "hu": "Kétkerekű kaland az eső ellenére is. Reggel a park sűrű fái adnak védelmet, majd hosszú múzeumlátogatás következik. Délben tekerjen el a Vanga-házhoz. A Belasica-kilátóhoz vezető út ködben misztikus, Sámuel vára pedig különösen zord az esőben.",
             "ro": "O aventură pe două roți în ciuda ploii. Dimineața, parcul oferă protecție sub copacii deși, urmată de vizite lungi la muzee. La prânz, pedalați spre Casa Vanga. Drumul spre punctul de belvedere Belasitsa este mistic în ceață.",
-            "en": "A two-wheeled adventure despite the rain. In the morning, the park offers shelter under thick trees, followed by long museum visits. At noon, cycle to the Vanga House. The ride to Belasitsa Viewpoint is mystical in the fog, and Samuel's Fortress looks particularly defiant in the rain."
+            "en": "A two-wheeled adventure despite the rain. In the morning, the park offers shelter under thick trees, followed by long museum visits. At noon, cycle to the Vanga House. The ride to Belasitsa Viewpoint is mystical in the fog, and Samuel's Fortress looks particularly defiant in the rain.",
+            "bg": "Приключение на две колела въпреки дъжда. Сутринта паркът предлага подслон под гъстите дървета, последван от дълги музейни посещения. По обед карайте до Къщата на Ванга. Пътят към Беласица е мистичен в мъглата, а Крепостта на Самуил изглежда особено настървена под дъжда."
           },
           "stops": [
             {
@@ -788,7 +851,8 @@
                 "de": "Vorsicht vor nassem Laub auf den Radwegen.",
                 "hu": "Vigyázzon a vizes levelekre a kerékpárúton.",
                 "ro": "Atenție la frunzele ude pe pistele de biciclete.",
-                "en": "Watch out for wet leaves on the cycling paths."
+                "en": "Watch out for wet leaves on the cycling paths.",
+                "bg": "Внимавайте за мокри листа по велоалеите."
               }
             },
             {
@@ -797,7 +861,8 @@
                 "de": "Überdachte Fahrradständer in der Nähe suchen.",
                 "hu": "Keressen fedett biciklitárolót a közelben.",
                 "ro": "Căutați rastele de biciclete acoperite în apropiere.",
-                "en": "Look for covered bike racks nearby."
+                "en": "Look for covered bike racks nearby.",
+                "bg": "Потърсете покрити стойки за велосипеди наблизо."
               }
             },
             {
@@ -806,7 +871,8 @@
                 "de": "Kurze Fahrstrecke im Stadtgebiet.",
                 "hu": "Rövid tekerés a városon belül.",
                 "ro": "Distanță scurtă de parcurs în oraș.",
-                "en": "Short cycling distance within the city."
+                "en": "Short cycling distance within the city.",
+                "bg": "Късо разстояние за каране в рамките на града."
               }
             },
             {
@@ -815,7 +881,8 @@
                 "de": "Die Straße kann bei Regen rutschig sein.",
                 "hu": "Az út vizesen csúszós lehet emelkedő közben.",
                 "ro": "Drumul poate fi alunecos pe ploaie.",
-                "en": "The road can be slippery during the ascent in rain."
+                "en": "The road can be slippery during the ascent in rain.",
+                "bg": "Пътят може да бъде хлъзгав при изкачване в дъжд."
               }
             },
             {
@@ -824,7 +891,8 @@
                 "de": "Starke Winde auf der Mauer bei Sturm möglich.",
                 "hu": "Viharos szél várható a várfalakon.",
                 "ro": "Vânt puternic pe ziduri în caz de furtună.",
-                "en": "Strong winds possible on the fortress walls."
+                "en": "Strong winds possible on the fortress walls.",
+                "bg": "Силни ветрове са възможни по стените на крепостта."
               }
             }
           ],
@@ -856,6 +924,13 @@
               "Visibility at the viewpoint might be limited.",
               "Mudguards on your bike are highly recommended.",
               "Samuel's Fortress offers little shelter from rain."
+            ],
+            "bg": [
+              "Пълно дъждобранско облекло е задължително за тази разходка.",
+              "Проверете спирачките си преди спускането от Беласица.",
+              "Видимостта на панорамата може да бъде ограничена.",
+              "Калници на колелото са силно препоръчителни.",
+              "Крепостта на Самуил предлага малко укритие от дъжда."
             ]
           }
         },
@@ -864,7 +939,8 @@
             "de": "Ein frostiger Tag für aktive Radler. Morgens ist der Park friedlich und leer. Mittags wärmen Sie sich in den Museen auf. Die Fahrt nach Belasitsa erfordert Ausdauer gegen die Kälte, belohnt aber mit klarer Fernsicht. Beenden Sie die Tour an der Samuil-Festung, bevor der kalte Abendwind zunimmt.",
             "hu": "Fagyos nap az aktív bringásoknak. Reggel a park békés és üres. Délben melegedjen fel a múzeumokban. A Belasica felé vezető út kitartást igényel a hidegben, de tiszta kilátással jutalmaz. Zárja a túrát Sámuel váránál, mielőtt feltámad az esti fagyos szél.",
             "ro": "O zi geroasă pentru bicicliștii activi. Dimineața parcul este liniștit. La prânz, încălziți-vă în muzee. Drumul spre Belasitsa necesită rezistență la frig, dar oferă vederi clare. Încheiați turul la Cetatea lui Samuil.",
-            "en": "A frosty day for active cyclists. In the morning, the park is peaceful and empty. At noon, warm up in the museums. The ride to Belasitsa requires endurance against the cold but rewards with clear views. Finish the tour at Samuel's Fortress before the cold evening wind picks up."
+            "en": "A frosty day for active cyclists. In the morning, the park is peaceful and empty. At noon, warm up in the museums. The ride to Belasitsa requires endurance against the cold but rewards with clear views. Finish the tour at Samuel's Fortress before the cold evening wind picks up.",
+            "bg": "Студен ден за активни велосипедисти. Сутринта паркът е спокоен и празен. По обед стоплете се в музеите. Карането към Беласица изисква издръжливост срещу студа, но се отплаща с ясни гледки. Завършете тура в Крепостта на Самуил преди да се усили вечерният студен вятър."
           },
           "stops": [
             {
@@ -873,7 +949,8 @@
                 "de": "Morgens kann es auf Brücken glatt sein.",
                 "hu": "Reggelente a hidakon jegesedés várható.",
                 "ro": "Dimineața pot fi porțiuni înghețate pe poduri.",
-                "en": "Watch for icy patches on bridges in the morning."
+                "en": "Watch for icy patches on bridges in the morning.",
+                "bg": "Внимавайте за заледени участъци по мостовете сутринта."
               }
             },
             {
@@ -882,7 +959,8 @@
                 "de": "Nutzen Sie den Stopp zum Aufwärmen der Hände.",
                 "hu": "Használja ki a megállót a kezei felmelegítésére.",
                 "ro": "Folosiți oprirea pentru a vă încălzi mâinile.",
-                "en": "Use this stop to warm up your hands."
+                "en": "Use this stop to warm up your hands.",
+                "bg": "Използвайте тази спирка, за да затоплите ръцете си."
               }
             },
             {
@@ -891,7 +969,8 @@
                 "de": "Kleiner Garten, im Winter schnell besichtigt.",
                 "hu": "A kis kert télen gyorsan bejárható.",
                 "ro": "Grădină mică, ușor de vizitat iarna.",
-                "en": "The small garden is quick to visit in winter."
+                "en": "The small garden is quick to visit in winter.",
+                "bg": "Малката градина е бърза за разглеждане през зимата."
               }
             },
             {
@@ -900,7 +979,8 @@
                 "de": "Tragen Sie winddichte Handschuhe für die Abfahrt.",
                 "hu": "Viseljen szélálló kesztyűt a lefelé úton.",
                 "ro": "Purtați mănuși rezistente la vânt pentru coborâre.",
-                "en": "Wear windproof gloves for the descent."
+                "en": "Wear windproof gloves for the descent.",
+                "bg": "Носете ветроустойчиви ръкавици за спускането."
               }
             },
             {
@@ -909,7 +989,8 @@
                 "de": "Besuch vor 16:30 Uhr planen (Lichtverhältnisse).",
                 "hu": "Tervezze a látogatást 16:30 előtt a fényviszonyok miatt.",
                 "ro": "Planificați vizita înainte de 16:30 (lumină).",
-                "en": "Plan your visit before 4:30 PM due to light conditions."
+                "en": "Plan your visit before 4:30 PM due to light conditions.",
+                "bg": "Планирайте посещението си преди 16:30 ч. заради светлинните условия."
               }
             }
           ],
@@ -941,6 +1022,13 @@
               "The sun sets very early in winter.",
               "Carry a thermos with hot tea.",
               "Bike lights are mandatory due to early twilight."
+            ],
+            "bg": [
+              "Топло термооблекло е от съществено значение за колоездене.",
+              "Внимавайте за заледени места в сенчестите кътчета.",
+              "Слънцето залязва много рано през зимата.",
+              "Носете термос с горещ чай.",
+              "Светлините на велосипеда са задължителни поради ранния здрач."
             ]
           }
         }
@@ -959,7 +1047,8 @@
             "de": "Samuils Festung",
             "hu": "Sámuel erődje",
             "ro": "Fortăreața lui Samuil",
-            "en": "Samuel's Fortress"
+            "en": "Samuel's Fortress",
+            "bg": "Крепостта на Самуил"
           },
           "coords": [
             23.1167,
@@ -975,7 +1064,8 @@
             "de": "Beginnen Sie den Tag mit einer Fahrt in die Geschichte. Es gibt normalerweise genügend Parkplätze.",
             "hu": "Kezdje a napot egy utazással a történelembe. Általában van elég parkolóhely.",
             "ro": "Începeți ziua cu o călătorie în istorie. De obicei, există suficiente locuri de parcare.",
-            "en": "Start the day with a drive into history. There is usually enough parking space."
+            "en": "Start the day with a drive into history. There is usually enough parking space.",
+            "bg": "Започнете деня с пътуване в историята. Обикновено има достатъчно паркоместа."
           }
         },
         {
@@ -983,7 +1073,8 @@
             "de": "Belasiza-Aussichtspunkt",
             "hu": "Belasica-kilátó",
             "ro": "Punct de belvedere Belasița",
-            "en": "Belasitsa Viewpoint"
+            "en": "Belasitsa Viewpoint",
+            "bg": "Беласишка панорама (Беласица)"
           },
           "coords": [
             23.18,
@@ -999,7 +1090,8 @@
             "de": "Eine kurze Fahrt für eine spektakuläre Aussicht. Der Parkplatz befindet sich in der Nähe des Aussichtspunktes.",
             "hu": "Egy rövid autóút egy látványos kilátásért. A parkoló a kilátó közelében található.",
             "ro": "O scurtă călătorie cu mașina pentru o priveliște spectaculoasă. Parcarea este aproape de punctul de belvedere.",
-            "en": "A short drive for a spectacular view. The parking lot is near the viewpoint."
+            "en": "A short drive for a spectacular view. The parking lot is near the viewpoint.",
+            "bg": "Кратко каране до впечатляваща гледка. Паркингът е близо до панорамата."
           }
         },
         {
@@ -1007,7 +1099,8 @@
             "de": "Cluster: Stadtzentrum Petritsch (Parken)",
             "hu": "Klaszter: Petrics városközpont (Parkolás)",
             "ro": "Cluster: Centrul orașului Petrici (Parcare)",
-            "en": "Cluster: Petrich City Center (Parking)"
+            "en": "Cluster: Petrich City Center (Parking)",
+            "bg": "Клъстър: Център на Петрич (Паркиране)"
           },
           "coords": [
             23.208,
@@ -1023,7 +1116,8 @@
             "de": "Parken Sie hier für den Rest des Nachmittags und erkunden Sie das Zentrum zu Fuß.",
             "hu": "Parkoljon le itt a délután hátralévő részére, és fedezze fel a központot gyalog.",
             "ro": "Parcați aici pentru restul după-amiezii și explorați centrul pe jos.",
-            "en": "Park here for the rest of the afternoon and explore the center on foot."
+            "en": "Park here for the rest of the afternoon and explore the center on foot.",
+            "bg": "Паркирайте тук за останалата част от следобеда и разгледайте центъра пеша."
           }
         },
         {
@@ -1031,7 +1125,8 @@
             "de": "Historisches Museum & Uhrturm",
             "hu": "Történeti Múzeum és Óratorony",
             "ro": "Muzeul de Istorie și Turnul cu Ceas",
-            "en": "Historical Museum & Clock Tower"
+            "en": "Historical Museum & Clock Tower",
+            "bg": "Исторически музей и Часовникова кула"
           },
           "coords": [
             23.209,
@@ -1047,7 +1142,8 @@
             "de": "Beginnen Sie Ihren Rundgang durch das Stadtzentrum mit einer Dosis lokaler Geschichte.",
             "hu": "Kezdje a belvárosi sétát egy adag helytörténettel.",
             "ro": "Începeți turul centrului orașului cu o doză de istorie locală.",
-            "en": "Start your tour of the city center with a dose of local history."
+            "en": "Start your tour of the city center with a dose of local history.",
+            "bg": "Започнете своята обиколка на центъра на града с доза местна история."
           }
         },
         {
@@ -1055,7 +1151,8 @@
             "de": "Haus-Museum Baba Wanga",
             "hu": "Baba Vanga Ház-múzeum",
             "ro": "Casa-Muzeu Baba Vanga",
-            "en": "Baba Vanga House-Museum"
+            "en": "Baba Vanga House-Museum",
+            "bg": "Къща-музей на Баба Ванга"
           },
           "coords": [
             23.212,
@@ -1071,7 +1168,8 @@
             "de": "Ein kurzer Spaziergang vom Museum zu diesem faszinierenden Ort.",
             "hu": "Egy rövid séta a múzeumtól ehhez a lenyűgöző helyhez.",
             "ro": "O scurtă plimbare de la muzeu la acest loc fascinant.",
-            "en": "A short walk from the museum to this fascinating place."
+            "en": "A short walk from the museum to this fascinating place.",
+            "bg": "Кратка разходка от музея до това завладяващо място."
           }
         },
         {
@@ -1079,7 +1177,8 @@
             "de": "Stadtpark Mlodost",
             "hu": "Mladost városi park",
             "ro": "Parcul Orășenesc Mladost",
-            "en": "Mladost City Park"
+            "en": "Mladost City Park",
+            "bg": "Градски парк „Младост”"
           },
           "coords": [
             23.218,
@@ -1095,7 +1194,8 @@
             "de": "Beenden Sie Ihren Spaziergang, bevor Sie zu Ihrem Auto zurückkehren.",
             "hu": "Fejezze be a sétát, mielőtt visszatér az autójához.",
             "ro": "Încheiați-vă plimbarea înainte de a vă întoarce la mașină.",
-            "en": "Finish your walk before returning to your car."
+            "en": "Finish your walk before returning to your car.",
+            "bg": "Завършете разходката преди да се върнете до колата си."
           }
         }
       ],
@@ -1103,7 +1203,8 @@
         "de": "Nutzen Sie die Flexibilität des Autos, um zuerst die weiter entfernten historischen Stätten zu besuchen. Der Vormittag ist der beeindruckenden Samuils Festung und der Panoramasicht vom Belasiza gewidmet. Am Nachmittag parken Sie im Zentrum von Petritsch und erkunden das Herz der Stadt, einschließlich des Baba-Wanga-Museums und des Stadtparks, bequem zu Fuß.",
         "hu": "Használja ki az autó rugalmasságát, hogy először a távolabbi történelmi helyszíneket látogassa meg. A délelőtt a lenyűgöző Sámuel erődé és a Belasica panorámájáé. Délután parkoljon le Petrics központjában, és fedezze fel kényelmesen, gyalog a város szívét, beleértve a Baba Vanga múzeumot és a városi parkot.",
         "ro": "Folosiți flexibilitatea mașinii pentru a vizita mai întâi siturile istorice mai îndepărtate. Dimineața este dedicată impresionantei Fortărețe a lui Samuil și vederii panoramice de pe Belasița. După-amiaza, parcați în centrul orașului Petrici și explorați inima orașului, inclusiv muzeul Baba Vanga și parcul orașului, confortabil pe jos.",
-        "en": "Use the flexibility of the car to first visit the more distant historical sites. The morning is dedicated to the impressive Samuel's Fortress and the panoramic view from Belasitsa. In the afternoon, park in the center of Petrich and explore the heart of the city, including the Baba Vanga Museum and the city park, comfortably on foot."
+        "en": "Use the flexibility of the car to first visit the more distant historical sites. The morning is dedicated to the impressive Samuel's Fortress and the panoramic view from Belasitsa. In the afternoon, park in the center of Petrich and explore the heart of the city, including the Baba Vanga Museum and the city park, comfortably on foot.",
+        "bg": "Използвайте гъвкавостта на колата, за да посетите първо по-отдалечените исторически забележителности. Сутринта е посветена на внушителната крепост Самуил и панорамната гледка от Беласица. Следобед паркирайте в центъра на Петрич и разгледайте сърцето на града, включително музея на Баба Ванга и градския парк, удобно пеша."
       },
       "gastro_picks": {
         "de": [
@@ -1243,6 +1344,11 @@
           "Check the opening hours of the fortress in advance.",
           "Use a navigation app, as some roads may be poorly marked.",
           "Parking in the city center can be difficult, be patient."
+        ],
+        "bg": [
+          "Проверете работното време на крепостта предварително.",
+          "Използвайте навигационно приложение, тъй като някои пътища могат да бъдат слабо обозначени.",
+          "Паркирането в центъра може да бъде трудно, бъдете търпеливи."
         ]
       },
       "variants": {
@@ -1251,7 +1357,8 @@
             "de": "Bequem durch den Regen in Petritsch. Starten Sie an der Samuil-Festung, während die Wolken tief hängen. Der Belasitsa-Aussichtspunkt bietet dramatische Ausblicke. Mittags parken Sie zentral für Museen und das Vanga-Haus. Den Tag beschließen Sie trocken am Stadtpark, bevor Sie zum Abendessen fahren.",
             "hu": "Kényelmesen az esőben is Petrics környékén. Kezdje Sámuel váránál, miközben a felhők alacsonyan szállnak. A Belasica-kilátó drámai látványt nyújt esőben. Délben parkoljon a központban a múzeumokhoz. A napot szárazon zárhatja a városi parknál.",
             "ro": "Confortabil prin ploaie în Petrich. Începeți la Cetatea lui Samuil, în timp ce norii sunt joși. Belvedere Belasitsa oferă priveliști dramatice. La prânz, parcați central pentru muzee. Încheiați ziua la parcul orașului.",
-            "en": "Comfortably through the rain in Petrich. Start at Samuel's Fortress while the clouds hang low. Belasitsa Viewpoint offers dramatic views in the rain. At noon, park centrally for the museums and Vanga House. End the day dry at the city park before driving to dinner."
+            "en": "Comfortably through the rain in Petrich. Start at Samuel's Fortress while the clouds hang low. Belasitsa Viewpoint offers dramatic views in the rain. At noon, park centrally for the museums and Vanga House. End the day dry at the city park before driving to dinner.",
+            "bg": "Комфортно през дъжда в Петрич. Започнете от крепостта Самуил, докато облаците са ниски. Връх Беласица предлага драматични гледки при дъжд. На обяд паркирайте в центъра за музеите и къщата на Ванга. Завършете деня сухо в градския парк преди да тръгнете на вечеря."
           },
           "stops": [
             {
@@ -1260,7 +1367,8 @@
                 "de": "Parkplatz direkt am Eingang nutzen.",
                 "hu": "Használja a közvetlenül a bejáratnál lévő parkolót.",
                 "ro": "Folosiți parcarea direct de la intrare.",
-                "en": "Use the parking lot directly at the entrance."
+                "en": "Use the parking lot directly at the entrance.",
+                "bg": "Използвайте паркинга директно при входа."
               }
             },
             {
@@ -1269,7 +1377,8 @@
                 "de": "Vorsicht bei Bergfahrt auf nasser Fahrbahn.",
                 "hu": "Óvatosan vezessen a hegyi úton esőben.",
                 "ro": "Conduceți cu atenție pe drumul de munte umed.",
-                "en": "Drive carefully on the wet mountain road."
+                "en": "Drive carefully on the wet mountain road.",
+                "bg": "Шофирайте внимателно по мокрия планински път."
               }
             },
             {
@@ -1278,7 +1387,8 @@
                 "de": "Zentraler Parkplatz, Schirm griffbereit halten.",
                 "hu": "Központi parkoló, tartsa kéznél az esernyőt.",
                 "ro": "Parcare centrală, țineți umbrela la îndemână.",
-                "en": "Central parking, keep your umbrella handy."
+                "en": "Central parking, keep your umbrella handy.",
+                "bg": "Централен паркинг, дръжте чадъра под ръка."
               }
             },
             {
@@ -1287,7 +1397,8 @@
                 "de": "Nur 2 Minuten Fußweg vom Parkplatz.",
                 "hu": "Mindössze 2 perc séta a parkolótól.",
                 "ro": "Doar 2 minute de mers pe jos de la parcare.",
-                "en": "Only a 2-minute walk from the parking lot."
+                "en": "Only a 2-minute walk from the parking lot.",
+                "bg": "Само 2 минути пеша от паркинга."
               }
             },
             {
@@ -1296,7 +1407,8 @@
                 "de": "Parkmöglichkeiten in den Nebenstraßen.",
                 "hu": "Parkolási lehetőség a mellékutcákban.",
                 "ro": "Posibilități de parcare pe străzile lăturalnice.",
-                "en": "Parking available in the side streets."
+                "en": "Parking available in the side streets.",
+                "bg": "Паркиране възможно в страничните улици."
               }
             },
             {
@@ -1305,7 +1417,8 @@
                 "de": "Parkplatz direkt am Parkrand vorhanden.",
                 "hu": "Parkoló közvetlenül a park szélén található.",
                 "ro": "Parcare disponibilă direct la marginea parcului.",
-                "en": "Parking available directly at the edge of the park."
+                "en": "Parking available directly at the edge of the park.",
+                "bg": "Паркинг непосредствено на ръба на парка."
               }
             }
           ],
@@ -1337,6 +1450,13 @@
               "Use parking spots as close to your destinations as possible.",
               "Stay in the car if a heavy thunderstorm starts.",
               "Watch out for deep puddles in the city center."
+            ],
+            "bg": [
+              "Проверете състоянието на чистачките на предното стъкло.",
+              "Планинският път към Беласица може да бъде труден при силен дъжд.",
+              "Използвайте паркоместа възможно най-близо до целите си.",
+              "Останете в колата, ако започне силна гръмотевична буря.",
+              "Внимавайте за дълбоки локви в центъра на града."
             ]
           }
         },
@@ -1345,7 +1465,8 @@
             "de": "Ein winterlicher Roadtrip durch Petritsch. Beginnen Sie bei der Samuil-Festung in der kühlen Morgenluft. Die Fahrt nach Belasitsa bietet schneebedeckte Gipfel im Panorama. Mittags genießen Sie die Wärme der Museen. Da es früh dunkel wird, ist die Fahrt zum Stadtpark am späten Nachmittag der perfekte Abschluss eines frostigen Tages.",
             "hu": "Téli autós túra Petrics környékén. Kezdjen Sámuel váránál a hűvös reggeli levegőben. A Belasica felé vezető úton hófödte csúcsok látszanak. Délben élvezze a múzeumok melegét. Mivel korán sötétedik, a késő délutáni parklátogatás tökéletes zárása a fagyos napnak.",
             "ro": "O călătorie de iarnă cu mașina prin Petrich. Începeți la Cetatea lui Samuil în aerul răcoros al dimineții. Drumul spre Belasitsa oferă panorame cu vârfuri înzăpezite. La prânz, bucurați-vă de căldura muzeelor.",
-            "en": "A winter road trip through Petrich. Start at Samuel's Fortress in the cool morning air. The drive to Belasitsa offers snow-capped peaks in the panorama. At noon, enjoy the warmth of the museums. As it gets dark early, the late afternoon park visit is the perfect end to a frosty day."
+            "en": "A winter road trip through Petrich. Start at Samuel's Fortress in the cool morning air. The drive to Belasitsa offers snow-capped peaks in the panorama. At noon, enjoy the warmth of the museums. As it gets dark early, the late afternoon park visit is the perfect end to a frosty day.",
+            "bg": "Зимен пътен преход през Петрич. Започнете от крепостта Самуил в прохладното утро. Пътуването към Беласица предлага заснежени върхове в панорамата. На обяд се насладете на топлината на музеите. Тъй като се стъмва рано, късноследобедната разходка в парка е перфектният завършек на мразовит ден."
           },
           "stops": [
             {
@@ -1354,7 +1475,8 @@
                 "de": "Motor laufen lassen zum Vorheizen wird nicht empfohlen.",
                 "hu": "A motor járatása álló helyzetben nem javasolt.",
                 "ro": "Nu se recomandă lăsarea motorului pornit în staționare.",
-                "en": "Leaving the engine running while stationary is not recommended."
+                "en": "Leaving the engine running while stationary is not recommended.",
+                "bg": "Не се препоръчва да оставяте двигателя работещ, докато сте на място."
               }
             },
             {
@@ -1363,7 +1485,8 @@
                 "de": "Winterreifen bei Schnee auf der Bergstraße Pflicht.",
                 "hu": "Havas hegyi úton a téli gumi kötelező.",
                 "ro": "Anvelopele de iarnă sunt obligatorii pe drumul de munte.",
-                "en": "Winter tires are mandatory on the mountain road if snowy."
+                "en": "Winter tires are mandatory on the mountain road if snowy.",
+                "bg": "Зимните гуми са задължителни на планинския път при заснежено време."
               }
             },
             {
@@ -1372,7 +1495,8 @@
                 "de": "Parkplätze können bei Schneeräumung eingeschränkt sein.",
                 "hu": "Hóeltakarításkor a parkolóhelyek száma korlátozott lehet.",
                 "ro": "Locurile de parcare pot fi limitate în timpul deszăpezirii.",
-                "en": "Parking spots may be limited during snow removal."
+                "en": "Parking spots may be limited during snow removal.",
+                "bg": "Паркоместата може да са ограничени по време на снегопочистване."
               }
             },
             {
@@ -1381,7 +1505,8 @@
                 "de": "Beheiztes Auto nach dem Museumsbesuch genießen.",
                 "hu": "Élvezze a fűtött autót a múzeumlátogatás után.",
                 "ro": "Bucurați-vă de mașina încălzită după vizitarea muzeului.",
-                "en": "Enjoy the heated car after the museum visit."
+                "en": "Enjoy the heated car after the museum visit.",
+                "bg": "Насладете се на затоплената кола след посещението на музея."
               }
             },
             {
@@ -1390,7 +1515,8 @@
                 "de": "Kurzer Fußweg vom Auto zum Eingang.",
                 "hu": "Rövid séta az autótól a bejáratig.",
                 "ro": "Scurtă plimbare de la mașină la intrare.",
-                "en": "Short walk from the car to the entrance."
+                "en": "Short walk from the car to the entrance.",
+                "bg": "Кратка разходка от колата до входа."
               }
             },
             {
@@ -1399,7 +1525,8 @@
                 "de": "Besuch vor Einbruch der Dunkelheit (ca. 17:00).",
                 "hu": "Látogatás sötétedés előtt (kb. 17:00).",
                 "ro": "Vizită înainte de lăsarea întunericului (aprox. 17:00).",
-                "en": "Visit before darkness falls (around 5:00 PM)."
+                "en": "Visit before darkness falls (around 5:00 PM).",
+                "bg": "Посетете преди да падне мрак (около 17:00)."
               }
             }
           ],
@@ -1431,6 +1558,13 @@
               "Ensure there is anti-freeze in the washer fluid.",
               "Plan more time for your drives.",
               "Have your battery checked before starting the trip."
+            ],
+            "bg": [
+              "Носете стъргалка за лед и четка за сняг.",
+              "Планинският път към Беласица може да бъде много хлъзгав.",
+              "Уверете се, че антифриз има в течността за чистачките.",
+              "Планирайте повече време за шофиране.",
+              "Проверете батерията си преди да потеглите на пътуването."
             ]
           }
         }
@@ -1449,7 +1583,8 @@
             "de": "Cluster: Historisches Zentrum",
             "hu": "Klaszter: Történelmi központ",
             "ro": "Cluster: Centrul istoric",
-            "en": "Cluster: Historical Center"
+            "en": "Cluster: Historical Center",
+            "bg": "Клъстер: Исторически център"
           },
           "coords": [
             23.2085,
@@ -1465,7 +1600,8 @@
             "de": "Steigen Sie in der Nähe des Museums aus und beginnen Sie Ihren Rundgang.",
             "hu": "Szálljon le a múzeum közelében, és kezdje meg a sétát.",
             "ro": "Coborâți lângă muzeu și începeți turul pietonal.",
-            "en": "Get off near the museum and start your walking tour."
+            "en": "Get off near the museum and start your walking tour.",
+            "bg": "Слезте близо до музея и започнете пешеходната си обиколка."
           }
         },
         {
@@ -1473,7 +1609,8 @@
             "de": "Historisches Museum Petritsch",
             "hu": "Petrics Történeti Múzeum",
             "ro": "Muzeul de Istorie din Petrici",
-            "en": "Petrich Historical Museum"
+            "en": "Petrich Historical Museum",
+            "bg": "Исторически музей - Петрич"
           },
           "coords": [
             23.2085,
@@ -1489,7 +1626,8 @@
             "de": "Der erste Halt in Ihrem Fußgänger-Cluster im Stadtzentrum.",
             "hu": "Az első megálló a belvárosi gyalogos klaszterben.",
             "ro": "Prima oprire în clusterul pietonal din centrul orașului.",
-            "en": "The first stop in your downtown pedestrian cluster."
+            "en": "The first stop in your downtown pedestrian cluster.",
+            "bg": "Първата спирка във вашия пешеходен клъстер в центъра."
           }
         },
         {
@@ -1497,7 +1635,8 @@
             "de": "Kirche des Heiligen Georg & Uhrturm",
             "hu": "Szent György-templom és Óratorony",
             "ro": "Biserica Sf. Gheorghe și Turnul cu Ceas",
-            "en": "St. George Church & Clock Tower"
+            "en": "St. George Church & Clock Tower",
+            "bg": "Църква „Св. Георги“ и часовникова кула"
           },
           "coords": [
             23.21,
@@ -1513,7 +1652,8 @@
             "de": "Diese beiden Wahrzeichen liegen nur wenige Schritte voneinander entfernt.",
             "hu": "Ez a két nevezetesség csak pár lépésre van egymástól.",
             "ro": "Aceste două repere sunt la doar câțiva pași distanță.",
-            "en": "These two landmarks are just a few steps apart."
+            "en": "These two landmarks are just a few steps apart.",
+            "bg": "Тези две забележителности са само на няколко крачки една от друга."
           }
         },
         {
@@ -1521,7 +1661,8 @@
             "de": "Cluster: Baba Wanga Viertel",
             "hu": "Klaszter: Baba Vanga negyed",
             "ro": "Cluster: Cartierul Baba Vanga",
-            "en": "Cluster: Baba Vanga Quarter"
+            "en": "Cluster: Baba Vanga Quarter",
+            "bg": "Клъстер: Квартал Баба Ванга"
           },
           "coords": [
             23.212,
@@ -1537,7 +1678,8 @@
             "de": "Nehmen Sie einen lokalen Bus zum Haus-Museum der berühmten Seherin.",
             "hu": "Menjen helyi busszal a híres látnok ház-múzeumához.",
             "ro": "Luați un autobuz local spre casa-muzeu a faimoasei clarvăzătoare.",
-            "en": "Take a local bus to the house-museum of the famous seer."
+            "en": "Take a local bus to the house-museum of the famous seer.",
+            "bg": "Вземете местен автобус до къщата-музей на известната врачка."
           }
         },
         {
@@ -1545,7 +1687,8 @@
             "de": "Stadtpark Mlodost",
             "hu": "Mladost városi park",
             "ro": "Parcul Orășenesc Mladost",
-            "en": "Mladost City Park"
+            "en": "Mladost City Park",
+            "bg": "Градски парк „Младост”"
           },
           "coords": [
             23.218,
@@ -1561,7 +1704,8 @@
             "de": "Beenden Sie den Tag mit einer Busfahrt zum Park, um sich zu entspannen.",
             "hu": "Zárja a napot egy buszozással a parkba, hogy pihenjen.",
             "ro": "Încheiați ziua cu o călătorie cu autobuzul la parc pentru a vă relaxa.",
-            "en": "End the day with a bus ride to the park to relax."
+            "en": "End the day with a bus ride to the park to relax.",
+            "bg": "Завършете деня с автобус до парка, за да се отпуснете."
           }
         }
       ],
@@ -1569,7 +1713,8 @@
         "de": "Entdecken Sie Petritsch mit öffentlichen Verkehrsmitteln, eine umweltfreundliche und authentische Art zu reisen. Der Tag ist in Cluster unterteilt: Beginnen Sie im historischen Zentrum, fahren Sie dann weiter in das Viertel von Baba Wanga und beenden Sie Ihren Ausflug im entspannten Stadtpark. Ein perfekter Weg, um das lokale Leben und die wichtigsten Sehenswürdigkeiten der Stadt zu erleben.",
         "hu": "Fedezze fel Petricset tömegközlekedéssel, egy környezetbarát és autentikus utazási móddal. A nap klaszterekre van osztva: kezdje a történelmi központban, majd utazzon tovább Baba Vanga negyedébe, és fejezze be a kirándulást a pihentető városi parkban. Tökéletes módja a helyi élet és a város legfontosabb látnivalóinak megtapasztalására.",
         "ro": "Descoperiți Petrici cu transportul public, un mod ecologic și autentic de a călători. Ziua este împărțită în clustere: începeți în centrul istoric, apoi călătoriți în cartierul Baba Vanga și încheiați excursia în relaxantul parc al orașului. O modalitate perfectă de a experimenta viața locală și principalele atracții ale orașului.",
-        "en": "Discover Petrich by public transport, an eco-friendly and authentic way to travel. The day is divided into clusters: start in the historic center, then travel to the Baba Vanga district, and end your excursion in the relaxing city park. A perfect way to experience local life and the city's main attractions."
+        "en": "Discover Petrich by public transport, an eco-friendly and authentic way to travel. The day is divided into clusters: start in the historic center, then travel to the Baba Vanga district, and end your excursion in the relaxing city park. A perfect way to experience local life and the city's main attractions.",
+        "bg": "Открийте Петрич с обществен транспорт, екологичен и автентичен начин да пътувате. Денят е разделен на клъстери: започнете в историческия център, след това пътувайте до квартал Баба Ванга и завършете екскурзията в успокояващия градски парк. Перфектен начин да почувствате местния живот и основните забележителности на града."
       },
       "gastro_picks": {
         "de": [
@@ -1709,6 +1854,11 @@
           "Buy a day ticket if available to save money.",
           "Ask the locals or the bus driver for the right line, they are usually helpful.",
           "Pay attention to the timetables, especially for the last bus back."
+        ],
+        "bg": [
+          "Купете дневна карта, ако има такава, за да спестите пари.",
+          "Попитайте местните или шофьора за правилната линия, те обикновено са услужливи.",
+          "Обърнете внимание на разписанията, особено за последния автобус обратно."
         ]
       },
       "variants": {
@@ -1717,7 +1867,8 @@
             "de": "Nutzen Sie den öffentlichen Nahverkehr, um trocken durch Petritsch zu kommen. Starten Sie am Historischen Zentrum und verbringen Sie den Vormittag im Museum. Mittags erreichen Sie die Kirche per Bus. Der Nachmittag im Baba-Wanga-Viertel bietet Schutz in Gebäuden, bevor Sie mit dem Bus zum Stadtpark fahren, um die Regenatmosphäre zu genießen.",
             "hu": "Használja a tömegközlekedést, hogy szárazon járja be Petricset. Kezdjen a történelmi központban, és töltse a délelőttöt a múzeumban. Délben busszal érje el a templomot. A délután a Baba Vanga negyedben fedett helyeket kínál, mielőtt busszal a városi parkba menne élvezni az esős hangulatot.",
             "ro": "Folosiți transportul public pentru a rămâne uscat în Petrich. Începeți în centrul istoric și petreceți dimineața la muzeu. La prânz, ajungeți la biserică cu autobuzul. După-amiaza în cartierul Baba Vanga oferă adăpost.",
-            "en": "Use public transport to stay dry in Petrich. Start at the Historical Center and spend the morning at the museum. At noon, reach the church by bus. The afternoon in the Baba Vanga Quarter offers indoor shelter before taking a bus to the city park to enjoy the rainy atmosphere."
+            "en": "Use public transport to stay dry in Petrich. Start at the Historical Center and spend the morning at the museum. At noon, reach the church by bus. The afternoon in the Baba Vanga Quarter offers indoor shelter before taking a bus to the city park to enjoy the rainy atmosphere.",
+            "bg": "Използвайте обществения транспорт, за да останете сухи в Петрич. Започнете в Историческия център и прекарайте сутринта в музея. На обяд достигнете църквата с автобус. Следобедът в квартал Баба Ванга предлага закрито убежище преди да вземете автобус до градския парк, за да се насладите на дъждовната атмосфера."
           },
           "stops": [
             {
@@ -1726,7 +1877,8 @@
                 "de": "Zentraler Umstiegspunkt mit Unterstand.",
                 "hu": "Központi átszállási pont váróteremmel vagy tetővel.",
                 "ro": "Punct central de transfer cu adăpost.",
-                "en": "Central transfer point with shelter."
+                "en": "Central transfer point with shelter.",
+                "bg": "Централна прекачвателна точка с навес."
               }
             },
             {
@@ -1735,7 +1887,8 @@
                 "de": "Bushaltestelle ist nur wenige Meter entfernt.",
                 "hu": "A buszmegálló mindössze pár méterre található.",
                 "ro": "Stația de autobuz este la doar câțiva metri distanță.",
-                "en": "The bus stop is only a few meters away."
+                "en": "The bus stop is only a few meters away.",
+                "bg": "Автобусната спирка е само на няколко метра."
               }
             },
             {
@@ -1744,7 +1897,8 @@
                 "de": "Überdachte Wartehäuschen in der Nähe nutzen.",
                 "hu": "Használja a közeli fedett buszvárókat.",
                 "ro": "Folosiți stațiile de autobuz acoperite din apropiere.",
-                "en": "Use the covered bus shelters nearby."
+                "en": "Use the covered bus shelters nearby.",
+                "bg": "Използвайте покритите автобусни спирки наблизо."
               }
             },
             {
@@ -1753,7 +1907,8 @@
                 "de": "Kurze Taktzeiten in diesem Stadtteil.",
                 "hu": "Sűrű buszjáratok ebben a városrészben.",
                 "ro": "Intervale scurte între autobuze în acest cartier.",
-                "en": "Frequent bus intervals in this district."
+                "en": "Frequent bus intervals in this district.",
+                "bg": "Чести интервали на движение в този район."
               }
             },
             {
@@ -1762,7 +1917,8 @@
                 "de": "Endstation für viele Linien, bequemer Ausstieg.",
                 "hu": "Számos járat végállomása, kényelmes kiszállás.",
                 "ro": "Capăt de linie pentru multe rute, debarcare ușoară.",
-                "en": "Terminus for many lines, convenient disembarkation."
+                "en": "Terminus for many lines, convenient disembarkation.",
+                "bg": "Крайна спирка за много линии, удобна за слизане."
               }
             }
           ],
@@ -1794,6 +1950,13 @@
               "Most bus stops in Petrich are covered.",
               "Use transit apps for real-time information.",
               "Avoid afternoon rush hours."
+            ],
+            "bg": [
+              "Подгответе дребни пари за билетите.",
+              "Автобусите може да закъсняват леко при дъжд.",
+              "Повечето автобусни спирки в Петрич са покрити.",
+              "Използвайте приложения за транспорт за информация в реално време.",
+              "Избягвайте следобедните часове на натоварване."
             ]
           }
         },
@@ -1802,7 +1965,8 @@
             "de": "Ein gemütlicher Wintertag per Transit. Morgens wärmen Sie sich im Historischen Zentrum auf. Das Museum bietet den perfekten Vormittagsaufenthalt. Mittags bringen Sie beheizte Busse zu den kulturellen Stätten. Den späten Nachmittag verbringen Sie im Baba-Wanga-Viertel, bevor Sie rechtzeitig vor Sonnenuntergang den Stadtpark besuchen.",
             "hu": "Kényelmes téli nap tömegközlekedéssel. Reggel melegedjen fel a történelmi központban. A múzeum tökéletes délelőtti program. Délben fűtött buszok viszik a kulturális helyszínekre. A késő délutánt töltse a Baba Vanga negyedben, majd naplemente előtt látogasson el a parkba.",
             "ro": "O zi de iarnă confortabilă cu transportul în comun. Dimineața încălziți-vă în centrul istoric. Muzeul este destinația ideală de dimineață. La prânz, autobuzele încălzite vă duc la obiectivele culturale.",
-            "en": "A cozy winter day via transit. In the morning, warm up in the Historical Center. The museum offers the perfect morning stay. At noon, heated buses take you to the cultural sites. Spend the late afternoon in the Baba Vanga Quarter before visiting the city park just before sunset."
+            "en": "A cozy winter day via transit. In the morning, warm up in the Historical Center. The museum offers the perfect morning stay. At noon, heated buses take you to the cultural sites. Spend the late afternoon in the Baba Vanga Quarter before visiting the city park just before sunset.",
+            "bg": "Уютен зимен ден с обществен транспорт. Сутринта се стоплете в Историческия център. Музеят предлага перфектно сутрешно убежище. На обяд отопляемите автобуси ви отвеждат до културните обекти. Прекарайте късния следобед в квартал Баба Ванга преди да посетите градския парк точно преди залез."
           },
           "stops": [
             {
@@ -1811,7 +1975,8 @@
                 "de": "Wartebereiche können morgens zugig sein.",
                 "hu": "A várakozóhelyek reggelente huzatosak lehetnek.",
                 "ro": "Zonele de așteptare pot fi expuse curentului dimineața.",
-                "en": "Waiting areas can be drafty in the morning."
+                "en": "Waiting areas can be drafty in the morning.",
+                "bg": "Зоните за чакане могат да бъдат със студен вятър сутринта."
               }
             },
             {
@@ -1820,7 +1985,8 @@
                 "de": "Vom Bus direkt in die Wärme des Museums.",
                 "hu": "A busztól közvetlenül a múzeum melegébe juthat.",
                 "ro": "Din autobuz direct în căldura muzeului.",
-                "en": "Go directly from the bus into the warmth of the museum."
+                "en": "Go directly from the bus into the warmth of the museum.",
+                "bg": "Влизайте директно от автобуса в топлината на музея."
               }
             },
             {
@@ -1829,7 +1995,8 @@
                 "de": "Kurze Wartezeiten an den zentralen Haltestellen.",
                 "hu": "Rövid várakozási idő a központi megállókban.",
                 "ro": "Timp scurt de așteptare în stațiile centrale.",
-                "en": "Short waiting times at the central bus stops."
+                "en": "Short waiting times at the central bus stops.",
+                "bg": "Кратки времена на чакане на централните автобусни спирки."
               }
             },
             {
@@ -1838,7 +2005,8 @@
                 "de": "Gut vernetzter Bereich, ideal für kurze Fahrten.",
                 "hu": "Jól összekapcsolt terület, ideális rövid utakra.",
                 "ro": "Zonă bine conectată, ideală pentru călătorii scurte.",
-                "en": "Well-connected area, ideal for short trips."
+                "en": "Well-connected area, ideal for short trips.",
+                "bg": "Добре свързан район, идеален за кратки пътувания."
               }
             },
             {
@@ -1847,7 +2015,8 @@
                 "de": "Letzte Fahrt vor Dunkelheit planen (ca. 17:15).",
                 "hu": "Tervezze az utolsó utat sötétedés előtt (kb. 17:15).",
                 "ro": "Planificați ultima călătorie înainte de întuneric.",
-                "en": "Plan your last trip before it gets dark (around 5:15 PM)."
+                "en": "Plan your last trip before it gets dark (around 5:15 PM).",
+                "bg": "Планирайте последното си пътуване преди да настъпи мрак (около 17:15)."
               }
             }
           ],
@@ -1879,6 +2048,13 @@
               "Wear warm shoes for waiting at bus stops.",
               "The sun sets early, plan accordingly.",
               "Evening buses run less frequently."
+            ],
+            "bg": [
+              "Автобусите обикновено са добре отоплени през зимата.",
+              "Внимавайте за променени разписания по официални празници.",
+              "Носете топли обувки за чакане на спирките.",
+              "Слънцето залязва рано, планирайте съобразно.",
+              "Вечерните автобуси се движат по-рядко."
             ]
           }
         }

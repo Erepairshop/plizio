@@ -21,7 +21,8 @@
             "de": "Donaupark",
             "hu": "Dunai Park",
             "ro": "Parcul Dunării",
-            "en": "Danube Park"
+            "en": "Danube Park",
+            "bg": "Дунавски парк"
           },
           "coords": [
             27.2613,
@@ -36,7 +37,8 @@
             "de": "Beginnen Sie den Tag mit einem Spaziergang entlang der Donau.",
             "hu": "Kezdje a napot egy kellemes sétával a Duna partján.",
             "ro": "Începeți ziua cu o plimbare relaxantă pe malul Dunării.",
-            "en": "Start your day with a refreshing stroll along the Danube."
+            "en": "Start your day with a refreshing stroll along the Danube.",
+            "bg": "Започнете деня си с освежаваща разходка край Дунав."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Historisches Museum",
             "hu": "Történeti Múzeum",
             "ro": "Muzeul de Istorie",
-            "en": "Historical Museum"
+            "en": "Historical Museum",
+            "bg": "Исторически музей"
           },
           "coords": [
             27.2658,
@@ -59,7 +62,8 @@
             "de": "Konzentrieren Sie sich auf die römischen und osmanischen Artefakte.",
             "hu": "Fókuszáljon a római és oszmán kori leletekre.",
             "ro": "Concentrați-vă pe artefactele romane și otomane.",
-            "en": "Focus on the Roman and Ottoman artifacts."
+            "en": "Focus on the Roman and Ottoman artifacts.",
+            "bg": "Съсредоточете се върху римските и османските артефакти."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Römisches Grab",
             "hu": "Római sírkamra",
             "ro": "Mormântul Roman",
-            "en": "Roman Tomb"
+            "en": "Roman Tomb",
+            "bg": "Римска гробница"
           },
           "coords": [
             27.2681,
@@ -82,7 +87,8 @@
             "de": "Bewundern Sie die gut erhaltenen Fresken aus dem 4. Jahrhundert.",
             "hu": "Csodálja meg a 4. századi, jól megőrzött freskókat.",
             "ro": "Admirați frescele bine conservate din secolul al IV-lea.",
-            "en": "Admire the well-preserved 4th-century frescoes."
+            "en": "Admire the well-preserved 4th-century frescoes.",
+            "bg": "Възхищавайте се на добре запазените фрески от IV век."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Kirche St. Peter und Paul",
             "hu": "Szent Péter és Pál templom",
             "ro": "Biserica Sf. Petru și Pavel",
-            "en": "St. Peter and Paul Church"
+            "en": "St. Peter and Paul Church",
+            "bg": "Църква „Св. Петър и Павел”"
           },
           "coords": [
             27.2665,
@@ -105,7 +112,8 @@
             "de": "Ein Ort der Ruhe im Herzen der Stadt.",
             "hu": "A nyugalom szigete a város szívében.",
             "ro": "Un loc de liniște în inima orașului.",
-            "en": "A place of tranquility in the heart of the city."
+            "en": "A place of tranquility in the heart of the city.",
+            "bg": "Място за спокойствие в сърцето на града."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Kunstgalerie Silistra",
             "hu": "Szilisztrai Művészeti Galéria",
             "ro": "Galeria de Artă Silistra",
-            "en": "Art Gallery Silistra"
+            "en": "Art Gallery Silistra",
+            "bg": "Художествена галерия Силистра"
           },
           "coords": [
             27.2642,
@@ -128,7 +137,8 @@
             "de": "Entdecken Sie Werke bulgarischer Künstler aus der Region Dobrudscha.",
             "hu": "Fedezze fel a dobrudzsai régió bolgár művészeinek alkotásait.",
             "ro": "Descoperiți lucrări ale artiștilor bulgari din regiunea Dobrogea.",
-            "en": "Discover works by Bulgarian artists from the Dobrudja region."
+            "en": "Discover works by Bulgarian artists from the Dobrudja region.",
+            "bg": "Открийте творби на български художници от Добруджа."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Festung Medschidi Tabia",
             "hu": "Medzsidi Tabia erőd",
             "ro": "Fortăreața Medjidi Tabia",
-            "en": "Medschidi Tabia Fortress"
+            "en": "Medschidi Tabia Fortress",
+            "bg": "Крепост Меджиди Табия"
           },
           "coords": [
             27.251,
@@ -151,7 +162,8 @@
             "de": "Genießen Sie den Panoramablick über die Stadt und die Donau.",
             "hu": "Élvezze a panorámás kilátást a városra és a Dunára.",
             "ro": "Bucurați-vă de vederea panoramică asupra orașului și a Dunării.",
-            "en": "Enjoy the panoramic view over the city and the Danube."
+            "en": "Enjoy the panoramic view over the city and the Danube.",
+            "bg": "Насладете се на панорамна гледка към града и Дунав."
           }
         }
       ],
@@ -159,7 +171,8 @@
         "de": "Ihr Tag in Silistra beginnt entspannt im Donaupark, gefolgt von einer tiefen Erkundung der reichen römischen und bulgarischen Geschichte im Historischen Museum und am römischen Grab. Am Nachmittag tauchen Sie in die lokale Kultur in der Kunstgalerie ein und besuchen die ruhige St.-Peter-und-Paul-Kirche. Der Tag gipfelt in der osmanischen Festung Medschidi Tabia, die einen atemberaubenden Blick auf den Sonnenuntergang über der Donau bietet.",
         "hu": "Szilisztrai napja a Dunai Parkban kezdődik, majd a Történeti Múzeumban és a római sírkamránál elmélyülhet a gazdag római és bolgár történelemben. Délután a Művészeti Galériában megismeri a helyi kultúrát, és ellátogat a csendes Szent Péter és Pál-templomba. A nap csúcspontja a Medzsidi Tabia oszmán erőd, ahonnan lenyűgöző a naplemente a Duna felett.",
         "ro": "Ziua dvs. în Silistra începe relaxat în Parcul Dunării, urmată de o explorare profundă a istoriei romane și bulgare la Muzeul de Istorie și Mormântul Roman. După-amiaza, vă veți cufunda în cultura locală la Galeria de Artă și veți vizita liniștita Biserică Sf. Petru și Pavel. Ziua culminează la cetatea otomană Medjidi Tabia, care oferă o priveliște uluitoare la apus peste Dunăre.",
-        "en": "Your day in Silistra begins relaxing in the Danube Park, followed by a deep exploration of rich Roman and Bulgarian history at the Historical Museum and the Roman Tomb. In the afternoon, you'll dive into local culture at the Art Gallery and visit the quiet St. Peter and Paul Church. The day culminates at the Ottoman fortress Medschidi Tabia, offering a breathtaking sunset view over the Danube."
+        "en": "Your day in Silistra begins relaxing in the Danube Park, followed by a deep exploration of rich Roman and Bulgarian history at the Historical Museum and the Roman Tomb. In the afternoon, you'll dive into local culture at the Art Gallery and visit the quiet St. Peter and Paul Church. The day culminates at the Ottoman fortress Medschidi Tabia, offering a breathtaking sunset view over the Danube.",
+        "bg": "Вашият ден в Силистра започва с релакс в Дунавския парк, следван от задълбочено разглеждане на богатата римска и българска история в Историческия музей и Римската гробница. Следобед ще се потопите в местната култура в Художествената галерия и ще посетите тихата църква „Св. Петър и Павел”. Денят кулминира на крепостта Меджиди Табия, откъдето се открива спираща дъха гледка към Дунав при залез."
       },
       "gastro_picks": {
         "de": [
@@ -299,6 +312,11 @@
           "Wear comfortable shoes as you will be doing a lot of walking.",
           "Bring water with you, especially on warm days.",
           "Most central sights are easily within walking distance."
+        ],
+        "bg": [
+          "Носете удобни обувки, тъй като ще вървите много.",
+          "Вземете вода със себе си, особено в топли дни.",
+          "Повечето централни забележителности са лесно достъпни пеша."
         ]
       },
       "variants": {
@@ -307,7 +325,8 @@
             "de": "Beginnen Sie Ihren Tag im Dunau-Park, wo die Bäume natürlichen Schutz vor leichtem Regen bieten. Der Vormittag gehört der Geschichte im Archäologischen Museum, einem idealen trockenen Zufluchtsort. Nach dem Mittagessen erkunden Sie das römische Grabmal und die Kirche, bevor Sie den Nachmittag in der Kunstgalerie verbringen. Der Tag endet an der Festung Medschidi Tabia, die bei Regen besonders mystisch wirkt.",
             "hu": "Kezdje a napot a Duna-parkban, ahol az öreg fák némi védelmet nyújtanak az eső ellen. A délelőttöt töltse a Történeti Múzeum falai között, amely tökéletes menedék a víz elől. Ebéd után a római sírkamra és a templom belső tereit fedezze fel, majd az Art Gallery tárlatait tekintse meg. A napot a Medzsidi Tabia erődnél zárja, amely a ködös esőben még impozánsabb látványt nyújt.",
             "ro": "Începeți ziua în Parcul Dunării, unde arborii oferă protecție naturală împotriva ploii ușoare. Dimineața este dedicată istoriei la Muzeul de Istorie, un refugiu ideal și uscat. După prânz, explorați mormântul roman și biserica, înainte de a petrece după-amiaza la Galeria de Artă. Ziua se încheie la Cetatea Medschidi Tabia, care capătă o atmosferă mistică sub cerul ploios.",
-            "en": "Start your day in Danube Park, where the trees provide natural shelter from light rain. Spend the morning immersed in history at the Historical Museum, a perfect dry haven. After lunch, explore the Roman Tomb and the church before enjoying the afternoon at the Art Gallery. The day concludes at the Medschidi Tabia Fortress, which looks particularly atmospheric in the rain."
+            "en": "Start your day in Danube Park, where the trees provide natural shelter from light rain. Spend the morning immersed in history at the Historical Museum, a perfect dry haven. After lunch, explore the Roman Tomb and the church before enjoying the afternoon at the Art Gallery. The day concludes at the Medschidi Tabia Fortress, which looks particularly atmospheric in the rain.",
+            "bg": "Започнете деня си в Дунавския парк, където дърветата осигуряват естествен заслон при лека дъждовност. Прекарайте сутринта в Историческия музей — перфектно сухо убежище. След обяд разгледайте Римската гробница и църквата, преди да се насладите на следобед в Художествената галерия. Денят завършва в крепостта Меджиди Табия, която изглежда особено атмосферична при дъжд."
           },
           "stops": [
             {
@@ -316,7 +335,8 @@
                 "de": "Nutzen Sie die dichten Baumalleen als Schutz.",
                 "hu": "Használja a sűrű fasorokat esővédőként.",
                 "ro": "Folosiți aleile cu copaci deși pentru adăpost.",
-                "en": "Use the dense tree avenues for shelter."
+                "en": "Use the dense tree avenues for shelter.",
+                "bg": "Използвайте гъстите алеи с дървета за укритие."
               }
             },
             {
@@ -325,7 +345,8 @@
                 "de": "Perfekter Ort, um einen Regenschauer abzuwarten.",
                 "hu": "Tökéletes hely egy zápor átvészelésére.",
                 "ro": "Locul perfect pentru a aștepta trecerea unei ploi.",
-                "en": "Perfect place to wait out a rain shower."
+                "en": "Perfect place to wait out a rain shower.",
+                "bg": "Перфектно място да изчакате кратък дъжд."
               }
             },
             {
@@ -334,7 +355,8 @@
                 "de": "Der Innenraum ist vollständig geschützt.",
                 "hu": "A belső tér teljesen védett az esőtől.",
                 "ro": "Interiorul este complet protejat de ploaie.",
-                "en": "The interior is fully protected from rain."
+                "en": "The interior is fully protected from rain.",
+                "bg": "Интериорът е напълно защитен от дъжда."
               }
             },
             {
@@ -343,7 +365,8 @@
                 "de": "Ein ruhiger, trockener Ort zum Innehalten.",
                 "hu": "Csendes, száraz hely az elmélyüléshez.",
                 "ro": "Un loc liniștit și uscat pentru reculegere.",
-                "en": "A quiet, dry place for reflection."
+                "en": "A quiet, dry place for reflection.",
+                "bg": "Тихо, сухо място за размисъл."
               }
             },
             {
@@ -352,7 +375,8 @@
                 "de": "Genießen Sie Kunst im trockenen Ambiente.",
                 "hu": "Élvezze a művészetet száraz környezetben.",
                 "ro": "Bucurați-vă de artă într-un mediu uscat.",
-                "en": "Enjoy art in a dry and warm environment."
+                "en": "Enjoy art in a dry and warm environment.",
+                "bg": "Насладете се на изкуството в суха и топла среда."
               }
             },
             {
@@ -361,7 +385,8 @@
                 "de": "Vorsicht auf den rutschigen Steinen im Außenbereich.",
                 "hu": "Vigyázzon a csúszós kövekre a külső részeken.",
                 "ro": "Atenție la pietrele alunecoase din exterior.",
-                "en": "Be careful on the slippery stones outside."
+                "en": "Be careful on the slippery stones outside.",
+                "bg": "Бъдете внимателни на хлъзгавите външни камъни."
               }
             }
           ],
@@ -389,6 +414,12 @@
               "The museums are close together, minimizing rain exposure.",
               "Take a sturdy umbrella against the Danube wind.",
               "Spend more time at the indoor exhibits."
+            ],
+            "bg": [
+              "Носете водоустойчиви обувки за пътеките в парка.",
+              "Музеите са близо един до друг, намалявайки излагането на дъжд.",
+              "Вземете здрав чадър срещу дунавския вятър.",
+              "Прекарвайте повече време в закритите експозиции."
             ]
           }
         },
@@ -397,7 +428,8 @@
             "de": "Erleben Sie die winterliche Stille im Dunau-Park, während der Wind vom Fluss herüberweht. Der Vormittag im beheizten Historischen Museum wärmt Sie auf, bevor Sie das antike römische Grabmal besichtigen. Mittags besuchen Sie die Kirche und finden dann Zuflucht in der gemütlichen Kunstgalerie. Der Aufstieg zur Festung bietet einen klaren Blick auf das frostige Umland, bevor die frühe Dämmerung einsetzt.",
             "hu": "Tapasztalja meg a téli csendet a Duna-parti parkban, miközben a folyó felől fúj a szél. A délelőtt a fűtött Történeti Múzeumban melengető, mielőtt megnézné az ókori római sírt. Délben látogasson el a templomba, majd keressen menedéket a barátságos Art Gallery-ben. Az erődbe való feljutás tiszta kilátást nyújt a fagyos vidékre a korai sötétedés előtt.",
             "ro": "Experimentați liniștea iernii în Parcul Dunării, în timp ce vântul suflă de pe râu. Dimineața la Muzeul de Istorie încălzit vă va revigora înainte de a vizita mormântul roman. La prânz vizitați biserica, apoi găsiți refugiu în galeria de artă primitoare. Urcarea la cetate oferă o vedere clară asupra împrejurimilor înghețate înainte de amurgul timpuriu.",
-            "en": "Experience the winter silence in Danube Park as the wind blows from the river. A morning in the heated Historical Museum warms you up before visiting the ancient Roman Tomb. At noon, visit the church and find refuge in the cozy Art Gallery. The climb to the fortress offers a clear view of the frosty surroundings before the early dusk sets in."
+            "en": "Experience the winter silence in Danube Park as the wind blows from the river. A morning in the heated Historical Museum warms you up before visiting the ancient Roman Tomb. At noon, visit the church and find refuge in the cozy Art Gallery. The climb to the fortress offers a clear view of the frosty surroundings before the early dusk sets in.",
+            "bg": "Изпитайте зимната тишина в Дунавския парк, докато вятърът духа от реката. Сутринта в отопления Исторически музей ще ви стопли преди посещението на древната Римска гробница. На обяд посетете църквата и намерете убежище в уютната Художествена галерия. Качването до крепостта разкрива ясна гледка към измръзналия пейзаж преди ранния сумрак да настъпи."
           },
           "stops": [
             {
@@ -406,7 +438,8 @@
                 "de": "Kleiden Sie sich warm gegen den kalten Flusswind.",
                 "hu": "Öltözzön rétegesen a hideg dunai szél ellen.",
                 "ro": "Îmbrăcați-vă gros împotriva vântului rece de pe râu.",
-                "en": "Dress warmly against the cold river wind."
+                "en": "Dress warmly against the cold river wind.",
+                "bg": "Обличайте се топло срещу студения речен вятър."
               }
             },
             {
@@ -415,7 +448,8 @@
                 "de": "Nutzen Sie die Garderobe für Ihre Wintermäntel.",
                 "hu": "Használja a ruhatárat a téli kabátokhoz.",
                 "ro": "Folosiți garderoba pentru hainele de iarnă.",
-                "en": "Use the cloakroom for your winter coats."
+                "en": "Use the cloakroom for your winter coats.",
+                "bg": "Използвайте гардероба за зимните си палта."
               }
             },
             {
@@ -424,7 +458,8 @@
                 "de": "Konstante Temperaturen in der antiken Grabkammer.",
                 "hu": "Állandó hőmérséklet az antik sírkamrában.",
                 "ro": "Temperaturi constante în camera funerară antică.",
-                "en": "Constant temperatures inside the ancient tomb."
+                "en": "Constant temperatures inside the ancient tomb.",
+                "bg": "Постоянни температури в древната гробница."
               }
             },
             {
@@ -433,7 +468,8 @@
                 "de": "Bewundern Sie die Ikonen in festlicher Stille.",
                 "hu": "Csodálja meg az ikonokat ünnepi csendben.",
                 "ro": "Admirați icoanele în liniștea festivă.",
-                "en": "Admire the icons in festive winter silence."
+                "en": "Admire the icons in festive winter silence.",
+                "bg": "Възхищавайте се на иконите в празнична зимна тишина."
               }
             },
             {
@@ -442,7 +478,8 @@
                 "de": "Ein wunderbar beheizter Ort für Kulturliebhaber.",
                 "hu": "Csodálatosan fűtött hely a kultúra kedvelőinek.",
                 "ro": "Un loc bine încălzit pentru iubitorii de cultură.",
-                "en": "A wonderfully heated place for culture lovers."
+                "en": "A wonderfully heated place for culture lovers.",
+                "bg": "Прекрасно отоплено място за любителите на културата."
               }
             },
             {
@@ -451,7 +488,8 @@
                 "de": "Der Sonnenuntergang ist im Winter bereits gegen 16:30 Uhr.",
                 "hu": "A naplemente télen már 16:30 körül bekövetkezik.",
                 "ro": "Apusul de soare în timpul iernii este în jur de 16:30.",
-                "en": "Sunset occurs around 4:30 PM in winter."
+                "en": "Sunset occurs around 4:30 PM in winter.",
+                "bg": "Залезът е около 16:30 през зимата."
               }
             }
           ],
@@ -479,6 +517,12 @@
               "Park paths can be icy, walk carefully.",
               "Utilize daylight efficiently until 4:00 PM.",
               "Use museum visits as opportunities to warm up."
+            ],
+            "bg": [
+              "Пийте топъл чай в близките кафенета, за да се стоплите.",
+              "Алеите в парка могат да бъдат заснежени или заледени, ходете внимателно.",
+              "Използвайте дневната светлина ефективно до 16:00.",
+              "Използвайте посещенията в музей като възможност да се стоплите."
             ]
           }
         }
@@ -497,7 +541,8 @@
             "de": "Donaupark",
             "hu": "Dunai Park",
             "ro": "Parcul Dunării",
-            "en": "Danube Park"
+            "en": "Danube Park",
+            "bg": "Дунавски парк"
           },
           "coords": [
             27.2613,
@@ -512,7 +557,8 @@
             "de": "Ideal für eine morgendliche Radtour am Flussufer.",
             "hu": "Ideális egy reggeli biciklitúrához a folyóparton.",
             "ro": "Ideal pentru o tură de dimineață cu bicicleta pe malul fluviului.",
-            "en": "Ideal for a morning bike ride along the riverbank."
+            "en": "Ideal for a morning bike ride along the riverbank.",
+            "bg": "Идеален за сутрешно каране с велосипед по брега на реката."
           }
         },
         {
@@ -520,7 +566,8 @@
             "de": "Historisches Museum",
             "hu": "Történeti Múzeum",
             "ro": "Muzeul de Istorie",
-            "en": "Historical Museum"
+            "en": "Historical Museum",
+            "bg": "Исторически музей"
           },
           "coords": [
             27.2658,
@@ -535,7 +582,8 @@
             "de": "Schließen Sie Ihr Fahrrad sicher ab, bevor Sie das Museum betreten.",
             "hu": "Biztonságosan zárja le a kerékpárját, mielőtt belép a múzeumba.",
             "ro": "Asigurați-vă bicicleta înainte de a intra în muzeu.",
-            "en": "Lock your bike securely before entering the museum."
+            "en": "Lock your bike securely before entering the museum.",
+            "bg": "Заключете велосипеда си сигурно преди влизане в музея."
           }
         },
         {
@@ -543,7 +591,8 @@
             "de": "Römisches Grab",
             "hu": "Római sírkamra",
             "ro": "Mormântul Roman",
-            "en": "Roman Tomb"
+            "en": "Roman Tomb",
+            "bg": "Римска гробница"
           },
           "coords": [
             27.2681,
@@ -558,7 +607,8 @@
             "de": "Ein kurzer, aber lohnender Abstecher zu diesem historischen Juwel.",
             "hu": "Rövid, de megéri a kitérőt ezért a történelmi gyöngyszemért.",
             "ro": "Un ocol scurt, dar care merită, la această bijuterie istorică.",
-            "en": "A short but worthwhile detour to this historical gem."
+            "en": "A short but worthwhile detour to this historical gem.",
+            "bg": "Кратко, но заслужаващо отклонение до този исторически скъпоценен камък."
           }
         },
         {
@@ -566,7 +616,8 @@
             "de": "Uhrturm Silistra",
             "hu": "Szilisztrai óratorony",
             "ro": "Turnul cu Ceas din Silistra",
-            "en": "Silistra Clock Tower"
+            "en": "Silistra Clock Tower",
+            "bg": "Часовниковата кула на Силистра"
           },
           "coords": [
             27.2625,
@@ -581,7 +632,8 @@
             "de": "Ein schönes Fotomotiv im osmanischen Stil.",
             "hu": "Szép fotótéma, oszmán stílusban épült.",
             "ro": "Un subiect frumos pentru fotografii în stil otoman.",
-            "en": "A beautiful photo opportunity in the Ottoman style."
+            "en": "A beautiful photo opportunity in the Ottoman style.",
+            "bg": "Прекрасна възможност за снимка в османски стил."
           }
         },
         {
@@ -589,7 +641,8 @@
             "de": "Festung Medschidi Tabia",
             "hu": "Medzsidi Tabia erőd",
             "ro": "Fortăreața Medjidi Tabia",
-            "en": "Medschidi Tabia Fortress"
+            "en": "Medschidi Tabia Fortress",
+            "bg": "Крепост Меджиди Табия"
           },
           "coords": [
             27.251,
@@ -604,7 +657,8 @@
             "de": "Der Anstieg ist die Aussicht wert. Nehmen Sie sich Zeit.",
             "hu": "A kaptató megéri a kilátásért. Szánjon rá időt.",
             "ro": "Urcușul merită priveliștea. Nu vă grăbiți.",
-            "en": "The climb is worth the view. Take your time."
+            "en": "The climb is worth the view. Take your time.",
+            "bg": "Изкачването си заслужава заради гледката. Не бързайте."
           }
         },
         {
@@ -612,7 +666,8 @@
             "de": "Naturreservat Srebarna",
             "hu": "Szrebarna természetvédelmi terület",
             "ro": "Rezervația Naturală Srebărna",
-            "en": "Srebarna Nature Reserve"
+            "en": "Srebarna Nature Reserve",
+            "bg": "Природен резерват Сребърна"
           },
           "coords": [
             27.075,
@@ -627,7 +682,8 @@
             "de": "Ein UNESCO-Weltkulturerbe, Paradies für Vogelbeobachter.",
             "hu": "UNESCO Világörökségi helyszín, a madármegfigyelők paradicsoma.",
             "ro": "Un sit al Patrimoniului Mondial UNESCO, un paradis pentru observatorii de păsări.",
-            "en": "A UNESCO World Heritage site, paradise for bird watchers."
+            "en": "A UNESCO World Heritage site, paradise for bird watchers.",
+            "bg": "Обект на световното културно наследство на ЮНЕСКО, рай за наблюдатели на птици."
           }
         },
         {
@@ -635,7 +691,8 @@
             "de": "Zurück zum Donaupark",
             "hu": "Vissza a Dunai Parkba",
             "ro": "Înapoi la Parcul Dunării",
-            "en": "Back to Danube Park"
+            "en": "Back to Danube Park",
+            "bg": "Обратно в Дунавския парк"
           },
           "coords": [
             27.2613,
@@ -650,7 +707,8 @@
             "de": "Beenden Sie Ihre Radtour dort, wo sie begonnen hat.",
             "hu": "Fejezze be a kerékpártúrát ott, ahol elkezdte.",
             "ro": "Încheiați turul cu bicicleta acolo unde a început.",
-            "en": "End your bike tour where it began."
+            "en": "End your bike tour where it began.",
+            "bg": "Завършете веломаршрута там, откъдето започна."
           }
         }
       ],
@@ -658,7 +716,8 @@
         "de": "Eine Radtour durch Silistra und Umgebung. Starten Sie im Donaupark und radeln Sie zu den historischen Stätten der Stadt. Am Nachmittag führt Sie die Tour zur beeindruckenden Festung Medschidi Tabia und schließlich zum UNESCO-geschützten Srebarna-Naturreservat, einem Höhepunkt für Naturliebhaber. Die Rückfahrt entlang der Donau rundet den Tag ab.",
         "hu": "Kerékpártúra Szilisztrán és környékén. Induljon a Dunai Parkból, és tekerjen el a város történelmi helyszíneihez. Délután az út a lenyűgöző Medzsidi Tabia erődhöz, majd végül az UNESCO által védett Szrebarna természetvédelmi területhez vezet, amely a természetbarátok fénypontja. A Duna menti visszaút teszi teljessé a napot.",
         "ro": "Un tur cu bicicleta prin Silistra și împrejurimi. Porniți din Parcul Dunării și pedalați spre siturile istorice ale orașului. După-amiaza, turul vă duce la impresionanta cetate Medjidi Tabia și, în final, la Rezervația Naturală Srebărna, protejată de UNESCO, un punct culminant pentru iubitorii de natură. Drumul de întoarcere de-a lungul Dunării completează ziua.",
-        "en": "A bike tour through Silistra and its surroundings. Start in the Danube Park and cycle to the city's historical sites. In the afternoon, the tour takes you to the impressive Medschidi Tabia fortress and finally to the UNESCO-protected Srebarna Nature Reserve, a highlight for nature lovers. The return journey along the Danube completes the day."
+        "en": "A bike tour through Silistra and its surroundings. Start in the Danube Park and cycle to the city's historical sites. In the afternoon, the tour takes you to the impressive Medschidi Tabia fortress and finally to the UNESCO-protected Srebarna Nature Reserve, a highlight for nature lovers. The return journey along the Danube completes the day.",
+        "bg": "Велотур из Силистра и околностите ѝ. Започнете в Дунавския парк и карайте към историческите обекти на града. Следобед маршрутът ви отвежда до впечатляващата крепост Меджиди Табия и накрая до резервата Сребърна, защитен от ЮНЕСКО — върхът за любителите на природата. Връщането по брега на Дунав завършва деня."
       },
       "gastro_picks": {
         "de": [
@@ -798,6 +857,11 @@
           "Check your bike before you set off.",
           "A helmet is recommended.",
           "The route to the Srebarna Reserve is partly on country roads, be careful."
+        ],
+        "bg": [
+          "Проверете колелото си преди тръгване.",
+          "Препоръчително е да носите каска.",
+          "Маршрутът към резервата Сребърна е частично по селски пътища — внимавайте."
         ]
       },
       "variants": {
@@ -806,7 +870,8 @@
             "de": "Trotzen Sie dem Regen auf zwei Rädern, beginnend im Dunau-Park. Das Historische Museum bietet eine trockene Pause, bevor es zum römischen Grabmal geht. Der Weg zur Festung ist anstrengend, aber lohnend. Der Höhepunkt ist die Fahrt zum Srebarna-Reservat, wo Sie im Besucherzentrum Schutz finden und die Vögel beobachten können, bevor Sie zum Park zurückkehren.",
             "hu": "Dacoljon az esővel két keréken, kezdve a Duna-parkban. A Történeti Múzeum száraz pihenőt kínál, mielőtt a római sírhoz hajtana. Az erőd felé vezető út megerőltető, de megéri. A csúcspont a Srebarna rezervátum, ahol a látogatóközpontban menedéket lelhet és megfigyelheti a madarakat, mielőtt visszatérne a parkba.",
             "ro": "Înfruntați ploaia pe două roți, începând din Parcul Dunării. Muzeul de Istorie oferă o pauză uscată înainte de a merge la mormântul roman. Drumul spre cetate este solicitant, dar merită. Punctul culminant este drumul spre Rezervația Srebarna, unde găsiți adăpost la centrul de vizitare pentru a observa păsările înainte de întoarcere.",
-            "en": "Brave the rain on two wheels, starting at Danube Park. The Historical Museum offers a dry break before pedaling to the Roman Tomb. The ride to the fortress is strenuous but rewarding. The highlight is the trip to Srebarna Reserve, where you can find shelter in the visitor center and watch birds before returning to the park."
+            "en": "Brave the rain on two wheels, starting at Danube Park. The Historical Museum offers a dry break before pedaling to the Roman Tomb. The ride to the fortress is strenuous but rewarding. The highlight is the trip to Srebarna Reserve, where you can find shelter in the visitor center and watch birds before returning to the park.",
+            "bg": "Смело срещнете дъжда на две колела, тръгвайки от Дунавския парк. Историческият музей предлага суха почивка преди да продължите към Римската гробница. Пътят до крепостта е изтощителен, но възнаграждаващ. Акцентът е пътуването до резервата Сребърна, където можете да се приютите в посетителския център и да наблюдавате птиците преди връщане в парка."
           },
           "stops": [
             {
@@ -815,7 +880,8 @@
                 "de": "Achten Sie auf nasses Laub auf den Radwegen.",
                 "hu": "Vigyázzon a vizes levelekre a kerékpárúton.",
                 "ro": "Atenție la frunzele ude de pe pistele de biciclete.",
-                "en": "Watch out for wet leaves on the bike paths."
+                "en": "Watch out for wet leaves on the bike paths.",
+                "bg": "Внимавайте за влажни листа по велоалеите."
               }
             },
             {
@@ -824,7 +890,8 @@
                 "de": "Sicherer Abstellplatz für Fahrräder vorhanden.",
                 "hu": "Biztonságos kerékpártároló elérhető.",
                 "ro": "Loc sigur pentru parcarea bicicletelor disponibil.",
-                "en": "Safe bicycle parking available nearby."
+                "en": "Safe bicycle parking available nearby.",
+                "bg": "Налично е безопасно паркиране за велосипеди наблизо."
               }
             },
             {
@@ -833,7 +900,8 @@
                 "de": "Kurze Fahrzeit vom Museum, kaum nass werden.",
                 "hu": "Rövid táv a múzeumtól, alig ázik meg.",
                 "ro": "Distanță scurtă de la muzeu, expunere minimă.",
-                "en": "Short ride from the museum, minimal rain exposure."
+                "en": "Short ride from the museum, minimal rain exposure.",
+                "bg": "Кратко каране от музея, минимално излагане на дъжд."
               }
             },
             {
@@ -842,7 +910,8 @@
                 "de": "Ein schneller Fotostopp unter dem Regenschirm.",
                 "hu": "Gyors fotómegálló az esernyő alatt.",
                 "ro": "O oprire rapidă pentru fotografii sub umbrelă.",
-                "en": "A quick photo stop under an umbrella."
+                "en": "A quick photo stop under an umbrella.",
+                "bg": "Бърза фотоспирка под чадър."
               }
             },
             {
@@ -851,7 +920,8 @@
                 "de": "Vorsicht bei der Abfahrt auf nasser Straße.",
                 "hu": "Vigyázzon a lejtőn a vizes aszfalton.",
                 "ro": "Atenție la coborâre pe șoseaua umedă.",
-                "en": "Be careful during the descent on wet roads."
+                "en": "Be careful during the descent on wet roads.",
+                "bg": "Бъдете внимателни при спускане по мокри пътища."
               }
             },
             {
@@ -860,7 +930,8 @@
                 "de": "Das Museum vor Ort bietet perfekten Regenschutz.",
                 "hu": "A helyi múzeum tökéletes esővédelmet nyújt.",
                 "ro": "Muzeul local oferă protecție perfectă contra ploii.",
-                "en": "The local museum offers perfect rain protection."
+                "en": "The local museum offers perfect rain protection.",
+                "bg": "Местният музей предлага отлична защита от дъжда."
               }
             },
             {
@@ -869,7 +940,8 @@
                 "de": "Trocknen Sie Ihr Rad nach der Fahrt ab.",
                 "hu": "Törölje szárazra a biciklit az út után.",
                 "ro": "Ștergeți bicicleta după terminarea traseului.",
-                "en": "Dry off your bike after the ride."
+                "en": "Dry off your bike after the ride.",
+                "bg": "Изсушете колелото си след карането."
               }
             }
           ],
@@ -897,6 +969,12 @@
               "Wear a full-body raincoat.",
               "Avoid puddles, as they might be deep.",
               "The road to Srebarna can be slippery when wet."
+            ],
+            "bg": [
+              "Използвайте калници на велосипеда си.",
+              "Носете дъждобран за цялото тяло.",
+              "Избягвайте локвите, тъй като могат да са дълбоки.",
+              "Пътят към Сребърна може да става хлъзгав при дъжд."
             ]
           }
         },
@@ -905,7 +983,8 @@
             "de": "Eine winterliche Radtour durch Silistra erfordert warme Kleidung. Vom verschneiten Dunau-Park geht es zu den kulturellen Schätzen der Stadt. Die Museen bieten notwendige Aufwärmpausen. Die Fahrt zur Festung Medschidi Tabia belohnt Sie mit einer frostigen Brise und Panoramablick. Den Abschluss bildet die beeindruckende, kahle Landschaft von Srebarna, bevor Sie rechtzeitig vor Dunkelheit zurückkehren.",
             "hu": "A téli kerékpártúra Szilisztrában meleg ruházatot igényel. A havas Duna-parkból indulva a város kulturális kincsei felé vesszük az irányt. A múzeumok szükséges melegedőket kínálnak. A Medzsidi Tabia erőd felé tartó tekerés fagyos széllel és panorámával jutalmaz. A programot Srebarna kopár tája zárja, mielőtt sötétedés előtt visszaérne.",
             "ro": "O tură cu bicicleta prin Silistra iarna necesită haine groase. De la Parcul Dunării înzăpezit porniți spre comorile culturale. Muzeele oferă pauze necesare de încălzire. Drumul spre Cetatea Medschidi Tabia vă răsplătește cu o briză înghețată și vedere panoramică. Finalul este peisajul arid al Srebarna, înainte de a reveni pe întuneric.",
-            "en": "A winter bike tour through Silistra requires warm clothing. From the snowy Danube Park, head towards the city's cultural treasures. The museums provide necessary warming breaks. The ride to Medschidi Tabia Fortress rewards you with a frosty breeze and panoramic views. Conclude with the impressive, stark landscape of Srebarna, returning before dark."
+            "en": "A winter bike tour through Silistra requires warm clothing. From the snowy Danube Park, head towards the city's cultural treasures. The museums provide necessary warming breaks. The ride to Medschidi Tabia Fortress rewards you with a frosty breeze and panoramic views. Conclude with the impressive, stark landscape of Srebarna, returning before dark.",
+            "bg": "Зимен велотур из Силистра изисква топло облекло. От заснежения Дунавски парк поемете към културните съкровища на града. Музеите предлагат необходими почивки за затопляне. Карането до крепост Меджиди Табия ще ви възнагради с хладен ветрец и панорамни гледки. Завършете с впечатляващия, суров пейзаж на Сребърна, връщайки се преди тъмно."
           },
           "stops": [
             {
@@ -914,7 +993,8 @@
                 "de": "Vorsicht vor vereisten Stellen auf den Wegen.",
                 "hu": "Vigyázzon a jeges foltokra az utakon.",
                 "ro": "Atenție la porțiunile înghețate de pe alei.",
-                "en": "Watch out for icy patches on the paths."
+                "en": "Watch out for icy patches on the paths.",
+                "bg": "Внимавайте за заледени участъци по пътеките."
               }
             },
             {
@@ -923,7 +1003,8 @@
                 "de": "Wärmen Sie Ihre Hände im Inneren auf.",
                 "hu": "Melegítse fel a kezeit odabent.",
                 "ro": "Încălziți-vă mâinile în interior.",
-                "en": "Warm up your hands inside the museum."
+                "en": "Warm up your hands inside the museum.",
+                "bg": "Раздвижете ръцете си вътре в музея, за да се стоплите."
               }
             },
             {
@@ -932,7 +1013,8 @@
                 "de": "Besuch bietet Schutz vor dem kalten Wind.",
                 "hu": "A látogatás védelmet nyújt a hideg szél ellen.",
                 "ro": "Vizita oferă protecție împotriva vântului rece.",
-                "en": "The visit provides shelter from the cold wind."
+                "en": "The visit provides shelter from the cold wind.",
+                "bg": "Посещението предоставя убежище от студения вятър."
               }
             },
             {
@@ -941,7 +1023,8 @@
                 "de": "Im Winter oft stimmungsvoll beleuchtet.",
                 "hu": "Télen gyakran hangulatosan van kivilágítva.",
                 "ro": "Iarna este adesea iluminat atmosferic.",
-                "en": "Often atmospherically lit in winter evenings."
+                "en": "Often atmospherically lit in winter evenings.",
+                "bg": "Често е атмосферно осветено през зимните вечери."
               }
             },
             {
@@ -950,7 +1033,8 @@
                 "de": "Extremer Windchill oben auf dem Hügel.",
                 "hu": "Erős szélhűtés várható a dombtetőn.",
                 "ro": "Vânt foarte tăios sus pe deal.",
-                "en": "Extreme wind chill at the top of the hill."
+                "en": "Extreme wind chill at the top of the hill.",
+                "bg": "Екстремно усещане за студ на върха на хълма."
               }
             },
             {
@@ -959,7 +1043,8 @@
                 "de": "Beobachten Sie Wintervögel vom warmen Museum.",
                 "hu": "Figyelje a telelő madarakat a meleg múzeumból.",
                 "ro": "Observați păsările de iarnă din muzeul cald.",
-                "en": "Watch winter birds from the warm museum gallery."
+                "en": "Watch winter birds from the warm museum gallery.",
+                "bg": "Наблюдавайте зимните птици от топлата музейна галерия."
               }
             },
             {
@@ -968,7 +1053,8 @@
                 "de": "Planen Sie die Rückkehr vor 17:00 Uhr.",
                 "hu": "Tervezze a visszaérkezést 17:00 előtt.",
                 "ro": "Planificați întoarcerea înainte de ora 17:00.",
-                "en": "Plan to return before 5:00 PM."
+                "en": "Plan to return before 5:00 PM.",
+                "bg": "Планирайте да се върнете преди 17:00 ч."
               }
             }
           ],
@@ -996,6 +1082,12 @@
               "Check tire pressure in cold temperatures.",
               "Days are short, so start your tour early.",
               "Bright bicycle lights are essential."
+            ],
+            "bg": [
+              "Носете ветрозащитни ръкавици при каране.",
+              "Проверете налягането в гумите при ниски температури.",
+              "Дните са къси, затова започнете тура рано.",
+              "Силно препоръчителни са ярки велосипедни светлини."
             ]
           }
         }
@@ -1014,7 +1106,8 @@
             "de": "Naturreservat Srebarna",
             "hu": "Szrebarna természetvédelmi terület",
             "ro": "Rezervația Naturală Srebărna",
-            "en": "Srebarna Nature Reserve"
+            "en": "Srebarna Nature Reserve",
+            "bg": "Природен резерват Сребърна"
           },
           "coords": [
             27.075,
@@ -1029,7 +1122,8 @@
             "de": "Planen Sie genug Zeit für die Vogelbeobachtung ein. Ein Fernglas ist nützlich.",
             "hu": "Szánjon elég időt a madármegfigyelésre. Egy távcső hasznos lehet.",
             "ro": "Planificați suficient timp pentru observarea păsărilor. Un binoclu este util.",
-            "en": "Plan enough time for bird watching. Binoculars are useful."
+            "en": "Plan enough time for bird watching. Binoculars are useful.",
+            "bg": "Планирайте достатъчно време за наблюдение на птици. Бинокълът е полезен."
           }
         },
         {
@@ -1037,7 +1131,8 @@
             "de": "Festung Medschidi Tabia",
             "hu": "Medzsidi Tabia erőd",
             "ro": "Fortăreața Medjidi Tabia",
-            "en": "Medschidi Tabia Fortress"
+            "en": "Medschidi Tabia Fortress",
+            "bg": "Крепост Меджиди Табия"
           },
           "coords": [
             27.251,
@@ -1052,7 +1147,8 @@
             "de": "Parken Sie unterhalb der Festung und gehen Sie das letzte Stück zu Fuß.",
             "hu": "Parkoljon az erőd alatt, és tegye meg az utolsó szakaszt gyalog.",
             "ro": "Parcați sub cetate și mergeți pe jos ultima bucată de drum.",
-            "en": "Park below the fortress and walk the last stretch."
+            "en": "Park below the fortress and walk the last stretch.",
+            "bg": "Паркирайте под крепостта и изминете последния участък пеша."
           }
         },
         {
@@ -1060,7 +1156,8 @@
             "de": "Mittagessen in der Nähe der Festung",
             "hu": "Ebéd az erőd közelében",
             "ro": "Prânz lângă cetate",
-            "en": "Lunch near the fortress"
+            "en": "Lunch near the fortress",
+            "bg": "Обяд в близост до крепостта"
           },
           "coords": [
             27.253,
@@ -1076,7 +1173,8 @@
             "de": "Genießen Sie traditionelle bulgarische Küche mit Aussicht.",
             "hu": "Élvezze a hagyományos bolgár konyhát a kilátással.",
             "ro": "Bucurați-vă de bucătăria tradițională bulgară cu priveliște.",
-            "en": "Enjoy traditional Bulgarian cuisine with a view."
+            "en": "Enjoy traditional Bulgarian cuisine with a view.",
+            "bg": "Насладете се на традиционна българска кухня с гледка."
           }
         },
         {
@@ -1084,7 +1182,8 @@
             "de": "Parken im Stadtzentrum",
             "hu": "Parkolás a városközpontban",
             "ro": "Parcare în centrul orașului",
-            "en": "Parking in the city center"
+            "en": "Parking in the city center",
+            "bg": "Паркиране в центъра на града"
           },
           "coords": [
             27.267,
@@ -1099,7 +1198,8 @@
             "de": "Suchen Sie einen zentralen Parkplatz, um den Rest zu Fuß zu erkunden.",
             "hu": "Keressen egy központi parkolót, a többit fedezze fel gyalog.",
             "ro": "Găsiți o parcare centrală pentru a explora restul pe jos.",
-            "en": "Find a central parking spot to explore the rest on foot."
+            "en": "Find a central parking spot to explore the rest on foot.",
+            "bg": "Намерете централно място за паркиране, за да разгледате останалото пеша."
           }
         },
         {
@@ -1107,7 +1207,8 @@
             "de": "Römisches Grab",
             "hu": "Római sírkamra",
             "ro": "Mormântul Roman",
-            "en": "Roman Tomb"
+            "en": "Roman Tomb",
+            "bg": "Римска гробница"
           },
           "coords": [
             27.2681,
@@ -1123,7 +1224,8 @@
             "de": "Ein Muss für Geschichtsinteressierte, nur wenige Schritte vom Parkplatz entfernt.",
             "hu": "Történelemkedvelőknek kötelező, csak pár lépésre a parkolótól.",
             "ro": "O vizită obligatorie pentru pasionații de istorie, la câțiva pași de parcare.",
-            "en": "A must-see for history buffs, just a short walk from the parking area."
+            "en": "A must-see for history buffs, just a short walk from the parking area.",
+            "bg": "Задължително за почитателите на историята, само на кратка разходка от паркинга."
           }
         },
         {
@@ -1131,7 +1233,8 @@
             "de": "Spaziergang im Donaupark",
             "hu": "Séta a Dunai Parkban",
             "ro": "Plimbare în Parcul Dunării",
-            "en": "Stroll in the Danube Park"
+            "en": "Stroll in the Danube Park",
+            "bg": "Разходка в Дунавския парк"
           },
           "coords": [
             27.2613,
@@ -1147,7 +1250,8 @@
             "de": "Lassen Sie den Tag am Ufer der Donau ausklingen.",
             "hu": "Zárja a napot a Duna partján.",
             "ro": "Încheiați ziua pe malul Dunării.",
-            "en": "End your day on the banks of the Danube."
+            "en": "End your day on the banks of the Danube.",
+            "bg": "Завършете деня на брега на Дунав."
           }
         }
       ],
@@ -1155,7 +1259,8 @@
         "de": "Mit dem Auto erkunden Sie die Highlights von Silistra und Umgebung. Der Tag beginnt im Naturreservat Srebarna, einem Paradies für Vogelbeobachter. Danach fahren Sie zur Festung Medschidi Tabia, wo Sie nach der Besichtigung zu Mittag essen. Am Nachmittag parken Sie im Zentrum und erkunden zu Fuß das berühmte römische Grab und beenden den Tag mit einem entspannenden Spaziergang im Donaupark.",
         "hu": "Autóval felfedezheti Szilisztra és környéke legjavát. A nap a Szrebarna természetvédelmi területen kezdődik, a madármegfigyelők paradicsomában. Ezután a Medzsidi Tabia erődhöz hajt, ahol ebédel. Délután a központban parkol, és gyalog fedezi fel a híres római sírkamrát, majd a napot egy pihentető sétával zárja a Dunai Parkban.",
         "ro": "Cu mașina, explorați cele mai importante atracții din Silistra și împrejurimi. Ziua începe la Rezervația Naturală Srebărna, un paradis pentru observatorii de păsări. Apoi, conduceți la cetatea Medjidi Tabia, unde luați prânzul după vizită. După-amiaza, parcați în centru și explorați pe jos faimosul Mormânt Roman, încheind ziua cu o plimbare relaxantă în Parcul Dunării.",
-        "en": "By car, you explore the highlights of Silistra and its surroundings. The day begins at the Srebarna Nature Reserve, a birdwatcher's paradise. Afterwards, you drive to the Medschidi Tabia fortress, where you have lunch after the visit. In the afternoon, you park in the center and explore the famous Roman Tomb on foot, ending the day with a relaxing stroll in the Danube Park."
+        "en": "By car, you explore the highlights of Silistra and its surroundings. The day begins at the Srebarna Nature Reserve, a birdwatcher's paradise. Afterwards, you drive to the Medschidi Tabia fortress, where you have lunch after the visit. In the afternoon, you park in the center and explore the famous Roman Tomb on foot, ending the day with a relaxing stroll in the Danube Park.",
+        "bg": "С кола разглеждате акцентите на Силистра и околностите ѝ. Денят започва в резервата Сребърна — рай за наблюдение на птици. След това шофирате до крепост Меджиди Табия, където обядвате след разглеждането. Следобед паркирате в центъра и разглеждате прочутата Римска гробница пеша, като завършвате деня с отпускаща разходка в Дунавския парк."
       },
       "gastro_picks": {
         "de": [
@@ -1259,6 +1364,11 @@
           "Check the opening hours of the Srebarna Reserve in advance.",
           "Parking is usually easier to find outside the center.",
           "A GPS or navigation app is helpful for driving to the outer sights."
+        ],
+        "bg": [
+          "Проверете предварително работното време на резервата Сребърна.",
+          "Паркирането обикновено е по-лесно извън центъра.",
+          "GPS или навигационно приложение са полезни при шофиране до отдалечените забележителности."
         ]
       },
       "variants": {
@@ -1267,7 +1377,8 @@
             "de": "Mit dem Auto ist Silistra auch bei Regen komfortabel zu erkunden. Starten Sie im Srebarna-Reservat, wo das Naturkundemuseum Sie trocken hält. Danach geht es zur Festung Medschidi Tabia und zu einem gemütlichen Mittagessen in der Nähe. Nach dem Parken im Zentrum besuchen Sie das römische Grabmal und lassen den Tag bei einem Spaziergang im Dunau-Park ausklingen, wenn der Regen nachlässt.",
             "hu": "Autóval Szilisztra esőben is kényelmesen felfedezhető. Kezdjen a Srebarna rezervátumnál, ahol a természettudományi múzeum szárazon tartja. Ezután irány a Medzsidi Tabia erőd és egy kellemes ebéd a közelben. A központban való parkolás után látogassa meg a római sírt, majd zárja a napot a Duna-parkban, amikor csendesedik az eső.",
             "ro": "Cu mașina, Silistra este confortabil de explorat chiar și pe ploaie. Începeți la Rezervația Srebarna, unde muzeul de științe naturale vă ține la uscat. Apoi mergeți la Cetatea Medschidi Tabia și la un prânz plăcut în apropiere. După parcarea în centru, vizitați mormântul roman și încheiați ziua în Parcul Dunării când ploaia se domolește.",
-            "en": "By car, Silistra is comfortable to explore even in the rain. Start at Srebarna Reserve, where the natural history museum keeps you dry. Then head to Medschidi Tabia Fortress followed by a cozy lunch nearby. After parking in the center, visit the Roman Tomb and end the day with a stroll in Danube Park as the rain subsides."
+            "en": "By car, Silistra is comfortable to explore even in the rain. Start at Srebarna Reserve, where the natural history museum keeps you dry. Then head to Medschidi Tabia Fortress followed by a cozy lunch nearby. After parking in the center, visit the Roman Tomb and end the day with a stroll in Danube Park as the rain subsides.",
+            "bg": "С кола Силистра е удобна за разглеждане дори при дъжд. Започнете в резервата Сребърна, където музейът по естествена история ще ви държи сухи. След това посетете крепост Меджиди Табия и се насладете на уютен обяд наблизо. След като паркирате в центъра, посетете Римската гробница и завършете деня с разходка в Дунавския парк, докато дъждът отслабне."
           },
           "stops": [
             {
@@ -1276,7 +1387,8 @@
                 "de": "Parken Sie direkt am Eingang des Museums.",
                 "hu": "Parkoljon közvetlenül a múzeum bejáratánál.",
                 "ro": "Parcați chiar la intrarea muzeului.",
-                "en": "Park directly at the museum entrance."
+                "en": "Park directly at the museum entrance.",
+                "bg": "Паркирайте директно при входа на музея."
               }
             },
             {
@@ -1285,7 +1397,8 @@
                 "de": "Die Auffahrt kann bei Starkregen rutschig sein.",
                 "hu": "A felvezető út heves esőben csúszós lehet.",
                 "ro": "Urcarea poate fi alunecoasă la ploaie torențială.",
-                "en": "The access road can be slippery in heavy rain."
+                "en": "The access road can be slippery in heavy rain.",
+                "bg": "Пътят за достъп може да става хлъзгав при силен дъжд."
               }
             },
             {
@@ -1294,7 +1407,8 @@
                 "de": "Genießen Sie lokale Spezialitäten im Trockenen.",
                 "hu": "Élvezze a helyi specialitásokat a szárazban.",
                 "ro": "Savurați specialități locale la adăpost.",
-                "en": "Enjoy local specialties while staying dry."
+                "en": "Enjoy local specialties while staying dry.",
+                "bg": "Насладете се на местни специалитети, като останете на сухо."
               }
             },
             {
@@ -1303,7 +1417,8 @@
                 "de": "Suchen Sie einen Platz nahe dem römischen Grab.",
                 "hu": "Keressen helyet a római sír közelében.",
                 "ro": "Căutați un loc aproape de mormântul roman.",
-                "en": "Find a spot near the Roman Tomb."
+                "en": "Find a spot near the Roman Tomb.",
+                "bg": "Намерете място близо до Римската гробница."
               }
             },
             {
@@ -1312,7 +1427,8 @@
                 "de": "Vom Auto zum Eingang sind es nur wenige Meter.",
                 "hu": "Az autótól a bejáratig csak pár méter.",
                 "ro": "De la mașină la intrare sunt doar câțiva metri.",
-                "en": "It's only a few meters from the car to the entrance."
+                "en": "It's only a few meters from the car to the entrance.",
+                "bg": "Само няколко метра от колата до входа."
               }
             },
             {
@@ -1321,7 +1437,8 @@
                 "de": "Ein kurzer Gang, wenn der Regen nachlässt.",
                 "hu": "Egy rövid séta, ha eláll az eső.",
                 "ro": "O scurtă plimbare dacă ploaia se oprește.",
-                "en": "A short walk when the rain lets up."
+                "en": "A short walk when the rain lets up.",
+                "bg": "Кратка разходка, когато дъждът утихне."
               }
             }
           ],
@@ -1349,6 +1466,12 @@
               "Use guarded parking lots in the center.",
               "Keep your windshield fog-free.",
               "Keep an umbrella ready in the trunk."
+            ],
+            "bg": [
+              "Внимавайте за аквапланинг по главния път.",
+              "Използвайте охраняеми паркинги в центъра.",
+              "Дръжте предното стъкло без мъгла.",
+              "Дръжте чадър в багажника под ръка."
             ]
           }
         },
@@ -1357,7 +1480,8 @@
             "de": "Eine winterliche Autofahrt durch Silistra verbindet Natur und Kultur ohne Frieren. Beginnen Sie im frostigen Srebarna, wo das Museum Wärme bietet. Die Fahrt zur Festung Medschidi Tabia ist bei Schnee besonders malerisch. Nach einem stärkenden Mittagessen parken Sie bequem im Zentrum, um das römische Grabmal zu besichtigen. Den Tag beendet ein kurzer, erfrischender Gang durch den winterlichen Dunau-Park.",
             "hu": "A téli autós körút Szilisztrában ötvözi a természetet és a kultúrát fagyoskodás nélkül. Kezdjen a jeges Srebarnánál, ahol a múzeum meleget ad. A Medzsidi Tabia erődhöz vezető út hóban különösen festői. Egy laktató ebéd után parkoljon kényelmesen a központban a római sír megtekintéséhez. A napot egy rövid, frissítő séta zárja a téli Duna-parkban.",
             "ro": "O tură cu mașina iarna prin Silistra îmbină natura și cultura fără frig. Începeți la Srebarna înghețată, unde muzeul oferă căldură. Drumul spre Cetatea Medschidi Tabia este pitoresc pe zăpadă. După un prânz consistent, parcați în centru pentru a vizita mormântul roman. Ziua se încheie cu o scurtă plimbare revigorantă în Parcul Dunării.",
-            "en": "A winter drive through Silistra combines nature and culture without the chill. Start at frosty Srebarna, where the museum offers warmth. The drive to Medschidi Tabia Fortress is particularly scenic in the snow. After a hearty lunch, park conveniently in the center to visit the Roman Tomb. End the day with a short, refreshing walk in the wintery Danube Park."
+            "en": "A winter drive through Silistra combines nature and culture without the chill. Start at frosty Srebarna, where the museum offers warmth. The drive to Medschidi Tabia Fortress is particularly scenic in the snow. After a hearty lunch, park conveniently in the center to visit the Roman Tomb. End the day with a short, refreshing walk in the wintery Danube Park.",
+            "bg": "Зимен маршрут с кола из Силистра съчетава природа и култура без прекален студ. Започнете при заснежена Сребърна, където музеят предлага топлина. Пътят до крепост Меджиди Табия е особено живописен в снега. След обилен обяд паркирайте удобно в центъра, за да посетите Римската гробница. Завършете деня с кратка, освежаваща разходка в зимния Дунавски парк."
           },
           "stops": [
             {
@@ -1366,7 +1490,8 @@
                 "de": "Vorsicht bei Schnee auf der Zufahrtsstraße.",
                 "hu": "Vigyázzon a hóval a bekötőúton.",
                 "ro": "Atenție la zăpadă pe drumul de acces.",
-                "en": "Be careful with snow on the access road."
+                "en": "Be careful with snow on the access road.",
+                "bg": "Внимавайте със снега по пътя за достъп."
               }
             },
             {
@@ -1375,7 +1500,8 @@
                 "de": "Gute Winterreifen für den Hügel erforderlich.",
                 "hu": "Jó téli gumi szükséges a dombra jutáshoz.",
                 "ro": "Anvelope de iarnă bune necesare pentru deal.",
-                "en": "Good winter tires required for the hill climb."
+                "en": "Good winter tires required for the hill climb.",
+                "bg": "За изкачването до хълма са нужни добри зимни гуми."
               }
             },
             {
@@ -1384,7 +1510,8 @@
                 "de": "Warme Suppen sind im Winter sehr zu empfehlen.",
                 "hu": "A meleg levesek télen kifejezetten ajánlottak.",
                 "ro": "Supele calde sunt foarte recomandate iarna.",
-                "en": "Warm soups are highly recommended in winter."
+                "en": "Warm soups are highly recommended in winter.",
+                "bg": "Топлите супи са силно препоръчителни през зимата."
               }
             },
             {
@@ -1393,7 +1520,8 @@
                 "de": "Parkplätze sind im Winter oft leichter zu finden.",
                 "hu": "Télen gyakran könnyebb parkolóhelyet találni.",
                 "ro": "Locurile de parcare sunt mai ușor de găsit iarna.",
-                "en": "Parking spots are often easier to find in winter."
+                "en": "Parking spots are often easier to find in winter.",
+                "bg": "Паркоместата често са по-лесни за намиране през зимата."
               }
             },
             {
@@ -1402,7 +1530,8 @@
                 "de": "Ein angenehm temperierter Stopp.",
                 "hu": "Kellemes hőmérsékletű megálló.",
                 "ro": "O oprire la o temperatură plăcută.",
-                "en": "A stop with a pleasant indoor temperature."
+                "en": "A stop with a pleasant indoor temperature.",
+                "bg": "Спирка с приятно топла вътрешна температура."
               }
             },
             {
@@ -1411,7 +1540,8 @@
                 "de": "Genießen Sie den Blick auf die frostige Donau.",
                 "hu": "Élvezze a kilátást a fagyos Dunára.",
                 "ro": "Bucurați-vă de vederea Dunării înghețate.",
-                "en": "Enjoy the view of the frosty Danube."
+                "en": "Enjoy the view of the frosty Danube.",
+                "bg": "Насладете се на гледката към заснежения Дунав."
               }
             }
           ],
@@ -1439,6 +1569,12 @@
               "Drive carefully due to potential black ice.",
               "Car heating ensures comfort between stops.",
               "Keep an ice scraper handy."
+            ],
+            "bg": [
+              "Проверете антифриза и чистачките преди тръгване.",
+              "Шофирайте внимателно заради възможен черен лед.",
+              "Отоплението в колата осигурява комфорт между спирките.",
+              "Дръжте стъргалка за лед под ръка."
             ]
           }
         }
@@ -1457,7 +1593,8 @@
             "de": "Start: Zentraler Busbahnhof",
             "hu": "Indulás: Központi buszpályaudvar",
             "ro": "Start: Autogara Centrală",
-            "en": "Start: Central Bus Station"
+            "en": "Start: Central Bus Station",
+            "bg": "Начало: Централна автогара"
           },
           "coords": [
             27.269,
@@ -1472,7 +1609,8 @@
             "de": "Kaufen Sie eine Tageskarte für den öffentlichen Nahverkehr.",
             "hu": "Vásároljon napijegyet a helyi tömegközlekedéshez.",
             "ro": "Cumpărați un bilet de o zi pentru transportul public.",
-            "en": "Buy a day pass for public transport."
+            "en": "Buy a day pass for public transport.",
+            "bg": "Купете дневен билет за градския транспорт."
           }
         },
         {
@@ -1480,7 +1618,8 @@
             "de": "Festung Medschidi Tabia",
             "hu": "Medzsidi Tabia erőd",
             "ro": "Fortăreața Medjidi Tabia",
-            "en": "Medschidi Tabia Fortress"
+            "en": "Medschidi Tabia Fortress",
+            "bg": "Крепост Меджиди Табия"
           },
           "coords": [
             27.251,
@@ -1495,7 +1634,8 @@
             "de": "Nehmen Sie einen Bus in Richtung Süden; fragen Sie den Fahrer nach der besten Haltestelle.",
             "hu": "Menjen egy déli irányú busszal; kérdezze meg a sofőrt a legjobb megállóról.",
             "ro": "Luați un autobuz spre sud; întrebați șoferul care este cea mai bună stație.",
-            "en": "Take a bus heading south; ask the driver for the best stop."
+            "en": "Take a bus heading south; ask the driver for the best stop.",
+            "bg": "Хванете автобус в посока юг; попитайте водача за най-добрата спирка."
           }
         },
         {
@@ -1503,7 +1643,8 @@
             "de": "Uhrturm Silistra",
             "hu": "Szilisztrai óratorony",
             "ro": "Turnul cu Ceas din Silistra",
-            "en": "Silistra Clock Tower"
+            "en": "Silistra Clock Tower",
+            "bg": "Часовникова кула Силистра"
           },
           "coords": [
             27.2625,
@@ -1519,7 +1660,8 @@
             "de": "Ein kurzer Spaziergang von der Festung aus.",
             "hu": "Rövid séta az erődtől.",
             "ro": "O scurtă plimbare de la cetate.",
-            "en": "A short walk from the fortress."
+            "en": "A short walk from the fortress.",
+            "bg": "Кратка разходка от крепостта."
           }
         },
         {
@@ -1527,7 +1669,8 @@
             "de": "Fahrt ins Stadtzentrum",
             "hu": "Utazás a városközpontba",
             "ro": "Călătorie spre centrul orașului",
-            "en": "Trip to the city center"
+            "en": "Trip to the city center",
+            "bg": "Екскурзия до центъра на града"
           },
           "coords": [
             27.266,
@@ -1542,7 +1685,8 @@
             "de": "Nehmen Sie einen Bus zurück ins Herz der Stadt.",
             "hu": "Menjen busszal vissza a város szívébe.",
             "ro": "Luați un autobuz înapoi în inima orașului.",
-            "en": "Take a bus back to the heart of the city."
+            "en": "Take a bus back to the heart of the city.",
+            "bg": "Върнете се с автобус към сърцето на града."
           }
         },
         {
@@ -1550,7 +1694,8 @@
             "de": "Historisches Museum",
             "hu": "Történeti Múzeum",
             "ro": "Muzeul de Istorie",
-            "en": "Historical Museum"
+            "en": "Historical Museum",
+            "bg": "Исторически музей"
           },
           "coords": [
             27.2658,
@@ -1566,7 +1711,8 @@
             "de": "Direkt an der Bushaltestelle gelegen.",
             "hu": "Közvetlenül a buszmegállónál található.",
             "ro": "Situat chiar lângă stația de autobuz.",
-            "en": "Located right next to the bus stop."
+            "en": "Located right next to the bus stop.",
+            "bg": "Намира се точно до автобусната спирка."
           }
         },
         {
@@ -1574,7 +1720,8 @@
             "de": "Donaupark",
             "hu": "Dunai Park",
             "ro": "Parcul Dunării",
-            "en": "Danube Park"
+            "en": "Danube Park",
+            "bg": "Дунавски парк"
           },
           "coords": [
             27.2613,
@@ -1590,7 +1737,8 @@
             "de": "Verbringen Sie den Rest des Nachmittags entspannt am Fluss.",
             "hu": "Töltse a délután hátralévő részét a folyóparton pihenve.",
             "ro": "Petreceți restul după-amiezii relaxându-vă pe malul fluviului.",
-            "en": "Spend the rest of the afternoon relaxing by the river."
+            "en": "Spend the rest of the afternoon relaxing by the river.",
+            "bg": "Прекарвайте остатъка от следобеда, почивайки до реката."
           }
         }
       ],
@@ -1598,7 +1746,8 @@
         "de": "Erkunden Sie Silistra mit öffentlichen Verkehrsmitteln. Beginnen Sie mit einer Busfahrt zur Festung Medschidi Tabia, dem südlichsten Punkt Ihrer Tour. Von dort aus gehen Sie zu Fuß zu nahegelegenen Sehenswürdigkeiten, bevor Sie mit dem Bus zurück ins Zentrum fahren, um das Historische Museum zu besuchen. Der Tag endet mit einem ausgedehnten, entspannten Aufenthalt im weitläufigen Donaupark.",
         "hu": "Fedezze fel Szilisztrát tömegközlekedéssel. Kezdje egy buszúttal a Medzsidi Tabia erődhöz, a túra legdélibb pontjához. Innen sétáljon el a közeli látnivalókhoz, mielőtt busszal visszatérne a központba a Történeti Múzeum megtekintésére. A napot a tágas Dunai Parkban való hosszas, pihentető tartózkodással zárja.",
         "ro": "Explorați Silistra cu transportul public. Începeți cu o călătorie cu autobuzul la cetatea Medjidi Tabia, cel mai sudic punct al turului dumneavoastră. De acolo, mergeți pe jos la atracțiile din apropiere înainte de a lua autobuzul înapoi în centru pentru a vizita Muzeul de Istorie. Ziua se încheie cu o ședere lungă și relaxantă în vastul Parc al Dunării.",
-        "en": "Explore Silistra using public transport. Start with a bus ride to the Medschidi Tabia fortress, the southernmost point of your tour. From there, walk to nearby sights before taking a bus back to the center to visit the Historical Museum. The day ends with a long, relaxing stay in the spacious Danube Park."
+        "en": "Explore Silistra using public transport. Start with a bus ride to the Medschidi Tabia fortress, the southernmost point of your tour. From there, walk to nearby sights before taking a bus back to the center to visit the Historical Museum. The day ends with a long, relaxing stay in the spacious Danube Park.",
+        "bg": "Разгледайте Силистра с помощта на обществения транспорт. Започнете с автобус до крепост Меджиди Табия, най-южната точка на вашия тур. Оттам пеша посетете близките забележителности, преди да се върнете с автобус в центъра за посещение на Историческия музей. Денят завършва с продължителен, отпускащ престой в просторния Дунавски парк."
       },
       "gastro_picks": {
         "de": [
@@ -1702,6 +1851,11 @@
           "Find out about the bus schedules.",
           "Have small change ready for bus tickets.",
           "Most buses depart from the central area near the train station."
+        ],
+        "bg": [
+          "Разберете разписанието на автобусите.",
+          "Носете дребни за билетите.",
+          "Повечето автобуси тръгват от централната зона до жп гарата."
         ]
       },
       "variants": {
@@ -1710,7 +1864,8 @@
             "de": "Nutzen Sie die öffentlichen Verkehrsmittel, um Silistra im Regen zu erkunden. Starten Sie am Busbahnhof und fahren Sie zur Festung Medschidi Tabia. Danach geht es zum Uhrturm und weiter ins Stadtzentrum. Das Historische Museum bietet Schutz vor dem Wetter. Den Abschluss bildet der Dunau-Park, wo Sie zwischen den Schauern am Flussufer spazieren gehen können.",
             "hu": "Használja a tömegközlekedést Szilisztra felfedezéséhez esőben. Kezdjen a buszpályaudvaron, és menjen a Medzsidi Tabia erődhöz. Ezután irány az óratorony, majd a városközpont. A Történeti Múzeum védelmet nyújt az időjárás elől. A napot a Duna-park zárja, ahol a záporok között sétálhat a folyóparton.",
             "ro": "Folosiți transportul public pentru a explora Silistra pe ploaie. Începeți la autogară și mergeți la Cetatea Medschidi Tabia. Apoi vizitați Turnul cu Ceas și centrul orașului. Muzeul de Istorie oferă adăpost împotriva vremii. Finalul este în Parcul Dunării, unde puteți merge pe malul râului între averse.",
-            "en": "Use public transport to explore Silistra in the rain. Start at the bus station and head to Medschidi Tabia Fortress. Then visit the Clock Tower and continue to the city center. The Historical Museum provides shelter from the elements. The day ends in Danube Park, where you can stroll along the riverbank between showers."
+            "en": "Use public transport to explore Silistra in the rain. Start at the bus station and head to Medschidi Tabia Fortress. Then visit the Clock Tower and continue to the city center. The Historical Museum provides shelter from the elements. The day ends in Danube Park, where you can stroll along the riverbank between showers.",
+            "bg": "Използвайте обществения транспорт, за да разгледате Силистра в дъжда. Започнете от автогарата и отидете до крепостта Меджиди Табия. След това посетете Часовниковата кула и продължете към центъра на града. Регионалният исторически музей предлага подслон от елементите. Денят завършва в Дунавския парк, където можете да се разходите по брега на реката между преваляванията."
           },
           "stops": [
             {
@@ -1719,7 +1874,8 @@
                 "de": "Warten Sie im überdachten Wartebereich.",
                 "hu": "Várjon a fedett várakozóhelyen.",
                 "ro": "Așteptați în zona de așteptare acoperită.",
-                "en": "Wait in the covered waiting area."
+                "en": "Wait in the covered waiting area.",
+                "bg": "Изчакайте в покритото чакалня."
               }
             },
             {
@@ -1728,7 +1884,8 @@
                 "de": "Bus hält in Gehentfernung zum Eingang.",
                 "hu": "A busz sétatávolságra áll meg a bejárattól.",
                 "ro": "Autobuzul oprește la mică distanță de intrare.",
-                "en": "The bus stops within walking distance of the entrance."
+                "en": "The bus stops within walking distance of the entrance.",
+                "bg": "Автобусът спира на пешеходно разстояние от входа."
               }
             },
             {
@@ -1737,7 +1894,8 @@
                 "de": "Zentraler Halt, viele Unterstellmöglichkeiten.",
                 "hu": "Központi megálló, sok fedett hellyel.",
                 "ro": "Stație centrală, multe locuri de adăpost.",
-                "en": "Central stop with many nearby shelters."
+                "en": "Central stop with many nearby shelters.",
+                "bg": "Централна спирка с много близки укрития."
               }
             },
             {
@@ -1746,7 +1904,8 @@
                 "de": "Kurze Fahrt, bleiben Sie trocken.",
                 "hu": "Rövid utazás, maradjon szárazon.",
                 "ro": "Călătorie scurtă, rămâneți la uscat.",
-                "en": "Short trip, stay dry inside the bus."
+                "en": "Short trip, stay dry inside the bus.",
+                "bg": "Кратко пътуване, останете сухи в автобуса."
               }
             },
             {
@@ -1755,7 +1914,8 @@
                 "de": "Idealer Ort bei anhaltendem Regen.",
                 "hu": "Ideális hely tartós eső esetén.",
                 "ro": "Loc ideal în caz de ploaie persistentă.",
-                "en": "Ideal place in case of persistent rain."
+                "en": "Ideal place in case of persistent rain.",
+                "bg": "Идеално място при продължителен дъжд."
               }
             },
             {
@@ -1764,7 +1924,8 @@
                 "de": "Nutzen Sie die Pavillons im Park.",
                 "hu": "Használja a park pavilonjait menedéknek.",
                 "ro": "Folosiți pavilioanele din parc ca adăpost.",
-                "en": "Use the park pavilions for shelter."
+                "en": "Use the park pavilions for shelter.",
+                "bg": "Използвайте павилионите в парка за подслон."
               }
             }
           ],
@@ -1792,6 +1953,12 @@
               "Have small change ready for tickets.",
               "Buses are a great escape from the rain.",
               "City center stops are often covered."
+            ],
+            "bg": [
+              "Проверете разписанието онлайн или на станцията.",
+              "Носете дребни за билетите.",
+              "Автобусите са отличен начин да избягате от дъжда.",
+              "Спирките в центъра често са покрити."
             ]
           }
         },
@@ -1800,7 +1967,8 @@
             "de": "Silistras Transit-Tour im Winter ist ideal, um Kälteperioden zu überbrücken. Nach dem Start am Busbahnhof bringt Sie der Bus zur Festung, wo Sie die klare Winterluft genießen. Zurück im Zentrum wärmen Sie sich am Uhrturm und im Historischen Museum auf. Der Tag endet im Dunau-Park, wo Sie die winterliche Atmosphäre der Donau erleben, bevor Sie den Bus zurück nehmen.",
             "hu": "Szilisztra tömegközlekedési túrája télen ideális a hideg szakaszok áthidalására. A buszpályaudvarról indulva a busz az erődhöz viszi, ahol élvezheti a tiszta téli levegőt. Visszatérve a központba, melegedjen fel az óratoronynál és a Történeti Múzeumban. A nap a Duna-parkban zárul a téli Duna hangulatával, mielőtt visszabuszozna.",
             "ro": "Turul cu transportul public iarna în Silistra este ideal pentru a evita frigul. După plecarea din autogară, autobuzul vă duce la cetate pentru aerul curat de iarnă. Reveniți în centru pentru a vă încălzi la Turnul cu Ceas și la Muzeul de Istorie. Ziua se încheie în Parcul Dunării cu atmosfera hibernală a Dunării.",
-            "en": "Silistra's transit tour in winter is ideal for bridging cold periods. After starting at the bus station, the bus takes you to the fortress, where you can enjoy the crisp winter air. Back in the center, warm up near the Clock Tower and in the Historical Museum. The day ends in Danube Park with the wintery atmosphere of the Danube before catching the bus back."
+            "en": "Silistra's transit tour in winter is ideal for bridging cold periods. After starting at the bus station, the bus takes you to the fortress, where you can enjoy the crisp winter air. Back in the center, warm up near the Clock Tower and in the Historical Museum. The day ends in Danube Park with the wintery atmosphere of the Danube before catching the bus back.",
+            "bg": "Транзитната обиколка на Силистра през зимата е идеална за прекъсване на студените периоди. След старта от автогарата автобусът ви отвежда до крепостта, където можете да се насладите на свежия зимен въздух. Връщайки се в центъра, затоплете се около Часовниковата кула и в Историческия музей. Денят завършва в Дунавския парк с зимната атмосфера на Дунава, преди да хванете автобуса обратно."
           },
           "stops": [
             {
@@ -1809,7 +1977,8 @@
                 "de": "Geheizter Warteraum vorhanden.",
                 "hu": "Fűtött váróterem áll rendelkezésre.",
                 "ro": "Sală de așteptare încălzită disponibilă.",
-                "en": "Heated waiting room available."
+                "en": "Heated waiting room available.",
+                "bg": "Налице е отоплена чакалня."
               }
             },
             {
@@ -1818,7 +1987,8 @@
                 "de": "Vorsicht auf dem Fußweg vom Bus zum Eingang.",
                 "hu": "Vigyázzon a gyalogúton a busztól a bejáratig.",
                 "ro": "Atenție pe drumul de la autobuz la intrare.",
-                "en": "Be careful on the walk from the bus to the entrance."
+                "en": "Be careful on the walk from the bus to the entrance.",
+                "bg": "Бъдете внимателни при разходката от автобуса до входа."
               }
             },
             {
@@ -1827,7 +1997,8 @@
                 "de": "Kürzester Weg zu warmen Cafés im Zentrum.",
                 "hu": "Legrövidebb út a központi meleg kávézókhoz.",
                 "ro": "Cea mai scurtă cale spre cafenelele calde.",
-                "en": "Shortest walk to warm cafes in the center."
+                "en": "Shortest walk to warm cafes in the center.",
+                "bg": "Най-късото разстояние до топли кафенета в центъра."
               }
             },
             {
@@ -1836,7 +2007,8 @@
                 "de": "Genießen Sie die Fahrt im beheizten Bus.",
                 "hu": "Élvezze az utazást a fűtött buszon.",
                 "ro": "Bucurați-vă de drum în autobuzul încălzit.",
-                "en": "Enjoy the ride in a heated bus."
+                "en": "Enjoy the ride in a heated bus.",
+                "bg": "Насладете се на пътуването в отопляем автобус."
               }
             },
             {
@@ -1845,7 +2017,8 @@
                 "de": "Ein Muss, um sich kulturell aufzuwärmen.",
                 "hu": "Kulturális melegedő, amit nem szabad kihagyni.",
                 "ro": "O oprire culturală obligatorie pentru încălzire.",
-                "en": "A must-visit to warm up and enjoy culture."
+                "en": "A must-visit to warm up and enjoy culture.",
+                "bg": "Задължително за посещение, за да се затоплите и да се насладите на културата."
               }
             },
             {
@@ -1854,7 +2027,8 @@
                 "de": "Kurzer Spaziergang vor der Rückfahrt.",
                 "hu": "Rövid séta a visszautazás előtt.",
                 "ro": "O scurtă plimbare înainte de plecare.",
-                "en": "A short walk before heading back."
+                "en": "A short walk before heading back.",
+                "bg": "Кратка разходка преди връщане."
               }
             }
           ],
@@ -1882,6 +2056,12 @@
               "Wait at busier, well-lit stops.",
               "Use transit for the steep climb to the fortress.",
               "Winter hat and scarf are essential."
+            ],
+            "bg": [
+              "Автобусите се движат по стандартното разписание през зимата.",
+              "Чакайте на по-натоварени, добре осветени спирки.",
+              "Използвайте транспорта за стръмното изкачване до крепостта.",
+              "Зимна шапка и шал са задължителни."
             ]
           }
         }
