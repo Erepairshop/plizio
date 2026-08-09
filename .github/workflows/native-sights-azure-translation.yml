@@ -7,7 +7,7 @@ on:
         description: "Native country language"
         type: choice
         required: true
-        options: [it, es, pt, fr, tr, hr, nl]
+        options: [it, es, pt, fr, tr, hr, nl, cs, sk, da, sv, fi, el, bg]
       limit:
         description: "Pending batches to translate; 0 means all"
         required: true
