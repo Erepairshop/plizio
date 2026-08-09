@@ -21,7 +21,8 @@
             "de": "Fredrikskirche",
             "hu": "Fredrik-templom",
             "ro": "Biserica Fredrik",
-            "en": "Fredrik's Church"
+            "en": "Fredrik's Church",
+            "sv": "Fredriks kyrka"
           },
           "coords": [
             15.587,
@@ -36,7 +37,8 @@
             "de": "Bewundern Sie die barocke Pracht und die beeindruckenden Orgelpfeifen.",
             "hu": "Csodálja meg a barokk pompát és a lenyűgöző orgonasípokat.",
             "ro": "Admirați splendoarea barocă și tuburile impresionante ale orgii.",
-            "en": "Admire the Baroque splendor and the impressive organ pipes."
+            "en": "Admire the Baroque splendor and the impressive organ pipes.",
+            "sv": "Beundra barockens prakt och de imponerande orgelpiporna."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Admiralitätskirche (Ulrica Pia)",
             "hu": "Admiralitás-templom (Ulrica Pia)",
             "ro": "Biserica Amiralității (Ulrica Pia)",
-            "en": "Admiralty Church (Ulrica Pia)"
+            "en": "Admiralty Church (Ulrica Pia)",
+            "sv": "Amiralitetskyrkan (Ulrica Pia)"
           },
           "coords": [
             15.595,
@@ -59,7 +62,8 @@
             "de": "Achten Sie auf die berühmte Holzfigur von Rosenbom vor der Kirche.",
             "hu": "Keresse meg a híres Rosenbom fafigurát a templom előtt.",
             "ro": "Căutați faimoasa figurină de lemn a lui Rosenbom în fața bisericii.",
-            "en": "Look for the famous wooden figure of Rosenbom outside the church."
+            "en": "Look for the famous wooden figure of Rosenbom outside the church.",
+            "sv": "Håll utkik efter den berömda träfiguren Rosenbom utanför kyrkan."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Stumholmen & Marinemuseum",
             "hu": "Stumholmen & Tengerészeti Múzeum",
             "ro": "Stumholmen & Muzeul Marinei",
-            "en": "Stumholmen & Naval Museum"
+            "en": "Stumholmen & Naval Museum",
+            "sv": "Stumholmen & Marinmuseum"
           },
           "coords": [
             15.596,
@@ -82,7 +87,8 @@
             "de": "Planen Sie genügend Zeit ein, um die U-Boot-Halle und die Wasa zu besichtigen.",
             "hu": "Szánjon elég időt a tengeralattjáró-csarnok és a Wasa kiállítás megtekintésére.",
             "ro": "Planificați suficient timp pentru a vizita sala submarinelor și expoziția Wasa.",
-            "en": "Plan enough time to visit the submarine hall and the Wasa exhibition."
+            "en": "Plan enough time to visit the submarine hall and the Wasa exhibition.",
+            "sv": "Planera tillräckligt med tid för att besöka ubåtshallen och Wasa‑utställningen."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Mittagessen auf Stumholmen",
             "hu": "Ebéd Stumholmenen",
             "ro": "Prânz pe Stumholmen",
-            "en": "Lunch on Stumholmen"
+            "en": "Lunch on Stumholmen",
+            "sv": "Lunch på Stumholmen"
           },
           "coords": [
             15.597,
@@ -105,7 +112,8 @@
             "de": "Genießen Sie frischen Fisch mit Blick auf das Wasser in einem der Inselrestaurants.",
             "hu": "Élvezze a friss halat a vízparti kilátással az egyik szigeti étteremben.",
             "ro": "Savurați pește proaspăt cu vedere la apă la unul dintre restaurantele de pe insulă.",
-            "en": "Enjoy fresh fish with a view of the water at one of the island's restaurants."
+            "en": "Enjoy fresh fish with a view of the water at one of the island's restaurants.",
+            "sv": "Njut av färsk fisk med havsutsikt på någon av öns restauranger."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Brändaholm",
             "hu": "Brändaholm",
             "ro": "Brändaholm",
-            "en": "Brändaholm"
+            "en": "Brändaholm",
+            "sv": "Brändaholm"
           },
           "coords": [
             15.575,
@@ -128,7 +137,8 @@
             "de": "Der perfekte Ort für postkartenreife Fotos der roten schwedischen Hütten.",
             "hu": "Tökéletes hely a képeslapra illő fotókhoz a piros svéd házikókról.",
             "ro": "Locul perfect pentru fotografii de carte poștală cu căsuțele roșii suedeze.",
-            "en": "The perfect spot for postcard-perfect photos of the red Swedish cottages."
+            "en": "The perfect spot for postcard-perfect photos of the red Swedish cottages.",
+            "sv": "Den perfekta platsen för vykortsvackra bilder av röda svenska stugor."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Kungsbron",
             "hu": "Kungsbron híd",
             "ro": "Podul Kungsbron",
-            "en": "Kungsbron Bridge"
+            "en": "Kungsbron Bridge",
+            "sv": "Kungsbron"
           },
           "coords": [
             15.592,
@@ -151,7 +162,8 @@
             "de": "Genießen Sie den Sonnenuntergang mit Blick auf die Hafeneinfahrt.",
             "hu": "Élvezze a naplementét a kikötő bejáratára nyíló kilátással.",
             "ro": "Bucurați-vă de apusul soarelui cu vedere la intrarea în port.",
-            "en": "Enjoy the sunset with a view of the harbour entrance."
+            "en": "Enjoy the sunset with a view of the harbour entrance.",
+            "sv": "Njut av solnedgången med utsikt över hamnens inlopp."
           }
         }
       ],
@@ -159,7 +171,8 @@
         "de": "Ihr Tag in der Marinestadt Karlskrona beginnt im Herzen der Stadt, auf der Insel Trossö. Am Morgen erkunden Sie das monumentale Zentrum mit der barocken Fredrikskirche und spazieren dann über die Brücke zur Insel Stumholmen. Hier tauchen Sie in die maritime Geschichte Schwedens ein.\nDer Mittag steht ganz im Zeichen der Seefahrt. Nach einem ausgiebigen Besuch im Marinemuseum, wo Sie von historischen Segelschiffen bis zu modernen U-Booten alles entdecken, genießen Sie ein Mittagessen mit frischem Fisch direkt am Wasser. Die frische Meeresbrise und die Aussicht auf die Schären schaffen eine einzigartige Atmosphäre.\nAm Nachmittag verlassen Sie das geschäftige Zentrum und machen einen malerischen Spaziergang zur Kolonie Brändaholm. Die ikonischen kleinen roten Holzhäuser, umgeben von gepflegten Gärten, fühlen sich an wie eine Reise in eine andere Zeit und bieten die perfekte Fotokulisse.\nZum Abschluss des Tages kehren Sie langsam ins Zentrum zurück. Sie überqueren die Kungsbron-Brücke bei Sonnenuntergang und werfen einen letzten Blick auf die glitzernde Ostsee. Ein Kaffee in einem der Cafés am Hauptplatz rundet diesen erlebnisreichen Tag ab.",
         "hu": "Tengerészeti témájú napja Karlskronában a város szívében, a Trossö-szigeten kezdődik. Reggel fedezze fel a monumentális központot a barokk Fredrik-templommal, majd sétáljon át a hídon a Stumholmen-szigetre. Itt elmerülhet Svédország tengeri történelmében.\nA délelőtt a tengerészet jegyében telik. A Tengerészeti Múzeum alapos meglátogatása után, ahol a történelmi vitorlásoktól a modern tengeralattjárókig mindent megtalál, ebédeljen egy jót friss halból közvetlenül a vízparton. A friss tengeri szellő és a szigetvilágra nyíló kilátás egyedülálló hangulatot teremt.\nDélután elhagyja a nyüzsgő központot, és egy festői sétát tesz a Brändaholm kunyhóihoz. Az ikonikus kis vörös faházak, amelyeket ápolt kertek vesznek körül, olyan érzést keltenek, mintha egy másik korba csöppent volna, és tökéletes fotóhátteret biztosítanak.\nA nap végén lassan visszatér a központba. Naplementekor átkel a Kungsbron hídon, és vet egy utolsó pillantást a csillogó Balti-tengerre. Egy kávé a főtér egyik kávézójában teszi teljessé ezt az eseménydús napot.",
         "ro": "Ziua dumneavoastră în orașul naval Karlskrona începe în inima orașului, pe insula Trossö. Dimineața explorați centrul monumental cu biserica barocă Fredrik, apoi traversați podul spre insula Stumholmen. Aici vă veți scufunda în istoria maritimă a Suediei.\nMiezul zilei este dedicat în întregime navigației. După o vizită extinsă la Muzeul Marinei, unde descoperiți totul, de la corăbii istorice la submarine moderne, savurați un prânz cu pește proaspăt chiar lângă apă. Briza proaspătă a mării și vederea arhipelagului creează o atmosferă unică.\nDupă-amiaza, părăsiți centrul aglomerat pentru o plimbare pitorească spre colonia Brändaholm. Căsuțele roșii iconice, înconjurate de grădini îngrijite, vă vor face să vă simțiți ca și cum ați călătorit înapoi în timp și oferă fundalul perfect pentru fotografii.\nLa finalul zilei, vă întoarceți încet spre centru. Traversați podul Kungsbron la apus și aruncați o ultimă privire spre Marea Baltică sclipitoare. O cafea la una dintre cafenelele din piața principală încheie această zi plină de evenimente.",
-        "en": "Your day in the naval city of Karlskrona begins in the heart of the city, on the island of Trossö. In the morning, you'll explore the monumental center with the Baroque Fredrik's Church, then walk across the bridge to the island of Stumholmen. Here, you'll dive into Sweden's maritime history.\nMidday is all about seafaring. After an extensive visit to the Naval Museum, where you'll discover everything from historic sailing ships to modern submarines, enjoy a lunch of fresh fish right by the water. The fresh sea breeze and the view of the archipelago create a unique atmosphere.\nIn the afternoon, you leave the bustling center for a picturesque walk to the Brändaholm colony. The iconic little red wooden houses, surrounded by well-kept gardens, feel like a journey to another time and provide the perfect photo backdrop.\nAs the day concludes, you slowly return to the center. Cross the Kungsbron bridge at sunset and take one last look at the glittering Baltic Sea. A coffee in one of the cafés on the main square perfectly rounds off this eventful day."
+        "en": "Your day in the naval city of Karlskrona begins in the heart of the city, on the island of Trossö. In the morning, you'll explore the monumental center with the Baroque Fredrik's Church, then walk across the bridge to the island of Stumholmen. Here, you'll dive into Sweden's maritime history.\nMidday is all about seafaring. After an extensive visit to the Naval Museum, where you'll discover everything from historic sailing ships to modern submarines, enjoy a lunch of fresh fish right by the water. The fresh sea breeze and the view of the archipelago create a unique atmosphere.\nIn the afternoon, you leave the bustling center for a picturesque walk to the Brändaholm colony. The iconic little red wooden houses, surrounded by well-kept gardens, feel like a journey to another time and provide the perfect photo backdrop.\nAs the day concludes, you slowly return to the center. Cross the Kungsbron bridge at sunset and take one last look at the glittering Baltic Sea. A coffee in one of the cafés on the main square perfectly rounds off this eventful day.",
+        "sv": "Din dag i örlogsstaden Karlskrona börjar i hjärtat av staden, på ön Trossö. På morgonen utforskar du det monumentala centret med barockkyrkan Fredriks, för att sedan promenera över bron till ön Stumholmen. Här dyker du ner i Sveriges maritima historia. Mitt på dagen handlar allt om sjöfart. Efter ett omfattande besök på Marinmuseum, där du upptäcker allt från historiska segelfartyg till moderna ubåtar, avnjuter du en lunch med färsk fisk vid vattnet. Den friska havsbrisen och skärgårdsutsikten skapar en unik atmosfär. På eftermiddagen lämnar du det myllrande centrumet för en pittoresk promenad till kolonin Brändaholm. De ikoniska små röda trähusen, omgivna av välskötta trädgårdar, känns som en resa till en annan tid och ger perfekt fotobakgrund. När dagen går mot sitt slut återvänder du sakta till centrum. Korsar Kungsbron i solnedgången och tar en sista titt på det glittrande Östersjön. En kaffe på ett av caféerna på Stortorget avrundar denna händelserika dag."
       },
       "gastro_picks": {
         "de": [
@@ -371,6 +384,12 @@
           "The city is spread across 33 islands, so water is always nearby. A light jacket is advisable even in summer.",
           "Many museums and attractions are closed on Mondays, so check opening hours in advance.",
           "The 'Allemansrätten' (Right of Public Access) allows you to roam almost anywhere in nature as long as you respect the environment."
+        ],
+        "sv": [
+          "Ha bekväma skor, Karlskrona utforskas bäst till fots.",
+          "Staden ligger på 33 öar, så vatten är alltid nära. En lätt jacka rekommenderas även på sommaren.",
+          "Många museer och sevärdheter är stängda på måndagar, kontrollera öppettider i förväg.",
+          "Allemansrätten tillåter att du rör dig nästan var som helst i naturen så länge du visar respekt för miljön."
         ]
       },
       "variants": {
@@ -379,7 +398,8 @@
             "de": "Ein regnerischer Morgen beginnt am Stortorget, wo die Fredrik-Kirche trockenen Unterschlupf bietet. Mittags flüchten wir in das beeindruckende Marinemuseum auf Stumholmen, ideal für schlechtes Wetter. Am Nachmittag leuchten die roten Häuser von Brändaholm trotz des grauen Himmels intensiv. Den Abend lassen wir bei einem heißen Getränk in der gemütlichen Innenstadt ausklingen.",
             "hu": "Az esős reggel a Stortorgeten indul, ahol a Fredrik-templom nyújt száraz menedéket. Délben a Stumholmen található tengerészeti múzeumba húzódunk be, amely tökéletes program rossz időben. Délután Brändaholm vörös házai az esőben is vibráló színekkel festik meg a tájat. Az estét egy forró ital mellett, a belváros egyik hangulatos kávézójában zárjuk.",
             "ro": "O dimineață ploioasă începe în Stortorget, unde Biserica lui Fredrik oferă un adăpost uscat. La prânz ne refugiem în impresionantul Muzeu Naval de pe Stumholmen, ideal pentru vreme rea. După-amiaza, casele roșii din Brändaholm strălucesc intens în ciuda cerului cenușiu. Încheiem seara cu o băutură caldă într-o cafenea primitoare din centrul orașului.",
-            "en": "A rainy morning starts at Stortorget, where Fredrik's Church offers dry sanctuary. At noon, we retreat into the impressive Naval Museum on Stumholmen, perfect for inclement weather. In the afternoon, the red houses of Brändaholm glow with intense color despite the grey skies. We wrap up the evening with a hot drink in a cozy downtown cafe."
+            "en": "A rainy morning starts at Stortorget, where Fredrik's Church offers dry sanctuary. At noon, we retreat into the impressive Naval Museum on Stumholmen, perfect for inclement weather. In the afternoon, the red houses of Brändaholm glow with intense color despite the grey skies. We wrap up the evening with a hot drink in a cozy downtown cafe.",
+            "sv": "En regnig morgon börjar vid Stortorget, där Fredriks kyrka erbjuder torrt skydd. Mitt på dagen söker vi oss in i det imponerande Marinmuseum på Stumholmen, perfekt vid oväder. På eftermiddagen lyser Brändaholms röda hus i intensiv färg trots grå himmel. Vi avslutar kvällen med en varm dryck på ett mysigt café i centrum."
           },
           "stops": [
             {
@@ -388,7 +408,8 @@
                 "de": "Bewundern Sie die barocke Decke, während es draußen regnet.",
                 "hu": "Csodáld meg a barokk mennyezetet, amíg kint esik az eső.",
                 "ro": "Admirați tavanul baroc în timp ce afară plouă.",
-                "en": "Admire the baroque ceiling while it rains outside."
+                "en": "Admire the baroque ceiling while it rains outside.",
+                "sv": "Beundra den barocka takmålningen medan det regnar utanför."
               }
             },
             {
@@ -397,7 +418,8 @@
                 "de": "Rosenbom draußen ist nass; werfen Sie schnell eine Münze ein.",
                 "hu": "Rosenbom kint ázik; dobj be gyorsan egy érmét a kalapjába.",
                 "ro": "Rosenbom de afară e ud; aruncați rapid o monedă.",
-                "en": "Rosenbom outside is wet; drop a coin in quickly."
+                "en": "Rosenbom outside is wet; drop a coin in quickly.",
+                "sv": "Rosenbom utanför är blöt; släpp i ett mynt snabbt."
               }
             },
             {
@@ -406,7 +428,8 @@
                 "de": "Die U-Boot-Halle ist der beste Ort, um trocken zu bleiben.",
                 "hu": "A tengeralattjáró-csarnok a legjobb hely a szárazon maradáshoz.",
                 "ro": "Hala submarinelor este cel mai bun loc pentru a rămâne uscat.",
-                "en": "The submarine hall is the best place to stay dry."
+                "en": "The submarine hall is the best place to stay dry.",
+                "sv": "Ubåtshallen är den bästa platsen för att hålla sig torr."
               }
             },
             {
@@ -415,7 +438,8 @@
                 "de": "Wählen Sie einen Tisch am Fenster, um den Regen auf dem Meer zu beobachten.",
                 "hu": "Válassz ablak melletti asztalt, és nézd a tengert az esőben.",
                 "ro": "Alegeți o masă la fereastră pentru a vedea ploaia pe mare.",
-                "en": "Choose a window table to watch the rain on the sea."
+                "en": "Choose a window table to watch the rain on the sea.",
+                "sv": "Välj ett fönsterbord för att se regnet över havet."
               }
             },
             {
@@ -424,7 +448,8 @@
                 "de": "Die nassen roten Fassaden ergeben tolle Kontrastfotos.",
                 "hu": "A vizes vörös homlokzatok remek kontrasztos fotókat adnak.",
                 "ro": "Fațadele roșii umede oferă fotografii cu contrast excelent.",
-                "en": "The wet red facades make for great high-contrast photos."
+                "en": "The wet red facades make for great high-contrast photos.",
+                "sv": "De våta röda fasaderna ger högkontrastbilder."
               }
             },
             {
@@ -433,7 +458,8 @@
                 "de": "Vorsicht, der Boden kann bei Nässe rutschig sein.",
                 "hu": "Vigyázat, a burkolat nedvesen csúszós lehet.",
                 "ro": "Atenție, pavajul poate fi alunecos pe timp de ploaie.",
-                "en": "Careful, the pavement can be slippery when wet."
+                "en": "Careful, the pavement can be slippery when wet.",
+                "sv": "Akta dig, underlaget kan vara halt när det är blött."
               }
             }
           ],
@@ -461,6 +487,12 @@
               "Use the arcades at Stortorget as natural rain cover.",
               "The Naval Museum offers free lockers for wet jackets.",
               "Waterproof shoes are a must on the cobblestones of Trossö."
+            ],
+            "sv": [
+              "Karlskrona är blåsigt; ett stadigt paraply är bättre än ett billigt.",
+              "Använd valven vid Stortorget som naturligt regnskydd.",
+              "Marinmuseum erbjuder gratis förvaringsskåp för blöta jackor.",
+              "Vattentäta skor är ett måste på Trossös kullerstenar."
             ]
           }
         },
@@ -469,7 +501,8 @@
             "de": "Ein frostiger Wintermorgen am Stortorget beginnt mit dem Anblick der vereisten Fredrik-Kirche. Mittags bietet das Marinemuseum wohlige Wärme und faszinierende Einblicke in die Seekriegsgeschichte. Am frühen Nachmittag besuchen wir Brändaholm, dessen rote Häuser im Schnee wie eine Postkarte wirken. Da es gegen 15:30 Uhr dunkel wird, genießen wir den Abend in einem hell beleuchteten Restaurant.",
             "hu": "A fagyos téli reggel a Stortorgeten indul, a Fredrik-templom jeges tornyaival. Délben a Tengerészeti Múzeum nyújt melengető menedéket és izgalmas betekintést a haditengerészet történetébe. Kora délután Brändaholmot keressük fel, ahol a havas vörös házak mesebeli látványt nyújtanak. Mivel 15:30 körül sötétedik, az estét egy kivilágított étteremben töltjük.",
             "ro": "O dimineață geroasă de iarnă în Stortorget începe cu turnurile înghețate ale Bisericii lui Fredrik. La prânz, Muzeul Naval oferă căldură și o incursiune fascinantă în istoria navală. După-amiaza devreme vizităm Brändaholm, unde casele roșii înzăpezite par desprinse dintr-o felicitare. Deoarece se întunecă în jur de 15:30, petrecem seara într-un restaurant luminat.",
-            "en": "A frosty winter morning at Stortorget begins with the sight of Fredrik's Church's icy steeples. At noon, the Naval Museum provides welcoming warmth and fascinating naval history. In the early afternoon, we visit Brändaholm, where the snowy red houses look like a postcard. Since it gets dark around 3:30 PM, we enjoy the evening in a brightly lit restaurant."
+            "en": "A frosty winter morning at Stortorget begins with the sight of Fredrik's Church's icy steeples. At noon, the Naval Museum provides welcoming warmth and fascinating naval history. In the early afternoon, we visit Brändaholm, where the snowy red houses look like a postcard. Since it gets dark around 3:30 PM, we enjoy the evening in a brightly lit restaurant.",
+            "sv": "En frostig vintermorgon på Stortorget börjar med synen av Fredrikskyrkans iskalla torn. Vid lunchtid ger Marinmuseum välkommen värme och fascinerande sjöfartshistoria. Tidig eftermiddag besöker vi Brändaholm, där de snöklädda röda husen ser ut som ett vykort. Eftersom det blir mörkt runt 15:30 njuter vi av kvällen på en väl upplyst restaurang."
           },
           "stops": [
             {
@@ -478,7 +511,8 @@
                 "de": "Genießen Sie die Stille der beheizten Kirche.",
                 "hu": "Élvezd a fűtött templom csendjét.",
                 "ro": "Bucurați-vă de liniștea bisericii încălzite.",
-                "en": "Enjoy the silence of the heated church."
+                "en": "Enjoy the silence of the heated church.",
+                "sv": "Njut av tystnaden i den uppvärmda kyrkan."
               }
             },
             {
@@ -487,7 +521,8 @@
                 "de": "Rosenbom trägt im Winter oft eine Mütze aus Schnee.",
                 "hu": "Rosenbom télen gyakran kap egy hósapkát a fejére.",
                 "ro": "Rosenbom poartă adesea o căciulă de zăpadă iarna.",
-                "en": "Rosenbom often wears a cap of snow in winter."
+                "en": "Rosenbom often wears a cap of snow in winter.",
+                "sv": "Rosenbom har ofta en mössa av snö på vintern."
               }
             },
             {
@@ -496,7 +531,8 @@
                 "de": "Perfekt, um sich zwischen den Exponaten aufzuwärmen.",
                 "hu": "Tökéletes hely a felmelegedésre a kiállítási tárgyak között.",
                 "ro": "Locul perfect pentru a vă încălzi printre exponate.",
-                "en": "Perfect place to warm up among the exhibits."
+                "en": "Perfect place to warm up among the exhibits.",
+                "sv": "Perfekt plats att värma sig bland utställningarna."
               }
             },
             {
@@ -505,7 +541,8 @@
                 "de": "Probieren Sie eine heiße schwedische Erbsensuppe.",
                 "hu": "Kóstolj meg egy forró svéd borsólevest.",
                 "ro": "Încercați o supă de mazăre suedeză fierbinte.",
-                "en": "Try a hot Swedish pea soup."
+                "en": "Try a hot Swedish pea soup.",
+                "sv": "Prova en het svensk ärtsoppa."
               }
             },
             {
@@ -514,7 +551,8 @@
                 "de": "Die roten Hütten im weißen Schnee sind das ultimative Fotomotiv.",
                 "hu": "A fehér hóban álló vörös kunyhók a végső fotótéma.",
                 "ro": "Cabanele roșii în zăpada albă sunt motivul foto suprem.",
-                "en": "Red cottages in white snow are the ultimate photo motive."
+                "en": "Red cottages in white snow are the ultimate photo motive.",
+                "sv": "Röda stugor i vit snö är det ultimata fotomotivet."
               }
             },
             {
@@ -523,7 +561,8 @@
                 "de": "Achten Sie auf Glatteis auf den Gehwegen.",
                 "hu": "Ügyelj a járdákon előforduló jegesedésre.",
                 "ro": "Atenție la poleiul de pe trotuare.",
-                "en": "Watch out for black ice on the sidewalks."
+                "en": "Watch out for black ice on the sidewalks.",
+                "sv": "Se upp för svartis på trottoarerna."
               }
             }
           ],
@@ -551,6 +590,12 @@
               "The sun sets before 4 PM in December.",
               "Many cafes offer 'Glögg' (mulled wine) in winter.",
               "Boots with good grip are essential for the slippery alleys."
+            ],
+            "sv": [
+              "Bär termounderställ; vinden från havet är bitande.",
+              "Solen går ner före kl. 16 i december.",
+              "Många kaféer serverar 'Glögg' (värmt kryddat vin) på vintern.",
+              "Stövlar med bra grepp är oumbärliga i de hala gränderna."
             ]
           }
         }
@@ -569,7 +614,8 @@
             "de": "Stortorget & Fredrikskirche",
             "hu": "Stortorget & Fredrik-templom",
             "ro": "Stortorget & Biserica Fredrik",
-            "en": "Stortorget & Fredrik's Church"
+            "en": "Stortorget & Fredrik's Church",
+            "sv": "Stortorget & Fredrikskyrkan"
           },
           "coords": [
             15.587,
@@ -584,7 +630,8 @@
             "de": "Beginnen Sie Ihren Tag auf einem der größten Plätze Schwedens.",
             "hu": "Kezdje a napot Svédország egyik legnagyobb terén.",
             "ro": "Începeți ziua într-una dintre cele mai mari piețe din Suedia.",
-            "en": "Start your day in one of Sweden's largest squares."
+            "en": "Start your day in one of Sweden's largest squares.",
+            "sv": "Börja din dag på ett av Sveriges största torg."
           }
         },
         {
@@ -592,7 +639,8 @@
             "de": "Admiralitätskirche & Rosenbom",
             "hu": "Admiralitás-templom & Rosenbom",
             "ro": "Biserica Amiralității & Rosenbom",
-            "en": "Admiralty Church & Rosenbom"
+            "en": "Admiralty Church & Rosenbom",
+            "sv": "Amiralitetskyrkan & Rosenbom"
           },
           "coords": [
             15.595,
@@ -607,7 +655,8 @@
             "de": "Eine kurze Radtour bringt Sie zu Schwedens größter Holzkirche.",
             "hu": "Egy rövid biciklitúra Svédország legnagyobb fatemplomához.",
             "ro": "O scurtă plimbare cu bicicleta până la cea mai mare biserică de lemn din Suedia.",
-            "en": "A short bike ride to Sweden's largest wooden church."
+            "en": "A short bike ride to Sweden's largest wooden church.",
+            "sv": "En kort cykeltur till Sveriges största träkyrka."
           }
         },
         {
@@ -615,7 +664,8 @@
             "de": "Marinemuseum auf Stumholmen",
             "hu": "Tengerészeti Múzeum Stumholmenen",
             "ro": "Muzeul Marinei din Stumholmen",
-            "en": "Naval Museum on Stumholmen"
+            "en": "Naval Museum on Stumholmen",
+            "sv": "Marinmuseum på Stumholmen"
           },
           "coords": [
             15.596,
@@ -630,7 +680,8 @@
             "de": "Stellen Sie Ihr Fahrrad ab und erkunden Sie die faszinierende maritime Welt.",
             "hu": "Tegye le a biciklit, és fedezze fel a lenyűgöző tengeri világot.",
             "ro": "Parcați bicicleta și explorați fascinanta lume maritimă.",
-            "en": "Park your bike and explore the fascinating maritime world."
+            "en": "Park your bike and explore the fascinating maritime world.",
+            "sv": "Parkera cykeln och utforska den fascinerande maritima världen."
           }
         },
         {
@@ -638,7 +689,8 @@
             "de": "Mittagessen in der Stadt",
             "hu": "Ebéd a városban",
             "ro": "Prânz în oraș",
-            "en": "Lunch in the city"
+            "en": "Lunch in the city",
+            "sv": "Lunch i stan"
           },
           "coords": [
             15.585,
@@ -653,7 +705,8 @@
             "de": "Fahren Sie zurück ins Zentrum für eine größere Auswahl an Restaurants.",
             "hu": "Tekerjen vissza a központba a szélesebb éttermi választékért.",
             "ro": "Întoarceți-vă cu bicicleta în centru pentru o selecție mai largă de restaurante.",
-            "en": "Cycle back to the center for a wider selection of restaurants."
+            "en": "Cycle back to the center for a wider selection of restaurants.",
+            "sv": "Cykla tillbaka till centrum för ett större urval av restauranger."
           }
         },
         {
@@ -661,7 +714,8 @@
             "de": "Brändaholm",
             "hu": "Brändaholm",
             "ro": "Brändaholm",
-            "en": "Brändaholm"
+            "en": "Brändaholm",
+            "sv": "Brändaholm"
           },
           "coords": [
             15.575,
@@ -676,7 +730,8 @@
             "de": "Eine angenehme Radtour führt Sie zu dieser malerischen Schrebergartensiedlung.",
             "hu": "Egy kellemes biciklitúra vezet ehhez a festői kiskertekkel teli településhez.",
             "ro": "O plimbare plăcută cu bicicleta vă duce la această așezare pitorească de grădini.",
-            "en": "A pleasant bike ride takes you to this picturesque allotment settlement."
+            "en": "A pleasant bike ride takes you to this picturesque allotment settlement.",
+            "sv": "En trevlig cykeltur tar dig till detta pittoreska koloniområdesamhälle."
           }
         },
         {
@@ -684,7 +739,8 @@
             "de": "Fahrt entlang der Küste",
             "hu": "Tekerés a part mentén",
             "ro": "Plimbare cu bicicleta de-a lungul coastei",
-            "en": "Ride along the coast"
+            "en": "Ride along the coast",
+            "sv": "Cykla längs kusten"
           },
           "coords": [
             15.56,
@@ -699,7 +755,8 @@
             "de": "Folgen Sie dem Küstenradweg für atemberaubende Ausblicke auf die Ostsee.",
             "hu": "Kövesse a parti kerékpárutat a Balti-tengerre nyíló lélegzetelállító kilátásért.",
             "ro": "Urmați pista de biciclete de coastă pentru vederi uimitoare ale Mării Baltice.",
-            "en": "Follow the coastal cycle path for stunning views of the Baltic Sea."
+            "en": "Follow the coastal cycle path for stunning views of the Baltic Sea.",
+            "sv": "Följ kustcykelvägen för storslagen utsikt över Östersjön."
           }
         },
         {
@@ -707,7 +764,8 @@
             "de": "Kaffeepause (Fika)",
             "hu": "Kávészünet (Fika)",
             "ro": "Pauză de cafea (Fika)",
-            "en": "Coffee Break (Fika)"
+            "en": "Coffee Break (Fika)",
+            "sv": "Fikapaus"
           },
           "coords": [
             15.586,
@@ -722,7 +780,8 @@
             "de": "Beenden Sie Ihre Radtour mit einer traditionellen schwedischen Fika.",
             "hu": "Zárja a biciklitúrát egy hagyományos svéd fikával.",
             "ro": "Încheiați turul cu bicicleta cu o Fika tradițională suedeză.",
-            "en": "End your bike tour with a traditional Swedish fika."
+            "en": "End your bike tour with a traditional Swedish fika.",
+            "sv": "Avsluta din cykeltur med en traditionell svensk fika."
           }
         }
       ],
@@ -730,7 +789,8 @@
         "de": "Schwingen Sie sich auf den Sattel für eine Erkundungstour durch Karlskrona. Der Morgen beginnt auf dem großzügigen Stortorget, bevor Sie zu den historischen Kirchen der Stadt radeln. Ein kurzer Abstecher führt Sie über die Brücke zur Museumsinsel Stumholmen, dem maritimen Herzen der Stadt.\nNachdem Sie im Marinemuseum in die Geschichte eingetaucht sind, ist es Zeit für das Mittagessen. Sie radeln zurück ins Zentrum, wo eine Vielzahl von Cafés und Restaurants auf Sie wartet. Gestärkt machen Sie sich auf den Weg zu einem der fotogensten Orte Schwedens.\nDer Nachmittag gehört den malerischen Ausblicken. Eine entspannte Radtour führt Sie zur idyllischen Holzhhaussiedlung Brändaholm. Danach folgen Sie dem Küstenpfad und lassen sich die frische Meeresluft um die Nase wehen, während Sie die Weite der Ostsee bewundern.\nIhre Tour endet, wie es sich in Schweden gehört, mit einer Fika. Sie kehren ins Zentrum zurück und genießen eine wohlverdiente Pause mit Kaffee und Gebäck, während Sie die Erlebnisse des Tages Revue passieren lassen.",
         "hu": "Pattanjon nyeregbe, és fedezze fel Karlskronát! A reggel a tágas Stortorgeten kezdődik, mielőtt a város történelmi templomaihoz tekerne. Egy rövid kitérővel átjut a hídon a múzeumszigetre, Stumholmenre, a város tengerészeti szívébe.\nMiután elmerült a történelemben a Tengerészeti Múzeumban, ideje ebédelni. Visszateker a központba, ahol kávézók és éttermek széles választéka várja. Feltöltődve indul Svédország egyik legfotogénebb helyére.\nA délután a festői kilátásoké. Egy laza kerékpártúra elvezeti az idilli faházas településre, Brändaholmba. Ezután kövesse a tengerparti ösvényt, és hagyja, hogy a friss tengeri levegő átjárja, miközben a Balti-tenger végtelenségében gyönyörködik.\nA túra, ahogy Svédországban illik, egy fikával zárul. Visszatér a központba, és egy jól megérdemelt kávé- és süteményszünetet tart, miközben felidézi a nap élményeit.",
         "ro": "Urcați-vă pe bicicletă pentru un tur de explorare a Karlskronei. Dimineața începe în spațiosul Stortorget înainte de a pedala spre bisericile istorice ale orașului. O scurtă deviere vă duce peste pod spre insula muzeelor, Stumholmen, inima maritimă a orașului.\nDupă ce v-ați cufundat în istorie la Muzeul Marinei, este timpul pentru prânz. Pedalați înapoi în centru, unde vă așteaptă o varietate de cafenele și restaurante. Revigorat, porniți spre unul dintre cele mai fotogenice locuri din Suedia.\nDupă-amiaza este dedicată priveliștilor pitorești. O plimbare relaxantă cu bicicleta vă duce la așezarea idilică de case din lemn, Brändaholm. Apoi, urmați poteca de coastă și lăsați aerul proaspăt al mării să vă mângâie fața în timp ce admirați întinderea Mării Baltice.\nTurul se încheie, așa cum se cuvine în Suedia, cu o Fika. Vă întoarceți în centru și vă bucurați de o pauză binemeritată cu cafea și produse de patiserie, rememorând experiențele zilei.",
-        "en": "Hop on your bike for an exploratory tour of Karlskrona. The morning begins in the spacious Stortorget before you cycle to the city's historic churches. A short detour takes you across the bridge to the museum island of Stumholmen, the maritime heart of the city.\nAfter immersing yourself in history at the Naval Museum, it's time for lunch. Cycle back to the center, where a variety of cafes and restaurants await. Re-energized, you'll head to one of Sweden's most photogenic spots.\nThe afternoon is for picturesque views. A relaxed bike ride takes you to the idyllic wooden house settlement of Brändaholm. Afterwards, follow the coastal path and let the fresh sea air blow through your hair as you admire the vastness of the Baltic Sea.\nYour tour ends, as is proper in Sweden, with a Fika. Return to the center and enjoy a well-deserved break with coffee and pastries while reflecting on the day's experiences."
+        "en": "Hop on your bike for an exploratory tour of Karlskrona. The morning begins in the spacious Stortorget before you cycle to the city's historic churches. A short detour takes you across the bridge to the museum island of Stumholmen, the maritime heart of the city.\nAfter immersing yourself in history at the Naval Museum, it's time for lunch. Cycle back to the center, where a variety of cafes and restaurants await. Re-energized, you'll head to one of Sweden's most photogenic spots.\nThe afternoon is for picturesque views. A relaxed bike ride takes you to the idyllic wooden house settlement of Brändaholm. Afterwards, follow the coastal path and let the fresh sea air blow through your hair as you admire the vastness of the Baltic Sea.\nYour tour ends, as is proper in Sweden, with a Fika. Return to the center and enjoy a well-deserved break with coffee and pastries while reflecting on the day's experiences.",
+        "sv": "Hoppa upp på cykeln för en upptäcktsfärd i Karlskrona. Morgonen börjar på rymliga Stortorget innan du cyklar till stadens historiska kyrkor. En kort avstickare tar dig över bron till museiön Stumholmen, stadens marina hjärta.\nEfter att ha fördjupat dig i historia på Marinmuseum är det dags för lunch. Cykla tillbaka till centrum där ett urval kaféer och restauranger väntar. Fylld av ny energi tar du dig vidare till en av Sveriges mest fotogeniska platser.\nEftermiddagen bjuder på idylliska vyer. En lugn cykeltur tar dig till det idylliska trästugeområdet Brändaholm. Därefter följer du kuststigen och låter den friska havsluften blåsa i håret medan du beundrar Östersjöns vidder.\nDin tur avslutas, som sig bör i Sverige, med en fika. Återvänd till centrum och njut av en välförtjänt paus med kaffe och bakverk medan du reflekterar över dagens upplevelser."
       },
       "gastro_picks": {
         "de": [
@@ -926,6 +986,12 @@
           "Bike rentals can be found near the main train station and at several locations in the city.",
           "Pay attention to the dedicated cycle paths (cykelbana) and traffic rules.",
           "A helmet is recommended but not legally required for adults."
+        ],
+        "sv": [
+          "Karlskrona är relativt platt, vilket gör cykling behaglig, men vissa broar har svaga lutningar.",
+          "Cykeluthyrning finns nära centralstationen och på flera platser i staden.",
+          "Var uppmärksam på särskilda cykelbanor (cykelbana) och trafikregler.",
+          "Hjälm rekommenderas men är inte lagkrav för vuxna."
         ]
       },
       "variants": {
@@ -934,7 +1000,8 @@
             "de": "Trotz Regen starten wir unsere Radtour am Stortorget. Mit wetterfester Kleidung radeln wir zur Admiralitätskirche und weiter nach Stumholmen, wo das Marinemuseum eine trockene Pause ermöglicht. Mittags stärken wir uns in der Stadt, bevor wir gegen den Wind nach Brändaholm fahren. Der Tag endet mit einer wohlverdienten Fika im Trockenen.",
             "hu": "Az eső ellenére a Stortorgeten kezdjük a kerékpáros túrát. Vízhatlan ruhában tekerünk az Admiralitás-templomhoz, majd a Stumholmenre, ahol a múzeum száraz pihenőt kínál. Ebéd után a széllel dacolva tekerünk Brändaholm felé. A napot egy jól megérdemelt, fedett helyen elfogyasztott 'fika'-val zárjuk.",
             "ro": "În ciuda ploii, începem turul cu bicicleta din Stortorget. Echipat cu haine impermeabile, pedalăm spre Biserica Amiralității și mai departe spre Stumholmen, unde muzeul oferă o pauză uscată. După prânz, pedalăm contra vântului spre Brändaholm. Ziua se încheie cu o 'fika' binemeritată la adăpost.",
-            "en": "Despite the rain, we start our bike tour at Stortorget. Clad in waterproof gear, we cycle to the Admiralty Church and on to Stumholmen, where the museum offers a dry break. After lunch, we brave the wind towards Brändaholm. The day ends with a well-deserved 'fika' in a dry spot."
+            "en": "Despite the rain, we start our bike tour at Stortorget. Clad in waterproof gear, we cycle to the Admiralty Church and on to Stumholmen, where the museum offers a dry break. After lunch, we brave the wind towards Brändaholm. The day ends with a well-deserved 'fika' in a dry spot.",
+            "sv": "Trots regnet börjar vi vår cykeltur vid Stortorget. I vattentät utrustning cyklar vi till Amiralitetskyrkan och vidare till Stumholmen, där museet erbjuder en torr paus. Efter lunchen trotsar vi vinden mot Brändaholm. Dagen avslutas med en välförtjänt fika på en torr plats."
           },
           "stops": [
             {
@@ -943,7 +1010,8 @@
                 "de": "Kopfsteinpflaster ist bei Regen sehr rutschig.",
                 "hu": "A macskakő esőben nagyon csúszós.",
                 "ro": "Piatra cubică este foarte alunecoasă pe ploaie.",
-                "en": "Cobblestones are very slippery in the rain."
+                "en": "Cobblestones are very slippery in the rain.",
+                "sv": "Kullersten är mycket hala i regnet."
               }
             },
             {
@@ -952,7 +1020,8 @@
                 "de": "Kurzer Stopp unter dem Vordach der Kirche.",
                 "hu": "Rövid megálló a templom előtetője alatt.",
                 "ro": "Scurt popas sub streașina bisericii.",
-                "en": "Short stop under the church overhang."
+                "en": "Short stop under the church overhang.",
+                "sv": "Kort stopp under kyrkans takutsprång."
               }
             },
             {
@@ -961,7 +1030,8 @@
                 "de": "Fahrradständer direkt vor dem Eingang nutzen.",
                 "hu": "Használd a bejárat előtti kerékpártárolót.",
                 "ro": "Folosiți rastelele de biciclete direct la intrare.",
-                "en": "Use the bike racks right outside the entrance."
+                "en": "Use the bike racks right outside the entrance.",
+                "sv": "Använd cykelställena precis utanför entrén."
               }
             },
             {
@@ -970,7 +1040,8 @@
                 "de": "Suchen Sie ein Lokal mit Abstellmöglichkeit im Sichtfeld.",
                 "hu": "Keress olyan helyet, ahol rálátsz a bringádra.",
                 "ro": "Căutați un loc cu parcare pentru biciclete la vedere.",
-                "en": "Look for a place where you can see your bike from inside."
+                "en": "Look for a place where you can see your bike from inside.",
+                "sv": "Sök efter en plats där du kan se din cykel inifrån."
               }
             },
             {
@@ -979,7 +1050,8 @@
                 "de": "Vorsicht bei Böen auf dem Weg zur Insel.",
                 "hu": "Vigyázz a széllökésekre a sziget felé vezető úton.",
                 "ro": "Atenție la rafalele de vânt pe drumul spre insulă.",
-                "en": "Watch out for gusts on the way to the island."
+                "en": "Watch out for gusts on the way to the island.",
+                "sv": "Se upp för byiga vindar på vägen till ön."
               }
             },
             {
@@ -988,7 +1060,8 @@
                 "de": "Spritzschutz ist bei nassen Straßen Gold wert.",
                 "hu": "A sárvédő aranyat ér a vizes utakon.",
                 "ro": "Apărătorile de noroi fac toți banii pe drumuri ude.",
-                "en": "Mudguards are worth their weight in gold on wet roads."
+                "en": "Mudguards are worth their weight in gold on wet roads.",
+                "sv": "Skärmar är värda sin vikt i guld på blöta vägar."
               }
             },
             {
@@ -997,7 +1070,8 @@
                 "de": "Wärmen Sie Ihre Hände an einer Tasse Kaffee.",
                 "hu": "Melegítsd fel a kezed egy csésze kávéval.",
                 "ro": "Încălziți-vă mâinile cu o ceașcă de cafea.",
-                "en": "Warm your hands with a cup of coffee."
+                "en": "Warm your hands with a cup of coffee.",
+                "sv": "Värma händerna med en kopp kaffe."
               }
             }
           ],
@@ -1025,6 +1099,12 @@
               "Avoid riding over wet road markings.",
               "A rain poncho also protects your thighs while pedaling.",
               "Wind direction can change quickly on the coast."
+            ],
+            "sv": [
+              "Kontrollera bromsarna; stoppsträckan är längre i blött väglag.",
+              "Undvik att köra över våta vägmarkeringar.",
+              "Ett regnskydd skyddar också låren vid trampning.",
+              "Vindriktningen kan ändras snabbt vid kusten."
             ]
           }
         },
@@ -1033,7 +1113,8 @@
             "de": "In der Winterkälte radeln wir vorsichtig vom Stortorget los. Die Admiralitätskirche wirkt im Frost beinahe magisch. Das Marinemuseum ist ein willkommener Ort zum Aufwärmen, bevor wir uns auf den Weg nach Brändaholm machen. Die verschneiten Wege erfordern Konzentration, aber die Aussicht auf die Küste belohnt uns. Der Tag endet gemütlich bei einer heißen Fika.",
             "hu": "A téli hidegben óvatosan indulunk el a Stortorgetről. Az Admiralitás-templom szinte varázslatos a fagyban. A Tengerészeti Múzeum szívesen látott hely a felmelegedéshez, mielőtt Brändaholm felé vesszük az irányt. A havas utak koncentrációt igényelnek, de a parti kilátás kárpótol. A napot egy forró 'fika' mellett zárjuk.",
             "ro": "În frigul iernii, plecăm cu grijă din Stortorget. Biserica Amiralității pare aproape magică sub promoroacă. Muzeul Naval este un loc binevenit pentru încălzire înainte de a pleca spre Brändaholm. Drumurile înzăpezite necesită concentrare, dar priveliștea coastei merită efortul. Ziua se încheie confortabil cu o 'fika' fierbinte.",
-            "en": "In the winter cold, we cycle carefully from Stortorget. The Admiralty Church looks almost magical in the frost. The Naval Museum is a welcome place to warm up before heading to Brändaholm. The snowy paths require concentration, but the coastal view is rewarding. The day ends cozily with a hot 'fika'."
+            "en": "In the winter cold, we cycle carefully from Stortorget. The Admiralty Church looks almost magical in the frost. The Naval Museum is a welcome place to warm up before heading to Brändaholm. The snowy paths require concentration, but the coastal view is rewarding. The day ends cozily with a hot 'fika'.",
+            "sv": "I vinterkylan cyklar vi försiktigt från Stortorget. Amiralitetskyrkan ser nästan magisk ut i frosten. Marinmuseum är en välkommen plats att värma sig innan vi styr mot Brändaholm. De snötäckta stigarna kräver koncentration, men kustutsikten är belönande. Dagen avslutas mysigt med en varm fika."
           },
           "stops": [
             {
@@ -1042,7 +1123,8 @@
                 "de": "Achten Sie auf verstecktes Eis unter dünnem Schnee.",
                 "hu": "Vigyázz a vékony hó alatti rejtett jégre.",
                 "ro": "Atenție la gheața ascunsă sub zăpada subțire.",
-                "en": "Watch out for hidden ice under thin snow."
+                "en": "Watch out for hidden ice under thin snow.",
+                "sv": "Se upp för dold is under tunn snö."
               }
             },
             {
@@ -1051,7 +1133,8 @@
                 "de": "Kurzer Halt; bleiben Sie in Bewegung, um warm zu bleiben.",
                 "hu": "Rövid megálló; maradj mozgásban, hogy ne fázz meg.",
                 "ro": "Oprire scurtă; rămâneți în mișcare pentru a nu îngheța.",
-                "en": "Short stop; keep moving to stay warm."
+                "en": "Short stop; keep moving to stay warm.",
+                "sv": "Kort stopp; håll dig i rörelse för att hålla värmen."
               }
             },
             {
@@ -1060,7 +1143,8 @@
                 "de": "Parken Sie windgeschützt hinter dem Gebäude.",
                 "hu": "Parkolj szélvédett helyen az épület mögött.",
                 "ro": "Parcați într-un loc ferit de vânt în spatele clădirii.",
-                "en": "Park in a wind-sheltered spot behind the building."
+                "en": "Park in a wind-sheltered spot behind the building.",
+                "sv": "Parkera i ett lä åt vinden bakom byggnaden."
               }
             },
             {
@@ -1069,7 +1153,8 @@
                 "de": "Wählen Sie kalorienreiches Essen für mehr Energie.",
                 "hu": "Válassz kalóriadús ételt az energiához.",
                 "ro": "Alegeți mâncare calorică pentru mai multă energie.",
-                "en": "Choose calorie-rich food for more energy."
+                "en": "Choose calorie-rich food for more energy.",
+                "sv": "Välj kaloririk mat för mer energi."
               }
             },
             {
@@ -1078,7 +1163,8 @@
                 "de": "Fahren Sie vorsichtig auf den schmalen Pfaden.",
                 "hu": "Tekerj óvatosan a szűk ösvényeken.",
                 "ro": "Pedalați cu atenție pe potecile înguste.",
-                "en": "Ride carefully on the narrow paths."
+                "en": "Ride carefully on the narrow paths.",
+                "sv": "Cykla försiktigt på de smala stigarna."
               }
             },
             {
@@ -1087,7 +1173,8 @@
                 "de": "Der eisige Meereswind erfordert gute Handschuhe.",
                 "hu": "A jeges tengeri szél jó kesztyűt igényel.",
                 "ro": "Vântul înghețat de pe mare necesită mănuși bune.",
-                "en": "The icy sea wind requires good gloves."
+                "en": "The icy sea wind requires good gloves.",
+                "sv": "Den isiga havsvinden kräver bra handskar."
               }
             },
             {
@@ -1096,7 +1183,8 @@
                 "de": "Heißer Kakao ist die beste Belohnung nach der Tour.",
                 "hu": "A forró kakaó a legjobb jutalom a túra után.",
                 "ro": "Cacaoa fierbinte e cea mai bună recompensă după tur.",
-                "en": "Hot cocoa is the best reward after the tour."
+                "en": "Hot cocoa is the best reward after the tour.",
+                "sv": "Varm choklad är bästa belöningen efter turen."
               }
             }
           ],
@@ -1124,6 +1212,12 @@
               "Lube the chain more often due to road salt.",
               "Lights are vital starting from 3 PM.",
               "Avoid abrupt braking on slippery ground."
+            ],
+            "sv": [
+              "Använd dubbdäck på vintern om det finns.",
+              "Smörj kedjan oftare på grund av vägsalt.",
+              "Lampor är nödvändiga från kl. 15.",
+              "Undvik tvärbromsning på hal mark."
             ]
           }
         }
@@ -1142,7 +1236,8 @@
             "de": "Ankunft und Parken auf Trossö",
             "hu": "Érkezés és parkolás Trossö szigetén",
             "ro": "Sosire și parcare pe Trossö",
-            "en": "Arrival and Parking on Trossö"
+            "en": "Arrival and Parking on Trossö",
+            "sv": "Ankomst och parkering på Trossö"
           },
           "coords": [
             15.588,
@@ -1158,7 +1253,8 @@
             "de": "Parken Sie Ihr Auto in einem der zentralen Parkhäuser, z.B. am Stortorget.",
             "hu": "Parkolja le autóját az egyik központi parkolóházban, pl. a Stortorgetnél.",
             "ro": "Parcați mașina într-una dintre parcările centrale, de ex. la Stortorget.",
-            "en": "Park your car in one of the central parking garages, e.g., at Stortorget."
+            "en": "Park your car in one of the central parking garages, e.g., at Stortorget.",
+            "sv": "Parkera bilen i något av de centrala parkeringshusen, t.ex. vid Stortorget."
           }
         },
         {
@@ -1166,7 +1262,8 @@
             "de": "Fredrikskirche und Stortorget",
             "hu": "Fredrik-templom és Stortorget",
             "ro": "Biserica Fredrik și Stortorget",
-            "en": "Fredrik's Church and Stortorget"
+            "en": "Fredrik's Church and Stortorget",
+            "sv": "Fredrikskyrkan och Stortorget"
           },
           "coords": [
             15.587,
@@ -1182,7 +1279,8 @@
             "de": "Beginnen Sie die Erkundung des UNESCO-Weltkulturerbes zu Fuß.",
             "hu": "Kezdje az UNESCO Világörökség gyalogos felfedezését.",
             "ro": "Începeți explorarea pe jos a sitului din Patrimoniul Mondial UNESCO.",
-            "en": "Begin your exploration of the UNESCO World Heritage site on foot."
+            "en": "Begin your exploration of the UNESCO World Heritage site on foot.",
+            "sv": "Börja din utforskning av världsarvet till fots."
           }
         },
         {
@@ -1190,7 +1288,8 @@
             "de": "Fahrt und Erkundung von Stumholmen",
             "hu": "Autózás és Stumholmen felfedezése",
             "ro": "Condus și explorare Stumholmen",
-            "en": "Drive and Exploration of Stumholmen"
+            "en": "Drive and Exploration of Stumholmen",
+            "sv": "Bilresa och utforskning av Stumholmen"
           },
           "coords": [
             15.596,
@@ -1206,7 +1305,8 @@
             "de": "Fahren Sie zur Museumsinsel, parken Sie und besuchen Sie das Marinemuseum und die Admiralitätskirche.",
             "hu": "Vezessen át a múzeumszigetre, parkoljon le, és látogassa meg a Tengerészeti Múzeumot és az Admiralitás-templomot.",
             "ro": "Conduceți spre insula muzeelor, parcați și vizitați Muzeul Marinei și Biserica Amiralității.",
-            "en": "Drive to the museum island, park, and visit the Naval Museum and Admiralty Church."
+            "en": "Drive to the museum island, park, and visit the Naval Museum and Admiralty Church.",
+            "sv": "Kör till museiön, parkera och besök Marinmuseum och Amiralitetskyrkan."
           }
         },
         {
@@ -1214,7 +1314,8 @@
             "de": "Mittagessen mit Aussicht",
             "hu": "Ebéd kilátással",
             "ro": "Prânz cu vedere",
-            "en": "Lunch with a View"
+            "en": "Lunch with a View",
+            "sv": "Lunch med utsikt"
           },
           "coords": [
             15.597,
@@ -1230,7 +1331,8 @@
             "de": "Bleiben Sie auf Stumholmen für ein Mittagessen in einem der Restaurants am Wasser.",
             "hu": "Maradjon Stumholmenen ebédelni az egyik vízparti étteremben.",
             "ro": "Rămâneți pe Stumholmen pentru prânz la unul dintre restaurantele de pe malul apei.",
-            "en": "Stay on Stumholmen for lunch at one of the waterfront restaurants."
+            "en": "Stay on Stumholmen for lunch at one of the waterfront restaurants.",
+            "sv": "Stanna kvar på Stumholmen för lunch på någon av sjökrogarna."
           }
         },
         {
@@ -1238,7 +1340,8 @@
             "de": "Ausflug zur Festung Kungsholm",
             "hu": "Kirándulás a Kungsholm erődhöz",
             "ro": "Excursie la Fortăreața Kungsholm",
-            "en": "Trip to Kungsholm Fortress"
+            "en": "Trip to Kungsholm Fortress",
+            "sv": "Utflykt till Kungsholms fästning"
           },
           "coords": [
             15.565,
@@ -1254,7 +1357,8 @@
             "de": "Fahren Sie zum Fähranleger und nehmen Sie das Boot zur Festungsinsel.",
             "hu": "Vezessen a kompkikötőhöz, és szálljon hajóra az erőd-szigetre.",
             "ro": "Conduceți la terminalul de feribot și luați barca spre insula fortăreței.",
-            "en": "Drive to the ferry terminal and take the boat to the fortress island."
+            "en": "Drive to the ferry terminal and take the boat to the fortress island.",
+            "sv": "Kör till färjeterminalen och ta båten till fästningsön."
           }
         },
         {
@@ -1262,7 +1366,8 @@
             "de": "Spaziergang in Brändaholm",
             "hu": "Séta Brändaholmban",
             "ro": "Plimbare în Brändaholm",
-            "en": "Walk in Brändaholm"
+            "en": "Walk in Brändaholm",
+            "sv": "Promenad i Brändaholm"
           },
           "coords": [
             15.575,
@@ -1278,7 +1383,8 @@
             "de": "Beenden Sie den Tag mit einem kurzen Spaziergang durch die malerische Gartensiedlung.",
             "hu": "Zárja a napot egy rövid sétával a festői kertvárosban.",
             "ro": "Încheiați ziua cu o scurtă plimbare prin așezarea pitorească de grădini.",
-            "en": "End the day with a short walk through the picturesque garden settlement."
+            "en": "End the day with a short walk through the picturesque garden settlement.",
+            "sv": "Avsluta dagen med en kort promenad genom det pittoreska trädgårdsstugeområdet."
           }
         }
       ],
@@ -1286,7 +1392,8 @@
         "de": "Mit dem Auto haben Sie die Flexibilität, die weitläufige Marinestadt Karlskrona und ihre Umgebung zu entdecken. Am Morgen parken Sie im Zentrum und erkunden den historischen Kern auf Trossö zu Fuß. Dies ist der erste Cluster Ihres Tages: der große Platz und die prachtvolle Kirche.\nFür den zweiten Cluster fahren Sie zur Insel Stumholmen. Hier parken Sie erneut und tauchen zu Fuß in die Welt der schwedischen Marine ein. Das Marinemuseum und die historische Admiralitätskirche liegen nur einen kurzen Spaziergang voneinander entfernt. Ein Mittagessen am Kai rundet den Besuch ab.\nDer Nachmittag ist für einen Ausflug zu einer der vorgelagerten Festungen reserviert. Sie fahren zum Fähranleger und setzen mit einem Boot zur imposanten Festung Kungsholm über. Diese historische Anlage bietet faszinierende Einblicke und spektakuläre Ausblicke auf die Ostsee.\nAuf dem Rückweg zum Festland halten Sie für einen letzten Fotostopp bei der malerischen Siedlung Brändaholm. Der Kontrast zwischen der mächtigen Festung und den winzigen roten Holzhäusern fasst die Vielfalt von Karlskronas maritimer Landschaft perfekt zusammen.",
         "hu": "Autóval rugalmasan fedezheti fel a kiterjedt Karlskrona tengerészeti várost és környékét. Reggel a központban parkol, és gyalogosan fedezi fel Trossö történelmi magját. Ez a nap első klasztere: a nagy tér és a csodálatos templom.\nA második klaszterhez vezessen át a Stumholmen-szigetre. Itt ismét leparkol, és gyalogosan merül el a svéd haditengerészet világában. A Tengerészeti Múzeum és a történelmi Admiralitás-templom csak egy rövid sétára van egymástól. Egy ebéd a rakparton teszi teljessé a látogatást.\nA délután egy kirándulásé az egyik külső erődhöz. Elvezet a kompkikötőhöz, és hajóval átkel az impozáns Kungsholm erődhöz. Ez a történelmi létesítmény lenyűgöző betekintést és látványos kilátást nyújt a Balti-tengerre.\nVisszafelé a szárazföldre megáll egy utolsó fotómegállóra a festői Brändaholm településnél. A hatalmas erőd és az apró vörös faházak közötti kontraszt tökéletesen összefoglalja Karlskrona tengeri tájának sokszínűségét.",
         "ro": "Cu mașina, aveți flexibilitatea de a explora orașul naval extins Karlskrona și împrejurimile sale. Dimineața parcați în centru și explorați nucleul istoric de pe Trossö pe jos. Acesta este primul cluster al zilei dumneavoastră: piața mare și biserica magnifică.\nPentru al doilea cluster, conduceți spre insula Stumholmen. Aici parcați din nou și vă cufundați pe jos în lumea marinei suedeze. Muzeul Marinei și istorica Biserică a Amiralității sunt la o scurtă plimbare una de cealaltă. Un prânz pe chei completează vizita.\nDupă-amiaza este rezervată unei excursii la una dintre fortărețele din larg. Conduceți la terminalul de feribot și luați o barcă spre impunătoarea Fortăreață Kungsholm. Acest complex istoric oferă perspective fascinante și vederi spectaculoase ale Mării Baltice.\nPe drumul de întoarcere spre continent, opriți pentru o ultimă fotografie la așezarea pitorească Brändaholm. Contrastul dintre fortăreața masivă și micuțele case roșii din lemn surprinde perfect diversitatea peisajului maritim al Karlskronei.",
-        "en": "By car, you have the flexibility to discover the sprawling naval city of Karlskrona and its surroundings. In the morning, you'll park in the center and explore the historic core on Trossö on foot. This is your first cluster of the day: the grand square and the magnificent church.\nFor the second cluster, you drive to the island of Stumholmen. Here you park again and immerse yourself in the world of the Swedish Navy on foot. The Naval Museum and the historic Admiralty Church are just a short walk from each other. Lunch on the quay completes the visit.\nThe afternoon is reserved for a trip to one of the outlying fortresses. You drive to the ferry terminal and take a boat to the imposing Kungsholm Fortress. This historic complex offers fascinating insights and spectacular views of the Baltic Sea.\nOn the way back to the mainland, you stop for a final photo op at the picturesque settlement of Brändaholm. The contrast between the mighty fortress and the tiny red wooden houses perfectly encapsulates the diversity of Karlskrona's maritime landscape."
+        "en": "By car, you have the flexibility to discover the sprawling naval city of Karlskrona and its surroundings. In the morning, you'll park in the center and explore the historic core on Trossö on foot. This is your first cluster of the day: the grand square and the magnificent church.\nFor the second cluster, you drive to the island of Stumholmen. Here you park again and immerse yourself in the world of the Swedish Navy on foot. The Naval Museum and the historic Admiralty Church are just a short walk from each other. Lunch on the quay completes the visit.\nThe afternoon is reserved for a trip to one of the outlying fortresses. You drive to the ferry terminal and take a boat to the imposing Kungsholm Fortress. This historic complex offers fascinating insights and spectacular views of the Baltic Sea.\nOn the way back to the mainland, you stop for a final photo op at the picturesque settlement of Brändaholm. The contrast between the mighty fortress and the tiny red wooden houses perfectly encapsulates the diversity of Karlskrona's maritime landscape.",
+        "sv": "Med bil har du flexibilitet att upptäcka den storskaliga örlogs- och sjöfartsstaden Karlskrona och dess omgivningar. På morgonen parkerar du i centrum och utforskar den historiska kärnan på Trossö till fots. Det är din första klunga för dagen: det storslagna torget och den magnifika kyrkan.\nFör den andra klungan kör du till ön Stumholmen. Här parkerar du igen och fördjupar dig i den svenska flottans värld till fots. Marinmuseum och den historiska Amiralitetskyrkan ligger bara en kort promenad från varandra. Lunch på kajen fullbordar besöket.\nEftermiddagen är reserverad för en utflykt till en av bortliggande fästningar. Du kör till färjeterminalen och tar båten till den imponerande Kungsholms fästning. Detta historiska komplex erbjuder fascinerande insikter och spektakulär utsikt över Östersjön.\nPå vägen tillbaka till fastlandet stannar du för ett sista fotostopp vid det pittoreska området Brändaholm. Kontrasten mellan den mäktiga fästningen och de små röda trähusen fångar perfekt mångfalden i Karlskronas maritima landskap."
       },
       "gastro_picks": {
         "de": [
@@ -1482,6 +1589,12 @@
           "Parking in the center of Karlskrona is paid. Have coins or a credit card ready.",
           "A car allows you to also visit more distant attractions like Ronneby Brunnspark.",
           "The roads on the islands can be narrow, so drive carefully."
+        ],
+        "sv": [
+          "Kolla färjetiderna till Kungsholms fästning i förväg, de kan variera efter säsong.",
+          "Parkering i Karlskrona centrum är avgiftsbelagd. Ha mynt eller kreditkort redo.",
+          "Med bil kan du även besöka mer avlägsna sevärdheter som Ronneby Brunnspark.",
+          "Vägarna på öarna kan vara smala, så kör försiktigt."
         ]
       },
       "variants": {
@@ -1490,7 +1603,8 @@
             "de": "Ein regnerischer Tag lässt sich im Auto am bequemsten bewältigen. Wir parken trocken auf Trossö und besuchen die Fredrik-Kirche. Weiter geht es zum Marinemuseum, das direkt angefahren werden kann. Nach einem gemütlichen Mittagessen fahren wir zur Festung Kungsholm, wo wir den Blick auf das stürmische Meer aus dem warmen Wagen genießen. Der Tag endet mit einem kurzen Stopp in Brändaholm.",
             "hu": "Az esős napot autóval a legkényelmesebb átvészelni. Trossö szigetén parkolunk le, és meglátogatjuk a Fredrik-templomot. Innen a Tengerészeti Múzeumhoz hajtunk, amely közvetlenül megközelíthető. Egy kellemes ebéd után a Kungsholm erődhöz utazunk, élvezve a viharos tenger látványát a meleg autóból. A napot egy rövid brändaholmi megállóval zárjuk.",
             "ro": "O zi ploioasă este cel mai ușor de parcurs cu mașina. Parcăm în siguranță pe Trossö și vizităm Biserica lui Fredrik. Continuăm spre Muzeul Naval, unde se poate ajunge direct cu mașina. După un prânz plăcut, mergem la Fortăreața Kungsholm, admirând marea agitată din mașina caldă. Ziua se încheie cu o scurtă oprire în Brändaholm.",
-            "en": "A rainy day is most comfortably handled by car. We park dry on Trossö and visit Fredrik's Church. We then drive to the Naval Museum, which is directly accessible. After a pleasant lunch, we travel to Kungsholm Fortress, enjoying the stormy sea view from the warm car. The day ends with a quick stop in Brändaholm."
+            "en": "A rainy day is most comfortably handled by car. We park dry on Trossö and visit Fredrik's Church. We then drive to the Naval Museum, which is directly accessible. After a pleasant lunch, we travel to Kungsholm Fortress, enjoying the stormy sea view from the warm car. The day ends with a quick stop in Brändaholm.",
+            "sv": "En regnig dag hanteras bekvämast med bil. Vi parkerar torrt på Trossö och besöker Fredrikskyrkan. Därefter kör vi till Marinmuseum som är direkt tillgängligt. Efter en trevlig lunch reser vi till Kungsholms fästning och njuter av stormhavet från den varma bilen. Dagen avslutas med ett snabbt stopp i Brändaholm."
           },
           "stops": [
             {
@@ -1499,7 +1613,8 @@
                 "de": "Nutzen Sie Parkhäuser, um trocken ins Zentrum zu kommen.",
                 "hu": "Használd a parkolóházakat, hogy szárazon juss a központba.",
                 "ro": "Folosiți parcările etajate pentru a ajunge uscați în centru.",
-                "en": "Use parking garages to get to the center dry."
+                "en": "Use parking garages to get to the center dry.",
+                "sv": "Använd parkeringshus för att komma torrt till centrum."
               }
             },
             {
@@ -1508,7 +1623,8 @@
                 "de": "Parken Sie direkt am Platz für kurze Wege im Regen.",
                 "hu": "Parkolj közvetlenül a téren, hogy keveset ázz a templomig.",
                 "ro": "Parcați direct în piață pentru distanțe scurte prin ploaie.",
-                "en": "Park directly on the square for short walks in the rain."
+                "en": "Park directly on the square for short walks in the rain.",
+                "sv": "Parkera direkt på torget för korta promenader i regnet."
               }
             },
             {
@@ -1517,7 +1633,8 @@
                 "de": "Es gibt Parkplätze direkt am Museumseingang.",
                 "hu": "Közvetlenül a múzeum bejáratánál is van parkoló.",
                 "ro": "Există locuri de parcare chiar lângă intrarea muzeului.",
-                "en": "There are parking spaces right by the museum entrance."
+                "en": "There are parking spaces right by the museum entrance.",
+                "sv": "Det finns parkeringsplatser precis vid museientsén."
               }
             },
             {
@@ -1526,7 +1643,8 @@
                 "de": "Parken Sie in der Nähe des Restaurants.",
                 "hu": "Parkolj az étterem közelében.",
                 "ro": "Parcați în apropierea restaurantului.",
-                "en": "Park close to the restaurant."
+                "en": "Park close to the restaurant.",
+                "sv": "Parkera nära restaurangen."
               }
             },
             {
@@ -1535,7 +1653,8 @@
                 "de": "Prüfen Sie, ob die Fähre bei Starkwind fährt.",
                 "hu": "Ellenőrizd, jár-e a komp erős szélben.",
                 "ro": "Verificați dacă feribotul circulă pe vânt puternic.",
-                "en": "Check if the ferry runs during high winds."
+                "en": "Check if the ferry runs during high winds.",
+                "sv": "Kolla om färjan går vid hård vind."
               }
             },
             {
@@ -1544,7 +1663,8 @@
                 "de": "Kurzer Fotostopp reicht bei starkem Regen.",
                 "hu": "Erős esőben egy rövid fotómegálló is elég.",
                 "ro": "O scurtă oprire foto e suficientă pe ploaie torențială.",
-                "en": "A short photo stop is enough in heavy rain."
+                "en": "A short photo stop is enough in heavy rain.",
+                "sv": "Ett kort fotostopp räcker i kraftigt regn."
               }
             }
           ],
@@ -1572,6 +1692,12 @@
               "Visibility can drop quickly in coastal rain.",
               "Parking apps are more convenient than wet ticket machines.",
               "Use seat heating after a wet walk."
+            ],
+            "sv": [
+              "Se upp för stora vattenpölar i lågt liggande gator.",
+              "Sikten kan snabbt försämras i kustregn.",
+              "Parkeringsappar är bekvämare än blöta biljettautomater.",
+              "Använd sätesvärme efter en blöt promenad."
             ]
           }
         },
@@ -1580,7 +1706,8 @@
             "de": "An einem kalten Wintertag bietet das Auto den besten Schutz vor dem eisigen Frost. Nach dem Besuch der Fredrik-Kirche fahren wir zum Marinemuseum auf Stumholmen. Ein warmes Mittagessen stärkt uns für die Weiterfahrt zur Festung Kungsholm, die im Winterlicht besonders eindrucksvoll wirkt. Vor Einbruch der frühen Dunkelheit besuchen wir die roten Häuser von Brändaholm.",
             "hu": "Egy hideg téli napon az autó nyújtja a legjobb védelmet a jeges fagy ellen. A Fredrik-templom megtekintése után a stumholmeni Tengerészeti Múzeumhoz hajtunk. Egy meleg ebéd ad erőt a Kungsholm erődhöz vezető úthoz, amely a téli fényekben különösen lenyűgöző. A korai sötétedés előtt még meglátogatjuk Brändaholm vörös házait.",
             "ro": "Într-o zi rece de iarnă, mașina oferă cea mai bună protecție împotriva gerului. După vizitarea Bisericii lui Fredrik, mergem la Muzeul Naval de pe Stumholmen. Un prânz cald ne dă putere pentru drumul spre Fortăreața Kungsholm, care arată impresionant în lumina iernii. Înainte de lăsarea întunericului, vizităm casele roșii din Brändaholm.",
-            "en": "On a cold winter day, the car provides the best protection from the icy frost. After visiting Fredrik's Church, we drive to the Naval Museum on Stumholmen. A warm lunch fuels us for the trip to Kungsholm Fortress, which looks particularly impressive in winter light. Before the early darkness sets in, we visit the red houses of Brändaholm."
+            "en": "On a cold winter day, the car provides the best protection from the icy frost. After visiting Fredrik's Church, we drive to the Naval Museum on Stumholmen. A warm lunch fuels us for the trip to Kungsholm Fortress, which looks particularly impressive in winter light. Before the early darkness sets in, we visit the red houses of Brändaholm.",
+            "sv": "På en kall vinterdag ger bilen bäst skydd mot iskylan. Efter ett besök i Fredriks kyrka kör vi till Marinmuseum på Stumholmen. En varm lunch ger energi inför resan till Kungsholms fästning, som är särskilt imponerande i vinterskymningen. Innan den tidiga mörkret faller besöker vi de röda husen i Brändaholm."
           },
           "stops": [
             {
@@ -1589,7 +1716,8 @@
                 "de": "Stellen Sie sicher, dass Ihr Frostschutzmittel aufgefüllt ist.",
                 "hu": "Győződj meg róla, hogy fel van töltve a fagyálló.",
                 "ro": "Asigurați-vă că lichidul antigel este completat.",
-                "en": "Ensure your antifreeze levels are topped up."
+                "en": "Ensure your antifreeze levels are topped up.",
+                "sv": "Se till att frostskyddet är påfyllt."
               }
             },
             {
@@ -1598,7 +1726,8 @@
                 "de": "Vorsicht beim Einparken auf vereisten Plätzen.",
                 "hu": "Vigyázz a parkolásnál a jeges tereken.",
                 "ro": "Atenție la parcare în piețele înghețate.",
-                "en": "Be careful when parking on frozen squares."
+                "en": "Be careful when parking on frozen squares.",
+                "sv": "Var försiktig när du parkerar på frusna torg."
               }
             },
             {
@@ -1607,7 +1736,8 @@
                 "de": "Die Brücke nach Stumholmen kann bei Frost glatt sein.",
                 "hu": "A Stumholmenre vezető híd fagyban csúszós lehet.",
                 "ro": "Podul spre Stumholmen poate fi alunecos pe ger.",
-                "en": "The bridge to Stumholmen can be slippery in the frost."
+                "en": "The bridge to Stumholmen can be slippery in the frost.",
+                "sv": "Bron till Stumholmen kan vara hal i frosten."
               }
             },
             {
@@ -1616,7 +1746,8 @@
                 "de": "Genießen Sie den Blick auf den Hafen aus dem warmen Restaurant.",
                 "hu": "Élvezd a kilátást a kikötőre a meleg étteremből.",
                 "ro": "Bucurați-vă de vederea spre port din restaurantul cald.",
-                "en": "Enjoy the harbor view from the warm restaurant."
+                "en": "Enjoy the harbor view from the warm restaurant.",
+                "sv": "Njut av hamnens utsikt från den varma restaurangen."
               }
             },
             {
@@ -1625,7 +1756,8 @@
                 "de": "Halten Sie die Kamera für das Winterlicht bereit.",
                 "hu": "Legyen kéznél a kamera a téli fényekhez.",
                 "ro": "Aveți camera pregătită pentru lumina de iarnă.",
-                "en": "Keep your camera ready for the winter light."
+                "en": "Keep your camera ready for the winter light.",
+                "sv": "Håll kameran redo för vinterskymningen."
               }
             },
             {
@@ -1634,7 +1766,8 @@
                 "de": "Bleiben Sie im Auto, falls es schneit, und genießen Sie die Sicht.",
                 "hu": "Maradj az autóban, ha esik a hó, és nézd a kilátást.",
                 "ro": "Rămâneți în mașină dacă ninge și admirați priveliștea.",
-                "en": "Stay in the car if it's snowing and enjoy the view."
+                "en": "Stay in the car if it's snowing and enjoy the view.",
+                "sv": "Sitt kvar i bilen om det snöar och njut av utsikten."
               }
             }
           ],
@@ -1662,6 +1795,12 @@
               "Keep an ice scraper and brush in the car.",
               "Diesel fuel can cause issues in extreme cold.",
               "Allow extra time for driving across slippery bridges."
+            ],
+            "sv": [
+              "Vinterdäck är lagkrav i Sverige.",
+              "Ha en isskrapa och borste i bilen.",
+              "Diesel kan orsaka problem vid extrem kyla.",
+              "Räkna med extra tid för att köra över hala broar."
             ]
           }
         }
@@ -1680,7 +1819,8 @@
             "de": "Ankunft am Stortorget",
             "hu": "Érkezés a Stortorgetre",
             "ro": "Sosire la Stortorget",
-            "en": "Arrival at Stortorget"
+            "en": "Arrival at Stortorget",
+            "sv": "Ankomst till Stortorget"
           },
           "coords": [
             15.587,
@@ -1696,7 +1836,8 @@
             "de": "Nehmen Sie einen Bus zu einer Haltestelle in der Nähe des Hauptplatzes, um Ihre Tour zu beginnen.",
             "hu": "Menjen busszal a főtér közelében lévő megállóig a túra megkezdéséhez.",
             "ro": "Luați un autobuz până la o stație din apropierea pieței principale pentru a începe turul.",
-            "en": "Take a bus to a stop near the main square to start your tour."
+            "en": "Take a bus to a stop near the main square to start your tour.",
+            "sv": "Ta bussen till en hållplats nära Stortorget för att börja din rundtur."
           }
         },
         {
@@ -1704,7 +1845,8 @@
             "de": "Fredrikskirche",
             "hu": "Fredrik-templom",
             "ro": "Biserica Fredrik",
-            "en": "Fredrik's Church"
+            "en": "Fredrik's Church",
+            "sv": "Fredriks kyrka"
           },
           "coords": [
             15.5875,
@@ -1720,7 +1862,8 @@
             "de": "Das Herzstück des barocken Karlskrona, ein Muss für jeden Besucher.",
             "hu": "A barokk Karlskrona szíve, minden látogató számára kötelező.",
             "ro": "Inima barocă a Karlskronei, o necesitate pentru fiecare vizitator.",
-            "en": "The heart of Baroque Karlskrona, a must-see for every visitor."
+            "en": "The heart of Baroque Karlskrona, a must-see for every visitor.",
+            "sv": "Barockens hjärta i Karlskrona, ett måste för varje besökare."
           }
         },
         {
@@ -1728,7 +1871,8 @@
             "de": "Spaziergang nach Stumholmen",
             "hu": "Séta Stumholmenbe",
             "ro": "Plimbare spre Stumholmen",
-            "en": "Walk to Stumholmen"
+            "en": "Walk to Stumholmen",
+            "sv": "Promenera till Stumholmen"
           },
           "coords": [
             15.592,
@@ -1744,7 +1888,8 @@
             "de": "Ein kurzer, schöner Spaziergang über die Kungsbron-Brücke bringt Sie zur nächsten Insel.",
             "hu": "Egy rövid, szép séta a Kungsbron hídon át a következő szigetre visz.",
             "ro": "O plimbare scurtă și frumoasă peste podul Kungsbron vă duce pe următoarea insulă.",
-            "en": "A short, beautiful walk across the Kungsbron bridge takes you to the next island."
+            "en": "A short, beautiful walk across the Kungsbron bridge takes you to the next island.",
+            "sv": "En kort, vacker promenad över Kungsbron tar dig till nästa ö."
           }
         },
         {
@@ -1752,7 +1897,8 @@
             "de": "Marinemuseum & Admiralitätskirche",
             "hu": "Tengerészeti Múzeum & Admiralitás-templom",
             "ro": "Muzeul Marinei & Biserica Amiralității",
-            "en": "Naval Museum & Admiralty Church"
+            "en": "Naval Museum & Admiralty Church",
+            "sv": "Marinmuseum & Amiralitetskyrkan"
           },
           "coords": [
             15.596,
@@ -1768,7 +1914,8 @@
             "de": "Erkunden Sie dieses Cluster zu Fuß. Beides liegt nah beieinander.",
             "hu": "Fedezze fel ezt a klasztert gyalog. Mindkettő közel van egymáshoz.",
             "ro": "Explorați acest cluster pe jos. Ambele sunt aproape una de cealaltă.",
-            "en": "Explore this cluster on foot. Both are close to each other."
+            "en": "Explore this cluster on foot. Both are close to each other.",
+            "sv": "Utforska detta område till fots. Båda ligger nära varandra."
           }
         },
         {
@@ -1776,7 +1923,8 @@
             "de": "Fährfahrt und Festung Kungsholm",
             "hu": "Kompút és a Kungsholm erőd",
             "ro": "Călătorie cu feribotul și Fortăreața Kungsholm",
-            "en": "Ferry Trip and Kungsholm Fortress"
+            "en": "Ferry Trip and Kungsholm Fortress",
+            "sv": "Skärgårdsfärd och Kungsholms fästning"
           },
           "coords": [
             15.565,
@@ -1792,7 +1940,8 @@
             "de": "Nehmen Sie die Schärenfähre vom Fisktorget zur Festungsinsel.",
             "hu": "Menjen a szigetvilági komppal a Fisktorgetről az erőd-szigetre.",
             "ro": "Luați feribotul arhipelagului de la Fisktorget spre insula fortăreței.",
-            "en": "Take the archipelago ferry from Fisktorget to the fortress island."
+            "en": "Take the archipelago ferry from Fisktorget to the fortress island.",
+            "sv": "Ta skärgårdsfärjan från Fisktorget till fästningsön."
           }
         },
         {
@@ -1800,7 +1949,8 @@
             "de": "Abendessen im Zentrum",
             "hu": "Vacsora a központban",
             "ro": "Cină în centru",
-            "en": "Dinner in the City Center"
+            "en": "Dinner in the City Center",
+            "sv": "Middag i stadens centrum"
           },
           "coords": [
             15.586,
@@ -1816,7 +1966,8 @@
             "de": "Kehren Sie nach der Fährfahrt für ein Abendessen ins Zentrum zurück.",
             "hu": "Térjen vissza a kompozás után a központba vacsorázni.",
             "ro": "Întoarceți-vă în centru pentru cină după călătoria cu feribotul.",
-            "en": "Return to the city center for dinner after the ferry trip."
+            "en": "Return to the city center for dinner after the ferry trip.",
+            "sv": "Återvänd till centrum för middag efter färjeturen."
           }
         }
       ],
@@ -1824,7 +1975,8 @@
         "de": "Mit öffentlichen Verkehrsmitteln lässt sich Karlskrona wunderbar stressfrei erkunden. Starten Sie mit dem Bus ins Zentrum und beginnen Sie Ihren Rundgang am Stortorget. Der erste Cluster, das historische Herz der Stadt, liegt Ihnen zu Füßen und ist leicht zu Fuß zu erkunden.\nEin kurzer Spaziergang über die Brücke bringt Sie zum zweiten Cluster: der Museumsinsel Stumholmen. Hier können Sie Stunden im Marinemuseum verbringen und die maritime Atmosphäre auf sich wirken lassen. Alles ist kompakt und ohne weitere Verkehrsmittel erreichbar.\nAm Nachmittag erwartet Sie ein kleines Abenteuer. Vom Fisktorget aus nehmen Sie die Schärenfähre, die als öffentliches Verkehrsmittel gilt. Diese Transit-Etappe bringt Sie zur beeindruckenden Festung Kungsholm, einem Highlight in der einzigartigen Insellandschaft.\nNachdem die Fähre Sie zurück zum Festland gebracht hat, schlendern Sie gemütlich zu einem Restaurant Ihrer Wahl im Stadtzentrum. Dieser Tag beweist, dass man auch ohne Auto die wichtigsten Sehenswürdigkeiten Karlskronas, einschließlich der abgelegenen Inseln, bequem erreichen kann.",
         "hu": "Tömegközlekedéssel Karlskrona csodálatosan stresszmentesen fedezhető fel. Induljon busszal a központba, és kezdje a sétát a Stortorgeten. Az első klaszter, a város történelmi szíve, a lábai előtt hever, és könnyen bejárható gyalog.\nEgy rövid séta a hídon át a második klaszterhez vezet: a Stumholmen múzeumszigetre. Itt órákat tölthet a Tengerészeti Múzeumban, és magába szívhatja a tengeri hangulatot. Minden kompakt és további közlekedési eszközök nélkül elérhető.\nDélután egy kis kaland várja. A Fisktorgetről indul a szigetvilági komp, amely tömegközlekedési eszköznek számít. Ez a tranzit szakasz elviszi a lenyűgöző Kungsholm erődhöz, amely egyedülálló a szigetvilágban.\nMiután a komp visszavitte a szárazföldre, kényelmesen elsétálhat egy tetszőleges étterembe a városközpontban. Ez a nap bizonyítja, hogy autó nélkül is kényelmesen elérhetők Karlskrona legfontosabb látnivalói, beleértve a távoli szigeteket is.",
         "ro": "Cu transportul public, Karlskrona poate fi explorată minunat și fără stres. Începeți cu autobuzul spre centru și porniți turul de la Stortorget. Primul cluster, inima istorică a orașului, se află la picioarele dumneavoastră și este ușor de explorat pe jos.\nO scurtă plimbare peste pod vă duce la al doilea cluster: insula muzeelor Stumholmen. Aici puteți petrece ore în șir la Muzeul Marinei și puteți absorbi atmosfera maritimă. Totul este compact și accesibil fără alte mijloace de transport.\nDupă-amiaza vă așteaptă o mică aventură. De la Fisktorget, luați feribotul arhipelagului, care este considerat transport public. Această etapă de tranzit vă duce la impresionanta Fortăreață Kungsholm, un punct culminant în peisajul insular unic.\nDupă ce feribotul vă aduce înapoi pe continent, plimbați-vă agale spre un restaurant la alegere în centrul orașului. Această zi demonstrează că se poate ajunge confortabil la cele mai importante atracții din Karlskrona, inclusiv la insulele îndepărtate, chiar și fără mașină.",
-        "en": "Karlskrona can be explored wonderfully stress-free using public transport. Start with a bus to the city center and begin your tour at Stortorget. The first cluster, the historic heart of the city, is at your feet and easily explored on foot.\nA short walk across the bridge takes you to the second cluster: the museum island of Stumholmen. Here you can spend hours in the Naval Museum and soak up the maritime atmosphere. Everything is compact and accessible without further transport.\nA little adventure awaits you in the afternoon. From Fisktorget, you take the archipelago ferry, which is considered public transport. This transit leg takes you to the impressive Kungsholm Fortress, a highlight in the unique island landscape.\nAfter the ferry brings you back to the mainland, stroll leisurely to a restaurant of your choice in the city center. This day proves that you can comfortably reach Karlskrona's most important sights, including the remote islands, even without a car."
+        "en": "Karlskrona can be explored wonderfully stress-free using public transport. Start with a bus to the city center and begin your tour at Stortorget. The first cluster, the historic heart of the city, is at your feet and easily explored on foot.\nA short walk across the bridge takes you to the second cluster: the museum island of Stumholmen. Here you can spend hours in the Naval Museum and soak up the maritime atmosphere. Everything is compact and accessible without further transport.\nA little adventure awaits you in the afternoon. From Fisktorget, you take the archipelago ferry, which is considered public transport. This transit leg takes you to the impressive Kungsholm Fortress, a highlight in the unique island landscape.\nAfter the ferry brings you back to the mainland, stroll leisurely to a restaurant of your choice in the city center. This day proves that you can comfortably reach Karlskrona's most important sights, including the remote islands, even without a car.",
+        "sv": "Karlskrona kan utforskas lugnt och stressfritt med kollektivtrafik. Börja med buss till centrum och inled din tur vid Stortorget. Det första klustret, stadens historiska hjärta, ligger nära och kan lätt utforskas till fots.\nEn kort promenad över bron tar dig till det andra klustret: museumön Stumholmen. Här kan du tillbringa timmar på Marinmuseum och insupa den marina atmosfären. Allt är kompakt och tillgängligt utan ytterligare transport.\nPå eftermiddagen väntar ett litet äventyr. Från Fisktorget tar du skärgårdsfärjan, som räknas som kollektivtrafik. Denna transportsträcka tar dig till den imponerande Kungsholms fästning, ett höjdpunkt i det unika skärgårdslandskapet.\nEfter att färjan fört dig tillbaka till fastlandet kan du promenera i lugn takt till en restaurang i centrum. Denna dag visar att du bekvämt når Karlskronas viktigaste sevärdheter, inklusive de avlägsna öarna, även utan bil."
       },
       "gastro_picks": {
         "de": [
@@ -2020,6 +2172,12 @@
           "The Blekingetrafiken app is the easiest way to buy tickets and plan routes.",
           "The archipelago ferries are a fantastic way to experience the scenery and are considered part of the local public transport.",
           "Pay attention to the timetables, especially in the evening and on weekends, as frequencies may be lower."
+        ],
+        "sv": [
+          "Köp en endagbiljett eller 24-timmarsbiljett för kollektivtrafiken (bussar och färjor) från Blekingetrafiken.",
+          "Blekingetrafikens app är det enklaste sättet att köpa biljetter och planera resor.",
+          "Skärgårdsfärjorna är ett fantastiskt sätt att uppleva landskapet och räknas som lokal kollektivtrafik.",
+          "Var uppmärksam på tidtabellerna, särskilt kvällar och helger, då trafiken kan vara glesare."
         ]
       },
       "variants": {
@@ -2028,7 +2186,8 @@
             "de": "Mit dem Bus erreichen wir bequem den Stortorget und die Fredrik-Kirche. Der kurze Weg zum Marinemuseum führt über die Brücke nach Stumholmen. Die Fähre zur Festung Kungsholm bietet eine geschützte Überfahrt mit Blick auf die stürmische Ostsee. Den regnerischen Tag beenden wir in einem gemütlichen Restaurant im Stadtzentrum, bevor wir den Bus zurück nehmen.",
             "hu": "Busszal kényelmesen elérjük a Stortorgetet és a Fredrik-templomot. A Tengerészeti Múzeumhoz vezető rövid út a stumholmeni hídon át vezet. A Kungsholm erődhöz tartó komp védett átkelést kínál, kilátással a viharos Balti-tengerre. Az esős napot a belváros egyik hangulatos éttermében zárjuk, mielőtt visszabuszoznánk.",
             "ro": "Cu autobuzul ajungem confortabil în Stortorget și la Biserica lui Fredrik. Drumul scurt spre Muzeul Naval trece peste podul spre Stumholmen. Feribotul spre Fortăreața Kungsholm oferă o traversare protejată cu vedere spre Marea Baltică agitată. Încheiem ziua ploioasă într-un restaurant primitor din centru.",
-            "en": "By bus, we easily reach Stortorget and Fredrik's Church. The short walk to the Naval Museum leads across the bridge to Stumholmen. The ferry to Kungsholm Fortress offers a sheltered crossing with views of the stormy Baltic Sea. We end the rainy day in a cozy restaurant in the city center before taking the bus back."
+            "en": "By bus, we easily reach Stortorget and Fredrik's Church. The short walk to the Naval Museum leads across the bridge to Stumholmen. The ferry to Kungsholm Fortress offers a sheltered crossing with views of the stormy Baltic Sea. We end the rainy day in a cozy restaurant in the city center before taking the bus back.",
+            "sv": "Med buss når vi enkelt Stortorget och Fredriks kyrka. Den korta promenaden till Marinmuseum leder över bron till Stumholmen. Färjan till Kungsholms fästning erbjuder en kustskyddad överfart med vyer över det stormiga Östersjön. Vi avslutar den regniga dagen på en mysig restaurang i centrum innan vi tar bussen tillbaka."
           },
           "stops": [
             {
@@ -2037,7 +2196,8 @@
                 "de": "Warten Sie in den Arkaden auf den nächsten Anschluss.",
                 "hu": "Várj az árkádok alatt a következő csatlakozásra.",
                 "ro": "Așteptați sub arcade următoarea legătură.",
-                "en": "Wait under the arcades for your next connection."
+                "en": "Wait under the arcades for your next connection.",
+                "sv": "Vänta under valven på din nästa förbindelse."
               }
             },
             {
@@ -2046,7 +2206,8 @@
                 "de": "Nur 2 Minuten Fußweg von der Bushaltestelle.",
                 "hu": "Csak 2 perc séta a buszmegállótól.",
                 "ro": "La doar 2 minute de mers pe jos de stația de autobuz.",
-                "en": "Only a 2-minute walk from the bus stop."
+                "en": "Only a 2-minute walk from the bus stop.",
+                "sv": "Endast 2 minuters promenad från busshållplatsen."
               }
             },
             {
@@ -2055,7 +2216,8 @@
                 "de": "Schritte beschleunigen, wenn der Wind von See drückt.",
                 "hu": "Gyorsítsd fel a lépteidet, ha fúj a tengeri szél.",
                 "ro": "Grăbiți pasul dacă vântul bate dinspre mare.",
-                "en": "Quickly cross the bridge if the sea wind is strong."
+                "en": "Quickly cross the bridge if the sea wind is strong.",
+                "sv": "Korsa bron snabbt om havsvinden är stark."
               }
             },
             {
@@ -2064,7 +2226,8 @@
                 "de": "Drinnen gibt es viele Sitzgelegenheiten zum Ausruhen.",
                 "hu": "Odabent sok ülőhely van a pihenéshez.",
                 "ro": "În interior sunt multe locuri de șezut pentru odihnă.",
-                "en": "There are plenty of seats inside to rest."
+                "en": "There are plenty of seats inside to rest.",
+                "sv": "Det finns gott om sittplatser inomhus för att vila."
               }
             },
             {
@@ -2073,7 +2236,8 @@
                 "de": "Bleiben Sie unter Deck, um trocken zu bleiben.",
                 "hu": "Maradj a fedélzet alatt, hogy száraz maradj.",
                 "ro": "Rămâneți sub punte pentru a nu vă uda.",
-                "en": "Stay below deck to keep dry."
+                "en": "Stay below deck to keep dry.",
+                "sv": "Stanna under däck för att hålla dig torr."
               }
             },
             {
@@ -2082,7 +2246,8 @@
                 "de": "Restaurants liegen nah an den zentralen Buslinien.",
                 "hu": "Az éttermek közel vannak a központi buszvonalakhoz.",
                 "ro": "Restaurantele sunt aproape de liniile centrale de autobuz.",
-                "en": "Restaurants are close to the central bus lines."
+                "en": "Restaurants are close to the central bus lines.",
+                "sv": "Restauranger ligger nära de centrala busslinjerna."
               }
             }
           ],
@@ -2110,6 +2275,12 @@
               "Buses run very frequently in the city center.",
               "The ferry to Kungsholm is part of the public transport.",
               "Bus stops often have small shelters."
+            ],
+            "sv": [
+              "Blekingetrafikens app är idealisk för realtidsinformation.",
+              "Bussarna går mycket ofta i centrum.",
+              "Färjan till Kungsholm ingår i kollektivtrafiken.",
+              "Busshållplatser har ofta små vindskydd."
             ]
           }
         },
@@ -2118,7 +2289,8 @@
             "de": "Der Bus bringt uns durch die Winterlandschaft zum Stortorget. Nach der Besichtigung der Fredrik-Kirche spazieren wir zum Marinemuseum, wo wir uns aufwärmen können. Die winterliche Fährfahrt zur Festung Kungsholm bietet eine spektakuläre Sicht auf die vereisten Schären. Den Abend verbringen wir gemütlich im Zentrum, bevor der Bus uns zurückbringt.",
             "hu": "A busz a téli tájon át visz minket a Stortorgetre. A Fredrik-templom után a Tengerészeti Múzeumhoz sétálunk, ahol felmelegedhetünk. A téli kompozás a Kungsholm erődhöz látványos kilátást nyújt a jeges szigetvilágra. Az estét a belvárosban töltjük, mielőtt visszabuszoznánk.",
             "ro": "Autobuzul ne duce prin peisajul de iarnă spre Stortorget. După vizitarea Bisericii lui Fredrik, mergem la Muzeul Naval pentru a ne încălzi. Călătoria cu feribotul spre Fortăreața Kungsholm oferă o vedere spectaculoasă asupra arhipelagului înghețat. Petrecem seara în centru înainte de a lua autobuzul înapoi.",
-            "en": "The bus takes us through the winter landscape to Stortorget. After visiting Fredrik's Church, we walk to the Naval Museum, where we can warm up. The winter ferry ride to Kungsholm Fortress offers spectacular views of the icy archipelago. We spend the evening cozily in the center before the bus takes us back."
+            "en": "The bus takes us through the winter landscape to Stortorget. After visiting Fredrik's Church, we walk to the Naval Museum, where we can warm up. The winter ferry ride to Kungsholm Fortress offers spectacular views of the icy archipelago. We spend the evening cozily in the center before the bus takes us back.",
+            "sv": "Bussen tar oss genom vinterlandskapet till Stortorget. Efter ett besök i Fredriks kyrka promenerar vi till Marinmuseum där vi kan värma oss. Den vinterliga färjeresan till Kungsholms fästning bjuder på spektakulära vyer över den frusna skärgården. Vi tillbringar kvällen mysigt i centrum innan bussen tar oss tillbaka."
           },
           "stops": [
             {
@@ -2127,7 +2299,8 @@
                 "de": "Nutzen Sie den beheizten Bus zum Aufwärmen.",
                 "hu": "Használd a fűtött buszt a felmelegedéshez.",
                 "ro": "Folosiți autobuzul încălzit pentru a vă dezmorți.",
-                "en": "Use the heated bus to warm up."
+                "en": "Use the heated bus to warm up.",
+                "sv": "Använd den uppvärmda bussen för att bli varm."
               }
             },
             {
@@ -2136,7 +2309,8 @@
                 "de": "Die Kirche bietet eine gute Pause von der Kälte.",
                 "hu": "A templom jó pihenőt kínál a hideg elől.",
                 "ro": "Biserica oferă o pauză bună de la frig.",
-                "en": "The church offers a good break from the cold."
+                "en": "The church offers a good break from the cold.",
+                "sv": "Kyrkan erbjuder ett bra avbrott från kylan."
               }
             },
             {
@@ -2145,7 +2319,8 @@
                 "de": "Gehen Sie zügig, der Wind ist auf der Brücke am stärksten.",
                 "hu": "Sétálj tempósan, a szél a hídon a legerősebb.",
                 "ro": "Mergeți vioi, vântul e cel mai puternic pe pod.",
-                "en": "Walk briskly, the wind is strongest on the bridge."
+                "en": "Walk briskly, the wind is strongest on the bridge.",
+                "sv": "Gå raskt, vinden är starkast på bron."
               }
             },
             {
@@ -2154,7 +2329,8 @@
                 "de": "Das Museum ist im Winter sehr ruhig und warm.",
                 "hu": "A múzeum télen nagyon csendes és meleg.",
                 "ro": "Muzeul este foarte liniștit și cald iarna.",
-                "en": "The museum is very quiet and warm in winter."
+                "en": "The museum is very quiet and warm in winter.",
+                "sv": "Museet är mycket lugnt och varmt på vintern."
               }
             },
             {
@@ -2163,7 +2339,8 @@
                 "de": "Genießen Sie den Blick auf das Eis vom Innenraum aus.",
                 "hu": "Élvezd a kilátást a jégre a belső térből.",
                 "ro": "Admirați gheața din interiorul feribotului.",
-                "en": "Enjoy the ice view from the indoor area."
+                "en": "Enjoy the ice view from the indoor area.",
+                "sv": "Njut av isutsikten från innermiljön."
               }
             },
             {
@@ -2172,7 +2349,8 @@
                 "de": "Der zentrale Busknotenpunkt ist nur wenige Gehminuten entfernt.",
                 "hu": "A központi buszcsomópont csak pár perc séta.",
                 "ro": "Nodul central de autobuze e la doar câteva minute de mers pe jos.",
-                "en": "The central bus hub is just a few minutes' walk away."
+                "en": "The central bus hub is just a few minutes' walk away.",
+                "sv": "Det centrala bussterminalen ligger bara några minuters promenad bort."
               }
             }
           ],
@@ -2200,6 +2378,12 @@
               "Schedules may vary on public holidays.",
               "Ferries run less frequently in winter.",
               "Keep your ticket ready so you don't have to search in the cold."
+            ],
+            "sv": [
+              "Bussarna är vanligtvis mycket punktliga och varma på vintern.",
+              "Tidtabeller kan variera på helgdagar.",
+              "Färjorna går mer sällan under vintern.",
+              "Ha biljetten klar så du slipper leta i kylan."
             ]
           }
         }

@@ -21,7 +21,8 @@
             "de": "Kungstorget",
             "hu": "Kungstorget (Királyi tér)",
             "ro": "Kungstorget (Piața Regelui)",
-            "en": "Kungstorget (King's Square)"
+            "en": "Kungstorget (King's Square)",
+            "sv": "Kungstorget (King's Square)"
           },
           "coords": [
             11.9425,
@@ -37,7 +38,8 @@
             "de": "Starten Sie den Tag mit einem Kaffee in einem der Cafés am Platz.",
             "hu": "Kezdje a napot egy kávéval a tér egyik kávézójában.",
             "ro": "Începeți ziua cu o cafea la una dintre cafenelele din piață.",
-            "en": "Start your day with a coffee at one of the square's cafes."
+            "en": "Start your day with a coffee at one of the square's cafes.",
+            "sv": "Börja din dag med en kaffe på något av torgets kaféer."
           }
         },
         {
@@ -45,7 +47,8 @@
             "de": "Kirche von Uddevalla",
             "hu": "Uddevalla temploma",
             "ro": "Biserica din Uddevalla",
-            "en": "Uddevalla Church"
+            "en": "Uddevalla Church",
+            "sv": "Uddevalla kyrka"
           },
           "coords": [
             11.94,
@@ -61,7 +64,8 @@
             "de": "Achten Sie auf das beeindruckende Votivschiff, das von der Decke hängt.",
             "hu": "Figyelje meg a mennyezetről lógó lenyűgöző fogadalmi hajót.",
             "ro": "Observați impresionanta navă votivă care atârnă de tavan.",
-            "en": "Look for the impressive votive ship hanging from the ceiling."
+            "en": "Look for the impressive votive ship hanging from the ceiling.",
+            "sv": "Håll utkik efter det imponerande votivskeppet som hänger i taket."
           }
         },
         {
@@ -69,7 +73,8 @@
             "de": "Kampenhof",
             "hu": "Kampenhof",
             "ro": "Kampenhof",
-            "en": "Kampenhof"
+            "en": "Kampenhof",
+            "sv": "Kampenhof"
           },
           "coords": [
             11.948,
@@ -85,7 +90,8 @@
             "de": "Erkunden Sie die alten Industriegebäude, die heute Geschäfte und Werkstätten beherbergen.",
             "hu": "Fedezze fel a régi ipari épületeket, amelyek ma üzleteknek és műhelyeknek adnak otthont.",
             "ro": "Explorați vechile clădiri industriale, care acum găzduiesc magazine și ateliere.",
-            "en": "Explore the old industrial buildings, now home to shops and workshops."
+            "en": "Explore the old industrial buildings, now home to shops and workshops.",
+            "sv": "Utforska de gamla industribyggnaderna, nu hem för butiker och verkstäder."
           }
         },
         {
@@ -93,7 +99,8 @@
             "de": "Bohusläns Museum",
             "hu": "Bohusläns Múzeum",
             "ro": "Muzeul Bohusläns",
-            "en": "Bohusläns Museum"
+            "en": "Bohusläns Museum",
+            "sv": "Bohusläns Museum"
           },
           "coords": [
             11.9325,
@@ -109,7 +116,8 @@
             "de": "Perfekt für ein Mittagessen im Museumscafé mit Blick auf den Fluss.",
             "hu": "Tökéletes egy ebédhez a múzeumi kávézóban, kilátással a folyóra.",
             "ro": "Perfect pentru prânz la cafeneaua muzeului, cu vedere la râu.",
-            "en": "Perfect for lunch at the museum cafe overlooking the river."
+            "en": "Perfect for lunch at the museum cafe overlooking the river.",
+            "sv": "Perfekt för lunch i museets kafé med utsikt över ån."
           }
         },
         {
@@ -117,7 +125,8 @@
             "de": "Strandpromenade Uddevalla",
             "hu": "Uddevallai tengerparti sétány",
             "ro": "Promenada de pe plajă Uddevalla",
-            "en": "Strandpromenaden Uddevalla"
+            "en": "Strandpromenaden Uddevalla",
+            "sv": "Strandpromenaden Uddevalla"
           },
           "coords": [
             11.928,
@@ -133,7 +142,8 @@
             "de": "Ein wunderschöner Holzsteg entlang des Wassers, ideal für einen Nachmittagsspaziergang.",
             "hu": "Egy gyönyörű, víz menti deszkasétány, ideális egy délutáni sétához.",
             "ro": "O frumoasă promenadă din lemn de-a lungul apei, ideală pentru o plimbare de după-amiază.",
-            "en": "A beautiful wooden boardwalk along the water, perfect for an afternoon stroll."
+            "en": "A beautiful wooden boardwalk along the water, perfect for an afternoon stroll.",
+            "sv": "En vacker träpromenad längs vattnet, perfekt för en eftermiddagspromenad."
           }
         },
         {
@@ -141,7 +151,8 @@
             "de": "Muschelbank-Museum",
             "hu": "Kagylópad Múzeum",
             "ro": "Muzeul Bancului de Scoici",
-            "en": "Shell Bank Museum"
+            "en": "Shell Bank Museum",
+            "sv": "Skalbanksmuseet"
           },
           "coords": [
             11.935,
@@ -157,7 +168,8 @@
             "de": "Entdecken Sie die größten Muschelbänke der Welt, ein einzigartiges Naturphänomen.",
             "hu": "Fedezze fel a világ legnagyobb kagylópadjait, egy egyedülálló természeti jelenséget.",
             "ro": "Descoperiți cele mai mari bancuri de scoici din lume, un fenomen natural unic.",
-            "en": "Discover the world's largest shell banks, a unique natural phenomenon."
+            "en": "Discover the world's largest shell banks, a unique natural phenomenon.",
+            "sv": "Upptäck världens största skalbankar, ett unikt naturfenomen."
           }
         }
       ],
@@ -165,7 +177,8 @@
         "de": "Ihr Tag in Uddevalla beginnt am belebten Kungstorget, dem Herzen der Stadt. Von dort aus schlendern Sie zur historischen Kirche und tauchen in die lokale Geschichte ein. Am Vormittag erkunden Sie das industrielle Erbe von Kampenhof, wo alte Fabriken neuem Leben eingehaucht wurden. Der Mittag gehört der Kultur im Bohusläns Museum, das direkt am Fluss liegt und einen tollen Einblick in die Region bietet. Am Nachmittag spazieren Sie auf der berühmten Strandpromenade, einem Holzsteg, der sich über das Wasser schlängelt und atemberaubende Ausblicke bietet. Den Abschluss bildet ein Besuch im einzigartigen Muschelbank-Museum, bevor Sie den Abend in der Stadt ausklingen lassen.",
         "hu": "Uddevallai napja a nyüzsgő Kungstorgeten, a város szívében kezdődik. Innen sétáljon el a történelmi templomhoz, hogy elmerüljön a helyi történelemben. Délelőtt fedezze fel Kampenhof ipari örökségét, ahol a régi gyárak új életre keltek. Az ebédidő a kultúráé a folyóparti Bohusläns Múzeumban, amely remek betekintést nyújt a régióba. Délután sétáljon a híres tengerparti sétányon, egy vízen kanyargó fa pallón, amely lélegzetelállító kilátást kínál. A napot a különleges Kagylópad Múzeum meglátogatásával zárja, mielőtt az estét a városban töltené.",
         "ro": "Ziua dvs. în Uddevalla începe în animata piață Kungstorget, inima orașului. De acolo, vă plimbați la biserica istorică pentru a vă cufunda în istoria locală. Dimineața explorați moștenirea industrială din Kampenhof, unde vechile fabrici au primit o nouă viață. Prânzul este dedicat culturii la Muzeul Bohusläns, situat chiar pe malul râului, oferind o perspectivă excelentă asupra regiunii. După-amiaza, vă plimbați pe faimoasa promenadă de pe plajă, o pasarelă din lemn care șerpuiește peste apă, oferind priveliști uimitoare. Ziua se încheie cu o vizită la unicul Muzeu al Bancului de Scoici, înainte de a vă bucura de seară în oraș.",
-        "en": "Your day in Uddevalla begins at the bustling Kungstorget, the heart of the city. From there, stroll to the historic church to immerse yourself in local history. In the morning, explore the industrial heritage of Kampenhof, where old factories have been given new life. Lunchtime is for culture at the Bohusläns Museum, located right by the river, offering great insight into the region. In the afternoon, walk along the famous Strandpromenaden, a wooden boardwalk winding over the water, offering breathtaking views. The day concludes with a visit to the unique Shell Bank Museum before you enjoy the evening in the city."
+        "en": "Your day in Uddevalla begins at the bustling Kungstorget, the heart of the city. From there, stroll to the historic church to immerse yourself in local history. In the morning, explore the industrial heritage of Kampenhof, where old factories have been given new life. Lunchtime is for culture at the Bohusläns Museum, located right by the river, offering great insight into the region. In the afternoon, walk along the famous Strandpromenaden, a wooden boardwalk winding over the water, offering breathtaking views. The day concludes with a visit to the unique Shell Bank Museum before you enjoy the evening in the city.",
+        "sv": "Din dag i Uddevalla börjar vid livliga Kungstorget, stadens hjärta. Därifrån promenera till den historiska kyrkan för att fördjupa dig i lokal historia. På förmiddagen utforska Kampenhofs industriarv, där gamla fabriker fått nytt liv. Lunchtid är för kultur på Bohusläns Museum, beläget vid ån, som ger god inblick i regionen. På eftermiddagen promenera längs berömda Strandpromenaden, en träponton över vattnet med storslagen utsikt. Dagen avslutas med ett besök på det unika Skalbanksmuseet innan du njuter av kvällen i staden."
       },
       "gastro_picks": {
         "de": [
@@ -361,6 +374,12 @@
           "The seaside promenade can be windy, so bring a light jacket.",
           "Check the opening hours of the museums in advance, especially outside the main season.",
           "Many cafes offer 'Fika', the Swedish coffee break with pastries – a must-try!"
+        ],
+        "sv": [
+          "Bär bekväma skor eftersom du kommer att gå större delen av dagen.",
+          "Strandpromenaden kan vara blåsig, ta med en lätt jacka.",
+          "Kontrollera museernas öppettider i förväg, särskilt utanför högsäsong.",
+          "Många kaféer erbjuder 'fika', den svenska kaffepausen med bakverk – måste provas!"
         ]
       },
       "variants": {
@@ -369,7 +388,8 @@
             "de": "Der Morgen beginnt auf dem regnerischen Kungstorget, wo die historischen Fassaden glänzen. Ein kurzer Spaziergang führt zur Kirche, die einen trockenen Rückzugsort bietet. Mittags ist das Bohusläns Museum der ideale Ort, um Stunden im Trockenen zu verbringen. Am Nachmittag trotzen wir dem Regen auf der Strandpromenaden, bevor das Skalbank-Museum den Tag informativ abrundet.",
             "hu": "A reggel az esős Kungstorgeten indul, ahol a vizes macskakövek tükrözik a várost. A templom csendes menedéket nyújt a zápor elől. Délben a Bohusläns Múzeum tágas terei tökéletesek a benti programhoz. Délután az esernyők alatt is lenyűgöző parti sétány következik, végül a különleges Kagylóbank Múzeum zárja a vizes kalandot az északi sziklák között.",
             "ro": "Dimineața începe în Kungstorget, unde ploaia face fațadele să strălucească. Biserica oferă un refugiu liniștit și uscat. La prânz, Muzeul Bohusläns este destinația ideală pentru a explora cultura locală fără a vă uda. După-amiaza, faimoasa promenadă pe stânci are un farmec dramatic sub nori, iar Muzeul Skalbank încheie ziua într-un mod fascinant.",
-            "en": "Morning starts at the rainy Kungstorget, where historic facades glisten in the wet. The church provides a quiet, dry sanctuary before heading to the Bohusläns Museum at noon, perfect for escaping the rain. In the afternoon, the dramatic boardwalk offers a misty coastal experience, followed by the unique Shell Bank Museum to conclude your indoor-outdoor exploration."
+            "en": "Morning starts at the rainy Kungstorget, where historic facades glisten in the wet. The church provides a quiet, dry sanctuary before heading to the Bohusläns Museum at noon, perfect for escaping the rain. In the afternoon, the dramatic boardwalk offers a misty coastal experience, followed by the unique Shell Bank Museum to conclude your indoor-outdoor exploration.",
+            "sv": "Morgonen börjar på regniga Kungstorget, där historiska fasader glittrar i blötan. Kyrkan ger en lugn, torr fristad innan du går till Bohusläns Museum vid middagstid, perfekt för att undkomma regnet. På eftermiddagen ger den dramatiska promenaden en dimmig kustupplevelse, följt av det unika Skalbanksmuseet för att avsluta din inomhus–utomhusupptäcktsfärd."
           },
           "stops": [
             {
@@ -378,7 +398,8 @@
                 "de": "Suchen Sie Schutz unter den Arkaden der umliegenden Cafés.",
                 "hu": "Keressen menedéket a környékbeli kávézók árkádjai alatt.",
                 "ro": "Căutați adăpost sub arcadele cafenelelor din jur.",
-                "en": "Seek shelter under the arcades of nearby cafes."
+                "en": "Seek shelter under the arcades of nearby cafes.",
+                "sv": "Sök skydd under kaféernas arkader i närheten."
               }
             },
             {
@@ -387,7 +408,8 @@
                 "de": "Nutzen Sie die Stille im Inneren, während es draußen regnet.",
                 "hu": "Élvezze a benti csendet, amíg odakint esik az eső.",
                 "ro": "Bucurați-vă de liniștea din interior în timp ce plouă afară.",
-                "en": "Enjoy the interior silence while it rains outside."
+                "en": "Enjoy the interior silence while it rains outside.",
+                "sv": "Njut av tystnaden inomhus medan det regnar utanför."
               }
             },
             {
@@ -396,7 +418,8 @@
                 "de": "Das Terminal bietet eine gute überdachte Wartezone.",
                 "hu": "A terminál jól fedett várakozási területet biztosít.",
                 "ro": "Terminalul oferă o zonă de așteptare bine acoperită.",
-                "en": "The terminal provides a well-covered waiting area."
+                "en": "The terminal provides a well-covered waiting area.",
+                "sv": "Terminalen erbjuder ett väl övertäckt väntutrymme."
               }
             },
             {
@@ -405,7 +428,8 @@
                 "de": "Das Café hier ist perfekt für eine längere Regenpause.",
                 "hu": "A múzeum kávézója ideális egy hosszabb esőszünetre.",
                 "ro": "Cafeneaua de aici este perfectă pentru o pauză lungă de ploaie.",
-                "en": "The museum cafe is perfect for a long rain break."
+                "en": "The museum cafe is perfect for a long rain break.",
+                "sv": "Museets kafé är perfekt för en lång regnpaus."
               }
             },
             {
@@ -414,7 +438,8 @@
                 "de": "Vorsicht, die Holzplanken können bei Nässe rutschig sein.",
                 "hu": "Vigyázat, a fapadlók nedvesen csúszósak lehetnek.",
                 "ro": "Atenție, scândurile de lemn pot fi alunecoase când sunt ude.",
-                "en": "Caution, the wooden planks can be slippery when wet."
+                "en": "Caution, the wooden planks can be slippery when wet.",
+                "sv": "Varning, träplankorna kan vara hala när de är våta."
               }
             },
             {
@@ -423,7 +448,8 @@
                 "de": "Die Ausstellungen im Innenbereich sind absolut regenfest.",
                 "hu": "A benti kiállítások teljesen esőbiztosak.",
                 "ro": "Expozițiile interioare sunt complet ferite de ploaie.",
-                "en": "The indoor exhibits are completely rain-proof."
+                "en": "The indoor exhibits are completely rain-proof.",
+                "sv": "De inomhusutställningarna är helt regnsäkra."
               }
             }
           ],
@@ -451,6 +477,12 @@
               "The boardwalk offers a mystical vibe in the rain, just watch your step.",
               "Use Bohusläns Museum as your main base during heavy downpours.",
               "City center pavements are generally safe and non-slip."
+            ],
+            "sv": [
+              "En rejäl regnrock är bättre än ett paraply på grund av fjordvindarna.",
+              "Promenaden får en mystisk stämning i regnet, men var försiktig med stegen.",
+              "Använd Bohusläns Museum som bas vid kraftiga skyfall.",
+              "Gångbanorna i centrum är i regel säkra och halkfria."
             ]
           }
         },
@@ -459,7 +491,8 @@
             "de": "Ein frostiger Morgen am Kungstorget führt uns zur beheizten Kirche. Im Bohusläns Museum wärmen wir uns mittags bei Kultur und heißem Kaffee auf. Da die Sonne früh untergeht, genießen wir das blaue Licht auf der winterlichen Strandpromenaden schon am frühen Nachmittag. Der Tag endet gemütlich im Skalbank-Museum, bevor die Dunkelheit die Stadt einhüllt.",
             "hu": "A fagyos reggel a Kungstorgeten indul, majd a fűtött templomban melegszünk fel. Délben a Bohusläns Múzeum tárlatai és egy forró kávé nyújtanak menedéket a hideg elől. Mivel korán sötétedik, a téli parti sétány kék fényeit már kora délután megcsodáljuk. A napot a Kagylóbank Múzeum zárja, mielőtt a téri éjszaka teljesen leszállna a városra.",
             "ro": "O dimineață geroasă în Kungstorget ne îndreaptă spre căldura bisericii. La prânz, ne încălzim la Muzeul Bohusläns cu artă și o cafea fierbinte. Deoarece soarele apune devreme, admirăm lumina albastră de pe promenada înghețată încă de la prânz. Ziua se încheie confortabil la Muzeul Skalbank, înainte ca întunericul să cuprindă orașul.",
-            "en": "A frosty morning at Kungstorget leads us to the warmth of the church. At noon, we warm up at Bohusläns Museum with culture and hot coffee. As the sun sets early, we enjoy the blue hour on the wintry boardwalk in the early afternoon. The day ends cozily at the Shell Bank Museum before total darkness covers the Swedish coast."
+            "en": "A frosty morning at Kungstorget leads us to the warmth of the church. At noon, we warm up at Bohusläns Museum with culture and hot coffee. As the sun sets early, we enjoy the blue hour on the wintry boardwalk in the early afternoon. The day ends cozily at the Shell Bank Museum before total darkness covers the Swedish coast.",
+            "sv": "En frostig morgon på Kungstorget leder oss till kyrkans värme. Vid middagstid värmer vi oss på Bohusläns Museum med kultur och varmt kaffe. Eftersom solen går ner tidigt njuter vi av den blå timmen på den vinterkalla promenaden tidig eftermiddag. Dagen avslutas mysigt på Skalbanksmuseet innan totalt mörker täcker den svenska kusten."
           },
           "stops": [
             {
@@ -468,7 +501,8 @@
                 "de": "Oft gibt es hier im Winter einen kleinen Markt oder Lichter.",
                 "hu": "Télen gyakran van itt kisméretű vásár vagy díszkivilágítás.",
                 "ro": "Iarna, aici se găsesc adesea mici piețe sau decorațiuni luminoase.",
-                "en": "Often there's a small winter market or lights here."
+                "en": "Often there's a small winter market or lights here.",
+                "sv": "Ofta finns här en liten vintermarknad eller belysning."
               }
             },
             {
@@ -477,7 +511,8 @@
                 "de": "Ein herrlich warmer Ort, um kurz zur Ruhe zu kommen.",
                 "hu": "Kiválóan fűtött hely egy rövid pihenőhöz a hidegben.",
                 "ro": "Un loc minunat de cald pentru a te odihni scurt.",
-                "en": "A wonderfully warm place to rest for a moment."
+                "en": "A wonderfully warm place to rest for a moment.",
+                "sv": "En underbart varm plats att vila en stund på."
               }
             },
             {
@@ -486,7 +521,8 @@
                 "de": "Warten Sie im beheizten Wartebereich des Terminals.",
                 "hu": "Várjon a buszpályaudvar fűtött várótermében.",
                 "ro": "Așteptați în zona de așteptare încălzită a terminalului.",
-                "en": "Wait in the heated waiting area of the terminal."
+                "en": "Wait in the heated waiting area of the terminal.",
+                "sv": "Vänta i terminalens uppvärmda väntutrymme."
               }
             },
             {
@@ -495,7 +531,8 @@
                 "de": "Hinterlassen Sie schwere Mäntel sicher an der Garderobe.",
                 "hu": "A nehéz kabátokat hagyja a biztonságos ruhatárban.",
                 "ro": "Lăsați hainele groase la garderoba securizată.",
-                "en": "Leave heavy coats safely at the cloakroom."
+                "en": "Leave heavy coats safely at the cloakroom.",
+                "sv": "Lämna tunga kappor säkert i garderoben."
               }
             },
             {
@@ -504,7 +541,8 @@
                 "de": "Vorsicht vor Glatteis; die Sonne geht gegen 15:30 Uhr unter.",
                 "hu": "Vigyázzon a jéggel; a nap már 15:30 körül lemegy.",
                 "ro": "Atenție la gheață; soarele apune în jur de 15:30.",
-                "en": "Watch out for black ice; the sun sets around 15:30."
+                "en": "Watch out for black ice; the sun sets around 15:30.",
+                "sv": "Se upp för svartis; solen går ner omkring 15:30."
               }
             },
             {
@@ -513,7 +551,8 @@
                 "de": "Prüfen Sie die Winteröffnungszeiten vor Ihrem Besuch.",
                 "hu": "Látogatás előtt ellenőrizze a téli nyitvatartást.",
                 "ro": "Verificați programul de iarnă înainte de vizită.",
-                "en": "Check winter opening hours before your visit."
+                "en": "Check winter opening hours before your visit.",
+                "sv": "Kontrollera vinteröppettider innan ditt besök."
               }
             }
           ],
@@ -541,6 +580,12 @@
               "The sun sets very early, plan outdoor visits before 15:00.",
               "The wooden boardwalk can be extremely slippery during frost.",
               "Utilize cozy cafes for regular warm-up breaks."
+            ],
+            "sv": [
+              "Lager-på-lager-klädsel är ett måste mot den svenska vintervinden.",
+              "Solen går ner mycket tidigt, planera utomhusbesök före 15:00.",
+              "Träponton kan vara extremt hala vid frost.",
+              "Utnyttja mysiga kaféer för regelbundna värmepauser."
             ]
           }
         }
@@ -559,7 +604,8 @@
             "de": "Kungstorget",
             "hu": "Kungstorget (Királyi tér)",
             "ro": "Kungstorget (Piața Regelui)",
-            "en": "Kungstorget (King's Square)"
+            "en": "Kungstorget (King's Square)",
+            "sv": "Kungstorget (King's Square)"
           },
           "coords": [
             11.9425,
@@ -575,7 +621,8 @@
             "de": "Perfekter Treffpunkt und um das Fahrrad für den Tag vorzubereiten.",
             "hu": "Tökéletes találkozóhely, és itt készítheti fel a kerékpárt a napra.",
             "ro": "Punct de întâlnire perfect și pentru a vă pregăti bicicleta pentru ziua respectivă.",
-            "en": "Perfect meeting point and to get your bike ready for the day."
+            "en": "Perfect meeting point and to get your bike ready for the day.",
+            "sv": "Perfekt mötesplats och för att förbereda din cykel för dagen."
           }
         },
         {
@@ -583,7 +630,8 @@
             "de": "Bohusläns Museum",
             "hu": "Bohusläns Múzeum",
             "ro": "Muzeul Bohusläns",
-            "en": "Bohusläns Museum"
+            "en": "Bohusläns Museum",
+            "sv": "Bohusläns Museum"
           },
           "coords": [
             11.9325,
@@ -599,7 +647,8 @@
             "de": "Stellen Sie Ihr Fahrrad sicher ab und tauchen Sie in die Küstenkultur ein.",
             "hu": "Zárja le biztonságosan a kerékpárját, és merüljön el a tengerparti kultúrában.",
             "ro": "Parcați-vă bicicleta în siguranță și scufundați-vă în cultura de coastă.",
-            "en": "Park your bike securely and dive into the coastal culture."
+            "en": "Park your bike securely and dive into the coastal culture.",
+            "sv": "Parkera cykeln säkert och fördjupa dig i kustkulturen."
           }
         },
         {
@@ -607,7 +656,8 @@
             "de": "Strandpromenade Uddevalla",
             "hu": "Uddevallai tengerparti sétány",
             "ro": "Promenada de pe plajă Uddevalla",
-            "en": "Strandpromenaden Uddevalla"
+            "en": "Strandpromenaden Uddevalla",
+            "sv": "Strandpromenaden Uddevalla"
           },
           "coords": [
             11.928,
@@ -623,7 +673,8 @@
             "de": "Fahren Sie langsam auf dem Holzsteg und genießen Sie die Meeresbrise.",
             "hu": "Tekerjen lassan a fapallón, és élvezze a tengeri szellőt.",
             "ro": "Pedalați încet pe pasarela de lemn și bucurați-vă de briza mării.",
-            "en": "Cycle slowly on the wooden boardwalk and enjoy the sea breeze."
+            "en": "Cycle slowly on the wooden boardwalk and enjoy the sea breeze.",
+            "sv": "Cykla sakta på träpromenaden och njut av havsbrisen."
           }
         },
         {
@@ -631,7 +682,8 @@
             "de": "Gustafsberg",
             "hu": "Gustafsberg",
             "ro": "Gustafsberg",
-            "en": "Gustafsberg"
+            "en": "Gustafsberg",
+            "sv": "Gustafsberg"
           },
           "coords": [
             11.901,
@@ -647,7 +699,8 @@
             "de": "Ein idealer Ort für eine längere Mittagspause in historischer Umgebung.",
             "hu": "Ideális hely egy hosszabb ebédszünetre történelmi környezetben.",
             "ro": "Un loc ideal pentru o pauză de prânz mai lungă într-un cadru istoric.",
-            "en": "An ideal spot for a longer lunch break in a historic setting."
+            "en": "An ideal spot for a longer lunch break in a historic setting.",
+            "sv": "En idealisk plats för en längre lunchpaus i historisk miljö."
           }
         },
         {
@@ -655,7 +708,8 @@
             "de": "Kirche von Uddevalla",
             "hu": "Uddevalla temploma",
             "ro": "Biserica din Uddevalla",
-            "en": "Uddevalla Church"
+            "en": "Uddevalla Church",
+            "sv": "Uddevalla kyrka"
           },
           "coords": [
             11.94,
@@ -671,7 +725,8 @@
             "de": "Beenden Sie Ihre Radtour mit einem Moment der Besinnung in diesem ruhigen Gotteshaus.",
             "hu": "Zárja a kerékpártúrát egy csendes elmélyüléssel ebben a békés templomban.",
             "ro": "Încheiați turul cu bicicleta cu un moment de reflecție în acest lăcaș de cult liniștit.",
-            "en": "End your bike tour with a moment of reflection in this peaceful house of worship."
+            "en": "End your bike tour with a moment of reflection in this peaceful house of worship.",
+            "sv": "Avsluta cykelturen med en stund av eftertanke i detta fridfulla gudshus."
           }
         }
       ],
@@ -679,7 +734,8 @@
         "de": "Schwingen Sie sich in Uddevalla aufs Rad und starten Sie am Kungstorget. Ihre erste Etappe führt Sie zum faszinierenden Bohusläns Museum, wo Sie die reiche Geschichte der Küste entdecken. Gegen Mittag radeln Sie die berühmte Strandpromenade entlang, ein einzigartiges Erlebnis auf Holzplanken über dem Wasser. Der Höhepunkt des Tages ist die Fahrt zum historischen Badeort Gustafsberg. Hier können Sie eine lange Mittagspause einlegen, durch den Park schlendern und die alten Villen bewundern. Auf dem Rückweg ins Zentrum legen Sie einen letzten Halt an der ehrwürdigen Kirche von Uddevalla ein, ein perfekter, ruhiger Abschluss für einen aktiven Tag.",
         "hu": "Pattanjon kerékpárra Uddevallában, és induljon a Kungstorgetről. Az első szakasz a lenyűgöző Bohusläns Múzeumhoz vezet, ahol felfedezheti a partvidék gazdag történelmét. Dél körül tekerjen végig a híres tengerparti sétányon, ami egyedülálló élmény a víz feletti fapallókon. A nap fénypontja a történelmi Gustafsberg üdülőhelyre vezető út. Itt tarthat egy hosszú ebédszünetet, sétálhat a parkban, és megcsodálhatja a régi villákat. A központ felé visszaúton tegyen egy utolsó megállót a tiszteletreméltó uddevallai templomnál, amely tökéletes, békés lezárása egy aktív napnak.",
         "ro": "Urcați-vă pe bicicletă în Uddevalla și porniți din Kungstorget. Prima etapă vă duce la fascinantul Muzeu Bohusläns, unde veți descoperi istoria bogată a coastei. În jurul prânzului, pedalați de-a lungul faimoasei promenade de pe plajă, o experiență unică pe scânduri de lemn deasupra apei. Punctul culminant al zilei este excursia la stațiunea istorică Gustafsberg. Aici puteți lua o pauză lungă de prânz, vă puteți plimba prin parc și admira vilele vechi. Pe drumul de întoarcere spre centru, faceți o ultimă oprire la venerabila Biserică din Uddevalla, o încheiere perfectă și liniștită pentru o zi activă.",
-        "en": "Hop on your bike in Uddevalla and start from Kungstorget. Your first leg takes you to the fascinating Bohusläns Museum, where you'll discover the rich history of the coast. Around noon, you'll cycle along the famous Strandpromenaden, a unique experience on wooden planks over the water. The highlight of the day is the ride to the historic seaside resort of Gustafsberg. Here you can take a long lunch break, stroll through the park, and admire the old villas. On your way back to the center, make a final stop at the venerable Uddevalla Church, a perfect, peaceful end to an active day."
+        "en": "Hop on your bike in Uddevalla and start from Kungstorget. Your first leg takes you to the fascinating Bohusläns Museum, where you'll discover the rich history of the coast. Around noon, you'll cycle along the famous Strandpromenaden, a unique experience on wooden planks over the water. The highlight of the day is the ride to the historic seaside resort of Gustafsberg. Here you can take a long lunch break, stroll through the park, and admire the old villas. On your way back to the center, make a final stop at the venerable Uddevalla Church, a perfect, peaceful end to an active day.",
+        "sv": "Hoppa upp på cykeln i Uddevalla och börja vid Kungstorget. Första etappen tar dig till fascinerande Bohusläns Museum, där du upptäcker kustområdets rika historia. Vid lunchtid cyklar du längs berömda Strandpromenaden, en unik upplevelse på träplankor över vattnet. Dagens höjdpunkt är turen till det historiska badortsområdet Gustafsberg. Här kan du ta en lång lunchpaus, promenera i parken och beundra de gamla villorna. På vägen tillbaka till centrum stanna vid den anrika Uddevalla kyrka, en perfekt, stillsam avslutning på en aktiv dag."
       },
       "gastro_picks": {
         "de": [
@@ -875,6 +931,12 @@
           "Wear a helmet and use lights, especially if you're out in the late afternoon.",
           "The route to Gustafsberg is very scenic and mostly follows the waterfront.",
           "Pack water and snacks, especially for the longer ride."
+        ],
+        "sv": [
+          "Hyr en cykel med flera växlar då det finns några lättare backar.",
+          "Bär hjälm och använd lampor, särskilt om du är ute sent på eftermiddagen.",
+          "Rutten till Gustafsberg är mycket naturskön och följer mestadels strandlinjen.",
+          "Packa vatten och snacks, särskilt för den längre turen."
         ]
       },
       "variants": {
@@ -883,7 +945,8 @@
             "de": "Trotz Regen starten wir am Kungstorget. Die Fahrt zum Bohusläns Museum ist kurz und führt schnell ins Trockene. Am Nachmittag radeln wir vorsichtig über die nasse Strandpromenaden zum historischen Gustafsberg, wo die alten Gebäude im Regen besonders nostalgisch wirken. Der Tag endet an der schützenden Kirche im Stadtzentrum.",
             "hu": "Az eső ellenére a Kungstorgetről indulunk. A tekerés a Bohusläns Múzeumig rövid, így hamar fedett helyre érünk. Délután óvatosan biciklizünk a vizes parti sétányon Gustafsberg felé, ahol a régi épületek nosztalgikusak az esőben. A napot a belvárosi templom védelmében fejezzük be.",
             "ro": "În ciuda ploii, pornim de la Kungstorget. Drumul spre Muzeul Bohusläns este scurt, ajungând rapid la adăpost. După-amiaza pedalăm cu grijă pe promenada umedă spre Gustafsberg, unde clădirile vechi par nostalgice prin ploaie. Ziua se încheie la biserica protectoare din centrul orașului.",
-            "en": "Despite the rain, we start at Kungstorget. The ride to Bohusläns Museum is short, getting you indoors quickly. In the afternoon, cycle carefully along the wet boardwalk to historic Gustafsberg, where old villas look nostalgic in the mist. The day concludes back at the sheltering city church."
+            "en": "Despite the rain, we start at Kungstorget. The ride to Bohusläns Museum is short, getting you indoors quickly. In the afternoon, cycle carefully along the wet boardwalk to historic Gustafsberg, where old villas look nostalgic in the mist. The day concludes back at the sheltering city church.",
+            "sv": "Trots regnet börjar vi vid Kungstorget. Sträckan till Bohusläns Museum är kort, vilket tar dig snabbt inomhus. På eftermiddagen cykla försiktigt längs den våta promenaden till historiska Gustafsberg, där gamla villor ser nostalgiska ut i dimman. Dagen avslutas tillbaka vid den skyddande stadskyrkan."
           },
           "stops": [
             {
@@ -892,7 +955,8 @@
                 "de": "Starten Sie mit voll funktionsfähigen Schutzblechen.",
                 "hu": "Csak jól működő sárvédőkkel vágjon neki az útnak.",
                 "ro": "Porniți la drum cu apărători de noroi complet funcționale.",
-                "en": "Start with fully functional mudguards."
+                "en": "Start with fully functional mudguards.",
+                "sv": "Börja med fullt fungerande stänkskärmar."
               }
             },
             {
@@ -901,7 +965,8 @@
                 "de": "Überdachte Fahrradständer befinden sich in der Nähe des Eingangs.",
                 "hu": "Fedett biciklitárolók találhatók a bejárat közelében.",
                 "ro": "Suporturile de biciclete acoperite sunt aproape de intrare.",
-                "en": "Covered bike racks are located near the entrance."
+                "en": "Covered bike racks are located near the entrance.",
+                "sv": "Överbyggda cykelställ finns vid entrén."
               }
             },
             {
@@ -910,7 +975,8 @@
                 "de": "Fahren Sie langsam; Holzoberflächen sind bei Nässe tückisch.",
                 "hu": "Hajtson lassan; a fafelületek nedvesen csalókák.",
                 "ro": "Pedalați încet; suprafețele de lemn sunt înșelătoare pe ploaie.",
-                "en": "Ride slowly; wooden surfaces are treacherous when wet."
+                "en": "Ride slowly; wooden surfaces are treacherous when wet.",
+                "sv": "Cykla långsamt; träytor är förrädiska när de är våta."
               }
             },
             {
@@ -919,7 +985,8 @@
                 "de": "Das Café Snäckan bietet einen trockenen Platz für eine Pause.",
                 "hu": "A Snäckan kávézó száraz helyet kínál a pihenéshez.",
                 "ro": "Cafeneaua Snäckan oferă un loc uscat pentru o pauză.",
-                "en": "Snäckan cafe offers a dry spot for a break."
+                "en": "Snäckan cafe offers a dry spot for a break.",
+                "sv": "Kafeet Snäckan erbjuder en torr plats för en paus."
               }
             },
             {
@@ -928,7 +995,8 @@
                 "de": "Ein ruhiger Ort, um die Fahrt trocken zu beenden.",
                 "hu": "Csendes hely az út száraz befejezéséhez.",
                 "ro": "Un loc liniștit pentru a încheia traseul la uscat.",
-                "en": "A quiet place to end your ride in the dry."
+                "en": "A quiet place to end your ride in the dry.",
+                "sv": "En lugn plats att avsluta din tur på i torrt."
               }
             }
           ],
@@ -956,6 +1024,12 @@
               "Avoid sharp braking on the wet wooden planks of the boardwalk.",
               "Check that your lights work in the gloomy rain.",
               "A saddle cover keeps your seat dry during museum visits."
+            ],
+            "sv": [
+              "Bär vattentät klädsel och handskar.",
+              "Undvik kraftig inbromsning på de våta träplankorna på promenaden.",
+              "Kontrollera att dina lampor fungerar i det dunkla regnet.",
+              "Ett sadelöverdrag håller sadeln torr under museibesök."
             ]
           }
         },
@@ -964,7 +1038,8 @@
             "de": "Ein kühler Start am Kungstorget erfordert warme Schichten. Wir radeln zügig zum Bohusläns Museum, um uns aufzuwärmen. Die winterliche Fahrt entlang des Fjords zur Strandpromenaden bietet klare Luft und Eisformationen an den Felsen. Vor Sonnenuntergang erreichen wir Gustafsberg, bevor wir im Dämmerlicht zur Kirche zurückkehren.",
             "hu": "A hűvös kezdés a Kungstorgeten réteges öltözetet kíván. Gyorsan a Bohusläns Múzeumhoz tekerünk, hogy felmelegedjünk. A téli biciklizés a fjord mentén tiszta levegőt és jeges sziklákat ígér a parti sétányon. Naplemente előtt elérjük Gustafsberget, majd szürkületben térünk vissza a templomhoz.",
             "ro": "Un început răcoros în Kungstorget necesită haine groase. Pedalăm rapid spre Muzeul Bohusläns pentru a ne încălzi. Drumul hibernal de-a lungul fjordului oferă aer curat și formațiuni de gheață pe stânci. Înainte de apus ajungem la Gustafsberg, revenind la biserică în amurg.",
-            "en": "A chilly start at Kungstorget requires warm layers. We cycle briskly to Bohusläns Museum to warm up. The winter ride along the fjord offers crisp air and ice formations on the rocks. We reach Gustafsberg before sunset, then return to the church as twilight settles over Uddevalla."
+            "en": "A chilly start at Kungstorget requires warm layers. We cycle briskly to Bohusläns Museum to warm up. The winter ride along the fjord offers crisp air and ice formations on the rocks. We reach Gustafsberg before sunset, then return to the church as twilight settles over Uddevalla.",
+            "sv": "En kylig start på Kungstorget kräver varma lager. Vi cyklar raskt till Bohusläns Museum för att värma oss. Vinterns färd längs fjorden bjuder på krispig luft och isformationer på klipporna. Vi når Gustafsberg före solnedgången och återvänder sedan till kyrkan när skymningen lägger sig över Uddevalla."
           },
           "stops": [
             {
@@ -973,7 +1048,8 @@
                 "de": "Achten Sie auf gestreute Wege gegen Glätte.",
                 "hu": "Figyeljen a felszórt utakra a csúszásveszély miatt.",
                 "ro": "Fiți atenți la drumurile presărate cu nisip împotriva poleiului.",
-                "en": "Watch for gritted paths to avoid slipping."
+                "en": "Watch for gritted paths to avoid slipping.",
+                "sv": "Håll utkik efter sandade gångvägar för att undvika halka."
               }
             },
             {
@@ -982,7 +1058,8 @@
                 "de": "Tauausrüstung und warme Getränke gibt es im Museumsshop.",
                 "hu": "Meleg italok és pihenő várja a múzeumban.",
                 "ro": "Băuturi calde și un loc de odihnă vă așteaptă în muzeu.",
-                "en": "Warm drinks and a rest stop await in the museum."
+                "en": "Warm drinks and a rest stop await in the museum.",
+                "sv": "Varma drycker och en vilopaus väntar i museet."
               }
             },
             {
@@ -991,7 +1068,8 @@
                 "de": "Bei Eis ist das Befahren der Holzpromenade untersagt.",
                 "hu": "Jegesedés esetén a fa sétányon tilos a biciklizés.",
                 "ro": "În caz de îngheț, mersul cu bicicleta pe promenadă este interzis.",
-                "en": "Cycling on the boardwalk is prohibited if icy."
+                "en": "Cycling on the boardwalk is prohibited if icy.",
+                "sv": "Cykling på promenaden är förbjuden om det är isigt."
               }
             },
             {
@@ -1000,7 +1078,8 @@
                 "de": "Die gefrorene Bucht bietet eine malerische Kulisse.",
                 "hu": "A befagyott öböl festői hátteret nyújt a pihenőhöz.",
                 "ro": "Golful înghețat oferă un cadru pitoresc pentru popas.",
-                "en": "The frozen bay offers a picturesque backdrop for a rest."
+                "en": "The frozen bay offers a picturesque backdrop for a rest.",
+                "sv": "Den frusna viken ger en pittoresk bakgrund för en vilopaus."
               }
             },
             {
@@ -1009,7 +1088,8 @@
                 "de": "Die Abendbeleuchtung der Kirche ist im Winter sehr schön.",
                 "hu": "A templom esti kivilágítása télen különösen szép.",
                 "ro": "Iluminatul de seară al bisericii este superb iarna.",
-                "en": "The church's evening lighting is very beautiful in winter."
+                "en": "The church's evening lighting is very beautiful in winter.",
+                "sv": "Kyrkans kvällsbelysning är mycket vacker på vintern."
               }
             }
           ],
@@ -1037,6 +1117,12 @@
               "The sun sets early; good lighting is essential for safety.",
               "Protect your face from the icy fjord winds.",
               "The wooden boardwalk can develop treacherous black ice."
+            ],
+            "sv": [
+              "Dubbdäck rekommenderas starkt för is och snö i Sverige.",
+              "Solen går ner tidigt; bra belysning är viktig för säkerheten.",
+              "Skydda ansiktet från de isiga fjordvindarna.",
+              "Den träbelagda gångbanan kan få förrädisk svartis."
             ]
           }
         }
@@ -1055,7 +1141,8 @@
             "de": "Parkplatz Zentrum & Kungstorget",
             "hu": "Parkoló a központban és Kungstorget",
             "ro": "Parcare centrală și Kungstorget",
-            "en": "City Center Parking & Kungstorget"
+            "en": "City Center Parking & Kungstorget",
+            "sv": "City Center Parking & Kungstorget"
           },
           "coords": [
             11.944,
@@ -1071,7 +1158,8 @@
             "de": "Parken Sie zentral und beginnen Sie Ihre Erkundung zu Fuß am Hauptplatz.",
             "hu": "Parkoljon a központban, és kezdje a felfedezést gyalog a főtérről.",
             "ro": "Parcați în centru și începeți explorarea pe jos din piața principală.",
-            "en": "Park centrally and start your exploration on foot from the main square."
+            "en": "Park centrally and start your exploration on foot from the main square.",
+            "sv": "Parkera centralt och börja utforska till fots från huvudtorget."
           }
         },
         {
@@ -1079,7 +1167,8 @@
             "de": "Kirche von Uddevalla",
             "hu": "Uddevalla temploma",
             "ro": "Biserica din Uddevalla",
-            "en": "Uddevalla Church"
+            "en": "Uddevalla Church",
+            "sv": "Uddevalla kyrka"
           },
           "coords": [
             11.94,
@@ -1095,7 +1184,8 @@
             "de": "Ein kurzer Spaziergang vom Platz, um die Ruhe der Kirche zu genießen.",
             "hu": "Egy rövid séta a térről, hogy élvezze a templom nyugalmát.",
             "ro": "O scurtă plimbare din piață pentru a vă bucura de liniștea bisericii.",
-            "en": "A short walk from the square to enjoy the tranquility of the church."
+            "en": "A short walk from the square to enjoy the tranquility of the church.",
+            "sv": "En kort promenad från torget för att njuta av kyrkans lugn."
           }
         },
         {
@@ -1103,7 +1193,8 @@
             "de": "Bohusläns Museum",
             "hu": "Bohusläns Múzeum",
             "ro": "Muzeul Bohusläns",
-            "en": "Bohusläns Museum"
+            "en": "Bohusläns Museum",
+            "sv": "Bohusläns museum"
           },
           "coords": [
             11.9325,
@@ -1119,7 +1210,8 @@
             "de": "Ein schöner Spaziergang entlang des Flusses vom ersten Cluster zum Museum.",
             "hu": "Kellemes séta a folyó mentén az első klasztertől a múzeumig.",
             "ro": "O plimbare plăcută de-a lungul râului de la primul grup la muzeu.",
-            "en": "A nice walk along the river from the first cluster to the museum."
+            "en": "A nice walk along the river from the first cluster to the museum.",
+            "sv": "En trevlig promenad längs ån från den första klustern till museet."
           }
         },
         {
@@ -1127,7 +1219,8 @@
             "de": "Gustafsberg Parkplatz & Erkundung",
             "hu": "Gustafsberg Parkoló és Felfedezés",
             "ro": "Parcare și Explorare Gustafsberg",
-            "en": "Gustafsberg Parking & Exploration"
+            "en": "Gustafsberg Parking & Exploration",
+            "sv": "Gustafsberg Parking & Exploration"
           },
           "coords": [
             11.902,
@@ -1143,7 +1236,8 @@
             "de": "Fahren Sie nach Gustafsberg, parken Sie dort und erkunden Sie den historischen Badeort zu Fuß. Ideal für ein Mittagessen.",
             "hu": "Vezessen el Gustafsbergbe, parkoljon le, és fedezze fel gyalog a történelmi fürdőhelyet. Ideális ebédre.",
             "ro": "Conduceți la Gustafsberg, parcați și explorați stațiunea balneară istorică pe jos. Ideal pentru prânz.",
-            "en": "Drive to Gustafsberg, park, and explore the historic seaside resort on foot. Ideal for lunch."
+            "en": "Drive to Gustafsberg, park, and explore the historic seaside resort on foot. Ideal for lunch.",
+            "sv": "Kör till Gustafsberg, parkera och utforska den historiska badorten till fots. Perfekt för lunch."
           }
         },
         {
@@ -1151,7 +1245,8 @@
             "de": "Bredfjället Aussichtspunkt",
             "hu": "Bredfjället kilátó",
             "ro": "Punct de belvedere Bredfjället",
-            "en": "Bredfjället Viewpoint"
+            "en": "Bredfjället Viewpoint",
+            "sv": "Bredfjället utsiktsplats"
           },
           "coords": [
             12.05,
@@ -1167,7 +1262,8 @@
             "de": "Eine Fahrt ins Landesinnere zu diesem Naturreservat bietet eine atemberaubende Aussicht.",
             "hu": "Egy út a szárazföld belsejébe ehhez a természetvédelmi területhez lélegzetelállító kilátást nyújt.",
             "ro": "O călătorie în interiorul țării către această rezervație naturală oferă priveliști uimitoare.",
-            "en": "A drive inland to this nature reserve offers breathtaking views."
+            "en": "A drive inland to this nature reserve offers breathtaking views.",
+            "sv": "En tur inåt land till naturreservatet bjuder på hisnande vyer."
           }
         },
         {
@@ -1175,7 +1271,8 @@
             "de": "Abendessen in der Innenstadt",
             "hu": "Vacsora a belvárosban",
             "ro": "Cină în centrul orașului",
-            "en": "Dinner in the City Center"
+            "en": "Dinner in the City Center",
+            "sv": "Middag i stadens centrum"
           },
           "coords": [
             11.9421,
@@ -1191,7 +1288,8 @@
             "de": "Kehren Sie ins Zentrum zurück, um den Tag mit einem gemütlichen Abendessen ausklingen zu lassen.",
             "hu": "Térjen vissza a központba, hogy egy kellemes vacsorával zárja a napot.",
             "ro": "Întoarceți-vă în centru pentru a încheia ziua cu o cină relaxantă.",
-            "en": "Return to the city center to end the day with a relaxing dinner."
+            "en": "Return to the city center to end the day with a relaxing dinner.",
+            "sv": "Återvänd till stadskärnan för att avsluta dagen med en avkopplande middag."
           }
         }
       ],
@@ -1199,7 +1297,8 @@
         "de": "Ihr Autotag in Uddevalla folgt einer Cluster-Strategie. Parken Sie Ihr Auto im Zentrum und erkunden Sie den ersten Cluster zu Fuß: den Kungstorget, die Kirche und das Bohusläns Museum. Genießen Sie die Stadtatmosphäre und ein Mittagessen am Fluss. Am Nachmittag fahren Sie zum zweiten Cluster, dem historischen Gustafsberg. Parken Sie erneut und spazieren Sie durch Schwedens ältesten Badeort, genießen Sie die alten Villen und die Meeresluft. Der letzte Teil Ihrer Reise führt Sie landeinwärts zum Naturreservat Bredfjället. Eine kurze Fahrt belohnt Sie mit spektakulären Ausblicken über die Landschaft von Bohuslän, bevor Sie für ein wohlverdientes Abendessen ins Stadtzentrum zurückkehren.",
         "hu": "Uddevallai autós napja egy klaszter-stratégiát követ. Parkolja le az autót a központban, és fedezze fel gyalog az első klasztert: a Kungstorgetet, a templomot és a Bohusläns Múzeumot. Élvezze a városi hangulatot és egy ebédet a folyóparton. Délután vezessen a második klaszterhez, a történelmi Gustafsberghez. Parkoljon le ismét, és sétáljon végig Svédország legrégebbi tengerparti üdülőhelyén, élvezve a régi villákat és a tengeri levegőt. Útja utolsó szakasza a szárazföld belsejébe, a Bredfjället természetvédelmi területre vezet. Egy rövid autóút látványos kilátással jutalmazza Bohuslän tájára, mielőtt visszatérne a városközpontba egy jól megérdemelt vacsorára.",
         "ro": "Ziua dvs. cu mașina în Uddevalla urmează o strategie de grupuri. Parcați mașina în centru și explorați primul grup pe jos: Kungstorget, biserica și Muzeul Bohusläns. Bucurați-vă de atmosfera orașului și de un prânz lângă râu. După-amiaza, conduceți spre al doilea grup, istoricul Gustafsberg. Parcați din nou și plimbați-vă prin cea mai veche stațiune balneară din Suedia, bucurându-vă de vilele vechi și de aerul mării. Ultima parte a călătoriei vă duce în interiorul țării, la rezervația naturală Bredfjället. O scurtă călătorie cu mașina vă recompensează cu vederi spectaculoase asupra peisajului din Bohuslän, înainte de a vă întoarce în centrul orașului pentru o cină binemeritată.",
-        "en": "Your car day in Uddevalla follows a cluster strategy. Park your car in the center and explore the first cluster on foot: Kungstorget, the church, and the Bohusläns Museum. Enjoy the city atmosphere and lunch by the river. In the afternoon, drive to the second cluster, the historic Gustafsberg. Park again and stroll through Sweden's oldest seaside resort, enjoying the old villas and sea air. The final leg of your journey takes you inland to the Bredfjället nature reserve. A short drive rewards you with spectacular views over the Bohuslän landscape before you return to the city center for a well-deserved dinner."
+        "en": "Your car day in Uddevalla follows a cluster strategy. Park your car in the center and explore the first cluster on foot: Kungstorget, the church, and the Bohusläns Museum. Enjoy the city atmosphere and lunch by the river. In the afternoon, drive to the second cluster, the historic Gustafsberg. Park again and stroll through Sweden's oldest seaside resort, enjoying the old villas and sea air. The final leg of your journey takes you inland to the Bredfjället nature reserve. A short drive rewards you with spectacular views over the Bohuslän landscape before you return to the city center for a well-deserved dinner.",
+        "sv": "Din bilutflykt i Uddevalla följer en klusterstrategi. Parkera i centrum och utforska första klustret till fots: Kungstorget, kyrkan och Bohusläns museum. Njut av stadens atmosfär och lunch vid ån. På eftermiddagen kör du till det andra klustret, historiska Gustafsberg. Parkera igen och promenera genom Sveriges äldsta badort, njut av villorna och havsluften. Sista etappen tar dig inåt land till Bredfjället naturreservat. En kort bilfärd belönar dig med spektakulära vyer över Bohuslän innan du återvänder till centrum för en välförtjänt middag."
       },
       "gastro_picks": {
         "de": [
@@ -1395,6 +1494,12 @@
           "The roads to Bredfjället can be narrow, so drive carefully.",
           "A GPS is useful for finding the different locations.",
           "The cluster strategy saves time on parking searches and lets you soak up the atmosphere of the places better."
+        ],
+        "sv": [
+          "Tänk på parkeringsavgifter i centrum; en del platser har tidsbegränsning.",
+          "Vägarna till Bredfjället kan vara smala, så kör försiktigt.",
+          "En GPS är användbar för att hitta de olika platserna.",
+          "Klustermetoden sparar tid vid parkering och låter dig ta in platsens atmosfär bättre."
         ]
       },
       "variants": {
@@ -1403,7 +1508,8 @@
             "de": "Wir parken bequem im Zentrum und erkunden den Kungstorget im Schutz von Regenschirmen. Die Fahrt zur nahen Kirche bleibt trocken, gefolgt von einem ausgiebigen Besuch im Bohusläns Museum. Nachmittags fahren wir zum Gustafsberg und genießen den Blick auf den stürmischen Fjord vom Auto aus, bevor wir am Bredfjället die Natur erleben und den Tag beim Abendessen ausklingen lassen.",
             "hu": "Kényelmesen parkolunk a központban, és esernyőkkel fedezzük fel a Kungstorgetet. A templomhoz vezető út rövid és száraz marad az autóban, majd következik a Bohusläns Múzeum. Délután Gustafsberg felé autózunk, a kocsiból csodálva a viharos fjordot, majd a Bredfjället kilátópontja után egy kellemes vacsorával zárjuk a napot a városban.",
             "ro": "Parcăm confortabil în centru și explorăm Kungstorget sub umbrele. Drumul spre biserică este scurt și uscat în mașină, urmat de o vizită lungă la Muzeul Bohusläns. După-amiaza conducem spre Gustafsberg, admirând fjordul furtunos din mașină, apoi vizităm Bredfjället și încheiem ziua cu o cină caldă în oraș.",
-            "en": "We park conveniently in the center and explore Kungstorget with umbrellas. The drive to the church stays dry, followed by an extensive visit to the Bohusläns Museum. In the afternoon, we head to Gustafsberg, enjoying fjord views from the car, then visit the Bredfjället viewpoint before ending the day with a cozy dinner back in town."
+            "en": "We park conveniently in the center and explore Kungstorget with umbrellas. The drive to the church stays dry, followed by an extensive visit to the Bohusläns Museum. In the afternoon, we head to Gustafsberg, enjoying fjord views from the car, then visit the Bredfjället viewpoint before ending the day with a cozy dinner back in town.",
+            "sv": "Vi parkerar bekvämt i centrum och utforskar Kungstorget med paraplyer. Bilfärden till kyrkan hålls torr, följt av ett omfattande besök på Bohusläns museum. På eftermiddagen åker vi till Gustafsberg och njuter av fjordutsikter från bilen, besöker sedan Bredfjället utsiktsplats innan vi avslutar dagen med en mysig middag i stan."
           },
           "stops": [
             {
@@ -1412,7 +1518,8 @@
                 "de": "Parkhäuser bieten Schutz beim Ein- und Aussteigen.",
                 "hu": "A parkolóházak védelmet nyújtanak a ki- és beszálláskor.",
                 "ro": "Parcările etajate oferă protecție la urcare și coborâre.",
-                "en": "Parking garages offer protection when getting in and out."
+                "en": "Parking garages offer protection when getting in and out.",
+                "sv": "Parkeringsgarage skyddar när man stiger i och ur bilen."
               }
             },
             {
@@ -1421,7 +1528,8 @@
                 "de": "Es gibt Parkplätze direkt vor dem Kircheneingang.",
                 "hu": "Közvetlenül a templom bejárata előtt vannak parkolóhelyek.",
                 "ro": "Există locuri de parcare chiar în fața intrării în biserică.",
-                "en": "There are parking spots directly in front of the church entrance."
+                "en": "There are parking spots directly in front of the church entrance.",
+                "sv": "Det finns parkeringsplatser direkt framför kyrkans ingång."
               }
             },
             {
@@ -1430,7 +1538,8 @@
                 "de": "Der große Parkplatz am Museum ist oft schnell belegt.",
                 "hu": "A múzeum nagy parkolója gyakran gyorsan megtelik.",
                 "ro": "Parcarea mare de la muzeu se ocupă adesea rapid.",
-                "en": "The large museum parking lot often fills up quickly."
+                "en": "The large museum parking lot often fills up quickly.",
+                "sv": "Det stora museets parkeringsplats fylls ofta snabbt."
               }
             },
             {
@@ -1439,7 +1548,8 @@
                 "de": "Genießen Sie die Aussicht vom Auto aus, wenn es zu stark regnet.",
                 "hu": "Élvezze a kilátást a kocsiból, ha túl erősen esik.",
                 "ro": "Bucurați-vă de priveliște din mașină dacă plouă prea tare.",
-                "en": "Enjoy the view from the car if it rains too hard."
+                "en": "Enjoy the view from the car if it rains too hard.",
+                "sv": "Njut av utsikten från bilen om det regnar för mycket."
               }
             },
             {
@@ -1448,7 +1558,8 @@
                 "de": "Die Auffahrt kann bei Starkregen etwas rutschig sein.",
                 "hu": "Heves esőben a felvezető út kissé csúszós lehet.",
                 "ro": "Drumul de urcare poate fi puțin alunecos la ploaie torențială.",
-                "en": "The drive up can be a bit slippery in heavy rain."
+                "en": "The drive up can be a bit slippery in heavy rain.",
+                "sv": "Uppfarten kan bli hal vid kraftigt regn."
               }
             },
             {
@@ -1457,7 +1568,8 @@
                 "de": "Wählen Sie ein Restaurant mit nahem Parkplatz.",
                 "hu": "Válasszon éttermet, amely közelében van parkoló.",
                 "ro": "Alegeți un restaurant cu parcare în apropiere.",
-                "en": "Choose a restaurant with nearby parking."
+                "en": "Choose a restaurant with nearby parking.",
+                "sv": "Välj en restaurang med närliggande parkering."
               }
             }
           ],
@@ -1485,6 +1597,12 @@
               "Roads to Bredfjället are good, but watch out for hydroplaning.",
               "Keep an umbrella in the car for short walks to attractions.",
               "Fjord viewpoints are charming even from the car during rain."
+            ],
+            "sv": [
+              "Använd parkeringsgarage för att hålla dig torr när du går in i centrum.",
+              "Vägarna till Bredfjället är bra, men var uppmärksam på vattenplaning.",
+              "Ha ett paraply i bilen för korta promenader till sevärdheter.",
+              "Fjordutsikter är charmiga även från bilen när det regnar."
             ]
           }
         },
@@ -1493,7 +1611,8 @@
             "de": "Nach dem Parken im frostigen Zentrum besuchen wir den Kungstorget und die warme Kirche. Das Bohusläns Museum bietet mittags eine perfekte Aufwärmpause. Die Fahrt zum winterlichen Gustafsberg zeigt gefrorene Ufer, und am Bredfjället genießen wir den Panoramablick über die verschneite Landschaft, bevor wir zum Abendessen in die gemütlich beleuchtete Innenstadt zurückkehren.",
             "hu": "A fagyos központban való parkolás után meglátogatjuk a Kungstorgetet és a meleg templomot. A Bohusläns Múzeum délben tökéletes melegedőhely. A téli Gustafsberg felé autózva láthatjuk a befagyott partokat, a Bredfjälletnél pedig a havas táj panorámájában gyönyörködünk, mielőtt visszatérnénk vacsorázni a hangulatosan kivilágított városba.",
             "ro": "După parcarea în centrul geros, vizităm Kungstorget și biserica încălzită. Muzeul Bohusläns oferă popasul perfect de încălzire la prânz. Drumul spre Gustafsberg dezvăluie maluri înghețate, iar la Bredfjället admirăm peisajul înzăpezit, înainte de a reveni pentru cină în centrul luminat festiv.",
-            "en": "After parking in the frosty center, we visit Kungstorget and the warm church. Bohusläns Museum provides a perfect warm-up break at noon. The drive to winter Gustafsberg shows frozen shores, and at Bredfjället we enjoy panoramic views of the snowy landscape before returning for dinner in the cozily lit city center."
+            "en": "After parking in the frosty center, we visit Kungstorget and the warm church. Bohusläns Museum provides a perfect warm-up break at noon. The drive to winter Gustafsberg shows frozen shores, and at Bredfjället we enjoy panoramic views of the snowy landscape before returning for dinner in the cozily lit city center.",
+            "sv": "Efter parkering i den frostiga centrumkärnan besöker vi Kungstorget och den varma kyrkan. Bohusläns museum ger en perfekt uppvärmningspaus vid lunchtid. Färden till vinter-Gustafsberg visar frusna stränder, och på Bredfjället njuter vi av panoramavyer över det snöklädda landskapet innan vi återvänder för middag i stadens mysigt upplysta centrum."
           },
           "stops": [
             {
@@ -1502,7 +1621,8 @@
                 "de": "Vorsicht vor Eisplatten auf den Parkplatzflächen.",
                 "hu": "Vigyázzon a jégfoltokkal a parkoló területén.",
                 "ro": "Atenție la porțiunile de gheață din zona parcării.",
-                "en": "Watch out for ice patches in the parking area."
+                "en": "Watch out for ice patches in the parking area.",
+                "sv": "Se upp för isfläckar på parkeringsområdet."
               }
             },
             {
@@ -1511,7 +1631,8 @@
                 "de": "Ein kurzer, aber kalter Weg vom Parkplatz zum Portal.",
                 "hu": "Rövid, de hideg séta a parkolótól a bejáratig.",
                 "ro": "Un drum scurt, dar rece, de la parcare la intrare.",
-                "en": "A short but cold walk from the parking lot to the entrance."
+                "en": "A short but cold walk from the parking lot to the entrance.",
+                "sv": "En kort men kall promenad från parkeringen till entrén."
               }
             },
             {
@@ -1520,7 +1641,8 @@
                 "de": "Der Motor sollte bei extremer Kälte nicht zu lange stehen.",
                 "hu": "Extrém hidegben ne hagyja túl sokáig állni a motort.",
                 "ro": "Nu lăsați motorul oprit prea mult la temperaturi extreme.",
-                "en": "Don't leave the engine off too long in extreme cold."
+                "en": "Don't leave the engine off too long in extreme cold.",
+                "sv": "Stäng inte av motorn för länge i extrem kyla."
               }
             },
             {
@@ -1529,7 +1651,8 @@
                 "de": "Die Wege zwischen den historischen Häusern können glatt sein.",
                 "hu": "A történelmi házak közötti utak csúszósak lehetnek.",
                 "ro": "Aleile dintre casele istorice pot fi alunecoase.",
-                "en": "The paths between historic houses can be slippery."
+                "en": "The paths between historic houses can be slippery.",
+                "sv": "Stigarna mellan de historiska husen kan vara hala."
               }
             },
             {
@@ -1538,7 +1661,8 @@
                 "de": "Winterreifen sind für die Auffahrt zwingend erforderlich.",
                 "hu": "A téli gumi kötelező a felvezető úton.",
                 "ro": "Anvelopele de iarnă sunt obligatorii pentru urcare.",
-                "en": "Winter tires are mandatory for the drive up."
+                "en": "Winter tires are mandatory for the drive up.",
+                "sv": "Vinterdäck är obligatoriskt för uppfarten."
               }
             },
             {
@@ -1547,7 +1671,8 @@
                 "de": "Genießen Sie die weihnachtliche Beleuchtung der Stadt.",
                 "hu": "Élvezze a város ünnepi fényeit a vacsora után.",
                 "ro": "Bucurați-vă de luminile de sărbătoare ale orașului.",
-                "en": "Enjoy the city's festive lights after dinner."
+                "en": "Enjoy the city's festive lights after dinner.",
+                "sv": "Njut av stadens festliga ljus efter middagen."
               }
             }
           ],
@@ -1575,6 +1700,12 @@
               "Carry an ice scraper and a snow shovel in the car.",
               "Roads to Bredfjället can be difficult during fresh snowfall.",
               "Use seat heating for maximum comfort between stops."
+            ],
+            "sv": [
+              "Vinterdäck (ofta med dubbar) är standard i Sverige.",
+              "Ha en isskrapa och en snöskyffel i bilen.",
+              "Vägarna till Bredfjället kan vara svåra vid nyfallen snö.",
+              "Använd sätesvärme för maximal komfort mellan stoppen."
             ]
           }
         }
@@ -1593,7 +1724,8 @@
             "de": "Uddevalla Kampenhof (Busbahnhof)",
             "hu": "Uddevalla Kampenhof (buszpályaudvar)",
             "ro": "Uddevalla Kampenhof (autogară)",
-            "en": "Uddevalla Kampenhof (Bus Terminal)"
+            "en": "Uddevalla Kampenhof (Bus Terminal)",
+            "sv": "Uddevalla Kampenhof (bussterminal)"
           },
           "coords": [
             11.948,
@@ -1609,7 +1741,8 @@
             "de": "Beginnen Sie Ihren Tag am zentralen Busknotenpunkt, um sich mit dem System vertraut zu machen.",
             "hu": "Kezdje a napot a központi buszcsomópontnál, hogy megismerkedjen a rendszerrel.",
             "ro": "Începeți ziua la nodul central de autobuze pentru a vă familiariza cu sistemul.",
-            "en": "Start your day at the central bus hub to get familiar with the system."
+            "en": "Start your day at the central bus hub to get familiar with the system.",
+            "sv": "Börja dagen vid den centrala busshubben för att bekanta dig med systemet."
           }
         },
         {
@@ -1617,7 +1750,8 @@
             "de": "Kungstorget & Kirche",
             "hu": "Kungstorget és a templom",
             "ro": "Kungstorget și Biserica",
-            "en": "Kungstorget & Church"
+            "en": "Kungstorget & Church",
+            "sv": "Kungstorget & kyrkan"
           },
           "coords": [
             11.9425,
@@ -1633,7 +1767,8 @@
             "de": "Ein kurzer Spaziergang vom Busbahnhof, um das Herz der Stadt zu erkunden.",
             "hu": "Egy rövid séta a buszpályaudvartól a város szívének felfedezéséhez.",
             "ro": "O scurtă plimbare de la autogară pentru a explora inima orașului.",
-            "en": "A short walk from the bus terminal to explore the heart of the city."
+            "en": "A short walk from the bus terminal to explore the heart of the city.",
+            "sv": "En kort promenad från bussterminalen för att utforska stadens hjärta."
           }
         },
         {
@@ -1641,7 +1776,8 @@
             "de": "Bohusläns Museum & Strandpromenade",
             "hu": "Bohusläns Múzeum és tengerparti sétány",
             "ro": "Muzeul Bohusläns și Promenada",
-            "en": "Bohusläns Museum & Promenade"
+            "en": "Bohusläns Museum & Promenade",
+            "sv": "Bohusläns museum & strandpromenad"
           },
           "coords": [
             11.9325,
@@ -1657,7 +1793,8 @@
             "de": "Verbringen Sie den Vormittag und das Mittagessen in diesem Cluster aus Kultur und Natur.",
             "hu": "Töltse a délelőttöt és az ebédet ebben a kulturális és természeti klaszterben.",
             "ro": "Petreceți dimineața și prânzul în acest grup de cultură și natură.",
-            "en": "Spend the morning and lunch in this cluster of culture and nature."
+            "en": "Spend the morning and lunch in this cluster of culture and nature.",
+            "sv": "Tillbringa förmiddagen och lunchen i detta kluster av kultur och natur."
           }
         },
         {
@@ -1665,7 +1802,8 @@
             "de": "Gustafsberg (Busfahrt)",
             "hu": "Gustafsberg (buszos utazás)",
             "ro": "Gustafsberg (călătorie cu autobuzul)",
-            "en": "Gustafsberg (Bus Trip)"
+            "en": "Gustafsberg (Bus Trip)",
+            "sv": "Gustafsberg (bussresa)"
           },
           "coords": [
             11.901,
@@ -1681,7 +1819,8 @@
             "de": "Nehmen Sie einen Bus nach Gustafsberg und genießen Sie die landschaftlich reizvolle Fahrt.",
             "hu": "Vegyen buszt Gustafsbergbe, és élvezze a festői utat.",
             "ro": "Luați un autobuz spre Gustafsberg și bucurați-vă de călătoria pitorească.",
-            "en": "Take a bus to Gustafsberg and enjoy the scenic ride."
+            "en": "Take a bus to Gustafsberg and enjoy the scenic ride.",
+            "sv": "Ta bussen till Gustafsberg och njut av den natursköna resan."
           }
         },
         {
@@ -1689,7 +1828,8 @@
             "de": "Rückkehr ins Zentrum",
             "hu": "Visszatérés a központba",
             "ro": "Întoarcere în centru",
-            "en": "Return to City Center"
+            "en": "Return to City Center",
+            "sv": "Återvänd till stadens centrum"
           },
           "coords": [
             11.9421,
@@ -1705,7 +1845,8 @@
             "de": "Fahren Sie zurück ins Zentrum, um den Tag mit einem Abendessen ausklingen zu lassen.",
             "hu": "Buszozzon vissza a központba, hogy a napot egy vacsorával zárja.",
             "ro": "Luați autobuzul înapoi în centru pentru a încheia ziua cu cina.",
-            "en": "Take the bus back to the center to finish the day with dinner."
+            "en": "Take the bus back to the center to finish the day with dinner.",
+            "sv": "Ta bussen tillbaka till centrum för att avsluta dagen med middag."
           }
         }
       ],
@@ -1713,7 +1854,8 @@
         "de": "Mit den öffentlichen Verkehrsmitteln erkunden Sie Uddevalla in zwei Clustern. Sie beginnen im Stadtzentrum, wo Sie vom Busbahnhof aus bequem den Kungstorget, die Kirche und das Bohusläns Museum zu Fuß erreichen. Dieser Bereich eignet sich perfekt für einen Vormittag voller Entdeckungen und einen Spaziergang auf der Strandpromenade. Nach dem Mittagessen nehmen Sie einen Bus, der Sie aus der Stadt heraus zum historischen Gustafsberg bringt. Genießen Sie einen entspannten Nachmittag in Schwedens ältestem Badeort, bevor Sie mit dem Bus ins Zentrum zurückkehren, um dort zu Abend zu essen.",
         "hu": "Tömegközlekedéssel két klaszterben fedezheti fel Uddevallát. A városközpontban kezdi, ahonnan a buszpályaudvartól gyalogosan kényelmesen elérhető a Kungstorget, a templom és a Bohusläns Múzeum. Ez a terület tökéletes egy felfedezésekkel teli délelőtthöz és egy sétához a tengerparti sétányon. Ebéd után busszal utazik ki a városból a történelmi Gustafsbergbe. Élvezzen egy pihentető délutánt Svédország legrégebbi tengerparti üdülőhelyén, mielőtt visszatérne busszal a központba vacsorázni.",
         "ro": "Folosind transportul public, explorați Uddevalla în două grupuri. Începeți în centrul orașului, unde puteți ajunge cu ușurință pe jos la Kungstorget, biserică și Muzeul Bohusläns de la autogară. Această zonă este perfectă pentru o dimineață de explorare și o plimbare pe promenadă. După prânz, luați un autobuz care vă duce în afara orașului, la istoricul Gustafsberg. Bucurați-vă de o după-amiază relaxantă în cea mai veche stațiune balneară din Suedia, înainte de a vă întoarce cu autobuzul în centru pentru cină.",
-        "en": "Using public transport, you'll explore Uddevalla in two clusters. You'll start in the city center, where you can easily walk to Kungstorget, the church, and the Bohusläns Museum from the bus station. This area is perfect for a morning of exploration and a walk on the promenade. After lunch, you'll take a bus out of town to the historic Gustafsberg. Enjoy a relaxing afternoon at Sweden's oldest seaside resort before taking the bus back to the center for dinner."
+        "en": "Using public transport, you'll explore Uddevalla in two clusters. You'll start in the city center, where you can easily walk to Kungstorget, the church, and the Bohusläns Museum from the bus station. This area is perfect for a morning of exploration and a walk on the promenade. After lunch, you'll take a bus out of town to the historic Gustafsberg. Enjoy a relaxing afternoon at Sweden's oldest seaside resort before taking the bus back to the center for dinner.",
+        "sv": "Med kollektivtrafik utforskar du Uddevalla i två kluster. Du börjar i stadskärnan, där det är enkelt att gå till Kungstorget, kyrkan och Bohusläns museum från busstationen. Detta område är perfekt för en förmiddag med upptäckter och en promenad på strandpromenaden. Efter lunch tar du bussen ut till historiska Gustafsberg. Njut av en avkopplande eftermiddag i Sveriges äldsta badort innan du tar bussen tillbaka till centrum för middag."
       },
       "gastro_picks": {
         "de": [
@@ -1909,6 +2051,12 @@
           "Download the local public transport app to see real-time schedules and routes.",
           "Plan your bus trips in advance, especially in the late afternoon, as frequencies might decrease.",
           "Bus stops are clearly marked, but ask the driver if in doubt."
+        ],
+        "sv": [
+          "Köp ett dagspass för bussen för obegränsade resor.",
+          "Ladda ner den lokala kollektivtrafikappen för att se tidtabeller och rutter i realtid.",
+          "Planera bussresorna i förväg, särskilt sent på eftermiddagen eftersom turerna kan bli glesare.",
+          "Busshållplatser är tydligt markerade, men fråga chauffören om du är osäker."
         ]
       },
       "variants": {
@@ -1917,7 +2065,8 @@
             "de": "Am Busbahnhof Kampenhof starten wir geschützt vor dem Regen. Eine kurze Fahrt bringt uns zum Kungstorget und zur Kirche. Den Mittag verbringen wir im Bohusläns Museum, das direkt an Buslinien liegt. Nachmittags bringt uns der Bus zum Gustafsberg, wo wir die Aussicht genießen, bevor wir zur gemütlichen Innenstadt zurückkehren.",
             "hu": "A Kampenhof buszpályaudvarról indulunk, védve az esőtől. Rövid buszozás visz a Kungstorgethez és a templomhoz. A delet a Bohusläns Múzeumban töltjük, amely buszjáratok közelében fekszik. Délután busszal utazunk Gustafsbergbe, megcsodáljuk a kilátást, majd visszatérünk a barátságos városközpontba.",
             "ro": "Pornim de la autogara Kampenhof, protejați de ploaie. O scurtă călătorie ne duce la Kungstorget și la biserică. Prânzul îl petrecem la Muzeul Bohusläns, situat aproape de liniile de autobuz. După-amiaza, autobuzul ne duce la Gustafsberg, iar apoi revenim în centrul primitor.",
-            "en": "We start at Kampenhof bus station, sheltered from the rain. A short ride takes us to Kungstorget and the church. Noon is spent at Bohusläns Museum, conveniently located near bus routes. In the afternoon, the bus takes us to Gustafsberg to enjoy the views before returning to the cozy city center."
+            "en": "We start at Kampenhof bus station, sheltered from the rain. A short ride takes us to Kungstorget and the church. Noon is spent at Bohusläns Museum, conveniently located near bus routes. In the afternoon, the bus takes us to Gustafsberg to enjoy the views before returning to the cozy city center.",
+            "sv": "Vi börjar vid Kampenhof busstation, skyddade från regnet. En kort tur tar oss till Kungstorget och kyrkan. Lunchen tillbringar vi på Bohusläns museum, bekvämt beläget nära busslinjer. På eftermiddagen tar bussen oss till Gustafsberg för att njuta av utsikten innan vi återvänder till det mysiga centrum."
           },
           "stops": [
             {
@@ -1926,7 +2075,8 @@
                 "de": "Das Terminal ist groß und bietet Schutz vor Wind und Regen.",
                 "hu": "A terminál tágas, védelmet nyújt a szél és az eső ellen.",
                 "ro": "Terminalul este mare și oferă protecție contra vântului și ploii.",
-                "en": "The terminal is large and offers protection from wind and rain."
+                "en": "The terminal is large and offers protection from wind and rain.",
+                "sv": "Terminalen är stor och erbjuder skydd från vind och regn."
               }
             },
             {
@@ -1935,7 +2085,8 @@
                 "de": "Die Bushaltestellen im Zentrum haben oft Unterstände.",
                 "hu": "A belvárosi buszmegállók gyakran fedettek.",
                 "ro": "Stațiile de autobuz din centru au adesea adăposturi.",
-                "en": "Bus stops in the center often have shelters."
+                "en": "Bus stops in the center often have shelters.",
+                "sv": "Busshållplatser i centrum har ofta vindskydd."
               }
             },
             {
@@ -1944,7 +2095,8 @@
                 "de": "Der Bus hält fast direkt vor dem Museumseingang.",
                 "hu": "A busz szinte közvetlenül a múzeum bejárata előtt áll meg.",
                 "ro": "Autobuzul oprește aproape direct în fața muzeului.",
-                "en": "The bus stops almost directly in front of the museum."
+                "en": "The bus stops almost directly in front of the museum.",
+                "sv": "Bussen stannar nästan direkt framför museet."
               }
             },
             {
@@ -1953,7 +2105,8 @@
                 "de": "Prüfen Sie die Rückfahrzeiten, da Busse seltener fahren könnten.",
                 "hu": "Ellenőrizze a visszautat, mert az esőben ritkábbak lehetnek a járatok.",
                 "ro": "Verificați orele de retur, autobuzele pot fi mai rare pe ploaie.",
-                "en": "Check return times as buses might be less frequent in the rain."
+                "en": "Check return times as buses might be less frequent in the rain.",
+                "sv": "Kolla returtider eftersom bussarna kan vara mindre frekventa i regn."
               }
             },
             {
@@ -1962,7 +2115,8 @@
                 "de": "Nutzen Sie die Västtrafik-App für Echtzeit-Infos.",
                 "hu": "Használja a Västtrafik alkalmazást a valós idejű infókért.",
                 "ro": "Folosiți aplicația Västtrafik pentru informații în timp real.",
-                "en": "Use the Västtrafik app for real-time information."
+                "en": "Use the Västtrafik app for real-time information.",
+                "sv": "Använd Västtrafik-appen för realtidsinformation."
               }
             }
           ],
@@ -1990,6 +2144,12 @@
               "Kampenhof is the central hub for all transit connections.",
               "Buses in Uddevalla are clean, warm, and usually on time.",
               "Short walks between stops minimize your time in the rain."
+            ],
+            "sv": [
+              "Västtrafik-appen är viktig för att kontrollera tidtabeller i regn.",
+              "Kampenhof är centralpunkten för alla trafikförbindelser.",
+              "Bussarna i Uddevalla är rena, varma och brukar gå i tid.",
+              "Korta promenader mellan hållplatser minimerar din tid i regnet."
             ]
           }
         },
@@ -1998,7 +2158,8 @@
             "de": "Wir starten am warmen Kampenhof-Terminal. Der Bus bringt uns bequem zum Kungstorget und zur beheizten Kirche. Mittags wärmen wir uns im Bohusläns Museum auf, bevor wir mit dem Bus zum winterlichen Gustafsberg fahren. Da es früh dunkel wird, genießen wir die Lichter der Stadt bei der Rückfahrt ins Zentrum zum Abendessen.",
             "hu": "A meleg Kampenhof terminálról indulunk. A busz kényelmesen visz a Kungstorgethez és a fűtött templomhoz. Délben a Bohusläns Múzeumban melegszünk fel, majd busszal utazunk a téli Gustafsbergbe. Mivel korán sötétedik, a város fényeit a központba való visszaúton csodáljuk meg vacsora előtt.",
             "ro": "Pornim de la terminalul încălzit Kampenhof. Autobuzul ne duce confortabil la Kungstorget și la biserica încălzită. La prânz ne încălzim în Muzeul Bohusläns, înainte de a merge cu autobuzul la Gustafsberg. Deoarece se întunecă devreme, admirăm luminile orașului la întoarcerea în centru.",
-            "en": "We start at the warm Kampenhof terminal. The bus takes us comfortably to Kungstorget and the heated church. Noon is for warming up at Bohusläns Museum before taking the bus to winter Gustafsberg. Since it gets dark early, we enjoy the city lights on the ride back to the center for dinner."
+            "en": "We start at the warm Kampenhof terminal. The bus takes us comfortably to Kungstorget and the heated church. Noon is for warming up at Bohusläns Museum before taking the bus to winter Gustafsberg. Since it gets dark early, we enjoy the city lights on the ride back to the center for dinner.",
+            "sv": "Vi börjar i den varma Kampenhof-terminalen. Bussen tar oss bekvämt till Kungstorget och den uppvärmda kyrkan. Lunchen handlar om att värma sig på Bohusläns museum innan bussen går till vinter-Gustafsberg. Eftersom det blir mörkt tidigt njuter vi av stadens ljus på vägen tillbaka till centrum för middag."
           },
           "stops": [
             {
@@ -2007,7 +2168,8 @@
                 "de": "Warten Sie im Inneren des beheizten Terminals.",
                 "hu": "Várjon a fűtött terminálépület belsejében.",
                 "ro": "Așteptați în interiorul terminalului încălzit.",
-                "en": "Wait inside the heated terminal building."
+                "en": "Wait inside the heated terminal building.",
+                "sv": "Vänta inne i den uppvärmda terminalbyggnaden."
               }
             },
             {
@@ -2016,7 +2178,8 @@
                 "de": "Busse fahren im Winter oft sehr pünktlich.",
                 "hu": "A buszok télen is gyakran nagyon pontosak.",
                 "ro": "Autobuzele sunt adesea foarte punctuale iarna.",
-                "en": "Buses often run very punctually in winter."
+                "en": "Buses often run very punctually in winter.",
+                "sv": "Bussarna går ofta mycket punktligt på vintern."
               }
             },
             {
@@ -2025,7 +2188,8 @@
                 "de": "Nutzen Sie den Bus, um die kalte Uferpromenade zu überbrücken.",
                 "hu": "Használja a buszt, hogy elkerülje a hideg parti sétát.",
                 "ro": "Folosiți autobuzul pentru a evita plimbarea pe malul rece.",
-                "en": "Use the bus to skip the cold walk along the shore."
+                "en": "Use the bus to skip the cold walk along the shore.",
+                "sv": "Använd bussen för att slippa den kalla promenaden längs stranden."
               }
             },
             {
@@ -2034,7 +2198,8 @@
                 "de": "Achten Sie auf geänderte Winterfahrpläne.",
                 "hu": "Figyeljen az esetleges téli menetrendi változásokra.",
                 "ro": "Atenție la eventualele modificări ale orarului de iarnă.",
-                "en": "Watch out for potential winter schedule changes."
+                "en": "Watch out for potential winter schedule changes.",
+                "sv": "Se upp för eventuella vintertidtabellsändringar."
               }
             },
             {
@@ -2043,7 +2208,8 @@
                 "de": "Busse sind im Winter herrlich warm aufgeheizt.",
                 "hu": "A buszok télen kellemesen fel vannak fűtve.",
                 "ro": "Autobuzele sunt plăcut încălzite pe timpul iernii.",
-                "en": "Buses are pleasantly heated during the winter."
+                "en": "Buses are pleasantly heated during the winter.",
+                "sv": "Bussarna är behagligt uppvärmda under vintern."
               }
             }
           ],
@@ -2071,6 +2237,12 @@
               "The Kampenhof terminal has a cafe for warming up.",
               "The Västtrafik app shows real-time delays caused by snow.",
               "Plan your return trip before 16:00 to travel during daylight."
+            ],
+            "sv": [
+              "Att ta bussen är det varmaste sättet att utforska Uddevalla på vintern.",
+              "Kampenhof-terminalen har ett café för att värma upp sig.",
+              "Västtrafik-appen visar realtidsförseningar orsakade av snö.",
+              "Planera din returresa före 16:00 för att resa i dagsljus."
             ]
           }
         }

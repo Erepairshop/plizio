@@ -21,7 +21,8 @@
             "de": "Rathaus Landskrona",
             "hu": "Landskronai Városháza",
             "ro": "Primăria Landskrona",
-            "en": "Landskrona Town Hall"
+            "en": "Landskrona Town Hall",
+            "sv": "Landskrona rådhus"
           },
           "coords": [
             12.8305,
@@ -37,7 +38,8 @@
             "de": "Bewundern Sie die klassizistische Fassade aus dem 19. Jahrhundert.",
             "hu": "Csodálja meg a 19. századi klasszicista homlokzatot.",
             "ro": "Admirați fațada clasicistă din secolul al XIX-lea.",
-            "en": "Admire the 19th-century classicist facade."
+            "en": "Admire the 19th-century classicist facade.",
+            "sv": "Beundra den klassicistiska fasaden från 1800‑talet."
           }
         },
         {
@@ -45,7 +47,8 @@
             "de": "Sofia Albertina Kirche",
             "hu": "Sofia Albertina templom",
             "ro": "Biserica Sofia Albertina",
-            "en": "Sofia Albertina Church"
+            "en": "Sofia Albertina Church",
+            "sv": "Sofia Albertina kyrka"
           },
           "coords": [
             12.833,
@@ -61,7 +64,8 @@
             "de": "Beachten Sie den einzigartigen kreuzförmigen Grundriss und die schöne Innenausstattung.",
             "hu": "Figyelje meg az egyedülálló kereszt alaprajzot és a gyönyörű belső teret.",
             "ro": "Observați planul unic în formă de cruce și interiorul frumos.",
-            "en": "Note the unique cross-shaped floor plan and beautiful interior."
+            "en": "Note the unique cross-shaped floor plan and beautiful interior.",
+            "sv": "Lägg märke till den unika korsformade planlösningen och det vackra interiören."
           }
         },
         {
@@ -69,7 +73,8 @@
             "de": "Zitadelle von Landskrona",
             "hu": "Landskronai Citadella",
             "ro": "Citadela din Landskrona",
-            "en": "Landskrona Citadel"
+            "en": "Landskrona Citadel",
+            "sv": "Landskrona citadell"
           },
           "coords": [
             12.825,
@@ -85,7 +90,8 @@
             "de": "Machen Sie einen Spaziergang um die gut erhaltenen Wälle und Wassergräben.",
             "hu": "Sétáljon egyet a jól megőrzött sáncok és vizesárkok körül.",
             "ro": "Faceți o plimbare în jurul meterezelor și șanțurilor de apă bine conservate.",
-            "en": "Take a walk around the well-preserved ramparts and moats."
+            "en": "Take a walk around the well-preserved ramparts and moats.",
+            "sv": "Ta en promenad runt de välbevarade vallarna och gravarna."
           }
         },
         {
@@ -93,7 +99,8 @@
             "de": "Rothoffska kolonin",
             "hu": "Rothoffska kert",
             "ro": "Grădina Rothoffska",
-            "en": "Rothoffska Allotment Garden"
+            "en": "Rothoffska Allotment Garden",
+            "sv": "Rothoffska koloniträdgård"
           },
           "coords": [
             12.8245,
@@ -109,7 +116,8 @@
             "de": "Dies ist Schwedens ältestes Kleingartengelände, eine friedliche Oase.",
             "hu": "Ez Svédország legrégebbi volksparkja, egy békés oázis.",
             "ro": "Aceasta este cea mai veche grădină comunitară din Suedia, o oază de pace.",
-            "en": "This is Sweden's oldest allotment area, a peaceful oasis."
+            "en": "This is Sweden's oldest allotment area, a peaceful oasis.",
+            "sv": "Detta är Sveriges äldsta kolonilottsområde, en fridfull oas."
           }
         },
         {
@@ -117,7 +125,8 @@
             "de": "Museum Landskrona",
             "hu": "Landskrona Múzeum",
             "ro": "Muzeul Landskrona",
-            "en": "Landskrona Museum"
+            "en": "Landskrona Museum",
+            "sv": "Landskrona museum"
           },
           "coords": [
             12.827,
@@ -133,7 +142,8 @@
             "de": "Die Ausstellungen decken sowohl die lokale Geschichte als auch Fotografie ab. Ideal für das Mittagessen.",
             "hu": "A kiállítások a helytörténetet és a fotográfiát is felölelik. Ebédre ideális.",
             "ro": "Expozițiile acoperă atât istoria locală, cât și fotografia. Ideal pentru o pauză de prânz.",
-            "en": "Exhibits cover both local history and photography. Great for a lunch break."
+            "en": "Exhibits cover both local history and photography. Great for a lunch break.",
+            "sv": "Utställningarna täcker både lokal historia och fotografi. Perfekt för en lunchpaus."
           }
         },
         {
@@ -141,7 +151,8 @@
             "de": "Landskrona Konsthall",
             "hu": "Landskronai Művészeti Csarnok",
             "ro": "Galeria de Artă Landskrona",
-            "en": "Landskrona Art Gallery"
+            "en": "Landskrona Art Gallery",
+            "sv": "Landskrona konsthall"
           },
           "coords": [
             12.828,
@@ -157,7 +168,8 @@
             "de": "Ein schönes Beispiel modernistischer Architektur in einem Skulpturenpark.",
             "hu": "A modernista építészet szép példája egy szoborparkban.",
             "ro": "Un exemplu frumos de arhitectură modernistă într-un parc de sculpturi.",
-            "en": "A beautiful example of modernist architecture set in a sculpture park."
+            "en": "A beautiful example of modernist architecture set in a sculpture park.",
+            "sv": "Ett vackert exempel på modernistisk arkitektur beläget i en skulpturpark."
           }
         },
         {
@@ -165,7 +177,8 @@
             "de": "Borstahusen",
             "hu": "Borstahusen",
             "ro": "Borstahusen",
-            "en": "Borstahusen"
+            "en": "Borstahusen",
+            "sv": "Borstahusen"
           },
           "coords": [
             12.82,
@@ -181,7 +194,8 @@
             "de": "Schlendern Sie durch das malerische Fischerdorf und genießen Sie die Meeresbrise.",
             "hu": "Sétáljon végig a festői halászfalun, és élvezze a tengeri szellőt.",
             "ro": "Plimbați-vă prin satul pescăresc pitoresc și bucurați-vă de briza mării.",
-            "en": "Stroll through the picturesque fishing village and enjoy the sea breeze."
+            "en": "Stroll through the picturesque fishing village and enjoy the sea breeze.",
+            "sv": "Promenera genom den pittoreska fiskeby och njut av havsbrisen."
           }
         }
       ],
@@ -189,7 +203,8 @@
         "de": "Beginnen Sie Ihren Rundgang am belebten Rathaus und der beeindruckenden Sofia-Albertina-Kirche. Der Vormittag führt Sie zur historischen Zitadelle, wo Sie in die Militärgeschichte eintauchen und die friedlichen Gärten von Rothoffska genießen. Nach dem Mittagessen erkunden Sie die Kunst- und Fotoszene im Landskrona Museum und der Konsthall. Der Tag endet mit einem langen, erfrischenden Spaziergang zum charmanten Fischerdorf Borstahusen, wo Sie die entspannte Küstenatmosphäre aufsaugen können.",
         "hu": "Kezdje a gyalogtúrát a nyüzsgő Városházánál és a lenyűgöző Sofia Albertina templomnál. A délelőtt a történelmi Citadellához vezet, ahol elmerülhet a katonai múltban, majd élvezheti a Rothoffska békés kertjeit. Ebéd után fedezze fel a művészeti és fotográfiai színteret a Landskrona Múzeumban és a Konsthallban. A nap egy hosszú, frissítő sétával zárul a bájos Borstahusen halászfaluig, ahol magába szívhatja a nyugodt tengerparti hangulatot.",
         "ro": "Începeți turul pietonal la Primăria plină de viață și la impresionanta Biserică Sofia Albertina. Dimineața vă duce la Citadela istorică pentru a explora istoria militară și a vă bucura de grădinile pașnice de la Rothoffska. După prânz, explorați scena artistică și fotografică la Muzeul Landskrona și Konsthall. Ziua se încheie cu o plimbare lungă și revigorantă până la fermecătorul sat pescăresc Borstahusen pentru a absorbi atmosfera relaxată de coastă.",
-        "en": "Start your walking tour at the bustling Town Hall and the impressive Sofia Albertina Church. The morning takes you to the historic Citadel to delve into military history and enjoy the peaceful gardens at Rothoffska. After lunch, explore the art and photography scene at Landskrona Museum and Konsthall. The day concludes with a long, refreshing walk to the charming fishing village of Borstahusen to soak in the relaxed coastal atmosphere."
+        "en": "Start your walking tour at the bustling Town Hall and the impressive Sofia Albertina Church. The morning takes you to the historic Citadel to delve into military history and enjoy the peaceful gardens at Rothoffska. After lunch, explore the art and photography scene at Landskrona Museum and Konsthall. The day concludes with a long, refreshing walk to the charming fishing village of Borstahusen to soak in the relaxed coastal atmosphere.",
+        "sv": "Börja din promenadtur vid det livliga rådhuset och den imponerande Sofia Albertina kyrka. Förmiddagen tar dig till den historiska citadellet för att fördjupa dig i militärhistoria och njuta av de fridfulla trädgårdarna vid Rothoffska. Efter lunch utforska konst- och fotoscenen på Landskrona museum och konsthall. Dagen avslutas med en lång, uppfriskande promenad till den charmiga fiskebyn Borstahusen för att insupa den avslappnade kuststämningen."
       },
       "gastro_picks": {
         "de": [
@@ -385,6 +400,12 @@
           "Check the opening hours for the museums and Konsthall in advance, as they can vary.",
           "Bring a reusable water bottle; there are several places to refill it.",
           "A pair of binoculars can be useful for spotting the island of Ven from the mainland."
+        ],
+        "sv": [
+          "Ha bekväma skor eftersom denna plan innebär mycket promenad, särskilt den långa vandringen till Borstahusen.",
+          "Kontrollera öppettiderna för museerna och konsthallen i förväg, eftersom de kan variera.",
+          "Ta med en återanvändbar vattenflaska; det finns flera platser att fylla på den.",
+          "Ett par kikare kan vara användbart för att få syn på ön Ven från fastlandet."
         ]
       },
       "variants": {
@@ -393,7 +414,8 @@
             "de": "Der Vormittag beginnt geschützt am Rathausplatz, wo das monumentale Backsteingebäude auch bei grauem Himmel beeindruckt. In der Sofia Albertina Kirche finden Sie anschließend Stille und Trockenheit. \n\nMittags bietet die Zitadelle mit ihren massiven Mauern einen hervorragenden Zufluchtsort vor dem Küstenregen. Die Erkundung der unterirdischen Gänge ist ideal für nasses Wetter. \n\nNachmittags verlagert sich das Geschehen in das Landskrona Museum und die Kunsthalle. Hier können Sie Stunden zwischen lokaler Geschichte und moderner Kunst verbringen, ohne nass zu werden. \n\nDer Abend endet im historischen Borstahusen. Der Blick auf den peitschenden Öresund von einem gemütlichen Hafenrestaurant aus hat seinen ganz eigenen, herben Charme.",
             "hu": "A délelőtt a Városháza monumentális téglaépülete mellett indul, amely zord időben is tekintélyt parancsoló. A közeli Sofia Albertina templom belső tere tökéletes menedék a szemerkélő eső elől.\n\nDélben a Citadella vastag falai és kiállításai között kalandozhatunk. Az 1559-ben alapított erődrendszer belső terei és földalatti kazamatái szárazon tartják a látogatót.\n\nDélután a múzeumi negyedé a főszerep. A Landskrona Múzeum és a modern üvegfalú Művészeti Galéria órákig tartó kulturális programot nyújt, távol a tengerparti széltől.\n\nAz este Borstahusen halászházaiban ér véget. A kikötőben a hullámzó Öresund-szoros látványa egy meleg tea mellett, az ablakon túlról a legélvezetesebb.",
             "ro": "Dimineața începe la Primărie, unde arhitectura din cărămidă oferă un cadru sobru sub cerul noros. Biserica Sofia Albertina este refugiul perfect pentru a admira interiorul baroc în timp ce plouă.\n\nLa prânz, Citadela Landskrona devine punctul central. Zidurile sale masive și expozițiile interioare permit explorarea istoriei militare fără a fi expus intemperiilor de la malul mării.\n\nDupă-amiaza este dedicată culturii în incinta Muzeului Landskrona și a Galeriei de Artă. Spațiile generoase și lumina difuză prin vitrajul galeriei creează o atmosferă ideală pentru o zi ploioasă.\n\nSeara se încheie în Borstahusen. Sunetul ploii pe mare și luminile portului văzute dintr-o cafenea locală oferă o experiență autentică scandinavă.",
-            "en": "The morning starts at the Town Hall, where the grand brick facade stands firm against the grey Scanian sky. Seek shelter inside the Sofia Albertina Church to admire its elegant Hårleman design.\n\nAt midday, the Citadel provides a robust sanctuary. Its thick 16th-century walls and indoor museum sections are perfect for staying dry while learning about the city's strategic past.\n\nIn the afternoon, the Landskrona Museum and Art Gallery offer a seamless indoor experience. You can easily spend hours navigating local history and contemporary exhibits away from the coastal wind.\n\nThe evening concludes in Borstahusen. Watching the rainy Oresund waves from a harbor eatery provides a cozy, atmospheric end to a damp day of exploration."
+            "en": "The morning starts at the Town Hall, where the grand brick facade stands firm against the grey Scanian sky. Seek shelter inside the Sofia Albertina Church to admire its elegant Hårleman design.\n\nAt midday, the Citadel provides a robust sanctuary. Its thick 16th-century walls and indoor museum sections are perfect for staying dry while learning about the city's strategic past.\n\nIn the afternoon, the Landskrona Museum and Art Gallery offer a seamless indoor experience. You can easily spend hours navigating local history and contemporary exhibits away from the coastal wind.\n\nThe evening concludes in Borstahusen. Watching the rainy Oresund waves from a harbor eatery provides a cozy, atmospheric end to a damp day of exploration.",
+            "sv": "Morgonen börjar vid rådhuset, där den storslagna tegel­fasaden står stadig mot den grå skånska himlen. Sök skydd inne i Sofia Albertina kyrka för att beundra dess eleganta Hårleman‑design.\n\nMitt på dagen erbjuder citadellet ett robust tillflyktsort. Dess tjocka 1500‑talsmurar och inomhusmuseer är perfekta för att hålla sig torr medan du lär dig om stadens strategiska förflutna.\n\nPå eftermiddagen erbjuder Landskrona museum och konsthall en sömlös inomhusupplevelse. Du kan lätt tillbringa timmar med att utforska lokal historia och samtida utställningar borta från kustvindarna.\n\nKvällen avslutas i Borstahusen. Att se de regniga Öresundsvågorna från en hamnkrog ger ett mysigt, stämningsfullt slut på en fuktig utflyktsdag."
           },
           "stops": [
             {
@@ -402,7 +424,8 @@
                 "de": "Nutzen Sie den überdachten Eingangsbereich für Fotos der Fassade.",
                 "hu": "Az árkádok alatt szárazon fotózhatod a főteret.",
                 "ro": "Folosiți arcadele primăriei pentru a observa piața centrală.",
-                "en": "Use the arched entrances to photograph the square while staying dry."
+                "en": "Use the arched entrances to photograph the square while staying dry.",
+                "sv": "Använd de valvade ingångarna för att fotografera torget samtidigt som du håller dig torr."
               }
             },
             {
@@ -411,7 +434,8 @@
                 "de": "Die Akustik des Regens auf dem Dach ist im Inneren sehr beruhigend.",
                 "hu": "A belső tér csendje és melege kitűnő pihenő az esőben.",
                 "ro": "Interiorul liniștit este locul perfect pentru a aștepta trecerea unei averse.",
-                "en": "The calm interior is an excellent spot to wait out a heavy shower."
+                "en": "The calm interior is an excellent spot to wait out a heavy shower.",
+                "sv": "Den lugna interiören är ett utmärkt ställe att vänta ut ett kraftigt skur."
               }
             },
             {
@@ -420,7 +444,8 @@
                 "de": "Besuchen Sie die Kasematten; dort ist es garantiert trocken.",
                 "hu": "Irány a kazamata; a föld alatt nem ázol el.",
                 "ro": "Vizitați cazematele; sunt complet protejate de ploaie.",
-                "en": "Head to the casemates; they offer total protection from the rain."
+                "en": "Head to the casemates; they offer total protection from the rain.",
+                "sv": "Gå till kasematterna; de erbjuder fullt skydd mot regnet."
               }
             },
             {
@@ -429,7 +454,8 @@
                 "de": "Das kleine Museumshaus bietet Schutz und Einblicke in die Gartenkultur.",
                 "hu": "A parányi múzeumi házikóban menedékre lelsz a kert közepén.",
                 "ro": "Căsuța muzeu din grădină oferă un scurt adăpost pitoresc.",
-                "en": "The tiny museum cottage provides a cozy shelter in the garden."
+                "en": "The tiny museum cottage provides a cozy shelter in the garden.",
+                "sv": "Det lilla museistugan ger ett mysigt skydd i trädgården."
               }
             },
             {
@@ -438,7 +464,8 @@
                 "de": "Große Garderobe vorhanden – ideal zum Trocknen von Regenjacken.",
                 "hu": "Tágas ruhatár várja a vizes kabátokat.",
                 "ro": "Garderoba spațioasă este utilă pentru hainele ude.",
-                "en": "Spacious cloakroom available—perfect for drying off umbrellas and coats."
+                "en": "Spacious cloakroom available—perfect for drying off umbrellas and coats.",
+                "sv": "Rymligt garderob finns—perfekt för att torka paraplyer och kappor."
               }
             },
             {
@@ -447,7 +474,8 @@
                 "de": "Die Glasfront erlaubt den Blick ins Grüne, ohne nass zu werden.",
                 "hu": "Az üvegfalakon át esőben is élvezhető a park látványa.",
                 "ro": "Pereții de sticlă oferă vedere spre parc fără a ieși în ploaie.",
-                "en": "Large windows allow park views without stepping out into the wet."
+                "en": "Large windows allow park views without stepping out into the wet.",
+                "sv": "Stora fönster ger parkutsikt utan att du behöver gå ut i regnet."
               }
             },
             {
@@ -456,7 +484,8 @@
                 "de": "Wählen Sie ein Restaurant mit Hafenblick für gemütliche Stunden.",
                 "hu": "Keress egy kikötői éttermet a viharos tenger megfigyeléséhez.",
                 "ro": "Alegeți un restaurant în port pentru a vedea marea agitată.",
-                "en": "Pick a harbor restaurant to watch the stormy sea in comfort."
+                "en": "Pick a harbor restaurant to watch the stormy sea in comfort.",
+                "sv": "Välj en hamnrestaurang för att se det stormiga havet i komfort."
               }
             }
           ],
@@ -484,6 +513,12 @@
               "The Museum and Art Gallery are located close together, minimizing outdoor exposure.",
               "Citadel paths can be slippery when wet; wear shoes with good grip.",
               "Seek out 'Fika' spots in Borstahusen to enjoy the harbor view from indoors."
+            ],
+            "sv": [
+              "Vind- och vattenavstötande jacka är bättre än paraply, eftersom kustbyar kan bli starka i Landskrona.",
+              "Museumet och konsthallen ligger nära varandra, vilket minimerar utomhusexponering.",
+              "Stigarna vid citadellet kan vara hala när de är våta; bär skor med bra grepp.",
+              "Sök efter fikaställen i Borstahusen för att njuta av hamn­utsikten inomhus."
             ]
           }
         },
@@ -492,7 +527,8 @@
             "de": "Der Wintermorgen am Rathaus ist oft von klarer, kalter Luft geprägt. Die Sofia Albertina Kirche bietet einen warmen Rückzugsort, um die schwedische Winterstimmung aufzusaugen. \n\nMittags zeigt sich die Zitadelle in ihrem frostigen Gewand. Die schneebedeckten Wälle bieten eine dramatische Kulisse für einen kurzen Spaziergang, bevor es in die geheizten Ausstellungsräume geht. \n\nAm Nachmittag nutzen wir das schwindende Tageslicht im Museum und der Kunsthalle. Die Ausstellungen sind im Winter besonders ruhig und laden zur entschleunigten Betrachtung ein. \n\nDa die Sonne früh untergeht, erreichen wir Borstahusen zur blauen Stunde. Die Lichter des Hafens spiegeln sich im kalten Wasser, gefolgt von einem wärmenden Abendessen am Kamin.",
             "hu": "A téli reggel friss, csípős levegővel köszönt a Városházánál. A Sofia Albertina templom meleg belső tere ilyenkor különösen hívogató a felfedezés előtt.\n\nDélben a Citadella hófödte bástyái között sétálhatunk. A fagyos várárok látványa után jól esik behúzódni a fűtött múzeumi termekbe, ahol a város története elevenedik meg.\n\nDélután a múzeumi negyed csendjében pihenhetünk meg. A korai sötétedés miatt a Művészeti Galéria fényei már kora délután barátságos hangulatot árasztanak.\n\nAz este Borstahusenben ér minket, éppen a kék órában. A kikötő befagyott részletei és a sós, hideg szél után egy helyi halászcsárdában melegedhetünk fel.",
             "ro": "Dimineața de iarnă la Primărie aduce un aer rece și clar. Biserica Sofia Albertina oferă un refugiu primitor și cald pentru a începe ziua în liniște.\n\nLa prânz, Citadela acoperită de brumă oferă un peisaj dramatic. După o scurtă plimbare pe bastioanele înghețate, expozițiile interioare încălzite sunt ideale pentru explorare.\n\nDupă-amiaza, profităm de lumina slabă a soarelui în Muzeu. Atmosfera calmă de iarnă face ca vizitarea Galeriei de Artă să fie o experiență foarte relaxantă.\n\nDeoarece soarele apune devreme, ajungem în Borstahusen la timp pentru ora albastră. Reflexiile luminilor în apa rece a portului creează un cadru magic înainte de cină.",
-            "en": "A winter morning at the Town Hall is often crisp and bright. The Sofia Albertina Church provides a warm, serene start to the day as you admire its classical interior.\n\nAt midday, the Citadel's frozen moats and frosted ramparts look spectacular. A brisk walk outside followed by a visit to the heated museum rooms balances the chill.\n\nIn the afternoon, make the most of the limited daylight at the Museum and Art Gallery. These cultural hubs are quiet and cozy during the colder months.\n\nWith sunset arriving early, Borstahusen is reached during the beautiful 'blue hour'. The harbor lights glimmer against the cold Oresund before you settle in for a warm meal."
+            "en": "A winter morning at the Town Hall is often crisp and bright. The Sofia Albertina Church provides a warm, serene start to the day as you admire its classical interior.\n\nAt midday, the Citadel's frozen moats and frosted ramparts look spectacular. A brisk walk outside followed by a visit to the heated museum rooms balances the chill.\n\nIn the afternoon, make the most of the limited daylight at the Museum and Art Gallery. These cultural hubs are quiet and cozy during the colder months.\n\nWith sunset arriving early, Borstahusen is reached during the beautiful 'blue hour'. The harbor lights glimmer against the cold Oresund before you settle in for a warm meal.",
+            "sv": "En vintermorgon vid rådhuset är ofta krispig och ljus. Sofia Albertina kyrka ger en varm, fridfull start på dagen när du beundrar dess klassiska inredning.\n\nMitt på dagen ser citadellets frusna vallgravar och frostiga vallar spektakulära ut. En frisk promenad utomhus följt av ett besök i de uppvärmda museirummen balanserar kylan.\n\nPå eftermiddagen, utnyttja det begränsade dagsljuset på museumet och konsthallen. Dessa kulturställen är tysta och mysiga under de kallare månaderna.\n\nMed solnedgången som infaller tidigt når du Borstahusen under den vackra ’blå timmen’. Hamnens ljus glimmar mot det kalla Öresund innan du slår dig ner för en varm måltid."
           },
           "stops": [
             {
@@ -501,7 +537,8 @@
                 "de": "Der Platz ist oft festlich beleuchtet; ideal für Fotos am Morgen.",
                 "hu": "A tér ünnepi fényei reggel a legszebbek.",
                 "ro": "Piața este adesea decorată festiv; ideal pentru fotografii.",
-                "en": "The square is often festively lit; perfect for early morning photos."
+                "en": "The square is often festively lit; perfect for early morning photos.",
+                "sv": "Torget är ofta festligt upplyst; perfekt för morgonbilder."
               }
             },
             {
@@ -510,7 +547,8 @@
                 "de": "Achten Sie auf die Wärme im Inneren – ein idealer Aufwärmstopp.",
                 "hu": "Használd ki a templom melegét egy rövid pihenőre.",
                 "ro": "Interiorul este bine încălzit; un loc bun pentru a vă dezmorți.",
-                "en": "The interior is well-heated—a great spot to warm up."
+                "en": "The interior is well-heated—a great spot to warm up.",
+                "sv": "Interiören är väl uppvärmd—ett bra ställe att värma sig på."
               }
             },
             {
@@ -519,7 +557,8 @@
                 "de": "Die verschneiten Wälle bieten einen tollen Blick auf den Öresund.",
                 "hu": "A hófödte bástyákról pazar kilátás nyílik a befagyott tengerre.",
                 "ro": "Bastioanele înzăpezite oferă o vedere superbă spre mare.",
-                "en": "The snowy ramparts offer a dramatic view of the Oresund."
+                "en": "The snowy ramparts offer a dramatic view of the Oresund.",
+                "sv": "De snötäckta vallarna erbjuder en dramatisk utsikt över Öresund."
               }
             },
             {
@@ -528,7 +567,8 @@
                 "de": "Auch im Winter ist die Struktur der historischen Gärten sehenswert.",
                 "hu": "A történelmi kertek szerkezete télen is érdekes látvány.",
                 "ro": "Structura grădinilor istorice rămâne vizibilă și iarna.",
-                "en": "The layout of the historical gardens is visible even under frost."
+                "en": "The layout of the historical gardens is visible even under frost.",
+                "sv": "Historiska trädgårdarnas layout är synlig även under frost."
               }
             },
             {
@@ -537,7 +577,8 @@
                 "de": "Die Cafeteria bietet warme Getränke für eine Pause zwischendurch.",
                 "hu": "A múzeumi kávézóban gőzölgő italokkal melegedhetsz.",
                 "ro": "Cafeneaua muzeului oferă băuturi calde pentru o pauză necesară.",
-                "en": "The museum cafe is perfect for a hot drink mid-tour."
+                "en": "The museum cafe is perfect for a hot drink mid-tour.",
+                "sv": "Museicafét är perfekt för en varm dryck mitt under rundturen."
               }
             },
             {
@@ -546,7 +587,8 @@
                 "de": "Das Winterlicht durch die Glaswände ist besonders klar.",
                 "hu": "A téli fények az üvegfalakon át különleges hangulatot adnak.",
                 "ro": "Lumina de iarnă prin pereții de sticlă este foarte clară.",
-                "en": "Winter light through the glass walls is exceptionally clear."
+                "en": "Winter light through the glass walls is exceptionally clear.",
+                "sv": "Vinterljus genom glasväggarna är ovanligt klart."
               }
             },
             {
@@ -555,7 +597,8 @@
                 "de": "Genießen Sie den Sonnenuntergang über dem Meer gegen 15:30 Uhr.",
                 "hu": "A naplemente már 15:30 körül elkezdődik a tenger felett.",
                 "ro": "Apusul peste mare începe în jur de ora 15:30.",
-                "en": "Expect sunset over the sea as early as 15:30."
+                "en": "Expect sunset over the sea as early as 15:30.",
+                "sv": "Räkna med solnedgång över havet så tidigt som 15:30."
               }
             }
           ],
@@ -583,6 +626,12 @@
               "Layered clothing and windproof gear are essential for the coastal breeze.",
               "Pavements can be icy; look out for grit and wear non-slip footwear.",
               "Take advantage of the cozy 'mysig' atmosphere in local cafes during the dark hours."
+            ],
+            "sv": [
+              "Solnedgången är mycket tidig (runt 15:30 i december); avsluta utomhusstopp senast mitt på eftermiddagen.",
+              "Lager på lager och vindtätt ytterplagg är nödvändigt för kustbrisen.",
+              "Trottoarerna kan vara isiga; håll utkik efter grusning och bära halkfria skor.",
+              "Dra nytta av den mysiga atmosfären i lokala kaféer under de mörka timmarna."
             ]
           }
         }
@@ -601,7 +650,8 @@
             "de": "Borstahusen",
             "hu": "Borstahusen",
             "ro": "Borstahusen",
-            "en": "Borstahusen"
+            "en": "Borstahusen",
+            "sv": "Borstahusen"
           },
           "coords": [
             12.82,
@@ -617,7 +667,8 @@
             "de": "Starten Sie den Tag mit einer erfrischenden Fahrt zum Fischerdorf.",
             "hu": "Kezdje a napot egy frissítő tekeréssel a halászfaluhoz.",
             "ro": "Începeți ziua cu o plimbare revigorantă cu bicicleta până la satul pescăresc.",
-            "en": "Start the day with a refreshing ride to the fishing village."
+            "en": "Start the day with a refreshing ride to the fishing village.",
+            "sv": "Börja dagen med en uppfriskande tur till fiskebyn."
           }
         },
         {
@@ -625,7 +676,8 @@
             "de": "Rathaus Landskrona",
             "hu": "Landskronai Városháza",
             "ro": "Primăria Landskrona",
-            "en": "Landskrona Town Hall"
+            "en": "Landskrona Town Hall",
+            "sv": "Landskrona rådhus"
           },
           "coords": [
             12.8305,
@@ -641,7 +693,8 @@
             "de": "Das Zentrum ist leicht mit dem Fahrrad zu erreichen. Parken Sie und machen Sie ein Foto.",
             "hu": "A központ könnyen elérhető biciklivel. Parkoljon le és készítsen egy fotót.",
             "ro": "Centrul este ușor accesibil cu bicicleta. Parcați și faceți o fotografie.",
-            "en": "The center is easily reachable by bike. Park and take a photo."
+            "en": "The center is easily reachable by bike. Park and take a photo.",
+            "sv": "Centrum är lätt nåbart med cykel. Parkera och ta en bild."
           }
         },
         {
@@ -649,7 +702,8 @@
             "de": "Sofia Albertina Kirche",
             "hu": "Sofia Albertina templom",
             "ro": "Biserica Sofia Albertina",
-            "en": "Sofia Albertina Church"
+            "en": "Sofia Albertina Church",
+            "sv": "Sofia Albertina kyrka"
           },
           "coords": [
             12.833,
@@ -665,7 +719,8 @@
             "de": "Nur eine kurze Fahrt vom Rathaus entfernt. Ein Muss für Architekturliebhaber.",
             "hu": "Csak egy rövid bicikliút a Városházától. Építészetkedvelőknek kötelező.",
             "ro": "La doar o scurtă plimbare cu bicicleta de Primărie. O vizită obligatorie pentru iubitorii de arhitectură.",
-            "en": "Just a short ride from the Town Hall. A must-see for architecture lovers."
+            "en": "Just a short ride from the Town Hall. A must-see for architecture lovers.",
+            "sv": "Bara en kort cykeltur från rådhuset. Ett måste för arkitekturintresserade."
           }
         },
         {
@@ -673,7 +728,8 @@
             "de": "Zitadelle von Landskrona",
             "hu": "Landskronai Citadella",
             "ro": "Citadela din Landskrona",
-            "en": "Landskrona Citadel"
+            "en": "Landskrona Citadel",
+            "sv": "Landskrona citadell"
           },
           "coords": [
             12.825,
@@ -689,7 +745,8 @@
             "de": "Fahren Sie um die Festung herum, um ihre Größe voll zu erfassen, bevor Sie hineingehen.",
             "hu": "Tekerjen körbe az erőd körül, hogy teljes mértékben felmérje a nagyságát, mielőtt bemegy.",
             "ro": "Mergeți cu bicicleta în jurul cetății pentru a aprecia pe deplin scara sa înainte de a intra.",
-            "en": "Cycle around the fortress to fully appreciate its scale before heading inside."
+            "en": "Cycle around the fortress to fully appreciate its scale before heading inside.",
+            "sv": "Cykla runt fästningen för att fullt ut uppskatta dess skala innan du går in."
           }
         },
         {
@@ -697,7 +754,8 @@
             "de": "Rothoffska kolonin",
             "hu": "Rothoffska kert",
             "ro": "Grădina Rothoffska",
-            "en": "Rothoffska Allotment Garden"
+            "en": "Rothoffska Allotment Garden",
+            "sv": "Rothoffska koloniträdgård"
           },
           "coords": [
             12.8245,
@@ -713,7 +771,8 @@
             "de": "Ein perfekter Ort für eine Mittagspause mit einem Picknick.",
             "hu": "Tökéletes hely egy piknikkel egybekötött ebédszünetre.",
             "ro": "Un loc perfect pentru o pauză de prânz cu un picnic.",
-            "en": "A perfect spot for a lunch break with a picnic."
+            "en": "A perfect spot for a lunch break with a picnic.",
+            "sv": "En perfekt plats för en lunchpaus med picknick."
           }
         },
         {
@@ -721,7 +780,8 @@
             "de": "Museum Landskrona & Konsthall",
             "hu": "Landskrona Múzeum és Művészeti Csarnok",
             "ro": "Muzeul și Galeria de Artă Landskrona",
-            "en": "Landskrona Museum & Art Gallery"
+            "en": "Landskrona Museum & Art Gallery",
+            "sv": "Landskrona museum & konsthall"
           },
           "coords": [
             12.8275,
@@ -737,7 +797,8 @@
             "de": "Kombinieren Sie diese beiden Orte, da sie direkt nebeneinander liegen. Ein Paradies für Kunstliebhaber.",
             "hu": "Kombinálja ezt a két helyszínt, mivel egymás mellett vannak. Művészetkedvelők paradicsoma.",
             "ro": "Combinați aceste două locuri, deoarece sunt chiar unul lângă celălalt. Un paradis pentru iubitorii de artă.",
-            "en": "Combine these two as they are right next to each other. An art lover's paradise."
+            "en": "Combine these two as they are right next to each other. An art lover's paradise.",
+            "sv": "Kombinera dessa två då de ligger precis intill varandra. Ett paradis för konstälskare."
           }
         },
         {
@@ -745,7 +806,8 @@
             "de": "Ven-Fähre",
             "hu": "Ven komp",
             "ro": "Feribotul Ven",
-            "en": "Ven Ferry"
+            "en": "Ven Ferry",
+            "sv": "Venfärjan"
           },
           "coords": [
             12.818,
@@ -761,7 +823,8 @@
             "de": "Auch wenn Sie keine Zeit haben, die Insel zu besuchen, ist es schön, die Fähren kommen und gehen zu sehen.",
             "hu": "Még ha nincs is ideje meglátogatni a szigetet, jó nézni a kompok érkezését és indulását.",
             "ro": "Chiar dacă nu aveți timp să vizitați insula, este frumos să priviți feriboturile venind și plecând.",
-            "en": "Even if you don't have time to visit the island, it's nice to see the ferries come and go."
+            "en": "Even if you don't have time to visit the island, it's nice to see the ferries come and go.",
+            "sv": "Även om du inte hinner besöka ön är det trevligt att se färjorna komma och gå."
           }
         },
         {
@@ -769,7 +832,8 @@
             "de": "Sonnenuntergang am Strand",
             "hu": "Naplemente a tengerparton",
             "ro": "Apus de soare pe plajă",
-            "en": "Sunset at the Beach"
+            "en": "Sunset at the Beach",
+            "sv": "Solnedgång på stranden"
           },
           "coords": [
             12.815,
@@ -785,7 +849,8 @@
             "de": "Beenden Sie den Tag mit einer gemütlichen Fahrt entlang der Küste, um den Sonnenuntergang zu beobachten.",
             "hu": "Zárja a napot egy kellemes tekeréssel a part mentén, hogy megnézze a naplementét.",
             "ro": "Încheiați ziua cu o plimbare relaxantă pe coastă pentru a privi apusul.",
-            "en": "End the day with a leisurely ride along the coast to watch the sunset."
+            "en": "End the day with a leisurely ride along the coast to watch the sunset.",
+            "sv": "Avsluta dagen med en lugn cykeltur längs kusten för att se solnedgången."
           }
         }
       ],
@@ -793,7 +858,8 @@
         "de": "Starten Sie Ihren Radtag mit einer belebenden Fahrt zum Fischerdorf Borstahusen. Von dort aus radeln Sie ins Stadtzentrum, um das Rathaus und die Sofia-Albertina-Kirche zu bewundern. Der Vormittag ist der Erkundung des riesigen Zitadellengeländes gewidmet. Nach einer Pause in den Rothoffska-Gärten tauchen Sie am Nachmittag in Kunst und Geschichte im Landskrona Museum und der Konsthall ein. Schließlich radeln Sie zum Hafen, um die Ven-Fähre zu sehen, und beenden den Tag mit einer malerischen Küstenfahrt, um den Sonnenuntergang zu genießen.",
         "hu": "Kezdje a biciklis napot egy élénkítő tekeréssel Borstahusen halászfaluhoz. Onnan tekerjen be a városközpontba, hogy megcsodálja a Városházát és a Sofia Albertina templomot. A délelőtt a hatalmas Citadella területének felfedezésével telik. A Rothoffska kertekben tartott szünet után délután merüljön el a művészetben és a történelemben a Landskrona Múzeumban és a Konsthallban. Végül tekerjen el a kikötőbe, hogy megnézze a Ven kompot, és zárja a napot egy festői tengerparti úttal, hogy élvezze a naplementét.",
         "ro": "Începeți ziua de ciclism cu o plimbare revigorantă până la satul pescăresc Borstahusen. De acolo, pedalați spre centrul orașului pentru a admira Primăria și Biserica Sofia Albertina. Dimineața este dedicată explorării vastului complex al Cetății. După o pauză în grădinile Rothoffska, scufundați-vă în artă și istorie la Muzeul Landskrona și Konsthall după-amiaza. În cele din urmă, pedalați până la port pentru a vedea feribotul Ven, încheind ziua cu o plimbare pitorească pe coastă pentru a vă bucura de apus.",
-        "en": "Kick off your cycling day with an invigorating ride to Borstahusen fishing village. From there, pedal to the city center to admire the Town Hall and Sofia Albertina Church. The morning is dedicated to exploring the vast Citadel grounds. After a break in the Rothoffska gardens, immerse yourself in art and history at Landskrona Museum and Konsthall in the afternoon. Finally, cycle to the harbour to see the Ven ferry, ending the day with a scenic coastal ride to enjoy the sunset."
+        "en": "Kick off your cycling day with an invigorating ride to Borstahusen fishing village. From there, pedal to the city center to admire the Town Hall and Sofia Albertina Church. The morning is dedicated to exploring the vast Citadel grounds. After a break in the Rothoffska gardens, immerse yourself in art and history at Landskrona Museum and Konsthall in the afternoon. Finally, cycle to the harbour to see the Ven ferry, ending the day with a scenic coastal ride to enjoy the sunset.",
+        "sv": "Starta din cykeldag med en uppiggande tur till Borstahusen fiskeby. Därifrån trampar du vidare till centrum för att beundra rådhuset och Sofia Albertina kyrka. Förmiddagen ägnas åt att utforska de vidsträckta citadellsområdena. Efter en paus i Rothoffska trädgårdar, fördjupa dig i konst och historia på Landskrona museum och konsthall på eftermiddagen. Avslutningsvis cyklar du till hamnen för att se Venfärjan och avslutar dagen med en naturskön kusttur för att njuta av solnedgången."
       },
       "gastro_picks": {
         "de": [
@@ -989,6 +1055,12 @@
           "Always lock your bike, even if leaving it for a short period.",
           "The wind can be strong on the coast, so be prepared.",
           "Some parts of the Citadel may not be accessible by bike, so be ready to walk."
+        ],
+        "sv": [
+          "Landskrona är mycket cykelvänligt med många separata cykelvägar.",
+          "Lås alltid din cykel, även om du lämnar den för en kort stund.",
+          "Vinden kan vara stark vid kusten, så var förberedd.",
+          "Vissa delar av citadellet kan vara svåra att nå på cykel, så var beredd att gå."
         ]
       },
       "variants": {
@@ -997,7 +1069,8 @@
             "de": "Wir starten in Borstahusen, wo der Regen auf die Fischerhütten trommelt. Die Fahrt zum Rathaus ist kurz, bietet aber einen direkten Kontakt mit der Meeresbrise. \n\nMittags suchen wir Schutz in der Sofia Albertina und verbringen eine längere Zeit in der Zitadelle. Das Fahrrad kann unter den Bäumen oder am Eingang geparkt werden. \n\nNachmittags konzentrieren wir uns auf die Museen im Stadtzentrum. Die kurzen Wege zwischen den Gebäuden machen das Radfahren auch bei Regen erträglich. \n\nDer Abend führt uns zum Fähranleger nach Ven. Der Tag endet mit einem Blick auf den grauen Öresund, bevor wir uns ins Trockene zurückziehen.",
             "hu": "Borstahusenből indulunk, ahol az eső kopog a halászkunyhókon. A Városházáig tartó tekerés közben a tengeri szél frissíti fel a társaságot.\n\nDélben a Sofia Albertina templomnál pihenünk, majd a Citadella védelmébe húzódunk. A kerékpárokat érdemes az erőd bejáratánál, fedettebb helyen hagyni.\n\nDélután a belvárosi múzeumoké a terep. A Landskrona Múzeum és a Galéria közelsége miatt alig kell nyeregbe szállni az esőben.\n\nAz este a Ven-szigeti komp kikötőjénél talál minket. A napot a tengerparti sávon zárjuk, figyelve a hullámok játékát a szakadó esőben.",
             "ro": "Pornim din Borstahusen, cu ploaia bătând în cabanele pescarilor. Drumul spre Primărie este scurt, dar oferă un contact direct cu briza umedă.\n\nLa prânz, ne adăpostim la Sofia Albertina și petrecem mai mult timp la Citadelă. Bicicletele pot fi parcate lângă intrarea principală a cetății.\n\nDupă-amiaza ne concentrăm pe muzee. Distanțele mici dintre obiective fac pedalatul acceptabil chiar și pe vreme nefavorabilă.\n\nSeara ne duce spre debarcaderul pentru Ven. Ziua se încheie cu o privire asupra strâmtorii cenușii înainte de a ne retrage la adăpost.",
-            "en": "We start in Borstahusen, hearing the rain drum on the old fishing huts. The cycle to the Town Hall is short but gives you a direct feel for the coastal air.\n\nAt midday, we take cover at Sofia Albertina and spend extended time at the Citadel. Parking the bike near the entrance allows for a quick dash inside.\n\nIn the afternoon, the focus shifts to the downtown museums. The short cycling distances between sites keep you from getting too soaked.\n\nThe evening leads us to the Ven Ferry area. We end the day observing the grey Oresund from the shore before heading to a dry spot."
+            "en": "We start in Borstahusen, hearing the rain drum on the old fishing huts. The cycle to the Town Hall is short but gives you a direct feel for the coastal air.\n\nAt midday, we take cover at Sofia Albertina and spend extended time at the Citadel. Parking the bike near the entrance allows for a quick dash inside.\n\nIn the afternoon, the focus shifts to the downtown museums. The short cycling distances between sites keep you from getting too soaked.\n\nThe evening leads us to the Ven Ferry area. We end the day observing the grey Oresund from the shore before heading to a dry spot.",
+            "sv": "Vi börjar i Borstahusen och hör regnet trumma på de gamla fiskestugorna. Cykelturen till rådhuset är kort men ger en direkt känsla av kustluften.\n\nMitt på dagen tar vi skydd i Sofia Albertina och tillbringar längre tid vid citadellet. Att ställa cykeln nära entrén möjliggör snabba ruscher inomhus.\n\nPå eftermiddagen skiftar fokus till stadens museer. De korta cykelavstånden mellan platserna hindrar dig från att bli alltför genomblöt.\n\nKvällen leder oss till Venfärjeområdet. Vi avslutar dagen med att betrakta det grå Öresund från stranden innan vi går till ett torrt ställe."
           },
           "stops": [
             {
@@ -1006,7 +1079,8 @@
                 "de": "Prüfen Sie Ihre Bremsen; die nassen Gassen können rutschig sein.",
                 "hu": "Ellenőrizd a fékeket; a vizes aszfalt csúszós lehet.",
                 "ro": "Verificați frânele; străzile umede pot fi alunecoase.",
-                "en": "Check your brakes; the wet coastal roads can be slick."
+                "en": "Check your brakes; the wet coastal roads can be slick.",
+                "sv": "Kontrollera bromsarna; de våta kustvägarna kan vara hala."
               }
             },
             {
@@ -1015,7 +1089,8 @@
                 "de": "Fahrradständer direkt vor dem Gebäude nutzbar.",
                 "hu": "Kerékpártámaszok közvetlenül az épület előtt.",
                 "ro": "Suporturi de bicicleté disponibile chiar în fața clădirii.",
-                "en": "Bike racks are conveniently located right in front of the building."
+                "en": "Bike racks are conveniently located right in front of the building.",
+                "sv": "Cykelställ finns bekvämt placerade precis framför byggnaden."
               }
             },
             {
@@ -1024,7 +1099,8 @@
                 "de": "Kurzer Stopp zum Trocknen der Kleidung im Vorraum.",
                 "hu": "Rövid pihenő a ruhák megszárításához az előtérben.",
                 "ro": "Scurt popas pentru a vă usca hainele în pridvor.",
-                "en": "A quick stop to dry your gear in the entrance lobby."
+                "en": "A quick stop to dry your gear in the entrance lobby.",
+                "sv": "Ett snabbt stopp för att torka din utrustning i entréhallen."
               }
             },
             {
@@ -1033,7 +1109,8 @@
                 "de": "Stellen Sie das Rad unter die Bäume am Graben ab.",
                 "hu": "Támaszd a biciklit a várárok menti fák alá.",
                 "ro": "Parcați bicicleta sub copacii de lângă șanț.",
-                "en": "Park your bike under the trees by the moat for some cover."
+                "en": "Park your bike under the trees by the moat for some cover.",
+                "sv": "Parkera cykeln under träden vid vallgraven för visst skydd."
               }
             },
             {
@@ -1042,7 +1119,8 @@
                 "de": "Die Wege im Garten sind schmal; schieben Sie das Rad.",
                 "hu": "A kertben szűkek az utak; toljuk a bringát.",
                 "ro": "Căile din grădină sunt înguste; mergeți pe lângă bicicletă.",
-                "en": "Garden paths are narrow; please walk your bike here."
+                "en": "Garden paths are narrow; please walk your bike here.",
+                "sv": "Trädgårdspromenaderna är smala; vänligen ledda av cykeln här."
               }
             },
             {
@@ -1051,7 +1129,8 @@
                 "de": "Idealer Ort für eine lange Regenpause.",
                 "hu": "Tökéletes helyszín egy hosszabb esőszünethez.",
                 "ro": "Locul ideal pentru o pauză lungă de ploaie.",
-                "en": "An ideal location for an extended break from the rain."
+                "en": "An ideal location for an extended break from the rain.",
+                "sv": "En idealisk plats för en längre paus från regnet."
               }
             },
             {
@@ -1060,7 +1139,8 @@
                 "de": "Der Wartebereich der Fähre ist überdacht.",
                 "hu": "A komp váróterme fedett és szélvédett.",
                 "ro": "Zona de așteptare a feribotului este acoperită.",
-                "en": "The ferry terminal provides a covered waiting area."
+                "en": "The ferry terminal provides a covered waiting area.",
+                "sv": "Färjeterminalen erbjuder en täckt väntsal."
               }
             },
             {
@@ -1069,7 +1149,8 @@
                 "de": "Auch bei Regen bietet der Himmel oft dramatische Farben.",
                 "hu": "Az esőfelhők között is drámai színeket ölthet az ég.",
                 "ro": "Cerul poate oferi culori dramatice chiar și pe ploaie.",
-                "en": "Rain clouds often create dramatic colors at dusk."
+                "en": "Rain clouds often create dramatic colors at dusk.",
+                "sv": "Regnmoln skapar ofta dramatiska färger i skymningen."
               }
             }
           ],
@@ -1097,6 +1178,12 @@
               "Avoid sharp turns on wet cobblestones in the city center.",
               "Use the city's free air stations if your tire pressure drops in the cold rain.",
               "The pier in Borstahusen can get salty spray during windy rain showers."
+            ],
+            "sv": [
+              "Fullt regnskydd inklusive skoskydd rekommenderas starkt.",
+              "Undvik tvära svängar på våra kullerstenar i innerstaden.",
+              "Använd stadens gratisluftpumpar om däcktrycket sjunker i kalla regnet.",
+              "Bryggan i Borstahusen kan få saltstänk vid blåsiga regnskurar."
             ]
           }
         },
@@ -1105,7 +1192,8 @@
             "de": "Ein frostiger Start in Borstahusen. Die kühle Brise vom Öresund macht das Radfahren belebend. Wir radeln entlang der Küste zum Rathaus. \n\nMittags machen wir öfter Halt, um uns in der Kirche oder der Zitadelle aufzuwärmen. Das Licht auf den gefrorenen Wällen der Festung ist einzigartig. \n\nNachmittags verbringen wir die meiste Zeit in den Museen. Das Rad dient als schnelles Transportmittel zwischen den warmen Kulturstationen. \n\nZum Sonnenuntergang radeln wir zum Strand. Das Eis am Ufer und das frühe Abendlicht bieten fantastische Fotomotive, bevor wir den Tag am Fähranleger beenden.",
             "hu": "Fagyos reggel Borstahusenben. Az Öresund felől fújó hűvös szél élénkítően hat a tekerésre a Városháza felé vezető úton.\n\nDélben gyakrabban állunk meg melegedni a templomban vagy a Citadellánál. A fagyos várfalakon megcsillanó téli fények lenyűgözőek.\n\nDélután a múzeumi látogatásoké a főszerep. A kerékpár ilyenkor csak gyors összekötő kapocs a fűtött kiállítóterek között.\n\nNaplementekor a tengerpartra tekerünk. A part menti jég és a korai fények különleges látványt nyújtanak, mielőtt a kompállomásnál zárnánk a napot.",
             "ro": "Un început înghețat în Borstahusen. Briza rece de pe Öresund face pedalatul revigorant spre Primărie.\n\nLa prânz, facem opriri dese pentru a ne încălzi în biserică sau la Citadelă. Lumina pe zidurile înghețate ale cetății este unică.\n\nDupă-amiaza, petrecem majoritatea timpului în muzee. Bicicleta servește ca mijloc rapid de transport între punctele culturale calde.\n\nLa apus, pedalăm spre plajă. Gheața de la mal și lumina timpurie oferă oportunități foto fantastice înainte de a termina ziua la feribot.",
-            "en": "A frosty start in Borstahusen. The cool breeze from the Oresund makes the ride to the Town Hall feel invigorating. \n\nAt midday, we stop frequently to warm up in the church or the Citadel. The winter sun hitting the frozen ramparts creates a unique glow.\n\nIn the afternoon, we spend most of our time inside the museums. The bike is simply a quick link between warm cultural stops.\n\nAt sunset, we cycle to the beach. The ice on the shoreline and the early evening light provide stunning photo ops before ending at the ferry pier."
+            "en": "A frosty start in Borstahusen. The cool breeze from the Oresund makes the ride to the Town Hall feel invigorating. \n\nAt midday, we stop frequently to warm up in the church or the Citadel. The winter sun hitting the frozen ramparts creates a unique glow.\n\nIn the afternoon, we spend most of our time inside the museums. The bike is simply a quick link between warm cultural stops.\n\nAt sunset, we cycle to the beach. The ice on the shoreline and the early evening light provide stunning photo ops before ending at the ferry pier.",
+            "sv": "En frostig start i Borstahusen. Den svala brisen från Öresund gör cykelturen till stadshuset uppiggande. \n\nVid middagstid stannar vi ofta för att värma oss i kyrkan eller på Citadellet. Vintersolen som träffar de frusna vallarna ger ett särskilt sken.\n\nPå eftermiddagen tillbringar vi mest tid inne på museerna. Cykeln är helt enkelt en snabb länk mellan varma kulturställen.\n\nI solnedgången cyklar vi till stranden. Isen vid strandkanten och det tidiga kvällsljuset ger fantastiska fototillfällen innan vi avslutar vid färjeterminalen."
           },
           "stops": [
             {
@@ -1114,7 +1202,8 @@
                 "de": "Vorsicht bei überfrorener Nässe auf den Holzstegen.",
                 "hu": "Vigyázz a fagypont alatti csúszós fafelületeken.",
                 "ro": "Atenție la porțiunile înghețate de pe pontoanele de lemn.",
-                "en": "Watch out for black ice on the wooden piers."
+                "en": "Watch out for black ice on the wooden piers.",
+                "sv": "Se upp för svartis på trädäcken vid bryggorna."
               }
             },
             {
@@ -1123,7 +1212,8 @@
                 "de": "Handschuhe anbehalten – die Metalllenker sind jetzt sehr kalt.",
                 "hu": "Ne vedd le a kesztyűt; a fém kormány nagyon hideg.",
                 "ro": "Nu renunțați la mănuși; ghidonul metalic este foarte rece.",
-                "en": "Keep your gloves on; metal handlebars get very cold now."
+                "en": "Keep your gloves on; metal handlebars get very cold now.",
+                "sv": "Behåll handskarna på; metalldragstänger blir mycket kalla nu."
               }
             },
             {
@@ -1132,7 +1222,8 @@
                 "de": "Stellen Sie das Rad sicher ab; der Boden kann glatt sein.",
                 "hu": "Biztonságosan támaszd le a bringát a csúszós talajon.",
                 "ro": "Parcați bicicleta cu grijă pe solul alunecos.",
-                "en": "Park your bike carefully on potentially slippery ground."
+                "en": "Park your bike carefully on potentially slippery ground.",
+                "sv": "Parkera cykeln försiktigt på eventuellt hal mark."
               }
             },
             {
@@ -1141,7 +1232,8 @@
                 "de": "Die Wege um den Graben werden meist geräumt.",
                 "hu": "A várárok körüli utakat általában letakarítják.",
                 "ro": "Potecile din jurul șanțului sunt de obicei deszăpezite.",
-                "en": "The paths around the moat are usually cleared of snow."
+                "en": "The paths around the moat are usually cleared of snow.",
+                "sv": "Stigarna runt vallgraven brukar röjas från snö."
               }
             },
             {
@@ -1150,7 +1242,8 @@
                 "de": "Bewundern Sie die winterharte Bepflanzung.",
                 "hu": "Csodáld meg a fagytűrő növényeket.",
                 "ro": "Admirați plantele rezistente la ger.",
-                "en": "Admire the frost-resistant plants in the historic plots."
+                "en": "Admire the frost-resistant plants in the historic plots.",
+                "sv": "Beundra de härdiga växterna i de historiska odlingslottarna."
               }
             },
             {
@@ -1159,7 +1252,8 @@
                 "de": "Parken Sie nah am Eingang für minimalen Kältekontakt.",
                 "hu": "Parkolj közel a bejárathoz a hideg elkerülése végett.",
                 "ro": "Parcați aproape de intrare pentru a limita expunerea la frig.",
-                "en": "Park close to the entrance to minimize time in the cold."
+                "en": "Park close to the entrance to minimize time in the cold.",
+                "sv": "Parkera nära entrén för att minimera tiden i kylan."
               }
             },
             {
@@ -1168,7 +1262,8 @@
                 "de": "Prüfen Sie den Winterfahrplan der Fähre.",
                 "hu": "Ellenőrizd a komp téli menetrendjét.",
                 "ro": "Verificați programul de iarnă al feribotului.",
-                "en": "Double-check the ferry's reduced winter schedule."
+                "en": "Double-check the ferry's reduced winter schedule.",
+                "sv": "Dubbelkolla färjans reducerade vinterturlista."
               }
             },
             {
@@ -1177,7 +1272,8 @@
                 "de": "Warmer Tee aus der Thermoskanne macht den Stopp perfekt.",
                 "hu": "Egy termosz meleg tea tökéletessé teszi a pihenőt.",
                 "ro": "Un ceai cald din termos face acest popas perfect.",
-                "en": "A thermos of hot tea makes this sunset stop perfect."
+                "en": "A thermos of hot tea makes this sunset stop perfect.",
+                "sv": "En termos med varmt te gör denna solnedgångsstopp perfekt."
               }
             }
           ],
@@ -1205,6 +1301,12 @@
               "Daylight is limited; aim to do most of your riding between 10:00 and 14:00.",
               "Be careful of grit/gravel spread on bike paths for traction.",
               "Broad tires provide better stability if there's light snow on the paths."
+            ],
+            "sv": [
+              "Funktionell underställning och vindtäta handskar är ett måste för vintercykling.",
+              "Dagtiden är begränsad; försök göra största delen av din cykling mellan 10:00 och 14:00.",
+              "Var försiktig med grus som ligger utstrött på cykelvägarna för bättre fäste.",
+              "Breda däck ger bättre stabilitet om det finns lätt snö på stigarna."
             ]
           }
         }
@@ -1223,7 +1325,8 @@
             "de": "Borstahusen",
             "hu": "Borstahusen",
             "ro": "Borstahusen",
-            "en": "Borstahusen"
+            "en": "Borstahusen",
+            "sv": "Borstahusen"
           },
           "coords": [
             12.82,
@@ -1239,7 +1342,8 @@
             "de": "Parken Sie am Hafen und beginnen Sie den Tag mit einem Spaziergang durch das alte Fischerdorf.",
             "hu": "Parkoljon le a kikötőnél, és kezdje a napot egy sétával a régi halászfaluban.",
             "ro": "Parcați lângă port și începeți ziua cu o plimbare prin vechiul sat pescăresc.",
-            "en": "Park near the harbour and start the day with a walk through the old fishing village."
+            "en": "Park near the harbour and start the day with a walk through the old fishing village.",
+            "sv": "Parkera nära hamnen och börja dagen med en promenad genom den gamla fiskebyn."
           }
         },
         {
@@ -1247,7 +1351,8 @@
             "de": "Ven-Fähre Anleger",
             "hu": "Ven kompkikötő",
             "ro": "Terminalul feribotului Ven",
-            "en": "Ven Ferry Pier"
+            "en": "Ven Ferry Pier",
+            "sv": "Ven färjeterminal"
           },
           "coords": [
             12.818,
@@ -1263,7 +1368,8 @@
             "de": "Fahren Sie zum Fährterminal, um die Aussicht auf den Öresund zu genießen.",
             "hu": "Vezessen el a kompkikötőhöz, hogy élvezze az Öresund-szorosra nyíló kilátást.",
             "ro": "Conduceți până la terminalul de feribot pentru a vă bucura de priveliștea spre strâmtoarea Öresund.",
-            "en": "Drive to the ferry terminal to enjoy the views across the Öresund strait."
+            "en": "Drive to the ferry terminal to enjoy the views across the Öresund strait.",
+            "sv": "Kör till färjeterminalen för att njuta av utsikten över Öresund."
           }
         },
         {
@@ -1271,7 +1377,8 @@
             "de": "Cluster: Zitadelle & Gärten",
             "hu": "Klaszter: Citadella és kertek",
             "ro": "Cluster: Citadelă și grădini",
-            "en": "Cluster: Citadel & Gardens"
+            "en": "Cluster: Citadel & Gardens",
+            "sv": "Klustret: Citadellet & Trädgårdarna"
           },
           "coords": [
             12.825,
@@ -1287,7 +1394,8 @@
             "de": "Parken Sie hier für den nächsten Cluster. Beginnen Sie mit der Erkundung der massiven Festung.",
             "hu": "Parkoljon le itt a következő klaszterhez. Kezdje a hatalmas erőd felfedezésével.",
             "ro": "Parcați aici pentru următorul cluster. Începeți prin a explora fortăreața masivă.",
-            "en": "Park here for the next cluster. Start by exploring the massive fortress."
+            "en": "Park here for the next cluster. Start by exploring the massive fortress.",
+            "sv": "Parkera här för nästa kluster. Börja med att utforska den mäktiga fästningen."
           }
         },
         {
@@ -1295,7 +1403,8 @@
             "de": "Rothoffska kolonin",
             "hu": "Rothoffska kert",
             "ro": "Grădina Rothoffska",
-            "en": "Rothoffska Allotment Garden"
+            "en": "Rothoffska Allotment Garden",
+            "sv": "Rothoffska koloniträdgårdarna"
           },
           "coords": [
             12.8245,
@@ -1311,7 +1420,8 @@
             "de": "Ein kurzer Spaziergang von der Zitadelle entfernt, ideal für eine ruhige Pause vor dem Mittagessen.",
             "hu": "Rövid séta a Citadellától, ideális egy csendes pihenőre ebéd előtt.",
             "ro": "O scurtă plimbare de la Citadelă, perfectă pentru o pauză liniștită înainte de prânz.",
-            "en": "A short walk from the Citadel, perfect for a quiet break before lunch."
+            "en": "A short walk from the Citadel, perfect for a quiet break before lunch.",
+            "sv": "En kort promenad från Citadellet, perfekt för en lugn paus före lunchen."
           }
         },
         {
@@ -1319,7 +1429,8 @@
             "de": "Museum & Konsthall",
             "hu": "Múzeum és Művészeti Csarnok",
             "ro": "Muzeu și Galerie de Artă",
-            "en": "Museum & Art Gallery"
+            "en": "Museum & Art Gallery",
+            "sv": "Museum & Konsthall"
           },
           "coords": [
             12.8275,
@@ -1335,7 +1446,8 @@
             "de": "Zurück in Richtung Zitadelle spazieren, um die beiden wichtigsten Kunsträume der Stadt zu besuchen.",
             "hu": "Sétáljon vissza a Citadella felé, hogy meglátogassa a város két fő művészeti helyszínét.",
             "ro": "Mergeți înapoi spre Citadelă pentru a vizita cele două spații principale de artă ale orașului.",
-            "en": "Walk back towards the Citadel to visit the city's two main art spaces."
+            "en": "Walk back towards the Citadel to visit the city's two main art spaces.",
+            "sv": "Gå tillbaka mot Citadellet för att besöka stadens två huvudkonstinstitutioner."
           }
         },
         {
@@ -1343,7 +1455,8 @@
             "de": "Cluster: Stadtzentrum",
             "hu": "Klaszter: Városközpont",
             "ro": "Cluster: Centrul orașului",
-            "en": "Cluster: City Center"
+            "en": "Cluster: City Center",
+            "sv": "Klustret: Stadscentrum"
           },
           "coords": [
             12.8305,
@@ -1359,7 +1472,8 @@
             "de": "Fahren Sie ins Zentrum und parken Sie. Beginnen Sie mit dem Rathaus.",
             "hu": "Vezessen a központba és parkoljon le. Kezdje a Városházával.",
             "ro": "Conduceți spre centru și parcați. Începeți cu Primăria.",
-            "en": "Drive to the center and park. Start with the Town Hall."
+            "en": "Drive to the center and park. Start with the Town Hall.",
+            "sv": "Kör till centrum och parkera. Börja vid stadshuset."
           }
         },
         {
@@ -1367,7 +1481,8 @@
             "de": "Sofia Albertina Kirche",
             "hu": "Sofia Albertina templom",
             "ro": "Biserica Sofia Albertina",
-            "en": "Sofia Albertina Church"
+            "en": "Sofia Albertina Church",
+            "sv": "Sofia Albertina kyrka"
           },
           "coords": [
             12.833,
@@ -1383,7 +1498,8 @@
             "de": "Ein kurzer Spaziergang vom Rathausplatz. Nehmen Sie sich Zeit, das Innere zu bewundern.",
             "hu": "Rövid séta a Városház tértől. Szánjon időt a belső tér megcsodálására.",
             "ro": "O scurtă plimbare din piața primăriei. Luați-vă timp să admirați interiorul.",
-            "en": "A short walk from the town hall square. Take your time to admire the interior."
+            "en": "A short walk from the town hall square. Take your time to admire the interior.",
+            "sv": "En kort promenad från rådhustorget. Ta god tid på dig att beundra interiören."
           }
         }
       ],
@@ -1391,7 +1507,8 @@
         "de": "Beginnen Sie Ihren Tag im Auto mit einer Fahrt zum malerischen Fischerdorf Borstahusen. Nach einem Küstenspaziergang fahren Sie zum Fährhafen, bevor Sie zum ersten Hauptcluster aufbrechen: der Zitadelle. Parken Sie Ihr Auto und verbringen Sie den Vormittag damit, die Festung, die ruhigen Rothoffska-Gärten und die nahegelegenen Museen und Kunstgalerien zu Fuß zu erkunden. Am Nachmittag fahren Sie in den letzten Cluster, das Stadtzentrum. Parken Sie erneut und besuchen Sie das Rathaus und die prächtige Sofia-Albertina-Kirche, um einen Tag voller Entdeckungen abzurunden.",
         "hu": "Kezdje az autós napot egy utazással a festői Borstahusen halászfaluhoz. A tengerparti séta után hajtson a kompkikötőhöz, mielőtt elindulna az első fő klaszterhez: a Citadellához. Parkolja le az autót, és töltse a délelőttöt az erőd, a békés Rothoffska-kertek és a közeli múzeumok és művészeti galériák gyalogos felfedezésével. Délután hajtson az utolsó klaszterbe, a városközpontba. Parkoljon le újra, és látogassa meg a Városházát és a csodálatos Sofia Albertina templomot, hogy lezárja a felfedezésekkel teli napot.",
         "ro": "Începeți ziua cu mașina cu o plimbare până la pitorescul sat pescăresc Borstahusen. După o plimbare pe coastă, conduceți spre portul de feribot înainte de a vă îndrepta spre primul cluster principal: Cetatea. Parcați mașina și petreceți dimineața explorând pe jos fortăreața, grădinile liniștite Rothoffska și muzeele și galeriile de artă din apropiere. După-amiaza, conduceți spre ultimul cluster, centrul orașului. Parcați din nou și vizitați Primăria și magnifica Biserică Sofia Albertina pentru a încheia o zi de explorare.",
-        "en": "Start your car-based day with a drive to the picturesque Borstahusen fishing village. After a coastal stroll, drive by the ferry port before heading to the first main cluster: the Citadel. Park your car and spend the morning exploring the fortress, the serene Rothoffska gardens, and the nearby museums and art galleries on foot. In the afternoon, drive to the final cluster, the city center. Park again and visit the Town Hall and the magnificent Sofia Albertina Church to round off a day of exploration."
+        "en": "Start your car-based day with a drive to the picturesque Borstahusen fishing village. After a coastal stroll, drive by the ferry port before heading to the first main cluster: the Citadel. Park your car and spend the morning exploring the fortress, the serene Rothoffska gardens, and the nearby museums and art galleries on foot. In the afternoon, drive to the final cluster, the city center. Park again and visit the Town Hall and the magnificent Sofia Albertina Church to round off a day of exploration.",
+        "sv": "Börja din bilbaserade dag med en körning till pittoreska Borstahusen fiskeläge. Efter en kustpromenad kör du förbi färjehamnen innan du beger dig till det första huvudklustret: Citadellet. Parkera bilen och tillbringa förmiddagen med att utforska fästningen, de rofyllda Rothoffska trädgårdarna och de närliggande museerna och konsthallarna till fots. På eftermiddagen kör du till det sista klustret, stadens centrum. Parkera igen och besök stadshuset och den magnifika Sofia Albertina kyrka för att avrunda en dag av upptäckter."
       },
       "gastro_picks": {
         "de": [
@@ -1587,6 +1704,12 @@
           "The cluster-walking philosophy helps minimize parking hassles. Park once per area.",
           "Plan your drives between clusters outside of rush hours to avoid traffic.",
           "A GPS is essential for navigating the local roads."
+        ],
+        "sv": [
+          "Parkering kan betalas i centrum; leta efter parkeringsautomater.",
+          "Tanken med att promenera i kluster minskar parkeringsproblem. Parkera en gång per område.",
+          "Planera dina körningar mellan klustren utanför rusningstid för att undvika trafik.",
+          "En GPS är nödvändig för att hitta på de lokala vägarna."
         ]
       },
       "variants": {
@@ -1595,7 +1718,8 @@
             "de": "Die Tour beginnt entspannt in Borstahusen. Vom trockenen Auto aus beobachten wir den Regen über dem Hafen. Danach geht es zum Fähranleger. \n\nMittags besuchen wir den Zitadellen-Komplex. Wir parken in unmittelbarer Nähe, um die Wege im Freien kurz zu halten. Die Gärten wirken im Regen besonders grün. \n\nDer Nachmittag gehört den Museen. Das Auto parkt sicher im Zentrum, während wir die Ausstellungen genießen. \n\nZum Abschluss fahren wir zurück in die Innenstadt und zur Sofia Albertina. Die beleuchtete Stadt spiegelt sich am Abend wunderschön in den nassen Straßen.",
             "hu": "A túra kényelmesen indul Borstahusenben. A száraz autóból figyeljük a kikötő feletti esőt, majd a kompállomás felé vesszük az irányt.\n\nDélben a Citadellát és a környékét keressük fel. A közelben parkolunk, hogy minimalizáljuk a kinti gyaloglást. A kertek az esőben még zöldebbnek tűnnek.\n\nA délután a múzeumi negyedé. Az autó biztonságban pihen a központban, míg mi a kiállításokat böngésszük.\n\nZárásként visszatérünk a belvárosba a Sofia Albertina templomhoz. A kivilágított város fényei gyönyörűen tükröződnek a vizes aszfalton.",
             "ro": "Turul începe relaxat în Borstahusen. Din mașina uscată, observăm ploaia peste port, apoi ne îndreptăm spre feribot.\n\nLa prânz vizităm complexul Citadelei. Parcăm în imediata apropiere pentru a scurta drumul prin ploaie. Grădinile par foarte verzi sub apă.\n\nDupă-amiaza aparține muzeelor. Mașina stă în siguranță în centru în timp ce noi ne bucurăm de expoziții.\n\nLa final, revenim în centrul orașului la biserica Sofia Albertina. Orașul luminat se oglindește frumos pe străzile ude seara.",
-            "en": "The tour starts comfortably in Borstahusen. From the dry car, we watch the rain sweep over the harbor before driving to the ferry pier. \n\nAt midday, we visit the Citadel complex. Parking nearby allows us to keep our outdoor time to a minimum. The gardens look vibrant in the rain.\n\nIn the afternoon, it's museum time. The car is safely parked in the center while we enjoy the indoor exhibits.\n\nFinally, we head back to the city center and the Sofia Albertina Church. The evening lights reflect beautifully on the wet city streets."
+            "en": "The tour starts comfortably in Borstahusen. From the dry car, we watch the rain sweep over the harbor before driving to the ferry pier. \n\nAt midday, we visit the Citadel complex. Parking nearby allows us to keep our outdoor time to a minimum. The gardens look vibrant in the rain.\n\nIn the afternoon, it's museum time. The car is safely parked in the center while we enjoy the indoor exhibits.\n\nFinally, we head back to the city center and the Sofia Albertina Church. The evening lights reflect beautifully on the wet city streets.",
+            "sv": "Turen börjar bekvämt i Borstahusen. Från den torra bilen ser vi regnet svepa över hamnen innan vi kör till färjehamnen. \n\nVid middagstid besöker vi Citadellkomplexet. Parkering i närheten gör att vi kan hålla vår utomhustid till ett minimum. Trädgårdarna ser livfulla ut i regnet.\n\nPå eftermiddagen är det muséet som gäller. Bilen står tryggt parkerad i centrum medan vi njuter av utställningarna inomhus.\n\nTill sist återvänder vi till stadens centrum och Sofia Albertina kyrka. kvällsljusen speglar sig vackert i de blöta gatorna."
           },
           "stops": [
             {
@@ -1604,7 +1728,8 @@
                 "de": "Parkplatz direkt am Hafenbecken verfügbar.",
                 "hu": "Parkolóhelyek közvetlenül a kikötőmedence mellett.",
                 "ro": "Parcare disponibilă chiar lângă bazinul portului.",
-                "en": "Parking is available right by the harbor basin."
+                "en": "Parking is available right by the harbor basin.",
+                "sv": "Parkering finns precis vid hamnbassängen."
               }
             },
             {
@@ -1613,7 +1738,8 @@
                 "de": "Kurzer Stopp am Kai für Hafenflair ohne Aussteigen.",
                 "hu": "Rövid megálló a rakparton a kikötői hangulatért.",
                 "ro": "Scurtă oprire pe chei pentru atmosfera portuară.",
-                "en": "A quick quay-side stop to enjoy the harbor vibe from the car."
+                "en": "A quick quay-side stop to enjoy the harbor vibe from the car.",
+                "sv": "Ett snabbt stopp vid kajen för att njuta av hamnens atmosfär från bilen."
               }
             },
             {
@@ -1622,7 +1748,8 @@
                 "de": "Nutzen Sie den Parkplatz Kasernplan.",
                 "hu": "Használd a Kasernplan parkolót.",
                 "ro": "Folosiți parcarea de la Kasernplan.",
-                "en": "Park at Kasernplan for the easiest access to the fortress."
+                "en": "Park at Kasernplan for the easiest access to the fortress.",
+                "sv": "Parkera vid Kasernplan för enklast åtkomst till fästningen."
               }
             },
             {
@@ -1631,7 +1758,8 @@
                 "de": "Kurzer Fußweg vom Zitadellenparkplatz.",
                 "hu": "Rövid gyalogút a Citadella parkolójától.",
                 "ro": "Scurtă plimbare de la parcarea Citadelei.",
-                "en": "A very short walk from the main Citadel parking area."
+                "en": "A very short walk from the main Citadel parking area.",
+                "sv": "En mycket kort promenad från huvudparkeringen vid Citadellet."
               }
             },
             {
@@ -1640,7 +1768,8 @@
                 "de": "Zentraler Parkplatz ermöglicht schnellen Zugang.",
                 "hu": "A központi parkoló gyors bejutást tesz lehetővé.",
                 "ro": "Parcarea centrală permite accesul rapid.",
-                "en": "Central parking allows for a quick dash into the buildings."
+                "en": "Central parking allows for a quick dash into the buildings.",
+                "sv": "Central parkering möjliggör en snabb rusning in i byggnaderna."
               }
             },
             {
@@ -1649,7 +1778,8 @@
                 "de": "Rundfahrt durch die historischen Straßen.",
                 "hu": "Autós városnézés a történelmi utcákon.",
                 "ro": "Tur auto pe străzile istorice.",
-                "en": "Take a slow drive through the historic city streets."
+                "en": "Take a slow drive through the historic city streets.",
+                "sv": "Ta en lugn körning genom de historiska stadsdelarna."
               }
             },
             {
@@ -1658,7 +1788,8 @@
                 "de": "Halten Sie direkt am Platz für einen schnellen Besuch.",
                 "hu": "Állj meg közvetlenül a téren egy gyors látogatáshoz.",
                 "ro": "Opriți direct în piață pentru o vizită scurtă.",
-                "en": "Stop right at the square for a quick indoor visit."
+                "en": "Stop right at the square for a quick indoor visit.",
+                "sv": "Stanna direkt vid torget för ett snabbt besök inomhus."
               }
             }
           ],
@@ -1686,6 +1817,12 @@
               "Be aware that coastal fog can reduce visibility during heavy rain.",
               "Many central parking spots are time-limited; remember your parking disc.",
               "Driving along 'Strandvägen' offers great coastal views even in wet weather."
+            ],
+            "sv": [
+              "Använd parkeringsappar som EasyPark för att betala utan att lämna fordonet.",
+              "Var medveten om att kustdimma kan minska sikten vid kraftigt regn.",
+              "Många centrala parkeringsplatser är tidsbegränsade; kom ihåg din parkeringsskiva.",
+              "Att köra längs Strandvägen bjuder på fina kustvyer även i vått väder."
             ]
           }
         },
@@ -1694,7 +1831,8 @@
             "de": "Ein warmer Start im Auto in Borstahusen. Die winterliche Küste wirkt friedlich. Nach einem kurzen Stopp am Fähranleger geht es weiter zur Zitadelle. \n\nMittags erkunden wir die Festung. Die Sitzheizung ist nach dem Spaziergang auf den frostigen Wällen ein Segen. \n\nNachmittags parken wir nah an den Museen. Die klaren Wintertage bieten eine hervorragende Weitsicht über den Öresund bis nach Dänemark. \n\nDer Tag endet in der Innenstadt. Wir genießen die weihnachtliche Beleuchtung (im Dezember) und besuchen die Sofia Albertina Kirche, bevor es zurück geht.",
             "hu": "Meleg indítás az autóban Borstahusenben. A téli tengerpart békés hangulatot áraszt. A kompállomás után a Citadella felé vesszük az irányt.\n\nDélben felfedezzük az erődöt. Az ülésfűtés igazi áldás a fagyos bástyákon tett séta után.\n\nDélután a múzeumok közelében parkolunk. A tiszta téli napokon ellátni egészen Dániáig az Öresund felett.\n\nA nap a belvárosban zárul. Megcsodáljuk az ünnepi fényeket (decemberben) és betérünk a Sofia Albertina templomba a hazaút előtt.",
             "ro": "Un început călduros în mașină la Borstahusen. Coasta de iarnă pare foarte liniștită. După o oprire la feribot, continuăm spre Citadelă.\n\nLa prânz explorăm fortăreața. Încălzirea în scaune este o binecuvântare după plimbarea pe zidurile înghețate.\n\nDupă-amiaza parcăm aproape de muzee. Zilele senine de iarnă oferă o vizibilitate excelentă peste Öresund până în Danemarca.\n\nZiua se încheie în centrul orașului. Admirăm luminile de sărbători și vizităm biserica Sofia Albertina înainte de plecare.",
-            "en": "A warm start in the car at Borstahusen. The winter coastline feels peaceful and still. After a quick stop by the ferry pier, we head to the Citadel.\n\nAt midday, we explore the fortress. Heated seats are a blessing after a brisk walk on the frosty ramparts.\n\nIn the afternoon, we park close to the museums. On clear winter days, the view across the Oresund to Denmark is exceptionally sharp.\n\nThe day concludes in the city center. We enjoy the festive lights and visit the Sofia Albertina Church before heading back."
+            "en": "A warm start in the car at Borstahusen. The winter coastline feels peaceful and still. After a quick stop by the ferry pier, we head to the Citadel.\n\nAt midday, we explore the fortress. Heated seats are a blessing after a brisk walk on the frosty ramparts.\n\nIn the afternoon, we park close to the museums. On clear winter days, the view across the Oresund to Denmark is exceptionally sharp.\n\nThe day concludes in the city center. We enjoy the festive lights and visit the Sofia Albertina Church before heading back.",
+            "sv": "En varm start i bilen i Borstahusen. Den vinterliga kusten känns lugn och stilla. Efter ett kort stopp vid färjehamnen styr vi mot Citadellet.\n\nVid middagstid utforskar vi fästningen. Sitsvärme är en välsignelse efter en rask promenad på frostiga vallarna.\n\nPå eftermiddagen parkerar vi nära museerna. På klara vinterdagar är utsikten över Öresund till Danmark ovanligt skarp.\n\nDagen avslutas i stadens centrum. Vi njuter av de festliga ljusen och besöker Sofia Albertina kyrka innan vi åker tillbaka."
           },
           "stops": [
             {
@@ -1703,7 +1841,8 @@
                 "de": "Parkplätze sind im Winter reichlich vorhanden.",
                 "hu": "Télen bőven akad szabad parkolóhely.",
                 "ro": "Locurile de parcare sunt din abundență iarna.",
-                "en": "Parking spots are plentiful during the winter season."
+                "en": "Parking spots are plentiful during the winter season.",
+                "sv": "Parkeringsplatser är gott om under vintersäsongen."
               }
             },
             {
@@ -1712,7 +1851,8 @@
                 "de": "Genießen Sie den Blick auf das Eis im Hafen.",
                 "hu": "Csodáld meg a kikötői jeget az autóból.",
                 "ro": "Admirați gheața din port direct din mașină.",
-                "en": "Enjoy the view of the harbor ice from your warm car."
+                "en": "Enjoy the view of the harbor ice from your warm car.",
+                "sv": "Njut av utsikten över hamnisen från din varma bil."
               }
             },
             {
@@ -1721,7 +1861,8 @@
                 "de": "Der Parkplatz ist meist schneefrei geräumt.",
                 "hu": "A parkolót általában letakarítják a hótól.",
                 "ro": "Parcarea este de obicei deszăpezită.",
-                "en": "The parking lot is usually kept clear of snow."
+                "en": "The parking lot is usually kept clear of snow.",
+                "sv": "Parkeringen hålls vanligtvis snöröjd."
               }
             },
             {
@@ -1730,7 +1871,8 @@
                 "de": "Kurzer, frostiger Fotostopp an den Häuschen.",
                 "hu": "Rövid, fagyos fotómegálló a kisházaknál.",
                 "ro": "Scurt popas foto la căsuțele înghețate.",
-                "en": "A quick, frosty photo stop by the historic cottages."
+                "en": "A quick, frosty photo stop by the historic cottages.",
+                "sv": "Ett snabbt, frostigt fotostopp vid de historiska stugorna."
               }
             },
             {
@@ -1739,7 +1881,8 @@
                 "de": "Parkhaus in der Nähe nutzen, um Eiskratzen zu vermeiden.",
                 "hu": "Használd a közeli parkolóházat, hogy elkerüld a jégkaparást.",
                 "ro": "Folosiți parcarea acoperită pentru a evita înghețarea parbrizului.",
-                "en": "Use a nearby parking garage to avoid ice buildup on the car."
+                "en": "Use a nearby parking garage to avoid ice buildup on the car.",
+                "sv": "Använd ett närliggande parkeringsgarage för att undvika isbildning på bilen."
               }
             },
             {
@@ -1748,7 +1891,8 @@
                 "de": "Die Fußgängerzone ist festlich dekoriert.",
                 "hu": "A sétálóutca ünnepi díszben tündököl.",
                 "ro": "Zona pietonală este decorată festiv.",
-                "en": "The pedestrian streets are beautifully decorated for winter."
+                "en": "The pedestrian streets are beautifully decorated for winter.",
+                "sv": "Gånggatorna är vackert dekorerade för vintern."
               }
             },
             {
@@ -1757,7 +1901,8 @@
                 "de": "Der Platz davor ist im Winter oft sehr stimmungsvoll.",
                 "hu": "A templom előtti tér télen nagyon hangulatos.",
                 "ro": "Piața din fața bisericii este foarte atmosferică iarna.",
-                "en": "The square in front of the church is very atmospheric in winter."
+                "en": "The square in front of the church is very atmospheric in winter.",
+                "sv": "Torget framför kyrkan är mycket stämningsfullt på vintern."
               }
             }
           ],
@@ -1785,6 +1930,12 @@
               "Keep an ice scraper and a small shovel in your trunk just in case.",
               "Watch out for deer in suburban areas during the early winter dusk.",
               "Electric car range may drop in freezing temps; plan charging accordingly."
+            ],
+            "sv": [
+              "Vinterdäck är obligatoriska i Sverige från och med december.",
+              "Ha en isskrapa och en liten spade i bagaget ifall.",
+              "Se upp för rådjur i förortsområden under den tidiga vinterdunkeln.",
+              "Räckvidden för elbilar kan minska i kalla temperaturer; planera laddningen därefter."
             ]
           }
         }
@@ -1803,7 +1954,8 @@
             "de": "Cluster: Stadtzentrum",
             "hu": "Klaszter: Városközpont",
             "ro": "Cluster: Centrul orașului",
-            "en": "Cluster: City Center"
+            "en": "Cluster: City Center",
+            "sv": "Klustret: Stadscentrum"
           },
           "coords": [
             12.8305,
@@ -1819,7 +1971,8 @@
             "de": "Nehmen Sie einen Bus zum zentralen Platz, um am Rathaus zu beginnen.",
             "hu": "Menjen busszal a központi térre, és kezdje a Városházánál.",
             "ro": "Luați un autobuz până în piața centrală pentru a începe de la Primărie.",
-            "en": "Take a bus to the central square to start at the Town Hall."
+            "en": "Take a bus to the central square to start at the Town Hall.",
+            "sv": "Ta bussen till centralstorget och börja vid stadshuset."
           }
         },
         {
@@ -1827,7 +1980,8 @@
             "de": "Sofia Albertina Kirche",
             "hu": "Sofia Albertina templom",
             "ro": "Biserica Sofia Albertina",
-            "en": "Sofia Albertina Church"
+            "en": "Sofia Albertina Church",
+            "sv": "Sofia Albertina kyrka"
           },
           "coords": [
             12.833,
@@ -1843,7 +1997,8 @@
             "de": "Vom Rathaus aus leicht zu Fuß erreichbar.",
             "hu": "Könnyen megközelíthető gyalog a Városházától.",
             "ro": "O plimbare ușoară de la Primărie.",
-            "en": "An easy walk from the Town Hall."
+            "en": "An easy walk from the Town Hall.",
+            "sv": "En lätt promenad från stadshuset."
           }
         },
         {
@@ -1851,7 +2006,8 @@
             "de": "Cluster: Zitadelle & Museen",
             "hu": "Klaszter: Citadella és múzeumok",
             "ro": "Cluster: Citadelă și muzee",
-            "en": "Cluster: Citadel & Museums"
+            "en": "Cluster: Citadel & Museums",
+            "sv": "Klustret: Citadellet & Museerna"
           },
           "coords": [
             12.825,
@@ -1867,7 +2023,8 @@
             "de": "Nehmen Sie einen kurzen Bus zum nächsten Cluster. Beginnen Sie mit der Zitadelle.",
             "hu": "Menjen egy rövid buszúttal a következő klaszterhez. Kezdje a Citadellával.",
             "ro": "Luați un autobuz pe o distanță scurtă până la următorul cluster. Începeți cu Citadela.",
-            "en": "Take a short bus ride to the next cluster. Start with the Citadel."
+            "en": "Take a short bus ride to the next cluster. Start with the Citadel.",
+            "sv": "Ta en kort bussresa till nästa kluster. Börja med Citadellet."
           }
         },
         {
@@ -1875,7 +2032,8 @@
             "de": "Museum Landskrona",
             "hu": "Landskrona Múzeum",
             "ro": "Muzeul Landskrona",
-            "en": "Landskrona Museum"
+            "en": "Landskrona Museum",
+            "sv": "Landskrona Museum"
           },
           "coords": [
             12.827,
@@ -1891,7 +2049,8 @@
             "de": "Nur einen Steinwurf von der Zitadelle entfernt, perfekt für die Mittagszeit.",
             "hu": "Csak egy kőhajításnyira a Citadellától, tökéletes ebédidőre.",
             "ro": "La o aruncătură de băț de Citadelă, perfect pentru perioada prânzului.",
-            "en": "A stone's throw from the Citadel, perfect for the lunch period."
+            "en": "A stone's throw from the Citadel, perfect for the lunch period.",
+            "sv": "Ett stenkast från Citadellet, perfekt för lunchtid."
           }
         },
         {
@@ -1899,7 +2058,8 @@
             "de": "Landskrona Konsthall",
             "hu": "Landskronai Művészeti Csarnok",
             "ro": "Galeria de Artă Landskrona",
-            "en": "Landskrona Art Gallery"
+            "en": "Landskrona Art Gallery",
+            "sv": "Landskrona konsthall"
           },
           "coords": [
             12.828,
@@ -1915,7 +2075,8 @@
             "de": "Direkt neben dem Museum gelegen, was den Besuch beider Orte sehr einfach macht.",
             "hu": "Közvetlenül a múzeum mellett található, így mindkét hely könnyen meglátogatható.",
             "ro": "Situat chiar lângă muzeu, ceea ce face vizitarea ambelor locuri foarte ușoară.",
-            "en": "Located right next to the museum, making it very easy to visit both."
+            "en": "Located right next to the museum, making it very easy to visit both.",
+            "sv": "Ligger precis intill museet, vilket gör det väldigt enkelt att besöka båda."
           }
         },
         {
@@ -1923,7 +2084,8 @@
             "de": "Cluster: Borstahusen",
             "hu": "Klaszter: Borstahusen",
             "ro": "Cluster: Borstahusen",
-            "en": "Cluster: Borstahusen"
+            "en": "Cluster: Borstahusen",
+            "sv": "Klustret: Borstahusen"
           },
           "coords": [
             12.82,
@@ -1939,7 +2101,8 @@
             "de": "Nehmen Sie den Bus nach Norden zum letzten Cluster des Tages.",
             "hu": "Menjen busszal észak felé a nap utolsó klaszteréhez.",
             "ro": "Luați autobuzul spre nord, spre ultimul cluster al zilei.",
-            "en": "Take the bus north to the final cluster of the day."
+            "en": "Take the bus north to the final cluster of the day.",
+            "sv": "Ta bussen norrut till dagens sista kluster."
           }
         },
         {
@@ -1947,7 +2110,8 @@
             "de": "Hafen von Borstahusen",
             "hu": "Borstahuseni kikötő",
             "ro": "Portul Borstahusen",
-            "en": "Borstahusen Harbour"
+            "en": "Borstahusen Harbour",
+            "sv": "Borstahusen hamn"
           },
           "coords": [
             12.819,
@@ -1963,7 +2127,8 @@
             "de": "Schlendern Sie durch den Hafen, genießen Sie ein Eis und die Meeresluft.",
             "hu": "Sétáljon a kikötőben, egyen egy fagyit és élvezze a tengeri levegőt.",
             "ro": "Plimbați-vă prin port, bucurați-vă de o înghețată și de aerul mării.",
-            "en": "Stroll around the harbour, enjoy an ice cream, and the sea air."
+            "en": "Stroll around the harbour, enjoy an ice cream, and the sea air.",
+            "sv": "Promenera runt hamnen, njut en glass och havsluften."
           }
         }
       ],
@@ -1971,7 +2136,8 @@
         "de": "Ihr Tag mit öffentlichen Verkehrsmitteln beginnt im Herzen von Landskrona, wo Sie das Rathaus und die Kirche zu Fuß erkunden. Eine kurze Busfahrt bringt Sie zum zweiten Cluster, dem Zitadellenbereich, wo der Vormittag der Geschichte und Kunst gewidmet ist. Verbringen Sie Zeit in der Festung und den angrenzenden Museen. Nach dem Mittagessen bringt Sie eine weitere Busfahrt zum Küstencluster Borstahusen. Der Nachmittag wird damit verbracht, durch das charmante Fischerdorf und seinen Hafen zu schlendern und den Tag in einer entspannten maritimen Atmosphäre ausklingen zu lassen.",
         "hu": "A tömegközlekedéssel töltött nap Landskrona szívében kezdődik, ahol gyalog fedezi fel a Városházát és a templomot. Egy rövid buszút elviszi a második klaszterhez, a Citadella területére, ahol a délelőtt a történelemé és a művészeté. Töltsön időt az erődben és a szomszédos múzeumokban. Ebéd után egy másik busz elviszi a tengerparti Borstahusen klaszterhez. A délutánt a bájos halászfalu és kikötőjének felfedezésével tölti, a napot egy pihentető tengeri hangulatban zárva.",
         "ro": "Ziua dvs. cu transportul public începe în inima orașului Landskrona, explorând Primăria și biserica pe jos. O scurtă călătorie cu autobuzul vă duce la al doilea cluster, zona Cetății, unde dimineața este dedicată istoriei și artei. Petreceți timp la fortăreață și la muzeele adiacente. După prânz, o altă călătorie cu autobuzul vă duce la clusterul de coastă Borstahusen. După-amiaza este petrecută plimbându-vă prin fermecătorul sat pescăresc și portul său, încheind ziua într-o atmosferă maritimă relaxată.",
-        "en": "Your day on public transport begins in the heart of Landskrona, exploring the Town Hall and church on foot. A short bus ride takes you to the second cluster, the Citadel area, where the morning is dedicated to history and art. Spend time at the fortress and its adjacent museums. After lunch, another bus ride brings you to the coastal cluster of Borstahusen. The afternoon is spent strolling through the charming fishing village and its harbour, ending the day in a relaxed maritime atmosphere."
+        "en": "Your day on public transport begins in the heart of Landskrona, exploring the Town Hall and church on foot. A short bus ride takes you to the second cluster, the Citadel area, where the morning is dedicated to history and art. Spend time at the fortress and its adjacent museums. After lunch, another bus ride brings you to the coastal cluster of Borstahusen. The afternoon is spent strolling through the charming fishing village and its harbour, ending the day in a relaxed maritime atmosphere.",
+        "sv": "Din dag med kollektivtrafik börjar i hjärtat av Landskrona, där du utforskar stadshuset och kyrkan till fots. En kort busstur tar dig till det andra klustret, Citadellområdet, där förmiddagen ägnas åt historia och konst. Tillbringa tid vid fästningen och dess intilliggande museer. Efter lunch tar du ytterligare en buss till det kustnära klustret Borstahusen. Eftermiddagen går åt till att promenera i den charmiga fiskebyn och dess hamn, och dagen avslutas i en avslappnad marin atmosfär."
       },
       "gastro_picks": {
         "de": [
@@ -2167,6 +2333,12 @@
           "Download the local public transport app to track real-time schedules and routes.",
           "Be mindful of the number of the bus you're taking; different routes serve the same stops.",
           "Buses are generally on time, so plan accordingly."
+        ],
+        "sv": [
+          "Köp en dagsbiljett för bussen för obegränsade resor.",
+          "Ladda ner den lokala kollektivtrafikappen för att följa tidtabeller och rutter i realtid.",
+          "Var noga med vilket bussnummer du tar; olika linjer betjänar samma hållplatser.",
+          "Bussarna går i regel i tid, så planera därefter."
         ]
       },
       "variants": {
@@ -2175,7 +2347,8 @@
             "de": "Wir starten im trockenen Stadtzentrum. Der Bus bringt uns bequem zur Sofia Albertina. Von dort ist es nur ein kurzer Sprung ins Museum. \n\nMittags erkunden wir die Zitadelle. Bei Regen nutzen wir die Busverbindungen, um die Gehzeit im Freien zu minimieren. \n\nNachmittags konzentrieren wir uns auf die Museen und die Kunsthalle. Die Haltestellen befinden sich in unmittelbarer Nähe der Eingänge. \n\nZum Abschluss fahren wir mit der Linie 1 oder 3 nach Borstahusen. Die Fahrt durch den Regen bietet einen Blick auf die Stadt, bevor wir den Tag im Hafen ausklingen lassen.",
             "hu": "A száraz belvárosból indulunk. A busz kényelmesen elvisz a Sofia Albertina templomig, ahonnan csak pár lépés a múzeum.\n\nDélben a Citadella környékét járjuk be. Esőben érdemes kihasználni a sűrű buszjáratokat a gyaloglás helyett.\n\nDélután a Landskrona Múzeum és a Galéria a fő célpont. A buszmegállók szinte a bejáratok előtt vannak.\n\nZárásként az 1-es vagy 3-as busszal utazunk Borstahusenbe. Az ablakon át figyeljük az elsuhanó vizes várost, mielőtt a kikötőbe érnénk.",
             "ro": "Începem în centrul orașului, la adăpost. Autobuzul ne duce confortabil la Sofia Albertina, de unde muzeul este la câțiva pași.\n\nLa prânz explorăm zona Citadelei. Pe ploaie, folosim autobuzele pentru a minimiza timpul de mers pe jos afară.\n\nDupă-amiaza ne concentrăm pe Muzeu și Galeria de Artă. Stațiile sunt situate chiar lângă intrări.\n\nLa final, luăm linia 1 sau 3 spre Borstahusen. Călătoria oferă o vedere panoramică asupra orașului ud înainte de sosirea în port.",
-            "en": "We start in the dry city center. The bus brings us comfortably to Sofia Albertina, with the museum just a short walk away. \n\nAt midday, we explore the Citadel area. During rain, we maximize bus use to keep our outdoor walking segments short.\n\nIn the afternoon, our focus is the Museum and Art Gallery. Bus stops are conveniently located near the main entrances.\n\nTo finish, we take bus line 1 or 3 to Borstahusen. Watching the rainy city through the bus window is relaxing before we arrive at the harbor."
+            "en": "We start in the dry city center. The bus brings us comfortably to Sofia Albertina, with the museum just a short walk away. \n\nAt midday, we explore the Citadel area. During rain, we maximize bus use to keep our outdoor walking segments short.\n\nIn the afternoon, our focus is the Museum and Art Gallery. Bus stops are conveniently located near the main entrances.\n\nTo finish, we take bus line 1 or 3 to Borstahusen. Watching the rainy city through the bus window is relaxing before we arrive at the harbor.",
+            "sv": "Vi börjar i torra stadskärnan. Bussen tar oss bekvämt till Sofia Albertina, med museet bara en kort promenad bort. \n\nVid middagstid utforskar vi Citadellområdet. Vid regn maximerar vi bussanvändningen för att hålla utomhuspromenaderna korta.\n\nPå eftermiddagen fokuserar vi på museet och konsthallen. Busshållplatser ligger bekvämt nära huvudentréerna.\n\nFör att avsluta tar vi linje 1 eller 3 till Borstahusen. Att titta på den regniga staden genom bussfönstret är avslappnande innan vi anländer till hamnen."
           },
           "stops": [
             {
@@ -2184,7 +2357,8 @@
                 "de": "Zentrale Umsteigestelle mit überdachten Wartebereichen.",
                 "hu": "Központi csomópont fedett várókkal.",
                 "ro": "Nod central de transport cu zone de așteptare acoperite.",
-                "en": "Central transit hub with covered waiting areas."
+                "en": "Central transit hub with covered waiting areas.",
+                "sv": "Centralt trafiknav med täckta väntutrymmen."
               }
             },
             {
@@ -2193,7 +2367,8 @@
                 "de": "Haltestelle direkt am Platz (Rådhustorget).",
                 "hu": "Megálló közvetlenül a téren (Rådhustorget).",
                 "ro": "Stație chiar în piață (Rådhustorget).",
-                "en": "The bus stops right on the main square (Rådhustorget)."
+                "en": "The bus stops right on the main square (Rådhustorget).",
+                "sv": "Bussen stannar precis på huvudtorget (Rådhustorget)."
               }
             },
             {
@@ -2202,7 +2377,8 @@
                 "de": "Nutzen Sie die App für Echtzeit-Abfahrten.",
                 "hu": "Használd az alkalmazást a valós idejű indulásokhoz.",
                 "ro": "Folosiți aplicația pentru plecări în timp real.",
-                "en": "Use the Skånetrafiken app for real-time departures."
+                "en": "Use the Skånetrafiken app for real-time departures.",
+                "sv": "Använd Skånetrafiken-appen för avgångar i realtid."
               }
             },
             {
@@ -2211,7 +2387,8 @@
                 "de": "Eingang nur wenige Meter von der Haltestelle entfernt.",
                 "hu": "A bejárat pár méterre van a megállótól.",
                 "ro": "Intrarea este la doar câțiva metri de stație.",
-                "en": "The entrance is just a few meters from the bus stop."
+                "en": "The entrance is just a few meters from the bus stop.",
+                "sv": "Ingången ligger bara några meter från busshållplatsen."
               }
             },
             {
@@ -2220,7 +2397,8 @@
                 "de": "Verbindung mit Stadtbus-Linien im 10-Minuten-Takt.",
                 "hu": "10 percenként induló helyi járatok.",
                 "ro": "Conexiuni cu autobuze urbane la fiecare 10 minute.",
-                "en": "City buses connect here every 10 minutes."
+                "en": "City buses connect here every 10 minutes.",
+                "sv": "Stadsbussar förbinder här var tionde minut."
               }
             },
             {
@@ -2229,7 +2407,8 @@
                 "de": "Fahrt dauert ca. 12 Minuten ab Zentrum.",
                 "hu": "Az út kb. 12 perc a központból.",
                 "ro": "Călătoria durează aproximativ 12 minute din centru.",
-                "en": "The journey from the center takes about 12 minutes."
+                "en": "The journey from the center takes about 12 minutes.",
+                "sv": "Resan från centrum tar cirka 12 minuter."
               }
             },
             {
@@ -2238,7 +2417,8 @@
                 "de": "Haltestelle Borstahusen Hamnen direkt am Ziel.",
                 "hu": "A Borstahusen Hamnen megálló a célnál van.",
                 "ro": "Stația Borstahusen Hamnen este chiar la destinație.",
-                "en": "The 'Borstahusen Hamnen' stop is right at the harbor."
+                "en": "The 'Borstahusen Hamnen' stop is right at the harbor.",
+                "sv": "Hållplatsen \"Borstahusen Hamnen\" ligger precis vid hamnen."
               }
             }
           ],
@@ -2266,6 +2446,12 @@
               "City buses are green and run very reliably even in heavy rain.",
               "The train station is slightly out of town; take a bus to reach the center.",
               "Contactless card payment (tap-to-pay) is available on all city buses."
+            ],
+            "sv": [
+              "Köp biljetter i förväg via Skånetrafiken-appen; förare säljer inte biljetter.",
+              "Stadsbussarna är gröna och går mycket punktligt även i kraftigt regn.",
+              "Tågstationen ligger en bit utanför staden; ta en buss för att nå centrum.",
+              "Kontaktlös kortbetalning (tap-to-pay) finns på alla stadsbussar."
             ]
           }
         },
@@ -2274,7 +2460,8 @@
             "de": "Ein gemütlicher Winterstart im geheizten Bus. Wir fahren ins Zentrum zum Rådhustorget. Die Sofia Albertina empfängt uns mit Stille. \n\nMittags führt der Weg zur Zitadelle. Die Busse sind gut beheizt und bieten eine Pause von der eisigen Meeresluft. \n\nNachmittags nutzen wir die Zeit im Museum und der Kunsthalle. Das warme Licht im Inneren bildet einen tollen Kontrast zum winterlichen Grau draußen. \n\nVor dem frühen Sonnenuntergang nehmen wir den Bus nach Borstahusen. Wir genießen die frostige Hafenatmosphäre, bevor wir mit dem Abendbus zurückkehren.",
             "hu": "Meleg indítás a fűtött buszon. A belvárosi Rådhustorget felé vesszük az irányt, ahol a Sofia Albertina templom vár ránk.\n\nDélben a Citadella környékét fedezzük fel. A buszok remek lehetőséget adnak a felmelegedésre a jeges tengeri szél után.\n\nDélután a múzeumban és a galériában időzünk. A benti meleg fények éles ellentétben állnak a kinti téli szürkeséggel.\n\nA korai naplemente előtt buszozunk ki Borstahusenbe. Élvezzük a fagyos kikötői hangulatot, majd az esti járattal térünk vissza.",
             "ro": "Un început confortabil în autobuzul încălzit. Mergem spre centrul orașului, la Rådhustorget. Biserica Sofia Albertina ne întâmpină cu liniște.\n\nLa prânz mergem spre Citadelă. Autobuzele sunt bine încălzite și oferă o pauză de la aerul înghețat al mării.\n\nDupă-amiaza profităm de timpul petrecut în Muzeu și Galeria de Artă. Lumina caldă din interior contrastează plăcut cu griul de afară.\n\nÎnainte de apusul timpuriu, luăm autobuzul spre Borstahusen. Admirăm atmosfera de iarnă din port înainte de a reveni cu autobuzul de seară.",
-            "en": "A cozy start in a well-heated bus heading to Rådhustorget. The Sofia Albertina Church is a peaceful first stop. \n\nAt midday, we move towards the Citadel. The buses provide a welcome break from the freezing coastal wind.\n\nIn the afternoon, we spend time in the Museum and Art Gallery. The warm indoor lighting contrasts beautifully with the winter landscape outside.\n\nBefore the early sunset, we hop on a bus to Borstahusen. We enjoy the frosty harbor atmosphere before catching the evening bus back."
+            "en": "A cozy start in a well-heated bus heading to Rådhustorget. The Sofia Albertina Church is a peaceful first stop. \n\nAt midday, we move towards the Citadel. The buses provide a welcome break from the freezing coastal wind.\n\nIn the afternoon, we spend time in the Museum and Art Gallery. The warm indoor lighting contrasts beautifully with the winter landscape outside.\n\nBefore the early sunset, we hop on a bus to Borstahusen. We enjoy the frosty harbor atmosphere before catching the evening bus back.",
+            "sv": "En mysig början i en väluppvärmd buss mot Rådhustorget. Sofia Albertina kyrka är ett lugnt första stopp.\n\nMitt på dagen rör vi oss mot Citadellet. Bussarna ger en välkommen paus från den bitande kustvinden.\n\nPå eftermiddagen spenderar vi tid på Museet och Konsthallen. Det varma inomhusljuset kontrasterar vackert mot vinterlandskapet utanför.\n\nInnan den tidiga solnedgången hoppar vi på en buss till Borstahusen. Vi njuter av den frostiga hamnatmosfären innan vi tar kvällsbussen tillbaka."
           },
           "stops": [
             {
@@ -2283,7 +2470,8 @@
                 "de": "Die Busse fahren im Winter nach Normalfahrplan.",
                 "hu": "A buszok télen is a megszokott menetrend szerint járnak.",
                 "ro": "Autobuzele circulă după programul normal și iarna.",
-                "en": "Buses run on a regular schedule during the winter months."
+                "en": "Buses run on a regular schedule during the winter months.",
+                "sv": "Bussarna går enligt ordinarie tidtabell under vintermånaderna."
               }
             },
             {
@@ -2292,7 +2480,8 @@
                 "de": "Ein warmer Ort für den Start in den Tag.",
                 "hu": "Meleg helyszín a nap indításához.",
                 "ro": "Un loc cald pentru a începe ziua.",
-                "en": "A warm and inviting place to start your winter tour."
+                "en": "A warm and inviting place to start your winter tour.",
+                "sv": "En varm och inbjudande plats att börja din vinterrunda."
               }
             },
             {
@@ -2301,7 +2490,8 @@
                 "de": "Bushaltestelle Zitadelle liegt direkt am Eingang.",
                 "hu": "A Citadella buszmegálló közvetlenül a bejáratnál van.",
                 "ro": "Stația de autobuz Citadelă este chiar la intrare.",
-                "en": "The Citadel bus stop is located right at the main gate."
+                "en": "The Citadel bus stop is located right at the main gate.",
+                "sv": "Citadellets busshållplats ligger precis vid huvudingången."
               }
             },
             {
@@ -2310,7 +2500,8 @@
                 "de": "Große Fensterfronten bieten Blick auf den Schnee.",
                 "hu": "A nagy ablakokon át nézheted a hóesést.",
                 "ro": "Ferestrele mari oferă o vedere frumoasă spre zăpadă.",
-                "en": "Large windows offer great views of the winter scenery."
+                "en": "Large windows offer great views of the winter scenery.",
+                "sv": "Stora fönster ger fina vyer över vintersceneriet."
               }
             },
             {
@@ -2319,7 +2510,8 @@
                 "de": "Die Heizung in der Galerie ist sehr effektiv.",
                 "hu": "A galéria fűtése kiváló; kellemes pihenőhely.",
                 "ro": "Sistemul de încălzire din galerie este foarte eficient.",
-                "en": "The gallery's heating system makes it a very cozy stop."
+                "en": "The gallery's heating system makes it a very cozy stop.",
+                "sv": "Galleriets värmesystem gör det till ett mycket mysigt stopp."
               }
             },
             {
@@ -2328,7 +2520,8 @@
                 "de": "Abends sind die Busse oft weniger voll.",
                 "hu": "Este a buszok általában kevésbé zsúfoltak.",
                 "ro": "Autobuzele sunt adesea mai libere seara.",
-                "en": "Buses are typically less crowded in the early evening."
+                "en": "Buses are typically less crowded in the early evening.",
+                "sv": "Bussarna är vanligtvis mindre trånga tidigt på kvällen."
               }
             },
             {
@@ -2337,7 +2530,8 @@
                 "de": "Haltestelle liegt nah an den beleuchteten Stegen.",
                 "hu": "A megálló közel van a kivilágított mólókhoz.",
                 "ro": "Stația este aproape de pontoanele iluminate.",
-                "en": "The bus stop is very close to the illuminated piers."
+                "en": "The bus stop is very close to the illuminated piers.",
+                "sv": "Busshållplatsen ligger mycket nära de upplysta bryggorna."
               }
             }
           ],
@@ -2365,6 +2559,12 @@
               "Wear reflectors (reflexes) as it gets dark by 15:00.",
               "Check the app for holiday schedule changes in late December.",
               "Check live timings to minimize your wait at windy bus stops."
+            ],
+            "sv": [
+              "Bussarna är i allmänhet mycket punktliga och väl uppvärmda på vintern.",
+              "Bär reflexer eftersom det blir mörkt redan klockan 15:00.",
+              "Kontrollera appen för ändrade tidtabeller under slutet av decemberhelgerna.",
+              "Kolla liveavgångar för att minimera din väntetid vid blåsiga hållplatser."
             ]
           }
         }

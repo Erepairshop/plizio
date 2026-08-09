@@ -21,7 +21,8 @@
             "de": "Stortorget (Großer Platz)",
             "hu": "Stortorget (Főtér)",
             "ro": "Stortorget (Piața Mare)",
-            "en": "Stortorget (Main Square)"
+            "en": "Stortorget (Main Square)",
+            "sv": "Stortorget"
           },
           "coords": [
             16.3653,
@@ -37,7 +38,8 @@
             "de": "Beginnen Sie Ihren Tag hier mit der beeindruckenden Kathedrale als Kulisse.",
             "hu": "Kezdje a napot itt, a lenyűgöző katedrális látványával a háttérben.",
             "ro": "Începeți ziua aici, cu impunătoarea catedrală pe fundal.",
-            "en": "Start your day here with the impressive cathedral as a backdrop."
+            "en": "Start your day here with the impressive cathedral as a backdrop.",
+            "sv": "Börja din dag här med den imponerande katedralen i bakgrunden."
           }
         },
         {
@@ -45,7 +47,8 @@
             "de": "Dom zu Kalmar",
             "hu": "Kalmari dóm",
             "ro": "Catedrala din Kalmar",
-            "en": "Kalmar Cathedral"
+            "en": "Kalmar Cathedral",
+            "sv": "Kalmar domkyrka"
           },
           "coords": [
             16.3661,
@@ -61,7 +64,8 @@
             "de": "Bewundern Sie die barocke Architektur und die ruhige Atmosphäre.",
             "hu": "Csodálja meg a barokk építészetet és a nyugodt légkört.",
             "ro": "Admirați arhitectura barocă și atmosfera liniștită.",
-            "en": "Admire the baroque architecture and the serene atmosphere."
+            "en": "Admire the baroque architecture and the serene atmosphere.",
+            "sv": "Beundra den barocka arkitekturen och den stillsamma atmosfären."
           }
         },
         {
@@ -69,7 +73,8 @@
             "de": "Gamla Stan (Altstadt)",
             "hu": "Gamla Stan (Óváros)",
             "ro": "Gamla Stan (Orașul Vechi)",
-            "en": "Gamla Stan (Old Town)"
+            "en": "Gamla Stan (Old Town)",
+            "sv": "Gamla stan"
           },
           "coords": [
             16.369,
@@ -85,7 +90,8 @@
             "de": "Verlieren Sie sich in den charmanten Kopfsteinpflasterstraßen.",
             "hu": "Vesszen el a bájos, macskaköves utcácskákban.",
             "ro": "Pierdeți-vă pe străduțele pietruite pline de farmec.",
-            "en": "Get lost in the charming cobblestone streets."
+            "en": "Get lost in the charming cobblestone streets.",
+            "sv": "Vandrar vilse i de charmiga kullerstensgatorna."
           }
         },
         {
@@ -93,7 +99,8 @@
             "de": "Kalmar Läns Museum",
             "hu": "Kalmar Läns Múzeum",
             "ro": "Muzeul Regional Kalmar",
-            "en": "Kalmar County Museum"
+            "en": "Kalmar County Museum",
+            "sv": "Kalmar läns museum"
           },
           "coords": [
             16.3688,
@@ -109,7 +116,8 @@
             "de": "Die Ausstellung über das königliche Schiff Kronan ist ein Muss.",
             "hu": "A Kronan királyi hajóról szóló kiállítás kötelező program.",
             "ro": "Expoziția despre nava regală Kronan este o vizită obligatorie.",
-            "en": "The exhibition about the royal ship Kronan is a must-see."
+            "en": "The exhibition about the royal ship Kronan is a must-see.",
+            "sv": "Utställningen om örlogsskeppet Kronan är ett måste."
           }
         },
         {
@@ -117,7 +125,8 @@
             "de": "Schloss Kalmar",
             "hu": "Kalmari vár",
             "ro": "Castelul Kalmar",
-            "en": "Kalmar Castle"
+            "en": "Kalmar Castle",
+            "sv": "Kalmar slott"
           },
           "coords": [
             16.356,
@@ -133,7 +142,8 @@
             "de": "Nehmen Sie an einer Führung teil, um die reiche Geschichte zu entdecken.",
             "hu": "Vegyen részt egy vezetett túrán, hogy felfedezze a gazdag történelmet.",
             "ro": "Participați la un tur ghidat pentru a descoperi istoria sa bogată.",
-            "en": "Join a guided tour to discover its rich history."
+            "en": "Join a guided tour to discover its rich history.",
+            "sv": "Delta i en guidad tur för att upptäcka dess rika historia."
           }
         },
         {
@@ -141,7 +151,8 @@
             "de": "Krusenstiernska Gården",
             "hu": "Krusenstiernska Gården",
             "ro": "Grădinile Krusenstiernska",
-            "en": "Krusenstiernska Gården"
+            "en": "Krusenstiernska Gården",
+            "sv": "Krusenstiernska gården"
           },
           "coords": [
             16.3725,
@@ -157,7 +168,8 @@
             "de": "Genießen Sie Kaffee und Kuchen im ruhigen Garten-Café.",
             "hu": "Élvezze a kávét és a süteményt a csendes kerti kávézóban.",
             "ro": "Savurați o cafea și o prăjitură la cafeneaua liniștită din grădină.",
-            "en": "Enjoy a coffee and cake in the tranquil garden café."
+            "en": "Enjoy a coffee and cake in the tranquil garden café.",
+            "sv": "Njut av en kaffe och kaka i den lugna trädgårdscafét."
           }
         }
       ],
@@ -165,7 +177,8 @@
         "de": "Ihr Spaziergang beginnt auf dem Stortorget, dem Herzen Kalmars, wo Sie die prächtige Kathedrale bewundern. Schlendern Sie durch die malerische Altstadt Gamla Stan, bevor Sie im Läns Museum in die maritime Geschichte eintauchen. Der Nachmittag ist dem majestätischen Schloss Kalmar gewidmet, einem Symbol der schwedischen Macht. Beenden Sie Ihren Tag im friedlichen Garten von Krusenstiernska gården, einem perfekten Ort, um die Eindrücke des Tages Revue passieren zu lassen.",
         "hu": "Sétája a Stortorgeten, Kalmar szívében kezdődik, ahol megcsodálhatja a csodálatos dómot. Barangoljon a festői Gamla Stan óvárosban, mielőtt a Läns Múzeumban elmerül a tengerészeti történelemben. A délutánt a fenséges Kalmari várnak szenteljük, a svéd hatalom jelképének. Zárja a napot a Krusenstiernska gården békés kertjében, amely tökéletes hely a napi benyomások áttekintésére.",
         "ro": "Plimbarea dvs. începe în Stortorget, inima orașului Kalmar, unde veți admira magnifica catedrală. Plimbați-vă prin pitorescul Oraș Vechi (Gamla Stan) înainte de a vă cufunda în istoria maritimă la Muzeul Regional. După-amiaza este dedicată maiestuosului Castel Kalmar, un simbol al puterii suedeze. Încheiați ziua în grădina liniștită de la Krusenstiernska gården, un loc perfect pentru a reflecta asupra impresiilor zilei.",
-        "en": "Your walk begins at Stortorget, the heart of Kalmar, admiring the magnificent cathedral. Stroll through the picturesque Old Town, Gamla Stan, before diving into maritime history at the County Museum. The afternoon is dedicated to the majestic Kalmar Castle, a symbol of Swedish power. End your day in the peaceful garden of Krusenstiernska gården, a perfect spot to reflect on the day's impressions."
+        "en": "Your walk begins at Stortorget, the heart of Kalmar, admiring the magnificent cathedral. Stroll through the picturesque Old Town, Gamla Stan, before diving into maritime history at the County Museum. The afternoon is dedicated to the majestic Kalmar Castle, a symbol of Swedish power. End your day in the peaceful garden of Krusenstiernska gården, a perfect spot to reflect on the day's impressions.",
+        "sv": "Din promenad börjar vid Stortorget, Kalmars hjärta, där du beundrar den magnifika katedralen. Promenera genom pittoreska Gamla stan innan du fördjupar dig i maritim historia på länsmuseet. Eftermiddagen ägnas åt det majestätiska Kalmar slott, en symbol för svensk makt. Avsluta dagen i den fridfulla trädgården vid Krusenstiernska gården, en perfekt plats att reflektera över dagens intryck."
       },
       "gastro_picks": {
         "de": [
@@ -361,6 +374,12 @@
           "Most museums and the castle offer discounted combination tickets.",
           "A 'fika' (coffee break with pastry) is an essential part of Swedish culture – plan for one!",
           "Check the castle's opening hours in advance as they vary by season."
+        ],
+        "sv": [
+          "Ha bekväma skor då kullerstenarna i Gamla stan kan vara ojämna.",
+          "De flesta museer och slottet erbjuder rabatterade kombinationsbiljetter.",
+          "En fika (kafferast med bakverk) är en väsentlig del av svensk kultur – planera in en!",
+          "Kontrollera slottets öppettider i förväg då de varierar med säsong."
         ]
       },
       "variants": {
@@ -369,7 +388,8 @@
             "de": "Morgens erkunden wir den Stortorget unter dem Schutz der Arkaden, bevor wir in der Kathedrale Zuflucht suchen. Mittags tauchen wir im County Museum tief in die Geschichte der Kronan ein, während draußen der Regen prasselt. Nachmittags bietet das Schloss Kalmar weitreichende überdachte Gänge und Säle. Den Abend lassen wir gemütlich in einem der Cafés von Kvarnholmen ausklingen.",
             "hu": "Reggel a Stortorget árkádjai alatt kezdünk, majd a katedrális vastag falai között bújunk el az eső elől. Délben a Megyei Múzeum kiállításai nyújtanak tökéletes menedéket a Kronan roncsai között. Délután a Kalmar-kastély belső udvarai és lovagtermei várnak, ahol szárazon maradhatunk. Az estét a Gamla Stan egyik hangulatos, esővédett éttermében fejezzük be.",
             "ro": "Dimineața explorăm Stortorget sub protecția arcadelor, apoi ne adăpostim în catedrala impunătoare. La prânz, Muzeul Județean ne oferă un refugiu cultural fascinant printre vestigiile navei Kronan. După-amiaza, Castelul Kalmar ne primește cu săli istorice vaste și pasaje acoperite. Seara se încheie cald și plăcut într-o cafenea intimă din centrul vechi.",
-            "en": "Morning starts at Stortorget utilizing shop awnings, followed by a dry visit to the Cathedral. At noon, the County Museum provides a perfect indoor escape with its maritime exhibits. Afternoon is dedicated to Kalmar Castle's extensive interior galleries and royal chambers. We finish the evening in one of Kvarnholmen's cozy bistros, safe from the coastal drizzle."
+            "en": "Morning starts at Stortorget utilizing shop awnings, followed by a dry visit to the Cathedral. At noon, the County Museum provides a perfect indoor escape with its maritime exhibits. Afternoon is dedicated to Kalmar Castle's extensive interior galleries and royal chambers. We finish the evening in one of Kvarnholmen's cozy bistros, safe from the coastal drizzle.",
+            "sv": "Morgonen börjar vid Stortorget under butikernas markiser, följt av ett torrt besök i domkyrkan. Vid lunchtid erbjuder länsmuseet en perfekt inomhusflykt med sina maritima utställningar. Eftermiddagen ägnas åt Kalmar slotts omfattande interiörgallerier och kungliga kamrar. Vi avslutar kvällen i ett av Kvarnholmens mysiga bistron, skyddade från kustens duggregn."
           },
           "stops": [
             {
@@ -378,7 +398,8 @@
                 "de": "Nutzen Sie die Gebäudeeingänge und Arkaden rund um den Platz als Regenschutz.",
                 "hu": "Használja a tér körüli épületek bejáratait és árkádjait esővédőként.",
                 "ro": "Folosiți intrările clădirilor și arcadele din jurul pieței pentru a rămâne uscat.",
-                "en": "Use the building entrances and arches around the square for rain protection."
+                "en": "Use the building entrances and arches around the square for rain protection.",
+                "sv": "Använd byggnadsentréer och valv runt torget som regnskydd."
               }
             },
             {
@@ -387,7 +408,8 @@
                 "de": "Ein idealer Ort, um die Architektur zu bewundern, während ein Schauer vorbeizieht.",
                 "hu": "Ideális hely az építészet megcsodálására, amíg elvonul egy kiadós zápor.",
                 "ro": "Un loc ideal pentru a admira arhitectura în timp ce trece o aversă de ploaie.",
-                "en": "An ideal spot to admire the architecture while a rain shower passes by."
+                "en": "An ideal spot to admire the architecture while a rain shower passes by.",
+                "sv": "En idealisk plats att beundra arkitekturen medan ett sommarregn passerar."
               }
             },
             {
@@ -396,7 +418,8 @@
                 "de": "Die engen Gassen bieten begrenzten Schutz; ein stabiler Schirm ist hier essenziell.",
                 "hu": "A szűk utcák kevés védelmet adnak; egy szélálló esernyő itt elengedhetetlen.",
                 "ro": "Străzile înguste oferă protecție limitată; o umbrelă stabilă este esențială aici.",
-                "en": "Narrow streets offer limited cover; a sturdy umbrella is essential here."
+                "en": "Narrow streets offer limited cover; a sturdy umbrella is essential here.",
+                "sv": "Smala gator erbjuder begränsat skydd; ett stadigt paraply är nödvändigt här."
               }
             },
             {
@@ -405,7 +428,8 @@
                 "de": "Perfekter Ort für die regenreichste Zeit des Tages mit großem Indoor-Café.",
                 "hu": "Tökéletes hely a nap legesősebb szakaszára, tágas belső kávézóval.",
                 "ro": "Locul perfect pentru cea mai ploioasă parte a zilei, cu o cafenea interioară mare.",
-                "en": "Perfect place for the rainiest part of the day with a large indoor cafe."
+                "en": "Perfect place for the rainiest part of the day with a large indoor cafe.",
+                "sv": "Perfekt plats för dagens regnigaste timme med ett stort inomhuscafé."
               }
             },
             {
@@ -414,7 +438,8 @@
                 "de": "Fast vollständig überdachtes Erlebnis; ideal bei anhaltendem Küstenregen.",
                 "hu": "Szinte teljesen fedett élmény; ideális tartós tengerparti esőzés esetén.",
                 "ro": "Experiență aproape complet acoperită; ideal în caz de ploaie de coastă persistentă.",
-                "en": "Almost entirely indoor experience; ideal for persistent coastal rain."
+                "en": "Almost entirely indoor experience; ideal for persistent coastal rain.",
+                "sv": "Nästan helt inomhusupplevelse; idealiskt vid ihållande kustregn."
               }
             },
             {
@@ -423,7 +448,8 @@
                 "de": "Besuchen Sie das Garten-Café im Innenbereich, wenn der Garten zu nass ist.",
                 "hu": "Látogasson el a kerti kávézó belső részébe, ha a kert túl vizes lenne.",
                 "ro": "Vizitați zona interioară a cafenelei dacă grădina este prea umedă.",
-                "en": "Visit the indoor section of the garden cafe if the grounds are too wet."
+                "en": "Visit the indoor section of the garden cafe if the grounds are too wet.",
+                "sv": "Besök trädgårdscaféns inomhusdel om marken är för blöt."
               }
             }
           ],
@@ -455,6 +481,13 @@
               "Kalmar is windy; rain ponchos are often more practical than umbrellas.",
               "Use the gaps between showers to move between the indoor attractions.",
               "The castle provides lockers to store your damp gear during the visit."
+            ],
+            "sv": [
+              "Bär vattentäta skor eftersom gamla stadens kullersten blir mycket hal.",
+              "Kalmars museer har utmärkta garderober för blöta kappor och paraplyer.",
+              "Kalmar är blåsigt; regnponchos är ofta mer praktiska än paraplyer.",
+              "Utnyttja uppehåll mellan skurarna för att förflytta dig mellan inomhusattraktionerna.",
+              "Slottet erbjuder skåp att förvara din fuktiga utrustning i under besöket."
             ]
           }
         },
@@ -463,7 +496,8 @@
             "de": "Ein Wintermorgen am Stortorget beginnt frostig, aber die beleuchtete Kathedrale wärmt die Seele. Mittags spazieren wir durch das verschneite Gamla Stan, bevor wir uns im County Museum aufwärmen. Das Schloss Kalmar wirkt im Winterlicht besonders märchenhaft. Den kurzen Tag beenden wir bei Kerzenschein in einem historischen Kellergewölbe am Hafen.",
             "hu": "A fagyos téli reggel a Stortorgeten indul, ahol a kivilágított székesegyház látványa melengető. Délben a havas Gamla Stan utcáin sétálunk, majd a Megyei Múzeumban melegszünk fel. A Kalmar-kastély a téli fényekben igazi mesebeli erődnek tűnik. A rövid nappalt gyertyafénynél, a kikötő egyik patinás pinceéttermében zárjuk.",
             "ro": "O dimineață de iarnă în Stortorget începe geroasă, dar catedrala luminată oferă o atmosferă caldă. La prânz ne plimbăm prin Gamla Stan înzăpezit, înainte de a ne încălzi la Muzeul Județean. Castelul Kalmar arată ca în basme sub lumina iernii. Încheiem ziua scurtă la lumina lumânărilor într-o pivniță istorică de lângă port.",
-            "en": "Winter morning at Stortorget is crisp, with the illuminated Cathedral providing a warm glow. By noon, we stroll through snowy Gamla Stan before thawing out in the County Museum. Kalmar Castle looks like a fairytale fortress in the low winter sun. We conclude the short day by candlelight in a historic cellar restaurant near the harbor."
+            "en": "Winter morning at Stortorget is crisp, with the illuminated Cathedral providing a warm glow. By noon, we stroll through snowy Gamla Stan before thawing out in the County Museum. Kalmar Castle looks like a fairytale fortress in the low winter sun. We conclude the short day by candlelight in a historic cellar restaurant near the harbor.",
+            "sv": "Vintermorgon på Stortorget är krispig, med den upplysta katedralen som ger ett varmt sken. Vid lunchtid promenerar vi genom snöslungade Gamla Stan innan vi värmer oss på Länsmuseet. Kalmar slott ser ut som en sagoborg i det låga vinterljuset. Vi avslutar den korta dagen med stearinljus i en historisk källarrestaurang nära hamnen."
           },
           "stops": [
             {
@@ -472,7 +506,8 @@
                 "de": "Genießen Sie die winterliche Beleuchtung und suchen Sie Cafés mit Heizstrahlern.",
                 "hu": "Élvezze a téli kivilágítást és keressen hősugárzóval felszerelt kávézókat.",
                 "ro": "Bucurați-vă de iluminatul de iarnă și căutați cafenele cu încălzitoare.",
-                "en": "Enjoy the winter lighting and look for cafes with outdoor heaters."
+                "en": "Enjoy the winter lighting and look for cafes with outdoor heaters.",
+                "sv": "Njut av vinterbelysningen och leta efter caféer med utomhusvärmare."
               }
             },
             {
@@ -481,7 +516,8 @@
                 "de": "Besuchen Sie die Kirche für einen Moment der Stille und Wärme.",
                 "hu": "Látogasson el a templomba egy pillanatnyi csendre és melegségre.",
                 "ro": "Vizitați biserica pentru un moment de liniște și căldură.",
-                "en": "Visit the church for a moment of silence and warmth."
+                "en": "Visit the church for a moment of silence and warmth.",
+                "sv": "Besök kyrkan för ett ögonblick av stillhet och värme."
               }
             },
             {
@@ -490,7 +526,8 @@
                 "de": "Vorsicht bei Glatteis auf dem alten Pflaster; festes Schuhwerk ist wichtig.",
                 "hu": "Vigyázzon a jegesedéssel a régi köveken; a stabil bakancs fontos.",
                 "ro": "Atenție la polei pe pavajul vechi; încălțămintea stabilă este esențială.",
-                "en": "Watch out for icy patches on the old stones; sturdy boots are vital."
+                "en": "Watch out for icy patches on the old stones; sturdy boots are vital.",
+                "sv": "Se upp för isfläckar på de gamla stenarna; stadiga kängor är viktiga."
               }
             },
             {
@@ -499,7 +536,8 @@
                 "de": "Idealer Ort zum Aufwärmen bei Kaffee und schwedischem Gebäck.",
                 "hu": "Ideális hely a felmelegedéshez egy kávé és svéd sütemény mellett.",
                 "ro": "Locul ideal pentru a vă încălzi cu o cafea și produse de patiserie suedeze.",
-                "en": "Ideal place to warm up with coffee and Swedish pastries."
+                "en": "Ideal place to warm up with coffee and Swedish pastries.",
+                "sv": "Idealisk plats att värma sig med kaffe och svenska bakverk."
               }
             },
             {
@@ -508,7 +546,8 @@
                 "de": "Die Burggräben sind oft zugefroren – ein tolles Fotomotiv im Winter.",
                 "hu": "A várárok gyakran befagy – remek fotótéma a téli napsütésben.",
                 "ro": "Șanțurile cetății sunt adesea înghețate – un motiv foto excelent iarna.",
-                "en": "The moats are often frozen over – a great photo opportunity in winter."
+                "en": "The moats are often frozen over – a great photo opportunity in winter.",
+                "sv": "Gravarna är ofta frusna – ett utmärkt fototillfälle på vintern."
               }
             },
             {
@@ -517,7 +556,8 @@
                 "de": "Prüfen Sie die Winteröffnungszeiten; der Hof ist oft nur am Wochenende offen.",
                 "hu": "Ellenőrizze a téli nyitvatartást; az udvar gyakran csak hétvégén nyit ki.",
                 "ro": "Verificați programul de iarnă; curtea este adesea deschisă doar în weekend.",
-                "en": "Check winter opening hours; the courtyard is often only open on weekends."
+                "en": "Check winter opening hours; the courtyard is often only open on weekends.",
+                "sv": "Kontrollera vinteröppettider; innergården är ofta bara öppen på helger."
               }
             }
           ],
@@ -549,6 +589,13 @@
               "Some main sidewalks in Kalmar are heated, but be careful in the old town.",
               "Take frequent 'Fika' (coffee breaks) to sustain your energy in the cold.",
               "The late afternoon blue hour is perfect for capturing the castle's lights."
+            ],
+            "sv": [
+              "Solnedgång i december inträffar redan klockan 15:30.",
+              "Klä dig i lager för de ständiga övergångarna mellan kall luft och uppvärmda museer.",
+              "Vissa huvudtrottoarer i Kalmar är uppvärmda, men var försiktig i gamla stan.",
+              "Ta frekventa fikapauser för att behålla energin i kylan.",
+              "Seneftermiddagens blå timme är perfekt för att fånga slottets ljus."
             ]
           }
         }
@@ -567,7 +614,8 @@
             "de": "Gamla Stan (Altstadt)",
             "hu": "Gamla Stan (Óváros)",
             "ro": "Gamla Stan (Orașul Vechi)",
-            "en": "Gamla Stan (Old Town)"
+            "en": "Gamla Stan (Old Town)",
+            "sv": "Gamla Stan (Old Town)"
           },
           "coords": [
             16.369,
@@ -583,7 +631,8 @@
             "de": "Schließen Sie Ihr Fahrrad ab und erkunden Sie die engen Gassen zu Fuß.",
             "hu": "Zárja le a biciklit és fedezze fel a szűk sikátorokat gyalog.",
             "ro": "Încuietoarea bicicletei și explorați aleile înguste pe jos.",
-            "en": "Lock up your bike and explore the narrow alleys on foot."
+            "en": "Lock up your bike and explore the narrow alleys on foot.",
+            "sv": "Lås fast din cykel och utforska de smala gränderna till fots."
           }
         },
         {
@@ -591,7 +640,8 @@
             "de": "Schloss Kalmar",
             "hu": "Kalmari vár",
             "ro": "Castelul Kalmar",
-            "en": "Kalmar Castle"
+            "en": "Kalmar Castle",
+            "sv": "Kalmar slott"
           },
           "coords": [
             16.356,
@@ -607,7 +657,8 @@
             "de": "Fahren Sie durch den Schlosspark, um die besten Fotomotive zu finden.",
             "hu": "Tekerjen át a várparkon a legjobb fotóhelyekért.",
             "ro": "Plimbați-vă cu bicicleta prin parcul castelului pentru cele mai bune oportunități foto.",
-            "en": "Cycle through the castle park for the best photo opportunities."
+            "en": "Cycle through the castle park for the best photo opportunities.",
+            "sv": "Cykla genom slottsparken för de bästa fotomöjligheterna."
           }
         },
         {
@@ -615,7 +666,8 @@
             "de": "Kalmar Konstmuseum",
             "hu": "Kalmari Művészeti Múzeum",
             "ro": "Muzeul de Artă Kalmar",
-            "en": "Kalmar Art Museum"
+            "en": "Kalmar Art Museum",
+            "sv": "Kalmar Konstmuseum"
           },
           "coords": [
             16.358,
@@ -631,7 +683,8 @@
             "de": "Moderne Architektur trifft auf zeitgenössische Kunst - ein toller Kontrast zum Schloss.",
             "hu": "A modern építészet találkozik a kortárs művészettel - remek kontraszt a várral.",
             "ro": "Arhitectura modernă întâlnește arta contemporană - un contrast excelent cu castelul.",
-            "en": "Modern architecture meets contemporary art - a great contrast to the castle."
+            "en": "Modern architecture meets contemporary art - a great contrast to the castle.",
+            "sv": "Modern arkitektur möter samtida konst – en stor kontrast till slottet."
           }
         },
         {
@@ -639,7 +692,8 @@
             "de": "Aussicht auf Ölandsbron",
             "hu": "Kilátás az Öland hídra",
             "ro": "Vedere spre Podul Öland",
-            "en": "Ölandsbron Viewpoint"
+            "en": "Ölandsbron Viewpoint",
+            "sv": "Utsiktsplatsen Ölandsbron"
           },
           "coords": [
             16.39,
@@ -655,7 +709,8 @@
             "de": "Eine schöne Radtour entlang der Küste zu einem tollen Aussichtspunkt auf die Brücke.",
             "hu": "Egy kellemes biciklitúra a part mentén egy remek kilátóponthoz a hídra.",
             "ro": "O plimbare plăcută cu bicicleta de-a lungul coastei până la un punct de belvedere excelent spre pod.",
-            "en": "A pleasant bike ride along the coast to a great viewpoint of the bridge."
+            "en": "A pleasant bike ride along the coast to a great viewpoint of the bridge.",
+            "sv": "En trevlig cykeltur längs kusten till en fin utsikt över bron."
           }
         },
         {
@@ -663,7 +718,8 @@
             "de": "Kalmar Läns Museum",
             "hu": "Kalmar Läns Múzeum",
             "ro": "Muzeul Regional Kalmar",
-            "en": "Kalmar County Museum"
+            "en": "Kalmar County Museum",
+            "sv": "Kalmar Länsmuseum"
           },
           "coords": [
             16.3688,
@@ -679,7 +735,8 @@
             "de": "Erfahren Sie mehr über das Wrack des Schiffes Kronan, das direkt vor der Küste sank.",
             "hu": "Tudjon meg többet a part közelében elsüllyedt Kronan hajóroncsról.",
             "ro": "Aflați despre epava navei Kronan, care s-a scufundat chiar în largul coastei.",
-            "en": "Learn about the wreck of the Kronan ship, which sank just off the coast."
+            "en": "Learn about the wreck of the Kronan ship, which sank just off the coast.",
+            "sv": "Lär dig om vraket av skeppet Kronan, som sjönk precis utanför kusten."
           }
         },
         {
@@ -687,7 +744,8 @@
             "de": "Stortorget & Dom",
             "hu": "Stortorget és a Dóm",
             "ro": "Stortorget și Catedrala",
-            "en": "Stortorget & Cathedral"
+            "en": "Stortorget & Cathedral",
+            "sv": "Stortorget & Katedralen"
           },
           "coords": [
             16.3661,
@@ -703,7 +761,8 @@
             "de": "Beenden Sie Ihre Tour dort, wo der Tag für die Spaziergänger begann.",
             "hu": "Fejezze be a túrát ott, ahol a gyalogosok számára a nap kezdődött.",
             "ro": "Încheiați turul acolo unde a început ziua pentru pietoni.",
-            "en": "End your tour where the day began for the walkers."
+            "en": "End your tour where the day began for the walkers.",
+            "sv": "Avsluta rundturen där dagen började för de som promenerar."
           }
         }
       ],
@@ -711,7 +770,8 @@
         "de": "Schwingen Sie sich auf Ihr Fahrrad und starten Sie in der charmanten Altstadt. Radeln Sie zum imposanten Schloss Kalmar und genießen Sie die Aussicht vom Park aus. Ein kurzer Abstecher führt Sie zum modernen Kunstmuseum, bevor Sie eine längere Tour entlang der Küste zur berühmten Ölandbrücke unternehmen. Auf dem Rückweg tauchen Sie im Läns Museum in die Geschichte ein und beenden den Tag mit einem letzten Blick auf die Kathedrale am Stortorget.",
         "hu": "Pattanjon biciklire, és induljon a bájos óvárosból. Tekerjen el a lenyűgöző Kalmari várhoz, és élvezze a kilátást a parkból. Egy rövid kitérő a modern művészeti múzeumba vezet, mielőtt egy hosszabb túrára indul a part mentén a híres Öland hídhoz. Visszafelé merüljön el a történelemben a Läns Múzeumban, és zárja a napot egy utolsó pillantással a Stortorgeten álló dómra.",
         "ro": "Urcați-vă pe bicicletă și porniți din fermecătorul Oraș Vechi. Pedalați spre impunătorul Castel Kalmar și bucurați-vă de priveliștea din parc. Un scurt ocol vă duce la muzeul de artă modernă înainte de a face un tur mai lung de-a lungul coastei spre faimosul Pod Öland. Pe drumul de întoarcere, scufundați-vă în istorie la Muzeul Regional și încheiați ziua cu o ultimă privire la catedrala din Stortorget.",
-        "en": "Hop on your bike and start in the charming Old Town. Cycle to the imposing Kalmar Castle and enjoy the view from the park. A short detour takes you to the modern art museum before you embark on a longer tour along the coast to the famous Öland Bridge. On the way back, immerse yourself in history at the County Museum and end the day with a final look at the cathedral in Stortorget."
+        "en": "Hop on your bike and start in the charming Old Town. Cycle to the imposing Kalmar Castle and enjoy the view from the park. A short detour takes you to the modern art museum before you embark on a longer tour along the coast to the famous Öland Bridge. On the way back, immerse yourself in history at the County Museum and end the day with a final look at the cathedral in Stortorget.",
+        "sv": "Hoppa upp på cykeln och börja i charmiga Gamla Stan. Cykla till det mäktiga Kalmar slott och njut av utsikten från parken. En kort avstickare tar dig till det moderna konstmuseet innan du ger dig ut på en längre tur längs kusten mot den berömda Ölandsbron. På vägen tillbaka fördjupar du dig i historia på Länsmuseet och avslutar dagen med en sista blick på katedralen i Stortorget."
       },
       "gastro_picks": {
         "de": [
@@ -907,6 +967,12 @@
           "A helmet is recommended but not legally required.",
           "Bring a water bottle and snacks for the longer ride to the Öland Bridge.",
           "Always lock your bike, even if leaving it for just a short time."
+        ],
+        "sv": [
+          "Många stigar i Kalmar är cykelvänliga, men håll utkik efter gående i Gamla Stan.",
+          "Hjälm rekommenderas men är inte lagkrav.",
+          "Ta med en vattenflaska och snacks för den längre turen till Ölandsbron.",
+          "Lås alltid din cykel, även om du lämnar den bara en kort stund."
         ]
       },
       "variants": {
@@ -915,7 +981,8 @@
             "de": "Trotz Regen bietet Kalmar hervorragende Radwege. Wir starten in der Altstadt und radeln zum Schloss, wo wir das Rad im Trockenen abstellen. Mittags besuchen wir das Kunstmuseum im Stadtpark. Die Fahrt zum Ölandsbron-Aussichtspunkt führt uns an der windigen Küste entlang. Den Tag beenden wir zügig am Stortorget, wo wir uns in ein warmes Lokal retten.",
             "hu": "Az eső ellenére Kalmar kiváló kerékpárutakkal vár. Az óvárosból indulunk a kastélyhoz, ahol fedett helyen hagyhatjuk a biciklit. Délben a városi parkban található Művészeti Múzeumba látogatunk. Az Öland-híd kilátójához vezető út a szeles parton visz végig. A napot gyors tempóban a Stortorgeten zárjuk, egy meleg étteremben keresve menedéket.",
             "ro": "În ciuda ploii, Kalmar oferă piste de biciclete excelente. Pornim din centrul vechi spre castel, unde parcăm bicicleta la adăpost. La prânz vizităm Muzeul de Artă din parcul orașului. Drumul spre punctul de belvedere Ölandsbron ne poartă de-a lungul coastei vântoase. Încheiem ziua rapid în Stortorget, refugiindu-ne într-un local călduros.",
-            "en": "Despite the rain, Kalmar offers superb cycling paths. We start in the old town and pedal to the castle, finding covered bike parking. At noon, we visit the Art Museum in the city park. The ride to the Ölandsbron viewpoint takes us along the breezy coast. We wrap up the day quickly at Stortorget, retreating into a welcoming warm restaurant."
+            "en": "Despite the rain, Kalmar offers superb cycling paths. We start in the old town and pedal to the castle, finding covered bike parking. At noon, we visit the Art Museum in the city park. The ride to the Ölandsbron viewpoint takes us along the breezy coast. We wrap up the day quickly at Stortorget, retreating into a welcoming warm restaurant.",
+            "sv": "Trots regnet erbjuder Kalmar utmärkta cykelvägar. Vi börjar i gamla stan och trampar till slottet, där det finns täckt cykelparkering. Vid lunchtid besöker vi Konstmuseet i stadsparken. Cykelturen till utsiktsplatsen vid Ölandsbron går längs den blåsiga kusten. Vi avslutar snabbt dagen på Stortorget och söker skydd i en välkomnande varm restaurang."
           },
           "stops": [
             {
@@ -924,7 +991,8 @@
                 "de": "Vorsicht auf dem nassen Kopfsteinpflaster; fahren Sie langsam.",
                 "hu": "Vigyázzon a vizes macskakövön; hajtson lassan és óvatosan.",
                 "ro": "Atenție pe pavajul umed; pedalați încet și cu prudență.",
-                "en": "Be careful on the wet cobblestones; cycle slowly and cautiously."
+                "en": "Be careful on the wet cobblestones; cycle slowly and cautiously.",
+                "sv": "Var försiktig på de våta kullerstenarna; cykla långsamt och med försiktighet."
               }
             },
             {
@@ -933,7 +1001,8 @@
                 "de": "Suchen Sie nach den überdachten Fahrradständern in der Nähe des Eingangs.",
                 "hu": "Keresse a fedett kerékpártárolókat a bejárat közelében.",
                 "ro": "Căutați suporturile de biciclete acoperite din apropierea intrării.",
-                "en": "Look for the covered bicycle racks near the main entrance."
+                "en": "Look for the covered bicycle racks near the main entrance.",
+                "sv": "Sök efter täckta cykelställ nära huvudentrén."
               }
             },
             {
@@ -942,7 +1011,8 @@
                 "de": "Ein moderner Bau mit viel Platz, um nasse Regenbekleidung abzulegen.",
                 "hu": "Modern épület, ahol bőven van hely a nedves esőruhák levételére.",
                 "ro": "O clădire modernă cu mult spațiu pentru a lăsa hainele de ploaie ude.",
-                "en": "Modern building with plenty of space to shed wet rain gear."
+                "en": "Modern building with plenty of space to shed wet rain gear.",
+                "sv": "Modern byggnad med gott om plats att byta av sig blöta regnkläder."
               }
             },
             {
@@ -951,7 +1021,8 @@
                 "de": "Sehr windexponiert; halten Sie den Lenker bei Böen gut fest.",
                 "hu": "Nagyon szeles pont; erős széllökések idején fogja szorosan a kormányt.",
                 "ro": "Zonă foarte expusă vântului; țineți bine ghidonul la rafale.",
-                "en": "Very exposed to wind; grip your handlebars tightly during gusts."
+                "en": "Very exposed to wind; grip your handlebars tightly during gusts.",
+                "sv": "Mycket utsatt för vind; håll styret hårt i byarna."
               }
             },
             {
@@ -960,7 +1031,8 @@
                 "de": "Nutzen Sie den Museumsbesuch, um die Socken zu trocknen.",
                 "hu": "Használja ki a múzeumlátogatást a zoknik megszárítására.",
                 "ro": "Profitați de vizita la muzeu pentru a vă usca șosetele.",
-                "en": "Use the museum visit as an opportunity to dry off your gear."
+                "en": "Use the museum visit as an opportunity to dry off your gear.",
+                "sv": "Använd museibesöket som en möjlighet att torka din utrustning."
               }
             },
             {
@@ -969,7 +1041,8 @@
                 "de": "Kurzer Stopp; parken Sie das Rad nah an den Gebäuden für Schutz.",
                 "hu": "Rövid megálló; parkoljon az épületek közelében a védelemért.",
                 "ro": "Oprire scurtă; parcați bicicleta aproape de clădiri pentru protecție.",
-                "en": "Short stop; park your bike close to the buildings for cover."
+                "en": "Short stop; park your bike close to the buildings for cover.",
+                "sv": "Kort stopp; parkera cykeln nära byggnaderna för skydd."
               }
             }
           ],
@@ -1001,6 +1074,13 @@
               "Use a waterproof saddle cover whenever you park your bike outside.",
               "Coastal paths can be extremely windy during rainstorms; cycle with care.",
               "Avoid riding through puddles as they can hide deep potholes in the path."
+            ],
+            "sv": [
+              "Se till att din hyrcykel har skärmar för att undvika vägssprut på ryggen.",
+              "Bromsarna kan skära när de är blöta och kräver längre stoppsträcka.",
+              "Använd ett vattentätt sadelskydd när du parkerar cykeln utomhus.",
+              "Kustvägar kan vara extremt blåsiga under regnstormar; cykla varsamt.",
+              "Undvik att köra genom pölar eftersom de kan dölja djupa potthål på vägen."
             ]
           }
         },
@@ -1009,7 +1089,8 @@
             "de": "Radfahren im kalmarer Winter erfordert warme Handschuhe. Wir starten in der Altstadt und bewundern das verschneite Schloss. Das Kunstmuseum bietet eine willkommene Aufwärmpause. Die Fahrt zum Ölandsbron-Aussichtspunkt ist bei klarem Frostwetter herrlich. Wir kehren zum County Museum zurück und beenden die Tour an der hell erleuchteten Kathedrale.",
             "hu": "A kalmari téli biciklizéshez meleg kesztyű kell. Az óvárosból indulunk és megcsodáljuk a havas kastélyt. A Művészeti Múzeum kellemes pihenőt nyújt a hidegben. Az Öland-híd kilátójához vezető út tiszta, fagyos időben gyönyörű. Visszatérünk a Megyei Múzeumba, majd a díszkivilágításban úszó katedrálisnál zárjuk a túrát.",
             "ro": "Mersul pe bicicletă în iarna din Kalmar necesită mănuși groase. Pornim din centrul vechi și admirăm castelul înzăpezit. Muzeul de Artă oferă o pauză de încălzire binevenită. Drumul spre Ölandsbron este superb pe vreme geroasă și senină. Revenim la Muzeul Județean și încheiem turul la catedrala luminată festiv.",
-            "en": "Cycling in Kalmar's winter demands warm gloves. We start in the old town and admire the snow-dusted castle. The Art Museum offers a welcome warming break. The ride to the Ölandsbron viewpoint is magnificent in clear, frosty weather. We return to the County Museum and finish the tour at the brightly lit Cathedral."
+            "en": "Cycling in Kalmar's winter demands warm gloves. We start in the old town and admire the snow-dusted castle. The Art Museum offers a welcome warming break. The ride to the Ölandsbron viewpoint is magnificent in clear, frosty weather. We return to the County Museum and finish the tour at the brightly lit Cathedral.",
+            "sv": "Att cykla i Kalmars vinter kräver varma handskar. Vi börjar i gamla stan och beundrar det lätt snötäckta slottet. Konstmuseet erbjuder en välkommen värmande paus. Turen till utsiktsplatsen vid Ölandsbron är storslagen i klar, krispig luft. Vi återvänder till Länsmuseet och avslutar rundturen vid den starkt upplysta katedralen."
           },
           "stops": [
             {
@@ -1018,7 +1099,8 @@
                 "de": "Achten Sie auf Glatteis unter dem Schnee; fahren Sie vorsichtig.",
                 "hu": "Vigyázzon a hó alatti jégfoltokra; közlekedjen óvatosan.",
                 "ro": "Atenție la gheața de sub zăpadă; pedalați cu prudență maximă.",
-                "en": "Watch out for ice hidden under the snow; cycle with extreme care."
+                "en": "Watch out for ice hidden under the snow; cycle with extreme care.",
+                "sv": "Se upp för is som döljs under snön; cykla med extrem försiktighet."
               }
             },
             {
@@ -1027,7 +1109,8 @@
                 "de": "Das Schlossgelände ist im Winter oft geräumt, aber stellenweise glatt.",
                 "hu": "A kastély környékét télen takarítják, de néhol így is csúszós lehet.",
                 "ro": "Zona castelului este curățată iarna, dar poate fi alunecoasă pe alocuri.",
-                "en": "The castle grounds are usually cleared but can remain slippery in spots."
+                "en": "The castle grounds are usually cleared but can remain slippery in spots.",
+                "sv": "Slottsområdet är vanligtvis plogat men kan vara hala fläckvis."
               }
             },
             {
@@ -1036,7 +1119,8 @@
                 "de": "Guter Ort, um die Finger wieder aufzuwärmen.",
                 "hu": "Kiváló hely az elgémberedett ujjak felmelegítésére.",
                 "ro": "Un loc bun pentru a vă reîncălzi degetele amorțite.",
-                "en": "Great spot to get the feeling back into your cold fingers."
+                "en": "Great spot to get the feeling back into your cold fingers.",
+                "sv": "Bra ställe att få tillbaka känseln i kalla fingrar."
               }
             },
             {
@@ -1045,7 +1129,8 @@
                 "de": "Der Windchill-Effekt ist hier extrem; ziehen Sie sich warm an.",
                 "hu": "A szél miatt a hőérzet itt jóval alacsonyabb; öltözzön nagyon melegen.",
                 "ro": "Efectul de răcire al vântului este extrem aici; îmbrăcați-vă gros.",
-                "en": "Wind chill is extreme here; make sure you are dressed very warmly."
+                "en": "Wind chill is extreme here; make sure you are dressed very warmly.",
+                "sv": "Kylningen från vinden är extrem här; se till att du är mycket varmt klädd."
               }
             },
             {
@@ -1054,7 +1139,8 @@
                 "de": "Überprüfen Sie, ob der Akku Ihres E-Bikes bei Kälte schneller leer wird.",
                 "hu": "Ellenőrizze az e-bike akkumulátorát, mert hidegben gyorsabban merül.",
                 "ro": "Verificați bateria bicicletei electrice, se descarcă mai repede la ger.",
-                "en": "Check your e-bike battery as it drains much faster in freezing temps."
+                "en": "Check your e-bike battery as it drains much faster in freezing temps.",
+                "sv": "Kontrollera din elcykels batteri eftersom det töms mycket snabbare i minusgrader."
               }
             },
             {
@@ -1063,7 +1149,8 @@
                 "de": "Die Tour endet im Dunkeln; stellen Sie sicher, dass Ihr Licht funktioniert.",
                 "hu": "A túra sötétben ér véget; győződjön meg róla, hogy működik a lámpa.",
                 "ro": "Turul se încheie pe întuneric; asigurați-vă că luminile funcționează.",
-                "en": "The tour ends in the dark; ensure your bike lights are fully functional."
+                "en": "The tour ends in the dark; ensure your bike lights are fully functional.",
+                "sv": "Turen slutar i mörker; se till att dina cykellampor fungerar fullt ut."
               }
             }
           ],
@@ -1095,6 +1182,13 @@
               "Rental bikes in Kalmar often come with studded tires in winter; ask for them.",
               "Keep the bike chain well-oiled to protect it from road salt damage.",
               "Drink warm beverages at each stop to maintain your core temperature."
+            ],
+            "sv": [
+              "Bär ett vindtätt ytterlager för att stå emot kustbrisarna.",
+              "Undvik plötsliga styrrörelser på eventuellt isiga ytor.",
+              "Hyrcyklar i Kalmar levereras ofta med dubbdäck på vintern; fråga efter dem.",
+              "Håll kedjan väl oljad för att skydda den från vägsprejat salt.",
+              "Drick varma drycker vid varje stopp för att behålla kroppstemperaturen."
             ]
           }
         }
@@ -1113,7 +1207,8 @@
             "de": "Cluster A: Parken am Stortorget",
             "hu": "A klaszter: Parkolás a Stortorgetnél",
             "ro": "Cluster A: Parcare la Stortorget",
-            "en": "Cluster A: Parking at Stortorget"
+            "en": "Cluster A: Parking at Stortorget",
+            "sv": "Klustern A: Parkering vid Stortorget"
           },
           "coords": [
             16.364,
@@ -1129,7 +1224,8 @@
             "de": "Parken Sie hier und erkunden Sie den ersten Teil der Stadt zu Fuß.",
             "hu": "Parkoljon itt, és fedezze fel a város első részét gyalog.",
             "ro": "Parcați aici și explorați prima parte a orașului pe jos.",
-            "en": "Park here and explore the first part of the city on foot."
+            "en": "Park here and explore the first part of the city on foot.",
+            "sv": "Parkera här och utforska den första delen av staden till fots."
           }
         },
         {
@@ -1137,7 +1233,8 @@
             "de": "Dom zu Kalmar",
             "hu": "Kalmari dóm",
             "ro": "Catedrala din Kalmar",
-            "en": "Kalmar Cathedral"
+            "en": "Kalmar Cathedral",
+            "sv": "Kalmar katedral"
           },
           "coords": [
             16.3661,
@@ -1153,7 +1250,8 @@
             "de": "Nur ein kurzer Spaziergang vom Parkplatz entfernt.",
             "hu": "Csak egy rövid séta a parkolótól.",
             "ro": "La doar o scurtă plimbare de parcare.",
-            "en": "Just a short walk from the parking spot."
+            "en": "Just a short walk from the parking spot.",
+            "sv": "Bara en kort promenad från parkeringsplatsen."
           }
         },
         {
@@ -1161,7 +1259,8 @@
             "de": "Gamla Stan (Altstadt)",
             "hu": "Gamla Stan (Óváros)",
             "ro": "Gamla Stan (Orașul Vechi)",
-            "en": "Gamla Stan (Old Town)"
+            "en": "Gamla Stan (Old Town)",
+            "sv": "Gamla Stan (Old Town)"
           },
           "coords": [
             16.369,
@@ -1177,7 +1276,8 @@
             "de": "Die Gassen der Altstadt sind am besten zu Fuß zu entdecken.",
             "hu": "Az óváros sikátorait a legjobb gyalog felfedezni.",
             "ro": "Aleile din Orașul Vechi sunt cel mai bine explorate pe jos.",
-            "en": "The alleys of the Old Town are best explored on foot."
+            "en": "The alleys of the Old Town are best explored on foot.",
+            "sv": "Gamla stans gränder är bäst att utforska till fots."
           }
         },
         {
@@ -1185,7 +1285,8 @@
             "de": "Cluster B: Schloss Kalmar",
             "hu": "B klaszter: Kalmari vár",
             "ro": "Cluster B: Castelul Kalmar",
-            "en": "Cluster B: Kalmar Castle"
+            "en": "Cluster B: Kalmar Castle",
+            "sv": "Klustern B: Kalmar slott"
           },
           "coords": [
             16.356,
@@ -1201,7 +1302,8 @@
             "de": "Fahren Sie zum Schloss und nutzen Sie den großen Parkplatz dort.",
             "hu": "Vezessen a várhoz, és használja az ottani nagy parkolót.",
             "ro": "Conduceți la castel și folosiți parcarea mare de acolo.",
-            "en": "Drive to the castle and use the large parking lot there."
+            "en": "Drive to the castle and use the large parking lot there.",
+            "sv": "Kör till slottet och använd den stora parkeringsplatsen där."
           }
         },
         {
@@ -1209,7 +1311,8 @@
             "de": "Kalmar Konstmuseum",
             "hu": "Kalmari Művészeti Múzeum",
             "ro": "Muzeul de Artă Kalmar",
-            "en": "Kalmar Art Museum"
+            "en": "Kalmar Art Museum",
+            "sv": "Kalmar Konstmuseum"
           },
           "coords": [
             16.358,
@@ -1225,7 +1328,8 @@
             "de": "Das Kunstmuseum liegt direkt neben dem Schloss im selben Park.",
             "hu": "A művészeti múzeum közvetlenül a vár mellett található, ugyanabban a parkban.",
             "ro": "Muzeul de artă este situat chiar lângă castel, în același parc.",
-            "en": "The art museum is located right next to the castle in the same park."
+            "en": "The art museum is located right next to the castle in the same park.",
+            "sv": "Konstmuseet ligger precis intill slottet i samma park."
           }
         },
         {
@@ -1233,7 +1337,8 @@
             "de": "Cluster C: Ölandsbron & Küste",
             "hu": "C klaszter: Öland híd és part",
             "ro": "Cluster C: Podul Öland și Coasta",
-            "en": "Cluster C: Öland Bridge & Coast"
+            "en": "Cluster C: Öland Bridge & Coast",
+            "sv": "Klustern C: Ölandsbron & Kusten"
           },
           "coords": [
             16.395,
@@ -1249,7 +1354,8 @@
             "de": "Fahren Sie für eine andere Perspektive zum nördlichen Ufer für einen Blick auf die Brücke.",
             "hu": "Vezessen az északi partra egy másik perspektíváért és a hídra nyíló kilátásért.",
             "ro": "Conduceți spre malul nordic pentru o perspectivă diferită și o vedere a podului.",
-            "en": "Drive to the northern shore for a different perspective and a view of the bridge."
+            "en": "Drive to the northern shore for a different perspective and a view of the bridge.",
+            "sv": "Kör till norra stranden för ett annat perspektiv och utsikt över bron."
           }
         }
       ],
@@ -1257,7 +1363,8 @@
         "de": "Beginnen Sie Ihren Tag mit dem Auto im Zentrum und parken Sie in der Nähe des Stortorget. Erkunden Sie die Kathedrale und die Altstadt zu Fuß. Anschließend fahren Sie zum majestätischen Schloss Kalmar, wo Sie einen neuen Stützpunkt für die Erkundung des Schlosses und des benachbarten Kunstmuseums einrichten. Zum Abschluss des Tages fahren Sie zur Küste, um die beeindruckende Ölandbrücke aus der Ferne zu bewundern und die Meeresluft zu genießen. Dieses clusterbasierte Vorgehen minimiert die Parkplatzsuche und maximiert Ihr Erlebnis.",
         "hu": "Kezdje a napot autóval a központban, parkoljon a Stortorget közelében. Fedezze fel gyalog a dómot és az óvárost. Ezután vezessen a fenséges Kalmari várhoz egy újabb bázisért, ahonnan felfedezheti a várat és a szomszédos művészeti múzeumot. A nap végén hajtson a parthoz, hogy távolról megcsodálhassa a lenyűgöző Öland hidat és élvezze a tengeri levegőt. Ez a klaszter-alapú megközelítés minimalizálja a parkolóhely-keresést és maximalizálja az élményt.",
         "ro": "Începeți ziua cu mașina în centru, parcând lângă Stortorget. Explorați catedrala și Orașul Vechi pe jos. Apoi, conduceți la maiestuosul Castel Kalmar pentru o nouă bază de explorare a castelului și a muzeului de artă adiacent. Pentru a încheia ziua, conduceți spre coastă pentru a admira impresionantul Pod Öland de la distanță și a vă bucura de aerul mării. Această abordare pe clustere minimizează căutarea parcării și maximizează experiența.",
-        "en": "Start your day by car in the center, parking near Stortorget. Explore the cathedral and the Old Town on foot. Then, drive to the majestic Kalmar Castle for a new base to explore the castle and the adjacent art museum. To finish the day, drive to the coast to admire the impressive Öland Bridge from a distance and enjoy the sea air. This cluster-based approach minimizes parking searches and maximizes your experience."
+        "en": "Start your day by car in the center, parking near Stortorget. Explore the cathedral and the Old Town on foot. Then, drive to the majestic Kalmar Castle for a new base to explore the castle and the adjacent art museum. To finish the day, drive to the coast to admire the impressive Öland Bridge from a distance and enjoy the sea air. This cluster-based approach minimizes parking searches and maximizes your experience.",
+        "sv": "Börja dagen med bilen i centrum och parkera vid Stortorget. Utforska katedralen och Gamla Stan till fots. Kör sedan till det majestätiska Kalmar slott för en ny bas att utforska slottet och närliggande konstmuseum. Avsluta dagen med att köra till kusten för att beundra den imponerande Ölandsbron på avstånd och njuta av havsluften. Detta klusterbaserade upplägg minimerar letande efter parkering och maximerar upplevelsen."
       },
       "gastro_picks": {
         "de": [
@@ -1453,6 +1560,12 @@
           "The Öland Bridge is toll-free.",
           "Pay attention to speed limits, especially in residential areas.",
           "Plan your clusters to avoid unnecessary driving back and forth."
+        ],
+        "sv": [
+          "Parkering i centrum är betalparkering. Använd parkeringsappar som EasyPark.",
+          "Ölandsbron är bomfri (utan avgift).",
+          "Var uppmärksam på hastighetsbegränsningar, särskilt i bostadsområden.",
+          "Planera dina kluster för att undvika onödig fram- och tillbaka-körning."
         ]
       },
       "variants": {
@@ -1461,7 +1574,8 @@
             "de": "Mit dem Auto ist Kalmar auch bei Starkregen bequem. Wir parken direkt am Stortorget für einen kurzen Besuch der Kathedrale. Mittags fahren wir zum Gamla Stan, wobei wir die trockene Kabine genießen. Das Schloss Kalmar bietet nahegelegene Parkplätze. Nachmittags besuchen wir das Kunstmuseum und fahren zum Abschluss zur Öland-Brücke, um das stürmische Meer zu beobachten.",
             "hu": "Autóval Kalmar szakadó esőben is kényelmes. Közvetlenül a Stortorgetnél parkolunk a katedrális meglátogatásához. Délben a Gamla Stan felé vesszük az irányt, élvezve a száraz utasteret. A Kalmar-kastély közelében jó parkolóhelyek vannak. Délután a Művészeti Múzeumba megyünk, majd a napot az Öland-hídnál zárjuk, figyelve a viharos tengert.",
             "ro": "Cu mașina, Kalmar este confortabil chiar și pe ploaie torențială. Parcăm chiar lângă Stortorget pentru o scurtă vizită la catedrală. La prânz mergem spre Gamla Stan, bucurându-ne de interiorul uscat. Castelul Kalmar are parcări în apropiere. După-amiaza vizităm Muzeul de Artă și încheiem la podul Öland, admirând marea agitată.",
-            "en": "Exploring Kalmar by car is convenient even in heavy rain. We park right at Stortorget for a quick visit to the Cathedral. By noon, we head to Gamla Stan while staying dry inside. Kalmar Castle has parking spots located very close by. In the afternoon, we visit the Art Museum and conclude at the Öland Bridge to watch the stormy Baltic sea."
+            "en": "Exploring Kalmar by car is convenient even in heavy rain. We park right at Stortorget for a quick visit to the Cathedral. By noon, we head to Gamla Stan while staying dry inside. Kalmar Castle has parking spots located very close by. In the afternoon, we visit the Art Museum and conclude at the Öland Bridge to watch the stormy Baltic sea.",
+            "sv": "Att utforska Kalmar med bil är bekvämt även i kraftigt regn. Vi parkerar direkt vid Stortorget för ett snabbt besök i katedralen. Vid lunchtid tar vi oss till Gamla Stan medan vi håller oss torra inomhus. Kalmar slott har parkeringsplatser mycket nära. På eftermiddagen besöker vi Konstmuseet och avslutar vid Ölandsbron för att betrakta det stormiga Östersjön."
           },
           "stops": [
             {
@@ -1470,7 +1584,8 @@
                 "de": "Nutzen Sie Park-Apps, um das Bezahlen im Regen am Automaten zu vermeiden.",
                 "hu": "Használjon parkolási appot, hogy ne kelljen az esőben az automatánál fizetni.",
                 "ro": "Folosiți aplicații de parcare pentru a evita plata la automat în ploaie.",
-                "en": "Use parking apps to avoid standing in the rain at payment machines."
+                "en": "Use parking apps to avoid standing in the rain at payment machines.",
+                "sv": "Använd parkeringsappar för att slippa stå i regnet vid betalautomaterna."
               }
             },
             {
@@ -1479,7 +1594,8 @@
                 "de": "Wenige Meter vom Parkplatz zum Kircheneingang.",
                 "hu": "Csak pár méter séta a parkolótól a templom bejáratáig.",
                 "ro": "Doar câțiva metri de mers de la parcare până la intrarea în biserică.",
-                "en": "Just a few meters walk from the parking area to the church entrance."
+                "en": "Just a few meters walk from the parking area to the church entrance.",
+                "sv": "Bara några meters promenad från parkeringsområdet till kyrkans entré."
               }
             },
             {
@@ -1488,7 +1604,8 @@
                 "de": "Einige Straßen sind eng; parken Sie am Rand und nehmen Sie den Schirm.",
                 "hu": "Néhány utca szűk; parkoljon a szélén és használjon esernyőt.",
                 "ro": "Unele străzi sunt înguste; parcați la margine și folosiți umbrela.",
-                "en": "Some streets are narrow; park on the outskirts and use an umbrella."
+                "en": "Some streets are narrow; park on the outskirts and use an umbrella.",
+                "sv": "Vissa gator är smala; parkera i utkanten och använd ett paraply."
               }
             },
             {
@@ -1497,7 +1614,8 @@
                 "de": "Der Parkplatz ist nah, aber der Weg zum Tor ist ungeschützt.",
                 "hu": "A parkoló közel van, de a kapuig tartó út nem fedett.",
                 "ro": "Parcarea este aproape, dar drumul până la poartă este neprotejat.",
-                "en": "Parking is nearby, but the path to the gate is exposed to the rain."
+                "en": "Parking is nearby, but the path to the gate is exposed to the rain.",
+                "sv": "Parkering finns i närheten, men vägen till grinden är utsatt för regn."
               }
             },
             {
@@ -1506,7 +1624,8 @@
                 "de": "Parken Sie am Slottsvägen für den kürzesten Fußweg.",
                 "hu": "Parkoljon a Slottsvägennél a legrövidebb gyalogút érdekében.",
                 "ro": "Parcați pe Slottsvägen pentru cel mai scurt drum pe jos.",
-                "en": "Park at Slottsvägen for the shortest walking distance to the museum."
+                "en": "Park at Slottsvägen for the shortest walking distance to the museum.",
+                "sv": "Parkera på Slottsvägen för kortast promenad till museet."
               }
             },
             {
@@ -1515,7 +1634,8 @@
                 "de": "Bleiben Sie bei starkem Wind im Auto und genießen Sie die Aussicht.",
                 "hu": "Erős szélben maradjon az autóban és onnan élvezze a kilátást.",
                 "ro": "Rămâneți în mașină în caz de vânt puternic și admirați vederea.",
-                "en": "Stay inside the car during strong winds and enjoy the view from there."
+                "en": "Stay inside the car during strong winds and enjoy the view from there.",
+                "sv": "Stanna kvar i bilen vid hårda vindar och njut av utsikten därifrån."
               }
             }
           ],
@@ -1547,6 +1667,13 @@
               "Watch out for standing water on coastal roads to avoid aquaplaning.",
               "Keep a rubber mat in the trunk for storing wet umbrellas.",
               "Multi-storey car parks in the center provide the best cover when exiting."
+            ],
+            "sv": [
+              "Undvik att parkera under träd om det finns risk för stormbyar.",
+              "Sikt på Ölandsbron kan vara mycket dålig vid kraftigt regn.",
+              "Se upp för vattenansamlingar på kusten för att undvika vattenplaning.",
+              "Ha en gummimatta i bagaget för blöta paraplyer.",
+              "P-hus i centrum ger bäst skydd när du kliver ut."
             ]
           }
         },
@@ -1555,7 +1682,8 @@
             "de": "Winter in Kalmar mit dem Auto ist sicher und warm. Wir starten am Stortorget, wo die Kathedrale festlich leuchtet. Mittags fahren wir durch das winterliche Gamla Stan. Das Schloss Kalmar bietet eine dramatische Kulisse im Schnee. Nach dem Kunstmuseum fahren wir zur Öland-Brücke, um das Packeis an der Küste zu bewundern, bevor es früh dunkel wird.",
             "hu": "A kalmari tél autóval biztonságos és meleg. A Stortorgetnél kezdünk, ahol a katedrális ünnepi fényben úszik. Délben átgurulunk a téli Gamla Stan utcáin. A Kalmar-kastély drámai látványt nyújt a hóban. A Művészeti Múzeum után az Öland-hídhoz hajtunk, hogy megnézzük a parti jégtáblákat a korai sötétedés előtt.",
             "ro": "Iarna în Kalmar este sigură și călduroasă cu mașina. Începem în Stortorget, unde catedrala strălucește festiv. La prânz trecem prin Gamla Stan înzăpezit. Castelul Kalmar oferă un decor dramatic în zăpadă. După Muzeul de Artă, mergem la podul Öland pentru a vedea gheața de la mal înainte de lăsarea serii.",
-            "en": "Winter in Kalmar is safe and warm by car. We begin at Stortorget, where the Cathedral is festively lit. By noon, we drive through the winter scenes of Gamla Stan. Kalmar Castle provides a dramatic backdrop in the snow. After the Art Museum, we drive to the Öland Bridge to see the coastal ice before the early sunset."
+            "en": "Winter in Kalmar is safe and warm by car. We begin at Stortorget, where the Cathedral is festively lit. By noon, we drive through the winter scenes of Gamla Stan. Kalmar Castle provides a dramatic backdrop in the snow. After the Art Museum, we drive to the Öland Bridge to see the coastal ice before the early sunset.",
+            "sv": "Vinter i Kalmar är tryggt och varmt med bil. Vi börjar vid Stortorget, där domkyrkan är festligt upplyst. Mitt på dagen kör vi genom Gamla Stans vinterscener. Kalmar slott ger en dramatisk bakgrund i snön. Efter konstmuseet kör vi till Ölandsbron för att se isen vid kusten innan den tidiga solnedgången."
           },
           "stops": [
             {
@@ -1564,7 +1692,8 @@
                 "de": "Achten Sie darauf, dass Ihr Mietwagen mit Winterreifen ausgestattet ist.",
                 "hu": "Győződjön meg róla, hogy a bérautón van téli gumi.",
                 "ro": "Asigurați-vă că mașina închiriată are anvelope de iarnă.",
-                "en": "Ensure your rental car is equipped with proper winter tires."
+                "en": "Ensure your rental car is equipped with proper winter tires.",
+                "sv": "Se till att hyrbilen har riktiga vinterdäck."
               }
             },
             {
@@ -1573,7 +1702,8 @@
                 "de": "Die Heizung in der Kirche ist im Winter meist angenehm.",
                 "hu": "A templom fűtése télen általában kellemes hőmérsékletet biztosít.",
                 "ro": "Încălzirea în biserică este de obicei plăcută pe timpul iernii.",
-                "en": "The heating inside the church is usually quite comfortable in winter."
+                "en": "The heating inside the church is usually quite comfortable in winter.",
+                "sv": "Uppvärmningen inne i kyrkan är vanligtvis ganska behaglig på vintern."
               }
             },
             {
@@ -1582,7 +1712,8 @@
                 "de": "Vorsicht beim Rangieren auf engen, möglicherweise vereisten Straßen.",
                 "hu": "Legyen óvatos a manőverezéssel a szűk, jeges utcákon.",
                 "ro": "Atenție la manevre pe străzile înguste și posibil înghețate.",
-                "en": "Be cautious when maneuvering on narrow, potentially icy streets."
+                "en": "Be cautious when maneuvering on narrow, potentially icy streets.",
+                "sv": "Var försiktig vid manövrering på smala, potentiellt isiga gator."
               }
             },
             {
@@ -1591,7 +1722,8 @@
                 "de": "Der Parkplatz kann bei Neuschnee schwer erkennbare Markierungen haben.",
                 "hu": "Friss hó esetén a parkolóban a felfestések nehezen láthatóak.",
                 "ro": "În caz de zăpadă proaspătă, marcajele din parcare pot fi greu de văzut.",
-                "en": "Parking lines may be hard to see after fresh snowfall."
+                "en": "Parking lines may be hard to see after fresh snowfall.",
+                "sv": "Parkeringslinjer kan vara svåra att se efter nysnö."
               }
             },
             {
@@ -1600,7 +1732,8 @@
                 "de": "Nutzen Sie die Parkzeit, um das Auto aufzuwärmen.",
                 "hu": "Használja ki a parkolási időt az autó előmelegítésére.",
                 "ro": "Profitați de timpul de parcare pentru a preîncălzi mașina.",
-                "en": "Use the parking time as an opportunity to pre-warm the vehicle."
+                "en": "Use the parking time as an opportunity to pre-warm the vehicle.",
+                "sv": "Använd parkeringstiden för att förvärma fordonet."
               }
             },
             {
@@ -1609,7 +1742,8 @@
                 "de": "Bei Glättegefahr wird die Geschwindigkeit auf der Brücke oft reduziert.",
                 "hu": "Csúszásveszély esetén a hídon gyakran korlátozzák a sebességet.",
                 "ro": "În caz de polei, viteza pe pod este adesea limitată.",
-                "en": "Speed limits on the bridge are often reduced during icy conditions."
+                "en": "Speed limits on the bridge are often reduced during icy conditions.",
+                "sv": "Hastighetsgränser på bron sänks ofta vid ishalka."
               }
             }
           ],
@@ -1641,6 +1775,13 @@
               "The Öland Bridge can be treacherous during side winds and icy conditions.",
               "Be aware that parking meters might malfunction in extreme cold.",
               "Always drive with your headlights on (mandatory in Sweden year-round)."
+            ],
+            "sv": [
+              "Ha alltid en isskrapa till hands i fordonet.",
+              "Kontrollera att spolarvätskan har frostskydd.",
+              "Ölandsbron kan vara förrädisk vid sidvind och ishalka.",
+              "Tänk på att parkeringsautomater kan fungera dåligt i extrem kyla.",
+              "Kör alltid med strålkastarna på (obligatoriskt i Sverige året runt)."
             ]
           }
         }
@@ -1659,7 +1800,8 @@
             "de": "Cluster A: Hauptbahnhof & Stortorget",
             "hu": "A klaszter: Főpályaudvar és Stortorget",
             "ro": "Cluster A: Gara Centrală și Stortorget",
-            "en": "Cluster A: Central Station & Stortorget"
+            "en": "Cluster A: Central Station & Stortorget",
+            "sv": "Klustret A: Centralstationen & Stortorget"
           },
           "coords": [
             16.3653,
@@ -1675,7 +1817,8 @@
             "de": "Vom Bahnhof sind es nur wenige Gehminuten zum Hauptplatz.",
             "hu": "A pályaudvartól csak néhány perc séta a főtér.",
             "ro": "De la gară, este doar o scurtă plimbare până la piața principală.",
-            "en": "From the station, it's just a short walk to the main square."
+            "en": "From the station, it's just a short walk to the main square.",
+            "sv": "Från stationen är det bara en kort promenad till huvudtorget."
           }
         },
         {
@@ -1683,7 +1826,8 @@
             "de": "Dom zu Kalmar",
             "hu": "Kalmari dóm",
             "ro": "Catedrala din Kalmar",
-            "en": "Kalmar Cathedral"
+            "en": "Kalmar Cathedral",
+            "sv": "Kalmar domkyrka"
           },
           "coords": [
             16.3661,
@@ -1699,7 +1843,8 @@
             "de": "Direkt am Platz gelegen, unübersehbar.",
             "hu": "Közvetlenül a téren található, nem lehet eltéveszteni.",
             "ro": "Situată chiar în piață, imposibil de ratat.",
-            "en": "Located right on the square, impossible to miss."
+            "en": "Located right on the square, impossible to miss.",
+            "sv": "Ligger mitt på torget, omöjlig att missa."
           }
         },
         {
@@ -1707,7 +1852,8 @@
             "de": "Kalmar Läns Museum",
             "hu": "Kalmar Läns Múzeum",
             "ro": "Muzeul Regional Kalmar",
-            "en": "Kalmar County Museum"
+            "en": "Kalmar County Museum",
+            "sv": "Kalmar läns museum"
           },
           "coords": [
             16.3688,
@@ -1723,7 +1869,8 @@
             "de": "Ein kurzer Spaziergang vom Dom entlang des Wassers.",
             "hu": "Egy rövid séta a dómtól a víz mentén.",
             "ro": "O scurtă plimbare de la catedrală de-a lungul apei.",
-            "en": "A short walk from the cathedral along the water."
+            "en": "A short walk from the cathedral along the water.",
+            "sv": "En kort promenad från domkyrkan längs vattnet."
           }
         },
         {
@@ -1731,7 +1878,8 @@
             "de": "Cluster B: Schloss Kalmar",
             "hu": "B klaszter: Kalmari vár",
             "ro": "Cluster B: Castelul Kalmar",
-            "en": "Cluster B: Kalmar Castle"
+            "en": "Cluster B: Kalmar Castle",
+            "sv": "Klustret B: Kalmar slott"
           },
           "coords": [
             16.356,
@@ -1747,7 +1895,8 @@
             "de": "Nehmen Sie einen Bus vom Zentrum zum Schloss, um Zeit und Energie zu sparen.",
             "hu": "Menjen busszal a központból a várhoz, hogy időt és energiát takarítson meg.",
             "ro": "Luați un autobuz din centru spre castel pentru a economisi timp și energie.",
-            "en": "Take a bus from the center to the castle to save time and energy."
+            "en": "Take a bus from the center to the castle to save time and energy.",
+            "sv": "Ta bussen från centrum till slottet för att spara tid och energi."
           }
         },
         {
@@ -1755,7 +1904,8 @@
             "de": "Kalmar Konstmuseum",
             "hu": "Kalmari Művészeti Múzeum",
             "ro": "Muzeul de Artă Kalmar",
-            "en": "Kalmar Art Museum"
+            "en": "Kalmar Art Museum",
+            "sv": "Kalmar konstmuseum"
           },
           "coords": [
             16.358,
@@ -1771,7 +1921,8 @@
             "de": "Das Museum befindet sich im selben Park wie das Schloss.",
             "hu": "A múzeum ugyanabban a parkban található, mint a vár.",
             "ro": "Muzeul este situat în același parc cu castelul.",
-            "en": "The museum is located in the same park as the castle."
+            "en": "The museum is located in the same park as the castle.",
+            "sv": "Muset ligger i samma park som slottet."
           }
         },
         {
@@ -1779,7 +1930,8 @@
             "de": "Cluster C: Gamla Stan",
             "hu": "C klaszter: Gamla Stan",
             "ro": "Cluster C: Gamla Stan",
-            "en": "Cluster C: Gamla Stan"
+            "en": "Cluster C: Gamla Stan",
+            "sv": "Klustret C: Gamla Stan"
           },
           "coords": [
             16.3725,
@@ -1795,7 +1947,8 @@
             "de": "Nehmen Sie einen Bus zurück in die Altstadt für einen abendlichen Spaziergang.",
             "hu": "Menjen busszal vissza az óvárosba egy esti sétára.",
             "ro": "Luați un autobuz înapoi în Orașul Vechi pentru o plimbare de seară.",
-            "en": "Take a bus back to the Old Town for an evening stroll."
+            "en": "Take a bus back to the Old Town for an evening stroll.",
+            "sv": "Ta bussen tillbaka till Gamla stan för en kvällspromenad."
           }
         }
       ],
@@ -1803,7 +1956,8 @@
         "de": "Ihre Tour beginnt im Herzen der Stadt, dem Stortorget, der vom Bahnhof aus leicht zu Fuß erreichbar ist. Nach der Erkundung der Kathedrale und des Läns Museums bringt Sie ein kurzer Bus Sie zum majestätischen Schloss-Cluster. Hier können Sie das Schloss und das benachbarte Kunstmuseum in Ruhe erkunden. Eine weitere Busfahrt bringt Sie zurück in die charmante Altstadt, wo Sie den Tag in den historischen Gassen ausklingen lassen können. Diese Methode kombiniert Spaziergänge mit effizienten Busfahrten.",
         "hu": "Túrája a város szívében, a Stortorgeten kezdődik, amely a vasútállomástól könnyen megközelíthető gyalog. A dóm és a Läns Múzeum felfedezése után egy rövid buszozás elviszi a fenséges vár-klaszterhez. Itt nyugodtan felfedezheti a várat és a szomszédos művészeti múzeumot. Egy újabb buszút visszaviszi a bájos óvárosba, ahol a történelmi sikátorokban fejezheti be a napot. Ez a módszer ötvözi a sétákat a hatékony buszozással.",
         "ro": "Turul dvs. începe în inima orașului, Stortorget, ușor accesibil pe jos de la gară. După explorarea catedralei și a Muzeului Regional, o scurtă călătorie cu autobuzul vă duce la clusterul maiestuos al castelului. Aici, puteți explora castelul și muzeul de artă adiacent în ritmul propriu. O altă călătorie cu autobuzul vă duce înapoi în fermecătorul Oraș Vechi, unde puteți încheia ziua pe aleile istorice. Această metodă combină plimbările cu călătoriile eficiente cu autobuzul.",
-        "en": "Your tour begins in the heart of the city, Stortorget, easily reachable on foot from the train station. After exploring the cathedral and the County Museum, a short bus ride takes you to the majestic castle cluster. Here, you can explore the castle and the adjacent art museum at your leisure. Another bus ride takes you back to the charming Old Town, where you can end the day in the historic alleys. This method combines walks with efficient bus journeys."
+        "en": "Your tour begins in the heart of the city, Stortorget, easily reachable on foot from the train station. After exploring the cathedral and the County Museum, a short bus ride takes you to the majestic castle cluster. Here, you can explore the castle and the adjacent art museum at your leisure. Another bus ride takes you back to the charming Old Town, where you can end the day in the historic alleys. This method combines walks with efficient bus journeys.",
+        "sv": "Din rundtur börjar i stadens hjärta, Stortorget, lätt nåbart till fots från tågstationen. Efter att ha utforskat domkyrkan och länsmuseet tar en kort busstur dig till det majestätiska slottsområdet. Här kan du i lugn och ro utforska slottet och intilliggande konstmuseum. Ytterligare en buss tar dig tillbaka till den charmiga Gamla stan, där du kan avsluta dagen i de historiska gränderna. Denna metod kombinerar promenader med effektiva bussturer."
       },
       "gastro_picks": {
         "de": [
@@ -1999,6 +2153,12 @@
           "Download the KLT app to track bus schedules and routes in real-time.",
           "Most buses are cashless, so make sure you have a card or an app ticket.",
           "Signal the driver when you want the bus to stop."
+        ],
+        "sv": [
+          "Köp ett 24-timmars kollektivtrafikkort för att spara pengar.",
+          "Ladda ner KLT-appen för att följa busstidtabeller och rutter i realtid.",
+          "De flesta bussar är kontantfria, så ha kort eller mobilbiljett redo.",
+          "Signalera för föraren när du vill att bussen ska stanna."
         ]
       },
       "variants": {
@@ -2007,7 +2167,8 @@
             "de": "Kalmars Busse sind bei Regen eine Rettung. Vom Hauptbahnhof erreichen wir schnell den Stortorget. Mittags bringt uns der Bus zum County Museum, das direkt an einer Haltestelle liegt. Das Schloss Kalmar ist nur einen kurzen Spaziergang von der Station entfernt. Nachmittags besuchen wir das Kunstmuseum und kehren im Trockenen zum Gamla Stan zurück.",
             "hu": "Kalmar buszai mentőövet jelentenek esőben. A főpályaudvartól gyorsan elérjük a Stortorgetet. Délben a busz közvetlenül a Megyei Múzeumnál tesz le minket. A Kalmar-kastély csak egy rövid séta a megállótól. Délután meglátogatjuk a Művészeti Múzeumot, majd szárazon térünk vissza a Gamla Stan környékére.",
             "ro": "Autobuzele din Kalmar sunt salvatoare pe ploaie. De la gara centrală ajungem rapid în Stortorget. La prânz, autobuzul ne lasă chiar lângă Muzeul Județean. Castelul Kalmar este la doar o scurtă plimbare de stație. După-amiaza vizităm Muzeul de Artă și revenim la adăpost spre zona Gamla Stan.",
-            "en": "Kalmar's buses are a lifesaver in the rain. From the central station, we quickly reach Stortorget. At noon, the bus drops us right at the County Museum. Kalmar Castle is just a short walk from the nearest stop. In the afternoon, we visit the Art Museum and return dry to the Gamla Stan area."
+            "en": "Kalmar's buses are a lifesaver in the rain. From the central station, we quickly reach Stortorget. At noon, the bus drops us right at the County Museum. Kalmar Castle is just a short walk from the nearest stop. In the afternoon, we visit the Art Museum and return dry to the Gamla Stan area.",
+            "sv": "Kalmars bussar är räddningen i regn. Från centralstationen når vi snabbt Stortorget. Mitt på dagen stannar bussen oss precis vid länsmuseet. Kalmar slott ligger en kort promenad från närmaste hållplats. På eftermiddagen besöker vi konstmuseet och återvänder torra till Gamla stan."
           },
           "stops": [
             {
@@ -2016,7 +2177,8 @@
                 "de": "Warten Sie im Bahnhofsgebäude, bis der Bus angezeigt wird.",
                 "hu": "Várjon az állomás épületében, amíg a busz kijelzője nem jelzi az indulást.",
                 "ro": "Așteptați în clădirea gării până când este afișată plecarea autobuzului.",
-                "en": "Wait inside the station building until your bus is shown on the display."
+                "en": "Wait inside the station building until your bus is shown on the display.",
+                "sv": "Vänta inne i stationsbyggnaden tills din buss visas på skärmen."
               }
             },
             {
@@ -2025,7 +2187,8 @@
                 "de": "Nahegelegene Bushaltestellen bieten Unterstände gegen den Regen.",
                 "hu": "A közeli buszmegállók fedettek, védelmet nyújtanak az eső ellen.",
                 "ro": "Stațiile de autobuz din apropiere au adăposturi împotriva ploii.",
-                "en": "Nearby bus stops are covered, providing shelter from the rain."
+                "en": "Nearby bus stops are covered, providing shelter from the rain.",
+                "sv": "Närliggande busshållplatser är täckta och ger skydd mot regn."
               }
             },
             {
@@ -2034,7 +2197,8 @@
                 "de": "Die Haltestelle 'Kalmar läns museum' liegt direkt vor dem Eingang.",
                 "hu": "A 'Kalmar läns museum' megálló közvetlenül a bejárat előtt található.",
                 "ro": "Stația 'Kalmar läns museum' este situată chiar în fața intrării.",
-                "en": "The 'Kalmar läns museum' stop is located right in front of the entrance."
+                "en": "The 'Kalmar läns museum' stop is located right in front of the entrance.",
+                "sv": "Hållplatsen 'Kalmar läns museum' ligger precis framför entrén."
               }
             },
             {
@@ -2043,7 +2207,8 @@
                 "de": "Nutzen Sie den Bus bis zur Haltestelle 'Slottet' für den kürzesten Weg.",
                 "hu": "Használja a buszt a 'Slottet' megállóig a legrövidebb gyalogútért.",
                 "ro": "Folosiți autobuzul până la stația 'Slottet' pentru cel mai scurt drum.",
-                "en": "Take the bus to the 'Slottet' stop for the shortest walk to the castle."
+                "en": "Take the bus to the 'Slottet' stop for the shortest walk to the castle.",
+                "sv": "Ta bussen till hållplatsen 'Slottet' för kortast promenad till slottet."
               }
             },
             {
@@ -2052,7 +2217,8 @@
                 "de": "Die Haltestelle am Stadtpark hat einen überdachten Wartebereich.",
                 "hu": "A városi parknál lévő megállónak fedett várakozóhelye van.",
                 "ro": "Stația de lângă parcul orașului are o zonă de așteptare acoperită.",
-                "en": "The stop by the city park features a covered waiting area."
+                "en": "The stop by the city park features a covered waiting area.",
+                "sv": "Hållplatsen vid stadsparken har ett täckt väntrum."
               }
             },
             {
@@ -2061,7 +2227,8 @@
                 "de": "Mehrere Linien verkehren zwischen der Altstadt und dem Zentrum.",
                 "hu": "Számos járat közlekedik az óváros és a központ között.",
                 "ro": "Mai multe linii circulă între centrul vechi și centru.",
-                "en": "Multiple bus lines run frequently between the old town and the center."
+                "en": "Multiple bus lines run frequently between the old town and the center.",
+                "sv": "Flera busslinjer trafikerar ofta mellan Gamla stan och centrum."
               }
             }
           ],
@@ -2093,6 +2260,13 @@
               "Use real-time arrival info at stops to minimize time spent waiting in the rain.",
               "Please do not place wet umbrellas or bags on the bus seats.",
               "Major transit hubs in Kalmar feature large, dry indoor waiting areas."
+            ],
+            "sv": [
+              "Köp biljetter i förväg via appen 'Kalmar länstrafik'.",
+              "Bussarna är väl uppvärmda och bekväma under vintermånaderna.",
+              "Använd realtidsinformation vid hållplatser för att minimera väntetid i regn.",
+              "Vänligen placera inte blöta paraplyer eller väskor på bussens säten.",
+              "Stora knutpunkter i Kalmar har stora, torra inomhusväntrum."
             ]
           }
         },
@@ -2101,7 +2275,8 @@
             "de": "Winterreisen mit dem Bus sind in Kalmar sehr gemütlich. Wir starten am Bahnhof und schlendern zum beleuchteten Stortorget. Mittags bringt uns der Bus direkt zum County Museum. Das Schloss Kalmar besuchen wir am frühen Nachmittag, bevor wir uns im Kunstmuseum aufwärmen. Den Tag beenden wir in der stimmungsvollen Altstadt, bevor der letzte Bus uns zurückbringt.",
             "hu": "A buszos téli utazás Kalmarban nagyon barátságos. Az állomástól indulunk a kivilágított Stortorget felé. Délben a busz közvetlenül a Megyei Múzeumhoz visz minket. A Kalmar-kastélyt kora délután látogatjuk meg, majd a Művészeti Múzeumban melegszünk fel. A napot a hangulatos óvárosban zárjuk, mielőtt az utolsó busz visszavisz.",
             "ro": "Călătoria cu autobuzul iarna în Kalmar este foarte confortabilă. Pornim de la gară spre Stortorget luminat. La prânz, autobuzul ne duce direct la Muzeul Județean. Vizităm Castelul Kalmar devreme după-amiaza, apoi ne încălzim la Muzeul de Artă. Încheiem ziua în centrul vechi atmosferic înainte de ultimul autobuz.",
-            "en": "Winter transit travel in Kalmar is very cozy. We start at the station and stroll to the illuminated Stortorget. At noon, the bus takes us directly to the County Museum. We visit Kalmar Castle in the early afternoon before warming up at the Art Museum. We end the day in the atmospheric old town before the last bus back."
+            "en": "Winter transit travel in Kalmar is very cozy. We start at the station and stroll to the illuminated Stortorget. At noon, the bus takes us directly to the County Museum. We visit Kalmar Castle in the early afternoon before warming up at the Art Museum. We end the day in the atmospheric old town before the last bus back.",
+            "sv": "Vinterresor med kollektivtrafik i Kalmar är mycket mysiga. Vi börjar vid stationen och promenerar till det upplysta Stortorget. Mitt på dagen tar bussen oss direkt till länsmuseet. Vi besöker Kalmar slott tidigt på eftermiddagen innan vi värmer oss på konstmuseet. Vi avslutar dagen i den stämningsfulla gamla stan innan sista bussen tillbaka."
           },
           "stops": [
             {
@@ -2110,7 +2285,8 @@
                 "de": "Der Bahnhof bietet Schließfächer für schwere Winterausrüstung.",
                 "hu": "Az állomáson találhatók csomagmegőrzők a nehéz téli felszereléseknek.",
                 "ro": "Gara oferă dulapuri pentru depozitarea echipamentului greu de iarnă.",
-                "en": "The station provides lockers for storing heavy winter gear."
+                "en": "The station provides lockers for storing heavy winter gear.",
+                "sv": "Stationen erbjuder förvaringsskåp för tung vinterutrustning."
               }
             },
             {
@@ -2119,7 +2295,8 @@
                 "de": "Der Platz ist im Winter oft schneefrei geräumt.",
                 "hu": "A teret télen gyakran letakarítják a hótól.",
                 "ro": "Piața este de obicei curățată de zăpadă în timpul iernii.",
-                "en": "The square is usually well-cleared of snow during winter."
+                "en": "The square is usually well-cleared of snow during winter.",
+                "sv": "Torget plogas vanligtvis väl under vintern."
               }
             },
             {
@@ -2128,7 +2305,8 @@
                 "de": "Die Busse fahren im Winter pünktlich, sofern kein extremer Schneefall herrscht.",
                 "hu": "A buszok télen is pontosak, kivéve extrém hóesés esetén.",
                 "ro": "Autobuzele sunt punctuale iarna, cu excepția ninsorilor extreme.",
-                "en": "Buses remain punctual in winter unless there is extreme snowfall."
+                "en": "Buses remain punctual in winter unless there is extreme snowfall.",
+                "sv": "Bussarna håller tidtabellen på vintern om det inte är extrem snöfall."
               }
             },
             {
@@ -2137,7 +2315,8 @@
                 "de": "Achten Sie auf die kürzeren Öffnungszeiten im Winter.",
                 "hu": "Ügyeljen a téli időszakban rövidebb nyitvatartási időre.",
                 "ro": "Atenție la programul de funcționare mai scurt în timpul iernii.",
-                "en": "Be mindful of the shorter opening hours during the winter season."
+                "en": "Be mindful of the shorter opening hours during the winter season.",
+                "sv": "Tänk på kortare öppettider under vintersäsongen."
               }
             },
             {
@@ -2146,7 +2325,8 @@
                 "de": "Vom Busstopp zum Museum sind es nur wenige Schritte durch den Schnee.",
                 "hu": "A buszmegállótól csak pár lépés a múzeum a havon keresztül.",
                 "ro": "De la stația de autobuz sunt doar câțiva pași prin zăpadă până la muzeu.",
-                "en": "It is only a few steps through the snow from the bus stop to the museum."
+                "en": "It is only a few steps through the snow from the bus stop to the museum.",
+                "sv": "Det är bara några steg genom snön från hållplatsen till museet."
               }
             },
             {
@@ -2155,7 +2335,8 @@
                 "de": "Die Busfrequenz kann am späten Winterabend abnehmen.",
                 "hu": "A buszok gyakorisága késő téli esténként csökkenhet.",
                 "ro": "Frecvența autobuzelor poate scădea în serile târzii de iarnă.",
-                "en": "Bus frequency may decrease during late winter evenings."
+                "en": "Bus frequency may decrease during late winter evenings.",
+                "sv": "Bussturer kan bli glesare under sena vinterkvällar."
               }
             }
           ],
@@ -2187,6 +2368,13 @@
               "The transit app will flag any delays caused by snow removal operations.",
               "Look for well-lit bus shelters for better visibility and safety in the dark.",
               "A day pass is worth it if you plan on frequent hops between attractions."
+            ],
+            "sv": [
+              "Bär skor med bra grepp för promenader till och från hållplatserna.",
+              "Bussar är ofta det säkraste resealternativet när vägarna är isiga.",
+              "Kollektivtrafikappen flaggar eventuella förseningar orsakade av snöröjning.",
+              "Sök efter välbelysta busskurer för bättre sikt och säkerhet i mörkret.",
+              "En dagspass lönar sig om du planerar många turer mellan sevärdheterna."
             ]
           }
         }

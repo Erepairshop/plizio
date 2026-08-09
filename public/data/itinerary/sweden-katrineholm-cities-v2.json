@@ -21,7 +21,8 @@
             "de": "Bahnhof Katrineholm",
             "hu": "Katrineholmi vasútállomás",
             "ro": "Gara Katrineholm",
-            "en": "Katrineholm Railway Station"
+            "en": "Katrineholm Railway Station",
+            "sv": "Katrineholm järnvägsstation"
           },
           "coords": [
             16.203,
@@ -37,7 +38,8 @@
             "de": "Beachten Sie die klassische schwedische Bahnhofsarchitektur.",
             "hu": "Figyelje meg a klasszikus svéd vasútállomás-építészetet!",
             "ro": "Observați arhitectura clasică a gării suedeze.",
-            "en": "Note the classic Swedish station architecture."
+            "en": "Note the classic Swedish station architecture.",
+            "sv": "Notera den klassiska svenska stationsarkitekturen."
           }
         },
         {
@@ -45,7 +47,8 @@
             "de": "Lokstallarna",
             "hu": "Lokstallarna (Régi Mozdonyszín)",
             "ro": "Lokstallarna (Vechile Depouri)",
-            "en": "Lokstallarna (The Old Engine Sheds)"
+            "en": "Lokstallarna (The Old Engine Sheds)",
+            "sv": "Lokstallarna"
           },
           "coords": [
             16.2,
@@ -61,7 +64,8 @@
             "de": "Heute ein Kulturzentrum, prüfen Sie das Veranstaltungsprogramm.",
             "hu": "Ma kulturális központ, érdemes megnézni a programajánlatot.",
             "ro": "Astăzi este un centru cultural; verificați programul evenimentelor.",
-            "en": "Now a cultural center, check for any ongoing events."
+            "en": "Now a cultural center, check for any ongoing events.",
+            "sv": "Numera ett kulturcentrum, kolla efter pågående evenemang."
           }
         },
         {
@@ -69,7 +73,8 @@
             "de": "Kulturhaus Safiren",
             "hu": "Safiren Kultúrház",
             "ro": "Casa de Cultură Safiren",
-            "en": "Safiren Culture House"
+            "en": "Safiren Culture House",
+            "sv": "Safiren kulturhus"
           },
           "coords": [
             16.207,
@@ -85,7 +90,8 @@
             "de": "Ein lokaler Treffpunkt mit Kino und Bibliothek.",
             "hu": "Helyi találkozóhely mozival és könyvtárral.",
             "ro": "Un punct de întâlnire local cu cinema și bibliotecă.",
-            "en": "A local hub with a cinema and library."
+            "en": "A local hub with a cinema and library.",
+            "sv": "En lokal mötesplats med bio och bibliotek."
           }
         },
         {
@@ -93,7 +99,8 @@
             "de": "Kirche Sankt Eskil",
             "hu": "Szent Eskil-templom",
             "ro": "Biserica Sfântul Eskil",
-            "en": "Saint Eskil's Church"
+            "en": "Saint Eskil's Church",
+            "sv": "Sankt Eskils kyrka"
           },
           "coords": [
             16.205,
@@ -109,7 +116,8 @@
             "de": "Genießen Sie die Ruhe in diesem modernen Kirchengebäude.",
             "hu": "Élvezze a csendet ebben a modern templomépületben.",
             "ro": "Bucurați-vă de liniștea din această clădire modernă a bisericii.",
-            "en": "Enjoy the tranquility inside this modern church building."
+            "en": "Enjoy the tranquility inside this modern church building.",
+            "sv": "Njut av stillheten inne i denna moderna kyrkobyggnad."
           }
         },
         {
@@ -117,7 +125,8 @@
             "de": "Stadsparken",
             "hu": "Stadsparken (Városi Park)",
             "ro": "Stadsparken (Parcul Orașului)",
-            "en": "Stadsparken (City Park)"
+            "en": "Stadsparken (City Park)",
+            "sv": "Stadsparken"
           },
           "coords": [
             16.209,
@@ -133,7 +142,8 @@
             "de": "Perfekt für ein Mittagspicknick oder eine Kaffeepause (Fika).",
             "hu": "Tökéletes egy déli piknikhez vagy egy kávészünethez (fika).",
             "ro": "Perfect pentru un picnic la prânz sau o pauză de cafea (fika).",
-            "en": "Perfect for a lunch picnic or a coffee break (fika)."
+            "en": "Perfect for a lunch picnic or a coffee break (fika).",
+            "sv": "Perfekt för en lunchpicknick eller en fikapaus."
           }
         },
         {
@@ -141,7 +151,8 @@
             "de": "Katrineholms Konsthall",
             "hu": "Katrineholmi Művészeti Galéria",
             "ro": "Galeria de Artă Katrineholm",
-            "en": "Katrineholm Art Gallery"
+            "en": "Katrineholm Art Gallery",
+            "sv": "Katrineholms konsthall"
           },
           "coords": [
             16.2085,
@@ -157,7 +168,8 @@
             "de": "Fokus auf schwedische Gegenwartskunst.",
             "hu": "A fókusz a kortárs svéd művészeten van.",
             "ro": "Accent pe arta contemporană suedeză.",
-            "en": "Focuses on contemporary Swedish art."
+            "en": "Focuses on contemporary Swedish art.",
+            "sv": "Fokuserar på samtida svensk konst."
           }
         }
       ],
@@ -165,7 +177,8 @@
         "de": "Beginnen Sie Ihren Tag am historischen Bahnhof, einem Symbol der industriellen Wurzeln der Stadt. Am Vormittag erkunden Sie die kulturellen Zentren Lokstallarna und Safiren. Nach dem Mittagessen tauchen Sie in die Stille der St. Eskil-Kirche ein, bevor Sie einen entspannten Nachmittag im weitläufigen Stadsparken verbringen. Der Tag endet mit einem Besuch in der Kunstgalerie, die einen Einblick in die moderne schwedische Kunstszene bietet.",
         "hu": "Kezdje a napot a történelmi vasútállomásnál, a város ipari gyökereinek szimbólumánál. A délelőttöt a Lokstallarna és a Safiren kulturális központok felfedezésével töltse. Ebéd után merüljön el a Szent Eskil-templom csendjében, mielőtt egy pihentető délutánt tölt a tágas Stadsparkenben. A napot a művészeti galéria meglátogatásával zárja, amely betekintést nyújt a modern svéd művészeti életbe.",
         "ro": "Începeți ziua la gara istorică, un simbol al rădăcinilor industriale ale orașului. Dimineața, explorați centrele culturale Lokstallarna și Safiren. După prânz, cufundați-vă în liniștea Bisericii Sf. Eskil înainte de a petrece o după-amiază relaxantă în vastul Stadsparken. Ziua se încheie cu o vizită la galeria de artă, oferind o perspectivă asupra scenei artistice suedeze moderne.",
-        "en": "Start your day at the historic railway station, a symbol of the city's industrial roots. In the morning, explore the cultural hubs of Lokstallarna and Safiren. After lunch, immerse yourself in the quiet of St. Eskil's Church before spending a relaxing afternoon in the expansive Stadsparken. The day concludes with a visit to the art gallery, offering a glimpse into the modern Swedish art scene."
+        "en": "Start your day at the historic railway station, a symbol of the city's industrial roots. In the morning, explore the cultural hubs of Lokstallarna and Safiren. After lunch, immerse yourself in the quiet of St. Eskil's Church before spending a relaxing afternoon in the expansive Stadsparken. The day concludes with a visit to the art gallery, offering a glimpse into the modern Swedish art scene.",
+        "sv": "Börja dagen vid den historiska järnvägsstationen, en symbol för stadens industriella rötter. På morgonen utforskar du kulturnav som Lokstallarna och Safiren. Efter lunch kan du sjunka in i tystnaden i Sankt Eskils kyrka innan du tillbringar en avkopplande eftermiddag i den rymliga Stadsparken. Dagen avslutas med ett besök på konsthallen, som ger en inblick i den moderna svenska konstscenen."
       },
       "gastro_picks": {
         "de": [
@@ -325,6 +338,12 @@
           "Check the opening hours for the art gallery in advance.",
           "An umbrella is always a good idea in Sweden.",
           "Enjoy a traditional fika in the afternoon."
+        ],
+        "sv": [
+          "Ha bekväma skor då du kommer att promenera hela dagen.",
+          "Kontrollera öppettiderna för konsthallen i förväg.",
+          "Ett paraply är alltid en bra idé i Sverige.",
+          "Njut av en traditionell fika på eftermiddagen."
         ]
       },
       "variants": {
@@ -333,7 +352,8 @@
             "de": "Der Tag beginnt am geschützten Bahnhof von Katrineholm, wo man die Architektur unter den Bahnsteigdächern bewundern kann. Ein kurzer Sprint durch den Regen führt zu den alten Lokschuppen, deren raue Ziegeloptik bei grauem Himmel besonders authentisch wirkt.\n\nMittags bietet das Safiren Kulturhaus den perfekten Zufluchtsort. Hier kann man zwischen Bibliothek und Kino verweilen, während die Tropfen gegen die großen Glasfronten peitschen.\n\nAm Nachmittag bietet die Eskils-Kirche eine ruhige, trockene Atmosphäre für Besinnung. Ein zügiger Gang durch den Stadsparken führt zum Pavillon, der Schutz vor Schauern bietet.\n\nDer Tag endet in der Kunstgalerie von Katrineholm. Die hellen Ausstellungsräume lassen das trübe Wetter draußen vergessen und bieten einen inspirierenden Abschluss im Warmen.",
             "hu": "A nap a védett katrineholmi vasútállomáson indul, ahol a peronok tetői alatt is megcsodálható az építészet. Egy gyors séta az esőben a régi fűtőházakhoz vezet, melyek vöröstéglás fala a szürke égbolt alatt mutatja meg igazi ipari karakterét.\n\nDélben a Safiren Kulturális Központ kínál menedéket. A tágas belső terekben könyvtár és kávézó vár, miközben az eső a hatalmas üvegfalakon kopog.\n\nDélután a Szent Eskil-templom csendes, száraz menedéket nyújt. A Városligeten keresztülvágva a pavilonok alatt pihenhetünk meg, mielőtt továbbindulnánk.\n\nAz estet a Katrineholmi Művészeti Galéria tárlatai zárják. A jól megvilágított termek elfeledtetik a kinti borút, és tartalmas, száraz zárást adnak a városnézésnek.",
             "ro": "Ziua începe la gara protejată din Katrineholm, unde arhitectura poate fi admirată sub copertinele peroanelor. O scurtă plimbare prin ploaie duce la vechile depouri de locomotive, ale căror cărămizi roșii par mai intense sub cerul gri.\n\nLa prânz, Casa de Cultură Safiren oferă refugiul perfect. Aici puteți zăbovi între bibliotecă și cafenea, în timp ce picăturile lovesc geamurile mari.\n\nDupă-amiaza, Biserica Sf. Eskil oferă o atmosferă liniștită și uscată. O traversare rapidă prin Stadsparken vă duce la pavilionul care oferă adăpost temporar.\n\nZiua se încheie la Galeria de Artă din Katrineholm. Sălile de expoziție luminoase vă fac să uitați de vremea mohorâtă de afară, oferind un final cald și inspirat.",
-            "en": "The day starts at the sheltered Katrineholm Station, where the historical architecture can be admired under the platform roofs. A short walk through the rain leads to the old engine sheds, whose brickwork looks particularly industrial under gray skies.\n\nAt noon, the Safiren Culture House provides the perfect sanctuary. You can linger in the library or cafe while rain beats against the expansive glass fronts.\n\nIn the afternoon, Saint Eskil's Church offers a quiet, dry atmosphere for reflection. A brisk walk through the City Park leads to pavilions that offer shelter from the showers.\n\nThe day ends at the Katrineholm Art Gallery. The well-lit exhibition rooms make you forget the gloomy weather outside, providing a warm and inspiring conclusion."
+            "en": "The day starts at the sheltered Katrineholm Station, where the historical architecture can be admired under the platform roofs. A short walk through the rain leads to the old engine sheds, whose brickwork looks particularly industrial under gray skies.\n\nAt noon, the Safiren Culture House provides the perfect sanctuary. You can linger in the library or cafe while rain beats against the expansive glass fronts.\n\nIn the afternoon, Saint Eskil's Church offers a quiet, dry atmosphere for reflection. A brisk walk through the City Park leads to pavilions that offer shelter from the showers.\n\nThe day ends at the Katrineholm Art Gallery. The well-lit exhibition rooms make you forget the gloomy weather outside, providing a warm and inspiring conclusion.",
+            "sv": "Dagen börjar vid skyddade Katrineholm Station, där den historiska arkitekturen kan beundras under perrongtaket. En kort promenad i regnet leder till de gamla lokstallarna vars tegelväggar ser särskilt industriella ut under grå himmel.\n\nVid middagstid erbjuder Safiren kulturhus det perfekta skyddet. Du kan dröja kvar i biblioteket eller kaféet medan regnet slår mot de stora glasrutorna.\n\nPå eftermiddagen ger Sankt Eskils kyrka en lugn, torr atmosfär för eftertanke. En rask promenad genom Stadsparken leder till paviljonger som ger skydd från skurarna.\n\nDagen avslutas på Katrineholms konsthall. De välupplysta utställningssalarna får dig att glömma det dystra vädret utanför och erbjuder en varm och inspirerande avslutning."
           },
           "stops": [
             {
@@ -342,7 +362,8 @@
                 "de": "Nutzen Sie die Unterführung, um trocken zwischen den Gleisen zu wechseln.",
                 "hu": "Használja az aluljárót, hogy szárazon közlekedjen a vágányok között.",
                 "ro": "Folosiți pasajul subteran pentru a vă deplasa uscat între peron.",
-                "en": "Use the underground passage to move between tracks while staying dry."
+                "en": "Use the underground passage to move between tracks while staying dry.",
+                "sv": "Använd undergången för att byta spår och hålla dig torr."
               }
             },
             {
@@ -351,7 +372,8 @@
                 "de": "Die Backsteinwände bieten Windschutz auf der windabgewandten Seite.",
                 "hu": "A téglafalak szélvédelmet nyújtanak a széllel ellentétes oldalon.",
                 "ro": "Zidurile de cărămidă oferă protecție împotriva vântului pe partea ferită.",
-                "en": "The brick walls provide wind protection on the leeward side."
+                "en": "The brick walls provide wind protection on the leeward side.",
+                "sv": "Tegelväggarna ger vindskydd på läsidan."
               }
             },
             {
@@ -360,7 +382,8 @@
                 "de": "Garderoben im Eingangsbereich sind ideal für nasse Mäntel.",
                 "hu": "A bejáratnál található ruhatár ideális a vizes kabátoknak.",
                 "ro": "Garderoba de la intrare este ideală pentru hainele ude.",
-                "en": "Wardrobes at the entrance are ideal for wet coats."
+                "en": "Wardrobes at the entrance are ideal for wet coats.",
+                "sv": "Garderober vid entrén är idealiska för blöta rockar."
               }
             },
             {
@@ -369,7 +392,8 @@
                 "de": "Hinterlassen Sie nasse Schirme bitte im Ständer im Vorraum.",
                 "hu": "A vizes esernyőket hagyja az előtérben lévő tartóban.",
                 "ro": "Vă rugăm să lăsați umbrelele ude în suportul din vestibul.",
-                "en": "Please leave wet umbrellas in the stand in the vestibule."
+                "en": "Please leave wet umbrellas in the stand in the vestibule.",
+                "sv": "Lämna gärna blöta paraplyer i stället i vestibulen."
               }
             },
             {
@@ -378,7 +402,8 @@
                 "de": "Feste Wege nutzen; die Rasenflächen sind bei Regen sehr weich.",
                 "hu": "Használja a kiépített utakat; a fű esőben nagyon felázik.",
                 "ro": "Folosiți potecile pavate; peluzele devin foarte moi la ploaie.",
-                "en": "Stick to the paved paths; the lawns get very soft in the rain."
+                "en": "Stick to the paved paths; the lawns get very soft in the rain.",
+                "sv": "Håll dig till de asfalterade stigarna; gräsmattorna blir mycket mjuka i regnet."
               }
             },
             {
@@ -387,7 +412,8 @@
                 "de": "Perfekter Ort, um den Regen bei Kunst gemütlich auszusitzen.",
                 "hu": "Tökéletes hely, hogy a művészetek közt várjuk meg az eső végét.",
                 "ro": "Locul perfect pentru a aștepta oprirea ploii printre opere de artă.",
-                "en": "Perfect place to wait out the rain while enjoying art indoors."
+                "en": "Perfect place to wait out the rain while enjoying art indoors.",
+                "sv": "Perfekt plats att vänta ut regnet samtidigt som du njuter av konst inomhus."
               }
             }
           ],
@@ -415,6 +441,12 @@
               "The station tunnel is a good shortcut to stay dry while navigating.",
               "Public buildings like Safiren have spacious lobby areas for waiting.",
               "Rain jackets are often more effective than umbrellas in the gusty Södermanland wind."
+            ],
+            "sv": [
+              "Bär vattentäta skor då Katrineholms trottoarer kan bilda pölar.",
+              "Stationsrummet är en bra genväg för att hålla sig torr under förflyttning.",
+              "Offentliga byggnader som Safiren har rymliga foajéer för väntan.",
+              "Regnjackor är ofta mer effektiva än paraplyer i de byiga Södermanlandsvindarna."
             ]
           }
         },
@@ -423,7 +455,8 @@
             "de": "Die frostige Morgenluft am Bahnhof Katrineholm weckt die Lebensgeister. Der Dampf der Züge mischt sich mit dem Winterschleier, während man zu den schneebedeckten Lokschuppen wandert, die wie aus einer anderen Zeit wirken.\n\nMittags bietet das Safiren Kulturhaus wohlige Wärme. Hinter den Scheiben beobachtet man das winterliche Treiben im Zentrum bei einem heißen Getränk.\n\nNachmittags taucht die Eskils-Kirche mit ihrer sanften Beleuchtung die Umgebung in eine andächtige Stimmung. Der Stadsparken verwandelt sich in eine weiße Märchenwelt, wobei der zugefrorene Teich das Licht der tiefstehenden Sonne reflektiert.\n\nNoch vor dem frühen Sonnenuntergang gegen 15:30 Uhr bietet die Kunstgalerie einen gemütlichen Rückzugsort. Die Ausstellungen bilden einen farbenfrohen Kontrast zur monochromen Winterlandschaft draußen.",
             "hu": "A fagyos reggeli levegő a vasútállomáson azonnal felébreszti az utazót. A vonatok gőze keveredik a téli párával, miközben a hófödte fűtőházak felé vesszük az irányt, melyek ilyenkor egy letűnt kort idéznek.\n\nDélben a Safiren Kulturális Központ belső melege vár. Az üvegek mögül, egy forró ital mellől figyelhetjük a városi központ téli forgatagát.\n\nDélután a Szent Eskil-templom lágy fényei ünnepi hangulatot árasztanak. A Városliget fehér mesevilággá változik, a befagyott tó pedig visszaveri az alacsonyan járó nap sugarait.\n\nA korai, fél 4 körüli naplemente előtt a Művészeti Galéria nyújt menedéket. A tárlatok színes kontrasztot alkotnak a kinti monokróm téli tájjal.",
             "ro": "Aerul înghețat al dimineții la gara Katrineholm trezește simțurile. Aburul trenurilor se amestecă cu ceața iernii în timp ce mergeți spre depourile acoperite de zăpadă, care par din altă epocă.\n\nLa prânz, Casa de Cultură Safiren oferă o căldură primitoare. Din spatele geamurilor puteți observa forfota iernatică a centrului cu o băutură caldă în mână.\n\nDupă-amiaza, Biserica Sf. Eskil, cu iluminarea sa blândă, creează o atmosferă liniștită. Stadsparken se transformă într-o lume albă de basm, cu lacul înghețat reflectând soarele care apune.\n\nÎnainte de apusul timpuriu de la ora 15:30, Galeria de Artă oferă un refugiu confortabil. Expozițiile formează un contrast colorat cu peisajul de iarnă monocrom de afară.",
-            "en": "The frosty morning air at Katrineholm Station is invigorating. Steam from the trains mixes with the winter mist as you head towards the snow-covered engine sheds, which look like they belong to another era.\n\nAt noon, the Safiren Culture House offers welcoming warmth. From behind the windows, you can watch the winter activity of the center with a hot drink in hand.\n\nIn the afternoon, Saint Eskil's Church, with its soft lighting, creates a reverent atmosphere. The City Park transforms into a white fairy-tale world, with the frozen pond reflecting the low winter sun.\n\nBefore the early sunset around 15:30, the Art Gallery provides a cozy retreat. The exhibitions form a colorful contrast to the monochrome winter landscape outside."
+            "en": "The frosty morning air at Katrineholm Station is invigorating. Steam from the trains mixes with the winter mist as you head towards the snow-covered engine sheds, which look like they belong to another era.\n\nAt noon, the Safiren Culture House offers welcoming warmth. From behind the windows, you can watch the winter activity of the center with a hot drink in hand.\n\nIn the afternoon, Saint Eskil's Church, with its soft lighting, creates a reverent atmosphere. The City Park transforms into a white fairy-tale world, with the frozen pond reflecting the low winter sun.\n\nBefore the early sunset around 15:30, the Art Gallery provides a cozy retreat. The exhibitions form a colorful contrast to the monochrome winter landscape outside.",
+            "sv": "Den frostiga morgonluften vid Katrineholm Station är uppiggande. Ånga från tågen blandas med vinterdimman när du går mot de snötyngda lokstallarna som ser ut att höra hemma i en annan tid.\n\nVid middagstid erbjuder Safiren kulturhus välkommen värme. Bakom fönstren kan du följa centrumlivet med en varm dryck i handen.\n\nPå eftermiddagen skapar Sankt Eskils kyrka med sitt mjuka ljus en vördnadsfull stämning. Stadsparken förvandlas till en vit sagovärld där den frusna dammen speglar den låga vintersolen.\n\nInnan den tidiga solnedgången vid cirka 15:30 ger konsthallen en mysig tillflykt. Utställningarna bildar en färgstark kontrast mot det monokroma vinterlandskapet utanför."
           },
           "stops": [
             {
@@ -432,7 +465,8 @@
                 "de": "Der Wartesaal im historischen Gebäude ist beheizt und windgeschützt.",
                 "hu": "A történelmi épület váróterme fűtött és szélvédett.",
                 "ro": "Sala de așteptare din clădirea istorică este încălzită și ferită de vânt.",
-                "en": "The waiting room in the historical building is heated and wind-sheltered."
+                "en": "The waiting room in the historical building is heated and wind-sheltered.",
+                "sv": "Väntrummet i den historiska byggnaden är uppvärmt och vindskyddat."
               }
             },
             {
@@ -441,7 +475,8 @@
                 "de": "Vorsicht vor Eiszapfen an den Dachrinnen der alten Schuppen.",
                 "hu": "Vigyázzon az ereszekről lelógó jégcsapokra a régi épületeknél.",
                 "ro": "Atenție la țurțurii de pe streșinile vechilor depouri.",
-                "en": "Watch out for icicles on the gutters of the old sheds."
+                "en": "Watch out for icicles on the gutters of the old sheds.",
+                "sv": "Se upp för istappar på takrännorna vid de gamla stallarna."
               }
             },
             {
@@ -450,7 +485,8 @@
                 "de": "Ein idealer Ort für eine 'Fika'-Pause zum Aufwärmen.",
                 "hu": "Ideális hely egy melengető 'fika' (kávé-süti) szünetre.",
                 "ro": "Un loc ideal pentru o pauză 'fika' ca să vă încălziți.",
-                "en": "An ideal place for a 'fika' break to warm up indoors."
+                "en": "An ideal place for a 'fika' break to warm up indoors.",
+                "sv": "En idealisk plats för en fika för att värma upp inomhus."
               }
             },
             {
@@ -459,7 +495,8 @@
                 "de": "Im Inneren herrscht oft eine angenehme, andächtige Wärme.",
                 "hu": "A belső térben gyakran kellemes, áhítatos meleg fogadja.",
                 "ro": "În interior domnește adesea o căldură plăcută și liniștită.",
-                "en": "Inside, there is often a pleasant, reverent warmth."
+                "en": "Inside, there is often a pleasant, reverent warmth.",
+                "sv": "Inomhus är det ofta behagligt och varmt."
               }
             },
             {
@@ -468,7 +505,8 @@
                 "de": "Die Wege werden geräumt, können aber bei Frost glatt sein.",
                 "hu": "Az utakat takarítják, de fagy esetén csúszósak lehetnek.",
                 "ro": "Potecile sunt curățate, dar pot fi alunecoase în caz de îngheț.",
-                "en": "Paths are cleared but can be slippery during freezing temperatures."
+                "en": "Paths are cleared but can be slippery during freezing temperatures.",
+                "sv": "Vägarna är plogade men kan vara hala vid minusgrader."
               }
             },
             {
@@ -477,7 +515,8 @@
                 "de": "Nutzen Sie die letzte helle Stunde vor dem frühen Sonnenuntergang.",
                 "hu": "Használja ki az utolsó világos órát a korai naplemente előtt.",
                 "ro": "Profități de ultima oră de lumină înainte de apusul timpuriu.",
-                "en": "Make the most of the last hour of daylight before the early sunset."
+                "en": "Make the most of the last hour of daylight before the early sunset.",
+                "sv": "Utnyttja den sista timmen dagsljus innan den tidiga solnedgången."
               }
             }
           ],
@@ -505,6 +544,12 @@
               "The sun sets as early as 15:30 in December.",
               "Avoid walking on pond ice unless it is officially cleared and safe.",
               "In Sweden, wearing reflectors on your clothes is standard during the dark winter."
+            ],
+            "sv": [
+              "Använd underställ; fukten från sjön gör kylan mer bitande.",
+              "Solen går ner så tidigt som klockan 15:30 i december.",
+              "Undvik att gå på damm- eller tjärnisa om den inte är officiellt kontrollerad och säker.",
+              "I Sverige är det vanligt att ha reflexer på kläderna under den mörka vintern."
             ]
           }
         }
@@ -523,7 +568,8 @@
             "de": "Stadsparken",
             "hu": "Stadsparken (Városi Park)",
             "ro": "Stadsparken (Parcul Orașului)",
-            "en": "Stadsparken (City Park)"
+            "en": "Stadsparken (City Park)",
+            "sv": "Stadsparken (City Park)"
           },
           "coords": [
             16.209,
@@ -539,7 +585,8 @@
             "de": "Ein guter Ausgangspunkt, um die Stadt zu erkunden.",
             "hu": "Jó kiindulópont a város felfedezéséhez.",
             "ro": "Un punct de plecare bun pentru a explora orașul.",
-            "en": "A good starting point to get a feel for the city."
+            "en": "A good starting point to get a feel for the city.",
+            "sv": "En bra startpunkt för att få en känsla för staden."
           }
         },
         {
@@ -547,7 +594,8 @@
             "de": "Katrineholms Konsthall",
             "hu": "Katrineholmi Művészeti Galéria",
             "ro": "Galeria de Artă Katrineholm",
-            "en": "Katrineholm Art Gallery"
+            "en": "Katrineholm Art Gallery",
+            "sv": "Katrineholm Art Gallery"
           },
           "coords": [
             16.2085,
@@ -563,7 +611,8 @@
             "de": "Entdecken Sie die Werke lokaler und nationaler Künstler.",
             "hu": "Fedezze fel a helyi és nemzeti művészek alkotásait.",
             "ro": "Descoperiți lucrările artiștilor locali și naționali.",
-            "en": "Discover the works of local and national artists."
+            "en": "Discover the works of local and national artists.",
+            "sv": "Upptäck verk av lokala och nationella konstnärer."
           }
         },
         {
@@ -571,7 +620,8 @@
             "de": "Stora Djulö Herrgård",
             "hu": "Stora Djulö udvarház",
             "ro": "Conacul Stora Djulö",
-            "en": "Stora Djulö Manor"
+            "en": "Stora Djulö Manor",
+            "sv": "Stora Djulö Manor"
           },
           "coords": [
             16.185,
@@ -587,7 +637,8 @@
             "de": "Ein wunderschönes Herrenhaus mit einem Café und Gärten.",
             "hu": "Gyönyörű udvarház kávézóval és kertekkel.",
             "ro": "Un conac frumos cu o cafenea și grădini.",
-            "en": "A beautiful manor house with a café and gardens."
+            "en": "A beautiful manor house with a café and gardens.",
+            "sv": "Ett vackert herrgårdshus med kafé och trädgårdar."
           }
         },
         {
@@ -595,7 +646,8 @@
             "de": "Djulö badplats",
             "hu": "Djulö strand",
             "ro": "Plaja Djulö",
-            "en": "Djulö bathing spot"
+            "en": "Djulö bathing spot",
+            "sv": "Djulö bathing spot"
           },
           "coords": [
             16.182,
@@ -611,7 +663,8 @@
             "de": "Nehmen Sie ein Bad im See oder entspannen Sie sich am Strand.",
             "hu": "Mártózzon meg a tóban, vagy pihenjen a strandon.",
             "ro": "Faceți o baie în lac sau relaxați-vă pe plajă.",
-            "en": "Take a dip in the lake or relax on the beach."
+            "en": "Take a dip in the lake or relax on the beach.",
+            "sv": "Ta ett dopp i sjön eller koppla av på stranden."
           }
         },
         {
@@ -619,7 +672,8 @@
             "de": "Kirche Sankt Eskil",
             "hu": "Szent Eskil-templom",
             "ro": "Biserica Sfântul Eskil",
-            "en": "Saint Eskil's Church"
+            "en": "Saint Eskil's Church",
+            "sv": "Saint Eskil's Church"
           },
           "coords": [
             16.205,
@@ -635,7 +689,8 @@
             "de": "Ein Moment der Ruhe nach einem aktiven Tag.",
             "hu": "Egy pillanatnyi csend egy aktív nap után.",
             "ro": "Un moment de liniște după o zi activă.",
-            "en": "A moment of peace after an active day."
+            "en": "A moment of peace after an active day.",
+            "sv": "Ett ögonblick av lugn efter en aktiv dag."
           }
         },
         {
@@ -643,7 +698,8 @@
             "de": "Bahnhofsviertel",
             "hu": "Vasútállomás környéke",
             "ro": "Cartierul Gării",
-            "en": "Railway Station Area"
+            "en": "Railway Station Area",
+            "sv": "Railway Station Area"
           },
           "coords": [
             16.203,
@@ -659,7 +715,8 @@
             "de": "Beenden Sie Ihre Tour mit einem Abendessen in einem der Restaurants hier.",
             "hu": "Fejezze be a túrát egy vacsorával az itteni éttermek egyikében.",
             "ro": "Încheiați turul cu o cină la unul dintre restaurantele de aici.",
-            "en": "End your tour with dinner at one of the restaurants here."
+            "en": "End your tour with dinner at one of the restaurants here.",
+            "sv": "Avsluta din tur med middag på en av restaurangerna här."
           }
         }
       ],
@@ -667,7 +724,8 @@
         "de": "Starten Sie Ihre Radtour im Stadsparken und fahren Sie zur Kunstgalerie. Am späten Vormittag radeln Sie durch die malerische Landschaft zum Stora Djulö Herrgård. Verbringen Sie den Mittag am Djulö Badplats, genießen Sie die Natur und vielleicht ein erfrischendes Bad. Am Nachmittag fahren Sie zurück ins Stadtzentrum, um die St. Eskil-Kirche zu besuchen, bevor Sie den Tag im lebhaften Bahnhofsviertel ausklingen lassen.",
         "hu": "Kezdje a kerékpártúrát a Stadsparkenben, majd tekerjen a művészeti galériához. Késő délelőtt a festői tájon át kerekezzen a Stora Djulö udvarházhoz. Töltse a délt a Djulö strandon, élvezze a természetet és talán egy frissítő fürdőt. Délután térjen vissza a városközpontba, hogy meglátogassa a Szent Eskil-templomot, mielőtt a napot a nyüzsgő vasútállomás környékén zárja.",
         "ro": "Începeți turul cu bicicleta în Stadsparken și mergeți la galeria de artă. Spre sfârșitul dimineții, pedalați prin peisajul pitoresc până la Conacul Stora Djulö. Petreceți prânzul la Djulö Badplats, bucurându-vă de natură și poate de o baie răcoritoare. După-amiaza, reveniți în centrul orașului pentru a vizita Biserica Sf. Eskil înainte de a încheia ziua în animatul cartier al gării.",
-        "en": "Begin your bike tour in Stadsparken and cycle to the art gallery. In the late morning, pedal through the scenic landscape to Stora Djulö Manor. Spend midday at Djulö Badplats, enjoying nature and perhaps a refreshing swim. In the afternoon, head back to the city center to visit St. Eskil's Church before ending your day in the lively railway station area."
+        "en": "Begin your bike tour in Stadsparken and cycle to the art gallery. In the late morning, pedal through the scenic landscape to Stora Djulö Manor. Spend midday at Djulö Badplats, enjoying nature and perhaps a refreshing swim. In the afternoon, head back to the city center to visit St. Eskil's Church before ending your day in the lively railway station area.",
+        "sv": "Börja din cykeltur i Stadsparken och cykla till konstgalleriet. I sen förmiddag trampar du genom det natursköna landskapet till Stora Djulö Manor. Till middagen tillbringar du lunchtid vid Djulö Badplats, njuter av naturen och kanske ett uppfriskande dopp. På eftermiddagen går du tillbaka till stadskärnan för att besöka St. Eskils kyrka innan du avslutar dagen vid den livliga stationsområdet."
       },
       "gastro_picks": {
         "de": [
@@ -827,6 +885,12 @@
           "Wear a helmet.",
           "Bring water and snacks for the ride to Lake Djulö.",
           "Check the weather forecast before you leave."
+        ],
+        "sv": [
+          "Hyra en cykel med bra växlar.",
+          "Använd hjälm.",
+          "Ta med vatten och mellanmål för turen till Lake Djulö.",
+          "Kolla väderleksprognosen innan du ger dig av."
         ]
       },
       "variants": {
@@ -835,7 +899,8 @@
             "de": "Das Radfahren in Katrineholm bei Regen erfordert gute Ausrüstung, bietet aber leere Radwege. Die Fahrt beginnt im Stadsparken, wo der nasse Asphalt glänzt. In der Kunstgalerie findet man die erste trockene Kulturpause.\n\nMittags führt die Route zum Stora Djulö Manor. Die Fahrt durch die Alleen ist bei Regen stimmungsvoll, und das Herrenhaus bietet ein warmes Ambiente für ein ausgiebiges Mittagessen.\n\nNachmittags ist der Badeplatz Djulö ein einsamer Ort. Das Grau des Himmels verschmilzt mit dem See, was eine melancholische Schönheit erzeugt.\n\nZurück im Zentrum bietet die Eskils-Kirche Schutz. Der Tag endet am Bahnhofsviertel, wo man das Rad sicher abstellt und die industrielle Geschichte im Schutze der Bahnsteige erkundet.",
             "hu": "A katrineholmi kerékpározás esőben jó felszerelést igényel, de cserébe üres utakat kínál. A Városligetből indulunk, ahol a vizes aszfalt csillog. A Művészeti Galériában tarthatjuk az első száraz, kulturális pihenőt.\n\nDélben az út a Stora Djulö kúriához vezet. Az eső áztatta fasorok közt tekerni hangulatos, a kúria pedig meleg belsőt kínál egy kiadós ebédhez.\n\nDélután a Djulö fürdőhely magányos és csendes. Az ég szürkesége egybeolvad a tóval, ami melankolikus szépséget áraszt.\n\nVisszatérve a központba, a Szent Eskil-templom nyújt védelmet. A nap a vasútállomás környékén zárul, ahol fedett helyen nézhetjük meg az ipari emlékeket.",
             "ro": "Mersul pe bicicletă în Katrineholm pe ploaie necesită echipament bun, dar oferă piste libere. Traseul începe în Stadsparken, unde asfaltul ud strălucește. Galeria de Artă oferă prima pauză culturală uscată.\n\nLa prânz, ruta duce spre Conacul Stora Djulö. Drumul prin alei este atmosferic pe ploaie, iar conacul oferă o ambianță caldă pentru un prânz prelungit.\n\nDupă-amiaza, locul de scăldat Djulö este pustiu. Griul cerului se contopește cu lacul, creând o frumusețe melancolică.\n\nReveniți în centru, Biserica Sf. Eskil oferă protecție. Ziua se încheie în zona gării, unde puteți parca bicicleta și explora istoria industrială sub protecția peroanelor.",
-            "en": "Cycling in Katrineholm in the rain requires good gear but offers empty bike paths. The ride starts in City Park, where the wet asphalt glistens. The Art Gallery provides the first dry cultural break.\n\nAt noon, the route leads to Stora Djulö Manor. Riding through the rain-soaked avenues is atmospheric, and the manor offers a warm ambiance for an extended lunch.\n\nIn the afternoon, the Djulö bathing spot is a solitary place. The gray of the sky merges with the lake, creating a melancholic beauty.\n\nBack in the center, Saint Eskil's Church provides shelter. The day ends at the station area, where you can park the bike and explore industrial history under the cover of the platforms."
+            "en": "Cycling in Katrineholm in the rain requires good gear but offers empty bike paths. The ride starts in City Park, where the wet asphalt glistens. The Art Gallery provides the first dry cultural break.\n\nAt noon, the route leads to Stora Djulö Manor. Riding through the rain-soaked avenues is atmospheric, and the manor offers a warm ambiance for an extended lunch.\n\nIn the afternoon, the Djulö bathing spot is a solitary place. The gray of the sky merges with the lake, creating a melancholic beauty.\n\nBack in the center, Saint Eskil's Church provides shelter. The day ends at the station area, where you can park the bike and explore industrial history under the cover of the platforms.",
+            "sv": "Att cykla i Katrineholm i regn kräver bra utrustning men bjuder på tomma cykelbanor. Turen börjar i City Park, där den våta asfalten glittrar. Konstgalleriet ger det första torra kulturella avbrottet.\n\nVid lunch leder rutten till Stora Djulö Manor. Att cykla genom regndränkta alléer är stämningsfullt, och herrgården erbjuder en varm atmosfär för en längre lunch.\n\nPå eftermiddagen är Djulös badplats en enstöringens plats. Himlens grå ton smälter samman med sjön och skapar en melankolisk skönhet.\n\nTillbaka i centrum ger Saint Eskil's Church skydd. Dagen avslutas vid stationsområdet, där du kan parkera cykeln och utforska industrihistorien under perrongernas tak."
           },
           "stops": [
             {
@@ -844,7 +909,8 @@
                 "de": "Vorsicht vor nassem Laub auf den Radwegen im Park.",
                 "hu": "Vigyázzon a vizes levelekre a parki kerékpárutakon.",
                 "ro": "Atenție la frunzele ude de pe pistele de biciclete din parc.",
-                "en": "Be careful with wet leaves on the bike paths in the park."
+                "en": "Be careful with wet leaves on the bike paths in the park.",
+                "sv": "Var försiktig med våta löv på cykelbanorna i parken."
               }
             },
             {
@@ -853,7 +919,8 @@
                 "de": "Überdachte Fahrradständer befinden sich in der Nähe des Eingangs.",
                 "hu": "Fedett kerékpártárolók találhatók a bejárat közelében.",
                 "ro": "Suporturi de biciclete acoperite se află lângă intrare.",
-                "en": "Covered bike racks are located near the entrance."
+                "en": "Covered bike racks are located near the entrance.",
+                "sv": "Täckta cykelställ finns nära entrén."
               }
             },
             {
@@ -862,7 +929,8 @@
                 "de": "Der Kiesweg zum Herrenhaus kann bei Regen etwas weich sein.",
                 "hu": "A kúriához vezető kavicsos út esőben kissé felázhat.",
                 "ro": "Aleea cu pietriș spre conac poate fi moale pe timp de ploaie.",
-                "en": "The gravel path to the manor can be a bit soft when raining."
+                "en": "The gravel path to the manor can be a bit soft when raining.",
+                "sv": "Grusvägen till herrgården kan vara mjuk när det regnar."
               }
             },
             {
@@ -871,7 +939,8 @@
                 "de": "Die Stege sind bei Nässe extrem rutschig – Vorsicht!",
                 "hu": "A stégek vizesen rendkívül csúszósak – óvatosan!",
                 "ro": "Pontoanele sunt extrem de alunecoase când sunt ude – atenție!",
-                "en": "The wooden piers are extremely slippery when wet – be careful!"
+                "en": "The wooden piers are extremely slippery when wet – be careful!",
+                "sv": "De träbryggor som finns är extremt hala när de är våta – var försiktig!"
               }
             },
             {
@@ -880,7 +949,8 @@
                 "de": "Ein guter Stopp, um die Kleidung kurz abzutrocknen.",
                 "hu": "Jó megálló, hogy kicsit leszárítsuk a ruházatunkat.",
                 "ro": "O oprire bună pentru a vă usca puțin hainele.",
-                "en": "A good stop to briefly dry off your gear and rest."
+                "en": "A good stop to briefly dry off your gear and rest.",
+                "sv": "Ett bra stopp för att snabbt torka utrustning och vila."
               }
             },
             {
@@ -889,7 +959,8 @@
                 "de": "Fahrradboxen am Bahnhof bieten Schutz vor Diebstahl und Nässe.",
                 "hu": "A vasútállomásnál lévő tárolók védenek a lopástól és az esőtől.",
                 "ro": "Cutiile de biciclete de la gară oferă protecție contra hoților și ploii.",
-                "en": "Bike lockers at the station provide protection from theft and rain."
+                "en": "Bike lockers at the station provide protection from theft and rain.",
+                "sv": "Cykelförvaringsskåp vid stationen skyddar mot stöld och regn."
               }
             }
           ],
@@ -917,6 +988,12 @@
               "Avoid puddles as they can hide deep potholes.",
               "Wear a high-visibility rain jacket as visibility for cars decreases.",
               "Djulö Manor often has a designated area to leave wet gear."
+            ],
+            "sv": [
+              "Kontrollera dina bromsar; bromssträckan ökar avsevärt på våt asfalt.",
+              "Undvik pölar eftersom de kan dölja djupa potthål.",
+              "Bär en högsynlig regnjacka eftersom sikten för bilister minskar.",
+              "Djulö Manor har ofta ett särskilt område för att lämna våta kläder."
             ]
           }
         },
@@ -925,7 +1002,8 @@
             "de": "Winterliches Radeln in Katrineholm ist dank geräumter Wege ein Abenteuer. Die Tour startet im Stadsparken, wo die Reifen im frischen Schnee knirschen. Die Kunstgalerie bietet eine erste Aufwärmpause.\n\nMittags geht es zum Stora Djulö Manor. Die verschneite Landschaft rund um das Herrenhaus wirkt wie ein Gemälde aus dem 19. Jahrhundert. Das Restaurant im Inneren ist der Inbegriff von schwedischer Gemütlichkeit.\n\nNachmittags erreicht man den Djulö-Badeplatz. Der See ist oft gefroren und bietet eine weite, weiße Fläche. Die klare Luft macht die Fahrt trotz Kälte erfrischend.\n\nZurück im Ort bietet die Eskils-Kirche einen friedlichen Halt. Die Tour endet am Bahnhof, wo die beleuchteten Gleise den Weg in den frühen Abend weisen.",
             "hu": "A téli kerékpározás Katrineholmban a takarított utaknak köszönhetően igazi kaland. A túra a Városligetben indul, ahol a gumik ropognak a friss havon. A Művészeti Galéria kínálja az első melegedő szünetet.\n\nDélben a Stora Djulö kúria felé vesszük az irányt. A kúria körüli havas táj olyan, mint egy 19. századi festmény. A belső étterem a svéd 'mysig' (meghittség) megtestesítője.\n\nDélután érjük el a Djulö fürdőhelyet. A tó gyakran befagy, végtelen fehér síkságot alkotva. A friss levegő a hideg ellenére is üdítő.\n\nVisszatérve a városba, a Szent Eskil-templom nyújt békés pihenőt. A túra az állomáson zárul, ahol a kivilágított sínek jelzik a korai este kezdetét.",
             "ro": "Mersul pe bicicletă iarna în Katrineholm este o aventură datorită pistelor curățate. Turul începe în Stadsparken, unde cauciucurile scârțâie pe zăpada proaspătă. Galeria de Artă oferă prima pauză de încălzire.\n\nLa prânz, porniți spre Conacul Stora Djulö. Peisajul înzăpezit din jurul conacului arată ca o pictură din secolul al XIX-lea. Restaurantul din interior este definiția confortului suedez.\n\nDupă-amiaza ajungeți la locul de scăldat Djulö. Lacul este adesea înghețat, oferind o câmpie albă vastă. Aerul curat face călătoria revigorantă în ciuda frigului.\n\nReveniți în oraș, Biserica Sf. Eskil oferă un popas liniștit. Turul se încheie la gară, unde șinele iluminate marchează începutul serii timpurii.",
-            "en": "Winter cycling in Katrineholm is an adventure thanks to well-cleared paths. The tour starts in City Park, where tires crunch on fresh snow. The Art Gallery offers the first warming break.\n\nAt noon, head towards Stora Djulö Manor. The snowy landscape around the manor looks like a 19th-century painting. The restaurant inside is the epitome of Swedish 'mysig' (cosiness).\n\nIn the afternoon, reach the Djulö bathing spot. The lake is often frozen, creating a vast white plain. The crisp air makes the ride refreshing despite the cold.\n\nBack in town, Saint Eskil's Church provides a peaceful stop. The tour ends at the station, where the illuminated tracks mark the start of the early evening."
+            "en": "Winter cycling in Katrineholm is an adventure thanks to well-cleared paths. The tour starts in City Park, where tires crunch on fresh snow. The Art Gallery offers the first warming break.\n\nAt noon, head towards Stora Djulö Manor. The snowy landscape around the manor looks like a 19th-century painting. The restaurant inside is the epitome of Swedish 'mysig' (cosiness).\n\nIn the afternoon, reach the Djulö bathing spot. The lake is often frozen, creating a vast white plain. The crisp air makes the ride refreshing despite the cold.\n\nBack in town, Saint Eskil's Church provides a peaceful stop. The tour ends at the station, where the illuminated tracks mark the start of the early evening.",
+            "sv": "Vintercykling i Katrineholm är ett äventyr tack vare välplogade banor. Turen börjar i City Park, där däcken knastrar i ny snö. Konstgalleriet erbjuder det första värmande avbrottet.\n\nVid lunch styr du mot Stora Djulö Manor. Det snöklädda landskapet runt herrgården liknar en 1800-talsmålning. Restaurangen inomhus är sinnebilden för svensk mysfaktor.\n\nPå eftermiddagen når du Djulös badplats. Sjön är ofta frusen och skapar en vidsträckt vit yta. Den krispiga luften gör turen uppfriskande trots kylan.\n\nTillbaka i stan ger Saint Eskil's Church en fridfull paus. Turen avslutas vid stationen där de upplysta spåren markerar början på den tidiga kvällen."
           },
           "stops": [
             {
@@ -934,7 +1012,8 @@
                 "de": "Vorsicht vor verstecktem Glatteis unter dünnem Neuschnee.",
                 "hu": "Vigyázzon a friss hó alatt megbújó jégfoltokra.",
                 "ro": "Atenție la gheața ascunsă sub un strat subțire de zăpadă.",
-                "en": "Watch out for hidden ice under a thin layer of fresh snow."
+                "en": "Watch out for hidden ice under a thin layer of fresh snow.",
+                "sv": "Se upp för dold is under ett tunt lager nysnö."
               }
             },
             {
@@ -943,7 +1022,8 @@
                 "de": "Ein kurzer Stopp hier hilft, die Taubheit in den Fingern zu vertreiben.",
                 "hu": "Egy rövid megálló segít elűzni az ujjak zsibbadását a hidegtől.",
                 "ro": "O scurtă oprire aici ajută la dezmorțirea degetelor.",
-                "en": "A short stop here helps to get rid of numbness in your fingers."
+                "en": "A short stop here helps to get rid of numbness in your fingers.",
+                "sv": "Ett kort stopp här hjälper till att få bort domningar i fingrarna."
               }
             },
             {
@@ -952,7 +1032,8 @@
                 "de": "Der Parkplatz des Herrenhauses ist oft besser geräumt als die Radwege.",
                 "hu": "A kúria parkolója gyakran jobban le van takarítva, mint a bicikliút.",
                 "ro": "Parcarea conacului este adesea mai bine curățată decât pistele.",
-                "en": "The manor parking lot is often better cleared than the bike paths."
+                "en": "The manor parking lot is often better cleared than the bike paths.",
+                "sv": "Herrgårdens parkering är ofta bättre plogad än cykelvägarna."
               }
             },
             {
@@ -961,7 +1042,8 @@
                 "de": "Genießen Sie die Aussicht, aber bleiben Sie wegen des Windchill in Bewegung.",
                 "hu": "Élvezze a kilátást, de a szél miatt maradjon mozgásban.",
                 "ro": "Bucurați-vă de priveliște, dar rămâneți în mișcare din cauza vântului.",
-                "en": "Enjoy the view, but keep moving due to the wind chill factor."
+                "en": "Enjoy the view, but keep moving due to the wind chill factor.",
+                "sv": "Njut av utsikten, men håll dig i rörelse på grund av vindens nedkylningseffekt."
               }
             },
             {
@@ -970,7 +1052,8 @@
                 "de": "Lassen Sie das Rad draußen; drinnen ist es angenehm zum Aufwärmen.",
                 "hu": "Hagyja kint a biciklit; bent kellemes meleg vár a pihenéshez.",
                 "ro": "Lăsați bicicleta afară; în interior este plăcut pentru încălzire.",
-                "en": "Leave the bike outside; the interior is pleasantly warm for a rest."
+                "en": "Leave the bike outside; the interior is pleasantly warm for a rest.",
+                "sv": "Lämna cykeln utomhus; interiören är behagligt varm för en paus."
               }
             },
             {
@@ -979,7 +1062,8 @@
                 "de": "Kettenöl für winterliche Bedingungen schützt vor Streusalz-Korrosion.",
                 "hu": "A téli láncolaj segít megvédeni a bringát az útszóró sótól.",
                 "ro": "Uleiul de lanț pentru iarnă protejează contra coroziunii de la sare.",
-                "en": "Winter chain oil helps protect against salt corrosion on the roads."
+                "en": "Winter chain oil helps protect against salt corrosion on the roads.",
+                "sv": "Vinterkedjeolja hjälper till att skydda mot saltkorrosion från vägarna."
               }
             }
           ],
@@ -1007,6 +1091,12 @@
               "The wind chill effect at Lake Djulö is not to be underestimated.",
               "Plan to be back before 16:00 as it becomes pitch dark afterwards.",
               "Drink hot beverages periodically to maintain your body temperature."
+            ],
+            "sv": [
+              "Använd dubbdäck på vintern för bättre grepp på frusna stigar.",
+              "Vindkyleffekten vid Lake Djulö får inte underskattas.",
+              "Planera att vara tillbaka före klockan 16:00 eftersom det blir becksvart därefter.",
+              "Drick varma drycker med jämna mellanrum för att hålla kroppstemperaturen."
             ]
           }
         }
@@ -1025,7 +1115,8 @@
             "de": "Cluster 1: Stadtzentrum Katrineholm",
             "hu": "1. klaszter: Katrineholm városközpont",
             "ro": "Cluster 1: Centrul orașului Katrineholm",
-            "en": "Cluster 1: Katrineholm City Center"
+            "en": "Cluster 1: Katrineholm City Center",
+            "sv": "Cluster 1: Katrineholm City Center"
           },
           "coords": [
             16.2035,
@@ -1041,7 +1132,8 @@
             "de": "Parken Sie in der Nähe des Bahnhofs für diesen Cluster.",
             "hu": "Parkoljon a vasútállomás közelében ehhez a klaszterhez.",
             "ro": "Parcați lângă gară pentru acest cluster.",
-            "en": "Park near the railway station for this cluster."
+            "en": "Park near the railway station for this cluster.",
+            "sv": "Parkera nära järnvägsstationen för denna klunga."
           }
         },
         {
@@ -1049,7 +1141,8 @@
             "de": "Lokstallarna",
             "hu": "Lokstallarna",
             "ro": "Lokstallarna",
-            "en": "Lokstallarna"
+            "en": "Lokstallarna",
+            "sv": "Lokstallarna"
           },
           "coords": [
             16.2,
@@ -1065,7 +1158,8 @@
             "de": "Ein kurzer Spaziergang vom Bahnhof aus.",
             "hu": "Rövid séta a vasútállomástól.",
             "ro": "O scurtă plimbare de la gară.",
-            "en": "A short walk from the station."
+            "en": "A short walk from the station.",
+            "sv": "En kort promenad från stationen."
           }
         },
         {
@@ -1073,7 +1167,8 @@
             "de": "Katrineholms Konsthall",
             "hu": "Katrineholmi Művészeti Galéria",
             "ro": "Galeria de Artă Katrineholm",
-            "en": "Katrineholm Art Gallery"
+            "en": "Katrineholm Art Gallery",
+            "sv": "Katrineholm Art Gallery"
           },
           "coords": [
             16.2085,
@@ -1089,7 +1184,8 @@
             "de": "Durchqueren Sie den oberen Teil der Stadt zu Fuß.",
             "hu": "Sétáljon át a város felső részén.",
             "ro": "Traversați partea superioară a orașului pe jos.",
-            "en": "Walk across the upper part of the city."
+            "en": "Walk across the upper part of the city.",
+            "sv": "Promenera över den övre delen av staden."
           }
         },
         {
@@ -1097,7 +1193,8 @@
             "de": "Cluster 2: Erholungsgebiet Djulö",
             "hu": "2. klaszter: Djulö rekreációs terület",
             "ro": "Cluster 2: Zona de recreere Djulö",
-            "en": "Cluster 2: Djulö Recreation Area"
+            "en": "Cluster 2: Djulö Recreation Area",
+            "sv": "Cluster 2: Djulö Recreation Area"
           },
           "coords": [
             16.185,
@@ -1113,7 +1210,8 @@
             "de": "Fahren Sie zum Herrenhaus und parken Sie dort für den Rest des Tages.",
             "hu": "Vezessen az udvarházhoz, és parkoljon le a nap hátralévő részére.",
             "ro": "Conduceți la conac și parcați acolo pentru restul zilei.",
-            "en": "Drive to the manor and park there for the rest of the day."
+            "en": "Drive to the manor and park there for the rest of the day.",
+            "sv": "Kör till herrgården och parkera där för resten av dagen."
           }
         },
         {
@@ -1121,7 +1219,8 @@
             "de": "Djulö badplats & Mittagessen",
             "hu": "Djulö strand és ebéd",
             "ro": "Plaja Djulö și prânz",
-            "en": "Djulö bathing spot & Lunch"
+            "en": "Djulö bathing spot & Lunch",
+            "sv": "Djulö bathing spot & Lunch"
           },
           "coords": [
             16.182,
@@ -1137,7 +1236,8 @@
             "de": "Kombinieren Sie Entspannung am See mit einem Mittagessen im Café des Herrenhauses.",
             "hu": "Kombinálja a tóparti pihenést egy ebéddel az udvarház kávézójában.",
             "ro": "Combinați relaxarea pe malul lacului cu prânzul la cafeneaua conacului.",
-            "en": "Combine lakeside relaxation with lunch at the manor's café."
+            "en": "Combine lakeside relaxation with lunch at the manor's café.",
+            "sv": "Kombinera sjörelax med lunch på herrgårdskaféet."
           }
         }
       ],
@@ -1145,7 +1245,8 @@
         "de": "Beginnen Sie im Stadtzentrum, wo Sie Ihr Auto parken und das industrielle Erbe und die Kunstszene zu Fuß erkunden. Am Vormittag besuchen Sie Lokstallarna und die Kunstgalerie. Mittags fahren Sie zum wunderschönen Djulö-Gebiet. Dort verbringen Sie den Rest des Tages mit der Erkundung des Stora Djulö Herrgård und entspannen am Seeufer, wo Sie auch ein gemütliches Mittagessen genießen können.",
         "hu": "Kezdje a városközpontban, ahol leparkolhatja autóját, és gyalog felfedezheti az ipari örökséget és a művészeti negyedet. Délelőtt látogasson el a Lokstallarnába és a művészeti galériába. Délben autózzon el a gyönyörű Djulö területre. A nap hátralévő részét a Stora Djulö udvarház felfedezésével és a tóparton való pihenéssel töltse, ahol egy kellemes ebédet is elfogyaszthat.",
         "ro": "Începeți în centrul orașului, unde parcați mașina și explorați moștenirea industrială și scena artistică pe jos. Dimineața, vizitați Lokstallarna și galeria de artă. La prânz, conduceți spre frumoasa zonă Djulö. Petreceți restul zilei explorând Conacul Stora Djulö și relaxându-vă pe malul lacului, unde puteți savura și un prânz pe îndelete.",
-        "en": "Start in the city center, parking your car to explore the industrial heritage and art scene on foot. In the morning, visit Lokstallarna and the art gallery. At midday, drive to the beautiful Djulö area. Spend the rest of the day exploring Stora Djulö Manor and relaxing by the lakeside, where you'll also enjoy a leisurely lunch."
+        "en": "Start in the city center, parking your car to explore the industrial heritage and art scene on foot. In the morning, visit Lokstallarna and the art gallery. At midday, drive to the beautiful Djulö area. Spend the rest of the day exploring Stora Djulö Manor and relaxing by the lakeside, where you'll also enjoy a leisurely lunch.",
+        "sv": "Börja i stadens centrum och parkera bilen för att utforska industriarvet och konstscenen till fots. På förmiddagen besöker du Lokstallarna och konstgalleriet. Mitt på dagen kör du till det vackra Djulöområdet. Tillbringa resten av dagen med att utforska Stora Djulö Manor och koppla av vid sjön, där du även avnjuter en lugn lunch."
       },
       "gastro_picks": {
         "de": [
@@ -1289,6 +1390,12 @@
           "The Djulö area is large, so plan enough time for walks.",
           "The café at the manor can be busy in summer.",
           "Be mindful of speed limits in the countryside."
+        ],
+        "sv": [
+          "Kontrollera parkeringsavgifter i stadens centrum.",
+          "Djulöområdet är stort, så planera tillräckligt med tid för promenader.",
+          "Kaféet vid herrgården kan vara fullt på sommaren.",
+          "Var uppmärksam på hastighetsgränserna på landsbygden."
         ]
       },
       "variants": {
@@ -1297,7 +1404,8 @@
             "de": "Im Auto lässt sich Katrineholm bei Regen entspannt erkunden. Der Tag beginnt im Zentrum, wo man direkt in Bahnhofsnähe parkt. Die kurzen Wege zu den Lokschuppen minimieren den Kontakt mit dem Wetter.\n\nMittags bietet die Fahrt zum Djulö-Erholungsgebiet eine trockene Passage durch die Södermanland-Landschaft. Das Parken direkt am Herrenhaus ermöglicht einen bequemen Zugang zum Restaurant.\n\nNachmittags ist der Djulö-Badeplatz vom warmen Auto aus ein schöner Anblick. Man kann die melancholische Seenlandschaft genießen, ohne nass zu werden.\n\nDer Tag endet wieder im Zentrum. Ein Parkplatz nahe der Kunstgalerie sorgt dafür, dass man die Ausstellungen trocken erreicht und den Tag kulturell abrundet.",
             "hu": "Autóval Katrineholm esőben is kényelmesen felfedezhető. A nap a központban indul, ahol közvetlenül az állomás mellett parkolhatunk. A rövid séták a fűtőházakhoz minimálisra csökkentik az esőben töltött időt.\n\nDélben a Djulö pihenőövezetbe tartó út száraz átkelést kínál a södermanlandi tájon. A kúria melletti parkolás lehetővé teszi a közvetlen bejutást az étterembe.\n\nDélután a Djulö fürdőhely a meleg autóból nézve is szép látvány. Élvezhetjük a tavat anélkül, hogy eláznánk.\n\nA nap ismét a központban zárul. A Művészeti Galéria közeli parkolójából szárazon érhetjük el a kiállításokat, tartalmas lezárást adva a napnak.",
             "ro": "Cu mașina, Katrineholm poate fi explorat relaxat pe timp de ploaie. Ziua începe în centru, cu parcarea direct lângă gară. Distanțele scurte spre depouri minimizează contactul cu vremea rea.\n\nLa prânz, drumul spre zona de agrement Djulö oferă o trecere uscată prin peisajul din Södermanland. Parcarea chiar lângă conac permite accesul facil la restaurant.\n\nDupă-amiaza, locul de scăldat Djulö oferă o priveliște frumoasă din mașina caldă. Puteți savura peisajul lacului fără să vă udați.\n\nZiua se încheie în centru. Un loc de parcare lângă Galeria de Artă asigură accesul uscat la expoziții pentru un final cultural al zilei.",
-            "en": "By car, Katrineholm can be explored in a relaxed manner even in the rain. The day starts in the center, parking directly near the station. Short walks to the engine sheds minimize contact with the weather.\n\nAt noon, the drive to the Djulö recreation area offers a dry passage through the Södermanland countryside. Parking right by the manor allows for easy access to the restaurant.\n\nIn the afternoon, the Djulö bathing spot is a beautiful sight from the warm car. You can enjoy the lake scenery without getting wet.\n\nThe day ends back in the center. A parking spot near the Art Gallery ensures you reach the exhibitions dry, rounding off the day with culture."
+            "en": "By car, Katrineholm can be explored in a relaxed manner even in the rain. The day starts in the center, parking directly near the station. Short walks to the engine sheds minimize contact with the weather.\n\nAt noon, the drive to the Djulö recreation area offers a dry passage through the Södermanland countryside. Parking right by the manor allows for easy access to the restaurant.\n\nIn the afternoon, the Djulö bathing spot is a beautiful sight from the warm car. You can enjoy the lake scenery without getting wet.\n\nThe day ends back in the center. A parking spot near the Art Gallery ensures you reach the exhibitions dry, rounding off the day with culture.",
+            "sv": "Med bil kan Katrineholm utforskas på ett avslappnat sätt även i regn. Dagen börjar i centrum med parkering direkt vid stationen. Korta promenader till lokstallarna minimerar väderkontakten.\n\nVid lunch erbjuder körningen till Djulö rekreationsområde ett torrt avsnitt genom det sörmländska landskapet. Parkering intill herrgården ger enkel åtkomst till restaurangen.\n\nPå eftermiddagen är Djulös badplats en vacker syn från den varma bilen. Du kan njuta av sjöutsikten utan att bli våt.\n\nDagen avslutas tillbaka i centrum. En parkeringsplats nära konstgalleriet ser till att du når utställningarna torra och avrundar dagen med kultur."
           },
           "stops": [
             {
@@ -1306,7 +1414,8 @@
                 "de": "Nutzen Sie das Parkhaus am Bahnhof für maximalen Wetterschutz.",
                 "hu": "Használja az állomás melletti parkolóházat a maximális védelemért.",
                 "ro": "Folosiți parcarea supraetajată de la gară pentru protecție maximă.",
-                "en": "Use the parking garage at the station for maximum weather protection."
+                "en": "Use the parking garage at the station for maximum weather protection.",
+                "sv": "Använd parkeringshuset vid stationen för maximalt väderskydd."
               }
             },
             {
@@ -1315,7 +1424,8 @@
                 "de": "Kurzzeitparkplätze direkt an der Lokstallsgatan nutzen.",
                 "hu": "Használja a rövid távú parkolókat közvetlenül a Lokstallsgatanon.",
                 "ro": "Folosiți locurile de parcare pe termen scurt direct pe Lokstallsgatan.",
-                "en": "Use short-term parking spaces directly on Lokstallsgatan."
+                "en": "Use short-term parking spaces directly on Lokstallsgatan.",
+                "sv": "Använd korttidsparkeringarna direkt på Lokstallsgatan."
               }
             },
             {
@@ -1324,7 +1434,8 @@
                 "de": "Zentraler Parkplatz 'Kulturhuset' ist oft stark frequentiert.",
                 "hu": "A központi 'Kulturhuset' parkoló gyakran zsúfolt esőben.",
                 "ro": "Parcarea centrală 'Kulturhuset' este adesea foarte solicitată.",
-                "en": "The central 'Kulturhuset' parking lot is often busy in the rain."
+                "en": "The central 'Kulturhuset' parking lot is often busy in the rain.",
+                "sv": "Det centrala parkeringsområdet vid 'Kulturhuset' är ofta fullt i regnväder."
               }
             },
             {
@@ -1333,7 +1444,8 @@
                 "de": "Parken Sie unter den Bäumen nur, wenn kein starker Wind weht.",
                 "hu": "Csak akkor parkoljon fák alatt, ha nincs erős szél.",
                 "ro": "Parcați sub copaci doar dacă nu este vânt puternic.",
-                "en": "Avoid parking under trees if there is strong wind with the rain."
+                "en": "Avoid parking under trees if there is strong wind with the rain.",
+                "sv": "Undvik att parkera under träd om det är kraftig vind och regn."
               }
             },
             {
@@ -1342,7 +1454,8 @@
                 "de": "Großer Parkplatz vorhanden; ideal, um kurz im Auto zu pausieren.",
                 "hu": "Nagy parkoló áll rendelkezésre; ideális egy rövid pihenőre az autóban.",
                 "ro": "Există o parcare mare; ideală pentru o scurtă pauză în mașină.",
-                "en": "Large parking lot available; ideal for a short break inside the car."
+                "en": "Large parking lot available; ideal for a short break inside the car.",
+                "sv": "Stor parkeringsplats tillgänglig; idealisk för en kort paus i bilen."
               }
             }
           ],
@@ -1370,6 +1483,12 @@
               "Parking fees can often be paid conveniently via app (e.g., EasyPark).",
               "Keep the windows defogged to maintain a good view of the sights.",
               "Use the driving time to plan your next stop from the comfort of your dry car."
+            ],
+            "sv": [
+              "Se upp för vattenplaning på vägen mot Djulö.",
+              "Parkeringsavgifter kan ofta betalas smidigt via app (t.ex. EasyPark).",
+              "Håll rutorna avisade för att behålla god sikt över sevärdheterna.",
+              "Använd körtiden till att planera nästa stopp från bekvämligheten i din torra bil."
             ]
           }
         },
@@ -1378,7 +1497,8 @@
             "de": "Mit dem Auto ist die Kälte in Katrineholm kein Hindernis. Die Tour beginnt im Stadtzentrum, wo die beheizten Sitze den frostigen Morgen erträglich machen. Die alten Lokschuppen im Winterschmuck sind nur einen kurzen Spaziergang vom Parkplatz entfernt.\n\nMittags führt die Fahrt durch die verschneite Södermanland-Ebene zum Djulö-Herrenhaus. Das Parken in der Nähe des Eingangs erlaubt es, die Winterkälte schnell gegen die gemütliche Wärme des Restaurants zu tauschen.\n\nNachmittags bietet der Djulö-Badeplatz eine spektakuläre Aussicht auf den zugefrorenen See. Die winterliche Stille lässt sich am besten aus dem geschützten Fahrzeug heraus genießen.\n\nDer Tag endet in der Kunstgalerie. Dank der guten Parkmöglichkeiten im Zentrum erreicht man die Ausstellungen noch vor dem Einbruch der frühen Dunkelheit.",
             "hu": "Autóval a katrineholmi hideg nem akadály. A túra a városközpontban indul, ahol a fűtött ülések elviselhetővé teszik a fagyos reggelt. A téli díszbe öltözött fűtőházak csak rövid sétára vannak a parkolótól.\n\nDélben a havas södermanlandi síkságon át autózunk a Djulö kúriához. A bejárat közeli parkolás lehetővé teszi, hogy gyorsan a kúria éttermének melegébe jussunk.\n\nDélután a Djulö fürdőhelyről látványos kilátás nyílik a befagyott tóra. A téli csendet leginkább a védett autóból élvezhetjük.\n\nA nap a Művészeti Galériában zárul. A jó központi parkolási lehetőségeknek köszönhetően még a korai sötétedés előtt bejuthatunk a kiállításokra.",
             "ro": "Cu mașina, frigul din Katrineholm nu este un obstacol. Turul începe în centrul orașului, unde scaunele încălzite fac dimineața geroasă suportabilă. Depourile în haine de iarnă sunt la doar o scurtă plimbare de parcare.\n\nLa prânz, drumul trece prin câmpia înzăpezită spre Conacul Djulö. Parcarea aproape de intrare vă permite să schimbați rapid gerul cu căldura primitoare a restaurantului.\n\nDupă-amiaza, locul de scăldat Djulö oferă o vedere spectaculoasă asupra lacului înghețat. Liniștea iernii se savurează cel mai bine din vehiculul protejat.\n\nZiua se încheie la Galeria de Artă. Datorită parcărilor bune din centru, ajungeți la expoziții înainte de lăsarea întunericului.",
-            "en": "By car, the cold in Katrineholm is no obstacle. The tour begins in the city center, where heated seats make the frosty morning bearable. The old engine sheds in their winter coat are just a short walk from the parking lot.\n\nAt noon, the drive leads through the snowy Södermanland plains to Djulö Manor. Parking near the entrance allows you to quickly swap the winter chill for the cozy warmth of the restaurant.\n\nIn the afternoon, the Djulö bathing spot offers a spectacular view of the frozen lake. The winter silence is best enjoyed from the sheltered vehicle.\n\nThe day ends at the Art Gallery. Thanks to good parking options in the center, you can reach the exhibitions before the early darkness sets in."
+            "en": "By car, the cold in Katrineholm is no obstacle. The tour begins in the city center, where heated seats make the frosty morning bearable. The old engine sheds in their winter coat are just a short walk from the parking lot.\n\nAt noon, the drive leads through the snowy Södermanland plains to Djulö Manor. Parking near the entrance allows you to quickly swap the winter chill for the cozy warmth of the restaurant.\n\nIn the afternoon, the Djulö bathing spot offers a spectacular view of the frozen lake. The winter silence is best enjoyed from the sheltered vehicle.\n\nThe day ends at the Art Gallery. Thanks to good parking options in the center, you can reach the exhibitions before the early darkness sets in.",
+            "sv": "Med bil är kylan i Katrineholm inget hinder. Turen börjar i stadens centrum där värmesäten gör den frostiga morgonen uthärdlig. De gamla lokstallarna i sin vinterdräkt är bara en kort promenad från parkeringen.\n\nVid lunch leder körningen genom de snötäckta sörmländska slätterna till Djulö Manor. Parkering vid entrén låter dig snabbt byta vinterkylan mot restaurangens mysiga värme.\n\nPå eftermiddagen erbjuder Djulös badplats en spektakulär vy över den frusna sjön. Vinters tystnad är bäst att njuta av från det skyddade fordonet.\n\nDagen avslutas vid konstgalleriet. Tack vare goda parkeringsmöjligheter i centrum hinner du till utställningarna innan den tidiga mörkret faller."
           },
           "stops": [
             {
@@ -1387,7 +1507,8 @@
                 "de": "Rechnen Sie mit Schneematsch auf den Parkplätzen.",
                 "hu": "Számítson latyakos utakra a parkolók környékén.",
                 "ro": "Așteptați-vă la lapoviță și zăpadă topită în parcări.",
-                "en": "Expect slushy conditions in the parking lots."
+                "en": "Expect slushy conditions in the parking lots.",
+                "sv": "Räkna med slaskiga förhållanden på parkeringsplatserna."
               }
             },
             {
@@ -1396,7 +1517,8 @@
                 "de": "Vorsicht beim Einparken; Schneehaufen können die Sicht einschränken.",
                 "hu": "Vigyázzon parkoláskor; a hóbuckák korlátozhatják a kilátást.",
                 "ro": "Atenție la parcare; mormanele de zăpadă pot limita vizibilitatea.",
-                "en": "Be careful when parking; snow piles can restrict visibility."
+                "en": "Be careful when parking; snow piles can restrict visibility.",
+                "sv": "Var försiktig vid parkering; snövallar kan begränsa siktfälten."
               }
             },
             {
@@ -1405,7 +1527,8 @@
                 "de": "Kurze Wege vom Parkplatz minimieren die Kälteexposition.",
                 "hu": "A parkolótól való rövid táv minimálisra csökkenti a kinti hideget.",
                 "ro": "Distanța scurtă de la parcare minimizează expunerea la frig.",
-                "en": "Short distances from the parking lot minimize exposure to the cold."
+                "en": "Short distances from the parking lot minimize exposure to the cold.",
+                "sv": "Korta avstånd från parkeringsplatsen minimerar exponering för kylan."
               }
             },
             {
@@ -1414,7 +1537,8 @@
                 "de": "Die Zufahrtsstraße nach Djulö wird zuverlässig geräumt.",
                 "hu": "A Djulö felé vezető utat megbízhatóan takarítják.",
                 "ro": "Drumul de acces spre Djulö este curățat cu regularitate.",
-                "en": "The access road to Djulö is reliably cleared of snow."
+                "en": "The access road to Djulö is reliably cleared of snow.",
+                "sv": "Utfartsvägen till Djulö är pålitligt plogad."
               }
             },
             {
@@ -1423,7 +1547,8 @@
                 "de": "Der Parkplatz kann bei Frost sehr glatt sein – Winterreifen Pflicht.",
                 "hu": "A parkoló fagyban nagyon csúszós lehet – téli gumi kötelező.",
                 "ro": "Parcarea poate fi foarte alunecoasă – anvelopele de iarnă sunt obligatorii.",
-                "en": "The parking lot can be very slippery – winter tires are mandatory."
+                "en": "The parking lot can be very slippery – winter tires are mandatory.",
+                "sv": "Parkeringsplatsen kan vara mycket hal – vinterdäck är obligatoriska."
               }
             }
           ],
@@ -1451,6 +1576,12 @@
               "Check the antifreeze levels in your windshield washer fluid.",
               "Watch out for wildlife (deer/moose) at dusk on the road to Djulö.",
               "Avoid parking under roofs where snow slides might occur."
+            ],
+            "sv": [
+              "Ha alltid en isskrapa och en snöborste i bilen.",
+              "Kontrollera frostskyddsgraden i spolarvätskans behållare.",
+              "Se upp för vilt (hjort/älg) i skymningen på vägen till Djulö.",
+              "Undvik att parkera under tak där snöras kan inträffa."
             ]
           }
         }
@@ -1469,7 +1600,8 @@
             "de": "Cluster 1: Hauptbahnhof & Kultur",
             "hu": "1. klaszter: Főpályaudvar és kultúra",
             "ro": "Cluster 1: Gara Centrală și Cultură",
-            "en": "Cluster 1: Central Station & Culture"
+            "en": "Cluster 1: Central Station & Culture",
+            "sv": "Cluster 1: Central Station & Culture"
           },
           "coords": [
             16.203,
@@ -1485,7 +1617,8 @@
             "de": "Der Hauptbahnhof ist der zentrale Verkehrsknotenpunkt.",
             "hu": "A főpályaudvar a központi közlekedési csomópont.",
             "ro": "Gara Centrală este nodul principal de transport.",
-            "en": "The Central Station is the main transit hub."
+            "en": "The Central Station is the main transit hub.",
+            "sv": "Centralstationen är navet för kollektivtrafiken."
           }
         },
         {
@@ -1493,7 +1626,8 @@
             "de": "Kulturhaus Safiren",
             "hu": "Safiren Kultúrház",
             "ro": "Casa de Cultură Safiren",
-            "en": "Safiren Culture House"
+            "en": "Safiren Culture House",
+            "sv": "Safiren Culture House"
           },
           "coords": [
             16.207,
@@ -1509,7 +1643,8 @@
             "de": "Ein kurzer Spaziergang vom Bahnhof aus.",
             "hu": "Rövid séta a vasútállomástól.",
             "ro": "O scurtă plimbare de la gară.",
-            "en": "A quick walk from the station."
+            "en": "A quick walk from the station.",
+            "sv": "En snabb promenad från stationen."
           }
         },
         {
@@ -1517,7 +1652,8 @@
             "de": "Stadsparken",
             "hu": "Stadsparken (Városi Park)",
             "ro": "Stadsparken (Parcul Orașului)",
-            "en": "Stadsparken (City Park)"
+            "en": "Stadsparken (City Park)",
+            "sv": "Stadsparken (City Park)"
           },
           "coords": [
             16.209,
@@ -1533,7 +1669,8 @@
             "de": "Durchqueren Sie den Park auf dem Weg zur nächsten Haltestelle.",
             "hu": "Sétáljon át a parkon a következő megálló felé.",
             "ro": "Traversați parcul în drum spre următoarea stație.",
-            "en": "Cut through the park on your way to the next stop."
+            "en": "Cut through the park on your way to the next stop.",
+            "sv": "Gå genom parken på väg till nästa stopp."
           }
         },
         {
@@ -1541,7 +1678,8 @@
             "de": "Cluster 2: Djulö mit dem Bus",
             "hu": "2. klaszter: Djulö busszal",
             "ro": "Cluster 2: Djulö cu autobuzul",
-            "en": "Cluster 2: Djulö by Bus"
+            "en": "Cluster 2: Djulö by Bus",
+            "sv": "Klustret 2: Djulö med buss"
           },
           "coords": [
             16.185,
@@ -1557,7 +1695,8 @@
             "de": "Nehmen Sie einen Bus vom Stadtzentrum zum Djulö-Gebiet.",
             "hu": "Vegyen buszt a városközpontból a Djulö területére.",
             "ro": "Luați un autobuz din centrul orașului spre zona Djulö.",
-            "en": "Take a bus from the city center to the Djulö area."
+            "en": "Take a bus from the city center to the Djulö area.",
+            "sv": "Ta buss från stadens centrum till Djulö-området."
           }
         },
         {
@@ -1565,7 +1704,8 @@
             "de": "Djulö badplats",
             "hu": "Djulö strand",
             "ro": "Plaja Djulö",
-            "en": "Djulö bathing spot"
+            "en": "Djulö bathing spot",
+            "sv": "Djulös badplats"
           },
           "coords": [
             16.182,
@@ -1581,7 +1721,8 @@
             "de": "Entspannen Sie sich nach der Busfahrt am See.",
             "hu": "Pihenjen a tónál a buszozás után.",
             "ro": "Relaxați-vă lângă lac după călătoria cu autobuzul.",
-            "en": "Relax by the lake after the bus journey."
+            "en": "Relax by the lake after the bus journey.",
+            "sv": "Slappna av vid sjön efter bussresan."
           }
         },
         {
@@ -1589,7 +1730,8 @@
             "de": "Rückkehr ins Zentrum & Kirche St. Eskil",
             "hu": "Vissza a központba és Szent Eskil-templom",
             "ro": "Întoarcere în centru și Biserica Sf. Eskil",
-            "en": "Return to Center & St. Eskil's Church"
+            "en": "Return to Center & St. Eskil's Church",
+            "sv": "Återvänd till centrum & Sankt Eskils kyrka"
           },
           "coords": [
             16.205,
@@ -1605,7 +1747,8 @@
             "de": "Nehmen Sie den Bus zurück und steigen Sie in der Nähe der Kirche aus.",
             "hu": "Vegye vissza a buszt, és szálljon le a templom közelében.",
             "ro": "Luați autobuzul înapoi și coborâți lângă biserică.",
-            "en": "Take the bus back and get off near the church."
+            "en": "Take the bus back and get off near the church.",
+            "sv": "Ta bussen tillbaka och stig av nära kyrkan."
           }
         }
       ],
@@ -1613,7 +1756,8 @@
         "de": "Nutzen Sie das effiziente Busnetz von Katrineholm. Beginnen Sie Ihren Tag im Zentrum und erkunden Sie Safiren und den Stadsparken zu Fuß. Am Mittag nehmen Sie einen Bus zum malerischen Djulö-Gebiet. Dort erkunden Sie das Herrenhaus und verbringen eine lange Pause am See. Am späten Nachmittag bringt Sie ein Bus zurück ins Zentrum für einen ruhigen Besuch in der St. Eskil-Kirche, um den Tag abzuschließen.",
         "hu": "Használja ki Katrineholm hatékony buszhálózatát. Kezdje a napot a központban, és fedezze fel gyalog a Safiren-t és a Stadsparken-t. Délben szálljon buszra a festői Djulö területre. Fedezze fel az udvarházat, és töltsön egy hosszú szünetet a tónál. Késő délután egy busz visszaviszi a központba, hogy egy csendes látogatással zárja a napot a Szent Eskil-templomban.",
         "ro": "Folosiți rețeaua eficientă de autobuze din Katrineholm. Începeți ziua în centru, explorând Safiren și Stadsparken pe jos. La prânz, luați un autobuz spre pitoreasca zonă Djulö. Explorați conacul și petreceți o pauză lungă pe malul lacului. Spre sfârșitul după-amiezii, un autobuz vă va duce înapoi în centru pentru o vizită liniștită la Biserica Sf. Eskil pentru a încheia ziua.",
-        "en": "Make use of Katrineholm's efficient bus network. Start your day in the center, exploring Safiren and Stadsparken on foot. At midday, take a bus to the scenic Djulö area. Explore the manor and spend a long break by the lake. In the late afternoon, a bus will take you back to the center for a quiet visit to St. Eskil's Church to round off the day."
+        "en": "Make use of Katrineholm's efficient bus network. Start your day in the center, exploring Safiren and Stadsparken on foot. At midday, take a bus to the scenic Djulö area. Explore the manor and spend a long break by the lake. In the late afternoon, a bus will take you back to the center for a quiet visit to St. Eskil's Church to round off the day.",
+        "sv": "Använd Katrineholms effektiva bussnät. Börja dagen i centrum och utforska Safiren och Stadsparken till fots. Mitt på dagen tar du en buss till det natursköna Djulö-området. Utforska herrgården och ta en lång paus vid sjön. I sen eftermiddag tar bussen dig tillbaka till centrum för ett lugnt besök i Sankt Eskils kyrka som avslutning på dagen."
       },
       "gastro_picks": {
         "de": [
@@ -1773,6 +1917,12 @@
           "Check the bus schedule in advance, especially for the return trip from Djulö.",
           "Keep some change handy for snacks.",
           "Buses are punctual, so be at the stop on time."
+        ],
+        "sv": [
+          "Köp en dagsbiljett för bussen.",
+          "Kontrollera busstidtabellen i förväg, särskilt för returresan från Djulö.",
+          "Ha lite växel redo för snacks.",
+          "Bussarna är punktliga, så var i tid vid hållplatsen."
         ]
       },
       "variants": {
@@ -1781,7 +1931,8 @@
             "de": "Die Nutzung der öffentlichen Verkehrsmittel in Katrineholm ist ideal, um dem Regen zu entfliehen. Der Tag beginnt am zentralen Bahnhof, wo man direkt in den Bus umsteigen kann. Das Safiren Kulturhaus erreicht man nach einer kurzen, trockenen Fahrt.\n\nMittags bringt der Bus die Besucher direkt zum Djulö-Herrenhaus. Man spart sich den Fußweg im Regen und erreicht das historische Gebäude fast trocken.\n\nNachmittags bietet der Djulö-Badeplatz eine ruhige Atmosphäre. Die Buswartehäuschen bieten Schutz, während man auf die Rückfahrt wartet.\n\nDer Tag endet wieder im Zentrum. Ein kurzer Spaziergang führt zur Eskils-Kirche und zur Kunstgalerie, wobei man die Busfrequenzen nutzen kann, um die Zeit im Freien zu minimieren.",
             "hu": "A tömegközlekedés Katrineholmban ideális az eső elől való menekülésre. A nap a központi állomáson indul, ahol közvetlenül buszra szállhatunk. A Safiren Kulturális Központ csak egy rövid, száraz utazásra van.\n\nDélben a busz egyenesen a Djulö kúriához viszi a látogatókat. Megspórolhatjuk az esős gyaloglást, és szinte szárazon érhetünk a történelmi épülethez.\n\nDélután a Djulö fürdőhely csendes és békés. A buszmegállók fedettek, így védve várhatjuk a visszafelé tartó járatot.\n\nA nap ismét a központban zárul. Egy rövid séta a Szent Eskil-templomhoz és a Művészeti Galériához vezet, miközben a buszjáratok sűrűségét kihasználva minimálisra csökkenthetjük a kinti időt.",
             "ro": "Utilizarea transportului public în Katrineholm este ideală pentru a scăpa de ploaie. Ziua începe la gara centrală, unde puteți schimba direct cu autobuzul. Casa de Cultură Safiren este la o scurtă călătorie uscată.\n\nLa prânz, autobuzul îi duce pe vizitatori direct la Conacul Djulö. Economisiți mersul pe jos prin ploaie și ajungeți aproape uscat la clădirea istorică.\n\nDupă-amiaza, locul de scăldat Djulö oferă o atmosferă liniștită. Stațiile de autobuz sunt acoperite, oferind adăpost în timp ce așteptați întoarcerea.\n\nZiua se încheie în centru. O scurtă plimbare duce la Biserica Sf. Eskil și Galeria de Artă, folosind frecvența autobuzelor pentru a minimiza timpul petrecut afară.",
-            "en": "Using public transport in Katrineholm is ideal for escaping the rain. The day starts at the central station, where you can transfer directly to a bus. The Safiren Culture House is just a short, dry ride away.\n\nAt noon, the bus takes visitors directly to Djulö Manor. You save yourself the walk in the rain and arrive at the historical building almost dry.\n\nIn the afternoon, the Djulö bathing spot offers a peaceful atmosphere. The bus shelters provide protection while waiting for the return trip.\n\nThe day ends back in the center. A short walk leads to Saint Eskil's Church and the Art Gallery, using bus frequencies to minimize time spent outdoors."
+            "en": "Using public transport in Katrineholm is ideal for escaping the rain. The day starts at the central station, where you can transfer directly to a bus. The Safiren Culture House is just a short, dry ride away.\n\nAt noon, the bus takes visitors directly to Djulö Manor. You save yourself the walk in the rain and arrive at the historical building almost dry.\n\nIn the afternoon, the Djulö bathing spot offers a peaceful atmosphere. The bus shelters provide protection while waiting for the return trip.\n\nThe day ends back in the center. A short walk leads to Saint Eskil's Church and the Art Gallery, using bus frequencies to minimize time spent outdoors.",
+            "sv": "Att använda kollektivtrafiken i Katrineholm är idealiskt för att undkomma regnet. Dagen börjar vid centralstationen, där du kan byta direkt till buss. Kulturhuset Safiren ligger bara en kort, torr bussresa bort.\n\nVid lunchtid tar bussen besökare direkt till Djulö herrgård. Du sparar dig promenaden i regnet och anländer till det historiska byggnadskomplexet nästan torr.\n\nPå eftermiddagen erbjuder Djulös badplats en lugn atmosfär. Busshållplatserna ger skydd medan du väntar på returen.\n\nDagen avslutas tillbaka i centrum. En kort promenad leder till Sankt Eskils kyrka och Konsthall, och du kan använda bussarnas frekventa turer för att minimera tiden utomhus."
           },
           "stops": [
             {
@@ -1790,7 +1941,8 @@
                 "de": "Überdachte Bussteige am Bahnhof nutzen.",
                 "hu": "Használja a fedett buszperonokat az állomásnál.",
                 "ro": "Folosiți peroanele acoperite de autobuz de la gară.",
-                "en": "Use the covered bus platforms at the station."
+                "en": "Use the covered bus platforms at the station.",
+                "sv": "Använd de täckta busstaken vid stationen."
               }
             },
             {
@@ -1799,7 +1951,8 @@
                 "de": "Bushaltestelle direkt vor dem Gebäude.",
                 "hu": "Buszmegálló közvetlenül az épület előtt.",
                 "ro": "Stație de autobuz chiar în fața clădirii.",
-                "en": "Bus stop is located directly in front of the building."
+                "en": "Bus stop is located directly in front of the building.",
+                "sv": "Busshållplatsen ligger precis framför byggnaden."
               }
             },
             {
@@ -1808,7 +1961,8 @@
                 "de": "Haltestelle 'Stadsparken' ist nur wenige Schritte vom Parkeingang entfernt.",
                 "hu": "A 'Stadsparken' megálló csak pár lépés a park bejáratától.",
                 "ro": "Stația 'Stadsparken' este la doar câțiva pași de intrare.",
-                "en": "The 'Stadsparken' stop is just a few steps from the park entrance."
+                "en": "The 'Stadsparken' stop is just a few steps from the park entrance.",
+                "sv": "Hållplatsen 'Stadsparken' ligger bara några steg från parkens entré."
               }
             },
             {
@@ -1817,7 +1971,8 @@
                 "de": "Linie 1 fährt regelmäßig Richtung Djulö.",
                 "hu": "Az 1-es vonal rendszeresen közlekedik Djulö felé.",
                 "ro": "Linia 1 circulă regulat spre Djulö.",
-                "en": "Line 1 runs regularly towards the Djulö area."
+                "en": "Line 1 runs regularly towards the Djulö area.",
+                "sv": "Linje 1 går regelbundet mot Djulö-området."
               }
             },
             {
@@ -1826,7 +1981,8 @@
                 "de": "Bushaltestelle hat ein Wartehäuschen als Regenschutz.",
                 "hu": "A buszmegálló fedett, védelmet nyújt az eső ellen.",
                 "ro": "Stația de autobuz are un adăpost contra ploii.",
-                "en": "The bus stop features a shelter for rain protection."
+                "en": "The bus stop features a shelter for rain protection.",
+                "sv": "Busshållplatsen har ett skydd för regnskydd."
               }
             },
             {
@@ -1835,7 +1991,8 @@
                 "de": "Vom Bus aus die beleuchtete Stadt genießen.",
                 "hu": "A buszból élvezhetjük a kivilágított várost.",
                 "ro": "Săvurați orașul iluminat din autobuz.",
-                "en": "Enjoy the view of the illuminated city from the bus."
+                "en": "Enjoy the view of the illuminated city from the bus.",
+                "sv": "Njut av utsikten över den upplysta staden från bussen."
               }
             }
           ],
@@ -1863,6 +2020,12 @@
               "Tickets can be paid contactless with a credit card on the bus.",
               "Buses are well-heated and offer a dry break between stops.",
               "Lockers are available at the station for wet luggage."
+            ],
+            "sv": [
+              "Använd 'Sörmlandstrafiken'-appen för realtidsinformation om tidtabeller.",
+              "Biljetter kan betalas kontaktlöst med kreditkort på bussen.",
+              "Bussarna är väl uppvärmda och erbjuder en torr paus mellan stoppen.",
+              "Skåp finns på stationen för våt packning."
             ]
           }
         },
@@ -1871,7 +2034,8 @@
             "de": "Im Winter sind die Busse in Katrineholm eine warme Oase. Der Tag beginnt am Bahnhof, wo man die frostige Luft nur kurz spürt, bevor man in den beheizten Bus einsteigt. Das Safiren Kulturhaus ist ein schneller Stopp im Warmen.\n\nMittags führt die winterliche Busfahrt zum Djulö-Herrenhaus. Man blickt aus dem Fenster auf die verschneiten Felder Södermanlands, während man zur nächsten warmen Station chauffiert wird.\n\nNachmittags ist der Djulö-Badeplatz ein eisiges Erlebnis. Die Rückfahrt im Bus ist die perfekte Zeit, um die kalten Füße aufzuwärmen.\n\nDer Tag endet im Zentrum bei der Eskils-Kirche. Die Busse fahren zuverlässig auch bei Schnee, sodass man sicher und warm zurück zum Ausgangspunkt kommt.",
             "hu": "Télen a katrineholmi buszok meleg oázist jelentenek. A nap az állomáson indul, ahol csak rövid ideig érezzük a fagyos levegőt, mielőtt felszállunk a fűtött járatra. A Safiren Kulturális Központ gyors és meleg megálló.\n\nDélben a busz havas södermanlandi mezők mentén visz a Djulö kúriához. Az ablakból nézhetjük a tájat, miközben a következő meleg helyszínre utazunk.\n\nDélután a Djulö fürdőhely jeges élményt kínál. A buszos visszatérés tökéletes idő a lábak felmelegítésére.\n\nA nap a központban, a Szent Eskil-templomnál zárul. A buszok hóban is megbízhatóan járnak, így biztosan és melegben érünk vissza a kiindulópontra.",
             "ro": "Iarna, autobuzele din Katrineholm sunt o oază de căldură. Ziua începe la gară, unde simțiți gerul doar puțin timp înainte de a urca în autobuzul încălzit. Casa de Cultură Safiren este o oprire rapidă la căldură.\n\nLa prânz, călătoria cu autobuzul trece pe lângă câmpurile înzăpezite spre Conacul Djulö. Priviți pe geam peisajul în timp ce sunteți transportat spre următoarea locație caldă.\n\nDupă-amiaza, locul de scăldat Djulö este o experiență înghețată. Întoarcerea cu autobuzul este momentul perfect pentru a vă încălzi picioarele.\n\nZiua se încheie în centru la Biserica Sf. Eskil. Autobuzele circulă fiabil și pe zăpadă, asigurând o întoarcere sigură și caldă la punctul de plecare.",
-            "en": "In winter, Katrineholm's buses are a warm oasis. The day starts at the station, where you only feel the frosty air briefly before boarding a heated bus. The Safiren Culture House is a quick stop in the warmth.\n\nAt noon, the winter bus ride leads to Djulö Manor. You can look out at the snowy Södermanland fields while being chauffeured to the next warm location.\n\nIn the afternoon, the Djulö bathing spot is an icy experience. The bus ride back is the perfect time to warm up cold feet.\n\nThe day ends in the center at Saint Eskil's Church. Buses run reliably even in the snow, ensuring a safe and warm return to your starting point."
+            "en": "In winter, Katrineholm's buses are a warm oasis. The day starts at the station, where you only feel the frosty air briefly before boarding a heated bus. The Safiren Culture House is a quick stop in the warmth.\n\nAt noon, the winter bus ride leads to Djulö Manor. You can look out at the snowy Södermanland fields while being chauffeured to the next warm location.\n\nIn the afternoon, the Djulö bathing spot is an icy experience. The bus ride back is the perfect time to warm up cold feet.\n\nThe day ends in the center at Saint Eskil's Church. Buses run reliably even in the snow, ensuring a safe and warm return to your starting point.",
+            "sv": "På vintern är Katrineholms bussar en varm oas. Dagen börjar vid stationen, där du bara känner den frostiga luften en kort stund innan du stiger på en uppvärmd buss. Kulturhuset Safiren är ett snabbt stopp i värmen.\n\nVid lunchtid leder vinterbussresan till Djulö herrgård. Du kan titta ut över de snöiga sörmländska fälten medan du skjutsas till nästa varma plats.\n\nPå eftermiddagen är Djulös badplats en isig upplevelse. Bussresan tillbaka är den perfekta tiden att värma upp kalla fötter.\n\nDagen avslutas i centrum vid Sankt Eskils kyrka. Bussarna går pålitligt även i snö, vilket säkerställer en trygg och varm återresa till startpunkten."
           },
           "stops": [
             {
@@ -1880,7 +2044,8 @@
                 "de": "Beheizter Wartesaal im Bahnhof nutzen.",
                 "hu": "Használja az állomás fűtött várótermét.",
                 "ro": "Folosiți sala de așteptare încălzită din gară.",
-                "en": "Use the heated waiting room in the station."
+                "en": "Use the heated waiting room in the station.",
+                "sv": "Använd den uppvärmda väntsalongen i stationen."
               }
             },
             {
@@ -1889,7 +2054,8 @@
                 "de": "Busse halten fast direkt vor der Tür – minimale Kältezeit.",
                 "hu": "A buszok szinte az ajtó előtt állnak meg – minimális hideg.",
                 "ro": "Autobuzele opresc aproape în fața ușii – timp minim în frig.",
-                "en": "Buses stop almost directly in front of the door – minimal cold exposure."
+                "en": "Buses stop almost directly in front of the door – minimal cold exposure.",
+                "sv": "Bussarna stannar nästan direkt framför dörren – minimal exponering för kylan."
               }
             },
             {
@@ -1898,7 +2064,8 @@
                 "de": "Haltestelle liegt zentral für einen kurzen Winterspaziergang.",
                 "hu": "A megálló központi helyen van egy rövid téli sétához.",
                 "ro": "Stația este situată central pentru o scurtă plimbare de iarnă.",
-                "en": "The stop is centrally located for a quick winter stroll."
+                "en": "The stop is centrally located for a quick winter stroll.",
+                "sv": "Hållplatsen ligger centralt för en snabb vinterpromenad."
               }
             },
             {
@@ -1907,7 +2074,8 @@
                 "de": "Im Winter sind die Busse oft weniger voll als im Sommer.",
                 "hu": "Télen a buszok gyakran kevésbé zsúfoltak, mint nyáron.",
                 "ro": "Iarna autobuzele sunt adesea mai puțin aglomerate decât vara.",
-                "en": "In winter, buses are often less crowded than in summer."
+                "en": "In winter, buses are often less crowded than in summer.",
+                "sv": "På vintern är bussarna ofta mindre fyllda än på sommaren."
               }
             },
             {
@@ -1916,7 +2084,8 @@
                 "de": "Wartehäuschen schützt vor dem kalten Wind vom See.",
                 "hu": "A váróhely véd a tó felől fújó hideg széltől.",
                 "ro": "Adăpostul din stație protejează contra vântului rece de la lac.",
-                "en": "The bus shelter protects against the cold wind from the lake."
+                "en": "The bus shelter protects against the cold wind from the lake.",
+                "sv": "Busshyddan skyddar mot den kalla sjövinden."
               }
             },
             {
@@ -1925,7 +2094,8 @@
                 "de": "Die Busfahrt bietet die beste Sicht auf die Weihnachtsbeleuchtung.",
                 "hu": "A buszról nyílik a legjobb kilátás az ünnepi fényekre.",
                 "ro": "Călătoria cu autobuzul oferă cea mai bună vedere spre luminile de Crăciun.",
-                "en": "The bus ride offers the best view of the festive holiday lights."
+                "en": "The bus ride offers the best view of the festive holiday lights.",
+                "sv": "Bussresan ger den bästa utsikten över de festliga ljusen."
               }
             }
           ],
@@ -1953,6 +2123,12 @@
               "Bus stops are generally well-lit and safe.",
               "Shake snow off your clothes before boarding the bus.",
               "Departure times may vary during public holidays."
+            ],
+            "sv": [
+              "Bussar kan drabbas av mindre förseningar vid kraftigt snöfall.",
+              "Busshållplatserna är vanligtvis väl upplysta och säkra.",
+              "Skaka av snö från kläderna innan du stiger på bussen.",
+              "Avgångstider kan variera under helgdagar."
             ]
           }
         }

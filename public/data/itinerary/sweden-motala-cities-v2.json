@@ -21,7 +21,8 @@
             "de": "Stora Torget (Hauptplatz)",
             "hu": "Stora Torget (Főtér)",
             "ro": "Stora Torget (Piața Mare)",
-            "en": "Stora Torget (Main Square)"
+            "en": "Stora Torget (Main Square)",
+            "sv": "Stora Torget (Main Square)"
           },
           "coords": [
             15.0381,
@@ -36,7 +37,8 @@
             "de": "Beginnen Sie den Tag mit einem Kaffee in einem der Cafés am Platz.",
             "hu": "Indítsd a napot egy kávéval a tér egyik kávézójában!",
             "ro": "Începeți ziua cu o cafea la una dintre cafenelele din piață.",
-            "en": "Start your day with a coffee at one of the square's cafés."
+            "en": "Start your day with a coffee at one of the square's cafés.",
+            "sv": "Börja dagen med en kaffe på ett av torgets kaféer."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Motala Motormuseum",
             "hu": "Motala Motormúzeum",
             "ro": "Muzeul Auto Motala",
-            "en": "Motala Motor Museum"
+            "en": "Motala Motor Museum",
+            "sv": "Motala Motor Museum"
           },
           "coords": [
             15.0442,
@@ -59,7 +62,8 @@
             "de": "Verpassen Sie nicht die umfangreiche Sammlung von Radios und Motorrädern.",
             "hu": "Ne hagyd ki a kiterjedt rádió- és motorkerékpár-gyűjteményt!",
             "ro": "Nu ratați colecția extinsă de radiouri și motociclete.",
-            "en": "Don't miss the extensive collection of radios and motorcycles."
+            "en": "Don't miss the extensive collection of radios and motorcycles.",
+            "sv": "Missa inte den omfattande samlingen av radioapparater och motorcyklar."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Motala Industrimuseum",
             "hu": "Motala Ipari Múzeum",
             "ro": "Muzeul Industrial Motala",
-            "en": "Motala Industry Museum"
+            "en": "Motala Industry Museum",
+            "sv": "Motala Industry Museum"
           },
           "coords": [
             15.0455,
@@ -82,7 +87,8 @@
             "de": "Erfahren Sie mehr über Motalas Geschichte als „Wiege der schwedischen Industrie“.",
             "hu": "Tudj meg többet Motala „a svéd ipar bölcsője” múltjáról!",
             "ro": "Aflați despre istoria Motala ca „leagănul industriei suedeze”.",
-            "en": "Learn about Motala's history as the 'cradle of Swedish industry'."
+            "en": "Learn about Motala's history as the 'cradle of Swedish industry'.",
+            "sv": "Lär dig om Motalas historia som «den svenska industrins vagga»."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Göta-Kanal",
             "hu": "Göta-csatorna",
             "ro": "Canalul Göta",
-            "en": "Göta Canal"
+            "en": "Göta Canal",
+            "sv": "Göta Canal"
           },
           "coords": [
             15.0511,
@@ -105,7 +112,8 @@
             "de": "Machen Sie einen Spaziergang am Kanalufer und beobachten Sie die Boote.",
             "hu": "Sétálj egyet a csatorna partján és nézd a hajókat!",
             "ro": "Faceți o plimbare de-a lungul malului canalului și priviți bărcile.",
-            "en": "Take a stroll along the canal bank and watch the boats."
+            "en": "Take a stroll along the canal bank and watch the boats.",
+            "sv": "Ta en promenad längs kanalkanten och titta på båtarna."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Baltzar von Platens Grab",
             "hu": "Baltzar von Platen sírja",
             "ro": "Mormântul lui Baltzar von Platen",
-            "en": "Baltzar von Platen's Grave"
+            "en": "Baltzar von Platen's Grave",
+            "sv": "Baltzar von Platen's Grave"
           },
           "coords": [
             15.053,
@@ -128,7 +137,8 @@
             "de": "Ein kurzer, aber wichtiger Halt, um den Gründer des Kanals zu ehren.",
             "hu": "Egy rövid, de fontos megálló a csatorna alapítójának tiszteletére.",
             "ro": "O oprire scurtă, dar importantă, pentru a-l onora pe fondatorul canalului.",
-            "en": "A brief but important stop to honor the canal's founder."
+            "en": "A brief but important stop to honor the canal's founder.",
+            "sv": "Ett kort men viktigt stopp för att hedra kanalens grundare."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Abendessen am Hafen",
             "hu": "Vacsora a kikötőben",
             "ro": "Cină în port",
-            "en": "Dinner at the Harbour"
+            "en": "Dinner at the Harbour",
+            "sv": "Dinner at the Harbour"
           },
           "coords": [
             15.0425,
@@ -151,7 +162,8 @@
             "de": "Genießen Sie frischen Fisch aus dem Vätternsee mit Blick auf den Hafen.",
             "hu": "Élvezd a Vättern-tóból fogott friss halat a kikötőre néző kilátással!",
             "ro": "Savurați pește proaspăt din lacul Vättern cu vedere la port.",
-            "en": "Enjoy fresh fish from Lake Vättern with a view of the harbour."
+            "en": "Enjoy fresh fish from Lake Vättern with a view of the harbour.",
+            "sv": "Njut av färsk fisk från Vättern med utsikt över hamnen."
           }
         }
       ],
@@ -159,7 +171,8 @@
         "de": "Der Tag beginnt am belebten Stora Torget, dem Herzen von Motala, bevor Sie in die industrielle Vergangenheit der Stadt eintauchen. Die Motoren- und Industriemuseen zeigen die technische Seele Schwedens. Am Nachmittag verlagert sich der Fokus auf das blaue Band, das die Stadt durchzieht: den Göta-Kanal. Ein Spaziergang entlang des Ufers, vorbei am Grabmal seines visionären Gründers, bietet entspannende Momente. Der Abend klingt mit einem köstlichen Essen am Hafen aus, bei dem Sie die frischen Aromen des Vätternsees genießen und den Tag Revue passieren lassen.",
         "hu": "A nap a nyüzsgő Stora Torget-en, Motala szívében kezdődik, mielőtt elmerülnénk a város ipari múltjában. A Motor- és Ipari Múzeumok bemutatják Svédország mérnöki lelkét. Délután a hangsúly a várost átszelő kék szalagra, a Göta-csatornára helyeződik. Egy séta a partján, elhaladva a látnok alapító sírja mellett, pihentető pillanatokat kínál. Az estét egy finom vacsora zárja a kikötőben, ahol a Vättern-tó friss ízeit élvezve idézhetjük fel a nap eseményeit.",
         "ro": "Ziua începe în animata Stora Torget, inima orașului Motala, înainte de a vă scufunda în trecutul industrial al orașului. Muzeele de Motoare și Industrie dezvăluie sufletul ingineresc al Suediei. După-amiaza, accentul se mută pe panglica albastră care traversează orașul: Canalul Göta. O plimbare de-a lungul malului său, trecând pe lângă mormântul fondatorului său vizionar, oferă momente de relaxare. Seara se încheie cu o cină delicioasă în port, savurând aromele proaspete ale lacului Vättern și rememorând ziua.",
-        "en": "The day begins in the bustling Stora Torget, the heart of Motala, before diving into the city's industrial past. The Motor and Industry Museums reveal Sweden's engineering soul. In the afternoon, the focus shifts to the blue ribbon that runs through the city: the Göta Canal. A stroll along its bank, passing the grave of its visionary founder, offers relaxing moments. The evening concludes with a delicious dinner at the harbour, enjoying the fresh flavours of Lake Vättern and reflecting on the day."
+        "en": "The day begins in the bustling Stora Torget, the heart of Motala, before diving into the city's industrial past. The Motor and Industry Museums reveal Sweden's engineering soul. In the afternoon, the focus shifts to the blue ribbon that runs through the city: the Göta Canal. A stroll along its bank, passing the grave of its visionary founder, offers relaxing moments. The evening concludes with a delicious dinner at the harbour, enjoying the fresh flavours of Lake Vättern and reflecting on the day.",
+        "sv": "Dagen börjar på det livliga Stora Torget, Motalas hjärta, innan den fördjupar sig i stadens industriella förflutna. Motor- och industrimuseerna visar upp Sveriges ingenjörssjäl. På eftermiddagen flyttas fokus till det blå band som rinner genom staden: Göta kanal. En promenad längs dess stränder, förbi grundarens grav, erbjuder lugna stunder. Kvällen avslutas med en utsökt middag i hamnen, där man njuter av Vätterns fräscha smaker och reflekterar över dagen."
       },
       "gastro_picks": {
         "de": [
@@ -355,6 +368,12 @@
           "The museums are close to each other, so plan for a museum block.",
           "Lunch can be nicely combined with the walk along the canal.",
           "Check museum opening hours in advance, especially outside the main season."
+        ],
+        "sv": [
+          "Ha bekväma skor eftersom du kommer att gå mycket.",
+          "Museerna ligger nära varandra, så planera för en museiblok.",
+          "Lunchen kan med fördel kombineras med promenaden längs kanalen.",
+          "Kontrollera museernas öppettider i förväg, särskilt utanför högsäsong."
         ]
       },
       "variants": {
@@ -363,7 +382,8 @@
             "de": "Motala zeigt sich auch im Regen von seiner charmanten Seite. Der Vormittag am Stora Torget ist kurz, bevor die großartigen Museen am Hafen trockenen Unterschlupf und faszinierende Technik bieten. Mittags genießen Sie die Aussicht auf den Göta-Kanal unter dem Regenschirm. Nachmittags ist die Atmosphäre am Kanal besonders mystisch, gefolgt von einem gemütlichen Abendessen direkt am Wasser.",
             "hu": "Motala esőben is tartogat látnivalót, a hangsúly a benti programokra tolódik. A főtér után a kikötő világhírű múzeumai nyújtanak menedéket a technika szerelmeseinek. Ebédidőben a Göta-csatorna párás, misztikus látványa kísér minket. A délutáni séta frissítő, az estét pedig egy meleg kikötői étteremben zárjuk, figyelve az esőcseppeket a Vättern-tó felszínén.",
             "ro": "Motala oferă experiențe plăcute chiar și pe ploaie. Dimineața în Piața Mare este scurtă, urmată de vizite la muzeele fascinante din port, unde sunteți la adăpost. La prânz, Canalul Göta are o atmosferă melancolică sub umbrelă. După-amiaza explorăm istoria industrială, iar seara ne retragem într-un restaurant primitor cu vedere spre portul ploios.",
-            "en": "Motala remains charming even in the rain, with a focus on its excellent indoor attractions. After a quick start at the main square, the harbor's museums provide a dry haven filled with history. The Göta Canal looks mystical in the mist during lunch. The afternoon walk is refreshing with the right gear, ending with a cozy dinner by the water as the rain dances on Lake Vättern."
+            "en": "Motala remains charming even in the rain, with a focus on its excellent indoor attractions. After a quick start at the main square, the harbor's museums provide a dry haven filled with history. The Göta Canal looks mystical in the mist during lunch. The afternoon walk is refreshing with the right gear, ending with a cozy dinner by the water as the rain dances on Lake Vättern.",
+            "sv": "Motala är fortfarande charmigt även i regn, med fokus på sina utmärkta inomhusattraktioner. Efter en snabb start på torget ger hamnmuseerna en torr tillflykt fylld av historia. Göta kanal ser mystisk ut i dimman under lunchen. Eftermiddagens promenad är uppfriskande med rätt utrustning, och avslutas med en mysig middag vid vattnet medan regnet dansar över Vättern."
           },
           "stops": [
             {
@@ -372,7 +392,8 @@
                 "de": "Schnelles Foto am Brunnen, dann in eines der Cafés flüchten.",
                 "hu": "Gyors fotó a szökőkútnál, majd irány a közeli kávézók egyike.",
                 "ro": "O fotografie rapidă la fântână, apoi refugiați-vă într-o cafenea.",
-                "en": "Quick photo by the fountain, then duck into a nearby cafe."
+                "en": "Quick photo by the fountain, then duck into a nearby cafe.",
+                "sv": "Snabb bild vid fontänen, sedan in på ett närliggande kafé."
               }
             },
             {
@@ -381,7 +402,8 @@
                 "de": "Perfekter Ort für Regentage; verbringen Sie hier ruhig mehr Zeit.",
                 "hu": "Tökéletes menedék esőben; nyugodtan maradjunk tovább a gépek közt.",
                 "ro": "Locul perfect pentru zile ploioase; petreceți mai mult timp aici.",
-                "en": "Perfect spot for rainy days; feel free to extend your stay here."
+                "en": "Perfect spot for rainy days; feel free to extend your stay here.",
+                "sv": "Perfekt plats för regniga dagar; förläng gärna ditt besök här."
               }
             },
             {
@@ -390,7 +412,8 @@
                 "de": "Vollständig überdacht, ideal um dem Wetter zu entkommen.",
                 "hu": "Teljesen fedett kiállítás, ideális az eső elől való menekülésre.",
                 "ro": "Expoziție complet acoperită, ideală pentru a scăpa de ploaie.",
-                "en": "Fully indoor exhibit, ideal for escaping the wet weather."
+                "en": "Fully indoor exhibit, ideal for escaping the wet weather.",
+                "sv": "Helt inomhusutställning, idealisk för att undkomma vått väder."
               }
             },
             {
@@ -399,7 +422,8 @@
                 "de": "Die Wege können rutschig sein; festes Schuhwerk ist ratsam.",
                 "hu": "A part menti utak csúszósak lehetnek; vízálló cipő ajánlott.",
                 "ro": "Potecile pot fi alunecoase; se recomandă încălțăminte aderentă.",
-                "en": "Pathways can be slippery; waterproof shoes are highly recommended."
+                "en": "Pathways can be slippery; waterproof shoes are highly recommended.",
+                "sv": "Stigarna kan vara hala; vattentäta skor rekommenderas starkt."
               }
             },
             {
@@ -408,7 +432,8 @@
                 "de": "Kurzer Stopp unter den schützenden Bäumen am Kanalufer.",
                 "hu": "Rövid megálló a csatornaparti fák védelmében.",
                 "ro": "O oprire scurtă sub copacii protectori de pe malul canalului.",
-                "en": "A short stop under the protective trees by the canal bank."
+                "en": "A short stop under the protective trees by the canal bank.",
+                "sv": "Ett kort stopp under skyddande träd vid kanalkanten."
               }
             },
             {
@@ -417,7 +442,8 @@
                 "de": "Wählen Sie einen Platz am Fenster, um den Regen auf dem See zu beobachten.",
                 "hu": "Válasszunk ablak melletti asztalt, és nézzük az esőt a tavon.",
                 "ro": "Alegeți o masă la fereastră pentru a vedea ploaia pe lac.",
-                "en": "Pick a window table to watch the rain fall over the lake."
+                "en": "Pick a window table to watch the rain fall over the lake.",
+                "sv": "Välj ett fönsterbord för att se regnet falla över sjön."
               }
             }
           ],
@@ -449,6 +475,13 @@
               "Take advantage of the Motor Museum's cafe for a dry 'fika' break.",
               "Cobblestones in the city center can be slippery when wet.",
               "A sturdy windproof umbrella is much better than a cheap foldable one."
+            ],
+            "sv": [
+              "Ha en högkvalitativ regnrock; vindar från Vättern kan vara starka.",
+              "Hamnmuseerna ligger på kort gångavstånd från varandra.",
+              "Utnyttja Motor Museumets kafé för en torr fikapaus.",
+              "Kyrkostens kullerstenar kan bli hala när de är våta.",
+              "Ett stadigt vindtätt paraply är mycket bättre än ett billigt hopfällbart."
             ]
           }
         },
@@ -457,7 +490,8 @@
             "de": "Ein Wintertag in Motala ist ruhig und atmosphärisch. Der Morgen am Stora Torget beginnt oft mit Raureif. Die Museen bieten wohlige Wärme und faszinierende Einblicke, während draußen der Göta-Kanal vielleicht zugefroren ist. Da es früh dunkel wird, nutzen wir das Tageslicht für einen kurzen Spaziergang am Kanal, bevor wir uns bei einem gemütlichen Abendessen im Hafen aufwärmen.",
             "hu": "Motala télen csendes és varázslatos, gyakran zúzmarás táj fogadja az utazót. A Stora Torget után a múzeumok melegében merülhetünk el a múltban. A Göta-csatorna ilyenkor különleges arcát mutatja, talán jégpáncél is fedi. Mivel korán sötétedik, a délutánt már a kikötő fényeiben töltjük, végül egy forró vacsora mellett melegszünk fel egy helyi étteremben.",
             "ro": "O zi de iarnă în Motala este liniștită și plină de atmosferă. Dimineața în Piața Mare începe adesea cu chiciură. Muzeele oferă căldură și expoziții fascinante, în timp ce Canalul Göta poate fi înghețat. Deoarece se întunecă devreme, profităm de lumină pentru o scurtă plimbare, apoi ne încălzim cu o cină delicioasă în port.",
-            "en": "A winter day in Motala is quiet and atmospheric, often starting with a frost-covered main square. The museums provide welcome warmth and fascinating history while the Göta Canal might be frozen outside. Since it gets dark early, we maximize the daylight for a canal stroll before retreating to a cozy harbor restaurant for a warming dinner."
+            "en": "A winter day in Motala is quiet and atmospheric, often starting with a frost-covered main square. The museums provide welcome warmth and fascinating history while the Göta Canal might be frozen outside. Since it gets dark early, we maximize the daylight for a canal stroll before retreating to a cozy harbor restaurant for a warming dinner.",
+            "sv": "En vinterdag i Motala är tyst och stämningsfull, ofta med ett frosttäckt torg. Museerna ger välkommen värme och fascinerande historia medan Göta kanal kan vara frusen utomhus. Eftersom det blir mörkt tidigt maximerar vi dagsljuset för en kanalpromenad innan vi söker oss till en mysig hamnrestaurang för en värmande middag."
           },
           "stops": [
             {
@@ -466,7 +500,8 @@
                 "de": "Genießen Sie die Winterbeleuchtung und den morgendlichen Frost.",
                 "hu": "Csodáljuk meg a téli fényeket és a reggeli zúzmarát a téren.",
                 "ro": "Bucurați-vă de luminile de iarnă și de bruma matinală din piață.",
-                "en": "Enjoy the winter lights and the morning frost on the square."
+                "en": "Enjoy the winter lights and the morning frost on the square.",
+                "sv": "Njut av vinterbelysningen och morgonfrosten på torget."
               }
             },
             {
@@ -475,7 +510,8 @@
                 "de": "Herrlich geheizt; der perfekte Ort, um sich aufzuwärmen.",
                 "hu": "Kellemesen fűtött épület; a legjobb hely a felmelegedésre.",
                 "ro": "Încălzit excelent; locul perfect pentru a vă dezmorți.",
-                "en": "Wonderfully heated; the perfect place to warm up your toes."
+                "en": "Wonderfully heated; the perfect place to warm up your toes.",
+                "sv": "Underbart uppvärmt; perfekt för att värma tårna."
               }
             },
             {
@@ -484,7 +520,8 @@
                 "de": "Interessante Geschichte in einer warmen, geschützten Umgebung.",
                 "hu": "Érdekes ipartörténet meleg, védett környezetben.",
                 "ro": "Istorie interesantă într-un mediu cald și protejat.",
-                "en": "Interesting history in a warm, sheltered environment."
+                "en": "Interesting history in a warm, sheltered environment.",
+                "sv": "Intressant historia i en varm, skyddad miljö."
               }
             },
             {
@@ -493,7 +530,8 @@
                 "de": "Suchen Sie nach Eisformationen auf dem Wasser; Vorsicht vor Glätte.",
                 "hu": "Keressük a jégalakzatokat a vízen; vigyázat, a part csúszhat.",
                 "ro": "Căutați formațiunile de gheață de pe apă; atenție la gheață pe mal.",
-                "en": "Look for ice formations on the water; watch out for black ice."
+                "en": "Look for ice formations on the water; watch out for black ice.",
+                "sv": "Håll utkik efter isformationer på vattnet; se upp för svartis."
               }
             },
             {
@@ -502,7 +540,8 @@
                 "de": "Ein kurzer, besinnlicher Stopp in der klaren Winterluft.",
                 "hu": "Rövid, meghitt megálló a friss téli levegőn.",
                 "ro": "O oprire scurtă și liniștită în aerul curat de iarnă.",
-                "en": "A short, contemplative stop in the crisp winter air."
+                "en": "A short, contemplative stop in the crisp winter air.",
+                "sv": "Ett kort, eftertänksamt stopp i den krispiga vinterluften."
               }
             },
             {
@@ -511,7 +550,8 @@
                 "de": "Fragen Sie nach saisonalen schwedischen Winterspezialitäten.",
                 "hu": "Kérdezzünk rá a szezonális svéd téli specialitásokra.",
                 "ro": "Cereți specialități suedeze de sezon pentru iarnă.",
-                "en": "Ask for seasonal Swedish winter specialties and warm drinks."
+                "en": "Ask for seasonal Swedish winter specialties and warm drinks.",
+                "sv": "Fråga efter säsongens svenska vinterdelikatesser och varma drycker."
               }
             }
           ],
@@ -543,6 +583,13 @@
               "Harbor paths can be icy; look for areas treated with gravel or salt.",
               "Museums are often quieter in winter, allowing for a relaxed visit.",
               "Warm up with a hot chocolate or Swedish 'glögg' in a local cafe."
+            ],
+            "sv": [
+              "Solen går ner så tidigt som 15:30 mitt i vintern.",
+              "Ha underställ och klä dig i flera varma lager.",
+              "Hamnpromenader kan vara isiga; leta efter områden som grusats eller saltats.",
+              "Museerna är ofta lugnare på vintern, vilket ger ett avslappnat besök.",
+              "Värm dig med en varm choklad eller svensk 'glögg' på ett lokalt kafé."
             ]
           }
         }
@@ -561,7 +608,8 @@
             "de": "Stora Torget & Fahrradverleih",
             "hu": "Stora Torget & Kerékpárkölcsönzés",
             "ro": "Stora Torget & Închiriere de biciclete",
-            "en": "Stora Torget & Bike Rental"
+            "en": "Stora Torget & Bike Rental",
+            "sv": "Stora Torget & Bike Rental"
           },
           "coords": [
             15.0381,
@@ -576,7 +624,8 @@
             "de": "Mieten Sie Ihr Fahrrad in der Nähe des Platzes, um den Tag zu beginnen.",
             "hu": "Bérelj kerékpárt a tér közelében a nap indításához!",
             "ro": "Închiriați-vă bicicleta de lângă piață pentru a începe ziua.",
-            "en": "Rent your bike near the square to start the day."
+            "en": "Rent your bike near the square to start the day.",
+            "sv": "Hyr din cykel nära torget för att starta dagen."
           }
         },
         {
@@ -584,7 +633,8 @@
             "de": "Motala Motormuseum",
             "hu": "Motala Motormúzeum",
             "ro": "Muzeul Auto Motala",
-            "en": "Motala Motor Museum"
+            "en": "Motala Motor Museum",
+            "sv": "Motala Motor Museum"
           },
           "coords": [
             15.0442,
@@ -599,7 +649,8 @@
             "de": "Parken Sie Ihr Fahrrad und tauchen Sie in die Welt der Motoren ein.",
             "hu": "Parkold le a biciklidet, és merülj el a motorok világában!",
             "ro": "Parcați-vă bicicleta și scufundați-vă în lumea motoarelor.",
-            "en": "Park your bike and dive into the world of engines."
+            "en": "Park your bike and dive into the world of engines.",
+            "sv": "Ställ cykeln och fördjupa dig i motorernas värld."
           }
         },
         {
@@ -607,7 +658,8 @@
             "de": "Schleusentreppe von Borenshult",
             "hu": "Borenshulti zsiliprendszer",
             "ro": "Scările de ecluze de la Borenshult",
-            "en": "Borenshult Lock Staircase"
+            "en": "Borenshult Lock Staircase",
+            "sv": "Borenshult Lock Staircase"
           },
           "coords": [
             15.1115,
@@ -622,7 +674,8 @@
             "de": "Ein beeindruckendes Schauspiel, wenn Boote die fünf Schleusen passieren.",
             "hu": "Lenyűgöző látvány, ahogy a hajók áthaladnak az öt zsilipen.",
             "ro": "Un spectacol impresionant când bărcile trec prin cele cinci ecluze.",
-            "en": "An impressive sight as boats navigate the five locks."
+            "en": "An impressive sight as boats navigate the five locks.",
+            "sv": "En imponerande syn när båtarna passerar de fem slussarna."
           }
         },
         {
@@ -630,7 +683,8 @@
             "de": "Mittagessen am Kanal",
             "hu": "Ebéd a csatornánál",
             "ro": "Prânz la canal",
-            "en": "Lunch by the Canal"
+            "en": "Lunch by the Canal",
+            "sv": "Lunch by the Canal"
           },
           "coords": [
             15.113,
@@ -645,7 +699,8 @@
             "de": "Es gibt charmante Cafés und Restaurants direkt an den Schleusen.",
             "hu": "A zsilipeknél bájos kávézók és éttermek találhatók.",
             "ro": "Există cafenele și restaurante fermecătoare chiar lângă ecluze.",
-            "en": "There are charming cafés and restaurants right by the locks."
+            "en": "There are charming cafés and restaurants right by the locks.",
+            "sv": "Det finns charmiga kaféer och restauranger precis vid slussarna."
           }
         },
         {
@@ -653,7 +708,8 @@
             "de": "Göta-Kanal Radweg",
             "hu": "Göta-csatorna kerékpárút",
             "ro": "Pista de biciclete a Canalului Göta",
-            "en": "Göta Canal Cycle Path"
+            "en": "Göta Canal Cycle Path",
+            "sv": "Göta Canal Cycle Path"
           },
           "coords": [
             15.0683,
@@ -668,7 +724,8 @@
             "de": "Genießen Sie die flache und malerische Fahrt zurück in Richtung Stadt.",
             "hu": "Élvezd a sík és festői utat vissza a város felé!",
             "ro": "Bucurați-vă de plimbarea plată și pitorească înapoi spre oraș.",
-            "en": "Enjoy the flat and scenic ride back towards the city."
+            "en": "Enjoy the flat and scenic ride back towards the city.",
+            "sv": "Njut av den flacka och natursköna turen tillbaka mot staden."
           }
         },
         {
@@ -676,7 +733,8 @@
             "de": "Varamobaden Strand",
             "hu": "Varamobaden strand",
             "ro": "Plaja Varamobaden",
-            "en": "Varamobaden Beach"
+            "en": "Varamobaden Beach",
+            "sv": "Varamobaden Beach"
           },
           "coords": [
             14.9815,
@@ -691,7 +749,8 @@
             "de": "Perfekt für eine erfrischende Pause und vielleicht ein Bad im Vätternsee.",
             "hu": "Tökéletes egy frissítő szünethez, és talán egy úszáshoz a Vättern-tóban.",
             "ro": "Perfect pentru o pauză revigorantă și poate o baie în lacul Vättern.",
-            "en": "Perfect for a refreshing break and maybe a swim in Lake Vättern."
+            "en": "Perfect for a refreshing break and maybe a swim in Lake Vättern.",
+            "sv": "Perfekt för en uppfriskande paus och kanske ett dopp i Vättern."
           }
         },
         {
@@ -699,7 +758,8 @@
             "de": "Fahrradrückgabe & Abendessen",
             "hu": "Kerékpár leadása & Vacsora",
             "ro": "Returnarea bicicletei & Cină",
-            "en": "Bike Return & Dinner"
+            "en": "Bike Return & Dinner",
+            "sv": "Bike Return & Dinner"
           },
           "coords": [
             15.0385,
@@ -714,7 +774,8 @@
             "de": "Geben Sie Ihr Fahrrad zurück und belohnen Sie sich mit einem herzhaften Abendessen.",
             "hu": "Add le a kerékpárt, és jutalmazd meg magad egy kiadós vacsorával!",
             "ro": "Returnați bicicleta și răsplătiți-vă cu o cină copioasă.",
-            "en": "Return your bike and reward yourself with a hearty dinner."
+            "en": "Return your bike and reward yourself with a hearty dinner.",
+            "sv": "Lämna tillbaka cykeln och belöna dig själv med en rejäl middag."
           }
         }
       ],
@@ -722,7 +783,8 @@
         "de": "Mit dem Fahrrad beginnt der Tag im Stadtzentrum, bevor Sie sich auf den Weg zum Motormuseum machen. Von dort führt die Route entlang des berühmten Göta-Kanals zur beeindruckenden Schleusentreppe von Borenshult. Nach dem Mittagessen mit Blick auf das Wasser geht es auf dem malerischen Radweg weiter. Der Höhepunkt des Nachmittags ist ein langer, entspannender Aufenthalt am Varamobaden, dem längsten Binnenseestrand Nordeuropas. Schließlich radeln Sie zurück ins Zentrum, um den Tag bei einem wohlverdienten Abendessen ausklingen zu lassen.",
         "hu": "Kerékpárral a nap a városközpontban kezdődik, mielőtt a Motormúzeum felé vennénk az irányt. Onnan az útvonal a híres Göta-csatorna mentén vezet a lenyűgöző Borenshult-i zsiliprendszerhez. A vízre néző ebéd után a festői kerékpárúton haladunk tovább. A délután fénypontja egy hosszú, pihentető megálló a Varamobaden strandon, Észak-Európa leghosszabb tóparti strandján. Végül visszatekerünk a központba, hogy egy jól megérdemelt vacsorával zárjuk a napot.",
         "ro": "Pe bicicletă, ziua începe în centrul orașului înainte de a vă îndrepta spre Muzeul Motoarelor. De acolo, traseul vă duce de-a lungul faimosului Canal Göta până la impresionantele scări de ecluze de la Borenshult. După prânzul cu vedere la apă, continuați pe pista pitorească de biciclete. Punctul culminant al după-amiezii este o oprire lungă și relaxantă la Varamobaden, cea mai lungă plajă interioară din Europa de Nord. În cele din urmă, pedalați înapoi în centru pentru a încheia ziua cu o cină binemeritată.",
-        "en": "On two wheels, the day starts in the city center before heading to the Motor Museum. From there, the route takes you along the famous Göta Canal to the impressive Borenshult lock staircase. After lunch with a view of the water, you'll continue along the scenic cycle path. The highlight of the afternoon is a long, relaxing stop at Varamobaden, Northern Europe's longest inland beach. Finally, you'll cycle back to the center to end the day with a well-deserved dinner."
+        "en": "On two wheels, the day starts in the city center before heading to the Motor Museum. From there, the route takes you along the famous Göta Canal to the impressive Borenshult lock staircase. After lunch with a view of the water, you'll continue along the scenic cycle path. The highlight of the afternoon is a long, relaxing stop at Varamobaden, Northern Europe's longest inland beach. Finally, you'll cycle back to the center to end the day with a well-deserved dinner.",
+        "sv": "På två hjul börjar dagen i stadens centrum innan du styr mot Motor Museum. Därifrån leder rutten längs den berömda Göta kanal till den imponerande Borenshults slusstrappa. Efter lunch med utsikt över vattnet fortsätter du längs den natursköna cykelvägen. Eftermiddagens höjdpunkt är ett långt, avkopplande stopp vid Varamobaden, Nordens längsta insjöstrand. Slutligen cyklar du tillbaka till centrum för att avsluta dagen med en välförtjänt middag."
       },
       "gastro_picks": {
         "de": [
@@ -876,6 +938,12 @@
           "Bring a water bottle and snacks for the ride.",
           "The cycle path along the canal is flat and suitable for all fitness levels.",
           "A helmet is highly recommended."
+        ],
+        "sv": [
+          "Kontrollera däcktrycket innan du ger dig av.",
+          "Ta med en vattenflaska och något lätt att äta under turen.",
+          "Cykelvägen längs kanalen är flack och passar alla konditionsnivåer.",
+          "Hjälm rekommenderas starkt."
         ]
       },
       "variants": {
@@ -884,7 +952,8 @@
             "de": "Radfahren in Motala bei Regen erfordert die richtige Ausrüstung, bietet aber leere Wege. Nach dem Start am Stora Torget führt die Route zu den Museen. Die Fahrt zum Borenshult-Schleusentreppe ist erfrischend, wobei der Göta-Kanal-Radweg eine tolle Kulisse bietet. Den Nachmittag verbringen wir windgeschützt am Varamobaden, bevor wir die Räder zurückgeben.",
             "hu": "Az esős bringázás Motalában kalandos, de a megfelelő öltözetben élvezetes. A főtér után a múzeumoknál tarthatunk száraz szünetet. A Borenshult-zsilipsorig tartó tekerés frissítő a csatorna mentén. Varamobaden strandja ilyenkor szeles és vad, de látványos. A napot egy kiadós vacsorával zárjuk a városközpontban.",
             "ro": "Mersul pe bicicletă în Motala pe ploaie necesită echipament adecvat, dar oferă trasee libere. După Piața Mare, ne adăpostim la muzee. Drumul spre ecluzele Borenshult este revigorant de-a lungul canalului. După-amiaza la Varamobaden este spectaculoasă datorită valurilor, iar seara returnăm bicicletele și cinăm la căldură.",
-            "en": "Cycling Motala in the rain requires proper gear but rewards you with empty paths. Start at the square and head to the museums for a dry break. The ride to Borenshult locks along the canal is refreshing. Varamobaden beach looks dramatic in the rain; take it in before returning the bikes for a well-deserved dinner in the center."
+            "en": "Cycling Motala in the rain requires proper gear but rewards you with empty paths. Start at the square and head to the museums for a dry break. The ride to Borenshult locks along the canal is refreshing. Varamobaden beach looks dramatic in the rain; take it in before returning the bikes for a well-deserved dinner in the center.",
+            "sv": "Att cykla i Motala i regn kräver rätt utrustning men ger ödsliga vägar som belöning. Börja vid torget och sök dig till museerna för en torr paus. Turen till Borenshult längs kanalen är uppfriskande. Varamobaden blir dramatiskt i regnet; njut av det innan du lämnar tillbaka cyklarna för en välförtjänt middag i centrum."
           },
           "stops": [
             {
@@ -893,7 +962,8 @@
                 "de": "Fragen Sie nach einem Fahrrad mit Schutzblechen.",
                 "hu": "Kérjünk sárvédővel felszerelt kerékpárt a kölcsönzőben.",
                 "ro": "Cereți o bicicletă cu aripi de protecție împotreva noroiului.",
-                "en": "Ask for a bike equipped with mudguards at the rental shop."
+                "en": "Ask for a bike equipped with mudguards at the rental shop.",
+                "sv": "Be om en cykel med skärmar hos uthyrningen."
               }
             },
             {
@@ -902,7 +972,8 @@
                 "de": "Nutzen Sie die Zeit, um Ihre Kleidung etwas zu trocknen.",
                 "hu": "Használjuk ki az időt a ruházatunk megszárítására.",
                 "ro": "Folosiți timpul pentru a vă usca puțin hainele.",
-                "en": "Use the indoor time to let your gear dry out a bit."
+                "en": "Use the indoor time to let your gear dry out a bit.",
+                "sv": "Använd inomhustiden för att låta din utrustning torka lite."
               }
             },
             {
@@ -911,7 +982,8 @@
                 "de": "Vorsicht auf den nassen Holzstegen bei den Schleusen.",
                 "hu": "Vigyázzunk a vizes fafelületeken a zsilipnél, csúszhatnak.",
                 "ro": "Atenție la platformele de lemn ude de lângă ecluze.",
-                "en": "Be careful on wet wooden surfaces near the locks."
+                "en": "Be careful on wet wooden surfaces near the locks.",
+                "sv": "Var försiktig på våta trädäck nära slussarna."
               }
             },
             {
@@ -920,7 +992,8 @@
                 "de": "Suchen Sie sich einen Platz unter der Markise oder drinnen.",
                 "hu": "Keressünk asztalt az előtető alatt vagy bent.",
                 "ro": "Căutați un loc sub copertină sau în interior.",
-                "en": "Find a seat under an awning or head inside to stay dry."
+                "en": "Find a seat under an awning or head inside to stay dry.",
+                "sv": "Hitta en plats under ett markis eller gå in för att hålla dig torr."
               }
             },
             {
@@ -929,7 +1002,8 @@
                 "de": "Achten Sie auf Pfützen; der Weg ist meist gut befestigt.",
                 "hu": "Figyeljünk a tócsákra; az út nagy része jól karbantartott.",
                 "ro": "Atenție la bălți; traseul este în mare parte bine întreținut.",
-                "en": "Watch out for puddles; the path is generally well-maintained."
+                "en": "Watch out for puddles; the path is generally well-maintained.",
+                "sv": "Se upp för pölar; stigen är generellt väl underhållen."
               }
             },
             {
@@ -938,7 +1012,8 @@
                 "de": "Genießen Sie die raue See von einem Café aus.",
                 "hu": "Csodáljuk a hullámzó tavat egy parti kávézóból.",
                 "ro": "Admirați lacul agitat din interiorul unei cafenele de pe plajă.",
-                "en": "Enjoy the dramatic lake views from a beachside cafe."
+                "en": "Enjoy the dramatic lake views from a beachside cafe.",
+                "sv": "Njut av dramatiska sjöutsikter från ett strandkafé."
               }
             },
             {
@@ -947,7 +1022,8 @@
                 "de": "Ein warmes Getränk ist jetzt genau das Richtige.",
                 "hu": "Egy forró ital most lesz a legélvezetesebb.",
                 "ro": "O băutură caldă este exact ce aveți nevoie acum.",
-                "en": "A hot drink will feel extra rewarding after your ride."
+                "en": "A hot drink will feel extra rewarding after your ride.",
+                "sv": "En varm dryck känns extra belönande efter turen."
               }
             }
           ],
@@ -979,6 +1055,13 @@
               "Store your valuables in waterproof panniers or dry bags.",
               "The canal path is flat and manageable even in rainy conditions.",
               "Check a rain radar app to time your museum visits during downpours."
+            ],
+            "sv": [
+              "Ta med vattentäta byxor och skoöverdrag om möjligt.",
+              "Bromssträckorna är längre på våta vägar; kör försiktigt.",
+              "Förvara värdesaker i vattentäta pakethållarväskor eller torrpåsar.",
+              "Kanalen är flack och hanterbar även i blöta förhållanden.",
+              "Kolla en regnradarapp för att tajma museibesöken under skyfall."
             ]
           }
         },
@@ -987,7 +1070,8 @@
             "de": "Radfahren im schwedischen Winter ist ein Erlebnis für sich. Die Wege am Göta-Kanal sind oft geräumt, aber Vorsicht vor Glätte ist geboten. Wir erkunden die Museen am Hafen und radeln dann zur Borenshult-Schleusentreppe, die im Frost erstarrt ist. Den Nachmittag verbringen wir am ruhigen Varamobaden, bevor wir bei Dunkelheit ins Zentrum zurückkehren.",
             "hu": "A svéd téli bringázás különleges élmény. A csatorna menti utakat általában takarítják, de a jégfoltokra figyelni kell. A kikötői múzeumok után a befagyott Borenshult-zsilipsorhoz tekerünk. A Varamobaden strandja ilyenkor kihalt és fenséges. Mivel korán sötétedik, a nap végét már a városközpont melegében töltjük.",
             "ro": "Mersul pe bicicletă în iarna suedeză este o experiență unică. Traseele de pe canal sunt curățate, dar atenție la gheață. Explorăm muzeele, apoi pedalăm spre ecluzele Borenshult înghețate. După-amiaza la Varamobaden este liniștită, iar întoarcerea spre centru se face sub luminile orașului, deoarece se întunecă devreme.",
-            "en": "Cycling in a Swedish winter is an adventure. While canal paths are often cleared, watch out for ice. Explore the harbor museums, then ride to the frost-covered Borenshult locks. Varamobaden beach is serene and empty this time of year. With early sunset, you'll ride back to the center under city lights for a cozy dinner."
+            "en": "Cycling in a Swedish winter is an adventure. While canal paths are often cleared, watch out for ice. Explore the harbor museums, then ride to the frost-covered Borenshult locks. Varamobaden beach is serene and empty this time of year. With early sunset, you'll ride back to the center under city lights for a cozy dinner.",
+            "sv": "Att cykla under en svensk vinter är ett äventyr. Även om kanalstigar ofta plogas, se upp för is. Utforska hamnmuseerna och cykla sedan till de frosttäcka Borenshult-slussarna. Varamobaden är stilla och tomt den här årstiden. Med tidig nattfällning cyklar du tillbaka till centrum under stadens ljus för en mysig middag."
           },
           "stops": [
             {
@@ -996,7 +1080,8 @@
                 "de": "Prüfen Sie, ob das Fahrrad mit Winterreifen ausgestattet ist.",
                 "hu": "Ellenőrizzük, hogy a kerékpáron van-e téli gumi.",
                 "ro": "Verificați dacă bicicleta este echipată cu anvelope de iarnă.",
-                "en": "Check if the rental bike is equipped with winter tires."
+                "en": "Check if the rental bike is equipped with winter tires.",
+                "sv": "Kontrollera om hyrcykeln är utrustad med vinterdäck."
               }
             },
             {
@@ -1005,7 +1090,8 @@
                 "de": "Wärmen Sie sich auf, bevor Sie die Fahrt fortsetzen.",
                 "hu": "Melegedjünk fel alaposan a következő szakasz előtt.",
                 "ro": "Încălziți-vă bine înainte de a continua traseul.",
-                "en": "Warm up thoroughly before continuing your ride."
+                "en": "Warm up thoroughly before continuing your ride.",
+                "sv": "Värm upp ordentligt innan du fortsätter din tur."
               }
             },
             {
@@ -1014,7 +1100,8 @@
                 "de": "Wunderschöne Eiskristalle an den Schleusentoren.",
                 "hu": "Gyönyörű jégkristályok a zsilipkapukon.",
                 "ro": "Cristale de gheață superbe pe porțile ecluzelor.",
-                "en": "Beautiful ice crystals often form on the lock gates."
+                "en": "Beautiful ice crystals often form on the lock gates.",
+                "sv": "Vackra iskristaller bildas ofta på slussportarna."
               }
             },
             {
@@ -1023,7 +1110,8 @@
                 "de": "Genießen Sie eine warme Suppe, um die Körpertemperatur zu halten.",
                 "hu": "Együnk egy forró levest, hogy tartsuk a testhőmérsékletet.",
                 "ro": "Savurați o supă caldă pentru a vă menține temperatura.",
-                "en": "Enjoy a hot soup to keep your body temperature up."
+                "en": "Enjoy a hot soup to keep your body temperature up.",
+                "sv": "Njut av en varm soppa för att hålla kroppstemperaturen uppe."
               }
             },
             {
@@ -1032,7 +1120,8 @@
                 "de": "Fahren Sie vorsichtig auf eventuellen Eisplatten.",
                 "hu": "Tekerjünk óvatosan az esetleges jégfoltokon.",
                 "ro": "Conduceți cu mare atenție pe eventualele plăci de gheață.",
-                "en": "Ride cautiously, watching for patches of black ice."
+                "en": "Ride cautiously, watching for patches of black ice.",
+                "sv": "Cykla försiktigt och håll utkik efter fläckar med svartis."
               }
             },
             {
@@ -1041,7 +1130,8 @@
                 "de": "Der Wind am See kann im Winter sehr schneidend sein.",
                 "hu": "A tóparti szél télen nagyon metsző lehet.",
                 "ro": "Vântul de pe lac poate fi foarte tăios iarna.",
-                "en": "The wind off the lake can be very biting in winter."
+                "en": "The wind off the lake can be very biting in winter.",
+                "sv": "Vinden från sjön kan vara mycket bitande på vintern."
               }
             },
             {
@@ -1050,7 +1140,8 @@
                 "de": "Stellen Sie sicher, dass Ihre Fahrradlichter funktionieren.",
                 "hu": "Ellenőrizzük, hogy jól működnek-e a lámpák.",
                 "ro": "Asigurați-vă că luminile bicicletei funcționează corect.",
-                "en": "Ensure your bike lights are working for the dark return."
+                "en": "Ensure your bike lights are working for the dark return.",
+                "sv": "Se till att dina cykellampor fungerar inför mörka hemfärder."
               }
             }
           ],
@@ -1082,6 +1173,13 @@
               "Daylight is very limited; plan to be near the center by 15:30.",
               "Stay hydrated, even if you don't feel thirsty in the cold.",
               "Watch out for snow removal vehicles on the cycle paths."
+            ],
+            "sv": [
+              "Ha vindtäta handskar och en tunn mössa under hjälmen.",
+              "Undvik hastiga inbromsningar och skarpa svängar på hala underlag.",
+              "Dagtid är mycket begränsad; planera att vara nära centrum klockan 15:30.",
+              "Håll dig vätskesatt även om du inte känner dig törstig i kylan.",
+              "Se upp för snöröjningsfordon på cykelvägarna."
             ]
           }
         }
@@ -1100,7 +1198,8 @@
             "de": "Cluster 1: Parken im Zentrum & Stora Torget",
             "hu": "1. klaszter: Parkolás a központban és Stora Torget",
             "ro": "Cluster 1: Parcare în centru & Stora Torget",
-            "en": "Cluster 1: Downtown Parking & Stora Torget"
+            "en": "Cluster 1: Downtown Parking & Stora Torget",
+            "sv": "Kluster 1: Centrumparkering & Stora Torget"
           },
           "coords": [
             15.039,
@@ -1116,7 +1215,8 @@
             "de": "Parken Sie Ihr Auto in der Nähe und beginnen Sie mit einem Spaziergang über den Platz.",
             "hu": "Parkolj le a közelben, és kezdd egy sétával a téren!",
             "ro": "Parcați mașina în apropiere și începeți cu o plimbare prin piață.",
-            "en": "Park your car nearby and start with a stroll through the square."
+            "en": "Park your car nearby and start with a stroll through the square.",
+            "sv": "Parkera bilen i närheten och börja med en promenad genom torget."
           }
         },
         {
@@ -1124,7 +1224,8 @@
             "de": "Motala Motormuseum",
             "hu": "Motala Motormúzeum",
             "ro": "Muzeul Auto Motala",
-            "en": "Motala Motor Museum"
+            "en": "Motala Motor Museum",
+            "sv": "Motala Motormuseum"
           },
           "coords": [
             15.0442,
@@ -1140,7 +1241,8 @@
             "de": "Ein kurzer Spaziergang vom Platz zum Museum.",
             "hu": "Rövid séta a tértől a múzeumig.",
             "ro": "O scurtă plimbare de la piață la muzeu.",
-            "en": "A short walk from the square to the museum."
+            "en": "A short walk from the square to the museum.",
+            "sv": "En kort promenad från torget till museet."
           }
         },
         {
@@ -1148,7 +1250,8 @@
             "de": "Motala Industrimuseum",
             "hu": "Motala Ipari Múzeum",
             "ro": "Muzeul Industrial Motala",
-            "en": "Motala Industry Museum"
+            "en": "Motala Industry Museum",
+            "sv": "Motala Industrimuseum"
           },
           "coords": [
             15.0455,
@@ -1164,7 +1267,8 @@
             "de": "Das Museum liegt direkt nebenan, Sie brauchen nicht zum Auto zurückzukehren.",
             "hu": "A múzeum rögtön mellette van, nem kell visszamenni az autóhoz.",
             "ro": "Muzeul este chiar alături, nu este nevoie să vă întoarceți la mașină.",
-            "en": "The museum is right next door, no need to return to the car."
+            "en": "The museum is right next door, no need to return to the car.",
+            "sv": "Museet ligger vägg i vägg, ingen anledning att återvända till bilen."
           }
         },
         {
@@ -1172,7 +1276,8 @@
             "de": "Cluster 2: Fahrt zur Schleusentreppe von Borenshult",
             "hu": "2. klaszter: Utazás a Borenshult-i zsiliprendszerhez",
             "ro": "Cluster 2: Conduceți la Scările de ecluze Borenshult",
-            "en": "Cluster 2: Drive to Borenshult Lock Staircase"
+            "en": "Cluster 2: Drive to Borenshult Lock Staircase",
+            "sv": "Kluster 2: Kör till Borenshults slussled"
           },
           "coords": [
             15.1115,
@@ -1188,7 +1293,8 @@
             "de": "Finden Sie einen Parkplatz und beobachten Sie das faszinierende Schleusenmanöver.",
             "hu": "Keress egy parkolót, és nézd meg a lenyűgöző zsilipelési manővert!",
             "ro": "Găsiți un loc de parcare și urmăriți manevra fascinantă a ecluzei.",
-            "en": "Find a parking spot and watch the fascinating lock maneuvering."
+            "en": "Find a parking spot and watch the fascinating lock maneuvering.",
+            "sv": "Hitta en parkeringsplats och se den fascinerande slussmanövern."
           }
         },
         {
@@ -1196,7 +1302,8 @@
             "de": "Mittagessen in Borenshult",
             "hu": "Ebéd Borenshultban",
             "ro": "Prânz în Borenshult",
-            "en": "Lunch in Borenshult"
+            "en": "Lunch in Borenshult",
+            "sv": "Lunch i Borenshult"
           },
           "coords": [
             15.113,
@@ -1212,7 +1319,8 @@
             "de": "Genießen Sie Ihr Mittagessen mit direktem Blick auf den Kanal.",
             "hu": "Fogyaszd el az ebédet közvetlen kilátással a csatornára!",
             "ro": "Bucurați-vă de prânz cu o vedere directă asupra canalului.",
-            "en": "Enjoy your lunch with a direct view of the canal."
+            "en": "Enjoy your lunch with a direct view of the canal.",
+            "sv": "Njut av lunchen med direkt utsikt över kanalen."
           }
         },
         {
@@ -1220,7 +1328,8 @@
             "de": "Cluster 3: Fahrt zum Varamobaden Strand",
             "hu": "3. klaszter: Utazás a Varamobaden strandra",
             "ro": "Cluster 3: Conduceți la Plaja Varamobaden",
-            "en": "Cluster 3: Drive to Varamobaden Beach"
+            "en": "Cluster 3: Drive to Varamobaden Beach",
+            "sv": "Kluster 3: Kör till Varamobaden"
           },
           "coords": [
             14.9815,
@@ -1236,7 +1345,8 @@
             "de": "Verbringen Sie den Nachmittag an diesem wunderschönen Sandstrand.",
             "hu": "Töltsd a délutánt ezen a gyönyörű homokos strandon!",
             "ro": "Petreceți după-amiaza pe această plajă frumoasă cu nisip.",
-            "en": "Spend the afternoon at this beautiful sandy beach."
+            "en": "Spend the afternoon at this beautiful sandy beach.",
+            "sv": "Tillbringa eftermiddagen på denna vackra sandstrand."
           }
         },
         {
@@ -1244,7 +1354,8 @@
             "de": "Abendessen mit Seeblick",
             "hu": "Vacsora tóparti kilátással",
             "ro": "Cină cu vedere la lac",
-            "en": "Dinner with Lake View"
+            "en": "Dinner with Lake View",
+            "sv": "Middag med sjöutsikt"
           },
           "coords": [
             14.983,
@@ -1260,7 +1371,8 @@
             "de": "Schließen Sie den Tag mit einem Abendessen in einem Restaurant am Strand ab.",
             "hu": "Zárd a napot egy vacsorával a strand egyik éttermében!",
             "ro": "Încheiați ziua cu o cină la un restaurant de pe plajă.",
-            "en": "End the day with dinner at a restaurant on the beach."
+            "en": "End the day with dinner at a restaurant on the beach.",
+            "sv": "Avsluta dagen med middag på en restaurang vid stranden."
           }
         }
       ],
@@ -1268,7 +1380,8 @@
         "de": "Der Tag mit dem Auto ist in drei Cluster aufgeteilt. Sie beginnen im Stadtzentrum, wo Sie nach dem Parken die Museen und den Hauptplatz zu Fuß erkunden. Danach fahren Sie zum zweiten Cluster, den berühmten Schleusen von Borenshult, wo Sie das technische Wunderwerk bestaunen und zu Mittag essen. Der letzte Teil des Tages führt Sie zum weitläufigen Varamobaden-Strand, einem perfekten Ort zum Entspannen und Schwimmen. Der Tag endet dort mit einem Abendessen bei Sonnenuntergang über dem Vätternsee.",
         "hu": "Az autós nap három klaszterre oszlik. A városközpontban kezdesz, ahol parkolás után gyalogosan fedezed fel a múzeumokat és a főteret. Ezután a második klaszterhez, a híres Borenshult-i zsilipekhez hajtasz, ahol megcsodálhatod a mérnöki csodát és megebédelhetsz. A nap utolsó szakasza a tágas Varamobaden strandra vezet, amely tökéletes hely a pihenésre és úszásra. A nap ott ér véget egy naplementés vacsorával a Vättern-tó felett.",
         "ro": "Ziua cu mașina este împărțită în trei clustere. Începeți în centrul orașului, unde, după parcare, explorați muzeele și piața principală pe jos. Apoi, conduceți la al doilea cluster, faimoasele ecluze de la Borenshult, unde admirați minunea inginerească și luați prânzul. Ultima parte a zilei vă duce la plaja expansivă Varamobaden, un loc perfect pentru relaxare și înot. Ziua se încheie acolo cu o cină la apus, cu vedere la lacul Vättern.",
-        "en": "The day by car is split into three clusters. You'll start in the city center, exploring the museums and main square on foot after parking. Then, you'll drive to the second cluster, the famous Borenshult locks, to admire the engineering marvel and have lunch. The final leg of the day takes you to the expansive Varamobaden beach, a perfect spot for relaxation and swimming. The day concludes there with a sunset dinner overlooking Lake Vättern."
+        "en": "The day by car is split into three clusters. You'll start in the city center, exploring the museums and main square on foot after parking. Then, you'll drive to the second cluster, the famous Borenshult locks, to admire the engineering marvel and have lunch. The final leg of the day takes you to the expansive Varamobaden beach, a perfect spot for relaxation and swimming. The day concludes there with a sunset dinner overlooking Lake Vättern.",
+        "sv": "Dagen med bil är uppdelad i tre kluster. Du börjar i stadens centrum och utforskar museerna och huvudtorget till fots efter parkering. Därefter kör du till det berömda Borenshult för att beundra ingenjörskonsten och äta lunch. Den sista etappen tar dig till den vidsträckta Varamobaden, ett perfekt ställe för vila och bad. Dagen avslutas där med en solnedgångsmiddag med utsikt över Vättern."
       },
       "gastro_picks": {
         "de": [
@@ -1464,6 +1577,12 @@
           "A GPS is helpful for navigating between clusters.",
           "Allow enough time for traffic, especially in the summer.",
           "Pack swimwear for Varamobaden!"
+        ],
+        "sv": [
+          "Kontrollera parkeringsmöjligheter och avgifter i förväg.",
+          "En GPS är användbar för att navigera mellan klustren.",
+          "Avsätt tillräckligt med tid för trafik, särskilt på sommaren.",
+          "Packa badkläder för Varamobaden!"
         ]
       },
       "variants": {
@@ -1472,7 +1591,8 @@
             "de": "Mit dem Auto ist Motala an Regentagen äußerst komfortabel. Wir parken bequem im Zentrum und besuchen die Museen am Hafen, ohne nass zu werden. Die Fahrt nach Borenshult bietet tolle Ausblicke auf den Kanal direkt aus dem Fenster. Der Nachmittag am Varamobaden lässt sich wunderbar mit einer Fahrt entlang des Ufers kombinieren, bevor wir den Tag im Restaurant abschließen.",
             "hu": "Autóval az esős Motala is kényelmesen felfedezhető. A központban parkolva száraz lábbal jutunk el a kikötői múzeumokba. A Borenshult-zsilipsorhoz vezető út látványos a kocsi ablakából is. Varamobaden strandjánál tehetünk egy kört az autóval a parton, majd egy tóparti étteremben élvezhetjük a vacsorát a zuhogó esőben.",
             "ro": "Cu mașina, explorarea orașului Motala pe ploaie este foarte confortabilă. Parcăm în centru și vizităm muzeele din port fără a ne uda. Drumul spre Borenshult oferă vederi frumoase spre canal direct din mașină. După-amiaza la Varamobaden poate fi savurată cu o plimbare pe faleză, urmată de o cină relaxantă.",
-            "en": "Exploring Motala by car on a rainy day is effortless and dry. Park centrally to visit the harbor museums with minimal exposure to the rain. The drive to Borenshult locks offers great canal views from the comfort of your seat. Enjoy a scenic afternoon drive along Varamobaden beach before settling into a lake-view restaurant for dinner."
+            "en": "Exploring Motala by car on a rainy day is effortless and dry. Park centrally to visit the harbor museums with minimal exposure to the rain. The drive to Borenshult locks offers great canal views from the comfort of your seat. Enjoy a scenic afternoon drive along Varamobaden beach before settling into a lake-view restaurant for dinner.",
+            "sv": "Att utforska Motala med bil en regnig dag är enkelt och torrt. Parkera centralt för att besöka hamnmuseerna med minimal exponering för regnet. Bilfärden till Borenshult erbjuder fina kanalupplevelser från bekvämligheten av din plats. Njut av en naturskön eftermiddagsfärd längs Varamobaden innan du slår dig ner på en restaurang med sjöutsikt för middag."
           },
           "stops": [
             {
@@ -1481,7 +1601,8 @@
                 "de": "Nutzen Sie Parkhäuser, um trocken ins Zentrum zu gelangen.",
                 "hu": "Használjunk parkolóházat, hogy szárazon jussunk a központba.",
                 "ro": "Folosiți parcările etajate pentru a ajunge în centru fără a vă uda.",
-                "en": "Use covered parking garages to stay dry while heading to the square."
+                "en": "Use covered parking garages to stay dry while heading to the square.",
+                "sv": "Använd täckta parkeringsgarage för att hålla dig torr på väg till torget."
               }
             },
             {
@@ -1490,7 +1611,8 @@
                 "de": "Großer Parkplatz direkt vor dem Eingang vorhanden.",
                 "hu": "Tágas parkoló áll rendelkezésre közvetlenül a bejáratnál.",
                 "ro": "Parcare mare disponibilă chiar în fața intrării.",
-                "en": "Ample parking is available right in front of the museum entrance."
+                "en": "Ample parking is available right in front of the museum entrance.",
+                "sv": "Det finns gott om parkering precis framför museientsrén."
               }
             },
             {
@@ -1499,7 +1621,8 @@
                 "de": "Kurzer Fußweg vom Parkplatz am Hafen.",
                 "hu": "Csak pár lépés a kikötői parkolótól.",
                 "ro": "Scurtă plimbare de la parcarea din port.",
-                "en": "Just a very short walk from the harbor parking area."
+                "en": "Just a very short walk from the harbor parking area.",
+                "sv": "Bara en mycket kort promenad från hamnparkeringen."
               }
             },
             {
@@ -1508,7 +1631,8 @@
                 "de": "Gute Parkmöglichkeiten direkt an den Schleusen.",
                 "hu": "Jó parkolási lehetőség közvetlenül a zsilipsornál.",
                 "ro": "Posibilități bune de parcare chiar lângă ecluze.",
-                "en": "Good parking options are available right by the locks."
+                "en": "Good parking options are available right by the locks.",
+                "sv": "Bra parkeringsmöjligheter finns precis vid slussarna."
               }
             },
             {
@@ -1517,7 +1641,8 @@
                 "de": "Parken Sie nah am Restaurant, um den Regen zu meiden.",
                 "hu": "Parkoljunk az étterem közelében az eső miatt.",
                 "ro": "Parcați aproape de restaurant pentru a evita ploaia.",
-                "en": "Park close to the restaurant to minimize time in the rain."
+                "en": "Park close to the restaurant to minimize time in the rain.",
+                "sv": "Parkera nära restaurangen för att minimera tiden i regnet."
               }
             },
             {
@@ -1526,7 +1651,8 @@
                 "de": "Die Uferstraße bietet auch bei Regen schöne Aussichten.",
                 "hu": "A part menti út esőben is szép kilátást nyújt.",
                 "ro": "Drumul de pe mal oferă priveliști frumoase chiar și pe ploaie.",
-                "en": "The coastal road offers beautiful views even through raindrops."
+                "en": "The coastal road offers beautiful views even through raindrops.",
+                "sv": "Kustvägen erbjuder vackra vyer även genom regndroppar."
               }
             },
             {
@@ -1535,7 +1661,8 @@
                 "de": "Viele Restaurants am Varamobaden haben eigene Parkplätze.",
                 "hu": "Sok Varamobaden-i étteremnek saját parkolója van.",
                 "ro": "Multe restaurante din Varamobaden au parcări proprii.",
-                "en": "Many restaurants at Varamobaden have their own parking lots."
+                "en": "Many restaurants at Varamobaden have their own parking lots.",
+                "sv": "Många restauranger vid Varamobaden har egna parkeringsplatser."
               }
             }
           ],
@@ -1567,6 +1694,13 @@
               "Use seat heaters to warm up quickly after brief outdoor stops.",
               "Visibility across the lake can be limited during heavy downpours.",
               "The car acts as a perfect mobile base to stay dry between stops."
+            ],
+            "sv": [
+              "Se upp för vattenplaning på vägen mot Varamobaden.",
+              "Ha några mynt redo eller ladda ner en lokal parkeringsapp.",
+              "Använd sätesvärme för att snabbt bli varm efter korta utomhusstopp.",
+              "Sikten över sjön kan vara begränsad vid kraftigt skyfall.",
+              "Bilen fungerar som en perfekt mobil bas för att hålla sig torr mellan stoppen."
             ]
           }
         },
@@ -1575,7 +1709,8 @@
             "de": "Motala im Winter mit dem Auto zu erkunden, ist sicher und warm. Wir besuchen den frostigen Stora Torget und verbringen Zeit in den Museen am Hafen. Die Fahrt zum Borenshult-Schleusentreppe zeigt die Schönheit der verschneiten Kanallandschaft. Am Varamobaden genießen wir die weite, winterliche Aussicht auf den Vättern, bevor wir den Tag bei einem gemütlichen Abendessen ausklingen lassen.",
             "hu": "Télen az autó a legbiztonságosabb és legmelegebb módja Motala felfedezésének. A fagyos főtér után a kikötői múzeumok fűtött termeiben időzünk. A Borenshult-zsilipsorhoz vezető út télen is gyönyörű a havas tájban. Varamobaden strandjánál a jeges Vättern látványa lenyűgöző, az estét pedig egy hangulatos étteremben zárjuk.",
             "ro": "Explorarea orașului Motala iarna cu mașina este sigură și călduroasă. Vizităm Piața Mare înghețată și petrecem timp în muzeele din port. Drumul spre ecluzele Borenshult dezvăluie frumusețea peisajului de iarnă de-a lungul canalului. La Varamobaden admirăm vederea spre lacul înghețat, apoi încheiem ziua cu o cină caldă.",
-            "en": "Exploring Motala by car in winter is the warmest and safest option. Visit the frosty main square and spend time in the well-heated harbor museums. The drive to Borenshult locks showcases the snowy canal landscape perfectly. At Varamobaden, enjoy the vast winter views of Lake Vättern before ending your day with a cozy dinner."
+            "en": "Exploring Motala by car in winter is the warmest and safest option. Visit the frosty main square and spend time in the well-heated harbor museums. The drive to Borenshult locks showcases the snowy canal landscape perfectly. At Varamobaden, enjoy the vast winter views of Lake Vättern before ending your day with a cozy dinner.",
+            "sv": "Att utforska Motala med bil på vintern är det varmaste och säkraste alternativet. Besök det frostiga huvudtorget och tillbringa tid i de väluppvärmda hamnmuseerna. Bilfärden till Borenshult visar den snöiga kanalmiljön perfekt. Vid Varamobaden kan du njuta av de vida vinterutsikterna över Vättern innan du avslutar dagen med en mysig middag."
           },
           "stops": [
             {
@@ -1584,7 +1719,8 @@
                 "de": "Achten Sie auf die Parkregeln bei Schneeräumung.",
                 "hu": "Figyeljünk a parkolási szabályokra hóeltakarítás idején.",
                 "ro": "Atenție la regulile de parcare în timpul deszăpezirii.",
-                "en": "Be mindful of temporary parking rules during snow removal."
+                "en": "Be mindful of temporary parking rules during snow removal.",
+                "sv": "Var uppmärksam på tillfälliga parkeringsregler vid snöröjning."
               }
             },
             {
@@ -1593,7 +1729,8 @@
                 "de": "Parkplätze werden meist schnell geräumt.",
                 "hu": "A parkolót általában gyorsan letakarítják a hótolók.",
                 "ro": "Parcarea este de obicei curățată rapid de zăpadă.",
-                "en": "The parking lot is usually cleared of snow very quickly."
+                "en": "The parking lot is usually cleared of snow very quickly.",
+                "sv": "Parkeringsplatsen plogas vanligtvis mycket snabbt."
               }
             },
             {
@@ -1602,7 +1739,8 @@
                 "de": "Vorsicht vor Eis auf dem Weg vom Auto zum Museum.",
                 "hu": "Vigyázzunk a jégre az autó és a múzeum közötti rövid úton.",
                 "ro": "Atenție la gheață pe drumul scurt de la mașină la muzeu.",
-                "en": "Watch for icy patches between the car and the museum entrance."
+                "en": "Watch for icy patches between the car and the museum entrance.",
+                "sv": "Se upp för isfläckar mellan bilen och museientsrén."
               }
             },
             {
@@ -1611,7 +1749,8 @@
                 "de": "Die Straßen zum Kanal sind im Winter gut befahrbar.",
                 "hu": "A csatornához vezető utak télen is jól járhatók.",
                 "ro": "Drumurile spre canal sunt bine întreținute și iarna.",
-                "en": "Roads to the canal are generally well-maintained in winter."
+                "en": "Roads to the canal are generally well-maintained in winter.",
+                "sv": "Vägarna till kanalen är generellt välskötta på vintern."
               }
             },
             {
@@ -1620,7 +1759,8 @@
                 "de": "Genießen Sie den Komfort Ihres vorgeheizten Autos.",
                 "hu": "Élvezzük az előmelegített autónk kényelmét.",
                 "ro": "Bucurați-vă de confortul mașinii deja încălzite.",
-                "en": "Enjoy the comfort of your pre-heated car between stops."
+                "en": "Enjoy the comfort of your pre-heated car between stops.",
+                "sv": "Njut av komforten i din förvärmda bil mellan stoppen."
               }
             },
             {
@@ -1629,7 +1769,8 @@
                 "de": "Wunderschöne Aussichtspunkte entlang des Seeufers.",
                 "hu": "Gyönyörű kilátópontok a tóparti út mentén.",
                 "ro": "Puncte de belvedere superbe de-a lungul malului lacului.",
-                "en": "Beautiful lookout points are available along the lakeside drive."
+                "en": "Beautiful lookout points are available along the lakeside drive.",
+                "sv": "Vackra utsiktsplatser finns längs sjövägen."
               }
             },
             {
@@ -1638,7 +1779,8 @@
                 "de": "Im Winter ist es hier besonders ruhig und idyllisch.",
                 "hu": "Télen ez a környék különösen csendes és idilli.",
                 "ro": "Iarna, această zonă este extrem de liniștită și idilică.",
-                "en": "It is exceptionally quiet and idyllic here during winter."
+                "en": "It is exceptionally quiet and idyllic here during winter.",
+                "sv": "Det är ovanligt tyst och idylliskt här under vintern."
               }
             }
           ],
@@ -1670,6 +1812,13 @@
               "Batteries drain faster in the cold; charge your phone in the car.",
               "Avoid driving on small, unlit rural roads after dark.",
               "Main roads in Motala are prioritized for snow plowing."
+            ],
+            "sv": [
+              "Säkerställ att hyrbilen är utrustad med riktiga vinterdäck.",
+              "Ha en isskrapa och en liten snöskyffel i bagaget.",
+              "Batterier tappar laddning snabbare i kylan; ladda din telefon i bilen.",
+              "Undvik att köra på små, obelysta landsvägar efter mörkrets inbrott.",
+              "Huvudvägarna i Motala prioriteras för snöröjning."
             ]
           }
         }
@@ -1688,7 +1837,8 @@
             "de": "Ankunft am Stora Torget",
             "hu": "Érkezés a Stora Torget-re",
             "ro": "Sosire la Stora Torget",
-            "en": "Arrival at Stora Torget"
+            "en": "Arrival at Stora Torget",
+            "sv": "Ankomst till Stora Torget"
           },
           "coords": [
             15.0381,
@@ -1704,7 +1854,8 @@
             "de": "Nehmen Sie einen Bus zum Hauptplatz, um Ihr Abenteuer zu beginnen.",
             "hu": "Menj busszal a főtérre, hogy elkezdődjön a kalandod!",
             "ro": "Luați un autobuz până în piața principală pentru a vă începe aventura.",
-            "en": "Take a bus to the main square to start your adventure."
+            "en": "Take a bus to the main square to start your adventure.",
+            "sv": "Ta bussen till huvudtorget för att börja ditt äventyr."
           }
         },
         {
@@ -1712,7 +1863,8 @@
             "de": "Motala Motormuseum",
             "hu": "Motala Motormúzeum",
             "ro": "Muzeul Auto Motala",
-            "en": "Motala Motor Museum"
+            "en": "Motala Motor Museum",
+            "sv": "Motala Motormuseum"
           },
           "coords": [
             15.0442,
@@ -1728,7 +1880,8 @@
             "de": "Vom Platz aus ist es nur ein kurzer Spaziergang.",
             "hu": "A tértől csak egy rövid séta.",
             "ro": "Este doar o scurtă plimbare de la piață.",
-            "en": "It's just a short walk from the square."
+            "en": "It's just a short walk from the square.",
+            "sv": "Det är bara en kort promenad från torget."
           }
         },
         {
@@ -1736,7 +1889,8 @@
             "de": "Fahrt zur Schleusentreppe von Borenshult",
             "hu": "Buszozás a Borenshult-i zsiliprendszerhez",
             "ro": "Călătorie cu autobuzul la Scările de ecluze Borenshult",
-            "en": "Bus ride to Borenshult Lock Staircase"
+            "en": "Bus ride to Borenshult Lock Staircase",
+            "sv": "Bussresa till Borenshults slussled"
           },
           "coords": [
             15.1115,
@@ -1752,7 +1906,8 @@
             "de": "Prüfen Sie den Busfahrplan. Die Fahrt bietet einen schönen Blick auf die Landschaft.",
             "hu": "Ellenőrizd a buszmenetrendet. Az út szép kilátást nyújt a vidékre.",
             "ro": "Verificați orarul autobuzului. Călătoria oferă o priveliște frumoasă asupra peisajului rural.",
-            "en": "Check the bus schedule. The ride offers a nice view of the countryside."
+            "en": "Check the bus schedule. The ride offers a nice view of the countryside.",
+            "sv": "Kolla busstidtabellen. Resan bjuder på fina landskapsvyer."
           }
         },
         {
@@ -1760,7 +1915,8 @@
             "de": "Mittagessen & Spaziergang am Kanal",
             "hu": "Ebéd és séta a csatornánál",
             "ro": "Prânz și plimbare pe canal",
-            "en": "Lunch & Canal Walk"
+            "en": "Lunch & Canal Walk",
+            "sv": "Lunch & kanalpromenad"
           },
           "coords": [
             15.113,
@@ -1776,7 +1932,8 @@
             "de": "Stärken Sie sich, bevor Sie mit dem Bus zum Strand weiterfahren.",
             "hu": "Erősítsd meg magad, mielőtt busszal továbbmész a strandra!",
             "ro": "Luați o masă înainte de a continua cu autobuzul spre plajă.",
-            "en": "Grab a bite to eat before continuing by bus to the beach."
+            "en": "Grab a bite to eat before continuing by bus to the beach.",
+            "sv": "Ät något innan du fortsätter med bussen till stranden."
           }
         },
         {
@@ -1784,7 +1941,8 @@
             "de": "Fahrt zum Varamobaden Strand",
             "hu": "Buszozás a Varamobaden strandra",
             "ro": "Călătorie cu autobuzul la Plaja Varamobaden",
-            "en": "Bus ride to Varamobaden Beach"
+            "en": "Bus ride to Varamobaden Beach",
+            "sv": "Bussresa till Varamobaden"
           },
           "coords": [
             14.9815,
@@ -1800,7 +1958,8 @@
             "de": "Der Hauptstrand ist gut mit öffentlichen Verkehrsmitteln zu erreichen.",
             "hu": "A fő strand könnyen megközelíthető tömegközlekedéssel.",
             "ro": "Plaja principală este ușor accesibilă cu transportul public.",
-            "en": "The main beach is easily accessible by public transport."
+            "en": "The main beach is easily accessible by public transport.",
+            "sv": "Huvudstranden är lättillgänglig med kollektivtrafik."
           }
         },
         {
@@ -1808,7 +1967,8 @@
             "de": "Rückfahrt ins Zentrum & Abendessen",
             "hu": "Vissza a központba és vacsora",
             "ro": "Întoarcere în centru și cină",
-            "en": "Return to Center & Dinner"
+            "en": "Return to Center & Dinner",
+            "sv": "Återvänd till centrum & middag"
           },
           "coords": [
             15.0385,
@@ -1824,7 +1984,8 @@
             "de": "Nehmen Sie einen Bus zurück und finden Sie ein schönes Restaurant für das Abendessen.",
             "hu": "Menj vissza busszal, és keress egy jó éttermet vacsorára!",
             "ro": "Luați un autobuz înapoi și găsiți un restaurant drăguț pentru cină.",
-            "en": "Take a bus back and find a nice restaurant for dinner."
+            "en": "Take a bus back and find a nice restaurant for dinner.",
+            "sv": "Ta bussen tillbaka och hitta en trevlig restaurang för middag."
           }
         }
       ],
@@ -1832,7 +1993,8 @@
         "de": "Mit öffentlichen Verkehrsmitteln erkunden Sie Motala effizient. Der Tag startet am zentralen Stora Torget. Nach einem kurzen Spaziergang zum Motormuseum nehmen Sie den Bus zu den beeindruckenden Schleusen von Borenshult. Dort verbringen Sie die Mittagszeit. Am Nachmittag bringt Sie ein weiterer Bus zum weitläufigen Varamobaden-Strand, wo Sie sich entspannen und die Natur genießen können. Am Abend kehren Sie bequem mit dem Bus ins Stadtzentrum zurück, um den Tag bei einem gemütlichen Abendessen ausklingen zu lassen.",
         "hu": "Tömegközlekedéssel hatékonyan fedezheted fel Motalát. A nap a központi Stora Torget-en indul. Egy rövid séta után a Motormúzeumhoz busszal jutsz el a lenyűgöző Borenshult-i zsilipekhez. Ott töltöd az ebédidőt. Délután egy másik busz visz a tágas Varamobaden strandra, ahol pihenhetsz és élvezheted a természetet. Este kényelmesen visszatérhetsz busszal a városközpontba, hogy egy hangulatos vacsorával zárd a napot.",
         "ro": "Cu transportul public, puteți explora Motala eficient. Ziua începe în piața centrală, Stora Torget. După o scurtă plimbare la Muzeul Motoarelor, luați autobuzul către impresionantele ecluze de la Borenshult. Acolo vă petreceți pauza de prânz. După-amiaza, un alt autobuz vă duce la plaja expansivă Varamobaden, unde vă puteți relaxa și bucura de natură. Seara, vă întoarceți convenabil în centrul orașului cu autobuzul pentru a încheia ziua cu o cină relaxantă.",
-        "en": "Using public transport, you can explore Motala efficiently. The day starts at the central Stora Torget. After a short walk to the Motor Museum, you'll take a bus to the impressive Borenshult locks. You'll spend your lunchtime there. In the afternoon, another bus takes you to the expansive Varamobaden beach for relaxation and nature enjoyment. In the evening, you'll conveniently return to the city center by bus to end the day with a leisurely dinner."
+        "en": "Using public transport, you can explore Motala efficiently. The day starts at the central Stora Torget. After a short walk to the Motor Museum, you'll take a bus to the impressive Borenshult locks. You'll spend your lunchtime there. In the afternoon, another bus takes you to the expansive Varamobaden beach for relaxation and nature enjoyment. In the evening, you'll conveniently return to the city center by bus to end the day with a leisurely dinner.",
+        "sv": "Med kollektivtrafik kan du utforska Motala effektivt. Dagen börjar på centrala Stora Torget. Efter en kort promenad till Motormuseet tar du bussen till de imponerande Borenshults slussar. Du äter lunch där. På eftermiddagen tar ytterligare en buss dig till den vidsträckta Varamobaden för vila och naturupplevelser. På kvällen återvänder du smidigt till stadens centrum med buss för en lugn middag."
       },
       "gastro_picks": {
         "de": [
@@ -2028,6 +2190,12 @@
           "Download the local public transport app for real-time schedules.",
           "Be mindful of the last bus departure times, especially from the beach.",
           "Some bus routes may have less frequent service on weekends."
+        ],
+        "sv": [
+          "Köp ett dagskort för bussen för att spara pengar.",
+          "Ladda ner den lokala kollektivtrafikappen för realtidsscheman.",
+          "Var uppmärksam på sista bussavgångarna, särskilt från stranden.",
+          "Vissa busslinjer kan ha glesare turer på helgerna."
         ]
       },
       "variants": {
@@ -2036,7 +2204,8 @@
             "de": "Der öffentliche Nahverkehr in Motala ist an Regentagen eine gute Wahl. Kurze Wege zwischen Bushaltestellen und Sehenswürdigkeiten minimieren den Kontakt mit dem Wetter. Wir besuchen die Museen am Hafen und nehmen dann den Bus zur Borenshult-Schleusentreppe. Nach dem Mittagessen geht es weiter zum Varamobaden, bevor wir den Tag gemütlich im Zentrum abschließen.",
             "hu": "Motala tömegközlekedése remek választás esős napokon. A megállók és a látnivalók közötti rövid távolságok miatt keveset kell ázni. A kikötői múzeumok után busszal megyünk a Borenshult-zsilipsorhoz. Ebéd után a Varamobaden strand következik, majd a napot a belvárosban, egy kellemes vacsorával zárjuk.",
             "ro": "Transportul public din Motala este o opțiune excelentă pe ploaie. Distanțele mici între stațiile de autobuz și obiective reduc timpul petrecut în ploaie. Vizităm muzeele, apoi luăm autobuzul spre ecluzele Borenshult. După prânz continuăm spre Varamobaden, încheind ziua confortabil în centrul orașului.",
-            "en": "Public transit in Motala is a reliable choice for rainy days. Short walks between bus stops and attractions mean less time out in the wet. Visit the harbor museums, then catch a bus to Borenshult locks. After lunch, take the transit to Varamobaden beach, finishing your day with a dry and cozy dinner in the center."
+            "en": "Public transit in Motala is a reliable choice for rainy days. Short walks between bus stops and attractions mean less time out in the wet. Visit the harbor museums, then catch a bus to Borenshult locks. After lunch, take the transit to Varamobaden beach, finishing your day with a dry and cozy dinner in the center.",
+            "sv": "Kollektivtrafik i Motala är ett pålitligt val för regniga dagar. Kortare promenader mellan hållplatser och sevärdheter innebär mindre tid i blötan. Besök hamnmuseerna och ta sedan bussen till Borenshult. Efter lunchen åker du vidare till Varamobaden, och avslutar dagen med en torr och mysig middag i centrum."
           },
           "stops": [
             {
@@ -2045,7 +2214,8 @@
                 "de": "Die Haltestellen verfügen oft über Unterstände.",
                 "hu": "A megállók többsége fedett, így nem ázunk várakozás közben.",
                 "ro": "Majoritatea stațiilor sunt acoperite, protejându-vă de ploaie.",
-                "en": "Most bus stops have shelters to keep you dry while waiting."
+                "en": "Most bus stops have shelters to keep you dry while waiting.",
+                "sv": "De flesta busshållplatser har vindskydd som håller dig torr under väntan."
               }
             },
             {
@@ -2054,7 +2224,8 @@
                 "de": "Nur ein kurzer Weg von der Haltestelle am Hafen.",
                 "hu": "Csak egy rövid séta a kikötői buszmegállótól.",
                 "ro": "Doar o scurtă plimbare de la stația de autobuz din port.",
-                "en": "Only a short walk from the nearest harbor bus stop."
+                "en": "Only a short walk from the nearest harbor bus stop.",
+                "sv": "Endast en kort promenad från närmaste hamnbuss hållplats."
               }
             },
             {
@@ -2063,7 +2234,8 @@
                 "de": "Genießen Sie die trockene Fahrt durch die Stadt.",
                 "hu": "Élvezzük a száraz utazást a városon keresztül.",
                 "ro": "Bucurați-vă de călătoria uscată prin oraș.",
-                "en": "Enjoy the dry ride as you travel through the city."
+                "en": "Enjoy the dry ride as you travel through the city.",
+                "sv": "Njut av den torra resan när du färdas genom staden."
               }
             },
             {
@@ -2072,7 +2244,8 @@
                 "de": "Suchen Sie ein Lokal in der Nähe der Bushaltestelle.",
                 "hu": "Válasszunk éttermet a buszmegálló közelében.",
                 "ro": "Alegeți un local aproape de stația de autobuz.",
-                "en": "Pick a dining spot close to the bus stop for convenience."
+                "en": "Pick a dining spot close to the bus stop for convenience.",
+                "sv": "Välj en restaurang nära hållplatsen för bekvämlighet."
               }
             },
             {
@@ -2081,7 +2254,8 @@
                 "de": "Die Busse sind im Regen oft angenehm geheizt.",
                 "hu": "A buszok esőben általában kellemesen fűtöttek.",
                 "ro": "Autobuzele sunt de obicei bine încălzite pe timp de ploaie.",
-                "en": "Buses are usually comfortably heated during rainy weather."
+                "en": "Buses are usually comfortably heated during rainy weather.",
+                "sv": "Bussarna är vanligtvis väl uppvärmda vid regnigt väder."
               }
             },
             {
@@ -2090,7 +2264,8 @@
                 "de": "Die Rückfahrt zum Zentrum ist schnell und trocken.",
                 "hu": "A visszajutás a központba gyors és száraz.",
                 "ro": "Întoarcerea spre centru este rapidă și uscată.",
-                "en": "The return trip to the center is quick and keeps you dry."
+                "en": "The return trip to the center is quick and keeps you dry.",
+                "sv": "Återresan till centrum är snabb och håller dig torr."
               }
             }
           ],
@@ -2122,6 +2297,13 @@
               "Allow a few extra minutes to walk to stops in the rain.",
               "Buses run frequently between the harbor area and Varamobaden.",
               "A small, foldable umbrella is easy to carry on the bus."
+            ],
+            "sv": [
+              "Använd Östgötatrafiken-appen för realtidsscheman.",
+              "Köp biljetter digitalt i förväg via appen.",
+              "Räkna med några extra minuter för promenad till hållplatser i regnet.",
+              "Bussar går ofta mellan hamnområdet och Varamobaden.",
+              "Ett litet, hopfällbart paraply är lätt att ta med på bussen."
             ]
           }
         },
@@ -2130,7 +2312,8 @@
             "de": "Motalas Busse sind im Winter warm und zuverlässig. Wir erkunden den frostigen Stora Torget und nutzen den Bus, um zu den Museen am Hafen zu gelangen. Die Fahrt zur Borenshult-Schleusentreppe bietet winterliche Ausblicke, ohne zu frieren. Nach einem kurzen Besuch am Varamobaden kehren wir mit dem Bus ins Zentrum zurück, um den Abend bei einem warmen Essen zu verbringen.",
             "hu": "Motala buszai télen is melegek és megbízhatóak. A fagyos főtér után busszal kényelmesen eljutunk a kikötői múzeumokhoz. A Borenshult-zsilipsorhoz vezető út télen is látványos a busz ablakából. Egy rövid Varamobaden-i séta után a busszal gyorsan visszaérünk a belvárosba, ahol egy forró vacsora vár ránk.",
             "ro": "Autobuzele din Motala sunt calde și de încredere pe timp de iarnă. Explorăm Piața Mare, apoi folosim transportul public spre muzeele din port. Călătoria spre Borenshult oferă vederi de iarnă fără a suferi de frig. După o vizită scurtă la Varamobaden, revenim cu autobuzul în centru pentru o cină caldă.",
-            "en": "Motala's buses are warm and reliable during the winter months. After seeing the frosty main square, use the transit to reach the harbor museums comfortably. The ride to Borenshult locks offers snowy views from a heated cabin. Following a crisp visit to Varamobaden, the bus whisks you back to the center for a warming dinner."
+            "en": "Motala's buses are warm and reliable during the winter months. After seeing the frosty main square, use the transit to reach the harbor museums comfortably. The ride to Borenshult locks offers snowy views from a heated cabin. Following a crisp visit to Varamobaden, the bus whisks you back to the center for a warming dinner.",
+            "sv": "Motalas bussar är varma och pålitliga under vintermånaderna. Efter att ha sett det frostiga huvudtorget, använd kollektivtrafiken för att bekvämt nå hamnmuseerna. Resan till Borenshult bjuder på snöiga vyer från ett uppvärmt kupé. Efter ett krispigt besök vid Varamobaden tar bussen dig tillbaka till centrum för en värmande middag."
           },
           "stops": [
             {
@@ -2139,7 +2322,8 @@
                 "de": "Haltestellen werden im Winter meist schnee- und eisfrei gehalten.",
                 "hu": "A megállókat télen általában takarítják a hótól és jégtől.",
                 "ro": "Stațiile sunt de obicei curățate de zăpadă și gheață iarna.",
-                "en": "Bus stops are usually kept clear of snow and ice in winter."
+                "en": "Bus stops are usually kept clear of snow and ice in winter.",
+                "sv": "Busshållplatser hålls vanligtvis fria från snö och is på vintern."
               }
             },
             {
@@ -2148,7 +2332,8 @@
                 "de": "Genießen Sie die Wärme im Museum nach dem kurzen Fußweg.",
                 "hu": "Élvezzük a múzeum melegét a rövid séta után.",
                 "ro": "Bucurați-vă de căldura din muzeu după plimbarea scurtă.",
-                "en": "Enjoy the warmth of the museum after your brief walk."
+                "en": "Enjoy the warmth of the museum after your brief walk.",
+                "sv": "Njut av museernas värme efter din korta promenad."
               }
             },
             {
@@ -2157,7 +2342,8 @@
                 "de": "Die Busse sind gut beheizt; ideal zum Aufwärmen.",
                 "hu": "A buszok jól fűtöttek; tökéletes hely a felmelegedésre.",
                 "ro": "Autobuzele sunt bine încălzite; ideale pentru a vă încălzi.",
-                "en": "Buses are well-heated; a perfect place to warm up between stops."
+                "en": "Buses are well-heated; a perfect place to warm up between stops.",
+                "sv": "Bussarna är väl uppvärmda; en perfekt plats att värma sig mellan hållplatserna."
               }
             },
             {
@@ -2166,7 +2352,8 @@
                 "de": "Warten Sie im Inneren des Restaurants auf den nächsten Bus.",
                 "hu": "Várjuk meg a következő buszt az étterem melegében.",
                 "ro": "Așteptați următorul autobuz în interiorul restaurantului.",
-                "en": "Wait for the next bus inside the restaurant to stay warm."
+                "en": "Wait for the next bus inside the restaurant to stay warm.",
+                "sv": "Vänta på nästa buss inne i restaurangen för att hålla dig varm."
               }
             },
             {
@@ -2175,7 +2362,8 @@
                 "de": "Achten Sie auf eventuelle winterliche Fahrplanänderungen.",
                 "hu": "Figyeljük az esetleges téli menetrendi változásokat.",
                 "ro": "Verificați eventualele modificări de orar pe timp de iarnă.",
-                "en": "Keep an eye out for any winter-related schedule adjustments."
+                "en": "Keep an eye out for any winter-related schedule adjustments.",
+                "sv": "Håll utkik efter eventuella vinterrelaterade tidtabellsändringar."
               }
             },
             {
@@ -2184,7 +2372,8 @@
                 "de": "Nutzen Sie die Beleuchtung des Busses, um die Umgebung zu sehen.",
                 "hu": "A kivilágított buszból nézhetjük az esti téli várost.",
                 "ro": "Admirați orașul de iarnă din autobuzul luminat.",
-                "en": "Watch the evening winter city from the brightly lit bus."
+                "en": "Watch the evening winter city from the brightly lit bus.",
+                "sv": "Se kvällsvinterstaden från den starkt upplysta bussen."
               }
             }
           ],
@@ -2216,6 +2405,13 @@
               "Be careful when boarding; bus steps can be slippery from snow.",
               "Use your transit time as a chance to warm up your hands.",
               "Wear reflective gear when walking to stops in the dark."
+            ],
+            "sv": [
+              "Kolla i kollektivtrafikappen för eventuella snörelaterade förseningar.",
+              "Vänta på din buss vid väl upplysta hållplatser för säkerhet och komfort.",
+              "Var försiktig när du stiger på; bussens trappsteg kan vara hala av snö.",
+              "Använd din restid som en chans att värma händerna.",
+              "Använd reflexkläder när du går till hållplatser i mörkret."
             ]
           }
         }

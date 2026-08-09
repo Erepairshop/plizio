@@ -21,7 +21,8 @@
             "de": "Gamla Torg (Alter Marktplatz)",
             "hu": "Gamla Torg (Régi Főtér)",
             "ro": "Gamla Torg (Piața Veche)",
-            "en": "Gamla Torg (Old Square)"
+            "en": "Gamla Torg (Old Square)",
+            "sv": "Gamla Torg (Old Square)"
           },
           "coords": [
             13.1575,
@@ -37,7 +38,8 @@
             "de": "Starten Sie den Tag mit einem Kaffee in einem der Cafés am Platz.",
             "hu": "Kezdje a napot egy kávéval a tér egyik kávézójában.",
             "ro": "Începeți ziua cu o cafea la una dintre cafenelele din piață.",
-            "en": "Start your day with a coffee at one of the square's cafes."
+            "en": "Start your day with a coffee at one of the square's cafes.",
+            "sv": "Börja dagen med en kaffe på något av torgets kaféer."
           }
         },
         {
@@ -45,7 +47,8 @@
             "de": "Sankt Nicolai Kyrka",
             "hu": "Szent Miklós-templom",
             "ro": "Biserica Sfântul Nicolae",
-            "en": "St. Nicholas' Church"
+            "en": "St. Nicholas' Church",
+            "sv": "Sankt Nicolai kyrka"
           },
           "coords": [
             13.1585,
@@ -61,7 +64,8 @@
             "de": "Achten Sie auf die beeindruckenden Votivschiffe, die von der Decke hängen.",
             "hu": "Figyelje meg a mennyezetről lógó, lenyűgöző fogadalmi hajókat.",
             "ro": "Observați impresionantele corăbii votive suspendate de tavan.",
-            "en": "Look for the impressive votive ships hanging from the ceiling."
+            "en": "Look for the impressive votive ships hanging from the ceiling.",
+            "sv": "Håll utkik efter de imponerande votivskeppen som hänger i taket."
           }
         },
         {
@@ -69,7 +73,8 @@
             "de": "Trelleborgs Museum & Axel Ebbe Konsthall",
             "hu": "Trelleborgi Múzeum és Axel Ebbe Művészeti Galéria",
             "ro": "Muzeul Trelleborg și Galeria de Artă Axel Ebbe",
-            "en": "Trelleborgs Museum & Axel Ebbe Art Gallery"
+            "en": "Trelleborgs Museum & Axel Ebbe Art Gallery",
+            "sv": "Trelleborgs museum & Axel Ebbe konsthall"
           },
           "coords": [
             13.1555,
@@ -85,7 +90,8 @@
             "de": "Kombinieren Sie beide Orte; sie liegen nebeneinander und bieten einen tollen Kultur-Einblick.",
             "hu": "Kombinálja a kettőt; egymás mellett vannak, és remek kulturális betekintést nyújtanak.",
             "ro": "Combinați ambele locații; sunt adiacente și oferă o perspectivă culturală excelentă.",
-            "en": "Combine both venues; they are adjacent and offer a great cultural insight."
+            "en": "Combine both venues; they are adjacent and offer a great cultural insight.",
+            "sv": "Kombinera båda platserna; de ligger intill varandra och ger en utmärkt kulturinsikt."
           }
         },
         {
@@ -93,7 +99,8 @@
             "de": "Trelleborgen",
             "hu": "Trelleborgen viking erőd",
             "ro": "Fortăreața vikingă Trelleborgen",
-            "en": "Trelleborgen Viking Fortress"
+            "en": "Trelleborgen Viking Fortress",
+            "sv": "Trelleborgen vikingafästning"
           },
           "coords": [
             13.148,
@@ -109,7 +116,8 @@
             "de": "Prüfen Sie den Zeitplan für Reenactment-Veranstaltungen für ein immersives Erlebnis.",
             "hu": "Nézze meg a hagyományőrző bemutatók időpontjait a teljes élményért.",
             "ro": "Verificați programul evenimentelor de reconstituire pentru o experiență imersivă.",
-            "en": "Check the schedule for any reenactment events for an immersive experience."
+            "en": "Check the schedule for any reenactment events for an immersive experience.",
+            "sv": "Kolla schemat för eventuella levandegörelsearrangemang för en mer immersiv upplevelse."
           }
         },
         {
@@ -117,7 +125,8 @@
             "de": "Wasserturm Trelleborg",
             "hu": "Trelleborgi víztorony",
             "ro": "Turnul de apă din Trelleborg",
-            "en": "Trelleborg Water Tower"
+            "en": "Trelleborg Water Tower",
+            "sv": "Trelleborgs vattentorn"
           },
           "coords": [
             13.162,
@@ -133,7 +142,8 @@
             "de": "Ein toller Fotopunkt und ein Wahrzeichen der Industriearchitektur der Stadt.",
             "hu": "Nagyszerű fotóhelyszín és a város ipari építészetének egyik jelképe.",
             "ro": "Un loc excelent pentru fotografii și un reper al arhitecturii industriale a orașului.",
-            "en": "A great photo spot and a landmark of the city's industrial architecture."
+            "en": "A great photo spot and a landmark of the city's industrial architecture.",
+            "sv": "Ett utmärkt fotoställe och ett landmärke för stadens industriarkitektur."
           }
         },
         {
@@ -141,7 +151,8 @@
             "de": "Trelleborg Hafen",
             "hu": "Trelleborgi kikötő",
             "ro": "Portul Trelleborg",
-            "en": "Trelleborg Harbor"
+            "en": "Trelleborg Harbor",
+            "sv": "Trelleborgs hamn"
           },
           "coords": [
             13.165,
@@ -157,7 +168,8 @@
             "de": "Beobachten Sie die riesigen Fähren, die nach Deutschland und Polen ablegen.",
             "hu": "Nézze a hatalmas komphajókat, amint Németország és Lengyelország felé indulnak.",
             "ro": "Priviți feriboturile uriașe plecând spre Germania și Polonia.",
-            "en": "Watch the huge ferries departing for Germany and Poland."
+            "en": "Watch the huge ferries departing for Germany and Poland.",
+            "sv": "Titta på de stora färjorna som avgår mot Tyskland och Polen."
           }
         },
         {
@@ -165,7 +177,8 @@
             "de": "Palmen von Trelleborg",
             "hu": "Trelleborg pálmái",
             "ro": "Palmierii din Trelleborg",
-            "en": "The Palms of Trelleborg"
+            "en": "The Palms of Trelleborg",
+            "sv": "Trelleborgs palmer"
           },
           "coords": [
             13.159,
@@ -181,7 +194,8 @@
             "de": "Der südlichste Punkt Schwedens! Ein perfekter Ort, um den Tag am Meer ausklingen zu lassen.",
             "hu": "Svédország legdélibb pontja! Tökéletes hely a nap lezárásához a tengerparton.",
             "ro": "Cel mai sudic punct al Suediei! Un loc perfect pentru a încheia ziua pe malul mării.",
-            "en": "The southernmost point of Sweden! A perfect spot to end the day by the sea."
+            "en": "The southernmost point of Sweden! A perfect spot to end the day by the sea.",
+            "sv": "Sveriges sydligaste punkt! En perfekt plats att avsluta dagen vid havet."
           }
         }
       ],
@@ -189,7 +203,8 @@
         "de": "Beginnen Sie Ihren Spaziergang am historischen Gamla Torg und bewundern Sie die Architektur der Sankt Nicolai Kyrka. Tauchen Sie am Vormittag im Trelleborgs Museum und der Axel Ebbe Konsthall in die lokale Kultur ein. Nach dem Mittagessen reisen Sie in die Vergangenheit in der rekonstruierten Wikingerfestung Trelleborgen. Am Nachmittag schlendern Sie am geschäftigen Hafen vorbei und beenden den Tag entspannt unter den berühmten Palmen an der Küste, einem Symbol für Trelleborgs einzigartigen Charakter.",
         "hu": "Kezdje a sétát a történelmi Gamla Torgon, majd csodálja meg a Sankt Nicolai Kyrka építészetét. Délelőtt merüljön el a helyi kultúrában a Trelleborgs Múzeumban és az Axel Ebbe Művészeti Galériában. Ebéd után utazzon vissza az időben az újjáépített Trelleborgen viking erődben. Délután sétáljon el a nyüzsgő kikötő mellett, és fejezze be a napot a híres tengerparti pálmák alatt, amelyek Trelleborg egyedi karakterének szimbólumai.",
         "ro": "Începeți plimbarea în istorica Gamla Torg și admirați arhitectura bisericii Sankt Nicolai. La amiază, pătrundeți în cultura locală la Muzeul Trelleborg și Galeria de Artă Axel Ebbe. După prânz, călătoriți înapoi în timp la fortăreața vikingă reconstruită, Trelleborgen. Spre după-amiază, plimbați-vă pe lângă portul aglomerat și încheiați ziua relaxându-vă sub faimoșii palmieri de pe coastă, un simbol al caracterului unic al Trelleborgului.",
-        "en": "Start your walk in the historic Gamla Torg and admire the architecture of Sankt Nicolai Kyrka. Mid-morning, delve into local culture at Trelleborgs Museum and Axel Ebbe Art Gallery. After lunch, travel back in time at the reconstructed Viking fortress, Trelleborgen. In the afternoon, wander past the bustling harbor and end your day relaxing under the famous coastal palm trees, a symbol of Trelleborg's unique character."
+        "en": "Start your walk in the historic Gamla Torg and admire the architecture of Sankt Nicolai Kyrka. Mid-morning, delve into local culture at Trelleborgs Museum and Axel Ebbe Art Gallery. After lunch, travel back in time at the reconstructed Viking fortress, Trelleborgen. In the afternoon, wander past the bustling harbor and end your day relaxing under the famous coastal palm trees, a symbol of Trelleborg's unique character.",
+        "sv": "Börja din promenad på historiska Gamla Torg och beundra arkitekturen vid Sankt Nicolai kyrka. Mitt på förmiddagen fördjupar du dig i lokal kultur på Trelleborgs museum och Axel Ebbe konsthall. Efter lunch reser du tillbaka i tiden vid den rekonstruerade vikingafästningen Trelleborgen. På eftermiddagen promenerar du förbi den livliga hamnen och avslutar dagen under de berömda kustpalmerna, en symbol för Trelleborgs unika karaktär."
       },
       "gastro_picks": {
         "de": [
@@ -381,6 +396,11 @@
           "Trelleborg is very compact, comfortable shoes are all you need for a full day of exploration.",
           "Many shops and some museums close earlier on Sundays, check opening hours in advance.",
           "The wind from the sea can be cool even on sunny days, a light jacket is always a good idea."
+        ],
+        "sv": [
+          "Trelleborg är mycket kompakt; bekväma skor räcker för en hel dags upptäckande.",
+          "Många butiker och vissa museum stänger tidigare på söndagar, kontrollera öppettider i förväg.",
+          "Vind från havet kan vara sval även på soliga dagar; en lätt jacka är alltid en bra idé."
         ]
       },
       "variants": {
@@ -389,7 +409,8 @@
             "de": "Ein regnerischer Morgen am Gamla Torg führt uns schnell in den Schutz der St.-Nikolai-Kirche. Den Mittag verbringen wir trocken im Trelleborgs Museum. Am Nachmittag trotzen wir dem Wind an der Wikingerburg Trelleborgen. Den Tag lassen wir am Hafen ausklingen, wo die Ostseebrise den Regen peitscht und die Palmen eine surreale, nasse Kulisse bilden.",
             "hu": "Az esős reggel a Gamla Torgon indul, majd a Szent Miklós-templom nyújt menedéket. A déli órákat a múzeum tárlatai között töltjük szárazon. Délután a Trelleborgen sáncai között sétálunk a szitáló esőben, végül a kikötőben zárjuk a napot, ahol a balti szél és a vizes pálmák különleges hangulatot árasztanak.",
             "ro": "O dimineață ploioasă în Gamla Torg ne trimite rapid spre interiorul bisericii Sf. Nicolae. Prânzul este petrecut la adăpost în muzeul orașului. Vizităm fortăreața vikingă Trelleborgen în ciuda vremii, încheind ziua în port, unde vântul de pe marea Baltică intensifică senzația de umezeală printre palmierii uzi.",
-            "en": "A rainy morning at Gamla Torg leads us to seek shelter in St. Nicholas' Church. We spend the midday hours dry inside the museum's galleries. In the afternoon, we explore the Viking fortress Trelleborgen despite the dampness, finishing at the harbor where the Baltic wind whips the rain against the iconic palms."
+            "en": "A rainy morning at Gamla Torg leads us to seek shelter in St. Nicholas' Church. We spend the midday hours dry inside the museum's galleries. In the afternoon, we explore the Viking fortress Trelleborgen despite the dampness, finishing at the harbor where the Baltic wind whips the rain against the iconic palms.",
+            "sv": "En regnig morgon på Gamla Torg får oss att söka skydd i Sankt Nicolai kyrka. Vi tillbringar mitt på dagen torra inne i museets gallerier. På eftermiddagen utforskar vi vikingafästningen Trelleborgen trots fukten och avslutar vid hamnen där Östersjövinden lägger regnet mot de ikoniska palmerna."
           },
           "stops": [
             {
@@ -398,7 +419,8 @@
                 "de": "Suchen Sie Unterschlupf unter den Markisen der Cafés am Platz.",
                 "hu": "Keressen menedéket a tér körüli kávézók ereszei alatt.",
                 "ro": "Căutați adăpost sub copertinele cafenelelor din piață.",
-                "en": "Find temporary shelter under the cafe awnings around the square."
+                "en": "Find temporary shelter under the cafe awnings around the square.",
+                "sv": "Hitta tillfälligt skydd under kaféernas markiser runt torget."
               }
             },
             {
@@ -407,7 +429,8 @@
                 "de": "Nutzen Sie die Stille im Inneren, um Ihre Kleidung zu trocknen.",
                 "hu": "Használja ki a benti csendet és száradjon meg a padokban.",
                 "ro": "Profitați de liniștea din interior pentru a vă usca hainele.",
-                "en": "Use the quiet interior to dry off and admire the architecture."
+                "en": "Use the quiet interior to dry off and admire the architecture.",
+                "sv": "Använd den tysta interiören för att torka och beundra arkitekturen."
               }
             },
             {
@@ -416,7 +439,8 @@
                 "de": "Ideal für Regentage; Garderoben für nasse Mäntel sind vorhanden.",
                 "hu": "Ideális esős napra; van ruhatár a vizes kabátoknak.",
                 "ro": "Ideal pentru zile ploioase; există garderobă pentru haine ude.",
-                "en": "Perfect for rainy days; cloakrooms are available for wet coats."
+                "en": "Perfect for rainy days; cloakrooms are available for wet coats.",
+                "sv": "Perfekt för regniga dagar; garderober finns för våta kappor."
               }
             },
             {
@@ -425,7 +449,8 @@
                 "de": "Vorsicht, die Graswälle können bei Regen sehr rutschig sein.",
                 "hu": "Vigyázat, a fűvel borított sáncok esőben csúszósak lehetnek.",
                 "ro": "Atenție, terasamentele de iarbă pot fi alunecoase pe ploaie.",
-                "en": "Be careful, the grassy ramparts can be very slippery when wet."
+                "en": "Be careful, the grassy ramparts can be very slippery when wet.",
+                "sv": "Var försiktig, de gräsbevuxna vallarna kan vara mycket hala när de är våta."
               }
             },
             {
@@ -434,7 +459,8 @@
                 "de": "Ein kurzer Fotostopp reicht; der Turm bietet kaum Regenschutz.",
                 "hu": "Egy gyors fotó elég; a torony nem nyújt szélfogót.",
                 "ro": "O oprire scurtă e suficientă; turnul nu oferă adăpost.",
-                "en": "A quick photo stop; the tower offers little rain cover."
+                "en": "A quick photo stop; the tower offers little rain cover.",
+                "sv": "Ett snabbt fotostopp; tornet erbjuder litet skydd mot regn."
               }
             },
             {
@@ -443,7 +469,8 @@
                 "de": "Die Wartehalle des Terminals bietet Schutz vor dem Küstenwind.",
                 "hu": "A terminál váróterme menedéket nyújt a tengeri szél elől.",
                 "ro": "Sala de așteptare a terminalului oferă adăpost de vânt.",
-                "en": "The terminal waiting area offers shelter from the coastal wind."
+                "en": "The terminal waiting area offers shelter from the coastal wind.",
+                "sv": "Terminalens väntrum ger skydd mot kustvindarna."
               }
             },
             {
@@ -452,7 +479,8 @@
                 "de": "Die nassen Wedel bieten ein tolles, ungewöhnliches Fotomotiv.",
                 "hu": "A vizes pálmalevelek különleges fotótémát szolgáltatnak.",
                 "ro": "Frunzele ude de palmier oferă un subiect foto inedit.",
-                "en": "The wet palm fronds make for a unique and moody photo."
+                "en": "The wet palm fronds make for a unique and moody photo.",
+                "sv": "De våta palmbladen ger ett unikt och stämningsfullt foto."
               }
             }
           ],
@@ -480,6 +508,12 @@
               "Waterproof shoes are advised for the grassy paths at the Viking fortress.",
               "Plan for more time in the museum to avoid the heaviest showers.",
               "Cafes on Vestergatan offer cozy retreats during downpours."
+            ],
+            "sv": [
+              "Ett vindskyddat paraply är nödvändigt på grund av kraftiga kustbyar.",
+              "Vattentäta skor rekommenderas för de gräsiga stigarna vid vikingafästningen.",
+              "Planera mer tid i museet för att undvika de kraftigaste skurarna.",
+              "Kaféer på Vestergatan erbjuder mysiga tillflykter under skyfall."
             ]
           }
         },
@@ -488,7 +522,8 @@
             "de": "Ein frostiger Morgen am Gamla Torg beginnt mit blauem Winterlicht. Wir wärmen uns in der St.-Nikolai-Kirche auf, bevor wir die Ausstellungen im Museum genießen. Nachmittags besuchen wir die Wikingerburg Trelleborgen, die im frühen Zwielicht mystisch wirkt. Da die Palmen im Winter eingelagert sind, bewundern wir stattdessen die festliche Beleuchtung am Hafen.",
             "hu": "A fagyos reggel a Gamla Torgon indul a kék téli fényekben. A Szent Miklós-templomban melegszünk fel, majd a múzeum tárlatait böngésszük. Délután a Trelleborgen misztikusnak tűnik a korai szürkületben. Mivel a pálmákat télre elszállítják, a kikötő ünnepi fényeiben és a jeges balti panorámában gyönyörködünk.",
             "ro": "O dimineață geroasă în Gamla Torg începe sub lumina albastră a iernii. Ne încălzim în biserica Sf. Nicolae înainte de a vizita muzeul. După-amiaza, fortăreața Trelleborgen pare mistică în amurgul timpuriu. Deoarece palmierii sunt depozitați iarna, admirăm luminile festive din port și marea înghețată.",
-            "en": "A frosty morning at Gamla Torg starts in the crisp winter light. We warm up inside St. Nicholas' Church before enjoying the museum. In the afternoon, the Viking fortress Trelleborgen looks mystical in the early twilight. As the palms are stored away for winter, we admire the festive harbor lights instead."
+            "en": "A frosty morning at Gamla Torg starts in the crisp winter light. We warm up inside St. Nicholas' Church before enjoying the museum. In the afternoon, the Viking fortress Trelleborgen looks mystical in the early twilight. As the palms are stored away for winter, we admire the festive harbor lights instead.",
+            "sv": "En frostig morgon på Gamla Torg börjar i det krispiga vinterljuset. Vi värmer oss inne i Sankt Nicolai kyrka innan vi njuter av museet. På eftermiddagen ser vikingafästningen Trelleborgen mystisk ut i den tidiga skymningen. Eftersom palmerna tas in för vintern beundrar vi istället de festliga hamnbelysningarna."
           },
           "stops": [
             {
@@ -497,7 +532,8 @@
                 "de": "Genießen Sie die weihnachtliche Dekoration und das warme Licht.",
                 "hu": "Élvezze a karácsonyi dekorációt és a meleg fényeket.",
                 "ro": "Admirați decorațiunile de iarnă și luminile calde din piață.",
-                "en": "Enjoy the festive winter decorations and warm ambient lighting."
+                "en": "Enjoy the festive winter decorations and warm ambient lighting.",
+                "sv": "Njut av de festliga vinterdekorationerna och det varma stämningsljuset."
               }
             },
             {
@@ -506,7 +542,8 @@
                 "de": "Ein herrlicher Ort, um der Kälte für einen Moment zu entkommen.",
                 "hu": "Nagyszerű hely, hogy egy pillanatra elmeneküljünk a hideg elől.",
                 "ro": "Un loc excelent pentru a scăpa de frig pentru câteva momente.",
-                "en": "A great place to escape the biting cold for a few moments."
+                "en": "A great place to escape the biting cold for a few moments.",
+                "sv": "En utmärkt plats att fly den bitande kylan för en stund."
               }
             },
             {
@@ -515,7 +552,8 @@
                 "de": "Die Cafeteria bietet heiße schwedische Schokolade zum Aufwärmen.",
                 "hu": "A múzeum kávézójában igyon egy forró csokoládét a felmelegedéshez.",
                 "ro": "Cafeneaua muzeului oferă ciocolată caldă pentru încălzire.",
-                "en": "The museum cafe offers hot chocolate to help you warm up."
+                "en": "The museum cafe offers hot chocolate to help you warm up.",
+                "sv": "Museets café erbjuder varm choklad för att hjälpa dig att värma upp."
               }
             },
             {
@@ -524,7 +562,8 @@
                 "de": "Im Winter oft schneebedeckt; festes Schuhwerk ist unerlässlich.",
                 "hu": "Télen gyakran hó fedi; a stabil lábbeli elengedhetetlen.",
                 "ro": "Adesea acoperită de zăpadă; încălțămintea solidă e esențială.",
-                "en": "Often snow-covered in winter; sturdy footwear is essential."
+                "en": "Often snow-covered in winter; sturdy footwear is essential.",
+                "sv": "Ofta snötäckt på vintern; stadiga skor är essentiella."
               }
             },
             {
@@ -533,7 +572,8 @@
                 "de": "Der Turm ist im Winter oft wunderschön beleuchtet.",
                 "hu": "A torony télen gyakran ünnepi kivilágítást kap.",
                 "ro": "Turnul este adesea iluminat festiv în timpul iernii.",
-                "en": "The tower is often beautifully illuminated during winter nights."
+                "en": "The tower is often beautifully illuminated during winter nights.",
+                "sv": "Tornet är ofta vackert belyst under vinterkvällar."
               }
             },
             {
@@ -542,7 +582,8 @@
                 "de": "Achten Sie auf Eisschollen im Hafenbecken der Ostsee.",
                 "hu": "Figyelje meg a jégtáblákat a kikötő balti vizén.",
                 "ro": "Observați sloiurile de gheață din bazinul portuar al Balticii.",
-                "en": "Look for ice floes in the harbor basin of the Baltic Sea."
+                "en": "Look for ice floes in the harbor basin of the Baltic Sea.",
+                "sv": "Håll utkik efter isflak i Östersjöns hamnbassäng."
               }
             },
             {
@@ -551,7 +592,8 @@
                 "de": "Hinweis: Die echten Palmen überwintern in Gewächshäusern.",
                 "hu": "Megjegyzés: Az igazi pálmák üvegházakban telelnek.",
                 "ro": "Notă: Palmierii reali sunt depozitați în sere pe timpul iernii.",
-                "en": "Note: The real palms are moved to greenhouses for the winter."
+                "en": "Note: The real palms are moved to greenhouses for the winter.",
+                "sv": "Observera: de riktiga palmerna flyttas till växthus för vintern."
               }
             }
           ],
@@ -579,6 +621,12 @@
               "Wear thermal layers to protect against the biting sea wind.",
               "Many cafes close earlier in winter; check opening hours in advance.",
               "Reflectors on clothing are a safety standard in Sweden during dark hours."
+            ],
+            "sv": [
+              "Solnedgång kan ske så tidigt som 15:30 mitt i vintern.",
+              "Bär termiska lager för att skydda mot den bitande havsvinden.",
+              "Många kaféer stänger tidigare på vintern; kontrollera öppettider i förväg.",
+              "Reflexer på kläder är en säkerhetsstandard i Sverige under mörka timmar."
             ]
           }
         }
@@ -597,7 +645,8 @@
             "de": "Trelleborgen",
             "hu": "Trelleborgen viking erőd",
             "ro": "Fortăreața vikingă Trelleborgen",
-            "en": "Trelleborgen Viking Fortress"
+            "en": "Trelleborgen Viking Fortress",
+            "sv": "Trelleborgen vikingafästning"
           },
           "coords": [
             13.148,
@@ -613,7 +662,8 @@
             "de": "Beginnen Sie hier, um Menschenmassen zu vermeiden und die Morgenruhe an diesem historischen Ort zu genießen.",
             "hu": "Kezdje itt, hogy elkerülje a tömeget, és élvezze a reggeli nyugalmat ezen a történelmi helyen.",
             "ro": "Începeți aici pentru a evita aglomerația și pentru a vă bucura de liniștea dimineții în acest sit istoric.",
-            "en": "Start here to avoid crowds and enjoy the morning quiet at this historic site."
+            "en": "Start here to avoid crowds and enjoy the morning quiet at this historic site.",
+            "sv": "Börja här för att undvika folkmassor och njuta av morgonens lugn på denna historiska plats."
           }
         },
         {
@@ -621,7 +671,8 @@
             "de": "Axel Ebbe Konsthall & Trelleborgs Museum",
             "hu": "Axel Ebbe Művészeti Galéria és Trelleborgi Múzeum",
             "ro": "Galeria de Artă Axel Ebbe și Muzeul Trelleborg",
-            "en": "Axel Ebbe Art Gallery & Trelleborgs Museum"
+            "en": "Axel Ebbe Art Gallery & Trelleborgs Museum",
+            "sv": "Axel Ebbe konsthall & Trelleborgs museum"
           },
           "coords": [
             13.1555,
@@ -637,7 +688,8 @@
             "de": "Schließen Sie Ihr Fahrrad sicher ab und verbringen Sie einen langen Block mit der Erkundung von Kunst und Geschichte.",
             "hu": "Zárja le biztonságosan a kerékpárját, és töltsön el egy hosszabb időt a művészet és a történelem felfedezésével.",
             "ro": "Asigurați-vă bicicleta și petreceți o perioadă lungă explorând arta și istoria.",
-            "en": "Lock your bike securely and spend a long block exploring both art and history."
+            "en": "Lock your bike securely and spend a long block exploring both art and history.",
+            "sv": "Lås din cykel ordentligt och avsätt en lång stund för att utforska både konst och historia."
           }
         },
         {
@@ -645,7 +697,8 @@
             "de": "Gamla Torg",
             "hu": "Gamla Torg (Régi Főtér)",
             "ro": "Gamla Torg (Piața Veche)",
-            "en": "Gamla Torg (Old Square)"
+            "en": "Gamla Torg (Old Square)",
+            "sv": "Gamla Torg (Old Square)"
           },
           "coords": [
             13.1575,
@@ -661,7 +714,8 @@
             "de": "Ein großartiger Ort für eine Mittagspause. Viele Restaurants und Bänke.",
             "hu": "Nagyszerű hely egy ebédszünetre. Sok étterem és pad található itt.",
             "ro": "Un loc excelent pentru o pauză de prânz. Multe restaurante și bănci.",
-            "en": "A great spot for a lunch break. Plenty of restaurants and benches."
+            "en": "A great spot for a lunch break. Plenty of restaurants and benches.",
+            "sv": "Ett utmärkt ställe för lunchrast. Många restauranger och bänkar."
           }
         },
         {
@@ -669,7 +723,8 @@
             "de": "Sankt Nicolai Kyrka",
             "hu": "Szent Miklós-templom",
             "ro": "Biserica Sfântul Nicolae",
-            "en": "St. Nicholas' Church"
+            "en": "St. Nicholas' Church",
+            "sv": "Sankt Nicolai kyrka"
           },
           "coords": [
             13.1585,
@@ -685,7 +740,8 @@
             "de": "Nur einen Steinwurf vom Platz entfernt. Ein schneller, aber lohnender Besuch.",
             "hu": "Csak egy kőhajításnyira a tértől. Gyors, de megéri a látogatást.",
             "ro": "La o aruncătură de băț de piață. O vizită rapidă, dar plină de satisfacții.",
-            "en": "Just a stone's throw from the square. A quick but rewarding visit."
+            "en": "Just a stone's throw from the square. A quick but rewarding visit.",
+            "sv": "Bara ett stenkast från torget. Ett snabbt men givande besök."
           }
         },
         {
@@ -693,7 +749,8 @@
             "de": "Wasserturm Trelleborg",
             "hu": "Trelleborgi víztorony",
             "ro": "Turnul de apă din Trelleborg",
-            "en": "Trelleborg Water Tower"
+            "en": "Trelleborg Water Tower",
+            "sv": "Trelleborgs vattentorn"
           },
           "coords": [
             13.162,
@@ -709,7 +766,8 @@
             "de": "Auf dem Weg zum Hafen, ein kurzer Stopp für ein Foto dieses industriellen Wahrzeichens.",
             "hu": "Útban a kikötő felé egy rövid megálló, hogy lefényképezze ezt az ipari műemléket.",
             "ro": "În drum spre port, o oprire scurtă pentru o fotografie a acestui reper industrial.",
-            "en": "On your way to the harbor, a quick stop for a photo of this industrial landmark."
+            "en": "On your way to the harbor, a quick stop for a photo of this industrial landmark.",
+            "sv": "På väg till hamnen, ett snabbt stopp för ett foto av detta industriella landmärke."
           }
         },
         {
@@ -717,7 +775,8 @@
             "de": "Trelleborg Hafen",
             "hu": "Trelleborgi kikötő",
             "ro": "Portul Trelleborg",
-            "en": "Trelleborg Harbor"
+            "en": "Trelleborg Harbor",
+            "sv": "Trelleborgs hamn"
           },
           "coords": [
             13.165,
@@ -733,7 +792,8 @@
             "de": "Radfahren Sie entlang der speziellen Wege, um die Aktivitäten des größten Fährhafens Skandinaviens zu beobachten.",
             "hu": "Biciklizzen a kijelölt utakon, hogy megfigyelhesse Skandinávia legnagyobb kompkikötőjének életét.",
             "ro": "Pedalați pe traseele dedicate pentru a observa activitatea din cel mai mare port de feriboturi din Scandinavia.",
-            "en": "Cycle along the dedicated paths to watch the activity of Scandinavia's largest ferry port."
+            "en": "Cycle along the dedicated paths to watch the activity of Scandinavia's largest ferry port.",
+            "sv": "Cykla längs de särskilda vägarna för att se aktiviteten i Skandinaviens största färjehamn."
           }
         },
         {
@@ -741,7 +801,8 @@
             "de": "Küstentour zu den Palmen",
             "hu": "Part menti túra a pálmákhoz",
             "ro": "Tur de coastă spre palmieri",
-            "en": "Coastal Ride to the Palms"
+            "en": "Coastal Ride to the Palms",
+            "sv": "Kusttur till palmerna"
           },
           "coords": [
             13.159,
@@ -757,7 +818,8 @@
             "de": "Genießen Sie die Fahrt entlang der Küste. Dies ist der beste Teil der Radtour.",
             "hu": "Élvezze a tengerparti utat. Ez a kerékpártúra legjobb része.",
             "ro": "Bucurați-vă de plimbarea de-a lungul coastei. Aceasta este cea mai bună parte a turului cu bicicleta.",
-            "en": "Enjoy the ride along the coast. This is the best part of the bike tour."
+            "en": "Enjoy the ride along the coast. This is the best part of the bike tour.",
+            "sv": "Njut av turen längs kusten. Detta är den bästa delen av cykelturen."
           }
         }
       ],
@@ -765,7 +827,8 @@
         "de": "Starten Sie Ihre Radtour bei der beeindruckenden Wikingerfestung Trelleborgen, bevor Sie ins Zentrum fahren, um Kunst und Geschichte zu entdecken. Machen Sie eine Mittagspause am belebten Gamla Torg und besuchen Sie die nahe gelegene Kirche. Am Nachmittag führt Ihre Route Sie am Wasserturm und dem riesigen Hafen vorbei. Der Höhepunkt ist die malerische Fahrt entlang der Küste, die bei den berühmten Palmen von Trelleborg endet, wo Sie sich entspannen und die Meeresbrise genießen können.",
         "hu": "Kezdje a kerékpártúrát a lenyűgöző Trelleborgen viking erődnél, mielőtt a központba tekerne művészetért és történelemért. Tartson ebédszünetet a nyüzsgő Gamla Torgon, és látogasson el a közeli templomba. Délután az útvonal a víztorony és a hatalmas kikötő mellett vezet el. A csúcspont a festői tengerparti út, amely Trelleborg híres pálmáinál ér véget, ahol pihenhet és élvezheti a tengeri szellőt.",
         "ro": "Începeți turul cu bicicleta la impresionanta fortăreață vikingă Trelleborgen înainte de a pedala spre centru pentru artă și istorie. Luați o pauză de prânz în animata Gamla Torg și vizitați biserica din apropiere. După-amiaza, traseul vă duce pe lângă turnul de apă și portul imens. Punctul culminant este plimbarea pitorească de-a lungul coastei, care se termină la faimoșii palmieri din Trelleborg, unde vă puteți relaxa și bucura de briza mării.",
-        "en": "Kick off your bike tour at the impressive Trelleborgen Viking fortress before cycling to the center for a dose of art and history. Take a lunch break in the bustling Gamla Torg and visit the nearby church. In the afternoon, your route takes you past the water tower and the immense harbor. The highlight is the scenic ride along the coast, ending at Trelleborg's famous palm trees where you can relax and enjoy the sea breeze."
+        "en": "Kick off your bike tour at the impressive Trelleborgen Viking fortress before cycling to the center for a dose of art and history. Take a lunch break in the bustling Gamla Torg and visit the nearby church. In the afternoon, your route takes you past the water tower and the immense harbor. The highlight is the scenic ride along the coast, ending at Trelleborg's famous palm trees where you can relax and enjoy the sea breeze.",
+        "sv": "Starta din cykeltur vid imponerande Trelleborgen vikingafästning innan du cyklar till centrum för konst och historia. Ta en lunchpaus på det livliga Gamla Torg och besök den närliggande kyrkan. På eftermiddagen går rutten förbi vattentornet och den enorma hamnen. Höjdpunkten är den natursköna turen längs kusten som slutar vid Trelleborgs berömda palmer där du kan koppla av och njuta av havsbrisen."
       },
       "gastro_picks": {
         "de": [
@@ -957,6 +1020,11 @@
           "Sweden has excellent bike paths; use them for a safe and enjoyable ride.",
           "Wear a helmet and always lock your bike, even for short stops.",
           "Some coastal sections can be windy, be prepared on your ride."
+        ],
+        "sv": [
+          "Sverige har utmärkta cykelvägar; använd dem för en säker och njutbar tur.",
+          "Bär hjälm och lås alltid din cykel, även vid korta stopp.",
+          "Vissa kustavsnitt kan vara blåsiga, var förberedd under turen."
         ]
       },
       "variants": {
@@ -965,7 +1033,8 @@
             "de": "Trotz Regen starten wir mit regendichter Ausrüstung an der Wikingerburg. Die Fahrt zum Museum bietet kurze Sprints zwischen den Schauern. Mittags wärmen wir uns bei Axel Ebbe auf. Die Tour zum Hafen führt über nasse Radwege, wobei die Gischt der Ostsee mit dem Regen verschmilzt.",
             "hu": "Az eső ellenére vízálló felszerelésben indulunk a viking erődtől. A múzeum felé tartó bringázás rövid sprint az esőfelhők alatt. Délben az Axel Ebbe galériában száradunk. A kikötői út nedves kerékpárutakon vezet, ahol a tenger permete keveredik az esővel.",
             "ro": "În ciuda ploii, pornim în echipament impermeabil de la cetatea vikingă. Drumul spre muzeu este un sprint între averse. La prânz ne uscăm la galeria Axel Ebbe. Turul spre port urmează pistele ude, unde vaporii mării se amestecă cu ploaia.",
-            "en": "Despite the rain, we set off in waterproof gear from the Viking fortress. The ride to the museum is a series of sprints between showers. We dry off at the Axel Ebbe gallery. The coastal ride to the harbor follows wet paths where the sea spray meets the rain."
+            "en": "Despite the rain, we set off in waterproof gear from the Viking fortress. The ride to the museum is a series of sprints between showers. We dry off at the Axel Ebbe gallery. The coastal ride to the harbor follows wet paths where the sea spray meets the rain.",
+            "sv": "Trots regnet ger vi oss iväg i vattentätt kit från vikingafästningen. Sträckan till museet blir en serie sprintar mellan skurarna. Vi torkar upp på Axel Ebbe-galleriet. Kustrundan till hamnen följer våta stigar där havsspray möter regnet."
           },
           "stops": [
             {
@@ -974,7 +1043,8 @@
                 "de": "Vorsicht beim Absteigen; der Boden kann schlammig sein.",
                 "hu": "Vigyázat a leszálláskor; a talaj sáros lehet.",
                 "ro": "Atenție la descălecare; solul poate fi noroios.",
-                "en": "Careful when dismounting; the ground can be muddy."
+                "en": "Careful when dismounting; the ground can be muddy.",
+                "sv": "Var försiktig när du avstiger; marken kan vara lerig."
               }
             },
             {
@@ -983,7 +1053,8 @@
                 "de": "Überdachte Fahrradständer befinden sich in der Nähe.",
                 "hu": "Fedett kerékpártárolók találhatók a közelben.",
                 "ro": "Rasteluri de biciclete acoperite se află în apropiere.",
-                "en": "Covered bicycle racks are available nearby."
+                "en": "Covered bicycle racks are available nearby.",
+                "sv": "Täta cykelställ finns i närheten."
               }
             },
             {
@@ -992,7 +1063,8 @@
                 "de": "Das Kopfsteinpflaster ist bei Nässe extrem rutschig.",
                 "hu": "A macskakő esőben rendkívül csúszós, tekerjen óvatosan.",
                 "ro": "Paveaua de piatră este extrem de alunecoasă pe ud.",
-                "en": "The cobblestones are extremely slippery when wet; ride carefully."
+                "en": "The cobblestones are extremely slippery when wet; ride carefully.",
+                "sv": "Kullerstensgatorna är extremt hala när de är blöta; cykla försiktigt."
               }
             },
             {
@@ -1001,7 +1073,8 @@
                 "de": "Stellen Sie Ihr Rad unter Bäumen ab, um den Sattel trocken zu halten.",
                 "hu": "Állítsa a bringát fák alá, hogy a nyereg száraz maradjon.",
                 "ro": "Parcați bicicleta sub copaci pentru a păstra șaua uscată.",
-                "en": "Park under trees to keep your saddle somewhat dry."
+                "en": "Park under trees to keep your saddle somewhat dry.",
+                "sv": "Parkera under träd för att hålla sadeln hyfsat torr."
               }
             },
             {
@@ -1010,7 +1083,8 @@
                 "de": "Vermeiden Sie Pfützen; sie können tiefer sein als sie aussehen.",
                 "hu": "Kerülje a tócsákat; mélyebbek lehetnek, mint aminek látszanak.",
                 "ro": "Evitați bălțile; pot fi mai adânci decât par.",
-                "en": "Avoid puddles; they can be deeper than they look."
+                "en": "Avoid puddles; they can be deeper than they look.",
+                "sv": "Undvik pölar; de kan vara djupare än de ser ut."
               }
             },
             {
@@ -1019,7 +1093,8 @@
                 "de": "Starker Seitenwind am Hafenbecken; halten Sie den Lenker fest.",
                 "hu": "Erős oldalszél a kikötőnél; fogja erősen a kormányt.",
                 "ro": "Vânt lateral puternic în port; țineți bine ghidonul.",
-                "en": "Strong crosswinds near the harbor; grip the handlebars firmly."
+                "en": "Strong crosswinds near the harbor; grip the handlebars firmly.",
+                "sv": "Starka sidvindar vid hamnen; håll styret stadigt."
               }
             },
             {
@@ -1028,7 +1103,8 @@
                 "de": "Nutzen Sie Schutzbleche, um Schlammspritzer zu vermeiden.",
                 "hu": "Használjon sárvédőt a felcsapódó sár ellen.",
                 "ro": "Folosiți apărători pentru a evita stropii de noroi.",
-                "en": "Use mudguards to prevent splashes on your clothes."
+                "en": "Use mudguards to prevent splashes on your clothes.",
+                "sv": "Använd skärmar för att undvika stänk på kläderna."
               }
             }
           ],
@@ -1056,6 +1132,12 @@
               "Brake early and gently on wet cobblestones.",
               "A saddle cover will keep your seat dry while you explore on foot.",
               "Ensure your lights are on; visibility drops significantly in the rain."
+            ],
+            "sv": [
+              "Fullt regnställ inklusive skoöverdrag rekommenderas starkt.",
+              "Bromsa tidigt och mjukt på våta kullerstenar.",
+              "Ett sadelskydd håller sätet torrt medan du utforskar till fots.",
+              "Se till att dina lampor är på; sikten sjunker avsevärt i regn."
             ]
           }
         },
@@ -1064,7 +1146,8 @@
             "de": "Eine winterliche Radtour durch Trelleborg erfordert warme Handschuhe. Wir starten an der kühlen Wikingerburg und fahren zügig zum Museum, um uns aufzuwärmen. Am Nachmittag radeln wir durch die festliche Altstadt zur Kirche. Die Küstenfahrt zum Hafen bietet eine klare Sicht auf die eisige Ostsee, bevor die Dunkelheit einsetzt.",
             "hu": "A téli biciklitúra Trelleborgban meleg kesztyűt igényel. A hűvös viking erődtől indulunk, és gyorsan a múzeumba tekerünk felmelegedni. Délután az ünnepi óvároson át megyünk a templomhoz. A kikötői út tiszta rálátást nyújt a jeges Balti-tengerre, mielőtt beáll a sötétség.",
             "ro": "O plimbare de iarnă cu bicicleta necesită mănuși groase. Pornim de la cetatea răcoroasă și pedalăm rapid spre muzeu. După-amiaza traversăm centrul festiv spre biserică. Drumul de coastă oferă o vedere clară asupra mării înghețate înainte de lăsarea serii.",
-            "en": "A winter bike tour through Trelleborg requires warm gloves. We start at the chilly Viking fortress and pedal quickly to the museum to warm up. In the afternoon, we ride through the festive old town. The coastal path offers clear views of the icy Baltic before darkness falls."
+            "en": "A winter bike tour through Trelleborg requires warm gloves. We start at the chilly Viking fortress and pedal quickly to the museum to warm up. In the afternoon, we ride through the festive old town. The coastal path offers clear views of the icy Baltic before darkness falls.",
+            "sv": "En vintercykeltur genom Trelleborg kräver varma handskar. Vi börjar vid den svala vikingafästningen och trampar snabbt till museet för att värma oss. På eftermiddagen cyklar vi genom den festliga gamla staden. Kustleden erbjuder klara vyer över det isiga Östersjön innan mörkret faller."
           },
           "stops": [
             {
@@ -1073,7 +1156,8 @@
                 "de": "Vorsicht vor vereisten Stellen auf den Kieswegen.",
                 "hu": "Vigyázzon a jeges foltokra a kavicsos utakon.",
                 "ro": "Atenție la porțiunile înghețate de pe aleile cu pietriș.",
-                "en": "Watch out for icy patches on the gravel paths."
+                "en": "Watch out for icy patches on the gravel paths.",
+                "sv": "Akta för isfläckar på grusvägarna."
               }
             },
             {
@@ -1082,7 +1166,8 @@
                 "de": "Parken Sie Ihr Rad nah am Eingang, um schnell ins Warme zu kommen.",
                 "hu": "Parkoljon közel a bejárathoz, hogy gyorsan beérjen a melegre.",
                 "ro": "Parcați aproape de intrare pentru a intra rapid la căldură.",
-                "en": "Park close to the entrance to get inside the warmth quickly."
+                "en": "Park close to the entrance to get inside the warmth quickly.",
+                "sv": "Parkera nära entrén för att snabbt komma in i värmen."
               }
             },
             {
@@ -1091,7 +1176,8 @@
                 "de": "Der Platz kann bei Frost sehr glatt sein; fahren Sie langsam.",
                 "hu": "A tér fagyban nagyon csúszós lehet; tekerjen lassan.",
                 "ro": "Piața poate fi foarte alunecoasă pe ger; pedalați încet.",
-                "en": "The square can be very slick in freezing temps; ride slowly."
+                "en": "The square can be very slick in freezing temps; ride slowly.",
+                "sv": "Torget kan vara mycket halt vid frost; cykla långsamt."
               }
             },
             {
@@ -1100,7 +1186,8 @@
                 "de": "Nutzen Sie den Stopp, um die Durchblutung in den Fingern zu fördern.",
                 "hu": "Használja ki a megállót, hogy átmozgassa fagyos ujjait.",
                 "ro": "Folosiți oprirea pentru a vă dezmorți degetele înghețate.",
-                "en": "Use the stop to get the circulation back in your fingers."
+                "en": "Use the stop to get the circulation back in your fingers.",
+                "sv": "Stanna för att få cirkulationen tillbaka i fingrarna."
               }
             },
             {
@@ -1109,7 +1196,8 @@
                 "de": "Der Wind pfeift hier im Winter besonders kalt.",
                 "hu": "Itt a téli szél különösen metsző tud lenni.",
                 "ro": "Vântul suflă extrem de rece aici în timpul iernii.",
-                "en": "The winter wind bites especially hard at this exposed spot."
+                "en": "The winter wind bites especially hard at this exposed spot.",
+                "sv": "Vintervinden biter särskilt hårt på den här exponerade platsen."
               }
             },
             {
@@ -1118,7 +1206,8 @@
                 "de": "Genießen Sie das Licht der Hafencafés aus der Ferne.",
                 "hu": "Élvezze távolról a kikötői kávézók fényeit.",
                 "ro": "Admirați de la distanță luminile cafenelelor din port.",
-                "en": "Enjoy the distant glow of the harbor cafes."
+                "en": "Enjoy the distant glow of the harbor cafes.",
+                "sv": "Njut av hamnkaféernas avlägsna sken."
               }
             },
             {
@@ -1127,7 +1216,8 @@
                 "de": "Die Radwege werden geräumt, können aber Reifglätte aufweisen.",
                 "hu": "A kerékpárutakat takarítják, de zúzmarásak lehetnek.",
                 "ro": "Pistele sunt curățate, dar pot prezenta polei.",
-                "en": "Bike paths are cleared but can have frost or black ice."
+                "en": "Bike paths are cleared but can have frost or black ice.",
+                "sv": "Cykelbanor är plogade men kan ha frost eller svartis."
               }
             }
           ],
@@ -1155,6 +1245,12 @@
               "Avoid sudden steering movements on slippery surfaces.",
               "Keep riding stretches short to prevent excessive body cooling.",
               "A thermos with a hot drink is a great companion for the ride."
+            ],
+            "sv": [
+              "Dubbdäck är mycket hjälpsamma i isiga svenska förhållanden.",
+              "Undvik plötsliga styrrörelser på hala underlag.",
+              "Håll cykelturerna korta för att förhindra överdriven nedkylning av kroppen.",
+              "En termos med varm dryck är en utmärkt följeslagare på turen."
             ]
           }
         }
@@ -1173,7 +1269,8 @@
             "de": "Cluster 1: Wikingerfestung",
             "hu": "1. csoport: Viking erőd",
             "ro": "Cluster 1: Fortăreața Vikingă",
-            "en": "Cluster 1: Viking Fortress"
+            "en": "Cluster 1: Viking Fortress",
+            "sv": "Kluster 1: Vikingafästningen"
           },
           "coords": [
             13.148,
@@ -1189,7 +1286,8 @@
             "de": "Parken Sie hier. Dies ist der erste Hauptstopp des Tages. Genießen Sie die historische Atmosphäre.",
             "hu": "Parkoljon itt. Ez a nap első fő megállója. Élvezze a történelmi hangulatot.",
             "ro": "Parcați aici. Aceasta este prima oprire principală a zilei. Bucurați-vă de atmosfera istorică.",
-            "en": "Park here. This is the first main stop of the day. Enjoy the historic atmosphere."
+            "en": "Park here. This is the first main stop of the day. Enjoy the historic atmosphere.",
+            "sv": "Parkera här. Detta är dagens första huvudstopp. Njut av den historiska atmosfären."
           }
         },
         {
@@ -1197,7 +1295,8 @@
             "de": "Cluster 2: Stadtzentrum (Gamla Torg)",
             "hu": "2. csoport: Városközpont (Gamla Torg)",
             "ro": "Cluster 2: Centrul Orașului (Gamla Torg)",
-            "en": "Cluster 2: City Center (Gamla Torg)"
+            "en": "Cluster 2: City Center (Gamla Torg)",
+            "sv": "Kluster 2: Stadskärnan (Gamla Torg)"
           },
           "coords": [
             13.1575,
@@ -1213,7 +1312,8 @@
             "de": "Fahren und parken Sie in einem der zentralen Parkhäuser. Erkunden Sie diesen Cluster zu Fuß.",
             "hu": "Vezessen és parkoljon az egyik központi parkolóházban. Ezt a csoportot gyalog fedezze fel.",
             "ro": "Conduceți și parcați într-una dintre parcările centrale. Explorați acest cluster pe jos.",
-            "en": "Drive and park in one of the central parking garages. Explore this cluster on foot."
+            "en": "Drive and park in one of the central parking garages. Explore this cluster on foot.",
+            "sv": "Kör och parkera i något av de centrala parkeringshusen. Utforska detta kluster till fots."
           }
         },
         {
@@ -1221,7 +1321,8 @@
             "de": "Sankt Nicolai Kyrka",
             "hu": "Szent Miklós-templom",
             "ro": "Biserica Sfântul Nicolae",
-            "en": "St. Nicholas' Church"
+            "en": "St. Nicholas' Church",
+            "sv": "S:t Nicolai kyrka"
           },
           "coords": [
             13.1585,
@@ -1237,7 +1338,8 @@
             "de": "Ein kurzer Spaziergang vom Gamla Torg. Ihr Auto kann geparkt bleiben.",
             "hu": "Rövid séta a Gamla Torgról. Az autója maradhat a parkolóban.",
             "ro": "O scurtă plimbare de la Gamla Torg. Mașina poate rămâne parcată.",
-            "en": "A short walk from Gamla Torg. Your car can stay parked."
+            "en": "A short walk from Gamla Torg. Your car can stay parked.",
+            "sv": "En kort promenad från Gamla Torg. Din bil kan stå parkerad."
           }
         },
         {
@@ -1245,7 +1347,8 @@
             "de": "Trelleborgs Museum",
             "hu": "Trelleborgi Múzeum",
             "ro": "Muzeul Trelleborg",
-            "en": "Trelleborgs Museum"
+            "en": "Trelleborgs Museum",
+            "sv": "Trelleborgs museum"
           },
           "coords": [
             13.156,
@@ -1261,7 +1364,8 @@
             "de": "Ebenfalls zu Fuß erreichbar. Planen Sie hier Ihre Mittagspause ein oder danach.",
             "hu": "Szintén gyalogosan elérhető. Tervezze ide vagy ide az ebédszünetét.",
             "ro": "De asemenea, accesibil pe jos. Planificați-vă pauza de prânz aici sau după.",
-            "en": "Also within walking distance. Plan for your lunch break around here or after."
+            "en": "Also within walking distance. Plan for your lunch break around here or after.",
+            "sv": "Även inom gångavstånd. Planera för lunchrasten här eller efteråt."
           }
         },
         {
@@ -1269,7 +1373,8 @@
             "de": "Cluster 3: Hafen & Küste (Wasserturm)",
             "hu": "3. csoport: Kikötő és part (Víztorony)",
             "ro": "Cluster 3: Port și Coastă (Turnul de Apă)",
-            "en": "Cluster 3: Harbor & Coast (Water Tower)"
+            "en": "Cluster 3: Harbor & Coast (Water Tower)",
+            "sv": "Kluster 3: Hamn & kust (Vattentornet)"
           },
           "coords": [
             13.162,
@@ -1285,7 +1390,8 @@
             "de": "Fahren Sie zum Hafenbereich und finden Sie einen Parkplatz. Der Wasserturm ist ein guter Ausgangspunkt.",
             "hu": "Vezessen a kikötő területére és keressen egy parkolóhelyet. A víztorony jó kiindulópunkt.",
             "ro": "Conduceți spre zona portuară și găsiți un loc de parcare. Turnul de apă este un bun punct de plecare.",
-            "en": "Drive to the harbor area and find parking. The water tower is a good starting landmark."
+            "en": "Drive to the harbor area and find parking. The water tower is a good starting landmark.",
+            "sv": "Kör till hamnområdet och hitta parkering. Vattentornet är ett bra startmärke."
           }
         },
         {
@@ -1293,7 +1399,8 @@
             "de": "Trelleborg Hafen",
             "hu": "Trelleborgi kikötő",
             "ro": "Portul Trelleborg",
-            "en": "Trelleborg Harbor"
+            "en": "Trelleborg Harbor",
+            "sv": "Trelleborgs hamn"
           },
           "coords": [
             13.165,
@@ -1309,7 +1416,8 @@
             "de": "Schlendern Sie durch den Hafenbereich und beobachten Sie die geschäftige Aktivität.",
             "hu": "Sétáljon végig a kikötőn, és figyelje a nyüzsgő életet.",
             "ro": "Plimbați-vă prin zona portuară și urmăriți activitatea agitată.",
-            "en": "Stroll around the harbor area and watch the bustling activity."
+            "en": "Stroll around the harbor area and watch the bustling activity.",
+            "sv": "Strosa runt i hamnområdet och se den livliga aktiviteten."
           }
         },
         {
@@ -1317,7 +1425,8 @@
             "de": "Palmen von Trelleborg",
             "hu": "Trelleborg pálmái",
             "ro": "Palmierii din Trelleborg",
-            "en": "The Palms of Trelleborg"
+            "en": "The Palms of Trelleborg",
+            "sv": "Trelleborgs palmer"
           },
           "coords": [
             13.159,
@@ -1333,7 +1442,8 @@
             "de": "Ein kurzer Spaziergang vom Hafen entfernt, um den Tag am südlichsten Punkt Schwedens ausklingen zu lassen.",
             "hu": "Rövid sétára a kikötőtől, hogy Svédország legdélibb pontján fejezze be a napot.",
             "ro": "O scurtă plimbare de la port pentru a încheia ziua în cel mai sudic punct al Suediei.",
-            "en": "A short walk from the harbor to finish the day at Sweden's southernmost point."
+            "en": "A short walk from the harbor to finish the day at Sweden's southernmost point.",
+            "sv": "En kort promenad från hamnen för att avsluta dagen vid Sveriges sydligaste punkt."
           }
         }
       ],
@@ -1341,7 +1451,8 @@
         "de": "Beginnen Sie Ihren Tag mit dem Auto bei der Wikingerfestung Trelleborgen. Fahren Sie dann ins Stadtzentrum, parken Sie und erkunden Sie zu Fuß den historischen Gamla Torg, die Kirche und das Museum. Am Nachmittag fahren Sie zum riesigen Hafen von Trelleborg. Parken Sie erneut und genießen Sie einen Spaziergang entlang der Kais, vorbei am Wasserturm und enden Sie Ihren Tag entspannt unter den berühmten Palmen an der Küste.",
         "hu": "Kezdje a napot autóval a Trelleborgen viking erődnél. Ezután vezessen a városközpontba, parkoljon le, és fedezze fel gyalog a történelmi Gamla Torgot, a templomot és a múzeumot. Délután hajtson el Trelleborg hatalmas kikötőjébe. Parkoljon le újra, és élvezze a sétát a rakpartok mentén, elhaladva a víztorony mellett, majd fejezze be a napot a híres tengerparti pálmák alatt pihenve.",
         "ro": "Începeți ziua cu mașina la fortăreața vikingă Trelleborgen. Apoi, conduceți spre centrul orașului, parcați și explorați pe jos istorica Gamla Torg, biserica și muzeul. După-amiaza, mergeți cu mașina la imensul port din Trelleborg. Parcați din nou și bucurați-vă de o plimbare de-a lungul cheiurilor, trecând pe lângă turnul de apă și încheind ziua relaxându-vă sub faimoșii palmieri de pe coastă.",
-        "en": "Start your day by car at the Trelleborgen Viking fortress. Then, drive to the city center, park, and explore the historic Gamla Torg, church, and museum on foot. In the afternoon, take the car to Trelleborg's immense harbor. Park again and enjoy a walk along the quays, past the water tower, and end your day relaxing under the famous coastal palm trees."
+        "en": "Start your day by car at the Trelleborgen Viking fortress. Then, drive to the city center, park, and explore the historic Gamla Torg, church, and museum on foot. In the afternoon, take the car to Trelleborg's immense harbor. Park again and enjoy a walk along the quays, past the water tower, and end your day relaxing under the famous coastal palm trees.",
+        "sv": "Starta dagen med bil vid Trelleborgen vikingafästning. Kör sedan till stadens centrum, parkera och utforska historiska Gamla Torg, kyrkan och museet till fots. På eftermiddagen tar du bilen till Trelleborgs stora hamn. Parkera igen och njut av en promenad längs kajerna, förbi vattentornet, och avsluta dagen med att koppla av under de berömda kustpalmerna."
       },
       "gastro_picks": {
         "de": [
@@ -1533,6 +1644,11 @@
           "Parking in the city center is paid. Have coins or a parking app ready.",
           "Plan your clusters to minimize driving. Park once per area and walk.",
           "Traffic around the harbor can be heavy during ferry arrival and departure times."
+        ],
+        "sv": [
+          "Parkering i stadskärnan är avgiftsbelagd. Ha mynt eller en parkeringsapp redo.",
+          "Planera dina kluster för att minimera bilkörning. Parkera en gång per område och gå.",
+          "Trafiken runt hamnen kan vara tät under färjans ankomst- och avgångstider."
         ]
       },
       "variants": {
@@ -1541,7 +1657,8 @@
             "de": "Mit dem Auto ist Trelleborg bei Regen komfortabel zu erkunden. Wir parken direkt an der Wikingerburg und fahren dann zum Stadtzentrum. Den Mittag verbringen wir im Museum, während draußen der Regen fällt. Die Fahrt zum Wasserturm und Hafen bietet trockene Ausblicke auf die stürmische Küste und die nassen Palmen.",
             "hu": "Autóval Trelleborg kényelmesen felfedezhető esőben is. Közvetlenül a viking erőd mellett parkolunk, majd a belváros felé vesszük az irányt. A múzeumban töltjük a delet, amíg kint esik. A víztoronyhoz és a kikötőhöz vezető út során szárazon csodálhatjuk a viharos partot és a vizes pálmákat.",
             "ro": "Cu mașina, Trelleborg este ușor de explorat pe ploaie. Parcăm chiar lângă cetatea vikingă, apoi mergem spre centru. Prânzul îl petrecem la muzeu în timp ce afară plouă. Drumul spre turnul de apă și port oferă vederi uscate asupra coastei furtunoase și a palmierilor uzi.",
-            "en": "By car, Trelleborg is easy to explore even in the rain. We park right by the Viking fortress before heading to the center. Midday is spent in the museum while the rain falls outside. The drive to the water tower and harbor offers dry views of the stormy coast and the wet palms."
+            "en": "By car, Trelleborg is easy to explore even in the rain. We park right by the Viking fortress before heading to the center. Midday is spent in the museum while the rain falls outside. The drive to the water tower and harbor offers dry views of the stormy coast and the wet palms.",
+            "sv": "Med bil är Trelleborg lätt att utforska även i regn. Vi parkerar precis vid vikingafästningen innan vi åker till centrum. Mitt på dagen tillbringar vi tiden på museet medan regnet faller utanför. Bilresan till vattentornet och hamnen ger torra vyer över den stormiga kusten och de blöta palmerna."
           },
           "stops": [
             {
@@ -1550,7 +1667,8 @@
                 "de": "Parken Sie auf dem befestigten Parkplatz am Eingang.",
                 "hu": "Parkoljon a bejáratnál lévő szilárd burkolatú parkolóban.",
                 "ro": "Parcați în parcarea amenajată de la intrare.",
-                "en": "Park in the paved parking lot right by the entrance."
+                "en": "Park in the paved parking lot right by the entrance.",
+                "sv": "Parkera på den belagda parkeringsplatsen precis vid entrén."
               }
             },
             {
@@ -1559,7 +1677,8 @@
                 "de": "Nutzen Sie das Parkhaus 'Centrum' für trockenen Zugang.",
                 "hu": "Használja a 'Centrum' parkolóházat a száraz bejutáshoz.",
                 "ro": "Folosiți parcarea supraetajată 'Centrum' pentru acces uscat.",
-                "en": "Use the 'Centrum' parking garage for dry access to the shops."
+                "en": "Use the 'Centrum' parking garage for dry access to the shops.",
+                "sv": "Använd parkeringshuset 'Centrum' för torr tillgång till butikerna."
               }
             },
             {
@@ -1568,7 +1687,8 @@
                 "de": "Es gibt Kurzzeitparkplätze direkt vor der Kirche.",
                 "hu": "Közvetlenül a templom előtt találhatók rövidtávú parkolók.",
                 "ro": "Există locuri de parcare pe termen scurt chiar în fața bisericii.",
-                "en": "There are short-term parking spots right in front of the church."
+                "en": "There are short-term parking spots right in front of the church.",
+                "sv": "Det finns korttidsparkeringar precis framför kyrkan."
               }
             },
             {
@@ -1577,7 +1697,8 @@
                 "de": "Parkplätze sind meist direkt am Stadtpark vorhanden.",
                 "hu": "Parkolóhelyek általában közvetlenül a városi parknál találhatók.",
                 "ro": "Locurile de parcare sunt disponibile chiar lângă parcul orașului.",
-                "en": "Parking is usually available right by the city park."
+                "en": "Parking is usually available right by the city park.",
+                "sv": "Parkering finns vanligtvis precis vid stadsparken."
               }
             },
             {
@@ -1586,7 +1707,8 @@
                 "de": "Halten Sie kurz am Straßenrand für ein schnelles Foto.",
                 "hu": "Álljon meg röviden az út szélén egy gyors fotóra.",
                 "ro": "Opriți scurt pe marginea drumului pentru o fotografie rapidă.",
-                "en": "Pull over briefly for a quick photo from the car window."
+                "en": "Pull over briefly for a quick photo from the car window.",
+                "sv": "Stanna till kort för ett snabbt foto genom bilrutan."
               }
             },
             {
@@ -1595,7 +1717,8 @@
                 "de": "Vom Parkplatz am Terminal hat man eine gute Sicht aufs Meer.",
                 "hu": "A terminál parkolójából jó rálátás nyílik a tengerre.",
                 "ro": "Din parcarea terminalului aveți o vedere bună spre mare.",
-                "en": "The terminal parking lot offers a good view of the sea."
+                "en": "The terminal parking lot offers a good view of the sea.",
+                "sv": "Terminalens parkeringsplats erbjuder en bra utsikt över havet."
               }
             },
             {
@@ -1604,7 +1727,8 @@
                 "de": "Genießen Sie den Anblick gemütlich aus dem warmen Auto.",
                 "hu": "Élvezze a látványt kényelmesen a meleg autóból.",
                 "ro": "Admirați vederea confortabil din mașina caldă.",
-                "en": "Enjoy the view comfortably from the warmth of your car."
+                "en": "Enjoy the view comfortably from the warmth of your car.",
+                "sv": "Njut av utsikten bekvämt från bilens värme."
               }
             }
           ],
@@ -1632,6 +1756,12 @@
               "Have small change or a parking app ready for the meters.",
               "Visibility might be reduced by fogged-up windows.",
               "Central parking spots fill up quickly when it rains."
+            ],
+            "sv": [
+              "Akta för vattenplaning på kustvägarna.",
+              "Ha växel eller en parkeringsapp redo för parkeringsautomaterna.",
+              "Sikten kan minska på grund av immiga rutor.",
+              "Centrala parkeringsplatser fylls snabbt när det regnar."
             ]
           }
         },
@@ -1640,7 +1770,8 @@
             "de": "Eine winterliche Autofahrt durch Trelleborg zeigt die Stadt im Festschmuck. Nach dem Start an der Wikingerburg fahren wir zum Museum. Die kurzen Wege zwischen den Sehenswürdigkeiten sind ideal bei Kälte. Am Nachmittag genießen wir die beleuchtete Altstadt und den Blick auf die raue Wintersee am Hafen, während die Heizung für Wohlbefinden sorgt.",
             "hu": "A téli autózás Trelleborgban ünnepi díszben mutatja be a várost. A viking erőd után a múzeum felé vesszük az irányt. A látnivalók közötti rövid távok ideálisak a hidegben. Délután az kivilágított óvárost és a kikötői jeges tengeri panorámát élvezzük a fűtött utastér kényelméből.",
             "ro": "O plimbare de iarnă cu mașina prin Trelleborg arată orașul decorat festiv. După cetate, ne îndreptăm spre muzeu. Distanțele scurte între obiective sunt ideale pe ger. După-amiaza admirăm centrul iluminat și marea aspră din port, în timp ce căldura din mașină ne oferă confort.",
-            "en": "A winter drive through Trelleborg shows the city in its festive attire. After starting at the fortress, we head to the museum. The short distances between sights are ideal in the cold. In the afternoon, we enjoy the illuminated old town and the view of the rough winter sea from the harbor."
+            "en": "A winter drive through Trelleborg shows the city in its festive attire. After starting at the fortress, we head to the museum. The short distances between sights are ideal in the cold. In the afternoon, we enjoy the illuminated old town and the view of the rough winter sea from the harbor.",
+            "sv": "En vinterbilresa genom Trelleborg visar staden i sin festklädnad. Efter att ha startat vid fästningen åker vi till museet. De korta avstånden mellan sevärdheterna är idealiska i kylan. På eftermiddagen njuter vi av den upplysta gamla staden och utsikten över det råa vinterhavet från hamnen."
           },
           "stops": [
             {
@@ -1649,7 +1780,8 @@
                 "de": "Vorsicht beim Einparken; Schneehaufen können Parkflächen verengen.",
                 "hu": "Vigyázzon a parkoláskor; a hóbuckák leszűkíthetik a helyet.",
                 "ro": "Atenție la parcare; mormanele de zăpadă pot îngusta spațiul.",
-                "en": "Careful when parking; snow banks can narrow the available space."
+                "en": "Careful when parking; snow banks can narrow the available space.",
+                "sv": "Var försiktig när du parkerar; snövallar kan minska tillgängligt utrymme."
               }
             },
             {
@@ -1658,7 +1790,8 @@
                 "de": "Parken Sie zentral, um die Wege im Freien kurz zu halten.",
                 "hu": "Parkoljon központi helyen, hogy rövid legyen a kinti séta.",
                 "ro": "Parcați central pentru a minimiza timpul petrecut afară.",
-                "en": "Park centrally to keep outdoor walking to a minimum."
+                "en": "Park centrally to keep outdoor walking to a minimum.",
+                "sv": "Parkera centralt för att hålla utomhuspromenader till ett minimum."
               }
             },
             {
@@ -1667,7 +1800,8 @@
                 "de": "Der Zugangsweg kann bei Frost glatt sein.",
                 "hu": "A templomhoz vezető út fagyos időben csúszós lehet.",
                 "ro": "Aleea de acces poate fi alunecoasă pe timp de ger.",
-                "en": "The access path can be slippery in freezing conditions."
+                "en": "The access path can be slippery in freezing conditions.",
+                "sv": "Tillfartsvägen kan vara hal vid fryspunkter."
               }
             },
             {
@@ -1676,7 +1810,8 @@
                 "de": "Ein kurzer Sprint vom Parkplatz zum warmen Eingang.",
                 "hu": "Egy rövid sprint a parkolótól a meleg bejáratig.",
                 "ro": "Un sprint scurt de la parcare până la intrarea călduroasă.",
-                "en": "A short sprint from the car to the warm entrance."
+                "en": "A short sprint from the car to the warm entrance.",
+                "sv": "En kort sprint från bilen till den varma entrén."
               }
             },
             {
@@ -1685,7 +1820,8 @@
                 "de": "Parken Sie mit Blick auf den Turm, um ihn im Warmen zu sehen.",
                 "hu": "Parkoljon a toronyra néző helyen, hogy a melegből láthassa.",
                 "ro": "Parcați cu vedere spre turn pentru a-l vedea de la căldură.",
-                "en": "Park with a view of the tower to see it from the warmth."
+                "en": "Park with a view of the tower to see it from the warmth.",
+                "sv": "Parkera med utsikt över tornet för att se det från värmen."
               }
             },
             {
@@ -1694,7 +1830,8 @@
                 "de": "Vermeiden Sie das Aussteigen bei direktem Seewind.",
                 "hu": "Kerülje a kiszállást, ha közvetlen tengeri szél fúj.",
                 "ro": "Evitați coborârea din mașină dacă bate vântul de mare.",
-                "en": "Avoid getting out if the sea wind is blowing directly at you."
+                "en": "Avoid getting out if the sea wind is blowing directly at you.",
+                "sv": "Undvik att stiga ur om havsvinden blåser rakt mot dig."
               }
             },
             {
@@ -1703,7 +1840,8 @@
                 "de": "Machen Sie ein Foto vom winterlichen Standplatz.",
                 "hu": "Készítsen egy fotót a pálmák hűlt helyéről.",
                 "ro": "Faceți o fotografie locului unde stau palmierii de obicei.",
-                "en": "Take a photo of the winter spot where the palms usually stand."
+                "en": "Take a photo of the winter spot where the palms usually stand.",
+                "sv": "Ta ett foto av vinterplatsen där palmerna vanligtvis står."
               }
             }
           ],
@@ -1731,6 +1869,12 @@
               "Be careful of icy patches in parking lots when getting out.",
               "Ensure your windshield washer fluid is rated for freezing temps.",
               "Do not leave the engine idling unnecessarily."
+            ],
+            "sv": [
+              "Vinterdäck är obligatoriska enligt lag i Sverige.",
+              "Var försiktig med isfläckar i parkeringsplatserna när du kliver ut.",
+              "Se till att spolarvätskan är anpassad för fryspunkter.",
+              "Låt inte motorn gå på tomgång i onödan."
             ]
           }
         }
@@ -1749,7 +1893,8 @@
             "de": "Cluster 1: Stadtzentrum (Hauptbahnhof)",
             "hu": "1. csoport: Városközpont (Főpályaudvar)",
             "ro": "Cluster 1: Centrul Orașului (Gara Centrală)",
-            "en": "Cluster 1: City Center (Central Station)"
+            "en": "Cluster 1: City Center (Central Station)",
+            "sv": "Kluster 1: Stadskärnan (Centralstationen)"
           },
           "coords": [
             13.1575,
@@ -1765,7 +1910,8 @@
             "de": "Beginnen Sie am Hauptbahnhof. Der Gamla Torg ist nur einen kurzen Spaziergang entfernt.",
             "hu": "Kezdje a főpályaudvarnál. A Gamla Torg csak egy rövid sétára van.",
             "ro": "Începeți la Gara Centrală. Gamla Torg este la o scurtă plimbare.",
-            "en": "Start at the Central Station. Gamla Torg is a short walk away."
+            "en": "Start at the Central Station. Gamla Torg is a short walk away.",
+            "sv": "Börja vid Centralstationen. Gamla Torg ligger en kort promenad bort."
           }
         },
         {
@@ -1773,7 +1919,8 @@
             "de": "Sankt Nicolai Kyrka",
             "hu": "Szent Miklós-templom",
             "ro": "Biserica Sfântul Nicolae",
-            "en": "St. Nicholas' Church"
+            "en": "St. Nicholas' Church",
+            "sv": "S:t Nicolai kyrka"
           },
           "coords": [
             13.1585,
@@ -1789,7 +1936,8 @@
             "de": "Vom Platz aus leicht zu Fuß erreichbar.",
             "hu": "Könnyen megközelíthető gyalog a térről.",
             "ro": "Ușor de accesat pe jos din piață.",
-            "en": "Easily walkable from the square."
+            "en": "Easily walkable from the square.",
+            "sv": "Lätt gångavstånd från torget."
           }
         },
         {
@@ -1797,7 +1945,8 @@
             "de": "Trelleborgs Museum",
             "hu": "Trelleborgi Múzeum",
             "ro": "Muzeul Trelleborg",
-            "en": "Trelleborgs Museum"
+            "en": "Trelleborgs Museum",
+            "sv": "Trelleborgs museum"
           },
           "coords": [
             13.156,
@@ -1813,7 +1962,8 @@
             "de": "Ein weiterer kurzer Spaziergang durch das Stadtzentrum.",
             "hu": "Egy újabb rövid séta a városközpontban.",
             "ro": "O altă plimbare scurtă prin centrul orașului.",
-            "en": "Another short walk through the city center."
+            "en": "Another short walk through the city center.",
+            "sv": "Ytterligare en kort promenad genom stadens centrum."
           }
         },
         {
@@ -1821,7 +1971,8 @@
             "de": "Cluster 2: Wikingerfestung (Trelleborgen)",
             "hu": "2. csoport: Viking erőd (Trelleborgen)",
             "ro": "Cluster 2: Fortăreața Vikingă (Trelleborgen)",
-            "en": "Cluster 2: Viking Fortress (Trelleborgen)"
+            "en": "Cluster 2: Viking Fortress (Trelleborgen)",
+            "sv": "Kluster 2: Vikingafästningen (Trelleborgen)"
           },
           "coords": [
             13.148,
@@ -1837,7 +1988,8 @@
             "de": "Nehmen Sie einen lokalen Bus vom Hauptbahnhof. Die Fahrt dauert etwa 10 Minuten.",
             "hu": "Menjen helyi busszal a főpályaudvarról. Az út körülbelül 10 perc.",
             "ro": "Luați un autobuz local de la Gara Centrală. Călătoria durează aproximativ 10 minute.",
-            "en": "Take a local bus from the central station. The ride is about 10 minutes."
+            "en": "Take a local bus from the central station. The ride is about 10 minutes.",
+            "sv": "Ta en lokalbuss från centralstationen. Resan tar cirka 10 minuter."
           }
         },
         {
@@ -1845,7 +1997,8 @@
             "de": "Cluster 3: Hafen & Küste (Trelleborg Hamn)",
             "hu": "3. csoport: Kikötő és part (Trelleborg Hamn)",
             "ro": "Cluster 3: Port și Coastă (Trelleborg Hamn)",
-            "en": "Cluster 3: Harbor & Coast (Trelleborg Hamn)"
+            "en": "Cluster 3: Harbor & Coast (Trelleborg Hamn)",
+            "sv": "Kluster 3: Hamn & kust (Trelleborg hamn)"
           },
           "coords": [
             13.165,
@@ -1861,7 +2014,8 @@
             "de": "Nehmen Sie einen Bus zurück ins Zentrum und dann einen anderen Richtung Hafen.",
             "hu": "Menjen busszal vissza a központba, majd egy másikkal a kikötő felé.",
             "ro": "Luați un autobuz înapoi în centru, apoi altul spre port.",
-            "en": "Take a bus back to the center and then another towards the harbor."
+            "en": "Take a bus back to the center and then another towards the harbor.",
+            "sv": "Ta en buss tillbaka till centrum och sedan en annan mot hamnen."
           }
         },
         {
@@ -1869,7 +2023,8 @@
             "de": "Palmen von Trelleborg",
             "hu": "Trelleborg pálmái",
             "ro": "Palmierii din Trelleborg",
-            "en": "The Palms of Trelleborg"
+            "en": "The Palms of Trelleborg",
+            "sv": "Trelleborgs palmer"
           },
           "coords": [
             13.159,
@@ -1885,7 +2040,8 @@
             "de": "Vom Hafen aus ist es ein angenehmer Spaziergang entlang der Küste, um den Tag ausklingen zu lassen.",
             "hu": "A kikötőből kellemes séta a part mentén a nap befejezéséhez.",
             "ro": "De la port, este o plimbare plăcută de-a lungul coastei pentru a încheia ziua.",
-            "en": "From the harbor, it's a pleasant walk along the coast to end the day."
+            "en": "From the harbor, it's a pleasant walk along the coast to end the day.",
+            "sv": "Från hamnen är det en trevlig promenad längs kusten för att avsluta dagen."
           }
         }
       ],
@@ -1893,7 +2049,8 @@
         "de": "Beginnen Sie Ihren Tag im Herzen von Trelleborg, erkunden Sie das Zentrum zu Fuß. Nehmen Sie dann einen Bus zur Trelleborgen, um in die Wikingerzeit einzutauchen. Nach dem Mittagessen bringt Sie ein weiterer Bus zum geschäftigen Hafen. Von dort aus ist es nur ein kurzer Spaziergang, um den Nachmittag unter den berühmten Palmen zu verbringen und die maritime Atmosphäre von Schwedens südlichster Stadt aufzusaugen.",
         "hu": "Kezdje a napot Trelleborg szívében, gyalogosan felfedezve a központot. Ezután buszozzon el a Trelleborgenhez, hogy elmerüljön a viking korban. Ebéd után egy másik busz elviszi a nyüzsgő kikötőbe. Onnan már csak egy rövid séta, hogy a délutánt a híres pálmák alatt töltse, magába szívva Svédország legdélibb városának tengeri hangulatát.",
         "ro": "Începeți ziua în inima Trelleborgului, explorând centrul pe jos. Apoi, luați un autobuz spre Trelleborgen pentru o imersiune în epoca vikingă. După prânz, un alt autobuz vă va duce la portul aglomerat. De acolo, este doar o scurtă plimbare pentru a petrece după-amiaza sub faimoșii palmieri, absorbind atmosfera maritimă a celui mai sudic oraș al Suediei.",
-        "en": "Start your day in the heart of Trelleborg, exploring the center on foot. Then, take a bus to Trelleborgen for a dive into the Viking age. After lunch, another bus will take you to the bustling harbor. From there, it's just a short walk to spend the afternoon under the famous palm trees, soaking up the maritime atmosphere of Sweden's southernmost city."
+        "en": "Start your day in the heart of Trelleborg, exploring the center on foot. Then, take a bus to Trelleborgen for a dive into the Viking age. After lunch, another bus will take you to the bustling harbor. From there, it's just a short walk to spend the afternoon under the famous palm trees, soaking up the maritime atmosphere of Sweden's southernmost city.",
+        "sv": "Börja dagen i Trelleborgs hjärta och utforska centrum till fots. Ta sedan en buss till Trelleborgen för en djupdykning i vikingatiden. Efter lunch tar du ytterligare en buss till den livliga hamnen. Därifrån är det bara en kort promenad för att tillbringa eftermiddagen under de berömda palmerna och njuta av den maritima atmosfären i Sveriges sydligaste stad."
       },
       "gastro_picks": {
         "de": [
@@ -2085,6 +2242,11 @@
           "Buy a day pass for the local bus system (Skånetrafiken) for the best value.",
           "Download the Skånetrafiken app to see real-time schedules and routes.",
           "Buses are frequent, but check the schedule for the last bus back to the center, especially in the evening."
+        ],
+        "sv": [
+          "Köp ett dagskort för lokalbussarna (Skånetrafiken) för bästa värde.",
+          "Ladda ner Skånetrafiken-appen för att se tidtabeller och rutter i realtid.",
+          "Bussarna är frekventa, men kontrollera tidtabellen för sista bussen tillbaka till centrum, särskilt på kvällen."
         ]
       },
       "variants": {
@@ -2093,7 +2255,8 @@
             "de": "Mit dem Bus bleibt man in Trelleborg weitgehend trocken. Wir starten am Hauptbahnhof und fahren zur Kirche und zum Museum. Die kurzen Wartezeiten an den Haltestellen überbrücken wir unter den Dächern. Ein Ausflug zur Wikingerburg und zum Hafen rundet den Tag ab, während wir die regnerische Landschaft aus dem Busfenster beobachten.",
             "hu": "A buszhálózattal nagyrészt szárazon maradhatunk Trelleborgban. A központi pályaudvartól indulunk a templomhoz és a múzeumhoz. A megállókban a váróterek teteje alatt bújunk meg az eső elől. A viking erőd és a kikötő felé tartva a busz ablakából figyeljük az esőáztatta tájat.",
             "ro": "Cu autobuzul, rămâneți în mare parte uscați în Trelleborg. Pornim de la gara centrală spre biserică și muzeu. Timpul scurt de așteptare în stații este petrecut sub adăpost. O vizită la cetatea vikingă și în port completează ziua, privind peisajul ploios de la fereastra autobuzului.",
-            "en": "By bus, you can stay mostly dry while exploring Trelleborg. We start at the central station and head to the church and museum. We wait for buses under the shelters. A trip to the Viking fortress and harbor rounds off the day, watching the rainy scenery from the bus window."
+            "en": "By bus, you can stay mostly dry while exploring Trelleborg. We start at the central station and head to the church and museum. We wait for buses under the shelters. A trip to the Viking fortress and harbor rounds off the day, watching the rainy scenery from the bus window.",
+            "sv": "Med buss kan du hålla dig mestadels torr medan du utforskar Trelleborg. Vi börjar vid centralstationen och går till kyrkan och museet. Vi väntar på bussarna under busskurerna. En tur till vikingafästningen och hamnen avslutar dagen, med regniga vyer genom bussfönstret."
           },
           "stops": [
             {
@@ -2102,7 +2265,8 @@
                 "de": "Die Bahnhofshalle bietet perfekten Schutz vor Regen.",
                 "hu": "Az állomás csarnoka tökéletes védelmet nyújt az eső ellen.",
                 "ro": "Hala gării oferă protecție perfectă împotriva ploii.",
-                "en": "The station hall provides perfect protection from the rain."
+                "en": "The station hall provides perfect protection from the rain.",
+                "sv": "Stationshallen ger perfekt skydd mot regnet."
               }
             },
             {
@@ -2111,7 +2275,8 @@
                 "de": "Die Haltestelle ist nur einen kurzen Sprint entfernt.",
                 "hu": "A buszmegálló csak egy rövid sprintre van a templomtól.",
                 "ro": "Stația de autobuz este la doar un scurt sprint distanță.",
-                "en": "The bus stop is only a short sprint away from the church."
+                "en": "The bus stop is only a short sprint away from the church.",
+                "sv": "Busshållplatsen ligger endast en kort sprint från kyrkan."
               }
             },
             {
@@ -2120,7 +2285,8 @@
                 "de": "Nutzen Sie den überdachten Eingangsbereich beim Warten.",
                 "hu": "Használja a fedett bejáratot, amíg a buszra vár.",
                 "ro": "Folosiți intrarea acoperită în timp ce așteptați.",
-                "en": "Use the sheltered entrance area while waiting for your ride."
+                "en": "Use the sheltered entrance area while waiting for your ride.",
+                "sv": "Använd det skyddade entréområdet medan du väntar på din tur."
               }
             },
             {
@@ -2129,7 +2295,8 @@
                 "de": "Die nächste Haltestelle hat ein verglastes Wartehäuschen.",
                 "hu": "A legközelebbi megálló üvegezett váróval rendelkezik.",
                 "ro": "Cea mai apropiată stație are un adăpost de sticlă.",
-                "en": "The nearest stop has a glass shelter to keep you dry."
+                "en": "The nearest stop has a glass shelter to keep you dry.",
+                "sv": "Närmaste hållplats har en glasburs för att hålla dig torr."
               }
             },
             {
@@ -2138,7 +2305,8 @@
                 "de": "Bleiben Sie im Terminalgebäude, bis der Bus einfährt.",
                 "hu": "Maradjon a terminál épületében, amíg beáll a busz.",
                 "ro": "Stați în clădirea terminalului până sosește autobuzul.",
-                "en": "Stay inside the terminal building until the bus arrives."
+                "en": "Stay inside the terminal building until the bus arrives.",
+                "sv": "Stanna inne i terminalbyggnaden tills bussen anländer."
               }
             },
             {
@@ -2147,7 +2315,8 @@
                 "de": "Die Haltestelle bietet einen direkten Blick auf die Palmen.",
                 "hu": "A megállóból közvetlen rálátás nyílik a pálmákra.",
                 "ro": "Stația oferă o vedere directă spre palmieri.",
-                "en": "The bus stop offers a direct view of the palm trees."
+                "en": "The bus stop offers a direct view of the palm trees.",
+                "sv": "Busshållplatsen erbjuder en fri vy över palmträden."
               }
             }
           ],
@@ -2175,6 +2344,12 @@
               "City buses often run every 20 minutes.",
               "Wear clothing that dries quickly even in high humidity.",
               "Some peripheral bus stops lack weather protection."
+            ],
+            "sv": [
+              "Använd appen 'Skånetrafiken' för realtidsuppföljning av bussar.",
+              "Stadsbussar går ofta var 20:e minut.",
+              "Bär kläder som torkar snabbt även vid hög luftfuktighet.",
+              "Vissa perifera buss hållplatser saknar skydd mot väder och vind."
             ]
           }
         },
@@ -2183,7 +2358,8 @@
             "de": "Die warmen Busse in Trelleborg sind im Winter ein Segen. Wir fahren vom Bahnhof zu den Museen und genießen die weihnachtliche Beleuchtung der Stadt. Die Fahrt zur Wikingerburg im Dämmerlicht ist besonders stimmungsvoll. Am Abend bringt uns der Bus zum Hafen, wo wir die klirrende Kälte der Ostsee kurz erleben, bevor wir wieder ins Warme steigen.",
             "hu": "A fűtött trelleborgi buszok télen igazi áldást jelentenek. A pályaudvartól a múzeumokig utazunk, útközben az ünnepi kivilágításban gyönyörködve. A viking erődhöz tartó út a szürkületben különösen hangulatos. Este a busz a kikötőhöz visz, ahol rövid időre érezzük a jeges szelet, majd visszatérünk a melegbe.",
             "ro": "Autobuzele încălzite din Trelleborg sunt o binecuvântare iarna. Mergem de la gară la muzee și admirăm luminile festive. Drumul spre cetatea vikingă în amurg este foarte atmosferic. Seara, autobuzul ne duce în port, unde simțim gerul mării înainte de a reveni la căldură.",
-            "en": "The heated buses in Trelleborg are a blessing in winter. We ride from the station to the museums, enjoying the festive lights along the way. The trip to the Viking fortress in the twilight is especially atmospheric. In the evening, the bus takes us to the harbor to feel the icy chill before returning to the warmth."
+            "en": "The heated buses in Trelleborg are a blessing in winter. We ride from the station to the museums, enjoying the festive lights along the way. The trip to the Viking fortress in the twilight is especially atmospheric. In the evening, the bus takes us to the harbor to feel the icy chill before returning to the warmth.",
+            "sv": "De uppvärmda bussarna i Trelleborg är en välsignelse på vintern. Vi åker från stationen till museerna och njuter av de festliga ljusen längs vägen. Resan till vikingafästningen i skymningen är särskilt stämningsfull. På kvällen tar bussen oss till hamnen för att känna den isiga kylan innan vi återvänder till värmen."
           },
           "stops": [
             {
@@ -2192,7 +2368,8 @@
                 "de": "Warten Sie in der beheizten Bahnhofshalle auf Ihren Bus.",
                 "hu": "Várja a buszt a fűtött állomási váróteremben.",
                 "ro": "Așteptați autobuzul în sala de așteptare încălzită a gării.",
-                "en": "Wait for your bus in the heated station waiting area."
+                "en": "Wait for your bus in the heated station waiting area.",
+                "sv": "Vänta på din buss i den uppvärmda väntsal på stationen."
               }
             },
             {
@@ -2201,7 +2378,8 @@
                 "de": "Die Busse sind gut geheizt und bieten eine Pause von der Kälte.",
                 "hu": "A buszok jól fűtöttek, pihenőt nyújtanak a hideg ellen.",
                 "ro": "Autobuzele sunt bine încălzite și oferă un respiro de la frig.",
-                "en": "The buses are well-heated and offer a break from the cold."
+                "en": "The buses are well-heated and offer a break from the cold.",
+                "sv": "Bussarna är väl uppvärmda och ger en paus från kylan."
               }
             },
             {
@@ -2210,7 +2388,8 @@
                 "de": "Der Stadtpark wirkt im Winterlicht wie verzaubert.",
                 "hu": "A városi park a téli fényekben varázslatosnak tűnik.",
                 "ro": "Parcul orașului pare fermecat în lumina iernii.",
-                "en": "The city park looks enchanted in the winter light."
+                "en": "The city park looks enchanted in the winter light.",
+                "sv": "Stadsparken ser förtrollad ut i vinterljuset."
               }
             },
             {
@@ -2219,7 +2398,8 @@
                 "de": "Achten Sie auf die Fahrzeiten; im Winter gibt es oft Abweichungen.",
                 "hu": "Ügyeljen a menetrendre; télen előfordulhatnak eltérések.",
                 "ro": "Atenție la orar; iarna pot apărea modificări.",
-                "en": "Check the schedule; winter can sometimes cause delays."
+                "en": "Check the schedule; winter can sometimes cause delays.",
+                "sv": "Kontrollera tidtabellen; vintern kan ibland orsaka förseningar."
               }
             },
             {
@@ -2228,7 +2408,8 @@
                 "de": "Der Blick auf die beleuchteten Fähren ist im Winter grandios.",
                 "hu": "A kivilágított kompok látványa télen lenyűgöző.",
                 "ro": "Vederea feriboturilor iluminate este grandioasă iarna.",
-                "en": "The view of the illuminated ferries is grand in winter."
+                "en": "The view of the illuminated ferries is grand in winter.",
+                "sv": "Utsikten över de upplysta färjorna är storslagen under vintern."
               }
             },
             {
@@ -2237,7 +2418,8 @@
                 "de": "Die Haltestelle ist im Winter oft festlich geschmückt.",
                 "hu": "A megálló télen gyakran ünnepi díszítést kap.",
                 "ro": "Stația este adesea decorată festiv în timpul iernii.",
-                "en": "The bus stop is often festively decorated in winter."
+                "en": "The bus stop is often festively decorated in winter.",
+                "sv": "Busshållplatsen är ofta festligt dekorerad på vintern."
               }
             }
           ],
@@ -2265,6 +2447,12 @@
               "The Skånetrafiken app displays delays caused by snow.",
               "Keep your phone in an inner pocket to preserve battery life.",
               "Seats near the bus heaters are very popular in winter."
+            ],
+            "sv": [
+              "Busstidtabeller kan ändras under helgsäsongen.",
+              "Skånetrafiken-appen visar förseningar orsakade av snö.",
+              "Håll telefonen i en innerficka för att bevara batteritiden.",
+              "Säten nära bussarnas värmeelement är mycket populära på vintern."
             ]
           }
         }

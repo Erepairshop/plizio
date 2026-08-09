@@ -32,7 +32,8 @@
             "de": "Das historische Zentrum der Stadt.",
             "hu": "A város történelmi központja.",
             "ro": "Centrul istoric al orașului.",
-            "en": "The historical center of the city."
+            "en": "The historical center of the city.",
+            "sv": "Stadens historiska centrum."
           }
         },
         {
@@ -51,7 +52,8 @@
             "de": "Bewundern Sie die schöne Architektur.",
             "hu": "Csodálja meg a gyönyörű építészetet.",
             "ro": "Admirați arhitectura frumoasă.",
-            "en": "Admire the beautiful architecture."
+            "en": "Admire the beautiful architecture.",
+            "sv": "Beundra den vackra arkitekturen."
           }
         },
         {
@@ -70,7 +72,8 @@
             "de": "Ein faszinierendes altes Holzhaus.",
             "hu": "Lenyűgöző régi faház.",
             "ro": "O fascinantă casă veche de lemn.",
-            "en": "A fascinating old wooden house."
+            "en": "A fascinating old wooden house.",
+            "sv": "Ett fascinerande gammalt trähus."
           }
         },
         {
@@ -89,7 +92,8 @@
             "de": "Schauplatz des historischen Nyköping-Gastmahls.",
             "hu": "A híres nyköpingi lakoma helyszíne.",
             "ro": "Locul istoricului banchet de la Nyköping.",
-            "en": "Site of the historic Nyköping Banquet."
+            "en": "Site of the historic Nyköping Banquet.",
+            "sv": "Platsen för det historiska Nyköpings gästabud."
           }
         },
         {
@@ -108,7 +112,8 @@
             "de": "Spannende interaktive Ausstellungen.",
             "hu": "Izgalmas és interaktív kiállítások.",
             "ro": "Expoziții interactive captivante.",
-            "en": "Exciting interactive exhibitions."
+            "en": "Exciting interactive exhibitions.",
+            "sv": "Spännande interaktiva utställningar."
           }
         },
         {
@@ -127,7 +132,8 @@
             "de": "Der perfekte Ort für ein Eis.",
             "hu": "Tökéletes hely egy fagyizáshoz.",
             "ro": "Locul perfect pentru o înghețată.",
-            "en": "The perfect spot for an ice cream."
+            "en": "The perfect spot for an ice cream.",
+            "sv": "Den perfekta platsen för en glass."
           }
         },
         {
@@ -146,7 +152,8 @@
             "de": "Genießen Sie den herrlichen Blick auf das Wasser.",
             "hu": "Élvezze a csodás kilátást a vízre.",
             "ro": "Bucurați-vă de priveliștea minunată asupra apei.",
-            "en": "Enjoy the great view of the water."
+            "en": "Enjoy the great view of the water.",
+            "sv": "Njut av den fina utsikten över vattnet."
           }
         }
       ],
@@ -154,7 +161,8 @@
         "de": "Beginnen Sie am Stora torget im Herzen der Stadt. Erkunden Sie die Altstadt und die historischen Kirchen in Ruhe. Am Mittag locken das mittelalterliche Schloss Nyköpingshus und das moderne Sörmlands Museum. Nachmittags spazieren Sie entspannt am lebhaften Hafen entlang. Lassen Sie den Tag mit einem weiten Blick vom Pier Piren ausklingen.",
         "hu": "Kezdje a napot a város szívében, a Stora torget téren. Fedezze fel az óvárost és a történelmi templomokat. Ebédidőben várja a Nyköpingshus kastély és a modern Sörmlands Múzeum. Délután sétáljon egyet a nyüzsgő és hangulatos kikötőben. Zárja a napot a Piren mólóról nyíló gyönyörű kilátással.",
         "ro": "Începeți ziua în inima orașului, în Piața Stora torget. Explorați orașul vechi și bisericile istorice în tihnă. La prânz, vizitați castelul medieval Nyköpingshus și modernul Muzeu Sörmlands. După-amiaza faceți o plimbare relaxantă în portul animat. Încheiați ziua cu o priveliște superbă de pe digul Piren.",
-        "en": "Start your day in the heart of the city at Stora torget. Explore the old town and historic churches at your own pace. At midday, visit the medieval Nyköpingshus castle and the modern Sörmlands Museum. In the afternoon, take a relaxing stroll along the vibrant harbor. End your day with a sweeping view from the Piren pier."
+        "en": "Start your day in the heart of the city at Stora torget. Explore the old town and historic churches at your own pace. At midday, visit the medieval Nyköpingshus castle and the modern Sörmlands Museum. In the afternoon, take a relaxing stroll along the vibrant harbor. End your day with a sweeping view from the Piren pier.",
+        "sv": "Börja dagen i stadens hjärta på Stora torget. Utforska gamla stan och historiska kyrkor i egen takt. Mitt på dagen, besök medeltidsborgen Nyköpingshus och moderna Sörmlands museum. På eftermiddagen, ta en avkopplande promenad längs den livliga hamnen. Avsluta dagen med en vidsträckt utsikt från piren."
       },
       "gastro_picks": {
         "de": [
@@ -350,6 +358,12 @@
           "In summer, the harbor area is very lively.",
           "Make sure to try the local fish dishes.",
           "Museums are often closed on Mondays."
+        ],
+        "sv": [
+          "Ha bekväma skor för gamla stan.",
+          "På sommaren är hamnområdet mycket livligt.",
+          "Se till att prova lokala fiskrätter.",
+          "Museer är ofta stängda på måndagar."
         ]
       },
       "variants": {
@@ -358,7 +372,8 @@
             "de": "Beginnen Sie Ihren Tag am Stora torget unter den Arkaden. Der Spaziergang zur Alla Helgona kyrka bietet Schutz unter den alten Bäumen. Mittags ist das Nyköpingshus der perfekte Ort, um dem Regen in den dicken Festungsmauern zu entkommen. Den Nachmittag verbringen Sie im modernen Sörmlands museum, bevor Sie den windigen Hafen nur kurz besuchen und sich in ein Café flüchten.",
             "hu": "Kezdje a napot a Stora torget árkádjai alatt. Az Alla Helgona templom felé vezető út rövid, a fák némi védelmet nyújtanak. Délidőben a Nyköpingshus vastag falai között keressen menedéket az eső elől. A délutánt a Sörmlands múzeum interaktív kiállításain töltse, a kikötői sétát pedig csak rövidre fogja a szeles időben, mielőtt beülne egy forró teára.",
             "ro": "Începeți ziua în Stora torget, folosind arcadele clădirilor. Drumul spre biserica Alla Helgona este scurt, oferind adăpost sub copaci. La prânz, zidurile groase de la Nyköpingshus vă feresc de ploaie. Petreceți după-amiaza în interior la muzeul Sörmlands, iar vizita în port trebuie scurtată din cauza vântului, preferând o cafenea primitoare.",
-            "en": "Start your day at Stora torget, utilizing the building overhangs. The walk to Alla Helgona church is short, with trees providing some cover. At noon, Nyköpingshus's thick walls offer a dry sanctuary. Spend the afternoon inside Sörmlands museum, and keep your harbor visit brief due to the wind, heading quickly to a nearby indoor spot."
+            "en": "Start your day at Stora torget, utilizing the building overhangs. The walk to Alla Helgona church is short, with trees providing some cover. At noon, Nyköpingshus's thick walls offer a dry sanctuary. Spend the afternoon inside Sörmlands museum, and keep your harbor visit brief due to the wind, heading quickly to a nearby indoor spot.",
+            "sv": "Börja dagen på Stora torget och använd byggnadernas taköverhäng. Promenaden till Alla Helgona kyrka är kort, med träd som ger viss skydd. Vid middagstid erbjuder Nyköpingshus tjocka murar en torr fristad. Tillbringa eftermiddagen inne på Sörmlands museum och håll hamnbesöket kort på grund av vinden, och sök snabbt upp ett närliggande inomhusställe."
           },
           "stops": [
             {
@@ -367,7 +382,8 @@
                 "de": "Nutzen Sie die Cafés rund um den Platz als trockene Basis.",
                 "hu": "Használja a tér körüli kávézókat száraz bázisként.",
                 "ro": "Folosiți cafenelele din jurul pieței ca bază uscată.",
-                "en": "Use the cafes around the square as a dry base."
+                "en": "Use the cafes around the square as a dry base.",
+                "sv": "Använd kaféerna runt torget som en torr bas."
               }
             },
             {
@@ -376,7 +392,8 @@
                 "de": "Ein ruhiger, trockener Ort für eine Besinnungspause.",
                 "hu": "Csendes, száraz hely egy spirituális pihenőhöz.",
                 "ro": "Un loc liniștit și uscat pentru o pauză de reflecție.",
-                "en": "A quiet, dry place for a reflective break."
+                "en": "A quiet, dry place for a reflective break.",
+                "sv": "En lugn, torr plats för en reflekterande paus."
               }
             },
             {
@@ -385,7 +402,8 @@
                 "de": "Das historische Gebäude bietet guten Schutz vor Schauern.",
                 "hu": "A történelmi épület jó védelmet nyújt a záporok ellen.",
                 "ro": "Clădirea istorică oferă adăpost bun împotriva ploii.",
-                "en": "The historic building provides good shelter from showers."
+                "en": "The historic building provides good shelter from showers.",
+                "sv": "Den historiska byggnaden ger gott skydd mot skurar."
               }
             },
             {
@@ -394,7 +412,8 @@
                 "de": "Die Innenausstellungen sind ideal bei starkem Regen.",
                 "hu": "A belső kiállítások ideálisak heves esőzés esetén.",
                 "ro": "Expozițiile interioare sunt ideale în caz de ploaie torențială.",
-                "en": "Internal exhibits are ideal during heavy rain."
+                "en": "Internal exhibits are ideal during heavy rain.",
+                "sv": "Interna utställningar är idealiska vid kraftigt regn."
               }
             },
             {
@@ -403,7 +422,8 @@
                 "de": "Das beste Ziel in Nyköping für verregnete Nachmittage.",
                 "hu": "Nyköping legjobb célpontja esős délutánokra.",
                 "ro": "Cea mai bună destinație din Nyköping pentru după-amiezi ploioase.",
-                "en": "Nyköping's best destination for rainy afternoons."
+                "en": "Nyköping's best destination for rainy afternoons.",
+                "sv": "Nyköpings bästa destination för regniga eftermiddagar."
               }
             },
             {
@@ -412,7 +432,8 @@
                 "de": "Vorsicht, die Holzstege können bei Nässe rutschig sein.",
                 "hu": "Vigyázat, a fapallók nedvesen csúszósak lehetnek.",
                 "ro": "Atenție, pontoanele de lemn pot fi alunecoase când sunt ude.",
-                "en": "Caution, the wooden boardwalks can be slippery when wet."
+                "en": "Caution, the wooden boardwalks can be slippery when wet.",
+                "sv": "Varning, träbryggorna kan vara hala när de är våta."
               }
             },
             {
@@ -421,7 +442,8 @@
                 "de": "Sehr windanfällig; halten Sie den Schirm gut fest.",
                 "hu": "Erősen szeles rész; fogja szorosan az esernyőt.",
                 "ro": "Zonă cu vânt puternic; țineți bine umbrela.",
-                "en": "Very windy area; hold your umbrella firmly."
+                "en": "Very windy area; hold your umbrella firmly.",
+                "sv": "Mycket blåsigt område; håll i paraplyet ordentligt."
               }
             }
           ],
@@ -449,6 +471,12 @@
               "Gallerian shopping center provides dry passages downtown.",
               "Use the Sörmlandstrafiken app for short bus hops.",
               "Museums offer free cloakrooms for wet jackets."
+            ],
+            "sv": [
+              "En vindtät regnjacka är mer praktisk än ett paraply.",
+              "Gallerian shoppingcenter ger torra genomgångar i centrum.",
+              "Använd Sörmlandstrafiken-appen för korta bussresor.",
+              "Museerna erbjuder gratis garderober för blöta jackor."
             ]
           }
         },
@@ -457,7 +485,8 @@
             "de": "Morgens glitzert der Frost auf dem Stora torget. Nach dem Besuch der warmen Kirche führt der Weg zum Nyköpingshus, dessen weiße Mauern im Schnee beeindruckend wirken. Da es bereits gegen 15:00 Uhr dunkel wird, verbringen Sie die späten Stunden im beleuchteten Sörmlands museum. Der Hafenbesuch zum Sonnenuntergang bietet eine frostige, aber magische Atmosphäre am vereisten Wasser.",
             "hu": "Reggel dér csillog a Stora torget kövein. A meleg templomlátogatás után a Nyköpingshus felé vegye az irányt, amelynek fehér falai lenyűgözőek a hóban. Mivel 15:00 körül sötétedik, a késői órákat a kivilágított Sörmlands múzeumban töltse. A kikötői naplemente fagyos, de mágikus élmény az összefagyott vízparton.",
             "ro": "Dimineața, promoroaca strălucește în Stora torget. După vizita la biserica încălzită, mergeți spre Nyköpingshus, ale cărui ziduri albe arată impresionant în zăpadă. Deoarece se întunecă în jurul orei 15:00, petreceți orele târzii în muzeul Sörmlands iluminat. Apusul în port oferă o atmosferă înghețată, dar magică.",
-            "en": "Morning frost glistens on Stora torget. After a warm church visit, head to Nyköpingshus, where white walls look stunning against the snow. Since it gets dark around 3 PM, spend the late hours in the lit Sörmlands museum. Sunset at the harbor offers a frosty but magical atmosphere by the icy water."
+            "en": "Morning frost glistens on Stora torget. After a warm church visit, head to Nyköpingshus, where white walls look stunning against the snow. Since it gets dark around 3 PM, spend the late hours in the lit Sörmlands museum. Sunset at the harbor offers a frosty but magical atmosphere by the icy water.",
+            "sv": "Morgonfrosten glittrar på Stora torget. Efter ett varmt kyrkobesök, gå till Nyköpingshus där vita murar är vackra mot snön. Eftersom det blir mörkt runt klockan 15, tillbringa de sena timmarna i det upplysta Sörmlands museum. Solnedgången i hamnen erbjuder en frostig men magisk stämning vid det isiga vattnet."
           },
           "stops": [
             {
@@ -466,7 +495,8 @@
                 "de": "Vorsicht vor vereisten Stellen auf dem Kopfsteinpflaster.",
                 "hu": "Vigyázzon a jeges foltokra a macskakövön.",
                 "ro": "Atenție la porțiunile înghețate de pe pavaj.",
-                "en": "Watch out for icy patches on the cobblestones."
+                "en": "Watch out for icy patches on the cobblestones.",
+                "sv": "Se upp för isfläckar på kullerstenen."
               }
             },
             {
@@ -475,7 +505,8 @@
                 "de": "Ein idealer Ort, um sich zwischen den Etappen aufzuwärmen.",
                 "hu": "Ideális hely a felmelegedéshez az etapok között.",
                 "ro": "Un loc ideal pentru a vă încălzi între etape.",
-                "en": "An ideal place to warm up between segments."
+                "en": "An ideal place to warm up between segments.",
+                "sv": "En idealisk plats att värma sig mellan etapperna."
               }
             },
             {
@@ -484,7 +515,8 @@
                 "de": "Oft weihnachtlich beleuchtet und sehr fotogen im Schnee.",
                 "hu": "Gyakran karácsonyi díszben pompázik a hóban.",
                 "ro": "Adesea iluminat festiv și foarte fotogenic în zăpadă.",
-                "en": "Often features festive lights and is very photogenic in snow."
+                "en": "Often features festive lights and is very photogenic in snow.",
+                "sv": "Ofta prytt med festliga ljus och mycket fotogenisk i snö."
               }
             },
             {
@@ -493,7 +525,8 @@
                 "de": "Gutes Schuhwerk für den verschneiten Innenhof nötig.",
                 "hu": "A havas belső udvarhoz megfelelő bakancs szükséges.",
                 "ro": "E nevoie de încălțăminte adecvată pentru curtea înzăpezită.",
-                "en": "Sturdy boots are needed for the snowy courtyard."
+                "en": "Sturdy boots are needed for the snowy courtyard.",
+                "sv": "Rejäla kängor behövs för den snöiga gårdsplanen."
               }
             },
             {
@@ -502,7 +535,8 @@
                 "de": "Das Bistro bietet heiße schwedische Spezialitäten an.",
                 "hu": "A bisztró forró svéd különlegességeket kínál.",
                 "ro": "Bistroul oferă specialități suedeze calde.",
-                "en": "The bistro offers hot Swedish specialties."
+                "en": "The bistro offers hot Swedish specialties.",
+                "sv": "Bistron erbjuder heta svenska specialiteter."
               }
             },
             {
@@ -511,7 +545,8 @@
                 "de": "Warme Kleidung ist wegen des Seewindes essenziell.",
                 "hu": "A tengeri szél miatt a meleg ruházat elengedhetetlen.",
                 "ro": "Îmbrăcămintea groasă e esențială din cauza vântului marin.",
-                "en": "Warm clothing is essential due to the sea breeze."
+                "en": "Warm clothing is essential due to the sea breeze.",
+                "sv": "Varma kläder är nödvändiga på grund av havsbrisen."
               }
             },
             {
@@ -520,7 +555,8 @@
                 "de": "Der perfekte Ort für Fotos vom winterlichen Sonnenuntergang.",
                 "hu": "Tökéletes hely a téli naplemente fotózásához.",
                 "ro": "Locul perfect pentru fotografii cu apusul de iarnă.",
-                "en": "The perfect spot for winter sunset photos."
+                "en": "The perfect spot for winter sunset photos.",
+                "sv": "Den perfekta platsen för vinter-solnedgångsbilder."
               }
             }
           ],
@@ -548,6 +584,12 @@
               "Wear reflectors, as it gets dark very early in the afternoon.",
               "Wool socks and thermal layers are a must in Nyköping.",
               "Most paths in the center are cleared and salted regularly."
+            ],
+            "sv": [
+              "Solen går ner före kl. 15 i december.",
+              "Använd reflexer, det blir mycket mörkt tidigt på eftermiddagen.",
+              "Ullstrumpor och termiska lager är ett måste i Nyköping.",
+              "De flesta stigar i centrum skottas och halkbekämpas regelbundet."
             ]
           }
         }
@@ -577,7 +619,8 @@
             "de": "Startpunkt im Zentrum.",
             "hu": "Indulópont a központban.",
             "ro": "Punct de plecare în centru.",
-            "en": "Starting point in the center."
+            "en": "Starting point in the center.",
+            "sv": "Startpunkt i centrum."
           }
         },
         {
@@ -596,7 +639,8 @@
             "de": "Fahrrad gut abschließen.",
             "hu": "Zárja le biztonságosan a biciklit.",
             "ro": "Asigurați-vă bine bicicleta.",
-            "en": "Lock your bike securely."
+            "en": "Lock your bike securely.",
+            "sv": "Lås din cykel ordentligt."
           }
         },
         {
@@ -615,7 +659,8 @@
             "de": "Direkt neben dem Schloss.",
             "hu": "Közvetlenül a kastély mellett.",
             "ro": "Chiar lângă castel.",
-            "en": "Right next to the castle."
+            "en": "Right next to the castle.",
+            "sv": "Precis intill slottet."
           }
         },
         {
@@ -634,7 +679,8 @@
             "de": "Schöne Radwege am Wasser.",
             "hu": "Szép kerékpárutak a vízparton.",
             "ro": "Piste de biciclete frumoase pe malul apei.",
-            "en": "Beautiful bike paths by the water."
+            "en": "Beautiful bike paths by the water.",
+            "sv": "Vackra cykelvägar vid vattnet."
           }
         },
         {
@@ -653,7 +699,8 @@
             "de": "Radeln Sie bis ans Ende des Piers.",
             "hu": "Tekerjen el a móló végéig.",
             "ro": "Pedalați până la capătul digului.",
-            "en": "Cycle to the end of the pier."
+            "en": "Cycle to the end of the pier.",
+            "sv": "Cykla till slutet av piren."
           }
         },
         {
@@ -672,7 +719,8 @@
             "de": "Ein schöner Abschluss in der Natur.",
             "hu": "Szép befejezés a természetben.",
             "ro": "O încheiere frumoasă în natură.",
-            "en": "A beautiful finish in nature."
+            "en": "A beautiful finish in nature.",
+            "sv": "Ett vackert mål i naturen."
           }
         }
       ],
@@ -680,7 +728,8 @@
         "de": "Starten Sie am Stora torget und radeln Sie gemütlich durch die Altstadt. Besuchen Sie am Vormittag das Schloss Nyköpingshus und das angrenzende Sörmlands Museum. Nachmittags fahren Sie am Hafen entlang zum Pier Piren. Die Tour endet mit einer längeren Fahrt ins ruhige Naturreservat Labro ängar.",
         "hu": "Induljon a Stora torget térről, és tekerjen kényelmesen az óvároson át. Délelőtt látogassa meg a Nyköpingshus kastélyt és a Sörmlands Múzeumot. Délután guruljon végig a kikötőben a Piren mólóig. A túra a csendes Labro ängar természetvédelmi terület felfedezésével ér véget.",
         "ro": "Porniți de la Stora torget și pedalați relaxat prin orașul vechi. Dimineața, vizitați Castelul Nyköpingshus și Muzeul Sörmlands alăturat. După-amiaza, mergeți de-a lungul portului până la digul Piren. Turul se încheie cu o plimbare spre rezervația naturală liniștită Labro ängar.",
-        "en": "Start at Stora torget and cycle leisurely through the old town. In the morning, visit Nyköpingshus castle and the adjacent Sörmlands Museum. In the afternoon, ride along the harbor to the Piren pier. The tour ends with a longer ride to the tranquil Labro ängar nature reserve."
+        "en": "Start at Stora torget and cycle leisurely through the old town. In the morning, visit Nyköpingshus castle and the adjacent Sörmlands Museum. In the afternoon, ride along the harbor to the Piren pier. The tour ends with a longer ride to the tranquil Labro ängar nature reserve.",
+        "sv": "Starta vid Stora torget och cykla lugnt genom gamla stan. På förmiddagen, besök Nyköpingshus slott och intilliggande Sörmlands museum. På eftermiddagen, ta vägen längs hamnen till Piren. Turen avslutas med en längre cykeltur till det fridfulla naturreservatet Labro ängar."
       },
       "gastro_picks": {
         "de": [
@@ -876,6 +925,12 @@
           "Use the beautiful paths along the water.",
           "Always secure your bike properly at the castle.",
           "Be especially careful of pedestrians in the harbor area."
+        ],
+        "sv": [
+          "Nyköping är en mycket cykelvänlig stad.",
+          "Använd de vackra stråken längs vattnet.",
+          "Se alltid till att din cykel är ordentligt låst vid slottet.",
+          "Var särskilt uppmärksam på fotgängare i hamnområdet."
         ]
       },
       "variants": {
@@ -884,7 +939,8 @@
             "de": "Radeln Sie vorsichtig über den nassen Stora torget zum Nyköpingshus. Die Uferwege am Fluss Nyköpingsån sind asphaltiert, aber Vorsicht vor Pfützen. Das Sörmlands museum bietet ausreichend überdachte Fahrradständer. Am Nachmittag führt die Tour zum Hafen, wo der Wind die Fahrt erschweren kann, bevor Sie die Labro ängar auf festeren Wegen erkunden.",
             "hu": "Óvatosan tekerjen a vizes Stora torgetről a vár felé. A Nyköpingsån folyó menti utak aszfaltozottak, de ügyeljen a tócsákra. A Sörmlands múzeumnál bőven van fedett kerékpártároló. Délután a kikötő felé a szél nehezítheti a haladást, majd a Labro ängar következik a szilárdabb ösvényeken.",
             "ro": "Pedalați cu grijă din Stora torget spre castel pe pavajul ud. Potecile de-a lungul râului Nyköpingsån sunt asfaltate, dar atenție la bălți. Muzeul Sörmlands are destule rastele acoperite. După-amiaza, vântul poate îngreuna drumul spre port, înainte de a explora Labro ängar pe potecile mai ferme.",
-            "en": "Cycle carefully from the wet Stora torget toward the castle. Paths along Nyköpingsån river are paved, but watch for puddles. Sörmlands museum provides ample covered bike parking. In the afternoon, wind might challenge your ride to the harbor before exploring Labro ängar on firmer trails."
+            "en": "Cycle carefully from the wet Stora torget toward the castle. Paths along Nyköpingsån river are paved, but watch for puddles. Sörmlands museum provides ample covered bike parking. In the afternoon, wind might challenge your ride to the harbor before exploring Labro ängar on firmer trails.",
+            "sv": "Cykla försiktigt från det blöta Stora torget mot slottet. Stigarna längs Nyköpingsån är belagda, men var uppmärksam på vattenpölar. Sörmlands museum har gott om täckt cykelparkering. På eftermiddagen kan vindarna göra färden mot hamnen tuffare innan du utforskar Labro ängar på fastare stigar."
           },
           "stops": [
             {
@@ -893,7 +949,8 @@
                 "de": "Das Kopfsteinpflaster ist bei Nässe extrem rutschig.",
                 "hu": "A macskakő nedvesen rendkívül csúszós.",
                 "ro": "Pavajul este extrem de alunecos când este ud.",
-                "en": "The cobblestones are extremely slippery when wet."
+                "en": "The cobblestones are extremely slippery when wet.",
+                "sv": "Kobbelstenarna är extremt hala när de är våta."
               }
             },
             {
@@ -902,7 +959,8 @@
                 "de": "Parken Sie Ihr Rad an den festen Bügeln am Eingang.",
                 "hu": "Parkolja le a bringát a bejáratnál lévő tárolóknál.",
                 "ro": "Parcați bicicleta la rastelele de la intrare.",
-                "en": "Park your bike at the racks by the entrance."
+                "en": "Park your bike at the racks by the entrance.",
+                "sv": "Parkera din cykel vid ställena vid entrén."
               }
             },
             {
@@ -911,7 +969,8 @@
                 "de": "Großer, gut beleuchteter Parkplatz direkt am Gebäude.",
                 "hu": "Nagy, jól megvilágított parkoló közvetlenül az épületnél.",
                 "ro": "Parcare mare și bine iluminată chiar lângă clădire.",
-                "en": "Large, well-lit parking area right by the building."
+                "en": "Large, well-lit parking area right by the building.",
+                "sv": "Stor, välbelyst parkeringsyta precis vid byggnaden."
               }
             },
             {
@@ -920,7 +979,8 @@
                 "de": "Rechnen Sie mit starkem Gegenwind auf den Freiflächen.",
                 "hu": "Számítson erős ellenszélre a nyílt területeken.",
                 "ro": "Așteptați-vă la vânt puternic din față pe spațiile deschise.",
-                "en": "Expect strong headwinds on the open areas."
+                "en": "Expect strong headwinds on the open areas.",
+                "sv": "Räkna med kraftig motvind på öppna ytor."
               }
             },
             {
@@ -929,7 +989,8 @@
                 "de": "Bei starkem Wind empfiehlt es sich, das Rad zu schieben.",
                 "hu": "Erős szélben ajánlott tolni a kerékpárt.",
                 "ro": "În caz de vânt puternic, se recomandă să mergeți pe lângă bicicletă.",
-                "en": "In case of strong wind, it's recommended to push the bike."
+                "en": "In case of strong wind, it's recommended to push the bike.",
+                "sv": "Vid kraftig vind rekommenderas att gå med cykeln."
               }
             },
             {
@@ -938,7 +999,8 @@
                 "de": "Die unbefestigten Wege können stellenweise matschig sein.",
                 "hu": "A nem aszfaltozott utak helyenként sárosak lehetnek.",
                 "ro": "Potecile neasfaltate pot fi noroioase pe alocuri.",
-                "en": "Unpaved paths can be muddy in some spots."
+                "en": "Unpaved paths can be muddy in some spots.",
+                "sv": "Ogrusade stigar kan vara leriga på vissa ställen."
               }
             }
           ],
@@ -966,6 +1028,12 @@
               "Waterproof gloves keep hands warm and improve grip.",
               "Use the illuminated bike paths along main roads.",
               "Brake early and gently on wet cobblestones."
+            ],
+            "sv": [
+              "Skärmar är nödvändiga för pölarna i Nyköping.",
+              "Vattentäta handskar håller händerna varma och förbättrar greppet.",
+              "Använd de upplysta cykelvägarna längs huvudvägarna.",
+              "Bromsa tidigt och försiktigt på våta kullerstenar."
             ]
           }
         },
@@ -974,7 +1042,8 @@
             "de": "Eine winterliche Radtour erfordert in Nyköping gute Vorbereitung. Starten Sie am frostigen Stora torget und nutzen Sie die geräumten Wege zum Nyköpingshus. Die Kälte am Fluss ist intensiv, planen Sie daher längere Aufwärmpausen im Sörmlands museum ein. Am Nachmittag bietet die Fahrt zum Hafen klare Winterluft, doch die Labro ängar sollten Sie nur bei Tageslicht befahren.",
             "hu": "A téli kerékpározás alapos felkészülést igényel Nyköpingben. Kezdjen a fagyos Stora torgeten, és használja a letakarított utakat a vár felé. A folyóparti hideg intenzív, tervezzen hosszú melegedőt a Sörmlands múzeumban. Délután a kikötői tekerés friss téli levegőt kínál, de a Labro ängart csak nappal látogassa.",
             "ro": "O tură cu bicicleta iarna necesită pregătire în Nyköping. Începeți în Stora torget și folosiți drumurile curățate spre castel. Frigul de lângă râu este intens, deci plănuiți pauze lungi de încălzire la muzeul Sörmlands. După-amiaza, drumul spre port oferă aer curat, dar vizitați Labro ängar doar pe lumină.",
-            "en": "Winter cycling requires preparation in Nyköping. Start at frosty Stora torget and use cleared paths toward the castle. The riverside cold is intense, so plan long warm-up breaks at Sörmlands museum. In the afternoon, the harbor ride offers crisp winter air, but visit Labro ängar only during daylight."
+            "en": "Winter cycling requires preparation in Nyköping. Start at frosty Stora torget and use cleared paths toward the castle. The riverside cold is intense, so plan long warm-up breaks at Sörmlands museum. In the afternoon, the harbor ride offers crisp winter air, but visit Labro ängar only during daylight.",
+            "sv": "Vintercykling kräver förberedelse i Nyköping. Starta vid frostiga Stora torget och använd röjda stigar mot slottet. Åkandens kyla är intensiv, så planera långa uppvärmningspauser på Sörmlands museum. På eftermiddagen bjuder hamnsträckan på krispig vinterluft, men besök Labro ängar endast i dagsljus."
           },
           "stops": [
             {
@@ -983,7 +1052,8 @@
                 "de": "Spikereifen sind auf vereistem Kopfsteinpflaster ratsam.",
                 "hu": "Szöges gumi ajánlott a jeges macskakövön.",
                 "ro": "Anvelopele cu ținte sunt recomandate pe pavajul înghețat.",
-                "en": "Studded tires are advisable on icy cobblestones."
+                "en": "Studded tires are advisable on icy cobblestones.",
+                "sv": "Dubbdäck rekommenderas på iskalla kullerstenar."
               }
             },
             {
@@ -992,7 +1062,8 @@
                 "de": "Achten Sie auf Schneehaufen an den Fahrradständern.",
                 "hu": "Ügyeljen a hóbuckákra a kerékpártárolóknál.",
                 "ro": "Atenție la mormanele de zăpadă de lângă rastele.",
-                "en": "Watch out for snow piles near the bike racks."
+                "en": "Watch out for snow piles near the bike racks.",
+                "sv": "Se upp för snövallar nära cykelställen."
               }
             },
             {
@@ -1001,7 +1072,8 @@
                 "de": "Die warme Lobby ist ideal zum Auftauen der Finger.",
                 "hu": "A meleg lobbi ideális az ujjak felolvasztásához.",
                 "ro": "Lobby-ul cald este ideal pentru dezghețarea degetelor.",
-                "en": "The warm lobby is ideal for thawing out fingers."
+                "en": "The warm lobby is ideal for thawing out fingers.",
+                "sv": "Den varma lobbyn är idealisk för att tina upp fingrarna."
               }
             },
             {
@@ -1010,7 +1082,8 @@
                 "de": "Der Boden kann durch gefrierende Gischt glatt sein.",
                 "hu": "A talaj a ráfagyott vízpermet miatt csúszós lehet.",
                 "ro": "Solul poate fi alunecos din cauza apei înghețate.",
-                "en": "The ground can be slippery due to freezing spray."
+                "en": "The ground can be slippery due to freezing spray.",
+                "sv": "Marken kan bli hal på grund av fryst stänk."
               }
             },
             {
@@ -1019,7 +1092,8 @@
                 "de": "Extremer Windchill; schützen Sie Ihr Gesicht.",
                 "hu": "Extrém szélhideg; védje az arcát.",
                 "ro": "Vânt extrem de tăios; protejați-vă fața.",
-                "en": "Extreme wind chill; protect your face."
+                "en": "Extreme wind chill; protect your face.",
+                "sv": "Extrem köldvind; skydda ansiktet."
               }
             },
             {
@@ -1028,7 +1102,8 @@
                 "de": "Bei tiefem Schnee sind die Wege schwer befahrbar.",
                 "hu": "Mély hóban az utak nehezen járhatóak kerékpárral.",
                 "ro": "În zăpadă mare, potecile sunt greu de parcurs cu bicicleta.",
-                "en": "Paths are difficult to cycle in deep snow."
+                "en": "Paths are difficult to cycle in deep snow.",
+                "sv": "Stigarna är svåra att cykla på i djup snö."
               }
             }
           ],
@@ -1056,6 +1131,12 @@
               "E-bike batteries drain significantly faster in the cold.",
               "Wear a thin cap under your helmet against the wind.",
               "Avoid sudden steering movements on slippery surfaces."
+            ],
+            "sv": [
+              "Lampor är obligatoriska från kl. 14:30 på grund av tidigt skymningsljus.",
+              "E-bike-batterier töms avsevärt snabbare i kylan.",
+              "Bär en tunn mössa under hjälmen mot vinden.",
+              "Undvik plötsliga styrrörelser på hala ytor."
             ]
           }
         }
@@ -1085,7 +1166,8 @@
             "de": "Parken Sie am Rande des Zentrums.",
             "hu": "Parkoljon a központ szélén.",
             "ro": "Parcați la marginea centrului.",
-            "en": "Park on the edge of the center."
+            "en": "Park on the edge of the center.",
+            "sv": "Parkera i ytterkanten av centrum."
           }
         },
         {
@@ -1104,7 +1186,8 @@
             "de": "Kurzer Spaziergang vom Torget.",
             "hu": "Rövid séta a Torget térről.",
             "ro": "Scurtă plimbare de la Torget.",
-            "en": "Short walk from the Torget."
+            "en": "Short walk from the Torget.",
+            "sv": "Kort promenad från Torget."
           }
         },
         {
@@ -1123,7 +1206,8 @@
             "de": "Fahrt zum Hafen-Cluster.",
             "hu": "Utazás a kikötői klaszterhez.",
             "ro": "Conduceți spre clusterul portului.",
-            "en": "Drive to the harbor cluster."
+            "en": "Drive to the harbor cluster.",
+            "sv": "Kör till hamnklustret."
           }
         },
         {
@@ -1142,7 +1226,8 @@
             "de": "Lassen Sie das Auto am Schloss stehen.",
             "hu": "Hagyja az autót a kastélynál.",
             "ro": "Lăsați mașina la castel.",
-            "en": "Leave the car at the castle."
+            "en": "Leave the car at the castle.",
+            "sv": "Lämna bilen vid slottet."
           }
         },
         {
@@ -1161,7 +1246,8 @@
             "de": "Zu Fuß zum Wasser.",
             "hu": "Gyalog a vízpartra.",
             "ro": "Pe jos până la apă.",
-            "en": "Walk to the water."
+            "en": "Walk to the water.",
+            "sv": "Promenera till vattnet."
           }
         },
         {
@@ -1180,7 +1266,8 @@
             "de": "Fahrt in die Natur zum Abschluss.",
             "hu": "Utazás a természetbe levezetésként.",
             "ro": "Conduceți în natură la final.",
-            "en": "Drive to nature for a finish."
+            "en": "Drive to nature for a finish.",
+            "sv": "Kör ut i naturen för avslutningen."
           }
         }
       ],
@@ -1188,7 +1275,8 @@
         "de": "Parken Sie morgens im Zentrum, um den Stora torget und die Kirche fußläufig zu erkunden. Mittags fahren Sie zum Schloss Nyköpingshus; dort lassen Sie das Auto stehen und besuchen das Museum sowie den Hafen. Zum Abschluss des Tages fahren Sie hinaus zum Naturreservat Labro ängar.",
         "hu": "Délelőtt parkoljon a központban, és fedezze fel gyalog a Stora torget teret és a templomot. Délben guruljon át a Nyköpingshus kastélyhoz; hagyja ott az autót, amíg megnézi a múzeumot és a kikötőt. A nap zárásaként kocsizzon el a nyugodt Labro ängar természetvédelmi területre.",
         "ro": "Dimineața, parcați în centru pentru a explora pe jos Piața Stora torget și biserica. La prânz conduceți până la Castelul Nyköpingshus; lăsați mașina acolo și vizitați muzeul și portul. Pentru a încheia ziua, conduceți spre rezervația naturală Labro ängar.",
-        "en": "Park in the center in the morning to explore Stora torget and the church on foot. At midday, drive to Nyköpingshus castle; leave your car there to visit the museum and the harbor. To end the day, drive out to the tranquil Labro ängar nature reserve."
+        "en": "Park in the center in the morning to explore Stora torget and the church on foot. At midday, drive to Nyköpingshus castle; leave your car there to visit the museum and the harbor. To end the day, drive out to the tranquil Labro ängar nature reserve.",
+        "sv": "Parkera i centrum på morgonen för att utforska Stora torget och kyrkan till fots. Mitt på dagen, kör till Nyköpingshus slott; lämna bilen där för att besöka museet och hamnen. Avsluta dagen med att köra ut till det fridfulla naturreservatet Labro ängar."
       },
       "gastro_picks": {
         "de": [
@@ -1384,6 +1472,12 @@
           "The historic center is largely car-free.",
           "Do not try to drive into the narrow old town streets.",
           "Pay attention to parking fees in the city center."
+        ],
+        "sv": [
+          "Parkera bekvämt vid slottet eller museet.",
+          "Den historiska kärnan är till största delen bilfri.",
+          "Försök inte köra in i de smala gatorna i gamla stan.",
+          "Var uppmärksam på parkeringsavgifter i stadens centrum."
         ]
       },
       "variants": {
@@ -1392,7 +1486,8 @@
             "de": "Mit dem Auto ist Nyköping auch bei Regen komfortabel. Parken Sie direkt am Stora torget für einen kurzen Stadtbummel. Zur Alla Helgona kyrka sind es nur wenige Fahrminuten. Das Nyköpingshus und das Sörmlands museum verfügen über nahegelegene Parkplätze, die den Aufenthalt im Trockenen maximieren. Zum Abschluss bietet die Fahrt zum Hafen einen Blick aus dem warmen Wagen.",
             "hu": "Autóval Nyköping esőben is kényelmes. Parkoljon közvetlenül a Stora torgetnél egy rövid városi sétához. Az Alla Helgona templom csak pár perc vezetés. A Nyköpingshus és a Sörmlands múzeum közeli parkolókkal rendelkezik, így minimalizálható az esőben töltött idő. Befejezésül a kikötői autózás kínál kilátást a meleg utastérből.",
             "ro": "Cu mașina, Nyköping este confortabil chiar și pe ploaie. Parcați chiar în Stora torget pentru o scurtă plimbare. Biserica Alla Helgona e la doar câteva minute de condus. Nyköpingshus și muzeul Sörmlands au parcări apropiate, maximizând timpul petrecut la adăpost. La final, vizita în port se poate face admirând peisajul din mașină.",
-            "en": "Nyköping is comfortable by car even in rain. Park right at Stora torget for a quick stroll. Alla Helgona church is just a few minutes' drive. Nyköpingshus and Sörmlands museum have nearby parking, maximizing your dry time. Finally, the harbor drive offers views from the warmth of your vehicle."
+            "en": "Nyköping is comfortable by car even in rain. Park right at Stora torget for a quick stroll. Alla Helgona church is just a few minutes' drive. Nyköpingshus and Sörmlands museum have nearby parking, maximizing your dry time. Finally, the harbor drive offers views from the warmth of your vehicle.",
+            "sv": "Nyköping är bekvämt med bil även i regn. Parkera direkt vid Stora torget för en rask promenad. Alla Helgona kyrka är bara några minuters bilresa bort. Nyköpingshus och Sörmlands museum har närliggande parkering, vilket maximerar din torra tid. Till sist erbjuder hamnutflykten vyer från värmen i ditt fordon."
           },
           "stops": [
             {
@@ -1401,7 +1496,8 @@
                 "de": "Zentrales Parkhaus 'Gallerian' ist ideal bei Regen.",
                 "hu": "A központi Gallerian parkolóház ideális esőben.",
                 "ro": "Parcarea supraetajată Gallerian este ideală pe ploaie.",
-                "en": "The central Gallerian parking garage is ideal in rain."
+                "en": "The central Gallerian parking garage is ideal in rain.",
+                "sv": "Det centrala Gallerian-parkhuset är idealiskt i regn."
               }
             },
             {
@@ -1410,7 +1506,8 @@
                 "de": "Kostenlose Kurzzeitparkplätze direkt vor der Kirche.",
                 "hu": "Ingyenes rövidtávú parkolók közvetlenül a templom előtt.",
                 "ro": "Locuri de parcare gratuite pe termen scurt chiar în fața bisericii.",
-                "en": "Free short-term parking spaces right in front of the church."
+                "en": "Free short-term parking spaces right in front of the church.",
+                "sv": "Gratis korttidsparkeringar precis framför kyrkan."
               }
             },
             {
@@ -1419,7 +1516,8 @@
                 "de": "Großer Parkplatz 'Slottsbacken' direkt am Eingang.",
                 "hu": "Nagy parkoló (Slottsbacken) közvetlenül a bejáratnál.",
                 "ro": "Parcare mare (Slottsbacken) chiar la intrare.",
-                "en": "Large parking area 'Slottsbacken' right by the entrance."
+                "en": "Large parking area 'Slottsbacken' right by the entrance.",
+                "sv": "Stor parkeringsyta 'Slottsbacken' precis vid entrén."
               }
             },
             {
@@ -1428,7 +1526,8 @@
                 "de": "Ausreichend Parkplätze auf dem Museumsgelände vorhanden.",
                 "hu": "Elegendő parkolóhely áll rendelkezésre a múzeum területén.",
                 "ro": "Sunt disponibile locuri de parcare suficiente în incinta muzeului.",
-                "en": "Ample parking available on the museum grounds."
+                "en": "Ample parking available on the museum grounds.",
+                "sv": "Gott om parkering finns på museets område."
               }
             },
             {
@@ -1437,7 +1536,8 @@
                 "de": "Parken Sie längs der Kaimauer für beste Sicht im Regen.",
                 "hu": "Parkoljon a rakpart mentén a legjobb kilátáshoz az esőben.",
                 "ro": "Parcați de-a lungul cheiului pentru cea mai bună vedere pe ploaie.",
-                "en": "Park along the quay wall for the best views in the rain."
+                "en": "Park along the quay wall for the best views in the rain.",
+                "sv": "Parkera längs kajkanten för bästa utsikt i regn."
               }
             },
             {
@@ -1446,7 +1546,8 @@
                 "de": "Kleiner Wanderparkplatz vorhanden; Zufahrt kann nass sein.",
                 "hu": "Kicsi parkoló van; a bekötőút vizes lehet.",
                 "ro": "Există o parcare mică; drumul de acces poate fi ud.",
-                "en": "Small hikers' parking available; access road may be wet."
+                "en": "Small hikers' parking available; access road may be wet.",
+                "sv": "Liten vandrareparkering finns; infartsvägen kan vara våt."
               }
             }
           ],
@@ -1474,6 +1575,12 @@
               "Watch out for deep puddles in lower-lying streets.",
               "Windows fog up quickly in rain; use the air conditioning.",
               "There are many one-way streets downtown; use navigation."
+            ],
+            "sv": [
+              "Använd parkeringsappar som EasyPark för enkel betalning.",
+              "Se upp för djupa vattenpölar i lågt liggande gator.",
+              "Fönstren imma snabbt i regn; använd luftkonditioneringen.",
+              "Det finns många enkelriktade gator i centrala delar; använd navigation."
             ]
           }
         },
@@ -1482,7 +1589,8 @@
             "de": "Winterliches Fahren in Nyköping erfordert Vorsicht vor Eis. Der Stora torget ist meist gut geräumt. Besuchen Sie die Alla Helgona kyrka und parken Sie bequem am Nyköpingshus, um die winterliche Festung zu erleben. Das Sörmlands museum ist ein warmer Rückzugsort am Nachmittag. Den Tag lassen Sie mit einer Fahrt zum Hafen ausklingen, wo das Eis auf der Ostsee oft im Abendlicht schimmert.",
             "hu": "A téli vezetés Nyköpingben óvatosságot igényel a jég miatt. A Stora torget rendszerint jól takarított. Látogassa meg az Alla Helgona templomot, majd parkoljon a várnál, hogy megcsodálja a téli erődöt. A Sörmlands múzeum meleg menedék délután. A napot kikötői autózással zárja, ahol a tenger jege csillog az esti fényben.",
             "ro": "Condusul iarna în Nyköping necesită atenție la gheață. Stora torget este de obicei bine curățat. Vizitați biserica Alla Helgona și parcați comod la Nyköpingshus pentru a vedea fortăreața iarna. Muzeul Sörmlands e un refugiu cald după-amiaza. Încheiați ziua cu o tură în port, unde gheața mării strălucește în lumina serii.",
-            "en": "Winter driving in Nyköping requires caution due to ice. Stora torget is usually well-cleared. Visit Alla Helgona church and park conveniently at Nyköpingshus to see the winter fortress. Sörmlands museum is a warm retreat in the afternoon. End the day with a drive to the harbor, where sea ice often shimmers in the evening light."
+            "en": "Winter driving in Nyköping requires caution due to ice. Stora torget is usually well-cleared. Visit Alla Helgona church and park conveniently at Nyköpingshus to see the winter fortress. Sörmlands museum is a warm retreat in the afternoon. End the day with a drive to the harbor, where sea ice often shimmers in the evening light.",
+            "sv": "Vinterkörning i Nyköping kräver försiktighet på grund av is. Stora torget är vanligtvis välrensat. Besök Alla Helgona kyrka och parkera bekvämt vid Nyköpingshus för att se vinterfästningen. Sörmlands museum är en varm tillflykt på eftermiddagen. Avsluta dagen med en tur till hamnen, där havsisen ofta glimmar i kvällsljuset."
           },
           "stops": [
             {
@@ -1491,7 +1599,8 @@
                 "de": "Parkflächen können trotz Räumung glatt sein.",
                 "hu": "A parkolók a takarítás ellenére is csúszósak lehetnek.",
                 "ro": "Locurile de parcare pot fi alunecoase în ciuda deszăpezirii.",
-                "en": "Parking surfaces can be slippery despite clearing."
+                "en": "Parking surfaces can be slippery despite clearing.",
+                "sv": "Parkeringsytor kan vara hala trots snöröjning."
               }
             },
             {
@@ -1500,7 +1609,8 @@
                 "de": "Der Parkplatz direkt davor wird meist prioritär geräumt.",
                 "hu": "A közvetlen előtte lévő parkolót prioritással takarítják.",
                 "ro": "Parcarea din față este de obicei curățată cu prioritate.",
-                "en": "The parking lot directly in front is usually prioritized for clearing."
+                "en": "The parking lot directly in front is usually prioritized for clearing.",
+                "sv": "Parkeringen direkt framför prioriteras vanligtvis vid snöröjning."
               }
             },
             {
@@ -1509,7 +1619,8 @@
                 "de": "Vorsicht vor Schneeverwehungen auf dem Slottsbacken.",
                 "hu": "Ügyeljen a hófúvásokra a Slottsbacken területén.",
                 "ro": "Atenție la troienele de zăpadă de pe Slottsbacken.",
-                "en": "Watch out for snow drifts on Slottsbacken."
+                "en": "Watch out for snow drifts on Slottsbacken.",
+                "sv": "Se upp för snödrivor på Slottsbacken."
               }
             },
             {
@@ -1518,7 +1629,8 @@
                 "de": "Warmer Innenraum zum Aufwärmen nach der Fahrt.",
                 "hu": "Meleg belső tér a felmelegedéshez az út után.",
                 "ro": "Spațiu interior cald pentru încălzire după drum.",
-                "en": "Warm interior space to warm up after the drive."
+                "en": "Warm interior space to warm up after the drive.",
+                "sv": "Varm inomhusyta för att värma upp efter bilresan."
               }
             },
             {
@@ -1527,7 +1639,8 @@
                 "de": "Bester Platz, um den Sonnenuntergang im Warmen zu sehen.",
                 "hu": "A legjobb hely a naplemente megtekintéséhez a melegből.",
                 "ro": "Cel mai bun loc pentru a vedea apusul din căldura mașinii.",
-                "en": "Best spot to watch the sunset from the warmth of the car."
+                "en": "Best spot to watch the sunset from the warmth of the car.",
+                "sv": "Bästa platsen att se solnedgången från bilens värme."
               }
             },
             {
@@ -1536,7 +1649,8 @@
                 "de": "Zufahrt bei starkem Schneefall für Kleinwagen schwierig.",
                 "hu": "Erős havazáskor a bekötőút kiskocsival nehéz lehet.",
                 "ro": "Accesul poate fi dificil pentru mașini mici pe ninsoare abundentă.",
-                "en": "Access can be difficult for small cars during heavy snowfall."
+                "en": "Access can be difficult for small cars during heavy snowfall.",
+                "sv": "Åtkomst kan vara svår för små bilar vid kraftigt snöfall."
               }
             }
           ],
@@ -1564,6 +1678,12 @@
               "Carry an ice scraper and a snow shovel in the car.",
               "Twilight starts early; check your headlights regularly.",
               "Watch for wildlife on the road to Labro ängar."
+            ],
+            "sv": [
+              "Vinterdäck är obligatoriska i Sverige från december.",
+              "Ha med en isskrapa och en snöskyffel i bilen.",
+              "Skymningen börjar tidigt; kontrollera dina strålkastare regelbundet.",
+              "Var uppmärksam på vilt på vägen mot Labro ängar."
             ]
           }
         }
@@ -1593,7 +1713,8 @@
             "de": "Zentraler Startpunkt.",
             "hu": "Központi indulópont.",
             "ro": "Punct central de plecare.",
-            "en": "Central starting point."
+            "en": "Central starting point.",
+            "sv": "Central startpunkt."
           }
         },
         {
@@ -1612,7 +1733,8 @@
             "de": "Kurzer Spaziergang vom Zentrum.",
             "hu": "Rövid séta a központból.",
             "ro": "Scurtă plimbare de la centru.",
-            "en": "Short walk from the center."
+            "en": "Short walk from the center.",
+            "sv": "Kort promenad från centrum."
           }
         },
         {
@@ -1631,7 +1753,8 @@
             "de": "Bus in Richtung Hafen.",
             "hu": "Busz a kikötő felé.",
             "ro": "Autobuz spre port.",
-            "en": "Bus towards the harbor."
+            "en": "Bus towards the harbor.",
+            "sv": "Buss mot hamnen."
           }
         },
         {
@@ -1650,7 +1773,8 @@
             "de": "Direkt nebenan zu Fuß.",
             "hu": "Közvetlenül a szomszédban.",
             "ro": "Chiar alături pe jos.",
-            "en": "Right next door on foot."
+            "en": "Right next door on foot.",
+            "sv": "Precis intill till fots."
           }
         },
         {
@@ -1669,7 +1793,8 @@
             "de": "Flanieren Sie am Wasser entlang.",
             "hu": "Sétáljon a vízparton.",
             "ro": "Plimbați-vă de-a lungul apei.",
-            "en": "Stroll along the water."
+            "en": "Stroll along the water.",
+            "sv": "Promenera längs vattnet."
           }
         },
         {
@@ -1688,7 +1813,8 @@
             "de": "Von hier fährt auch ein Bus zurück.",
             "hu": "Innen busz is indul vissza.",
             "ro": "De aici pleacă un autobuz înapoi.",
-            "en": "A bus also runs back from here."
+            "en": "A bus also runs back from here.",
+            "sv": "En buss går också tillbaka härifrån."
           }
         }
       ],
@@ -1696,7 +1822,8 @@
         "de": "Nach einem entspannten Start am Stora torget und dem alten Haus Tovastugan nehmen Sie den Bus zum Hafen-Cluster. Verbringen Sie die Mittagszeit mit der Erkundung des Schlosses Nyköpingshus und des Sörmlands Museums. Am Nachmittag spazieren Sie am Wasser entlang bis zum Pier Piren, bevor Sie zurückfahren.",
         "hu": "A Stora torget tér és a régi Tovastugan faház felfedezése után pattanjon buszra a kikötő felé. Töltse a délt a Nyköpingshus kastély és a Sörmlands Múzeum megtekintésével. Délután sétáljon végig a vízparton a Piren mólóig, ahonnan kényelmesen visszautazhat.",
         "ro": "După un început relaxant în Piața Stora torget și la vechea casă Tovastugan, luați autobuzul spre port. Petreceți prânzul explorând Castelul Nyköpingshus și Muzeul Sörmlands. După-amiaza plimbați-vă de-a lungul apei până la digul Piren, înainte de a vă întoarce.",
-        "en": "After a relaxed start at Stora torget and the old Tovastugan house, take the bus to the harbor cluster. Spend midday exploring Nyköpingshus castle and the Sörmlands Museum. In the afternoon, walk along the waterfront to the Piren pier before heading back."
+        "en": "After a relaxed start at Stora torget and the old Tovastugan house, take the bus to the harbor cluster. Spend midday exploring Nyköpingshus castle and the Sörmlands Museum. In the afternoon, walk along the waterfront to the Piren pier before heading back.",
+        "sv": "Efter en avkopplande start vid Stora torget och det gamla Tovastugan-huset, ta bussen till hamnklustret. Tillbringa mittdagen med att utforska Nyköpingshus slott och Sörmlands museum. På eftermiddagen, promenera längs strandpromenaden till Piren innan du återvänder."
       },
       "gastro_picks": {
         "de": [
@@ -1892,6 +2019,12 @@
           "Buy your bus tickets conveniently in the app.",
           "The historic harbor is well connected to public transport.",
           "Keep in mind that fewer buses run on weekends."
+        ],
+        "sv": [
+          "Lokalbussarna går mycket regelbundet.",
+          "Köp dina bussbiljetter enkelt i appen.",
+          "Den historiska hamnen är väl ansluten med kollektivtrafik.",
+          "Tänk på att färre bussar går på helgerna."
         ]
       },
       "variants": {
@@ -1900,7 +2033,8 @@
             "de": "Nutzen Sie das dichte Busnetz von Nyköping, um trocken zu bleiben. Vom Stora torget erreichen Sie Tovastugan und das Nyköpingshus mit kurzen Fahrten. Die Wartehallen bieten Schutz vor Wind und Wetter. Das Sörmlands museum ist gut angebunden, und auch die Fahrt zum Hafen lässt sich mit dem Bus bequem gestalten, sodass Sie nur kurze Strecken zu Fuß zurücklegen müssen.",
             "hu": "Használja Nyköping sűrű buszhálózatát, hogy száraz maradjon. A Stora torgetről rövid utazással elérhető a Tovastugan és a vár is. A várócsarnokok védenek a széltől és az esőtől. A Sörmlands múzeum jól megközelíthető, és a kikötőbe is kényelmesen kijuthat busszal, így minimálisat kell csak gyalogolnia.",
             "ro": "Folosiți rețeaua densă de autobuze din Nyköping pentru a rămâne uscat. Din Stora torget ajungeți la Tovastugan și la castel cu segmente scurte. Stațiile oferă adăpost împotriva vântului și ploii. Muzeul Sörmlands este bine conectat, iar drumul spre port este comod cu autobuzul, limitând mersul pe jos.",
-            "en": "Use Nyköping's dense bus network to stay dry. From Stora torget, Tovastugan and the castle are just short rides away. Shelters provide protection from wind and rain. Sörmlands museum is well-connected, and even the harbor trip is easy by bus, minimizing your time spent walking in the rain."
+            "en": "Use Nyköping's dense bus network to stay dry. From Stora torget, Tovastugan and the castle are just short rides away. Shelters provide protection from wind and rain. Sörmlands museum is well-connected, and even the harbor trip is easy by bus, minimizing your time spent walking in the rain.",
+            "sv": "Använd Nyköpings täta bussnät för att hålla dig torr. Från Stora torget ligger Tovastugan och slottet bara en kort resa bort. Vindskydd ger skydd mot vind och regn. Sörmlands museum är väl uppkopplat, och även båtturen till hamnen är enkel med buss, vilket minimerar din tid till fots i regnet."
           },
           "stops": [
             {
@@ -1909,7 +2043,8 @@
                 "de": "Zentraler Busknotenpunkt mit großen Wartehallen.",
                 "hu": "Központi buszcsomópont nagy várócsarnokokkal.",
                 "ro": "Nod central de autobuze cu săli de așteptare mari.",
-                "en": "Central bus hub with large waiting shelters."
+                "en": "Central bus hub with large waiting shelters.",
+                "sv": "Central busshubb med stora väntskydd."
               }
             },
             {
@@ -1918,7 +2053,8 @@
                 "de": "Bushaltestelle 'Nyköping Stadshuset' ist sehr nah.",
                 "hu": "A 'Nyköping Stadshuset' buszmegálló nagyon közel van.",
                 "ro": "Stația de autobuz Nyköping Stadshuset este foarte aproape.",
-                "en": "The 'Nyköping Stadshuset' bus stop is very close."
+                "en": "The 'Nyköping Stadshuset' bus stop is very close.",
+                "sv": "'Nyköping Stadshuset' busshållplats ligger mycket nära."
               }
             },
             {
@@ -1927,7 +2063,8 @@
                 "de": "Haltestelle 'Sankt Anne' bietet schnellen Zugang zum Schloss.",
                 "hu": "A 'Sankt Anne' megálló gyors bejutást kínál a várhoz.",
                 "ro": "Stația Sankt Anne oferă acces rapid la castel.",
-                "en": "The 'Sankt Anne' stop offers quick access to the castle."
+                "en": "The 'Sankt Anne' stop offers quick access to the castle.",
+                "sv": "'Sankt Anne'-hållplatsen ger snabb åtkomst till slottet."
               }
             },
             {
@@ -1936,7 +2073,8 @@
                 "de": "Die Buslinie 161 hält fast direkt vor dem Eingang.",
                 "hu": "A 161-es busz szinte közvetlenül a bejárat előtt áll meg.",
                 "ro": "Linia 161 oprește aproape direct în fața intrării.",
-                "en": "Bus line 161 stops almost directly in front of the entrance."
+                "en": "Bus line 161 stops almost directly in front of the entrance.",
+                "sv": "Busslinje 161 stannar nästan direkt vid entrén."
               }
             },
             {
@@ -1945,7 +2083,8 @@
                 "de": "Nutzen Sie den Bus, um die windigen Freiflächen zu meiden.",
                 "hu": "Használja a buszt, hogy elkerülje a szeles nyílt tereket.",
                 "ro": "Folosiți autobuzul pentru a evita spațiile deschise cu vânt.",
-                "en": "Use the bus to avoid walking across windy open areas."
+                "en": "Use the bus to avoid walking across windy open areas.",
+                "sv": "Använd bussen för att slippa gå över blåsiga öppna ytor."
               }
             },
             {
@@ -1954,7 +2093,8 @@
                 "de": "Haltestelle 'Hamnen' ist der beste Ausstiegspunkt.",
                 "hu": "A 'Hamnen' megálló a legjobb kiszállási pont.",
                 "ro": "Stația Hamnen este cel mai bun punct de coborâre.",
-                "en": "The 'Hamnen' stop is the best place to get off."
+                "en": "The 'Hamnen' stop is the best place to get off.",
+                "sv": "'Hamnen'-hållplatsen är bästa stället att gå av på."
               }
             }
           ],
@@ -1982,6 +2122,12 @@
               "The Sörmlandstrafiken app shows departures in real time.",
               "Buses are climate-controlled and protect from humidity.",
               "Stops often have digital displays with real-time info."
+            ],
+            "sv": [
+              "Biljetter kan betalas kontaktlöst med kreditkort på bussen.",
+              "Sörmlandstrafiken-appen visar avgångar i realtid.",
+              "Bussarna är klimatkontrollerade och skyddar mot fukt.",
+              "Hållplatser har ofta digitala skärmar med realtidsinfo."
             ]
           }
         },
@@ -1990,7 +2136,8 @@
             "de": "Der ÖPNV in Nyköping ist im Winter die wärmste Art des Reisens. Starten Sie am festlich beleuchteten Stora torget. Kurze Busfahrten bringen Sie zum Tovastugan und zum Nyköpingshus, ohne dass Sie lange in der Kälte stehen müssen. Der Nachmittag im Sörmlands museum lässt sich perfekt mit der Rückfahrt zum Hafen kombinieren, wobei Sie die frostige Landschaft bequem durch das Busfenster betrachten.",
             "hu": "Nyköping tömegközlekedése télen a legmelegebb utazási mód. Kezdjen az ünnepi fényben úszó Stora torgeten. Rövid buszutak viszik el a Tovastuganhoz és a várhoz, így nem kell sokáig a hidegben állnia. A Sörmlands múzeumban töltött délután után kényelmesen buszozhat a kikötőbe, az ablakból csodálva a jeges tájat.",
             "ro": "Transportul public din Nyköping este cel mai călduros mod de călătorie iarna. Începeți în Stora torget iluminat festiv. Segmente scurte cu autobuzul vă duc la Tovastugan și la castel, fără a sta mult în frig. După-amiaza la muzeul Sörmlands se combină perfect cu drumul spre port, admirând peisajul înghețat de la geam.",
-            "en": "Public transit in Nyköping is the warmest way to travel in winter. Start at the festively lit Stora torget. Short bus rides take you to Tovastugan and the castle, minimizing your time in the cold. An afternoon at Sörmlands museum combines perfectly with a trip to the harbor, viewing the icy landscape through the bus window."
+            "en": "Public transit in Nyköping is the warmest way to travel in winter. Start at the festively lit Stora torget. Short bus rides take you to Tovastugan and the castle, minimizing your time in the cold. An afternoon at Sörmlands museum combines perfectly with a trip to the harbor, viewing the icy landscape through the bus window.",
+            "sv": "Kollektivtrafiken i Nyköping är det varmaste sättet att resa på vintern. Börja vid det festligt upplysta Stora torget. Korta bussresor tar dig till Tovastugan och slottet, vilket minimerar din tid i kylan. En eftermiddag på Sörmlands museum passar perfekt med en tur till hamnen, där du kan se det isiga landskapet genom bussfönstret."
           },
           "stops": [
             {
@@ -1999,7 +2146,8 @@
                 "de": "Die Wartehallen sind teilweise windgeschützt.",
                 "hu": "A várók részben védettek a szél ellen.",
                 "ro": "Stațiile sunt parțial protejate de vânt.",
-                "en": "The shelters are partially protected from the wind."
+                "en": "The shelters are partially protected from the wind.",
+                "sv": "Väntskydden är delvis skyddade mot vinden."
               }
             },
             {
@@ -2008,7 +2156,8 @@
                 "de": "Beleuchtete Wege führen von der Haltestelle zum Ziel.",
                 "hu": "Kivilágított utak vezetnek a megállótól a célig.",
                 "ro": "Poteci iluminate duc de la stație spre destinație.",
-                "en": "Lit paths lead from the stop to the destination."
+                "en": "Lit paths lead from the stop to the destination.",
+                "sv": "Upplysta gångvägar leder från hållplatsen till målet."
               }
             },
             {
@@ -2017,7 +2166,8 @@
                 "de": "Der Bus hält direkt an der Schlossbrücke.",
                 "hu": "A busz közvetlenül a vár hídjánál áll meg.",
                 "ro": "Autobuzul oprește chiar lângă podul castelului.",
-                "en": "The bus stops right by the castle bridge."
+                "en": "The bus stops right by the castle bridge.",
+                "sv": "Bussen stannar precis vid slottsbron."
               }
             },
             {
@@ -2026,7 +2176,8 @@
                 "de": "Helle und sichere Haltestelle für die Rückfahrt im Dunkeln.",
                 "hu": "Világos és biztonságos megálló a sötétben való visszatéréshez.",
                 "ro": "Stație luminată și sigură pentru întoarcerea pe întuneric.",
-                "en": "Bright and safe stop for returning in the dark."
+                "en": "Bright and safe stop for returning in the dark.",
+                "sv": "Ljus och säker hållplats för återresa i mörkret."
               }
             },
             {
@@ -2035,7 +2186,8 @@
                 "de": "Achten Sie auf den Winterfahrplan der Hafenlinien.",
                 "hu": "Ügyeljen a kikötői vonalak téli menetrendjére.",
                 "ro": "Atenție la orarul de iarnă al liniilor spre port.",
-                "en": "Check the winter schedule for the harbor lines."
+                "en": "Check the winter schedule for the harbor lines.",
+                "sv": "Kolla vintertidtabellen för hamnlinjerna."
               }
             },
             {
@@ -2044,7 +2196,8 @@
                 "de": "Nutzen Sie den Bus, um schnell wieder ins Warme zu kommen.",
                 "hu": "Használja a buszt, hogy gyorsan visszatérjen a melegbe.",
                 "ro": "Folosiți autobuzul pentru a reveni rapid la căldură.",
-                "en": "Use the bus to quickly return to the warmth."
+                "en": "Use the bus to quickly return to the warmth.",
+                "sv": "Använd bussen för att snabbt återvända till värmen."
               }
             }
           ],
@@ -2072,6 +2225,12 @@
               "Check the app for delays during extreme snowfall.",
               "Stops in the center are usually well-cleared of snow.",
               "Seniors and children often get discounts on fares."
+            ],
+            "sv": [
+              "Bussarna är vanligtvis mycket punktliga och väl uppvärmda på vintern.",
+              "Kolla appen för förseningar vid extrem snöfall.",
+              "Hållplatser i centrum är vanligtvis väl plogade från snö.",
+              "Pensionärer och barn får ofta rabatt på biljetterna."
             ]
           }
         }

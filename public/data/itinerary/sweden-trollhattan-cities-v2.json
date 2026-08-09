@@ -21,7 +21,8 @@
             "de": "Schleusengebiet",
             "hu": "A zsilipterület",
             "ro": "Zona Ecluzelor",
-            "en": "The Locks Area"
+            "en": "The Locks Area",
+            "sv": "Slussområdet"
           },
           "coords": [
             12.2785,
@@ -36,7 +37,8 @@
             "de": "Beobachten Sie, wie die Schiffe die beeindruckenden Höhenunterschiede überwinden.",
             "hu": "Nézze meg, ahogy a hajók leküzdik a lenyűgöző szintkülönbségeket.",
             "ro": "Urmăriți cum navele depășesc diferențele impresionante de nivel.",
-            "en": "Watch the ships navigate the impressive differences in water level."
+            "en": "Watch the ships navigate the impressive differences in water level.",
+            "sv": "Titta när skeppen navigerar de imponerande nivåskillnaderna i vattnet."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Kungsgrottan",
             "hu": "Király-barlang",
             "ro": "Peștera Regelui",
-            "en": "The King's Cave"
+            "en": "The King's Cave",
+            "sv": "Kungens grotta"
           },
           "coords": [
             12.2799,
@@ -59,7 +62,8 @@
             "de": "Suchen Sie nach den eingravierten Namen schwedischer Könige.",
             "hu": "Keresse meg a sziklába vésett svéd királyok neveit.",
             "ro": "Căutați numele regilor suedezi gravate în stâncă.",
-            "en": "Look for the names of Swedish kings engraved in the rock."
+            "en": "Look for the names of Swedish kings engraved in the rock.",
+            "sv": "Sök efter namn på svenska kungar ingraverade i berget."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Die Wasserfälle",
             "hu": "A vízesések",
             "ro": "Cascadele",
-            "en": "The Waterfalls"
+            "en": "The Waterfalls",
+            "sv": "Vattenfallen"
           },
           "coords": [
             12.281,
@@ -82,7 +87,8 @@
             "de": "Informieren Sie sich über die genauen Zeiten, zu denen das Wasser freigesetzt wird – ein Spektakel!",
             "hu": "Ellenőrizze a pontos időpontokat, amikor a vizet leengedik - igazi látványosság!",
             "ro": "Verificați orele exacte când apa este eliberată – este un spectacol!",
-            "en": "Check the specific times when the water is released – it's a spectacle!"
+            "en": "Check the specific times when the water is released – it's a spectacle!",
+            "sv": "Kolla de särskilda tiderna då vattnet släpps – det är ett skådespel!"
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Olidan Kraftstation",
             "hu": "Olidan erőmű",
             "ro": "Centrala Electrică Olidan",
-            "en": "Olidan Power Station"
+            "en": "Olidan Power Station",
+            "sv": "Olidan kraftstation"
           },
           "coords": [
             12.2845,
@@ -105,7 +112,8 @@
             "de": "Ein Muss für Technikbegeisterte, um die Kraft des Wassers zu verstehen.",
             "hu": "A technika szerelmeseinek kötelező, hogy megértsék a víz erejét.",
             "ro": "O vizită obligatorie pentru pasionații de tehnologie pentru a înțelege puterea apei.",
-            "en": "A must-see for technology enthusiasts to understand the power of water."
+            "en": "A must-see for technology enthusiasts to understand the power of water.",
+            "sv": "Ett måste för teknikintresserade som vill förstå vattnets kraft."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Innovatum Science Center",
             "hu": "Innovatum Tudományos Központ",
             "ro": "Centrul Științific Innovatum",
-            "en": "Innovatum Science Center"
+            "en": "Innovatum Science Center",
+            "sv": "Innovatum Science Center"
           },
           "coords": [
             12.2925,
@@ -128,7 +137,8 @@
             "de": "Ideal für Familien, mit vielen interaktiven Ausstellungen.",
             "hu": "Ideális családok számára, rengeteg interaktív kiállítással.",
             "ro": "Ideal pentru familii, cu multe expoziții interactive.",
-            "en": "Ideal for families, with lots of interactive exhibits."
+            "en": "Ideal for families, with lots of interactive exhibits.",
+            "sv": "Perfekt för familjer, med många interaktiva utställningar."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Saab Car Museum",
             "hu": "Saab Autómúzeum",
             "ro": "Muzeul Auto Saab",
-            "en": "Saab Car Museum"
+            "en": "Saab Car Museum",
+            "sv": "Saab Bilmuseum"
           },
           "coords": [
             12.2935,
@@ -151,7 +162,8 @@
             "de": "Bewundern Sie das erste Saab-Modell, den Ursaab 92001.",
             "hu": "Csodálja meg az első Saab modellt, az Ursaab 92001-et.",
             "ro": "Admirați primul model Saab, Ursaab 92001.",
-            "en": "Admire the very first Saab model, the Ursaab 92001."
+            "en": "Admire the very first Saab model, the Ursaab 92001.",
+            "sv": "Beundra den allra första Saab-modellen, Ursaab 92001."
           }
         },
         {
@@ -159,7 +171,8 @@
             "de": "Spikön",
             "hu": "Spikön-sziget",
             "ro": "Insula Spikön",
-            "en": "Spikön Island"
+            "en": "Spikön Island",
+            "sv": "Spikön"
           },
           "coords": [
             12.288,
@@ -174,7 +187,8 @@
             "de": "Ein entspannender Abschluss des Tages mit schönem Spielplatz für Kinder.",
             "hu": "A nap pihentető befejezése egy szép játszótérrel a gyerekeknek.",
             "ro": "O încheiere relaxantă a zilei, cu un loc de joacă frumos pentru copii.",
-            "en": "A relaxing end to the day with a nice playground for children."
+            "en": "A relaxing end to the day with a nice playground for children.",
+            "sv": "En avslappnad avslutning på dagen med en trevlig lekplats för barn."
           }
         }
       ],
@@ -182,7 +196,8 @@
         "de": "Ihr Tag in Trollhättan beginnt am beeindruckenden Schleusengebiet, wo Ingenieurskunst auf die Kraft des Wassers trifft. Ein kurzer Spaziergang führt Sie zur Kungsgrottan und den tosenden Wasserfällen, dem Herz der Stadt. Der Morgen ist der Erkundung dieser einzigartigen Industrielandschaft gewidmet.\nAm Mittag tauchen Sie in die Geschichte der Wasserkraft in der Olidan Kraftstation ein, bevor Sie eine längere Pause im Innovatum Science Center einlegen. Hier können Sie und Ihre Familie spielerisch lernen und entdecken. Das nahegelegene Saab Car Museum ist der perfekte Ort, um in die schwedische Automobilgeschichte einzutauchen.\nDer Nachmittag steht ganz im Zeichen der Fahrzeuglegenden bei Saab. Nehmen Sie sich Zeit, die ikonischen Designs und technischen Innovationen zu bewundern. Es ist eine Reise durch die Zeit, von den Anfängen bis zu den letzten Modellen der Kultmarke.\nZum Ausklang des Tages spazieren Sie zur grünen Insel Spikön. Genießen Sie die Ruhe am Wasser, lassen Sie die Eindrücke des Tages Revue passieren und atmen Sie die frische schwedische Luft, bevor Sie sich von Trollhättan verabschieden.",
         "hu": "Trollhättan-i napja a lenyűgöző zsilipterületnél kezdődik, ahol a mérnöki tudás találkozik a víz erejével. Egy rövid séta elvezeti a Király-barlanghoz és a dübörgő vízesésekhez, a város szívéhez. A délelőttöt ennek az egyedülálló ipari tájnak a felfedezésére szánjuk.\nDélben elmerülhet a vízenergia történetében az Olidan erőműben, mielőtt egy hosszabb szünetet tartana az Innovatum Tudományos Központban. Itt Ön és családja játékosan tanulhat és fedezhet fel. A közeli Saab Autómúzeum tökéletes hely a svéd autógyártás történetének megismerésére.\nA délután a Saab legendás járműveiről szól. Szánjon időt az ikonikus formatervezés és a műszaki újítások megcsodálására. Ez egy időutazás a kezdetektől a kultikus márka utolsó modelljeiig.\nA nap végén sétáljon el a zöld Spikön-szigetre. Élvezze a vízparti csendet, idézze fel a nap élményeit, és szívja be a friss svéd levegőt, mielőtt elbúcsúzik Trollhättantól.",
         "ro": "Ziua dumneavoastră în Trollhättan începe în impresionanta zonă a ecluzelor, unde ingineria se întâlnește cu puterea apei. O scurtă plimbare vă duce la Peștera Regelui și la cascadele zgomotoase, inima orașului. Dimineața este dedicată explorării acestui peisaj industrial unic.\nLa prânz, vă veți cufunda în istoria hidroenergiei la Centrala Electrică Olidan, înainte de a lua o pauză mai lungă la Centrul Științific Innovatum. Aici, dumneavoastră și familia puteți învăța și descoperi prin joc. Muzeul Auto Saab din apropiere este locul perfect pentru a vă scufunda în istoria automobilistică suedeză.\nDupă-amiaza este dedicată legendelor auto de la Saab. Acordați-vă timp pentru a admira designurile iconice și inovațiile tehnice. Este o călătorie în timp, de la începuturi până la ultimele modele ale mărcii de cult.\nPentru a încheia ziua, plimbați-vă pe insula verde Spikön. Bucurați-vă de liniștea de pe malul apei, rememorați impresiile zilei și respirați aerul proaspăt suedez înainte de a vă lua rămas bun de la Trollhättan.",
-        "en": "Your day in Trollhättan begins at the impressive locks area, where engineering meets the power of water. A short walk takes you to the King's Cave and the roaring waterfalls, the heart of the city. The morning is dedicated to exploring this unique industrial landscape.\nAt midday, you'll delve into the history of hydropower at the Olidan Power Station before taking a longer break at the Innovatum Science Center. Here, you and your family can learn and discover through play. The nearby Saab Car Museum is the perfect place to immerse yourself in Swedish automotive history.\nThe afternoon is all about the legendary vehicles at Saab. Take your time to admire the iconic designs and technical innovations. It's a journey through time, from the beginnings to the last models of the cult brand.\nTo round off the day, stroll over to the green island of Spikön. Enjoy the tranquility by the water, reflect on the day's impressions, and breathe in the fresh Swedish air before you say goodbye to Trollhättan."
+        "en": "Your day in Trollhättan begins at the impressive locks area, where engineering meets the power of water. A short walk takes you to the King's Cave and the roaring waterfalls, the heart of the city. The morning is dedicated to exploring this unique industrial landscape.\nAt midday, you'll delve into the history of hydropower at the Olidan Power Station before taking a longer break at the Innovatum Science Center. Here, you and your family can learn and discover through play. The nearby Saab Car Museum is the perfect place to immerse yourself in Swedish automotive history.\nThe afternoon is all about the legendary vehicles at Saab. Take your time to admire the iconic designs and technical innovations. It's a journey through time, from the beginnings to the last models of the cult brand.\nTo round off the day, stroll over to the green island of Spikön. Enjoy the tranquility by the water, reflect on the day's impressions, and breathe in the fresh Swedish air before you say goodbye to Trollhättan.",
+        "sv": "Din dag i Trollhättan börjar vid det imponerande slussområdet, där ingenjörskonst möter vattnets kraft. En kort promenad tar dig till Kungens grotta och de dånande vattenfallen, stadens hjärta. Förmiddagen ägnas åt att utforska detta unika industriella landskap.\nVid lunchtid fördjupar du dig i vattenkraftens historia på Olidan kraftstation innan du tar en längre paus på Innovatum Science Center. Här kan du och din familj lära er och upptäcka genom lek. Det närbelägna Saab Bilmuseum är den perfekta platsen för att fördjupa sig i svensk bilhistoria.\nEftermiddagen handlar om de legendariska fordonen hos Saab. Ta god tid på dig att beundra de ikoniska designerna och tekniska innovationerna. Det är en resa genom tiden, från början till de sista modellerna av kultmärket.\nAvsluta dagen med en promenad ut till den gröna ön Spikön. Njut av lugnet vid vattnet, reflektera över dagens intryck och andas in den friska svenska luften innan du tar farväl av Trollhättan."
       },
       "gastro_picks": {
         "de": [
@@ -338,6 +353,11 @@
           "Wear very comfortable shoes, as you'll be walking a lot on uneven terrain around the locks and waterfalls.",
           "Check the schedule for bridge openings to avoid waiting times.",
           "Binoculars are useful for observing the details of the locks and the surrounding nature."
+        ],
+        "sv": [
+          "Bär mycket bekväma skor, eftersom du kommer att gå mycket på ojämnt underlag runt slussarna och vattenfallen.",
+          "Kolla tidtabellen för broöppningar för att undvika väntetider.",
+          "Kikare är användbart för att se detaljer i slussarna och den omgivande naturen."
         ]
       },
       "variants": {
@@ -346,7 +366,8 @@
             "de": "Ein regnerischer Morgen an den Schleusen wirkt dramatisch und industriell. Mittags bietet das Innovatum Science Center ein trockenes und interaktives Erlebnis für alle Altersgruppen. Am Nachmittag glänzen die Oldtimer im Saab-Museum unter dem Hallenlicht. Den Abend lassen wir auf der Insel Spikön ausklingen, wo die Pfützen die Lichter der Stadt Trollhättan stimmungsvoll reflektieren.",
             "hu": "Az esős reggel a zsilipeknél drámai és ipari hangulatot áraszt. Délben az Innovatum tudományos központ nyújt száraz, interaktív élményt minden korosztálynak. Délután a veterán autók csillognak a Saab Múzeum fényeiben. Az estét a Spikön-szigeten zárjuk, ahol a pocsolyák hangulatosan tükrözik vissza Trollhättan városi fényeit.",
             "ro": "O dimineață ploioasă la ecluze pare dramatică și industrială. La prânz, Innovatum Science Center oferă o experiență uscată și interactivă. După-amiaza, mașinile clasice strălucesc sub luminile din Muzeul Saab. Încheiem seara pe insula Spikön, unde bălțile reflectă atmosferic luminile orașului Trollhättan.",
-            "en": "A rainy morning at the locks feels dramatic and industrial. At midday, the Innovatum Science Center provides a dry, interactive experience. In the afternoon, classic cars gleam under the lights of the Saab Museum. We end the evening on Spikön Island, where puddles reflect the city lights of Trollhättan beautifully."
+            "en": "A rainy morning at the locks feels dramatic and industrial. At midday, the Innovatum Science Center provides a dry, interactive experience. In the afternoon, classic cars gleam under the lights of the Saab Museum. We end the evening on Spikön Island, where puddles reflect the city lights of Trollhättan beautifully.",
+            "sv": "En regnig morgon vid slussarna känns dramatisk och industriell. Vid lunchtid erbjuder Innovatum Science Center en torr, interaktiv upplevelse. På eftermiddagen glänser klassiska bilar under ljusen i Saab-museet. Vi avslutar kvällen på Spikön där vattenpölar vackert speglar Trollhättans stadsljus."
           },
           "stops": [
             {
@@ -355,7 +376,8 @@
                 "de": "Rutschfeste Schuhe sind auf den nassen Steinstufen hier ein Muss.",
                 "hu": "A vizes kőlépcsőkön elengedhetetlen a csúszásmentes lábbeli.",
                 "ro": "Încălțămintea antiderapantă este obligatorie pe treptele de piatră umede.",
-                "en": "Non-slip shoes are a must on the wet stone steps here."
+                "en": "Non-slip shoes are a must on the wet stone steps here.",
+                "sv": "Halkfria skor är ett måste på de våta stentrapporna här."
               }
             },
             {
@@ -364,7 +386,8 @@
                 "de": "Die Höhle bietet einen kleinen natürlichen Schutz vor einem kurzen Schauer.",
                 "hu": "A barlang kis természetes menedéket nyújt egy rövid zápor elől.",
                 "ro": "Peștera oferă un mic adăpost natural împotriva unei averse scurte.",
-                "en": "The cave offers a small natural shelter from a brief shower."
+                "en": "The cave offers a small natural shelter from a brief shower.",
+                "sv": "Grottan erbjuder ett litet naturligt skydd mot en kort skur."
               }
             },
             {
@@ -373,7 +396,8 @@
                 "de": "Bei Regen wirken die Wassermassen noch gewaltiger und nebliger.",
                 "hu": "Esőben a víztömeg még hatalmasabbnak és ködösebbnek tűnik.",
                 "ro": "În ploaie, masele de apă par și mai impunătoare și cețoase.",
-                "en": "In the rain, the water masses look even more powerful and misty."
+                "en": "In the rain, the water masses look even more powerful and misty.",
+                "sv": "I regnet verkar vattenmassorna ännu mäktigare och dimmigare."
               }
             },
             {
@@ -382,7 +406,8 @@
                 "de": "Bewundern Sie die Architektur von außen, während Sie unter den Dachvorsprüngen Schutz suchen.",
                 "hu": "Csodálja meg az építészetet kívülről, miközben az eresz alatt keres menedéket.",
                 "ro": "Admirați arhitectura din exterior în timp ce căutați adăpost sub streșini.",
-                "en": "Admire the architecture from outside while seeking shelter under the eaves."
+                "en": "Admire the architecture from outside while seeking shelter under the eaves.",
+                "sv": "Beundra arkitekturen utifrån medan du söker skydd under takutsprången."
               }
             },
             {
@@ -391,7 +416,8 @@
                 "de": "Der perfekte Ort, um ein paar Stunden im Trockenen zu verbringen.",
                 "hu": "Tökéletes hely néhány óra szárazon töltésére.",
                 "ro": "Locul perfect pentru a petrece câteva ore la adăpost de ploaie.",
-                "en": "The perfect place to spend a few hours staying dry."
+                "en": "The perfect place to spend a few hours staying dry.",
+                "sv": "Den perfekta platsen att tillbringa några timmar torra."
               }
             },
             {
@@ -400,7 +426,8 @@
                 "de": "Genießen Sie die schwedische Ingenieurskunst fernab vom Regen.",
                 "hu": "Élvezze a svéd mérnöki munkát az esőtől távol.",
                 "ro": "Bucurați-vă de ingineria suedeză departe de ploaie.",
-                "en": "Enjoy Swedish engineering far away from the rain."
+                "en": "Enjoy Swedish engineering far away from the rain.",
+                "sv": "Njut av svensk ingenjörskonst långt från regnet."
               }
             },
             {
@@ -409,7 +436,8 @@
                 "de": "Die asphaltierten Wege sind auch bei Regen gut begehbar.",
                 "hu": "Az aszfaltozott utak esőben is jól járhatóak.",
                 "ro": "Potecile asfaltate sunt ușor de parcurs chiar și pe ploaie.",
-                "en": "The paved paths are easy to walk even in the rain."
+                "en": "The paved paths are easy to walk even in the rain.",
+                "sv": "De asfalterade stigarna är lätta att gå även i regn."
               }
             }
           ],
@@ -437,6 +465,12 @@
               "Use the museums for longer breaks to stay dry.",
               "Be careful on wooden boardwalks; they become extremely slippery when wet.",
               "The cafes in the Innovatum district are cozy retreats."
+            ],
+            "sv": [
+              "Bär en regnrock av hög kvalitet eftersom vinden kan vara stark vid kanalen.",
+              "Använd museerna för längre pauser och för att hålla dig torr.",
+              "Var försiktig på träspångarna; de blir extremt hala när de är våta.",
+              "Cafés i Innovatum-området är mysiga tillflyktsorter."
             ]
           }
         },
@@ -445,7 +479,8 @@
             "de": "Frostige Morgenluft am Göta-Kanal lässt die Schleusen wie in der Zeit eingefroren wirken. Mittags wärmen wir uns im modernen Innovatum Center auf, während die Wintersonne tief steht. Am frühen Nachmittag besuchen wir das Saab-Museum, bevor die Dunkelheit einbricht. Der Abend auf Spikön ist kurz, aber die Winterbeleuchtung zaubert eine magische skandinavische Atmosphäre.",
             "hu": "A fagyos reggeli levegő a Göta-csatornánál olyannak mutatja a zsilipeket, mintha megállt volna az idő. Délben a modern Innovatum központban melegszünk fel, miközben a téli nap alacsonyan jár. Kora délután meglátogatjuk a Saab Múzeumot, mielőtt leszáll az éj. Az este a Spikön-szigeten rövid, de a téli kivilágítás varázslatos skandináv hangulatot teremt.",
             "ro": "Aerul înghețat de dimineață de la Canalul Göta face ca ecluzele să pară încremenite în timp. La prânz, ne încălzim în centrul modern Innovatum, în timp ce soarele de iarnă stă jos. După-amiaza devreme vizităm Muzeul Saab înainte de lăsarea întunericului. Seara pe Spikön este scurtă, dar iluminatul de iarnă creează o atmosferă scandinavă magică.",
-            "en": "Frosty morning air at the Göta Canal makes the locks look frozen in time. At midday, we warm up in the modern Innovatum Center while the winter sun stays low. Early afternoon is for the Saab Museum before darkness falls. The evening on Spikön is short, but the winter lighting creates a magical Scandinavian atmosphere."
+            "en": "Frosty morning air at the Göta Canal makes the locks look frozen in time. At midday, we warm up in the modern Innovatum Center while the winter sun stays low. Early afternoon is for the Saab Museum before darkness falls. The evening on Spikön is short, but the winter lighting creates a magical Scandinavian atmosphere.",
+            "sv": "Frostig morgonluft vid Göta kanal får slussarna att se frusna ut i tiden. Vid lunchtid värmer vi oss i det moderna Innovatum Center medan vinter solen står lågt. Tidig eftermiddag är avsatt för Saab-museet innan mörkret faller. Kvällen på Spikön är kort, men vinterbelysningen skapar en magisk skandinavisk stämning."
           },
           "stops": [
             {
@@ -454,7 +489,8 @@
                 "de": "Achten Sie auf Glatteis auf den Metallbrücken und Steinen.",
                 "hu": "Ügyeljen a jegesedésre a fémhidakon és a köveken.",
                 "ro": "Atenție la polei pe podurile metalice și pe pietre.",
-                "en": "Watch out for black ice on the metal bridges and stones."
+                "en": "Watch out for black ice on the metal bridges and stones.",
+                "sv": "Se upp för blankis på metallbroar och stenar."
               }
             },
             {
@@ -463,7 +499,8 @@
                 "de": "Ein kurzer Stopp reicht aus, es kann hier im Schatten sehr kalt sein.",
                 "hu": "Egy rövid megálló elég, az árnyékban itt nagyon hideg lehet.",
                 "ro": "O oprire scurtă este suficientă, poate fi foarte frig aici la umbră.",
-                "en": "A short stop is enough; it can be very cold here in the shade."
+                "en": "A short stop is enough; it can be very cold here in the shade.",
+                "sv": "Ett kort stopp räcker; det kan bli mycket kallt här i skuggan."
               }
             },
             {
@@ -472,7 +509,8 @@
                 "de": "Gefrorene Gischt an den Felsen bietet ein tolles Fotomotiv.",
                 "hu": "A sziklákon megfagyott permet remek fotótéma.",
                 "ro": "Promoroaca înghețată pe stânci oferă un motiv fotografic excelent.",
-                "en": "Frozen mist on the rocks offers a great photo opportunity."
+                "en": "Frozen mist on the rocks offers a great photo opportunity.",
+                "sv": "Frusen dimma på klipporna ger ett utmärkt fotoögonblick."
               }
             },
             {
@@ -481,7 +519,8 @@
                 "de": "Das Backsteingebäude strahlt im Winterlicht eine besondere Wärme aus.",
                 "hu": "A téglaépület különleges melegséget áraszt a téli fényben.",
                 "ro": "Clădirea de cărămidă emană o căldură specială în lumina de iarnă.",
-                "en": "The brick building radiates a special warmth in the winter light."
+                "en": "The brick building radiates a special warmth in the winter light.",
+                "sv": "Tegelbyggnaden utstrålar en särskild värme i vinterljuset."
               }
             },
             {
@@ -490,7 +529,8 @@
                 "de": "Nutzen Sie die Garderobe, um Ihre schweren Wintersachen abzulegen.",
                 "hu": "Használja a ruhatárat a nehéz téli holmik letételéhez.",
                 "ro": "Folosiți garderoba pentru a vă lăsa hainele grele de iarnă.",
-                "en": "Use the cloakroom to drop off your heavy winter gear."
+                "en": "Use the cloakroom to drop off your heavy winter gear.",
+                "sv": "Använd garderoben för att lämna av din tunga vinterutrustning."
               }
             },
             {
@@ -499,7 +539,8 @@
                 "de": "Ein Highlight im Winter – gemütlich, warm und voller Geschichte.",
                 "hu": "Téli fénypont – hangulatos, meleg és tele van történelemmel.",
                 "ro": "Un punct culminant iarna – primitor, cald și plin de istorie.",
-                "en": "A winter highlight – cozy, warm, and full of history."
+                "en": "A winter highlight – cozy, warm, and full of history.",
+                "sv": "Ett vinterhöjdpunkt – mysigt, varmt och fullt av historia."
               }
             },
             {
@@ -508,7 +549,8 @@
                 "de": "Genießen Sie die Winterlichter, die ab ca. 15:30 Uhr angehen.",
                 "hu": "Élvezze a téli fényeket, amelyek kb. 15:30-kor gyúlnak ki.",
                 "ro": "Bucurați-vă de luminile de iarnă, care se aprind în jurul orei 15:30.",
-                "en": "Enjoy the winter lights, which turn on around 3:30 PM."
+                "en": "Enjoy the winter lights, which turn on around 3:30 PM.",
+                "sv": "Njut av vinterljusen, som tänds runt klockan 15:30."
               }
             }
           ],
@@ -536,6 +578,12 @@
               "Wear thermal layers for walks along the windy canal.",
               "Hot drinks are available in the cafes near Innovatum.",
               "Snow may make some forest paths difficult to navigate."
+            ],
+            "sv": [
+              "Solen går ner redan klockan 15:45 på vintern.",
+              "Bär termounderställ för promenader längs den blåsiga kanalen.",
+              "Varma drycker finns i caféerna nära Innovatum.",
+              "Snö kan göra vissa skogsstigar svåra att ta sig fram på."
             ]
           }
         }
@@ -554,7 +602,8 @@
             "de": "Saab Car Museum",
             "hu": "Saab Autómúzeum",
             "ro": "Muzeul Auto Saab",
-            "en": "Saab Car Museum"
+            "en": "Saab Car Museum",
+            "sv": "Saab Bilmuseum"
           },
           "coords": [
             12.2935,
@@ -569,7 +618,8 @@
             "de": "Starten Sie den Tag mit schwedischer Ingenieurskunst.",
             "hu": "Kezdje a napot a svéd mérnöki tudás megismerésével.",
             "ro": "Începeți ziua cu ingineria suedeză.",
-            "en": "Start the day with Swedish engineering excellence."
+            "en": "Start the day with Swedish engineering excellence.",
+            "sv": "Börja dagen med svensk ingenjörsexcellens."
           }
         },
         {
@@ -577,7 +627,8 @@
             "de": "Innovatum Science Center",
             "hu": "Innovatum Tudományos Központ",
             "ro": "Centrul Științific Innovatum",
-            "en": "Innovatum Science Center"
+            "en": "Innovatum Science Center",
+            "sv": "Innovatum Science Center"
           },
           "coords": [
             12.2925,
@@ -592,7 +643,8 @@
             "de": "Ein kurzer, aber lohnender Stopp für interaktive Exponate.",
             "hu": "Egy rövid, de megérő megálló az interaktív kiállításokért.",
             "ro": "O oprire scurtă, dar meritată pentru exponatele interactive.",
-            "en": "A short but worthwhile stop for interactive exhibits."
+            "en": "A short but worthwhile stop for interactive exhibits.",
+            "sv": "Ett kort men givande stopp för interaktiva utställningar."
           }
         },
         {
@@ -600,7 +652,8 @@
             "de": "Gropbron",
             "hu": "Gropbron híd",
             "ro": "Podul Gropbron",
-            "en": "Gropbron Bridge"
+            "en": "Gropbron Bridge",
+            "sv": "Gropbron"
           },
           "coords": [
             12.285,
@@ -615,7 +668,8 @@
             "de": "Genießen Sie die Aussicht über den Fluss Göta älv.",
             "hu": "Élvezze a kilátást a Göta älv folyóra.",
             "ro": "Bucurați-vă de priveliștea peste râul Göta älv.",
-            "en": "Enjoy the view over the Göta älv river."
+            "en": "Enjoy the view over the Göta älv river.",
+            "sv": "Njut av utsikten över Göta älv."
           }
         },
         {
@@ -623,7 +677,8 @@
             "de": "Schleusengebiet",
             "hu": "A zsilipterület",
             "ro": "Zona Ecluzelor",
-            "en": "The Locks Area"
+            "en": "The Locks Area",
+            "sv": "Slussområdet"
           },
           "coords": [
             12.2785,
@@ -638,7 +693,8 @@
             "de": "Nehmen Sie sich Zeit für ein Mittagessen in einem der Cafés hier.",
             "hu": "Szánjon időt egy ebédre az itteni kávézók egyikében.",
             "ro": "Luați-vă timp pentru prânz la una dintre cafenelele de aici.",
-            "en": "Take time for lunch at one of the cafés here."
+            "en": "Take time for lunch at one of the cafés here.",
+            "sv": "Ta tid för lunch på något av caféerna här."
           }
         },
         {
@@ -646,7 +702,8 @@
             "de": "Die Wasserfälle",
             "hu": "A vízesések",
             "ro": "Cascadele",
-            "en": "The Waterfalls"
+            "en": "The Waterfalls",
+            "sv": "Vattenfallen"
           },
           "coords": [
             12.281,
@@ -661,7 +718,8 @@
             "de": "Die Kraft des Wassers ist am besten vom Oscar-Steg aus zu spüren.",
             "hu": "A víz erejét leginkább az Oscar-hídról lehet érezni.",
             "ro": "Puterea apei se simte cel mai bine de pe podul Oscar.",
-            "en": "The power of the water is best felt from the Oscar bridge."
+            "en": "The power of the water is best felt from the Oscar bridge.",
+            "sv": "Vattnets kraft känns bäst från Oscarbron."
           }
         },
         {
@@ -669,7 +727,8 @@
             "de": "Kopparklinten",
             "hu": "Kopparklinten kilátó",
             "ro": "Punctul de belvedere Kopparklinten",
-            "en": "Kopparklinten Viewpoint"
+            "en": "Kopparklinten Viewpoint",
+            "sv": "Kopparklinten utsiktsplats"
           },
           "coords": [
             12.308,
@@ -684,7 +743,8 @@
             "de": "Die Radtour hierher ist anstrengend, aber die Aussicht belohnt alles.",
             "hu": "A biciklizés ide fárasztó, de a kilátás mindenért kárpótol.",
             "ro": "Plimbarea cu bicicleta până aici este obositoare, dar priveliștea merită totul.",
-            "en": "The bike ride up here is strenuous, but the view is worth it all."
+            "en": "The bike ride up here is strenuous, but the view is worth it all.",
+            "sv": "Cykelturen upp hit är ansträngande, men utsikten är värd allt."
           }
         },
         {
@@ -692,7 +752,8 @@
             "de": "Skogshöjd Aussichtsturm",
             "hu": "Skogshöjd kilátótorony",
             "ro": "Turnul de observație Skogshöjd",
-            "en": "Skogshöjd Lookout Tower"
+            "en": "Skogshöjd Lookout Tower",
+            "sv": "Skogshöjd utsiktstorn"
           },
           "coords": [
             12.321,
@@ -707,7 +768,8 @@
             "de": "Ein weiterer fantastischer Panoramablick über die Region.",
             "hu": "Egy másik fantasztikus panoráma a régióra.",
             "ro": "O altă priveliște panoramică fantastică a regiunii.",
-            "en": "Another fantastic panoramic view over the region."
+            "en": "Another fantastic panoramic view over the region.",
+            "sv": "Ytterligare en fantastisk panoramavy över regionen."
           }
         },
         {
@@ -715,7 +777,8 @@
             "de": "Spikön",
             "hu": "Spikön-sziget",
             "ro": "Insula Spikön",
-            "en": "Spikön Island"
+            "en": "Spikön Island",
+            "sv": "Spikön"
           },
           "coords": [
             12.288,
@@ -730,7 +793,8 @@
             "de": "Rollen Sie entspannt aus und genießen Sie die Abendsonne.",
             "hu": "Guruljon le lazán, és élvezze az esti napsütést.",
             "ro": "Relaxați-vă și bucurați-vă de soarele de seară.",
-            "en": "Roll out relaxed and enjoy the evening sun."
+            "en": "Roll out relaxed and enjoy the evening sun.",
+            "sv": "Rulla ut avslappnat och njut av kvällssolen."
           }
         }
       ],
@@ -738,7 +802,8 @@
         "de": "Ihre Radtour beginnt mit einem Paukenschlag im Saab Car Museum, gefolgt vom interaktiven Innovatum. Am Vormittag erleben Sie die technologische Seite Trollhättans. Eine kurze Fahrt über die Gropbron-Brücke bietet erste malerische Ausblicke auf den Fluss.\nZu Mittag erreichen Sie das Herz der Stadt: das Schleusengebiet. Nach einer Stärkung erleben Sie die Kraft der Wasserfälle. Diese Gegend ist perfekt, um vom Rad abzusteigen und die Atmosphäre zu Fuß zu genießen. Es ist eine Mischung aus Naturwunder und menschlicher Schöpfungskraft.\nDer Nachmittag wird sportlich. Sie radeln bergauf zum Kopparklinten und weiter zum Skogshöjd Aussichtsturm. Die Anstrengung wird mit atemberaubenden Panoramablicken über die Stadt und die umliegende Landschaft belohnt. Diese Perspektive zeigt die wahre Schönheit der Region.\nLassen Sie den Tag entspannt auf der Insel Spikön ausklingen. Eine sanfte Fahrt dorthin, gefolgt von einer Pause im Grünen, ist der perfekte Abschluss für einen ereignisreichen Tag auf zwei Rädern. Genießen Sie die Ruhe, bevor Sie sich auf den Heimweg machen.",
         "hu": "Kerékpártúrája a Saab Autómúzeumban kezdődik, majd az interaktív Innovatum következik. Délelőtt Trollhättan technológiai oldalát ismeri meg. Egy rövid út a Gropbron hídon át festői kilátást nyújt a folyóra.\nDélben eléri a város szívét: a zsilipterületet. Egy kis harapnivaló után megtapasztalhatja a vízesések erejét. Ez a terület tökéletes arra, hogy leszálljon a kerékpárról, és gyalog élvezze a hangulatot. Ez a természeti csoda és az emberi alkotóerő keveréke.\nA délután sportos lesz. Felteker a Kopparklintenre, majd tovább a Skogshöjd kilátótoronyhoz. A fáradozást a városra és a környező tájra nyíló lélegzetelállító panoráma jutalmazza. Ez a perspektíva megmutatja a régió igazi szépségét.\nZárja a napot pihenéssel a Spikön-szigeten. Egy kellemes tekerés oda, majd egy szünet a zöldben tökéletes befejezése egy eseménydús napnak két keréken. Élvezze a csendet, mielőtt hazaindul.",
         "ro": "Turul cu bicicleta începe în forță la Muzeul Auto Saab, urmat de interactivul Innovatum. Dimineața veți experimenta latura tehnologică a Trollhättan-ului. O scurtă plimbare peste podul Gropbron oferă primele priveliști pitorești ale râului.\nLa prânz, ajungeți în inima orașului: zona ecluzelor. După o gustare, veți experimenta puterea cascadelor. Această zonă este perfectă pentru a coborî de pe bicicletă și a vă bucura de atmosferă pe jos. Este un amestec de minune naturală și creativitate umană.\nDupă-amiaza devine sportivă. Pedalați în sus spre Kopparklinten și mai departe spre Turnul de observație Skogshöjd. Efortul este răsplătit cu priveliști panoramice uluitoare asupra orașului și peisajului înconjurător. Această perspectivă dezvăluie adevărata frumusețe a regiunii.\nÎncheiați ziua relaxându-vă pe insula Spikön. O plimbare blândă până acolo, urmată de o pauză în verdeață, este finalul perfect pentru o zi plină de evenimente pe două roți. Bucurați-vă de liniște înainte de a porni spre casă.",
-        "en": "Your bike tour starts with a bang at the Saab Car Museum, followed by the interactive Innovatum. In the morning, you'll experience the technological side of Trollhättan. A short ride over the Gropbron bridge offers the first picturesque views of the river.\nAt lunchtime, you'll reach the heart of the city: the locks area. After a snack, you'll experience the power of the waterfalls. This area is perfect for getting off your bike and enjoying the atmosphere on foot. It's a mix of natural wonder and human creativity.\nThe afternoon gets sporty. You'll cycle uphill to Kopparklinten and on to the Skogshöjd Lookout Tower. The effort is rewarded with breathtaking panoramic views over the city and the surrounding landscape. This perspective reveals the true beauty of the region.\nEnd the day relaxing on Spikön island. A gentle ride there, followed by a break in the green, is the perfect end to an eventful day on two wheels. Enjoy the peace and quiet before you head home."
+        "en": "Your bike tour starts with a bang at the Saab Car Museum, followed by the interactive Innovatum. In the morning, you'll experience the technological side of Trollhättan. A short ride over the Gropbron bridge offers the first picturesque views of the river.\nAt lunchtime, you'll reach the heart of the city: the locks area. After a snack, you'll experience the power of the waterfalls. This area is perfect for getting off your bike and enjoying the atmosphere on foot. It's a mix of natural wonder and human creativity.\nThe afternoon gets sporty. You'll cycle uphill to Kopparklinten and on to the Skogshöjd Lookout Tower. The effort is rewarded with breathtaking panoramic views over the city and the surrounding landscape. This perspective reveals the true beauty of the region.\nEnd the day relaxing on Spikön island. A gentle ride there, followed by a break in the green, is the perfect end to an eventful day on two wheels. Enjoy the peace and quiet before you head home.",
+        "sv": "Din cykeltur börjar med ett pang på Saab Bilmuseum, följt av interaktiva Innovatum. På förmiddagen upplever du Trollhättans tekniska sida. En kort tur över Gropbron ger de första pittoreska vyerna över älven.\nVid lunchtid når du stadens hjärta: slussområdet. Efter ett mellanmål upplever du vattenfallen. Detta område är perfekt för att kliva av cykeln och njuta av atmosfären till fots. Det är en blandning av naturens underverk och mänsklig kreativitet.\nEftermiddagen blir sportig. Du cyklar uppför till Kopparklinten och vidare till Skogshöjd utsiktstorn. Ansträngningen belönas med hisnande panoramavyer över staden och det omgivande landskapet. Detta perspektiv avslöjar regionens verkliga skönhet.\nAvsluta dagen avkopplande på ön Spikön. En lugn tur dit, följt av en paus i det gröna, är det perfekta slutet på en händelserik dag på två hjul. Njut av lugnet innan du åker hem."
       },
       "gastro_picks": {
         "de": [
@@ -894,6 +959,11 @@
           "Some routes have steep climbs, make sure your bike has gears.",
           "Bring plenty of water, especially for the ride to the viewpoints.",
           "A bike lock is essential when you explore the sights on foot."
+        ],
+        "sv": [
+          "Vissa rutter har branta stigningar, säkerställ att din cykel har växlar.",
+          "Ta med gott om vatten, särskilt för turen till utsiktsplatserna.",
+          "Ett cykellås är nödvändigt när du utforskar sevärdheterna till fots."
         ]
       },
       "variants": {
@@ -902,7 +972,8 @@
             "de": "Morgens radeln wir zum Saab-Museum, wo wir im Trockenen in die Automobilwelt eintauchen. Mittags geht es weiter zum Innovatum Center durch den erfrischenden Regen. Die Gropbron-Brücke bietet eine weite Sicht über den grauen Kanal. Nachmittags erkunden wir die Schleusen und Wasserfälle, bevor wir trotz Nässe den Kopparklinten erklimmen. Der Tag endet auf der Insel Spikön mit Blick auf das schimmernde Wasser.",
             "hu": "Reggel a Saab Múzeumhoz tekerünk, ahol szárazon merülünk el az autóvilágban. Délben az Innovatum központ felé folytatjuk utunkat a frissítő esőben. A Gropbron híd tágas kilátást nyújt a szürke csatornára. Délután a zsilipeket és vízeséseket fedezzük fel, majd a nedvesség ellenére megmásszuk a Kopparklinten sziklát. A nap a Spikön-szigeten ér véget, rálátással a csillogó vízre.",
             "ro": "Dimineața pedalăm spre Muzeul Saab, unde ne cufundăm la uscat în lumea automobilelor. La prânz, continuăm spre Centrul Innovatum prin ploaia revigorantă. Podul Gropbron oferă o vedere largă asupra canalului gri. După-amiaza explorăm ecluzele și cascadele, apoi urcăm pe Kopparklinten în ciuda umezelii. Ziua se încheie pe insula Spikön cu vedere la apa sclipitoare.",
-            "en": "In the morning, we cycle to the Saab Museum to dive into the car world while staying dry. At midday, we continue to the Innovatum Center through the refreshing rain. Gropbron Bridge offers a wide view over the grey canal. In the afternoon, we explore the locks and waterfalls, then climb Kopparklinten despite the damp. The day ends on Spikön Island with a view of the shimmering water."
+            "en": "In the morning, we cycle to the Saab Museum to dive into the car world while staying dry. At midday, we continue to the Innovatum Center through the refreshing rain. Gropbron Bridge offers a wide view over the grey canal. In the afternoon, we explore the locks and waterfalls, then climb Kopparklinten despite the damp. The day ends on Spikön Island with a view of the shimmering water.",
+            "sv": "På morgonen cyklar vi till Saab-museet för att fördjupa oss i bilvärlden samtidigt som vi håller oss torra. Vid lunchtid fortsätter vi till Innovatum Center genom det friska regnet. Gropbron erbjuder en vid utsikt över den grå kanalen. På eftermiddagen utforskar vi slussarna och vattenfallen, sedan klättrar vi uppför Kopparklinten trots fukten. Dagen avslutas på Spikön med utsikt över det glittrande vattnet."
           },
           "stops": [
             {
@@ -911,7 +982,8 @@
                 "de": "Parken Sie Ihr Rad nah am Eingang, um schnell ins Trockene zu kommen.",
                 "hu": "Parkoljon közel a bejárathoz, hogy gyorsan szárazra érjen.",
                 "ro": "Parcați bicicleta aproape de intrare pentru a ajunge rapid la uscat.",
-                "en": "Park your bike close to the entrance to get inside quickly."
+                "en": "Park your bike close to the entrance to get inside quickly.",
+                "sv": "Parkera din cykel nära ingången för att komma in snabbt."
               }
             },
             {
@@ -920,7 +992,8 @@
                 "de": "Nutzen Sie den Stopp, um Ihre Regenbekleidung kurz auszuschütteln.",
                 "hu": "Használja ki a megállót, hogy lerázza az esőt a ruhájáról.",
                 "ro": "Profitați de oprire pentru a vă scutura puțin hainele de ploaie.",
-                "en": "Use the stop to shake off your rain gear briefly."
+                "en": "Use the stop to shake off your rain gear briefly.",
+                "sv": "Använd stoppet för att skaka av dig regnkläderna kortvarigt."
               }
             },
             {
@@ -929,7 +1002,8 @@
                 "de": "Achtung, die Fahrbahn auf der Brücke kann bei Regen rutschig sein.",
                 "hu": "Vigyázat, a hídon az útfelület esőben csúszós lehet.",
                 "ro": "Atenție, carosabilul de pe pod poate fi alunecos pe ploaie.",
-                "en": "Caution, the road surface on the bridge can be slippery in the rain."
+                "en": "Caution, the road surface on the bridge can be slippery in the rain.",
+                "sv": "Varning, vägbanan på bron kan vara hal i regnet."
               }
             },
             {
@@ -938,7 +1012,8 @@
                 "de": "Die Wege am Kanal sind fest, aber Pfützenbildung ist möglich.",
                 "hu": "A csatorna menti utak stabilak, de pocsolyák kialakulhatnak.",
                 "ro": "Potecile de lângă canal sunt ferme, dar se pot forma bălți.",
-                "en": "The paths by the canal are firm, but puddles may form."
+                "en": "The paths by the canal are firm, but puddles may form.",
+                "sv": "Stigarna vid kanalen är fasta, men pölar kan bildas."
               }
             },
             {
@@ -947,7 +1022,8 @@
                 "de": "Ein toller Anblick, aber halten Sie Abstand zum rutschigen Rand.",
                 "hu": "Nagyszerű látvány, de tartson távolságot a csúszós szélétől.",
                 "ro": "O priveliște grozavă, dar păstrați distanța față de marginea alunecoasă.",
-                "en": "A great sight, but keep your distance from the slippery edge."
+                "en": "A great sight, but keep your distance from the slippery edge.",
+                "sv": "En fantastisk syn, men håll avstånd från den hala kanten."
               }
             },
             {
@@ -956,7 +1032,8 @@
                 "de": "Der Aufstieg ist bei Regen anstrengender, aber die Aussicht lohnt sich.",
                 "hu": "A feljutás esőben fárasztóbb, de a kilátás megéri.",
                 "ro": "Urcarea este mai obositoare pe ploaie, dar priveliștea merită.",
-                "en": "The climb is more strenuous in the rain, but the view is worth it."
+                "en": "The climb is more strenuous in the rain, but the view is worth it.",
+                "sv": "Uppförsbacken är mer ansträngande i regn, men utsikten är värd mödan."
               }
             },
             {
@@ -965,7 +1042,8 @@
                 "de": "Die Stufen zum Turm können bei Nässe tückisch sein.",
                 "hu": "A torony lépcsői nedvesen csalókák lehetnek.",
                 "ro": "Treptele turnului pot fi înșelătoare când sunt ude.",
-                "en": "The steps to the tower can be treacherous when wet."
+                "en": "The steps to the tower can be treacherous when wet.",
+                "sv": "Trapporna upp till tornet kan vara förrädiska när de är våta."
               }
             },
             {
@@ -974,7 +1052,8 @@
                 "de": "Ein entspannter Abschluss der Tour auf befestigten Wegen.",
                 "hu": "A túra nyugodt lezárása szilárd burkolatú utakon.",
                 "ro": "Un final relaxat al turului pe poteci pavate.",
-                "en": "A relaxed end to the tour on paved paths."
+                "en": "A relaxed end to the tour on paved paths.",
+                "sv": "Ett avslappnat slut på rundturen på asfalterade stigar."
               }
             }
           ],
@@ -1002,6 +1081,12 @@
               "Brake early on wet asphalt and cobblestones.",
               "Waterproof panniers will keep your gear dry.",
               "The bridges are often windy; keep a firm grip on the handlebars."
+            ],
+            "sv": [
+              "Fullt regnskydd och skärmar är oumbärliga idag.",
+              "Bromsa i god tid på våt asfalt och kullersten.",
+              "Vattentäta pakethållarväskor håller din utrustning torr.",
+              "Broarna är ofta blåsiga; håll stadigt i styret."
             ]
           }
         },
@@ -1010,7 +1095,8 @@
             "de": "Starten Sie am Saab-Museum in den frostigen Morgen. Die Radwege nach Innovatum sind meist gut geräumt. Mittags genießen wir den Blick von der Gropbron über den teilweise vereisten Kanal. Die Schleusen wirken im Winterlicht besonders imposant. Am Nachmittag radeln wir zum Kopparklinten, um das restliche Tageslicht zu nutzen. Die Tour endet stimmungsvoll in der Dämmerung auf der beleuchteten Insel Spikön.",
             "hu": "Induljon a Saab Múzeumnál a fagyos reggelen. Az Innovatum felé vezető kerékpárutak többnyire jól tisztítottak. Délben a Gropbron hídról csodáljuk a részben befagyott csatornát. A zsilipek a téli fényben különösen impozánsak. Délután a Kopparklinten felé tekerünk, hogy kihasználjuk a maradék fényt. A túra hangulatosan, a szürkületben ér véget a kivilágított Spikön-szigeten.",
             "ro": "Începeți la Muzeul Saab în dimineața geroasă. Pistele de biciclete spre Innovatum sunt de obicei bine curățate. La prânz ne bucurăm de vederea de pe Gropbron peste canalul parțial înghețat. Ecluzele par deosebit de impunătoare în lumina de iarnă. După-amiaza pedalăm spre Kopparklinten pentru a profita de lumina rămasă. Turul se încheie atmosferic la amurg pe insula iluminată Spikön.",
-            "en": "Start at the Saab Museum on a frosty morning. The cycle paths to Innovatum are usually well-cleared. At midday, enjoy the view from Gropbron over the partially frozen canal. The locks look particularly imposing in winter light. In the afternoon, cycle to Kopparklinten to catch the last daylight. The tour ends atmospherically at dusk on the illuminated Spikön Island."
+            "en": "Start at the Saab Museum on a frosty morning. The cycle paths to Innovatum are usually well-cleared. At midday, enjoy the view from Gropbron over the partially frozen canal. The locks look particularly imposing in winter light. In the afternoon, cycle to Kopparklinten to catch the last daylight. The tour ends atmospherically at dusk on the illuminated Spikön Island.",
+            "sv": "Börja vid Saabmuseet en frostig morgon. Cykelvägarna till Innovatum är vanligtvis välplogade. Mitt på dagen, njut av utsikten från Gropbron över den delvis frusna kanalen. Slussarna ser särskilt imponerande ut i vinterljus. På eftermiddagen cyklar du till Kopparklinten för att fånga det sista dagsljuset. Turen avslutas stämningsfullt i skymningen på upplysta Spikön."
           },
           "stops": [
             {
@@ -1019,7 +1105,8 @@
                 "de": "Wärmen Sie sich gut auf, bevor Sie wieder auf das Rad steigen.",
                 "hu": "Melegedjen fel jól, mielőtt újra kerékpárra szállna.",
                 "ro": "Încălziți-vă bine înainte de a vă urca din nou pe bicicletă.",
-                "en": "Warm up well before getting back on your bike."
+                "en": "Warm up well before getting back on your bike.",
+                "sv": "Värm upp ordentligt innan du sätter dig på cykeln igen."
               }
             },
             {
@@ -1028,7 +1115,8 @@
                 "de": "Ein idealer Stopp, um die eingefrorenen Finger aufzutauen.",
                 "hu": "Ideális megálló az átfagyott ujjak felolvasztására.",
                 "ro": "O oprire ideală pentru a vă dezgheța degetele amorțite.",
-                "en": "An ideal stop to thaw out frozen fingers."
+                "en": "An ideal stop to thaw out frozen fingers.",
+                "sv": "Ett idealiskt stopp för att tina frusna fingrar."
               }
             },
             {
@@ -1037,7 +1125,8 @@
                 "de": "Starker Wind auf der Brücke verstärkt den Chill-Faktor.",
                 "hu": "A hídon az erős szél fokozza a hidegérzetet.",
                 "ro": "Vântul puternic de pe pod crește senzația de frig.",
-                "en": "Strong winds on the bridge increase the chill factor."
+                "en": "Strong winds on the bridge increase the chill factor.",
+                "sv": "Starka vindar på bron ökar köldkänslan."
               }
             },
             {
@@ -1046,7 +1135,8 @@
                 "de": "Vorsicht bei Kurven auf den Wegen, es könnte glatt sein.",
                 "hu": "Vigyázzon a kanyarokban az utakon, csúszós lehet.",
                 "ro": "Atenție la viraje pe poteci, ar putea fi alunecos.",
-                "en": "Be careful when turning on the paths; it could be slippery."
+                "en": "Be careful when turning on the paths; it could be slippery.",
+                "sv": "Var försiktig när du svänger på stigarna; det kan vara halt."
               }
             },
             {
@@ -1055,7 +1145,8 @@
                 "de": "Die Felsen können im Winter sehr tückisch und eisig sein.",
                 "hu": "A sziklák télen nagyon csalókák és jegesek lehetnek.",
                 "ro": "Stâncile pot fi foarte înșelătoare și înghețate iarna.",
-                "en": "The rocks can be very treacherous and icy in winter."
+                "en": "The rocks can be very treacherous and icy in winter.",
+                "sv": "Stenarna kan vara mycket förrädiska och isiga på vintern."
               }
             },
             {
@@ -1064,7 +1155,8 @@
                 "de": "Der Anstieg hält warm, aber oben kühlt man schnell aus.",
                 "hu": "Az emelkedő melegen tart, de fent gyorsan lehűl az ember.",
                 "ro": "Urcarea vă ține cald, dar sus vă veți răci rapid.",
-                "en": "The climb keeps you warm, but you'll cool down quickly at the top."
+                "en": "The climb keeps you warm, but you'll cool down quickly at the top.",
+                "sv": "Backen håller dig varm, men du kyls snabbt på toppen."
               }
             },
             {
@@ -1073,7 +1165,8 @@
                 "de": "Aussicht genießen und schnell weiter, bevor es dunkel wird.",
                 "hu": "Élvezze a kilátást és induljon tovább gyorsan, mielőtt sötét lesz.",
                 "ro": "Bucurați-vă de priveliște și plecați repede înainte de a se întuneca.",
-                "en": "Enjoy the view and move on quickly before it gets dark."
+                "en": "Enjoy the view and move on quickly before it gets dark.",
+                "sv": "Njut av utsikten och fortsätt snabbt innan det blir mörkt."
               }
             },
             {
@@ -1082,7 +1175,8 @@
                 "de": "Die Beleuchtung macht die späte Rückfahrt sicher und schön.",
                 "hu": "A kivilágítás biztonságossá és széppé teszi a késői visszautat.",
                 "ro": "Iluminatul face drumul de întoarcere sigur și frumos.",
-                "en": "The lighting makes the late return trip safe and beautiful."
+                "en": "The lighting makes the late return trip safe and beautiful.",
+                "sv": "Belysningen gör den sena hemresan säker och vacker."
               }
             }
           ],
@@ -1110,6 +1204,12 @@
               "Wear windproof gloves and a thin hat under your helmet.",
               "Be mindful of the short daylight hours (10:00 AM to 3:30 PM).",
               "Cycle paths in Trollhättan are often prioritized for snow removal."
+            ],
+            "sv": [
+              "Dubbade däck rekommenderas starkt för is och snö i Sverige.",
+              "Bär vindtäta handskar och en tunn mössa under hjälmen.",
+              "Tänk på de korta dagljusperioderna (10:00–15:30).",
+              "Cykelvägar i Trollhättan prioriteras ofta vid snöröjning."
             ]
           }
         }
@@ -1128,7 +1228,8 @@
             "de": "Kopparklinten",
             "hu": "Kopparklinten kilátó",
             "ro": "Punctul de belvedere Kopparklinten",
-            "en": "Kopparklinten Viewpoint"
+            "en": "Kopparklinten Viewpoint",
+            "sv": "Kopparklinten utsiktsplats"
           },
           "coords": [
             12.308,
@@ -1144,7 +1245,8 @@
             "de": "Beginnen Sie den Tag mit einer spektakulären Aussicht. Es gibt einen Parkplatz in der Nähe.",
             "hu": "Kezdje a napot egy látványos kilátással. A közelben parkoló található.",
             "ro": "Începeți ziua cu o priveliște spectaculoasă. Există o parcare în apropiere.",
-            "en": "Start the day with a spectacular view. There's a parking lot nearby."
+            "en": "Start the day with a spectacular view. There's a parking lot nearby.",
+            "sv": "Börja dagen med en spektakulär utsikt. Det finns en parkeringsplats i närheten."
           }
         },
         {
@@ -1152,7 +1254,8 @@
             "de": "Skogshöjd Aussichtsturm",
             "hu": "Skogshöjd kilátótorony",
             "ro": "Turnul de observație Skogshöjd",
-            "en": "Skogshöjd Lookout Tower"
+            "en": "Skogshöjd Lookout Tower",
+            "sv": "Skogshöjd utsiktstorn"
           },
           "coords": [
             12.321,
@@ -1168,7 +1271,8 @@
             "de": "Fahren Sie zum nächsten Panoramapunkt für eine andere Perspektive.",
             "hu": "Hajtson a következő panorámaponthoz egy másik perspektíváért.",
             "ro": "Conduceți la următorul punct panoramic pentru o altă perspectivă.",
-            "en": "Drive to the next panoramic point for a different perspective."
+            "en": "Drive to the next panoramic point for a different perspective.",
+            "sv": "Kör till nästa panoramapunkt för ett annat perspektiv."
           }
         },
         {
@@ -1176,7 +1280,8 @@
             "de": "Saab Car Museum",
             "hu": "Saab Autómúzeum",
             "ro": "Muzeul Auto Saab",
-            "en": "Saab Car Museum"
+            "en": "Saab Car Museum",
+            "sv": "Saab bilmuseum"
           },
           "coords": [
             12.2935,
@@ -1192,7 +1297,8 @@
             "de": "Parken Sie hier und bereiten Sie sich auf einen Spaziergang zum nächsten Ziel vor.",
             "hu": "Parkoljon itt, és készüljön fel a következő célponthoz való sétára.",
             "ro": "Parcați aici și pregătiți-vă pentru o plimbare până la următoarea destinație.",
-            "en": "Park here and prepare for a walk to the next destination."
+            "en": "Park here and prepare for a walk to the next destination.",
+            "sv": "Parkera här och förbered för en promenad till nästa mål."
           }
         },
         {
@@ -1200,7 +1306,8 @@
             "de": "Innovatum Science Center",
             "hu": "Innovatum Tudományos Központ",
             "ro": "Centrul Științific Innovatum",
-            "en": "Innovatum Science Center"
+            "en": "Innovatum Science Center",
+            "sv": "Innovatum Science Center"
           },
           "coords": [
             12.2925,
@@ -1216,7 +1323,8 @@
             "de": "Ein kurzer Spaziergang vom Saab Museum, ideal für die Mittagszeit.",
             "hu": "Egy rövid séta a Saab Múzeumtól, ideális ebédidőben.",
             "ro": "O scurtă plimbare de la Muzeul Saab, ideală pentru prânz.",
-            "en": "A short walk from the Saab Museum, ideal for lunchtime."
+            "en": "A short walk from the Saab Museum, ideal for lunchtime.",
+            "sv": "En kort promenad från Saabmuseet, idealiskt för lunch."
           }
         },
         {
@@ -1224,7 +1332,8 @@
             "de": "Schleusengebiet",
             "hu": "A zsilipterület",
             "ro": "Zona Ecluzelor",
-            "en": "The Locks Area"
+            "en": "The Locks Area",
+            "sv": "Slussområdet"
           },
           "coords": [
             12.2785,
@@ -1240,7 +1349,8 @@
             "de": "Suchen Sie einen Parkplatz für den Rest des Nachmittags.",
             "hu": "Keressen parkolóhelyet a délután hátralévő részére.",
             "ro": "Găsiți un loc de parcare pentru restul după-amiezii.",
-            "en": "Find a parking spot for the rest of the afternoon."
+            "en": "Find a parking spot for the rest of the afternoon.",
+            "sv": "Hitta en parkeringsplats för resten av eftermiddagen."
           }
         },
         {
@@ -1248,7 +1358,8 @@
             "de": "Die Wasserfälle",
             "hu": "A vízesések",
             "ro": "Cascadele",
-            "en": "The Waterfalls"
+            "en": "The Waterfalls",
+            "sv": "Vattenfallen"
           },
           "coords": [
             12.281,
@@ -1264,7 +1375,8 @@
             "de": "Ein einfacher Spaziergang vom Schleusengebiet aus.",
             "hu": "Egy könnyű séta a zsilipterületről.",
             "ro": "O plimbare ușoară din zona ecluzelor.",
-            "en": "An easy walk from the locks area."
+            "en": "An easy walk from the locks area.",
+            "sv": "En lätt promenad från slussområdet."
           }
         },
         {
@@ -1272,7 +1384,8 @@
             "de": "Olidan Kraftstation",
             "hu": "Olidan erőmű",
             "ro": "Centrala Electrică Olidan",
-            "en": "Olidan Power Station"
+            "en": "Olidan Power Station",
+            "sv": "Olidan kraftstation"
           },
           "coords": [
             12.2845,
@@ -1288,7 +1401,8 @@
             "de": "Beenden Sie den Tag mit einem Einblick in die industrielle Geschichte der Stadt.",
             "hu": "Zárja a napot a város ipari történelmébe való betekintéssel.",
             "ro": "Încheiați ziua cu o privire asupra istoriei industriale a orașului.",
-            "en": "End the day with a glimpse into the city's industrial history."
+            "en": "End the day with a glimpse into the city's industrial history.",
+            "sv": "Avsluta dagen med en inblick i stadens industrihistoria."
           }
         }
       ],
@@ -1296,7 +1410,8 @@
         "de": "Ihr Tag mit dem Auto beginnt hoch oben mit Panoramablicken vom Kopparklinten und dem Skogshöjd Turm. Diese morgendliche Fahrt gibt Ihnen einen perfekten Überblick über die Region, die Sie erkunden werden. Danach fahren Sie zum ersten Cluster, dem Innovationsviertel.\nAm späten Vormittag parken Sie Ihr Auto und tauchen in die Welt von Saab und Wissenschaft ein. Das Saab Car Museum und das Innovatum Science Center liegen nur einen kurzen Spaziergang voneinander entfernt. Dies ist der perfekte Ort für ein Mittagessen und um die schwedische Innovationskraft zu erleben.\nNach dem Mittagessen fahren Sie zum zweiten großen Cluster des Tages: dem historischen Wasser- und Schleusengebiet. Parken Sie das Auto erneut und erkunden Sie zu Fuß die beeindruckenden Schleusen, die tosenden Wasserfälle und die historische Olidan Kraftstation. Spüren Sie die Geschichte und die Kraft, die diese Stadt geformt hat.\nDer späte Nachmittag ist eine entspannte Wanderung durch dieses faszinierende Gebiet. Jeder Schritt enthüllt ein neues Detail der Ingenieurskunst und der Natur. Es ist der perfekte, ruhige Ausklang für einen Tag voller Entdeckungen, bevor Sie wieder ins Auto steigen.",
         "hu": "Autós napja magasan kezdődik, panorámás kilátással a Kopparklintenről és a Skogshöjd-toronyból. Ez a reggeli autózás tökéletes áttekintést nyújt a felfedezésre váró régióról. Ezután az első központhoz, az innovációs negyedhez hajt.\nA késő délelőtt folyamán leparkolja autóját, és elmerül a Saab és a tudomány világában. A Saab Autómúzeum és az Innovatum Tudományos Központ csak egy rövid sétára található egymástól. Ez a tökéletes hely egy ebédhez és a svéd innovációs erő megtapasztalásához.\nEbéd után a nap második nagy központjához hajt: a történelmi víz- és zsilipterülethez. Parkolja le újra az autót, és fedezze fel gyalog a lenyűgöző zsilipeket, a dübörgő vízeséseket és a történelmi Olidan erőművet. Érezze a történelmet és az erőt, amely ezt a várost formálta.\nA késő délután egy pihentető séta ezen a lenyűgöző területen. Minden lépés egy újabb részletet tár fel a mérnöki tudásról és a természetről. Ez a tökéletes, csendes befejezése egy felfedezésekkel teli napnak, mielőtt újra autóba ülne.",
         "ro": "Ziua dumneavoastră cu mașina începe la înălțime, cu vederi panoramice de la Kopparklinten și Turnul Skogshöjd. Această plimbare matinală vă oferă o imagine de ansamblu perfectă a regiunii pe care o veți explora. Apoi, conduceți spre primul cluster, cartierul inovației.\nLa sfârșitul dimineții, parcați mașina și cufundați-vă în lumea Saab și a științei. Muzeul Auto Saab și Centrul Științific Innovatum se află la o scurtă plimbare unul de celălalt. Acesta este locul perfect pentru prânz și pentru a experimenta puterea inovatoare suedeză.\nDupă prânz, conduceți spre al doilea mare cluster al zilei: zona istorică a apei și a ecluzelor. Parcați din nou mașina și explorați pe jos ecluzele impresionante, cascadele zgomotoase și istorica Centrală Electrică Olidan. Simțiți istoria și puterea care au modelat acest oraș.\nSfârșitul după-amiezii este o plimbare relaxantă prin această zonă fascinantă. Fiecare pas dezvăluie un nou detaliu de inginerie și natură. Este încheierea perfectă și liniștită a unei zile pline de descoperiri, înainte de a vă urca din nou în mașină.",
-        "en": "Your day by car starts high up with panoramic views from Kopparklinten and the Skogshöjd Tower. This morning drive gives you a perfect overview of the region you'll be exploring. You then drive to the first cluster, the innovation district.\nIn the late morning, you park your car and immerse yourself in the world of Saab and science. The Saab Car Museum and Innovatum Science Center are just a short walk from each other. This is the perfect place for lunch and to experience Swedish innovative power.\nAfter lunch, you drive to the second major cluster of the day: the historic water and locks area. Park the car again and explore on foot the impressive locks, the roaring waterfalls, and the historic Olidan Power Station. Feel the history and power that shaped this city.\nThe late afternoon is a relaxing walk through this fascinating area. Every step reveals a new detail of engineering and nature. It's the perfect, quiet end to a day full of discoveries before you get back in the car."
+        "en": "Your day by car starts high up with panoramic views from Kopparklinten and the Skogshöjd Tower. This morning drive gives you a perfect overview of the region you'll be exploring. You then drive to the first cluster, the innovation district.\nIn the late morning, you park your car and immerse yourself in the world of Saab and science. The Saab Car Museum and Innovatum Science Center are just a short walk from each other. This is the perfect place for lunch and to experience Swedish innovative power.\nAfter lunch, you drive to the second major cluster of the day: the historic water and locks area. Park the car again and explore on foot the impressive locks, the roaring waterfalls, and the historic Olidan Power Station. Feel the history and power that shaped this city.\nThe late afternoon is a relaxing walk through this fascinating area. Every step reveals a new detail of engineering and nature. It's the perfect, quiet end to a day full of discoveries before you get back in the car.",
+        "sv": "Din dag med bil börjar högt upp med panoramautsikt från Kopparklinten och Skogshöjd-tornet. Denna morgonutflykt ger dig en perfekt överblick över regionen du ska utforska. Därefter kör du till den första klustret, innovationsdistriktet.\nI sen förmiddag parkerar du bilen och fördjupar dig i Saab och vetenskapens värld. Saab bilmuseum och Innovatum Science Center ligger bara en kort promenad från varandra. Detta är den perfekta platsen för lunch och att uppleva svensk innovationskraft.\nEfter lunch kör du till dagens andra stora kluster: det historiska vatten- och slussområdet. Parkera bilen igen och utforska till fots de imponerande slussarna, de dånande vattenfallen och den historiska Olidan kraftstation. Känn historien och kraften som formade denna stad.\nSen eftermiddag är en avkopplande promenad genom detta fascinerande område. Varje steg avslöjar en ny detalj av ingenjörskonst och natur. Det är ett perfekt, lugnt slut på en dag fylld av upptäckter innan du sätter dig i bilen igen."
       },
       "gastro_picks": {
         "de": [
@@ -1448,6 +1563,11 @@
           "Parking fees may apply, have coins or a parking app ready.",
           "The cluster strategy saves time and parking searches. Plan your stops accordingly.",
           "Pay attention to the signs for the sights, they are usually good."
+        ],
+        "sv": [
+          "Parkeringsavgifter kan gälla, ha mynt eller en parkeringsapp redo.",
+          "Klustertänk spar tid och parkeringsturer. Planera dina stopp därefter.",
+          "Följ skyltarna till sevärdheterna, de är vanligtvis bra."
         ]
       },
       "variants": {
@@ -1456,7 +1576,8 @@
             "de": "Trotz Regen genießen wir die Panoramafahrt zum Kopparklinten am Morgen. Das Auto ist der perfekte Rückzugsort zwischen den Stopps. Mittags tauchen wir im Saab-Museum und Innovatum Center in die Technikgeschichte ein. Die Wasserfälle und Kraftwerke erleben wir bei kurzen Gängen im Freien. Der Tag endet bequem an den Schleusen, während der Regen gegen das Autodach trommelt.",
             "hu": "Az eső ellenére reggel élvezzük a panorámautat a Kopparklintenhez. Az autó tökéletes menedék a megállók között. Délben a Saab Múzeumban és az Innovatum központban merülünk el a technikatörténetben. A vízeséseket és erőműveket rövid szabadtéri sétákkal nézzük meg. A nap kényelmesen ér véget a zsilipeknél, miközben az eső az autó tetején kopog.",
             "ro": "În ciuda ploii, ne bucurăm de drumul panoramic spre Kopparklinten dimineața. Mașina este refugiul perfect între opriri. La prânz, ne cufundăm în istoria tehnologiei la Muzeul Saab și Centrul Innovatum. Cascadele și centralele le experimentăm în scurte plimbări în aer liber. Ziua se încheie confortabil la ecluze, în timp ce ploaia bate în plafonul mașinii.",
-            "en": "Despite the rain, we enjoy the scenic drive to Kopparklinten in the morning. The car is the perfect sanctuary between stops. At midday, we dive into tech history at the Saab Museum and Innovatum Center. We experience the waterfalls and power stations during short outdoor walks. The day ends comfortably at the locks while the rain drums on the car roof."
+            "en": "Despite the rain, we enjoy the scenic drive to Kopparklinten in the morning. The car is the perfect sanctuary between stops. At midday, we dive into tech history at the Saab Museum and Innovatum Center. We experience the waterfalls and power stations during short outdoor walks. The day ends comfortably at the locks while the rain drums on the car roof.",
+            "sv": "Trots regnet njuter vi av den natursköna bilfärden till Kopparklinten på morgonen. Bilen är det perfekta tillfället att värma sig mellan stoppen. Mitt på dagen fördjupar vi oss i teknikens historia på Saabmuseet och Innovatum Center. Vi upplever vattenfallen och kraftverken under korta utomhuspromenader. Dagen avslutas bekvämt vid slussarna medan regnet trummar på bilens tak."
           },
           "stops": [
             {
@@ -1465,7 +1586,8 @@
                 "de": "Parkplatz direkt am Aussichtspunkt, ideal bei schlechtem Wetter.",
                 "hu": "Parkoló közvetlenül a kilátónál, ideális rossz időben.",
                 "ro": "Parcare chiar lângă punctul de belvedere, ideală pe vreme rea.",
-                "en": "Parking right at the viewpoint, ideal for bad weather."
+                "en": "Parking right at the viewpoint, ideal for bad weather.",
+                "sv": "Parkeringsmöjligheter precis vid utsiktsplatsen, idealiskt vid dåligt väder."
               }
             },
             {
@@ -1474,7 +1596,8 @@
                 "de": "Kurzer Fußweg vom Parkplatz zum Turm.",
                 "hu": "Rövid séta a parkolótól a toronyig.",
                 "ro": "Scurtă plimbare de la parcare până la turn.",
-                "en": "Short walk from the parking lot to the tower."
+                "en": "Short walk from the parking lot to the tower.",
+                "sv": "Kort promenad från parkeringsplatsen till tornet."
               }
             },
             {
@@ -1483,7 +1606,8 @@
                 "de": "Großer Parkplatz vorhanden, fast kein Regenrisiko.",
                 "hu": "Nagy parkoló áll rendelkezésre, szinte nincs beázásveszély.",
                 "ro": "Parcare mare disponibilă, aproape niciun risc de ploaie.",
-                "en": "Large parking lot available, almost no rain risk."
+                "en": "Large parking lot available, almost no rain risk.",
+                "sv": "Stor parkeringsplats tillgänglig, nästan ingen regnrisk."
               }
             },
             {
@@ -1492,7 +1616,8 @@
                 "de": "Bequemes Parken im Innovatum-Viertel möglich.",
                 "hu": "Kényelmes parkolás az Innovatum negyedben.",
                 "ro": "Parcare convenabilă disponibilă în districtul Innovatum.",
-                "en": "Convenient parking available in the Innovatum district."
+                "en": "Convenient parking available in the Innovatum district.",
+                "sv": "Bekväm parkering finns i Innovatum-distriktet."
               }
             },
             {
@@ -1501,7 +1626,8 @@
                 "de": "Parken Sie am Kanal und beobachten Sie die Schiffe im Trockenen.",
                 "hu": "Parkoljon a csatornánál, és nézze a hajókat szárazon.",
                 "ro": "Parcați lângă canal și urmăriți navele stând la uscat.",
-                "en": "Park near the canal and watch the ships while staying dry."
+                "en": "Park near the canal and watch the ships while staying dry.",
+                "sv": "Parkera nära kanalen och titta på båtarna medan du håller dig torr."
               }
             },
             {
@@ -1510,7 +1636,8 @@
                 "de": "Die Sicht kann durch Gischt und Regen eingeschränkt sein.",
                 "hu": "A kilátást a permet és az eső korlátozhatja.",
                 "ro": "Vizibilitatea poate fi limitată de spumă și ploaie.",
-                "en": "Visibility may be limited by spray and rain."
+                "en": "Visibility may be limited by spray and rain.",
+                "sv": "Sikten kan begränsas av stänk och regn."
               }
             },
             {
@@ -1519,7 +1646,8 @@
                 "de": "Ein imposanter Anblick, auch durch die Windschutzscheibe.",
                 "hu": "Impozáns látvány, akár a szélvédőn keresztül is.",
                 "ro": "O priveliște impunătoare, chiar și prin parbriz.",
-                "en": "An imposing sight, even through the windshield."
+                "en": "An imposing sight, even through the windshield.",
+                "sv": "Ett imponerande skådespel, även genom vindrutan."
               }
             }
           ],
@@ -1547,6 +1675,12 @@
               "Watch out for aquaplaning on the expressways around the city.",
               "Keep an umbrella in the car for short walks.",
               "Windows fog up quickly in the rain; use the air conditioning."
+            ],
+            "sv": [
+              "Använd parkeringshus i centrum för torra övergångar.",
+              "Se upp för vattenplaning på motorvägarna runt staden.",
+              "Ha ett paraply i bilen för kortare promenader.",
+              "Fönstren immar lätt i regn; använd luftkonditioneringen."
             ]
           }
         },
@@ -1555,7 +1689,8 @@
             "de": "Ein winterlicher Roadtrip durch Trollhättan beginnt am verschneiten Kopparklinten. Im warmen Auto geht es sicher zum Saab-Museum und zum Innovatum. Mittags genießen wir die industrielle Pracht der Olidan-Station im klaren Winterlicht. Die Schleusen bieten ein frostiges Panorama, bevor wir den Tag gemütlich ausklingen lassen. Das Auto schützt uns vor der beißenden Kälte am Kanal.",
             "hu": "Téli autós túra Trollhättanban a havas Kopparklintennél kezdődik. A meleg autóban biztonságosan jutunk el a Saab Múzeumhoz és az Innovatumhoz. Délben az Olidan állomás ipari pompáját élvezzük a tiszta téli fényben. A zsilipek fagyos panorámát nyújtanak, mielőtt kényelmesen lezárjuk a napot. Az autó megvéd minket a csatorna menti csípős hidegtől.",
             "ro": "O excursie de iarnă cu mașina prin Trollhättan începe la Kopparklinten înzăpezit. În mașina caldă ajungem în siguranță la Muzeul Saab și la Innovatum. La prânz ne bucurăm de splendoarea industrială a stației Olidan în lumina clară de iarnă. Ecluzele oferă o panoramă geroasă înainte de a încheia ziua confortabil. Mașina ne protejează de frigul tăios de la canal.",
-            "en": "A winter road trip through Trollhättan starts at the snowy Kopparklinten. In the warm car, we travel safely to the Saab Museum and Innovatum. At midday, we enjoy the industrial grandeur of Olidan Station in clear winter light. The locks offer a frosty panorama before we end the day comfortably. The car protects us from the biting cold by the canal."
+            "en": "A winter road trip through Trollhättan starts at the snowy Kopparklinten. In the warm car, we travel safely to the Saab Museum and Innovatum. At midday, we enjoy the industrial grandeur of Olidan Station in clear winter light. The locks offer a frosty panorama before we end the day comfortably. The car protects us from the biting cold by the canal.",
+            "sv": "En vinterbilresa genom Trollhättan börjar vid snöiga Kopparklinten. I den varma bilen färdas vi säkert till Saabmuseet och Innovatum. Mitt på dagen njuter vi av Olidans industriella storslagenhet i klart vinterljus. Slussarna erbjuder ett frostigt panorama innan vi avslutar dagen bekvämt. Bilen skyddar oss från den bitande kylan vid kanalen."
           },
           "stops": [
             {
@@ -1564,7 +1699,8 @@
                 "de": "Die Zufahrt kann bei Neuschnee glatt sein.",
                 "hu": "A bekötőút friss hó esetén csúszós lehet.",
                 "ro": "Accesul poate fi alunecos în caz de zăpadă proaspătă.",
-                "en": "The access road can be slippery with fresh snow."
+                "en": "The access road can be slippery with fresh snow.",
+                "sv": "Utfarten kan vara hal med nysnö."
               }
             },
             {
@@ -1573,7 +1709,8 @@
                 "de": "Warme Kleidung für den Aufstieg einplanen.",
                 "hu": "Tervezzen meleg ruházatot a feljutáshoz.",
                 "ro": "Planificați îmbrăcăminte caldă pentru urcare.",
-                "en": "Plan for warm clothing for the climb."
+                "en": "Plan for warm clothing for the climb.",
+                "sv": "Planera för varma kläder för klättringen."
               }
             },
             {
@@ -1582,7 +1719,8 @@
                 "de": "Perfekter Ort, um sich zwischen den Fahrten aufzuwärmen.",
                 "hu": "Tökéletes hely a vezetés közötti felmelegedéshez.",
                 "ro": "Locul perfect pentru a vă încălzi între drumuri.",
-                "en": "Perfect place to warm up between drives."
+                "en": "Perfect place to warm up between drives.",
+                "sv": "Perfekt plats att värma sig mellan bilfärderna."
               }
             },
             {
@@ -1591,7 +1729,8 @@
                 "de": "Parkplätze werden meist zügig geräumt.",
                 "hu": "A parkolókat általában gyorsan megtisztítják.",
                 "ro": "Parcările sunt de obicei curățate rapid.",
-                "en": "Parking lots are usually cleared quickly."
+                "en": "Parking lots are usually cleared quickly.",
+                "sv": "Parkeringsplatser plogas vanligtvis snabbt."
               }
             },
             {
@@ -1600,7 +1739,8 @@
                 "de": "Im Winter weniger Betrieb, einfaches Parken möglich.",
                 "hu": "Télen kisebb a forgalom, egyszerű parkolás lehetséges.",
                 "ro": "Mai puțin trafic iarna, parcare ușoară posibilă.",
-                "en": "Less traffic in winter; easy parking is possible."
+                "en": "Less traffic in winter; easy parking is possible.",
+                "sv": "Mindre trafik på vintern; enkel parkering är möjlig."
               }
             },
             {
@@ -1609,7 +1749,8 @@
                 "de": "Genießen Sie den Blick vom Auto aus, wenn es zu kalt ist.",
                 "hu": "Élvezze a kilátást az autóból, ha túl hideg van.",
                 "ro": "Bucurați-vă de priveliște din mașină dacă este prea frig.",
-                "en": "Enjoy the view from the car if it's too cold."
+                "en": "Enjoy the view from the car if it's too cold.",
+                "sv": "Njut av utsikten från bilen om det är för kallt."
               }
             },
             {
@@ -1618,7 +1759,8 @@
                 "de": "Spektakuläre Eiszapfenbildung an den alten Gebäuden.",
                 "hu": "Látványos jégcsapok a régi épületeken.",
                 "ro": "Formațiuni spectaculoase de țurțuri pe clădirile vechi.",
-                "en": "Spectacular icicles on the old buildings."
+                "en": "Spectacular icicles on the old buildings.",
+                "sv": "Spektakulära istappar på de gamla byggnaderna."
               }
             }
           ],
@@ -1646,6 +1788,12 @@
               "An ice scraper and a snow brush are essential equipment.",
               "Roads can be dirty from road salt; check your washer fluid.",
               "Plan more time for parking if there's heavy snow."
+            ],
+            "sv": [
+              "Vinterdäck är lagstadgat i Sverige.",
+              "En isskrapa och snöborste är nödvändig utrustning.",
+              "Vägar kan vara smutsiga av vägsalt; kontrollera spolarvätskan.",
+              "Planera mer tid för parkering vid kraftig snöfall."
             ]
           }
         }
@@ -1664,7 +1812,8 @@
             "de": "Trollhättan Resecentrum",
             "hu": "Trollhättan Utazási Központ",
             "ro": "Centrul de Călătorii Trollhättan",
-            "en": "Trollhättan Travel Center"
+            "en": "Trollhättan Travel Center",
+            "sv": "Trollhättan Resecentrum"
           },
           "coords": [
             12.2899,
@@ -1680,7 +1829,8 @@
             "de": "Kaufen Sie eine Tageskarte für den Bus für maximale Flexibilität.",
             "hu": "Vásároljon napijegyet a buszra a maximális rugalmasság érdekében.",
             "ro": "Cumpărați un bilet de o zi pentru autobuz pentru flexibilitate maximă.",
-            "en": "Buy a day ticket for the bus for maximum flexibility."
+            "en": "Buy a day ticket for the bus for maximum flexibility.",
+            "sv": "Köp en dagsbiljett för bussen för maximal flexibilitet."
           }
         },
         {
@@ -1688,7 +1838,8 @@
             "de": "Saab Car Museum",
             "hu": "Saab Autómúzeum",
             "ro": "Muzeul Auto Saab",
-            "en": "Saab Car Museum"
+            "en": "Saab Car Museum",
+            "sv": "Saab bilmuseum"
           },
           "coords": [
             12.2935,
@@ -1704,7 +1855,8 @@
             "de": "Der erste Cluster: Nehmen Sie einen Bus zum Innovationsviertel.",
             "hu": "Az első klaszter: Menjen busszal az innovációs negyedbe.",
             "ro": "Primul cluster: Luați un autobuz spre cartierul inovației.",
-            "en": "The first cluster: take a bus to the innovation district."
+            "en": "The first cluster: take a bus to the innovation district.",
+            "sv": "Första klustret: ta bussen till innovationsdistriktet."
           }
         },
         {
@@ -1712,7 +1864,8 @@
             "de": "Innovatum Science Center",
             "hu": "Innovatum Tudományos Központ",
             "ro": "Centrul Științific Innovatum",
-            "en": "Innovatum Science Center"
+            "en": "Innovatum Science Center",
+            "sv": "Innovatum Science Center"
           },
           "coords": [
             12.2925,
@@ -1728,7 +1881,8 @@
             "de": "Ein kurzer Spaziergang vom Saab-Museum, um den Vormittag abzurunden.",
             "hu": "Egy rövid séta a Saab Múzeumtól a délelőtt lezárásaként.",
             "ro": "O scurtă plimbare de la Muzeul Saab pentru a încheia dimineața.",
-            "en": "A short walk from the Saab museum to round off the morning."
+            "en": "A short walk from the Saab museum to round off the morning.",
+            "sv": "En kort promenad från Saabmuseet för att avrunda morgonen."
           }
         },
         {
@@ -1736,7 +1890,8 @@
             "de": "Schleusengebiet",
             "hu": "A zsilipterület",
             "ro": "Zona Ecluzelor",
-            "en": "The Locks Area"
+            "en": "The Locks Area",
+            "sv": "Slussområdet"
           },
           "coords": [
             12.2785,
@@ -1752,7 +1907,8 @@
             "de": "Nächster Bus, nächster Cluster. Zeit für das Herzstück von Trollhättan.",
             "hu": "Következő busz, következő klaszter. Itt az idő Trollhättan szívéhez.",
             "ro": "Următorul autobuz, următorul cluster. E timpul pentru inima Trollhättan-ului.",
-            "en": "Next bus, next cluster. Time for the heart of Trollhättan."
+            "en": "Next bus, next cluster. Time for the heart of Trollhättan.",
+            "sv": "Nästa buss, nästa kluster. Dags för Trollhättans hjärta."
           }
         },
         {
@@ -1760,7 +1916,8 @@
             "de": "Die Wasserfälle",
             "hu": "A vízesések",
             "ro": "Cascadele",
-            "en": "The Waterfalls"
+            "en": "The Waterfalls",
+            "sv": "Vattenfallen"
           },
           "coords": [
             12.281,
@@ -1776,7 +1933,8 @@
             "de": "Spazieren Sie entlang des Wassers und spüren Sie die Gischt.",
             "hu": "Sétáljon a víz mentén, és érezze a permetet.",
             "ro": "Plimbați-vă de-a lungul apei și simțiți stropii.",
-            "en": "Stroll along the water and feel the spray."
+            "en": "Stroll along the water and feel the spray.",
+            "sv": "Promenera längs vattnet och känn stänket."
           }
         },
         {
@@ -1784,7 +1942,8 @@
             "de": "Spikön",
             "hu": "Spikön-sziget",
             "ro": "Insula Spikön",
-            "en": "Spikön Island"
+            "en": "Spikön Island",
+            "sv": "Spikön"
           },
           "coords": [
             12.288,
@@ -1800,7 +1959,8 @@
             "de": "Ein entspannter Spaziergang zurück Richtung Zentrum zum Abschluss.",
             "hu": "Egy pihentető séta vissza a központ felé befejezésül.",
             "ro": "O plimbare relaxantă înapoi spre centru pentru a încheia.",
-            "en": "A relaxing walk back towards the center to finish."
+            "en": "A relaxing walk back towards the center to finish.",
+            "sv": "En avkopplande promenad tillbaka mot centrum för att avsluta."
           }
         }
       ],
@@ -1808,7 +1968,8 @@
         "de": "Ihre Tour mit öffentlichen Verkehrsmitteln beginnt am Resecentrum, dem Verkehrsknotenpunkt der Stadt. Von hier aus bringt Sie ein Bus direkt zum ersten Themencluster: dem Innovationsviertel. Der Vormittag ist gefüllt mit den Wundern der Technik im Saab Museum und im Innovatum Science Center, die beide bequem zu Fuß erreichbar sind.\nZur Mittagszeit nehmen Sie den nächsten Bus, der Sie in das historische Herz von Trollhättan bringt. Steigen Sie am Schleusengebiet aus, einem Ort, an dem Sie die nächsten Stunden verbringen werden. Hier können Sie in einem Café zu Mittag essen, bevor Sie sich auf den Weg machen, um die Gegend zu erkunden.\nDer Nachmittag ist ein Spaziergang durch eine Landschaft aus Wasser und Stein. Vom Schleusengebiet aus wandern Sie zu den tosenden Wasserfällen. Erleben Sie die schiere Kraft der Natur und der menschlichen Ingenieurskunst, die sie zähmt. Es ist ein unvergessliches Erlebnis.\nZum Abschluss des Tages schlendern Sie gemütlich zur Insel Spikön. Es ist der perfekte Ort, um sich zu entspannen und die Eindrücke zu verarbeiten. Von hier aus ist es nur ein kurzer Spaziergang oder eine kurze Busfahrt zurück zum Resecentrum, womit sich Ihr Kreis schließt.",
         "hu": "Tömegközlekedési túrája a Resecentrumban, a város közlekedési csomópontjában kezdődik. Innen egy busz egyenesen az első tematikus központhoz, az innovációs negyedhez viszi. A délelőtt a technika csodáival telik a Saab Múzeumban és az Innovatum Tudományos Központban, mindkettő kényelmesen elérhető gyalog.\nEbédidőben a következő buszra száll, amely Trollhättan történelmi szívébe viszi. Szálljon le a zsilipterületnél, ahol a következő órákat tölti. Itt ebédelhet egy kávézóban, mielőtt elindulna a környék felfedezésére.\nA délután egy séta a víz és a kő táján. A zsilipterületről a dübörgő vízesésekhez túrázik. Tapasztalja meg a természet és az azt megszelídítő emberi mérnöki tudás puszta erejét. Ez egy felejthetetlen élmény.\nA nap végén sétáljon el kényelmesen a Spikön-szigetre. Ez a tökéletes hely a pihenésre és az élmények feldolgozására. Innen csak egy rövid séta vagy buszozás vissza a Resecentrumba, amivel a kör bezárul.",
         "ro": "Turul dumneavoastră cu transportul public începe la Resecentrum, nodul de transport al orașului. De aici, un autobuz vă duce direct la primul cluster tematic: cartierul inovației. Dimineața este plină de minunile tehnologiei la Muzeul Saab și Centrul Științific Innovatum, ambele ușor accesibile pe jos.\nLa prânz, luați următorul autobuz care vă duce în inima istorică a Trollhättan-ului. Coborâți la zona ecluzelor, un loc unde veți petrece următoarele ore. Aici puteți lua prânzul la o cafenea înainte de a porni să explorați zona.\nDupă-amiaza este o plimbare printr-un peisaj de apă și piatră. Din zona ecluzelor, mergeți spre cascadele zgomotoase. Experimentați puterea pură a naturii și a ingineriei umane care o îmblânzește. Este o experiență de neuitat.\nLa sfârșitul zilei, plimbați-vă agale pe insula Spikön. Este locul perfect pentru a vă relaxa și a procesa impresiile. De aici, este doar o scurtă plimbare pe jos sau cu autobuzul înapoi la Resecentrum, încheind astfel circuitul.",
-        "en": "Your tour by public transport begins at Resecentrum, the city's transport hub. From here, a bus takes you directly to the first themed cluster: the innovation district. The morning is filled with the wonders of technology at the Saab Museum and the Innovatum Science Center, both easily accessible on foot.\nAt lunchtime, you take the next bus to the historic heart of Trollhättan. Get off at the locks area, a place where you will spend the next few hours. Here you can have lunch in a café before setting off to explore the area.\nThe afternoon is a walk through a landscape of water and stone. From the locks area, you hike to the roaring waterfalls. Experience the sheer power of nature and the human engineering that tames it. It's an unforgettable experience.\nAt the end of the day, take a leisurely stroll to Spikön island. It's the perfect place to relax and process your impressions. From here, it's just a short walk or bus ride back to Resecentrum, bringing your journey full circle."
+        "en": "Your tour by public transport begins at Resecentrum, the city's transport hub. From here, a bus takes you directly to the first themed cluster: the innovation district. The morning is filled with the wonders of technology at the Saab Museum and the Innovatum Science Center, both easily accessible on foot.\nAt lunchtime, you take the next bus to the historic heart of Trollhättan. Get off at the locks area, a place where you will spend the next few hours. Here you can have lunch in a café before setting off to explore the area.\nThe afternoon is a walk through a landscape of water and stone. From the locks area, you hike to the roaring waterfalls. Experience the sheer power of nature and the human engineering that tames it. It's an unforgettable experience.\nAt the end of the day, take a leisurely stroll to Spikön island. It's the perfect place to relax and process your impressions. From here, it's just a short walk or bus ride back to Resecentrum, bringing your journey full circle.",
+        "sv": "Din tur med kollektivtrafik börjar vid Resecentrum, stadens transportnav. Härifrån tar en buss dig direkt till det första temaklustret: innovationsdistriktet. Morgonen fylls av teknikens under på Saabmuseet och Innovatum Science Center, båda lättillgängliga till fots.\nVid lunchtid tar du nästa buss till Trollhättans historiska hjärta. Kliv av vid slussområdet, en plats där du kommer att spendera de följande timmarna. Här kan du äta lunch på ett kafé innan du ger dig ut för att utforska området.\nEftermiddagen är en promenad genom ett landskap av vatten och sten. Från slussområdet vandrar du till de dånande vattenfallen. Upplev naturens råa kraft och den ingenjörskonst som behärskar den. Det är en oförglömlig upplevelse.\nI slutet av dagen tar du en avslappnad promenad till Spikön. Det är en perfekt plats att varva ner och smälta intrycken. Härifrån är det bara en kort promenad eller bussresa tillbaka till Resecentrum, vilket fullbordar din rundtur."
       },
       "gastro_picks": {
         "de": [
@@ -1964,6 +2125,11 @@
           "Download the Västtrafik app to manage schedules and tickets.",
           "Plan for buffer times for waiting at bus stops.",
           "Pay attention to the last bus connection back, especially if you are on the outskirts of the city."
+        ],
+        "sv": [
+          "Ladda ner Västtrafik-appen för att hantera tidtabeller och biljetter.",
+          "Planera bufferttider för väntan vid busshållplatser.",
+          "Var uppmärksam på sista bussförbindelsen tillbaka, särskilt i stadens utkanter."
         ]
       },
       "variants": {
@@ -1972,7 +2138,8 @@
             "de": "Wir starten am Travel Center und nutzen das dichte Busnetz. Das Saab-Museum und Innovatum Center sind hervorragend angebunden und halten uns trocken. Mittags erkunden wir die Schleusen, wobei die Wartezeiten an den Bushaltestellen dank Unterständen kurzweilig sind. Die Wasserfälle erleben wir bei einem kleinen Spaziergang, bevor wir bequem mit dem Bus zur Insel Spikön fahren.",
             "hu": "A Travel Centertől indulunk, kihasználva a sűrű buszhálózatot. A Saab Múzeum és az Innovatum központ kiváló összeköttetéssel rendelkezik, így szárazon maradunk. Délben a zsilipeket fedezzük fel; a buszmegállók várói megvédenek az esőtől. A vízeséseket egy rövid séta keretében nézzük meg, majd kényelmesen busszal megyünk a Spikön-szigetre.",
             "ro": "Pornim de la Travel Center și folosim rețeaua densă de autobuze. Muzeul Saab și Centrul Innovatum sunt excelent conectate și ne țin la uscat. La prânz explorăm ecluzele; timpii de așteptare în stații sunt scurți datorită adăposturilor. Experimentăm cascadele într-o scurtă plimbare, înainte de a merge confortabil cu autobuzul pe insula Spikön.",
-            "en": "We start at the Travel Center and use the dense bus network. The Saab Museum and Innovatum Center are excellently connected, keeping us dry. At midday, we explore the locks; waiting times at bus stops are short thanks to shelters. We experience the waterfalls during a short walk before taking a comfortable bus ride to Spikön Island."
+            "en": "We start at the Travel Center and use the dense bus network. The Saab Museum and Innovatum Center are excellently connected, keeping us dry. At midday, we explore the locks; waiting times at bus stops are short thanks to shelters. We experience the waterfalls during a short walk before taking a comfortable bus ride to Spikön Island.",
+            "sv": "Vi börjar vid Resecentrum och använder det täta bussnätet. Saabmuseet och Innovatum Center är utmärkta att nå och håller oss torra. Mitt på dagen utforskar vi slussarna; väntetiderna vid hållplatserna är korta tack vare skydd. Vi upplever vattenfallen under en kort promenad innan vi tar en bekväm bussresa till Spikön."
           },
           "stops": [
             {
@@ -1981,7 +2148,8 @@
                 "de": "Zentraler Knotenpunkt mit großem Wartebereich im Trockenen.",
                 "hu": "Központi csomópont nagy, fedett váróteremmel.",
                 "ro": "Nod central cu o zonă mare de așteptare la uscat.",
-                "en": "Central hub with a large indoor waiting area."
+                "en": "Central hub with a large indoor waiting area.",
+                "sv": "Centralt nav med ett stort inomhus väntrum."
               }
             },
             {
@@ -1990,7 +2158,8 @@
                 "de": "Bushaltestelle Innovatum liegt direkt vor der Tür.",
                 "hu": "Az Innovatum buszmegálló közvetlenül az ajtó előtt van.",
                 "ro": "Stația de autobuz Innovatum este chiar în fața ușii.",
-                "en": "The Innovatum bus stop is right outside the door."
+                "en": "The Innovatum bus stop is right outside the door.",
+                "sv": "Innovatum-hållplatsen ligger precis utanför dörren."
               }
             },
             {
@@ -1999,7 +2168,8 @@
                 "de": "Kurze Wege zwischen den Gebäuden minimieren den Regen.",
                 "hu": "Az épületek közötti rövid távolságok minimalizálják az esőt.",
                 "ro": "Distanțele scurte între clădiri minimizează expunerea la ploaie.",
-                "en": "Short distances between buildings minimize rain exposure."
+                "en": "Short distances between buildings minimize rain exposure.",
+                "sv": "Korta avstånd mellan byggnader minimerar regnexponering."
               }
             },
             {
@@ -2008,7 +2178,8 @@
                 "de": "Die Haltestelle 'Slussarna' bietet guten Schutz.",
                 "hu": "A 'Slussarna' megálló jó menedéket nyújt.",
                 "ro": "Stația 'Slussarna' oferă un adăpost bun.",
-                "en": "The 'Slussarna' stop offers good shelter."
+                "en": "The 'Slussarna' stop offers good shelter.",
+                "sv": "Hållplatsen 'Slussarna' erbjuder gott skydd."
               }
             },
             {
@@ -2017,7 +2188,8 @@
                 "de": "Vom Bus aus ist der Weg zu den Aussichtspunkten kurz.",
                 "hu": "A busztól a kilátókhoz vezető út rövid.",
                 "ro": "Drumul de la autobuz la punctele de belvedere este scurt.",
-                "en": "The walk from the bus to the viewpoints is short."
+                "en": "The walk from the bus to the viewpoints is short.",
+                "sv": "Promenaden från bussen till utsiktsplatserna är kort."
               }
             },
             {
@@ -2026,7 +2198,8 @@
                 "de": "Haltestelle 'Centrum' ist nur einen kurzen Fußweg entfernt.",
                 "hu": "A 'Centrum' megálló csak egy rövid sétára van.",
                 "ro": "Stația 'Centrum' este la doar o scurtă plimbare.",
-                "en": "The 'Centrum' stop is just a short walk away."
+                "en": "The 'Centrum' stop is just a short walk away.",
+                "sv": "Hållplatsen 'Centrum' ligger bara en kort promenad bort."
               }
             }
           ],
@@ -2054,6 +2227,12 @@
               "Buses are well-heated during autumn and winter.",
               "Major stations often have cafes nearby for warming up.",
               "Day passes are cost-effective for multiple trips."
+            ],
+            "sv": [
+              "Använd 'Västtrafik To Go'-appen för realtidsinformation.",
+              "Bussar är väl uppvärmda under höst och vinter.",
+              "Större stationer har ofta kaféer i närheten för att värma sig.",
+              "Dagsbiljetter är prisvärda vid flera resor."
             ]
           }
         },
@@ -2062,7 +2241,8 @@
             "de": "Winterreise mit Bus und Bahn: Vom Travel Center gelangen wir schnell zum Saab-Museum und Innovatum. In den beheizten Bussen genießen wir die Aussicht auf die verschneite Stadt. Mittags besuchen wir die frostigen Schleusen, bevor die Dunkelheit einsetzt. Die Wasserfälle wirken im fahlen Winterlicht mystisch. Die Tour endet am beleuchteten Spikön, nur eine kurze Busfahrt vom Zentrum entfernt.",
             "hu": "Téli utazás busszal és vonattal: a Travel Centertől gyorsan eljutunk a Saab Múzeumhoz és az Innovatumhoz. A fűtött buszokon élvezzük a kilátást a havas városra. Délben meglátogatjuk a fagyos zsilipeket, mielőtt beáll a sötétség. A vízesések misztikusak a halvány téli fényben. A túra a kivilágított Spikönnél ér véget, rövid buszútra a központtól.",
             "ro": "Călătorie de iarnă cu autobuzul și trenul: de la Travel Center ajungem rapid la Muzeul Saab și Innovatum. În autobuzele încălzite ne bucurăm de vederea orașului înzăpezit. La prânz vizităm ecluzele geroase înainte de lăsarea întunericului. Cascadele par mistice în lumina palidă de iarnă. Turul se încheie la Spikön iluminat, la doar o scurtă călătorie cu autobuzul de centru.",
-            "en": "Winter travel by bus and train: from the Travel Center, we quickly reach the Saab Museum and Innovatum. In the heated buses, we enjoy views of the snowy city. At midday, we visit the frosty locks before darkness sets in. The waterfalls look mystical in the pale winter light. The tour ends at the illuminated Spikön, just a short bus ride from the center."
+            "en": "Winter travel by bus and train: from the Travel Center, we quickly reach the Saab Museum and Innovatum. In the heated buses, we enjoy views of the snowy city. At midday, we visit the frosty locks before darkness sets in. The waterfalls look mystical in the pale winter light. The tour ends at the illuminated Spikön, just a short bus ride from the center.",
+            "sv": "Vinterresor med buss och tåg: från Resecentret når vi snabbt Saab-museet och Innovatum. I de uppvärmda bussarna njuter vi av utsikten över den snöiga staden. Mitt på dagen besöker vi de frostiga slussarna innan mörkret faller. Vattenfallen ser mystiska ut i det bleka vinterljuset. Turen avslutas vid upplysta Spikön, bara en kort busstur från centrum."
           },
           "stops": [
             {
@@ -2071,7 +2251,8 @@
                 "de": "Der Kiosk bietet heiße Getränke für die Wartezeit.",
                 "hu": "A kioszk forró italokat kínál a várakozási időre.",
                 "ro": "Chioșcul oferă băuturi calde pentru timpul de așteptare.",
-                "en": "The kiosk offers hot drinks for the waiting time."
+                "en": "The kiosk offers hot drinks for the waiting time.",
+                "sv": "Kiosken erbjuder varma drycker under väntetiden."
               }
             },
             {
@@ -2080,7 +2261,8 @@
                 "de": "Busse fahren im Winter zuverlässig und oft.",
                 "hu": "A buszok télen megbízhatóan és gyakran járnak.",
                 "ro": "Autobuzele circulă fiabil și frecvent iarna.",
-                "en": "Buses run reliably and frequently in winter."
+                "en": "Buses run reliably and frequently in winter.",
+                "sv": "Bussarna går pålitligt och ofta under vintern."
               }
             },
             {
@@ -2089,7 +2271,8 @@
                 "de": "Idealer Ort, um die Kälte draußen kurz zu vergessen.",
                 "hu": "Ideális hely, hogy rövid időre elfelejtse a kinti hideget.",
                 "ro": "Locul ideal pentru a uita scurt de frigul de afară.",
-                "en": "Ideal place to briefly forget the cold outside."
+                "en": "Ideal place to briefly forget the cold outside.",
+                "sv": "En idealisk plats för att kort glömma kylan utanför."
               }
             },
             {
@@ -2098,7 +2281,8 @@
                 "de": "Achten Sie auf geräumte Haltestellen und Wege.",
                 "hu": "Ügyeljen a megtisztított megállókra és utakra.",
                 "ro": "Căutați stațiile și potecile curățate.",
-                "en": "Look for cleared stops and paths."
+                "en": "Look for cleared stops and paths.",
+                "sv": "Håll utkik efter plogade hållplatser och gångvägar."
               }
             },
             {
@@ -2107,7 +2291,8 @@
                 "de": "Der Weg vom Bus kann vereist sein, vorsichtig gehen.",
                 "hu": "A busztól vezető út jeges lehet, járjon óvatosan.",
                 "ro": "Drumul de la autobuz poate fi înghețat, mergeți cu atenție.",
-                "en": "The path from the bus may be icy; walk carefully."
+                "en": "The path from the bus may be icy; walk carefully.",
+                "sv": "Vägen från bussen kan vara isig; gå försiktigt."
               }
             },
             {
@@ -2116,7 +2301,8 @@
                 "de": "Die Abendbeleuchtung ist vom Bus aus bereits sichtbar.",
                 "hu": "Az esti kivilágítás már a buszból is látható.",
                 "ro": "Iluminatul de seară este deja vizibil din autobuz.",
-                "en": "The evening lighting is already visible from the bus."
+                "en": "The evening lighting is already visible from the bus.",
+                "sv": "Kvällsbelysningen är redan synlig från bussen."
               }
             }
           ],
@@ -2144,6 +2330,12 @@
               "Bus seats are usually padded and warm.",
               "Combine bus trips to minimize time spent outdoors.",
               "Check the winter schedule in the Västtrafik app."
+            ],
+            "sv": [
+              "Mindre förseningar kan förekomma vid kraftigt snöfall.",
+              "Bussäten är vanligtvis stoppade och varma.",
+              "Kombinera bussresor för att minimera tiden utomhus.",
+              "Kontrollera vinterturlistan i Västtrafik-appen."
             ]
           }
         }

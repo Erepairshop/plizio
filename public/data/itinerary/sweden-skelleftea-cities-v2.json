@@ -21,7 +21,8 @@
             "de": "Stadsparken",
             "hu": "Stadsparken (Városi park)",
             "ro": "Stadsparken (Parcul Orașului)",
-            "en": "Stadsparken (City Park)"
+            "en": "Stadsparken (City Park)",
+            "sv": "Stadsparken (City Park)"
           },
           "coords": [
             20.9545,
@@ -36,7 +37,8 @@
             "de": "Beginnen Sie den Tag mit einem ruhigen Spaziergang entlang des Flusses Skellefteälven.",
             "hu": "Kezdje a napot egy békés sétával a Skellefteälven folyó partján.",
             "ro": "Începeți ziua cu o plimbare liniștită de-a lungul râului Skellefteälven.",
-            "en": "Start your day with a peaceful stroll along the Skellefteälven river."
+            "en": "Start your day with a peaceful stroll along the Skellefteälven river.",
+            "sv": "Börja din dag med en stillsam promenad längs Skellefteälven."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Sara Kulturhus",
             "hu": "Sara Kulturhus",
             "ro": "Centrul Cultural Sara",
-            "en": "Sara Kulturhus"
+            "en": "Sara Kulturhus",
+            "sv": "Sara Kulturhus"
           },
           "coords": [
             20.952,
@@ -59,7 +62,8 @@
             "de": "Bewundern Sie die innovative Holzarchitektur und prüfen Sie, ob eine Ausstellung läuft.",
             "hu": "Csodálja meg az innovatív faépítészetet, és nézze meg, van-e aktuális kiállítás.",
             "ro": "Admirați arhitectura inovatoare din lemn și verificați dacă există vreo expoziție.",
-            "en": "Admire the innovative wooden architecture and check if there's an exhibition on."
+            "en": "Admire the innovative wooden architecture and check if there's an exhibition on.",
+            "sv": "Beundra den innovativa träarkitekturen och kolla om det finns någon utställning."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Skellefteå Museum",
             "hu": "Skellefteå Múzeum",
             "ro": "Muzeul Skellefteå",
-            "en": "Skellefteå Museum"
+            "en": "Skellefteå Museum",
+            "sv": "Skellefteå Museum"
           },
           "coords": [
             20.9455,
@@ -82,7 +87,8 @@
             "de": "Tauchen Sie ein in die lokale Kulturgeschichte, von der Steinzeit bis heute.",
             "hu": "Merüljön el a helyi kultúrtörténetben a kőkorszaktól napjainkig.",
             "ro": "Pătrundeți în istoria culturală locală, din Epoca de Piatră până în prezent.",
-            "en": "Immerse yourself in the local cultural history, from the Stone Age to the present."
+            "en": "Immerse yourself in the local cultural history, from the Stone Age to the present.",
+            "sv": "Fördjupa dig i den lokala kulturhistorien, från stenåldern till nutid."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Landskyrkan",
             "hu": "Landskyrkan (Videlki templom)",
             "ro": "Biserica Landskyrkan",
-            "en": "Landskyrkan (Country Church)"
+            "en": "Landskyrkan (Country Church)",
+            "sv": "Landskyrkan (Country Church)"
           },
           "coords": [
             20.939,
@@ -105,7 +112,8 @@
             "de": "Eine der größten und ältesten Landkirchen Schwedens. Beachten Sie die mittelalterlichen Elemente.",
             "hu": "Svédország egyik legnagyobb és legrégebbi vidéki temploma. Figyelje meg a középkori elemeket.",
             "ro": "Una dintre cele mai mari și mai vechi biserici rurale din Suedia. Observați elementele medievale.",
-            "en": "One of Sweden's largest and oldest country churches. Note the medieval elements."
+            "en": "One of Sweden's largest and oldest country churches. Note the medieval elements.",
+            "sv": "En av Sveriges största och äldsta landskyrkor. Lägg märke till de medeltida inslagen."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Bonnstan",
             "hu": "Bonnstan (Templomváros)",
             "ro": "Bonnstan (Orașul Bisericesc)",
-            "en": "Bonnstan (Church Town)"
+            "en": "Bonnstan (Church Town)",
+            "sv": "Bonnstan (Church Town)"
           },
           "coords": [
             20.937,
@@ -128,7 +137,8 @@
             "de": "Spazieren Sie durch die einzigartigen Kirchenhütten, die für weit hergereiste Kirchgänger gebaut wurden.",
             "hu": "Sétáljon a messziről érkező templomba járók számára épült egyedi templomi kunyhók között.",
             "ro": "Plimbați-vă printre căsuțele bisericești unice, construite pentru enoriașii care veneau de departe.",
-            "en": "Stroll through the unique church cottages built for churchgoers from afar."
+            "en": "Stroll through the unique church cottages built for churchgoers from afar.",
+            "sv": "Vandra genom de unika kyrkboställena som byggdes för församlingsbor som kom långväga ifrån."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Lejonströmsbron",
             "hu": "Lejonströmsbron híd",
             "ro": "Podul Lejonströmsbron",
-            "en": "Lejonströmsbron Bridge"
+            "en": "Lejonströmsbron Bridge",
+            "sv": "Lejonströmsbron Bridge"
           },
           "coords": [
             20.9355,
@@ -151,7 +162,8 @@
             "de": "Überqueren Sie Schwedens älteste Holzbrücke und genießen Sie die Aussicht auf den Fluss.",
             "hu": "Menjen át Svédország legrégebbi fahídján, és élvezze a folyóra nyíló kilátást.",
             "ro": "Traversați cel mai vechi pod de lemn din Suedia și bucurați-vă de priveliștea asupra râului.",
-            "en": "Cross Sweden's oldest wooden bridge and enjoy the view of the river."
+            "en": "Cross Sweden's oldest wooden bridge and enjoy the view of the river.",
+            "sv": "Korsa Sveriges äldsta träbro och njut av utsikten över älven."
           }
         },
         {
@@ -159,7 +171,8 @@
             "de": "Bryggargården",
             "hu": "Bryggargården",
             "ro": "Bryggargården",
-            "en": "Bryggargården"
+            "en": "Bryggargården",
+            "sv": "Bryggargården"
           },
           "coords": [
             20.955,
@@ -174,7 +187,8 @@
             "de": "Beenden Sie den Tag im Café dieses historischen Brauereihofs, ein perfekter Ort zum Entspannen.",
             "hu": "Zárja a napot ennek a történelmi sörfőző udvarnak a kávézójában, amely tökéletes hely a pihenésre.",
             "ro": "Încheiați ziua la cafeneaua din această curte istorică a unei fabrici de bere, un loc perfect pentru relaxare.",
-            "en": "End your day at the café in this historic brewery yard, a perfect spot to relax."
+            "en": "End your day at the café in this historic brewery yard, a perfect spot to relax.",
+            "sv": "Avsluta din dag på caféet i denna historiska bryggargård — en perfekt plats att koppla av."
           }
         }
       ],
@@ -182,7 +196,8 @@
         "de": "Beginnen Sie Ihren Tag im Grünen im Stadsparken, bevor Sie die moderne Architektur des Sara Kulturhus bestaunen. Am Vormittag tauchen Sie im Skellefteå Museum in die reiche Geschichte der Region ein. Nach dem Mittagessen führt Sie ein Spaziergang in die Vergangenheit zur historischen Landskyrkan und dem einzigartigen Kirchdorf Bonnstan. Überqueren Sie am Nachmittag die alte Holzbrücke Lejonströmsbron. Beenden Sie Ihren Erkundungstag im charmanten Bryggargården bei einem Kaffee und lassen Sie die Eindrücke des Tages auf sich wirken.",
         "hu": "Kezdje a napot a zöldben, a Stadsparkenben, mielőtt megcsodálná a Sara Kulturhus modern építészetét. Délelőtt merüljön el a régió gazdag történelmében a Skellefteå Múzeumban. Ebéd után egy séta visszaviszi a múltba a történelmi Landskyrkanhoz és az egyedülálló Bonnstan templomvároshoz. Délután keljen át a régi Lejonströmsbron fahídon. A felfedezéssel töltött napot a bájos Bryggargårdenben zárja egy kávé mellett, átgondolva a nap élményeit.",
         "ro": "Începeți-vă ziua în verdeață la Stadsparken înainte de a admira arhitectura modernă a Centrului Cultural Sara. Dimineața, pătrundeți în istoria bogată a regiunii la Muzeul Skellefteå. După prânz, o plimbare vă va purta înapoi în timp la istorica Biserică Landskyrkan și la unicul oraș bisericesc Bonnstan. După-amiaza, traversați vechiul pod de lemn Lejonströmsbron. Încheiați-vă ziua de explorare la fermecătorul Bryggargården cu o cafea, reflectând asupra impresiilor zilei.",
-        "en": "Start your day amidst greenery at Stadsparken before admiring the modern architecture of Sara Kulturhus. In the morning, delve into the region's rich history at Skellefteå Museum. After lunch, a walk will take you back in time to the historic Landskyrkan and the unique church town of Bonnstan. In the afternoon, cross the old wooden Lejonströmsbron bridge. Conclude your day of exploration at the charming Bryggargården with a coffee, reflecting on the day's impressions."
+        "en": "Start your day amidst greenery at Stadsparken before admiring the modern architecture of Sara Kulturhus. In the morning, delve into the region's rich history at Skellefteå Museum. After lunch, a walk will take you back in time to the historic Landskyrkan and the unique church town of Bonnstan. In the afternoon, cross the old wooden Lejonströmsbron bridge. Conclude your day of exploration at the charming Bryggargården with a coffee, reflecting on the day's impressions.",
+        "sv": "Börja dagen bland grönskan i Stadsparken innan du beundrar den moderna arkitekturen i Sara Kulturhus. På förmiddagen kan du fördjupa dig i regionens rika historia på Skellefteå Museum. Efter lunch tar en promenad dig tillbaka i tiden till den historiska Landskyrkan och den unika kyrkbyn Bonnstan. På eftermiddagen korsar du den gamla träbron Lejonströmsbron. Avsluta din utforskardag på charmiga Bryggargården med en kaffe och reflektera över dagens intryck."
       },
       "gastro_picks": {
         "de": [
@@ -378,6 +393,12 @@
           "Check the opening hours for the museum and churches in advance.",
           "Many cafes offer 'Fika', a traditional Swedish coffee break with pastries.",
           "The paths along the river are well-maintained and perfect for a walk."
+        ],
+        "sv": [
+          "Ha bekväma skor eftersom du kommer att promenera mycket.",
+          "Kolla öppettiderna för museum och kyrkor i förväg.",
+          "Många kaféer erbjuder 'fika', en traditionell svensk kaffepaus med bakverk.",
+          "Vägarna längs älven är välskötta och perfekta för en promenad."
         ]
       },
       "variants": {
@@ -386,7 +407,8 @@
             "de": "Der Morgen beginnt im Stadsparken, wo das Prasseln des Regens auf das Flussufer eine meditative Stille erzeugt. Mittags bietet das Sara Kulturhus mit seiner massiven Holzarchitektur einen warmen, duftenden Zufluchtsort vor dem grauen Himmel. Am Nachmittag erkunden wir die Geschichte im Museum und die Landskyrkan, während Bonnstan im Regen besonders nostalgisch wirkt. Der Tag endet gemütlich im Bryggargården bei einem heißen Tee.",
             "hu": "A reggel a Stadsparken fái alatt indul, az eső kopogása a folyóparton különös nyugalmat áraszt. Délben a Sara Kulturhus monumentális faépülete nyújt illatos és száraz menedéket a szürkeség elől. Délután a múzeum és a Landskyrkan falai között merülünk el a múltban, miközben Bonnstan vörös házai közt tócsákat kerülgetünk. Az estét a Bryggargården patinás termeiben, egy forró ital mellett zárjuk.",
             "ro": "Dimineața începe în Stadsparken, unde sunetul ploii pe malul râului creează o liniște meditativă. La prânz, Sara Kulturhus, cu arhitectura sa masivă din lemn, oferă un refugiu cald și parfumat de cerul gri. După-amiaza explorăm istoria la Muzeu și Landskyrkan, în timp ce Bonnstan pare deosebit de nostalgic în ploaie. Ziua se încheie confortabil la Bryggargården, cu un ceai fierbinte.",
-            "en": "The morning starts in Stadsparken, where the patter of rain on the riverbank creates a meditative silence. At noon, Sara Kulturhus and its massive timber architecture provide a warm, fragrant sanctuary from the grey sky. In the afternoon, we explore history in the Museum and Landskyrkan, while Bonnstan looks particularly nostalgic in the rain. The day ends cozily at Bryggargården over a hot tea."
+            "en": "The morning starts in Stadsparken, where the patter of rain on the riverbank creates a meditative silence. At noon, Sara Kulturhus and its massive timber architecture provide a warm, fragrant sanctuary from the grey sky. In the afternoon, we explore history in the Museum and Landskyrkan, while Bonnstan looks particularly nostalgic in the rain. The day ends cozily at Bryggargården over a hot tea.",
+            "sv": "Morgonen börjar i Stadsparken, där regnets trumma mot strandkanten skapar en meditativ tystnad. Vid middagstid erbjuder Sara Kulturhus med sin massiva träarkitektur ett varmt, doftande skydd från den grå himlen. På eftermiddagen utforskar vi historien på museet och i Landskyrkan, medan Bonnstan blir särskilt nostalgiskt i regnet. Dagen avslutas mysigt på Bryggargården med en varm kopp te."
           },
           "stops": [
             {
@@ -395,7 +417,8 @@
                 "de": "Unter den dichten Bäumen am Fluss findet man guten Schutz vor leichtem Nieselregen.",
                 "hu": "A folyóparti sűrű lombok alatt jól el lehet bújni a szemerkélő eső elől.",
                 "ro": "Sub copacii deși de lângă râu veți găsi un adăpost bun împotriva burniței.",
-                "en": "The dense trees by the river provide good shelter from light drizzle."
+                "en": "The dense trees by the river provide good shelter from light drizzle.",
+                "sv": "De täta träden vid älven ger bra skydd mot lätt duggregn."
               }
             },
             {
@@ -404,7 +427,8 @@
                 "de": "Genießen Sie den Duft von Kiefernholz im Inneren, während es draußen stürmt.",
                 "hu": "Élvezze a fenyőillatot az épületen belül, miközben kint tombol a vihar.",
                 "ro": "Bucurați-vă de mirosul de pin din interior în timp ce afară este furtună.",
-                "en": "Enjoy the scent of pine wood inside while the storm rages outside."
+                "en": "Enjoy the scent of pine wood inside while the storm rages outside.",
+                "sv": "Njut av doften av tallträ inomhus medan stormen rasar utanför."
               }
             },
             {
@@ -413,7 +437,8 @@
                 "de": "Der perfekte Ort, um ein paar trockene Stunden in der Regionalgeschichte zu verbringen.",
                 "hu": "Tökéletes helyszín néhány száraz órát eltölteni a helyi történelem társaságában.",
                 "ro": "Locul perfect pentru a petrece câteva ore la adăpost, învățând istoria regiunii.",
-                "en": "The perfect place to spend a few dry hours immersed in regional history."
+                "en": "The perfect place to spend a few dry hours immersed in regional history.",
+                "sv": "Den perfekta platsen att tillbringa några torra timmar och fördjupa sig i regional historia."
               }
             },
             {
@@ -422,7 +447,8 @@
                 "de": "Die dicken Steinmauern bieten Ruhe und Schutz vor dem nasskalten Wetter.",
                 "hu": "A vastag kőfalak nyugalmat és védelmet nyújtanak a nyirkos időben.",
                 "ro": "Zidurile groase de piatră oferă liniște și protecție împotriva vremii umede.",
-                "en": "The thick stone walls offer peace and protection from the damp weather."
+                "en": "The thick stone walls offer peace and protection from the damp weather.",
+                "sv": "De tjocka stenmurarna erbjuder ro och skydd från det fuktiga vädret."
               }
             },
             {
@@ -431,7 +457,8 @@
                 "de": "Vorsicht auf den hölzernen Gehwegen, sie können bei Nässe sehr rutschig sein.",
                 "hu": "Vigyázzon a fapadlókon, esőben rendkívül csúszóssá válhatnak a vörös házak közt.",
                 "ro": "Atenție pe trotuarele de lemn, pot fi foarte alunecoase când sunt ude.",
-                "en": "Watch your step on the wooden walkways; they can be very slippery when wet."
+                "en": "Watch your step on the wooden walkways; they can be very slippery when wet.",
+                "sv": "Se upp var du går på träbryggorna; de kan vara mycket hala när de är våta."
               }
             },
             {
@@ -440,7 +467,8 @@
                 "de": "Die Brücke ist windanfällig; halten Sie Ihren Regenschirm gut fest.",
                 "hu": "A hídon erős lehet a szél, fogja erősen az esernyőjét a folyó felett.",
                 "ro": "Podul este expus vântului; țineți bine umbrela deasupra râului.",
-                "en": "The bridge is wind-prone; hold onto your umbrella tightly over the river."
+                "en": "The bridge is wind-prone; hold onto your umbrella tightly over the river.",
+                "sv": "Bron utsätts för vind; håll i ditt paraply ordentligt över älven."
               }
             },
             {
@@ -449,7 +477,8 @@
                 "de": "Wärmen Sie sich im historischen Café mit einer traditionellen Fika auf.",
                 "hu": "Melegedjen fel a történelmi kávézóban egy hagyományos svéd fika mellett.",
                 "ro": "Încălziți-vă în cafeneaua istorică cu o fika tradițională suedeză.",
-                "en": "Warm up in the historical café with a traditional Swedish fika."
+                "en": "Warm up in the historical café with a traditional Swedish fika.",
+                "sv": "Värm dig i det historiska caféet med en traditionell svensk fika."
               }
             }
           ],
@@ -477,6 +506,12 @@
               "Sara Kulturhus is the city's best indoor sanctuary during heavy rain.",
               "Wear waterproof shoes for the unpaved paths around Bonnstan.",
               "Take frequent 'fika' breaks in local cafés to stay dry and warm."
+            ],
+            "sv": [
+              "Ett stadigt paraply är nödvändigt med tanke på vindarna vid älven.",
+              "Sara Kulturhus är stadens bästa inomhusskydd vid kraftigt regn.",
+              "Ha vattentäta skor för de ogrusade stigarna runt Bonnstan.",
+              "Ta frekventa fika-pauser på lokala kaféer för att hålla dig torr och varm."
             ]
           }
         },
@@ -485,7 +520,8 @@
             "de": "Der Stadsparken glitzert im Morgenfrost, während der zugefrorene Fluss eine magische Kulisse bietet. Mittags leuchtet das Sara Kulturhus wie eine warme Laterne aus Holz und Glas in der blauen Stunde. Am Nachmittag stapfen wir durch den Schnee von Bonnstan zur Landskyrkan, wo die Kerzen eine andächtige Stimmung verbreiten. Der Abend wird auf der beleuchteten Holzbrücke und bei einem herzhaften Abendessen am Kamin unvergesslich.",
             "hu": "A Stadsparken dérrel borított fái közt indul a reggel, a befagyott folyó látványa varázslatos. Délben a Sara Kulturhus fa- és üvegfalai meleg lámpásként világítanak a korai szürkületben. Délután a hóban gázolva fedezzük fel Bonnstan piros házait és a Landskyrkan csendjét, ahol a gyertyák áhítatos hangulatot árasztanak. Az estét a kivilágított fahíd és egy kandalló melletti vacsora teszi teljessé.",
             "ro": "Stadsparken strălucește în înghețul dimineții, în timp ce râul înghețat oferă un decor magic. La prânz, Sara Kulturhus luminează ca un felinar cald din lemn și sticlă în ora albastră. După-amiaza pășim prin zăpadă de la Bonnstan la Landskyrkan, unde lumânările creează o atmosferă pioasă. Seara devine de neuitat pe podul de lemn iluminat și la o cină copioasă lângă șemineu.",
-            "en": "Stadsparken glistens in the morning frost, while the frozen river provides a magical backdrop. At noon, Sara Kulturhus glows like a warm lantern of wood and glass during the blue hour. In the afternoon, we crunch through the snow from Bonnstan to Landskyrkan, where candles create a reverent atmosphere. The evening is unforgettable on the illuminated wooden bridge and with a hearty dinner by the fireplace."
+            "en": "Stadsparken glistens in the morning frost, while the frozen river provides a magical backdrop. At noon, Sara Kulturhus glows like a warm lantern of wood and glass during the blue hour. In the afternoon, we crunch through the snow from Bonnstan to Landskyrkan, where candles create a reverent atmosphere. The evening is unforgettable on the illuminated wooden bridge and with a hearty dinner by the fireplace.",
+            "sv": "Stadsparken glittrar i morgonfrosten, medan den frusna älven ger en magisk bakgrund. Vid middagstid lyser Sara Kulturhus som en varm lykta av trä och glas under den blå timmen. På eftermiddagen knastrar vi i snön från Bonnstan till Landskyrkan, där ljus skapar en vördnadsfull stämning. Kvällen blir oförglömlig på den upplysta träbron och med en rejäl middag vid eldstaden."
           },
           "stops": [
             {
@@ -494,7 +530,8 @@
                 "de": "Spikes für die Schuhe sind auf den vereisten Wegen entlang des Flusses ratsam.",
                 "hu": "Csúszásgátló talp ajánlott a folyóparti jeges sétányokon.",
                 "ro": "Crampoanele pentru pantofi sunt recomandate pe potecile înghețate de-a lungul râului.",
-                "en": "Ice grips for your shoes are advisable on the icy paths along the river."
+                "en": "Ice grips for your shoes are advisable on the icy paths along the river.",
+                "sv": "Piggskor (islästen) rekommenderas på de isiga stigarna längs älven."
               }
             },
             {
@@ -503,7 +540,8 @@
                 "de": "Der perfekte Ort, um das Tageslicht durch die riesigen Glasfronten zu genießen.",
                 "hu": "Tökéletes hely a kevés nappali fény élvezetére az óriási üvegfalakon át.",
                 "ro": "Locul perfect pentru a te bucura de lumina zilei prin fațadele uriașe de sticlă.",
-                "en": "The perfect spot to catch the limited daylight through the massive glass fronts."
+                "en": "The perfect spot to catch the limited daylight through the massive glass fronts.",
+                "sv": "Den perfekta platsen att fånga det begränsade dagsljuset genom de massiva glasytorna."
               }
             },
             {
@@ -512,7 +550,8 @@
                 "de": "Wärmen Sie sich auf, während Sie erfahren, wie man hier früher den Winter überlebte.",
                 "hu": "Melegedjen fel, miközben megtudja, hogyan élték túl itt régen a teleket.",
                 "ro": "Încălziți-vă în timp ce aflați cum supraviețuiau oamenii iernilor în trecut.",
-                "en": "Warm up while learning how locals survived the harsh winters in the past."
+                "en": "Warm up while learning how locals survived the harsh winters in the past.",
+                "sv": "Värm dig medan du lär dig hur lokalbefolkningen överlevde de hårda vintrarna förr i tiden."
               }
             },
             {
@@ -521,7 +560,8 @@
                 "de": "Die Kirche ist im Winter oft wunderschön mit Kerzen beleuchtet.",
                 "hu": "A templomot télen gyakran gyönyörű gyertyafény világítja meg belülről.",
                 "ro": "Biserica este adesea luminată superb cu lumânări în timpul iernii.",
-                "en": "The church is often beautifully lit with candles during the winter months."
+                "en": "The church is often beautifully lit with candles during the winter months.",
+                "sv": "Kyrkan är ofta vackert upplyst med levande ljus under vintermånaderna."
               }
             },
             {
@@ -530,7 +570,8 @@
                 "de": "Die roten Holzhäuser im weißen Schnee sind das ultimative Fotomotiv.",
                 "hu": "A hófehérben álló vörös faházak a tökéletes téli fotótémát szolgáltatják.",
                 "ro": "Casele roșii din lemn în zăpada albă sunt motivul fotografic suprem.",
-                "en": "The red wooden houses against the white snow are the ultimate photo op."
+                "en": "The red wooden houses against the white snow are the ultimate photo op.",
+                "sv": "De röda trähusen mot den vita snön är det ultimata fototillfället."
               }
             },
             {
@@ -539,7 +580,8 @@
                 "de": "Genießen Sie den Blick auf das Eis, aber achten Sie auf den kalten Wind.",
                 "hu": "Csodálja meg a zajló jeget, de készüljön fel a metsző szélre a hídon.",
                 "ro": "Admirați gheața de pe râu, dar aveți grijă la vântul tăios de pe pod.",
-                "en": "Enjoy the view of the frozen river, but beware of the biting winter wind."
+                "en": "Enjoy the view of the frozen river, but beware of the biting winter wind.",
+                "sv": "Njut av utsikten över den frusna älven, men var beredd på den bitande vintervinden."
               }
             },
             {
@@ -548,7 +590,8 @@
                 "de": "Fragen Sie nach einer heißen Schokolade, um die Winterkälte zu vertreiben.",
                 "hu": "Kérjen egy sűrű forró csokoládét a téli fagy ellensúlyozására.",
                 "ro": "Cereți o ciocolată caldă pentru a alunga frigul iernii.",
-                "en": "Order a hot chocolate to chase away the winter chill."
+                "en": "Order a hot chocolate to chase away the winter chill.",
+                "sv": "Beställ en varm choklad för att jaga bort vinterkylan."
               }
             }
           ],
@@ -576,6 +619,12 @@
               "Dress in layers with wool as a base layer for maximum warmth.",
               "Wear reflectors on your coat for safety during the long dark hours.",
               "Watch out for snow sliding off the steep roofs in Bonnstan."
+            ],
+            "sv": [
+              "Solen går ner så tidigt som klockan 14:00 mitt i vintern; planera därefter.",
+              "Klä dig i lager med ull som baslager för maximal värme.",
+              "Ha reflexer på kappan för säkerhet under de långa mörka timmarna.",
+              "Se upp för snö som kan rasa från de branta taken i Bonnstan."
             ]
           }
         }
@@ -594,7 +643,8 @@
             "de": "Sara Kulturhus",
             "hu": "Sara Kulturhus",
             "ro": "Centrul Cultural Sara",
-            "en": "Sara Kulturhus"
+            "en": "Sara Kulturhus",
+            "sv": "Sara Kulturhus"
           },
           "coords": [
             20.952,
@@ -609,7 +659,8 @@
             "de": "Starten Sie am modernen Herzen der Stadt. Ein idealer Treffpunkt.",
             "hu": "Induljon a város modern szívéből. Ideális találkozóhely.",
             "ro": "Începeți din inima modernă a orașului. Un punct de întâlnire ideal.",
-            "en": "Start at the modern heart of the city. An ideal meeting point."
+            "en": "Start at the modern heart of the city. An ideal meeting point.",
+            "sv": "Börja vid stadens moderna hjärta. En idealisk mötesplats."
           }
         },
         {
@@ -617,7 +668,8 @@
             "de": "Stadsparken",
             "hu": "Stadsparken (Városi park)",
             "ro": "Stadsparken (Parcul Orașului)",
-            "en": "Stadsparken (City Park)"
+            "en": "Stadsparken (City Park)",
+            "sv": "Stadsparken (City Park)"
           },
           "coords": [
             20.9545,
@@ -632,7 +684,8 @@
             "de": "Radeln Sie durch den Park und genießen Sie die frische Luft am Fluss.",
             "hu": "Biciklizzen át a parkon, és élvezze a friss levegőt a folyóparton.",
             "ro": "Plimbați-vă cu bicicleta prin parc și bucurați-vă de aerul proaspăt de lângă râu.",
-            "en": "Cycle through the park and enjoy the fresh air by the river."
+            "en": "Cycle through the park and enjoy the fresh air by the river.",
+            "sv": "Cykla genom parken och njut av den friska luften vid älven."
           }
         },
         {
@@ -640,7 +693,8 @@
             "de": "Skellefteå Museum",
             "hu": "Skellefteå Múzeum",
             "ro": "Muzeul Skellefteå",
-            "en": "Skellefteå Museum"
+            "en": "Skellefteå Museum",
+            "sv": "Skellefteå Museum"
           },
           "coords": [
             20.9455,
@@ -655,7 +709,8 @@
             "de": "Stellen Sie Ihr Fahrrad ab und nehmen Sie sich Zeit für die faszinierenden Ausstellungen.",
             "hu": "Parkolja le a kerékpárt, és szánjon időt a lenyűgöző kiállításokra.",
             "ro": "Parcați-vă bicicleta și acordați-vă timp pentru expozițiile fascinante.",
-            "en": "Park your bike and take your time for the fascinating exhibitions."
+            "en": "Park your bike and take your time for the fascinating exhibitions.",
+            "sv": "Parkera din cykel och ta god tid på dig för de fascinerande utställningarna."
           }
         },
         {
@@ -663,7 +718,8 @@
             "de": "Landskyrkan",
             "hu": "Landskyrkan (Vidéki templom)",
             "ro": "Biserica Landskyrkan",
-            "en": "Landskyrkan (Country Church)"
+            "en": "Landskyrkan (Country Church)",
+            "sv": "Landskyrkan (Country Church)"
           },
           "coords": [
             20.939,
@@ -678,7 +734,8 @@
             "de": "Eine kurze Radtour bringt Sie zu diesem beeindruckenden historischen Gebäude.",
             "hu": "Egy rövid kerékpártúra elviszi ehhez a lenyűgöző történelmi épülethez.",
             "ro": "O scurtă plimbare cu bicicleta vă duce la această clădire istorică impresionantă.",
-            "en": "A short bike ride takes you to this impressive historical building."
+            "en": "A short bike ride takes you to this impressive historical building.",
+            "sv": "En kort cykeltur tar dig till denna imponerande historiska byggnad."
           }
         },
         {
@@ -686,7 +743,8 @@
             "de": "Bonnstan",
             "hu": "Bonnstan (Templomváros)",
             "ro": "Bonnstan (Orașul Bisericesc)",
-            "en": "Bonnstan (Church Town)"
+            "en": "Bonnstan (Church Town)",
+            "sv": "Bonnstan (Church Town)"
           },
           "coords": [
             20.937,
@@ -701,7 +759,8 @@
             "de": "Schieben Sie Ihr Fahrrad durch die engen Gassen dieses einzigartigen historischen Ortes.",
             "hu": "Tolja a kerékpárját ennek az egyedülálló történelmi helynek a szűk sikátorain.",
             "ro": "Împingeți-vă bicicleta pe aleile înguste ale acestui loc istoric unic.",
-            "en": "Walk your bike through the narrow alleys of this unique historical site."
+            "en": "Walk your bike through the narrow alleys of this unique historical site.",
+            "sv": "Led din cykel genom de smala gränderna i detta unika historiska område."
           }
         },
         {
@@ -709,7 +768,8 @@
             "de": "Lejonströmsbron",
             "hu": "Lejonströmsbron híd",
             "ro": "Podul Lejonströmsbron",
-            "en": "Lejonströmsbron Bridge"
+            "en": "Lejonströmsbron Bridge",
+            "sv": "Lejonströmsbron Bridge"
           },
           "coords": [
             20.9355,
@@ -724,7 +784,8 @@
             "de": "Eine Fahrt über die Brücke ist ein Muss. Seien Sie vorsichtig mit Fußgängern.",
             "hu": "A hídon való átkelés kötelező. Legyen óvatos a gyalogosokkal.",
             "ro": "O traversare a podului este obligatorie. Aveți grijă la pietoni.",
-            "en": "A ride across the bridge is a must. Be careful with pedestrians."
+            "en": "A ride across the bridge is a must. Be careful with pedestrians.",
+            "sv": "En cykeltur över bron är ett måste. Var försiktig med fotgängare."
           }
         },
         {
@@ -732,7 +793,8 @@
             "de": "Vitberget",
             "hu": "Vitberget",
             "ro": "Vitberget",
-            "en": "Vitberget"
+            "en": "Vitberget",
+            "sv": "Vitberget"
           },
           "coords": [
             20.995,
@@ -747,7 +809,8 @@
             "de": "Die Radtour hierher ist eine gute Übung und die Aussicht vom Gipfel ist die Belohnung.",
             "hu": "A biciklizés ide jó edzés, a jutalom pedig a kilátás a csúcsról.",
             "ro": "Plimbarea cu bicicleta până aici este un exercițiu bun, iar priveliștea din vârf este recompensa.",
-            "en": "The bike ride up here is good exercise and the view from the top is the reward."
+            "en": "The bike ride up here is good exercise and the view from the top is the reward.",
+            "sv": "Cykelturen upp hit är bra träning och utsikten från toppen är belöningen."
           }
         },
         {
@@ -755,7 +818,8 @@
             "de": "Bryggargården",
             "hu": "Bryggargården",
             "ro": "Bryggargården",
-            "en": "Bryggargården"
+            "en": "Bryggargården",
+            "sv": "Bryggargården"
           },
           "coords": [
             20.955,
@@ -770,7 +834,8 @@
             "de": "Der perfekte Ort, um sich nach einem langen Radtag mit einem Kaffee oder Bier zu erholen.",
             "hu": "Tökéletes hely a pihenésre egy kávéval vagy sörrel egy hosszú biciklizés után.",
             "ro": "Locul perfect pentru a vă reface cu o cafea sau o bere după o zi lungă de ciclism.",
-            "en": "The perfect spot to recover with a coffee or beer after a long day of cycling."
+            "en": "The perfect spot to recover with a coffee or beer after a long day of cycling.",
+            "sv": "Den perfekta platsen att återhämta sig med en kaffe eller öl efter en lång cykeldag."
           }
         }
       ],
@@ -778,7 +843,8 @@
         "de": "Starten Sie Ihre Radtour am modernen Sara Kulturhus und radeln Sie dann gemütlich durch den Stadsparken. Vormittags erkunden Sie das Skellefteå Museum, gefolgt von den historischen Stätten Landskyrkan und Bonnstan. Überqueren Sie zu Mittag die ikonische Lejonströmsbron. Am Nachmittag wartet eine sportliche Herausforderung: die Fahrt zum Vitberget, wo Sie eine atemberaubende Aussicht erwartet. Kehren Sie ins Stadtzentrum zurück und beenden Sie Ihren aktiven Tag im entspannten Ambiente des Bryggargården.",
         "hu": "Kezdje a kerékpártúrát a modern Sara Kulturhusnál, majd tekerjen kényelmesen a Stadsparkenen keresztül. Délelőtt fedezze fel a Skellefteå Múzeumot, majd a történelmi Landskyrkan és Bonnstan helyszíneit. Délben keljen át az ikonikus Lejonströmsbron hídon. Délután sportos kihívás vár: a túra a Vitbergetre, ahol lélegzetelállító kilátás fogadja. Térjen vissza a városközpontba, és zárja az aktív napot a Bryggargården pihentető hangulatában.",
         "ro": "Începeți turul cu bicicleta la modernul Centru Cultural Sara, apoi pedalați agale prin Stadsparken. Dimineața, explorați Muzeul Skellefteå, urmat de siturile istorice Landskyrkan și Bonnstan. La prânz, traversați emblematicul pod Lejonströmsbron. După-amiaza, vă așteaptă o provocare sportivă: urcarea pe Vitberget, unde vă așteaptă o priveliște uluitoare. Întoarceți-vă în centrul orașului și încheiați-vă ziua activă în ambianța relaxată de la Bryggargården.",
-        "en": "Start your bike tour at the modern Sara Kulturhus, then enjoy a leisurely ride through Stadsparken. In the morning, explore the Skellefteå Museum, followed by the historic sites of Landskyrkan and Bonnstan. At noon, cross the iconic Lejonströmsbron bridge. The afternoon brings a sporting challenge: the ride up to Vitberget for a breathtaking view. Return to the city center and end your active day in the relaxing atmosphere of Bryggargården."
+        "en": "Start your bike tour at the modern Sara Kulturhus, then enjoy a leisurely ride through Stadsparken. In the morning, explore the Skellefteå Museum, followed by the historic sites of Landskyrkan and Bonnstan. At noon, cross the iconic Lejonströmsbron bridge. The afternoon brings a sporting challenge: the ride up to Vitberget for a breathtaking view. Return to the city center and end your active day in the relaxing atmosphere of Bryggargården.",
+        "sv": "Börja din cykeltur vid moderna Sara Kulturhus och njut sedan av en lugn färd genom Stadsparken. På förmiddagen utforskar du Skellefteå Museum, följt av de historiska platserna Landskyrkan och Bonnstan. Vid middagstid korsar du den ikoniska Lejonströmsbron. På eftermiddagen väntar en sportig utmaning: cykelturen upp till Vitberget för en storslagen utsikt. Återvänd till stadskärnan och avsluta din aktiva dag i den avkopplande atmosfären på Bryggargården."
       },
       "gastro_picks": {
         "de": [
@@ -974,6 +1040,12 @@
           "Skellefteå has many good bike paths, make use of them.",
           "Bring a water bottle, especially for the ride to Vitberget.",
           "Always lock your bike securely when you park it."
+        ],
+        "sv": [
+          "Hyra en cykel från en av de lokala butikerna.",
+          "Skellefteå har många bra cykelvägar — använd dem.",
+          "Ta med en vattenflaska, särskilt för turen till Vitberget.",
+          "Lås alltid din cykel ordentligt när du parkerar den."
         ]
       },
       "variants": {
@@ -982,7 +1054,8 @@
             "de": "Regnerische Radtour durch Skellefteå, beginnend am Sara Kulturhus. Der Weg führt am Fluss entlang zum Museum und weiter zur Landskyrkan. Trotz Nässe ist die Fahrt nach Vitberget erfrischend, wobei der Wald Schutz bietet. Den Abschluss bildet eine entspannte Fahrt zum Bryggargården durch die gewaschene Stadtluft.",
             "hu": "Esős kerékpártúra Skellefteåban, a Sara Kulturhus-tól indulva. Az út a folyó mentén vezet a múzeumhoz és a Landskyrkanhoz. A nedvesség ellenére a Vitbergetre vezető szakasz frissítő, az erdő pedig némi védelmet nyújt. A napot a tiszta városi levegőn tett tekerés zárja a Bryggargården felé.",
             "ro": "Tur cu bicicleta pe ploaie prin Skellefteå, începând de la Sara Kulturhus. Drumul duce de-a lungul râului spre Muzeu și Landskyrkan. În ciuda umezelii, urcarea spre Vitberget este revigorantă, pădurea oferind adăpost. Finalul este o plimbare relaxată spre Bryggargården prin aerul curat al orașului.",
-            "en": "A rainy bike tour through Skellefteå, starting at Sara Kulturhus. The path follows the river to the Museum and Landskyrkan. Despite the wetness, the ride to Vitberget is refreshing, with the forest providing some cover. The day ends with a relaxed ride to Bryggargården through the crisp, rain-washed air."
+            "en": "A rainy bike tour through Skellefteå, starting at Sara Kulturhus. The path follows the river to the Museum and Landskyrkan. Despite the wetness, the ride to Vitberget is refreshing, with the forest providing some cover. The day ends with a relaxed ride to Bryggargården through the crisp, rain-washed air.",
+            "sv": "En regnig cykeltur genom Skellefteå, med start vid Sara Kulturhus. Stigen följer älven till museet och Landskyrkan. Trots blötan är turen till Vitberget uppfriskande, med skogen som ger visst skydd. Dagen avslutas med en lugn färd till Bryggargården genom den krispiga, regntvättade luften."
           },
           "stops": [
             {
@@ -991,7 +1064,8 @@
                 "de": "Parken Sie Ihr Fahrrad unter dem Dachvorsprung am Haupteingang.",
                 "hu": "Parkolja le kerékpárját a főbejáratnál található tető alatt.",
                 "ro": "Parcați bicicleta sub streașina de la intrarea principală.",
-                "en": "Park your bike under the overhang at the main entrance to keep it dry."
+                "en": "Park your bike under the overhang at the main entrance to keep it dry.",
+                "sv": "Parkera din cykel under taket vid huvudentrén för att hålla den torr."
               }
             },
             {
@@ -1000,7 +1074,8 @@
                 "de": "Die asphaltierten Radwege sind auch bei Regen gut befahrbar.",
                 "hu": "Az aszfaltozott kerékpárutak esőben is jól tekerhetőek a parkban.",
                 "ro": "Pistele de biciclete asfaltate sunt bune de parcurs chiar și pe ploaie.",
-                "en": "The paved bike paths are easy to ride even when it's raining."
+                "en": "The paved bike paths are easy to ride even when it's raining.",
+                "sv": "De asfalterade cykelvägarna är lätta att cykla på även när det regnar."
               }
             },
             {
@@ -1009,7 +1084,8 @@
                 "de": "Nutzen Sie den Museumsbesuch, um Ihre Regenbekleidung kurz zu lüften.",
                 "hu": "Használja ki a múzeumlátogatást az esőruházat átszellőztetésére.",
                 "ro": "Folosiți vizita la muzeu pentru a vă aerisi puțin hainele de ploaie.",
-                "en": "Use the museum visit as an opportunity to air out your rain gear."
+                "en": "Use the museum visit as an opportunity to air out your rain gear.",
+                "sv": "Använd museibesöket som en möjlighet att lufta ditt regnkläder."
               }
             },
             {
@@ -1018,7 +1094,8 @@
                 "de": "Die alten Bäume hier bieten Schutz beim Abstellen der Räder.",
                 "hu": "Az öreg fák védelmet nyújtanak a kerékpárok lezárásakor.",
                 "ro": "Copacii bătrâni de aici oferă protecție la parcarea bicicletelor.",
-                "en": "The old trees here provide some shelter while locking up your bikes."
+                "en": "The old trees here provide some shelter while locking up your bikes.",
+                "sv": "De gamla träden här ger visst skydd medan du låser fast din cykel."
               }
             },
             {
@@ -1027,7 +1104,8 @@
                 "de": "Fahren Sie langsam auf dem Kopfsteinpflaster; Rutschgefahr!",
                 "hu": "Hajtson lassan a macskaköveken; csúszásveszély a házak között!",
                 "ro": "Mergeți încet pe piatra cubică; pericol de alunecare!",
-                "en": "Ride slowly on the cobblestones; they can be slippery when wet."
+                "en": "Ride slowly on the cobblestones; they can be slippery when wet.",
+                "sv": "Cykla sakta på kullerstensgatorna; de kan vara hala när de är våta."
               }
             },
             {
@@ -1036,7 +1114,8 @@
                 "de": "Achten Sie auf Seitenwind auf der schmalen Holzbrücke.",
                 "hu": "Vigyázzon az oldalszélre a keskeny fahídon tekerés közben.",
                 "ro": "Atenție la vântul lateral pe podul îngust de lemn.",
-                "en": "Be mindful of crosswinds while cycling across the narrow wooden bridge."
+                "en": "Be mindful of crosswinds while cycling across the narrow wooden bridge.",
+                "sv": "Var uppmärksam på sidvindar när du cyklar över den smala träbron."
               }
             },
             {
@@ -1045,7 +1124,8 @@
                 "de": "Die Waldwege können schlammig sein; breite Reifen sind von Vorteil.",
                 "hu": "Az erdei utak sárosak lehetnek; a szélesebb gumi előnyösebb ilyenkor.",
                 "ro": "Potecile din pădure pot fi noroioase; anvelopele late sunt un avantaj.",
-                "en": "Forest trails can get muddy; wider tires are an advantage here."
+                "en": "Forest trails can get muddy; wider tires are an advantage here.",
+                "sv": "Skogsstigarna kan bli leriga; bredare däck är en fördel här."
               }
             },
             {
@@ -1054,7 +1134,8 @@
                 "de": "Ein warmer Platz für durchnässte Radfahrer am Ende der Tour.",
                 "hu": "Meleg hely az átázott bicikliseknek a túra végén.",
                 "ro": "Un loc cald pentru bicicliștii udați la finalul turului.",
-                "en": "A warm spot for soaked cyclists at the end of the tour."
+                "en": "A warm spot for soaked cyclists at the end of the tour.",
+                "sv": "En varm plats för genomblöta cyklister i slutet av turen."
               }
             }
           ],
@@ -1082,6 +1163,12 @@
               "Wear a waterproof but breathable cycling jacket.",
               "Avoid sudden braking on wet leaves or wooden surfaces.",
               "A saddle cover will keep your seat dry during stops."
+            ],
+            "sv": [
+              "Skärmar (skärmben) är ett måste när du cyklar i regn här.",
+              "Bär en vattentät men ventilerande cykeljacka.",
+              "Undvik hårda inbromsningar på våta löv eller träytor.",
+              "Ett sadelöverdrag håller din sits torr under pauser."
             ]
           }
         },
@@ -1090,7 +1177,8 @@
             "de": "Winter-Biking in Skellefteå erfordert Mut und Ausrüstung. Vom Sara Kulturhus geht es durch den glitzernden Park zum Museum. Die Fahrt zur Landskyrkan und Bonnstan im tiefen Weiß ist anstrengend, aber wunderschön. Der Aufstieg zum Vitberget belohnt mit einem Blick über die verschneite Stadt, bevor es zurück zum warmen Bryggargården geht.",
             "hu": "A téli kerékpározás Skellefteåban bátorságot és felszerelést igényel. A Sara Kulturhus-tól indulva a csillogó parkon át jutunk a múzeumhoz. A tekerés a Landskyrkan és Bonnstan fehérségében megterhelő, de gyönyörű. A Vitbergetre való felkapaszkodás jutalma a havas város látványa, mielőtt visszatérnénk a meleg Bryggargårdenbe.",
             "ro": "Ciclismul de iarnă în Skellefteå necesită curaj și echipament. De la Sara Kulturhus trecem prin parcul sclipitor spre Muzeu. Drumul spre Landskyrkan și Bonnstan în albul profund este solicitant, dar superb. Urcarea pe Vitberget recompensează cu o priveliște asupra orașului înzăpezit, înainte de a reveni la caldul Bryggargården.",
-            "en": "Winter biking in Skellefteå requires grit and the right gear. From Sara Kulturhus, ride through the glittering park to the Museum. The journey to Landskyrkan and Bonnstan in the deep white is strenuous but beautiful. The climb to Vitberget rewards you with a view over the snowy city before heading back to the warm Bryggargården."
+            "en": "Winter biking in Skellefteå requires grit and the right gear. From Sara Kulturhus, ride through the glittering park to the Museum. The journey to Landskyrkan and Bonnstan in the deep white is strenuous but beautiful. The climb to Vitberget rewards you with a view over the snowy city before heading back to the warm Bryggargården.",
+            "sv": "Vintercykling i Skellefteå kräver envishet och rätt utrustning. Från Sara Kulturhus cyklar du genom den gnistrande parken till Museet. Sträckan till Landskyrkan och Bonnstan i det djupa vita är ansträngande men vacker. Uppförsbacken till Vitberget belönar dig med utsikt över den snötäckta staden innan du vänder tillbaka till det varma Bryggargården."
           },
           "stops": [
             {
@@ -1099,7 +1187,8 @@
                 "de": "Parken Sie Ihr Rad nach Möglichkeit im beheizten Fahrradparkhaus.",
                 "hu": "Ha teheti, parkoljon a fűtött kerékpártárolóban az épületnél.",
                 "ro": "Parcați bicicleta în parcarea încălzită pentru biciclete, dacă este posibil.",
-                "en": "Park your bike in the heated bicycle garage if available."
+                "en": "Park your bike in the heated bicycle garage if available.",
+                "sv": "Parkera cykeln i det uppvärmda cykelgaraget om det finns."
               }
             },
             {
@@ -1108,7 +1197,8 @@
                 "de": "Die Wege werden geräumt, können aber eine feine Eisschicht haben.",
                 "hu": "Az utakat takarítják, de vékony jégréteg maradhat rajtuk.",
                 "ro": "Potecile sunt curățate, dar pot avea un strat fin de gheață.",
-                "en": "Paths are cleared, but a thin layer of ice may still remain."
+                "en": "Paths are cleared, but a thin layer of ice may still remain.",
+                "sv": "Stigarna är plogade, men ett tunt islager kan fortfarande finnas kvar."
               }
             },
             {
@@ -1117,7 +1207,8 @@
                 "de": "Lassen Sie Ihre Akkus (E-Bike) nicht zu lange in der Kälte draußen.",
                 "hu": "Ne hagyja az e-bike akkumulátorát túl sokáig kint a fagyban.",
                 "ro": "Nu lăsați bateriile de e-bike prea mult timp afară în frig.",
-                "en": "Don't leave your e-bike battery out in the freezing cold for too long."
+                "en": "Don't leave your e-bike battery out in the freezing cold for too long.",
+                "sv": "Lämna inte ditt elcykelbatteri ute i kylan för länge."
               }
             },
             {
@@ -1126,7 +1217,8 @@
                 "de": "Vorsicht beim Absteigen; der Boden um die Kirche kann glatt sein.",
                 "hu": "Vigyázzon a leszálláskor; a templom körüli talaj jeges lehet.",
                 "ro": "Atenție la descălecare; solul din jurul bisericii poate fi alunecos.",
-                "en": "Be careful when dismounting; the ground around the church can be icy."
+                "en": "Be careful when dismounting; the ground around the church can be icy.",
+                "sv": "Var försiktig när du kliver av; marken runt kyrkan kan vara isig."
               }
             },
             {
@@ -1135,7 +1227,8 @@
                 "de": "Fahren ist hier im tiefen Schnee oft nicht möglich; schieben Sie kurz.",
                 "hu": "Mély hóban itt gyakran nem lehet tekerni; tolja a gépet a házak közt.",
                 "ro": "Ciclismul este adesea imposibil în zăpada mare aici; împingeți bicicleta.",
-                "en": "Riding is often impossible in deep snow here; push your bike for a bit."
+                "en": "Riding is often impossible in deep snow here; push your bike for a bit.",
+                "sv": "Att cykla är ofta omöjligt i djup snö här; led cykeln en bit."
               }
             },
             {
@@ -1144,7 +1237,8 @@
                 "de": "Die Holzplanken können unter dem Schnee tückisch glatt sein.",
                 "hu": "A fapadlók a hó alatt alattomosan csúszósak lehetnek a hídon.",
                 "ro": "Scândurile de lemn pot fi înșelător de alunecoase sub zăpadă.",
-                "en": "The wooden planks can be treacherously slippery under the snow."
+                "en": "The wooden planks can be treacherously slippery under the snow.",
+                "sv": "Träplankorna kan vara förrädiskt hala under snön."
               }
             },
             {
@@ -1153,7 +1247,8 @@
                 "de": "Studded Tires (Spikereifen) sind für diesen Anstieg im Winter Pflicht.",
                 "hu": "A szöges gumi kötelező ehhez az emelkedőhöz téli időben.",
                 "ro": "Anvelopele cu ținte sunt obligatorii pentru această urcare iarna.",
-                "en": "Studded tires are mandatory for this winter climb."
+                "en": "Studded tires are mandatory for this winter climb.",
+                "sv": "Dubbdäck är obligatoriska för denna vinteruppförsbacke."
               }
             },
             {
@@ -1162,7 +1257,8 @@
                 "de": "Ein wohlverdienter Stopp nach einer harten Wintertour.",
                 "hu": "Megérdemelt pihenő egy nehéz téli túra után.",
                 "ro": "O oprire binemeritată după un tur greu de iarnă.",
-                "en": "A well-deserved stop after a tough winter ride."
+                "en": "A well-deserved stop after a tough winter ride.",
+                "sv": "Ett välförtjänt stopp efter en tuff vintertur."
               }
             }
           ],
@@ -1190,6 +1286,12 @@
               "Keep your chain well-oiled to protect against road salt and moisture.",
               "Wear windproof gloves and a thermal cap under your helmet.",
               "E-bike battery range drops significantly in sub-zero temperatures."
+            ],
+            "sv": [
+              "Vinterdäck med metallspikar är standard för cykling här.",
+              "Håll kedjan väl oljad för att skydda mot vägsalt och fukt.",
+              "Bär vindtäta handskar och en termomössa under hjälmen.",
+              "Räckvidden för elcykelbatterier sjunker avsevärt i minusgrader."
             ]
           }
         }
@@ -1208,7 +1310,8 @@
             "de": "Vitberget",
             "hu": "Vitberget",
             "ro": "Vitberget",
-            "en": "Vitberget"
+            "en": "Vitberget",
+            "sv": "Vitberget"
           },
           "coords": [
             20.995,
@@ -1223,7 +1326,8 @@
             "de": "Beginnen Sie mit einer Panoramaaussicht über die Region. Es gibt gute Parkmöglichkeiten.",
             "hu": "Kezdje a napot a régióra nyíló panorámával. Jó parkolási lehetőségek vannak.",
             "ro": "Începeți cu o vedere panoramică asupra regiunii. Există parcare bună.",
-            "en": "Start with a panoramic view over the region. There is good parking available."
+            "en": "Start with a panoramic view over the region. There is good parking available.",
+            "sv": "Börja med en panoramavy över regionen. Det finns bra parkeringsmöjligheter."
           }
         },
         {
@@ -1231,7 +1335,8 @@
             "de": "Bonnstan Cluster: Parkplatz",
             "hu": "Bonnstan Klaszter: Parkoló",
             "ro": "Cluster Bonnstan: Parcare",
-            "en": "Bonnstan Cluster: Parking"
+            "en": "Bonnstan Cluster: Parking",
+            "sv": "Bonnstan-klustret: Parkering"
           },
           "coords": [
             20.938,
@@ -1247,7 +1352,8 @@
             "de": "Parken Sie hier, um den historischen Teil der Stadt zu Fuß zu erkunden.",
             "hu": "Parkoljon itt, hogy gyalog fedezze fel a város történelmi részét.",
             "ro": "Parcați aici pentru a explora pe jos partea istorică a orașului.",
-            "en": "Park here to explore the historic part of town on foot."
+            "en": "Park here to explore the historic part of town on foot.",
+            "sv": "Parkera här för att utforska den historiska delen av staden till fots."
           }
         },
         {
@@ -1255,7 +1361,8 @@
             "de": "Bonnstan",
             "hu": "Bonnstan (Templomváros)",
             "ro": "Bonnstan (Orașul Bisericesc)",
-            "en": "Bonnstan (Church Town)"
+            "en": "Bonnstan (Church Town)",
+            "sv": "Bonnstan (Kyrkbyn)"
           },
           "coords": [
             20.937,
@@ -1271,7 +1378,8 @@
             "de": "Der erste Halt in Ihrem historischen Rundgang.",
             "hu": "Az első megálló a történelmi sétán.",
             "ro": "Prima oprire în turul dumneavoastră istoric pe jos.",
-            "en": "The first stop on your historic walking tour."
+            "en": "The first stop on your historic walking tour.",
+            "sv": "Första stoppet på din historiska vandringstur."
           }
         },
         {
@@ -1279,7 +1387,8 @@
             "de": "Landskyrkan",
             "hu": "Landskyrkan",
             "ro": "Biserica Landskyrkan",
-            "en": "Landskyrkan"
+            "en": "Landskyrkan",
+            "sv": "Landskyrkan"
           },
           "coords": [
             20.939,
@@ -1295,7 +1404,8 @@
             "de": "Nur einen kurzen Spaziergang von Bonnstan entfernt.",
             "hu": "Csak egy rövid sétára Bonnstantól.",
             "ro": "La doar o scurtă plimbare de Bonnstan.",
-            "en": "Just a short walk from Bonnstan."
+            "en": "Just a short walk from Bonnstan.",
+            "sv": "Bara en kort promenad från Bonnstan."
           }
         },
         {
@@ -1303,7 +1413,8 @@
             "de": "Lejonströmsbron",
             "hu": "Lejonströmsbron híd",
             "ro": "Podul Lejonströmsbron",
-            "en": "Lejonströmsbron Bridge"
+            "en": "Lejonströmsbron Bridge",
+            "sv": "Lejonströmsbron"
           },
           "coords": [
             20.9355,
@@ -1319,7 +1430,8 @@
             "de": "Der perfekte Abschluss für Ihren Spaziergang durch das alte Skellefteå.",
             "hu": "Tökéletes befejezése a régi Skellefteå-ban tett sétának.",
             "ro": "Finalul perfect pentru plimbarea prin vechiul Skellefteå.",
-            "en": "The perfect end to your walk through old Skellefteå."
+            "en": "The perfect end to your walk through old Skellefteå.",
+            "sv": "Det perfekta slutet på din promenad genom gamla Skellefteå."
           }
         },
         {
@@ -1327,7 +1439,8 @@
             "de": "Stadtzentrum Cluster: Parkhaus",
             "hu": "Belváros Klaszter: Parkolóház",
             "ro": "Cluster Centru: Parcare supraetajată",
-            "en": "City Center Cluster: Parking Garage"
+            "en": "City Center Cluster: Parking Garage",
+            "sv": "Stadscentrum-klustret: Parkeringsgarage"
           },
           "coords": [
             20.951,
@@ -1343,7 +1456,8 @@
             "de": "Parken Sie zentral, um die modernen Sehenswürdigkeiten und Geschäfte zu erreichen.",
             "hu": "Parkoljon központilag, hogy elérje a modern látnivalókat és üzleteket.",
             "ro": "Parcați central pentru a ajunge la atracțiile și magazinele moderne.",
-            "en": "Park centrally to access the modern sights and shops."
+            "en": "Park centrally to access the modern sights and shops.",
+            "sv": "Parkera centralt för att nå stadens moderna sevärdheter och butiker."
           }
         },
         {
@@ -1351,7 +1465,8 @@
             "de": "Sara Kulturhus & Mittagessen",
             "hu": "Sara Kulturhus & Ebéd",
             "ro": "Centrul Cultural Sara & Prânz",
-            "en": "Sara Kulturhus & Lunch"
+            "en": "Sara Kulturhus & Lunch",
+            "sv": "Sara Kulturhus & Lunch"
           },
           "coords": [
             20.952,
@@ -1367,7 +1482,8 @@
             "de": "Kombinieren Sie Kultur mit einer Mahlzeit in einem der Restaurants im Gebäude.",
             "hu": "Kombinálja a kultúrát egy ebéddel az épület egyik éttermében.",
             "ro": "Combinați cultura cu o masă la unul dintre restaurantele din clădire.",
-            "en": "Combine culture with a meal at one of the restaurants inside the building."
+            "en": "Combine culture with a meal at one of the restaurants inside the building.",
+            "sv": "Kombinera kultur med en måltid på någon av restaurangerna i byggnaden."
           }
         },
         {
@@ -1375,7 +1491,8 @@
             "de": "Stadsparken",
             "hu": "Stadsparken",
             "ro": "Stadsparken",
-            "en": "Stadsparken"
+            "en": "Stadsparken",
+            "sv": "Stadsparken"
           },
           "coords": [
             20.9545,
@@ -1391,7 +1508,8 @@
             "de": "Ein entspannter Spaziergang nach dem Mittagessen, bevor Sie zum Auto zurückkehren.",
             "hu": "Egy pihentető séta ebéd után, mielőtt visszatérne az autóhoz.",
             "ro": "O plimbare relaxantă după prânz înainte de a vă întoarce la mașină.",
-            "en": "A relaxing post-lunch walk before heading back to the car."
+            "en": "A relaxing post-lunch walk before heading back to the car.",
+            "sv": "En avkopplande promenad efter lunchen innan du återvänder till bilen."
           }
         }
       ],
@@ -1399,7 +1517,8 @@
         "de": "Beginnen Sie Ihren Tag mit dem Auto auf dem Vitberget, um eine atemberaubende Aussicht zu genießen. Fahren Sie dann zum historischen Herzen der Stadt und parken Sie in der Nähe von Bonnstan. Erkunden Sie das alte Kirchdorf, die Landskyrkan und die Lejonströmsbron zu Fuß. Am Nachmittag fahren Sie ins moderne Stadtzentrum. Parken Sie dort und widmen Sie sich dem beeindruckenden Sara Kulturhus, wo Sie auch zu Mittag essen können. Schließen Sie den Tag mit einem entspannten Spaziergang durch den Stadsparken ab, bevor Sie zurück zu Ihrem Auto gehen.",
         "hu": "Kezdje a napot autóval a Vitbergeten, hogy élvezze a lélegzetelállító kilátást. Ezután hajtson a város történelmi szívébe, és parkoljon Bonnstan közelében. Fedezze fel gyalog a régi templomvárost, a Landskyrkant és a Lejonströmsbron hidat. Délután hajtson be a modern városközpontba. Parkoljon le, és szentelje idejét a lenyűgöző Sara Kulturhusnak, ahol ebédelhet is. Zárja a napot egy pihentető sétával a Stadsparkenben, mielőtt visszatérne az autójához.",
         "ro": "Începeți-vă ziua cu mașina pe Vitberget pentru o priveliște uluitoare. Apoi, conduceți spre inima istorică a orașului și parcați lângă Bonnstan. Explorați vechiul oraș bisericesc, Landskyrkan și podul Lejonströmsbron pe jos. După-amiaza, conduceți spre centrul modern al orașului. Parcați acolo și dedicați-vă timp impresionantului Centru Cultural Sara, unde puteți lua și prânzul. Încheiați ziua cu o plimbare relaxantă prin Stadsparken înainte de a vă întoarce la mașină.",
-        "en": "Start your day by car at Vitberget for a breathtaking view. Then, drive to the historic heart of the city and park near Bonnstan. Explore the old church town, Landskyrkan, and the Lejonströmsbron bridge on foot. In the afternoon, drive to the modern city center. Park there and dedicate your time to the impressive Sara Kulturhus, where you can also have lunch. End the day with a relaxing walk through Stadsparken before returning to your car."
+        "en": "Start your day by car at Vitberget for a breathtaking view. Then, drive to the historic heart of the city and park near Bonnstan. Explore the old church town, Landskyrkan, and the Lejonströmsbron bridge on foot. In the afternoon, drive to the modern city center. Park there and dedicate your time to the impressive Sara Kulturhus, where you can also have lunch. End the day with a relaxing walk through Stadsparken before returning to your car.",
+        "sv": "Starta dagen med bil vid Vitberget för en hisnande utsikt. Kör sedan till stadens historiska hjärta och parkera nära Bonnstan. Utforska kyrkbyn, Landskyrkan och Lejonströmsbron till fots. På eftermiddagen kör du till det moderna stadskärnan. Parkera där och ägna tid åt imponerande Sara Kulturhus, där du även kan äta lunch. Avsluta dagen med en avkopplande promenad genom Stadsparken innan du återvänder till bilen."
       },
       "gastro_picks": {
         "de": [
@@ -1595,6 +1714,12 @@
           "The cluster philosophy saves time and stress from looking for parking.",
           "A car allows you to explore natural areas slightly outside the city as well.",
           "Plan for enough time for traffic between the clusters."
+        ],
+        "sv": [
+          "Var medveten om parkeringsavgifter i centrum.",
+          "Klustertänkandet sparar tid och stress från att leta efter parkering.",
+          "En bil låter dig även utforska naturområden något utanför staden.",
+          "Planera tillräckligt med tid för trafiken mellan klustren."
         ]
       },
       "variants": {
@@ -1603,7 +1728,8 @@
             "de": "Bequeme Autotour bei Regen. Wir starten am Vitberget für einen schnellen Blick über die Stadt, bevor wir in Bonnstan parken. Den Nachmittag verbringen wir im Stadtzentrum, wo das Parkhaus am Sara Kulturhus direkten, trockenen Zugang zum kulturellen Herz der Stadt bietet. Den Tag schließen wir entspannt am Bryggargården ab, ohne nass zu werden.",
             "hu": "Kényelmes autós túra esőben. A Vitbergetnél kezdünk egy gyors városi panorámával, majd Bonnstannál parkolunk. A délutánt a városközpontban töltjük, ahol a Sara Kulturhus parkolóháza közvetlen, száraz hozzáférést biztosít a város kulturális szívéhez. A napot a Bryggargårdennél zárjuk, anélkül, hogy bőrig áznánk.",
             "ro": "Tur auto confortabil pe ploaie. Începem la Vitberget pentru o scurtă privire asupra orașului înainte de a parca la Bonnstan. După-amiaza o petrecem în centrul orașului, unde parcarea de la Sara Kulturhus oferă acces direct și uscat la inima culturală. Încheiem ziua relaxați la Bryggargården, fără a ne uda.",
-            "en": "A comfortable car tour in the rain. We start at Vitberget for a quick city overlook before parking at Bonnstan. Spend the afternoon in the city center, where the Sara Kulturhus parking garage provides direct, dry access to the cultural heart of the city. We wrap up the day at Bryggargården, staying perfectly dry."
+            "en": "A comfortable car tour in the rain. We start at Vitberget for a quick city overlook before parking at Bonnstan. Spend the afternoon in the city center, where the Sara Kulturhus parking garage provides direct, dry access to the cultural heart of the city. We wrap up the day at Bryggargården, staying perfectly dry.",
+            "sv": "En bekväm biltur i regn. Vi börjar vid Vitberget för en snabb stadsöverblick innan vi parkerar vid Bonnstan. Tillbringa eftermiddagen i stadens centrum, där Sara Kulturhus parkeringsgarage ger direkt, torr åtkomst till stadens kulturella mitt. Vi avslutar dagen vid Bryggargården och håller oss helt torra."
           },
           "stops": [
             {
@@ -1612,7 +1738,8 @@
                 "de": "Genießen Sie die Aussicht direkt aus dem Auto, wenn es zu stark regnet.",
                 "hu": "Élvezze a kilátást közvetlenül az autóból, ha túl erősen esne az eső.",
                 "ro": "Bucurați-vă de priveliște direct din mașină dacă plouă prea tare.",
-                "en": "Enjoy the view directly from your car if the rain is too heavy."
+                "en": "Enjoy the view directly from your car if the rain is too heavy.",
+                "sv": "Njut av utsikten direkt från bilen om regnet blir för kraftigt."
               }
             },
             {
@@ -1621,7 +1748,8 @@
                 "de": "Der Parkplatz ist nah an den Häusern, ideal für kurze Wege im Regen.",
                 "hu": "A parkoló közel van a házakhoz, ideális a rövid esős sétákhoz.",
                 "ro": "Parcarea este aproape de case, ideală pentru distanțe scurte pe ploaie.",
-                "en": "The parking lot is close to the houses, ideal for short walks in the rain."
+                "en": "The parking lot is close to the houses, ideal for short walks in the rain.",
+                "sv": "Parkeringen ligger nära husen, idealisk för korta promenader i regnet."
               }
             },
             {
@@ -1630,7 +1758,8 @@
                 "de": "Ein schneller Rundgang zwischen den historischen Hütten lohnt sich immer.",
                 "hu": "Egy gyors kör a történelmi kunyhók között esőben is megéri.",
                 "ro": "O scurtă plimbare printre colibele istorice merită întotdeauna.",
-                "en": "A quick loop between the historical huts is worth it even in the rain."
+                "en": "A quick loop between the historical huts is worth it even in the rain.",
+                "sv": "En snabb runda mellan de historiska stugorna är värd det även i regn."
               }
             },
             {
@@ -1639,7 +1768,8 @@
                 "de": "Ausreichend Parkplätze direkt vor der Kirche vorhanden.",
                 "hu": "Közvetlenül a templom előtt bőséges parkolóhely áll rendelkezésre.",
                 "ro": "Locuri de parcare suficiente direct în fața bisericii.",
-                "en": "Ample parking is available directly in front of the church."
+                "en": "Ample parking is available directly in front of the church.",
+                "sv": "Gott om parkeringsplatser finns direkt framför kyrkan."
               }
             },
             {
@@ -1648,7 +1778,8 @@
                 "de": "Sie können mit dem Auto über die Brücke fahren und das Holz knarren hören.",
                 "hu": "Autóval is áthajthat a hídon, hallgatva a fa recsegését az esőben.",
                 "ro": "Puteți traversa podul cu mașina și asculta scârțâitul lemnului.",
-                "en": "You can drive across the bridge and hear the wooden planks creak."
+                "en": "You can drive across the bridge and hear the wooden planks creak.",
+                "sv": "Du kan köra över bron och höra träplankorna knarra."
               }
             },
             {
@@ -1657,7 +1788,8 @@
                 "de": "Nutzen Sie das Parkhaus 'CK' für einen komplett trockenen Stadtbummel.",
                 "hu": "Használja a 'CK' parkolóházat a teljesen száraz városi sétához.",
                 "ro": "Folosiți parcarea 'CK' pentru o plimbare complet uscată prin oraș.",
-                "en": "Use the 'CK' parking garage for a completely dry city experience."
+                "en": "Use the 'CK' parking garage for a completely dry city experience.",
+                "sv": "Använd parkeringsgaraget 'CK' för en helt torr stadsupplevelse."
               }
             },
             {
@@ -1666,7 +1798,8 @@
                 "de": "Vom Parkhaus gelangen Sie mit dem Aufzug direkt ins Kulturzentrum.",
                 "hu": "A parkolóból lifttel közvetlenül a kulturális központba juthat.",
                 "ro": "Din parcare puteți ajunge cu liftul direct în centrul cultural.",
-                "en": "From the garage, take the elevator directly into the cultural center."
+                "en": "From the garage, take the elevator directly into the cultural center.",
+                "sv": "Från garaget tar du hissen direkt in i kulturcentret."
               }
             },
             {
@@ -1675,7 +1808,8 @@
                 "de": "Parken Sie an der Nygatan für den kürzesten Weg zum Park.",
                 "hu": "Parkoljon a Nygatan utcán a legrövidebb úthoz a park felé.",
                 "ro": "Parcați pe strada Nygatan pentru cel mai scurt drum spre parc.",
-                "en": "Park on Nygatan for the shortest walk to the park entrance."
+                "en": "Park on Nygatan for the shortest walk to the park entrance.",
+                "sv": "Parkera på Nygatan för kortast promenad till parkens entré."
               }
             }
           ],
@@ -1703,6 +1837,12 @@
               "Most parking spots can be paid for via app (Parkster).",
               "Multi-story parking garages are your best bet in bad weather.",
               "Running lights are mandatory in Sweden at all times of day."
+            ],
+            "sv": [
+              "Se upp för vattenplaning på E4 genom stan.",
+              "De flesta parkeringsplatser kan betalas via app (Parkster).",
+              "Flerplansgarage är ditt bästa val i dåligt väder.",
+              "Varningsljus är obligatoriskt i Sverige dygnet runt."
             ]
           }
         },
@@ -1711,7 +1851,8 @@
             "de": "Ein Wintermärchen per Auto. Wir starten am Vitberget, wo der Blick über die verschneite Stadt am schönsten ist. Die Fahrt durch das weiße Bonnstan und über die historische Holzbrücke ist ein Highlight. Im Zentrum parken wir warm und sicher, um das Sara Kulturhus zu besuchen. Der Tag endet am stimmungsvoll beleuchteten Bryggargården, bequem erreichbar trotz Schnee.",
             "hu": "Téli tündérmese autóval. A Vitbergetnél kezdünk, ahonnan a legszebb a havas város látványa. A fehérbe burkolózott Bonnstan és a történelmi fahíd meglátogatása igazi fénypont. A belvárosban meleg és biztonságos helyen parkolunk a Sara Kulturhus-hoz. A nap a hangulatosan kivilágított Bryggargårdennél zárul, amely hóban is kényelmesen elérhető.",
             "ro": "O poveste de iarnă cu mașina. Începem la Vitberget, de unde priveliștea asupra orașului înzăpezit este cea mai frumoasă. Drumul prin Bonnstan-ul alb și peste podul istoric de lemn este un punct culminant. În centru parcăm la căldură și siguranță pentru a vizita Sara Kulturhus. Ziua se încheie la Bryggargården, iluminat feeric și ușor accesibil în ciuda zăpezii.",
-            "en": "A winter fairytale by car. We start at Vitberget, where the view over the snowy city is at its best. Driving through white Bonnstan and across the historic wooden bridge is a highlight. In the center, we park warmly and safely to visit Sara Kulturhus. The day ends at the atmospherically lit Bryggargården, easily accessible despite the snow."
+            "en": "A winter fairytale by car. We start at Vitberget, where the view over the snowy city is at its best. Driving through white Bonnstan and across the historic wooden bridge is a highlight. In the center, we park warmly and safely to visit Sara Kulturhus. The day ends at the atmospherically lit Bryggargården, easily accessible despite the snow.",
+            "sv": "En vinterberättelse med bil. Vi börjar vid Vitberget, där utsikten över den snötäckta staden är som bäst. Att köra genom vita Bonnstan och över den historiska träbron är ett höjdpunkt. I centrum parkerar vi varmt och säkert för att besöka Sara Kulturhus. Dagen avslutas vid det stämningsfullt belysta Bryggargården, lättillgängligt trots snön."
           },
           "stops": [
             {
@@ -1720,7 +1861,8 @@
                 "de": "Die Auffahrt wird gut geräumt, Winterreifen sind dennoch ein Muss.",
                 "hu": "Az utat jól takarítják, de a téli gumi továbbra is elengedhetetlen.",
                 "ro": "Urcarea este bine curățată, dar anvelopele de iarnă sunt obligatorii.",
-                "en": "The access road is well-plowed, but winter tires are still a must."
+                "en": "The access road is well-plowed, but winter tires are still a must.",
+                "sv": "Infartsvägen är välplogad, men vinterdäck är fortfarande ett måste."
               }
             },
             {
@@ -1729,7 +1871,8 @@
                 "de": "Achten Sie auf Schneehaufen, die Parkplätze verkleinern können.",
                 "hu": "Vigyázzon a hóbuckákra, amik leszűkíthetik a parkolóhelyeket.",
                 "ro": "Atenție la mormanele de zăpadă care pot micșora locurile de parcare.",
-                "en": "Watch out for snow banks that might reduce the size of parking spots."
+                "en": "Watch out for snow banks that might reduce the size of parking spots.",
+                "sv": "Se upp för snövallar som kan minska storleken på parkeringsplatserna."
               }
             },
             {
@@ -1738,7 +1881,8 @@
                 "de": "Kurze Wege zwischen den verschneiten Häusern sind ideal bei Kälte.",
                 "hu": "A havas házak közti rövid séták ideálisak a nagy hidegben.",
                 "ro": "Distanțele scurte între casele înzăpezite sunt ideale pe ger.",
-                "en": "Short walks between the snowy houses are ideal in freezing temperatures."
+                "en": "Short walks between the snowy houses are ideal in freezing temperatures.",
+                "sv": "Korta promenader mellan de snötäckta husen är idealiska i frostigt väder."
               }
             },
             {
@@ -1747,7 +1891,8 @@
                 "de": "Der Parkplatz kann nach Schneefall etwas rutschig sein.",
                 "hu": "A parkoló havazás után kissé csúszós lehet a templomnál.",
                 "ro": "Parcarea poate fi puțin alunecoasă după ninsoare.",
-                "en": "The parking lot can be a bit slippery after fresh snowfall."
+                "en": "The parking lot can be a bit slippery after fresh snowfall.",
+                "sv": "Parkeringen kan vara lite hal efter nysnöfall."
               }
             },
             {
@@ -1756,7 +1901,8 @@
                 "de": "Genießen Sie die Überfahrt über die älteste Holzbrücke im Wintergewand.",
                 "hu": "Élvezze az áthajtást a legrégebbi fahídon téli köntösben.",
                 "ro": "Bucurați-vă de traversarea celui mai vechi pod de lemn în haine de iarnă.",
-                "en": "Enjoy crossing the oldest wooden bridge in its winter attire."
+                "en": "Enjoy crossing the oldest wooden bridge in its winter attire.",
+                "sv": "Njut av att korsa den äldsta träbron i dess vinterskrud."
               }
             },
             {
@@ -1765,7 +1911,8 @@
                 "de": "Warme Parkhäuser verhindern das Einfrieren der Türschlösser.",
                 "hu": "A meleg parkolóházak megakadályozzák az ajtózárak befagyását.",
                 "ro": "Parcările încălzite previn înghețarea încuietorilor ușilor.",
-                "en": "Warm parking garages prevent your car locks from freezing up."
+                "en": "Warm parking garages prevent your car locks from freezing up.",
+                "sv": "Varma parkeringsgarage förhindrar att bilens lås fryser fast."
               }
             },
             {
@@ -1774,7 +1921,8 @@
                 "de": "Direkter Zugang vom Auto zur Wärme ohne Jacke möglich.",
                 "hu": "Közvetlen hozzáférés az autótól a melegbe, akár kabát nélkül is.",
                 "ro": "Acces direct de la mașină la căldură, posibil chiar și fără jachetă.",
-                "en": "Direct access from the car to the warmth, possible even without a coat."
+                "en": "Direct access from the car to the warmth, possible even without a coat.",
+                "sv": "Direkt tillgång från bilen till värmen, möjligt även utan jacka."
               }
             },
             {
@@ -1783,7 +1931,8 @@
                 "de": "Nutzen Sie den Parkplatz nah am Spielplatz für einen kurzen Fotostopp.",
                 "hu": "Használja a játszótér közeli parkolót egy gyors fotómegállóhoz.",
                 "ro": "Folosiți parcarea de lângă locul de joacă pentru o scurtă oprire foto.",
-                "en": "Use the parking lot near the playground for a quick photo stop."
+                "en": "Use the parking lot near the playground for a quick photo stop.",
+                "sv": "Använd parkeringsplatsen vid lekplatsen för ett snabbt fotostopp."
               }
             }
           ],
@@ -1811,6 +1960,12 @@
               "Always carry a snow shovel and an ice scraper in your car.",
               "Roads often have a hidden layer of ice beneath the snow.",
               "Avoid parking under low-hanging power lines during ice storms."
+            ],
+            "sv": [
+              "Dubbdäck rekommenderas starkt från oktober till april.",
+              "Ha alltid med en snöskyffel och isskrapa i bilen.",
+              "Vägar har ofta ett dolt islager under snön.",
+              "Undvik att parkera under lågt hängande kraftledningar vid isoväder."
             ]
           }
         }
@@ -1829,7 +1984,8 @@
             "de": "Ankunft am Busbahnhof & Kaffee",
             "hu": "Érkezés a buszpályaudvarra & Kávé",
             "ro": "Sosire la autogară & Cafea",
-            "en": "Arrival at Bus Station & Coffee"
+            "en": "Arrival at Bus Station & Coffee",
+            "sv": "Ankomst till busstationen & kaffe"
           },
           "coords": [
             20.958,
@@ -1844,7 +2000,8 @@
             "de": "Kaufen Sie eine Tageskarte für den Bus und starten Sie mit einem Kaffee.",
             "hu": "Vásároljon napijegyet a buszra, és kezdje egy kávéval.",
             "ro": "Cumpărați un bilet de o zi pentru autobuz și începeți cu o cafea.",
-            "en": "Buy a day pass for the bus and start with a coffee."
+            "en": "Buy a day pass for the bus and start with a coffee.",
+            "sv": "Köp ett dagskort för bussen och börja med en kaffe."
           }
         },
         {
@@ -1852,7 +2009,8 @@
             "de": "Cluster Bonnstan: Landskyrkan",
             "hu": "Bonnstan Klaszter: Landskyrkan",
             "ro": "Cluster Bonnstan: Biserica Landskyrkan",
-            "en": "Bonnstan Cluster: Landskyrkan"
+            "en": "Bonnstan Cluster: Landskyrkan",
+            "sv": "Bonnstan-klustret: Landskyrkan"
           },
           "coords": [
             20.939,
@@ -1868,7 +2026,8 @@
             "de": "Nehmen Sie den Bus zum historischen Viertel. Die Kirche ist der erste Halt Ihres Spaziergangs.",
             "hu": "Menjen busszal a történelmi negyedbe. A templom a séta első állomása.",
             "ro": "Luați autobuzul spre cartierul istoric. Biserica este prima oprire a plimbării.",
-            "en": "Take the bus to the historic quarter. The church is the first stop on your walk."
+            "en": "Take the bus to the historic quarter. The church is the first stop on your walk.",
+            "sv": "Ta bussen till den historiska kvarteren. Kyrkan är första stoppet på din promenad."
           }
         },
         {
@@ -1876,7 +2035,8 @@
             "de": "Bonnstan",
             "hu": "Bonnstan",
             "ro": "Bonnstan",
-            "en": "Bonnstan"
+            "en": "Bonnstan",
+            "sv": "Bonnstan"
           },
           "coords": [
             20.937,
@@ -1892,7 +2052,8 @@
             "de": "Schlendern Sie durch die Gassen dieses einzigartigen Ortes.",
             "hu": "Sétáljon végig ennek az egyedülálló helynek a sikátorain.",
             "ro": "Plimbați-vă pe aleile acestui loc unic.",
-            "en": "Stroll through the alleys of this unique place."
+            "en": "Stroll through the alleys of this unique place.",
+            "sv": "Promenera genom gränderna i denna unika plats."
           }
         },
         {
@@ -1900,7 +2061,8 @@
             "de": "Cluster Zentrum: Sara Kulturhus",
             "hu": "Központ Klaszter: Sara Kulturhus",
             "ro": "Cluster Centru: Centrul Cultural Sara",
-            "en": "Center Cluster: Sara Kulturhus"
+            "en": "Center Cluster: Sara Kulturhus",
+            "sv": "Centrum-klustret: Sara Kulturhus"
           },
           "coords": [
             20.952,
@@ -1916,7 +2078,8 @@
             "de": "Fahren Sie zurück ins Zentrum und verbringen Sie Zeit im Kulturhaus, inklusive Mittagessen.",
             "hu": "Utazzon vissza a központba, és töltsön időt a kultúrházban, ebéddel együtt.",
             "ro": "Întoarceți-vă în centru și petreceți timp la casa de cultură, inclusiv prânzul.",
-            "en": "Travel back to the center and spend time at the cultural center, including lunch."
+            "en": "Travel back to the center and spend time at the cultural center, including lunch.",
+            "sv": "Res tillbaka till centrum och tillbringa tid i kulturhuset, inklusive lunch."
           }
         },
         {
@@ -1924,7 +2087,8 @@
             "de": "Skellefteå Museum",
             "hu": "Skellefteå Múzeum",
             "ro": "Muzeul Skellefteå",
-            "en": "Skellefteå Museum"
+            "en": "Skellefteå Museum",
+            "sv": "Skellefteå Museum"
           },
           "coords": [
             20.9455,
@@ -1940,7 +2104,8 @@
             "de": "Ein kurzer Spaziergang vom Sara Kulturhus zum Museum.",
             "hu": "Rövid séta a Sara Kulturhustól a múzeumig.",
             "ro": "O scurtă plimbare de la Centrul Cultural Sara la muzeu.",
-            "en": "A short walk from Sara Kulturhus to the museum."
+            "en": "A short walk from Sara Kulturhus to the museum.",
+            "sv": "En kort promenad från Sara Kulturhus till museet."
           }
         },
         {
@@ -1948,7 +2113,8 @@
             "de": "Stadsparken",
             "hu": "Stadsparken",
             "ro": "Stadsparken",
-            "en": "Stadsparken"
+            "en": "Stadsparken",
+            "sv": "Stadsparken"
           },
           "coords": [
             20.9545,
@@ -1964,7 +2130,8 @@
             "de": "Beenden Sie den Tag mit einem entspannenden Spaziergang im Park, bevor Sie den Bus nach Hause nehmen.",
             "hu": "Zárja a napot egy pihentető sétával a parkban, mielőtt hazabuszozna.",
             "ro": "Încheiați ziua cu o plimbare relaxantă în parc înainte de a lua autobuzul spre casă.",
-            "en": "End the day with a relaxing walk in the park before taking the bus home."
+            "en": "End the day with a relaxing walk in the park before taking the bus home.",
+            "sv": "Avsluta dagen med en avkopplande promenad i parken innan du tar bussen hem."
           }
         }
       ],
@@ -1972,7 +2139,8 @@
         "de": "Nachdem Sie Ihre Tageskarte am Busbahnhof gekauft haben, bringt Sie ein Bus direkt in die Vergangenheit, zum historischen Cluster um Landskyrkan und Bonnstan. Erkunden Sie diese Gegend zu Fuß. Anschließend fahren Sie mit dem Bus zurück ins moderne Zentrum. Verbringen Sie einen großen Teil des Nachmittags im beeindruckenden Sara Kulturhus und dem nahegelegenen Skellefteå Museum. Ein letzter kurzer Spaziergang führt Sie durch den Stadsparken, wo Sie entspannen können, bevor Sie Ihre Rückreise antreten.",
         "hu": "Miután megvásárolta a napijegyet a buszpályaudvaron, egy busz egyenesen a múltba repíti, a Landskyrkan és Bonnstan körüli történelmi klaszterhez. Fedezze fel ezt a területet gyalog. Ezután busszal térjen vissza a modern központba. Töltse a délután nagy részét a lenyűgöző Sara Kulturhusban és a közeli Skellefteå Múzeumban. Egy utolsó rövid séta a Stadsparkenen keresztül vezet, ahol pihenhet, mielőtt elindulna hazafelé.",
         "ro": "După ce vă cumpărați biletul de o zi de la autogară, un autobuz vă va duce direct în trecut, la clusterul istoric din jurul Landskyrkan și Bonnstan. Explorați această zonă pe jos. Apoi, luați autobuzul înapoi spre centrul modern. Petreceți o mare parte a după-amiezii la impresionantul Centru Cultural Sara și la Muzeul Skellefteå din apropiere. O ultimă plimbare scurtă vă va purta prin Stadsparken, unde vă puteți relaxa înainte de a vă întoarce acasă.",
-        "en": "After buying your day pass at the bus station, a bus takes you straight into the past, to the historic cluster around Landskyrkan and Bonnstan. Explore this area on foot. Afterwards, take the bus back to the modern center. Spend a large part of the afternoon at the impressive Sara Kulturhus and the nearby Skellefteå Museum. A final short walk takes you through Stadsparken, where you can relax before heading back."
+        "en": "After buying your day pass at the bus station, a bus takes you straight into the past, to the historic cluster around Landskyrkan and Bonnstan. Explore this area on foot. Afterwards, take the bus back to the modern center. Spend a large part of the afternoon at the impressive Sara Kulturhus and the nearby Skellefteå Museum. A final short walk takes you through Stadsparken, where you can relax before heading back.",
+        "sv": "Efter att ha köpt ditt dagskort på busstationen tar bussen dig rakt in i det förflutna, till det historiska klustret kring Landskyrkan och Bonnstan. Utforska området till fots. Därefter tar du bussen tillbaka till det moderna centrumet. Tillbringa stora delar av eftermiddagen vid imponerande Sara Kulturhus och närliggande Skellefteå Museum. En sista kort promenad leder dig genom Stadsparken, där du kan slappna av innan du beger dig tillbaka."
       },
       "gastro_picks": {
         "de": [
@@ -2168,6 +2336,12 @@
           "Download the local public transport app for real-time schedules.",
           "Pay attention to bus numbers and directions to avoid getting on the wrong one.",
           "Most buses are wheelchair accessible."
+        ],
+        "sv": [
+          "Ett dagskort är billigare än enkelbiljetter.",
+          "Ladda ner den lokala kollektivtrafikappen för realtidsscheman.",
+          "Var uppmärksam på bussnummer och riktning för att undvika att gå på fel buss.",
+          "De flesta bussar är rullstolsanpassade."
         ]
       },
       "variants": {
@@ -2176,7 +2350,8 @@
             "de": "Regnerischer Tag mit dem Bus in Skellefteå. Nach einem Kaffee an der Station geht es trocken nach Bonnstan. Den Mittag verbringen wir im Sara Kulturhus, das nur wenige Schritte von den zentralen Bushaltestellen entfernt liegt. Nachmittags besuchen wir das Museum, bevor wir den Tag im Stadsparken ausklingen lassen, immer in Reichweite der nächsten warmen Haltestelle.",
             "hu": "Esős nap busszal Skellefteåban. Az állomáson elfogyasztott kávé után szárazon jutunk el Bonnstanba. A delet a Sara Kulturhus-ban töltjük, amely pár lépésre van a központi buszmegállóktól. Délután a múzeumot látogatjuk meg, majd a Stadsparkenben zárjuk a napot, mindig a következő meleg megálló közelében maradva.",
             "ro": "Zi ploioasă cu autobuzul în Skellefteå. După o cafea la stație, ajungem uscați la Bonnstan. Prânzul îl petrecem la Sara Kulturhus, aflat la doar câțiva pași de stațiile centrale de autobuz. După-amiaza vizităm Muzeul înainte de a încheia ziua în Stadsparken, mereu aproape de următoarea stație caldă.",
-            "en": "A rainy day using transit in Skellefteå. After a coffee at the station, we head to Bonnstan staying dry. Spend mid-day at Sara Kulturhus, located just steps from the central bus hubs. In the afternoon, visit the Museum before finishing in Stadsparken, always within reach of the next warm bus stop."
+            "en": "A rainy day using transit in Skellefteå. After a coffee at the station, we head to Bonnstan staying dry. Spend mid-day at Sara Kulturhus, located just steps from the central bus hubs. In the afternoon, visit the Museum before finishing in Stadsparken, always within reach of the next warm bus stop.",
+            "sv": "En regnig dag med kollektivtrafik i Skellefteå. Efter en kaffe på stationen åker vi till Bonnstan och håller oss torra. Tillbringa dagen på Sara Kulturhus, som ligger bara steg från de centrala busshållplatserna. På eftermiddagen besöker vi Museet innan vi avslutar i Stadsparken, alltid inom räckhåll för nästa varma busshållplats."
           },
           "stops": [
             {
@@ -2185,7 +2360,8 @@
                 "de": "Das Bahnhofsgebäude bietet einen großen, trockenen Wartebereich.",
                 "hu": "Az állomás épülete tágas, száraz várakozóhelyet biztosít.",
                 "ro": "Clădirea gării oferă o zonă de așteptare mare și uscată.",
-                "en": "The station building offers a large, dry waiting area."
+                "en": "The station building offers a large, dry waiting area.",
+                "sv": "Stationsbyggnaden erbjuder ett stort, torrt väntutrymme."
               }
             },
             {
@@ -2194,7 +2370,8 @@
                 "de": "Die Haltestelle 'Landskyrkan' liegt direkt am Eingang zum Gelände.",
                 "hu": "A 'Landskyrkan' megálló közvetlenül a terület bejáratánál van.",
                 "ro": "Stația 'Landskyrkan' se află direct la intrarea în zonă.",
-                "en": "The 'Landskyrkan' stop is located right at the entrance to the site."
+                "en": "The 'Landskyrkan' stop is located right at the entrance to the site.",
+                "sv": "Hållplatsen 'Landskyrkan' ligger precis vid entrén till området."
               }
             },
             {
@@ -2203,7 +2380,8 @@
                 "de": "In den historischen Häusern gibt es keinen öffentlichen Regenschutz.",
                 "hu": "A történelmi házak között nincs nyilvános esőbeálló.",
                 "ro": "Nu există adăpost public împotriva ploii printre casele istorice.",
-                "en": "There is no public rain shelter among the historical houses."
+                "en": "There is no public rain shelter among the historical houses.",
+                "sv": "Det finns inget offentligt regnskydd bland de historiska husen."
               }
             },
             {
@@ -2212,7 +2390,8 @@
                 "de": "Die meisten Buslinien halten an der Station 'Skellefteå C' direkt daneben.",
                 "hu": "A legtöbb buszjárat megáll a közvetlen mellette lévő 'Skellefteå C' megállónál.",
                 "ro": "Majoritatea liniilor de autobuz opresc la stația 'Skellefteå C' de alături.",
-                "en": "Most bus lines stop at 'Skellefteå C', right next to the building."
+                "en": "Most bus lines stop at 'Skellefteå C', right next to the building.",
+                "sv": "De flesta busslinjer stannar vid 'Skellefteå C', precis intill byggnaden."
               }
             },
             {
@@ -2221,7 +2400,8 @@
                 "de": "Die Haltestelle 'Nordanå' ist nur 2 Minuten zu Fuß entfernt.",
                 "hu": "A 'Nordanå' megálló mindössze 2 perc sétára található.",
                 "ro": "Stația 'Nordanå' este la doar 2 minute de mers pe jos.",
-                "en": "The 'Nordanå' bus stop is only a 2-minute walk away."
+                "en": "The 'Nordanå' bus stop is only a 2-minute walk away.",
+                "sv": "Hållplatsen 'Nordanå' ligger bara 2 minuters promenad bort."
               }
             },
             {
@@ -2230,7 +2410,8 @@
                 "de": "Warten Sie bei Regen unter dem Dach des nahen Stadttheaters.",
                 "hu": "Esőben várjon a közeli színház előteteje alatt a buszra.",
                 "ro": "Pe ploaie, așteptați sub streașina teatrului municipal din apropiere.",
-                "en": "Wait under the overhang of the nearby city theater if it's pouring."
+                "en": "Wait under the overhang of the nearby city theater if it's pouring.",
+                "sv": "Vänta under utbyggnaden av det närliggande stadsteatern om det ösregnar."
               }
             }
           ],
@@ -2258,6 +2439,12 @@
               "Tickets can be paid for using contactless cards on the bus.",
               "Major bus stops usually have covered shelters.",
               "Lines 1 and 2 run very frequently through the city center."
+            ],
+            "sv": [
+              "Använd appen 'Skellefteå buss' för uppdateringar i realtid.",
+              "Biljetter kan betalas med kontaktlösa kort på bussen.",
+              "Större busshållplatser har vanligtvis vindskydd.",
+              "Linje 1 och 2 går mycket ofta genom stadens centrum."
             ]
           }
         },
@@ -2266,7 +2453,8 @@
             "de": "Gemütliches Transit-Abenteuer im schwedischen Winter. Wir starten an der warmen Busstation und fahren zur verschneiten Landskyrkan. Die kurzen Fußwege zwischen den Haltestellen und den Sehenswürdigkeiten wie Bonnstan sind im Schnee gut machbar. Den Nachmittag verbringen wir im hell erleuchteten Sara Kulturhus und im Museum, bevor uns der Bus sicher zurück bringt.",
             "hu": "Kényelmes közösségi közlekedési kaland a svéd télben. A meleg buszállomásról indulunk a havas Landskyrkanhoz. A megállók és a látnivalók, mint Bonnstan közti rövid séták hóban is könnyen teljesíthetők. A délutánt a fényárban úszó Sara Kulturhus-ban és a múzeumban töltjük, mielőtt a busz biztonságban visszavisz minket.",
             "ro": "Aventură confortabilă cu transportul public în iarna suedeză. Începem de la stația caldă de autobuz și mergem spre Landskyrkan înzăpezită. Distanțele scurte de mers pe jos între stații și obiectivele precum Bonnstan sunt ușor de parcurs. După-amiaza o petrecem în Sara Kulturhus iluminat și la muzeu, înainte ca autobuzul să ne aducă înapoi în siguranță.",
-            "en": "A cozy transit adventure in the Swedish winter. Start at the warm bus station and head to the snowy Landskyrkan. The short walks between the stops and sights like Bonnstan are manageable even in the snow. Spend the afternoon in the brightly lit Sara Kulturhus and the Museum before the bus safely whisks you back."
+            "en": "A cozy transit adventure in the Swedish winter. Start at the warm bus station and head to the snowy Landskyrkan. The short walks between the stops and sights like Bonnstan are manageable even in the snow. Spend the afternoon in the brightly lit Sara Kulturhus and the Museum before the bus safely whisks you back.",
+            "sv": "En mysig kollektivfärdsupplevelse i svensk vinter. Börja vid den varma busstationen och ta dig till snöiga Landskyrkan. De korta promenaderna mellan hållplatserna och sevärdheter som Bonnstan är hanterbara även i snö. Tillbringa eftermiddagen i det ljusa Sara Kulturhus och museet innan bussen tryggt tar dig tillbaka."
           },
           "stops": [
             {
@@ -2275,7 +2463,8 @@
                 "de": "Ein idealer Ort, um sich zwischen den Fahrten aufzuwärmen.",
                 "hu": "Ideális hely a felmelegedéshez két járat között.",
                 "ro": "Un loc ideal pentru a te încălzi între călătorii.",
-                "en": "An ideal place to warm up between bus connections."
+                "en": "An ideal place to warm up between bus connections.",
+                "sv": "En ideal plats att värma sig mellan bussförbindelserna."
               }
             },
             {
@@ -2284,7 +2473,8 @@
                 "de": "Die Wege von der Haltestelle werden im Winter schnell geräumt.",
                 "hu": "A megállótól vezető utakat télen gyorsan letakarítják.",
                 "ro": "Căile de acces de la stație sunt curățate rapid iarna.",
-                "en": "The paths from the bus stop are prioritized for snow removal."
+                "en": "The paths from the bus stop are prioritized for snow removal.",
+                "sv": "Gångvägarna från busshållplatsen prioriteras för snöröjning."
               }
             },
             {
@@ -2293,7 +2483,8 @@
                 "de": "Planen Sie Ihren Besuch so, dass Sie nicht zu lange in der Kälte warten.",
                 "hu": "Úgy tervezze a látogatást, hogy ne kelljen sokat várni a hidegben a buszra.",
                 "ro": "Planificați vizita astfel încât să nu așteptați prea mult în frig.",
-                "en": "Time your visit to avoid waiting too long in the cold for the next bus."
+                "en": "Time your visit to avoid waiting too long in the cold for the next bus.",
+                "sv": "Tidsbestäm ditt besök för att undvika att vänta för länge i kylan på nästa buss."
               }
             },
             {
@@ -2302,7 +2493,8 @@
                 "de": "Ein warmer Hub für alle Transit-Reisenden im Stadtkern.",
                 "hu": "Meleg központ minden tömegközlekedőnek a város szívében.",
                 "ro": "Un nod cald pentru toți călătorii cu transportul public din centrul orașului.",
-                "en": "A warm hub for all transit travelers in the heart of the city."
+                "en": "A warm hub for all transit travelers in the heart of the city.",
+                "sv": "Ett varmt nav för alla kollektivresenärer i stadens hjärta."
               }
             },
             {
@@ -2311,7 +2503,8 @@
                 "de": "Der Weg zur Haltestelle führt durch den beleuchteten Park Nordanå.",
                 "hu": "A megállóhoz vezető út a kivilágított Nordanå parkon át vezet.",
                 "ro": "Drumul spre stație trece prin parcul iluminat Nordanå.",
-                "en": "The walk to the bus stop goes through the beautifully lit Nordanå park."
+                "en": "The walk to the bus stop goes through the beautifully lit Nordanå park.",
+                "sv": "Promenaden till busshållplatsen går genom vackert upplysta Nordanå park."
               }
             },
             {
@@ -2320,7 +2513,8 @@
                 "de": "Die Haltestellen 'Centrum' bieten Windschutz und Sitzbänke.",
                 "hu": "A 'Centrum' megállók szélvédettek és ülőhelyekkel ellátottak.",
                 "ro": "Stațiile 'Centrum' oferă protecție împotriva vântului și bănci.",
-                "en": "The 'Centrum' stops offer wind protection and benches while you wait."
+                "en": "The 'Centrum' stops offer wind protection and benches while you wait.",
+                "sv": "”Centrum”-hållplatserna erbjuder vindskydd och bänkar medan du väntar."
               }
             }
           ],
@@ -2348,6 +2542,12 @@
               "Help the driver see you by using a reflector in the dark.",
               "Wait inside the heated waiting areas at the main bus station.",
               "Buses are well-heated; perfect for warming up between outdoor stops."
+            ],
+            "sv": [
+              "Bussarna i Skellefteå är mycket punktliga även under kraftigt snöfall.",
+              "Hjälp föraren att se dig genom att använda en reflex i mörkret.",
+              "Vänta inne i de uppvärmda väntrummen på huvudbusstationen.",
+              "Bussarna är väl uppvärmda; perfekt för att värma sig mellan utomhushållplatser."
             ]
           }
         }

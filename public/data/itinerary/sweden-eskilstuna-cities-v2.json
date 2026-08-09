@@ -21,7 +21,8 @@
             "de": "Klosterkirche von Eskilstuna",
             "hu": "Eskilstunai kolostortemplom",
             "ro": "Biserica Mănăstirii din Eskilstuna",
-            "en": "Eskilstuna Klosterkyrka (Monastery Church)"
+            "en": "Eskilstuna Klosterkyrka (Monastery Church)",
+            "sv": "Eskilstuna Klosterkyrka (Klosterkyrkan)"
           },
           "coords": [
             16.5165,
@@ -36,7 +37,8 @@
             "de": "Achten Sie auf die mittelalterlichen Fresken und die ruhige Atmosphäre.",
             "hu": "Figyelje meg a középkori freskókat és élvezze a csendes atmoszférát.",
             "ro": "Admirați frescele medievale și bucurați-vă de atmosfera liniștită.",
-            "en": "Look for the medieval frescoes and enjoy the tranquil atmosphere."
+            "en": "Look for the medieval frescoes and enjoy the tranquil atmosphere.",
+            "sv": "Sök efter de medeltida freskerna och njut av den lugna atmosfären."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Rademachersmedjorna",
             "hu": "Rademacher kovácsműhelyek",
             "ro": "Fierăriile Rademacher",
-            "en": "Rademacher Forges"
+            "en": "Rademacher Forges",
+            "sv": "Rademacher Smedjor"
           },
           "coords": [
             16.5113,
@@ -59,7 +62,8 @@
             "de": "Sprechen Sie mit den Handwerkern, die oft in den Werkstätten arbeiten.",
             "hu": "Beszélgessen a kézművesekkel, akik gyakran a műhelyekben dolgoznak.",
             "ro": "Discutați cu meșteșugarii care lucrează adesea în ateliere.",
-            "en": "Talk to the artisans who are often working in the workshops."
+            "en": "Talk to the artisans who are often working in the workshops.",
+            "sv": "Prata med hantverkarna som ofta arbetar i verkstäderna."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Eskilstuna Stadtmuseum",
             "hu": "Eskilstuna Városi Múzeum",
             "ro": "Muzeul Orașului Eskilstuna",
-            "en": "Eskilstuna City Museum"
+            "en": "Eskilstuna City Museum",
+            "sv": "Eskilstuna Stadsmuseum"
           },
           "coords": [
             16.5102,
@@ -82,7 +87,8 @@
             "de": "Die Ausstellungen zur Industriegeschichte sind besonders aufschlussreich.",
             "hu": "Az ipartörténeti kiállítások különösen tanulságosak.",
             "ro": "Expozițiile despre istoria industrială sunt deosebit de informative.",
-            "en": "The exhibitions on industrial history are particularly insightful."
+            "en": "The exhibitions on industrial history are particularly insightful.",
+            "sv": "Utställningarna om industrihistoria är särskilt insiktsfulla."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Mittagessen in der Altstadt",
             "hu": "Ebéd az Óvárosban",
             "ro": "Prânz în Orașul Vechi",
-            "en": "Lunch in the Old Town"
+            "en": "Lunch in the Old Town",
+            "sv": "Lunch i Gamla stan"
           },
           "coords": [
             16.511,
@@ -105,7 +112,8 @@
             "de": "Probieren Sie ein lokales Restaurant für traditionelle schwedische Fika.",
             "hu": "Próbáljon ki egy helyi éttermet egy hagyományos svéd 'fika' erejéig.",
             "ro": "Încercați un restaurant local pentru o 'fika' suedeză tradițională.",
-            "en": "Try a local restaurant for a traditional Swedish 'fika'."
+            "en": "Try a local restaurant for a traditional Swedish 'fika'.",
+            "sv": "Pröva en lokal restaurang för en traditionell svensk fika."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Eskilstuna Konstmuseum",
             "hu": "Eskilstuna Művészeti Múzeum",
             "ro": "Muzeul de Artă Eskilstuna",
-            "en": "Eskilstuna Art Museum"
+            "en": "Eskilstuna Art Museum",
+            "sv": "Eskilstuna Konstmuseum"
           },
           "coords": [
             16.507,
@@ -128,7 +137,8 @@
             "de": "Konzentrieren Sie sich auf die Sammlung schwedischer Kunst des 20. Jahrhunderts.",
             "hu": "Fókuszáljon a 20. századi svéd művészeti gyűjteményre.",
             "ro": "Concentrați-vă pe colecția de artă suedeză din secolul XX.",
-            "en": "Focus on the collection of 20th-century Swedish art."
+            "en": "Focus on the collection of 20th-century Swedish art.",
+            "sv": "Fokusera på samlingen av svensk 1900‑talskonst."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Rothoffsparken",
             "hu": "Rothoffsparken",
             "ro": "Parcul Rothoff",
-            "en": "Rothoff's Park"
+            "en": "Rothoff's Park",
+            "sv": "Rothoffs park"
           },
           "coords": [
             16.5118,
@@ -151,7 +162,8 @@
             "de": "Ein perfekter Ort, um am Fluss Eskilstunaån zu entspannen.",
             "hu": "Tökéletes hely a pihenésre az Eskilstunaån folyó partján.",
             "ro": "Un loc perfect pentru a vă relaxa pe malul râului Eskilstunaån.",
-            "en": "A perfect spot to relax by the Eskilstunaån river."
+            "en": "A perfect spot to relax by the Eskilstunaån river.",
+            "sv": "En perfekt plats att koppla av vid Eskilstunaån."
           }
         },
         {
@@ -159,7 +171,8 @@
             "de": "Fors Kirche",
             "hu": "Fors-templom",
             "ro": "Biserica Fors",
-            "en": "Fors Church"
+            "en": "Fors Church",
+            "sv": "Fors kyrka"
           },
           "coords": [
             16.518,
@@ -174,7 +187,8 @@
             "de": "Diese Kirche ist eine der ältesten in der Region, mit Teilen aus dem 11. Jahrhundert.",
             "hu": "Ez a templom az egyik legrégebbi a régióban, egyes részei a 11. századból származnak.",
             "ro": "Această biserică este una dintre cele mai vechi din regiune, cu părți datând din secolul al XI-lea.",
-            "en": "This church is one of the oldest in the region, with parts from the 11th century."
+            "en": "This church is one of the oldest in the region, with parts from the 11th century.",
+            "sv": "Denna kyrka är en av de äldsta i regionen, med delar från 1000‑talet."
           }
         }
       ],
@@ -182,7 +196,8 @@
         "de": "Beginnen Sie Ihren Tag mit der spirituellen Ruhe der Klosterkirche. Am Vormittag erkunden Sie das historische Handwerkerviertel Rademachersmedjorna und das Stadtmuseum. Nach einem gemütlichen Mittagessen in der Altstadt widmen Sie den Nachmittag der Kunst im Konstmuseum. Später entspannen Sie im grünen Rothoffsparken am Fluss, bevor Sie den Tag an der alten Fors Kirche ausklingen lassen.",
         "hu": "Kezdje a napot a kolostortemplom spirituális csendjében. Délelőtt fedezze fel a Rademachersmedjorna történelmi kézműves negyedét és a Városi Múzeumot. Egy kellemes óvárosi ebéd után szentelje a délutánt a Művészeti Múzeumnak. Később pihenjen a zöldellő Rothoffsparkenben a folyóparton, mielőtt a napot az ősi Fors-templomnál zárná.",
         "ro": "Începeți ziua cu liniștea spirituală a Bisericii Mănăstirii. În cursul dimineții, explorați cartierul istoric meșteșugăresc Rademachersmedjorna și Muzeul Orașului. După un prânz relaxant în Orașul Vechi, dedicați după-amiaza artei la Muzeul de Artă. Mai târziu, relaxați-vă în verdele parc Rothoff de lângă râu, înainte de a încheia ziua la vechea Biserică Fors.",
-        "en": "Start your day in the spiritual quiet of the Monastery Church. In the morning, explore the historic Rademachersmedjorna craft district and the City Museum. After a leisurely lunch in the Old Town, dedicate the afternoon to art at the Art Museum. Later, relax in the green Rothoff's Park by the river before ending your day at the ancient Fors Church."
+        "en": "Start your day in the spiritual quiet of the Monastery Church. In the morning, explore the historic Rademachersmedjorna craft district and the City Museum. After a leisurely lunch in the Old Town, dedicate the afternoon to art at the Art Museum. Later, relax in the green Rothoff's Park by the river before ending your day at the ancient Fors Church.",
+        "sv": "Börja dagen i den andliga stillheten i Klosterkyrkan. På morgonen utforska det historiska hantverksområdet Rademachersmedjorna och Stadsmuseet. Efter en lugn lunch i Gamla stan, ägna eftermiddagen åt konst på Konstmuseet. Avsluta med att koppla av i gröna Rothoffs park vid ån innan dagen slutar vid den urgamla Fors kyrka."
       },
       "gastro_picks": {
         "de": [
@@ -374,6 +389,11 @@
           "Wear comfortable shoes as you'll be on cobblestones and pavement all day.",
           "Most museums are closed on Mondays, so plan accordingly.",
           "A reusable water bottle is handy; there are several places to refill it."
+        ],
+        "sv": [
+          "Bär bekväma skor eftersom du går på kullersten och trottoar hela dagen.",
+          "De flesta museer är stängda på måndagar, planera efter det.",
+          "En återanvändbar vattenflaska är praktisk; det finns flera ställen att fylla på."
         ]
       },
       "variants": {
@@ -382,7 +402,8 @@
             "de": "Der Morgen beginnt in der Klosterkirche, einem trockenen Zufluchtsort mit imposanten Gewölben. Die Rademacher-Schmieden bieten danach überdachte Bereiche, in denen man die Geschichte der Metallverarbeitung ohne Regennässe erkunden kann.\n\nMittags genießen Sie ein warmes Essen in der Altstadt, fernab der grauen Straßen. Das Stadtmuseum ist der ideale Ort für die Mittagsstunden, um tief in die lokale Industriegeschichte einzutauchen.\n\nNachmittags bietet das Kunstmuseum weitläufige, helle Innenräume. Der Rothoff-Park bleibt auch bei Regen mit einem stabilen Schirm ein interessanter Stopp, da die befestigten Wege wenig Matsch zulassen.\n\nDer Abend endet besinnlich in der Fors-Kirche, dem ältesten Gebäude der Stadt. Der kurze Weg zum Fluss Eskilstunaån zeigt bei Regen interessante Reflexionen der Stadtlichter auf der Wasseroberfläche.",
             "hu": "A reggel a kolostortemplomban indul, amely száraz menedéket és impozáns boltozatokat kínál. A Rademacher kovácsműhelyeknél a régi épületek ereszei alatt fedezhetjük fel a fémművesség múltját anélkül, hogy bőrig áznánk.\n\nDélben élvezzen egy meleg ebédet az óváros egyik éttermében, távol a szürke utcáktól. A Városi Múzeum tökéletes helyszín a déli órákra, ahol elmélyedhetünk a helyi ipar fejlődésének történetében.\n\nDélután a Művészeti Múzeum tágas és világos belső terei nyújtanak kulturális élményt. A Rothoff-park egy stabil esernyővel ilyenkor is járható, mivel a burkolt utak megvédenek a sártól.\n\nA napot a város legrégebbi épületében, a Fors-templomban zárjuk. A folyóparti séta során az esőcseppek különleges fényjátékot hoznak létre az Eskilstunaån vizén és a környező kövezeten.",
             "ro": "Dimineața începe la biserica mănăstirii, un refugiu uscat cu bolți impunătoare. Fierăriile Rademacher oferă apoi zone acoperite unde puteți explora istoria prelucrării metalelor fără a fi udați de ploaie.\n\nLa prânz, bucurați-vă de o masă caldă în centrul vechi, departe de străzile gri. Muzeul Orașului este locul ideal pentru orele amiezii, oferind o incursiune detaliată în istoria industrială locală.\n\nDupă-amiaza, Muzeul de Artă oferă spații interioare generoase și luminoase. Parcul Rothoff rămâne un punct de interes chiar și pe ploaie cu o umbrelă solidă, aleile pavate fiind ferite de noroi.\n\nSeara se încheie liniștit la Biserica Fors, cea mai veche clădire din oraș. Scurta plimbare spre râu arată reflexii interesante ale luminilor orașului pe suprafața apei Eskilstunaån.",
-            "en": "The morning begins at the monastery church, a dry sanctuary with imposing vaults. Rademacher Forges then offer covered areas where you can explore the history of metalworking without getting wet.\n\nAt noon, enjoy a warm meal in the Old Town, away from the grey streets. The City Museum is the ideal place for the midday hours to dive deep into local industrial history.\n\nIn the afternoon, the Art Museum offers spacious, bright interiors. Rothoff's Park remains an interesting stop even in rain with a sturdy umbrella, as the paved paths minimize mud.\n\nEvening ends peacefully at Fors Church, the oldest building in the city. The short walk to the river shows interesting reflections of city lights on the surface of the Eskilstunaån."
+            "en": "The morning begins at the monastery church, a dry sanctuary with imposing vaults. Rademacher Forges then offer covered areas where you can explore the history of metalworking without getting wet.\n\nAt noon, enjoy a warm meal in the Old Town, away from the grey streets. The City Museum is the ideal place for the midday hours to dive deep into local industrial history.\n\nIn the afternoon, the Art Museum offers spacious, bright interiors. Rothoff's Park remains an interesting stop even in rain with a sturdy umbrella, as the paved paths minimize mud.\n\nEvening ends peacefully at Fors Church, the oldest building in the city. The short walk to the river shows interesting reflections of city lights on the surface of the Eskilstunaån.",
+            "sv": "Morgonen börjar i klosterkyrkan, ett torrt fridfullt rum med imponerande valv. Rademacher Smedjor erbjuder sedan täckta ytor där du kan utforska metallbearbetningens historia utan att bli blöt.\n\nVid lunchtid, njut av en varm måltid i Gamla stan, borta från de grå gatorna. Stadsmuseet är den idealiska platsen för timmarna kring middag för att fördjupa dig i lokal industrihistoria.\n\nPå eftermiddagen erbjuder Konstmuseet rymliga, ljusa interiörer. Rothoffs park är ändå ett intressant stopp även i regn med ett stadigt paraply, eftersom de belagda gångvägarna minimerar lera.\n\nKvällen avslutas fridfullt vid Fors kyrka, stadens äldsta byggnad. Den korta promenaden till ån visar intressanta reflektioner av stadens ljus på ytan av Eskilstunaån."
           },
           "stops": [
             {
@@ -391,7 +412,8 @@
                 "de": "Trockener Rückzugsort mit beeindruckender Akustik.",
                 "hu": "Száraz menedék lenyűgöző akusztikával.",
                 "ro": "Refugiu uscat cu o acustică impresionantă.",
-                "en": "Dry retreat with impressive acoustics."
+                "en": "Dry retreat with impressive acoustics.",
+                "sv": "Torr tillflykt med imponerande akustik."
               }
             },
             {
@@ -400,7 +422,8 @@
                 "de": "Kleine Werkstätten bieten Schutz vor Schauern.",
                 "hu": "A kis műhelyek védelmet nyújtanak a záporok elől.",
                 "ro": "Micile ateliere oferă protecție împotriva ploii.",
-                "en": "Small workshops provide shelter from showers."
+                "en": "Small workshops provide shelter from showers.",
+                "sv": "Små verkstäder ger skydd från skurar."
               }
             },
             {
@@ -409,7 +432,8 @@
                 "de": "Große Indoor-Ausstellung über Industriegeschichte.",
                 "hu": "Nagy beltéri kiállítás az ipartörténetről.",
                 "ro": "Expoziție interioară mare despre istoria industrială.",
-                "en": "Large indoor exhibition on industrial history."
+                "en": "Large indoor exhibition on industrial history.",
+                "sv": "Stor inomhusutställning om industrihistoria."
               }
             },
             {
@@ -418,7 +442,8 @@
                 "de": "Wählen Sie ein Restaurant mit Garderobe.",
                 "hu": "Válasszon ruhatárral rendelkező éttermet.",
                 "ro": "Alegeți un restaurant cu garderobă.",
-                "en": "Choose a restaurant with a cloakroom."
+                "en": "Choose a restaurant with a cloakroom.",
+                "sv": "Välj en restaurang med garderob."
               }
             },
             {
@@ -427,7 +452,8 @@
                 "de": "Perfekt für 90 Minuten im Trockenen.",
                 "hu": "Tökéletes 90 perc a szárazban.",
                 "ro": "Perfect pentru 90 de minute la adăpost.",
-                "en": "Perfect for 90 minutes in the dry."
+                "en": "Perfect for 90 minutes in the dry.",
+                "sv": "Perfekt för 90 minuter i torrt väder."
               }
             },
             {
@@ -436,7 +462,8 @@
                 "de": "Befestigte Wege minimieren Schlamm.",
                 "hu": "A burkolt utak segítenek elkerülni a sarat.",
                 "ro": "Potecile pavate minimizează noroiul.",
-                "en": "Paved paths minimize mud."
+                "en": "Paved paths minimize mud.",
+                "sv": "Belagda gångvägar minimerar lera."
               }
             },
             {
@@ -445,7 +472,8 @@
                 "de": "Ideal für einen besinnlichen Tagesausklang.",
                 "hu": "Ideális egy elcsendesedő napzáráshoz.",
                 "ro": "Ideal pentru un final de zi liniștit.",
-                "en": "Ideal for a peaceful end to the day."
+                "en": "Ideal for a peaceful end to the day.",
+                "sv": "Idealisk för ett stillsamt slut på dagen."
               }
             }
           ],
@@ -473,6 +501,12 @@
               "Use the free lockers in the museums.",
               "Museums are close to each other, short walks.",
               "Wear waterproof shoes for the cobblestones."
+            ],
+            "sv": [
+              "Ta med ett stadigt paraply.",
+              "Använd de kostnadsfria skåpen på museerna.",
+              "Museerna ligger nära varandra, korta promenader.",
+              "Bär vattentäta skor för kullerstenen."
             ]
           }
         },
@@ -481,7 +515,8 @@
             "de": "Ein frostiger Morgen an der Klosterkirche beginnt den Tag. Die Rademacher-Schmieden wirken im Neuschnee wie aus einer anderen Zeit und versprühen eine besondere Ruhe.\n\nMittags wärmen Sie sich bei einer schwedischen Fika auf, bevor Sie das Stadtmuseum besuchen. Die Ausstellungen bieten wohlige Wärme und einen Einblick in die Entwicklung Eskilstunas.\n\nNachmittags, wenn es bereits gegen 15:00 Uhr dunkel wird, leuchten die Hallen des Kunstmuseums hell einladend. Der Rothoff-Park lädt zu einem kurzen, erfrischenden Winterspaziergang ein.\n\nDer Abend in der Fors-Kirche ist durch die Winterbeleuchtung besonders feierlich. Die Lichter der Stadt spiegeln sich in den Eisschollen auf dem Fluss Eskilstunaån.",
             "hu": "Dérlepte reggel a kolostortemplomnál indítja a napot. A Rademacher kovácsműhelyek a friss hóban mintha egy másik korból maradtak volna itt, különleges nyugalmat árasztva.\n\nDélben egy forró svéd kávéval (fika) melegedhetünk fel, mielőtt ellátogatunk a Városi Múzeumba. A kiállítások barátságos meleget és betekintést nyújtanak Eskilstuna fejlődésébe.\n\nDélután, amikor már 15:00 körül sötétedni kezd, a Művészeti Múzeum termei világos és hívogató pontként szolgálnak. A Rothoff-park egy rövid, frissítő téli sétára hív.\n\nAz este a Fors-templomnál a téli kivilágításnak köszönhetően ünnepi hangulatú. A város fényei megcsillannak az Eskilstunaån folyón úszó jégtáblákon.",
             "ro": "O dimineață geroasă la biserica mănăstirii începe ziua. Fierăriile Rademacher par desprinse din alt timp sub zăpada proaspătă și emană o liniște deosebită.\n\nLa prânz vă încălziți cu o fika suedeză înainte de a vizita Muzeul Orașului. Expozițiile oferă căldură primitoare și o privire asupra dezvoltării orașului Eskilstuna.\n\nDupă-amiaza, când se întunecă deja în jurul orei 15:00, sălile Muzeului de Artă strălucesc primitor. Parcul Rothoff invită la o scurtă și revigorantă plimbare de iarnă.\n\nSeara la Biserica Fors este deosebit de solemnă datorită iluminatului de iarnă. Luminile orașului se oglindesc în sloiurile de gheață de pe râul Eskilstunaån.",
-            "en": "A frosty morning at the monastery church starts the day. The Rademacher Forges look timeless under fresh snow and exude a special sense of peace.\n\nWarm up with a Swedish fika at noon before visiting the City Museum. The exhibitions offer cozy warmth and an insight into Eskilstuna's development.\n\nIn the afternoon, as it gets dark around 15:00, the halls of the Art Museum shine brightly and welcomingly. Rothoff's Park invites you for a short, refreshing winter stroll.\n\nEvening at Fors Church is especially solemn thanks to the winter lighting. The city lights reflect in the ice floes on the Eskilstunaån river."
+            "en": "A frosty morning at the monastery church starts the day. The Rademacher Forges look timeless under fresh snow and exude a special sense of peace.\n\nWarm up with a Swedish fika at noon before visiting the City Museum. The exhibitions offer cozy warmth and an insight into Eskilstuna's development.\n\nIn the afternoon, as it gets dark around 15:00, the halls of the Art Museum shine brightly and welcomingly. Rothoff's Park invites you for a short, refreshing winter stroll.\n\nEvening at Fors Church is especially solemn thanks to the winter lighting. The city lights reflect in the ice floes on the Eskilstunaån river.",
+            "sv": "En frostig morgon i klosterkyrkan startar dagen. Rademacher Smedjor ser tidlösa ut under nysnö och utstrålar en särskild frid.\n\nVärm dig med en svensk fika vid lunchtid innan du besöker Stadsmuseet. Utställningarna erbjuder mysig värme och en inblick i Eskilstunas utveckling.\n\nPå eftermiddagen, eftersom det blir mörkt runt kl. 15:00, lyser Konstmuseets salar upp varmt och välkomnande. Rothoffs park bjuder in till en kort, uppfriskande vinterpromenad.\n\nKvällen vid Fors kyrka är särskilt högtidlig tack vare vinterbelysningen. Stadens ljus speglar sig i isflaken på Eskilstunaån."
           },
           "stops": [
             {
@@ -490,7 +525,8 @@
                 "de": "Warmer Innenraum zum Aufwärmen am Morgen.",
                 "hu": "Meleg belső tér a reggeli átmelegedéshez.",
                 "ro": "Interior cald pentru încălzire dimineața.",
-                "en": "Warm interior for heating up in the morning."
+                "en": "Warm interior for heating up in the morning.",
+                "sv": "Värmande interiör för att tina upp på morgonen."
               }
             },
             {
@@ -499,7 +535,8 @@
                 "de": "Oft weihnachtliche Atmosphäre im Winter.",
                 "hu": "Gyakran karácsonyi hangulat télen.",
                 "ro": "Adesea atmosferă de Crăciun iarna.",
-                "en": "Often a Christmas atmosphere in winter."
+                "en": "Often a Christmas atmosphere in winter.",
+                "sv": "Ofta en julkänsla på vintern."
               }
             },
             {
@@ -508,7 +545,8 @@
                 "de": "Gute Heizung und gemütliches Café.",
                 "hu": "Jó fűtés és hangulatos kávézó.",
                 "ro": "Încălzire bună și cafenea primitoare.",
-                "en": "Good heating and cozy café."
+                "en": "Good heating and cozy café.",
+                "sv": "Bra uppvärmning och mysigt café."
               }
             },
             {
@@ -517,7 +555,8 @@
                 "de": "Probieren Sie eine kräftige Fleischsuppe.",
                 "hu": "Próbáljon ki egy laktató húslevest.",
                 "ro": "Încercați o supă de carne consistentă.",
-                "en": "Try a hearty meat soup."
+                "en": "Try a hearty meat soup.",
+                "sv": "Prova en mustig köttsoppa."
               }
             },
             {
@@ -526,7 +565,8 @@
                 "de": "Lichttherapie durch helle Ausstellungsräume.",
                 "hu": "Fényterápia a világos kiállítótermekben.",
                 "ro": "Terapie prin lumină în sălile luminoase.",
-                "en": "Light therapy through bright exhibition spaces."
+                "en": "Light therapy through bright exhibition spaces.",
+                "sv": "Ljusterapi genom ljusa utställningsrum."
               }
             },
             {
@@ -535,7 +575,8 @@
                 "de": "Vorsicht bei Glätte auf den Wegen.",
                 "hu": "Vigyázzon a csúszós utakkal.",
                 "ro": "Atenție la polei pe alei.",
-                "en": "Watch out for slippery paths."
+                "en": "Watch out for slippery paths.",
+                "sv": "Se upp för hala stigar."
               }
             },
             {
@@ -544,7 +585,8 @@
                 "de": "Prächtige Beleuchtung in der Dämmerung.",
                 "hu": "Pompás világítás az alkonyatkor.",
                 "ro": "Iluminare splendidă la amurg.",
-                "en": "Splendid lighting at dusk."
+                "en": "Splendid lighting at dusk.",
+                "sv": "Strålande belysning vid skymning."
               }
             }
           ],
@@ -572,6 +614,12 @@
               "Layered clothing is essential.",
               "Winter boots with good grip are a must.",
               "Museums sometimes close earlier in winter."
+            ],
+            "sv": [
+              "Bär reflexer, det blir mörkt från kl. 15:00.",
+              "Flerlagerklädsel är nödvändig.",
+              "Vinterkängor med bra grepp är ett måste.",
+              "Museer stänger ibland tidigare på vintern."
             ]
           }
         }
@@ -590,7 +638,8 @@
             "de": "Sigurdsristningen (Sigurd-Ritzung)",
             "hu": "Sigurd-ristning (Sigurd-faragás)",
             "ro": "Gravura lui Sigurd (Sigurdsristningen)",
-            "en": "Sigurd Carving (Sigurdsristningen)"
+            "en": "Sigurd Carving (Sigurdsristningen)",
+            "sv": "Sigurdristningen (Sigurd Carving)"
           },
           "coords": [
             16.425,
@@ -605,7 +654,8 @@
             "de": "Lesen Sie die Sage von Sigurd, bevor Sie gehen, um die Details der Ritzung zu schätzen.",
             "hu": "Olvassa el Sigurd mondáját, mielőtt odamegy, hogy értékelni tudja a faragás részleteit.",
             "ro": "Citiți legenda lui Sigurd înainte de a merge pentru a aprecia detaliile gravurii.",
-            "en": "Read the saga of Sigurd before you go to appreciate the details of the carving."
+            "en": "Read the saga of Sigurd before you go to appreciate the details of the carving.",
+            "sv": "Läs sagan om Sigurd innan du går för att uppskatta ristningens detaljer."
           }
         },
         {
@@ -613,7 +663,8 @@
             "de": "Munktell Museum",
             "hu": "Munktell Múzeum",
             "ro": "Muzeul Munktell",
-            "en": "Munktell Museum"
+            "en": "Munktell Museum",
+            "sv": "Munktellmuseet"
           },
           "coords": [
             16.502,
@@ -628,7 +679,8 @@
             "de": "Ideal für Technikbegeisterte. Verpassen Sie nicht die Dampfmaschinen.",
             "hu": "Ideális a technika rajongóinak. Ne hagyja ki a gőzgépeket!",
             "ro": "Ideal pentru pasionații de tehnologie. Nu ratați motoarele cu aburi.",
-            "en": "Great for technology enthusiasts. Don't miss the steam engines."
+            "en": "Great for technology enthusiasts. Don't miss the steam engines.",
+            "sv": "Perfekt för teknikintresserade. Missa inte ångmaskinerna."
           }
         },
         {
@@ -636,7 +688,8 @@
             "de": "Mittagessen im Munktellstaden",
             "hu": "Ebéd Munktellstadenben",
             "ro": "Prânz în Munktellstaden",
-            "en": "Lunch in Munktellstaden"
+            "en": "Lunch in Munktellstaden",
+            "sv": "Lunch i Munktellstaden"
           },
           "coords": [
             16.503,
@@ -651,7 +704,8 @@
             "de": "Dieses revitalisierte Industriegebiet bietet trendige Restaurants.",
             "hu": "Ez a felújított ipari terület trendi éttermeket kínál.",
             "ro": "Această zonă industrială revitalizată oferă restaurante la modă.",
-            "en": "This revitalized industrial area offers trendy dining options."
+            "en": "This revitalized industrial area offers trendy dining options.",
+            "sv": "Det här revitaliserade industrikvarteret erbjuder trendiga matställen."
           }
         },
         {
@@ -659,7 +713,8 @@
             "de": "Eskilstuna Konstmuseum",
             "hu": "Eskilstuna Művészeti Múzeum",
             "ro": "Muzeul de Artă Eskilstuna",
-            "en": "Eskilstuna Art Museum"
+            "en": "Eskilstuna Art Museum",
+            "sv": "Eskilstuna Konstmuseum"
           },
           "coords": [
             16.507,
@@ -674,7 +729,8 @@
             "de": "Eine großartige Ergänzung zum technischen Fokus des Munktell Museums.",
             "hu": "Nagyszerű kiegészítése a Munktell Múzeum műszaki fókuszának.",
             "ro": "O completare excelentă la focusul tehnic al Muzeului Munktell.",
-            "en": "A great complement to the technical focus of the Munktell Museum."
+            "en": "A great complement to the technical focus of the Munktell Museum.",
+            "sv": "Ett bra komplement till Munktellmuseets tekniska fokus."
           }
         },
         {
@@ -682,7 +738,8 @@
             "de": "Rademachersmedjorna",
             "hu": "Rademacher kovácsműhelyek",
             "ro": "Fierăriile Rademacher",
-            "en": "Rademacher Forges"
+            "en": "Rademacher Forges",
+            "sv": "Rademacher Smedjor"
           },
           "coords": [
             16.5113,
@@ -697,7 +754,8 @@
             "de": "Fahren Sie mit dem Rad durch die historischen Gassen, bevor Sie es abstellen.",
             "hu": "Tekerjen végig a történelmi sikátorokon, mielőtt leparkolná a biciklit.",
             "ro": "Plimbați-vă cu bicicleta pe aleile istorice înainte de a o parca.",
-            "en": "Cycle through the historic alleys before you park your bike."
+            "en": "Cycle through the historic alleys before you park your bike.",
+            "sv": "Cykla genom de historiska gränderna innan du parkerar din cykel."
           }
         },
         {
@@ -705,7 +763,8 @@
             "de": "Rothoffsparken",
             "hu": "Rothoffsparken",
             "ro": "Parcul Rothoff",
-            "en": "Rothoff's Park"
+            "en": "Rothoff's Park",
+            "sv": "Rothoffs park"
           },
           "coords": [
             16.5118,
@@ -720,7 +779,8 @@
             "de": "Schließen Sie Ihr Fahrrad ab und machen Sie einen Spaziergang am Fluss.",
             "hu": "Zárja le a biciklijét és tegyen egy sétát a folyóparton.",
             "ro": "Legați-vă bicicleta și faceți o plimbare de-a lungul râului.",
-            "en": "Lock up your bike and take a stroll by the river."
+            "en": "Lock up your bike and take a stroll by the river.",
+            "sv": "Lås fast din cykel och ta en promenad vid ån."
           }
         },
         {
@@ -728,7 +788,8 @@
             "de": "Abendessen am Fluss",
             "hu": "Vacsora a folyóparton",
             "ro": "Cină pe malul râului",
-            "en": "Dinner by the river"
+            "en": "Dinner by the river",
+            "sv": "Middag vid ån"
           },
           "coords": [
             16.509,
@@ -743,7 +804,8 @@
             "de": "Genießen Sie die Aussicht von einem der Restaurants mit Terrasse.",
             "hu": "Élvezze a kilátást az egyik teraszos étteremből.",
             "ro": "Bucurați-vă de priveliște de la unul dintre restaurantele cu terasă.",
-            "en": "Enjoy the view from one of the restaurants with a terrace."
+            "en": "Enjoy the view from one of the restaurants with a terrace.",
+            "sv": "Njut av utsikten från en av restaurangerna med terrass."
           }
         }
       ],
@@ -751,7 +813,8 @@
         "de": "Ihre Radtour beginnt mit einer Reise in die Wikingerzeit bei der Sigurd-Ritzung. Am Vormittag tauchen Sie in die industrielle Vergangenheit im Munktell Museum ein, gefolgt von einem modernen Mittagessen. Der Nachmittag gehört der Kunst im Konstmuseum und dem Handwerk in Rademachersmedjorna. Schließlich radeln Sie zum entspannten Ausklang in den Rothoffsparken am Fluss, wo Sie den Tag mit einem Abendessen mit Aussicht beenden.",
         "hu": "A kerékpártúra a viking korba tett utazással kezdődik a Sigurd-faragásnál. Délelőtt merüljön el az ipari múltban a Munktell Múzeumban, majd ebédeljen egy modern étteremben. A délután a Művészeti Múzeumé és a Rademachersmedjorna kézműves műhelyeié. Végül tekerjen el a pihentető Rothoffsparkenbe a folyóparton, ahol egy kilátással egybekötött vacsorával zárja a napot.",
         "ro": "Turul cu bicicleta începe cu o călătorie în epoca vikingilor la Gravura lui Sigurd. În timpul dimineții, scufundați-vă în trecutul industrial la Muzeul Munktell, urmat de un prânz modern. După-amiaza este dedicată artei la Muzeul de Artă și meșteșugurilor la Fierăriile Rademacher. În cele din urmă, pedalați spre relaxantul Parc Rothoff de lângă râu, unde încheiați ziua cu o cină cu priveliște.",
-        "en": "Your bike tour starts with a journey to the Viking Age at the Sigurd Carving. In the morning, delve into the industrial past at the Munktell Museum, followed by a modern lunch. The afternoon is for art at the Art Museum and crafts at Rademacher Forges. Finally, cycle to the relaxing Rothoff's Park by the river, ending the day with dinner with a view."
+        "en": "Your bike tour starts with a journey to the Viking Age at the Sigurd Carving. In the morning, delve into the industrial past at the Munktell Museum, followed by a modern lunch. The afternoon is for art at the Art Museum and crafts at Rademacher Forges. Finally, cycle to the relaxing Rothoff's Park by the river, ending the day with dinner with a view.",
+        "sv": "Din cykeltur börjar med en resa till vikingatiden vid Sigurdristningen. På morgonen fördjupa dig i industrins förflutna på Munktellmuseet, följt av en modern lunch. Eftermiddagen är för konst på Konstmuseet och hantverk på Rademacher Smedjor. Avsluta med att cykla till den avslappnande Rothoffs park vid ån och avsluta dagen med middag med utsikt."
       },
       "gastro_picks": {
         "de": [
@@ -947,6 +1010,12 @@
           "Check your tire pressure and brakes before you set off.",
           "A helmet is strongly recommended.",
           "Take advantage of the well-developed bike paths along the river."
+        ],
+        "sv": [
+          "Hyra cykel från en av stadens stationer.",
+          "Kontrollera däcktryck och bromsar innan du ger dig av.",
+          "Hjälm rekommenderas starkt.",
+          "Utnyttja de välutvecklade cykelvägarna längs ån."
         ]
       },
       "variants": {
@@ -955,7 +1024,8 @@
             "de": "Die Fahrt zur Sigurd-Ritzung ist bei Regen eine sportliche Herausforderung, aber die nassen Steine wirken mystisch. Das Munktell-Museum bietet danach die nötige trockene Zuflucht für Mensch und Technik.\n\nMittags stärken Sie sich in Munktellstaden, während die Fahrräder in den überdachten Ständern warten. Das Kunstmuseum ist der ideale Ort, um den nassesten Teil des Tages im Warmen zu verbringen.\n\nDie Rademacher-Schmieden wirken bei Regen wie eine Kulisse aus einem alten schwedischen Film. Ein kurzer Stopp im Rothoff-Park zeigt die Natur in einem besonders kräftigen Grün.\n\nDen Tag beenden wir mit einem Abendessen am Fluss. Die Lichter der Brücken spiegeln sich in den Pfützen auf dem Radweg und auf der Wasseroberfläche.",
             "hu": "A Sigurd-sziklához vezető út esőben sportos kihívás, de a vizes kövek látványa misztikus erőt sugároz. A Munktell Múzeum utána biztosítja a szükséges száraz menedéket az embernek és a technikának egyaránt.\n\nDélben a Munktellstaden negyedben frissülünk fel, miközben a biciklik a fedett tárolókban pihennek. A Művészeti Múzeum ideális helyszín a nap legesősebb részének melegben való eltöltéséhez.\n\nA Rademacher kovácsműhelyek esőben olyanok, mint egy régi svéd film díszletei. Rövid megálló a Rothoff-parkban, ahol a természet ilyenkor különösen élénk zöld színeket mutat.\n\nA napot folyóparti vacsorával zárjuk. A hidak fényei megcsillannak a kerékpárút tócsáiban és a folyó felszínén.",
             "ro": "Drumul spre sculptura Sigurd este o provocare sportivă pe ploaie, dar pietrele ude par mistice. Muzeul Munktell oferă apoi refugiul uscat necesar pentru om și tehnologie.\n\nLa prânz ne refacem în Munktellstaden, în timp ce bicicletele așteaptă în rastelurile acoperite. Muzeul de Artă este locul ideal pentru a petrece cea mai ploioasă parte a zilei la căldură.\n\nFierăriile Rademacher par a fi un decor dintr-un film suedez vechi pe timp de ploaie. O scurtă oprire în parcul Rothoff arată natura într-un verde deosebit de intens.\n\nÎncheiem ziua cu o cină lângă râu. Luminile podurilor se oglindesc în bălțile de pe pista de biciclete și pe suprafața apei.",
-            "en": "The ride to the Sigurd Carving is a sporting challenge in the rain, but the wet stones look mystical. The Munktell Museum then offers the necessary dry sanctuary for both people and technology.\n\nRefuel in Munktellstaden at noon while the bikes wait in covered racks. The Art Museum is the ideal place to spend the wettest part of the day in the warm.\n\nRademacher Forges look like a backdrop from an old Swedish movie in the rain. A quick stop in Rothoff's Park shows nature in a particularly vibrant green.\n\nFinish the day with dinner by the river. The bridge lights reflect in the puddles on the bike path and on the water's surface."
+            "en": "The ride to the Sigurd Carving is a sporting challenge in the rain, but the wet stones look mystical. The Munktell Museum then offers the necessary dry sanctuary for both people and technology.\n\nRefuel in Munktellstaden at noon while the bikes wait in covered racks. The Art Museum is the ideal place to spend the wettest part of the day in the warm.\n\nRademacher Forges look like a backdrop from an old Swedish movie in the rain. A quick stop in Rothoff's Park shows nature in a particularly vibrant green.\n\nFinish the day with dinner by the river. The bridge lights reflect in the puddles on the bike path and on the water's surface.",
+            "sv": "Cykelturen till Sigurdristningen är en sportig utmaning i regn, men de våta stenarna ser mystiska ut. Munktellmuseet erbjuder sedan det nödvändiga torra skyddet för både människor och teknik.\n\nFyll på energi i Munktellstaden vid lunchtid medan cyklarna väntar i täckta ställ. Konstmuseet är den perfekta platsen att tillbringa dagens blötaste timmar i värmen.\n\nRademacher Smedjor ser ut som en scen ur en gammal svensk film i regn. Ett snabbt stopp i Rothoffs park visar naturen i ett särskilt livfullt grönt.\n\nAvsluta dagen med middag vid ån. Broarnas ljus speglar sig i pölarna på cykelbanan och på vattenytan."
           },
           "stops": [
             {
@@ -964,7 +1034,8 @@
                 "de": "Vorsicht, Steine können rutschig sein.",
                 "hu": "Vigyázat, a kövek csúszósak lehetnek.",
                 "ro": "Atenție, pietrele pot fi alunecoase.",
-                "en": "Caution, stones can be slippery."
+                "en": "Caution, stones can be slippery.",
+                "sv": "Varning, stenar kan vara hala."
               }
             },
             {
@@ -973,7 +1044,8 @@
                 "de": "Sichere Fahrradständer direkt am Eingang.",
                 "hu": "Biztonságos biciklitárolók a bejáratnál.",
                 "ro": "Rasteluri sigure chiar la intrare.",
-                "en": "Secure bike racks right at the entrance."
+                "en": "Secure bike racks right at the entrance.",
+                "sv": "Säkra cykelställ precis vid entrén."
               }
             },
             {
@@ -982,7 +1054,8 @@
                 "de": "Wählen Sie einen Platz am Fenster zum Fluss.",
                 "hu": "Válasszon ablak melletti helyet a folyónál.",
                 "ro": "Alegeți un loc la fereastră spre râu.",
-                "en": "Choose a window seat by the river."
+                "en": "Choose a window seat by the river.",
+                "sv": "Välj fönsterplats vid ån."
               }
             },
             {
@@ -991,7 +1064,8 @@
                 "de": "Nutzen Sie den Trockenraum für Regenjacken.",
                 "hu": "Használja a szárítót a kabátoknak.",
                 "ro": "Folosiți uscătoria pentru jachete.",
-                "en": "Use the drying area for rain jackets."
+                "en": "Use the drying area for rain jackets.",
+                "sv": "Använd torkområdet för regnjackor."
               }
             },
             {
@@ -1000,7 +1074,8 @@
                 "de": "Schmale Gassen erfordern langsames Fahren.",
                 "hu": "A szűk utcák lassabb tempót igényelnek.",
                 "ro": "Străzile înguste necesită viteză redusă.",
-                "en": "Narrow alleys require slow riding."
+                "en": "Narrow alleys require slow riding.",
+                "sv": "Trånga gränder kräver långsam körning."
               }
             },
             {
@@ -1009,7 +1084,8 @@
                 "de": "Kurzer Aufenthalt, Wege sind befestigt.",
                 "hu": "Rövid megálló, az utak burkoltak.",
                 "ro": "Oprire scurtă, aleile sunt pavate.",
-                "en": "Short stop, paths are paved."
+                "en": "Short stop, paths are paved.",
+                "sv": "Kort stopp, gångvägarna är belagda."
               }
             },
             {
@@ -1018,7 +1094,8 @@
                 "de": "Wärmendes Essen nach der nassen Fahrt.",
                 "hu": "Melengető étel a vizes út után.",
                 "ro": "Mâncare caldă după drumul ud.",
-                "en": "Warming food after the wet ride."
+                "en": "Warming food after the wet ride.",
+                "sv": "Värmande mat efter den blöta turen."
               }
             }
           ],
@@ -1046,6 +1123,12 @@
               "Mudguards on the bike are a must.",
               "Be careful on wet cobblestones.",
               "Check chain lubrication after the ride."
+            ],
+            "sv": [
+              "Fullt regnskydd rekommenderas.",
+              "Skärmar på cykeln är ett måste.",
+              "Var försiktig på blöta kullerstenar.",
+              "Kontrollera kedjesmörjning efter turen."
             ]
           }
         },
@@ -1054,7 +1137,8 @@
             "de": "Die Winterfahrt zur Sigurd-Ritzung erfordert gute Reifen und Ausdauer gegen den kalten Wind. Das Munktell-Museum ist danach die perfekte warme Belohnung für den sportlichen Einsatz.\n\nMittags genießen wir die industrielle Atmosphäre in Munktellstaden bei einem warmen Getränk. Das Kunstmuseum bietet eine willkommene Pause in lichtdurchfluteten, beheizten Hallen.\n\nDie Rademacher-Schmieden glitzern im Frost und wirken besonders authentisch. Eine kurze Fahrt durch den Rothoff-Park zeigt die Stille der schwedischen Winterlandschaft im Stadtzentrum.\n\nDer Tag endet mit einem gemütlichen Abendessen am Fluss. Die Dunkelheit wird durch die Stadtbeleuchtung und die Reflexionen des Schnees erhellt, was der Stadt einen klaren Glanz verleiht.",
             "hu": "A téli út a Sigurd-sziklához jó gumikat és kitartást igényel a hideg széllel szemben. A Munktell Múzeum utána tökéletes meleg jutalom a sportos teljesítményért.\n\nDélben a Munktellstaden ipari hangulatát élvezzük egy forró ital mellett. A Művészeti Múzeum szívesen látott pihenőt nyújt a fénnyel teli, fűtött csarnokaiban.\n\nA Rademacher kovácsműhelyek csillognak a dértől és különösen hitelesnek hatnak. Rövid tekerés a Rothoff-parkon át megmutatja a svéd téli táj csendjét a városközpontban.\n\nA nap hangulatos folyóparti vacsorával zárul. A sötétet a városi fények és a hó csillogása töri meg, ami tiszta ragyogást kölcsönöz a városnak.",
             "ro": "Drumul de iarnă spre sculptura Sigurd necesită anvelope bune și rezistență împotriva vântului rece. Muzeul Munktell este apoi recompensa caldă perfectă pentru efortul sportiv.\n\nLa prânz ne bucurăm de atmosfera industrială din Munktellstaden cu o băutură caldă. Muzeul de Artă oferă o pauză binevenită în sălile sale încălzite și pline de lumină.\n\nFierăriile Rademacher sclipesc sub promoroacă și par extrem de autentice. O scurtă plimbare prin parcul Rothoff arată liniștea peisajului suedez de iarnă în centrul orașului.\n\nZiua se încheie cu o cină primitoare lângă râu. Întunericul este luminat de iluminatul urban și reflexiile zăpezii, ceea ce conferă orașului o strălucire clară.",
-            "en": "The winter ride to Sigurd Carving requires good tires and endurance against the cold wind. The Munktell Museum is the perfect warm reward for your sporting efforts afterwards.\n\nEnjoy the industrial atmosphere in Munktellstaden at noon with a warm drink. The Art Museum offers a welcome break in its light-filled, heated halls.\n\nRademacher Forges glisten in the frost and look particularly authentic. A short ride through Rothoff's Park shows the silence of the Swedish winter landscape in the city center.\n\nEnd the day with a cozy dinner by the river. The darkness is brightened by city lights and snow reflections, giving the city a clear glow."
+            "en": "The winter ride to Sigurd Carving requires good tires and endurance against the cold wind. The Munktell Museum is the perfect warm reward for your sporting efforts afterwards.\n\nEnjoy the industrial atmosphere in Munktellstaden at noon with a warm drink. The Art Museum offers a welcome break in its light-filled, heated halls.\n\nRademacher Forges glisten in the frost and look particularly authentic. A short ride through Rothoff's Park shows the silence of the Swedish winter landscape in the city center.\n\nEnd the day with a cozy dinner by the river. The darkness is brightened by city lights and snow reflections, giving the city a clear glow.",
+            "sv": "Vintercykelturen till Sigurdristningen kräver bra däck och uthållighet mot kall vind. Munktellmuseet är den perfekta varma belöningen efter dina ansträngningar.\n\nNjut av industrikänslan i Munktellstaden vid lunchtid med en varm dryck. Konstmuseet erbjuder en välkommen paus i sina ljusfyllda, uppvärmda salar.\n\nRademacher Smedjor glittrar i frosten och ser särskilt autentiska ut. En kort tur genom Rothoffs park visar tystnaden i det svenska vinterlandskapet i stadens centrum.\n\nAvsluta dagen med en mysig middag vid ån. Mörkret ljusnar av stadens lampor och snöreflektioner, vilket ger staden ett klart sken."
           },
           "stops": [
             {
@@ -1063,7 +1147,8 @@
                 "de": "Spikes am Fahrrad sind hier sehr nützlich.",
                 "hu": "A szöges gumik itt nagyon hasznosak.",
                 "ro": "Anvelopele cu ținte sunt foarte utile aici.",
-                "en": "Studded tires are very useful here."
+                "en": "Studded tires are very useful here.",
+                "sv": "Dubbdäck är mycket användbara här."
               }
             },
             {
@@ -1072,7 +1157,8 @@
                 "de": "Hervorragende Heizung im gesamten Museum.",
                 "hu": "Kiváló fűtés az egész múzeumban.",
                 "ro": "Încălzire excelentă în tot muzeul.",
-                "en": "Excellent heating throughout the museum."
+                "en": "Excellent heating throughout the museum.",
+                "sv": "Utmärkt uppvärmning i hela museet."
               }
             },
             {
@@ -1081,7 +1167,8 @@
                 "de": "Viele Cafés bieten wärmenden Tee an.",
                 "hu": "Sok kávézó kínál melengető teát.",
                 "ro": "Multe cafenele oferă ceai cald.",
-                "en": "Many cafés offer warming tea."
+                "en": "Many cafés offer warming tea.",
+                "sv": "Många caféer erbjuder värmande te."
               }
             },
             {
@@ -1090,7 +1177,8 @@
                 "de": "Ideal, um die kälteste Zeit des Tages drinnen zu verbringen.",
                 "hu": "Ideális a nap leghidegebb részét bent tölteni.",
                 "ro": "Ideal pentru a petrece cea mai rece parte a zilei în interior.",
-                "en": "Ideal for spending the coldest part of the day indoors."
+                "en": "Ideal for spending the coldest part of the day indoors.",
+                "sv": "Perfekt för att tillbringa den kallaste delen av dagen inomhus."
               }
             },
             {
@@ -1099,7 +1187,8 @@
                 "de": "Beleuchtung macht den Ort am Nachmittag magisch.",
                 "hu": "A kivilágítás mágikussá teszi a helyet délután.",
                 "ro": "Iluminatul face locul magic după-amiaza.",
-                "en": "Lighting makes the place magical in the afternoon."
+                "en": "Lighting makes the place magical in the afternoon.",
+                "sv": "Belysningen gör platsen magisk på eftermiddagen."
               }
             },
             {
@@ -1108,7 +1197,8 @@
                 "de": "Kurzer Stopp, um die Kälte zu genießen.",
                 "hu": "Rövid megálló a hideg élvezetéhez.",
                 "ro": "Oprire scurtă pentru a savura frigul.",
-                "en": "Short stop to enjoy the cold."
+                "en": "Short stop to enjoy the cold.",
+                "sv": "Kort stopp för att njuta av kylan."
               }
             },
             {
@@ -1117,7 +1207,8 @@
                 "de": "Achten Sie auf Glatteis beim Parken des Rads.",
                 "hu": "Figyeljen a jegesedésre a bicikli leállításakor.",
                 "ro": "Atenție la gheață când parcați bicicleta.",
-                "en": "Watch out for ice when parking the bike."
+                "en": "Watch out for ice when parking the bike.",
+                "sv": "Se upp för is när du parkerar cykeln."
               }
             }
           ],
@@ -1145,6 +1236,12 @@
               "Wear windproof gloves.",
               "Strong front and back lights are a must.",
               "E-bike battery lasts shorter in the cold."
+            ],
+            "sv": [
+              "Dubbdäck är standard i Sverige.",
+              "Använd vindtäta handskar.",
+              "Starka fram- och baklysen är ett måste.",
+              "Elcykelns batteri räcker kortare i köld."
             ]
           }
         }
@@ -1163,7 +1260,8 @@
             "de": "Parken Zoo (Cluster 1)",
             "hu": "Parken Állatkert (1. klaszter)",
             "ro": "Grădina Zoologică Parken (Cluster 1)",
-            "en": "Parken Zoo (Cluster 1)"
+            "en": "Parken Zoo (Cluster 1)",
+            "sv": "Parken Zoo (Klustret 1)"
           },
           "coords": [
             16.488,
@@ -1178,7 +1276,8 @@
             "de": "Kommen Sie früh an, um die Tiere bei der Fütterung zu beobachten. Parken Sie hier für den Vormittag.",
             "hu": "Érkezzen korán, hogy láthassa az állatok etetését. Parkoljon itt a délelőttre.",
             "ro": "Ajungeți devreme pentru a observa hrănirea animalelor. Parcați aici pentru dimineață.",
-            "en": "Arrive early to watch the animal feedings. Park here for the morning."
+            "en": "Arrive early to watch the animal feedings. Park here for the morning.",
+            "sv": "Kom tidigt för att se djurfodringarna. Parkera här för förmiddagen."
           }
         },
         {
@@ -1186,7 +1285,8 @@
             "de": "Mittagessen in der Nähe des Zoos",
             "hu": "Ebéd az állatkert közelében",
             "ro": "Prânz lângă Grădina Zoologică",
-            "en": "Lunch near the Zoo"
+            "en": "Lunch near the Zoo",
+            "sv": "Lunch nära Zoo"
           },
           "coords": [
             16.489,
@@ -1202,7 +1302,8 @@
             "de": "Es gibt mehrere familienfreundliche Restaurants nur einen kurzen Spaziergang vom Zoo entfernt.",
             "hu": "Több családbarát étterem is található egy rövid sétára az állatkerttől.",
             "ro": "Există mai multe restaurante potrivite pentru familii la o scurtă plimbare de grădina zoologică.",
-            "en": "There are several family-friendly restaurants just a short walk from the zoo."
+            "en": "There are several family-friendly restaurants just a short walk from the zoo.",
+            "sv": "Det finns flera familjevänliga restauranger en kort promenad från zooet."
           }
         },
         {
@@ -1210,7 +1311,8 @@
             "de": "Munktell Museum (Cluster 2)",
             "hu": "Munktell Múzeum (2. klaszter)",
             "ro": "Muzeul Munktell (Cluster 2)",
-            "en": "Munktell Museum (Cluster 2)"
+            "en": "Munktell Museum (Cluster 2)",
+            "sv": "Munktellmuseet (Klustret 2)"
           },
           "coords": [
             16.502,
@@ -1226,7 +1328,8 @@
             "de": "Parken Sie auf dem großen Parkplatz und erkunden Sie das gesamte Munktellstaden-Gebiet zu Fuß.",
             "hu": "Parkoljon a nagy parkolóban, és fedezze fel gyalog az egész Munktellstaden területét.",
             "ro": "Parcați în parcarea mare și explorați întreaga zonă Munktellstaden pe jos.",
-            "en": "Park in the large lot and explore the entire Munktellstaden area on foot."
+            "en": "Park in the large lot and explore the entire Munktellstaden area on foot.",
+            "sv": "Parkera på den stora parkeringen och utforska hela Munktellstaden till fots."
           }
         },
         {
@@ -1234,7 +1337,8 @@
             "de": "Eskilstuna Konstmuseum",
             "hu": "Eskilstuna Művészeti Múzeum",
             "ro": "Muzeul de Artă Eskilstuna",
-            "en": "Eskilstuna Art Museum"
+            "en": "Eskilstuna Art Museum",
+            "sv": "Eskilstuna Konstmuseum"
           },
           "coords": [
             16.507,
@@ -1250,7 +1354,8 @@
             "de": "Ein kurzer Spaziergang über die Brücke vom Munktell-Gebiet.",
             "hu": "Egy rövid séta a hídon át a Munktell területről.",
             "ro": "O scurtă plimbare peste pod din zona Munktell.",
-            "en": "A short walk across the bridge from the Munktell area."
+            "en": "A short walk across the bridge from the Munktell area.",
+            "sv": "En kort promenad över bron från Munktellområdet."
           }
         },
         {
@@ -1258,7 +1363,8 @@
             "de": "Rademachersmedjorna (Cluster 3)",
             "hu": "Rademacher kovácsműhelyek (3. klaszter)",
             "ro": "Fierăriile Rademacher (Cluster 3)",
-            "en": "Rademacher Forges (Cluster 3)"
+            "en": "Rademacher Forges (Cluster 3)",
+            "sv": "Rademachersmedjorna (Klustret 3)"
           },
           "coords": [
             16.5113,
@@ -1274,7 +1380,8 @@
             "de": "Finden Sie einen Parkplatz in der Nähe und tauchen Sie in die Geschichte ein.",
             "hu": "Találjon egy közeli parkolót, és merüljön el a történelemben.",
             "ro": "Găsiți o parcare în apropiere și scufundați-vă în istorie.",
-            "en": "Find a nearby parking spot and immerse yourself in history."
+            "en": "Find a nearby parking spot and immerse yourself in history.",
+            "sv": "Hitta en närliggande parkeringsplats och fördjupa dig i historien."
           }
         },
         {
@@ -1282,7 +1389,8 @@
             "de": "Eskilstuna Stadtmuseum",
             "hu": "Eskilstuna Városi Múzeum",
             "ro": "Muzeul Orașului Eskilstuna",
-            "en": "Eskilstuna City Museum"
+            "en": "Eskilstuna City Museum",
+            "sv": "Eskilstuna stadsmuseum"
           },
           "coords": [
             16.5102,
@@ -1298,7 +1406,8 @@
             "de": "Ein kurzer Spaziergang, um das Äußere zu bewundern, da das Museum möglicherweise bereits schließt.",
             "hu": "Egy rövid séta a külső megcsodálására, mivel a múzeum valószínűleg már bezár.",
             "ro": "O scurtă plimbare pentru a admira exteriorul, deoarece muzeul s-ar putea să se închidă deja.",
-            "en": "A quick walk to admire the exterior as the museum may be closing."
+            "en": "A quick walk to admire the exterior as the museum may be closing.",
+            "sv": "En snabb promenad för att beundra exteriören då museet kan stänga."
           }
         },
         {
@@ -1306,7 +1415,8 @@
             "de": "Sigurdsristningen (Optionaler Abstecher)",
             "hu": "Sigurd-ristning (Opcionális kitérő)",
             "ro": "Gravura lui Sigurd (Ocol opțional)",
-            "en": "Sigurd Carving (Optional Detour)"
+            "en": "Sigurd Carving (Optional Detour)",
+            "sv": "Sigurdskulpturen (Valfri omväg)"
           },
           "coords": [
             16.425,
@@ -1322,7 +1432,8 @@
             "de": "Planen Sie dies für das Ende des Tages ein, um den Sonnenuntergang an diesem historischen Ort zu erleben.",
             "hu": "Tervezze ezt a nap végére, hogy megnézhesse a naplementét ezen a történelmi helyen.",
             "ro": "Planificați acest lucru pentru sfârșitul zilei pentru a prinde apusul la acest sit istoric.",
-            "en": "Plan this for the end of the day to catch the sunset at this historic site."
+            "en": "Plan this for the end of the day to catch the sunset at this historic site.",
+            "sv": "Planera detta mot slutet av dagen för att fånga solnedgången vid denna historiska plats."
           }
         },
         {
@@ -1330,7 +1441,8 @@
             "de": "Abendessen",
             "hu": "Vacsora",
             "ro": "Cină",
-            "en": "Dinner"
+            "en": "Dinner",
+            "sv": "Middag"
           },
           "coords": [
             16.51,
@@ -1346,7 +1458,8 @@
             "de": "Kehren Sie ins Stadtzentrum zurück, um eine größere Auswahl an Restaurants zu finden.",
             "hu": "Térjen vissza a városközpontba a nagyobb étteremválasztékért.",
             "ro": "Întoarceți-vă în centrul orașului pentru o selecție mai largă de restaurante.",
-            "en": "Return to the city center for a wider selection of restaurants."
+            "en": "Return to the city center for a wider selection of restaurants.",
+            "sv": "Återvänd till stadskärnan för ett större urval av restauranger."
           }
         }
       ],
@@ -1354,7 +1467,8 @@
         "de": "Beginnen Sie Ihren Tag im Parken Zoo, dem ersten Cluster. Nach einem gemütlichen Mittagessen fahren Sie zum zweiten Cluster, dem modernen Munktellstaden, wo Sie das Munktell Museum und das Kunstmuseum zu Fuß erkunden. Am späten Nachmittag fahren Sie zum dritten Cluster, dem historischen Herzen der Stadt, um Rademachersmedjorna zu besichtigen. Optional können Sie den Tag mit einem Abstecher zur Sigurdsristningen beenden, um einen Hauch von Wikinger-Magie zu erleben.",
         "hu": "Kezdje a napot a Parken Állatkertben, az első klaszterben. Egy kellemes ebéd után hajtson át a második klaszterbe, a modern Munktellstadenbe, ahol gyalog fedezheti fel a Munktell Múzeumot és a Művészeti Múzeumot. Késő délután vezessen a harmadik klaszterbe, a város történelmi szívébe, hogy meglátogassa a Rademachersmedjornát. Opcionálisan a napot egy kitérővel zárhatja a Sigurd-faragáshoz egy kis viking varázslatért.",
         "ro": "Începeți ziua la Grădina Zoologică Parken, primul cluster. După un prânz relaxant, conduceți la al doilea cluster, modernul Munktellstaden, pentru a explora pe jos Muzeul Munktell și Muzeul de Artă. Spre sfârșitul după-amiezii, conduceți la al treilea cluster, inima istorică a orașului, pentru a vizita Fierăriile Rademacher. Opțional, încheiați ziua cu un ocol la Gravura lui Sigurd pentru o notă de magie vikingă.",
-        "en": "Start your day at Parken Zoo, the first cluster. After a leisurely lunch, drive to the second cluster, the modern Munktellstaden, to explore the Munktell Museum and the Art Museum on foot. In the late afternoon, drive to the third cluster, the city's historic heart, to visit Rademacher Forges. Optionally, end the day with a detour to the Sigurd Carving for a touch of Viking magic."
+        "en": "Start your day at Parken Zoo, the first cluster. After a leisurely lunch, drive to the second cluster, the modern Munktellstaden, to explore the Munktell Museum and the Art Museum on foot. In the late afternoon, drive to the third cluster, the city's historic heart, to visit Rademacher Forges. Optionally, end the day with a detour to the Sigurd Carving for a touch of Viking magic.",
+        "sv": "Börja dagen på Parken Zoo, det första klustret. Efter en lugn lunch kör du till det andra klustret, det moderna Munktellstaden, för att utforska Munktellmuseet och konstmuseet till fots. Sent på eftermiddagen kör du till det tredje klustret, stadens historiska hjärta, för att besöka Rademachersmedjorna. Avsluta dagen eventuellt med en omväg till Sigurdskulpturen för en touch av vikingamagik."
       },
       "gastro_picks": {
         "de": [
@@ -1550,6 +1664,12 @@
           "Download an offline map in case mobile service is poor outside the city.",
           "Pay attention to speed limits, especially in residential areas.",
           "Most parking meters accept only cards or apps."
+        ],
+        "sv": [
+          "Parkering i stadskärnan kan vara dyr; använd parkeringarna vid klustren.",
+          "Ladda ner en offlinekarta ifall mobiltäckningen är dålig utanför staden.",
+          "Följ hastighetsbegränsningarna, särskilt i bostadsområden.",
+          "De flesta parkeringsautomater tar endast kort eller appar."
         ]
       },
       "variants": {
@@ -1558,7 +1678,8 @@
             "de": "Ein Besuch im Parken Zoo ist auch bei Regen möglich, da viele Tierhäuser und Wege überdacht sind. Danach wärmen wir uns bei einem gemütlichen Mittagessen in der Nähe auf.\n\nMittags besuchen wir das Munktell-Museum, ein Highlight für Technikfans in trockener Umgebung. Das Kunstmuseum bietet danach kulturelle Abwechslung in weitläufigen Hallen.\n\nDie Rademacher-Schmieden erkunden wir zwischen den Regenschauern. Ein kurzer Blick auf das Stadtmuseum direkt im Zentrum rundet das kulturelle Nachmittagsprogramm ab.\n\nDen Abend krönen wir mit einer Fahrt zur Sigurd-Ritzung in der Dämmerung, die man auch aus dem Auto gut sehen kann. Den Tag lassen wir bei einem Abendessen in einem Restaurant mit Parkhausanschluss ausklingen.",
             "hu": "A Parken Zoo látogatása esőben is lehetséges, mivel sok állatház és útvonal fedett. Utána egy kellemes ebéddel melegedünk fel a közelben.\n\nDélben a Munktell Múzeumba látogatunk, amely a technika rajongóinak kínál száraz és izgalmas környezetet. A Művészeti Múzeum utána kulturális kikapcsolódást nyújt tágas csarnokaiban.\n\nA Rademacher kovácsműhelyeket a záporok közötti szünetekben fedezzük fel. A Városi Múzeum rövid látogatása a központban keretezi a délutáni programot.\n\nAz estét a Sigurd-sziklához vezető autózással koronázzuk meg az alkonyatban, amely az autóból is jól látható. A napot egy parkolóházzal rendelkező étteremben zárjuk.",
             "ro": "O vizită la Parken Zoo este posibilă și pe ploaie, deoarece multe adăposturi pentru animale și alei sunt acoperite. Ne încălzim apoi cu un prânz primitor în apropiere.\n\nLa prânz vizităm Muzeul Munktell, un punct culminant pentru fanii tehnologiei într-un mediu uscat. Muzeul de Artă oferă apoi diversitate culturală în săli spațioase.\n\nExplorăm fierăriile Rademacher între reprizele de ploaie. O scurtă vizită la Muzeul Orașului, situat chiar în centru, completează programul cultural de după-amiază.\n\nÎncheiem seara cu o deplasare spre sculptura Sigurd la amurg, care poate fi văzută bine și din mașină. Ziua se termină cu o cină într-un restaurant cu acces la parcare acoperită.",
-            "en": "A visit to Parken Zoo is possible even in rain, as many animal houses and paths are covered. Warm up afterwards with a cozy lunch nearby.\n\nAt noon, visit the Munktell Museum, a highlight for technology fans in a dry environment. The Art Museum offers cultural variety in expansive halls afterwards.\n\nExplore Rademacher Forges between rain showers. A quick look at the City Museum right in the center rounds off the afternoon's cultural program.\n\nCrown the evening with a drive to Sigurd Carving at dusk, which can be seen well even from the car. Finish the day with dinner at a restaurant with parking garage access."
+            "en": "A visit to Parken Zoo is possible even in rain, as many animal houses and paths are covered. Warm up afterwards with a cozy lunch nearby.\n\nAt noon, visit the Munktell Museum, a highlight for technology fans in a dry environment. The Art Museum offers cultural variety in expansive halls afterwards.\n\nExplore Rademacher Forges between rain showers. A quick look at the City Museum right in the center rounds off the afternoon's cultural program.\n\nCrown the evening with a drive to Sigurd Carving at dusk, which can be seen well even from the car. Finish the day with dinner at a restaurant with parking garage access.",
+            "sv": "Ett besök på Parken Zoo är möjligt även i regn, eftersom många djurhus och gångar är täckta. Värm er sedan med en mysig lunch i närheten.\n\nVid middagstid, besök Munktellmuseet, ett höjdpunkt för teknikintresserade i en torr miljö. Konstmuseet erbjuder kulturell omväxling i rymliga salar efteråt.\n\nUtforska Rademachersmedjorna mellan skurarna. Ett snabbt besök på Stadsmuseet mitt i centrum avrundar eftermiddagens kulturprogram.\n\nKröna kvällen med en bilresa till Sigurdskulpturen i skymningen, som ofta syns väl även från bilen. Avsluta dagen med middag på en restaurang med garageplats."
           },
           "stops": [
             {
@@ -1567,7 +1688,8 @@
                 "de": "Nutzen Sie die Indoor-Gehege bei starkem Regen.",
                 "hu": "Használja a beltéri kifutókat erős esőben.",
                 "ro": "Folosiți incintele interioare în caz de ploaie torențială.",
-                "en": "Use the indoor enclosures during heavy rain."
+                "en": "Use the indoor enclosures during heavy rain.",
+                "sv": "Använd de inomhusena vid kraftigt regn."
               }
             },
             {
@@ -1576,7 +1698,8 @@
                 "de": "Parkplätze direkt vor den Restaurants verfügbar.",
                 "hu": "Parkolók közvetlenül az éttermek előtt.",
                 "ro": "Locuri de parcare disponibile chiar în fața restaurantelor.",
-                "en": "Parking spaces available right in front of the restaurants."
+                "en": "Parking spaces available right in front of the restaurants.",
+                "sv": "Parkeringsplatser finns precis utanför restaurangerna."
               }
             },
             {
@@ -1585,7 +1708,8 @@
                 "de": "Perfekt für regnerische Stunden.",
                 "hu": "Tökéletes esős órákra.",
                 "ro": "Perfect pentru orele ploioase.",
-                "en": "Perfect for rainy hours."
+                "en": "Perfect for rainy hours.",
+                "sv": "Perfekt för regniga timmar."
               }
             },
             {
@@ -1594,7 +1718,8 @@
                 "de": "Hintereingang oft näher am Parkplatz.",
                 "hu": "A hátsó bejárat gyakran közelebb van a parkolóhoz.",
                 "ro": "Intrarea din spate este adesea mai aproape de parcare.",
-                "en": "Back entrance is often closer to the parking lot."
+                "en": "Back entrance is often closer to the parking lot.",
+                "sv": "Bakre ingång är ofta närmare parkeringen."
               }
             },
             {
@@ -1603,7 +1728,8 @@
                 "de": "Kurze Wege zwischen den historischen Gebäuden.",
                 "hu": "Rövid utak a történelmi épületek között.",
                 "ro": "Distanțe scurte între clădirile istorice.",
-                "en": "Short walks between the historic buildings."
+                "en": "Short walks between the historic buildings.",
+                "sv": "Korta promenader mellan de historiska byggnaderna."
               }
             },
             {
@@ -1612,7 +1738,8 @@
                 "de": "Trockener Stopp direkt im Stadtzentrum.",
                 "hu": "Száraz megálló közvetlenül a városközpontban.",
                 "ro": "Oprire la adăpost chiar în centrul orașului.",
-                "en": "Dry stop right in the city center."
+                "en": "Dry stop right in the city center.",
+                "sv": "Torrt stopp mitt i centrum."
               }
             },
             {
@@ -1621,7 +1748,8 @@
                 "de": "Bleiben Sie bei starkem Regen im Auto und genießen die Sicht.",
                 "hu": "Erős esőben maradjon az autóban és élvezze a látványt.",
                 "ro": "Rămâneți în mașină în caz de ploaie și admirați priveliștea.",
-                "en": "Stay in the car during heavy rain and enjoy the view."
+                "en": "Stay in the car during heavy rain and enjoy the view.",
+                "sv": "Stanna i bilen vid kraftigt regn och njut av utsikten."
               }
             },
             {
@@ -1630,7 +1758,8 @@
                 "de": "Parkhaus in der Nähe für trockenes Aussteigen nutzen.",
                 "hu": "Használja a közeli parkolóházat a száraz kiszálláshoz.",
                 "ro": "Folosiți parcarea acoperită din apropiere pentru a coborî la uscat.",
-                "en": "Use a nearby parking garage for a dry exit."
+                "en": "Use a nearby parking garage for a dry exit.",
+                "sv": "Använd ett närliggande parkeringsgarage för en torr utgång."
               }
             }
           ],
@@ -1658,6 +1787,12 @@
               "Use the EasyPark app.",
               "Keep an umbrella handy in the car.",
               "Watch out for aquaplaning on country roads."
+            ],
+            "sv": [
+              "Många parkeringsplatser i Eskilstuna är tidsbegränsade.",
+              "Använd EasyPark-appen.",
+              "Ha ett paraply i bilen.",
+              "Se upp för vattenplaning på landsvägar."
             ]
           }
         },
@@ -1666,7 +1801,8 @@
             "de": "Im Parken Zoo erleben wir eine winterliche Stille, in der besonders die nordischen Tiere aktiv sind. Das Mittagessen bietet eine wohlverdiente warme Pause nach dem Zoospaziergang.\n\nMittags tauchen wir im Munktell-Museum in die Welt der Traktoren und Maschinen ein. Das Kunstmuseum ist danach ein heller Rückzugsort vor der klirrenden Kälte draußen.\n\nDie Rademacher-Schmieden sind im Winter dekorativ beleuchtet und wirken besonders einladend. Ein kurzer Besuch im Stadtmuseum wärmt zwischendurch auf, bevor die Fahrt weitergeht.\n\nDer Abendausflug zur Sigurd-Ritzung zeigt das historische Denkmal oft im sanften Mondlicht auf dem Schnee. Den Tag schließen wir mit einem festlichen Abendessen in der beleuchteten Innenstadt ab.",
             "hu": "A Parken Zooban téli csend fogad, ahol különösen az északi állatok mutatják aktív arcukat. Az ebéd megérdemelt meleg pihenőt nyújt az állatkerti séta után.\n\nDélben a Munktell Múzeumban merülünk el a traktorok és gépek világában. A Művészeti Múzeum utána világos menedéket kínál a kinti csípős hideg elől.\n\nA Rademacher kovácsműhelyek télen díszes kivilágítást kapnak és hívogatóan hatnak. A Városi Múzeum rövid látogatása közben jól átmelegedhetünk, mielőtt továbbhajtanánk.\n\nAz esti kirándulás a Sigurd-sziklához a történelmi emléket gyakran lágy holdfényben mutatja a havon. A napot ünnepi vacsorával zárjuk a kivilágított belvárosban.",
             "ro": "La Parken Zoo experimentăm o liniște hibernală, unde în special animalele nordice sunt active. Prânzul oferă o pauză caldă binemeritată după plimbarea prin grădina zoologică.\n\nLa prânz ne cufundăm în lumea tractoarelor și a utilajelor la Muzeul Munktell. Muzeul de Artă este apoi un refugiu luminos împotriva frigului tăios de afară.\n\nFierăriile Rademacher sunt luminate decorativ iarna și par extrem de primitoare. O scurtă vizită la Muzeul Orașului ne încălzește între timp, înainte de a continua drumul.\n\nExcursia de seară la sculptura Sigurd arată monumentul istoric adesea sub lumina blândă a lunii pe zăpadă. Încheiem ziua cu o cină festivă în centrul orașului iluminat.",
-            "en": "At Parken Zoo, we experience a winter silence where Nordic animals are particularly active. Lunch provides a well-deserved warm break after the zoo walk.\n\nAt noon, dive into the world of tractors and machines at the Munktell Museum. The Art Museum is a bright retreat from the biting cold outside afterwards.\n\nRademacher Forges are decoratively lit in winter and look especially welcoming. A quick visit to the City Museum warms you up in between before continuing the drive.\n\nAn evening trip to Sigurd Carving often shows the historical monument in soft moonlight on the snow. Close the day with a festive dinner in the illuminated city center."
+            "en": "At Parken Zoo, we experience a winter silence where Nordic animals are particularly active. Lunch provides a well-deserved warm break after the zoo walk.\n\nAt noon, dive into the world of tractors and machines at the Munktell Museum. The Art Museum is a bright retreat from the biting cold outside afterwards.\n\nRademacher Forges are decoratively lit in winter and look especially welcoming. A quick visit to the City Museum warms you up in between before continuing the drive.\n\nAn evening trip to Sigurd Carving often shows the historical monument in soft moonlight on the snow. Close the day with a festive dinner in the illuminated city center.",
+            "sv": "På Parken Zoo upplever vi en vintrig tystnad där nordiska djur är särskilt aktiva. Lunchen ger en välförtjänst varm paus efter zoologiska promenaden.\n\nVid middagstid, dyker vi in i traktorer och maskiners värld på Munktellmuseet. Konstmuseet är sedan en ljus tillflykt från den bitande kylan utomhus.\n\nRademachersmedjorna är dekorativt belysta på vintern och ser extra välkomnande ut. Ett snabbt besök på Stadsmuseet värmer upp mellan rundorna innan fortsatt bilfärd.\n\nEn kvällstur till Sigurdskulpturen visar ofta monumentet i mjukt månljus på snön. Avsluta dagen med en festlig middag i den upplysta stadskärnan."
           },
           "stops": [
             {
@@ -1675,7 +1811,8 @@
                 "de": "Warm anziehen, da man viel draußen geht.",
                 "hu": "Öltözzön melegen, mert sokat kell kint gyalogolni.",
                 "ro": "Îmbrăcați-vă bine, deoarece veți merge mult pe afară.",
-                "en": "Dress warmly as you will walk outside a lot."
+                "en": "Dress warmly as you will walk outside a lot.",
+                "sv": "Klär dig varmt eftersom du kommer att gå ut mycket."
               }
             },
             {
@@ -1684,7 +1821,8 @@
                 "de": "Sitzplätze nah an der Heizung bevorzugen.",
                 "hu": "Részesítse előnyben a fűtés melletti helyeket.",
                 "ro": "Preferați locurile de lângă calorifer.",
-                "en": "Prefer seats near the heater."
+                "en": "Prefer seats near the heater.",
+                "sv": "Föredra platser nära värmaren."
               }
             },
             {
@@ -1693,7 +1831,8 @@
                 "de": "Große Garderobe für dicke Winterjacken.",
                 "hu": "Nagy ruhatár a vastag télikabátoknak.",
                 "ro": "Garderobă mare pentru haine groase de iarnă.",
-                "en": "Large cloakroom for thick winter jackets."
+                "en": "Large cloakroom for thick winter jackets.",
+                "sv": "Stor garderob för tjocka vinterjackor."
               }
             },
             {
@@ -1702,7 +1841,8 @@
                 "de": "Lichtdurchflutete Räume heben die Stimmung.",
                 "hu": "A fényárban úszó termek javítják a hangulatot.",
                 "ro": "Sălile pline de lumină îmbunătățesc starea de spirit.",
-                "en": "Light-filled rooms lift the mood."
+                "en": "Light-filled rooms lift the mood.",
+                "sv": "Ljusfyllda rum höjer humöret."
               }
             },
             {
@@ -1711,7 +1851,8 @@
                 "de": "Vorsicht, Kopfsteinpflaster kann glatt sein.",
                 "hu": "Vigyázat, a macskakő csúszós lehet.",
                 "ro": "Atenție, pavajul poate fi alunecos.",
-                "en": "Caution, cobblestones can be slippery."
+                "en": "Caution, cobblestones can be slippery.",
+                "sv": "Varning, kullersten kan vara hal."
               }
             },
             {
@@ -1720,7 +1861,8 @@
                 "de": "Kurzer, barrierefreier Weg vom Parkplatz.",
                 "hu": "Rövid, akadálymentes út a parkolótól.",
                 "ro": "Drum scurt și accesibil de la parcare.",
-                "en": "Short, accessible path from the parking lot."
+                "en": "Short, accessible path from the parking lot.",
+                "sv": "Kort, tillgänglig väg från parkeringen."
               }
             },
             {
@@ -1729,7 +1871,8 @@
                 "de": "Weg kann bei viel Schnee schwer zugänglich sein.",
                 "hu": "Sok hó esetén az út nehezen járható lehet.",
                 "ro": "Drumul poate fi greu accesibil în caz de zăpadă mare.",
-                "en": "Path may be difficult to access in heavy snow."
+                "en": "Path may be difficult to access in heavy snow.",
+                "sv": "Vägen kan vara svårframkomlig vid kraftigt snöfall."
               }
             },
             {
@@ -1738,7 +1881,8 @@
                 "de": "Vorherige Reservierung im Winter ratsam.",
                 "hu": "Télen érdemes előre asztalt foglalni.",
                 "ro": "Se recomandă rezervarea prealabilă iarna.",
-                "en": "Advance reservation advisable in winter."
+                "en": "Advance reservation advisable in winter.",
+                "sv": "Förhandsbokning rekommenderas på vintern."
               }
             }
           ],
@@ -1766,6 +1910,12 @@
               "Winter tires are legally required.",
               "Top up windshield washer fluid with antifreeze.",
               "Watch out for wildlife in the dark."
+            ],
+            "sv": [
+              "Isskrapa och snöborste är obligatoriskt.",
+              "Vinterdäck är lagstadgat krav.",
+              "Fyll på spolarvätska med frostskydd.",
+              "Se upp för vilt i mörkret."
             ]
           }
         }
@@ -1784,7 +1934,8 @@
             "de": "Hauptbahnhof (Cluster 1)",
             "hu": "Főpályaudvar (1. klaszter)",
             "ro": "Gara Centrală (Cluster 1)",
-            "en": "Central Station (Cluster 1)"
+            "en": "Central Station (Cluster 1)",
+            "sv": "Centralstationen (Klustret 1)"
           },
           "coords": [
             16.5126,
@@ -1799,7 +1950,8 @@
             "de": "Kaufen Sie eine Tageskarte für den Bus, um sich unbegrenzt fortzubewegen.",
             "hu": "Vásároljon napijegyet a buszra a korlátlan utazáshoz.",
             "ro": "Cumpărați un bilet de o zi pentru autobuz pentru călătorii nelimitate.",
-            "en": "Buy a day pass for the bus for unlimited travel."
+            "en": "Buy a day pass for the bus for unlimited travel.",
+            "sv": "Köp ett dagskort för bussen för obegränsat resande."
           }
         },
         {
@@ -1807,7 +1959,8 @@
             "de": "Rademachersmedjorna",
             "hu": "Rademacher kovácsműhelyek",
             "ro": "Fierăriile Rademacher",
-            "en": "Rademacher Forges"
+            "en": "Rademacher Forges",
+            "sv": "Rademachersmedjorna"
           },
           "coords": [
             16.5113,
@@ -1823,7 +1976,8 @@
             "de": "Ein kurzer Spaziergang vom zentralen Busbahnhof Fristadstorget.",
             "hu": "Rövid séta a Fristadstorget központi buszpályaudvartól.",
             "ro": "O scurtă plimbare de la autogara centrală Fristadstorget.",
-            "en": "A short walk from the central bus station, Fristadstorget."
+            "en": "A short walk from the central bus station, Fristadstorget.",
+            "sv": "En kort promenad från centrala busstationen, Fristadstorget."
           }
         },
         {
@@ -1831,7 +1985,8 @@
             "de": "Klosterkirche von Eskilstuna",
             "hu": "Eskilstunai kolostortemplom",
             "ro": "Biserica Mănăstirii din Eskilstuna",
-            "en": "Eskilstuna Klosterkyrka"
+            "en": "Eskilstuna Klosterkyrka",
+            "sv": "Eskilstuna Klosterkyrka"
           },
           "coords": [
             16.5165,
@@ -1847,7 +2002,8 @@
             "de": "Genießen Sie den Spaziergang durch die Innenstadt auf dem Weg hierher.",
             "hu": "Élvezze a sétát a belvároson át idefelé.",
             "ro": "Bucurați-vă de plimbarea prin centrul orașului în drum spre aici.",
-            "en": "Enjoy the walk through the city center on your way here."
+            "en": "Enjoy the walk through the city center on your way here.",
+            "sv": "Njut av promenaden genom stadskärnan på väg hit."
           }
         },
         {
@@ -1855,7 +2011,8 @@
             "de": "Munktell Museum (Cluster 2)",
             "hu": "Munktell Múzeum (2. klaszter)",
             "ro": "Muzeul Munktell (Cluster 2)",
-            "en": "Munktell Museum (Cluster 2)"
+            "en": "Munktell Museum (Cluster 2)",
+            "sv": "Munktellmuseet (Klustret 2)"
           },
           "coords": [
             16.502,
@@ -1871,7 +2028,8 @@
             "de": "Nehmen Sie einen Bus vom Stadtzentrum. Die Fahrt dauert nur wenige Minuten.",
             "hu": "Menjen busszal a városközpontból. Az út csak néhány percig tart.",
             "ro": "Luați un autobuz din centrul orașului. Călătoria durează doar câteva minute.",
-            "en": "Take a bus from the city center. The ride is just a few minutes."
+            "en": "Take a bus from the city center. The ride is just a few minutes.",
+            "sv": "Ta en buss från stadens centrum. Resan tar bara några minuter."
           }
         },
         {
@@ -1879,7 +2037,8 @@
             "de": "Mittagessen und Kunst",
             "hu": "Ebéd és művészet",
             "ro": "Prânz și Artă",
-            "en": "Lunch and Art"
+            "en": "Lunch and Art",
+            "sv": "Lunch och konst"
           },
           "coords": [
             16.507,
@@ -1895,7 +2054,8 @@
             "de": "Essen Sie in Munktellstaden zu Mittag und besuchen Sie dann das nahegelegene Kunstmuseum.",
             "hu": "Ebédeljen Munktellstadenben, majd látogasson el a közeli Művészeti Múzeumba.",
             "ro": "Luați prânzul în Munktellstaden, apoi vizitați Muzeul de Artă din apropiere.",
-            "en": "Have lunch in Munktellstaden, then visit the Art Museum nearby."
+            "en": "Have lunch in Munktellstaden, then visit the Art Museum nearby.",
+            "sv": "Ät lunch i Munktellstaden, besök sedan konstmuseet i närheten."
           }
         },
         {
@@ -1903,7 +2063,8 @@
             "de": "Parken Zoo (Cluster 3)",
             "hu": "Parken Állatkert (3. klaszter)",
             "ro": "Grădina Zoologică Parken (Cluster 3)",
-            "en": "Parken Zoo (Cluster 3)"
+            "en": "Parken Zoo (Cluster 3)",
+            "sv": "Parken Zoo (Klustret 3)"
           },
           "coords": [
             16.488,
@@ -1919,7 +2080,8 @@
             "de": "Nehmen Sie einen Bus für den letzten Teil des Tages. Überprüfen Sie die Schließzeiten des Zoos.",
             "hu": "Menjen busszal a nap utolsó részére. Ellenőrizze az állatkert zárási idejét.",
             "ro": "Luați un autobuz pentru ultima parte a zilei. Verificați orele de închidere ale grădinii zoologice.",
-            "en": "Take a bus for the last part of the day. Check the zoo's closing times."
+            "en": "Take a bus for the last part of the day. Check the zoo's closing times.",
+            "sv": "Ta buss för sista delen av dagen. Kolla zooets stängningstider."
           }
         }
       ],
@@ -1927,7 +2089,8 @@
         "de": "Ihr Tag beginnt im Herzen der Stadt, wo Sie das historische Zentrum mit Rademachersmedjorna und der Klosterkirche zu Fuß erkunden. Am Mittag nehmen Sie den Bus zum modernen Munktell-Viertel für eine Dosis Industrie- und Kunstgeschichte, kombiniert mit einem Mittagessen. Am späten Nachmittag bringt Sie ein weiterer Bus zum Parken Zoo für einen entspannten Abschluss des Tages, bevor Sie ins Zentrum zurückkehren.",
         "hu": "A nap a város szívében kezdődik, ahol gyalogosan fedezi fel a történelmi központot a Rademachersmedjornával és a kolostortemplommal. Délben busszal utazik a modern Munktell negyedbe egy adag ipar- és művészettörténetért, ebéddel egybekötve. Késő délután egy másik busz viszi el a Parken Állatkertbe a nap pihentető lezárásaként, mielőtt visszatérne a központba.",
         "ro": "Ziua începe în inima orașului, explorând pe jos centrul istoric cu Fierăriile Rademacher și Biserica Mănăstirii. La prânz, luați autobuzul spre cartierul modern Munktell pentru o doză de istorie industrială și artă, combinată cu prânzul. Spre sfârșitul după-amiezii, un alt autobuz vă va duce la Grădina Zoologică Parken pentru o încheiere relaxantă a zilei înainte de a vă întoarce în centru.",
-        "en": "Your day starts in the heart of the city, exploring the historic center on foot with Rademacher Forges and the Monastery Church. At noon, you'll take a bus to the modern Munktell district for a dose of industrial and art history, combined with lunch. In the late afternoon, another bus takes you to Parken Zoo for a relaxing end to the day before returning to the center."
+        "en": "Your day starts in the heart of the city, exploring the historic center on foot with Rademacher Forges and the Monastery Church. At noon, you'll take a bus to the modern Munktell district for a dose of industrial and art history, combined with lunch. In the late afternoon, another bus takes you to Parken Zoo for a relaxing end to the day before returning to the center.",
+        "sv": "Din dag börjar i stadens hjärta, där du utforskar den historiska kärnan till fots med Rademachersmedjorna och klosterkyrkan. Vid middagstid tar du bussen till det moderna Munktellområdet för en dos industri- och konsthistoria, kombinerat med lunch. Sent på eftermiddagen tar en annan buss dig till Parken Zoo för en avkopplande avslutning innan återresa till centrum."
       },
       "gastro_picks": {
         "de": [
@@ -2123,6 +2286,12 @@
           "A day pass is usually cheaper than multiple single trips.",
           "Be sure to signal at the stop for the bus to pull over.",
           "Not all bus lines run frequently late in the evening."
+        ],
+        "sv": [
+          "Använd en kollektivtrafikapp för att följa bussarnas tidtabeller i realtid.",
+          "Ett dagskort är vanligtvis billigare än flera enkelresor.",
+          "Se till att signalera vid hållplatsen så bussen stannar.",
+          "Inte alla busslinjer går ofta sent på kvällen."
         ]
       },
       "variants": {
@@ -2131,7 +2300,8 @@
             "de": "Vom Hauptbahnhof Eskilstuna starten wir wettergeschützt in den Tag. Die Rademacher-Schmieden sind mit einer kurzen Busfahrt schnell erreichbar, sodass man kaum im Regen stehen muss.\n\nMittags besuchen wir die Klosterkirche und danach das Munktell-Museum, die beide hervorragenden Schutz vor Schauern bieten. Ein ausgiebiges Mittagessen in Bahnhofsnähe folgt in trockener Umgebung.\n\nNachmittags steht das Kunstmuseum auf dem Plan, dessen tágas Hallen ideal für längere Indoor-Aufenthalte sind. Die Busverbindungen in Eskilstuna sind auch bei Regen zuverlässig und pünktlich.\n\nDen Tag beenden wir mit einem Besuch im Parken Zoo. Dank vieler überdachter Gehege und kurzer Wege zwischen den Gebäuden mindert der Regen den Besuchsspaß nur unwesentlich.",
             "hu": "Eskilstuna főpályaudvaráról indulunk, védve az időjárástól. A Rademacher kovácsműhelyek egy rövid buszúttal gyorsan elérhetőek, így alig kell az esőben várakoznunk.\n\nDélben a kolostortemplomot és utána a Munktell Múzeumot keressük fel, amelyek mindketten kiváló védelmet nyújtanak a záporok elől. Bőséges ebéd következik a pályaudvar közelében, száraz környezetben.\n\nDélután a Művészeti Múzeum van műsoron, amelynek tágas csarnokai ideálisak a hosszabb benti tartózkodáshoz. A buszjáratok Eskilstunában esőben is megbízhatóak és pontosak.\n\nA napot a Parken Zoo látogatásával zárjuk. A sok fedett kifutónak és az épületek közötti rövid távolságoknak köszönhetően az eső alig rontja a szórakozást.",
             "ro": "Plecăm de la gara centrală din Eskilstuna protejați de intemperii. Fierăriile Rademacher sunt rapid accesibile cu o scurtă călătorie cu autobuzul, astfel încât nu trebuie să stați în ploaie.\n\nLa prânz vizităm biserica mănăstirii și apoi Muzeul Munktell, ambele oferind protecție excelentă împotriva ploii. Urmează un prânz copios lângă gară, într-un mediu uscat.\n\nDupă-amiaza, Muzeul de Artă este pe agendă, ale cărui săli spațioase sunt ideale pentru șederi prelungite la interior. Conexiunile de autobuz din Eskilstuna sunt fiabile și punctuale chiar și pe ploaie.\n\nÎncheiem ziua cu o vizită la Parken Zoo. Datorită multor incinte acoperite și distanțelor scurte între clădiri, ploaia nu reduce semnificativ plăcerea vizitei.",
-            "en": "We start the day weather-protected from Eskilstuna Central Station. Rademacher Forges are quickly reachable with a short bus ride, so you hardly have to stand in the rain.\n\nAt noon, visit the monastery church and the Munktell Museum, both providing excellent shelter from showers. A hearty lunch near the station follows in a dry environment.\n\nIn the afternoon, the Art Museum is on the agenda, whose spacious halls are ideal for longer indoor stays. Bus connections in Eskilstuna are reliable and punctual even in the rain.\n\nFinish the day with a visit to Parken Zoo. Thanks to many covered enclosures and short distances between buildings, the rain only slightly diminishes the fun of the visit."
+            "en": "We start the day weather-protected from Eskilstuna Central Station. Rademacher Forges are quickly reachable with a short bus ride, so you hardly have to stand in the rain.\n\nAt noon, visit the monastery church and the Munktell Museum, both providing excellent shelter from showers. A hearty lunch near the station follows in a dry environment.\n\nIn the afternoon, the Art Museum is on the agenda, whose spacious halls are ideal for longer indoor stays. Bus connections in Eskilstuna are reliable and punctual even in the rain.\n\nFinish the day with a visit to Parken Zoo. Thanks to many covered enclosures and short distances between buildings, the rain only slightly diminishes the fun of the visit.",
+            "sv": "Vi börjar dagen väderskyddade från Eskilstuna centralstation. Rademachersmedjorna nås snabbt med en kort busstur, så du slipper stå i regnet.\n\nVid middagstid besöker vi klosterkyrkan och Munktellmuseet, båda utmärkta skydd från skurarna. En rejäl lunch nära stationen följer i en torr miljö.\n\nPå eftermiddagen står konstmuseet på agendan, vars rymliga salar är idealiska för längre inomhusvistelser. Bussförbindelserna i Eskilstuna är pålitliga och punktliga även i regn.\n\nAvsluta dagen med ett besök på Parken Zoo. Tack vare många täckta inhägnader och korta avstånd mellan byggnader minskar regnet bara lite på nöjet."
           },
           "stops": [
             {
@@ -2140,7 +2310,8 @@
                 "de": "Warten Sie in der beheizten Bahnhofshalle.",
                 "hu": "Várjon a fűtött vasúti váróteremben.",
                 "ro": "Așteptați în sala de așteptare încălzită.",
-                "en": "Wait in the heated station hall."
+                "en": "Wait in the heated station hall.",
+                "sv": "Vänta i den uppvärmda stationshallen."
               }
             },
             {
@@ -2149,7 +2320,8 @@
                 "de": "Bushaltestelle direkt in der Nähe.",
                 "hu": "Buszmegálló közvetlenül a közelben.",
                 "ro": "Stație de autobuz chiar în apropiere.",
-                "en": "Bus stop right nearby."
+                "en": "Bus stop right nearby.",
+                "sv": "Hållplats precis i närheten."
               }
             },
             {
@@ -2158,7 +2330,8 @@
                 "de": "Kurzer Fußweg von der Haltestelle.",
                 "hu": "Rövid séta a megállótól.",
                 "ro": "Drum scurt pe jos de la stație.",
-                "en": "Short walk from the stop."
+                "en": "Short walk from the stop.",
+                "sv": "Kort promenad från hållplatsen."
               }
             },
             {
@@ -2167,7 +2340,8 @@
                 "de": "Gute Anbindung mit mehreren Linien.",
                 "hu": "Jó összeköttetés több vonallal is.",
                 "ro": "Conexiuni bune cu mai multe linii.",
-                "en": "Good connections with several lines."
+                "en": "Good connections with several lines.",
+                "sv": "Bra förbindelser med flera linjer."
               }
             },
             {
@@ -2176,7 +2350,8 @@
                 "de": "Kombinieren Sie Essen und Kultur im Trockenen.",
                 "hu": "Kombinálja az étkezést és a kultúrát a szárazban.",
                 "ro": "Combinați masa și cultura la adăpost.",
-                "en": "Combine dining and culture in the dry."
+                "en": "Combine dining and culture in the dry.",
+                "sv": "Kombinera mat och kultur torrt."
               }
             },
             {
@@ -2185,7 +2360,8 @@
                 "de": "Busse fahren regelmäßig bis zum Eingang.",
                 "hu": "A buszok rendszeresen járnak a bejáratig.",
                 "ro": "Autobuzele circulă regulat până la intrare.",
-                "en": "Buses run regularly to the entrance."
+                "en": "Buses run regularly to the entrance.",
+                "sv": "Bussar går regelbundet till entrén."
               }
             }
           ],
@@ -2213,6 +2389,12 @@
               "Buses are well-heated in autumn/winter.",
               "Large stations offer luggage lockers.",
               "Real-time info in the Sörmlandstrafiken app."
+            ],
+            "sv": [
+              "Köp biljetter i förväg i appen.",
+              "Bussarna är väl uppvärmda på höst/vinter.",
+              "Stora stationer erbjuder bagageförvar.",
+              "Riktigtidsinfo i Sörmlandstrafiken-appen."
             ]
           }
         },
@@ -2221,7 +2403,8 @@
             "de": "Vom Bahnhof aus starten wir in den klaren, frostigen Wintertag. Die Rademacher-Schmieden sind mit dem Bus nur wenige Minuten entfernt und glänzen im frostigen Gewand.\n\nMittags besuchen wir die festlich beleuchtete Klosterkirche und das Munktell-Museum, wo es angenehm beheizt ist. Ein warmes Mittagessen gibt uns neue Energie für den Nachmittag.\n\nNachmittags genießen wir die Kunst im Museum, während es draußen bereits dämmert. Der öffentliche Nahverkehr in Eskilstuna ist bestens auf winterliche Straßenverhältnisse eingestellt.\n\nDen Tag schließen wir im Parken Zoo ab. Die winterliche Atmosphäre mit stimmungsvoller Beleuchtung ist besonders in den Abendstunden für alle Besucher ein Highlight.",
             "hu": "Az állomásról indulunk a tiszta, fagyos téli napba. A Rademacher kovácsműhelyek busszal csak pár percre vannak, és dérlepte köntösükben ragyognak.\n\nDélben az ünnepi kivilágítást kapott kolostortemplomot és a Munktell Múzeumot látogatjuk meg, ahol kellemes fűtés vár. Egy meleg ebéd új energiát ad a délutánra.\n\nDélután a múzeumi művészetet élvezzük, miközben kint már alkonyodik. Az eszkilstunai tömegközlekedés kiválóan felkészült a téli útviszonyokra.\n\nA napot a Parken Zooban zárjuk. A téli hangulat a hangulatos kivilágítással különösen az esti órákban jelent különleges élményt minden látogatónak.",
             "ro": "Plecăm de la gară în ziua de iarnă clară și geroasă. Fierăriile Rademacher sunt la doar câteva minute cu autobuzul și strălucesc sub promoroacă.\n\nLa prânz vizităm biserica mănăstirii iluminată festiv și Muzeul Munktell, unde este plăcut și încălzit. Un prânz cald ne dă energie nouă pentru după-amiază.\n\nDupă-amiaza ne bucurăm de artă în muzeu, în timp ce afară se lasă deja amurgul. Transportul public din Eskilstuna este perfect pregătit pentru condițiile de iarnă.\n\nÎncheiem ziua la Parken Zoo. Atmosfera hibernală cu iluminat ambiental este un punct culminant pentru toți vizitatorii, în special în orele serii.",
-            "en": "We start the clear, frosty winter day from the station. Rademacher Forges are just a few minutes away by bus and shine in their frosty garment.\n\nAt noon, visit the festively lit monastery church and the Munktell Museum, where it is pleasantly heated. A warm lunch gives us new energy for the afternoon.\n\nIn the afternoon, enjoy art in the museum while it is already getting dark outside. Public transport in Eskilstuna is well prepared for winter road conditions.\n\nFinish the day at Parken Zoo. The winter atmosphere with atmospheric lighting is a highlight for all visitors, especially in the evening hours."
+            "en": "We start the clear, frosty winter day from the station. Rademacher Forges are just a few minutes away by bus and shine in their frosty garment.\n\nAt noon, visit the festively lit monastery church and the Munktell Museum, where it is pleasantly heated. A warm lunch gives us new energy for the afternoon.\n\nIn the afternoon, enjoy art in the museum while it is already getting dark outside. Public transport in Eskilstuna is well prepared for winter road conditions.\n\nFinish the day at Parken Zoo. The winter atmosphere with atmospheric lighting is a highlight for all visitors, especially in the evening hours.",
+            "sv": "Vi börjar den klara, frostiga vinterdagen från stationen. Rademachersmedjorna är bara några minuter bort med buss och glänser i sin frostmantel.\n\nVid middagstid besöker vi den festligt upplysta klosterkyrkan och Munktellmuseet, där det är behagligt varmt. En varm lunch ger ny energi för eftermiddagen.\n\nPå eftermiddagen njuter vi av konst i museet medan det redan blir mörkt utanför. Kollektivtrafiken i Eskilstuna är väl förberedd för vinterväglag.\n\nAvsluta dagen på Parken Zoo. Vinterstämningen med stämningsfull belysning är en höjdpunkt för alla besökare, särskilt under kvällstimmarna."
           },
           "stops": [
             {
@@ -2230,7 +2413,8 @@
                 "de": "Kioske im Bahnhof für warme Getränke nutzen.",
                 "hu": "Használja az állomási büféket meleg italokhoz.",
                 "ro": "Folosiți chioșcurile din gară pentru băuturi calde.",
-                "en": "Use the station kiosks for warm drinks."
+                "en": "Use the station kiosks for warm drinks.",
+                "sv": "Använd kioskernas varma drycker på stationen."
               }
             },
             {
@@ -2239,7 +2423,8 @@
                 "de": "Beleuchtete Wege führen von der Haltestelle.",
                 "hu": "Kivilágított utak vezetnek a megállótól.",
                 "ro": "Căi luminate duc de la stație.",
-                "en": "Lit paths lead from the stop."
+                "en": "Lit paths lead from the stop.",
+                "sv": "Upplysta gångvägar leder från hållplatsen."
               }
             },
             {
@@ -2248,7 +2433,8 @@
                 "de": "Abends oft Konzerte im Winter.",
                 "hu": "Télen este gyakran vannak koncertek.",
                 "ro": "Iarna au loc adesea concerte seara.",
-                "en": "Often concerts in the evening during winter."
+                "en": "Often concerts in the evening during winter.",
+                "sv": "Ofta konserter på kvällstid under vintern."
               }
             },
             {
@@ -2257,7 +2443,8 @@
                 "de": "Drinnen ist es deutlich wärmer als draußen.",
                 "hu": "Bent lényegesen melegebb van, mint kint.",
                 "ro": "În interior este mult mai cald decât afară.",
-                "en": "It's significantly warmer inside than outside."
+                "en": "It's significantly warmer inside than outside.",
+                "sv": "Det är betydligt varmare inne än ute."
               }
             },
             {
@@ -2266,7 +2453,8 @@
                 "de": "Gemütliche Plätze zum Aufwärmen.",
                 "hu": "Hangulatos helyek az átmelegedéshez.",
                 "ro": "Locuri primitoare pentru încălzire.",
-                "en": "Cozy places to warm up."
+                "en": "Cozy places to warm up.",
+                "sv": "Mysiga ställen att värma sig på."
               }
             },
             {
@@ -2275,7 +2463,8 @@
                 "de": "Fahrplan für die Rückfahrt prüfen, es wird früh dunkel.",
                 "hu": "Ellenőrizze a visszautat, hamar sötétedik.",
                 "ro": "Verificați orarul de întoarcere, se întunecă devreme.",
-                "en": "Check the return schedule, it gets dark early."
+                "en": "Check the return schedule, it gets dark early.",
+                "sv": "Kolla returtiderna, det blir mörkt tidigt."
               }
             }
           ],
@@ -2303,6 +2492,12 @@
               "Stops are mostly covered.",
               "Use the app to plan transfers in the warm.",
               "Bike transport on buses is limited in winter."
+            ],
+            "sv": [
+              "Bussar går ofta lite långsammare i snö.",
+              "Hållplatserna är mestadels täckta.",
+              "Använd appen för att planera byten i värmen.",
+              "Cykeltransport på bussar är begränsad på vintern."
             ]
           }
         }

@@ -21,7 +21,8 @@
             "de": "Carl Johans Park",
             "hu": "Carl Johans Park",
             "ro": "Parcul Carl Johans",
-            "en": "Carl Johans Park"
+            "en": "Carl Johans Park",
+            "sv": "Carl Johans Park"
           },
           "coords": [
             16.189,
@@ -37,7 +38,8 @@
             "de": "Berühmt für seine Kaktus-Pflanzungen im Sommer.",
             "hu": "Nyáron a kaktusz-ültetvényeiről híres.",
             "ro": "Renumit pentru plantațiile de cactuși din timpul verii.",
-            "en": "Famous for its cactus plantations during the summer."
+            "en": "Famous for its cactus plantations during the summer.",
+            "sv": "Känd för sina kaktusodlingar under sommaren."
           }
         },
         {
@@ -45,7 +47,8 @@
             "de": "Motala Ström & Strömparken",
             "hu": "Motala Ström és Strömparken",
             "ro": "Râul Motala și Parcul Strömparken",
-            "en": "Motala Ström & Strömparken"
+            "en": "Motala Ström & Strömparken",
+            "sv": "Motala Ström & Strömparken"
           },
           "coords": [
             16.186,
@@ -61,7 +64,8 @@
             "de": "Setzen Sie sich auf eine Bank und beobachten Sie die Stromschnellen.",
             "hu": "Üljön le egy padra és figyelje a zúgókat.",
             "ro": "Așezați-vă pe o bancă și priviți repezișurile.",
-            "en": "Sit on a bench and watch the rapids."
+            "en": "Sit on a bench and watch the rapids.",
+            "sv": "Sitt på en bänk och titta på forsarna."
           }
         },
         {
@@ -69,7 +73,8 @@
             "de": "Industrielandschaft (Industrilandskapet)",
             "hu": "Ipari táj (Industrilandskapet)",
             "ro": "Peisajul Industrial (Industrilandskapet)",
-            "en": "The Industrial Landscape (Industrilandskapet)"
+            "en": "The Industrial Landscape (Industrilandskapet)",
+            "sv": "Industrilandskapet"
           },
           "coords": [
             16.182,
@@ -85,7 +90,8 @@
             "de": "Die gelben Gebäude entlang des Flusses sind bei Nacht wunderschön beleuchtet.",
             "hu": "A folyó menti sárga épületek éjjel gyönyörűen ki vannak világítva.",
             "ro": "Clădirile galbene de-a lungul râului sunt frumos iluminate noaptea.",
-            "en": "The yellow buildings along the river are beautifully lit at night."
+            "en": "The yellow buildings along the river are beautifully lit at night.",
+            "sv": "De gula byggnaderna längs floden är vackert belysta på kvällen."
           }
         },
         {
@@ -93,7 +99,8 @@
             "de": "Arbeitsmuseum (Arbetets museum)",
             "hu": "Munka Múzeuma (Arbetets museum)",
             "ro": "Muzeul Muncii (Arbetets museum)",
-            "en": "Museum of Work (Arbetets museum)"
+            "en": "Museum of Work (Arbetets museum)",
+            "sv": "Arbetets museum"
           },
           "coords": [
             16.18,
@@ -109,7 +116,8 @@
             "de": "Das Museum befindet sich in einer ehemaligen Baumwollspinnerei, genannt 'Strykjärnet' (das Bügeleisen).",
             "hu": "A múzeum egy 'Strykjärnet' (vasaló) nevű egykori pamutfonóban található.",
             "ro": "Muzeul este situat într-o fostă filatură de bumbac, numită 'Strykjärnet' (fierul de călcat).",
-            "en": "The museum is housed in a former cotton mill called 'Strykjärnet' (The Flatiron)."
+            "en": "The museum is housed in a former cotton mill called 'Strykjärnet' (The Flatiron).",
+            "sv": "Museet är inrymt i en tidigare bomullsfabrik kallad ’Strykjärnet’."
           }
         },
         {
@@ -117,7 +125,8 @@
             "de": "Visualisierungszentrum C (Visualiseringscenter C)",
             "hu": "Vizuális Központ C (Visualiseringscenter C)",
             "ro": "Centrul de Vizualizare C (Visualiseringscenter C)",
-            "en": "Visualization Center C (Visualiseringscenter C)"
+            "en": "Visualization Center C (Visualiseringscenter C)",
+            "sv": "Visualiseringscenter C"
           },
           "coords": [
             16.182,
@@ -133,7 +142,8 @@
             "de": "Probieren Sie die interaktiven Ausstellungen aus – ideal für alle Altersgruppen.",
             "hu": "Próbálja ki az interaktív kiállításokat – minden korosztály számára ideális.",
             "ro": "Încercați expozițiile interactive - ideale pentru toate vârstele.",
-            "en": "Try out the interactive exhibits - great for all ages."
+            "en": "Try out the interactive exhibits - great for all ages.",
+            "sv": "Prova de interaktiva utställningarna - roligt för alla åldrar."
           }
         },
         {
@@ -141,7 +151,8 @@
             "de": "Stadtmuseum Norrköping (Norrköpings Stadsmuseum)",
             "hu": "Norrköpingi Városi Múzeum (Norrköpings Stadsmuseum)",
             "ro": "Muzeul Orașului Norrköping (Norrköpings Stadsmuseum)",
-            "en": "Norrköping City Museum (Norrköpings Stadsmuseum)"
+            "en": "Norrköping City Museum (Norrköpings Stadsmuseum)",
+            "sv": "Norrköpings stadsmuseum"
           },
           "coords": [
             16.178,
@@ -157,7 +168,8 @@
             "de": "Konzentriert sich auf die lokale Handwerks- und Industriegeschichte.",
             "hu": "A helyi kézműves és ipari történelemre összpontosít.",
             "ro": "Se concentrează pe istoria meșteșugurilor și industrială locală.",
-            "en": "Focuses on the local craft and industrial history."
+            "en": "Focuses on the local craft and industrial history.",
+            "sv": "Fokuserar på lokal hantverks- och industrhistoria."
           }
         },
         {
@@ -165,7 +177,8 @@
             "de": "Matteus-Kirche (Matteuskyrkan)",
             "hu": "Máté-templom (Matteuskyrkan)",
             "ro": "Biserica Sf. Matei (Matteuskyrkan)",
-            "en": "St. Matthew's Church (Matteuskyrkan)"
+            "en": "St. Matthew's Church (Matteuskyrkan)",
+            "sv": "Matteuskyrkan"
           },
           "coords": [
             16.2,
@@ -181,7 +194,8 @@
             "de": "Besteigen Sie den Turm für eine großartige Aussicht auf die Stadt.",
             "hu": "Másszon fel a toronyba a városra nyíló nagyszerű kilátásért.",
             "ro": "Urcați în turn pentru o priveliște minunată asupra orașului.",
-            "en": "Climb the tower for a great view of the city."
+            "en": "Climb the tower for a great view of the city.",
+            "sv": "Kliv upp i tornet för en fin vy över staden."
           }
         },
         {
@@ -189,7 +203,8 @@
             "de": "Kunstmuseum Norrköping (Norrköpings Konstmuseum)",
             "hu": "Norrköpingi Művészeti Múzeum (Norrköpings Konstmuseum)",
             "ro": "Muzeul de Artă din Norrköping (Norrköpings Konstmuseum)",
-            "en": "Norrköping Art Museum (Norrköpings Konstmuseum)"
+            "en": "Norrköping Art Museum (Norrköpings Konstmuseum)",
+            "sv": "Norrköpings konstmuseum"
           },
           "coords": [
             16.184,
@@ -205,7 +220,8 @@
             "de": "Fokus auf schwedischen Modernismus und zeitgenössische Kunst.",
             "hu": "A svéd modernizmusra és a kortárs művészetre összpontosít.",
             "ro": "Accent pe modernismul suedez și arta contemporană.",
-            "en": "Focus on Swedish modernism and contemporary art."
+            "en": "Focus on Swedish modernism and contemporary art.",
+            "sv": "Inriktning på svensk modernism och samtidskonst."
           }
         }
       ],
@@ -213,7 +229,8 @@
         "de": "Beginnen Sie Ihren Tag im grünen Herzen der Stadt, dem Carl Johans Park, bevor Sie dem Rauschen des Motala Ström folgen. Am Vormittag erkunden Sie die beeindruckende Industrielandschaft, ein Zeugnis der Vergangenheit Norrköpings als „Schwedens Manchester“. Der Nachmittag ist den Museen gewidmet. Sie tauchen im Arbeitsmuseum und im Stadtmuseum in die Geschichte ein und erleben im Visualisierungszentrum die Zukunft. Beenden Sie Ihren Tag mit spiritueller Ruhe in der Matteus-Kirche und einem künstlerischen Abschluss im Kunstmuseum, alles bequem zu Fuß erreichbar.",
         "hu": "Kezdje a napot a város zöld szívében, a Carl Johans Parkban, mielőtt a Motala Ström folyó zúgását követné. A délelőttöt az impozáns ipari táj felfedezésével töltse, amely Norrköping „Svédország Manchestere”-ként ismert múltjának tanúja. A délután a múzeumoké. Merüljön el a történelemben a Munka Múzeumában és a Városi Múzeumban, majd tapasztalja meg a jövőt a Vizuális Központban. Zárja a napot a Máté-templom spirituális nyugalmával és egy művészeti élménnyel a Művészeti Múzeumban, mindezt kényelmes sétatávolságra.",
         "ro": "Începeți ziua în inima verde a orașului, Parcul Carl Johans, înainte de a urma vuietul râului Motala. Dimineața, explorați peisajul industrial impresionant, o mărturie a trecutului orașului Norrköping ca „Manchesterul Suediei”. După-amiaza este dedicată muzeelor. Pătrundeți în istorie la Muzeul Muncii și la Muzeul Orașului și experimentați viitorul la Centrul de Vizualizare. Încheiați ziua cu liniștea spirituală a Bisericii Sf. Matei și o notă artistică la Muzeul de Artă, toate la o distanță de mers pe jos.",
-        "en": "Start your day in the green heart of the city, Carl Johans Park, before following the rush of the Motala Ström river. In the morning, explore the impressive Industrial Landscape, a testament to Norrköping's past as 'Sweden's Manchester'. The afternoon is dedicated to museums. Delve into history at the Museum of Work and the City Museum, and experience the future at the Visualization Center. End your day with the spiritual tranquility of St. Matthew's Church and an artistic finish at the Art Museum, all within easy walking distance."
+        "en": "Start your day in the green heart of the city, Carl Johans Park, before following the rush of the Motala Ström river. In the morning, explore the impressive Industrial Landscape, a testament to Norrköping's past as 'Sweden's Manchester'. The afternoon is dedicated to museums. Delve into history at the Museum of Work and the City Museum, and experience the future at the Visualization Center. End your day with the spiritual tranquility of St. Matthew's Church and an artistic finish at the Art Museum, all within easy walking distance.",
+        "sv": "Börja dagen i stadens gröna hjärta, Carl Johans Park, innan du följer Motala Ströms ström. På morgonen utforska det imponerande Industrilandskapet, ett vittnesbörd om Norrköpings förflutna som ”Sveriges Manchester”. Eftermiddagen ägnas åt museer: fördjupa dig i historia på Arbetets museum och Stadsmuseet, och upplev framtiden på Visualiseringscenter C. Avsluta dagen med den andliga stillheten i Matteuskyrkan och ett konstnärligt slut på konstmuseet — allt inom bekvämt gångavstånd."
       },
       "gastro_picks": {
         "de": [
@@ -409,6 +426,12 @@
           "Most museums are closed on Mondays, check opening hours in advance.",
           "An afternoon 'fika' (coffee break with pastries) is an essential part of Swedish culture.",
           "Watch out for the yellow trams, a landmark of Norrköping."
+        ],
+        "sv": [
+          "Bär bekväma skor eftersom kullerstenarna i Industrilandskapet kan vara ojämna.",
+          "De flesta museer är stängda på måndagar; kontrollera öppettider i förväg.",
+          "En eftermiddagsfika (kafferast med bakverk) är en central del av svensk kultur.",
+          "Se upp för de gula spårvagnarna, ett landmärke i Norrköping."
         ]
       },
       "variants": {
@@ -417,7 +440,8 @@
             "de": "Beginnen Sie Ihren Tag im Carl Johans Park, wo die großen Bäume Schutz bieten. Mittags erkunden Sie die Industrielandschaft und das Museum der Arbeit, ideal für trockene Stunden drinnen. Nachmittags bietet das Visualisierungscenter C ein immersives Erlebnis fernab des Regens. Den Abend verbringen Sie im Kunstmuseum, bevor Sie durch die beleuchteten, nassen Gassen zum Abendessen eilen.",
             "hu": "Kezdje a napot a Carl Johans Parkban, ahol az évszázados fák némi fedezéket nyújtanak. Délben az ipari negyed és a Munkamúzeum (Strykjärnet) kínál száraz menedéket. Délután a Visualiseringscenter C kupolája alatt felejtheti el a kinti esőt. Az estét a Művészeti Múzeum modern falai között zárja, élvezve a vizes aszfalton megcsillanó városi fényeket.",
             "ro": "Începeți ziua în parcul Carl Johans, profitând de adăpostul copacilor mari. La prânz, peisajul industrial și Muzeul Muncii sunt refugiile perfecte împotriva ploii. După-amiaza, Centrul de Vizualizare C vă transportă în lumi digitale, departe de vremea umedă. Seara se încheie la Muzeul de Artă, admirând reflexiile luminilor orașului pe trotuarele ude.",
-            "en": "Start your day in Carl Johans Park, using the mature trees as natural umbrellas. At midday, the Industrial Landscape and the Museum of Work provide excellent indoor exploration. In the afternoon, stay dry inside Visualization Center C’s high-tech dome. Finish your evening at the Art Museum, enjoying the atmospheric reflections of Norrköping's lights on the rain-slicked streets."
+            "en": "Start your day in Carl Johans Park, using the mature trees as natural umbrellas. At midday, the Industrial Landscape and the Museum of Work provide excellent indoor exploration. In the afternoon, stay dry inside Visualization Center C’s high-tech dome. Finish your evening at the Art Museum, enjoying the atmospheric reflections of Norrköping's lights on the rain-slicked streets.",
+            "sv": "Börja dagen i Carl Johans Park och låt de mogna träden fungera som naturliga paraplyer. Mitt på dagen erbjuder Industrilandskapet och Arbetets museum utmärkta inomhusbesök. På eftermiddagen håll dig torr inne i Visualiseringscenter C:s högteknologiska kupol. Avsluta kvällen på konstmuseet och njut av Norrköpings ljusreflektioner på de regnblanka gatorna."
           },
           "stops": [
             {
@@ -426,7 +450,8 @@
                 "de": "Suchen Sie Schutz unter den großen Bäumen oder im nahen Bahnhof.",
                 "hu": "Használja a nagy fákat esernyőként, vagy húzódjon a közeli állomásra.",
                 "ro": "Căutați adăpost sub copacii mari sau în gara din apropiere.",
-                "en": "Seek shelter under large trees or in the nearby station building."
+                "en": "Seek shelter under large trees or in the nearby station building.",
+                "sv": "Sök skydd under stora träd eller i närliggande stationsbyggnad."
               }
             },
             {
@@ -435,7 +460,8 @@
                 "de": "Vorsicht auf den rutschigen Holzwegen am Flussufer.",
                 "hu": "Vigyázat, a folyóparti fapallók esőben rendkívül csúszósak.",
                 "ro": "Atenție la podurile de lemn, pot fi alunecoase pe ploaie.",
-                "en": "Be careful on the wooden walkways; they get slippery when wet."
+                "en": "Be careful on the wooden walkways; they get slippery when wet.",
+                "sv": "Var försiktig på träbroarna; de blir hala när de är blöta."
               }
             },
             {
@@ -444,7 +470,8 @@
                 "de": "Die Backsteinfassaden wirken bei Regen besonders dramatisch.",
                 "hu": "A vörös téglafalak színe esőben még mélyebb és látványosabb.",
                 "ro": "Fațadele de cărămidă arată spectaculos în lumina difuză a ploii.",
-                "en": "The brick architecture looks stunningly dramatic in the rain."
+                "en": "The brick architecture looks stunningly dramatic in the rain.",
+                "sv": "Den tegelarkitekturen ser dramatisk ut i regnet."
               }
             },
             {
@@ -453,7 +480,8 @@
                 "de": "Nutzen Sie die Garderobe, um nasse Mäntel zu trocknen.",
                 "hu": "Használja a ruhatárat a vizes kabátok és ernyők tárolására.",
                 "ro": "Folosiți garderoba pentru a vă lăsa hainele ude la uscat.",
-                "en": "Use the cloakroom to store and dry your wet coats and umbrellas."
+                "en": "Use the cloakroom to store and dry your wet coats and umbrellas.",
+                "sv": "Använd garderoben för att förvara och torka blöta kappor och paraplyer."
               }
             },
             {
@@ -462,7 +490,8 @@
                 "de": "Perfekter Ort, um einen starken Regenschauer im Kino auszusitzen.",
                 "hu": "Ideális helyszín egy nagyobb zápor átvészelésére a kupolában.",
                 "ro": "Locul ideal pentru a aștepta trecerea unei averse în cinema.",
-                "en": "The perfect spot to wait out a heavy downpour in the dome cinema."
+                "en": "The perfect spot to wait out a heavy downpour in the dome cinema.",
+                "sv": "Det perfekta stället att invänta ett kraftigt skyfall är i domenbiografen."
               }
             },
             {
@@ -471,7 +500,8 @@
                 "de": "Gemütliches Café im Innenbereich für eine Kaffeepause.",
                 "hu": "Kiváló benti kávézó várja egy meleg italra a kiállítás után.",
                 "ro": "O cafenea primitoare în interior vă așteaptă pentru o pauză.",
-                "en": "A cozy indoor cafe awaits for a warm coffee break after the tour."
+                "en": "A cozy indoor cafe awaits for a warm coffee break after the tour.",
+                "sv": "Ett mysigt inomhuscafé väntar på en varm kaffepaus efter rundturen."
               }
             },
             {
@@ -480,7 +510,8 @@
                 "de": "Ein ruhiger, trockener Rückzugsort zur Besinnung.",
                 "hu": "Csendes, száraz menedék a városnézés közepén.",
                 "ro": "Un refugiu liniștit și uscat în mijlocul orașului.",
-                "en": "A quiet, dry retreat for a peaceful moment during your walk."
+                "en": "A quiet, dry retreat for a peaceful moment during your walk.",
+                "sv": "En tyst, torr plats för en lugn stund under promenaden."
               }
             },
             {
@@ -489,7 +520,8 @@
                 "de": "Beenden Sie den Tag trocken in den modernen Galerien.",
                 "hu": "Zárja a napot szárazon a modern művészeti galériákban.",
                 "ro": "Încheiați ziua într-un mediu uscat și artistic.",
-                "en": "Finish your day dry and inspired in the modern galleries."
+                "en": "Finish your day dry and inspired in the modern galleries.",
+                "sv": "Avsluta dagen torr och inspirerad i de moderna gallerierna."
               }
             }
           ],
@@ -521,6 +553,13 @@
               "Visit the Linden shopping mall for a dry break and lunch options.",
               "Waterproof footwear is essential for the uneven, wet cobblestones.",
               "Museums are closely clustered, making for very short dashes through the rain."
+            ],
+            "sv": [
+              "De gula spårvagnarna passar utmärkt för att hoppa mellan hållplatser under kraftigt regn.",
+              "Industrilandskapet har många valvgångar och täckta passager.",
+              "Besök Linden köpcentrum för en torr paus och lunchalternativ.",
+              "Vattentäta skor är nödvändiga på de ojämna, blöta kullerstenarna.",
+              "Museerna ligger tätt, vilket gör förkortade ruscher genom regnet väldigt enkla."
             ]
           }
         },
@@ -529,7 +568,8 @@
             "de": "Morgens glitzert der Frost im Carl Johans Park. Mittags wärmen Sie sich im Museum der Arbeit auf, während Sie den Blick auf den dampfenden Motala Ström genießen. Nachmittags, wenn es um 15:30 Uhr dunkel wird, erstrahlt die Industrielandschaft in magischer Weihnachtsbeleuchtung. Den Abend verbringen Sie bei Kerzenschein in der St. Matthäus-Kirche oder im warmen Kunstmuseum.",
             "hu": "Reggel a Carl Johans Park fagyos fái között indul a séta. Délben a Munkamúzeum melegében pihenhet, figyelve a gőzölgő folyót. Délután, a korai, fél 4-es naplemente után az ipari negyed fényei mesebeli hangulatot árasztanak. Az estét a Szent Mátyás-templom gyertyafényénél vagy a Művészeti Múzeum fűtött termeiben zárhatja.",
             "ro": "Dimineața începe cu promoroaca sclipitoare din parcul Carl Johans. La prânz, încălziți-vă la Muzeul Muncii admirând râul Motala Ström. După-amiaza, odată cu apusul devreme de la 15:30, peisajul industrial este inundat de lumini magice. Seara se încheie în atmosfera caldă a bisericii Sf. Matei sau la Muzeul de Artă.",
-            "en": "Morning brings a crisp frost to Carl Johans Park. By midday, warm up inside the Museum of Work while watching the steaming river outside. In the afternoon, as darkness falls around 15:30, the Industrial Landscape glows with magical winter lights. Finish your evening in the cozy warmth of St. Matthew's Church or the Art Museum galleries."
+            "en": "Morning brings a crisp frost to Carl Johans Park. By midday, warm up inside the Museum of Work while watching the steaming river outside. In the afternoon, as darkness falls around 15:30, the Industrial Landscape glows with magical winter lights. Finish your evening in the cozy warmth of St. Matthew's Church or the Art Museum galleries.",
+            "sv": "Morgnarna bjuder på krispig rimfrost i Carl Johans Park. Vid middagstid värmer du dig inne på Arbetets museum medan du ser ångan stiga från den rinnande floden. På eftermiddagen, när mörkret faller redan vid cirka 15:30, lyser Industrilandskapet upp i magiskt vinterljus. Avsluta kvällen i den ombonade värmen i Matteuskyrkan eller i konstmuseets salar."
           },
           "stops": [
             {
@@ -538,7 +578,8 @@
                 "de": "Die berühmten Kakteen sind im Winter durch ein Gewächshaus geschützt.",
                 "hu": "A híres kaktuszokat télen üvegház védi, nézze meg a téli fényeket.",
                 "ro": "Cactușii celebri sunt protejați de o seră în timpul iernii.",
-                "en": "The famous cacti are protected by a greenhouse; enjoy the festive lights."
+                "en": "The famous cacti are protected by a greenhouse; enjoy the festive lights.",
+                "sv": "De berömda kaktusarna skyddas av ett växthus; njut av de festliga ljusen."
               }
             },
             {
@@ -547,7 +588,8 @@
                 "de": "Vorsicht vor Eis auf den Wegen; der Fluss dampft bei Kälte.",
                 "hu": "Vigyázzon a jeges utakra; a folyó látványosan gőzölög nagy hidegben.",
                 "ro": "Atenție la gheață pe poteci; râul scoate aburi în zilele geroase.",
-                "en": "Watch out for icy paths; the river creates beautiful steam in the cold."
+                "en": "Watch out for icy paths; the river creates beautiful steam in the cold.",
+                "sv": "Se upp för isiga stigar; floden skapar vacker ånga i kylan."
               }
             },
             {
@@ -556,7 +598,8 @@
                 "de": "Erleben Sie die spektakuläre Winterbeleuchtung ab 15:00 Uhr.",
                 "hu": "Nézze meg a látványos téli díszkivilágítást délután 3-tól.",
                 "ro": "Admirați iluminatul festiv spectaculos începând cu ora 15:00.",
-                "en": "Experience the spectacular winter light installations from 15:00 onwards."
+                "en": "Experience the spectacular winter light installations from 15:00 onwards.",
+                "sv": "Upplev de spektakulära vinterljusinstallationerna från klockan 15:00 och framåt."
               }
             },
             {
@@ -565,7 +608,8 @@
                 "de": "Der perfekte Ort zum Aufwärmen mit Panoramablick.",
                 "hu": "Tökéletes hely a felmelegedésre, panorámás kilátással a folyóra.",
                 "ro": "Locul perfect pentru încălzire, cu vedere panoramică spre râu.",
-                "en": "The perfect place to warm up with a panoramic view of the rapids."
+                "en": "The perfect place to warm up with a panoramic view of the rapids.",
+                "sv": "Den perfekta platsen att värma sig på med panoramavy över forsarna."
               }
             },
             {
@@ -574,7 +618,8 @@
                 "de": "Die Wärme im Inneren ist eine Wohltat nach dem Winterspaziergang.",
                 "hu": "A benti meleg igazi áldás a téli séta után.",
                 "ro": "Căldura din interior este o binecuvântare după plimbarea prin ger.",
-                "en": "The warmth inside is a blessing after a brisk winter walk."
+                "en": "The warmth inside is a blessing after a brisk winter walk.",
+                "sv": "Värmen inomhus är en välsignelse efter en frisk vinterpromenad."
               }
             },
             {
@@ -583,7 +628,8 @@
                 "de": "Erfahren Sie drinnen mehr über die Textilgeschichte der Stadt.",
                 "hu": "Ismerje meg a város textilipari múltját a fűtött termekben.",
                 "ro": "Explorați istoria textilă a orașului în sălile bine încălzite.",
-                "en": "Explore the city's textile history inside the well-heated halls."
+                "en": "Explore the city's textile history inside the well-heated halls.",
+                "sv": "Utforska stadens textilhistoria inne i de väl uppvärmda salarna."
               }
             },
             {
@@ -592,7 +638,8 @@
                 "de": "Oft finden hier im Winter stimmungsvolle Chorkonzerte statt.",
                 "hu": "Télen gyakran tartanak itt hangulatos kóruskoncerteket.",
                 "ro": "Iarna, aici au loc adesea concerte corale atmosferice.",
-                "en": "In winter, you can often enjoy atmospheric choir concerts here."
+                "en": "In winter, you can often enjoy atmospheric choir concerts here.",
+                "sv": "På vintern kan man ofta njuta av stämningsfulla körkonserter här."
               }
             },
             {
@@ -601,7 +648,8 @@
                 "de": "Genießen Sie moderne Kunst in gemütlicher Atmosphäre.",
                 "hu": "Élvezze a modern művészetet kellemes benti hőmérsékleten.",
                 "ro": "Bucurați-vă de artă modernă într-o atmosferă primitoare.",
-                "en": "Enjoy modern art in a cozy and comfortable indoor setting."
+                "en": "Enjoy modern art in a cozy and comfortable indoor setting.",
+                "sv": "Njut av modern konst i en mysig och bekväm inomhusmiljö."
               }
             }
           ],
@@ -633,6 +681,13 @@
               "Many local cafes serve 'Glögg' (Swedish mulled wine) during winter.",
               "Pavements are usually well-cleared, but be careful of black ice on bridges.",
               "Enjoy the 'Moa Martinson' light walk through the industrial landscape."
+            ],
+            "sv": [
+              "Solnedgången är runt 15:30; planera din utomhusfotografering i tidig eftermiddag.",
+              "Bär termiska lager eftersom vinden från floden är bitande på vintern.",
+              "Många lokala kaféer serverar 'Glögg' under vintern.",
+              "Gångbanorna är vanligtvis välplogade, men var försiktig med svartis på broarna.",
+              "Njut av 'Moa Martinson' ljuspromenad genom industrilandskapet."
             ]
           }
         }
@@ -651,7 +706,8 @@
             "de": "Konstmuseum Norrköping",
             "hu": "Norrköpingi Művészeti Múzeum",
             "ro": "Muzeul de Artă din Norrköping",
-            "en": "Norrköping Art Museum"
+            "en": "Norrköping Art Museum",
+            "sv": "Norrköpings konstmuseum"
           },
           "coords": [
             16.184,
@@ -667,7 +723,8 @@
             "de": "Beginnen Sie hier, um sich auf einen Tag voller visueller Eindrücke einzustimmen.",
             "hu": "Kezdje itt, hogy ráhangolódjon a vizuális élményekkel teli napra.",
             "ro": "Începeți aici pentru a vă pregăti pentru o zi plină de impresii vizuale.",
-            "en": "Start here to get in the mood for a day of visual impressions."
+            "en": "Start here to get in the mood for a day of visual impressions.",
+            "sv": "Börja här för att komma i stämning för en dag full av visuella intryck."
           }
         },
         {
@@ -675,7 +732,8 @@
             "de": "Carl Johans Park",
             "hu": "Carl Johans Park",
             "ro": "Parcul Carl Johans",
-            "en": "Carl Johans Park"
+            "en": "Carl Johans Park",
+            "sv": "Carl Johans park"
           },
           "coords": [
             16.189,
@@ -691,7 +749,8 @@
             "de": "Eine schnelle Radtour durch den Park, um die berühmten Kaktusbeete zu sehen.",
             "hu": "Egy gyors biciklitúra a parkon keresztül a híres kaktuszágyások megtekintéséhez.",
             "ro": "O plimbare rapidă cu bicicleta prin parc pentru a vedea faimoasele plantații de cactuși.",
-            "en": "A quick bike ride through the park to see the famous cactus beds."
+            "en": "A quick bike ride through the park to see the famous cactus beds.",
+            "sv": "En snabb cykeltur genom parken för att se de berömda kaktusbäddarna."
           }
         },
         {
@@ -699,7 +758,8 @@
             "de": "Louis De Geer Konzertsaal & Konferenz",
             "hu": "Louis De Geer Koncert- és Konferenciaközpont",
             "ro": "Sala de Concerte și Conferințe Louis De Geer",
-            "en": "Louis De Geer Concert & Congress Hall"
+            "en": "Louis De Geer Concert & Congress Hall",
+            "sv": "Louis De Geer Konsert & Kongress"
           },
           "coords": [
             16.183,
@@ -715,7 +775,8 @@
             "de": "Das Gebäude, eine ehemalige Papierfabrik, ist ein architektonisches Highlight.",
             "hu": "Az épület, egy egykori papírgyár, építészeti remekmű.",
             "ro": "Clădirea, o fostă fabrică de hârtie, este un punct de atracție arhitectural.",
-            "en": "The building, a former paper mill, is an architectural highlight."
+            "en": "The building, a former paper mill, is an architectural highlight.",
+            "sv": "Byggnaden, en tidigare pappersfabrik, är en arkitektonisk höjdpunkt."
           }
         },
         {
@@ -723,7 +784,8 @@
             "de": "Industrielandschaft (Industrilandskapet)",
             "hu": "Ipari táj (Industrilandskapet)",
             "ro": "Peisajul Industrial (Industrilandskapet)",
-            "en": "The Industrial Landscape (Industrilandskapet)"
+            "en": "The Industrial Landscape (Industrilandskapet)",
+            "sv": "Industrilandskapet"
           },
           "coords": [
             16.182,
@@ -739,7 +801,8 @@
             "de": "Radfahren Sie entlang des Flusses, um die besten Fotospots zu finden.",
             "hu": "Biciklizzen végig a folyó mentén, hogy megtalálja a legjobb fotóhelyeket.",
             "ro": "Mergeți cu bicicleta de-a lungul râului pentru a găsi cele mai bune locuri de fotografiat.",
-            "en": "Cycle along the river to find the best photo spots."
+            "en": "Cycle along the river to find the best photo spots.",
+            "sv": "Cykla längs ån för att hitta de bästa fotoställena."
           }
         },
         {
@@ -747,7 +810,8 @@
             "de": "Arbeitsmuseum (Arbetets museum)",
             "hu": "Munka Múzeuma (Arbetets museum)",
             "ro": "Muzeul Muncii (Arbetets museum)",
-            "en": "Museum of Work (Arbetets museum)"
+            "en": "Museum of Work (Arbetets museum)",
+            "sv": "Arbetets museum"
           },
           "coords": [
             16.18,
@@ -763,7 +827,8 @@
             "de": "Schließen Sie Ihr Fahrrad draußen an und nehmen Sie sich Zeit für die Ausstellungen und das Mittagessen.",
             "hu": "Zárja le a kerékpárt kint, és szánjon időt a kiállításokra és az ebédre.",
             "ro": "Legați-vă bicicleta afară și acordați-vă timp pentru expoziții și prânz.",
-            "en": "Lock your bike outside and take your time for the exhibitions and lunch."
+            "en": "Lock your bike outside and take your time for the exhibitions and lunch.",
+            "sv": "Lås fast cykeln utanför och ta god tid på dig för utställningarna och lunchen."
           }
         },
         {
@@ -771,7 +836,8 @@
             "de": "Åbackarna Naturreservat (Flussaufwärts)",
             "hu": "Åbackarna Természetvédelmi Terület (folyón felfelé)",
             "ro": "Rezervația Naturală Åbackarna (în amonte)",
-            "en": "Åbackarna Nature Reserve (Upstream)"
+            "en": "Åbackarna Nature Reserve (Upstream)",
+            "sv": "Åbackarna naturreservat (uppströms)"
           },
           "coords": [
             16.16,
@@ -787,7 +853,8 @@
             "de": "Eine erfrischende Radtour aus der Stadt heraus in die Natur.",
             "hu": "Egy frissítő biciklitúra a városból a természetbe.",
             "ro": "O plimbare revigorantă cu bicicleta din oraș în natură.",
-            "en": "A refreshing bike ride out of the city and into nature."
+            "en": "A refreshing bike ride out of the city and into nature.",
+            "sv": "En uppfriskande cykeltur ut ur staden och in i naturen."
           }
         },
         {
@@ -795,7 +862,8 @@
             "de": "Matteus-Kirche (Matteuskyrkan)",
             "hu": "Máté-templom (Matteuskyrkan)",
             "ro": "Biserica Sf. Matei (Matteuskyrkan)",
-            "en": "St. Matthew's Church (Matteuskyrkan)"
+            "en": "St. Matthew's Church (Matteuskyrkan)",
+            "sv": "Matteuskyrkan"
           },
           "coords": [
             16.2,
@@ -811,7 +879,8 @@
             "de": "Beenden Sie Ihre Tour mit dem beeindruckenden Blick vom Kirchturm.",
             "hu": "Fejezze be a túrát a templomtoronyból nyíló lenyűgöző kilátással.",
             "ro": "Încheiați turul cu priveliștea impresionantă din turnul bisericii.",
-            "en": "End your tour with the impressive view from the church tower."
+            "en": "End your tour with the impressive view from the church tower.",
+            "sv": "Avsluta din tur med den imponerande utsikten från kyrktornet."
           }
         }
       ],
@@ -819,7 +888,8 @@
         "de": "Schwingen Sie sich aufs Rad für eine dynamische Erkundung Norrköpings. Beginnen Sie mit einem kulturellen Paukenschlag im Kunstmuseum und radeln Sie dann zum Carl Johans Park. Am Vormittag folgen Sie dem Flusslauf, bewundern die Industrielandschaft und halten am architektonisch reizvollen Louis De Geer Konzertsaal. Nach einer längeren Mittagspause und einem Besuch im Arbeitsmuseum entfliehen Sie am Nachmittag dem städtischen Trubel mit einer erfrischenden Fahrt zum Åbackarna Naturreservat. Der Tag endet mit dem Panoramablick vom Turm der Matteus-Kirche.",
         "hu": "Pattanjon kerékpárra Norrköping dinamikus felfedezéséhez. Kezdjen egy kulturális felütéssel a Művészeti Múzeumban, majd tekerjen el a Carl Johans Parkba. Délelőtt kövesse a folyó útját, csodálja meg az ipari tájat, és álljon meg az építészetileg lenyűgöző Louis De Geer Koncertteremnél. Egy hosszabb ebédszünet és a Munka Múzeumának meglátogatása után délután elmenekülhet a városi nyüzsgésből egy frissítő kerékpártúrával az Åbackarna Természetvédelmi Területre. A nap a Máté-templom tornyából nyíló panorámával zárul.",
         "ro": "Urcați-vă pe bicicletă pentru o explorare dinamică a orașului Norrköping. Începeți cu o explozie culturală la Muzeul de Artă, apoi pedalați spre Parcul Carl Johans. Dimineața, urmați cursul râului, admirați peisajul industrial și opriți-vă la Sala de Concerte Louis De Geer, o bijuterie arhitecturală. După o pauză de prânz mai lungă și o vizită la Muzeul Muncii, evadați din agitația urbană după-amiaza cu o plimbare revigorantă cu bicicleta la Rezervația Naturală Åbackarna. Ziua se încheie cu vederea panoramică din turnul Bisericii Sf. Matei.",
-        "en": "Get on your bike for a dynamic exploration of Norrköping. Start with a cultural bang at the Art Museum, then cycle to Carl Johans Park. In the morning, follow the river's course, admire the Industrial Landscape, and stop at the architecturally stunning Louis De Geer Concert Hall. After a longer lunch break and a visit to the Museum of Work, escape the urban bustle in the afternoon with a refreshing ride to the Åbackarna Nature Reserve. The day concludes with the panoramic view from the tower of St. Matthew's Church."
+        "en": "Get on your bike for a dynamic exploration of Norrköping. Start with a cultural bang at the Art Museum, then cycle to Carl Johans Park. In the morning, follow the river's course, admire the Industrial Landscape, and stop at the architecturally stunning Louis De Geer Concert Hall. After a longer lunch break and a visit to the Museum of Work, escape the urban bustle in the afternoon with a refreshing ride to the Åbackarna Nature Reserve. The day concludes with the panoramic view from the tower of St. Matthew's Church.",
+        "sv": "Hoppa upp på cykeln för en dynamisk upptäcktsfärd i Norrköping. Börja med ett kulturellt smäll på konstmuseet, cykla sedan till Carl Johans park. På morgonen följ åns lopp, beundra industrilandskapet och stanna vid den arkitektoniskt imponerande Louis De Geer-hallen. Efter en längre lunchpaus och ett besök på Arbetets museum, fly stadens brus på eftermiddagen med en uppfriskande tur till Åbackarna naturreservat. Dagen avslutas med panoramautsikten från tornet i Matteuskyrkan."
       },
       "gastro_picks": {
         "de": [
@@ -1015,6 +1085,12 @@
           "Use the well-developed bike paths, especially along the river.",
           "A helmet is recommended but not legally required for adults.",
           "Most sights are bike-friendly with places to park nearby."
+        ],
+        "sv": [
+          "Kontrollera däcktrycket innan du ger dig iväg.",
+          "Använd de välutvecklade cykelvägarna, särskilt längs ån.",
+          "Hjälm rekommenderas men är inte lagkrav för vuxna.",
+          "De flesta sevärdheter är cykelvänliga med parkeringsplatser i närheten."
         ]
       },
       "variants": {
@@ -1023,7 +1099,8 @@
             "de": "Erkunden Sie Norrköping auf zwei Rädern trotz Regen. Der Weg führt am Kunstmuseum vorbei zum Carl Johans Park. Mittags bietet die Industrielandschaft und das Museum der Arbeit eine trockene Basis. Nachmittags radeln Sie am Fluss entlang zum Åbackarna-Reservat, wo die Bäume Schutz bieten, bevor Sie den Tag an der Kirche und im Museum abschließen.",
             "hu": "Fedezze fel Norrköpinget kerékpáron az eső ellenére is. Az út a Művészeti Múzeumtól a Carl Johans Parkig vezet. Délben az ipari negyed és a Munkamúzeum kínál száraz megállót. Délután tekerjen a folyó mentén az Åbackarna természetvédelmi területre, majd zárja a napot a templomnál és a múzeumnál.",
             "ro": "Explorați Norrköping pe două roți în ciuda ploii. Traseul trece pe la Muzeul de Artă spre parcul Carl Johans. La prânz, zona industrială și Muzeul Muncii oferă o bază uscată. După-amiaza, pedalați spre rezervația Åbackarna, încheind ziua la biserica Sf. Matei și la muzeu.",
-            "en": "Explore Norrköping on two wheels despite the rain. The route takes you from the Art Museum to Carl Johans Park. Midday offers a dry base in the Industrial Landscape and Museum of Work. In the afternoon, cycle along the river to Åbackarna Nature Reserve before finishing your day at the church and museum."
+            "en": "Explore Norrköping on two wheels despite the rain. The route takes you from the Art Museum to Carl Johans Park. Midday offers a dry base in the Industrial Landscape and Museum of Work. In the afternoon, cycle along the river to Åbackarna Nature Reserve before finishing your day at the church and museum.",
+            "sv": "Utforska Norrköping på två hjul trots regnet. Rutten tar dig från konstmuseet till Carl Johans park. Mitt på dagen finns ett torrt basläger i industrilandskapet och vid Arbetets museum. På eftermiddagen cyklar du längs ån till Åbackarna naturreservat innan du avslutar dagen vid kyrkan och museet."
           },
           "stops": [
             {
@@ -1032,7 +1109,8 @@
                 "de": "Überdachte Fahrradständer direkt am Eingang vorhanden.",
                 "hu": "Fedett kerékpártárolók találhatók közvetlenül a bejáratnál.",
                 "ro": "Există rastele pentru biciclete acoperite chiar la intrare.",
-                "en": "Covered bike racks are available right by the entrance."
+                "en": "Covered bike racks are available right by the entrance.",
+                "sv": "Täckta cykelställ finns precis vid entrén."
               }
             },
             {
@@ -1041,7 +1119,8 @@
                 "de": "Vermeiden Sie das Fahren auf nassem Rasen; bleiben Sie auf den Wegen.",
                 "hu": "Kerülje a vizes füvet; maradjon a kijelölt aszfaltozott utakon.",
                 "ro": "Evitați să pedalați pe iarbă; rămâneți pe aleile asfaltate.",
-                "en": "Avoid riding on wet grass; stick to the paved pathways."
+                "en": "Avoid riding on wet grass; stick to the paved pathways.",
+                "sv": "Undvik att cykla på vått gräs; håll dig till de asfalterade stigarna."
               }
             },
             {
@@ -1050,7 +1129,8 @@
                 "de": "Kurzer Stopp unter dem Vordach für einen Wettercheck.",
                 "hu": "Rövid megálló az előtető alatt az időjárás ellenőrzésére.",
                 "ro": "Scurt popas sub streșină pentru a verifica prognoza.",
-                "en": "Short stop under the canopy to check the weather forecast."
+                "en": "Short stop under the canopy to check the weather forecast.",
+                "sv": "Kort stopp under taket för att kolla väderprognosen."
               }
             },
             {
@@ -1059,7 +1139,8 @@
                 "de": "Vorsicht bei den Straßenbahnschienen; sie sind extrem rutschig.",
                 "hu": "Nagyon vigyázzon a villamossínekre; vizesen rendkívül csúsznak.",
                 "ro": "Atenție sporită la șinele de tramvai; sunt foarte alunecoase.",
-                "en": "Extra caution needed with tram tracks; they are very slippery when wet."
+                "en": "Extra caution needed with tram tracks; they are very slippery when wet.",
+                "sv": "Extra försiktighet behövs vid spårvagnsspår; de är mycket hala när de är blöta."
               }
             },
             {
@@ -1068,7 +1149,8 @@
                 "de": "Stellen Sie Ihr Rad im Sichtbereich der Fenster ab.",
                 "hu": "Parkolja le a bringát az ablakokból jól látható helyen.",
                 "ro": "Parcați bicicleta într-un loc vizibil de la ferestre.",
-                "en": "Park your bike in a spot visible from the large windows."
+                "en": "Park your bike in a spot visible from the large windows.",
+                "sv": "Parkera cykeln på en plats synlig från de stora fönstren."
               }
             },
             {
@@ -1077,7 +1159,8 @@
                 "de": "Schlammige Abschnitte möglich; Schutzbleche sind hier wichtig.",
                 "hu": "Saras szakaszok előfordulhatnak; a sárvédő itt elengedhetetlen.",
                 "ro": "Pot exista porțiuni cu noroi; aripile sunt esențiale aici.",
-                "en": "Muddy sections are possible; mudguards are very important here."
+                "en": "Muddy sections are possible; mudguards are very important here.",
+                "sv": "Lermarker kan förekomma; skärmar är väldigt viktiga här."
               }
             },
             {
@@ -1086,7 +1169,8 @@
                 "de": "Letzte Pause vor dem Rückweg im trockenen Kirchenschiff.",
                 "hu": "Utolsó pihenő a száraz templombelsőben a visszatérés előtt.",
                 "ro": "Ultima pauză în interiorul uscat al bisericii înainte de retur.",
-                "en": "Final break in the dry church interior before heading back."
+                "en": "Final break in the dry church interior before heading back.",
+                "sv": "Sista paus i den torra kyrkointeriören innan du vänder tillbaka."
               }
             }
           ],
@@ -1118,6 +1202,13 @@
               "Always cross tram tracks at a 90-degree angle.",
               "Check your brakes before starting; wet rims increase stopping distance.",
               "Utilize the many bridges as temporary rain shelters."
+            ],
+            "sv": [
+              "Bär helt regnställ, inklusive vattentäta byxor.",
+              "Undvik skarpa svängar på våt kullersten för att förhindra sladd.",
+              "Korsa alltid spårvagnsspår i 90 graders vinkel.",
+              "Kontrollera bromsarna innan du börjar; våta fälgar ökar stoppsträckan.",
+              "Använd de många broarna som tillfälliga regnskydd."
             ]
           }
         },
@@ -1126,7 +1217,8 @@
             "de": "Ein erfrischendes Winterabenteuer auf dem Rad. Starten Sie am Kunstmuseum und genießen Sie die klare Luft im Carl Johans Park. Mittags bietet das Museum der Arbeit Wärme und Stärkung. Die Fahrt nach Åbackarna zeigt die winterliche Schönheit des Flusses. Wenn die Lichter in der Industrielandschaft angehen, wird die Rückfahrt besonders stimmungsvoll.",
             "hu": "Frissítő téli kaland két keréken. Kezdje a Művészeti Múzeumnál, élvezve a tiszta levegőt a Carl Johans Parkban. Délben a Munkamúzeum nyújt meleget és pihenőt. Az út az Åbackarna felé megmutatja a folyó téli szépségét. Amikor az ipari negyed fényei felgyúlnak, a hazautazás varázslatossá válik.",
             "ro": "O aventură revigorantă de iarnă pe bicicletă. Începeți la Muzeul de Artă și bucurați-vă de aerul rece în parcul Carl Johans. La prânz, Muzeul Muncii oferă căldură. Drumul spre Åbackarna dezvăluie frumusețea înghețată a râului. Când se aprind luminile în zona industrială, returul devine magic.",
-            "en": "A refreshing winter adventure on your bike. Start at the Art Museum and enjoy the crisp air in Carl Johans Park. Midday offers warmth and rest at the Museum of Work. The ride to Åbackarna shows off the river's winter beauty. As the lights flicker on in the Industrial Landscape, the return journey becomes magical."
+            "en": "A refreshing winter adventure on your bike. Start at the Art Museum and enjoy the crisp air in Carl Johans Park. Midday offers warmth and rest at the Museum of Work. The ride to Åbackarna shows off the river's winter beauty. As the lights flicker on in the Industrial Landscape, the return journey becomes magical.",
+            "sv": "En uppfriskande vinteräventyr på cykel. Börja vid konstmuseet och njut av den krispiga luften i Carl Johans park. Mitt på dagen erbjuds värme och vila på Arbetets museum. Färden till Åbackarna visar flodens vinterskönhet. När ljusen tänds i industrilandskapet blir hemfärden magisk."
           },
           "stops": [
             {
@@ -1135,7 +1227,8 @@
                 "de": "Vorsicht bei der Abfahrt vom Museumshügel; Glättegefahr.",
                 "hu": "Vigyázzon a múzeum-dombról lefelé jövet; csúszásveszély.",
                 "ro": "Atenție la coborârea dealului de la muzeu; risc de polei.",
-                "en": "Be careful when descending the hill from the museum; risk of ice."
+                "en": "Be careful when descending the hill from the museum; risk of ice.",
+                "sv": "Var försiktig när du cyklar nerför backen från museet; risk för is."
               }
             },
             {
@@ -1144,7 +1237,8 @@
                 "de": "Genießen Sie die Ruhe des winterlichen Parks.",
                 "hu": "Élvezze a téli park csendjét és nyugalmát.",
                 "ro": "Bucurați-vă de liniștea parcului înghețat.",
-                "en": "Enjoy the quiet and peace of the wintry park."
+                "en": "Enjoy the quiet and peace of the wintry park.",
+                "sv": "Njut av tystnaden och lugnet i vinterparken."
               }
             },
             {
@@ -1153,7 +1247,8 @@
                 "de": "Das Glasgebäude reflektiert das schwache Winterlicht wunderschön.",
                 "hu": "Az üvegépület gyönyörűen veri vissza a téli fényeket.",
                 "ro": "Clădirea de sticlă reflectă minunat lumina slabă a iernii.",
-                "en": "The glass building beautifully reflects the low winter sun."
+                "en": "The glass building beautifully reflects the low winter sun.",
+                "sv": "Glashuset speglar vackert den låga vinter solen."
               }
             },
             {
@@ -1162,7 +1257,8 @@
                 "de": "Ab 15:00 Uhr leuchten die Wasserfälle farbig.",
                 "hu": "Délután 3-tól színes fényekben úsznak a folyó vízesései.",
                 "ro": "De la ora 15:00, cascadele sunt iluminate în culori vii.",
-                "en": "The waterfalls are illuminated in colors starting from 15:00."
+                "en": "The waterfalls are illuminated in colors starting from 15:00.",
+                "sv": "Vattenfallen är upplysta i färger från klockan 15:00."
               }
             },
             {
@@ -1171,7 +1267,8 @@
                 "de": "Gönnen Sie sich eine heiße Schokolade im Café.",
                 "hu": "Kényeztesse magát egy forró csokoládéval a kávézóban.",
                 "ro": "Răsfățați-vă cu o ciocolată caldă în cafenea.",
-                "en": "Treat yourself to a hot chocolate in the cozy cafe."
+                "en": "Treat yourself to a hot chocolate in the cozy cafe.",
+                "sv": "Unna dig en varm choklad i det mysiga kaféet."
               }
             },
             {
@@ -1180,7 +1277,8 @@
                 "de": "Der Uferweg kann gefroren sein; Spike-Reifen empfohlen.",
                 "hu": "A folyóparti út fagyott lehet; szöges gumi ajánlott.",
                 "ro": "Poteca de pe mal poate fi înghețată; se recomandă cauciucuri cu ținte.",
-                "en": "The riverside path may be frozen; studded tires are recommended."
+                "en": "The riverside path may be frozen; studded tires are recommended.",
+                "sv": "Strandpromenaden kan vara frusen; dubbdäck rekommenderas."
               }
             },
             {
@@ -1189,7 +1287,8 @@
                 "de": "Beleuchtete Fassade bietet eine schöne Kulisse für den Abend.",
                 "hu": "A kivilágított homlokzat szép hátteret ad az estének.",
                 "ro": "Fațada iluminată oferă un decor superb pentru seară.",
-                "en": "The illuminated facade provides a beautiful evening backdrop."
+                "en": "The illuminated facade provides a beautiful evening backdrop.",
+                "sv": "Den upplysta fasaden ger en vacker kvällsbakgrund."
               }
             }
           ],
@@ -1221,6 +1320,13 @@
               "Studded tires (Dubbdäck) are standard for winter cycling in Sweden.",
               "Avoid braking while cornering on potentially icy surfaces.",
               "Plan for shorter distances as the cold drains your energy faster."
+            ],
+            "sv": [
+              "Fram- och bakljus är obligatoriska efter klockan 15:00 på grund av mörkret.",
+              "Bär varma handskar och en vindtät mössa under hjälmen.",
+              "Dubbdäck är standard för vintercykling i Sverige.",
+              "Undvik att bromsa i kurvor på potentiellt isiga ytor.",
+              "Planera för kortare sträckor eftersom kylan dränerar energin snabbare."
             ]
           }
         }
@@ -1239,7 +1345,8 @@
             "de": "Cluster-Parkplatz: Louis De Geer",
             "hu": "Klaszter parkoló: Louis De Geer",
             "ro": "Parcare cluster: Louis De Geer",
-            "en": "Cluster Parking: Louis De Geer"
+            "en": "Cluster Parking: Louis De Geer",
+            "sv": "Klustparkering: Louis De Geer"
           },
           "coords": [
             16.184,
@@ -1255,7 +1362,8 @@
             "de": "Parken Sie hier für den ganzen Tag. Die meisten Sehenswürdigkeiten sind zu Fuß erreichbar.",
             "hu": "Parkoljon itt egész napra. A legtöbb látnivaló gyalogosan elérhető.",
             "ro": "Parcați aici pentru întreaga zi. Majoritatea atracțiilor sunt la distanță de mers pe jos.",
-            "en": "Park here for the day. Most sights are within walking distance."
+            "en": "Park here for the day. Most sights are within walking distance.",
+            "sv": "Parkera här för dagen. De flesta sevärdheter ligger inom gångavstånd."
           }
         },
         {
@@ -1263,7 +1371,8 @@
             "de": "Industrielandschaft & Louis De Geer Halle",
             "hu": "Ipari táj és Louis De Geer Csarnok",
             "ro": "Peisajul Industrial & Sala Louis De Geer",
-            "en": "Industrial Landscape & Louis De Geer Hall"
+            "en": "Industrial Landscape & Louis De Geer Hall",
+            "sv": "Industrilandskapet & Louis De Geer-hallen"
           },
           "coords": [
             16.183,
@@ -1279,7 +1388,8 @@
             "de": "Beginnen Sie Ihren Spaziergang direkt vom Parkhaus aus.",
             "hu": "Kezdje a sétát közvetlenül a parkolóházból.",
             "ro": "Începeți plimbarea direct de la parcare.",
-            "en": "Start your walk directly from the parking garage."
+            "en": "Start your walk directly from the parking garage.",
+            "sv": "Börja din promenad direkt från parkeringsgaraget."
           }
         },
         {
@@ -1287,7 +1397,8 @@
             "de": "Cluster 1: Arbetets museum & Visualiseringscenter C",
             "hu": "1. klaszter: Munka Múzeuma és Vizuális Központ C",
             "ro": "Cluster 1: Muzeul Muncii & Centrul de Vizualizare C",
-            "en": "Cluster 1: Museum of Work & Visualization Center C"
+            "en": "Cluster 1: Museum of Work & Visualization Center C",
+            "sv": "Klust 1: Arbetets museum & Visualiseringscenter C"
           },
           "coords": [
             16.181,
@@ -1303,7 +1414,8 @@
             "de": "Diese beiden Museen liegen nebeneinander. Planen Sie hier auch Ihre Mittagspause ein.",
             "hu": "Ez a két múzeum egymás mellett található. Tervezze ide az ebédszünetet is.",
             "ro": "Aceste două muzee sunt situate unul lângă altul. Planificați-vă și pauza de prânz aici.",
-            "en": "These two museums are located next to each other. Plan your lunch break here as well."
+            "en": "These two museums are located next to each other. Plan your lunch break here as well.",
+            "sv": "Dessa två museer ligger intill varandra. Planera även din lunchpaus här."
           }
         },
         {
@@ -1311,7 +1423,8 @@
             "de": "Cluster 2: Stadtmuseum & Strömparken",
             "hu": "2. klaszter: Városi Múzeum és Strömparken",
             "ro": "Cluster 2: Muzeul Orașului & Parcul Strömparken",
-            "en": "Cluster 2: City Museum & Strömparken"
+            "en": "Cluster 2: City Museum & Strömparken",
+            "sv": "Klust 2: Stadsmuseet & Strömparken"
           },
           "coords": [
             16.179,
@@ -1327,7 +1440,8 @@
             "de": "Nach dem Museum können Sie einen entspannten Spaziergang im Park machen.",
             "hu": "A múzeum után tegyen egy pihentető sétát a parkban.",
             "ro": "După muzeu, puteți face o plimbare relaxantă în parc.",
-            "en": "After the museum, you can take a relaxing walk in the park."
+            "en": "After the museum, you can take a relaxing walk in the park.",
+            "sv": "Efter museet kan du ta en avkopplande promenad i parken."
           }
         },
         {
@@ -1335,7 +1449,8 @@
             "de": "Neuer Parkplatz: Nahe Kunstmuseum",
             "hu": "Új parkoló: A Művészeti Múzeum közelében",
             "ro": "Parcare nouă: Lângă Muzeul de Artă",
-            "en": "New Parking: Near Art Museum"
+            "en": "New Parking: Near Art Museum",
+            "sv": "Ny parkering: Nära konstmuseet"
           },
           "coords": [
             16.183,
@@ -1351,7 +1466,8 @@
             "de": "Für den südlichen Teil der Stadt ist es einfacher, das Auto umzuparken.",
             "hu": "A város déli részéhez egyszerűbb átparkolni az autót.",
             "ro": "Pentru partea de sud a orașului, este mai ușor să mutați mașina.",
-            "en": "For the southern part of the city, it's easier to move the car."
+            "en": "For the southern part of the city, it's easier to move the car.",
+            "sv": "För den södra delen av staden är det lättare att flytta bilen hit."
           }
         },
         {
@@ -1359,7 +1475,8 @@
             "de": "Cluster 3: Kunstmuseum & Matteus-Kirche",
             "hu": "3. klaszter: Művészeti Múzeum és Máté-templom",
             "ro": "Cluster 3: Muzeul de Artă & Biserica Sf. Matei",
-            "en": "Cluster 3: Art Museum & St. Matthew's Church"
+            "en": "Cluster 3: Art Museum & St. Matthew's Church",
+            "sv": "Klust 3: Konstmuseet & Matteuskyrkan"
           },
           "coords": [
             16.184,
@@ -1375,7 +1492,8 @@
             "de": "Erkunden Sie das Kunstmuseum und spazieren Sie dann zur beeindruckenden Kirche.",
             "hu": "Fedezze fel a Művészeti Múzeumot, majd sétáljon át a lenyűgöző templomhoz.",
             "ro": "Explorați Muzeul de Artă și apoi faceți o plimbare până la biserica impresionantă.",
-            "en": "Explore the Art Museum and then take a walk to the impressive church."
+            "en": "Explore the Art Museum and then take a walk to the impressive church.",
+            "sv": "Utforska konstmuseet och ta sedan en promenad till den imponerande kyrkan."
           }
         },
         {
@@ -1383,7 +1501,8 @@
             "de": "Cluster 4: Carl Johans Park",
             "hu": "4. klaszter: Carl Johans Park",
             "ro": "Cluster 4: Parcul Carl Johans",
-            "en": "Cluster 4: Carl Johans Park"
+            "en": "Cluster 4: Carl Johans Park",
+            "sv": "Klust 4: Carl Johans park"
           },
           "coords": [
             16.189,
@@ -1399,7 +1518,8 @@
             "de": "Ein letzter Halt, um den Tag im Grünen ausklingen zu lassen, bevor Sie die Stadt verlassen.",
             "hu": "Egy utolsó megálló, hogy a napot a zöldben fejezze be, mielőtt elhagyja a várost.",
             "ro": "O ultimă oprire pentru a încheia ziua în spațiul verde înainte de a părăsi orașul.",
-            "en": "A final stop to end the day in the green before you leave the city."
+            "en": "A final stop to end the day in the green before you leave the city.",
+            "sv": "Ett sista stopp för att avsluta dagen i det gröna innan du lämnar staden."
           }
         }
       ],
@@ -1407,7 +1527,8 @@
         "de": "Nutzen Sie die Flexibilität des Autos, um Norrköping in Clustern zu erkunden. Parken Sie morgens im Herzen der Industrielandschaft und entdecken Sie zu Fuß das Arbeitsmuseum, das Visualisierungszentrum und die historischen Gebäude. Nach dem Mittagessen schlendern Sie durch den Strömparken. Am Nachmittag fahren Sie zu einem neuen Parkplatz, um das Kunstmuseum und die Matteus-Kirche im Süden der Stadt zu besichtigen. Beenden Sie den Tag mit einem entspannten Besuch im berühmten Carl Johans Park. Diese Methode kombiniert kurze Fahrten mit ausgedehnten, immersiven Spaziergängen.",
         "hu": "Használja ki az autó rugalmasságát, és fedezze fel Norrköpinget klaszterekben. Reggel parkoljon az ipari táj szívében, és sétálva fedezze fel a Munka Múzeumát, a Vizuális Központot és a történelmi épületeket. Ebéd után sétáljon át a Strömparkenen. Délután hajtson át egy új parkolóba, hogy megnézze a város déli részén található Művészeti Múzeumot és a Máté-templomot. Zárja a napot egy pihentető látogatással a híres Carl Johans Parkban. Ez a módszer a rövid autózásokat hosszabb, magával ragadó sétákkal ötvözi.",
         "ro": "Folosiți flexibilitatea mașinii pentru a explora Norrköping în clustere. Dimineața, parcați în inima Peisajului Industrial și descoperiți pe jos Muzeul Muncii, Centrul de Vizualizare și clădirile istorice. După prânz, plimbați-vă prin Strömparken. După-amiaza, conduceți spre o nouă parcare pentru a vizita Muzeul de Artă și Biserica Sf. Matei în sudul orașului. Încheiați ziua cu o vizită relaxantă la faimosul Parc Carl Johans. Această metodă combină călătorii scurte cu mașina cu plimbări lungi și captivante.",
-        "en": "Use the flexibility of the car to explore Norrköping in clusters. In the morning, park in the heart of the Industrial Landscape and discover the Museum of Work, the Visualization Center, and the historic buildings on foot. After lunch, stroll through Strömparken. In the afternoon, drive to a new parking spot to visit the Art Museum and St. Matthew's Church in the south of the city. End the day with a relaxing visit to the famous Carl Johans Park. This method combines short drives with extended, immersive walks."
+        "en": "Use the flexibility of the car to explore Norrköping in clusters. In the morning, park in the heart of the Industrial Landscape and discover the Museum of Work, the Visualization Center, and the historic buildings on foot. After lunch, stroll through Strömparken. In the afternoon, drive to a new parking spot to visit the Art Museum and St. Matthew's Church in the south of the city. End the day with a relaxing visit to the famous Carl Johans Park. This method combines short drives with extended, immersive walks.",
+        "sv": "Använd bilens flexibilitet för att utforska Norrköping i kluster. På morgonen parkera i hjärtat av industrilandskapet och upptäck Arbetets museum, Visualiseringscenter C och de historiska byggnaderna till fots. Efter lunch promenera genom Strömparken. På eftermiddagen kör till en ny parkeringsplats för att besöka konstmuseet och Matteuskyrkan i stadens södra del. Avsluta dagen med ett avkopplande besök i den berömda Carl Johans park. Denna metod kombinerar korta bilresor med långa, uppslukande promenader."
       },
       "gastro_picks": {
         "de": [
@@ -1603,6 +1724,12 @@
           "The 'Park & Walk' strategy is often the most efficient in Norrköping's compact center.",
           "Be aware of environmental zones if you are driving an older diesel vehicle.",
           "Plan for extra time to find parking on busy days."
+        ],
+        "sv": [
+          "Parkering i centrum är avgiftsbelagd. Ha kreditkort eller parkeringsapp redo.",
+          "Park & Walk-strategin är ofta mest effektiv i Norrköpings kompakta centrum.",
+          "Var medveten om miljözoner om du kör en äldre dieselbil.",
+          "Planera extra tid för att hitta parkering under hektiska dagar."
         ]
       },
       "variants": {
@@ -1611,7 +1738,8 @@
             "de": "Nutzen Sie das Auto, um trocken durch Norrköpings Highlights zu navigieren. Parken Sie in Louis De Geer für die Industrielandschaft. Mittags bieten die Cluster im Munkamúzeum und Visualisierungscenter Schutz. Nachmittags wechseln Sie zum Parkplatz am Kunstmuseum. Der Abend endet entspannt im Stadtzentrum, während der Regen gegen das Autodach trommelt.",
             "hu": "Használja az autót, hogy szárazon járja be Norrköping nevezetességeit. Parkoljon a Louis De Geer-nél az ipari negyedhez. Délben a Munkamúzeum és a Visualiseringscenter épületei nyújtanak menedéket. Délután váltson a Művészeti Múzeum melletti parkolóra. Az este a belvárosban zárul, miközben az eső kopog a tetőn.",
             "ro": "Folosiți mașina pentru a naviga prin Norrköping fără a vă uda. Parcați la Louis De Geer pentru zona industrială. La prânz, vizitați Muzeul Muncii și Centrul de Vizualizare. După-amiaza, mutați mașina lângă Muzeul de Artă. Seara se încheie relaxat în centru, feriți de ploaie.",
-            "en": "Use your car to navigate Norrköping's highlights while staying dry. Park at Louis De Geer for the Industrial Landscape. Midday offers shelter at the Museum of Work and Visualization Center. In the afternoon, switch to the parking lot near the Art Museum. The evening ends comfortably downtown as rain taps on the roof."
+            "en": "Use your car to navigate Norrköping's highlights while staying dry. Park at Louis De Geer for the Industrial Landscape. Midday offers shelter at the Museum of Work and Visualization Center. In the afternoon, switch to the parking lot near the Art Museum. The evening ends comfortably downtown as rain taps on the roof.",
+            "sv": "Använd bilen för att navigera Norrköpings höjdpunkter samtidigt som du håller dig torr. Parkera vid Louis De Geer för industrilandskapet. Mitt på dagen erbjuder Arbetets museum och Visualiseringscenter skydd. På eftermiddagen byter du till parkeringsplatsen nära konstmuseet. Kvällen avslutas bekvämt i centrum medan regnet trummar mot taket."
           },
           "stops": [
             {
@@ -1620,7 +1748,8 @@
                 "de": "Großer Parkplatz; idealer Startpunkt für das Industrieviertel.",
                 "hu": "Nagy parkoló; ideális kiindulópont az ipari negyedhez.",
                 "ro": "Parcare spațioasă; punct de pornire ideal pentru zona industrială.",
-                "en": "Large parking area; ideal starting point for the industrial area."
+                "en": "Large parking area; ideal starting point for the industrial area.",
+                "sv": "Stort parkeringsområde; idealisk startpunkt för industrikvarteren."
               }
             },
             {
@@ -1629,7 +1758,8 @@
                 "de": "Überdachte Gänge zwischen den Gebäuden nutzen.",
                 "hu": "Használja az épületek közötti fedett átjárókat.",
                 "ro": "Folosiți pasajele acoperite dintre clădiri.",
-                "en": "Utilize the covered walkways between the historic buildings."
+                "en": "Utilize the covered walkways between the historic buildings.",
+                "sv": "Utnyttja de täckta gångstråken mellan de historiska byggnaderna."
               }
             },
             {
@@ -1638,7 +1768,8 @@
                 "de": "Beide Attraktionen sind durch kurze Sprints erreichbar.",
                 "hu": "Mindkét látnivaló elérhető rövid benti sétákkal.",
                 "ro": "Ambele atracții sunt accesibile prin scurte tranzituri.",
-                "en": "Both attractions are accessible with very short outdoor dashes."
+                "en": "Both attractions are accessible with very short outdoor dashes.",
+                "sv": "Båda attraktionerna nås med mycket korta utomhussträckor."
               }
             },
             {
@@ -1647,7 +1778,8 @@
                 "de": "Parken Sie im nahen Parkhaus 'Spiran' für maximalen Wetterschutz.",
                 "hu": "Parkoljon a közeli 'Spiran' parkolóházban a teljes esővédelemért.",
                 "ro": "Parcați în garajul 'Spiran' pentru protecție maximă la ploaie.",
-                "en": "Park in the nearby 'Spiran' garage for maximum rain protection."
+                "en": "Park in the nearby 'Spiran' garage for maximum rain protection.",
+                "sv": "Parkera i närliggande garage 'Spiran' för maximalt regnskydd."
               }
             },
             {
@@ -1656,7 +1788,8 @@
                 "de": "Hauseigener Parkplatz oft verfügbar; kurzer Weg zum Eingang.",
                 "hu": "Saját parkoló gyakran elérhető; rövid út a bejáratig.",
                 "ro": "Parcare proprie disponibilă; drum scurt până la intrare.",
-                "en": "Dedicated parking often available; short walk to the entrance."
+                "en": "Dedicated parking often available; short walk to the entrance.",
+                "sv": "Avsedd parkering finns ofta; kort promenad till entrén."
               }
             },
             {
@@ -1665,7 +1798,8 @@
                 "de": "Ideal kombiniert, um wenig Zeit im Regen zu verbringen.",
                 "hu": "Ideális kombináció, hogy minimális időt töltsön az esőben.",
                 "ro": "Combinație ideală pentru a petrece timp minim în ploaie.",
-                "en": "Ideal combination to minimize your time spent out in the rain."
+                "en": "Ideal combination to minimize your time spent out in the rain.",
+                "sv": "Idealt kombination för att minimera tiden ute i regnet."
               }
             },
             {
@@ -1674,7 +1808,8 @@
                 "de": "Kurzer Stopp möglich; Blick aus dem Auto auf die Blumenrabatten.",
                 "hu": "Rövid megálló; a virágágyások az autóból is láthatók.",
                 "ro": "Popas scurt; rondurile de flori pot fi admirate din mașină.",
-                "en": "Short stop; flower beds can be admired from the car windows."
+                "en": "Short stop; flower beds can be admired from the car windows.",
+                "sv": "Kort stopp; blomrabatterna kan beundras från bilfönstren."
               }
             }
           ],
@@ -1706,6 +1841,13 @@
               "Keep an umbrella handy in the passenger door pocket.",
               "Parking apps (like EasyPark) are the standard way to pay here.",
               "Watch out for deep puddles in underpasses during heavy downpours."
+            ],
+            "sv": [
+              "Använd inomhusparkeringar som 'Spiran' eller 'Linden' för skydd.",
+              "Undvik att parkera under stora träd vid kraftigt regn och vind.",
+              "Ha ett paraply lätt till hands i passagerardörrens förvaringsficka.",
+              "Parkeringsappar (som EasyPark) är standardmetoden för att betala här.",
+              "Se upp för djupa vattenpölar i underfarter vid kraftigt regn."
             ]
           }
         },
@@ -1714,7 +1856,8 @@
             "de": "Genießen Sie Norrköping warm und gemütlich vom Auto aus. Starten Sie beim Louis De Geer und bewundern Sie den Frost am Industriefluss. Mittags erkunden Sie die warmen Museen im Zentrum. Wenn es nachmittags dunkel wird, bietet das Auto den besten Platz, um die festliche Beleuchtung der Stadt bei der Fahrt durch die Straßen zu bewundern.",
             "hu": "Élvezze Norrköpinget kényelmesen és melegen az autóból. Kezdje a Louis De Geer-nél, csodálva a deres ipari tájat. Délben fedezze fel a fűtött belvárosi múzeumokat. Amikor délután sötétedik, az autó a legjobb hely a város ünnepi fényeinek megcsodálására, miközben az utcákat járja.",
             "ro": "Bucurați-vă de Norrköping din confortul mașinii încălzite. Începeți la Louis De Geer admirând peisajul înghețat. La prânz, vizitați muzeele călduroase din centru. După ce se întunecă, mașina oferă cel mai bun loc pentru a admira iluminatul festiv de pe străzi.",
-            "en": "Enjoy Norrköping from the cozy warmth of your car. Start at Louis De Geer and admire the frosty industrial landscape. Midday is for exploring the well-heated museums downtown. As darkness falls in the afternoon, the car is the best spot to admire the city's festive lights while driving through the streets."
+            "en": "Enjoy Norrköping from the cozy warmth of your car. Start at Louis De Geer and admire the frosty industrial landscape. Midday is for exploring the well-heated museums downtown. As darkness falls in the afternoon, the car is the best spot to admire the city's festive lights while driving through the streets.",
+            "sv": "Njut av Norrköping från bilens ombonade värme. Börja vid Louis De Geer och beundra det frostiga industrilandskapet. Mitt på dagen är det perfekt att utforska de väluppvärmda museerna i centrum. När det blir mörkt på eftermiddagen är bilen bästa platsen att betrakta stadens festliga ljus medan du kör genom gatorna."
           },
           "stops": [
             {
@@ -1723,7 +1866,8 @@
                 "de": "Vorsicht vor Schneehaufen; Parkplätze sind oft geräumt.",
                 "hu": "Vigyázzon a hóbuckákra; a parkolókat általában jól takarítják.",
                 "ro": "Atenție la mormanele de zăpadă; parcările sunt de regulă curățate.",
-                "en": "Watch out for snow piles; parking lots are usually well-cleared."
+                "en": "Watch out for snow piles; parking lots are usually well-cleared.",
+                "sv": "Se upp för snöhögar; parkeringsplatserna är vanligtvis välplogade."
               }
             },
             {
@@ -1732,7 +1876,8 @@
                 "de": "Genießen Sie den Blick auf die Eiszapfen an den alten Fabriken.",
                 "hu": "Csodálja meg a jégcsapokat a régi gyárépületek falain.",
                 "ro": "Admirați țurțurii de gheață de pe vechile clădiri industriale.",
-                "en": "Admire the icicles hanging from the old factory buildings."
+                "en": "Admire the icicles hanging from the old factory buildings.",
+                "sv": "Beundra istapparna som hänger från de gamla fabriksbyggnaderna."
               }
             },
             {
@@ -1741,7 +1886,8 @@
                 "de": "Die Museen sind im Winter beliebte, warme Zufluchtsorte.",
                 "hu": "A múzeumok télen népszerű, meleg menedékhelyek.",
                 "ro": "Muzeele sunt refugii calde și populare în timpul iernii.",
-                "en": "The museums are popular, warm retreats during the winter months."
+                "en": "The museums are popular, warm retreats during the winter months.",
+                "sv": "Museerna är populära, varma tillflyktsorter under vintermånaderna."
               }
             },
             {
@@ -1750,7 +1896,8 @@
                 "de": "Das Ufer kann bei Minusgraden sehr rutschig sein.",
                 "hu": "A folyópart fagypont alatt nagyon csúszós lehet.",
                 "ro": "Malul râului poate fi foarte alunecos la temperaturi negative.",
-                "en": "The riverbank can be very slippery in sub-zero temperatures."
+                "en": "The riverbank can be very slippery in sub-zero temperatures.",
+                "sv": "Åkstranden kan vara mycket hal i minusgrader."
               }
             },
             {
@@ -1759,7 +1906,8 @@
                 "de": "Achten Sie auf Glatteis beim Aussteigen.",
                 "hu": "Vigyázzon a fekete jégre a kiszálláskor.",
                 "ro": "Atenție la polei atunci când coborâți din mașină.",
-                "en": "Be careful of black ice when stepping out of the car."
+                "en": "Be careful of black ice when stepping out of the car.",
+                "sv": "Var försiktig med svartis när du kliver ur bilen."
               }
             },
             {
@@ -1768,7 +1916,8 @@
                 "de": "Beide Gebäude sind abends spektakulär beleuchtet.",
                 "hu": "Mindkét épület látványos világítást kap az esti órákban.",
                 "ro": "Ambele clădiri sunt iluminate spectaculos seara.",
-                "en": "Both buildings are spectacularly lit up in the evenings."
+                "en": "Both buildings are spectacularly lit up in the evenings.",
+                "sv": "Båda byggnaderna är spektakulärt upplysta på kvällarna."
               }
             },
             {
@@ -1777,7 +1926,8 @@
                 "de": "Im Winter oft Schauplatz für Lichtkunst-Installationen.",
                 "hu": "Télen gyakran ad helyet fényfestészeti installációknak.",
                 "ro": "Iarna, parcul găzduiește adesea instalații de artă luminoasă.",
-                "en": "The park often hosts light art installations during winter."
+                "en": "The park often hosts light art installations during winter.",
+                "sv": "Parken visar ofta ljusinstallationer under vintern."
               }
             }
           ],
@@ -1809,6 +1959,13 @@
               "Indoor parking garages are frost-free and keep the car warm.",
               "Batteries drain faster in the cold; don't leave interior lights on.",
               "Check for 'cleaning days' (Städdag) when parking is forbidden for snow removal."
+            ],
+            "sv": [
+              "Se till att din bil är utrustad med vinterdäck (obligatoriskt i Sverige).",
+              "Ha alltid en isskrapa och en snöborste i fordonet.",
+              "Inomhusgarage är frostfria och håller bilen varm.",
+              "Batterier tappar snabbare i kyla; lämna inte innerbelysningen på.",
+              "Kontrollera \"städdagar\" när parkering är förbjuden för snöröjning."
             ]
           }
         }
@@ -1827,7 +1984,8 @@
             "de": "Cluster 1: Ankunft Södertull",
             "hu": "1. klaszter: Érkezés Södertullba",
             "ro": "Cluster 1: Sosire la Södertull",
-            "en": "Cluster 1: Arrival at Södertull"
+            "en": "Cluster 1: Arrival at Södertull",
+            "sv": "Klustret 1: Ankomst vid Södertull"
           },
           "coords": [
             16.188,
@@ -1843,7 +2001,8 @@
             "de": "Dies ist ein wichtiger Verkehrsknotenpunkt. Beginnen Sie hier Ihren Spaziergang.",
             "hu": "Ez egy fontos közlekedési csomópont. Kezdje innen a sétát.",
             "ro": "Acesta este un nod de transport important. Începeți plimbarea de aici.",
-            "en": "This is a major transit hub. Start your walk from here."
+            "en": "This is a major transit hub. Start your walk from here.",
+            "sv": "Detta är en viktig bytespunkt. Starta din promenad härifrån."
           }
         },
         {
@@ -1851,7 +2010,8 @@
             "de": "Konstmuseum & Matteus-Kirche",
             "hu": "Művészeti Múzeum és Máté-templom",
             "ro": "Muzeul de Artă și Biserica Sf. Matei",
-            "en": "Art Museum & St. Matthew's Church"
+            "en": "Art Museum & St. Matthew's Church",
+            "sv": "Konstmuseum & Sankt Matteus kyrka"
           },
           "coords": [
             16.184,
@@ -1867,7 +2027,8 @@
             "de": "Ein kurzer Spaziergang vom Knotenpunkt Södertull bringt Sie zu diesem kulturellen Duo.",
             "hu": "Egy rövid séta a Södertull csomóponttól elvezeti Önt ehhez a kulturális duóhoz.",
             "ro": "O scurtă plimbare de la nodul Södertull vă duce la acest duo cultural.",
-            "en": "A short walk from the Södertull hub takes you to this cultural duo."
+            "en": "A short walk from the Södertull hub takes you to this cultural duo.",
+            "sv": "En kort promenad från Södertull tar dig till detta kulturella par."
           }
         },
         {
@@ -1875,7 +2036,8 @@
             "de": "Cluster 2: Ankunft Rådhuset (Straßenbahn)",
             "hu": "2. klaszter: Érkezés a Rådhusethez (villamos)",
             "ro": "Cluster 2: Sosire la Rådhuset (tramvai)",
-            "en": "Cluster 2: Arrival at Rådhuset (Tram)"
+            "en": "Cluster 2: Arrival at Rådhuset (Tram)",
+            "sv": "Klustret 2: Ankomst vid Rådhuset (Spårvagn)"
           },
           "coords": [
             16.185,
@@ -1891,7 +2053,8 @@
             "de": "Nehmen Sie die Straßenbahnlinie 2 oder 3 für eine malerische Fahrt über den Fluss.",
             "hu": "Menjen a 2-es vagy 3-as villamossal egy festői utazásért a folyón át.",
             "ro": "Luați tramvaiul 2 sau 3 pentru o călătorie pitorească peste râu.",
-            "en": "Take tram line 2 or 3 for a scenic ride across the river."
+            "en": "Take tram line 2 or 3 for a scenic ride across the river.",
+            "sv": "Ta spårvagn linje 2 eller 3 för en naturskön tur över floden."
           }
         },
         {
@@ -1899,7 +2062,8 @@
             "de": "Industrielandschaft & Arbetets museum",
             "hu": "Ipari táj és Munka Múzeuma",
             "ro": "Peisajul Industrial & Muzeul Muncii",
-            "en": "Industrial Landscape & Museum of Work"
+            "en": "Industrial Landscape & Museum of Work",
+            "sv": "Industrilandskapet & Arbetets museum"
           },
           "coords": [
             16.181,
@@ -1915,7 +2079,8 @@
             "de": "Erkunden Sie das Herz der Industriegeschichte und essen Sie im Museumscafé zu Mittag.",
             "hu": "Fedezze fel az ipartörténet szívét és ebédeljen a múzeumi kávézóban.",
             "ro": "Explorați inima istoriei industriale și luați prânzul la cafeneaua muzeului.",
-            "en": "Explore the heart of industrial history and have lunch at the museum cafe."
+            "en": "Explore the heart of industrial history and have lunch at the museum cafe.",
+            "sv": "Utforska industrins hjärta och ät lunch på museets kafé."
           }
         },
         {
@@ -1923,7 +2088,8 @@
             "de": "Visualiseringscenter C & Stadtmuseum",
             "hu": "Vizuális Központ C és Városi Múzeum",
             "ro": "Centrul de Vizualizare C & Muzeul Orașului",
-            "en": "Visualization Center C & City Museum"
+            "en": "Visualization Center C & City Museum",
+            "sv": "Visualization Center C & Stadsmuseet"
           },
           "coords": [
             16.18,
@@ -1939,7 +2105,8 @@
             "de": "Ein weiterer kurzer Spaziergang bringt Sie zu den nächsten beiden Museen.",
             "hu": "Egy újabb rövid séta elvezeti Önt a következő két múzeumhoz.",
             "ro": "O altă plimbare scurtă vă duce la următoarele două muzee.",
-            "en": "Another short walk takes you to the next two museums."
+            "en": "Another short walk takes you to the next two museums.",
+            "sv": "Ytterligare en kort promenad tar dig till de två museerna."
           }
         },
         {
@@ -1947,7 +2114,8 @@
             "de": "Carl Johans Park & Strömparken",
             "hu": "Carl Johans Park és Strömparken",
             "ro": "Parcul Carl Johans & Parcul Strömparken",
-            "en": "Carl Johans Park & Strömparken"
+            "en": "Carl Johans Park & Strömparken",
+            "sv": "Carl Johans Park & Strömparken"
           },
           "coords": [
             16.187,
@@ -1963,7 +2131,8 @@
             "de": "Beenden Sie den Tag mit einem entspannenden Spaziergang durch die Parks, bevor Sie die Straßenbahn zurück nehmen.",
             "hu": "Zárja a napot egy pihentető sétával a parkokban, mielőtt visszamenne a villamoshoz.",
             "ro": "Încheiați ziua cu o plimbare relaxantă prin parcuri înainte de a lua tramvaiul înapoi.",
-            "en": "End the day with a relaxing walk through the parks before taking the tram back."
+            "en": "End the day with a relaxing walk through the parks before taking the tram back.",
+            "sv": "Avsluta dagen med en avkopplande promenad genom parkerna innan du tar spårvagnen tillbaka."
           }
         }
       ],
@@ -1971,7 +2140,8 @@
         "de": "Erleben Sie Norrköping mit seinen ikonischen gelben Straßenbahnen. Beginnen Sie Ihren Tag südlich des Flusses mit einem Besuch im Kunstmuseum und der Matteus-Kirche. Eine kurze Straßenbahnfahrt bringt Sie dann ins Herz der Industrielandschaft. Verbringen Sie den Großteil des Tages damit, dieses faszinierende Gebiet zu Fuß zu erkunden, einschließlich des Arbeitsmuseums und des Visualisierungszentrums. Beenden Sie Ihre Tour mit einem Spaziergang durch die zentralen Parks, bevor Sie wieder in die Straßenbahn steigen. Diese Methode ist effizient, malerisch und sehr authentisch für Norrköping.",
         "hu": "Tapasztalja meg Norrköpinget az ikonikus sárga villamosaival. Kezdje a napot a folyótól délre a Művészeti Múzeum és a Máté-templom meglátogatásával. Egy rövid villamosút ezután az ipari táj szívébe viszi. Töltse a nap nagy részét ennek a lenyűgöző területnek a gyalogos felfedezésével, beleértve a Munka Múzeumát és a Vizuális Központot. Fejezze be a túrát egy sétával a központi parkokban, mielőtt újra villamosra szállna. Ez a módszer hatékony, festői és nagyon autentikus Norrköping számára.",
         "ro": "Experimentați Norrköping cu tramvaiele sale galbene iconice. Începeți ziua la sud de râu cu o vizită la Muzeul de Artă și Biserica Sf. Matei. O scurtă călătorie cu tramvaiul vă va duce apoi în inima Peisajului Industrial. Petreceți cea mai mare parte a zilei explorând această zonă fascinantă pe jos, inclusiv Muzeul Muncii și Centrul de Vizualizare. Încheiați turul cu o plimbare prin parcurile centrale înainte de a lua din nou tramvaiul. Această metodă este eficientă, pitorească și foarte autentică pentru Norrköping.",
-        "en": "Experience Norrköping with its iconic yellow trams. Start your day south of the river with a visit to the Art Museum and St. Matthew's Church. A short tram ride will then take you to the heart of the Industrial Landscape. Spend the majority of the day exploring this fascinating area on foot, including the Museum of Work and the Visualization Center. Finish your tour with a walk through the central parks before hopping back on a tram. This method is efficient, scenic, and very authentic to Norrköping."
+        "en": "Experience Norrköping with its iconic yellow trams. Start your day south of the river with a visit to the Art Museum and St. Matthew's Church. A short tram ride will then take you to the heart of the Industrial Landscape. Spend the majority of the day exploring this fascinating area on foot, including the Museum of Work and the Visualization Center. Finish your tour with a walk through the central parks before hopping back on a tram. This method is efficient, scenic, and very authentic to Norrköping.",
+        "sv": "Upplev Norrköping med sina ikoniska gula spårvagnar. Börja dagen söder om floden med ett besök på konstmuseet och Sankt Matteus kyrka. En kort spårvagnstur tar dig sedan till Industrilandskapet. Tillbringa större delen av dagen med att utforska detta fascinerande område till fots, inklusive Arbetets museum och Visualization Center. Avsluta turen med en promenad genom de centrala parkerna innan du hoppar på spårvagnen igen. Denna metod är effektiv, vacker och mycket typisk för Norrköping."
       },
       "gastro_picks": {
         "de": [
@@ -2167,6 +2337,12 @@
           "Tram lines 2 and 3 are the most important for tourists and cover most sights.",
           "The Östgötatrafiken app is useful for real-time schedules and ticket purchases.",
           "Validate your ticket every time you board, even when transferring."
+        ],
+        "sv": [
+          "Köp ett dagskort för kollektivtrafiken för obegränsade resor.",
+          "Spårvagnslinjerna 2 och 3 är viktigast för turister och täcker de flesta sevärdheter.",
+          "Östgötatrafiken-appen är användbar för tidtabeller i realtid och biljettköp.",
+          "Stämpla/validera din biljett varje gång du går ombord, även vid byte."
         ]
       },
       "variants": {
@@ -2175,7 +2351,8 @@
             "de": "Nutzen Sie Norrköpings ikonische sárga Straßenbahnen als perfekten Regenschutz. Starten Sie bei Södertull und besuchen Sie das warme Kunstmuseum. Mittags bringt Sie die Bahn direkt zum Rådhuset, von wo es nur ein kurzer Sprung zur Industrielandschaft ist. Den Nachmittag verbringen Sie in den Museen am Wasser, bevor die Bahn Sie am Abend wieder trocken zurückbringt.",
             "hu": "Használja Norrköping ikonikus sárga villamosait a tökéletes esővédelem érdekében. Kezdjen a Södertullnál, látogassa meg a fűtött Művészeti Múzeumot. Délben a villamos közvetlenül a Rådhusethez viszi, ahonnan csak pár lépés az ipari negyed. A délutánt a vízparti múzeumokban töltse, majd este szárazon utazhat vissza.",
             "ro": "Folosiți tramvaiele galbene emblematice ca adăpost perfect împotriva ploii. Începeți la Södertull și vizitați Muzeul de Artă. La prânz, tramvaiul vă lasă la Rådhuset, aproape de zona industrială. După-amiaza aparține muzeelor de pe malul apei, iar seara tramvaiul vă duce înapoi la adăpost.",
-            "en": "Use Norrköping's iconic yellow trams as your perfect mobile rain shelter. Start at Södertull and visit the warm Art Museum. Midday, the tram takes you to Rådhuset, just steps from the Industrial Landscape. Spend the afternoon in the riverside museums before hopping back on a dry tram for the evening."
+            "en": "Use Norrköping's iconic yellow trams as your perfect mobile rain shelter. Start at Södertull and visit the warm Art Museum. Midday, the tram takes you to Rådhuset, just steps from the Industrial Landscape. Spend the afternoon in the riverside museums before hopping back on a dry tram for the evening.",
+            "sv": "Använd Norrköpings ikoniska gula spårvagnar som perfekt mobilt regnskydd. Börja vid Södertull och besök det varma konstmuseet. Mitt på dagen tar spårvagnen dig till Rådhuset, ett stenkast från Industrilandskapet. Tillbringa eftermiddagen i museerna vid ån innan du hoppar på en torr spårvagn igen för kvällen."
           },
           "stops": [
             {
@@ -2184,7 +2361,8 @@
                 "de": "Wichtiger Knotenpunkt mit überdachten Wartebereichen.",
                 "hu": "Fontos közlekedési csomópont fedett várókkal.",
                 "ro": "Nod principal de transport cu zone de așteptare acoperite.",
-                "en": "Major transit hub with covered waiting areas."
+                "en": "Major transit hub with covered waiting areas.",
+                "sv": "Stort bytesställe med täckta väntområden."
               }
             },
             {
@@ -2193,7 +2371,8 @@
                 "de": "Nur 5 Minuten Fußweg von der Straßenbahnhaltestelle.",
                 "hu": "Csak 5 perc séta a villamosmegállótól.",
                 "ro": "La doar 5 minute de mers pe jos de stația de tramvai.",
-                "en": "Just a 5-minute walk from the tram stop."
+                "en": "Just a 5-minute walk from the tram stop.",
+                "sv": "Endast 5 minuters promenad från spårvagnshållplatsen."
               }
             },
             {
@@ -2202,7 +2381,8 @@
                 "de": "Direkter Zugang zur Innenstadt unter dem Dach des Rathauses.",
                 "hu": "Közvetlen belvárosi elérés a városháza árkádjai közelében.",
                 "ro": "Acces direct în centru, aproape de arcadele primăriei.",
-                "en": "Direct city center access near the city hall archways."
+                "en": "Direct city center access near the city hall archways.",
+                "sv": "Direkt tillgång till stadskärnan nära rådhusets valvbågar."
               }
             },
             {
@@ -2211,7 +2391,8 @@
                 "de": "Kurze Wege zwischen den Haltestellen und den Eingängen.",
                 "hu": "Rövid távolságok a megállók és a bejáratok között.",
                 "ro": "Distanțe scurte între stații și intrările muzeelor.",
-                "en": "Short distances between transit stops and museum entrances."
+                "en": "Short distances between transit stops and museum entrances.",
+                "sv": "Korta avstånd mellan hållplatser och museientréer."
               }
             },
             {
@@ -2220,7 +2401,8 @@
                 "de": "Perfekte Indoor-Kombination für regnerische Nachmittage.",
                 "hu": "Tökéletes benti kombináció esős délutánokra.",
                 "ro": "Combinație indoor perfectă pentru după-amiezi ploioase.",
-                "en": "Perfect indoor combination for rainy afternoons."
+                "en": "Perfect indoor combination for rainy afternoons.",
+                "sv": "Perfekt inomhuskombination för regniga eftermiddagar."
               }
             },
             {
@@ -2229,7 +2411,8 @@
                 "de": "Die Haltestelle 'Rådhuset' liegt direkt am Parkrand.",
                 "hu": "A 'Rådhuset' megálló közvetlenül a park szélén található.",
                 "ro": "Stația 'Rådhuset' se află chiar la marginea parcului.",
-                "en": "The 'Rådhuset' stop is located right at the edge of the park."
+                "en": "The 'Rådhuset' stop is located right at the edge of the park.",
+                "sv": "\"Rådhuset\"-hållplatsen ligger precis vid parkens kant."
               }
             }
           ],
@@ -2261,6 +2444,13 @@
               "Lines 2 and 3 cover almost all the main tourist attractions.",
               "On-board displays make it easy to track your stop.",
               "Be careful of large puddles at the curb when boarding or alighting."
+            ],
+            "sv": [
+              "Köp biljetter i förväg via Östgötatrafiken-appen.",
+              "Spårvagnarna är varma och torra; ett bra sätt att vila mellan museibesöken.",
+              "Linje 2 och 3 täcker nästan alla huvudattraktioner.",
+              "Omborddisplayer gör det enkelt att följa din hållplats.",
+              "Se upp för stora vattenpölar vid trottoarkanten när du stiger ombord eller av."
             ]
           }
         },
@@ -2269,7 +2459,8 @@
             "de": "Erleben Sie den Winterzauber Norrköpings bequem mit der Straßenbahn. Die sárga Wagen bieten eine warme Fahrt durch die verschneiten Straßen. Starten Sie am Södertull für das Kunstmuseum. Mittags bringt Sie die Bahn zur Industrielandschaft, die im Winterlicht glänzt. Der Abend im Park am Rathaus ist dank der kurzen Wege zur Bahnstation auch bei Kälte ein Genuss.",
             "hu": "Élje át Norrköping téli varázsát kényelmesen a villamosról. A sárga kocsik meleg utazást biztosítanak a havas utcákon. Kezdjen a Södertullnál a Művészeti Múzeumhoz. Délben a villamos az ipari negyedbe viszi, amely ragyog a téli fényben. A városháza melletti park még hidegben is élvezetes a közeli megállóknak köszönhetően.",
             "ro": "Experimentați magia iernii în Norrköping din confortul tramvaiului. Vagoanele galbene oferă o călătorie caldă prin orașul ningând. Începeți la Södertull pentru muzeul de artă. La prânz, tramvaiul vă duce în zona industrială strălucitoare. Seara în parc este plăcută datorită apropierii stațiilor de tramvai.",
-            "en": "Experience Norrköping's winter magic comfortably by tram. The yellow cars offer a warm ride through the snowy streets. Start at Södertull for the Art Museum. At midday, the tram whisks you to the Industrial Landscape, glowing in winter light. Evening in the park remains pleasant due to the short walk to the transit stops."
+            "en": "Experience Norrköping's winter magic comfortably by tram. The yellow cars offer a warm ride through the snowy streets. Start at Södertull for the Art Museum. At midday, the tram whisks you to the Industrial Landscape, glowing in winter light. Evening in the park remains pleasant due to the short walk to the transit stops.",
+            "sv": "Upplev Norrköpings vintermagi bekvämt med spårvagn. De gula vagnarna erbjuder en varm tur genom de snötäckta gatorna. Börja vid Södertull för Konstmuseet. Mitt på dagen tar spårvagnen dig till Industrilandskapet, som lyser vackert i vinterljus. Kvällen i parken är behaglig tack vare den korta promenaden till hållplatserna."
           },
           "stops": [
             {
@@ -2278,7 +2469,8 @@
                 "de": "Windgeschützte Unterstände vorhanden; oft festlich geschmückt.",
                 "hu": "Szélvédett várók találhatók; gyakran ünnepi díszben pompáznak.",
                 "ro": "Refugii protejate de vânt; adesea decorate festiv.",
-                "en": "Wind-protected shelters available; often festively decorated."
+                "en": "Wind-protected shelters available; often festively decorated.",
+                "sv": "Vindskyddade buss- och vagns väntkurar finns; ofta festligt dekorerade."
               }
             },
             {
@@ -2287,7 +2479,8 @@
                 "de": "Der Spaziergang von der Bahn ist kurz und meist gut gestreut.",
                 "hu": "A villamostól való séta rövid és általában jól sózott.",
                 "ro": "Plimbarea de la tramvai este scurtă și trotuarele sunt curățate.",
-                "en": "The walk from the tram is short and usually well-sanded."
+                "en": "The walk from the tram is short and usually well-sanded.",
+                "sv": "Promenaden från spårvagnen är kort och vanligtvis väl sandsopad."
               }
             },
             {
@@ -2296,7 +2489,8 @@
                 "de": "Genießen Sie den Blick auf das Rathaus im Schnee beim Aussteigen.",
                 "hu": "Élvezze a havas városháza látványát a leszálláskor.",
                 "ro": "Admirați primăria sub zăpadă imediat ce coborâți.",
-                "en": "Enjoy the view of the snowy city hall as you step off the tram."
+                "en": "Enjoy the view of the snowy city hall as you step off the tram.",
+                "sv": "Njut av utsikten över det snötäckta rådhuset när du kliver av spårvagnen."
               }
             },
             {
@@ -2305,7 +2499,8 @@
                 "de": "Die Wärme der Straßenbahn ist nach dem Uferspaziergang herrlich.",
                 "hu": "A villamos melege áldás a folyóparti séta után.",
                 "ro": "Căldura din tramvai este minunată după plimbarea pe mal.",
-                "en": "The tram's warmth is wonderful after a stroll by the water."
+                "en": "The tram's warmth is wonderful after a stroll by the water.",
+                "sv": "Spårvagnens värme är underbar efter en promenad vid vattnet."
               }
             },
             {
@@ -2314,7 +2509,8 @@
                 "de": "Ideale Ziele für den Nachmittag, wenn es draußen kalt wird.",
                 "hu": "Ideális célpontok délutánra, amikor odakint lehűl az idő.",
                 "ro": "Destinații ideale pentru după-amiază, când se face foarte frig.",
-                "en": "Ideal afternoon destinations when it gets very cold outside."
+                "en": "Ideal afternoon destinations when it gets very cold outside.",
+                "sv": "Ideala eftermiddagsmål när det blir riktigt kallt utomhus."
               }
             },
             {
@@ -2323,7 +2519,8 @@
                 "de": "Kurzer Aufenthalt im Freien dank naher Tram-Verbindung.",
                 "hu": "Rövid kintlét a közeli villamoskapcsolatnak köszönhetően.",
                 "ro": "Timp minim petrecut în frig datorită stației de tramvai din apropiere.",
-                "en": "Keep outdoor time to a minimum thanks to the nearby tram link."
+                "en": "Keep outdoor time to a minimum thanks to the nearby tram link.",
+                "sv": "Håll utevistelsen kort tack vare den nära spårvagnsförbindelsen."
               }
             }
           ],
@@ -2355,6 +2552,13 @@
               "Be careful when boarding as the steps can be icy and slippery.",
               "The app provides real-time updates on any snow-related delays.",
               "A day pass is worth it if you plan to hop on and off frequently to warm up."
+            ],
+            "sv": [
+              "Spårvagnarna är väluppvärmda och mycket ombonade under vintern.",
+              "På mörka eftermiddagar förvandlas en spårvagnstur till en festlig stadsvandring.",
+              "Var försiktig när du stiger på eftersom trappstegen kan vara isiga och hala.",
+              "Appen ger realtidsuppdateringar om eventuella snörelaterade förseningar.",
+              "Ett dagskort är värt det om du planerar att hoppa av och på ofta för att värma dig."
             ]
           }
         }

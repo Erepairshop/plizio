@@ -21,7 +21,8 @@
             "de": "S:t Lukas Kirche",
             "hu": "S:t Lukas templom",
             "ro": "Biserica Sf. Luca",
-            "en": "St. Luke's Church"
+            "en": "St. Luke's Church",
+            "sv": "St. Luke's Church"
           },
           "coords": [
             17.803555,
@@ -36,7 +37,8 @@
             "de": "Bewundern Sie die moderne Backsteinarchitektur der S:t Lukas Kirche, einem friedlichen Zentrum in Kallhäll, und genießen Sie die Stille, bevor Sie den Gemeindekalender prüfen.",
             "hu": "Csodálja meg a S:t Lukas templom modern téglaépítészetét, amely Kallhäll békés spirituális központja, és élvezze a csendes elmélkedést, mielőtt megnézné a helyi eseményeket.",
             "ro": "Admirați arhitectura modernă din cărămidă a bisericii S:t Lukas, un centru spiritual pașnic, și bucurați-vă de un moment de reflecție liniștită înainte de a verifica programul local.",
-            "en": "Admire the modern brick architecture of S:t Lukas kyrka, a peaceful spiritual center in Kallhäll, and take a moment to enjoy the quiet reflection before checking the local parish schedule for events."
+            "en": "Admire the modern brick architecture of S:t Lukas kyrka, a peaceful spiritual center in Kallhäll, and take a moment to enjoy the quiet reflection before checking the local parish schedule for events.",
+            "sv": "Beundra den moderna tegelarkitekturen i S:t Lukas kyrka, ett fridfullt andligt centrum i Kallhäll, och ta en stund för tyst eftertanke innan du kollar församlingens schema för evenemang."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Rondellen Schwimmbad",
             "hu": "Rondellen Úszómedence",
             "ro": "Piscina Rondellen",
-            "en": "Rondellen Swimming Pool"
+            "en": "Rondellen Swimming Pool",
+            "sv": "Rondellen Swimming Pool"
           },
           "coords": [
             17.806831,
@@ -59,7 +62,8 @@
             "de": "Tauchen Sie in das erfrischende Wasser des Rondellen BRF-Schwimmbads ein, einem perfekten Ort zur Erholung, und bringen Sie Ihr eigenes Handtuch mit, da der Verleih oft begrenzt ist.",
             "hu": "Merüljön el a Rondellen BRF úszómedence frissítő vizében, amely a helyi kikapcsolódás remek helyszíne, és ne felejtsen el saját törölközőt hozni a korlátozott kölcsönzés miatt.",
             "ro": "Scufundați-vă în apele revigorante ale piscinei Rondellen BRF, un loc perfect pentru recreere, și asigurați-vă că aduceți propriul prosop, deoarece închirierile sunt adesea indisponibile.",
-            "en": "Dive into the refreshing waters of the Rondellen BRF swimming pool, a perfect spot for local recreation, and remember to pack your own towel as rentals are often unavailable."
+            "en": "Dive into the refreshing waters of the Rondellen BRF swimming pool, a perfect spot for local recreation, and remember to pack your own towel as rentals are often unavailable.",
+            "sv": "Kasta dig i det uppfriskande vattnet i Rondellens BRF-bassäng, en perfekt plats för lokal rekreation, och kom ihåg att ta med egen handduk då uthyrning ofta saknas."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Bolindermuseum",
             "hu": "Bolinder Múzeum",
             "ro": "Muzeul Bolinder",
-            "en": "Bolinder Museum"
+            "en": "Bolinder Museum",
+            "sv": "Bolinder Museum"
           },
           "coords": [
             17.807483,
@@ -82,7 +87,8 @@
             "de": "Erkunden Sie die reiche Industriegeschichte von Kallhäll im Bolindermuseet mit seinen faszinierenden Maschinen, und prüfen Sie vorab unbedingt die Öffnungszeiten online.",
             "hu": "Fedezze fel Kallhäll gazdag ipari múltját a Bolindermuseet lenyűgöző gépészeti kiállításain, de látogatás előtt mindenképpen ellenőrizze az online nyitvatartási időt.",
             "ro": "Explorați istoria industrială bogată a orașului Kallhäll la Bolindermuseet, plin de mașinării fascinante, și nu uitați să verificați online programul de funcționare înainte.",
-            "en": "Explore the rich industrial history of Kallhäll at Bolindermuseet, where fascinating machinery exhibits await, and be sure to verify their opening hours online before your visit."
+            "en": "Explore the rich industrial history of Kallhäll at Bolindermuseet, where fascinating machinery exhibits await, and be sure to verify their opening hours online before your visit.",
+            "sv": "Utforska Kallhälls rika industrihistoria på Bolindermuseet, där fascinerande maskinexponat väntar, och kontrollera gärna öppettiderna online före ditt besök."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Lädersättra",
             "hu": "Lädersättra",
             "ro": "Lädersättra",
-            "en": "Lädersättra"
+            "en": "Lädersättra",
+            "sv": "Lädersättra"
           },
           "coords": [
             17.815694,
@@ -105,7 +112,8 @@
             "de": "Spazieren Sie über das historische Gelände von Lädersättra, um die landwirtschaftlichen Wurzeln der Region zu entdecken, und tragen Sie festes Schuhwerk für die unbefestigten Wege.",
             "hu": "Sétáljon végig Lädersättra történelmi területén, hogy felfedezze a régió mezőgazdasági gyökereit, és viseljen kényelmes túracipőt a burkolatlan természeti ösvények bejárásához.",
             "ro": "Plimbați-vă pe terenurile istorice din Lädersättra pentru a descoperi rădăcinile agricole ale regiunii și purtați încălțăminte robustă pentru a naviga confortabil pe potecile naturale.",
-            "en": "Walk through the historic grounds of Lädersättra to uncover the region's agricultural roots, and wear sturdy walking shoes to comfortably navigate the unpaved natural pathways."
+            "en": "Walk through the historic grounds of Lädersättra to uncover the region's agricultural roots, and wear sturdy walking shoes to comfortably navigate the unpaved natural pathways.",
+            "sv": "Promenera genom de historiska markerna i Lädersättra för att upptäcka regionens jordbruksrötter, och ha stadiga promenadskor för att bekvämt ta dig fram på de otillplattade naturstigarna."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Hälleboda",
             "hu": "Hälleboda",
             "ro": "Hälleboda",
-            "en": "Hälleboda"
+            "en": "Hälleboda",
+            "sv": "Hälleboda"
           },
           "coords": [
             17.792779,
@@ -128,7 +137,8 @@
             "de": "Entdecken Sie den zeitlosen Charme von Hälleboda, einer historischen Siedlung, die Einblicke ins traditionelle Leben bietet, und bringen Sie eine Kamera für die rustikalen Gebäude mit.",
             "hu": "Fedezze fel Hälleboda időtlen varázsát, amely bepillantást enged a hagyományos svéd életbe, és hozzon magával fényképezőgépet a gyönyörűen megőrzött rusztikus épületek megörökítéséhez.",
             "ro": "Descoperiți farmecul atemporal din Hälleboda, o așezare istorică ce ilustrează viața tradițională suedeză, și aduceți un aparat foto pentru a surprinde clădirile rustice conservate.",
-            "en": "Discover the timeless charm of Hälleboda, a historic settlement that offers a glimpse into traditional Swedish life, and bring a camera to capture the beautifully preserved rustic buildings."
+            "en": "Discover the timeless charm of Hälleboda, a historic settlement that offers a glimpse into traditional Swedish life, and bring a camera to capture the beautifully preserved rustic buildings.",
+            "sv": "Upptäck Hällebodas tidlösa charm, en historisk bosättning som ger en inblick i traditionellt svenskt liv, och ta med kamera för att fånga de vackert bevarade rustika byggnaderna."
           }
         }
       ],
@@ -136,7 +146,8 @@
         "de": "Beginnen Sie den Morgen mit der Erkundung von Kallhälls spirituellem Zentrum. Mittags tauchen Sie im bekannten Bolindermuseet in das reiche industrielle Erbe der Kleinstadt ein. Der Nachmittag widmet sich den historischen Wurzeln bei einem landschaftlichen Spaziergang nach Lädersättra. Beenden Sie den Tag ruhig in der traditionellen Siedlung Hälleboda, während der Abend sanft anbricht.",
         "hu": "Kezdje a reggelt Kallhäll spirituális és rekreációs központjának felfedezésével. Délben merüljön el a város ipari örökségében a híres Bolindermuseet tárlatain. A délután a történelmi gyökereké, élvezze a sétát Lädersättra rusztikus tájain. Zárja a napot Hälleboda hagyományos településének felfedezésével, ahogy az est békésen leereszkedik.",
         "ro": "Începeți dimineața explorând centrul spiritual și recreativ din Kallhäll. La prânz, aprofundați moștenirea industrială a orașului la renumitul Bolindermuseet. După-amiaza se îndreaptă spre rădăcinile istorice, cu o plimbare spre peisajele rustice din Lädersättra. Încheiați ziua descoperind așezarea tradițională Hälleboda, în timp ce seara se apropie liniștit.",
-        "en": "Start your morning exploring Kallhäll's spiritual and recreational center, soaking in the local atmosphere. By midday, delve into the town's industrial legacy at the renowned Bolindermuseet. The afternoon shifts to historical roots with a scenic walk to Lädersättra's rustic landscapes. Conclude your day discovering the traditional settlement of Hälleboda as evening peacefully approaches."
+        "en": "Start your morning exploring Kallhäll's spiritual and recreational center, soaking in the local atmosphere. By midday, delve into the town's industrial legacy at the renowned Bolindermuseet. The afternoon shifts to historical roots with a scenic walk to Lädersättra's rustic landscapes. Conclude your day discovering the traditional settlement of Hälleboda as evening peacefully approaches.",
+        "sv": "Börja morgonen med att utforska Kallhälls andliga och rekreationella centrum och insupa den lokala atmosfären. Vid middagstid fördjupar du dig i stadens industriella arv på det välkända Bolindermuseet. Eftermiddagen skiftar till historiska rötter med en naturskön promenad i Lädersättras rustika landskap. Avsluta dagen med att upptäcka den traditionella bosättningen Hälleboda när kvällen lugnt närmar sig."
       },
       "variants": {
         "rainy": {
@@ -144,7 +155,8 @@
             "de": "Morgens bietet die moderne Kirche Schutz vor dem ersten Guss. Mittags entspannen wir im überdachten Rondellen-Bad, während draußen der Regen prasselt. Nachmittags erkunden wir trocken die Industriegeschichte im Bolindermuseum. Den Tag beschließen wir bei den historischen Stätten Lädersättra und Hälleboda, wo die regennasse Natur eine mystische, nordische Atmosphäre am Seeufer schafft.",
             "hu": "Reggel a modern templom nyújt menedéket az első zápor elől. Délben a fedett Rondellen uszodában pihenünk, miközben kint kopog az eső. Délután szárazon fedezzük fel az ipartörténetet a Bolinder Múzeumban. A napot Lädersättra és Hälleboda történelmi helyszínein zárjuk, ahol az eső áztatta természet különleges, misztikus északi hangulatot áraszt a tó partján.",
             "ro": "Dimineața, biserica modernă oferă adăpost de prima ploaie. La prânz ne relaxăm în piscina acoperită Rondellen, în timp ce afară plouă. După-amiaza explorăm istoria industrială la Muzeul Bolinder, la adăpost. Încheiem ziua la siturile istorice Lädersättra și Hälleboda, unde natura udată de ploaie creează o atmosferă nordică mistică pe malul lacului.",
-            "en": "In the morning, the modern church provides shelter from the first showers. At noon, we relax in the indoor Rondellen pool while the rain falls outside. In the afternoon, we explore industrial history dryly at the Bolinder Museum. We conclude the day at the historical sites of Lädersättra and Hälleboda, where the rain-soaked nature creates a mystical Nordic atmosphere by the lake."
+            "en": "In the morning, the modern church provides shelter from the first showers. At noon, we relax in the indoor Rondellen pool while the rain falls outside. In the afternoon, we explore industrial history dryly at the Bolinder Museum. We conclude the day at the historical sites of Lädersättra and Hälleboda, where the rain-soaked nature creates a mystical Nordic atmosphere by the lake.",
+            "sv": "På morgonen erbjuder den moderna kyrkan skydd från de första skurarna. Vid middagstid kopplar vi av i Rondellens inomhusbassäng medan regnet faller utanför. På eftermiddagen utforskar vi industrihistorien torrt på Bolindermuseet. Vi avslutar dagen vid de historiska platserna i Lädersättra och Hälleboda, där den regnmättade naturen skapar en mystisk nordisk stämning vid sjön."
           },
           "stops": [
             {
@@ -152,13 +164,15 @@
                 "de": "S:t Lukas Kirche",
                 "hu": "S:t Lukas templom",
                 "ro": "Biserica Sf. Luca",
-                "en": "St. Luke's Church"
+                "en": "St. Luke's Church",
+                "sv": "St. Luke's Church"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie die helle Architektur im Trockenen; die Vorhalle ist ein idealer Ort, um den Regenschirm aufzuspannen und die Route zu planen.",
                 "hu": "Csodálja meg a világos építészetet szárazon; az előtér ideális hely az esernyő kinyitásához és az útvonal további tervezéséhez.",
                 "ro": "Admirați arhitectura luminoasă la adăpost; vestibulul este locul ideal pentru a deschide umbrela și a planifica restul traseului.",
-                "en": "Admire the bright architecture while staying dry; the porch is an ideal spot to open your umbrella and plan the next part of your route."
+                "en": "Admire the bright architecture while staying dry; the porch is an ideal spot to open your umbrella and plan the next part of your route.",
+                "sv": "Beundra den ljusa arkitekturen medan du håller dig torr; farstun är en idealisk plats att öppna paraplyet och planera nästa del av rutten."
               }
             },
             {
@@ -166,13 +180,15 @@
                 "de": "Rondellen Schwimmbad",
                 "hu": "Rondellen Úszómedence",
                 "ro": "Piscina Rondellen",
-                "en": "Rondellen Swimming Pool"
+                "en": "Rondellen Swimming Pool",
+                "sv": "Rondellen Swimming Pool"
               },
               "tip_5lang": {
                 "de": "Das Hallenbad ist die perfekte Flucht vor schlechtem Wetter; genießen Sie das warme Wasser, während es draußen stürmt und regnet.",
                 "hu": "A fedett uszoda tökéletes menekülés a rossz idő elől; élvezze a meleg vizet, miközben kint tombol a szél és esik az eső.",
                 "ro": "Piscina interioară este evadarea perfectă de vremea rea; bucurați-vă de apa caldă în timp ce afară este furtună și plouă.",
-                "en": "The indoor pool is the perfect escape from bad weather; enjoy the warm water while the wind and rain rage outside."
+                "en": "The indoor pool is the perfect escape from bad weather; enjoy the warm water while the wind and rain rage outside.",
+                "sv": "Inomhusbassängen är det perfekta flyktvägen från dåligt väder; njut av det varma vattnet medan vinden och regnet rasar utanför."
               }
             },
             {
@@ -180,13 +196,15 @@
                 "de": "Bolindermuseum",
                 "hu": "Bolinder Múzeum",
                 "ro": "Muzeul Bolinder",
-                "en": "Bolinder Museum"
+                "en": "Bolinder Museum",
+                "sv": "Bolinder Museum"
               },
               "tip_5lang": {
                 "de": "Verbringen Sie die regnerische Zeit zwischen alten Motoren; das Museum bietet ein umfassendes Dach für Technikbegeisterte bei jedem Wetter.",
                 "hu": "Töltse az esős időt a régi motorok között; a múzeum teljes körű védelmet nyújt a technika szerelmeseinek bármilyen időjárás esetén.",
                 "ro": "Petreceți timpul ploios printre motoarele vechi; muzeul oferă un adăpost complet pentru pasionații de tehnică pe orice vreme.",
-                "en": "Spend the rainy hours among old engines; the museum provides full cover for technology enthusiasts in any weather conditions."
+                "en": "Spend the rainy hours among old engines; the museum provides full cover for technology enthusiasts in any weather conditions.",
+                "sv": "Tillbringa regniga timmar bland gamla motorer; museet erbjuder fullt skydd för teknikintresserade i alla väder."
               }
             },
             {
@@ -194,13 +212,15 @@
                 "de": "Lädersättra",
                 "hu": "Lädersättra",
                 "ro": "Lädersättra",
-                "en": "Lädersättra"
+                "en": "Lädersättra",
+                "sv": "Lädersättra"
               },
               "tip_5lang": {
                 "de": "Die Pfade können schlammig sein, tragen Sie wasserfeste Stiefel; der Nebel über den Feldern verleiht dem Ort eine dramatische Optik.",
                 "hu": "Az ösvények sárgaek lehetnek, viseljen vízálló bakancsot; a mezők feletti köd drámai látványt kölcsönöz a történelmi helyszínnek.",
                 "ro": "Potecile pot fi noroioase, purtați cizme impermeabile; ceața de peste câmpuri oferă locului un aspect dramatic și istoric.",
-                "en": "The paths can be muddy, so wear waterproof boots; the mist over the fields gives the site a dramatic and historical look."
+                "en": "The paths can be muddy, so wear waterproof boots; the mist over the fields gives the site a dramatic and historical look.",
+                "sv": "Stigarna kan vara leriga, så ha vattentäta stövlar; dimman över fälten ger platsen ett dramatiskt och historiskt sken."
               }
             },
             {
@@ -208,13 +228,15 @@
                 "de": "Hälleboda",
                 "hu": "Hälleboda",
                 "ro": "Hälleboda",
-                "en": "Hälleboda"
+                "en": "Hälleboda",
+                "sv": "Hälleboda"
               },
               "tip_5lang": {
                 "de": "Suchen Sie Schutz unter den dichten Bäumen am Ufer; die herabfallenden Regentropfen auf dem See bilden ein beruhigendes Naturschauspiel.",
                 "hu": "Keressen menedéket a sűrű parti fák alatt; a tóra hulló esőcseppek megnyugtató természeti látványt nyújtanak a séta végén.",
                 "ro": "Căutați adăpost sub copacii deși de pe mal; picăturile de ploaie care cad pe lac oferă un spectacol natural liniștitor la final.",
-                "en": "Seek shelter under the dense lakeside trees; the raindrops falling on the lake provide a soothing natural spectacle to end your walk."
+                "en": "Seek shelter under the dense lakeside trees; the raindrops falling on the lake provide a soothing natural spectacle to end your walk.",
+                "sv": "Sök skydd under de täta strandskogarna; regndropparna på sjön ger ett rogivande naturskådespel för att avsluta din promenad."
               }
             }
           ]
@@ -224,7 +246,8 @@
             "de": "Der frostige Morgen beginnt besinnlich in der Lukas-Kirche. Mittags wärmen wir uns im heißen Dampf des Rondellen-Bades auf, ein herrlicher Kontrast zur Kälte. Das Bolindermuseum bietet danach einen gemütlichen Innenraum für Geschichtsinteressierte. Da die Sonne gegen 15:00 Uhr sinkt, erleben wir Lädersättra und Hälleboda im magischen Licht der blauen Stunde auf verschneiten Wegen.",
             "hu": "A fagyos reggel meghitten kezdődik a Lukas-templomban. Délben a Rondellen uszoda forró gőzében melegszünk fel, ami remek kontraszt a kinti hideggel. A Bolinder Múzeum ezután barátságos belső teret kínál. Mivel a nap 15:00 körül lebukik, Lädersättra és Hälleboda romjait a kék óra mágikus fényében, havas ösvényeken járva fedezzük fel.",
             "ro": "Dimineața geroasă începe contemplativ la Biserica Sf. Luca. La prânz ne încălzim în aburul fierbinte de la piscina Rondellen, un contrast minunat cu frigul. Muzeul Bolinder oferă apoi un spațiu interior primitor. Deoarece soarele apune în jurul orei 15:00, experimentăm siturile pe poteci înzăpezite în lumina magică a orei albastre.",
-            "en": "The frosty morning begins contemplatively at St. Luke's Church. At noon, we warm up in the hot steam of the Rondellen pool, a wonderful contrast to the cold. The Bolinder Museum then offers a cozy interior for history buffs. As the sun sets around 3:00 PM, we experience the sites on snowy paths in the magical light of the blue hour."
+            "en": "The frosty morning begins contemplatively at St. Luke's Church. At noon, we warm up in the hot steam of the Rondellen pool, a wonderful contrast to the cold. The Bolinder Museum then offers a cozy interior for history buffs. As the sun sets around 3:00 PM, we experience the sites on snowy paths in the magical light of the blue hour.",
+            "sv": "Den frostiga morgonen börjar stillsamt vid S:t Lukas kyrka. Vid middagstid värmer vi oss i Rondellens varma ånga, en härlig kontrast till kylan. Bolindermuseet erbjuder därefter en ombonad inomhusmiljö för historieintresserade. När solen går ner runt 15:00 upplever vi platserna på snöbelagda stigar i det magiska blå timmens ljus."
           },
           "stops": [
             {
@@ -232,13 +255,15 @@
                 "de": "S:t Lukas Kirche",
                 "hu": "S:t Lukas templom",
                 "ro": "Biserica Sf. Luca",
-                "en": "St. Luke's Church"
+                "en": "St. Luke's Church",
+                "sv": "St. Luke's Church"
               },
               "tip_5lang": {
                 "de": "Genießen Sie die Stille in der beheizten Kirche; die tiefstehende Wintersonne wirft durch die Fenster lange, kunstvolle Schatten.",
                 "hu": "Élvezze a csendet a fűtött templomban; az alacsonyan járó téli nap hosszú, művészi árnyékokat vet az ablakokon keresztül.",
                 "ro": "Bucurați-vă de liniște în biserica încălzită; soarele de iarnă proiectează umbre lungi și artistice prin ferestrele moderne.",
-                "en": "Enjoy the silence in the heated church; the low winter sun casts long, artistic shadows through the modern windows."
+                "en": "Enjoy the silence in the heated church; the low winter sun casts long, artistic shadows through the modern windows.",
+                "sv": "Njut av stillheten i den uppvärmda kyrkan; den låga vintersolen kastar långa, konstnärliga skuggor genom de moderna fönstren."
               }
             },
             {
@@ -246,13 +271,15 @@
                 "de": "Rondellen Schwimmbad",
                 "hu": "Rondellen Úszómedence",
                 "ro": "Piscina Rondellen",
-                "en": "Rondellen Swimming Pool"
+                "en": "Rondellen Swimming Pool",
+                "sv": "Rondellen Swimming Pool"
               },
               "tip_5lang": {
                 "de": "Tauchen Sie in das warme Wasser ein, um die Kälte aus den Knochen zu vertreiben; Thermalkleidung für danach ist unbedingt empfohlen.",
                 "hu": "Merüljön el a meleg vízben, hogy kiűzze a hideget a tagjaiból; utána mindenképpen ajánlott a meleg thermo ruházat viselése.",
                 "ro": "Scufundați-vă în apa caldă pentru a alunga frigul din oase; hainele termice pentru după baie sunt strict recomandate.",
-                "en": "Dive into the warm water to drive the cold from your bones; thermal clothing for afterwards is highly recommended."
+                "en": "Dive into the warm water to drive the cold from your bones; thermal clothing for afterwards is highly recommended.",
+                "sv": "Hoppa i det varma vattnet för att driva ut kylan ur kroppen; termokläder för efteråt rekommenderas starkt."
               }
             },
             {
@@ -260,13 +287,15 @@
                 "de": "Bolindermuseum",
                 "hu": "Bolinder Múzeum",
                 "ro": "Muzeul Bolinder",
-                "en": "Bolinder Museum"
+                "en": "Bolinder Museum",
+                "sv": "Bolinder Museum"
               },
               "tip_5lang": {
                 "de": "Ein idealer Ort, um sich bei einem Rundgang aufzuwärmen; die Ausstellungen sind gut beheizt und bieten Schutz vor dem eisigen Wind.",
                 "hu": "Ideális hely a felmelegedéshez egy séta közben; a kiállítások jól fűtöttek, és védelmet nyújtanak a jeges szél ellen.",
                 "ro": "Un loc ideal pentru a vă încălzi în timpul turului; expozițiile sunt bine încălzite și oferă protecție împotriva vântului înghețat.",
-                "en": "An ideal place to warm up during your tour; the exhibitions are well-heated and offer protection from the icy winter wind."
+                "en": "An ideal place to warm up during your tour; the exhibitions are well-heated and offer protection from the icy winter wind.",
+                "sv": "Ett idealiskt ställe att värma sig under rundturen; utställningarna är väl uppvärmda och skyddar mot den isande vintervinden."
               }
             },
             {
@@ -274,13 +303,15 @@
                 "de": "Lädersättra",
                 "hu": "Lädersättra",
                 "ro": "Lädersättra",
-                "en": "Lädersättra"
+                "en": "Lädersättra",
+                "sv": "Lädersättra"
               },
               "tip_5lang": {
                 "de": "Die Schneelandschaft hier ist atemberaubend, aber achten Sie auf vereiste Stellen; Reflektoren an der Kleidung sind für die Dämmerung wichtig.",
                 "hu": "A havas táj lélegzetelállító, de ügyeljen a jeges foltokra; a ruházaton elhelyezett fényvisszaverők fontosak a korai szürkületben.",
                 "ro": "Peisajul înzăpezit este uluitor, dar atenție la porțiunile înghețate; elementele reflectorizante sunt importante pentru amurg.",
-                "en": "The snowy landscape is breathtaking, but watch out for icy patches; reflectors on your clothing are important for the early twilight."
+                "en": "The snowy landscape is breathtaking, but watch out for icy patches; reflectors on your clothing are important for the early twilight.",
+                "sv": "Det snötäckta landskapet är storslaget, men se upp för isfläckar; reflexer på kläderna är viktiga under den tidiga skymningen."
               }
             },
             {
@@ -288,13 +319,15 @@
                 "de": "Hälleboda",
                 "hu": "Hälleboda",
                 "ro": "Hälleboda",
-                "en": "Hälleboda"
+                "en": "Hälleboda",
+                "sv": "Hälleboda"
               },
               "tip_5lang": {
                 "de": "Beobachten Sie das Eis auf dem See bei Sonnenuntergang; bringen Sie eine Thermoskanne mit heißem Tee für diesen letzten Stopp mit.",
                 "hu": "Figyelje meg a tó jegét naplementekor; hozzon magával egy termoszt forró teával ehhez az utolsó, fagyos megállóhoz.",
                 "ro": "Observați gheața de pe lac la apus; aduceți un termos cu ceai fierbinte pentru această ultimă oprire în frigul iernii.",
-                "en": "Observe the ice on the lake at sunset; bring a thermos with hot tea for this last stop in the biting winter cold."
+                "en": "Observe the ice on the lake at sunset; bring a thermos with hot tea for this last stop in the biting winter cold.",
+                "sv": "Observera isen på sjön i solnedgången; ta med en termos med varmt te för detta sista stopp i den bitande vinterkylan."
               }
             }
           ]
@@ -314,7 +347,8 @@
             "de": "S:t Lukas Kirche",
             "hu": "S:t Lukas templom",
             "ro": "Biserica Sf. Luca",
-            "en": "St. Luke's Church"
+            "en": "St. Luke's Church",
+            "sv": "S:t Lukas kyrka"
           },
           "coords": [
             17.803555,
@@ -329,7 +363,8 @@
             "de": "Bewundern Sie die moderne Backsteinarchitektur der S:t Lukas Kirche, einem friedlichen Zentrum in Kallhäll, und genießen Sie die Stille, bevor Sie den Gemeindekalender prüfen.",
             "hu": "Csodálja meg a S:t Lukas templom modern téglaépítészetét, amely Kallhäll békés spirituális központja, és élvezze a csendes elmélkedést, mielőtt megnézné a helyi eseményeket.",
             "ro": "Admirați arhitectura modernă din cărămidă a bisericii S:t Lukas, un centru spiritual pașnic, și bucurați-vă de un moment de reflecție liniștită înainte de a verifica programul local.",
-            "en": "Admire the modern brick architecture of S:t Lukas kyrka, a peaceful spiritual center in Kallhäll, and take a moment to enjoy the quiet reflection before checking the local parish schedule for events."
+            "en": "Admire the modern brick architecture of S:t Lukas kyrka, a peaceful spiritual center in Kallhäll, and take a moment to enjoy the quiet reflection before checking the local parish schedule for events.",
+            "sv": "Beundra den moderna tegelarkitekturen i S:t Lukas kyrka, ett fridfullt andligt centrum i Kallhäll, och ta en stund för tyst eftertanke innan du kontrollerar församlingens lokala schema för evenemang."
           }
         },
         {
@@ -337,7 +372,8 @@
             "de": "Bolindermuseum",
             "hu": "Bolinder Múzeum",
             "ro": "Muzeul Bolinder",
-            "en": "Bolinder Museum"
+            "en": "Bolinder Museum",
+            "sv": "Bolindermuseet"
           },
           "coords": [
             17.807483,
@@ -352,7 +388,8 @@
             "de": "Erkunden Sie die reiche Industriegeschichte von Kallhäll im Bolindermuseet mit seinen faszinierenden Maschinen, und prüfen Sie vorab unbedingt die Öffnungszeiten online.",
             "hu": "Fedezze fel Kallhäll gazdag ipari múltját a Bolindermuseet lenyűgöző gépészeti kiállításain, de látogatás előtt mindenképpen ellenőrizze az online nyitvatartási időt.",
             "ro": "Explorați istoria industrială bogată a orașului Kallhäll la Bolindermuseet, plin de mașinării fascinante, și nu uitați să verificați online programul de funcționare înainte.",
-            "en": "Explore the rich industrial history of Kallhäll at Bolindermuseet, where fascinating machinery exhibits await, and be sure to verify their opening hours online before your visit."
+            "en": "Explore the rich industrial history of Kallhäll at Bolindermuseet, where fascinating machinery exhibits await, and be sure to verify their opening hours online before your visit.",
+            "sv": "Utforska Kallhälls rika industrihistoria på Bolindermuseet, där fascinerande maskinutställningar väntar; kontrollera gärna deras öppettider online före ditt besök."
           }
         },
         {
@@ -360,7 +397,8 @@
             "de": "Hälleboda",
             "hu": "Hälleboda",
             "ro": "Hälleboda",
-            "en": "Hälleboda"
+            "en": "Hälleboda",
+            "sv": "Hälleboda"
           },
           "coords": [
             17.792779,
@@ -375,7 +413,8 @@
             "de": "Entdecken Sie den zeitlosen Charme von Hälleboda, einer historischen Siedlung, die Einblicke ins traditionelle Leben bietet, und bringen Sie eine Kamera für die rustikalen Gebäude mit.",
             "hu": "Fedezze fel Hälleboda időtlen varázsát, amely bepillantást enged a hagyományos svéd életbe, és hozzon magával fényképezőgépet a gyönyörűen megőrzött rusztikus épületek megörökítéséhez.",
             "ro": "Descoperiți farmecul atemporal din Hälleboda, o așezare istorică ce ilustrează viața tradițională suedeză, și aduceți un aparat foto pentru a surprinde clădirile rustice conservate.",
-            "en": "Discover the timeless charm of Hälleboda, a historic settlement that offers a glimpse into traditional Swedish life, and bring a camera to capture the beautifully preserved rustic buildings."
+            "en": "Discover the timeless charm of Hälleboda, a historic settlement that offers a glimpse into traditional Swedish life, and bring a camera to capture the beautifully preserved rustic buildings.",
+            "sv": "Upptäck Hällebodas tidlösa charm, en historisk bebyggelse som ger en inblick i traditionellt svenskt liv; ta med en kamera för att fånga de vackert bevarade rustika byggnaderna."
           }
         },
         {
@@ -383,7 +422,8 @@
             "de": "Naturschutzgebiet Görväln",
             "hu": "Görväln Természetvédelmi Terület",
             "ro": "Rezervația Naturală Görväln",
-            "en": "Görväln Nature Reserve"
+            "en": "Görväln Nature Reserve",
+            "sv": "Görvälns naturvårdsområde"
           },
           "coords": [
             17.797947,
@@ -398,7 +438,8 @@
             "de": "Tauchen Sie in die unberührten Wälder des Naturschutzgebiets Görväln ein, um die echte schwedische Natur zu erleben, und bleiben Sie auf den markierten Wegen zum Schutz der Flora.",
             "hu": "Merüljön el a Görvälns naturvårdsområde érintetlen erdeiben, hogy megtapasztalja az igazi svéd természetet, és maradjon a kijelölt ösvényeken a helyi növényvilág védelme érdekében.",
             "ro": "Scufundați-vă în pădurile curate ale rezervației naturale Görväln pentru o experiență autentică și rămâneți pe traseele marcate pentru a proteja flora și fauna locală delicată.",
-            "en": "Immerse yourself in the pristine forests of Görvälns naturvårdsområde to experience authentic Swedish nature, and stay on the marked trails to protect the delicate local flora and fauna."
+            "en": "Immerse yourself in the pristine forests of Görvälns naturvårdsområde to experience authentic Swedish nature, and stay on the marked trails to protect the delicate local flora and fauna.",
+            "sv": "Fördjupa dig i Görvälns orörda skogar för att uppleva äkta svensk natur, och håll dig på markerade stigar för att skydda den känsliga lokala floran och faunan."
           }
         },
         {
@@ -406,7 +447,8 @@
             "de": "Görvälns Slott",
             "hu": "Görväln Kastély",
             "ro": "Castelul Görväln",
-            "en": "Görväln Castle"
+            "en": "Görväln Castle",
+            "sv": "Görvälns slott"
           },
           "coords": [
             17.787339,
@@ -421,7 +463,8 @@
             "de": "Bestaunen Sie die majestätische Architektur des Görvälns Slott aus dem 17. Jahrhundert am See, und gönnen Sie sich einen Kaffee oder ein Essen im preisgekrönten Boutique-Restaurant.",
             "hu": "Csodálja meg a tó partján fekvő 17. századi Görvälns slott fenséges építészetét, és kényeztesse magát egy luxus kávéval vagy étkezéssel a híres, díjnyertes butikétteremben.",
             "ro": "Admirați arhitectura maiestuoasă din secolul al XVII-lea a castelului Görvälns de pe malul lacului și savurați o cafea sau o masă la renumitul lor restaurant tip boutique premiat.",
-            "en": "Marvel at the majestic 17th-century architecture of Görvälns slott nestled by the lake, and treat yourself to a luxurious coffee or meal at their renowned award-winning boutique restaurant."
+            "en": "Marvel at the majestic 17th-century architecture of Görvälns slott nestled by the lake, and treat yourself to a luxurious coffee or meal at their renowned award-winning boutique restaurant.",
+            "sv": "Förundras över Görvälns slotts majestätiska 1600-talarkitektur vid sjökanten, och unna dig en lyxig kaffe- eller måltidsupplevelse på deras prisbelönta boutique-restaurang."
           }
         }
       ],
@@ -429,7 +472,8 @@
         "de": "Radeln Sie ab der S:t Lukas Kirche durch Kallhäll, bevor Sie das Industriemuseum besuchen. Mittags erreichen Sie die historischen Überreste von Hälleboda. Verbringen Sie den Nachmittag in den tiefen Wäldern des Naturschutzgebiets Görväln. Entspannen Sie sich schließlich am majestätischen Görvälns Slott und lassen Sie die Dämmerung über dem Anwesen aus dem 17. Jahrhundert hereinbrechen.",
         "hu": "Tekerjen át Kallhällon a S:t Lukas kyrka érintésével az ipari múzeum felé. A dél elhozza Önt Hälleboda rusztikus történelmi emlékeihez. A délutánt a Görvälns természetvédelmi terület mély erdeiben és ösvényein töltheti. Végül pihenjen meg a tóparti Görvälns slottnál, figyelve, ahogy az alkony leszáll a történelmi 17. századi birtokra.",
         "ro": "Pedalați prin Kallhäll începând de la frumoasa biserică S:t Lukas, înainte de a vizita muzeul industrial. Prânzul vă aduce la rămășițele istorice rustice din Hälleboda. Petreceți după-amiaza bucurându-vă de pădurile adânci ale rezervației naturale Görväln. În cele din urmă, relaxați-vă lângă maiestuosul castel Görvälns, lăsând amurgul să se lase peste moșia sa istorică.",
-        "en": "Pedal through Kallhäll starting at the beautiful S:t Lukas kyrka before heading to the local industrial museum. Midday brings you to the rustic historical remnants of Hälleboda. Spend your afternoon enjoying the deep forests and trails of Görvälns nature reserve. Finally, relax by the majestic lakefront Görvälns slott, letting the twilight settle over its historic 17th-century estate."
+        "en": "Pedal through Kallhäll starting at the beautiful S:t Lukas kyrka before heading to the local industrial museum. Midday brings you to the rustic historical remnants of Hälleboda. Spend your afternoon enjoying the deep forests and trails of Görvälns nature reserve. Finally, relax by the majestic lakefront Görvälns slott, letting the twilight settle over its historic 17th-century estate.",
+        "sv": "Cykla genom Kallhäll med start vid den vackra S:t Lukas kyrka innan du styr mot det lokala industrimuseet. Mitt på dagen når du Hällebodas rustika historiska lämningar. Tillbringa eftermiddagen i de djupa skogarna och på stigarna i Görvälns naturvårdsområde. Avsluta med att koppla av vid den majestätiska sjökanten vid Görvälns slott och låt skymningen lägga sig över dess historiska 1600-talsägendom."
       },
       "variants": {
         "rainy": {
@@ -437,7 +481,8 @@
             "de": "Radfahren im Regen erfordert Vorsicht auf rutschigen Wegen. Wir starten bei der Kirche und flüchten schnell ins Bolindermuseum. Mittags geht es durch den nassen Wald nach Hälleboda. Das Naturschutzgebiet Görväln wirkt bei Regen besonders sattgrün und lebendig. Den Abschluss bildet das Schloss Görväln, wo die historischen Mauern im grauen Licht eine majestätische Ruhe ausstrahlen.",
             "hu": "Az esőben való biciklizés óvatosságot igényel a csúszós utakon. A templomnál kezdünk, majd gyorsan a Bolinder Múzeumba menekülünk. Délben a nedves erdőn át tekerünk Hälleboda felé. A Görväln természetvédelmi terület esőben különösen üde és élő. A napot a Görväln-kastélynál zárjuk, ahol a történelmi falak méltóságteljes nyugalmat árasztanak.",
             "ro": "Ciclismul pe ploaie necesită prudență pe drumurile alunecoase. Începem la biserică și ne refugiem rapid în Muzeul Bolinder. La prânz pedalăm prin pădurea umedă spre Hälleboda. Rezervația Görväln pare deosebit de verde și vie pe ploaie. Încheiem la Castelul Görväln, unde zidurile istorice emană o liniște maiestuoasă în lumina gri.",
-            "en": "Cycling in the rain requires caution on slippery paths. We start at the church and quickly retreat to the Bolinder Museum. At noon, we cycle through the wet woods to Hälleboda. The Görväln Nature Reserve looks particularly lush and vibrant in the rain. We finish at Görväln Castle, where the historical walls exude a majestic calm in the grey light."
+            "en": "Cycling in the rain requires caution on slippery paths. We start at the church and quickly retreat to the Bolinder Museum. At noon, we cycle through the wet woods to Hälleboda. The Görväln Nature Reserve looks particularly lush and vibrant in the rain. We finish at Görväln Castle, where the historical walls exude a majestic calm in the grey light.",
+            "sv": "Cykling i regn kräver försiktighet på hala stigar. Vi börjar vid kyrkan och drar oss snabbt in till Bolindermuseet. Vid middagstid cyklar vi genom de våta skogarna till Hälleboda. Görvälns naturreservat ser särskilt frodigt och livfullt ut i regnet. Vi avslutar vid Görvälns slott där de historiska murarna utstrålar en majestätisk ro i det grå ljuset."
           },
           "stops": [
             {
@@ -445,13 +490,15 @@
                 "de": "S:t Lukas Kirche",
                 "hu": "S:t Lukas templom",
                 "ro": "Biserica Sf. Luca",
-                "en": "St. Luke's Church"
+                "en": "St. Luke's Church",
+                "sv": "S:t Lukas kyrka"
               },
               "tip_5lang": {
                 "de": "Stellen Sie Ihr Fahrrad unter den Dachvorsprung; nutzen Sie die Pause, um die Regenkleidung festzuziehen und die Bremsen zu prüfen.",
                 "hu": "Állítsa a kerékpárt az eresztető alá; használja ki a szünetet az esőruházat megigazítására és a fékek ellenőrzésére.",
                 "ro": "Parcați bicicleta sub streașină; folosiți pauza pentru a vă ajusta pelerina de ploaie și pentru a verifica frânele.",
-                "en": "Park your bike under the eaves; use the break to tighten your rain gear and check your brakes before continuing."
+                "en": "Park your bike under the eaves; use the break to tighten your rain gear and check your brakes before continuing.",
+                "sv": "Parkera cykeln under taksprånget; använd pausen till att strama åt regnkläderna och kontrollera bromsarna innan ni fortsätter."
               }
             },
             {
@@ -459,13 +506,15 @@
                 "de": "Bolindermuseum",
                 "hu": "Bolinder Múzeum",
                 "ro": "Muzeul Bolinder",
-                "en": "Bolinder Museum"
+                "en": "Bolinder Museum",
+                "sv": "Bolindermuseet"
               },
               "tip_5lang": {
                 "de": "Ein perfekter Stopp, um die Kleidung zu trocknen; parken Sie das Rad sicher und genießen Sie die industrielle Atmosphäre im Trockenen.",
                 "hu": "Tökéletes megálló a ruházat megszárításához; parkolja le biztonságosan a biciklit, és élvezze az ipari hangulatot szárazon.",
                 "ro": "O oprire perfectă pentru a vă usca hainele; parcați bicicleta în siguranță și bucurați-vă de atmosfera industrială la adăpost.",
-                "en": "A perfect stop to dry your clothes; park your bike securely and enjoy the industrial atmosphere while staying completely dry."
+                "en": "A perfect stop to dry your clothes; park your bike securely and enjoy the industrial atmosphere while staying completely dry.",
+                "sv": "Ett perfekt stopp för att torka kläder; parkera cykeln säkert och njut av den industriella atmosfären medan du håller dig helt torr."
               }
             },
             {
@@ -473,13 +522,15 @@
                 "de": "Hälleboda",
                 "hu": "Hälleboda",
                 "ro": "Hälleboda",
-                "en": "Hälleboda"
+                "en": "Hälleboda",
+                "sv": "Hälleboda"
               },
               "tip_5lang": {
                 "de": "Achten Sie auf nasse Wurzeln auf dem Weg; das regnerische Wetter lässt die alten Strukturen besonders geschichtsträchtig wirken.",
                 "hu": "Ügyeljen a nedves gyökerekre az úton; az esős időjárás miatt a régi építmények még inkább történelmi hangulatot árasztanak.",
                 "ro": "Atenție la rădăcinile umede de pe drum; vremea ploioasă face ca vechile structuri să pară și mai încărcate de istorie.",
-                "en": "Watch out for wet roots on the path; the rainy weather makes the old structures look particularly steeped in history."
+                "en": "Watch out for wet roots on the path; the rainy weather makes the old structures look particularly steeped in history.",
+                "sv": "Se upp för blöta rötter på stigen; det regniga vädret får de gamla byggnaderna att se särskilt historiefyllda ut."
               }
             },
             {
@@ -487,13 +538,15 @@
                 "de": "Naturschutzgebiet Görväln",
                 "hu": "Görväln Természetvédelmi Terület",
                 "ro": "Rezervația Naturală Görväln",
-                "en": "Görväln Nature Reserve"
+                "en": "Görväln Nature Reserve",
+                "sv": "Görvälns naturvårdsområde"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie Schutzbleche an Ihrem Fahrrad; der Wald duftet bei Regen herrlich intensiv nach frischem Harz und feuchter Erde.",
                 "hu": "Használjon sárvédőt a kerékpáron; az erdő esőben csodálatosan intenzív friss gyanta- és nedves földillatot áraszt.",
                 "ro": "Folosiți apărători la bicicletă; pădurea miroase minunat de intens a rășină proaspătă și pământ umed atunci când plouă.",
-                "en": "Use mudguards on your bike; the forest smells wonderfully intense with fresh resin and damp earth during the rain."
+                "en": "Use mudguards on your bike; the forest smells wonderfully intense with fresh resin and damp earth during the rain.",
+                "sv": "Använd skärmar på cykeln; skogen doftar underbart intensivt av färsk kåda och fuktig jord under regnet."
               }
             },
             {
@@ -501,13 +554,15 @@
                 "de": "Görvälns Slott",
                 "hu": "Görväln Kastély",
                 "ro": "Castelul Görväln",
-                "en": "Görväln Castle"
+                "en": "Görväln Castle",
+                "sv": "Görvälns slott"
               },
               "tip_5lang": {
                 "de": "Beenden Sie die Tour mit einem Blick auf den See; die neblige Aussicht vom Schlossberg belohnt für die Fahrt im Regen.",
                 "hu": "Zárja a túrát egy tóparti kilátással; a várhegyről nyíló ködös panoráma kárpótolja Önt az esőben való tekerésért.",
                 "ro": "Încheiați turul cu o vedere spre lac; panorama cețoasă de pe dealul castelului vă va recompensa pentru drumul prin ploaie.",
-                "en": "End your tour with a view of the lake; the misty panorama from the castle hill rewards you for the ride in the rain."
+                "en": "End your tour with a view of the lake; the misty panorama from the castle hill rewards you for the ride in the rain.",
+                "sv": "Avsluta turen med utsikt över sjön; den dimmiga panoraman från slottskullen belönar dig för cykelturen i regnet."
               }
             }
           ]
@@ -517,7 +572,8 @@
             "de": "Winterliches Radfahren erfordert gute Beleuchtung und warme Handschuhe. Nach dem Start bei der Kirche bietet das Bolindermuseum die erste Aufwärmpause. Die Fahrt durch Hälleboda und das Naturschutzgebiet Görväln führt durch eine glitzernde Märchenlandschaft. Da es früh dunkel wird, erreichen wir das hell erleuchtete Schloss Görväln pünktlich zum Sonnenuntergang und genießen die eisige Stille.",
             "hu": "A téli kerékpározáshoz jó világítás és meleg kesztyű szükséges. A templomi kezdés után a Bolinder Múzeum kínálja az első melegedőt. A Hälleboda és a Görväln természetvédelmi terület közötti út egy csillogó meseországon vezet át. Mivel korán sötétedik, a kivilágított Görväln-kastélyt pont naplementekor érjük el, élvezve a jeges csendet.",
             "ro": "Ciclismul de iarnă necesită iluminare bună și mănuși calde. După pornirea de la biserică, Muzeul Bolinder oferă prima pauză de încălzire. Drumul prin Hälleboda și Rezervația Görväln trece printr-un peisaj sclipitor de basm. Deoarece se întunecă devreme, ajungem la Castelul Görväln iluminat exact la apus, bucurându-ne de liniștea înghețată.",
-            "en": "Winter cycling requires good lighting and warm gloves. After starting at the church, the Bolinder Museum offers the first warm-up break. The ride through Hälleboda and the Görväln Nature Reserve leads through a sparkling fairyland. Since it gets dark early, we reach the brightly lit Görväln Castle right at sunset, enjoying the icy silence."
+            "en": "Winter cycling requires good lighting and warm gloves. After starting at the church, the Bolinder Museum offers the first warm-up break. The ride through Hälleboda and the Görväln Nature Reserve leads through a sparkling fairyland. Since it gets dark early, we reach the brightly lit Görväln Castle right at sunset, enjoying the icy silence.",
+            "sv": "Vintercykling kräver bra belysning och varma handskar. Efter start vid kyrkan erbjuder Bolindermuseet den första uppvärmningspausen. Turen genom Hälleboda och Görvälns naturvårdsområde leder genom ett gnistrande sagoland. Eftersom det blir mörkt tidigt når vi det välbelysta Görvälns slott precis vid solnedgången och njuter av den isiga tystnaden."
           },
           "stops": [
             {
@@ -525,13 +581,15 @@
                 "de": "S:t Lukas Kirche",
                 "hu": "S:t Lukas templom",
                 "ro": "Biserica Sf. Luca",
-                "en": "St. Luke's Church"
+                "en": "St. Luke's Church",
+                "sv": "S:t Lukas kyrka"
               },
               "tip_5lang": {
                 "de": "Prüfen Sie den Reifendruck für besseren Halt auf Schnee; die Kirche bietet einen windgeschützten Ort für letzte Anpassungen.",
                 "hu": "Ellenőrizze a guminyomást a jobb tapadásért a havon; a templom szélvédett helyet kínál az utolsó igazításokhoz.",
                 "ro": "Verificați presiunea în anvelope pentru o aderență mai bună pe zăpadă; biserica oferă un loc ferit de vânt pentru ultimele reglaje.",
-                "en": "Check your tire pressure for better grip on snow; the church area offers a wind-sheltered spot for final adjustments."
+                "en": "Check your tire pressure for better grip on snow; the church area offers a wind-sheltered spot for final adjustments.",
+                "sv": "Kontrollera däcktrycket för bättre grepp på snö; kyrkområdet erbjuder en lä skyddad plats för sista justeringar."
               }
             },
             {
@@ -539,13 +597,15 @@
                 "de": "Bolindermuseum",
                 "hu": "Bolinder Múzeum",
                 "ro": "Muzeul Bolinder",
-                "en": "Bolinder Museum"
+                "en": "Bolinder Museum",
+                "sv": "Bolindermuseet"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie die Wärme drinnen, um die Finger zu lockern; die Metallobjekte im Museum wirken im Winterlicht besonders markant.",
                 "hu": "Használja ki a benti meleget az ujjai átmozgatására; a múzeumi fémtárgyak a téli fényben különösen karakteresnek tűnnek.",
                 "ro": "Folosiți căldura din interior pentru a vă dezmorți degetele; obiectele metalice din muzeu par deosebit de marcante în lumina iernii.",
-                "en": "Use the indoor warmth to loosen your fingers; the metal objects in the museum look particularly striking in the winter light."
+                "en": "Use the indoor warmth to loosen your fingers; the metal objects in the museum look particularly striking in the winter light.",
+                "sv": "Använd inomhusvärmen för att mjuka upp fingrarna; metallföremålen i museet framträder särskilt slagkraftigt i vinterljuset."
               }
             },
             {
@@ -553,13 +613,15 @@
                 "de": "Hälleboda",
                 "hu": "Hälleboda",
                 "ro": "Hälleboda",
-                "en": "Hälleboda"
+                "en": "Hälleboda",
+                "sv": "Hälleboda"
               },
               "tip_5lang": {
                 "de": "Fahren Sie vorsichtig auf festgefahrenem Schnee; die weißen Felder rund um die historischen Ruinen sind ein fantastisches Fotomotiv.",
                 "hu": "Tekerjen óvatosan a letaposott havon; a történelmi romok körüli fehér mezők fantasztikus fotótémát szolgáltatnak.",
                 "ro": "Pedalați cu atenție pe zăpada bătătorită; câmpurile albe din jurul ruinelor istorice reprezintă un motiv fotografic fantastic.",
-                "en": "Ride carefully on packed snow; the white fields surrounding the historical ruins provide a fantastic photo opportunity."
+                "en": "Ride carefully on packed snow; the white fields surrounding the historical ruins provide a fantastic photo opportunity.",
+                "sv": "Cykla försiktigt på packad snö; de vita fälten runt de historiska ruinerna ger ett fantastiskt fototillfälle."
               }
             },
             {
@@ -567,13 +629,15 @@
                 "de": "Naturschutzgebiet Görväln",
                 "hu": "Görväln Természetvédelmi Terület",
                 "ro": "Rezervația Naturală Görväln",
-                "en": "Görväln Nature Reserve"
+                "en": "Görväln Nature Reserve",
+                "sv": "Görvälns naturvårdsområde"
               },
               "tip_5lang": {
                 "de": "Achten Sie auf Wildtiere, die im Schnee leichter zu entdecken sind; die kalte Luft macht die Radfahrt erfrischend und belebend.",
                 "hu": "Figyelje a vadon élő állatokat, amelyeket a hóban könnyebb észrevenni; a hideg levegő frissítővé és élénkítővé teszi a tekerést.",
                 "ro": "Fiți atenți la animalele sălbatice, mai ușor de observat pe zăpadă; aerul rece face plimbarea cu bicicleta revigorantă și energizantă.",
-                "en": "Keep an eye out for wildlife, which is easier to spot in the snow; the crisp air makes the bike ride refreshing and invigorating."
+                "en": "Keep an eye out for wildlife, which is easier to spot in the snow; the crisp air makes the bike ride refreshing and invigorating.",
+                "sv": "Håll utkik efter vilt, som är lättare att få syn på i snön; den klara luften gör cykelturen uppfriskande och stärkande."
               }
             },
             {
@@ -581,13 +645,15 @@
                 "de": "Görvälns Slott",
                 "hu": "Görväln Kastély",
                 "ro": "Castelul Görväln",
-                "en": "Görväln Castle"
+                "en": "Görväln Castle",
+                "sv": "Görvälns slott"
               },
               "tip_5lang": {
                 "de": "Die Auffahrt zum Schloss kann glatt sein, treten Sie gleichmäßig; die beleuchtete Fassade im Schnee ist der krönende Abschluss.",
                 "hu": "A kastélyhoz vezető feljáró csúszós lehet, tekerjen egyenletesen; a hóban álló kivilágított homlokzat a túra méltó zárása.",
                 "ro": "Urcarea spre castel poate fi alunecoasă, pedalați constant; fațada iluminată în zăpadă este finalul perfect al călătoriei.",
-                "en": "The approach to the castle can be slippery, so pedal steadily; the illuminated facade against the snow is the perfect crowning finale."
+                "en": "The approach to the castle can be slippery, so pedal steadily; the illuminated facade against the snow is the perfect crowning finale.",
+                "sv": "Infarten till slottet kan vara hal, så trampa stadigt; den upplysta fasaden mot snön är den perfekta avslutningen."
               }
             }
           ]
@@ -607,7 +673,8 @@
             "de": "Burg Almarestäket",
             "hu": "Almarestäket Vára",
             "ro": "Cetatea Almarestäket",
-            "en": "Almarestäket Castle Ruins"
+            "en": "Almarestäket Castle Ruins",
+            "sv": "Almarestäkets borgs ruiner"
           },
           "coords": [
             17.792584,
@@ -622,7 +689,8 @@
             "de": "Steigen Sie zu den faszinierenden Ruinen der Almarestäkets Burg hinauf, um das mittelalterliche Erbe zu erkunden, und genießen Sie den atemberaubenden Panoramablick über die Wasserwege.",
             "hu": "Másszon fel az Almarestäkets borg lenyűgöző romjaihoz, hogy felfedezze középkori védelmi örökségét, és szánjon időt a környező vízi utakra nyíló lélegzetelállító panoráma élvezetére.",
             "ro": "Urcați la ruinele fascinante ale cetății Almarestäkets pentru a explora moștenirea sa medievală defensivă și alocați timp pentru a admira priveliștile panoramice asupra apelor.",
-            "en": "Climb up to the fascinating ruins of Almarestäkets borg to explore its medieval defensive legacy, and take time to absorb the breathtaking panoramic views over the surrounding waterways."
+            "en": "Climb up to the fascinating ruins of Almarestäkets borg to explore its medieval defensive legacy, and take time to absorb the breathtaking panoramic views over the surrounding waterways.",
+            "sv": "Klättra upp till de fascinerande ruinerna av Almarestäkets borg för att utforska dess medeltida försvarsarv, och ta dig tid att suga in den hisnande panoramautsikten över de omgivande vattenvägarna."
           }
         },
         {
@@ -630,7 +698,8 @@
             "de": "Bonäsbadet Strand",
             "hu": "Bonäsbadet Strand",
             "ro": "Plaja Bonäsbadet",
-            "en": "Bonäsbadet Beach"
+            "en": "Bonäsbadet Beach",
+            "sv": "Bonäsbadet"
           },
           "coords": [
             17.800177,
@@ -645,7 +714,8 @@
             "de": "Entspannen Sie an den sandigen Ufern des Bonäsbadet, einem beliebten Strand für Familien, und kommen Sie an sonnigen Wochenenden früh, um den besten Platz auf dem Gras zu sichern.",
             "hu": "Pihenjen a Bonäsbadet homokos partjain, amely egy rendkívül népszerű tóparti strand a családok körében, és érkezzen korán a napsütéses hétvégéken a legjobb füves helyekért.",
             "ro": "Relaxați-vă pe malurile nisipoase ale Bonäsbadet, o plajă populară pentru familii, și ajungeți devreme în weekendurile însorite pentru a asigura un loc bun pe iarbă lângă apă.",
-            "en": "Relax on the sandy shores of Bonäsbadet, a highly popular lakeside beach for families, and arrive early on sunny weekends to secure the best spot on the grass near the water's edge."
+            "en": "Relax on the sandy shores of Bonäsbadet, a highly popular lakeside beach for families, and arrive early on sunny weekends to secure the best spot on the grass near the water's edge.",
+            "sv": "Slappna av på Bonäsbadets sandstränder, en mycket populär sjöstrand för familjer; kom tidigt på soliga helger för att säkra bästa platsen på gräset nära vattenbrynet."
           }
         },
         {
@@ -653,7 +723,8 @@
             "de": "Bolindermuseum",
             "hu": "Bolinder Múzeum",
             "ro": "Muzeul Bolinder",
-            "en": "Bolinder Museum"
+            "en": "Bolinder Museum",
+            "sv": "Bolindermuseet"
           },
           "coords": [
             17.807483,
@@ -668,7 +739,8 @@
             "de": "Erkunden Sie die reiche Industriegeschichte von Kallhäll im Bolindermuseet mit seinen faszinierenden Maschinen, und prüfen Sie vorab unbedingt die Öffnungszeiten online.",
             "hu": "Fedezze fel Kallhäll gazdag ipari múltját a Bolindermuseet lenyűgöző gépészeti kiállításain, de látogatás előtt mindenképpen ellenőrizze az online nyitvatartási időt.",
             "ro": "Explorați istoria industrială bogată a orașului Kallhäll la Bolindermuseet, plin de mașinării fascinante, și nu uitați să verificați online programul de funcționare înainte.",
-            "en": "Explore the rich industrial history of Kallhäll at Bolindermuseet, where fascinating machinery exhibits await, and be sure to verify their opening hours online before your visit."
+            "en": "Explore the rich industrial history of Kallhäll at Bolindermuseet, where fascinating machinery exhibits await, and be sure to verify their opening hours online before your visit.",
+            "sv": "Utforska Kallhälls rika industrihistoria på Bolindermuseet, där fascinerande maskinutställningar väntar; kontrollera gärna deras öppettider online före ditt besök."
           }
         },
         {
@@ -676,7 +748,8 @@
             "de": "Galerie über dem See",
             "hu": "Tó Feletti Galéria",
             "ro": "Galeria Peste Lac",
-            "en": "Over the Lake Gallery"
+            "en": "Over the Lake Gallery",
+            "sv": "Galleri Över Sjön"
           },
           "coords": [
             17.8519,
@@ -691,7 +764,8 @@
             "de": "Bewundern Sie fesselnde lokale Kunstausstellungen in der Galleri Över Sjön mit ihrer Seekulisse, und prüfen Sie das Saisonprogramm, da die Galerie oft temporäre Installationen zeigt.",
             "hu": "Szívja magába a lenyűgöző helyi művészeti kiállításokat a vízparti Galleri Över Sjön galériában, és böngéssze át szezonális programjukat, mivel gyakran adnak otthont egyedi tárlatoknak.",
             "ro": "Admirați expozițiile captivante de artă locală la Galleri Över Sjön, cu fundalul său uimitor pe malul apei, și verificați programul sezonier pentru instalații temporare unice.",
-            "en": "Absorb captivating local art exhibitions at Galleri Över Sjön with its stunning waterfront backdrop, and check their seasonal program as the gallery often hosts unique temporary installations."
+            "en": "Absorb captivating local art exhibitions at Galleri Över Sjön with its stunning waterfront backdrop, and check their seasonal program as the gallery often hosts unique temporary installations.",
+            "sv": "Ta del av fängslande lokal konst på Galleri Över Sjön med dess storslagna sjöutsikt; kolla det säsongsbetonade programmet eftersom galleriet ofta visar unika tillfälliga installationer."
           }
         },
         {
@@ -699,7 +773,8 @@
             "de": "Görvälns Slott",
             "hu": "Görväln Kastély",
             "ro": "Castelul Görväln",
-            "en": "Görväln Castle"
+            "en": "Görväln Castle",
+            "sv": "Görvälns slott"
           },
           "coords": [
             17.787339,
@@ -714,7 +789,8 @@
             "de": "Bestaunen Sie die majestätische Architektur des Görvälns Slott aus dem 17. Jahrhundert am See, und gönnen Sie sich einen Kaffee oder ein Essen im preisgekrönten Boutique-Restaurant.",
             "hu": "Csodálja meg a tó partján fekvő 17. századi Görvälns slott fenséges építészetét, és kényeztesse magát egy luxus kávéval vagy étkezéssel a híres, díjnyertes butikétteremben.",
             "ro": "Admirați arhitectura maiestuoasă din secolul al XVII-lea a castelului Görvälns de pe malul lacului și savurați o cafea sau o masă la renumitul lor restaurant tip boutique premiat.",
-            "en": "Marvel at the majestic 17th-century architecture of Görvälns slott nestled by the lake, and treat yourself to a luxurious coffee or meal at their renowned award-winning boutique restaurant."
+            "en": "Marvel at the majestic 17th-century architecture of Görvälns slott nestled by the lake, and treat yourself to a luxurious coffee or meal at their renowned award-winning boutique restaurant.",
+            "sv": "Förundras över Görvälns slotts majestätiska 1600-talarkitektur vid sjökanten, och unna dig en lyxig kaffe- eller måltidsupplevelse på deras prisbelönta boutique-restaurang."
           }
         }
       ],
@@ -722,7 +798,8 @@
         "de": "Fahren Sie zu den mittelalterlichen Ruinen der Almarestäkets Burg für einen kraftvollen Start. Wechseln Sie vor dem Mittagessen zu den entspannenden Sandstränden des Bonäsbadet. Mittags entdecken Sie Kallhälls Ingenieursgeschichte im Bolindermuseet. Am Nachmittag genießen Sie lokale Kunst in der Galleri Över Sjön und beenden den Roadtrip am spektakulären Görvälns Slott.",
         "hu": "Vezessen ki az Almarestäkets borg középkori romjaihoz egy energikus reggeli kezdéshez. Ebédidő előtt lazítson a Bonäsbadet homokos partjainál. Délben fedezze fel Kallhäll mérnöki múltját a Bolindermuseet kiállításán. Délután értékelje a finom helyi művészetet a Galleri Över Sjönben, majd zárja utazását a látványos tóparti Görvälns slott kastélynál.",
         "ro": "Conduceți la ruinele medievale ale cetății Almarestäkets pentru un început de dimineață puternic. Relaxați-vă pe malurile nisipoase de la Bonäsbadet înainte de prânz. Amiaza vă invită să descoperiți trecutul ingineresc la Bolindermuseet. După-amiaza, admirați arta locală la Galleri Över Sjön, încheind această călătorie la spectaculosul castel Görvälns de pe malul lacului.",
-        "en": "Drive out to the medieval ruins of Almarestäkets borg for a powerful morning start. Transition smoothly to the relaxing sandy shores of Bonäsbadet before lunchtime. Midday invites you to uncover Kallhäll's engineering past at Bolindermuseet. In the afternoon, appreciate fine local art at Galleri Över Sjön, concluding your epic road trip at the spectacular lakeside Görvälns slott."
+        "en": "Drive out to the medieval ruins of Almarestäkets borg for a powerful morning start. Transition smoothly to the relaxing sandy shores of Bonäsbadet before lunchtime. Midday invites you to uncover Kallhäll's engineering past at Bolindermuseet. In the afternoon, appreciate fine local art at Galleri Över Sjön, concluding your epic road trip at the spectacular lakeside Görvälns slott.",
+        "sv": "Kör ut till de medeltida ruinerna av Almarestäkets borg för en kraftfull morgonstart. Gå smidigt vidare till Bonäsbadets lugna sandstränder före lunch. Mitt på dagen kan du upptäcka Kallhälls tekniska förflutna på Bolindermuseet. På eftermiddagen uppskattar du lokal fin konst på Galleri Över Sjön och avslutar din episka utflykt vid det storslagna sjöslottet Görvälns slott."
       },
       "variants": {
         "rainy": {
@@ -730,7 +807,8 @@
             "de": "Mit dem Auto ist der Regen kein Hindernis. Wir starten bei den Ruinen von Almarestäket und genießen den Blick aus dem trockenen Innenraum. Am Bonäsbadet machen wir nur einen kurzen Fotostopp. Den Mittag verbringen wir im Bolindermuseum, gefolgt von der Galerie über dem See. Den Tag krönen wir im Schloss Görväln, wo wir direkt vor dem Eingang parken und trocken eintreten können.",
             "hu": "Autóval az eső nem akadály. Almarestäket romjainál kezdünk, élvezve a kilátást a száraz utastérből. A Bonäsbadetnél csak egy rövid fotószünetet tartunk. A delet a Bolinder Múzeumban töltjük, majd a Tó feletti Galéria következik. A napot a Görväln-kastélyban koronázzuk meg, ahol közvetlenül a bejáratnál parkolhatunk, így szárazon juthatunk be.",
             "ro": "Cu mașina, ploaia nu este un obstacol. Începem la ruinele Almarestäket, bucurându-ne de priveliște din interiorul uscat. La Bonäsbadet facem doar o scurtă oprire foto. Prânzul îl petrecem la Muzeul Bolinder, urmat de Galeria de peste Lac. Încheiem ziua la Castelul Görväln, unde putem parca chiar în fața intrării pentru a intra fără să ne udăm.",
-            "en": "By car, the rain is no obstacle. We start at the Almarestäket ruins, enjoying the view from the dry interior. At Bonäsbadet, we take only a brief photo stop. We spend noon at the Bolinder Museum, followed by the Over the Lake Gallery. We crown the day at Görväln Castle, where we can park right in front of the entrance and enter dryly."
+            "en": "By car, the rain is no obstacle. We start at the Almarestäket ruins, enjoying the view from the dry interior. At Bonäsbadet, we take only a brief photo stop. We spend noon at the Bolinder Museum, followed by the Over the Lake Gallery. We crown the day at Görväln Castle, where we can park right in front of the entrance and enter dryly.",
+            "sv": "I bil är regnet inget hinder. Vi börjar vid Almarestäkets ruiner och njuter utsikten från det torra interiören. Vid Bonäsbadet tar vi bara ett kort fotostopp. Vi tillbringar lunchtid på Bolindermuseet följt av ett besök på Galleri Över Sjön. Vi kröner dagen vid Görvälns slott där vi kan parkera precis vid entrén och gå in torrskodda."
           },
           "stops": [
             {
@@ -738,13 +816,15 @@
                 "de": "Burg Almarestäket",
                 "hu": "Almarestäket Vára",
                 "ro": "Cetatea Almarestäket",
-                "en": "Almarestäket Castle Ruins"
+                "en": "Almarestäket Castle Ruins",
+                "sv": "Almarestäkets borgs ruiner"
               },
               "tip_5lang": {
                 "de": "Betrachten Sie die Ruinen vom Parkplatz aus, wenn es stark regnet; die Informationstafeln sind auch bei kurzem Verlassen des Autos lesbar.",
                 "hu": "Nézze meg a romokat a parkolóból, ha erősen esik; az információs táblák az autóból rövid időre kiszállva is jól olvashatóak.",
                 "ro": "Priviți ruinele din parcare dacă plouă torențial; panourile informative pot fi citite rapid chiar și la o ieșire scurtă din mașină.",
-                "en": "View the ruins from the parking lot if it's raining heavily; information boards are readable even during a brief exit from the car."
+                "en": "View the ruins from the parking lot if it's raining heavily; information boards are readable even during a brief exit from the car.",
+                "sv": "Om det regnar kraftigt, betrakta ruinerna från parkeringsplatsen; informationsskyltar är läsbara även vid en kort utevistelse från bilen."
               }
             },
             {
@@ -752,13 +832,15 @@
                 "de": "Bonäsbadet Strand",
                 "hu": "Bonäsbadet Strand",
                 "ro": "Plaja Bonäsbadet",
-                "en": "Bonäsbadet Beach"
+                "en": "Bonäsbadet Beach",
+                "sv": "Bonäsbadet"
               },
               "tip_5lang": {
                 "de": "Genießen Sie die stürmische See-Atmosphäre durch die Windschutzscheibe; ein kurzer Gang zum Ufer lohnt sich nur mit wetterfester Kleidung.",
                 "hu": "Élvezze a viharos tavi hangulatot a szélvédőn keresztül; a parti séta csak szél- és vízálló ruházatban javasolt ilyenkor.",
                 "ro": "Bucurați-vă de atmosfera agitată a lacului prin parbriz; o scurtă plimbare la țărm merită doar dacă aveți haine impermeabile.",
-                "en": "Enjoy the stormy lake atmosphere through the windshield; a short walk to the shore is only worth it with weather-resistant clothing."
+                "en": "Enjoy the stormy lake atmosphere through the windshield; a short walk to the shore is only worth it with weather-resistant clothing.",
+                "sv": "Njut av den stormiga sjöatmosfären genom vindrutan; en kort promenad till stranden är bara värd det med väderbeständiga kläder."
               }
             },
             {
@@ -766,13 +848,15 @@
                 "de": "Bolindermuseum",
                 "hu": "Bolinder Múzeum",
                 "ro": "Muzeul Bolinder",
-                "en": "Bolinder Museum"
+                "en": "Bolinder Museum",
+                "sv": "Bolindermuseet"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie den nahen Parkplatz für einen trockenen Zugang; das Museum ist der perfekte Ort, um einen heftigen Regenschauer abzuwarten.",
                 "hu": "Használja a közeli parkolót a száraz bejutáshoz; a múzeum tökéletes hely egy intenzívebb zápor átvészelésére.",
                 "ro": "Folosiți parcarea din apropiere pentru acces uscat; muzeul este locul perfect pentru a aștepta trecerea unei averse de ploaie.",
-                "en": "Use the nearby parking for dry access; the museum is the perfect place to wait out a heavy rain shower in comfort."
+                "en": "Use the nearby parking for dry access; the museum is the perfect place to wait out a heavy rain shower in comfort.",
+                "sv": "Använd den närliggande parkeringen för torr tillgång; museet är den perfekta platsen att vänta ut en kraftig regnskur i komfort."
               }
             },
             {
@@ -780,13 +864,15 @@
                 "de": "Galerie über dem See",
                 "hu": "Tó Feletti Galéria",
                 "ro": "Galeria Peste Lac",
-                "en": "Over the Lake Gallery"
+                "en": "Over the Lake Gallery",
+                "sv": "Galleri Över Sjön"
               },
               "tip_5lang": {
                 "de": "Die Fahrt zur Galerie bietet schöne Ausblicke auf den regnerischen See; drinnen ist es warm und die Kunst wirkt bei grauem Licht intensiver.",
                 "hu": "A galériához vezető út szép kilátást nyújt az esős tóra; bent meleg van, a művészet pedig intenzívebbnek hat a szürke fényben.",
                 "ro": "Drumul spre galerie oferă vederi frumoase spre lacul ploios; în interior este cald, iar arta pare mai intensă în lumina cenușie.",
-                "en": "The drive to the gallery offers beautiful views of the rainy lake; inside it's warm, and the art feels more intense in the grey light."
+                "en": "The drive to the gallery offers beautiful views of the rainy lake; inside it's warm, and the art feels more intense in the grey light.",
+                "sv": "Bilfärden till galleriet bjuder på vackra vyer över den regniga sjön; inne är det varmt och konsten upplevs mer intensiv i det grå ljuset."
               }
             },
             {
@@ -794,13 +880,15 @@
                 "de": "Görvälns Slott",
                 "hu": "Görväln Kastély",
                 "ro": "Castelul Görväln",
-                "en": "Görväln Castle"
+                "en": "Görväln Castle",
+                "sv": "Görvälns slott"
               },
               "tip_5lang": {
                 "de": "Fahren Sie bis zum Schlosshof vor; die Beleuchtung des Schlosses bei Regen spiegelt sich wunderschön in den Pfützen auf dem Pflaster.",
                 "hu": "Hajtson egészen a kastély udvaráig; az épület világítása esőben gyönyörűen tükröződik a kövezeten lévő tócsákban.",
                 "ro": "Conduceți până în curtea castelului; iluminarea clădirii pe timp de ploaie se reflectă superb în bălțile de pe pavaj.",
-                "en": "Drive right up to the castle courtyard; the building's lights reflect beautifully in the puddles on the pavement during the rain."
+                "en": "Drive right up to the castle courtyard; the building's lights reflect beautifully in the puddles on the pavement during the rain.",
+                "sv": "Kör ända upp till slottsgården; byggnadens ljus speglas vackert i vattenpölarna på stenläggningen under regnet."
               }
             }
           ]
@@ -810,7 +898,8 @@
             "de": "Eine winterliche Spritztour durch Kallhäll bietet Komfort und Wärme. Wir starten bei den verschneiten Almarestäket-Ruinen. Nach einem kurzen Blick auf den gefrorenen Strand von Bonäsbadet wärmen wir uns im Bolindermuseum auf. Die Galerie über dem See bietet eine Panoramaaussicht auf die Eislandschaft. Den Tag beschließen wir im festlich beleuchteten Schloss Görväln bei einer warmen Tasse Kaffee.",
             "hu": "Egy téli autós kirándulás Kallhäll környékén kényelmet és meleget nyújt. A havas Almarestäket-romoknál kezdünk. A Bonäsbadet befagyott strandja után a Bolinder Múzeumban melegszünk fel. A Tó feletti Galéria panorámás kilátást kínál a jeges tájra. A napot az ünnepi díszben úszó Görväln-kastélyban zárjuk egy csésze meleg kávé mellett.",
             "ro": "O plimbare de iarnă prin Kallhäll oferă confort și căldură. Începem la ruinele înzăpezite Almarestäket. După o privire spre plaja înghețată Bonäsbadet, ne încălzim la Muzeul Bolinder. Galeria de peste Lac oferă o vedere panoramică asupra peisajului înghețat. Încheiem ziua la Castelul Görväln, iluminat festiv, cu o cafea caldă.",
-            "en": "A winter drive through Kallhäll offers comfort and warmth. We start at the snowy Almarestäket ruins. After a look at the frozen Bonäsbadet beach, we warm up at the Bolinder Museum. The Over the Lake Gallery provides a panoramic view of the icy landscape. We conclude the day at the festively lit Görväln Castle with a warm cup of coffee."
+            "en": "A winter drive through Kallhäll offers comfort and warmth. We start at the snowy Almarestäket ruins. After a look at the frozen Bonäsbadet beach, we warm up at the Bolinder Museum. The Over the Lake Gallery provides a panoramic view of the icy landscape. We conclude the day at the festively lit Görväln Castle with a warm cup of coffee.",
+            "sv": "En vinterresa genom Kallhäll erbjuder komfort och värme. Vi börjar vid snöiga Almarestäkets ruiner. Efter en titt på den frusna Bonäsbadet-stranden värmer vi upp på Bolindermuseet. Galleri Över Sjön ger en panoramavy över det isig landskapet. Vi avslutar dagen vid det festligt upplysta Görvälns slott med en varm kopp kaffe."
           },
           "stops": [
             {
@@ -818,13 +907,15 @@
                 "de": "Burg Almarestäket",
                 "hu": "Almarestäket Vára",
                 "ro": "Cetatea Almarestäket",
-                "en": "Almarestäket Castle Ruins"
+                "en": "Almarestäket Castle Ruins",
+                "sv": "Almarestäkets borgs ruiner"
               },
               "tip_5lang": {
                 "de": "Achten Sie auf Glatteis auf dem Parkplatz; die verschneiten Ruinen wirken im Winter wie aus einer anderen Zeit gefallen.",
                 "hu": "Ügyeljen a jegesedésre a parkolóban; a havas romok télen úgy festenek, mintha egy másik idősíkból maradtak volna itt.",
                 "ro": "Atenție la polei în parcare; ruinele înzăpezite par desprinse din alt timp în timpul iernii, oferind un peisaj de poveste.",
-                "en": "Watch out for black ice in the parking lot; the snowy ruins look like they've fallen out of another time during the winter."
+                "en": "Watch out for black ice in the parking lot; the snowy ruins look like they've fallen out of another time during the winter.",
+                "sv": "Se upp för svartis på parkeringsplatsen; de snötäckta ruinerna ser ut som hämtade från en annan tid under vintern."
               }
             },
             {
@@ -832,13 +923,15 @@
                 "de": "Bonäsbadet Strand",
                 "hu": "Bonäsbadet Strand",
                 "ro": "Plaja Bonäsbadet",
-                "en": "Bonäsbadet Beach"
+                "en": "Bonäsbadet Beach",
+                "sv": "Bonäsbadet"
               },
               "tip_5lang": {
                 "de": "Lassen Sie die Heizung im Auto an, während Sie kurz den gefrorenen See bewundern; der Kontrast zwischen warmem Auto und Eis ist herrlich.",
                 "hu": "Hagyja bekapcsolva a fűtést az autóban, amíg rövid ideig megcsodálja a befagyott tavat; a meleg autó és a jég kontrasztja remek.",
                 "ro": "Lăsați căldura pornită în mașină în timp ce admirați scurt lacul înghețat; contrastul dintre mașina caldă și gheață este minunat.",
-                "en": "Keep the car heater on while you briefly admire the frozen lake; the contrast between the warm car and the ice is wonderful."
+                "en": "Keep the car heater on while you briefly admire the frozen lake; the contrast between the warm car and the ice is wonderful.",
+                "sv": "Ha bilvärmaren på medan du kort beundrar den frusna sjön; kontrasten mellan den varma bilen och isen är underbar."
               }
             },
             {
@@ -846,13 +939,15 @@
                 "de": "Bolindermuseum",
                 "hu": "Bolinder Múzeum",
                 "ro": "Muzeul Bolinder",
-                "en": "Bolinder Museum"
+                "en": "Bolinder Museum",
+                "sv": "Bolindermuseet"
               },
               "tip_5lang": {
                 "de": "Das Museum ist gut beheizt und bietet eine wunderbare Pause von der winterlichen Fahrt; genießen Sie die Technikgeschichte im Warmen.",
                 "hu": "A múzeum jól fűtött, és remek szünetet kínál a téli autózás közben; élvezze a technikatörténetet a kellemes melegben.",
                 "ro": "Muzeul este bine încălzit și oferă o pauză minunată de la condusul pe timp de iarnă; bucurați-vă de istoria tehnicii la căldură.",
-                "en": "The museum is well-heated and offers a wonderful break from winter driving; enjoy the history of technology in the warm interior."
+                "en": "The museum is well-heated and offers a wonderful break from winter driving; enjoy the history of technology in the warm interior.",
+                "sv": "Museet är väl uppvärmt och erbjuder en härlig paus från vinterkörningen; njut av teknikhistorien i den varma interiören."
               }
             },
             {
@@ -860,13 +955,15 @@
                 "de": "Galerie über dem See",
                 "hu": "Tó Feletti Galéria",
                 "ro": "Galeria Peste Lac",
-                "en": "Over the Lake Gallery"
+                "en": "Over the Lake Gallery",
+                "sv": "Galleri Över Sjön"
               },
               "tip_5lang": {
                 "de": "Die großen Glasflächen bieten einen sicheren Blick auf die winterliche Natur, ohne dass man in der Kälte stehen muss; perfekt für Fotos.",
                 "hu": "A nagy üvegfelületek biztonságos kilátást nyújtanak a téli természetre anélkül, hogy a hidegben kellene állnia; tökéletes fotózáshoz.",
                 "ro": "Suprafețele mari vitrate oferă o vedere sigură asupra naturii de iarnă fără a sta în frig; este locul perfect pentru fotografii.",
-                "en": "The large glass surfaces offer a safe view of the winter nature without having to stand in the cold; perfect for taking photos."
+                "en": "The large glass surfaces offer a safe view of the winter nature without having to stand in the cold; perfect for taking photos.",
+                "sv": "De stora glasytorna erbjuder en trygg utsikt över vinterlandskapet utan att behöva stå i kylan; perfekt för foton."
               }
             },
             {
@@ -874,13 +971,15 @@
                 "de": "Görvälns Slott",
                 "hu": "Görväln Kastély",
                 "ro": "Castelul Görväln",
-                "en": "Görväln Castle"
+                "en": "Görväln Castle",
+                "sv": "Görvälns slott"
               },
               "tip_5lang": {
                 "de": "Parken Sie vorsichtig auf dem eventuell schneebedeckten Gelände; die abendliche Winterbeleuchtung des Schlosses ist ein absolutes Highlight.",
                 "hu": "Parkoljon óvatosan az esetleg hóval borított területen; a kastély esti téli kivilágítása a nap abszolút fénypontja.",
                 "ro": "Parcați cu atenție pe terenul eventual acoperit de zăpadă; iluminarea de seară a castelului iarna este punctul culminant al zilei.",
-                "en": "Park carefully on the potentially snow-covered grounds; the evening winter lighting of the castle is an absolute highlight."
+                "en": "Park carefully on the potentially snow-covered grounds; the evening winter lighting of the castle is an absolute highlight.",
+                "sv": "Parkera försiktigt på de eventuellt snötäckta ytorna; slottsbelysningen på kvällen är ett absolut höjdpunkt."
               }
             }
           ]

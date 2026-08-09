@@ -21,7 +21,8 @@
             "de": "Stortorget Växjö",
             "hu": "Växjö főtere",
             "ro": "Piața Mare din Växjö",
-            "en": "Växjö Main Square"
+            "en": "Växjö Main Square",
+            "sv": "Växjö Stortorg"
           },
           "coords": [
             14.8085,
@@ -37,7 +38,8 @@
             "de": "Perfekter Startpunkt, oft finden hier Märkte statt. Probieren Sie lokale Produkte!",
             "hu": "Tökéletes kiindulópont, gyakran tartanak itt piacokat. Kóstoljon helyi termékeket!",
             "ro": "Punct de plecare perfect, adesea găzduiește piețe. Încercați produsele locale!",
-            "en": "Perfect starting point, often hosts markets. Try some local produce!"
+            "en": "Perfect starting point, often hosts markets. Try some local produce!",
+            "sv": "Perfekt startpunkt, ofta marknader. Prova gärna lokala råvaror!"
           }
         },
         {
@@ -45,7 +47,8 @@
             "de": "Växjö Domkirche",
             "hu": "Växjöi székesegyház",
             "ro": "Catedrala din Växjö",
-            "en": "Växjö Cathedral"
+            "en": "Växjö Cathedral",
+            "sv": "Växjö domkyrka"
           },
           "coords": [
             14.8055,
@@ -61,7 +64,8 @@
             "de": "Achten Sie auf die beeindruckenden Glasmalereien und die zwei markanten Türme.",
             "hu": "Figyelje meg a lenyűgöző üvegfestményeket és a két jellegzetes tornyot.",
             "ro": "Observați vitraliile impresionante și cele două turnuri distinctive.",
-            "en": "Look for the impressive stained glass windows and the two distinctive towers."
+            "en": "Look for the impressive stained glass windows and the two distinctive towers.",
+            "sv": "Titta efter de imponerande glasmålningarna och de två karakteristiska tornen."
           }
         },
         {
@@ -69,7 +73,8 @@
             "de": "Linnéparken",
             "hu": "Linné Park",
             "ro": "Parcul Linné",
-            "en": "Linné Park"
+            "en": "Linné Park",
+            "sv": "Linné Park"
           },
           "coords": [
             14.8042,
@@ -85,7 +90,8 @@
             "de": "Ein wunderschöner botanischer Garten hinter der Kathedrale. Ideal für eine kurze Pause.",
             "hu": "Egy gyönyörű botanikus kert a székesegyház mögött. Ideális egy rövid szünetre.",
             "ro": "O grădină botanică superbă în spatele catedralei. Ideală pentru o scurtă pauză.",
-            "en": "A beautiful botanical garden behind the cathedral. Ideal for a short break."
+            "en": "A beautiful botanical garden behind the cathedral. Ideal for a short break.",
+            "sv": "En vacker botanisk trädgård bakom domkyrkan. Idealisk för en kort paus."
           }
         },
         {
@@ -93,7 +99,8 @@
             "de": "Småland Museum & Schwedisches Glasmuseum",
             "hu": "Småland Múzeum és Svéd Üvegmúzeum",
             "ro": "Muzeul Småland și Muzeul Sticlei din Suedia",
-            "en": "Småland Museum & Swedish Glass Museum"
+            "en": "Småland Museum & Swedish Glass Museum",
+            "sv": "Smålands museum & Svenskt glasmuseum"
           },
           "coords": [
             14.8122,
@@ -109,7 +116,8 @@
             "de": "Zwei Museen in einem! Die Glasausstellung ist weltberühmt.",
             "hu": "Két múzeum egyben! Az üvegkiállítás világhírű.",
             "ro": "Două muzee într-unul! Expoziția de sticlă este de renume mondial.",
-            "en": "Two museums in one! The glass exhibition is world-famous."
+            "en": "Two museums in one! The glass exhibition is world-famous.",
+            "sv": "Två museer i ett! Glasutställningen är världsberömd."
           }
         },
         {
@@ -117,7 +125,8 @@
             "de": "Haus der Auswanderer",
             "hu": "Kivándorlók Háza",
             "ro": "Casa Emigranților",
-            "en": "House of Emigrants"
+            "en": "House of Emigrants",
+            "sv": "Emigrantmuseet"
           },
           "coords": [
             14.8135,
@@ -133,7 +142,8 @@
             "de": "Erfahren Sie mehr über die schwedische Auswanderung nach Amerika. Sehr bewegend.",
             "hu": "Tudjon meg többet a svéd kivándorlásról Amerikába. Nagyon megható.",
             "ro": "Aflați despre emigrația suedeză în America. Foarte emoționant.",
-            "en": "Learn about the Swedish emigration to America. Very moving."
+            "en": "Learn about the Swedish emigration to America. Very moving.",
+            "sv": "Lär dig om den svenska emigrationen till Amerika. Mycket gripande."
           }
         },
         {
@@ -141,7 +151,8 @@
             "de": "Spaziergang am See Helgasjön",
             "hu": "Séta a Helgasjön-tó partján",
             "ro": "Plimbare pe malul lacului Helgasjön",
-            "en": "Walk by Lake Helgasjön"
+            "en": "Walk by Lake Helgasjön",
+            "sv": "Promenad vid Helgasjön"
           },
           "coords": [
             14.81,
@@ -157,7 +168,8 @@
             "de": "Genießen Sie die frische Luft und die schöne Aussicht auf den See.",
             "hu": "Élvezze a friss levegőt és a tóra nyíló gyönyörű kilátást.",
             "ro": "Bucurați-vă de aerul proaspăt și de priveliștea frumoasă a lacului.",
-            "en": "Enjoy the fresh air and the beautiful view of the lake."
+            "en": "Enjoy the fresh air and the beautiful view of the lake.",
+            "sv": "Njut av frisk luft och den vackra utsikten över sjön."
           }
         },
         {
@@ -165,7 +177,8 @@
             "de": "Schloss Teleborg",
             "hu": "Teleborg kastély",
             "ro": "Castelul Teleborg",
-            "en": "Teleborg Castle"
+            "en": "Teleborg Castle",
+            "sv": "Teleborgs slott"
           },
           "coords": [
             14.8021,
@@ -181,7 +194,8 @@
             "de": "Ein Märchenschloss am See. Perfekt für Fotos, besonders bei Sonnenuntergang.",
             "hu": "Egy mesebeli kastély a tó partján. Tökéletes fotózáshoz, különösen naplementekor.",
             "ro": "Un castel de basm pe malul lacului. Perfect pentru fotografii, mai ales la apus.",
-            "en": "A fairytale castle by the lake. Perfect for photos, especially at sunset."
+            "en": "A fairytale castle by the lake. Perfect for photos, especially at sunset.",
+            "sv": "Ett sagoslott vid sjön. Perfekt för foton, särskilt vid solnedgång."
           }
         }
       ],
@@ -189,7 +203,8 @@
         "de": "Beginnen Sie Ihren Tag auf dem belebten Stortorget, dem Herzen von Växjö. Nach einem Besuch der majestätischen Domkirche führt Sie ein Spaziergang durch den ruhigen Linnéparken. Am Nachmittag tauchen Sie im Glas- und Auswanderermuseum in die reiche Geschichte der Region ein. Schließen Sie den Tag mit einem entspannenden Spaziergang entlang des Helgasjön-Sees ab und bewundern Sie das märchenhafte Schloss Teleborg, das sich im Wasser spiegelt.",
         "hu": "Kezdje a napot Växjö szívében, a nyüzsgő Stortorget téren. A fenséges székesegyház megtekintése után sétáljon át a csendes Linné Parkon. Délután merüljön el a régió gazdag történelmében az Üveg- és a Kivándorlók Múzeumában. Zárja a napot egy pihentető sétával a Helgasjön-tó partján, megcsodálva a vízben tükröződő, meseszerű Teleborg kastélyt.",
         "ro": "Începeți ziua în inima orașului Växjö, în vibranta Piață Mare (Stortorget). După o vizită la maiestuoasa catedrală, faceți o plimbare prin liniștitul Parc Linné. După-amiaza, pătrundeți în istoria bogată a regiunii la Muzeul Sticlei și la Casa Emigranților. Încheiați ziua cu o plimbare relaxantă pe malul lacului Helgasjön, admirând castelul de basm Teleborg reflectat în apă.",
-        "en": "Start your day in the heart of Växjö at the bustling Stortorget square. After visiting the majestic cathedral, take a stroll through the tranquil Linné Park. In the afternoon, delve into the region's rich history at the Glass Museum and the House of Emigrants. End your day with a relaxing walk along Lake Helgasjön, admiring the fairytale-like Teleborg Castle reflected in the water."
+        "en": "Start your day in the heart of Växjö at the bustling Stortorget square. After visiting the majestic cathedral, take a stroll through the tranquil Linné Park. In the afternoon, delve into the region's rich history at the Glass Museum and the House of Emigrants. End your day with a relaxing walk along Lake Helgasjön, admiring the fairytale-like Teleborg Castle reflected in the water.",
+        "sv": "Börja dagen i Växjös hjärta vid det livliga Stortorget. Efter ett besök i den majestätiska domkyrkan promenerar du genom den fridfulla Linné Park. På eftermiddagen fördjupar du dig i regionens rika historia på Glasmuseet och Emigrantmuseet. Avsluta dagen med en avkopplande promenad längs Helgasjön och beundra Teleborgs slotts sagolika spegling i vattnet."
       },
       "gastro_picks": {
         "de": [
@@ -285,6 +300,9 @@
         ],
         "en": [
           "Wear comfortable shoes as you will be doing a lot of walking. Bring a reusable water bottle. Many cafes offer free refills."
+        ],
+        "sv": [
+          "Ha bekväma skor eftersom du kommer att gå mycket. Ta med en återanvändbar vattenflaska. Många kaféer erbjuder fria påfyllningar."
         ]
       },
       "variants": {
@@ -293,7 +311,8 @@
             "de": "Der Morgen beginnt auf dem Stortorget unter Regenschirmen, gefolgt von der schützenden Stille der roten Kathedrale. Mittags bieten das Småland- und Glasmuseum eine ausgedehnte, trockene Flucht in die Kulturgeschichte. Am Nachmittag vertiefen wir uns im Haus der Auswanderer in bewegende Schicksale. Der Tag endet mit einem stürmischen Blick auf den See und der gemütlichen Ankunft am Schloss Teleborg.",
             "hu": "Reggel a főtéren az esernyők alatt indul a nap, majd a székesegyház vörös falai között találunk csendes menedéket. Délben az üvegmúzeum és a Småland Múzeum kínál hosszú, száraz programot a zuhogó esőben. Délután az Emigránsok Házának tárlatait böngésszük, majd a tóparti szélben sétálunk el a Teleborg-kastélyig, ahol egy forró kávé mellett zárjuk a napot.",
             "ro": "Dimineața începe în piața principală sub umbrele, urmată de liniștea protectoare a catedralei roșii. La prânz, muzeele de sticlă și Småland oferă un refugiu uscat și cultural. După-amiaza explorăm Casa Emigranților, feriți de ploaie. Încheiem ziua cu o plimbare scurtă pe malul lacului Helgasjön și o vizită la castelul Teleborg, unde atmosfera devine magică în ciuda vremii umede.",
-            "en": "Morning starts at the main square under umbrellas, followed by the dry sanctuary of the red-brick cathedral. Midday is spent exploring the Småland and Glass Museums, perfect for escaping the Swedish rain. In the afternoon, the House of Emigrants provides a moving indoor experience. We finish with a brisk walk by the lake to Teleborg Castle, where the grey skies add a dramatic touch to the stone walls."
+            "en": "Morning starts at the main square under umbrellas, followed by the dry sanctuary of the red-brick cathedral. Midday is spent exploring the Småland and Glass Museums, perfect for escaping the Swedish rain. In the afternoon, the House of Emigrants provides a moving indoor experience. We finish with a brisk walk by the lake to Teleborg Castle, where the grey skies add a dramatic touch to the stone walls.",
+            "sv": "Morgonen börjar på Stortorget under paraplyer, följt av den torra fristaden i den rödteglade domkyrkan. Mitt på dagen utforskar vi Smålands- och Glasmuseet, perfekt för att undkomma svensk regn. På eftermiddagen erbjuder Emigrantmuseet en gripande inomhusupplevelse. Vi avslutar med en rask promenad vid sjön till Teleborgs slott, där den grå himlen ger en dramatisk prägel åt stenmurarna."
           },
           "stops": [
             {
@@ -302,7 +321,8 @@
                 "de": "Suchen Sie Schutz unter den Markisen der Cafés am Platz.",
                 "hu": "Használja a tér körüli kávézók előtetőit az eső ellen.",
                 "ro": "Căutați adăpost sub copertinele cafenelelor din piață.",
-                "en": "Seek shelter under the cafe awnings around the square."
+                "en": "Seek shelter under the cafe awnings around the square.",
+                "sv": "Sök skydd under kafémarkiserna runt torget."
               }
             },
             {
@@ -311,7 +331,8 @@
                 "de": "Ein idealer Ort, um die Regenpause trocken zu verbringen.",
                 "hu": "Tökéletes helyszín egy száraz pihenőre az esőben.",
                 "ro": "Locul ideal pentru o pauză uscată în timpul ploii.",
-                "en": "A perfect spot for a dry break during a downpour."
+                "en": "A perfect spot for a dry break during a downpour.",
+                "sv": "En perfekt plats för en torr paus under en störtskur."
               }
             },
             {
@@ -320,7 +341,8 @@
                 "de": "Wählen Sie die asphaltierten Wege, um Matsch zu vermeiden.",
                 "hu": "Válassza az aszfaltozott utakat a sár elkerülése érdekében.",
                 "ro": "Alegeți potecile asfaltate pentru a evita noroiul.",
-                "en": "Stick to the paved paths to avoid the muddy grass."
+                "en": "Stick to the paved paths to avoid the muddy grass.",
+                "sv": "Håll dig till de asfalterade gångarna för att undvika den leriga gräsmattan."
               }
             },
             {
@@ -329,7 +351,8 @@
                 "de": "Große Garderobe vorhanden – perfekt zum Trocknen der Jacken.",
                 "hu": "Tágas ruhatár áll rendelkezésre a vizes kabátoknak.",
                 "ro": "Garderobă spațioasă disponibilă pentru uscarea hainelor.",
-                "en": "Large cloakroom available – perfect for drying your gear."
+                "en": "Large cloakroom available – perfect for drying your gear.",
+                "sv": "Stor garderob finns – perfekt för att torka din utrustning."
               }
             },
             {
@@ -338,7 +361,8 @@
                 "de": "Genießen Sie die Ruhe im Archiv, während es draußen regnet.",
                 "hu": "Élvezze az archívum nyugalmát, amíg kint esik az eső.",
                 "ro": "Bucurați-vă de liniștea arhivelor în timp ce plouă afară.",
-                "en": "Enjoy the quiet of the archives while it rains outside."
+                "en": "Enjoy the quiet of the archives while it rains outside.",
+                "sv": "Njut av arkivens stillhet medan det regnar utanför."
               }
             },
             {
@@ -347,7 +371,8 @@
                 "de": "Wasserdichte Schuhe sind für den ufernahen Weg nötig.",
                 "hu": "Vízálló cipő szükséges a tóparti sétányhoz.",
                 "ro": "Încălțămintea impermeabilă este necesară pe malul lacului.",
-                "en": "Waterproof shoes are essential for the lakeside path."
+                "en": "Waterproof shoes are essential for the lakeside path.",
+                "sv": "Vattentäta skor är oumbärliga för strandpromenaden."
               }
             },
             {
@@ -356,7 +381,8 @@
                 "de": "Wärmen Sie sich im Schlossrestaurant bei einem Tee auf.",
                 "hu": "Melegedjen fel egy teával a kastély éttermében.",
                 "ro": "Încălziți-vă cu un ceai la restaurantul castelului.",
-                "en": "Warm up with a hot tea at the castle restaurant."
+                "en": "Warm up with a hot tea at the castle restaurant.",
+                "sv": "Värm dig med en het te på slottsrestaurangen."
               }
             }
           ],
@@ -388,6 +414,13 @@
               "The Cathedral interior is a great sanctuary during heavy downpours.",
               "Take advantage of the 'fika' culture to dry off in cozy cafes.",
               "Lakeside paths can be slippery; wear shoes with good grip."
+            ],
+            "sv": [
+              "Växjö är Europas grönaste stad, men en regnponcho är ett lokalt måste.",
+              "Museerna ligger samlade, perfekt för korta sträckor i regn.",
+              "Domkyrkans interiör är en utmärkt fristad vid kraftiga skyfall.",
+              "Utnyttja fikakulturen för att torka upp i mysiga kaféer.",
+              "Strandstigarna kan vara hala; bära skor med bra grepp."
             ]
           }
         },
@@ -396,7 +429,8 @@
             "de": "Der frostige Morgen am Stortorget wird durch eine heiße Fika belebt. In der Kathedrale bewundern wir das Lichtspiel auf dem roten Stein, bevor wir uns im warmen Glasmuseum aufwärmen. Nachmittags sinkt die Sonne früh über dem Linné-Park, was den Weg zum Schloss Teleborg in ein blaues Winterlicht taucht. Der Abend endet vor dem beleuchteten Schloss, während der Frost die Stadt Växjö fest im Griff hat.",
             "hu": "A fagyos reggel a főtéren egy forró kávéval indul. A katedrális vörös téglái között melegedünk, majd az üvegmúzeum kemencéinek közelsége ad hőt a téli hidegben. Délután a korai naplemente már a Linné-park felett ér minket, így a Teleborg-kastélyt már ünnepi kivilágításban pillantjuk meg. A napot a befagyott tó látványa és a kastély esti fényei zárják.",
             "ro": "Dimineața geroasă în piață necesită o oprire pentru o cafea fierbinte. Admirăm catedrala, apoi ne încălzim în muzeul de sticlă, unde arta transpare prin căldură. După-amiaza, soarele apune devreme peste parcul Linné, transformând drumul spre castelul Teleborg într-o poveste de iarnă. Încheiem ziua sub luminile castelului, în aerul rece și curat al Suediei.",
-            "en": "The frosty morning at the main square is best started with a hot fika. We visit the red cathedral, then retreat to the warmth of the Glass Museum as temperatures drop. In the afternoon, the early winter sunset paints the sky purple over Linné Park. We reach the illuminated Teleborg Castle just in time to see its towers glow against the dark, snowy Swedish landscape."
+            "en": "The frosty morning at the main square is best started with a hot fika. We visit the red cathedral, then retreat to the warmth of the Glass Museum as temperatures drop. In the afternoon, the early winter sunset paints the sky purple over Linné Park. We reach the illuminated Teleborg Castle just in time to see its towers glow against the dark, snowy Swedish landscape.",
+            "sv": "Den frostiga morgonen på Stortorget är bäst att börja med en varm fika. Vi besöker den röda domkyrkan, sedan drar vi oss tillbaka till värmen på Glasmuseet när temperaturen sjunker. På eftermiddagen målar den tidiga vintersolnedgången himlen lila över Linné Park. Vi når det upplysta Teleborgs slott precis i tid för att se tornen lysa mot det mörka, snötäckta svenska landskapet."
           },
           "stops": [
             {
@@ -405,7 +439,8 @@
                 "de": "Achten Sie auf Glatteis auf dem Kopfsteinpflaster.",
                 "hu": "Vigyázzon a jegesedésre a macskaköves burkolaton.",
                 "ro": "Atenție la porțiunile cu gheață de pe pavaj.",
-                "en": "Watch out for icy patches on the cobblestones."
+                "en": "Watch out for icy patches on the cobblestones.",
+                "sv": "Se upp för isfläckar på kullerstenarna."
               }
             },
             {
@@ -414,7 +449,8 @@
                 "de": "In den Wintermonaten oft stimmungsvoll beleuchtet.",
                 "hu": "A téli hónapokban gyakran hangulatos díszkivilágítást kap.",
                 "ro": "Adesea iluminată spectaculos în lunile de iarnă.",
-                "en": "Often beautifully illuminated during winter months."
+                "en": "Often beautifully illuminated during winter months.",
+                "sv": "Ofta vackert belyst under vintermånaderna."
               }
             },
             {
@@ -423,7 +459,8 @@
                 "de": "Der Park ist im Winter ein schöner Ort für Fotos im Schnee.",
                 "hu": "A park télen gyönyörű helyszín a havas fotókhoz.",
                 "ro": "Parcul este un loc superb pentru fotografii în zăpadă.",
-                "en": "The park is a beautiful spot for snowy photos in winter."
+                "en": "The park is a beautiful spot for snowy photos in winter.",
+                "sv": "Parken är en vacker plats för snöiga foton på vintern."
               }
             },
             {
@@ -432,7 +469,8 @@
                 "de": "Genießen Sie die Wärme im Inneren – idealer Winterstopp.",
                 "hu": "Élvezze a benti meleget – ideális téli megálló.",
                 "ro": "Bucurați-vă de căldura din interior – oprire ideală iarna.",
-                "en": "Enjoy the cozy warmth inside – an ideal winter stop."
+                "en": "Enjoy the cozy warmth inside – an ideal winter stop.",
+                "sv": "Njut av den mysiga värmen inomhus – ett idealiskt vinterstopp."
               }
             },
             {
@@ -441,7 +479,8 @@
                 "de": "Prüfen Sie die kürzeren Winteröffnungszeiten vorab.",
                 "hu": "Ellenőrizze előre a rövidebb téli nyitvatartást.",
                 "ro": "Verificați programul scurt de iarnă înainte de vizită.",
-                "en": "Check the shorter winter opening hours in advance."
+                "en": "Check the shorter winter opening hours in advance.",
+                "sv": "Kontrollera de kortare vinteröppettiderna i förväg."
               }
             },
             {
@@ -450,7 +489,8 @@
                 "de": "Vorsicht, der Wind vom See kann sehr schneidend sein.",
                 "hu": "Vigyázat, a tóról fújó szél metszően hideg lehet.",
                 "ro": "Atenție, vântul de pe lac poate fi foarte tăios.",
-                "en": "Be careful, the wind from the lake can be biting cold."
+                "en": "Be careful, the wind from the lake can be biting cold.",
+                "sv": "Var försiktig, vinden från sjön kan vara bitande kall."
               }
             },
             {
@@ -459,7 +499,8 @@
                 "de": "Besuchen Sie das Schloss zur blauen Stunde für beste Fotos.",
                 "hu": "A 'kék órában' látogasson el ide a legjobb fotókért.",
                 "ro": "Vizitați castelul la 'ora albastră' pentru poze superbe.",
-                "en": "Visit the castle at 'blue hour' for the best photos."
+                "en": "Visit the castle at 'blue hour' for the best photos.",
+                "sv": "Besök slottet vid 'blå timmen' för de bästa fotona."
               }
             }
           ],
@@ -491,6 +532,13 @@
               "Wear reflectors on your coat for safety in the dark afternoons.",
               "The wind chill by Lake Helgasjön can be much lower than forecast.",
               "Teleborg Castle is most atmospheric when illuminated at night."
+            ],
+            "sv": [
+              "Solen går ner redan klockan 15:30 under vintermånaderna.",
+              "Klä dig i lager; svenska inomhusmiljöer hålls mycket varma.",
+              "Bär reflexer på kappan för säkerhet i de mörka eftermiddagarna.",
+              "Kyla från vindarna vid Helgasjön kan göra att det känns mycket kallare än prognosen visar.",
+              "Teleborgs slott är mest stämningsfullt när det är upplyst på natten."
             ]
           }
         }
@@ -509,7 +557,8 @@
             "de": "Stortorget Växjö",
             "hu": "Växjö főtere",
             "ro": "Piața Mare din Växjö",
-            "en": "Växjö Main Square"
+            "en": "Växjö Main Square",
+            "sv": "Växjö Stortorg"
           },
           "coords": [
             14.8085,
@@ -525,7 +574,8 @@
             "de": "Mieten Sie Ihr Fahrrad in der Nähe und starten Sie Ihre Tour hier.",
             "hu": "Béreljen kerékpárt a közelben, és indítsa innen a túrát.",
             "ro": "Închiriați o bicicletă din apropiere și începeți turul de aici.",
-            "en": "Rent your bike nearby and start your tour here."
+            "en": "Rent your bike nearby and start your tour here.",
+            "sv": "Hyr en cykel i närheten och starta din tur här."
           }
         },
         {
@@ -533,7 +583,8 @@
             "de": "Museumspark (Småland, Glas, Auswanderer)",
             "hu": "Múzeumpark (Småland, Üveg, Kivándorlók)",
             "ro": "Parcul Muzeelor (Småland, Sticlă, Emigranți)",
-            "en": "Museum Park (Småland, Glass, Emigrants)"
+            "en": "Museum Park (Småland, Glass, Emigrants)",
+            "sv": "Museiparken (Småland, Glas, Emigranter)"
           },
           "coords": [
             14.8122,
@@ -549,7 +600,8 @@
             "de": "Stellen Sie Ihr Fahrrad ab und erkunden Sie alle drei Museen in diesem Kulturzentrum.",
             "hu": "Zárja le a kerékpárt, és fedezze fel mindhárom múzeumot ebben a kulturális központban.",
             "ro": "Parcați bicicleta și explorați toate cele trei muzee din acest centru cultural.",
-            "en": "Lock up your bike and explore all three museums in this cultural hub."
+            "en": "Lock up your bike and explore all three museums in this cultural hub.",
+            "sv": "Lås fast cykeln och utforska alla tre museerna i detta kulturcentrum."
           }
         },
         {
@@ -557,7 +609,8 @@
             "de": "Radtour entlang des Sees Helgasjön",
             "hu": "Kerékpártúra a Helgasjön-tó mentén",
             "ro": "Tur cu bicicleta de-a lungul lacului Helgasjön",
-            "en": "Bike ride along Lake Helgasjön"
+            "en": "Bike ride along Lake Helgasjön",
+            "sv": "Cykeltur längs Helgasjön"
           },
           "coords": [
             14.795,
@@ -573,7 +626,8 @@
             "de": "Es gibt einen wunderschönen Radweg mit toller Aussicht auf den See und die Natur.",
             "hu": "Egy gyönyörű kerékpárút vezet itt, nagyszerű kilátással a tóra és a természetre.",
             "ro": "Există o pistă de biciclete minunată cu vederi superbe la lac și natură.",
-            "en": "There's a beautiful bike path with great views of the lake and nature."
+            "en": "There's a beautiful bike path with great views of the lake and nature.",
+            "sv": "Det finns en vacker cykelväg med fina vyer över sjön och naturen."
           }
         },
         {
@@ -581,7 +635,8 @@
             "de": "Schlossruine Kronoberg",
             "hu": "Kronoberg várrom",
             "ro": "Ruinele Castelului Kronoberg",
-            "en": "Kronoberg Castle Ruins"
+            "en": "Kronoberg Castle Ruins",
+            "sv": "Kronobergs slottsruin"
           },
           "coords": [
             14.7745,
@@ -597,7 +652,8 @@
             "de": "Eine historische Ruine auf einer Insel. Im Sommer gibt es eine kleine Fähre.",
             "hu": "Történelmi rom egy szigeten. Nyáron egy kis komp is közlekedik.",
             "ro": "O ruină istorică pe o insulă. Vara există un mic feribot.",
-            "en": "A historic ruin on an island. There's a small ferry in the summer."
+            "en": "A historic ruin on an island. There's a small ferry in the summer.",
+            "sv": "En historisk ruin på en ö. Det går en liten färja på sommaren."
           }
         },
         {
@@ -605,7 +661,8 @@
             "de": "Schloss Teleborg",
             "hu": "Teleborg kastély",
             "ro": "Castelul Teleborg",
-            "en": "Teleborg Castle"
+            "en": "Teleborg Castle",
+            "sv": "Teleborgs slott"
           },
           "coords": [
             14.8021,
@@ -621,7 +678,8 @@
             "de": "Radeln Sie zum Südufer des Sees Växjösjön für dieses beeindruckende Schloss.",
             "hu": "Tekerjen el a Växjösjön-tó déli partjára ehhez a lenyűgöző kastélyhoz.",
             "ro": "Pedalați spre malul de sud al lacului Växjösjön pentru acest castel impresionant.",
-            "en": "Cycle to the south shore of Lake Växjösjön for this impressive castle."
+            "en": "Cycle to the south shore of Lake Växjösjön for this impressive castle.",
+            "sv": "Cykla till södra stranden av Växjösjön för att se detta imponerande slott."
           }
         },
         {
@@ -629,7 +687,8 @@
             "de": "Växjö Domkirche & Linnéparken",
             "hu": "Växjöi székesegyház és Linné Park",
             "ro": "Catedrala din Växjö și Parcul Linné",
-            "en": "Växjö Cathedral & Linné Park"
+            "en": "Växjö Cathedral & Linné Park",
+            "sv": "Växjö domkyrka & Linné Park"
           },
           "coords": [
             14.8055,
@@ -645,7 +704,8 @@
             "de": "Beenden Sie Ihre Tour mit einem Besuch der Kathedrale und einer entspannten Zeit im Park.",
             "hu": "Fejezze be a túrát a katedrális meglátogatásával és egy pihentető időtöltéssel a parkban.",
             "ro": "Încheiați turul cu o vizită la catedrală și un moment de relaxare în parc.",
-            "en": "End your tour with a visit to the cathedral and some relaxing time in the park."
+            "en": "End your tour with a visit to the cathedral and some relaxing time in the park.",
+            "sv": "Avsluta din tur med ett besök i domkyrkan och lite avkoppling i parken."
           }
         }
       ],
@@ -653,7 +713,8 @@
         "de": "Schwingen Sie sich aufs Rad und starten Sie am Stortorget. Der Vormittag gehört der Kultur im Museumsviertel. Später radeln Sie entlang des malerischen Helgasjön-Sees zur historischen Schlossruine Kronoberg. Am Nachmittag führt die Route Sie zum märchenhaften Schloss Teleborg im Süden. Beenden Sie den Tag im Herzen der Stadt, bei der Domkirche und im angrenzenden Linnéparken.",
         "hu": "Pattanjon kerékpárra és induljon a Stortorget-ről. A délelőtt a kultúráé a múzeumi negyedben. Később tekerjen a festői Helgasjön-tó mentén a történelmi Kronoberg várromhoz. Délután az útvonal délre, a mesebeli Teleborg kastélyhoz vezet. Zárja a napot a város szívében, a székesegyháznál és a szomszédos Linné Parkban.",
         "ro": "Urcați-vă pe bicicletă și porniți din Stortorget. Dimineața este dedicată culturii în cartierul muzeelor. Mai târziu, pedalați de-a lungul pitorescului lac Helgasjön până la ruinele istorice ale castelului Kronoberg. După-amiaza, traseul vă duce spre sud, la castelul de basm Teleborg. Încheiați ziua în inima orașului, la catedrală și în parcul adiacent Linné.",
-        "en": "Hop on your bike and start from Stortorget. The morning is dedicated to culture in the museum district. Later, cycle along the picturesque Lake Helgasjön to the historic Kronoberg Castle ruins. In the afternoon, the route takes you south to the fairytale-like Teleborg Castle. End the day in the heart of the city, at the cathedral and the adjacent Linné Park."
+        "en": "Hop on your bike and start from Stortorget. The morning is dedicated to culture in the museum district. Later, cycle along the picturesque Lake Helgasjön to the historic Kronoberg Castle ruins. In the afternoon, the route takes you south to the fairytale-like Teleborg Castle. End the day in the heart of the city, at the cathedral and the adjacent Linné Park.",
+        "sv": "Hoppa upp på cykeln och starta från Stortorget. Morgonen ägnas åt kultur i museidistriktet. Senare cyklar du längs pittoreska Helgasjön till den historiska Kronobergs slottsruinen. På eftermiddagen tar rutten dig söderut till det sagolika Teleborgs slott. Avsluta dagen i stadens hjärta, vid domkyrkan och intilliggande Linné Park."
       },
       "gastro_picks": {
         "de": [
@@ -749,6 +810,9 @@
         ],
         "en": [
           "Växjö is a bike-friendly city with many cycle paths. Always lock your bike securely. A helmet is recommended."
+        ],
+        "sv": [
+          "Växjö är en cykelvänlig stad med många cykelvägar. Lås alltid cykeln ordentligt. Hjälm rekommenderas."
         ]
       },
       "variants": {
@@ -757,7 +821,8 @@
             "de": "Ein regnerischer Radtag in Växjö erfordert gute Ausrüstung. Vom Stortorget flüchten wir schnell in das Museumsquartier, wo wir die Räder sicher abstellen. Mittags geht es trotz Nieselregen zum Lake Helgasjön, wobei die asphaltierten Wege guten Halt bieten. Nach einem Besuch der Ruinen von Kronoberg führt der Rückweg zum Teleborg-Schloss, wo die nasse Fassade in sattem Grau glänzt. Der Tag endet sicher im Stadtzentrum.",
             "hu": "Egy esős bringás nap Växjőben jó felszerelést igényel. A főtérről gyorsan a múzeumi negyedbe tekerünk, ahol fedett helyen hagyhatjuk a bicikliket. Délben a szemerkélő esőben is kimegyünk a Helgasjön-tóhoz, kihasználva a jól karbantartatott utakat. A Kronoberg várrom után a Teleborg-kastély következik, majd a katedrálisnál fejezzük be a kört, mielőtt teljesen eláznánk.",
             "ro": "O zi de bicicletă pe ploaie în Växjö necesită echipament impermeabil. De la Stortorget pedalăm rapid spre zona muzeelor. La prânz, în ciuda burniței, explorăm malul lacului Helgasjön pe piste asfaltate. După ruinele castelului Kronoberg, revenim spre castelul Teleborg, admirând peisajul dramatic. Încheiem turul la catedrală, pregătiți pentru o pauză caldă.",
-            "en": "A rainy cycling day in Växjö demands quality waterproofs. From the main square, we head straight to the Museum Park. Midday sees us pedaling along Lake Helgasjön, where the wet paths remain manageable. After visiting Kronoberg ruins, we cycle to Teleborg Castle, seeing the landscape in deep, rain-soaked colors. We finish the loop at the Cathedral, ready for a warm indoor fika."
+            "en": "A rainy cycling day in Växjö demands quality waterproofs. From the main square, we head straight to the Museum Park. Midday sees us pedaling along Lake Helgasjön, where the wet paths remain manageable. After visiting Kronoberg ruins, we cycle to Teleborg Castle, seeing the landscape in deep, rain-soaked colors. We finish the loop at the Cathedral, ready for a warm indoor fika.",
+            "sv": "En regnig cykeldag i Växjö kräver kvalitetsregnkläder. Från Stortorget styr vi direkt mot Museiparken. Mitt på dagen trampar vi längs Helgasjön där de våta stigarna förblir hanterbara. Efter ett besök vid Kronobergs ruiner cyklar vi till Teleborgs slott och ser landskapet i djupa, regndränkta färger. Vi avslutar rundan vid domkyrkan, redo för en varm inomhusfika."
           },
           "stops": [
             {
@@ -766,7 +831,8 @@
                 "de": "Wischen Sie den Sattel vor der Abfahrt trocken.",
                 "hu": "Indulás előtt törölje szárazra a nyerget.",
                 "ro": "Ștergeți șaua înainte de a pleca la drum.",
-                "en": "Wipe your saddle dry before heading out."
+                "en": "Wipe your saddle dry before heading out.",
+                "sv": "Torka sadeln innan du ger dig av."
               }
             },
             {
@@ -775,7 +841,8 @@
                 "de": "Überdachte Fahrradständer direkt vor dem Museumseingang.",
                 "hu": "Fedett biciklitárolók közvetlenül a múzeum bejárata előtt.",
                 "ro": "Rasteluri de biciclete acoperite chiar la intrarea în muzeu.",
-                "en": "Covered bike racks available right in front of the museum."
+                "en": "Covered bike racks available right in front of the museum.",
+                "sv": "Täckta cykelställ finns precis framför museet."
               }
             },
             {
@@ -784,7 +851,8 @@
                 "de": "Vorsicht bei nassem Laub auf den Uferwegen.",
                 "hu": "Vigyázzon a vizes levelekre a tóparti utakon.",
                 "ro": "Atenție la frunzele ude de pe pistele de pe mal.",
-                "en": "Be careful with wet leaves on the lakeside paths."
+                "en": "Be careful with wet leaves on the lakeside paths.",
+                "sv": "Var försiktig med blöta löv på strandstigarna."
               }
             },
             {
@@ -793,7 +861,8 @@
                 "de": "Die Steine können bei Regen sehr rutschig sein.",
                 "hu": "A kövek esőben nagyon csúszósak lehetnek.",
                 "ro": "Pietrele pot fi foarte alunecoase pe ploaie.",
-                "en": "The stones can be very slippery when wet."
+                "en": "The stones can be very slippery when wet.",
+                "sv": "Stenarna kan vara mycket hala när de är våta."
               }
             },
             {
@@ -802,7 +871,8 @@
                 "de": "Suchen Sie Schutz unter dem Torbogen des Schlosses.",
                 "hu": "Keressen menedéket a kastély boltíves kapuja alatt.",
                 "ro": "Căutați adăpost sub bolta de la intrarea castelului.",
-                "en": "Seek shelter under the castle's arched gateway."
+                "en": "Seek shelter under the castle's arched gateway.",
+                "sv": "Sök skydd under slottets bågformiga portgång."
               }
             },
             {
@@ -811,7 +881,8 @@
                 "de": "Nutzen Sie den breiten Weg im Park für mehr Sicherheit.",
                 "hu": "Használja a park szélesebb útjait a biztonságért.",
                 "ro": "Folosiți aleile late din parc pentru siguranță.",
-                "en": "Use the wider park paths for better safety."
+                "en": "Use the wider park paths for better safety.",
+                "sv": "Använd de bredare parkstigarna för bättre säkerhet."
               }
             }
           ],
@@ -843,6 +914,13 @@
               "Avoid braking hard on painted road markings when wet.",
               "A cycling-specific poncho will help keep your legs dry.",
               "Keep your lights on even during the day in heavy rain."
+            ],
+            "sv": [
+              "Kontrollera bromsarna; stoppsträckan ökar på våta vägar.",
+              "Växjös cykelvägar dränerar väl, men skärmar rekommenderas.",
+              "Undvik hård inbromsning på markerade vägsträckor när det är vått.",
+              "En cykelspecifik poncho hjälper till att hålla benen torra.",
+              "Ha lamporna på även under dagen vid kraftigt regn."
             ]
           }
         },
@@ -851,7 +929,8 @@
             "de": "Radfahren im Winter-Växjö ist ein Abenteuer auf eisigen Pfaden. Wir starten am Stortorget und radeln vorsichtig zum Museumsquartier. Die Fahrt zum Lake Helgasjön bietet glitzernde Frostlandschaften, erfordert aber volle Konzentration. Mittags erreichen wir die Ruinen von Kronoberg, die im Schnee fast mystisch wirken. Der Rückweg führt uns zum beleuchteten Teleborg-Schloss, bevor wir den Tag an der warmen Kathedrale beenden.",
             "hu": "A téli kerékpározás Växjőben igazi kaland a jeges utakon. A főtérről indulva óvatosan tekerünk a múzeumi negyedbe. A Helgasjön-tó felé tartó út fagyos, csillogó tájat kínál, de teljes koncentrációt igényel. Délben a Kronoberg várrom hóval fedett falai között járunk. A visszaút a Teleborg-kastély esti fényei mellett vezet, majd a székesegyháznál fejezzük be a fagyos túrát.",
             "ro": "Bicicletul iarna în Växjö este o aventură pe poteci înghețate. Pornim de la Stortorget spre cartierul muzeelor cu mare atenție. Drumul spre lacul Helgasjön oferă peisaje înghețate superbe. La prânz explorăm ruinele Kronoberg acoperite de zăpadă. Revenim pe lângă castelul Teleborg iluminat, încheind ziua la catedrală, unde ne putem încălzi după efort.",
-            "en": "Winter cycling in Växjö is an adventure across icy landscapes. We start at the main square and pedal carefully to the Museum Park. The ride to Lake Helgasjön offers stunning frozen views but requires steady handling. Midday is spent at the snow-covered Kronoberg ruins. We return via the glowing Teleborg Castle, finishing our frosty tour at the welcoming Cathedral in the city center."
+            "en": "Winter cycling in Växjö is an adventure across icy landscapes. We start at the main square and pedal carefully to the Museum Park. The ride to Lake Helgasjön offers stunning frozen views but requires steady handling. Midday is spent at the snow-covered Kronoberg ruins. We return via the glowing Teleborg Castle, finishing our frosty tour at the welcoming Cathedral in the city center.",
+            "sv": "Vinterscykling i Växjö är ett äventyr över isig terräng. Vi börjar på Stortorget och trampar försiktigt till Museiparken. Färden till Helgasjön bjuder på storslagna frusna vyer men kräver stadigt handlag. Mitt på dagen tillbringar vi vid de snötäckta Kronobergsruinerna. Vi återvänder via det upplysta Teleborgs slott och avslutar vår frostiga tur vid den välkomnande domkyrkan i stadens centrum."
           },
           "stops": [
             {
@@ -860,7 +939,8 @@
                 "de": "Vorsicht vor gefrorenem Tau auf dem Pflaster.",
                 "hu": "Vigyázzon a megfagyott pára miatti csúszós kövekre.",
                 "ro": "Atenție la bruma înghețată de pe pavaj.",
-                "en": "Beware of frozen dew on the cobblestones."
+                "en": "Beware of frozen dew on the cobblestones.",
+                "sv": "Se upp för frusen dagg på kullerstenen."
               }
             },
             {
@@ -869,7 +949,8 @@
                 "de": "Nutzen Sie den Besuch, um die Hände aufzuwärmen.",
                 "hu": "Használja ki a látogatást a kezei felmelegítésére.",
                 "ro": "Profită de vizită pentru a-ți încălzi mâinile.",
-                "en": "Use the visit as a chance to warm up your hands."
+                "en": "Use the visit as a chance to warm up your hands.",
+                "sv": "Använd besöket som en chans att värma händerna."
               }
             },
             {
@@ -878,7 +959,8 @@
                 "de": "Halten Sie Abstand zum Ufer bei vereisten Wegen.",
                 "hu": "Tartson távolságot a parttól a jeges utakon.",
                 "ro": "Păstrați distanța față de mal pe drumurile înghețate.",
-                "en": "Keep a safe distance from the shore on icy paths."
+                "en": "Keep a safe distance from the shore on icy paths.",
+                "sv": "Håll säkert avstånd från strandkanten på isiga stigar."
               }
             },
             {
@@ -887,7 +969,8 @@
                 "de": "Festes Schuhwerk ist für die Besichtigung im Schnee nötig.",
                 "hu": "Havas időben stabil bakancs kell a várrom bejárásához.",
                 "ro": "Încălțăminte stabilă necesară pentru vizitarea ruinelor.",
-                "en": "Sturdy boots are needed for exploring the ruins in snow."
+                "en": "Sturdy boots are needed for exploring the ruins in snow.",
+                "sv": "Rejäla kängor behövs för att utforska ruinerna i snö."
               }
             },
             {
@@ -896,7 +979,8 @@
                 "de": "Beleuchtung am Rad ist ab 15:00 Uhr zwingend erforderlich.",
                 "hu": "Délután 3 órától a lámpa használata kötelező.",
                 "ro": "Luminile sunt obligatorii după ora 15:00.",
-                "en": "Bike lights are mandatory starting from 3:00 PM."
+                "en": "Bike lights are mandatory starting from 3:00 PM.",
+                "sv": "Cykellyktor är obligatoriska från klockan 15:00."
               }
             },
             {
@@ -905,7 +989,8 @@
                 "de": "Der Parkweg wird meist geräumt, kann aber glatt sein.",
                 "hu": "A parki utakat takarítják, de néhol csúszós maradhat.",
                 "ro": "Aleile parcului sunt curățate, dar pot rămâne alunecoase.",
-                "en": "Park paths are usually cleared but can remain slippery."
+                "en": "Park paths are usually cleared but can remain slippery.",
+                "sv": "Parkgångar är ofta plogade men kan fortfarande vara hala."
               }
             }
           ],
@@ -937,6 +1022,13 @@
               "Your bike chain needs extra oiling due to winter road salt.",
               "Allow significantly more travel time than during summer.",
               "A thermos with hot lingonberry juice is a great local tip."
+            ],
+            "sv": [
+              "Överväg att använda dubbdäck för bättre grepp på is.",
+              "Bär tjocka handskar; vindkylningen vid cykling är intensiv.",
+              "Cykelkedjan behöver extra smörjning på grund av vintervägsalt.",
+              "Räkna med avsevärt mer restid än under sommaren.",
+              "En termos med varm lingondricka är ett bra lokalt tips."
             ]
           }
         }
@@ -955,7 +1047,8 @@
             "de": "Cluster 1: Stadtzentrum",
             "hu": "1. klaszter: Városközpont",
             "ro": "Cluster 1: Centrul orașului",
-            "en": "Cluster 1: City Center"
+            "en": "Cluster 1: City Center",
+            "sv": "Klass 1: Centrum"
           },
           "coords": [
             14.8085,
@@ -971,7 +1064,8 @@
             "de": "Parken Sie im Zentrum (z.B. Parkhaus) und erkunden Sie den ersten Cluster zu Fuß.",
             "hu": "Parkoljon a központban (pl. parkolóházban), és fedezze fel az első klasztert gyalog.",
             "ro": "Parcați în centru (de ex. parcare supraetajată) și explorați primul cluster pe jos.",
-            "en": "Park in the center (e.g., a parking garage) and explore the first cluster on foot."
+            "en": "Park in the center (e.g., a parking garage) and explore the first cluster on foot.",
+            "sv": "Parkera i centrum (t.ex. i ett parkeringshus) och utforska den första klustern till fots."
           }
         },
         {
@@ -979,7 +1073,8 @@
             "de": "Växjö Domkirche",
             "hu": "Växjöi székesegyház",
             "ro": "Catedrala din Växjö",
-            "en": "Växjö Cathedral"
+            "en": "Växjö Cathedral",
+            "sv": "Växjö domkyrka"
           },
           "coords": [
             14.8055,
@@ -995,7 +1090,8 @@
             "de": "Ein kurzer Spaziergang vom Stortorget. Die markanten Türme weisen Ihnen den Weg.",
             "hu": "Rövid séta a Stortorget-ről. A jellegzetes tornyok mutatják az utat.",
             "ro": "O scurtă plimbare de la Stortorget. Turnurile distinctive vă vor ghida.",
-            "en": "A short walk from Stortorget. The distinctive towers will guide you."
+            "en": "A short walk from Stortorget. The distinctive towers will guide you.",
+            "sv": "En kort promenad från Stortorget. De utmärkande tornen visar vägen."
           }
         },
         {
@@ -1003,7 +1099,8 @@
             "de": "Småland Museum & Schwedisches Glasmuseum",
             "hu": "Småland Múzeum és Svéd Üvegmúzeum",
             "ro": "Muzeul Småland și Muzeul Sticlei din Suedia",
-            "en": "Småland Museum & Swedish Glass Museum"
+            "en": "Småland Museum & Swedish Glass Museum",
+            "sv": "Smålands museum & Svenskt glasmuseum"
           },
           "coords": [
             14.8122,
@@ -1019,7 +1116,8 @@
             "de": "Das Kulturzentrum ist nur einen kurzen Spaziergang entfernt.",
             "hu": "A kulturális központ csak egy rövid sétára található.",
             "ro": "Centrul cultural este la doar o scurtă plimbare.",
-            "en": "The cultural center is just a short walk away."
+            "en": "The cultural center is just a short walk away.",
+            "sv": "Kulturcentret ligger bara en kort promenad bort."
           }
         },
         {
@@ -1027,7 +1125,8 @@
             "de": "Cluster 2: Schlossruine Kronoberg",
             "hu": "2. klaszter: Kronoberg várrom",
             "ro": "Cluster 2: Ruinele Castelului Kronoberg",
-            "en": "Cluster 2: Kronoberg Castle Ruins"
+            "en": "Cluster 2: Kronoberg Castle Ruins",
+            "sv": "Klass 2: Kronobergs slottsruin"
           },
           "coords": [
             14.7745,
@@ -1043,7 +1142,8 @@
             "de": "Fahren Sie nach Norden zum Helgasjön-See. Es gibt Parkplätze in der Nähe der Ruine.",
             "hu": "Vezessen észak felé a Helgasjön-tóhoz. A rom közelében van parkoló.",
             "ro": "Conduceți spre nord, spre lacul Helgasjön. Există parcare lângă ruine.",
-            "en": "Drive north to Lake Helgasjön. There's parking near the ruins."
+            "en": "Drive north to Lake Helgasjön. There's parking near the ruins.",
+            "sv": "Kör norrut till Helgasjön. Det finns parkering nära ruinerna."
           }
         },
         {
@@ -1051,7 +1151,8 @@
             "de": "Spaziergang am See Helgasjön",
             "hu": "Séta a Helgasjön-tó partján",
             "ro": "Plimbare pe malul lacului Helgasjön",
-            "en": "Walk by Lake Helgasjön"
+            "en": "Walk by Lake Helgasjön",
+            "sv": "Promenad vid Helgasjön"
           },
           "coords": [
             14.778,
@@ -1067,7 +1168,8 @@
             "de": "Nach dem Besuch der Ruine können Sie am Ufer spazieren gehen und die Aussicht genießen.",
             "hu": "A rom megtekintése után sétáljon a parton és élvezze a kilátást.",
             "ro": "După vizitarea ruinelor, faceți o plimbare pe mal pentru a vă bucura de priveliște.",
-            "en": "After visiting the ruins, take a walk along the shore to enjoy the view."
+            "en": "After visiting the ruins, take a walk along the shore to enjoy the view.",
+            "sv": "Efter besöket vid ruinerna, ta en promenad längs stranden för att njuta av utsikten."
           }
         },
         {
@@ -1075,7 +1177,8 @@
             "de": "Cluster 3: Schloss Teleborg",
             "hu": "3. klaszter: Teleborg kastély",
             "ro": "Cluster 3: Castelul Teleborg",
-            "en": "Cluster 3: Teleborg Castle"
+            "en": "Cluster 3: Teleborg Castle",
+            "sv": "Klass 3: Teleborgs slott"
           },
           "coords": [
             14.8021,
@@ -1091,7 +1194,8 @@
             "de": "Die letzte Fahrt des Tages führt Sie in den Süden zum Märchenschloss.",
             "hu": "A nap utolsó autózása délre, a mesebeli kastélyhoz vezet.",
             "ro": "Ultima călătorie a zilei vă duce spre sud, la castelul de basm.",
-            "en": "The last drive of the day takes you south to the fairytale castle."
+            "en": "The last drive of the day takes you south to the fairytale castle.",
+            "sv": "Dagens sista bilfärd tar dig söderut till sagoslottet."
           }
         }
       ],
@@ -1099,7 +1203,8 @@
         "de": "Mit dem Auto erkunden Sie Växjö in Clustern. Parken Sie im Zentrum, um den Dom, den Hauptplatz und die Museen zu Fuß zu entdecken. Am Mittag fahren Sie nach Norden zur beeindruckenden Schlossruine Kronoberg am Helgasjön-See. Der Nachmittag gehört dem Süden: Eine Fahrt zum romantischen Schloss Teleborg bietet den perfekten Abschluss für einen Tag voller Kontraste zwischen Stadtkultur und Naturerlebnis.",
         "hu": "Autóval klaszterekben fedezheti fel Växjöt. Parkoljon le a központban, hogy gyalog fedezze fel a dómot, a főteret és a múzeumokat. Délben hajtson északra a lenyűgöző Kronoberg várromhoz a Helgasjön-tónál. A délután a déli részé: egy utazás a romantikus Teleborg kastélyhoz tökéletes lezárása egy, a városi kultúra és a természeti élmények kontrasztjával teli napnak.",
         "ro": "Cu mașina, explorați Växjö în clustere. Parcați în centru pentru a descoperi pe jos catedrala, piața principală și muzeele. La prânz, conduceți spre nord la impresionantele ruine ale castelului Kronoberg de pe malul lacului Helgasjön. După-amiaza este dedicată sudului: o călătorie la romanticul castel Teleborg oferă încheierea perfectă pentru o zi plină de contraste între cultura urbană și experiența naturii.",
-        "en": "Explore Växjö in clusters by car. Park in the center to discover the cathedral, the main square, and the museums on foot. At noon, drive north to the impressive Kronoberg Castle ruins on Lake Helgasjön. The afternoon belongs to the south: a trip to the romantic Teleborg Castle provides the perfect end to a day full of contrasts between urban culture and natural beauty."
+        "en": "Explore Växjö in clusters by car. Park in the center to discover the cathedral, the main square, and the museums on foot. At noon, drive north to the impressive Kronoberg Castle ruins on Lake Helgasjön. The afternoon belongs to the south: a trip to the romantic Teleborg Castle provides the perfect end to a day full of contrasts between urban culture and natural beauty.",
+        "sv": "Utforska Växjö i kluster med bil. Parkera i centrum för att upptäcka domkyrkan, Stortorget och museerna till fots. Mitt på dagen kör du norrut till de imponerande Kronobergs slottsruinerna vid Helgasjön. Eftermiddagen tillhör söderut: en tur till det romantiska Teleborgs slott ger den perfekta avslutningen på en dag full av kontraster mellan stadskultur och naturens skönhet."
       },
       "gastro_picks": {
         "de": [
@@ -1195,6 +1300,9 @@
         ],
         "en": [
           "Parking fees can be high in the city center. Pay attention to the signs. Plan for extra time for traffic, especially in the afternoon."
+        ],
+        "sv": [
+          "Parkeringsavgifter kan vara höga i centrum. Var uppmärksam på skyltarna. Planera för extra tid i trafiken, särskilt på eftermiddagen."
         ]
       },
       "variants": {
@@ -1203,7 +1311,8 @@
             "de": "Ein Regentag in Växjö lässt sich im Auto entspannt genießen. Wir starten am City Center und parken direkt bei der Kathedrale. Mittags fahren wir zum Småland-Museum, wo das Auto im Trockenen bleibt, während wir Glas-Kunst bestaunen. Die Fahrt zu den Ruinen von Kronoberg bietet weite Blicke auf den regnerischen Lake Helgasjön. Der Tag endet standesgemäß mit der Fahrt zum majestätischen Schloss Teleborg.",
             "hu": "Az esős nap Växjőben autóval a legkényelmesebb. A központból indulunk, és közvetlenül a katedrálisnál parkolunk le. Délben a múzeumi negyedbe hajtunk, ahol fedett parkolót találunk. Az út a Kronoberg várromhoz látványos kilátást nyújt a szürke Helgasjön-tóra. A napot a Teleborg-kastélynál zárjuk, élvezve az autó fűtését a megállók között.",
             "ro": "O zi ploioasă în Växjö este mult mai relaxantă cu mașina. Pornim din centru și parcăm lângă catedrală. La prânz mergem la muzeul Småland, beneficiind de parcări apropiate. Drumul spre ruinele Kronoberg oferă vederi panoramice asupra lacului Helgasjön. Încheiem turul la castelul Teleborg, feriți de vântul umed de afară.",
-            "en": "Rainy weather in Växjö is easily handled by car. We start at the city center and find parking near the Cathedral. Midday is spent at the Museum Park, with convenient parking allowing us to stay dry between stops. The drive to Kronoberg ruins offers expansive views of Lake Helgasjön through the mist. We conclude our tour at Teleborg Castle, staying warm and comfortable throughout the trip."
+            "en": "Rainy weather in Växjö is easily handled by car. We start at the city center and find parking near the Cathedral. Midday is spent at the Museum Park, with convenient parking allowing us to stay dry between stops. The drive to Kronoberg ruins offers expansive views of Lake Helgasjön through the mist. We conclude our tour at Teleborg Castle, staying warm and comfortable throughout the trip.",
+            "sv": "Regnigt väder i Växjö hanteras lätt med bil. Vi börjar i centrum och hittar parkering nära domkyrkan. Mitt på dagen tillbringar vi i Museiparken, med bekväm parkering som låter oss hålla oss torra mellan stoppen. Färden till Kronobergsruinerna bjuder på vida vyer över Helgasjön genom dimman. Vi avslutar vår rundtur vid Teleborgs slott, varma och bekväma under hela resan."
           },
           "stops": [
             {
@@ -1212,7 +1321,8 @@
                 "de": "Nutzen Sie das Parkhaus am Bahnhof für trockenen Zugang.",
                 "hu": "Használja az állomás melletti parkolóházat a száraz kijutáshoz.",
                 "ro": "Folosiți parcarea acoperită de la gară pentru acces uscat.",
-                "en": "Use the multi-story car park by the station for dry access."
+                "en": "Use the multi-story car park by the station for dry access.",
+                "sv": "Använd parkeringshuset vid stationen för torrt tillträde."
               }
             },
             {
@@ -1221,7 +1331,8 @@
                 "de": "Parkplätze befinden sich direkt südlich der Kirche.",
                 "hu": "Parkolóhelyek közvetlenül a templomtól délre találhatók.",
                 "ro": "Locuri de parcare disponibile direct la sud de biserică.",
-                "en": "Parking spaces are available directly south of the church."
+                "en": "Parking spaces are available directly south of the church.",
+                "sv": "Parkeringsplatser finns direkt söder om kyrkan."
               }
             },
             {
@@ -1230,7 +1341,8 @@
                 "de": "Großer Parkplatz vorhanden, ideal bei starkem Regen.",
                 "hu": "Nagy parkoló áll rendelkezésre, ideális szakadó esőben.",
                 "ro": "Parcare mare disponibilă, ideală în caz de ploaie torențială.",
-                "en": "Large car park available, ideal for heavy rain."
+                "en": "Large car park available, ideal for heavy rain.",
+                "sv": "Större parkeringsplats tillgänglig, idealisk vid kraftigt regn."
               }
             },
             {
@@ -1239,7 +1351,8 @@
                 "de": "Fahren Sie vorsichtig auf der ufernahen Zufahrtsstraße.",
                 "hu": "Vezessen óvatosan a tóparti bekötőúton.",
                 "ro": "Conduceți cu atenție pe drumul de acces de lângă lac.",
-                "en": "Drive carefully on the access road near the lake shore."
+                "en": "Drive carefully on the access road near the lake shore.",
+                "sv": "Kör försiktigt på infarten nära sjökanten."
               }
             },
             {
@@ -1248,7 +1361,8 @@
                 "de": "Genießen Sie den Blick bei Regen direkt aus dem Auto.",
                 "hu": "Élvezze a kilátást esőben közvetlenül az autóból.",
                 "ro": "Bucurați-vă de priveliște direct din mașină dacă plouă.",
-                "en": "Enjoy the view directly from the car if it's pouring."
+                "en": "Enjoy the view directly from the car if it's pouring.",
+                "sv": "Njut av utsikten direkt från bilen om det ösregnar."
               }
             },
             {
@@ -1257,7 +1371,8 @@
                 "de": "Kostenlose Parkplätze direkt am Schlossparkgelände.",
                 "hu": "Ingyenes parkolás közvetlenül a kastélypark területén.",
                 "ro": "Parcare gratuită disponibilă direct la castel.",
-                "en": "Free parking available directly at the castle grounds."
+                "en": "Free parking available directly at the castle grounds.",
+                "sv": "Gratis parkering finns direkt vid slottsområdet."
               }
             }
           ],
@@ -1289,6 +1404,13 @@
               "Be cautious of deep puddles near the lake due to aquaplaning.",
               "The drive to Teleborg Castle is very scenic even in the rain.",
               "On weekends, many central parking areas offer cheaper rates."
+            ],
+            "sv": [
+              "Parkera i Växjö enklast via appar som EasyPark.",
+              "Håll strålkastarna på och rutorna klara för bättre sikt.",
+              "Var försiktig med djupa vattenpölar nära sjön på grund av vattenplaning.",
+              "Färden till Teleborgs slott är mycket naturskön även i regn.",
+              "På helgerna erbjuder många centrala parkeringsplatser billigare priser."
             ]
           }
         },
@@ -1297,7 +1419,8 @@
             "de": "Ein Wintertag im Auto bietet Wärme zwischen den eisigen Sehenswürdigkeiten Växjös. Wir starten im Zentrum und fahren zur frostigen Kathedrale. Mittags geht es zum Glasmuseum, wo wir die skandinavische Kunst im Warmen genießen. Die Fahrt zu den verschneiten Ruinen von Kronoberg erfordert Winterreifen, bietet aber traumhafte Fotomotive am zugefrorenen See. Den krönenden Abschluss bildet das Schloss Teleborg in seiner winterlichen Pracht.",
             "hu": "A téli nap autóval kényelmes meleget biztosít a jeges látnivalók között. A központból indulva a deres katedrálist nézzük meg. Délben az üvegmúzeumban csodáljuk a svéd művészetet, távol a fagytól. A havas Kronoberg várromhoz vezető út téli gumit igényel, de a befagyott tó látványa kárpótol minket. A túrát a Teleborg-kastély esti fényeiben fejezzük be.",
             "ro": "O zi de iarnă cu mașina oferă confort între atracțiile înghețate ale orașului. Pornim din centru spre catedrala acoperită de chiciură. La prânz mergem la muzeul de sticlă pentru a admira arta la căldură. Drumul spre ruinele Kronoberg necesită anvelope de iarnă, dar oferă peisaje superbe cu lacul înghețat. Încheiem la castelul Teleborg, strălucind în noaptea suedeză.",
-            "en": "A winter's day by car provides cozy warmth between Växjö's frosty sights. We start in the center and drive to the icy Cathedral. Midday is perfect for the Glass Museum, enjoying Scandinavian art away from the chill. The drive to snow-covered Kronoberg ruins requires winter tires but rewards you with magical views of the frozen Helgasjön. We finish at Teleborg Castle, glowing in its winter splendor."
+            "en": "A winter's day by car provides cozy warmth between Växjö's frosty sights. We start in the center and drive to the icy Cathedral. Midday is perfect for the Glass Museum, enjoying Scandinavian art away from the chill. The drive to snow-covered Kronoberg ruins requires winter tires but rewards you with magical views of the frozen Helgasjön. We finish at Teleborg Castle, glowing in its winter splendor.",
+            "sv": "En vinterdag med bil ger mysig värme mellan Växjös frostiga sevärdheter. Vi börjar i centrum och kör till den isiga domkyrkan. Mitt på dagen är perfekt för Glasmuseet, där man kan njuta av skandinavisk konst bort från kylan. Färden till snötäckta Kronobergsruiner kräver vinterdäck men belönar med magiska vyer över frusna Helgasjön. Vi avslutar vid Teleborgs slott, lysande i sin vintriga prakt."
           },
           "stops": [
             {
@@ -1306,7 +1429,8 @@
                 "de": "Prüfen Sie, ob Ihr Parkplatz schneefrei geräumt ist.",
                 "hu": "Ellenőrizze, hogy a parkolóhelyet letakarították-e a hótól.",
                 "ro": "Verificați dacă locul de parcare este curățat de zăpadă.",
-                "en": "Check if your parking spot has been cleared of snow."
+                "en": "Check if your parking spot has been cleared of snow.",
+                "sv": "Kontrollera om din parkeringsplats har blivit snöröjd."
               }
             },
             {
@@ -1315,7 +1439,8 @@
                 "de": "Die Zufahrt zur Kirche wird im Winter gut gestreut.",
                 "hu": "A templomhoz vezető utat télen jól felszórják.",
                 "ro": "Accesul la biserică este bine întreținut în timpul iernii.",
-                "en": "The access road to the church is well-salted in winter."
+                "en": "The access road to the church is well-salted in winter.",
+                "sv": "Infarten till kyrkan är väl saltad på vintern."
               }
             },
             {
@@ -1324,7 +1449,8 @@
                 "de": "Nutzen Sie den Motorvorwärmer, falls vorhanden.",
                 "hu": "Használja a motor-előmelegítőt, ha van az autóban.",
                 "ro": "Folosiți preîncălzitorul motorului dacă mașina are unul.",
-                "en": "Use the engine block heater if your car is equipped with one."
+                "en": "Use the engine block heater if your car is equipped with one.",
+                "sv": "Använd motorvärmaren om din bil är utrustad med en sådan."
               }
             },
             {
@@ -1333,7 +1459,8 @@
                 "de": "Die kleine Brücke zu den Ruinen kann extrem glatt sein.",
                 "hu": "A várromhoz vezető kis híd rendkívül csúszós lehet.",
                 "ro": "Podul mic spre ruine poate fi extrem de alunecos.",
-                "en": "The small bridge to the ruins can be extremely slippery."
+                "en": "The small bridge to the ruins can be extremely slippery.",
+                "sv": "Den lilla bron till ruinerna kan vara extremt hal."
               }
             },
             {
@@ -1342,7 +1469,8 @@
                 "de": "Parken Sie nur auf festem Untergrund; Matschgefahr.",
                 "hu": "Csak szilárd talajon parkoljon, kerülje a sarat/havat.",
                 "ro": "Parcați doar pe teren solid; evitați noroiul sau omătul.",
-                "en": "Only park on solid ground; avoid soft mud or deep snow."
+                "en": "Only park on solid ground; avoid soft mud or deep snow.",
+                "sv": "Parkera endast på fast mark; undvik mjuk lera eller djup snö."
               }
             },
             {
@@ -1351,7 +1479,8 @@
                 "de": "Das beleuchtete Schloss ist vom Parkplatz aus gut sichtbar.",
                 "hu": "A kivilágított kastély már a parkolóból jól látható.",
                 "ro": "Castelul iluminat este vizibil chiar din parcare.",
-                "en": "The illuminated castle is clearly visible from the parking lot."
+                "en": "The illuminated castle is clearly visible from the parking lot.",
+                "sv": "Det upplysta slottet syns tydligt från parkeringsplatsen."
               }
             }
           ],
@@ -1383,6 +1512,13 @@
               "Watch out for wildlife (deer) crossing the roads at dusk.",
               "Road lighting in Växjö is excellent, but country roads are dark.",
               "Check the weather forecast for sudden snowstorms (snösmocka)."
+            ],
+            "sv": [
+              "Vinterdäck är obligatoriska i Sverige från den 1 december.",
+              "Ha alltid med isskrapa och snöborste i bilen.",
+              "Se upp för vilt (hjort) som korsar vägarna i skymningen.",
+              "Vägbelysningen i Växjö är utmärkt, men landsvägar är mörka.",
+              "Kontrollera väderprognosen för plötsliga snösmockor."
             ]
           }
         }
@@ -1401,7 +1537,8 @@
             "de": "Cluster 1: Stadtzentrum (Stortorget)",
             "hu": "1. klaszter: Városközpont (Stortorget)",
             "ro": "Cluster 1: Centrul orașului (Stortorget)",
-            "en": "Cluster 1: City Center (Stortorget)"
+            "en": "Cluster 1: City Center (Stortorget)",
+            "sv": "Klast 1: Centrum (Stortorget)"
           },
           "coords": [
             14.8085,
@@ -1417,7 +1554,8 @@
             "de": "Beginnen Sie am Hauptbusbahnhof, der nur wenige Gehminuten vom Stortorget entfernt ist.",
             "hu": "Kezdje a központi buszpályaudvarnál, amely csak néhány perc sétára van a Stortorget-től.",
             "ro": "Începeți de la autogara principală, la doar câteva minute de mers pe jos de Stortorget.",
-            "en": "Start at the main bus terminal, just a short walk from Stortorget."
+            "en": "Start at the main bus terminal, just a short walk from Stortorget.",
+            "sv": "Börja vid huvudbussterminalen, bara en kort promenad från Stortorget."
           }
         },
         {
@@ -1425,7 +1563,8 @@
             "de": "Växjö Domkirche & Linnéparken",
             "hu": "Växjöi székesegyház és Linné Park",
             "ro": "Catedrala din Växjö și Parcul Linné",
-            "en": "Växjö Cathedral & Linné Park"
+            "en": "Växjö Cathedral & Linné Park",
+            "sv": "Växjö domkyrka & Linnéparken"
           },
           "coords": [
             14.8055,
@@ -1441,7 +1580,8 @@
             "de": "Diese beiden Attraktionen liegen direkt nebeneinander und sind leicht zu Fuß erreichbar.",
             "hu": "Ez a két látnivaló közvetlenül egymás mellett található, és könnyen megközelíthető gyalog.",
             "ro": "Aceste două atracții sunt chiar una lângă alta și ușor de explorat pe jos.",
-            "en": "These two attractions are right next to each other and easy to explore on foot."
+            "en": "These two attractions are right next to each other and easy to explore on foot.",
+            "sv": "Dessa två sevärdheter ligger intill varandra och är lätta att utforska till fots."
           }
         },
         {
@@ -1449,7 +1589,8 @@
             "de": "Museumsviertel (Småland, Auswanderer)",
             "hu": "Múzeumi negyed (Småland, Kivándorlók)",
             "ro": "Cartierul Muzeelor (Småland, Emigranți)",
-            "en": "Museum Quarter (Småland, Emigrants)"
+            "en": "Museum Quarter (Småland, Emigrants)",
+            "sv": "Museikvarteret (Småland, Emigrantmuseet)"
           },
           "coords": [
             14.8122,
@@ -1465,7 +1606,8 @@
             "de": "Ein Spaziergang durch den Park führt Sie direkt zu den Museen.",
             "hu": "Egy séta a parkon keresztül egyenesen a múzeumokhoz vezet.",
             "ro": "O plimbare prin parc vă va duce direct la muzee.",
-            "en": "A walk through the park will lead you straight to the museums."
+            "en": "A walk through the park will lead you straight to the museums.",
+            "sv": "En promenad genom parken leder dig rakt till museerna."
           }
         },
         {
@@ -1473,7 +1615,8 @@
             "de": "Cluster 2: Schloss Teleborg",
             "hu": "2. klaszter: Teleborg kastély",
             "ro": "Cluster 2: Castelul Teleborg",
-            "en": "Cluster 2: Teleborg Castle"
+            "en": "Cluster 2: Teleborg Castle",
+            "sv": "Klast 2: Teleborgs slott"
           },
           "coords": [
             14.8021,
@@ -1489,7 +1632,8 @@
             "de": "Nehmen Sie einen Bus nach Süden zum Campus der Linné-Universität, das Schloss ist in der Nähe.",
             "hu": "Menjen busszal délre a Linné Egyetem kampuszához, a kastély a közelben van.",
             "ro": "Luați un autobuz spre sud, spre campusul Universității Linné, castelul este în apropiere.",
-            "en": "Take a bus south towards the Linnaeus University campus; the castle is nearby."
+            "en": "Take a bus south towards the Linnaeus University campus; the castle is nearby.",
+            "sv": "Ta en buss söderut mot Linnéuniversitetets campus; slottet ligger i närheten."
           }
         },
         {
@@ -1497,7 +1641,8 @@
             "de": "Biskopshagen Naturreservat",
             "hu": "Biskopshagen Természetvédelmi Terület",
             "ro": "Rezervația Naturală Biskopshagen",
-            "en": "Biskopshagen Nature Reserve"
+            "en": "Biskopshagen Nature Reserve",
+            "sv": "Biskopshagens naturreservat"
           },
           "coords": [
             14.81,
@@ -1513,7 +1658,8 @@
             "de": "Ein kurzer Spaziergang vom Schloss führt Sie in dieses ruhige Naturschutzgebiet.",
             "hu": "Rövid séta a kastélytól ebbe a csendes természetvédelmi területbe vezet.",
             "ro": "O scurtă plimbare de la castel vă duce în această rezervație naturală liniștită.",
-            "en": "A short walk from the castle takes you into this quiet nature reserve."
+            "en": "A short walk from the castle takes you into this quiet nature reserve.",
+            "sv": "En kort promenad från slottet tar dig in i detta tysta naturreservat."
           }
         },
         {
@@ -1521,7 +1667,8 @@
             "de": "Cluster 3: See Helgasjön & Evedal",
             "hu": "3. klaszter: Helgasjön-tó és Evedal",
             "ro": "Cluster 3: Lacul Helgasjön și Evedal",
-            "en": "Cluster 3: Lake Helgasjön & Evedal"
+            "en": "Cluster 3: Lake Helgasjön & Evedal",
+            "sv": "Klast 3: Helgasjön & Evedal"
           },
           "coords": [
             14.8455,
@@ -1537,7 +1684,8 @@
             "de": "Nehmen Sie einen Bus nach Norden zum beliebten Bade- und Erholungsgebiet Evedal.",
             "hu": "Menjen busszal északra a népszerű Evedal fürdő- és rekreációs területre.",
             "ro": "Luați un autobuz spre nord spre populara zonă de înot și recreere Evedal.",
-            "en": "Take a bus north to the popular Evedal swimming and recreation area."
+            "en": "Take a bus north to the popular Evedal swimming and recreation area.",
+            "sv": "Ta en buss norrut till det populära bad- och fritidsområdet Evedal."
           }
         }
       ],
@@ -1545,7 +1693,8 @@
         "de": "Mit den öffentlichen Verkehrsmitteln erkunden Sie Växjö bequem in Zonen. Beginnen Sie im Zentrum mit dem Dom und den Museen, alles zu Fuß erreichbar. Ein Bus bringt Sie am frühen Nachmittag zum südlich gelegenen Schloss Teleborg und dem angrenzenden Naturreservat. Den späten Nachmittag verbringen Sie im Norden am Helgasjön-See im Erholungsgebiet Evedal, bevor Sie mit dem Bus ins Zentrum zurückkehren.",
         "hu": "Tömegközlekedéssel kényelmesen, zónákra bontva fedezheti fel Växjöt. Kezdje a központban a dómmal és a múzeumokkal, melyek mind gyalogosan elérhetők. Kora délután egy busz elviszi a délen fekvő Teleborg kastélyhoz és a szomszédos természetvédelmi területhez. A késő délutánt északon, a Helgasjön-tónál, az Evedal üdülőterületen tölti, mielőtt busszal visszatérne a központba.",
         "ro": "Cu transportul public, explorați convenabil Växjö pe zone. Începeți în centru cu catedrala și muzeele, toate accesibile pe jos. Un autobuz vă va duce la începutul după-amiezii la Castelul Teleborg din sud și la rezervația naturală adiacentă. Petreceți sfârșitul după-amiezii în nord, la lacul Helgasjön, în zona de recreere Evedal, înainte de a vă întoarce în centru cu autobuzul.",
-        "en": "Using public transport, you can conveniently explore Växjö in zones. Start in the center with the cathedral and museums, all within walking distance. A bus will take you in the early afternoon to Teleborg Castle in the south and the adjacent nature reserve. Spend the late afternoon in the north at Lake Helgasjön in the Evedal recreation area before returning to the center by bus."
+        "en": "Using public transport, you can conveniently explore Växjö in zones. Start in the center with the cathedral and museums, all within walking distance. A bus will take you in the early afternoon to Teleborg Castle in the south and the adjacent nature reserve. Spend the late afternoon in the north at Lake Helgasjön in the Evedal recreation area before returning to the center by bus.",
+        "sv": "Med kollektivtrafik kan du bekvämt utforska Växjö i zoner. Börja i centrum med domkyrkan och museerna, alla inom gångavstånd. En buss tar dig tidigt på eftermiddagen till Teleborgs slott i söder och det intilliggande naturreservatet. Tillbringa sen eftermiddag i norr vid Helgasjön i Evedals rekreationsområde innan du återvänder till centrum med buss."
       },
       "gastro_picks": {
         "de": [
@@ -1641,6 +1790,9 @@
         ],
         "en": [
           "Buy a day pass for the bus for unlimited travel. Download the timetable app to track your journeys in real-time."
+        ],
+        "sv": [
+          "Köp dagsbiljett för bussen för obegränsade resor. Ladda ner tidtabellsappen för att följa dina resor i realtid."
         ]
       },
       "variants": {
@@ -1649,7 +1801,8 @@
             "de": "Mit dem Bus durch das regnerische Växjö ist komfortabel. Wir starten am Stortorget und fahren kurz zur Kathedrale. Mittags bringt uns die Linie 1 zum Museumsviertel, wo wir den Regen ignorieren können. Nachmittags geht es weiter zum Schloss Teleborg, während wir aus dem warmen Bus das herbstliche Wetter beobachten. Ein Spaziergang im Biskopshagen-Reservat wird durch den Regen besonders atmosphärisch, bevor wir zum Evedal am See fahren.",
             "hu": "Busszal közlekedni az esős Växjőben kényelmes és praktikus. A főtérről indulva hamar elérjük a katedrálist. Délben az 1-es busz repít a múzeumi negyedbe, ahol védve vagyunk az esőtől. Délután a Teleborg-kastélyhoz utazunk, útközben a busz ablakából nézzük a tóparti tájat. A Biskopshagen rezervátum esőben is különleges, a napot pedig az Evedal tópartján zárjuk.",
             "ro": "Transportul public din Växjö este ideal pe timp de ploaie. Pornim de la Stortorget spre catedrală. La prânz, linia 1 ne duce la muzee, oferind un drum uscat. După-amiaza mergem spre castelul Teleborg, privind peisajul ploios de la geamul autobuzului. Rezervația Biskopshagen are un farmec aparte pe ploaie, iar turul se încheie la malul lacului, în zona Evedal.",
-            "en": "Navigating rainy Växjö by bus is both easy and efficient. We start at Stortorget and take a short ride to the Cathedral. Midday finds us in the Museum Quarter via line 1, perfectly sheltered from the rain. In the afternoon, we head to Teleborg Castle, watching the wet streets from the warm bus. A walk through Biskopshagen remains atmospheric despite the drizzle, finishing our day at Evedal by the lake."
+            "en": "Navigating rainy Växjö by bus is both easy and efficient. We start at Stortorget and take a short ride to the Cathedral. Midday finds us in the Museum Quarter via line 1, perfectly sheltered from the rain. In the afternoon, we head to Teleborg Castle, watching the wet streets from the warm bus. A walk through Biskopshagen remains atmospheric despite the drizzle, finishing our day at Evedal by the lake.",
+            "sv": "Att navigera ett regnigt Växjö med buss är både enkelt och effektivt. Vi börjar vid Stortorget och tar en kort tur till domkyrkan. Mitt på dagen hittar vi till Museikvarteret med linje 1, perfekt skyddade från regnet. På eftermiddagen åker vi till Teleborgs slott och ser de blöta gatorna från den varma bussen. En promenad genom Biskopshagen är stämningsfull trots duggregnet, och vi avslutar dagen vid Evedal vid sjön."
           },
           "stops": [
             {
@@ -1658,7 +1811,8 @@
                 "de": "Warten Sie im gläsernen Wartebereich der Busstation.",
                 "hu": "Várjon a buszpályaudvar üvegezett várótermében.",
                 "ro": "Așteptați în zona vitrată a stației de autobuz.",
-                "en": "Wait in the glass-walled waiting area at the bus station."
+                "en": "Wait in the glass-walled waiting area at the bus station.",
+                "sv": "Vänta i det glasade väntrummet på busstationen."
               }
             },
             {
@@ -1667,7 +1821,8 @@
                 "de": "Die nächste Bushaltestelle bietet Schutz vor Regen.",
                 "hu": "A legközelebbi buszmegálló fedett, véd az eső ellen.",
                 "ro": "Cea mai apropiată stație de autobuz este acoperită.",
-                "en": "The nearest bus stop is covered, providing shelter."
+                "en": "The nearest bus stop is covered, providing shelter.",
+                "sv": "Närmaste hållplats är under tak och ger skydd."
               }
             },
             {
@@ -1676,7 +1831,8 @@
                 "de": "In den Museen gibt es Schließfächer für nasse Schirme.",
                 "hu": "A múzeumokban vannak zárható szekrények az esernyőknek.",
                 "ro": "Muzeele au dulapuri pentru umbrelele ude.",
-                "en": "The museums have lockers for wet umbrellas."
+                "en": "The museums have lockers for wet umbrellas.",
+                "sv": "Museerna har skåp för blöta paraplyer."
               }
             },
             {
@@ -1685,7 +1841,8 @@
                 "de": "Vom Busstopp ist es nur ein kurzer Sprint zum Schloss.",
                 "hu": "A buszmegállótól csak egy rövid séta a kastély bejárata.",
                 "ro": "De la stația de autobuz este doar o scurtă plimbare la castel.",
-                "en": "It's just a short dash from the bus stop to the castle."
+                "en": "It's just a short dash from the bus stop to the castle.",
+                "sv": "Det är bara en kort löpning från hållplatsen till slottet."
               }
             },
             {
@@ -1694,7 +1851,8 @@
                 "de": "Die Wege im Reservat können bei Regen schlammig sein.",
                 "hu": "A rezervátum útjai esőben sárosak lehetnek.",
                 "ro": "Potecile din rezervație pot fi noroioase pe ploaie.",
-                "en": "The reserve paths can get muddy during rain."
+                "en": "The reserve paths can get muddy during rain.",
+                "sv": "Reservatets stigar kan bli leriga vid regn."
               }
             },
             {
@@ -1703,7 +1861,8 @@
                 "de": "Prüfen Sie die Rückfahrzeiten des letzten Busses.",
                 "hu": "Ellenőrizze az utolsó busz visszaindulási idejét.",
                 "ro": "Verificați ora de plecare a ultimului autobuz de întoarcere.",
-                "en": "Double-check the departure time of the last return bus."
+                "en": "Double-check the departure time of the last return bus.",
+                "sv": "Dubbelkolla avgångstiden för sista återvändande buss."
               }
             }
           ],
@@ -1735,6 +1894,13 @@
               "Line 1 is the main tourist route connecting the station and castle.",
               "Most central stops have real-time digital display boards.",
               "Check for 'Reseperiod' tickets for cheaper 24-hour travel."
+            ],
+            "sv": [
+              "Ladda ner 'Länstrafiken Kronoberg'-appen för realtidsscheman.",
+              "Bussar är kontantfria; betala via app eller kontaktlös kortbetalning.",
+              "Linje 1 är huvudturistrutten som förbinder stationen och slottet.",
+              "De flesta centrala hållplatser har realtidsdisplaytavlor.",
+              "Kolla efter 'Reseperiod'-biljetter för billigare 24-timmarsresor."
             ]
           }
         },
@@ -1743,7 +1909,8 @@
             "de": "Mit dem öffentlichen Nahverkehr erleben wir das winterliche Växjö ohne Stress. Wir starten am Stortorget und nehmen den Bus zur frostigen Kathedrale. Mittags wärmen wir uns im Museumsviertel auf, bevor uns die Linie 1 zum beleuchteten Schloss Teleborg bringt. Die winterliche Natur im Biskopshagen-Reservat ist per Bus gut erreichbar. Zum Abschluss genießen wir die Aussicht auf den zugefrorenen See in Evedal, bevor wir zurück ins warme Zentrum fahren.",
             "hu": "Tömegközlekedéssel kényelmesen fedezhetjük fel a téli Växjőt. A főtérről busszal megyünk a zúzmarás katedrálishoz. Délben a múzeumi negyedben melegedünk, majd az 1-es busszal a kivilágított Teleborg-kastélyhoz utazunk. A Biskopshagen rezervátum havas tája lenyűgöző a buszablakból. A napot a befagyott Helgasjön-tónál zárjuk Evedalban, mielőtt visszatérnénk a városba.",
             "ro": "Transportul public ne permite să vedem Växjö iarna fără grija gerului. Pornim de la Stortorget spre catedrala înghețată. La prânz ne încălzim la muzee, apoi linia 1 ne duce la castelul Teleborg iluminat feeric. Natura din rezervația Biskopshagen arată superb sub zăpadă. Încheiem ziua la Evedal, admirând lacul înghețat, apoi revenim rapid cu autobuzul în centru.",
-            "en": "Public transport is the best way to see wintry Växjö while staying warm. We start at the main square and take a bus to the frosty Cathedral. Midday is spent in the warm Museum Quarter before line 1 takes us to the glowing Teleborg Castle. The snowy landscapes of Biskopshagen are easily accessible by bus. We finish our day at the frozen shores of Evedal before returning to the cozy city center."
+            "en": "Public transport is the best way to see wintry Växjö while staying warm. We start at the main square and take a bus to the frosty Cathedral. Midday is spent in the warm Museum Quarter before line 1 takes us to the glowing Teleborg Castle. The snowy landscapes of Biskopshagen are easily accessible by bus. We finish our day at the frozen shores of Evedal before returning to the cozy city center.",
+            "sv": "Kollektivtrafik är det bästa sättet att se ett vintervitt Växjö och hålla sig varm. Vi börjar på Stortorget och tar en buss till den frostiga domkyrkan. Mitt på dagen tillbringar vi i det varma Museikvarteret innan linje 1 tar oss till det lysande Teleborgs slott. De snötäckta landskapen i Biskopshagen är lättillgängliga med buss. Vi avslutar dagen vid Evedals frusna strand innan vi återvänder till det mysiga centrum."
           },
           "stops": [
             {
@@ -1752,7 +1919,8 @@
                 "de": "Die Busstation ist beheizt, ideal bei Minusgraden.",
                 "hu": "A buszpályaudvar várója fűtött, ideális mínuszokban.",
                 "ro": "Stația de autobuz este încălzită, ideală pe ger.",
-                "en": "The bus station waiting room is heated, ideal for sub-zero days."
+                "en": "The bus station waiting room is heated, ideal for sub-zero days.",
+                "sv": "Busstationens väntrum är uppvärmt, idealiskt för dagar under noll."
               }
             },
             {
@@ -1761,7 +1929,8 @@
                 "de": "Warten Sie in der Nähe der Laternen für mehr Sichtbarkeit.",
                 "hu": "Várjon a lámpák közelében a jobb láthatóságért.",
                 "ro": "Așteptați în apropierea stâlpilor de iluminat.",
-                "en": "Wait near the streetlights for better visibility."
+                "en": "Wait near the streetlights for better visibility.",
+                "sv": "Vänta nära gatlyktorna för bättre synlighet."
               }
             },
             {
@@ -1770,7 +1939,8 @@
                 "de": "Die Museen sind beliebte Treffpunkte im Winter.",
                 "hu": "A múzeumok népszerű találkozóhelyek télen.",
                 "ro": "Muzeele sunt locuri de întâlnire populare iarna.",
-                "en": "The museums are popular social hubs during winter."
+                "en": "The museums are popular social hubs during winter.",
+                "sv": "Museerna är populära samlingsplatser under vintern."
               }
             },
             {
@@ -1779,7 +1949,8 @@
                 "de": "Der Fußweg vom Bus zum Schloss kann glatt sein.",
                 "hu": "A busztól a kastélyig tartó gyalogút csúszós lehet.",
                 "ro": "Aleea de la autobuz la castel poate fi alunecoasă.",
-                "en": "The short walk from the bus stop can be slippery."
+                "en": "The short walk from the bus stop can be slippery.",
+                "sv": "Den korta promenaden från hållplatsen kan vara hal."
               }
             },
             {
@@ -1788,7 +1959,8 @@
                 "de": "Achten Sie im Dunkeln auf die Busfahrpläne.",
                 "hu": "Sötétedés után figyeljen a buszok menetrendjére.",
                 "ro": "Atenție la orarul autobuzelor după lăsarea întunericului.",
-                "en": "Pay close attention to bus schedules after dark."
+                "en": "Pay close attention to bus schedules after dark.",
+                "sv": "Följ noga busstidtabellerna efter mörkrets inbrott."
               }
             },
             {
@@ -1797,7 +1969,8 @@
                 "de": "Genießen Sie den Blick auf das Eis vom Wartehäuschen.",
                 "hu": "Élvezze a kilátást a jégre a váróhelyről.",
                 "ro": "Bucurați-vă de priveliștea gheții din stație.",
-                "en": "Enjoy the view of the ice from the bus shelter."
+                "en": "Enjoy the view of the ice from the bus shelter.",
+                "sv": "Njut av isutsikten från busskuren."
               }
             }
           ],
@@ -1829,6 +2002,13 @@
               "Expect minor delays only during extreme snowfall (snöfall).",
               "The app displays the bus's live position on a map.",
               "The train station (Resecentrum) is the main hub for all lines."
+            ],
+            "sv": [
+              "Svenska bussar är mycket pålitliga och varma under vintern.",
+              "Att bära reflexer är viktigt när du går till hållplatsen.",
+              "Räkna bara med mindre förseningar vid extremt snöfall.",
+              "Appen visar bussens aktuella position på en karta.",
+              "Tågstationen (Resecentrum) är navet för alla linjer."
             ]
           }
         }

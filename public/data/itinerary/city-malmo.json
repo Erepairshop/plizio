@@ -21,7 +21,8 @@
             "de": "Sankt Petri kyrka",
             "hu": "Sankt Petri kyrka",
             "ro": "Sankt Petri kyrka",
-            "en": "Sankt Petri kyrka"
+            "en": "Sankt Petri kyrka",
+            "sv": "Sankt Petri kyrka"
           },
           "coords": [
             13.003318,
@@ -36,7 +37,8 @@
             "de": "Bewundern Sie die hoch aufragende Backsteingotik und den detailreichen Holzaltar, aber sprechen Sie während der Chorproben bitte nur leise.",
             "hu": "Csodálja meg a tornyosuló balti téglagótikát és a bonyolult faoltárt, de ne feledjen csendben maradni a kóruspróbák idején.",
             "ro": "Admirați arhitectura gotică impunătoare din cărămidă și altarul elaborat din lemn, dar păstrați liniștea în timpul repetițiilor corului.",
-            "en": "Admire the towering brick Gothic architecture and intricate wooden altarpiece, but remember to keep your voice down during choir rehearsals."
+            "en": "Admire the towering brick Gothic architecture and intricate wooden altarpiece, but remember to keep your voice down during choir rehearsals.",
+            "sv": "Beundra den höga tegelgotiken och det intrikata träaltaret, men tänk på att hålla rösten låg under körövningar."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Länsresidenset Malmö",
             "hu": "Länsresidenset Malmö",
             "ro": "Länsresidenset Malmö",
-            "en": "Länsresidenset Malmö"
+            "en": "Länsresidenset Malmö",
+            "sv": "Länsresidenset Malmö"
           },
           "coords": [
             13.001007,
@@ -59,7 +62,8 @@
             "de": "Bestaunen Sie die königlichen Fassaden dieser Residenz und machen Sie die besten Fotos vom Platz aus, bevor die Nachmittagsschatten fallen.",
             "hu": "Gyönyörködjön a kormányzói rezidencia királyi homlokzatában, és lője a legjobb fotókat a térről, még a délutáni árnyékok beállta előtt.",
             "ro": "Minunați-vă de fațadele regale ale acestei reședințe și faceți cele mai bune fotografii din piață chiar înainte să cadă umbrele după-amiezii.",
-            "en": "Marvel at the regal facades of this governor's residence, and capture the best photos from the square just before the afternoon shadows fall."
+            "en": "Marvel at the regal facades of this governor's residence, and capture the best photos from the square just before the afternoon shadows fall.",
+            "sv": "Förundras över de kungliga fasaderna vid guvernörens residens och ta de bästa bilderna från torget strax innan eftermiddagsskuggorna faller."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Malmö Live Konserthus",
             "hu": "Malmö Live Konserthus",
             "ro": "Malmö Live Konserthus",
-            "en": "Malmö Live Konserthus"
+            "en": "Malmö Live Konserthus",
+            "sv": "Malmö Live Konserthus"
           },
           "coords": [
             12.993645,
@@ -82,7 +87,8 @@
             "de": "Erleben Sie die spektakuläre Akustik und das moderne Design, und achten Sie im Foyer auf gelegentliche, kostenlose Mittagskonzerte.",
             "hu": "Tapasztalja meg a koncertterem lenyűgöző akusztikáját és modern dizájnját, és érdemes az előtérben ingyenes déli előadásokat keresni.",
             "ro": "Experimentați acustica spectaculoasă și designul modern și asigurați-vă că verificați holul pentru spectacole gratuite la prânz.",
-            "en": "Experience the spectacular acoustics and modern design of this concert hall, and be sure to check the lobby for free lunchtime performances."
+            "en": "Experience the spectacular acoustics and modern design of this concert hall, and be sure to check the lobby for free lunchtime performances.",
+            "sv": "Upplev den spektakulära akustiken och den moderna designen i konserthuset och kolla gärna lobbyn för kostnadsfria lunchföreställningar."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Teknikens och sjöfartens hus",
             "hu": "Teknikens och sjöfartens hus",
             "ro": "Teknikens och sjöfartens hus",
-            "en": "Teknikens och sjöfartens hus"
+            "en": "Teknikens och sjöfartens hus",
+            "sv": "Teknikens och sjöfartens hus"
           },
           "coords": [
             12.982778,
@@ -105,7 +112,8 @@
             "de": "Klettern Sie in diesem Technikmuseum an Bord eines echten U-Bootes, aber starten Sie früh, um lauten Schulklassen zur Mittagszeit zu entgehen.",
             "hu": "Másszon be egy igazi tengeralattjáróba ebben a múzeumban, de érkezzen korán, hogy elkerülje a délben érkező hangos iskolás csoportokat.",
             "ro": "Urcați la bordul unui submarin real la acest muzeu, dar începeți devreme pentru a evita grupurile școlare zgomotoase care sosesc la prânz.",
-            "en": "Climb aboard a real submarine at this immersive technology museum, but start early to avoid the loud school groups that arrive by noon."
+            "en": "Climb aboard a real submarine at this immersive technology museum, but start early to avoid the loud school groups that arrive by noon.",
+            "sv": "Gå ombord på en riktig ubåt i detta uppslukande tekniska museum, men börja tidigt för att undvika de högljudda skolgrupper som anländer vid lunchtid."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Människan och Pegasus",
             "hu": "Människan och Pegasus",
             "ro": "Människan och Pegasus",
-            "en": "Människan och Pegasus"
+            "en": "Människan och Pegasus",
+            "sv": "Människan och Pegasus"
           },
           "coords": [
             12.987098,
@@ -128,7 +137,8 @@
             "de": "Stehen Sie unter dieser Skulptur der künstlerischen Freiheit und betrachten Sie sie von Süden, um den Himmel direkt hinter den Flügeln zu haben.",
             "hu": "Álljon a művészi szabadságot szimbolizáló dinamikus szobor alá, és nézze délről, hogy a drámai égbolt közvetlenül a szárnyak mögé kerüljön.",
             "ro": "Stați sub această sculptură dinamică ce simbolizează libertatea și priviți-o din sud pentru a avea cerul dramatic direct în spatele aripilor.",
-            "en": "Stand beneath this dynamic sculpture symbolizing artistic freedom, and view it from the south to get the dramatic sky directly behind the wings."
+            "en": "Stand beneath this dynamic sculpture symbolizing artistic freedom, and view it from the south to get the dramatic sky directly behind the wings.",
+            "sv": "Stå under denna dynamiska skulptur som symboliserar konstnärlig frihet och betrakta den från söder för att få den dramatiska himlen direkt bakom vingarna."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Ebbas hus",
             "hu": "Ebbas hus",
             "ro": "Ebbas hus",
-            "en": "Ebbas hus"
+            "en": "Ebbas hus",
+            "sv": "Ebbas hus"
           },
           "coords": [
             13.005777,
@@ -151,7 +162,8 @@
             "de": "Machen Sie eine Zeitreise in diesem erhaltenen Arbeiterhaus der 1910er Jahre und fragen Sie den Guide nach dem historischen Ofenmechanismus.",
             "hu": "Lépjen vissza az időben ebben az 1910-es évekbeli munkásházban, és kérdezze a felkészült idegenvezetőt a korabeli kályha működéséről.",
             "ro": "Întoarceți-vă în timp în această casă muncitorească minusculă din anii 1910 și întrebați ghidul despre mecanismul sobei de epocă.",
-            "en": "Step back in time in this tiny, perfectly preserved 1910s working-class home, and ask the knowledgeable guide about the vintage stove mechanism."
+            "en": "Step back in time in this tiny, perfectly preserved 1910s working-class home, and ask the knowledgeable guide about the vintage stove mechanism.",
+            "sv": "Res tillbaka i tiden i detta lilla, perfekt bevarade arbetarklasshem från 1910-talet och fråga den kunniga guiden om den gamla spisens mekanismer."
           }
         }
       ],
@@ -159,7 +171,8 @@
         "de": "Wir beginnen unseren Rundgang im historischen Herzen von Malmö an der beeindruckenden Sankt Petri kyrka, einem Wunder der baltischen Backsteingotik. Mittags führt unser Weg westwärts, wo wir das elegante Länsresidenset entdecken und dann in das architektonische Meisterwerk Malmö Live eintauchen. Der Nachmittag ist den faszinierenden Ausstellungen im Technik- und Schifffahrtsmuseum gewidmet. Den Tag beschließen wir mit einem Spaziergang vorbei an der markanten Pegasus-Statue zum historisch intimen Ebbas hus, das Malmös Epochen widerspiegelt.",
         "hu": "Gyalogos túránkat Malmö történelmi szívében, a balti téglagótika csodájánál, a lenyűgöző Sankt Petri kyrka templomnál kezdjük. Délben nyugat felé haladva felfedezzük az elegáns Länsresidenset épületét, majd megcsodáljuk a Malmö Live modern építészeti remekművét. A délutánt a technológiai és tengerészeti múzeum lenyűgöző kiállításainak szenteljük, elmerülve a svéd ipari múltban. A napot a Människan och Pegasus szobor érintésével zárjuk, végül a történelmi Ebbas hus intim hangulatában pihenünk meg.",
         "ro": "Ne începem turul pietonal în inima istorică a orașului Malmö la impresionanta Sankt Petri kyrka, o minune a goticului din cărămidă. La prânz ne îndreptăm spre vest, descoperind eleganta Länsresidenset înainte de a admira arhitectura modernă a complexului Malmö Live. După-amiaza este dedicată expozițiilor fascinante de la muzeul tehnologiei și maritim, explorând trecutul industrial al Suediei. Încheiem ziua cu o plimbare pe lângă statuia Pegas până la intimul Ebbas hus, surprinzând epocile contrastante ale orașului.",
-        "en": "We start our walking tour in the historic heart of Malmö at the imposing Sankt Petri kyrka, a marvel of Baltic brick Gothic. Midday leads us westward, discovering the elegant Länsresidenset before stepping into the modern architectural marvel of Malmö Live. The afternoon is dedicated to the fascinating exhibits at the technology and maritime museum, diving deep into Sweden's industrial past. We conclude the day with a stroll past the striking Människan och Pegasus statue to the intimately historical Ebbas hus, capturing Malmö's contrasting eras."
+        "en": "We start our walking tour in the historic heart of Malmö at the imposing Sankt Petri kyrka, a marvel of Baltic brick Gothic. Midday leads us westward, discovering the elegant Länsresidenset before stepping into the modern architectural marvel of Malmö Live. The afternoon is dedicated to the fascinating exhibits at the technology and maritime museum, diving deep into Sweden's industrial past. We conclude the day with a stroll past the striking Människan och Pegasus statue to the intimately historical Ebbas hus, capturing Malmö's contrasting eras.",
+        "sv": "Vi börjar vår vandring i Malmös historiska hjärta vid den imponerande Sankt Petri kyrka, ett mästerverk av baltisk tegelgotik. Vid lunchtid går vi västerut och upptäcker det eleganta Länsresidenset innan vi stiger in i den moderna arkitekturens underverk Malmö Live. Eftermiddagen ägnas åt de fascinerande utställningarna på teknik- och sjöfartsmuseet, där vi fördjupar oss i Sveriges industrihistoria. Vi avslutar dagen med en promenad förbi den slående skulpturen Människan och Pegasus till det intimt historiska Ebbas hus och fångar Malmös kontrasterande epoker."
       },
       "variants": {
         "rainy": {
@@ -167,7 +180,8 @@
             "de": "Morgens suchen wir Schutz in der Sankt Petri Kirche, bevor wir durch die nassen Gassen zum Malmö Live spazieren. Mittags bietet das moderne Kulturzentrum einen trockenen Blick auf den Kanal. Nachmittags erkunden wir die riesigen Hallen des Technikmuseums, ideal bei Dauerregen. Abends erreichen wir Ebbas hus, wo die gemütliche Atmosphäre die graue, regnerische Stadt schnell vergessen lässt.",
             "hu": "Reggel a Sankt Petri boltívei alatt kezdünk, védve az esőtől. Délben a Malmö Live üvegfalai mögül nézzük a csapkodó vizet. Délután a technikai múzeum hatalmas belső terei nyújtanak menedéket. Este a szűk utcákon, tócsákat kerülgetve érünk Ebbas apró házához, ahol a múlt hangulata feledteti a borús időt; érdemes vízálló cipőben és esernyővel készülni a tengerparti szél miatt.",
             "ro": "Dimineața ne adăpostim în Sankt Petri, apoi mergem prin ploaie spre Malmö Live. La prânz, centrul cultural oferă o vedere uscată asupra canalelor. După-amiaza explorăm muzeul tehnicii, refugiu perfect pentru o zi ploioasă. Seara ajungem la Ebbas hus, unde atmosfera caldă ne face să uităm de vremea de afară; nu uitați pelerina de ploaie pentru segmentele dintre obiective.",
-            "en": "Morning starts under the dry vaults of Sankt Petri before walking through wet streets to Malmö Live. At noon, the glass walls provide a dry view of the canals. Afternoon is spent in the vast halls of the technology museum, ideal for heavy rain. Evening concludes at Ebbas hus, where the cozy 1910s interior makes you forget the gray, rainy city outside."
+            "en": "Morning starts under the dry vaults of Sankt Petri before walking through wet streets to Malmö Live. At noon, the glass walls provide a dry view of the canals. Afternoon is spent in the vast halls of the technology museum, ideal for heavy rain. Evening concludes at Ebbas hus, where the cozy 1910s interior makes you forget the gray, rainy city outside.",
+            "sv": "Morgonen börjar under Sankt Petri kyrkas torra valv innan vi promenerar genom blöta gator till Malmö Live. Vid lunchtid ger glasväggarna en torr utsikt över kanalerna. Eftermiddagen tillbringas i teknikmuseets vidsträckta hallar, idealiskt vid kraftigt regn. Kvällen avslutas vid Ebbas hus, där den mysiga 1910-talsinredningen får dig att glömma den grå, regniga staden utanför."
           },
           "stops": [
             {
@@ -175,13 +189,15 @@
                 "de": "Sankt Petri kyrka",
                 "hu": "Sankt Petri kyrka",
                 "ro": "Sankt Petri kyrka",
-                "en": "Sankt Petri kyrka"
+                "en": "Sankt Petri kyrka",
+                "sv": "Sankt Petri kyrka"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie die weißen Innenwände und mittelalterlichen Fresken im trockenen Kirchenschiff; achten Sie beim Verlassen auf die rutschigen Steinplatten vor dem Eingang.",
                 "hu": "Csodálja meg a hófehér belső tereket és középkori freskókat a száraz hajóban, kilépéskor pedig ügyeljen a bejárat előtti, esőtől csúszóssá vált kőlapokra.",
                 "ro": "Admirați frescele medievale în interiorul uscat al bisericii; aveți grijă la ieșire, deoarece treptele de piatră devin foarte alunecoase când plouă.",
-                "en": "Admire the medieval frescoes inside this dry sanctuary; be careful when exiting as the stone slabs in front of the entrance become very slippery in the rain."
+                "en": "Admire the medieval frescoes inside this dry sanctuary; be careful when exiting as the stone slabs in front of the entrance become very slippery in the rain.",
+                "sv": "Beundra de medeltida kalkmålningarna inne i detta torra helgedom; var försiktig när du lämnar byggnaden eftersom stenplattorna framför ingången blir mycket hala i regnet."
               }
             },
             {
@@ -189,13 +205,15 @@
                 "de": "Länsresidenset Malmö",
                 "hu": "Länsresidenset Malmö",
                 "ro": "Länsresidenset Malmö",
-                "en": "Länsresidenset Malmö"
+                "en": "Länsresidenset Malmö",
+                "sv": "Länsresidenset Malmö"
               },
               "tip_5lang": {
                 "de": "Betrachten Sie die prachtvolle Fassade unter dem Schutz der umliegenden Arkaden am Stortorget, um trocken zu bleiben, während Sie die Geschichte des Gouverneursbaus lesen.",
                 "hu": "Szemlélje a pompás homlokzatot a Stortorget közeli árkádjai alól, így szárazon maradhat, miközben megismeri a kormányzói palota történelmi jelentőségét.",
                 "ro": "Observați fațada splendidă sub protecția arcadelor din apropiere pentru a rămâne uscat în timp ce aflați istoria acestei reședințe guvernatoriale.",
-                "en": "View the magnificent facade from the shelter of nearby arcades at Stortorget to stay dry while learning about this historic governor's residence."
+                "en": "View the magnificent facade from the shelter of nearby arcades at Stortorget to stay dry while learning about this historic governor's residence.",
+                "sv": "Se den magnifika fasaden från skyddet under de närliggande arkaderna på Stortorget för att hålla dig torr samtidigt som du lär dig om detta historiska guvernörsresidens."
               }
             },
             {
@@ -203,13 +221,15 @@
                 "de": "Malmö Live Konserthus",
                 "hu": "Malmö Live Konserthus",
                 "ro": "Malmö Live Konserthus",
-                "en": "Malmö Live Konserthus"
+                "en": "Malmö Live Konserthus",
+                "sv": "Malmö Live Konserthus"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie die großzügigen, überdachten Glasfoyers für eine Pause mit Blick auf das stürmische Meer; drinnen ist es warm und die Akustik ist selbst bei Regen wunderbar.",
                 "hu": "Használja ki a tágas, fedett üvegfolyosókat egy pihenőre, ahonnan remek kilátás nyílik a viharos csatornákra; bent meleg van, és az eső kopogása sem zavarja az akusztikát.",
                 "ro": "Folosiți foaierele generoase de sticlă pentru o pauză cu vedere la canalele luate de furtună; interiorul este cald și primitor chiar și în cele mai ploioase zile.",
-                "en": "Use the spacious, covered glass foyers for a break with a view of the stormy canals; it's warm inside and the acoustics are wonderful even during a downpour."
+                "en": "Use the spacious, covered glass foyers for a break with a view of the stormy canals; it's warm inside and the acoustics are wonderful even during a downpour.",
+                "sv": "Använd de rymliga, inglasade foajéerna för en paus med utsikt över stormiga kanaler; det är varmt inomhus och akustiken är underbar även under ett ösregn."
               }
             },
             {
@@ -217,13 +237,15 @@
                 "de": "Teknikens och sjöfartens hus",
                 "hu": "Teknikens och sjöfartens hus",
                 "ro": "Teknikens och sjöfartens hus",
-                "en": "Teknikens och sjöfartens hus"
+                "en": "Teknikens och sjöfartens hus",
+                "sv": "Teknikens och sjöfartens hus"
               },
               "tip_5lang": {
                 "de": "Erkunden Sie das begehbare U-Boot und die Luftfahrthalle, die komplett überdacht sind; ideal, um mehrere Stunden im Trockenen zu verbringen, während es draußen schüttet.",
                 "hu": "Fedezze fel a bejárható tengeralattjárót és a repülési csarnokot, amelyek teljesen fedettek; ideális hely több óra eltöltésére, miközben kint szakad az eső.",
                 "ro": "Explorați submarinul și sala de aviație, care sunt complet acoperite; este locul ideal pentru a petrece câteva ore la adăpost în timp ce afară toarnă cu găleata.",
-                "en": "Explore the walk-in submarine and aviation hall, which are completely covered; ideal for spending several dry hours while it pours outside."
+                "en": "Explore the walk-in submarine and aviation hall, which are completely covered; ideal for spending several dry hours while it pours outside.",
+                "sv": "Utforska ubåten som man kan gå in i och flyghallen, som båda är helt täckta; perfekt för att tillbringa flera torra timmar medan det öser ner utomhus."
               }
             },
             {
@@ -231,13 +253,15 @@
                 "de": "Människan och Pegasus",
                 "hu": "Människan och Pegasus",
                 "ro": "Människan och Pegasus",
-                "en": "Människan och Pegasus"
+                "en": "Människan och Pegasus",
+                "sv": "Människan och Pegasus"
               },
               "tip_5lang": {
                 "de": "Die Bronzeskulptur glänzt im Regen besonders eindrucksvoll; halten Sie den Besuch kurz und nutzen Sie die Bäume im Schlosspark als natürlichen Regenschutz.",
                 "hu": "A bronzszobor különleges fénnyel csillog az esőben; tartsa rövidre a látogatást, és használja a kastélypark fáit természetes esővédőként a fotózáshoz.",
                 "ro": "Sculptura de bronz strălucește spectaculos în ploaie; păstrați vizita scurtă și folosiți copacii din parcul castelului ca adăpost natural împotriva stropilor.",
-                "en": "The bronze sculpture shines impressively in the rain; keep the visit short and use the trees in the castle park as natural shelter for a quick photo."
+                "en": "The bronze sculpture shines impressively in the rain; keep the visit short and use the trees in the castle park as natural shelter for a quick photo.",
+                "sv": "Bronsskulpturen glänser imponerande i regnet; håll besöket kort och använd träden i slottsparken som naturligt skydd för en snabb bild."
               }
             },
             {
@@ -245,13 +269,15 @@
                 "de": "Ebbas hus",
                 "hu": "Ebbas hus",
                 "ro": "Ebbas hus",
-                "en": "Ebbas hus"
+                "en": "Ebbas hus",
+                "sv": "Ebbas hus"
               },
               "tip_5lang": {
                 "de": "Das winzige Museumshaus bietet eine perfekte, trockene Zeitreise in den Alltag um 1910; klopfen Sie Ihre nassen Regenschirme vor dem Betreten gründlich ab.",
                 "hu": "Az apró múzeumház tökéletes, száraz időutazást kínál az 1910-es évek hétköznapjaiba; belépés előtt alaposan rázza le vizes esernyőjét a küszöbön.",
                 "ro": "Mica casă muzeu oferă o călătorie în timp uscată și fascinantă în viața de zi cu zi din 1910; scuturați bine umbrelele ude înainte de a intra în interior.",
-                "en": "This tiny museum house offers a perfect, dry time travel into daily life around 1910; shake your wet umbrellas thoroughly before entering the historic rooms."
+                "en": "This tiny museum house offers a perfect, dry time travel into daily life around 1910; shake your wet umbrellas thoroughly before entering the historic rooms.",
+                "sv": "Det här lilla museumshuset erbjuder en perfekt, torr tidsresa in i vardagslivet runt 1910; skaka noga ur dina blöta paraplyer innan du går in i de historiska rummen."
               }
             }
           ]
@@ -261,7 +287,8 @@
             "de": "Ein frostiger Morgen beginnt in der Sankt Petri Kirche, bevor wir uns auf den Weg zum windigen Malmö Live machen. Mittags wärmen wir uns im modernen Foyer auf. Da die Sonne bereits vor 16:30 Uhr untergeht, besichtigen wir das Technikmuseum im Kunstlicht. Den Tag lassen wir im gemütlichen Ebbas hus ausklingen, wo man die Kälte der nordischen Winternacht schnell vergisst.",
             "hu": "A fagyos reggel a templom csendjében indul, majd a tenger felől fújó szélben sietünk a Malmö Live felé. Délután a fűtött kiállítóterekben melegszünk fel. A nap korán, már délután öt előtt lebukik, így a város fényeiben, a csípős hidegben fejezzük be a sétát Ebbas házánál, ahol a régi idők nyugalma és a fűtött szobák melege vár.",
             "ro": "O dimineață geroasă începe la Sankt Petri, apoi ne grăbim prin vântul tăios spre Malmö Live. La prânz ne încălzim în foaierele moderne. Deoarece soarele apune înainte de ora 17:00, vizităm muzeul tehnicii la lumina reflectoarelor. Încheiem ziua la Ebbas hus, unde atmosfera caldă ne face să uităm de frigul nopții nordice.",
-            "en": "A frosty morning starts in the quiet of Sankt Petri before heading to the windy Malmö Live. At noon, we warm up in the modern foyer. Since the sun sets before 5 PM, we visit the technology museum under artificial light. The day ends at the cozy Ebbas hus, where the warmth of the old rooms lets you forget the biting Nordic winter cold."
+            "en": "A frosty morning starts in the quiet of Sankt Petri before heading to the windy Malmö Live. At noon, we warm up in the modern foyer. Since the sun sets before 5 PM, we visit the technology museum under artificial light. The day ends at the cozy Ebbas hus, where the warmth of the old rooms lets you forget the biting Nordic winter cold.",
+            "sv": "En frostig morgon börjar i Sankt Petri kyrkas stillhet innan vi går mot det blåsiga Malmö Live. Vid lunchtid värmer vi oss i den moderna foajén. Eftersom solen går ner före kl. 17 besöker vi teknikmuseet under artificiellt ljus. Dagen avslutas i det mysiga Ebbas hus, där värmen i de gamla rummen får dig att glömma den bitande nordiska vinterkylan."
           },
           "stops": [
             {
@@ -269,13 +296,15 @@
                 "de": "Sankt Petri kyrka",
                 "hu": "Sankt Petri kyrka",
                 "ro": "Sankt Petri kyrka",
-                "en": "Sankt Petri kyrka"
+                "en": "Sankt Petri kyrka",
+                "sv": "Sankt Petri kyrka"
               },
               "tip_5lang": {
                 "de": "Die dicken Mauern halten die Kälte draußen; genießen Sie die friedliche Stille am Morgen, aber ziehen Sie sich warm an, da die Steinkirche nicht stark beheizt ist.",
                 "hu": "A vastag falak kint tartják a fagyot; élvezze a reggeli csendet, de öltözzön rétegesen, mert a hatalmas templomtér télen is hűvös maradhat.",
                 "ro": "Zidurile groase țin gerul afară; bucurați-vă de liniștea dimineții, dar îmbrăcați-vă bine, deoarece spațiul vast al bisericii nu este încălzit puternic.",
-                "en": "The thick walls keep the frost out; enjoy the peaceful morning silence, but dress in layers as the vast church interior can remain quite chilly in winter."
+                "en": "The thick walls keep the frost out; enjoy the peaceful morning silence, but dress in layers as the vast church interior can remain quite chilly in winter.",
+                "sv": "De tjocka väggarna håller frosten ute; njut av den fridfulla morgontystnaden men klä dig i lager eftersom kyrkans vidsträckta inre kan vara ganska kyligt på vintern."
               }
             },
             {
@@ -283,13 +312,15 @@
                 "de": "Länsresidenset Malmö",
                 "hu": "Länsresidenset Malmö",
                 "ro": "Länsresidenset Malmö",
-                "en": "Länsresidenset Malmö"
+                "en": "Länsresidenset Malmö",
+                "sv": "Länsresidenset Malmö"
               },
               "tip_5lang": {
                 "de": "Die historische Fassade wirkt im grauen Winterlicht besonders majestätisch; machen Sie ein schnelles Foto und nutzen Sie die Cafés am Stortorget zum Aufwärmen.",
                 "hu": "A történelmi homlokzat méltóságteljes a szürke téli fényben; készítsen egy gyors fotót, majd használja a Stortorget kávézóit egy forró italra és felmelegedésre.",
                 "ro": "Fațada istorică pare deosebit de maiestuoasă în lumina gri de iarnă; faceți o poză rapidă și profitați de cafenelele din piață pentru a vă încălzi.",
-                "en": "The historic facade looks majestic in the gray winter light; take a quick photo and use the nearby cafes at Stortorget for a warm drink and a quick thaw."
+                "en": "The historic facade looks majestic in the gray winter light; take a quick photo and use the nearby cafes at Stortorget for a warm drink and a quick thaw.",
+                "sv": "Den historiska fasaden ser majestätisk ut i det grå vinterljuset; ta en snabb bild och använd de närliggande kaféerna på Stortorget för en varm dryck och snabb uppvärmning."
               }
             },
             {
@@ -297,13 +328,15 @@
                 "de": "Malmö Live Konserthus",
                 "hu": "Malmö Live Konserthus",
                 "ro": "Malmö Live Konserthus",
-                "en": "Malmö Live Konserthus"
+                "en": "Malmö Live Konserthus",
+                "sv": "Malmö Live Konserthus"
               },
               "tip_5lang": {
                 "de": "Der perfekte Ort, um der Winterkälte zu entfliehen; genießen Sie durch die Panoramafenster den Blick auf die frostige Stadt, während Sie im Warmen sitzen.",
                 "hu": "Tökéletes hely a téli hideg elöli menekülésre; élvezze a panorámaablakokon keresztül a jeges város látványát, miközben a fűtött belső térben pihen.",
                 "ro": "Locul perfect pentru a scăpa de gerul iernii; admirați orașul înghețat prin ferestrele panoramice în timp ce stați la căldură în interiorul modern.",
-                "en": "The perfect spot to escape the winter cold; enjoy the view of the frozen city through the panoramic windows while sitting in the heated, modern interior."
+                "en": "The perfect spot to escape the winter cold; enjoy the view of the frozen city through the panoramic windows while sitting in the heated, modern interior.",
+                "sv": "Den perfekta platsen att fly undan vinterkylan; njut av utsikten över den frusna staden genom panoramafönstren medan du sitter i den uppvärmda, moderna interiören."
               }
             },
             {
@@ -311,13 +344,15 @@
                 "de": "Teknikens och sjöfartens hus",
                 "hu": "Teknikens och sjöfartens hus",
                 "ro": "Teknikens och sjöfartens hus",
-                "en": "Teknikens och sjöfartens hus"
+                "en": "Teknikens och sjöfartens hus",
+                "sv": "Teknikens och sjöfartens hus"
               },
               "tip_5lang": {
                 "de": "Verbringen Sie die kalten Nachmittagsstunden in den gut beheizten Ausstellungsräumen; die maritime Geschichte ist auch bei frühem Sonnenuntergang faszinierend.",
                 "hu": "Töltse a hideg délutáni órákat a jól fűtött kiállítótermekben; a tengerészeti történelem a korai naplemente utáni fényekben is lenyűgöző látványt nyújt.",
                 "ro": "Petreceți orele reci de după-amiază în sălile bine încălzite; istoria maritimă este fascinantă chiar și după apusul devreme al soarelui nordic.",
-                "en": "Spend the cold afternoon hours in the well-heated exhibition halls; the maritime history is fascinating even after the early Nordic winter sunset."
+                "en": "Spend the cold afternoon hours in the well-heated exhibition halls; the maritime history is fascinating even after the early Nordic winter sunset.",
+                "sv": "Tillbringa de kalla eftermiddagstimmarna i de väl uppvärmda utställningshallarna; den maritima historien är fascinerande även efter den tidiga nordiska vintersolnedgången."
               }
             },
             {
@@ -325,13 +360,15 @@
                 "de": "Människan och Pegasus",
                 "hu": "Människan och Pegasus",
                 "ro": "Människan och Pegasus",
-                "en": "Människan och Pegasus"
+                "en": "Människan och Pegasus",
+                "sv": "Människan och Pegasus"
               },
               "tip_5lang": {
                 "de": "Die Skulptur wirkt im Reif oder Schnee besonders ätherisch; achten Sie auf glatte Wege im Park und genießen Sie die klare, frische Winterluft für einen Moment.",
                 "hu": "A szobor különösen étheri látványt nyújt dérrel vagy hóval borítva; ügyeljen a park jeges ösvényeire, és élvezze a tiszta téli levegőt egy rövid ideig.",
                 "ro": "Sculptura pare ireală când este acoperită de chiciură sau zăpadă; aveți grijă la potecile înghețate din parc și bucurați-vă de aerul curat de iarnă.",
-                "en": "The sculpture looks ethereal when covered in frost or snow; watch out for icy paths in the park and enjoy the crisp winter air for a brief moment."
+                "en": "The sculpture looks ethereal when covered in frost or snow; watch out for icy paths in the park and enjoy the crisp winter air for a brief moment.",
+                "sv": "Skulpturen ser eterisk ut när den är täckt av rimfrost eller snö; akta dig för isiga stigar i parken och njut kort av den klara vinterluften."
               }
             },
             {
@@ -339,13 +376,15 @@
                 "de": "Ebbas hus",
                 "hu": "Ebbas hus",
                 "ro": "Ebbas hus",
-                "en": "Ebbas hus"
+                "en": "Ebbas hus",
+                "sv": "Ebbas hus"
               },
               "tip_5lang": {
                 "de": "Das kleine Arbeiterhaus wirkt im dämmrigen Winterlicht besonders heimelig; erleben Sie, wie man sich früher in den kalten schwedischen Wintern warm hielt.",
                 "hu": "A kis munkásház különösen otthonos a téli szürkületben; nézze meg, hogyan tartották melegen az otthonokat a régi svéd teleken a vaskályhák segítségével.",
                 "ro": "Mica casă muncitorească pare foarte primitoare în amurgul iernii; vedeți cum se încălzeau suedezii în trecut în timpul iernilor lungi și geroase.",
-                "en": "This small worker's house feels extra cozy in the twilight; see how people used to keep warm during the long Swedish winters with old iron stoves."
+                "en": "This small worker's house feels extra cozy in the twilight; see how people used to keep warm during the long Swedish winters with old iron stoves.",
+                "sv": "Detta lilla arbetarklasshus känns extra ombonat i skymningen; se hur folk brukade hålla värmen under de långa svenska vintrarna med gamla gjutjärnsspisar."
               }
             }
           ]
@@ -365,7 +404,8 @@
             "de": "Ebbas hus",
             "hu": "Ebbas hus",
             "ro": "Ebbas hus",
-            "en": "Ebbas hus"
+            "en": "Ebbas hus",
+            "sv": "Ebbas hus"
           },
           "coords": [
             13.005777,
@@ -380,7 +420,8 @@
             "de": "Machen Sie eine Zeitreise in diesem erhaltenen Arbeiterhaus der 1910er Jahre und fragen Sie den Guide nach dem historischen Ofenmechanismus.",
             "hu": "Lépjen vissza az időben ebben az 1910-es évekbeli munkásházban, és kérdezze a felkészült idegenvezetőt a korabeli kályha működéséről.",
             "ro": "Întoarceți-vă în timp în această casă muncitorească minusculă din anii 1910 și întrebați ghidul despre mecanismul sobei de epocă.",
-            "en": "Step back in time in this tiny, perfectly preserved 1910s working-class home, and ask the knowledgeable guide about the vintage stove mechanism."
+            "en": "Step back in time in this tiny, perfectly preserved 1910s working-class home, and ask the knowledgeable guide about the vintage stove mechanism.",
+            "sv": "Res tillbaka i tiden i detta lilla, perfekt bevarade arbetarklasshem från 1910-talet och fråga den kunniga guiden om den gamla spisens mekanismer."
           }
         },
         {
@@ -388,7 +429,8 @@
             "de": "Sankt Petri kyrka",
             "hu": "Sankt Petri kyrka",
             "ro": "Sankt Petri kyrka",
-            "en": "Sankt Petri kyrka"
+            "en": "Sankt Petri kyrka",
+            "sv": "Sankt Petri kyrka"
           },
           "coords": [
             13.003318,
@@ -403,7 +445,8 @@
             "de": "Bewundern Sie die hoch aufragende Backsteingotik und den detailreichen Holzaltar, aber sprechen Sie während der Chorproben bitte nur leise.",
             "hu": "Csodálja meg a tornyosuló balti téglagótikát és a bonyolult faoltárt, de ne feledjen csendben maradni a kóruspróbák idején.",
             "ro": "Admirați arhitectura gotică impunătoare din cărămidă și altarul elaborat din lemn, dar păstrați liniștea în timpul repetițiilor corului.",
-            "en": "Admire the towering brick Gothic architecture and intricate wooden altarpiece, but remember to keep your voice down during choir rehearsals."
+            "en": "Admire the towering brick Gothic architecture and intricate wooden altarpiece, but remember to keep your voice down during choir rehearsals.",
+            "sv": "Beundra den höga tegelgotiken och det intrikata träaltaret, men tänk på att hålla rösten låg under körövningar."
           }
         },
         {
@@ -411,7 +454,8 @@
             "de": "Malmö konsthall",
             "hu": "Malmö konsthall",
             "ro": "Malmö konsthall",
-            "en": "Malmö konsthall"
+            "en": "Malmö konsthall",
+            "sv": "Malmö konsthall"
           },
           "coords": [
             12.99924,
@@ -426,7 +470,8 @@
             "de": "Entdecken Sie zeitgenössische Kunst in diesem weitläufigen, hellen Raum und trinken Sie einen Kaffee im hoch bewerteten Innenhof-Café nebenan.",
             "hu": "Fedezze fel a kortárs művészetet ebben a hatalmas, világos térben, és igyon egy kávét a kiváló értékelésű szomszédos udvari kávézóban.",
             "ro": "Explorați arta contemporană în acest spațiu vast luminat natural și beți o cafea la apreciata cafenea din curtea adiacentă.",
-            "en": "Explore cutting-edge contemporary art in this vast naturally lit space, and grab a coffee at the highly-rated adjacent courtyard café."
+            "en": "Explore cutting-edge contemporary art in this vast naturally lit space, and grab a coffee at the highly-rated adjacent courtyard café.",
+            "sv": "Utforska banbrytande samtidskonst i detta stora, naturligt upplysta rum och ta en kaffe på det högt betygsatta innergårdskaféet intill."
           }
         },
         {
@@ -434,7 +479,8 @@
             "de": "Malmö Opera",
             "hu": "Malmö Opera",
             "ro": "Malmö Opera",
-            "en": "Malmö Opera"
+            "en": "Malmö Opera",
+            "sv": "Malmö Opera"
           },
           "coords": [
             12.995702,
@@ -449,7 +495,8 @@
             "de": "Bestaunen Sie die funktionalistische Architektur und das große Foyer der Oper und buchen Sie frühzeitig eine Backstage-Tour für geheime Einblicke.",
             "hu": "Csodálja meg az Opera funkcionalista építészetét és tágas előcsarnokát, és foglaljon jó előre kulisszajárást a rejtett részletekért.",
             "ro": "Minunați-vă de arhitectura funcționalistă și de foaierul grandios al Operei și rezervați din timp un tur în culise pentru perspective ascunse.",
-            "en": "Marvel at the functionalist architecture and grand foyer of the Opera, and try booking a backstage tour well in advance for hidden insights."
+            "en": "Marvel at the functionalist architecture and grand foyer of the Opera, and try booking a backstage tour well in advance for hidden insights.",
+            "sv": "Förundras över funktionalismens arkitektur och operans storslagna foajé och försök boka en bakom-kulisserna-visning i god tid för dolda inblickar."
           }
         },
         {
@@ -457,7 +504,8 @@
             "de": "Sankt Johannes kyrka",
             "hu": "Sankt Johannes kyrka",
             "ro": "Sankt Johannes kyrka",
-            "en": "Sankt Johannes kyrka"
+            "en": "Sankt Johannes kyrka",
+            "sv": "Sankt Johannes kyrka"
           },
           "coords": [
             13.00175,
@@ -472,7 +520,8 @@
             "de": "Genießen Sie die ruhige Atmosphäre und die Buntglasfenster dieser historischen Kirche, und nehmen Sie sich einen Moment der Besinnung.",
             "hu": "Élvezze a történelmi templom békés hangulatát és gyönyörű ólomüveg ablakait, szakítva egy pillanatot a csendes elmélkedésre.",
             "ro": "Bucurați-vă de atmosfera senină și de vitraliile frumoase ale acestei biserici istorice, luându-vă un moment de reflecție departe de agitație.",
-            "en": "Enjoy the serene atmosphere and beautiful stained glass windows of this historic church, taking a moment of quiet reflection away from the city buzz."
+            "en": "Enjoy the serene atmosphere and beautiful stained glass windows of this historic church, taking a moment of quiet reflection away from the city buzz.",
+            "sv": "Njut av den fridfulla atmosfären och de vackra glasmålningarna i denna historiska kyrka; ta en stund för tyst eftertanke bort från stadens brus."
           }
         },
         {
@@ -480,7 +529,8 @@
             "de": "Malmö synagoga",
             "hu": "Malmö synagoga",
             "ro": "Malmö synagoga",
-            "en": "Malmö synagoga"
+            "en": "Malmö synagoga",
+            "sv": "Malmö synagoga"
           },
           "coords": [
             13.010823,
@@ -495,7 +545,8 @@
             "de": "Beachten Sie die maurische Fassade dieser wichtigen Kulturstätte, aber denken Sie daran, dass der Zugang meist vorherige Absprachen erfordert.",
             "hu": "Figyelje meg e fontos kulturális helyszín mór stílusú homlokzatát, de tartsa szem előtt, hogy a belső tér látogatásához előzetes egyeztetés kell.",
             "ro": "Observați fațada maură impresionantă a acestui sit cultural important, dar rețineți că accesul interior necesită de obicei o programare.",
-            "en": "Note the striking Moorish Revival facade of this important cultural site, but keep in mind that interior access typically requires prior arrangement."
+            "en": "Note the striking Moorish Revival facade of this important cultural site, but keep in mind that interior access typically requires prior arrangement.",
+            "sv": "Lägg märke till den iögonfallande moriska nyrenässansfasaden vid denna viktiga kultursida, men tänk på att interiöråtkomst vanligtvis kräver förhandsarrangemang."
           }
         },
         {
@@ -503,7 +554,8 @@
             "de": "Sankta Maria kyrka",
             "hu": "Sankta Maria kyrka",
             "ro": "Sankta Maria kyrka",
-            "en": "Sankta Maria kyrka"
+            "en": "Sankta Maria kyrka",
+            "sv": "Sankta Maria kyrka"
           },
           "coords": [
             13.01216,
@@ -518,7 +570,8 @@
             "de": "Entdecken Sie den ruhigen Charme und das Mauerwerk dieser charmanten Kirche, perfekt für einen abendlichen Spaziergang um das Gelände.",
             "hu": "Fedezze fel a negyed templomának csendes varázsát és elegáns kőmunkáit, amely tökéletes egy békés esti sétához az épület körül.",
             "ro": "Descoperiți farmecul liniștit și piatra elegantă a acestei biserici de cartier, perfectă pentru o plimbare liniștită de seară în jurul ei.",
-            "en": "Discover the quiet charm and elegant stonework of this neighborhood church, perfect for a peaceful evening walk around its perimeter."
+            "en": "Discover the quiet charm and elegant stonework of this neighborhood church, perfect for a peaceful evening walk around its perimeter.",
+            "sv": "Upptäck den lugna charmen och den eleganta stenmuren i denna kvarterskyrka, perfekt för en stillsam kvällspromenad runt dess omkrets."
           }
         }
       ],
@@ -526,7 +579,8 @@
         "de": "Beginnen Sie Ihre Radtour durch Malmö mit der Erkundung des winzigen, aber historisch reichen Ebbas hus im Stadtzentrum. Gegen Mittag radeln Sie an der beeindruckenden Sankt Petri kyrka vorbei, bevor Sie zur berühmten Malmö konsthall fahren, um zeitgenössische Kunst zu genießen. Die nachmittägliche Fahrt verbindet Sie mit der ikonischen Malmö Opera und der nahegelegenen Sankt Johannes kyrka. Der Abend klingt gemütlich aus, wenn Sie zur ruhigen Synagoge weiterradeln und schließlich die charmante Sankta Maria kyrka erreichen.",
         "hu": "Kerékpáros utunkat Malmö belvárosában kezdjük, az apró, de történelmileg gazdag Ebbas hus felfedezésével. Dél körül eltekerünk a fenséges Sankt Petri kyrka mellett, majd a híres Malmö konsthall felé vesszük az irányt a kortárs művészetekért. A délutáni tekerés a lenyűgöző Malmö Opera és a közeli Sankt Johannes kyrka épületeit fűzi fel, megmutatva a város eleganciáját. Az estét a nyugalmas malmői zsinagóga felkeresésével és a Sankta Maria kyrka megcsodálásával zárjuk, kellemes levezetésként.",
         "ro": "Începeți-vă călătoria pe bicicletă prin Malmö explorând minuscula, dar istoric de bogata Ebbas hus din centrul orașului. La prânz, veți pedala pe lângă grandioasa Sankt Petri kyrka înainte de a coborî spre renumita Malmö konsthall pentru artă contemporană. Plimbarea de după-amiază vă conectează la emblematica Malmö Opera și la Sankt Johannes kyrka din apropiere, etalând o arhitectură elegantă. Seara se încheie frumos în timp ce mergeți pe bicicletă spre liniștita sinagogă și terminați la Sankta Maria kyrka.",
-        "en": "Kick off your cycling journey through Malmö by exploring the tiny but historically rich Ebbas hus in the city center. By midday, you'll pedal past the grand Sankt Petri kyrka before cruising down to the renowned Malmö konsthall to soak in cutting-edge contemporary art. The afternoon ride connects you to the iconic Malmö Opera and the nearby Sankt Johannes kyrka, showcasing elegant civic and religious architecture. The evening winds down beautifully as you bike to the tranquil Malmö synagoga and finish at Sankta Maria kyrka."
+        "en": "Kick off your cycling journey through Malmö by exploring the tiny but historically rich Ebbas hus in the city center. By midday, you'll pedal past the grand Sankt Petri kyrka before cruising down to the renowned Malmö konsthall to soak in cutting-edge contemporary art. The afternoon ride connects you to the iconic Malmö Opera and the nearby Sankt Johannes kyrka, showcasing elegant civic and religious architecture. The evening winds down beautifully as you bike to the tranquil Malmö synagoga and finish at Sankta Maria kyrka.",
+        "sv": "Börja din cykeltur genom Malmö med att utforska det lilla men historiskt rika Ebbas hus i stadens centrum. Vid lunchtid trampar du förbi den storslagna Sankt Petri kyrka innan du fortsätter till den välkända Malmö konsthall för att suga åt dig samtidskonst. Eftermiddagens tur förbinder dig med ikoniska Malmö Opera och den närliggande Sankt Johannes kyrka och visar upp elegant civilt och religiöst byggnadsverk. Kvällen avslutas när du cyklar till den lugna Malmö synagoga och slutar vid Sankta Maria kyrka."
       },
       "variants": {
         "rainy": {
@@ -534,7 +588,8 @@
             "de": "Trotz Regen erkunden wir Malmö auf zwei Rädern, wobei wir häufige Stopps in den Kirchen und Museen einlegen. Mittags erreichen wir die Oper, wo man das Rad trocken abstellen kann. Nachmittags radeln wir vorsichtig über nasse Wege zur Synagoge. Der Tag endet im Süden der Stadt, wobei die vielen geschützten Haltepunkte die Fahrt trotz des feuchten Wetters angenehm machen.",
             "hu": "Az eső ellenére két keréken fedezzük fel Malmőt, gyakori pihenőket tartva a templomok és múzeumok oltalmában. Délben az Operához érünk, ahol fedett helyen hagyhatjuk a bringát. Délután óvatosan tekerünk a vizes utakon a zsinagóga felé. A nap a város déli részén ér véget; a sok fedett megálló kellemessé teszi az utat a borús időben is.",
             "ro": "În ciuda ploii, explorăm Malmö pe două roți, făcând opriri dese în biserici și muzee. La prânz ajungem la Operă, unde putem lăsa bicicleta la adăpost. După-amiaza pedalăm cu grijă pe pistele ude spre sinagogă. Ziua se încheie în sudul orașului; numeroasele opriri acoperite fac drumul plăcut chiar și pe vreme umedă.",
-            "en": "Despite the rain, we explore Malmö on two wheels, making frequent stops in the shelter of churches and museums. At noon we reach the Opera, where bikes can be parked under cover. Afternoon cycling requires caution on wet paths toward the synagogue. The day ends in the south; the many indoor stops make the ride enjoyable despite the damp weather."
+            "en": "Despite the rain, we explore Malmö on two wheels, making frequent stops in the shelter of churches and museums. At noon we reach the Opera, where bikes can be parked under cover. Afternoon cycling requires caution on wet paths toward the synagogue. The day ends in the south; the many indoor stops make the ride enjoyable despite the damp weather.",
+            "sv": "Trots regnet utforskar vi Malmö på två hjul och gör frekventa stopp i skyddet under kyrkor och museer. Vid lunchtid når vi Operan där cyklar kan parkeras under tak. Eftermiddagens cykling kräver försiktighet på blöta stigar mot synagogan. Dagen slutar i söder; de många inomhusstoppen gör turen njutbar trots det fuktiga vädret."
           },
           "stops": [
             {
@@ -542,13 +597,15 @@
                 "de": "Ebbas hus",
                 "hu": "Ebbas hus",
                 "ro": "Ebbas hus",
-                "en": "Ebbas hus"
+                "en": "Ebbas hus",
+                "sv": "Ebbas hus"
               },
               "tip_5lang": {
                 "de": "Beginnen Sie die Tour in der gemütlichen Stube; nutzen Sie die Zeit drinnen, um Ihre Regenbekleidung zu ordnen, bevor Sie zum nächsten Halt radeln.",
                 "hu": "Kezdje a túrát a barátságos szobában; használja ki a bent töltött időt az esőfelszerelés igazítására, mielőtt továbbtekerne a következő állomáshoz.",
                 "ro": "Începeți turul în interiorul primitor; folosiți timpul petrecut aici pentru a vă ajusta echipamentul de ploaie înainte de a pedala mai departe.",
-                "en": "Start the tour in the cozy rooms; use the time inside to adjust your rain gear before cycling to the next stop through the wet streets."
+                "en": "Start the tour in the cozy rooms; use the time inside to adjust your rain gear before cycling to the next stop through the wet streets.",
+                "sv": "Starta rundturen i de mysiga rummen; använd tiden inomhus för att anpassa ditt regnskydd innan du cyklar vidare genom de våta gatorna."
               }
             },
             {
@@ -556,13 +613,15 @@
                 "de": "Sankt Petri kyrka",
                 "hu": "Sankt Petri kyrka",
                 "ro": "Sankt Petri kyrka",
-                "en": "Sankt Petri kyrka"
+                "en": "Sankt Petri kyrka",
+                "sv": "Sankt Petri kyrka"
               },
               "tip_5lang": {
                 "de": "Parken Sie Ihr Rad an den Ständern nahe dem Haupteingang und wärmen Sie sich in der trockenen Kathedrale auf, während der stärkste Schauer abzieht.",
                 "hu": "Parkolja le a kerékpárt a főbejárat melletti tárolóknál, és melegedjen fel a száraz katedrálisban, amíg a legerősebb zápor elvonul a város felett.",
                 "ro": "Parcați bicicleta la rastelurile de lângă intrarea principală și încălziți-vă în catedrala uscată până când trece aversa cea mai puternică.",
-                "en": "Park your bike at the racks near the main entrance and warm up in the dry cathedral while the heaviest shower passes over the city."
+                "en": "Park your bike at the racks near the main entrance and warm up in the dry cathedral while the heaviest shower passes over the city.",
+                "sv": "Parkera cykeln vid ställena nära huvudingången och värm upp i den torra katedralen medan den kraftigaste skuren passerar över staden."
               }
             },
             {
@@ -570,13 +629,15 @@
                 "de": "Malmö konsthall",
                 "hu": "Malmö konsthall",
                 "ro": "Malmö konsthall",
-                "en": "Malmö konsthall"
+                "en": "Malmö konsthall",
+                "sv": "Malmö konsthall"
               },
               "tip_5lang": {
                 "de": "Die hellen, trockenen Galerien sind perfekt für eine längere Pause; es gibt oft überdachte Fahrradabstellplätze in der unmittelbaren Nähe des Eingangs.",
                 "hu": "A világos, száraz galériák tökéletesek egy hosszabb pihenőre; az épület közvetlen közelében gyakran találni fedett kerékpártárolókat a látogatóknak.",
                 "ro": "Galeriile luminoase și uscate sunt perfecte pentru o pauză lungă; există adesea rastele acoperite în imediata apropiere a intrării pentru vizitatori.",
-                "en": "The bright, dry galleries are perfect for a longer break; look for covered bike racks in the immediate vicinity of the entrance to keep your seat dry."
+                "en": "The bright, dry galleries are perfect for a longer break; look for covered bike racks in the immediate vicinity of the entrance to keep your seat dry.",
+                "sv": "De ljusa, torra gallerierna är perfekta för en längre paus; leta efter täckta cykelställ i omedelbar närhet till ingången för att hålla sadeln torr."
               }
             },
             {
@@ -584,13 +645,15 @@
                 "de": "Malmö Opera",
                 "hu": "Malmö Opera",
                 "ro": "Malmö Opera",
-                "en": "Malmö Opera"
+                "en": "Malmö Opera",
+                "sv": "Malmö Opera"
               },
               "tip_5lang": {
                 "de": "Das weitläufige Vordach der Oper bietet exzellenten Schutz für Sie und Ihr Rad; genießen Sie die moderne Architektur kurzzeitig von draußen im Trockenen.",
                 "hu": "Az Opera széles előteteje kiváló védelmet nyújt Önnek és kerékpárjának is; élvezze a modern építészetet egy rövid ideig a szárazból szemlélve.",
                 "ro": "Copertina largă a Operei oferă protecție excelentă atât pentru dumneavoastră, cât și pentru bicicletă; admirați arhitectura modernă stând la adăpost.",
-                "en": "The Opera's wide canopy provides excellent shelter for both you and your bike; enjoy the modern architecture for a short time while staying dry."
+                "en": "The Opera's wide canopy provides excellent shelter for both you and your bike; enjoy the modern architecture for a short time while staying dry.",
+                "sv": "Operans breda takkupa ger utmärkt skydd för både dig och din cykel; njut av den moderna arkitekturen en stund medan du håller dig torr."
               }
             },
             {
@@ -598,13 +661,15 @@
                 "de": "Sankt Johannes kyrka",
                 "hu": "Sankt Johannes kyrka",
                 "ro": "Sankt Johannes kyrka",
-                "en": "Sankt Johannes kyrka"
+                "en": "Sankt Johannes kyrka",
+                "sv": "Sankt Johannes kyrka"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie den prachtvollen Innenraum dieser Jugendstilkirche als regenfesten Stopp; achten Sie auf nasse Blätter auf den Wegen rund um den St. Johannesplan.",
                 "hu": "Használja ki e szecessziós templom pompás belső terét esőbiztos megállóként; ügyeljen a vizes levelekre a kerékpárúton a St. Johannesplan körül.",
                 "ro": "Folosiți interiorul splendid al acestei biserici Art Nouveau ca oprire ferită de ploaie; atenție la frunzele ude de pe pistele din jurul pieței.",
-                "en": "Utilize the grand interior of this Art Nouveau church as a rainproof stop; watch out for wet leaves on the bike paths around St. Johannesplan."
+                "en": "Utilize the grand interior of this Art Nouveau church as a rainproof stop; watch out for wet leaves on the bike paths around St. Johannesplan.",
+                "sv": "Använd det storslagna interiören i denna jugendkyrka som ett regnsäkert stopp; akta dig för blöta löv på cykelvägarna runt St. Johannesplan."
               }
             },
             {
@@ -612,13 +677,15 @@
                 "de": "Malmö synagoga",
                 "hu": "Malmö synagoga",
                 "ro": "Malmö synagoga",
-                "en": "Malmö synagoga"
+                "en": "Malmö synagoga",
+                "sv": "Malmö synagoga"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie die maurischen Details der Fassade schnell vom Rad aus; die umliegenden Straßen können bei Regen durch Kopfsteinpflaster rutschig sein.",
                 "hu": "Csodálja meg a homlokzat mór részleteit gyorsan a nyeregből; a környező utcák macskakövei esőben rendkívül csúszóssá válhatnak a gumik számára.",
                 "ro": "Admirați detaliile maure ale fațadei rapid de pe bicicletă; străzile din jur cu piatră cubică pot fi foarte alunecoase când sunt umede.",
-                "en": "Admire the Moorish details of the facade quickly from your bike; the cobblestones on surrounding streets can be very slippery for tires when wet."
+                "en": "Admire the Moorish details of the facade quickly from your bike; the cobblestones on surrounding streets can be very slippery for tires when wet.",
+                "sv": "Beundra snabbt de moriska detaljerna i fasaden från cykeln; kullerstensgatorna runtom kan vara mycket hala för däcken när de är blöta."
               }
             },
             {
@@ -626,13 +693,15 @@
                 "de": "Sankta Maria kyrka",
                 "hu": "Sankta Maria kyrka",
                 "ro": "Sankta Maria kyrka",
-                "en": "Sankta Maria kyrka"
+                "en": "Sankta Maria kyrka",
+                "sv": "Sankta Maria kyrka"
               },
               "tip_5lang": {
                 "de": "Beenden Sie Ihre Tour in dieser modernen Kirche; wischen Sie den Sattel vor der Heimfahrt gründlich ab, falls das Rad draußen im Regen stand.",
                 "hu": "Zárja a túrát ebben a modern templomban; alaposan törölje le a nyerget a hazaút előtt, ha a kerékpár kint maradt az esőben a látogatás alatt.",
                 "ro": "Încheiați turul în această biserică modernă; ștergeți bine șaua înainte de drumul spre casă dacă bicicleta a stat afară în ploaie.",
-                "en": "End your tour in this modern church; wipe your saddle thoroughly before the ride home if the bike was left outside in the rain during your visit."
+                "en": "End your tour in this modern church; wipe your saddle thoroughly before the ride home if the bike was left outside in the rain during your visit.",
+                "sv": "Avsluta din tur i denna moderna kyrka; torka av din sadel grundligt innan hemfärd om cykeln stått ute i regnet under besöket."
               }
             }
           ]
@@ -642,7 +711,8 @@
             "de": "Bei winterlichen Temperaturen radeln wir durch Malmö, wobei wir uns auf die gut geräumten Radwege verlassen. Wir starten morgens im Zentrum und nutzen die Museen als warme Etappenziele. Da es früh dunkel wird, achten wir auf eine funktionierende Beleuchtung. Der Tag endet im Süden der Stadt, wobei die kalte, klare Luft die Fahrt zwischen den historischen Orten besonders erfrischend macht.",
             "hu": "Téli hőmérséklet mellett tekerünk végig Malmőn, bízva a jól takarított kerékpárutakban. Reggel a központban kezdünk, és a múzeumokat használjuk melegedőpontként. Mivel korán sötétedik, figyelünk a működő világításra. A nap a város déli részén ér véget; a hideg, tiszta levegő frissítővé teszi az utat a történelmi helyszínek között.",
             "ro": "Pedalăm prin Malmö la temperaturi de iarnă, bazându-ne pe pistele bine deszăpezite. Începem dimineața în centru și folosim muzeele ca puncte de încălzire. Deoarece se întunecă devreme, verificăm funcționarea luminilor. Ziua se încheie în sud; aerul rece și curat face drumul între siturile istorice deosebit de revigorant.",
-            "en": "We cycle through Malmö in winter temperatures, relying on the well-cleared bike paths. Starting downtown, we use museums as warm pit stops. As darkness falls early, functional lights are essential for the final legs. The day ends in the south; the cold, crisp air makes the ride between historic sites particularly refreshing."
+            "en": "We cycle through Malmö in winter temperatures, relying on the well-cleared bike paths. Starting downtown, we use museums as warm pit stops. As darkness falls early, functional lights are essential for the final legs. The day ends in the south; the cold, crisp air makes the ride between historic sites particularly refreshing.",
+            "sv": "Vi cyklar genom Malmö i vintertemperaturer och förlitar oss på de välrensade cykelbanorna. Med start i centrum använder vi museer som varma pausställen. När mörkret faller tidigt är fungerande lampor avgörande för de sista etapperna. Dagen slutar i söder; den kalla, krispiga luften gör cykelturen mellan historiska platser särskilt uppfriskande."
           },
           "stops": [
             {
@@ -650,13 +720,15 @@
                 "de": "Ebbas hus",
                 "hu": "Ebbas hus",
                 "ro": "Ebbas hus",
-                "en": "Ebbas hus"
+                "en": "Ebbas hus",
+                "sv": "Ebbas hus"
               },
               "tip_5lang": {
                 "de": "Wärmen Sie sich in der historischen Stube auf, bevor Sie die Fahrt antreten; tragen Sie windfeste Handschuhe, da der Fahrtwind im Winter sehr beißt.",
                 "hu": "Melegedjen fel a történelmi szobában a túra megkezdése előtt; viseljen szélálló kesztyűt, mert a menetszél télen rendkívül fagyos lehet a kormányon.",
                 "ro": "Încălziți-vă în camera istorică înainte de a porni la drum; purtați mănuși rezistente la vânt, deoarece curentul de aer este foarte tăios iarna.",
-                "en": "Warm up in the historic room before starting your ride; wear windproof gloves, as the biting winter wind can be very harsh while cycling."
+                "en": "Warm up in the historic room before starting your ride; wear windproof gloves, as the biting winter wind can be very harsh while cycling.",
+                "sv": "Värm dig i det historiska rummet innan du börjar din tur; använd vindtäta handskar eftersom den bitande vintervinden kan vara mycket hård när du cyklar."
               }
             },
             {
@@ -664,13 +736,15 @@
                 "de": "Sankt Petri kyrka",
                 "hu": "Sankt Petri kyrka",
                 "ro": "Sankt Petri kyrka",
-                "en": "Sankt Petri kyrka"
+                "en": "Sankt Petri kyrka",
+                "sv": "Sankt Petri kyrka"
               },
               "tip_5lang": {
                 "de": "Genießen Sie die ruhige Wintermorgendämmerung in der Kirche; achten Sie beim Abstellen des Rades auf vereiste Stellen auf dem gepflasterten Kirchplatz.",
                 "hu": "Élvezze a csendes téli hajnalt a templomban; a kerékpár lezárásakor ügyeljen a jeges foltokra a macskaköves templomtéren a balesetek elkerülése érdekében.",
                 "ro": "Bucurați-vă de liniștea dimineții de iarnă în biserică; atenție la petele de gheață din piața pavată atunci când parcați și încuiați bicicleta.",
-                "en": "Enjoy the quiet winter dawn in the church; watch out for icy patches on the cobbled church square when parking and locking your bike."
+                "en": "Enjoy the quiet winter dawn in the church; watch out for icy patches on the cobbled church square when parking and locking your bike.",
+                "sv": "Njut av den tysta vintergryningen i kyrkan; akta dig för isfläckar på den kullerstensbelagda kyrkplatsen när du parkerar och låser cykeln."
               }
             },
             {
@@ -678,13 +752,15 @@
                 "de": "Malmö konsthall",
                 "hu": "Malmö konsthall",
                 "ro": "Malmö konsthall",
-                "en": "Malmö konsthall"
+                "en": "Malmö konsthall",
+                "sv": "Malmö konsthall"
               },
               "tip_5lang": {
                 "de": "Ein idealer Ort, um die Glieder aufzuwärmen und moderne Kunst zu genießen; nutzen Sie die Garderobe für Ihre schweren Wintersachen während des Besuchs.",
                 "hu": "Ideális hely a végtagok felmelegítésére és a modern művészet élvezetére; használja a ruhatárat a nehéz téli kabátok és sálak számára a látogatás idejére.",
                 "ro": "Un loc ideal pentru a vă dezmorți și a admira arta modernă; folosiți garderoba pentru hainele groase de iarnă pe durata vizitei în galerie.",
-                "en": "An ideal place to warm up your limbs and enjoy modern art; use the cloakroom for your heavy winter gear during your stay in the gallery."
+                "en": "An ideal place to warm up your limbs and enjoy modern art; use the cloakroom for your heavy winter gear during your stay in the gallery.",
+                "sv": "En idealisk plats för att värma upp lederna och njuta av modern konst; använd garderoben för din tunga vinterutrustning under vistelsen i galleriet."
               }
             },
             {
@@ -692,13 +768,15 @@
                 "de": "Malmö Opera",
                 "hu": "Malmö Opera",
                 "ro": "Malmö Opera",
-                "en": "Malmö Opera"
+                "en": "Malmö Opera",
+                "sv": "Malmö Opera"
               },
               "tip_5lang": {
                 "de": "Das beleuchtete Opernhaus wirkt in der frühen winterlichen Dunkelheit prachtvoll; schalten Sie spätestens hier Ihr Fahrradlicht für die Weiterfahrt ein.",
                 "hu": "A kivilágított operaház pompás látvány a korai téli sötétségben; legkésőbb itt kapcsolja be a kerékpár világítását a biztonságos továbbhaladáshoz.",
                 "ro": "Opera iluminată arată splendid în întunericul timpuriu de iarnă; aprindeți luminile bicicletei cel târziu aici pentru a continua drumul în siguranță.",
-                "en": "The illuminated Opera house looks magnificent in the early winter darkness; turn on your bike lights here at the latest for a safe onward journey."
+                "en": "The illuminated Opera house looks magnificent in the early winter darkness; turn on your bike lights here at the latest for a safe onward journey.",
+                "sv": "Den upplysta operahuset ser storslaget ut i den tidiga vintermörkret; tänd dina cykellampor här senast för en säker vidare färd."
               }
             },
             {
@@ -706,13 +784,15 @@
                 "de": "Sankt Johannes kyrka",
                 "hu": "Sankt Johannes kyrka",
                 "ro": "Sankt Johannes kyrka",
-                "en": "Sankt Johannes kyrka"
+                "en": "Sankt Johannes kyrka",
+                "sv": "Sankt Johannes kyrka"
               },
               "tip_5lang": {
                 "de": "Die prachtvolle Architektur bietet einen windgeschützten Halt; parken Sie Ihr Rad vorsichtig auf dem oft rutschigen Untergrund des Vorplatzes.",
                 "hu": "A pompás építészet szélvédett megállót kínál a túra során; parkolja le óvatosan a kerékpárt az előtér gyakran csúszós vagy havas talaján.",
                 "ro": "Arhitectura splendidă oferă o oprire ferită de vântul tăios; parcați bicicleta cu atenție pe suprafața adesea alunecoasă a pieței din față.",
-                "en": "The grand architecture offers a wind-sheltered stop; park your bike carefully on the often slippery or snowy surface of the front square."
+                "en": "The grand architecture offers a wind-sheltered stop; park your bike carefully on the often slippery or snowy surface of the front square.",
+                "sv": "Den storslagna arkitekturen erbjuder ett vindskyddat stopp; parkera cykeln försiktigt på den ofta hala eller snötäckta ytan framför kyrkan."
               }
             },
             {
@@ -720,13 +800,15 @@
                 "de": "Malmö synagoga",
                 "hu": "Malmö synagoga",
                 "ro": "Malmö synagoga",
-                "en": "Malmö synagoga"
+                "en": "Malmö synagoga",
+                "sv": "Malmö synagoga"
               },
               "tip_5lang": {
                 "de": "Ein schneller Halt, um das markante Gebäude im Abendlicht zu bewundern; achten Sie auf den kalten Wind, der durch die geraden Straßen der Umgebung zieht.",
                 "hu": "Gyors megálló az épület esti fényekben való megcsodálására; ügyeljen a csípős szélre, amely gyakran felerősödik a környék egyenes utcái között.",
                 "ro": "O oprire rapidă pentru a admira clădirea în luminile serii; atenție la vântul rece care suflă cu putere pe străzile drepte din împrejurimi.",
-                "en": "A quick stop to admire the striking building in the evening lights; watch out for the biting wind that often picks up in the straight surrounding streets."
+                "en": "A quick stop to admire the striking building in the evening lights; watch out for the biting wind that often picks up in the straight surrounding streets.",
+                "sv": "Ett snabbt stopp för att beundra den iögonfallande byggnaden i kvällsbelysning; se upp för den bitande vinden som ofta tar fart i de raka kringliggande gatorna."
               }
             },
             {
@@ -734,13 +816,15 @@
                 "de": "Sankta Maria kyrka",
                 "hu": "Sankta Maria kyrka",
                 "ro": "Sankta Maria kyrka",
-                "en": "Sankta Maria kyrka"
+                "en": "Sankta Maria kyrka",
+                "sv": "Sankta Maria kyrka"
               },
               "tip_5lang": {
                 "de": "Beenden Sie die Tour im warmen Innenraum dieser modernen Kirche; prüfen Sie vor der Abfahrt noch einmal den Reifendruck, der bei Kälte oft sinkt.",
                 "hu": "Zárja a túrát e modern templom meleg belső terében; indulás előtt ellenőrizze a gumiabroncsok nyomását, amely a nagy hidegben gyakran lecsökkenhet.",
                 "ro": "Încheiați turul în interiorul cald al acestei biserici moderne; verificați presiunea pneurilor înainte de plecare, deoarece scade adesea la ger.",
-                "en": "End your tour in the warm interior of this modern church; check your tire pressure before heading home, as it often drops in extreme cold."
+                "en": "End your tour in the warm interior of this modern church; check your tire pressure before heading home, as it often drops in extreme cold.",
+                "sv": "Avsluta din tur i den varma interiören i denna moderna kyrka; kontrollera däcktrycket innan du åker hem eftersom det ofta sjunker i extrem kyla."
               }
             }
           ]
@@ -760,7 +844,8 @@
             "de": "Teknikens och sjöfartens hus",
             "hu": "Teknikens och sjöfartens hus",
             "ro": "Teknikens och sjöfartens hus",
-            "en": "Teknikens och sjöfartens hus"
+            "en": "Teknikens och sjöfartens hus",
+            "sv": "Teknikens och sjöfartens hus"
           },
           "coords": [
             12.982778,
@@ -775,7 +860,8 @@
             "de": "Klettern Sie in diesem Technikmuseum an Bord eines echten U-Bootes, aber starten Sie früh, um lauten Schulklassen zur Mittagszeit zu entgehen.",
             "hu": "Másszon be egy igazi tengeralattjáróba ebben a múzeumban, de érkezzen korán, hogy elkerülje a délben érkező hangos iskolás csoportokat.",
             "ro": "Urcați la bordul unui submarin real la acest muzeu, dar începeți devreme pentru a evita grupurile școlare zgomotoase care sosesc la prânz.",
-            "en": "Climb aboard a real submarine at this immersive technology museum, but start early to avoid the loud school groups that arrive by noon."
+            "en": "Climb aboard a real submarine at this immersive technology museum, but start early to avoid the loud school groups that arrive by noon.",
+            "sv": "Klättra ombord på en verklig ubåt på detta uppslukande tekniska museum, men börja tidigt för att undvika de högljudda skolgrupperna som anländer vid lunchtid."
           }
         },
         {
@@ -783,7 +869,8 @@
             "de": "Länsresidenset Malmö",
             "hu": "Länsresidenset Malmö",
             "ro": "Länsresidenset Malmö",
-            "en": "Länsresidenset Malmö"
+            "en": "Länsresidenset Malmö",
+            "sv": "Länsresidenset Malmö"
           },
           "coords": [
             13.001007,
@@ -798,7 +885,8 @@
             "de": "Bestaunen Sie die königlichen Fassaden dieser Residenz und machen Sie die besten Fotos vom Platz aus, bevor die Nachmittagsschatten fallen.",
             "hu": "Gyönyörködjön a kormányzói rezidencia királyi homlokzatában, és lője a legjobb fotókat a térről, még a délutáni árnyékok beállta előtt.",
             "ro": "Minunați-vă de fațadele regale ale acestei reședințe și faceți cele mai bune fotografii din piață chiar înainte să cadă umbrele după-amiezii.",
-            "en": "Marvel at the regal facades of this governor's residence, and capture the best photos from the square just before the afternoon shadows fall."
+            "en": "Marvel at the regal facades of this governor's residence, and capture the best photos from the square just before the afternoon shadows fall.",
+            "sv": "Beundra de kungliga fasaderna på detta länsresidens och ta de bästa fotona från torget strax innan eftermiddagsskuggorna faller."
           }
         },
         {
@@ -806,7 +894,8 @@
             "de": "Malmö konsthall",
             "hu": "Malmö konsthall",
             "ro": "Malmö konsthall",
-            "en": "Malmö konsthall"
+            "en": "Malmö konsthall",
+            "sv": "Malmö konsthall"
           },
           "coords": [
             12.99924,
@@ -821,7 +910,8 @@
             "de": "Entdecken Sie zeitgenössische Kunst in diesem weitläufigen, hellen Raum und trinken Sie einen Kaffee im hoch bewerteten Innenhof-Café nebenan.",
             "hu": "Fedezze fel a kortárs művészetet ebben a hatalmas, világos térben, és igyon egy kávét a kiváló értékelésű szomszédos udvari kávézóban.",
             "ro": "Explorați arta contemporană în acest spațiu vast luminat natural și beți o cafea la apreciata cafenea din curtea adiacentă.",
-            "en": "Explore cutting-edge contemporary art in this vast naturally lit space, and grab a coffee at the highly-rated adjacent courtyard café."
+            "en": "Explore cutting-edge contemporary art in this vast naturally lit space, and grab a coffee at the highly-rated adjacent courtyard café.",
+            "sv": "Utforska samtidskonst i framkant i detta rymliga, naturligt ljusa rum och ta en kaffe i den mycket omtyckta gårdskaféet intill."
           }
         },
         {
@@ -829,7 +919,8 @@
             "de": "Oscar Olsson-museet",
             "hu": "Oscar Olsson-museet",
             "ro": "Oscar Olsson-museet",
-            "en": "Oscar Olsson-museet"
+            "en": "Oscar Olsson-museet",
+            "sv": "Oscar Olsson-museet"
           },
           "coords": [
             13.010343,
@@ -844,7 +935,8 @@
             "de": "Tauchen Sie in diesem Museum in die Geschichte der schwedischen Erwachsenenbildung ein und lesen Sie die Schautafeln, um die Bedeutung zu erfassen.",
             "hu": "Merüljön el a svéd felnőttképzés történetében ebben az egyedülálló múzeumban, és olvassa el a bevezető táblákat a társadalmi hatás megértéséhez.",
             "ro": "Cufundați-vă în istoria educației adulților la acest muzeu unic și citiți plăcuțele introductive pentru a-i înțelege adevăratul impact social.",
-            "en": "Immerse yourself in the adult education history of Sweden at this unique museum, and read the introductory plaques to grasp its true social impact."
+            "en": "Immerse yourself in the adult education history of Sweden at this unique museum, and read the introductory plaques to grasp its true social impact.",
+            "sv": "Fördjupa dig i folkbildningens historia i Sverige på detta unika museum och läs introduktionstavlorna för att förstå dess verkliga samhällspåverkan."
           }
         },
         {
@@ -852,7 +944,8 @@
             "de": "Heliga Trefaldighetskyrkan",
             "hu": "Heliga Trefaldighetskyrkan",
             "ro": "Heliga Trefaldighetskyrkan",
-            "en": "Heliga Trefaldighetskyrkan"
+            "en": "Heliga Trefaldighetskyrkan",
+            "sv": "Heliga Trefaldighetskyrkan"
           },
           "coords": [
             13.005633,
@@ -867,7 +960,8 @@
             "de": "Betrachten Sie die klaren, modernen Linien der Dreifaltigkeitskirche und kommen Sie, wenn die Nachmittagssonne auf die Eingangsfenster trifft.",
             "hu": "Figyelje meg a Szentháromság-templom modern építészeti vonalait, és látogasson el ide, amikor a délutáni nap a bejárati ablakokra süt.",
             "ro": "Observați liniile arhitecturale moderne ale Bisericii Sfânta Treime și vizitați când soarele de după-amiază lovește ferestrele proeminente.",
-            "en": "Observe the distinct modern architectural lines of the Holy Trinity Church, and visit when the afternoon sun hits the prominent entrance windows."
+            "en": "Observe the distinct modern architectural lines of the Holy Trinity Church, and visit when the afternoon sun hits the prominent entrance windows.",
+            "sv": "Observera de distinkta moderna arkitekturlinjerna i Heliga Trefaldighetskyrkan och besök när eftermiddagssolen når de framträdande entréfönstren."
           }
         },
         {
@@ -875,7 +969,8 @@
             "de": "Sankt Matteus kyrka",
             "hu": "Sankt Matteus kyrka",
             "ro": "Sankt Matteus kyrka",
-            "en": "Sankt Matteus kyrka"
+            "en": "Sankt Matteus kyrka",
+            "sv": "Sankt Matteus kyrka"
           },
           "coords": [
             13.021336,
@@ -890,7 +985,8 @@
             "de": "Genießen Sie das harmonische Design dieser Kirche aus einer späteren Epoche, die einen tollen architektonischen Kontrast zu den älteren Bauten bildet.",
             "hu": "Csodálja meg a későbbi korszakból származó templom harmonikus dizájnját, amely kiváló építészeti kontrasztot alkot az öregebb katedrálisokkal.",
             "ro": "Admirați designul armonios al acestei biserici din perioada ulterioară, un contrast arhitectural excelent față de catedralele mai vechi ale orașului.",
-            "en": "Take in the harmonious design and welcoming ambiance of this later-period church, an excellent architectural contrast to Malmö's older cathedrals."
+            "en": "Take in the harmonious design and welcoming ambiance of this later-period church, an excellent architectural contrast to Malmö's older cathedrals.",
+            "sv": "Ta in den harmoniska utformningen och det välkomnande lugnet i denna senare tids kyrka, en utmärkt arkitektonisk kontrast till Malmös äldre katedraler."
           }
         }
       ],
@@ -898,7 +994,8 @@
         "de": "Ihre Autotour beginnt am weitläufigen Technik- und Schifffahrtsmuseum, wo Sie dank guter Parkmöglichkeiten Malmös maritime Geschichte erkunden können. Mittags fahren Sie zur stattlichen Länsresidenset und weiter zur renommierten Malmö konsthall für schnelle Einblicke in moderne Kunst. Am Nachmittag fahren Sie zum einzigartigen Oscar Olsson-museet, um in einer ruhigeren Umgebung tiefer in die Kulturgeschichte einzutauchen. Wir runden die Route ab, indem wir zur Heliga Trefaldighetskyrkan und zur Sankt Matteus kyrka navigieren.",
         "hu": "Autós túránk a kiterjedt technológiai és tengerészeti múzeumnál kezdődik, ahol a kényelmes parkolás után felfedezhetjük Malmö múltját. Délben a méltóságteljes Länsresidenset, majd a Malmö konsthall felé autózunk, ahol a közeli parkolóknak hála könnyen élvezhetjük a modern művészetet. Délután a különleges Oscar Olsson-museet kínál csendesebb környezetet a helyi kultúrtörténet megismeréséhez. A programot a gyönyörű építésű Heliga Trefaldighetskyrkan és a Sankt Matteus kyrka felkeresésével zárjuk a város külsőbb részein.",
         "ro": "Turul auto începe la vastul muzeu tehnologic și maritim, oferindu-vă timp să explorați istoria cu o parcare ușoară. Prânzul vă aduce la impunătoarea Länsresidenset și apoi la renumita Malmö konsthall, unde parcarea permite un acces rapid la artă modernă. După-amiaza, veți conduce până la unicul Oscar Olsson-museet pentru a pătrunde mai adânc în istoria culturală locală. Încheiem itinerariul navigând către frumos construita Heliga Trefaldighetskyrkan și impunătoarea Sankt Matteus kyrka din zonele mai liniștite.",
-        "en": "Your driving tour begins at the expansive Teknikens och sjöfartens hus, giving you ample time to explore Malmö's maritime history with easy parking. Midday brings you to the stately Länsresidenset and then down to the renowned Malmö konsthall, where parking nearby allows quick access to modern art. In the afternoon, you'll drive out to the unique Oscar Olsson-museet to delve deeper into local cultural history in a quieter setting. We wrap up the itinerary by navigating to the beautifully constructed Heliga Trefaldighetskyrkan and Sankt Matteus kyrka."
+        "en": "Your driving tour begins at the expansive Teknikens och sjöfartens hus, giving you ample time to explore Malmö's maritime history with easy parking. Midday brings you to the stately Länsresidenset and then down to the renowned Malmö konsthall, where parking nearby allows quick access to modern art. In the afternoon, you'll drive out to the unique Oscar Olsson-museet to delve deeper into local cultural history in a quieter setting. We wrap up the itinerary by navigating to the beautifully constructed Heliga Trefaldighetskyrkan and Sankt Matteus kyrka.",
+        "sv": "Din bilrundtur börjar vid det rymliga Teknikens och sjöfartens hus, vilket ger gott om tid att utforska Malmös maritima historia med enkel parkering. Mitt på dagen kommer du till det storslagna Länsresidenset och sedan vidare till den välkända Malmö konsthall, där parkering i närheten ger snabb tillgång till modern konst. På eftermiddagen kör du ut till det unika Oscar Olsson-museet för att fördjupa dig i lokal kulturhistoria i en lugnare miljö. Vi avslutar resan genom att köra till den vackert byggda Heliga Trefaldighetskyrkan och Sankt Matteus kyrka."
       },
       "variants": {
         "rainy": {
@@ -906,7 +1003,8 @@
             "de": "Im Auto erkunden wir Malmös Sehenswürdigkeiten bequem und trocken. Wir starten beim Technikmuseum, wo es nahegelegene Parkplätze gibt. Mittags fahren wir zur Kunsthalle, wobei die kurzen Wege zwischen Parkplatz und Eingang ideal bei starkem Regen sind. Den Tag beenden wir bei der St. Matthäus-Kirche, wobei wir die Stadt bequem durch die regennassen Scheiben betrachten.",
             "hu": "Autóval kényelmesen és szárazon fedezzük fel Malmő nevezetességeit. A technikai múzeumnál kezdünk, ahol a közeli parkolók segítik a bejutást. Délben a műcsarnokhoz hajtunk; a parkoló és a bejárat közötti rövid táv ideális heves esőzéskor. A napot a Szent Mátyás-templomnál zárjuk, a várost az ablaktörlők mögül, biztonságban szemlélve.",
             "ro": "Cu mașina, explorăm atracțiile din Malmö confortabil și la adăpost. Începem la muzeul tehnicii, profitând de parcările din apropiere. La prânz mergem la galeria de artă; distanțele scurte între parcare și intrare sunt ideale pe ploaie torențială. Încheiem ziua la biserica Sf. Matei, privind orașul prin parbrizul stropit de ploaie.",
-            "en": "By car, we explore Malmö's sights comfortably and dry. We start at the technology museum with nearby parking. At noon, we drive to the art gallery; the short distance between parking and entrance is ideal for heavy rain. The day ends at St. Matthew's Church, viewing the rainy city safely from behind the windshield."
+            "en": "By car, we explore Malmö's sights comfortably and dry. We start at the technology museum with nearby parking. At noon, we drive to the art gallery; the short distance between parking and entrance is ideal for heavy rain. The day ends at St. Matthew's Church, viewing the rainy city safely from behind the windshield.",
+            "sv": "Med bil utforskar vi Malmös sevärdheter bekvämt och torrt. Vi börjar vid teknikmuseet med parkering i närheten. Vid lunchtid kör vi till konsthallens, det korta avståndet mellan parkeringen och entrén är idealiskt vid kraftigt regn. Dagen avslutas vid Sankt Matteus kyrka, där man kan betrakta den regniga staden tryggt bakom vindrutan."
           },
           "stops": [
             {
@@ -914,13 +1012,15 @@
                 "de": "Teknikens och sjöfartens hus",
                 "hu": "Teknikens och sjöfartens hus",
                 "ro": "Teknikens och sjöfartens hus",
-                "en": "Teknikens och sjöfartens hus"
+                "en": "Teknikens och sjöfartens hus",
+                "sv": "Teknikens och sjöfartens hus"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie den großen Parkplatz direkt am Museum; so gelangen Sie fast trocken in die umfangreichen, überdachten Ausstellungen und das U-Boot.",
                 "hu": "Használja a közvetlenül a múzeumnál lévő nagy parkolót; így szinte teljesen szárazon juthat be a hatalmas, fedett kiállításokra és a tengeralattjáróhoz.",
                 "ro": "Folosiți parcarea mare direct de la muzeu; astfel veți ajunge aproape uscat la expozițiile acoperite vaste și la submarinul vizitabil.",
-                "en": "Use the large parking lot directly at the museum; this allows you to reach the extensive indoor exhibitions and the submarine almost completely dry."
+                "en": "Use the large parking lot directly at the museum; this allows you to reach the extensive indoor exhibitions and the submarine almost completely dry.",
+                "sv": "Använd den stora parkeringsplatsen direkt vid museet; det gör att du kan nå de omfattande inomhusutställningarna och ubåten nästan helt torr."
               }
             },
             {
@@ -928,13 +1028,15 @@
                 "de": "Länsresidenset Malmö",
                 "hu": "Länsresidenset Malmö",
                 "ro": "Länsresidenset Malmö",
-                "en": "Länsresidenset Malmö"
+                "en": "Länsresidenset Malmö",
+                "sv": "Länsresidenset Malmö"
               },
               "tip_5lang": {
                 "de": "Parken Sie in einem der Parkhäuser in der Nähe des Stortorget; der kurze Fußweg zum Residenzgebäude lässt sich auch bei Regen gut bewältigen.",
                 "hu": "Parkoljon a Stortorget közeli parkolóházak egyikében; a rezidenciához vezető rövid séta még heves esőzésben is könnyen és gyorsan teljesíthető.",
                 "ro": "Parcați într-una dintre parcările etajate de lângă Stortorget; scurta plimbare până la clădirea rezidenței este ușor de gestionat chiar și pe ploaie.",
-                "en": "Park in one of the parking garages near Stortorget; the short walk to the residence building is easily manageable even during a heavy downpour."
+                "en": "Park in one of the parking garages near Stortorget; the short walk to the residence building is easily manageable even during a heavy downpour.",
+                "sv": "Parkera i ett av parkeringshusen vid Stortorget; den korta promenaden till residensbyggnaden är lätt att klara även under ett kraftigt skyfall."
               }
             },
             {
@@ -942,13 +1044,15 @@
                 "de": "Malmö konsthall",
                 "hu": "Malmö konsthall",
                 "ro": "Malmö konsthall",
-                "en": "Malmö konsthall"
+                "en": "Malmö konsthall",
+                "sv": "Malmö konsthall"
               },
               "tip_5lang": {
                 "de": "In der Umgebung gibt es meist gute Parkmöglichkeiten; der Aufenthalt in der hellen Kunsthalle ist der perfekte Kontrast zum grauen Regenwetter draußen.",
                 "hu": "A környéken általában jó parkolási lehetőségek vannak; a világos műcsarnok tökéletes kontrasztot nyújt a kinti szürke és borús esős időhöz képest.",
                 "ro": "În zonă există de obicei opțiuni bune de parcare; șederea în galeria luminoasă este contrastul perfect pentru vremea gri și ploioasă de afară.",
-                "en": "There are usually good parking options in the area; staying in the bright art hall provides a perfect contrast to the gray rainy weather outside."
+                "en": "There are usually good parking options in the area; staying in the bright art hall provides a perfect contrast to the gray rainy weather outside.",
+                "sv": "Det finns vanligtvis bra parkeringsmöjligheter i området; att stanna inne i den ljusa konsthallen ger en perfekt kontrast till det grå och regniga vädret utanför."
               }
             },
             {
@@ -956,13 +1060,15 @@
                 "de": "Oscar Olsson-museet",
                 "hu": "Oscar Olsson-museet",
                 "ro": "Oscar Olsson-museet",
-                "en": "Oscar Olsson-museet"
+                "en": "Oscar Olsson-museet",
+                "sv": "Oscar Olsson-museet"
               },
               "tip_5lang": {
                 "de": "Suchen Sie einen Parkplatz in den Seitenstraßen; das kleine Museum bietet eine wunderbar trockene und intime Atmosphäre zum Kennenlernen der Geschichte.",
                 "hu": "Keressen parkolóhelyet a környező mellékutcákban; a kis múzeum csodálatosan száraz és meghitt környezetet biztosít a helyi történelem megismeréséhez.",
                 "ro": "Căutați un loc de parcare pe străzile laterale; micul muzeu oferă o atmosferă caldă și uscată pentru a descoperi istoria locală fascinantă.",
-                "en": "Look for a parking spot in the side streets; the small museum offers a wonderfully dry and intimate atmosphere to discover local history."
+                "en": "Look for a parking spot in the side streets; the small museum offers a wonderfully dry and intimate atmosphere to discover local history.",
+                "sv": "Sök efter en parkeringsplats i sidogatorna; det lilla museet erbjuder en underbart torr och intim atmosfär för att upptäcka lokal historia."
               }
             },
             {
@@ -970,13 +1076,15 @@
                 "de": "Heliga Trefaldighetskyrkan",
                 "hu": "Heliga Trefaldighetskyrkan",
                 "ro": "Heliga Trefaldighetskyrkan",
-                "en": "Heliga Trefaldighetskyrkan"
+                "en": "Heliga Trefaldighetskyrkan",
+                "sv": "Heliga Trefaldighetskyrkan"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie den Halt für eine besinnliche Pause im Trockenen; achten Sie beim Fahren in den umliegenden Wohngebieten auf tiefe Pfützen am Straßenrand.",
                 "hu": "Használja ki ezt a megállót egy csendes pihenőre a száraz templomban; a környező lakóövezetben vezetés közben ügyeljen az útszéli mély tócsákra.",
                 "ro": "Folosiți această oprire pentru o pauză liniștită la adăpost; atenție la bălțile adânci de pe marginea drumului când conduceți prin zonele rezidențiale.",
-                "en": "Use this stop for a peaceful break in the dry church; be careful of deep puddles on the roadside when driving through the surrounding residential areas."
+                "en": "Use this stop for a peaceful break in the dry church; be careful of deep puddles on the roadside when driving through the surrounding residential areas.",
+                "sv": "Använd detta stopp för en lugn paus i den torra kyrkan; var försiktig med djupa vattenpölar på vägkanten när du kör genom de omgivande bostadsområdena."
               }
             },
             {
@@ -984,13 +1092,15 @@
                 "de": "Sankt Matteus kyrka",
                 "hu": "Sankt Matteus kyrka",
                 "ro": "Sankt Matteus kyrka",
-                "en": "Sankt Matteus kyrka"
+                "en": "Sankt Matteus kyrka",
+                "sv": "Sankt Matteus kyrka"
               },
               "tip_5lang": {
                 "de": "Beenden Sie Ihre Tour in dieser modernen Kirche; das Auto ermöglicht eine trockene Heimreise, egal wie stark der Regen zum Abend hin zunimmt.",
                 "hu": "Zárja a túrát ebben a modern templomban; az autó lehetővé teszi a száraz hazajutást, bármennyire is erősödik meg az eső az este közeledtével.",
                 "ro": "Încheiați turul în această biserică modernă; mașina vă permite o călătorie spre casă uscată, indiferent cât de mult se întețește ploaia spre seară.",
-                "en": "End your tour in this modern church; the car allows for a dry journey home, no matter how much the rain intensifies towards the evening."
+                "en": "End your tour in this modern church; the car allows for a dry journey home, no matter how much the rain intensifies towards the evening.",
+                "sv": "Avsluta din tur i denna moderna kyrka; bilen möjliggör en torr hemresa oavsett hur mycket regnet tilltar mot kvällen."
               }
             }
           ]
@@ -1000,7 +1110,8 @@
             "de": "Im beheizten Auto lassen sich Malmös Highlights auch bei Frost entspannt besichtigen. Wir starten beim Technikmuseum und nutzen die kurzen Wege zur Wärme. Mittags besuchen wir die Kunsthalle, wobei das Auto uns schnell zwischen den fahrigen Winterwinden transportiert. Da die Dämmerung früh einsetzt, genießen wir die beleuchteten Kirchenfassaden zum Abschluss der Tour.",
             "hu": "A fűtött autóban a fagyos idő ellenére is pihentető Malmő felfedezése. A technikai múzeumnál kezdünk, kihasználva a közeli bejáratok előnyeit. Délután a műcsarnokot látogatjuk meg; az autó gyors védelmet nyújt a metsző téli szél ellen. Mivel korán sötétedik, a túra végén már a kivilágított templomhomlokzatokban gyönyörködünk.",
             "ro": "În mașina bine încălzită, explorăm atracțiile din Malmö chiar și pe ger. Începem la muzeul tehnicii, profitând de accesul rapid la căldură. La prânz vizităm galeria de artă; mașina ne protejează de vântul tăios de iarnă. Deoarece se întunecă devreme, admirăm fațadele iluminate ale bisericilor la finalul turului.",
-            "en": "In a heated car, Malmö's highlights are relaxing to visit even in freezing weather. Starting at the tech museum, we maximize our time in the warmth. Afternoon is spent at the art gallery, with the car providing quick shelter from the biting winter wind. As dusk falls early, we enjoy the illuminated church facades to conclude the tour."
+            "en": "In a heated car, Malmö's highlights are relaxing to visit even in freezing weather. Starting at the tech museum, we maximize our time in the warmth. Afternoon is spent at the art gallery, with the car providing quick shelter from the biting winter wind. As dusk falls early, we enjoy the illuminated church facades to conclude the tour.",
+            "sv": "I en uppvärmd bil är Malmös höjdpunkter avkopplande att besöka även i bitande kyla. Vi börjar på teknikmuseet och maximerar vår tid i värmen. Eftermiddagen tillbringas i konsthallen, med bilen som snabbt skydd mot den bitande vintervinden. När skymningen faller tidigt njuter vi av de upplysta kyrkfasaderna som avslutning på rundturen."
           },
           "stops": [
             {
@@ -1008,13 +1119,15 @@
                 "de": "Teknikens och sjöfartens hus",
                 "hu": "Teknikens och sjöfartens hus",
                 "ro": "Teknikens och sjöfartens hus",
-                "en": "Teknikens och sjöfartens hus"
+                "en": "Teknikens och sjöfartens hus",
+                "sv": "Teknikens och sjöfartens hus"
               },
               "tip_5lang": {
                 "de": "Parken Sie direkt auf dem Museumsgelände; die Ausstellungen sind gut beheizt und bieten einen idealen Startpunkt, um der morgendlichen Kälte zu entfliehen.",
                 "hu": "Parkoljon közvetlenül a múzeum területén; a kiállítótermek jól fűtöttek, így ideális kiindulópontot jelentenek a reggeli csípős hideg elöli menekülésre.",
                 "ro": "Parcați direct în zona muzeului; expozițiile sunt bine încălzite și oferă un punct de plecare ideal pentru a scăpa de gerul dimineții.",
-                "en": "Park directly on the museum grounds; the exhibitions are well-heated and provide an ideal starting point to escape the morning winter chill."
+                "en": "Park directly on the museum grounds; the exhibitions are well-heated and provide an ideal starting point to escape the morning winter chill.",
+                "sv": "Parkera direkt på museets område; utställningarna är väl uppvärmda och ger en idealisk start för att komma undan morgonens vinterkyla."
               }
             },
             {
@@ -1022,13 +1135,15 @@
                 "de": "Länsresidenset Malmö",
                 "hu": "Länsresidenset Malmö",
                 "ro": "Länsresidenset Malmö",
-                "en": "Länsresidenset Malmö"
+                "en": "Länsresidenset Malmö",
+                "sv": "Länsresidenset Malmö"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie ein nahegelegenes Parkhaus, um das Auto warm zu halten; der kurze Spaziergang zum Residenzplatz ist bei frostiger, klarer Luft sehr belebend.",
                 "hu": "Használjon közeli parkolóházat, hogy az autó ne hűljön ki teljesen; a rezidenciához vezető rövid séta a fagyos, tiszta levegőben rendkívül frissítő hatású.",
                 "ro": "Folosiți o parcare etajată din apropiere pentru a menține mașina caldă; scurta plimbare spre rezidență este revigorantă în aerul geroas și curat.",
-                "en": "Use a nearby parking garage to keep the car warmer; the short walk to the residence square is very invigorating in the frosty, clear winter air."
+                "en": "Use a nearby parking garage to keep the car warmer; the short walk to the residence square is very invigorating in the frosty, clear winter air.",
+                "sv": "Använd ett närliggande parkeringshus för att hålla bilen varmare; den korta promenaden till residensets torg är mycket uppfriskande i krispig, klar vinterluft."
               }
             },
             {
@@ -1036,13 +1151,15 @@
                 "de": "Malmö konsthall",
                 "hu": "Malmö konsthall",
                 "ro": "Malmö konsthall",
-                "en": "Malmö konsthall"
+                "en": "Malmö konsthall",
+                "sv": "Malmö konsthall"
               },
               "tip_5lang": {
                 "de": "Die hellen Räume wirken im Winter besonders einladend; lassen Sie Ihre schweren Mäntel im Auto oder nutzen Sie die warme Garderobe der Kunsthalle.",
                 "hu": "A világos terek télen különösen hívogatóak; hagyja a nehéz kabátokat az autóban, vagy használja a műcsarnok fűtött ruhatárát a kényelmes nézelődéshez.",
                 "ro": "Spațiile luminoase sunt foarte primitoare iarna; lăsați hainele grele în mașină sau folosiți garderoba încălzită a galeriei pentru vizită.",
-                "en": "The bright spaces are especially inviting in winter; leave your heavy coats in the car or use the heated cloakroom for a comfortable gallery visit."
+                "en": "The bright spaces are especially inviting in winter; leave your heavy coats in the car or use the heated cloakroom for a comfortable gallery visit.",
+                "sv": "De ljusa rummen är särskilt inbjudande på vintern; lämna dina tunga kappor i bilen eller använd det uppvärmda garderobsutrymmet för ett bekvämt besök i galleriet."
               }
             },
             {
@@ -1050,13 +1167,15 @@
                 "de": "Oscar Olsson-museet",
                 "hu": "Oscar Olsson-museet",
                 "ro": "Oscar Olsson-museet",
-                "en": "Oscar Olsson-museet"
+                "en": "Oscar Olsson-museet",
+                "sv": "Oscar Olsson-museet"
               },
               "tip_5lang": {
                 "de": "Ein gemütlicher Stopp zum Aufwärmen; achten Sie beim Parken in den Seitenstraßen auf Schneehaufen, die Parkplätze oft verkleinern können.",
                 "hu": "Barátságos megálló a felmelegedésre; a mellékutcákban való parkoláskor ügyeljen a hórakásokra, amelyek gyakran leszűkíthetik a szabad helyeket.",
                 "ro": "O oprire primitoare pentru încălzire; la parcarea pe străzile laterale, atenție la mormanele de zăpadă care pot reduce spațiile disponibile.",
-                "en": "A cozy stop to warm up; when parking in side streets, watch out for snow piles that can often reduce the size of available parking spots."
+                "en": "A cozy stop to warm up; when parking in side streets, watch out for snow piles that can often reduce the size of available parking spots.",
+                "sv": "Ett mysigt stopp för att värma sig; när du parkerar i sidogatorna, se upp för snövallar som ofta minskar storleken på tillgängliga parkeringsplatser."
               }
             },
             {
@@ -1064,13 +1183,15 @@
                 "de": "Heliga Trefaldighetskyrkan",
                 "hu": "Heliga Trefaldighetskyrkan",
                 "ro": "Heliga Trefaldighetskyrkan",
-                "en": "Heliga Trefaldighetskyrkan"
+                "en": "Heliga Trefaldighetskyrkan",
+                "sv": "Heliga Trefaldighetskyrkan"
               },
               "tip_5lang": {
                 "de": "Genießen Sie die Stille im dämmrigen Kirchenraum; das Auto ist bereits angenehm vorgeheizt, wenn Sie nach dem kurzen Besuch zurückkehren.",
                 "hu": "Élvezze a csendet a templom félhomályos terében; az autó már kellemesen előmelegített lesz, mire a rövid látogatás után visszatér hozzá.",
                 "ro": "Bucurați-vă de liniște în interiorul bisericii; mașina va fi deja preîncălzită plăcut când vă veți întoarce după scurta vizită la acest obiectiv.",
-                "en": "Enjoy the silence in the dim church interior; the car will be pleasantly pre-heated by the time you return from your brief visit to this site."
+                "en": "Enjoy the silence in the dim church interior; the car will be pleasantly pre-heated by the time you return from your brief visit to this site.",
+                "sv": "Njut av tystnaden i det dunkla kyrkorummet; bilen kommer att vara behagligt förvärmd när du återvänder från ditt korta besök på denna plats."
               }
             },
             {
@@ -1078,13 +1199,15 @@
                 "de": "Sankt Matteus kyrka",
                 "hu": "Sankt Matteus kyrka",
                 "ro": "Sankt Matteus kyrka",
-                "en": "Sankt Matteus kyrka"
+                "en": "Sankt Matteus kyrka",
+                "sv": "Sankt Matteus kyrka"
               },
               "tip_5lang": {
                 "de": "Das beleuchtete Gebäude bietet einen festlichen Abschluss der Tour; prüfen Sie die Scheibenwaschanlage auf ausreichend Frostschutz für die Heimfahrt.",
                 "hu": "A kivilágított épület ünnepi lezárást ad a túrának; ellenőrizze a szélvédőmosó fagyállóságát a hazaút előtt a biztonságos látási viszonyokért.",
                 "ro": "Clădirea iluminată oferă o încheiere festivă a turului; verificați nivelul antigelului de la parbriz înainte de drumul spre casă prin orașul înghețat.",
-                "en": "The illuminated building provides a festive conclusion to the tour; check your windshield fluid for sufficient antifreeze before the winter drive home."
+                "en": "The illuminated building provides a festive conclusion to the tour; check your windshield fluid for sufficient antifreeze before the winter drive home.",
+                "sv": "Den upplysta byggnaden ger en festlig avslutning på rundturen; kontrollera att din spolarvätska har tillräckligt med frostskydd innan vinterfärden hem."
               }
             }
           ]
