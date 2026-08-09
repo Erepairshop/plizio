@@ -83,7 +83,16 @@ export function extraLangsFor(poi: { parent?: string; frLong?: boolean; trLong?:
     netherlands: "nl", "czech-republic": "cs", slovakia: "sk", denmark: "da",
     sweden: "sv", finland: "fi", greece: "el", bulgaria: "bg",
   };
-  const countryId = poi.parent ? getCountryIdStrict(poi.parent) : null;
+  // Do not call getCountryIdStrict() here: extraLangsFor() runs while the
+  // POI slug index is being initialized, before the resolver's late indexes.
+  const nativePrefixes: Record<string, string> = {
+    "czech-republic": "CZ", slovakia: "SK", denmark: "DK", sweden: "SE",
+    finland: "FI", greece: "GR", bulgaria: "BG", netherlands: "NL",
+  };
+  const countryId = Object.keys(nativeByCountry).find((id) => {
+    const prefix = nativePrefixes[id];
+    return poi.parent === id || parentRegion?.parent === id || Boolean(prefix && poi.parent?.startsWith(`${prefix}-`));
+  });
   const nativeLang = countryId ? nativeByCountry[countryId] : undefined;
   if (nativeLang) extras.push(nativeLang);
   return extras;
