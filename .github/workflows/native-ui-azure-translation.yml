@@ -18,8 +18,8 @@ permissions:
   contents: write
 
 concurrency:
-  group: native-ui-${{ inputs.language_code }}
-  cancel-in-progress: false
+  group: native-ui-translation
+  cancel-in-progress: true
 
 jobs:
   translate:
@@ -78,6 +78,7 @@ jobs:
         env:
           LANG_CODE: ${{ inputs.language_code }}
           LANG_NAME: ${{ inputs.language_name }}
+          HUSKY: 0
         run: |
           set -euo pipefail
           git config user.name "plizio-translation-bot"
@@ -88,10 +89,8 @@ jobs:
             exit 0
           fi
           git commit -m "feat(i18n): add $LANG_NAME POI interface copy"
-          # --autostash: the persistent runner checkout carries unstaged out/
-          # deletions from the post-job cleanup hook. The rebase itself matters
-          # because more than one agent pushes to this branch.
-          git pull --rebase --autostash origin ${GITHUB_REF_NAME}
+          # --ff-only keeps the history linear and avoids rebase conflicts.
+          git pull --ff-only origin ${GITHUB_REF_NAME}
           git push origin HEAD:${GITHUB_REF_NAME}
 
       - uses: actions/upload-artifact@v4
